@@ -1,0 +1,91 @@
+import { notFound } from "next/navigation";
+import Link from "next/link";
+import type { Metadata } from "next";
+import { categories } from "@/data/categories";
+import { curatedProducts } from "@/data/curated-products";
+import { ProductGrid } from "@/components/products/ProductGrid";
+
+interface Props {
+  params: Promise<{ slug: string }>;
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = await params;
+  const category = categories.find((c) => c.slug === slug);
+  if (!category) return { title: "Categoría no encontrada" };
+
+  return {
+    title: category.h1 || category.name,
+    description: category.description || `Los mejores productos de ${category.name} en MercadoLibre Argentina.`,
+  };
+}
+
+export default async function CategoryPage({ params }: Props) {
+  const { slug } = await params;
+  const category = categories.find((c) => c.slug === slug);
+
+  if (!category) {
+    notFound();
+  }
+
+  const products = curatedProducts.filter(
+    (p) => p.categorySlug === slug
+  );
+
+  const relatedCategories = categories.filter(
+    (c) => c.slug !== slug && !c.isSpecial
+  );
+
+  return (
+    <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8 space-y-8">
+      {/* Category hero */}
+      <div
+        className="rounded-[var(--radius-card)] p-6 md:p-10"
+        style={{
+          background: category.isSpecial
+            ? "linear-gradient(135deg, #fce7f3, #fee2e2)"
+            : category.pastel,
+        }}
+      >
+        <h1
+          className="text-2xl md:text-3xl font-extrabold text-[#111] leading-tight"
+          style={{ fontFamily: "var(--font-display)" }}
+        >
+          {category.h1 || category.name}
+        </h1>
+        {category.description && (
+          <p className="mt-2 text-sm md:text-base text-[#111]/60">
+            {category.description}
+          </p>
+        )}
+      </div>
+
+      <ProductGrid
+        products={products.length > 0 ? products : curatedProducts.slice(0, 8)}
+        title={products.length > 0 ? undefined : "Productos destacados"}
+        subtitle={products.length === 0 ? "Todavía no hay productos en esta categoría. Mirá estos:" : undefined}
+      />
+
+      {/* Related categories */}
+      <section>
+        <h2
+          className="text-lg font-bold text-[var(--text-primary)] mb-4"
+          style={{ fontFamily: "var(--font-display)" }}
+        >
+          Otras categorías
+        </h2>
+        <div className="flex flex-wrap gap-2">
+          {relatedCategories.map((cat) => (
+            <Link
+              key={cat.slug}
+              href={`/categoria/${cat.slug}`}
+              className="px-4 py-2 text-sm rounded-[var(--radius-pill)] bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:bg-[var(--border)] transition-colors"
+            >
+              {cat.name}
+            </Link>
+          ))}
+        </div>
+      </section>
+    </div>
+  );
+}
