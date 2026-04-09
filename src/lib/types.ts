@@ -41,3 +41,45 @@ export interface Category {
   isSpecial?: boolean;
   color?: string;
 }
+
+// ML API response types
+
+export interface MLItem {
+  id: string;
+  title: string;
+  price: number;
+  original_price: number | null;
+  currency_id: string;
+  thumbnail: string;
+  pictures: Array<{
+    id: string;
+    url: string;
+    secure_url: string;
+    size: string;
+    max_size: string;
+  }>;
+  permalink: string;
+  condition: string;
+  shipping: { free_shipping: boolean };
+  sold_quantity: number;
+  category_id: string;
+  status: string;
+  available_quantity: number;
+  initial_quantity: number;
+  attributes: Array<{
+    id: string;
+    name: string;
+    value_name: string | null;
+  }>;
+}
+
+export interface MLCategory {
+  id: string;
+  name: string;
+  path_from_root: Array<{ id: string; name: string }>;
+}
+
+export interface MLReviews {
+  rating_average: number;
+  total: number;
+}
