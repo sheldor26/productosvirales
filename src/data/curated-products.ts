@@ -650,7 +650,7 @@ No tiene mucho sentido comprarlo si solo cocinás salsas de vez en cuando o si y
       'https://http2.mlstatic.com/D_Q_NP_731202-MLA80078042718_102024-R.webp',
       'https://http2.mlstatic.com/D_Q_NP_789094-MLA80333740945_102024-R.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/mezclador-revolvedor-automatico-de-ollas-sopas-salsas-sarten/up/MLAU2631146943',
     affiliateUrl: 'https://meli.la/2ixGJrE',
@@ -658,8 +658,105 @@ No tiene mucho sentido comprarlo si solo cocinás salsas de vez en cuando o si y
     freeShipping: true,
     rating: undefined,
     soldQuantity: 5,
+    tiktokViews: '3.5M',
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Mezclador electrónico de sopas y salsas a prueba de agua y salpicaduras de 3 velocidades ideal para cocinar  ESPECIFICACIONES  - Color: Blanco + Negro - Material: TPE, PP, de acero inoxidable, de silicona - Tamaño: 19x4 CM (H x W) - Autonomia de hasta 4 horas - Funciona con 4 baterias AA - no inclui',
+    description: 'Revolvedor automático de ollas con 3 velocidades y hasta 4 horas de autonomía con 4 pilas AA. Brazos de acero inoxidable que van dentro de la olla. Resistente a salpicaduras. Para sopas, salsas y sartenes.',
+    pros: [
+      '3 velocidades seleccionables (baja, media, alta)',
+      'Hasta 4 horas de autonomía con pilas AA',
+      'Brazos de acero inox van dentro de la preparación',
+      'Envío gratis',
+      'Resistente a salpicaduras de agua y vapor',
+    ],
+    cons: [
+      'Pilas AA no incluidas — comprar aparte',
+      'Garantía de solo 30 días — marca genérica',
+      'No apto para preparaciones muy espesas tipo masa',
+    ],
+    verdict: 'Los brazos de acero van directo dentro de la olla, mezclando desde el fondo. 3 velocidades y 4 horas de autonomía con pilas. Para uso ocasional cumple perfecto. Si lo vas a usar todos los días, considerá el Gadnic Mixer que tiene 12 meses de garantía.',
+    seoTitle: 'Revolvedor Automático de Ollas 3 Velocidades — 4hs con Pilas AA',
+    metaDescription: 'Revolvedor automático con 3 velocidades, hasta 4 horas de autonomía con 4 pilas AA. Brazos de acero inox, apto para sopas, salsas y sartenes. Resistente al agua.',
+    ogTitle: 'Revolvedor automático 3 velocidades — 4 horas con pilas AA',
+    ogDescription: 'Brazos de acero inox que mezclan adentro de la olla. 3 velocidades, sopas y salsas sin estar parado al lado. Ver precio en ML →',
+    h1: 'Revolvedor automático de ollas con 3 velocidades — hasta 4 horas de autonomía',
+    articleBody: `La diferencia principal entre este revolvedor y otros que viste es el mecanismo: los brazos de acero inoxidable van directamente dentro de la olla, en contacto con la preparación. No son patas que se apoyan en el borde — son alambres que trabajan adentro del líquido, mezclando desde el fondo. Eso funciona bien para sopas y salsas espesas donde necesitás que el movimiento llegue a la base.
+
+Tiene 3 velocidades seleccionables. Baja para salsas delicadas o leche caliente, media para sopas con ingredientes, alta para mezclar más rápido al principio cuando la preparación todavía está fría. La autonomía declarada es de hasta 4 horas con 4 pilas AA, que es bastante — varios días de uso normal antes de cambiarlas.
+
+## Cómo funciona
+
+El motor está en la parte negra superior. La parte blanca del medio es el compartimiento de baterías y el selector de velocidad. Los brazos de acero inox salen hacia abajo y terminan con pequeños pies de TPE y silicona que actúan como la paleta de mezcla.
+
+El conjunto se apoya en el borde de la olla con los brazos colgando hacia adentro. No está sumergido completo — el motor y las baterías quedan fuera del agua. Lo que sí es resistente a salpicaduras es la parte que está en contacto con el vapor y el líquido.
+
+Mide 19cm de alto y 4cm de ancho — entra en la mayoría de las ollas domésticas estándar.
+
+## Para qué preparaciones sirve
+
+Sopas caldosas, salsas de tomate, bechamel, aderezos calientes. También funciona para mezclar en sartenes con algo de profundidad — no en sartenes planas donde no hay suficiente líquido para que los brazos trabajen.
+
+Para preparaciones muy espesas como guisos o pastas con mucha proteína, el torque puede no ser suficiente. Este tipo de revolvedor funciona mejor con líquidos y semi-líquidos.
+
+## Lo que hay que tener en cuenta
+
+Las pilas AA no vienen incluidas. Necesitás 4 para que funcione. El rendimiento va a depender de la calidad de las pilas — con pilas genéricas probablemente no llegás a las 4 horas declaradas; con alcalinas de buena marca sí.
+
+La garantía es de 30 días. Es un producto sin marca reconocida, así que la garantía corta es lo esperable. Para protegerte, revisá la reputación del vendedor en ML antes de comprar.
+
+## Diferencias con el Gadnic Mixer 360°
+
+Si estás comparando entre este y el Gadnic: el Gadnic tiene 12 meses de garantía y es marca argentina con servicio técnico local — eso vale para uso frecuente. Este revolvedor tiene 3 velocidades seleccionables (el Gadnic no especifica) y los brazos de acero van adentro de la olla, lo cual puede funcionar mejor en preparaciones con más volumen de líquido. Para uso ocasional o si el precio importa, este cumple. Para uso diario, la garantía del Gadnic marca la diferencia.`,
+    specs: [
+      { label: 'Velocidades', value: '3 (baja / media / alta)' },
+      { label: 'Autonomía', value: 'Hasta 4 horas' },
+      { label: 'Baterías', value: '4 × AA (no incluidas)' },
+      { label: 'Dimensiones', value: '19 × 4 cm' },
+      { label: 'Materiales', value: 'TPE, PP, acero inox, silicona' },
+      { label: 'Resistencia', value: 'Salpicaduras (no sumersión)' },
+      { label: 'Garantía', value: '30 días' },
+    ],
+    faq: [
+      {
+        question: '¿Las pilas vienen incluidas?',
+        answer: 'No. Necesitás comprar 4 pilas AA por separado. Se recomienda usar alcalinas de buena marca para aprovechar la autonomía declarada de 4 horas.',
+      },
+      {
+        question: '¿Se puede meter completamente en el agua?',
+        answer: 'No. Es resistente a salpicaduras, no sumergible. El motor y el compartimiento de baterías tienen que quedar fuera del líquido.',
+      },
+      {
+        question: '¿Funciona en sartenes?',
+        answer: 'Sí, si la sartén tiene suficiente profundidad para que los brazos trabajen. No sirve en sartenes planas o con muy poco líquido.',
+      },
+      {
+        question: '¿Cuántas velocidades tiene?',
+        answer: '3 velocidades: baja, media y alta. El selector está en la parte blanca del cuerpo.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: '30 días de garantía de fábrica. Producto sin marca, así que verificá la reputación del vendedor en ML antes de comprar.',
+      },
+      {
+        question: '¿Es compatible con inducción?',
+        answer: 'El revolvedor en sí es compatible con cualquier tipo de cocción — no tiene contacto con la placa. La compatibilidad con inducción depende de la olla, no del mezclador.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Mezclador Revolvedor Automático de Ollas 3 Velocidades',
+      description: 'Revolvedor automático de ollas con 3 velocidades y hasta 4 horas de autonomía con 4 pilas AA. Brazos de acero inoxidable que van dentro de la olla. Resistente a salpicaduras. Para sopas, salsas y sartenes. Dimensiones: 19 × 4 cm.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2ixGJrE',
+        priceCurrency: 'ARS',
+        price: 30995,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+    },
   },
   {
     id: 'MLA3446177644',
