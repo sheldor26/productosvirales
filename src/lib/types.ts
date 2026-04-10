@@ -22,6 +22,16 @@ export interface Product {
   cons?: string[];
   verdict?: string;
   description?: string;
+  // ─── SEO & Content ───
+  seoTitle?: string;
+  metaDescription?: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  h1?: string;
+  articleBody?: string;
+  faq?: Array<{ question: string; answer: string }>;
+  specs?: Array<{ label: string; value: string }>;
+  structuredData?: Record<string, unknown>;
 }
 
 export interface TrendingKeyword {

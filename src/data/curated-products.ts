@@ -30,8 +30,99 @@ export const curatedProducts: Product[] = [
     freeShipping: false,
     rating: undefined,
     soldQuantity: undefined,
+    tiktokViews: '8M+',
+    badge: 'hot-deal',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Conservá tus alimentos frescos por más tiempo con esta bomba selladora al vacío portátil. Ideal para uso doméstico, permite sellar bolsas de manera rápida y sencilla.',
+    description: 'Conservá tus alimentos frescos por más tiempo con esta bomba selladora al vacío portátil. Ideal para uso doméstico, permite sellar bolsas de manera rápida y sencilla, evitando la oxidación y prolongando la vida útil de carnes, verduras y otros productos.',
+    pros: [
+      '35% de descuento — de $32.999 a $21.450',
+      'Portátil y recargable — ideal para llevar de viaje',
+      'Conserva alimentos frescos hasta 5x más tiempo',
+      'Incluye 2 bolsas de sellado al vacío',
+      'Pesa solo 300g y mide 14cm — entra en cualquier cajón',
+    ],
+    cons: [
+      'Las bolsas de repuesto se compran aparte',
+      'No sirve para líquidos calientes directamente',
+      'Marca genérica — no es primera marca',
+    ],
+    verdict: 'El gadget de meal prep que explotó en TikTok. Ideal para conservar alimentos, marinar carne en minutos y organizar el freezer. Con 35% OFF es compra impulsiva asegurada.',
+    seoTitle: 'Selladora al Vacío Portátil — Conservá Alimentos Mucho Más Tiempo',
+    metaDescription: 'Selladora al vacío portátil y recargable para casa o viaje. Sellá carnes, quesos y verduras en segundos. 300g, 14cm, incluye 2 bolsas. Envío a todo el país.',
+    ogTitle: 'Selladora al vacío portátil — la viste en TikTok, la comprás acá',
+    ogDescription: 'Sellar al vacío en segundos. Carne que dura 10 días, verduras que llegan al fin de semana. Portátil, recargable, 300g. Ver precio en MercadoLibre →',
+    h1: 'Bomba selladora al vacío portátil — dejá de tirar comida a la basura',
+    articleBody: `La verdad es simple: la comida se echa a perder antes de tiempo porque el oxígeno la arruina. Esta bomba de sellado al vacío extrae el aire de la bolsa en segundos y el proceso básicamente frena ese reloj. Carne que duraría 3 días en la heladera te dura 10. Verduras que se marchitarían el martes llegan al fin de semana en buen estado.
+
+Y sí, la viste en TikTok. Pero funciona.
+
+## Qué hace exactamente
+
+Colocás los alimentos en una bolsa especial para vacío, apoyás la bomba sobre la válvula y apretás el botón. En unos pocos segundos extrae todo el aire y sella. No hay cable de 220V, no hay máquina enchufada en la mesada. Pesa 300 gramos y mide 14cm — entra en cualquier cajón de cocina.
+
+La diferencia con los selladores tipo "tijera térmica" que ya existen es que estos sellan la bolsa pero dejan el aire adentro. El vacío es lo que realmente preserva.
+
+## Para qué alcanza (y para qué no)
+
+Funciona muy bien con carnes, fiambres, quesos, frutas y verduras, café, especias, y sobrantes de comida cocida. Para congelar caldos o sopas hay que enfriarlos primero y poner las bolsas en horizontal — si metés líquido caliente directo, la bomba no puede hacer bien su trabajo.
+
+También sirve para alimentos secos a temperatura ambiente. Café, nueces, galletitas — todo aguanta mucho más si no tiene aire adentro.
+
+## Cómo usarla
+
+1. Cargala antes del primer uso (entra por USB).
+2. Poné los alimentos en la bolsa dejando 5cm libres arriba.
+3. Apoyá la boquilla de la bomba sobre la válvula de la bolsa.
+4. Presioná el botón hasta que salga todo el aire.
+5. Guardá en heladera o freezer.
+
+Limpiá la boquilla con un trapo seco cada tanto para mantener la succión al máximo.`,
+    specs: [
+      { label: 'Voltaje', value: '12V (recargable)' },
+      { label: 'Material', value: 'Plástico ABS' },
+      { label: 'Modo', value: 'Sellado al vacío' },
+      { label: 'Bolsas incluidas', value: '2 unidades' },
+      { label: 'Dimensiones', value: '7 × 14 × 7 cm' },
+      { label: 'Peso', value: '300g' },
+      { label: 'Garantía', value: '6 meses de fábrica' },
+    ],
+    faq: [
+      {
+        question: '¿Cuánto duran los alimentos con sellado al vacío?',
+        answer: 'Depende del alimento. Las carnes pasan de 3-5 días a hasta 2 semanas en heladera. Las verduras de 2-3 días a casi una semana. Los fiambres y quesos pueden durar hasta 3 semanas sin perder sabor ni textura.',
+      },
+      {
+        question: '¿Sirve cualquier bolsa o necesito una especial?',
+        answer: 'Necesitás bolsas específicas para sellado al vacío con válvula de extracción. Las genéricas de freezer no tienen válvula y la bomba no puede sellarlas. En MercadoLibre encontrás repuestos de todos los tamaños.',
+      },
+      {
+        question: '¿Funciona sin estar enchufada?',
+        answer: 'Sí. Es recargable — la cargás una vez por USB y la usás donde quieras. Ideal para llevar al trabajo o a la casa de fin de semana.',
+      },
+      {
+        question: '¿Se puede usar con líquidos?',
+        answer: 'No directamente. Para caldos o sopas, primero enfriá el líquido hasta que esté sólido o semisólido, y poné la bolsa en horizontal cuando la sellés.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: '6 meses de garantía de fábrica. Si tiene algún defecto de fabricación, el vendedor lo resuelve.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Bomba Selladora al Vacío Portátil Para Alimentos',
+      description: 'Selladora al vacío portátil y recargable. Extrae el aire de bolsas especiales en segundos, prolongando la vida útil de carnes, verduras y otros alimentos. 300g, 14cm de alto, incluye 2 bolsas.',
+      brand: { '@type': 'Brand', name: 'Genérico' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/198LAYm',
+        priceCurrency: 'ARS',
+        price: 21450,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+    },
   },
   {
     id: 'MLA3807310356',

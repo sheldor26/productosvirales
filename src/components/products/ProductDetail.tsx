@@ -84,7 +84,7 @@ export function ProductDetail({ product }: ProductDetailProps) {
             className="text-xl md:text-2xl font-bold text-[var(--text-primary)] leading-tight"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            {product.title}
+            {product.h1 || product.title}
           </h1>
 
           {product.badge && (
@@ -206,6 +206,135 @@ export function ProductDetail({ product }: ProductDetailProps) {
           </div>
         </motion.div>
       </div>
+
+      {/* ─── Article body ─── */}
+      {product.articleBody && (
+        <motion.article
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4, delay: 0.3 }}
+          className="mt-10 max-w-3xl"
+        >
+          <div className="prose prose-sm max-w-none text-[var(--text-secondary)]">
+            {product.articleBody.split('\n\n').map((block, i) => {
+              if (block.startsWith('## ')) {
+                return (
+                  <h2
+                    key={i}
+                    className="text-lg font-bold text-[var(--text-primary)] mt-8 mb-3"
+                    style={{ fontFamily: 'var(--font-display)' }}
+                  >
+                    {block.replace('## ', '')}
+                  </h2>
+                );
+              }
+              // Ordered list (lines starting with "1. ", "2. ", etc.)
+              if (/^\d+\.\s/.test(block)) {
+                const items = block.split('\n').filter(Boolean);
+                return (
+                  <ol key={i} className="list-decimal list-inside space-y-1.5 my-4 text-sm leading-relaxed">
+                    {items.map((item, j) => (
+                      <li key={j}>{item.replace(/^\d+\.\s/, '')}</li>
+                    ))}
+                  </ol>
+                );
+              }
+              return (
+                <p key={i} className="text-sm leading-relaxed mb-4">
+                  {block}
+                </p>
+              );
+            })}
+          </div>
+        </motion.article>
+      )}
+
+      {/* ─── Specs table ─── */}
+      {product.specs && product.specs.length > 0 && (
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4, delay: 0.35 }}
+          className="mt-8 max-w-3xl"
+        >
+          <h2
+            className="text-lg font-bold text-[var(--text-primary)] mb-4"
+            style={{ fontFamily: 'var(--font-display)' }}
+          >
+            Especificaciones
+          </h2>
+          <div className="rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden">
+            <table className="w-full text-sm">
+              <tbody>
+                {product.specs.map((spec, i) => (
+                  <tr
+                    key={spec.label}
+                    className={i % 2 === 0 ? 'bg-[var(--bg-secondary)]' : 'bg-[var(--bg-primary)]'}
+                  >
+                    <td className="px-4 py-2.5 font-medium text-[var(--text-primary)] w-[40%]">
+                      {spec.label}
+                    </td>
+                    <td className="px-4 py-2.5 text-[var(--text-secondary)]">
+                      {spec.value}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </motion.div>
+      )}
+
+      {/* ─── FAQ ─── */}
+      {product.faq && product.faq.length > 0 && (
+        <motion.section
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4, delay: 0.4 }}
+          className="mt-8 max-w-3xl"
+        >
+          <h2
+            className="text-lg font-bold text-[var(--text-primary)] mb-4"
+            style={{ fontFamily: 'var(--font-display)' }}
+          >
+            Preguntas frecuentes
+          </h2>
+          <div className="space-y-4">
+            {product.faq.map((item) => (
+              <details
+                key={item.question}
+                className="group rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden"
+              >
+                <summary className="flex items-center justify-between px-4 py-3 cursor-pointer text-sm font-medium text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors">
+                  {item.question}
+                  <ChevronRight
+                    size={16}
+                    className="shrink-0 transition-transform group-open:rotate-90"
+                  />
+                </summary>
+                <div className="px-4 pb-3 text-sm text-[var(--text-secondary)] leading-relaxed">
+                  {item.answer}
+                </div>
+              </details>
+            ))}
+          </div>
+        </motion.section>
+      )}
+
+      {/* ─── Bottom CTA ─── */}
+      {(product.articleBody || product.faq) && (
+        <div className="mt-8 max-w-3xl flex justify-center">
+          <a
+            href={product.affiliateUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center justify-center gap-2 px-8 py-3 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
+          >
+            Ver precio en MercadoLibre
+            <ExternalLink size={14} />
+          </a>
+        </div>
+      )}
     </div>
   );
 }
