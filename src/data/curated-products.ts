@@ -540,7 +540,7 @@ Enjuague con agua tibia. El acero inoxidable no absorbe olores. No uses esponjas
       'https://http2.mlstatic.com/D_NQ_NP_2X_705238-MLA101431807809_122025-F.webp',
       'https://http2.mlstatic.com/D_Q_NP_705238-MLA101431807809_122025-R.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/mezclador-de-ollas-gadnic-mixer-360-salsas-automatico/up/MLAU3674559257',
     affiliateUrl: 'https://meli.la/246bPFi',
@@ -548,8 +548,93 @@ Enjuague con agua tibia. El acero inoxidable no absorbe olores. No uses esponjas
     freeShipping: false,
     rating: undefined,
     soldQuantity: undefined,
+    tiktokViews: '3.5M',
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: 'El Mezclador de Ollas Gadnic Mixer 360° es la herramienta ideal para quienes buscan simplificar la preparación de salsas y mezclas en la cocina. Su diseño automático permite una mezcla uniforme y eficiente, ahorrando tiempo y esfuerzo en cada receta. Con su capacidad para girar 360 grados, garantiza',
+    description: 'Revolvedor automático de ollas con rotación 360°. Diseñado para salsas, mezclas y aderezos. Tres patas que se apoyan en el borde de la olla. Marca argentina Gadnic con 12 meses de garantía.',
+    pros: [
+      'Rotación 360° — mezcla uniforme sin esfuerzo',
+      'Marca argentina Gadnic con 12 meses de garantía',
+      'Servicio técnico local — no es marca genérica',
+      '18% de descuento — de $40.000 a $32.671',
+      'Se apoya solo en la olla — manos libres total',
+    ],
+    cons: [
+      'No reemplaza batidor de mano para cremas o claras',
+      'Verificar diámetro de olla compatible antes de comprar',
+      'No apto para preparaciones muy espesas tipo masa',
+    ],
+    verdict: 'El gadget que no sabías que necesitabas. Ponelo en la olla, prendelo y hacé otra cosa. Ideal para salsas, polenta y risotto. Los videos de "mirá cómo cocina solo" son virales asegurados. Marca argentina con garantía real.',
+    seoTitle: 'Gadnic Mixer 360° — Revolvedor Automático de Ollas para Salsas',
+    metaDescription: 'El revolvedor automático Gadnic gira 360° solo mientras vos hacés otra cosa. Para salsas, aderezos y mezclas. Compacto, con garantía de 12 meses. Envío a todo el país.',
+    ogTitle: 'El mezclador que revuelve la salsa solo — Gadnic Mixer 360°',
+    ogDescription: 'Ponelo en la olla, prendelo y hacé otra cosa. Revolvedor automático 360°, marca argentina, 12 meses de garantía. Ver precio en ML →',
+    h1: 'Gadnic Mixer 360°: el revolvedor automático que mezcla la salsa mientras hacés otra cosa',
+    articleBody: `Las salsas piden atención constante. Tenés que estar parado al lado de la olla, revolviendo, vigilando que no se pegue. Con el Gadnic Mixer 360° ponés el aparato en la olla, lo prendés y te alejás a hacer otra cosa. El mezclador gira solo, hace un recorrido completo de 360 grados y mantiene la preparación en movimiento sin que vos estés ahí.
+
+Es un revolvedor automático de pie — tiene tres patas que se apoyan en el borde de la olla y una paleta giratoria que va dentro de la preparación. No necesita que lo sostengas ni que lo vigilés.
+
+## Para qué sirve exactamente
+
+Funciona bien en preparaciones que necesitan movimiento constante para no pegarse: salsas de tomate, bechamel, aderezos calientes, leche para infusiones, avena, polenta. También en preparaciones frías que necesitan integración de ingredientes — aderezos, mezclas de repostería liviana.
+
+No reemplaza el batidor de mano para cremas o claras a nieve — para eso necesitás velocidad y fricción específica. Pero para todo lo que es "revolvé a fuego medio durante 20 minutos", este aparato hace exactamente eso sin que tengas que estar ahí parado.
+
+## Diseño y construcción
+
+El cuerpo es de plástico resistente al calor. Las tres patas se ajustan al borde de la olla y mantienen el dispositivo estable durante el movimiento. La paleta giratoria llega al fondo de la olla sin tocar las paredes.
+
+El Gadnic Mixer 360° es una marca argentina con garantía local — eso importa si el producto falla, porque el servicio técnico está en el país.
+
+## Cuándo tiene más sentido comprarlo
+
+Si cocinás salsas frecuentemente y te molesta tener que estar ahí revolviendo — este aparato resuelve eso. También si tenés chicos y no querés que queden solos cerca de la hornalla: el mezclador se encarga del movimiento, vos podés estar cerca sin estar pegado a la olla.
+
+No tiene mucho sentido comprarlo si solo cocinás salsas de vez en cuando o si ya tenés un hábito de cocina que funciona bien. Es un gadget útil, no imprescindible.`,
+    specs: [
+      { label: 'Marca', value: 'Gadnic (Argentina)' },
+      { label: 'Rotación', value: '360° automático' },
+      { label: 'Aplicación', value: 'Ollas con borde estándar' },
+      { label: 'Uso recomendado', value: 'Salsas, mezclas, aderezos' },
+      { label: 'Garantía', value: '12 meses de fábrica' },
+    ],
+    faq: [
+      {
+        question: '¿Para qué tipo de ollas funciona?',
+        answer: 'Se adapta a ollas estándar con borde. Verificá el diámetro mínimo y máximo compatible con el vendedor antes de comprar si tenés ollas muy chicas o muy grandes.',
+      },
+      {
+        question: '¿Es apto para superficies antiadherentes?',
+        answer: 'Depende del material de la paleta — confirmá con el vendedor. Si la paleta es de plástico duro puede rayar superficies antiadherentes con el tiempo.',
+      },
+      {
+        question: '¿Se puede dejar solo en la hornalla?',
+        answer: 'El diseño permite que funcione sin supervisión constante, pero es recomendable estar en la cocina. No lo usés con temperatura máxima sin revisar cada tanto.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: '12 meses de garantía de fábrica Gadnic — marca argentina con servicio técnico local.',
+      },
+      {
+        question: '¿Funciona con inducción?',
+        answer: 'Sí, en principio — el mezclador no tiene contacto con la superficie de cocción. Verificá la compatibilidad de la olla, no del mezclador.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Mezclador de Ollas Gadnic Mixer 360° Automático para Salsas',
+      description: 'Revolvedor automático de ollas con rotación 360°. Diseñado para salsas, mezclas y aderezos. Tres patas que se apoyan en el borde de la olla. Marca argentina Gadnic con 12 meses de garantía.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/246bPFi',
+        priceCurrency: 'ARS',
+        price: 32671,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+    },
   },
   {
     id: 'MLA2631146943',
