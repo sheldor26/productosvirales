@@ -138,7 +138,7 @@ Limpiá la boquilla con un trapo seco cada tanto para mantener la succión al m�
       'https://http2.mlstatic.com/D_NQ_NP_2X_977539-MLA107446951951_022026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_750904-MLA107446981467_022026-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/sellador-bolsas-al-vacio-portatil-multifuncion-recargable/up/MLAU3807310356',
     affiliateUrl: 'https://meli.la/1vJbiy2',
@@ -146,8 +146,108 @@ Limpiá la boquilla con un trapo seco cada tanto para mantener la succión al m�
     freeShipping: false,
     rating: undefined,
     soldQuantity: 1,
+    badge: 'hot-deal',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Sellador de bolsas al vacío portátil multifunción recargable, diseñado como dispositivo compacto que extrae el aire y sella bolsas especiales para conservar alimentos de forma hermética y prolongar su duración.  Sirve para guardar alimentos secos o húmedos manteniendo su frescura por más tiempo, evi',
+    description: 'Sellador de bolsas al vacío portátil multifunción recargable HB521. No solo extrae el aire — también sella la bolsa con calor. Pantalla digital, carga USB-C, diseño magnético para heladera. Compatible con bolsas en rollo y bolsas con válvula. Incluye 5 bolsas.',
+    pros: [
+      'Multifunción: vacío + sellado térmico + inflado',
+      'Pantalla digital LED con 4 modos de uso',
+      'USB-C carga rápida — sin pilas',
+      'Imán integrado para pegar en la heladera',
+      'Compatible con bolsas en rollo (las más baratas)',
+    ],
+    cons: [
+      'Marca genérica — no es primera marca',
+      'No sirve para líquidos calientes directamente',
+      'Garantía de 90 días (no 6 meses)',
+    ],
+    verdict: 'La diferencia con una bomba de vacío simple es que esta también termosella. Podés usar bolsas en rollo — las más baratas del mercado — en vez de bolsas con válvula. El imán en la heladera es un detalle que hace que la uses todos los días.',
+    seoTitle: 'Selladora al Vacío Multifunción HB521 — Sellá, Guardá y Ahorrá',
+    metaDescription: 'Selladora al vacío portátil con sellado térmico, pantalla digital y carga USB-C. Multifunción: vacía, sella e infla. Incluye 5 bolsas. Se adhiere a la heladera.',
+    ogTitle: 'Selladora al vacío multifunción — carnicería en casa, tamaño de bolsillo',
+    ogDescription: 'Extrae el aire y termosella cualquier bolsa. Pantalla digital, USB-C, se pega a la heladera con imán. Incluye 5 bolsas. Ver precio →',
+    h1: 'Sellador de bolsas al vacío multifunción — no es solo una bomba, es una selladora completa',
+    articleBody: `La diferencia con otras selladoras al vacío que ves en TikTok es esta: el HB521 no solo extrae el aire — también sella la bolsa con calor. Eso significa que podés usar rollo de bolsa sin válvula, cortás el tamaño que necesitás, y la máquina hace todo el trabajo: succiona el aire y termosella el borde. Sin válvulas, sin accesorios extra, sin bolsas de un solo tamaño.
+
+Es el tipo de sellado al vacío que hacen las carnicerías y las tiendas de fiambrería. Acá lo tenés en un dispositivo de 194mm que carga por USB-C y se pega a la heladera con imán.
+
+## Cómo funciona exactamente
+
+Metés el alimento en la bolsa, introducís el extremo abierto en la ranura frontal de la máquina, y apretás. El modo "Vacío" succiona el aire; el modo "Sello" termosella el borde con calor. También podés usar solo el sellado térmico sin vacío si querés cerrar bolsas de snacks, o solo la succión si usás bolsas con válvula tipo zip.
+
+La pantalla digital en el lateral izquierdo muestra el modo activo. Los botones son: encendido, Vacío, Punto (sellado puntual) y Sellarlo. Hay un modo de bloqueo para no activarla de casualidad.
+
+## Para qué lo usan
+
+Carnes, pescados, embutidos y quesos son los usos más comunes. También funciona bien con frutas cortadas, verduras, café en grano, frutos secos y comidas preparadas. Para líquidos, la misma precaución de siempre: enfriá primero y sellá en horizontal.
+
+Lo que la diferencia de una bomba portátil es que acá podés usar bolsas estándar de vacío en rollo — las más baratas del mercado — en lugar de bolsas con válvula que son más caras y de tamaño fijo.
+
+## Cómo guardarlo
+
+Lo que me parece bien resuelto en este modelo es el imán. La mayoría de las selladoras terminan en un cajón o en algún rincón de la alacena y no las usás nunca. Con el imán al costado de la heladera está a mano y la usás. Ese detalle hace bastante diferencia en el uso real.
+
+## Cómo hacer el primer sellado
+
+1. Cargala completa por USB-C antes de usar.
+2. Si usás rollo: cortá el largo que necesitás, sellá un extremo primero con el modo "Sellarlo".
+3. Meté el alimento, dejá 5-6cm libres en el extremo abierto.
+4. Introducí ese extremo en la ranura frontal.
+5. Presioná "Vacío" hasta que extraiga todo el aire, después "Sellarlo" para cerrar.
+6. Guardá en heladera o freezer.`,
+    specs: [
+      { label: 'Modelo', value: 'HB521' },
+      { label: 'Dimensiones', value: '194 × 53 × 44 mm' },
+      { label: 'Carga', value: 'USB-C carga rápida' },
+      { label: 'Display', value: 'Pantalla digital LED' },
+      { label: 'Modos', value: 'Vacío / Punto / Sellarlo / Bloqueo' },
+      { label: 'Montaje', value: 'Magnético (se adhiere a heladera)' },
+      { label: 'Bolsas incluidas', value: '5 unidades' },
+      { label: 'Compatible con', value: 'Bolsas en rollo + bolsas con válvula + contenedores' },
+      { label: 'Garantía', value: '90 días' },
+    ],
+    faq: [
+      {
+        question: '¿Cuál es la diferencia con una bomba de vacío portátil?',
+        answer: 'La bomba de vacío extrae aire de bolsas que ya tienen válvula incorporada. Este sellador también extrae aire, pero además termosella el borde de cualquier bolsa de vacío estándar en rollo. Más versátil, compatible con bolsas más baratas.',
+      },
+      {
+        question: '¿Necesito comprar bolsas especiales?',
+        answer: 'Funciona con bolsas de vacío estándar en rollo (las más económicas del mercado), bolsas con válvula tipo zip, y contenedores con válvula. Las bolsas en rollo son las más fáciles de conseguir en ML.',
+      },
+      {
+        question: '¿Se puede usar con líquidos?',
+        answer: 'No directamente. Para caldos o sopas, enfriá hasta que estén sólidos o semi-sólidos, después sellá en posición horizontal.',
+      },
+      {
+        question: '¿Se cae el imán?',
+        answer: 'El imán es para guardarla en la heladera cuando no la usás, no para usarla colgada. Lo mantiene a mano sin ocupar mesada.',
+      },
+      {
+        question: '¿Cuántas bolsas incluye?',
+        answer: 'Trae 5 bolsas para empezar. Después se consiguen repuestos de rollo o bolsas individuales en MercadoLibre sin problema.',
+      },
+      {
+        question: '¿Funciona para inflar pelotas?',
+        answer: 'Sí, tiene conector externo para inflar pelotas de básquet, globos y flotadores. No es su función principal, pero funciona.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Sellador Bolsas Al Vacío Portátil Multifunción Recargable HB521',
+      description: 'Selladora al vacío portátil con sellado térmico y extracción de aire. Pantalla digital, carga USB-C, diseño magnético para heladera. Compatible con bolsas en rollo y bolsas con válvula. Incluye 5 bolsas.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      model: 'HB521',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1vJbiy2',
+        priceCurrency: 'ARS',
+        price: 23392,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+    },
   },
   {
     id: 'MLA2466154786',
@@ -163,7 +263,7 @@ Limpiá la boquilla con un trapo seco cada tanto para mantener la succión al m�
       'https://http2.mlstatic.com/D_NQ_NP_2X_673980-MLA95507540267_102025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_783717-MLA95507481077_102025-F.webp',
     ],
-    category: 'Electrodomésticos y Aires Ac.',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://articulo.mercadolibre.com.ar/MLA-2466154786-fabricante-de-helados-ice-cream-rolls-maker-_JM',
     affiliateUrl: 'https://meli.la/2r3wBxK',
@@ -171,8 +271,120 @@ Limpiá la boquilla con un trapo seco cada tanto para mantener la succión al m�
     freeShipping: false,
     rating: 4.5,
     soldQuantity: 50,
+    tiktokViews: '12M+',
+    badge: 'viral',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Material táctil apto para uso alimentario. No es necesario enchufarla, por lo que es más segura. Simple y fácil de usar, es perfecta porque hacer todo tipo de helados caseros, cumplir el sueño de tus amigos de tener una cocina grande, aumentar la diversión de cocinar con los niños y hacer que sea má',
+    description: 'Placa de acero inoxidable 304 para hacer helado rolls, yogur batido y granizado en casa. Sin electricidad. Requiere precongelación de 8-12 horas. Incluye 2 espátulas y bowl. 22.5 × 17.5 cm.',
+    pros: [
+      'Contenido ASMR perfecto para TikTok — 12M+ views',
+      'Sin electricidad — más segura para chicos',
+      'Acero inoxidable 304 apto para uso alimentario',
+      'Incluye 2 espátulas + bowl con forma de corazón',
+      'Rating 4.5 estrellas con 14 opiniones reales',
+    ],
+    cons: [
+      'Requiere 8-12 horas de congelación previa',
+      'Máximo 3 tandas por congelación',
+      'No sirve para líquidos — solo bases semi-sólidas',
+    ],
+    verdict: 'Si alguna vez viste el helado turco en un shopping y quisiste hacerlo en casa, esto es exactamente eso. No necesita electricidad, el proceso es un show para los chicos, y los videos son contenido viral asegurado.',
+    seoTitle: 'Fabricante de Helados Rolls en Casa — El Helado Turco Que Viste en TikTok',
+    metaDescription: 'Hacé helado rolls casero como en el mall. Placa de acero inox 304, sin enchufar, incluye 2 espátulas. Yogur, frutas, lo que quieras. 4.5 estrellas.',
+    ogTitle: 'Hacé helado turco en casa — sin electricidad, sin complicaciones',
+    ogDescription: 'La placa de acero que hace helado rolls. 8 horas en el freezer y el show está listo: yogur, frutas, rollos perfectos. 4.5 estrellas en ML. Ver precio →',
+    h1: 'Ice cream rolls maker: el fabricante de helados turco para hacer en casa',
+    articleBody: `Si alguna vez viste uno de esos videos de TikTok donde alguien vierte yogur en una placa helada y lo raspa en rollos perfectos, esto es exactamente eso. La misma técnica que usan los puestos de helado turco en los shoppings — pero en casa, sin enchufar nada, y por una fracción del precio.
+
+La placa va al freezer 8 a 12 horas antes de usar (idealmente a -18°C). Después vertís tu base — yogur, helado derretido, frutas picadas, lo que quieras — sobre la superficie de acero inoxidable 304, mezclás con las espátulas mientras se congela, y raspás en rollos. Toda la magia está en el frío acumulado en la placa.
+
+## Qué hace exactamente y por qué funciona
+
+La placa tiene un sistema de almacenamiento de frío en el interior. Cuando la congelás durante 12 horas, acumula suficiente temperatura para congelar la mezcla en contacto casi instantáneamente. El acero inoxidable 304 conduce el frío de forma pareja — sin zonas más frías ni más calientes — así los rolls salen uniformes.
+
+No tiene motor, no tiene compresor, no se enchufa. Eso también significa que no se puede usar sin el paso previo de congelación. No es una máquina eléctrica: es una placa de cocción en frío. Una vez que lo entendés, el resultado es muy bueno.
+
+## Qué podés hacer con ella
+
+La función principal son los ice cream rolls — vertís la base líquida, la extendés, esperás que se congele y raspás con la espátula formando los tubos. Pero también sirve para helado bocha clásico, granizado, shaved ice, yogur batido congelado, y como bandeja fría para sashimi. Básicamente cualquier cosa que necesite frío intenso.
+
+Para los chicos es un show — el proceso de raspado y armado de los rolls es la mitad del atractivo.
+
+## Cómo usarla paso a paso
+
+1. Poné la placa boca abajo en el freezer, temperatura -18°C o menos.
+2. Dejala mínimo 8 horas — mejor de un día para el otro.
+3. Sacala del freezer y poné la base: yogur, frutas picadas, azúcar, lo que quieras.
+4. Mezclá rápido con las espátulas mientras la mezcla se va congelando.
+5. Extendé en una capa fina y uniforme.
+6. Cuando esté firme, usá la espátula para raspar de adelante hacia atrás formando los rolls.
+7. Servís en el bowl y comés enseguida.
+
+Una placa bien congelada aguanta hasta 3 tandas antes de perder demasiado frío. Para una cuarta, volvés al freezer.
+
+## Limpieza
+
+Enjuague con agua tibia. El acero inox 304 no retiene olores ni manchas. No metas la placa entera en el lavavajillas — la parte de plástico exterior puede deformarse con el calor.`,
+    specs: [
+      { label: 'Tamaño', value: '22.5 × 17.5 cm' },
+      { label: 'Material', value: 'Acero inoxidable 304' },
+      { label: 'Color', value: 'Blanco/plateado' },
+      { label: 'Incluye', value: '2 espátulas + bowl corazón' },
+      { label: 'Alimentación', value: 'Sin electricidad' },
+      { label: 'Pre-congelación', value: '8-12 horas a -18°C' },
+      { label: 'Capacidad', value: 'Hasta 3 porciones continuas' },
+      { label: 'Limpieza', value: 'Enjuague con agua' },
+      { label: 'Garantía', value: '30 días' },
+    ],
+    faq: [
+      {
+        question: '¿Es un fabricante de helados eléctrico?',
+        answer: 'No. Esta placa funciona acumulando frío en el freezer — no tiene motor ni necesita estar enchufada. La ventaja es que es más simple y más barata. La desventaja es que necesita planificación: 8-12 horas de congelación previa.',
+      },
+      {
+        question: '¿Se puede usar sin precongelar?',
+        answer: 'No va a funcionar. El sistema depende del frío acumulado en la placa. Sin esa congelación previa, la mezcla no se endurece y no podés armar los rolls.',
+      },
+      {
+        question: '¿Qué temperatura necesita el freezer?',
+        answer: 'Lo ideal es -18°C o menos. La mayoría de los freezers domésticos llegan a esa temperatura sin problema.',
+      },
+      {
+        question: '¿Sirve solo para helado turco o para otras cosas?',
+        answer: 'Funciona para ice cream rolls, yogur batido congelado, granizado, shaved ice y como bandeja fría para sashimi. Cualquier preparación que necesite frío intenso rápido.',
+      },
+      {
+        question: '¿Qué base puedo usar para los helados rolls?',
+        answer: 'Yogur natural, yogur griego, helado derretido, leche condensada con frutas. Cualquier base semi-líquida que se pueda extender. Agregale frutas picadas, granola o chocolate mientras mezclás.',
+      },
+      {
+        question: '¿Es apta para niños?',
+        answer: 'Sí. El acero inox 304 es apto para uso alimentario y no tiene partes que corten ni se calienten. El proceso es seguro — lo único a tener en cuenta es que la placa sale muy fría del freezer y conviene que los chicos usen las espátulas sin tocar la superficie directamente.',
+      },
+      {
+        question: '¿Cuántas porciones hace?',
+        answer: 'Hasta 3 porciones continuas con una sola congelación. Después la placa sube demasiado de temperatura y hay que volver al freezer.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Fabricante de Helados Ice Cream Rolls Maker',
+      description: 'Placa de acero inoxidable 304 para hacer helado rolls, yogur batido y granizado en casa. Sin electricidad. Requiere precongelación de 8-12 horas. Incluye 2 espátulas y bowl. 22.5 × 17.5 cm.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2r3wBxK',
+        priceCurrency: 'ARS',
+        price: 41999,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '14',
+      },
+    },
   },
   {
     id: 'MLA1572699337',
