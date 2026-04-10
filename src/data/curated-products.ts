@@ -400,7 +400,7 @@ Enjuague con agua tibia. El acero inox 304 no retiene olores ni manchas. No meta
       'https://http2.mlstatic.com/D_NQ_NP_2X_970323-MLA100280122557_122025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_915885-MLA100279982793_122025-F.webp',
     ],
-    category: 'Electrodomésticos y Aires Ac.',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://articulo.mercadolibre.com.ar/MLA-1572699337-fabricante-de-heladosplancha-ice-cream-rolls-maker-machine-_JM',
     affiliateUrl: 'https://meli.la/1EQR4eN',
@@ -408,8 +408,126 @@ Enjuague con agua tibia. El acero inox 304 no retiene olores ni manchas. No meta
     freeShipping: false,
     rating: 4.5,
     soldQuantity: 5,
+    tiktokViews: '12M+',
+    badge: 'viral',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Material táctil apto para uso alimentario. No es necesario enchufarla, lo que la hace más segura. Simple y fácil de usar, es perfecta para hacer todo tipo de helados caseros, cumplir el sueño de tus amigos d, aumentar la diversión de cocinar para los niños y hacer que tu hogar sea más seguro y prote',
+    description: 'Plancha de acero inoxidable 304 para hacer ice cream rolls y granizado en casa. Diseño gatito disponible en rosa y azul. Sin electricidad. Requiere precongelación 10-12 horas. Incluye 2 espátulas. 30 × 22 cm.',
+    pros: [
+      'Diseño gatito en rosa o azul — ideal para chicos y regalos',
+      'Sin electricidad — más segura para fiestas infantiles',
+      'Acero inoxidable 304 apto para uso alimentario',
+      'Tamaño más grande que otras versiones (30 × 22 cm)',
+      'Rating 4.5 estrellas — el proceso es un show para los chicos',
+    ],
+    cons: [
+      'Requiere 10-12 horas de congelación previa',
+      'Máximo 2-3 tandas por congelación',
+      'Solo 2 opiniones todavía — producto nuevo',
+    ],
+    verdict: 'Esta no es la versión "de cocina". Es la que le comprás a los chicos, la que aparece en los TikToks de cumpleaños. Viene en rosa o azul con cara de gatito, pero funciona exactamente igual que cualquier plancha profesional de helado turco.',
+    seoTitle: 'Fabricante de Helados para Niños — Plancha Gatito Ice Cream Rolls',
+    metaDescription: 'Plancha para hacer helado rolls en casa, diseño gatito. Sin electricidad, acero inox 304, rosa o azul. El regalo que los chicos piden después de ver TikTok.',
+    ogTitle: 'La plancha de helado turco para chicos — con cara de gatito, en rosa o azul',
+    ogDescription: 'Fabricante de helados rolls sin electricidad. 10hs en el freezer, 5 min de show, helado turco en casa. Diseño gatito, rosa o azul. Ver precio →',
+    h1: 'Plancha ice cream rolls con diseño gatito — el fabricante de helados que querían los chicos',
+    articleBody: `Esta no es la versión "de cocina". Es la que le comprás a los chicos, la que aparece en los TikToks de cumpleaños, la que viene en rosa o azul con cara de gatito. Pero funciona exactamente igual que cualquier plancha profesional de helado turco — acero inoxidable 304 acumulando frío y congelando la mezcla en cuestión de minutos.
+
+La van a pedir después de ver el video. Y la van a usar de verdad.
+
+## Cómo funciona
+
+El principio es simple y no requiere nada eléctrico. La plancha va al freezer boca abajo durante 10 a 12 horas. Cuando la sacás, la superficie de acero inox está tan fría que congela cualquier líquido casi al instante. Vertís yogur, leche, jugo o lo que quieras, mezclás mientras se congela, y raspás en rolls o granizado con las espátulas.
+
+El resultado visual es exactamente el que ven en TikTok — helado rolls formados en la placa, servidos en un bowl. El proceso tarda unos 5 minutos desde que sacás la placa del freezer hasta que está listo.
+
+## Por qué el diseño importa
+
+La cara de gatito en la parte de arriba de la placa es más que estética — hace que los chicos quieran participar. El proceso de mezclar y raspar lo pueden hacer solos a partir de los 6-7 años (con supervisión para que no toquen la placa directamente con las manos — sale muy fría). En fiestas infantiles, esta placa es el show.
+
+Viene en rosa y azul. El tamaño es 30 × 22 cm — ligeramente más grande que otras versiones y con capacidad para unos 250ml de base.
+
+## Qué se puede preparar
+
+La preparación más fácil es el granizado: vertís jugo, esperás que se congele parcialmente y raspás con la espátula en movimientos circulares. Sale una textura tipo granizado grueso en 3-4 minutos.
+
+Para helado rolls necesitás una base más densa — yogur griego, leche condensada con fruta o leche entera con azúcar. La extendés en la placa, mezclás rápido mientras se congela y raspás de adelante hacia atrás para formar los tubos.
+
+También funciona bien para yogur batido: vertís yogur natural con fruta picada, mezclás hasta que quede cremoso y servís directo en la placa.
+
+## Cómo usarla
+
+1. Poné la placa boca abajo en el freezer a -18°C o menos.
+2. Dejala 10-12 horas — de un día para el otro funciona perfecto.
+3. Sacala del freezer y poné la base sobre la superficie metálica.
+4. Mezclá rápido con las espátulas mientras se va congelando.
+5. Extendé en capa fina cuando empiece a espesarse.
+6. Cuando esté firme, raspá para hacer rolls o granizado.
+7. Servís de inmediato.
+
+Una placa bien fría aguanta 2-3 tandas. Si vas a hacer más, volvés al freezer una hora.
+
+## Limpieza
+
+Enjuague con agua tibia. El acero inoxidable no absorbe olores. No uses esponjas abrasivas ni lavavajillas — el marco de plástico puede deteriorarse con el calor.`,
+    specs: [
+      { label: 'Tamaño', value: '30 × 22 cm' },
+      { label: 'Capacidad', value: '250 ml' },
+      { label: 'Material placa', value: 'Acero inoxidable 304' },
+      { label: 'Marco', value: 'Plástico alimentario' },
+      { label: 'Colores', value: 'Rosa / Azul' },
+      { label: 'Incluye', value: '2 espátulas' },
+      { label: 'Tiempo de preparación', value: '~5 minutos' },
+      { label: 'Pre-congelación', value: '10-12 horas a -18°C' },
+      { label: 'Alimentación', value: 'Sin electricidad' },
+      { label: 'Garantía', value: '30 días' },
+    ],
+    faq: [
+      {
+        question: '¿Es apta para chicos?',
+        answer: 'Sí, con supervisión. El proceso de mezclar y raspar lo pueden hacer solos. Lo único que hay que cuidar es que no toquen la superficie metálica con las manos directamente — sale del freezer muy fría y puede pegarse momentáneamente la piel. Las espátulas incluidas son para eso.',
+      },
+      {
+        question: '¿Es igual a las otras planchas de helado rolls?',
+        answer: 'El principio es el mismo: placa de acero inox precongelada. La diferencia es el diseño redondo con cara de gatito y los colores rosa/azul, que la hacen más orientada a chicos y regalos. Funciona igual de bien.',
+      },
+      {
+        question: '¿Cuánto tiempo hay que precongelarla?',
+        answer: '10 a 12 horas a -18°C. Lo más fácil es ponerla antes de dormir y usarla al día siguiente.',
+      },
+      {
+        question: '¿Qué base queda mejor para los rolls?',
+        answer: 'Yogur griego o leche condensada con fruta. Son bases densas que se congelan parejo y se raspa mejor. Jugos y leche entera también funcionan pero dan más una textura de granizado que de rolls.',
+      },
+      {
+        question: '¿Viene en dos colores?',
+        answer: 'Sí, rosa y azul. Revisá en la publicación cuál tiene stock al momento de la compra.',
+      },
+      {
+        question: '¿Tiene garantía?',
+        answer: '30 días de garantía del vendedor.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Fabricante de Helados Plancha Ice Cream Rolls Maker Diseño Gatito',
+      description: 'Plancha de acero inoxidable 304 para hacer ice cream rolls y granizado en casa. Diseño gatito disponible en rosa y azul. Sin electricidad. Requiere precongelación 10-12 horas. Incluye 2 espátulas. 30 × 22 cm.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      color: 'Rosa / Azul',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1EQR4eN',
+        priceCurrency: 'ARS',
+        price: 37509,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '2',
+      },
+    },
   },
   {
     id: 'MLA3674559257',
