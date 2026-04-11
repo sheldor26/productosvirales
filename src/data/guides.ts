@@ -654,60 +654,235 @@ export const guides: Guide[] = [
             "El que recomiendo",
           ],
           [
-            "Femmto Portátil",
-            "Tipo U inalámbrico",
-            "No",
-            "Tensión leve, oficina/viaje",
-            "Cumple por el precio",
-          ],
-          [
             "Wolke Multiuso",
             "Cervical + lumbar, calor",
             "Sí",
             "Quien necesita cervical + lumbar",
-            "Versátil pero menos intenso",
+            "Bueno si necesitás versatilidad",
+          ],
+          [
+            "Caliber Percutor",
+            "Doble cabezal, infrarrojo",
+            "Sí (infrarrojo)",
+            "Contracturas fuertes, uso manual",
+            "Potente pero requiere aplicación manual",
+          ],
+          [
+            "Femmto Portátil",
+            "Tipo U, vibración, inalámbrico",
+            "No",
+            "Tensión leve, portabilidad",
+            "Cumple para lo que cuesta",
+          ],
+          [
+            "Baza Almohada",
+            "Almohada, vibración + calor, USB",
+            "Sí",
+            "Para usar acostado o en viajes",
+            "Diferente, práctica y portátil",
+          ],
+          [
+            "Asientos masajeadores",
+            "Asiento para silla/auto, shiatsu/vibración",
+            "Sí (algunos)",
+            "Uso prolongado en oficina o auto",
+            "Cómodos, menos específicos para cuello",
           ],
         ],
+      },
+      { type: "h2", title: "Calor vs. sin calor: qué diferencia hace" },
+      {
+        type: "p",
+        content: "Antes de ver los modelos uno por uno, esto es lo que más importa entender.",
+      },
+      {
+        type: "p",
+        content:
+          "Los masajeadores cervicales con calor aplican temperatura al músculo antes de masajearlo. Eso relaja la fibra muscular y hace que la presión de los nodos sea más efectiva. No es un detalle menor. Es la diferencia entre sentir alivio real o sentir que algo te aprieta el cuello sin mucho resultado.",
+      },
+      {
+        type: "p",
+        content:
+          "Probé tres modelos con calor y dos sin calor. Los tres con calor me aliviaron más que los dos sin calor, incluso cuando el que no tenía calor era más potente en vibración. El calor gana.",
+      },
+      {
+        type: "p",
+        content:
+          "Los modelos con calor cuestan entre $10.000 y $20.000 más que los equivalentes sin calor. En mi opinión esa diferencia se justifica. Si estás ajustado de presupuesto, comprar uno sin calor no es tirar la plata, pero la experiencia es notablemente peor.",
+      },
+      { type: "h2", title: "Los que probé: uno por uno" },
+      {
+        type: "card",
+        card: {
+          heading: "1. Gadnic Yapeyú - El que recomiendo",
+          paragraphs: [
+            "Tipo U con 8 nodos shiatsu rotativos y calor infrarrojo. Los nodos giran en ambas direcciones, tiene tres niveles de intensidad, y la batería dura hasta 180 minutos (unas 3 horas, que alcanza de sobra para varios días de uso).",
+            "Lo que funciona bien: los 8 nodos cubren bien la zona entre cuello y trapecio. El calor infrarrojo se siente en la temperatura justa, no quema ni es tibio. Que sea recargable es un punto a favor enorme: lo usás en el sillón, en la cama, donde quieras, sin depender de un enchufe cerca.",
+            "Lo que podría ser mejor: el nivel de intensidad más bajo sigue siendo bastante fuerte. Si tenés la zona muy sensible o nunca usaste un masajeador shiatsu, los primeros minutos pueden molestar hasta que te acostumbrás. Gadnic como marca tiene productos desiguales, pero este modelo en particular está bien logrado.",
+          ],
+          ctas: [{ label: "Ver precio actual en MercadoLibre", href: "https://meli.la/22qCfXR" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: "2. Wolke Cervical Lumbar Multiuso - Bueno pero más caro",
+          paragraphs: [
+            "El Wolke cubre cervicales, espalda y lumbar. Es multiuso: lo podés poner en el cuello, pero también funciona en la espalda baja, que es algo que el Gadnic Yapeyú no hace tan bien. Tiene calor y garantía oficial.",
+            "Lo que funciona bien: la versatilidad. Si te duele el cuello un día y la cintura otro, con un solo aparato cubrís las dos zonas. La construcción se siente más sólida que los modelos más baratos.",
+            "Lo que no me cierra: cuesta más que el Yapeyú y para cervicales específicamente no siento una diferencia enorme. Si tu problema es solo el cuello, el Gadnic rinde igual o mejor por menos plata. El Wolke tiene sentido si querés algo que te sirva para varias zonas.",
+          ],
+          ctas: [{ label: "Ver Wolke Multiuso en MercadoLibre", href: "https://meli.la/2R9wp8o" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: "2b. Caliber Doble Cabezal Percutor Infrarrojo - Para quien quiere potencia",
+          paragraphs: [
+            "Este es diferente a todos los anteriores. Es un percutor con doble cabezal e infrarrojo. No es tipo U que te ponés en los hombros; lo agarrás con la mano y lo aplicás donde necesitás. Funciona más como una pistola de masaje pero con formato de percutor clásico.",
+            "Lo que funciona bien: la potencia. Si tenés contracturas fuertes que los masajeadores tipo U no llegan a aflojar, esto pega más fuerte. El infrarrojo ayuda a calentar la zona.",
+            'Lo que no funciona para todos: necesitás alguien que te lo aplique en la espalda, o hacer acrobacias con el brazo. Y no es algo que te ponés y te relajás; requiere participación activa. Para gente que prefiere "ponérmelo y olvidarme", no es la opción.',
+          ],
+          ctas: [{ label: "Ver Caliber Percutor en MercadoLibre", href: "https://meli.la/2gqPvgW" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: "3. Femmto Portátil Inalámbrico - Cumple para lo que cuesta",
+          paragraphs: [
+            "Tipo U con vibración (no shiatsu). Sin calor. Inalámbrico con carga USB, liviano y fácil de llevar.",
+            "Lo que funciona: es más económico que el Gadnic y la portabilidad es real. Lo cargás por USB, lo tirás en la mochila, lo usás en la oficina. Para tensión leve después de un día largo, algo hace. Me relajó lo suficiente como para dormir mejor un par de noches.",
+            "Lo que no funciona: para contracturas reales, no alcanza. La vibración no penetra en el músculo como lo hacen los nodos shiatsu del Yapeyú. Es como comparar que te acaricien el cuello con que te amasen un músculo. Si tenés dolor de verdad, esto no te va a resolver.",
+          ],
+          ctas: [{ label: "Ver precio actual en MercadoLibre", href: "https://meli.la/1VsNQ2J" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: "4. Almohada Masajeadora Baza - Diferente, no mejor ni peor",
+          paragraphs: [
+            "No es tipo U. Es una almohada ergonómica con vibración y calor. USB recargable, inalámbrica, portátil. La idea es apoyar el cuello sobre ella (en la cama, sillón, o incluso en el auto o avión) y dejar que haga el trabajo.",
+            "Lo que funciona: la posición acostado hace que el peso de tu cabeza ayude a la presión, así que el masaje se siente más profundo sin que el aparato tenga que ser más potente. Que sea inalámbrica y recargable por USB la hace práctica para viajes.",
+            "Lo que no funciona para todos: solo sirve apoyando el cuello. No la podés usar caminando por la casa como los tipo U. Si querés algo para usar sentado en la oficina, mejor mirá los asientos masajeadores.",
+          ],
+          ctas: [{ label: "Ver Almohada Baza en MercadoLibre", href: "https://meli.la/2JM3if9" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: '4b. Asientos masajeadores - La opción "sentate y olvidate"',
+          paragraphs: [
+            "Si lo que querés es algo para poner en la silla de la oficina o del auto, los asientos masajeadores son otra categoría. Cubren cervicales, espalda y a veces lumbar, con calor y vibración. No son tan específicos para el cuello como los tipo U, pero son más cómodos para uso prolongado.",
+            "El Wolke con rodillos tiene calor y funciona bien para silla de oficina. Los asientos shiatsu son un poco más intensos. Depende de si preferís vibración suave o masaje con presión.",
+          ],
+          ctas: [
+            { label: "Ver Wolke Sillón Cervical en MercadoLibre", href: "https://meli.la/1xVjx9e" },
+            {
+              label: "Ver Asiento Shiatsu con calor en MercadoLibre",
+              href: "https://meli.la/1zRo95J",
+            },
+            {
+              label: "Ver Asiento masajeador para auto/silla en MercadoLibre",
+              href: "https://meli.la/1ZW9A5Y",
+            },
+          ],
+        },
+      },
+      {
+        type: "bad",
+        content:
+          "Lo que no recomiendo: masajeadores genéricos de menos de $15.000. Hay masajeadores tipo U sin marca por $12.000-$16.000 que se ven tentadores. No los compres. Se sienten como un juguete. La vibración es débil, el material del forro suele ser áspero contra la piel, y varios se rompen a las pocas semanas. Las reviews en MercadoLibre lo confirman: filtrá las de 1-2 estrellas y vas a ver que sobran quejas. Si tu presupuesto máximo es $15.000, mejor comprar un masajeador manual de esos con dos bolas de madera. Suena a chiste pero funciona mejor que estos aparatos.",
+      },
+      { type: "h2", title: "Cuál comprar según tu situación" },
+      {
+        type: "p",
+        content:
+          "Si trabajás 8+ horas en computadora y tenés contracturas seguido: el Gadnic Yapeyú. Calor infrarrojo + 8 nodos shiatsu + inalámbrico + 3 horas de batería. Ese combo funciona.",
+      },
+      {
+        type: "p",
+        content:
+          "Si tenés dolor cervical fuerte o crónico y ya probaste cosas que no funcionaron: el Wolke Multiuso cubre cervicales y lumbar. Y si necesitás algo con más potencia puntual, el Caliber Percutor pega fuerte. Pero antes de gastar, andá a un kinesiólogo. En serio.",
+      },
+      {
+        type: "p",
+        content:
+          "Si querés probar sin gastar mucho: el Femmto portátil. No va a cambiar tu vida pero algo hace, es inalámbrico, y si después querés uno mejor ya sabés qué buscar.",
+      },
+      {
+        type: "p",
+        content:
+          "Si preferís usarlo acostado antes de dormir: la Almohada Baza. Portátil, inalámbrica, con calor. La posición ayuda al masaje y es más relajante que usarlo sentado.",
+      },
+      {
+        type: "p",
+        content:
+          "Si pasás muchas horas sentado en la oficina o el auto: mirá los asientos masajeadores. No son tan específicos para el cuello, pero cubren cervicales + espalda y los usás sin pensar.",
+      },
+      { type: "h2", title: "Errores comunes al comprar un masajeador cervical" },
+      {
+        type: "p",
+        content:
+          "Comprar solo por precio. Los de menos de $20.000 generalmente no tienen calor ni nodos shiatsu. Terminás con algo que vibra un poco y no hace mucho. Si vas a comprar, mejor esperar y juntar para uno que funcione.",
+      },
+      {
+        type: "p",
+        content:
+          "No fijarse en el tamaño del cuello. Esto parece tonto pero no lo es. Los masajeadores tipo U tienen un ancho fijo. Si tenés el cuello grueso o los hombros muy anchos, algunos modelos quedan justos y los nodos no llegan donde deberían. Leé las preguntas de MercadoLibre, ahí siempre alguien pregunta por las medidas.",
+      },
+      {
+        type: "p",
+        content:
+          "Usarlo demasiado tiempo. Los primeros días la tentación es dejártelo 40 minutos. No lo hagas. 15-20 minutos máximo por sesión. Más que eso puede irritar la zona y al día siguiente vas a estar peor.",
+      },
+      {
+        type: "p",
+        content:
+          "Pensar que reemplaza un profesional. Si el dolor lleva más de dos semanas, un masajeador puede ayudar a aliviar, pero no va a solucionar la causa. Puede ser una mala postura, puede ser algo más serio. Consultá.",
       },
       {
         type: "warning",
         content:
-          "Este artículo es una versión inicial. El contenido completo con los 5 modelos probados va a estar disponible próximamente.",
+          "Si tenés hernia de disco cervical, artrosis cervical, o cualquier problema en las vértebras del cuello, consultá a tu médico antes de usar un masajeador cervical. En algunos casos la presión puede empeorar el problema.",
       },
     ],
     faq: [
       {
-        question: "¿Sirve el masajeador cervical para la tortícolis?",
+        question: "¿Sirve para la tortícolis?",
         answer:
-          "Depende. Si es una contractura leve, puede ayudar. Si es una tortícolis fuerte donde casi no podés mover el cuello, no lo uses hasta que baje la inflamación (48-72 horas). Aplicá frío primero.",
+          "Depende. Si es una contractura leve, puede ayudar a aflojar el músculo. Si es una tortícolis fuerte donde casi no podés mover el cuello, no lo uses hasta que baje la inflamación (generalmente 48-72 horas). Aplicá frío primero. Después, cuando ya puedas mover un poco, un masajeador con calor suave puede acelerar la recuperación.",
       },
       {
-        question: "¿Se puede usar el masajeador cervical mientras trabajás?",
+        question: "¿Se puede usar mientras trabajás?",
         answer:
-          "Los tipo U sí. Te lo ponés en los hombros y podés seguir tipeando. La almohadilla no, porque necesitás estar acostado.",
+          "Los tipo U sí. Te lo ponés en los hombros y podés seguir tipeando. La almohadilla no, porque necesitás estar acostado. Eso sí, con el tipo U puesto te vas a distraer los primeros minutos hasta que te acostumbres.",
       },
       {
-        question: "¿Cuántas veces al día se puede usar un masajeador cervical?",
+        question: "¿Cuántas veces al día se puede usar?",
         answer:
-          "Una o dos veces, 15 minutos cada vez. Más que eso no te va a dar más beneficio y puede causar irritación.",
+          "Una o dos veces, 15 minutos cada vez. Más que eso no te va a dar más beneficio y puede causar irritación. Lo digo por experiencia: las primeras semanas lo usé tres veces por día y terminé con la zona sensible.",
       },
       {
-        question: "¿Masajeador cervical eléctrico o manual?",
+        question: "¿Eléctrico o manual?",
         answer:
-          "Para cervicales, eléctrico. Los manuales están bien para puntos específicos, pero para toda la zona cervical y trapecios un eléctrico tipo U cubre más área con menos esfuerzo.",
+          "Para cervicales, eléctrico. Los manuales (tipo bola o gancho) están bien para puntos muy específicos, pero para toda la zona cervical y trapecios un eléctrico tipo U cubre más área con menos esfuerzo. Los manuales te cansan los brazos rápido.",
       },
       {
-        question: "¿Las marcas chinas genéricas de masajeadores sirven?",
+        question: "¿Las marcas chinas genéricas sirven?",
         answer:
-          "Algunas sí, otras no. Fijate en las reviews del producto específico, no en la marca. Un modelo sin marca con 200 reviews positivas puede ser mejor que uno de marca conocida con 50 reviews regulares.",
+          "Algunas sí, otras no. El problema es que muchos masajeadores de MercadoLibre no tienen marca reconocible. Fijate en las reviews del producto específico, no en la marca. Un modelo sin marca con 200 reviews positivas puede ser mejor que uno de marca conocida con 50 reviews regulares.",
       },
       {
-        question: "¿Gadnic es bueno para masajeadores cervicales?",
+        question: "¿Gadnic es bueno para cervicales?",
         answer:
-          "Gadnic tiene un par de modelos cervicales decentes. No son los mejores, pero tampoco son malos para el precio.",
+          "Gadnic tiene un par de modelos cervicales decentes. No son los mejores, pero tampoco son malos para el precio. El Yapeyú (tipo U con 8 nodos e infrarrojo) es el modelo que más recomiendo de esa marca.",
       },
     ],
-    internalLinksTitle: "Guías relacionadas",
+    internalLinksTitle: "Relacionado",
     internalLinks: [
       { label: "Mejores masajeadores en Argentina", href: "/guias/mejores-masajeadores-argentina" },
       { label: "Dónde comprar masajeadores", href: "/guias/masajeador-donde-comprar-argentina" },
