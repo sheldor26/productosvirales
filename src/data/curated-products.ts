@@ -2668,7 +2668,7 @@ Garantía de 30 días: es la garantía más corta de todos los modelos en este s
   },
   {
     id: 'MLA47263010',
-    title: 'Lampara Velador Led Dakota Plegable Mesa Escritorio Flexible Tactil Recargable Lapicero Color Rosa',
+    title: 'Lámpara LED Velador Dakota Recargable — Lapicero + Soporte Celular (Rosa)',
     price: 10488,
     originalPrice: 11487,
     currency: 'ARS',
@@ -2680,16 +2680,146 @@ Garantía de 30 días: es la garantía más corta de todos los modelos en este s
       'https://http2.mlstatic.com/D_NQ_NP_2X_605044-MLA93070957076_092025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_633676-MLA93070763078_092025-F.webp',
     ],
-    category: 'Computación',
-    categorySlug: 'tech',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/lampara-velador-led-dakota-plegable-mesa-escritorio-flexible-tactil-recargable-lapicero-color-rosa/p/MLA47263010',
     affiliateUrl: 'https://meli.la/194ZNBV',
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
     soldQuantity: 500,
-    pastelColor: 'var(--pastel-blue)',
-    description: 'Lámpara LED de Escritorio Dakota | Recargable + Lapicero + Soporte para Celular  Diseño moderno, funcionalidad total. La Lámpara Velador LED Dakota es tu aliada ideal para el estudio, oficina o rincón de lectura. Con su cuello flexible, batería recargable y luz LED de bajo consumo, podés iluminar do',
+    badge: 'viral',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Lámpara LED de escritorio Dakota by Selca. Batería recargable 3600 mAh (hasta 6 horas), 3 temperaturas de luz (blanca, diurna, cálida), cuello flexible articulado, lapicero integrado y soporte para celular. 5W, USB 5V. Diseño compacto 20×11 cm. Marca argentina.',
+    pros: [
+      'Rating 4.6⭐ con 439 calificaciones reales',
+      'Batería recargable — hasta 6 horas sin cable',
+      '3 temperaturas de luz (blanca, diurna, cálida)',
+      'Lapicero + soporte de celular integrados al pie',
+      'Cuello flexible articulado — se orienta donde quieras',
+      'Marca argentina Dakota by Selca con soporte local',
+      'LED de 10.000 horas de vida útil',
+    ],
+    cons: [
+      'Autonomía varía según intensidad — no son 6h garantizadas',
+      'Disponible solo en rosa (verificar otros colores en ML)',
+      'Material plástico ABS — no es de gama premium',
+    ],
+    verdict: 'Las lámparas de escritorio genéricas solo iluminan. Esta también guarda las lapiceras y sostiene el celular mientras trabajás. En 11 cm de base elimina 3 accesorios del escritorio. Con 439 opiniones a 4.6⭐, es el producto más validado de la categoría iluminación del sitio.',
+    seoTitle: 'Lámpara LED Velador Dakota Recargable — Lapicero + Soporte Celular, 6hs',
+    metaDescription: 'Lámpara LED de escritorio Dakota con batería recargable de 6 horas, 3 temperaturas de luz, cuello flexible y lapicero+soporte celular integrados. 4.6 estrellas en 439 opiniones.',
+    ogTitle: 'Lámpara LED Dakota recargable — lapicero + soporte celular incluidos, 6hs de batería',
+    ogDescription: 'Veladora de escritorio Dakota: LED 3 temperaturas, cuello flexible, batería 6hs, lapicero y soporte celular integrados. Marca argentina, 4.6 estrellas en 439 opiniones. Ver precio →',
+    h1: 'Lámpara LED de escritorio Dakota recargable — la veladora que también organiza tu escritorio',
+    articleBody: `Las lámparas de escritorio genéricas hacen una sola cosa: iluminar. La Dakota hace tres: ilumina, guarda tus lapiceras y sostiene el celular mientras trabajás. Todo en 11 cm de base y 20 cm de altura — el espacio que ocupa una taza de café en tu escritorio.
+
+Es una lámpara LED de escritorio con batería recargable de 3600 mAh. Con la batería llena da hasta 6 horas de luz continua sin cable ni enchufe. La cargás por USB igual que un celular, y con 4 horas de carga estás listo. Para estudiar una tarde entera, una sesión de trabajo nocturna o iluminar la mesita de noche sin cables a la vista, la autonomía alcanza sin ajustes.
+
+La marca es Dakota by Selca, marca argentina con distribución local. Si algo falla, hay a quién recurrir.
+
+## Las tres temperaturas de luz
+
+El detalle que separa las lámparas buenas de las que lastiman la vista después de una hora: los modos de iluminación. La Dakota tiene tres — luz blanca fría (para concentración y trabajo técnico), luz diurna neutra (para lectura y estudio general), y luz cálida (para descanso, leer antes de dormir, o para no ser agresivo al encender de noche). Con un toque en el botón táctil del pie cambiás entre los tres.
+
+El LED opera a 5W con 10.000 horas de vida útil declarada. A 6 horas diarias de uso, eso es más de cuatro años antes de pensar en cambiar la fuente.
+
+## El cuello flexible
+
+El cuello articulado se mueve y queda donde lo dejás. Podés apuntar la luz directamente al papel, a la pantalla para reducir reflejos, hacia arriba para luz de ambiente indirecto, o hacia los costados. No tiene puntos de bloqueo ni ángulos fijos — es el tipo de articulación blanda que se orienta con una mano sin soltar lo que estás haciendo.
+
+## El 3 en 1 que no es marketing
+
+El pie de la lámpara tiene una cavidad abierta en la parte superior que funciona como lapicero: metés lapiceras, lápices, tijeras, marcadores — lo que tenés en el escritorio suelto. En el costado del pie hay una ranura que sostiene el celular en vertical sin que se caiga. No es un accesorio que viene como bono — es parte del diseño del pie y funciona.
+
+En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de celular por separado tiene sentido.
+
+## 4.6 estrellas en 439 calificaciones
+
+439 opiniones a 4.6 promedio es uno de los mejores ratings de toda la selección de productos en este sitio. La gente que busca una lámpara de escritorio está lista para comprar, no para investigar — y las opiniones confirman que esta lámpara cumple lo que promete. Marca argentina, garantía local, diseño pensado. Pocas veces coinciden las tres cosas al precio que tiene.`,
+    specs: [
+      { label: 'Marca', value: 'Dakota by Selca (Argentina)' },
+      { label: 'Tipo', value: 'Lámpara LED de escritorio / Velador' },
+      { label: 'Color', value: 'Rosa' },
+      { label: 'Tecnología', value: 'LED' },
+      { label: 'Temperaturas de luz', value: 'Blanca (fría), Diurna (neutra), Cálida' },
+      { label: 'Potencia', value: '5W' },
+      { label: 'Voltaje', value: '5V USB' },
+      { label: 'Batería', value: '3600 mAh' },
+      { label: 'Autonomía', value: 'Hasta 6 horas' },
+      { label: 'Carga completa', value: '~4 horas' },
+      { label: 'Vida útil LED', value: '10.000 horas' },
+      { label: 'Material', value: 'Plástico ABS' },
+      { label: 'Cuello', value: 'Flexible y articulado' },
+      { label: 'Extras', value: 'Lapicero integrado + soporte para celular' },
+      { label: 'Dimensiones', value: '20 cm alto × 11 cm ancho' },
+      { label: 'Cable', value: 'USB incluido' },
+      { label: 'Rating', value: '4.6 ⭐ (439 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuántas horas dura la batería?',
+        answer:
+          'Hasta 6 horas en uso continuo. La duración varía según la intensidad — en luz cálida baja dura más que en blanca fría al máximo. La batería de 3600 mAh se recarga completa en aproximadamente 4 horas por USB.',
+      },
+      {
+        question: '¿Necesita estar enchufada para funcionar?',
+        answer:
+          'No. La batería recargable integrada permite usarla completamente sin cable. La cargás como un celular y la usás donde quieras hasta 6 horas.',
+      },
+      {
+        question: '¿Cuántas intensidades o temperaturas de luz tiene?',
+        answer:
+          'Tres temperaturas: luz blanca fría (para trabajo y concentración), luz diurna neutra (para lectura y estudio) y luz cálida (para descanso o uso nocturno suave). Se cambian con el botón táctil del pie.',
+      },
+      {
+        question: '¿El lapicero y el soporte de celular son parte del producto?',
+        answer:
+          'Sí, están integrados al diseño del pie de la lámpara. El lapicero es la cavidad abierta en la parte superior del pie. El soporte de celular es una ranura lateral que sostiene el teléfono en vertical.',
+      },
+      {
+        question: '¿El cuello se puede fijar en cualquier ángulo?',
+        answer:
+          'El cuello es flexible y articulado — se dobla y queda en la posición que lo dejás. No tiene ángulos fijos ni puntos de bloqueo.',
+      },
+      {
+        question: '¿Está disponible en otros colores?',
+        answer:
+          'El modelo de esta publicación es Rosa. Consultá el listado de ML por otras variantes disponibles.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer:
+          'Dakota by Selca es marca argentina con distribución y soporte local. Verificá las condiciones de garantía específicas en el listado de ML al momento de la compra.',
+      },
+      {
+        question: '¿Es adecuada para chicos o estudiantes?',
+        answer:
+          'Sí. El diseño compacto, la batería (no hay cable en el escritorio al usarla), las tres temperaturas de luz y el lapicero integrado la hacen especialmente útil para el escritorio de estudio de un chico o adolescente.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Lámpara Velador LED Recargable Dakota — Lapicero y Soporte Celular, Rosa',
+      description:
+        'Lámpara LED de escritorio Dakota by Selca. Batería recargable 3600 mAh (hasta 6 horas), 3 temperaturas de luz (blanca, diurna, cálida), cuello flexible articulado, lapicero integrado y soporte para celular. 5W, USB 5V. Diseño compacto 20×11 cm. Color rosa.',
+      brand: { '@type': 'Brand', name: 'Dakota by Selca' },
+      model: 'Velador LED',
+      color: 'Rosa',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/194ZNBV',
+        priceCurrency: 'ARS',
+        price: 10488,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '439',
+      },
+    },
   },
   {
     id: 'MLA1454279831',
