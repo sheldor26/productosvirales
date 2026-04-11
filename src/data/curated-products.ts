@@ -1029,7 +1029,7 @@ Las imágenes del producto lo muestran en cuatro ambientes: cajón de maquillaje
   },
   {
     id: 'MLA402624780',
-    title: 'Sarten Con Tapa Antiadherente 20cm',
+    title: 'Sartén Doble Antiadherente Cincam 20cm — Para Tortillas Españolas',
     price: 27289.3,
     originalPrice: undefined,
     currency: 'ARS',
@@ -1041,7 +1041,7 @@ Las imágenes del producto lo muestran en cuatro ambientes: cajón de maquillaje
       'https://http2.mlstatic.com/D_NQ_NP_2X_890346-MLA41484310505_042020-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_993583-MLA41484313398_042020-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/sarten-con-tapa-antiadherente-20cm/up/MLAU402624780',
     affiliateUrl: 'https://meli.la/2cc6Wdj',
@@ -1049,8 +1049,135 @@ Las imágenes del producto lo muestran en cuatro ambientes: cajón de maquillaje
     freeShipping: false,
     rating: 4.4,
     soldQuantity: 50,
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Sarten doble Con tapa  Antiadherente Diámetro 20 cm',
+    description: 'Sartén doble antiadherente Cincam de 20cm de diámetro y aluminio. Diseño doble encajable para voltear tortillas españolas, omelets y panqueques sin espátula. Capacidad 2L, 800g, mango de acero revestido. Incluye tapa (segundo sartén). No apto para lavavajillas.',
+    pros: [
+      'Diseño doble — voltear tortillas sin romperlas ni usar platos',
+      'Aluminio con distribución de calor uniforme',
+      'Cada pieza funciona como sartén individual de 20cm',
+      'Capacidad 2L — ideal para tortilla de 4-6 huevos',
+      'Mango de acero revestido',
+      'Cada sartén sirve como tapa del otro',
+    ],
+    cons: [
+      '⚠️ NO apto para lavavajillas — solo lavado a mano',
+      '⚠️ Recubrimiento: tipo no especificado (PTFE o cerámica) — consultar al vendedor',
+      'Una reseña reporta despegado del antiadherente a los 2 meses',
+      'Borde de 7cm alto — complica sacar huevos fritos enteros',
+      'No incluye espátula',
+      'Solo 10 calificaciones — muestra pequeña',
+    ],
+    verdict: 'Este no es un sartén común — es una herramienta específica para hacer tortillas españolas sin el drama del volteo. Los dos sartenes encajan boca con boca, invertís todo junto, y la tortilla queda perfecta. Si hacés tortillas seguido, resuelve un problema real. Si no, un sartén antiadherente simple te alcanza.',
+    seoTitle: 'Sartén Doble Antiadherente 20cm con Tapa — Para Tortillas Perfectas',
+    metaDescription: 'Sartén antiadherente doble 20cm de aluminio con tapa. Diseño para hacer tortillas españolas sin romperlas. 2L, 800g, mango de acero. 4.4 estrellas en 10 calificaciones.',
+    ogTitle: 'Sartén doble antiadherente 20cm — hacé tortillas perfectas sin el riesgo del volteo',
+    ogDescription: 'Sartén Cincam doble de aluminio: 20cm, antiadherente, con tapa encajable para voltear tortillas sin romperlas. Capacidad 2L, 800g. No para lavavajillas. Ver precio →',
+    h1: 'Sartén antiadherente doble 20cm Cincam — para hacer tortillas en casa sin el drama del volteo',
+    articleBody: `El sartén doble existe por una razón: dar vuelta una tortilla española sin que se rompa. Eso que en las cocinas se hace con un plato plano, mucha confianza y algo de suerte, acá se hace con dos sartenes que encajan entre sí. Cocinás la tortilla en el primero, ponés el segundo encima como tapa, invertís los dos juntos, y la tortilla cae perfecta en el segundo sartén. Sin plato, sin salpicaduras, sin los bordes partidos que quedan cuando la cosa sale mal.
+
+El de Cincam tiene 20cm de diámetro, cuerpo de aluminio y superficie antiadherente. Con 2 litros de capacidad y 7cm de profundidad, entra cómodo para una tortilla de 4 a 6 huevos — el tamaño que se hace en casa para dos o cuatro personas.
+
+## Para qué sirve el diseño doble
+
+La mecánica es simple: los dos sartenes tienen el mismo diámetro y se cierran boca con boca. Cuando la tortilla está lista por debajo pero todavía cruda arriba, ponés el segundo sartén encima, agarrás los dos mangos juntos y dás vuelta. La tortilla queda en el sartén que ahora está abajo. Volvés al fuego y terminás de cocinar el otro lado.
+
+Lo mismo sirve para omelets, panqueques gruesos o cualquier preparación que necesite cocción de los dos lados sin pasar por el vuelo libre con espátula. No es un truco de cocina — es una herramienta que elimina la variable del error.
+
+## La superficie antiadherente
+
+El aluminio conduce el calor de manera uniforme, lo que evita puntos calientes en el centro de la sartén. La superficie antiadherente reduce la necesidad de grasa para cocinar y facilita el desmolde.
+
+Una revisión de las reseñas del producto es honesta sobre la durabilidad: un comprador reportó que el recubrimiento comenzó a despegarse alrededor de los dos meses de uso diario. Es un dato de una sola reseña entre diez — no es suficiente para un diagnóstico definitivo — pero es un patrón que aparece en muchos sartenes antiadherentes económicos de cualquier marca cuando se usan a fuego alto o se lavan mal. Para extender la vida útil del recubrimiento: fuego medio como máximo, lavado a mano (no es apto para lavavajillas), y utensilios de silicona o madera — nunca metal directo sobre la superficie.
+
+## ⚠️ Lo que hay que saber antes de comprar
+
+Borde alto: un comprador menciona que el borde de 7cm de profundidad hace un poco más difícil deslizar un huevo frito hacia el plato. Para tortillas o omelets no es un problema — para huevos fritos que querés sacar enteros, el borde puede jugar en contra.
+
+No apto para lavavajillas: lavado a mano únicamente. Esto no es opcional — la lavavajillas degrada los recubrimientos antiadherentes de aluminio significativamente más rápido que el lavado a mano.
+
+No incluye espátula: viene el par de sartenes, sin espátula. El volteo se hace con los mangos sin necesitar espátula para esa operación, pero si necesitás una, hay que comprarla por separado.
+
+Tipo de recubrimiento no especificado: las especificaciones no aclaran si el antiadherente es base PTFE (teflón) o cerámica. Si ese dato es relevante para tu decisión de compra, consultá al vendedor antes de confirmar el pedido.`,
+    specs: [
+      { label: 'Marca', value: 'Cincam' },
+      { label: 'Modelo', value: 'Sartén doble' },
+      { label: 'Diámetro', value: '20 cm' },
+      { label: 'Capacidad', value: '2 L' },
+      { label: 'Dimensiones', value: '20 × 20 × 7 cm' },
+      { label: 'Peso', value: '800 g' },
+      { label: 'Material cuerpo', value: 'Aluminio' },
+      { label: 'Material mango', value: 'Acero revestido' },
+      { label: 'Superficie', value: 'Antiadherente (tipo no especificado)' },
+      { label: 'Incluye tapa', value: 'Sí (segundo sartén)' },
+      { label: 'Incluye espátula', value: 'No' },
+      { label: 'Apto lavavajillas', value: 'No' },
+      { label: 'Superficie acanalada', value: 'No' },
+      { label: 'Rating', value: '4.4 ⭐ (10 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Para qué sirve el sartén doble?',
+        answer:
+          'Para dar vuelta tortillas, omelets o panqueques sin usar espátula ni el método del plato. Los dos sartenes encajan boca con boca — invertís el conjunto y la tortilla queda perfecta en el sartén de abajo, lista para terminar de cocinar el otro lado.',
+      },
+      {
+        question: '¿Qué tamaño de tortilla entra en 20cm?',
+        answer:
+          'Una tortilla de 4 a 6 huevos estándar. Para una tortilla más grande o una familia numerosa, un modelo de 24 o 26cm daría más espacio.',
+      },
+      {
+        question: '¿Es apto para lavavajillas?',
+        answer:
+          'No. Solo lavado a mano. Poner un sartén antiadherente de aluminio en la lavavajillas degrada el recubrimiento mucho más rápido que el uso normal.',
+      },
+      {
+        question: '¿Con qué utensilios lo puedo usar?',
+        answer:
+          'Con utensilios de silicona, madera o plástico. El metal rayará el recubrimiento antiadherente y acortará su vida útil.',
+      },
+      {
+        question: '¿Es PTFE (teflón) o cerámica?',
+        answer:
+          'Las especificaciones no lo aclaran. Si ese detalle es importante para tu decisión, consultá directamente al vendedor en el listing de ML.',
+      },
+      {
+        question: '¿Sirve para fuego fuerte?',
+        answer:
+          'El aluminio no resiste bien el fuego muy alto de manera sostenida — puede deformar el cuerpo o degradar el recubrimiento prematuramente. Fuego medio es lo recomendable para extender la vida útil del antiadherente.',
+      },
+      {
+        question: '¿Puedo usarlo solo como sartén común?',
+        answer:
+          'Sí. Cada pieza funciona de manera independiente como sartén individual de 20cm. El diseño doble es una opción adicional, no un requisito de uso.',
+      },
+      {
+        question: '¿Cuánto tarda en calentarse?',
+        answer:
+          'El aluminio calienta rápido — más que el acero inoxidable. En 2 o 3 minutos a fuego medio el sartén está listo para cocinar.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Sartén Doble Antiadherente 20cm con Tapa — Aluminio — Cincam',
+      description:
+        'Sartén doble antiadherente Cincam de 20cm de diámetro y aluminio. Diseño doble encajable para voltear tortillas españolas, omelets y panqueques sin espátula. Capacidad 2L, 800g, mango de acero revestido. Incluye tapa (segundo sartén). No apto para lavavajillas.',
+      brand: { '@type': 'Brand', name: 'Cincam' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2cc6Wdj',
+        priceCurrency: 'ARS',
+        price: 27289,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.4',
+        reviewCount: '10',
+      },
+    },
   },
   {
     id: 'MLA139114583',
