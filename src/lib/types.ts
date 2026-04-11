@@ -40,6 +40,45 @@ export interface TrendingKeyword {
   growth?: string;
 }
 
+export interface GuideSection {
+  type: "p" | "h2" | "h3" | "table" | "card" | "verdict" | "warning" | "bad" | "list" | "toc";
+  id?: string;
+  title?: string;
+  content?: string;
+  items?: string[] | Array<{ label: string; href?: string }>;
+  headers?: string[];
+  rows?: string[][];
+  card?: {
+    heading: string;
+    paragraphs: string[];
+    ctas?: Array<{ label: string; href: string }>;
+  };
+}
+
+export interface GuideFAQ {
+  question: string;
+  answer: string;
+}
+
+export interface Guide {
+  slug: string;
+  category: string; // e.g. "masajeadores"
+  title: string;
+  seoTitle: string;
+  metaDescription: string;
+  ogTitle?: string;
+  ogDescription?: string;
+  h1: string;
+  publishedDate: string;
+  updatedDate: string;
+  intro: string[];
+  sections: GuideSection[];
+  faq?: GuideFAQ[];
+  internalLinks?: Array<{ label: string; href: string }>;
+  internalLinksTitle?: string;
+  hasDisclosure?: boolean;
+}
+
 export interface Category {
   slug: string;
   name: string;
