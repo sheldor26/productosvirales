@@ -2344,7 +2344,7 @@ Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mie
   },
   {
     id: 'MLA210122868',
-    title: 'Humidificador Difusor Vaporizador Perfumero Usb Luz Led',
+    title: 'Humidificador Aromatizador USB 130ml AJ-507 — LED 7 Colores',
     price: 18050,
     originalPrice: 19000,
     currency: 'ARS',
@@ -2356,16 +2356,141 @@ Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mie
       'https://http2.mlstatic.com/D_NQ_NP_2X_613580-MLA75463918360_042024-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_936685-MLA43952947915_102020-F.webp',
     ],
-    category: 'Salud y Equipamiento Médico',
-    categorySlug: 'belleza',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/humidificador-difusor-vaporizador-perfumero-usb-luz-led/up/MLAU210122868',
     affiliateUrl: 'https://meli.la/1W7dAYq',
     condition: 'new',
     freeShipping: false,
     rating: 4.1,
     soldQuantity: 1000,
-    pastelColor: 'var(--pastel-pink)',
-    description: '- Universo Pc -  Maquina de Aroma-terapia  Capacidad del tanque: 125 ML     No usar aceites comestibles, ya que contiene sustancias que puede derretir el plástico  Modo correcto de usar es verter el agua en el dispositivo, luego agregar la fragancia  Utilizarlo preferentemente con cargador 5 V 2 A  ',
+    badge: 'trending',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Vaporizador humidificador ultrasónico USB AJ-507 de 130ml con difusor aromático y LED 7 colores. Funcionamiento silencioso, antibacteriano, indicador de poca agua. Alimentación USB 5V/2A. Compacto para escritorio o mesita de noche. 316 opiniones en ML.',
+    pros: [
+      '316 calificaciones reales con 4.1⭐ de promedio',
+      'Alimentación USB — sirve con cargador de cel, powerbank o hub',
+      'LED 7 colores rotativo — luz ambiental opcional',
+      'Silencioso — apto para dormitorio y escritorio',
+      'Sistema antibacteriano en el depósito',
+      'Compacto: 13 × 11 cm — entra en cualquier mesita',
+    ],
+    cons: [
+      '⚠️ No usar aceites comestibles — puede derretir el plástico',
+      '⚠️ Sin apagado automático — monitorear nivel de agua',
+      'LED en rotación continua — no se puede fijar un color',
+      'Solo 6 meses de garantía del vendedor',
+    ],
+    verdict: 'Con 316 calificaciones, es de los aromatizadores USB más vendidos de ML. Para escritorio o mesita de noche cumple perfecto. Si necesitás algo con aceites esenciales puros y más autonomía, mirá el Gadnic 300ml. Si querés algo ultra compacto, el bola simil madera de 130ml.',
+    seoTitle: 'Humidificador Aromatizador USB 130ml AJ-507 — Escritorio o Dormitorio',
+    metaDescription: 'Vaporizador humidificador USB con difusor aromático, LED 7 colores y funcionamiento silencioso. 130ml, compacto para escritorio o mesita. 4.1 estrellas en 316 opiniones.',
+    ogTitle: 'Aromatizador USB compacto con 316 opiniones — humidifica y aromatiza en silencio',
+    ogDescription: 'Vaporizador USB AJ-507: 130ml, LED 7 colores, silencioso. Para escritorio o mesita de noche. 316 reseñas en ML. Enchufá al cargador del cel y listo → Ver precio',
+    h1: 'Aromatizador de ambiente USB compacto AJ-507 — 316 opiniones, silencioso, para el escritorio o la mesita de noche',
+    articleBody: `316 calificaciones en ML no se acumulan solas. El AJ-507 lleva tiempo en el mercado y el número dice que mucha gente lo compró, lo usó, y se tomó el tiempo de opinar. Con un promedio de 4.1 estrellas en esas 316 reseñas, el producto no es perfecto — ninguno lo es — pero sí cumple lo que promete en su rango de precio.
+
+Es un humidificador vaporizador USB de 130ml. Funcionamiento ultrasónico, sin ruido, con luz LED en 7 colores. Va enchufado a cualquier cargador USB de 5V 2A — el de tu teléfono, un hub de escritorio, una batería portátil. No necesita instalación ni toma 220V cerca: donde hay un USB, hay aromatizador.
+
+## Para qué está pensado
+
+El tamaño (13 × 11 cm aprox) lo ubica en escritorios, mesas de trabajo o mesitas de noche. No está diseñado para aromatizar un living de 40m² — para eso existen los modelos de 300ml con enchufe. Este va en el espacio donde estás vos: mientras trabajás, mientras dormís, mientras estudiás. La niebla se dispersa en un radio de 2 a 4 metros con buena concentración.
+
+El modo de uso es simple: llenás el depósito con agua hasta la línea de máximo, agregás unas gotas de fragancia a base de agua (ver aviso importante abajo), y encendés. El indicador de poca agua avisa cuando hay que recargar, así no se quema el aparato en seco. El sistema es antibacteriano — el tanque y las partes en contacto con el agua están tratadas para no generar bacterias en el agua estancada.
+
+## El LED de 7 colores
+
+Tiene iluminación en 7 colores que rotan de manera continua. No es selectiva como el Gadnic DIFU0001 que te deja fijar un color específico — este rota en ciclo. En uso nocturno la luz es baja, no molesta, y si necesitás oscuridad completa podés cubrirlo o apagarlo desde el botón.
+
+La función de luz nocturna funciona de forma independiente al vapor: podés tenerlo como luz ambiental sin activar el humidificador.
+
+## ⚠️ Avisos importantes antes de comprar
+
+No usar aceites comestibles. El fabricante advierte explícitamente que los aceites comestibles (aceite de oliva, de coco, vegetales) contienen sustancias que pueden derretir el plástico del depósito. Solo agua con fragancia a base de agua — esencias de aromaterapia diluidas en agua, nunca aceites puros de cocina.
+
+No tiene apagado automático. A diferencia de los modelos con timer o con sensor de apagado al vaciarse, este modelo no se apaga solo cuando se termina el agua. El indicador de poca agua prende una alerta visual — pero si no estás mirando, puede seguir intentando funcionar en seco. Usarlo con supervisión o calculando cuánto dura el agua cargada.
+
+El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
+    specs: [
+      { label: 'Marca', value: 'Aromatherapy Machine' },
+      { label: 'Modelo', value: 'AJ-507' },
+      { label: 'Tipo', value: 'Humidificador / Vaporizador / Difusor aromático' },
+      { label: 'Capacidad', value: '130 ml' },
+      { label: 'Alimentación', value: 'USB 5V / 2A' },
+      { label: 'Iluminación', value: 'LED 7 colores (rotación continua)' },
+      { label: 'Modo niebla', value: 'Continuo' },
+      { label: 'Apagado automático', value: 'No' },
+      { label: 'Indicador de poca agua', value: 'Sí' },
+      { label: 'Funcionamiento silencioso', value: 'Sí' },
+      { label: 'Antibacteriano', value: 'Sí' },
+      { label: 'Fragancias compatibles', value: 'Solo a base de agua' },
+      { label: 'Dimensiones', value: '13 × 11 cm (aprox)' },
+      { label: 'Garantía del vendedor', value: '6 meses' },
+      { label: 'Rating', value: '4.1 ⭐ (316 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Puedo usar aceites esenciales?',
+        answer:
+          'El fabricante indica que solo deben usarse fragancias a base de agua. Los aceites comestibles están explícitamente desaconsejados porque pueden derretir el plástico interior. Los aceites esenciales puros tampoco están recomendados — solo fragancias o esencias diluidas en agua.',
+      },
+      {
+        question: '¿Con qué cargador funciona?',
+        answer:
+          'Cualquier cargador USB de 5V 2A. El de tu celular, una power bank, un hub de escritorio o un puerto USB de notebook. No necesita toma de corriente 220V directa.',
+      },
+      {
+        question: '¿Se apaga solo cuando se termina el agua?',
+        answer:
+          'No. Tiene indicador de poca agua (luz de alerta) pero no apagado automático. Hay que estar pendiente o calcular cuánto tiempo dura el depósito para no dejarlo funcionar en seco.',
+      },
+      {
+        question: '¿Hace ruido?',
+        answer:
+          'El sistema ultrasónico opera sin ruido audible. Es apto para usar en dormitorios o durante el trabajo sin que moleste.',
+      },
+      {
+        question: '¿Cuánto cubre?',
+        answer:
+          'Es un modelo compacto de 130ml pensado para el espacio personal inmediato — escritorio, mesita de noche, rincón de trabajo. Para ambientes de 20-30m² o más, el Gadnic DIFU0001 de 300ml o un humidificador de mayor capacidad van a dar un resultado mejor.',
+      },
+      {
+        question: '¿El LED se puede apagar sin apagar el vapor?',
+        answer:
+          'Sí, los controles de luz y vapor funcionan por separado desde el botón físico.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer:
+          'El vendedor ofrece 6 meses de garantía. No es marca con soporte local en Argentina como Gadnic — verificá las condiciones de garantía en el listado de ML antes de comprar.',
+      },
+      {
+        question: '¿Cuánta agua carga exactamente?',
+        answer:
+          'La capacidad nominal es 130ml (el manual interno indica 125ml). Llenás hasta la línea de máximo del depósito.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Humidificador Difusor Vaporizador USB 130ml AJ-507 LED 7 Colores',
+      description:
+        'Vaporizador humidificador ultrasónico USB AJ-507 de 130ml con difusor aromático y LED 7 colores. Funcionamiento silencioso, antibacteriano, indicador de poca agua. Alimentación USB 5V/2A. Compacto para escritorio o mesita de noche.',
+      brand: { '@type': 'Brand', name: 'Aromatherapy Machine' },
+      model: 'AJ-507',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1W7dAYq',
+        priceCurrency: 'ARS',
+        price: 18050,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.1',
+        reviewCount: '316',
+      },
+    },
   },
   {
     id: 'MLA886877609',
