@@ -2184,7 +2184,7 @@ El packaging del tren en colores bronce/plata, negro o dorado es lo que hace que
   },
   {
     id: 'MLA231395761',
-    title: 'Difusor Aromático Humidificador Aceites Relax Luz Led 300 Ml',
+    title: 'Difusor Aromatizador Gadnic DIFU0001 300ml — Aceites Esenciales',
     price: 37349,
     originalPrice: undefined,
     currency: 'ARS',
@@ -2196,16 +2196,151 @@ El packaging del tren en colores bronce/plata, negro o dorado es lo que hace que
       'https://http2.mlstatic.com/D_NQ_NP_2X_944005-MLA108253735482_032026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_617416-MLA108253735484_032026-F.webp',
     ],
-    category: 'Salud y Equipamiento Médico',
-    categorySlug: 'belleza',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/difusor-aromatico-humidificador-aceites-relax-luz-led-300-ml/up/MLAU231395761',
     affiliateUrl: 'https://meli.la/2bqzDDr',
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
     soldQuantity: 1000,
-    pastelColor: 'var(--pastel-pink)',
-    description: 'Cod. : DIFU0001    _______________________________________________________________  Somos BIDCOM: Líderes en comercio electrónico y tecnología  Tienda Oficial GADNIC  Nuestro propósito es facilitar el acceso a productos innovadores y de interés, brindando una experiencia extraordinaria. Más de 15 añ',
+    badge: 'viral',
+    tiktokViews: '4M+',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Difusor ultrasónico de aceites esenciales Gadnic DIFU0001. 300ml, hasta 20 horas en modo continuo, LED 16 colores, timer 2h/4h, control remoto con pilas incluidas. Cobertura 30m² humidificación / 50m² aromaterapia. Marca argentina con garantía.',
+    pros: [
+      'Rating 4.7⭐ con 693 calificaciones reales — el más validado de la serie',
+      'Hasta 20 horas de autonomía — el que más dura',
+      'Marca argentina Gadnic con garantía y soporte local',
+      'Control remoto con pilas INCLUIDAS',
+      'Compatible con aceites esenciales puros',
+      'LED 16 colores (fijo o multicolor)',
+      'Adaptador 220V homologado incluido',
+    ],
+    cons: [
+      'No es humidificador de alto volumen — efecto sutil',
+      'Para ambientes muy grandes, se diluye',
+    ],
+    verdict: 'Tener 693 calificaciones en 4.7⭐ no es suerte. En una categoría donde los difusores baratos suelen fallar al mes, este se sostiene. Si buscás el difusor de aceites esenciales para usar todos los días sin sorpresas, es este.',
+    seoTitle: 'Difusor Aromatizador Gadnic 300ml — 20hs, Aceites Esenciales, 4.7⭐',
+    metaDescription: 'Difusor de aceites esenciales Gadnic DIFU0001. 300ml, hasta 20 horas continuas, LED 16 colores, control remoto y timer. Marca argentina. 4.7 estrellas en 693 calificaciones.',
+    ogTitle: 'El aromatizador Gadnic con 693 opiniones y 4.7 estrellas — 300ml, 20 horas',
+    ogDescription: 'Difusor ultrasónico Gadnic, marca argentina. 20 horas de autonomía, LED 16 colores, control remoto con pilas incluidas. 693 calificaciones reales. Ver precio →',
+    h1: 'Aromatizador de ambiente Gadnic 300ml — el difusor de aceites esenciales con 693 opiniones y 4.7 estrellas',
+    articleBody: `Hay productos que tienen muchas calificaciones y las mantienen. El Gadnic DIFU0001 tiene 693 calificaciones en ML y promedia 4.7 estrellas — eso no es suerte ni efecto de pocas reseñas: es uso real sostenido en el tiempo. En una categoría donde los aromatizadores baratos suelen acumular críticas de durabilidad después del primer mes, ese número dice bastante.
+
+Es un difusor de aceites esenciales de 300ml con hasta 20 horas de autonomía en modo continuo. No 8, no 12 — 20 horas. Con el depósito lleno lo ponés cuando te despertás y sigue funcionando a la noche. Marca Gadnic, fabricado con homologación argentina, incluye adaptador 220V con homologación y control remoto con pilas ya incluidas. No hay nada para comprar por separado.
+
+## Para qué sirve y para qué no
+
+El difusor ultrasónico convierte agua con unas gotas de aceite esencial en una niebla fina que se dispersa en el ambiente. A diferencia de los humidificadores básicos que solo trabajan con esencias a base de agua, este modelo está diseñado para aceites esenciales puros — los de frasquito de 10ml con cuentagotas. Lavanda, eucalipto, naranja dulce, bergamota, árbol de té — cualquiera va directo al depósito con el agua.
+
+La cobertura declarada es de 30m² en modo humidificación y 50m² en modo aromaterapia. Para un dormitorio, un living chico o un espacio de trabajo, sobra. Para una oficina grande o área abierta de varios ambientes conectados, el efecto se diluye — pero en esos casos ningún difusor de 300ml va a ser suficiente.
+
+## Las 20 horas de autonomía en la práctica
+
+El dato de 20 horas es en modo continuo con el depósito lleno de 300ml. En modo intermitente — que alterna pulsos de niebla con pausas — la duración es mayor. Para uso nocturno (8 horas durmiendo) o para aromatizar un espacio de trabajo (6-8 horas) el depósito cubre varios días antes de necesitar recarga.
+
+El timer tiene opciones de 2 o 4 horas de apagado automático. Útil para encenderlo al acostarse sin quedar pendiente de apagarlo.
+
+## El LED de 16 colores
+
+Tiene iluminación LED con 16 colores seleccionables — fijo en el color que elegís, o en modo multicolor que va rotando. La intensidad no es la de una lámpara, pero en un cuarto a oscuras genera un ambiente. Lo podés usar como luz nocturna baja sin activar el difusor — los controles son independientes.
+
+Para los que prefieren dormir sin luz, el LED se apaga por separado mientras el difusor sigue funcionando.
+
+## Gadnic como marca
+
+Gadnic es marca argentina con distribución local y garantía. En el contexto de los difusores genéricos que suelen tener 30 días de cobertura y soporte que no responde, tener una marca con presencia local en Argentina es un diferencial real. Si algo falla, hay a quién recurrir.
+
+El modelo DIFU0001 viene con manual de usuario en español, adaptador 220V homologado, control remoto con pilas incluidas y garantía. Todo en la caja — no hay que agregar nada para usarlo.
+
+## Lo que hay que saber antes de comprar
+
+No es un humidificador de alto volumen. Si lo que buscás es agregar humedad real al aire en invierno con calefacción seca — el tipo de humidificador que se ve en hospitales o habitaciones de bebés con mucho vapor — este no es ese producto. La niebla ultrasónica de 300ml es sutil: aromatiza bien y agrega algo de humedad, pero no reemplaza a un humidificador de evaporación de alta capacidad.
+
+Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mientras dormís o trabajás sin que moleste.`,
+    specs: [
+      { label: 'Marca', value: 'Gadnic (Argentina)' },
+      { label: 'Modelo', value: 'DIFU0001' },
+      { label: 'Capacidad', value: '300 ml' },
+      { label: 'Autonomía continua', value: 'Hasta 20 horas' },
+      { label: 'Modo niebla', value: 'Continuo / Intermitente' },
+      { label: 'Timer', value: '2 horas / 4 horas' },
+      { label: 'Iluminación', value: 'LED 16 colores, fijo o multicolor' },
+      { label: 'Aceites esenciales', value: 'Sí, compatibles (puros)' },
+      { label: 'Control', value: 'Control remoto incluido (con pilas)' },
+      { label: 'Alimentación', value: 'Adaptador 220V homologado incluido' },
+      { label: 'Cobertura', value: '30m² (humidificación) / 50m² (aromaterapia)' },
+      { label: 'Dimensiones', value: '8.5 × 12.5 cm' },
+      { label: 'Peso', value: '237 g' },
+      { label: 'Voltaje', value: '100-240V (universal)' },
+      { label: 'Rating', value: '4.7 ⭐ (693 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Puedo usar aceites esenciales puros?',
+        answer:
+          'Sí. A diferencia de los difusores ultrasónicos básicos que solo toleran esencias a base de agua, el DIFU0001 está diseñado para aceites esenciales puros. Agregás unas gotas directamente al depósito de agua.',
+      },
+      {
+        question: '¿Cuánto dura con el depósito lleno?',
+        answer:
+          'Hasta 20 horas en modo continuo con los 300ml. En modo intermitente dura más porque hace pausas entre cada pulso de niebla.',
+      },
+      {
+        question: '¿Incluye el control remoto y las pilas?',
+        answer:
+          'Sí. El control remoto viene en la caja con las pilas ya incluidas — no necesitás comprar nada extra para usarlo desde el primer día.',
+      },
+      {
+        question: '¿Se puede usar el LED sin la niebla?',
+        answer:
+          'Sí. La iluminación y el difusor funcionan de forma independiente. Podés tener el LED encendido como luz ambiental baja sin activar el humidificador.',
+      },
+      {
+        question: '¿Funciona para dormir? ¿Hace ruido?',
+        answer:
+          'El sistema ultrasónico no produce ruido audible. Se puede usar toda la noche sin que moleste. El timer de 2 o 4 horas permite programarlo para que se apague solo.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer:
+          'Gadnic es marca argentina con garantía y distribución local. Consultá las condiciones de garantía específicas en el listado de ML al momento de la compra.',
+      },
+      {
+        question: '¿El adaptador funciona con enchufes argentinos?',
+        answer:
+          'Sí. Incluye adaptador 220V homologado para Argentina. El voltaje es universal (100-240V) así que también funciona con adaptadores de otros países si viajás.',
+      },
+      {
+        question: '¿Cubre ambientes grandes?',
+        answer:
+          'Cubre hasta 30m² en modo humidificación y 50m² para aromaterapia. Para un dormitorio o living estándar alcanza sin problema. Para espacios abiertos muy grandes, el efecto se diluye.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Difusor Aromatizador Gadnic DIFU0001 300ml Aceites Esenciales',
+      description:
+        'Difusor ultrasónico de aceites esenciales Gadnic DIFU0001. 300ml, hasta 20 horas en modo continuo, LED 16 colores (fijo o multicolor), timer 2h/4h, control remoto con pilas incluidas, adaptador 220V homologado. Cobertura 30m² humidificación / 50m² aromaterapia. Marca argentina.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'DIFU0001',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2bqzDDr',
+        priceCurrency: 'ARS',
+        price: 37349,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '693',
+      },
+    },
   },
   {
     id: 'MLA210122868',
