@@ -2898,7 +2898,7 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
   },
   {
     id: 'MLA23486209',
-    title: 'Lámpara Velador Led Recargable Usb Cristal Dimmer Táctil Bar Color de la estructura Transparente',
+    title: 'Lámpara Cristal LED Decorativa — Efecto Diamante, Recargable USB-C',
     price: 11823,
     originalPrice: 17399,
     currency: 'ARS',
@@ -2910,16 +2910,135 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
       'https://http2.mlstatic.com/D_NQ_NP_2X_895260-MLA84850923157_052025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_919148-MLA84850950731_052025-F.webp',
     ],
-    category: 'Computación',
-    categorySlug: 'tech',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/lampara-velador-led-recargable-usb-cristal-dimmer-tactil-bar-color-de-la-estructura-transparente/p/MLA23486209',
     affiliateUrl: 'https://meli.la/2GwL5yi',
     condition: 'new',
     freeShipping: true,
     rating: 2.2,
     soldQuantity: 500,
-    pastelColor: 'var(--pastel-blue)',
-    description: 'Descubre la elegancia y funcionalidad de la Lámpara Velador Led Recargable Usb Cristal Dimmer Táctil Bar de Alitrade. Fabricada en acrílico de alta calidad, esta lámpara combina diseño moderno y tecnología avanzada. Con una potencia de 3W y un voltaje de 5V, ofrece una iluminación eficiente y versát',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Velador LED decorativo de acrílico facetado transparente con efecto diamante. 3 temperaturas de luz (2700-6500K), control táctil dimmer, batería 2000 mAh con hasta 10 horas de autonomía, carga USB-C. 3W, 200lm. Luz de ambiente para mesita de noche, bar o decoración — no para leer o trabajar.',
+    pros: [
+      'Efecto diamante proyectado en paredes y techo',
+      '3 temperaturas de luz (cálida, natural, fría)',
+      'Control táctil con dimmer — sin botones físicos',
+      'Batería recargable USB-C — hasta 10 horas',
+      'Envío gratis',
+      '32% OFF — de $17.399 a $11.823',
+    ],
+    cons: [
+      '⚠️ No es luz funcional — 3W / 200lm no alcanzan para leer o trabajar',
+      '⚠️ Rating 2.2⭐ con solo 5 reseñas — muestra pequeña, tomar con cautela',
+      'Discrepancia de autonomía entre imagen (10h) y descripción (12h)',
+      'Si buscás luz de trabajo, elegí el Dakota LED recargable',
+    ],
+    verdict: 'Hay lámparas que iluminan y lámparas que decoran. Esta es la segunda. Si esperás luz funcional para leer, no es esto — con 3W y 200lm genera ambiente, no visibilidad. Para eso, mirá el Dakota LED. Para proyectar patrones geométricos en la pared y crear atmósfera, cumple. Rating bajo: 5 reseñas es muy poco para ser concluyente.',
+    seoTitle: 'Lámpara de Cristal LED Decorativa — Efecto Diamante, Recargable USB, 10hs',
+    metaDescription: 'Lámpara velador LED de acrílico cristal con efecto diamante en paredes. 3 temperaturas, control táctil, batería 10 horas, USB-C. Luz de ambiente para mesita o bar.',
+    ogTitle: 'La lámpara de cristal con efecto diamante en paredes — recargable, 10hs, USB-C',
+    ogDescription: 'Velador LED acrílico facetado: proyecta patrones geométricos en la pared con 3 temperaturas de luz y dimmer táctil. Recargable USB-C, 10 horas. Para ambiente — no para trabajo. Ver precio →',
+    h1: 'Lámpara de cristal LED con efecto diamante — luz de ambiente recargable para mesita, bar o rincón de decoración',
+    articleBody: `Hay lámparas que iluminan y lámparas que decoran. Esta es la segunda. Cuando el LED atraviesa el acrílico facetado, proyecta un patrón geométrico — círculos concéntricos, destellos radiales — en las paredes y el techo del cuarto. Es ese efecto que aparece en videos de decoración de dormitorios en TikTok. Si es eso lo que buscás, la lámpara lo hace.
+
+Lo que no hace: iluminar un escritorio para trabajar o leer. Con 3W y 200 lúmenes, la luz no alcanza para eso. Es luz de ambiente — la que ponés cuando ya terminaste de trabajar, para cenar, para ver una película, para que el cuarto tenga una atmósfera distinta. Esa distinción importa para saber si este producto es para vos o no.
+
+## El diseño
+
+El cuerpo es acrílico transparente con cortes facetados que imitan el aspecto del cristal o el vidrio tallado. Tiene 8.5 cm de diámetro y 24.5 cm de altura — formato de velador de mesita, ni muy grande ni muy chico. Sin cable a la vista cuando la usás: la batería interna se carga por USB-C y la lámpara funciona inalámbrica hasta 10 horas.
+
+El efecto visual que genera depende de la temperatura de luz. En luz cálida (2700K) el patrón proyectado tiene tonos dorados. En luz blanca fría (6500K) el patrón es más nítido y azulado. En luz natural (4000K) el punto intermedio. Los tres modos se cambian con un toque en el sensor táctil de la parte superior. Mantener presionado regula la intensidad sin cambiar el color.
+
+## Control táctil y autonomía
+
+Un toque: cambia entre las tres temperaturas de luz. Toque prolongado: dimmer continuo que sube o baja la intensidad. Sin botones físicos — toda la interfaz es la superficie táctil del tope.
+
+La batería de 2000 mAh se carga en 3.5 horas por USB-C. La autonomía declarada en las imágenes del producto es de 10 horas. El texto de descripción dice 12 horas — hay una diferencia entre ambas fuentes del mismo vendedor. En la práctica, en intensidad baja vas a acercarte más a 12 horas; en máxima intensidad, menos de 10.
+
+## ⚠️ Lo que hay que saber antes de comprar
+
+No es una lámpara de trabajo. 3W y 200 lúmenes es una cantidad de luz baja — adecuada para crear ambiente pero insuficiente para leer, estudiar o trabajar frente a una pantalla. Si necesitás luz funcional para el escritorio o la mesita de noche, la lámpara velador Dakota con cuello flexible y 5W hace ese trabajo mejor.
+
+El rating actual. Al momento de este artículo, el producto tiene 2.2 estrellas en ML con 5 calificaciones. Cinco reviews es una muestra muy pequeña para sacar conclusiones — el número puede cambiar significativamente con 20 o 30 opiniones más. Lo que sí es visible en las reseñas es que algunas tienen 1 estrella, lo que sugiere que el producto no cumplió las expectativas de algún comprador. Si esa brecha es de expectativas (comprador buscaba luz funcional) o de calidad real, con 5 reviews no es posible determinarlo. Tomalo en cuenta antes de comprar.
+
+El índice de reproducción cromática (CRI) declarado es >80, lo que es aceptable para uso general. No es un dato que importe mucho en una lámpara decorativa, pero indica que la luz no va a distorsionar los colores del ambiente de manera notoria.`,
+    specs: [
+      { label: 'Marca', value: 'Alitrade' },
+      { label: 'Tipo', value: 'Velador LED decorativo / Luz de ambiente' },
+      { label: 'Material', value: 'Acrílico transparente (efecto cristal)' },
+      { label: 'Color', value: 'Transparente / plateado' },
+      { label: 'Dimensiones', value: '8.5 cm diám. × 24.5 cm alto' },
+      { label: 'Potencia', value: '3W' },
+      { label: 'Flujo luminoso', value: '200 lm' },
+      { label: 'Temperaturas de luz', value: 'Cálida (2700K) / Natural / Blanca (6500K)' },
+      { label: 'Control', value: 'Táctil — 1 toque: cambia color / hold: dimmer' },
+      { label: 'Batería', value: '2000 mAh' },
+      { label: 'Autonomía', value: 'Hasta 10 horas' },
+      { label: 'Carga', value: '3.5 horas' },
+      { label: 'Puerto carga', value: 'USB-C' },
+      { label: 'CRI', value: '>80' },
+      { label: 'Vida útil LED', value: '20.000 horas' },
+      { label: 'Rating', value: '2.2 ⭐ (5 calificaciones — muestra pequeña)' },
+    ],
+    faq: [
+      {
+        question: '¿Esta lámpara sirve para iluminar un cuarto para leer o trabajar?',
+        answer:
+          'No. Con 3W y 200 lúmenes es una lámpara de ambiente — suficiente para crear atmósfera, no para tareas que requieran buena visibilidad. Para luz de trabajo en escritorio o mesita, el Velador LED Dakota de 5W con cuello orientable es más adecuado.',
+      },
+      {
+        question: '¿Qué es el efecto diamante que aparece en las fotos?',
+        answer:
+          'El acrílico facetado actúa como un prisma: cuando el LED interno se enciende, proyecta patrones geométricos (círculos, destellos radiales) en las paredes y el techo. El patrón cambia de tono según la temperatura de luz que elijas.',
+      },
+      {
+        question: '¿Necesita estar enchufada para funcionar?',
+        answer:
+          'No. La batería interna de 2000 mAh permite hasta 10 horas de uso sin cable. La cargás por USB-C y la usás en cualquier lugar sin depender de un enchufe cerca.',
+      },
+      {
+        question: '¿Cómo se controla?',
+        answer:
+          'Con el sensor táctil en la parte superior. Un toque corto cambia entre las tres temperaturas de luz (cálida, natural, blanca). Un toque prolongado activa el dimmer para ajustar la intensidad.',
+      },
+      {
+        question: '¿Cuánto tiempo dura la batería cargada?',
+        answer:
+          'Las imágenes del producto indican 10 horas. La descripción de texto dice 12 horas. Hay una discrepancia entre ambas fuentes. En la práctica, la duración varía según la intensidad — baja intensidad extiende la autonomía, máxima la reduce. Verificá el dato actualizado en el listado de ML.',
+      },
+      {
+        question: '¿La lámpara tiene pocas reseñas — es confiable?',
+        answer:
+          'Al momento de publicación, el producto tiene 5 calificaciones, lo que es una muestra muy pequeña. El promedio actual es 2.2 estrellas. Con tan pocas reseñas, el número puede cambiar mucho. Si el rating bajo te genera dudas, considerá esperar a que se acumulen más opiniones o evaluar el Velador Dakota, que tiene 439 reseñas a 4.6 estrellas.',
+      },
+      {
+        question: '¿Es una buena opción para regalar?',
+        answer:
+          'Si la persona destinataria le da valor a la decoración de ambientes (dormitorio, home office, rincón de relajación), el diseño visual es llamativo. Si busca una lámpara funcional para iluminar, no.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Lámpara Velador LED Cristal Acrílico Efecto Diamante — Recargable USB Dimmer Táctil',
+      description:
+        'Velador LED decorativo de acrílico facetado transparente con efecto diamante. 3 temperaturas de luz (2700-6500K), control táctil dimmer, batería 2000mAh con hasta 10 horas de autonomía, carga USB-C en 3.5 horas. 3W, 200lm. Diseño 8.5cm × 24.5cm. Iluminación de ambiente para mesita de noche, bar o decoración de interiores.',
+      brand: { '@type': 'Brand', name: 'Alitrade' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2GwL5yi',
+        priceCurrency: 'ARS',
+        price: 11823,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '2.2',
+        reviewCount: '5',
+      },
+    },
   },
   {
     id: 'MLA26853638',
