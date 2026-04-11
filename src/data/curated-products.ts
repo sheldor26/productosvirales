@@ -893,7 +893,7 @@ Lo que no hace: no es huevera de cerámica para mostrar en la mesada, no va al m
   },
   {
     id: 'MLA65102455',
-    title: 'Set Organizadores Para Escritorio Placard Kit X16 Acrilico Cajones Transparentes | Hogares Oficina Escritorio Papeles Útiles Papelería Accesorios | Multiuso Cocina Baño Heladera Y Alacena Levys Bazar',
+    title: 'Set Organizadores Acrílico Transparente x16 — Escritorio, Cajones, Placard',
     price: 28649,
     originalPrice: 49999,
     currency: 'ARS',
@@ -905,16 +905,127 @@ Lo que no hace: no es huevera de cerámica para mostrar en la mesada, no va al m
       'https://http2.mlstatic.com/D_NQ_NP_2X_895739-MLA106192987277_012026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_884906-MLA106193430715_012026-F.webp',
     ],
-    category: 'Arte, Librería y Mercería',
-    categorySlug: 'cocina',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/set-organizadores-para-escritorio-placard-kit-x16-acrilico-cajones-transparentes-hogares-oficina-escritorio-papeles-utiles-papeleria-accesorios-multiuso-cocina-bano-heladera-y-alacena-levys-bazar/p/MLA65102455',
     affiliateUrl: 'https://meli.la/1txDJEo',
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
     soldQuantity: 100,
-    pastelColor: 'var(--pastel-coral)',
-    description: 'Transforma tu espacio de trabajo con el Set Organizadores para escritorio de Levys bazar. Este conjunto de 16 elementos está diseñado para maximizar la funcionalidad y el estilo de tu escritorio, permitiéndote mantener todo en orden y al alcance de la mano. Cada organizador está fabricado con materi',
+    badge: 'hot-deal',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Set de 16 organizadores de plástico acrílico transparente en 5 tamaños distintos. Interior antideslizante con puntitos, apilables, 5.3cm de alto uniforme. Para escritorio, cajones, maquillaje, cocina y baño. Marca Levys Bazar.',
+    pros: [
+      '43% OFF — de $49.999 a $28.649',
+      '16 piezas en 5 tamaños distintos — combinás como querés',
+      'Todas del mismo alto (5.3 cm) — quedan al mismo nivel',
+      'Interior antideslizante con puntitos',
+      'Paredes con muescas para apilar sin deslizamiento',
+      'Rating 4.8⭐ con 39 opiniones reales',
+      'Marca argentina Levys Bazar',
+    ],
+    cons: [
+      'No apto para lavavajillas — el calor deforma el plástico',
+      'No recomendado para freezer (solo heladera)',
+      'Verificar medidas del cajón antes de comprar',
+    ],
+    verdict: 'El problema con los organizadores de cajón es que nunca encajan exactamente. Este set lo resuelve con 16 piezas en 5 tamaños que combinás como bloques. Una vez que armás el cajón con esto, no volvés atrás.',
+    seoTitle: 'Organizador Acrílico Transparente x16 Piezas — Cajones y Escritorio',
+    metaDescription: 'Set de 16 organizadores acrílicos transparentes en 5 tamaños. Interior antideslizante, apilables. Para maquillaje, cocina, escritorio y baño. 4.8 estrellas (39 opiniones).',
+    ogTitle: '16 organizadores transparentes para armar el cajón como quieras',
+    ogDescription: '5 tamaños distintos, todos del mismo alto. Interior antideslizante. Maquillaje, cocina, escritorio o baño — 4.8 estrellas en 39 opiniones. Ver precio →',
+    h1: 'Set de 16 organizadores acrílicos transparentes — 5 tamaños para armar como quieras',
+    articleBody: `El problema con comprar un organizador de cajón es que casi nunca encaja exactamente con lo que tenés que guardar. Las divisiones son fijas, el tamaño no es el correcto, termina siendo un organizador para las cosas del organizador anterior. Este set lo resuelve diferente: son 16 piezas individuales en 5 tamaños distintos, todas del mismo alto (5.3 cm), que combinás como bloques según lo que necesitás organizar.
+
+En un cajón de escritorio podés poner los más largos para lapiceras y marcadores, los cuadrados para clips y gomas, y los rectangulares para post-its y documentos. En el cajón del baño, los chicos para rimmel y sombras, los grandes para cremas y fragancias. La misma lógica funciona para el placard, la cocina y la mesada.
+
+Con 39 calificaciones en 4.8 estrellas, es de los productos con más opiniones positivas en su categoría en ML.
+
+## Las 5 medidas del set
+
+El set incluye 2 grandes cuadrados (15.2 × 15.2 cm), 1 grande rectangular (22.9 × 15.2 cm), 5 medianos rectangulares (15.2 × 7.6 cm), 2 largos rectangulares (22.9 × 7.6 cm) y 6 cuadrados chicos (7.6 × 7.6 cm). Total: 16 piezas.
+
+El alto es uniforme en todas las piezas — 5.3 cm — así quedan al mismo nivel dentro del cajón y se puede poner una tapa o bandeja encima sin que sobresalga ninguna.
+
+## Los detalles que hacen que funcione de verdad
+
+El interior tiene una textura con puntitos que actúa como antideslizante. Los objetos no se mueven cuando abrís el cajón bruscamente. Eso parece menor pero es lo que diferencia un organizador que se usa de uno que eventualmente termina en un rincón.
+
+Las paredes tienen pequeñas muescas de soporte que permiten apilarlos sin que se deslicen. Si guardás los que no usás, o si querés hacer dos niveles en un estante, las piezas se sostienen entre sí.
+
+El material es acrílico transparente — ves lo que hay adentro sin abrirlo ni tocarlo. Para cosméticos y artículos de baño donde tenés muchas piezas similares, eso ahorra tiempo.
+
+## Dónde más sirve además del escritorio
+
+Las imágenes del producto lo muestran en cuatro ambientes: cajón de maquillaje, mesada de baño con productos de skincare, cajón de escritorio con papelería, y cajón de cocina con cubiertos. Cualquiera de esos funciona bien. También sirve para el placard — los cuadrados chicos son perfectos para accesorios, corbatas o medias enrolladas.`,
+    specs: [
+      { label: 'Total de piezas', value: '16' },
+      { label: 'Tamaños distintos', value: '5' },
+      { label: 'Grande cuadrado', value: '15.2 × 15.2 × 5.3 cm (x2)' },
+      { label: 'Grande rectangular', value: '22.9 × 15.2 × 5.3 cm (x1)' },
+      { label: 'Mediano rectangular', value: '15.2 × 7.6 × 5.3 cm (x5)' },
+      { label: 'Largo rectangular', value: '22.9 × 7.6 × 5.3 cm (x2)' },
+      { label: 'Chico cuadrado', value: '7.6 × 7.6 × 5.3 cm (x6)' },
+      { label: 'Material', value: 'Plástico acrílico transparente' },
+      { label: 'Interior', value: 'Antideslizante con puntitos' },
+      { label: 'Apilable', value: 'Sí, con muescas de soporte' },
+      { label: 'Marca', value: 'Levys Bazar (Argentina)' },
+      { label: 'Rating', value: '4.8 ⭐ (39 opiniones)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuántas piezas trae el set y en qué tamaños?',
+        answer:
+          '16 piezas en 5 tamaños: 2 grandes cuadrados (15.2×15.2cm), 1 grande rectangular (22.9×15.2cm), 5 medianos rectangulares (15.2×7.6cm), 2 largos rectangulares (22.9×7.6cm) y 6 cuadrados chicos (7.6×7.6cm). Todos de 5.3cm de alto.',
+      },
+      {
+        question: '¿Son apilables?',
+        answer:
+          'Sí. Tienen muescas laterales de soporte que encajan entre piezas del mismo tamaño y permiten apilarlas sin que se deslicen.',
+      },
+      {
+        question: '¿Encajan en cajones estándar?',
+        answer:
+          'Depende de las dimensiones del cajón. El organizador más grande mide 22.9cm de largo — un cajón de escritorio o cocina estándar suele tener entre 30 y 50cm de fondo, así que entra sin problema. Para cajones más chicos, usás solo las piezas medianas y chicas.',
+      },
+      {
+        question: '¿Se pueden usar en heladera?',
+        answer:
+          'El material acrílico aguanta temperaturas de heladera sin problema. Para uso en freezer no está especificado — no lo recomendamos para temperaturas muy bajas.',
+      },
+      {
+        question: '¿El interior antideslizante es fácil de limpiar?',
+        answer:
+          'Sí. La textura puntillada no retiene suciedad — se limpia con paño húmedo o bajo el agua. No apto para lavavajillas porque el calor puede deformar el plástico.',
+      },
+      {
+        question: '¿Sirve para maquillaje y cosméticos?',
+        answer:
+          'Sí, es uno de los usos más comunes. Los cuadrados chicos (7.6×7.6cm) son perfectos para rimmel, correctores y labiales. Los medianos para pinceles, cremas y frascos pequeños.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Set 16 Organizadores Acrílicos Transparentes — 5 Tamaños',
+      description:
+        'Kit de 16 organizadores de plástico acrílico transparente en 5 tamaños distintos. Interior antideslizante, apilables, 5.3cm de alto uniforme. Para escritorio, cajones, maquillaje, cocina y baño.',
+      brand: { '@type': 'Brand', name: 'Levys Bazar' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1txDJEo',
+        priceCurrency: 'ARS',
+        price: 28649,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '39',
+      },
+    },
   },
   {
     id: 'MLA402624780',
