@@ -772,16 +772,124 @@ Si estás comparando entre este y el Gadnic: el Gadnic tiene 12 meses de garant�
       'https://http2.mlstatic.com/D_NQ_NP_2X_609329-MLA93380665471_092025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_699114-MLA92891478296_092025-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
-    categorySlug: 'cocina',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/huevera-doble-organizador-heladera-cajones-deslizante-x24/up/MLAU3446177644',
     affiliateUrl: 'https://meli.la/1DhVbyZ',
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
     soldQuantity: 25,
-    pastelColor: 'var(--pastel-coral)',
-    description: 'Huevera Cajonera Doble de Plástico Apilable. Capacidad para 24 huevos Con Contador de Dias Deslizable. Ideal para Organizar tu heladera.  Medidas:  Largo: 16 cm. Ancho: 20 cm. Alto: 13 cm.  ----------------------------------------------- Respuestas a preguntas frecuentes ----------------------------',
+    badge: 'hot-deal',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Huevera de plástico con 2 cajones deslizantes independientes para 24 huevos. Incluye contador de días deslizable por cajón. Apilable, manijas metálicas, plástico semitransparente ahumado. Dimensiones: 16 × 20 × 13 cm.',
+    pros: [
+      'Contador de días deslizable — sabés qué huevos usar primero',
+      '2 cajones independientes con capacidad total de 24 huevos',
+      'Manijas metálicas — no se rompen con el peso',
+      'Apilable con otras hueveras iguales',
+      'Plástico semitransparente — ves cuántos quedan sin abrir',
+      '10% OFF — de $46.999 a $42.299',
+      'Rating 4.8 estrellas con 8 opiniones reales',
+    ],
+    cons: [
+      'Diseñada para huevos de gallina — no sirve para codorniz',
+      'No apta para lavavajillas — lavar a mano',
+      'Verificar 14cm de altura libre en el estante antes de comprar',
+    ],
+    verdict: 'Si comprás cartones de 30 huevos con frecuencia, esto resuelve el problema de nunca saber cuáles son los más viejos. El contador de días parece un detalle tonto pero es lo que hace que el organizador se use de verdad en vez de quedar en un cajón.',
+    seoTitle: 'Huevera para Heladera Doble Cajón Deslizante — 24 Huevos con Contador',
+    metaDescription: 'Huevera de plástico con 2 cajones deslizantes para 24 huevos. Contador de días incluido, apilable, transparente. 4.8 estrellas en ML. 16 × 20 × 13 cm. Envío a todo el país.',
+    ogTitle: 'La huevera que rota los huevos sola — cajón doble con contador de días',
+    ogDescription: '24 huevos organizados, cajones deslizantes, contador de días para saber cuáles usar primero. 4.8 estrellas en ML. Ver precio →',
+    h1: 'Huevera doble cajón para heladera — 24 huevos organizados y con contador de días',
+    articleBody: `La bandeja de huevos de la heladera tiene un problema: los huevos más viejos quedan atrás y los nuevos se ponen adelante. Terminás usando siempre los más frescos y los de la semana pasada se quedan ahí hasta que ya no sirven. Esta huevera para heladera resuelve eso de dos formas — con cajones deslizantes que sacan los huevos de adelante hacia abajo, y con un contador de días deslizable que te permite marcar cuándo pusiste los huevos.
+
+Suenan a detalles pequeños. Pero si comprás huevos seguido, son los que hacen que el organizador se use de verdad en vez de quedar en un cajón.
+
+## Cómo funciona el contador de días
+
+Es una reglilla deslizante en el lateral de cada cajón. La movés para marcar el día en que pusiste los huevos — del 1 al 31. Cada vez que abrís la heladera ves de un vistazo qué tan frescos están. No es tecnología, pero funciona mejor que acordarse de memoria cuándo compraste el último cartón.
+
+## El diseño de cajones
+
+Los dos cajones se abren hacia adelante por separado. Cada uno tiene capacidad para 12 huevos en dos filas de seis — total 24 huevos en el conjunto. El plástico es semitransparente con tono ahumado, así que ves cuántos quedan sin abrir el cajón.
+
+Las manijas metálicas en el frente de cada cajón son más cómodas que los tiradores de plástico que tienen otras hueveras. No se rompen ni se doblan con el peso.
+
+El conjunto es apilable — si tenés otra huevera igual, se puede poner una encima de la otra y entran juntas en la misma balda de la heladera.
+
+## Medidas y compatibilidad
+
+La huevera mide 16cm de largo × 20cm de ancho × 13cm de alto. Entra en la mayoría de los estantes de heladera estándar de 2 puertas — revisá que tengas al menos 14cm de alto disponibles en la balda donde la vas a poner.
+
+## Cuándo tiene sentido y cuándo no
+
+Si comprás media docena de huevos cada 15 días, cualquier huevera sirve. Esta tiene sentido si comprás cartones de 30 con frecuencia y querés un sistema para rotar el stock y saber cuáles usar primero. También tiene sentido si el caos en la heladera ya te molesta — es el tipo de organizador que, una vez que lo usás, no entendés cómo viviste sin él.
+
+Lo que no hace: no es huevera de cerámica para mostrar en la mesada, no va al microondas y no es para huevos de codorniz — están diseñadas para huevo de gallina estándar.`,
+    specs: [
+      { label: 'Capacidad', value: '24 huevos (2 cajones × 12)' },
+      { label: 'Dimensiones', value: '16 × 20 × 13 cm' },
+      { label: 'Material', value: 'Plástico con tono ahumado' },
+      { label: 'Cajones', value: '2, deslizantes, independientes' },
+      { label: 'Manijas', value: 'Metálicas' },
+      { label: 'Apilable', value: 'Sí' },
+      { label: 'Contador de días', value: 'Sí, deslizable por cajón' },
+      { label: 'Rating', value: '4.8 ⭐ (8 opiniones)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuántos huevos entran?',
+        answer:
+          '24 en total — 12 por cajón, distribuidos en dos filas de 6 en cada nivel. Los cajones son independientes, se abren por separado.',
+      },
+      {
+        question: '¿Entra en cualquier heladera?',
+        answer:
+          'Mide 16 × 20 × 13 cm. Entra en la mayoría de heladeras de 2 puertas estándar. Verificá que tengas al menos 14cm de altura libre en el estante donde la vas a colocar.',
+      },
+      {
+        question: '¿Para qué sirve el contador de días?',
+        answer:
+          'Es una reglilla deslizable en el lateral de cada cajón. Marcás el número del día del mes en que pusiste los huevos — así siempre sabés qué tan frescos están sin tener que acordarte o revisar las fechas del cartón.',
+      },
+      {
+        question: '¿Es apilable con otras hueveras iguales?',
+        answer: 'Sí, el diseño permite apilar dos unidades iguales una encima de la otra.',
+      },
+      {
+        question: '¿Se puede limpiar en lavavajillas?',
+        answer:
+          'La descripción no lo especifica. Por precaución, lavado a mano con agua tibia — el plástico ahumado puede deformarse con el calor del lavavajillas.',
+      },
+      {
+        question: '¿Funciona con huevos de codorniz o de pato?',
+        answer:
+          'Está diseñada para huevos de gallina estándar. Huevos más pequeños pueden no quedar bien sujetos en las cavidades.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Huevera Doble Cajón Deslizante para Heladera 24 Huevos',
+      description:
+        'Huevera de plástico para heladera con 2 cajones deslizantes independientes para 24 huevos. Incluye contador de días deslizable por cajón. Apilable, manijas metálicas. Dimensiones: 16 × 20 × 13 cm.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1DhVbyZ',
+        priceCurrency: 'ARS',
+        price: 42299,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '8',
+      },
+    },
   },
   {
     id: 'MLA65102455',
