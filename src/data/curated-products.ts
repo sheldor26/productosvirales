@@ -1874,7 +1874,7 @@ Las imágenes del producto lo muestran en cuatro ambientes: cajón de maquillaje
   },
   {
     id: 'MLA705286189',
-    title: 'Aromatizador Ultrasonico Usb Led Rgb 6228',
+    title: 'Aromatizador Ultrasónico USB LED RGB Simil Madera 130ml',
     price: 12630.48,
     originalPrice: 13295,
     currency: 'ARS',
@@ -1886,16 +1886,137 @@ Las imágenes del producto lo muestran en cuatro ambientes: cajón de maquillaje
       'https://http2.mlstatic.com/D_NQ_NP_2X_914611-MLA71548995367_092023-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_693728-MLA71548809875_092023-F.webp',
     ],
-    category: 'Salud y Equipamiento Médico',
-    categorySlug: 'belleza',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://articulo.mercadolibre.com.ar/MLA-705286189-aromatizador-ultrasonico-usb-led-rgb-6228-_JM',
     affiliateUrl: 'https://meli.la/2QdWdwH',
     condition: 'new',
     freeShipping: false,
     rating: 4.2,
     soldQuantity: 500,
-    pastelColor: 'var(--pastel-pink)',
-    description: 'HUMIDIFICADOR DE AIRE ESFERA SIMIL MADERA 130 ml  <<<<< NO USAR ESCENCIAS AL ACEITE YA QUE DAÑA EL APARATO >>>> SOLO USAR ESENCIAS A BASE DE AGUA!  Novedoso humidificador que produce micro partículas de niebla que quedan suspendidas en el aire por más tiempo. Aire sano y natural! Interruptor de ence',
+    badge: 'trending',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Aromatizador de ambiente ultrasónico con luz LED RGB multicolor. Diseño simil madera oscura. Capacidad 130ml, alimentación USB 5V, control táctil, silencioso. Solo compatible con esencias a base de agua. Rating 4.2⭐ con 54 opiniones.',
+    pros: [
+      'Diseño simil madera — parece decoración, no gadget',
+      'LED RGB multicolor automático — funciona como lámpara de ambiente',
+      'Alimentación USB — sirve con cualquier cargador o power bank',
+      'Silencioso — apto para usar mientras dormís',
+      'Rating 4.2⭐ con 54 opiniones reales',
+      'Control táctil en la parte superior',
+    ],
+    cons: [
+      '⚠️ CRÍTICO: Solo esencias a base de agua — aceites esenciales dañan la membrana',
+      'Depósito de 130ml — corto para ambientes de más de 20m²',
+      'Duración por carga: 3-4 horas en modo continuo',
+    ],
+    verdict: 'La mayoría de los aromatizadores se ven como aparatos. Este parece un objeto decorativo — el recubrimiento simil madera lo hace funcionar en una mesa de luz o escritorio sin romper el ambiente. Eso sí: usá solo esencias acuosas o lo arruinás.',
+    seoTitle: 'Aromatizador de Ambiente USB con LED RGB — Simil Madera, 130ml',
+    metaDescription: 'Aromatizador ultrasónico USB con luz LED RGB multicolor. Diseño simil madera, 130ml, silencioso. 4.2 estrellas en 54 opiniones. Ideal para escritorio, mesa de luz o dormitorio.',
+    ogTitle: 'El aromatizador que parece adorno — simil madera, LED RGB, USB',
+    ogDescription: 'Niebla ultrasónica, luz LED multicolor, diseño madera. 130ml, silencioso, alimentado por USB. 4.2 estrellas en 54 opiniones. Ver precio en ML →',
+    h1: 'Aromatizador de ambiente ultrasónico con LED — diseño madera que no parece un gadget',
+    articleBody: `La mayoría de los aromatizadores eléctricos tienen un problema de diseño: se ven exactamente como lo que son — un aparato de plástico blanco con LEDs. Este es diferente. El recubrimiento simil madera oscura hace que parezca un objeto decorativo. En la mesa de luz o en el escritorio no llama la atención como gadget; entra en el ambiente.
+
+Lo que hace es lo que hacen todos los aromatizadores ultrasónicos: convierte agua con unas gotas de esencia en una niebla fina que se dispersa en el aire. El ultrasónico trabaja sin calor — la membrana vibra a alta frecuencia, lo que genera las micro-partículas de vapor sin llegar a hervirlas. Eso es mejor para las esencias porque no altera sus propiedades.
+
+La luz LED cambia de color automáticamente. Hace las veces de lámpara de ambiente cuando no hay mucha luz en el cuarto — es uno de esos detalles que no sabés que ibas a usar hasta que lo tenés.
+
+## ⚠️ Una advertencia importante antes de comprar
+
+Este aromatizador es ultrasónico y solo funciona con esencias a base de agua. Los aceites esenciales puros — los que vienen en esos frascos chicos de 10ml con cuentagotas — dañan la membrana ultrasónica y arruinan el aparato.
+
+Cuando comprés las esencias, fijate que el envase diga "esencia a base de agua" o "apta para humidificadores ultrasónicos". Las marcas argentinas como Saphirus tienen esencias específicas para difusores que funcionan bien. Si no estás seguro, consultá al vendedor de la esencia antes de usarla.
+
+## Cómo funciona
+
+Se conecta por USB — a un cargador de 5V, a una computadora, a un power bank. Cualquier fuente USB sirve. Girás la tapa en sentido antihorario, llenás el depósito de 130ml hasta la marca máxima, agregás 3-5 gotas de esencia en el agua, cerrás y apretás el botón táctil de la parte superior.
+
+Hay que esperar 5 minutos la primera vez para que la mecha de algodón absorba bien el agua antes de que salga la niebla. En los usos siguientes no hace falta esperar.
+
+El nivel sonoro es muy bajo — en una habitación sin ruido casi no se escucha. Funciona bien encendido toda la noche en un dormitorio.
+
+## Para qué espacios funciona
+
+El depósito de 130ml es para espacios chicos: escritorio de trabajo, mesa de luz, baño, oficina. Para aromatizar un living grande o un ambiente de más de 20m², la capacidad puede quedarse corta — necesitarías recargarlo cada pocas horas o usar un modelo con depósito mayor.
+
+Para habitaciones medianas y espacios de trabajo, alcanza sin problema.
+
+## Lo que dicen los compradores en ML
+
+El resumen de opiniones de ML dice: "elegante y funciona bien, siendo ideal para espacios pequeños como una mesa de luz. Ofrece una buena relación costo/calidad y aromatiza eficazmente sin generar humedad." 54 calificaciones, 40 comentarios escritos. Para un aromatizador de precio accesible, eso es bastante respaldo real.`,
+    specs: [
+      { label: 'Capacidad', value: '130 ml' },
+      { label: 'Dimensiones', value: '10 × 9.8 cm' },
+      { label: 'Potencia', value: '3W' },
+      { label: 'Alimentación', value: 'USB 5V / 500mA' },
+      { label: 'Largo de cable', value: '1 metro' },
+      { label: 'Material', value: 'Plástico ABS simil madera' },
+      { label: 'Luz', value: 'LED RGB multicolor' },
+      { label: 'Control', value: 'Botón táctil' },
+      { label: 'Incluye', value: 'Cable USB + filtro' },
+      { label: 'Esencias compatibles', value: 'Solo a base de agua' },
+      { label: 'Duración por carga', value: '3-4 horas en modo continuo' },
+      { label: 'Rating', value: '4.2 ⭐ (54 opiniones)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué esencias puedo usar?',
+        answer:
+          'Solo esencias a base de agua — las específicas para humidificadores ultrasónicos. Los aceites esenciales puros dañan la membrana del aparato. Buscá esencias que digan "apta para difusor ultrasónico". Las de la marca Saphirus en formato acuoso funcionan bien.',
+      },
+      {
+        question: '¿También humidifica el aire o solo aromatiza?',
+        answer:
+          'Las dos cosas. La niebla ultrasónica agrega humedad al aire del ambiente, lo que puede ayudar en épocas de calefacción o en espacios con aire muy seco. No es un humidificador de alto volumen — el efecto es suave y gradual.',
+      },
+      {
+        question: '¿Se puede usar mientras dormís?',
+        answer:
+          'Sí. El nivel de ruido es muy bajo. La luz LED puede ser un factor — si el color te molesta para dormir, podés cubrirla o apagar el LED si tiene esa opción.',
+      },
+      {
+        question: '¿Cuánto dura la carga de 130ml?',
+        answer:
+          'Depende de la configuración. En modo continuo, 130ml dura aproximadamente 3-4 horas. En modo intermitente dura más.',
+      },
+      {
+        question: '¿Funciona con power bank?',
+        answer:
+          'Sí, cualquier fuente USB de 5V sirve. Power bank, cargador de celular, computadora, auto con puerto USB.',
+      },
+      {
+        question: '¿Para ambientes grandes funciona?',
+        answer:
+          'Para espacios de hasta 15-20m² sí. Para ambientes más grandes, el efecto va a ser leve — la capacidad de 130ml no alcanza para aromatizar mucho volumen de aire de forma intensa.',
+      },
+      {
+        question: '¿Hay que usar solo esencias o también funciona con agua sola?',
+        answer:
+          'Funciona con agua sola como humidificador. Las esencias son opcionales — se agregan al depósito de agua, no en un compartimiento separado.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aromatizador Ultrasónico USB LED RGB Simil Madera 130ml',
+      description:
+        'Aromatizador de ambiente ultrasónico con luz LED RGB multicolor. Diseño simil madera. Capacidad 130ml, alimentación USB 5V, control táctil, silencioso. Solo compatible con esencias a base de agua.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2QdWdwH',
+        priceCurrency: 'ARS',
+        price: 12630,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.2',
+        reviewCount: '54',
+      },
+    },
   },
   {
     id: 'MLA841529901',
