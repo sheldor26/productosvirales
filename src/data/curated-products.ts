@@ -2494,7 +2494,7 @@ El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
   },
   {
     id: 'MLA886877609',
-    title: 'Humidificador Difusor Vaporizador Purificador De Ambiente',
+    title: 'Humidificador Portátil USB 220ml — Difusor Aromático Cápsula Blanca',
     price: 8399,
     originalPrice: undefined,
     currency: 'ARS',
@@ -2506,16 +2506,140 @@ El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
       'https://http2.mlstatic.com/D_NQ_NP_2X_855236-MLA43994368654_112020-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_930021-MLA43994358939_112020-F.webp',
     ],
-    category: 'Salud y Equipamiento Médico',
-    categorySlug: 'belleza',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://articulo.mercadolibre.com.ar/MLA-886877609-humidificador-difusor-vaporizador-purificador-de-ambiente-_JM',
     affiliateUrl: 'https://meli.la/2eeBETs',
     condition: 'new',
     freeShipping: true,
     rating: 4.1,
     soldQuantity: 1000,
-    pastelColor: 'var(--pastel-pink)',
-    description: 'SKU: HDEHUM3537 Difusor Humidificador Aromatizante (con filtro)  En nuestras publicaciones podrás encontrar esencias al agua, aptas para todo tipo de humidificadores  ////////////////////////////////////////////////////////////////  ¡Publicación en MegaOferta! Comprá ahora y asegurate esta Oferta.  ',
+    badge: 'trending',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Humidificador ultrasónico USB 220ml de diseño cápsula blanco. 5 horas de funcionamiento continuo, cubre 20m², silencioso, compacto (8×8×10 cm). Portátil, funciona con cualquier fuente USB DC 5V. Para escritorio, mesita de noche o viaje. 195 opiniones en ML.',
+    pros: [
+      '220ml — el USB con más capacidad del sitio (vs 130ml estándar)',
+      '5 horas de autonomía continua',
+      'Envío gratis',
+      'Diseño minimalista blanco — discreto en cualquier ambiente',
+      'Compacto (8×8×10 cm) — ideal para viajes',
+      'Alimentación USB — power bank, cargador de cel o notebook',
+      'Silencioso, apto para dormitorio',
+    ],
+    cons: [
+      '⚠️ NO usar esencias con parafina (tipo hornito) — dañan el mecanismo',
+      '⚠️ Garantía de solo 30 días — la más corta de la categoría',
+      'No tiene apagado automático declarado',
+      'Marca genérica — sin soporte local',
+    ],
+    verdict: 'Si los USB de 130ml se te quedan cortos pero no querés saltar a los 300ml con enchufe, este es el punto intermedio. 220ml, 5 horas, compacto, blanco. Cumple bien para escritorio o viaje, siempre que no uses esencias de hornito.',
+    seoTitle: 'Humidificador Portátil USB 220ml — Difusor Aromático Silencioso Blanco',
+    metaDescription: 'Humidificador USB 220ml compacto, 5 horas de niebla continua, cubre 20m². Diseño cápsula blanco, silencioso. Ideal para escritorio o viaje. 4.1 estrellas en 195 opiniones.',
+    ogTitle: 'El humidificador USB compacto con 220ml — 5 horas de niebla, diseño blanco minimalista',
+    ogDescription: 'Difusor portátil USB 220ml: 5 horas continuas, cubre 20m², silencioso. Más capacidad que los modelos de 130ml. Funciona con power bank o cargador de cel. Ver precio →',
+    h1: 'Humidificador portátil USB 220ml — el difusor compacto con más capacidad para el escritorio o el viaje',
+    articleBody: `El 220ml marca una diferencia en esta categoría. Los humidificadores USB más económicos arrancan en 130ml — 3 o 4 horas de autonomía en el mejor caso. Este modelo mete 220ml en un cuerpo de 8×8×10 cm, lo que se traduce en 5 horas de funcionamiento continuo. El tamaño no cambia demasiado (cabe en cualquier bolso) pero la duración sube.
+
+Diseño cápsula blanco, sin adornos, sin simulación de madera, sin LEDs de colores llamativos. Una franja de luz discreta en el medio que cambia de tono — eso es todo. Si los otros modelos de la categoría apuestan por el efecto visual de la madera o el RGB, este apuesta por desaparecer en cualquier ambiente. Va igual de bien en un escritorio de oficina que en una mesita de noche minimalista.
+
+## Para qué sirve exactamente
+
+El vapor ultrasónico convierte agua en niebla fina que sale por la parte superior del dispositivo. Aromatizás el espacio agregando unas gotas de fragancia diluida al depósito de agua. El fabricante especifica una cobertura de 20m² — razonable para un cuarto de tamaño estándar, un escritorio de trabajo o un rincón de estudio.
+
+El funcionamiento es silencioso. No tiene ventilador ni compresor — el sistema piezoeléctrico opera sin partes móviles y no emite sonido audible. Se puede tener funcionando mientras trabajás o dormís sin que moleste.
+
+## El tema de la portabilidad
+
+8 × 8 × 10 cm y alimentación USB significan que va en cualquier bolso y funciona con cualquier power bank, cargador de celular o puerto USB de notebook. No necesita toma de 220V. Para viajes, para oficina compartida donde no siempre hay toma disponible cerca, o simplemente para moverlo entre ambientes sin pensar en cables, el USB es una ventaja real.
+
+El cable viene incluido en la caja.
+
+## ⚠️ Lo que hay que saber antes de comprar
+
+Esencias prohibidas: el fabricante aclara explícitamente que no hay que usar esencias con parafina — las del tipo "hornito" que se usan para quemar en casa. Esas formulaciones dañan el mecanismo ultrasónico. Usar solo fragancias o esencias diluidas en agua, sin parafina.
+
+No tiene apagado automático declarado: las especificaciones no mencionan sensor de nivel de agua ni timer de apagado. En 5 horas el depósito debería vaciarse solo, pero si lo cargás parcialmente no hay un sistema que lo frene automáticamente. Vale la pena controlar el nivel si lo usás por períodos cortos.
+
+Garantía de 30 días: es la garantía más corta de todos los modelos en este sitio. Todos los otros modelos vienen con 6 meses o más. Eso es un dato que vale la pena considerar al comparar precios — el precio puede ser menor, pero el respaldo también lo es.`,
+    specs: [
+      { label: 'Tipo', value: 'Humidificador / Difusor aromático / Vaporizador' },
+      { label: 'Capacidad', value: '220 ml' },
+      { label: 'Dimensiones', value: '8 × 8 × 10 cm' },
+      { label: 'Alimentación', value: 'USB DC 5V' },
+      { label: 'Autonomía', value: '5 horas (modo continuo)' },
+      { label: 'Área de cobertura', value: '20 m²' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Funcionamiento', value: 'Silencioso (ultrasónico)' },
+      { label: 'LED', value: 'Franja de luz con cambio de tono' },
+      { label: 'Fragancias compatibles', value: 'A base de agua, SIN parafina' },
+      { label: 'Apagado automático', value: 'No especificado' },
+      { label: 'Incluye', value: '1x Difusor + 1x Cable USB' },
+      { label: 'Garantía', value: '30 días (vendedor)' },
+      { label: 'Rating', value: '4.1 ⭐ (195 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué esencias puedo usar?',
+        answer:
+          'Fragancias o esencias diluidas en agua que no contengan parafina. Las esencias para hornito (de quemar) están expresamente prohibidas por el fabricante — dañan el mecanismo ultrasónico. Si no estás seguro si tu esencia tiene parafina, revisá los ingredientes antes de usarla.',
+      },
+      {
+        question: '¿Cuántas horas funciona?',
+        answer:
+          '5 horas en modo continuo con el depósito lleno de 220ml. Si lo cargás con menos agua, la duración baja proporcionalmente.',
+      },
+      {
+        question: '¿Con qué se alimenta?',
+        answer:
+          'USB DC 5V — cualquier cargador de celular, hub de escritorio, power bank o puerto USB de notebook. El cable USB viene incluido en la caja.',
+      },
+      {
+        question: '¿Es portátil para viaje?',
+        answer:
+          'Sí. Con 8×8×10 cm y peso liviano entra en cualquier bolso de mano o mochila. No necesita toma de 220V — funciona donde haya un USB.',
+      },
+      {
+        question: '¿Hace ruido?',
+        answer:
+          'El sistema ultrasónico no produce ruido audible. Es apto para usar mientras dormís o trabajás.',
+      },
+      {
+        question: '¿Tiene apagado automático?',
+        answer:
+          'No está especificado en las características del producto. A diferencia de modelos con timer o sensor, este no tiene apagado automático declarado. En 5 horas el depósito lleno debería vaciarse por completo.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer:
+          '30 días del vendedor — la cobertura más corta entre los humidificadores disponibles en este sitio. Si la duración de la garantía es importante para tu compra, el Gadnic DIFU0001 tiene cobertura más amplia como marca argentina.',
+      },
+      {
+        question: '¿Cuánto espacio cubre?',
+        answer:
+          'El fabricante indica 20m² de cobertura. Apto para cuartos, oficinas chicas o rincones de trabajo. Para ambientes más grandes o espacios abiertos conectados, los modelos de 300ml con más potencia van a dar un resultado mejor.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Humidificador Difusor Portátil USB 220ml Cápsula Blanco',
+      description:
+        'Humidificador ultrasónico USB 220ml de diseño cápsula blanco. 5 horas de funcionamiento continuo, cubre 20m², silencioso, compacto (8×8×10 cm). Portátil, funciona con cualquier fuente USB DC 5V. Para escritorio, mesita de noche o viaje.',
+      brand: { '@type': 'Brand', name: 'Genérico' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2eeBETs',
+        priceCurrency: 'ARS',
+        price: 8399,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.1',
+        reviewCount: '195',
+      },
+    },
   },
   {
     id: 'MLA38663276',
