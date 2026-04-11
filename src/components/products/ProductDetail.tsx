@@ -11,9 +11,10 @@ import type { Product } from "@/lib/types";
 
 interface ProductDetailProps {
   product: Product;
+  relatedProducts?: Product[];
 }
 
-export function ProductDetail({ product }: ProductDetailProps) {
+export function ProductDetail({ product, relatedProducts = [] }: ProductDetailProps) {
   const discount = product.originalPrice
     ? formatDiscount(product.originalPrice, product.price)
     : null;
@@ -316,6 +317,61 @@ export function ProductDetail({ product }: ProductDetailProps) {
                   {item.answer}
                 </div>
               </details>
+            ))}
+          </div>
+        </motion.section>
+      )}
+
+      {/* ─── Comparar con otros modelos (interlinking) ─── */}
+      {relatedProducts.length > 0 && (
+        <motion.section
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.4, delay: 0.45 }}
+          className="mt-10 max-w-3xl"
+        >
+          <h2
+            className="text-lg font-bold text-[var(--text-primary)] mb-4"
+            style={{ fontFamily: 'var(--font-display)' }}
+          >
+            Comparar con otros modelos
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {relatedProducts.map((related) => (
+              <Link
+                key={related.id}
+                href={`/producto/${related.id}`}
+                className="group flex items-center gap-3 p-3 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
+              >
+                <div
+                  className="relative w-16 h-16 shrink-0 rounded-[var(--radius-badge)] overflow-hidden"
+                  style={{ backgroundColor: related.pastelColor || '#f8f8f6' }}
+                >
+                  {related.image && (
+                    <Image
+                      src={related.image}
+                      alt={related.title}
+                      fill
+                      sizes="64px"
+                      className="object-contain p-1.5"
+                      unoptimized
+                    />
+                  )}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <p className="text-[13px] font-semibold text-[var(--text-primary)] line-clamp-2 leading-tight group-hover:text-[var(--cta-bg)] transition-colors">
+                    {related.title}
+                  </p>
+                  <p className="text-xs text-[var(--text-muted)] mt-1">
+                    {formatPrice(related.price)}
+                    {related.rating && ` · ${related.rating}⭐`}
+                  </p>
+                </div>
+                <ArrowRight
+                  size={14}
+                  className="shrink-0 text-[var(--text-muted)] group-hover:text-[var(--cta-bg)] group-hover:translate-x-0.5 transition-all"
+                />
+              </Link>
             ))}
           </div>
         </motion.section>

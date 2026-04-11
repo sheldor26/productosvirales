@@ -39,6 +39,11 @@ export default async function ProductPage({ params }: Props) {
     notFound();
   }
 
+  // Explicit cross-links defined on the product (manual interlinking)
+  const explicitRelated = (product.relatedProducts || [])
+    .map((id) => curatedProducts.find((p) => p.id === id))
+    .filter((p): p is NonNullable<typeof p> => p !== undefined);
+
   const related = curatedProducts
     .filter((p) => p.categorySlug === product.categorySlug && p.id !== product.id)
     .slice(0, 4);
@@ -94,7 +99,7 @@ export default async function ProductPage({ params }: Props) {
         />
       )}
 
-      <ProductDetail product={product} />
+      <ProductDetail product={product} relatedProducts={explicitRelated} />
 
       {related.length > 0 && (
         <ProductGrid

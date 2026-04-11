@@ -32,6 +32,7 @@ export interface Product {
   faq?: Array<{ question: string; answer: string }>;
   specs?: Array<{ label: string; value: string }>;
   structuredData?: Record<string, unknown>;
+  relatedProducts?: string[]; // Array of product IDs for cross-linking
 }
 
 export interface TrendingKeyword {

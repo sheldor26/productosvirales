@@ -123,6 +123,7 @@ Limpiá la boquilla con un trapo seco cada tanto para mantener la succión al m�
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
     },
+    relatedProducts: ['MLA3807310356'],
   },
   {
     id: 'MLA3807310356',
@@ -248,6 +249,7 @@ Lo que me parece bien resuelto en este modelo es el imán. La mayoría de las se
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
     },
+    relatedProducts: ['MLAU3809091558'],
   },
   {
     id: 'MLA2466154786',
@@ -385,6 +387,7 @@ Enjuague con agua tibia. El acero inox 304 no retiene olores ni manchas. No meta
         reviewCount: '14',
       },
     },
+    relatedProducts: ['MLA1572699337'],
   },
   {
     id: 'MLA1572699337',
@@ -528,6 +531,7 @@ Enjuague con agua tibia. El acero inoxidable no absorbe olores. No uses esponjas
         reviewCount: '2',
       },
     },
+    relatedProducts: ['MLA2466154786'],
   },
   {
     id: 'MLA3674559257',
@@ -635,6 +639,7 @@ No tiene mucho sentido comprarlo si solo cocinás salsas de vez en cuando o si y
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
     },
+    relatedProducts: ['MLA2631146943'],
   },
   {
     id: 'MLA2631146943',
@@ -757,6 +762,7 @@ Si estás comparando entre este y el Gadnic: el Gadnic tiene 12 meses de garant�
         seller: { '@type': 'Organization', name: 'MercadoLibre' },
       },
     },
+    relatedProducts: ['MLA3674559257'],
   },
   {
     id: 'MLA3446177644',
@@ -890,6 +896,7 @@ Lo que no hace: no es huevera de cerámica para mostrar en la mesada, no va al m
         reviewCount: '8',
       },
     },
+    relatedProducts: ['MLA65102455'],
   },
   {
     id: 'MLA65102455',
@@ -1026,6 +1033,7 @@ Las imágenes del producto lo muestran en cuatro ambientes: cajón de maquillaje
         reviewCount: '39',
       },
     },
+    relatedProducts: ['MLA3446177644'],
   },
   {
     id: 'MLA402624780',
@@ -1178,6 +1186,7 @@ Tipo de recubrimiento no especificado: las especificaciones no aclaran si el ant
         reviewCount: '10',
       },
     },
+    relatedProducts: ['MLA3446177644', 'MLA65102455'],
   },
   {
     id: 'MLA139114583',
@@ -2144,6 +2153,7 @@ El resumen de opiniones de ML dice: "elegante y funciona bien, siendo ideal para
         reviewCount: '54',
       },
     },
+    relatedProducts: ['MLA231395761', 'MLA210122868', 'MLA886877609', 'MLA841529901'],
   },
   {
     id: 'MLA841529901',
@@ -2308,6 +2318,7 @@ El packaging del tren en colores bronce/plata, negro o dorado es lo que hace que
         reviewCount: '43',
       },
     },
+    relatedProducts: ['MLA231395761', 'MLA705286189', 'MLA210122868', 'MLA886877609'],
   },
   {
     id: 'MLA231395761',
@@ -2468,6 +2479,7 @@ Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mie
         reviewCount: '693',
       },
     },
+    relatedProducts: ['MLA210122868', 'MLA886877609', 'MLA841529901', 'MLA705286189'],
   },
   {
     id: 'MLA210122868',
@@ -2618,6 +2630,7 @@ El modo correcto de uso: primero el agua, después la fragancia. No al revés.`,
         reviewCount: '316',
       },
     },
+    relatedProducts: ['MLA231395761', 'MLA886877609', 'MLA705286189', 'MLA841529901'],
   },
   {
     id: 'MLA886877609',
@@ -2767,6 +2780,7 @@ Garantía de 30 días: es la garantía más corta de todos los modelos en este s
         reviewCount: '195',
       },
     },
+    relatedProducts: ['MLA231395761', 'MLA210122868', 'MLA705286189', 'MLA841529901'],
   },
   {
     id: 'MLA38663276',
@@ -2947,6 +2961,7 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
         reviewCount: '439',
       },
     },
+    relatedProducts: ['MLA26853638', 'MLA23486209'],
   },
   {
     id: 'MLA1454279831',
@@ -3166,6 +3181,7 @@ El índice de reproducción cromática (CRI) declarado es >80, lo que es aceptab
         reviewCount: '5',
       },
     },
+    relatedProducts: ['MLA47263010', 'MLA26853638'],
   },
   {
     id: 'MLA26853638',
@@ -3318,6 +3334,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
         reviewCount: '58',
       },
     },
+    relatedProducts: ['MLA47263010', 'MLA23486209'],
   },
   {
     id: 'MLA57493486',
