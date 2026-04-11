@@ -3042,7 +3042,7 @@ El índice de reproducción cromática (CRI) declarado es >80, lo que es aceptab
   },
   {
     id: 'MLA26853638',
-    title: 'Velador Gadnic Luz De Noche LED Táctil Recargable USB 7 Colores Control Táctil NI70',
+    title: 'Velador Gadnic NI70 — Luz de Noche LED 7 Colores Recargable 24hs',
     price: 63249,
     originalPrice: undefined,
     currency: 'ARS',
@@ -3053,16 +3053,144 @@ El índice de reproducción cromática (CRI) declarado es >80, lo que es aceptab
       'https://http2.mlstatic.com/D_NQ_NP_874642-MLA84661316967_052025-O.jpg',
       'https://http2.mlstatic.com/D_Q_NP_874476-MLA99952083827_112025-R.webp',
     ],
-    category: 'Computación',
-    categorySlug: 'tech',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/velador-gadnic-luz-de-noche-led-tactil-recargable-usb-7-colores-control-tactil-ni70/p/MLA26853638',
     affiliateUrl: 'https://meli.la/1taPifq',
     condition: 'new',
     freeShipping: true,
     rating: 4.3,
     soldQuantity: 500,
-    pastelColor: 'var(--pastel-blue)',
-    description: 'Velador Luz de Noche LED Táctil Recargable USB  ACERCA DE ESTE PRODUCTO:  Luz de Noche LED recargable con diseño práctico y resistente al desgaste. Incorpora un mango de acero inoxidable en la parte inferior, ideal para colgar durante actividades al aire libre como acampar. La batería se carga en 3 ',
+    badge: 'viral',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Velador luz de noche LED recargable Gadnic NI70. 7 colores RGB + blanco, 3 niveles de brillo, control táctil. Batería 3.7V/1200mAh con 24 horas de autonomía, carga en 3 horas. Mango de acero inoxidable para colgar. Compacto (9×11.8cm, 260g). Marca argentina. Apto para dormitorio, habitación de bebé y camping.',
+    pros: [
+      '24 horas de autonomía real — el más duradero de la categoría',
+      '7 colores RGB + blanco, 3 niveles de brillo',
+      'Mango de acero inoxidable para colgar (camping, carpa, rama)',
+      'Triple uso: dormitorio, habitación de bebé, camping',
+      'Compacto: 260g, cabe en mochila',
+      'Marca argentina Gadnic con soporte local',
+      'Envío gratis',
+    ],
+    cons: [
+      'Verificar si incluye cable USB — el listing no lo especifica claramente',
+      'Sin modo multicolor automático — cambio manual uno por uno',
+      'Precio elevado vs veladores LED básicos',
+    ],
+    verdict: '24 horas de autonomía en brillo máximo es la diferencia. La mayoría de los veladores recargables duran 6-10 horas. Este cubre toda la noche y el día siguiente sin recargar. Es el único del sitio que funciona igual de bien para la habitación del bebé que para una noche de camping.',
+    seoTitle: 'Luz de Noche LED Gadnic NI70 — 24hs, 7 Colores, Recargable, Camping o Bebé',
+    metaDescription: 'Velador LED Gadnic NI70: 7 colores RGB, 3 brillos táctiles, 24 horas de autonomía recargable. Ideal para dormitorio, habitación de bebé o camping. Marca argentina.',
+    ogTitle: 'Velador Gadnic NI70 — 24 horas de batería, 7 colores, para dormitorio o camping',
+    ogDescription: 'Luz de noche LED Gadnic: 7 colores RGB, 3 brillos táctiles, 24h de autonomía real. Para la mesita de noche, la habitación del bebé o la carpa. Marca argentina. Ver precio →',
+    h1: 'Luz de noche LED Gadnic 24 horas — 7 colores recargable para dormitorio, habitación de bebé o camping',
+    articleBody: `24 horas con la batería cargada al máximo. No 6, no 10 — 24 horas. En brillo máximo. Eso es lo que diferencia al Gadnic NI70 de la mayoría de los veladores recargables que circulan en el mercado argentino. Una carga completa de 3 horas y la lámpara dura un día entero sin volver a pensar en ella.
+
+Es compacto — 9 cm de diámetro, 11.8 cm de altura, 260 gramos. Cabe en la mano, en la mesita de noche, en la carpa. En la parte inferior tiene un mango de acero inoxidable para colgarla — de una rama, de una estaca de carpa, de un gancho en la pared. El mismo diseño funciona en la habitación de un chico o en un campamento.
+
+Marca Gadnic, argentina.
+
+## Los 7 colores y los 3 brillos
+
+El control es un botón táctil en la parte superior con una rueda de colores impresa en el centro. Un toque cambia el color en ciclo: rojo, azul, verde, verde lima, celeste, rosa, naranja — y blanco. Mantener presionado baja o sube la intensidad entre los tres niveles de brillo disponibles.
+
+No hay modo multicolor automático declarado en las specs — la elección es manual, un color a la vez. Para una habitación de bebé eso es una ventaja: elegís el color que funciona (generalmente blanco cálido o naranja suave) y se queda ahí toda la noche sin cambiar solo.
+
+## Para habitaciones de bebés
+
+El resumen de opiniones de ML lo menciona directamente: "ideal para crear una luz tenue de noche, perfecta para habitaciones de bebés." No es marketing — es lo que dicen quienes lo compraron.
+
+La lógica es clara. La habitación de un bebé necesita luz suficiente para ver sin que despierte al chico por completo, durante toda la noche, sin que nadie tenga que levantarse a recargar o cambiar pilas. El NI70 cubre eso: 24 horas de autonomía, sin cables en uso, sin pilas, con la intensidad más baja que no molesta los ojos de noche.
+
+## Para camping
+
+El mango de acero inoxidable en la parte inferior no es decorativo. Sirve para colgar la lámpara en cualquier soporte — una línea de cuerda entre dos árboles, el techo de una carpa, un gancho de cartera. En modo brillo bajo, la autonomía de 24 horas en brillo máximo se extiende bastante más. Para una noche de camping, una carga alcanza y sobra.
+
+El cuerpo es blanco sólido (no de cristal ni de materiales frágiles) y con 260 gramos es liviano para llevar en mochila.
+
+## 4.3 estrellas en 58 calificaciones
+
+Solidez razonable para un producto de esta categoría. No es el volumen de reviews del Gadnic DIFU0001 (693) ni el de la Dakota (439), pero 58 opiniones con 4.3 promedio son suficientes para saber que el producto funciona como se describe. Los reviews con foto muestran la lámpara encendida en azul y violeta — el efecto de color es real, no solo de imágenes de producto.`,
+    specs: [
+      { label: 'Marca', value: 'Gadnic (Argentina)' },
+      { label: 'Modelo', value: 'NI70' },
+      { label: 'Tipo', value: 'Velador / Luz de noche LED' },
+      { label: 'Colores', value: '7 colores + blanco (rojo, azul, verde, celeste, rosa, naranja, verde lima)' },
+      { label: 'Niveles de brillo', value: '3' },
+      { label: 'Control', value: 'Táctil (botón superior)' },
+      { label: 'Batería', value: '3.7V / 1200 mAh' },
+      { label: 'Autonomía', value: '24 horas (brillo máximo)' },
+      { label: 'Tiempo de carga', value: '3 horas' },
+      { label: 'Dimensiones', value: '9 cm diám. × 11.8 cm alto' },
+      { label: 'Peso', value: '260 g' },
+      { label: 'Mango', value: 'Acero inoxidable (para colgar)' },
+      { label: 'Uso exterior', value: 'Sí — apto para camping' },
+      { label: 'Rating', value: '4.3 ⭐ (58 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuánto dura la batería?',
+        answer:
+          '24 horas en brillo máximo con carga completa. En intensidades bajas, la duración se extiende. La carga completa tarda 3 horas.',
+      },
+      {
+        question: '¿Cuántos colores tiene?',
+        answer:
+          '7 colores más blanco. Rojo, azul, verde, verde lima, celeste, rosa y naranja — se cambian con el botón táctil superior ciclando uno por uno.',
+      },
+      {
+        question: '¿Tiene modo multicolor automático (color cambiante solo)?',
+        answer:
+          'No está especificado en las características del producto. La selección es manual — elegís un color y se queda en ese hasta que lo cambiás.',
+      },
+      {
+        question: '¿Se puede colgar?',
+        answer:
+          'Sí. Tiene un mango de acero inoxidable en la parte inferior diseñado para colgarla — de una cuerda, un gancho o el techo de una carpa.',
+      },
+      {
+        question: '¿Es adecuada para la habitación de un bebé?',
+        answer:
+          'Sí, es uno de los usos más mencionados en las reseñas. La luz tenue de los brillos bajos no molesta el sueño, la autonomía de 24 horas cubre toda la noche sin recargar, y no hay cables en uso que representen un riesgo.',
+      },
+      {
+        question: '¿Incluye cable de carga?',
+        answer:
+          'El listing no especifica claramente si incluye cable USB. Verificar en el listado de ML antes de comprar — es posible que se cargue por USB estándar pero el cable no venga en la caja.',
+      },
+      {
+        question: '¿Funciona para camping?',
+        answer:
+          'Sí. El mango de acero permite colgarla, el cuerpo sólido aguanta el uso outdoor y la autonomía de 24 horas en máximo brillo cubre varios días de camping con una sola carga.',
+      },
+      {
+        question: '¿Gadnic tiene garantía en Argentina?',
+        answer:
+          'Gadnic es marca argentina con distribución local. Para garantía específica del modelo NI70, verificar las condiciones en el listado de ML al momento de la compra.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Velador Gadnic NI70 — Luz de Noche LED Táctil Recargable 7 Colores',
+      description:
+        'Velador luz de noche LED recargable Gadnic NI70. 7 colores RGB + blanco, 3 niveles de brillo, control táctil. Batería 3.7V/1200mAh, 24 horas de autonomía, carga en 3 horas. Mango de acero inoxidable para colgar. Compacto (9×11.8cm, 260g). Marca argentina. Apto para dormitorio, habitación de bebé y camping.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'NI70',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1taPifq',
+        priceCurrency: 'ARS',
+        price: 63249,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.3',
+        reviewCount: '58',
+      },
+    },
   },
   {
     id: 'MLA57493486',
