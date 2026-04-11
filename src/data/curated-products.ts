@@ -2020,7 +2020,7 @@ El resumen de opiniones de ML dice: "elegante y funciona bien, siendo ideal para
   },
   {
     id: 'MLA841529901',
-    title: 'Humificador Eléctrico Aromaterapia Luces Led Vapor Tren',
+    title: 'Difusor Aromatizador Humidificador Tren Locomotora 300ml — Electroland',
     price: 43433.29,
     originalPrice: 47999,
     currency: 'ARS',
@@ -2032,16 +2032,155 @@ El resumen de opiniones de ML dice: "elegante y funciona bien, siendo ideal para
       'https://http2.mlstatic.com/D_NQ_NP_2X_647532-MLA85623589842_062025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_913529-MLA85932667255_062025-F.webp',
     ],
-    category: 'Salud y Equipamiento Médico',
-    categorySlug: 'belleza',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://articulo.mercadolibre.com.ar/MLA-841529901-humificador-electrico-aromaterapia-luces-led-vapor-tren-_JM',
     affiliateUrl: 'https://meli.la/1KGdERH',
     condition: 'new',
     freeShipping: false,
     rating: 3.8,
     soldQuantity: 500,
-    pastelColor: 'var(--pastel-pink)',
-    description: '// HUMIDIFICADOR TREN //  Difusor de aire con diseño de tren: el humidificador adopta un bonito diseño en forma de tren con un esquema de color clásico de moda, lo que lo hace lucir de alta gama y elegante.  Difusor de aceite esencial: el humidificador también se puede utilizar como un difusor de ac',
+    badge: 'viral',
+    tiktokViews: '5M+',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Difusor ultrasónico de aceites esenciales con diseño de locomotora vintage. 300ml, hasta 12 horas en modo continuo, LED multicolor, timer 2h/8h y control remoto. Aceites esenciales compatibles. Marca Electroland. Material ABS + PP sin BPA.',
+    pros: [
+      'Diseño locomotora vintage — pieza decorativa + aromatizador',
+      '300ml — hasta 12 horas de autonomía continua',
+      'Compatible con aceites esenciales puros (no solo agua)',
+      'Control remoto incluido',
+      'Timer programable 2h / 8h',
+      'LED multicolor con modo respiración',
+      'Marca Electroland con 30 días de garantía',
+    ],
+    cons: [
+      'Rating 3.8⭐ — opiniones divididas sobre durabilidad',
+      'Algunos compradores reportan fallas en primeras semanas',
+      'Requiere 220V — no es USB',
+      'Ocupa 22cm — no es discreto',
+    ],
+    verdict: 'Un aromatizador que la gente fotografía cuando lo ve. El vapor saliendo por las tres chimeneas con el LED de fondo es contenido viral asegurado. Eso sí: las opiniones sobre durabilidad están divididas — compralo por el diseño, no esperando un electrodoméstico de largo plazo.',
+    seoTitle: 'Difusor Aromatizador Tren Vapor — 300ml, 12hs, Aceites Esenciales',
+    metaDescription: 'Aromatizador de ambiente con diseño locomotora vintage. 300ml, hasta 12 horas, aceites esenciales, LED y control remoto. Marca Electroland. El regalo que nadie espera.',
+    ogTitle: 'El aromatizador de ambiente que parece una pieza de colección — tren vapor 300ml',
+    ogDescription: 'Vapor saliendo de las chimeneas, LED multicolor, aceites esenciales, 12hs de autonomía y control remoto. El difusor que todos graban cuando lo ven. Ver precio →',
+    h1: 'Aromatizador locomotora de vapor — el difusor de aceites esenciales que parece una pieza de colección',
+    articleBody: `Un aromatizador de ambiente que la gente fotografía y graba cuando lo ven en funcionamiento. El vapor sale por las tres chimeneas de la locomotora como si fuera humo real — con iluminación LED adentro que cambia de color, el efecto en la oscuridad del cuarto es bastante impresionante.
+
+Pero más allá del diseño, es un difusor de aceites esenciales con especificaciones serias: 300ml de depósito, hasta 12 horas en modo continuo, timer programable de 2 u 8 horas, y control remoto para regularlo sin levantarte. Es de la marca Electroland, fabricado en ABS y polipropileno sin BPA.
+
+## Lo que hace que este difusor sea diferente
+
+La mayoría de los aromatizadores de ambiente son pequeños, discretos, pensados para pasar desapercibidos en un rincón. Este ocupa 22cm de largo, 15cm de alto y 8cm de ancho — no pasa desapercibido. Es una pieza de decoración que también aromatiza, no al revés.
+
+Los que tienen uno lo terminan poniendo en el escritorio, en el living o en la mesita de noche como objeto decorativo principal. El vapor saliendo por las chimeneas mientras el LED ilumina en violeta o dorado es el tipo de detalle que aparece en TikTok de decoración.
+
+## Los modos de funcionamiento
+
+Tiene dos modos de niebla: continuo (dura hasta 12 horas con el depósito lleno) e intermitente (lanza niebla en forma de medusa, con pausas entre cada pulso). El intermitente es más vistoso visualmente; el continuo es mejor para humidificación sostenida o para aromatizar un ambiente durante varias horas.
+
+El timer permite programarlo para 2 horas o 8 horas — útil para encenderlo al acostarse sin quedarse dormido preocupado por dejarlo prendido toda la noche.
+
+La iluminación tiene dos temperaturas de color y un modo "respiración" donde la luz pulsa suavemente. Podés usar el LED sin la niebla, o la niebla sin el LED — funcionan de forma independiente.
+
+El control remoto incluido maneja todo esto desde lejos.
+
+## Aceites esenciales: sí funcionan en este modelo
+
+A diferencia de los humidificadores ultrasónicos básicos que solo soportan esencias diluidas en agua, este difusor está diseñado para funcionar con aceites esenciales directamente. Agregás unas gotas al depósito con el agua y el difusor distribuye el aroma en el ambiente.
+
+Lavanda para dormir, eucalipto para espacios con mucho aire seco, naranja dulce o bergamota para el escritorio de trabajo — cualquier aceite esencial funciona.
+
+## Lo que hay que saber antes de comprarlo
+
+Con 3.8 estrellas en 43 calificaciones, las opiniones en ML están divididas. El diseño y el efecto visual reciben elogios casi unánimes. Las críticas se concentran en la durabilidad — hay compradores que reportan fallas en las primeras semanas de uso.
+
+Lo que eso implica en la práctica: es un producto que entra bien en la categoría de "gadget decorativo" pero no en la de "electrodoméstico de largo plazo". Si comprás esperando que dure años de uso diario intenso, hay riesgo. Si lo comprás para uso moderado o como regalo con perfil decorativo fuerte, las probabilidades de quedarte satisfecho son altas.
+
+El vendedor tiene 30 días de garantía — si falla en ese período, tenés respaldo. Para más allá de eso, es un producto sin garantía extendida.
+
+## Como regalo
+
+El packaging del tren en colores bronce/plata, negro o dorado es lo que hace que este sea el regalo para alguien que no es fácil de sorprender. No es algo que veas en cualquier lado, no es genérico, y tiene una utilidad real. Funciona bien para cumpleaños, día del padre, día de la madre, o como regalo de mudanza.`,
+    specs: [
+      { label: 'Marca', value: 'Electroland' },
+      { label: 'Capacidad', value: '300 ml' },
+      { label: 'Autonomía continua', value: 'Hasta 12 horas' },
+      { label: 'Modo niebla', value: 'Continuo / Intermitente (medusa)' },
+      { label: 'Timer', value: '2 horas / 8 horas' },
+      { label: 'Iluminación', value: 'LED cálido + frío + modo respiración' },
+      { label: 'Aceites esenciales', value: 'Sí, compatibles' },
+      { label: 'Control', value: 'Control remoto incluido' },
+      { label: 'Alimentación', value: 'Adaptador 220V incluido' },
+      { label: 'Dimensiones', value: '22 × 15 × 8 cm' },
+      { label: 'Material', value: 'ABS + Polipropileno, sin BPA' },
+      { label: 'Colores', value: 'Bronce/plata, negro, dorado' },
+      { label: 'Rating', value: '3.8 ⭐ (43 opiniones)' },
+    ],
+    faq: [
+      {
+        question: '¿Puedo usar aceites esenciales puros?',
+        answer:
+          'Sí. A diferencia de algunos humidificadores ultrasónicos básicos, este difusor está diseñado para aceites esenciales. Agregás unas gotas directamente al depósito de agua.',
+      },
+      {
+        question: '¿Cuánto dura con el depósito lleno?',
+        answer:
+          'En modo continuo, hasta 12 horas con los 300ml completos. En modo intermitente dura más tiempo porque hace pausas entre cada pulso de niebla.',
+      },
+      {
+        question: '¿Tiene control remoto?',
+        answer:
+          'Sí, viene incluido. Controlás la niebla, el timer y el LED desde donde estés sin levantarte.',
+      },
+      {
+        question: '¿Se puede usar solo como luz ambiental sin la niebla?',
+        answer:
+          'Sí. La iluminación LED y la niebla funcionan de forma independiente. Podés tener el LED encendido sin activar el humidificador.',
+      },
+      {
+        question: '¿Qué tan silencioso es?',
+        answer:
+          'El sistema ultrasónico trabaja sin ruido audible. Apto para usar mientras dormís.',
+      },
+      {
+        question: '¿Viene en diferentes colores?',
+        answer:
+          'Sí, hay versiones en bronce/plata, negro y dorado. Verificá cuál tiene stock al momento de la compra.',
+      },
+      {
+        question: '¿Se enchufa a 220V?',
+        answer:
+          'Sí, incluye adaptador de 220V. No es USB — requiere enchufarlo a la pared.',
+      },
+      {
+        question: '¿Es seguro el material?',
+        answer:
+          'Fabricado en ABS y polipropileno sin BPA. Los materiales son seguros para uso doméstico.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Difusor Aromatizador Humidificador Tren Locomotora Vapor 300ml Electroland',
+      description:
+        'Difusor ultrasónico de aceites esenciales con diseño de locomotora vintage. 300ml, hasta 12 horas en modo continuo, LED multicolor, timer 2h/8h y control remoto. Aceites esenciales compatibles. Material ABS + PP sin BPA.',
+      brand: { '@type': 'Brand', name: 'Electroland' },
+      color: 'Bronce/Plata, Negro, Dorado',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1KGdERH',
+        priceCurrency: 'ARS',
+        price: 43433,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '3.8',
+        reviewCount: '43',
+      },
+    },
   },
   {
     id: 'MLA231395761',
