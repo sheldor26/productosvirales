@@ -2904,7 +2904,7 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
   },
   {
     id: 'MLA64582730',
-    title: 'Carrito Multiuso Organizador Mtl 3 Niveles Metal Negro Ruedas Giratorias Cocina Baño Lavadero Oficina Almacenamiento Móvil Diseño Compacto Canastos Metálicos Alta Capacidad Uso Hogar',
+    title: 'Carrito Organizador MTL 3 Niveles — Metal Negro, Ruedas 360° con Freno',
     price: 29990.5,
     originalPrice: 65700,
     currency: 'ARS',
@@ -2916,16 +2916,149 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
       'https://http2.mlstatic.com/D_NQ_NP_2X_738292-MLA104793781234_012026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_659673-MLA104793927708_012026-F.webp',
     ],
-    category: 'Organizadores para Cocina',
-    categorySlug: 'cocina',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/carrito-multiuso-organizador-mtl-3-niveles-metal-negro-ruedas-giratorias-cocina-bano-lavadero-oficina-almacenamiento-movil-diseno-compacto-canastos-metalicos-alta-capacidad-uso-hogar/p/MLA64582730',
     affiliateUrl: 'https://meli.la/1Ji1mZg',
     condition: 'new',
     freeShipping: false,
     rating: 4.2,
     soldQuantity: 25,
-    pastelColor: 'var(--pastel-coral)',
-    description: 'El Carrito Organizador MTL de metal con tres niveles y ruedas 360° es una solución práctica, resistente y versátil diseñada para optimizar el espacio en todo tipo de ambientes. Ideal para oficinas, estudios, talleres, aulas, lavaderos, cocinas, baños o cualquier espacio donde la organización sea ind',
+    badge: 'trending',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Carrito organizador de metal negro con 3 niveles de malla metálica. Ruedas 360° con freno en 2. Ganchos intercambiables. 100kg de capacidad distribuida. Plegable. Armado sin herramientas. Para cocina, baño, habitación, oficina y living. Marca MTL modelo MTL1017.',
+    pros: [
+      '54% OFF — de $65.700 a $29.990',
+      '3 niveles de malla metálica — resiste carga real sin deformarse',
+      '100kg de capacidad total distribuida',
+      'Ruedas 360° con freno en 2 — movimiento + fijación cuando lo necesitás',
+      'Ganchos intercambiables en los laterales',
+      'Plegable — se guarda en placard o detrás de una puerta',
+      'Armado sin herramientas — las piezas encajan entre sí',
+    ],
+    cons: [
+      '⚠️ Discrepancia de dimensiones: 77×47×40cm (listing) vs 65×44×27cm (imagen)',
+      'Solo 5 calificaciones — incluye opiniones de otros países',
+      'No aclara si tiene tratamiento anticorrosión para baño',
+      'Carga máxima por estante individual no especificada',
+    ],
+    verdict: 'El carrito de metal que aparece en todos los videos de organización del hogar. Lo que lo diferencia de los de plástico del mismo rango es que el metal resiste carga real sin deformarse, y los estantes de malla drenan agua — sirve hasta para escurrir verduras recién lavadas. En Argentina se conoce también como "carrito zorrita".',
+    seoTitle: 'Carrito Organizador con Ruedas MTL — 3 Niveles Metal Negro, 100kg, Freno',
+    metaDescription: 'Carrito organizador de metal negro con 3 niveles y ruedas 360° con freno. 100kg de capacidad, ganchos intercambiables, plegable. Cocina, baño, oficina, living. Ver precio →',
+    ogTitle: 'Carrito organizador MTL — 3 niveles de metal negro, ruedas 360° con freno, 100kg',
+    ogDescription: 'El carrito organizador de metal negro con ruedas que funciona en cocina, baño, oficina y living. 3 niveles, 100kg de capacidad, ganchos intercambiables, plegable. Ver precio →',
+    h1: 'Carrito organizador con ruedas MTL — metal negro, 3 niveles, 100kg de capacidad y freno',
+    articleBody: `El carrito organizador con ruedas es uno de esos objetos que aparece constantemente en videos de organización del hogar, y que después de verlo en funcionamiento resulta difícil entender cómo uno se arregló sin él. El MTL1017 de MTL es el modelo de metal negro que lleva el logo MTL — tres estantes de malla metálica, ruedas 360° con freno en dos de ellas, ganchos intercambiables en los laterales, y capacidad para hasta 100kg distribuidos entre los niveles.
+
+Lo que lo diferencia de los organizadores de plástico que circulan en el mismo rango de precio es el material. El metal resiste carga real — libros, frascos, herramientas livianas, productos de limpieza — sin que los estantes se deformen ni el marco pierda rigidez con el tiempo. Los estantes de malla también drenan: si ponés frutas recién lavadas, agua de verduras, o productos húmedos, el líquido pasa a través en lugar de acumularse.
+
+## Las ruedas y el freno
+
+Las cuatro ruedas giran 360°, lo que significa que el carrito se desplaza en cualquier dirección sin tener que levantarlo ni arrastrarlo. Para moverlo de un cuarto a otro, de la cocina al lavadero, o entre escritorios en una oficina, basta empujarlo suavemente.
+
+Dos de las ruedas tienen freno. Se activa presionando hacia abajo la palanca de la rueda. El carrito queda fijo en esa posición — útil cuando lo cargás con peso y no querés que se mueva mientras trabajás.
+
+## Los ganchos intercambiables
+
+En los laterales de las bandejas hay ganchos que se pueden mover, quitar y volver a colocar en distintas posiciones. Para colgar bolsas, utensilios de cocina, productos de baño, toallas, o cualquier cosa que prefierías no poner directamente en un estante.
+
+## Dónde va
+
+En las fotos del producto aparece en cocina, baño, habitación, oficina y living — el vendedor lo llama "multiambiente" y, en este caso, no es exageración. El marco de malla negro y el diseño sin colores llamativos encajan en cualquier espacio sin verse fuera de lugar. En Argentina, este tipo de carrito se conoce también como "carrito zorrita" — el formato compacto de metal sobre ruedas que se usa para mover cosas de un lado al otro de la casa.
+
+Las medidas del armazón según la imagen de especificaciones son 65cm de alto × 44cm de ancho × 27cm de profundidad. ⚠️ El listing indica dimensiones distintas (77×47×40cm) — la diferencia puede corresponder a que el listing incluye el arco superior o la medida con las ruedas. Verificar en el listing actual de ML cuál aplica antes de comprar.
+
+Cada estante mide 6cm de alto, 40cm de ancho y 27cm de profundidad.
+
+## El armado
+
+Viene desarmado y se arma sin herramientas. Las piezas encajan entre sí y el proceso es el mismo que muestran en las imágenes del producto — los estantes se insertan en el marco y quedan fijos. Sin tornillos sueltos, sin llave allen, sin instrucciones en otro idioma que no se entienden.
+
+Cuando no se usa, el carrito es plegable — puede achicarse para guardarlo en un placard, detrás de una puerta o bajo una mesa.`,
+    specs: [
+      { label: 'Marca', value: 'MTL' },
+      { label: 'Modelo', value: 'MTL1017' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Material', value: 'Metal (malla metálica)' },
+      { label: 'Niveles', value: '3' },
+      { label: 'Capacidad', value: '100kg distribuidos' },
+      { label: 'Dimensiones armado', value: '⚠️ 65×44×27cm (imagen) / 77×47×40cm (listing) — verificar' },
+      { label: 'Medidas por estante', value: 'Alto 6cm × Ancho 40cm × Prof 27cm' },
+      { label: 'Ruedas', value: '360°, movimiento suave y silencioso' },
+      { label: 'Freno', value: 'Sí — en 2 ruedas' },
+      { label: 'Ganchos intercambiables', value: 'Sí' },
+      { label: 'Plegable', value: 'Sí' },
+      { label: 'Armado sin herramientas', value: 'Sí' },
+      { label: 'Uso como canasta de drenaje', value: 'Sí — la malla permite el paso del agua' },
+      { label: 'Ambientes', value: 'Cocina, baño, habitación, oficina, living, lavadero' },
+      { label: 'Rating', value: '4.2 ⭐ (5 calificaciones — incluye opiniones de otros países)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuánto peso soporta cada estante?',
+        answer:
+          'La capacidad total es de 100kg distribuidos entre los tres niveles. El listing no especifica la carga máxima por estante individual — distribuir el peso de forma pareja entre los tres niveles es lo recomendable.',
+      },
+      {
+        question: '¿Las ruedas funcionan en alfombra?',
+        answer:
+          'No especificado en las características. Las ruedas 360° funcionan bien en pisos duros. En alfombra baja pueden funcionar con algo más de esfuerzo. Verificar en el listing si hay especificación sobre superficies.',
+      },
+      {
+        question: '¿Se puede usar en baño o ambiente húmedo?',
+        answer:
+          'El material es metal — verificar con el vendedor en ML si tiene tratamiento anticorrosión o recubrimiento protector antes de usarlo en ambientes permanentemente húmedos.',
+      },
+      {
+        question: '¿Cómo funcionan los ganchos intercambiables?',
+        answer:
+          'Los ganchos se clavan en los orificios de los laterales de las bandejas y se pueden mover, quitar o reposicionar según lo que querés colgar. No requieren herramientas.',
+      },
+      {
+        question: '¿Qué son los "niveles como canasta de drenaje"?',
+        answer:
+          'La malla metálica de cada estante permite el paso del agua, por lo que se puede usar para escurrir frutas, verduras u otros productos húmedos. También es útil para almacenar cosas que se limpian periódicamente sin tener que secar el estante después.',
+      },
+      {
+        question: '¿Viene armado o hay que armar?',
+        answer:
+          'Viene desarmado pero el armado no requiere herramientas. Las piezas encajan entre sí. Las imágenes del listing muestran el proceso de ensamblado.',
+      },
+      {
+        question: '¿Es plegable cuando no se usa?',
+        answer:
+          'Sí. Se puede plegar para guardarlo en un espacio reducido — placard, detrás de una puerta o bajo una mesa.',
+      },
+      {
+        question: '¿Cuáles son las medidas exactas?',
+        answer:
+          'La imagen de especificaciones del producto indica 65cm de alto × 44cm de ancho × 27cm de profundidad. El listing indica dimensiones distintas (77×47×40cm). Verificar en la página de ML antes de comprar si el espacio disponible es ajustado.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Carrito Organizador MTL 3 Niveles Metal Negro — Ruedas 360° con Freno, 100kg',
+      description:
+        'Carrito organizador de metal negro con 3 niveles de malla metálica. Ruedas 360° con freno en 2. Ganchos intercambiables. 100kg de capacidad distribuida. Plegable. Armado sin herramientas. Para cocina, baño, habitación, oficina y living.',
+      brand: { '@type': 'Brand', name: 'MTL' },
+      model: 'MTL1017',
+      color: 'Negro',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1Ji1mZg',
+        priceCurrency: 'ARS',
+        price: 29990,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.2',
+        reviewCount: '5',
+      },
+    },
+    relatedProducts: ['MLA46188819', 'MLA3692700236', 'MLA3446177644', 'MLA65102455'],
   },
   {
     id: 'MLA46188819',
