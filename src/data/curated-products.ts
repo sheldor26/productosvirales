@@ -1186,7 +1186,7 @@ Tipo de recubrimiento no especificado: las especificaciones no aclaran si el ant
         reviewCount: '10',
       },
     },
-    relatedProducts: ['MLA139114583', 'MLA3446177644', 'MLA65102455'],
+    relatedProducts: ['MLA139114583', 'MLA373832208', 'MLA3446177644'],
   },
   {
     id: 'MLA139114583',
@@ -1345,11 +1345,11 @@ El mango es de hierro enlozado también. No de plástico ni de goma — se calie
         reviewCount: '3',
       },
     },
-    relatedProducts: ['MLA402624780', 'MLA3446177644', 'MLA65102455'],
+    relatedProducts: ['MLA402624780', 'MLA373832208', 'MLA3446177644'],
   },
   {
     id: 'MLA373832208',
-    title: 'Sarten Teflón Recta 25 Cm Guadix Guadixflon',
+    title: 'Sartén Antiadherente Teflón 25cm Guadix GuadixFlon',
     price: 23993,
     originalPrice: 28598,
     currency: 'ARS',
@@ -1360,7 +1360,7 @@ El mango es de hierro enlozado también. No de plástico ni de goma — se calie
       'https://http2.mlstatic.com/D_Q_NP_908403-MLU74163740337_012024-R.webp',
       'https://http2.mlstatic.com/D_Q_NP_617451-MLU73983117212_012024-R.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/sarten-teflon-recta-25-cm-guadix-guadixflon/up/MLAU373832208',
     affiliateUrl: 'https://meli.la/256LVFa',
@@ -1368,8 +1368,135 @@ El mango es de hierro enlozado también. No de plástico ni de goma — se calie
     freeShipping: false,
     rating: undefined,
     soldQuantity: 1,
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: '· 25 cm de Diametro · Facil Limpieza · Apta para Lavavajillas · Apta para cocinas Electricas, a Gas, Vitroceramica · Material: Teflón',
+    description: 'Sartén recta antiadherente de PTFE (teflón) GuadixFlon modelo 158, 25cm de diámetro, mango de baquelita. Apta para lavavajillas. Compatible con cocinas a gas, eléctrica y vitrocerámica. No apta para inducción. Color negro. Para uso cotidiano general.',
+    pros: [
+      'PTFE (teflón) CONFIRMADO — no hay ambigüedad sobre el recubrimiento',
+      'Mango de baquelita — no se calienta durante cocción normal',
+      'Apta para lavavajillas',
+      '16% OFF — de $28.598 a $23.993',
+      'Compatible con gas, eléctrica y vitrocerámica',
+      '25cm — tamaño versátil para 1-3 personas',
+      'Paredes rectas — fácil manipular con espátula',
+    ],
+    cons: [
+      '⚠️ NO apta para cocinas a INDUCCIÓN — usar hierro o acero si tenés inducción',
+      '⚠️ PTFE se degrada a temperaturas muy altas (>260°C) — usar fuego medio/medio-alto máximo',
+      'No incluye tapa (verificar en listing)',
+      'Rating no disponible al momento de publicación',
+      'Utensilios de metal rayan el recubrimiento',
+    ],
+    verdict: 'La primera de nuestras tres sartenes que dice explícitamente "teflón" en las specs. Ni la Cincam ni la Jovifel aclaran el tipo de recubrimiento — esta sí. Si querés un PTFE clásico para uso diario en gas, eléctrica o vitrocerámica, con mango que no quema y apta lavavajillas, esto cumple. Para inducción, Jovifel. Para tortillas, Cincam.',
+    seoTitle: 'Sartén Antiadherente Teflón 25cm Guadix — Fácil Limpieza, Gas y Vitrocerámica',
+    metaDescription: 'Sartén de teflón GuadixFlon 25cm con mango de baquelita. Superficie antiadherente PTFE, apta lavavajillas, gas, eléctrica y vitrocerámica. Fácil limpieza diaria.',
+    ogTitle: 'Sartén de teflón Guadix 25cm — PTFE, baquelita, lavavajillas, gas y vitrocerámica',
+    ogDescription: 'Sartén antiadherente GuadixFlon: PTFE confirmado, 25cm de diámetro, mango de baquelita que no quema. Apta lavavajillas, gas, eléctrica y vitrocerámica. Ver precio →',
+    h1: 'Sartén antiadherente de teflón Guadix 25cm — PTFE confirmado, mango de baquelita, apta lavavajillas',
+    articleBody: `Hay dos preguntas que aparecen en casi todos los listings de sartenes antiadherentes: ¿es de teflón o de cerámica? ¿Y qué tan antiadherente es realmente? Con la GuadixFlon la primera pregunta se responde sola: el material del cuerpo dice textualmente "teflón". No hay ambigüedad ni hay que consultarle al vendedor. Es PTFE.
+
+25cm de diámetro, mango de baquelita (el plástico termoestable negro que no conduce calor), fondo negro, paredes rectas. Compatible con cocinas a gas, eléctricas y vitrocerámica. Apta para lavavajillas. La línea GuadixFlon de la marca Guadix está orientada a lo concreto: sartenes con recubrimiento antiadherente para uso cotidiano.
+
+## El PTFE en la práctica
+
+El teflón — químicamente PTFE (politetrafluoroetileno) — es el recubrimiento antiadherente más conocido y con el historial más largo en cocinas domésticas. Tiene dos ventajas claras: los alimentos se desprenden fácilmente y la limpieza es simple porque nada se adhiere con fuerza.
+
+Las consideraciones de cuidado son las mismas que para cualquier sartén antiadherente PTFE: utensilios de silicona, madera o plástico (el metal raya la superficie), fuego medio o medio-alto como máximo (el PTFE se degrada a temperaturas muy altas por encima de 260°C), y secado a mano después del lavavajillas si querés prolongar la vida útil del recubrimiento aunque sea apta para el lavavajillas.
+
+## El mango de baquelita
+
+La baquelita es el plástico termoestable clásico de las sartenes — negro, con textura que da agarre, y con baja conductividad térmica. Eso significa que el mango no se calienta durante la cocción normal a fuego medio, a diferencia del mango de hierro de la Jovifel enlozada que sí hay que proteger con una agarradera.
+
+Para uso cotidiano donde pasás minutos o una hora frente al fuego, un mango que no quema importa.
+
+## Las dimensiones para el uso diario
+
+25cm de diámetro con paredes rectas es el formato de sartén más versátil que existe. Para huevos fritos (uno o dos), filetes de carne, pechugas de pollo, salteados de verdura, tortillas — ese diámetro cubre la mayoría de las preparaciones para una a tres personas. No es la sartén de 30cm para una familia grande, pero tampoco la de 20cm que queda justa para un bife.
+
+Las paredes rectas facilitan manipular los alimentos con espátula desde cualquier ángulo — más cómodo que las paredes curvas de las sartenes tipo wok.
+
+## Compatibilidad con cocinas
+
+Gas, eléctrica y vitrocerámica — los tres tipos de cocina más comunes en hogares argentinos. No está declarada como apta para inducción — el aluminio no es magnético y no funciona en cocinas a inducción. Si tenés cocina a inducción, la opción en este sitio es la sartén Jovifel enlozada de hierro de 24cm.`,
+    specs: [
+      { label: 'Marca', value: 'Guadix' },
+      { label: 'Línea', value: 'GuadixFlon' },
+      { label: 'Modelo', value: '158' },
+      { label: 'Diámetro', value: '25 cm' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Material cuerpo', value: 'Teflón (PTFE)' },
+      { label: 'Material mango', value: 'Baquelita' },
+      { label: 'Tipo de sartén', value: 'Recta (paredes verticales)' },
+      { label: 'Superficie antiadherente', value: 'Sí (PTFE)' },
+      { label: 'Apta lavavajillas', value: 'Sí' },
+      { label: 'Compatible gas', value: 'Sí' },
+      { label: 'Compatible eléctrica', value: 'Sí' },
+      { label: 'Compatible vitrocerámica', value: 'Sí' },
+      { label: 'Compatible inducción', value: 'No declarado' },
+      { label: 'Incluye tapa', value: 'No especificado (verificar)' },
+      { label: 'Rating', value: 'No disponible (verificar en ML)' },
+    ],
+    faq: [
+      {
+        question: '¿Es de teflón o de cerámica?',
+        answer:
+          'Explícitamente de teflón (PTFE). El listing declara el material del cuerpo como "teflón" — no hay que adivinar el tipo de recubrimiento como con otros modelos genéricos.',
+      },
+      {
+        question: '¿Funciona en cocinas a inducción?',
+        answer:
+          'No está declarada como apta para inducción. Compatible con gas, eléctrica y vitrocerámica. Si tenés cocina a inducción, necesitás un sartén de hierro o acero inoxidable ferromagnético como la Jovifel enlozada 24cm.',
+      },
+      {
+        question: '¿Se puede lavar en lavavajillas?',
+        answer:
+          'Sí. Es apta para lavavajillas. Sin embargo, para extender la vida útil del recubrimiento PTFE, el lavado a mano con agua tibia y esponja suave es más gentil que el ciclo de la lavavajillas a largo plazo.',
+      },
+      {
+        question: '¿Con qué utensilios se puede usar?',
+        answer:
+          'Silicona, madera o plástico. El metal raya el recubrimiento antiadherente y acorta su vida útil.',
+      },
+      {
+        question: '¿El mango se calienta durante la cocción?',
+        answer:
+          'La baquelita (plástico termoestable negro del mango) no conduce calor de manera significativa a fuego normal. No debería quemarte la mano en cocción estándar a fuego medio.',
+      },
+      {
+        question: '¿Tiene tapa?',
+        answer:
+          'El listing no especifica si incluye tapa. Verificar en ML antes de comprar.',
+      },
+      {
+        question: '¿Qué diferencia tiene respecto al sartén doble Cincam de 20cm?',
+        answer:
+          'El Cincam es de aluminio antiadherente, tiene 20cm y está diseñado específicamente para hacer tortillas españolas con volteo entre los dos sartenes. La Guadix es un sartén individual de uso general de 25cm, con PTFE explícito, apta para lavavajillas — más versátil para el día a día pero sin la función de volteo.',
+      },
+      {
+        question: '¿Y respecto a la Jovifel enlozada de 24cm?',
+        answer:
+          'La Jovifel es de hierro enlozado vitrificado, compatible con inducción y apta lavavajillas. La Guadix es de teflón PTFE, no compatible con inducción pero también apta lavavajillas. La decisión depende del tipo de cocina que tengas: inducción → Jovifel, gas/eléctrica/vitrocerámica → Guadix.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Sartén Antiadherente Teflón 25cm Guadix GuadixFlon Modelo 158',
+      description:
+        'Sartén recta antiadherente de PTFE (teflón) GuadixFlon, 25cm de diámetro, mango de baquelita. Apta para lavavajillas. Compatible con cocinas a gas, eléctrica y vitrocerámica. No apta para inducción. Sin superficie acanalada. Para uso cotidiano general.',
+      brand: { '@type': 'Brand', name: 'Guadix' },
+      model: '158',
+      color: 'Negro',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/256LVFa',
+        priceCurrency: 'ARS',
+        price: 23993,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+    },
+    relatedProducts: ['MLA139114583', 'MLA402624780', 'MLA3446177644'],
   },
   {
     id: 'MLA26657806',
