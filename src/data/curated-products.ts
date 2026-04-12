@@ -1645,7 +1645,7 @@ Las imágenes muestran que el producto incluye una bandeja adicional con 3 recep
   },
   {
     id: 'MLA3857302687',
-    title: 'Dispenser Pared Cereales Cocina 1.5lts',
+    title: 'Dispenser de Cereales Individual para Pared — 1.5L Crystal Rock',
     price: 13000,
     originalPrice: undefined,
     currency: 'ARS',
@@ -1657,7 +1657,7 @@ Las imágenes muestran que el producto incluye una bandeja adicional con 3 recep
       'https://http2.mlstatic.com/D_NQ_NP_2X_652759-MLA109435994295_032026-F.webp',
       'https://http2.mlstatic.com/D_Q_NP_892608-MLA108630745444_032026-R.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/dispenser-pared-cereales-cocina-15lts/up/MLAU3857302687',
     affiliateUrl: 'https://meli.la/1itTtAs',
@@ -1665,12 +1665,122 @@ Las imágenes muestran que el producto incluye una bandeja adicional con 3 recep
     freeShipping: true,
     rating: undefined,
     soldQuantity: 3,
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Características principalesMarcaCrystal RockModeloDispenser CerealesColorBlancoCantidad de dispensadores1DimensionesAltura total24 cmAncho total12,5 cmProfundidad total11,5 cmOtrosTipo de dispensadorDispenser paredMaterialPlásticoCapacidad en peso1,5 gIncluye taza medidoraNo',
+    description: 'Dispenser individual de cereales para pared con sistema de instalación adhesivo (sin taladrar). Cuerpo cilíndrico transparente de 1.5 litros, push-button frontal, tapa superior abatible para carga. Marca Crystal Rock. 12.5×24×11.5cm. Para arroz, porotos, garbanzos, cereales y granos. Formato modular — comprá los que necesitás.',
+    pros: [
+      'Envío gratis',
+      'Formato individual — combiná tantos como quieras',
+      'Instalación con adhesivo — sin taladrar la pared',
+      'Tapa superior abatible — rellenás sin despegarlo',
+      'Contenido visible — plástico transparente',
+      'Push-button frontal intuitivo',
+    ],
+    cons: [
+      '⚠️ Sin calificaciones todavía — producto nuevo sin respaldo de reviews',
+      'No incluye taza medidora (el modelo de 5 puestos sí)',
+      'No sirve para harinas, azúcar o polvos finos',
+      'Adhesivo funciona solo en superficies lisas',
+    ],
+    verdict: 'La diferencia con el modelo de 5 puestos no es de capacidad — es de flexibilidad. Comprás uno y lo instalás donde querés. Si después necesitás más, sumás. El 5-puestos te da 10L en un bloque fijo; este te deja decidir cuántos y dónde. Si preferís respaldo de reviews, el 5-puestos tiene 152 opiniones.',
+    seoTitle: 'Dispenser de Cereales Individual para Pared — 1.5L, Adhesivo, Sin Taladrar',
+    metaDescription: 'Dispenser de cereales individual para pared con adhesivo. 1.5 litros, push-button, 12.5×24cm. Comprá uno o combiná varios. Sin taladrar. Para arroz, porotos y granos.',
+    ogTitle: 'Dispenser de cereales individual para pared — 1.5L, adhesivo, combinable',
+    ogDescription: 'Dispenser push-button de plástico para colgar en la pared sin taladrar. 1.5 litros para arroz, porotos o cereales. Instalación con adhesivo. Comprá uno o combiná varios. Ver precio →',
+    h1: 'Dispenser de cereales para pared 1.5L — individual y modular, adhesivo sin taladrar',
+    articleBody: `La diferencia entre este dispenser y el modelo de 5 puestos no es de capacidad — es de flexibilidad. El de 5 puestos viene con una configuración fija: cinco compartimentos, un tamaño total, un solo formato. Este es una unidad individual: comprás los que necesitás, los pegás donde querés, los ordenás como te queda mejor en la pared.
+
+Para alguien que quiere empezar con uno solo — el arroz, o los cereales del desayuno — este es el punto de entrada. Para alguien que quiere tres en fila pero con separación entre ellos, o dos arriba y uno abajo, o una fila que va agregando de a uno cada vez que se llena el espacio, este formato lo permite sin comprar un conjunto fijo de cinco.
+
+## Cómo funciona
+
+El cuerpo es un cilindro de plástico transparente de 1.5 litros. Ves lo que hay adentro sin abrir nada. Se llena por la tapa superior que se abre hacia adelante. Para dispensar: apretás el botón gris en la parte delantera inferior y el alimento cae por la boca hacia un plato, un bowl o directamente donde lo necesitás.
+
+El mecanismo de push-button funciona bien con granos pequeños y medianos: arroz, lentejas, porotos, garbanzos, maíz, semillas, cereales de desayuno en grano. No está pensado para alimentos muy grandes (nueces enteras), ni para polvos o harinas que se compactan.
+
+## La instalación adhesiva
+
+El dispenser incluye stickers adhesivos de doble cara para fijar a la pared. El proceso: limpiás la superficie, colocás el adhesivo, presionás unos segundos. Sin taladro, sin tornillos, sin agujeros.
+
+Las fotos del producto muestran la instalación sobre una superficie gris lisa — paredes lisas, azulejos, melamina y heladeras son los casos más frecuentes. En superficies texturadas o porosas la adherencia es menor. Con 1.5 litros lleno el peso ronda los 1.2 a 1.5 kg — el adhesivo tiene que soportar eso sin desprenderse.
+
+## Sin reviews todavía
+
+Al momento de publicación este producto no tiene calificaciones en ML. No hay manera de respaldar con experiencias de usuarios porque no hay experiencias registradas. Si el respaldo de reviews es importante para tu decisión, el modelo de 5 puestos del mismo sitio tiene 152 calificaciones a 4.2 estrellas con el mismo tipo de mecanismo y sistema de instalación.
+
+Lo que sí está claro desde las imágenes: el diseño es el mismo que usa la versión de 5 puestos — mismo tipo de push-button, mismo adhesivo, mismo plástico transparente. La diferencia es solo el formato individual vs conjunto.`,
+    specs: [
+      { label: 'Marca', value: 'Crystal Rock' },
+      { label: 'Tipo', value: 'Dispenser individual para pared' },
+      { label: 'Cantidad', value: '1 unidad' },
+      { label: 'Capacidad', value: '1.5 litros' },
+      { label: 'Dimensiones', value: '12.5cm ancho × 24cm alto × 11.5cm prof' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Material', value: 'Plástico' },
+      { label: 'Instalación', value: 'Adhesivo de pared (sin taladrar)' },
+      { label: 'Mecanismo', value: 'Push-button frontal' },
+      { label: 'Llenado', value: 'Tapa superior abatible' },
+      { label: 'Incluye taza medidora', value: 'No' },
+      { label: 'Rating', value: 'Sin calificaciones al momento de publicación' },
+    ],
+    faq: [
+      {
+        question: '¿Cuántos dispensers se pueden poner en fila?',
+        answer:
+          'No hay un límite declarado — podés instalar tantos como el espacio de tu pared permita y el adhesivo soporte. La ventaja del formato individual es exactamente esa: expansión incremental.',
+      },
+      {
+        question: '¿Cuánto entra en 1.5 litros?',
+        answer:
+          'Aproximadamente 1 a 1.2 kg de arroz, según la densidad. Para cereales de desayuno (más livianos), el volumen en litros cabe bien pero el peso es menor. Para semillas pequeñas como chía o lino, entra bastante más en cantidad porque son muy densas.',
+      },
+      {
+        question: '¿Qué diferencia tiene con el dispensador de 5 puestos?',
+        answer:
+          'El de 5 puestos es un conjunto fijo de 5 compartimentos en un solo mueble con capacidad total de 10L. Este es una unidad individual — comprás uno, dos o los que necesitás y los instalás donde quieras. Más flexible, menos capacidad total por unidad.',
+      },
+      {
+        question: '¿Funciona en la heladera también?',
+        answer:
+          'Las fotos muestran instalación sobre superficie lisa gris (puede ser una heladera). En superficies metálicas lisas el adhesivo debería funcionar. Verificar la capacidad de carga del adhesivo incluido.',
+      },
+      {
+        question: '¿Se puede rellenar sin sacarlo de la pared?',
+        answer:
+          'Sí. La tapa superior se abre hacia adelante para cargar el alimento sin necesidad de despegar el dispenser de la pared.',
+      },
+      {
+        question: '¿Tiene taza medidora?',
+        answer:
+          'No. Las especificaciones confirman que no incluye taza medidora. El modelo de 5 puestos sí la incluye.',
+      },
+      {
+        question: '¿Qué pasa si el adhesivo falla?',
+        answer:
+          'Si el adhesivo se despega (por peso excesivo, superficie porosa o humedad), el dispenser caería. Es importante no sobrecargar más allá de la capacidad del adhesivo. Si tu pared no es lisa o la zona tiene mucha humedad, considerar el uso de tornillos si la pared lo permite.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Dispenser Individual de Cereales para Pared — 1.5 Litros, Adhesivo, Push-Button',
+      description:
+        'Dispenser individual de cereales para pared con sistema de instalación adhesivo (sin taladrar). Cuerpo cilíndrico transparente de 1.5 litros, push-button frontal, tapa superior abatible para carga. 12.5×24×11.5cm. Para arroz, porotos, garbanzos, cereales y granos. Formato modular — comprá los que necesitás.',
+      brand: { '@type': 'Brand', name: 'Crystal Rock' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1itTtAs',
+        priceCurrency: 'ARS',
+        price: 13000,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+    },
+    relatedProducts: ['MLA26657806', 'MLA2105483084', 'MLA3446177644'],
   },
   {
     id: 'MLA2105483084',
-    title: 'Dispensador Simple Cereales Y Granos Dosificador Dispenser',
+    title: 'Dispensador de Cereales Sobremesa — Hermético, Dosificador Giratorio',
     price: 36850.78,
     originalPrice: 39990,
     currency: 'ARS',
@@ -1682,7 +1792,7 @@ Las imágenes muestran que el producto incluye una bandeja adicional con 3 recep
       'https://http2.mlstatic.com/D_NQ_NP_2X_983604-MLA85805799195_062025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_663005-MLA85498865528_062025-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://articulo.mercadolibre.com.ar/MLA-2105483084-dispensador-simple-cereales-y-granos-dosificador-dispenser-_JM',
     affiliateUrl: 'https://meli.la/2f1ca8c',
@@ -1690,8 +1800,125 @@ Las imágenes muestran que el producto incluye una bandeja adicional con 3 recep
     freeShipping: false,
     rating: 5,
     soldQuantity: 5,
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: 'DISPENSADOR SIMPLE PARA GRANOS Y CEREALES  Ideal para cereales, arroz, fideos, alimentos secos, confites  CARACTERISTICAS ° Sistema de dosificación que evita derrames ° Frasco sellado, de cierre hermético que permite mantener a los alimentos frescos por mas tiempo ° Confeccionado con plástico resist',
+    description: 'Dispensador de alimentos secos de sobremesa con mecanismo giratorio y cierre hermético. Capacidad ~500g, plástico resistente, 14.5×19×40cm, 0.8kg. Apto para cereales, arroz, fideos, granos y confites. Sin instalación — va directo en la mesada. Disponible en negro y blanco.',
+    pros: [
+      'Sin instalación — va directo en la mesada',
+      'Cierre hermético — mantiene cereales crujientes',
+      'Dosificador giratorio con palanca cromada',
+      'Disponible en negro o blanco',
+      'Mecanismo controla bien el flujo de cereales grandes',
+    ],
+    cons: [
+      '⚠️ Solo 1 calificación — muestra estadísticamente insuficiente',
+      'Capacidad ~500g vs 10L del modelo de 5 puestos',
+      'Ocupa espacio en la mesada (40cm de alto)',
+      'No apto para harinas o polvos finos',
+      'Menos preciso para porciones de granos pequeños',
+    ],
+    verdict: 'Tres diferenciadores reales vs los dispensadores de pared: sin instalación (va en la mesada), cierre hermético (mantiene los cereales crujientes) y mecanismo giratorio (no push-button). Para cereales de desayuno es el formato más adecuado. Para cantidades grandes de granos, el de 5 puestos con 152 reviews tiene más respaldo.',
+    seoTitle: 'Dispenser de Cereales Sobremesa — Hermético, Dosificador Giratorio, 500g',
+    metaDescription: 'Dispensador de cereales y granos para mesada. Cierre hermético para conservar frescura, dosificador giratorio cromado. ~500g, 40cm de alto. Negro o blanco. Sin instalación.',
+    ogTitle: 'Dispenser de cereales para mesada — hermético, palanca cromada, sin pegar en pared',
+    ogDescription: 'Dispensador giratorio de granos y cereales. Cierre hermético para conservar frescura. ~500g, 40cm, negro o blanco. Va en la mesada, sin instalación. Ver precio en ML →',
+    h1: 'Dispenser de cereales para mesada — hermético, dosificador giratorio, sin instalación en pared',
+    articleBody: `La diferencia principal con los dispensadores de pared es que este no va en la pared. Va en la mesada. No hay adhesivos, no hay superficies que limpiar primero, no hay que calcular el peso que soporta el sticker. Lo sacás de la caja, lo ponés en la cocina y ya.
+
+El segundo diferenciador es el cierre hermético. El recipiente superior — el bowl transparente donde cargás el cereal o el grano — tiene un cierre que aísla el contenido del aire exterior. Para cereales de desayuno como cornflakes o muesli, eso importa: los mismos cereales que en una bolsa abierta pierden la textura crujiente en dos días, en un contenedor hermético se conservan por más tiempo. Para arroz, lentejas o fideos el beneficio es menor porque esos ingredientes no se ablandan con el aire, pero la protección contra insectos y humedad sigue siendo válida.
+
+## El mecanismo dosificador
+
+En lugar del push-button de los modelos de pared, este usa una palanca cromada en forma de mariposa que se gira para dispensar. Al girar la palanca, el mecanismo interno libera el alimento de manera controlada hacia la boca de salida, donde cae al bowl o plato que tenés debajo. El diseño de mariposa cromada es funcional y le da un aspecto más trabajado que el botón gris de los dispensadores de pared.
+
+Para ingredientes grandes como cornflakes o cereales inflados, el giro controla bien el flujo. Para granos pequeños como arroz o lentejas, el mecanismo tiende a liberar más cantidad por giro — puede que no sea tan preciso para porciones exactas.
+
+## Las dimensiones y capacidades
+
+40cm de altura, 14.5cm de frente, 19cm de profundidad. Es un objeto con presencia en la mesada — ocupa el espacio equivalente a una licuadora chica o un tostador angosto. La capacidad es de aproximadamente 500g, que equivale a unos 2 a 3 litros dependiendo del ingrediente (los cereales inflados ocupan más espacio por menos peso que los granos densos como el arroz).
+
+Para una familia que consume un ingrediente específico con frecuencia — el cereal del desayuno de los chicos, por ejemplo — la capacidad de 500g cubre aproximadamente una semana de uso.
+
+Viene en negro o blanco. Los dos colores aparecen en las imágenes del producto.
+
+## Lo que hay que tener en cuenta
+
+La capacidad en peso (500g) es mucho menor que los dispensadores de pared en volumen (1.5L y 10L total). Para ingredientes densos como arroz, 500g equivale a unos 350ml — significativamente menos que el individual de pared de 1.5L. Si la frecuencia de recarga te molesta, los modelos de pared tienen más capacidad por unidad.
+
+El rating tiene una sola calificación. 5.0 estrellas de 1 persona es el mejor promedio posible pero la muestra es estadísticamente sin valor. No hay comentarios que expliquen qué le gustó o qué no. Antes de comprar, si el respaldo de reviews es importante, el dispensador quíntuple de pared tiene 152 calificaciones a 4.2 estrellas con el mismo tipo de mecanismo.`,
+    specs: [
+      { label: 'Tipo', value: 'Dispensador sobremesa' },
+      { label: 'Capacidad', value: '~500g' },
+      { label: 'Dimensiones', value: '14.5cm ancho × 19cm prof × 40cm alto' },
+      { label: 'Peso', value: '0.8 kg' },
+      { label: 'Color', value: 'Negro o blanco' },
+      { label: 'Material', value: 'Plástico' },
+      { label: 'Mecanismo', value: 'Dosificador giratorio (palanca cromada)' },
+      { label: 'Cierre', value: 'Hermético' },
+      { label: 'Instalación', value: 'Ninguna — sobremesa libre' },
+      { label: 'Alimentos aptos', value: 'Cereales, arroz, fideos, granos secos, confites' },
+      { label: 'Rating', value: '5.0 ⭐ (1 calificación — sin comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Necesita instalarse en la pared?',
+        answer:
+          'No. Es un dispensador de sobremesa — va directo sobre la mesada. No necesita adhesivos, tornillos ni ningún tipo de instalación.',
+      },
+      {
+        question: '¿Qué significa "cierre hermético"?',
+        answer:
+          'El recipiente superior tiene un sello que aísla el contenido del aire exterior. Útil especialmente para cereales de desayuno (cornflakes, muesli) que pierden el crujiente rápido al contacto con el aire. Para granos densos (arroz, lentejas), el beneficio es menor pero sigue protegiendo contra humedad e insectos.',
+      },
+      {
+        question: '¿Cómo funciona el dosificador?',
+        answer:
+          'Se gira la palanca cromada en forma de mariposa para liberar el alimento. No es push-button como los modelos de pared — es un mecanismo rotatorio que controla el flujo al girar.',
+      },
+      {
+        question: '¿Cuánto entra en 500g?',
+        answer:
+          'Depende del ingrediente. Para cereales inflados (más livianos): entra bastante en volumen pero menos en peso. Para arroz o lentejas (más densos): 500g es aproximadamente 350ml — menos que el individual de pared de 1.5L.',
+      },
+      {
+        question: '¿Viene en qué colores?',
+        answer:
+          'Negro y blanco, según las imágenes del producto. Verificar disponibilidad de color en el listing de ML al momento de comprar.',
+      },
+      {
+        question: '¿Funciona con harina o azúcar?',
+        answer:
+          'Los polvos finos como harina y azúcar pueden apelmazarse con el mecanismo rotatorio. Este dispensador está pensado para ingredientes en grano o en escama. Para harinas o polvos, otros formatos son más adecuados.',
+      },
+      {
+        question: '¿Tiene muchas opiniones de compradores?',
+        answer:
+          'Al momento de publicación tiene 1 calificación de 5 estrellas y sin comentarios. Es una muestra mínima. Si necesitás más respaldo de reviews antes de comprar, el dispensador de 5 puestos de pared del mismo sitio tiene 152 calificaciones a 4.2⭐.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Dispensador de Cereales y Granos Sobremesa — Dosificador Giratorio Hermético',
+      description:
+        'Dispensador de alimentos secos de sobremesa con mecanismo giratorio y cierre hermético. Capacidad ~500g, plástico resistente, 14.5×19×40cm, 0.8kg. Apto para cereales, arroz, fideos, granos y confites. Sin instalación — va directo en la mesada. Disponible en negro y blanco.',
+      brand: { '@type': 'Brand', name: 'Genérico' },
+      color: 'Negro / Blanco',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2f1ca8c',
+        priceCurrency: 'ARS',
+        price: 36850,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5.0',
+        reviewCount: '1',
+      },
+    },
+    relatedProducts: ['MLA26657806', 'MLA3857302687', 'MLA3446177644'],
   },
   {
     id: 'MLA144127092',
