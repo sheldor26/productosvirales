@@ -1186,11 +1186,11 @@ Tipo de recubrimiento no especificado: las especificaciones no aclaran si el ant
         reviewCount: '10',
       },
     },
-    relatedProducts: ['MLA3446177644', 'MLA65102455'],
+    relatedProducts: ['MLA139114583', 'MLA3446177644', 'MLA65102455'],
   },
   {
     id: 'MLA139114583',
-    title: 'Sartén Enlozado Vitrificado Nº24 Jovifel Apta Inducción',
+    title: 'Sartén Enlozada Vitrificada Jovifel 24cm — Apta Inducción',
     price: 13999,
     originalPrice: undefined,
     currency: 'ARS',
@@ -1202,7 +1202,7 @@ Tipo de recubrimiento no especificado: las especificaciones no aclaran si el ant
       'https://http2.mlstatic.com/D_NQ_NP_2X_694530-MLA48409574570_122021-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_930407-MLA48409644165_122021-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/sarten-enlozado-vitrificado-n24-jovifel-apta-induccion/up/MLAU139114583',
     affiliateUrl: 'https://meli.la/2TQ1wuZ',
@@ -1210,8 +1210,142 @@ Tipo de recubrimiento no especificado: las especificaciones no aclaran si el ant
     freeShipping: true,
     rating: 4.3,
     soldQuantity: 25,
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: 'BAZAR EN RED -------------------------------------------  Sartén enlozada vitrificado. Marca: JOVIFEL El vitrificado es un proceso industrial de protección del material contra la humedad. Excelente calidad. Diámetro: 24 Cm Altura: 4 Cm Esta pieza esta echa de acero enlozado por ende es apta para coc',
+    description: 'Sartén de hierro enlozado vitrificado Jovifel 24cm. Compatible con cocinas a inducción, cerámica, gas y eléctrico. Apta para lavavajillas. Recubrimiento de esmalte vitrificado (NO teflón). Industria Nacional Argentina. Dimensiones: 42×24×4.5cm.',
+    pros: [
+      'Apta para cocinas a INDUCCIÓN — ventaja sobre los sartenes de aluminio',
+      'Apta lavavajillas — no se degrada como el teflón',
+      'Envío gratis',
+      'Industria Nacional Argentina — soporte local',
+      'Vitrificado: aguanta altas temperaturas sin degradarse',
+      'Compatible con todos los tipos de cocina (gas, eléctrico, inducción, cerámica)',
+    ],
+    cons: [
+      '⚠️ NO es antiadherente tipo teflón — requiere aceite para cocinar',
+      '⚠️ El mango de hierro se calienta — usar agarradera',
+      'Solo 3 calificaciones — muestra estadísticamente mínima',
+      'Pesa más que un sartén de aluminio (~800g-1kg)',
+      'No incluye tapa (verificar en listing)',
+    ],
+    verdict: 'Si tenés cocina a inducción, la mayoría de los sartenes antiadherentes de aluminio no te sirven — no son magnéticos. Este de hierro enlozado sí, y además aguanta lavavajillas. Es Industria Nacional. Eso sí: no esperes que se comporte como teflón — el enlozado es otra cosa y requiere aceite.',
+    seoTitle: 'Sartén Enlozada Vitrificada Jovifel 24cm — Apta Inducción y Lavavajillas',
+    metaDescription: 'Sartén enlozada vitrificada Jovifel 24cm de hierro. Apta para inducción, cerámica, gas y eléctrico. Apta lavavajillas. Industria Nacional Argentina. 4.3 estrellas.',
+    ogTitle: 'Sartén Jovifel enlozada 24cm — apta inducción y lavavajillas, industria argentina',
+    ogDescription: 'Sartén de hierro enlozado vitrificado Jovifel: 24cm, compatible con inducción, gas, cerámica y eléctrico. Apta lavavajillas. Fabricada en Argentina. Ver precio en ML →',
+    h1: 'Sartén enlozada Jovifel 24cm apta para inducción — de hierro vitrificado, argentina',
+    articleBody: `En Argentina, cada vez más cocinas funcionan a inducción. El problema: la mayoría de los sartenes antiadherentes de aluminio — los que dominan las góndolas — no son compatibles con inducción. El aluminio no genera el campo magnético que necesita la vitrocerámica. Para esas cocinas, el sartén tiene que ser de hierro o acero.
+
+El Jovifel Nº24 es de hierro enlozado, de 24cm de diámetro, y es compatible con todos los tipos de cocina: inducción, cerámica, gas y eléctrico. Además es apto para lavavajillas — algo que muchos sartenes antiadherentes de aluminio no son. Jovifel es Industria Nacional argentina, fabricado en el país.
+
+## Qué significa "enlozado vitrificado"
+
+El vitrificado es un proceso industrial donde se aplica una capa de esmalte vítreo sobre el hierro mediante alta temperatura. El resultado es una superficie dura, lisa, resistente a la humedad y a la oxidación que protege el hierro base. No es un recubrimiento de polímero como el teflón — es cerámica fundida sobre metal.
+
+Eso tiene implicancias prácticas concretas. El enlozado aguanta temperaturas altas sin degradarse como lo haría un antiadherente PTFE. No libera vapores a altas temperaturas. No se "desgasta" de la misma manera que el teflón con el uso diario — el esmalte es físicamente más duro. Y se puede lavar en lavavajillas sin que el recubrimiento se deteriore.
+
+La contrapartida: no es tan antiadherente como el teflón para preparaciones de baja grasa. Los alimentos se pegan más si el sartén no está bien calentado o si no se usa suficiente aceite. El enlozado mejora con el uso — con el tiempo forma una pátina que sí ayuda al deslizamiento — pero en los primeros usos hay que ir con grasa.
+
+## Las dimensiones en la práctica
+
+24cm de diámetro con 4cm de altura. No es una sartén profunda — el borde bajo facilita deslizar el contenido sin levantar mucho. Para huevos fritos, filetes, verduras salteadas o crepas funciona bien. Para guisos o preparaciones con líquido que pudieran salpicar, el borde de 4cm es lo justo.
+
+El cuerpo de hierro pesa más que el aluminio — sin dato de peso exacto en las specs, pero un sartén de hierro enlozado de 24cm ronda los 800g a 1 kg. Hay que tenerlo en cuenta si el uso es prolongado o si quien cocina tiene dificultades con objetos pesados.
+
+## Jovifel — Industria Nacional
+
+El logo y la leyenda "Industria Nacional 🇦🇷" aparecen explícitamente en la imagen del producto. Jovifel produce en Argentina — lo que implica distribución local, piezas de repuesto posibles, y un fabricante con presencia en el mercado argentino. Para las marcas de cocina, ese detalle importa cuando necesitás soporte o querés saber de dónde viene lo que estás comprando.
+
+## ⚠️ Lo que hay que saber antes de comprar
+
+No es antiadherente como el teflón. El enlozado vitrificado protege el hierro y tiene cierta superficie lisa, pero no reemplaza al teflón en aplicaciones de baja grasa. Usar con aceite o manteca — especialmente en los primeros usos.
+
+El mango es de hierro enlozado también. No de plástico ni de goma — se calienta. Usar agarradera o repasador para sostenerlo durante la cocción.
+
+3 calificaciones. En el momento de publicación, el producto tiene solo 3 reseñas. Con ese volumen, el promedio de 4.3 estrellas no tiene poder estadístico suficiente para ser concluyente. El producto puede ser excelente — la muestra simplemente es demasiado pequeña. Si preferís más respaldo de reviews antes de comprar, el Cincam doble de 20cm tiene 10 calificaciones.`,
+    specs: [
+      { label: 'Marca', value: 'Jovifel (Industria Nacional Argentina)' },
+      { label: 'Modelo', value: 'Sartén Enlozado Vitrificado Nº24' },
+      { label: 'Diámetro', value: '24 cm' },
+      { label: 'Altura (interior)', value: '~4 cm' },
+      { label: 'Dimensiones totales', value: '42 × 24 × 4.5 cm' },
+      { label: 'Material cuerpo', value: 'Hierro enlozado/vitrificado' },
+      { label: 'Material mango', value: 'Hierro enlozado' },
+      { label: 'Tipo de recubrimiento', value: 'Esmalte vitrificado (NO teflón/PTFE)' },
+      { label: 'Compatible con inducción', value: 'Sí' },
+      { label: 'Compatible con cerámica', value: 'Sí' },
+      { label: 'Compatible con gas', value: 'Sí' },
+      { label: 'Compatible con eléctrico', value: 'Sí' },
+      { label: 'Apto lavavajillas', value: 'Sí' },
+      { label: 'Incluye tapa', value: 'No especificado (verificar)' },
+      { label: 'Origen', value: 'Argentina 🇦🇷' },
+      { label: 'Rating', value: '4.3 ⭐ (3 calificaciones — muestra mínima)' },
+    ],
+    faq: [
+      {
+        question: '¿Este sartén funciona con cocinas a inducción?',
+        answer:
+          'Sí. El cuerpo de hierro es magnético, lo que lo hace compatible con las vitrocerámicas de inducción. Los sartenes de aluminio no funcionan en inducción — esta es una diferencia clave frente a la mayoría de los sartenes antiadherentes del mercado.',
+      },
+      {
+        question: '¿Qué es el vitrificado? ¿Es lo mismo que antiadherente?',
+        answer:
+          'No. El vitrificado es una capa de esmalte vítreo (cerámica) fundido sobre el hierro a alta temperatura. Protege el hierro de la oxidación y la humedad, y da una superficie relativamente lisa. No es tan antiadherente como el teflón — los alimentos se pegan más si no se usa aceite o el sartén no está bien calentado. La ventaja del esmalte es que es más duro, aguanta temperaturas altas y no se degrada como el PTFE.',
+      },
+      {
+        question: '¿Se puede meter en la lavavajillas?',
+        answer:
+          'Sí. El enlozado vitrificado es apto para lavavajillas, a diferencia de los sartenes antiadherentes de aluminio que se degradan en la lavavajillas.',
+      },
+      {
+        question: '¿El mango se calienta?',
+        answer:
+          'El mango es de hierro enlozado — se calienta durante la cocción. Usá una agarradera o repasador para sostenerlo.',
+      },
+      {
+        question: '¿Hace falta aceite para cocinar?',
+        answer:
+          'El enlozado no es tan antiadherente como el teflón, especialmente en los primeros usos. Con aceite o manteca funciona bien. Con el tiempo el sartén forma una pátina que mejora el deslizamiento.',
+      },
+      {
+        question: '¿Cuántas reseñas tiene?',
+        answer:
+          'Al momento de publicación, 3 calificaciones con promedio 4.3. Es una muestra muy pequeña. Las fotos de reviews muestran el sartén en uso real, lo que confirma que es el producto correcto, pero el promedio estadístico no es conclusivo todavía.',
+      },
+      {
+        question: '¿Viene con tapa?',
+        answer:
+          'Las especificaciones no lo mencionan explícitamente. Verificar en el listing de ML si incluye tapa o si hay que comprarla aparte.',
+      },
+      {
+        question: '¿Para qué preparaciones es mejor?',
+        answer:
+          'Huevos fritos, filetes, verduras salteadas, panqueques y crepas (con suficiente aceite). Para preparaciones con mucho líquido, el borde bajo de 4cm puede resultar justo. Para tortillas españolas, el sartén doble Cincam 20cm es más adecuado por el diseño específico de volteo.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Sartén Enlozada Vitrificada Jovifel Nº24 — Apta Inducción y Lavavajillas',
+      description:
+        'Sartén de hierro enlozado vitrificado Jovifel 24cm. Compatible con cocinas a inducción, cerámica, gas y eléctrico. Apta para lavavajillas. Recubrimiento de esmalte vitrificado (no PTFE). Fabricación Industria Nacional Argentina. Dimensiones: 42×24×4.5cm.',
+      brand: { '@type': 'Brand', name: 'Jovifel' },
+      countryOfOrigin: 'AR',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2TQ1wuZ',
+        priceCurrency: 'ARS',
+        price: 13999,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.3',
+        reviewCount: '3',
+      },
+    },
+    relatedProducts: ['MLA402624780', 'MLA3446177644', 'MLA65102455'],
   },
   {
     id: 'MLA373832208',
