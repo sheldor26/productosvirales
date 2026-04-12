@@ -2065,33 +2065,8 @@ Si el rating de 2.5⭐ te genera dudas, el cortador de papas bastón Aloha en es
         reviewCount: '46',
       },
     },
-    relatedProducts: ['MLA48098024', 'MLA402624780', 'MLA139114583'],
+    relatedProducts: ['MLA48098024', 'MLA27077238', 'MLA294818244', 'MLA402624780'],
     visibility: 'deprioritized',
-  },
-  {
-    id: 'MLA2996077495',
-    title: 'Cortadora Papas Fritas Corte Baston Vertical  10x10 Mm',
-    price: 49999,
-    originalPrice: undefined,
-    currency: 'ARS',
-    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_982584-MLA96671754442_112025-F.webp',
-    images: [
-      'https://http2.mlstatic.com/D_NQ_NP_2X_982584-MLA96671754442_112025-F.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_895498-MLA90467883507_082025-O.jpg',
-      'https://http2.mlstatic.com/D_NQ_NP_2X_947277-MLA97126371395_112025-F.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_2X_718550-MLA96672080406_112025-F.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_2X_991791-MLA82257963733_022025-F.webp',
-    ],
-    category: 'Hogar, Muebles y Jardín',
-    categorySlug: 'cocina',
-    permalink: 'https://www.mercadolibre.com.ar/cortadora-papas-fritas-corte-baston-vertical--10x10-mm/up/MLAU2996077495',
-    affiliateUrl: 'https://meli.la/2m9YR4j',
-    condition: 'new',
-    freeShipping: true,
-    rating: 4.4,
-    soldQuantity: 50,
-    pastelColor: 'var(--pastel-coral)',
-    description: 'NO HAGO FC A  PROMOCION INCLUYE UN CORTA PAPAS BASTON   Este cortador de papas baston es ideal para quienes trabajan en restaurantes, bares, cafeterías e incluso para uso doméstico. Es perfecta para rebanar otros alimentos, como verduras, queso, frutas y papas.  Aprovéchala para preparar ensaladas, ',
   },
   {
     id: 'MLA48098024',
@@ -2228,11 +2203,11 @@ Al ser apto para lavavajillas, la limpieza no requiere ningún paso especial. Cu
         reviewCount: '37',
       },
     },
-    relatedProducts: ['MLA144127092', 'MLA402624780', 'MLA139114583'],
+    relatedProducts: ['MLA144127092', 'MLA27077238', 'MLA294818244', 'MLA402624780'],
   },
   {
     id: 'MLA294818244',
-    title: 'Cortador Cortadora Papas Fritas Corte Americano Cocina',
+    title: 'Cortador Papas Corte Americano Ondulado — Cuchilla Acero Inoxidable',
     price: 11900,
     originalPrice: undefined,
     currency: 'ARS',
@@ -2244,7 +2219,7 @@ Al ser apto para lavavajillas, la limpieza no requiere ningún paso especial. Cu
       'https://http2.mlstatic.com/D_NQ_NP_2X_729398-MLA42069014225_062020-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_971675-MLA42068995655_062020-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/cortador-cortadora-papas-fritas-corte-americano-cocina/up/MLAU294818244',
     affiliateUrl: 'https://meli.la/2NagqxL',
@@ -2253,11 +2228,125 @@ Al ser apto para lavavajillas, la limpieza no requiere ningún paso especial. Cu
     rating: 5,
     soldQuantity: 5,
     pastelColor: 'var(--pastel-coral)',
-    description: 'MAUMAU OBJETOS  Cortador de papas manual para estilo americano  Si buscas un cortador de papas americanas con un diseño moderno, este modelo es justo lo que buscabas. Tiene un mango ergonomico que se adapta a la mano y estructura abierta hecha de acero inoxidable, que lo hace muy resistente.  Es apt',
+    description: 'Cortador manual de verduras con cuchilla ondulada de acero inoxidable. Produce corte americano (wavy). Para papas, pepinos, remolachas, zanahorias. Mango ergonómico de plástico. 7.5×10.8cm aproximadas. No apto lavavajillas — lavar bajo el grifo.',
+    pros: [
+      'Envío gratis',
+      'Hace corte americano (ondulado) que ningún otro cortador del sitio ofrece',
+      'Multiusos: papas, pepinos, remolachas, zanahorias, batatas',
+      'Cuchilla de acero inoxidable con estructura abierta — fácil limpieza',
+      'Mango ergonómico de plástico',
+      'Sin electricidad — sin cables ni pilas',
+    ],
+    cons: [
+      'No apto para lavavajillas — solo lavado a mano',
+      'Solo 1 calificación — sin comentarios escritos todavía',
+      'Sin cuchillas intercambiables — solo formato ondulado',
+      'Dimensiones indicadas como aproximadas en el listing',
+      'Marca no especificada',
+    ],
+    verdict: 'El único cortador del sitio que hace corte ondulado/americano. Los otros cortadores (Aloha, Feel Bazar) hacen bastón. Si querés papas con la textura crujiente en los bordes que agarra mejor la sal, este es el formato. Bonus: sirve también para pepinos y remolachas decorativas.',
+    seoTitle: 'Cortador Papas Ondulado Corte Americano — Cuchilla Acero Inoxidable',
+    metaDescription: 'Cortá papas en corte americano ondulado con un solo movimiento. También pepinos, remolachas y zanahorias. Cuchilla de acero inoxidable, mango ergonómico. 7.5×10.8cm.',
+    ogTitle: 'Cortador ondulado corte americano — cuchilla acero inox, también para pepinos y remolachas',
+    ogDescription: 'Cortá papas, pepinos, zanahorias y más con corte americano ondulado. Cuchilla de acero inoxidable, mango ergonómico, se lava bajo el grifo. Ver precio →',
+    h1: 'Cortador de papas corte americano — cuchilla ondulada de acero inoxidable, multiusos',
+    articleBody: `El "corte americano" es el que tiene ondas — las papas fritas con esa forma irregular y textura más crujiente en los bordes que agarra mejor la sal y el condimento. Para hacerlo en casa sin cortar cada rodaja con un cuchillo especial, existe este tipo de cortador: una cuchilla ondulada de acero inoxidable con mango de plástico que pasás de un tirón sobre la verdura.
+
+La operación es simple: se sostiene el mango por arriba, se apoya la cuchilla sobre la papa (o el pepino, o la remolacha), y se empuja hacia abajo con un movimiento parejo. Cada pasada produce una rodaja con el ondulado característico del corte americano. La papa queda lista para freír o para el horno.
+
+## Para qué sirve (y no solo papas)
+
+La descripción del producto en MercadoLibre lo describe para papas, pero la cuchilla ondulada funciona igual con cualquier verdura de consistencia parecida. Pepinos para ensalada, remolachas, zanahorias, patatas dulces — cualquier cosa que entre bajo la cuchilla sale con el corte ondulado. Para quien hace tablas de picada o ensaladas donde la presentación importa, ese detalle suma.
+
+Mide 7.5cm de ancho por 10.8cm de alto (medidas indicadas como aproximadas en el listing — verificar en ML antes de comprar si el tamaño exacto es importante).
+
+## El mango
+
+El mango de plástico tiene forma ergonómica — más redondeado arriba para apoyar la palma y abierto en la parte inferior para que la cuchilla quede libre. La estructura de la cuchilla es abierta: son varillas paralelas onduladas de acero, no una lámina sólida. Eso facilita limpiarla bajo el grifo porque el agua pasa entre las varillas y arrastra los restos de comida.
+
+No es apto para lavavajillas — la limpieza es a mano bajo el agua. Para el tipo de residuo que deja (almidón de papa, jugo de pepino), es suficiente con agua tibia y un cepillo si quedó algo entre las varillas.
+
+## La única calificación
+
+5.0 estrellas sobre 1 calificación, sin comentarios escritos todavía. No hay suficiente historial de reseñas para sacar conclusiones sobre durabilidad o rendimiento real. El contenido de esta reseña se basa en las especificaciones del producto y la descripción del vendedor.
+
+## Qué lo diferencia del resto del cluster
+
+Los otros cortadores de papa del sitio (Feel Bazar y Aloha) hacen corte bastón — tiras rectas, sección cuadrada. Este hace corte ondulado — rodajas con forma de ola. No son productos competidores: son para distintos tipos de preparación. Si hacés papas fritas clásicas, querés bastón. Si hacés papas americanas o presentación más trabajada, querés ondulado.`,
+    specs: [
+      { label: 'Tipo', value: 'Cortador manual, cuchilla ondulada (corte americano)' },
+      { label: 'Material mango', value: 'Plástico' },
+      { label: 'Material cuchilla', value: 'Acero inoxidable' },
+      { label: 'Cuchillas intercambiables', value: 'No' },
+      { label: 'Dimensiones', value: '7.5 × 10.8 cm (aproximadas)' },
+      { label: 'Apto lavavajillas', value: 'No (lavar bajo el grifo)' },
+      { label: 'Requiere electricidad', value: 'No' },
+      { label: 'Usos', value: 'Papas, pepinos, remolachas, zanahorias, otras verduras' },
+      { label: 'Rating', value: '5.0 ⭐ (1 calificación — sin comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué es el "corte americano"?',
+        answer:
+          'Es el corte ondulado — rodajas con forma de ola en lugar de planas. Las papas con ese corte tienen más superficie irregular, lo que les da más textura crujiente en los bordes al freír.',
+      },
+      {
+        question: '¿Solo sirve para papas?',
+        answer:
+          'No. Funciona con cualquier verdura de consistencia parecida: pepinos, remolachas, zanahorias, batatas. Lo que determina si funciona es que la verdura tenga suficiente firmeza para cortarse limpiamente.',
+      },
+      {
+        question: '¿Cómo se limpia?',
+        answer:
+          'No es apto para lavavajillas. La limpieza es bajo el grifo con agua tibia. La estructura abierta de la cuchilla (varillas paralelas, no lámina sólida) facilita que el agua arrastre los restos. Si quedaron residuos entre las varillas, un cepillo pequeño resuelve.',
+      },
+      {
+        question: '¿Cuánto mide?',
+        answer:
+          '7.5cm de ancho por 10.8cm de alto. El listing indica que son medidas aproximadas — verificar en ML antes de comprar si el tamaño exacto es importante.',
+      },
+      {
+        question: '¿Tiene cuchillas intercambiables?',
+        answer:
+          'No. La cuchilla ondulada es fija — solo hace corte americano. No hace bastón, no hace rodaja plana, no hace juliana.',
+      },
+      {
+        question: '¿Qué diferencia tiene con el cortador Aloha o Feel Bazar?',
+        answer:
+          'El Aloha y el Feel Bazar hacen corte bastón (tiras rectas). Este hace corte ondulado (rodajas con forma de ola). No son productos competidores — son para distintos tipos de preparación. Si querés papas fritas clásicas, bastón. Si querés textura crujiente con presentación más trabajada, ondulado.',
+      },
+      {
+        question: '¿Tiene muchas reseñas?',
+        answer:
+          'Todavía no. Al momento de escribir este artículo tiene una sola calificación (5.0⭐) y ningún comentario escrito. Es un producto nuevo en MercadoLibre — no hay historial de reseñas para evaluar durabilidad o rendimiento a largo plazo.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cortador Papas Fritas Corte Americano Ondulado — Cuchilla Acero Inoxidable',
+      description:
+        'Cortador manual de verduras con cuchilla ondulada de acero inoxidable. Produce corte americano (wavy). Para papas, pepinos, remolachas, zanahorias. Mango ergonómico de plástico. 7.5×10.8cm. No apto lavavajillas.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2NagqxL',
+        priceCurrency: 'ARS',
+        price: 11900,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5.0',
+        reviewCount: '1',
+      },
+    },
+    relatedProducts: ['MLA48098024', 'MLA144127092', 'MLA139114583'],
   },
   {
     id: 'MLA27077238',
-    title: 'Corta Papas Cortadora Verduras Frutas Bastón 2 Cuchillas',
+    title: 'Máquina Cortar Papas Bastón 2 Cuchillas — Palanca Metal + PVC',
     price: 45045.8,
     originalPrice: 59899,
     currency: 'ARS',
@@ -2266,7 +2355,7 @@ Al ser apto para lavavajillas, la limpieza no requiere ningún paso especial. Cu
       'https://http2.mlstatic.com/D_NQ_NP_2X_750323-MLA96262873086_102025-F.webp',
       'https://http2.mlstatic.com/D_Q_NP_750323-MLA96262873086_102025-R.webp',
     ],
-    category: 'Utensilios de Preparación',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/corta-papas-cortadora-verduras-frutas-baston-2-cuchillas/p/MLA27077238',
     affiliateUrl: 'https://meli.la/2iUjhUR',
@@ -2275,7 +2364,119 @@ Al ser apto para lavavajillas, la limpieza no requiere ningún paso especial. Cu
     rating: 2.8,
     soldQuantity: 100,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Corta Papas Cortadora Verduras Frutas Bastón 2 Cuchillas\' es un producto de alta calidad que te permitirá cortar tus alimentos de manera rápida y eficiente. Este producto viene con dos cuchillas, lo que te permitirá tener una mayor versatilidad a la hora de preparar tus comidas.   Nuestro estableci',
+    description: 'Cortadora de papas fritas en bastón con mecanismo de palanca. Cuerpo de metal y PVC. 2 cuchillas intercambiables de acero inoxidable. Apto lavavajillas. 24×11cm. Sin contenedor incluido. Sin electricidad.',
+    pros: [
+      'Mecanismo de palanca — multiplica la fuerza, menos esfuerzo que presión directa',
+      '2 cuchillas intercambiables (tipos no especificados en el listing)',
+      'Cuerpo de metal + PVC — más robusto que los modelos íntegramente plásticos',
+      'Apto para lavavajillas',
+      'Construcción más sólida que los cortadores de mano simples',
+    ],
+    cons: [
+      '⚠️ Rating 2.8⭐ con 8 calificaciones — volumen bajo para conclusiones',
+      '⚠️ Tipos de cuchillas intercambiables NO especificados en el listing',
+      '⚠️ Calificaciones incluyen opiniones de otros países',
+      'No incluye contenedor para recibir los bastones',
+      '24×11cm — más grande que los cortadores de mano, ocupa espacio',
+      'Marca no especificada',
+    ],
+    verdict: 'El único cortador del sitio con mecanismo de palanca y cuchillas intercambiables. La palanca es genuinamente más cómoda que los modelos de presión directa. Pero el rating 2.8⭐/8 es bajo y las specs del producto no detallan qué tipos de corte hacen las 2 cuchillas — datos clave que faltan. Si preferís algo simple y mejor valorado, el Aloha.',
+    seoTitle: 'Máquina Cortar Papas Fritas Bastón 2 Cuchillas — Palanca Metal, Lavavajillas',
+    metaDescription: 'Cortadora de papas bastón con palanca de metal, 2 cuchillas intercambiables de acero inoxidable. Apto lavavajillas. 24×11cm. Ver calificaciones y detalle antes de comprar.',
+    ogTitle: 'Máquina cortar papas bastón con palanca — 2 cuchillas intercambiables, metal + PVC, lavavajillas',
+    ogDescription: 'Cortadora de papas bastón tipo palanca, más fuerza con menos esfuerzo. 2 cuchillas de acero inoxidable. Apto lavavajillas. 24×11cm. Leer calificaciones antes de comprar →',
+    h1: 'Máquina para cortar papas fritas bastón — palanca de metal, 2 cuchillas intercambiables, apto lavavajillas',
+    articleBody: `La diferencia entre este cortador y los modelos de presión directa está en el mecanismo: acá hay una palanca. La papa va sobre la base, se sujeta el mango y se empuja hacia abajo. La palanca multiplica la fuerza — hace más fácil atravesar papas más duras o de mayor tamaño sin tener que poner todo el peso encima como en los modelos de presión manual. El cuerpo es de metal y PVC, no de plástico liviano.
+
+Viene con dos cuchillas de acero inoxidable intercambiables.
+
+## ⚠️ Lo que el listing no dice — las 2 cuchillas
+
+El producto incluye 2 cuchillas intercambiables, pero las especificaciones del listing no detallan qué tipo de corte hace cada una. Antes de comprar, verificar en ML qué formatos incluye — si son dos tamaños de bastón (fino y grueso), o bastón más otro formato. Esa información es el dato de compra más relevante del producto y falta en las especificaciones actuales.
+
+## El cuerpo
+
+El cuerpo combina metal y PVC — una construcción más robusta que los cortadores íntegramente plásticos. El metal aparece principalmente en el mecanismo de la palanca y el arco, el PVC en la base. La base tiene estrías antideslizantes en la parte inferior.
+
+Mide 24×11cm — considerablemente más grande que los modelos de mano. Para guardar en un cajón de cocina estándar, este no es el tipo de herramienta que entra junto con el resto de los utensilios pequeños. Requiere un cajón con espacio o un lugar fijo en la mesada.
+
+Apto para lavavajillas — tanto las cuchillas como la base.
+
+## Las calificaciones
+
+2.8 estrellas sobre 8 calificaciones, con la nota de que el listing incluye opiniones de otros países. Hay 5 comentarios escritos. Con tan pocas calificaciones y un promedio bajo, no hay suficiente volumen para entender el patrón completo de fallas. Antes de comprar conviene leer los comentarios en el listing de ML — pueden revelar si el problema es recurrente (durabilidad del PVC, desalineación de la hoja, palanca que pierde tensión) o específico de algún comprador.
+
+Para quien está considerando la compra: el mecanismo de palanca es genuinamente más cómodo para cortar que los modelos de presión directa si se usa con papas del tamaño adecuado. La pregunta que queda sin responder con este volumen de reseñas es cuánto dura.
+
+## Alternativa mejor valorada
+
+Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanca, el cortador de papas bastón Aloha en este mismo sitio tiene 3.9⭐, es apto para lavavajillas, y hace el mismo tipo de corte en formato más compacto (aunque sin multiplicación de fuerza de palanca).`,
+    specs: [
+      { label: 'Tipo', value: 'Cortadora de palanca, bastón' },
+      { label: 'Material cuerpo', value: 'Metal + PVC' },
+      { label: 'Material cuchillas', value: 'Acero inoxidable' },
+      { label: 'Cuchillas intercambiables', value: 'Sí — 2 cuchillas (tipos no especificados)' },
+      { label: 'Dimensiones', value: '24 × 11 cm' },
+      { label: 'Incluye contenedor', value: 'No' },
+      { label: 'Apto lavavajillas', value: 'Sí' },
+      { label: 'Requiere electricidad', value: 'No' },
+      { label: 'Rating', value: '2.8 ⭐ (8 calificaciones — incluye opiniones de otros países)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué tipos de corte hacen las 2 cuchillas?',
+        answer:
+          'El listing no especifica los formatos de las dos cuchillas intercambiables. Verificar en la página actual de MercadoLibre antes de comprar — esa información puede estar en las imágenes de detalle o en la descripción ampliada del vendedor.',
+      },
+      {
+        question: '¿Qué ventaja tiene la palanca sobre los modelos de presión directa?',
+        answer:
+          'La palanca multiplica la fuerza aplicada. Se necesita menos esfuerzo para atravesar la papa que con los modelos donde se empuja con la palma. Para quien corta muchas papas seguidas o tiene dificultad para aplicar presión, ese es el diferenciador real.',
+      },
+      {
+        question: '¿El contenedor para las papas está incluido?',
+        answer:
+          'No. Las especificaciones indican que no incluye contenedor. Hay que poner un recipiente debajo para recibir los bastones cortados.',
+      },
+      {
+        question: '¿Cabe en un cajón de cocina?',
+        answer:
+          'Con 24×11cm es más grande que los cortadores de mano. En un cajón estándar puede entrar, pero ocupa bastante espacio. Muchos usuarios de este tipo de cortador lo guardan en la mesada o en un lugar fijo.',
+      },
+      {
+        question: '¿Es apto para lavavajillas?',
+        answer:
+          'Sí. Tanto la base como las cuchillas son aptas para lavavajillas.',
+      },
+      {
+        question: '¿Tiene muchas reseñas negativas?',
+        answer:
+          'El promedio es de 2.8⭐ sobre 8 calificaciones (con opiniones de otros países). Hay 5 comentarios. El volumen es muy bajo para sacar conclusiones definitivas — leer los comentarios en ML para entender los puntos de falla específicos antes de comprar. Si preferís un cortador bastón con más respaldo de reseñas, el Aloha tiene 3.9⭐/37.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cortadora Papas Bastón 2 Cuchillas Palanca — Metal + PVC, Acero Inoxidable',
+      description:
+        'Cortadora de papas fritas en bastón con mecanismo de palanca. Cuerpo de metal y PVC. 2 cuchillas intercambiables de acero inoxidable. Apto lavavajillas. 24×11cm. Sin contenedor incluido. Sin electricidad.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2iUjhUR',
+        priceCurrency: 'ARS',
+        price: 45045,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '2.8',
+        reviewCount: '8',
+      },
+    },
+    relatedProducts: ['MLA48098024', 'MLA144127092', 'MLA294818244'],
+    visibility: 'deprioritized',
   },
   {
     id: 'MLA54423759',
