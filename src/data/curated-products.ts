@@ -2978,7 +2978,11 @@ Cuando no se usa, el carrito es plegable — puede achicarse para guardarlo en u
 
 ## ¿Y la versión blanca?
 
-Si te interesa el mismo formato pero en color blanco y con bandejas de plástico perforado en lugar de malla metálica, MTL fabrica el modelo TSV-003: capacidad de 50kg en lugar de 100kg, estética más clara y minimalista, e incluye herramientas de armado. Tiene 4.8⭐ con 68 calificaciones — el producto mejor valorado del cluster. Mismo precio aproximado, distinto perfil de uso: el negro es para cargas pesadas y estética industrial, el blanco para uso doméstico estándar y ambientes más prolijos.`,
+Si te interesa el mismo formato pero en color blanco y con bandejas de plástico perforado en lugar de malla metálica, MTL fabrica el modelo TSV-003: capacidad de 50kg en lugar de 100kg, estética más clara y minimalista, e incluye herramientas de armado. Tiene 4.8⭐ con 68 calificaciones — el producto mejor valorado del cluster. Mismo precio aproximado, distinto perfil de uso: el negro es para cargas pesadas y estética industrial, el blanco para uso doméstico estándar y ambientes más prolijos.
+
+## ¿Y si necesitás superficie de trabajo?
+
+Ni el negro ni el blanco tienen tablero superior — los dos son organizadores puros de estantes. Si lo que necesitás es apoyar un laptop, un microondas o usarlo como mesita de noche, en el catálogo hay un tercer carrito con tablero de madera arriba y 2 estantes de malla metálica debajo. Cede capacidad de carga (30kg) a cambio de superficie plana de trabajo — el formato funciona donde los MTL puramente de estantes no llegan.`,
     specs: [
       { label: 'Marca', value: 'MTL' },
       { label: 'Modelo', value: 'MTL1017' },
@@ -3136,7 +3140,11 @@ El resumen de opiniones de MercadoLibre sintetiza lo que dicen los compradores: 
 
 ## ¿Necesitás más capacidad de carga?
 
-Si vas a apoyar libros, herramientas, frascos pesados o cualquier carga que supere los 50kg distribuidos, MTL fabrica la versión negra (modelo MTL1017): mismo formato de 3 niveles y ruedas con freno, pero con estantes de malla metálica que soportan 100kg y ganchos intercambiables en los laterales. Estética industrial en lugar de minimalista. Para uso doméstico estándar, el blanco con sus 50kg es más que suficiente — el negro tiene sentido cuando la carga real lo justifica.`,
+Si vas a apoyar libros, herramientas, frascos pesados o cualquier carga que supere los 50kg distribuidos, MTL fabrica la versión negra (modelo MTL1017): mismo formato de 3 niveles y ruedas con freno, pero con estantes de malla metálica que soportan 100kg y ganchos intercambiables en los laterales. Estética industrial en lugar de minimalista. Para uso doméstico estándar, el blanco con sus 50kg es más que suficiente — el negro tiene sentido cuando la carga real lo justifica.
+
+## ¿Querés además superficie de trabajo?
+
+Las tres bandejas del TSV-003 son para almacenamiento — no son para apoyar un laptop ni un microondas (la superficie plástica perforada no es plana ni rígida en ese sentido). Si necesitás un carrito que además funcione como mesa auxiliar — para apoyar la notebook al lado del sofá, poner el microondas en la cocina o usarlo como mesita de noche con lámpara —, en el catálogo hay un tercer carrito con tablero de madera maciza en la parte superior y 2 estantes de malla metálica debajo. Soporta menos carga total (30kg vs 50kg) pero gana una superficie plana de 42×28cm que ningún MTL tiene.`,
     specs: [
       { label: 'Marca', value: 'MTL' },
       { label: 'Modelo', value: 'TSV-003' },
@@ -3267,7 +3275,7 @@ Si vas a apoyar libros, herramientas, frascos pesados o cualquier carga que supe
   },
   {
     id: 'MLA3692700236',
-    title: 'Carrito Multiuso Organizador 3 Estantes Metálico Con Ruedas',
+    title: 'Mesa Auxiliar con Ruedas — Tablero Madera y 2 Estantes Metal, Carrito 3 Niveles',
     price: 64308,
     originalPrice: 69900,
     currency: 'ARS',
@@ -3279,16 +3287,141 @@ Si vas a apoyar libros, herramientas, frascos pesados o cualquier carga que supe
       'https://http2.mlstatic.com/D_NQ_NP_2X_746740-MLA101916058245_122025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_736361-MLA101915751279_122025-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
-    categorySlug: 'cocina',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/carrito-multiuso-organizador-3-estantes-metalico-con-ruedas/up/MLAU3692700236',
     affiliateUrl: 'https://meli.la/1YGS6Z8',
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
     soldQuantity: 5,
-    pastelColor: 'var(--pastel-coral)',
-    description: 'Organiza tu espacio de manera eficiente con el Carrito Multiuso Organizador de 3 Estantes Metálico en color negro. Con una altura de 75 cm y dimensiones de 42 cm de largo y 29 cm de profundidad, este carrito es ideal para maximizar el almacenamiento en cocinas, oficinas o cualquier área que necesite',
+    badge: 'trending',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Carrito organizador con tablero de madera superior y 2 estantes de malla metálica con ruedas. Para laptop, microondas, mesita de noche o impresora. 30kg de capacidad distribuida. Solo 3kg de peso. Ruedas con freno. Herramientas de armado incluidas. Garantía 30 días del vendedor. 4.7⭐ con 12 calificaciones.',
+    pros: [
+      'Tablero de madera superior — superficie plana para laptop, microondas o lámpara',
+      '4.7⭐ con 12 calificaciones — sin nota de "incluye otros países"',
+      '2 estantes de malla metálica para almacenamiento debajo del tablero',
+      'Solo 3kg de peso — fácil de mover entre ambientes',
+      'Ruedas con freno en al menos 2',
+      'Herramientas de armado incluidas (llave allen + llaves de tuerca)',
+      'Garantía 30 días del vendedor',
+    ],
+    cons: [
+      '⚠️ Tres sets de dimensiones inconsistentes en el listing — verificar antes de comprar',
+      '30kg de capacidad — la menor del cluster (vs 50kg blanco MTL, 100kg negro MTL)',
+      'Marca genérica — sin modelo declarado para repuestos',
+      'Requiere atornillar la estructura, no es ensamblaje tipo clip',
+    ],
+    verdict: 'El único del cluster con tablero de madera arriba: convierte el carrito en algo entre mesa auxiliar y organizador. Para apoyar laptop, microondas, lámpara de noche o una impresora con accesorios debajo, este formato funciona donde los MTL puramente de estantes no llegan. Cede capacidad de carga (30kg) a cambio de superficie de trabajo.',
+    seoTitle: 'Mesa Auxiliar con Ruedas — Tablero Madera, 2 Estantes Metal, 30kg',
+    metaDescription: 'Carrito organizador con tablero de madera superior y 2 estantes de metal con ruedas. Para laptop, microondas, mesita de noche o impresora. 30kg. 4.7⭐ en ML.',
+    ogTitle: 'Mesa auxiliar con ruedas — tablero de madera + estantes metal, laptop, micro o mesita de noche',
+    ogDescription: 'Carrito con tablero de madera para laptop, microondas o mesita de noche. 2 estantes de metal. 30kg, 3kg de peso, ruedas con freno. 4.7⭐ en ML. Ver precio →',
+    h1: 'Mesa auxiliar con ruedas — tablero de madera y 2 estantes de metal, para laptop, cocina o dormitorio',
+    articleBody: `La diferencia entre este carrito y los modelos de estantes puros es el tablero de madera en la parte superior. No es solo otra bandeja — es una superficie plana y firme donde podés apoyar un laptop, poner el microondas, dejar la lámpara de noche, o usar como mesa de trabajo improvisada junto al sofá. Los dos estantes de malla metálica quedan debajo para guardar lo que necesitás tener cerca.
+
+El resultado es un mueble que hace dos cosas al mismo tiempo: mesa de apoyo y almacenamiento, todo en un espacio de 42cm × 30cm de base, con ruedas para llevarlo donde lo necesitás.
+
+## Los usos que muestra el listing
+
+Las imágenes del producto muestran cuatro configuraciones concretas. Al lado del sofá como mesa para laptop y soporte de elementos de trabajo. En la cocina con el microondas arriba y especias, frascos y alimentos en los estantes. En el dormitorio como mesita de noche, con la lámpara y el teléfono arriba y libros o cajas en los estantes. Al lado del escritorio como soporte para impresora con papel y accesorios debajo.
+
+En todos esos usos, el tablero de madera es el que hace posible apoyar objetos planos o pesados sin que se deslicen. Los estantes de malla son para lo que tiene que estar accesible pero no necesariamente sobre una superficie.
+
+## El tablero y los estantes
+
+El tablero mide aproximadamente 42×28cm según la imagen de partes. El acabado simula madera veta oscura. Los dos estantes de malla metálica tienen distintas profundidades según la imagen de componentes: el mayor mide 40×29cm y el menor 39×28cm. La estructura completa es de metal negro.
+
+La capacidad de carga es de 30kg distribuidos. Para los usos domésticos habituales — un microondas de 10-12kg arriba con algunos frascos en los estantes, o un laptop de 2kg más una impresora de 5kg — hay margen amplio. Para carga intensa (muchos libros pesados en todos los niveles al mismo tiempo), los modelos MTL con 50kg o 100kg de capacidad son más adecuados.
+
+## Las ruedas
+
+Cuatro ruedas de las cuales al menos dos tienen freno (visible en las fotos de reseñas de compradores). Para moverse entre la cocina y el comedor, reubicarlo en el dormitorio, o llevarlo a otro cuarto, el carrito pesa solo 3kg — liviano para ser de metal. El freno fija el carrito cuando está en uso y no querés que se desplace.
+
+## El armado
+
+El producto incluye todas las herramientas y los tornillos necesarios (visible en la imagen de accesorios y medidas). El armado es con llave allen y llaves de tuerca incluidas. No es de ensamblaje tipo clip — requiere atornillar la estructura. Las fotos de compradores muestran el producto armado en distintos entornos.
+
+Garantía del vendedor: 30 días.
+
+## ¿Cuál carrito conviene?
+
+Si lo que necesitás es superficie de trabajo además de almacenamiento, este es el indicado — es el único del cluster con tablero de madera. Si en cambio buscás capacidad de carga pura, MTL fabrica dos versiones de organizador puramente de estantes: el blanco (TSV-003, 50kg, bandejas plásticas perforadas, 4.8⭐ con 68 calificaciones) y el negro (MTL1017, 100kg, malla metálica con ganchos intercambiables). Los tres comparten formato vertical sobre ruedas; lo que cambia es el uso dominante.`,
+    specs: [
+      { label: 'Marca', value: 'Genérica' },
+      { label: 'Color', value: 'Negro + tablero madera' },
+      { label: 'Material superficie superior', value: 'Madera (tablero con acabado veta)' },
+      { label: 'Material estantes y estructura', value: 'Metal (malla metálica)' },
+      { label: 'Niveles', value: '2 estantes metálicos + 1 tablero superior' },
+      { label: 'Capacidad', value: '30kg distribuidos' },
+      { label: 'Dimensiones', value: '⚠️ Verificar — aprox. 75cm alto × 42cm ancho × 29cm profundidad' },
+      { label: 'Tablero superior', value: '≈42×28cm (según imagen de partes)' },
+      { label: 'Peso del carrito', value: '3kg' },
+      { label: 'Ruedas', value: 'Sí — con freno en al menos 2' },
+      { label: 'Herramientas de armado', value: 'Incluidas (llave allen + llaves de tuerca)' },
+      { label: 'Garantía', value: '30 días (vendedor)' },
+      { label: 'Rating', value: '4.7 ⭐ (12 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué diferencia tiene con los carritos MTL de solo estantes?',
+        answer:
+          'Este carrito tiene un tablero de madera en la parte superior que funciona como superficie plana de apoyo — para laptop, microondas, lámpara, o lo que necesites apoyar. Los modelos MTL tienen solo estantes de malla o bandejas. Además, este soporta 30kg vs 50kg o 100kg de los MTL, y es marca genérica sin modelo de repuesto garantizado.',
+      },
+      {
+        question: '¿El tablero soporta un microondas?',
+        answer:
+          'La capacidad total es de 30kg distribuidos. Un microondas doméstico estándar pesa 10-14kg — entra dentro del límite. Conviene dejar los estantes inferiores con carga más liviana si el tablero va a soportar el microondas.',
+      },
+      {
+        question: '¿Tiene freno en las ruedas?',
+        answer:
+          'Sí, al menos en dos de las cuatro ruedas — visible en las fotos de compradores. Permite fijar el carrito cuando está en posición de uso.',
+      },
+      {
+        question: '¿Las herramientas para armar están incluidas?',
+        answer:
+          'Sí. La imagen de accesorios muestra llave allen y llaves de tuerca incluidas, junto con todos los tornillos y piezas de ensamblado.',
+      },
+      {
+        question: '¿Cuánto mide exactamente?',
+        answer:
+          'Las dimensiones indicadas en el listing tienen inconsistencias entre la tabla de specs y la descripción de texto. La lectura más consistente con la imagen de partes es: alto ≈75cm, ancho ≈42cm, profundidad ≈29-30cm. Verificar en la página actual de ML antes de comprar si el espacio es ajustado.',
+      },
+      {
+        question: '¿Sirve como mesita de noche?',
+        answer:
+          'Las imágenes del producto muestran específicamente ese uso: tablero superior con lámpara, teléfono y vaso de agua, estantes inferiores con libros y caja de pañuelos. El ancho de 42cm es similar a una mesita de noche compacta.',
+      },
+      {
+        question: '¿Tiene garantía?',
+        answer: 'El vendedor ofrece 30 días de garantía.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Mesa Auxiliar con Ruedas — Tablero Madera y 2 Estantes Metal, Carrito Organizador 3 Niveles',
+      description:
+        'Carrito organizador con tablero de madera superior y 2 estantes de malla metálica. Ruedas con freno. 30kg de capacidad. Herramientas de armado incluidas. Para laptop, microondas, mesita de noche o impresora. Metal negro + acabado madera.',
+      brand: { '@type': 'Brand', name: 'Genérica' },
+      color: 'Negro + tablero madera',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1YGS6Z8',
+        priceCurrency: 'ARS',
+        price: 64308,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '12',
+      },
+    },
+    relatedProducts: ['MLA46188819', 'MLA64582730', 'MLA3446177644', 'MLA65102455'],
   },
   {
     id: 'MLA1100090508',
