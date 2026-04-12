@@ -1923,7 +1923,7 @@ El rating tiene una sola calificación. 5.0 estrellas de 1 persona es el mejor p
   },
   {
     id: 'MLA144127092',
-    title: 'Corta Papas Fritas Baston Cortadora Cuchilla De Acero Inox',
+    title: 'Corta Papas Bastón Feel Bazar — Hoja Acero Inoxidable',
     price: 8600,
     originalPrice: undefined,
     currency: 'ARS',
@@ -1935,7 +1935,7 @@ El rating tiene una sola calificación. 5.0 estrellas de 1 persona es el mejor p
       'https://http2.mlstatic.com/D_Q_NP_911855-MLA71732882296_092023-R.webp',
       'https://http2.mlstatic.com/D_Q_NP_715307-MLA71733178842_092023-R.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/corta-papas-fritas-baston-cortadora-cuchilla-de-acero-inox/up/MLAU144127092',
     affiliateUrl: 'https://meli.la/1V38zSA',
@@ -1944,7 +1944,129 @@ El rating tiene una sola calificación. 5.0 estrellas de 1 persona es el mejor p
     rating: 2.5,
     soldQuantity: 100,
     pastelColor: 'var(--pastel-coral)',
-    description: 'CORTADORA DE PAPAS BASTON MANUAL.  HACE LAS PAPAS PERFECTAS DIRECTAMENTE EN TU CASA !!!!  MATERIALES : CUERPO PLASTICO Y CUCHILLA DE ACERO  COLOR : BLANCO  MEDIDAS : 13,5 CM X 9,5 CM  Podes ver todos los artículos disponibles en nuestra tienda acá: https://www.mercadolibre.com.ar/pagina/feelbazar  -',
+    description: 'Cortador manual de papas fritas en forma de bastón. Cuerpo de plástico con hoja de acero inoxidable. 2 piezas. Sin electricidad — presión manual. Sin cuchillas intercambiables. Funciona con papas medianas de tamaño regular. Marca Feel Bazar.',
+    pros: [
+      'Envío gratis',
+      'Sin electricidad — no necesita enchufe ni pilas',
+      'Hoja de acero inoxidable',
+      'Para papas del tamaño adecuado, el corte es limpio y parejo',
+      '2 piezas — diseño simple, sin mecanismos complejos',
+    ],
+    cons: [
+      '⚠️ Rating 2.5⭐ — distribución bimodal (muchos 5⭐ y muchos 1⭐)',
+      '⚠️ No funciona bien con papas grandes o irregulares',
+      '⚠️ Requiere bastante fuerza según las reseñas negativas',
+      'Discrepancia de dimensiones: 23×9cm (título) vs 13.5×9.5cm (descripción)',
+      'Sin cuchillas intercambiables — solo formato bastón',
+      'No confirmado apto lavavajillas',
+    ],
+    verdict: 'El problema no suele ser el producto, es la papa. Papas medianas regulares → el corte sale limpio en un golpe. Papas grandes o irregulares → esfuerzo alto y bastones desparejos. Si lo que querés es respaldo de reviews y lavavajillas, mirá el cortador Aloha — 3.9⭐ con especificaciones más claras.',
+    seoTitle: 'Corta Papas Bastón Feel Bazar — Hoja Inoxidable, Sin Electricidad',
+    metaDescription: 'Corta papas fritas en forma de bastón con un solo movimiento. Hoja de acero inoxidable, sin electricidad. 2 piezas. Para papas del tamaño correcto: ver limitaciones.',
+    ogTitle: 'Corta papas bastón Feel Bazar — hoja inoxidable, sin electricidad, bastones en un golpe',
+    ogDescription: 'Cortador manual de papas fritas en bastón. Hoja de acero inoxidable, sin enchufar nada. Funciona con papas del tamaño adecuado — leer especificaciones antes de comprar. Ver precio →',
+    h1: 'Corta papas bastón Feel Bazar — hoja de acero inoxidable, sin electricidad, en un solo golpe',
+    articleBody: `La idea del cortador de papas bastón es simple: ponés la papa sobre la base, empujás la palanca hacia abajo, y la hoja de acero corta todo de una vez en tiras uniformes listas para la freidora. Sin cuchillo, sin tabla, sin cortes uno por uno. Para una familia que hace papas fritas seguido, ahorra tiempo real.
+
+El modelo de Feel Bazar tiene el cuerpo en plástico y la hoja en acero inoxidable. Viene en 2 piezas: la base con la hoja y el mecanismo de presión. No tiene cuchillas intercambiables — el bastón es el único formato que hace.
+
+## ⚠️ Lo que hay que saber antes de comprar
+
+Con 46 calificaciones y promedio de 2.5 estrellas, este cortador tiene más críticas negativas que la mayoría de los productos en este sitio. Vale la pena entender por qué antes de decidir si es lo que necesitás.
+
+Las reseñas negativas se repiten en dos puntos: la fuerza que hay que hacer para cortar y el resultado con papas de tamaño inadecuado. Papas muy grandes para el marco de la hoja no entran bien — o hay que hacer demasiada fuerza, o los bastones quedan irregulares porque la papa no queda del todo centrada. Papas muy pequeñas o irregulares tampoco funcionan bien porque no se apoyan correctamente en la base.
+
+Las reseñas positivas, en cambio, describen exactamente lo que el producto promete: papas del tamaño correcto (medianas, sin protuberancias, aproximadamente circulares en la sección transversal) cortadas en bastones uniformes en un solo movimiento.
+
+La diferencia entre los dos grupos no es el producto — es la papa.
+
+## Cómo funciona en la práctica
+
+La papa va sobre la rejilla de la base con la hoja. Se pone el mecanismo de presión arriba y se empuja con la palma o con ambas manos hacia abajo. La hoja atraviesa la papa y los bastones caen por el hueco de la base. El proceso toma unos segundos por papa.
+
+Para papas que entran bien en el marco (medianas, sin deformidades grandes), el corte es limpio y los bastones quedan bastante uniformes. No es perfecto como un cortador industrial, pero para uso doméstico en una tarde de papas fritas es funcional.
+
+Para papas que no entran bien — demasiado grandes, demasiado irregulares, o con partes que sobresalen del diámetro del marco — el cortador pide más esfuerzo y el resultado es menos parejo.
+
+## Las dimensiones y el tamaño real
+
+Hay una discrepancia en las especificaciones del listing: el título y medidas principales dicen 23×9cm, pero la descripción interna dice 13.5×9.5cm. Antes de comprar, verificar en el listing actual de ML cuál es la medida correcta del marco de la hoja — ese dato determina qué tamaño de papa entra.
+
+El cuerpo es plástico. No es un electrodoméstico — no tiene motor, no enchufás nada. La fuerza la ponés vos.
+
+## Alternativa mejor valorada
+
+Si el rating de 2.5⭐ te genera dudas, el cortador de papas bastón Aloha en este mismo sitio tiene 3.9⭐, dimensiones exactas sin discrepancias (10×10cm) y es apto para lavavajillas. Cumple la misma función con especificaciones más claras y más respaldo de reseñas.`,
+    specs: [
+      { label: 'Marca', value: 'Feel Bazar' },
+      { label: 'Tipo', value: 'Cortador de papas bastón manual' },
+      { label: 'Material cuerpo', value: 'Plástico' },
+      { label: 'Material hoja', value: 'Acero inoxidable' },
+      { label: 'Piezas', value: '2' },
+      { label: 'Cuchillas intercambiables', value: 'No' },
+      { label: 'Dimensiones', value: '⚠️ 23×9cm (título) / 13.5×9.5cm (descripción) — verificar en ML' },
+      { label: 'Formato de corte', value: 'Bastón (único formato)' },
+      { label: 'Requiere electricidad', value: 'No' },
+      { label: 'Rating', value: '2.5 ⭐ (46 calificaciones, 34 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Funciona con cualquier papa?',
+        answer:
+          'No. Funciona bien con papas medianas y regulares que quepan en el marco de la hoja. Papas muy grandes o irregulares son más difíciles de cortar y el resultado es menos parejo. El tamaño del marco del producto (verificar en ML — hay discrepancia entre las medidas del título y la descripción) determina qué papa entra.',
+      },
+      {
+        question: '¿Hace falta mucha fuerza para cortar?',
+        answer:
+          'Depende de la papa. Una papa mediana y firme pide una presión moderada con la palma. Una papa grande o muy dura pide bastante más esfuerzo. Las reseñas negativas mencionan este punto con frecuencia.',
+      },
+      {
+        question: '¿Qué formato de bastón hace?',
+        answer:
+          'Bastón estándar, único formato. No tiene cuchillas intercambiables para ondulado, bastón fino, o rodajas.',
+      },
+      {
+        question: '¿Necesita electricidad o pilas?',
+        answer: 'No. Es un cortador manual — la fuerza es tuya.',
+      },
+      {
+        question: '¿Cuántas piezas incluye?',
+        answer: '2 piezas: la base con la hoja y el mecanismo de presión superior.',
+      },
+      {
+        question: '¿Tiene muchas malas reseñas?',
+        answer:
+          'Sí. 46 calificaciones con promedio 2.5⭐ es un rating bajo. Las críticas se concentran en el esfuerzo necesario y en los resultados con papas que no son del tamaño adecuado. Las reseñas positivas describen buenos resultados con papas del tamaño correcto. Si tus papas son medianas y regulares, hay chances de que funcione bien. Si son grandes o irregulares, el cortador Aloha con 3.9⭐ es una alternativa mejor valorada.',
+      },
+      {
+        question: '¿Es apto para lavavajillas?',
+        answer:
+          'No especificado en las características del producto. Si necesitás esa función confirmada, el cortador Aloha sí es apto para lavavajillas.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Corta Papas Bastón Feel Bazar — Hoja Acero Inoxidable, Manual',
+      description:
+        'Cortador manual de papas fritas en forma de bastón. Cuerpo de plástico con hoja de acero inoxidable. 2 piezas. Sin electricidad — presión manual. Sin cuchillas intercambiables. Para papas medianas de tamaño regular.',
+      brand: { '@type': 'Brand', name: 'Feel Bazar' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1V38zSA',
+        priceCurrency: 'ARS',
+        price: 8600,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '2.5',
+        reviewCount: '46',
+      },
+    },
+    relatedProducts: ['MLA48098024', 'MLA402624780', 'MLA139114583'],
+    visibility: 'deprioritized',
   },
   {
     id: 'MLA2996077495',
@@ -1973,7 +2095,7 @@ El rating tiene una sola calificación. 5.0 estrellas de 1 persona es el mejor p
   },
   {
     id: 'MLA48098024',
-    title: 'Cortador Papa Frita Bastón Aloha Cuchilla Acero Inoxidable',
+    title: 'Cortador Papas Bastón Aloha — Cuchilla Acero Inoxidable, Apto Lavavajillas',
     price: 6302.3,
     originalPrice: 6634,
     currency: 'ARS',
@@ -1985,7 +2107,7 @@ El rating tiene una sola calificación. 5.0 estrellas de 1 persona es el mejor p
       'https://http2.mlstatic.com/D_NQ_NP_2X_997693-MLA88058055528_072025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_772191-MLA83737235467_042025-F.webp',
     ],
-    category: 'Cortadores y Ralladores',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/cortador-papa-frita-baston-aloha-cuchilla-acero-inoxidable/p/MLA48098024',
     affiliateUrl: 'https://meli.la/2cPoyAL',
@@ -1993,8 +2115,120 @@ El rating tiene una sola calificación. 5.0 estrellas de 1 persona es el mejor p
     freeShipping: false,
     rating: 3.9,
     soldQuantity: 100,
+    badge: 'trending',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Descubre el innovador Cortador Cortante para Papas Fritas en forma de bastón, diseñado para facilitar la preparación de tus comidas favoritas. Con una cuchilla de acero inoxidable de alta calidad, este utensilio garantiza cortes precisos y duraderos. Sus medidas compactas de 10 cm de largo y 10 cm d',
+    description: 'Cortador manual de papas fritas en bastón Aloha. Cuerpo de plástico con cuchilla de acero inoxidable. Marco de 10×10cm. Apto para lavavajillas. Sin electricidad — presión manual. Sin cuchillas intercambiables. Rating 3.9⭐ con 37 calificaciones.',
+    pros: [
+      'Apto para lavavajillas — limpieza sin cuidados especiales',
+      'Cuchilla de acero inoxidable',
+      'Dimensiones exactas y claras: 10×10cm',
+      'Rating 3.9⭐ — el mejor valorado del cluster corta papas',
+      'Uso extra para cortes hasselback decorativos',
+      'Sin electricidad — sin cables, sin pilas',
+    ],
+    cons: [
+      'Sin cuchillas intercambiables — solo formato bastón',
+      'Papas grandes hay que cortarlas al medio primero',
+      '37 calificaciones incluyen opiniones de otros países',
+    ],
+    verdict: 'De los cortadores de papas bastón que están en este sitio, el Aloha es el que mejor combina rating (3.9⭐), specs claras (10×10cm sin discrepancias) y apto para lavavajillas. Si hacés papas fritas seguido, es el punto de partida más seguro.',
+    seoTitle: 'Cortador Papas Bastón Aloha — Cuchilla Inox, Apto Lavavajillas',
+    metaDescription: 'Cortá papas fritas en bastón con un golpe. Cuchilla de acero inoxidable, cuerpo de plástico, apto para lavavajillas. 10×10cm. 3.9 estrellas en MercadoLibre.',
+    ogTitle: 'Cortador papas bastón Aloha — cuchilla inox, apto lavavajillas, bastones en un golpe',
+    ogDescription: 'Cortá papas fritas en bastón sin cuchillo. Cuchilla de acero inoxidable, apto para lavavajillas. Marco 10×10cm. Sin electricidad. Ver precio en MercadoLibre →',
+    h1: 'Cortador de papas bastón Aloha — cuchilla inoxidable y apto para lavavajillas',
+    articleBody: `El formato es sencillo: la papa va sobre la cuchilla de acero, presionás hacia abajo con la palma, y los bastones caen listos para la freidora o el horno. Sin cuchillo, sin tabla, sin cortes individuales. Para una tarde de papas fritas, eso es tiempo real ahorrado.
+
+El Aloha tiene el cuerpo en plástico y la cuchilla en acero inoxidable. Mide 10×10cm — un marco cuadrado que define qué papas entran bien. Y una diferencia concreta respecto a otros modelos similares: es apto para lavavajillas. La cuchilla de acero no requiere secado especial ni cuidados extras después de usarla.
+
+## Cómo se usa
+
+La papa va centrada sobre la cuchilla, con la parte más plana hacia abajo si la papa tiene forma irregular. Se presiona el cuerpo de plástico hacia abajo con fuerza pareja — la cuchilla atraviesa la papa y los bastones pasan por los huecos del marco. El resultado son tiras de sección cuadrada, todas del mismo grosor, listas para freír.
+
+El marco de 10×10cm define el tamaño de papa que funciona. Papas medianas que entren cómodamente en ese espacio dan el mejor resultado. Papas más grandes necesitan que las cortes al medio primero.
+
+## El uso hasselback
+
+Las fotos del producto también muestran un uso alternativo: presionar la cuchilla lateralmente contra una papa entera ya cocida para hacer cortes paralelos tipo hasselback sin separar los bastones. No es el uso principal, pero funciona para quienes quieren presentar una papa entera con cortes decorativos.
+
+## Limpieza
+
+Al ser apto para lavavajillas, la limpieza no requiere ningún paso especial. Cuchilla de acero y cuerpo de plástico van al lavavajillas juntos. Para quien limpia a mano: agua, jabón, y un cepillo pequeño para pasar entre las celdas de la cuchilla — la grasa de las papas se va fácil en caliente.
+
+## Las calificaciones
+
+3.9 estrellas sobre 37 calificaciones, con la nota de que el listing de MercadoLibre incluye opiniones de otros países. Es un promedio decente para este tipo de producto. Las fotos de reseñas muestran resultados dispares — algunos bastones limpios, alguna cuchilla con signos de uso. La distribución sugiere que funciona bien para quien lo usa en las condiciones correctas (papa del tamaño adecuado, fuerza pareja hacia abajo).`,
+    specs: [
+      { label: 'Marca', value: 'Aloha' },
+      { label: 'Tipo', value: 'Cortador de papas bastón manual' },
+      { label: 'Material cuerpo', value: 'Plástico' },
+      { label: 'Material cuchilla', value: 'Acero inoxidable' },
+      { label: 'Cuchillas intercambiables', value: 'No' },
+      { label: 'Dimensiones', value: '10 × 10 cm' },
+      { label: 'Apto lavavajillas', value: 'Sí' },
+      { label: 'Requiere electricidad', value: 'No' },
+      { label: 'Uso alternativo', value: 'Cortes hasselback (cortes paralelos decorativos)' },
+      { label: 'Rating', value: '3.9 ⭐ (37 calificaciones — incluye opiniones de otros países)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué tamaño de papa funciona mejor?',
+        answer:
+          'El marco es de 10×10cm. Papas medianas que quepan dentro de ese espacio, con la sección transversal más o menos cuadrada, dan el mejor resultado. Papas más grandes conviene cortarlas al medio primero.',
+      },
+      {
+        question: '¿Es apto para lavavajillas?',
+        answer:
+          'Sí. Tanto la cuchilla de acero como el cuerpo de plástico van al lavavajillas sin problema.',
+      },
+      {
+        question: '¿Tiene cuchillas intercambiables para otros cortes?',
+        answer:
+          'No. El formato es bastón estándar, único. No hace rodajas, ondulado ni bastón fino.',
+      },
+      {
+        question: '¿Necesita electricidad?',
+        answer:
+          'No. Es un cortador manual — la fuerza es tuya. Sin motor, sin pilas, sin cable.',
+      },
+      {
+        question: '¿Se puede usar para el corte hasselback?',
+        answer:
+          'El producto tiene imágenes mostrando ese uso — presionar la cuchilla lateralmente contra una papa entera para hacer cortes paralelos decorativos. No es el uso principal pero algunos compradores lo aprovechan.',
+      },
+      {
+        question: '¿Las 37 calificaciones incluyen solo Argentina?',
+        answer:
+          'No. El listing en MercadoLibre indica que "incluye opiniones de otros países". El promedio de 3.9⭐ refleja reseñas de distintos mercados, no solo compradores argentinos.',
+      },
+      {
+        question: '¿Qué diferencia tiene con el corta papas Feel Bazar?',
+        answer:
+          'El Aloha tiene dimensiones exactas (10×10cm), es apto lavavajillas, y tiene un rating mayor (3.9⭐ vs 2.5⭐). El Feel Bazar es más económico pero tiene especificaciones menos claras y más críticas negativas.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cortador Papa Frita Bastón Aloha — Cuchilla Acero Inoxidable, Apto Lavavajillas',
+      description:
+        'Cortador manual de papas fritas en bastón. Cuerpo de plástico, cuchilla de acero inoxidable. 10×10cm. Apto para lavavajillas. Sin electricidad — presión manual. Sin cuchillas intercambiables.',
+      brand: { '@type': 'Brand', name: 'Aloha' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2cPoyAL',
+        priceCurrency: 'ARS',
+        price: 6302,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '3.9',
+        reviewCount: '37',
+      },
+    },
+    relatedProducts: ['MLA144127092', 'MLA402624780', 'MLA139114583'],
   },
   {
     id: 'MLA294818244',
