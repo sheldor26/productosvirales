@@ -38,9 +38,9 @@ export async function TrendingBar() {
 
   return (
     <div className="flex items-center gap-3 overflow-hidden">
-      <div className="flex items-center gap-1.5 text-[var(--text-muted)] shrink-0">
-        <TrendingUp size={14} />
-        <span className="text-xs font-medium whitespace-nowrap">Trending en ML</span>
+      <div className="flex items-center gap-1.5 text-[var(--text-secondary)] shrink-0">
+        <TrendingUp size={14} className="trend-bounce text-[var(--color-trending-up)]" />
+        <span className="text-xs font-semibold whitespace-nowrap">Trending en ML</span>
       </div>
 
       <TrendingPills trends={trends} />

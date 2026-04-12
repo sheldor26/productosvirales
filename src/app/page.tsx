@@ -29,25 +29,35 @@ export default async function Home() {
   const weeklyPopular = getVisibleProducts().slice(0, 8);
 
   return (
-    <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8 space-y-8 md:space-y-10">
+    <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8">
       <HeroBanner />
 
-      <HomeFeed />
+      <div className="mt-6 md:mt-8">
+        <HomeFeed />
+      </div>
 
-      <TrendingBar />
+      <div className="mt-6 md:mt-8">
+        <TrendingBar />
+      </div>
 
-      <WhatsAppCTA />
+      <div className="mt-12 md:mt-16">
+        <WhatsAppCTA />
+      </div>
 
-      <ProductGrid
-        products={weeklyPopular}
-        title="Lo más buscado esta semana"
-        subtitle="Ofertas que no podés dejar pasar"
-      />
+      <div className="mt-8 md:mt-10">
+        <ProductGrid
+          products={weeklyPopular}
+          title="Lo más buscado esta semana"
+          subtitle="Ofertas que no podés dejar pasar"
+        />
+      </div>
 
-      <PriceAlert />
+      <div className="mt-12 md:mt-16">
+        <PriceAlert />
+      </div>
 
       {/* FAQ */}
-      <section>
+      <section className="mt-10 md:mt-12">
         <h2
           className="text-xl md:text-2xl font-bold text-[var(--text-primary)] mb-5"
           style={{ fontFamily: "var(--font-display)" }}

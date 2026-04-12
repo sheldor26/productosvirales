@@ -52,7 +52,11 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.3, delay: index * 0.05, ease: "easeOut" }}
     >
-      <div className="group rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-primary)] hover:-translate-y-0.5 hover:shadow-[0_2px_8px_rgba(0,0,0,0.06)] transition-all duration-200">
+      <div
+        className={`group rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-primary)] hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] transition-all duration-300 ${
+          badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""
+        }`}
+      >
         {/* Image area */}
         <Link href={`/producto/${id}`} className="block relative" style={{ aspectRatio: "10/9" }}>
           <div
@@ -65,7 +69,7 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
               alt={title}
               fill
               sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
-              className="object-contain p-4 group-hover:scale-105 transition-transform duration-300"
+              className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
               unoptimized
             />
           </div>
@@ -83,7 +87,9 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
           {/* Top-right: Discount badge */}
           {discount && (
             <div className="absolute top-2.5 right-2.5">
-              <Badge variant="discount">-{discount}%</Badge>
+              <Badge variant="discount" className={badge === "hot-deal" ? "pulse-badge" : ""}>
+                -{discount}%
+              </Badge>
             </div>
           )}
 
@@ -108,7 +114,7 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
           </Link>
 
           <Link href={`/producto/${id}`}>
-            <h3 className="mt-1 text-[13px] font-medium leading-[1.3] text-[var(--text-primary)] line-clamp-2">
+            <h3 className="mt-1 text-sm font-medium leading-[1.3] text-[var(--text-primary)] line-clamp-2">
               {title}
             </h3>
           </Link>

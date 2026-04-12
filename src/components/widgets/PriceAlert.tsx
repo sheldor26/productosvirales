@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { Bell, ArrowRight } from "lucide-react";
-import { cn } from "@/lib/utils";
 
 export function PriceAlert() {
   const [email, setEmail] = useState("");
@@ -16,10 +15,16 @@ export function PriceAlert() {
   };
 
   return (
-    <div className="rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-secondary)] p-5 md:p-8">
+    <div
+      className="rounded-[var(--radius-card)] border border-[var(--border)] p-5 md:p-8"
+      style={{
+        background:
+          "linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-primary) 100%)",
+      }}
+    >
       <div className="flex items-start gap-3 mb-4">
         <div className="flex items-center justify-center w-10 h-10 rounded-full bg-[var(--color-pastel-amber)] shrink-0">
-          <Bell size={18} className="text-[#111]" />
+          <Bell size={18} className="text-[#111] bell-ring" />
         </div>
         <div>
           <h3

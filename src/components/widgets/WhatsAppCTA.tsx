@@ -1,3 +1,5 @@
+"use client";
+
 import { MessageCircle } from "lucide-react";
 
 export function WhatsAppCTA() {
@@ -23,8 +25,9 @@ export function WhatsAppCTA() {
         href="#"
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-flex items-center justify-center px-5 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--cta-text)] text-[var(--cta-bg)] hover:opacity-90 transition-opacity shrink-0"
+        className="cta-shimmer inline-flex items-center justify-center gap-1.5 px-5 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-text)] text-[var(--cta-bg)] hover:opacity-90 transition-opacity shrink-0"
       >
+        <span aria-hidden>🔥</span>
         Unirme gratis
       </a>
     </div>
