@@ -4,7 +4,7 @@ import { HomeFeed } from "@/components/feed/HomeFeed";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { WhatsAppCTA } from "@/components/widgets/WhatsAppCTA";
 import { PriceAlert } from "@/components/widgets/PriceAlert";
-import { curatedProducts } from "@/data/curated-products";
+import { getVisibleProducts } from "@/lib/products";
 
 const faqItems = [
   {
@@ -26,7 +26,7 @@ const faqItems = [
 ];
 
 export default async function Home() {
-  const weeklyPopular = curatedProducts.slice(0, 8);
+  const weeklyPopular = getVisibleProducts().slice(0, 8);
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8 space-y-8 md:space-y-10">

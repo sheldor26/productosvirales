@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { categories } from "@/data/categories";
-import { curatedProducts } from "@/data/curated-products";
+import { getVisibleProducts } from "@/lib/products";
 import { ProductGrid } from "@/components/products/ProductGrid";
 
 interface Props {
@@ -28,9 +28,8 @@ export default async function CategoryPage({ params }: Props) {
     notFound();
   }
 
-  const products = curatedProducts.filter(
-    (p) => p.categorySlug === slug
-  );
+  const visibleProducts = getVisibleProducts();
+  const products = visibleProducts.filter((p) => p.categorySlug === slug);
 
   const relatedCategories = categories.filter(
     (c) => c.slug !== slug && !c.isSpecial
@@ -61,7 +60,7 @@ export default async function CategoryPage({ params }: Props) {
       </div>
 
       <ProductGrid
-        products={products.length > 0 ? products : curatedProducts.slice(0, 8)}
+        products={products.length > 0 ? products : visibleProducts.slice(0, 8)}
         title={products.length > 0 ? undefined : "Productos destacados"}
         subtitle={products.length === 0 ? "Todavía no hay productos en esta categoría. Mirá estos:" : undefined}
       />

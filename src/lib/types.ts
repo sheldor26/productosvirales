@@ -33,6 +33,7 @@ export interface Product {
   specs?: Array<{ label: string; value: string }>;
   structuredData?: Record<string, unknown>;
   relatedProducts?: string[]; // Array of product IDs for cross-linking
+  visibility?: "featured" | "normal" | "deprioritized"; // Default: "normal" when omitted
 }
 
 export interface TrendingKeyword {

@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { curatedProducts } from "@/data/curated-products";
+import { getVisibleProducts } from "@/lib/products";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { TrendingBar } from "@/components/feed/TrendingBar";
 
@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 };
 
 export default function TrendingPage() {
-  const trendingProducts = curatedProducts
+  const trendingProducts = getVisibleProducts()
     .filter((p) => p.badge === "viral" || p.badge === "trending")
     .sort((a, b) => (b.soldQuantity || 0) - (a.soldQuantity || 0));
 

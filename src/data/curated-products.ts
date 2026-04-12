@@ -1777,6 +1777,7 @@ Lo que sí está claro desde las imágenes: el diseño es el mismo que usa la ve
       },
     },
     relatedProducts: ['MLA26657806', 'MLA2105483084', 'MLA3446177644'],
+    visibility: 'deprioritized',
   },
   {
     id: 'MLA2105483084',
@@ -3790,6 +3791,7 @@ El índice de reproducción cromática (CRI) declarado es >80, lo que es aceptab
       },
     },
     relatedProducts: ['MLA47263010', 'MLA26853638'],
+    visibility: 'deprioritized',
   },
   {
     id: 'MLA26853638',

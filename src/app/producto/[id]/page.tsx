@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { curatedProducts } from "@/data/curated-products";
+import { getVisibleProducts } from "@/lib/products";
 import { ProductDetail } from "@/components/products/ProductDetail";
 import { ProductGrid } from "@/components/products/ProductGrid";
 
@@ -39,16 +40,22 @@ export default async function ProductPage({ params }: Props) {
     notFound();
   }
 
-  // Explicit cross-links defined on the product (manual interlinking)
+  // Explicit cross-links defined on the product (manual interlinking).
+  // We resolve these from the full catalog so curated links still work even
+  // if the target is deprioritized — explicit > automatic.
   const explicitRelated = (product.relatedProducts || [])
     .map((id) => curatedProducts.find((p) => p.id === id))
     .filter((p): p is NonNullable<typeof p> => p !== undefined);
 
-  const related = curatedProducts
+  // Automatic feeds (same-category + other-categories) exclude deprioritized
+  // products so they don't surface in discovery flows.
+  const visibleProducts = getVisibleProducts();
+
+  const related = visibleProducts
     .filter((p) => p.categorySlug === product.categorySlug && p.id !== product.id)
     .slice(0, 4);
 
-  const otherCategories = curatedProducts
+  const otherCategories = visibleProducts
     .filter((p) => p.categorySlug !== product.categorySlug)
     .slice(0, 4);
 

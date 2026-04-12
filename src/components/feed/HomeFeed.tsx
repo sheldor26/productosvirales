@@ -3,19 +3,20 @@
 import { useState, useMemo } from "react";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
-import { curatedProducts } from "@/data/curated-products";
+import { getVisibleProducts } from "@/lib/products";
 
 export function HomeFeed() {
   const [activeCategory, setActiveCategory] = useState("viral");
 
   const filteredProducts = useMemo(() => {
+    const visible = getVisibleProducts();
     if (activeCategory === "viral") {
-      return curatedProducts.filter((p) => p.badge === "viral");
+      return visible.filter((p) => p.badge === "viral");
     }
-    return curatedProducts.filter(
-      (p) => p.categorySlug === activeCategory
-    );
+    return visible.filter((p) => p.categorySlug === activeCategory);
   }, [activeCategory]);
+
+  const fallback = useMemo(() => getVisibleProducts().slice(0, 8), []);
 
   return (
     <>
@@ -25,7 +26,7 @@ export function HomeFeed() {
       />
 
       <ProductGrid
-        products={filteredProducts.length > 0 ? filteredProducts : curatedProducts.slice(0, 8)}
+        products={filteredProducts.length > 0 ? filteredProducts : fallback}
         title={
           activeCategory === "viral"
             ? "Lo más viral esta semana"
