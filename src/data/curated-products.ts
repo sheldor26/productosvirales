@@ -1500,7 +1500,7 @@ Gas, eléctrica y vitrocerámica — los tres tipos de cocina más comunes en ho
   },
   {
     id: 'MLA26657806',
-    title: 'Dispensador Cereales Porotos 5 Puestos C/autodhesivo Pared',
+    title: 'Dispensador de Alimentos 5 Compartimentos — Pared Adhesivo 10L',
     price: 55946,
     originalPrice: 96459,
     currency: 'ARS',
@@ -1512,7 +1512,7 @@ Gas, eléctrica y vitrocerámica — los tres tipos de cocina más comunes en ho
       'https://http2.mlstatic.com/D_NQ_NP_2X_962853-MLA84836978413_052025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_857045-MLA84539004750_052025-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/dispensador-cereales-porotos-5-puestos-cautodhesivo-pared/p/MLA26657806',
     affiliateUrl: 'https://meli.la/33Xtufq',
@@ -1520,8 +1520,128 @@ Gas, eléctrica y vitrocerámica — los tres tipos de cocina más comunes en ho
     freeShipping: false,
     rating: 4.2,
     soldQuantity: 100,
+    badge: 'viral',
+    tiktokViews: '6M+',
     pastelColor: 'var(--pastel-coral)',
-    description: 'El Dispensador de Alimentos Frutos Secos de 5 Compartimientos es la solución perfecta para mantener tus snacks favoritos organizados y al alcance de tu mano. Con su diseño de doble dispenser y 5 compartimientos, podrás almacenar una gran variedad de frutos secos y otros alimentos de manera práctica ',
+    description: 'Dispensador quíntuple de alimentos con 5 compartimentos individuales de push-button. Capacidad total 10 litros (2L por puesto). Instalación con adhesivo de pared sin taladrar. Incluye taza medidora. Material plástico blanco. 41×35×16cm. Para cereales, porotos, arroz, lentejas, frutos secos.',
+    pros: [
+      '42% OFF — de $96.459 a $55.946',
+      '5 compartimentos individuales con push-button',
+      '10 litros de capacidad total (2L por puesto)',
+      'Instalación con adhesivo — sin taladrar la pared',
+      'Taza medidora incluida',
+      'Rating 4.2⭐ con 152 calificaciones reales',
+      'Contenido visible — ves cuánto queda sin abrir',
+    ],
+    cons: [
+      '⚠️ No sirve para harinas, azúcar o pasta larga',
+      '⚠️ Adhesivo funciona en superficies lisas — no en ladrillo sin revocar',
+      'Peso cargado puede superar 7kg — verificar soporte del adhesivo',
+      'Bandeja de condimentos aparece en fotos — verificar si viene incluida',
+    ],
+    verdict: 'Las bolsas de cereales a medio abrir, los envases que se caen cuando buscás el arroz, las lentejas en tres frascos distintos. Esto resuelve todo con un solo mueble visible en la pared. Viral en TikTok por razones visuales — el antes/después de la alacena es contenido garantizado.',
+    seoTitle: 'Dispensador de Alimentos 5 Compartimentos — Pared Adhesivo, 10L, Medidora',
+    metaDescription: 'Dispensador de cereales, porotos y frutos secos de 5 puestos con botón individual. Se instala en la pared sin taladrar. 10 litros, medidora incluida. Para organizar la cocina.',
+    ogTitle: 'Dispensador de alimentos x5 para pared — sin taladrar, 10 litros, medidora incluida',
+    ogDescription: 'Dispensador quíntuple de cereales, porotos y frutos secos con adhesivo de pared. 5 compartimentos, taza medidora, 10L de capacidad. Sin agujeros en la pared. Ver precio →',
+    h1: 'Dispensador de alimentos 5 compartimentos para pared — sin taladrar, 10 litros, medidora incluida',
+    articleBody: `Las bolsas de cereales abiertas a medias, los envases de porotos que se caen cuando buscás el arroz, las lentejas en tres frascos distintos porque nunca hay uno del tamaño correcto. El dispensador de 5 compartimentos resuelve todo eso con un solo movimiento: se pega en la pared, cargás los contenedores, y a partir de ahí cada ingrediente tiene su lugar fijo y visible.
+
+5 push-buttons independientes, cada uno con su compartimento transparente. Podés ver el nivel de cada ingrediente sin abrir nada. La taza medidora queda colgada al frente — la sacás, la llenás con el botón que corresponde, y la devolvés al gancho. Sin abrir bolsas, sin medir en el aire, sin derramar.
+
+## La instalación sin taladrar
+
+Viene con dos stickers adhesivos industriales de pared. El proceso son cuatro pasos: limpiar la pared con un trapo seco, despegar el adhesivo, presionar contra la superficie durante unos segundos, colgar el dispensador. No hay taladro, no hay tornillos, no hay agujeros en la pared.
+
+El adhesivo funciona en superficies lisas: azulejos de cocina, paredes pintadas, muebles de melamina. Para superficies rugosas o porosas (ladrillo sin revocar, hormigón a la vista) la adhesión es más débil. Las imágenes del listing muestran instalación sobre azulejo blanco de cocina — el caso de uso más frecuente.
+
+## Los 10 litros en perspectiva
+
+El dispensador tiene capacidad total de 10 litros distribuidos en 5 compartimentos de 2 litros cada uno. Para referencia: 2 litros de arroz equivalen aproximadamente a 1.5 kg — suficiente para varias semanas de uso familiar. En 10 litros totales podés tener arroz, fideos chicos, lentejas, garbanzos y quinoa (o la combinación que uses con más frecuencia) en un único mueble visible.
+
+Las dimensiones del conjunto son 41cm de ancho × 35cm de alto × 16cm de profundidad. El espacio en pared que ocupa es similar a una bandeja de horno.
+
+## Qué va y qué no va adentro
+
+Los 5 compartimentos funcionan bien con alimentos secos de tamaño pequeño a mediano: cereales de desayuno, arroz, lentejas, porotos, garbanzos, maíz pisingallo, semillas, frutos secos. El mecanismo de push-button libera el alimento por gravedad — fluye bien con granos pequeños y medianos.
+
+Lo que no fluye bien: alimentos muy irregulares o grandes (nueces enteras con cáscara, almendras largas), pasta larga, o cualquier ingrediente que se apelmace fácilmente con la humedad. Para harinas, azúcar o productos en polvo, tampoco es el formato adecuado — el mecanismo no está pensado para sólidos finos que se compactan.
+
+## La bandeja con porta-condimentos
+
+Las imágenes muestran que el producto incluye una bandeja adicional con 3 receptáculos circulares — tipo mini-cuencos con tapa de silicona — que funcionan como porta-especias o condimentos en el frente del dispensador. Es un extra que no está detallado en las specs textuales del listing, pero aparece claramente en las fotos del producto. Verificar si está incluido en la caja antes de comprar.`,
+    specs: [
+      { label: 'Modelo', value: '5 Puestos' },
+      { label: 'Compartimentos', value: '5 (individuales con push-button)' },
+      { label: 'Capacidad total', value: '10 litros (~2L por compartimento)' },
+      { label: 'Dimensiones', value: '41cm ancho × 35cm alto × 16cm prof' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Material', value: 'Plástico' },
+      { label: 'Instalación', value: 'Adhesivo de pared (sin taladrar)' },
+      { label: 'Incluye taza medidora', value: 'Sí' },
+      { label: 'Incluye bandeja condimentos', value: 'Ver fotos — verificar si incluye' },
+      { label: 'Rating', value: '4.2 ⭐ (152 calificaciones)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué alimentos puedo poner?',
+        answer:
+          'Cereales, arroz, lentejas, porotos, garbanzos, maíz pisingallo, semillas y frutos secos pequeños o medianos. No es adecuado para harinas, azúcar, pasta larga o ingredientes que se apelmacen con humedad.',
+      },
+      {
+        question: '¿Se hacen agujeros en la pared?',
+        answer:
+          'No. La instalación es con adhesivo de pared — limpiás la superficie, pegás los adhesivos y colgás el dispensador. No requiere taladro ni tornillos.',
+      },
+      {
+        question: '¿En qué tipo de pared funciona el adhesivo?',
+        answer:
+          'En superficies lisas y limpias: azulejos, paredes pintadas, melamina. En superficies rugosas o porosas el adhesivo puede no adherirse bien. Si la pared de tu cocina es rugosa, revisá las instrucciones del adhesivo antes de instalar.',
+      },
+      {
+        question: '¿Cuánto carga cada compartimento?',
+        answer:
+          'Aproximadamente 2 litros por compartimento — unos 1.3 a 1.5 kg de arroz, según la densidad del ingrediente.',
+      },
+      {
+        question: '¿Incluye la bandeja con porta-condimentos de las fotos?',
+        answer:
+          'Las fotos del producto muestran una bandeja adicional con recipientes para condimentos, pero las especificaciones textuales no la mencionan explícitamente. Verificar en el listing de ML si está incluida en la compra.',
+      },
+      {
+        question: '¿Cómo se limpia?',
+        answer:
+          'El plástico se limpia con trapo húmedo. Para limpiar el interior de los compartimentos, los tubos deben ser desmontables (verificar en el listing). No se recomienda sumergir en agua.',
+      },
+      {
+        question: '¿Cuánto pesa cargado?',
+        answer:
+          'El peso en vacío no está especificado. A 10 litros de capacidad total con granos (densidad ~0.7 kg/L), el peso cargado puede acercarse a 7 kg. Verificar que el adhesivo de pared soporte ese peso antes de cargarlo completamente.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Dispensador de Alimentos 5 Compartimentos Pared Adhesivo — Cereales y Frutos Secos',
+      description:
+        'Dispensador quíntuple de alimentos con 5 compartimentos individuales de push-button. Capacidad total 10 litros (2L por puesto). Instalación con adhesivo de pared sin taladrar. Incluye taza medidora. Material plástico blanco. 41×35×16cm. Para cereales, porotos, arroz, lentejas, frutos secos.',
+      brand: { '@type': 'Brand', name: 'Genérico' },
+      color: 'Blanco',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/33Xtufq',
+        priceCurrency: 'ARS',
+        price: 55946,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.2',
+        reviewCount: '152',
+      },
+    },
+    relatedProducts: ['MLA3857302687', 'MLA2105483084', 'MLA3446177644', 'MLA65102455'],
   },
   {
     id: 'MLA3857302687',
