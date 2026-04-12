@@ -2943,7 +2943,7 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
       'Carga máxima por estante individual no especificada',
     ],
     verdict: 'El carrito de metal que aparece en todos los videos de organización del hogar. Lo que lo diferencia de los de plástico del mismo rango es que el metal resiste carga real sin deformarse, y los estantes de malla drenan agua — sirve hasta para escurrir verduras recién lavadas. En Argentina se conoce también como "carrito zorrita".',
-    seoTitle: 'Carrito Organizador con Ruedas MTL — 3 Niveles Metal Negro, 100kg, Freno',
+    seoTitle: 'Carrito Organizador Negro MTL — Metal, 3 Niveles, 100kg, Ruedas con Freno',
     metaDescription: 'Carrito organizador de metal negro con 3 niveles y ruedas 360° con freno. 100kg de capacidad, ganchos intercambiables, plegable. Cocina, baño, oficina, living. Ver precio →',
     ogTitle: 'Carrito organizador MTL — 3 niveles de metal negro, ruedas 360° con freno, 100kg',
     ogDescription: 'El carrito organizador de metal negro con ruedas que funciona en cocina, baño, oficina y living. 3 niveles, 100kg de capacidad, ganchos intercambiables, plegable. Ver precio →',
@@ -2974,7 +2974,11 @@ Cada estante mide 6cm de alto, 40cm de ancho y 27cm de profundidad.
 
 Viene desarmado y se arma sin herramientas. Las piezas encajan entre sí y el proceso es el mismo que muestran en las imágenes del producto — los estantes se insertan en el marco y quedan fijos. Sin tornillos sueltos, sin llave allen, sin instrucciones en otro idioma que no se entienden.
 
-Cuando no se usa, el carrito es plegable — puede achicarse para guardarlo en un placard, detrás de una puerta o bajo una mesa.`,
+Cuando no se usa, el carrito es plegable — puede achicarse para guardarlo en un placard, detrás de una puerta o bajo una mesa.
+
+## ¿Y la versión blanca?
+
+Si te interesa el mismo formato pero en color blanco y con bandejas de plástico perforado en lugar de malla metálica, MTL fabrica el modelo TSV-003: capacidad de 50kg en lugar de 100kg, estética más clara y minimalista, e incluye herramientas de armado. Tiene 4.8⭐ con 68 calificaciones — el producto mejor valorado del cluster. Mismo precio aproximado, distinto perfil de uso: el negro es para cargas pesadas y estética industrial, el blanco para uso doméstico estándar y ambientes más prolijos.`,
     specs: [
       { label: 'Marca', value: 'MTL' },
       { label: 'Modelo', value: 'MTL1017' },
@@ -3062,7 +3066,7 @@ Cuando no se usa, el carrito es plegable — puede achicarse para guardarlo en u
   },
   {
     id: 'MLA46188819',
-    title: 'Carrito Organizador Blanco MTL Multiuso De 3 Niveles Con Ruedas Giratorias 360° Estantería Metálica De Almacenamiento Con Bandejas Para Cocina Baño Oficina Dormitorio Hogar Resistente Durable',
+    title: 'Carrito Organizador Blanco MTL TSV-003 — 3 Niveles, Ruedas 360° con Freno, 50kg',
     price: 41990,
     originalPrice: 59985,
     currency: 'ARS',
@@ -3074,16 +3078,142 @@ Cuando no se usa, el carrito es plegable — puede achicarse para guardarlo en u
       'https://http2.mlstatic.com/D_NQ_NP_2X_969186-MLA104016354054_012026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_971284-MLA104016975884_012026-F.webp',
     ],
-    category: 'Organizadores para Cocina',
-    categorySlug: 'cocina',
+    category: 'Hogar',
+    categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/carrito-organizador-blanco-mtl-multiuso-de-3-niveles-con-ruedas-giratorias-360-estanteria-metalica-de-almacenamiento-con-bandejas-para-cocina-bano-oficina-dormitorio-hogar-resistente-durable/p/MLA46188819',
     affiliateUrl: 'https://meli.la/2NAnkwa',
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
     soldQuantity: 100,
-    pastelColor: 'var(--pastel-coral)',
-    description: 'Este Carrito Organizador Multiuso 3 Niveles es la solución perfecta para mantener tu espacio organizado de manera eficiente. Diseñado para facilitar el almacenamiento y la movilidad, este carrito te ayudará a optimizar tu hogar, oficina o cocina, permitiéndote acceder rápidamente a tus artículos mie',
+    badge: 'viral',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'Carrito organizador blanco con estructura metálica y 3 bandejas plásticas perforadas (patrón floral calado que ventila y deja drenar el agua). Ruedas 360° con freno en 2. 50kg de capacidad distribuida. Incluye herramientas de armado. Para cocina, baño, escritorio, habitación y living. Marca MTL modelo TSV-003. 4.8⭐ con 68 calificaciones.',
+    pros: [
+      '30% OFF — de $59.985 a $41.990',
+      '4.8⭐ con 68 calificaciones — el producto mejor valorado del sitio',
+      '3 bandejas de plástico perforado — ventila y drena agua',
+      'Ruedas 360° con freno en 2 — movimiento + fijación',
+      'Incluye herramientas de armado — no necesitás conseguir nada extra',
+      'Color blanco encaja en cualquier ambiente sin combinar muebles',
+      'Bandejas amplias con bordes que contienen lo que ponés',
+    ],
+    cons: [
+      '⚠️ Triple discrepancia de dimensiones: 76×43×36cm (imagen) / 86×40×38cm (listing) / 86×39×30cm (vendedor)',
+      '50kg total vs 100kg del modelo negro — para cargas pesadas el negro es mejor',
+      'Bandejas plásticas, no metálicas — si querés malla metal, elegí el negro',
+      'Carga máxima por bandeja individual no especificada',
+    ],
+    verdict: 'El carrito organizador mejor valorado del sitio: 4.8⭐ con 68 calificaciones. Para un producto que llega en una caja y hay que armar en casa, ese número es difícil de discutir. Las bandejas plásticas perforadas ventilan, drenan agua y se limpian fácil — y el blanco encaja en cualquier ambiente sin tener que combinarlo con nada. En Argentina también se conoce como "carrito zorrita".',
+    seoTitle: 'Carrito Organizador Blanco con Ruedas MTL — 3 Niveles, 50kg, 4.8⭐',
+    metaDescription: 'Carrito organizador blanco de metal y plástico con 3 bandejas y ruedas 360°. 50kg de capacidad, incluye herramientas de armado. 4.8⭐ con 68 calificaciones. Ver precio →',
+    ogTitle: 'Carrito organizador blanco MTL — 3 niveles, ruedas 360°, 4.8⭐ con 68 calificaciones',
+    ogDescription: 'El carrito organizador blanco con bandejas plásticas perforadas, ruedas con freno y herramientas incluidas. 50kg de capacidad. 4.8⭐ sobre 68 calificaciones reales. Ver precio →',
+    h1: 'Carrito organizador blanco con ruedas MTL — 3 niveles, 50kg de capacidad, 4.8 estrellas',
+    articleBody: `68 personas calificaron este carrito organizador y el promedio es 4.8 sobre 5. Para un producto que los compradores reciben en una caja, arman en su casa y después usan todos los días, ese número es concreto — significa que casi todos los que lo compraron se fueron conformes.
+
+El TSV-003 de MTL es el modelo blanco de la línea. El armazón es metálico y las tres bandejas son de plástico con superficie perforada — un patrón floral calado que no es puramente decorativo: ventila, evita que se acumule humedad, y hace que el agua o los líquidos que caigan pasen a través en lugar de charquear. El color blanco lo hace caber en casi cualquier espacio sin llamar la atención.
+
+## Las bandejas y la carga
+
+Las tres bandejas son plásticas, amplias, con bordes que contienen lo que ponés sin que se caiga al mover el carrito. La capacidad total es de 50kg distribuidos entre los niveles — más que suficiente para el uso doméstico habitual. Para cargas muy pesadas existe el modelo negro de la misma marca que soporta hasta 100kg, con estantes de malla metálica en lugar de plástico.
+
+Las medidas de cada bandeja, según la imagen de especificaciones: 20.5cm de espacio interior útil de altura por nivel. El marco total mide 76cm de alto × 43cm de ancho × 36cm de profundidad. ⚠️ El listing indica dimensiones distintas (86cm × 40cm × 38cm) — verificar en ML antes de comprar cuál aplica si el espacio disponible es ajustado.
+
+## Las ruedas
+
+Cuatro ruedas giratorias de 360°. El movimiento es suave y silencioso en pisos duros — se desplaza con un empuje liviano. Dos de las ruedas tienen freno: se activan pisando la palanca para fijar el carrito en posición. Útil cuando lo cargás con peso y no querés que se deslice mientras trabajás.
+
+## El armado
+
+Viene desarmado e incluye las herramientas necesarias para el ensamblado. La estructura se arma con las uniones y tornillos incluidos — sin necesidad de conseguir nada extra. Los compradores en las reseñas confirman que el armado es rápido y sin complicaciones.
+
+## Para dónde va
+
+En las fotos del producto aparece en escritorio, cocina y espacio de estudio. Las reseñas mencionan específicamente el uso en cocina y como carrito de escritorio. En Argentina este tipo de carrito también se conoce como "carrito zorrita" — el formato vertical sobre ruedas que se usa para mover cosas entre ambientes. El blanco encaja en dormitorio, baño, cocina y oficina sin necesidad de que combine con ningún otro mueble en particular.
+
+El resumen de opiniones de MercadoLibre sintetiza lo que dicen los compradores: fácil de armar, resistente, ruedas que funcionan, buena relación precio-calidad.
+
+## ¿Necesitás más capacidad de carga?
+
+Si vas a apoyar libros, herramientas, frascos pesados o cualquier carga que supere los 50kg distribuidos, MTL fabrica la versión negra (modelo MTL1017): mismo formato de 3 niveles y ruedas con freno, pero con estantes de malla metálica que soportan 100kg y ganchos intercambiables en los laterales. Estética industrial en lugar de minimalista. Para uso doméstico estándar, el blanco con sus 50kg es más que suficiente — el negro tiene sentido cuando la carga real lo justifica.`,
+    specs: [
+      { label: 'Marca', value: 'MTL' },
+      { label: 'Modelo', value: 'TSV-003' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Material estructura', value: 'Metal' },
+      { label: 'Material bandejas', value: 'Plástico perforado (patrón floral)' },
+      { label: 'Niveles', value: '3' },
+      { label: 'Capacidad', value: '50kg distribuidos' },
+      { label: 'Dimensiones armado', value: '⚠️ 76×43×36cm (imagen) / 86×40×38cm (listing) — verificar' },
+      { label: 'Altura por bandeja', value: '20.5cm de espacio útil interior' },
+      { label: 'Ruedas', value: '360°, suaves y silenciosas' },
+      { label: 'Freno', value: 'Sí — en 2 ruedas' },
+      { label: 'Herramientas de armado', value: 'Incluidas' },
+      { label: 'Ambientes', value: 'Cocina, baño, escritorio, habitación, oficina, living' },
+      { label: 'Rating', value: '4.8 ⭐ (68 calificaciones — incluye opiniones de otros países, 41 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué diferencia tiene con el modelo negro MTL?',
+        answer:
+          'El modelo negro (MTL1017) tiene estantes de malla metálica y soporta 100kg. Este modelo blanco (TSV-003) tiene bandejas de plástico perforado y soporta 50kg. El negro incluye ganchos intercambiables en los laterales; el blanco incluye herramientas de armado. Para uso doméstico estándar, 50kg es más que suficiente.',
+      },
+      {
+        question: '¿Las bandejas son de plástico o de metal?',
+        answer:
+          'Las bandejas son de plástico con superficie perforada (patrón floral calado). La estructura y el armazón son de metal. No son de metal mesh como el modelo negro de la línea.',
+      },
+      {
+        question: '¿Incluye herramientas para armar?',
+        answer:
+          'Sí. El producto incluye todas las herramientas necesarias para el ensamblado. Los compradores confirman en las reseñas que el armado es rápido.',
+      },
+      {
+        question: '¿Tiene freno en las ruedas?',
+        answer:
+          'Sí. Dos de las cuatro ruedas tienen freno que se activa pisando la palanca. Permite fijar el carrito cuando no querés que se mueva.',
+      },
+      {
+        question: '¿Qué peso soporta cada bandeja?',
+        answer:
+          'La capacidad total es de 50kg distribuidos. El listing no especifica la carga máxima por bandeja individual — distribuir el peso de forma pareja entre los tres niveles es lo recomendable.',
+      },
+      {
+        question: '¿Las ruedas funcionan en alfombra?',
+        answer:
+          'No especificado. Las ruedas 360° funcionan bien en pisos duros. Para alfombra, consultar con el vendedor en ML.',
+      },
+      {
+        question: '¿Cuáles son las medidas exactas?',
+        answer:
+          'La imagen de especificaciones indica 76cm de alto × 43cm de ancho × 36cm de profundidad. El listing indica medidas distintas (86cm × 40cm × 38cm). Verificar en la página actual de ML cuál aplica, especialmente si el espacio disponible es ajustado.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Carrito Organizador Blanco MTL 3 Niveles — Ruedas 360° con Freno, 50kg, TSV-003',
+      description:
+        'Carrito organizador blanco de 3 niveles. Estructura metálica con bandejas de plástico perforado. Ruedas 360° con freno en 2. 50kg de capacidad distribuida. Incluye herramientas de armado. Para cocina, baño, escritorio, habitación y living.',
+      brand: { '@type': 'Brand', name: 'MTL' },
+      model: 'TSV-003',
+      color: 'Blanco',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2NAnkwa',
+        priceCurrency: 'ARS',
+        price: 41990,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '68',
+      },
+    },
+    relatedProducts: ['MLA64582730', 'MLA3692700236', 'MLA3446177644', 'MLA65102455'],
   },
   {
     id: 'MLA2351761364',
