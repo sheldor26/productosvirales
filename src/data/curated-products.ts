@@ -2740,7 +2740,8 @@ Sin Bluetooth ni bocina. Sin app. Sin control por voz. Sin funcionalidad smart h
   },
   {
     id: 'MLA45675149',
-    title: 'Astronauta Proyector Velador Con Parlante Dakota Galaxia Estrellas Lampara Luz Led Estéreo Control Remoto Estructura Blanca',
+    title: 'Proyector Astronauta Dakota | Parlante BT, 8 Modos y Timer',
+    badge: 'trending',
     price: 19950.33,
     originalPrice: 29295,
     currency: 'ARS',
@@ -2752,7 +2753,7 @@ Sin Bluetooth ni bocina. Sin app. Sin control por voz. Sin funcionalidad smart h
       'https://http2.mlstatic.com/D_NQ_NP_2X_677813-MLA81971835800_022025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_960150-MLA81971835786_022025-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Hogar',
     categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/astronauta-proyector-velador-con-parlante-dakota-galaxia-estrellas-lampara-luz-led-estereo-control-remoto-estructura-blanca/p/MLA45675149',
     affiliateUrl: 'https://meli.la/1AF868Z',
@@ -2761,7 +2762,143 @@ Sin Bluetooth ni bocina. Sin app. Sin control por voz. Sin funcionalidad smart h
     rating: 4.7,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
-    description: '¡Transforma tu hogar en un espectáculo cósmico con nuestro Astronauta Proyector LED! Ideal para crear un ambiente único y relajante, este proyector te transportará al espacio con su luz de láser y efectos de estrellas.   Características:  Material: Fabricado con materiales duraderos como ABS, PC y P',
+    description: 'Proyector de galaxia con forma de astronauta de pie Dakota AST. Parlante Bluetooth estéreo integrado, 8 modos de nebulosa multicolor, láser 532nm, proyección 360°, timer 1H/2H, control remoto con controles de música y R/G/B/W. USB 5V. 26.5cm alto. Marca argentina Dakota by Selca. Garantía 6 meses.',
+    pros: [
+      '4.7⭐ con 333 calificaciones y 182 comentarios',
+      'Parlante Bluetooth estéreo integrado — luces + música desde el celular',
+      '8 modos de nebulosa + controles individuales R/G/B/W',
+      'Timer 1H / 2H — práctico para dormirse',
+      'Pilas AAA del control remoto incluidas en la caja',
+      '32% OFF — de $29.295 a $19.950',
+      'Marca argentina Dakota by Selca — service local, garantía 6 meses',
+      'Láser 532nm — verde brillante con cobertura uniforme',
+    ],
+    cons: [
+      'Rating 4.7⭐ vs 4.9⭐ del Geotek Nebula (menor)',
+      '⚠️ Discrepancia de dimensiones: listing 26.5cm vs imagen fabricante 22.5cm',
+      'Potencia de la bocina no especificada en ficha',
+      'No incluye adaptador USB de pared',
+    ],
+    verdict: 'La Dakota AST es la versión del astronauta proyector para cuando querés las luces Y la música al mismo tiempo. Parlante Bluetooth integrado, 8 modos de nebulosa, timer y controles de música desde el control remoto. Si la música es parte del ambiente que querés crear, este es el modelo. Si solo querés luces con mejor rating, el Geotek Nebula (4.9⭐) es la alternativa.',
+    seoTitle: 'Proyector Astronauta Dakota | Parlante BT, 8 Modos y Timer',
+    metaDescription: 'Proyector astronauta Dakota con parlante Bluetooth: 8 modos, timer 1H/2H, control remoto y láser 532nm. 4.7⭐ / 333 calificaciones.',
+    ogTitle: 'Proyector Astronauta Dakota con Parlante Bluetooth — Galaxia, 8 Modos y Timer',
+    ogDescription: 'Proyector astronauta Dakota AST con bocina Bluetooth integrada, 8 modos de nebulosa, timer 1H/2H, control remoto completo y láser 532nm. 4.7⭐ / 333 calificaciones.',
+    h1: 'Proyector astronauta Dakota con parlante Bluetooth: galaxia, 8 modos y timer',
+    articleBody: `La Dakota AST es la versión del astronauta proyector para cuando querés las luces Y la música al mismo tiempo. El cuerpo tiene un parlante estéreo integrado con conectividad Bluetooth: conectás el celular y reproducís lo que quieras mientras las nebulosas cubren el techo. En el otro proyector de astronauta del sitio, el Geotek Nebula, no hay bocina. Si la música es parte del ambiente que querés crear, este es el modelo.
+
+Además del parlante, la diferencia más visible es el tamaño. La Dakota AST es una figura de pie de 26.5cm. El Geotek sentado mide 12.5cm. En el cuarto no pasan desapercibidos de la misma manera.
+
+## El parlante Bluetooth
+
+La bocina está integrada en el pecho del astronauta — se ve claramente en las fotos como una rejilla circular prominente. También hay dos grillas en la parte superior del casco. El control remoto tiene botones de música: play/pause, canción anterior, canción siguiente y control de volumen.
+
+Para activar el Bluetooth, el control tiene un botón específico. Desde el teléfono lo detectás como cualquier parlante inalámbrico y reproducís cualquier app de música. No se especifica la potencia de la bocina en la ficha.
+
+## La proyección
+
+Las imágenes muestran 8 modos de nebulosa: verde + azul, naranja/rojo, azul + morado, magenta, azul puro, verde puro, multicolor y campo de estrellas. El láser es de 532nm — el verde brillante característico de los proyectores de estrellas con cobertura uniforme.
+
+El control remoto tiene botones individuales de color (R para rojo, G para verde, B para azul, W para blanco), además del selector de modo general. Esto permite ajustar el color dominante de forma más precisa que un simple ciclo de modos. El ángulo de proyección es ajustable y cubre 360°.
+
+## El control remoto
+
+Es uno de los controles más completos del cluster: encendido/apagado, R/G/B/W individual, volumen +/-, controles de música (anterior/pausa/siguiente), modo general, brillo, velocidad de efecto, Bluetooth/Music, timer 1H y timer 2H.
+
+El timer tiene dos opciones: 1 hora o 2 horas. Para uso nocturno, la opción de 2 horas es práctica si el tiempo de dormirse varía.
+
+Las baterías AAA para el control vienen incluidas en la caja — a diferencia del Geotek que no las incluye.
+
+## Geotek vs Dakota: cuál conviene según el uso
+
+El Geotek Nebula tiene mejor rating (4.9⭐ vs 4.7⭐), es más compacto (12.5cm sentado), timer de 40/90 min y cuesta menos. Pero no tiene bocina.
+
+La Dakota AST tiene parlante Bluetooth integrado, es más grande (26.5cm de pie), timer de 1H/2H, controles individuales R/G/B/W y pilas incluidas. Marca argentina con garantía 6 meses.
+
+Si la música es parte del ambiente que querés, la Dakota. Si solo querés el proyector con mejor rating y sin bocina, el Geotek.
+
+## Brand: Dakota by Selca
+
+Dakota es una marca argentina (Selca). Incluye láser 532nm nítido, materiales ABS+PC+PVC duraderos, control remoto completo y bajo consumo. La garantía es de 6 meses — que sea marca argentina con distribución local facilita el service.
+
+## Calificaciones
+
+4.7⭐ sobre 333 calificaciones y 182 comentarios. El resumen de ML: "La luz es un producto de excelente calidad que ilumina intensamente y es muy apreciada por los niños. Su diseño es atractivo y adecuado para habitaciones infantiles, proporcionando entretenimiento y tranquilidad."`,
+    specs: [
+      { label: 'Marca', value: 'Dakota by Selca (Argentina)' },
+      { label: 'Modelo', value: 'AST' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Dimensiones', value: '⚠️ 11×12.5×26.5cm (listing) / 10×11.5×22.5cm (fabricante)' },
+      { label: 'Material', value: 'ABS + PC + PVC' },
+      { label: 'Láser', value: '532nm' },
+      { label: 'Potencia LED', value: 'Menor a 5W' },
+      { label: 'Parlante', value: 'Bluetooth estéreo integrado' },
+      { label: 'Modos nebulosa', value: '8 efectos multicolor' },
+      { label: 'Controles color', value: 'R / G / B / W individuales' },
+      { label: 'Proyección', value: '360° — ángulo ajustable' },
+      { label: 'Timer', value: '1 hora / 2 horas' },
+      { label: 'Control remoto', value: 'Sí — con controles de música y color' },
+      { label: 'Pilas control', value: 'AAA — incluidas en la caja' },
+      { label: 'Alimentación', value: 'USB 5V (cable incluido, adaptador no)' },
+      { label: 'Garantía', value: '6 meses' },
+      { label: 'Rating', value: '4.7 ⭐ (333 calificaciones — 182 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿La Dakota AST tiene bocina Bluetooth?',
+        answer:
+          'Sí. Tiene parlante integrado con Bluetooth para reproducir música desde el celular. El control remoto incluye play/pause, siguiente, anterior y volumen.',
+      },
+      {
+        question: '¿Qué diferencia tiene con el proyector Geotek Nebula?',
+        answer:
+          'La Dakota es más grande (26.5cm vs 12.5cm), tiene bocina Bluetooth y pilas incluidas. El Geotek tiene mejor rating (4.9⭐ vs 4.7⭐) y timers de 40/90 min.',
+      },
+      {
+        question: '¿Cuántos modos de nebulosa tiene?',
+        answer:
+          '8 modos en distintos colores. El control tiene botones individuales R, G, B y W para ajuste específico.',
+      },
+      {
+        question: '¿Las baterías del control vienen incluidas?',
+        answer:
+          'Sí. Las baterías AAA vienen incluidas en la caja — a diferencia del Geotek que no las incluye.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer:
+          '6 meses. Dakota by Selca es marca argentina con distribución local.',
+      },
+      {
+        question: '¿Funciona sin el celular?',
+        answer:
+          'Sí. El Bluetooth es opcional. El proyector funciona solo con el control remoto — las nebulosas y estrellas no necesitan el teléfono.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Proyector Astronauta Dakota AST con Parlante Bluetooth — Galaxia Estrellas LED',
+      description:
+        'Proyector de galaxia con forma de astronauta de pie. Parlante Bluetooth estéreo integrado, 8 modos de nebulosa, láser 532nm, proyección 360°, timer 1H/2H, control remoto con controles de música y R/G/B/W. USB 5V. 26.5cm alto. Marca Dakota by Selca (Argentina). Garantía 6 meses.',
+      brand: { '@type': 'Brand', name: 'Dakota' },
+      model: 'AST',
+      color: 'Blanco',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1AF868Z',
+        priceCurrency: 'ARS',
+        price: 19950,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '333',
+      },
+    },
+    relatedProducts: ['MLA521391764', 'MLA2729985625', 'MLA46927234'],
   },
   {
     id: 'MLA2729985625',
