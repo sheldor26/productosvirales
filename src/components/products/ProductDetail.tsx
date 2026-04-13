@@ -1,9 +1,10 @@
 "use client";
 
+import { useRef } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, ExternalLink, ChevronRight, Truck, Shield, Check, X } from "lucide-react";
-import { motion } from "framer-motion";
+import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
 import { TikTokBadge } from "@/components/widgets/TikTokBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
@@ -15,12 +16,34 @@ interface ProductDetailProps {
 }
 
 export function ProductDetail({ product, relatedProducts = [] }: ProductDetailProps) {
+  const containerRef = useRef<HTMLDivElement>(null);
+
   const discount = product.originalPrice
     ? formatDiscount(product.originalPrice, product.price)
     : null;
 
+  useGSAP(() => {
+    const mm = gsap.matchMedia();
+
+    mm.add("(prefers-reduced-motion: no-preference)", () => {
+      const tl = gsap.timeline({ defaults: { autoAlpha: 0, y: 20, duration: 0.4, ease: "power2.out" } });
+      tl.from(".detail-image", { x: -20, y: 0 })
+        .from(".detail-info", { x: 20, y: 0 }, "<0.1")
+        .from(".detail-article", {}, 0.3)
+        .from(".detail-specs", {}, "-=0.05")
+        .from(".detail-faq", {}, "-=0.05")
+        .from(".detail-related", {}, "-=0.05");
+    });
+
+    mm.add("(prefers-reduced-motion: reduce)", () => {
+      gsap.set(".detail-image, .detail-info, .detail-article, .detail-specs, .detail-faq, .detail-related", {
+        autoAlpha: 1, y: 0, x: 0,
+      });
+    });
+  }, { scope: containerRef });
+
   return (
-    <div>
+    <div ref={containerRef}>
       {/* Breadcrumb */}
       <nav className="flex items-center gap-1.5 text-xs text-[var(--text-muted)] mb-6">
         <Link href="/" className="hover:text-[var(--text-secondary)] transition-colors">
@@ -41,11 +64,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
         {/* Left: Image */}
-        <motion.div
-          initial={{ opacity: 0, x: -20 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.4 }}
-        >
+        <div className="detail-image" style={{ visibility: "hidden" }}>
           <div
             className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden"
             style={{ backgroundColor: product.pastelColor || "#f8f8f6" }}
@@ -65,15 +84,10 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               </div>
             )}
           </div>
-        </motion.div>
+        </div>
 
         {/* Right: Info */}
-        <motion.div
-          initial={{ opacity: 0, x: 20 }}
-          animate={{ opacity: 1, x: 0 }}
-          transition={{ duration: 0.4, delay: 0.1 }}
-          className="flex flex-col"
-        >
+        <div className="detail-info flex flex-col" style={{ visibility: "hidden" }}>
           <Link
             href={`/categoria/${product.categorySlug}`}
             className="text-xs text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors mb-2"
@@ -205,17 +219,12 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               <ArrowRight size={14} />
             </a>
           </div>
-        </motion.div>
+        </div>
       </div>
 
       {/* ─── Article body ─── */}
       {product.articleBody && (
-        <motion.article
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.4, delay: 0.3 }}
-          className="mt-10 max-w-3xl"
-        >
+        <article className="detail-article mt-10 max-w-3xl" style={{ visibility: "hidden" }}>
           <div className="prose prose-sm max-w-none text-[var(--text-secondary)]">
             {product.articleBody.split('\n\n').map((block, i) => {
               if (block.startsWith('## ')) {
@@ -229,7 +238,6 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
                   </h2>
                 );
               }
-              // Ordered list (lines starting with "1. ", "2. ", etc.)
               if (/^\d+\.\s/.test(block)) {
                 const items = block.split('\n').filter(Boolean);
                 return (
@@ -247,17 +255,12 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               );
             })}
           </div>
-        </motion.article>
+        </article>
       )}
 
       {/* ─── Specs table ─── */}
       {product.specs && product.specs.length > 0 && (
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.4, delay: 0.35 }}
-          className="mt-8 max-w-3xl"
-        >
+        <div className="detail-specs mt-8 max-w-3xl" style={{ visibility: "hidden" }}>
           <h2
             className="text-lg font-bold text-[var(--text-primary)] mb-4"
             style={{ fontFamily: 'var(--font-display)' }}
@@ -283,17 +286,12 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               </tbody>
             </table>
           </div>
-        </motion.div>
+        </div>
       )}
 
       {/* ─── FAQ ─── */}
       {product.faq && product.faq.length > 0 && (
-        <motion.section
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.4, delay: 0.4 }}
-          className="mt-8 max-w-3xl"
-        >
+        <section className="detail-faq mt-8 max-w-3xl" style={{ visibility: "hidden" }}>
           <h2
             className="text-lg font-bold text-[var(--text-primary)] mb-4"
             style={{ fontFamily: 'var(--font-display)' }}
@@ -319,17 +317,12 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               </details>
             ))}
           </div>
-        </motion.section>
+        </section>
       )}
 
       {/* ─── Comparar con otros modelos (interlinking) ─── */}
       {relatedProducts.length > 0 && (
-        <motion.section
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.4, delay: 0.45 }}
-          className="mt-10 max-w-3xl"
-        >
+        <section className="detail-related mt-10 max-w-3xl" style={{ visibility: "hidden" }}>
           <h2
             className="text-lg font-bold text-[var(--text-primary)] mb-4"
             style={{ fontFamily: 'var(--font-display)' }}
@@ -374,7 +367,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               </Link>
             ))}
           </div>
-        </motion.section>
+        </section>
       )}
 
       {/* ─── Bottom CTA ─── */}
