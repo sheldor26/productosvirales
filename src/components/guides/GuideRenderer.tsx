@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import { ExternalLink } from "lucide-react";
 import type { Guide, GuideSection } from "@/lib/types";
 
@@ -163,13 +162,12 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       return (
         <figure className="my-6">
           <div className="rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)]">
-            <Image
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
               src={section.src || ""}
               alt={section.alt || ""}
-              width={780}
-              height={520}
               className="w-full h-auto"
-              unoptimized
+              loading="lazy"
             />
           </div>
           {section.alt && (

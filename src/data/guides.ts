@@ -942,7 +942,7 @@ export const guides: Guide[] = [
       { type: "h2", title: "Modelos Philips disponibles en Argentina" },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_603012-MLA44250408498_122020-F.webp",
+        src: "/guias/pavas/philips-hd9350-acero.webp",
         alt: "Philips HD9350 — pava eléctrica de acero inoxidable completo, modelo recomendado de gama alta",
       },
       { type: "h3", title: "Philips Daily Collection HD9350 (~$52.000)" },
@@ -968,7 +968,7 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_882936-MLA75363498498_032024-F.webp",
+        src: "/guias/pavas/philips-hd9396-negra.webp",
         alt: "Philips HD9396 — modelo premium negro, mismo funcionamiento que el HD9350 pero diseño superior",
       },
       { type: "h3", title: "Philips HD9396 (~$100.000) — El premium" },
@@ -1042,7 +1042,7 @@ export const guides: Guide[] = [
       { type: "h2", title: "Alternativas a considerar" },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_917017-MLU78255965498_082024-F.webp",
+        src: "/guias/pavas/atma-peat1351-producto.webp",
         alt: "Atma PEAT1351 — pava eléctrica con interior de acero inoxidable, modelo recomendado de gama media",
       },
       {
@@ -1149,7 +1149,7 @@ export const guides: Guide[] = [
       { type: "h2", title: "El modelo que SÍ vale la pena: PEAT1351" },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_917017-MLU78255965498_082024-F.webp",
+        src: "/guias/pavas/atma-peat1351-main.webp",
         alt: "Atma PEAT1351 — producto principal, exterior blanco con detalles turquesa",
       },
       {
@@ -1166,18 +1166,18 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_671627-MLA78124028062_082024-F.webp",
+        src: "/guias/pavas/atma-peat1351-lifestyle.webp",
         alt: "Atma PEAT1351 sirviendo agua para infusiones — capacidad 1.7 litros",
       },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_858403-MLA78124028060_082024-F.webp",
-        alt: "Atma PEAT1351 con mate — el agua caliente siempre lista para cebar",
+        src: "/guias/pavas/atma-peat1351-detalles.webp",
+        alt: "Atma PEAT1351 detalles: filtro removible, interruptor, conector 360°",
       },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_722949-MLA78075178370_082024-F.webp",
-        alt: "Atma PEAT1351 detalles: filtro removible, interruptor de encendido, conector 360°",
+        src: "/guias/pavas/atma-peat1351-producto.webp",
+        alt: "Atma PEAT1351 — vista completa del producto con todos los accesorios",
       },
       { type: "h2", title: "Modelos Atma que NO recomiendo" },
       {
@@ -1235,8 +1235,8 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_654771-MLA78124028068_082024-F.webp",
-        alt: "Atma PEAT1351 reviews en MercadoLibre — 4.6 estrellas con 3.007 calificaciones",
+        src: "/guias/pavas/atma-peat1351-lifestyle.webp",
+        alt: "Atma PEAT1351 en uso — sirviendo infusiones en la cocina",
       },
       { type: "h2", title: "Consejos para que dure más" },
       {
@@ -1380,7 +1380,7 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "https://http2.mlstatic.com/D_NQ_NP_2X_989498-MLA80522063330_112024-F.webp",
+        src: "/guias/pavas/peabody-dk2200n.webp",
         alt: "Peabody PE-DK2200N — pava eléctrica digital con control de temperatura, pantalla LED",
       },
       {
