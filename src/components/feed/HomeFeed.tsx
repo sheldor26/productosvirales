@@ -1,16 +1,39 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import { useSearchParams } from "next/navigation";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { getVisibleProducts } from "@/lib/products";
 
+function normalize(str: string): string {
+  return str
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
 export function HomeFeed() {
+  const searchParams = useSearchParams();
+  const searchQuery = searchParams.get("q") || "";
+
   const [activeCategory, setActiveCategory] = useState("todos");
 
   const allVisible = useMemo(() => getVisibleProducts(), []);
 
   const filteredProducts = useMemo(() => {
+    // If there's a search query, filter by it regardless of category
+    if (searchQuery.trim()) {
+      const q = normalize(searchQuery.trim());
+      return allVisible.filter((p) => {
+        const haystack = normalize(
+          `${p.title} ${p.category} ${p.description || ""} ${p.h1 || ""}`
+        );
+        // Match all words in the query
+        return q.split(/\s+/).every((word) => haystack.includes(word));
+      });
+    }
+
     if (activeCategory === "todos") {
       return allVisible;
     }
@@ -18,7 +41,7 @@ export function HomeFeed() {
       return allVisible.filter((p) => p.badge === "viral" || p.badge === "trending");
     }
     return allVisible.filter((p) => p.categorySlug === activeCategory);
-  }, [activeCategory, allVisible]);
+  }, [activeCategory, allVisible, searchQuery]);
 
   const titleMap: Record<string, string> = {
     todos: "Todos los productos",
@@ -30,23 +53,31 @@ export function HomeFeed() {
     gadgets: "Gadgets",
   };
 
+  const title = searchQuery.trim()
+    ? `Resultados para "${searchQuery}"`
+    : titleMap[activeCategory] || activeCategory.charAt(0).toUpperCase() + activeCategory.slice(1);
+
+  const subtitle = searchQuery.trim()
+    ? `${filteredProducts.length} producto${filteredProducts.length !== 1 ? "s" : ""} encontrado${filteredProducts.length !== 1 ? "s" : ""}`
+    : activeCategory === "todos"
+      ? "Todo el catálogo de productos virales en MercadoLibre"
+      : activeCategory === "viral"
+        ? "Los productos que están volando en MercadoLibre"
+        : `Los mejores productos de ${titleMap[activeCategory] || activeCategory}`;
+
   return (
     <>
-      <CategoryTabs
-        activeCategory={activeCategory}
-        onCategoryChange={setActiveCategory}
-      />
+      {!searchQuery.trim() && (
+        <CategoryTabs
+          activeCategory={activeCategory}
+          onCategoryChange={setActiveCategory}
+        />
+      )}
 
       <ProductGrid
         products={filteredProducts}
-        title={titleMap[activeCategory] || activeCategory.charAt(0).toUpperCase() + activeCategory.slice(1)}
-        subtitle={
-          activeCategory === "todos"
-            ? "Todo el catálogo de productos virales en MercadoLibre"
-            : activeCategory === "viral"
-              ? "Los productos que están volando en MercadoLibre"
-              : `Los mejores productos de ${titleMap[activeCategory] || activeCategory}`
-        }
+        title={title}
+        subtitle={subtitle}
       />
     </>
   );

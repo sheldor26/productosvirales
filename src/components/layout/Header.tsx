@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 import { Menu, X, Sun, Moon, Search } from "lucide-react";
 import { useTheme } from "next-themes";
 import { cn } from "@/lib/utils";
@@ -14,6 +15,12 @@ export function Header() {
   const [searchOpen, setSearchOpen] = useState(false);
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
+  const router = useRouter();
+
+  const handleSearch = (query: string) => {
+    setSearchOpen(false);
+    router.push(`/?q=${encodeURIComponent(query)}`);
+  };
 
   useEffect(() => {
     setMounted(true);
@@ -117,7 +124,7 @@ export function Header() {
                   <SearchInput
                     className="w-56"
                     expandable={false}
-                    onSearch={() => setSearchOpen(false)}
+                    onSearch={handleSearch}
                   />
                 ) : (
                   <button
@@ -134,6 +141,7 @@ export function Header() {
               <button
                 className="md:hidden p-2 text-[var(--text-secondary)] cursor-pointer"
                 aria-label="Buscar"
+                onClick={() => setSearchOpen(!searchOpen)}
               >
                 <Search size={20} />
               </button>
@@ -150,6 +158,15 @@ export function Header() {
               )}
             </div>
           </div>
+
+          {/* Mobile search bar */}
+          {searchOpen && (
+            <div className="md:hidden px-4 pb-3">
+              <SearchInput
+                onSearch={handleSearch}
+              />
+            </div>
+          )}
         </div>
       </header>
 

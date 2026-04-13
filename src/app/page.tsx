@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import { HeroBanner } from "@/components/feed/HeroBanner";
 import { TrendingBar } from "@/components/feed/TrendingBar";
 import { HomeFeed } from "@/components/feed/HomeFeed";
@@ -15,7 +16,9 @@ export default async function Home() {
       <HeroBanner />
 
       <div className="mt-6 md:mt-8">
-        <HomeFeed />
+        <Suspense>
+          <HomeFeed />
+        </Suspense>
       </div>
 
       <div className="mt-6 md:mt-8">
