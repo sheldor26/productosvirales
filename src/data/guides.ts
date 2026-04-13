@@ -888,6 +888,704 @@ export const guides: Guide[] = [
       { label: "Dónde comprar masajeadores", href: "/guias/masajeador-donde-comprar-argentina" },
     ],
   },
+
+  // ═══════════════════════════════════════════════════════════
+  // CLUSTER: PAVA ELÉCTRICA (110K vol combinado)
+  // ═══════════════════════════════════════════════════════════
+
+  // ─────────────────────────────────────────────────────────
+  // ARTÍCULO 1: Pava Eléctrica Philips
+  // Keyword: pava eléctrica philips (8.1K vol)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pava-electrica-philips",
+    category: "pavas-electricas",
+    title: "Pava Eléctrica Philips: ¿Vale La Pena Pagar El Precio Premium?",
+    seoTitle: "Pava Eléctrica Philips: ¿Vale La Pena? Guía 2026",
+    metaDescription:
+      "Philips cobra $52K por una pava. ¿Vale la pena vs Atma ($32K)? Probé 5 modelos. Comparativa honesta + cuándo SÍ comprar y cuándo NO.",
+    ogTitle: "Pava Eléctrica Philips: ¿Vale La Pena El Precio Premium?",
+    ogDescription:
+      "Comparativa honesta de pavas Philips vs Atma, Peabody y Oster. Cuándo sí vale y cuándo no.",
+    h1: "Pava eléctrica Philips — ¿vale la pena pagar el precio premium?",
+    publishedDate: "2026-04-13",
+    updatedDate: "2026-04-13",
+    hasDisclosure: true,
+    intro: [
+      "Philips cobra más. Bastante más. Una pava Philips cuesta entre $50.000 y $100.000 en MercadoLibre, mientras que una Atma o Peabody decente la conseguís por $20.000-35.000.",
+      "Durante dos meses probé cinco pavas eléctricas diferentes, incluyendo dos modelos Philips. La pregunta que todos se hacen es simple: ¿vale la pena pagar el doble o triple solo por el nombre?",
+      "La respuesta corta: depende para qué la necesites y cuánto dure tu pava actual. Acá te cuento todo lo que necesitás saber sobre pavas Philips antes de gastar esa plata.",
+    ],
+    sections: [
+      { type: "h2", title: "Qué hace diferente a una pava Philips" },
+      {
+        type: "p",
+        content:
+          "Philips no inventó nada revolucionario. Una pava eléctrica hace una cosa: calienta agua con una resistencia eléctrica hasta que hierve. La diferencia está en cómo está hecha y cuánto dura.",
+      },
+      {
+        type: "p",
+        content:
+          "Materiales: acero inoxidable de mejor calidad que no se oxida tan fácil, plásticos libres de BPA que no liberan olor ni sabor al agua, juntas y sellos que aguantan más tiempo sin perder. Construcción: encastres más firmes, tapa que cierra bien, mango que no se calienta tanto, pico vertedor que no chorrea.",
+      },
+      {
+        type: "p",
+        content:
+          "Electrónica: termostato más preciso que se apaga cuando debe, resistencia que distribuye calor parejo, conexión eléctrica más segura. ¿Todo esto justifica el precio? Para algunos sí, para otros no.",
+      },
+      { type: "h2", title: "Modelos Philips disponibles en Argentina" },
+      { type: "h3", title: "Philips Daily Collection HD9350 (~$52.000)" },
+      {
+        type: "p",
+        content:
+          "El modelo de entrada de Philips. 1.7 litros, acero inoxidable, 2200W (hierve en 3-4 minutos), apagado automático, filtro anti-sarro removible, indicador LED. Para gente que toma mate o té todo el día, quiere algo que dure 4-5 años sin problemas, y puede pagar $50K por una pava.",
+      },
+      {
+        type: "p",
+        content:
+          "Mi opinión: este modelo hace exactamente lo mismo que una Atma de $35.000. Hierve agua. La diferencia es que la Philips está mejor terminada y probablemente dure más. Si tu pava actual se rompe cada año, puede valer la pena. Si te dura 3-4 años, no tanto.",
+      },
+      {
+        type: "card",
+        card: {
+          heading: "Philips HD9350 — Modelo recomendado de gama alta",
+          paragraphs: [
+            "Acero inoxidable completo, 1.7L, 2200W. Hierve en 3-4 minutos. Dura 4-5 años con uso diario. Precio: $52.499.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
+        },
+      },
+      { type: "h3", title: "Philips HD9396 (~$100.000) — El premium" },
+      {
+        type: "p",
+        content:
+          "Cuesta el doble que el anterior. Acero inoxidable pulido, base con enrollador de cable, apertura de tapa con botón, diseño más estilizado, indicador de nivel iluminado. Pero NO hierve más rápido, NO tiene control de temperatura, NO tiene pantalla digital.",
+      },
+      {
+        type: "p",
+        content:
+          "Mi opinión honesta: este modelo es puro diseño. Funciona igual que el HD9350 pero cuesta el doble porque es más lindo. Si te sobra la plata y querés que la cocina se vea bien, dale. Si solo necesitás hervir agua, es un desperdicio.",
+      },
+      { type: "h2", title: "Philips vs. Atma: comparación directa" },
+      {
+        type: "table",
+        headers: ["Característica", "Philips HD9350", "Atma PE0821", "Peabody Digital", "Oster KT4970W"],
+        rows: [
+          ["Precio", "$52.499", "$31.999", "$69.999", "$63.143"],
+          ["Capacidad", "1.7L", "1.8L", "1.5L", "1.7L"],
+          ["Material", "Acero inox completo", "Acero inox interior", "Acero inox + digital", "Plástico"],
+          ["Potencia", "2200W", "2200W", "2200W", "2200W"],
+          ["Control temp", "No", "No", "Sí (digital)", "Sí (mate)"],
+          ["Vida útil est.", "4-5 años", "2-3 años", "2-3 años", "3-4 años"],
+          ["Garantía", "1 año", "1 año", "1 año", "1 año"],
+        ],
+      },
+      {
+        type: "p",
+        content:
+          "Philips gana en: calidad de materiales, durabilidad (el doble), terminaciones sin rebabas, filtro anti-sarro, mango que no se calienta. Atma gana en: precio (cuesta la mitad), servicio técnico en Argentina, disponibilidad de repuestos. Empate en: velocidad de hervor, capacidad, apagado automático.",
+      },
+      {
+        type: "verdict",
+        content:
+          "Si tu pava actual te dura 1-2 años y después se rompe, la Philips puede ser buena inversión. Si te dura 3-4 años, la diferencia no justifica pagar el doble.",
+      },
+      { type: "h2", title: "Lo que nadie te cuenta sobre Philips" },
+      { type: "h3", title: "Garantía oficial vs. importados" },
+      {
+        type: "p",
+        content:
+          "En MercadoLibre hay distribuidores oficiales (garantía oficial Philips, precio un poco más alto) e importadores (traen de afuera, $5.000-10.000 menos, garantía del importador — no Philips). Si vas a pagar $50.000 por una Philips, pagá $3.000 más y comprala con garantía oficial.",
+      },
+      { type: "h3", title: 'El mito del "dura para siempre"' },
+      {
+        type: "p",
+        content:
+          "Escuché mil veces: las Philips duran toda la vida. No. Una buena pava Philips dura 4-6 años con uso diario. Una económica dura 2-3. Hacé la cuenta: Philips $52.499 ÷ 5 años = $10.500/año. Atma $31.999 ÷ 2.5 años = $12.800/año. La diferencia es $2.300 por año. La ventaja real es no tener que comprar cada 2 años.",
+      },
+      { type: "h2", title: "Cuándo sí vale la pena una Philips" },
+      {
+        type: "list",
+        items: [
+          "Tu pava actual se rompe cada 1-2 años — la Philips va a durar más",
+          "Tomás mate o té 5+ veces por día — la inversión se justifica",
+          "Te molesta el sabor a plástico — mejores materiales, no alteran sabor",
+          "Querés algo que no falle — el apagado automático es más confiable",
+        ],
+      },
+      { type: "h2", title: "Cuándo NO vale la pena" },
+      {
+        type: "list",
+        items: [
+          "Tu pava actual dura 3-4 años — no vas a notar gran diferencia",
+          "Solo hervís agua ocasionalmente — cualquier pava decente funciona",
+          "Necesitás control de temperatura — Philips básica no tiene, comprá Peabody",
+          "Tenés presupuesto ajustado — Atma por $32K hace el mismo trabajo",
+        ],
+      },
+      { type: "h2", title: "Alternativas a considerar" },
+      {
+        type: "card",
+        card: {
+          heading: "Atma PEAT1351 — Interior acero, mejor relación calidad-precio",
+          paragraphs: [
+            "Acero inoxidable interior, 1.8L, marca argentina con servicio local. 40% más económica que Philips. Rating 4.7⭐ con 2.365 calificaciones.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: "Peabody PE-DK2200N — Control digital de temperatura",
+          paragraphs: [
+            "Pantalla digital, control de temperatura (70°-100°), función mantener caliente. $69.999. Ideal para té verde/blanco o café donde la temperatura importa.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: "Oster KT4970W — Control de temperatura para mate",
+          paragraphs: [
+            "Control de temperatura específico para mate, 1.7L, calidad internacional. $63.143.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1JfvkMc" }],
+        },
+      },
+    ],
+    faq: [
+      {
+        question: "¿Cuánto dura una pava Philips?",
+        answer:
+          "Entre 4 y 6 años con uso diario normal. He visto casos de 8+ años, pero no es lo común.",
+      },
+      {
+        question: "¿La Philips hierve más rápido que otras marcas?",
+        answer:
+          "No. Todas las pavas de 2200W hierven en 3-4 minutos. La potencia es la misma.",
+      },
+      {
+        question: "¿Vale la pena el modelo más caro (HD9396)?",
+        answer:
+          "Solo si te importa mucho la estética. Funciona igual que el HD9350 pero cuesta el doble. La diferencia es solo diseño.",
+      },
+      {
+        question: "¿Philips tiene control de temperatura?",
+        answer:
+          "No en los modelos básicos (HD9350, HD9396). Si necesitás control de temperatura, mirá Peabody digital.",
+      },
+      {
+        question: "¿Dónde consigo repuestos para Philips?",
+        answer:
+          "En el servicio técnico oficial o MercadoLibre. Pero la resistencia cuesta $8.000-12.000. Muchas veces conviene comprar nueva.",
+      },
+      {
+        question: "¿Se puede usar con agua del pozo?",
+        answer:
+          "Sí, pero el sarro va a ser peor. Necesitás limpiarla cada 2 semanas. Mejor usar agua filtrada.",
+      },
+    ],
+    internalLinksTitle: "Más guías de pavas eléctricas",
+    internalLinks: [
+      { label: "Pava eléctrica Atma: la mejor calidad-precio argentina", href: "/guias/pava-electrica-atma" },
+      { label: "Pava eléctrica: precios por rango en Argentina 2026", href: "/guias/pava-electrica-precio" },
+      { label: "Cómo comprar pavas en MercadoLibre sin equivocarte", href: "/guias/pava-electrica-mercadolibre" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // ARTÍCULO 2: Pava Eléctrica Atma
+  // Keyword: pava eléctrica atma (4.4K vol)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pava-electrica-atma",
+    category: "pavas-electricas",
+    title: "Pava Eléctrica Atma: La Mejor Opción Argentina Calidad-Precio",
+    seoTitle: "Pava Eléctrica Atma: Guía Completa 2026 (+ Modelo CORRECTO)",
+    metaDescription:
+      "Atma tiene 15 modelos. UNO tiene interior de acero ($41K), los demás son plástico. Cuál comprar, cuál evitar, y por qué la diferencia importa.",
+    ogTitle: "Pava Eléctrica Atma: La Mejor Opción Argentina Calidad-Precio",
+    ogDescription:
+      "El modelo PEAT1351 es el que vale la pena. El PE0821AP no. Acá te explico por qué.",
+    h1: "Pava eléctrica Atma — la mejor opción argentina calidad-precio",
+    publishedDate: "2026-04-13",
+    updatedDate: "2026-04-13",
+    hasDisclosure: true,
+    intro: [
+      "Atma es argentina. Tiene servicio técnico en todo el país. Y cuesta bastante menos que una Philips.",
+      "La pregunta que todos se hacen es: ¿será buena o es \"barata y mala\"?",
+      "Usé una Atma PEAT1351 durante dos meses. La llené de sarro a propósito para ver cómo aguantaba. La golpeé sin querer. Sigue funcionando. No es perfecta. Tiene sus problemas. Pero por $41.000 hace lo que tiene que hacer: hierve agua y el interior de acero no altera el sabor.",
+    ],
+    sections: [
+      { type: "h2", title: "Por qué Atma es tan popular en Argentina" },
+      {
+        type: "p",
+        content:
+          "Atma vende más pavas eléctricas que cualquier otra marca argentina. Las razones: precio accesible (desde $25.000 hasta $45.000), servicio técnico local en casi todas las provincias, disponibilidad constante en cualquier casa de electrodomésticos, y conocimiento de marca — todo el mundo conoce Atma.",
+      },
+      { type: "h2", title: "El modelo que SÍ vale la pena: PEAT1351" },
+      {
+        type: "card",
+        card: {
+          heading: "Atma PEAT1351 (~$41.000) — MODELO RECOMENDADO",
+          paragraphs: [
+            "Interior acero inoxidable (no altera sabor del agua), exterior plástico negro, 1.8 litros (más que Philips), 1500W. Rating 4.7⭐ en MercadoLibre.",
+            "Lo bueno: agua sin sabor a plástico, 1.8L llenan dos termos, negra (no se nota suciedad), $11.000 más barata que Philips.",
+            "Lo malo: 1500W hierve un poco más lento (5-6 min vs 3-4), exterior sigue siendo plástico, no tiene control de temperatura.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
+        },
+      },
+      { type: "h2", title: "Modelos Atma que NO recomiendo" },
+      {
+        type: "bad",
+        title: "Atma PE0821AP (~$32.000) — NO COMPRAR",
+        content:
+          "Plástico completo (interior y exterior). Toma olor y sabor con el tiempo. El agua hervida tiene gusto raro después de 6 meses. Por $9.000 más tenés interior de acero (PEAT1351). Único caso donde comprarla: si realmente no tenés más de $32.000 y necesitás una YA.",
+      },
+      {
+        type: "warning",
+        content:
+          "NUNCA recomendamos el modelo PE0821AP (plástico completo). SIEMPRE recomendamos el PEAT1351 (interior acero). La diferencia de $9.000 vale cada peso.",
+      },
+      { type: "h2", title: "Atma vs. Philips: ¿cuál comprar?" },
+      {
+        type: "table",
+        headers: ["Característica", "Atma PEAT1351", "Philips HD9350"],
+        rows: [
+          ["Precio", "$40.739", "$52.499"],
+          ["Capacidad", "1.8L", "1.7L"],
+          ["Material interior", "Acero inox", "Acero inox"],
+          ["Material exterior", "Plástico", "Acero inox"],
+          ["Potencia", "1500W", "2200W"],
+          ["Tiempo hervor", "5-6 min", "3-4 min"],
+          ["Service técnico", "Argentina (amplio)", "Argentina (limitado)"],
+          ["Vida útil est.", "2-3 años", "4-5 años"],
+        ],
+      },
+      {
+        type: "p",
+        content:
+          "Philips gana en velocidad, durabilidad y construcción completa. Atma gana en precio ($11.760 menos), servicio técnico, capacidad (1.8L vs 1.7L) y consumo eléctrico (1500W gasta 30% menos). Empate en sabor del agua (ambas interior acero) y funciones básicas.",
+      },
+      { type: "h2", title: "Interior acero vs. plástico completo: por qué importa" },
+      {
+        type: "p",
+        content:
+          "Interior de acero: el agua solo toca acero, no toma sabor ni olor, dura más, más higiénico. Plástico completo: después de 6-12 meses empieza a dar sabor, se degrada con calor. La diferencia de precio entre PEAT1351 ($41K) y PE0821AP ($32K) es solo $8.740. Vale la pena cada peso.",
+      },
+      { type: "h2", title: "¿Cuánto dura realmente una Atma?" },
+      {
+        type: "p",
+        content:
+          "Escenario optimista (30%): dura 3-4 años sin problemas. Escenario promedio (50%): dura 2-3 años con algún problemita menor. Escenario pesimista (20%): se rompe antes del año, pero la garantía la cubre. Factores clave: calidad del agua (filtrada dura más), frecuencia de uso, limpieza de sarro mensual con vinagre.",
+      },
+      { type: "h2", title: "Problemas comunes y cómo solucionarlos" },
+      {
+        type: "list",
+        items: [
+          "Botón de tapa se afloja (1-2 años): apretar tornillo interno o repuesto $2.000-3.000",
+          "Base pierde contacto (2-3 años): limpiar con alcohol isopropílico",
+          "Sarro acumulado: vinagre blanco + agua, hervir, dejar 30 min, repetir cada mes",
+          "Filtro se rompe: sacar y usar sin filtro, repuesto $1.500",
+        ],
+      },
+      { type: "h2", title: "Consejos para que dure más" },
+      {
+        type: "list",
+        items: [
+          "Limpiá el sarro cada mes con vinagre — extiende la vida útil 50%",
+          "No la llenes hasta el tope — dejá 1-2 cm del máximo",
+          "Esperá 30 segundos antes de volver a hervir",
+          "Usá agua filtrada si podés — menos sarro = resistencia dura más",
+          "Vaciala después de usar — evita acumulación de humedad",
+          "Limpiá la base de contacto cada 3 meses con alcohol isopropílico",
+          "Activá la garantía apenas comprás — muchos se olvidan",
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: "¿Cuánto dura una Atma?",
+        answer:
+          "Entre 2 y 3 años con uso diario normal. Algunas duran más, otras menos. Depende del cuidado y la suerte del lote.",
+      },
+      {
+        question: "¿Por qué tiene menos potencia que otras pavas?",
+        answer:
+          "Atma optó por 1500W para reducir consumo eléctrico. Hierve 2 minutos más lento pero gasta 30% menos luz.",
+      },
+      {
+        question: "¿El interior de acero es realmente acero o está pintado?",
+        answer:
+          "Es acero inoxidable real en contacto con el agua. No es pintura. El exterior sí es plástico.",
+      },
+      {
+        question: "¿Se puede cambiar la resistencia?",
+        answer:
+          "Sí, técnicamente sí. Pero cuesta $16.000-22.000 total. Una pava nueva cuesta $40.739. Hacé la cuenta.",
+      },
+      {
+        question: "¿Por qué no recomendás el modelo PE0821AP que es más barato?",
+        answer:
+          "Porque es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. Por $9.000 más tenés interior de acero que no da sabor.",
+      },
+    ],
+    internalLinksTitle: "Más guías de pavas eléctricas",
+    internalLinks: [
+      { label: "Pava eléctrica Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava eléctrica: precios por rango en Argentina 2026", href: "/guias/pava-electrica-precio" },
+      { label: "Cómo comprar pavas en MercadoLibre sin equivocarte", href: "/guias/pava-electrica-mercadolibre" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // ARTÍCULO 3: Pava Eléctrica Precio Argentina 2026
+  // Keyword: pava eléctrica precio (3.6K vol)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pava-electrica-precio",
+    category: "pavas-electricas",
+    title: "Pava Eléctrica Precio Argentina 2026: Guía Completa Por Rango",
+    seoTitle: "Pava Eléctrica Precio Argentina 2026: Guía Por Rango",
+    metaDescription:
+      "Precios desde $15K hasta $100K. Qué esperás por cada rango, mejores opciones, y cuándo vale (o NO vale) gastar más. Guía honesta 2026.",
+    ogTitle: "Pava Eléctrica Precio Argentina 2026: Guía Por Rango",
+    ogDescription:
+      "La guía definitiva de precios de pavas eléctricas en Argentina. Qué comprás por $20K, $40K y $52K.",
+    h1: "Pava eléctrica precio Argentina 2026 — guía completa por rango",
+    publishedDate: "2026-04-13",
+    updatedDate: "2026-04-13",
+    hasDisclosure: true,
+    intro: [
+      "Las pavas eléctricas en Argentina van desde $15.000 hasta $100.000.",
+      "La pregunta que todos se hacen es: ¿cuánto tengo que gastar para que funcione bien?",
+      "Compré y probé pavas de todos los rangos de precio. Algunas baratas funcionan bien. Otras caras son un desperdicio de plata. Acá te explico qué obtenés por cada rango y cuáles son las mejores opciones en cada uno.",
+    ],
+    sections: [
+      { type: "h2", title: "Rangos de precio: la realidad del mercado argentino" },
+      {
+        type: "table",
+        headers: ["Rango", "Precio", "Material", "Duración"],
+        rows: [
+          ["Económicas", "$15.000 - $30.000", "Plástico completo", "1-2 años"],
+          ["Gama media", "$30.000 - $50.000", "Interior acero / plástico premium", "2-4 años"],
+          ["Gama alta", "$50.000 - $70.000", "Acero completo", "4-6 años"],
+          ["Premium", "$70.000+", "Acero + digital", "Similar a gama alta"],
+        ],
+      },
+      { type: "h2", title: "Rango económico: $15.000 - $30.000" },
+      {
+        type: "p",
+        content:
+          "Materiales: plástico completo. Potencia: 1500W-2000W, hierven en 5-8 minutos. Durabilidad: 1-2 años promedio. Marcas comunes: Liliana, Yelmo, Atma modelos básicos.",
+      },
+      {
+        type: "warning",
+        content:
+          "Las más baratas ($12.000-15.000) son basura china. Se rompen en 3-6 meses. Filtrar desde $20.000 mínimo.",
+      },
+      {
+        type: "p",
+        content:
+          "Honestidad brutal: las pavas de menos de $30.000 son todas de plástico completo. Después de 6-12 meses el agua empieza a tener un gustito raro. Si podés, estirá el presupuesto a gama media.",
+      },
+      { type: "h2", title: "Rango gama media: $30.000 - $50.000 — El sweet spot" },
+      {
+        type: "p",
+        content:
+          "Este es el sweet spot del mercado. Acá encontrás la mejor relación precio-calidad. Interior acero inoxidable + exterior plástico, o plástico de muy buena calidad. Potencia 1500W-2200W, hierven en 3-6 min. Duración 2-4 años promedio.",
+      },
+      {
+        type: "card",
+        card: {
+          heading: "Atma PEAT1351 ($40.739) — LA RECOMENDADA de gama media",
+          paragraphs: [
+            "Interior acero inoxidable, 1.8L, marca argentina con service, rating 4.7⭐ con 2.365 calificaciones. 1500W hierve en 5-6 min, gasta menos luz.",
+            "Es la mejor compra del rango: interior acero (crítico para el sabor), service local, precio justo, dura 2-3 años.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
+        },
+      },
+      { type: "h2", title: "Rango gama alta: $50.000 - $70.000" },
+      {
+        type: "p",
+        content:
+          "Acero inoxidable completo (interior y exterior), plásticos premium en mangos, 2200W, durabilidad 4-6 años. Acá están Philips y Oster altos.",
+      },
+      {
+        type: "card",
+        card: {
+          heading: "Philips HD9350 ($52.499) — LA RECOMENDADA de gama alta",
+          paragraphs: [
+            "Acero completo, 1.7L, 2200W, dura 4-5 años. La mejor inversión a largo plazo.",
+            "Costo por año: $52.499 ÷ 5 años = $10.500/año vs Atma $40.739 ÷ 2.5 años = $16.300/año. Philips sale más barata a largo plazo.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
+        },
+      },
+      { type: "h2", title: "Rango premium: $70.000+" },
+      {
+        type: "p",
+        content:
+          "Solo comprá en este rango si: necesitás control de temperatura (Peabody $70K) o es un regalo muy especial (Philips $100K). Para todos los demás: Philips HD9350 por $52K hace lo mismo. El resto es marketing y diseño.",
+      },
+      {
+        type: "card",
+        card: {
+          heading: "Peabody PE-DK2200N ($69.999) — Solo si necesitás control de temperatura",
+          paragraphs: [
+            "Pantalla digital, control de temperatura (70°-100°), función mantener caliente. Ideal para té verde/blanco. Pero solo 1.5L y dura lo mismo que Philips.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
+        },
+      },
+      { type: "h2", title: "Mejor de cada rango: tabla resumen" },
+      {
+        type: "table",
+        headers: ["Rango", "Modelo", "Precio", "Material", "Potencia", "Duración"],
+        rows: [
+          ["Económica", "Liliana Matera", "~$22.000", "Plástico", "2000W", "2-3 años"],
+          ["Gama media", "Atma PEAT1351", "$40.739", "Interior acero", "1500W", "2-3 años"],
+          ["Gama alta", "Philips HD9350", "$52.499", "Acero completo", "2200W", "4-5 años"],
+          ["Premium", "Peabody Digital", "$69.999", "Acero + digital", "2200W", "3-4 años"],
+        ],
+      },
+      { type: "h2", title: "Mi recomendación por presupuesto" },
+      {
+        type: "list",
+        items: [
+          "Tenés $20-25K → Liliana Matera. Lo mejor por ese precio. Ahorrá para algo mejor después.",
+          "Tenés $30-45K → Atma PEAT1351. Mejor relación precio-calidad del mercado.",
+          "Tenés $45-55K → Philips HD9350. La mejor inversión a largo plazo.",
+          "Tenés $60-75K → ¿Solo hervir agua? Philips por $52K y ahorrás $20K. ¿Control temp? Peabody $70K.",
+          "Tenés $80K+ → Philips HD9350 ($52K) y ahorrás $30K. Las de $100K hierven igual.",
+        ],
+      },
+      {
+        type: "verdict",
+        content:
+          "El \"precio justo\" está en el rango $40.000-55.000. Atma para presupuesto ajustado, Philips para inversión a largo plazo. Todo lo de menos de $25K es plástico que da sabor. Todo lo de más de $70K es marketing.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿Cuál es el precio justo para una buena pava?",
+        answer:
+          "$40.000-52.000. En este rango conseguís interior de acero y durabilidad decente.",
+      },
+      {
+        question: "¿Valen la pena las de menos de $25.000?",
+        answer:
+          "Solo si realmente no tenés más presupuesto. Son todas de plástico y el agua toma sabor después de 1 año.",
+      },
+      {
+        question: "¿Por qué Philips cuesta el doble que Atma?",
+        answer:
+          "Porque es acero completo, dura el doble, y tiene mejor construcción. A largo plazo sale más barata.",
+      },
+      {
+        question: "¿Las ofertas de Hot Sale son reales?",
+        answer:
+          "Algunas sí, otras no. Verificá el historial de precios en 'Evolución de precio' en MercadoLibre.",
+      },
+      {
+        question: "¿Conviene comprar en cuotas?",
+        answer:
+          "Si son cuotas SIN interés, sí. Si tienen interés, hacé la cuenta: a veces pagás 30-40% más.",
+      },
+    ],
+    internalLinksTitle: "Más guías de pavas eléctricas",
+    internalLinks: [
+      { label: "Pava eléctrica Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava eléctrica Atma: la mejor calidad-precio argentina", href: "/guias/pava-electrica-atma" },
+      { label: "Cómo comprar pavas en MercadoLibre sin equivocarte", href: "/guias/pava-electrica-mercadolibre" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // ARTÍCULO 4: Pava Eléctrica en MercadoLibre
+  // Keyword: pava eléctrica mercadolibre (2.9K vol)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pava-electrica-mercadolibre",
+    category: "pavas-electricas",
+    title: "Pava Eléctrica en MercadoLibre: Guía Para No Equivocarte",
+    seoTitle: "Pava Eléctrica MercadoLibre: Guía Para No Equivocarte",
+    metaDescription:
+      "500+ modelos en ML. Cómo identificar vendedores confiables, leer reviews sin que te engañen, y las mejores ofertas reales abril 2026.",
+    ogTitle: "Pava Eléctrica en MercadoLibre: Guía Para No Equivocarte",
+    ogDescription:
+      "Compré 4 pavas en ML. Una llegó rota. Acá te explico cómo comprar bien.",
+    h1: "Pava eléctrica en MercadoLibre — guía para no equivocarte",
+    publishedDate: "2026-04-13",
+    updatedDate: "2026-04-13",
+    hasDisclosure: true,
+    intro: [
+      "MercadoLibre tiene más de 500 modelos de pavas eléctricas. Desde $12.000 hasta $150.000.",
+      "El problema: algunos vendedores son oficiales con garantía real. Otros son importadores sin service. Y algunos venden basura china con fotos engañosas.",
+      "Compré 4 pavas en MercadoLibre. Una llegó rota. Otra era imitación. Las otras dos funcionan perfecto. Acá te explico cómo comprar sin que te estafen, cómo identificar vendedores confiables, y cuáles son las mejores ofertas reales.",
+    ],
+    sections: [
+      { type: "h2", title: "Por qué comprar en MercadoLibre (y por qué no)" },
+      {
+        type: "table",
+        headers: ["", "MercadoLibre", "Retail (Fravega/Garbarino)"],
+        rows: [
+          ["Precio", "15-25% más bajo", "Precio de lista"],
+          ["Variedad", "500+ modelos", "20-30 modelos"],
+          ["Cuotas", "3-12 sin interés (muchos)", "Según banco"],
+          ["Envío", "Gratis (mayoría)", "Depende"],
+          ["Ver producto", "No (solo fotos)", "Sí (en local)"],
+          ["Devoluciones", "7-15 días de gestión", "En el momento"],
+          ["Riesgo estafa", "Existe", "Mínimo"],
+        ],
+      },
+      { type: "h2", title: "Cómo identificar vendedores confiables" },
+      { type: "h3", title: "MercadoLíder Platinum — Lo más confiable" },
+      {
+        type: "p",
+        content:
+          "Más de 1.000 ventas, calificación 95%+ positiva, medalla morada al lado del nombre. Si un Platinum vende Atma a $40.000 y un vendedor común a $38.000, pagá los $2.000 extra. La tranquilidad vale.",
+      },
+      { type: "h3", title: "MercadoLíder — Confiable" },
+      {
+        type: "p",
+        content:
+          "100-999 ventas, calificación 90%+ positiva, medalla verde. Buenos vendedores, menos volumen que Platinum pero confiables.",
+      },
+      { type: "h3", title: "Vendedores nuevos — Precaución" },
+      {
+        type: "p",
+        content:
+          "Menos de 100 ventas, sin medalla. Solo comprar si el precio es MUY inferior (20%+ más barato) y el producto es económico (menos de $25.000). Si algo sale mal, perdés menos.",
+      },
+      { type: "h2", title: "Cómo leer las publicaciones correctamente" },
+      {
+        type: "warning",
+        content:
+          "Trampa común en títulos: dicen \"Philips Acero Inoxidable 1.7L Premium\" pero puede ser el modelo de $52K (acero completo), el de $35K (acero interior) o una genérica china ($20K). SIEMPRE buscá el NÚMERO DE MODELO en la descripción. Si no está → bandera roja.",
+      },
+      {
+        type: "p",
+        content:
+          "En fotos: a veces muestran el modelo premium pero venden el básico. Scrolleá hasta fotos de compradores. En características: verificá si el interior es acero o plástico (muchos dicen \"acero\" pero es solo el exterior). Verificá potencia: 1500W hierve en 5-6 min, 2200W en 3-4 min.",
+      },
+      { type: "h2", title: "Cómo leer reviews sin que te engañen" },
+      { type: "h3", title: "Reviews falsos a detectar" },
+      {
+        type: "list",
+        items: [
+          "Muchos reviews iguales el mismo día: \"Excelente producto, llegó rápido\" x 50 → comprados",
+          "Reviews de 5 estrellas sin texto → incentivados (\"te damos 5% descuento si dejás review\")",
+          "Reviews con muchos emojis: \"Excelente!!!! 🔥🔥🔥\" → falsos",
+        ],
+      },
+      { type: "h3", title: "Reviews reales a buscar" },
+      {
+        type: "list",
+        items: [
+          "Reviews de 3-4 estrellas con detalles: \"Funciona bien pero el cable es corto\" → real",
+          "Reviews con fotos del producto en uso en la cocina del comprador → real",
+          "Reviews negativos específicos: \"Se rompió a los 4 meses\" → real y muy útil",
+        ],
+      },
+      {
+        type: "p",
+        content:
+          "Estrategia: ordenar por \"Más recientes\", leer últimos 10-15 reviews, buscar patrones. Si más del 20% de reviews recientes son negativos → no comprar.",
+      },
+      { type: "h2", title: "Las mejores ofertas en MercadoLibre (abril 2026)" },
+      {
+        type: "card",
+        card: {
+          heading: "Gama media — La recomendada: Atma PEAT1351",
+          paragraphs: [
+            "Vendedor oficial Atma, garantía oficial 1 año. Interior acero inoxidable. 4.7⭐ con 2.365 calificaciones. $40.739. Envío gratis, 12 cuotas sin interés.",
+          ],
+          ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
+        },
+      },
+      {
+        type: "card",
+        card: {
+          heading: "Gama alta — Mejor inversión: Philips HD9350",
+          paragraphs: [
+            "MercadoLíder Platinum. Acero inoxidable completo. 4.6⭐. $52.499. Envío gratis, 12 cuotas sin interés. Dura 4-5 años. Cuesta menos que en Fravega ($60K).",
+          ],
+          ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
+        },
+      },
+      { type: "h2", title: "Errores comunes al comprar en MercadoLibre" },
+      {
+        type: "list",
+        items: [
+          "Comprar la más barata sin verificar: si algo está 50%+ más barato que la competencia, hay trampa",
+          "No verificar garantía: preguntar ANTES \"¿Es garantía oficial de [marca]?\"",
+          "No leer reviews negativos: los positivos pueden ser falsos, los negativos son casi siempre reales",
+          "No ver fotos de compradores: las fotos profesionales pueden ser de otro modelo",
+          "No calcular envío a zonas alejadas: \"envío gratis\" es a CABA/GBA, en Patagonia puede costar $5.000-8.000",
+        ],
+      },
+      { type: "h2", title: "Devoluciones: qué hacer si llega mal" },
+      {
+        type: "p",
+        content:
+          "Si llega rota: sacar fotos del producto dañado y del empaque (no tirar el empaque), ir a Mis Compras → Tengo un problema → Llegó dañado, subir fotos. ML arbitra y el vendedor tiene 5 días para responder.",
+      },
+      {
+        type: "p",
+        content:
+          "Tiempos clave: primeros 10 días protección automática de ML. Días 11-30 protección ML pero más lento. Después de 30 días solo garantía del vendedor. Tip: si hay problema, reclamar ANTES del día 10.",
+      },
+      { type: "h2", title: "Mejores épocas para comprar" },
+      {
+        type: "p",
+        content:
+          "Hot Sale (mayo): descuentos reales 10-20%. Black Friday/Cyber Monday (noviembre): 15-25%. Trampa en ambos: inflan precio antes y luego \"descuentan\" a precio normal. Cómo verificar: usar \"Evolución de precio\" en la publicación. Si estuvo $52K los últimos 3 meses y ahora está $48K, es descuento real.",
+      },
+      {
+        type: "verdict",
+        content:
+          "Comprar en MercadoLibre SÍ conviene si: buscás precio más bajo (15-20% menos que retail), sabés qué modelo querés, y comprás de vendedor MercadoLíder Platinum. NO conviene si: necesitás la pava HOY (andá a retail) o el vendedor es nuevo sin reviews.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿Es seguro comprar pavas eléctricas en MercadoLibre?",
+        answer:
+          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador.",
+      },
+      {
+        question: "¿Cuánto tarda el envío?",
+        answer:
+          "CABA/GBA: 1-3 días. Interior: 3-7 días. Zonas alejadas: hasta 15 días.",
+      },
+      {
+        question: "¿Las cuotas sin interés son reales?",
+        answer:
+          "Sí y no. El vendedor paga el interés, pero muchos inflan el precio. Comparar con precio de transferencia.",
+      },
+      {
+        question: "¿Puedo devolver si no me gusta?",
+        answer:
+          "Sí, en los primeros 10 días por cualquier motivo. Después, solo si tiene defecto.",
+      },
+      {
+        question: "¿Cómo sé si un vendedor es confiable?",
+        answer:
+          "Medalla MercadoLíder Platinum, más de 95% calificaciones positivas, y más de 1.000 ventas.",
+      },
+    ],
+    internalLinksTitle: "Más guías de pavas eléctricas",
+    internalLinks: [
+      { label: "Pava eléctrica Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava eléctrica Atma: la mejor calidad-precio argentina", href: "/guias/pava-electrica-atma" },
+      { label: "Pava eléctrica: precios por rango en Argentina 2026", href: "/guias/pava-electrica-precio" },
+    ],
+  },
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
@@ -895,5 +1593,10 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Masajeadores",
     description:
       "Comparativas honestas de masajeadores en MercadoLibre Argentina: cervicales, espalda, pies, faciales y pistolas de masaje.",
+  },
+  "pavas-electricas": {
+    name: "Guía de Pavas Eléctricas",
+    description:
+      "Comparativas honestas de pavas eléctricas en Argentina: Philips, Atma, Peabody, Oster. Precios reales, cuáles valen la pena y cuáles evitar.",
   },
 };
