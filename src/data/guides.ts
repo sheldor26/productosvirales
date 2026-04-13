@@ -942,7 +942,7 @@ export const guides: Guide[] = [
       { type: "h2", title: "Modelos Philips disponibles en Argentina" },
       {
         type: "image",
-        src: "/guias/pavas/philips-hd9350-acero.webp",
+        src: "/guias/pavas/philips-hd9350-acero.png",
         alt: "Philips HD9350 — pava eléctrica de acero inoxidable completo, modelo recomendado de gama alta",
       },
       { type: "h3", title: "Philips Daily Collection HD9350 (~$52.000)" },
@@ -968,7 +968,7 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "/guias/pavas/philips-hd9396-negra.webp",
+        src: "/guias/pavas/philips-hd9396-negra.png",
         alt: "Philips HD9396 — modelo premium negro, mismo funcionamiento que el HD9350 pero diseño superior",
       },
       { type: "h3", title: "Philips HD9396 (~$100.000) — El premium" },
@@ -1042,7 +1042,7 @@ export const guides: Guide[] = [
       { type: "h2", title: "Alternativas a considerar" },
       {
         type: "image",
-        src: "/guias/pavas/atma-peat1351-producto.webp",
+        src: "/guias/pavas/atma-peat1351-principal.png",
         alt: "Atma PEAT1351 — pava eléctrica con interior de acero inoxidable, modelo recomendado de gama media",
       },
       {
@@ -1064,6 +1064,11 @@ export const guides: Guide[] = [
           ],
           ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
         },
+      },
+      {
+        type: "image",
+        src: "/guias/pavas/comparacion-oster-kt4970w.png",
+        alt: "Oster KT4970W — pava eléctrica con control de temperatura para mate",
       },
       {
         type: "card",
@@ -1149,7 +1154,7 @@ export const guides: Guide[] = [
       { type: "h2", title: "El modelo que SÍ vale la pena: PEAT1351" },
       {
         type: "image",
-        src: "/guias/pavas/atma-peat1351-main.webp",
+        src: "/guias/pavas/atma-peat1351-principal.png",
         alt: "Atma PEAT1351 — producto principal, exterior blanco con detalles turquesa",
       },
       {
@@ -1166,20 +1171,25 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "/guias/pavas/atma-peat1351-lifestyle.webp",
+        src: "/guias/pavas/atma-lifestyle-infusiones.png",
         alt: "Atma PEAT1351 sirviendo agua para infusiones — capacidad 1.7 litros",
       },
       {
         type: "image",
-        src: "/guias/pavas/atma-peat1351-detalles.webp",
+        src: "/guias/pavas/atma-detalles-componentes.png",
         alt: "Atma PEAT1351 detalles: filtro removible, interruptor, conector 360°",
       },
       {
         type: "image",
-        src: "/guias/pavas/atma-peat1351-producto.webp",
-        alt: "Atma PEAT1351 — vista completa del producto con todos los accesorios",
+        src: "/guias/pavas/atma-mate-uso.png",
+        alt: "Atma PEAT1351 con mate — el agua caliente siempre lista para cebar",
       },
       { type: "h2", title: "Modelos Atma que NO recomiendo" },
+      {
+        type: "image",
+        src: "/guias/pavas/comparacion-atma-pe0821.png",
+        alt: "Atma PE0821AP — modelo de plástico completo que NO recomendamos",
+      },
       {
         type: "bad",
         title: "Atma PE0821AP (~$32.000) — NO COMPRAR",
@@ -1235,8 +1245,8 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "/guias/pavas/atma-peat1351-lifestyle.webp",
-        alt: "Atma PEAT1351 en uso — sirviendo infusiones en la cocina",
+        src: "/guias/pavas/atma-reviews-4.6-estrellas.png",
+        alt: "Atma PEAT1351 reviews en MercadoLibre — 4.6 estrellas con 3.007 calificaciones",
       },
       { type: "h2", title: "Consejos para que dure más" },
       {
@@ -1345,6 +1355,11 @@ export const guides: Guide[] = [
           "Este es el sweet spot del mercado. Acá encontrás la mejor relación precio-calidad. Interior acero inoxidable + exterior plástico, o plástico de muy buena calidad. Potencia 1500W-2200W, hierven en 3-6 min. Duración 2-4 años promedio.",
       },
       {
+        type: "image",
+        src: "/guias/pavas/atma-peat1351-principal.png",
+        alt: "Atma PEAT1351 — la mejor compra de gama media, interior acero inoxidable",
+      },
+      {
         type: "card",
         card: {
           heading: "Atma PEAT1351 ($40.739) — LA RECOMENDADA de gama media",
@@ -1360,6 +1375,11 @@ export const guides: Guide[] = [
         type: "p",
         content:
           "Acero inoxidable completo (interior y exterior), plásticos premium en mangos, 2200W, durabilidad 4-6 años. Acá están Philips y Oster altos.",
+      },
+      {
+        type: "image",
+        src: "/guias/pavas/philips-hd9350-acero.png",
+        alt: "Philips HD9350 — acero inoxidable completo, la mejor inversión a largo plazo",
       },
       {
         type: "card",
@@ -1380,7 +1400,7 @@ export const guides: Guide[] = [
       },
       {
         type: "image",
-        src: "/guias/pavas/peabody-dk2200n.webp",
+        src: "/guias/pavas/comparacion-peabody-dk2200n.png",
         alt: "Peabody PE-DK2200N — pava eléctrica digital con control de temperatura, pantalla LED",
       },
       {
@@ -1550,6 +1570,11 @@ export const guides: Guide[] = [
       },
       { type: "h2", title: "Las mejores ofertas en MercadoLibre (abril 2026)" },
       {
+        type: "image",
+        src: "/guias/pavas/atma-peat1351-principal.png",
+        alt: "Atma PEAT1351 — la recomendada de gama media en MercadoLibre",
+      },
+      {
         type: "card",
         card: {
           heading: "Gama media — La recomendada: Atma PEAT1351",
@@ -1558,6 +1583,11 @@ export const guides: Guide[] = [
           ],
           ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
         },
+      },
+      {
+        type: "image",
+        src: "/guias/pavas/philips-hd9350-acero.png",
+        alt: "Philips HD9350 — mejor inversión de gama alta en MercadoLibre",
       },
       {
         type: "card",
