@@ -6232,30 +6232,17 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
   },
   {
     id: 'MLA47183370',
-    title: "Pava Eléctrica Philips Hd9396 1.7l 2200w Color Negro Mate",
-    badge: 'trending',
+    title: 'Pava Eléctrica Philips HD9396 — 1.7L, Doble Pared y 6 Temp',
+    badge: 'viral',
     price: 100000.81,
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_608755-MLA99457405666_112025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_608755-MLA99457405666_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_608755-MLA99457405666_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_935278-MLA101667097953_122025-O.jpg",
-      "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/default.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/f3e8e940-f549-11ef-bad6-e9962bcd76e5-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/9cf818e0-723a-11f0-a459-cf21d0937aeb-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/d72276d0-0fda-11ec-8aae-e5acfdd60b03-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/93296a70-72fe-11f0-8778-e777036b3e93-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/cb0af1c0-f3be-11eb-8e0d-6f4af49bf82e-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/fec5f230-06ee-11ea-8e1e-273366cc763d-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/6d575650-dbc3-11ee-a55a-bbc538356ab8-m.svg"
-      ],
-    category: "Electrodomésticos y Aires Ac.",
+      'https://http2.mlstatic.com/D_NQ_NP_2X_608755-MLA99457405666_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_935278-MLA101667097953_122025-O.jpg',
+    ],
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-philips-hd9396-17l-2200w-color-negro-mate/p/MLA47183370',
     affiliateUrl: 'https://meli.la/1nfm8ft',
@@ -6264,7 +6251,141 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
     rating: 4.8,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
-    description: "Características generalesMarcaPhilipsModeloHD9396/90ColorNegroVoltaje220VOtrosCon termómetroSíCon corte automáticoSíCon indicador de aguaSíCon luz indicadora de funcionamientoSíEspecificacionesCon control de temperaturaSíCon función mateSíCaracterísticas de la estructuraMaterialesPlásticoCon filtroS",
+    description: 'Pava eléctrica Philips con doble pared aislante (exterior frío al tacto), control de temperatura de 40°C a 100°C con 6 configuraciones, pantalla en el mango, función de conservación del calor, interior acero inoxidable, filtro integrado, Controlador Strix, 1.7L, 2200W.',
+    pros: [
+      '4.8⭐ con 649 calificaciones',
+      'Doble pared — exterior frío al tacto aunque el agua esté a 95°C',
+      '6 temperaturas de 40°C a 100°C con pantalla en el mango',
+      'Keep warm — mantiene la temperatura seleccionada',
+      'Controlador Strix UK — estándar premium',
+      'Interior acero inoxidable apto alimentario',
+      'Diseño negro mate premium — la más elegante del cluster',
+      '1.7L + 2.200W — capacidad y potencia completas',
+    ],
+    cons: [
+      '$100.000 — el precio más alto del cluster por amplio margen',
+      'Función memoria NO especificada (la Peabody sí la tiene)',
+      'Tiempo exacto de keep warm NO especificado en ficha',
+      'Filtro sin especificación de micrones (la HD9350 tiene 200μ)',
+    ],
+    verdict: 'La Philips HD9396 es la única pava del sitio que podés tocar con el agua a 95°C adentro y el exterior no te quema. Eso es la doble pared. Tiene 6 temperaturas, keep warm y el diseño más premium del cluster. Con 4.8⭐ sobre 649 calificaciones, está validada. El precio de $100.000 es el más alto — si el presupuesto importa, la Peabody PE-DK2200N tiene features similares por $70.000.',
+    seoTitle: 'Pava Eléctrica Philips HD9396 — 1.7L, Doble Pared y 6 Temp',
+    metaDescription: 'Pava Philips HD9396: doble pared (exterior frío al tacto), 6 temperaturas 40–100°C, keep warm, filtro y Strix. 4.8⭐ / 649 calificaciones.',
+    ogTitle: 'Pava Eléctrica Philips HD9396 — Doble Pared, 6 Temperaturas 40–100°C y Keep Warm',
+    ogDescription: 'La Philips HD9396 tiene doble pared (exterior frío al tacto), pantalla en el mango, 6 temperaturas 40–100°C, keep warm y Controlador Strix. 4.8⭐ / 649 calificaciones.',
+    h1: 'Pava eléctrica Philips HD9396: doble pared, control de temperatura 40–100°C y keep warm',
+    articleBody: `La Philips HD9396 es una pava que podés tocar con el agua a 95°C adentro y el exterior no te quema. Eso es la doble pared: una capa aislante entre el recipiente interior y el exterior de plástico negro mate. En las seis pavas eléctricas que revisamos para este sitio, es la única que tiene ese sistema.
+
+4.8 estrellas sobre 649 calificaciones. Segunda en rating del cluster, detrás de la Peabody PE-DK2200N que tiene 4.9⭐ con 461 calificaciones.
+
+## El exterior frío al tacto
+
+En una pava normal, el cuerpo externo sube de temperatura junto con el agua. A 90°C adentro, el exterior puede estar a 50–60°C, suficiente para causar una quemadura en segundos. La HD9396 mantiene el exterior a temperatura ambiente sin importar lo que haya adentro.
+
+Eso tiene dos implicaciones: podés manejarla sin riesgo si la rozás mientras hacés otra cosa en la cocina, y es más segura en contextos con chicos cerca.
+
+## 6 temperaturas: de 40°C a 100°C
+
+El control de temperatura tiene seis posiciones. La pantalla está integrada en el mango (no en el cuerpo, como en otras pavas digitales), lo que permite leer la temperatura sin tener que inclinarte o acercarte al cuerpo de la pava. Monitorea la temperatura seleccionada y la que tiene el agua en tiempo real mientras calienta.
+
+Los rangos útiles en la práctica: mate 70°C–75°C (la yerba no se quema), té verde 75°C–80°C, té negro y café de filtro 90°C–95°C, agua para cocinar 100°C. Y 40°C para agua tibia de bebé.
+
+## Keep warm: conservación del calor activa
+
+Una vez que el agua llega a la temperatura seleccionada, la función de conservación del calor la mantiene ahí. Philips no especifica un tiempo exacto en esta ficha. Comparando con el cluster: la Peabody PE-DK2200N especifica explícitamente 2 horas de keep warm.
+
+## El diseño
+
+Negro mate con una franja plateada en la base. Es la pava más premium visualmente del cluster. La pantalla en el asa es un detalle de diseño que Philips usa para mantener el cuerpo limpio de botones — sin logos ni pantallas en el frente, solo el cuerpo cilíndrico negro. La información la ves cuando agarrás la pava por el mango.
+
+## Lo que comparte con el resto del cluster
+
+Interior en acero inoxidable apto para uso alimentario. Filtro integrado. Controlador Strix. Tapa de apertura por resorte. Guardacable. Base giratoria 360°. Apagado automático. Protección contra hervido sin agua. Capacidad 1.7L, 2200W de potencia.
+
+## Respecto a la otra Philips del sitio
+
+La HD9350/90 también es Philips y también tiene acero inoxidable SUS304 y Controlador Strix, pero no tiene control de temperatura ni keep warm. Corta a 100°C y punto. Es la versión básica de la línea. La HD9396 es la versión premium: agrega la doble pared, el control de temperatura con display en el mango y la función de conservación del calor. El precio refleja esa diferencia.
+
+## Calificaciones
+
+4.8⭐ sobre 649 calificaciones. Las fotos de compradores muestran la pava en uso en cocinas argentinas, con la pantalla del mango visible. La distribución de calificaciones muestra 5 estrellas claramente dominante.`,
+    specs: [
+      { label: 'Marca', value: 'Philips' },
+      { label: 'Modelo', value: 'HD9396' },
+      { label: 'Color', value: 'Negro mate + franja plateada' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Potencia', value: '2.200W' },
+      { label: 'Capacidad', value: '1.7L (7 tazas)' },
+      { label: 'Material interior', value: 'Acero inoxidable apto alimentario' },
+      { label: 'Material exterior', value: 'Plástico negro — doble pared aislante' },
+      { label: 'Doble pared', value: 'Sí — exterior frío al tacto' },
+      { label: 'Control de temperatura', value: '6 configuraciones (40°C a 100°C)' },
+      { label: 'Pantalla', value: 'En el mango — muestra temp seleccionada y real' },
+      { label: 'Keep warm', value: 'Sí — tiempo no especificado en ficha' },
+      { label: 'Controlador', value: 'Strix (Reino Unido)' },
+      { label: 'Filtro', value: 'Integrado (porosidad no especificada)' },
+      { label: 'Base giratoria', value: 'Sí — 360°' },
+      { label: 'Tapa', value: 'Apertura por resorte' },
+      { label: 'Guardacable', value: 'Sí' },
+      { label: 'Protección hervido sin agua', value: 'Sí' },
+      { label: 'Rating', value: '4.8 ⭐ (649 calificaciones — incluye opiniones de otros países)' },
+    ],
+    faq: [
+      {
+        question: '¿Qué es la doble pared en la pava Philips HD9396?',
+        answer:
+          'Es una capa aislante entre el recipiente interior y el exterior. El exterior no se calienta aunque el agua adentro esté a 90–95°C. Es el único modelo del sitio con esta característica.',
+      },
+      {
+        question: '¿Cuántas temperaturas tiene la Philips HD9396?',
+        answer:
+          'Seis configuraciones entre 40°C y 100°C. Mate (70–75°C), té verde, té negro, café, comida infantil y agua para cocinar.',
+      },
+      {
+        question: '¿La pava mantiene el calor después de hervir?',
+        answer:
+          'Sí, tiene función de conservación del calor. Philips no especifica un tiempo máximo en la ficha. La Peabody PE-DK2200N especifica 2 horas.',
+      },
+      {
+        question: '¿Dónde está la pantalla?',
+        answer:
+          'En el mango. Muestra la temperatura seleccionada y la temperatura real del agua en tiempo real. El cuerpo queda libre de botones y displays.',
+      },
+      {
+        question: '¿Es la misma que la Philips HD9350 que también está en el sitio?',
+        answer:
+          'No. La HD9350 es la versión básica: sin control de temperatura ni keep warm. La HD9396 es la premium con doble pared, 6 temperaturas y conservación del calor.',
+      },
+      {
+        question: '¿Tiene filtro antical?',
+        answer:
+          'Sí. La ficha especifica filtro integrado. No se especifica la porosidad en micrones como en la HD9350 (que tiene 200 micrones).',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Philips HD9396 Negro Mate',
+      description:
+        'Hervidor eléctrico Philips con doble pared aislante (exterior frío al tacto), control de temperatura de 40°C a 100°C con 6 configuraciones, pantalla en el mango, función de conservación del calor, interior en acero inoxidable, filtro integrado, Controlador Strix, 1.7L, 2200W, base giratoria 360°.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'HD9396',
+      color: 'Negro mate',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1nfm8ft',
+        priceCurrency: 'ARS',
+        price: 100000,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '649',
+      },
+    },
+    relatedProducts: ['MLA24601443', 'MLA47275624', 'MLA49747515', 'MLA11145436'],
   },
   {
     id: 'MLA19589524',
