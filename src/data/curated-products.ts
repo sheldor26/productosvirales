@@ -5973,8 +5973,8 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   },
   {
     id: 'MLA11145436',
-    title: 'Pava Electrica Oster Con Control Temperatura Mate Kt4970w Color Blanco',
-    badge: 'trending',
+    title: 'Pava Eléctrica Oster con Control de Temperatura — Función Mate, 1.7L',
+    badge: 'viral',
     price: 63143.97,
     originalPrice: 78748,
     currency: 'ARS',
@@ -5994,7 +5994,127 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     rating: 4.7,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
-    description: 'BEBIDAS CALIENTES A TU GUSTO. Para mejorar el sabor, las bebidas calientes deben prepararse a determinada temperatura. El control que incorpora este modelo permite que cada mate, té o café sea perfecto. La seguridad es primordial, por eso, cuando el agua está lista, la pava se apaga automáticamente.',
+    description: 'Pava eléctrica Oster 1.7L con control de temperatura variable (perilla giratoria) y función mate. 1850W, corte automático, resistencia oculta, filtro malla fina removible, base giratoria 360°. Color blanco, 220V. 4.7⭐ con 1.412 calificaciones.',
+    pros: [
+      '4.7⭐ con 1.412 calificaciones — el producto más validado del sitio',
+      'Control de temperatura variable con función mate explícita',
+      '1.850W — calienta rápido',
+      'Resistencia oculta — menos sarro, más fácil de limpiar',
+      'Filtro de malla fina removible',
+      'Base giratoria 360° + enrollador de cable',
+      'Corte automático por temperatura y por nivel de agua',
+    ],
+    cons: [
+      'Material exterior plástico — no acero inoxidable',
+      'Sin pantalla digital — el control es analógico (perilla)',
+      'No indica la temperatura exacta en grados',
+      'Sin infusor incluido',
+    ],
+    verdict: 'El agua hirviendo arruina el mate. A 100°C la yerba se cocina, se vuelve amarga y pierde sabor. La temperatura correcta está entre 70°C y 80°C. Esta Oster tiene un botón de control variable con función mate marcada explícitamente — el agua se calienta hasta ese punto y se apaga sola. Con 4.7⭐ sobre 1.412 calificaciones y 821 comentarios, es el producto más validado de todo el sitio.',
+    seoTitle: 'Pava Eléctrica Oster con Control de Temperatura — Función Mate, 1.7L',
+    metaDescription: 'Pava eléctrica Oster BVSTKT4970W con control de temperatura variable para mate perfecto. 1.7L, 1850W, apagado automático, filtro removible. 4.7⭐ con 1.412 calificaciones.',
+    ogTitle: 'Pava eléctrica Oster con control de temperatura — para el mate perfecto, no a 100°',
+    ogDescription: 'Control de temperatura variable, función mate, 1.7L y 1850W. Apagado automático, filtro removible, resistencia oculta. 4.7⭐ sobre 1.412 calificaciones. Ver precio en ML →',
+    h1: 'Pava eléctrica Oster con control de temperatura — para el mate a punto, no a 100°',
+    articleBody: `El agua hirviendo arruina el mate. No es opinión — a 100°C la yerba se cocina, se vuelve amarga y pierde los compuestos que le dan el sabor. La temperatura correcta para el mate está entre 70°C y 80°C. Y para llegar exactamente ahí sin adivinar, hay que tener algo que mida la temperatura del agua antes de servir.
+
+La Oster BVSTKT4970W tiene un botón de control variable de temperatura. No es un display digital ni un termómetro de pantalla — es una perilla que te permite seleccionar el rango de temperatura que necesitás. La función mate está marcada explícitamente en el control. El agua se calienta hasta esa temperatura y la pava se apaga sola.
+
+## Cómo funciona el control
+
+La perilla de temperatura es el diferenciador central de este modelo. Girás hasta la posición que necesitás — mate, té verde, té negro, café — y la pava calienta el agua hasta ese punto. El corte automático entra cuando la temperatura se alcanza. Si la pava llega al mínimo de agua requerido y no hay suficiente líquido para operar de forma segura, también se corta. La luz indicadora muestra cuando la pava está activa.
+
+No tiene pantalla digital. El control es analógico — perilla giratoria, escala simple. Para quien quiere precisión al grado con display, este no es el modelo. Para quien quiere poder para el mate del día a día sin complicarse con una interfaz, es lo que necesita.
+
+## La resistencia oculta
+
+La resistencia de calentamiento está escondida bajo el fondo del jarro — no entra en contacto directo con el agua. Eso tiene dos efectos prácticos: menos acumulación de sarro sobre la resistencia con el tiempo, y más fácil de limpiar por dentro porque no hay componente metálico expuesto al que se adhieran los depósitos calcáreos.
+
+El filtro de malla fina en el pico es removible. Se saca, se limpia bajo el grifo, y se vuelve a colocar. También atrapa parte del sarro que pueda haber pasado.
+
+## La capacidad y la velocidad
+
+1.7 litros es el máximo — el equivalente a algo más de 10 mates bien servidos con el cebador lleno. La potencia de 1.850W calienta el agua rápido. La base giratoria de 360° permite colocar el jarro en cualquier ángulo sobre la base — no hay que alinearlo.
+
+El cable sobrante se enrolla bajo la base para que no quede en la mesada.
+
+## Lo que dicen 1.412 compradores
+
+El resumen de ML sobre 821 comentarios: "rápida y eficaz al calentar el agua, diseño cómodo y sólido, permite regular la temperatura, ideal para preparar té y mate, fácil de limpiar, corte automático que garantiza seguridad". La distribución de calificaciones muestra una base amplia de 5 estrellas con pocas críticas — el promedio de 4.7 sobre este volumen indica consistencia real, no un promedio de pocas calificaciones.`,
+    specs: [
+      { label: 'Marca', value: 'Oster' },
+      { label: 'Modelo', value: 'BVSTKT4970W-054' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Potencia', value: '1.850W' },
+      { label: 'Capacidad', value: '1.7L' },
+      { label: 'Material', value: 'Plástico' },
+      { label: 'Control de temperatura', value: 'Sí — variable (perilla giratoria)' },
+      { label: 'Función mate', value: 'Sí' },
+      { label: 'Pantalla digital', value: 'No' },
+      { label: 'Corte automático', value: 'Sí' },
+      { label: 'Filtro', value: 'Sí — malla fina removible' },
+      { label: 'Base giratoria', value: 'Sí — 360°' },
+      { label: 'Resistencia', value: 'Oculta (no expuesta al agua)' },
+      { label: 'Almacenamiento de cable', value: 'Sí — bajo la base' },
+      { label: 'Rating', value: '4.7 ⭐ (1.412 calificaciones — 821 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Tiene pantalla digital para ver la temperatura?',
+        answer:
+          'No. El control de temperatura es una perilla analógica giratoria. Tiene posiciones marcadas para las distintas infusiones (incluida la función mate) pero no muestra la temperatura en un display.',
+      },
+      {
+        question: '¿Para qué temperatura se usa la función mate?',
+        answer:
+          'El rango ideal para el mate es entre 70°C y 80°C. La posición "mate" del control está calibrada para ese rango. A 100°C el agua hierve y quema la yerba.',
+      },
+      {
+        question: '¿Cuántos mates rinde con la capacidad de 1.7L?',
+        answer:
+          'Con 1.7 litros podés cebar entre 10 y 14 mates dependiendo del tamaño de la calabaza y cuánto llenás el cebador.',
+      },
+      {
+        question: '¿El filtro es fácil de limpiar?',
+        answer:
+          'Sí. El filtro de malla fina en el pico es removible — se saca, se enjuaga bajo el grifo y se vuelve a colocar.',
+      },
+      {
+        question: '¿La resistencia se puede ver por dentro?',
+        answer:
+          'No. La resistencia está oculta bajo el fondo del jarro, sin contacto directo con el agua. Eso reduce la acumulación de sarro y facilita la limpieza.',
+      },
+      {
+        question: '¿Cuál es la mejor pava eléctrica en Argentina?',
+        answer:
+          'Depende del uso. Para quienes toman mate, una pava con control de temperatura variable como esta Oster es la más recomendada porque permite ajustar la temperatura exacta sin hervir el agua.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Oster BVSTKT4970W — Control de Temperatura Variable, Función Mate, 1.7L',
+      description:
+        'Pava eléctrica Oster 1.7L con control de temperatura variable (perilla giratoria) y función mate. 1850W, corte automático, resistencia oculta, filtro malla fina removible, base giratoria 360°. Sin pantalla digital. Color blanco, 220V.',
+      brand: { '@type': 'Brand', name: 'Oster' },
+      model: 'BVSTKT4970W-054',
+      color: 'Blanco',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1JfvkMc',
+        priceCurrency: 'ARS',
+        price: 63143,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '1412',
+      },
+    },
+    relatedProducts: ['MLA49747515', 'MLA24601443', 'MLA47275624', 'MLA47183370'],
   },
 ];
 
