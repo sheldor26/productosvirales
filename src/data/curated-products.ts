@@ -5902,37 +5902,19 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
   },
   {
     id: 'MLA24601443',
-    title: "Jarra eléctrica Philips HD9350/90 Daily Collection",
+    title: 'Pava Eléctrica Philips HD9350 — Acero SUS304, 1.7L',
     badge: 'trending',
     price: 52499.25,
     originalPrice: 69999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_746447-MLA99924831789_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_746447-MLA99924831789_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_864572-MLA99924861817_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_864572-MLA99924861817_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_703341-MLA90472638488_082025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_703341-MLA90472638488_082025-F.webp",
-      "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/default.svg",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_746447-MLA99924831789_112025-F.webp",
-      "https://http2.mlstatic.com/storage/logos-api-admin/f3e8e940-f549-11ef-bad6-e9962bcd76e5-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/9cf818e0-723a-11f0-a459-cf21d0937aeb-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/d72276d0-0fda-11ec-8aae-e5acfdd60b03-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/93296a70-72fe-11f0-8778-e777036b3e93-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/cb0af1c0-f3be-11eb-8e0d-6f4af49bf82e-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/fec5f230-06ee-11ea-8e1e-273366cc763d-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/6d575650-dbc3-11ee-a55a-bbc538356ab8-m.svg"
-      ],
-    category: "Electrodomésticos y Aires Ac.",
+      'https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_746447-MLA99924831789_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_864572-MLA99924861817_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_703341-MLA90472638488_082025-F.webp',
+    ],
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/jarra-electrica-philips-hd935090-daily-collection/p/MLA24601443',
     affiliateUrl: 'https://meli.la/2kpg1Zr',
@@ -5941,7 +5923,144 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
     rating: 4.7,
     soldQuantity: 500,
     pastelColor: 'var(--pastel-coral)',
-    description: "¡Tené el agua caliente siempre lista! Con la jarra eléctrica Philips HD9350/90 vas a poder disfrutar de una bebida caliente en minutos. Ganá tiempo y prepará ese mate, cafecito o porqué no, esa sopa instantánea que tanto te gusta.",
+    description: 'Pava eléctrica Philips Daily Collection con cuerpo en acero inoxidable SUS304 apto para uso alimentario, filtro de micromalla desmontable de 200 micrones, Controlador Strix UK. 1.7L, 1850-2200W, base giratoria 360°, garantía 2 años.',
+    pros: [
+      'Acero inoxidable SUS304 — grado alimentario, sin transferencia de sabores',
+      'Filtro micromalla desmontable — captura partículas de cal de 200 micrones',
+      'Controlador Strix UK — el estándar premium en termostatos de hervidores',
+      'Garantía 2 años — la más larga del cluster de pavas',
+      'Certificación de eficiencia energética A',
+      'Tapa con resorte — apertura sin contacto con vapor',
+      'Llenado por tapa o por boquilla',
+    ],
+    cons: [
+      'Sin control de temperatura — solo hierve a 100°C',
+      'Sin función mate — no tiene selector de temperatura',
+      '85 calificaciones — volumen moderado vs ATMA (2.368) y Oster (1.412)',
+      'Precio más alto del cluster ($52.499)',
+    ],
+    verdict: 'Si vivís en zona de agua dura y buscás una pava que no transfiera sabores ni se rompa al año, la HD9350/90 tiene los componentes verificables para eso: SUS304, Controlador Strix y filtro desmontable. La garantía de 2 años es uno de los períodos más largos en la categoría dentro del mercado argentino. Lo que no tiene es control de temperatura — para mate, la Oster BVSTKT4970W lo resuelve con selector analógico.',
+    seoTitle: 'Pava Eléctrica Philips HD9350 — Acero SUS304, 1.7L',
+    metaDescription: 'Pava Philips HD9350: acero inoxidable SUS304, filtro micromalla 200 micrones, Controlador Strix UK y garantía 2 años. 4.7⭐ en MercadoLibre.',
+    ogTitle: 'Pava Eléctrica Philips HD9350 — Acero SUS304, Filtro Micromalla y Controlador Strix',
+    ogDescription: 'La Philips Daily Collection HD9350 tiene cuerpo en acero inoxidable SUS304, filtro micromalla desmontable de 200 micrones y Controlador Strix UK. 4.7⭐ | Garantía 2 años.',
+    h1: 'Pava eléctrica Philips Daily Collection HD9350: acero SUS304, filtro micromalla y Controlador Strix',
+    articleBody: `Si vivís en el Conurbano bonaerense, o en cualquier zona con agua dura, ya sabés lo que pasa después de unos meses con un hervidor de plástico: el fondo se tiñe de blanco, el agua sale con sabor raro y el filtro que traía de fábrica ya no filtra nada porque quedó incrustado en cal. La Philips HD9350/90 existe específicamente para ese problema.
+
+El cuerpo es en acero inoxidable SUS304, que es la misma certificación que se usa en instrumentos quirúrgicos y recipientes de almacenamiento de alimentos. El filtro de micromalla desmontable en la boquilla captura partículas de cal de hasta 200 micrones. Y el sistema de control térmico es un Controlador Strix fabricado en el Reino Unido, el mismo proveedor que usan las marcas premium de hervidores a nivel global.
+
+No tiene control de temperatura ni función mate. Eso es importante dejarlo claro desde acá.
+
+## El acero SUS304 no es solo un número de catálogo
+
+SUS304 (equivalente internacional AISI 304) no transfiere sabores ni olores al agua, y no se corroe con el uso cotidiano. La diferencia práctica con un interior de plástico o acero de menor grado se nota más después del año uno: el agua sigue teniendo el mismo sabor que el primer día porque el recipiente es químicamente inerte.
+
+## El filtro de micromalla: por qué 200 micrones importa
+
+El filtro está en la boquilla, se desmonta para limpiar y captura partículas de cal de 200 micrones o menos. Para tener referencia: un cabello humano mide entre 50 y 70 micrones, así que el filtro detiene partículas aproximadamente tres veces más grandes. No filtra microorganismos (para eso necesitás un purificador), pero sí las partículas sólidas que terminan flotando en la taza cuando el agua de la zona es dura.
+
+Lo que lo hace más práctico que los filtros fijos es que se puede sacar, enjuagar bajo el chorro y volver a colocar. Con vinagre blanco una vez al mes desaparece la acumulación de cal. Un filtro que no se puede limpiar bien termina siendo peor que no tener ninguno.
+
+## El Controlador Strix
+
+Strix Group es una empresa británica que fabrica los termostatos de hervidores desde los años 90. Cuando Philips especifica "Controlador Strix diseñado en el Reino Unido", no es un término de marketing — es el componente concreto que maneja el apagado automático cuando llega a 100°C, la protección contra hervido sin agua y la lectura de temperatura.
+
+La diferencia respecto a un sistema de corte genérico no siempre es visible en los primeros meses. A los dos años, el resultado es que algunos hervidores siguen funcionando igual y otros empiezan a cortar antes o después de lo que deberían. El Strix es el estándar que se usa cuando querés que eso no pase.
+
+## Eficiencia energética y uso cotidiano
+
+La pava tiene certificación de eficiencia energética A y un indicador de nivel mínimo que marca 2 tazas como punto de partida. Hervir solo el agua necesaria puede representar hasta 66% de ahorro en energía respecto a llenar la pava completa cada vez.
+
+En el uso diario: la tapa se abre con un botón de resorte que evita el contacto con el vapor. El cable tiene guardacable integrado en la base. El indicador de nivel está debajo del mango con marcas claras. Se puede llenar por la tapa o por la boquilla. La base es giratoria 360° y hay luz LED que confirma cuando está encendida. Pesa 973 gramos.
+
+## Sin función mate
+
+La pava corta a 100°C. No tiene función de control de temperatura. Para el mate, el agua a 100°C daña la yerba: la temperatura óptima está entre 70 y 80°C. Podés apagar la pava antes de que llegue al hervor completo, o esperar 2 o 3 minutos después de que corta.
+
+Si el mate es el uso principal y querés que la pava haga el trabajo de regular la temperatura, la Oster BVSTKT4970W tiene selector analógico y función mate incorporada.
+
+## Calificaciones y garantía
+
+4.7 estrellas sobre 85 calificaciones, incluyendo opiniones de otros países. El número de reseñas es moderado comparado con la ATMA PEAT1351 (2.368) y la Oster (1.412), pero la distribución del rating es consistente.
+
+La garantía es de 2 años, que Philips cubre a través de su red de service oficial en el país. En la categoría de hervidores disponibles en Argentina, dos años de garantía está por encima de lo estándar.`,
+    specs: [
+      { label: 'Marca', value: 'Philips' },
+      { label: 'Modelo', value: 'HD9350/90' },
+      { label: 'Línea', value: 'Daily Collection' },
+      { label: 'Color', value: 'Acero inoxidable' },
+      { label: 'Voltaje', value: '220-240V / 50-60 Hz' },
+      { label: 'Potencia', value: '1.850-2.200W' },
+      { label: 'Capacidad', value: '1.7L' },
+      { label: 'Material', value: 'Acero inoxidable SUS304 (food grade)' },
+      { label: 'Filtro', value: 'Micromalla desmontable — 200 micrones' },
+      { label: 'Controlador', value: 'Strix (fabricado en Reino Unido)' },
+      { label: 'Control de temperatura', value: 'No — corte automático a 100°C' },
+      { label: 'Función mate', value: 'No' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Base giratoria', value: 'Sí — 360°' },
+      { label: 'Guardacable', value: 'Sí' },
+      { label: 'Peso', value: '973g' },
+      { label: 'Dimensiones', value: '15 × 22 × 25 cm' },
+      { label: 'Garantía', value: '2 años (Philips Argentina)' },
+      { label: 'Rating', value: '4.7 ⭐ (85 calificaciones — incluye opiniones de otros países)' },
+    ],
+    faq: [
+      {
+        question: '¿La Philips HD9350 tiene función mate?',
+        answer:
+          'No. Corta automáticamente a 100°C, que es demasiado caliente para el mate. Podés apagar antes del hervor o esperar que baje. Para control de temperatura, la Oster BVSTKT4970W tiene selector analógico con función mate.',
+      },
+      {
+        question: '¿Qué es el acero SUS304 y por qué importa?',
+        answer:
+          'SUS304 es el grado de acero inoxidable apto para uso alimentario, el mismo que se usa en instrumental quirúrgico. No transfiere sabores ni olores al agua y no se degrada con el uso cotidiano.',
+      },
+      {
+        question: '¿El filtro micromalla es lavable?',
+        answer:
+          'Sí. Se saca de la boquilla, se enjuaga bajo el chorro y se vuelve a colocar. Para remover la cal, vinagre blanco durante unos minutos.',
+      },
+      {
+        question: '¿Qué es el Controlador Strix?',
+        answer:
+          'Es el termostato de la pava, fabricado por Strix Group (Reino Unido). Maneja el apagado automático al llegar a 100°C y la protección contra hervido sin agua. Es el estándar que usan las marcas premium de hervidores.',
+      },
+      {
+        question: '¿Cuánto consume la pava Philips HD9350?',
+        answer:
+          'Entre 1.850 y 2.200W. La certificación de eficiencia energética A indica consumo optimizado dentro de la categoría.',
+      },
+      {
+        question: '¿Cuál es la garantía?',
+        answer:
+          '2 años de garantía oficial Philips con cobertura a través de la red de service de la marca en Argentina.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Philips Daily Collection HD9350/90',
+      description:
+        'Hervidor eléctrico con cuerpo en acero inoxidable SUS304 apto para uso alimentario, filtro de micromalla desmontable que captura partículas de cal de 200 micrones, Controlador Strix UK, capacidad 1.7L, 1850-2200W, base giratoria 360°, apagado automático y garantía 2 años.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'HD9350/90',
+      color: 'Acero inoxidable',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2kpg1Zr',
+        priceCurrency: 'ARS',
+        price: 52499,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '85',
+      },
+    },
+    relatedProducts: ['MLA49747515', 'MLA11145436', 'MLA47275624', 'MLA47183370'],
   },
   {
     id: 'MLA47275624',
