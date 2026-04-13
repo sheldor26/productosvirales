@@ -5966,6 +5966,30 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     pastelColor: 'var(--pastel-coral)',
     description: "Pava Eléctrica Atma Pe0821ap 1.7 litros.\n\nCapacidad de 1.7 Litros: Permite calentar agua para múltiples tazas de té, café o infusiones de manera eficiente.\n\nCorte Automático: El sistema se desactiva al alcanzar el punto de ebullición, evitando el sobrecalentamiento y garantizando seguridad.\n\nTanque ",
   },
+  {
+    id: 'MLA11145436',
+    title: 'Pava Electrica Oster Con Control Temperatura Mate Kt4970w Color Blanco',
+    price: 63143.97,
+    originalPrice: 78748,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_941485-MLA99549727582_122025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_2X_941485-MLA99549727582_122025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_628720-MLA84549856860_052025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_977999-MLA85935104085_062025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_933217-MLA85626186122_062025-F.webp',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/pava-electrica-oster-con-control-temperatura-mate-kt4970w-color-blanco/p/MLA11145436',
+    affiliateUrl: 'https://meli.la/1JfvkMc',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.7,
+    soldQuantity: 1000,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'BEBIDAS CALIENTES A TU GUSTO. Para mejorar el sabor, las bebidas calientes deben prepararse a determinada temperatura. El control que incorpora este modelo permite que cada mate, té o café sea perfecto. La seguridad es primordial, por eso, cuando el agua está lista, la pava se apaga automáticamente.',
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
