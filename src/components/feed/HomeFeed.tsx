@@ -6,17 +6,29 @@ import { ProductGrid } from "@/components/products/ProductGrid";
 import { getVisibleProducts } from "@/lib/products";
 
 export function HomeFeed() {
-  const [activeCategory, setActiveCategory] = useState("viral");
+  const [activeCategory, setActiveCategory] = useState("todos");
+
+  const allVisible = useMemo(() => getVisibleProducts(), []);
 
   const filteredProducts = useMemo(() => {
-    const visible = getVisibleProducts();
-    if (activeCategory === "viral") {
-      return visible.filter((p) => p.badge === "viral");
+    if (activeCategory === "todos") {
+      return allVisible;
     }
-    return visible.filter((p) => p.categorySlug === activeCategory);
-  }, [activeCategory]);
+    if (activeCategory === "viral") {
+      return allVisible.filter((p) => p.badge === "viral" || p.badge === "trending");
+    }
+    return allVisible.filter((p) => p.categorySlug === activeCategory);
+  }, [activeCategory, allVisible]);
 
-  const fallback = useMemo(() => getVisibleProducts().slice(0, 8), []);
+  const titleMap: Record<string, string> = {
+    todos: "Todos los productos",
+    viral: "Lo más viral y trending",
+    hogar: "Hogar",
+    cocina: "Cocina",
+    tech: "Tech",
+    belleza: "Belleza",
+    gadgets: "Gadgets",
+  };
 
   return (
     <>
@@ -26,13 +38,15 @@ export function HomeFeed() {
       />
 
       <ProductGrid
-        products={filteredProducts.length > 0 ? filteredProducts : fallback}
-        title={
-          activeCategory === "viral"
-            ? "Lo más viral esta semana"
-            : `Trending en ${activeCategory.charAt(0).toUpperCase() + activeCategory.slice(1)}`
+        products={filteredProducts}
+        title={titleMap[activeCategory] || activeCategory.charAt(0).toUpperCase() + activeCategory.slice(1)}
+        subtitle={
+          activeCategory === "todos"
+            ? "Todo el catálogo de productos virales en MercadoLibre"
+            : activeCategory === "viral"
+              ? "Los productos que están volando en MercadoLibre"
+              : `Los mejores productos de ${titleMap[activeCategory] || activeCategory}`
         }
-        subtitle="Los productos que están volando en MercadoLibre"
       />
     </>
   );

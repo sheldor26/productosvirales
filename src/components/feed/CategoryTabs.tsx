@@ -1,15 +1,13 @@
 "use client";
 
-import { useState } from "react";
 import {
   Flame,
   Heart,
   Smartphone,
   Home,
-  Dumbbell,
-  ShoppingBag,
   ChefHat,
   Zap,
+  LayoutGrid,
   type LucideIcon,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -23,13 +21,12 @@ interface CategoryTab {
 }
 
 const tabs: CategoryTab[] = [
-  { slug: "viral", label: "Viral ahora", icon: Flame, isSpecial: true, color: "#ef4444" },
-  { slug: "belleza", label: "Belleza", icon: Heart },
-  { slug: "tech", label: "Tech", icon: Smartphone },
+  { slug: "todos", label: "Todos", icon: LayoutGrid },
+  { slug: "viral", label: "Viral", icon: Flame, isSpecial: true, color: "#ef4444" },
   { slug: "hogar", label: "Hogar", icon: Home },
-  { slug: "fitness", label: "Fitness", icon: Dumbbell },
-  { slug: "moda", label: "Moda", icon: ShoppingBag },
   { slug: "cocina", label: "Cocina", icon: ChefHat },
+  { slug: "tech", label: "Tech", icon: Smartphone },
+  { slug: "belleza", label: "Belleza", icon: Heart },
   { slug: "gadgets", label: "Gadgets", icon: Zap },
 ];
 

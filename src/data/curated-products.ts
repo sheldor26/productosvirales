@@ -5759,6 +5759,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA49747515',
     title: "Pava Eléctrica Atma 1.8 L Interior Acero Inoxidable Negro",
+    badge: 'trending',
     price: 40739.03,
     originalPrice: 59773,
     currency: 'ARS',
@@ -5804,6 +5805,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA24601443',
     title: "Jarra eléctrica Philips HD9350/90 Daily Collection",
+    badge: 'trending',
     price: 52499.25,
     originalPrice: 69999,
     currency: 'ARS',
@@ -5846,6 +5848,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA47275624',
     title: "Pava Peabody Pe-dk2200n Digital 1,5 Litros Negro",
+    badge: 'trending',
     price: 69999,
     originalPrice: 99999,
     currency: 'ARS',
@@ -5890,6 +5893,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA47183370',
     title: "Pava Eléctrica Philips Hd9396 1.7l 2200w Color Negro Mate",
+    badge: 'trending',
     price: 100000.81,
     originalPrice: undefined,
     currency: 'ARS',
@@ -5925,6 +5929,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA19589524',
     title: "Pava Eléctrica Atma Pe0821ap 1.7lts Blanco",
+    visibility: 'deprioritized',
     price: 35179.46,
     originalPrice: 41999,
     currency: 'ARS',
@@ -5969,6 +5974,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA11145436',
     title: 'Pava Electrica Oster Con Control Temperatura Mate Kt4970w Color Blanco',
+    badge: 'trending',
     price: 63143.97,
     originalPrice: 78748,
     currency: 'ARS',
