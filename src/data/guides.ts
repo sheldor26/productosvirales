@@ -940,6 +940,11 @@ export const guides: Guide[] = [
           "Electrónica: termostato más preciso que se apaga cuando debe, resistencia que distribuye calor parejo, conexión eléctrica más segura. ¿Todo esto justifica el precio? Para algunos sí, para otros no.",
       },
       { type: "h2", title: "Modelos Philips disponibles en Argentina" },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_603012-MLA44250408498_122020-F.webp",
+        alt: "Philips HD9350 — pava eléctrica de acero inoxidable completo, modelo recomendado de gama alta",
+      },
       { type: "h3", title: "Philips Daily Collection HD9350 (~$52.000)" },
       {
         type: "p",
@@ -960,6 +965,11 @@ export const guides: Guide[] = [
           ],
           ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
         },
+      },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_882936-MLA75363498498_032024-F.webp",
+        alt: "Philips HD9396 — modelo premium negro, mismo funcionamiento que el HD9350 pero diseño superior",
       },
       { type: "h3", title: "Philips HD9396 (~$100.000) — El premium" },
       {
@@ -1030,6 +1040,11 @@ export const guides: Guide[] = [
         ],
       },
       { type: "h2", title: "Alternativas a considerar" },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_917017-MLU78255965498_082024-F.webp",
+        alt: "Atma PEAT1351 — pava eléctrica con interior de acero inoxidable, modelo recomendado de gama media",
+      },
       {
         type: "card",
         card: {
@@ -1133,6 +1148,11 @@ export const guides: Guide[] = [
       },
       { type: "h2", title: "El modelo que SÍ vale la pena: PEAT1351" },
       {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_917017-MLU78255965498_082024-F.webp",
+        alt: "Atma PEAT1351 — producto principal, exterior blanco con detalles turquesa",
+      },
+      {
         type: "card",
         card: {
           heading: "Atma PEAT1351 (~$41.000) — MODELO RECOMENDADO",
@@ -1143,6 +1163,21 @@ export const guides: Guide[] = [
           ],
           ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
         },
+      },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_671627-MLA78124028062_082024-F.webp",
+        alt: "Atma PEAT1351 sirviendo agua para infusiones — capacidad 1.7 litros",
+      },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_858403-MLA78124028060_082024-F.webp",
+        alt: "Atma PEAT1351 con mate — el agua caliente siempre lista para cebar",
+      },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_722949-MLA78075178370_082024-F.webp",
+        alt: "Atma PEAT1351 detalles: filtro removible, interruptor de encendido, conector 360°",
       },
       { type: "h2", title: "Modelos Atma que NO recomiendo" },
       {
@@ -1197,6 +1232,11 @@ export const guides: Guide[] = [
           "Sarro acumulado: vinagre blanco + agua, hervir, dejar 30 min, repetir cada mes",
           "Filtro se rompe: sacar y usar sin filtro, repuesto $1.500",
         ],
+      },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_654771-MLA78124028068_082024-F.webp",
+        alt: "Atma PEAT1351 reviews en MercadoLibre — 4.6 estrellas con 3.007 calificaciones",
       },
       { type: "h2", title: "Consejos para que dure más" },
       {
@@ -1337,6 +1377,11 @@ export const guides: Guide[] = [
         type: "p",
         content:
           "Solo comprá en este rango si: necesitás control de temperatura (Peabody $70K) o es un regalo muy especial (Philips $100K). Para todos los demás: Philips HD9350 por $52K hace lo mismo. El resto es marketing y diseño.",
+      },
+      {
+        type: "image",
+        src: "https://http2.mlstatic.com/D_NQ_NP_2X_989498-MLA80522063330_112024-F.webp",
+        alt: "Peabody PE-DK2200N — pava eléctrica digital con control de temperatura, pantalla LED",
       },
       {
         type: "card",

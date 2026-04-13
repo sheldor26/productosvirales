@@ -43,7 +43,7 @@ export interface TrendingKeyword {
 }
 
 export interface GuideSection {
-  type: "p" | "h2" | "h3" | "table" | "card" | "verdict" | "warning" | "bad" | "list" | "toc";
+  type: "p" | "h2" | "h3" | "table" | "card" | "verdict" | "warning" | "bad" | "list" | "toc" | "image";
   id?: string;
   title?: string;
   content?: string;
@@ -55,6 +55,8 @@ export interface GuideSection {
     paragraphs: string[];
     ctas?: Array<{ label: string; href: string }>;
   };
+  src?: string;
+  alt?: string;
 }
 
 export interface GuideFAQ {

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { ExternalLink } from "lucide-react";
 import type { Guide, GuideSection } from "@/lib/types";
 
@@ -129,13 +130,54 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         </div>
       );
 
+    case "list":
+      return (
+        <ul className="my-4 space-y-2 pl-1">
+          {(section.items as string[])?.map((item, i) => (
+            <li
+              key={i}
+              className="flex items-start gap-2 text-[15px] leading-relaxed text-[var(--text-secondary)]"
+            >
+              <span className="shrink-0 mt-1.5 w-1.5 h-1.5 rounded-full bg-[var(--text-muted)]" />
+              {item}
+            </li>
+          ))}
+        </ul>
+      );
+
     case "bad":
       return (
         <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-discount)] bg-[var(--color-discount)]/10">
+          {section.title && (
+            <p className="text-[15px] font-bold text-[var(--text-primary)] mb-2">
+              {section.title}
+            </p>
+          )}
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)]">
             {section.content}
           </p>
         </div>
+      );
+
+    case "image":
+      return (
+        <figure className="my-6">
+          <div className="rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)]">
+            <Image
+              src={section.src || ""}
+              alt={section.alt || ""}
+              width={780}
+              height={520}
+              className="w-full h-auto"
+              unoptimized
+            />
+          </div>
+          {section.alt && (
+            <figcaption className="mt-2 text-xs text-[var(--text-muted)] text-center">
+              {section.alt}
+            </figcaption>
+          )}
+        </figure>
       );
 
     case "toc":
