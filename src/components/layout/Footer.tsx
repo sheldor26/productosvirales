@@ -9,13 +9,27 @@ export function Footer() {
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="inline-flex items-center gap-0.5 mb-3">
               <span
-                className="text-lg font-bold tracking-tight text-[var(--text-primary)]"
-                style={{ fontFamily: "var(--font-display)" }}
+                className="text-lg font-bold tracking-tight"
+                style={{ fontFamily: "var(--font-display)", color: "#b8a9d4" }}
               >
-                pick
+                productos
               </span>
-              <span className="text-lg font-bold tracking-tight bg-[var(--cta-bg)] text-[var(--cta-text)] px-1.5 py-0.5 rounded-md">
-                viral
+              <span
+                className="text-lg font-bold tracking-tight px-1.5 py-0.5 rounded-lg text-white relative"
+                style={{ backgroundColor: "#f4b5a4", fontFamily: "var(--font-display)" }}
+              >
+                virales
+                <svg
+                  width="10"
+                  height="10"
+                  viewBox="0 0 12 12"
+                  fill="none"
+                  className="absolute -top-0.5 -right-1"
+                  aria-hidden="true"
+                >
+                  <path d="M2 9L6 5L8 7L11 3" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                  <path d="M8 3H11V6" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
               </span>
             </Link>
             <p className="text-sm text-[var(--text-muted)] leading-relaxed">
