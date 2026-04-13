@@ -2902,7 +2902,8 @@ Dakota es una marca argentina (Selca). Incluye láser 532nm nítido, materiales 
   },
   {
     id: 'MLA2729985625',
-    title: 'Proyector Astronauta  Galaxia Estrellas Bluetooth Parlante',
+    title: 'Proyector Oso Astronauta MTI 730 — Galaxia y Estrellas BT',
+    badge: 'trending',
     price: 14259,
     originalPrice: 35000,
     currency: 'ARS',
@@ -2914,7 +2915,7 @@ Dakota es una marca argentina (Selca). Incluye láser 532nm nítido, materiales 
       'https://http2.mlstatic.com/D_NQ_NP_2X_908296-MLA80716714693_112024-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_693830-MLA80716976497_112024-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Hogar',
     categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/proyector-astronauta--galaxia-estrellas-bluetooth-parlante/up/MLAU2729985625',
     affiliateUrl: 'https://meli.la/23XUxXR',
@@ -2923,7 +2924,151 @@ Dakota es una marca argentina (Selca). Incluye láser 532nm nítido, materiales 
     rating: 4.8,
     soldQuantity: 500,
     pastelColor: 'var(--pastel-amber)',
-    description: 'SOMOS MERCADO LIBRE PLATINUM Precios IVA incluído. Entregamos factura A o B.  SOMOS IMPORTADORES DIRECTOS, VENDEMOS POR MAYOR Y MENOR. ----------------------------------------------------------------------------------------------------- Proyector astronauta reproduce música que se conecta a través d',
+    description: 'Proyector oso astronauta MTI 730 con lente de vidrio, parlante Bluetooth, rotación magnética 360°, timer 0.5H/1H/2H y USB Type-C. 20cm de alto. Proyecta galaxia y estrellas en el techo. Incluye control remoto, stickers y cable USB-C. 4.8⭐ con 298 calificaciones.',
+    pros: [
+      '4.8⭐ con 298 calificaciones y 134 comentarios',
+      'Diseño único de oso astronauta — diferenciado de los humanoides',
+      'Lente de vidrio (no acrílico) — mejor transmisión óptica',
+      'Timer de 30 minutos — único del cluster con esta opción',
+      'Cable USB Type-C — el estándar moderno',
+      'Rotación magnética 360° desde el control remoto',
+      'Parlante Bluetooth estéreo integrado',
+      '59% OFF — de $35.000 a $14.259',
+    ],
+    cons: [
+      'No incluye adaptador USB de pared',
+      '⚠️ Pilas del control remoto: no especificado si vienen incluidas',
+      'Potencia de la bocina no especificada en ficha',
+      'Número exacto de modos de iluminación no documentado',
+    ],
+    verdict: 'En el cluster de 4 proyectores astronauta del sitio, este es el único con forma de oso. Está sentado, mide 20cm de alto y proyecta galaxias y estrellas desde el visor del casco. El casco tiene lente de vidrio, no de acrílico. El cable es USB Type-C. Y el timer tiene una opción de 30 minutos que los otros no tienen. Para cuarto infantil, este diseño es el que más funciona visualmente.',
+    seoTitle: 'Proyector oso astronauta MTI 730 — galaxia y estrellas BT',
+    metaDescription: 'Proyector oso astronauta MTI 730 con Bluetooth, lente de vidrio, rotación 360° y timer de 30 minutos. Galaxia de estrellas en el techo, sin adaptador incluido.',
+    ogTitle: 'Proyector oso astronauta MTI 730 — galaxia y estrellas BT',
+    ogDescription: 'Proyector oso astronauta MTI 730 con Bluetooth, lente de vidrio, rotación 360° y timer de 30 minutos. Galaxia de estrellas en el techo, sin adaptador incluido.',
+    h1: 'Proyector oso astronauta MTI 730: galaxia de estrellas, Bluetooth y timer de 30 minutos',
+    articleBody: `En el cluster de proyectores astronauta del sitio hay cuatro modelos. Tres tienen forma humanoide — el Geotek sentado, el Dakota de pie, y otro MTI clásico. Este es el único que tiene forma de oso con traje espacial. Está sentado, mide 20cm de alto y proyecta galaxias y estrellas desde el visor del casco.
+
+El diseño no es solo estético. El casco del oso tiene lente de vidrio, no de acrílico ni plástico. El cable incluido es USB Type-C. Y el timer tiene una opción de 30 minutos que los otros proyectores del cluster no tienen.
+
+## El oso astronauta
+
+El cuerpo es plástico blanco. Las orejas del oso están separadas del casco — una tiene un emisor de estrellas láser, la otra tiene un proyector adicional de efectos de nebulosa. El visor del casco es la lente principal del proyector, hecha de vidrio.
+
+Está sentado sobre una base circular negra que rota 360 grados con sistema magnético. La rotación se controla desde el control remoto con el botón "Motor". El botón "LED" activa o apaga la proyección de luz sin apagar la bocina.
+
+El diseño del oso le da una escala visual más suave que los astronautas humanoides: es más redondeado, más "juguete" que gadget adulto. Eso no lo hace peor — solo lo hace diferente, y claramente orientado a cuartos de niños y como regalo.
+
+## Lente de vidrio y qué cambia en la proyección
+
+La ficha técnica especifica "Material de la pantalla: Vidrio". Los otros proyectores del cluster usan lente de acrílico o plástico. El vidrio tiene mejor transmisión óptica y no se raya con la misma facilidad.
+
+En la práctica, para proyectores de efecto (no de imagen definida), la diferencia puede ser sutil: menos dispersión en los bordes del haz, colores levemente más nítidos. El dato está en la especificación técnica y es verificable.
+
+## El timer de 30 minutos
+
+El control remoto tiene tres opciones de apagado automático: 0.5H (30 minutos), 1H y 2H. Los otros proyectores del cluster tienen solo 1H y 2H. La opción de 30 minutos es útil para usarlo mientras los chicos se duermen: no hace falta levantarse a apagarlo ni que quede encendido toda la noche.
+
+## USB Type-C y la fuente de alimentación
+
+El cable incluido en la caja es USB Type-C. El proyector funciona con 5V DC, así que se conecta a cualquier cargador con puerto USB-A o USB-C. El listing especifica que es eléctrico con cable — no tiene batería interna ni funciona sin estar enchufado.
+
+El adaptador de corriente NO viene incluido en la caja. Si no tenés un cargador USB disponible, hay que conseguirlo por separado.
+
+## El parlante Bluetooth
+
+El cuerpo tiene una grilla de bocina en el pecho. Se conecta por Bluetooth al celular para reproducir música mientras las estrellas cubren el techo. El control remoto tiene botones de volumen (+/-), play/pause y siguiente pista.
+
+La potencia de la bocina no está especificada en la ficha. El resumen de reseñas de MercadoLibre menciona la función Bluetooth como uno de los aspectos más destacados por los compradores.
+
+## Los modos de iluminación
+
+El control remoto tiene botones de colores: R (rojo), G (verde), B (azul), RG, RB, GB. También tiene un botón "Mode" que cicla los efectos de nebulosa y estrellas. Las imágenes del listing muestran seis vistas circulares con colores distintos: azul, rojo, verde, azul con luna, verde-azul, lila.
+
+## Qué viene en la caja y qué no
+
+Incluye: 1 proyector oso astronauta MTI 730, 1 cable USB Type-C, 1 control remoto, 1 plancha de stickers, 1 manual de instrucciones.
+
+No incluye: adaptador de corriente USB. Pilas del control remoto: no especificado en el listing — verificar antes de comprar.
+
+## Para regalo
+
+El listing lo destaca como "ideal para regalar". La combinación de stickers + manual + control remoto en la caja lo hace más completo que unboxings básicos. El oso tiene una forma que gusta tanto a chicos como adultos. A 4.8⭐ con 298 calificaciones, los compradores confirmaron ese punto en las reseñas.`,
+    specs: [
+      { label: 'Marca', value: 'MTI' },
+      { label: 'Modelo', value: '730' },
+      { label: 'Diseño', value: 'Oso astronauta sentado' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Dimensiones', value: '20 × 12 × 12 cm' },
+      { label: 'Material lente', value: 'Vidrio' },
+      { label: 'Material cuerpo', value: 'Plástico ABS' },
+      { label: 'Voltaje', value: '5V DC' },
+      { label: 'Cable', value: 'USB Type-C (incluido)' },
+      { label: 'Adaptador', value: 'NO incluido' },
+      { label: 'Parlante', value: 'Bluetooth estéreo integrado' },
+      { label: 'Rotación', value: '360° magnética' },
+      { label: 'Timer', value: '0.5H / 1H / 2H' },
+      { label: 'Control remoto', value: 'Sí — con color, volumen, timer, Mode' },
+      { label: 'Contenido caja', value: 'Proyector + cable USB-C + remoto + stickers + manual' },
+      { label: 'Rating', value: '4.8 ⭐ (298 calificaciones — 134 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿El oso astronauta MTI 730 viene con adaptador de corriente?',
+        answer:
+          'No. En la caja viene el cable USB Type-C pero no el adaptador. Para usarlo necesitás un cargador con puerto USB — cualquier cargador de celular moderno funciona.',
+      },
+      {
+        question: '¿El control remoto incluye pilas?',
+        answer:
+          'El listing no especifica si las pilas del control remoto están incluidas. Es un detalle menor pero vale verificarlo en la descripción del vendedor antes de comprar.',
+      },
+      {
+        question: '¿Cuántos modos de iluminación tiene?',
+        answer:
+          'El listing no indica un número exacto. El control remoto tiene seis botones de color (R, G, B, RG, RB, GB) más un botón Mode para ciclar los efectos. En las imágenes se ven al menos seis combinaciones distintas.',
+      },
+      {
+        question: '¿Se puede usar sin Bluetooth?',
+        answer:
+          'Sí. El Bluetooth es solo para música. La proyección de luz funciona de forma independiente.',
+      },
+      {
+        question: '¿Qué diferencia tiene con los otros proyectores astronauta del sitio?',
+        answer:
+          'El diseño de oso es el diferencial más obvio. Además, es el único del cluster con lente de vidrio (los otros usan acrílico) y el único con opción de timer de 30 minutos. El cable es USB Type-C.',
+      },
+      {
+        question: '¿Tiene rotación motorizada?',
+        answer:
+          'Sí. La base tiene rotación magnética 360° que se activa desde el control remoto con el botón "Motor".',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Proyector Oso Astronauta Galaxia Estrellas MTI 730',
+      description:
+        'Proyector oso astronauta con lente de vidrio, parlante Bluetooth, rotación magnética 360°, timer 0.5H/1H/2H y USB Type-C. Incluye control remoto y stickers.',
+      brand: { '@type': 'Brand', name: 'MTI' },
+      model: '730',
+      color: 'Blanco',
+      material: 'Plástico ABS / Lente de vidrio',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/23XUxXR',
+        priceCurrency: 'ARS',
+        price: 14259,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '298',
+      },
+    },
+    relatedProducts: ['MLA521391764', 'MLA45675149', 'MLA46927234'],
   },
   {
     id: 'MLA46927234',
