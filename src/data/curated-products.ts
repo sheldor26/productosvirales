@@ -5758,49 +5758,147 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   },
   {
     id: 'MLA49747515',
-    title: "Pava Eléctrica Atma 1.8 L Interior Acero Inoxidable Negro",
-    badge: 'trending',
+    title: 'Pava Eléctrica ATMA Negra — Interior Acero Inoxidable, 1.8L, 1500W',
+    badge: 'viral',
     price: 40739.03,
     originalPrice: 59773,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_906528-MLA84317352828_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_906528-MLA84317352828_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_618438-MLA84614787491_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_618438-MLA84614787491_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_934467-MLA84317352882_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_934467-MLA84317352882_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_784226-MLA84614835493_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_784226-MLA84614835493_052025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_991484-MLA99993482437_112025-F.webp",
-      "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/default.svg",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_906528-MLA84317352828_052025-F.webp",
-      "https://http2.mlstatic.com/storage/logos-api-admin/f3e8e940-f549-11ef-bad6-e9962bcd76e5-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/9cf818e0-723a-11f0-a459-cf21d0937aeb-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/d72276d0-0fda-11ec-8aae-e5acfdd60b03-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/93296a70-72fe-11f0-8778-e777036b3e93-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/cb0af1c0-f3be-11eb-8e0d-6f4af49bf82e-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/fec5f230-06ee-11ea-8e1e-273366cc763d-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/6d575650-dbc3-11ee-a55a-bbc538356ab8-m.svg"
-      ],
-    category: "Electrodomésticos y Aires Ac.",
+      'https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_906528-MLA84317352828_052025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_618438-MLA84614787491_052025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_934467-MLA84317352882_052025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_784226-MLA84614835493_052025-F.webp',
+    ],
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-atma-18-l-interior-acero-inoxidable-negro/p/MLA49747515',
     affiliateUrl: 'https://meli.la/1TBSj3K',
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
-    soldQuantity: undefined,
+    soldQuantity: 500,
     pastelColor: 'var(--pastel-coral)',
-    description: "¡Descubrí la practicidad y el estilo que necesitás en tu cocina con la pava eléctrica ATMA PEAT1351! Con su diseño moderno y funcional, calienta agua en un santiamén gracias a su potente motor de 1500W. ¿A qué esperás para agilizar tus mañanas o disfrutar de ese mate especial sin complicaciones?\n\nEs",
+    description: 'Pava eléctrica ATMA 1.8L con interior de acero inoxidable. Exterior plástico negro. 1500W, corte automático a 100°C, filtro extraíble, base giratoria 360°. Sin control de temperatura variable. Con indicador de agua iluminado LED azul. 4.7⭐ con 2.368 calificaciones.',
+    pros: [
+      '4.7⭐ con 2.368 calificaciones — el mayor volumen de reseñas del sitio',
+      'Interior de acero inoxidable — agua sin sabor a plástico',
+      '1.8L de capacidad — la más grande del cluster de pavas',
+      '32% OFF — de $59.773 a $40.739',
+      'Indicador de nivel con iluminación LED azul',
+      'Filtro extraíble en el pico',
+      'Base giratoria 360°',
+    ],
+    cons: [
+      'Sin control de temperatura — solo hierve a 100°C',
+      'Sin función mate — hay que esperar que baje la temperatura o agregar agua fría',
+      'Exterior plástico (no acero completo)',
+      '1.500W — levemente más lenta que modelos de 1.850W',
+    ],
+    verdict: 'El interior de acero inoxidable no es un detalle de marketing — es la diferencia entre una pava que le agrega sabor al agua y una que no. Las pavas de plástico interior transfieren un gusto leve al agua caliente. El acero no hace eso. Con 4.7⭐ sobre 2.368 calificaciones, es la pava con más validación de compradores de todo el sitio.',
+    seoTitle: 'Pava Eléctrica ATMA Negra — Interior Acero Inoxidable, 1.8L, 1500W',
+    metaDescription: 'Pava eléctrica ATMA negra con interior acero inoxidable. 1.8L, apagado automático, filtro extraíble. 4.7⭐ con más de 2.300 calificaciones en ML.',
+    ogTitle: 'Pava eléctrica ATMA negra — interior acero inoxidable, sin sabor a plástico, 4.7⭐/2.368',
+    ogDescription: 'Interior de acero inoxidable para agua sin sabor a plástico. 1.8L, 1500W, apagado automático a 100°C, filtro extraíble. La pava ATMA más vendida. Ver precio →',
+    h1: 'Pava eléctrica ATMA negra — interior de acero inoxidable, sin sabor a plástico, 1.8L',
+    articleBody: `El interior de acero inoxidable no es un detalle de marketing — es la diferencia entre una pava que le agrega sabor al agua y una que no. Las pavas de plástico interior, especialmente las nuevas, transfieren un leve gusto metálico o plástico al agua caliente. El acero inoxidable no hace eso: el agua hierve, sale, y tiene el sabor que tenía cuando entró.
+
+La ATMA PEAT1351 tiene el exterior en plástico negro y el interior del jarro en acero inoxidable. El cuerpo es el mismo material que el de las teteras comunes. El interior es el que hace la diferencia.
+
+## Lo que hace y lo que no hace
+
+El corte automático funciona a 100°C. El agua hierve, la pava se apaga. No tiene control de temperatura variable ni posición específica para mate — hierve y para. Para quien prepara mate, eso significa esperar que el agua baje de temperatura (o conocer el truco de agregar un chorrito de agua fría). Para café instantáneo, té negro, fideos, o cualquier uso que requiera agua hirviendo, el corte a 100°C es exactamente lo que se necesita.
+
+Tiene 1.500W de potencia y capacidad de 1.8 litros — un poco más lenta y un poco más grande que algunos modelos de mayor wattage. La diferencia práctica en tiempo de hervor no es drástica para uso doméstico.
+
+## El diseño
+
+Negro, cilíndrico, sin decoraciones. El indicador de nivel de agua tiene iluminación azul LED cuando está en funcionamiento — visible en las fotos de detalle del producto. El filtro extraíble en el pico retiene partículas en suspensión. La base giratoria es de 360°.
+
+El diseño exterior es íntegramente negro mate, sin partes cromadas visibles excepto el borde superior del jarro donde el acero del interior asoma levemente.
+
+## Las calificaciones
+
+4.7 estrellas sobre 2.368 calificaciones — el mayor volumen de reseñas de todas las pavas eléctricas en este sitio. La distribución muestra una base sólida en 5 estrellas con una pequeña franja en 4 y muy pocas críticas. Con ese volumen de compradores, el promedio refleja la experiencia real del producto, no el entusiasmo de los primeros compradores.
+
+## ¿Necesitás control de temperatura para el mate?
+
+Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás mate y querés el agua exactamente entre 70°C y 80°C sin adivinar, en el catálogo hay una Oster BVSTKT4970W con perilla de control variable y función mate marcada explícitamente. Cede el interior de acero (la Oster es plástico) a cambio del control de temperatura. Son dos perfiles de uso distintos: la ATMA para agua sin sabor a plástico, la Oster para temperatura precisa.`,
+    specs: [
+      { label: 'Marca', value: 'ATMA' },
+      { label: 'Modelo', value: 'PEAT1351' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Potencia', value: '1.500W' },
+      { label: 'Capacidad', value: '1.8L' },
+      { label: 'Material interior', value: 'Acero inoxidable' },
+      { label: 'Material exterior', value: 'Plástico' },
+      { label: 'Control de temperatura', value: 'No — corte automático a 100°C' },
+      { label: 'Función mate', value: 'No' },
+      { label: 'Pantalla digital', value: 'No' },
+      { label: 'Corte automático', value: 'Sí — a punto de ebullición (100°C)' },
+      { label: 'Indicador de agua', value: 'Sí (con iluminación LED azul)' },
+      { label: 'Filtro', value: 'Sí — extraíble' },
+      { label: 'Base giratoria', value: 'Sí — 360°' },
+      { label: 'Rating', value: '4.7 ⭐ (2.368 calificaciones — incluye opiniones de otros países)' },
+    ],
+    faq: [
+      {
+        question: '¿Por qué importa que el interior sea de acero inoxidable?',
+        answer:
+          'El plástico en contacto con agua caliente puede transferir un sabor leve al líquido, especialmente cuando el producto es nuevo. El acero inoxidable es inerte a esas temperaturas — no agrega sabor ni olor al agua.',
+      },
+      {
+        question: '¿Se puede usar para el mate?',
+        answer:
+          'La pava hierve a 100°C y se corta. Para mate, la temperatura ideal es entre 70°C y 80°C — por lo que hay que esperar que el agua baje unos minutos o agregar un chorrito de agua fría antes de cebar.',
+      },
+      {
+        question: '¿Cuántas tazas rinde?',
+        answer:
+          'Con 1.8 litros, aproximadamente 7 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Tiene pantalla digital o display?',
+        answer:
+          'No. El indicador de nivel de agua tiene iluminación azul LED, pero no hay display de temperatura ni panel de control digital.',
+      },
+      {
+        question: '¿Es más lenta que otras pavas de mayor potencia?',
+        answer:
+          'Con 1.500W es levemente más lenta que modelos de 1.850W para llegar al punto de ebullición. Para uso doméstico la diferencia es de pocos minutos.',
+      },
+      {
+        question: '¿Cuál es la diferencia con la Oster BVSTKT4970W?',
+        answer:
+          'La Oster tiene control de temperatura variable y función mate. La ATMA tiene interior de acero inoxidable pero solo hierve a 100°C sin control intermedio. La Oster es plástico interior; la ATMA es acero inoxidable interior.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica ATMA PEAT1351 — Interior Acero Inoxidable, 1.8L, Negro',
+      description:
+        'Pava eléctrica ATMA 1.8L con interior de acero inoxidable. Exterior plástico negro. 1500W, corte automático a 100°C, filtro extraíble, base giratoria 360°. Sin control de temperatura variable. Con indicador de agua iluminado LED azul.',
+      brand: { '@type': 'Brand', name: 'ATMA' },
+      model: 'PEAT1351',
+      color: 'Negro',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1TBSj3K',
+        priceCurrency: 'ARS',
+        price: 40739,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '2368',
+      },
+    },
+    relatedProducts: ['MLA11145436', 'MLA24601443', 'MLA47275624', 'MLA47183370'],
   },
   {
     id: 'MLA24601443',
