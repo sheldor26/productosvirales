@@ -1,19 +1,22 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { guides } from "@/data/guides";
+import { guides, getPublishedGuides } from "@/data/guides";
 import { GuideRenderer } from "@/components/guides/GuideRenderer";
+
+// Revalidate daily so scheduled guides go live on their publishedDate
+export const revalidate = 86400;
 
 interface Props {
   params: Promise<{ slug: string }>;
 }
 
 export async function generateStaticParams() {
-  return guides.map((g) => ({ slug: g.slug }));
+  return getPublishedGuides().map((g) => ({ slug: g.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
-  const guide = guides.find((g) => g.slug === slug);
+  const guide = getPublishedGuides().find((g) => g.slug === slug);
   if (!guide) return { title: "Guía no encontrada" };
 
   return {
@@ -42,7 +45,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function GuidePage({ params }: Props) {
   const { slug } = await params;
-  const guide = guides.find((g) => g.slug === slug);
+  const guide = getPublishedGuides().find((g) => g.slug === slug);
 
   if (!guide) {
     notFound();

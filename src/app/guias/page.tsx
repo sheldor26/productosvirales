@@ -1,6 +1,9 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { guides, guideCategories } from "@/data/guides";
+import { getPublishedGuides, guideCategories } from "@/data/guides";
+
+// Revalidate daily so scheduled guides appear on their publishedDate
+export const revalidate = 86400;
 
 export const metadata: Metadata = {
   title: "Guías de compra — Productos Virales",
@@ -13,7 +16,8 @@ export const metadata: Metadata = {
 
 export default function GuiasIndexPage() {
   // Group guides by category
-  const grouped = guides.reduce<Record<string, typeof guides>>((acc, guide) => {
+  const published = getPublishedGuides();
+  const grouped = published.reduce<Record<string, typeof published>>((acc, guide) => {
     if (!acc[guide.category]) acc[guide.category] = [];
     acc[guide.category].push(guide);
     return acc;

@@ -1,5 +1,11 @@
 import type { Guide } from "@/lib/types";
 
+/** Returns only guides whose publishedDate is today or in the past */
+export function getPublishedGuides(): Guide[] {
+  const today = new Date().toISOString().slice(0, 10); // "YYYY-MM-DD"
+  return guides.filter((g) => g.publishedDate <= today);
+}
+
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   // ARTÍCULO 1: Dónde comprar masajeadores en Argentina
@@ -1110,8 +1116,8 @@ export const guides: Guide[] = [
     ogDescription:
       "El modelo PEAT1351 es el que vale la pena. El PE0821AP no. Acá te explico por qué.",
     h1: "Pava eléctrica Atma — la mejor opción argentina calidad-precio",
-    publishedDate: "2026-04-13",
-    updatedDate: "2026-04-13",
+    publishedDate: "2026-04-20",
+    updatedDate: "2026-04-20",
     hasDisclosure: true,
     intro: [
       "Atma es argentina. Tiene servicio técnico en todo el país. Y cuesta bastante menos que una Philips.",
@@ -1256,8 +1262,8 @@ export const guides: Guide[] = [
     ogDescription:
       "La guía definitiva de precios de pavas eléctricas en Argentina. Qué comprás por $20K, $40K y $52K.",
     h1: "Pava eléctrica precio Argentina 2026 — guía completa por rango",
-    publishedDate: "2026-04-13",
-    updatedDate: "2026-04-13",
+    publishedDate: "2026-04-27",
+    updatedDate: "2026-04-27",
     hasDisclosure: true,
     intro: [
       "Las pavas eléctricas en Argentina van desde $15.000 hasta $100.000.",
@@ -1420,8 +1426,8 @@ export const guides: Guide[] = [
     ogDescription:
       "Compré 4 pavas en ML. Una llegó rota. Acá te explico cómo comprar bien.",
     h1: "Pava eléctrica en MercadoLibre — guía para no equivocarte",
-    publishedDate: "2026-04-13",
-    updatedDate: "2026-04-13",
+    publishedDate: "2026-05-04",
+    updatedDate: "2026-05-04",
     hasDisclosure: true,
     intro: [
       "MercadoLibre tiene más de 500 modelos de pavas eléctricas. Desde $12.000 hasta $150.000.",

@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { categories } from "@/data/categories";
 import { getSitemapProducts } from "@/lib/products";
+import { getPublishedGuides } from "@/data/guides";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://productosvirales.com.ar";
 
@@ -28,5 +29,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority,
   }));
 
-  return [...staticPages, ...categoryPages, ...productPages];
+  const guidePages: MetadataRoute.Sitemap = getPublishedGuides().map((guide) => ({
+    url: `${SITE_URL}/guias/${guide.slug}`,
+    lastModified: new Date(guide.updatedDate),
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
+  return [...staticPages, ...categoryPages, ...productPages, ...guidePages];
 }
