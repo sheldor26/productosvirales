@@ -6064,39 +6064,20 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
   },
   {
     id: 'MLA47275624',
-    title: "Pava Peabody Pe-dk2200n Digital 1,5 Litros Negro",
-    badge: 'trending',
+    title: 'Pava Eléctrica Peabody Digital — 40–100°C y Función Mate',
+    badge: 'viral',
     price: 69999,
     originalPrice: 99999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_796849-MLA82896006920_032025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_796849-MLA82896006920_032025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_688894-MLA106416032003_022026-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_688894-MLA106416032003_022026-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_603157-MLA105806494108_022026-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_603157-MLA105806494108_022026-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_630283-MLA105806612560_022026-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_630283-MLA105806612560_022026-F.webp",
-      "https://http2.mlstatic.com/storage/catalog-technical-specs/images/assets/vectorial/default.svg",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_796849-MLA82896006920_032025-F.webp",
-      "https://http2.mlstatic.com/storage/logos-api-admin/f3e8e940-f549-11ef-bad6-e9962bcd76e5-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/a5f047d0-9be0-11ec-aad4-c3381f368aaf-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/b2c93a40-f3be-11eb-9984-b7076edb0bb7-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/9cf818e0-723a-11f0-a459-cf21d0937aeb-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/d72276d0-0fda-11ec-8aae-e5acfdd60b03-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/312238e0-571b-11e8-823a-758d95db88db-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/93296a70-72fe-11f0-8778-e777036b3e93-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/cb0af1c0-f3be-11eb-8e0d-6f4af49bf82e-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/157dce60-571b-11e8-95d8-631c1a9a92a9-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/fec5f230-06ee-11ea-8e1e-273366cc763d-m.svg",
-      "https://http2.mlstatic.com/storage/logos-api-admin/6d575650-dbc3-11ee-a55a-bbc538356ab8-m.svg"
-      ],
-    category: "Electrodomésticos y Aires Ac.",
+      'https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_796849-MLA82896006920_032025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_688894-MLA106416032003_022026-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_603157-MLA105806494108_022026-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_630283-MLA105806612560_022026-F.webp',
+    ],
+    category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/pava-peabody-pe-dk2200n-digital-15-litros-negro/p/MLA47275624',
     affiliateUrl: 'https://meli.la/2cyQgD2',
@@ -6105,7 +6086,149 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
     rating: 4.9,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
-    description: "Especificaciones\n- DOBLE PARED - Interior de acero inoxidable y exterior de plástico.\n- Mantiene la temperatura seleccionada por hasta dos horas.\n- Recuerda tu configuración hasta por media hora cuando levantas la jarra o cuando se corta la luz.\n- Temperatura regulable de 40º a 100°.\n- Display LED y",
+    description: 'Pava eléctrica Peabody con display LED y panel touch, temperatura regulable de 40°C a 100°C, función mate, keep warm hasta 2 horas, función memoria (recuerda configuración 30 min ante cortes de luz), interior acero inoxidable, doble pared, Termostato Strix, 1.5L, 2200W.',
+    pros: [
+      '4.9⭐ con 461 calificaciones — el mejor rating de todo el sitio',
+      'Display LED touch con temperatura de 40°C a 100°C en incrementos de 5°',
+      'Función mate — seleccioná 70°C o 75°C directo del panel',
+      'Keep warm hasta 2 horas — mantiene la temperatura sin reprogramar',
+      'Función memoria — recuerda configuración 30 min ante cortes de luz',
+      'Interior acero inoxidable + doble pared (exterior no quema)',
+      'Termostato Strix UK — el mismo que usa Philips',
+      '2.200W — la más potente del cluster',
+    ],
+    cons: [
+      'Cable de 0.75m — el más corto del cluster, puede ser justo',
+      '1.5L de capacidad — menor que ATMA (1.8L) y Oster/Philips (1.7L)',
+      'Precio más alto del cluster ($69.999)',
+      'Sin infusor incluido',
+    ],
+    verdict: 'Las otras pavas del sitio hacen una cosa: hervir agua a 100°C. La Peabody PE-DK2200N hace todo con un display LED y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C. Y después la mantiene hasta 2 horas. Con 4.9⭐ sobre 461 calificaciones es el producto con mejor rating de todo el sitio. El cable corto (0.75m) y la capacidad menor (1.5L) son los únicos puntos donde las otras le ganan.',
+    seoTitle: 'Pava Eléctrica Peabody Digital — 40–100°C y Función Mate',
+    metaDescription: 'Pava Peabody PE-DK2200N: display LED touch, temperatura 40°–100°C, función mate, keep warm 2 h y función memoria para cortes de luz. 4.9⭐ / 461 calificaciones.',
+    ogTitle: 'Pava Eléctrica Peabody PE-DK2200N — Display LED, 40–100°C, Función Mate y Keep Warm 2h',
+    ogDescription: 'Display LED táctil, temperatura seleccionable de 40° a 100°C, función mate, mantiene temperatura 2 h y función memoria para cortes de luz. 4.9⭐ / 461 cal.',
+    h1: 'Pava eléctrica Peabody PE-DK2200N: display LED touch, 40°C a 100°C, función mate y keep warm 2 horas',
+    articleBody: `Las otras pavas eléctricas de este sitio hacen una cosa: hervir agua a 100°C. Algunas tienen control analógico de temperatura, un par tienen función mate. La Peabody PE-DK2200N hace todo eso con un display LED en el cuerpo y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C en incrementos de 5 grados. Y después mantiene esa temperatura hasta dos horas.
+
+Con 4.9 estrellas sobre 461 calificaciones, es el producto con mejor rating en todo el sitio.
+
+## El display y el panel touch
+
+El cuerpo negro tiene un display LED frontal que muestra la temperatura seleccionada. Cuatro botones táctiles: flecha arriba (sube temperatura), flecha abajo (baja temperatura), power y el ícono de keep warm. No hay perilla ni graduaciones físicas. Todo desde la pantalla.
+
+Los 290 comentarios confirman que la respuesta al tacto es precisa y que el display es legible de noche.
+
+## 40°C a 100°C: por qué importa el rango completo
+
+La mayoría de las pavas con control de temperatura van de 60°C a 100°C. La Peabody arranca en 40°C, lo que abre un caso de uso que las otras no cubren: agua tibia para bebés o para personas que no toleran las infusiones muy calientes.
+
+En la práctica cotidiana, los rangos útiles son: mate 70°C–75°C (la yerba no se quema), té verde 75°C–80°C, té negro y café de filtro 90°C–95°C, agua para cocinar 100°C. Cada uno tiene su temperatura exacta. La Oster BVSTKT4970W también tiene control de temperatura, pero con perilla analógica sin display. La Peabody muestra el número en pantalla.
+
+## Keep warm: mantiene la temperatura hasta 2 horas
+
+Ponés la temperatura, el agua llega ahí y la pava la sostiene 2 horas sin que vos hagas nada. Práctico si preparás mate durante un partido, si tenés visita y hacés varias rondas de té, o si la cocina está lejos de donde estás sentado.
+
+La función se activa sola cuando seleccionás una temperatura. No es un modo separado, es el comportamiento por defecto de la pava.
+
+## La función memoria: diseñada para cortes de luz
+
+Si levantás la jarra de la base, o si se va la luz, la pava recuerda tu configuración durante hasta 30 minutos. Cuando la volvés a colocar o se restaura la corriente, retoma desde donde estaba sin tener que reprogramar.
+
+Los cortes de luz en el Conurbano son frecuentes. Ninguna de las otras pavas del sitio tiene esta función.
+
+## El interior y la doble pared
+
+El cuerpo interior es acero inoxidable cepillado con marcas grabadas: MIN 0.5L / 1.0L / MAX 1.5L. El elemento térmico está en el fondo, plano y oculto, lo que facilita la limpieza. El exterior es plástico negro de doble pared.
+
+La doble pared cumple dos funciones: el exterior no quema aunque el agua esté a 90°C, y hay algo de aislación térmica que ayuda al keep warm a no trabajar de más.
+
+La ficha especifica Termostato STRIX — el mismo proveedor que usa Philips en la HD9350/90.
+
+## Lo que hay que saber antes de comprar
+
+Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el tomacorriente está lejos de tu mesada puede ser justo. La capacidad es 1.5 litros, no 1.7L como las demás — si preparás 4 o 5 mates seguidos para varias personas, el refill es más frecuente.
+
+## Calificaciones
+
+4.9⭐ sobre 461 calificaciones y 290 comentarios. El resumen de ML: "La pava eléctrica destaca por su capacidad de calentar el agua rápidamente y mantenerla caliente, además de permitir seleccionar la temperatura ideal para diferentes preparaciones. En general, es un producto de buena calidad y funcionalidad, con un interior de acero inoxidable que asegura durabilidad."`,
+    specs: [
+      { label: 'Marca', value: 'Peabody' },
+      { label: 'Modelo', value: 'PE-DK2200N' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Potencia', value: '2.200W' },
+      { label: 'Capacidad', value: '1.5L' },
+      { label: 'Material interior', value: 'Acero inoxidable' },
+      { label: 'Material exterior', value: 'Plástico — doble pared' },
+      { label: 'Control de temperatura', value: 'Digital — 40°C a 100°C (incrementos de 5°)' },
+      { label: 'Panel', value: 'Touch LED (4 botones)' },
+      { label: 'Display', value: 'LED — muestra temperatura seleccionada' },
+      { label: 'Función mate', value: 'Sí (70–75°C)' },
+      { label: 'Keep warm', value: 'Hasta 2 horas' },
+      { label: 'Función memoria', value: 'Sí — recuerda configuración 30 min' },
+      { label: 'Termostato', value: 'Strix (Reino Unido)' },
+      { label: 'Base giratoria', value: 'Sí — 360° antideslizante' },
+      { label: 'Cable', value: '0.75m ⚠️' },
+      { label: 'Corte automático', value: 'Sí + doble protección de seguridad' },
+      { label: 'Guardacable', value: 'Sí' },
+      { label: 'Rating', value: '4.9 ⭐ (461 calificaciones — 290 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿La Peabody PE-DK2200N tiene función mate?',
+        answer:
+          'Sí. Podés seleccionar 70°C o 75°C directamente desde el panel touch. El agua llega a esa temperatura y la pava la mantiene hasta 2 horas.',
+      },
+      {
+        question: '¿Qué pasa si se va la luz o levanto la jarra?',
+        answer:
+          'La función memoria guarda tu configuración durante 30 minutos. Cuando restaurás la corriente o volvés a colocar la jarra, la pava retoma sin reprogramar.',
+      },
+      {
+        question: '¿Cuánto mide el cable?',
+        answer:
+          '0.75 metros. Es más corto que el cable estándar. Si el tomacorriente está lejos, conviene medirlo antes.',
+      },
+      {
+        question: '¿El interior es de acero inoxidable?',
+        answer:
+          'Sí. El cuerpo interior es acero inoxidable con marcas de nivel grabadas (0.5L, 1.0L, 1.5L MAX). El elemento térmico es plano y está en el fondo.',
+      },
+      {
+        question: '¿La pava puede calentar a 40°C?',
+        answer:
+          'Sí. El rango va de 40°C a 100°C. Es la única del cluster que arranca tan bajo — útil para agua tibia para bebés.',
+      },
+      {
+        question: '¿Cuánto tarda en calentar?',
+        answer:
+          'Con 2.200W es la pava más potente del cluster. El calentamiento es rápido según los 290 comentarios.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Peabody PE-DK2200N Digital',
+      description:
+        'Hervidor eléctrico Peabody con display LED y panel touch, temperatura regulable de 40°C a 100°C, función mate, keep warm hasta 2 horas, función memoria, interior acero inoxidable, doble pared, Termostato Strix, 1.5L, 2200W, base 360°.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      model: 'PE-DK2200N',
+      color: 'Negro',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2cyQgD2',
+        priceCurrency: 'ARS',
+        price: 69999,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '461',
+      },
+    },
+    relatedProducts: ['MLA49747515', 'MLA11145436', 'MLA24601443', 'MLA47183370'],
   },
   {
     id: 'MLA47183370',
