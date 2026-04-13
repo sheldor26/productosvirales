@@ -2580,7 +2580,8 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
   },
   {
     id: 'MLA521391764',
-    title: 'Astronauta Sentado Proyector Galaxia Estrellas Lampara Led',
+    title: 'Proyector Astronauta Geotek — 8 Nebulosas, Timer y Control',
+    badge: 'viral',
     price: 14950,
     originalPrice: undefined,
     currency: 'ARS',
@@ -2592,7 +2593,7 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
       'https://http2.mlstatic.com/D_NQ_NP_2X_881708-MLA78262576110_082024-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_883924-MLA78262171562_082024-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Hogar',
     categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/astronauta-sentado-proyector-galaxia-estrellas-lampara-led/up/MLAU521391764',
     affiliateUrl: 'https://meli.la/1kqBBjs',
@@ -2601,7 +2602,141 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
     rating: 4.9,
     soldQuantity: 500,
     pastelColor: 'var(--pastel-amber)',
-    description: 'Explora el Universo desde la Comodidad de tu Hogar con el Proyector Astronauta Galaxia GEOTEK  Transforma cualquier habitación en un increíble universo lleno de estrellas y nebulosas con nuestro Proyector Astronauta Galaxia GEOTEK. Este dispositivo único combina tecnología avanzada con un diseño enc',
+    description: 'Proyector de galaxia con forma de astronauta sentado Geotek. 8 modos de nebulosa multicolor, proyección 360° ajustable, brillo y velocidad regulables, temporizador 40/90 min, control remoto (5m). USB 5V. Dimensiones: 8.5×8.5×12.5cm. Material ABS/PC/PVC. 4.9⭐ con 367 calificaciones.',
+    pros: [
+      '4.9⭐ con 367 calificaciones y 228 comentarios',
+      '8 modos de nebulosa multicolor — cada uno con patrón diferente',
+      'Temporizador 40/90 min — los chicos se duermen solos',
+      'Control remoto con brillo, velocidad y modos ajustables',
+      'Proyección 360° con ángulo ajustable',
+      'El astronauta es decorativo por sí solo — queda en la mesa',
+      'Envío gratis',
+      'Consumo menor a 5W — no impacta en la factura de luz',
+    ],
+    cons: [
+      'No incluye adaptador USB de pared — necesitás el del celular',
+      'No incluye pilas para el control remoto (2× AAA)',
+      'Sin Bluetooth, bocina ni app — solo luces',
+      'Sin batería interna — requiere estar enchufado siempre',
+    ],
+    verdict: 'Este proyector llegó a Argentina por TikTok. El Geotek Nebula tiene 4.9⭐ sobre 367 calificaciones — casi todas 5 estrellas. 8 modos de nebulosa, timer para que los chicos se duerman y una figura de astronauta que decora incluso apagada. No tiene Bluetooth ni bocina — es un proyector de luces y nada más. Para eso, funciona muy bien.',
+    seoTitle: 'Proyector Astronauta Geotek — 8 Nebulosas, Timer y Control',
+    metaDescription: 'Proyector astronauta Geotek sentado: 8 modos de nebulosa, proyección 360°, temporizador 40/90 min, control remoto y USB. 4.9⭐ / 367 calificaciones.',
+    ogTitle: 'Proyector Astronauta Geotek Nebula — 8 Modos, Proyección 360° y Timer',
+    ogDescription: 'Astronauta proyector de galaxia con 8 modos de nebulosa, temporizador 40/90 min, control remoto y proyección 360°. Ideal para dormitorios y regalo. 4.9⭐ / 367 calificaciones.',
+    h1: 'Proyector astronauta sentado Geotek: 8 modos nebulosa, proyección 360° y timer',
+    articleBody: `Este proyector llegó a Argentina por TikTok. El video que más circuló en el feed de habitaciones juveniles muestra exactamente esto: una habitación oscura, un astronauta blanco pequeño sobre la mesita de luz y un techo entero cubierto de nebulosas azules, verdes y moradas. La gente lo guarda, lo etiqueta, termina comprándolo.
+
+El Geotek Nebula Projector tiene 4.9 estrellas sobre 367 calificaciones y 228 comentarios. El resumen de MercadoLibre: "el proyector ofrece un efecto de luces muy lindo para ambientar un dormitorio, siendo especialmente apreciado por los niños, y destaca por su capacidad para iluminar más de lo esperado."
+
+## El astronauta como objeto de decoración
+
+La figura mide 8.5 × 8.5 × 12.5 cm. Es un astronauta sentado de plástico ABS blanco con detalles dorados en el traje, una expresión sonriente estampada en el pecho y casco esférico negro. La lente proyectora sale del visor del casco.
+
+Con la luz encendida o apagada, el objeto tiene presencia visual sobre una mesa. No es solo un aparato de luces que guardás en un cajón: es parte de la decoración del cuarto.
+
+## Los 8 modos de nebulosa
+
+Las imágenes del producto muestran 8 efectos distintos: nebulosa rosa/magenta + estrellas verdes, nebulosa azul eléctrico, rojo + verde, azul + morado, roja sola, verde sola, azul profundo, y campo de estrellas verdes sobre fondo negro.
+
+Cada modo proyecta colores y patrones diferentes en el techo y las paredes. La intensidad del brillo y la velocidad del efecto son ajustables desde el control remoto.
+
+## El temporizador: para que los chicos se duerman solos
+
+Hay dos opciones de apagado automático: 40 minutos o 90 minutos. Programás la que necesitás y el proyector se apaga solo. Para uso con chicos al momento de dormir, este es el feature que más aparece en los comentarios como motivo de satisfacción: el nene se duerme mirando las estrellas y no es necesario entrar a apagar la luz.
+
+## El control remoto
+
+El control mide unos 10 cm y tiene botones para encendido/apagado, brillo (+/-), modo nebulosa (S+/S-), velocidad de efecto láser, modo 4-en-1, activación del láser de estrellas y reset. El alcance especificado es 5 metros.
+
+El control remoto necesita pilas que no vienen incluidas en la caja (generalmente 2× AAA).
+
+## Alimentación USB
+
+El proyector se conecta por cable USB al cargador. En la caja viene el cable USB, pero no viene el adaptador de pared. Cualquier cargador USB de 5V / 1A sirve: el del celular, un hub USB, un powerbank. El consumo es menor a 5W.
+
+## Quién lo compra
+
+Las fotos de los reviewers tienen dos patrones claros: habitaciones de chicos con el proyector sobre la mesita, y cuartos de adultos con la nebulosa proyectada en el techo. Como regalo cumple bien: el packaging es prolijo, la figura tiene atractivo visual inmediato y el efecto de luces al encenderlo por primera vez genera reacción.
+
+## Lo que no tiene
+
+Sin Bluetooth ni bocina. Sin app. Sin control por voz. Sin funcionalidad smart home. Es un proyector de luces con control remoto, nada más.`,
+    specs: [
+      { label: 'Marca', value: 'Geotek' },
+      { label: 'Modelo', value: 'Nebula Projector' },
+      { label: 'Color', value: 'Blanco con detalles dorados' },
+      { label: 'Dimensiones', value: '8.5 × 8.5 × 12.5 cm' },
+      { label: 'Material', value: 'ABS + PC + PVC' },
+      { label: 'Modos de nebulosa', value: '8 efectos multicolor' },
+      { label: 'Proyección', value: '360° — ángulo ajustable' },
+      { label: 'Brillo', value: 'Ajustable desde control remoto' },
+      { label: 'Velocidad', value: 'Ajustable desde control remoto' },
+      { label: 'Temporizador', value: '40 min / 90 min' },
+      { label: 'Control remoto', value: 'Sí — alcance 5m' },
+      { label: 'Pilas control', value: 'No incluidas (2× AAA)' },
+      { label: 'Alimentación', value: 'USB 5V/1A (cable incluido, adaptador no)' },
+      { label: 'Potencia LED', value: 'Menor a 5W' },
+      { label: 'Bluetooth/bocina', value: 'No' },
+      { label: 'App inteligente', value: 'No' },
+      { label: 'Rating', value: '4.9 ⭐ (367 calificaciones — 228 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿El proyector astronauta Geotek incluye el cargador USB?',
+        answer:
+          'No. En la caja viene el cable USB, pero no el adaptador de pared. Necesitás un cargador USB de 5V / 1A — el de cualquier celular sirve.',
+      },
+      {
+        question: '¿Las pilas del control remoto vienen incluidas?',
+        answer:
+          'No. El control remoto requiere pilas (generalmente 2× AAA). No están incluidas en la caja.',
+      },
+      {
+        question: '¿El proyector tiene sonido o música?',
+        answer:
+          'No. El Geotek Nebula Projector proyecta luces únicamente. No tiene bocina, reproductor de música ni Bluetooth.',
+      },
+      {
+        question: '¿Cuánto dura el temporizador?',
+        answer:
+          'Tiene dos modos: 40 minutos y 90 minutos. Se activan desde el control remoto. Al terminar, el proyector se apaga automáticamente.',
+      },
+      {
+        question: '¿Cuánto espacio cubre la proyección?',
+        answer:
+          'La proyección es de 360° con ángulo ajustable. El efecto cubre paredes y techo. Cuanto más oscura la habitación, mejor la visibilidad de las nebulosas.',
+      },
+      {
+        question: '¿Es apto para chicos?',
+        answer:
+          'Sí. Material ABS/PC/PVC sin partes pequeñas sueltas. El temporizador automático es especialmente útil para dormitorio infantil.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Proyector Astronauta Sentado Geotek Nebula — Galaxia y Estrellas LED',
+      description:
+        'Proyector de galaxia con forma de astronauta sentado. 8 modos de nebulosa multicolor, proyección 360° ajustable, temporizador 40/90 min, control remoto (5m), USB 5V/1A. 8.5×8.5×12.5 cm. ABS/PC/PVC. Potencia LED menor a 5W.',
+      brand: { '@type': 'Brand', name: 'Geotek' },
+      model: 'Nebula Projector',
+      color: 'Blanco',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1kqBBjs',
+        priceCurrency: 'ARS',
+        price: 14950,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '367',
+      },
+    },
+    relatedProducts: ['MLA45675149', 'MLA2729985625', 'MLA46927234'],
   },
   {
     id: 'MLA45675149',
