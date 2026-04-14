@@ -29,6 +29,29 @@ export default function TrendingPage() {
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8 space-y-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Inicio",
+                item: "https://productosvirales.com.ar",
+              },
+              {
+                "@type": "ListItem",
+                position: 2,
+                name: "Trending",
+                item: "https://productosvirales.com.ar/trending",
+              },
+            ],
+          }),
+        }}
+      />
       <div>
         <h1
           className="text-2xl md:text-3xl font-extrabold text-[var(--text-primary)]"

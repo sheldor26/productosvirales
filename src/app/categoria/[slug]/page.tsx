@@ -105,6 +105,12 @@ export default async function CategoryPage({ params }: Props) {
         )}
       </div>
 
+      {category.buyersGuide && (
+        <section className="max-w-none text-sm text-[var(--text-secondary)] leading-relaxed [&_h2]:text-base [&_h2]:font-bold [&_h2]:text-[var(--text-primary)] [&_h2]:mt-5 [&_h2]:mb-2 [&_p]:mb-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:mb-3 [&_ul]:space-y-1.5 [&_strong]:text-[var(--text-primary)] [&_strong]:font-semibold">
+          <div dangerouslySetInnerHTML={{ __html: category.buyersGuide }} />
+        </section>
+      )}
+
       <ProductGrid
         products={products.length > 0 ? products : visibleProducts.slice(0, 8)}
         title={products.length > 0 ? undefined : "Productos destacados"}

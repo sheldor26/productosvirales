@@ -93,6 +93,7 @@ export interface Category {
   h1?: string;
   isSpecial?: boolean;
   color?: string;
+  buyersGuide?: string;
 }
 
 // ML API response types
