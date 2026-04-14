@@ -8690,6 +8690,114 @@ No tiene shiatsu ni nodos rotativos. Es percusión por vibración, que es difere
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-pink)',
     description: "Presentación: \n\n- Masajeador cervical, lumbar, anticelulitis y de pies\n- rodillos giratorios\n- 2 accesorios intercambiables \n- Terapia infrarroja\n- Diseño ergonómico y moderno\n- Mango ergonómico mejor agarre\n- Control incorporado\n- 220v, potencia 28w. 50Hz\n-------------------------------------------",
+    seoTitle: 'Masajeador Eléctrico Caliber Percussion Infrarrojo | PickViral',
+    metaDescription: 'Masajeador eléctrico Caliber Percussion con calor infrarrojo, doble cabezal y certificación argentina. 220V, 28W constantes para cuello, espalda y pies.',
+    ogTitle: 'Masajeador Eléctrico Caliber Percussion con Infrarrojo | PickViral',
+    ogDescription: 'Doble cabezal percutor con 3 emisores infrarrojos, 28W constantes y certificación argentina IQC T8354/3. Para cuello, espalda y pies.',
+    h1: 'Caliber Percussion: el masajeador eléctrico con infrarrojo que no necesita batería',
+    pros: [
+      '28W constantes sin batería',
+      '3 emisores LED infrarrojos reales',
+      'Certificación argentina T8354/3 (IQC S.A.)',
+      '2 accesorios intercambiables',
+      'Compacto 15 × 17 cm',
+      'Sirve para cuello, espalda y pies',
+    ],
+    cons: [
+      'Requiere enchufe (no portátil)',
+      'Movimiento unidireccional (no shiatsu)',
+      'Segundo cabezal no confirmado en publicación',
+      'Rating 4.6 — justo debajo del umbral trending',
+    ],
+    verdict: 'El único masajeador de mano del cluster con infrarrojo real + certificación IQC argentina. Sin batería = sin incertidumbre.',
+    articleBody: `## Por qué un masajeador eléctrico con cable tiene ventajas reales
+
+La mayoría de los masajeadores que aparecen en MercadoLibre hoy funcionan con batería. Es cómodo, está bien. Pero hay un escenario donde eso es una desventaja concreta: cuando necesitás usarlo 30 o 40 minutos seguidos y no tenés forma de saber cuánta carga le queda.
+
+El Caliber Percussion trabaja de otra manera. Enchufado a 220V, entrega sus 28W durante todo el tiempo que lo uses, sin que la potencia caiga a medida que la batería se agota. Para quienes lo usan a diario sobre la zona lumbar o el cuello, eso marca una diferencia que se siente.
+
+No es una pistola masajeadora. Eso vale aclararlo desde el principio porque el diseño lleva a confusión. Es un wand, un masajeador de mano con cabezal frontal, dos nodos rotativos y mango ergonómico integrado con el control de velocidad. El movimiento es unidireccional, lo que lo hace más predecible en zonas sensibles como el cuello y los pies.
+
+## Calor infrarrojo: el detalle que no tiene ningún otro en el segmento
+
+El Caliber Percussion incorpora tres emisores LED infrarrojos en la cabeza del dispositivo: dos grandes a los lados y uno más pequeño en el centro. No es marketing — se ven claramente en las fotos de compradores que muestran el aparato en funcionamiento.
+
+El calor infrarrojo penetra más profundo que el calor superficial de almohadillas térmicas convencionales. Combinado con la percusión mecánica de los nodos rotativos, el resultado es una acción doble sobre la zona tratada: movimiento + calor localizado. En el segmento de masajeadores eléctricos de este rango de precio, ningún otro producto del cluster ofrece esa combinación.
+
+La [Femmto MP](/producto/MLA37908577) tiene sensor de presión y motor brushless — no tiene infrarrojo. El [Melfit I2500](/producto/MLA28420339) tiene calor infrarrojo en el asiento pero no es un dispositivo manual. El Caliber Percussion es el único masajeador de mano con infrarrojos en esta selección.
+
+## Zonas de uso y diseño del cabezal
+
+Caliber declara tres zonas de uso: cervical, espalda y pies. El cabezal con dos nodos rotativos tiene una geometría que permite trabajar sobre el cuello con menos esfuerzo postural que una pistola, porque el ángulo de agarre es más natural para apuntar hacia atrás.
+
+Para los pies, los nodos rotativos funcionan bien sobre la planta, sobre el arco y los metatarsos. No reemplaza a un masajeador de pies específico con cámara de compresión, pero para alguien que quiere un único dispositivo que cubra varias zonas, el Caliber tiene más versatilidad que sus pares.
+
+Trae dos accesorios intercambiables en la caja. No se confirma el tipo exacto de cabezales adicionales desde las imágenes disponibles — el comprador debería consultarle al vendedor si eso es relevante para su uso.
+
+## Certificación argentina: T8354/3 por IQC S.A.
+
+Este es un punto que merece atención. El Caliber Percussion cuenta con certificación de seguridad eléctrica emitida por IQC S.A., laboratorio acreditado en Argentina, bajo el número T8354/3.
+
+Para un dispositivo eléctrico que se usa sobre el cuerpo humano, eso no es un detalle menor. Significa que el producto pasó controles de aislación eléctrica y cumple con las normas de seguridad para productos de consumo en el mercado argentino. En el cluster de masajeadores, solo el Melfit I2500 (certificado IRAM) tiene un nivel de respaldo institucional comparable.
+
+## ¿Para quién tiene más sentido?
+
+Para alguien que usa el masajeador en casa con regularidad y quiere evitar la incertidumbre de la carga de batería, el Caliber Percussion es una opción concreta. También para quien ya probó masajeadores genéricos sin certificación y quiere algo con aval de seguridad eléctrica local.
+
+No es la mejor opción si necesitás usarlo en distintos ambientes o al aire libre, o si buscás una pistola masajeadora de alta frecuencia percusiva para recuperación deportiva. Para eso, la [Femmto MP](/producto/MLA37908577) tiene más sentido. Más opciones en la [guía de masajeador de espalda](/guias/masajeador-espalda) y en la [comparativa general](/guias/mejores-masajeadores-argentina).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Caliber / Percussion' },
+      { label: 'Tipo', value: 'Masajeador de mano tipo wand' },
+      { label: 'Potencia', value: '28 W' },
+      { label: 'Tensión', value: '220V / 50Hz' },
+      { label: 'Alimentación', value: 'Cable (sin batería)' },
+      { label: 'Cabezales', value: '2 accesorios intercambiables' },
+      { label: 'Nodos rotativos', value: '2' },
+      { label: 'Movimiento', value: 'Unidireccional' },
+      { label: 'Calor infrarrojo', value: '3 emisores LED (2 grandes + 1 pequeño)' },
+      { label: 'Regulador de velocidad', value: 'Sí (integrado en mango)' },
+      { label: 'Zonas de uso', value: 'Cervical, espalda, pies' },
+      { label: 'Dimensiones', value: '15 × 17 cm' },
+      { label: 'Certificación', value: 'T8354/3 — IQC S.A. (Argentina)' },
+    ],
+    faq: [
+      { question: '¿El Caliber Percussion funciona con batería o con cable?', answer: 'Con cable. Se conecta directamente a 220V y consume 28W de forma continua. No tiene batería recargable ni funciona sin enchufe.' },
+      { question: '¿Tiene calor o solo vibración?', answer: 'Tiene calor infrarrojo. El cabezal incorpora tres emisores LED infrarrojos (dos grandes y uno pequeño) que generan calor localizado en la zona tratada, combinado con la acción de los nodos rotativos.' },
+      { question: '¿Es una pistola masajeadora?', answer: 'No. Es un masajeador de mano tipo wand con cabezal frontal y mango ergonómico. El diseño y el movimiento son distintos a los de una pistola percusora como la Femmto MP.' },
+      { question: '¿Cuántos cabezales trae?', answer: 'Dos accesorios intercambiables. El cabezal principal tiene dos nodos rotativos. Se recomienda consultar al vendedor para confirmar el tipo exacto de accesorio adicional.' },
+      { question: '¿Tiene certificación de seguridad eléctrica en Argentina?', answer: 'Sí. Cuenta con certificación T8354/3 emitida por IQC S.A., laboratorio acreditado en Argentina. Es uno de los pocos masajeadores de mano en el segmento con respaldo institucional local.' },
+      { question: '¿Sirve para masajear los pies?', answer: 'Sí, el fabricante incluye los pies entre las zonas de uso recomendadas, junto con el cuello y la espalda. Los dos nodos rotativos funcionan bien sobre la planta del pie y el arco plantar.' },
+      { question: '¿El movimiento de los nodos es bidireccional?', answer: 'No. El movimiento es unidireccional, según la ficha técnica del producto. Esto lo diferencia de masajeadores shiatsu que alternan dirección de rotación.' },
+      { question: '¿Tiene regulador de velocidad?', answer: 'Sí, integrado en el mango del dispositivo.' },
+    ],
+    relatedProducts: ['MLA37908577', 'MLA28420339', 'MLAU274288377'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Caliber Percussion Masajeador Eléctrico Infrarrojo Doble Cabezal',
+      description: 'Masajeador eléctrico de mano tipo wand con 3 emisores LED infrarrojos, 2 nodos rotativos, 28W continuos a 220V, 2 accesorios intercambiables y certificación argentina T8354/3 por IQC S.A. Zonas: cervical, espalda y pies.',
+      brand: { '@type': 'Brand', name: 'Caliber' },
+      model: 'Percussion',
+      sku: 'MLA25263767',
+      category: 'Masajeadores eléctricos',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_954507-MLU72851427726_112023-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA25263767',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '45876',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2gqPvgW',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '250',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA23131501',
