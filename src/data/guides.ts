@@ -1903,17 +1903,17 @@ export const guides: Guide[] = [
     title: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar en 2026?",
     seoTitle: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar? (2026)",
     metaDescription:
-      "Comparamos 4 pavas Liliana (AP152, AP175B, AP175, AP992B). Precios desde $31.999. La AP175B Mateando por $44.599 es mejor compra.",
+      "Comparamos 4 pavas Liliana (AP152, AP175B, AP175, AP992B). Precios desde $31.999. La AP175B Mateando por $45.099 es mejor compra.",
     ogTitle: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar en 2026?",
     ogDescription:
-      "4 modelos entre $31.999 y $61.899. La AP175B Mateando por $44.599 es la mejor compra. Comparativa completa.",
+      "4 modelos entre $31.999 y $61.899. La AP175B Mateando por $45.099 es la mejor compra. Comparativa completa.",
     h1: "Pava eléctrica Liliana — ¿cuál de las 4 comprar?",
     publishedDate: "2026-05-18",
     updatedDate: "2026-05-18",
     hasDisclosure: true,
     intro: [
-      "Liliana vende cuatro pavas eléctricas entre $31.999 y $61.899. La AP152 de acero sale $31.999, la AP175B Mateando sale $44.599, la AP175 Tempomate sale $47.902, y la AP992B Safeheat sale $61.899.",
-      "Probé los cuatro modelos. La AP175B Mateando por $44.599 es la mejor compra. Función mate con 2 niveles de temperatura, 1.7 litros, y $8.740 más barata que Atma si querés función mate.",
+      "Liliana vende cuatro pavas eléctricas entre $31.999 y $61.899. La AP152 de acero sale $31.999, la AP175B Mateando sale $45.099, la AP175 Tempomate sale $47.902, y la AP992B Safeheat sale $61.899.",
+      "Probé los cuatro modelos. La AP175B Mateando por $45.099 es la mejor compra. Función mate con 2 niveles de temperatura, 1.7 litros, y la alternativa más accesible con mate activo del cluster.",
     ],
     sections: [
       { type: "h2", title: "Los cuatro modelos Liliana" },
@@ -1928,11 +1928,11 @@ export const guides: Guide[] = [
         content:
           "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado — [Atma](/producto/MLA49747515) con acero sale $40.739. Ahorrás $8.740 por el mismo material. Pero no tiene función mate ni control de temperatura.",
       },
-      { type: "h3", title: "AP175B Mateando — MEJOR COMPRA ($44.599)" },
+      { type: "h3", title: "AP175B Mateando — MEJOR COMPRA ($45.099)" },
       {
         type: "card",
         card: {
-          heading: "Liliana AP175B Mateando — $44.599",
+          heading: "Liliana AP175B Mateando — $45.099",
           paragraphs: [
             "Plástico, 1.7L, 2000W, función mate con 2 niveles (80°C mate / 100°C hervir), corte automático, doble visor de agua, filtro extraíble, sistema de apertura con traba.",
             "Seleccionás mate y el agua llega a 80° exactos y se mantiene ahí. No tenés que hervir y esperar. $11.301 más barata que [Peabody](/producto/MLA47275624) que también tiene función mate.",
@@ -1950,22 +1950,22 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "1.5L, doble pared (interior acero, exterior plástico), pantalla digital, 7 niveles de temperatura, Keep Warm, 1500W. Los 7 niveles suenan útiles pero son demasiados para uso real — la mayoría solo usa 80° y 100°. Y 1.5L es 200ml menos que la AP175B. La AP175B por $44.599 hace lo necesario por $17.300 menos.",
+          "1.5L, doble pared (interior acero, exterior plástico), pantalla digital, 7 niveles de temperatura, Keep Warm, 1500W. Los 7 niveles suenan útiles pero son demasiados para uso real — la mayoría solo usa 80° y 100°. Y 1.5L es 200ml menos que la AP175B. La AP175B por $45.099 hace lo necesario por $16.800 menos.",
       },
       { type: "h2", title: "AP175B: por qué es la mejor compra" },
       {
         type: "p",
         content:
-          "La AP175B Mateando por $44.599 es mejor compra que los otros tres modelos Liliana y que la competencia.",
+          "La AP175B Mateando por $45.099 es mejor compra que los otros tres modelos Liliana y que la competencia.",
       },
       {
         type: "table",
         headers: ["Modelo", "Precio", "Material", "Función mate", "Diferencia vs AP175B"],
         rows: [
-          ["AP152", "$31.999", "Acero", "No", "$12.600 menos, sin mate"],
-          ["AP175B Mateando", "$44.599", "Plástico", "Sí (2 niveles)", "—"],
-          ["AP175 Tempomate", "$47.902", "Plástico", "Sí (2 niveles)", "$3.303 más — solo el color"],
-          ["AP992B Safeheat", "$61.899", "Interior acero", "Sí (7 niveles)", "$17.300 más, 1.5L"],
+          ["AP152", "$31.999", "Acero", "No", "$13.100 menos, sin mate"],
+          ["AP175B Mateando", "$45.099", "Plástico", "Sí (2 niveles)", "—"],
+          ["AP175 Tempomate", "$47.902", "Plástico", "Sí (2 niveles)", "$2.803 más — solo el color"],
+          ["AP992B Safeheat", "$61.899", "Interior acero", "Sí (7 niveles)", "$16.800 más, 1.5L"],
         ],
       },
       { type: "h2", title: "AP175B vs competencia" },
@@ -1973,19 +1973,19 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "[Atma](/producto/MLA49747515) es $3.860 más barata, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, pagar $3.860 extra por función mate vale la pena.",
+          "[Atma](/producto/MLA49747515) es $4.360 más barata, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, pagar $4.360 extra por función mate vale la pena.",
       },
       { type: "h3", title: "vs Philips HD9350 ($52.499)" },
       {
         type: "p",
         content:
-          "[Philips](/producto/MLA24601443) es $7.900 más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
+          "[Philips](/producto/MLA24601443) es $7.400 más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
       },
       { type: "h3", title: "vs Peabody PE-DK2200N ($69.999)" },
       {
         type: "p",
         content:
-          "[Peabody](/producto/MLA47275624) es $25.400 más cara, tiene control continuo 40-100° y pantalla digital. Si tomás té verde a 70° o blanco a 60°: Peabody vale los $25K extra. Si solo tomás mate a 80° y agua a 100°: los 2 niveles de Liliana alcanzan.",
+          "[Peabody](/producto/MLA47275624) es $24.900 más cara, tiene control continuo 40-100° y pantalla digital. Si tomás té verde a 70° o blanco a 60°: Peabody vale los $25K extra. Si solo tomás mate a 80° y agua a 100°: los 2 niveles de Liliana alcanzan.",
       },
       { type: "h2", title: "Función mate: ¿realmente la usás?" },
       {
@@ -2011,14 +2011,14 @@ export const guides: Guide[] = [
       {
         type: "verdict",
         content:
-          "Para la mayoría, comprá AP175B Mateando por $44.599. Si solo hervís a 100° sin función mate: AP152 por $31.999. Si querés acero completo con durabilidad: [Philips HD9350](/producto/MLA24601443). Si presupuesto ajustado: [Atma PEAT1351](/producto/MLA49747515).",
+          "Para la mayoría, comprá AP175B Mateando por $45.099. Si solo hervís a 100° sin función mate: AP152 por $31.999. Si querés acero completo con durabilidad: [Philips HD9350](/producto/MLA24601443). Si presupuesto ajustado: [Atma PEAT1351](/producto/MLA49747515).",
       },
     ],
     faq: [
       {
         question: "¿Por qué la AP175B es mejor que la AP152?",
         answer:
-          "AP152 es más barata ($31.999) y tiene acero. Pero no tiene función mate. AP175B por $44.599 agrega función mate con 2 niveles. Si tomás mate regularmente, los $12.600 extra se justifican.",
+          "AP152 es más barata ($31.999) y tiene acero. Pero no tiene función mate. AP175B por $45.099 agrega función mate con 2 niveles. Si tomás mate regularmente, los $13.100 extra se justifican.",
       },
       {
         question: "¿La función mate es precisa?",
@@ -2028,7 +2028,7 @@ export const guides: Guide[] = [
       {
         question: "¿Vale pagar $3K extra por la AP175 negra?",
         answer:
-          "No. AP175 y AP175B son exactamente iguales. Solo cambia el color. Comprá la AP175B blanca por $44.599 y ahorrás $3.303.",
+          "No. AP175 y AP175B son exactamente iguales. Solo cambia el color. Comprá la AP175B blanca por $45.099 y ahorrás $2.803.",
       },
       {
         question: "¿Cuánto dura una Liliana?",
@@ -2038,12 +2038,12 @@ export const guides: Guide[] = [
       {
         question: "¿Liliana es mejor que Atma?",
         answer:
-          "AP175B por $44.599 tiene función mate que [Atma](/producto/MLA49747515) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
+          "AP175B por $45.099 tiene función mate que [Atma](/producto/MLA49747515) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
       },
       {
         question: "¿Vale la pena la AP992B premium?",
         answer:
-          "Solo si realmente necesitás 7 niveles de temperatura y Keep Warm. Para la mayoría, la AP175B por $44.599 hace lo necesario por $17.300 menos.",
+          "Solo si realmente necesitás 7 niveles de temperatura y Keep Warm. Para la mayoría, la AP175B por $45.099 hace lo necesario por $16.800 menos.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
@@ -2070,7 +2070,7 @@ export const guides: Guide[] = [
     title: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
     seoTitle: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
     metaDescription:
-      "Análisis honesto: Oster 8970 ($99.600) y 4970B ($70.804). ¿Vale la pena vs Peabody? Comparamos precios, características y alternativas.",
+      "Análisis honesto: Oster 8970 ($99.600) y 4970B ($78.748). ¿Vale la pena vs Peabody? Comparamos precios, características y alternativas.",
     ogTitle: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
     ogDescription:
       "Oster es más cara sin ventaja real. Peabody por $55.900 con acero hace lo mismo. Análisis honesto.",
@@ -2079,13 +2079,13 @@ export const guides: Guide[] = [
     updatedDate: "2026-05-25",
     hasDisclosure: true,
     intro: [
-      "Oster vende dos pavas eléctricas en Argentina. La 4970B de plástico sale $70.804 y la 8970 de acero sale $99.600.",
-      "La pregunta directa: ¿vale la pena pagar entre $70.804 y $99.600 por una Oster cuando hay alternativas más baratas que hacen lo mismo?",
-      "La respuesta corta: no. Oster es más cara sin ventaja real. Peabody PE-DK1850 sale $55.900 con acero inoxidable y 4 preset de temperatura. Liliana AP175B sale $44.599 con función mate. Ambas hacen lo mismo que Oster por menos plata.",
+      "Oster vende dos pavas eléctricas en Argentina. La 4970B de plástico sale $78.748 y la 8970 de acero sale $99.600.",
+      "La pregunta directa: ¿vale la pena pagar entre $78.748 y $99.600 por una Oster cuando hay alternativas más baratas que hacen lo mismo?",
+      "La respuesta corta: no. Oster es más cara sin ventaja real. Peabody PE-DK1850 sale $55.900 con acero inoxidable y 4 preset de temperatura. Liliana AP175B sale $45.099 con función mate. Ambas hacen lo mismo que Oster por menos plata.",
     ],
     sections: [
       { type: "h2", title: "Las dos Oster: qué ofrecen" },
-      { type: "h3", title: "Oster 4970B — Plástico ($70.804)" },
+      { type: "h3", title: "Oster 4970B — Plástico ($78.748)" },
       {
         type: "p",
         content:
@@ -2094,7 +2094,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Cuesta $70.804. [Peabody](/producto/MLA47275624) de acero con 4 preset y pantalla digital sale $55.900. Son $14.904 menos. No tiene sentido pagar extra por plástico.",
+          "Cuesta $78.748. [Peabody](/producto/MLA47275624) de acero con 4 preset y pantalla digital sale $55.900. Son $22.848 menos. No tiene sentido pagar extra por plástico.",
       },
       { type: "h3", title: "Oster 8970 — Acero ($99.600) — La más cara del mercado" },
       {
@@ -2113,17 +2113,17 @@ export const guides: Guide[] = [
         type: "table",
         headers: ["", "Oster 4970B", "Peabody DK1850"],
         rows: [
-          ["Precio", "$70.804", "$55.900"],
+          ["Precio", "$78.748", "$55.900"],
           ["Material", "Plástico", "Acero inoxidable"],
           ["Niveles", "3 (selector mecánico)", "4 preset (táctil)"],
           ["Pantalla digital", "No", "Sí"],
-          ["Diferencia", "+$14.904", "—"],
+          ["Diferencia", "+$22.848", "—"],
         ],
       },
       {
         type: "p",
         content:
-          "Peabody tiene un preset más, pantalla digital, acero vs plástico, y cuesta $14.904 menos. Oster 4970B no tiene ventaja excepto la marca.",
+          "Peabody tiene un preset más, pantalla digital, acero vs plástico, y cuesta $22.848 menos. Oster 4970B no tiene ventaja excepto la marca.",
       },
       {
         type: "table",
@@ -2145,7 +2145,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Liliana AP175B Mateando sale $44.599. Oster 4970B sale $70.804. Diferencia: $26.205. Ambas son plástico, ambas tienen función mate, ambas 1.7L. Oster tiene un nivel más (3 vs 2) y ventana iluminada con cambio de color. Pero no justifica $26.205. Liliana hace lo mismo por menos de la mitad.",
+          "Liliana AP175B Mateando sale $45.099. Oster 4970B sale $78.748. Diferencia: $33.649. Ambas son plástico, ambas tienen función mate, ambas 1.7L. Oster tiene un nivel más (3 vs 2) y ventana iluminada con cambio de color. Pero no justifica $33.649. Liliana hace lo mismo por poco más de la mitad del precio.",
       },
       { type: "h2", title: "Oster 4970B: cuándo tiene sentido" },
       {
@@ -2163,24 +2163,24 @@ export const guides: Guide[] = [
         rows: [
           ["$31.999", "Liliana AP152", "Acero, sin función mate"],
           ["$40.739", "Atma PEAT1351", "Acero interior, sin función mate"],
-          ["$44.599", "Liliana AP175B", "Plástico, función mate 2 niveles ← MEJOR COMPRA"],
+          ["$45.099", "Liliana AP175B", "Plástico, función mate 2 niveles ← MEJOR COMPRA"],
           ["$52.499", "Philips HD9350", "Acero completo, dura 5 años"],
           ["$55.900", "Peabody PE-DK1850", "Acero, 4 preset, pantalla"],
           ["$69.999", "Peabody PE-DK2200N", "Acero, control 40-100°, keep warm 2hr"],
-          ["$70.804", "Oster 4970B", "Plástico, 3 niveles ← CARA SIN JUSTIFICACIÓN"],
+          ["$78.748", "Oster 4970B", "Plástico, 3 niveles ← CARA SIN JUSTIFICACIÓN"],
           ["$99.600", "Oster 8970", "Acero, 4 preset ← MÁS CARA DEL MERCADO"],
         ],
       },
       {
         type: "verdict",
         content:
-          "Oster es más cara sin ventaja real sobre la competencia. Si tenés $70K: mejor [Peabody PE-DK1850](/producto/MLA47275624) por $55.900 (ahorrás $14.904, acero en vez de plástico). Si tenés $99K: mejor Peabody PE-DK2200N por $69.999 (ahorrás $29.601). O comprá [Philips HD9350](/producto/MLA24601443) por $52.499 y ahorrás $47.101 con durabilidad 5 años.",
+          "Oster es más cara sin ventaja real sobre la competencia. Si tenés $78K: mejor [Peabody PE-DK1850](/producto/MLA47275624) por $55.900 (ahorrás $22.848, acero en vez de plástico). Si tenés $99K: mejor Peabody PE-DK2200N por $69.999 (ahorrás $29.601). O comprá [Philips HD9350](/producto/MLA24601443) por $52.499 y ahorrás $47.101 con durabilidad 5 años.",
       },
       { type: "h2", title: "Si querés Oster igual" },
       {
         type: "list",
         items: [
-          "Comprá la 4970B por $70.804, no la 8970 por $99.600",
+          "Comprá la 4970B por $78.748, no la 8970 por $99.600",
           "Usala solo para mate (75°) y hervir (100°) — el nivel de té a 85° casi no se usa",
           "No uses Keep Warm constantemente porque gasta luz",
           "Limpiá con vinagre cada 2-3 meses para prevenir olor a plástico",
@@ -2212,12 +2212,12 @@ export const guides: Guide[] = [
       {
         question: "¿Qué modelo Oster es mejor compra?",
         answer:
-          "Ninguno realmente. Pero si querés Oster específicamente, comprá la 4970B por $70.804. No compres la 8970 por $99.600.",
+          "Ninguno realmente. Pero si querés Oster específicamente, comprá la 4970B por $78.748. No compres la 8970 por $99.600.",
       },
       {
         question: "¿Oster 4970B o Liliana AP175B?",
         answer:
-          "Liliana AP175B por $44.599. Mismo plástico, misma función mate, $26.205 más barata. Oster solo tiene ventaja en service técnico.",
+          "Liliana AP175B por $45.099. Mismo plástico, misma función mate, $33.649 más barata. Oster solo tiene ventaja en service técnico.",
       },
       {
         question: "¿Oster 8970 o Peabody DK2200N?",
