@@ -10406,6 +10406,111 @@ Comparala también contra la [Atma Pro FR60AR](/producto/MLA27351841) — misma 
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "DESCRIPCIÓN DEL PRODUCTO:\n\n- Cocción mediante CONVECCIÓN (circulación de aire caliente). \n- Temperatura regulable de 80°C a 200°C en función manual. \n- Display LED touch y alarma sonora al finalizar la cocción. \n- Recipiente con superficie antiadherente. \n- 11 programas de cocción: Papas fritas, Pan",
+    badge: 'viral',
+    seoTitle: 'Peabody PE-AFD720N 7.2L Visor 360° y 11 Programas | PickViral',
+    metaDescription: 'Peabody PE-AFD720N: freidora 7.2L con visor 360°, 11 programas, deshidratar y timer hasta 15h. 4.8⭐ con más de 2.100 calificaciones.',
+    ogTitle: 'Freidora Peabody PE-AFD720N 7.2L — Visor 360°, 11 Programas, Deshidratar',
+    ogDescription: 'La Peabody PE-AFD720N tiene visor superior 360° con luz interna, 11 programas (incluye deshidratar y descongelar) y timer hasta 15 horas. 4.8⭐ con 2.144 calificaciones.',
+    h1: 'Freidora de Aire Peabody PE-AFD720N 7.2L: visor 360° desde arriba y 11 programas',
+    pros: [
+      'Visor 360° desde la tapa (único en el cluster)',
+      '7.2 L — más capacidad que los modelos de 6.5L',
+      'Deshidratar + Descongelar (raros en este precio)',
+      'Timer de 1 a 15 horas',
+      '1650W en circuito de 10A',
+      '4.8⭐ con 2.144 calificaciones',
+    ],
+    cons: [
+      'Display en la tapa — incómodo en mesadas bajas',
+      'Mantener caliente solo 1 h (la 650N tiene 2 h)',
+      'Sin programa Costillas (sí lo tiene la 650N)',
+      '5.3 kg (más pesada que la 650N)',
+    ],
+    verdict: 'La Peabody con visor total y 11 programas. Tiene sentido si vas a usar Deshidratar — si no, la PE-AFD650N a menor precio cubre el 80% de los casos.',
+    articleBody: `## Visor 360° con luz interna
+
+El visor de esta freidora no es una ventana lateral. La tapa completa está construida en plástico transparente color ámbar ahumado, lo que permite ver el interior desde cualquier ángulo: desde arriba, desde los costados, desde adelante. La luz interna complementa la visibilidad cuando la tapa se oscurece por vapor durante la cocción.
+
+El diseño tiene una consecuencia práctica: el display táctil está integrado en la tapa, no en el frente del cuerpo. Esto significa que para ver los botones hay que mirar desde arriba, lo que puede ser incómodo si la freidora queda en una mesada baja. Es un punto a considerar antes de elegir dónde ubicarla en la cocina.
+
+## 11 programas preconfigurados
+
+La PE-AFD720N tiene 4 programas más que la [PE-AFD650N](/producto/MLA44703897). Los que se suman son Panceta, Aves, Vegetales, Deshidratar y Descongelar — y falta Costillas que sí tenía la 650N. En total, los 11 presets cubren un rango más amplio de preparaciones.
+
+**Deshidratar** es el programa más diferencial: permite hacer snacks de frutas, verduras o carnes a baja temperatura durante varias horas. Para que funcione correctamente necesita varias horas de cocción a entre 40°C y 70°C — de ahí el timer de hasta 15 horas. La 650N no tiene este modo.
+
+**Descongelar** trabaja a temperatura baja para descongelar alimentos sin empezar a cocinarlos. Tampoco está en la 650N.
+
+## Timer de 1 a 15 horas
+
+La función de timer programable permite configurar cuándo arranca la cocción con anticipación. Se puede dejar todo preparado antes de salir y que la freidora empiece sola. Combinado con Deshidratar, que requiere tiempos largos a baja temperatura, el timer cobra más sentido que en modelos estándar.
+
+## Mantener caliente hasta 1 hora
+
+Acá hay un detalle que vale la pena mencionar: la PE-AFD650N (más económica) mantiene caliente hasta 2 horas, mientras que la PE-AFD720N solo mantiene hasta 1 hora. La diferencia puede parecer menor, pero para cenas tardías o cuando la hora de comer no es fija, 1 hora puede quedarse corta. Es el único punto donde la 650N lleva ventaja respecto a la 720N.
+
+## ¿Para quién es esta freidora?
+
+La PE-AFD720N tiene sentido para quien cocina para 3 o 4 personas y quiere más programas que la 650N. Los 7.2 litros dan margen para porciones mayores sin tener que cocinar en dos tandas. Si vas a usar Deshidratar para snacks caseros o Descongelar como función habitual, la diferencia de precio respecto a la 650N se justifica.
+
+Si lo que buscás es simplemente capacidad o el menor precio por litro, hay opciones más convenientes en el cluster. Si querés cocinar dos preparaciones al mismo tiempo, mirá la [Peabody doble piso 10L](/producto/MLA53776810) o la [Atma Pro Doble 8.5L](/producto/MLA40161710). Si preferís grill, la [Peabody PE-AFG01IX](/producto/MLA23318618) es otra opción.
+
+El diseño con visor en tapa es una preferencia subjetiva: a algunas personas les resulta más cómodo mirar desde arriba, a otras les resulta más natural la ventana frontal de la 650N.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Peabody / PE-AFD720N' },
+      { label: 'Capacidad', value: '7.2 L' },
+      { label: 'Potencia', value: '1650 W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Temperatura', value: '80°C – 200°C' },
+      { label: 'Programas', value: '11 + función manual' },
+      { label: 'Deshidratar', value: 'Sí' },
+      { label: 'Descongelar', value: 'Sí' },
+      { label: 'Visor', value: '360° (tapa transparente ámbar)' },
+      { label: 'Luz interna', value: 'Sí' },
+      { label: 'Timer programable', value: '1 a 15 horas' },
+      { label: 'Mantener caliente', value: 'Hasta 1 hora' },
+      { label: 'Auto-pause', value: 'Sí, al abrir el cajón' },
+      { label: 'Control', value: 'Display LED táctil (en la tapa)' },
+      { label: 'Dimensiones', value: '39 × 30.5 × 31 cm' },
+      { label: 'Peso', value: '5.3 kg' },
+      { label: 'Color', value: 'Negro con tapa ámbar' },
+    ],
+    faq: [
+      { question: '¿La función Deshidratar sirve para hacer snacks de frutas?', answer: 'Sí, eso es exactamente para lo que está pensada. Deshidratar trabaja a baja temperatura durante varias horas para extraer la humedad de frutas, verduras o carnes sin cocinarlos. Para frutas como manzana o banana, los tiempos típicos rondan las 6 a 10 horas dependiendo del grosor de los cortes. El timer de hasta 15 horas es lo que hace posible este proceso.' },
+      { question: '¿El display táctil en la tapa es incómodo de usar?', answer: 'Depende de dónde quede ubicada la freidora. Si está en una mesada a altura estándar o en una isla de cocina, los botones quedan accesibles. Si la mesada es baja o la freidora queda dentro de un mueble, la tapa puede resultar incómoda para operar. Es el principal punto de diferencia ergonómica respecto a modelos con panel frontal.' },
+      { question: '¿Por qué la PE-AFD720N mantiene caliente solo 1 hora si la PE-AFD650N tiene 2 horas?', answer: 'No hay una explicación técnica publicada por el fabricante para esta diferencia. La 650N es más económica y tiene más tiempo de mantener caliente. Si esa función es importante para tu rutina de cocina, vale tenerlo en cuenta antes de decidir.' },
+      { question: '¿Necesita un circuito exclusivo para funcionar a 220V?', answer: 'No. 1650W a 220V consume aproximadamente 7.5 amperios, dentro del rango de un circuito domiciliario de 10A. Podés usarla con cualquier enchufe estándar de 220V sin necesidad de instalación especial.' },
+      { question: '¿Qué diferencia práctica hay entre 6.5L y 7.2L de capacidad?', answer: 'Depende de qué cocinás. Para papas fritas, 0.7 litros de diferencia puede ser media porción extra. Para piezas de pollo entero, el diámetro efectivo de la canasta importa más que el volumen total. La diferencia entre 6.5L y 7.2L no es enorme, pero se nota en preparaciones donde llenás bastante el cajón.' },
+    ],
+    relatedProducts: ['MLA44703897', 'MLA53776810', 'MLA23318618'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Peabody PE-AFD720N 7.2L Visor 360°',
+      description: 'Freidora de aire Peabody PE-AFD720N de 7.2 litros con visor superior 360°, luz interna, 11 programas preconfigurados (incluye Deshidratar y Descongelar), timer hasta 15 horas y display LED touch integrado en la tapa.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      model: 'PE-AFD720N',
+      sku: 'MLA41829394',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_765339-MLA100081476833_122025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA41829394',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '109999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1tZqZqD',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '2144',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA53776810',
