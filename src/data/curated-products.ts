@@ -10013,6 +10013,117 @@ Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "Freidora de Aire Atma: Versatilidad y Salud en tu Cocina\n\nTransforma tu manera de cocinar con la Freidora de Aire Atma, la aliada perfecta para preparar comidas deliciosas y saludables sin esfuerzo. Diseñada con tecnología de punta, esta freidora es ideal para quienes buscan comodidad y eficiencia e",
+    badge: 'viral',
+    seoTitle: 'Atma FR901DP: Freidora de Aire y Grill con 260°C y Termómetro',
+    metaDescription: 'La Atma FR901DP es freidora de aire y grill en un solo equipo: 260°C, 12 programas, termómetro inteligente y 4.9 estrellas con casi 3.000 calificaciones.',
+    ogTitle: 'Freidora de Aire y Grill Atma FR901DP — 260°C + Termómetro | PickViral',
+    ogDescription: 'La Atma que también grilla: 260°C, 12 programas, termómetro inteligente y 4.9⭐ con 2.909 calificaciones. Analizamos si la función grill justifica el precio frente a los modelos de solo aire.',
+    h1: 'Freidora de aire y grill Atma FR901DP: la única Atma que llega a 260°C e incluye termómetro',
+    pros: [
+      '4.9⭐ — el rating más alto del cluster',
+      'Freidora de aire + grill en un solo equipo',
+      'Temperatura hasta 260°C (única en la línea Atma)',
+      '12 programas preestablecidos',
+      'Termómetro inteligente incluido',
+      'Bandeja recolectora de jugos',
+    ],
+    cons: [
+      '$185.999 — precio alto del sub-cluster Atma',
+      '8.13 kg (el más pesado del grupo)',
+      'Ocupa 37 cm de ancho × 38.5 cm de alto en mesada',
+      'Sin ventana transparente',
+    ],
+    verdict: 'La Atma más avanzada: 4.9⭐, 260°C y grill integrado. Si querés sellar carnes dentro de casa, es la única de la línea que lo resuelve bien.',
+    articleBody: `## Cómo funciona: freidora de aire + grill en un solo equipo
+
+El FR901DP tiene dos sistemas de cocción en un mismo cuerpo.
+
+**Modo freidora de aire:** el ventilador interno circula aire caliente alrededor de los alimentos. Funciona igual que la [FR60AR](/producto/MLA27351841) o la [FR248ABP](/producto/MLA39861162) — para papas, vegetales, pollo, pescado.
+
+**Modo grill:** la resistencia superior (en la tapa) hace contacto directo o muy cercano con el alimento y genera el calor de dorado superficial que produce las marcas de parrilla. A 260°C y con la parrilla incluida, se puede sellar una carne de la misma forma que una plancha o sartén de hierro.
+
+La bandeja recolectora de jugos captura los líquidos que caen durante el grillado, lo que facilita la limpieza y evita que los jugos quemen en el fondo. El termómetro inteligente incluido — que se guarda en un compartimiento en el lateral inferior derecho — permite medir la temperatura interna de la carne sin abrir el equipo.
+
+## Los 12 programas: el más completo de la línea Atma
+
+La FR901DP tiene el doble de programas que la FR60AR y cuatro más que la FR248ABP: Precalentar, Papas, Carne, Patas de Pollo, Bife, Torta, Camarones, Pescado, Pizza, Vegetales, Parrilla y Frutas Secas.
+
+La temperatura mínima de 50°C habilita también una función de deshidratación básica para frutas, aunque no es un deshidratador dedicado.
+
+## El termómetro incluido: qué es y cómo se usa
+
+La ficha de ML solo lista "bandeja removible" en accesorios, pero tanto los infographics como la descripción del vendedor confirman que el termómetro inteligente viene incluido. Se guarda en un compartimiento en el costado inferior derecho del equipo.
+
+El termómetro permite medir la temperatura interna de carnes durante la cocción. Esto es relevante cuando se grilla un bife grueso o una pechuga entera — el tiempo de cocción en la pantalla es una estimación, pero la temperatura interna es el indicador real de si la carne está en punto.
+
+Para un asador que lo usa en cocina interior, esto resuelve el problema de abrir el equipo y perder calor solo para verificar el punto.
+
+## Temperatura 50°C–260°C: el rango más amplio de la línea
+
+La FR60AR llega a 220°C y la FR248ABP a 200°C. La FR901DP llega a 260°C — los 60°C extra son relevantes para dorado superficial y sellado de carnes. La mayoría de las freidoras de aire convencionales topa entre 200°C y 220°C, que es suficiente para crujiente pero insuficiente para la reacción de Maillard intensa que produce costras en carnes.
+
+El límite inferior de 50°C, combinado con el programa de Frutas Secas, permite deshidratación lenta — aunque sin garantías de resultados similares a un deshidratador dedicado.
+
+## Dimensiones y peso: lo que cambia frente a los otros Atma
+
+La FR901DP mide 385 mm de alto × 365 mm de ancho × 295 mm de profundidad y pesa 8.13 kg. Es significativamente más grande y casi el doble de pesada que la FR60AR (4.6 kg). Esto tiene consecuencias prácticas: necesita un espacio de mesada de al menos 37 cm de ancho, y su altura de 38.5 cm hay que verificarla contra la altura libre bajo los cajones aéreos de la cocina.
+
+No es un equipo para guardar y sacar — es para dejar fijo. Completá la comparación con la [Pro doble canasta 8.5L](/producto/MLA40161710) si necesitás dos canastos en vez de grill.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma / FR901DP (94FR901DP)' },
+      { label: 'Capacidad', value: '6.3 litros' },
+      { label: 'Potencia', value: '1800 W (1600W aire / 1800W grill)' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Temperatura', value: '50°C – 260°C' },
+      { label: 'Control', value: 'Digital táctil LED' },
+      { label: 'Programas', value: '12 preestablecidos' },
+      { label: 'Función grill', value: 'Sí (resistencia superior + parrilla)' },
+      { label: 'Termómetro inteligente', value: 'Sí (incluido)' },
+      { label: 'Bandeja recolectora de jugos', value: 'Sí' },
+      { label: 'Ventana', value: 'No' },
+      { label: 'Dimensiones', value: '385 × 365 × 295 mm' },
+      { label: 'Peso', value: '8.13 kg' },
+      { label: 'Color', value: 'Negro / Plateado' },
+    ],
+    faq: [
+      { question: '¿La Atma FR901DP es una freidora de aire o una parrilla eléctrica?', answer: 'Es las dos cosas en un solo equipo. Tiene modo freidora de aire con circulación de calor y modo grill con resistencia superior en contacto con el alimento. La parrilla incluida en el accesorio permite marcas de grillado similares a una plancha.' },
+      { question: '¿Hace marcas de parrilla en las carnes?', answer: 'Sí. La resistencia superior del modo grill, combinada con la parrilla de metal incluida como accesorio, genera marcas en la superficie de la carne. A 260°C, el dorado superficial es similar al de una plancha de hierro o un grill de contacto.' },
+      { question: '¿Para qué sirve el termómetro inteligente?', answer: 'Para medir la temperatura interna de carnes y aves durante la cocción sin abrir el equipo. Útil para saber cuándo un bife grueso o una pechuga entera llegó al punto justo sin necesidad de cortarla para verificar.' },
+      { question: '¿Se puede usar como deshidratador?', answer: 'La temperatura mínima de 50°C y el programa de Frutas Secas permiten deshidratación básica. No es equivalente a un deshidratador dedicado con varias bandejas, pero funciona para frutas, hierbas y algunas verduras en cantidades pequeñas.' },
+      { question: '¿Cuánto espacio ocupa en la mesada?', answer: '36.5 cm de ancho × 29.5 cm de fondo × 38.5 cm de altura. Hay que verificar el espacio libre bajo los muebles aéreos de la cocina — 38.5 cm de altura es considerable.' },
+      { question: '¿En qué se diferencia la FR901DP de la FR60AR?', answer: 'La FR60AR es una freidora de aire estándar de 6.5L, blanca, 1300W y 6 programas, a un precio menor. La FR901DP es una freidora+grill, negra, de 6.3L, 1800W, 260°C y 12 programas con termómetro incluido. Si no necesitás la función de grill, la FR60AR da mejor relación calidad-precio.' },
+      { question: '¿Cuánto pesa la FR901DP?', answer: '8.13 kg. Es casi el doble que la FR60AR (4.6 kg). No está pensada para guardar y sacar del armario — lo ideal es asignarle un lugar fijo en la mesada.' },
+      { question: '¿Qué viene incluido en la caja?', answer: 'Bandeja removible y termómetro inteligente, según los infographics del producto y la descripción del vendedor. La ficha de ML solo menciona la bandeja, pero la descripción confirma que el termómetro se encuentra en el compartimiento del lateral inferior derecho.' },
+    ],
+    relatedProducts: ['MLA27351841', 'MLA39861162', 'MLA40161710'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire y Grill Atma FR901DP 6.3 Litros',
+      description: 'Freidora de aire y grill digital Atma con 6.3 litros de capacidad, 1800W, temperatura ajustable de 50°C a 260°C, 12 programas preestablecidos, función grill con parrilla, bandeja recolectora de jugos y termómetro inteligente incluido.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'FR901DP',
+      sku: 'MLA37004216',
+      category: 'Freidoras de aire',
+      color: 'Negro/Plateado',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_727889-MLA99464081972_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA37004216',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '185999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1gGXWsc',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '2909',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA40161710',
