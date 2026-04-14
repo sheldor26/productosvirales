@@ -2502,6 +2502,129 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'Transforma tu espacio con el Ventilador Retráctil de Techo Novohome NH-VTR, una combinación perfecta de funcionalidad y diseño moderno. Con un elegante color blanco y aspas transparentes, este ventilador se integra armoniosamente en cualquier ambiente, aportando un toque contemporáneo a tu hogar. Su',
+    badge: 'viral',
+    seoTitle: 'Ventilador Retráctil de Techo Novohome NH-VTR Luz LED | PickViral',
+    metaDescription: 'Ventilador retráctil Novohome NH-VTR: 4 aspas transparentes, 6 velocidades, luz LED 3 tonos, 20dB y control remoto. 4.8⭐ con 717 compradores. $113.149.',
+    ogTitle: 'Ventilador Retráctil de Techo Novohome NH-VTR con Luz LED | PickViral',
+    ogDescription: '4 aspas transparentes retráctiles, 6 velocidades, luz LED fría/cálida/neutra, 20dB y control remoto. Modo verano e invierno. 4.8⭐ con 717 compradores.',
+    h1: 'Novohome NH-VTR: el ventilador retráctil de techo con luz LED que desaparece cuando no lo usás',
+    pros: [
+      'Aspas transparentes que se retraen automáticamente',
+      '6 velocidades (más rango que el estándar de 3)',
+      'Luz LED con 3 temperaturas (fría/neutra/cálida)',
+      'Modo verano + invierno (aspas reversibles)',
+      '20 dB en velocidad mínima (casi inaudible)',
+      'Temporizador para luz y ventilación',
+    ],
+    cons: [
+      'Requiere instalación eléctrica en techo',
+      'Para ambientes hasta 25 m² (diámetro 1,07 m)',
+      'Discrepancia de datos de potencia (56W ficha vs 30W motor)',
+      'No apto para techos muy bajos (35 cm de alto)',
+    ],
+    verdict: 'El ventilador retráctil más valorado del segmento. Luz LED 3 tonos + 6 velocidades + 20 dB + modo invierno — completo y silencioso.',
+    articleBody: `## Qué hace diferente a un ventilador retráctil
+
+Un ventilador de techo convencional tiene las aspas visibles todo el tiempo, giradas o no. El retráctil cambia eso: cuando no está en funcionamiento, las aspas se pliegan hacia adentro y quedan ocultas dentro del cuerpo del aparato. Lo que queda en el techo es una luminaria redonda, limpia, sin nada que sobresalga.
+
+Eso resuelve dos cosas. La estética del techo cuando el ventilador está apagado. Y la seguridad en habitaciones con techos bajos o en ambientes donde las aspas expuestas son un riesgo, como cuartos de chicos.
+
+El Novohome NH-VTR hace eso, y lo hace con un plus que la mayoría de los modelos básicos del segmento no tienen: luz LED incorporada con tres temperaturas de color seleccionables, seis velocidades de ventilación y un nivel de ruido que el fabricante mide en 20 dB en la velocidad mínima.
+
+## Seis velocidades: más rango que el estándar
+
+La mayoría de los ventiladores de techo tienen tres velocidades: baja, media, alta. El NH-VTR tiene seis. Esa graduación extra no es un número de catálogo — permite encontrar el punto exacto de circulación de aire que necesitás sin saltar entre niveles que se sienten muy diferentes entre sí.
+
+Con el calor de verano porteño, la diferencia entre velocidad 3 y velocidad 4 puede ser la que separa quedarse dormido con el ventilador o tener que bajarlo porque mueve demasiado. Seis pasos resuelven ese ajuste fino.
+
+## Luz LED con tres temperaturas: fría, neutra y cálida
+
+El NH-VTR integra un plafón LED circular que funciona de forma independiente a la ventilación. Las tres temperaturas disponibles son luz fría (6.500K, blanca intensa, buena para trabajo o estudio), luz neutra (4.000K, equilibrada) y luz cálida (3.000K, tono amarillado, buena para relajación o noche).
+
+Para un dormitorio que necesita tanto iluminación funcional de día como luz suave de noche, tener las tres opciones en el mismo artefacto evita instalar iluminación adicional. El resumen de reseñas de compradores lo señala específicamente: "ofrece una buena iluminación con opciones de luz fría, cálida y neutra, permitiendo crear el ambiente deseado."
+
+## Modo verano e invierno: las aspas reversibles
+
+Las aspas del NH-VTR giran en ambas direcciones. En sentido antihorario (modo verano), el flujo de aire baja directamente y genera la sensación de frescura. En sentido horario (modo invierno), el ventilador empuja el aire caliente acumulado en el techo hacia abajo sin generar corriente directa sobre las personas.
+
+Para invierno en Buenos Aires o el interior, esto tiene sentido real: el calor de estufas y aires calientes sube y se queda en el techo. Darle vuelta al ventilador distribuye ese calor sin la sensación de viento frío.
+
+El cambio de dirección se hace desde el control remoto.
+
+## 20 dB: lo que significa en la práctica
+
+Un susurro humano está alrededor de 30 dB. El NH-VTR en velocidad mínima está por debajo de eso, en 20 dB. Es prácticamente inaudible. En velocidades altas el fabricante indica hasta 33 dB (infográfico de producto), que sigue siendo muy bajo para el segmento.
+
+Para usar mientras se duerme, eso importa más que cualquier otra especificación. Los compradores en MercadoLibre lo confirman: "silencioso" es una de las palabras que más aparece en las reseñas junto a "fácil de instalar".
+
+## Dimensiones y cobertura
+
+Con 1,07 metros de diámetro (42 pulgadas), el NH-VTR está pensado para ambientes de entre 15 y 25 m². Para habitaciones más grandes puede ser insuficiente en velocidades bajas, aunque en velocidades 5-6 el flujo cubre más superficie.
+
+La altura total del cuerpo es de 35 cm desde el techo. Para techos de 2,40 m estándar argentino, el punto más bajo del ventilador queda a aproximadamente 2,05 m, que está dentro del rango seguro para la mayoría de los adultos.
+
+## Lo que hay que saber antes de instalarlo
+
+El NH-VTR requiere instalación eléctrica en techo. No es un aparato enchufable. Para quien no tiene experiencia en instalación eléctrica, contratar un electricista es la forma correcta de hacerlo, especialmente para asegurar que la caja de techo soporte el peso del aparato.
+
+El temporizador permite programar el apagado automático tanto de la luz como del ventilador, lo que es útil para usarlo mientras te dormís sin dejar el aparato encendido toda la noche.
+
+Si querés comparar con otras opciones del segmento, mirá también el [Peabody PE-VTRDC425B](/producto/MLA43536904), el [Etheos retráctil](/producto/MLA44033885) y el [Iluma retráctil](/producto/MLA66266614).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Novohome / NH-VTR' },
+      { label: 'Voltaje', value: '220V / 50-60 Hz' },
+      { label: 'Potencia total', value: '56 W (motor + LED)' },
+      { label: 'Diámetro', value: '1,07 m (42 pulgadas)' },
+      { label: 'Altura', value: '35 cm' },
+      { label: 'Aspas', value: '4 transparentes retráctiles automáticas' },
+      { label: 'Aspas reversibles', value: 'Sí (modo verano/invierno)' },
+      { label: 'Velocidades', value: '6' },
+      { label: 'Luz LED', value: 'Sí — 3 temperaturas (6500K/4000K/3000K)' },
+      { label: 'Nivel de ruido', value: '20 dB mín — hasta 33 dB máx' },
+      { label: 'Control remoto', value: 'Sí' },
+      { label: 'Temporizador', value: 'Sí (luz y ventilación)' },
+      { label: 'Tipo', value: 'Techo (ceiling fan)' },
+      { label: 'Color estructura', value: 'Blanco' },
+    ],
+    faq: [
+      { question: '¿Las aspas del Novohome NH-VTR se retraen solas?', answer: 'Sí. Las 4 aspas se retraen automáticamente cuando el ventilador se apaga y se despliegan al encenderlo. El proceso es automático — no requiere intervención manual. Cuando están retraídas, solo se ve el cuerpo circular con el plafón LED.' },
+      { question: '¿La luz y el ventilador funcionan de forma independiente?', answer: 'Sí. Podés tener solo la luz encendida sin el ventilador, solo el ventilador sin la luz, o ambos a la vez. El control remoto maneja cada función por separado.' },
+      { question: '¿Cuánta potencia consume?', answer: 'La ficha técnica de MercadoLibre indica 56W de potencia total. El infográfico del fabricante muestra 30W de motor. La diferencia se explica porque el consumo total incluye el LED incorporado: aproximadamente 30W de motor + 26W de iluminación.' },
+      { question: '¿Qué tan silencioso es en velocidad alta?', answer: 'En velocidad mínima el fabricante mide 20 dB. El infográfico indica que puede llegar hasta 33 dB en velocidades altas. Para referencia, una conversación normal está entre 60-65 dB, y 33 dB es equivalente a una habitación muy tranquila de noche.' },
+      { question: '¿Funciona como plafón cuando las aspas están guardadas?', answer: 'Sí. Cuando el ventilador está apagado, el cuerpo queda como un plafón LED circular convencional. La integración visual es uno de los diferenciadores de este diseño.' },
+      { question: '¿Para qué tamaño de habitación está recomendado?', answer: 'Con 1,07 m de diámetro está pensado para ambientes de 15 a 25 m² aproximadamente. Para espacios más grandes puede necesitar velocidades más altas o complementarse con otra fuente de circulación de aire.' },
+      { question: '¿Incluye control remoto?', answer: 'Sí. El control remoto permite manejar encendido/apagado, las seis velocidades, las tres temperaturas de luz, el cambio de dirección (modo verano/invierno) y el temporizador.' },
+      { question: '¿Sirve en invierno?', answer: 'Sí. El modo invierno invierte el sentido de giro de las aspas para empujar el aire caliente acumulado en el techo hacia abajo, sin generar sensación de corriente fría directa. Es especialmente útil en ambientes calefaccionados.' },
+    ],
+    relatedProducts: ['MLA43536904', 'MLA44033885', 'MLA66266614'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Novohome NH-VTR — Ventilador Retráctil de Techo con Luz LED',
+      description: 'Ventilador de techo retráctil con 4 aspas transparentes automáticas, plafón LED integrado de 3 temperaturas (6500K/4000K/3000K), 6 velocidades, modo verano/invierno, 20-33 dB de ruido, 56W, 1,07m de diámetro, temporizador y control remoto incluido.',
+      brand: { '@type': 'Brand', name: 'Novohome' },
+      model: 'NH-VTR',
+      sku: 'MLA54423759',
+      category: 'Ventiladores de techo retráctiles',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_957173-MLA94699089338_102025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA54423759',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '113149',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1sBAiap',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '717',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA43536904',
