@@ -2777,8 +2777,8 @@ Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil]
   {
     id: 'MLA44033885',
     title: 'Ventilador De Techo Retráctil Etheos 100w Luz Led Control',
-    price: 151318.06,
-    originalPrice: 169998,
+    price: 169998,
+    originalPrice: 229999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_870051-MLA99466436884_112025-F.webp',
     images: [
@@ -2788,7 +2788,7 @@ Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil]
       'https://http2.mlstatic.com/D_NQ_NP_2X_666738-MLA88868112631_072025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_887984-MLA88868875895_072025-F.webp',
     ],
-    category: 'Antigüedades y Colecciones',
+    category: 'Ventiladores de Techo',
     categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/ventilador-de-techo-retractil-etheos-100w-luz-led-control/p/MLA44033885',
     affiliateUrl: 'https://meli.la/2qxbftx',
@@ -2798,6 +2798,131 @@ Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil]
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'Ventilador de techo retráctil con luz LED   - Potencia máxima combinada: 100 W - Luz LED (frío - cálido - neutro) - 6 velocidades - Medidas desplegado: 120 cm - Silencioso - Cuatro aspas retráctiles de acrílico transparente - Plafón LED de 50 cm de diámetro - Motor bobinado de cobre - Bajo consumo -',
+    badge: 'trending',
+    seoTitle: 'Ventilador Retráctil Techo Etheos Negro 100W LED | PickViral',
+    metaDescription: 'Etheos GVTI-VTR negro: ventilador retráctil de techo de 1,2m, 100W, luz LED 3 tonos, remote completo con dimmer y modo nocturno. 4.7⭐ con 1.937 compradores.',
+    ogTitle: 'Ventilador Retráctil de Techo Etheos Negro 100W con Luz LED | PickViral',
+    ogDescription: 'El único retráctil negro del cluster: 1,2m de diámetro, 100W, luz LED fría/cálida/neutra con dimmer, modo nocturno, modos verano/invierno y 2 barrales. 4.7⭐ con 1.937 compradores.',
+    h1: 'Etheos GVTI-VTR: el ventilador retráctil negro de 1,2 metros con el remote más completo del segmento',
+    pros: [
+      '1,2 m de diámetro (el más grande del cluster)',
+      'Única opción en negro del segmento',
+      'Remote con dimmer + temperatura K + modo nocturno',
+      '100 W — alta potencia para ambientes grandes',
+      'Modo verano/invierno con botones F/R separados',
+      '2 barrales extensores incluidos',
+      '1.937 calificaciones (mayor volumen del cluster)',
+    ],
+    cons: [
+      'Nivel de ruido sin dato real (ficha dice 0 dB por error)',
+      'Material de aspas con datos contradictorios (plástico/acrílico)',
+      'Sin memoria de último modo (el Peabody sí tiene)',
+      'Potencia 100W sin desglose motor vs LED',
+    ],
+    verdict: 'La opción si querés negro y mayor cobertura. Remote más detallado del cluster y 1.937 reseñas de respaldo a precio intermedio.',
+    articleBody: `## El único retráctil negro: lo que cambia en la estética de un techo
+
+En el segmento de ventiladores retráctiles argentinos, todos los modelos disponibles son blancos. El Etheos GVTI-VTRN es la excepción. Con estructura negro mate, anillo exterior de diseño con estrías horizontales y plafón LED de 50 cm de diámetro, se integra de forma diferente en techos blancos: no desaparece sino que se convierte en un elemento visual del ambiente.
+
+Para dormitorios, living rooms o estudios con paleta oscura, industrial o minimalista, esa diferencia importa tanto como las especificaciones técnicas. Con 4.7 estrellas y más de 1.937 calificaciones —el mayor volumen de reseñas en el cluster— el Etheos tiene suficiente historial de compradores para evaluar con confianza.
+
+## 1,2 metros de diámetro: el más grande del cluster
+
+El Etheos tiene 1,2 metros de diámetro expandido frente a los 1,07 metros del [Novohome](/producto/MLA54423759) y el [Peabody](/producto/MLA43536904). Esa diferencia de 13 centímetros en radio no es decorativa: implica aspas más largas y, en teoría, mayor volumen de aire movido a igual velocidad.
+
+Para ambientes de 25 a 40 m², ese diámetro es más adecuado que los 42 pulgadas estándar del segmento. Los compradores mencionan "instalación sencilla" y el hecho de que el aparato cumple bien en espacios grandes, dato que se corresponde con las dimensiones del producto.
+
+## 100 Watts: la potencia más alta del cluster
+
+El Etheos consume hasta 100W de potencia combinada. Para referencia, el Novohome NH-VTR consume 56W y el Peabody PE-VTRDC425B 72W. Mayor consumo no siempre significa mejor eficiencia, pero en este caso coincide con el mayor diámetro del producto: las aspas más grandes necesitan más potencia para mantener la velocidad bajo carga.
+
+La descripción técnica indica que el motor es de bobinado de cobre, al igual que el Peabody. Lo que no aclara el vendedor es el desglose entre motor y LED dentro de los 100W totales — si te importa el consumo eléctrico, consultarlo directamente.
+
+## El control remoto más detallado del segmento
+
+El remote del Etheos está documentado con labels en las imágenes del producto, algo que ningún otro del cluster ofrece. Los botones confirmados son:
+
+Ventilador: OFF general, velocidades 1 a 6 numeradas, STOP, modo avance (F/verano) y modo retroceso (R/invierno).
+
+Luz: encendido/apagado independiente, luna (modo nocturno), K (cambio de temperatura de color), K+ y K- (gradiente de temperatura), brillo+ y brillo- (dimmer), SETUP (programación).
+
+Timer: 1H y 2H para apagado automático.
+
+Para quien usa el ventilador de noche mientras duerme, ese nivel de control desde la cama es real: podés programar el apagado, bajar el brillo gradualmente con el dimmer, cambiar a modo nocturno y ajustar la temperatura de color sin levantarte.
+
+## Modo verano e invierno: botones separados en el remote
+
+A diferencia de otros retráctiles del segmento que tienen un solo botón de "cambiar dirección", el Etheos tiene dos botones dedicados: F para modo avance (verano, corriente hacia abajo) y R para modo retroceso (invierno, distribución de calor). No hay ambigüedad sobre en qué modo está funcionando.
+
+La ficha de MercadoLibre lista "Con aspas reversibles: Sí", lo que es correcto y consistente con el remote y la descripción del producto.
+
+## Lo que la ficha de MercadoLibre tiene mal
+
+La ficha técnica del Etheos lista "Nivel de ruido: 0 dB". Ningún aparato eléctrico en funcionamiento puede operar a 0 dB — eso es equivalente al silencio absoluto, técnicamente imposible con un motor girando. Es un error de carga del vendedor. No hay dato real de ruido para este modelo en las fuentes disponibles.
+
+Si el nivel de ruido es una prioridad para tu decisión, el Novohome NH-VTR tiene 20-33 dB declarados por el fabricante como dato concreto.
+
+También hay un conflicto en el material de las aspas: la ficha dice "Plástico", la descripción técnica dice "acrílico transparente". Acrílico es técnicamente un tipo de plástico, pero no son equivalentes en calidad ni durabilidad. Las imágenes muestran aspas transparentes de aspecto similar al de los otros modelos del cluster. Antes de comprar, si el material específico importa, consultarlo al vendedor.
+
+Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra alternativa blanca del cluster.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Etheos / GVTI-VTRN' },
+      { label: 'Voltaje', value: '220-240V / 50 Hz' },
+      { label: 'Potencia total', value: '100 W' },
+      { label: 'Motor', value: 'Bobinado de cobre' },
+      { label: 'Diámetro expandido', value: '1,2 m (120 cm)' },
+      { label: 'Diámetro plafón', value: '50 cm' },
+      { label: 'Altura', value: '20 cm' },
+      { label: 'Peso', value: '5,2 kg' },
+      { label: 'Aspas', value: '4 acrílico transparente' },
+      { label: 'Aspas reversibles', value: 'Sí (modo verano/invierno)' },
+      { label: 'Velocidades', value: '6' },
+      { label: 'Luz LED', value: '3 tonos (frío/cálido/neutro)' },
+      { label: 'Dimmer', value: 'Sí (brillo regulable)' },
+      { label: 'Modo nocturno', value: 'Sí' },
+      { label: 'Timer', value: '1H / 2H' },
+      { label: 'Barrales incluidos', value: '2 (10 cm y 20 cm)' },
+      { label: 'Color estructura', value: 'Negro' },
+    ],
+    faq: [
+      { question: '¿El Etheos GVTI-VTR está disponible en negro?', answer: 'Sí. El modelo GVTI-VTRN es la versión negra. Es el único ventilador retráctil de techo con estructura negra en este cluster. Los otros modelos disponibles son blancos.' },
+      { question: '¿Cuánto mide? ¿Es más grande que otros retráctiles?', answer: 'Sí. Con 1,2 metros de diámetro expandido es el más grande del cluster (los otros miden 1,07 m). Es más adecuado para ambientes de 25 a 40 m².' },
+      { question: '¿Tiene modo invierno?', answer: 'Sí. El control remoto tiene dos botones dedicados: F para modo avance (verano) y R para modo retroceso (invierno), que hace circular el aire caliente hacia abajo.' },
+      { question: '¿Incluye control remoto?', answer: 'Sí. El control remoto incluye velocidades 1-6, STOP, modo verano y modo invierno, control de brillo (dimmer), temperatura de color (K+/K-), modo nocturno, timer 1H/2H y botón de programación SETUP.' },
+      { question: '¿Cuánto ruido hace?', answer: 'La ficha de MercadoLibre dice 0 dB, lo que es un error de carga — es técnicamente imposible. No hay dato real disponible del fabricante para este modelo. Si el nivel de ruido es crítico, el Novohome NH-VTR del mismo cluster tiene 20-33 dB documentados.' },
+      { question: '¿Las aspas son de plástico o de acrílico?', answer: 'Hay una discrepancia: la ficha ML dice plástico y la descripción técnica dice acrílico transparente. Acrílico es un tipo de plástico, pero de mayor calidad. Las imágenes muestran aspas transparentes de aspecto similar al de otros modelos del cluster que usan acrílico. Consultar al vendedor para confirmar el material exacto.' },
+      { question: '¿Incluye dos barrales?', answer: 'Sí. Incluye barrales extensores de 10 cm y 20 cm para adaptar la altura de instalación al techo disponible.' },
+      { question: '¿Qué diferencia tiene con el Peabody PE-VTRDC425B?', answer: 'Las principales diferencias: Etheos es negro y tiene mayor diámetro (1,2 m vs 1,07 m del Peabody). El Peabody tiene motor DC y declara 170 m³/min de caudal, además de memoria de último modo. El Etheos tiene 100W de potencia (vs 72W del Peabody). El Peabody es más caro ($257.291 vs $169.998 del Etheos).' },
+    ],
+    relatedProducts: ['MLA54423759', 'MLA43536904', 'MLA66266614'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Etheos GVTI-VTRN — Ventilador de Techo Retráctil Negro 100W con Luz LED',
+      description: 'Ventilador de techo retráctil en color negro con 4 aspas transparentes, 1,2m de diámetro, 100W de potencia, luz LED de 50cm con 3 tonos (frío/cálido/neutro), dimmer, modo nocturno, modos verano e invierno, 6 velocidades, timer 1H/2H, 2 barrales extensores (10 y 20cm) y control remoto con programación.',
+      brand: { '@type': 'Brand', name: 'Etheos' },
+      model: 'GVTI-VTRN',
+      sku: 'MLA44033885',
+      category: 'Ventiladores de techo retráctiles',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_870051-MLA99466436884_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA44033885',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '169998',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2qxbftx',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '1937',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA66266614',
