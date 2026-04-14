@@ -10149,6 +10149,112 @@ No es un equipo para guardar y sacar — es para dejar fijo. Completá la compar
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "¡Diseñada para facilitar tus comidas favoritas, esta freidora cuenta con dos canastos independientes de 4.25 L cada uno, brindándote una impresionante capacidad total de 8.5 L para que cocines más en menos tiempo! Perfecta para preparar distintos platos al mismo tiempo o duplicar la cantidad de una ",
+    badge: 'viral',
+    seoTitle: 'Atma Doble FRD248AP 8.5L — Modo SYNC y DUAL | PickViral',
+    metaDescription: 'La Atma FRD248AP tiene 2 canastas independientes de 4.25L, modos SYNC y DUAL, ventanas con luz y 2200W. Cocinás dos platos distintos al mismo tiempo.',
+    ogTitle: 'Freidora de Aire Atma Doble FRD248AP — 2 Canastas Independientes + SYNC | PickViral',
+    ogDescription: '4.8⭐ con 623 calificaciones. Dos canastas de 4.25L cada una, modo SYNC para terminar todo al mismo tiempo y 2200W.',
+    h1: 'Freidora de aire Atma doble canasta FRD248AP: dos canastas independientes, modo SYNC y 2200W',
+    pros: [
+      'Dos canastas independientes de 4.25L (8.5L total)',
+      'Modo SYNC: ambos platos terminan al mismo tiempo',
+      'Modo DUAL: temperatura y tiempo independientes por canasta',
+      'Ventanas transparentes con luz interior en las dos canastas',
+      '2200W — la más potente de la línea Atma',
+      '4.8⭐ con 623 calificaciones',
+    ],
+    cons: [
+      'Precio alto ($199.999)',
+      'Dimensiones y peso no publicados en ficha ML',
+      '2200W exige circuito adecuado (no 10A mínimo)',
+      'Sin función grill (vs FR901DP)',
+    ],
+    verdict: 'La única Atma con doble canasta y modo SYNC. Si cocinás plato principal + guarnición seguido, resuelve el problema de que uno se enfríe esperando al otro.',
+    articleBody: `## Cómo funciona el sistema de doble canasta
+
+Las dos canastas son físicamente separadas, cada una con su propio canasto antiadherente. El panel tiene dos displays (izquierdo y derecho) con temperatura y tiempo para cada zona.
+
+**Modo DUAL:** cada canasta funciona de manera completamente independiente. Podés tener papas a 200°C por 20 minutos en la izquierda y una torta a 160°C por 35 minutos en la derecha, al mismo tiempo.
+
+**Modo SYNC:** le indicás al equipo que querés que ambas canastas terminen al mismo tiempo. Si la del lado izquierdo necesita 20 minutos y la del derecho 30, el SYNC automáticamente retrasa el inicio de la canasta más rápida para que ambas queden listas juntas.
+
+Eso resuelve el problema práctico de la mayoría de las comidas: el guarnición y el plato principal tienen tiempos de cocción distintos, y con una freidora de canasto único siempre uno espera al otro.
+
+## Las ventanas transparentes con luz en ambas canastas
+
+La ficha de ML confirma "Con ventana transparente: Sí" y las imágenes muestran dos ventanas — una por canasta — con luz interior activa. Los compradores lo mencionan en los comentarios: "la luz interna facilita la supervisión de la cocción sin necesidad de abrir la tapa."
+
+Dentro del sub-cluster Atma, solo la [FR248ABP](/producto/MLA39861162) y esta FRD248AP tienen ventana. La [FR60AR](/producto/MLA27351841) y la [FR901DP](/producto/MLA37004216) no la tienen. La FRD248AP es la única con dos ventanas simultáneas.
+
+## Los 6 programas preestablecidos
+
+Papas Fritas (papas, vegetales crujientes), Pollo (alitas, pechugas, muslos), Bife (carnes rojas a temperatura alta), Torta (repostería a temperatura moderada), Deshidratar (frutas, hierbas, temperatura baja prolongada) y Recalentar (comida ya cocida sin resecarla).
+
+Los programas se pueden aplicar de manera independiente en cada canasta. No hay restricción de usar el mismo programa en los dos lados.
+
+## 2200W: el más potente de la línea Atma
+
+Los 2200W son necesarios para mantener temperatura simultánea en dos canastas. Con un canasto vacío, el consumo es menor. Con los dos a temperatura alta al mismo tiempo, el pico de consumo es considerable.
+
+Una nota práctica: con 2200W, es recomendable no tener otros electrodomésticos de alta potencia conectados al mismo circuito mientras la freidora opera a máxima carga. Si la instalación eléctrica del hogar tiene disyuntores de 10A por circuito, puede llegar al límite con otros dispositivos encendidos. En la mayoría de las cocinas modernas con circuitos de 16A o 20A no hay problema.
+
+## Para quién tiene sentido la FRD248AP
+
+Familias de 4 o más donde las porciones son grandes y hay que cocinar varias cosas al mismo tiempo. Personas que hacen meal prep — cocinás dos bandejas de preparaciones distintas en un solo ciclo de tiempo. Quien suele cocinar el plato y la guarnición en secuencia con freidora de canasto único y se cansa de que uno quede frío.
+
+Lo que no es: una freidora de entrada. El precio ($199.999) y el tamaño justifican solo si el uso de doble cocción simultánea es frecuente. Para uso individual o de pareja, la [FR60AR a menor precio](/producto/MLA27351841) cubre el 90% de los casos de uso. Si preferís grill antes que doble canasta, la [FR901DP](/producto/MLA37004216) llega a 260°C con termómetro incluido.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma Pro / FRD248AP' },
+      { label: 'Capacidad total', value: '8.5 litros (2 × 4.25L)' },
+      { label: 'Cantidad de canastas', value: '2 independientes' },
+      { label: 'Potencia', value: '2200 W (2.2 kW)' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Temperatura máxima', value: '200°C' },
+      { label: 'Programas', value: '6 (Papas, Pollo, Bife, Torta, Deshidratar, Recalentar)' },
+      { label: 'Modo DUAL', value: 'Sí (control independiente por canasta)' },
+      { label: 'Modo SYNC', value: 'Sí (sincronización de finalización)' },
+      { label: 'Ventanas', value: 'Sí, ambas canastas con luz interior' },
+      { label: 'Canasto', value: 'Antiadherente' },
+      { label: 'Color', value: 'Negro' },
+    ],
+    faq: [
+      { question: '¿Cuántas canastas tiene la Atma FRD248AP?', answer: 'Dos canastas completamente independientes de 4.25 litros cada una, para un total de 8.5 litros. Cada canasta tiene su propio control de temperatura y tiempo desde el panel frontal.' },
+      { question: '¿Qué es el modo SYNC?', answer: 'Es una función que sincroniza el inicio de cada canasta para que ambas terminen al mismo tiempo. Si en la canasta izquierda cocinás algo que demora 20 minutos y en la derecha algo de 30, el equipo automáticamente retrasa el arranque de la izquierda 10 minutos para que todo esté listo junto.' },
+      { question: '¿Puedo cocinar dos platos a temperaturas distintas al mismo tiempo?', answer: 'Sí. El modo DUAL permite configurar temperatura y tiempo de manera independiente en cada canasta. Una puede estar a 200°C para papas y la otra a 160°C para una torta, simultáneamente.' },
+      { question: '¿La FRD248AP tiene ventana para ver la cocción?', answer: 'Sí. Tiene dos ventanas transparentes con luz interior — una por canasta. Podés monitorear la cocción de los dos platos sin abrir ninguna canasta.' },
+      { question: '¿En qué se diferencia la FRD248AP de la FR60AR?', answer: 'La FR60AR es una freidora de canasto único de 6.5L y 1300W. La FRD248AP tiene dos canastas independientes (8.5L total), 2200W, modo SYNC y ventanas transparentes. Para uso individual o de pareja, la FR60AR es más que suficiente. La FRD248AP tiene sentido para familias grandes o para quien cocina varios platos al mismo tiempo con frecuencia.' },
+      { question: '¿Cuánto consume la FRD248AP?', answer: '2200W a plena carga con las dos canastas encendidas. Es el consumo más alto de la línea Atma. En uso con una sola canasta activa, el consumo es menor. Verificar la capacidad del circuito eléctrico antes de instalar.' },
+      { question: '¿Tiene función de deshidratado?', answer: 'Sí, incluye programa "Deshidratar" para frutas, hierbas y otros alimentos a temperatura baja. No es un deshidratador dedicado con múltiples bandejas, pero cumple para preparaciones básicas.' },
+    ],
+    relatedProducts: ['MLA27351841', 'MLA39861162', 'MLA37004216'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Atma Pro Doble Canasta FRD248AP 8.5 Litros',
+      description: 'Freidora de aire Atma con dos canastas independientes de 4.25L cada una (8.5L total), 2200W de potencia, modos DUAL y SYNC, 6 programas preestablecidos, ventanas transparentes con luz interior en ambas canastas y temperatura máxima de 200°C.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'FRD248AP',
+      sku: 'MLA40161710',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_991646-MLA100053575793_122025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA40161710',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '199999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2aw3uVJ',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '623',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA44703897',
