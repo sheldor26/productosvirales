@@ -7475,20 +7475,20 @@ La AP152 es la pava más accesible del cluster. Para quien necesita agua calient
   },
   {
     id: 'MLA8933826',
-    title: "Jarra Electrica Liliana Base Giratoria 36 1.7l 2000w Blanco",
+    title: 'Liliana Mateando AP975B — pava con función mate y filtro',
     badge: 'viral',
-    relatedProducts: ['MLA61505857', 'MLA14263533', 'MLA49747515', 'MLA11145436'],
+    relatedProducts: ['MLA61505857', 'MLA47275624', 'MLA14263533', 'MLA49747515'],
     price: 44599.34,
     originalPrice: 74999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_971097-MLA69540250222_052023-F.jpg",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_735572-MLA95942573521_102025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_892535-MLA95942850863_102025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_798187-MLA99507213630_112025-F.webp"
-      ],
+      'https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_971097-MLA69540250222_052023-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_735572-MLA95942573521_102025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_892535-MLA95942850863_102025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_798187-MLA99507213630_112025-F.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/jarra-electrica-liliana-base-giratoria-36-17l-2000w-blanco/p/MLA8933826',
@@ -7496,9 +7496,139 @@ La AP152 es la pava más accesible del cluster. Para quien necesita agua calient
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    soldQuantity: undefined,
+    soldQuantity: 4777,
     pastelColor: 'var(--pastel-coral)',
-    description: "La Pava Eléctrica Mateando de Liliana te permite elegir la temperatura justa para cada infusión, gracias a su selector de temperatura regulable. Ya sea para un mate perfecto, un té delicado o cualquier otra bebida caliente, podés calentar el agua con precisión y sin complicaciones.\n\nCon su capacidad",
+    description: 'Liliana Mateando: pava eléctrica con función mate confirmada en ficha, 2000W, 1.7L, filtro extraíble y lavable, doble visor de nivel de agua, base giratoria 360°, luz LED azul. El mayor volumen de reseñas del cluster de pavas — 4.777 calificaciones en MercadoLibre.',
+    pros: [
+      '4.6⭐ con 4.777 calificaciones — el mayor volumen del cluster',
+      'Función mate CONFIRMADA en ficha técnica oficial',
+      'Filtro extraíble y lavable incluido',
+      '2.000W — potencia media-alta, hierve rápido',
+      '1.7L de capacidad',
+      'Doble visor de nivel de agua (ambos lados)',
+      'Luz LED azul durante funcionamiento',
+      '40% OFF — de $74.999 a $44.599',
+    ],
+    cons: [
+      'Cuerpo plástico — no acero inoxidable',
+      'Sin pantalla digital ni lectura de temperatura en grados',
+      'Solo 2 niveles (mate/hervir) — sin control continuo',
+      'Sin keep warm',
+      '⚠️ Inconsistencia de modelo: spec dice AP175B, imagen dice AP975B',
+    ],
+    verdict: 'De todas las pavas del cluster, la Liliana Mateando tiene el mayor volumen de reseñas: 4.777 calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas. La función mate está confirmada en la ficha técnica (a diferencia del modelo AP152 donde hay inconsistencia). Si querés mate con filtro incluido y respaldo de compradores masivo, esta es la opción.',
+    seoTitle: 'Liliana Mateando AP975B — pava con función mate y filtro',
+    metaDescription: 'Pava eléctrica Liliana Mateando: función mate confirmada, 2000W, 1.7L, filtro extraíble, doble visor y luz LED azul. 4.777 calificaciones en MercadoLibre. $44.599.',
+    ogTitle: 'Liliana Mateando AP975B — pava con función mate y filtro',
+    ogDescription: 'Pava eléctrica Liliana Mateando: función mate confirmada, 2000W, 1.7L, filtro extraíble, doble visor y luz LED azul. 4.777 calificaciones. $44.599.',
+    h1: 'Liliana Mateando AP975B: pava eléctrica con función mate, filtro y 4.777 opiniones',
+    articleBody: `De todas las pavas del cluster, la Liliana Mateando tiene el mayor volumen de reseñas: 4.777 calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas — es el número que se construye con muchas experiencias reales de compra.
+
+La función mate está confirmada en la ficha técnica (a diferencia del modelo [AP152](/producto/MLA61505857) del mismo sitio, donde la ficha dice "No" pero el manual muestra el botón). Tiene 2 niveles de temperatura: mate y hervir. El selector es una perilla física en la base.
+
+## Los 2 niveles de temperatura
+
+El selector tiene dos posiciones: una para agua de mate y otra para hervir (100°C). No hay pantalla digital ni lectura de temperatura en grados. El selector funciona como un switch de dos posiciones con la perilla rotativa en la parte inferior del cuerpo.
+
+La temperatura del modo mate no aparece especificada en grados en la ficha técnica. Lo que dicen las reseñas: los compradores la describen como una pava que "calienta a la temperatura justa para el mate". Para el mate argentino, el rango ideal es 70–80°C — lo suficientemente caliente para extraer bien la yerba sin quemarla.
+
+Si necesitás precisión de temperatura en grados con display digital, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40 a 100°C con lectura digital.
+
+## El filtro extraíble y lavable
+
+La ficha confirma "Con filtro: Sí". La descripción del listing detalla que es extraíble y lavable — se puede retirar para limpiarlo sin herramientas. Este filtro retiene partículas y sedimentos del agua.
+
+Es el único modelo del cluster de pavas que tiene filtro confirmado en la ficha técnica oficial (el AP152 tiene una inconsistencia entre la ficha y la descripción del vendedor al respecto).
+
+## Doble visor de nivel de agua
+
+El visor de nivel de agua es doble: está en ambos lados del cuerpo, así que podés ver la cantidad de agua independientemente de cómo tengas colocada la pava en la mesada. Las marcas van de 0.5L (MIN) a 1.7L (MAX), con referencias a 1.0L y 1.6L intermedias.
+
+## La luz LED azul y el cuerpo plástico blanco
+
+La luz indicadora de funcionamiento es azul, visible en las fotos de compradores. Se activa cuando la pava está calentando y se apaga cuando alcanza la temperatura seleccionada.
+
+El cuerpo es plástico blanco con base y detalles en color ámbar/amarillo claro. No es acero inoxidable — si el material importa (por estética o por preferencia de contacto con el agua caliente), el [Peabody PE-DK1850](/producto/MLA14263533) y la [Liliana AP152](/producto/MLA61505857) tienen cuerpo de acero.
+
+## 2000W y la base giratoria
+
+La potencia es 2000W — más que la AP152 (1500W) y cerca de los 2200W de Philips y Peabody. Para 1.7L, el tiempo de calentamiento es menor que en la AP152.
+
+La base giratoria es 360° y antideslizante. La tapa tiene sistema de apertura con traba de seguridad — se abre presionando el botón, no levantando directamente.
+
+## El precio y el contexto en el cluster
+
+A $44.599, la Mateando está en el rango medio del cluster: más cara que la AP152 ($31.999) pero bastante más accesible que los modelos Philips y el [Peabody DK1850](/producto/MLA14263533) ($55.900). Para alguien que quiere función mate confirmada, filtro incluido y plástico blanco (no acero), esta es la opción del cluster con el mayor respaldo de compradores.`,
+    specs: [
+      { label: 'Marca', value: 'Liliana' },
+      { label: 'Modelo', value: 'AP975B (spec lista AP175B — verificar)' },
+      { label: 'Línea', value: 'Mateando' },
+      { label: 'Color', value: 'Blanco + detalles ámbar' },
+      { label: 'Material', value: 'Plástico' },
+      { label: 'Capacidad', value: '1.7L' },
+      { label: 'Potencia', value: '2.000W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Función mate', value: 'Sí — confirmada en ficha oficial' },
+      { label: 'Niveles de temperatura', value: '2 (agua para mate / hervir)' },
+      { label: 'Filtro', value: 'Extraíble y lavable — incluido' },
+      { label: 'Visor de agua', value: 'Doble (ambos lados)' },
+      { label: 'Base giratoria', value: 'Sí — 360° antideslizante' },
+      { label: 'Luz indicadora', value: 'LED azul' },
+      { label: 'Apertura de tapa', value: 'Botón con traba de seguridad' },
+      { label: 'Corte automático', value: 'Sí' },
+      { label: 'Rating', value: '4.6 ⭐ (4.777 calificaciones — 2.177 comentarios, el más alto del cluster)' },
+    ],
+    faq: [
+      {
+        question: '¿La función mate viene confirmada en la ficha o es solo marketing?',
+        answer:
+          'Está confirmada en la ficha técnica oficial de MercadoLibre: "Con función mate: Sí". A diferencia del modelo [AP152](/producto/MLA61505857) (donde hay una inconsistencia entre la ficha y el manual), la Mateando tiene ese dato verificado formalmente.',
+      },
+      {
+        question: '¿A qué temperatura calienta el agua en modo mate?',
+        answer:
+          'La temperatura exacta del modo mate no aparece en grados en la ficha técnica. Las reseñas de compradores describen el resultado como adecuado para el mate. El rango ideal es 70–80°C. Si necesitás saber el valor exacto en grados, conviene consultar al vendedor.',
+      },
+      {
+        question: '¿El filtro viene incluido o es un accesorio aparte?',
+        answer:
+          'La ficha técnica dice "Con filtro: Sí" y la descripción lo describe como extraíble y lavable, incluido con la pava. No requiere compra adicional.',
+      },
+      {
+        question: '¿Cuál es la diferencia con la Liliana AP152?',
+        answer:
+          'El [AP152](/producto/MLA61505857) tiene cuerpo de acero inoxidable y 1500W. La Mateando tiene cuerpo plástico blanco y 2000W. En la AP152 la función mate aparece en el manual pero la ficha la lista como "No" — hay inconsistencia. En la Mateando está confirmada en la ficha. La AP152 es más económica ($31.999 vs $44.599).',
+      },
+      {
+        question: '¿Es plástico o acero inoxidable?',
+        answer:
+          'Plástico. El cuerpo es plástico blanco con detalles en ámbar. Si preferís cuerpo de acero inoxidable, los modelos [Philips HD9350](/producto/MLA24601443), [Philips HD9396](/producto/MLA47183370) y [Peabody PE-DK1850](/producto/MLA14263533) tienen cuerpo metálico.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Liliana Mateando AP975B 1.7L 2000W',
+      description:
+        'Pava eléctrica Liliana línea Mateando: cuerpo plástico blanco, 1.7L, 2000W, función mate confirmada, 2 niveles de temperatura, filtro extraíble y lavable, doble visor de agua, base giratoria 360°, luz LED azul.',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      model: 'AP975B',
+      color: 'Blanco',
+      material: 'Plástico',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2qM28cx',
+        priceCurrency: 'ARS',
+        price: 44599,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '4777',
+      },
+    },
   },
   {
     id: 'MLA27849823',
