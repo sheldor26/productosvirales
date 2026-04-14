@@ -9870,6 +9870,124 @@ Compará contra los otros modelos Atma del catálogo: la [Atma Pro FR60AR 6.5L](
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "La freidora de aire Atma redefine la cocina saludable con su capacidad de 6,5 litros, proporcionando espacio generoso para preparar comidas con hasta un 80% menos de grasa. Equipada con 6 programas predefinidos (Bife, carne, chips, aves, torta, pescado), facilita el proceso de cocinar una variedad d",
+    badge: 'viral',
+    seoTitle: 'Freidora de Aire Atma Pro FR60AR 6.5L — 10.000 Compradores',
+    metaDescription: 'La Atma Pro FR60AR tiene 6.5L, 6 programas por tipo de alimento, 1300W y más de 10.000 calificaciones en MercadoLibre. Análisis completo con tiempos reales.',
+    ogTitle: 'Freidora de Aire Atma Pro FR60AR 6.5L — La más vendida de la marca | PickViral',
+    ogDescription: '4.8⭐ con más de 10.000 compradores. Analizamos la Atma Pro FR60AR: tiempos de cocción reales, dimensiones, programas por tipo de alimento y comparación con otros modelos.',
+    h1: 'Freidora de aire Atma Pro FR60AR 6.5 litros: la más vendida de la marca con 10.000 calificaciones',
+    pros: [
+      '10.231 calificaciones con 4.8⭐ (la más probada del cluster)',
+      'Diseño compacto tipo cubo (27 × 27 × 28 cm)',
+      '6 programas por tipo de alimento (intuitivos)',
+      'Temperatura máxima 220°C',
+      'Incluye rejilla',
+      'Color blanco (única opción clara entre las Atma)',
+    ],
+    cons: [
+      'Sin ventana transparente',
+      '1300 W (menos potencia que la FR248ABP)',
+      'Capacidad 6.5L (menor que los 8L del modelo top)',
+      'Apto lavavajillas no confirmado en ficha',
+    ],
+    verdict: 'La Atma más vendida por algo: 10.231 reseñas con 4.8⭐. Si es tu primera freidora de aire, esta es la elección más segura del mercado argentino.',
+    articleBody: `## Para quién es esta freidora
+
+La propia comunidad de compradores lo deja claro en los comentarios: "capacidad adecuada para dos personas" aparece repetido, aunque el vendedor la describe como apta para grupos de 4 a 6 personas.
+
+La diferencia tiene sentido. Para una pareja que cocina seguido, 6.5 litros es espacio de sobra y el equipo nunca queda sobredimensionado. Para una familia de cuatro con porciones abundantes, también funciona — pero en cantidad máxima. Si son 5 o más y comen mucho, la [Atma FR248ABP de 8L](/producto/MLA39861162) da más margen.
+
+El dato del vendedor que sí es concreto: entra un pollo de hasta 3 kg.
+
+## Dimensiones reales y espacio en mesada
+
+El FR60AR mide 276 mm de alto × 273 mm de ancho × 279 mm de profundidad. Pesa 4.6 kg. En términos prácticos: es un cubo de 27 cm por lado, poco más grande que un microondas compacto.
+
+Eso es un diferencial frente a otras freidoras de 6.5L que suelen ser más largas hacia adelante. El diseño cuadrado ocupa menos espacio lineal en la mesada, lo que importa bastante en cocinas chicas.
+
+## Los 6 programas: por tipo de alimento, no por técnica
+
+La FR248ABP tiene 8 programas orientados a la técnica (freír, hornear, rostizar). El FR60AR tiene 6 programas orientados al alimento:
+
+1. Chips — papas fritas, vegetales crujientes, bastones de zapallo
+2. Aves — pechuga, muslos, alitas de pollo
+3. Pescado — rabas, filetes, mariscos
+4. Bife — bifes de chorizo, costeletas, entrecot
+5. Carne — albóndigas, hamburguesas, milanesas
+6. Torta — budines, bizcochuelos, muffins
+
+La diferencia de enfoque es real. Con los programas del FR60AR no tenés que saber qué temperatura va para una milanesa — elegís "Carne", el equipo ajusta y listo. Para alguien que no cocina seguido, eso simplifica la curva de aprendizaje.
+
+## Tiempos de cocción: los que publica el vendedor
+
+La ficha de ML incluye tiempos específicos, que es información útil y poco común: papas fritas (1 kg) en 25 minutos a temperatura máxima, milanesas en 11 minutos. Para referencias adicionales, las temperaturas y tiempos aproximados para cada programa van de 170°C a 220°C según el alimento. El rango completo de temperatura ajustable es de 80°C a 220°C.
+
+## Sin ventana transparente: ¿importa?
+
+La ficha de ML confirma "Con ventana transparente: No". A diferencia de la FR248ABP, no podés ver la cocción sin abrir el canasto.
+
+En la práctica, esto no suele ser un problema en freidoras de canasto estándar — la mayoría de los compradores no lo usa o lo usa muy poco. Lo que más importa en el día a día es cuánto tiempo tardás en limpiarla, no si podés mirar adentro. Dicho esto, si la ventana era un factor de decisión para vos, este modelo no lo tiene.
+
+## FR60AR vs FR248ABP: en qué se diferencian
+
+Si necesitás más capacidad y ventana, la [FR248ABP de 8L](/producto/MLA39861162) (1750W, ventana con luz, 8 programas por técnica). Si preferís el modelo más probado con mejor relación tamaño/potencia, el FR60AR (6.5L, 1300W, diseño cubo compacto, 6 programas por alimento).
+
+Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la [Pro doble canasta 8.5L](/producto/MLA40161710) del mismo cluster.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma Pro / FR60AR (94FR60AR)' },
+      { label: 'Capacidad', value: '6.5 litros' },
+      { label: 'Potencia', value: '1300 W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Temperatura', value: '80°C – 220°C' },
+      { label: 'Control', value: 'Digital táctil' },
+      { label: 'Programas', value: '6 (Chips, Aves, Pescado, Bife, Carne, Torta)' },
+      { label: 'Ventana', value: 'No' },
+      { label: 'Canasto', value: 'Antiadherente' },
+      { label: 'Incluye', value: 'Canasto + rejilla' },
+      { label: 'Dimensiones', value: '276 × 273 × 279 mm' },
+      { label: 'Peso', value: '4.6 kg' },
+      { label: 'Pollo entero', value: 'Hasta 3 kg' },
+      { label: 'Color', value: 'Blanco' },
+    ],
+    faq: [
+      { question: '¿La Atma Pro FR60AR es la misma que la FR60AR sin "Pro"?', answer: 'El modelo alfanumérico es 94FR60AR y pertenece a la línea Atma Pro. "Pro" es el nombre de línea en Atma. El FR60AR sin prefijo no figura como un modelo separado en la ficha; es el mismo producto.' },
+      { question: '¿Cuánto tarda en cocinar papas fritas?', answer: 'Según los datos del vendedor: 1 kg de papas fritas en 25 minutos. Las milanesas tardan aproximadamente 11 minutos. Estos tiempos son para el alimento ya preparado (papas cortadas, milanesas empanadas), sin contar preparación previa.' },
+      { question: '¿Para cuántas personas alcanza la capacidad de 6.5L?', answer: 'El vendedor dice 4 a 6 personas. Los comentarios de compradores la ubican más cerca de 2 a 3 personas en uso cotidiano, o 4 si las porciones no son grandes. Para familias de 5 o más con buen apetito, la FR248ABP de 8L da más margen.' },
+      { question: '¿La FR60AR tiene ventana para ver la cocción?', answer: 'No. La ficha de ML confirma "Con ventana transparente: No". Si la ventana es un requisito, el modelo adecuado es la Atma FR248ABP.' },
+      { question: '¿Qué diferencia hay entre los programas de la FR60AR y la FR248ABP?', answer: 'La FR60AR tiene 6 programas por tipo de alimento (Chips, Aves, Pescado, Bife, Carne, Torta). La FR248ABP tiene 8 programas por técnica (Freír, Hornear, Asar, Rostizar, etc.). El primer enfoque es más intuitivo para quien no cocina seguido; el segundo da más control sobre la técnica.' },
+      { question: '¿El bowl es apto para lavavajillas?', answer: 'La ficha técnica confirma superficie antiadherente en el canasto, pero no especifica si es apto para lavavajillas. Los vendedores de freidoras suelen recomendar lavado a mano para preservar el recubrimiento. Consultar al vendedor para confirmación.' },
+      { question: '¿Cuánto pesa la FR60AR?', answer: '4.6 kg. Es un peso manejable para mover entre mesada y guardado, aunque la mayoría de los compradores la deja fija en la cocina dado el uso frecuente.' },
+      { question: '¿Cuál es la temperatura máxima?', answer: '220°C, que es 20°C más que la FR248ABP. Ese rango extra sirve para dorar más rápido superficies de carne o para lograr papas más crujientes en menos tiempo.' },
+    ],
+    relatedProducts: ['MLA39861162', 'MLA37004216', 'MLA40161710'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Atma Pro FR60AR 6.5 Litros',
+      description: 'Freidora de aire digital Atma Pro con capacidad de 6.5 litros, 1300W de potencia, 6 programas preestablecidos por tipo de alimento (Chips, Aves, Pescado, Bife, Carne, Torta), temperatura ajustable de 80°C a 220°C, canasto antiadherente y diseño compacto de 276x273x279mm.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'FR60AR',
+      sku: 'MLA27351841',
+      category: 'Freidoras de aire',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_957826-MLU74154693437_012024-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA27351841',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '91839',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2H5RRoD',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '10231',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA37004216',
