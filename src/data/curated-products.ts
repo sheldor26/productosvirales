@@ -2640,7 +2640,7 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
       'https://http2.mlstatic.com/D_NQ_NP_2X_818107-MLA87476431899_072025-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_650495-MLA81955644930_022025-F.webp',
     ],
-    category: 'Antigüedades y Colecciones',
+    category: 'Ventiladores de Techo',
     categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estructura-blanco-aspas-transparente-diametro-1067-m-frecuencia-50-hz-material-de-las-aspas-acrilico/p/MLA43536904',
     affiliateUrl: 'https://meli.la/1FFciXt',
@@ -2650,6 +2650,129 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: '- 3 palas retráctiles invisibles de gran tamaño.   - 3 tonos de luz progresivas: Fría, Blanca cálida y Amarilla cálida.   - 6 velocidades.   - Dimmer para brillo regulable.   - Control remoto de largo alcance.   - Timer para apagado automático.   - Memoria de último modo de luz.   - Modo Convección:',
+    badge: 'viral',
+    seoTitle: 'Ventilador de Techo Retráctil Peabody PE-VTRDC425B | PickViral',
+    metaDescription: 'Peabody PE-VTRDC425B: motor DC de cobre, 170 m³/min, luz LED con dimmer, 3 tonos, modo convección y 2 barrales incluidos. 4.8⭐ con 1.004 compradores.',
+    ogTitle: 'Ventilador de Techo Retráctil Peabody PE-VTRDC425B | PickViral',
+    ogDescription: 'Motor DC 100% cobre, 170 m³/min, luz LED con dimmer y 3 tonos progresivos, modo convección invierno, 2 barrales incluidos. 4.8⭐ con 1.004 compradores.',
+    h1: 'Peabody PE-VTRDC425B: el ventilador retráctil con motor DC de cobre y 170 m³/min de caudal',
+    pros: [
+      'Motor DC 100% cobre (eficiente y durable)',
+      '170 m³/min de caudal (+70% vs segmento)',
+      'Luz LED con dimmer + memoria + modo noche',
+      'Modo convección para invierno',
+      '2 barrales incluidos (40/50 cm)',
+      '1.004 calificaciones con 4.8⭐ (mayor volumen del cluster)',
+    ],
+    cons: [
+      '39 dB (más ruidoso que otros retráctiles declarados)',
+      'Solo 50 Hz (Novohome acepta 50/60)',
+      'Conectividad Wi-Fi con datos contradictorios',
+      'Precio premium ($257.291)',
+    ],
+    verdict: 'El retráctil más vendido del cluster con motor DC y caudal premium. Si priorizás flujo de aire + control fino de luz, es el indicado.',
+    articleBody: `## Por qué Peabody es la marca más buscada en este segmento
+
+En Argentina, "ventilador de techo retráctil Peabody" acumula búsquedas mensuales que ninguna otra marca del segmento tiene en volumen comparable. Eso no es casualidad: Peabody tiene distribución local, presencia en cadenas de electro y un historial de posventa que genera opiniones activas. Con 1.004 calificaciones y 4.8 estrellas en MercadoLibre, el PE-VTRDC425B es el ventilador retráctil con mayor cantidad de reseñas del cluster.
+
+El resumen de compradores lo describe con precisión: "silencioso y ofrece un flujo de aire espectacular, siendo ideal incluso para techos altos. Su diseño es atractivo y cuenta con diferentes opciones de luces que se pueden regular."
+
+## Motor DC de cobre: qué significa en la práctica
+
+Los ventiladores convencionales usan motores AC (corriente alterna). El PE-VTRDC425B tiene motor DC (corriente continua), 100% de cobre en los devanados. La diferencia concreta se traduce en tres aspectos: menor consumo energético, mayor durabilidad del motor y, en teoría, menos ruido a bajas velocidades.
+
+El motor DC consume significativamente menos a velocidades intermedias comparado con uno AC de la misma potencia. Para un aparato que se usa horas por día durante meses, la diferencia de consumo es acumulativa. Peabody lo comunica como "alto rendimiento y bajo consumo", y en ese sentido el dato es técnicamente correcto.
+
+La ficha de MercadoLibre registra 39 dB de ruido. Es un nivel aceptable — equivale a una biblioteca o ambiente tranquilo — pero es mayor al que declara el [Novohome NH-VTR](/producto/MLA54423759) del mismo cluster (20-33 dB). Es un dato real y vale tenerlo en cuenta si la prioridad es el silencio absoluto mientras se duerme.
+
+## 170 m³/min: el diferenciador de caudal
+
+Peabody indica que el PE-VTRDC425B mueve 170 metros cúbicos de aire por minuto, lo que representa un 70% más que otros ventiladores retráctiles del mercado según el fabricante. Con 42 pulgadas de diámetro y tres aspas de acrílico de gran tamaño, el diseño prioriza el movimiento de masa de aire sobre la cantidad de palas.
+
+Para espacios de 25 m² o más, ese caudal importa. Un ventilador que mueve menos aire tarda más en generar la circulación que hace sentir el espacio fresco. La referencia de 170 m³/min viene del fabricante y no hay un comparador externo en el listing que la valide, pero los compradores mencionan "flujo de aire espectacular" como uno de los puntos más destacados.
+
+## Luz LED con dimmer, memoria y modo noche
+
+La iluminación del PE-VTRDC425B va más allá de elegir entre fría, cálida o neutra. Tiene dimmer para regular el brillo dentro de cada tono, memoria que guarda el último modo usado (al encender de nuevo, vuelve a ese estado sin necesidad de configurarlo), y modo noche con luz tenue específicamente pensada para no interrumpir el sueño.
+
+Para un dormitorio, esa combinación es completa: luz fría para leer, cálida para el ambiente del cuarto, modo noche para dormirse con una luz mínima activa. Desde el control remoto se maneja todo sin levantarse.
+
+## Modo convección: cómo funciona en invierno
+
+El modo convección hace girar las aspas en sentido inverso a baja velocidad. En lugar de empujar el aire hacia abajo, lo desplaza hacia arriba desde los costados, arrastrando el aire caliente acumulado en el techo y distribuyéndolo hacia abajo de forma uniforme. No genera corriente directa sobre las personas.
+
+La ficha de MercadoLibre lista "Con aspas reversibles: No", lo que puede generar confusión. La reversión de dirección es electrónica y se activa desde el control remoto en el modo convección. No son aspas que se giren manualmente — el motor cambia de sentido. Es un error del campo en la ficha del vendedor, no una ausencia de funcionalidad.
+
+## Dos barrales incluidos: instalación adaptable
+
+El PE-VTRDC425B incluye dos barrales (varillas de suspensión): uno corto que da una altura total de 40 cm desde el techo, y uno largo que da 50 cm. Eso permite adaptar la instalación a la altura del techo disponible.
+
+Para techos estándar argentinos de 2,40 m, el barral corto deja el punto más bajo del ventilador a unos 2 m del piso — rango seguro. Para techos más altos, el largo eleva el aparato y mejora la distribución del aire en el volumen mayor del ambiente.
+
+## Un punto que hay que verificar: la conectividad con celular
+
+La descripción del vendedor incluye: "CONECTIVIDAD: Todas las funciones desde el celular." Sin embargo, la ficha técnica oficial de MercadoLibre lista "Con Wi-Fi: No". Son afirmaciones que se contradicen.
+
+Puede ser que use radiofrecuencia (RF) con un receptor que se conecta vía app, o que la descripción sea texto de otro modelo aplicado por error. Antes de comprar, si la conectividad móvil es una función que buscás específicamente, recomendamos consultarle al vendedor para confirmar qué tecnología usa y si hay app disponible.
+
+Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil](/producto/MLA44033885) y el [Iluma retráctil](/producto/MLA66266614).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Peabody / PE-VTRDC425B' },
+      { label: 'Voltaje', value: '220V / 50 Hz' },
+      { label: 'Potencia total', value: '72 W (36W motor DC + 36W LED)' },
+      { label: 'Motor', value: 'DC 100% cobre' },
+      { label: 'Caudal', value: '170 m³/min' },
+      { label: 'Diámetro expandido', value: '1,06 m (42 pulgadas)' },
+      { label: 'Diámetro recogido', value: '51 cm' },
+      { label: 'Peso', value: '7,4 kg' },
+      { label: 'Aspas', value: '3 acrílico transparente' },
+      { label: 'Velocidades', value: '6' },
+      { label: 'Luz LED', value: '3 tonos progresivos con dimmer + memoria' },
+      { label: 'Modo convección', value: 'Sí (reversión electrónica)' },
+      { label: 'Timer', value: '2H / 4H' },
+      { label: 'Barrales incluidos', value: '2 (corto 40cm / largo 50cm)' },
+      { label: 'Nivel de ruido', value: '39 dB' },
+      { label: 'Control remoto', value: 'Sí, largo alcance' },
+    ],
+    faq: [
+      { question: '¿El Peabody PE-VTRDC425B tiene modo invierno?', answer: 'Sí. Tiene modo convección que invierte el sentido de giro de las aspas a baja velocidad para distribuir el aire caliente acumulado en el techo hacia abajo, sin generar corriente directa. La ficha de ML dice "aspas reversibles: No" porque la reversión es electrónica, no manual.' },
+      { question: '¿Tiene dimmer o solo cambia entre tres tonos de luz?', answer: 'Tiene ambas cosas. Dentro de cada tono de luz (fría, blanca cálida, amarilla cálida) podés regular el brillo con el dimmer desde el control remoto. También tiene modo noche con luz tenue y memoria del último modo usado.' },
+      { question: '¿Qué diferencia hay entre el Peabody y el Novohome NH-VTR del mismo cluster?', answer: 'Principalmente cuatro diferencias. El Peabody tiene motor DC de cobre (más eficiente), 3 aspas grandes de acrílico vs 4 del Novohome, dimmer regulable y memoria de modo (que el Novohome no menciona), y un caudal declarado de 170 m³/min. El Novohome es más económico ($113.149 vs $257.291) y tiene un ruido mínimo más bajo declarado (20 dB vs 39 dB del Peabody).' },
+      { question: '¿Para qué tamaño de ambiente sirve?', answer: 'Con 42 pulgadas (1,07 m) de diámetro y 170 m³/min de caudal, los compradores lo mencionan como "ideal incluso para techos altos". Es apto para ambientes de 20 a 35 m² aproximadamente.' },
+      { question: '¿Incluye los dos barrales?', answer: 'Sí. Vienen incluidos el barral corto (altura total 40 cm) y el barral largo (altura total 50 cm), permitiendo adaptar la instalación según la altura del techo.' },
+      { question: '¿Tiene conectividad con celular?', answer: 'La descripción del vendedor menciona "todas las funciones desde el celular", pero la ficha técnica oficial de MercadoLibre lista "Con Wi-Fi: No". Hay una contradicción. Recomendamos consultar al vendedor antes de comprar si esa función es relevante para tu decisión.' },
+      { question: '¿Es fácil de instalar?', answer: 'Peabody indica que es compatible con tecla de luz existente, sin necesidad de cableado extra para el motor. Requiere instalación eléctrica en techo — si no tenés experiencia, un electricista puede hacerlo en menos de una hora.' },
+      { question: '¿Cuánto pesa?', answer: '7,4 kg. Es importante que la caja de techo y el soporte estén en buenas condiciones antes de instalarlo. Para mayor seguridad, verificar la resistencia del tomacorriente de techo con un electricista.' },
+    ],
+    relatedProducts: ['MLA54423759', 'MLA44033885', 'MLA66266614'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Peabody PE-VTRDC425B — Ventilador de Techo Retráctil Motor DC',
+      description: 'Ventilador de techo retráctil con motor DC 100% cobre (36W) + LED 36W = 72W total. 3 aspas acrílico retráctiles de 42 pulgadas, 170 m³/min de caudal, 6 velocidades, luz LED 3 tonos con dimmer y memoria, modo convección invierno, 2 barrales incluidos, timer 2H/4H, control remoto largo alcance.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      model: 'PE-VTRDC425B',
+      sku: 'MLA43536904',
+      category: 'Ventiladores de techo retráctiles',
+      color: 'Blanco / Aspas transparentes',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_830524-MLA99953512795_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA43536904',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '257291',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1FFciXt',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '1004',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA44033885',
