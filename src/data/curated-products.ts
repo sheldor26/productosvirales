@@ -8958,6 +8958,121 @@ Si querés cubrir otras zonas además de los pies, el [Caliber Percussion](/prod
     soldQuantity: 500,
     pastelColor: 'var(--pastel-pink)',
     description: "Masajeador para pies SAN-UP ReflexWave\n\nDescubre el masajeador para pies SAN-UP ReflexWave, diseñado para brindarte una experiencia de relajación y bienestar desde la comodidad de tu hogar. Con tecnología avanzada y múltiples funciones, este dispositivo es ideal para aliviar la tensión, mejorar la c",
+    badge: 'trending',
+    seoTitle: 'Masajeador Pies Reflexológico San-Up ReflexWave | PickViral',
+    metaDescription: 'San-Up ReflexWave: masajeador de pies reflexológico con bolsas de aire, 3 niveles de calor infrarrojo, control remoto y apagado automático. 220V. 4.7⭐',
+    ogTitle: 'Masajeador de Pies Reflexológico San-Up ReflexWave con Bolsas de Aire | PickViral',
+    ogDescription: 'Reflexología + bolsas de aire + calor infrarrojo en 3 niveles + control remoto táctil. Auto-off 15 min y protección contra sobrecalentamiento. 4.7⭐ en MercadoLibre.',
+    h1: 'San-Up ReflexWave: masajeador reflexológico de pies con bolsas de aire y control remoto',
+    pros: [
+      'Bolsas de aire integradas (compresión envolvente)',
+      '3 niveles de calor infrarrojo ajustables',
+      'Control remoto táctil incluido',
+      'Apagado automático a los 15 min',
+      'Protección contra sobrecalentamiento',
+      'Marca argentina reconocida (San-Up)',
+    ],
+    cons: [
+      'Precio premium ($199.499)',
+      'Equipo grande (44 × 40 × 25 cm)',
+      'Datos del fabricante con discrepancias (niveles de calor/intensidad)',
+      'Volumen de reseñas todavía bajo (139)',
+    ],
+    verdict: 'El masajeador de pies más completo del cluster. Bolsas de aire + 3 niveles de calor + remoto. Si trabajás parado o tenés fascitis plantar, justifica el precio.',
+    articleBody: `## La diferencia entre un masajeador de pies básico y uno reflexológico
+
+Un masajeador de pies por vibración trabaja sobre la superficie. Uno con técnica reflexológica actúa sobre puntos específicos de la planta del pie que, según la práctica reflexológica, están vinculados a distintas zonas del cuerpo. No es lo mismo cómo se siente el masaje ni cómo trabaja el dispositivo.
+
+El San-Up ReflexWave es el masajeador de pies más completo en esta selección. A $199.499 es también el más caro del cluster. Pero tiene features que ningún otro tiene de forma combinada: bolsas de aire integradas para compresión lateral, 3 niveles de calor infrarrojo ajustables por separado, control remoto táctil y apagado automático a los 15 minutos.
+
+Con 4.7 estrellas sobre 139 calificaciones, el volumen de reseñas es todavía bajo para tener una señal de rating muy consolidada. Lo que sí muestra es que, entre quienes lo compraron y lo calificaron, el porcentaje de satisfacción es alto.
+
+## Bolsas de aire: la función que cambia la experiencia
+
+El [Suono Foot Massage Luxury](/producto/MLA23131501) del mismo cluster tiene nodos shiatsu que hacen presión mecánica. El San-Up ReflexWave agrega bolsas de aire integradas que se inflan y desinflan de forma controlada para generar un efecto de compresión envolvente alrededor del pie. Es una sensación distinta: en lugar de punto a punto, el pie queda contenido y con presión distribuida.
+
+Esta tecnología se llama air compression o neumamasaje, y es habitual en equipos de recuperación deportiva de rango superior. En el segmento de masajeadores de pies para uso doméstico, es una característica que diferencia claramente al San-Up de los modelos con shiatsu puro.
+
+## Tres niveles de calor: más control que el resto del cluster
+
+El calor infrarrojo del San-Up no es simplemente "encendido/apagado". Tiene 3 niveles ajustables de forma independiente al modo de masaje. Eso significa que podés tener masaje suave con calor intenso, o masaje intenso sin calor, o cualquier combinación según cómo estén los pies ese día.
+
+La función de calor por infrarrojos genera calor profundo (no solo superficial) que actúa sobre los músculos y mejora la circulación en la zona tratada. Cuando está activo, los emisores se ven con ese tono rojo característico en el interior de las cavidades.
+
+## Control remoto táctil: el detalle de comodidad
+
+El San-Up incluye un control remoto con cuatro botones (Power, Mode, Heat, Strong) que permite operar todo el masajeador sin necesidad de inclinarse. Para alguien que usa el aparato en el piso mientras trabaja frente a un escritorio o ve televisión en el sillón, esto no es un lujo. Es la diferencia entre poderse relajar de verdad o tener que maniobrar cada vez que quiere cambiar la función.
+
+## Apagado automático a los 15 minutos
+
+El San-Up se apaga solo después de 15 minutos de uso. Esto es importante en dos sentidos: protege el motor del dispositivo del uso prolongado sin supervisión, y protege al usuario de aplicar masaje en exceso sobre una misma zona. Los terapeutas suelen recomendar sesiones de entre 10 y 20 minutos en pies.
+
+También tiene protección contra sobrecalentamiento, lo que da un margen de seguridad adicional para uso en el hogar.
+
+## Dimensiones: es un equipo grande
+
+El San-Up ReflexWave mide 44,4 cm de largo, 40 cm de ancho y 25,4 cm de alto. Son dimensiones considerables, bastante mayores que el Suono (30×20×15 cm). Ocupa un espacio parecido al de una caja de zapatillas grande. No es un producto que entre fácil en un cajón o que se guarde en cualquier lado.
+
+## Para quién tiene sentido pagar el precio premium
+
+El San-Up ReflexWave cuesta cuatro veces más que el Suono Foot Massage Luxury del mismo cluster. Para justificar esa diferencia necesitás valorar específicamente lo que agrega: las bolsas de aire, el control remoto, los 3 niveles de calor ajustables y el auto-off.
+
+Si la prioridad es solo tener shiatsu básico con calor a un precio accesible, el [Suono](/producto/MLA23131501) tiene más sentido. Si buscás un equipo completo para recuperación diaria o tenés problemas específicos como fascitis plantar o circulación deficiente en los pies (como mencionan compradores en las reseñas de MercadoLibre), el San-Up ReflexWave justifica el precio con features concretos. Más contexto en la [guía de masajeador de pies](/guias/masajeador-pies) y en la [comparativa general](/guias/mejores-masajeadores-argentina).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'San-Up / ReflexWave SU-MSJ102F' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Alimentación', value: 'Cable' },
+      { label: 'Color', value: 'Gris' },
+      { label: 'Masaje shiatsu', value: 'Sí' },
+      { label: 'Técnica reflexológica', value: 'Sí' },
+      { label: 'Bolsas de aire', value: 'Sí (compresión envolvente)' },
+      { label: 'Calor infrarrojo', value: 'Sí (3 niveles)' },
+      { label: 'Modos de masaje', value: '3' },
+      { label: 'Niveles de intensidad', value: '3 (ficha ML)' },
+      { label: 'Control remoto', value: 'Sí, botones táctiles (Power/Mode/Heat/Strong)' },
+      { label: 'Apagado automático', value: 'Sí, 15 minutos' },
+      { label: 'Protección sobrecalentamiento', value: 'Sí' },
+      { label: 'Dimensiones', value: '44,4 × 40 × 25,4 cm' },
+    ],
+    faq: [
+      { question: '¿El San-Up ReflexWave tiene bolsas de aire?', answer: 'Sí. Tiene bolsas de aire integradas confirmadas en la ficha técnica oficial y en la descripción del vendedor. Generan un efecto de compresión envolvente alrededor del pie, sumado a la técnica de masaje reflexológico.' },
+      { question: '¿Cuántos niveles de calor tiene?', answer: 'Según la ficha técnica de MercadoLibre y el infográfico del vendedor, tiene 3 niveles de calor ajustables de forma independiente al masaje. La caja del producto muestra 2 niveles. Recomendamos consultar al vendedor para confirmar.' },
+      { question: '¿Tiene apagado automático?', answer: 'Sí. Se apaga automáticamente después de 15 minutos de uso. También tiene protección contra sobrecalentamiento.' },
+      { question: '¿Incluye control remoto?', answer: 'Sí. El control remoto táctil con botones de Power, Mode, Heat y Strong viene incluido en la caja. Permite operar todo el dispositivo sin inclinarse.' },
+      { question: '¿Cuánto mide? ¿Es grande?', answer: 'Sí, es un equipo de tamaño considerable: 44,4 cm de largo × 40 cm de ancho × 25,4 cm de alto. Ocupa más espacio que otros masajeadores de pies compactos como el Suono (30×20×15 cm).' },
+      { question: '¿La diferencia de precio con el Suono vale la pena?', answer: 'Depende del uso. El San-Up agrega tres features que el Suono no tiene: bolsas de aire para compresión, 3 niveles de calor ajustables y control remoto. Si esas funciones son relevantes para tu caso (recuperación deportiva, fascitis plantar, circulación), el precio extra tiene sustento. Si buscás un masaje básico de pies, el Suono a $49.999 cubre esa necesidad.' },
+      { question: '¿Tiene técnica shiatsu o reflexológica?', answer: 'Ambas están listadas como características del producto. La ficha técnica confirma "Con masaje Shiatsu: Sí" y la descripción menciona "técnica de masaje reflexológico". Las bolsas de aire agregan la capa de compresión.' },
+      { question: '¿Sirve para fascitis plantar?', answer: 'Las reseñas de compradores en MercadoLibre mencionan específicamente el alivio en casos de fascitis plantar. El calor infrarrojo y la compresión con bolsas de aire son los dos elementos más señalados. No es un dispositivo médico y no reemplaza tratamiento profesional, pero los resultados reportados por compradores son positivos.' },
+    ],
+    relatedProducts: ['MLA23131501', 'MLA25263767', 'MLA28420339'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'San-Up ReflexWave SU-MSJ102F — Masajeador de Pies Reflexológico con Bolsas de Aire',
+      description: 'Masajeador de pies con técnica reflexológica y shiatsu, bolsas de aire integradas para compresión envolvente, 3 niveles de calor infrarrojo ajustables, 3 modos de masaje, control remoto táctil y apagado automático a los 15 minutos. 220V. Dimensiones: 44,4×40×25,4 cm.',
+      brand: { '@type': 'Brand', name: 'San-Up' },
+      model: 'SU-MSJ102F',
+      sku: 'MLA47148409',
+      category: 'Masajeadores de pies',
+      color: 'Gris',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_709001-MLA85409844441_052025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA47148409',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '199499',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1Goq57P',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '139',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA24127896',
