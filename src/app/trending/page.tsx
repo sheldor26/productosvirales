@@ -7,6 +7,19 @@ export const metadata: Metadata = {
   title: "Trending — Lo más buscado en MercadoLibre",
   description:
     "Descubrí los productos que están en tendencia ahora mismo en MercadoLibre Argentina.",
+  alternates: {
+    canonical: "https://productosvirales.com.ar/trending",
+  },
+  openGraph: {
+    title: "Productos Trending en MercadoLibre Argentina",
+    description: "Los productos más buscados y comprados ahora mismo.",
+    url: "https://productosvirales.com.ar/trending",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Productos Trending en MercadoLibre Argentina",
+    description: "Los productos más buscados y comprados ahora mismo.",
+  },
 };
 
 export default function TrendingPage() {

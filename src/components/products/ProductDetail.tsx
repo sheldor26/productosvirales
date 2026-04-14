@@ -77,7 +77,6 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               sizes="(max-width: 768px) 100vw, 50vw"
               className="object-contain p-8"
               priority
-              unoptimized
             />
             {product.tiktokViews && (
               <div className="absolute top-4 left-4">
@@ -348,7 +347,6 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
                       fill
                       sizes="64px"
                       className="object-contain p-1.5"
-                      unoptimized
                     />
                   )}
                 </div>

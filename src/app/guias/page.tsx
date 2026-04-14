@@ -12,6 +12,18 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://productosvirales.com.ar/guias",
   },
+  openGraph: {
+    title: "Guías de compra — Productos Virales",
+    description:
+      "Comparativas honestas y guías de compra para elegir bien en MercadoLibre Argentina.",
+    url: "https://productosvirales.com.ar/guias",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Guías de compra — Productos Virales",
+    description:
+      "Comparativas honestas y guías de compra para elegir bien en MercadoLibre Argentina.",
+  },
 };
 
 export default function GuiasIndexPage() {

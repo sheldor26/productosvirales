@@ -9,14 +9,36 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
+export function generateStaticParams() {
+  return categories.filter((c) => !c.isSpecial).map((c) => ({ slug: c.slug }));
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const category = categories.find((c) => c.slug === slug);
   if (!category) return { title: "Categoría no encontrada" };
 
+  const title = category.h1 || category.name;
+  const description =
+    category.description ||
+    `Los mejores productos de ${category.name} en MercadoLibre Argentina.`;
+
   return {
-    title: category.h1 || category.name,
-    description: category.description || `Los mejores productos de ${category.name} en MercadoLibre Argentina.`,
+    title,
+    description,
+    alternates: {
+      canonical: `https://productosvirales.com.ar/categoria/${slug}`,
+    },
+    openGraph: {
+      title: `${title} | ProductosVirales`,
+      description,
+      url: `https://productosvirales.com.ar/categoria/${slug}`,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${title} | ProductosVirales`,
+      description,
+    },
   };
 }
 
@@ -37,6 +59,30 @@ export default async function CategoryPage({ params }: Props) {
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8 space-y-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Inicio",
+                item: "https://productosvirales.com.ar",
+              },
+              {
+                "@type": "ListItem",
+                position: 2,
+                name: category.name,
+                item: `https://productosvirales.com.ar/categoria/${slug}`,
+              },
+            ],
+          }),
+        }}
+      />
+
       {/* Category hero */}
       <div
         className="rounded-[var(--radius-card)] p-6 md:p-10"

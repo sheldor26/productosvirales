@@ -9,6 +9,13 @@ interface Props {
   params: Promise<{ id: string }>;
 }
 
+export function generateStaticParams() {
+  return curatedProducts
+    .filter((p) => p.visibility !== "deprioritized")
+    .slice(0, 50)
+    .map((p) => ({ id: p.id }));
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { id } = await params;
   const product = curatedProducts.find((p) => p.id === id);
@@ -23,10 +30,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title,
     description,
+    alternates: {
+      canonical: `https://productosvirales.com.ar/producto/${id}`,
+    },
     openGraph: {
       title: product.ogTitle || title,
-      description:
-        product.ogDescription || description,
+      description: product.ogDescription || description,
+      images: [product.image],
+      type: "website",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: product.ogTitle || title,
+      description: product.ogDescription || description,
       images: [product.image],
     },
   };
@@ -105,6 +121,35 @@ export default async function ProductPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
         />
       )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Inicio",
+                item: "https://productosvirales.com.ar",
+              },
+              {
+                "@type": "ListItem",
+                position: 2,
+                name: product.category,
+                item: `https://productosvirales.com.ar/categoria/${product.categorySlug}`,
+              },
+              {
+                "@type": "ListItem",
+                position: 3,
+                name: product.title,
+                item: `https://productosvirales.com.ar/producto/${product.id}`,
+              },
+            ],
+          }),
+        }}
+      />
 
       <ProductDetail product={product} relatedProducts={explicitRelated} />
 
