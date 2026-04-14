@@ -8137,8 +8137,8 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
   {
     id: 'MLA26522167',
     title: "Equipo de Alta Frecuencia Gadnic LF60 Antienvejecimiento Antiacné Reafirmante Facial 4 Electrodos",
-    price: 69990,
-    originalPrice: undefined,
+    price: 49349,
+    originalPrice: 69990,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_678865-MLA91655044961_092025-F.webp',
     images: [
@@ -8158,6 +8158,117 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-pink)',
     description: "Tratamientos profesionales en casa\nEl equipo de alta frecuencia Gadnic LF60 ayuda a mejorar la circulación, estimular la piel y reducir signos de envejecimiento, con resultados visibles desde las primeras sesiones.\n\nCuatro electrodos para distintos usos\nIncluye electrodos en forma de hongo, lengua, ",
+    badge: 'trending',
+    seoTitle: 'Gadnic LF60: equipo alta frecuencia con 4 electrodos | AR',
+    metaDescription: 'Equipo de alta frecuencia Gadnic LF60 con 4 electrodos de vidrio. Para acné, manchas y cuero cabelludo. 4.7⭐ y más de 2.500 compradores en Argentina.',
+    ogTitle: 'Gadnic LF60: equipo alta frecuencia 4 electrodos facial y capilar | PickViral',
+    ogDescription: 'El equipo de alta frecuencia Gadnic LF60 incluye 4 electrodos de vidrio intercambiables para acné, manchas, arrugas y cuero cabelludo. 4.7⭐ con 2.509 compradores.',
+    h1: 'Gadnic LF60: el equipo de alta frecuencia con 4 electrodos que usan en casa como en el consultorio',
+    pros: [
+      '4 electrodos de vidrio intercambiables',
+      'Uso facial + corporal + capilar',
+      'Efecto bactericida por ozono localizado',
+      '4.7⭐ con 2.509 calificaciones',
+      'Regulador de intensidad continuo',
+    ],
+    cons: [
+      'Solo 220V (no 110V sin transformador)',
+      'Electrodos de vidrio frágiles',
+      'No usar sobre rosácea o piel muy irritada',
+      'No apto si tenés implantes metálicos',
+    ],
+    verdict: 'El dispositivo más técnico del cluster facial. Tiene sentido para acné persistente o si ya conocés la alta frecuencia de cabina.',
+    articleBody: `## Qué es la alta frecuencia y cómo funciona el LF60
+
+La alta frecuencia es una tecnología que existe en estética desde hace décadas. Los equipos profesionales de cabina usan el mismo principio que este: una corriente eléctrica de alta frecuencia que pasa a través de un tubo de vidrio relleno de gas neón. Al contacto con la piel, genera una micro-descarga que produce ozono de forma localizada y tiene efecto bactericida.
+
+El LF60 lleva esa tecnología a un formato de 21 x 5 cm, con un peso de 350g y un cable de alimentación a 220V. La perilla de intensidad en el mango permite ajustar la potencia de 20W según la zona y la sensibilidad de la piel.
+
+Los electrodos se ven de color naranja/rosado cuando están encendidos. Es el gas neón adentro del vidrio. No se calientan de forma significativa pero sí producen una sensación de hormigueo leve al contacto.
+
+## Los 4 electrodos y para qué sirve cada uno
+
+**Electrodo hongo:** el más grande del set. Se usa sobre mejillas, frente y cuello. Cubre bastante superficie de una pasada y es el más polivalente para empezar.
+
+**Electrodo lengua (curvo):** diseñado para zonas que el hongo no llega bien — contorno de ojos, surco nasogeniano, labio superior.
+
+**Electrodo cuchara:** para imperfecciones puntuales. Si tenés un granito específico o una mancha localizada, este es el indicado. La concentración de la corriente es mayor en un área chica.
+
+**Electrodo peine:** uso capilar. Se pasa sobre el cuero cabelludo para estimular la circulación local y los folículos. Gadnic lo incluye en el claim de "recuperación capilar".
+
+Los cuatro se enchufan al mismo conector del equipo. Se intercambian en segundos.
+
+## Para qué lo usan los compradores argentinos
+
+Las reseñas mencionan principalmente tres aplicaciones: tratamiento del acné activo y sus marcas, reducción de manchas superficiales, y estimulación del cuero cabelludo para pérdida de cabello. En menor medida también aparecen estrías y cuidado antiedad general.
+
+La combinación acné + manchas es la más reportada con mejora visible. Tiene lógica: el ozono generado por la alta frecuencia tiene efecto antibacteriano, lo que ayuda con brotes activos. Para las marcas postacné, la mejora de la circulación local colabora con la regeneración.
+
+No es un tratamiento dermatológico. Es un dispositivo de belleza para uso doméstico. Los resultados varían según el tipo de piel, la constancia de uso y la gravedad del problema a tratar.
+
+## Cómo se usa
+
+Limpiar la piel. Secar bien. Tomar el equipo con el electrodo elegido, encenderlo y regular la intensidad al mínimo primero. Deslizar el electrodo sobre la piel con movimientos suaves y continuos. No detenerlo en un punto fijo mientras está encendido.
+
+Para acné activo se recomienda el electrodo cuchara directo sobre el brote, 1-2 minutos por zona. Para el rostro completo, el hongo en movimientos lentos de 5-10 minutos máximo por sesión. Para el cuero cabelludo, el peine con pasadas de adelante hacia atrás.
+
+Frecuencia recomendada: 3-4 veces por semana. No todos los días si la piel es sensible. No usar sobre piel muy irritada, heridas abiertas, rosácea activa ni zona de implantes metálicos.
+
+## Dónde encaja en el cluster facial
+
+Tres opciones en el catálogo con tres lógicas distintas. El [kit jade + gua sha](/producto/MLA24518712) ($5.399) es la entrada manual — ritual diario, drenaje, sin electrónica. La [Energy Beauty Bar](/producto/MLA1841302022) ($18.399) suma vibración mecánica y microcorriente para anti-aging básico. El LF60 es el dispositivo más técnico y el más caro de los tres. Tiene sentido para personas con acné que no encuentran solución con productos tópicos, o para quienes ya conocen la alta frecuencia de cabinas de estética y quieren el resultado en casa.
+
+Más contexto en la [guía de masajeadores faciales](/guias/masajeador-facial) y en la [comparativa general de masajeadores](/guias/mejores-masajeadores-argentina).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Gadnic / LF60' },
+      { label: 'Sub-marca', value: 'Care by Gadnic' },
+      { label: 'Tecnología', value: 'Alta frecuencia (neón)' },
+      { label: 'Potencia', value: '20W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Electrodos incluidos', value: '4 (hongo, lengua, cuchara, peine)' },
+      { label: 'Material electrodos', value: 'Vidrio + ABS' },
+      { label: 'Dimensiones', value: '21 × 5 × 5 cm' },
+      { label: 'Peso', value: '350 g' },
+      { label: 'Uso', value: 'Facial, corporal y capilar' },
+      { label: 'Alimentación', value: 'Cable 220V' },
+      { label: 'Color', value: 'Blanco' },
+    ],
+    faq: [
+      { question: '¿El Gadnic LF60 sirve para el acné?', answer: 'Según las reseñas de compradores, sí. La alta frecuencia genera ozono localizado con efecto bactericida, lo que ayuda a reducir brotes activos. Más de 1.300 compradores reportan mejoría en acné y manchas. No es un tratamiento médico y los resultados varían.' },
+      { question: '¿Funciona el LF60 con corriente de 110V?', answer: 'No. El equipo está especificado para 220V únicamente. En zonas con corriente de 110V se necesita un transformador de voltaje antes de usarlo.' },
+      { question: '¿Los electrodos de vidrio son frágiles?', answer: 'Sí. Son tubos de vidrio con gas neón adentro. Hay que manipularlos con cuidado, especialmente al intercambiarlos. Revisar si la publicación incluye almacenamiento protegido para los electrodos.' },
+      { question: '¿Se puede usar en el cuero cabelludo?', answer: 'Sí. El electrodo peine está diseñado específicamente para el cuero cabelludo. Gadnic incluye "recuperación capilar" entre las aplicaciones del equipo.' },
+      { question: '¿Cuánto tiempo dura cada sesión?', answer: 'Gadnic recomienda sesiones de 5-10 minutos por zona, 3-4 veces por semana. No diariamente si la piel es sensible. Para acné puntual con el electrodo cuchara, 1-2 minutos por área son suficientes.' },
+    ],
+    relatedProducts: ['MLA1841302022', 'MLA24518712'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Gadnic LF60 Equipo de Alta Frecuencia 4 Electrodos Facial y Capilar',
+      description: 'Equipo de alta frecuencia Care by Gadnic LF60 con 4 electrodos de vidrio intercambiables: hongo, lengua, cuchara y peine. Para acné, manchas, arrugas y cuero cabelludo. 20W, 220V, 350g.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'LF60',
+      sku: 'MLA26522167',
+      category: 'Equipos de alta frecuencia facial',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_678865-MLA91655044961_092025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA26522167',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '49349',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2a6LCX1',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '2509',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA28420339',
