@@ -7659,20 +7659,20 @@ A $44.599, la Mateando está en el rango medio del cluster: más cara que la AP1
   },
   {
     id: 'MLA54152343',
-    title: "Pava Eléctrica Liliana Safeheat Ap992b 1,5lts Blanca Color Blanco",
+    title: 'Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared',
     badge: 'trending',
-    relatedProducts: ['MLA8933826', 'MLA47275624', 'MLA14263533', 'MLA61505857'],
+    relatedProducts: ['MLA47275624', 'MLA47183370', 'MLA8933826', 'MLA61505857'],
     price: 61899.69,
     originalPrice: 69544,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_818335-MLA99989463239_112025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_818335-MLA99989463239_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_652332-MLA99505521030_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_705225-MLA104656238183_012026-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_791294-MLA104113478546_012026-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_770719-MLA104656298265_012026-F.webp"
-      ],
+      'https://http2.mlstatic.com/D_NQ_NP_2X_818335-MLA99989463239_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_652332-MLA99505521030_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_705225-MLA104656238183_012026-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_791294-MLA104113478546_012026-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_770719-MLA104656298265_012026-F.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-liliana-safeheat-ap992b-15lts-blanca-color-blanco/p/MLA54152343',
@@ -7680,9 +7680,143 @@ A $44.599, la Mateando está en el rango medio del cluster: más cara que la AP1
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    soldQuantity: 500,
+    soldQuantity: 142,
     pastelColor: 'var(--pastel-coral)',
-    description: "PAVA ELÉCTRICA LILIANA SAFEHEAT AP992B 1,5 L\n\nCaracterísticas:\n- Marca: Liliana.\n- Modelo: AP992B.\n- Doble pared protectora. Construcción en acero inoxidable.\n- Display digital.\n- Función “Keep Warm”.\n- Apagado automático.\n- 7 niveles de temperatura.\n- Luz indicadora de encendido.\n- Tapa con práctic",
+    description: 'Liliana Safeheat AP992B: pava eléctrica premium con doble pared (interior acero inoxidable), 7 niveles de temperatura, keep warm, display LED circular frontal, enrollacable integrado. La más completa del cluster. 1.5L, 1500W. 4.8⭐ con 142 calificaciones.',
+    pros: [
+      '4.8⭐ con 142 calificaciones — rating alto del cluster',
+      '7 niveles de temperatura — más que cualquier otro del cluster',
+      'Doble pared: interior acero inoxidable + exterior plástico (se calienta menos)',
+      'Keep warm confirmado — mantiene la temperatura seleccionada',
+      'Display circular LED frontal — único diseño del cluster',
+      'Enrollacable integrado en la base — único en el cluster',
+      'Pico y parte superior con acabado cromado plateado',
+      '11% OFF — de $69.544 a $61.899',
+    ],
+    cons: [
+      '$61.899 — el precio más alto del cluster',
+      'Solo 1.5L — capacidad más pequeña del cluster',
+      '1.500W — más lento que modelos de 2.200W',
+      'Los valores exactos de los 7 niveles NO están publicados',
+      'Tiempo de keep warm NO especificado en ficha (Peabody DK2200N sí: 2h)',
+    ],
+    verdict: 'El Safeheat AP992B es la pava más completa en funciones de todo el cluster y la de mayor precio ($61.899). Tiene cosas que ninguna otra del cluster tiene: 7 niveles de temperatura, enrollacable integrado y un display circular LED al frente del cuerpo. También tiene doble pared y keep warm. A 4.8⭐ con 142 calificaciones, el volumen es bajo comparado con modelos de mayor trayectoria, pero el número va a crecer.',
+    seoTitle: 'Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared',
+    metaDescription: 'Pava eléctrica Liliana Safeheat AP992B: doble pared, 7 niveles de temperatura, keep warm, display LED circular y enrollacable. La más completa del cluster. $61.899.',
+    ogTitle: 'Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared',
+    ogDescription: 'Pava eléctrica Liliana Safeheat AP992B: doble pared, 7 niveles de temperatura, keep warm, display LED circular y enrollacable. La más completa del cluster. $61.899.',
+    h1: 'Liliana Safeheat AP992B: pava eléctrica con doble pared, 7 niveles y keep warm',
+    articleBody: `El Safeheat AP992B es la pava más completa en funciones de todo el cluster y la de mayor precio ($61.899). Tiene cosas que ninguna otra del cluster tiene: 7 niveles de temperatura, enrollacable integrado y un display circular LED al frente del cuerpo que muestra la temperatura en tiempo real. También tiene doble pared y keep warm.
+
+A 4.8 estrellas con 142 calificaciones, el volumen de reseñas es todavía bajo comparado con los modelos de mayor trayectoria en el mercado. El número va a crecer. Lo que dicen los 96 comentarios actuales: buen diseño, calienta rápido, fácil de usar y la función de mantener temperatura destaca.
+
+## La doble pared y el exterior
+
+La construcción tiene doble pared: la capa interior en acero inoxidable, la exterior en plástico blanco con textura acanalada vertical. La doble pared mantiene el exterior más frío que una pava de pared simple, lo que reduce el riesgo de quemarse al tocar el cuerpo después de que el agua hierve.
+
+No es el mismo nivel de aislamiento que la [Philips HD9396](/producto/MLA47183370) (que también tiene doble pared con acero en ambas capas), pero el principio es el mismo. El pico y la parte superior son de acero inoxidable con acabado plateado cromado — visible en las imágenes del listing.
+
+## 7 niveles de temperatura: el mayor del cluster
+
+Ninguna otra pava del cluster tiene 7 niveles de temperatura. La Philips HD9396 tiene 6, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40–100°C (más flexible que niveles fijos), los modelos Liliana [AP152](/producto/MLA61505857) y [Mateando](/producto/MLA8933826) tienen 2. El Safeheat AP992B tiene 7 niveles fijos.
+
+Los valores exactos de los 7 niveles no están listados en la ficha de MercadoLibre. La descripción del vendedor confirma el número pero no los grados. Para el mate (70–80°C ideal), con 7 niveles es esperable que uno o dos estén en ese rango, pero conviene verificarlo con el vendedor antes de comprar si eso es determinante.
+
+## Keep Warm
+
+La función keep warm está confirmada en la descripción del producto. Mantiene el agua caliente a la temperatura seleccionada después de que alcanza el nivel objetivo. El tiempo de mantenimiento no está especificado en la ficha — vale verificar ese dato con el vendedor, especialmente si lo vas a usar para rondas largas de mate.
+
+En el cluster, el keep warm confirmado con tiempo especificado lo tiene el [Peabody PE-DK2200N](/producto/MLA47275624) (2 horas). El Safeheat tiene la función pero el tiempo no está en la ficha pública.
+
+## El display circular LED
+
+El display está al frente del cuerpo, cerca de la base. Es una pantalla circular con marco metálico que muestra la temperatura en grados Celsius. Los botones de control (+/-) están al costado del display. El diseño es distinto a cualquier otra pava del cluster: ningún otro modelo tiene ese tipo de visualización circular.
+
+La lectura de temperatura en tiempo real durante el calentamiento hace que sea fácil saber exactamente en qué momento detener el proceso o activar el keep warm.
+
+## Enrollacable y 1500W
+
+El enrollacable está integrado en la base — el cable se guarda envolviendo alrededor de la base para que no quede suelto en la mesada. Es un detalle funcional que ninguna otra pava del cluster tiene.
+
+La potencia es 1500W, igual que la Liliana AP152. Para 1.5L de capacidad, el tiempo de calentamiento desde temperatura ambiente hasta hervir es entre 3 y 4 minutos. Los modelos de 2200W (Philips HD9396, Peabody PE-DK2200N, PE-DK1850) son más rápidos para el mismo volumen.
+
+## 1.5L: la capacidad más pequeña del cluster
+
+La capacidad es 1.5L, igual que el Peabody PE-DK2200N y menor que los modelos de 1.7L del cluster. Para una persona o dos, 1.5L es suficiente para varias rondas de mates. Para grupos más grandes o uso intensivo, los modelos de 1.7L tienen mayor rendimiento por carga.
+
+## El precio y la posición en el cluster
+
+A $61.899 es la pava más cara de todas las que están en el sitio. El precio refleja la doble pared, el keep warm, los 7 niveles de temperatura, el display LED y el enrollacable — funciones que en el cluster solo aparecen juntas en este modelo. Si alguna de esas funciones no es prioritaria, hay opciones a menor precio: la [Liliana Mateando AP975B](/producto/MLA8933826) tiene función mate confirmada y 4.777 calificaciones a $44.599. El [Peabody PE-DK2200N](/producto/MLA47275624) tiene control de temperatura continuo (40–100°C) y keep warm de 2 horas especificado.`,
+    specs: [
+      { label: 'Marca', value: 'Liliana' },
+      { label: 'Modelo', value: 'AP992B' },
+      { label: 'Línea', value: 'Safeheat' },
+      { label: 'Color', value: 'Blanco + pico cromado' },
+      { label: 'Material', value: 'Plástico exterior + acero inoxidable interior' },
+      { label: 'Doble pared', value: 'Sí' },
+      { label: 'Capacidad', value: '1.5L' },
+      { label: 'Potencia', value: '1.500W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Niveles de temperatura', value: '7 fijos (valores no especificados)' },
+      { label: 'Keep warm', value: 'Sí (tiempo no especificado)' },
+      { label: 'Display', value: 'Circular LED frontal' },
+      { label: 'Enrollacable', value: 'Sí — integrado en la base' },
+      { label: 'Base giratoria', value: 'Sí — 360° antideslizante' },
+      { label: 'Apagado automático', value: 'Sí' },
+      { label: 'Luz indicadora', value: 'Sí' },
+      { label: 'Rating', value: '4.8 ⭐ (142 calificaciones — 96 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuáles son los 7 niveles de temperatura?',
+        answer:
+          'La descripción del producto confirma 7 niveles pero no especifica los valores exactos en grados. Con 7 niveles, el rango esperable va desde baja temperatura (mate/té verde, 70–80°C) hasta 100°C para hervir. Los valores exactos conviene verificarlos con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿Cuánto tiempo mantiene la temperatura el keep warm?',
+        answer:
+          'La función keep warm está confirmada en la descripción del listing. El tiempo de mantenimiento no está especificado en la ficha pública. Si ese dato es determinante, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene keep warm de 2 horas especificadas.',
+      },
+      {
+        question: '¿El cuerpo es plástico o acero inoxidable?',
+        answer:
+          'Ambos materiales. El interior y el pico son de acero inoxidable. El exterior del cuerpo es plástico blanco con textura acanalada. La doble pared combina los dos: interior acero, exterior plástico.',
+      },
+      {
+        question: '¿Por qué 1500W si es el modelo más caro?',
+        answer:
+          'La potencia no define la calidad de las funciones — define la velocidad de calentamiento. El Safeheat prioriza la doble pared, los 7 niveles y el keep warm sobre la velocidad bruta. Para 1.5L, 1500W tarda unos 3–4 minutos en hervir.',
+      },
+      {
+        question: '¿Cuál es la diferencia con la Liliana Mateando AP975B?',
+        answer:
+          'La [Mateando](/producto/MLA8933826) tiene función mate confirmada, 4.777 calificaciones y cuesta $44.599. El Safeheat tiene doble pared, 7 niveles de temperatura, keep warm y display LED circular — más funciones, menos calificaciones acumuladas, mayor precio ($61.899). Son modelos para perfiles distintos.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Liliana Safeheat AP992B Doble Pared 1.5L',
+      description:
+        'Pava eléctrica Liliana Safeheat AP992B: doble pared (interior acero inoxidable), 7 niveles de temperatura, keep warm, display circular LED, enrollacable, base antideslizante 360°, 1500W, 1.5L, 220V.',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      model: 'AP992B',
+      color: 'Blanco',
+      material: 'Plástico y acero inoxidable',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1hkV3Et',
+        priceCurrency: 'ARS',
+        price: 61899,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '142',
+      },
+    },
   },
   {
     id: 'MLA11145437',
