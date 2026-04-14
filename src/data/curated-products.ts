@@ -10672,6 +10672,111 @@ No es para quien quiere porciones simétricas en las dos canastas: para eso, la 
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "Freidora De Aire Peabody Pe-afg01ix \n\nDisfrutá de una cocina más saludable con la Freidora de Aire Peabody PE-AFG01IX, que utiliza convección de aire caliente para lograr texturas crujientes sin necesidad de aceite. Su diseño innovador y funciones avanzadas te permiten preparar una gran variedad de ",
+    badge: 'viral',
+    seoTitle: 'Freidora Peabody con Grill PE-AFG01IX 6L Acero Inoxidable',
+    metaDescription: 'Peabody PE-AFG01IX: freidora con grill de acero inoxidable, 40–265°C, 4 niveles de grill y olla incluida. 4.9⭐ con 2.385 calificaciones.',
+    ogTitle: 'Freidora Peabody Grill PE-AFG01IX — Acero Inox, 265°C, 3 Accesorios',
+    ogDescription: 'La Peabody PE-AFG01IX tiene cuerpo de acero inoxidable, rango de 40°C a 265°C (el más amplio del cluster), 4 niveles de grill y 3 accesorios: olla, grill y canasta freidora. 4.9⭐.',
+    h1: 'Freidora de Aire Peabody con Grill PE-AFG01IX: acero inoxidable, 265°C y olla incluida',
+    pros: [
+      'Único modelo de acero inoxidable del cluster',
+      'Rango 40°C–265°C (el más amplio del cluster)',
+      'Olla incluida (cocción con líquidos)',
+      'Grill con 4 niveles de intensidad',
+      '3 accesorios: olla + grill + canasta freidora',
+      '4.9⭐ con 2.385 calificaciones',
+    ],
+    cons: [
+      'Sin ventana — apertura desde arriba',
+      '43.5 cm de ancho (el más ancho del cluster)',
+      'Necesita espacio vertical para abrir la tapa',
+      'Menos programas (6) que el Atma FR901DP (12)',
+    ],
+    verdict: 'El único con acero inoxidable + olla + rango térmico 40-265°C. Si querés algo entre freidora, horno y multicooker, es la opción más completa por $159K.',
+    articleBody: `## Cuerpo de acero inoxidable
+
+Es el único modelo de acero inoxidable en el cluster. La diferencia respecto al plástico es práctica en varios sentidos: el acero no se mancha con salpicaduras de grasa de la misma forma, no absorbe olores, y resiste el calor superficial sin deformarse con el tiempo. También hace al aparato más pesado (6.75 kg) y ancho (43.5 cm) — dos datos relevantes para elegir dónde ponerlo.
+
+## Rango de temperatura: 40°C a 265°C
+
+El mínimo de 40°C es inusual en este tipo de producto. Ese rango habilita cosas que los modelos estándar (80°C mínimo) no pueden hacer: deshidratar a muy baja temperatura sin cocinar, fermentar masa de pan, templar chocolate o simplemente mantener un plato a temperatura de servicio sin que se seque.
+
+265°C de máximo, por su parte, es el pico más alto del cluster — 5°C más que el [Atma FR901DP](/producto/MLA37004216) (260°C) y 65°C más que los modelos estándar de la línea Peabody.
+
+## Tres accesorios desmontables
+
+La olla (pot) es el accesorio más distinto. Podés cocinar preparaciones con líquido directamente dentro del aparato: caldos, salsas, guisos a baja temperatura. Junto con la canasta freidora (para papas, nuggets, rebozados) y la rejilla de grill (para carnes, vegetales asados, panchos), el aparato tiene tres modos físicos de cocción según qué accesorio uses. Todos son extraíbles y antiadherentes.
+
+## Función Grill con 4 niveles de cocción
+
+El grill tiene un dial específico en el panel con cuatro posiciones de intensidad ("nivel de cocción"). Esto permite graduar el dorado según el tipo de alimento: una pechuga de pollo necesita menos intensidad que un churrasco o una hamburguesa. La mayoría de los modelos grill del cluster no tiene esta graduación — el grill es encendido o apagado, sin niveles.
+
+## Apertura desde arriba
+
+La tapa se levanta desde arriba mediante un asa, como una olla eléctrica o un horno tipo clamshell. No hay cajón frontal. Al abrir la tapa, la cocción se pausa automáticamente y se reanuda al cerrar. La ausencia de visor/ventana es consecuencia de este diseño: no hay una pared lateral desde donde ver la cocción sin abrir.
+
+## ¿Para quién es esta freidora?
+
+La PE-AFG01IX es para quienes quieren algo más cercano a un horno eléctrico compacto que a una freidora de cajón. La olla incluida, el rango de temperatura hasta 40°C y el grill con niveles la hacen más versátil que los modelos estándar. El acero inoxidable suma si buscás durabilidad o un diseño que no sea plástico negro.
+
+Si el grill es el uso principal, el [Atma FR901DP](/producto/MLA37004216) tiene más programas (12 vs 7) y más potencia, pero cuesta $26K más. Si querés una buena freidora de aire que también pueda hacer grill ocasionalmente, la [Peabody PE-AFD650N](/producto/MLA44703897) o la [PE-AFD720N con visor 360](/producto/MLA41829394) son opciones más económicas sin esa función. Para doble canasta sin Teflón, mirá la [PE-AFDL102N de 10L](/producto/MLA53776810).
+
+No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura vertical requiere espacio libre arriba.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Peabody / PE-AFG01IX' },
+      { label: 'Capacidad', value: '6 L' },
+      { label: 'Potencia', value: '1600 W' },
+      { label: 'Voltaje', value: '220/240V' },
+      { label: 'Temperatura mínima', value: '40°C (la más baja del cluster)' },
+      { label: 'Temperatura máxima', value: '265°C (la más alta del cluster)' },
+      { label: 'Programas', value: '6 + Función Grill con 4 niveles' },
+      { label: 'Cuerpo', value: 'Acero inoxidable' },
+      { label: 'Apertura', value: 'Tapa superior (clamshell)' },
+      { label: 'Ventana', value: 'No' },
+      { label: 'Auto-pause', value: 'Sí, al abrir la tapa' },
+      { label: 'Accesorios incluidos', value: 'Olla + Grill + Canasta Freidora' },
+      { label: 'Control', value: 'Display LED táctil + dial grill' },
+      { label: 'Dimensiones', value: '43.5 × 36.5 × 28.5 cm (An × Prof × Al)' },
+      { label: 'Peso', value: '6.75 kg' },
+      { label: 'Color', value: 'Plateado (acero inoxidable)' },
+    ],
+    faq: [
+      { question: '¿Por qué este modelo tiene temperatura mínima de 40°C cuando los otros arrancan en 80°C?', answer: 'El rango más bajo está pensado principalmente para Deshidratar. A 40°C–60°C podés deshidratar frutas, vegetales o carnes durante varias horas sin empezar a cocinarlos. También sirve para fermentar masa de pan, templar chocolate o mantener platos listos a temperatura de servicio sin que se sequen. Los modelos estándar no pueden hacer esto porque su mínimo es 80°C.' },
+      { question: '¿La olla incluida sirve para cocinar sopas o guisos dentro de la freidora?', answer: 'Sí, ese es el propósito. La olla permite cocinar preparaciones con líquido directamente dentro del aparato. No reemplaza a una olla a presión, pero sí te permite hacer una sopa, una salsa o un guiso simple usando el calor de convección del aparato. Es el único accesorio de este tipo en el cluster.' },
+      { question: '¿Sin ventana cómo revisás la cocción?', answer: 'La tapa se levanta desde arriba. Al abrirla, la cocción se pausa automáticamente. Para revisar el estado del alimento, simplemente abrís la tapa, mirás, y al cerrarla la cocción se reanuda. Es diferente al sistema de cajón con visor, pero el proceso de revisión es igual de sencillo.' },
+      { question: '¿El cuerpo de acero inoxidable se calienta en la superficie durante la cocción?', answer: 'Sí, el exterior del cuerpo puede calentarse durante la cocción. El acero conduce más calor que el plástico. La descripción menciona que el aparato tiene "apagado y reanudación automática al abrir la tapa" como medida de seguridad, pero no especifica niveles de temperatura superficial. Hay que tratarlo como un electrodoméstico que genera calor externo durante el uso.' },
+      { question: '¿Los 4 niveles de grill representan temperaturas distintas?', answer: 'El fabricante describe los 4 niveles como "niveles de cocción" del grill, controlados por el dial rotativo del panel. Los niveles probablemente corresponden a distintas intensidades de calor de la resistencia de grill. Las temperaturas exactas por nivel no están publicadas en la ficha técnica.' },
+    ],
+    relatedProducts: ['MLA44703897', 'MLA41829394', 'MLA53776810'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Peabody con Grill PE-AFG01IX 6L Acero Inoxidable',
+      description: 'Freidora de aire Peabody PE-AFG01IX de 6 litros con cuerpo de acero inoxidable, rango de temperatura 40°C a 265°C, función Grill con 4 niveles de cocción y 3 accesorios incluidos: olla, rejilla de grill y canasta freidora. 7 funciones incluyendo deshidratar.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      model: 'PE-AFG01IX',
+      sku: 'MLA23318618',
+      category: 'Freidoras de aire',
+      color: 'Plateado',
+      material: 'Acero inoxidable',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_749040-MLA99953958559_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA23318618',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '159499',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1afZm1r',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '2385',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA61393261',
