@@ -8024,6 +8024,115 @@ Si ya usás [jade roller o gua sha](/guias/masajeador-facial) y querés sumar al
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-pink)',
     description: "Sumérgete en un mundo de relajación y bienestar con el Set Masajeador Rodillo Jade Piedra Guasha Natural Facial Color Verde. Este producto, de la reconocida marca Jade, es un aliado perfecto para tu rutina de cuidado facial. Su diseño de rodillo permite un masaje suave y efectivo, ayudando a mejorar",
+    badge: 'hot-deal',
+    seoTitle: 'Kit rodillo de jade + gua sha facial: precio y opiniones AR',
+    metaDescription: 'Rodillo de jade y gua sha natural en un kit. Sin pilas, sin motor. 2.195 compras en MercadoLibre Argentina. El favorito para guardar en la heladera.',
+    ogTitle: 'Kit rodillo de jade + gua sha facial | PickViral',
+    ogDescription: 'Rodillo de jade doble cabezal y gua sha natural en un kit. Manual, sin pilas. 2.195 compradores en MercadoLibre Argentina. El truco de la heladera funciona.',
+    h1: 'Kit rodillo de jade y gua sha: el masajeador facial manual con 2.195 compradores',
+    pros: [
+      'Precio bajo ($5.399)',
+      'Incluye rodillo doble cabezal + gua sha',
+      'Sin pilas ni motor',
+      'Funciona frío desde la heladera',
+      '4.5⭐ con 2.195 calificaciones',
+    ],
+    cons: [
+      'Sin vibración mecánica',
+      'Autenticidad jade premium no certificada',
+      'Llega en embalaje básico (sin estuche)',
+      'Requiere técnica manual para gua sha',
+    ],
+    verdict: 'La mejor entrada económica al skincare facial. Por $5.399 con 2.195 compradores, es la opción más baja del cluster.',
+    articleBody: `## Qué incluye el kit
+
+El rodillo tiene dos rodillos montados en un mango metálico dorado: uno grande para mejillas, frente y cuello, y uno pequeño para el contorno de ojos y la nariz. La piedra es verde con veteado natural, y el acabado es suave al tacto.
+
+La herramienta gua sha tiene forma de corazón con contornos curvos, también en jade verde. Se usa con deslizamientos más lentos y con algo más de presión que el rodillo. Trabaja mejor sobre zonas puntuales como la mandíbula o los pómulos.
+
+Dimensiones del rodillo: 15 cm x 4,5 cm.
+
+## Sin vibración, sin pilas. ¿Para qué sirve entonces?
+
+El rodillo de jade trabaja por presión, temperatura y movimiento. Al deslizarlo sobre la piel con crema o serum, activa el drenaje linfático y ayuda a reducir la hinchazón, especialmente la de la mañana. No genera calor ni vibración mecánica. El efecto viene del movimiento manual que hacés vos.
+
+La gua sha agrega un componente de presión diferente. Con la cara curva se trabaja la tensión acumulada en la mandíbula y en los músculos faciales, que en muchas personas están más contracturados de lo que parecen.
+
+Comparado con la [Energy Beauty Bar](/producto/MLA1841302022) (eléctrica, 6.000-7.000 vpm, $18.399), este kit es el opuesto: más barato, más lento, más silencioso, y con un componente de ritual que el dispositivo motorizado no tiene.
+
+## El truco de la heladera
+
+Varios cientos de compradores lo mencionan en las reseñas: guardar el rodillo en la heladera antes de usarlo. La piedra de jade retiene el frío mejor que el plástico, y aplicarla fría sobre la piel de madrugada o al levantarse reduce la inflamación bastante más que a temperatura ambiente.
+
+No es un truco inventado. El efecto frío reduce el diámetro de los vasos sanguíneos superficiales, lo que baja el enrojecimiento y el puffiness. Con el rodillo a temperatura de heladera el resultado es notablemente diferente.
+
+## Para qué lo usan más
+
+Lo más repetido en las reseñas: bajar la hinchazón facial de la mañana, preparar la piel antes de aplicar base de maquillaje, y trabajar la línea de la mandíbula para mejorar la definición del contorno. También aparece el uso nocturno, después del ritual de skincare, como cierre de rutina.
+
+Para los puntos negros o la limpieza activa no sirve. Tampoco para zonas con acné activo, donde la presión puede irritar más que ayudar.
+
+## Una nota sobre el material
+
+A $5.399, este kit está en el rango más accesible del mercado de jade. La especificación dice "piedra natural de jade" y el color verde con veteado es consistente con nephrite o aventurina verde, que son piedras legítimas aunque no jadeíta de alta calidad.
+
+No hay certificación de autenticidad incluida. Si el origen exacto del mineral es importante para vos, el punto de precio sugiere que no es jade premium. Si lo que buscás es una herramienta de masaje que funcione correctamente a diario, el material cumple.
+
+## Cómo usarlo
+
+Para el rodillo: limpiar la piel, aplicar serum o crema, y deslizar el rodillo hacia afuera y hacia arriba desde el centro de la cara. El rodillo grande para mejillas, frente y cuello. El pequeño para contorno de ojos. No frotar de ida y vuelta, siempre en una dirección.
+
+Para la gua sha: sostener la herramienta en ángulo de 15-45 grados contra la piel y deslizar con movimientos suaves. Más presión que con el rodillo, siempre con producto de deslizamiento.
+
+Lavar con agua fría después de usar. No necesita desinfección especial si se usa solo una persona. Más en la [guía completa de masajeadores faciales](/guias/masajeador-facial) y en la [comparativa general de masajeadores](/guias/mejores-masajeadores-argentina).`,
+    specs: [
+      { label: 'Material', value: 'Piedra natural (jade verde)' },
+      { label: 'Color', value: 'Verde con veteado natural' },
+      { label: 'Dimensiones rodillo', value: '15 cm x 4,5 cm' },
+      { label: 'Cabezales', value: '2 (grande + pequeño)' },
+      { label: 'Marco', value: 'Metal dorado' },
+      { label: 'Gua sha incluida', value: 'Sí (forma corazón curvo)' },
+      { label: 'Vibración', value: 'No' },
+      { label: 'Fuente de energía', value: 'Ninguna (manual)' },
+      { label: 'Zona de uso', value: 'Rostro' },
+    ],
+    faq: [
+      { question: '¿El rodillo de jade se puede guardar en el freezer?', answer: 'Mejor la heladera que el freezer. A temperatura de freezer la piedra queda demasiado fría y puede causar molestias o irritación en piel sensible. La heladera (entre 4°C y 8°C) es la temperatura que mencionan los compradores con mejores resultados.' },
+      { question: '¿El kit incluye estuche o packaging?', answer: 'La publicación no especifica estuche. En las fotos de compradores se ve que llega en embalaje básico. Si necesitás algo para viajar o guardar, es recomendable conseguir una bolsita por separado.' },
+      { question: '¿Sirve para piel con acné activo?', answer: 'No. Sobre acné activo, la presión del rodillo puede irritar la piel y distribuir bacterias. Esperá a que los brotes estén completamente curados antes de usarlo en esas zonas.' },
+      { question: '¿Qué diferencia al rodillo grande del pequeño?', answer: 'El rodillo grande (el cabezal principal) es para zonas amplias: mejillas, frente, cuello. El pequeño está en el extremo opuesto del mango y es para áreas chicas donde el grande no entra bien, principalmente el contorno de ojos y los lados de la nariz.' },
+      { question: '¿Este kit viene con el gua sha o se compra por separado?', answer: 'El kit incluye los dos: el rodillo de doble cabezal y la herramienta gua sha. Ambas en jade verde del mismo material.' },
+    ],
+    relatedProducts: ['MLA1841302022', 'MLA26522167'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Kit Masajeador Facial Jade Rodillo Doble Cabezal + Gua Sha Natural Verde',
+      description: 'Kit de masaje facial compuesto por rodillo de jade doble cabezal (15cm x 4,5cm) y herramienta gua sha de piedra natural verde. Manual, sin vibración ni pilas. 2.195 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Jade' },
+      model: 'Piedra natural',
+      sku: 'MLA24518712',
+      category: 'Masajeadores faciales',
+      color: 'Verde',
+      material: 'Jade natural',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_636629-MLU70439270590_072023-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA24518712',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '5399',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1rDGvYf',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '2195',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA26522167',
