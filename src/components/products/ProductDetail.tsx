@@ -8,6 +8,7 @@ import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
 import { TikTokBadge } from "@/components/widgets/TikTokBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
+import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Product } from "@/lib/types";
 
 interface ProductDetailProps {
@@ -250,7 +251,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               }
               return (
                 <p key={i} className="text-sm leading-relaxed mb-4">
-                  {block}
+                  {parseInlineLinks(block)}
                 </p>
               );
             })}
@@ -312,7 +313,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
                   />
                 </summary>
                 <div className="px-4 pb-3 text-sm text-[var(--text-secondary)] leading-relaxed">
-                  {item.answer}
+                  {parseInlineLinks(item.answer)}
                 </div>
               </details>
             ))}

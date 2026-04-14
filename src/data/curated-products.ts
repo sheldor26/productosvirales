@@ -2785,7 +2785,7 @@ Sin Bluetooth ni bocina. Sin app. Sin control por voz. Sin funcionalidad smart h
     ogTitle: 'Proyector Astronauta Dakota con Parlante Bluetooth — Galaxia, 8 Modos y Timer',
     ogDescription: 'Proyector astronauta Dakota AST con bocina Bluetooth integrada, 8 modos de nebulosa, timer 1H/2H, control remoto completo y láser 532nm. 4.7⭐ / 333 calificaciones.',
     h1: 'Proyector astronauta Dakota con parlante Bluetooth: galaxia, 8 modos y timer',
-    articleBody: `La Dakota AST es la versión del astronauta proyector para cuando querés las luces Y la música al mismo tiempo. El cuerpo tiene un parlante estéreo integrado con conectividad Bluetooth: conectás el celular y reproducís lo que quieras mientras las nebulosas cubren el techo. En el otro proyector de astronauta del sitio, el Geotek Nebula, no hay bocina. Si la música es parte del ambiente que querés crear, este es el modelo.
+    articleBody: `La Dakota AST es la versión del astronauta proyector para cuando querés las luces Y la música al mismo tiempo. El cuerpo tiene un parlante estéreo integrado con conectividad Bluetooth: conectás el celular y reproducís lo que quieras mientras las nebulosas cubren el techo. En el otro proyector de astronauta del sitio, el [Geotek Nebula](/producto/MLA521391764), no hay bocina. Si la música es parte del ambiente que querés crear, este es el modelo.
 
 Además del parlante, la diferencia más visible es el tamaño. La Dakota AST es una figura de pie de 26.5cm. El Geotek sentado mide 12.5cm. En el cuarto no pasan desapercibidos de la misma manera.
 
@@ -3159,7 +3159,7 @@ No incluye: adaptador de corriente USB. Pilas del control remoto: no especificad
 
 ## Diferencias con el MTI 730
 
-Si estás comparando los dos modelos MTI del sitio: el MTI 730 (oso sentado, 20cm, $14.259) tiene menos efectos de luz pero tiene el mismo timer y la misma lente de vidrio. Es más barato y tiene mayor rating (4.8 vs 4.7), aunque con menos reseñas (298 vs 415).
+Si estás comparando los dos modelos MTI del sitio: el [MTI 730](/producto/MLA2729985625) (oso sentado, 20cm, $14.259) tiene menos efectos de luz pero tiene el mismo timer y la misma lente de vidrio. Es más barato y tiene mayor rating (4.8 vs 4.7), aunque con menos reseñas (298 vs 415).
 
 El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativamente más que el 730 — y el mayor volumen de reseñas del cluster. Cuesta más, pero los 82 modos son una diferencia concreta si la variedad de efectos importa.`,
     specs: [
@@ -6385,7 +6385,7 @@ El diseño exterior es íntegramente negro mate, sin partes cromadas visibles ex
 
 ## ¿Necesitás control de temperatura para el mate?
 
-Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás mate y querés el agua exactamente entre 70°C y 80°C sin adivinar, en el catálogo hay una Oster BVSTKT4970W con perilla de control variable y función mate marcada explícitamente. Cede el interior de acero (la Oster es plástico) a cambio del control de temperatura. Son dos perfiles de uso distintos: la ATMA para agua sin sabor a plástico, la Oster para temperatura precisa.`,
+Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás mate y querés el agua exactamente entre 70°C y 80°C sin adivinar, en el catálogo hay una [Oster BVSTKT4970W](/producto/MLA11145436) con perilla de control variable y función mate marcada explícitamente. Cede el interior de acero (la Oster es plástico) a cambio del control de temperatura. Son dos perfiles de uso distintos: la ATMA para agua sin sabor a plástico, la Oster para temperatura precisa.`,
     specs: [
       { label: 'Marca', value: 'ATMA' },
       { label: 'Modelo', value: 'PEAT1351' },
@@ -6538,11 +6538,11 @@ En el uso diario: la tapa se abre con un botón de resorte que evita el contacto
 
 La pava corta a 100°C. No tiene función de control de temperatura. Para el mate, el agua a 100°C daña la yerba: la temperatura óptima está entre 70 y 80°C. Podés apagar la pava antes de que llegue al hervor completo, o esperar 2 o 3 minutos después de que corta.
 
-Si el mate es el uso principal y querés que la pava haga el trabajo de regular la temperatura, la Oster BVSTKT4970W tiene selector analógico y función mate incorporada.
+Si el mate es el uso principal y querés que la pava haga el trabajo de regular la temperatura, la [Oster BVSTKT4970W](/producto/MLA11145436) tiene selector analógico y función mate incorporada.
 
 ## Calificaciones y garantía
 
-4.7 estrellas sobre 85 calificaciones, incluyendo opiniones de otros países. El número de reseñas es moderado comparado con la ATMA PEAT1351 (2.368) y la Oster (1.412), pero la distribución del rating es consistente.
+4.7 estrellas sobre 85 calificaciones, incluyendo opiniones de otros países. El número de reseñas es moderado comparado con la [ATMA PEAT1351](/producto/MLA49747515) (2.368) y la Oster (1.412), pero la distribución del rating es consistente.
 
 La garantía es de 2 años, que Philips cubre a través de su red de service oficial en el país. En la categoría de hervidores disponibles en Argentina, dos años de garantía está por encima de lo estándar.`,
     specs: [
@@ -6684,7 +6684,7 @@ Los 290 comentarios confirman que la respuesta al tacto es precisa y que el disp
 
 La mayoría de las pavas con control de temperatura van de 60°C a 100°C. La Peabody arranca en 40°C, lo que abre un caso de uso que las otras no cubren: agua tibia para bebés o para personas que no toleran las infusiones muy calientes.
 
-En la práctica cotidiana, los rangos útiles son: mate 70°C–75°C (la yerba no se quema), té verde 75°C–80°C, té negro y café de filtro 90°C–95°C, agua para cocinar 100°C. Cada uno tiene su temperatura exacta. La Oster BVSTKT4970W también tiene control de temperatura, pero con perilla analógica sin display. La Peabody muestra el número en pantalla.
+En la práctica cotidiana, los rangos útiles son: mate 70°C–75°C (la yerba no se quema), té verde 75°C–80°C, té negro y café de filtro 90°C–95°C, agua para cocinar 100°C. Cada uno tiene su temperatura exacta. La [Oster BVSTKT4970W](/producto/MLA11145436) también tiene control de temperatura, pero con perilla analógica sin display. La Peabody muestra el número en pantalla.
 
 ## Keep warm: mantiene la temperatura hasta 2 horas
 
@@ -6853,7 +6853,7 @@ Los rangos útiles en la práctica: mate 70°C–75°C (la yerba no se quema), t
 
 ## Keep warm: conservación del calor activa
 
-Una vez que el agua llega a la temperatura seleccionada, la función de conservación del calor la mantiene ahí. Philips no especifica un tiempo exacto en esta ficha. Comparando con el cluster: la Peabody PE-DK2200N especifica explícitamente 2 horas de keep warm.
+Una vez que el agua llega a la temperatura seleccionada, la función de conservación del calor la mantiene ahí. Philips no especifica un tiempo exacto en esta ficha. Comparando con el cluster: la [Peabody PE-DK2200N](/producto/MLA47275624) especifica explícitamente 2 horas de keep warm.
 
 ## El diseño
 
@@ -6865,7 +6865,7 @@ Interior en acero inoxidable apto para uso alimentario. Filtro integrado. Contro
 
 ## Respecto a la otra Philips del sitio
 
-La HD9350/90 también es Philips y también tiene acero inoxidable SUS304 y Controlador Strix, pero no tiene control de temperatura ni keep warm. Corta a 100°C y punto. Es la versión básica de la línea. La HD9396 es la versión premium: agrega la doble pared, el control de temperatura con display en el mango y la función de conservación del calor. El precio refleja esa diferencia.
+La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero inoxidable SUS304 y Controlador Strix, pero no tiene control de temperatura ni keep warm. Corta a 100°C y punto. Es la versión básica de la línea. La HD9396 es la versión premium: agrega la doble pared, el control de temperatura con display en el mango y la función de conservación del calor. El precio refleja esa diferencia.
 
 ## Calificaciones
 
@@ -6992,6 +6992,7 @@ La HD9350/90 también es Philips y también tiene acero inoxidable SUS304 y Cont
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "Pava Eléctrica Atma Pe0821ap 1.7 litros.\n\nCapacidad de 1.7 Litros: Permite calentar agua para múltiples tazas de té, café o infusiones de manera eficiente.\n\nCorte Automático: El sistema se desactiva al alcanzar el punto de ebullición, evitando el sobrecalentamiento y garantizando seguridad.\n\nTanque ",
+    relatedProducts: ['MLA49747515', 'MLA11145436', 'MLA24601443', 'MLA47275624'],
   },
   {
     id: 'MLA11145436',

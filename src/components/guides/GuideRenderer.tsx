@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ExternalLink } from "lucide-react";
+import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
 
 interface GuideRendererProps {
@@ -33,7 +34,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
     case "p":
       return (
         <p className="text-[15px] md:text-base leading-relaxed text-[var(--text-secondary)] mb-4">
-          {section.content}
+          {section.content ? parseInlineLinks(section.content) : null}
         </p>
       );
 
@@ -290,7 +291,7 @@ export function GuideRenderer({ guide }: GuideRendererProps) {
                 </span>
               </summary>
               <div className="px-4 pb-4 text-[15px] text-[var(--text-secondary)] leading-relaxed">
-                {item.answer}
+                {parseInlineLinks(item.answer)}
               </div>
             </details>
           ))}
