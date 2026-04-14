@@ -7141,20 +7141,20 @@ El resumen de ML sobre 821 comentarios: "rápida y eficaz al calentar el agua, d
   },
   {
     id: 'MLA14263533',
-    title: "Pava Jarra Electrica Peabody Digital Acero 1,7lts Pe-dk1850",
+    title: 'Peabody PE-DK1850 — Pava Eléctrica de Acero con 4 Niveles',
     badge: 'trending',
-    relatedProducts: ['MLA47275624', 'MLA24601443', 'MLA49747515', 'MLA8933826'],
+    relatedProducts: ['MLA47275624', 'MLA24601443', 'MLA47183370', 'MLA49747515'],
     price: 55900,
     originalPrice: 69999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_652957-MLA99453012994_112025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_652957-MLA99453012994_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_715731-MLU74859031834_032024-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_871280-MLA40128198294_122019-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_654045-MLA91928223763_092025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_709102-MLA91928204147_092025-F.webp"
-      ],
+      'https://http2.mlstatic.com/D_NQ_NP_2X_652957-MLA99453012994_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_715731-MLU74859031834_032024-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_871280-MLA40128198294_122019-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_654045-MLA91928223763_092025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_709102-MLA91928204147_092025-F.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/pava-jarra-electrica-peabody-digital-acero-17lts-pe-dk1850/p/MLA14263533',
@@ -7162,9 +7162,136 @@ El resumen de ML sobre 821 comentarios: "rápida y eficaz al calentar el agua, d
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
-    soldQuantity: undefined,
+    soldQuantity: 1318,
     pastelColor: 'var(--pastel-coral)',
-    description: "¡Tené el agua caliente siempre lista! Con la pava eléctrica Peabody PE-DK1850 vas a poder disfrutar de una bebida caliente en minutos. Ganá tiempo y prepará ese mate, cafecito o porqué no, esa sopa instantánea que tanto te gusta.\n\nBebidas calientes a tu gusto\n¿Sabías que para mejorar el sabor, las b",
+    description: 'Peabody PE-DK1850: pava eléctrica de acero inoxidable, 1.7L, 2200W, 4 niveles de temperatura, display digital en mango, base giratoria 360°, corte automático. El producto con mayor volumen de reseñas del cluster de pavas. 4.7⭐ con 1.318 calificaciones.',
+    pros: [
+      '4.7⭐ con 1.318 calificaciones — mayor volumen de reseñas del cluster',
+      'Cuerpo de acero inoxidable completo (plateado)',
+      '1.7L — más capacidad que el PE-DK2200N (1.5L)',
+      '4 niveles de temperatura preestablecidos',
+      'Display digital en el mango — temperatura siempre visible',
+      '20% OFF — de $69.999 a $55.900',
+      'Base giratoria 360°',
+      '2.200W — calentamiento rápido (2-3 min para 1.7L)',
+    ],
+    cons: [
+      'No especifica keep warm — el PE-DK2200N sí lo tiene (2 horas)',
+      '4 niveles fijos vs control continuo del PE-DK2200N',
+      'Los valores exactos de cada nivel no están en la ficha pública',
+      'Sin función memoria para cortes de luz',
+    ],
+    verdict: 'El PE-DK1850 es la pava Peabody de acero inoxidable con 4 niveles de temperatura y el mayor volumen de reseñas del cluster (1.318 calificaciones). Si querés más capacidad que el PE-DK2200N (1.7L vs 1.5L) y no necesitás keep warm ni memoria para cortes de luz, es la opción. Si el control continuo de temperatura y keep warm de 2 horas son importantes, mirá el PE-DK2200N.',
+    seoTitle: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles',
+    metaDescription: 'Pava eléctrica Peabody PE-DK1850: acero inoxidable, 1.7L, 4 niveles de temperatura, display digital y corte automático. 1.318 calificaciones en MercadoLibre.',
+    ogTitle: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles',
+    ogDescription: 'Pava eléctrica Peabody PE-DK1850: acero inoxidable, 1.7L, 4 niveles de temperatura, display digital y corte automático. 1.318 calificaciones en MercadoLibre.',
+    h1: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles de temperatura',
+    articleBody: `El PE-DK1850 es la pava de acero inoxidable de Peabody — cuerpo metálico completo, 1.7L, 4 niveles de temperatura preestablecidos y display digital en el mango. Con 1.318 calificaciones en MercadoLibre, tiene el mayor volumen de reseñas del cluster de pavas del sitio.
+
+La diferencia con el otro modelo Peabody disponible en el sitio, el [PE-DK2200N](/producto/MLA47275624), es concreta: el DK2200N tiene control de temperatura continuo (40–100°C en pasos de 1°C), keep warm de 2 horas y función de memoria. El DK1850 tiene 4 niveles fijos y mayor capacidad (1.7L vs 1.5L del DK2200N). Son dos pavas para perfiles distintos.
+
+## El cuerpo de acero inoxidable
+
+La estructura es acero inoxidable en la jarra. No es plástico con acabado metálico — la ficha técnica especifica "materiales: acero inoxidable". El color es plateado. La base y el mango son plástico negro.
+
+Para el uso diario, el acero es más resistente a rayaduras y manchas de cal que el plástico. No transmite calor al exterior de la misma forma que el plástico, aunque no llega al aislamiento de una pava de doble pared como la [Philips HD9396](/producto/MLA47183370).
+
+## Los 4 niveles de temperatura
+
+La pava tiene 4 niveles de temperatura preestablecidos. Los valores exactos de cada nivel no están detallados en la ficha técnica del listing. El selector está integrado en el mango junto al display digital.
+
+Para el mate, el rango ideal es 70–80°C. Para el té verde, entre 70–75°C. Para el té negro o el café de prensa francesa, cerca de 90–95°C. Con 4 niveles, lo más probable es que el rango cubra desde temperatura baja hasta ebullición, pero los valores exactos hay que verificarlos en la descripción del vendedor antes de comprar.
+
+## Display digital y base giratoria
+
+El display digital está en el mango. Muestra la temperatura seleccionada durante el proceso de calentamiento. La base es giratoria (360°) — podés retirar la jarra desde cualquier ángulo sin acomodar el cable.
+
+El corte automático se activa cuando el agua llega a la temperatura seleccionada. Hay indicador de nivel de agua en el lateral.
+
+## 1.7L y 2.200W
+
+La capacidad es 1.7L, igual que la [Philips HD9350](/producto/MLA24601443) y la Philips HD9396. El PE-DK2200N tiene 1.5L, así que el DK1850 rinde más si necesitás agua para varios mates seguidos o para una ronda grande.
+
+La potencia es 2.200W, igual que los otros modelos del cluster. A 220V y 2.200W, el tiempo de calentamiento desde frío hasta ebullición es similar en todas las pavas del cluster — aproximadamente 2–3 minutos para 1.7L.
+
+## Sin keep warm — la diferencia con el PE-DK2200N
+
+El listing del PE-DK1850 no menciona función de keep warm (mantener temperatura). El [PE-DK2200N](/producto/MLA47275624) tiene keep warm de 2 horas y función de memoria para cortes de luz.
+
+Si para vos el keep warm es importante — por ejemplo, para tener agua a 80°C disponible durante una hora sin volver a calentar — el PE-DK2200N es la opción dentro del mismo cluster Peabody. La diferencia de precio entre los dos modelos refleja esa funcionalidad extra.
+
+## 1.318 calificaciones y qué dicen
+
+Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen de reseñas del cluster de pavas del sitio. El resumen de opiniones de MercadoLibre destaca su velocidad, silencio, el selector de temperatura y el diseño elegante. 4.7 estrellas sobre ese volumen de reseñas es una señal confiable.`,
+    specs: [
+      { label: 'Marca', value: 'Peabody' },
+      { label: 'Modelo', value: 'PE-DK1850' },
+      { label: 'Color', value: 'Plateado' },
+      { label: 'Material', value: 'Acero inoxidable' },
+      { label: 'Capacidad', value: '1.7L' },
+      { label: 'Potencia', value: '2.200W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Control temperatura', value: '4 niveles preestablecidos' },
+      { label: 'Display digital', value: 'Sí — en el mango' },
+      { label: 'Keep warm', value: 'No especificado en ficha' },
+      { label: 'Función memoria', value: 'No' },
+      { label: 'Corte automático', value: 'Sí' },
+      { label: 'Indicador de agua', value: 'Sí (lateral)' },
+      { label: 'Base giratoria', value: 'Sí — 360°' },
+      { label: 'Rating', value: '4.7 ⭐ (1.318 calificaciones — 826 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuáles son los 4 niveles de temperatura del PE-DK1850?',
+        answer:
+          'La ficha técnica confirma 4 niveles pero no especifica los valores exactos. Para el mate (70–80°C ideal) conviene verificar los niveles disponibles directamente con el vendedor o en la descripción completa del listing antes de comprar.',
+      },
+      {
+        question: '¿Tiene función keep warm (mantener temperatura)?',
+        answer:
+          'El listing del PE-DK1850 no menciona keep warm. Si esa función es importante para vos, el [Peabody PE-DK2200N](/producto/MLA47275624) la tiene con 2 horas de mantenimiento.',
+      },
+      {
+        question: '¿Cuál es la diferencia entre el PE-DK1850 y el PE-DK2200N?',
+        answer:
+          'El PE-DK1850 tiene 1.7L de capacidad, cuerpo de acero inoxidable y 4 niveles de temperatura fijos. El [PE-DK2200N](/producto/MLA47275624) tiene 1.5L, control continuo de 40 a 100°C, keep warm de 2 horas y función de memoria para cortes de luz — más funciones, menos capacidad.',
+      },
+      {
+        question: '¿Funciona bien para mate?',
+        answer:
+          'Para el mate la temperatura ideal es 70–80°C. El PE-DK1850 tiene 4 niveles de temperatura que deberían cubrir ese rango, pero los valores exactos no están en la ficha pública. El cuerpo de acero inoxidable no afecta el sabor del agua.',
+      },
+      {
+        question: '¿Qué pasa si necesito una pava sin control de temperatura?',
+        answer:
+          'Si el control de temperatura no es prioridad y buscás precio más accesible, la [Philips HD9350](/producto/MLA24601443) es la opción más básica del cluster: solo ebullición, filtro de acero inoxidable y garantía de 2 años.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Peabody PE-DK1850 Digital Acero 1.7L',
+      description:
+        'Pava eléctrica Peabody PE-DK1850: cuerpo de acero inoxidable, capacidad 1.7L, 2200W, 4 niveles de temperatura, display digital en mango, base giratoria, corte automático e indicador de nivel de agua.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      model: 'PE-DK1850',
+      color: 'Plateado',
+      material: 'Acero inoxidable',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2T7Y1zd',
+        priceCurrency: 'ARS',
+        price: 55900,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '1318',
+      },
+    },
   },
   {
     id: 'MLA15276005',
