@@ -1811,9 +1811,9 @@ export const guides: Guide[] = [
       { type: "h2", title: "Peabody PEKV8215 vintage — NO la compres" },
       {
         type: "bad",
-        title: "Peabody PEKV8215 ($81.000)",
+        title: "Peabody PEKV8215 ($69.999)",
         content:
-          "Diseño vintage bonito pero no vale la pena. Cuesta más que Philips con acero completo ($52K) y solo tiene un termómetro con una marca a 80°. Si querés acero por $81.000, mejor Philips por $52.499 y ahorrás $29.000.",
+          "Diseño vintage bonito pero no vale la pena funcional. Cuesta más que [Philips HD9350](/producto/MLA24601443) con acero completo ($52.499) y solo tiene un termómetro analógico con una marca a 80°. Si querés acero por $69.999, mejor Philips por $52.499 y ahorrás $17.500 con mejor durabilidad.",
       },
       { type: "h2", title: "Problemas comunes" },
       {
@@ -1877,7 +1877,7 @@ export const guides: Guide[] = [
       {
         question: "¿Vale la pena el modelo vintage PEKV8215?",
         answer:
-          "No. Cuesta $81.000, más que Philips que sale $52.000 sin justificación real.",
+          "No. Cuesta $69.999, más que [Philips HD9350](/producto/MLA24601443) que sale $52.499 con acero completo y durabilidad superior. El diseño vintage no justifica pagar $17.500 extra.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
