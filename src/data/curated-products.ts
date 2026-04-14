@@ -10280,6 +10280,107 @@ Lo que no es: una freidora de entrada. El precio ($199.999) y el tamaño justifi
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "- Cocción mediante CONVECCIÓN (circulación de aire caliente).  \n- Temperatura regulable de 80°C a 200°C en función manual.  \n- Display LED touch y alarma sonora al finalizar la cocción.  \n- Recipiente con superficie antiadherente.  \n- 7 programas de cocción: Papas fritas, Costillas, Mariscos, Hornea",
+    badge: 'viral',
+    seoTitle: 'Freidora de Aire Peabody PE-AFD650N 6.5L con Visor | PickViral',
+    metaDescription: 'Peabody PE-AFD650N: freidora de aire 6.5L con ventana frontal, luz interna y 7 programas. 4.8⭐ con más de 2.600 calificaciones. Precio y opiniones en PickViral.',
+    ogTitle: 'Freidora Peabody PE-AFD650N 6.5L — Ventana, Luz y 7 Programas',
+    ogDescription: 'La Peabody PE-AFD650N tiene ventana frontal con luz interna para ver la cocción sin pausar. 7 programas, 1500W y 4.8⭐ de calificación.',
+    h1: 'Freidora de Aire Peabody PE-AFD650N 6.5L: ventana con luz para ver sin abrir',
+    pros: [
+      'Ventana frontal con luz interna',
+      'Auto-pause al abrir el cajón',
+      'Programa Mariscos (raro en esta franja)',
+      'Mantener caliente hasta 2 horas',
+      '4.8⭐ con 2.625 calificaciones',
+      'Funciona en circuito de 10A (1500W)',
+    ],
+    cons: [
+      'Temperatura máxima 200°C (menor que FR60AR 220°C)',
+      'Solo en negro — sin variantes de color',
+      'Temperaturas exactas de presets no publicadas',
+      '1500W (un poco más lento que modelos de 1750W+)',
+    ],
+    verdict: 'La freidora con visor más vendida de Peabody: 4.8⭐ con 2.625 reseñas y auto-pause real. Si querés ver la cocción sin perder calor, es la opción más directa bajo $100.000.',
+    articleBody: `## Ventana frontal + luz interna
+
+El visor de vidrio está en la parte delantera del cajón. Al encender la luz interna, podés ver el estado de la cocción sin sacar la canasta. No parece gran cosa hasta que estás friendo papas y querés revisar sin perder temperatura: la diferencia entre abrir y no abrir puede sumar varios minutos extra en tiempos de cocción.
+
+La luz se activa con el botón dedicado que se ve en el panel touch. Según la descripción del fabricante, esta función está pensada para "no interrumpir la cocción" — algo que las fotos de compradores confirman en varias reseñas con comida bien dorada y uniforme.
+
+## Auto-pause al abrir el cajón
+
+Cuando retirás la canasta durante la cocción, la freidora se detiene automáticamente. Al volver a insertar el cajón, la cocción se reanuda desde donde quedó. Es un comportamiento básico de seguridad que no todos los modelos más económicos respetan. Acá está confirmado por el fabricante en la descripción del producto.
+
+## 7 programas + función manual
+
+Los presets cubren: Papas fritas, Costillas, Mariscos, Hornear, Patas de pollo, Carnes y Pescados. La función manual permite ajustar temperatura y tiempo libremente entre 80°C y 200°C.
+
+El punto notable es Mariscos: no es un preset habitual en modelos de esta franja de precio. Para langostinos, gambas o calamares rebozados, tener un perfil de temperatura calibrado de fábrica es útil. Lo mismo pasa con Costillas, que implica tiempos de cocción más largos a temperatura media.
+
+## Mantener caliente hasta 2 horas
+
+Una vez que la cocción termina, podés dejar la comida en temperatura de servicio hasta dos horas sin que se enfríe. Útil en cenas largas o cuando la hora de comer no es fija. No reemplaza al horno para grandes volúmenes, pero para una pata de pollo o unas papas fritas funciona bien.
+
+## ¿Para quién es esta freidora?
+
+La PE-AFD650N tiene sentido para personas que cocinan solas o en pareja, que cocinan productos variados (pollo, pescado, mariscos, papas) y quieren poder controlar la cocción visualmente sin abrir el cajón. El programa de Mariscos la hace más versátil que otros modelos de 6.5L sin presets específicos para ese tipo de alimento.
+
+Si la familia tiene más de dos personas, la capacidad de 6.5L puede quedar justa para cantidades mayores. En ese caso, el [Peabody PE-AFD720N](/producto/MLA41829394) de 7.2L o la opción [doble piso](/producto/MLA53776810) son más convenientes.
+
+Comparala también contra la [Atma Pro FR60AR](/producto/MLA27351841) — misma capacidad 6.5L a menor precio, pero sin ventana. O la [Atma FR248ABP de 8L](/producto/MLA39861162) si necesitás más capacidad con ventana.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Peabody / PE-AFD650N' },
+      { label: 'Capacidad', value: '6.5 L' },
+      { label: 'Potencia', value: '1500 W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Temperatura', value: '80°C – 200°C' },
+      { label: 'Programas', value: '7 (Papas, Costillas, Mariscos, Hornear, Patas, Carnes, Pescados)' },
+      { label: 'Ventana', value: 'Sí, frontal con luz interna' },
+      { label: 'Auto-pause', value: 'Sí, al abrir el cajón' },
+      { label: 'Mantener caliente', value: 'Hasta 2 horas' },
+      { label: 'Control', value: 'Display LED táctil' },
+      { label: 'Alarma sonora', value: 'Sí' },
+      { label: 'Canasto', value: 'Antiadherente + rejilla extraíble' },
+      { label: 'Dimensiones', value: '35.5 × 27.5 × 30.2 cm' },
+      { label: 'Peso', value: '4.1 kg' },
+      { label: 'Color', value: 'Negro' },
+    ],
+    faq: [
+      { question: '¿La ventana aguanta el calor sin oscurecerse?', answer: 'No hay reportes de oscurecimiento del visor en el volumen de reseñas disponibles. El diseño de vidrio templado es estándar en modelos con visor. Si la freidora se usa para frituras con mucha grasa, el interior puede acumular vapor graso que opaca temporalmente el vidrio — se limpia con paño húmedo.' },
+      { question: '¿Funciona con enchufes monofásicos de 10 amperios?', answer: 'Sí. 1500W a 220V consume aproximadamente 6.8 amperios, dentro del límite de un circuito domiciliario estándar de 10A. No requiere circuito exclusivo como modelos de 2000W o más.' },
+      { question: '¿Puedo cocinar congelados directamente?', answer: 'La freidora no menciona un programa específico para congelados, pero el rango de temperatura manual (80°C–200°C) es compatible con la mayoría de los alimentos congelados comerciales. El tiempo de cocción suele ser un 20–30% mayor al del producto descongelado.' },
+      { question: '¿Cuánta gente puede comer con 6.5 litros de capacidad?', answer: 'Depende del tipo de alimento. Para papas fritas, 6.5L alcanza para 2 a 3 personas por tanda. Para piezas enteras de pollo, la capacidad se achica. Si cocinás regularmente para 4 personas o más, la capacidad de 7.2L o la opción de doble canasta son más prácticas.' },
+      { question: '¿El auto-pause funciona aunque se abra a mitad de cocción?', answer: 'Sí, según la descripción oficial del fabricante: "apagado y reanudación automática al abrir el cajón de cocción". Al volver a insertar el cajón, la cocción continúa desde el tiempo y temperatura donde se detuvo.' },
+    ],
+    relatedProducts: ['MLA41829394', 'MLA53776810', 'MLA23318618'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Peabody PE-AFD650N 6.5L',
+      description: 'Freidora de aire Peabody PE-AFD650N de 6.5 litros con ventana frontal, luz interna, 7 programas preconfigurados, display LED touch y función mantener caliente hasta 2 horas.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      model: 'PE-AFD650N',
+      sku: 'MLA44703897',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_661695-MLA99473383512_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA44703897',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '93999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2zaHWZ2',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '2625',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA41829394',
