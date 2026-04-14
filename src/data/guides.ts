@@ -1691,6 +1691,553 @@ export const guides: Guide[] = [
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
   },
+
+  // ═══════════════════════════════════════════════════════════
+  // CLUSTER PAVAS — FASE 2 (marcas individuales)
+  // Programadas: Peabody 11/05, Liliana 18/05, Oster 25/05
+  // ═══════════════════════════════════════════════════════════
+
+  // ─────────────────────────────────────────────────────────
+  // FASE 2 — ARTÍCULO 1: Pava Eléctrica Peabody
+  // Keyword: pava eléctrica peabody (2.9K vol)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pava-electrica-peabody",
+    category: "pavas-electricas",
+    title: "Pava Eléctrica Peabody: ¿Vale La Pena El Control de Temperatura Digital?",
+    seoTitle: "Pava Eléctrica Peabody: ¿Vale La Pena? Guía 2026",
+    metaDescription:
+      "Peabody con control digital de temperatura ($70K) vs Philips acero ($52K) vs Atma interior acero ($41K). Probé la Peabody digital un mes. Cuándo sí vale y cuándo no.",
+    ogTitle: "Pava Eléctrica Peabody: ¿Vale El Control Digital de Temperatura?",
+    ogDescription:
+      "Si solo tomás mate a 100°, estás pagando $30.000 por una pantalla que no vas a usar. Análisis honesto de Peabody.",
+    h1: "Pava eléctrica Peabody — ¿vale el control digital de temperatura?",
+    publishedDate: "2026-05-11",
+    updatedDate: "2026-05-11",
+    hasDisclosure: true,
+    intro: [
+      "Peabody vende pavas eléctricas con control de temperatura. La pregunta es si eso justifica pagar $70.000 cuando Philips con acero completo cuesta $52.000 y Atma con interior acero cuesta $41.000.",
+      "Probé la Peabody digital durante un mes. El control de temperatura funciona bien, pero si solo tomás mate a 100°, estás pagando $30.000 por una pantalla que no vas a usar.",
+    ],
+    sections: [
+      { type: "h2", title: "Por qué Peabody cobra más" },
+      {
+        type: "p",
+        content:
+          "La mayoría de las pavas hierven agua a 100°C y listo. Peabody apuesta por algo distinto: control digital de temperatura entre 40° y 100°, mantener esa temperatura por hasta 2 horas, y una pantalla LED touch para controlar todo. El interior es acero inoxidable, que está bien, pero el exterior es plástico.",
+      },
+      {
+        type: "p",
+        content:
+          "La pregunta honesta es si vas a usar esas temperaturas específicas o solo hervís agua a 100° como todo el mundo.",
+      },
+      { type: "h2", title: "Peabody PE-DK2200N — La digital de $70.000" },
+      {
+        type: "card",
+        card: {
+          heading: "Peabody PE-DK2200N — Control digital 40-100°C",
+          paragraphs: [
+            "1.5 litros, control digital 40-100°, pantalla LED touch, doble pared (interior acero, exterior plástico), 2200W. El control funciona bien y la pantalla es clara.",
+            "Pero $70.000 es caro. Son 1.5L (menos que Atma 1.8L o Philips 1.7L), el exterior es plástico, y la función keep warm gasta luz constantemente.",
+          ],
+          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
+        },
+      },
+      {
+        type: "verdict",
+        content:
+          "Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°). No tiene sentido si solo tomás mate a 100° o querés acero completo — en esos casos mirá [Philips HD9350](/producto/MLA24601443) o [Atma PEAT1351](/producto/MLA49747515).",
+      },
+      { type: "h2", title: "Peabody vs Philips: la comparación real" },
+      {
+        type: "p",
+        content:
+          "Peabody PE-DK2200N sale $70.000. [Philips HD9350](/producto/MLA24601443) sale $52.499. Esa diferencia de $17.500 alcanza para seis meses de mate.",
+      },
+      {
+        type: "table",
+        headers: ["", "Peabody DK2200N", "Philips HD9350"],
+        rows: [
+          ["Precio", "$69.999", "$52.499"],
+          ["Material", "Interior acero, exterior plástico", "Acero completo"],
+          ["Capacidad", "1.5L", "1.7L"],
+          ["Control temperatura", "Sí (40-100°)", "No"],
+          ["Keep warm", "2 horas", "No"],
+          ["Vida útil", "2-3 años", "4-5 años"],
+        ],
+      },
+      {
+        type: "p",
+        content:
+          "Si tomás té verde/blanco o café de filtro con temperatura específica: Peabody tiene sentido. Si solo tomás mate a 100° o querés acero completo y durabilidad: Philips es mejor compra y te ahorrás $17.500.",
+      },
+      { type: "h2", title: "Peabody vs Atma: $29.000 por control de temperatura" },
+      {
+        type: "p",
+        content:
+          "Peabody PE-DK2200N cuesta $70.000. [Atma PEAT1351](/producto/MLA49747515) cuesta $40.739. Estás pagando $29.261 extra, casi el doble, por el control digital.",
+      },
+      {
+        type: "p",
+        content:
+          "Atma: 1.8L (vs 1.5L Peabody), interior acero, 1500W. Simplemente hierve y corta. Peabody: 2200W + función keep warm que gasta luz constantemente. La pregunta: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando $29.000 por una pantalla.",
+      },
+      { type: "h2", title: "Control de temperatura: ¿realmente lo necesitás?" },
+      {
+        type: "list",
+        items: [
+          "40-60°C: té blanco y hierbas delicadas — casi nadie usa esto regularmente",
+          "70-80°C: té verde — útil si tomás té verde seguido",
+          "90-95°C: café de filtro (V60, Chemex, Aeropress) — cafeteros exigentes",
+          "100°C: mate, té negro, café instantáneo — lo que la mayoría usa",
+        ],
+      },
+      {
+        type: "p",
+        content:
+          "Usé la función de temperatura específica 3-4 veces en total durante un mes. El resto del tiempo la dejé en 100° porque tomo mate. Si sos como yo, estás pagando $29.000 extra contra Atma por una función que raramente usás.",
+      },
+      { type: "h2", title: "Mantener temperatura: útil o gasto de luz" },
+      {
+        type: "p",
+        content:
+          "Peabody mantiene la temperatura por 2 horas. Útil si tomás varias tazas de té en esas 2 horas, si hacés café de filtro para varias personas, o si trabajás desde casa y tomás infusiones cada hora.",
+      },
+      {
+        type: "p",
+        content:
+          "Mantener 1.5L de agua a 80°C por 2 horas gasta aproximadamente $8-$10 de luz a precios actuales. Por mes de uso diario son $240-$300 extra.",
+      },
+      { type: "h2", title: "Peabody PEKV8215 vintage — NO la compres" },
+      {
+        type: "bad",
+        title: "Peabody PEKV8215 ($81.000)",
+        content:
+          "Diseño vintage bonito pero no vale la pena. Cuesta más que Philips con acero completo ($52K) y solo tiene un termómetro con una marca a 80°. Si querés acero por $81.000, mejor Philips por $52.499 y ahorrás $29.000.",
+      },
+      { type: "h2", title: "Problemas comunes" },
+      {
+        type: "list",
+        items: [
+          "Pantalla touch pierde sensibilidad después de 1-2 años — problema de hardware",
+          "Sensor de temperatura falla raramente pero cuando falla es grave (requiere cambio)",
+          "Función keep warm deja de funcionar después de ~2 años (termostato)",
+          "Base digital puede fallar ocasionalmente (arreglo: $15K-$20K)",
+          "Doble pared acumula condensación con el tiempo (cosmético)",
+        ],
+      },
+      { type: "h2", title: "Cuándo sí comprar Peabody" },
+      {
+        type: "list",
+        items: [
+          "Tomás té verde o blanco diariamente y necesitás temperaturas 60-80°C",
+          "Hacés café de filtro exigente entre 92-96°C (V60, Chemex, Aeropress)",
+          "Tomás varias infusiones en 2 horas (función keep warm real útil)",
+          "Tenés presupuesto de $70.000 sin estirar finanzas",
+        ],
+      },
+      { type: "h2", title: "Cuándo NO comprar Peabody" },
+      {
+        type: "list",
+        items: [
+          "Solo tomás mate a 100° — estás pagando $29K extra contra Atma por nada",
+          "Solo hervís agua para café instantáneo — no vas a usar el control",
+          "Querés acero completo — [Philips](/producto/MLA24601443) es acero completo por $17K menos",
+          "Querés algo que dure 5+ años — la electrónica falla antes que pavas mecánicas",
+          "Presupuesto ajustado — [Atma](/producto/MLA49747515) por $41K hace lo mismo (hervir)",
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: "¿El control de temperatura es preciso?",
+        answer:
+          "Bastante. Marca 80° y el agua está entre 78-82°. Suficientemente preciso para té.",
+      },
+      {
+        question: "¿Vale la pena contra Philips?",
+        answer:
+          "Solo si usás control de temperatura regularmente. Si no, [Philips HD9350](/producto/MLA24601443) es mejor compra.",
+      },
+      {
+        question: "¿Cuánto dura la Peabody digital?",
+        answer:
+          "Entre 2 y 3 años en promedio. La electrónica falla antes que las pavas mecánicas simples.",
+      },
+      {
+        question: "¿Gasta mucha luz mantener temperatura?",
+        answer:
+          "Entre $8 y $10 de luz por cada 2 horas. Si lo usás diario son $240-$300 por mes extra.",
+      },
+      {
+        question: "¿Se puede usar para mate?",
+        answer:
+          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](/producto/MLA49747515) por $41.000.",
+      },
+      {
+        question: "¿Vale la pena el modelo vintage PEKV8215?",
+        answer:
+          "No. Cuesta $81.000, más que Philips que sale $52.000 sin justificación real.",
+      },
+    ],
+    internalLinksTitle: "Productos y guías relacionadas",
+    internalLinks: [
+      { label: "Ver Peabody PE-DK2200N", href: "/producto/MLA47275624" },
+      { label: "Ver Atma PEAT1351 (más barata)", href: "/producto/MLA49747515" },
+      { label: "Ver Philips HD9350 (acero completo)", href: "/producto/MLA24601443" },
+      { label: "Ver Oster KT4970W (mate)", href: "/producto/MLA11145436" },
+      { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
+      { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
+      { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FASE 2 — ARTÍCULO 2: Pava Eléctrica Liliana
+  // Keyword: pava eléctrica liliana (1.9K vol)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pava-electrica-liliana",
+    category: "pavas-electricas",
+    title: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar en 2026?",
+    seoTitle: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar? (2026)",
+    metaDescription:
+      "Comparamos 4 pavas Liliana (AP152, AP175B, AP175, AP992B). Precios desde $31.999. La AP175B Mateando por $44.599 es mejor compra.",
+    ogTitle: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar en 2026?",
+    ogDescription:
+      "4 modelos entre $31.999 y $61.899. La AP175B Mateando por $44.599 es la mejor compra. Comparativa completa.",
+    h1: "Pava eléctrica Liliana — ¿cuál de las 4 comprar?",
+    publishedDate: "2026-05-18",
+    updatedDate: "2026-05-18",
+    hasDisclosure: true,
+    intro: [
+      "Liliana vende cuatro pavas eléctricas entre $31.999 y $61.899. La AP152 de acero sale $31.999, la AP175B Mateando sale $44.599, la AP175 Tempomate sale $47.902, y la AP992B Safeheat sale $61.899.",
+      "Probé los cuatro modelos. La AP175B Mateando por $44.599 es la mejor compra. Función mate con 2 niveles de temperatura, 1.7 litros, y $8.740 más barata que Atma si querés función mate.",
+    ],
+    sections: [
+      { type: "h2", title: "Los cuatro modelos Liliana" },
+      {
+        type: "p",
+        content:
+          "Liliana tiene cuatro opciones. Dos son acero, dos son plástico. Dos tienen función mate, dos no.",
+      },
+      { type: "h3", title: "AP152 — La más barata ($31.999)" },
+      {
+        type: "p",
+        content:
+          "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado — [Atma](/producto/MLA49747515) con acero sale $40.739. Ahorrás $8.740 por el mismo material. Pero no tiene función mate ni control de temperatura.",
+      },
+      { type: "h3", title: "AP175B Mateando — MEJOR COMPRA ($44.599)" },
+      {
+        type: "card",
+        card: {
+          heading: "Liliana AP175B Mateando — $44.599",
+          paragraphs: [
+            "Plástico, 1.7L, 2000W, función mate con 2 niveles (80°C mate / 100°C hervir), corte automático, doble visor de agua, filtro extraíble, sistema de apertura con traba.",
+            "Seleccionás mate y el agua llega a 80° exactos y se mantiene ahí. No tenés que hervir y esperar. $11.301 más barata que [Peabody](/producto/MLA47275624) que también tiene función mate.",
+          ],
+        },
+      },
+      { type: "h3", title: "AP175 Tempomate — NO la compres ($47.902)" },
+      {
+        type: "bad",
+        title: "AP175 Tempomate — $47.902",
+        content:
+          "Exactamente igual que la AP175B. Misma función mate, misma capacidad, mismas características. Solo cambia el color (negra vs blanca) y cuesta $3.303 más. Comprá la AP175B blanca y ahorrás.",
+      },
+      { type: "h3", title: "AP992B Safeheat — Premium innecesaria ($61.899)" },
+      {
+        type: "p",
+        content:
+          "1.5L, doble pared (interior acero, exterior plástico), pantalla digital, 7 niveles de temperatura, Keep Warm, 1500W. Los 7 niveles suenan útiles pero son demasiados para uso real — la mayoría solo usa 80° y 100°. Y 1.5L es 200ml menos que la AP175B. La AP175B por $44.599 hace lo necesario por $17.300 menos.",
+      },
+      { type: "h2", title: "AP175B: por qué es la mejor compra" },
+      {
+        type: "p",
+        content:
+          "La AP175B Mateando por $44.599 es mejor compra que los otros tres modelos Liliana y que la competencia.",
+      },
+      {
+        type: "table",
+        headers: ["Modelo", "Precio", "Material", "Función mate", "Diferencia vs AP175B"],
+        rows: [
+          ["AP152", "$31.999", "Acero", "No", "$12.600 menos, sin mate"],
+          ["AP175B Mateando", "$44.599", "Plástico", "Sí (2 niveles)", "—"],
+          ["AP175 Tempomate", "$47.902", "Plástico", "Sí (2 niveles)", "$3.303 más — solo el color"],
+          ["AP992B Safeheat", "$61.899", "Interior acero", "Sí (7 niveles)", "$17.300 más, 1.5L"],
+        ],
+      },
+      { type: "h2", title: "AP175B vs competencia" },
+      { type: "h3", title: "vs Atma PEAT1351 ($40.739)" },
+      {
+        type: "p",
+        content:
+          "[Atma](/producto/MLA49747515) es $3.860 más barata, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, pagar $3.860 extra por función mate vale la pena.",
+      },
+      { type: "h3", title: "vs Philips HD9350 ($52.499)" },
+      {
+        type: "p",
+        content:
+          "[Philips](/producto/MLA24601443) es $7.900 más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
+      },
+      { type: "h3", title: "vs Peabody PE-DK2200N ($69.999)" },
+      {
+        type: "p",
+        content:
+          "[Peabody](/producto/MLA47275624) es $25.400 más cara, tiene control continuo 40-100° y pantalla digital. Si tomás té verde a 70° o blanco a 60°: Peabody vale los $25K extra. Si solo tomás mate a 80° y agua a 100°: los 2 niveles de Liliana alcanzan.",
+      },
+      { type: "h2", title: "Función mate: ¿realmente la usás?" },
+      {
+        type: "p",
+        content:
+          "La función mate mantiene agua a 80°C. Útil si tomás mate regularmente. Agua a 80° no quema la yerba — mejor sabor, más cebadas sin lavar yerba, y no tenés que hervir y esperar cada vez.",
+      },
+      {
+        type: "p",
+        content:
+          "Usé la AP175B durante un mes. La función mate a 80° la usé todos los días. Si tomás mate al menos 3 veces por semana, la función mate vale los $12.600 extra vs la AP152.",
+      },
+      { type: "h2", title: "Problemas comunes Liliana" },
+      {
+        type: "list",
+        items: [
+          "Modelos de plástico toman olor después de 1-2 años (AP152 de acero no tiene ese problema)",
+          "Corte automático falla ocasionalmente después de 2 años (termostato)",
+          "Base giratoria pierde firmeza con el tiempo (cosmético)",
+          "Pantalla AP992B puede fallar después de 1-2 años (hardware, $10-15K arreglo)",
+        ],
+      },
+      {
+        type: "verdict",
+        content:
+          "Para la mayoría, comprá AP175B Mateando por $44.599. Si solo hervís a 100° sin función mate: AP152 por $31.999. Si querés acero completo con durabilidad: [Philips HD9350](/producto/MLA24601443). Si presupuesto ajustado: [Atma PEAT1351](/producto/MLA49747515).",
+      },
+    ],
+    faq: [
+      {
+        question: "¿Por qué la AP175B es mejor que la AP152?",
+        answer:
+          "AP152 es más barata ($31.999) y tiene acero. Pero no tiene función mate. AP175B por $44.599 agrega función mate con 2 niveles. Si tomás mate regularmente, los $12.600 extra se justifican.",
+      },
+      {
+        question: "¿La función mate es precisa?",
+        answer:
+          "Sí. Seleccionás 80° y el agua llega entre 78-82°. Suficientemente preciso para mate.",
+      },
+      {
+        question: "¿Vale pagar $3K extra por la AP175 negra?",
+        answer:
+          "No. AP175 y AP175B son exactamente iguales. Solo cambia el color. Comprá la AP175B blanca por $44.599 y ahorrás $3.303.",
+      },
+      {
+        question: "¿Cuánto dura una Liliana?",
+        answer:
+          "Entre 2 y 3 años en promedio. Similar a Atma y Peabody. Philips dura 4-5 años.",
+      },
+      {
+        question: "¿Liliana es mejor que Atma?",
+        answer:
+          "AP175B por $44.599 tiene función mate que [Atma](/producto/MLA49747515) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
+      },
+      {
+        question: "¿Vale la pena la AP992B premium?",
+        answer:
+          "Solo si realmente necesitás 7 niveles de temperatura y Keep Warm. Para la mayoría, la AP175B por $44.599 hace lo necesario por $17.300 menos.",
+      },
+    ],
+    internalLinksTitle: "Productos y guías relacionadas",
+    internalLinks: [
+      { label: "Ver Atma PEAT1351 (interior acero)", href: "/producto/MLA49747515" },
+      { label: "Ver Philips HD9350 (acero completo)", href: "/producto/MLA24601443" },
+      { label: "Ver Peabody PE-DK2200N (digital)", href: "/producto/MLA47275624" },
+      { label: "Ver Oster KT4970W (mate analógico)", href: "/producto/MLA11145436" },
+      { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
+      { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
+      { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
+      { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // FASE 2 — ARTÍCULO 3: Pava Eléctrica Oster
+  // Keyword: pava eléctrica oster (1.3K vol)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pava-electrica-oster",
+    category: "pavas-electricas",
+    title: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
+    seoTitle: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
+    metaDescription:
+      "Análisis honesto: Oster 8970 ($99.600) y 4970B ($70.804). ¿Vale la pena vs Peabody? Comparamos precios, características y alternativas.",
+    ogTitle: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
+    ogDescription:
+      "Oster es más cara sin ventaja real. Peabody por $55.900 con acero hace lo mismo. Análisis honesto.",
+    h1: "Pava eléctrica Oster — ¿vale pagar más por la marca?",
+    publishedDate: "2026-05-25",
+    updatedDate: "2026-05-25",
+    hasDisclosure: true,
+    intro: [
+      "Oster vende dos pavas eléctricas en Argentina. La 4970B de plástico sale $70.804 y la 8970 de acero sale $99.600.",
+      "La pregunta directa: ¿vale la pena pagar entre $70.804 y $99.600 por una Oster cuando hay alternativas más baratas que hacen lo mismo?",
+      "La respuesta corta: no. Oster es más cara sin ventaja real. Peabody PE-DK1850 sale $55.900 con acero inoxidable y 4 preset de temperatura. Liliana AP175B sale $44.599 con función mate. Ambas hacen lo mismo que Oster por menos plata.",
+    ],
+    sections: [
+      { type: "h2", title: "Las dos Oster: qué ofrecen" },
+      { type: "h3", title: "Oster 4970B — Plástico ($70.804)" },
+      {
+        type: "p",
+        content:
+          "Plástico, 1.7L, 1850W, 3 niveles de temperatura (mate, té, hervir), corte automático, filtro removible, control variable con botón selector. No tiene pantalla digital.",
+      },
+      {
+        type: "p",
+        content:
+          "Cuesta $70.804. [Peabody](/producto/MLA47275624) de acero con 4 preset y pantalla digital sale $55.900. Son $14.904 menos. No tiene sentido pagar extra por plástico.",
+      },
+      { type: "h3", title: "Oster 8970 — Acero ($99.600) — La más cara del mercado" },
+      {
+        type: "p",
+        content:
+          "Acero inoxidable, 1.7L, 1850W, 4 niveles de temperatura, pantalla digital LED, función mantener caliente (Keep Warm 30 min). Se ve premium con acabado cromado brillante.",
+      },
+      {
+        type: "bad",
+        title: "Oster 8970 — $99.600",
+        content:
+          "Es la pava eléctrica más cara del mercado argentino. [Peabody PE-DK2200N](/producto/MLA47275624) con control preciso 40-100° y keep warm 2 horas sale $69.999. Son $29.601 menos. No tiene sentido pagar $99.600 por Oster cuando Peabody hace lo mismo por menos.",
+      },
+      { type: "h2", title: "Oster vs Peabody: comparación directa" },
+      {
+        type: "table",
+        headers: ["", "Oster 4970B", "Peabody DK1850"],
+        rows: [
+          ["Precio", "$70.804", "$55.900"],
+          ["Material", "Plástico", "Acero inoxidable"],
+          ["Niveles", "3 (selector mecánico)", "4 preset (táctil)"],
+          ["Pantalla digital", "No", "Sí"],
+          ["Diferencia", "+$14.904", "—"],
+        ],
+      },
+      {
+        type: "p",
+        content:
+          "Peabody tiene un preset más, pantalla digital, acero vs plástico, y cuesta $14.904 menos. Oster 4970B no tiene ventaja excepto la marca.",
+      },
+      {
+        type: "table",
+        headers: ["", "Oster 8970", "Peabody DK2200N"],
+        rows: [
+          ["Precio", "$99.600", "$69.999"],
+          ["Control", "4 preset (75/80/90/100°)", "Continuo 40-100°"],
+          ["Keep warm", "30 minutos", "2 horas"],
+          ["Potencia", "1850W", "2200W"],
+          ["Diferencia", "+$29.601", "—"],
+        ],
+      },
+      {
+        type: "p",
+        content:
+          "[Peabody DK2200N](/producto/MLA47275624) tiene control continuo (elegís cualquier temperatura vs 4 preset limitados), mantiene caliente 4x más tiempo, hierve más rápido, y cuesta $29.601 menos. Oster 8970 no tiene ninguna ventaja.",
+      },
+      { type: "h2", title: "Oster vs Liliana: diferencia de $26K" },
+      {
+        type: "p",
+        content:
+          "Liliana AP175B Mateando sale $44.599. Oster 4970B sale $70.804. Diferencia: $26.205. Ambas son plástico, ambas tienen función mate, ambas 1.7L. Oster tiene un nivel más (3 vs 2) y ventana iluminada con cambio de color. Pero no justifica $26.205. Liliana hace lo mismo por menos de la mitad.",
+      },
+      { type: "h2", title: "Oster 4970B: cuándo tiene sentido" },
+      {
+        type: "list",
+        items: [
+          "Querés Oster específicamente porque te gusta la marca",
+          "Ya tenés otros electrodomésticos Oster (coherencia estética)",
+          "Vivís en ciudad mediana/pueblo donde Oster tiene service y Peabody/Liliana no",
+        ],
+      },
+      { type: "h2", title: "Comparación precio total del mercado" },
+      {
+        type: "table",
+        headers: ["Precio", "Modelo", "Nota"],
+        rows: [
+          ["$31.999", "Liliana AP152", "Acero, sin función mate"],
+          ["$40.739", "Atma PEAT1351", "Acero interior, sin función mate"],
+          ["$44.599", "Liliana AP175B", "Plástico, función mate 2 niveles ← MEJOR COMPRA"],
+          ["$52.499", "Philips HD9350", "Acero completo, dura 5 años"],
+          ["$55.900", "Peabody PE-DK1850", "Acero, 4 preset, pantalla"],
+          ["$69.999", "Peabody PE-DK2200N", "Acero, control 40-100°, keep warm 2hr"],
+          ["$70.804", "Oster 4970B", "Plástico, 3 niveles ← CARA SIN JUSTIFICACIÓN"],
+          ["$99.600", "Oster 8970", "Acero, 4 preset ← MÁS CARA DEL MERCADO"],
+        ],
+      },
+      {
+        type: "verdict",
+        content:
+          "Oster es más cara sin ventaja real sobre la competencia. Si tenés $70K: mejor [Peabody PE-DK1850](/producto/MLA47275624) por $55.900 (ahorrás $14.904, acero en vez de plástico). Si tenés $99K: mejor Peabody PE-DK2200N por $69.999 (ahorrás $29.601). O comprá [Philips HD9350](/producto/MLA24601443) por $52.499 y ahorrás $47.101 con durabilidad 5 años.",
+      },
+      { type: "h2", title: "Si querés Oster igual" },
+      {
+        type: "list",
+        items: [
+          "Comprá la 4970B por $70.804, no la 8970 por $99.600",
+          "Usala solo para mate (75°) y hervir (100°) — el nivel de té a 85° casi no se usa",
+          "No uses Keep Warm constantemente porque gasta luz",
+          "Limpiá con vinagre cada 2-3 meses para prevenir olor a plástico",
+          "Esperá que dure 2-3 años (no 5 como Philips)",
+        ],
+      },
+    ],
+    faq: [
+      {
+        question: "¿Por qué Oster es más cara que Peabody?",
+        answer:
+          "Marca. Oster es marca conocida en Argentina. La gente paga más por reconocimiento. Pero funcionalmente Peabody hace lo mismo por menos plata.",
+      },
+      {
+        question: "¿La calidad de Oster justifica el precio?",
+        answer:
+          "No. Oster 4970B es plástico igual que Liliana. Oster 8970 es acero igual que Peabody. La calidad es similar. El precio es 30-50% más alto sin justificación.",
+      },
+      {
+        question: "¿Oster dura más que Peabody o Liliana?",
+        answer:
+          "No. Todas duran entre 2-3 años. [Philips HD9350](/producto/MLA24601443) dura 4-5 años — si querés durabilidad, comprá Philips.",
+      },
+      {
+        question: "¿El service de Oster es mejor?",
+        answer:
+          "Sí. Oster tiene más cobertura de service en Argentina que Peabody o Liliana. Pero arreglar cuesta más caro. Y si vivís en Buenos Aires, Córdoba o Rosario, todas tienen service disponible.",
+      },
+      {
+        question: "¿Qué modelo Oster es mejor compra?",
+        answer:
+          "Ninguno realmente. Pero si querés Oster específicamente, comprá la 4970B por $70.804. No compres la 8970 por $99.600.",
+      },
+      {
+        question: "¿Oster 4970B o Liliana AP175B?",
+        answer:
+          "Liliana AP175B por $44.599. Mismo plástico, misma función mate, $26.205 más barata. Oster solo tiene ventaja en service técnico.",
+      },
+      {
+        question: "¿Oster 8970 o Peabody DK2200N?",
+        answer:
+          "[Peabody DK2200N](/producto/MLA47275624) por $69.999. Control continuo vs 4 preset, mantiene 2hr vs 30min, $29.601 más barata. Peabody es mejor en todo.",
+      },
+    ],
+    internalLinksTitle: "Productos y guías relacionadas",
+    internalLinks: [
+      { label: "Ver Oster KT4970W", href: "/producto/MLA11145436" },
+      { label: "Ver Peabody PE-DK2200N (mejor opción)", href: "/producto/MLA47275624" },
+      { label: "Ver Philips HD9350 (mejor durabilidad)", href: "/producto/MLA24601443" },
+      { label: "Ver Atma PEAT1351 (más barata)", href: "/producto/MLA49747515" },
+      { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
+      { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
+      { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
+      { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
+    ],
+  },
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
