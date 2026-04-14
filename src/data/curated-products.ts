@@ -2948,6 +2948,130 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
     soldQuantity: 500,
     pastelColor: 'var(--pastel-amber)',
     description: 'El Ventilador de Techo Retráctil es la solución ideal para quienes buscan confort y estilo en su hogar. Con un diseño elegante y moderno, este ventilador se integra perfectamente en cualquier ambiente, proporcionando una brisa refrescante y una iluminación suave.   Este modelo ofrece seis velocidade',
+    seoTitle: 'Ventilador Retráctil Silencioso Iluma Zenith DC | PickViral',
+    metaDescription: 'El Iluma Zenith es el ventilador retráctil más accesible del mercado: motor DC silencioso, aspas reversibles confirmadas, luz LED tricolor y eficiencia A+.',
+    ogTitle: 'Ventilador Retráctil Silencioso Iluma Zenith — DC Motor + LED Tricolor | PickViral',
+    ogDescription: 'El más económico del cluster con aspas reversibles confirmadas, motor DC, luz 3 temperaturas y eficiencia A+. Análisis sin filtro con precio actualizado.',
+    h1: 'Ventilador de techo retráctil silencioso Iluma Zenith: el más accesible del cluster con DC motor y aspas reversibles',
+    pros: [
+      'Precio más bajo del cluster ($90.000)',
+      'Motor DC (silencioso y eficiente)',
+      'Aspas reversibles confirmadas en ficha ML',
+      'Luz LED 3 temperaturas con dimmer y modo noche',
+      'Eficiencia energética A+',
+      'Compatible 50/60 Hz (cualquier zona de Argentina)',
+    ],
+    cons: [
+      'Solo 4 calificaciones (volumen muy bajo)',
+      'Potencia total no especificada en ficha ML',
+      'Sin datos de ruido en dB',
+      'Discrepancia en temporizador (1H mencionado, no visible en remote)',
+    ],
+    verdict: 'La entrada al cluster retráctil. Si el presupuesto manda y aceptás el bajo volumen de reseñas, tiene todo lo técnico que importa: DC motor, aspas reversibles, LED tricolor.',
+    articleBody: `## Por qué este producto tiene sentido (y por qué con reservas)
+
+Hay una pregunta que aparece bastante seguido en foros de MercadoLibre sobre ventiladores retráctiles: "¿hay alguno que no cueste una fortuna?"
+
+El Iluma Zenith responde eso con $90.000. No es el más vendido del mercado ni el que acumula más reseñas —tiene apenas cuatro calificaciones al momento de esta publicación— pero es el único del grupo que entra por debajo de los $100.000 sin sacrificar DC motor, aspas reversibles ni luz tricolor LED.
+
+## Qué incluye y cómo funciona
+
+El Zenith es un ventilador de techo con cuatro aspas de acrílico transparente que se pliegan contra el plafón central cuando no están en uso. En modo retráctil parece un plafonnier redondo blanco. Cuando se abren, el diámetro de cobertura llega a 1,07 metros — igual al [Novohome](/producto/MLA54423759), el segundo más económico del grupo.
+
+El motor es de corriente continua (DC), que es el mismo tipo que usa el [Peabody](/producto/MLA43536904), aunque a menor potencia. La ficha técnica confirma eficiencia energética A+ y compatibilidad con red eléctrica de 50Hz y 60Hz, lo que lo hace apto para cualquier zona de Argentina sin adaptadores.
+
+Las aspas son reversibles. El control remoto tiene un botón específico de "inversión positiva" que cambia la dirección del giro: modo verano para bajar el aire frío, modo invierno para recircular el aire caliente que queda atrapado en el techo. Esto está confirmado en la ficha de ML con el campo "Con aspas reversibles: Sí".
+
+## Iluma en contexto: dónde entra en el cluster
+
+Cuatro ventiladores retráctiles, cuatro precios distintos. El Iluma Zenith es el más barato de los cuatro. La diferencia de precio entre el Iluma y el Novohome —el siguiente más barato— es de $23.000. Entre el Iluma y el Peabody son $167.000. Si el presupuesto es el filtro principal, el Iluma es la única opción real del grupo.
+
+Lo que resignás a $90.000 frente a los demás: menos reseñas (4 vs 717 del Novohome mínimo), mayor incertidumbre sobre experiencia real, sin datos de ruido verificables, potencia total no especificada en ficha ML, sin Modo Convección avanzado como el Peabody, sin el diseño negro del [Etheos](/producto/MLA44033885) si eso importa.
+
+Lo que no resignás: DC motor, aspas reversibles, 3 temperaturas de luz, 6 velocidades, eficiencia A+, 50Hz/60Hz, 1,07m de cobertura.
+
+## El control remoto en detalle
+
+El mando del Zenith está bien equipado para la gama de precio. Tiene botones para control de luz ON/OFF, selección de temperatura 3000K (cálida) y 6500K (fría), regulación de luminancia (dimmer arriba/abajo), velocidades 1 a 6, inversión positiva (aspas reversibles), modo noche, apagado general, y temporizadores 2H y 4H.
+
+La descripción de ML menciona temporizadores de "1h / 2h / 4h", pero los botones visibles en el control remoto son solo 2H y 4H. No se observa botón de 1H en la imagen del mando. Se recomienda verificar con el vendedor antes de comprar si el temporizador de 1 hora es relevante para tu uso.
+
+## Luz LED: tres temperaturas de color
+
+El Zenith tiene un plafón LED redondo central que cubre la mayor parte de la base del ventilador. Según los infographics del producto, las temperaturas disponibles son 6000K (luz fría), 4000K (neutra) y 2700K (cálida). El control remoto tiene botones discretos para 3000K y 6500K como extremos, y el dimmer permite reducir la intensidad dentro de cada temperatura.
+
+Los valores exactos de cada preset pueden variar — se recomienda pedir al vendedor confirmación de los rangos de temperatura reales.
+
+## Para quién tiene sentido el Iluma Zenith
+
+El Zenith no compite con el Peabody ni con el Etheos en features avanzadas. Su público natural es alguien que tiene un techo de altura estándar (2,4m–2,7m) en dormitorio o living de tamaño medio, quiere el look "aspas ocultas" sin gastar más de $100.000, prioriza el motor DC pero no necesita aplicación ni Wi-Fi, y no tiene restricciones de frecuencia de red.
+
+Para un dormitorio de matrimonio o un espacio de hasta 18–20m², el diámetro de 1,07m es adecuado. En ambientes más grandes, el Etheos (1,2m de cobertura) o el Peabody darían mejor rendimiento.
+
+## Lo que no sabemos todavía
+
+Con 4 calificaciones, hay cosas que no se pueden confirmar con datos de la comunidad: nivel de ruido real en operación, durabilidad a mediano plazo del mecanismo retráctil, uniformidad de la luz LED en toda la superficie del plafón, temperatura real de los presets de color. Esto no invalida el producto, pero hay que nombrarlo.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Iluma / Zenith ZENITH40W' },
+      { label: 'Precio', value: '$90.000 ARS' },
+      { label: 'Diámetro aspas extendidas', value: '1,07 m' },
+      { label: 'Peso', value: '6 kg' },
+      { label: 'Aspas', value: '4 acrílico transparente' },
+      { label: 'Aspas reversibles', value: 'Sí (modo verano/invierno)' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Frecuencia', value: '50 Hz / 60 Hz' },
+      { label: 'Tipo motor', value: 'DC (corriente continua)' },
+      { label: 'Velocidades', value: '6' },
+      { label: 'Potencia total', value: '~75 W (35W motor + 40W LED, según infographic)' },
+      { label: 'Luz LED', value: '3 temperaturas (6000K / 4000K / 2700K)' },
+      { label: 'Dimmer', value: 'Sí' },
+      { label: 'Modo noche', value: 'Sí' },
+      { label: 'Temporizador', value: '2H / 4H (1H según descripción, no visible en remote)' },
+      { label: 'Control remoto', value: 'Incluido' },
+      { label: 'Wi-Fi / App', value: 'No' },
+      { label: 'Eficiencia energética', value: 'A+' },
+      { label: 'Color estructura', value: 'Blanco' },
+    ],
+    faq: [
+      { question: '¿El Iluma Zenith tiene motor DC o AC?', answer: 'Tiene motor DC (corriente continua). El vendedor lo especifica en la descripción como "DC corriente continua". Los motores DC tienen menor consumo y generalmente menos ruido que los AC, aunque el nivel exacto de dB no aparece en la ficha técnica.' },
+      { question: '¿Las aspas son realmente reversibles?', answer: 'Sí. El campo "Con aspas reversibles: Sí" está confirmado en la ficha de ML, y el control remoto tiene un botón de "inversión positiva" para cambiar la dirección. Modo verano empuja el aire hacia abajo; modo invierno lo recircula hacia arriba.' },
+      { question: '¿Funciona en redes de 60Hz?', answer: 'Sí. La ficha técnica especifica "Frecuencia: 50Hz / 60Hz", por lo que es compatible con la frecuencia eléctrica de cualquier zona de Argentina.' },
+      { question: '¿Cuántas temperaturas de luz tiene?', answer: 'Tres según los infographics del producto: luz fría (~6000K), neutra (~4000K) y cálida (~2700K). El control remoto tiene botones para 3000K y 6500K como extremos, con dimmer para graduar la intensidad. Verificar con el vendedor si los tres presets son ajustes separados o si la temperatura neutra requiere dimmer.' },
+      { question: '¿Tiene temporizador?', answer: 'Sí, aunque hay una discrepancia: la descripción menciona 1H, 2H y 4H, pero los botones visibles en el control remoto muestran solo 2H y 4H. Consultar al vendedor si el temporizador de 1 hora está disponible.' },
+      { question: '¿Qué diferencia hay entre el Iluma Zenith y el Novohome NH-VTR?', answer: 'El Novohome cuesta $23.000 más pero tiene 717 reseñas y 4.8⭐. Ambos tienen 1,07m de diámetro y motor silencioso. El Novohome especifica hasta 33dB de ruido; el Iluma no tiene datos de ruido en la ficha. Si el presupuesto lo permite, el Novohome tiene mejor respaldo de compradores reales. Si el precio es el límite, el Iluma tiene specs equivalentes en papel.' },
+      { question: '¿Tiene control por aplicación o Wi-Fi?', answer: 'No. El campo "Con Wi-Fi: No" está confirmado en la ficha de ML. El control es exclusivamente por control remoto físico.' },
+      { question: '¿Para qué tamaño de habitación es adecuado?', answer: 'Para ambientes de hasta 18–20m² con altura de techo estándar (2,4–2,7m). Con 1,07m de diámetro es similar al Novohome. Para habitaciones más grandes, el Etheos (1,2m) o el Peabody serían más adecuados.' },
+    ],
+    relatedProducts: ['MLA54423759', 'MLA43536904', 'MLA44033885'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Ventilador de Techo Retráctil Iluma Zenith ZENITH40W',
+      description: 'Ventilador de techo retráctil con 4 aspas de acrílico transparente, motor DC silencioso, aspas reversibles (modo verano/invierno), luz LED tricolor con dimmer, 6 velocidades, eficiencia energética A+ y compatibilidad 50Hz/60Hz.',
+      brand: { '@type': 'Brand', name: 'Iluma' },
+      model: 'ZENITH40W',
+      sku: 'MLA66266614',
+      category: 'Ventiladores de techo retráctiles',
+      color: 'Blanco',
+      material: 'Acrílico / Metal',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_688098-MLA108240437451_032026-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA66266614',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '90000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2j5EPn1',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.3',
+        reviewCount: '4',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA521391764',
