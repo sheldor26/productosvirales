@@ -45,10 +45,6 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@productosvirales",
   },
-  icons: {
-    icon: "/favicon.ico",
-    apple: "/apple-touch-icon.png",
-  },
   alternates: {
     canonical: process.env.NEXT_PUBLIC_SITE_URL || "https://productosvirales.com.ar",
   },

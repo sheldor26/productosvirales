@@ -34,11 +34,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       locale: "es_AR",
       publishedTime: guide.publishedDate,
       modifiedTime: guide.updatedDate,
+      images: [
+        {
+          url: "/opengraph-image",
+          width: 1200,
+          height: 630,
+          alt: guide.ogTitle || guide.seoTitle,
+        },
+      ],
     },
     twitter: {
       card: "summary_large_image",
       title: guide.ogTitle || guide.seoTitle,
       description: guide.ogDescription || guide.metaDescription,
+      images: ["/opengraph-image"],
     },
   };
 }
@@ -57,6 +66,7 @@ export default async function GuidePage({ params }: Props) {
     "@type": "Article",
     headline: guide.title,
     description: guide.metaDescription,
+    image: "https://productosvirales.com.ar/opengraph-image.png",
     datePublished: guide.publishedDate,
     dateModified: guide.updatedDate,
     author: {
@@ -103,6 +113,35 @@ export default async function GuidePage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
         />
       )}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Inicio",
+                item: "https://productosvirales.com.ar",
+              },
+              {
+                "@type": "ListItem",
+                position: 2,
+                name: "Guías",
+                item: "https://productosvirales.com.ar/guias",
+              },
+              {
+                "@type": "ListItem",
+                position: 3,
+                name: guide.title,
+                item: `https://productosvirales.com.ar/guias/${guide.slug}`,
+              },
+            ],
+          }),
+        }}
+      />
       <GuideRenderer guide={guide} />
     </>
   );

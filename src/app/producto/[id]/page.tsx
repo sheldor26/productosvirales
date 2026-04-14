@@ -82,12 +82,21 @@ export default async function ProductPage({ params }: Props) {
     name: product.title,
     description: product.description,
     image: product.image,
+    sku: product.id,
+    brand: {
+      "@type": "Brand",
+      name: product.category,
+    },
     offers: {
       "@type": "Offer",
       url: product.affiliateUrl,
       priceCurrency: product.currency,
       price: product.price,
       availability: "https://schema.org/InStock",
+      seller: {
+        "@type": "Organization",
+        name: "MercadoLibre Argentina",
+      },
     },
   };
 

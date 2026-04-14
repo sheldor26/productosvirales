@@ -1,0 +1,22 @@
+# ProductosVirales.com.ar
+
+## About
+ProductosVirales is a curated product discovery platform for MercadoLibre Argentina. We showcase trending and viral products, publish buying guides with honest comparisons, and help Argentine consumers find the best deals on products that are popular on TikTok and social media.
+
+## Content Types
+- Product pages: Individual product reviews with prices, pros/cons, specs, and FAQ
+- Buying guides: In-depth comparisons (e.g., "Best massagers in Argentina 2026")
+- Category pages: Curated collections by category (Home, Kitchen, Beauty, Tech, Fitness, Fashion)
+- Trending page: Products currently trending on MercadoLibre and TikTok
+
+## Key Topics
+- Viral products from TikTok and social media available on MercadoLibre Argentina
+- Product comparisons with real prices in Argentine Pesos (ARS)
+- Buying guides for Argentine consumers
+- Trending deals and offers on MercadoLibre
+
+## Language
+Spanish (Argentina)
+
+## Contact
+Website: https://productosvirales.com.ar

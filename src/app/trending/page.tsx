@@ -39,6 +39,13 @@ export default function TrendingPage() {
         <p className="mt-2 text-sm text-[var(--text-muted)]">
           Lo que todos están buscando y comprando ahora mismo
         </p>
+        <p className="mt-3 text-sm text-[var(--text-secondary)] max-w-2xl leading-relaxed">
+          Actualizamos esta selección todos los días con los productos que más
+          se buscan en MercadoLibre Argentina. Usamos datos reales de ventas,
+          búsquedas y tendencias de TikTok para mostrarte lo que realmente
+          está explotando. Si un producto está acá, es porque miles de personas
+          lo están comprando ahora mismo.
+        </p>
       </div>
 
       <TrendingBar />

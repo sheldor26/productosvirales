@@ -43,6 +43,7 @@ export default async function Home() {
             "@type": "Organization",
             name: "ProductosVirales",
             url: "https://productosvirales.com.ar",
+            logo: "https://productosvirales.com.ar/opengraph-image.png",
             description: "Curador de productos virales y trending de MercadoLibre Argentina",
             sameAs: [],
           }),
