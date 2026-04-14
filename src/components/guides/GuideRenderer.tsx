@@ -234,12 +234,23 @@ export function GuideRenderer({ guide }: GuideRendererProps) {
 
       {/* Meta */}
       <p className="text-sm text-[var(--text-muted)] mb-6">
-        Actualizado{" "}
-        {new Date(guide.updatedDate).toLocaleDateString("es-AR", {
-          year: "numeric",
+        Publicado el{" "}
+        {new Date(guide.publishedDate).toLocaleDateString("es-AR", {
+          day: "numeric",
           month: "long",
-        })}{" "}
-        · productosvirales.com.ar
+          year: "numeric",
+        })}
+        {guide.updatedDate !== guide.publishedDate && (
+          <>
+            {" · Actualizado el "}
+            {new Date(guide.updatedDate).toLocaleDateString("es-AR", {
+              day: "numeric",
+              month: "long",
+              year: "numeric",
+            })}
+          </>
+        )}
+        {" · productosvirales.com.ar"}
       </p>
 
       {/* Disclosure */}

@@ -6,8 +6,19 @@ ProductosVirales is a curated product discovery platform for MercadoLibre Argent
 ## Content Types
 - Product pages: Individual product reviews with prices, pros/cons, specs, and FAQ
 - Buying guides: In-depth comparisons (e.g., "Best massagers in Argentina 2026")
-- Category pages: Curated collections by category (Home, Kitchen, Beauty, Tech, Fitness, Fashion)
+- Category pages: Curated collections by category (Home, Kitchen, Beauty, Tech)
 - Trending page: Products currently trending on MercadoLibre and TikTok
+
+## Categories
+- Hogar: https://productosvirales.com.ar/categoria/hogar
+- Cocina: https://productosvirales.com.ar/categoria/cocina
+- Tech: https://productosvirales.com.ar/categoria/tech
+- Belleza: https://productosvirales.com.ar/categoria/belleza
+
+## Key Guides
+- Masajeadores: https://productosvirales.com.ar/guias/mejores-masajeadores-argentina
+- Pavas eléctricas: https://productosvirales.com.ar/guias/pava-electrica-mercadolibre
+- Dónde comprar masajeador: https://productosvirales.com.ar/guias/masajeador-donde-comprar-argentina
 
 ## Key Topics
 - Viral products from TikTok and social media available on MercadoLibre Argentina
@@ -15,8 +26,16 @@ ProductosVirales is a curated product discovery platform for MercadoLibre Argent
 - Buying guides for Argentine consumers
 - Trending deals and offers on MercadoLibre
 
+## About Our Content
+- All prices in ARS, updated regularly
+- Honest reviews including cons, not just pros
+- Affiliate disclosure on every guide (hasDisclosure)
+- First-person experiential content (we test what we recommend)
+
 ## Language
 Spanish (Argentina)
 
 ## Contact
 Website: https://productosvirales.com.ar
+Email: hola@productosvirales.com.ar
+Sitemap: https://productosvirales.com.ar/sitemap.xml

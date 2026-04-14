@@ -12,7 +12,6 @@ interface Props {
 export function generateStaticParams() {
   return curatedProducts
     .filter((p) => p.visibility !== "deprioritized")
-    .slice(0, 50)
     .map((p) => ({ id: p.id }));
 }
 

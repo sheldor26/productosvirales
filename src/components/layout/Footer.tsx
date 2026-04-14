@@ -99,13 +99,32 @@ export function Footer() {
             </h4>
             <ul className="space-y-2">
               <li>
-                <span className="text-sm text-[var(--text-muted)]">
-                  Sitio afiliado a MercadoLibre
-                </span>
+                <Link
+                  href="/sobre-nosotros"
+                  className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                >
+                  Sobre nosotros
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/privacidad"
+                  className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                >
+                  Privacidad
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/terminos"
+                  className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                >
+                  Términos
+                </Link>
               </li>
               <li>
                 <span className="text-sm text-[var(--text-muted)]">
-                  No somos vendedores
+                  Sitio afiliado a MercadoLibre
                 </span>
               </li>
             </ul>

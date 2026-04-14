@@ -34,20 +34,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       locale: "es_AR",
       publishedTime: guide.publishedDate,
       modifiedTime: guide.updatedDate,
-      images: [
-        {
-          url: "/opengraph-image",
-          width: 1200,
-          height: 630,
-          alt: guide.ogTitle || guide.seoTitle,
-        },
-      ],
     },
     twitter: {
       card: "summary_large_image",
       title: guide.ogTitle || guide.seoTitle,
       description: guide.ogDescription || guide.metaDescription,
-      images: ["/opengraph-image"],
     },
   };
 }
@@ -70,9 +61,9 @@ export default async function GuidePage({ params }: Props) {
     datePublished: guide.publishedDate,
     dateModified: guide.updatedDate,
     author: {
-      "@type": "Organization",
-      name: "Productos Virales",
-      url: "https://productosvirales.com.ar",
+      "@type": "Person",
+      name: "Equipo ProductosVirales",
+      url: "https://productosvirales.com.ar/sobre-nosotros",
     },
     publisher: {
       "@type": "Organization",

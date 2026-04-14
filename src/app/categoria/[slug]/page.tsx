@@ -82,6 +82,28 @@ export default async function CategoryPage({ params }: Props) {
           }),
         }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            name: category.h1 || category.name,
+            description: category.description,
+            url: `https://productosvirales.com.ar/categoria/${slug}`,
+            mainEntity: {
+              "@type": "ItemList",
+              numberOfItems: products.length,
+              itemListElement: products.slice(0, 20).map((p, i) => ({
+                "@type": "ListItem",
+                position: i + 1,
+                url: `https://productosvirales.com.ar/producto/${p.id}`,
+                name: p.title,
+              })),
+            },
+          }),
+        }}
+      />
 
       {/* Category hero */}
       <div
