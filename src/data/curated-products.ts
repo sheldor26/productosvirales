@@ -7322,20 +7322,20 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
   },
   {
     id: 'MLA61505857',
-    title: "Pava Eléctrica Acero Inoxidable 1,7 L AP152 Liliana",
+    title: 'Liliana AP152: pava eléctrica de acero con selector mate',
     badge: 'hot-deal',
-    relatedProducts: ['MLA8933826', 'MLA49747515', 'MLA24601443', 'MLA54152343'],
+    relatedProducts: ['MLA47275624', 'MLA14263533', 'MLA24601443', 'MLA49747515'],
     price: 31999,
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_819670-MLA100005503771_122025-F.webp',
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_819670-MLA100005503771_122025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_858086-MLA99493515817_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_636070-MLA99493168735_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_682349-MLA99492751457_112025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_783907-MLA99492721423_112025-F.webp"
-      ],
+      'https://http2.mlstatic.com/D_NQ_NP_2X_819670-MLA100005503771_122025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_858086-MLA99493515817_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_636070-MLA99493168735_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_682349-MLA99492751457_112025-F.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_2X_783907-MLA99492721423_112025-F.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-acero-inoxidable-17-l-ap152-liliana/p/MLA61505857',
@@ -7343,9 +7343,135 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
-    soldQuantity: 1000,
+    soldQuantity: 298,
     pastelColor: 'var(--pastel-coral)',
-    description: "PAVA ELÉCTRICA AP152 - DISEÑO PREMIUM Y FUNCIONALIDAD\nElegante, segura y de alto rendimiento\n\nDESTACADOS:\nCuerpo de acero inoxidable con acabado mate premium\nCorte automático al hervir + protección contra sobrecalentamiento\nTapa con seguro y base giratoria 360° para máxima comodidad\n1.7L de capacida",
+    description: 'Pava eléctrica Liliana AP152: cuerpo de acero inoxidable, 1.7L, 1500W, selector de 2 modos (agua para mate y hervir), corte automático, cable extraíble, base giratoria 360°, eficiencia Clase A. La más económica del cluster de pavas. 4.7⭐ con 298 calificaciones.',
+    pros: [
+      '$31.999 — precio más bajo del cluster de pavas',
+      'Cuerpo de acero inoxidable completo',
+      'Selector "Agua para mate" con botón físico etiquetado',
+      '1.7L — alcanza para 6-8 mates',
+      'Cable extraíble — fácil de guardar',
+      'Base giratoria 360°',
+      'Eficiencia energética Clase A',
+      'Solo 1.1 kg de peso',
+    ],
+    cons: [
+      '⚠️ Ficha oficial dice "sin función mate" pero el manual muestra el botón',
+      '1500W — hierve 1-2 min más lento que modelos de 2200W',
+      'Sin display digital ni control continuo de temperatura',
+      'Sin keep warm',
+      '⚠️ Inconsistencia sobre filtro: ficha dice "sin filtro", vendedor dice "removible"',
+    ],
+    verdict: 'La Liliana AP152 es la pava más accesible del cluster ($31.999) y tiene un detalle que la separa del resto: un botón físico etiquetado "Agua para mate" en la base. Los compradores confirman en las reseñas que calienta el agua a la temperatura justa. Si querés acero inoxidable con selector dedicado para mate sin pagar pantallas digitales ni control continuo, es la opción concreta.',
+    seoTitle: 'Liliana AP152: pava eléctrica de acero con selector mate',
+    metaDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector "Agua para mate", corte automático y cable extraíble. La más económica del cluster. $31.999 en ML.',
+    ogTitle: 'Liliana AP152: pava eléctrica de acero con selector mate',
+    ogDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector Agua para mate, corte automático y cable extraíble. La más económica del cluster. $31.999.',
+    h1: 'Liliana AP152: pava eléctrica de acero con selector para agua de mate',
+    articleBody: `La Liliana AP152 es la pava más accesible del cluster en precio ($31.999) y tiene un detalle que la separa del resto: en la base hay dos botones con indicadores de luz, uno etiquetado "Agua para mate" y otro "Hervir". Lo dice el diagrama del manual incluido en el listing.
+
+La ficha técnica de MercadoLibre lista "Con función mate: No", pero el manual del producto contradice ese dato. El botón existe y está etiquetado. Los compradores lo confirman en las reseñas: el resumen de opiniones destaca específicamente que "tiene una opción específica para mate que calienta el agua a la temperatura justa".
+
+## El selector de dos modos
+
+En la base de la pava hay tres controles: un indicador luminoso verde (agua para mate), el switch de encendido/apagado en el centro, y un indicador naranja/rojo (hervir). La diferencia entre los dos modos es de temperatura: el modo mate no lleva el agua a 100°C — se detiene en una temperatura menor, compatible con el rango de 70–80°C que los mateadores argentinos conocen bien.
+
+El valor exacto de la temperatura del modo mate no está especificado en la ficha técnica. Los compradores que lo mencionan en las reseñas dicen que "calienta a la temperatura justa". Para saber el valor exacto, el manual físico o la descripción extendida del vendedor son la fuente más confiable.
+
+Ninguna otra pava del cluster tiene un botón físico con esa etiqueta. El [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40–100°C (más preciso, más caro). La [Philips HD9396](/producto/MLA47183370) tiene 6 niveles de temperatura (también más preciso, también más caro). La AP152 tiene un selector dedicado sin precisión de grado — más simple, más directo.
+
+## Acero inoxidable y 1.7L
+
+El cuerpo es acero inoxidable. La capacidad es 1.7L — alcanza para 6 a 8 mates según el listing. El peso es 1.1 kg, más liviana que los modelos de mayor potencia del cluster.
+
+La eficiencia energética es Clase A. La base giratoria permite retirar la jarra desde cualquier ángulo. La tapa tiene seguro y botón de apertura.
+
+## 1500W: qué significa en la práctica
+
+La potencia de la AP152 es 1500W, mientras que los otros modelos del cluster (Philips, Peabody) son 2200W. En tiempo real: la AP152 tarda aproximadamente 3–4 minutos en hervir 1.7L de agua. Los modelos de 2200W tardan 2–3 minutos para el mismo volumen.
+
+Para uso doméstico normal — una ronda de mates, un té, un café — esa diferencia de 1–2 minutos no es crítica. Si el uso es intensivo (oficina, muchas personas, varias rondas seguidas), los modelos de 2200W tienen ventaja.
+
+## Cable extraíble y sistema antigoteo
+
+El cable de alimentación es extraíble. Esto facilita el almacenamiento y limita el enredo de cables en la mesada. El listing menciona también sistema antigoteo en el pico — un detalle práctico que no todos los modelos del cluster especifican.
+
+El filtro: la ficha técnica dice "Con filtro: No". La descripción del vendedor menciona "Filtro removible para fácil mantenimiento". Antes de comprar, vale verificar con el vendedor si el filtro está incluido o si es un dato del vendedor que no coincide con la especificación oficial.
+
+## $31.999 y el contexto del cluster
+
+La AP152 es la pava más accesible del cluster. Para quien necesita agua caliente para mate sin pantallas ni configuraciones, y quiere acero inoxidable con un botón dedicado para la temperatura del mate, es una opción concreta. Para quien necesita keep warm, control preciso de temperatura o más potencia, los modelos Peabody y Philips del sitio cubren eso a mayor precio.`,
+    specs: [
+      { label: 'Marca', value: 'Liliana' },
+      { label: 'Modelo', value: 'AP152' },
+      { label: 'Color', value: 'Acero' },
+      { label: 'Material', value: 'Acero inoxidable' },
+      { label: 'Capacidad', value: '1.7L' },
+      { label: 'Potencia', value: '1.500W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Modos de temperatura', value: '2 (agua para mate / hervir)' },
+      { label: 'Cable', value: 'Extraíble' },
+      { label: 'Base giratoria', value: 'Sí — 360°' },
+      { label: 'Tapa con seguro', value: 'Sí' },
+      { label: 'Corte automático', value: 'Sí' },
+      { label: 'Protección sobrecalentamiento', value: 'Sí' },
+      { label: 'Sistema antigoteo', value: 'Sí' },
+      { label: 'Eficiencia energética', value: 'Clase A' },
+      { label: 'Peso', value: '1.1 kg' },
+      { label: 'Rating', value: '4.7 ⭐ (298 calificaciones — 188 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿La Liliana AP152 tiene función mate?',
+        answer:
+          'El manual del producto muestra un botón físico etiquetado "Agua para mate" en la base. La ficha técnica de MercadoLibre lista "Con función mate: No", pero las reseñas de compradores confirman que el selector calienta el agua a la temperatura adecuada para el mate.',
+      },
+      {
+        question: '¿A qué temperatura calienta el agua en modo mate?',
+        answer:
+          'El manual no especifica el valor exacto. El rango ideal para el mate es 70–80°C. Según las reseñas, el modo mate entrega el agua "a la temperatura justa", pero si necesitás control de temperatura preciso con lectura digital, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40 a 100°C.',
+      },
+      {
+        question: '¿Por qué la potencia es 1500W y no 2200W como otros modelos?',
+        answer:
+          'El AP152 usa 1500W, lo que significa 3–4 minutos para hervir 1.7L en lugar de los 2–3 minutos de los modelos de 2200W. Para una ronda de mates en casa esa diferencia es menor. Si el uso es intensivo, los modelos [Philips HD9396](/producto/MLA47183370) o [Peabody PE-DK1850](/producto/MLA14263533) ofrecen más potencia.',
+      },
+      {
+        question: '¿El cable es extraíble del cuerpo de la pava?',
+        answer:
+          'Sí. La descripción del producto especifica "cable de alimentación extraíble". Esto facilita guardar la pava sin el cable enroscado alrededor.',
+      },
+      {
+        question: '¿Tiene filtro?',
+        answer:
+          'La ficha técnica dice "Con filtro: No". La descripción del vendedor menciona "Filtro removible para fácil mantenimiento". Hay una inconsistencia entre ambos — conviene confirmar con el vendedor antes de comprar.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Pava Eléctrica Liliana AP152 Acero Inoxidable 1.7L',
+      description:
+        'Pava eléctrica Liliana AP152: cuerpo de acero inoxidable, 1.7L, 1500W, selector de 2 modos (agua para mate y hervir), corte automático, cable extraíble, base giratoria 360° y eficiencia energética Clase A.',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      model: 'AP152',
+      color: 'Acero',
+      material: 'Acero inoxidable',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1QMfKob',
+        priceCurrency: 'ARS',
+        price: 31999,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '298',
+      },
+    },
   },
   {
     id: 'MLA8933826',
