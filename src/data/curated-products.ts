@@ -3072,7 +3072,8 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
   },
   {
     id: 'MLA46927234',
-    title: 'Astronauta Proyector Galaxia Estrellas Musica Parlante Mti Estructura Blanco Pantalla Blanco',
+    title: 'Proyector Oso Astronauta MTI 731 — 82 Modos y Galaxia BT',
+    badge: 'trending',
     price: 20999,
     originalPrice: 45000,
     currency: 'ARS',
@@ -3084,7 +3085,7 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
       'https://http2.mlstatic.com/D_NQ_NP_2X_931390-MLA109740442043_032026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_716228-MLA109740442049_032026-F.webp',
     ],
-    category: 'Hogar, Muebles y Jardín',
+    category: 'Hogar',
     categorySlug: 'hogar',
     permalink: 'https://www.mercadolibre.com.ar/astronauta-proyector-galaxia-estrellas-musica-parlante-mti-estructura-blanco-pantalla-blanco/p/MLA46927234',
     affiliateUrl: 'https://meli.la/2B4xZPY',
@@ -3093,7 +3094,150 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
     rating: 4.7,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
-    description: 'Descubre el fascinante \'Astronauta Proyector Galaxia Estrellas Música Parlante Mti\', un dispositivo que transforma cualquier habitación en un espectáculo celestial. Este proyector de diseño innovador cuenta con una fuente de luz LED que no solo es eficiente, sino que también ofrece una experiencia',
+    description: 'Proyector oso astronauta de pie MTI 731 con 82 efectos de luz, parlante Bluetooth, lente de vidrio, rotación 360°, timer 30/60/120 min y USB Type-C. Aurora boreal, nebulosa, estrellas y luna en el techo. Incluye control remoto y stickers. 4.7⭐ con 415 calificaciones — el mayor volumen del cluster astronauta.',
+    pros: [
+      '4.7⭐ con 415 calificaciones y 219 comentarios — mayor volumen del cluster',
+      '82 efectos de luz — 10x más que los otros proyectores del sitio',
+      'Incluye aurora boreal, nebulosa, estrellas y proyección de luna',
+      'Lente de vidrio — mejor transmisión óptica',
+      'Timer 30/60/120 min — la opción de 30 min es práctica para chicos',
+      '53% OFF — de $45.000 a $20.999',
+      'Cable USB Type-C — estándar moderno',
+      'Rotación magnética 360° desde el control remoto',
+    ],
+    cons: [
+      'Precio más alto del cluster astronauta ($20.999)',
+      'No incluye adaptador USB de pared',
+      '⚠️ Pilas del control remoto: no especificado si vienen incluidas',
+      'Lista completa de los 82 efectos no documentada en ficha',
+    ],
+    verdict: 'De todos los proyectores astronauta del sitio, este es el que tiene más efectos de luz. Los otros modelos tienen entre 6 y 8 modos. Este tiene 82 — incluye aurora boreal, nebulosa, estrellas, luna y transiciones que los otros no tienen. Es el oso de pie MTI 731 (19cm, vs el 730 sentado de 20cm). Si la variedad de efectos importa, este es el modelo. Si el precio importa más, el MTI 730 hace lo básico por menos plata.',
+    seoTitle: 'Proyector oso astronauta MTI 731 — 82 modos y galaxia BT',
+    metaDescription: 'Proyector oso astronauta MTI 731: 82 efectos de luz, Bluetooth, lente de vidrio, timer 30/60/120 min y rotación 360°. Aurora y galaxia de estrellas en el techo.',
+    ogTitle: 'Proyector oso astronauta MTI 731 — 82 modos y galaxia BT',
+    ogDescription: 'Proyector oso astronauta MTI 731: 82 efectos de luz, Bluetooth, lente de vidrio, timer 30/60/120 min y rotación 360°. Aurora y galaxia de estrellas en el techo.',
+    h1: 'Proyector oso astronauta MTI 731: 82 efectos de luz, Bluetooth y timer de 30 minutos',
+    articleBody: `De todos los proyectores astronauta del sitio, el MTI 731 es el que tiene más efectos de luz. Los otros modelos del cluster tienen entre 6 y 8 modos. Este tiene 82. No es una diferencia menor: 82 significa que hay combinaciones de aurora boreal, nebulosa, estrellas, luna y mezclas de colores que los otros modelos no tienen.
+
+El diseño es un oso de pie con traje de astronauta, blanco, 19cm de alto. La lente del casco es de vidrio. El cable incluido es USB Type-C. Con 415 calificaciones y 4.7 estrellas, tiene el mayor volumen de reseñas del cluster.
+
+## Los 82 efectos: qué es lo que cambia
+
+En la mayoría de los proyectores de galaxia del mercado, los "modos" son variaciones de color sobre un mismo patrón: nebulosa en rojo, en azul, en verde, multicolor. Eso es lo que tienen el Geotek y el Dakota, que funcionan con 6 a 8 combinaciones.
+
+El MTI 731 suma efectos que los otros no tienen: aurora boreal (la luz que se extiende como cortinas sobre el techo), proyección de luna, y transiciones entre modos. Las imágenes del listing muestran habitaciones con efectos que claramente son más complejos que los de los otros modelos del cluster.
+
+El número exacto de los 82 efectos no está desglosado en la ficha técnica. Lo que sí se confirma en las imágenes: hay al menos cuatro escenas distintas visibles (interior, dormitorio, fiesta de cumpleaños, reunión familiar), cada una con una combinación de luces diferente.
+
+## El oso de pie y el visor de vidrio
+
+El MTI 731 está de pie, no sentado. El cuerpo tiene articulación visual en los brazos y las orejas del casco están separadas, cada una con un módulo de proyección distinto. El visor frontal del casco es la lente principal, hecha de vidrio — no acrílico ni plástico.
+
+La diferencia con el MTI 730 es física: el 730 está sentado (20cm), el 731 está de pie (19cm). Si el lugar donde lo ponés tiene espacio vertical, la postura de pie proyecta el haz desde un ángulo levemente más alto.
+
+## Timer de 30 minutos
+
+El control remoto tiene tres opciones de apagado automático: 30 min, 60 min y 120 min. La opción de 30 minutos es práctica para dormitorios de niños: el proyector se apaga solo sin que nadie tenga que levantarse. Los otros modelos del cluster también tienen 30 min (compartido con el MTI 730). El Geotek tiene solo 40 y 90 min, el Dakota tiene 1H y 2H.
+
+## Bluetooth y el control remoto
+
+El cuerpo tiene bocina Bluetooth integrada. Se conecta al celular para reproducir música mientras la proyección corre. El control remoto maneja la iluminación, el volumen, la rotación de la base y el timer.
+
+La potencia de la bocina no está especificada en la ficha. La base gira 360 grados para orientar la proyección hacia cualquier parte de la habitación. La rotación se controla desde el remoto.
+
+## USB Type-C y la fuente de alimentación
+
+El cable incluido es USB Type-C. El proyector funciona con 5V DC — se conecta a cualquier cargador con salida USB. No tiene batería interna: necesita estar enchufado para funcionar.
+
+El adaptador de corriente NO viene incluido en la caja. Se necesita un cargador USB disponible.
+
+## Qué viene en la caja y qué no
+
+Incluye: 1 proyector oso astronauta MTI 731, 1 cable USB Type-C, 1 control remoto, 1 plancha de stickers, 1 manual de instrucciones.
+
+No incluye: adaptador de corriente USB. Pilas del control remoto: no especificado en el listing — verificar antes de comprar.
+
+## Diferencias con el MTI 730
+
+Si estás comparando los dos modelos MTI del sitio: el MTI 730 (oso sentado, 20cm, $14.259) tiene menos efectos de luz pero tiene el mismo timer y la misma lente de vidrio. Es más barato y tiene mayor rating (4.8 vs 4.7), aunque con menos reseñas (298 vs 415).
+
+El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativamente más que el 730 — y el mayor volumen de reseñas del cluster. Cuesta más, pero los 82 modos son una diferencia concreta si la variedad de efectos importa.`,
+    specs: [
+      { label: 'Marca', value: 'MTI' },
+      { label: 'Modelo', value: '731' },
+      { label: 'Diseño', value: 'Oso astronauta de pie' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Dimensiones', value: '19 × 12 × 12 cm' },
+      { label: 'Material lente', value: 'Vidrio' },
+      { label: 'Material cuerpo', value: 'Plástico ABS' },
+      { label: 'Efectos de luz', value: '82 (aurora, nebulosa, estrellas, luna)' },
+      { label: 'Voltaje', value: '5V DC' },
+      { label: 'Cable', value: 'USB Type-C (incluido)' },
+      { label: 'Adaptador', value: 'NO incluido' },
+      { label: 'Parlante', value: 'Bluetooth estéreo integrado' },
+      { label: 'Rotación', value: '360° magnética' },
+      { label: 'Timer', value: '30 / 60 / 120 minutos' },
+      { label: 'Control remoto', value: 'Sí — con color, volumen, rotación, timer' },
+      { label: 'Contenido caja', value: 'Proyector + cable USB-C + remoto + stickers + manual' },
+      { label: 'Rating', value: '4.7 ⭐ (415 calificaciones — 219 comentarios)' },
+    ],
+    faq: [
+      {
+        question: '¿Cuántos modos de luz tiene el MTI 731?',
+        answer:
+          '82 efectos de iluminación. Incluye aurora boreal, nebulosa, estrellas, luna y combinaciones de colores. Es el proyector con más efectos del cluster astronauta del sitio.',
+      },
+      {
+        question: '¿Viene con adaptador de corriente?',
+        answer:
+          'No. En la caja viene el cable USB Type-C pero no el adaptador. Cualquier cargador USB con salida de 5V funciona — un cargador de celular estándar es suficiente.',
+      },
+      {
+        question: '¿Las pilas del control remoto están incluidas?',
+        answer:
+          'El listing no lo especifica. Vale confirmar con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿Qué diferencia tiene con el MTI 730?',
+        answer:
+          'El MTI 730 es el oso sentado (20cm), tiene menos efectos de luz y cuesta menos ($14.259 vs $20.999). El MTI 731 es el oso de pie (19cm), tiene 82 efectos y mayor volumen de reseñas (415 vs 298).',
+      },
+      {
+        question: '¿Se puede usar sin Bluetooth?',
+        answer:
+          'Sí. El Bluetooth es solo para música. La proyección de luz funciona de forma independiente sin conectar ningún dispositivo.',
+      },
+      {
+        question: '¿Para qué espacios funciona mejor?',
+        answer:
+          'En dormitorios oscuros los 82 efectos se ven con más contraste. El timer de 30 minutos lo hace práctico para dormitorios de niños. Las imágenes del listing también muestran uso en sala, cumpleaños y reuniones.',
+      },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Proyector Oso Astronauta 82 Modos Galaxia MTI 731',
+      description:
+        'Proyector oso astronauta de pie con 82 efectos de luz, parlante Bluetooth, lente de vidrio, rotación 360°, timer 30/60/120 min y USB Type-C. Incluye control remoto y stickers.',
+      brand: { '@type': 'Brand', name: 'MTI' },
+      model: '731',
+      color: 'Blanco',
+      material: 'Plástico ABS / Lente de vidrio',
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2B4xZPY',
+        priceCurrency: 'ARS',
+        price: 20999,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '415',
+      },
+    },
+    relatedProducts: ['MLA2729985625', 'MLA521391764', 'MLA45675149'],
   },
   {
     id: 'MLA62915210',
