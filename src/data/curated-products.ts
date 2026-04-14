@@ -6413,7 +6413,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
       {
         question: '¿Se puede usar para el mate?',
         answer:
-          'La pava hierve a 100°C y se corta. Para mate, la temperatura ideal es entre 70°C y 80°C — por lo que hay que esperar que el agua baje unos minutos o agregar un chorrito de agua fría antes de cebar.',
+          'La pava hierve a 100°C y se corta. Para mate, la temperatura ideal es entre 70°C y 80°C — hay que esperar que baje o agregar un chorrito de agua fría. Para control preciso de temperatura con función mate explícita, mirá la [Oster BVSTKT4970W](/producto/MLA11145436) o el [Peabody PE-DK2200N](/producto/MLA47275624).',
       },
       {
         question: '¿Cuántas tazas rinde?',
@@ -6433,7 +6433,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
       {
         question: '¿Cuál es la diferencia con la Oster BVSTKT4970W?',
         answer:
-          'La Oster tiene control de temperatura variable y función mate. La ATMA tiene interior de acero inoxidable pero solo hierve a 100°C sin control intermedio. La Oster es plástico interior; la ATMA es acero inoxidable interior.',
+          'La [Oster](/producto/MLA11145436) tiene control de temperatura variable y función mate. La ATMA tiene interior de acero inoxidable pero solo hierve a 100°C sin control intermedio. La Oster es plástico interior; la ATMA es acero inoxidable interior. Si querés ambas cosas (acero + control de temp), mirá el [Peabody PE-DK2200N](/producto/MLA47275624).',
       },
     ],
     structuredData: {
@@ -6570,7 +6570,7 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
       {
         question: '¿La Philips HD9350 tiene función mate?',
         answer:
-          'No. Corta automáticamente a 100°C, que es demasiado caliente para el mate. Podés apagar antes del hervor o esperar que baje. Para control de temperatura, la Oster BVSTKT4970W tiene selector analógico con función mate.',
+          'No. Corta automáticamente a 100°C, que es demasiado caliente para el mate. Podés apagar antes del hervor o esperar que baje. Para control de temperatura, la [Oster BVSTKT4970W](/producto/MLA11145436) tiene selector analógico con función mate, y el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control digital continuo de 40-100°C.',
       },
       {
         question: '¿Qué es el acero SUS304 y por qué importa?',
@@ -6595,7 +6595,7 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
       {
         question: '¿Cuál es la garantía?',
         answer:
-          '2 años de garantía oficial Philips con cobertura a través de la red de service de la marca en Argentina.',
+          '2 años de garantía oficial Philips con cobertura a través de la red de service de la marca en Argentina. Es el período más largo del cluster de pavas — la [Philips HD9396](/producto/MLA47183370) premium también lleva garantía Philips.',
       },
     ],
     structuredData: {
@@ -6704,7 +6704,7 @@ El cuerpo interior es acero inoxidable cepillado con marcas grabadas: MIN 0.5L /
 
 La doble pared cumple dos funciones: el exterior no quema aunque el agua esté a 90°C, y hay algo de aislación térmica que ayuda al keep warm a no trabajar de más.
 
-La ficha especifica Termostato STRIX — el mismo proveedor que usa Philips en la HD9350/90.
+La ficha especifica Termostato STRIX — el mismo proveedor que usa Philips en la [HD9350/90](/producto/MLA24601443) y la [HD9396 premium](/producto/MLA47183370).
 
 ## Lo que hay que saber antes de comprar
 
@@ -6753,17 +6753,17 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
       {
         question: '¿El interior es de acero inoxidable?',
         answer:
-          'Sí. El cuerpo interior es acero inoxidable con marcas de nivel grabadas (0.5L, 1.0L, 1.5L MAX). El elemento térmico es plano y está en el fondo.',
+          'Sí. El cuerpo interior es acero inoxidable con marcas de nivel grabadas (0.5L, 1.0L, 1.5L MAX). Si querés acero con mayor capacidad (1.7L), mirá el [Peabody PE-DK1850](/producto/MLA14263533) o la [Philips HD9350](/producto/MLA24601443).',
       },
       {
         question: '¿La pava puede calentar a 40°C?',
         answer:
-          'Sí. El rango va de 40°C a 100°C. Es la única del cluster que arranca tan bajo — útil para agua tibia para bebés.',
+          'Sí. El rango va de 40°C a 100°C. Es la única del cluster que arranca tan bajo — útil para agua tibia para bebés. Las otras pavas con control de temperatura ([Oster KT4970W](/producto/MLA11145436), [Philips HD9396](/producto/MLA47183370)) arrancan más alto.',
       },
       {
         question: '¿Cuánto tarda en calentar?',
         answer:
-          'Con 2.200W es la pava más potente del cluster. El calentamiento es rápido según los 290 comentarios.',
+          'Con 2.200W es la pava más potente del cluster — junto con la [Philips HD9396](/producto/MLA47183370) y la [Peabody PE-DK1850](/producto/MLA14263533). El calentamiento es rápido según los 290 comentarios.',
       },
     ],
     structuredData: {
@@ -6895,7 +6895,7 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
       {
         question: '¿Qué es la doble pared en la pava Philips HD9396?',
         answer:
-          'Es una capa aislante entre el recipiente interior y el exterior. El exterior no se calienta aunque el agua adentro esté a 90–95°C. Es el único modelo del sitio con esta característica.',
+          'Es una capa aislante entre el recipiente interior y el exterior. El exterior no se calienta aunque el agua adentro esté a 90–95°C. Es la única pava de acero con doble pared en el cluster — la [Liliana Safeheat AP992B](/producto/MLA54152343) también tiene doble pared pero el exterior es plástico.',
       },
       {
         question: '¿Cuántas temperaturas tiene la Philips HD9396?',
@@ -6905,7 +6905,7 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
       {
         question: '¿La pava mantiene el calor después de hervir?',
         answer:
-          'Sí, tiene función de conservación del calor. Philips no especifica un tiempo máximo en la ficha. La Peabody PE-DK2200N especifica 2 horas.',
+          'Sí, tiene función de conservación del calor. Philips no especifica un tiempo máximo en la ficha. El [Peabody PE-DK2200N](/producto/MLA47275624) especifica 2 horas confirmadas de keep warm — el único del cluster con tiempo explícito.',
       },
       {
         question: '¿Dónde está la pantalla?',
@@ -7063,7 +7063,11 @@ El cable sobrante se enrolla bajo la base para que no quede en la mesada.
 
 ## Lo que dicen 1.412 compradores
 
-El resumen de ML sobre 821 comentarios: "rápida y eficaz al calentar el agua, diseño cómodo y sólido, permite regular la temperatura, ideal para preparar té y mate, fácil de limpiar, corte automático que garantiza seguridad". La distribución de calificaciones muestra una base amplia de 5 estrellas con pocas críticas — el promedio de 4.7 sobre este volumen indica consistencia real, no un promedio de pocas calificaciones.`,
+El resumen de ML sobre 821 comentarios: "rápida y eficaz al calentar el agua, diseño cómodo y sólido, permite regular la temperatura, ideal para preparar té y mate, fácil de limpiar, corte automático que garantiza seguridad". La distribución de calificaciones muestra una base amplia de 5 estrellas con pocas críticas — el promedio de 4.7 sobre este volumen indica consistencia real, no un promedio de pocas calificaciones.
+
+## Dónde se ubica en el cluster de pavas
+
+Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40 a 100°C con pantalla LED touch. Si no te importa el control de temperatura y querés acero inoxidable interior sin sabor a plástico, la [ATMA PEAT1351](/producto/MLA49747515) sale $40.739 con 2.368 calificaciones. Si querés el paquete premium completo con doble pared y garantía 2 años, la [Philips HD9396](/producto/MLA47183370) o la [Philips HD9350](/producto/MLA24601443) son las opciones. La Oster ocupa un lugar específico: control de temperatura analógico con función mate explícita y sin complicaciones de display.`,
     specs: [
       { label: 'Marca', value: 'Oster' },
       { label: 'Modelo', value: 'BVSTKT4970W-054' },
@@ -7111,7 +7115,7 @@ El resumen de ML sobre 821 comentarios: "rápida y eficaz al calentar el agua, d
       {
         question: '¿Cuál es la mejor pava eléctrica en Argentina?',
         answer:
-          'Depende del uso. Para quienes toman mate, una pava con control de temperatura variable como esta Oster es la más recomendada porque permite ajustar la temperatura exacta sin hervir el agua.',
+          'Depende del uso. Para mate con control analógico simple, esta Oster. Para control digital preciso (40-100°C con display), [Peabody PE-DK2200N](/producto/MLA47275624). Para acero inoxidable interior sin control de temperatura, [ATMA PEAT1351](/producto/MLA49747515). Para acero completo y durabilidad 5 años, [Philips HD9350](/producto/MLA24601443).',
       },
     ],
     structuredData: {

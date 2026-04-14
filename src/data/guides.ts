@@ -1095,12 +1095,12 @@ export const guides: Guide[] = [
       {
         question: "¿Vale la pena el modelo más caro (HD9396)?",
         answer:
-          "Solo si te importa mucho la estética. Funciona igual que el HD9350 pero cuesta el doble. La diferencia es solo diseño.",
+          "La [HD9396](/producto/MLA47183370) agrega doble pared (exterior no quema) y 6 niveles de temperatura. Si te importa la seguridad con chicos cerca o querés control de temperatura con acero completo, sí vale. Para hervir agua nada más, la [HD9350](/producto/MLA24601443) hace lo mismo por la mitad.",
       },
       {
         question: "¿Philips tiene control de temperatura?",
         answer:
-          "No en los modelos básicos (HD9350, HD9396). Si necesitás control de temperatura, mirá Peabody digital.",
+          "La [HD9350](/producto/MLA24601443) básica no. La [HD9396](/producto/MLA47183370) sí — 6 niveles de 40°C a 100°C. Si querés control digital con más opciones, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo 40-100°C con pantalla LED y keep warm 2h.",
       },
       {
         question: "¿Dónde consigo repuestos para Philips?",
@@ -1120,7 +1120,11 @@ export const guides: Guide[] = [
       { label: "Ver Atma PEAT1351", href: "/producto/MLA49747515" },
       { label: "Ver Peabody digital", href: "/producto/MLA47275624" },
       { label: "Ver Oster con control temp", href: "/producto/MLA11145436" },
+      { label: "Ver Peabody PE-DK1850 acero", href: "/producto/MLA14263533" },
+      { label: "Ver Liliana Mateando AP975B", href: "/producto/MLA8933826" },
       { label: "Pava Atma: mejor calidad-precio argentina", href: "/guias/pava-electrica-atma" },
+      { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
+      { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
@@ -1282,7 +1286,7 @@ export const guides: Guide[] = [
       {
         question: "¿El interior de acero es realmente acero o está pintado?",
         answer:
-          "Es acero inoxidable real en contacto con el agua. No es pintura. El exterior sí es plástico.",
+          "Es acero inoxidable real en contacto con el agua en la [ATMA PEAT1351](/producto/MLA49747515). No es pintura. El exterior sí es plástico. Si querés acero completo (interior y exterior), la [Philips HD9350](/producto/MLA24601443) es la opción del cluster.",
       },
       {
         question: "¿Se puede cambiar la resistencia?",
@@ -1292,7 +1296,7 @@ export const guides: Guide[] = [
       {
         question: "¿Por qué no recomendás el modelo PE0821AP que es más barato?",
         answer:
-          "Porque es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. Por $9.000 más tenés interior de acero que no da sabor.",
+          "Porque es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. Por $9.000 más tenés [ATMA PEAT1351](/producto/MLA49747515) con interior de acero que no da sabor.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
@@ -1302,7 +1306,11 @@ export const guides: Guide[] = [
       { label: "Ver Philips HD9396 premium", href: "/producto/MLA47183370" },
       { label: "Ver Peabody digital", href: "/producto/MLA47275624" },
       { label: "Ver Oster con control temp", href: "/producto/MLA11145436" },
+      { label: "Ver Peabody PE-DK1850 acero", href: "/producto/MLA14263533" },
+      { label: "Ver Liliana AP152 (más barata)", href: "/producto/MLA61505857" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
+      { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
@@ -1457,17 +1465,17 @@ export const guides: Guide[] = [
       {
         question: "¿Cuál es el precio justo para una buena pava?",
         answer:
-          "$40.000-52.000. En este rango conseguís interior de acero y durabilidad decente.",
+          "$40.000-52.000. En este rango conseguís interior de acero y durabilidad decente. Las 3 mejores opciones: [ATMA PEAT1351](/producto/MLA49747515) ($40.739, interior acero), [Liliana Mateando](/producto/MLA8933826) ($45.099, función mate), [Philips HD9350](/producto/MLA24601443) ($52.499, acero completo 5 años).",
       },
       {
         question: "¿Valen la pena las de menos de $25.000?",
         answer:
-          "Solo si realmente no tenés más presupuesto. Son todas de plástico y el agua toma sabor después de 1 año.",
+          "Solo si realmente no tenés más presupuesto. La opción más accesible del cluster con acero es la [Liliana AP152](/producto/MLA61505857) a $31.999. Por debajo de eso son todas de plástico y el agua toma sabor después de 1 año.",
       },
       {
         question: "¿Por qué Philips cuesta el doble que Atma?",
         answer:
-          "Porque es acero completo, dura el doble, y tiene mejor construcción. A largo plazo sale más barata.",
+          "Porque la [Philips HD9350](/producto/MLA24601443) es acero completo, dura el doble que la [ATMA PEAT1351](/producto/MLA49747515), y tiene mejor construcción. A largo plazo sale más barata.",
       },
       {
         question: "¿Las ofertas de Hot Sale son reales?",
@@ -1487,8 +1495,14 @@ export const guides: Guide[] = [
       { label: "Ver Philips HD9396 (premium)", href: "/producto/MLA47183370" },
       { label: "Ver Peabody digital (control temp)", href: "/producto/MLA47275624" },
       { label: "Ver Oster KT4970W (mate)", href: "/producto/MLA11145436" },
+      { label: "Ver Peabody PE-DK1850 acero (\$55.900)", href: "/producto/MLA14263533" },
+      { label: "Ver Liliana Mateando (\$45.099 mejor compra)", href: "/producto/MLA8933826" },
+      { label: "Ver Liliana AP152 (\$31.999 más barata)", href: "/producto/MLA61505857" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
+      { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
+      { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
+      { label: "Pava Oster: ¿vale el precio?", href: "/guias/pava-electrica-oster" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
@@ -1655,7 +1669,7 @@ export const guides: Guide[] = [
       {
         question: "¿Es seguro comprar pavas eléctricas en MercadoLibre?",
         answer:
-          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador.",
+          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [ATMA PEAT1351](/producto/MLA49747515) ($40.739), [Philips HD9350](/producto/MLA24601443) ($52.499), [Peabody PE-DK2200N](/producto/MLA47275624) ($69.999).",
       },
       {
         question: "¿Cuánto tarda el envío?",
@@ -1685,8 +1699,14 @@ export const guides: Guide[] = [
       { label: "Ver Philips HD9396 (doble pared)", href: "/producto/MLA47183370" },
       { label: "Ver Peabody digital (mejor rating)", href: "/producto/MLA47275624" },
       { label: "Ver Oster KT4970W (mate)", href: "/producto/MLA11145436" },
+      { label: "Ver Peabody PE-DK1850 acero", href: "/producto/MLA14263533" },
+      { label: "Ver Liliana Mateando (mejor compra)", href: "/producto/MLA8933826" },
+      { label: "Ver Liliana Safeheat AP992B (premium)", href: "/producto/MLA54152343" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
+      { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
+      { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
+      { label: "Pava Oster: ¿vale el precio?", href: "/guias/pava-electrica-oster" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
