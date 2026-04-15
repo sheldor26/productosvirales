@@ -65,7 +65,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                       key={j}
                       className="px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]"
                     >
-                      {cell}
+                      {parseInlineLinks(cell)}
                     </td>
                   ))}
                 </tr>
@@ -139,7 +139,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
               className="flex items-start gap-2 text-[15px] leading-relaxed text-[var(--text-secondary)]"
             >
               <span className="shrink-0 mt-1.5 w-1.5 h-1.5 rounded-full bg-[var(--text-muted)]" />
-              {item}
+              <span>{parseInlineLinks(item)}</span>
             </li>
           ))}
         </ul>

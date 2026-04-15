@@ -20,11 +20,12 @@ const ROOT = join(__dirname, "..");
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
-/** Strip markdown bold/italic markers: **text** → text, *text* → text */
+/** Strip markdown bold/italic markers and extended attributes */
 function stripFormatting(text) {
   return text
     .replace(/\*\*([^*]+)\*\*/g, "$1")
     .replace(/\*([^*]+)\*/g, "$1")
+    .replace(/\{[^}]+\}/g, "")   // strip {rel="..."} and similar extended attributes
     .trim();
 }
 
@@ -242,7 +243,9 @@ function parseBody(body) {
         tableHeaders = cells;
         inTable = true;
       } else {
-        tableRows.push(cells);
+        // Linkify first column (model name) if mapping exists
+        const linkedCells = cells.map((cell, j) => linkifyModelCell(cell, j));
+        tableRows.push(linkedCells);
       }
       continue;
     } else if (inTable) {
@@ -260,14 +263,19 @@ function parseBody(body) {
         continue;
       }
 
-      // Internal link item? e.g. "[Texto](/guias/slug): description"
-      const linkItem = extractLink(itemText);
-      if (linkItem && (linkItem.href.startsWith("/guias") || linkItem.href.startsWith("/producto") || state === "internal_links")) {
-        internalLinks.push(linkItem);
-        continue;
+      // Pure internal link item? ONLY if line starts with [ (no prefix text)
+      // e.g. "[Texto](/guias/slug): description" → goes to internalLinks widget
+      // Items like "**contexto:** [link]" → stay in sections as list items
+      if (itemText.startsWith("[") || state === "internal_links") {
+        const linkItem = extractLink(itemText);
+        if (linkItem && (linkItem.href.startsWith("/guias") || linkItem.href.startsWith("/producto") || state === "internal_links")) {
+          internalLinks.push(linkItem);
+          continue;
+        }
       }
 
-      // Regular list item (strip bold, keep inline links)
+      // Regular list item — strip **bold** but keep [link](url) intact
+      // (GuideRenderer now calls parseInlineLinks on list items)
       if (state === "sections") {
         if (paraBuffer.length) { addParaToSections(paraBuffer.join(" ")); paraBuffer = []; }
         listBuffer.push(stripFormatting(itemText));
@@ -353,6 +361,63 @@ function parseBody(body) {
   flushFaqAnswer();
 
   return { intro, sections, faq, internalLinks, h1, affiliateCta, heroImage };
+}
+
+// ─── Model → guide slug mapping (for clickable table cells) ──────────────────
+const MODEL_SLUG_MAP = {
+  // Atma
+  "atma fr248abp": "/guias/atma-freidoras-de-aire-review",
+  "atma pro fr60ar": "/guias/atma-freidoras-de-aire-review",
+  "atma fr901dp": "/guias/atma-freidoras-de-aire-review",
+  "atma fr901dp grill": "/guias/atma-freidoras-de-aire-review",
+  "atma pro doble frd248ap": "/guias/atma-freidoras-de-aire-review",
+  "atma frd248ap": "/guias/atma-freidoras-de-aire-review",
+  // Peabody
+  "peabody pe-afd650n": "/guias/peabody-freidoras-de-aire-review",
+  "peabody pe-afd720n": "/guias/peabody-freidoras-de-aire-review",
+  "peabody pe-afdl102n": "/guias/peabody-freidoras-de-aire-review",
+  "peabody pe-afg01ix": "/guias/peabody-freidoras-de-aire-review",
+  "peabody pe-afg01ix grill": "/guias/peabody-freidoras-de-aire-review",
+  // Philips
+  "philips na12000": "/guias/philips-freidoras-de-aire-review",
+  "philips phna35100": "/guias/philips-freidoras-de-aire-review",
+  "philips phna23100": "/guias/philips-freidoras-de-aire-review",
+  "philips hd9280": "/guias/philips-freidoras-de-aire-review",
+  "philips hd9280 xl": "/guias/philips-freidoras-de-aire-review",
+  "philips hd9270": "/guias/philips-freidoras-de-aire-review",
+  "philips hd9270 essential": "/guias/philips-freidoras-de-aire-review",
+  // Oster
+  "oster dual diamondforce": "/guias/oster-freidoras-de-aire-review",
+  "oster digital ventana": "/guias/oster-freidoras-de-aire-review",
+  "oster dual 7.6l diamondforce": "/guias/oster-freidoras-de-aire-review",
+  "oster digital con ventana": "/guias/oster-freidoras-de-aire-review",
+  // Ninja
+  "ninja crispi": "/guias/ninja-crispi-review",
+  "ninja crispi 5.2l": "/guias/ninja-crispi-review",
+  // PowerXL
+  "powerxl af-e4001-ar": "/guias/powerxl-freidora-review",
+  "powerxl": "/guias/powerxl-freidora-review",
+  // Kanji
+  "kanji home kjh-1700dc": "/guias/kanji-home-freidora-review",
+  "kanji home": "/guias/kanji-home-freidora-review",
+  // Gadnic
+  "gadnic": "/guias/gadnic-freidora-review",
+  // Suono
+  "suono digital": "/guias/suono-airfryer-review",
+  "suono airfryer digital": "/guias/suono-airfryer-review",
+};
+
+/** If a table cell is a model name (first column), wrap it as a link */
+function linkifyModelCell(cell, colIndex) {
+  if (colIndex !== 0) return cell; // Only linkify first column
+  const key = cell.toLowerCase().trim();
+  const slug = MODEL_SLUG_MAP[key];
+  if (slug) return `[${cell}](${slug})`;
+  // Try partial match
+  for (const [pattern, url] of Object.entries(MODEL_SLUG_MAP)) {
+    if (key.includes(pattern) || pattern.includes(key)) return `[${cell}](${url})`;
+  }
+  return cell;
 }
 
 // ─── File discovery ───────────────────────────────────────────────────────────
