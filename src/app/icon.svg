@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="8" fill="#f4b5a4"/>
-  <text x="4" y="22" font-family="Arial, sans-serif" font-weight="bold" font-size="16" fill="white">vi</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#f4b5a4"/>
+  <!-- V letter as path -->
+  <path d="M32 30 L58 98 L84 30" stroke="white" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
   <!-- Sparkle -->
-  <path d="M26 8L26.8 10.2L29 11L26.8 11.8L26 14L25.2 11.8L23 11L25.2 10.2Z" fill="white" opacity="0.9"/>
+  <path d="M100 24L103 33L112 36L103 39L100 48L97 39L88 36L97 33Z" fill="white" opacity="0.9"/>
 </svg>
