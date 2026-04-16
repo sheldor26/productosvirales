@@ -2097,7 +2097,7 @@ Si el rating de 2.5⭐ te genera dudas, el cortador de papas bastón Aloha en es
       'Apto para lavavajillas — limpieza sin cuidados especiales',
       'Cuchilla de acero inoxidable',
       'Dimensiones exactas y claras: 10×10cm',
-      'Rating 3.9⭐ — el mejor valorado del cluster corta papas',
+      'Rating 3.9⭐ — el mejor valorado del catálogo de cortadoras de papa',
       'Uso extra para cortes hasselback decorativos',
       'Sin electricidad — sin cables, sin pilas',
     ],
@@ -2270,7 +2270,7 @@ No es apto para lavavajillas — la limpieza es a mano bajo el agua. Para el tip
 
 5.0 estrellas sobre 1 calificación, sin comentarios escritos todavía. No hay suficiente historial de reseñas para sacar conclusiones sobre durabilidad o rendimiento real. El contenido de esta reseña se basa en las especificaciones del producto y la descripción del vendedor.
 
-## Qué lo diferencia del resto del cluster
+## Qué lo diferencia del resto del catálogo
 
 Los otros cortadores de papa del sitio (Feel Bazar y Aloha) hacen corte bastón — tiras rectas, sección cuadrada. Este hace corte ondulado — rodajas con forma de ola. No son productos competidores: son para distintos tipos de preparación. Si hacés papas fritas clásicas, querés bastón. Si hacés papas americanas o presentación más trabajada, querés ondulado.`,
     specs: [
@@ -2662,7 +2662,7 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
       'Luz LED con dimmer + memoria + modo noche',
       'Modo convección para invierno',
       '2 barrales incluidos (40/50 cm)',
-      '1.004 calificaciones con 4.8⭐ (mayor volumen del cluster)',
+      '1.004 calificaciones con 4.8⭐ (mayor volumen del catálogo)',
     ],
     cons: [
       '39 dB (más ruidoso que otros retráctiles declarados)',
@@ -2670,10 +2670,10 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
       'Conectividad Wi-Fi con datos contradictorios',
       'Precio premium ($257.291)',
     ],
-    verdict: 'El retráctil más vendido del cluster con motor DC y caudal premium. Si priorizás flujo de aire + control fino de luz, es el indicado.',
+    verdict: 'El retráctil más vendido del catálogo con motor DC y caudal premium. Si priorizás flujo de aire + control fino de luz, es el indicado.',
     articleBody: `## Por qué Peabody es la marca más buscada en este segmento
 
-En Argentina, "ventilador de techo retráctil Peabody" acumula búsquedas mensuales que ninguna otra marca del segmento tiene en volumen comparable. Eso no es casualidad: Peabody tiene distribución local, presencia en cadenas de electro y un historial de posventa que genera opiniones activas. Con 1.004 calificaciones y 4.8 estrellas en MercadoLibre, el PE-VTRDC425B es el ventilador retráctil con mayor cantidad de reseñas del cluster.
+En Argentina, "ventilador de techo retráctil Peabody" acumula búsquedas mensuales que ninguna otra marca del segmento tiene en volumen comparable. Eso no es casualidad: Peabody tiene distribución local, presencia en cadenas de electro y un historial de posventa que genera opiniones activas. Con 1.004 calificaciones y 4.8 estrellas en MercadoLibre, el PE-VTRDC425B es el ventilador retráctil con mayor cantidad de reseñas del catálogo.
 
 El resumen de compradores lo describe con precisión: "silencioso y ofrece un flujo de aire espectacular, siendo ideal incluso para techos altos. Su diseño es atractivo y cuenta con diferentes opciones de luces que se pueden regular."
 
@@ -2683,7 +2683,7 @@ Los ventiladores convencionales usan motores AC (corriente alterna). El PE-VTRDC
 
 El motor DC consume significativamente menos a velocidades intermedias comparado con uno AC de la misma potencia. Para un aparato que se usa horas por día durante meses, la diferencia de consumo es acumulativa. Peabody lo comunica como "alto rendimiento y bajo consumo", y en ese sentido el dato es técnicamente correcto.
 
-La ficha de MercadoLibre registra 39 dB de ruido. Es un nivel aceptable — equivale a una biblioteca o ambiente tranquilo — pero es mayor al que declara el [Novohome NH-VTR](/producto/MLA54423759) del mismo cluster (20-33 dB). Es un dato real y vale tenerlo en cuenta si la prioridad es el silencio absoluto mientras se duerme.
+La ficha de MercadoLibre registra 39 dB de ruido. Es un nivel aceptable — equivale a una biblioteca o ambiente tranquilo — pero es mayor al que declara el [Novohome NH-VTR](/producto/MLA54423759) del mismo catálogo (20-33 dB). Es un dato real y vale tenerlo en cuenta si la prioridad es el silencio absoluto mientras se duerme.
 
 ## 170 m³/min: el diferenciador de caudal
 
@@ -2715,7 +2715,7 @@ La descripción del vendedor incluye: "CONECTIVIDAD: Todas las funciones desde e
 
 Puede ser que use radiofrecuencia (RF) con un receptor que se conecta vía app, o que la descripción sea texto de otro modelo aplicado por error. Antes de comprar, si la conectividad móvil es una función que buscás específicamente, recomendamos consultarle al vendedor para confirmar qué tecnología usa y si hay app disponible.
 
-Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil](/producto/MLA44033885) y el [Iluma retráctil](/producto/MLA66266614).`,
+Si querés comparar con otras opciones del catálogo, mirá el [Etheos retráctil](/producto/MLA44033885) y el [Iluma retráctil](/producto/MLA66266614).`,
     specs: [
       { label: 'Marca / Modelo', value: 'Peabody / PE-VTRDC425B' },
       { label: 'Voltaje', value: '220V / 50 Hz' },
@@ -2737,7 +2737,7 @@ Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil]
     faq: [
       { question: '¿El Peabody PE-VTRDC425B tiene modo invierno?', answer: 'Sí. Tiene modo convección que invierte el sentido de giro de las aspas a baja velocidad para distribuir el aire caliente acumulado en el techo hacia abajo, sin generar corriente directa. La ficha de ML dice "aspas reversibles: No" porque la reversión es electrónica, no manual.' },
       { question: '¿Tiene dimmer o solo cambia entre tres tonos de luz?', answer: 'Tiene ambas cosas. Dentro de cada tono de luz (fría, blanca cálida, amarilla cálida) podés regular el brillo con el dimmer desde el control remoto. También tiene modo noche con luz tenue y memoria del último modo usado.' },
-      { question: '¿Qué diferencia hay entre el Peabody y el Novohome NH-VTR del mismo cluster?', answer: 'Principalmente cuatro diferencias. El Peabody tiene motor DC de cobre (más eficiente), 3 aspas grandes de acrílico vs 4 del Novohome, dimmer regulable y memoria de modo (que el Novohome no menciona), y un caudal declarado de 170 m³/min. El Novohome es más económico ($113.149 vs $257.291) y tiene un ruido mínimo más bajo declarado (20 dB vs 39 dB del Peabody).' },
+      { question: '¿Qué diferencia hay entre el Peabody y el Novohome NH-VTR del mismo catálogo?', answer: 'Principalmente cuatro diferencias. El Peabody tiene motor DC de cobre (más eficiente), 3 aspas grandes de acrílico vs 4 del Novohome, dimmer regulable y memoria de modo (que el Novohome no menciona), y un caudal declarado de 170 m³/min. El Novohome es más económico ($113.149 vs $257.291) y tiene un ruido mínimo más bajo declarado (20 dB vs 39 dB del Peabody).' },
       { question: '¿Para qué tamaño de ambiente sirve?', answer: 'Con 42 pulgadas (1,07 m) de diámetro y 170 m³/min de caudal, los compradores lo mencionan como "ideal incluso para techos altos". Es apto para ambientes de 20 a 35 m² aproximadamente.' },
       { question: '¿Incluye los dos barrales?', answer: 'Sí. Vienen incluidos el barral corto (altura total 40 cm) y el barral largo (altura total 50 cm), permitiendo adaptar la instalación según la altura del techo.' },
       { question: '¿Tiene conectividad con celular?', answer: 'La descripción del vendedor menciona "todas las funciones desde el celular", pero la ficha técnica oficial de MercadoLibre lista "Con Wi-Fi: No". Hay una contradicción. Recomendamos consultar al vendedor antes de comprar si esa función es relevante para tu decisión.' },
@@ -2802,16 +2802,16 @@ Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil]
     seoTitle: 'Ventilador Retráctil Techo Etheos Negro 100W LED | PickViral',
     metaDescription: 'Etheos GVTI-VTR negro: ventilador retráctil de techo de 1,2m, 100W, luz LED 3 tonos, remote completo con dimmer y modo nocturno. 4.7⭐ con 1.937 compradores.',
     ogTitle: 'Ventilador Retráctil de Techo Etheos Negro 100W con Luz LED | PickViral',
-    ogDescription: 'El único retráctil negro del cluster: 1,2m de diámetro, 100W, luz LED fría/cálida/neutra con dimmer, modo nocturno, modos verano/invierno y 2 barrales. 4.7⭐ con 1.937 compradores.',
+    ogDescription: 'El único retráctil negro del catálogo: 1,2m de diámetro, 100W, luz LED fría/cálida/neutra con dimmer, modo nocturno, modos verano/invierno y 2 barrales. 4.7⭐ con 1.937 compradores.',
     h1: 'Etheos GVTI-VTR: el ventilador retráctil negro de 1,2 metros con el remote más completo del segmento',
     pros: [
-      '1,2 m de diámetro (el más grande del cluster)',
+      '1,2 m de diámetro (el más grande del catálogo)',
       'Única opción en negro del segmento',
       'Remote con dimmer + temperatura K + modo nocturno',
       '100 W — alta potencia para ambientes grandes',
       'Modo verano/invierno con botones F/R separados',
       '2 barrales extensores incluidos',
-      '1.937 calificaciones (mayor volumen del cluster)',
+      '1.937 calificaciones (mayor volumen del catálogo)',
     ],
     cons: [
       'Nivel de ruido sin dato real (ficha dice 0 dB por error)',
@@ -2819,20 +2819,20 @@ Si querés comparar con otras opciones del cluster, mirá el [Etheos retráctil]
       'Sin memoria de último modo (el Peabody sí tiene)',
       'Potencia 100W sin desglose motor vs LED',
     ],
-    verdict: 'La opción si querés negro y mayor cobertura. Remote más detallado del cluster y 1.937 reseñas de respaldo a precio intermedio.',
+    verdict: 'La opción si querés negro y mayor cobertura. Remote más detallado del catálogo y 1.937 reseñas de respaldo a precio intermedio.',
     articleBody: `## El único retráctil negro: lo que cambia en la estética de un techo
 
 En el segmento de ventiladores retráctiles argentinos, todos los modelos disponibles son blancos. El Etheos GVTI-VTRN es la excepción. Con estructura negro mate, anillo exterior de diseño con estrías horizontales y plafón LED de 50 cm de diámetro, se integra de forma diferente en techos blancos: no desaparece sino que se convierte en un elemento visual del ambiente.
 
-Para dormitorios, living rooms o estudios con paleta oscura, industrial o minimalista, esa diferencia importa tanto como las especificaciones técnicas. Con 4.7 estrellas y más de 1.937 calificaciones —el mayor volumen de reseñas en el cluster— el Etheos tiene suficiente historial de compradores para evaluar con confianza.
+Para dormitorios, living rooms o estudios con paleta oscura, industrial o minimalista, esa diferencia importa tanto como las especificaciones técnicas. Con 4.7 estrellas y más de 1.937 calificaciones —el mayor volumen de reseñas en el catálogo— el Etheos tiene suficiente historial de compradores para evaluar con confianza.
 
-## 1,2 metros de diámetro: el más grande del cluster
+## 1,2 metros de diámetro: el más grande del catálogo
 
 El Etheos tiene 1,2 metros de diámetro expandido frente a los 1,07 metros del [Novohome](/producto/MLA54423759) y el [Peabody](/producto/MLA43536904). Esa diferencia de 13 centímetros en radio no es decorativa: implica aspas más largas y, en teoría, mayor volumen de aire movido a igual velocidad.
 
 Para ambientes de 25 a 40 m², ese diámetro es más adecuado que los 42 pulgadas estándar del segmento. Los compradores mencionan "instalación sencilla" y el hecho de que el aparato cumple bien en espacios grandes, dato que se corresponde con las dimensiones del producto.
 
-## 100 Watts: la potencia más alta del cluster
+## 100 Watts: la potencia más alta del catálogo
 
 El Etheos consume hasta 100W de potencia combinada. Para referencia, el Novohome NH-VTR consume 56W y el Peabody PE-VTRDC425B 72W. Mayor consumo no siempre significa mejor eficiencia, pero en este caso coincide con el mayor diámetro del producto: las aspas más grandes necesitan más potencia para mantener la velocidad bajo carga.
 
@@ -2840,7 +2840,7 @@ La descripción técnica indica que el motor es de bobinado de cobre, al igual q
 
 ## El control remoto más detallado del segmento
 
-El remote del Etheos está documentado con labels en las imágenes del producto, algo que ningún otro del cluster ofrece. Los botones confirmados son:
+El remote del Etheos está documentado con labels en las imágenes del producto, algo que ningún otro del catálogo ofrece. Los botones confirmados son:
 
 Ventilador: OFF general, velocidades 1 a 6 numeradas, STOP, modo avance (F/verano) y modo retroceso (R/invierno).
 
@@ -2862,9 +2862,9 @@ La ficha técnica del Etheos lista "Nivel de ruido: 0 dB". Ningún aparato eléc
 
 Si el nivel de ruido es una prioridad para tu decisión, el Novohome NH-VTR tiene 20-33 dB declarados por el fabricante como dato concreto.
 
-También hay un conflicto en el material de las aspas: la ficha dice "Plástico", la descripción técnica dice "acrílico transparente". Acrílico es técnicamente un tipo de plástico, pero no son equivalentes en calidad ni durabilidad. Las imágenes muestran aspas transparentes de aspecto similar al de los otros modelos del cluster. Antes de comprar, si el material específico importa, consultarlo al vendedor.
+También hay un conflicto en el material de las aspas: la ficha dice "Plástico", la descripción técnica dice "acrílico transparente". Acrílico es técnicamente un tipo de plástico, pero no son equivalentes en calidad ni durabilidad. Las imágenes muestran aspas transparentes de aspecto similar al de los otros modelos del catálogo. Antes de comprar, si el material específico importa, consultarlo al vendedor.
 
-Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra alternativa blanca del cluster.`,
+Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra alternativa blanca del catálogo.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Etheos / GVTI-VTRN' },
       { label: 'Voltaje', value: '220-240V / 50 Hz' },
@@ -2885,12 +2885,12 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
       { label: 'Color estructura', value: 'Negro' },
     ],
     faq: [
-      { question: '¿El Etheos GVTI-VTR está disponible en negro?', answer: 'Sí. El modelo GVTI-VTRN es la versión negra. Es el único ventilador retráctil de techo con estructura negra en este cluster. Los otros modelos disponibles son blancos.' },
-      { question: '¿Cuánto mide? ¿Es más grande que otros retráctiles?', answer: 'Sí. Con 1,2 metros de diámetro expandido es el más grande del cluster (los otros miden 1,07 m). Es más adecuado para ambientes de 25 a 40 m².' },
+      { question: '¿El Etheos GVTI-VTR está disponible en negro?', answer: 'Sí. El modelo GVTI-VTRN es la versión negra. Es el único ventilador retráctil de techo con estructura negra en este catálogo. Los otros modelos disponibles son blancos.' },
+      { question: '¿Cuánto mide? ¿Es más grande que otros retráctiles?', answer: 'Sí. Con 1,2 metros de diámetro expandido es el más grande del catálogo (los otros miden 1,07 m). Es más adecuado para ambientes de 25 a 40 m².' },
       { question: '¿Tiene modo invierno?', answer: 'Sí. El control remoto tiene dos botones dedicados: F para modo avance (verano) y R para modo retroceso (invierno), que hace circular el aire caliente hacia abajo.' },
       { question: '¿Incluye control remoto?', answer: 'Sí. El control remoto incluye velocidades 1-6, STOP, modo verano y modo invierno, control de brillo (dimmer), temperatura de color (K+/K-), modo nocturno, timer 1H/2H y botón de programación SETUP.' },
-      { question: '¿Cuánto ruido hace?', answer: 'La ficha de MercadoLibre dice 0 dB, lo que es un error de carga — es técnicamente imposible. No hay dato real disponible del fabricante para este modelo. Si el nivel de ruido es crítico, el Novohome NH-VTR del mismo cluster tiene 20-33 dB documentados.' },
-      { question: '¿Las aspas son de plástico o de acrílico?', answer: 'Hay una discrepancia: la ficha ML dice plástico y la descripción técnica dice acrílico transparente. Acrílico es un tipo de plástico, pero de mayor calidad. Las imágenes muestran aspas transparentes de aspecto similar al de otros modelos del cluster que usan acrílico. Consultar al vendedor para confirmar el material exacto.' },
+      { question: '¿Cuánto ruido hace?', answer: 'La ficha de MercadoLibre dice 0 dB, lo que es un error de carga — es técnicamente imposible. No hay dato real disponible del fabricante para este modelo. Si el nivel de ruido es crítico, el Novohome NH-VTR del mismo catálogo tiene 20-33 dB documentados.' },
+      { question: '¿Las aspas son de plástico o de acrílico?', answer: 'Hay una discrepancia: la ficha ML dice plástico y la descripción técnica dice acrílico transparente. Acrílico es un tipo de plástico, pero de mayor calidad. Las imágenes muestran aspas transparentes de aspecto similar al de otros modelos del catálogo que usan acrílico. Consultar al vendedor para confirmar el material exacto.' },
       { question: '¿Incluye dos barrales?', answer: 'Sí. Incluye barrales extensores de 10 cm y 20 cm para adaptar la altura de instalación al techo disponible.' },
       { question: '¿Qué diferencia tiene con el Peabody PE-VTRDC425B?', answer: 'Las principales diferencias: Etheos es negro y tiene mayor diámetro (1,2 m vs 1,07 m del Peabody). El Peabody tiene motor DC y declara 170 m³/min de caudal, además de memoria de último modo. El Etheos tiene 100W de potencia (vs 72W del Peabody). El Peabody es más caro ($257.291 vs $169.998 del Etheos).' },
     ],
@@ -2951,10 +2951,10 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
     seoTitle: 'Ventilador Retráctil Silencioso Iluma Zenith DC | PickViral',
     metaDescription: 'El Iluma Zenith es el ventilador retráctil más accesible del mercado: motor DC silencioso, aspas reversibles confirmadas, luz LED tricolor y eficiencia A+.',
     ogTitle: 'Ventilador Retráctil Silencioso Iluma Zenith — DC Motor + LED Tricolor | PickViral',
-    ogDescription: 'El más económico del cluster con aspas reversibles confirmadas, motor DC, luz 3 temperaturas y eficiencia A+. Análisis sin filtro con precio actualizado.',
-    h1: 'Ventilador de techo retráctil silencioso Iluma Zenith: el más accesible del cluster con DC motor y aspas reversibles',
+    ogDescription: 'El más económico del catálogo con aspas reversibles confirmadas, motor DC, luz 3 temperaturas y eficiencia A+. Análisis sin filtro con precio actualizado.',
+    h1: 'Ventilador de techo retráctil silencioso Iluma Zenith: el más accesible del catálogo con DC motor y aspas reversibles',
     pros: [
-      'Precio más bajo del cluster ($90.000)',
+      'Precio más bajo del catálogo ($90.000)',
       'Motor DC (silencioso y eficiente)',
       'Aspas reversibles confirmadas en ficha ML',
       'Luz LED 3 temperaturas con dimmer y modo noche',
@@ -2967,7 +2967,7 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
       'Sin datos de ruido en dB',
       'Discrepancia en temporizador (1H mencionado, no visible en remote)',
     ],
-    verdict: 'La entrada al cluster retráctil. Si el presupuesto manda y aceptás el bajo volumen de reseñas, tiene todo lo técnico que importa: DC motor, aspas reversibles, LED tricolor.',
+    verdict: 'La entrada al catálogo de retráctiles. Si el presupuesto manda y aceptás el bajo volumen de reseñas, tiene todo lo técnico que importa: DC motor, aspas reversibles, LED tricolor.',
     articleBody: `## Por qué este producto tiene sentido (y por qué con reservas)
 
 Hay una pregunta que aparece bastante seguido en foros de MercadoLibre sobre ventiladores retráctiles: "¿hay alguno que no cueste una fortuna?"
@@ -2982,7 +2982,7 @@ El motor es de corriente continua (DC), que es el mismo tipo que usa el [Peabody
 
 Las aspas son reversibles. El control remoto tiene un botón específico de "inversión positiva" que cambia la dirección del giro: modo verano para bajar el aire frío, modo invierno para recircular el aire caliente que queda atrapado en el techo. Esto está confirmado en la ficha de ML con el campo "Con aspas reversibles: Sí".
 
-## Iluma en contexto: dónde entra en el cluster
+## Iluma en contexto: dónde entra en el catálogo
 
 Cuatro ventiladores retráctiles, cuatro precios distintos. El Iluma Zenith es el más barato de los cuatro. La diferencia de precio entre el Iluma y el Novohome —el siguiente más barato— es de $23.000. Entre el Iluma y el Peabody son $167.000. Si el presupuesto es el filtro principal, el Iluma es la única opción real del grupo.
 
@@ -3298,7 +3298,7 @@ El control remoto tiene botones individuales de color (R para rojo, G para verde
 
 ## El control remoto
 
-Es uno de los controles más completos del cluster: encendido/apagado, R/G/B/W individual, volumen +/-, controles de música (anterior/pausa/siguiente), modo general, brillo, velocidad de efecto, Bluetooth/Music, timer 1H y timer 2H.
+Es uno de los controles más completos del catálogo: encendido/apagado, R/G/B/W individual, volumen +/-, controles de música (anterior/pausa/siguiente), modo general, brillo, velocidad de efecto, Bluetooth/Music, timer 1H y timer 2H.
 
 El timer tiene dos opciones: 1 hora o 2 horas. Para uso nocturno, la opción de 2 horas es práctica si el tiempo de dormirse varía.
 
@@ -3424,7 +3424,7 @@ Dakota es una marca argentina (Selca). Incluye láser 532nm nítido, materiales 
       '4.8⭐ con 298 calificaciones y 134 comentarios',
       'Diseño único de oso astronauta — diferenciado de los humanoides',
       'Lente de vidrio (no acrílico) — mejor transmisión óptica',
-      'Timer de 30 minutos — único del cluster con esta opción',
+      'Timer de 30 minutos — único del catálogo con esta opción',
       'Cable USB Type-C — el estándar moderno',
       'Rotación magnética 360° desde el control remoto',
       'Parlante Bluetooth estéreo integrado',
@@ -3436,15 +3436,15 @@ Dakota es una marca argentina (Selca). Incluye láser 532nm nítido, materiales 
       'Potencia de la bocina no especificada en ficha',
       'Número exacto de modos de iluminación no documentado',
     ],
-    verdict: 'En el cluster de 4 proyectores astronauta del sitio, este es el único con forma de oso. Está sentado, mide 20cm de alto y proyecta galaxias y estrellas desde el visor del casco. El casco tiene lente de vidrio, no de acrílico. El cable es USB Type-C. Y el timer tiene una opción de 30 minutos que los otros no tienen. Para cuarto infantil, este diseño es el que más funciona visualmente.',
+    verdict: 'En el catálogo de 4 proyectores astronauta del sitio, este es el único con forma de oso. Está sentado, mide 20cm de alto y proyecta galaxias y estrellas desde el visor del casco. El casco tiene lente de vidrio, no de acrílico. El cable es USB Type-C. Y el timer tiene una opción de 30 minutos que los otros no tienen. Para cuarto infantil, este diseño es el que más funciona visualmente.',
     seoTitle: 'Proyector oso astronauta MTI 730 — galaxia y estrellas BT',
     metaDescription: 'Proyector oso astronauta MTI 730 con Bluetooth, lente de vidrio, rotación 360° y timer de 30 minutos. Galaxia de estrellas en el techo, sin adaptador incluido.',
     ogTitle: 'Proyector oso astronauta MTI 730 — galaxia y estrellas BT',
     ogDescription: 'Proyector oso astronauta MTI 730 con Bluetooth, lente de vidrio, rotación 360° y timer de 30 minutos. Galaxia de estrellas en el techo, sin adaptador incluido.',
     h1: 'Proyector oso astronauta MTI 730: galaxia de estrellas, Bluetooth y timer de 30 minutos',
-    articleBody: `En el cluster de proyectores astronauta del sitio hay cuatro modelos. Tres tienen forma humanoide — el Geotek sentado, el Dakota de pie, y otro MTI clásico. Este es el único que tiene forma de oso con traje espacial. Está sentado, mide 20cm de alto y proyecta galaxias y estrellas desde el visor del casco.
+    articleBody: `En el catálogo de proyectores astronauta del sitio hay cuatro modelos. Tres tienen forma humanoide — el Geotek sentado, el Dakota de pie, y otro MTI clásico. Este es el único que tiene forma de oso con traje espacial. Está sentado, mide 20cm de alto y proyecta galaxias y estrellas desde el visor del casco.
 
-El diseño no es solo estético. El casco del oso tiene lente de vidrio, no de acrílico ni plástico. El cable incluido es USB Type-C. Y el timer tiene una opción de 30 minutos que los otros proyectores del cluster no tienen.
+El diseño no es solo estético. El casco del oso tiene lente de vidrio, no de acrílico ni plástico. El cable incluido es USB Type-C. Y el timer tiene una opción de 30 minutos que los otros proyectores del catálogo no tienen.
 
 ## El oso astronauta
 
@@ -3456,13 +3456,13 @@ El diseño del oso le da una escala visual más suave que los astronautas humano
 
 ## Lente de vidrio y qué cambia en la proyección
 
-La ficha técnica especifica "Material de la pantalla: Vidrio". Los otros proyectores del cluster usan lente de acrílico o plástico. El vidrio tiene mejor transmisión óptica y no se raya con la misma facilidad.
+La ficha técnica especifica "Material de la pantalla: Vidrio". Los otros proyectores del catálogo usan lente de acrílico o plástico. El vidrio tiene mejor transmisión óptica y no se raya con la misma facilidad.
 
 En la práctica, para proyectores de efecto (no de imagen definida), la diferencia puede ser sutil: menos dispersión en los bordes del haz, colores levemente más nítidos. El dato está en la especificación técnica y es verificable.
 
 ## El timer de 30 minutos
 
-El control remoto tiene tres opciones de apagado automático: 0.5H (30 minutos), 1H y 2H. Los otros proyectores del cluster tienen solo 1H y 2H. La opción de 30 minutos es útil para usarlo mientras los chicos se duermen: no hace falta levantarse a apagarlo ni que quede encendido toda la noche.
+El control remoto tiene tres opciones de apagado automático: 0.5H (30 minutos), 1H y 2H. Los otros proyectores del catálogo tienen solo 1H y 2H. La opción de 30 minutos es útil para usarlo mientras los chicos se duermen: no hace falta levantarse a apagarlo ni que quede encendido toda la noche.
 
 ## USB Type-C y la fuente de alimentación
 
@@ -3531,7 +3531,7 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
       {
         question: '¿Qué diferencia tiene con los otros proyectores astronauta del sitio?',
         answer:
-          'El diseño de oso es el diferencial más obvio. Además, es el único del cluster con lente de vidrio (los otros usan acrílico) y el único con opción de timer de 30 minutos. El cable es USB Type-C.',
+          'El diseño de oso es el diferencial más obvio. Además, es el único del catálogo con lente de vidrio (los otros usan acrílico) y el único con opción de timer de 30 minutos. El cable es USB Type-C.',
       },
       {
         question: '¿Tiene rotación motorizada?',
@@ -3589,9 +3589,9 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
     rating: 4.7,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
-    description: 'Proyector oso astronauta de pie MTI 731 con 82 efectos de luz, parlante Bluetooth, lente de vidrio, rotación 360°, timer 30/60/120 min y USB Type-C. Aurora boreal, nebulosa, estrellas y luna en el techo. Incluye control remoto y stickers. 4.7⭐ con 415 calificaciones — el mayor volumen del cluster astronauta.',
+    description: 'Proyector oso astronauta de pie MTI 731 con 82 efectos de luz, parlante Bluetooth, lente de vidrio, rotación 360°, timer 30/60/120 min y USB Type-C. Aurora boreal, nebulosa, estrellas y luna en el techo. Incluye control remoto y stickers. 4.7⭐ con 415 calificaciones — el mayor volumen del catálogo de astronautas.',
     pros: [
-      '4.7⭐ con 415 calificaciones y 219 comentarios — mayor volumen del cluster',
+      '4.7⭐ con 415 calificaciones y 219 comentarios — mayor volumen del catálogo',
       '82 efectos de luz — 10x más que los otros proyectores del sitio',
       'Incluye aurora boreal, nebulosa, estrellas y proyección de luna',
       'Lente de vidrio — mejor transmisión óptica',
@@ -3601,7 +3601,7 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
       'Rotación magnética 360° desde el control remoto',
     ],
     cons: [
-      'Precio más alto del cluster astronauta ($20.999)',
+      'Precio más alto del catálogo de astronautas ($20.999)',
       'No incluye adaptador USB de pared',
       '⚠️ Pilas del control remoto: no especificado si vienen incluidas',
       'Lista completa de los 82 efectos no documentada en ficha',
@@ -3612,15 +3612,15 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
     ogTitle: 'Proyector oso astronauta MTI 731 — 82 modos y galaxia BT',
     ogDescription: 'Proyector oso astronauta MTI 731: 82 efectos de luz, Bluetooth, lente de vidrio, timer 30/60/120 min y rotación 360°. Aurora y galaxia de estrellas en el techo.',
     h1: 'Proyector oso astronauta MTI 731: 82 efectos de luz, Bluetooth y timer de 30 minutos',
-    articleBody: `De todos los proyectores astronauta del sitio, el MTI 731 es el que tiene más efectos de luz. Los otros modelos del cluster tienen entre 6 y 8 modos. Este tiene 82. No es una diferencia menor: 82 significa que hay combinaciones de aurora boreal, nebulosa, estrellas, luna y mezclas de colores que los otros modelos no tienen.
+    articleBody: `De todos los proyectores astronauta del sitio, el MTI 731 es el que tiene más efectos de luz. Los otros modelos del catálogo tienen entre 6 y 8 modos. Este tiene 82. No es una diferencia menor: 82 significa que hay combinaciones de aurora boreal, nebulosa, estrellas, luna y mezclas de colores que los otros modelos no tienen.
 
-El diseño es un oso de pie con traje de astronauta, blanco, 19cm de alto. La lente del casco es de vidrio. El cable incluido es USB Type-C. Con 415 calificaciones y 4.7 estrellas, tiene el mayor volumen de reseñas del cluster.
+El diseño es un oso de pie con traje de astronauta, blanco, 19cm de alto. La lente del casco es de vidrio. El cable incluido es USB Type-C. Con 415 calificaciones y 4.7 estrellas, tiene el mayor volumen de reseñas del catálogo.
 
 ## Los 82 efectos: qué es lo que cambia
 
 En la mayoría de los proyectores de galaxia del mercado, los "modos" son variaciones de color sobre un mismo patrón: nebulosa en rojo, en azul, en verde, multicolor. Eso es lo que tienen el Geotek y el Dakota, que funcionan con 6 a 8 combinaciones.
 
-El MTI 731 suma efectos que los otros no tienen: aurora boreal (la luz que se extiende como cortinas sobre el techo), proyección de luna, y transiciones entre modos. Las imágenes del listing muestran habitaciones con efectos que claramente son más complejos que los de los otros modelos del cluster.
+El MTI 731 suma efectos que los otros no tienen: aurora boreal (la luz que se extiende como cortinas sobre el techo), proyección de luna, y transiciones entre modos. Las imágenes del listing muestran habitaciones con efectos que claramente son más complejos que los de los otros modelos del catálogo.
 
 El número exacto de los 82 efectos no está desglosado en la ficha técnica. Lo que sí se confirma en las imágenes: hay al menos cuatro escenas distintas visibles (interior, dormitorio, fiesta de cumpleaños, reunión familiar), cada una con una combinación de luces diferente.
 
@@ -3632,7 +3632,7 @@ La diferencia con el MTI 730 es física: el 730 está sentado (20cm), el 731 est
 
 ## Timer de 30 minutos
 
-El control remoto tiene tres opciones de apagado automático: 30 min, 60 min y 120 min. La opción de 30 minutos es práctica para dormitorios de niños: el proyector se apaga solo sin que nadie tenga que levantarse. Los otros modelos del cluster también tienen 30 min (compartido con el MTI 730). El Geotek tiene solo 40 y 90 min, el Dakota tiene 1H y 2H.
+El control remoto tiene tres opciones de apagado automático: 30 min, 60 min y 120 min. La opción de 30 minutos es práctica para dormitorios de niños: el proyector se apaga solo sin que nadie tenga que levantarse. Los otros modelos del catálogo también tienen 30 min (compartido con el MTI 730). El Geotek tiene solo 40 y 90 min, el Dakota tiene 1H y 2H.
 
 ## Bluetooth y el control remoto
 
@@ -3656,7 +3656,7 @@ No incluye: adaptador de corriente USB. Pilas del control remoto: no especificad
 
 Si estás comparando los dos modelos MTI del sitio: el [MTI 730](/producto/MLA2729985625) (oso sentado, 20cm, $14.259) tiene menos efectos de luz pero tiene el mismo timer y la misma lente de vidrio. Es más barato y tiene mayor rating (4.8 vs 4.7), aunque con menos reseñas (298 vs 415).
 
-El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativamente más que el 730 — y el mayor volumen de reseñas del cluster. Cuesta más, pero los 82 modos son una diferencia concreta si la variedad de efectos importa.`,
+El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativamente más que el 730 — y el mayor volumen de reseñas del catálogo. Cuesta más, pero los 82 modos son una diferencia concreta si la variedad de efectos importa.`,
     specs: [
       { label: 'Marca', value: 'MTI' },
       { label: 'Modelo', value: '731' },
@@ -3680,7 +3680,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
       {
         question: '¿Cuántos modos de luz tiene el MTI 731?',
         answer:
-          '82 efectos de iluminación. Incluye aurora boreal, nebulosa, estrellas, luna y combinaciones de colores. Es el proyector con más efectos del cluster astronauta del sitio.',
+          '82 efectos de iluminación. Incluye aurora boreal, nebulosa, estrellas, luna y combinaciones de colores. Es el proyector con más efectos del catálogo de astronautas del sitio.',
       },
       {
         question: '¿Viene con adaptador de corriente?',
@@ -4034,7 +4034,7 @@ Cuando no se usa, el carrito es plegable — puede achicarse para guardarlo en u
 
 ## ¿Y la versión blanca?
 
-Si te interesa el mismo formato pero en color blanco y con bandejas de plástico perforado en lugar de malla metálica, MTL fabrica el modelo TSV-003: capacidad de 50kg en lugar de 100kg, estética más clara y minimalista, e incluye herramientas de armado. Tiene 4.8⭐ con 68 calificaciones — el producto mejor valorado del cluster. Mismo precio aproximado, distinto perfil de uso: el negro es para cargas pesadas y estética industrial, el blanco para uso doméstico estándar y ambientes más prolijos.
+Si te interesa el mismo formato pero en color blanco y con bandejas de plástico perforado en lugar de malla metálica, MTL fabrica el modelo TSV-003: capacidad de 50kg en lugar de 100kg, estética más clara y minimalista, e incluye herramientas de armado. Tiene 4.8⭐ con 68 calificaciones — el producto mejor valorado del catálogo. Mismo precio aproximado, distinto perfil de uso: el negro es para cargas pesadas y estética industrial, el blanco para uso doméstico estándar y ambientes más prolijos.
 
 ## ¿Y si necesitás superficie de trabajo?
 
@@ -4365,11 +4365,11 @@ Las tres bandejas del TSV-003 son para almacenamiento — no son para apoyar un 
     ],
     cons: [
       '⚠️ Tres sets de dimensiones inconsistentes en el listing — verificar antes de comprar',
-      '30kg de capacidad — la menor del cluster (vs 50kg blanco MTL, 100kg negro MTL)',
+      '30kg de capacidad — la menor del catálogo (vs 50kg blanco MTL, 100kg negro MTL)',
       'Marca genérica — sin modelo declarado para repuestos',
       'Requiere atornillar la estructura, no es ensamblaje tipo clip',
     ],
-    verdict: 'El único del cluster con tablero de madera arriba: convierte el carrito en algo entre mesa auxiliar y organizador. Para apoyar laptop, microondas, lámpara de noche o una impresora con accesorios debajo, este formato funciona donde los MTL puramente de estantes no llegan. Cede capacidad de carga (30kg) a cambio de superficie de trabajo.',
+    verdict: 'El único del catálogo con tablero de madera arriba: convierte el carrito en algo entre mesa auxiliar y organizador. Para apoyar laptop, microondas, lámpara de noche o una impresora con accesorios debajo, este formato funciona donde los MTL puramente de estantes no llegan. Cede capacidad de carga (30kg) a cambio de superficie de trabajo.',
     seoTitle: 'Mesa Auxiliar con Ruedas — Tablero Madera, 2 Estantes Metal, 30kg',
     metaDescription: 'Carrito organizador con tablero de madera superior y 2 estantes de metal con ruedas. Para laptop, microondas, mesita de noche o impresora. 30kg. 4.7⭐ en ML.',
     ogTitle: 'Mesa auxiliar con ruedas — tablero de madera + estantes metal, laptop, micro o mesita de noche',
@@ -4403,7 +4403,7 @@ Garantía del vendedor: 30 días.
 
 ## ¿Cuál carrito conviene?
 
-Si lo que necesitás es superficie de trabajo además de almacenamiento, este es el indicado — es el único del cluster con tablero de madera. Si en cambio buscás capacidad de carga pura, MTL fabrica dos versiones de organizador puramente de estantes: el blanco (TSV-003, 50kg, bandejas plásticas perforadas, 4.8⭐ con 68 calificaciones) y el negro (MTL1017, 100kg, malla metálica con ganchos intercambiables). Los tres comparten formato vertical sobre ruedas; lo que cambia es el uso dominante.`,
+Si lo que necesitás es superficie de trabajo además de almacenamiento, este es el indicado — es el único del catálogo con tablero de madera. Si en cambio buscás capacidad de carga pura, MTL fabrica dos versiones de organizador puramente de estantes: el blanco (TSV-003, 50kg, bandejas plásticas perforadas, 4.8⭐ con 68 calificaciones) y el negro (MTL1017, 100kg, malla metálica con ganchos intercambiables). Los tres comparten formato vertical sobre ruedas; lo que cambia es el uso dominante.`,
     specs: [
       { label: 'Marca', value: 'Genérica' },
       { label: 'Color', value: 'Negro + tablero madera' },
@@ -6840,7 +6840,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     pros: [
       '4.7⭐ con 2.368 calificaciones — el mayor volumen de reseñas del sitio',
       'Interior de acero inoxidable — agua sin sabor a plástico',
-      '1.8L de capacidad — la más grande del cluster de pavas',
+      '1.8L de capacidad — la más grande del catálogo de pavas',
       '32% OFF — de $59.773 a $40.739',
       'Indicador de nivel con iluminación LED azul',
       'Filtro extraíble en el pico',
@@ -6984,7 +6984,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
       'Acero inoxidable SUS304 — grado alimentario, sin transferencia de sabores',
       'Filtro micromalla desmontable — captura partículas de cal de 200 micrones',
       'Controlador Strix UK — el estándar premium en termostatos de hervidores',
-      'Garantía 2 años — la más larga del cluster de pavas',
+      'Garantía 2 años — la más larga del catálogo de pavas',
       'Certificación de eficiencia energética A',
       'Tapa con resorte — apertura sin contacto con vapor',
       'Llenado por tapa o por boquilla',
@@ -6993,7 +6993,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
       'Sin control de temperatura — solo hierve a 100°C',
       'Sin función mate — no tiene selector de temperatura',
       '85 calificaciones — volumen moderado vs ATMA (2.368) y Oster (1.412)',
-      'Precio más alto del cluster ($52.499)',
+      'Precio más alto del catálogo ($52.499)',
     ],
     verdict: 'Si vivís en zona de agua dura y buscás una pava que no transfiera sabores ni se rompa al año, la HD9350/90 tiene los componentes verificables para eso: SUS304, Controlador Strix y filtro desmontable. La garantía de 2 años es uno de los períodos más largos en la categoría dentro del mercado argentino. Lo que no tiene es control de temperatura — para mate, la Oster BVSTKT4970W lo resuelve con selector analógico.',
     seoTitle: 'Pava Eléctrica Philips HD9350 — Acero SUS304, 1.7L',
@@ -7090,7 +7090,7 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
       {
         question: '¿Cuál es la garantía?',
         answer:
-          '2 años de garantía oficial Philips con cobertura a través de la red de service de la marca en Argentina. Es el período más largo del cluster de pavas — la [Philips HD9396](/producto/MLA47183370) premium también lleva garantía Philips.',
+          '2 años de garantía oficial Philips con cobertura a través de la red de service de la marca en Argentina. Es el período más largo del catálogo de pavas — la [Philips HD9396](/producto/MLA47183370) premium también lleva garantía Philips.',
       },
     ],
     structuredData: {
@@ -7151,12 +7151,12 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
       'Función memoria — recuerda configuración 30 min ante cortes de luz',
       'Interior acero inoxidable + doble pared (exterior no quema)',
       'Termostato Strix UK — el mismo que usa Philips',
-      '2.200W — la más potente del cluster',
+      '2.200W — la más potente del catálogo',
     ],
     cons: [
-      'Cable de 0.75m — el más corto del cluster, puede ser justo',
+      'Cable de 0.75m — el más corto del catálogo, puede ser justo',
       '1.5L de capacidad — menor que ATMA (1.8L) y Oster/Philips (1.7L)',
-      'Precio más alto del cluster ($69.999)',
+      'Precio más alto del catálogo ($69.999)',
       'Sin infusor incluido',
     ],
     verdict: 'Las otras pavas del sitio hacen una cosa: hervir agua a 100°C. La Peabody PE-DK2200N hace todo con un display LED y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C. Y después la mantiene hasta 2 horas. Con 4.9⭐ sobre 461 calificaciones es el producto con mejor rating de todo el sitio. El cable corto (0.75m) y la capacidad menor (1.5L) son los únicos puntos donde las otras le ganan.',
@@ -7253,12 +7253,12 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
       {
         question: '¿La pava puede calentar a 40°C?',
         answer:
-          'Sí. El rango va de 40°C a 100°C. Es la única del cluster que arranca tan bajo — útil para agua tibia para bebés. Las otras pavas con control de temperatura ([Oster KT4970W](/producto/MLA11145436), [Philips HD9396](/producto/MLA47183370)) arrancan más alto.',
+          'Sí. El rango va de 40°C a 100°C. Es la única del catálogo que arranca tan bajo — útil para agua tibia para bebés. Las otras pavas con control de temperatura ([Oster KT4970W](/producto/MLA11145436), [Philips HD9396](/producto/MLA47183370)) arrancan más alto.',
       },
       {
         question: '¿Cuánto tarda en calentar?',
         answer:
-          'Con 2.200W es la pava más potente del cluster — junto con la [Philips HD9396](/producto/MLA47183370) y la [Peabody PE-DK1850](/producto/MLA14263533). El calentamiento es rápido según los 290 comentarios.',
+          'Con 2.200W es la pava más potente del catálogo — junto con la [Philips HD9396](/producto/MLA47183370) y la [Peabody PE-DK1850](/producto/MLA14263533). El calentamiento es rápido según los 290 comentarios.',
       },
     ],
     structuredData: {
@@ -7315,16 +7315,16 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
       'Keep warm — mantiene la temperatura seleccionada',
       'Controlador Strix UK — estándar premium',
       'Interior acero inoxidable apto alimentario',
-      'Diseño negro mate premium — la más elegante del cluster',
+      'Diseño negro mate premium — la más elegante del catálogo',
       '1.7L + 2.200W — capacidad y potencia completas',
     ],
     cons: [
-      '$100.000 — el precio más alto del cluster por amplio margen',
+      '$100.000 — el precio más alto del catálogo por amplio margen',
       'Función memoria NO especificada (la Peabody sí la tiene)',
       'Tiempo exacto de keep warm NO especificado en ficha',
       'Filtro sin especificación de micrones (la HD9350 tiene 200μ)',
     ],
-    verdict: 'La Philips HD9396 es la única pava del sitio que podés tocar con el agua a 95°C adentro y el exterior no te quema. Eso es la doble pared. Tiene 6 temperaturas, keep warm y el diseño más premium del cluster. Con 4.8⭐ sobre 649 calificaciones, está validada. El precio de $100.000 es el más alto — si el presupuesto importa, la Peabody PE-DK2200N tiene features similares por $70.000.',
+    verdict: 'La Philips HD9396 es la única pava del sitio que podés tocar con el agua a 95°C adentro y el exterior no te quema. Eso es la doble pared. Tiene 6 temperaturas, keep warm y el diseño más premium del catálogo. Con 4.8⭐ sobre 649 calificaciones, está validada. El precio de $100.000 es el más alto — si el presupuesto importa, la Peabody PE-DK2200N tiene features similares por $70.000.',
     seoTitle: 'Pava Eléctrica Philips HD9396 — 1.7L, Doble Pared y 6 Temp',
     metaDescription: 'Pava Philips HD9396: doble pared (exterior frío al tacto), 6 temperaturas 40–100°C, keep warm, filtro y Strix. 4.8⭐ / 649 calificaciones.',
     ogTitle: 'Pava Eléctrica Philips HD9396 — Doble Pared, 6 Temperaturas 40–100°C y Keep Warm',
@@ -7332,7 +7332,7 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
     h1: 'Pava eléctrica Philips HD9396: doble pared, control de temperatura 40–100°C y keep warm',
     articleBody: `La Philips HD9396 es una pava que podés tocar con el agua a 95°C adentro y el exterior no te quema. Eso es la doble pared: una capa aislante entre el recipiente interior y el exterior de plástico negro mate. En las seis pavas eléctricas que revisamos para este sitio, es la única que tiene ese sistema.
 
-4.8 estrellas sobre 649 calificaciones. Segunda en rating del cluster, detrás de la Peabody PE-DK2200N que tiene 4.9⭐ con 461 calificaciones.
+4.8 estrellas sobre 649 calificaciones. Segunda en rating del catálogo, detrás de la Peabody PE-DK2200N que tiene 4.9⭐ con 461 calificaciones.
 
 ## El exterior frío al tacto
 
@@ -7348,13 +7348,13 @@ Los rangos útiles en la práctica: mate 70°C–75°C (la yerba no se quema), t
 
 ## Keep warm: conservación del calor activa
 
-Una vez que el agua llega a la temperatura seleccionada, la función de conservación del calor la mantiene ahí. Philips no especifica un tiempo exacto en esta ficha. Comparando con el cluster: la [Peabody PE-DK2200N](/producto/MLA47275624) especifica explícitamente 2 horas de keep warm.
+Una vez que el agua llega a la temperatura seleccionada, la función de conservación del calor la mantiene ahí. Philips no especifica un tiempo exacto en esta ficha. Comparando con el catálogo: la [Peabody PE-DK2200N](/producto/MLA47275624) especifica explícitamente 2 horas de keep warm.
 
 ## El diseño
 
-Negro mate con una franja plateada en la base. Es la pava más premium visualmente del cluster. La pantalla en el asa es un detalle de diseño que Philips usa para mantener el cuerpo limpio de botones — sin logos ni pantallas en el frente, solo el cuerpo cilíndrico negro. La información la ves cuando agarrás la pava por el mango.
+Negro mate con una franja plateada en la base. Es la pava más premium visualmente del catálogo. La pantalla en el asa es un detalle de diseño que Philips usa para mantener el cuerpo limpio de botones — sin logos ni pantallas en el frente, solo el cuerpo cilíndrico negro. La información la ves cuando agarrás la pava por el mango.
 
-## Lo que comparte con el resto del cluster
+## Lo que comparte con el resto del catálogo
 
 Interior en acero inoxidable apto para uso alimentario. Filtro integrado. Controlador Strix. Tapa de apertura por resorte. Guardacable. Base giratoria 360°. Apagado automático. Protección contra hervido sin agua. Capacidad 1.7L, 2200W de potencia.
 
@@ -7390,7 +7390,7 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
       {
         question: '¿Qué es la doble pared en la pava Philips HD9396?',
         answer:
-          'Es una capa aislante entre el recipiente interior y el exterior. El exterior no se calienta aunque el agua adentro esté a 90–95°C. Es la única pava de acero con doble pared en el cluster — la [Liliana Safeheat AP992B](/producto/MLA54152343) también tiene doble pared pero el exterior es plástico.',
+          'Es una capa aislante entre el recipiente interior y el exterior. El exterior no se calienta aunque el agua adentro esté a 90–95°C. Es la única pava de acero con doble pared en el catálogo — la [Liliana Safeheat AP992B](/producto/MLA54152343) también tiene doble pared pero el exterior es plástico.',
       },
       {
         question: '¿Cuántas temperaturas tiene la Philips HD9396?',
@@ -7400,7 +7400,7 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
       {
         question: '¿La pava mantiene el calor después de hervir?',
         answer:
-          'Sí, tiene función de conservación del calor. Philips no especifica un tiempo máximo en la ficha. El [Peabody PE-DK2200N](/producto/MLA47275624) especifica 2 horas confirmadas de keep warm — el único del cluster con tiempo explícito.',
+          'Sí, tiene función de conservación del calor. Philips no especifica un tiempo máximo en la ficha. El [Peabody PE-DK2200N](/producto/MLA47275624) especifica 2 horas confirmadas de keep warm — el único del catálogo con tiempo explícito.',
       },
       {
         question: '¿Dónde está la pantalla?',
@@ -7560,7 +7560,7 @@ El cable sobrante se enrolla bajo la base para que no quede en la mesada.
 
 El resumen de ML sobre 821 comentarios: "rápida y eficaz al calentar el agua, diseño cómodo y sólido, permite regular la temperatura, ideal para preparar té y mate, fácil de limpiar, corte automático que garantiza seguridad". La distribución de calificaciones muestra una base amplia de 5 estrellas con pocas críticas — el promedio de 4.7 sobre este volumen indica consistencia real, no un promedio de pocas calificaciones.
 
-## Dónde se ubica en el cluster de pavas
+## Dónde se ubica en el catálogo de pavas
 
 Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40 a 100°C con pantalla LED touch. Si no te importa el control de temperatura y querés acero inoxidable interior sin sabor a plástico, la [ATMA PEAT1351](/producto/MLA49747515) sale $40.739 con 2.368 calificaciones. Si querés el paquete premium completo con doble pared y garantía 2 años, la [Philips HD9396](/producto/MLA47183370) o la [Philips HD9350](/producto/MLA24601443) son las opciones. La Oster ocupa un lugar específico: control de temperatura analógico con función mate explícita y sin complicaciones de display.`,
     specs: [
@@ -7663,9 +7663,9 @@ Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/pro
     rating: 4.7,
     soldQuantity: 1318,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Peabody PE-DK1850: pava eléctrica de acero inoxidable, 1.7L, 2200W, 4 niveles de temperatura, display digital en mango, base giratoria 360°, corte automático. El producto con mayor volumen de reseñas del cluster de pavas. 4.7⭐ con 1.318 calificaciones.',
+    description: 'Peabody PE-DK1850: pava eléctrica de acero inoxidable, 1.7L, 2200W, 4 niveles de temperatura, display digital en mango, base giratoria 360°, corte automático. El producto con mayor volumen de reseñas del catálogo de pavas. 4.7⭐ con 1.318 calificaciones.',
     pros: [
-      '4.7⭐ con 1.318 calificaciones — mayor volumen de reseñas del cluster',
+      '4.7⭐ con 1.318 calificaciones — mayor volumen de reseñas del catálogo',
       'Cuerpo de acero inoxidable completo (plateado)',
       '1.7L — más capacidad que el PE-DK2200N (1.5L)',
       '4 niveles de temperatura preestablecidos',
@@ -7680,13 +7680,13 @@ Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/pro
       'Los valores exactos de cada nivel no están en la ficha pública',
       'Sin función memoria para cortes de luz',
     ],
-    verdict: 'El PE-DK1850 es la pava Peabody de acero inoxidable con 4 niveles de temperatura y el mayor volumen de reseñas del cluster (1.318 calificaciones). Si querés más capacidad que el PE-DK2200N (1.7L vs 1.5L) y no necesitás keep warm ni memoria para cortes de luz, es la opción. Si el control continuo de temperatura y keep warm de 2 horas son importantes, mirá el PE-DK2200N.',
+    verdict: 'El PE-DK1850 es la pava Peabody de acero inoxidable con 4 niveles de temperatura y el mayor volumen de reseñas del catálogo (1.318 calificaciones). Si querés más capacidad que el PE-DK2200N (1.7L vs 1.5L) y no necesitás keep warm ni memoria para cortes de luz, es la opción. Si el control continuo de temperatura y keep warm de 2 horas son importantes, mirá el PE-DK2200N.',
     seoTitle: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles',
     metaDescription: 'Pava eléctrica Peabody PE-DK1850: acero inoxidable, 1.7L, 4 niveles de temperatura, display digital y corte automático. 1.318 calificaciones en MercadoLibre.',
     ogTitle: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles',
     ogDescription: 'Pava eléctrica Peabody PE-DK1850: acero inoxidable, 1.7L, 4 niveles de temperatura, display digital y corte automático. 1.318 calificaciones en MercadoLibre.',
     h1: 'Peabody PE-DK1850: pava eléctrica de acero con 4 niveles de temperatura',
-    articleBody: `El PE-DK1850 es la pava de acero inoxidable de Peabody — cuerpo metálico completo, 1.7L, 4 niveles de temperatura preestablecidos y display digital en el mango. Con 1.318 calificaciones en MercadoLibre, tiene el mayor volumen de reseñas del cluster de pavas del sitio.
+    articleBody: `El PE-DK1850 es la pava de acero inoxidable de Peabody — cuerpo metálico completo, 1.7L, 4 niveles de temperatura preestablecidos y display digital en el mango. Con 1.318 calificaciones en MercadoLibre, tiene el mayor volumen de reseñas del catálogo de pavas del sitio.
 
 La diferencia con el otro modelo Peabody disponible en el sitio, el [PE-DK2200N](/producto/MLA47275624), es concreta: el DK2200N tiene control de temperatura continuo (40–100°C en pasos de 1°C), keep warm de 2 horas y función de memoria. El DK1850 tiene 4 niveles fijos y mayor capacidad (1.7L vs 1.5L del DK2200N). Son dos pavas para perfiles distintos.
 
@@ -7712,17 +7712,17 @@ El corte automático se activa cuando el agua llega a la temperatura seleccionad
 
 La capacidad es 1.7L, igual que la [Philips HD9350](/producto/MLA24601443) y la Philips HD9396. El PE-DK2200N tiene 1.5L, así que el DK1850 rinde más si necesitás agua para varios mates seguidos o para una ronda grande.
 
-La potencia es 2.200W, igual que los otros modelos del cluster. A 220V y 2.200W, el tiempo de calentamiento desde frío hasta ebullición es similar en todas las pavas del cluster — aproximadamente 2–3 minutos para 1.7L.
+La potencia es 2.200W, igual que los otros modelos del catálogo. A 220V y 2.200W, el tiempo de calentamiento desde frío hasta ebullición es similar en todas las pavas del catálogo — aproximadamente 2–3 minutos para 1.7L.
 
 ## Sin keep warm — la diferencia con el PE-DK2200N
 
 El listing del PE-DK1850 no menciona función de keep warm (mantener temperatura). El [PE-DK2200N](/producto/MLA47275624) tiene keep warm de 2 horas y función de memoria para cortes de luz.
 
-Si para vos el keep warm es importante — por ejemplo, para tener agua a 80°C disponible durante una hora sin volver a calentar — el PE-DK2200N es la opción dentro del mismo cluster Peabody. La diferencia de precio entre los dos modelos refleja esa funcionalidad extra.
+Si para vos el keep warm es importante — por ejemplo, para tener agua a 80°C disponible durante una hora sin volver a calentar — el PE-DK2200N es la opción dentro del mismo catálogo Peabody. La diferencia de precio entre los dos modelos refleja esa funcionalidad extra.
 
 ## 1.318 calificaciones y qué dicen
 
-Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen de reseñas del cluster de pavas del sitio. El resumen de opiniones de MercadoLibre destaca su velocidad, silencio, el selector de temperatura y el diseño elegante. 4.7 estrellas sobre ese volumen de reseñas es una señal confiable.`,
+Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen de reseñas del catálogo de pavas del sitio. El resumen de opiniones de MercadoLibre destaca su velocidad, silencio, el selector de temperatura y el diseño elegante. 4.7 estrellas sobre ese volumen de reseñas es una señal confiable.`,
     specs: [
       { label: 'Marca', value: 'Peabody' },
       { label: 'Modelo', value: 'PE-DK1850' },
@@ -7764,7 +7764,7 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
       {
         question: '¿Qué pasa si necesito una pava sin control de temperatura?',
         answer:
-          'Si el control de temperatura no es prioridad y buscás precio más accesible, la [Philips HD9350](/producto/MLA24601443) es la opción más básica del cluster: solo ebullición, filtro de acero inoxidable y garantía de 2 años.',
+          'Si el control de temperatura no es prioridad y buscás precio más accesible, la [Philips HD9350](/producto/MLA24601443) es la opción más básica del catálogo: solo ebullición, filtro de acero inoxidable y garantía de 2 años.',
       },
     ],
     structuredData: {
@@ -7844,9 +7844,9 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
     rating: 4.7,
     soldQuantity: 298,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Pava eléctrica Liliana AP152: cuerpo de acero inoxidable, 1.7L, 1500W, selector de 2 modos (agua para mate y hervir), corte automático, cable extraíble, base giratoria 360°, eficiencia Clase A. La más económica del cluster de pavas. 4.7⭐ con 298 calificaciones.',
+    description: 'Pava eléctrica Liliana AP152: cuerpo de acero inoxidable, 1.7L, 1500W, selector de 2 modos (agua para mate y hervir), corte automático, cable extraíble, base giratoria 360°, eficiencia Clase A. La más económica del catálogo de pavas. 4.7⭐ con 298 calificaciones.',
     pros: [
-      '$31.999 — precio más bajo del cluster de pavas',
+      '$31.999 — precio más bajo del catálogo de pavas',
       'Cuerpo de acero inoxidable completo',
       'Selector "Agua para mate" con botón físico etiquetado',
       '1.7L — alcanza para 6-8 mates',
@@ -7862,13 +7862,13 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
       'Sin keep warm',
       '⚠️ Inconsistencia sobre filtro: ficha dice "sin filtro", vendedor dice "removible"',
     ],
-    verdict: 'La Liliana AP152 es la pava más accesible del cluster ($31.999) y tiene un detalle que la separa del resto: un botón físico etiquetado "Agua para mate" en la base. Los compradores confirman en las reseñas que calienta el agua a la temperatura justa. Si querés acero inoxidable con selector dedicado para mate sin pagar pantallas digitales ni control continuo, es la opción concreta.',
+    verdict: 'La Liliana AP152 es la pava más accesible del catálogo ($31.999) y tiene un detalle que la separa del resto: un botón físico etiquetado "Agua para mate" en la base. Los compradores confirman en las reseñas que calienta el agua a la temperatura justa. Si querés acero inoxidable con selector dedicado para mate sin pagar pantallas digitales ni control continuo, es la opción concreta.',
     seoTitle: 'Liliana AP152: pava eléctrica de acero con selector mate',
-    metaDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector "Agua para mate", corte automático y cable extraíble. La más económica del cluster. $31.999 en ML.',
+    metaDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector "Agua para mate", corte automático y cable extraíble. La más económica del catálogo. $31.999 en ML.',
     ogTitle: 'Liliana AP152: pava eléctrica de acero con selector mate',
-    ogDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector Agua para mate, corte automático y cable extraíble. La más económica del cluster. $31.999.',
+    ogDescription: 'Pava eléctrica Liliana AP152: acero inoxidable, 1.7L, selector Agua para mate, corte automático y cable extraíble. La más económica del catálogo. $31.999.',
     h1: 'Liliana AP152: pava eléctrica de acero con selector para agua de mate',
-    articleBody: `La Liliana AP152 es la pava más accesible del cluster en precio ($31.999) y tiene un detalle que la separa del resto: en la base hay dos botones con indicadores de luz, uno etiquetado "Agua para mate" y otro "Hervir". Lo dice el diagrama del manual incluido en el listing.
+    articleBody: `La Liliana AP152 es la pava más accesible del catálogo en precio ($31.999) y tiene un detalle que la separa del resto: en la base hay dos botones con indicadores de luz, uno etiquetado "Agua para mate" y otro "Hervir". Lo dice el diagrama del manual incluido en el listing.
 
 La ficha técnica de MercadoLibre lista "Con función mate: No", pero el manual del producto contradice ese dato. El botón existe y está etiquetado. Los compradores lo confirman en las reseñas: el resumen de opiniones destaca específicamente que "tiene una opción específica para mate que calienta el agua a la temperatura justa".
 
@@ -7878,29 +7878,29 @@ En la base de la pava hay tres controles: un indicador luminoso verde (agua para
 
 El valor exacto de la temperatura del modo mate no está especificado en la ficha técnica. Los compradores que lo mencionan en las reseñas dicen que "calienta a la temperatura justa". Para saber el valor exacto, el manual físico o la descripción extendida del vendedor son la fuente más confiable.
 
-Ninguna otra pava del cluster tiene un botón físico con esa etiqueta. El [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40–100°C (más preciso, más caro). La [Philips HD9396](/producto/MLA47183370) tiene 6 niveles de temperatura (también más preciso, también más caro). La AP152 tiene un selector dedicado sin precisión de grado — más simple, más directo.
+Ninguna otra pava del catálogo tiene un botón físico con esa etiqueta. El [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40–100°C (más preciso, más caro). La [Philips HD9396](/producto/MLA47183370) tiene 6 niveles de temperatura (también más preciso, también más caro). La AP152 tiene un selector dedicado sin precisión de grado — más simple, más directo.
 
 ## Acero inoxidable y 1.7L
 
-El cuerpo es acero inoxidable. La capacidad es 1.7L — alcanza para 6 a 8 mates según el listing. El peso es 1.1 kg, más liviana que los modelos de mayor potencia del cluster.
+El cuerpo es acero inoxidable. La capacidad es 1.7L — alcanza para 6 a 8 mates según el listing. El peso es 1.1 kg, más liviana que los modelos de mayor potencia del catálogo.
 
 La eficiencia energética es Clase A. La base giratoria permite retirar la jarra desde cualquier ángulo. La tapa tiene seguro y botón de apertura.
 
 ## 1500W: qué significa en la práctica
 
-La potencia de la AP152 es 1500W, mientras que los otros modelos del cluster (Philips, Peabody) son 2200W. En tiempo real: la AP152 tarda aproximadamente 3–4 minutos en hervir 1.7L de agua. Los modelos de 2200W tardan 2–3 minutos para el mismo volumen.
+La potencia de la AP152 es 1500W, mientras que los otros modelos del catálogo (Philips, Peabody) son 2200W. En tiempo real: la AP152 tarda aproximadamente 3–4 minutos en hervir 1.7L de agua. Los modelos de 2200W tardan 2–3 minutos para el mismo volumen.
 
 Para uso doméstico normal — una ronda de mates, un té, un café — esa diferencia de 1–2 minutos no es crítica. Si el uso es intensivo (oficina, muchas personas, varias rondas seguidas), los modelos de 2200W tienen ventaja.
 
 ## Cable extraíble y sistema antigoteo
 
-El cable de alimentación es extraíble. Esto facilita el almacenamiento y limita el enredo de cables en la mesada. El listing menciona también sistema antigoteo en el pico — un detalle práctico que no todos los modelos del cluster especifican.
+El cable de alimentación es extraíble. Esto facilita el almacenamiento y limita el enredo de cables en la mesada. El listing menciona también sistema antigoteo en el pico — un detalle práctico que no todos los modelos del catálogo especifican.
 
 El filtro: la ficha técnica dice "Con filtro: No". La descripción del vendedor menciona "Filtro removible para fácil mantenimiento". Antes de comprar, vale verificar con el vendedor si el filtro está incluido o si es un dato del vendedor que no coincide con la especificación oficial.
 
-## $31.999 y el contexto del cluster
+## $31.999 y el contexto del catálogo
 
-La AP152 es la pava más accesible del cluster. Para quien necesita agua caliente para mate sin pantallas ni configuraciones, y quiere acero inoxidable con un botón dedicado para la temperatura del mate, es una opción concreta. Para quien necesita keep warm, control preciso de temperatura o más potencia, los modelos Peabody y Philips del sitio cubren eso a mayor precio.`,
+La AP152 es la pava más accesible del catálogo. Para quien necesita agua caliente para mate sin pantallas ni configuraciones, y quiere acero inoxidable con un botón dedicado para la temperatura del mate, es una opción concreta. Para quien necesita keep warm, control preciso de temperatura o más potencia, los modelos Peabody y Philips del sitio cubren eso a mayor precio.`,
     specs: [
       { label: 'Marca', value: 'Liliana' },
       { label: 'Modelo', value: 'AP152' },
@@ -7997,9 +7997,9 @@ La AP152 es la pava más accesible del cluster. Para quien necesita agua calient
     rating: 4.6,
     soldQuantity: 4777,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Liliana Mateando: pava eléctrica con función mate confirmada en ficha, 2000W, 1.7L, filtro extraíble y lavable, doble visor de nivel de agua, base giratoria 360°, luz LED azul. El mayor volumen de reseñas del cluster de pavas — 4.777 calificaciones en MercadoLibre.',
+    description: 'Liliana Mateando: pava eléctrica con función mate confirmada en ficha, 2000W, 1.7L, filtro extraíble y lavable, doble visor de nivel de agua, base giratoria 360°, luz LED azul. El mayor volumen de reseñas del catálogo de pavas — 4.777 calificaciones en MercadoLibre.',
     pros: [
-      '4.6⭐ con 4.777 calificaciones — el mayor volumen del cluster',
+      '4.6⭐ con 4.777 calificaciones — el mayor volumen del catálogo',
       'Función mate CONFIRMADA en ficha técnica oficial',
       'Filtro extraíble y lavable incluido',
       '2.000W — potencia media-alta, hierve rápido',
@@ -8015,13 +8015,13 @@ La AP152 es la pava más accesible del cluster. Para quien necesita agua calient
       'Sin keep warm',
       '⚠️ Inconsistencia de modelo: spec dice AP175B, imagen dice AP975B',
     ],
-    verdict: 'De todas las pavas del cluster, la Liliana Mateando tiene el mayor volumen de reseñas: 4.777 calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas. La función mate está confirmada en la ficha técnica (a diferencia del modelo AP152 donde hay inconsistencia). Si querés mate con filtro incluido y respaldo de compradores masivo, esta es la opción.',
+    verdict: 'De todas las pavas del catálogo, la Liliana Mateando tiene el mayor volumen de reseñas: 4.777 calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas. La función mate está confirmada en la ficha técnica (a diferencia del modelo AP152 donde hay inconsistencia). Si querés mate con filtro incluido y respaldo de compradores masivo, esta es la opción.',
     seoTitle: 'Liliana Mateando AP975B — pava con función mate y filtro',
     metaDescription: 'Pava eléctrica Liliana Mateando: función mate confirmada, 2000W, 1.7L, filtro extraíble, doble visor y luz LED azul. 4.777 calificaciones en MercadoLibre. $44.599.',
     ogTitle: 'Liliana Mateando AP975B — pava con función mate y filtro',
     ogDescription: 'Pava eléctrica Liliana Mateando: función mate confirmada, 2000W, 1.7L, filtro extraíble, doble visor y luz LED azul. 4.777 calificaciones. $44.599.',
     h1: 'Liliana Mateando AP975B: pava eléctrica con función mate, filtro y 4.777 opiniones',
-    articleBody: `De todas las pavas del cluster, la Liliana Mateando tiene el mayor volumen de reseñas: 4.777 calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas — es el número que se construye con muchas experiencias reales de compra.
+    articleBody: `De todas las pavas del catálogo, la Liliana Mateando tiene el mayor volumen de reseñas: 4.777 calificaciones y 2.177 comentarios. Con eso como base, el 4.6 que tiene en promedio dice más que un 4.8 con 80 reseñas — es el número que se construye con muchas experiencias reales de compra.
 
 La función mate está confirmada en la ficha técnica (a diferencia del modelo [AP152](/producto/MLA61505857) del mismo sitio, donde la ficha dice "No" pero el manual muestra el botón). Tiene 2 niveles de temperatura: mate y hervir. El selector es una perilla física en la base.
 
@@ -8037,7 +8037,7 @@ Si necesitás precisión de temperatura en grados con display digital, el [Peabo
 
 La ficha confirma "Con filtro: Sí". La descripción del listing detalla que es extraíble y lavable — se puede retirar para limpiarlo sin herramientas. Este filtro retiene partículas y sedimentos del agua.
 
-Es el único modelo del cluster de pavas que tiene filtro confirmado en la ficha técnica oficial (el AP152 tiene una inconsistencia entre la ficha y la descripción del vendedor al respecto).
+Es el único modelo del catálogo de pavas que tiene filtro confirmado en la ficha técnica oficial (el AP152 tiene una inconsistencia entre la ficha y la descripción del vendedor al respecto).
 
 ## Doble visor de nivel de agua
 
@@ -8055,9 +8055,9 @@ La potencia es 2000W — más que la AP152 (1500W) y cerca de los 2200W de Phili
 
 La base giratoria es 360° y antideslizante. La tapa tiene sistema de apertura con traba de seguridad — se abre presionando el botón, no levantando directamente.
 
-## El precio y el contexto en el cluster
+## El precio y el contexto en el catálogo
 
-A $44.599, la Mateando está en el rango medio del cluster: más cara que la AP152 ($31.999) pero bastante más accesible que los modelos Philips y el [Peabody DK1850](/producto/MLA14263533) ($55.900). Para alguien que quiere función mate confirmada, filtro incluido y plástico blanco (no acero), esta es la opción del cluster con el mayor respaldo de compradores.`,
+A $44.599, la Mateando está en el rango medio del catálogo: más cara que la AP152 ($31.999) pero bastante más accesible que los modelos Philips y el [Peabody DK1850](/producto/MLA14263533) ($55.900). Para alguien que quiere función mate confirmada, filtro incluido y plástico blanco (no acero), esta es la opción del catálogo con el mayor respaldo de compradores.`,
     specs: [
       { label: 'Marca', value: 'Liliana' },
       { label: 'Modelo', value: 'AP975B (spec lista AP175B — verificar)' },
@@ -8075,7 +8075,7 @@ A $44.599, la Mateando está en el rango medio del cluster: más cara que la AP1
       { label: 'Luz indicadora', value: 'LED azul' },
       { label: 'Apertura de tapa', value: 'Botón con traba de seguridad' },
       { label: 'Corte automático', value: 'Sí' },
-      { label: 'Rating', value: '4.6 ⭐ (4.777 calificaciones — 2.177 comentarios, el más alto del cluster)' },
+      { label: 'Rating', value: '4.6 ⭐ (4.777 calificaciones — 2.177 comentarios, el más alto del catálogo)' },
     ],
     faq: [
       {
@@ -8181,31 +8181,31 @@ A $44.599, la Mateando está en el rango medio del cluster: más cara que la AP1
     rating: 4.8,
     soldQuantity: 142,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Liliana Safeheat AP992B: pava eléctrica premium con doble pared (interior acero inoxidable), 7 niveles de temperatura, keep warm, display LED circular frontal, enrollacable integrado. La más completa del cluster. 1.5L, 1500W. 4.8⭐ con 142 calificaciones.',
+    description: 'Liliana Safeheat AP992B: pava eléctrica premium con doble pared (interior acero inoxidable), 7 niveles de temperatura, keep warm, display LED circular frontal, enrollacable integrado. La más completa del catálogo. 1.5L, 1500W. 4.8⭐ con 142 calificaciones.',
     pros: [
-      '4.8⭐ con 142 calificaciones — rating alto del cluster',
-      '7 niveles de temperatura — más que cualquier otro del cluster',
+      '4.8⭐ con 142 calificaciones — rating alto del catálogo',
+      '7 niveles de temperatura — más que cualquier otro del catálogo',
       'Doble pared: interior acero inoxidable + exterior plástico (se calienta menos)',
       'Keep warm confirmado — mantiene la temperatura seleccionada',
-      'Display circular LED frontal — único diseño del cluster',
-      'Enrollacable integrado en la base — único en el cluster',
+      'Display circular LED frontal — único diseño del catálogo',
+      'Enrollacable integrado en la base — único en el catálogo',
       'Pico y parte superior con acabado cromado plateado',
       '11% OFF — de $69.544 a $61.899',
     ],
     cons: [
-      '$61.899 — el precio más alto del cluster',
-      'Solo 1.5L — capacidad más pequeña del cluster',
+      '$61.899 — el precio más alto del catálogo',
+      'Solo 1.5L — capacidad más pequeña del catálogo',
       '1.500W — más lento que modelos de 2.200W',
       'Los valores exactos de los 7 niveles NO están publicados',
       'Tiempo de keep warm NO especificado en ficha (Peabody DK2200N sí: 2h)',
     ],
-    verdict: 'El Safeheat AP992B es la pava más completa en funciones de todo el cluster y la de mayor precio ($61.899). Tiene cosas que ninguna otra del cluster tiene: 7 niveles de temperatura, enrollacable integrado y un display circular LED al frente del cuerpo. También tiene doble pared y keep warm. A 4.8⭐ con 142 calificaciones, el volumen es bajo comparado con modelos de mayor trayectoria, pero el número va a crecer.',
+    verdict: 'El Safeheat AP992B es la pava más completa en funciones de todo el catálogo y la de mayor precio ($61.899). Tiene cosas que ninguna otra del catálogo tiene: 7 niveles de temperatura, enrollacable integrado y un display circular LED al frente del cuerpo. También tiene doble pared y keep warm. A 4.8⭐ con 142 calificaciones, el volumen es bajo comparado con modelos de mayor trayectoria, pero el número va a crecer.',
     seoTitle: 'Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared',
-    metaDescription: 'Pava eléctrica Liliana Safeheat AP992B: doble pared, 7 niveles de temperatura, keep warm, display LED circular y enrollacable. La más completa del cluster. $61.899.',
+    metaDescription: 'Pava eléctrica Liliana Safeheat AP992B: doble pared, 7 niveles de temperatura, keep warm, display LED circular y enrollacable. La más completa del catálogo. $61.899.',
     ogTitle: 'Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared',
-    ogDescription: 'Pava eléctrica Liliana Safeheat AP992B: doble pared, 7 niveles de temperatura, keep warm, display LED circular y enrollacable. La más completa del cluster. $61.899.',
+    ogDescription: 'Pava eléctrica Liliana Safeheat AP992B: doble pared, 7 niveles de temperatura, keep warm, display LED circular y enrollacable. La más completa del catálogo. $61.899.',
     h1: 'Liliana Safeheat AP992B: pava eléctrica con doble pared, 7 niveles y keep warm',
-    articleBody: `El Safeheat AP992B es la pava más completa en funciones de todo el cluster y la de mayor precio ($61.899). Tiene cosas que ninguna otra del cluster tiene: 7 niveles de temperatura, enrollacable integrado y un display circular LED al frente del cuerpo que muestra la temperatura en tiempo real. También tiene doble pared y keep warm.
+    articleBody: `El Safeheat AP992B es la pava más completa en funciones de todo el catálogo y la de mayor precio ($61.899). Tiene cosas que ninguna otra del catálogo tiene: 7 niveles de temperatura, enrollacable integrado y un display circular LED al frente del cuerpo que muestra la temperatura en tiempo real. También tiene doble pared y keep warm.
 
 A 4.8 estrellas con 142 calificaciones, el volumen de reseñas es todavía bajo comparado con los modelos de mayor trayectoria en el mercado. El número va a crecer. Lo que dicen los 96 comentarios actuales: buen diseño, calienta rápido, fácil de usar y la función de mantener temperatura destaca.
 
@@ -8215,9 +8215,9 @@ La construcción tiene doble pared: la capa interior en acero inoxidable, la ext
 
 No es el mismo nivel de aislamiento que la [Philips HD9396](/producto/MLA47183370) (que también tiene doble pared con acero en ambas capas), pero el principio es el mismo. El pico y la parte superior son de acero inoxidable con acabado plateado cromado — visible en las imágenes del listing.
 
-## 7 niveles de temperatura: el mayor del cluster
+## 7 niveles de temperatura: el mayor del catálogo
 
-Ninguna otra pava del cluster tiene 7 niveles de temperatura. La Philips HD9396 tiene 6, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40–100°C (más flexible que niveles fijos), los modelos Liliana [AP152](/producto/MLA61505857) y [Mateando](/producto/MLA8933826) tienen 2. El Safeheat AP992B tiene 7 niveles fijos.
+Ninguna otra pava del catálogo tiene 7 niveles de temperatura. La Philips HD9396 tiene 6, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40–100°C (más flexible que niveles fijos), los modelos Liliana [AP152](/producto/MLA61505857) y [Mateando](/producto/MLA8933826) tienen 2. El Safeheat AP992B tiene 7 niveles fijos.
 
 Los valores exactos de los 7 niveles no están listados en la ficha de MercadoLibre. La descripción del vendedor confirma el número pero no los grados. Para el mate (70–80°C ideal), con 7 niveles es esperable que uno o dos estén en ese rango, pero conviene verificarlo con el vendedor antes de comprar si eso es determinante.
 
@@ -8225,27 +8225,27 @@ Los valores exactos de los 7 niveles no están listados en la ficha de MercadoLi
 
 La función keep warm está confirmada en la descripción del producto. Mantiene el agua caliente a la temperatura seleccionada después de que alcanza el nivel objetivo. El tiempo de mantenimiento no está especificado en la ficha — vale verificar ese dato con el vendedor, especialmente si lo vas a usar para rondas largas de mate.
 
-En el cluster, el keep warm confirmado con tiempo especificado lo tiene el [Peabody PE-DK2200N](/producto/MLA47275624) (2 horas). El Safeheat tiene la función pero el tiempo no está en la ficha pública.
+En el catálogo, el keep warm confirmado con tiempo especificado lo tiene el [Peabody PE-DK2200N](/producto/MLA47275624) (2 horas). El Safeheat tiene la función pero el tiempo no está en la ficha pública.
 
 ## El display circular LED
 
-El display está al frente del cuerpo, cerca de la base. Es una pantalla circular con marco metálico que muestra la temperatura en grados Celsius. Los botones de control (+/-) están al costado del display. El diseño es distinto a cualquier otra pava del cluster: ningún otro modelo tiene ese tipo de visualización circular.
+El display está al frente del cuerpo, cerca de la base. Es una pantalla circular con marco metálico que muestra la temperatura en grados Celsius. Los botones de control (+/-) están al costado del display. El diseño es distinto a cualquier otra pava del catálogo: ningún otro modelo tiene ese tipo de visualización circular.
 
 La lectura de temperatura en tiempo real durante el calentamiento hace que sea fácil saber exactamente en qué momento detener el proceso o activar el keep warm.
 
 ## Enrollacable y 1500W
 
-El enrollacable está integrado en la base — el cable se guarda envolviendo alrededor de la base para que no quede suelto en la mesada. Es un detalle funcional que ninguna otra pava del cluster tiene.
+El enrollacable está integrado en la base — el cable se guarda envolviendo alrededor de la base para que no quede suelto en la mesada. Es un detalle funcional que ninguna otra pava del catálogo tiene.
 
 La potencia es 1500W, igual que la Liliana AP152. Para 1.5L de capacidad, el tiempo de calentamiento desde temperatura ambiente hasta hervir es entre 3 y 4 minutos. Los modelos de 2200W (Philips HD9396, Peabody PE-DK2200N, PE-DK1850) son más rápidos para el mismo volumen.
 
-## 1.5L: la capacidad más pequeña del cluster
+## 1.5L: la capacidad más pequeña del catálogo
 
-La capacidad es 1.5L, igual que el Peabody PE-DK2200N y menor que los modelos de 1.7L del cluster. Para una persona o dos, 1.5L es suficiente para varias rondas de mates. Para grupos más grandes o uso intensivo, los modelos de 1.7L tienen mayor rendimiento por carga.
+La capacidad es 1.5L, igual que el Peabody PE-DK2200N y menor que los modelos de 1.7L del catálogo. Para una persona o dos, 1.5L es suficiente para varias rondas de mates. Para grupos más grandes o uso intensivo, los modelos de 1.7L tienen mayor rendimiento por carga.
 
-## El precio y la posición en el cluster
+## El precio y la posición en el catálogo
 
-A $61.899 es la pava más cara de todas las que están en el sitio. El precio refleja la doble pared, el keep warm, los 7 niveles de temperatura, el display LED y el enrollacable — funciones que en el cluster solo aparecen juntas en este modelo. Si alguna de esas funciones no es prioritaria, hay opciones a menor precio: la [Liliana Mateando AP975B](/producto/MLA8933826) tiene función mate confirmada y 4.777 calificaciones a $44.599. El [Peabody PE-DK2200N](/producto/MLA47275624) tiene control de temperatura continuo (40–100°C) y keep warm de 2 horas especificado.`,
+A $61.899 es la pava más cara de todas las que están en el sitio. El precio refleja la doble pared, el keep warm, los 7 niveles de temperatura, el display LED y el enrollacable — funciones que en el catálogo solo aparecen juntas en este modelo. Si alguna de esas funciones no es prioritaria, hay opciones a menor precio: la [Liliana Mateando AP975B](/producto/MLA8933826) tiene función mate confirmada y 4.777 calificaciones a $44.599. El [Peabody PE-DK2200N](/producto/MLA47275624) tiene control de temperatura continuo (40–100°C) y keep warm de 2 horas especificado.`,
     specs: [
       { label: 'Marca', value: 'Liliana' },
       { label: 'Modelo', value: 'AP992B' },
@@ -8538,7 +8538,7 @@ Si ya usás [jade roller o gua sha](/guias/masajeador-facial) y querés sumar al
       'Llega en embalaje básico (sin estuche)',
       'Requiere técnica manual para gua sha',
     ],
-    verdict: 'La mejor entrada económica al skincare facial. Por $5.399 con 2.195 compradores, es la opción más baja del cluster.',
+    verdict: 'La mejor entrada económica al skincare facial. Por $5.399 con 2.195 compradores, es la opción más baja del catálogo.',
     articleBody: `## Qué incluye el kit
 
 El rodillo tiene dos rodillos montados en un mango metálico dorado: uno grande para mejillas, frente y cuello, y uno pequeño para el contorno de ojos y la nariz. La piedra es verde con veteado natural, y el acabado es suave al tacto.
@@ -8672,7 +8672,7 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
       'No usar sobre rosácea o piel muy irritada',
       'No apto si tenés implantes metálicos',
     ],
-    verdict: 'El dispositivo más técnico del cluster facial. Tiene sentido para acné persistente o si ya conocés la alta frecuencia de cabina.',
+    verdict: 'El dispositivo más técnico del catálogo facial. Tiene sentido para acné persistente o si ya conocés la alta frecuencia de cabina.',
     articleBody: `## Qué es la alta frecuencia y cómo funciona el LF60
 
 La alta frecuencia es una tecnología que existe en estética desde hace décadas. Los equipos profesionales de cabina usan el mismo principio que este: una corriente eléctrica de alta frecuencia que pasa a través de un tubo de vidrio relleno de gas neón. Al contacto con la piel, genera una micro-descarga que produce ozono de forma localizada y tiene efecto bactericida.
@@ -8709,7 +8709,7 @@ Para acné activo se recomienda el electrodo cuchara directo sobre el brote, 1-2
 
 Frecuencia recomendada: 3-4 veces por semana. No todos los días si la piel es sensible. No usar sobre piel muy irritada, heridas abiertas, rosácea activa ni zona de implantes metálicos.
 
-## Dónde encaja en el cluster facial
+## Dónde encaja en el catálogo facial
 
 Tres opciones en el catálogo con tres lógicas distintas. El [kit jade + gua sha](/producto/MLA24518712) ($5.399) es la entrada manual — ritual diario, drenaje, sin electrónica. La [Energy Beauty Bar](/producto/MLA1841302022) ($18.399) suma vibración mecánica y microcorriente para anti-aging básico. El LF60 es el dispositivo más técnico y el más caro de los tres. Tiene sentido para personas con acné que no encuentran solución con productos tópicos, o para quienes ya conocen la alta frecuencia de cabinas de estética y quieren el resultado en casa.
 
@@ -8803,7 +8803,7 @@ Más contexto en la [guía de masajeadores faciales](/guias/masajeador-facial) y
     ],
     cons: [
       'Solo 8 calificaciones — historial limitado',
-      'Rating 3.9 (por debajo del cluster)',
+      'Rating 3.9 (por debajo del catálogo)',
       'Apagado automático a los 15 min sin opción a desactivar',
       'Peso no especificado por el vendedor',
     ],
@@ -8937,7 +8937,7 @@ Si buscás más variedad en masajeadores de espalda y cuello, mirá la [guía de
     cons: [
       'Sin shiatsu (solo vibración)',
       'Control alámbrico (no remoto)',
-      'Rating 4.0 — por debajo del cluster facial',
+      'Rating 4.0 — por debajo del catálogo facial',
       'Marca discrepante (vendido como Electroland, control dice Cinvedu)',
     ],
     verdict: 'Cobertura full-body a precio razonable para quienes prefieren vibración sobre presión profunda. Si querés shiatsu, mirá el Melfit I2500.',
@@ -9065,7 +9065,7 @@ Más opciones en la [guía de masajeador de espalda](/guias/masajeador-espalda) 
       'Ficha ML con datos inconsistentes (velocidades/cabezales)',
       'No reemplaza el masaje amplio de un asiento shiatsu',
     ],
-    verdict: 'El producto más sólido del cluster. 4.8⭐ con 6.679 reseñas no es casualidad. Si querés una sola pistola masajeadora, es esta.',
+    verdict: 'El producto más sólido del catálogo. 4.8⭐ con 6.679 reseñas no es casualidad. Si querés una sola pistola masajeadora, es esta.',
     articleBody: `## Qué diferencia al motor brushless
 
 La mayoría de las pistolas masajeadoras de precio similar usan motores con carbones (brushed). El motor brushless de la Femmto MP no tiene piezas de rozamiento, lo que tiene tres consecuencias prácticas: genera menos calor durante el uso, hace menos ruido (65dB según el fabricante, que está por debajo del nivel de conversación normal) y dura más tiempo antes de necesitar reemplazo.
@@ -9204,7 +9204,7 @@ No tiene shiatsu ni nodos rotativos. Es percusión por vibración, que es difere
       'Segundo cabezal no confirmado en publicación',
       'Rating 4.6 — justo debajo del umbral trending',
     ],
-    verdict: 'El único masajeador de mano del cluster con infrarrojo real + certificación IQC argentina. Sin batería = sin incertidumbre.',
+    verdict: 'El único masajeador de mano del catálogo con infrarrojo real + certificación IQC argentina. Sin batería = sin incertidumbre.',
     articleBody: `## Por qué un masajeador eléctrico con cable tiene ventajas reales
 
 La mayoría de los masajeadores que aparecen en MercadoLibre hoy funcionan con batería. Es cómodo, está bien. Pero hay un escenario donde eso es una desventaja concreta: cuando necesitás usarlo 30 o 40 minutos seguidos y no tenés forma de saber cuánta carga le queda.
@@ -9217,7 +9217,7 @@ No es una pistola masajeadora. Eso vale aclararlo desde el principio porque el d
 
 El Caliber Percussion incorpora tres emisores LED infrarrojos en la cabeza del dispositivo: dos grandes a los lados y uno más pequeño en el centro. No es marketing — se ven claramente en las fotos de compradores que muestran el aparato en funcionamiento.
 
-El calor infrarrojo penetra más profundo que el calor superficial de almohadillas térmicas convencionales. Combinado con la percusión mecánica de los nodos rotativos, el resultado es una acción doble sobre la zona tratada: movimiento + calor localizado. En el segmento de masajeadores eléctricos de este rango de precio, ningún otro producto del cluster ofrece esa combinación.
+El calor infrarrojo penetra más profundo que el calor superficial de almohadillas térmicas convencionales. Combinado con la percusión mecánica de los nodos rotativos, el resultado es una acción doble sobre la zona tratada: movimiento + calor localizado. En el segmento de masajeadores eléctricos de este rango de precio, ningún otro producto del catálogo ofrece esa combinación.
 
 La [Femmto MP](/producto/MLA37908577) tiene sensor de presión y motor brushless — no tiene infrarrojo. El [Melfit I2500](/producto/MLA28420339) tiene calor infrarrojo en el asiento pero no es un dispositivo manual. El Caliber Percussion es el único masajeador de mano con infrarrojos en esta selección.
 
@@ -9233,7 +9233,7 @@ Trae dos accesorios intercambiables en la caja. No se confirma el tipo exacto de
 
 Este es un punto que merece atención. El Caliber Percussion cuenta con certificación de seguridad eléctrica emitida por IQC S.A., laboratorio acreditado en Argentina, bajo el número T8354/3.
 
-Para un dispositivo eléctrico que se usa sobre el cuerpo humano, eso no es un detalle menor. Significa que el producto pasó controles de aislación eléctrica y cumple con las normas de seguridad para productos de consumo en el mercado argentino. En el cluster de masajeadores, solo el Melfit I2500 (certificado IRAM) tiene un nivel de respaldo institucional comparable.
+Para un dispositivo eléctrico que se usa sobre el cuerpo humano, eso no es un detalle menor. Significa que el producto pasó controles de aislación eléctrica y cumple con las normas de seguridad para productos de consumo en el mercado argentino. En el catálogo de masajeadores, solo el Melfit I2500 (certificado IRAM) tiene un nivel de respaldo institucional comparable.
 
 ## ¿Para quién tiene más sentido?
 
@@ -9336,7 +9336,7 @@ No es la mejor opción si necesitás usarlo en distintos ambientes o al aire lib
       'Compresión de aire mencionada pero no confirmada',
       'Requiere cable 220V (no portátil)',
     ],
-    verdict: 'La opción más comprada de masajeador de pies en el cluster. Shiatsu bidireccional + calor + forro lavable. Si trabajás mucho parado, es el indicado.',
+    verdict: 'La opción más comprada de masajeador de pies en el catálogo. Shiatsu bidireccional + calor + forro lavable. Si trabajás mucho parado, es el indicado.',
     articleBody: `## Lo que hace diferente a un masajeador de pies dedicado
 
 Los pies tienen más de 7.000 terminaciones nerviosas. Después de un día parado, caminando o sentado con mala circulación, la tensión acumulada en la planta, el arco y los tobillos es real. Un masajeador genérico de cuerpo puede llegar a esa zona, pero no con la geometría ni la presión que necesita un pie.
@@ -9355,7 +9355,7 @@ El calor infrarrojo es independiente y activable por separado. Cuando está acti
 
 ## Cubierta extraíble y lavable: el detalle que importa a largo plazo
 
-Un masajeador de pies que se usa a diario acumula sudor y suciedad en la tela interior. El Suono resuelve esto con una cubierta que se separa del cuerpo del aparato mediante una cremallera. Se puede lavar por separado y volver a colocar. Ningún otro masajeador del cluster tiene esta característica.
+Un masajeador de pies que se usa a diario acumula sudor y suciedad en la tela interior. El Suono resuelve esto con una cubierta que se separa del cuerpo del aparato mediante una cremallera. Se puede lavar por separado y volver a colocar. Ningún otro masajeador del catálogo tiene esta característica.
 
 Para quienes comparten el aparato en familia o lo usan después del gym, esto no es un bonus sino una condición de higiene básica que los productos genéricos no cumplen.
 
@@ -9371,7 +9371,7 @@ La descripción del vendedor menciona: "Ajusta la compresión del aire con 3 niv
 
 Puede tratarse de un texto de descripción genérico aplicado por error, o puede referirse a la presión de los nodos shiatsu usando el término "compresión" de manera metafórica. Para confirmar si hay cámaras de aire reales, recomendamos consultar directamente al vendedor antes de comprar.
 
-Si querés cubrir otras zonas además de los pies, el [Caliber Percussion](/producto/MLA25263767) es un masajeador de mano con infrarrojo que también sirve para cuello y espalda. Para pistola percusora inalámbrica, la [Femmto MP](/producto/MLA37908577) es la opción fuerte del cluster. Más contexto en la [guía de masajeador de pies](/guias/masajeador-pies) y en la [comparativa general de masajeadores](/guias/mejores-masajeadores-argentina).`,
+Si querés cubrir otras zonas además de los pies, el [Caliber Percussion](/producto/MLA25263767) es un masajeador de mano con infrarrojo que también sirve para cuello y espalda. Para pistola percusora inalámbrica, la [Femmto MP](/producto/MLA37908577) es la opción fuerte del catálogo. Más contexto en la [guía de masajeador de pies](/guias/masajeador-pies) y en la [comparativa general de masajeadores](/guias/mejores-masajeadores-argentina).`,
     specs: [
       { label: 'Marca / Modelo', value: 'Suono / Foot Massage Luxury' },
       { label: 'Voltaje', value: '220V' },
@@ -9473,22 +9473,22 @@ Si querés cubrir otras zonas además de los pies, el [Caliber Percussion](/prod
       'Datos del fabricante con discrepancias (niveles de calor/intensidad)',
       'Volumen de reseñas todavía bajo (139)',
     ],
-    verdict: 'El masajeador de pies más completo del cluster. Bolsas de aire + 3 niveles de calor + remoto. Si trabajás parado o tenés fascitis plantar, justifica el precio.',
+    verdict: 'El masajeador de pies más completo del catálogo. Bolsas de aire + 3 niveles de calor + remoto. Si trabajás parado o tenés fascitis plantar, justifica el precio.',
     articleBody: `## La diferencia entre un masajeador de pies básico y uno reflexológico
 
 Un masajeador de pies por vibración trabaja sobre la superficie. Uno con técnica reflexológica actúa sobre puntos específicos de la planta del pie que, según la práctica reflexológica, están vinculados a distintas zonas del cuerpo. No es lo mismo cómo se siente el masaje ni cómo trabaja el dispositivo.
 
-El San-Up ReflexWave es el masajeador de pies más completo en esta selección. A $199.499 es también el más caro del cluster. Pero tiene features que ningún otro tiene de forma combinada: bolsas de aire integradas para compresión lateral, 3 niveles de calor infrarrojo ajustables por separado, control remoto táctil y apagado automático a los 15 minutos.
+El San-Up ReflexWave es el masajeador de pies más completo en esta selección. A $199.499 es también el más caro del catálogo. Pero tiene features que ningún otro tiene de forma combinada: bolsas de aire integradas para compresión lateral, 3 niveles de calor infrarrojo ajustables por separado, control remoto táctil y apagado automático a los 15 minutos.
 
 Con 4.7 estrellas sobre 139 calificaciones, el volumen de reseñas es todavía bajo para tener una señal de rating muy consolidada. Lo que sí muestra es que, entre quienes lo compraron y lo calificaron, el porcentaje de satisfacción es alto.
 
 ## Bolsas de aire: la función que cambia la experiencia
 
-El [Suono Foot Massage Luxury](/producto/MLA23131501) del mismo cluster tiene nodos shiatsu que hacen presión mecánica. El San-Up ReflexWave agrega bolsas de aire integradas que se inflan y desinflan de forma controlada para generar un efecto de compresión envolvente alrededor del pie. Es una sensación distinta: en lugar de punto a punto, el pie queda contenido y con presión distribuida.
+El [Suono Foot Massage Luxury](/producto/MLA23131501) del mismo catálogo tiene nodos shiatsu que hacen presión mecánica. El San-Up ReflexWave agrega bolsas de aire integradas que se inflan y desinflan de forma controlada para generar un efecto de compresión envolvente alrededor del pie. Es una sensación distinta: en lugar de punto a punto, el pie queda contenido y con presión distribuida.
 
 Esta tecnología se llama air compression o neumamasaje, y es habitual en equipos de recuperación deportiva de rango superior. En el segmento de masajeadores de pies para uso doméstico, es una característica que diferencia claramente al San-Up de los modelos con shiatsu puro.
 
-## Tres niveles de calor: más control que el resto del cluster
+## Tres niveles de calor: más control que el resto del catálogo
 
 El calor infrarrojo del San-Up no es simplemente "encendido/apagado". Tiene 3 niveles ajustables de forma independiente al modo de masaje. Eso significa que podés tener masaje suave con calor intenso, o masaje intenso sin calor, o cualquier combinación según cómo estén los pies ese día.
 
@@ -9510,7 +9510,7 @@ El San-Up ReflexWave mide 44,4 cm de largo, 40 cm de ancho y 25,4 cm de alto. So
 
 ## Para quién tiene sentido pagar el precio premium
 
-El San-Up ReflexWave cuesta cuatro veces más que el Suono Foot Massage Luxury del mismo cluster. Para justificar esa diferencia necesitás valorar específicamente lo que agrega: las bolsas de aire, el control remoto, los 3 niveles de calor ajustables y el auto-off.
+El San-Up ReflexWave cuesta cuatro veces más que el Suono Foot Massage Luxury del mismo catálogo. Para justificar esa diferencia necesitás valorar específicamente lo que agrega: las bolsas de aire, el control remoto, los 3 niveles de calor ajustables y el auto-off.
 
 Si la prioridad es solo tener shiatsu básico con calor a un precio accesible, el [Suono](/producto/MLA23131501) tiene más sentido. Si buscás un equipo completo para recuperación diaria o tenés problemas específicos como fascitis plantar o circulación deficiente en los pies (como mencionan compradores en las reseñas de MercadoLibre), el San-Up ReflexWave justifica el precio con features concretos. Más contexto en la [guía de masajeador de pies](/guias/masajeador-pies) y en la [comparativa general](/guias/mejores-masajeadores-argentina).`,
     specs: [
@@ -9597,8 +9597,8 @@ Si la prioridad es solo tener shiatsu básico con calor a un precio accesible, e
     seoTitle: 'Masajeador Cervical Shiatsu Inalámbrico Femmto M2 | PickViral',
     metaDescription: 'Femmto M2: masajeador cervical shiatsu inalámbrico con 8 nodos, calor infrarrojo, bidireccional y USB-C. 4.8⭐ con más de 11.000 compradores. $31.913.',
     ogTitle: 'Masajeador Cervical Shiatsu Inalámbrico Femmto M2 | PickViral',
-    ogDescription: '8 nodos shiatsu bidireccionales, calor infrarrojo 30°C-48°C, batería USB-C recargable, 15min auto-off. El masajeador cervical más vendido del cluster con 4.8⭐ y más de 11.000 compradores.',
-    h1: 'Femmto M2: el masajeador cervical inalámbrico más valorado del cluster con 11.000 compradores',
+    ogDescription: '8 nodos shiatsu bidireccionales, calor infrarrojo 30°C-48°C, batería USB-C recargable, 15min auto-off. El masajeador cervical más vendido del catálogo con 4.8⭐ y más de 11.000 compradores.',
+    h1: 'Femmto M2: el masajeador cervical inalámbrico más valorado del catálogo con 11.000 compradores',
     pros: [
       '8 nodos shiatsu bidireccionales (4 por lado)',
       'Inalámbrico con batería USB-C recargable',
@@ -9613,18 +9613,18 @@ Si la prioridad es solo tener shiatsu básico con calor a un precio accesible, e
       'Cargador incluido o no — ficha contradictoria',
       'Talle único (puede quedar ajustado)',
     ],
-    verdict: 'Líder absoluto del cluster: 11.102 compradores con 4.8⭐. Inalámbrico, manos libres, precio accesible. La compra más segura si el problema es cervical.',
+    verdict: 'Líder absoluto del catálogo: 11.102 compradores con 4.8⭐. Inalámbrico, manos libres, precio accesible. La compra más segura si el problema es cervical.',
     articleBody: `## 11.102 calificaciones con 4.8 estrellas: lo que eso significa
 
-En el mercado argentino de masajeadores eléctricos, hay pocos productos que acumulen ese nivel de calificaciones con ese rating. El Femmto M2 tiene más reseñas que todos los otros masajeadores de este cluster combinados. No es un producto nuevo con pocas opiniones — es un producto que ya fue probado por una cantidad significativa de compradores y sigue siendo muy bien evaluado.
+En el mercado argentino de masajeadores eléctricos, hay pocos productos que acumulen ese nivel de calificaciones con ese rating. El Femmto M2 tiene más reseñas que todos los otros masajeadores de este catálogo combinados. No es un producto nuevo con pocas opiniones — es un producto que ya fue probado por una cantidad significativa de compradores y sigue siendo muy bien evaluado.
 
-El resumen de MercadoLibre sobre las reseñas dice: "altamente recomendable por su capacidad para aliviar dolores y relajar diferentes partes del cuerpo, como el cuello, la espalda y las rodillas. Es un producto económico que cumple con las expectativas". A $31.913 es el masajeador más accesible del cluster después del kit de jade, y el que más compradores reales tiene.
+El resumen de MercadoLibre sobre las reseñas dice: "altamente recomendable por su capacidad para aliviar dolores y relajar diferentes partes del cuerpo, como el cuello, la espalda y las rodillas. Es un producto económico que cumple con las expectativas". A $31.913 es el masajeador más accesible del catálogo después del kit de jade, y el que más compradores reales tiene.
 
 ## Diseño tipo collar: por qué es diferente a todos los demás
 
 El Femmto M2 no es un asiento, no es un wand, no es una pistola. Es un masajeador en forma de U que descansa sobre los hombros y envuelve la parte posterior del cuello. Los 8 nodos shiatsu quedan en contacto directo con la zona cervical y la nuca sin que el usuario tenga que sostener nada.
 
-Eso permite una situación que ningún otro masajeador del cluster permite: usarlo con las manos completamente libres. Podés leer, tomar mate, trabajar frente a una pantalla o simplemente descansar mientras funciona.
+Eso permite una situación que ningún otro masajeador del catálogo permite: usarlo con las manos completamente libres. Podés leer, tomar mate, trabajar frente a una pantalla o simplemente descansar mientras funciona.
 
 Los 4 botones en el lateral del cuerpo son claros: encendido/apagado, cambio de dirección, cambio de velocidad, y función calor. No hay modos complejos ni menús que navegar.
 
@@ -9650,9 +9650,9 @@ A 2.800 RPM con variación de ±200 según la velocidad seleccionada, la intensi
 
 ## Por qué el cervical más vendido no es el más caro
 
-El [Melfit I2500](/producto/MLA28420339) (asiento masajeador shiatsu del mismo cluster) cuesta $266.584. El Femmto M2 cuesta $31.913. La diferencia es real: el asiento tiene más zonas de cobertura, compresión de aire, control inalámbrico y estructura para uso fijo. Pero para quien solo necesita masaje cervical y de hombros que pueda usar en movimiento, el Femmto M2 hace lo necesario con un formato que el asiento no puede replicar.
+El [Melfit I2500](/producto/MLA28420339) (asiento masajeador shiatsu del mismo catálogo) cuesta $266.584. El Femmto M2 cuesta $31.913. La diferencia es real: el asiento tiene más zonas de cobertura, compresión de aire, control inalámbrico y estructura para uso fijo. Pero para quien solo necesita masaje cervical y de hombros que pueda usar en movimiento, el Femmto M2 hace lo necesario con un formato que el asiento no puede replicar.
 
-Femmto ya tiene presencia en el cluster con el [modelo MP](/producto/MLA37908577) (pistola masajeadora, la más viral de los masajeadores de cuerpo). El M2 es el cervical de la misma línea: mismo posicionamiento de marca, mismo nivel de calidad ejecutado en un formato distinto. Más en la [guía de masajeador cervical](/guias/masajeador-cervical) y en la [comparativa general](/guias/mejores-masajeadores-argentina).`,
+Femmto ya tiene presencia en el catálogo con el [modelo MP](/producto/MLA37908577) (pistola masajeadora, la más viral de los masajeadores de cuerpo). El M2 es el cervical de la misma línea: mismo posicionamiento de marca, mismo nivel de calidad ejecutado en un formato distinto. Más en la [guía de masajeador cervical](/guias/masajeador-cervical) y en la [comparativa general](/guias/mejores-masajeadores-argentina).`,
     specs: [
       { label: 'Marca / Modelo', value: 'Femmto / M2' },
       { label: 'Tipo', value: 'Masajeador cervical tipo collar (U-shape)' },
@@ -9755,7 +9755,7 @@ Femmto ya tiene presencia en el cluster con el [modelo MP](/producto/MLA37908577
       'Sin Wi-Fi / app',
       'Dimensiones físicas no publicadas por el vendedor',
     ],
-    verdict: 'La freidora Atma más vendida: 4.8⭐ con 2.516 reseñas. 8 L + ventana con luz + 8 programas para empezar sin manual. Lo más seguro del cluster.',
+    verdict: 'La freidora Atma más vendida: 4.8⭐ con 2.516 reseñas. 8 L + ventana con luz + 8 programas para empezar sin manual. Lo más seguro del catálogo.',
     articleBody: `## Para quién es esta freidora
 
 El tamaño de 8 litros tiene una lógica práctica: es suficiente para cocinar para 4 o 5 personas sin hacer tandas. Podés meter un pollo entero, una bandeja de papas abundante o una fuente de vegetales en una sola cocción.
@@ -9877,7 +9877,7 @@ Compará contra los otros modelos Atma del catálogo: la [Atma Pro FR60AR 6.5L](
     ogDescription: '4.8⭐ con más de 10.000 compradores. Analizamos la Atma Pro FR60AR: tiempos de cocción reales, dimensiones, programas por tipo de alimento y comparación con otros modelos.',
     h1: 'Freidora de aire Atma Pro FR60AR 6.5 litros: la más vendida de la marca con 10.000 calificaciones',
     pros: [
-      '10.231 calificaciones con 4.8⭐ (la más probada del cluster)',
+      '10.231 calificaciones con 4.8⭐ (la más probada del catálogo)',
       'Diseño compacto tipo cubo (27 × 27 × 28 cm)',
       '6 programas por tipo de alimento (intuitivos)',
       'Temperatura máxima 220°C',
@@ -9932,7 +9932,7 @@ En la práctica, esto no suele ser un problema en freidoras de canasto estándar
 
 Si necesitás más capacidad y ventana, la [FR248ABP de 8L](/producto/MLA39861162) (1750W, ventana con luz, 8 programas por técnica). Si preferís el modelo más probado con mejor relación tamaño/potencia, el FR60AR (6.5L, 1300W, diseño cubo compacto, 6 programas por alimento).
 
-Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la [Pro doble canasta 8.5L](/producto/MLA40161710) del mismo cluster.`,
+Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la [Pro doble canasta 8.5L](/producto/MLA40161710) del mismo catálogo.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Atma Pro / FR60AR (94FR60AR)' },
       { label: 'Capacidad', value: '6.5 litros' },
@@ -10020,7 +10020,7 @@ Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la
     ogDescription: 'La Atma que también grilla: 260°C, 12 programas, termómetro inteligente y 4.9⭐ con 2.909 calificaciones. Analizamos si la función grill justifica el precio frente a los modelos de solo aire.',
     h1: 'Freidora de aire y grill Atma FR901DP: la única Atma que llega a 260°C e incluye termómetro',
     pros: [
-      '4.9⭐ — el rating más alto del cluster',
+      '4.9⭐ — el rating más alto del catálogo',
       'Freidora de aire + grill en un solo equipo',
       'Temperatura hasta 260°C (única en la línea Atma)',
       '12 programas preestablecidos',
@@ -10028,7 +10028,7 @@ Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la
       'Bandeja recolectora de jugos',
     ],
     cons: [
-      '$185.999 — precio alto del sub-cluster Atma',
+      '$185.999 — precio alto del sub-catálogo Atma',
       '8.13 kg (el más pesado del grupo)',
       'Ocupa 37 cm de ancho × 38.5 cm de alto en mesada',
       'Sin ventana transparente',
@@ -10184,7 +10184,7 @@ Eso resuelve el problema práctico de la mayoría de las comidas: el guarnición
 
 La ficha de ML confirma "Con ventana transparente: Sí" y las imágenes muestran dos ventanas — una por canasta — con luz interior activa. Los compradores lo mencionan en los comentarios: "la luz interna facilita la supervisión de la cocción sin necesidad de abrir la tapa."
 
-Dentro del sub-cluster Atma, solo la [FR248ABP](/producto/MLA39861162) y esta FRD248AP tienen ventana. La [FR60AR](/producto/MLA27351841) y la [FR901DP](/producto/MLA37004216) no la tienen. La FRD248AP es la única con dos ventanas simultáneas.
+Dentro del sub-catálogo Atma, solo la [FR248ABP](/producto/MLA39861162) y esta FRD248AP tienen ventana. La [FR60AR](/producto/MLA27351841) y la [FR901DP](/producto/MLA37004216) no la tienen. La FRD248AP es la única con dos ventanas simultáneas.
 
 ## Los 6 programas preestablecidos
 
@@ -10413,7 +10413,7 @@ Comparala también contra la [Atma Pro FR60AR](/producto/MLA27351841) — misma 
     ogDescription: 'La Peabody PE-AFD720N tiene visor superior 360° con luz interna, 11 programas (incluye deshidratar y descongelar) y timer hasta 15 horas. 4.8⭐ con 2.144 calificaciones.',
     h1: 'Freidora de Aire Peabody PE-AFD720N 7.2L: visor 360° desde arriba y 11 programas',
     pros: [
-      'Visor 360° desde la tapa (único en el cluster)',
+      'Visor 360° desde la tapa (único en el catálogo)',
       '7.2 L — más capacidad que los modelos de 6.5L',
       'Deshidratar + Descongelar (raros en este precio)',
       'Timer de 1 a 15 horas',
@@ -10453,7 +10453,7 @@ Acá hay un detalle que vale la pena mencionar: la PE-AFD650N (más económica) 
 
 La PE-AFD720N tiene sentido para quien cocina para 3 o 4 personas y quiere más programas que la 650N. Los 7.2 litros dan margen para porciones mayores sin tener que cocinar en dos tandas. Si vas a usar Deshidratar para snacks caseros o Descongelar como función habitual, la diferencia de precio respecto a la 650N se justifica.
 
-Si lo que buscás es simplemente capacidad o el menor precio por litro, hay opciones más convenientes en el cluster. Si querés cocinar dos preparaciones al mismo tiempo, mirá la [Peabody doble piso 10L](/producto/MLA53776810) o la [Atma Pro Doble 8.5L](/producto/MLA40161710). Si preferís grill, la [Peabody PE-AFG01IX](/producto/MLA23318618) es otra opción.
+Si lo que buscás es simplemente capacidad o el menor precio por litro, hay opciones más convenientes en el catálogo. Si querés cocinar dos preparaciones al mismo tiempo, mirá la [Peabody doble piso 10L](/producto/MLA53776810) o la [Atma Pro Doble 8.5L](/producto/MLA40161710). Si preferís grill, la [Peabody PE-AFG01IX](/producto/MLA23318618) es otra opción.
 
 El diseño con visor en tapa es una preferencia subjetiva: a algunas personas les resulta más cómodo mirar desde arriba, a otras les resulta más natural la ventana frontal de la 650N.`,
     specs: [
@@ -10543,13 +10543,13 @@ El diseño con visor en tapa es una preferencia subjetiva: a algunas personas le
     ogDescription: 'La Peabody PE-AFDL102N tiene recubrimiento de silicona orgánica (sin Teflón), dos canastas apiladas de 6.5L y 3.5L, modos Independiente/Match/Sync y alarma para revolver. 4.9⭐.',
     h1: 'Freidora de Aire Doble Piso Peabody PE-AFDL102N 10L: sin Teflón y dos canastas apiladas',
     pros: [
-      'Sin Teflón — recubrimiento de silicona orgánica (único del cluster)',
+      'Sin Teflón — recubrimiento de silicona orgánica (único del catálogo)',
       '10 L totales con canastas apiladas',
       '10 programas incluyendo Pizza, Galletas y Tarta',
-      'Alarma para revolver a mitad de cocción (única en cluster)',
+      'Alarma para revolver a mitad de cocción (única en catálogo)',
       '3 modos de cocción (Independiente, Match, Sync)',
       'Dial físico + display LED touch',
-      '4.9⭐ — rating más alto del sub-cluster Peabody',
+      '4.9⭐ — rating más alto del sub-catálogo Peabody',
     ],
     cons: [
       'Canastas asimétricas (6.5L + 3.5L, no simétricas)',
@@ -10557,12 +10557,12 @@ El diseño con visor en tapa es una preferencia subjetiva: a algunas personas le
       'Peso no publicado por el vendedor',
       '2000W — cerca del límite de un circuito 10A',
     ],
-    verdict: 'El único del cluster sin Teflón, con 10 programas y alarma para revolver. Si el recubrimiento te importa o cocinás dulces+salados, es la elección clara.',
+    verdict: 'El único del catálogo sin Teflón, con 10 programas y alarma para revolver. Si el recubrimiento te importa o cocinás dulces+salados, es la elección clara.',
     articleBody: `## Sin Teflón: recubrimiento de silicona orgánica
 
 El Teflón (PTFE) es el recubrimiento antiadherente más común en electrodomésticos de cocina. Funciona bien dentro del rango de temperaturas normal, pero hay un sector del mercado que prefiere evitarlo. La PE-AFDL102N usa silicona orgánica como recubrimiento alternativo.
 
-La silicona orgánica tolera temperaturas de cocción de hasta 200°C (el máximo de esta freidora) sin degradarse. No libera humo por encima de temperaturas específicas del Teflón que preocupan a algunos consumidores. El fabricante lo destaca explícitamente en la infografía del producto. Es el único modelo con esta característica entre todas las freidoras del cluster.
+La silicona orgánica tolera temperaturas de cocción de hasta 200°C (el máximo de esta freidora) sin degradarse. No libera humo por encima de temperaturas específicas del Teflón que preocupan a algunos consumidores. El fabricante lo destaca explícitamente en la infografía del producto. Es el único modelo con esta característica entre todas las freidoras del catálogo.
 
 ## Doble piso: canastas apiladas, no lado a lado
 
@@ -10584,13 +10584,13 @@ Las dos canastas no tienen el mismo tamaño. La superior es casi el doble que la
 
 ## Alarma para revolver
 
-Además de la alarma de fin de cocción, la PE-AFDL102N tiene una alarma intermedia que suena cuando es momento de revolver o voltear los alimentos dentro de la canasta. El display muestra el tiempo hasta el próximo aviso ("REVOLVER" en la pantalla digital). Es el único modelo del cluster con esta función. Para papas fritas, nuggets o cualquier preparación que mejora con un movimiento a mitad de cocción, el recordatorio es una ayuda real.
+Además de la alarma de fin de cocción, la PE-AFDL102N tiene una alarma intermedia que suena cuando es momento de revolver o voltear los alimentos dentro de la canasta. El display muestra el tiempo hasta el próximo aviso ("REVOLVER" en la pantalla digital). Es el único modelo del catálogo con esta función. Para papas fritas, nuggets o cualquier preparación que mejora con un movimiento a mitad de cocción, el recordatorio es una ayuda real.
 
 ## ¿Para quién es esta freidora?
 
 La PE-AFDL102N tiene sentido para familias de 4 o más personas que quieren cocinar platos principales y guarniciones al mismo tiempo sin mezclar olores ni sabores. El diseño apilado ocupa menos espacio horizontal que otros modelos de doble canasta, lo que puede importar en cocinas con mesadas estrechas.
 
-Si la preocupación principal es el recubrimiento antiadherente y preferís evitar el Teflón, esta es la única opción del cluster con silicona orgánica. Para cocineros que preparan tanto platos salados como dulces (hornean galletas, tartas o pizzas además de freír), los 10 programas son los más completos del cluster.
+Si la preocupación principal es el recubrimiento antiadherente y preferís evitar el Teflón, esta es la única opción del catálogo con silicona orgánica. Para cocineros que preparan tanto platos salados como dulces (hornean galletas, tartas o pizzas además de freír), los 10 programas son los más completos del catálogo.
 
 No es para quien quiere porciones simétricas en las dos canastas: para eso, la [Atma FRD248AP](/producto/MLA40161710) (2×4.25L iguales) es más apropiada. Si preferís un visor 360° con menos programas, mirá la [Peabody PE-AFD720N](/producto/MLA41829394). Si el presupuesto es más ajustado, la [PE-AFD650N de 6.5L](/producto/MLA44703897) o el [grill Peabody PE-AFG01IX](/producto/MLA23318618).`,
     specs: [
@@ -10605,14 +10605,14 @@ No es para quien quiere porciones simétricas en las dos canastas: para eso, la 
       { label: 'Modos', value: '3 (Independiente, Match, Sync)' },
       { label: 'Visor', value: 'Sí, ambas canastas' },
       { label: 'Luz interna', value: 'Sí, ambas canastas' },
-      { label: 'Alarma para revolver', value: 'Sí (única del cluster)' },
+      { label: 'Alarma para revolver', value: 'Sí (única del catálogo)' },
       { label: 'Auto-pause', value: 'Sí, al abrir el cajón' },
       { label: 'Control', value: 'Display LED táctil + dial físico' },
       { label: 'Dimensiones', value: '29 × 41 × 40 cm (An × Prof × Al)' },
       { label: 'Color', value: 'Negro' },
     ],
     faq: [
-      { question: '¿La silicona orgánica es más segura que el Teflón?', answer: 'El Teflón (PTFE) es considerado seguro por las agencias regulatorias dentro del rango de uso doméstico normal. Las preocupaciones más comunes se relacionan con temperaturas muy altas (por encima de 260°C) que esta freidora no alcanza (máximo 200°C). La silicona orgánica es una alternativa diferente, no necesariamente superior en términos de seguridad a las temperaturas de esta freidora. Si preferís evitar el PTFE por razones personales, esta es la única opción con ese tipo de recubrimiento en este cluster.' },
+      { question: '¿La silicona orgánica es más segura que el Teflón?', answer: 'El Teflón (PTFE) es considerado seguro por las agencias regulatorias dentro del rango de uso doméstico normal. Las preocupaciones más comunes se relacionan con temperaturas muy altas (por encima de 260°C) que esta freidora no alcanza (máximo 200°C). La silicona orgánica es una alternativa diferente, no necesariamente superior en términos de seguridad a las temperaturas de esta freidora. Si preferís evitar el PTFE por razones personales, esta es la única opción con ese tipo de recubrimiento en este catálogo.' },
       { question: '¿Qué pasa con las porciones si las canastas son de tamaños distintos?', answer: 'La canasta superior (6.5L) es casi el doble que la inferior (3.5L). Para platos del mismo alimento en igual cantidad, la asimetría complica el balance. Lo más natural es usar la canasta grande para el plato principal y la chica para una guarnición. Si necesitás las dos canastas del mismo tamaño, la Atma FRD248AP (4.25L + 4.25L) es la opción simétrica.' },
       { question: '¿La alarma para revolver funciona automáticamente?', answer: 'Según la descripción del fabricante, el aparato emite una alarma sonora a mitad de la cocción para avisar cuándo revolver los alimentos. El display muestra el tiempo hasta el próximo aviso con la leyenda "REVOLVER". No hay información detallada sobre si el usuario puede configurar en qué momento suena.' },
       { question: '¿Necesita circuito exclusivo a 220V?', answer: '2000W a 220V consume aproximadamente 9.1 amperios. Está dentro del límite de un circuito de 10A, pero cerca del máximo. Si hay otros electrodomésticos en el mismo circuito durante el uso, puede convenir usar el circuito de manera exclusiva o verificar la instalación con un electricista.' },
@@ -10676,11 +10676,11 @@ No es para quien quiere porciones simétricas en las dos canastas: para eso, la 
     seoTitle: 'Freidora Peabody con Grill PE-AFG01IX 6L Acero Inoxidable',
     metaDescription: 'Peabody PE-AFG01IX: freidora con grill de acero inoxidable, 40–265°C, 4 niveles de grill y olla incluida. 4.9⭐ con 2.385 calificaciones.',
     ogTitle: 'Freidora Peabody Grill PE-AFG01IX — Acero Inox, 265°C, 3 Accesorios',
-    ogDescription: 'La Peabody PE-AFG01IX tiene cuerpo de acero inoxidable, rango de 40°C a 265°C (el más amplio del cluster), 4 niveles de grill y 3 accesorios: olla, grill y canasta freidora. 4.9⭐.',
+    ogDescription: 'La Peabody PE-AFG01IX tiene cuerpo de acero inoxidable, rango de 40°C a 265°C (el más amplio del catálogo), 4 niveles de grill y 3 accesorios: olla, grill y canasta freidora. 4.9⭐.',
     h1: 'Freidora de Aire Peabody con Grill PE-AFG01IX: acero inoxidable, 265°C y olla incluida',
     pros: [
-      'Único modelo de acero inoxidable del cluster',
-      'Rango 40°C–265°C (el más amplio del cluster)',
+      'Único modelo de acero inoxidable del catálogo',
+      'Rango 40°C–265°C (el más amplio del catálogo)',
       'Olla incluida (cocción con líquidos)',
       'Grill con 4 niveles de intensidad',
       '3 accesorios: olla + grill + canasta freidora',
@@ -10688,20 +10688,20 @@ No es para quien quiere porciones simétricas en las dos canastas: para eso, la 
     ],
     cons: [
       'Sin ventana — apertura desde arriba',
-      '43.5 cm de ancho (el más ancho del cluster)',
+      '43.5 cm de ancho (el más ancho del catálogo)',
       'Necesita espacio vertical para abrir la tapa',
       'Menos programas (6) que el Atma FR901DP (12)',
     ],
     verdict: 'El único con acero inoxidable + olla + rango térmico 40-265°C. Si querés algo entre freidora, horno y multicooker, es la opción más completa por $159K.',
     articleBody: `## Cuerpo de acero inoxidable
 
-Es el único modelo de acero inoxidable en el cluster. La diferencia respecto al plástico es práctica en varios sentidos: el acero no se mancha con salpicaduras de grasa de la misma forma, no absorbe olores, y resiste el calor superficial sin deformarse con el tiempo. También hace al aparato más pesado (6.75 kg) y ancho (43.5 cm) — dos datos relevantes para elegir dónde ponerlo.
+Es el único modelo de acero inoxidable en el catálogo. La diferencia respecto al plástico es práctica en varios sentidos: el acero no se mancha con salpicaduras de grasa de la misma forma, no absorbe olores, y resiste el calor superficial sin deformarse con el tiempo. También hace al aparato más pesado (6.75 kg) y ancho (43.5 cm) — dos datos relevantes para elegir dónde ponerlo.
 
 ## Rango de temperatura: 40°C a 265°C
 
 El mínimo de 40°C es inusual en este tipo de producto. Ese rango habilita cosas que los modelos estándar (80°C mínimo) no pueden hacer: deshidratar a muy baja temperatura sin cocinar, fermentar masa de pan, templar chocolate o simplemente mantener un plato a temperatura de servicio sin que se seque.
 
-265°C de máximo, por su parte, es el pico más alto del cluster — 5°C más que el [Atma FR901DP](/producto/MLA37004216) (260°C) y 65°C más que los modelos estándar de la línea Peabody.
+265°C de máximo, por su parte, es el pico más alto del catálogo — 5°C más que el [Atma FR901DP](/producto/MLA37004216) (260°C) y 65°C más que los modelos estándar de la línea Peabody.
 
 ## Tres accesorios desmontables
 
@@ -10709,7 +10709,7 @@ La olla (pot) es el accesorio más distinto. Podés cocinar preparaciones con l�
 
 ## Función Grill con 4 niveles de cocción
 
-El grill tiene un dial específico en el panel con cuatro posiciones de intensidad ("nivel de cocción"). Esto permite graduar el dorado según el tipo de alimento: una pechuga de pollo necesita menos intensidad que un churrasco o una hamburguesa. La mayoría de los modelos grill del cluster no tiene esta graduación — el grill es encendido o apagado, sin niveles.
+El grill tiene un dial específico en el panel con cuatro posiciones de intensidad ("nivel de cocción"). Esto permite graduar el dorado según el tipo de alimento: una pechuga de pollo necesita menos intensidad que un churrasco o una hamburguesa. La mayoría de los modelos grill del catálogo no tiene esta graduación — el grill es encendido o apagado, sin niveles.
 
 ## Apertura desde arriba
 
@@ -10727,8 +10727,8 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
       { label: 'Capacidad', value: '6 L' },
       { label: 'Potencia', value: '1600 W' },
       { label: 'Voltaje', value: '220/240V' },
-      { label: 'Temperatura mínima', value: '40°C (la más baja del cluster)' },
-      { label: 'Temperatura máxima', value: '265°C (la más alta del cluster)' },
+      { label: 'Temperatura mínima', value: '40°C (la más baja del catálogo)' },
+      { label: 'Temperatura máxima', value: '265°C (la más alta del catálogo)' },
       { label: 'Programas', value: '6 + Función Grill con 4 niveles' },
       { label: 'Cuerpo', value: 'Acero inoxidable' },
       { label: 'Apertura', value: 'Tapa superior (clamshell)' },
@@ -10742,7 +10742,7 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
     ],
     faq: [
       { question: '¿Por qué este modelo tiene temperatura mínima de 40°C cuando los otros arrancan en 80°C?', answer: 'El rango más bajo está pensado principalmente para Deshidratar. A 40°C–60°C podés deshidratar frutas, vegetales o carnes durante varias horas sin empezar a cocinarlos. También sirve para fermentar masa de pan, templar chocolate o mantener platos listos a temperatura de servicio sin que se sequen. Los modelos estándar no pueden hacer esto porque su mínimo es 80°C.' },
-      { question: '¿La olla incluida sirve para cocinar sopas o guisos dentro de la freidora?', answer: 'Sí, ese es el propósito. La olla permite cocinar preparaciones con líquido directamente dentro del aparato. No reemplaza a una olla a presión, pero sí te permite hacer una sopa, una salsa o un guiso simple usando el calor de convección del aparato. Es el único accesorio de este tipo en el cluster.' },
+      { question: '¿La olla incluida sirve para cocinar sopas o guisos dentro de la freidora?', answer: 'Sí, ese es el propósito. La olla permite cocinar preparaciones con líquido directamente dentro del aparato. No reemplaza a una olla a presión, pero sí te permite hacer una sopa, una salsa o un guiso simple usando el calor de convección del aparato. Es el único accesorio de este tipo en el catálogo.' },
       { question: '¿Sin ventana cómo revisás la cocción?', answer: 'La tapa se levanta desde arriba. Al abrirla, la cocción se pausa automáticamente. Para revisar el estado del alimento, simplemente abrís la tapa, mirás, y al cerrarla la cocción se reanuda. Es diferente al sistema de cajón con visor, pero el proceso de revisión es igual de sencillo.' },
       { question: '¿El cuerpo de acero inoxidable se calienta en la superficie durante la cocción?', answer: 'Sí, el exterior del cuerpo puede calentarse durante la cocción. El acero conduce más calor que el plástico. La descripción menciona que el aparato tiene "apagado y reanudación automática al abrir la tapa" como medida de seguridad, pero no especifica niveles de temperatura superficial. Hay que tratarlo como un electrodoméstico que genera calor externo durante el uso.' },
       { question: '¿Los 4 niveles de grill representan temperaturas distintas?', answer: 'El fabricante describe los 4 niveles como "niveles de cocción" del grill, controlados por el dial rotativo del panel. Los niveles probablemente corresponden a distintas intensidades de calor de la resistencia de grill. Las temperaturas exactas por nivel no están publicadas en la ficha técnica.' },

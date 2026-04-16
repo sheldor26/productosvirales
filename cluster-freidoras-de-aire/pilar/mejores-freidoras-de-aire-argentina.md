@@ -255,7 +255,7 @@ Guía práctica:
 
 ---
 
-## Artículos relacionados en el cluster
+## Artículos relacionados en el catálogo
 
 - [Freidoras Atma: análisis de los 4 modelos](/guias/atma-freidoras-de-aire-review)
 - [Freidoras Peabody: análisis de los 4 modelos](/guias/peabody-freidoras-de-aire-review)
