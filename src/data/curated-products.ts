@@ -10802,6 +10802,105 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "La Airfryer Philips NA120/00 de 4,2 litros incorpora la avanzada Tecnología Rapid Air, que permite cocinar alimentos crujientes por fuera y tiernos por dentro, usando mucho menos aceite que una freidora tradicional.\n\nSu diseño cuenta con un canasto removible y superficie antiadherente para facilitar",
+    badge: 'viral',
+    seoTitle: 'Freidora Philips NA120/00 4.2L con Tecnología RapidAir',
+    metaDescription: 'Philips NA120/00: airfryer 4.2L con tecnología RapidAir, control analógico por perillas y superficie antiadherente. 4.9⭐ con 264 calificaciones.',
+    ogTitle: 'Freidora Philips NA120/00 4.2L — RapidAir, Control Analógico, Sin Pantalla',
+    ogDescription: 'La Philips NA120/00 es una airfryer de 4.2L con tecnología RapidAir y control por perillas. Sin presets, sin pantalla — dos diales y listo. 4.9⭐ con 264 calificaciones.',
+    h1: 'Freidora de Aire Philips NA120/00 4.2L: control analógico y tecnología RapidAir',
+    pros: [
+      'Control analógico por perillas — sin curva de aprendizaje',
+      'Tecnología RapidAir patentada por Philips (flujo multidireccional)',
+      'Precio de entrada al segmento Philips ($86.490)',
+      '4.9⭐ — rating muy alto entre quienes la compraron',
+      'Superficie antiadherente y canasto removible',
+    ],
+    cons: [
+      '4.2L — capacidad ajustada para más de 2-3 personas',
+      'Sin temperatura mínima/máxima publicada en ficha ML',
+      'Sin programas, presets ni pantalla digital',
+      'Sin ventana — no podés ver la cocción sin abrir',
+      '264 calificaciones — volumen menor al promedio del catálogo',
+      'Peso y dimensiones no publicados en ficha ML',
+    ],
+    verdict: 'La Philips más simple del catálogo: dos perillas, sin menús, RapidAir adentro. Si querés airfryer Philips para 1-2 personas sin aprender a navegar pantallas, es la entrada más directa.',
+    articleBody: `## Control analógico: temperatura y tiempo
+
+El panel tiene dos perillas físicas. Una controla la temperatura, la otra el tiempo. No hay display, no hay botones táctiles, no hay programas. Girás la perilla de temperatura hasta el punto que querés, ajustás el tiempo, y la freidora arranca. Cuando termina el timer, se apaga.
+
+La curva de aprendizaje es prácticamente nula. Si nunca usaste una freidora de aire, o si las pantallas táctiles te resultan innecesariamente complejas para cocinar, el diseño analógico tiene sentido. La contracara: no hay alarma sonora confirmada en las especificaciones, ni función de mantener caliente, precalentar ni programas automáticos.
+
+## RapidAir Technology
+
+Es la tecnología de flujo de aire que Philips desarrolló para sus freidoras. En lugar de un sistema de convección lineal, la RapidAir genera un patrón multidireccional: el aire caliente circula en todas las direcciones simultáneamente, envolviendo el alimento. La imagen del fabricante muestra el patrón en forma de estrella, que es la visualización de ese sistema.
+
+El resultado teórico es una cocción más pareja: el exterior se dora de forma más uniforme porque recibe calor desde múltiples ángulos. En la práctica, la diferencia depende del tipo de alimento y del tamaño de las piezas. Para papas cortadas uniformemente, el efecto es claro. Para una pechuga entera, la capacidad de la canasta importa tanto como la tecnología de convección.
+
+## 4.2 litros: capacidad ajustada
+
+Es la capacidad más pequeña del sub-grupo Philips y también la más pequeña del grupo de freidoras del catálogo. El fabricante menciona que es "ideal para preparar comidas para toda la familia" — esa afirmación depende mucho de cuántas personas son la familia y qué están cocinando. Para 1 o 2 personas es cómoda. Para más de 3, probablemente haya que cocinar en dos tandas.
+
+## ¿Para quién es esta freidora?
+
+La NA120/00 tiene sentido para cocinas de 1 o 2 personas que buscan una freidora de aire sin complejidad. Sin presets ni menús digitales, la curva de uso es inexistente. Si conocés el tiempo y la temperatura que necesita cada alimento (o querés aprenderlo directamente), el control analógico es suficiente.
+
+Para quien ya sabe usar una air fryer y solo quiere marcar temperatura y tiempo, la simpleza es una ventaja real. Para quien necesita programas de deshidratar, grill o papas con perfil automático, los modelos Philips con display digital son más convenientes.
+
+Si necesitás más capacidad con respaldo Philips, la [Philips PHNA35100 doble canasta de 9L](/producto/MLA55779230) o la [Philips HD9270 Essential 6.2L](/producto/MLA19630911) son alternativas. Si el presupuesto manda y la marca no es excluyente, la [Peabody PE-AFD650N de 6.5L](/producto/MLA44703897) o la [Atma FR60AR Pro 6.5L](/producto/MLA27351841) ofrecen más litros por menos plata.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / NA120/00' },
+      { label: 'Capacidad', value: '4.2 L' },
+      { label: 'Potencia', value: '1500 W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Tecnología', value: 'RapidAir (Philips, patentada)' },
+      { label: 'Tipo de control', value: 'Perillas analógicas' },
+      { label: 'Pantalla táctil', value: 'No' },
+      { label: 'Programas preconfigurados', value: 'Ninguno' },
+      { label: 'Canastos', value: '1' },
+      { label: 'Ventana transparente', value: 'No' },
+      { label: 'Superficie antiadherente', value: 'Sí' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Temperatura mín/máx', value: 'No publicado en ficha' },
+      { label: 'Rango temporizador', value: 'No publicado en ficha' },
+      { label: 'Peso', value: 'No publicado en ficha' },
+      { label: 'Dimensiones', value: 'No publicadas en ficha' },
+    ],
+    faq: [
+      { question: '¿Cuánto mide y pesa la Philips NA120/00?', answer: 'Las dimensiones y el peso no están publicados en la ficha técnica de MercadoLibre. Philips no incluyó esos datos en la ficha del producto para el mercado argentino. Antes de comprar, vale contactar al vendedor o consultar el sitio oficial de Philips si están disponibles.' },
+      { question: '¿Cuál es el rango de temperatura de la Philips NA120/00?', answer: 'El rango exacto no está publicado en la ficha técnica de ML. La ficha confirma que tiene control de temperatura ajustable, pero sin especificar valores mínimo y máximo. Otros modelos Philips suelen tener rangos de 80°C a 200°C, pero esa información no está confirmada para este modelo.' },
+      { question: '¿El control analógico es menos preciso que el digital?', answer: 'Las perillas analógicas no tienen incrementos de temperatura exactos visibles — ajustás por posición del dial, no por grados. Para cocinar de forma práctica no hace falta precisión de un grado. Para recetas que requieren temperatura exacta, un modelo con display digital es más conveniente.' },
+      { question: '¿La tecnología RapidAir hace diferencia respecto a otras marcas?', answer: 'La RapidAir genera un patrón de flujo multidireccional que Philips patentó. La diferencia respecto a sistemas de convección estándar es real en términos de diseño del flujo. Si esa diferencia es perceptible en el plato terminado depende del alimento y de la receta. Para frituras simples, el resultado con cualquier freidora de buena calidad tiende a ser similar.' },
+      { question: '¿Sirve para cocinar para 3 o 4 personas?', answer: 'Para preparaciones que no llenan mucho la canasta (papas fritas, vegetales, nuggets), 4.2L puede alcanzar para 3 personas en una sola tanda. Para piezas de pollo enteras o cantidades mayores, probablemente necesités dos tandas. Para familias de 4 personas que cocinan a diario, los modelos de 6.5L o más son más cómodos.' },
+    ],
+    relatedProducts: ['MLA44703897', 'MLA27351841', 'MLA39861162'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Philips NA120/00 4.2L con Tecnología RapidAir',
+      description: 'Airfryer Philips NA120/00 de 4.2 litros con tecnología RapidAir patentada, control analógico por perillas, superficie antiadherente y canasto removible. Sin programas ni pantalla táctil. Potencia de 1500W.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'NA120/00',
+      sku: 'MLA61393261',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_788252-MLA99975580653_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA61393261',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '86490',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2gU6JZ1',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '264',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA55779230',
@@ -10826,6 +10925,122 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "Diseñado para equilibrar sus comidas como le gusten\n\nLa Airfryer Philips de la Serie 3000 con dos cestas garantiza que dos platos estén listos y calientes al mismo tiempo. Disfrute de una comida sabrosa y saludable con un cajón grande para platos principales destinado a toda la familia, y un cajón m",
+    badge: 'viral',
+    seoTitle: 'Freidora Philips PHNA35100 Doble Canasta 9L con HomeID',
+    metaDescription: 'Philips PHNA35100: airfryer doble canasta 9L con RapidAir Plus, 8 presets, app HomeID y canastas aptas para lavavajillas. 4.9⭐ con 413 calificaciones. Requiere circuito de 20A.',
+    ogTitle: 'Philips PHNA35100 9L Doble Canasta — RapidAir Plus, HomeID, 20A',
+    ogDescription: 'Airfryer Philips doble canasta de 9L con tecnología RapidAir Plus, 8 presets, app HomeID con recetas personalizadas y canastas aptas para lavavajillas. Requiere circuito de 20A.',
+    h1: 'Freidora de Aire Philips PHNA35100 9L: doble canasta, RapidAir Plus y app HomeID',
+    pros: [
+      'RapidAir Plus — el aire atraviesa el alimento, no solo lo rodea',
+      'App HomeID con recetas calibradas para este modelo',
+      'Presets separados para papas frescas y papas congeladas',
+      'Canastas aptas para lavavajillas (única confirmada del catálogo de doble canasta)',
+      'Sync + Copy para sincronizar o replicar cocción entre canastas',
+      '4.9⭐ con 413 calificaciones',
+    ],
+    cons: [
+      'Requiere circuito de 20A — la mayoría de las casas en Argentina tiene 10A',
+      'Potencia exacta no publicada en ficha ML',
+      'Sin ventana en ninguno de los dos cajones',
+      'Peso y dimensiones no publicados en ficha',
+      'Precio elevado dentro del catálogo Philips',
+      '413 calificaciones — volumen moderado para el rango de precio',
+    ],
+    verdict: 'La doble canasta más completa del catálogo Philips: RapidAir Plus, app HomeID y canastas al lavavajillas. Pero exige circuito de 20A — verificá tu instalación antes de comprar.',
+    articleBody: `## ⚠️ Antes de comprar: requiere enchufe de 20 Amperes
+
+La descripción oficial de Philips indica explícitamente que este producto **corresponde a enchufe de 20 Amperes**. La mayoría de los tomacorrientes domiciliarios en Argentina funcionan con circuitos de 10A. Un circuito de 20A requiere instalación eléctrica específica — ya sea que ya tengas uno (algunos hogares tienen circuitos de alta potencia para cocinas eléctricas o microondas) o que necesites instalarlo. Verificá tu instalación antes de comprar.
+
+## RapidAir Plus
+
+La versión estándar RapidAir genera un flujo de aire multidireccional. RapidAir Plus agrega un paso más: el calor no solo circula alrededor del alimento sino que también lo atraviesa. El diseño de la canasta lo permite — la malla es parte del sistema de circulación. Philips describe el resultado como "crujientes, tiernos y cocidos de manera uniforme en cada uso." El beneficio más notable está en piezas grandes o densas, donde la cocción incompleta del centro es el problema más frecuente con otras freidoras.
+
+## Dos canastas asimétricas, lado a lado
+
+El cajón grande está pensado para platos principales: puede contener hasta 1.5 kg de pollo o 1.5 kg de bróssicas en una sola carga, según la descripción oficial. El cajón pequeño es para guarniciones, vegetales o porciones individuales. Las dos canastas van lado a lado, no apiladas — el diseño es horizontal, distinto al [Peabody PE-AFDL102N de doble piso vertical](/producto/MLA53776810).
+
+## Sync y Copy
+
+Sync sincroniza el final de la cocción entre los dos cajones. Si uno tarda 20 minutos y el otro 30, calcula cuándo arrancar cada uno para que terminen al mismo tiempo. Copy replica el mismo tiempo y temperatura en las dos canastas con un toque — útil cuando cocinás el mismo alimento en cantidad mayor.
+
+## 8 presets — incluyendo papas frescas vs congeladas
+
+Los ocho presets son: papas fritas frescas, papas fritas congeladas, pollo, carne, verduras, pescado, torta y recalentamiento. El punto notable es la separación entre frescas y congeladas — son dos perfiles distintos con temperatura y tiempo diferentes, algo que la mayoría de los modelos no diferencia. Las congeladas necesitan más tiempo y temperatura inicial para descongelarse antes de freírse correctamente.
+
+## App HomeID
+
+Es la única freidora del catálogo con conectividad a app. HomeID (de Philips) proporciona recetas con configuraciones de tiempo y temperatura específicas para el modelo PHNA35100, además de orientación paso a paso. No es necesaria para usar la freidora — funciona perfectamente sin ella — pero si la receta de la app especifica los ajustes exactos para este modelo, ahorra la investigación de tiempos.
+
+## Canastas aptas para lavavajillas
+
+Las canastas van al lavavajillas. Ningún otro modelo doble canasta del catálogo tiene esta especificación confirmada (ni el [Atma Pro Doble FRD248AP](/producto/MLA40161710) ni el [Peabody PE-AFDL102N](/producto/MLA53776810)). Para uso diario intenso, simplifica bastante la rutina.
+
+## ¿Para quién es esta freidora?
+
+Para familias que ya cuentan con instalación eléctrica de 20A en la cocina — o que planean hacerla. La conectividad de app, las canastas al lavavajillas y la tecnología RapidAir Plus son features concretos. Para quienes usan freidora de aire todos los días y cocinan para cuatro o más personas, los 9L con doble canasta independiente resuelven el problema de tener que elegir qué cocinar primero.
+
+Si el circuito eléctrico es una restricción, el [Atma Pro Doble FRD248AP de 8.5L](/producto/MLA40161710) y el [Peabody PE-AFDL102N de 10L](/producto/MLA53776810) tienen funcionalidades similares sin requerir instalación especial. Si necesitás Philips pero con menor capacidad y sin requisito eléctrico especial, la [Philips NA120/00 de 4.2L](/producto/MLA61393261) es la entrada al segmento.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / PHNA35100' },
+      { label: 'Serie', value: '3000' },
+      { label: 'Capacidad total', value: '9 L (canasta grande + canasta pequeña, asimétrico)' },
+      { label: 'Potencia', value: 'No publicada en ficha ML' },
+      { label: 'Circuito requerido', value: '20 Amperes ⚠️' },
+      { label: 'Temperatura mínima', value: '80°C' },
+      { label: 'Temperatura máxima', value: '200°C' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Canastos', value: '2 (lado a lado, asimétricos)' },
+      { label: 'Tecnología', value: 'RapidAir Plus' },
+      { label: 'Tipo de control', value: 'Digital touch' },
+      { label: 'Presets', value: '8 (incluyendo papas frescas y congeladas por separado)' },
+      { label: 'Ventana transparente', value: 'No' },
+      { label: 'Superficie antiadherente', value: 'Sí' },
+      { label: 'Apto lavavajillas', value: 'Sí (canastas)' },
+      { label: 'App conectada', value: 'HomeID (Philips)' },
+      { label: 'Función Sync', value: 'Sí (terminan al mismo tiempo)' },
+      { label: 'Función Copy', value: 'Sí (misma temp/tiempo en ambas)' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Peso', value: 'No publicado' },
+      { label: 'Dimensiones', value: 'No publicadas' },
+    ],
+    faq: [
+      { question: '¿Cómo sé si tengo un enchufe de 20 Amperes en mi casa?', answer: 'Los circuitos de 20A se identifican en el tablero eléctrico con esa denominación en el térmico/disyuntor correspondiente. En Argentina los tomacorrientes estándar de cocina suelen ser de 10A o 15A. Un electricista puede verificar la instalación en minutos. No conviene conectar este aparato en un circuito de menor capacidad.' },
+      { question: '¿Cuánto consume la Philips PHNA35100?', answer: 'La potencia exacta no está publicada en la ficha técnica de MercadoLibre. El requerimiento de circuito de 20A a 220V sugiere un consumo potencial de hasta 4400W en pico, aunque el consumo real en operación normal es probablemente menor. Para calcular el consumo real en kWh, hace falta la potencia nominal del fabricante.' },
+      { question: '¿La app HomeID es necesaria para usar la freidora?', answer: 'No. La PHNA35100 funciona completamente sin la app. Los 8 presets del panel táctil y el control manual de temperatura y tiempo están disponibles directo en el aparato. La app HomeID suma recetas personalizadas y orientación paso a paso, pero es opcional.' },
+      { question: '¿Qué diferencia hay entre los presets de papas frescas y papas congeladas?', answer: 'Las papas congeladas necesitan más tiempo y una temperatura inicial diferente para descongelarse antes de completar la fritura. Con un solo preset las congeladas pueden quedar húmedas por dentro o quemadas por fuera si el perfil está calibrado para frescas. El preset separado ajusta el proceso al estado inicial del alimento.' },
+      { question: '¿Las canastas van al lavavajillas?', answer: 'Sí. Philips confirma que las canastas son aptas para lavavajillas. Es la única especificación de este tipo confirmada en el catálogo de doble canasta — facilita la limpieza después de uso intenso, especialmente con preparaciones con aceite o aderezos.' },
+      { question: '¿Las dos canastas funcionan completamente independientes?', answer: 'Sí. En modo independiente, cada cajón tiene su propia temperatura y tiempo. Podés tener papas a 200°C por 18 minutos en el cajón grande y vegetales a 160°C por 12 minutos en el chico al mismo tiempo. El modo Sync sincroniza el final y el modo Copy replica la misma configuración con un toque.' },
+    ],
+    relatedProducts: ['MLA61393261', 'MLA40161710', 'MLA53776810'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Philips Doble Canasta PHNA35100 9L',
+      description: 'Airfryer Philips Serie 3000 de 9 litros con dos canastas asimétricas, tecnología RapidAir Plus, 8 presets (incluyendo papas frescas y congeladas por separado), app HomeID, sincronización de tiempos, canastas aptas para lavavajillas y circuito de 20 Amperes requerido.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'PHNA35100',
+      sku: 'MLA55779230',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_755248-MLA99988665433_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA55779230',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '286999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/15VAU5a',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '413',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA53675940',
@@ -10850,6 +11065,120 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "Freidora De Aire Philips NA231/00 – 6,2L | Tecnología RapidAir | 13 funciones | Ventana de cocción.\n\nTransformá tu cocina con la Airfryer Philips Serie 2000, diseñada para ofrecer comidas deliciosas, crujientes por fuera y suaves por dentro, con hasta un 90% menos de grasa. Gracias a su tecnología R",
+    badge: 'viral',
+    seoTitle: 'Freidora Philips PHNA23100 6.2L: 13 funciones y ventana de cocción',
+    metaDescription: 'Philips PHNA23100 (Serie 2000) 6.2L: 13 funciones, pantalla táctil, ventana frontal y tecnología RapidAir con StarPlate. 4.9⭐ con 470 calificaciones. Precio y specs reales.',
+    ogTitle: 'Philips PHNA23100 6.2L: 13 funciones, ventana y RapidAir',
+    ogDescription: 'La freidora de aire Philips Serie 2000 de 6.2L tiene pantalla táctil, 13 funciones y ventana de cocción. Lo que dice la ficha, lo que confirman las imágenes y lo que no se publicó.',
+    h1: 'Philips PHNA23100 6.2 litros: la freidora digital de Serie 2000 con ventana frontal',
+    pros: [
+      'Ventana de cocción frontal para monitorear sin abrir',
+      'RapidAir + StarPlate para cocción más uniforme',
+      '13 funciones con 9 presets desde pantalla táctil',
+      'Canasta antiadherente apta para lavavajillas',
+      '220V estándar, sin requerimiento de circuito especial',
+      'Peso y dimensiones publicados (4.5 kg, 37×34×36 cm)',
+      'Eficiencia energética A+',
+    ],
+    cons: [
+      'Temperatura máxima de 200°C — limitante para asados de alta temperatura',
+      'Los 4 modos adicionales (de los 13) no se especifican nominalmente',
+      'Temperatura mínima no publicada',
+      'Conectividad Wi-Fi no confirmada — NutriU puede ser solo app de recetas',
+      'Precio alto dentro de la línea Philips de canasta única',
+    ],
+    verdict: 'La Philips digital de canasta única con más features: ventana frontal, StarPlate, 13 funciones y lavavajillas. Si querés Philips digital para 3-4 personas sin circuito especial, esta es la opción.',
+    articleBody: `## La ventana frontal: lo que dice la ficha vs las fotos
+
+La ficha técnica de MercadoLibre marca "Con ventana transparente: No". Sin embargo, las tres fotos del producto muestran una ventana rectangular transparente en el frente del cajón. La descripción del vendedor también la menciona explícitamente. Claramente la ficha tiene un error de carga. Este modelo tiene ventana.
+
+La ventana cambia bastante la experiencia: podés ver si las papas están doradas o si el pollo necesita más tiempo sin abrir el cajón y perder temperatura.
+
+## RapidAir + StarPlate
+
+Todos los modelos Philips del catálogo usan RapidAir, el sistema de circulación multidireccional patentado. Lo que distingue a la PHNA23100 es el diseño StarPlate: el fondo de la canasta tiene forma de estrella, lo que genera un patrón de distribución del aire más uniforme cuando el flujo impacta esa superficie y se dispersa hacia los costados.
+
+El [PHNA35100 de doble canasta](/producto/MLA55779230) usa RapidAir Plus, donde el aire atraviesa el alimento. La PHNA23100 usa la tecnología estándar con StarPlate como diferencia en el diseño de la canasta. ¿Se nota en la práctica? Las opiniones mencionan cocción pareja y resultado crujiente, aunque nadie compara directamente con el Plus.
+
+## 13 funciones: lo que se sabe y lo que no
+
+La descripción dice "13 en 1" y nombra algunos modos: freír con aire, hornear, asar y recalentar. Los 9 programas preestablecidos son accesibles desde pantalla táctil, pero la ficha no los lista individualmente. Los 4 modos restantes tampoco se especifican. Para saber exactamente qué presets tiene, el recurso más directo es el manual del fabricante.
+
+## Temperatura máxima: 200°C
+
+El tope de 200°C cubre la mayoría de los usos habituales: papas, rebozados, tartas, pollo, empanadas. Para referencia: la [Peabody PE-AFG01IX](/producto/MLA23318618) llega a 265°C y el [Atma FR901DP](/producto/MLA37004216) a 260°C. Esos rangos son para sellado o grill fuerte. Para uso cotidiano, 200°C es suficiente en la mayoría de los casos. La temperatura mínima no está publicada.
+
+## App NutriU: ¿conectividad o solo recetas?
+
+La descripción menciona compatibilidad con NutriU, la app de recetas de Philips. El [PHNA35100](/producto/MLA55779230) menciona HomeID, que sí tiene conectividad del dispositivo. Que la PHNA23100 mencione NutriU (una app distinta, orientada a recetas) sugiere que probablemente no tiene control Wi-Fi integrado. Pero no hay confirmación explícita. Si la conectividad es importante, conviene verificar antes de comprar.
+
+## 220V estándar, sin circuito especial
+
+A diferencia del [PHNA35100](/producto/MLA55779230) que requiere 20A, la PHNA23100 funciona a 220V con 1700W. Podés enchufarlo en cualquier toma normal sin modificar la instalación. Si vivís en un departamento sin circuitos de 20A, esta es el techo de la gama Philips de canasta única sin complicaciones eléctricas.
+
+## ¿Para quién tiene sentido?
+
+Para quien descartó la [NA120/00 analógica](/producto/MLA61393261) porque quiere presets y pantalla táctil, pero tampoco necesita doble canasta ni quiere lidiar con el requisito eléctrico del [PHNA35100](/producto/MLA55779230). Si cocinás para 3 o 4 personas, querés ver lo que se cocina sin abrir el cajón, y preferís Philips con RapidAir en un modelo digital completo, esta es la opción.
+
+Si el presupuesto es más ajustado, la [NA120/00 de 4.2L](/producto/MLA61393261) está a $86.490. Si querés capacidad similar a menor precio, la [Peabody PE-AFD650N de 6.5L](/producto/MLA44703897) o la [Atma FR60AR Pro 6.5L](/producto/MLA27351841) son alternativas con display digital.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / PHNA23100 (NA231/00)' },
+      { label: 'Serie', value: 'Serie 2000' },
+      { label: 'Capacidad', value: '6.2 L' },
+      { label: 'Potencia', value: '1700 W' },
+      { label: 'Voltaje', value: '220V estándar' },
+      { label: 'Temperatura máxima', value: '200°C' },
+      { label: 'Temperatura mínima', value: 'No publicada' },
+      { label: 'Funciones totales', value: '13 en 1' },
+      { label: 'Programas preestablecidos', value: '9' },
+      { label: 'Tipo de control', value: 'Digital — pantalla táctil + botones' },
+      { label: 'Ventana de cocción', value: 'Sí (confirmada por imágenes; ficha dice "No")' },
+      { label: 'Tecnología', value: 'RapidAir + StarPlate' },
+      { label: 'Superficie antiadherente', value: 'Sí' },
+      { label: 'Apto lavavajillas', value: 'Sí' },
+      { label: 'App compatible', value: 'NutriU (recetas; Wi-Fi no confirmado)' },
+      { label: 'Eficiencia energética', value: 'A+' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Peso', value: '4.5 kg' },
+      { label: 'Dimensiones', value: '37 × 34 × 36 cm' },
+    ],
+    faq: [
+      { question: '¿La Philips PHNA23100 tiene ventana de cocción?', answer: 'Sí. Las imágenes del producto y la descripción lo confirman. La ficha técnica de MercadoLibre tiene un error en ese campo que marca "No"; el modelo claramente tiene ventana frontal transparente.' },
+      { question: '¿Cuántas funciones tiene la Philips PHNA23100?', answer: 'Tiene 13 funciones en total, de las cuales 9 son programas preestablecidos accesibles desde pantalla táctil. Los 4 modos restantes no se especifican nominalmente en la ficha de MercadoLibre.' },
+      { question: '¿Necesita circuito de 20A?', answer: 'No. Opera a 220V estándar con 1700W de potencia. No requiere circuito especial, a diferencia del modelo Philips PHNA35100 de doble canasta que sí lo necesita.' },
+      { question: '¿Qué diferencia tiene con la NA120/00?', answer: 'Son modelos muy distintos. La NA120/00 es analógica (perillas), tiene 4.2L y no tiene presets ni ventana. La PHNA23100 es digital con pantalla táctil, tiene 6.2L, ventana de cocción frontal, 13 funciones y el diseño StarPlate en la canasta.' },
+      { question: '¿Qué es la tecnología StarPlate?', answer: 'Es el nombre del diseño en forma de estrella del fondo de la canasta de Philips. Trabaja junto con RapidAir para crear un patrón de circulación de aire más uniforme durante la cocción.' },
+      { question: '¿Se conecta a Wi-Fi?', answer: 'No está confirmado. La descripción menciona compatibilidad con la app NutriU, pero NutriU es la app de recetas de Philips. No se publicó información que confirme conectividad Wi-Fi ni control remoto del dispositivo.' },
+    ],
+    relatedProducts: ['MLA61393261', 'MLA55779230', 'MLA44703897'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Freidora de Aire Philips PHNA23100 13 en 1 6.2 L',
+      description: 'Freidora de aire Philips Serie 2000 de 6.2 litros con tecnología RapidAir y diseño StarPlate, pantalla táctil, 13 funciones, ventana de cocción frontal y canasta antiadherente apta para lavavajillas. 1700W, 220V estándar.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'PHNA23100',
+      sku: 'MLA53675940',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_698984-MLA99980259093_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA53675940',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '185599',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2LJBpLs',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '470',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA19630913',
@@ -10875,6 +11204,140 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "Comida saludable y deliciosa, ahora conectada.\n\n-Controle la cocción desde su teléfono o tableta:\nEmpareje con la aplicación NutriU para una experiencia de cocina óptima.\nElija una receta, envíela a la airfryer y supervise el progreso de la cocción desde la comodidad de su sofá. Recibirá una alerta ",
+    badge: 'viral',
+    seoTitle: 'Freidora Philips HD9280/90 Essential XL: Wi-Fi, Alexa y 7 presets',
+    metaDescription: 'Philips HD9280/90 Essential XL: 6.2L, Wi-Fi confirmado, Amazon Alexa, 7 presets nombrados y 2000W. 4.9⭐ con 667 calificaciones. Precio $449.999 y análisis honesto.',
+    ogTitle: 'Philips HD9280/90 Essential XL: la freidora con Wi-Fi y Alexa',
+    ogDescription: 'La única freidora de aire con control por voz Amazon Alexa del catálogo. Wi-Fi confirmado, 7 presets nombrados y 2000W. Lo que publican, lo que no, y los límites reales.',
+    h1: 'Freidora de aire Philips HD9280/90 Essential XL: control por Wi-Fi, Amazon Alexa y 7 presets',
+    pros: [
+      'Wi-Fi confirmado: control completo desde la app NutriU',
+      'Única del catálogo compatible con Amazon Alexa (control por voz)',
+      '7 presets con nombres específicos publicados',
+      '2000W — mayor potencia entre los Philips de canasta única',
+      'Temperatura mínima y máxima publicadas (150°C–200°C)',
+      'Piezas desmontables aptas lavavajillas',
+      '667 calificaciones — mayor respaldo de compradores entre los Philips',
+    ],
+    cons: [
+      'Temperatura mínima 150°C — la más alta del catálogo; no apta para deshidratación',
+      'Mantener caliente máximo 30 minutos (vs 2h de modelos Peabody)',
+      'Sin ventana de cocción',
+      '$449.999 — el más caro de la línea Philips y del catálogo de canasta única',
+      'Ficha ML solo lista 3 funciones (discrepancia con los 7 presets de la descripción)',
+    ],
+    verdict: 'La única freidora del catálogo con Wi-Fi + Alexa. Si usás ecosistema Amazon y controlás electrodomésticos desde el celular, es la opción. Si no, la misma capacidad está a menos de la mitad con la PHNA23100.',
+    articleBody: `## Wi-Fi confirmado: qué se puede hacer desde la app
+
+La descripción es explícita. Desde la app NutriU se puede elegir una receta y enviarla directamente a la freidora, monitorear el progreso de la cocción y recibir una alerta cuando el plato está listo. No es solo una app de recetas en paralelo — es control real del dispositivo a distancia.
+
+Esto aclara algo que quedó sin confirmar en la [PHNA23100](/producto/MLA53675940): ese modelo también menciona NutriU, pero su descripción no habla de "enviar recetas al aparato" ni de "supervisar desde el sofá". La HD9280/90 es el único Philips del catálogo donde la conectividad del dispositivo está explícitamente documentada.
+
+## Amazon Alexa: único en el catálogo
+
+El control por voz con Amazon Alexa es un diferenciador que ningún otro modelo del catálogo tiene. Se puede iniciar o ajustar la cocción con comandos de voz siempre que el dispositivo esté configurado en la app de Alexa y conectado al mismo Wi-Fi.
+
+Para quién tiene sentido: alguien que ya usa ecosistema Amazon en casa (Echo, FireTV, etc.) y quiere integrar la freidora a ese entorno. Para quién no importa: alguien que cocina parado frente a la freidora como con cualquier electrodoméstico estándar.
+
+## Los 7 presets: la lista más detallada de los Philips
+
+Es el primer modelo Philips del catálogo que publica los nombres completos de sus programas:
+
+1. Bocadillos congelados
+2. Papas fritas frescas
+3. Carne
+4. Pescado
+5. Muslos de pollo
+6. Pastel
+7. Verduras asadas
+
+La ficha ML, en cambio, solo lista 3 funciones: Freír, Tostar y Recalentar. Los bullets dicen 5 (sumando Hornear y Asar). La descripción larga menciona los 7 presets. Tres números distintos para el mismo producto según qué parte del listing se lea.
+
+## Temperatura: el rango más estrecho del catálogo
+
+El rango va de 150°C a 200°C — el más estrecho de todos los modelos del catálogo.
+
+A 150°C de piso, no puede hacer deshidratación (requiere 50–70°C). Tampoco sirve para mantener algo a baja temperatura prolongada. Para referencia: la [Peabody PE-AFG01IX](/producto/MLA23318618) arranca en 40°C y la mayoría de los Atma en 80°C. El techo de 200°C es el mismo que la [PHNA23100](/producto/MLA53675940); la [PE-AFG01IX](/producto/MLA23318618) llega a 265°C.
+
+## Mantener caliente: 30 minutos
+
+La función dura hasta 30 minutos. Comparado con la [Peabody PE-AFD650N](/producto/MLA44703897) (2 horas) y la [PE-AFD720N](/producto/MLA41829394) (1 hora), el margen es más ajustado. Si entre que terminás de cocinar y todos se sientan a comer pasan más de media hora, es un límite.
+
+## 2000W: la mayor potencia de los Philips de canasta única
+
+La [NA120/00](/producto/MLA61393261) tiene 1500W, la [PHNA23100](/producto/MLA53675940) 1700W, y esta 2000W. Mayor potencia significa calentamiento más rápido y mejor recuperación de temperatura al abrir el cajón. A 220V estándar, no requiere circuito especial — a diferencia del [PHNA35100](/producto/MLA55779230) que necesita 20A.
+
+## Sin ventana, pero con monitoreo por app
+
+El cajón es completamente opaco. El modelo compensa parcialmente con el monitoreo por NutriU vía Wi-Fi: se puede saber cómo va la cocción sin estar frente al aparato. No es lo mismo que ver físicamente el alimento, pero para quien usa la conectividad, es alternativa funcional. La [PHNA23100](/producto/MLA53675940) sí tiene ventana frontal, si ese es un requisito.
+
+## ¿Para quién tiene sentido a $449.999?
+
+A ese precio hay freidoras dobles de mayor capacidad, como la [Philips PHNA35100 de 9L](/producto/MLA55779230). Esta tiene canasta única de 6.2L. La justificación del precio descansa en el ecosistema conectado: Wi-Fi, NutriU con control del dispositivo y Amazon Alexa.
+
+Si esas funcionalidades son parte activa de cómo cocinás, el producto tiene sentido. Si cocinás parado frente a la freidora como cualquier electrodoméstico, la misma capacidad de 6.2L con menos conectividad está disponible a menos de la mitad con la [PHNA23100](/producto/MLA53675940).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / HD9280/90' },
+      { label: 'Serie', value: 'Essential' },
+      { label: 'Capacidad', value: '6.2 L' },
+      { label: 'Potencia', value: '2000 W' },
+      { label: 'Voltaje', value: '220V estándar' },
+      { label: 'Temperatura mínima', value: '150°C (la más alta del catálogo)' },
+      { label: 'Temperatura máxima', value: '200°C' },
+      { label: 'Funciones (ficha ML)', value: '3: Freír, Tostar, Recalentar' },
+      { label: 'Funciones (descripción)', value: '5: + Hornear y Asar' },
+      { label: 'Programas preestablecidos', value: '7 (listados nominalmente)' },
+      { label: 'Tipo de control', value: 'Táctil' },
+      { label: 'Conectividad Wi-Fi', value: 'Confirmada' },
+      { label: 'App', value: 'NutriU (control del dispositivo + recetas)' },
+      { label: 'Control por voz', value: 'Amazon Alexa' },
+      { label: 'Ventana de cocción', value: 'No' },
+      { label: 'Mantener caliente', value: 'Hasta 30 minutos' },
+      { label: 'Superficie antiadherente', value: 'Sí' },
+      { label: 'Apto lavavajillas', value: 'Sí (piezas desmontables)' },
+      { label: 'Tecnología de aire', value: 'RapidAir (diseño estrella de mar)' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Peso', value: '5.55 kg' },
+      { label: 'Dimensiones', value: '30.7 × 31.5 × 40.3 cm' },
+    ],
+    faq: [
+      { question: '¿La Philips HD9280/90 tiene Wi-Fi?', answer: 'Sí. La descripción confirma control desde celular o tableta, envío de recetas al dispositivo, monitoreo de progreso y alertas al terminar la cocción.' },
+      { question: '¿Es compatible con Amazon Alexa?', answer: 'Sí. Es la única freidora de aire con esta funcionalidad en el catálogo. Requiere configuración en la app de Alexa y conexión Wi-Fi.' },
+      { question: '¿Cuáles son los 7 presets?', answer: 'Bocadillos congelados, papas fritas frescas, carne, pescado, muslos de pollo, pastel y verduras asadas. Son accesibles desde la pantalla táctil.' },
+      { question: '¿Cuál es la temperatura mínima?', answer: '150°C. Es la más alta del catálogo. No es apta para deshidratación, que requiere entre 50°C y 70°C.' },
+      { question: '¿Cuánto tiempo mantiene caliente?', answer: 'Hasta 30 minutos. Menos que varios modelos del catálogo — la Peabody PE-AFD650N llega a 2 horas.' },
+      { question: '¿Tiene ventana de cocción?', answer: 'No. El cajón es completamente opaco. Pero el monitoreo en tiempo real se puede hacer desde la app NutriU si está conectada por Wi-Fi.' },
+      { question: '¿Necesita circuito de 20A?', answer: 'No. Opera a 220V estándar con 2000W. No requiere instalación eléctrica especial.' },
+    ],
+    relatedProducts: ['MLA53675940', 'MLA55779230', 'MLA61393261'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Airfryer Philips HD9280/90 Essential XL 6.2L con Wi-Fi',
+      description: 'Freidora de aire Philips Essential XL de 6.2 litros con conectividad Wi-Fi, control desde la app NutriU, compatible con Amazon Alexa, 7 programas preestablecidos, tecnología RapidAir y 2000W de potencia.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'HD9280/90',
+      sku: 'MLA19630913',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_763529-MLA99955344505_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA19630913',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '449999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/15xe1UZ',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '667',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA19630911',
@@ -10898,6 +11361,131 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "Descubre la Airfryer XL Philips, un electrodoméstico que transforma la forma de cocinar. Con su innovadora tecnología Rapid Air, podrás disfrutar de comidas crujientes y deliciosas con menos aceite. Su pantalla táctil intuitiva ofrece 7 configuraciones predeterminadas, facilitando la selección de fu",
+    badge: 'viral',
+    seoTitle: 'Freidora de aire Philips HD9270/91 Essential XL: análisis completo, 7 presets y 2000W',
+    metaDescription: 'Philips HD9270/91 Essential XL: 6.2L, 2000W, 7 presets táctiles, tecnología RapidAir y 1.729 opiniones. Precio, specs y comparativa con el HD9280/90.',
+    ogTitle: 'Freidora de aire Philips HD9270/91 Essential XL: 7 presets, 2000W y 1.729 opiniones',
+    ogDescription: 'La Philips HD9270/91 tiene 6.2L, 2000W, 7 presets táctiles y RapidAir. No tiene Wi-Fi ni Alexa. Y cuesta más que el modelo que sí los tiene. Todo lo que hay que saber.',
+    h1: 'Freidora de aire Philips HD9270/91 Essential XL: la opción más comprada de la marca con 7 presets y 2000W',
+    pros: [
+      '1.729 calificaciones — el mayor volumen de la línea Philips en el catálogo',
+      '7 presets táctiles accesibles en el panel',
+      '2000W — mayor potencia de los Philips de canasta única',
+      'Temperatura mínima y máxima publicadas (150°C–200°C)',
+      'Apagado automático y exterior frío al tacto',
+      'Canasta antiadherente apta lavavajillas',
+      '220V estándar, sin instalación especial',
+    ],
+    cons: [
+      'Sin Wi-Fi ni Amazon Alexa (el HD9280/90 los tiene a menor precio)',
+      'Los 7 presets no están listados nominalmente en la publicación',
+      'Temperatura mínima 150°C — la más alta del catálogo, no apta para deshidratación',
+      'Sin ventana de cocción',
+      '$520.727 — más caro que el HD9280/90 con Wi-Fi ($449.999)',
+      'Duración de mantener caliente no publicada',
+    ],
+    verdict: 'El Philips más comprado del catálogo: 1.729 calificaciones lo respaldan. Pero cuesta $70K más que el HD9280/90 que tiene Wi-Fi + Alexa con el mismo hardware. Comparar precios antes de decidir.',
+    articleBody: `## HD9270/91 vs HD9280/90: la misma base, diferente conectividad
+
+No es coincidencia: la HD9270/91 y la [HD9280/90](/producto/MLA19630913) tienen exactamente las mismas dimensiones (30.7 × 31.5 × 40.3 cm), el mismo peso (5.55 kg), la misma potencia (2000W), la misma capacidad (6.2L), el mismo rango de temperatura (150–200°C) y comparten la serie Essential. Son la misma plataforma de hardware.
+
+La diferencia es que la HD9280/90 agrega Wi-Fi, control desde NutriU y compatibilidad con Amazon Alexa. La HD9270/91 no tiene nada de eso. En términos de cocción, ambos deberían comportarse igual.
+
+Lo que sí cambia es el historial de ventas. La HD9270/91 acumuló 1.729 calificaciones, casi tres veces más que las 667 del HD9280/90. Se vendió mucho más porque estuvo disponible antes y a mejores precios en períodos anteriores.
+
+## La paradoja del precio
+
+Al momento del análisis: HD9270/91 (sin Wi-Fi) = $520.727 / HD9280/90 (con Wi-Fi) = $449.999. El modelo con menos funcionalidades aparece $70K más caro.
+
+Hay varias explicaciones posibles: distintos vendedores con distintas estrategias de precio, diferencia en el momento de actualización de los listings, o simplemente que la HD9270/91 no ajustó su precio cuando salió la versión con Wi-Fi. Ninguna explicación cambia el dato práctico: antes de comprar, conviene comparar los dos listings side by side. La [HD9280/90 con Wi-Fi](/producto/MLA19630913) es la comparación directa obligatoria.
+
+## Los 7 presets táctiles
+
+La descripción menciona 7 configuraciones predeterminadas. A diferencia del listing del [HD9280/90](/producto/MLA19630913) que los lista por nombre (bocadillos congelados, papas fritas frescas, carne, pescado, muslos de pollo, pastel, verduras asadas), la publicación de la HD9270/91 no los nombra individualmente.
+
+Dado que comparten la misma plataforma de hardware y el mismo panel táctil, los presets probablemente son los mismos. Pero es una inferencia, no un dato publicado en esta ficha.
+
+## Temperatura: 150°C–200°C
+
+Mismo rango que el HD9280/90, el más estrecho del catálogo. La mínima de 150°C no es apta para deshidratación (requiere 50–70°C). La [Peabody PE-AFG01IX](/producto/MLA23318618) arranca en 40°C si esa función importa. Para uso cotidiano de freidora de aire, 200°C de techo es suficiente.
+
+## Apagado automático y exterior frío al tacto
+
+Aparecen en la descripción pero no en la ficha técnica. El apagado automático actúa al terminar el tiempo de cocción. El exterior frío reduce el riesgo de quemaduras accidentales. Son características de seguridad que no figuran en todos los modelos.
+
+## Sin ventana, sin Wi-Fi
+
+El cajón es completamente opaco. Sin ventana ni conectividad para monitorear remotamente. Para saber cómo va la cocción hay que abrir el cajón. Si querés ventana, la [PHNA23100 de 6.2L](/producto/MLA53675940) la tiene. Si querés Wi-Fi sin ventana y a menor precio, la [HD9280/90](/producto/MLA19630913) es la opción directa.
+
+## 1.729 calificaciones: el contexto
+
+Con 1.729 calificaciones, es el Philips con mayor historial de compradores. La puntuación de 4.8⭐ con ese volumen es estadísticamente más representativa que un 4.9 con 300 calificaciones. Significa que una base grande de compradores reales validó el producto.
+
+## ¿Para quién tiene sentido?
+
+Si no necesitás Wi-Fi ni Alexa, querés 6.2L con 2000W y marca Philips con respaldo masivo de compradores, la HD9270/91 cumple. Pero el precio actual es una anomalía. A $520.727, está más cara que el modelo con Wi-Fi. Conviene verificar si esa diferencia sigue vigente al momento de la compra.
+
+Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913) y la [PHNA23100](/producto/MLA53675940) son las comparaciones obligatorias.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philips / HD9270/91' },
+      { label: 'Serie', value: 'Essential' },
+      { label: 'Capacidad', value: '6.2 L' },
+      { label: 'Potencia', value: '2000 W' },
+      { label: 'Voltaje', value: '220V estándar' },
+      { label: 'Temperatura mínima', value: '150°C (la más alta del catálogo)' },
+      { label: 'Temperatura máxima', value: '200°C' },
+      { label: 'Funciones (ficha ML)', value: 'Freír, Hornear, Tostar, Recalentar, Mantener caliente' },
+      { label: 'Programas preestablecidos', value: '7 (no listados nominalmente)' },
+      { label: 'Tipo de control', value: 'Táctil' },
+      { label: 'Conectividad Wi-Fi', value: 'No' },
+      { label: 'Control por voz', value: 'No' },
+      { label: 'Ventana de cocción', value: 'No' },
+      { label: 'Apagado automático', value: 'Sí' },
+      { label: 'Exterior frío al tacto', value: 'Sí' },
+      { label: 'Superficie antiadherente', value: 'Sí' },
+      { label: 'Apto lavavajillas', value: 'Sí' },
+      { label: 'Tecnología de aire', value: 'RapidAir' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Peso', value: '5.55 kg' },
+      { label: 'Dimensiones', value: '30.7 × 31.5 × 40.3 cm' },
+    ],
+    faq: [
+      { question: '¿La Philips HD9270/91 tiene Wi-Fi?', answer: 'No. No tiene Wi-Fi ni compatibilidad con Amazon Alexa. El modelo HD9280/90 tiene ambas funciones y actualmente cuesta menos.' },
+      { question: '¿Cuántos presets tiene?', answer: '7, accesibles desde pantalla táctil. No están listados con nombres en la publicación. Probablemente sean los mismos del HD9280/90 (bocadillos congelados, papas fritas frescas, carne, pescado, muslos de pollo, pastel, verduras asadas) ya que comparten hardware.' },
+      { question: '¿Cuál es la temperatura mínima?', answer: '150°C. Es la más alta del catálogo. No sirve para deshidratación, que requiere 50–70°C.' },
+      { question: '¿Qué diferencia tiene con el HD9280/90?', answer: 'Son la misma plataforma de hardware (mismas dimensiones, peso, potencia y capacidad). La HD9280/90 agrega Wi-Fi y Amazon Alexa. Al momento del análisis la HD9270/91 sin Wi-Fi cotiza $70K más cara que la HD9280/90 con Wi-Fi. Conviene comparar precios vigentes.' },
+      { question: '¿Tiene apagado automático?', answer: 'Sí. También tiene exterior frío al tacto como medida de seguridad adicional.' },
+      { question: '¿Tiene ventana de cocción?', answer: 'No. El cajón es completamente opaco. Sin Wi-Fi ni app, el monitoreo es abriendo el cajón manualmente.' },
+    ],
+    relatedProducts: ['MLA19630913', 'MLA53675940', 'MLA55779230'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Airfryer Philips HD9270/91 Essential XL 6.2L',
+      description: 'Freidora de aire Philips Essential XL de 6.2 litros, 2000W, con 7 programas preestablecidos táctiles, tecnología RapidAir, apagado automático y canasta antiadherente apta para lavavajillas. Sin conectividad Wi-Fi.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      model: 'HD9270/91',
+      sku: 'MLA19630911',
+      category: 'Freidoras de aire',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_981648-MLA99506816420_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA19630911',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '520727',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2q6aiV8',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '1729',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA28709303',

@@ -10,21 +10,21 @@ const plusJakarta = Plus_Jakarta_Sans({
   variable: "--font-plus-jakarta",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700", "800"],
-  display: "swap",
+  display: "optional",
 });
 
 const dmSans = DM_Sans({
   variable: "--font-dm-sans",
   subsets: ["latin"],
   weight: ["400", "500", "700"],
-  display: "swap",
+  display: "optional",
 });
 
 const dancingScript = Dancing_Script({
   variable: "--font-script",
   subsets: ["latin"],
   weight: ["400", "700"],
-  display: "swap",
+  display: "optional",
 });
 
 export const metadata: Metadata = {

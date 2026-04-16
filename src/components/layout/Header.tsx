@@ -147,15 +147,17 @@ export function Header() {
               </button>
 
               {/* Dark mode toggle */}
-              {mounted && (
-                <button
-                  onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-                  className="p-2 rounded-full hover:bg-[var(--bg-secondary)] transition-colors text-[var(--text-secondary)] cursor-pointer"
-                  aria-label="Cambiar tema"
-                >
-                  {theme === "dark" ? <Sun size={18} /> : <Moon size={18} />}
-                </button>
-              )}
+              <button
+                onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+                className={cn(
+                  "p-2 rounded-full hover:bg-[var(--bg-secondary)] transition-colors text-[var(--text-secondary)] cursor-pointer",
+                  !mounted && "opacity-0"
+                )}
+                aria-label="Cambiar tema"
+                aria-hidden={!mounted}
+              >
+                {mounted && theme === "dark" ? <Sun size={18} /> : <Moon size={18} />}
+              </button>
             </div>
           </div>
 

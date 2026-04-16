@@ -13,14 +13,14 @@ export function HeroBanner() {
 
     mm.add("(prefers-reduced-motion: no-preference)", () => {
       const tl = gsap.timeline({ defaults: { ease: "power3.out" } });
-      tl.from(".hero-label", { autoAlpha: 0, y: 14, duration: 0.4 })
-        .from(".hero-title", { autoAlpha: 0, y: 20, duration: 0.5 }, "-=0.15")
-        .from(".hero-desc", { autoAlpha: 0, y: 14, duration: 0.4 }, "-=0.2")
-        .from(".hero-cta", { autoAlpha: 0, y: 14, duration: 0.4 }, "-=0.15");
+      tl.to(".hero-label", { opacity: 1, y: 0, duration: 0.4 })
+        .to(".hero-title", { opacity: 1, y: 0, duration: 0.5 }, "-=0.15")
+        .to(".hero-desc", { opacity: 1, y: 0, duration: 0.4 }, "-=0.2")
+        .to(".hero-cta", { opacity: 1, y: 0, duration: 0.4 }, "-=0.15");
     });
 
     mm.add("(prefers-reduced-motion: reduce)", () => {
-      gsap.set(".hero-label, .hero-title, .hero-desc, .hero-cta", { autoAlpha: 1, y: 0 });
+      gsap.set(".hero-label, .hero-title, .hero-desc, .hero-cta", { opacity: 1, y: 0 });
     });
   }, { scope: containerRef });
 
@@ -34,7 +34,7 @@ export function HeroBanner() {
       }}
     >
       <div className="relative z-10 max-w-xl">
-        <div className="hero-label flex items-center gap-2 mb-3" style={{ visibility: "hidden" }}>
+        <div className="hero-label flex items-center gap-2 mb-3 opacity-0">
           <Sparkles size={16} className="text-[#111]" />
           <span className="text-xs font-semibold uppercase tracking-wider text-[#111]/75">
             Lo más viral de la semana
@@ -42,20 +42,19 @@ export function HeroBanner() {
         </div>
 
         <h1
-          className="hero-title text-3xl md:text-5xl font-extrabold text-[#111] leading-[1.05] tracking-tight"
-          style={{ fontFamily: "var(--font-display)", visibility: "hidden" }}
+          className="hero-title text-3xl md:text-5xl font-extrabold text-[#111] leading-[1.05] tracking-tight opacity-0"
+          style={{ fontFamily: "var(--font-display)" }}
         >
           Los productos que explotan en Internet
         </h1>
 
         <p
-          className="hero-desc mt-4 text-sm md:text-base text-[#111]/70 leading-relaxed"
-          style={{ visibility: "hidden" }}
+          className="hero-desc mt-4 text-sm md:text-base text-[#111]/70 leading-relaxed opacity-0"
         >
           Tendencias de TikTok, ofertas imperdibles y lo que todos están comprando ahora mismo.
         </p>
 
-        <div className="hero-cta" style={{ visibility: "hidden" }}>
+        <div className="hero-cta opacity-0">
           <Link
             href="/trending"
             className="cta-shimmer inline-flex items-center gap-2 mt-6 px-5 py-3 text-sm font-semibold rounded-[var(--radius-pill)] bg-[#111] text-white hover:bg-[#222] transition-colors"
