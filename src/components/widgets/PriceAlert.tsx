@@ -1,35 +1,11 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useState } from "react";
 import { Bell, ArrowRight } from "lucide-react";
-import { gsap, useGSAP } from "@/lib/gsap-config";
 
 export function PriceAlert() {
-  const containerRef = useRef<HTMLDivElement>(null);
   const [email, setEmail] = useState("");
   const [submitted, setSubmitted] = useState(false);
-
-  useGSAP(() => {
-    const mm = gsap.matchMedia();
-
-    mm.add("(prefers-reduced-motion: no-preference)", () => {
-      gsap.from(".widget-price-alert", {
-        autoAlpha: 0,
-        y: 30,
-        duration: 0.6,
-        ease: "power2.out",
-        scrollTrigger: {
-          trigger: ".widget-price-alert",
-          start: "top 85%",
-          toggleActions: "play none none none",
-        },
-      });
-    });
-
-    mm.add("(prefers-reduced-motion: reduce)", () => {
-      gsap.set(".widget-price-alert", { autoAlpha: 1, y: 0 });
-    });
-  }, { scope: containerRef });
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -39,13 +15,12 @@ export function PriceAlert() {
   };
 
   return (
-    <div ref={containerRef}>
+    <div>
       <div
-        className="widget-price-alert rounded-[var(--radius-card)] border border-[var(--border)] p-5 md:p-8"
+        className="rounded-[var(--radius-card)] border border-[var(--border)] p-5 md:p-8"
         style={{
           background:
             "linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-primary) 100%)",
-          visibility: "hidden",
         }}
       >
         <div className="flex items-start gap-3 mb-4">

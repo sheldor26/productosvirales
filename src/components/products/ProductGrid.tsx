@@ -1,7 +1,6 @@
 "use client";
 
-import { useRef } from "react";
-import { gsap, useGSAP, ScrollTrigger } from "@/lib/gsap-config";
+import { useEffect, useRef } from "react";
 import { ProductCard } from "./ProductCard";
 import { ProductCardSkeleton } from "@/components/ui/Skeleton";
 import type { Product } from "@/lib/types";
@@ -14,37 +13,35 @@ interface ProductGridProps {
 }
 
 export function ProductGrid({ products, loading = false, title, subtitle }: ProductGridProps) {
-  const containerRef = useRef<HTMLDivElement>(null);
+  const containerRef = useRef<HTMLElement>(null);
 
-  useGSAP(() => {
-    const cards = gsap.utils.toArray<HTMLElement>(".product-card");
+  useEffect(() => {
+    const root = containerRef.current;
+    if (!root || typeof IntersectionObserver === "undefined") return;
+
+    const cards = Array.from(root.querySelectorAll<HTMLElement>(".product-card"));
     if (cards.length === 0) return;
 
-    const mm = gsap.matchMedia();
-
-    mm.add("(prefers-reduced-motion: no-preference)", () => {
-      gsap.set(cards, { autoAlpha: 0, y: 30 });
-
-      ScrollTrigger.batch(cards, {
-        onEnter: (elements) => {
-          gsap.to(elements, {
-            autoAlpha: 1,
-            y: 0,
-            stagger: 0.08,
-            duration: 0.5,
-            ease: "power2.out",
-            overwrite: true,
-          });
-        },
-        start: "top 88%",
-        once: true,
-      });
+    // Set per-card stagger via CSS variable so the transition delay reads it
+    cards.forEach((c, i) => {
+      c.style.transitionDelay = `${Math.min(i, 6) * 60}ms`;
     });
 
-    mm.add("(prefers-reduced-motion: reduce)", () => {
-      gsap.set(cards, { autoAlpha: 1, y: 0 });
-    });
-  }, { scope: containerRef, dependencies: [products] });
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("in-view");
+            io.unobserve(entry.target);
+          }
+        }
+      },
+      { rootMargin: "0px 0px -10% 0px", threshold: 0.05 }
+    );
+
+    cards.forEach((c) => io.observe(c));
+    return () => io.disconnect();
+  }, [products]);
 
   return (
     <section ref={containerRef}>
