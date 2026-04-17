@@ -3,6 +3,9 @@ import { ExternalLink } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
 import { ArticleHeader } from "./ArticleHeader";
+import { ReadingProgressBar } from "./ReadingProgressBar";
+import { TableOfContents } from "./TableOfContents";
+import { ensureSectionIds, getTocItems } from "@/lib/slug";
 
 interface GuideRendererProps {
   guide: Guide;
@@ -231,50 +234,54 @@ function SectionRenderer({ section }: { section: GuideSection }) {
   }
 }
 
-export function GuideRenderer({ guide }: GuideRendererProps) {
-  // Standfirst defaults to the first intro paragraph — avoid duplicating it in the body
-  const standfirstText = guide.standfirst || guide.intro[0];
-  const introRest = guide.standfirst
-    ? guide.intro
-    : guide.intro.slice(1);
+export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
+  // Inject stable IDs on every H2/H3 so the TOC + in-page anchors work
+  const guide = ensureSectionIds(rawGuide);
+  const tocItems = getTocItems(guide);
+
+  const introRest = guide.standfirst ? guide.intro : guide.intro.slice(1);
 
   // Skip first section if it's the hero (ArticleHeader already renders it)
   const firstIsHero =
     guide.sections[0]?.type === "image" && guide.sections[0]?.imageSize === "hero";
   const bodySections = firstIsHero ? guide.sections.slice(1) : guide.sections;
 
-  // Reference standfirstText so lint doesn't complain when it's unused in JSX
-  void standfirstText;
-
   return (
-    <article className="editorial-article max-w-[720px] mx-auto px-4 md:px-6 py-6 md:py-10">
-      <ArticleHeader guide={guide} />
+    <div className="editorial-article">
+      <ReadingProgressBar />
+      <div className="max-w-[1000px] mx-auto px-4 md:px-6 py-6 md:py-10 lg:grid lg:grid-cols-[200px_minmax(0,720px)] lg:gap-12">
+        <TableOfContents items={tocItems} />
+        <article className="min-w-0">
+          <ArticleHeader guide={guide} />
 
-      {/* Disclosure */}
-      {guide.hasDisclosure && (
-        <div className="mb-8 p-4 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]" style={{ borderLeftColor: "var(--editorial-accent)" }}>
-          <p className="text-xs md:text-sm text-[var(--text-muted)] leading-relaxed">
-            Transparencia: este artículo tiene enlaces de afiliado a MercadoLibre. Si
-            comprás algo a través de ellos, recibimos una comisión chica sin costo extra
-            para vos. Eso no cambia nuestras opiniones.
-          </p>
-        </div>
-      )}
+          {/* Disclosure */}
+          {guide.hasDisclosure && (
+            <div
+              className="mb-8 p-4 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
+              style={{ borderLeftColor: "var(--editorial-accent)" }}
+            >
+              <p className="text-xs md:text-sm text-[var(--text-muted)] leading-relaxed">
+                Transparencia: este artículo tiene enlaces de afiliado a MercadoLibre. Si
+                comprás algo a través de ellos, recibimos una comisión chica sin costo
+                extra para vos. Eso no cambia nuestras opiniones.
+              </p>
+            </div>
+          )}
 
-      {/* Remaining intro paragraphs */}
-      {introRest.map((p, i) => (
-        <p
-          key={i}
-          className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6"
-        >
-          {p}
-        </p>
-      ))}
+          {/* Remaining intro paragraphs */}
+          {introRest.map((p, i) => (
+            <p
+              key={i}
+              className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6"
+            >
+              {p}
+            </p>
+          ))}
 
-      {/* Sections */}
-      {bodySections.map((section, i) => (
-        <SectionRenderer key={i} section={section} />
-      ))}
+          {/* Sections */}
+          {bodySections.map((section, i) => (
+            <SectionRenderer key={i} section={section} />
+          ))}
 
       {/* FAQ */}
       {guide.faq && guide.faq.length > 0 && (
@@ -325,6 +332,8 @@ export function GuideRenderer({ guide }: GuideRendererProps) {
           </div>
         </aside>
       )}
-    </article>
+        </article>
+      </div>
+    </div>
   );
 }
