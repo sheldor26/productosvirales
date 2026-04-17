@@ -6212,12 +6212,6 @@ export const guides: Guide[] = [
         content: "Probá antes de comprar los 100ml. Los kits de 35ml te permiten experimentar cuatro fragancias por menos de lo que sale un solo frasco grande. [Este kit masculino](https://meli.la/2AWZpVQ) es un buen punto de arranque si estás entrando al nicho."
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/06-Kit4Perfumes-Tubito-35ml-Hombre.webp",
-        alt: "Kit de 4 perfumes árabes tubito 35ml para hombre, formato descubrimiento",
-        imageSize: "inline-md"
-      },
-      {
         type: "p",
         content: "Y sobre la duración: un perfume árabe decente dura 8 a 12 horas. Si te dura menos de 6, probablemente sea una falsificación o una versión diluida. Pasa, hay que tener cuidado."
       },
