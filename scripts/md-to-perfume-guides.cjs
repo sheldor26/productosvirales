@@ -107,7 +107,7 @@ function parseArticle(text, headerName) {
       if (ln.includes('}}')) { blocks.push(cur); cur = []; inGrid = false; }
       continue;
     }
-    if (/^:::(note|warning|tip|update)(\s|$)/.test(ln.trim())) {
+    if (/^:::(note|warning|tip|update|pull-quote)(\s|$)/.test(ln.trim())) {
       if (cur.length) { blocks.push(cur); cur = []; }
       cur.push(ln);
       inCallout = true;
@@ -169,8 +169,8 @@ function parseArticle(text, headerName) {
       continue;
     }
 
-    // CALLOUT: :::note / :::warning / :::tip / :::update
-    const calloutM = first.match(/^:::(note|warning|tip|update)(.*)$/);
+    // CALLOUT / PULL-QUOTE fences: :::note / :::warning / :::tip / :::update / :::pull-quote
+    const calloutM = first.match(/^:::(note|warning|tip|update|pull-quote)(.*)$/);
     if (calloutM) {
       const variant = calloutM[1];
       const attrs = {};
@@ -183,14 +183,15 @@ function parseArticle(text, headerName) {
         if (ln === ':::') break;
         contentLines.push(blk[k]);
       }
-      const out = {
-        type: 'callout',
-        calloutVariant: variant,
-        content: contentLines.join(' ').replace(/\s+/g, ' ').trim(),
-      };
-      if (attrs.fecha || attrs.date) out.date = attrs.fecha || attrs.date;
-      if (attrs.titulo || attrs.title) out.calloutTitle = attrs.titulo || attrs.title;
-      sections.push(out);
+      const content = contentLines.join(' ').replace(/\s+/g, ' ').trim();
+      if (variant === 'pull-quote') {
+        sections.push({ type: 'pull-quote', content });
+      } else {
+        const out = { type: 'callout', calloutVariant: variant, content };
+        if (attrs.fecha || attrs.date) out.date = attrs.fecha || attrs.date;
+        if (attrs.titulo || attrs.title) out.calloutTitle = attrs.titulo || attrs.title;
+        sections.push(out);
+      }
       continue;
     }
 

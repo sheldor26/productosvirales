@@ -192,6 +192,28 @@ function SectionRenderer({ section }: { section: GuideSection }) {
     case "product-card":
       return <ProductCard section={section} />;
 
+    case "pull-quote":
+      return (
+        <blockquote
+          className="not-prose my-10 md:my-12 py-6 md:py-8 px-2 md:px-4 border-t border-b relative"
+          style={{ borderColor: "var(--border)" }}
+        >
+          <span
+            aria-hidden="true"
+            className="absolute -top-3 left-0 text-5xl leading-none"
+            style={{ fontFamily: "var(--font-serif)", color: "var(--editorial-accent)" }}
+          >
+            “
+          </span>
+          <p
+            className="text-[22px] md:text-[26px] leading-[1.35] italic text-[var(--text-primary)]"
+            style={{ fontFamily: "var(--font-serif)", fontWeight: 500 }}
+          >
+            {section.content ? parseInlineLinks(section.content) : null}
+          </p>
+        </blockquote>
+      );
+
     case "callout": {
       const variant = section.calloutVariant || "note";
       const palette: Record<string, { bg: string; border: string; label: string; title: string }> = {

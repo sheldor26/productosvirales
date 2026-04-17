@@ -61,7 +61,8 @@ export interface GuideSection {
     | "image"
     | "image-grid"
     | "product-card"
-    | "callout";
+    | "callout"
+    | "pull-quote";
   id?: string;
   title?: string;
   content?: string;
