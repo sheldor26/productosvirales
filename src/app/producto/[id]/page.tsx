@@ -75,12 +75,11 @@ export default async function ProductPage({ params }: Props) {
     .slice(0, 4);
 
   // Build JSON-LD structured data
-  const jsonLd = product.structuredData || {
+  const baseData = product.structuredData || {
     "@context": "https://schema.org",
     "@type": "Product",
     name: product.title,
     description: product.description,
-    image: product.image,
     sku: product.id,
     brand: {
       "@type": "Brand",
@@ -95,6 +94,55 @@ export default async function ProductPage({ params }: Props) {
       seller: {
         "@type": "Organization",
         name: "MercadoLibre Argentina",
+      },
+    },
+  };
+
+  const baseOffers = (baseData as Record<string, unknown>).offers as Record<string, unknown> || {};
+
+  const jsonLd = {
+    ...baseData,
+    // Always ensure image is present — custom structuredData entries often omit it
+    image: (baseData as Record<string, unknown>).image || product.images || product.image,
+    offers: {
+      ...baseOffers,
+      shippingDetails: baseOffers.shippingDetails || {
+        "@type": "OfferShippingDetails",
+        shippingDestination: {
+          "@type": "DefinedRegion",
+          addressCountry: "AR",
+        },
+        deliveryTime: {
+          "@type": "ShippingDeliveryTime",
+          handlingTime: {
+            "@type": "QuantitativeValue",
+            minValue: 0,
+            maxValue: 1,
+            unitCode: "DAY",
+          },
+          transitTime: {
+            "@type": "QuantitativeValue",
+            minValue: 1,
+            maxValue: 5,
+            unitCode: "DAY",
+          },
+        },
+        ...(product.freeShipping && {
+          shippingRate: {
+            "@type": "MonetaryAmount",
+            value: "0",
+            currency: "ARS",
+          },
+        }),
+      },
+      hasMerchantReturnPolicy: baseOffers.hasMerchantReturnPolicy || {
+        "@type": "MerchantReturnPolicy",
+        applicableCountry: "AR",
+        returnPolicyCategory:
+          "https://schema.org/MerchantReturnFiniteReturnWindow",
+        merchantReturnDays: 30,
+        returnMethod: "https://schema.org/ReturnByMail",
+        returnFees: "https://schema.org/FreeReturn",
       },
     },
   };
