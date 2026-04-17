@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ExternalLink } from "lucide-react";
+import { ExternalLink, Target, Award, Tag } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
 import { ArticleHeader } from "./ArticleHeader";
@@ -191,6 +191,44 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 
     case "product-card":
       return <ProductCard section={section} />;
+
+    case "trust-block": {
+      const variant = section.trustVariant || "methodology";
+      const defaults = {
+        methodology: { Icon: Target, title: "Cómo armamos este análisis" },
+        credentials: { Icon: Award, title: "Por qué confiar en esta guía" },
+        pricing: { Icon: Tag, title: "Cómo elegimos estos precios" },
+      } as const;
+      const { Icon, title: defaultTitle } = defaults[variant];
+      const title = section.title || defaultTitle;
+      return (
+        <aside
+          className="not-prose my-10 rounded-[8px] border-l-[3px] p-5 md:p-6"
+          style={{
+            borderLeftColor: "var(--editorial-accent)",
+            backgroundColor: "var(--bg-secondary)",
+          }}
+        >
+          <div className="flex items-start gap-3 mb-2">
+            <span
+              className="shrink-0 mt-[2px]"
+              style={{ color: "var(--editorial-accent)" }}
+            >
+              <Icon size={18} strokeWidth={2.2} />
+            </span>
+            <h4
+              className="text-[17px] md:text-lg font-semibold text-[var(--text-primary)] leading-tight"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              {title}
+            </h4>
+          </div>
+          <div className="pl-7 text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
+            {section.content ? parseInlineLinks(section.content) : null}
+          </div>
+        </aside>
+      );
+    }
 
     case "pull-quote":
       return (

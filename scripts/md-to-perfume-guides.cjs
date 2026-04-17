@@ -107,7 +107,7 @@ function parseArticle(text, headerName) {
       if (ln.includes('}}')) { blocks.push(cur); cur = []; inGrid = false; }
       continue;
     }
-    if (/^:::(note|warning|tip|update|pull-quote)(\s|$)/.test(ln.trim())) {
+    if (/^:::(note|warning|tip|update|pull-quote|trust)(\s|$)/.test(ln.trim())) {
       if (cur.length) { blocks.push(cur); cur = []; }
       cur.push(ln);
       inCallout = true;
@@ -169,14 +169,14 @@ function parseArticle(text, headerName) {
       continue;
     }
 
-    // CALLOUT / PULL-QUOTE fences: :::note / :::warning / :::tip / :::update / :::pull-quote
-    const calloutM = first.match(/^:::(note|warning|tip|update|pull-quote)(.*)$/);
-    if (calloutM) {
-      const variant = calloutM[1];
+    // Fences: :::note / :::warning / :::tip / :::update / :::pull-quote / :::trust
+    const fenceM = first.match(/^:::(note|warning|tip|update|pull-quote|trust)(.*)$/);
+    if (fenceM) {
+      const variant = fenceM[1];
       const attrs = {};
       const attrRe = /(\w+)="([^"]+)"/g;
       let am;
-      while ((am = attrRe.exec(calloutM[2])) !== null) attrs[am[1]] = am[2];
+      while ((am = attrRe.exec(fenceM[2])) !== null) attrs[am[1]] = am[2];
       const contentLines = [];
       for (let k = 1; k < blk.length; k++) {
         const ln = blk[k].trim();
@@ -184,8 +184,15 @@ function parseArticle(text, headerName) {
         contentLines.push(blk[k]);
       }
       const content = contentLines.join(' ').replace(/\s+/g, ' ').trim();
+
       if (variant === 'pull-quote') {
         sections.push({ type: 'pull-quote', content });
+      } else if (variant === 'trust') {
+        const out = { type: 'trust-block', content };
+        const tv = attrs.variant;
+        if (tv === 'methodology' || tv === 'credentials' || tv === 'pricing') out.trustVariant = tv;
+        if (attrs.titulo || attrs.title) out.title = attrs.titulo || attrs.title;
+        sections.push(out);
       } else {
         const out = { type: 'callout', calloutVariant: variant, content };
         if (attrs.fecha || attrs.date) out.date = attrs.fecha || attrs.date;

@@ -45,6 +45,7 @@ export interface TrendingKeyword {
 export type LabelColor = "green" | "blue" | "amber" | "purple";
 export type Intensity = "baja" | "media" | "alta" | "muy alta";
 export type CalloutVariant = "note" | "warning" | "tip" | "update";
+export type TrustVariant = "methodology" | "credentials" | "pricing";
 
 export interface GuideSection {
   type:
@@ -62,7 +63,8 @@ export interface GuideSection {
     | "image-grid"
     | "product-card"
     | "callout"
-    | "pull-quote";
+    | "pull-quote"
+    | "trust-block";
   id?: string;
   title?: string;
   content?: string;
@@ -97,6 +99,9 @@ export interface GuideSection {
   date?: string;
   /** Optional override of the default label (NOTA/ATENCIÓN/TIP/ACTUALIZACIÓN). */
   calloutTitle?: string;
+
+  // ── trust-block fields ──────────────────────────────
+  trustVariant?: TrustVariant;
 }
 
 export interface GuideFAQ {
