@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ExternalLink } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
+import { ArticleHeader } from "./ArticleHeader";
 
 interface GuideRendererProps {
   guide: Guide;
@@ -13,7 +14,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       return (
         <h2
           id={section.id}
-          className="text-2xl md:text-3xl font-bold text-[var(--text-primary)] mt-10 mb-4 pb-2 border-b border-[var(--border)] scroll-mt-20"
+          className="text-[26px] md:text-[32px] font-bold text-[var(--text-primary)] mt-14 md:mt-16 mb-5 pb-2 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
           {section.title}
@@ -24,7 +25,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       return (
         <h3
           id={section.id}
-          className="text-lg md:text-xl font-bold text-[var(--text-primary)] mt-6 mb-3 scroll-mt-20"
+          className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] mt-10 mb-3 scroll-mt-20 leading-tight"
           style={{ fontFamily: "var(--font-display)" }}
         >
           {section.title}
@@ -33,7 +34,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 
     case "p":
       return (
-        <p className="text-[15px] md:text-base leading-relaxed text-[var(--text-secondary)] mb-4">
+        <p className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6">
           {section.content ? parseInlineLinks(section.content) : null}
         </p>
       );
@@ -132,13 +133,13 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 
     case "list":
       return (
-        <ul className="my-4 space-y-2 pl-1">
+        <ul className="my-6 space-y-3 pl-1">
           {(section.items as string[])?.map((item, i) => (
             <li
               key={i}
-              className="flex items-start gap-2 text-[15px] leading-relaxed text-[var(--text-secondary)]"
+              className="flex items-start gap-3 text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)]"
             >
-              <span className="shrink-0 mt-1.5 w-1.5 h-1.5 rounded-full bg-[var(--text-muted)]" />
+              <span className="shrink-0 mt-[10px] w-1.5 h-1.5 rounded-full" style={{ backgroundColor: "var(--editorial-accent)" }} />
               <span>{parseInlineLinks(item)}</span>
             </li>
           ))}
@@ -231,56 +232,27 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 }
 
 export function GuideRenderer({ guide }: GuideRendererProps) {
+  // Standfirst defaults to the first intro paragraph — avoid duplicating it in the body
+  const standfirstText = guide.standfirst || guide.intro[0];
+  const introRest = guide.standfirst
+    ? guide.intro
+    : guide.intro.slice(1);
+
+  // Skip first section if it's the hero (ArticleHeader already renders it)
+  const firstIsHero =
+    guide.sections[0]?.type === "image" && guide.sections[0]?.imageSize === "hero";
+  const bodySections = firstIsHero ? guide.sections.slice(1) : guide.sections;
+
+  // Reference standfirstText so lint doesn't complain when it's unused in JSX
+  void standfirstText;
+
   return (
-    <article className="max-w-[780px] mx-auto px-4 md:px-6 py-6 md:py-10">
-      {/* Breadcrumb */}
-      <nav className="flex items-center gap-1.5 text-xs text-[var(--text-muted)] mb-4">
-        <Link href="/" className="hover:text-[var(--text-secondary)] transition-colors">
-          Inicio
-        </Link>
-        <span>→</span>
-        <Link
-          href="/guias"
-          className="hover:text-[var(--text-secondary)] transition-colors"
-        >
-          Guías
-        </Link>
-        <span>→</span>
-        <span className="text-[var(--text-secondary)] truncate">{guide.title}</span>
-      </nav>
-
-      {/* H1 */}
-      <h1
-        className="text-3xl md:text-4xl font-bold text-[var(--text-primary)] leading-tight mb-3"
-        style={{ fontFamily: "var(--font-display)" }}
-      >
-        {guide.h1}
-      </h1>
-
-      {/* Meta */}
-      <p className="text-sm text-[var(--text-muted)] mb-6">
-        Publicado el{" "}
-        {new Date(guide.publishedDate).toLocaleDateString("es-AR", {
-          day: "numeric",
-          month: "long",
-          year: "numeric",
-        })}
-        {guide.updatedDate !== guide.publishedDate && (
-          <>
-            {" · Actualizado el "}
-            {new Date(guide.updatedDate).toLocaleDateString("es-AR", {
-              day: "numeric",
-              month: "long",
-              year: "numeric",
-            })}
-          </>
-        )}
-        {" · productosvirales.com.ar"}
-      </p>
+    <article className="editorial-article max-w-[720px] mx-auto px-4 md:px-6 py-6 md:py-10">
+      <ArticleHeader guide={guide} />
 
       {/* Disclosure */}
       {guide.hasDisclosure && (
-        <div className="mb-8 p-3 md:p-4 rounded-[var(--radius-card)] border-l-2 border-[var(--border)] bg-[var(--bg-secondary)]">
+        <div className="mb-8 p-4 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]" style={{ borderLeftColor: "var(--editorial-accent)" }}>
           <p className="text-xs md:text-sm text-[var(--text-muted)] leading-relaxed">
             Transparencia: este artículo tiene enlaces de afiliado a MercadoLibre. Si
             comprás algo a través de ellos, recibimos una comisión chica sin costo extra
@@ -289,18 +261,18 @@ export function GuideRenderer({ guide }: GuideRendererProps) {
         </div>
       )}
 
-      {/* Intro */}
-      {guide.intro.map((p, i) => (
+      {/* Remaining intro paragraphs */}
+      {introRest.map((p, i) => (
         <p
           key={i}
-          className="text-[15px] md:text-base leading-relaxed text-[var(--text-secondary)] mb-4"
+          className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6"
         >
           {p}
         </p>
       ))}
 
       {/* Sections */}
-      {guide.sections.map((section, i) => (
+      {bodySections.map((section, i) => (
         <SectionRenderer key={i} section={section} />
       ))}
 

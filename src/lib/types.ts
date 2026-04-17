@@ -83,6 +83,10 @@ export interface Guide {
   internalLinks?: Array<{ label: string; href: string }>;
   internalLinksTitle?: string;
   hasDisclosure?: boolean;
+  /** Standfirst / dek shown under the H1. If absent, first intro paragraph is used. */
+  standfirst?: string;
+  /** Override the auto-computed reading time in minutes. */
+  readingTime?: number;
 }
 
 export interface Category {

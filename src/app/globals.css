@@ -98,6 +98,46 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+/* ─── Editorial article scope (Wirecutter-style guides) ───────────────── */
+.editorial-article {
+  --bg-primary: #FAFAF5;
+  --bg-secondary: #F5F5F0;
+  --text-primary: #1A1A1A;
+  --text-secondary: #4A4A4A;
+  --text-muted: #666666;
+  --border: #E5E5E0;
+  --editorial-accent: #A67B3B;
+  --editorial-accent-soft: #F0E4CE;
+  --font-display: var(--font-serif);
+
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .editorial-article {
+  --bg-primary: #1A1614;
+  --bg-secondary: #221D1A;
+  --text-primary: #F0EDE5;
+  --text-secondary: #C8BFB2;
+  --text-muted: #A89F92;
+  --border: #2E2824;
+  --editorial-accent: #D4A862;
+  --editorial-accent-soft: #3A2E20;
+}
+
+.editorial-article .editorial-hero-wrap {
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  max-width: 100vw;
+}
+@media (min-width: 1024px) {
+  .editorial-article .editorial-hero-wrap {
+    margin-left: -90px;
+    margin-right: -90px;
+    max-width: calc(100% + 180px);
+  }
+}
+
 /* Hero noise overlay — sutil grano via SVG inline */
 .hero-noise::after {
   content: "";

@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Plus_Jakarta_Sans, DM_Sans, Dancing_Script } from "next/font/google";
+import { Plus_Jakarta_Sans, DM_Sans, Dancing_Script, Source_Serif_4 } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { ThemeProvider } from "@/components/layout/ThemeProvider";
 import { Header } from "@/components/layout/Header";
@@ -24,6 +24,13 @@ const dancingScript = Dancing_Script({
   variable: "--font-script",
   subsets: ["latin"],
   weight: ["400", "700"],
+  display: "optional",
+});
+
+const sourceSerif = Source_Serif_4({
+  variable: "--font-serif",
+  subsets: ["latin"],
+  weight: ["400", "600", "700"],
   display: "optional",
 });
 
@@ -65,7 +72,7 @@ export default function RootLayout({
   return (
     <html
       lang="es"
-      className={`${plusJakarta.variable} ${dmSans.variable} ${dancingScript.variable}`}
+      className={`${plusJakarta.variable} ${dmSans.variable} ${dancingScript.variable} ${sourceSerif.variable}`}
       suppressHydrationWarning
     >
       <body className="min-h-screen flex flex-col">
