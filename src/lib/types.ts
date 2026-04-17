@@ -85,6 +85,8 @@ export interface GuideSection {
   notes?: string[];
   longevity?: Intensity;
   projection?: Intensity;
+  /** "default" = full card (rankings, head-to-head). "compact" = dense, 1-line description, no notes. */
+  variant?: "default" | "compact";
 }
 
 export interface GuideFAQ {

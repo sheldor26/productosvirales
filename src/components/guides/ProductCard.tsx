@@ -25,6 +25,40 @@ const LABEL_STYLES: Record<LabelColor, { bg: string; fg: string }> = {
   purple: { bg: "#E5D9EC", fg: "#5A2E75" },
 };
 
+function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
+  if (!product) return null;
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{
+        __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Product",
+          name: product.title,
+          image: product.image,
+          ...(product.rating
+            ? {
+                aggregateRating: {
+                  "@type": "AggregateRating",
+                  ratingValue: product.rating,
+                  reviewCount: 1,
+                  bestRating: 5,
+                },
+              }
+            : {}),
+          offers: {
+            "@type": "Offer",
+            priceCurrency: product.currency || "ARS",
+            price: product.price,
+            availability: "https://schema.org/InStock",
+            url: product.affiliateUrl,
+          },
+        }),
+      }}
+    />
+  );
+}
+
 export function ProductCard({ section }: ProductCardProps) {
   if (!section.productMlaId) return null;
   const product = getProductById(section.productMlaId);
@@ -32,10 +66,70 @@ export function ProductCard({ section }: ProductCardProps) {
 
   const color = section.labelColor || inferLabelColor(section.label);
   const palette = LABEL_STYLES[color];
-  const labelText =
-    section.label ||
-    (section.ranking ? `#${section.ranking}` : null);
+  const labelText = section.label || (section.ranking ? `#${section.ranking}` : null);
+  const variant = section.variant || "default";
 
+  if (variant === "compact") {
+    return (
+      <aside
+        className="not-prose my-4 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)]"
+        style={{ borderColor: "var(--border)" }}
+        aria-label={product.title}
+      >
+        <div className="flex items-stretch">
+          {/* Image */}
+          <div
+            className="shrink-0 w-[100px] sm:w-[120px] flex items-center justify-center p-3"
+            style={{ backgroundColor: "var(--bg-secondary)" }}
+          >
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={product.image}
+              alt={product.title}
+              className="w-full h-full max-h-[100px] object-contain"
+              loading="lazy"
+            />
+          </div>
+
+          {/* Content */}
+          <div className="flex-1 min-w-0 p-3 sm:p-4 flex flex-col gap-1.5 justify-center">
+            {labelText && (
+              <span
+                className="self-start inline-flex items-center px-2 py-[2px] rounded-full text-[10px] font-semibold tracking-wider uppercase"
+                style={{ backgroundColor: palette.bg, color: palette.fg }}
+              >
+                {labelText}
+              </span>
+            )}
+            <h4
+              className="text-[15px] sm:text-base font-semibold text-[var(--text-primary)] leading-tight truncate"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              {product.title}
+            </h4>
+            {section.description && (
+              <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
+                {section.description}
+              </p>
+            )}
+            <a
+              href={product.affiliateUrl}
+              target="_blank"
+              rel="sponsored nofollow noopener"
+              className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-semibold rounded-full text-white transition-opacity hover:opacity-90"
+              style={{ backgroundColor: "var(--editorial-accent)" }}
+            >
+              Ver en Mercado Libre
+              <ExternalLink size={12} />
+            </a>
+          </div>
+        </div>
+        <SchemaLd product={product} />
+      </aside>
+    );
+  }
+
+  // Default variant
   const price = product.price ? formatPrice(product.price, product.currency) : null;
   const rating = product.rating;
 
@@ -46,7 +140,6 @@ export function ProductCard({ section }: ProductCardProps) {
       aria-label={product.title}
     >
       <div className="flex flex-col md:flex-row">
-        {/* Image */}
         <div
           className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-5"
           style={{ backgroundColor: "var(--bg-secondary)" }}
@@ -60,7 +153,6 @@ export function ProductCard({ section }: ProductCardProps) {
           />
         </div>
 
-        {/* Content */}
         <div className="flex-1 p-5 md:p-6 flex flex-col gap-3">
           {labelText && (
             <span
@@ -142,36 +234,7 @@ export function ProductCard({ section }: ProductCardProps) {
           </div>
         </div>
       </div>
-
-      {/* Hidden JSON-LD Product schema for SEO */}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Product",
-            name: product.title,
-            image: product.image,
-            ...(product.rating
-              ? {
-                  aggregateRating: {
-                    "@type": "AggregateRating",
-                    ratingValue: product.rating,
-                    reviewCount: 1,
-                    bestRating: 5,
-                  },
-                }
-              : {}),
-            offers: {
-              "@type": "Offer",
-              priceCurrency: product.currency || "ARS",
-              price: product.price,
-              availability: "https://schema.org/InStock",
-              url: product.affiliateUrl,
-            },
-          }),
-        }}
-      />
+      <SchemaLd product={product} />
     </aside>
   );
 }
