@@ -19,6 +19,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const guide = getPublishedGuides().find((g) => g.slug === slug);
   if (!guide) return { title: "Guía no encontrada" };
 
+  const ogImage = `https://productosvirales.com.ar/guias/${guide.slug}/opengraph-image`;
+
   return {
     title: guide.seoTitle,
     description: guide.metaDescription,
@@ -34,11 +36,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       locale: "es_AR",
       publishedTime: guide.publishedDate,
       modifiedTime: guide.updatedDate,
+      images: [{ url: ogImage, width: 1200, height: 630 }],
     },
     twitter: {
       card: "summary_large_image",
       title: guide.ogTitle || guide.seoTitle,
       description: guide.ogDescription || guide.metaDescription,
+      images: [ogImage],
     },
   };
 }
@@ -51,15 +55,24 @@ export default async function GuidePage({ params }: Props) {
     notFound();
   }
 
+  // Pick first image section as the article image (hero), fall back to dynamic OG
+  const heroSection = guide.sections.find((s) => s.type === "image" && s.imageSize === "hero");
+  const fallbackImage = guide.sections.find((s) => s.type === "image" && s.src);
+  const articleImage = heroSection?.src || fallbackImage?.src
+    ? `https://productosvirales.com.ar${heroSection?.src || fallbackImage?.src}`
+    : `https://productosvirales.com.ar/guias/${guide.slug}/opengraph-image`;
+
   // Article structured data
   const articleLd = {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: guide.title,
     description: guide.metaDescription,
-    image: "https://productosvirales.com.ar/opengraph-image.png",
+    image: articleImage,
     datePublished: guide.publishedDate,
     dateModified: guide.updatedDate,
+    articleSection: guide.category,
+    inLanguage: "es-AR",
     author: {
       "@type": "Person",
       name: "Equipo ProductosVirales",
@@ -68,6 +81,11 @@ export default async function GuidePage({ params }: Props) {
     publisher: {
       "@type": "Organization",
       name: "Productos Virales",
+      url: "https://productosvirales.com.ar",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://productosvirales.com.ar/icon.png",
+      },
     },
     mainEntityOfPage: {
       "@type": "WebPage",

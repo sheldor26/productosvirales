@@ -159,25 +159,50 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         </div>
       );
 
-    case "image":
+    case "image": {
+      const size = section.imageSize || "inline-lg";
+      const sizeClass = {
+        "hero": "w-full max-w-none aspect-[1200/630] object-cover",
+        "inline-lg": "max-w-[400px] mx-auto",
+        "inline-md": "max-w-[250px] md:float-right md:ml-5 md:mb-3",
+        "inline-sm": "max-w-[150px] mx-auto",
+      }[size];
+      const wrapperClass = size === "inline-md" ? "my-3" : size === "hero" ? "-mx-4 md:-mx-6 my-6" : "my-6";
       return (
-        <figure className="my-6">
-          <div className="rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)]">
+        <figure className={wrapperClass}>
+          <div className={`rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)] ${size !== "hero" ? sizeClass : ""}`}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={section.src || ""}
               alt={section.alt || ""}
-              className="w-full h-auto"
-              loading="lazy"
+              className={size === "hero" ? sizeClass : "w-full h-auto"}
+              loading={size === "hero" ? "eager" : "lazy"}
             />
           </div>
-          {section.alt && (
-            <figcaption className="mt-2 text-xs text-[var(--text-muted)] text-center">
-              {section.alt}
-            </figcaption>
-          )}
         </figure>
       );
+    }
+
+    case "image-grid": {
+      const items = section.gridImages || [];
+      if (items.length === 0) return null;
+      const cols = items.length === 2 ? "grid-cols-2" : items.length === 3 ? "grid-cols-2 md:grid-cols-3" : "grid-cols-2 md:grid-cols-4";
+      return (
+        <div className={`my-6 grid ${cols} gap-3`}>
+          {items.map((it, i) => (
+            <figure key={i} className="text-center">
+              <div className="rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)]">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={it.src} alt={it.alt} className="w-full h-auto" loading="lazy" />
+              </div>
+              {it.caption && (
+                <figcaption className="mt-2 text-xs text-[var(--text-muted)]">{it.caption}</figcaption>
+              )}
+            </figure>
+          ))}
+        </div>
+      );
+    }
 
     case "toc":
       return (

@@ -1,0 +1,1142 @@
+{
+  "meta": {
+    "sitio": "productosvirales.com.ar",
+    "nicho": "Perfumes Árabes Argentina",
+    "fecha_plan": "2026-04-16",
+    "version": "1.0",
+    "total_productos": 35,
+    "total_articulos": 32,
+    "volumen_mensual_nicho": "200000+",
+    "distribucion": {
+      "marcas": {
+        "Lattafa": 18,
+        "Afnan": 3,
+        "Rasasi": 2,
+        "Armaf": 2,
+        "Jamal": 2,
+        "otros": 8
+      },
+      "genero": {
+        "Hombre": 16,
+        "Unisex": 13,
+        "Mujer": 6
+      }
+    }
+  },
+  "directorios": {
+    "imagenes_productos": "/public/images/productos/",
+    "patron_archivo": "NN-NombreProducto-XXXml.webp",
+    "imagenes_articulos": "/public/images/articulos/"
+  },
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Al Wataniah Bareeq Al Dhahad EDP 100ml",
+      "marca": "Al Wataniah",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA24605489",
+      "url_afiliado": "https://meli.la/1hq7XUU",
+      "imagen": "01-AlWataniahBareeqAlDhahad-100ml.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Mandarine Sky Árabe Masculino 100ml",
+      "marca": "Genérica",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLAU3812360798",
+      "url_afiliado": "https://meli.la/1kRWagc",
+      "imagen": "02-MandarineSky-Arabe-100ml.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "Asad Bourbon Marrón 100ml",
+      "marca": "Lattafa",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLAU3798337289",
+      "url_afiliado": "https://meli.la/1qWMdCK",
+      "imagen": "03-AsadBourbonMarron-100ml.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Set 4 Perfumes Tubo 35ml Unisex",
+      "marca": "Varios",
+      "genero": "Unisex",
+      "tipo": "Set",
+      "ml_id": "MLA52883777",
+      "url_afiliado": "https://meli.la/1T1B9sw",
+      "imagen": "04-Set4Perfumes-Tubo-35ml-Unisex.webp"
+    },
+    {
+      "id": 5,
+      "nombre": "Jamal Árabe + Perfumero Recargable",
+      "marca": "Jamal",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLAU3407622515",
+      "url_afiliado": "https://meli.la/1TyiGC8",
+      "imagen": "05-Jamal-Perfumero-Recargable.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Kit 4 Perfumes Tubito 35ml Hombre",
+      "marca": "Varios",
+      "genero": "Hombre",
+      "tipo": "Set",
+      "ml_id": "MLAU3800115477",
+      "url_afiliado": "https://meli.la/2AWZpVQ",
+      "imagen": "06-Kit4Perfumes-Tubito-35ml-Hombre.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Erba Pura Árabe Masculino 100ml",
+      "marca": "Genérica",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLAU3671070084",
+      "url_afiliado": "https://meli.la/2WydUup",
+      "imagen": "07-ErbaPura-Arabe-100ml.webp"
+    },
+    {
+      "id": 8,
+      "nombre": "Lattafa Qaed Al Fursan EDP 90ml",
+      "marca": "Lattafa",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLA22234109",
+      "url_afiliado": "https://meli.la/2TnKuGC",
+      "imagen": "08-Lattafa-QaedAlFursan-90ml.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Asad Lattafa Intense Hombre",
+      "marca": "Lattafa",
+      "genero": "Hombre",
+      "tipo": "Elixir",
+      "ml_id": "MLA19715215",
+      "url_afiliado": "https://meli.la/26owfqo",
+      "imagen": "09-Asad-LattafaIntense-Hombre.webp"
+    },
+    {
+      "id": 10,
+      "nombre": "Rasasi Hawas Ice EDP 100ml",
+      "marca": "Rasasi",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLA29780185",
+      "url_afiliado": "https://meli.la/24kQeRc",
+      "imagen": "10-Rasasi-HawasIce-100ml.webp"
+    },
+    {
+      "id": 11,
+      "nombre": "Lattafa Habik For Men 100ml",
+      "marca": "Lattafa",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLA54145870",
+      "url_afiliado": "https://meli.la/1qWX1xU",
+      "imagen": "11-Lattafa-Habik-100ml.webp"
+    },
+    {
+      "id": 12,
+      "nombre": "Vintage Radio Lattafa Pride 100ml",
+      "marca": "Lattafa",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA29077943",
+      "url_afiliado": "https://meli.la/2Vzf4eN",
+      "imagen": "12-Lattafa-VintageRadioPride-100ml.webp"
+    },
+    {
+      "id": 13,
+      "nombre": "Lattafa Yara Elixir EDP 100ml",
+      "marca": "Lattafa",
+      "genero": "Mujer",
+      "tipo": "Elixir",
+      "ml_id": "MLA60836327",
+      "url_afiliado": "https://meli.la/2NrY6fF",
+      "imagen": "13-Lattafa-YaraElixir-100ml.webp"
+    },
+    {
+      "id": 14,
+      "nombre": "Rasasi Hawas Black 100ml Unisex",
+      "marca": "Rasasi",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA41306043",
+      "url_afiliado": "https://meli.la/2T9ofP2",
+      "imagen": "14-Rasasi-HawasBlack-100ml-Unisex.webp"
+    },
+    {
+      "id": 15,
+      "nombre": "Lattafa Mayar EDP 100ml",
+      "marca": "Lattafa",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA25883660",
+      "url_afiliado": "https://meli.la/1qrqLzC",
+      "imagen": "15-Lattafa-Mayar-100ml.webp"
+    },
+    {
+      "id": 16,
+      "nombre": "Lattafa Khamrah Qahwa EDP 100ml",
+      "marca": "Lattafa",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA31178643",
+      "url_afiliado": "https://meli.la/1B8Vwwf",
+      "imagen": "16-Lattafa-KhamrahQahwa-100ml.webp"
+    },
+    {
+      "id": 17,
+      "nombre": "Bharara King EDP 100ml",
+      "marca": "Bharara",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLA19053146",
+      "url_afiliado": "https://meli.la/2DTqjeW",
+      "imagen": "17-Bharara-King-100ml.webp"
+    },
+    {
+      "id": 18,
+      "nombre": "Maison Alhambra Sceptre Malachite 100ml",
+      "marca": "Maison Alhambra",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA27855490",
+      "url_afiliado": "https://meli.la/2x5L5Ei",
+      "imagen": "18-MaisonAlhambra-SceptreMalachite-100ml.webp"
+    },
+    {
+      "id": 19,
+      "nombre": "Lattafa Her Confession EDP 100ml",
+      "marca": "Lattafa",
+      "genero": "Mujer",
+      "tipo": "Estandar",
+      "ml_id": "MLA41304983",
+      "url_afiliado": "https://meli.la/1EBDqh9",
+      "imagen": "19-Lattafa-HerConfession-100ml.webp"
+    },
+    {
+      "id": 20,
+      "nombre": "Sabah Al Ward Mujer 100ml Floral",
+      "marca": "Sabah Al Ward",
+      "genero": "Mujer",
+      "tipo": "Estandar",
+      "ml_id": "MLA49628348",
+      "url_afiliado": "https://meli.la/2AcVasU",
+      "imagen": "20-SabahAlWard-Mujer-100ml.webp"
+    },
+    {
+      "id": 21,
+      "nombre": "Asad Negro 100ml Estilo Árabe",
+      "marca": "Genérica",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLAU3562485598",
+      "url_afiliado": "https://meli.la/2t9EpWq",
+      "imagen": "21-AsadNegro-100ml-Generico.webp"
+    },
+    {
+      "id": 22,
+      "nombre": "Lattafa Khamrah EDP 100ml",
+      "marca": "Lattafa",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA53013853",
+      "url_afiliado": "https://meli.la/139RJXC",
+      "imagen": "22-Lattafa-Khamrah-100ml.webp"
+    },
+    {
+      "id": 23,
+      "nombre": "Afnan 9PM 100ml Caballero",
+      "marca": "Afnan",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLA19846768",
+      "url_afiliado": "https://meli.la/2WWHx34",
+      "imagen": "23-Afnan-9PM-100ml-Caballero.webp"
+    },
+    {
+      "id": 24,
+      "nombre": "Armaf Odyssey Mandarin Sky 100ml",
+      "marca": "Armaf",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLAU3452900219",
+      "url_afiliado": "https://meli.la/1woeKmQ",
+      "imagen": "24-Armaf-OdysseyMandarinSky-100ml.webp"
+    },
+    {
+      "id": 25,
+      "nombre": "Afnan 9PM 100ml",
+      "marca": "Afnan",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLA47054851",
+      "url_afiliado": "https://meli.la/2Njx2cC",
+      "imagen": "25-Afnan-9PM-100ml.webp"
+    },
+    {
+      "id": 26,
+      "nombre": "Jamal Oud Feromonas Butterfly Effect",
+      "marca": "Jamal",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA40157772",
+      "url_afiliado": "https://meli.la/1UXLCNo",
+      "imagen": "26-JamalOud-ButterflyEffect-Feromonas.webp"
+    },
+    {
+      "id": 27,
+      "nombre": "Lattafa Bade'e Al Oud Noble Blush Mujer",
+      "marca": "Lattafa",
+      "genero": "Mujer",
+      "tipo": "Estandar",
+      "ml_id": "MLA43643712",
+      "url_afiliado": "https://meli.la/1GvwbnM",
+      "imagen": "27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp"
+    },
+    {
+      "id": 28,
+      "nombre": "Yara Tous Lattafa Mujer 100ml",
+      "marca": "Lattafa",
+      "genero": "Mujer",
+      "tipo": "Estandar",
+      "ml_id": "MLA40521028",
+      "url_afiliado": "https://meli.la/1kwTmSn",
+      "imagen": "28-Lattafa-YaraTous-Mujer-100ml.webp"
+    },
+    {
+      "id": 29,
+      "nombre": "Afnan 9PM Elixir 100ml",
+      "marca": "Afnan",
+      "genero": "Hombre",
+      "tipo": "Elixir",
+      "ml_id": "MLA53394464",
+      "url_afiliado": "https://meli.la/1nRAN9K",
+      "imagen": "29-Afnan-9PMElixir-100ml.webp"
+    },
+    {
+      "id": 30,
+      "nombre": "Lattafa Fakhar Woman EDP 100ml",
+      "marca": "Lattafa",
+      "genero": "Mujer",
+      "tipo": "Estandar",
+      "ml_id": "MLA28060225",
+      "url_afiliado": "https://meli.la/2U3GQy8",
+      "imagen": "30-Lattafa-FakharWoman-100ml.webp"
+    },
+    {
+      "id": 31,
+      "nombre": "Lattafa Maahir Legacy 100ml Premium",
+      "marca": "Lattafa",
+      "genero": "Unisex",
+      "tipo": "Elixir",
+      "ml_id": "MLA37755803",
+      "url_afiliado": "https://meli.la/25mgKqX",
+      "imagen": "31-Lattafa-MaahirLegacy-100ml.webp"
+    },
+    {
+      "id": 32,
+      "nombre": "Lattafa The Kingdom Man 100ml",
+      "marca": "Lattafa",
+      "genero": "Hombre",
+      "tipo": "Estandar",
+      "ml_id": "MLA41178086",
+      "url_afiliado": "https://meli.la/2aRjHd9",
+      "imagen": "32-Lattafa-TheKingdomMan-100ml.webp"
+    },
+    {
+      "id": 33,
+      "nombre": "Armaf Club de Nuit Intense Man 200ml",
+      "marca": "Armaf",
+      "genero": "Hombre",
+      "tipo": "Elixir",
+      "ml_id": "MLA16122300",
+      "url_afiliado": "https://meli.la/1BzsFJE",
+      "imagen": "33-Armaf-ClubDeNuitIntenseMan-200ml.webp"
+    },
+    {
+      "id": 34,
+      "nombre": "Fakhar Lattafa Pride Gold Extract Unisex",
+      "marca": "Lattafa",
+      "genero": "Unisex",
+      "tipo": "Elixir",
+      "ml_id": "MLA32488004",
+      "url_afiliado": "https://meli.la/2RmHufc",
+      "imagen": "34-Lattafa-FakharPrideGoldExtract-Unisex.webp"
+    },
+    {
+      "id": 35,
+      "nombre": "Lattafa Emeer Caja con Luces 100ml",
+      "marca": "Lattafa",
+      "genero": "Unisex",
+      "tipo": "Estandar",
+      "ml_id": "MLA28754461",
+      "url_afiliado": "https://meli.la/21q6DEg",
+      "imagen": "35-Lattafa-Emeer-CajaConLuces-100ml.webp"
+    }
+  ],
+  "articulos": [
+    {
+      "id": 1,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Mujer",
+      "h1": "Yara Lattafa: Guía Completa del Perfume Árabe Viral + Todas sus Variantes",
+      "meta_titulo": "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
+      "meta_descripcion": "Yara Lattafa, el perfume árabe más viral de TikTok. Comparamos Elixir vs Tous: notas, duración, precio real en Argentina y cuál conviene.",
+      "slug": "yara-lattafa-guia-completa",
+      "keyword_principal": "perfumes arabes yara",
+      "volumen_mensual": 7200,
+      "dificultad_seo": 9,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        13,
+        28,
+        19,
+        30,
+        15
+      ]
+    },
+    {
+      "id": 2,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Hombre",
+      "h1": "Los 15 Mejores Perfumes Árabes para Hombre en Argentina (2026)",
+      "meta_titulo": "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
+      "meta_descripcion": "Ranking 2026 de los mejores perfumes árabes masculinos en Argentina. Review con notas, duración y precios desde Lattafa hasta Armaf.",
+      "slug": "mejores-perfumes-arabes-hombre",
+      "keyword_principal": "perfumes arabes para hombres",
+      "volumen_mensual": 3200,
+      "dificultad_seo": 8,
+      "palabras_target": 2750,
+      "productos_linkeados": [
+        9,
+        23,
+        10,
+        33,
+        32,
+        2,
+        7,
+        17,
+        24,
+        3,
+        21,
+        29,
+        8,
+        25,
+        11
+      ]
+    },
+    {
+      "id": 3,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Precio",
+      "h1": "Perfumes Árabes Precio 2026: Comparativa por Marca y Tipo en Argentina",
+      "meta_titulo": "Perfumes árabes precio 2026: comparativa por marca Argentina",
+      "meta_descripcion": "Precios reales de perfumes árabes en Argentina 2026. Lattafa, Afnan, Rasasi, Armaf: cuánto cuesta cada uno y cuál te conviene.",
+      "slug": "perfumes-arabes-precio-argentina",
+      "keyword_principal": "perfumes arabes precio",
+      "volumen_mensual": 3900,
+      "dificultad_seo": 9,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        13,
+        22,
+        23,
+        33,
+        3,
+        17,
+        18,
+        8,
+        15,
+        28
+      ]
+    },
+    {
+      "id": 4,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Aroma",
+      "h1": "Perfumes Árabes Amaderados: Los 10 Mejores con Notas de Oud y Madera",
+      "meta_titulo": "Perfumes árabes amaderados: top 10 con oud y madera",
+      "meta_descripcion": "Los mejores perfumes árabes amaderados 2026 en Argentina. Fragancias con oud, sándalo y maderas nobles. Análisis con notas.",
+      "slug": "perfumes-arabes-amaderados",
+      "keyword_principal": "perfumes arabes amaderados",
+      "volumen_mensual": 1700,
+      "dificultad_seo": 6,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        3,
+        8,
+        14,
+        18,
+        31,
+        27,
+        11,
+        32
+      ]
+    },
+    {
+      "id": 5,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Mujer",
+      "h1": "Perfumes Árabes para Mujer: Las 12 Fragancias Femeninas Más Deseadas",
+      "meta_titulo": "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
+      "meta_descripcion": "Las mejores fragancias árabes femeninas 2026 en Argentina. Dulces, florales, amaderadas. De Yara a Khamrah, guía con análisis honesto.",
+      "slug": "perfumes-arabes-mujer",
+      "keyword_principal": "perfumes árabes mujer",
+      "volumen_mensual": 22200,
+      "dificultad_seo": 6,
+      "palabras_target": 3250,
+      "productos_linkeados": [
+        13,
+        28,
+        19,
+        30,
+        20,
+        27,
+        15,
+        16,
+        22
+      ]
+    },
+    {
+      "id": 6,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Formato",
+      "h1": "Perfumes Árabes 35ml: El Formato Ideal para Descubrir Fragancias",
+      "slug": "perfumes-arabes-35ml",
+      "keyword_principal": "perfumes arabes 35ml",
+      "volumen_mensual": 1700,
+      "dificultad_seo": 6,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 7,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Hombre",
+      "h1": "Perfumes Árabes Masculinos 2026: Ranking Completo con Análisis Olfativo",
+      "slug": "perfumes-arabes-masculinos",
+      "keyword_principal": "perfumes arabes masculinos",
+      "volumen_mensual": 2600,
+      "dificultad_seo": 7,
+      "palabras_target": 2750,
+      "productos_linkeados": [
+        9,
+        23,
+        33,
+        25,
+        29,
+        10,
+        2,
+        7,
+        17,
+        24,
+        3,
+        21,
+        32,
+        11,
+        8
+      ]
+    },
+    {
+      "id": 8,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Marca",
+      "h1": "Perfumes Árabes Bagues: Qué Son, de Dónde Vienen y Cuáles Comprar",
+      "slug": "perfumes-arabes-bagues",
+      "keyword_principal": "perfumes arabes bagues",
+      "volumen_mensual": 2100,
+      "dificultad_seo": 8,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        2,
+        7,
+        18
+      ]
+    },
+    {
+      "id": 9,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Aroma",
+      "h1": "Perfumes Árabes Azules: Las 8 Fragancias Masculinas Virales de TikTok",
+      "slug": "perfumes-arabes-azules",
+      "keyword_principal": "perfumes arabes azul",
+      "volumen_mensual": 2100,
+      "dificultad_seo": 7,
+      "palabras_target": 2050,
+      "productos_linkeados": [
+        10,
+        25,
+        29,
+        23,
+        33
+      ]
+    },
+    {
+      "id": 10,
+      "prioridad": "Quick Win",
+      "tipo": "cluster",
+      "cluster": "Cluster Geo",
+      "h1": "Dónde Comprar Perfumes Árabes en Buenos Aires: Guía Completa",
+      "slug": "donde-comprar-perfumes-arabes-buenos-aires",
+      "keyword_principal": "perfumes arabes en buenos aires",
+      "volumen_mensual": 1700,
+      "dificultad_seo": 10,
+      "palabras_target": 2050,
+      "productos_linkeados": [
+        13,
+        22,
+        9,
+        28,
+        33
+      ]
+    },
+    {
+      "id": 11,
+      "prioridad": "Pilar",
+      "tipo": "pilar",
+      "cluster": "PILAR PRINCIPAL",
+      "h1": "Perfumes Árabes: Guía Completa + Los 35 Mejores para Comprar en Argentina (2026)",
+      "slug": "perfumes-arabes",
+      "keyword_principal": "perfumes arabes",
+      "volumen_mensual": 74000,
+      "dificultad_seo": 9,
+      "palabras_target": 4500,
+      "productos_linkeados": [
+        13,
+        28,
+        9,
+        22,
+        33,
+        23,
+        3,
+        19,
+        20,
+        15,
+        18,
+        31,
+        2,
+        11,
+        32
+      ]
+    },
+    {
+      "id": 12,
+      "prioridad": "Pilar",
+      "tipo": "cluster",
+      "cluster": "Cluster Marca",
+      "h1": "Lattafa: Guía Completa de la Marca + Análisis de 18 Fragancias Top",
+      "slug": "lattafa-guia-marca",
+      "keyword_principal": "lattafa",
+      "volumen_mensual": 22200,
+      "dificultad_seo": 65,
+      "palabras_target": 4500,
+      "productos_linkeados": [
+        13,
+        28,
+        22,
+        16,
+        3,
+        9,
+        21,
+        30,
+        34,
+        31,
+        32,
+        11,
+        8,
+        27,
+        19,
+        15,
+        12,
+        35
+      ]
+    },
+    {
+      "id": 13,
+      "prioridad": "Pilar",
+      "tipo": "cluster",
+      "cluster": "Cluster Originales",
+      "h1": "Perfumes Árabes Originales: Cómo Identificarlos + 10 Opciones Certificadas",
+      "slug": "perfumes-arabes-originales",
+      "keyword_principal": "perfumes árabes originales precio",
+      "volumen_mensual": 1400,
+      "dificultad_seo": 4,
+      "palabras_target": 2750,
+      "productos_linkeados": [
+        13,
+        22,
+        9,
+        19,
+        33
+      ]
+    },
+    {
+      "id": 14,
+      "prioridad": "Pilar",
+      "tipo": "cluster",
+      "cluster": "Cluster Geo",
+      "h1": "Dónde Comprar Perfumes Árabes en Argentina: Guía Completa 2026",
+      "slug": "donde-comprar-perfumes-arabes-argentina",
+      "keyword_principal": "donde comprar perfumes árabes en argentina",
+      "volumen_mensual": 3900,
+      "dificultad_seo": 6,
+      "palabras_target": 2750,
+      "productos_linkeados": [
+        13,
+        28,
+        9,
+        22,
+        33,
+        23,
+        3
+      ]
+    },
+    {
+      "id": 15,
+      "prioridad": "Pilar",
+      "tipo": "cluster",
+      "cluster": "Cluster Ranking",
+      "h1": "Los Perfumes Árabes Más Vendidos en Argentina: Ranking 2026",
+      "slug": "perfumes-arabes-mas-vendidos-argentina",
+      "keyword_principal": "perfumes arabes mas vendidos en argentina",
+      "volumen_mensual": 1400,
+      "dificultad_seo": 14,
+      "palabras_target": 2750,
+      "productos_linkeados": [
+        13,
+        22,
+        9,
+        3,
+        28,
+        33,
+        23,
+        15,
+        25,
+        32
+      ]
+    },
+    {
+      "id": 16,
+      "prioridad": "Alto Valor",
+      "tipo": "cluster",
+      "cluster": "Cluster Dupes",
+      "h1": "Perfumes Árabes y sus Dupes: 20 Equivalencias de Fragancias Caras",
+      "slug": "perfumes-arabes-dupes",
+      "keyword_principal": "perfumes arabes y sus dupes",
+      "volumen_mensual": 900,
+      "dificultad_seo": 10,
+      "palabras_target": 3250,
+      "productos_linkeados": [
+        33,
+        25,
+        7,
+        2,
+        10,
+        3,
+        14
+      ]
+    },
+    {
+      "id": 17,
+      "prioridad": "Alto Valor",
+      "tipo": "cluster",
+      "cluster": "Cluster Dupes",
+      "h1": "Perfumes Árabes vs Originales: ¿Vale la Pena el Precio Premium?",
+      "slug": "perfumes-arabes-vs-originales",
+      "keyword_principal": "perfumes arabes vs originales",
+      "volumen_mensual": 400,
+      "dificultad_seo": 14,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        33,
+        25,
+        7,
+        2,
+        10
+      ]
+    },
+    {
+      "id": 18,
+      "prioridad": "Alto Valor",
+      "tipo": "cluster",
+      "cluster": "Cluster Dupes",
+      "h1": "Perfumes Bagues Imitaciones: Qué Son y Cuáles Son las Mejores",
+      "slug": "perfumes-bagues-imitaciones",
+      "keyword_principal": "perfumes bagues imitaciones",
+      "volumen_mensual": 900,
+      "dificultad_seo": 18,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        2,
+        7,
+        33
+      ]
+    },
+    {
+      "id": 19,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Lattafa Yara Elixir vs Yara Tous: Comparativa Completa 2026",
+      "slug": "lattafa-yara-elixir-vs-tous",
+      "keyword_principal": "lattafa yara elixir",
+      "volumen_mensual": 600,
+      "dificultad_seo": 10,
+      "palabras_target": 2050,
+      "productos_linkeados": [
+        13,
+        28
+      ]
+    },
+    {
+      "id": 20,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Lattafa Asad: Las 3 Versiones Comparadas (Original, Bourbon y Negro)",
+      "slug": "lattafa-asad-comparativa",
+      "keyword_principal": "perfumes arabes asad",
+      "volumen_mensual": 1400,
+      "dificultad_seo": 11,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        9,
+        3,
+        21
+      ]
+    },
+    {
+      "id": 21,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Lattafa Khamrah vs Khamrah Qahwa: ¿Cuál Comprar?",
+      "slug": "lattafa-khamrah-vs-qahwa",
+      "keyword_principal": "perfumes arabes khamrah",
+      "volumen_mensual": 1400,
+      "dificultad_seo": 11,
+      "palabras_target": 2050,
+      "productos_linkeados": [
+        22,
+        16
+      ]
+    },
+    {
+      "id": 22,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Afnan 9PM: Clásico vs Elixir vs Caballero - Análisis Completo",
+      "slug": "afnan-9pm-comparativa",
+      "keyword_principal": "afnan 9pm",
+      "volumen_mensual": 800,
+      "dificultad_seo": 12,
+      "palabras_target": 2050,
+      "productos_linkeados": [
+        25,
+        29,
+        23
+      ]
+    },
+    {
+      "id": 23,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Rasasi Hawas Ice vs Hawas Black: Comparativa de Dos Iconos Masculinos",
+      "slug": "rasasi-hawas-ice-vs-black",
+      "keyword_principal": "rasasi hawas",
+      "volumen_mensual": 500,
+      "dificultad_seo": 10,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        10,
+        14
+      ]
+    },
+    {
+      "id": 24,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Lattafa Fakhar: Woman vs Pride Gold Extract",
+      "slug": "lattafa-fakhar-comparativa",
+      "keyword_principal": "lattafa fakhar",
+      "volumen_mensual": 400,
+      "dificultad_seo": 10,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        30,
+        34
+      ]
+    },
+    {
+      "id": 25,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Armaf Club de Nuit Intense: ¿El Mejor Dupe de Creed Aventus en Argentina?",
+      "slug": "armaf-club-de-nuit-intense",
+      "keyword_principal": "armaf club de nuit intense man",
+      "volumen_mensual": 500,
+      "dificultad_seo": 15,
+      "palabras_target": 2250,
+      "productos_linkeados": [
+        33
+      ]
+    },
+    {
+      "id": 26,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Maison Alhambra Sceptre Malachite: Review del Clon de Parfums de Marly Greenley",
+      "slug": "maison-alhambra-sceptre-malachite",
+      "keyword_principal": "maison alhambra sceptre",
+      "volumen_mensual": 100,
+      "dificultad_seo": 8,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        18
+      ]
+    },
+    {
+      "id": 27,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Bharara King EDP: Review del Perfume Árabe Menos Conocido (Pero Brutal)",
+      "slug": "bharara-king-review",
+      "keyword_principal": "bharara perfume",
+      "volumen_mensual": 300,
+      "dificultad_seo": 12,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        17
+      ]
+    },
+    {
+      "id": 28,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Al Wataniah Bareeq Al Dhahab: Review del Perfume Árabe Dulce y Oriental",
+      "slug": "al-wataniah-bareeq-al-dhahab",
+      "keyword_principal": "perfume bareeq al dhahab",
+      "volumen_mensual": 200,
+      "dificultad_seo": 36,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        1
+      ]
+    },
+    {
+      "id": 29,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Lattafa Her Confession: Review de la Fragancia Femenina Seductora",
+      "slug": "lattafa-her-confession",
+      "keyword_principal": "lattafa her confession",
+      "volumen_mensual": 300,
+      "dificultad_seo": 11,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        19
+      ]
+    },
+    {
+      "id": 30,
+      "prioridad": "Review",
+      "tipo": "review",
+      "cluster": "Reviews",
+      "h1": "Sabah Al Ward: El Perfume Árabe Floral Más Accesible para Mujer",
+      "slug": "sabah-al-ward-review",
+      "keyword_principal": "sabah al ward",
+      "volumen_mensual": 200,
+      "dificultad_seo": 9,
+      "palabras_target": 1750,
+      "productos_linkeados": [
+        20
+      ]
+    },
+    {
+      "id": 31,
+      "prioridad": "B2B",
+      "tipo": "cluster",
+      "cluster": "Cluster Mayorista",
+      "h1": "Perfumes Árabes por Mayor en Argentina: Guía para Revendedores",
+      "slug": "perfumes-arabes-por-mayor-argentina",
+      "keyword_principal": "perfumes arabes por mayor argentina",
+      "volumen_mensual": 1100,
+      "dificultad_seo": 5,
+      "palabras_target": 2750,
+      "productos_linkeados": []
+    },
+    {
+      "id": 32,
+      "prioridad": "B2B",
+      "tipo": "cluster",
+      "cluster": "Cluster Mayorista",
+      "h1": "Dónde Comprar Perfumes Árabes al por Mayor: Listado de Importadores 2026",
+      "slug": "comprar-perfumes-arabes-por-mayor",
+      "keyword_principal": "donde comprar perfumes árabes al por mayor",
+      "volumen_mensual": 5900,
+      "dificultad_seo": 11,
+      "palabras_target": 2750,
+      "productos_linkeados": []
+    }
+  ],
+  "calendario_publicacion": [
+    {
+      "semana": 1,
+      "fechas": "Abr 20-26",
+      "lunes": 1,
+      "miercoles": 2,
+      "viernes": 5,
+      "notas": "Arranque con los 3 artículos de mayor volumen + baja dificultad. Objetivo: publicar e indexar rápido."
+    },
+    {
+      "semana": 2,
+      "fechas": "Abr 27-May 3",
+      "lunes": 3,
+      "miercoles": 4,
+      "viernes": 7,
+      "notas": "Completar lote de quick wins. Al final: 6 artículos fuertes publicados."
+    },
+    {
+      "semana": 3,
+      "fechas": "May 4-10",
+      "lunes": 6,
+      "miercoles": 8,
+      "viernes": 9,
+      "notas": "Cerrar Lote 1. Empezar redacción del pilar (más tiempo de producción)."
+    },
+    {
+      "semana": 4,
+      "fechas": "May 11-17",
+      "lunes": 10,
+      "miercoles": 11,
+      "viernes": 13,
+      "notas": "SEMANA CLAVE. El artículo pilar (11) es el centro gravitacional. Debe linkear a TODO lo publicado."
+    },
+    {
+      "semana": 5,
+      "fechas": "May 18-24",
+      "lunes": 12,
+      "miercoles": 14,
+      "viernes": 15,
+      "notas": "Pilares secundarios. 12 artículos apuntando al pilar."
+    },
+    {
+      "semana": 6,
+      "fechas": "May 25-31",
+      "lunes": 16,
+      "miercoles": 17,
+      "viernes": 19,
+      "notas": "Alto valor comercial. Empiezan reviews específicos."
+    },
+    {
+      "semana": 7,
+      "fechas": "Jun 1-7",
+      "lunes": 20,
+      "miercoles": 21,
+      "viernes": 22,
+      "notas": "Reviews comparativos. Los que más convierten en afiliados."
+    },
+    {
+      "semana": 8,
+      "fechas": "Jun 8-14",
+      "lunes": 23,
+      "miercoles": 31,
+      "viernes": 32,
+      "notas": "Cerrar con B2B (alto ticket)."
+    }
+  ],
+  "reglas_implementacion": {
+    "link_building_interno": {
+      "productos_por_articulo_min": 3,
+      "productos_por_articulo_max": 7,
+      "max_veces_keyword_como_anchor": 2,
+      "anchor_text_obligatorio_variado": true,
+      "todos_clusters_linkean_al_pilar": true,
+      "fichas_producto_linkean_a_articulos": true
+    },
+    "atributos_html": {
+      "links_mercadolibre": {
+        "target": "_blank",
+        "rel": "sponsored nofollow noopener"
+      },
+      "links_internos": {
+        "target": "_self",
+        "rel": ""
+      }
+    },
+    "imagenes": {
+      "formato": "webp",
+      "lazy_loading": "lazy excepto hero (eager)",
+      "alt_text": "Nombre completo del producto + contexto",
+      "sizes_por_ubicacion": {
+        "hero_articulo": "1200x630",
+        "review_individual": "250px float right",
+        "ranking_listado": "400px centrada",
+        "comparativa": "200px grid",
+        "relacionados": "150px miniatura"
+      }
+    },
+    "seo_on_page": {
+      "meta_titulo_max": 60,
+      "meta_descripcion_max": 155,
+      "h1_unico_por_pagina": true,
+      "jerarquia_h2_h3_estricta": true,
+      "schema_requerido": [
+        "Article",
+        "FAQPage (opcional)",
+        "BreadcrumbList"
+      ],
+      "schema_fichas_producto": [
+        "Product",
+        "Offer"
+      ]
+    }
+  },
+  "kpis_objetivo": {
+    "search_console": {
+      "crecimiento_impresiones_mensual": "30%+",
+      "ctr_promedio": "5%+",
+      "keywords_top_10_a_3_meses": 10,
+      "keywords_top_10_a_6_meses": 30,
+      "errores_cobertura": 0
+    },
+    "afiliados": {
+      "ctr_articulo_a_afiliado": "3-8%",
+      "conversion_click_afiliado": "3-8%"
+    },
+    "tecnico": {
+      "links_rotos": 0,
+      "productos_huerfanos": 0,
+      "lighthouse_mobile_performance": "90+",
+      "lcp_objetivo_segundos": 2.5,
+      "fid_objetivo_ms": 100,
+      "cls_objetivo": 0.1
+    }
+  }
+}

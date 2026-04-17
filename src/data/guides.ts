@@ -5963,6 +5963,1353 @@ export const guides: Guide[] = [
     ],
     internalLinksTitle: "Guías relacionadas",
   },
+  // GRUPO: PERFUMES ÁRABES (Lote 1 - 5 artículos)
+  {
+    slug: "yara-lattafa-guia-completa",
+    category: "perfumes-arabes",
+    title: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
+    seoTitle: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
+    metaDescription: "Yara Lattafa, el perfume árabe más viral de TikTok. Comparamos Elixir vs Tous: notas, duración, precio real en Argentina y cuál conviene.",
+    ogTitle: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
+    ogDescription: "Yara Lattafa, el perfume árabe más viral de TikTok. Comparamos Elixir vs Tous: notas, duración, precio real en Argentina y cuál conviene.",
+    h1: "Yara Lattafa: guía honesta del perfume árabe viral (y cuál comprar)",
+    publishedDate: "2026-04-17",
+    updatedDate: "2026-04-17",
+    hasDisclosure: true,
+    intro: [
+      "Si abrís TikTok con cierta frecuencia, es casi seguro que te cruzaste con Yara. Lattafa lo lanzó en 2020 como una fragancia femenina dulce y accesible, y en los últimos dos años se convirtió en el perfume árabe más buscado de Argentina. No es exageración: las búsquedas mensuales en Google vienen creciendo mes a mes.",
+      "Pero acá empieza el problema para quien quiere comprarlo. No hay un solo Yara. Hay cinco variantes, colores distintos, precios distintos, y la diferencia entre Yara Elixir y Yara Tous no está clara en ninguna ficha de producto. Este artículo te cuenta qué son, cuál conviene según tu perfil, y cuánto deberías pagar hoy en Argentina."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Lattafa Yara Elixir EDP 100ml, perfume árabe femenino viral 2026",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "Qué es Lattafa Yara"
+      },
+      {
+        type: "p",
+        content: "Lattafa es una casa de perfumes de Emiratos Árabes Unidos. La línea Yara arrancó con una fórmula de orquídea, vainilla y almizcle, con un dulzor denso que algunos comparan con Kayali Vanilla 28 pero con un giro más oriental."
+      },
+      {
+        type: "p",
+        content: "¿Por qué se volvió viral? Tres cosas concretas. Primero, el precio: entre $25.000 y $40.000 pesos según la versión, contra perfumes nicho que salen entre $250.000 y $500.000. Segundo, la duración real: 8 a 10 horas en piel, y esto en el rango de precio bajo es raro. Tercero, el frasco: diseño translúcido con tapón dorado, que en TikTok se ve mejor que muchos perfumes de lujo."
+      },
+      {
+        type: "h2",
+        title: "Las cinco Yara que vas a encontrar"
+      },
+      {
+        type: "h3",
+        title: "Yara original (rosa)"
+      },
+      {
+        type: "p",
+        content: "La base. Dulce, cremoso, dominado por orquídea y vainilla. Es la versión más \"segura\" si nunca probaste un perfume árabe. Si lo oliste y te resultó empalagoso, probá otra de la familia antes de descartarlo."
+      },
+      {
+        type: "h3",
+        title: "Yara Elixir (fucsia)"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Lattafa Yara Elixir 100ml, versión intensa con base oriental",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "La versión más intensa. Misma familia olfativa que el original pero con mayor concentración y una base oriental con ámbar y un toque sutil de oud. Proyecta más lejos y dura entre 10 y 12 horas en piel. Es el Yara que recomiendo para quien ya conoce el perfil y quiere algo con más presencia."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Yara Elixir EDP 100ml](https://meli.la/2NrY6fF)"
+      },
+      {
+        type: "h3",
+        title: "Yara Tous (celeste)"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/28-Lattafa-YaraTous-Mujer-100ml.webp",
+        alt: "Yara Tous Lattafa 100ml, versión fresca y juvenil",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "Versión fresca. Cítricos arriba, base ligera, sin el dulzor denso de los otros. Si el original te pareció demasiado pesado, este es el que te puede cerrar. También es el más usado para oficina y climas cálidos."
+      },
+      {
+        type: "p",
+        content: "[Ver Yara Tous Lattafa Mujer 100ml](https://meli.la/1kwTmSn)"
+      },
+      {
+        type: "h3",
+        title: "Yara Moi (verde)"
+      },
+      {
+        type: "p",
+        content: "Más verde y floral, con pera y almizcle blanco. Menos disponible en Argentina, hay que buscarla."
+      },
+      {
+        type: "h3",
+        title: "Yara Candy (naranja)"
+      },
+      {
+        type: "p",
+        content: "Caramelo, frutas rojas, fondo cremoso. La más polarizante de todas. O te encanta o te marea."
+      },
+      {
+        type: "h2",
+        title: "Elixir vs Tous (la pregunta que llega todos los días)"
+      },
+      {
+        type: "p",
+        content: "Esta es la pelea real, porque son las dos versiones más fáciles de conseguir y las que más se confunden. Mi posición después de probar las dos:"
+      },
+      {
+        type: "p",
+        content: "Elixir gana si buscás un perfume con presencia, para noche o para climas fríos. Proyecta fuerte, dura mucho, es dulce sin ser infantil. El frasco fucsia también pega más cuando lo tenés en la cómoda."
+      },
+      {
+        type: "p",
+        content: "Tous gana si preferís algo para todos los días, oficina o verano. No te va a tapar la cara a las dos horas en un ambiente cerrado, que con Elixir puede pasar si te aplicás mucho."
+      },
+      {
+        type: "p",
+        content: "Si tenés que elegir uno solo y no sabés cuál, ponete a pensar cuándo lo vas a usar más: de noche o de día. Esa respuesta resuelve el 90% de la duda."
+      },
+      {
+        type: "h2",
+        title: "Precios reales en Argentina (abril 2026)"
+      },
+      {
+        type: "p",
+        content: "Los precios cambian con el dólar, pero hoy los rangos son:"
+      },
+      {
+        type: "list",
+        items: [
+          "Yara original 100ml: $25.000 a $32.000",
+          "Yara Elixir 100ml: $32.000 a $42.000",
+          "Yara Tous 100ml: $28.000 a $36.000"
+        ]
+      },
+      {
+        type: "p",
+        content: "Kayali Vanilla 28, que muchos consideran el referente del perfil olfativo, importado vale entre $250.000 y $350.000. No es el mismo perfume, pero el rango de familia olfativa es comparable."
+      },
+      {
+        type: "h2",
+        title: "¿Yara es un dupe?"
+      },
+      {
+        type: "p",
+        content: "Esto lo pregunta todo el mundo. Respuesta corta: no exactamente. Es cierto que Lattafa tiene perfumes que son clones claros (Asad copia a Creed Aventus, por ejemplo), pero Yara no entra en esa categoría. La gente lo compara con Kayali Vanilla 28 o Parfums de Marly Delina, pero cuando los olés en paralelo notás que Yara tiene su propio carácter. No es una imitación, es una fragancia con personalidad propia que salió barata."
+      },
+      {
+        type: "h2",
+        title: "Otros Lattafa femeninos que vale la pena probar"
+      },
+      {
+        type: "p",
+        content: "Si te gustó Yara y querés seguir explorando la línea, acá van las alternativas con foto:"
+      },
+      {
+        type: "image-grid",
+        gridImages: [
+          {
+            src: "/images/perfumes-imagenes/19-Lattafa-HerConfession-100ml.webp",
+            alt: "Her Confession",
+            caption: "Her Confession"
+          },
+          {
+            src: "/images/perfumes-imagenes/27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp",
+            alt: "Bade'e Al Oud Noble Blush",
+            caption: "Bade'e Al Oud Noble Blush"
+          },
+          {
+            src: "/images/perfumes-imagenes/30-Lattafa-FakharWoman-100ml.webp",
+            alt: "Fakhar Woman",
+            caption: "Fakhar Woman"
+          },
+          {
+            src: "/images/perfumes-imagenes/15-Lattafa-Mayar-100ml.webp",
+            alt: "Mayar",
+            caption: "Mayar"
+          }
+        ]
+      },
+      {
+        type: "list",
+        items: [
+          "[Lattafa Her Confession](https://meli.la/1EBDqh9): más sensual, más nocturno, con praliné y vainilla.",
+          "[Lattafa Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM): rosa con oud, para cuando querés algo más sofisticado.",
+          "[Lattafa Fakhar Woman](https://meli.la/2U3GQy8): dulce amaderado con duración bestial.",
+          "[Lattafa Mayar](https://meli.la/1qrqLzC): floral suave, más primaveral."
+        ]
+      },
+      {
+        type: "p",
+        content: "El listado completo de fragancias femeninas árabes está en la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer), con las 12 más vendidas analizadas una por una."
+      },
+      {
+        type: "h2",
+        title: "¿Me conviene comprar Yara?"
+      },
+      {
+        type: "p",
+        content: "Para mí, sí. Con la salvedad obvia: no todo el mundo va a congeniar con el perfil dulce-oriental. Si te gustan los perfumes frescos tipo Jo Malone, Yara no es para vos. Pero si alguna vez oliste un Kayali, un Delina o cualquier gourmand moderno y te gustó, Yara te va a cerrar."
+      },
+      {
+        type: "p",
+        content: "Entre las versiones, si es tu primer Yara y podés estirarte al presupuesto, andá por Elixir. Si querés algo más liviano y versátil, Tous. El original es válido también, pero está a medio camino entre los dos y por eso es el menos interesante."
+      },
+      {
+        type: "p",
+        content: "Si querés el contexto más amplio, la [guía completa de perfumes árabes](/guias/perfumes-arabes) te da el panorama del nicho y las 35 mejores opciones disponibles en Argentina."
+      }
+    ],
+    faq: []
+  },
+  {
+    slug: "mejores-perfumes-arabes-hombre",
+    category: "perfumes-arabes",
+    title: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
+    seoTitle: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
+    metaDescription: "Ranking 2026 de los mejores perfumes árabes masculinos en Argentina. Review con notas, duración y precios desde Lattafa hasta Armaf.",
+    ogTitle: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
+    ogDescription: "Ranking 2026 de los mejores perfumes árabes masculinos en Argentina. Review con notas, duración y precios desde Lattafa hasta Armaf.",
+    h1: "Los 15 mejores perfumes árabes para hombre en Argentina (2026)",
+    publishedDate: "2026-04-17",
+    updatedDate: "2026-04-17",
+    hasDisclosure: true,
+    intro: [
+      "Hace dos años, comprar un Creed Aventus en Argentina costaba 8 sueldos mínimos. Hoy sigue costando eso. La diferencia es que ahora hay fragancias árabes que logran un perfil olfativo muy parecido a un décimo del precio, y el mercado masculino argentino lo notó. Lattafa, Afnan, Rasasi y Armaf se volvieron nombres conocidos en un nicho que hace poco era desconocido fuera de Medio Oriente.",
+      "Este ranking no está armado con los \"más caros\" ni con los \"más raros\". Son los que funcionan: ventas reales en Argentina, valoración consistente de usuarios, y experiencia directa con cada uno."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
+        alt: "Top perfumes árabes de hombre 2026 Argentina, Lattafa Asad Intense y alternativas",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "Antes de comprar, tres cosas prácticas"
+      },
+      {
+        type: "p",
+        content: "Pensá en cuándo lo vas a usar. Un perfume de oficina no es lo mismo que uno de salida. Los árabes tienden a proyectar mucho, entonces elegí la intensidad según el contexto real. Un 9PM en una reunión a las 10 de la mañana es demasiado."
+      },
+      {
+        type: "p",
+        content: "Probá antes de comprar los 100ml. Los kits de 35ml te permiten experimentar cuatro fragancias por menos de lo que sale un solo frasco grande. [Este kit masculino](https://meli.la/2AWZpVQ) es un buen punto de arranque si estás entrando al nicho."
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/06-Kit4Perfumes-Tubito-35ml-Hombre.webp",
+        alt: "Kit de 4 perfumes árabes tubito 35ml para hombre, formato descubrimiento",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "Y sobre la duración: un perfume árabe decente dura 8 a 12 horas. Si te dura menos de 6, probablemente sea una falsificación o una versión diluida. Pasa, hay que tener cuidado."
+      },
+      {
+        type: "h2",
+        title: "El ranking"
+      },
+      {
+        type: "h3",
+        title: "1. Lattafa Asad Intense"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
+        alt: "Lattafa Asad Intense Hombre, puesto 1 ranking perfumes árabes masculinos 2026",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "El rey. Asad es el dupe más famoso de Creed Aventus, pero con el tiempo se ganó identidad propia. Piña de apertura, corazón con almizcle y ámbar gris, fondo de maderas. Proyección grande, duración de 10 horas para arriba. Si tenés que comprar uno solo de toda esta lista, este es el que te recomiendo."
+      },
+      {
+        type: "p",
+        content: "[Ver Asad Lattafa Intense Hombre](https://meli.la/26owfqo)"
+      },
+      {
+        type: "p",
+        content: "Asad tiene dos variantes más: [Asad Bourbon](https://meli.la/1qWMdCK), que mete notas de tabaco y bourbon, y [Asad Negro](https://meli.la/2t9EpWq), la versión más oscura. Cuál conviene de los tres lo analicé en detalle en [la comparativa de los Asad](/guias/lattafa-asad-comparativa)."
+      },
+      {
+        type: "h3",
+        title: "2. Afnan 9PM"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/25-Afnan-9PM-100ml.webp",
+        alt: "Afnan 9PM 100ml, perfume árabe masculino viral TikTok 2026",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "El dulce masculino que arrasó en TikTok. Canela, manzana, ámbar, vainilla. Es un postre en perfume. Ideal para otoño e invierno, proyecta fuerte, dura 10 horas. No es para oficina: es para noche o para días que no tenés que impresionar a nadie en un sentido profesional."
+      },
+      {
+        type: "p",
+        content: "[Ver Afnan 9PM 100ml](https://meli.la/2Njx2cC)"
+      },
+      {
+        type: "p",
+        content: "También tenés la [versión Caballero](https://meli.la/2WWHx34) y la [versión Elixir](https://meli.la/1nRAN9K) más concentrada."
+      },
+      {
+        type: "h3",
+        title: "3. Rasasi Hawas Ice"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/10-Rasasi-HawasIce-100ml.webp",
+        alt: "Rasasi Hawas Ice EDP 100ml, perfume árabe fresco masculino",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "El lado fresco del catálogo. Acuático, frutal, base de maderas blancas. Es el perfume \"para cualquier cosa\" de esta lista. Oficina, salida, primavera, verano. No se equivoca nunca."
+      },
+      {
+        type: "p",
+        content: "[Ver Rasasi Hawas Ice EDP 100ml](https://meli.la/24kQeRc)"
+      },
+      {
+        type: "p",
+        content: "Si preferís algo más oscuro y amaderado, [Hawas Black](https://meli.la/2T9ofP2) es la alternativa dentro de la misma marca."
+      },
+      {
+        type: "h3",
+        title: "4. Armaf Club de Nuit Intense Man"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/33-Armaf-ClubDeNuitIntenseMan-200ml.webp",
+        alt: "Armaf Club de Nuit Intense Man 200ml, el mejor dupe de Creed Aventus en Argentina",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "El mejor dupe de Creed Aventus que conseguís en Argentina, y viene en frasco de 200ml (el doble del estándar). Proyección casi invasiva, duración de 12 horas. Para bodas, cumpleaños, eventos donde querés que tu presencia quede. Para uso diario es excesivo."
+      },
+      {
+        type: "p",
+        content: "[Ver Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE)"
+      },
+      {
+        type: "h3",
+        title: "5. Lattafa The Kingdom Man"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/32-Lattafa-TheKingdomMan-100ml.webp",
+        alt: "Lattafa The Kingdom Man 100ml, perfume árabe amaderado clásico",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Amaderado con oud suave y ámbar. Clásico, elegante, nada viral. Es el perfume que te ponés para una reunión importante, no para una primera cita. Si los frescos o los dulces no son lo tuyo, este es tu territorio."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa The Kingdom Man 100ml](https://meli.la/2aRjHd9)"
+      },
+      {
+        type: "h3",
+        title: "6. Mandarine Sky árabe"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/02-MandarineSky-Arabe-100ml.webp",
+        alt: "Mandarine Sky Árabe Masculino 100ml, clon accesible del Xerjoff",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Clon del Xerjoff Mandarine Sky, que sale arriba de $500 USD el 100ml. Cítrico intenso, limpio, con una base cremosa. Dupe sorprendentemente fiel al original."
+      },
+      {
+        type: "p",
+        content: "[Ver Mandarine Sky Árabe Masculino 100ml](https://meli.la/1kRWagc)"
+      },
+      {
+        type: "h3",
+        title: "7. Erba Pura árabe"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/07-ErbaPura-Arabe-100ml.webp",
+        alt: "Erba Pura Árabe Masculino 100ml, versión accesible del Xerjoff Erba Pura",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Versión accesible del Xerjoff Erba Pura. Frutal gourmand con bergamota y cassis, fondo de almizcle. Moderno, fácil de usar, le queda a casi cualquiera."
+      },
+      {
+        type: "p",
+        content: "[Ver Erba Pura Árabe Masculino 100ml](https://meli.la/2WydUup)"
+      },
+      {
+        type: "h3",
+        title: "8. Bharara King"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/17-Bharara-King-100ml.webp",
+        alt: "Bharara King EDP 100ml, perfume árabe oriental especiado menos conocido",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "La joya menos conocida de esta lista, y por eso la recomiendo. Oriental, especiado, con base de oud y ámbar. Si te cansaste de ver el mismo Lattafa en todos lados, Bharara King te diferencia sin perder calidad."
+      },
+      {
+        type: "p",
+        content: "[Ver Bharara King EDP 100ml](https://meli.la/2DTqjeW)"
+      },
+      {
+        type: "h3",
+        title: "9. Armaf Odyssey Mandarin Sky"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/24-Armaf-OdysseyMandarinSky-100ml.webp",
+        alt: "Armaf Odyssey Mandarin Sky 100ml, variante fresca del Mandarine Sky",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Variante del Mandarine Sky con matices más frescos. Para uso diario, más versátil que el anterior."
+      },
+      {
+        type: "p",
+        content: "[Ver Armaf Odyssey Mandarin Sky 100ml](https://meli.la/1woeKmQ)"
+      },
+      {
+        type: "h3",
+        title: "10. Lattafa Qaed Al Fursan"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/08-Lattafa-QaedAlFursan-90ml.webp",
+        alt: "Lattafa Qaed Al Fursan EDP 90ml, amaderado especiado con cuero y tabaco",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Amaderado y especiado, con cuero y tabaco. Nocturno, serio, adulto. Es el Old Fashioned de esta lista: no es para todos pero quien lo entiende lo ama."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Qaed Al Fursan EDP 90ml](https://meli.la/2TnKuGC)"
+      },
+      {
+        type: "h3",
+        title: "11. Lattafa Habik For Men"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/11-Lattafa-Habik-100ml.webp",
+        alt: "Lattafa Habik For Men 100ml, amaderado dulce discreto",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Dulce amaderado, más discreto que Asad. Si Asad te parece demasiado invasivo pero te gusta el perfil, Habik es tu puerta lateral."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Habik For Men 100ml](https://meli.la/1qWX1xU)"
+      },
+      {
+        type: "h3",
+        title: "12. Afnan 9PM Elixir"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/29-Afnan-9PMElixir-100ml.webp",
+        alt: "Afnan 9PM Elixir 100ml, versión tuneada más concentrada",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "La versión tuneada del 9PM. Más todo: más proyección, más duración, más intensidad. Solo para fanáticos confirmados del perfil dulce oriental."
+      },
+      {
+        type: "p",
+        content: "[Ver Afnan 9PM Elixir 100ml](https://meli.la/1nRAN9K)"
+      },
+      {
+        type: "h3",
+        title: "Del 13 al 15"
+      },
+      {
+        type: "image-grid",
+        gridImages: [
+          {
+            src: "/images/perfumes-imagenes/03-AsadBourbonMarron-100ml.webp",
+            alt: "Asad Bourbon",
+            caption: "Asad Bourbon"
+          },
+          {
+            src: "/images/perfumes-imagenes/21-AsadNegro-100ml-Generico.webp",
+            alt: "Asad Negro",
+            caption: "Asad Negro"
+          },
+          {
+            src: "/images/perfumes-imagenes/06-Kit4Perfumes-Tubito-35ml-Hombre.webp",
+            alt: "Kit descubrimiento",
+            caption: "Kit descubrimiento"
+          }
+        ]
+      },
+      {
+        type: "list",
+        items: [
+          "[Lattafa Asad Bourbon](https://meli.la/1qWMdCK): versión con tabaco y notas alcohólicas del Asad clásico.",
+          "[Lattafa Asad Negro](https://meli.la/2t9EpWq): la variante más oscura, nocturna por excelencia.",
+          "[Kit 4 perfumes tubito 35ml](https://meli.la/2AWZpVQ): si no sabés por dónde arrancar, probá cuatro a la vez."
+        ]
+      },
+      {
+        type: "h2",
+        title: "¿Cuál compro primero?"
+      },
+      {
+        type: "p",
+        content: "Asad Lattafa Intense. Listo. Es el más completo, el más versátil y el que te da el mejor entendimiento de qué es la perfumería árabe masculina. Si no te gusta Asad, probablemente los perfumes árabes no sean lo tuyo y conviene que busques en otra dirección."
+      },
+      {
+        type: "p",
+        content: "Si querés profundizar en subcategorías, te sirve leer:"
+      },
+      {
+        type: "list",
+        items: [
+          "[Perfumes árabes amaderados](/guias/perfumes-arabes-amaderados) si el perfil madera, oud y resinas es lo que buscás",
+          "[Perfumes árabes y sus dupes](/guias/perfumes-arabes-dupes) para entender qué fragancia cara imita cada uno"
+        ]
+      },
+      {
+        type: "p",
+        content: "La [guía completa de perfumes árabes](/guias/perfumes-arabes) te arma el panorama completo del nicho en Argentina."
+      }
+    ],
+    faq: []
+  },
+  {
+    slug: "perfumes-arabes-precio-argentina",
+    category: "perfumes-arabes",
+    title: "Perfumes árabes precio 2026: comparativa por marca Argentina",
+    seoTitle: "Perfumes árabes precio 2026: comparativa por marca Argentina",
+    metaDescription: "Precios reales de perfumes árabes en Argentina 2026. Lattafa, Afnan, Rasasi, Armaf: cuánto cuesta cada uno y cuál te conviene.",
+    ogTitle: "Perfumes árabes precio 2026: comparativa por marca Argentina",
+    ogDescription: "Precios reales de perfumes árabes en Argentina 2026. Lattafa, Afnan, Rasasi, Armaf: cuánto cuesta cada uno y cuál te conviene.",
+    h1: "Perfumes árabes precio 2026: qué cuesta cada marca en Argentina",
+    publishedDate: "2026-04-17",
+    updatedDate: "2026-04-17",
+    hasDisclosure: true,
+    intro: [
+      "La pregunta que me llega más seguido es esta: cuánto cuestan realmente los perfumes árabes. Y la respuesta corta es que depende de la marca, la concentración y el importador. La respuesta larga es este artículo, con rangos actualizados a abril de 2026 y lo que conviene para cada presupuesto."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/22-Lattafa-Khamrah-100ml.webp",
+        alt: "Perfumes árabes precio Argentina 2026, comparativa de marcas Lattafa Afnan Rasasi",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "Rangos generales"
+      },
+      {
+        type: "table",
+        headers: [
+          "Rango ARS",
+          "Qué encontrás"
+        ],
+        rows: [
+          ["$10.000 a $20.000", "Miniaturas 35ml, sets de descubrimiento"],
+          ["$20.000 a $35.000", "Lattafa básicos, Afnan, Rasasi línea estándar"],
+          ["$35.000 a $55.000", "Lattafa premium, Armaf Club de Nuit, Maison Alhambra"],
+          ["$55.000 a $80.000", "Ediciones limitadas, elixires, extracts"],
+          ["$80.000 o más", "Extraits de parfum y líneas de colección"]
+        ]
+      },
+      {
+        type: "p",
+        content: "Para tener referencia: un Parfums de Marly Layton o un Creed Aventus importado en Argentina vale entre $350.000 y $1.500.000. Los árabes entregan una experiencia comparable por una fracción."
+      },
+      {
+        type: "h2",
+        title: "Precio por marca"
+      },
+      {
+        type: "h3",
+        title: "Lattafa"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/22-Lattafa-Khamrah-100ml.webp",
+        alt: "Lattafa Khamrah EDP 100ml, línea media de Lattafa",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "La marca más vendida en Argentina, y por eso la que más variación de precios tiene."
+      },
+      {
+        type: "list",
+        items: [
+          "**Línea básica** (Mayar, Habik): $22.000 a $30.000.",
+          "**Línea media** (Asad, Khamrah, Yara original): $28.000 a $38.000. Ejemplos: [Khamrah](https://meli.la/139RJXC), [Asad Intense](https://meli.la/26owfqo).",
+          "**Línea premium** (Yara Elixir, Fakhar, Maahir): $38.000 a $55.000. Ejemplos: [Yara Elixir](https://meli.la/2NrY6fF), [Fakhar Woman](https://meli.la/2U3GQy8), [Maahir Legacy](https://meli.la/25mgKqX).",
+          "**Ediciones especiales** (Emeer con luces, Pride Gold): $45.000 a $65.000."
+        ]
+      },
+      {
+        type: "h3",
+        title: "Afnan"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/25-Afnan-9PM-100ml.webp",
+        alt: "Afnan 9PM 100ml, referencia más conocida de Afnan",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "Premium accesible. Afnan 9PM es su producto más conocido mundialmente."
+      },
+      {
+        type: "list",
+        items: [
+          "[Afnan 9PM 100ml](https://meli.la/2Njx2cC): $35.000 a $42.000",
+          "[Afnan 9PM Elixir](https://meli.la/1nRAN9K): $45.000 a $55.000"
+        ]
+      },
+      {
+        type: "h3",
+        title: "Rasasi"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/10-Rasasi-HawasIce-100ml.webp",
+        alt: "Rasasi Hawas Ice 100ml, línea estándar Rasasi",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "Casa veterana del nicho, con frascos bien diseñados."
+      },
+      {
+        type: "list",
+        items: [
+          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): $38.000 a $45.000",
+          "[Rasasi Hawas Black](https://meli.la/2T9ofP2): $40.000 a $48.000"
+        ]
+      },
+      {
+        type: "h3",
+        title: "Armaf"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/33-Armaf-ClubDeNuitIntenseMan-200ml.webp",
+        alt: "Armaf Club de Nuit Intense Man 200ml, formato doble por precio accesible",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "La marca de los dupes. Club de Nuit Intense Man es su referencia."
+      },
+      {
+        type: "list",
+        items: [
+          "[Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): $45.000 a $55.000 (ojo: viene en 200ml, el doble del estándar)",
+          "[Armaf Odyssey Mandarin Sky](https://meli.la/1woeKmQ): $35.000 a $42.000"
+        ]
+      },
+      {
+        type: "h3",
+        title: "Maison Alhambra"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/18-MaisonAlhambra-SceptreMalachite-100ml.webp",
+        alt: "Maison Alhambra Sceptre Malachite 100ml, clon de Parfums de Marly Greenley",
+        imageSize: "inline-md"
+      },
+      {
+        type: "p",
+        content: "Especialistas en clones de perfumes de nicho europeo."
+      },
+      {
+        type: "list",
+        items: [
+          "[Sceptre Malachite 100ml](https://meli.la/2x5L5Ei): $42.000 a $52.000"
+        ]
+      },
+      {
+        type: "h3",
+        title: "Otras marcas"
+      },
+      {
+        type: "list",
+        items: [
+          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): $28.000 a $35.000",
+          "[Bharara King EDP](https://meli.la/2DTqjeW): $32.000 a $40.000"
+        ]
+      },
+      {
+        type: "h2",
+        title: "Por qué varía tanto el precio del mismo perfume"
+      },
+      {
+        type: "p",
+        content: "Cuatro factores. El importador compra en distintos volúmenes y tiene márgenes propios. El tipo de cambio impacta directo en el precio del mes siguiente. La disponibilidad en origen (si está agotado en Emiratos, el precio local sube). Y la tienda: un showroom en Palermo cobra más que un vendedor particular de Mercado Libre."
+      },
+      {
+        type: "h2",
+        title: "Qué comprar según tu presupuesto"
+      },
+      {
+        type: "p",
+        content: "**Entre $15.000 y $25.000: probar sin compromiso**. Un set de descubrimiento te resuelve. [Kit 4 tubito 35ml Hombre](https://meli.la/2AWZpVQ) o el [Set 4 perfumes unisex](https://meli.la/1T1B9sw) te dan cuatro fragancias distintas."
+      },
+      {
+        type: "image-grid",
+        gridImages: [
+          {
+            src: "/images/perfumes-imagenes/06-Kit4Perfumes-Tubito-35ml-Hombre.webp",
+            alt: "Kit Hombre 4x35ml",
+            caption: "Kit Hombre 4x35ml"
+          },
+          {
+            src: "/images/perfumes-imagenes/04-Set4Perfumes-Tubo-35ml-Unisex.webp",
+            alt: "Set Unisex 4x35ml",
+            caption: "Set Unisex 4x35ml"
+          }
+        ]
+      },
+      {
+        type: "p",
+        content: "**Entre $25.000 y $35.000: un perfume decente para uso diario**. Cualquier Lattafa básico o medio. Yara original, Mayar, Habik. Si te pescás una oferta de Asad o Khamrah, mejor."
+      },
+      {
+        type: "p",
+        content: "**Entre $80.000 y $120.000: colección balanceada**. Tres perfumes: uno fresco (Hawas Ice o Mandarine Sky), uno intenso (Asad o 9PM), uno versátil (Khamrah)."
+      },
+      {
+        type: "p",
+        content: "**Más de $150.000: colección seria**. Entrás a los elixires, extraits y ediciones limitadas. Un combo Yara Elixir + Fakhar + Club de Nuit Intense te cubre femenino, masculino y ocasión especial."
+      },
+      {
+        type: "h2",
+        title: "Tips para no pagar de más"
+      },
+      {
+        type: "p",
+        content: "Las temporadas de ofertas son Hot Sale (mayo) y Black Friday (noviembre). En esas dos ventanas es cuando los importadores mueven stock con descuento real, no marketing."
+      },
+      {
+        type: "p",
+        content: "Verificá el origen. Un perfume genuino viene con caja sellada, código de serie en el frasco y la caja, y casi siempre celofán. Si algo de esto falta, dudá."
+      },
+      {
+        type: "p",
+        content: "Comprá con Mercado Pago protegido. Si el producto no coincide con la descripción, te devuelven la plata. Es el método más seguro hoy en Argentina."
+      },
+      {
+        type: "p",
+        content: "Y siempre comparalo con al menos tres vendedores antes de tirar del gatillo. La diferencia puede ser de $10.000 por el mismo producto."
+      },
+      {
+        type: "h2",
+        title: "¿Vale la pena?"
+      },
+      {
+        type: "p",
+        content: "Sí, aunque con aclaración. Por el precio de un solo perfume occidental de nicho armás una colección de cinco o seis árabes de calidad comparable. Para quien recién arranca, un Yara (si es mujer) o un Asad (si es hombre) resuelve el 90% de la curiosidad. Después empieza la exploración, y ahí es donde este mundo se pone divertido."
+      },
+      {
+        type: "p",
+        content: "Para profundizar te sirven:"
+      },
+      {
+        type: "list",
+        items: [
+          "[Perfumes árabes originales: cómo identificarlos](/guias/perfumes-arabes-originales)",
+          "[Perfumes árabes y sus dupes](/guias/perfumes-arabes-dupes)",
+          "[Los perfumes árabes más vendidos en Argentina](/guias/perfumes-arabes-mas-vendidos-argentina)"
+        ]
+      }
+    ],
+    faq: []
+  },
+  {
+    slug: "perfumes-arabes-amaderados",
+    category: "perfumes-arabes",
+    title: "Perfumes árabes amaderados: top 10 con oud y madera",
+    seoTitle: "Perfumes árabes amaderados: top 10 con oud y madera",
+    metaDescription: "Los mejores perfumes árabes amaderados 2026 en Argentina. Fragancias con oud, sándalo y maderas nobles. Análisis con notas.",
+    ogTitle: "Perfumes árabes amaderados: top 10 con oud y madera",
+    ogDescription: "Los mejores perfumes árabes amaderados 2026 en Argentina. Fragancias con oud, sándalo y maderas nobles. Análisis con notas.",
+    h1: "Perfumes árabes amaderados: los 10 mejores con oud y madera",
+    publishedDate: "2026-04-17",
+    updatedDate: "2026-04-17",
+    hasDisclosure: true,
+    intro: [
+      "La perfumería árabe vive de las maderas. Mientras Europa durante décadas se fue a los florales y los cítricos, Medio Oriente trabajó oud, sándalo, cedro y resinas con un oficio que no se improvisa. No es casualidad: estas notas son caras y complejas, y requieren tradición para usarlas bien sin que el resultado huela a cloaca.",
+      "Hoy, un perfume árabe amaderado bien hecho compite de igual a igual con fragancias de nicho europeo que cuestan 20 o 30 veces más. Este ranking va de los 10 mejores amaderados árabes disponibles en Argentina, con análisis honesto de a quién le sirve cada uno."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/03-AsadBourbonMarron-100ml.webp",
+        alt: "Perfumes árabes amaderados top 10 con oud y madera 2026",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "Qué define a un amaderado árabe"
+      },
+      {
+        type: "p",
+        content: "Un amaderado árabe tiene notas centrales de madera: sándalo, cedro, vetiver, pachulí, y sobre todo oud. El oud (agarwood) sale de un árbol de Asia infectado con un hongo específico, se extrae casi todo en el sudeste asiático y se procesa en Medio Oriente desde hace más de 2.000 años."
+      },
+      {
+        type: "p",
+        content: "Los perfumistas árabes tienen ventajas que Europa no tiene: acceso directo a materia prima de calidad, tradición olfativa construida sobre estas notas, y un mercado interno que premia la intensidad en vez de temerle. El resultado son fragancias profundas, complejas y con duración que no pide disculpas."
+      },
+      {
+        type: "h2",
+        title: "El top 10"
+      },
+      {
+        type: "h3",
+        title: "1. Lattafa Asad Bourbon"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/03-AsadBourbonMarron-100ml.webp",
+        alt: "Lattafa Asad Bourbon Marrón 100ml, amaderado con tabaco y bourbon",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Arranca frutal con piña y manzana, y a la media hora se transforma en un corazón amaderado con bourbon y tabaco. El fondo es madera noble pura. Versátil como pocos: lo podés usar de día sin que te tape la cara, y de noche sin que te quede corto."
+      },
+      {
+        type: "p",
+        content: "[Ver Asad Bourbon Marrón 100ml](https://meli.la/1qWMdCK)"
+      },
+      {
+        type: "h3",
+        title: "2. Lattafa Qaed Al Fursan"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/08-Lattafa-QaedAlFursan-90ml.webp",
+        alt: "Lattafa Qaed Al Fursan EDP 90ml, amaderado especiado con cuero",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Especiado y amaderado, con cuero, tabaco y sándalo. Elegante, formal, adulto. Si vas a una reunión de negocios y necesitás transmitir seriedad, este es el perfume."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Qaed Al Fursan EDP 90ml](https://meli.la/2TnKuGC)"
+      },
+      {
+        type: "h3",
+        title: "3. Rasasi Hawas Black"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/14-Rasasi-HawasBlack-100ml-Unisex.webp",
+        alt: "Rasasi Hawas Black 100ml Unisex, oud pachulí ámbar nocturno",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "La cara oscura del Hawas. Base de oud, pachulí y ámbar. Nocturno. No lo uses en verano ni de día, no le hace bien al perfume ni a quien esté cerca."
+      },
+      {
+        type: "p",
+        content: "[Ver Rasasi Hawas Black 100ml Unisex](https://meli.la/2T9ofP2)"
+      },
+      {
+        type: "h3",
+        title: "4. Maison Alhambra Sceptre Malachite"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/18-MaisonAlhambra-SceptreMalachite-100ml.webp",
+        alt: "Maison Alhambra Sceptre Malachite 100ml, clon de PdM Greenley",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Clon muy decente del Parfums de Marly Greenley. Verde amaderado con menta, galbanum y base de sándalo con almizcle blanco. Es el único de esta lista que funciona bien tanto de oficina como de salida."
+      },
+      {
+        type: "p",
+        content: "[Ver Maison Alhambra Sceptre Malachite 100ml](https://meli.la/2x5L5Ei)"
+      },
+      {
+        type: "h3",
+        title: "5. Lattafa Maahir Legacy"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/31-Lattafa-MaahirLegacy-100ml.webp",
+        alt: "Lattafa Maahir Legacy 100ml Premium, oud real con ámbar gris",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "La línea premium de Lattafa. Amaderado oriental con oud real y notas de ámbar gris. Es de los pocos de este rango de precio donde realmente notás que el oud no es sintético puro."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Maahir Legacy 100ml Premium](https://meli.la/25mgKqX)"
+      },
+      {
+        type: "h3",
+        title: "6. Lattafa Bade'e Al Oud Noble Blush"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp",
+        alt: "Lattafa Bade'e Al Oud Noble Blush, oud floral femenino sensual",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Entra en esta lista aunque sea femenino, porque lo merece. Oud con rosa y oud sirio. Sensual, envolvente, y si sos hombre y te animás a usarlo, funciona. Los perfumes árabes fluidos entre géneros son una tradición con raíces antiguas, no una novedad."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Bade'e Al Oud Noble Blush Mujer](https://meli.la/1GvwbnM)"
+      },
+      {
+        type: "h3",
+        title: "7. Lattafa Habik For Men"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/11-Lattafa-Habik-100ml.webp",
+        alt: "Lattafa Habik For Men 100ml, amaderado dulce moderno",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Amaderado dulce, con vainilla, madera y un toque de cuero. Moderno, más juvenil que el resto de la lista. Buen primer amaderado para quien nunca probó el perfil."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Habik For Men 100ml](https://meli.la/1qWX1xU)"
+      },
+      {
+        type: "h3",
+        title: "8. Lattafa The Kingdom Man"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/32-Lattafa-TheKingdomMan-100ml.webp",
+        alt: "Lattafa The Kingdom Man 100ml, oud suave ámbar maderas nobles",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Amaderado clásico masculino. Oud suave, ámbar, maderas nobles. Serio, adulto, no te va a impresionar a los 20 años pero a los 40 lo vas a entender."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa The Kingdom Man 100ml](https://meli.la/2aRjHd9)"
+      },
+      {
+        type: "h3",
+        title: "9 y 10: para cerrar"
+      },
+      {
+        type: "image-grid",
+        gridImages: [
+          {
+            src: "/images/perfumes-imagenes/21-AsadNegro-100ml-Generico.webp",
+            alt: "Asad Negro",
+            caption: "Asad Negro"
+          },
+          {
+            src: "/images/perfumes-imagenes/01-AlWataniah-BareeqAlDhahad-100ml.webp",
+            alt: "Al Wataniah Bareeq",
+            caption: "Al Wataniah Bareeq"
+          }
+        ]
+      },
+      {
+        type: "list",
+        items: [
+          "[Lattafa Asad Negro](https://meli.la/2t9EpWq): la versión más oscura de la familia Asad.",
+          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): oriental amaderado con dulzor de fondo."
+        ]
+      },
+      {
+        type: "h2",
+        title: "Cuál elegir según el contexto"
+      },
+      {
+        type: "p",
+        content: "Para oficina o día a día: Qaed Al Fursan o Sceptre Malachite. Suaves, elegantes, no saturan."
+      },
+      {
+        type: "p",
+        content: "Para noche o eventos: Asad Bourbon, Maahir Legacy o Hawas Black. Proyectan, duran y dejan huella."
+      },
+      {
+        type: "p",
+        content: "Para otoño e invierno: cualquier Lattafa premium funciona bien. El frío potencia las maderas."
+      },
+      {
+        type: "p",
+        content: "Para primavera y verano: Sceptre Malachite o Kingdom Man. Más livianos dentro del perfil amaderado."
+      },
+      {
+        type: "h2",
+        title: "Para seguir"
+      },
+      {
+        type: "list",
+        items: [
+          "[Los 15 mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) cubre más opciones masculinas",
+          "[Lattafa: guía de la marca](/guias/lattafa-guia-marca) porque la mayoría de los amaderados top vienen de acá",
+          "[Perfumes árabes y sus dupes](/guias/perfumes-arabes-dupes) si querés saber qué europeo caro imita cada uno"
+        ]
+      },
+      {
+        type: "p",
+        content: "Y la [guía general de perfumes árabes](/guias/perfumes-arabes) te pone el contexto del nicho completo."
+      }
+    ],
+    faq: []
+  },
+  {
+    slug: "perfumes-arabes-mujer",
+    category: "perfumes-arabes",
+    title: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
+    seoTitle: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
+    metaDescription: "Las mejores fragancias árabes femeninas 2026 en Argentina. Dulces, florales, amaderadas. De Yara a Khamrah, guía con análisis honesto.",
+    ogTitle: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
+    ogDescription: "Las mejores fragancias árabes femeninas 2026 en Argentina. Dulces, florales, amaderadas. De Yara a Khamrah, guía con análisis honesto.",
+    h1: "Perfumes árabes para mujer: las 12 fragancias más deseadas (2026)",
+    publishedDate: "2026-04-17",
+    updatedDate: "2026-04-17",
+    hasDisclosure: true,
+    intro: [
+      "El cambio que vivió el mercado argentino de perfumes femeninos en dos años es notable. Lo que hasta 2023 era un nicho para entusiastas hoy es contenido viral en TikTok, protagonista de reels y obligado en cualquier tienda importadora. La relación precio calidad cambió cómo miles de argentinas eligen su perfume diario, y el proceso sigue en curso.",
+      "Lista con las 12 fragancias árabes femeninas más buscadas y recomendadas de 2026 en Argentina. Análisis honesto (incluyendo para quién no son), ocasiones de uso y presupuesto."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Perfumes árabes para mujer top 12 fragancias femeninas 2026 Argentina",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Por qué elegir árabe en vez de occidental?"
+      },
+      {
+        type: "p",
+        content: "Precio, antes que nada. Un perfume árabe premium cuesta entre $30.000 y $55.000. Un occidental premium (Dior, Chanel, YSL) cuesta entre $200.000 y $500.000 importado. No es comparable."
+      },
+      {
+        type: "p",
+        content: "Duración real. Los árabes suelen tener mayor concentración de aceite perfumado, lo que se traduce en 8 a 12 horas en piel contra 4 a 6 que dan muchos occidentales."
+      },
+      {
+        type: "p",
+        content: "Paleta olfativa distinta. Notas como oud, ámbar gris, azafrán y ud cambodi, que los occidentales evitan por costo, acá son habituales. El resultado son fragancias con profundidad que los perfumes de supermercado no tienen."
+      },
+      {
+        type: "h2",
+        title: "Las 12"
+      },
+      {
+        type: "h3",
+        title: "1. Lattafa Yara Elixir"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Lattafa Yara Elixir EDP 100ml, el perfume árabe femenino más vendido 2026",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "La versión más intensa del perfume árabe más viral. Dulce, envolvente, con orquídea, vainilla y matices orientales. Dura 10 a 12 horas. Si tenés que elegir un solo árabe femenino, este es la apuesta más segura."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Yara Elixir EDP 100ml](https://meli.la/2NrY6fF)"
+      },
+      {
+        type: "p",
+        content: "Si preferís algo más fresco, la variante [Yara Tous](https://meli.la/1kwTmSn) es la otra gran opción. La guía completa con las cinco versiones está en [Yara Lattafa: guía completa](/guias/yara-lattafa-guia-completa)."
+      },
+      {
+        type: "h3",
+        title: "2. Yara Tous"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/28-Lattafa-YaraTous-Mujer-100ml.webp",
+        alt: "Yara Tous Lattafa Mujer 100ml, versión fresca cítrica",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Versión fresca y juvenil de la familia Yara. Cítricos, flores blancas y base ligera. Ideal para día, oficina y climas cálidos."
+      },
+      {
+        type: "p",
+        content: "[Ver Yara Tous Lattafa Mujer 100ml](https://meli.la/1kwTmSn)"
+      },
+      {
+        type: "h3",
+        title: "3. Lattafa Her Confession"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/19-Lattafa-HerConfession-100ml.webp",
+        alt: "Lattafa Her Confession EDP 100ml, fragancia femenina sensual nocturna",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Dulce, sensual, con praliné, vainilla y fondo oriental. Perfume de noche clásico. Proyecta fuerte, quizás demasiado si lo usás de día."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Her Confession EDP 100ml](https://meli.la/1EBDqh9)"
+      },
+      {
+        type: "h3",
+        title: "4. Lattafa Khamrah"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/22-Lattafa-Khamrah-100ml.webp",
+        alt: "Lattafa Khamrah EDP 100ml, dulce especiado con cardamomo y canela",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Dulce especiado con cardamomo, canela y vainilla. Unisex con leve tendencia femenina. Khamrah fue el perfume que puso a Lattafa en el mapa mundial antes incluso que Yara."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Khamrah EDP 100ml](https://meli.la/139RJXC)"
+      },
+      {
+        type: "p",
+        content: "La variante [Khamrah Qahwa](https://meli.la/1B8Vwwf) suma café y maderas si querés algo más cálido."
+      },
+      {
+        type: "h3",
+        title: "5. Lattafa Fakhar Woman"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/30-Lattafa-FakharWoman-100ml.webp",
+        alt: "Lattafa Fakhar Woman EDP 100ml, dulce amaderado con pera y almizcle",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Una bomba olfativa en el mejor sentido. Dulce amaderado con pera, almizcle y maderas nobles. Proyecta como pocos, dura 10 horas largas."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Fakhar Woman EDP 100ml](https://meli.la/2U3GQy8)"
+      },
+      {
+        type: "h3",
+        title: "6. Lattafa Mayar"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/15-Lattafa-Mayar-100ml.webp",
+        alt: "Lattafa Mayar EDP 100ml, floral fresco con peonía y jazmín",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Floral fresco con peonía y jazmín. Más suave que el resto del catálogo Lattafa, más primaveral. El que uso yo para oficina o para días que no quiero llamar la atención con el perfume."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Mayar EDP 100ml](https://meli.la/1qrqLzC)"
+      },
+      {
+        type: "h3",
+        title: "7. Lattafa Bade'e Al Oud Noble Blush"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp",
+        alt: "Lattafa Bade'e Al Oud Noble Blush Mujer, rosa con oud sofisticada",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Rosa y oud. La combinación más clásica de la perfumería árabe, ejecutada con elegancia. Para ocasiones especiales donde querés salir del registro dulce-gourmand."
+      },
+      {
+        type: "p",
+        content: "[Ver Lattafa Bade'e Al Oud Noble Blush Mujer](https://meli.la/1GvwbnM)"
+      },
+      {
+        type: "h3",
+        title: "8. Sabah Al Ward"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/20-SabahAlWard-Mujer-100ml.webp",
+        alt: "Sabah Al Ward Mujer 100ml Floral, floral accesible con rosa y nardo",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "La opción más barata de esta lista. Floral puro con rosa y nardo. Lo recomiendo para regalar o para quien tiene presupuesto ajustado y quiere arrancar en el nicho sin compromiso. No es el perfume más complejo del mundo pero cumple."
+      },
+      {
+        type: "p",
+        content: "[Ver Sabah Al Ward Mujer 100ml Floral](https://meli.la/2AcVasU)"
+      },
+      {
+        type: "h3",
+        title: "9. Fakhar Lattafa Pride Gold Extract"
+      },
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/34-Lattafa-FakharPrideGoldExtract-Unisex.webp",
+        alt: "Fakhar Lattafa Pride Gold Extract Unisex, versión extrait de máxima concentración",
+        imageSize: "inline-lg"
+      },
+      {
+        type: "p",
+        content: "Versión extrait (más concentrada) de Fakhar. Unisex en etiqueta pero recomendado para mujer por el perfil dulce. Dura 12 horas mínimo."
+      },
+      {
+        type: "p",
+        content: "[Ver Fakhar Lattafa Pride Gold Extract Unisex](https://meli.la/2RmHufc)"
+      },
+      {
+        type: "h3",
+        title: "Del 10 al 12"
+      },
+      {
+        type: "image-grid",
+        gridImages: [
+          {
+            src: "/images/perfumes-imagenes/35-Lattafa-Emeer-CajaConLuces-100ml.webp",
+            alt: "Lattafa Emeer",
+            caption: "Lattafa Emeer"
+          },
+          {
+            src: "/images/perfumes-imagenes/12-Lattafa-VintageRadioPride-100ml.webp",
+            alt: "Vintage Radio Pride",
+            caption: "Vintage Radio Pride"
+          },
+          {
+            src: "/images/perfumes-imagenes/04-Set4Perfumes-Tubo-35ml-Unisex.webp",
+            alt: "Set 4x35ml Unisex",
+            caption: "Set 4x35ml Unisex"
+          }
+        ]
+      },
+      {
+        type: "list",
+        items: [
+          "[Lattafa Emeer 100ml](https://meli.la/21q6DEg): oriental dulce con el packaging más llamativo del catálogo, frasco con luces.",
+          "[Vintage Radio Lattafa Pride 100ml](https://meli.la/2Vzf4eN): propuesta menos convencional, más vintage.",
+          "[Set 4 perfumes tubo 35ml](https://meli.la/1T1B9sw): para probar cuatro fragancias antes de invertir en un 100ml."
+        ]
+      },
+      {
+        type: "h2",
+        title: "Cuál elegir según tu perfil"
+      },
+      {
+        type: "p",
+        content: "Si te van los dulces estilo Lancôme La Vie Est Belle: Yara Elixir, Her Confession, Khamrah."
+      },
+      {
+        type: "p",
+        content: "Si preferís florales frescos tipo Chanel Chance o Marc Jacobs Daisy: Mayar, Sabah Al Ward, Yara Tous."
+      },
+      {
+        type: "p",
+        content: "Si te gustan los orientales intensos tipo Shalimar: Fakhar Woman, Bade'e Al Oud, Fakhar Pride Gold."
+      },
+      {
+        type: "p",
+        content: "Si sos fan de los gourmands tipo Kayali: Yara Elixir, Her Confession, Khamrah Qahwa."
+      },
+      {
+        type: "h2",
+        title: "Dónde comprar sin que te vendan falsificado"
+      },
+      {
+        type: "p",
+        content: "Los canales que funcionan hoy en Argentina son tres. Mercado Libre con vendedores con buena reputación y compra protegida (la mayoría de los que linkeo acá entran en esa categoría). Tiendas físicas especializadas en CABA, sobre todo en Once y Palermo. Importadores directos de Instagram, con la salvedad de que verifiques reputación antes de comprar (pedí referencias, revisá comentarios reales, no solo los que ellos publican)."
+      },
+      {
+        type: "p",
+        content: "Para la guía completa tenés [dónde comprar perfumes árabes en Argentina](/guias/donde-comprar-perfumes-arabes-argentina) y, si estás en Capital, [dónde comprar en Buenos Aires específicamente](/guias/donde-comprar-perfumes-arabes-buenos-aires)."
+      },
+      {
+        type: "h2",
+        title: "¿Vale la pena meterse?"
+      },
+      {
+        type: "p",
+        content: "Mi recomendación, si recién arrancás: Yara Elixir o Khamrah. Son los dos árabes femeninos que más probabilidades tienen de gustarte, incluso si nunca probaste nada del palo. Si cualquiera de los dos te cierra, el mundo árabe se te abre. Si ninguno te convence, probablemente el perfil no sea lo tuyo y conviene buscar en otra familia olfativa."
+      },
+      {
+        type: "p",
+        content: "Para seguir explorando:"
+      },
+      {
+        type: "list",
+        items: [
+          "[Lattafa: guía de la marca](/guias/lattafa-guia-marca) (porque 8 de los 12 de esta lista son Lattafa)",
+          "[Perfumes árabes originales: cómo identificarlos](/guias/perfumes-arabes-originales)",
+          "[Guía completa de perfumes árabes](/guias/perfumes-arabes)"
+        ]
+      }
+    ],
+    faq: []
+  },
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
@@ -5980,5 +7327,10 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Freidoras de Aire",
     description:
       "Comparativas honestas de freidoras de aire en MercadoLibre Argentina: Atma, Peabody, Philips, Ninja, Oster y más. Reviews por marca, recetas y guías de uso.",
+  },
+  "perfumes-arabes": {
+    name: "Guía de Perfumes Árabes",
+    description:
+      "Comparativas honestas de perfumes árabes en Argentina: Lattafa, Afnan, Rasasi, Armaf y más. Reviews por marca, género, presupuesto y notas.",
   },
 };

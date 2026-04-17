@@ -43,7 +43,7 @@ export interface TrendingKeyword {
 }
 
 export interface GuideSection {
-  type: "p" | "h2" | "h3" | "table" | "card" | "verdict" | "warning" | "bad" | "list" | "toc" | "image";
+  type: "p" | "h2" | "h3" | "table" | "card" | "verdict" | "warning" | "bad" | "list" | "toc" | "image" | "image-grid";
   id?: string;
   title?: string;
   content?: string;
@@ -57,6 +57,8 @@ export interface GuideSection {
   };
   src?: string;
   alt?: string;
+  imageSize?: "hero" | "inline-lg" | "inline-md" | "inline-sm";
+  gridImages?: Array<{ src: string; alt: string; caption?: string }>;
 }
 
 export interface GuideFAQ {
