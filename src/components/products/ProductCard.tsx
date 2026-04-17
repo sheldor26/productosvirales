@@ -24,9 +24,11 @@ const badgeConfig = {
 interface ProductCardProps {
   product: Product;
   index?: number;
+  /** Mark the card's image as LCP candidate (priority + fetchpriority=high). */
+  priority?: boolean;
 }
 
-export function ProductCard({ product, index = 0 }: ProductCardProps) {
+export function ProductCard({ product, index = 0, priority = false }: ProductCardProps) {
   const {
     id,
     title,
@@ -65,6 +67,9 @@ export function ProductCard({ product, index = 0 }: ProductCardProps) {
             fill
             sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 25vw"
             className="object-contain p-4 group-hover:scale-110 transition-transform duration-500 ease-out"
+            priority={priority}
+            fetchPriority={priority ? "high" : undefined}
+            loading={priority ? "eager" : "lazy"}
           />
         </div>
 

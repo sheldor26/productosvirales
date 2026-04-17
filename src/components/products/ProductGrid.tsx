@@ -69,8 +69,8 @@ export function ProductGrid({ products, loading = false, title, subtitle }: Prod
           ? Array.from({ length: 8 }).map((_, i) => (
               <ProductCardSkeleton key={i} />
             ))
-          : products.map((product) => (
-              <ProductCard key={product.id} product={product} />
+          : products.map((product, i) => (
+              <ProductCard key={product.id} product={product} priority={i < 2} />
             ))}
       </div>
     </section>
