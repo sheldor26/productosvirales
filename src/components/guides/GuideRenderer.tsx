@@ -5,6 +5,7 @@ import type { Guide, GuideSection } from "@/lib/types";
 import { ArticleHeader } from "./ArticleHeader";
 import { ReadingProgressBar } from "./ReadingProgressBar";
 import { TableOfContents } from "./TableOfContents";
+import { ProductCard } from "./ProductCard";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 
 interface GuideRendererProps {
@@ -186,6 +187,9 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         </figure>
       );
     }
+
+    case "product-card":
+      return <ProductCard section={section} />;
 
     case "image-grid": {
       const items = section.gridImages || [];

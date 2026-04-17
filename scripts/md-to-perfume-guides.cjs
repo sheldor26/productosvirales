@@ -5,6 +5,17 @@ const INPUT = 'cluster-perfumes-arabes/articulos_lote_1.md';
 const IMG_DIR = 'public/images/perfumes-imagenes';
 const PUBLISH_DATE = '2026-04-17';
 
+// Build map: filename-prefix "NN" → ml_id from the editorial plan
+const plan = JSON.parse(fs.readFileSync('plan_editorial.json', 'utf8'));
+const prefixToMla = {};
+for (const p of plan.productos) {
+  prefixToMla[String(p.id).padStart(2, '0')] = p.ml_id;
+}
+function mlaFromFilename(filename) {
+  const m = filename.match(/^(\d{2})-/);
+  return m ? prefixToMla[m[1]] : null;
+}
+
 // Build map of existing image filenames (case-insensitive lookup)
 const existingImages = new Set(fs.readdirSync(IMG_DIR));
 const lcMap = new Map();
@@ -177,6 +188,55 @@ function parseArticle(text, headerName) {
       sections.push({ type: 'p', content: paragraph });
     }
   }
+
+  // Post-process: collapse (image inline-lg) + (p description) + (p with only meli.la link) → product-card
+  const collapsed = [];
+  let i = 0;
+  while (i < sections.length) {
+    const s = sections[i];
+    const next1 = sections[i + 1];
+    const next2 = sections[i + 2];
+
+    const isImageLg = s.type === 'image' && s.imageSize === 'inline-lg';
+    const isDescParagraph = next1 && next1.type === 'p' && !/^\[[^\]]+\]\(https:\/\/meli\.la\//.test(next1.content.trim());
+    const linkMatch = next2 && next2.type === 'p'
+      ? next2.content.trim().match(/^\[([^\]]+)\]\((https:\/\/meli\.la\/[^)]+)\)$/)
+      : null;
+
+    if (isImageLg && isDescParagraph && linkMatch) {
+      const filename = s.src.split('/').pop();
+      const mlaId = mlaFromFilename(filename);
+      if (mlaId) {
+        // Derive ranking from most recent h3 title (like "1. Lattafa Asad Intense")
+        let ranking;
+        for (let k = collapsed.length - 1; k >= 0; k--) {
+          if (collapsed[k].type === 'h3' && collapsed[k].title) {
+            const rm = collapsed[k].title.match(/^(\d+)\.\s+/);
+            if (rm) ranking = parseInt(rm[1], 10);
+            break;
+          }
+          if (collapsed[k].type === 'h2') break;
+        }
+
+        const card = {
+          type: 'product-card',
+          productMlaId: mlaId,
+          description: next1.content,
+        };
+        if (ranking != null) card.ranking = ranking;
+        collapsed.push(card);
+        i += 3;
+        continue;
+      }
+    }
+
+    collapsed.push(s);
+    i++;
+  }
+
+  // Replace sections with collapsed version
+  sections.length = 0;
+  sections.push(...collapsed);
 
   // Cap intro at first 3 paragraphs after H1
   const finalIntro = intro.slice(0, 3);

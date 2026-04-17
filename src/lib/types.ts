@@ -42,8 +42,24 @@ export interface TrendingKeyword {
   growth?: string;
 }
 
+export type LabelColor = "green" | "blue" | "amber" | "purple";
+export type Intensity = "baja" | "media" | "alta" | "muy alta";
+
 export interface GuideSection {
-  type: "p" | "h2" | "h3" | "table" | "card" | "verdict" | "warning" | "bad" | "list" | "toc" | "image" | "image-grid";
+  type:
+    | "p"
+    | "h2"
+    | "h3"
+    | "table"
+    | "card"
+    | "verdict"
+    | "warning"
+    | "bad"
+    | "list"
+    | "toc"
+    | "image"
+    | "image-grid"
+    | "product-card";
   id?: string;
   title?: string;
   content?: string;
@@ -59,6 +75,16 @@ export interface GuideSection {
   alt?: string;
   imageSize?: "hero" | "inline-lg" | "inline-md" | "inline-sm";
   gridImages?: Array<{ src: string; alt: string; caption?: string }>;
+
+  // ── product-card fields ─────────────────────────────
+  productMlaId?: string;
+  label?: string;
+  labelColor?: LabelColor;
+  ranking?: number;
+  description?: string;
+  notes?: string[];
+  longevity?: Intensity;
+  projection?: Intensity;
 }
 
 export interface GuideFAQ {

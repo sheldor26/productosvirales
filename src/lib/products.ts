@@ -25,6 +25,11 @@ export function getVisibleProducts(): Product[] {
   return curatedProducts.filter(isVisible);
 }
 
+/** Lookup a product by its MLA/MLAU id. Returns undefined if not found. */
+export function getProductById(id: string): Product | undefined {
+  return curatedProducts.find((p) => p.id === id);
+}
+
 /** Only featured products (for editorial slots). Falls back to visible set if none. */
 export function getFeaturedProducts(): Product[] {
   const featured = curatedProducts.filter(isFeatured);
