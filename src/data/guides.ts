@@ -6186,6 +6186,12 @@ export const guides: Guide[] = [
     publishedDate: "2026-04-17",
     updatedDate: "2026-04-17",
     hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El dupe más versátil de Creed Aventus. Si comprás uno solo, este." },
+      { productMlaId: "MLA16122300", label: "Para exigentes", labelColor: "amber", tagline: "200ml al doble del tamaño estándar. Proyecta como bomba." },
+      { productMlaId: "MLA29780185", label: "Alternativa fresca", labelColor: "blue", tagline: "El más versátil del ranking. Oficina, salida, verano — no falla." },
+      { productMlaId: "MLAU3800115477", label: "Para empezar", labelColor: "purple", tagline: "Kit de 4 miniaturas 35ml para probar antes de comprar un 100ml." },
+    ],
     intro: [
       "Hace dos años, comprar un Creed Aventus en Argentina costaba 8 sueldos mínimos. Hoy sigue costando eso. La diferencia es que ahora hay fragancias árabes que logran un perfil olfativo muy parecido a un décimo del precio, y el mercado masculino argentino lo notó. Lattafa, Afnan, Rasasi y Armaf se volvieron nombres conocidos en un nicho que hace poco era desconocido fuera de Medio Oriente.",
       "Este ranking no está armado con los \"más caros\" ni con los \"más raros\". Son los que funcionan: ventas reales en Argentina, valoración consistente de usuarios, y experiencia directa con cada uno."
@@ -6685,6 +6691,12 @@ export const guides: Guide[] = [
     publishedDate: "2026-04-17",
     updatedDate: "2026-04-17",
     hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLAU3798337289", label: "Nuestra elección", labelColor: "green", tagline: "Bourbon + tabaco + maderas nobles. Versátil de día y de noche." },
+      { productMlaId: "MLA37755803", label: "Premium", labelColor: "amber", tagline: "Oud real con ámbar gris. De los pocos donde se nota el oud no sintético." },
+      { productMlaId: "MLA22234109", label: "Elegante formal", labelColor: "purple", tagline: "Especiado con cuero y sándalo. El de las reuniones de negocios." },
+      { productMlaId: "MLA27855490", label: "Versátil oficina", labelColor: "blue", tagline: "Clon decente de PdM Greenley. El único que funciona oficina + salida." },
+    ],
     intro: [
       "La perfumería árabe vive de las maderas. Mientras Europa durante décadas se fue a los florales y los cítricos, Medio Oriente trabajó oud, sándalo, cedro y resinas con un oficio que no se improvisa. No es casualidad: estas notas son caras y complejas, y requieren tradición para usarlas bien sin que el resultado huela a cloaca.",
       "Hoy, un perfume árabe amaderado bien hecho compite de igual a igual con fragancias de nicho europeo que cuestan 20 o 30 veces más. Este ranking va de los 10 mejores amaderados árabes disponibles en Argentina, con análisis honesto de a quién le sirve cada uno."
@@ -6863,6 +6875,12 @@ export const guides: Guide[] = [
     publishedDate: "2026-04-17",
     updatedDate: "2026-04-17",
     hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 10-12h de duración." },
+      { productMlaId: "MLA40521028", label: "Alternativa fresca", labelColor: "blue", tagline: "Yara Tous: versión cítrica ligera, ideal para oficina y verano." },
+      { productMlaId: "MLA41304983", label: "Gourmand premium", labelColor: "amber", tagline: "Her Confession: dulce sensual con praliné, vainilla y base oriental." },
+      { productMlaId: "MLA49628348", label: "Para empezar", labelColor: "purple", tagline: "Sabah Al Ward: floral accesible, la puerta de entrada al nicho." },
+    ],
     intro: [
       "El cambio que vivió el mercado argentino de perfumes femeninos en dos años es notable. Lo que hasta 2023 era un nicho para entusiastas hoy es contenido viral en TikTok, protagonista de reels y obligado en cualquier tienda importadora. La relación precio calidad cambió cómo miles de argentinas eligen su perfume diario, y el proceso sigue en curso.",
       "Lista con las 12 fragancias árabes femeninas más buscadas y recomendadas de 2026 en Argentina. Análisis honesto (incluyendo para quién no son), ocasiones de uso y presupuesto."

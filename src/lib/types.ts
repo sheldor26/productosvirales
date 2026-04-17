@@ -115,6 +115,13 @@ export interface Guide {
   standfirst?: string;
   /** Override the auto-computed reading time in minutes. */
   readingTime?: number;
+  /** Optional curated shortcuts shown right after intro (Wirecutter "Our picks" style). */
+  quickPicks?: Array<{
+    productMlaId: string;
+    label: string;
+    labelColor?: LabelColor;
+    tagline: string;
+  }>;
 }
 
 export interface Category {

@@ -6,6 +6,7 @@ import { ArticleHeader } from "./ArticleHeader";
 import { ReadingProgressBar } from "./ReadingProgressBar";
 import { TableOfContents } from "./TableOfContents";
 import { ProductCard } from "./ProductCard";
+import { QuickPicks } from "./QuickPicks";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 
 interface GuideRendererProps {
@@ -286,6 +287,11 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               {p}
             </p>
           ))}
+
+          {/* Quick Picks (Wirecutter-style shortcuts after intro) */}
+          {guide.quickPicks && guide.quickPicks.length > 0 && (
+            <QuickPicks picks={guide.quickPicks} />
+          )}
 
           {/* Sections */}
           {bodySections.map((section, i) => (
