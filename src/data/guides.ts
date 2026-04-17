@@ -6031,7 +6031,7 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
-        title: "Yara Tous (celeste)"
+        title: "Yara Tous (amarillo)"
       },
       {
         type: "image",
