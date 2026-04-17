@@ -85,10 +85,24 @@ function parseArticle(text, headerName) {
   const blocks = [];
   let cur = [];
   let inGrid = false;
+  let inCompactCard = false;
   for (const ln of lines) {
+    if (inCompactCard) {
+      cur.push(ln);
+      if (ln.trim() === '{{/PRODUCT-CARD-COMPACT}}') {
+        blocks.push(cur); cur = []; inCompactCard = false;
+      }
+      continue;
+    }
     if (inGrid) {
       cur.push(ln);
       if (ln.includes('}}')) { blocks.push(cur); cur = []; inGrid = false; }
+      continue;
+    }
+    if (ln.trim().startsWith('{{PRODUCT-CARD-COMPACT')) {
+      if (cur.length) { blocks.push(cur); cur = []; }
+      cur.push(ln);
+      inCompactCard = true;
       continue;
     }
     if (ln.trim().startsWith('{{IMG-GRID')) {
@@ -138,6 +152,32 @@ function parseArticle(text, headerName) {
     const h3m = first.match(/^####\s*H3:\s*(.+)$/);
     if (h3m) {
       sections.push({ type: 'h3', title: h3m[1].trim() });
+      continue;
+    }
+
+    // PRODUCT-CARD-COMPACT
+    if (first.startsWith('{{PRODUCT-CARD-COMPACT')) {
+      const attrs = {};
+      const attrRe = /(\w+)="([^"]+)"/g;
+      let am;
+      while ((am = attrRe.exec(first)) !== null) attrs[am[1]] = am[2];
+      // Description = all lines between opening and closing tag
+      const descLines = [];
+      for (let k = 1; k < blk.length; k++) {
+        const ln = blk[k].trim();
+        if (ln === '{{/PRODUCT-CARD-COMPACT}}') break;
+        if (ln) descLines.push(ln);
+      }
+      const description = descLines.join(' ');
+      const card = {
+        type: 'product-card',
+        variant: 'compact',
+        productMlaId: attrs.mlaId,
+        description,
+      };
+      if (attrs.label) card.label = attrs.label;
+      if (attrs.color) card.labelColor = attrs.color;
+      sections.push(card);
       continue;
     }
 

@@ -73,19 +73,23 @@ Esto lo pregunta todo el mundo. Respuesta corta: no exactamente. Es cierto que L
 
 ### H2: Otros Lattafa femeninos que vale la pena probar
 
-Si te gustó Yara y querés seguir explorando la línea, acá van las alternativas con foto:
+Si te gustó Yara y querés seguir explorando la línea, acá van las alternativas:
 
-{{IMG-GRID inline-sm:
-- 19-Lattafa-HerConfession-100ml.webp | Her Confession
-- 27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp | Bade'e Al Oud Noble Blush
-- 30-Lattafa-FakharWoman-100ml.webp | Fakhar Woman
-- 15-Lattafa-Mayar-100ml.webp | Mayar
-}}
+{{PRODUCT-CARD-COMPACT mlaId="MLA41304983" label="Sensual" color="purple"}}
+Más sensual que Yara, más nocturno, con praliné y vainilla.
+{{/PRODUCT-CARD-COMPACT}}
 
-- [Lattafa Her Confession](https://meli.la/1EBDqh9): más sensual, más nocturno, con praliné y vainilla.
-- [Lattafa Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM): rosa con oud, para cuando querés algo más sofisticado.
-- [Lattafa Fakhar Woman](https://meli.la/2U3GQy8): dulce amaderado con duración bestial.
-- [Lattafa Mayar](https://meli.la/1qrqLzC): floral suave, más primaveral.
+{{PRODUCT-CARD-COMPACT mlaId="MLA43643712" label="Sofisticado" color="amber"}}
+Rosa con oud, para cuando querés algo más elegante.
+{{/PRODUCT-CARD-COMPACT}}
+
+{{PRODUCT-CARD-COMPACT mlaId="MLA28060225" label="Duración bestial" color="blue"}}
+Dulce amaderado con longevidad de 12+ horas.
+{{/PRODUCT-CARD-COMPACT}}
+
+{{PRODUCT-CARD-COMPACT mlaId="MLA25883660" label="Primaveral" color="green"}}
+Floral suave, ideal para oficina o día a día.
+{{/PRODUCT-CARD-COMPACT}}
 
 El listado completo de fragancias femeninas árabes está en la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer), con las 12 más vendidas analizadas una por una.
 
@@ -116,7 +120,11 @@ Este ranking no está armado con los "más caros" ni con los "más raros". Son l
 
 Pensá en cuándo lo vas a usar. Un perfume de oficina no es lo mismo que uno de salida. Los árabes tienden a proyectar mucho, entonces elegí la intensidad según el contexto real. Un 9PM en una reunión a las 10 de la mañana es demasiado.
 
-Probá antes de comprar los 100ml. Los kits de 35ml te permiten experimentar cuatro fragancias por menos de lo que sale un solo frasco grande. [Este kit masculino](https://meli.la/2AWZpVQ) es un buen punto de arranque si estás entrando al nicho.
+Probá antes de comprar los 100ml. Los kits de 35ml te permiten experimentar cuatro fragancias por menos de lo que sale un solo frasco grande.
+
+{{PRODUCT-CARD-COMPACT mlaId="MLAU3800115477" label="Para empezar" color="blue"}}
+Kit de 4 miniaturas de 35ml. Te permite probar 4 fragancias masculinas por menos de lo que sale un 100ml. Ideal si estás entrando al nicho.
+{{/PRODUCT-CARD-COMPACT}}
 
 Y sobre la duración: un perfume árabe decente dura 8 a 12 horas. Si te dura menos de 6, probablemente sea una falsificación o una versión diluida. Pasa, hay que tener cuidado.
 
@@ -226,15 +234,17 @@ La versión tuneada del 9PM. Más todo: más proyección, más duración, más i
 
 #### H3: Del 13 al 15
 
-{{IMG-GRID inline-sm:
-- 03-AsadBourbonMarron-100ml.webp | Asad Bourbon
-- 21-AsadNegro-100ml-Generico.webp | Asad Negro
-- 06-Kit4Perfumes-Tubito-35ml-Hombre.webp | Kit descubrimiento
-}}
+{{PRODUCT-CARD-COMPACT mlaId="MLAU3798337289" label="Alternativa con tabaco" color="amber"}}
+Versión del Asad clásico con notas de tabaco y bourbon. Más maduro, más adulto.
+{{/PRODUCT-CARD-COMPACT}}
 
-- [Lattafa Asad Bourbon](https://meli.la/1qWMdCK): versión con tabaco y notas alcohólicas del Asad clásico.
-- [Lattafa Asad Negro](https://meli.la/2t9EpWq): la variante más oscura, nocturna por excelencia.
-- [Kit 4 perfumes tubito 35ml](https://meli.la/2AWZpVQ): si no sabés por dónde arrancar, probá cuatro a la vez.
+{{PRODUCT-CARD-COMPACT mlaId="MLAU3562485598" label="La variante oscura" color="purple"}}
+La versión más nocturna de la familia Asad. Oriental intenso.
+{{/PRODUCT-CARD-COMPACT}}
+
+{{PRODUCT-CARD-COMPACT mlaId="MLAU3800115477" label="Para probar" color="blue"}}
+Kit de 4 perfumes en formato descubrimiento 35ml.
+{{/PRODUCT-CARD-COMPACT}}
 
 ### H2: ¿Cuál compro primero?
 
@@ -276,8 +286,6 @@ Para tener referencia: un Parfums de Marly Layton o un Creed Aventus importado e
 
 #### H3: Lattafa
 
-{{IMG inline-md: 22-Lattafa-Khamrah-100ml.webp | alt: "Lattafa Khamrah EDP 100ml, línea media de Lattafa"}}
-
 La marca más vendida en Argentina, y por eso la que más variación de precios tiene.
 
 - **Línea básica** (Mayar, Habik): $22.000 a $30.000.
@@ -285,40 +293,52 @@ La marca más vendida en Argentina, y por eso la que más variación de precios 
 - **Línea premium** (Yara Elixir, Fakhar, Maahir): $38.000 a $55.000. Ejemplos: [Yara Elixir](https://meli.la/2NrY6fF), [Fakhar Woman](https://meli.la/2U3GQy8), [Maahir Legacy](https://meli.la/25mgKqX).
 - **Ediciones especiales** (Emeer con luces, Pride Gold): $45.000 a $65.000.
 
-#### H3: Afnan
+{{PRODUCT-CARD-COMPACT mlaId="MLA53013853" label="Línea media destacada" color="blue"}}
+Khamrah es el ejemplo perfecto de la línea media de Lattafa. Dulce especiado, alta duración, precio accesible.
+{{/PRODUCT-CARD-COMPACT}}
 
-{{IMG inline-md: 25-Afnan-9PM-100ml.webp | alt: "Afnan 9PM 100ml, referencia más conocida de Afnan"}}
+#### H3: Afnan
 
 Premium accesible. Afnan 9PM es su producto más conocido mundialmente.
 
 - [Afnan 9PM 100ml](https://meli.la/2Njx2cC): $35.000 a $42.000
 - [Afnan 9PM Elixir](https://meli.la/1nRAN9K): $45.000 a $55.000
 
-#### H3: Rasasi
+{{PRODUCT-CARD-COMPACT mlaId="MLA47054851" label="Producto estrella" color="green"}}
+El 9PM es el producto más conocido mundialmente de Afnan. Canela, manzana, ámbar y vainilla.
+{{/PRODUCT-CARD-COMPACT}}
 
-{{IMG inline-md: 10-Rasasi-HawasIce-100ml.webp | alt: "Rasasi Hawas Ice 100ml, línea estándar Rasasi"}}
+#### H3: Rasasi
 
 Casa veterana del nicho, con frascos bien diseñados.
 
 - [Rasasi Hawas Ice](https://meli.la/24kQeRc): $38.000 a $45.000
 - [Rasasi Hawas Black](https://meli.la/2T9ofP2): $40.000 a $48.000
 
-#### H3: Armaf
+{{PRODUCT-CARD-COMPACT mlaId="MLA29780185" label="El más versátil" color="blue"}}
+Hawas Ice funciona para oficina, salida, primavera, verano. No se equivoca nunca.
+{{/PRODUCT-CARD-COMPACT}}
 
-{{IMG inline-md: 33-Armaf-ClubDeNuitIntenseMan-200ml.webp | alt: "Armaf Club de Nuit Intense Man 200ml, formato doble por precio accesible"}}
+#### H3: Armaf
 
 La marca de los dupes. Club de Nuit Intense Man es su referencia.
 
 - [Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): $45.000 a $55.000 (ojo: viene en 200ml, el doble del estándar)
 - [Armaf Odyssey Mandarin Sky](https://meli.la/1woeKmQ): $35.000 a $42.000
 
-#### H3: Maison Alhambra
+{{PRODUCT-CARD-COMPACT mlaId="MLA16122300" label="El mejor dupe de Aventus" color="amber"}}
+200ml al doble del tamaño estándar por precio normal. Proyecta como bomba y dura 12 horas.
+{{/PRODUCT-CARD-COMPACT}}
 
-{{IMG inline-md: 18-MaisonAlhambra-SceptreMalachite-100ml.webp | alt: "Maison Alhambra Sceptre Malachite 100ml, clon de Parfums de Marly Greenley"}}
+#### H3: Maison Alhambra
 
 Especialistas en clones de perfumes de nicho europeo.
 
 - [Sceptre Malachite 100ml](https://meli.la/2x5L5Ei): $42.000 a $52.000
+
+{{PRODUCT-CARD-COMPACT mlaId="MLA27855490" label="Clon de PdM Greenley" color="purple"}}
+El clon más decente de Parfums de Marly Greenley que conseguís en Argentina.
+{{/PRODUCT-CARD-COMPACT}}
 
 #### H3: Otras marcas
 
@@ -331,12 +351,15 @@ Cuatro factores. El importador compra en distintos volúmenes y tiene márgenes 
 
 ### H2: Qué comprar según tu presupuesto
 
-**Entre $15.000 y $25.000: probar sin compromiso**. Un set de descubrimiento te resuelve. [Kit 4 tubito 35ml Hombre](https://meli.la/2AWZpVQ) o el [Set 4 perfumes unisex](https://meli.la/1T1B9sw) te dan cuatro fragancias distintas.
+**Entre $15.000 y $25.000: probar sin compromiso**. Un set de descubrimiento te resuelve — cuatro fragancias distintas por menos de lo que sale un solo 100ml.
 
-{{IMG-GRID inline-sm:
-- 06-Kit4Perfumes-Tubito-35ml-Hombre.webp | Kit Hombre 4x35ml
-- 04-Set4Perfumes-Tubo-35ml-Unisex.webp | Set Unisex 4x35ml
-}}
+{{PRODUCT-CARD-COMPACT mlaId="MLAU3800115477" label="Para hombres" color="blue"}}
+Kit de 4 perfumes masculinos en formato 35ml.
+{{/PRODUCT-CARD-COMPACT}}
+
+{{PRODUCT-CARD-COMPACT mlaId="MLA52883777" label="Unisex" color="purple"}}
+Set de 4 perfumes unisex en tubos de 35ml.
+{{/PRODUCT-CARD-COMPACT}}
 
 **Entre $25.000 y $35.000: un perfume decente para uso diario**. Cualquier Lattafa básico o medio. Yara original, Mayar, Habik. Si te pescás una oferta de Asad o Khamrah, mejor.
 
@@ -453,13 +476,13 @@ Amaderado clásico masculino. Oud suave, ámbar, maderas nobles. Serio, adulto, 
 
 #### H3: 9 y 10: para cerrar
 
-{{IMG-GRID inline-sm:
-- 21-AsadNegro-100ml-Generico.webp | Asad Negro
-- 01-AlWataniah-BareeqAlDhahad-100ml.webp | Al Wataniah Bareeq
-}}
+{{PRODUCT-CARD-COMPACT mlaId="MLAU3562485598" label="La variante oscura" color="purple"}}
+La versión más nocturna de la familia Asad. Maderas densas y oriental intenso.
+{{/PRODUCT-CARD-COMPACT}}
 
-- [Lattafa Asad Negro](https://meli.la/2t9EpWq): la versión más oscura de la familia Asad.
-- [Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): oriental amaderado con dulzor de fondo.
+{{PRODUCT-CARD-COMPACT mlaId="MLA24605489" label="Oriental dulce" color="amber"}}
+Oriental amaderado con dulzor de fondo. Opción menos conocida pero excelente.
+{{/PRODUCT-CARD-COMPACT}}
 
 ### H2: Cuál elegir según el contexto
 
@@ -582,15 +605,17 @@ Versión extrait (más concentrada) de Fakhar. Unisex en etiqueta pero recomenda
 
 #### H3: Del 10 al 12
 
-{{IMG-GRID inline-sm:
-- 35-Lattafa-Emeer-CajaConLuces-100ml.webp | Lattafa Emeer
-- 12-Lattafa-VintageRadioPride-100ml.webp | Vintage Radio Pride
-- 04-Set4Perfumes-Tubo-35ml-Unisex.webp | Set 4x35ml Unisex
-}}
+{{PRODUCT-CARD-COMPACT mlaId="MLA28754461" label="El más vistoso" color="amber"}}
+Oriental dulce con packaging único: frasco con luces. Si buscás algo distinto visualmente, este es.
+{{/PRODUCT-CARD-COMPACT}}
 
-- [Lattafa Emeer 100ml](https://meli.la/21q6DEg): oriental dulce con el packaging más llamativo del catálogo, frasco con luces.
-- [Vintage Radio Lattafa Pride 100ml](https://meli.la/2Vzf4eN): propuesta menos convencional, más vintage.
-- [Set 4 perfumes tubo 35ml](https://meli.la/1T1B9sw): para probar cuatro fragancias antes de invertir en un 100ml.
+{{PRODUCT-CARD-COMPACT mlaId="MLA29077943" label="Vintage" color="purple"}}
+Propuesta menos convencional de Lattafa, con estética retro.
+{{/PRODUCT-CARD-COMPACT}}
+
+{{PRODUCT-CARD-COMPACT mlaId="MLA52883777" label="Para probar varias" color="blue"}}
+Set de 4 perfumes en 35ml para experimentar antes de decidir.
+{{/PRODUCT-CARD-COMPACT}}
 
 ### H2: Cuál elegir según tu perfil
 

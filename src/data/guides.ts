@@ -6117,41 +6117,39 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Si te gustó Yara y querés seguir explorando la línea, acá van las alternativas con foto:"
+        content: "Si te gustó Yara y querés seguir explorando la línea, acá van las alternativas:"
       },
       {
-        type: "image-grid",
-        gridImages: [
-          {
-            src: "/images/perfumes-imagenes/19-Lattafa-HerConfession-100ml.webp",
-            alt: "Her Confession",
-            caption: "Her Confession"
-          },
-          {
-            src: "/images/perfumes-imagenes/27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp",
-            alt: "Bade'e Al Oud Noble Blush",
-            caption: "Bade'e Al Oud Noble Blush"
-          },
-          {
-            src: "/images/perfumes-imagenes/30-Lattafa-FakharWoman-100ml.webp",
-            alt: "Fakhar Woman",
-            caption: "Fakhar Woman"
-          },
-          {
-            src: "/images/perfumes-imagenes/15-Lattafa-Mayar-100ml.webp",
-            alt: "Mayar",
-            caption: "Mayar"
-          }
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA41304983",
+        description: "Más sensual que Yara, más nocturno, con praliné y vainilla.",
+        label: "Sensual",
+        labelColor: "purple"
       },
       {
-        type: "list",
-        items: [
-          "[Lattafa Her Confession](https://meli.la/1EBDqh9): más sensual, más nocturno, con praliné y vainilla.",
-          "[Lattafa Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM): rosa con oud, para cuando querés algo más sofisticado.",
-          "[Lattafa Fakhar Woman](https://meli.la/2U3GQy8): dulce amaderado con duración bestial.",
-          "[Lattafa Mayar](https://meli.la/1qrqLzC): floral suave, más primaveral."
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA43643712",
+        description: "Rosa con oud, para cuando querés algo más elegante.",
+        label: "Sofisticado",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA28060225",
+        description: "Dulce amaderado con longevidad de 12+ horas.",
+        label: "Duración bestial",
+        labelColor: "blue"
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA25883660",
+        description: "Floral suave, ideal para oficina o día a día.",
+        label: "Primaveral",
+        labelColor: "green"
       },
       {
         type: "p",
@@ -6209,7 +6207,15 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Probá antes de comprar los 100ml. Los kits de 35ml te permiten experimentar cuatro fragancias por menos de lo que sale un solo frasco grande. [Este kit masculino](https://meli.la/2AWZpVQ) es un buen punto de arranque si estás entrando al nicho."
+        content: "Probá antes de comprar los 100ml. Los kits de 35ml te permiten experimentar cuatro fragancias por menos de lo que sale un solo frasco grande."
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLAU3800115477",
+        description: "Kit de 4 miniaturas de 35ml. Te permite probar 4 fragancias masculinas por menos de lo que sale un 100ml. Ideal si estás entrando al nicho.",
+        label: "Para empezar",
+        labelColor: "blue"
       },
       {
         type: "p",
@@ -6356,32 +6362,28 @@ export const guides: Guide[] = [
         title: "Del 13 al 15"
       },
       {
-        type: "image-grid",
-        gridImages: [
-          {
-            src: "/images/perfumes-imagenes/03-AsadBourbonMarron-100ml.webp",
-            alt: "Asad Bourbon",
-            caption: "Asad Bourbon"
-          },
-          {
-            src: "/images/perfumes-imagenes/21-AsadNegro-100ml-Generico.webp",
-            alt: "Asad Negro",
-            caption: "Asad Negro"
-          },
-          {
-            src: "/images/perfumes-imagenes/06-Kit4Perfumes-Tubito-35ml-Hombre.webp",
-            alt: "Kit descubrimiento",
-            caption: "Kit descubrimiento"
-          }
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLAU3798337289",
+        description: "Versión del Asad clásico con notas de tabaco y bourbon. Más maduro, más adulto.",
+        label: "Alternativa con tabaco",
+        labelColor: "amber"
       },
       {
-        type: "list",
-        items: [
-          "[Lattafa Asad Bourbon](https://meli.la/1qWMdCK): versión con tabaco y notas alcohólicas del Asad clásico.",
-          "[Lattafa Asad Negro](https://meli.la/2t9EpWq): la variante más oscura, nocturna por excelencia.",
-          "[Kit 4 perfumes tubito 35ml](https://meli.la/2AWZpVQ): si no sabés por dónde arrancar, probá cuatro a la vez."
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLAU3562485598",
+        description: "La versión más nocturna de la familia Asad. Oriental intenso.",
+        label: "La variante oscura",
+        labelColor: "purple"
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLAU3800115477",
+        description: "Kit de 4 perfumes en formato descubrimiento 35ml.",
+        label: "Para probar",
+        labelColor: "blue"
       },
       {
         type: "h2",
@@ -6462,12 +6464,6 @@ export const guides: Guide[] = [
         title: "Lattafa"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/22-Lattafa-Khamrah-100ml.webp",
-        alt: "Lattafa Khamrah EDP 100ml, línea media de Lattafa",
-        imageSize: "inline-md"
-      },
-      {
         type: "p",
         content: "La marca más vendida en Argentina, y por eso la que más variación de precios tiene."
       },
@@ -6481,14 +6477,16 @@ export const guides: Guide[] = [
         ]
       },
       {
-        type: "h3",
-        title: "Afnan"
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA53013853",
+        description: "Khamrah es el ejemplo perfecto de la línea media de Lattafa. Dulce especiado, alta duración, precio accesible.",
+        label: "Línea media destacada",
+        labelColor: "blue"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/25-Afnan-9PM-100ml.webp",
-        alt: "Afnan 9PM 100ml, referencia más conocida de Afnan",
-        imageSize: "inline-md"
+        type: "h3",
+        title: "Afnan"
       },
       {
         type: "p",
@@ -6502,14 +6500,16 @@ export const guides: Guide[] = [
         ]
       },
       {
-        type: "h3",
-        title: "Rasasi"
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA47054851",
+        description: "El 9PM es el producto más conocido mundialmente de Afnan. Canela, manzana, ámbar y vainilla.",
+        label: "Producto estrella",
+        labelColor: "green"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/10-Rasasi-HawasIce-100ml.webp",
-        alt: "Rasasi Hawas Ice 100ml, línea estándar Rasasi",
-        imageSize: "inline-md"
+        type: "h3",
+        title: "Rasasi"
       },
       {
         type: "p",
@@ -6523,14 +6523,16 @@ export const guides: Guide[] = [
         ]
       },
       {
-        type: "h3",
-        title: "Armaf"
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA29780185",
+        description: "Hawas Ice funciona para oficina, salida, primavera, verano. No se equivoca nunca.",
+        label: "El más versátil",
+        labelColor: "blue"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/33-Armaf-ClubDeNuitIntenseMan-200ml.webp",
-        alt: "Armaf Club de Nuit Intense Man 200ml, formato doble por precio accesible",
-        imageSize: "inline-md"
+        type: "h3",
+        title: "Armaf"
       },
       {
         type: "p",
@@ -6544,14 +6546,16 @@ export const guides: Guide[] = [
         ]
       },
       {
-        type: "h3",
-        title: "Maison Alhambra"
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA16122300",
+        description: "200ml al doble del tamaño estándar por precio normal. Proyecta como bomba y dura 12 horas.",
+        label: "El mejor dupe de Aventus",
+        labelColor: "amber"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/18-MaisonAlhambra-SceptreMalachite-100ml.webp",
-        alt: "Maison Alhambra Sceptre Malachite 100ml, clon de Parfums de Marly Greenley",
-        imageSize: "inline-md"
+        type: "h3",
+        title: "Maison Alhambra"
       },
       {
         type: "p",
@@ -6562,6 +6566,14 @@ export const guides: Guide[] = [
         items: [
           "[Sceptre Malachite 100ml](https://meli.la/2x5L5Ei): $42.000 a $52.000"
         ]
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA27855490",
+        description: "El clon más decente de Parfums de Marly Greenley que conseguís en Argentina.",
+        label: "Clon de PdM Greenley",
+        labelColor: "purple"
       },
       {
         type: "h3",
@@ -6588,22 +6600,23 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Entre $15.000 y $25.000: probar sin compromiso**. Un set de descubrimiento te resuelve. [Kit 4 tubito 35ml Hombre](https://meli.la/2AWZpVQ) o el [Set 4 perfumes unisex](https://meli.la/1T1B9sw) te dan cuatro fragancias distintas."
+        content: "**Entre $15.000 y $25.000: probar sin compromiso**. Un set de descubrimiento te resuelve — cuatro fragancias distintas por menos de lo que sale un solo 100ml."
       },
       {
-        type: "image-grid",
-        gridImages: [
-          {
-            src: "/images/perfumes-imagenes/06-Kit4Perfumes-Tubito-35ml-Hombre.webp",
-            alt: "Kit Hombre 4x35ml",
-            caption: "Kit Hombre 4x35ml"
-          },
-          {
-            src: "/images/perfumes-imagenes/04-Set4Perfumes-Tubo-35ml-Unisex.webp",
-            alt: "Set Unisex 4x35ml",
-            caption: "Set Unisex 4x35ml"
-          }
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLAU3800115477",
+        description: "Kit de 4 perfumes masculinos en formato 35ml.",
+        label: "Para hombres",
+        labelColor: "blue"
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA52883777",
+        description: "Set de 4 perfumes unisex en tubos de 35ml.",
+        label: "Unisex",
+        labelColor: "purple"
       },
       {
         type: "p",
@@ -6784,26 +6797,20 @@ export const guides: Guide[] = [
         title: "9 y 10: para cerrar"
       },
       {
-        type: "image-grid",
-        gridImages: [
-          {
-            src: "/images/perfumes-imagenes/21-AsadNegro-100ml-Generico.webp",
-            alt: "Asad Negro",
-            caption: "Asad Negro"
-          },
-          {
-            src: "/images/perfumes-imagenes/01-AlWataniah-BareeqAlDhahad-100ml.webp",
-            alt: "Al Wataniah Bareeq",
-            caption: "Al Wataniah Bareeq"
-          }
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLAU3562485598",
+        description: "La versión más nocturna de la familia Asad. Maderas densas y oriental intenso.",
+        label: "La variante oscura",
+        labelColor: "purple"
       },
       {
-        type: "list",
-        items: [
-          "[Lattafa Asad Negro](https://meli.la/2t9EpWq): la versión más oscura de la familia Asad.",
-          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): oriental amaderado con dulzor de fondo."
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA24605489",
+        description: "Oriental amaderado con dulzor de fondo. Opción menos conocida pero excelente.",
+        label: "Oriental dulce",
+        labelColor: "amber"
       },
       {
         type: "h2",
@@ -6990,32 +6997,28 @@ export const guides: Guide[] = [
         title: "Del 10 al 12"
       },
       {
-        type: "image-grid",
-        gridImages: [
-          {
-            src: "/images/perfumes-imagenes/35-Lattafa-Emeer-CajaConLuces-100ml.webp",
-            alt: "Lattafa Emeer",
-            caption: "Lattafa Emeer"
-          },
-          {
-            src: "/images/perfumes-imagenes/12-Lattafa-VintageRadioPride-100ml.webp",
-            alt: "Vintage Radio Pride",
-            caption: "Vintage Radio Pride"
-          },
-          {
-            src: "/images/perfumes-imagenes/04-Set4Perfumes-Tubo-35ml-Unisex.webp",
-            alt: "Set 4x35ml Unisex",
-            caption: "Set 4x35ml Unisex"
-          }
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA28754461",
+        description: "Oriental dulce con packaging único: frasco con luces. Si buscás algo distinto visualmente, este es.",
+        label: "El más vistoso",
+        labelColor: "amber"
       },
       {
-        type: "list",
-        items: [
-          "[Lattafa Emeer 100ml](https://meli.la/21q6DEg): oriental dulce con el packaging más llamativo del catálogo, frasco con luces.",
-          "[Vintage Radio Lattafa Pride 100ml](https://meli.la/2Vzf4eN): propuesta menos convencional, más vintage.",
-          "[Set 4 perfumes tubo 35ml](https://meli.la/1T1B9sw): para probar cuatro fragancias antes de invertir en un 100ml."
-        ]
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA29077943",
+        description: "Propuesta menos convencional de Lattafa, con estética retro.",
+        label: "Vintage",
+        labelColor: "purple"
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA52883777",
+        description: "Set de 4 perfumes en 35ml para experimentar antes de decidir.",
+        label: "Para probar varias",
+        labelColor: "blue"
       },
       {
         type: "h2",
