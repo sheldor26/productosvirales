@@ -4,7 +4,6 @@ import { HeroBanner } from "@/components/feed/HeroBanner";
 import { TrendingBar } from "@/components/feed/TrendingBar";
 import { HomeFeed } from "@/components/feed/HomeFeed";
 import { ProductGrid } from "@/components/products/ProductGrid";
-import { WhatsAppCTA } from "@/components/widgets/WhatsAppCTA";
 import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { HomeFAQ } from "@/components/feed/HomeFAQ";
 import { getVisibleProducts } from "@/lib/products";
@@ -79,10 +78,6 @@ export default async function Home() {
 
       <div className="mt-6 md:mt-8">
         <TrendingBar />
-      </div>
-
-      <div className="mt-12 md:mt-16">
-        <WhatsAppCTA />
       </div>
 
       <div className="mt-8 md:mt-10">
