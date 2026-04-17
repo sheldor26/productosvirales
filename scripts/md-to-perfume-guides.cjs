@@ -86,7 +86,15 @@ function parseArticle(text, headerName) {
   let cur = [];
   let inGrid = false;
   let inCompactCard = false;
+  let inCallout = false;
   for (const ln of lines) {
+    if (inCallout) {
+      cur.push(ln);
+      if (ln.trim() === ':::') {
+        blocks.push(cur); cur = []; inCallout = false;
+      }
+      continue;
+    }
     if (inCompactCard) {
       cur.push(ln);
       if (ln.trim() === '{{/PRODUCT-CARD-COMPACT}}') {
@@ -97,6 +105,12 @@ function parseArticle(text, headerName) {
     if (inGrid) {
       cur.push(ln);
       if (ln.includes('}}')) { blocks.push(cur); cur = []; inGrid = false; }
+      continue;
+    }
+    if (/^:::(note|warning|tip|update)(\s|$)/.test(ln.trim())) {
+      if (cur.length) { blocks.push(cur); cur = []; }
+      cur.push(ln);
+      inCallout = true;
       continue;
     }
     if (ln.trim().startsWith('{{PRODUCT-CARD-COMPACT')) {
@@ -152,6 +166,31 @@ function parseArticle(text, headerName) {
     const h3m = first.match(/^####\s*H3:\s*(.+)$/);
     if (h3m) {
       sections.push({ type: 'h3', title: h3m[1].trim() });
+      continue;
+    }
+
+    // CALLOUT: :::note / :::warning / :::tip / :::update
+    const calloutM = first.match(/^:::(note|warning|tip|update)(.*)$/);
+    if (calloutM) {
+      const variant = calloutM[1];
+      const attrs = {};
+      const attrRe = /(\w+)="([^"]+)"/g;
+      let am;
+      while ((am = attrRe.exec(calloutM[2])) !== null) attrs[am[1]] = am[2];
+      const contentLines = [];
+      for (let k = 1; k < blk.length; k++) {
+        const ln = blk[k].trim();
+        if (ln === ':::') break;
+        contentLines.push(blk[k]);
+      }
+      const out = {
+        type: 'callout',
+        calloutVariant: variant,
+        content: contentLines.join(' ').replace(/\s+/g, ' ').trim(),
+      };
+      if (attrs.fecha || attrs.date) out.date = attrs.fecha || attrs.date;
+      if (attrs.titulo || attrs.title) out.calloutTitle = attrs.titulo || attrs.title;
+      sections.push(out);
       continue;
     }
 

@@ -44,6 +44,7 @@ export interface TrendingKeyword {
 
 export type LabelColor = "green" | "blue" | "amber" | "purple";
 export type Intensity = "baja" | "media" | "alta" | "muy alta";
+export type CalloutVariant = "note" | "warning" | "tip" | "update";
 
 export interface GuideSection {
   type:
@@ -59,7 +60,8 @@ export interface GuideSection {
     | "toc"
     | "image"
     | "image-grid"
-    | "product-card";
+    | "product-card"
+    | "callout";
   id?: string;
   title?: string;
   content?: string;
@@ -87,6 +89,13 @@ export interface GuideSection {
   projection?: Intensity;
   /** "default" = full card (rankings, head-to-head). "compact" = dense, 1-line description, no notes. */
   variant?: "default" | "compact";
+
+  // ── callout fields ──────────────────────────────────
+  calloutVariant?: CalloutVariant;
+  /** Date for "update" variant, ISO string (e.g. "2026-04-17"). */
+  date?: string;
+  /** Optional override of the default label (NOTA/ATENCIÓN/TIP/ACTUALIZACIÓN). */
+  calloutTitle?: string;
 }
 
 export interface GuideFAQ {

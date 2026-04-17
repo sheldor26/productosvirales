@@ -192,6 +192,57 @@ function SectionRenderer({ section }: { section: GuideSection }) {
     case "product-card":
       return <ProductCard section={section} />;
 
+    case "callout": {
+      const variant = section.calloutVariant || "note";
+      const palette: Record<string, { bg: string; border: string; label: string; title: string }> = {
+        note: {
+          bg: "rgba(165, 142, 107, 0.06)",
+          border: "#8B7355",
+          label: "NOTA",
+          title: "#5A4A30",
+        },
+        warning: {
+          bg: "rgba(180, 120, 60, 0.08)",
+          border: "#B4783C",
+          label: "ATENCIÓN",
+          title: "#7A4E1A",
+        },
+        tip: {
+          bg: "rgba(80, 130, 80, 0.07)",
+          border: "#4F8F4F",
+          label: "TIP",
+          title: "#2E5F2E",
+        },
+        update: {
+          bg: "rgba(120, 90, 140, 0.07)",
+          border: "#7B5A8E",
+          label: "ACTUALIZACIÓN",
+          title: "#4E3465",
+        },
+      };
+      const p = palette[variant];
+      const headerText = section.calloutTitle || p.label;
+      const dateText = section.date
+        ? ` · ${new Date(section.date).toLocaleDateString("es-AR", { day: "numeric", month: "long", year: "numeric" })}`
+        : "";
+      return (
+        <aside
+          className="not-prose my-6 rounded-[6px] p-4 md:p-5 border-l-[3px]"
+          style={{ backgroundColor: p.bg, borderLeftColor: p.border }}
+        >
+          <p
+            className="text-[11px] font-semibold tracking-[0.14em] mb-2"
+            style={{ color: p.title }}
+          >
+            {headerText}{dateText}
+          </p>
+          <div className="text-[15px] md:text-base leading-[1.65] text-[var(--text-primary)]">
+            {section.content ? parseInlineLinks(section.content) : null}
+          </div>
+        </aside>
+      );
+    }
+
     case "image-grid": {
       const items = section.gridImages || [];
       if (items.length === 0) return null;
