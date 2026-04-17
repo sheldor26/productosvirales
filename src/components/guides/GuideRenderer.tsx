@@ -199,9 +199,14 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         <div className={`my-6 grid ${cols} gap-3`}>
           {items.map((it, i) => (
             <figure key={i} className="text-center">
-              <div className="rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)]">
+              <div className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)] flex items-center justify-center p-3">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={it.src} alt={it.alt} className="w-full h-auto" loading="lazy" />
+                <img
+                  src={it.src}
+                  alt={it.alt}
+                  className="max-w-full max-h-full object-contain"
+                  loading="lazy"
+                />
               </div>
               {it.caption && (
                 <figcaption className="mt-2 text-xs text-[var(--text-muted)]">{it.caption}</figcaption>
