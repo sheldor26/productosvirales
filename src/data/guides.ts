@@ -6,6 +6,14 @@ export function getPublishedGuides(): Guide[] {
   return guides.filter((g) => g.publishedDate <= today);
 }
 
+/** Published guides in the same category, excluding the current one, most recent first. */
+export function getRelatedGuides(current: Guide, limit = 4): Guide[] {
+  return getPublishedGuides()
+    .filter((g) => g.category === current.category && g.slug !== current.slug)
+    .sort((a, b) => b.publishedDate.localeCompare(a.publishedDate))
+    .slice(0, limit);
+}
+
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   // ARTÍCULO 1: Dónde comprar masajeadores en Argentina

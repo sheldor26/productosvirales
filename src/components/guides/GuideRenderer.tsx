@@ -3,6 +3,7 @@ import { ExternalLink, Target, Award, Tag } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
 import { ArticleHeader } from "./ArticleHeader";
+import { ArticleFooter } from "./ArticleFooter";
 import { ReadingProgressBar } from "./ReadingProgressBar";
 import { TableOfContents } from "./TableOfContents";
 import { ProductCard } from "./ProductCard";
@@ -439,9 +440,9 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
         </div>
       )}
 
-      {/* Internal links */}
+      {/* Legacy internal links — kept as subtle pill row above the new footer */}
       {guide.internalLinks && guide.internalLinks.length > 0 && (
-        <aside className="mt-10 p-5 rounded-[var(--radius-card)] bg-[var(--bg-secondary)] border border-[var(--border)]">
+        <aside className="mt-10 p-5 rounded-[6px] bg-[var(--bg-secondary)] border border-[var(--border)]">
           <p className="font-semibold text-[var(--text-primary)] mb-3">
             {guide.internalLinksTitle || "Guías relacionadas"}
           </p>
@@ -450,7 +451,8 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               <Link
                 key={link.href}
                 href={link.href}
-                className="inline-block px-3 py-1.5 text-sm rounded-[var(--radius-pill)] bg-[var(--bg-primary)] border border-[var(--border)] text-[var(--cta-bg)] hover:bg-[var(--bg-secondary)] transition-colors"
+                className="inline-block px-3 py-1.5 text-sm rounded-full bg-[var(--bg-primary)] border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
+                style={{ color: "var(--editorial-accent)" }}
               >
                 {link.label}
               </Link>
@@ -458,6 +460,8 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           </div>
         </aside>
       )}
+
+      <ArticleFooter guide={guide} />
         </article>
       </div>
     </div>
