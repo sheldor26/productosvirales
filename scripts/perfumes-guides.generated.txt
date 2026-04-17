@@ -264,18 +264,10 @@
         title: "1. Lattafa Asad Intense"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
-        alt: "Lattafa Asad Intense Hombre, puesto 1 ranking perfumes árabes masculinos 2026",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "El rey. Asad es el dupe más famoso de Creed Aventus, pero con el tiempo se ganó identidad propia. Piña de apertura, corazón con almizcle y ámbar gris, fondo de maderas. Proyección grande, duración de 10 horas para arriba. Si tenés que comprar uno solo de toda esta lista, este es el que te recomiendo."
-      },
-      {
-        type: "p",
-        content: "[Ver Asad Lattafa Intense Hombre](https://meli.la/26owfqo)"
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        description: "El rey. Asad es el dupe más famoso de Creed Aventus, pero con el tiempo se ganó identidad propia. Piña de apertura, corazón con almizcle y ámbar gris, fondo de maderas. Proyección grande, duración de 10 horas para arriba. Si tenés que comprar uno solo de toda esta lista, este es el que te recomiendo.",
+        ranking: 1
       },
       {
         type: "p",
@@ -286,18 +278,10 @@
         title: "2. Afnan 9PM"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/25-Afnan-9PM-100ml.webp",
-        alt: "Afnan 9PM 100ml, perfume árabe masculino viral TikTok 2026",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "El dulce masculino que arrasó en TikTok. Canela, manzana, ámbar, vainilla. Es un postre en perfume. Ideal para otoño e invierno, proyecta fuerte, dura 10 horas. No es para oficina: es para noche o para días que no tenés que impresionar a nadie en un sentido profesional."
-      },
-      {
-        type: "p",
-        content: "[Ver Afnan 9PM 100ml](https://meli.la/2Njx2cC)"
+        type: "product-card",
+        productMlaId: "MLA47054851",
+        description: "El dulce masculino que arrasó en TikTok. Canela, manzana, ámbar, vainilla. Es un postre en perfume. Ideal para otoño e invierno, proyecta fuerte, dura 10 horas. No es para oficina: es para noche o para días que no tenés que impresionar a nadie en un sentido profesional.",
+        ranking: 2
       },
       {
         type: "p",
@@ -308,18 +292,10 @@
         title: "3. Rasasi Hawas Ice"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/10-Rasasi-HawasIce-100ml.webp",
-        alt: "Rasasi Hawas Ice EDP 100ml, perfume árabe fresco masculino",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "El lado fresco del catálogo. Acuático, frutal, base de maderas blancas. Es el perfume \"para cualquier cosa\" de esta lista. Oficina, salida, primavera, verano. No se equivoca nunca."
-      },
-      {
-        type: "p",
-        content: "[Ver Rasasi Hawas Ice EDP 100ml](https://meli.la/24kQeRc)"
+        type: "product-card",
+        productMlaId: "MLA29780185",
+        description: "El lado fresco del catálogo. Acuático, frutal, base de maderas blancas. Es el perfume \"para cualquier cosa\" de esta lista. Oficina, salida, primavera, verano. No se equivoca nunca.",
+        ranking: 3
       },
       {
         type: "p",
@@ -330,162 +306,90 @@
         title: "4. Armaf Club de Nuit Intense Man"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/33-Armaf-ClubDeNuitIntenseMan-200ml.webp",
-        alt: "Armaf Club de Nuit Intense Man 200ml, el mejor dupe de Creed Aventus en Argentina",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "El mejor dupe de Creed Aventus que conseguís en Argentina, y viene en frasco de 200ml (el doble del estándar). Proyección casi invasiva, duración de 12 horas. Para bodas, cumpleaños, eventos donde querés que tu presencia quede. Para uso diario es excesivo."
-      },
-      {
-        type: "p",
-        content: "[Ver Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE)"
+        type: "product-card",
+        productMlaId: "MLA16122300",
+        description: "El mejor dupe de Creed Aventus que conseguís en Argentina, y viene en frasco de 200ml (el doble del estándar). Proyección casi invasiva, duración de 12 horas. Para bodas, cumpleaños, eventos donde querés que tu presencia quede. Para uso diario es excesivo.",
+        ranking: 4
       },
       {
         type: "h3",
         title: "5. Lattafa The Kingdom Man"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/32-Lattafa-TheKingdomMan-100ml.webp",
-        alt: "Lattafa The Kingdom Man 100ml, perfume árabe amaderado clásico",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Amaderado con oud suave y ámbar. Clásico, elegante, nada viral. Es el perfume que te ponés para una reunión importante, no para una primera cita. Si los frescos o los dulces no son lo tuyo, este es tu territorio."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa The Kingdom Man 100ml](https://meli.la/2aRjHd9)"
+        type: "product-card",
+        productMlaId: "MLA41178086",
+        description: "Amaderado con oud suave y ámbar. Clásico, elegante, nada viral. Es el perfume que te ponés para una reunión importante, no para una primera cita. Si los frescos o los dulces no son lo tuyo, este es tu territorio.",
+        ranking: 5
       },
       {
         type: "h3",
         title: "6. Mandarine Sky árabe"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/02-MandarineSky-Arabe-100ml.webp",
-        alt: "Mandarine Sky Árabe Masculino 100ml, clon accesible del Xerjoff",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Clon del Xerjoff Mandarine Sky, que sale arriba de $500 USD el 100ml. Cítrico intenso, limpio, con una base cremosa. Dupe sorprendentemente fiel al original."
-      },
-      {
-        type: "p",
-        content: "[Ver Mandarine Sky Árabe Masculino 100ml](https://meli.la/1kRWagc)"
+        type: "product-card",
+        productMlaId: "MLAU3812360798",
+        description: "Clon del Xerjoff Mandarine Sky, que sale arriba de $500 USD el 100ml. Cítrico intenso, limpio, con una base cremosa. Dupe sorprendentemente fiel al original.",
+        ranking: 6
       },
       {
         type: "h3",
         title: "7. Erba Pura árabe"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/07-ErbaPura-Arabe-100ml.webp",
-        alt: "Erba Pura Árabe Masculino 100ml, versión accesible del Xerjoff Erba Pura",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Versión accesible del Xerjoff Erba Pura. Frutal gourmand con bergamota y cassis, fondo de almizcle. Moderno, fácil de usar, le queda a casi cualquiera."
-      },
-      {
-        type: "p",
-        content: "[Ver Erba Pura Árabe Masculino 100ml](https://meli.la/2WydUup)"
+        type: "product-card",
+        productMlaId: "MLAU3671070084",
+        description: "Versión accesible del Xerjoff Erba Pura. Frutal gourmand con bergamota y cassis, fondo de almizcle. Moderno, fácil de usar, le queda a casi cualquiera.",
+        ranking: 7
       },
       {
         type: "h3",
         title: "8. Bharara King"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/17-Bharara-King-100ml.webp",
-        alt: "Bharara King EDP 100ml, perfume árabe oriental especiado menos conocido",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "La joya menos conocida de esta lista, y por eso la recomiendo. Oriental, especiado, con base de oud y ámbar. Si te cansaste de ver el mismo Lattafa en todos lados, Bharara King te diferencia sin perder calidad."
-      },
-      {
-        type: "p",
-        content: "[Ver Bharara King EDP 100ml](https://meli.la/2DTqjeW)"
+        type: "product-card",
+        productMlaId: "MLA19053146",
+        description: "La joya menos conocida de esta lista, y por eso la recomiendo. Oriental, especiado, con base de oud y ámbar. Si te cansaste de ver el mismo Lattafa en todos lados, Bharara King te diferencia sin perder calidad.",
+        ranking: 8
       },
       {
         type: "h3",
         title: "9. Armaf Odyssey Mandarin Sky"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/24-Armaf-OdysseyMandarinSky-100ml.webp",
-        alt: "Armaf Odyssey Mandarin Sky 100ml, variante fresca del Mandarine Sky",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Variante del Mandarine Sky con matices más frescos. Para uso diario, más versátil que el anterior."
-      },
-      {
-        type: "p",
-        content: "[Ver Armaf Odyssey Mandarin Sky 100ml](https://meli.la/1woeKmQ)"
+        type: "product-card",
+        productMlaId: "MLAU3452900219",
+        description: "Variante del Mandarine Sky con matices más frescos. Para uso diario, más versátil que el anterior.",
+        ranking: 9
       },
       {
         type: "h3",
         title: "10. Lattafa Qaed Al Fursan"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/08-Lattafa-QaedAlFursan-90ml.webp",
-        alt: "Lattafa Qaed Al Fursan EDP 90ml, amaderado especiado con cuero y tabaco",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Amaderado y especiado, con cuero y tabaco. Nocturno, serio, adulto. Es el Old Fashioned de esta lista: no es para todos pero quien lo entiende lo ama."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Qaed Al Fursan EDP 90ml](https://meli.la/2TnKuGC)"
+        type: "product-card",
+        productMlaId: "MLA22234109",
+        description: "Amaderado y especiado, con cuero y tabaco. Nocturno, serio, adulto. Es el Old Fashioned de esta lista: no es para todos pero quien lo entiende lo ama.",
+        ranking: 10
       },
       {
         type: "h3",
         title: "11. Lattafa Habik For Men"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/11-Lattafa-Habik-100ml.webp",
-        alt: "Lattafa Habik For Men 100ml, amaderado dulce discreto",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Dulce amaderado, más discreto que Asad. Si Asad te parece demasiado invasivo pero te gusta el perfil, Habik es tu puerta lateral."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Habik For Men 100ml](https://meli.la/1qWX1xU)"
+        type: "product-card",
+        productMlaId: "MLA54145870",
+        description: "Dulce amaderado, más discreto que Asad. Si Asad te parece demasiado invasivo pero te gusta el perfil, Habik es tu puerta lateral.",
+        ranking: 11
       },
       {
         type: "h3",
         title: "12. Afnan 9PM Elixir"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/29-Afnan-9PMElixir-100ml.webp",
-        alt: "Afnan 9PM Elixir 100ml, versión tuneada más concentrada",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "La versión tuneada del 9PM. Más todo: más proyección, más duración, más intensidad. Solo para fanáticos confirmados del perfil dulce oriental."
-      },
-      {
-        type: "p",
-        content: "[Ver Afnan 9PM Elixir 100ml](https://meli.la/1nRAN9K)"
+        type: "product-card",
+        productMlaId: "MLA53394464",
+        description: "La versión tuneada del 9PM. Más todo: más proyección, más duración, más intensidad. Solo para fanáticos confirmados del perfil dulce oriental.",
+        ranking: 12
       },
       {
         type: "h3",
@@ -840,144 +744,80 @@
         title: "1. Lattafa Asad Bourbon"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/03-AsadBourbonMarron-100ml.webp",
-        alt: "Lattafa Asad Bourbon Marrón 100ml, amaderado con tabaco y bourbon",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Arranca frutal con piña y manzana, y a la media hora se transforma en un corazón amaderado con bourbon y tabaco. El fondo es madera noble pura. Versátil como pocos: lo podés usar de día sin que te tape la cara, y de noche sin que te quede corto."
-      },
-      {
-        type: "p",
-        content: "[Ver Asad Bourbon Marrón 100ml](https://meli.la/1qWMdCK)"
+        type: "product-card",
+        productMlaId: "MLAU3798337289",
+        description: "Arranca frutal con piña y manzana, y a la media hora se transforma en un corazón amaderado con bourbon y tabaco. El fondo es madera noble pura. Versátil como pocos: lo podés usar de día sin que te tape la cara, y de noche sin que te quede corto.",
+        ranking: 1
       },
       {
         type: "h3",
         title: "2. Lattafa Qaed Al Fursan"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/08-Lattafa-QaedAlFursan-90ml.webp",
-        alt: "Lattafa Qaed Al Fursan EDP 90ml, amaderado especiado con cuero",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Especiado y amaderado, con cuero, tabaco y sándalo. Elegante, formal, adulto. Si vas a una reunión de negocios y necesitás transmitir seriedad, este es el perfume."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Qaed Al Fursan EDP 90ml](https://meli.la/2TnKuGC)"
+        type: "product-card",
+        productMlaId: "MLA22234109",
+        description: "Especiado y amaderado, con cuero, tabaco y sándalo. Elegante, formal, adulto. Si vas a una reunión de negocios y necesitás transmitir seriedad, este es el perfume.",
+        ranking: 2
       },
       {
         type: "h3",
         title: "3. Rasasi Hawas Black"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/14-Rasasi-HawasBlack-100ml-Unisex.webp",
-        alt: "Rasasi Hawas Black 100ml Unisex, oud pachulí ámbar nocturno",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "La cara oscura del Hawas. Base de oud, pachulí y ámbar. Nocturno. No lo uses en verano ni de día, no le hace bien al perfume ni a quien esté cerca."
-      },
-      {
-        type: "p",
-        content: "[Ver Rasasi Hawas Black 100ml Unisex](https://meli.la/2T9ofP2)"
+        type: "product-card",
+        productMlaId: "MLA41306043",
+        description: "La cara oscura del Hawas. Base de oud, pachulí y ámbar. Nocturno. No lo uses en verano ni de día, no le hace bien al perfume ni a quien esté cerca.",
+        ranking: 3
       },
       {
         type: "h3",
         title: "4. Maison Alhambra Sceptre Malachite"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/18-MaisonAlhambra-SceptreMalachite-100ml.webp",
-        alt: "Maison Alhambra Sceptre Malachite 100ml, clon de PdM Greenley",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Clon muy decente del Parfums de Marly Greenley. Verde amaderado con menta, galbanum y base de sándalo con almizcle blanco. Es el único de esta lista que funciona bien tanto de oficina como de salida."
-      },
-      {
-        type: "p",
-        content: "[Ver Maison Alhambra Sceptre Malachite 100ml](https://meli.la/2x5L5Ei)"
+        type: "product-card",
+        productMlaId: "MLA27855490",
+        description: "Clon muy decente del Parfums de Marly Greenley. Verde amaderado con menta, galbanum y base de sándalo con almizcle blanco. Es el único de esta lista que funciona bien tanto de oficina como de salida.",
+        ranking: 4
       },
       {
         type: "h3",
         title: "5. Lattafa Maahir Legacy"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/31-Lattafa-MaahirLegacy-100ml.webp",
-        alt: "Lattafa Maahir Legacy 100ml Premium, oud real con ámbar gris",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "La línea premium de Lattafa. Amaderado oriental con oud real y notas de ámbar gris. Es de los pocos de este rango de precio donde realmente notás que el oud no es sintético puro."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Maahir Legacy 100ml Premium](https://meli.la/25mgKqX)"
+        type: "product-card",
+        productMlaId: "MLA37755803",
+        description: "La línea premium de Lattafa. Amaderado oriental con oud real y notas de ámbar gris. Es de los pocos de este rango de precio donde realmente notás que el oud no es sintético puro.",
+        ranking: 5
       },
       {
         type: "h3",
         title: "6. Lattafa Bade'e Al Oud Noble Blush"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp",
-        alt: "Lattafa Bade'e Al Oud Noble Blush, oud floral femenino sensual",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Entra en esta lista aunque sea femenino, porque lo merece. Oud con rosa y oud sirio. Sensual, envolvente, y si sos hombre y te animás a usarlo, funciona. Los perfumes árabes fluidos entre géneros son una tradición con raíces antiguas, no una novedad."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Bade'e Al Oud Noble Blush Mujer](https://meli.la/1GvwbnM)"
+        type: "product-card",
+        productMlaId: "MLA43643712",
+        description: "Entra en esta lista aunque sea femenino, porque lo merece. Oud con rosa y oud sirio. Sensual, envolvente, y si sos hombre y te animás a usarlo, funciona. Los perfumes árabes fluidos entre géneros son una tradición con raíces antiguas, no una novedad.",
+        ranking: 6
       },
       {
         type: "h3",
         title: "7. Lattafa Habik For Men"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/11-Lattafa-Habik-100ml.webp",
-        alt: "Lattafa Habik For Men 100ml, amaderado dulce moderno",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Amaderado dulce, con vainilla, madera y un toque de cuero. Moderno, más juvenil que el resto de la lista. Buen primer amaderado para quien nunca probó el perfil."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Habik For Men 100ml](https://meli.la/1qWX1xU)"
+        type: "product-card",
+        productMlaId: "MLA54145870",
+        description: "Amaderado dulce, con vainilla, madera y un toque de cuero. Moderno, más juvenil que el resto de la lista. Buen primer amaderado para quien nunca probó el perfil.",
+        ranking: 7
       },
       {
         type: "h3",
         title: "8. Lattafa The Kingdom Man"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/32-Lattafa-TheKingdomMan-100ml.webp",
-        alt: "Lattafa The Kingdom Man 100ml, oud suave ámbar maderas nobles",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Amaderado clásico masculino. Oud suave, ámbar, maderas nobles. Serio, adulto, no te va a impresionar a los 20 años pero a los 40 lo vas a entender."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa The Kingdom Man 100ml](https://meli.la/2aRjHd9)"
+        type: "product-card",
+        productMlaId: "MLA41178086",
+        description: "Amaderado clásico masculino. Oud suave, ámbar, maderas nobles. Serio, adulto, no te va a impresionar a los 20 años pero a los 40 lo vas a entender.",
+        ranking: 8
       },
       {
         type: "h3",
@@ -1092,18 +932,10 @@
         title: "1. Lattafa Yara Elixir"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
-        alt: "Lattafa Yara Elixir EDP 100ml, el perfume árabe femenino más vendido 2026",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "La versión más intensa del perfume árabe más viral. Dulce, envolvente, con orquídea, vainilla y matices orientales. Dura 10 a 12 horas. Si tenés que elegir un solo árabe femenino, este es la apuesta más segura."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Yara Elixir EDP 100ml](https://meli.la/2NrY6fF)"
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        description: "La versión más intensa del perfume árabe más viral. Dulce, envolvente, con orquídea, vainilla y matices orientales. Dura 10 a 12 horas. Si tenés que elegir un solo árabe femenino, este es la apuesta más segura.",
+        ranking: 1
       },
       {
         type: "p",
@@ -1114,54 +946,30 @@
         title: "2. Yara Tous"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/28-Lattafa-YaraTous-Mujer-100ml.webp",
-        alt: "Yara Tous Lattafa Mujer 100ml, versión fresca cítrica",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Versión fresca y juvenil de la familia Yara. Cítricos, flores blancas y base ligera. Ideal para día, oficina y climas cálidos."
-      },
-      {
-        type: "p",
-        content: "[Ver Yara Tous Lattafa Mujer 100ml](https://meli.la/1kwTmSn)"
+        type: "product-card",
+        productMlaId: "MLA40521028",
+        description: "Versión fresca y juvenil de la familia Yara. Cítricos, flores blancas y base ligera. Ideal para día, oficina y climas cálidos.",
+        ranking: 2
       },
       {
         type: "h3",
         title: "3. Lattafa Her Confession"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/19-Lattafa-HerConfession-100ml.webp",
-        alt: "Lattafa Her Confession EDP 100ml, fragancia femenina sensual nocturna",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Dulce, sensual, con praliné, vainilla y fondo oriental. Perfume de noche clásico. Proyecta fuerte, quizás demasiado si lo usás de día."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Her Confession EDP 100ml](https://meli.la/1EBDqh9)"
+        type: "product-card",
+        productMlaId: "MLA41304983",
+        description: "Dulce, sensual, con praliné, vainilla y fondo oriental. Perfume de noche clásico. Proyecta fuerte, quizás demasiado si lo usás de día.",
+        ranking: 3
       },
       {
         type: "h3",
         title: "4. Lattafa Khamrah"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/22-Lattafa-Khamrah-100ml.webp",
-        alt: "Lattafa Khamrah EDP 100ml, dulce especiado con cardamomo y canela",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Dulce especiado con cardamomo, canela y vainilla. Unisex con leve tendencia femenina. Khamrah fue el perfume que puso a Lattafa en el mapa mundial antes incluso que Yara."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Khamrah EDP 100ml](https://meli.la/139RJXC)"
+        type: "product-card",
+        productMlaId: "MLA53013853",
+        description: "Dulce especiado con cardamomo, canela y vainilla. Unisex con leve tendencia femenina. Khamrah fue el perfume que puso a Lattafa en el mapa mundial antes incluso que Yara.",
+        ranking: 4
       },
       {
         type: "p",
@@ -1172,90 +980,50 @@
         title: "5. Lattafa Fakhar Woman"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/30-Lattafa-FakharWoman-100ml.webp",
-        alt: "Lattafa Fakhar Woman EDP 100ml, dulce amaderado con pera y almizcle",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Una bomba olfativa en el mejor sentido. Dulce amaderado con pera, almizcle y maderas nobles. Proyecta como pocos, dura 10 horas largas."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Fakhar Woman EDP 100ml](https://meli.la/2U3GQy8)"
+        type: "product-card",
+        productMlaId: "MLA28060225",
+        description: "Una bomba olfativa en el mejor sentido. Dulce amaderado con pera, almizcle y maderas nobles. Proyecta como pocos, dura 10 horas largas.",
+        ranking: 5
       },
       {
         type: "h3",
         title: "6. Lattafa Mayar"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/15-Lattafa-Mayar-100ml.webp",
-        alt: "Lattafa Mayar EDP 100ml, floral fresco con peonía y jazmín",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Floral fresco con peonía y jazmín. Más suave que el resto del catálogo Lattafa, más primaveral. El que uso yo para oficina o para días que no quiero llamar la atención con el perfume."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Mayar EDP 100ml](https://meli.la/1qrqLzC)"
+        type: "product-card",
+        productMlaId: "MLA25883660",
+        description: "Floral fresco con peonía y jazmín. Más suave que el resto del catálogo Lattafa, más primaveral. El que uso yo para oficina o para días que no quiero llamar la atención con el perfume.",
+        ranking: 6
       },
       {
         type: "h3",
         title: "7. Lattafa Bade'e Al Oud Noble Blush"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/27-Lattafa-BadeeAlOudNobleBlush-Mujer.webp",
-        alt: "Lattafa Bade'e Al Oud Noble Blush Mujer, rosa con oud sofisticada",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Rosa y oud. La combinación más clásica de la perfumería árabe, ejecutada con elegancia. Para ocasiones especiales donde querés salir del registro dulce-gourmand."
-      },
-      {
-        type: "p",
-        content: "[Ver Lattafa Bade'e Al Oud Noble Blush Mujer](https://meli.la/1GvwbnM)"
+        type: "product-card",
+        productMlaId: "MLA43643712",
+        description: "Rosa y oud. La combinación más clásica de la perfumería árabe, ejecutada con elegancia. Para ocasiones especiales donde querés salir del registro dulce-gourmand.",
+        ranking: 7
       },
       {
         type: "h3",
         title: "8. Sabah Al Ward"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/20-SabahAlWard-Mujer-100ml.webp",
-        alt: "Sabah Al Ward Mujer 100ml Floral, floral accesible con rosa y nardo",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "La opción más barata de esta lista. Floral puro con rosa y nardo. Lo recomiendo para regalar o para quien tiene presupuesto ajustado y quiere arrancar en el nicho sin compromiso. No es el perfume más complejo del mundo pero cumple."
-      },
-      {
-        type: "p",
-        content: "[Ver Sabah Al Ward Mujer 100ml Floral](https://meli.la/2AcVasU)"
+        type: "product-card",
+        productMlaId: "MLA49628348",
+        description: "La opción más barata de esta lista. Floral puro con rosa y nardo. Lo recomiendo para regalar o para quien tiene presupuesto ajustado y quiere arrancar en el nicho sin compromiso. No es el perfume más complejo del mundo pero cumple.",
+        ranking: 8
       },
       {
         type: "h3",
         title: "9. Fakhar Lattafa Pride Gold Extract"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/34-Lattafa-FakharPrideGoldExtract-Unisex.webp",
-        alt: "Fakhar Lattafa Pride Gold Extract Unisex, versión extrait de máxima concentración",
-        imageSize: "inline-lg"
-      },
-      {
-        type: "p",
-        content: "Versión extrait (más concentrada) de Fakhar. Unisex en etiqueta pero recomendado para mujer por el perfil dulce. Dura 12 horas mínimo."
-      },
-      {
-        type: "p",
-        content: "[Ver Fakhar Lattafa Pride Gold Extract Unisex](https://meli.la/2RmHufc)"
+        type: "product-card",
+        productMlaId: "MLA32488004",
+        description: "Versión extrait (más concentrada) de Fakhar. Unisex en etiqueta pero recomendado para mujer por el perfil dulce. Dura 12 horas mínimo.",
+        ranking: 9
       },
       {
         type: "h3",
