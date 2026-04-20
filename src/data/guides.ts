@@ -6203,7 +6203,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-04-17",
     hasDisclosure: true,
     quickPicks: [
-      { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El dupe más versátil de Creed Aventus. Si comprás uno solo, este." },
+      { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El más validado del catálogo: 7.245 reseñas, 4.6⭐ y 13h de duración real." },
       { productMlaId: "MLA16122300", label: "Para exigentes", labelColor: "amber", tagline: "200ml al doble del tamaño estándar. Proyecta como bomba." },
       { productMlaId: "MLA29780185", label: "Alternativa fresca", labelColor: "blue", tagline: "El más versátil del ranking. Oficina, salida, verano — no falla." },
       { productMlaId: "MLAU3800115477", label: "Para empezar", labelColor: "purple", tagline: "Kit de 4 miniaturas 35ml para probar antes de comprar un 100ml." },
@@ -6254,8 +6254,13 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA19715215",
-        description: "El rey. Asad es el dupe más famoso de Creed Aventus, pero con el tiempo se ganó identidad propia. Piña de apertura, corazón con almizcle y ámbar gris, fondo de maderas. Proyección grande, duración de 10 horas para arriba. Si tenés que comprar uno solo de toda esta lista, este es el que te recomiendo.",
+        description: "El rey. Apertura frutal con piña y bergamota. Corazón de café y flores que le da un carácter más cálido. Fondo amaderado con vainilla, ámbar gris y maderas secas. Proyección moderada, duración oficial de 13 horas (confirmada por las 7.245 reseñas en Mercado Libre). Si tenés que comprar uno solo de toda esta lista, este es el que te recomiendo.",
         ranking: 1
+      },
+      {
+        type: "callout",
+        calloutVariant: "note",
+        content: "Con **7.245 reseñas y rating 4.6** en Mercado Libre Argentina, Asad Intense es el perfume árabe masculino más validado del catálogo local. Ninguno de los otros 14 productos de este ranking tiene tanto volumen de opiniones."
       },
       {
         type: "p",
