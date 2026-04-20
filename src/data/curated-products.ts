@@ -12629,7 +12629,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   },
   {
     id: "MLA53394464",
-    title: "Perfume Afnan 9 Pm Elixir 100ml",
+    title: "Afnan 9PM Elixir Parfum Intense 100ml",
     price: 53369,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -12649,9 +12649,135 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     affiliateUrl: "https://meli.la/1nRAN9K",
     condition: "new",
     freeShipping: true,
-    rating: 5,
+    rating: 4.8,
+    reviewCount: 1060,
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Afnan",
+    line: "9PM Elixir",
+    version: "Elixir Parfum Intense",
+    gender: "Hombre",
+    perfumeType: "Parfum Intense",
+    concentration: "Parfum",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Negro con detalles marrón oscuro y dorado",
+
+    // ── Olfactive (ML oficial + reconstrucción línea 9PM) ────────
+    olfactiveFamily: ["Oriental", "Gourmand", "Especiado"],
+    notes: {
+      top: ["Pimienta negra", "Especias cálidas"],
+      heart: ["Canela", "Manzana especiada"],
+      base: ["Vainilla", "Ámbar", "Maderas nobles"],
+    },
+    notesDisclaimer:
+      "Mercado Libre oficializa pimienta negra, vainilla y especias como notas principales. La pirámide completa se reconstruye a partir de la línea 9PM original y el consenso de la comunidad de perfumería árabe. Las notas reales pueden variar según el olfato.",
+
+    // ── Performance ─────────────────────────────────────
+    duration: "Hasta 24 horas",
+    durationHours: 24,
+    projection: "Alta",
+
+    // ── Origin & production ─────────────────────────────
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2025,
+    crueltyFree: false,
+    vegan: false,
+    alcoholFree: false,
+
+    // ── Format ──────────────────────────────────────────
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: true,
+    isSet: false,
+
+    // ── Reviews snapshot ────────────────────────────────
+    aiReviewSummary:
+      "El perfume tiene un gran aroma y una excelente durabilidad, proyectando una estela notable durante varias horas. Su presentación y envase son atractivos, y el aroma inicial es delicioso, con notas de ciruela. Además, es considerado una opción de buena relación calidad-precio, siendo comparado favorablemente con otras fragancias reconocidas.",
+
+    // ── Editorial copy ──────────────────────────────────
+    headline:
+      "La versión más concentrada del 9PM: parfum intense con hasta 24 horas de duración y rating 4.8.",
+    shortDescription:
+      "Parfum Intense 100ml con mayor concentración que el 9PM estándar. Oriental especiado con pimienta negra, canela, vainilla y ámbar. Incluye estuche. Lanzamiento 2025.",
+    longDescription:
+      "9PM Elixir es la versión parfum intense del 9PM original de Afnan, lanzada en 2025. La diferencia principal con la versión EDP estándar es la concentración de aceite perfumado: al ser parfum, la fórmula tiene más esencia y menos alcohol, lo que se traduce en mayor duración y menor volatilidad en piel.\n\nComparte la identidad olfativa del 9PM clásico (oriental especiado con manzana, canela y vainilla) pero con una base más rica y densa. La apertura arranca con pimienta negra y especias cálidas, el corazón mantiene la canela y la manzana especiada características de la línea, y el fondo es donde aparece la diferencia: vainilla más profunda, ámbar envolvente y maderas nobles que construyen una estela que, según Afnan, puede durar hasta 24 horas en piel.\n\nLa proyección es alta, especialmente en los primeros 4 a 6 horas de uso. Es un perfume pensado para noche, ocasiones especiales y climas frescos. En verano puede ser pesado si se aplica de más. La presentación incluye estuche, lo que suma al posicionamiento premium del producto.\n\nEn reseñas de Mercado Libre Argentina tiene un rating de 4.8 sobre 1.060 calificaciones, un número alto para un producto de lanzamiento reciente. Las opiniones mencionan principalmente tres cosas: la duración, la comparación favorable con fragancias de precio mucho mayor, y las notas iniciales dulces-especiadas (algunos usuarios perciben ciruela o manzana caramelizada en la apertura).\n\nAfnan es una casa perfumera de Emiratos Árabes Unidos con décadas de trayectoria en el nicho árabe premium. A diferencia de Lattafa, Afnan no certifica sus productos como libres de crueldad animal.\n\nEl 9PM Elixir es la entrada al territorio parfum intense sin cruzar la barrera del precio europeo. Para quien ya conoce el 9PM estándar y quiere algo más concentrado, es la evolución natural. Para quien nunca probó la línea, tiene sentido empezar por el 9PM original y subir al Elixir si conecta con el perfil.",
+
+    // ── SEO ─────────────────────────────────────────────
+    seoTitle: "Afnan 9PM Elixir Parfum Intense 100ml: review y precio Argentina 2026",
+    metaDescription:
+      "Review completa de 9PM Elixir de Afnan: parfum intense con 24 horas de duración. Pirámide olfativa, diferencia con el 9PM estándar, rating 4.8 en ML.",
+    h1: "Afnan 9PM Elixir Parfum Intense 100ml: review y precio",
+
+    // ── Cross-sell ──────────────────────────────────────
+    relatedProducts: ["MLA47054851", "MLA19846768", "MLA19715215", "MLAU3798337289"],
+
+    // ── FAQ ─────────────────────────────────────────────
+    faq: [
+      {
+        question: "¿Cuál es la diferencia entre 9PM original y 9PM Elixir?",
+        answer:
+          "9PM original es un Eau de Parfum, 9PM Elixir es un Parfum Intense. El parfum tiene mayor concentración de aceite perfumado, menor cantidad de alcohol, y por lo tanto mayor duración en piel. Elixir también tiene una base más profunda con vainilla y ámbar más densos que el original.",
+      },
+      {
+        question: "¿Cuánto dura realmente en la piel?",
+        answer:
+          "Afnan indica hasta 24 horas oficiales, coherente con el hecho de ser parfum intense. Las reseñas de usuarios argentinos confirman que el aroma queda en la ropa al día siguiente. La proyección más fuerte se concentra en las primeras 4 a 6 horas.",
+      },
+      {
+        question: "¿Se puede usar en verano o es mejor en invierno?",
+        answer:
+          "Funciona mejor en otoño, invierno y climas frescos. El perfil oriental gourmand con vainilla y ámbar se potencia con el frío. En verano puede resultar pesado si se aplica de más, por eso se recomienda 1 o 2 sprays en lugar de 3.",
+      },
+      {
+        question: "¿Es libre de crueldad animal?",
+        answer:
+          "No. A diferencia de Lattafa que sí certifica sus productos como cruelty-free, Afnan no lo hace. Tampoco es vegano ni libre de alcohol.",
+      },
+      {
+        question: "¿Vale la pena vs el 9PM estándar?",
+        answer:
+          "Depende del uso. Si el 9PM estándar te dura bien y te cierra el precio, no hace falta subir al Elixir. Si buscás más duración, mayor profundidad en la base y una versión más premium del perfil, el Elixir justifica el diferencial.",
+      },
+      {
+        question: "¿Incluye estuche?",
+        answer:
+          "Sí. A diferencia de otros perfumes árabes que se venden sin caja de regalo adicional, 9PM Elixir incluye estuche, lo que lo hace buena opción para regalar.",
+      },
+    ],
+
+    // ── Structured data (Product + AggregateRating + Offer) ─────
+    structuredData: {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      name: "Afnan 9PM Elixir Parfum Intense 100ml",
+      image:
+        "https://productosvirales.com.ar/images/perfumes-imagenes/29-Afnan-9PMElixir-100ml.webp",
+      description:
+        "Parfum Intense oriental especiado con pimienta negra, canela, vainilla y ámbar. Duración de hasta 24 horas. Rating 4.8 con 1.060 reseñas verificadas.",
+      brand: { "@type": "Brand", name: "Afnan" },
+      category: "Perfume / Parfum Intense",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2025",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "1060",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1nRAN9K",
+        priceCurrency: "ARS",
+        price: "53369",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "Mercado Libre Argentina" },
+      },
+    },
   },
   {
     id: "MLA28060225",
