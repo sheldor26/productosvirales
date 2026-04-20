@@ -100,10 +100,24 @@ export default async function ProductPage({ params }: Props) {
 
   const baseOffers = (baseData as Record<string, unknown>).offers as Record<string, unknown> || {};
 
+  const baseAggregateRating = (baseData as Record<string, unknown>).aggregateRating;
+
   const jsonLd = {
     ...baseData,
     // Always ensure image is present — custom structuredData entries often omit it
     image: (baseData as Record<string, unknown>).image || product.images || product.image,
+    // Add aggregateRating when product has rating data and custom data doesn't already include it
+    ...(baseAggregateRating
+      ? { aggregateRating: baseAggregateRating }
+      : product.rating && product.soldQuantity
+        ? {
+            aggregateRating: {
+              "@type": "AggregateRating",
+              ratingValue: product.rating.toFixed(1),
+              reviewCount: String(product.soldQuantity),
+            },
+          }
+        : {}),
     offers: {
       ...baseOffers,
       shippingDetails: baseOffers.shippingDetails || {
