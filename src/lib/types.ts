@@ -34,6 +34,56 @@ export interface Product {
   structuredData?: Record<string, unknown>;
   relatedProducts?: string[]; // Array of product IDs for cross-linking
   visibility?: "featured" | "normal" | "deprioritized"; // Default: "normal" when omitted
+
+  // ─── Perfume metadata (optional, used by individual fichas) ───
+  brand?: string;
+  line?: string;            // e.g. "Yara"
+  version?: string;         // e.g. "Elixir"
+  gender?: "Hombre" | "Mujer" | "Unisex";
+  perfumeType?: string;     // e.g. "Eau de Parfum"
+  concentration?: string;   // "EDP" | "EDT" | "Parfum" | "EDC"
+  volume?: number;          // numeric volume
+  volumeUnit?: "mL" | "L";
+  color?: string;
+  priceUpdated?: string;    // ISO date when the price was last verified
+  reviewCount?: number;
+  reviewsWithPhotos?: number;
+  aiReviewSummary?: string;
+
+  // Olfactive data
+  olfactiveFamily?: string[];
+  notes?: {
+    top?: string[];
+    heart?: string[];
+    base?: string[];
+  };
+
+  duration?: string;        // human-readable, e.g. "8 horas"
+  durationHours?: number;
+  projection?: string;      // "Baja" | "Media" | "Media-alta" | "Alta"
+
+  originCountry?: string;
+  launchYear?: number;
+  crueltyFree?: boolean;
+  vegan?: boolean;
+  alcoholFree?: boolean;
+
+  applicationFormat?: "Spray" | "Roll-on" | "Splash" | "Atomizador";
+  refillable?: boolean;
+  includesCase?: boolean;
+  isSet?: boolean;
+
+  packageDimensions?: {
+    heightCm?: number;
+    lengthCm?: number;
+    widthCm?: number;
+    weightGrams?: number;
+  };
+
+  // Editorial copy (separate from generic description)
+  headline?: string;
+  shortDescription?: string;
+  longDescription?: string;
 }
 
 export interface TrendingKeyword {
