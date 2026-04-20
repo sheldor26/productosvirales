@@ -6092,19 +6092,27 @@ export const guides: Guide[] = [
         content: "Si tenés que elegir uno solo y no sabés cuál, ponete a pensar cuándo lo vas a usar más: de noche o de día. Esa respuesta resuelve el 90% de la duda."
       },
       {
+        type: "p",
+        content: "Con los precios actuales (abril 2026), Yara Tous cuesta $42.545 y Yara Elixir $68.000. La diferencia de $25.455 es significativa, y vale la pena pensarla. Elixir te da más concentración, más duración y mayor intensidad, pero Tous es una entrada mucho más accesible al nicho si es tu primer Yara."
+      },
+      {
         type: "h2",
         title: "Precios reales en Argentina (abril 2026)"
       },
       {
         type: "p",
-        content: "Los precios cambian con el dólar, pero hoy los rangos son:"
+        content: "Precios actualizados al 2026-04-20 desde MercadoLibre Argentina:"
       },
       {
         type: "list",
         items: [
-          "Yara original 100ml: $25.000 a $32.000",
-          "Yara Elixir 100ml: $32.000 a $42.000",
-          "Yara Tous 100ml: $28.000 a $36.000"
+          "[Yara Tous 100ml](https://meli.la/1kwTmSn): **$42.545**",
+          "[Yara Moi 100ml](https://meli.la/1qBuAFB): **$46.538**",
+          "[Yara Candy 100ml](https://meli.la/2XYzvaU): **$51.339**",
+          "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **$68.000**",
+          "[Yara original 100ml](https://meli.la/2nDMa11): **$95.940** (importado, menos disponible)",
+          "[My Yara Collection Set x4](https://meli.la/2jd7cJf): **$71.559**",
+          "[Set Yara Rosa + Candy](https://meli.la/2qjxA7G): **$88.556**"
         ]
       },
       {
