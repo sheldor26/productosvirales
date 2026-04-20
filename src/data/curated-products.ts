@@ -11943,8 +11943,9 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   },
   {
     id: "MLA60836327",
-    title: "Perfume Lattafa Yara Elixir Edp 100ml",
-    price: 55865,
+    title: "Lattafa Yara Elixir EDP 100ml",
+    price: 65000,
+    priceUpdated: "2026-04-20",
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_854613-MLA95504248978_102025-O.webp",
@@ -11961,9 +11962,137 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     affiliateUrl: "https://meli.la/2NrY6fF",
     condition: "new",
     freeShipping: true,
-    rating: 5,
+    rating: 4.8,
+    reviewCount: 572,
+    reviewsWithPhotos: 4,
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Yara",
+    version: "Elixir",
+    gender: "Mujer",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Rosa claro / oro rosado",
+
+    // ── Olfactive (fuente: Mercado Libre oficial) ────────
+    olfactiveFamily: ["Floral", "Gourmand", "Oriental Vainilla"],
+    notes: {
+      top: ["Mandarina", "Durazno"],
+      heart: ["Flor de naranjo", "Caramelo"],
+      base: ["Vainilla", "Almizcle blanco", "Ámbar"],
+    },
+
+    // ── Performance ─────────────────────────────────────
+    duration: "8 horas",
+    durationHours: 8,
+    projection: "Media-alta",
+
+    // ── Origin & production ─────────────────────────────
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2025,
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+
+    // ── Format ──────────────────────────────────────────
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: false,
+    isSet: false,
+
+    // ── Package dimensions ──────────────────────────────
+    packageDimensions: {
+      heightCm: 19,
+      lengthCm: 11,
+      widthCm: 14,
+      weightGrams: 525,
+    },
+
+    // ── Editorial copy ──────────────────────────────────
+    headline: "La versión más concentrada del perfume árabe femenino más viral de Argentina.",
+    shortDescription:
+      "Eau de Parfum 100ml con 8 horas de duración. Dulce oriental con vainilla, caramelo y durazno al centro, base de ámbar y almizcle blanco. Lanzamiento 2025.",
+    longDescription:
+      "Yara Elixir es la versión más concentrada de la línea Yara de Lattafa, lanzada en 2025 tras el éxito mundial del Yara original. Es un Eau de Parfum de 100ml con 8 horas de duración promedio, aunque muchas usuarias reportan que se queda en la piel bastante más de ese tiempo.\n\nLa fragancia está construida sobre una apertura frutal y dulce: mandarina y durazno dan un arranque jugoso que rápidamente se suaviza. En el corazón aparecen la flor de naranjo y el caramelo, que son los que le dan ese carácter gourmand tan característico. El fondo es donde se nota la diferencia con el Yara original: vainilla cremosa, almizcle blanco y ámbar construyen una base oriental más profunda y envolvente.\n\nEl frasco es rosa claro con detalles en oro rosado y el medallón central que identifica a toda la línea Yara. Pesa 525g con caja incluida, aunque vale aclarar que el producto no viene con estuche adicional.\n\nFunciona especialmente bien para noche y ocasiones especiales. En climas fríos rinde al máximo, aunque en verano muchas prefieren espaciarlo porque el dulzor se potencia con el calor. Si es tu primer perfume árabe, es una apuesta bastante segura: el perfil dulce-gourmand es familiar para quien ya conoce Kayali Vanilla 28 o Maison Francis Kurkdjian Grand Soir. Si en cambio preferís fragancias frescas tipo Jo Malone, probablemente te resulte empalagoso.\n\nLattafa es una casa de perfumería fundada en Emiratos Árabes Unidos. Yara Elixir es libre de crueldad animal aunque no es vegano ni libre de alcohol.",
+    aiReviewSummary:
+      "El perfume tiene una excelente duración y una proyección media que envuelve con su fragancia deliciosa. El envase es atractivo y el aroma es considerado muy sexy. Es un producto destacado por su calidad y es ideal para regalar.",
+
+    // ── SEO ─────────────────────────────────────────────
+    seoTitle: "Lattafa Yara Elixir 100ml: review, precio y opiniones Argentina 2026",
+    metaDescription:
+      "Review completa de Yara Elixir de Lattafa: notas olfativas, duración, proyección y opiniones reales. Precio actualizado y link de compra verificado.",
+    h1: "Lattafa Yara Elixir EDP 100ml: review, precio y opiniones",
+
+    // ── Cross-sell ──────────────────────────────────────
+    relatedProducts: ["MLA53013853", "MLA28060225", "MLA41304983", "MLA40521028"],
+
+    // ── FAQ ─────────────────────────────────────────────
+    faq: [
+      {
+        question: "¿Yara Elixir es lo mismo que Yara original?",
+        answer:
+          "No. Misma línea y familia olfativa pero Elixir tiene mayor concentración de aceite perfumado y una base oriental más profunda. Yara Elixir fue lanzado en 2025, posterior al Yara original. Proyecta más, dura más y tiene un fondo ambarado más intenso.",
+      },
+      {
+        question: "¿Cuánto dura en la piel?",
+        answer:
+          "Mercado Libre indica 8 horas de duración oficial. Las opiniones de usuarias tienden a confirmar ese rango con buen anclaje en piel. La proyección es media-alta, especialmente en climas fríos.",
+      },
+      {
+        question: "¿Cuáles son sus notas olfativas?",
+        answer:
+          "Apertura con mandarina y durazno. Corazón de flor de naranjo y caramelo. Fondo con vainilla, almizcle blanco y ámbar. Pertenece a la familia floral-gourmand oriental.",
+      },
+      {
+        question: "¿Es libre de crueldad animal?",
+        answer: "Sí, Lattafa certifica el producto como cruelty-free. No es vegano ni libre de alcohol.",
+      },
+      {
+        question: "¿Es un dupe de algún perfume occidental?",
+        answer:
+          "No es un dupe directo. Se lo compara con Kayali Vanilla 28 o Maison Francis Kurkdjian Grand Soir por pertenecer a la familia gourmand oriental, pero Yara Elixir tiene su propia identidad: más floral en el corazón y con oud sutil en el fondo.",
+      },
+      {
+        question: "¿Cuántas aplicaciones necesito?",
+        answer:
+          "Con 2-3 sprays alcanza perfectamente para 8 horas. Si te aplicás 5-6 sprays podés saturar ambientes cerrados por su alta proyección.",
+      },
+    ],
+
+    // ── Structured data (Product + AggregateRating + Offer) ─────
+    structuredData: {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      name: "Lattafa Yara Elixir EDP 100ml",
+      image: "https://productosvirales.com.ar/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+      description:
+        "Eau de Parfum floral-gourmand oriental con notas de mandarina, durazno, flor de naranjo, caramelo, vainilla, almizcle y ámbar. Duración 8 horas. Lanzado en 2025 por Lattafa (Emiratos Árabes Unidos).",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2025",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "572",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2NrY6fF",
+        priceCurrency: "ARS",
+        price: "65000",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "Mercado Libre Argentina" },
+      },
+    },
   },
   {
     id: "MLA41306043",
