@@ -6220,6 +6220,11 @@ export const guides: Guide[] = [
         imageSize: "hero"
       },
       {
+        type: "callout",
+        calloutVariant: "tip",
+        content: "[Afnan 9PM Elixir](https://meli.la/1nRAN9K) está en un momento de precio atractivo. El lanzamiento 2025 había arrancado en un rango cercano a los $100.000 (coherente con ser parfum intense), y en abril 2026 se puede conseguir a $53.369 en varios vendedores. La baja puede deberse a competencia entre importadores y no es seguro que se mantenga. Si estabas esperando para probarlo, este es un buen momento."
+      },
+      {
         type: "h2",
         title: "Antes de comprar, tres cosas prácticas"
       },
