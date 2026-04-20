@@ -11865,7 +11865,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   },
   {
     id: "MLA19715215",
-    title: "Asad Lattafa Intense Hombre Edp Arabe Elegante Sexy",
+    title: "Lattafa Asad Intense Hombre EDP 100ml",
     price: 45160,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -11885,8 +11885,133 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     affiliateUrl: "https://meli.la/26owfqo",
     condition: "new",
     freeShipping: true,
-    rating: 5,
+    rating: 4.6,
+    reviewCount: 7245,
     pastelColor: "var(--pastel-pink)",
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Asad",
+    version: "Intense",
+    gender: "Hombre",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Negro con dorado",
+
+    // ── Olfactive (consenso de imagen promocional + comunidad) ──
+    olfactiveFamily: ["Amaderado", "Afrutado", "Gourmand", "Oriental"],
+    notes: {
+      top: ["Piña", "Bergamota"],
+      heart: ["Café", "Flores (iris, flor blanca)"],
+      base: ["Vainilla", "Ámbar gris", "Maderas secas", "Oud sutil"],
+    },
+    notesDisclaimer:
+      "La pirámide olfativa oficial de Lattafa para Asad Intense no siempre coincide entre fuentes. Las notas listadas surgen de la composición visual que Lattafa comunica en sus imágenes promocionales y del consenso de la comunidad de perfumería.",
+
+    // ── Performance ─────────────────────────────────────
+    duration: "13 horas",
+    durationHours: 13,
+    projection: "Moderada",
+
+    // ── Origin & production ─────────────────────────────
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2024,
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+
+    // ── Format ──────────────────────────────────────────
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: false,
+    isSet: false,
+
+    // ── Reviews snapshot ────────────────────────────────
+    aiReviewSummary:
+      "El perfume tiene un aroma masculino y elegante, con una fragancia que dura mucho tiempo y a un buen precio. Su proyección es moderada, creando una burbuja personal atractiva que es notada por quienes están alrededor. La presentación es impecable, con un envase resistente y un atomizador de lujo.",
+
+    // ── Editorial copy ──────────────────────────────────
+    headline:
+      "El perfume árabe masculino más validado del mercado argentino: 7.245 reseñas y rating 4.6.",
+    shortDescription:
+      "Eau de Parfum 100ml con 13 horas de duración. Amaderado afrutado con piña, café, vainilla y ámbar. Presentación en frasco negro con medallón dorado.",
+    longDescription:
+      "Asad es el perfume estrella de Lattafa para hombre y uno de los más vendidos del nicho árabe en Argentina. La versión Intense, que es la que llega con más fuerza al mercado local, es un amaderado afrutado con estructura que recuerda a los clásicos modernos: apertura frutal con piña, corazón con café y flores, fondo amaderado con vainilla y ámbar.\n\nDura 13 horas según la información oficial de Lattafa, lo cual es coherente con las reseñas de usuarios argentinos: casi todos mencionan que se queda en la ropa al día siguiente. La proyección es moderada en lugar de invasiva, lo que lo hace apto tanto para oficina como para salida, sin ser \"demasiado\" en ambientes cerrados.\n\nAsad suele compararse con perfumes occidentales de alto precio por su perfil frutal-amaderado, aunque no es una imitación directa. Tiene identidad propia, con un carácter más especiado y menos ahumado que los referentes clásicos del perfil.\n\nEl frasco es uno de los más reconocibles del catálogo Lattafa: negro mate con detalles dorados y un medallón central que es parte de la identidad visual de la marca. La caja viene con diseño de león (asad significa \"león\" en árabe), un guiño al posicionamiento masculino del producto.\n\nEs una buena puerta de entrada a la perfumería árabe masculina si nunca probaste un Lattafa. En el ranking del sitio figura como #1 en perfumes árabes de hombre, posición que se mantiene por la combinación de calidad, duración, precio accesible y validación en reseñas.",
+
+    // ── SEO ─────────────────────────────────────────────
+    seoTitle: "Lattafa Asad Intense 100ml: review, opiniones y precio Argentina 2026",
+    metaDescription:
+      "Review completa de Asad Intense de Lattafa: notas olfativas, duración real, proyección y 7.245 opiniones verificadas en Mercado Libre. Precio actualizado.",
+    h1: "Lattafa Asad Intense Hombre EDP 100ml: review, opiniones y precio",
+
+    // ── Cross-sell ──────────────────────────────────────
+    relatedProducts: ["MLAU3798337289", "MLAU3562485598", "MLA47054851", "MLA16122300"],
+
+    // ── FAQ ─────────────────────────────────────────────
+    faq: [
+      {
+        question: "¿Cuánto dura Asad Intense en la piel?",
+        answer:
+          "Lattafa indica 13 horas oficiales. Las reseñas verificadas en Mercado Libre confirman ese rango, con muchos usuarios reportando que el aroma persiste en la ropa al día siguiente.",
+      },
+      {
+        question: "¿Qué tan fuerte proyecta?",
+        answer:
+          "Proyección moderada. Se siente cerca del cuerpo y en ambientes próximos, sin saturar espacios grandes. Esto lo hace adecuado tanto para oficina como para ocasiones sociales.",
+      },
+      {
+        question: "¿Es un dupe de Creed Aventus o Montblanc Explorer?",
+        answer:
+          "Se lo suele comparar con fragancias premium por su perfil frutal-amaderado, pero no es una imitación directa de ninguna en particular. Tiene identidad propia con notas de piña, café, vainilla y ámbar.",
+      },
+      {
+        question: "¿Cuál es la diferencia entre Asad, Asad Intense y Asad Bourbon?",
+        answer:
+          "Asad original es la versión base (2021). Asad Intense tiene mayor concentración y es la más vendida en Argentina. Asad Bourbon incorpora notas de tabaco y bourbon, con un perfil más adulto. Asad Negro es la variante más oscura de la familia.",
+      },
+      {
+        question: "¿Es libre de crueldad animal?",
+        answer: "Sí, Lattafa certifica el producto como cruelty-free. No es vegano.",
+      },
+      {
+        question: "¿Cuántas aplicaciones necesito?",
+        answer:
+          "Con 2-3 sprays en pecho y muñecas alcanza para las 13 horas de duración. Con 4-5 sprays puede volverse muy intenso en ambientes cerrados.",
+      },
+    ],
+
+    // ── Structured data (Product + AggregateRating + Offer) ─────
+    structuredData: {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      name: "Lattafa Asad Intense Hombre EDP 100ml",
+      image:
+        "https://productosvirales.com.ar/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
+      description:
+        "Eau de Parfum amaderado afrutado con piña, café, vainilla y ámbar. Duración 13 horas. Rating 4.6 con 7.245 reseñas verificadas.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2024",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "7245",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/26owfqo",
+        priceCurrency: "ARS",
+        price: "45160",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "Mercado Libre Argentina" },
+      },
+    },
   },
   {
     id: "MLA29780185",

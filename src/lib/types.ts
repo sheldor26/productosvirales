@@ -59,6 +59,8 @@ export interface Product {
     heart?: string[];
     base?: string[];
   };
+  /** Editorial caveat shown next to the olfactive notes when sources disagree. */
+  notesDisclaimer?: string;
 
   duration?: string;        // human-readable, e.g. "8 horas"
   durationHours?: number;
