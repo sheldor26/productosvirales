@@ -6001,7 +6001,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Lattafa es una casa de perfumes de Emiratos Árabes Unidos. La línea Yara arrancó con una fórmula de orquídea, vainilla y almizcle, con un dulzor denso que algunos comparan con Kayali Vanilla 28 pero con un giro más oriental."
+        content: "Lattafa es una casa de perfumes de Emiratos Árabes Unidos. La línea Yara arrancó en 2020 con la versión original, una fórmula dulce oriental que se hizo viral en TikTok durante 2022-2023. Lattafa fue expandiendo la familia con nuevas variantes, y en 2025 lanzó Yara Elixir, la versión más concentrada e intensa, que hoy es la más buscada en Argentina."
       },
       {
         type: "p",
@@ -6031,7 +6031,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "La versión más intensa. Misma familia olfativa que el original pero con mayor concentración y una base oriental con ámbar y un toque sutil de oud. Proyecta más lejos y dura entre 10 y 12 horas en piel. Es el Yara que recomiendo para quien ya conoce el perfil y quiere algo con más presencia."
+        content: "La versión más intensa de toda la familia. Apertura frutal con mandarina y durazno que deriva en un corazón gourmand con flor de naranjo y caramelo. El fondo es donde se diferencia del Yara original: vainilla cremosa, almizcle blanco y ámbar construyen una base oriental envolvente. Proyecta alto y dura 8 horas según Lattafa, aunque muchas usuarias reportan más. Lanzado en 2025."
       },
       {
         type: "p",
@@ -6884,7 +6884,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-04-17",
     hasDisclosure: true,
     quickPicks: [
-      { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 10-12h de duración." },
+      { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
       { productMlaId: "MLA40521028", label: "Alternativa fresca", labelColor: "blue", tagline: "Yara Tous: versión cítrica ligera, ideal para oficina y verano." },
       { productMlaId: "MLA41304983", label: "Gourmand premium", labelColor: "amber", tagline: "Her Confession: dulce sensual con praliné, vainilla y base oriental." },
       { productMlaId: "MLA49628348", label: "Para empezar", labelColor: "purple", tagline: "Sabah Al Ward: floral accesible, la puerta de entrada al nicho." },
@@ -6927,7 +6927,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA60836327",
-        description: "La versión más intensa del perfume árabe más viral. Dulce, envolvente, con orquídea, vainilla y matices orientales. Dura 10 a 12 horas. Si tenés que elegir un solo árabe femenino, este es la apuesta más segura.",
+        description: "La versión más intensa del perfume árabe más viral. Apertura con mandarina y durazno, corazón de flor de naranjo y caramelo, base oriental con vainilla, almizcle y ámbar. Dura 8 horas según Lattafa con buen anclaje. Lanzada en 2025.",
         ranking: 1
       },
       {
