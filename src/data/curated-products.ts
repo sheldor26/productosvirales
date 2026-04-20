@@ -12198,7 +12198,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA19053146",
     title: "Bharara King Eau de Parfum 100ml para hombre",
-    price: 137817,
+    price: 112249,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
     originalPrice: undefined,
@@ -12505,7 +12505,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA53394464",
     title: "Perfume Afnan 9 Pm Elixir 100ml",
-    price: 51000,
+    price: 53369,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
     originalPrice: undefined,
