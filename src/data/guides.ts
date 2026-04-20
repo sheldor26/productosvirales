@@ -6220,6 +6220,11 @@ export const guides: Guide[] = [
         imageSize: "hero"
       },
       {
+        type: "callout",
+        calloutVariant: "tip",
+        content: "Desde abril 2026, [Afnan 9PM Elixir](https://meli.la/1nRAN9K) bajó de ~$100.000 a $51.000 en varios vendedores. Es la mejor oportunidad de precio del catálogo masculino en este momento, aunque puede fluctuar."
+      },
+      {
         type: "h2",
         title: "Antes de comprar, tres cosas prácticas"
       },
@@ -6918,7 +6923,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Precio, antes que nada. Un perfume árabe premium cuesta entre $30.000 y $55.000. Un occidental premium (Dior, Chanel, YSL) cuesta entre $200.000 y $500.000 importado. No es comparable."
+        content: "Precio, antes que nada. Un perfume árabe femenino bueno cuesta entre $42.000 y $95.000 según la versión (los Yara, por ejemplo, van de $42.545 el Tous a $95.940 el original importado). Un occidental premium (Dior, Chanel, YSL) cuesta entre $250.000 y $500.000 importado. No es comparable."
       },
       {
         type: "p",
