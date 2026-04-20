@@ -6220,11 +6220,6 @@ export const guides: Guide[] = [
         imageSize: "hero"
       },
       {
-        type: "callout",
-        calloutVariant: "tip",
-        content: "Desde abril 2026, [Afnan 9PM Elixir](https://meli.la/1nRAN9K) bajó de ~$100.000 a $51.000 en varios vendedores. Es la mejor oportunidad de precio del catálogo masculino en este momento, aunque puede fluctuar."
-      },
-      {
         type: "h2",
         title: "Antes de comprar, tres cosas prácticas"
       },
@@ -6341,7 +6336,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA19053146",
-        description: "Oriental, especiado, con base de oud y ámbar. Bharara King quedó en rango premium ($137.817), pero para quien busca un oriental especiado único sin repetir Lattafa, vale el diferencial de precio.",
+        description: "La joya menos conocida de esta lista, y por eso la recomiendo. Oriental, especiado, con base de oud y ámbar. Si te cansaste de ver el mismo Lattafa en todos lados, Bharara King te diferencia sin perder calidad.",
         ranking: 8
       },
       {
