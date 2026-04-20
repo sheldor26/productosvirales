@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ExternalLink, Star } from "lucide-react";
+import { ExternalLink, Package, Star } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
@@ -112,6 +112,12 @@ export function ProductCard({ section }: ProductCardProps) {
                 {section.description}
               </p>
             )}
+            {product.includesCase && (
+              <p className="text-[10px] text-[var(--text-muted)] flex items-center gap-1">
+                <Package size={10} aria-hidden="true" />
+                <span>Incluye estuche</span>
+              </p>
+            )}
             <a
               href={product.affiliateUrl}
               target="_blank"
@@ -211,6 +217,13 @@ export function ProductCard({ section }: ProductCardProps) {
                 </span>
               )}
             </div>
+          )}
+
+          {product.includesCase && (
+            <p className="text-xs text-[var(--text-muted)] flex items-center gap-1.5">
+              <Package size={12} aria-hidden="true" />
+              <span>Incluye estuche</span>
+            </p>
           )}
 
           <div className="flex flex-wrap gap-2 pt-2">
