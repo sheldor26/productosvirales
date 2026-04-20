@@ -118,13 +118,21 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
         </Link>
 
         <div className="flex items-center justify-between mt-2.5">
-          <div className="flex items-baseline gap-1.5">
+          <div className="flex items-baseline gap-1.5 flex-wrap">
             <span className="text-[18px] font-bold text-[var(--text-primary)]">
               {formatPrice(price)}
             </span>
             {originalPrice && (
               <span className="text-xs text-[var(--text-muted)] line-through">
                 {formatPrice(originalPrice)}
+              </span>
+            )}
+            {product.priceStatus === "stale" && (
+              <span
+                className="text-[10px] text-amber-600 font-medium"
+                title="Precio puede haber cambiado, verificá en MercadoLibre"
+              >
+                ⚠ verificar
               </span>
             )}
           </div>
