@@ -6471,11 +6471,11 @@ export const guides: Guide[] = [
           "Qué encontrás"
         ],
         rows: [
-          ["$16.000 a $35.000", "Sets de descubrimiento y básicos (Al Wataniah, Asad Bourbon, Qaed Al Fursan)"],
-          ["$35.000 a $50.000", "Núcleo Lattafa + Afnan (Asad Intense, Yara Tous, Khamrah, 9PM)"],
-          ["$50.000 a $75.000", "Línea premium y Lattafa femeninos (Yara Elixir, Her Confession, Habik, Mayar)"],
-          ["$75.000 a $100.000", "Top de Rasasi y ediciones especiales (Hawas Ice, Emeer, Hawas Black)"],
-          ["$100.000 en adelante", "Piezas exclusivas y ediciones aniversario (Club de Nuit 200ml, Bharara King)"]
+          ["$16.000 – $35.000", "Sets de descubrimiento y básicos accesibles (Al Wataniah, Asad Bourbon, Qaed Al Fursan, Set 4 unisex)"],
+          ["$35.000 – $50.000", "Núcleo del catálogo (Asad Intense, Yara Tous, Khamrah, Fakhar Woman, Afnan 9PM, Mandarine Sky)"],
+          ["$50.000 – $70.000", "Línea media-alta (Yara Elixir, Her Confession, Habik, Mayar, Vintage Radio Pride, Bade'e Al Oud)"],
+          ["$70.000 – $90.000", "Premium (Kingdom Man, Hawas Ice, Hawas Black, Emeer Caja con Luces, Erba Pura Árabe)"],
+          ["$100.000+", "Top tier (Armaf Odyssey, Bharara King, Club de Nuit Intense 200ml)"]
         ]
       },
       {
@@ -6497,9 +6497,9 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "**Básicos** ($30.000–50.000): [Qaed Al Fursan](https://meli.la/2TnKuGC), [Mayar](https://meli.la/1qrqLzC), [Khamrah Qahwa](https://meli.la/1B8Vwwf), [Asad Intense](https://meli.la/26owfqo), [Khamrah](https://meli.la/139RJXC).",
-          "**Medios** ($50.000–75.000): [Maahir Legacy](https://meli.la/25mgKqX), [Her Confession](https://meli.la/1EBDqh9), [Habik](https://meli.la/1qWX1xU), [Yara Elixir](https://meli.la/2NrY6fF).",
-          "**Premium** ($70.000–100.000): [Emeer Caja con Luces](https://meli.la/21q6DEg), [Kingdom Man](https://meli.la/2aRjHd9)."
+          "**Básica/media** ($30.000–50.000): [Qaed Al Fursan](https://meli.la/2TnKuGC), [Mayar](https://meli.la/1qrqLzC), [Khamrah](https://meli.la/139RJXC), [Khamrah Qahwa](https://meli.la/1B8Vwwf), [Asad Intense](https://meli.la/26owfqo), [Asad Bourbon](https://meli.la/1qWMdCK).",
+          "**Media-alta** ($50.000–70.000): [Maahir Legacy](https://meli.la/25mgKqX), [Her Confession](https://meli.la/1EBDqh9), [Habik](https://meli.la/1qWX1xU), [Yara Elixir](https://meli.la/2NrY6fF), [Vintage Radio Pride](https://meli.la/2Vzf4eN), [Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM).",
+          "**Premium** ($70.000+): [Kingdom Man](https://meli.la/2aRjHd9), [Emeer Caja con Luces](https://meli.la/21q6DEg)."
         ]
       },
       {
@@ -6516,13 +6516,14 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Premium accesible. Afnan 9PM es su producto más conocido mundialmente. Rango actual $43.000–51.000."
+        content: "Premium accesible. Afnan 9PM es su producto más conocido mundialmente. Rango actual $43.000–53.000."
       },
       {
         type: "list",
         items: [
           "[Afnan 9PM 100ml](https://meli.la/2Njx2cC): $43.998",
-          "[Afnan 9PM Elixir](https://meli.la/1nRAN9K): $51.000 (bajó fuerte, antes era casi el doble)"
+          "[Afnan 9PM Caballero](https://meli.la/2WWHx34): $47.214",
+          "[Afnan 9PM Elixir](https://meli.la/1nRAN9K): $53.369"
         ]
       },
       {
@@ -6603,13 +6604,26 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
+        title: "Bharara"
+      },
+      {
+        type: "p",
+        content: "Marca menos conocida en Argentina, con propuesta diferente al circuito Lattafa/Afnan/Rasasi."
+      },
+      {
+        type: "list",
+        items: [
+          "[Bharara King](https://meli.la/2DTqjeW): $112.249"
+        ]
+      },
+      {
+        type: "h3",
         title: "Otras marcas"
       },
       {
         type: "list",
         items: [
-          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): $32.990",
-          "[Bharara King EDP](https://meli.la/2DTqjeW): $137.817 (subió fuerte, ahora está en tier premium)"
+          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): $32.990"
         ]
       },
       {
@@ -6646,20 +6660,19 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Entre $30.000 y $50.000 — perfume decente para uso diario**. El núcleo del catálogo. [Asad Intense](https://meli.la/26owfqo) ($45.160) es el pick masculino. [Yara Tous](https://meli.la/1kwTmSn) ($42.545) o [Fakhar Woman](https://meli.la/2U3GQy8) ($44.000) son los femeninos."
+        content: "**Entre $30.000 y $50.000 — primer perfume árabe**. El núcleo del catálogo. [Asad Intense](https://meli.la/26owfqo) ($45.160) es el pick masculino. [Yara Tous](https://meli.la/1kwTmSn) ($42.545), [Fakhar Woman](https://meli.la/2U3GQy8) ($44.000) o [Sabah Al Ward](https://meli.la/2AcVasU) ($44.086) son las opciones femeninas. [Mandarine Sky](https://meli.la/1kRWagc) ($45.950) si preferís cítricos modernos."
       },
       {
         type: "p",
-        content: "**Entre $50.000 y $80.000 — perfume de referencia**. [Yara Elixir](https://meli.la/2NrY6fF) ($68.000), [Her Confession](https://meli.la/1EBDqh9) ($65.000), [Khamrah](https://meli.la/139RJXC) ($48.513 todavía entra acá). [Kingdom Man](https://meli.la/2aRjHd9) ($71.198)."
+        content: "**Entre $50.000 y $70.000 — un perfume con presencia**. [Yara Elixir](https://meli.la/2NrY6fF) ($68.000), [Her Confession](https://meli.la/1EBDqh9) ($65.000), [Khamrah Qahwa](https://meli.la/1B8Vwwf) ($49.485), [Habik](https://meli.la/1qWX1xU) ($65.799). Para masculino, [Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM) ($57.999). Acá empiezan los perfumes de referencia."
       },
       {
         type: "p",
-        content: "**Entre $80.000 y $150.000 — colección premium**. [Hawas Ice](https://meli.la/24kQeRc) ($83.599), [Emeer con luces](https://meli.la/21q6DEg) ($75.811), [Club de Nuit Intense 200ml](https://meli.la/1BzsFJE) ($139.000), [Bharara King](https://meli.la/2DTqjeW) ($137.817)."
+        content: "**Entre $70.000 y $100.000 — colección premium**. [Kingdom Man](https://meli.la/2aRjHd9) ($71.198), [Emeer Caja con Luces](https://meli.la/21q6DEg) ($75.811), [Hawas Black](https://meli.la/2T9ofP2) ($75.388), [Hawas Ice](https://meli.la/24kQeRc) ($83.599), [Erba Pura Árabe](https://meli.la/2WydUup) ($73.160). Perfumes para quien ya conoce el nicho y busca algo con más carácter."
       },
       {
-        type: "callout",
-        calloutVariant: "tip",
-        content: "El [Afnan 9PM Elixir](https://meli.la/1nRAN9K) bajó de $100.000 a $51.000 en abril 2026. Es una oportunidad puntual difícil de encontrar en otras casas premium — chequealo antes de que vuelva al precio normal."
+        type: "p",
+        content: "**Más de $100.000 — piezas únicas**. [Bharara King](https://meli.la/2DTqjeW) ($112.249), [Club de Nuit Intense 200ml](https://meli.la/1BzsFJE) ($139.000). El formato 200ml del Club de Nuit es clave: viene al doble del tamaño estándar, así que el precio por ml es similar al resto."
       },
       {
         type: "h2",
