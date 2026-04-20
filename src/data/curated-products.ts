@@ -11688,7 +11688,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLAU3812360798",
     title: "Perfume Mandarine Sky Árabe Masculino 100ml Genérico",
-    price: 48399.12,
+    price: 45949.52,
     originalPrice: 54999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_661919-MLA109638077344_042026-O.webp",
@@ -11827,7 +11827,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA22234109",
     title: "Lattafa Qaed Al Fursan Eau De Parfum 90ml",
-    price: 26315.93,
+    price: 30050.91,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_684631-MLA82422251758_022025-O.webp",
@@ -11850,7 +11850,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA19715215",
     title: "Asad Lattafa Intense Hombre Edp Arabe Elegante Sexy",
-    price: 44700,
+    price: 45160,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_907563-MLA109737984135_032026-O.webp",
@@ -11873,7 +11873,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA29780185",
     title: "Perfume Hombre Rasasi Hawas Ice Edp 100ml",
-    price: 86039,
+    price: 83599.05,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_654367-MLA106812740328_022026-O.webp",
@@ -11896,7 +11896,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA54145870",
     title: "Lattafa Habik For Men Eau De Parfum 100 Ml",
-    price: 69999,
+    price: 65799.06,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_989539-MLA90887126108_082025-O.webp",
@@ -11920,7 +11920,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA29077943",
     title: "Perfume Vintage Radio Lattafa Pride 100 Ml",
-    price: 66663,
+    price: 69932,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_780711-MLU73983279778_012024-O.webp",
@@ -11944,7 +11944,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA60836327",
     title: "Lattafa Yara Elixir EDP 100ml",
-    price: 65000,
+    price: 68000,
     priceUpdated: "2026-04-20",
     originalPrice: undefined,
     currency: "ARS",
@@ -12087,7 +12087,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
         "@type": "Offer",
         url: "https://meli.la/2NrY6fF",
         priceCurrency: "ARS",
-        price: "65000",
+        price: "68000",
         priceValidUntil: "2026-12-31",
         availability: "https://schema.org/InStock",
         seller: { "@type": "Organization", name: "Mercado Libre Argentina" },
@@ -12097,7 +12097,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA41306043",
     title: "Perfume Rasasi Hawas Black 100ml Eau De Parfum Aromático Frutal Unisex",
-    price: 76190,
+    price: 75388,
     originalPrice: 80200,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_677810-MLA79663066925_092024-O.webp",
@@ -12121,7 +12121,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA25883660",
     title: "Lattafa - Mayar Edp X100ml",
-    price: 58000,
+    price: 58900,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_823820-MLA108928480482_032026-O.webp",
@@ -12144,7 +12144,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA31178643",
     title: "Perfume Lattafa Khamrah Qahwa Edp 100ml",
-    price: 52916,
+    price: 49484.55,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_927931-MLU74237320276_022024-O.webp",
@@ -12167,7 +12167,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA19053146",
     title: "Bharara King Eau de Parfum 100ml para hombre",
-    price: 108348,
+    price: 137817,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_795844-MLA83441100293_032025-O.webp",
@@ -12190,7 +12190,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA27855490",
     title: "Perfume Arabe Maison Alhambra Sceptre Malachite Edp 100 Ml",
-    price: 55158,
+    price: 55499,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_614386-MLA84461336440_052025-O.webp",
@@ -12214,7 +12214,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA41304983",
     title: "Lattafa Her Confession Eau De Parfum 100ml Volumen de la unidad 100 mL",
-    price: 63500,
+    price: 65000,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_912355-MLA79660276657_092024-O.webp",
@@ -12238,7 +12238,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA49628348",
     title: "Perfume Sabah Al Ward Mujer Eau de Parfum 100 mL Floral Oriental",
-    price: 43999,
+    price: 44086.35,
     originalPrice: 53000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_780669-MLA106862517965_022026-O.webp",
@@ -12285,7 +12285,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA53013853",
     title: "Perfume Lattafa Khamrah Edp 100ml",
-    price: 56350,
+    price: 48513,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_693834-MLA87960579696_072025-O.webp",
@@ -12309,7 +12309,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA19846768",
     title: "Perfume Afnan 9pm 100 ml Eau de Parfum Para Caballero",
-    price: 48856,
+    price: 47214,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_720063-MLA82293709802_022025-O.webp",
@@ -12355,7 +12355,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA47054851",
     title: "Perfume Afnan 9 Pm 100 Ml Eau De Parfum",
-    price: 47999,
+    price: 43998,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_962207-MLA82995060901_032025-O.webp",
@@ -12403,7 +12403,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA43643712",
     title: "Perfume Mujer Lattafa Bade'e Al Oud Noble Blush Edp 100ml",
-    price: 49400,
+    price: 57999,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_698361-MLA108911848440_032026-O.webp",
@@ -12426,7 +12426,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA40521028",
     title: "Perfume Arabe Yara Tous Lattafa Eau De Parfum Mujer 100 Ml",
-    price: 55289.99,
+    price: 42545,
     originalPrice: 59999.99,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_970139-MLU79111808311_092024-O.webp",
@@ -12450,7 +12450,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA53394464",
     title: "Perfume Afnan 9 Pm Elixir 100ml",
-    price: 99999,
+    price: 51000,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_776923-MLA92133817881_092025-O.webp",
@@ -12522,7 +12522,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA41178086",
     title: "Perfume Hombre Lattafa The Kingdom Man 100 Ml",
-    price: 73000,
+    price: 71198,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_814087-MLA109746863051_032026-O.webp",
@@ -12545,7 +12545,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA16122300",
     title: "Armaf Club de Nuit Intense Man EDP 200ml",
-    price: 140000,
+    price: 139000,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_621158-MLA46711412900_072021-O.webp",
@@ -12569,7 +12569,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA32488004",
     title: "Perfume Unisex Fakhar Lattafa Pride Gold Extract Edp 100 Ml",
-    price: 41800,
+    price: 47574,
     originalPrice: 44000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_997771-MLA109751517873_032026-O.webp",
@@ -12593,7 +12593,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA28754461",
     title: "Lattafa Emeer Eau De Parfum Arabe Caja Con Luces De 100 Ml",
-    price: 80236,
+    price: 75811,
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_800174-MLU76534007924_052024-O.webp",
