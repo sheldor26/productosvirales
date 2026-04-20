@@ -6093,7 +6093,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Con los precios actuales (abril 2026), Yara Tous cuesta $42.545 y Yara Elixir $68.000. La diferencia de $25.455 es significativa, y vale la pena pensarla. Elixir te da más concentración, más duración y mayor intensidad, pero Tous es una entrada mucho más accesible al nicho si es tu primer Yara."
+        content: "Con los precios actuales (abril 2026), Yara Tous cuesta $42.545 y Yara Elixir $68.000. La diferencia es de $25.455, bastante notoria. Elixir te da más concentración, más duración y una base oriental más envolvente. Tous es más accesible y más fácil de usar en cualquier contexto. Si es tu primer Yara, Tous es una puerta de entrada más cómoda al presupuesto."
       },
       {
         type: "h2",
