@@ -6458,11 +6458,11 @@ export const guides: Guide[] = [
           "Qué encontrás"
         ],
         rows: [
-          ["$10.000 a $20.000", "Miniaturas 35ml, sets de descubrimiento"],
-          ["$20.000 a $35.000", "Lattafa básicos, Afnan, Rasasi línea estándar"],
-          ["$35.000 a $55.000", "Lattafa premium, Armaf Club de Nuit, Maison Alhambra"],
-          ["$55.000 a $80.000", "Ediciones limitadas, elixires, extracts"],
-          ["$80.000 o más", "Extraits de parfum y líneas de colección"]
+          ["$16.000 a $35.000", "Sets de descubrimiento y básicos (Al Wataniah, Asad Bourbon, Qaed Al Fursan)"],
+          ["$35.000 a $50.000", "Núcleo Lattafa + Afnan (Asad Intense, Yara Tous, Khamrah, 9PM)"],
+          ["$50.000 a $75.000", "Línea premium y Lattafa femeninos (Yara Elixir, Her Confession, Habik, Mayar)"],
+          ["$75.000 a $100.000", "Top de Rasasi y ediciones especiales (Hawas Ice, Emeer, Hawas Black)"],
+          ["$100.000 en adelante", "Piezas exclusivas y ediciones aniversario (Club de Nuit 200ml, Bharara King)"]
         ]
       },
       {
@@ -6484,10 +6484,9 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "**Línea básica** (Mayar, Habik): $22.000 a $30.000.",
-          "**Línea media** (Asad, Khamrah, Yara original): $28.000 a $38.000. Ejemplos: [Khamrah](https://meli.la/139RJXC), [Asad Intense](https://meli.la/26owfqo).",
-          "**Línea premium** (Yara Elixir, Fakhar, Maahir): $38.000 a $55.000. Ejemplos: [Yara Elixir](https://meli.la/2NrY6fF), [Fakhar Woman](https://meli.la/2U3GQy8), [Maahir Legacy](https://meli.la/25mgKqX).",
-          "**Ediciones especiales** (Emeer con luces, Pride Gold): $45.000 a $65.000."
+          "**Básicos** ($30.000–50.000): [Qaed Al Fursan](https://meli.la/2TnKuGC), [Mayar](https://meli.la/1qrqLzC), [Khamrah Qahwa](https://meli.la/1B8Vwwf), [Asad Intense](https://meli.la/26owfqo), [Khamrah](https://meli.la/139RJXC).",
+          "**Medios** ($50.000–75.000): [Maahir Legacy](https://meli.la/25mgKqX), [Her Confession](https://meli.la/1EBDqh9), [Habik](https://meli.la/1qWX1xU), [Yara Elixir](https://meli.la/2NrY6fF).",
+          "**Premium** ($70.000–100.000): [Emeer Caja con Luces](https://meli.la/21q6DEg), [Kingdom Man](https://meli.la/2aRjHd9)."
         ]
       },
       {
@@ -6504,13 +6503,13 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Premium accesible. Afnan 9PM es su producto más conocido mundialmente."
+        content: "Premium accesible. Afnan 9PM es su producto más conocido mundialmente. Rango actual $43.000–51.000."
       },
       {
         type: "list",
         items: [
-          "[Afnan 9PM 100ml](https://meli.la/2Njx2cC): $35.000 a $42.000",
-          "[Afnan 9PM Elixir](https://meli.la/1nRAN9K): $45.000 a $55.000"
+          "[Afnan 9PM 100ml](https://meli.la/2Njx2cC): $43.998",
+          "[Afnan 9PM Elixir](https://meli.la/1nRAN9K): $51.000 (bajó fuerte, antes era casi el doble)"
         ]
       },
       {
@@ -6527,13 +6526,13 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Casa veterana del nicho, con frascos bien diseñados."
+        content: "Casa veterana del nicho, con frascos bien diseñados. Rango actual $75.000–85.000 — son los premium accesibles del catálogo."
       },
       {
         type: "list",
         items: [
-          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): $38.000 a $45.000",
-          "[Rasasi Hawas Black](https://meli.la/2T9ofP2): $40.000 a $48.000"
+          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): $83.599",
+          "[Rasasi Hawas Black](https://meli.la/2T9ofP2): $75.388"
         ]
       },
       {
@@ -6550,13 +6549,13 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "La marca de los dupes. Club de Nuit Intense Man es su referencia."
+        content: "La marca de los dupes. Club de Nuit Intense Man es su referencia. Subió a top tier este año — rango actual $110.000–140.000."
       },
       {
         type: "list",
         items: [
-          "[Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): $45.000 a $55.000 (ojo: viene en 200ml, el doble del estándar)",
-          "[Armaf Odyssey Mandarin Sky](https://meli.la/1woeKmQ): $35.000 a $42.000"
+          "[Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): $139.000 (viene en 200ml, el doble del estándar)",
+          "[Armaf Odyssey Mandarin Sky](https://meli.la/1woeKmQ): $110.263"
         ]
       },
       {
@@ -6573,12 +6572,12 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Especialistas en clones de perfumes de nicho europeo."
+        content: "Especialistas en clones de perfumes de nicho europeo. Sigue en rango medio-alto."
       },
       {
         type: "list",
         items: [
-          "[Sceptre Malachite 100ml](https://meli.la/2x5L5Ei): $42.000 a $52.000"
+          "[Sceptre Malachite 100ml](https://meli.la/2x5L5Ei): $55.499"
         ]
       },
       {
@@ -6596,8 +6595,8 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): $28.000 a $35.000",
-          "[Bharara King EDP](https://meli.la/2DTqjeW): $32.000 a $40.000"
+          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): $32.990",
+          "[Bharara King EDP](https://meli.la/2DTqjeW): $137.817 (subió fuerte, ahora está en tier premium)"
         ]
       },
       {
@@ -6614,7 +6613,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Entre $15.000 y $25.000: probar sin compromiso**. Un set de descubrimiento te resuelve — cuatro fragancias distintas por menos de lo que sale un solo 100ml."
+        content: "**Entre $16.000 y $30.000 — probar sin compromiso**. Sets de descubrimiento. El [Set 4 unisex](https://meli.la/1T1B9sw) cuesta $16.745 y el [Kit 4 hombre](https://meli.la/2AWZpVQ) $16.104. Si querés un 100ml para arrancar, [Al Wataniah Bareeq](https://meli.la/1hq7XUU) está a $32.990."
       },
       {
         type: "product-card",
@@ -6634,15 +6633,20 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Entre $25.000 y $35.000: un perfume decente para uso diario**. Cualquier Lattafa básico o medio. Yara original, Mayar, Habik. Si te pescás una oferta de Asad o Khamrah, mejor."
+        content: "**Entre $30.000 y $50.000 — perfume decente para uso diario**. El núcleo del catálogo. [Asad Intense](https://meli.la/26owfqo) ($45.160) es el pick masculino. [Yara Tous](https://meli.la/1kwTmSn) ($42.545) o [Fakhar Woman](https://meli.la/2U3GQy8) ($44.000) son los femeninos."
       },
       {
         type: "p",
-        content: "**Entre $80.000 y $120.000: colección balanceada**. Tres perfumes: uno fresco (Hawas Ice o Mandarine Sky), uno intenso (Asad o 9PM), uno versátil (Khamrah)."
+        content: "**Entre $50.000 y $80.000 — perfume de referencia**. [Yara Elixir](https://meli.la/2NrY6fF) ($68.000), [Her Confession](https://meli.la/1EBDqh9) ($65.000), [Khamrah](https://meli.la/139RJXC) ($48.513 todavía entra acá). [Kingdom Man](https://meli.la/2aRjHd9) ($71.198)."
       },
       {
         type: "p",
-        content: "**Más de $150.000: colección seria**. Entrás a los elixires, extraits y ediciones limitadas. Un combo Yara Elixir + Fakhar + Club de Nuit Intense te cubre femenino, masculino y ocasión especial."
+        content: "**Entre $80.000 y $150.000 — colección premium**. [Hawas Ice](https://meli.la/24kQeRc) ($83.599), [Emeer con luces](https://meli.la/21q6DEg) ($75.811), [Club de Nuit Intense 200ml](https://meli.la/1BzsFJE) ($139.000), [Bharara King](https://meli.la/2DTqjeW) ($137.817)."
+      },
+      {
+        type: "callout",
+        calloutVariant: "tip",
+        content: "El [Afnan 9PM Elixir](https://meli.la/1nRAN9K) bajó de $100.000 a $51.000 en abril 2026. Es una oportunidad puntual difícil de encontrar en otras casas premium — chequealo antes de que vuelva al precio normal."
       },
       {
         type: "h2",
