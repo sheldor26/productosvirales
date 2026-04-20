@@ -6341,7 +6341,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA19053146",
-        description: "La joya menos conocida de esta lista, y por eso la recomiendo. Oriental, especiado, con base de oud y ámbar. Si te cansaste de ver el mismo Lattafa en todos lados, Bharara King te diferencia sin perder calidad.",
+        description: "Oriental, especiado, con base de oud y ámbar. Bharara King quedó en rango premium ($137.817), pero para quien busca un oriental especiado único sin repetir Lattafa, vale el diferencial de precio.",
         ranking: 8
       },
       {
