@@ -6381,7 +6381,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA53394464",
-        description: "La versión tuneada del 9PM. Más todo: más proyección, más duración, más intensidad. Solo para fanáticos confirmados del perfil dulce oriental.",
+        description: "9PM Elixir es la versión Parfum Intense del 9PM original, lanzada en 2025. No es una variante más: es una categoría distinta de concentración. Tiene menor cantidad de alcohol y mayor cantidad de aceite perfumado, lo que se traduce en hasta 24 horas de duración según Afnan. La pirámide mantiene el perfil especiado dulce del original (pimienta negra, canela, manzana, vainilla) pero con base más rica en ámbar y maderas. Rating 4.8 con 1.060 reseñas verificadas en Mercado Libre. Incluye estuche.",
         ranking: 12
       },
       {
