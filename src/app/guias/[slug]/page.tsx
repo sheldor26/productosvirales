@@ -6,6 +6,9 @@ import { GuideRenderer } from "@/components/guides/GuideRenderer";
 // Revalidate daily so scheduled guides go live on their publishedDate
 export const revalidate = 86400;
 
+// Allow routes not pre-built at deploy time to be generated on first visit
+export const dynamicParams = true;
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
