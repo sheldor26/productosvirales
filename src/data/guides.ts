@@ -6268,17 +6268,86 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA19715215",
-        description: "El rey. Apertura frutal con piña y bergamota. Corazón de café y flores que le da un carácter más cálido. Fondo amaderado con vainilla, ámbar gris y maderas secas. Proyección moderada, duración oficial de 13 horas (confirmada por las 7.245 reseñas en Mercado Libre). Si tenés que comprar uno solo de toda esta lista, este es el que te recomiendo.",
+        description: "El rey. Apertura especiada y frutal con pimienta negra, piña y tabaco. Corazón de pachulí, café e iris. Fondo amaderado con vainilla, ámbar, madera seca, benjuí y ládano. Proyección alta, duración real de 6 a 10 horas en piel (más en ropa). Lattafa indica 13h oficiales. Si tenés que comprar uno solo de toda esta lista, este es el que te recomiendo.",
         ranking: 1
-      },
-      {
-        type: "callout",
-        calloutVariant: "note",
-        content: "Con **7.245 reseñas y rating 4.6** en Mercado Libre Argentina, Asad Intense es el perfume árabe masculino más validado del catálogo local. Ninguno de los otros 14 productos de este ranking tiene tanto volumen de opiniones."
       },
       {
         type: "p",
         content: "Asad tiene dos variantes más: [Asad Bourbon](https://meli.la/1qWMdCK), que mete notas de tabaco y bourbon, y [Asad Negro](https://meli.la/2t9EpWq), la versión más oscura. Cuál conviene de los tres lo analicé en detalle en [la comparativa de los Asad](/guias/lattafa-asad-comparativa)."
+      },
+      {
+        type: "h2",
+        title: "Qué dicen los 7.245 compradores del Asad Intense"
+      },
+      {
+        type: "p",
+        content: "Como el Asad Intense es por mucho el producto más validado del catálogo argentino, vale la pena mirar qué dicen sus compradores en Mercado Libre. Procesamos 170 reseñas reales de Argentina, Brasil, Chile, Uruguay y Colombia, y los patrones son sorprendentemente consistentes."
+      },
+      {
+        type: "h3",
+        title: "Lo que la mayoría destaca"
+      },
+      {
+        type: "p",
+        content: "La proyección es el factor más elogiado. Un comprador argentino lo resume así: \"3 sprays y proyecta que da calambre\". La estela se nota durante al menos 4 horas después de aplicado, y ese es el rasgo que más menciona la comunidad. Por eso, el consenso es claro: con 3 sprays alcanza, más cantidad puede ser demasiado en ambientes cerrados."
+      },
+      {
+        type: "p",
+        content: "Sobre duración, los números varían según la piel. Oficialmente Afnan informa 13 horas, pero los compradores reportan entre **6 y 10 horas en piel**, con permanencia notable en ropa al día siguiente. Unos pocos reportan duración menor (4-6 horas), lo que en varios casos coincide con sospecha de falsificación."
+      },
+      {
+        type: "p",
+        content: "La comparación más frecuente es con **Dior Sauvage Elixir**. Muchos compradores lo adquirieron buscando un clon, y el veredicto es matizado: son similares pero no idénticos. El Asad tiene una apertura más frutal (piña) y un fondo avainillado más marcado. Algunos prefieren al Sauvage, otros al Asad. La diferencia de precio (Asad vale una décima parte) inclina la balanza para la mayoría."
+      },
+      {
+        type: "pull-quote",
+        content: "Producto original. Es realmente una locura, 3 sprays y proyecta que da calambre, dura 8 horas por lo menos y le gusta a todo el mundo.",
+        attribution: "— Comprador en Argentina, septiembre 2024 · 180 personas lo encontraron útil"
+      },
+      {
+        type: "h3",
+        title: "Lo que algunos advierten"
+      },
+      {
+        type: "p",
+        content: "El perfume se percibe como \"maduro\" o \"para hombres +30 años\". Varios compradores lo describen como apropiado para noche, eventos elegantes y casamientos, pero no para oficina diurna ni verano caluroso. \"En verano matás a alguien\" es una frase que aparece en más de una reseña."
+      },
+      {
+        type: "p",
+        content: "La estacionalidad es un factor real: funciona mejor en otoño-invierno que en primavera-verano. Si vivís en zona con clima cálido durante gran parte del año, tenelo en cuenta antes de comprar."
+      },
+      {
+        type: "pull-quote",
+        content: "Me la jugué y compré a ciegas. Es ideal para un casamiento. Es solo para otoño-invierno, en verano matás a alguien. Pesado, dulce, alicorado y algo especiado. Proyecta y se hace notar. Dura mucho.",
+        attribution: "— Comprador en Argentina, junio 2025 · 55 personas lo encontraron útil"
+      },
+      {
+        type: "h3",
+        title: "Sobre autenticidad y falsificaciones"
+      },
+      {
+        type: "p",
+        content: "Este producto tiene muchas versiones falsas en circulación. Los compradores que detectaron falsificaciones coinciden en estas señales:"
+      },
+      {
+        type: "list",
+        items: [
+          "Tapa floja o que se sale al quitarla",
+          "Acabado dorado de mala calidad",
+          "Dibujo central que es un adhesivo (el original tiene relieve)",
+          "Líquido muy transparente (el original tiene tono amarillento-dorado)",
+          "Código QR que no lleva al sitio oficial de Lattafa",
+          "Envase o caja con defectos de impresión"
+        ]
+      },
+      {
+        type: "p",
+        content: "La mejor defensa es comprar de vendedores con reputación Mercado Líder Platinum o Mercado Líder Gold, verificar las señales al recibir el producto, y no dejarse tentar por precios muy por debajo del promedio del mercado."
+      },
+      {
+        type: "pull-quote",
+        content: "Lo compré a ciegas siguiendo opiniones que decían que se parece al Sauvage Elixir de Dior, pero no se parece casi nada. Diferente a lo que pensé, más intenso, pero rico y perdurable.",
+        attribution: "— Comprador en Chile, agosto 2023 · 116 personas lo encontraron útil"
       },
       {
         type: "h3",
