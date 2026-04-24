@@ -2436,6 +2436,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver Femmto Cervical Shiatsu en MercadoLibre", href: "https://meli.la/1VsNQ2J" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA24127896", label: "Para cervicales", labelColor: "green" },
       {
         type: "card",
         card: {
@@ -2451,6 +2452,8 @@ export const guides: Guide[] = [
           ],
         },
       },
+      { type: "product-card", productMlaId: "MLA28420339", label: "Asiento shiatsu", labelColor: "amber" },
+      { type: "product-card", productMlaId: "MLAU274288377", label: "Para auto y silla", labelColor: "blue" },
       { type: "h2", title: "Pistolas de masaje para espalda" },
       { type: "p", content: "Si tu problema son contracturas reales, las pistolas de masaje son mejores que las almohadillas. Más potencia, más precisión, más control. La contra es que necesitás aplicártela vos, y llegar a la espalda media requiere un poco de gimnasia con el brazo (o que alguien te ayude)." },
       {
@@ -2465,6 +2468,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver Femmto Brushless en MercadoLibre", href: "https://meli.la/1cUYmpY" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA37908577", label: "Para contracturas", labelColor: "amber" },
       {
         type: "card",
         card: {
@@ -2477,6 +2481,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver Caliber Percutor en MercadoLibre", href: "https://meli.la/2gqPvgW" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA25263767", label: "Con mayor alcance", labelColor: "purple" },
       { type: "verdict", content: "Mi recomendación: si el dolor es en cervicales y trapecios, el Femmto Cervical Shiatsu por $31.393 es portátil y lo usás solo. Si querés algo pasivo para la silla, los asientos shiatsu. Y si ya tenés contracturas fuertes, la Femmto Brushless o el Caliber Percutor." },
       { type: "h2", title: "Lo que no funcionó" },
       { type: "p", content: "Probé un masajeador manual de rodillos por menos de $10.000. La idea era pasarlo por la espalda apoyándolo contra la pared. En la práctica, se resbalaba, la presión era insuficiente, y después de 10 minutos me dolían más los brazos que la espalda. No lo recomiendo." },
