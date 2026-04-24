@@ -250,6 +250,11 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           >
             {section.content ? parseInlineLinks(section.content) : null}
           </p>
+          {section.attribution && (
+            <footer className="mt-3 text-sm text-[var(--text-muted)] not-italic">
+              {section.attribution}
+            </footer>
+          )}
         </blockquote>
       );
 

@@ -50,6 +50,28 @@ export interface Product {
   priceStatus?: "fresh" | "stale" | "out_of_stock";
   reviewCount?: number;
   reviewsWithPhotos?: number;
+  /** Approximate distribution of star ratings from ML. Strings to allow "70%+" wording. */
+  ratingBreakdown?: {
+    five?: string;
+    four?: string;
+    three?: string;
+    two?: string;
+    one?: string;
+  };
+  /** Curated customer reviews for the ficha individual. */
+  customerReviews?: Array<{
+    rating: number;
+    country?: string;
+    date?: string;
+    text: string;
+    useful?: number;
+  }>;
+  /** Editorial best-fit signals derived from review patterns. */
+  bestSeason?: string[];
+  bestOccasion?: string[];
+  notRecommendedFor?: string[];
+  /** Comparisons to other fragrances mentioned in reviews. */
+  comparedTo?: Array<{ name: string; similarity: string }>;
   aiReviewSummary?: string;
 
   // Olfactive data
@@ -64,10 +86,18 @@ export interface Product {
 
   duration?: string;        // human-readable, e.g. "8 horas"
   durationHours?: number;
+  /** Vendor's official duration claim, in hours, when it disagrees with field reports. */
+  durationOfficial?: number;
+  /** Editorial caveat about the duration mismatch. */
+  durationDisclaimer?: string;
   projection?: string;      // "Baja" | "Media" | "Media-alta" | "Alta"
+  /** Editorial note about projection (e.g. recommended sprays). */
+  projectionNote?: string;
 
   originCountry?: string;
   launchYear?: number;
+  /** Year the parent line launched (e.g. Asad original 2021 vs Intense 2024). */
+  originalLineYear?: number;
   crueltyFree?: boolean;
   vegan?: boolean;
   alcoholFree?: boolean;
@@ -156,6 +186,10 @@ export interface GuideSection {
 
   // ── trust-block fields ──────────────────────────────
   trustVariant?: TrustVariant;
+
+  // ── pull-quote attribution (optional) ───────────────
+  /** Author/source line shown beneath a pull-quote (e.g. "— Comprador en Argentina, sept 2024"). */
+  attribution?: string;
 }
 
 export interface GuideFAQ {
