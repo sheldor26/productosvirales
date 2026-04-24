@@ -128,7 +128,7 @@ Limpiá la boquilla con un trapo seco cada tanto para mantener la succión al m�
   {
     id: 'MLA3807310356',
     title: 'Sellador Bolsas Al Vacio Portatil Multifuncion Recargable',
-    price: 23392.2,
+    price: 29990,
     originalPrice: 29990,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_720803-MLA107446891921_022026-F.webp',
@@ -901,7 +901,7 @@ Lo que no hace: no es huevera de cerámica para mostrar en la mesada, no va al m
   {
     id: 'MLA65102455',
     title: 'Set Organizadores Acrílico Transparente x16 — Escritorio, Cajones, Placard',
-    price: 28649,
+    price: 27789.53,
     originalPrice: 49999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_816796-MLA105591869584_012026-F.webp',
@@ -1191,7 +1191,7 @@ Tipo de recubrimiento no especificado: las especificaciones no aclaran si el ant
   {
     id: 'MLA139114583',
     title: 'Sartén Enlozada Vitrificada Jovifel 24cm — Apta Inducción',
-    price: 13999,
+    price: 15999,
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_681658-MLA48409585536_122021-F.webp',
@@ -1350,7 +1350,7 @@ El mango es de hierro enlozado también. No de plástico ni de goma — se calie
   {
     id: 'MLA373832208',
     title: 'Sartén Antiadherente Teflón 25cm Guadix GuadixFlon',
-    price: 23993,
+    price: 24594,
     originalPrice: 28598,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_908403-MLU74163740337_012024-F.webp',
@@ -2777,7 +2777,7 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
   {
     id: 'MLA44033885',
     title: 'Ventilador De Techo Retráctil Etheos 100w Luz Led Control',
-    price: 169998,
+    price: 178621,
     originalPrice: 229999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_870051-MLA99466436884_112025-F.webp',
@@ -3077,7 +3077,7 @@ Con 4 calificaciones, hay cosas que no se pueden confirmar con datos de la comun
     id: 'MLA521391764',
     title: 'Proyector Astronauta Geotek — 8 Nebulosas, Timer y Control',
     badge: 'viral',
-    price: 14950,
+    price: 12750,
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_644301-MLA95418788623_102025-F.webp',
@@ -3762,7 +3762,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
   {
     id: 'MLA214572440',
     title: 'Limpia Vidrio Magnético Profesional Triangular Y Respuestos',
-    price: 8961,
+    price: 9966,
     originalPrice: 11999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_819308-MLA94651911040_102025-F.webp',
@@ -3836,7 +3836,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
   {
     id: 'MLA46931846',
     title: 'Robot Limpia Vidrios Gadnic Con 3 Modos de Limpieza Super Succión Pulverización',
-    price: 233749,
+    price: 252449,
     originalPrice: 497549,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_961870-MLA108019348809_032026-F.webp',
@@ -3886,7 +3886,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
   {
     id: 'MLA24824959',
     title: 'Kit Manguera Neon RGB 5050 Led Multicolor 5m Flexible Control Remoto Veoquiero',
-    price: 23759,
+    price: 25999,
     originalPrice: 29999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_969743-MLA99442609932_112025-F.webp',
@@ -3911,7 +3911,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
   {
     id: 'MLA33974728',
     title: 'Tira LED RGB 5m Hytoshy 5050 60 LEDs/m IP64 Exterior con Control',
-    price: 8831.7,
+    price: 10559.12,
     originalPrice: 9813,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_653193-MLA108260342217_032026-F.webp',
@@ -4282,7 +4282,7 @@ Las tres bandejas del TSV-003 son para almacenamiento — no son para apoyar un 
   {
     id: 'MLA2351761364',
     title: 'Especiero Organizador Triple Giratorio Alacena Cocina Baño',
-    price: 40866,
+    price: 48380,
     originalPrice: 58380,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_978553-MLA92436048197_092025-F.webp',
@@ -4819,7 +4819,7 @@ El packaging del tren en colores bronce/plata, negro o dorado es lo que hace que
   {
     id: 'MLA231395761',
     title: 'Difusor Aromatizador Gadnic DIFU0001 300ml — Aceites Esenciales',
-    price: 37349,
+    price: 34049,
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_894345-MLA108253735480_032026-F.webp',
@@ -4980,7 +4980,7 @@ Tampoco hace ruido — el sistema ultrasónico es silencioso. Apto para usar mie
   {
     id: 'MLA210122868',
     title: 'Humidificador Aromatizador USB 130ml AJ-507 — LED 7 Colores',
-    price: 18050,
+    price: 19000,
     originalPrice: 19000,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_906135-MLA71352877800_082023-F.webp',
@@ -5281,7 +5281,7 @@ Garantía de 30 días: es la garantía más corta de todos los modelos en este s
   {
     id: 'MLA38663276',
     title: 'Lampara Velador VL040 Led Doble Dakota Plegable Mesa Escritorio Flexible Táctil Recargable Lapicero Color Blanco',
-    price: 25990,
+    price: 21381,
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_907525-MLA100008492155_122025-F.webp',
@@ -5462,7 +5462,7 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
   {
     id: 'MLA1454279831',
     title: 'Velador Centro De Mesa Recargable Usb C Tactil Dimmerizable',
-    price: 16005,
+    price: 21742.5,
     originalPrice: 28990,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_708964-MLA93504989943_092025-F.webp',
