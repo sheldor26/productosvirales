@@ -11987,7 +11987,88 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     freeShipping: true,
     rating: 4.6,
     reviewCount: 7245,
-    pastelColor: "var(--pastel-pink)",
+    tiktokViews: "15M+",
+    badge: "bestseller",
+    pastelColor: "var(--pastel-amber)",
+
+    // ── Pros / Cons / Verdict (visible en página individual) ──
+    pros: [
+      "7.245 reseñas con rating 4.6 — el perfume árabe más validado de Argentina",
+      "Proyección alta desde los primeros minutos — 3 sprays alcanzan",
+      "Duración real de 6-10 horas en piel con permanencia en ropa al día siguiente",
+      "Alternativa accesible al Dior Sauvage Elixir — precio 10 veces menor",
+      "Frasco premium con medallón de león — ideal para regalar",
+      "Libre de crueldad animal certificado por Lattafa",
+    ],
+    cons: [
+      "No funciona bien en verano — el perfil dulce-especiado se potencia con el calor",
+      "Pesado para oficina de día — mejor para noche y eventos",
+      "Percepción de aroma 'maduro' — algunos lo encuentran +30 años",
+      "Falsificaciones frecuentes — verificar señales de autenticidad al recibir",
+      "No incluye estuche adicional",
+    ],
+    verdict:
+      "El perfume árabe masculino por excelencia del mercado argentino. Con 7.245 reseñas, rating 4.6 y proyección brutal, es la puerta de entrada más segura al nicho árabe para hombre. Ideal para noche y eventos; evitalo en verano.",
+
+    // ── Article body (mini-review editorial) ────────────
+    articleBody: `Asad Intense es el perfume árabe masculino más vendido de Argentina y el más validado por la comunidad: 7.245 calificaciones en Mercado Libre con rating 4.6. En el nicho árabe local no hay otro producto con ese volumen de respaldo comunitario.
+
+La pirámide olfativa es amaderada-especiada con toques gourmand: apertura con pimienta negra, piña y tabaco; corazón con pachulí, café e iris; fondo con vainilla, ámbar, madera seca, benjuí y ládano. En términos simples: arranca frutal y picante, se vuelve cálido y terroso en el desarrollo, y termina en un fondo dulce-amaderado que proyecta fuerte durante varias horas.
+
+## Duración real vs oficial
+
+Acá conviene separar lo que dice el fabricante de lo que reportan los compradores. Lattafa informa 13 horas oficiales. Los compradores argentinos, brasileños, chilenos y uruguayos reportan en promedio entre 6 y 10 horas en piel, con permanencia notable en ropa al día siguiente. La variación es normal en perfumes intensos: depende del tipo de piel, la hidratación y la cantidad de sprays aplicados.
+
+Un comprador argentino lo resume sin vueltas: "3 sprays y proyecta que da calambre, dura 8 horas por lo menos y le gusta a todo el mundo". Ese es el consenso general: con 3 sprays alcanza. Con más cantidad puede volverse invasivo en ambientes cerrados.
+
+## Sobre la comparación con Sauvage Elixir
+
+Es la comparación más frecuente en las reseñas. Muchos compradores lo adquieren buscando específicamente un clon del Dior Sauvage Elixir. El veredicto es matizado: son similares pero no idénticos. Asad tiene una apertura más frutal (la piña es la nota distintiva) y un fondo avainillado más marcado. Algunos compradores prefieren al Sauvage original, pero reconocen que Asad cumple a una décima parte del precio.
+
+Para quien nunca probó ni el Sauvage ni Asad, el Asad es el mejor punto de entrada al nicho árabe masculino. No porque sea un dupe, sino porque tiene identidad propia.
+
+## Cuándo usarlo y cuándo no
+
+Los compradores coinciden en tres cosas. Primero: otoño-invierno es la estación ideal. En verano el perfil dulce-especiado se potencia con el calor y puede volverse pesado. Un comprador lo dice directo: "en verano matás a alguien". Segundo: noche, eventos elegantes, casamientos, salidas — no es un perfume para oficina diurna. Tercero: hay que moderar la aplicación. Con 3 sprays en pecho, muñecas y detrás del cuello alcanza.
+
+## Cómo identificar el original
+
+Este es un producto con muchas falsificaciones en circulación. Los compradores que detectaron falsificaciones coinciden en estas señales:
+
+- Tapa floja o que se sale al quitarla (el original encaja firmemente)
+- Acabado dorado de mala calidad o que se despinta
+- Dibujo central del medallón que es un adhesivo en lugar de estar en relieve
+- Líquido muy transparente (el original tiene tono amarillento-dorado)
+- Código QR que no lleva al sitio oficial de Lattafa
+- Sellos holográficos ausentes o de mala calidad
+
+La mejor defensa es comprar de vendedores con reputación Mercado Líder Platinum o Mercado Líder Gold y desconfiar de precios muy por debajo del promedio.
+
+## Para quién es y para quién no
+
+**Es para vos si:** buscás un perfume árabe masculino con proyección alta, te gusta el perfil dulce-especiado-amaderado, vivís en zona con otoño-invierno marcado, y vas a usarlo principalmente para noche o eventos.
+
+**No es para vos si:** preferís perfumes frescos cítricos, vivís en clima tropical o caluroso todo el año, buscás algo discreto para oficina diurna, o tenés menos de 25 años y buscás un perfil más juvenil (para eso, mejor Afnan 9PM original).`,
+
+    // ── Specs (tabla técnica visible) ───────────────────
+    specs: [
+      { label: "Tipo", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Hombre" },
+      { label: "Familia olfativa", value: "Amaderado especiado, gourmand oriental" },
+      { label: "Duración oficial", value: "13 horas (según Lattafa)" },
+      { label: "Duración real en piel", value: "6 a 10 horas" },
+      { label: "Proyección", value: "Alta (3 sprays alcanzan)" },
+      { label: "Estación ideal", value: "Otoño e invierno" },
+      { label: "Ocasión recomendada", value: "Noche, eventos elegantes, casamientos" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2024 (Intense); 2021 (Asad original)" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche adicional", value: "No" },
+    ],
 
     // ── Brand metadata ──────────────────────────────────
     brand: "Lattafa",
