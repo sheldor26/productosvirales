@@ -16,7 +16,7 @@ export interface Product {
   soldQuantity?: number;
   tiktokViews?: string;
   tiktokVideoUrl?: string;
-  badge?: "viral" | "trending" | "hot-deal";
+  badge?: "viral" | "trending" | "hot-deal" | "bestseller";
   pastelColor?: string;
   pros?: string[];
   cons?: string[];
