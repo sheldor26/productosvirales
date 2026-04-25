@@ -6218,7 +6218,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Lattafa ofrece dos sets curados de la línea Yara, cada uno pensado para un perfil de comprador distinto."
+        content: "Lattafa ofrece dos sets curados de la línea Yara con públicos completamente distintos. Saber cuál elegir es clave: cada uno está pensado para un perfil de comprador específico, y mezclarlos es el error más común."
       },
       {
         type: "h3",
@@ -6226,29 +6226,63 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "El set ideal para quien nunca probó un Yara y quiere descubrir su favorito antes de invertir en un 100ml. Incluye Yara original, Yara Moi, Yara Tous y Yara Candy en formato 25ml cada uno. Con 720 calificaciones y rating 4.8 en Mercado Libre. **Es vegano y libre de crueldad** (el único producto vegano del catálogo Yara)."
+        content: "El set ideal para quien nunca probó un Yara y quiere descubrir su favorito antes de invertir en un 100ml. Incluye Yara original (2020), Yara Moi (2023), Yara Tous (2023) y Yara Candy (2024) en formato 25ml cada uno. Con 720 calificaciones y rating 4.8 en Mercado Libre. **Es vegano y libre de crueldad** (el único producto vegano del catálogo Yara)."
+      },
+      {
+        type: "p",
+        content: "**A favor:** vegano y libre de crueldad; frascos de 25ml ideales para cartera o viaje; relación calidad-precio sobresaliente para descubrir las 4 versiones más vendidas."
+      },
+      {
+        type: "p",
+        content: "**En contra:** no incluye Yara Elixir; 25ml dura menos que un 100ml para uso intensivo; por mililitro individual sale más caro que comprar el 100ml de tu favorita."
       },
       {
         type: "product-card",
         productMlaId: "MLA51612102",
         label: "Para descubrir tu Yara",
         labelColor: "purple",
-        description: "4 fragancias Yara x 25ml en un solo set: original, Moi, Tous y Candy. Rating 4.8 con 720 reseñas. Vegano y libre de crueldad. La mejor forma de empezar con la línea o de regalar."
+        description: "4 fragancias Yara × 25ml: original, Moi, Tous y Candy. Rating 4.8 con 720 reseñas. Vegano y libre de crueldad. La mejor forma de empezar con la línea o de regalar."
       },
       {
         type: "h3",
-        title: "Set Yara Rosa + Candy 5to Aniversario — $88.556"
+        title: "Set 5to Aniversario Yara + Yara Candy (2 × 100ml) — $100.528"
       },
       {
         type: "p",
-        content: "El set para fans confirmados que quieren las 2 versiones más vendidas en formato grande. Incluye Yara original 100ml + Yara Candy 100ml. Edición especial 5to aniversario con packaging coleccionable."
+        content: "La edición especial de Lattafa por los 5 años del lanzamiento de Yara original (2020). Incluye Yara (rosa pastel) y Yara Candy (rosa fucsia) en formato 100ml cada uno, con presentación coleccionable. Con 811 calificaciones y rating 4.8 en Mercado Libre. **Compra internacional**: el precio puede incluir aranceles e impuestos extra al cerrar la compra."
+      },
+      {
+        type: "p",
+        content: "**A favor:** 200ml totales, suficientes para meses de uso intensivo; las 2 versiones más vendidas de la línea; edición limitada coleccionable; las compradoras lo describen como \"uno divertido y otro más sofisticado\"; ideal para layering."
+      },
+      {
+        type: "p",
+        content: "**En contra:** NO vegano (a diferencia del Set My Yara Collection); NO libre de crueldad; solo 2 fragancias (no incluye Tous, Moi ni Elixir); la conveniencia económica vs comprar individual es marginal ($3.869 de ahorro)."
       },
       {
         type: "product-card",
         productMlaId: "MLA45984979",
-        label: "Para fans de Yara",
+        label: "Edición especial coleccionable",
         labelColor: "amber",
-        description: "Yara original + Yara Candy en formato 100ml cada uno. 200ml totales. Edición 5to aniversario coleccionable. Para quien ya sabe que estos 2 son sus Yara favoritos."
+        description: "Yara + Yara Candy en 100ml cada uno. 200ml totales. Edición limitada del 5to aniversario. Rating 4.8 con 811 reseñas. La elegancia clásica + la dulzura juvenil en un solo set."
+      },
+      {
+        type: "h3",
+        title: "Comparativa: My Yara Collection vs 5to Aniversario"
+      },
+      {
+        type: "table",
+        headers: ["Característica", "My Yara Collection", "5to Aniversario"],
+        rows: [
+          ["Precio", "$64.508", "$100.528"],
+          ["Fragancias", "4 (Yara, Moi, Tous, Candy)", "2 (Yara, Candy)"],
+          ["Volumen total", "100ml (4 × 25ml)", "200ml (2 × 100ml)"],
+          ["Vegano", "Sí", "No"],
+          ["Libre de crueldad", "Sí", "No"],
+          ["Tipo de compra", "Local", "Internacional"],
+          ["Rating ML", "4.8 (720 reseñas)", "4.8 (811 reseñas)"],
+          ["Mejor para", "Descubrir / Regalar a quien no conoce", "Fans confirmados / Uso intensivo"]
+        ]
       },
       {
         type: "h3",
@@ -6257,9 +6291,11 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "**My Yara Collection ($64.508):** si nunca probaste Yara, querés descubrir tu favorita o estás eligiendo un regalo.",
-          "**Set Aniversario ($88.556):** si ya sos fan confirmado de Yara original y Yara Candy y querés ambos en 100ml.",
-          "**Ninguno:** si ya sabés cuál Yara específica querés (Tous, Moi, Elixir), comprá el 100ml individual de esa."
+          "**Si nunca probaste Yara:** Set My Yara Collection ($64.508). Probás 4 versiones antes de decidir cuál te gusta más.",
+          "**Si ya conocés y amás Yara y Candy:** Set 5to Aniversario ($100.528). Te asegurás formato grande y presentación coleccionable.",
+          "**Si querés probar Yara Elixir:** ningún set lo incluye. Comprá el 100ml individual ($68.000).",
+          "**Si el veganismo es importante para vos:** Set My Yara Collection es el único vegano de la línea.",
+          "**Si ya sabés cuál Yara específica querés (Tous, Moi, Elixir):** comprá el 100ml individual de esa, no un set."
         ]
       },
       {
@@ -6279,7 +6315,7 @@ export const guides: Guide[] = [
           "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **$68.000**",
           "[Yara original 100ml](https://meli.la/2nDMa11): **$95.940** (importado, menos disponible)",
           "[My Yara Collection Set 4 × 25ml](https://meli.la/2jd7cJf): **$64.508**",
-          "[Set Yara Rosa + Candy](https://meli.la/2qjxA7G): **$88.556**"
+          "[Set 5to Aniversario Yara + Candy 2 × 100ml](https://meli.la/2qjxA7G): **$100.528** (compra internacional)"
         ]
       },
       {
@@ -7316,6 +7352,40 @@ export const guides: Guide[] = [
         description: "Set de 4 perfumes en 35ml para experimentar antes de decidir.",
         label: "Para probar varias",
         labelColor: "blue"
+      },
+      {
+        type: "h2",
+        title: "¿Y si no estás segura cuál perfume comprar? Los sets de descubrimiento"
+      },
+      {
+        type: "p",
+        content: "Para quien nunca probó un perfume árabe femenino, los sets de descubrimiento son la mejor inversión inicial. Te permiten conocer varios perfiles olfativos antes de invertir en un 100ml que puede no ser tu favorito."
+      },
+      {
+        type: "p",
+        content: "El más popular es el **Set My Yara Collection** ($64.508), con 4 fragancias × 25ml. Incluye Yara, Yara Moi, Yara Tous y Yara Candy en formato spray. Es vegano, libre de crueldad e incluye estuche elegante. Ideal para descubrir cuál Yara es tu favorita o para regalar a alguien que no conoce la línea."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA51612102",
+        label: "Set para descubrir",
+        labelColor: "purple",
+        description: "4 fragancias Yara × 25ml: original, Moi, Tous y Candy. La mejor inversión para conocer la línea. Rating 4.8 con 720 reseñas. Vegano y libre de crueldad."
+      },
+      {
+        type: "p",
+        content: "Si ya conocés y te encanta la línea Yara, también está disponible el **Set 5to Aniversario** ($100.528) con 2 fragancias en 100ml cada una (Yara + Yara Candy). Es una edición limitada coleccionable, ideal para regalo premium. Atención: es compra internacional y NO es vegano."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA45984979",
+        label: "Edición especial",
+        labelColor: "amber",
+        description: "Yara + Yara Candy en 100ml cada uno. Edición coleccionable del 5to aniversario. Rating 4.8 con 811 reseñas. Para fans confirmados de Yara que quieren las 2 versiones más vendidas."
+      },
+      {
+        type: "p",
+        content: "Si querés la comparación detallada de los dos sets (qué incluye cada uno, cuál conviene según tu perfil, tabla comparativa lado a lado), tenés la sección completa en la [guía de la línea Yara](/guias/yara-lattafa-guia-completa)."
       },
       {
         type: "h2",
