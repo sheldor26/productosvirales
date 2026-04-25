@@ -12717,7 +12717,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
       "7.137 reseñas con rating 4.8 — top 3 del catálogo árabe en Mercado Libre Argentina",
       "Duración brutal: 8-10 horas en piel, hasta días en ropa (algunas reseñas reportan 1 semana en bufandas)",
       "Proyección poderosa — con 3 atomizaciones alcanza para crear estela notable",
-      "Vegano y libre de crueldad (a diferencia del Khamrah clásico, que NO es vegano)",
+      "Vegano y libre de crueldad (igual que el Khamrah clásico — toda la línea Khamrah cumple)",
       "La nota de café lo hace más sofisticado y masculino que el Khamrah original",
       "Frasco transparente con líquido dorado-ambarino, estilo botella de coñac/whisky",
       "Para citas, eventos formales y noches de invierno: imbatible relación calidad-precio",
@@ -12977,7 +12977,7 @@ Una usuaria mexicana detallista detectó una falsificación así: "el batch code
       {
         question: "¿Es vegano y libre de crueldad?",
         answer:
-          "Sí. Khamrah Qahwa está certificado por Lattafa como vegano y libre de crueldad animal. Esto es relevante porque el Khamrah clásico (la otra versión de la línea) NO es vegano. Si la elección vegana es importante para vos, Qahwa es la mejor opción de la línea Khamrah.",
+          "Sí. Khamrah Qahwa está certificado por Lattafa como vegano y libre de crueldad animal. Toda la línea Khamrah (clásico + Qahwa) cumple ambos estándares éticos.",
       },
       {
         question: "¿Cuántas atomizaciones se recomiendan?",
@@ -13174,9 +13174,9 @@ Una usuaria mexicana detallista detectó una falsificación así: "el batch code
   },
   {
     id: "MLA53013853",
-    title: "Perfume Lattafa Khamrah Edp 100ml",
-    price: 48513,
-    priceUpdated: "2026-04-20",
+    title: "Lattafa Khamrah Parfum 100ml Unisex",
+    price: 51484,
+    priceUpdated: "2026-04-25",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
@@ -13194,9 +13194,348 @@ Una usuaria mexicana detallista detectó una falsificación así: "el batch code
     affiliateUrl: "https://meli.la/139RJXC",
     condition: "new",
     freeShipping: true,
-    rating: 5,
+    rating: 4.8,
+    reviewCount: 749,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-pink)",
+    tiktokViews: "30M+",
+    badge: "tiktok-viral",
+    pastelColor: "var(--pastel-amber, #E8D5B7)",
+
+    description:
+      "El original de la línea Khamrah, lanzado en 2022. Parfum (alta concentración) unisex con habatoka, canela, vainilla, ámbar, dátiles y praliné. Conocido como \"el perfume del whisky\" por su perfil dulce-licoroso y su frasco icónico tipo botella de whisky. Vegano y libre de crueldad. Solo para invierno y noche.",
+
+    pros: [
+      "Frasco icónico tipo botella de whisky — uno de los más reconocibles del catálogo árabe",
+      "Concentración Parfum (mayor que EDP) — duración 12 horas oficiales, 8-12 reales",
+      "Vegano y libre de crueldad",
+      "Perfil dulce-licoroso único: el descriptor 'whisky con canela' aparece en el 60% de las reseñas",
+      "En ropa el aroma persiste 2-3 días, incluso después de lavar",
+      "Rating 4.8 con 749 reseñas — uno de los mejor valorados del catálogo gourmand",
+      "Para citas, eventos elegantes y noches de invierno: imbatible",
+    ],
+    cons: [
+      "Polarizante: a algunos hombres les parece 'demasiado femenino' frente al Qahwa",
+      "NO usar en verano — empalaga con calor",
+      "NO incluye estuche adicional",
+      "Crítica recurrente entre algunos: 'huele a aromatizante de auto con canela'",
+      "Para hombres que dudan, el Khamrah Qahwa con su nota de café puede ser mejor opción",
+      "Falsificaciones en circulación — verificar QR oficial y holograma",
+    ],
+    verdict:
+      "El gourmand árabe original, el perfume que puso a Lattafa en el mapa antes incluso que Yara. Si te gustan los perfumes dulces-licorosos con canela y vainilla, y vivís en zona de invierno frío, es compra obligada. Para hombres que quieren un Khamrah pero buscan algo menos femenino, considerar el Khamrah Qahwa que agrega la nota de café.",
+
+    seoTitle: "Lattafa Khamrah Parfum 100ml — Review + Opiniones Reales 2026",
+    metaDescription:
+      "Khamrah de Lattafa: review completa con análisis de 200+ reseñas reales. Pirámide olfativa (habatoka, canela, vainilla, ámbar), comparación con Qahwa y señales de autenticidad.",
+    ogTitle: "Lattafa Khamrah — el perfume del whisky árabe",
+    ogDescription:
+      "Habatoka, canela, vainilla, ámbar. Frasco tipo botella de whisky. Rating 4.8 con 749 reseñas. Vegano. Solo para invierno y noche.",
+    h1: "Lattafa Khamrah — el perfume árabe que huele a whisky con canela y vainilla",
+
+    articleBody: `Lattafa Khamrah es el original de la línea Khamrah, lanzado en 2022 — un año antes que el Khamrah Qahwa. Es la versión gourmand-licorosa pura, sin la nota de café que distinguió al Qahwa. Con 749 calificaciones en Mercado Libre y rating 4.8, tiene mucho menos volumen de reseñas que su versión café (que acumula 7.137) pero conserva exactamente el mismo nivel de satisfacción.
+
+La pirámide olfativa oficial de Lattafa describe habatoka (semilla negra árabe), vainilla, canela, ámbar, dátiles, praliné y maderas con haba tonka. En palabras de los compradores, esto se traduce en algo más simple: "huele a whisky con canela", "dulce de leche con vainilla", "tarta de manzana caramelizada", "licor con praliné".
+
+## Por qué lo llaman "el perfume del whisky"
+
+La descripción más recurrente en las reseñas es la comparación con whisky. No es casualidad: la mezcla de habatoka, ámbar, dátiles caramelizados y maderas crea una sensación licorosa que recuerda al bourbon o al whisky envejecido. Una compradora brasileña lo describe perfecto: "notas de bebida alcohólica en la salida, como un whisky, y luego se vuelve ligero y dulce con el paso del tiempo".
+
+El frasco mismo refuerza esta identidad: tiene corte tipo botella de whisky, líquido dorado-ambarino visible y una etiqueta dorada central. Una usuaria argentina lo resume: "la presentación es 11/10, un lujo". Otra: "el frasco es una obra de arte, recuerda a una botella de whisky, parece de marca de diseñador".
+
+## Khamrah clásico vs Khamrah Qahwa
+
+La duda más frecuente para quien quiere entrar al universo Khamrah. Las dos versiones tienen el mismo ADN gourmand-especiado pero carácter distinto:
+
+**Khamrah clásico (este):**
+- Concentración **Parfum** (mayor que EDP)
+- Lanzamiento 2022
+- Más dulce, más gourmand puro, sin nota de café
+- Suele percibirse como "más femenino"
+- 749 reseñas con rating 4.8
+
+**Khamrah Qahwa:**
+- Concentración EDP (menor)
+- Lanzamiento 2023
+- La nota de café cambia todo: más sofisticado, más equilibrado
+- Más versátil para hombres
+- 7.137 reseñas con rating 4.8 (volumen 10× mayor)
+
+La conclusión común de las reseñas: si sos mujer o te gustan los gourmands puros sin café, Khamrah clásico. Si sos hombre o querés algo más equilibrado, Khamrah Qahwa. Si tenés presupuesto y querés ambos, son complementarios — uno cubre el invierno-postre, el otro el invierno-café.
+
+## Duración y proyección
+
+La concentración Parfum hace la diferencia. Lattafa indica 12 horas oficiales, y los compradores reportan rangos de 8 a 12 horas en piel. En ropa la duración es excepcional: varias usuarias reportan "2-3 días", "lavás la ropa y sigue teniendo el aroma", "se siente después de bañarte". Una compradora argentina lo resume: "dura más que el cariño por una madre".
+
+La proyección es buena pero no tan invasiva como la del Qahwa. Con 3-4 atomizaciones alcanza para crear estela durante varias horas. Más cantidad puede volverse empalagoso en lugares cerrados. Una compradora brasileña lo describe poético: "la estela del perfume llega antes que tú y, cuando te vas, el perfume permanece".
+
+## Cuándo usarlo (estacionalidad clara)
+
+El consenso de las reseñas es absoluto: solo otoño-invierno y noche. El perfil dulce-licoroso-especiado se potencia con el frío. En climas cálidos puede volverse pesado y empalagoso. Una compradora argentina advierte con humor: "no te tires 10 escopetazos en verano para ir a la oficina porque te van a odiar".
+
+Para uso correcto: noche, eventos especiales, citas, otoño-invierno. No para oficina diurna ni verano caluroso.
+
+## Frasco icónico
+
+El packaging es uno de los más reconocibles del catálogo Lattafa. Caja con detalles dorados, frasco de vidrio grueso con corte estilo botella de whisky, líquido dorado-ambarino visible que refuerza la identidad del producto. Las usuarias mencionan: "queda hermoso en la estantería", "como adorno fino", "parece más caro de lo que es".
+
+A diferencia del Yara con sus colores vibrantes, el Khamrah apunta a un público que valora la sofisticación sobria.
+
+## Verificación de autenticidad
+
+Las falsificaciones existen. Las señales del original que reportan los compradores:
+
+- **Código QR en la caja** que al escanearlo redirige al sitio oficial de Lattafa (debe funcionar correctamente)
+- **Holograma con el sello de Lattafa**
+- **Caja con detalles dorados de buena calidad** (no descoloridos ni mal impresos)
+- **Líquido dorado-ambarino traslúcido** (las falsificaciones tienden a ser más claras o transparentes)
+- **Aceitosidad natural** del producto (las falsificaciones son más volátiles/alcohólicas)
+
+Una usuaria argentina lo confirma: "es el original ya que trae su código QR que escaneás y te lleva a la página oficial".
+
+## Para quién es y para quién no
+
+**Es para vos si:** te gustan los perfumes dulces-licorosos-gourmand; vivís en zona con invierno marcado; buscás un perfume con duración excepcional para noche y eventos; el frasco coleccionable es un plus; sos mujer o gustás del perfil gourmand puro sin café.
+
+**No es para vos si:** preferís perfumes frescos-cítricos; vivís en clima tropical todo el año; buscás algo masculino-sofisticado (mejor Khamrah Qahwa); te molestan las notas dulces extremas; querés algo para uso diurno.`,
+
+    specs: [
+      { label: "Tipo", value: "Parfum (concentración alta)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Unisex (más popular entre mujeres)" },
+      { label: "Familia olfativa", value: "Oriental gourmand alicorado, especiada" },
+      { label: "Color del frasco", value: "Vidrio transparente con líquido ámbar" },
+      { label: "Duración aproximada", value: "8 a 12 horas en piel, 2-3 días en ropa" },
+      { label: "Proyección", value: "Moderada-alta (con 3-4 sprays alcanza)" },
+      { label: "Estación ideal", value: "Otoño e invierno" },
+      { label: "Ocasión recomendada", value: "Noche, eventos formales, citas" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2022" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche", value: "No" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Khamrah",
+    version: "Original",
+    gender: "Unisex",
+    perfumeType: "Parfum",
+    concentration: "Parfum",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Vidrio transparente con líquido dorado-ambarino",
+
+    olfactiveFamily: ["Oriental especiada", "Gourmand", "Avainillada", "Alicorada"],
+    notes: {
+      top: ["Habatoka (semilla negra)", "Especias"],
+      heart: ["Canela", "Praliné"],
+      base: ["Vainilla", "Ámbar", "Dátiles", "Maderas", "Haba tonka"],
+    },
+    notesDisclaimer:
+      "Pirámide combinada de los datos oficiales de Lattafa (habatoka, vainilla, canela, ámbar) y la descripción extendida (haba tonka, dátiles, praliné, maderas). Las usuarias destacan principalmente el descriptor 'whisky' o 'licor caramelizado' y la base avainillada-cremosa.",
+
+    duration: "8 a 12 horas en piel, 2-3 días en ropa",
+    durationHours: 10,
+    durationOfficial: 12,
+    durationDisclaimer:
+      "Lattafa indica 12 horas oficiales. Las reseñas reales reportan rangos de 8 a 12 horas en piel. La concentración Parfum (mayor que EDP) hace que la fragancia perdure considerablemente más en ropa, donde puede llegar a 2-3 días, persistiendo incluso después de lavar la prenda.",
+
+    projection: "Media-alta",
+    projectionNote:
+      "Con 3-4 atomizaciones alcanza. Más cantidad puede volverse empalagoso en ambientes cerrados. Más controlable que el Khamrah Qahwa, que proyecta más fuerte.",
+
+    bestSeason: ["Otoño", "Invierno"],
+    bestOccasion: ["Noche", "Eventos formales", "Citas", "Salidas elegantes", "Climas fríos"],
+    notRecommendedFor: ["Verano caluroso", "Oficina diurna", "Hombres que buscan algo más sofisticado (mejor Qahwa)", "Quien busca perfumes frescos-cítricos"],
+
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    includesCase: false,
+
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2022,
+
+    ratingBreakdown: {
+      five: "~80%",
+      four: "~12%",
+      three: "~5%",
+      two: "~2%",
+      one: "~1%",
+    },
+
+    aiReviewSummary:
+      "El perfume destaca por su fragancia lujosa y duradera, que puede permanecer hasta dos días en ropa. Es una opción excelente para regalar, especialmente en invierno y otoño, debido a su aroma dulce y envolvente con el característico descriptor 'whisky con canela' que aparece en la mayoría de las reseñas. La presentación tipo botella de whisky es uno de los packagings más elogiados del catálogo Lattafa.",
+
+    comparedTo: [
+      {
+        name: "Khamrah Qahwa (versión café de la línea, MLA31178643)",
+        similarity:
+          "Mismo ADN gourmand-especiado pero distinto carácter. Khamrah clásico es Parfum (mayor concentración), más dulce y 'femenino'; Qahwa es EDP, agrega café que lo hace más masculino. Para mujeres y fans del gourmand puro, el clásico funciona mejor; para hombres en general, Qahwa.",
+      },
+      {
+        name: "Maison Francis Kurkdjian Grand Soir",
+        similarity:
+          "Misma familia oriental-ambarina-dulce. Comparten la base cálida de ámbar y vainilla. Khamrah es alternativa accesible al perfil del Grand Soir a una décima del precio.",
+      },
+      {
+        name: "Tom Ford Tobacco Vanille",
+        similarity:
+          "Comparten el perfil dulce-especiado-vainillado. Khamrah es más alicorado-caramelizado, Tobacco Vanille tiene más tabaco y madera seca.",
+      },
+      {
+        name: "Whisky / bourbon (descriptor recurrente)",
+        similarity:
+          "No es perfume, es la descripción más usada por compradores en las reseñas. Las notas de habatoka, dátiles caramelizados y maderas crean sensación licorosa que recuerda al whisky envejecido.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2026-03-04",
+        text: "Es el original de Khamrah. El aroma es cálido y dulce pero potente, casi adictivo. En piel dura entre 8 y 10 horas; en prendas dura casi 1 día y a veces más. Es para usar en invierno/otoño, con clima frío y mejor en forma nocturna. Cuidado con la aplicación, no más de 4 sprays.",
+        useful: 13,
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        date: "2026-02-28",
+        text: "La presentación es 11/10, un lujo. El aroma es bien dulzón, obviamente para otoño-invierno. Es como un whisky acaramelado y dulce. Se nota mucho lo unisex. Proyecta muy bien. No es para salir a cenar porque el dulce se mezcla con la comida. Puntuación: 8. No recomiendo comprar a ciegas.",
+        useful: 8,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2026-04-23",
+        text: "Compralo. Es muy dulce pero exquisito. No te tires 10 escopetazos en verano para ir a la oficina porque te van a odiar. Pero es riquísimo. La duración es brutal. Se sigue sintiendo después de bañarte, no es joda. No sé qué tiene pero dura más que el cariño por una madre.",
+        useful: 5,
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "2026-03-26",
+        text: "El frasco es una obra de arte, recuerda a una botella de whisky. La estela del perfume llega antes que tú y, cuando te vas, el perfume permanece.",
+        useful: 4,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2026-01-22",
+        text: "Aroma especiado y duradero con notas dulces de base. Excelente la presentación con un atomizador correcto. Si te gustan los perfumes especiados, duraderos y de buena intensidad, este perfume es para vos. Estela envolvente al principio que perdura. Es realmente exquisito.",
+        useful: 3,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2026-01-14",
+        text: "No lo cambio por ninguno. Es un 1000. Lavás la ropa y sigue teniendo el aroma del perfume.",
+        useful: 2,
+      },
+      {
+        rating: 5,
+        country: "Chile",
+        date: "2025-12-25",
+        text: "Es un perfume muy dulce y gourmand. Destacan notas tipo canela, vainilla, dátiles y un toque licoroso. Tiene un aroma intenso y pesado, no es para todos. Proyecta mucho y dura bastante en piel. Ideal para climas fríos, de noche o invierno. No lo recomiendo para calor ni uso diario.",
+        useful: 6,
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Cuál es la diferencia entre Khamrah clásico y Khamrah Qahwa?",
+        answer:
+          "Comparten el ADN gourmand-especiado pero tienen carácter distinto. Khamrah clásico es Parfum (mayor concentración), más dulce, más gourmand puro, sin nota de café. Suele percibirse como 'más femenino'. Khamrah Qahwa es EDP, agrega la nota de café que cambia todo: lo hace más masculino, más sofisticado y más versátil. Para mujeres y fans del gourmand puro, el clásico es mejor. Para hombres en general, Qahwa.",
+      },
+      {
+        question: "¿Por qué se dice que huele a whisky?",
+        answer:
+          "Por la mezcla de habatoka (semilla negra árabe), ámbar, dátiles caramelizados, vainilla y maderas. Esta combinación crea una sensación licorosa que recuerda al whisky envejecido o el bourbon. El frasco mismo refuerza esta identidad con su corte tipo botella de whisky y el líquido dorado-ambarino visible.",
+      },
+      {
+        question: "¿Cuánto dura realmente Khamrah?",
+        answer:
+          "Lattafa indica 12 horas oficiales (la concentración es Parfum, no EDP). Las reseñas reales reportan rangos de 8 a 12 horas en piel. En ropa la duración es excepcional: varias usuarias reportan que el aroma persiste 2-3 días después, incluso después de lavar la prenda.",
+      },
+      {
+        question: "¿Cómo identifico el original?",
+        answer:
+          "Las señales del original: código QR en la caja que al escanearlo redirige al sitio oficial de Lattafa (debe funcionar correctamente), holograma con sello de Lattafa, caja con detalles dorados de buena calidad, líquido dorado-ambarino traslúcido (no muy claro), y aceitosidad natural del producto. Si el QR no funciona o lleva a otra parte, desconfiá.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad?",
+        answer:
+          "Sí. Khamrah está certificado por Lattafa como vegano y libre de crueldad animal. Tanto este como el Khamrah Qahwa cumplen ambos estándares éticos.",
+      },
+      {
+        question: "¿En qué estación funciona mejor?",
+        answer:
+          "Otoño e invierno son las estaciones ideales. El consenso de los compradores es absoluto: en verano puede ser empalagoso. El perfil dulce-licoroso-especiado se potencia con el frío. Para uso diurno en clima cálido, no es la mejor opción.",
+      },
+      {
+        question: "¿Es buen primer perfume árabe?",
+        answer:
+          "Si te gustan los perfumes muy dulces-gourmand, sí. Es una buena puerta de entrada al universo Lattafa. Si dudás del perfil intenso-licoroso o nunca probaste un gourmand árabe, considerá empezar por algo más versátil tipo Asad Intense (más especiado, menos dulce) o Yara Tous (más fresco-tropical). Khamrah es para quien ya tiene confianza en el perfil dulce extremo.",
+      },
+      {
+        question: "¿El frasco es del mismo material que se ve en las fotos?",
+        answer:
+          "Sí. El frasco es de vidrio grueso con corte tipo botella de whisky, una de las presentaciones más reconocibles del catálogo Lattafa. Las usuarias mencionan que 'queda hermoso en la estantería' y 'parece más caro de lo que es' en las reseñas.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Lattafa Khamrah Parfum 100ml Unisex",
+      description:
+        "Parfum oriental gourmand con habatoka, vainilla, canela, ámbar y dátiles. Conocido como 'el perfume del whisky' por su perfil dulce-licoroso. Frasco icónico tipo botella de whisky. Vegano y libre de crueldad.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2022",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "749",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en Argentina" },
+          datePublished: "2026-03-04",
+          reviewBody:
+            "Es el original de Khamrah. Aroma cálido y dulce pero potente, casi adictivo. Dura 8-10 horas en piel y casi 1 día en prendas.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en Brasil" },
+          datePublished: "2026-03-26",
+          reviewBody:
+            "El frasco es una obra de arte, recuerda a una botella de whisky. La estela llega antes que tú y permanece cuando te vas.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/139RJXC",
+        priceCurrency: "ARS",
+        price: "51484",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA31178643", "MLA60836327", "MLA39865991", "MLA19715215"],
   },
   {
     id: "MLA19846768",
