@@ -7314,7 +7314,9 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA53013853",
-        description: "Dulce especiado con cardamomo, canela y vainilla. Unisex con leve tendencia femenina. Khamrah fue el perfume que puso a Lattafa en el mapa mundial antes incluso que Yara.",
+        label: "El whisky con vainilla",
+        labelColor: "amber",
+        description: "El original de la línea Khamrah, lanzado en 2022. Habatoka, canela, vainilla y ámbar. Conocido como \"el perfume del whisky\" por su perfil dulce-licoroso y su frasco icónico tipo botella de whisky. Concentración Parfum (alta). Rating 4.8 con 749 reseñas. Vegano y libre de crueldad. Solo invierno y noche.",
         ranking: 4
       },
       {
@@ -7327,15 +7329,19 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Khamrah clásico:** más dulce y empalagoso. Crítica recurrente entre algunos usuarios: \"huele a aromatizante de carro con canela\". Tira más a femenino. Más accesible en precio. NO es vegano."
+        content: "**Khamrah clásico ($51.484):** concentración **Parfum** (mayor que EDP), lanzamiento 2022, más dulce y gourmand puro sin nota de café, suele percibirse como \"más femenino\". 749 reseñas con rating 4.8. Crítica recurrente entre algunos usuarios: \"huele a aromatizante de auto con canela\"."
       },
       {
         type: "p",
-        content: "**Khamrah Qahwa:** la nota de café cambia todo. Más sofisticado, más equilibrado, más versátil para hombres. Vegano y libre de crueldad. La elección preferida cuando alguien busca un Khamrah \"con personalidad\"."
+        content: "**Khamrah Qahwa ($47.846):** concentración EDP, lanzamiento 2023, la nota de café cambia todo — más sofisticado, más equilibrado, más versátil para hombres. 7.137 reseñas con rating 4.8 (volumen 10× mayor). La elección preferida cuando alguien busca un Khamrah \"con personalidad\"."
       },
       {
         type: "p",
-        content: "Si vas a tener uno solo: para mujer, el clásico funciona mejor en general por su perfil más dulce-postre. Para hombre o uso compartido, Qahwa es la elección. Las reseñas masculinas coinciden: \"este es mejor que el khamrah para hombres\". Una usuaria mexicana resume: \"tengo el khamrah normal y me gustó más este, esa notita de café le da un toque riquísimo\"."
+        content: "**Diferencia técnica clave:** el clásico es Parfum (mayor concentración → más duración), el Qahwa es EDP (menor concentración pero mejor balance gracias al café). Ambos son veganos y libres de crueldad. Las reseñas masculinas coinciden: para hombres, Qahwa es mejor. Para mujeres y fans del gourmand puro, el clásico funciona mejor."
+      },
+      {
+        type: "p",
+        content: "**¿Cuál comprar?** Para mujer, Khamrah clásico. Para hombre, Khamrah Qahwa. Para regalar sin saber preferencia, Khamrah Qahwa (más versátil y con más volumen de validación social). Para coleccionar, ambos son complementarios — uno cubre el invierno-postre, el otro el invierno-café."
       },
       {
         type: "product-card",
