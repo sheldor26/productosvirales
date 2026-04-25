@@ -12414,7 +12414,96 @@ La mejor defensa es comprar de vendedores con reputación Mercado Líder Platinu
     reviewCount: 572,
     reviewsWithPhotos: 4,
     soldQuantity: 100,
+    tiktokViews: "20M+",
+    badge: "viral",
     pastelColor: "var(--pastel-pink)",
+
+    // ── Pros / Cons / Verdict (visible en página individual) ──
+    pros: [
+      "572 reseñas con rating 4.8 — el Yara mejor valorado del mercado argentino",
+      "10-12 horas de duración real reportada por compradoras (Lattafa indica 8h)",
+      "Versión más concentrada de la familia Yara — base oriental con vainilla y ámbar",
+      "Frasco rosa con tapón dorado — uno de los packagings más reconocibles del nicho",
+      "Libre de crueldad animal certificado por Lattafa",
+      "Comparable a Kayali Vanilla 28 a una fracción del precio",
+    ],
+    cons: [
+      "Dulzor denso — empalagoso en verano caluroso o ambientes cerrados",
+      "No es para perfiles frescos — si te gustan los cítricos tipo Jo Malone, no es para vos",
+      "No incluye estuche adicional",
+      "No es vegano ni libre de alcohol",
+      "Variantes que confunden — Tous, Moi, Candy, original (ver guía completa)",
+    ],
+    verdict:
+      "El perfume árabe femenino más viral de TikTok, en su versión más intensa. Si ya conocés Yara y querés algo con más presencia, Elixir es la elección. Para otoño-invierno y noche; en verano puede empalagar.",
+
+    // ── Article body (mini-review editorial) ────────────
+    articleBody: `Yara Elixir es la versión más concentrada de la línea Yara de Lattafa, lanzada en 2025 después del éxito mundial del Yara original (2020). En Mercado Libre Argentina tiene rating 4.8 con 572 calificaciones, y es uno de los perfumes árabes femeninos más buscados del catálogo.
+
+La pirámide olfativa es floral-gourmand-oriental: apertura frutal con mandarina y durazno; corazón con flor de naranjo y caramelo; fondo con vainilla, almizcle blanco y ámbar. La diferencia con el Yara original está en la base: más profunda, más oriental, más envolvente. Si el original te resultó simple, Elixir es donde se vuelve interesante.
+
+## Duración real vs oficial
+
+Lattafa indica 8 horas oficiales para Yara Elixir. Las compradoras argentinas reportan en general 10 a 12 horas en piel, con permanencia notable en ropa al día siguiente. La variación depende del tipo de piel y la cantidad de sprays, como con cualquier parfum oriental.
+
+El consenso es claro: con 2-3 sprays alcanza. Con más, el dulzor de la base se vuelve denso y puede empalagar en ambientes cerrados.
+
+## Sobre la comparación con Kayali Vanilla 28
+
+La comparación más frecuente es con **Kayali Vanilla 28**, que cuesta entre $250.000 y $350.000 importado. Otros lo comparan con **Maison Francis Kurkdjian Grand Soir** ($500.000+). Yara Elixir cuesta $68.000 en Argentina al momento de esta review.
+
+¿Es un dupe directo? No. Comparten la familia gourmand-oriental con vainilla protagonista, pero Yara Elixir tiene su identidad propia: más floral en el corazón, más frutal en la salida, y un fondo con almizcle blanco que los otros no tienen. Para quien nunca probó ningún perfume del perfil, es una excelente puerta de entrada.
+
+## Cuándo usarlo y cuándo no
+
+Las compradoras coinciden en que es un perfume de **otoño-invierno y noche**. El perfil dulce-oriental se potencia con el frío y proyecta mejor. En verano caluroso o ambientes cerrados puede resultar pesado, especialmente si te aplicás de más.
+
+Para oficina diurna, conviene reducir a 1-2 sprays o reservarlo para reuniones importantes. Para salidas, casamientos, eventos elegantes y citas: es ideal.
+
+## Frasco y presentación
+
+El packaging es uno de los más reconocibles del catálogo Lattafa. Frasco rosa claro con detalles en oro rosado y el medallón central que identifica a toda la línea Yara. Pesa 525g con caja incluida (no trae estuche adicional para regalo).
+
+## Cómo identificar el original
+
+Yara, al ser uno de los perfumes árabes más vendidos del mundo, tiene falsificaciones en circulación. Las señales del producto auténtico:
+
+- Frasco con peso sólido (no plástico liviano)
+- Medallón central en relieve, no adhesivo
+- Líquido con tono rosado-translúcido
+- Tapa que encaja firmemente
+- Etiqueta con código de lote impreso
+- Vendedor con reputación Mercado Líder Platinum o Gold
+
+Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de precios muy por debajo del promedio es la mejor defensa.
+
+## Para quién es y para quién no
+
+**Es para vos si:** te gustan los perfumes dulces-orientales tipo Kayali, Delina o gourmands modernos; querés un perfume con presencia para noche; vivís en zona con otoño-invierno marcado; buscás un Yara con más profundidad que el original.
+
+**No es para vos si:** preferís perfumes frescos cítricos tipo Jo Malone; vivís en clima tropical; querés algo discreto para oficina diurna sin moderar la cantidad de sprays; buscás un Yara más liviano (en ese caso, Yara Tous es la mejor opción accesible).`,
+
+    // ── Specs (tabla técnica visible) ───────────────────
+    specs: [
+      { label: "Tipo", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Mujer" },
+      { label: "Familia olfativa", value: "Floral, gourmand, oriental vainilla" },
+      { label: "Duración oficial", value: "8 horas (según Lattafa)" },
+      { label: "Duración real reportada", value: "10 a 12 horas en piel" },
+      { label: "Proyección", value: "Media-alta" },
+      { label: "Estación ideal", value: "Otoño e invierno" },
+      { label: "Ocasión recomendada", value: "Noche, eventos elegantes, citas, casamientos" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2025 (Elixir); 2020 (Yara original)" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche adicional", value: "No" },
+      { label: "Peso del paquete", value: "525g" },
+      { label: "Dimensiones del paquete", value: "19 × 11 × 14 cm" },
+    ],
 
     // ── Brand metadata ──────────────────────────────────
     brand: "Lattafa",
