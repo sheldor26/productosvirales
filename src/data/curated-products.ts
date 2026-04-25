@@ -14249,9 +14249,11 @@ Recomendación final: si dudás entre el set y un 100ml individual, andá por el
   },
   {
     id: "MLA45984979",
-    title: "Set Lattafa Yara Rosa + Candy 5to Aniversario",
-    price: 88555.5,
-    originalPrice: 98000,
+    title: "Set Lattafa Yara + Yara Candy 5th Anniversary Edition 2x100ml Mujer",
+    price: 100528,
+    priceUpdated: "2026-04-25",
+    priceStatus: "fresh",
+    originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_937211-MLA82332023463_022025-O.webp",
     images: [
@@ -14266,9 +14268,332 @@ Recomendación final: si dudás entre el set y un 100ml individual, andá por el
     permalink: "https://www.mercadolibre.com.ar/set-lattafa-yara-rosa-candy-5to-aniversario/p/MLA45984979",
     affiliateUrl: "https://meli.la/2qjxA7G",
     condition: "new",
-    freeShipping: true,
-    rating: 5,
+    freeShipping: false,
+    rating: 4.8,
+    reviewCount: 811,
+    badge: "collector",
     pastelColor: "var(--pastel-pink)",
+
+    description:
+      "Edición especial 5to aniversario de Lattafa: Yara original (rosa pastel) + Yara Candy (rosa fucsia) en formato 100 ml cada uno. La elegancia clásica de Yara y la dulzura juvenil de Candy en un solo set coleccionable. Rating 4.8 con 811 reseñas. Compra internacional.",
+
+    pros: [
+      "2 × 100 ml — el formato más grande, suficiente para meses de uso intensivo",
+      "Las 2 versiones más vendidas y populares de la línea Yara",
+      "Rating 4.8 con 811 reseñas — uno de los sets mejor valorados del catálogo",
+      "Edición limitada del 5to aniversario — coleccionable",
+      "Ideal para layering (mezclar ambas fragancias)",
+      "Presentación elegante de edición especial — alto valor de regalo premium",
+      "Las dos fragancias son complementarias: Yara para diario, Candy para ocasiones",
+    ],
+    cons: [
+      "Precio alto: solo $3.869 más barato que comprar las 2 versiones individuales sueltas",
+      "NO vegano (a diferencia del Set My Yara Collection que sí lo es)",
+      "NO libre de crueldad animal",
+      "Solo 2 fragancias — si querés probar las 4 versiones, mejor el Set My Yara Collection",
+      "Compra internacional: el precio final puede incluir aranceles e impuestos extra",
+    ],
+    verdict:
+      "El set para fans confirmados de Yara que quieren las 2 versiones más populares en formato 100 ml grande con presentación coleccionable. Si todavía no probaste la línea Yara, mejor empezá por el Set My Yara Collection ($64.508) con 4 fragancias en 25 ml. Si ya sabés que Yara y Candy son tus favoritos, este set te da el formato grande con el bonus del packaging especial.",
+
+    seoTitle: "Set Yara + Yara Candy 5to Aniversario 2x100ml — Review + 811 Opiniones",
+    metaDescription:
+      "Set edición limitada Yara + Yara Candy 5to aniversario: review completa, 200+ reseñas analizadas, comparación contra Set My Yara Collection y compra individual. Rating 4.8 ML.",
+    ogTitle: "Set Yara + Yara Candy 5to Aniversario — Edición Especial Lattafa",
+    ogDescription:
+      "Las 2 Yara más vendidas en 100ml cada una. Edición limitada coleccionable. Rating 4.8 con 811 reseñas verificadas.",
+    h1: "Set Lattafa Yara + Yara Candy 5to Aniversario — la edición especial para fans confirmados",
+
+    articleBody: `El Set 5to Aniversario es la edición especial que Lattafa lanzó en 2024 para celebrar 5 años desde el lanzamiento del Yara original (2020). Incluye dos productos: Yara EDP en frasco rosa pastel y Yara Candy EDP en frasco rosa fucsia, ambos en formato 100 ml. Con 811 calificaciones y rating 4.8 en Mercado Libre, es uno de los productos mejor valorados del catálogo árabe femenino.
+
+A diferencia del Set My Yara Collection (4 fragancias × 25ml por $64.508), este set apunta a un público distinto: fans confirmados de la línea que ya saben que les gustan estas dos versiones específicas y quieren cantidades grandes para uso intensivo a largo plazo.
+
+## Las dos fragancias del set
+
+**Yara original (rosa pastel) — 2020.** La fragancia que dio inicio a toda la línea. Apertura con heliotropo, orquídea y mandarina; corazón con acorde gourmand y frutas tropicales; base de vainilla, sándalo y almizcle. Las compradoras la describen como la versión "más elegante", "más sutil" y "más sofisticada" de la línea Yara. Una compradora mexicana lo resume así: "Yara es la versión clásica: cremoso, floral, sofisticado. Es dulce, pero no empalagoso; tiene ese toque elegante que se siente limpio, femenino y duradero".
+
+**Yara Candy (rosa fucsia) — 2024.** La versión más juvenil de la línea, lanzada el mismo año que el set. Apertura con tangerina verde y grosella negra; corazón con caramelo de fresa efervescente y gardenia; base con sándalo, jarabe de vainilla, almizcle y ámbar. Las compradoras la describen como "huele a gomitas y caramelos", "más intensa", "más dulce". Es la cara más juguetona de Yara, ideal para quienes prefieren los gourmands extremos.
+
+## Los dos perfiles son complementarios, no competidores
+
+Esta es la clave del set: las dos fragancias cubren momentos distintos del día y de la vida. La gran mayoría de las compradoras coinciden en este punto. Yara original sirve para diario, oficina, momentos tranquilos donde querés algo elegante sin ser invasivo. Yara Candy es para salidas, ocasiones especiales, climas cálidos donde querés algo divertido y notado.
+
+Una compradora argentina con experiencia resume: "uno divertido y otro más sofisticado, mis hijas enamoradas de ambos". Otra menciona: "Yara representa la dulzura elegante, mientras que Yara Candy es la dulzura atrevida".
+
+## Cómo distinguen las dos en las reseñas
+
+En las reseñas analizadas, las compradoras tienen sus propios apodos para diferenciarlas: "el rosa claro", "el rosa pastel" o "el bajito" para Yara original, vs "el rosa fuerte", "el fucsia" o "el intenso" para Candy. Una mexicana lo describe perfecto: "el fucsia es dulce/intenso, el rosa palo más a talco de bebé, aroma suave".
+
+## La opción del layering
+
+Algunas compradoras descubrieron una tercera forma de usar el set: mezclando las dos fragancias (técnica conocida como "layering"). Una usuaria argentina específicamente reporta: "compré el pack para layering aunque me gustan ambos por separado". Aplicar Yara como base y Yara Candy arriba (o viceversa) crea un perfil único que combina la sofisticación del original con la dulzura del Candy. No es para todas, pero es una opción interesante para quienes quieren personalizar.
+
+## Precio y conveniencia versus alternativas
+
+El set cuesta $100.528 (compra internacional) e incluye 200 ml totales. Comparado con:
+
+- **Set My Yara Collection ($64.508):** 4 fragancias × 25 ml = 100 ml total. Mejor para descubrir la línea o regalar a alguien que nunca probó Yara. Único producto vegano del catálogo.
+- **Yara individual 100 ml:** ~$60.000.
+- **Yara Candy individual 100 ml:** $44.397.
+- **Sumados ($60.000 + $44.397 = $104.397):** El set sale levemente más conveniente que comprar las 2 fragancias por separado, pero la diferencia es marginal ($3.869).
+
+La ventaja real del set no es tanto el precio sino la **edición limitada coleccionable** y el **valor de regalo premium**. La caja de aniversario es más elegante que las cajas individuales y para un regalo de cumpleaños, día de la madre o aniversario, suma puntos visuales.
+
+**Atención:** el precio "Compra internacional" implica que el envío puede demorar más y que el monto final puede incluir aranceles e impuestos de importación. Verificá en la ficha de Mercado Libre antes de cerrar la compra.
+
+## Verificación de autenticidad
+
+Las falsificaciones existen. Las compradoras verifican autenticidad con estos signos:
+
+- **Código QR** en la caja que al escanearlo redirige a la página oficial de Lattafa
+- **Sello holográfico** visible en el packaging
+- **Relieve** en los frascos y la caja del set
+- **Acabado dorado/plateado** de buena calidad
+- **Aceitosidad natural** del producto (las falsificaciones tienden a ser más líquidas)
+
+Una usuaria mexicana lo confirma: "es 100% original, el código te lleva a la página de Lattafa".
+
+## El truco del macerado
+
+Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por un mes ya que cuando recién la usas no dura casi nada, después de un mes ya se siente el verdadero olor". Es el mismo concepto que aparece en las reseñas individuales del Yara Candy: si recibís el set y la primera prueba te decepciona, dejá los frascos en su caja por 2-4 semanas sin moverlos. Es un proceso real conocido en perfumería.
+
+## Para quién es y para quién no
+
+**Es para vos si:** ya conocés y amás Yara y Yara Candy y querés ambos en formato grande; vas a usarlos intensivamente a largo plazo; estás eligiendo un regalo premium que pase los $80.000; te gustan las ediciones limitadas coleccionables.
+
+**No es para vos si:** nunca probaste Yara (mejor el Set My Yara Collection); querés probar también Tous, Moi o Elixir; el veganismo o cruelty-free es importante para vos (este set NO lo es); preferís invertir en Yara Elixir.`,
+
+    specs: [
+      { label: "Tipo", value: "Set de 2 Eau de Parfum" },
+      { label: "Volumen por frasco", value: "100 mL" },
+      { label: "Volumen total", value: "200 mL (2 × 100 mL)" },
+      { label: "Fragancias incluidas", value: "Yara original + Yara Candy" },
+      { label: "Género", value: "Mujer" },
+      { label: "Familias olfativas", value: "Floral, Frutal, Gourmand, Avainillado" },
+      { label: "Duración aproximada", value: "8 horas (variable según fragancia)" },
+      { label: "Proyección", value: "Moderada (Yara) a alta (Candy)" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año del set", value: "2024 (5to aniversario de Yara)" },
+      { label: "Edición", value: "Limitada / Coleccionable" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de crueldad", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray (cada frasco)" },
+      { label: "Incluye estuche", value: "Sí (caja de edición especial)" },
+      { label: "Es set", value: "Sí" },
+      { label: "Tipo de compra", value: "Compra internacional" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Yara 5to Aniversario",
+    version: "Pack Edición Limitada",
+    gender: "Mujer",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 200,
+    volumeUnit: "mL",
+    color: "Rosa pastel + Rosa fucsia",
+
+    olfactiveFamily: ["Floral", "Frutal", "Gourmand", "Avainillado"],
+    notes: {
+      top: ["Heliotropo", "Orquídea", "Mandarina", "Tangerina verde", "Grosella negra"],
+      heart: ["Acorde gourmand floral", "Frutas tropicales", "Caramelo de fresa efervescente", "Gardenia"],
+      base: ["Vainilla", "Sándalo", "Almizcle", "Jarabe de vainilla", "Ámbar"],
+    },
+    notesDisclaimer:
+      "Pirámide combinada de las 2 fragancias del set. Yara original es más floral-cremoso (heliotropo, orquídea, mandarina, vainilla); Yara Candy es más afrutado-azucarado (tangerina verde, grosella negra, fresa, caramelo, ámbar). Ver fichas individuales para la pirámide específica de cada una.",
+
+    duration: "8 horas (variable según fragancia y tipo de piel)",
+    durationHours: 8,
+    projection: "Media-alta",
+    projectionNote:
+      "Yara original tiene proyección más sutil; Yara Candy proyecta más fuerte. Las compradoras reportan que ambas duran todo el día con 2-3 sprays. Mejora con macerado de 2-4 semanas en su caja antes del primer uso.",
+
+    bestSeason: ["Primavera", "Verano", "Otoño", "Invierno"],
+    bestOccasion: ["Regalo premium", "Coleccionar línea Yara", "Uso intensivo a largo plazo", "Layering", "Día de la madre", "Aniversarios"],
+    notRecommendedFor: ["Quien nunca probó Yara", "Quien busca producto vegano", "Presupuesto ajustado", "Quien quiere probar 4+ versiones de Yara"],
+
+    crueltyFree: false,
+    vegan: false,
+    alcoholFree: false,
+    includesCase: true,
+    isSet: true,
+
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2024,
+    originalLineYear: 2020,
+
+    ratingBreakdown: {
+      five: "~85%",
+      four: "~10%",
+      three: "~3%",
+      two: "~1%",
+      one: "~1%",
+    },
+
+    aiReviewSummary:
+      "El set destaca por su aroma súper lindo y dulce, siendo muy apreciado por la calidad-precio. Ambas versiones son persistentes y altamente recomendables. Las compradoras coinciden en que Yara y Yara Candy son complementarias: una elegante para diario, otra dulce-juvenil para ocasiones. Algunas compran el pack específicamente para layering. Las quejas más frecuentes son sobre el costo de envío internacional y que no es vegano.",
+
+    comparedTo: [
+      {
+        name: "Set My Yara Collection (4 × 25 ml = $64.508)",
+        similarity:
+          "Producto del mismo universo pero distinto público. My Yara Collection es para descubrir (4 fragancias × 25 ml = 100 ml total, vegano, libre de crueldad). Este Set 5to Aniversario es para fans confirmados (2 fragancias × 100 ml = 200 ml total, NO vegano).",
+      },
+      {
+        name: "Compra individual de Yara 100 ml + Yara Candy 100 ml",
+        similarity:
+          "Casi mismo precio total ($60.000 + $44.397 = $104.397 individual vs $100.528 set). La ventaja del set es la edición especial coleccionable, no el ahorro económico (apenas $3.869).",
+      },
+      {
+        name: "Yara Elixir individual ($68.000)",
+        similarity:
+          "Si dudás entre el set y comprar Yara Elixir, considerá: el set te da 2 versiones populares en 100 ml cada una. Yara Elixir es una sola versión pero con mayor concentración, proyección y perfil oriental-noche.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-08-09",
+        text: "Es 100% original ya que el código te lleva a la página de Lattafa. Huelen súper delicioso. El rosa claro es mi favorito. El rosa fuerte es más sutil y un poco más dulce, pero los dos son agradables, duran todo el día y eso que vivo en el calor.",
+        useful: 26,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-11-22",
+        text: "Yara es la versión clásica: aroma cremoso, floral y sofisticado. Sus notas de orquídea, vainilla y sándalo envuelven la piel con calidez suave. Yara Candy es la cara más juguetona y moderna: grosella, mandarina verde, caramelo de fresa, gardenia. En conjunto, Yara representa la dulzura elegante, mientras que Yara Candy es la dulzura atrevida.",
+        useful: 18,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-04-21",
+        text: "Son originales, ya los conozco a los Yara. Compré el pack para layering aunque me gustan ambos por separado. Dulcecitos: uno más frutilla cremosito y el otro más frutal. De diez.",
+        useful: 14,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-03-13",
+        text: "Son exquisitos ambos perfumes, muy diferente uno de otro, cada uno con su particularidad pero ambas fragancias totalmente femeninas sin lugar a dudas.",
+        useful: 9,
+      },
+      {
+        rating: 5,
+        country: "Colombia",
+        date: "2026-03-28",
+        text: "Ya tenía la Yara Candy y la volví a pedir. Recomiendo dejarla macerar por un mes, ya que cuando recién la usas no dura casi nada. Después de un mes ya se siente el verdadero olor. Durante ese tiempo se van a dar cuenta de la evolución del olor.",
+        useful: 11,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2026-02-15",
+        text: "El fucsia es dulce/intenso, el rosa palo más a talco de bebé, aroma suave. A mi esposa le encantó el fucsia/rosa más fuerte, y preferí comprar ambos en combo, muy buenos en calidad-precio.",
+        useful: 7,
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Qué incluye el Set 5to Aniversario?",
+        answer:
+          "Dos perfumes Lattafa de la línea Yara, cada uno en formato 100 ml: Yara original (frasco rosa pastel) y Yara Candy (frasco rosa fucsia). Vienen presentados en una caja de edición especial conmemorativa por los 5 años del lanzamiento de Yara original en 2020. NO incluye Yara Tous, Moi ni Elixir.",
+      },
+      {
+        question: "¿Cuál es la diferencia con el Set My Yara Collection?",
+        answer:
+          "Son productos distintos para públicos distintos. El Set My Yara Collection ($64.508) tiene 4 fragancias × 25 ml (incluye Yara, Yara Moi, Yara Tous y Yara Candy) y es ideal para descubrir la línea o regalar a alguien que nunca la probó. Es vegano y libre de crueldad. El Set 5to Aniversario ($100.528) tiene 2 fragancias × 100 ml (solo Yara y Yara Candy) y es para fans confirmados que quieren ambas versiones en formato grande con presentación coleccionable. NO es vegano.",
+      },
+      {
+        question: "¿Vale la pena versus comprar las 2 fragancias por separado?",
+        answer:
+          "El precio individual sumado de Yara ($60.000 aprox) y Yara Candy ($44.397) da $104.397, levemente superior a los $100.528 del set. La conveniencia económica es marginal ($3.869). La ventaja real está en la edición limitada coleccionable y el valor de regalo. Si buscás solo precio, comprá las 2 individualmente. Si buscás el packaging especial o lo querés como regalo, el set vale la pena.",
+      },
+      {
+        question: "¿Cómo huele cada fragancia?",
+        answer:
+          "Yara original es la versión clásica: floral-cremoso-sofisticado. Apertura con heliotropo, orquídea y mandarina, base de vainilla, sándalo y almizcle. Las compradoras la describen como 'elegante' y 'a talco de bebé suave'. Yara Candy es la versión juguetona: frutal-azucarado-dulce. Apertura con tangerina verde y grosella negra, corazón con caramelo de fresa, base de sándalo y vainilla. Las compradoras la describen como 'huele a gomitas'.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad?",
+        answer:
+          "No. A diferencia del Set My Yara Collection que sí es vegano y cruelty-free, este Set 5to Aniversario no tiene esas certificaciones. Si la elección vegana es importante para vos, andá por el Set My Yara Collection.",
+      },
+      {
+        question: "¿Cuánto duran las fragancias?",
+        answer:
+          "Lattafa indica 8 horas oficiales. Las reseñas reales reportan rangos similares: las dos duran entre 6-8 horas en piel y considerablemente más en ropa. La duración varía por tipo de piel. Una usuaria experta colombiana recomienda dejar los perfumes macerar 2-4 semanas en su caja antes de usarlos para mejorar la duración.",
+      },
+      {
+        question: "¿Sirve para layering (mezclar las dos)?",
+        answer:
+          "Sí, varias compradoras compraron específicamente el set para hacer layering, aplicando una fragancia como base y la otra arriba. La combinación crea un perfil único que mezcla la sofisticación del Yara original con la dulzura del Candy. No es para todas, pero es una opción válida para quienes quieren personalizar.",
+      },
+      {
+        question: "¿Cómo verifico que es original?",
+        answer:
+          "Las señales son: código QR que al escanearlo te lleva a la página oficial de Lattafa, sello holográfico en la caja, relieve en los frascos y la caja del set, acabado dorado/plateado de buena calidad. Si el código QR no redirige al sitio de Lattafa, desconfiá.",
+      },
+      {
+        question: "¿Por qué dice 'Compra internacional'?",
+        answer:
+          "Significa que el producto se importa de fuera de Argentina (típicamente desde un seller internacional vía Mercado Libre Internacional). El envío puede tardar más que un envío local y el precio final puede incluir aranceles e impuestos de importación que se calculan al cerrar la compra. Verificá los detalles de envío y costos finales en la ficha de ML antes de pagar.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Set Lattafa Yara + Yara Candy 5th Anniversary Edition 2x100ml",
+      description:
+        "Edición limitada por el 5to aniversario de Yara: Yara original (rosa pastel) + Yara Candy (rosa fucsia) en formato 100 ml cada uno. Dos perfumes árabes complementarios con presentación especial coleccionable.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Set Edición Especial",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2024",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "811",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Compradora en México" },
+          datePublished: "2025-08-09",
+          reviewBody:
+            "100% original. El código QR te lleva a la página de Lattafa. Huelen súper delicioso, ambos duran todo el día.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Compradora en Argentina" },
+          datePublished: "2025-04-21",
+          reviewBody:
+            "Compré el pack para layering aunque me gustan ambos por separado. Dulcecitos: uno más frutilla cremosito, el otro más frutal.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2qjxA7G",
+        priceCurrency: "ARS",
+        price: "100528",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA51612102", "MLA39865991", "MLA60836327", "MLA40521028"],
   },
   {
     id: "MLA32288168",
