@@ -12313,9 +12313,9 @@ La mejor defensa es comprar de vendedores con reputación Mercado Líder Platinu
   },
   {
     id: "MLA29780185",
-    title: "Perfume Hombre Rasasi Hawas Ice Edp 100ml",
-    price: 83599,
-    priceUpdated: "2026-04-20",
+    title: "Rasasi Hawas Ice EDP 100ml Hombre",
+    price: 76284,
+    priceUpdated: "2026-04-25",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
@@ -12333,8 +12333,368 @@ La mejor defensa es comprar de vendedores con reputación Mercado Líder Platinu
     affiliateUrl: "https://meli.la/24kQeRc",
     condition: "new",
     freeShipping: true,
-    rating: 5,
-    pastelColor: "var(--pastel-pink)",
+    rating: 4.8,
+    reviewCount: 9144,
+    tiktokViews: "40M+",
+    badge: "tiktok-viral",
+    pastelColor: "var(--pastel-blue, #BFE0EA)",
+
+    description:
+      "La versión fresca-frutal de la línea Hawas, lanzada en 2023. EDP masculino con apertura de bergamota, lima y menta; corazón de flor de naranja, cardamomo, ciruela, grosellas negras y la nota distintiva de manzana congelada; base de pachulí, ámbar, haba tonka y sándalo. Posicionado por los compradores como alternativa accesible al Paco Rabanne Invictus. 9.144 reseñas con rating 4.8.",
+
+    pros: [
+      "9.144 reseñas con rating 4.8 — top 5 masculinos más validados del catálogo",
+      "Comparado constantemente con Paco Rabanne Invictus a un tercio del precio",
+      "La nota de 'manzana congelada' es única — no hay árabe con perfil idéntico",
+      "Versátil: gym, oficina, citas casuales, salidas de verano",
+      "Cruelty-free certificado",
+      "Frasco premium azul-glacial con tapa trenzada blanca distintiva",
+      "En ropa el aroma persiste hasta 24 horas (mencionado constantemente)",
+    ],
+    cons: [
+      "NO es vegano (a diferencia de Bharara King del mismo segmento premium)",
+      "NO incluye estuche",
+      "Para algunos resulta 'demasiado común' (se huele en muchos hombres)",
+      "Lote 2024 cambió el diseño: la palabra 'Rasasi' YA NO aparece en la tapa de algunos lotes — confunde a compradores",
+      "En verano extremo puede empalagar por la base dulce-frutal",
+      "Falsificaciones frecuentes — verificar atomizador plateado por dentro y tapa pesada",
+    ],
+    verdict:
+      "El masculino fresco-frutal del catálogo. Si buscás un perfume similar al Paco Rabanne Invictus pero a un tercio del precio, Hawas Ice es la elección. Para hombres jóvenes y medios que quieren algo versátil y validado por miles de compradores, no falla. La nota de manzana congelada es lo que lo diferencia de cualquier otro fresco del catálogo.",
+
+    seoTitle: "Rasasi Hawas Ice 100ml — Review + 9.144 Opiniones Reales",
+    metaDescription:
+      "Hawas Ice de Rasasi: review completa con análisis de 200+ reseñas reales. Pirámide olfativa (manzana congelada, cítrico, ciruela), comparación con Paco Rabanne Invictus y autenticidad.",
+    ogTitle: "Rasasi Hawas Ice — el masculino fresco-frutal árabe más viral",
+    ogDescription:
+      "Bergamota, lima, menta, manzana congelada y ciruela. Rating 4.8 con 9.144 reseñas. Para verano, gym y citas.",
+    h1: "Rasasi Hawas Ice — el masculino árabe que compite con el Paco Rabanne Invictus",
+
+    articleBody: `Rasasi Hawas Ice es uno de los masculinos árabes más virales de los últimos dos años. Lanzado en 2023, llegó al mercado argentino con la fuerza de TikTok detrás y se quedó por mérito propio. Con 9.144 calificaciones en Mercado Libre y rating 4.8, está en el top 5 de los más validados del segmento masculino, junto con Bharara King (11.532 reseñas), Asad Intense (7.245) y Khamrah Qahwa (7.137).
+
+La pirámide olfativa oficial de Rasasi describe apertura con bergamota, lima y menta, corazón con flor de naranja, cardamomo, ciruela y grosellas negras, base con pachulí, ámbar, haba tonka y sándalo. En palabras de los compradores, esto se traduce en un descriptor distintivo y constante: "huele a manzana congelada con cítrico fresco" — y esa nota de manzana helada es lo que diferencia a Hawas Ice de su versión clásica (Hawas original) y de cualquier otro árabe del catálogo.
+
+## La gran comparación: Hawas Ice vs Paco Rabanne Invictus
+
+Esta es la comparación que más se repite en las reseñas. Los compradores que tienen ambos suelen coincidir: Hawas Ice ofrece un perfil similar al Invictus a un tercio del precio. Una compradora argentina lo dice sin vueltas: "mejor que el Invictus, 24hs en la ropa". Otro: "es un Invictus a una fracción de su precio".
+
+¿Es un dupe oficial? No. Pero comparten:
+- Perfil fresco-frutal-aromático
+- Base ambarino-amaderada con tonka
+- Versatilidad para uso diario y deportivo
+- Público target similar (hombres jóvenes-medios)
+
+Si nunca probaste el Invictus, Hawas Ice es una buena puerta de entrada al perfil. Si te gusta el Invictus, vas a encontrar en Hawas Ice una alternativa de relación precio/calidad superior.
+
+## Hawas Ice vs Hawas original
+
+Otra duda frecuente: ¿qué diferencia hay entre el Hawas clásico y el Ice? Las reseñas de quienes tienen ambos coinciden:
+
+**Hawas clásico:**
+- Más dulce-chicloso
+- Menos fresco
+- Más para invierno
+
+**Hawas Ice (este):**
+- Agrega la nota de manzana congelada
+- Más fresco y frutal
+- Versátil para todas las estaciones
+
+Una compradora chilena lo resume: "el Hawas normal era muy chicloso, este es más frutal". Para verano y uso versátil, Ice es la mejor elección.
+
+## Duración y proyección
+
+EDP con 8 horas oficiales según Rasasi. Las reseñas reportan:
+
+- En piel: 5 a 8 horas en promedio
+- En ropa: hasta 24 horas (mencionado constantemente)
+- Casos extremos: una usuaria peruana reporta más de 12 horas en piel
+- Casos negativos minoritarios: 3-4 horas en pieles muy secas
+
+La proyección es alta durante las primeras 2-3 horas y se vuelve más íntima en el secado. Con 3-5 atomizaciones alcanza para crear estela notable. Más cantidad puede volverse invasivo en ambientes cerrados.
+
+## Cuándo usarlo
+
+A diferencia de los gourmand árabes tipo Khamrah que están limitados a invierno, Hawas Ice funciona en climas templados, primaverales y veraniegos. Las reseñas tienen consenso:
+
+- **Verano y primavera:** uso principal
+- **Gym:** muy popular para entrenamientos
+- **Oficina:** versátil sin ser invasivo
+- **Citas casuales:** funciona muy bien
+- **Verano extremo:** puede empalagar (la base dulce se potencia con calor extremo)
+
+## Frasco y presentación
+
+El packaging es uno de los más distintivos del catálogo Rasasi. Frasco azul-glacial con gradiente de azules, tapa trenzada blanca tipo "cuerda náutica", logo Rasasi en plateado. La caja es plateada-azul con estética glacial. Visualmente parece más caro de lo que es.
+
+**IMPORTANTE sobre el lote 2024:** Rasasi cambió el diseño en algunos lotes 2024. La palabra "Rasasi" YA NO aparece en la tapa, y el batchcode ahora viene a un costado de la caja (no abajo). Esto generó muchas dudas en compradores que pensaron que era falso. Si tu Hawas Ice no tiene "Rasasi" en la tapa, puede ser igualmente original — verificar el resto de elementos.
+
+## Verificación de autenticidad
+
+Las falsificaciones existen. Las señales del original:
+
+- **Atomizador plateado por dentro** (las falsificaciones suelen tener atomizador de otro color)
+- **Tapa pesada** (las falsificaciones tienen tapas livianas)
+- **Etiqueta de papel correcta** con tipografía precisa
+- **Batchcode visible** (puede estar abajo o al costado de la caja según lote)
+- **Aceitosidad natural** del producto
+- **Verificación en checkfresh.com** con el batch code (algunos lotes nuevos no aparecen aún)
+
+Si el atomizador no es plateado, la tapa es liviana o el batch code no se puede verificar de ninguna forma, desconfiar.
+
+## Para quién es y para quién no
+
+**Es para vos si:** querés un masculino fresco-frutal con aroma de "manzana congelada"; tu presupuesto está entre $70.000 y $90.000; vivís en zona con primavera-verano marcado; vas al gym y necesitás un perfume que no se sienta abrumador; querés una alternativa al Paco Rabanne Invictus a un tercio del precio; sos hombre joven o medio que prefiere algo versátil y validado.
+
+**No es para vos si:** preferís perfiles más sofisticados o únicos (mejor Bharara King); buscás algo dulce-gourmand-especiado (mejor Khamrah Qahwa); te molesta el perfil 'common' de un perfume que muchos usan; tu presupuesto es menor a $60.000.`,
+
+    specs: [
+      { label: "Tipo", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Hombre" },
+      { label: "Familia olfativa", value: "Aromático amaderado, Fougère, Frutal" },
+      { label: "Color del frasco", value: "Vidrio azul-glacial con tapa trenzada blanca" },
+      { label: "Duración aproximada", value: "5 a 8 horas en piel, hasta 24 horas en ropa" },
+      { label: "Proyección", value: "Alta al inicio (2-3 horas), íntima en secado" },
+      { label: "Estación ideal", value: "Primavera, verano, otoño templado" },
+      { label: "Ocasión recomendada", value: "Día a día, gym, oficina, citas casuales, verano" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2023" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche", value: "No" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Rasasi",
+    line: "Hawas",
+    version: "Ice",
+    gender: "Hombre",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Azul-glacial con tapa trenzada blanca",
+
+    olfactiveFamily: ["Aromático amaderado", "Fougère", "Frutal", "Cítrica fresca"],
+    notes: {
+      top: ["Bergamota", "Lima", "Menta"],
+      heart: ["Flor de naranja", "Cardamomo", "Ciruela", "Grosellas negras", "Manzana congelada"],
+      base: ["Pachulí", "Ámbar", "Haba tonka", "Sándalo", "Almizcles"],
+    },
+    notesDisclaimer:
+      "Pirámide oficial de Rasasi combinada con la nota distintiva más mencionada por compradores: 'manzana congelada' o 'manzana helada'. Esta nota no aparece en la pirámide oficial pero es el descriptor más recurrente en las 5.220 reseñas escritas, junto con la frescura de la apertura cítrica.",
+
+    duration: "5 a 8 horas en piel, hasta 24 horas en ropa",
+    durationHours: 7,
+    durationOfficial: 8,
+    durationDisclaimer:
+      "Rasasi indica 8 horas oficiales. Las reseñas reales reportan rangos de 5 a 8 horas en piel dependiendo del tipo de piel y el clima. En ropa la duración es excepcional: hasta 24 horas mencionadas constantemente.",
+
+    projection: "Media-alta",
+    projectionNote:
+      "Con 3-5 atomizaciones alcanza para crear estela notable durante las primeras 2-3 horas. Después se vuelve más íntima. Más cantidad puede volverse invasivo en ambientes cerrados.",
+
+    bestSeason: ["Primavera", "Verano", "Otoño templado"],
+    bestOccasion: ["Día a día", "Gym", "Oficina", "Citas casuales", "Salidas de verano", "Eventos diurnos"],
+    notRecommendedFor: ["Verano extremo (puede empalagar)", "Eventos formales nocturnos", "Quien busca algo único (es perfume común)", "Invierno frío (mejor Khamrah Qahwa)"],
+
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    includesCase: false,
+
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2023,
+
+    ratingBreakdown: {
+      five: "~80%",
+      four: "~12%",
+      three: "~5%",
+      two: "~2%",
+      one: "~1%",
+    },
+
+    aiReviewSummary:
+      "El perfume tiene una excelente duración: con poco se mantiene todo el día. Su fragancia es dulce y fresca, ideal para el día a día. Las reseñas coinciden en compararlo con Paco Rabanne Invictus por el perfil fresco-frutal y la base ambarino-amaderada. La nota de 'manzana congelada' es lo que más identifica al producto.",
+
+    comparedTo: [
+      {
+        name: "Paco Rabanne Invictus EDT",
+        similarity:
+          "La comparación más recurrente. Comparten perfil fresco-frutal-aromático con base ambarina-amaderada. Invictus cuesta $200.000-300.000 en Argentina; Hawas Ice ofrece un perfil cercano a un tercio del precio. Una compradora argentina: 'es un Invictus a una fracción de su precio'.",
+      },
+      {
+        name: "Hawas original (Rasasi)",
+        similarity:
+          "Mismo ADN pero distinto carácter. Hawas clásico es más dulce-chicloso; Hawas Ice agrega la nota de manzana congelada que lo hace más fresco y versátil. Para verano y uso diario, Ice es la mejor opción.",
+      },
+      {
+        name: "Versace Eros",
+        similarity:
+          "Salida similar (cítrico-fresco con notas dulces). Eros tiene más vainilla en el secado; Hawas Ice tiene más manzana congelada y ciruela. Mismo público target.",
+      },
+      {
+        name: "Mont Blanc Legend Spirit",
+        similarity:
+          "Una compradora mexicana: 'tiene un aroma similar al Mont Blanc Legend Spirit pero más intenso y duradero'. Comparten perfil cítrico-aromático-amaderado.",
+      },
+      {
+        name: "Carolina Herrera Bad Boy Cobalt",
+        similarity:
+          "Mencionado por las notas frutales similares. Bad Boy Cobalt tiene más vainilla; Hawas Ice tiene más cítrico y manzana congelada.",
+      },
+      {
+        name: "Bharara King",
+        similarity:
+          "El otro masculino premium del catálogo. Bharara King es más oriental-frutal-vainillado; Hawas Ice es más fresco-cítrico-frutal. Bharara para citas y noche; Hawas Ice para día y verano.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-07-10",
+        text: "Mejor que el Invictus. 24hs en la ropa.",
+        useful: 22,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-08-23",
+        text: "Una salida predominante de manzana 'helada' o 'congelada'. En el secado se torna bastante similar a Invictus. Es el típico aroma que le gusta a la mayoría de mujeres. Proyección de 2 a 3 horas y unas 6-7 horas de duración en piel (al menos en mi caso).",
+        useful: 29,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-08-11",
+        text: "Sí es dulce pero no empalaga y la nota de manzana congelada suena a una babosada pero sí es muy presente, además que conserva el ADN del Hawas original. Sin dudas el perfume de categoría fresco que más me dura (2 horas de proyección por el pH de mi piel y hasta 10 al ras).",
+        useful: 87,
+      },
+      {
+        rating: 5,
+        country: "Chile",
+        date: "2025-05-27",
+        text: "El perfume es original. Hice todas las comprobaciones correspondientes para llegar a esta conclusión. La caja tiene buena construcción, el número de lote a la derecha de la caja (lo normal es abajo) pero eso es por el batch 08/2024. La tapa tiene texto Rasasi y es pesada. El atomizador es plateado por dentro. Rendimiento de 5.5 horas. Volveré a comprar.",
+        useful: 339,
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        date: "2025-12-03",
+        text: "Es muy rico, afrutado. Yo tengo 54 años y tal vez no es para mí, pero a todos los jóvenes que trabajan conmigo les gustó. No solo les gusta, se animan a decirme: '¡qué rico!' (tengo 14 perfumes de diseñador y solo me lo han dicho con Rasasi Black y Rasasi Ice).",
+        useful: 11,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-12-15",
+        text: "El verdadero baja tangas para el verano. Compren de una porfa, no se van a arrepentir.",
+        useful: 16,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2024-12-20",
+        text: "Excelente fragancia, tiene una duración muy buena, fácil más de 8 horas y el aroma destaca mucho sobre todo cítrico en su secado. Tiene un aroma similar al Mont Blanc Legend Spirit pero más intenso y sobre todo duradero. Su precio está más que justificado, está a un nivel de las fragancias de diseñador.",
+        useful: 3,
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Hawas Ice es realmente similar al Paco Rabanne Invictus?",
+        answer:
+          "Sí, es la comparación más recurrente en las reseñas. Comparten perfil fresco-frutal-aromático con base ambarina-amaderada, mismo público target (hombres jóvenes-medios) y similar versatilidad. Hawas Ice no es un dupe oficial pero ofrece un perfil cercano a un tercio del precio del Invictus (que en Argentina ronda los $200.000-300.000).",
+      },
+      {
+        question: "¿Cuál es la diferencia entre Hawas original y Hawas Ice?",
+        answer:
+          "Comparten el ADN de la línea Hawas pero distinto carácter. Hawas clásico es más dulce-chicloso y menos fresco. Hawas Ice agrega la nota distintiva de 'manzana congelada' que lo hace más fresco, frutal y versátil. Para verano y uso diario, Ice es la mejor elección. Para invierno o quienes prefieren un perfil más dulce, el clásico funciona mejor.",
+      },
+      {
+        question: "¿Cuánto dura realmente Hawas Ice?",
+        answer:
+          "Rasasi indica 8 horas oficiales. Las reseñas reales reportan rangos de 5 a 8 horas en piel en la mayoría de los casos. En ropa la duración es excepcional: hasta 24 horas mencionadas constantemente por compradores. Una compradora peruana reporta más de 12 horas en piel. La duración varía según el tipo de piel y el clima.",
+      },
+      {
+        question: "¿Por qué algunos Hawas Ice no tienen 'Rasasi' en la tapa?",
+        answer:
+          "Rasasi cambió el diseño en algunos lotes 2024. La palabra 'Rasasi' ya no aparece en la tapa, y el batchcode ahora viene a un costado de la caja (no abajo) en algunos lotes. Esto generó muchas dudas en compradores que pensaron que era falsificación, pero es el diseño actualizado de la marca. Si tu Hawas Ice no tiene 'Rasasi' en la tapa, no significa que sea falso — verificar el resto de elementos (atomizador plateado, tapa pesada, batch code).",
+      },
+      {
+        question: "¿Cómo identifico si es original?",
+        answer:
+          "Las señales del original: atomizador plateado por dentro (las falsificaciones suelen tener atomizador de otro color), tapa pesada (las falsificaciones tienen tapas livianas), etiqueta de papel con tipografía correcta, batchcode visible (puede estar abajo o al costado según lote 2024), aceitosidad natural del producto. Verificar también en checkfresh.com con el batch code.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad?",
+        answer:
+          "Es libre de crueldad pero NO es vegano. Esto es importante de aclarar porque muchos asumen que ambos van juntos. Si la elección vegana es importante para vos, considerá Bharara King (vegano y cruelty-free) como alternativa masculina premium del catálogo.",
+      },
+      {
+        question: "¿Para qué estación funciona mejor?",
+        answer:
+          "Primavera y verano son las estaciones ideales según el consenso de las reseñas. También funciona bien en otoño templado. Para verano extremo puede empalagar por la base dulce; en esos casos reducir la cantidad a 1-2 sprays. Para invierno frío, mejor optar por gourmand-especiados como Khamrah Qahwa o Bharara King.",
+      },
+      {
+        question: "¿Es buen primer perfume árabe masculino?",
+        answer:
+          "Excelente puerta de entrada. Es uno de los más versátiles del catálogo masculino: funciona en gym, oficina, citas casuales, salidas de verano. Es validado por 9.144 reseñas con rating 4.8, lo que reduce el riesgo de comprar algo que no te guste. Si tu presupuesto está entre $70.000 y $90.000, es la elección segura para primer árabe masculino.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Rasasi Hawas Ice EDP 100ml Hombre",
+      description:
+        "Eau de Parfum aromático amaderado masculino. Apertura con bergamota, lima y menta; corazón de flor de naranja, cardamomo, ciruela y grosellas negras; base de pachulí, ámbar, tonka y sándalo. La versión fresca-frutal de la línea Hawas. 9.144 reseñas con rating 4.8.",
+      brand: { "@type": "Brand", name: "Rasasi" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2023",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "9144",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en Argentina" },
+          datePublished: "2025-07-10",
+          reviewBody: "Mejor que el Invictus. 24hs en la ropa.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en Argentina" },
+          datePublished: "2025-08-23",
+          reviewBody:
+            "Una salida predominante de manzana helada. En el secado se torna bastante similar a Invictus. El típico aroma que le gusta a la mayoría de mujeres.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/24kQeRc",
+        priceCurrency: "ARS",
+        price: "76284",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA19053146", "MLA19715215", "MLA53394464", "MLA16122300"],
   },
   {
     id: "MLA54145870",
