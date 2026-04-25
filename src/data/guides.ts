@@ -1340,8 +1340,8 @@ export const guides: Guide[] = [
     ogDescription:
       "La guía definitiva de precios de pavas eléctricas en Argentina. Qué comprás por $20K, $40K y $52K.",
     h1: "Pava eléctrica precio Argentina 2026 — guía completa por rango",
-    publishedDate: "2026-04-27",
-    updatedDate: "2026-04-27",
+    publishedDate: "2026-04-25",
+    updatedDate: "2026-04-25",
     hasDisclosure: true,
     intro: [
       "Las pavas eléctricas en Argentina van desde $15.000 hasta $100.000.",
@@ -1531,8 +1531,8 @@ export const guides: Guide[] = [
     ogDescription:
       "Compré 4 pavas en ML. Una llegó rota. Acá te explico cómo comprar bien.",
     h1: "Pava eléctrica en MercadoLibre — guía para no equivocarte",
-    publishedDate: "2026-05-04",
-    updatedDate: "2026-05-04",
+    publishedDate: "2026-05-02",
+    updatedDate: "2026-05-02",
     hasDisclosure: true,
     intro: [
       "MercadoLibre tiene más de 500 modelos de pavas eléctricas. Desde $12.000 hasta $150.000.",
@@ -1740,8 +1740,8 @@ export const guides: Guide[] = [
     ogDescription:
       "Si solo tomás mate a 100°, estás pagando $30.000 por una pantalla que no vas a usar. Análisis honesto de Peabody.",
     h1: "Pava eléctrica Peabody — ¿vale el control digital de temperatura?",
-    publishedDate: "2026-05-11",
-    updatedDate: "2026-05-11",
+    publishedDate: "2026-05-09",
+    updatedDate: "2026-05-09",
     hasDisclosure: true,
     intro: [
       "Peabody vende pavas eléctricas con control de temperatura. La pregunta es si eso justifica pagar $70.000 cuando Philips con acero completo cuesta $52.000 y Atma con interior acero cuesta $41.000.",
@@ -1937,8 +1937,8 @@ export const guides: Guide[] = [
     ogDescription:
       "4 modelos entre $31.999 y $61.899. La AP175B Mateando por $45.099 es la mejor compra. Comparativa completa.",
     h1: "Pava eléctrica Liliana — ¿cuál de las 4 comprar?",
-    publishedDate: "2026-05-18",
-    updatedDate: "2026-05-18",
+    publishedDate: "2026-05-16",
+    updatedDate: "2026-05-16",
     hasDisclosure: true,
     intro: [
       "Liliana vende cuatro pavas eléctricas entre $31.999 y $61.899. La AP152 de acero sale $31.999, la AP175B Mateando sale $45.099, la AP175 Tempomate sale $47.902, y la AP992B Safeheat sale $61.899.",
@@ -2106,8 +2106,8 @@ export const guides: Guide[] = [
     ogDescription:
       "Oster es más cara sin ventaja real. Peabody por $55.900 con acero hace lo mismo. Análisis honesto.",
     h1: "Pava eléctrica Oster — ¿vale pagar más por la marca?",
-    publishedDate: "2026-05-25",
-    updatedDate: "2026-05-25",
+    publishedDate: "2026-05-23",
+    updatedDate: "2026-05-23",
     hasDisclosure: true,
     intro: [
       "Oster vende dos pavas eléctricas en Argentina. La 4970B de plástico sale $78.748 y la 8970 de acero sale $99.600.",
@@ -2617,8 +2617,8 @@ export const guides: Guide[] = [
     ogDescription:
       "8 pavas con control de temperatura desde $44.599. Preset vs niveles vs continuo. La Atma PE1821NAP tiene 6 niveles y cuesta menos que modelos con 3.",
     h1: "Pava Eléctrica con Control de Temperatura: ¿Cuál Comprar en 2026?",
-    publishedDate: "2026-06-01",
-    updatedDate: "2026-06-01",
+    publishedDate: "2026-05-30",
+    updatedDate: "2026-05-30",
     hasDisclosure: true,
     intro: [
       "Pasé un mes probando ocho pavas eléctricas con control de temperatura. Los precios van de $44.599 a $99.600. Algunas valen cada peso. Otras son caras sin razón.",
@@ -2693,8 +2693,8 @@ export const guides: Guide[] = [
     ogDescription:
       "6 modelos de vidrio probados durante 3 semanas. Winco W1719 ($34.680) es la mejor compra: control de temperatura + LED por la mitad que premium.",
     h1: "Pava Eléctrica de Vidrio: ¿Cuál Comprar en 2026?",
-    publishedDate: "2026-06-08",
-    updatedDate: "2026-06-08",
+    publishedDate: "2026-06-06",
+    updatedDate: "2026-06-06",
     hasDisclosure: true,
     intro: [
       "Probé seis pavas de vidrio durante tres semanas. Los precios van de $24.628 a $76.128. Algunas se justifican, otras no.",
@@ -2761,8 +2761,8 @@ export const guides: Guide[] = [
     ogDescription:
       "9 pavas de acero probadas. El acero no toma olor después de 2 años. Kanji $17K (budget) y Peabody DK1850 $56K (premium) son las mejores compras.",
     h1: "Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?",
-    publishedDate: "2026-06-15",
-    updatedDate: "2026-06-15",
+    publishedDate: "2026-06-13",
+    updatedDate: "2026-06-13",
     hasDisclosure: true,
     intro: [
       "Usé nueve pavas de acero durante un mes. Los precios van de $17.340 a $99.600. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años.",
@@ -2833,8 +2833,8 @@ export const guides: Guide[] = [
     ogDescription:
       "Dos semanas buscando pavas pequeñas domésticas en Argentina. Solo Peugeot Ambert ($171.369) existe. Te cuento por qué y cuáles son las alternativas reales.",
     h1: "Pava Eléctrica Pequeña: ¿Por Qué Casi No Existen en Argentina?",
-    publishedDate: "2026-06-22",
-    updatedDate: "2026-06-22",
+    publishedDate: "2026-06-20",
+    updatedDate: "2026-06-20",
     hasDisclosure: true,
     intro: [
       "Pasé dos semanas buscando pavas eléctricas pequeñas en Argentina. Revisé MercadoLibre completo. Miré tiendas físicas. Llamé a distribuidores. Encontré 47 modelos de pavas eléctricas.",
