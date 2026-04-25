@@ -6406,7 +6406,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-04-17",
     hasDisclosure: true,
     quickPicks: [
-      { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El más validado del catálogo: 7.245 reseñas, 4.6⭐ y 13h de duración real." },
+      { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El masculino más probado del catálogo: 7.245 reseñas, 4.6⭐ y 13h de duración real." },
       { productMlaId: "MLA16122300", label: "Para exigentes", labelColor: "amber", tagline: "200ml al doble del tamaño estándar. Proyecta como bomba." },
       { productMlaId: "MLA29780185", label: "Alternativa fresca", labelColor: "blue", tagline: "El más versátil del ranking. Oficina, salida, verano — no falla." },
       { productMlaId: "MLAU3800115477", label: "Para empezar", labelColor: "purple", tagline: "Kit de 4 miniaturas 35ml para probar antes de comprar un 100ml." },
@@ -6475,7 +6475,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Como el Asad Intense es por mucho el producto más validado del catálogo argentino, vale la pena mirar qué dicen sus compradores en Mercado Libre. Procesamos 170 reseñas reales de Argentina, Brasil, Chile, Uruguay y Colombia, y los patrones son sorprendentemente consistentes."
+        content: "Como el Asad Intense es uno de los productos masculinos más validados del catálogo argentino (7.245 reseñas con rating 4.6, solo superado por Bharara King en volumen), vale la pena mirar qué dicen sus compradores en Mercado Libre. Procesamos 170 reseñas reales de Argentina, Brasil, Chile, Uruguay y Colombia, y los patrones son sorprendentemente consistentes."
       },
       {
         type: "h3",
@@ -6583,13 +6583,53 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
-        title: "5. Lattafa Khamrah Qahwa"
+        title: "5. Bharara King"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19053146",
+        description: "El masculino más validado del catálogo: 11.532 reseñas con rating 4.8 (más que cualquier Lattafa). EDP americano con apertura cítrica de bergamota y limón, corazón frutal, base de almizcle terroso, vainilla y ámbar. Comparado con Yves Saint Laurent Y EDP a 1/3 a 1/4 del precio. Vegano y libre de crueldad. Incluye estuche con atomizador adicional 5ml para llevar.",
+        label: "El más validado: 11.532 reseñas",
+        labelColor: "amber",
+        ranking: 5
+      },
+      {
+        type: "h3",
+        title: "Por qué Bharara King tiene 11.532 reseñas y rating 4.8"
+      },
+      {
+        type: "p",
+        content: "Bharara King es el masculino con más volumen de validación de todo el catálogo, por encima de Khamrah Qahwa (7.137 reseñas) y Asad Intense (7.245 reseñas). Las razones son varias y vale la pena entenderlas antes de comprar."
+      },
+      {
+        type: "p",
+        content: "**Tiempo en el mercado:** lanzado en 2020, lleva 6 años en circulación. Más tiempo = más reseñas acumuladas. Ningún Lattafa popular tiene tanto recorrido."
+      },
+      {
+        type: "p",
+        content: "**Posicionamiento como alternativa al YSL Y:** se vende como reemplazo accesible al Yves Saint Laurent Y EDP. Hombres que conocen el YSL pero no quieren pagar $300.000-400.000 lo descubren y reseñan positivamente. La comparación se repite en docenas de reseñas."
+      },
+      {
+        type: "p",
+        content: "**Calidad del perfil:** la mezcla de cítrico-frutal-vainillado con base ambarina es poco común a este precio. No hay un Lattafa con perfil idéntico, lo que genera diferenciación clara."
+      },
+      {
+        type: "p",
+        content: "**El detalle del estuche:** el atomizador adicional de 5ml incluido es un plus que pocos perfumes a este precio ofrecen. Para quien viaja o quiere reaplicar fuera de casa, es un diferencial real."
+      },
+      {
+        type: "p",
+        content: "Para quien busca un masculino con mucha validación social y un perfil distinto a los Lattafa más populares, Bharara King es la elección. Solo tener en cuenta que es marca americana (no emiratí) y que el rango de precio ($99.800) lo posiciona arriba de los Lattafa promedio."
+      },
+      {
+        type: "h3",
+        title: "6. Lattafa Khamrah Qahwa"
       },
       {
         type: "product-card",
         productMlaId: "MLA31178643",
         description: "La versión café de Khamrah, lanzada en 2023. Eau de Parfum unisex con bergamota, canela, nuez moscada, café oriental, vainilla, ámbar y dátiles. La nota de café lo hace más sofisticado y masculino que el Khamrah clásico. Rating 4.8 con 7.137 reseñas — top 3 del catálogo árabe local. Vegano y libre de crueldad. Estrictamente para invierno y noche: en verano se vuelve insoportable.",
-        ranking: 5
+        ranking: 6
       },
       {
         type: "h2",
@@ -6637,42 +6677,32 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
-        title: "6. Lattafa The Kingdom Man"
+        title: "7. Lattafa The Kingdom Man"
       },
       {
         type: "product-card",
         productMlaId: "MLA41178086",
         description: "Amaderado con oud suave y ámbar. Clásico, elegante, nada viral. Es el perfume que te ponés para una reunión importante, no para una primera cita. Si los frescos o los dulces no son lo tuyo, este es tu territorio.",
-        ranking: 6
+        ranking: 7
       },
       {
         type: "h3",
-        title: "7. Mandarine Sky árabe"
+        title: "8. Mandarine Sky árabe"
       },
       {
         type: "product-card",
         productMlaId: "MLAU3812360798",
         description: "Clon del Xerjoff Mandarine Sky, que sale arriba de $500 USD el 100ml. Cítrico intenso, limpio, con una base cremosa. Dupe sorprendentemente fiel al original.",
-        ranking: 7
+        ranking: 8
       },
       {
         type: "h3",
-        title: "8. Erba Pura árabe"
+        title: "9. Erba Pura árabe"
       },
       {
         type: "product-card",
         productMlaId: "MLAU3671070084",
         description: "Versión accesible del Xerjoff Erba Pura. Frutal gourmand con bergamota y cassis, fondo de almizcle. Moderno, fácil de usar, le queda a casi cualquiera.",
-        ranking: 8
-      },
-      {
-        type: "h3",
-        title: "9. Bharara King"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA19053146",
-        description: "La joya menos conocida de esta lista, y por eso la recomiendo. Oriental, especiado, con base de oud y ámbar. Si te cansaste de ver el mismo Lattafa en todos lados, Bharara King te diferencia sin perder calidad.",
         ranking: 9
       },
       {
@@ -6936,7 +6966,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Bharara King](https://meli.la/2DTqjeW): $112.249"
+          "[Bharara King](https://meli.la/2DTqjeW): $99.800"
         ]
       },
       {
@@ -6995,7 +7025,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Más de $100.000 — piezas únicas**. [Bharara King](https://meli.la/2DTqjeW) ($112.249), [Club de Nuit Intense 200ml](https://meli.la/1BzsFJE) ($139.000). El formato 200ml del Club de Nuit es clave: viene al doble del tamaño estándar, así que el precio por ml es similar al resto."
+        content: "**Más de $100.000 — piezas únicas**. [Bharara King](https://meli.la/2DTqjeW) ($99.800), [Club de Nuit Intense 200ml](https://meli.la/1BzsFJE) ($139.000). El formato 200ml del Club de Nuit es clave: viene al doble del tamaño estándar, así que el precio por ml es similar al resto."
       },
       {
         type: "h2",
