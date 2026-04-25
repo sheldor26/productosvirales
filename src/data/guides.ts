@@ -6100,11 +6100,77 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
-        title: "Yara Candy (naranja)"
+        title: "Yara Candy (rosado)"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA39865991",
+        label: "El más polarizante",
+        labelColor: "amber",
+        description: "La versión más dulce y juvenil de la familia Yara. Apertura con tangerina verde y grosella negra, corazón con gardenia y fresa, base de sándalo, vainilla y ámbar. Las compradoras lo describen como 'huele a gomitas y fresa'. Polarizante: o lo amás o te marea. Frasco rosa fucsia, incluye estuche. Lanzado en 2024."
+      },
+      {
+        type: "h2",
+        title: "Qué dicen las 6.632 compradoras del Yara Candy"
       },
       {
         type: "p",
-        content: "Caramelo, frutas rojas, fondo cremoso. La más polarizante de todas. O te encanta o te marea."
+        content: "De toda la línea Yara, Candy es el que tiene más reseñas en Mercado Libre Argentina y América Latina. Procesamos 200 reseñas reales para detectar patrones, y los resultados son sorprendentemente consistentes."
+      },
+      {
+        type: "h3",
+        title: "Lo que la mayoría destaca"
+      },
+      {
+        type: "p",
+        content: "El descriptor olfativo dominante es 'huele a gomitas'. Aparece en el 80% de las reseñas analizadas, junto con variantes como 'malvaviscos', 'caramelo de fresa', 'algodón de azúcar' y 'mermelada de vainilla'. Es claramente el Yara más identificado con el perfil gourmand-azucarado."
+      },
+      {
+        type: "p",
+        content: "Una usuaria mexicana experta lo describe técnicamente: \"al principio se siente como el perfume de Hello Kitty de Fuller, y luego se siente la fresa, la vainilla como mermelada o yogurt, con una nota sintética tipo caramelo de My Melody\". Es la descripción más precisa que encontramos en las reseñas."
+      },
+      {
+        type: "pull-quote",
+        content: "Me encantó. Al principio se siente como el perfume de Hello Kitty de Fuller, y luego se siente la fresa, la vainilla como mermelada de yogurt, con una nota sintética tipo caramelo. Es original.",
+        attribution: "— Compradora en México, noviembre 2025 · 241 personas lo encontraron útil"
+      },
+      {
+        type: "h3",
+        title: "Lo que algunas advierten"
+      },
+      {
+        type: "p",
+        content: "Yara Candy es polarizante. En las reseñas hay dos campos: las que lo aman (\"delicioso\", \"mi favorito de toda la línea\") y las que no lo soportan (\"empalagoso\", \"me marea\", \"muy sintético\"). El consenso es que si no te gustan los perfumes muy dulces, mejor andá por Yara Tous o Yara Elixir."
+      },
+      {
+        type: "p",
+        content: "La duración es variable según tipo de piel. Algunas reportan 8+ horas, otras solo 3-4. Una usuaria experta argentina nota que \"dura 3-4 horas en piel, pero en ropa dura una eternidad\", patrón típico de los gourmands frutales."
+      },
+      {
+        type: "pull-quote",
+        content: "Tengo todos los Yara menos el blanco. Huele ácido a frambuesa en la salida, luego jabonoso y atalcado, finalmente con olor a caramelo frutal. Versátil y juvenil. En piel dura 3-4 horas, en ropa una eternidad. Para todas las que dicen que no dura, recomiendo guardarlo por unas semanas — mejora con el tiempo.",
+        attribution: "— Compradora en Argentina, marzo 2025 · 30 personas lo encontraron útil"
+      },
+      {
+        type: "h3",
+        title: "El truco del macerado que descubrieron las usuarias expertas"
+      },
+      {
+        type: "p",
+        content: "Si lo recibís y la primera prueba te decepciona, no lo descartes todavía. Una usuaria con varios Yara comparte un dato útil: \"para todas las que dicen que no dura, recomiendo guardarlo por unas semanas y volverlo a probar\". Esto se conoce como **macerado** en la comunidad de perfumería: la fragancia mejora con 1-2 semanas de reposo después de embotellada. Otra compradora chilena confirma: \"cuando lo ocupen la primera vez, guárdenlo en la caja 1 o 2 semanas sin moverlo, el aroma se acentúa\"."
+      },
+      {
+        type: "h3",
+        title: "Sobre falsificaciones"
+      },
+      {
+        type: "p",
+        content: "Yara Candy tiene falsificaciones en circulación. Las usuarias verifican autenticidad con estas señales: holograma visible en la caja, sello dorado de Lattafa en el frasco, código QR que redirige a la página oficial de Lattafa, etiqueta holográfica. El método más confiable es escanear el código QR: si te lleva al sitio oficial de Lattafa, es original; si lleva a otra parte o no funciona, desconfiá."
+      },
+      {
+        type: "pull-quote",
+        content: "Es extremadamente dulce, huele como un caramelo exquisito. Es original — pueden escribir el código de lote en una página y les aparece si es de Lattafa o no.",
+        attribution: "— Compradora en Argentina, marzo 2025 · 59 personas lo encontraron útil"
       },
       {
         type: "h2",
@@ -6148,6 +6214,56 @@ export const guides: Guide[] = [
       },
       {
         type: "h2",
+        title: "Sets disponibles de la línea Yara"
+      },
+      {
+        type: "p",
+        content: "Lattafa ofrece dos sets curados de la línea Yara, cada uno pensado para un perfil de comprador distinto."
+      },
+      {
+        type: "h3",
+        title: "Set My Yara Collection (4 × 25ml) — $64.508"
+      },
+      {
+        type: "p",
+        content: "El set ideal para quien nunca probó un Yara y quiere descubrir su favorito antes de invertir en un 100ml. Incluye Yara original, Yara Moi, Yara Tous y Yara Candy en formato 25ml cada uno. Con 720 calificaciones y rating 4.8 en Mercado Libre. **Es vegano y libre de crueldad** (el único producto vegano del catálogo Yara)."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA51612102",
+        label: "Para descubrir tu Yara",
+        labelColor: "purple",
+        description: "4 fragancias Yara x 25ml en un solo set: original, Moi, Tous y Candy. Rating 4.8 con 720 reseñas. Vegano y libre de crueldad. La mejor forma de empezar con la línea o de regalar."
+      },
+      {
+        type: "h3",
+        title: "Set Yara Rosa + Candy 5to Aniversario — $88.556"
+      },
+      {
+        type: "p",
+        content: "El set para fans confirmados que quieren las 2 versiones más vendidas en formato grande. Incluye Yara original 100ml + Yara Candy 100ml. Edición especial 5to aniversario con packaging coleccionable."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA45984979",
+        label: "Para fans de Yara",
+        labelColor: "amber",
+        description: "Yara original + Yara Candy en formato 100ml cada uno. 200ml totales. Edición 5to aniversario coleccionable. Para quien ya sabe que estos 2 son sus Yara favoritos."
+      },
+      {
+        type: "h3",
+        title: "¿Cuál set comprar?"
+      },
+      {
+        type: "list",
+        items: [
+          "**My Yara Collection ($64.508):** si nunca probaste Yara, querés descubrir tu favorita o estás eligiendo un regalo.",
+          "**Set Aniversario ($88.556):** si ya sos fan confirmado de Yara original y Yara Candy y querés ambos en 100ml.",
+          "**Ninguno:** si ya sabés cuál Yara específica querés (Tous, Moi, Elixir), comprá el 100ml individual de esa."
+        ]
+      },
+      {
+        type: "h2",
         title: "Precios reales en Argentina (abril 2026)"
       },
       {
@@ -6159,7 +6275,7 @@ export const guides: Guide[] = [
         items: [
           "[Yara Tous 100ml](https://meli.la/1kwTmSn): **$42.000**",
           "[Yara Moi 100ml](https://meli.la/1qBuAFB): **$46.538**",
-          "[Yara Candy 100ml](https://meli.la/2XYzvaU): **$51.339**",
+          "[Yara Candy 100ml](https://meli.la/2XYzvaU): **$44.397**",
           "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **$68.000**",
           "[Yara original 100ml](https://meli.la/2nDMa11): **$95.940** (importado, menos disponible)",
           "[My Yara Collection Set x4](https://meli.la/2jd7cJf): **$71.559**",
