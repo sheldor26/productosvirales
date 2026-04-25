@@ -1398,6 +1398,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA49747515", label: "Mejor gama media", labelColor: "green" },
       { type: "h2", title: "Rango gama alta: $50.000 - $70.000" },
       {
         type: "p",
@@ -1420,6 +1421,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor inversión", labelColor: "amber" },
       { type: "h2", title: "Rango premium: $70.000+" },
       {
         type: "p",
@@ -1441,6 +1443,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "purple" },
       { type: "h2", title: "Mejor de cada rango: tabla resumen" },
       {
         type: "table",
@@ -4694,6 +4697,33 @@ export const guides: Guide[] = [
       { type: "p", content: `Abrí lo menos posible. Cada apertura baja temperatura. Si necesitás revisar, una sola vez a mitad de cocción.` },
       { type: "p", content: `Temperaturas altas para crocancia. Si querés crocante, 190-200°C. Si querés más suave, 160-180°C.` },
       { type: "p", content: `Modela tus tiempos. Cada freidora es un poco distinta. Nota qué funciona en la tuya y úsalo como referencia.` },
+      { type: "h2", title: `Freidoras recomendadas para estas recetas` },
+      { type: "p", content: `Si todavía no tenés freidora o estás pensando en cambiar, estas son las que mejor performance tienen para el tipo de cocción de las recetas de arriba:` },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA27351841",
+        description: "6.5L y 1500W. La opción accesible para hogares chicos. Hace papas y milanesas perfectas.",
+        label: "Económica",
+        labelColor: "blue",
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA41829394",
+        description: "7.2L con visor 360°. La más versátil del catálogo, mejor para familias de 4-5 personas.",
+        label: "Mejor valor",
+        labelColor: "green",
+      },
+      {
+        type: "product-card",
+        variant: "compact",
+        productMlaId: "MLA19630911",
+        description: "6.2L con tecnología Philips. Tope de gama: dura más años y la cocción es más pareja.",
+        label: "Premium",
+        labelColor: "amber",
+      },
+      { type: "p", content: `Si querés ver el ranking completo con análisis a fondo, mirá la [comparativa de mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina).` },
     ],
     faq: [
       {
