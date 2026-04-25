@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Sparkles, TrendingUp, Flame, Award } from "lucide-react";
+import { ArrowRight, Sparkles, TrendingUp, Flame, Award, Sun } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import type { Product } from "@/lib/types";
@@ -20,6 +20,7 @@ const badgeConfig = {
   trending: { icon: TrendingUp, label: "TRENDING" },
   "hot-deal": { icon: Flame, label: "HOT DEAL" },
   bestseller: { icon: Award, label: "BESTSELLER" },
+  "summer-pick": { icon: Sun, label: "PARA VERANO" },
 } as const;
 
 interface ProductCardProps {

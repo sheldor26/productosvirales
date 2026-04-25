@@ -12990,8 +12990,8 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
   },
   {
     id: "MLA40521028",
-    title: "Perfume Arabe Yara Tous Lattafa Eau De Parfum Mujer 100 Ml",
-    price: 42545,
+    title: "Lattafa Yara Tous Mujer EDP 100ml",
+    price: 42000,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
     originalPrice: 59999.99,
@@ -13010,9 +13010,245 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     affiliateUrl: "https://meli.la/1kwTmSn",
     condition: "new",
     freeShipping: true,
-    rating: 4,
+    rating: 4.7,
+    reviewCount: 471,
     soldQuantity: 1000,
-    pastelColor: "var(--pastel-pink)",
+    tiktokViews: "8M+",
+    badge: "summer-pick",
+    pastelColor: "var(--pastel-amber)",
+
+    description:
+      "La versión tropical y afrutada de la línea Yara. Eau de Parfum 100ml con apertura de mango, coco y maracuyá; corazón de jazmín y flor de azahar; fondo cremoso de vainilla y almizcle. Rating 4.7 en Mercado Libre. Incluye estuche.",
+
+    pros: [
+      "Frasco amarillo-dorado distintivo dentro de la línea Yara",
+      "Perfil tropical-frutal único — funciona en climas cálidos donde el Yara Elixir no",
+      "Notas de mango, coco y maracuyá en la salida — refrescante y veraniego",
+      "Incluye estuche (a diferencia del Yara Elixir)",
+      "471 reseñas con rating 4.7 — uno de los mejor valorados del catálogo femenino",
+      "Más accesible que el Yara Elixir ($42.000 vs $68.000)",
+      "Libre de crueldad animal",
+    ],
+    cons: [
+      "No es para amantes de perfumes intensos — proyección moderada vs el Elixir",
+      "Perfil dulce-tropical puede ser polarizante",
+      "Menos 'perfume árabe clásico' — tira más a fragancia tropical occidental",
+      "No es libre de alcohol",
+    ],
+    verdict:
+      "El Yara para climas cálidos y uso diurno. Si te encantó el Yara Elixir pero lo encontrás pesado en verano, esta es la respuesta. Tropical, dulce y mucho más accesible. Ideal para empezar con la línea Yara sin invertir tanto.",
+
+    seoTitle: "Yara Tous Lattafa 100ml — La Yara Tropical para Verano | Review 2026",
+    metaDescription:
+      "Yara Tous de Lattafa: review completa con notas, duración, comparación con Yara Elixir y opiniones reales. La versión tropical-frutal de la línea, ideal para climas cálidos.",
+    ogTitle: "Yara Tous Lattafa — la versión tropical del Yara más viral",
+    ogDescription:
+      "Mango, coco, jazmín, vainilla. La Yara para verano y uso diurno. Rating 4.7 en Mercado Libre. Ver precio →",
+    h1: "Lattafa Yara Tous — la versión tropical y veraniega de la línea Yara",
+
+    articleBody: `Yara Tous es la versión tropical y afrutada de la línea Yara de Lattafa. Lanzada en 2023, dos años antes que el Yara Elixir, fue concebida como una alternativa más fresca y accesible al perfil oriental-dulce que caracterizaba a la familia. Con 471 reseñas en Mercado Libre y rating 4.7, es uno de los productos femeninos mejor valorados del catálogo árabe en Argentina.
+
+La pirámide olfativa es claramente distinta a la del Yara Elixir. La apertura es decididamente tropical, con mango, coco y maracuyá que arrancan jugosos y dulces. Lattafa misma la lista oficialmente entre sus "acordes principales" como tropical, afrutada y avainillada, lo que confirma la dirección del perfume.
+
+## Cómo huele realmente
+
+El primer impacto es frutal-veraniego, casi como un cóctel tropical embotellado. El mango y la maracuyá dan ese aire jugoso que recuerda a un postre de verano, y el coco aporta cremosidad sin volverse empalagoso. A los 20-30 minutos, la fragancia se va asentando hacia un corazón floral blanco con jazmín y flor de azahar, que suaviza el impacto frutal y lo vuelve más sofisticado.
+
+El fondo es donde se nota la firma de la familia Yara: vainilla cremosa, almizcle de cachemira y almizcle blanco. Esta base es lo que la hace reconocible como "Yara" aunque la apertura sea tan distinta a la del original o el Elixir.
+
+## La diferencia con Yara Elixir
+
+Esta es la pregunta que más se hace. Son dos perfumes complementarios, no versiones del mismo:
+
+- **Yara Elixir** es oriental-dulce-intenso, frasco fucsia, lanzamiento 2025, con apertura de mandarina y durazno y fondo de ámbar y vainilla. Pensado para otoño-invierno y noche.
+- **Yara Tous** es tropical-frutal-fresco, frasco amarillo-dorado, lanzamiento 2023, con apertura de mango y coco y fondo cremoso de vainilla. Pensado para primavera-verano y día.
+
+Si te gusta uno, no necesariamente te va a gustar el otro. Las usuarias que se enamoran del Yara Tous suelen venir del lado de los gourmands tropicales tipo Carolina Herrera 212 VIP Rosé o YSL Black Opium versión Sunshine. Las del Yara Elixir vienen más del lado de Kayali Vanilla 28 o Dior Hypnotic Poison.
+
+## Cuándo usarlo
+
+El consenso de las usuarias en Mercado Libre es claro: Yara Tous funciona mejor en climas cálidos y uso diurno. Es ideal para primavera, verano, oficina con aire acondicionado, salidas de día y reuniones casuales. En invierno puede sentirse algo "fuera de temporada", aunque sigue siendo agradable.
+
+La proyección es moderada (no tan invasiva como el Elixir), lo que también lo hace más versátil para uso diario. Con 2-3 sprays alcanza para 6-8 horas en piel.
+
+## Frasco y presentación
+
+El frasco amarillo-dorado con la cinta dorada cruzada es uno de los más distintivos de toda la línea Lattafa. La caja viene con el mismo patrón floral blanco sobre fondo amarillo, y a diferencia del Yara Elixir, **incluye estuche**. Esto lo hace una opción atractiva para regalar.
+
+Las usuarias en las reseñas con foto destacan la calidad del packaging: "presentación impecable", "elegante", "muy fotografiable". Para el rango de precio, la presentación es uno de los puntos fuertes del producto.
+
+## Para quién es y para quién no
+
+**Es para vos si:** te gustan los perfumes frutales y tropicales, vivís en zona con verano largo, querés una opción versátil para uso diurno, o simplemente te encantó el Yara Elixir y querés algo del mismo universo pero más liviano.
+
+**No es para vos si:** preferís perfumes orientales clásicos, buscás algo con proyección invasiva, o te molestan los perfiles dulces-frutales (este es definitivamente dulce). Si quisieras algo más oriental dentro de la familia, mejor el Yara Elixir directamente.
+
+## Precio y conveniencia
+
+A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yara Elixir ($68.000), la diferencia de $26.000 es significativa, y vale tenerlo en cuenta: si vas a probar tu primer Yara y no estás seguro del perfil dulce-oriental, Tous es la entrada de menor inversión. Si después te gusta y querés profundizar, podés sumar el Elixir más adelante.`,
+
+    specs: [
+      { label: "Tipo", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Mujer" },
+      { label: "Familia olfativa", value: "Frutal tropical, gourmand floral" },
+      { label: "Color del frasco", value: "Amarillo-dorado con cinta dorada" },
+      { label: "Duración aproximada", value: "6 a 8 horas en piel" },
+      { label: "Proyección", value: "Moderada" },
+      { label: "Estación ideal", value: "Primavera y verano" },
+      { label: "Ocasión recomendada", value: "Uso diario, oficina, salidas de día" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2023" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche", value: "Sí" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Yara",
+    version: "Tous",
+    gender: "Mujer",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Amarillo-dorado con cinta dorada",
+
+    olfactiveFamily: ["Frutal tropical", "Gourmand", "Floral blanco", "Avainillado"],
+    notes: {
+      top: ["Mango", "Coco", "Maracuyá"],
+      heart: ["Jazmín", "Heliotropo", "Flor de azahar"],
+      base: ["Vainilla", "Almizcle de cachemira", "Almizcle blanco"],
+    },
+    notesDisclaimer:
+      "Pirámide construida cruzando datos de Mercado Libre estructurado, descripción del vendedor y la imagen oficial de Lattafa con los 'acordes principales' del producto (tropical, dulce, avainillado, afrutados, floral blanco, coco, almizclado).",
+
+    duration: "6 a 8 horas en piel",
+    durationHours: 7,
+    projection: "Media",
+    projectionNote: "Más sutil que el Yara Elixir. Con 2-3 sprays alcanza para uso diurno completo.",
+
+    bestSeason: ["Primavera", "Verano"],
+    bestOccasion: ["Uso diario", "Oficina", "Salidas de día", "Reuniones casuales", "Climas cálidos"],
+    notRecommendedFor: ["Invierno frío", "Eventos formales nocturnos", "Quien busca proyección invasiva"],
+
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    includesCase: true,
+
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2023,
+
+    ratingBreakdown: {
+      five: "~75%",
+      four: "~15%",
+      three: "~5%",
+      two: "~3%",
+      one: "~2%",
+    },
+
+    aiReviewSummary:
+      "El aroma de esta fragancia es excelente, con notas exquisitas que perduran en la piel durante horas. Es una fragancia dulce y frutal que ha sido muy bien recibida, destacándose por su durabilidad y proyección. Además, es recomendada por su frescura, siendo ideal para el verano.",
+
+    comparedTo: [
+      {
+        name: "Yara Elixir (versión oriental-invierno de la misma línea)",
+        similarity:
+          "Comparten la familia Yara y el fondo de vainilla, pero la apertura y el mood son completamente distintos. Tous es tropical-fresco, Elixir es oriental-dulce.",
+      },
+      {
+        name: "Carolina Herrera 212 VIP Rosé",
+        similarity:
+          "Comparten el perfil afrutado-floral con base dulce. Tous es más tropical y menos elegante-formal.",
+      },
+      {
+        name: "YSL Black Opium Sunshine",
+        similarity:
+          "Misma dirección de gourmand tropical con notas frutales en la apertura. Tous tiene más coco, Sunshine tiene más cítricos.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2024-12-15",
+        text: "Excelente fragancia, muy dulce y frutal. La uso para el día y dura toda la jornada. La presentación es hermosa, ideal para regalar.",
+        useful: 0,
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Cuál es la diferencia entre Yara Tous y Yara Elixir?",
+        answer:
+          "Son dos perfumes completamente distintos de la misma línea, pensados para usos opuestos. Yara Tous es tropical-frutal con apertura de mango y coco, frasco amarillo, ideal para primavera-verano y uso diurno. Yara Elixir es oriental-dulce-intenso con apertura de mandarina y durazno, frasco fucsia, ideal para otoño-invierno y noche. Si te gusta uno, no necesariamente te va a gustar el otro.",
+      },
+      {
+        question: "¿Cuánto dura en la piel?",
+        answer:
+          "La duración promedio en piel es de 6 a 8 horas según las reseñas verificadas. Con 2-3 sprays alcanza para uso diurno completo. La proyección es moderada, lo que lo hace adecuado para oficina y reuniones donde no querés saturar el ambiente.",
+      },
+      {
+        question: "¿Sirve para usar todo el año?",
+        answer:
+          "Funciona mejor en climas cálidos. Primavera y verano son las estaciones ideales, donde el perfil tropical-frutal se aprecia mejor. En invierno puede sentirse 'fuera de temporada', aunque sigue siendo agradable. Si vivís en zona con verano largo, es buena inversión.",
+      },
+      {
+        question: "¿Cuáles son las notas exactas?",
+        answer:
+          "La pirámide olfativa es: salida con mango, coco y maracuyá (tropical-frutal); corazón con jazmín, heliotropo y flor de azahar (floral blanco); fondo con vainilla, almizcle de cachemira y almizcle blanco (cremoso-dulce). Lattafa la lista oficialmente como tropical, afrutada y avainillada entre sus acordes principales.",
+      },
+      {
+        question: "¿Incluye estuche?",
+        answer:
+          "Sí. A diferencia del Yara Elixir que no incluye estuche adicional, Yara Tous viene con su caja de presentación con diseño floral blanco sobre fondo amarillo. Es una opción atractiva para regalar.",
+      },
+      {
+        question: "¿Es un buen primer perfume árabe?",
+        answer:
+          "Es una excelente puerta de entrada al nicho árabe femenino, especialmente si te gustan los perfumes dulces-frutales modernos. Su perfil tropical es más universal que el oriental denso del Yara Elixir, lo que reduce el riesgo de que no te guste si nunca probaste un perfume árabe antes.",
+      },
+      {
+        question: "¿Qué edad de público va mejor?",
+        answer:
+          "No tiene una edad específica, pero su perfil tropical-dulce-frutal tiende a gustar más a un público de 18 a 40 años. Las reseñas no muestran un patrón etario marcado, sí muestran que las personas que ya prefieren los gourmands frutales lo aman.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Lattafa Yara Tous Mujer EDP 100ml",
+      description:
+        "Eau de Parfum tropical-frutal con notas de mango, coco, maracuyá, jazmín, flor de azahar, vainilla y almizcle. La versión veraniega de la línea Yara de Lattafa. Incluye estuche.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2023",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "471",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1kwTmSn",
+        priceCurrency: "ARS",
+        price: "42000",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA60836327", "MLAU2983186467", "MLA39865991", "MLA32288168"],
   },
   {
     id: "MLA53394464",
