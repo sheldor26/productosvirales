@@ -6583,87 +6583,141 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
-        title: "5. Lattafa The Kingdom Man"
+        title: "5. Lattafa Khamrah Qahwa"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        description: "La versión café de Khamrah, lanzada en 2023. Eau de Parfum unisex con bergamota, canela, nuez moscada, café oriental, vainilla, ámbar y dátiles. La nota de café lo hace más sofisticado y masculino que el Khamrah clásico. Rating 4.8 con 7.137 reseñas — top 3 del catálogo árabe local. Vegano y libre de crueldad. Estrictamente para invierno y noche: en verano se vuelve insoportable.",
+        ranking: 5
+      },
+      {
+        type: "h2",
+        title: "Qué dicen los 7.137 compradores del Khamrah Qahwa"
+      },
+      {
+        type: "p",
+        content: "Khamrah Qahwa tiene la cantidad de reseñas verificadas más alta del catálogo después del Asad Intense. Procesamos 200 reseñas reales para detectar patrones y los resultados son sorprendentemente consistentes."
+      },
+      {
+        type: "h3",
+        title: "Lo que la mayoría destaca"
+      },
+      {
+        type: "p",
+        content: "La duración es el factor más elogiado. Los compradores reportan entre 8 y 10 horas en piel en promedio, con casos excepcionales de hasta 20 horas. En ropa, el aroma persiste durante días. Una compradora argentina lo describe sin filtro: \"te lo pones a la mañana y te hace el aguante hasta la noche, y de la ropa no se va ni a palo\"."
+      },
+      {
+        type: "p",
+        content: "La proyección es poderosa. Con 3 atomizaciones alcanza para crear estela notable. Una compradora chilena lo resume: \"la de recursos humanos me comió sin decir hola\". Otro comprador argentino: \"se te avalanchan las féminas por más cara de pateado que tengas\"."
+      },
+      {
+        type: "h3",
+        title: "Clásico vs Qahwa: para hombres, Qahwa gana"
+      },
+      {
+        type: "p",
+        content: "Las reseñas que comparan ambas versiones tienen una conclusión casi unánime: para hombres, Qahwa es mejor. La nota de café aporta sofisticación al perfil dulce-especiado del Khamrah, lo hace menos empalagoso y más versátil. Un comprador argentino lo resume: \"es menos dulce que el khamrah, eso lo hace más masculino. Para hombres este es mejor que el khamrah\"."
+      },
+      {
+        type: "h3",
+        title: "La advertencia universal: solo para invierno"
+      },
+      {
+        type: "p",
+        content: "No usar en verano. La frase \"en verano matás a alguien\" aparece en docenas de reseñas. Es un perfume estrictamente de invierno, otoño y noche. Para climas cálidos o uso diurno en oficina, la proyección lo vuelve invasivo y el dulce empalaga. Si vivís en zona con verano largo, vas a poder usarlo solo 4-5 meses al año."
+      },
+      {
+        type: "h3",
+        title: "Sobre falsificaciones"
+      },
+      {
+        type: "p",
+        content: "Las usuarias detectaron varias señales: el batch code debe estar **impreso** en la caja (los stickers son señal de falsificación), el código QR debe redirigir al sitio oficial de Lattafa, y el batch code se puede verificar en checkfresh.com. Si el QR no funciona o el batch code no se detecta, desconfiá."
+      },
+      {
+        type: "h3",
+        title: "6. Lattafa The Kingdom Man"
       },
       {
         type: "product-card",
         productMlaId: "MLA41178086",
         description: "Amaderado con oud suave y ámbar. Clásico, elegante, nada viral. Es el perfume que te ponés para una reunión importante, no para una primera cita. Si los frescos o los dulces no son lo tuyo, este es tu territorio.",
-        ranking: 5
+        ranking: 6
       },
       {
         type: "h3",
-        title: "6. Mandarine Sky árabe"
+        title: "7. Mandarine Sky árabe"
       },
       {
         type: "product-card",
         productMlaId: "MLAU3812360798",
         description: "Clon del Xerjoff Mandarine Sky, que sale arriba de $500 USD el 100ml. Cítrico intenso, limpio, con una base cremosa. Dupe sorprendentemente fiel al original.",
-        ranking: 6
+        ranking: 7
       },
       {
         type: "h3",
-        title: "7. Erba Pura árabe"
+        title: "8. Erba Pura árabe"
       },
       {
         type: "product-card",
         productMlaId: "MLAU3671070084",
         description: "Versión accesible del Xerjoff Erba Pura. Frutal gourmand con bergamota y cassis, fondo de almizcle. Moderno, fácil de usar, le queda a casi cualquiera.",
-        ranking: 7
+        ranking: 8
       },
       {
         type: "h3",
-        title: "8. Bharara King"
+        title: "9. Bharara King"
       },
       {
         type: "product-card",
         productMlaId: "MLA19053146",
         description: "La joya menos conocida de esta lista, y por eso la recomiendo. Oriental, especiado, con base de oud y ámbar. Si te cansaste de ver el mismo Lattafa en todos lados, Bharara King te diferencia sin perder calidad.",
-        ranking: 8
+        ranking: 9
       },
       {
         type: "h3",
-        title: "9. Armaf Odyssey Mandarin Sky"
+        title: "10. Armaf Odyssey Mandarin Sky"
       },
       {
         type: "product-card",
         productMlaId: "MLAU3452900219",
         description: "Variante del Mandarine Sky con matices más frescos. Para uso diario, más versátil que el anterior.",
-        ranking: 9
+        ranking: 10
       },
       {
         type: "h3",
-        title: "10. Lattafa Qaed Al Fursan"
+        title: "11. Lattafa Qaed Al Fursan"
       },
       {
         type: "product-card",
         productMlaId: "MLA22234109",
         description: "Amaderado y especiado, con cuero y tabaco. Nocturno, serio, adulto. Es el Old Fashioned de esta lista: no es para todos pero quien lo entiende lo ama.",
-        ranking: 10
+        ranking: 11
       },
       {
         type: "h3",
-        title: "11. Lattafa Habik For Men"
+        title: "12. Lattafa Habik For Men"
       },
       {
         type: "product-card",
         productMlaId: "MLA54145870",
         description: "Dulce amaderado, más discreto que Asad. Si Asad te parece demasiado invasivo pero te gusta el perfil, Habik es tu puerta lateral.",
-        ranking: 11
+        ranking: 12
       },
       {
         type: "h3",
-        title: "12. Afnan 9PM Elixir"
+        title: "13. Afnan 9PM Elixir"
       },
       {
         type: "product-card",
         productMlaId: "MLA53394464",
         description: "9PM Elixir es la versión Parfum Intense del 9PM original, lanzada en 2025. No es una variante más: es una categoría distinta de concentración. Tiene menor cantidad de alcohol y mayor cantidad de aceite perfumado, lo que se traduce en hasta 24 horas de duración según Afnan. La pirámide mantiene el perfil especiado dulce del original (pimienta negra, canela, manzana, vainilla) pero con base más rica en ámbar y maderas. Rating 4.8 con 1.060 reseñas verificadas en Mercado Libre. Incluye estuche.",
-        ranking: 12
+        ranking: 13
       },
       {
         type: "h3",
-        title: "Del 13 al 15"
+        title: "Del 14 al 15"
       },
       {
         type: "product-card",
@@ -6680,14 +6734,6 @@ export const guides: Guide[] = [
         description: "La versión más nocturna de la familia Asad. Oriental intenso.",
         label: "La variante oscura",
         labelColor: "purple"
-      },
-      {
-        type: "product-card",
-        variant: "compact",
-        productMlaId: "MLAU3800115477",
-        description: "Kit de 4 perfumes en formato descubrimiento 35ml.",
-        label: "Para probar",
-        labelColor: "blue"
       },
       {
         type: "h2",
@@ -6941,7 +6987,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Entre $50.000 y $70.000 — un perfume con presencia**. [Yara Elixir](https://meli.la/2NrY6fF) ($68.000), [Her Confession](https://meli.la/1EBDqh9) ($65.000), [Khamrah Qahwa](https://meli.la/1B8Vwwf) ($49.485), [Habik](https://meli.la/1qWX1xU) ($65.799). Para masculino, [Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM) ($57.999). Acá empiezan los perfumes de referencia."
+        content: "**Entre $50.000 y $70.000 — un perfume con presencia**. [Yara Elixir](https://meli.la/2NrY6fF) ($68.000), [Her Confession](https://meli.la/1EBDqh9) ($65.000), [Khamrah Qahwa](https://meli.la/1B8Vwwf) ($47.846), [Habik](https://meli.la/1qWX1xU) ($65.799). Para masculino, [Bade'e Al Oud Noble Blush](https://meli.la/1GvwbnM) ($57.999). Acá empiezan los perfumes de referencia."
       },
       {
         type: "p",
@@ -7272,8 +7318,31 @@ export const guides: Guide[] = [
         ranking: 4
       },
       {
+        type: "h3",
+        title: "Khamrah vs Khamrah Qahwa: ¿cuál elegir?"
+      },
+      {
         type: "p",
-        content: "La variante [Khamrah Qahwa](https://meli.la/1B8Vwwf) suma café y maderas si querés algo más cálido."
+        content: "La duda más frecuente para quien quiere entrar al universo Khamrah. Las dos versiones tienen el mismo ADN gourmand-especiado pero carácter distinto."
+      },
+      {
+        type: "p",
+        content: "**Khamrah clásico:** más dulce y empalagoso. Crítica recurrente entre algunos usuarios: \"huele a aromatizante de carro con canela\". Tira más a femenino. Más accesible en precio. NO es vegano."
+      },
+      {
+        type: "p",
+        content: "**Khamrah Qahwa:** la nota de café cambia todo. Más sofisticado, más equilibrado, más versátil para hombres. Vegano y libre de crueldad. La elección preferida cuando alguien busca un Khamrah \"con personalidad\"."
+      },
+      {
+        type: "p",
+        content: "Si vas a tener uno solo: para mujer, el clásico funciona mejor en general por su perfil más dulce-postre. Para hombre o uso compartido, Qahwa es la elección. Las reseñas masculinas coinciden: \"este es mejor que el khamrah para hombres\". Una usuaria mexicana resume: \"tengo el khamrah normal y me gustó más este, esa notita de café le da un toque riquísimo\"."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        label: "El más viral de TikTok",
+        labelColor: "amber",
+        description: "La versión café de la línea Khamrah, lanzada en 2023. Apertura con bergamota, corazón de canela y nuez moscada, base de café oriental, vainilla y dátiles. Rating 4.8 con 7.137 reseñas. Vegano y libre de crueldad. Solo para invierno y noche."
       },
       {
         type: "h3",
