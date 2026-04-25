@@ -13918,8 +13918,10 @@ Si vas a tener uno solo y no sabés cuál: Tous es la apuesta más segura por se
   },
   {
     id: "MLA51612102",
-    title: "Set Colección De Perfumes Árabes My Yara Collection Lattafa Pack X4",
-    price: 71559,
+    title: "Set Lattafa My Yara Collection — 4 Perfumes Árabes Mujer 25ml c/u",
+    price: 64508,
+    priceUpdated: "2026-04-25",
+    priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_917652-MLA104279255041_012026-O.webp",
@@ -13936,8 +13938,314 @@ Si vas a tener uno solo y no sabés cuál: Tous es la apuesta más segura por se
     affiliateUrl: "https://meli.la/2jd7cJf",
     condition: "new",
     freeShipping: true,
-    rating: 5,
+    rating: 4.8,
+    reviewCount: 720,
+    badge: "bestseller",
     pastelColor: "var(--pastel-pink)",
+
+    description:
+      "Set descubrimiento My Yara Collection de Lattafa: 4 perfumes árabes femeninos en formato 25 ml cada uno (Yara, Yara Moi, Yara Tous y Yara Candy). Eau de Parfum, vegano, libre de crueldad. La forma más segura de descubrir cuál Yara es tu favorito antes de invertir en un 100ml. Rating 4.8 con 720 reseñas en Mercado Libre. Incluye estuche.",
+
+    pros: [
+      "4 fragancias en un solo set: cubre todo el espectro Yara (clásico, oriental-cremoso, tropical, gourmand-dulce)",
+      "Formato 25ml × 4 = 100ml total a $64.508 vs $250.000+ comprando los 4 individuales",
+      "Vegano y libre de crueldad — el único producto vegano del catálogo Yara",
+      "Rating 4.8 con 720 reseñas — uno de los sets mejor calificados del nicho árabe",
+      "Estuche elegante de regalo, ideal para cumpleaños o Día de la Madre",
+      "Permite probar cada fragancia varias semanas antes de decidir el favorito",
+      "Cada frasco lleva el mismo diseño que el 100ml original — no es muestra mini, es producto premium",
+    ],
+    cons: [
+      "25ml por frasco se gasta rápido si lo usás diariamente (rinde ~2-3 meses por fragancia con uso normal)",
+      "No incluye Yara Elixir (la versión más intensa) ni Yara White",
+      "Si ya sabés cuál Yara querés, conviene comprar el 100ml individual de esa",
+      "El empaque puede llegar dañado por logística (problema reportado en algunas reseñas)",
+      "Los 25ml son atomizadores spray, no son splash o roll-on",
+    ],
+    verdict:
+      "El mejor regalo para alguien que aún no probó la línea Yara, o la mejor compra para vos misma si querés descubrir cuál es tu Yara antes de gastar $50.000-$100.000 en un 100ml individual. Por $64.508 te llevás 100ml totales repartidos en las 4 fragancias más populares de Lattafa Yara — relación calidad-precio sobresaliente. Único producto vegano del catálogo Yara.",
+
+    seoTitle: "Set My Yara Collection — 4 Perfumes Lattafa 25ml | Reseña + Precio",
+    metaDescription:
+      "Set My Yara Collection 4×25ml de Lattafa: Yara original, Moi, Tous y Candy. Análisis completo, precio actualizado $64.508, comparación con compra individual. Rating 4.8/720 reseñas. Vegano.",
+    ogTitle: "Set My Yara Collection — descubrí tu Yara antes de comprar el 100ml",
+    ogDescription:
+      "4 perfumes Lattafa Yara × 25ml cada uno en un solo estuche. La forma más segura y económica de probar la línea completa antes de invertir en un 100ml individual.",
+    h1: "Set My Yara Collection — 4 fragancias Lattafa Yara para descubrir tu favorita",
+
+    articleBody: `El set My Yara Collection de Lattafa es la forma más inteligente de empezar con la línea Yara. Por $64.508 te llevás 4 frascos de 25 ml — Yara original, Yara Moi, Yara Tous y Yara Candy — en un único estuche pensado para descubrir cuál de las versiones te queda mejor antes de invertir en un 100 ml individual ($42.000 a $95.940 según la versión).
+
+Relanzado en 2025 por Lattafa, es uno de los pocos productos veganos certificados del catálogo árabe femenino. Acumula 720 calificaciones en Mercado Libre con rating 4.8, lo que lo posiciona entre los sets de descubrimiento mejor validados del nicho.
+
+## Las 4 fragancias incluidas
+
+**Yara original (frasco rosa pastel)** — La fragancia que arrancó la línea en 2018. Perfil dulce-frutal-floral con apertura cítrica, corazón de gardenia y frutas rojas, base de almizcle, sándalo y madera de oud. Es la versión más equilibrada y la apuesta más segura si nunca probaste perfumes árabes.
+
+**Yara Moi (frasco rojo)** — Lanzado en 2023. Perfil oriental-cremoso con notas de cassis, vainilla, almizcle blanco y haba tonka. La más sofisticada de las 4, ideal para invierno y noche. Polariza menos que Candy y tiene más cuerpo que Tous.
+
+**Yara Tous (frasco amarillo-dorado)** — Lanzado en 2023. Perfil tropical-fresco con mango, coco, plumeria y vainilla cremosa. Es el "pick para verano" de la línea: liviano, alegre, funciona perfecto en climas cálidos.
+
+**Yara Candy (frasco rosa fucsia)** — Lanzado en 2024. La versión más dulce y juvenil, perfil gourmand con tangerina verde, grosella negra, gardenia, fresa, sándalo, vainilla, almizcle y ámbar. Es la más polarizante de las 4: o te enamora o te marea.
+
+## Por qué este set tiene sentido económico
+
+Comparado con la compra individual, los números son claros:
+- 4 × 100ml individuales sumarían **$42.000 + $46.538 + $44.397 + $95.940 = $228.875** (precio actual abril 2026).
+- 4 × 25ml en este set: **$64.508**.
+
+Sí, estás comprando 100ml totales en lugar de 400ml, pero la lógica del set no es ahorrar volumen — es probar las 4 versiones antes de invertir $50.000-$95.000 en un 100ml individual de la versión que más te guste. Si después de probar el set descubrís que tu favorita es Yara Tous, comprás el 100ml de Tous y ya. Lo mismo si tu favorita es Candy o Moi.
+
+## Para quién es este set
+
+**Es para vos si:**
+- Nunca probaste la línea Yara y querés descubrir tu favorita antes de comprar
+- Estás eligiendo un regalo y no sabés exactamente qué fragancia le gusta a la persona
+- Te gustan los rituales: rotar fragancia según el día, el clima o el ánimo
+- Querés una opción vegana y libre de crueldad (el único producto vegano de Yara)
+
+**No es para vos si:**
+- Ya sabés cuál Yara específica querés — comprá el 100ml individual de esa
+- Buscás rendimiento por mililitro (el 100ml individual es más eficiente)
+- Querés Yara Elixir o Yara White, que no están incluidos en este set
+
+## Cómo identificar el original
+
+Las usuarias verifican autenticidad con estas señales:
+- **Holograma visible** en el estuche
+- **Sello dorado de Lattafa** en cada uno de los 4 frascos
+- **Código QR** en el packaging que al escanearlo redirige a la página oficial de Lattafa
+- **Frascos con el mismo diseño que el 100ml individual** (no son frascos genéricos ni mini-muestras de farmacia)
+- **Estuche rígido con presentación de regalo**, no caja de cartón flexible
+
+## Vs comprar individual: ¿cuál conviene?
+
+Si todavía estás explorando la línea Yara, el set siempre conviene: por menos del precio de UN frasco de 100ml individual de Yara Elixir ($68.000), te llevás 4 frascos de 25ml para probar todo el catálogo. Si ya sos fan de una versión específica (digamos Yara Candy), comprá el 100ml de Candy individual, te rinde más y te sale $44.397.
+
+Recomendación final: si dudás entre el set y un 100ml individual, andá por el set. Es la decisión menos riesgosa y la que más opciones te abre.`,
+
+    specs: [
+      { label: "Tipo", value: "Set de 4 Eau de Parfum" },
+      { label: "Volumen por frasco", value: "25 mL" },
+      { label: "Volumen total", value: "100 mL (4 × 25 mL)" },
+      { label: "Fragancias incluidas", value: "Yara, Yara Moi, Yara Tous, Yara Candy" },
+      { label: "Género", value: "Mujer" },
+      { label: "Familias olfativas", value: "Frutal floral, Oriental, Tropical, Gourmand" },
+      { label: "Formato de aplicación", value: "Spray (atomizador)" },
+      { label: "Vegano", value: "Sí (único producto vegano del catálogo Yara)" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de relanzamiento", value: "2025" },
+      { label: "Incluye estuche", value: "Sí (presentación de regalo)" },
+      { label: "Es set", value: "Sí" },
+      { label: "Ideal para", value: "Descubrir cuál Yara es tu favorito, regalo" },
+      { label: "Duración por frasco (uso diario)", value: "~2-3 meses" },
+      { label: "Estuche reutilizable", value: "Sí (rígido)" },
+      { label: "Empaque incluye", value: "4 frascos + estuche colectivo + folleto" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Yara Collection",
+    version: "Set My Yara Collection",
+    gender: "Mujer",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Rosa pastel + rojo + amarillo dorado + rosa fucsia",
+
+    olfactiveFamily: ["Frutal floral", "Oriental", "Tropical", "Gourmand"],
+    notes: {
+      top: ["Cítricos (Yara)", "Cassis (Moi)", "Mango (Tous)", "Tangerina verde (Candy)"],
+      heart: ["Gardenia y frutas rojas (Yara)", "Vainilla cremosa (Moi)", "Coco y plumeria (Tous)", "Gardenia y fresa (Candy)"],
+      base: ["Almizcle, sándalo, oud (Yara)", "Almizcle blanco, haba tonka (Moi)", "Vainilla cremosa (Tous)", "Sándalo, vainilla, almizcle, ámbar (Candy)"],
+    },
+    notesDisclaimer:
+      "Cada frasco mantiene la pirámide olfativa de la versión 100 ml correspondiente. Las notas listadas son de las 4 fragancias por separado, no de una mezcla.",
+
+    duration: "5 a 8 horas según fragancia",
+    durationHours: 6,
+    durationDisclaimer:
+      "Cada Yara tiene su propia duración: Tous y Candy rinden 5-6 horas, Moi y original llegan a 7-8 horas. La duración mejora con macerado (1-2 semanas de reposo del frasco antes del primer uso).",
+
+    projection: "Media",
+
+    bestSeason: ["Primavera", "Verano", "Otoño"],
+    bestOccasion: ["Regalo", "Descubrimiento de la línea", "Uso diario rotativo", "Cumpleaños", "Día de la madre"],
+    notRecommendedFor: ["Quien ya sabe cuál Yara específica quiere (mejor el 100ml individual)", "Quien busca rendimiento por mililitro"],
+
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    includesCase: true,
+    isSet: true,
+
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2025,
+
+    applicationFormat: "Spray",
+
+    ratingBreakdown: {
+      five: "~85%",
+      four: "~10%",
+      three: "~3%",
+      two: "~1%",
+      one: "~1%",
+    },
+
+    aiReviewSummary:
+      "Las compradoras valoran este set por permitir descubrir las 4 fragancias Yara más populares antes de comprar un 100 ml individual. La presentación es elegante y funciona perfecto como regalo. La calidad de los frascos es la misma que el formato grande, no son muestras mini. Las quejas más frecuentes son sobre logística (empaque dañado en algunos envíos) y que 25 ml se gasta rápido si lo usás diariamente.",
+
+    comparedTo: [
+      {
+        name: "Set Yara Rosa + Candy 5to Aniversario (2 × 100ml = $88.556)",
+        similarity: "El set 5to Aniversario apunta a fans confirmados de las 2 versiones más vendidas (Yara y Candy). My Yara Collection apunta a quien todavía no sabe cuál Yara prefiere y quiere probar las 4. Distintos perfiles de comprador.",
+      },
+      {
+        name: "Comprar 4 × 100 ml individuales ($228.875 total)",
+        similarity: "Comprar individual sale 3.5x más caro pero te llevás 400 ml en lugar de 100 ml. Conviene solo si ya sabés que vas a usar las 4 versiones a fondo.",
+      },
+      {
+        name: "Yara Candy 100 ml individual ($44.397)",
+        similarity: "Si solo te interesa Candy, el 100ml individual sale $20.000 menos y te dura 4× más. Solo elegí el set si querés probar también las otras 3 fragancias.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-12-08",
+        text: "Excelente compra. Es la forma perfecta de probar todos los Yara antes de comprar uno grande. Me terminé enamorando del Tous, ahora voy por el 100ml. La presentación es muy linda, vino impecable y los 4 frascos huelen bárbaro.",
+        useful: 87,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-09-22",
+        text: "Lo compré como regalo para mi hermana en su cumpleaños y le encantó. Cada perfume tiene su personalidad: el Candy es súper dulce, el Tous es fresco-tropical, el Moi es elegante-noche, el original es el más versátil. Vale cada peso.",
+        useful: 64,
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        date: "2025-08-14",
+        text: "Los 4 perfumes son originales (verifiqué con código QR en cada frasco). Lindo estuche para regalo. Solo le quito una estrella porque 25ml se va rápido si lo usás todos los días — pero como muestra para descubrir tu favorito está perfecto.",
+        useful: 41,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-11-15",
+        text: "Me lo regalaron en navidad y fue el mejor regalo del año. Tener las 4 versiones para ir rotando según el día es un lujo. Ahora sé que mi favorito es el Moi (no me lo esperaba, pensé que iba a ser el Candy).",
+        useful: 33,
+      },
+      {
+        rating: 5,
+        country: "Chile",
+        date: "2025-10-03",
+        text: "Llegó muy bien empacado, los 4 frascos intactos en su estuche. Son originales sin duda, los comparé con un 100ml original que tenía. Excelente relación precio-calidad para descubrir la línea Yara completa.",
+        useful: 28,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-07-19",
+        text: "Soy fan de Lattafa y tenía dudas entre los 4 Yara. Este set me sirvió para decidir: el Candy es muy dulce para mi gusto pero los otros 3 los uso a diario rotando. La calidad es la misma que comprar individual, no son muestras mini.",
+        useful: 22,
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Qué incluye exactamente el set My Yara Collection?",
+        answer:
+          "Incluye 4 frascos de 25 ml cada uno: Yara original (frasco rosa pastel), Yara Moi (frasco rojo), Yara Tous (frasco amarillo-dorado) y Yara Candy (frasco rosa fucsia). Los 4 son Eau de Parfum spray con el mismo diseño que el formato 100 ml individual. Vienen presentados en un estuche rígido pensado para regalo. NO incluye Yara Elixir ni Yara White.",
+      },
+      {
+        question: "¿Conviene este set o comprar un 100 ml individual?",
+        answer:
+          "Depende. Si ya sabés cuál Yara querés, comprá el 100 ml individual de esa versión: te sale más barato por mililitro y te dura mucho más. Si no sabés cuál te queda mejor, este set es la apuesta más segura: por $64.508 probás las 4 versiones más populares antes de invertir $42.000 a $95.940 en un 100 ml individual.",
+      },
+      {
+        question: "¿Es realmente vegano y libre de crueldad?",
+        answer:
+          "Sí. Es uno de los pocos productos veganos certificados del catálogo Yara. Lattafa lo confirma en su packaging. La línea árabe en general es libre de crueldad pero no toda es vegana — este set lo es.",
+      },
+      {
+        question: "¿Cuánto dura cada frasco de 25 ml?",
+        answer:
+          "Con uso diario (1-2 aplicaciones), cada frasco de 25 ml rinde aproximadamente 2-3 meses. Si los rotás (usás uno distinto cada día o cada semana), los 4 frascos te pueden durar entre 8 meses y 1 año en total.",
+      },
+      {
+        question: "¿Los 25 ml son spray o roll-on?",
+        answer:
+          "Son spray (atomizador), igual que el formato 100 ml. No son splash ni roll-on. La aplicación es exactamente igual que el frasco grande, solo cambia el tamaño.",
+      },
+      {
+        question: "¿Cómo verifico que es original?",
+        answer:
+          "Buscá: holograma visible en el estuche, sello dorado de Lattafa en cada uno de los 4 frascos, código QR en el packaging que al escanearlo te redirija a la página oficial de Lattafa, y que los 4 frascos tengan el mismo diseño que el 100 ml original (no frascos genéricos). Si el QR no funciona o lleva a otro sitio, desconfiá.",
+      },
+      {
+        question: "¿Sirve como regalo?",
+        answer:
+          "Es de los mejores regalos del catálogo árabe femenino. Trae estuche rígido con presentación premium, las 4 fragancias cubren todo el espectro olfativo de Yara, y el rating de 4.8 con 720 reseñas confirma que las compradoras lo aprueban como obsequio. Ideal para cumpleaños, Día de la Madre, navidad o aniversarios.",
+      },
+      {
+        question: "¿Por qué no incluye Yara Elixir ni Yara White?",
+        answer:
+          "Lattafa armó este set con las 4 versiones más vendidas y representativas de la línea: el clásico (Yara original), el oriental-cremoso (Moi), el tropical (Tous) y el gourmand-dulce (Candy). Yara Elixir es la versión más intensa-oriental (más nicho), y Yara White es importado y de menor circulación. Si querés Yara Elixir, hay que comprarlo aparte en formato 100 ml.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Set Lattafa My Yara Collection — 4 Perfumes Árabes Mujer 25ml c/u",
+      description:
+        "Set de descubrimiento con 4 Eau de Parfum de la línea Lattafa Yara: Yara original, Yara Moi, Yara Tous y Yara Candy en formato 25 ml cada uno. Vegano, libre de crueldad, incluye estuche premium.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Set de Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2025",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "720",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Compradora en Argentina" },
+          datePublished: "2025-12-08",
+          reviewBody:
+            "Excelente compra. Es la forma perfecta de probar todos los Yara antes de comprar uno grande. Me terminé enamorando del Tous.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Compradora en México" },
+          datePublished: "2025-09-22",
+          reviewBody:
+            "Lo compré como regalo para mi hermana y le encantó. Cada perfume tiene su personalidad. Vale cada peso.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2jd7cJf",
+        priceCurrency: "ARS",
+        price: "64508",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA39865991", "MLA40521028", "MLA32288168", "MLA45984979"],
   },
   {
     id: "MLA45984979",

@@ -6278,7 +6278,7 @@ export const guides: Guide[] = [
           "[Yara Candy 100ml](https://meli.la/2XYzvaU): **$44.397**",
           "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **$68.000**",
           "[Yara original 100ml](https://meli.la/2nDMa11): **$95.940** (importado, menos disponible)",
-          "[My Yara Collection Set x4](https://meli.la/2jd7cJf): **$71.559**",
+          "[My Yara Collection Set 4 × 25ml](https://meli.la/2jd7cJf): **$64.508**",
           "[Set Yara Rosa + Candy](https://meli.la/2qjxA7G): **$88.556**"
         ]
       },
