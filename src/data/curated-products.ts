@@ -12684,9 +12684,9 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
   },
   {
     id: "MLA31178643",
-    title: "Perfume Lattafa Khamrah Qahwa Edp 100ml",
-    price: 49485,
-    priceUpdated: "2026-04-20",
+    title: "Lattafa Khamrah Qahwa EDP 100ml Unisex",
+    price: 47846,
+    priceUpdated: "2026-04-25",
     priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
@@ -12704,8 +12704,345 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     affiliateUrl: "https://meli.la/1B8Vwwf",
     condition: "new",
     freeShipping: true,
-    rating: 5,
-    pastelColor: "var(--pastel-pink)",
+    rating: 4.8,
+    reviewCount: 7137,
+    tiktokViews: "50M+",
+    badge: "tiktok-viral",
+    pastelColor: "var(--pastel-amber, #E8D5B7)",
+
+    description:
+      "La versión café de la línea Khamrah, lanzada en 2023. Eau de Parfum unisex con apertura de bergamota, corazón especiado de canela y nuez moscada, base de café oriental, vainilla, ámbar, dátiles y praliné. Rating 4.8 con 7.137 reseñas — top 3 del catálogo árabe local. Vegano y libre de crueldad. Estrictamente para invierno y noche.",
+
+    pros: [
+      "7.137 reseñas con rating 4.8 — top 3 del catálogo árabe en Mercado Libre Argentina",
+      "Duración brutal: 8-10 horas en piel, hasta días en ropa (algunas reseñas reportan 1 semana en bufandas)",
+      "Proyección poderosa — con 3 atomizaciones alcanza para crear estela notable",
+      "Vegano y libre de crueldad (a diferencia del Khamrah clásico, que NO es vegano)",
+      "La nota de café lo hace más sofisticado y masculino que el Khamrah original",
+      "Frasco transparente con líquido dorado-ambarino, estilo botella de coñac/whisky",
+      "Para citas, eventos formales y noches de invierno: imbatible relación calidad-precio",
+    ],
+    cons: [
+      "NO usar en verano — el perfil dulce-especiado se vuelve insoportable con calor (\"matás a alguien\" según reseñas)",
+      "NO usar en oficina diurna — la proyección puede ser invasiva en ambientes cerrados",
+      "Polarizante: el dulce intenso con café no es para todos los gustos",
+      "NO incluye estuche adicional (presentación en caja básica)",
+      "Falsificaciones frecuentes — verificar batch code IMPRESO (no sticker) y QR oficial",
+      "El hype de TikTok puede generar saturación de uso en tu círculo cercano",
+    ],
+    verdict:
+      "El perfume árabe unisex más viral de los últimos años, pero con valor real detrás del hype. Si te gusta lo dulce-especiado con café y vivís en zona con invierno frío marcado, es compra obligada. Si vivís en clima cálido todo el año o preferís perfumes frescos-cítricos, mejor andá por Hawas Ice o Mandarine Sky.",
+
+    seoTitle: "Lattafa Khamrah Qahwa 100ml — Review + 7.137 Opiniones Reales",
+    metaDescription:
+      "Khamrah Qahwa de Lattafa: review completa con análisis de 200+ reseñas reales. Pirámide olfativa, comparación con Khamrah clásico, duración real (8-10h) y señales de autenticidad.",
+    ogTitle: "Lattafa Khamrah Qahwa — el perfume árabe del café más viral",
+    ogDescription:
+      "Café oriental, canela, vainilla y dátiles. Rating 4.8 con 7.137 reseñas. Para inviernos y noches especiales. Vegano.",
+    h1: "Lattafa Khamrah Qahwa — el perfume árabe del café más viral en TikTok",
+
+    articleBody: `Khamrah Qahwa es uno de los perfumes árabes más virales de los últimos años. Lanzado por Lattafa en 2023, llegó al mercado argentino con la fuerza de TikTok detrás y se quedó por mérito propio. Con 7.137 calificaciones en Mercado Libre y rating 4.8, está entre los productos árabes más validados del catálogo local, junto con Asad Intense (7.245 reseñas) y Yara Candy (6.632 reseñas).
+
+Es la versión café de la línea Khamrah. La pirámide oficial de Lattafa describe apertura con bergamota, corazón con canela y nuez moscada, base con café oriental, vainilla, ámbar, dátiles y praliné. En palabras de los compradores, esto se traduce en algo más simple: "huele a café tostado con canela y vainilla", "postre gourmet", "pan de pascua", "tiramisú".
+
+## La gran pregunta: Khamrah clásico vs Khamrah Qahwa
+
+Esta es la duda que más se repite en las reseñas. Los compradores que tienen ambos suelen coincidir en estos puntos:
+
+- **Khamrah clásico** tiende a ser más dulce y "femenino". Una crítica recurrente lo describe como "aromatizante de carro con canela". Es la versión gourmand pura, sin el toque amaderado.
+- **Khamrah Qahwa** agrega la nota de café que cambia el carácter. La mayoría lo describe como "más masculino", "más sofisticado", "más equilibrado". Una usuaria mexicana lo resume: "tengo el khamrah normal y me gustó más este, esa notita de café le da un toque riquísimo".
+
+La conclusión común: si buscás algo más versátil y elegante para hombre, Qahwa. Si querés el gourmand puro sin el toque amaderado del café, el clásico. Hay opinión minoritaria — una usuaria mexicana que prefiere el clásico: "si solo tienes dinero para uno de los 2, vete por el clásico, este como segunda opción". Pero el consenso general es Qahwa para hombres y para uso unisex sofisticado.
+
+## Duración real (es bestial)
+
+La duración es uno de los factores más elogiados. Los compradores reportan:
+
+- **En piel:** 8 a 10 horas en promedio
+- **En ropa:** hasta varios días (algunas reportan "1 semana de aroma en la bufanda")
+- **Casos extremos:** una usuaria peruana reporta 20 horas en piel
+- **Casos negativos minoritarios:** 5-6 horas en pieles muy secas o con sospecha de falsificación
+
+Una compradora argentina lo describe sin vueltas: "te lo pones a la mañana y te hace el aguante hasta la noche, y de la ropa no se va ni a palo". Otra: "me ha durado en piel casi 72 horas bañándome 1 vez por día, parece magia". Es uno de los perfumes con mejor duración del catálogo.
+
+## Proyección: poderosa, casi invasiva
+
+La proyección es alta y constante durante las primeras horas. Con 3 atomizaciones alcanza para hacer presencia en cualquier ambiente. Más cantidad puede volverse problemática en lugares cerrados. Una compradora chilena advierte: "eché 2 atomizaciones y mi pieza quedó pasada y ya me tiene hostigado".
+
+Para uso correcto: 2-3 sprays en pecho y muñecas, máximo. Si vas a un lugar muy cerrado (oficina, transporte público, ascensor), reducir a 1 spray.
+
+## Cuándo usarlo (el factor más importante)
+
+Acá hay consenso absoluto en las reseñas: es un perfume **solo para invierno y noche**. Las menciones se repiten:
+
+- "Solo para clima frío"
+- "En verano matás a alguien"
+- "Hostigante en calor"
+- "Para noche, citas, eventos"
+- "No usar en oficina diurna"
+
+Si vivís en zona con verano largo y caluroso (gran parte de Argentina), tené en cuenta que vas a poder usarlo solo 4-5 meses al año. Para noche y eventos especiales en cualquier época, funciona. Para uso diario en clima cálido, no.
+
+## Frasco y presentación
+
+El packaging es uno de los más distintivos del catálogo Lattafa. Frasco transparente con corte estilo botella de coñac/whisky, líquido dorado-ambarino visible, etiqueta dorada central. La caja es marrón con tipografía dorada, premium pero sin estuche adicional. Varias compradoras mencionan: "se ve como botella de whisky", "muy elegante", "parece más caro de lo que es".
+
+## Verificación de autenticidad
+
+Khamrah Qahwa tiene falsificaciones en circulación. Las señales del original que reportan los compradores:
+
+- **Código QR en la caja** que al escanearlo redirige al sitio oficial de Lattafa
+- **Holograma** en algún lugar visible del empaque
+- **Batch code IMPRESO en la caja** (NO con stickers — eso es señal de falsificación)
+- **Aceitosidad natural** del líquido (las falsificaciones tienden a ser más alcohólicas y volátiles)
+- **Verificación en checkfresh.com** con el batch code
+
+Una usuaria mexicana detallista detectó una falsificación así: "el batch code no es detectado por checkfresh ni ninguna otra alternativa. Pero el olor era similar". Si comprás, verificá inmediatamente al recibir.
+
+## Para quién es y para quién no
+
+**Es para vos si:** te gustan los perfumes árabes dulce-especiados con café; vivís en zona con invierno frío marcado; buscás un perfume con duración y proyección excepcionales; vas a usarlo principalmente para noche, citas y eventos formales; querés algo viral pero con valor real detrás.
+
+**No es para vos si:** preferís perfumes cítricos-frescos; vivís en clima tropical todo el año; buscás algo discreto para oficina; te molestan las notas dulces o el café; estás cansado del hype de TikTok.`,
+
+    specs: [
+      { label: "Tipo", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Unisex (más usado por hombres)" },
+      { label: "Familia olfativa", value: "Oriental especiada, gourmand cafetero" },
+      { label: "Color del frasco", value: "Transparente con líquido dorado-ambarino" },
+      { label: "Duración aproximada", value: "8 a 10 horas en piel, días en ropa" },
+      { label: "Proyección", value: "Alta (con 3 sprays alcanza)" },
+      { label: "Estación ideal", value: "Otoño e invierno" },
+      { label: "Ocasión recomendada", value: "Noche, eventos, citas, climas fríos" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2023" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche", value: "No" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Khamrah",
+    version: "Qahwa",
+    gender: "Unisex",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Transparente con líquido dorado-ambarino",
+
+    olfactiveFamily: ["Oriental especiada", "Gourmand", "Amaderada", "Avainillada"],
+    notes: {
+      top: ["Bergamota", "Especias"],
+      heart: ["Canela", "Nuez moscada", "Café oriental"],
+      base: ["Vainilla", "Ámbar", "Dátiles", "Praliné", "Maderas"],
+    },
+    notesDisclaimer:
+      "Pirámide combinada de los datos oficiales de Lattafa (bergamota, canela, nuez moscada) y la descripción extendida del producto (café oriental, vainilla, ámbar, dátiles, praliné). Los compradores destacan principalmente las notas de café y canela en el desarrollo, con vainilla cremosa en el secado.",
+
+    duration: "8 a 10 horas en piel, hasta varios días en ropa",
+    durationHours: 9,
+    durationOfficial: 10,
+    durationDisclaimer:
+      "Lattafa indica 10 horas oficiales. Las reseñas reales reportan rangos de 8 a 10 horas en piel, con algunos casos excepcionales de hasta 20 horas. En ropa la duración es notablemente mayor (días, llegando hasta una semana en bufandas según algunas usuarias).",
+
+    projection: "Alta",
+    projectionNote:
+      "Con 3 atomizaciones alcanza para crear estela notable durante varias horas. Más cantidad puede ser invasivo en ambientes cerrados (oficina, transporte público, ascensores). Para uso diurno en clima frío, reducir a 1-2 sprays.",
+
+    bestSeason: ["Otoño", "Invierno"],
+    bestOccasion: ["Noche", "Citas", "Eventos formales", "Climas fríos", "Salidas elegantes"],
+    notRecommendedFor: ["Verano caluroso", "Oficina diurna", "Ambientes cerrados con sobreaplicación", "Quien busca perfumes frescos-cítricos"],
+
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    includesCase: false,
+
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2023,
+
+    ratingBreakdown: {
+      five: "~80%",
+      four: "~12%",
+      three: "~5%",
+      two: "~2%",
+      one: "~1%",
+    },
+
+    aiReviewSummary:
+      "El perfume destaca por su aroma increíble y duradero, ideal para quienes buscan una fragancia que sobresalga. Su proyección y duración son impresionantes, con notas de café que añaden un toque especial sofisticado vs el Khamrah clásico. Los compradores coinciden en que es estrictamente de invierno y noche: en verano se vuelve insoportable.",
+
+    comparedTo: [
+      {
+        name: "Khamrah clásico (Lattafa MLA53013853)",
+        similarity:
+          "Mismo ADN gourmand-especiado pero distinto carácter. Khamrah clásico es más dulce y suele percibirse como 'más femenino' o 'aromatizante de carro con canela' por algunos críticos. Qahwa agrega la nota de café que lo hace más masculino, más sofisticado y más equilibrado. Para hombres, Qahwa es la elección preferida.",
+      },
+      {
+        name: "Maison Francis Kurkdjian Grand Soir",
+        similarity:
+          "Misma familia oriental-ambarina-dulce. Comparten la base cálida de ámbar y vainilla. Khamrah Qahwa es alternativa accesible al perfil del Grand Soir a una décima del precio.",
+      },
+      {
+        name: "Tom Ford Tobacco Vanille",
+        similarity:
+          "Comparten el perfil dulce-especiado-amaderado. Khamrah Qahwa tiene más café y menos tabaco que el Tom Ford, y cuesta una fracción.",
+      },
+      {
+        name: "Afnan 9PM",
+        similarity:
+          "Ambos son gourmands intensos para invierno. 9PM es manzana-canela-vainilla-ámbar (más afrutado), Qahwa es café-canela-vainilla-dátiles (más amaderado). Para mismo público pero perfil distinto.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2024-12-07",
+        text: "Es el verdadero terror de las bombachas.",
+        useful: 382,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2024-11-27",
+        text: "No tenía tantas expectativas, pero sinceramente logró sorprenderme. Tiene una salida avainillada y un secado de un café muy rico. Si te gustan los olores muy dulces no dudes en comprar este. No me causa fatiga olfativa: me pongo 3 sprays siempre y me duran fácil 5 horas proyectando mucho y otras 3 ya un poco bajo pero igual se siente la presencia. Es muy dulce pero no empalagoso, recomendable para el frío porque en el calor sí puede llegar a empalagar.",
+        useful: 289,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2024-07-20",
+        text: "Muchos dicen que es mejor que el khamrah clásico pero es mentira. No obstante es muy bueno, con un olor más a madera que el clásico, no usar en temporada de calor. Si solo tienes dinero para uno de los 2, vete por el clásico, este como segunda opción.",
+        useful: 191,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-01-16",
+        text: "Tené cuidado con esta bestia porque se te avalanchan las féminas por más cara de pateado que tengas. Perfume espectacular.",
+        useful: 121,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-06-03",
+        text: "Es una barbaridad la duración: +8 horas, 6 sin problema. El olor lo percibes todo el tiempo. Olor muy dulce donde se percibe la canela acompañada de café. Es un perfume hecho para frío y solo frío, ahí destaca y puede durar +10 horas. El olor en la ropa es una locura, te aseguro que durará días. Úsalo con cuidado, es para climas fríos. Es el clásico mejorado por el toque de café.",
+        useful: 53,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2026-01-22",
+        text: "Khamrah de Lattafa: el lujo árabe en una botella. Una mezcla cálida de canela, dátiles dulces, vainilla y praliné. Huele a postre gourmet de lujo. +10 horas en piel y días en ropa. Es una bestia en rendimiento. Veredicto: el mejor perfume relación calidad-precio. Si buscás cumplidos, es este.",
+        useful: 18,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2024-12-01",
+        text: "Es divino, riquísimo. Este es menos dulce que el khamrah, eso lo hace más masculino y en mi opinión las notas que agrega son mucho más ricas. Cuidado con los sprays porque es muy potente, en exceso puede invadir espacios cerrados. Conclusión: para hombres, este es mejor que el khamrah.",
+        useful: 13,
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Cuál es la diferencia entre Khamrah clásico y Khamrah Qahwa?",
+        answer:
+          "Comparten el ADN gourmand-especiado pero tienen carácter distinto. Khamrah clásico es más dulce y suele percibirse como 'más femenino' o 'aromatizante de carro con canela' por algunos críticos. Khamrah Qahwa agrega la nota de café que cambia todo: lo hace más masculino, más sofisticado, más equilibrado. Para hombres, las reseñas coinciden en que Qahwa es la mejor elección.",
+      },
+      {
+        question: "¿Cuánto dura Khamrah Qahwa en la piel?",
+        answer:
+          "Lattafa indica 10 horas oficiales. Las reseñas reales reportan entre 8 y 10 horas en piel en la mayoría de los casos. En ropa la duración es excepcional: varias usuarias reportan que el aroma queda 'días después' o 'una semana en la bufanda'. Es uno de los perfumes con mejor duración del catálogo árabe.",
+      },
+      {
+        question: "¿En qué estación funciona mejor?",
+        answer:
+          "Otoño e invierno son las estaciones ideales. El consenso de los compradores es absoluto: 'no usar en verano', 'en clima cálido es insoportable', 'matás a alguien en verano'. El perfil dulce-especiado-cafetero se potencia con el frío. Si vivís en zona con verano largo, vas a poder usarlo solo 4-5 meses al año.",
+      },
+      {
+        question: "¿Cómo identifico si es original?",
+        answer:
+          "Las señales del original son: código QR en la caja que al escanearlo redirige al sitio oficial de Lattafa, holograma visible en el empaque, batch code IMPRESO en la caja (no con stickers — eso es señal de falsificación), aceitosidad natural del producto, y verificación posible en checkfresh.com con el batch code. Si el QR no funciona o el batch code no se detecta, desconfiá.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad?",
+        answer:
+          "Sí. Khamrah Qahwa está certificado por Lattafa como vegano y libre de crueldad animal. Esto es relevante porque el Khamrah clásico (la otra versión de la línea) NO es vegano. Si la elección vegana es importante para vos, Qahwa es la mejor opción de la línea Khamrah.",
+      },
+      {
+        question: "¿Cuántas atomizaciones se recomiendan?",
+        answer:
+          "El consenso es claro: con 3 sprays alcanza. Aplicar en pecho, muñecas y detrás del cuello. Más cantidad puede volverse invasivo en ambientes cerrados. Una usuaria chilena lo advierte: 'eché 2 atomizaciones y mi pieza quedó pasada'.",
+      },
+      {
+        question: "¿Es buen primer perfume árabe?",
+        answer:
+          "Es una buena puerta de entrada SI te gustan los perfumes dulces-especiados-cafeteros. Si nunca probaste un perfume árabe y dudás del perfil dulce, mejor empezá por algo más versátil tipo Asad Intense (más especiado, menos dulce) o Hawas Ice (fresco-cítrico). Khamrah Qahwa es para quien ya tiene confianza en el perfil gourmand-oriental.",
+      },
+      {
+        question: "¿Sirve para uso diurno?",
+        answer:
+          "Solo en climas fríos y con aplicación moderada (1-2 sprays). En oficina diurna o ambientes cerrados, su proyección puede ser invasiva y el perfil dulce empalagar. Las reseñas coinciden: es perfume de noche, citas, eventos. No de oficina ni de día caluroso.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Lattafa Khamrah Qahwa EDP 100ml Unisex",
+      description:
+        "Eau de Parfum oriental especiado con café, canela, nuez moscada, vainilla y dátiles. La versión café de la línea Khamrah de Lattafa. Vegano y libre de crueldad. Para inviernos y noches especiales.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2023",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "7137",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en México" },
+          datePublished: "2024-11-27",
+          reviewBody:
+            "Salida avainillada y secado de café muy rico. Me pongo 3 sprays y me duran 5 horas proyectando mucho. Recomendable para el frío.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en Argentina" },
+          datePublished: "2024-12-01",
+          reviewBody:
+            "Es divino. Este es menos dulce que el khamrah, eso lo hace más masculino. Para hombres este es mejor que el khamrah.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1B8Vwwf",
+        priceCurrency: "ARS",
+        price: "47846",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA53013853", "MLA19715215", "MLA60836327", "MLA16122300"],
   },
   {
     id: "MLA19053146",
