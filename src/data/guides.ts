@@ -6081,21 +6081,14 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
-        title: "Yara Tous (celeste)"
+        title: "Yara Tous (amarillo)"
       },
       {
-        type: "image",
-        src: "/images/perfumes-imagenes/28-Lattafa-YaraTous-Mujer-100ml.webp",
-        alt: "Yara Tous Lattafa 100ml, versión fresca y juvenil",
-        imageSize: "inline-md"
-      },
-      {
-        type: "p",
-        content: "Versión fresca. Cítricos arriba, base ligera, sin el dulzor denso de los otros. Si el original te pareció demasiado pesado, este es el que te puede cerrar. También es el más usado para oficina y climas cálidos."
-      },
-      {
-        type: "p",
-        content: "[Ver Yara Tous Lattafa Mujer 100ml](https://meli.la/1kwTmSn)"
+        type: "product-card",
+        productMlaId: "MLA40521028",
+        label: "La Yara para verano",
+        labelColor: "amber",
+        description: "La versión tropical-frutal de la familia. Apertura con mango, coco y maracuyá; corazón floral blanco con jazmín y flor de azahar; fondo cremoso de vainilla y almizcle. Frasco amarillo-dorado distintivo, incluye estuche. Ideal para primavera-verano y uso diurno. Lanzada en 2023, dos años antes que el Yara Elixir."
       },
       {
         type: "h3",
@@ -6119,23 +6112,39 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Esta es la pelea real, porque son las dos versiones más fáciles de conseguir y las que más se confunden. Mi posición después de probar las dos:"
+        content: "La pelea más frecuente entre las dos versiones más populares de la línea. Cada una está pensada para un uso completamente distinto, así que no son competencia directa: son complementarias."
+      },
+      {
+        type: "h3",
+        title: "Yara Elixir gana si buscás:"
+      },
+      {
+        type: "list",
+        items: [
+          "Un perfume con presencia y proyección alta",
+          "Para noche, eventos especiales o climas fríos",
+          "El perfil oriental-dulce-intenso clásico árabe",
+          "Apertura de mandarina y durazno, fondo de ámbar y vainilla",
+          "Frasco fucsia con tapón dorado, **sin estuche** adicional"
+        ]
+      },
+      {
+        type: "h3",
+        title: "Yara Tous gana si preferís:"
+      },
+      {
+        type: "list",
+        items: [
+          "Una fragancia más liviana y veraniega",
+          "Para uso diurno, oficina o climas cálidos",
+          "El perfil tropical-frutal-floral",
+          "Apertura de mango y coco, fondo cremoso de vainilla",
+          "Frasco amarillo-dorado, **incluye estuche**"
+        ]
       },
       {
         type: "p",
-        content: "Elixir gana si buscás un perfume con presencia, para noche o para climas fríos. Proyecta fuerte, dura mucho, es dulce sin ser infantil. El frasco fucsia también pega más cuando lo tenés en la cómoda."
-      },
-      {
-        type: "p",
-        content: "Tous gana si preferís algo para todos los días, oficina o verano. No te va a tapar la cara a las dos horas en un ambiente cerrado, que con Elixir puede pasar si te aplicás mucho."
-      },
-      {
-        type: "p",
-        content: "Si tenés que elegir uno solo y no sabés cuál, ponete a pensar cuándo lo vas a usar más: de noche o de día. Esa respuesta resuelve el 90% de la duda."
-      },
-      {
-        type: "p",
-        content: "Con los precios actuales (abril 2026), Yara Tous cuesta $42.545 y Yara Elixir $68.000. La diferencia es de $25.455, bastante notoria. Elixir te da más concentración, más duración y una base oriental más envolvente. Tous es más accesible y más fácil de usar en cualquier contexto. Si es tu primer Yara, Tous es una puerta de entrada más cómoda al presupuesto."
+        content: "**¿Cuál comprar primero?** Si recién arrancás con la línea Yara, Tous es la entrada más segura: cuesta $42.000 (vs $68.000 del Elixir, una diferencia de $26.000), el perfil tropical es menos polarizante y funciona en todas las estaciones cálidas. Si ya conocés y te gusta el Yara Elixir, Tous es el complemento natural para los meses de calor."
       },
       {
         type: "h2",
@@ -6148,7 +6157,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Yara Tous 100ml](https://meli.la/1kwTmSn): **$42.545**",
+          "[Yara Tous 100ml](https://meli.la/1kwTmSn): **$42.000**",
           "[Yara Moi 100ml](https://meli.la/1qBuAFB): **$46.538**",
           "[Yara Candy 100ml](https://meli.la/2XYzvaU): **$51.339**",
           "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **$68.000**",
@@ -7031,7 +7040,7 @@ export const guides: Guide[] = [
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
-      { productMlaId: "MLA40521028", label: "Alternativa fresca", labelColor: "blue", tagline: "Yara Tous: versión cítrica ligera, ideal para oficina y verano." },
+      { productMlaId: "MLA40521028", label: "Para verano y día", labelColor: "blue", tagline: "Yara Tous: tropical-frutal con mango, coco y vainilla. Incluye estuche. 4.7⭐ con 471 reseñas." },
       { productMlaId: "MLA41304983", label: "Gourmand premium", labelColor: "amber", tagline: "Her Confession: dulce sensual con praliné, vainilla y base oriental." },
       { productMlaId: "MLA49628348", label: "Para empezar", labelColor: "purple", tagline: "Sabah Al Ward: floral accesible, la puerta de entrada al nicho." },
     ],
@@ -7087,7 +7096,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA40521028",
-        description: "Versión fresca y juvenil de la familia Yara. Cítricos, flores blancas y base ligera. Ideal para día, oficina y climas cálidos.",
+        description: "La versión tropical de la línea Yara. Mango, coco, jazmín y vainilla. Más fresca y diurna que el Yara Elixir. Rating 4.7 con 471 reseñas. Incluye estuche, ideal para regalar.",
         ranking: 2
       },
       {
