@@ -21,6 +21,7 @@ const badgeConfig = {
   "hot-deal": { icon: Flame, label: "HOT DEAL" },
   bestseller: { icon: Award, label: "BESTSELLER" },
   "summer-pick": { icon: Sun, label: "PARA VERANO" },
+  "tiktok-viral": { icon: TikTokIcon, label: "VIRAL EN TIKTOK" },
 } as const;
 
 interface ProductCardProps {

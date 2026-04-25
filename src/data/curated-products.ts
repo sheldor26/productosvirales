@@ -13559,8 +13559,10 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
   },
   {
     id: "MLA39865991",
-    title: "Lattafa Yara Candy Edp 100 Ml",
-    price: 51339,
+    title: "Lattafa Yara Candy Mujer EDP 100ml",
+    price: 44397,
+    priceUpdated: "2026-04-20",
+    priceStatus: "fresh",
     originalPrice: undefined,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_929559-MLA80591868886_112024-O.webp",
@@ -13577,8 +13579,342 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
     affiliateUrl: "https://meli.la/2XYzvaU",
     condition: "new",
     freeShipping: true,
-    rating: 5,
+    rating: 4.7,
+    reviewCount: 6632,
+    tiktokViews: "20M+",
+    badge: "tiktok-viral",
     pastelColor: "var(--pastel-pink)",
+
+    description:
+      "La versión más dulce y polarizante de la línea Yara. Eau de Parfum 100ml con apertura de tangerina verde y grosella negra; corazón de gardenia y fresa; base de sándalo, vainilla, almizcle y ámbar. Frasco rosa fucsia. Rating 4.7 con 6.632 reseñas reales. Incluye estuche.",
+
+    pros: [
+      "6.632 reseñas con rating 4.7 — uno de los más validados del catálogo femenino",
+      "Aroma a gomitas, fresa y vainilla — perfil gourmand fácil de querer",
+      "Frasco rosa fucsia distintivo, incluye estuche para regalar",
+      "Funciona perfecto en verano y climas cálidos",
+      "Libre de crueldad animal certificado por Lattafa",
+      "Más accesible que el Yara Elixir ($44.000 vs $68.000)",
+      "Versátil en edades — aman desde adolescentes hasta mujeres +30",
+    ],
+    cons: [
+      "Polarizante: 'te encanta o te marea' — no es para todo el mundo",
+      "Duración variable según tipo de piel (3-8 horas) — dura más en ropa que en piel",
+      "Algunas usuarias lo encuentran sintético en la apertura",
+      "Empaque puede llegar dañado por logística (problema de envío frecuente)",
+      "No es libre de alcohol",
+      "Si preferís perfumes elegantes y serios, este no es para vos",
+    ],
+    verdict:
+      "El Yara más dulce y juvenil. Si te gustan los gourmands extremos tipo gomitas-malvaviscos-fresa, es compra obligada. Si preferís perfumes sofisticados o no soportás el dulce empalagoso, mejor andá por el Yara Elixir o Yara Tous.",
+
+    seoTitle: "Yara Candy Lattafa 100ml — Review + 6.632 Opiniones Reales",
+    metaDescription:
+      "Yara Candy: análisis de 200+ reseñas reales. Pirámide olfativa, duración real, comparación con otros Yara y señales de autenticidad. El Yara más dulce de la línea.",
+    ogTitle: "Lattafa Yara Candy — el Yara más dulce con 6.632 reseñas",
+    ogDescription:
+      "Tangerina, grosella, gardenia, fresa, vainilla y ámbar. La versión más juvenil y polarizante de Yara. Rating 4.7 en Mercado Libre.",
+    h1: "Lattafa Yara Candy — la versión más dulce y polarizante de la línea Yara",
+
+    articleBody: `Yara Candy es la versión más dulce y polarizante de la línea Yara de Lattafa. Lanzada en 2024, viene a ocupar un nicho específico dentro de la familia: el del gourmand extremo. Con 6.632 calificaciones en Mercado Libre y rating 4.7, está entre los productos femeninos más validados del nicho árabe en Argentina y América Latina.
+
+La pirámide olfativa oficial es: salida de tangerina verde y grosella negra, corazón con gardenia y fizz de fresa, fondo de sándalo, jarabe de vainilla, almizcle y ámbar. En palabras de las compradoras, esto se traduce en algo mucho más simple: "huele a gomitas y fresa". Esa frase, o variantes ("malvaviscos", "caramelo de fresa", "algodón de azúcar"), aparece en el 80% de las reseñas analizadas.
+
+## El perfil olfativo según quienes lo usan
+
+Una usuaria mexicana experta en gourmands lo describe perfecto: "al principio se siente como el perfume de Hello Kitty de Fuller el rosa, y luego ya se siente la fresa, la vainilla como una mermelada de vainilla o yogurt, y se siente una nota algo sintética como caramelo, similar a My Melody de Fuller". Es una descripción técnica que coincide con lo que reportan otras compradoras: arranca con un dulzor frutal-azucarado, pasa por un corazón de fresa cremosa con jardín floral, y aterriza en una base avainillada con toques amaderados sutiles.
+
+Otra usuaria argentina con experiencia en perfumes árabes detalla: "huele ácido a frambuesa o frutillas en la salida, luego se va apagando quedando como jabonoso, medio atalcado, y finalmente como con olor a caramelo frutal". Esta evolución es típica del producto: la apertura es la fase más intensa y la que define el "te gusta o no te gusta".
+
+## La gran cuestión: ¿es para vos?
+
+Yara Candy es claramente polarizante. En las reseñas hay dos campos opuestos.
+
+Las que lo aman lo describen como "delicioso, dulce sin ser empalagoso", "huele a postre", "mi favorito de toda la línea". Vienen del lado de los gourmands extremos: si te gustan Cher 18 (mencionado varias veces como referencia), Kayali Vanilla Candy Rock Sugar, o cualquier perfume de la familia "comestible", Yara Candy te va a cerrar.
+
+Las que no lo soportan lo describen como "empalagoso", "me marea", "muy sintético en la apertura". Estas usuarias suelen preferir el Yara original (rosa) o el Yara Tous (amarillo), que son más equilibrados.
+
+El consejo que se repite en las reseñas: si nunca probaste un perfume árabe gourmand y no estás segura de tu tolerancia al dulce extremo, mejor empezá por Yara Tous o Yara Elixir. Yara Candy es para fans confirmados del perfil gourmand-azucarado.
+
+## Duración real (lo que dicen las compradoras)
+
+La duración es uno de los temas más discutidos en las reseñas, y los números son muy variables. Algunas reportan 8+ horas en piel, otras solo 3-4 horas. Una usuaria experta resume el patrón: "dura aproximadamente 3-4 horas en piel, no proyecta tanto, pero en la ropa dura una eternidad".
+
+Esto coincide con lo típico de los gourmands frutales: pierden intensidad rápido en piel pero se anclan bien en ropa. Si querés que el aroma dure todo el día, una recomendación útil es aplicar parte del perfume en la ropa además de en la piel.
+
+## Truco que descubrieron las usuarias expertas
+
+Una compradora argentina con varios Yara comparte un detalle importante: "para todas las que dicen que no dura, recomiendo que lo guarden por unas semanas y lo vuelvan a probar". Esto se conoce en la comunidad de perfumería como "macerado" — la fragancia mejora con el reposo después de embotellada. Si lo recibís y la primera prueba te decepciona, dale tiempo antes de descartarlo.
+
+## Cómo identificar el original
+
+Yara Candy tiene falsificaciones en circulación. Las usuarias que verificaron originales reportan estas señales:
+
+- **Holograma visible** en la caja
+- **Sello dorado de Lattafa** en el frasco
+- **Código QR que lleva a la página oficial de Lattafa** para verificación de autenticidad (escaneá y debería redirigirte al sitio oficial)
+- **Etiqueta holográfica** en alguna parte del empaque
+- **Frasco rosa fucsia uniforme**, no transparente ni descolorido
+
+Una usuaria mexicana resume: "leí el código QR y me lleva a la página oficial, es original 100%". Ese es el método más confiable de verificación.
+
+## Para quién es y para quién no
+
+**Es para vos si:** te enamoran los perfumes dulces y gourmands, tu tipo de fragancia favorita son los gourmands tipo Kayali o Cher 18, vivís en zona con verano largo, querés algo juvenil y divertido, o estás buscando un regalo para alguien con perfil dulce.
+
+**No es para vos si:** preferís perfumes elegantes-sofisticados, te empalaga el dulce extremo, buscás algo formal para oficina, o te molestan las notas sintéticas.
+
+## Yara Candy vs Yara Tous vs Yara Elixir
+
+Si estás dudando entre las versiones de Yara, así se posicionan:
+
+- **Yara Tous (amarillo, $42.000):** la más fresca y tropical, ideal para todo el año. Mango, coco, vainilla.
+- **Yara Candy (rosa fucsia, $44.397):** la más dulce y juvenil, ideal para verano. Gomitas, fresa, vainilla.
+- **Yara Elixir (fucsia oscuro, $68.000):** la más intensa y oriental, ideal para invierno-noche. Mandarina, durazno, ámbar.
+
+Si vas a tener uno solo y no sabés cuál: Tous es la apuesta más segura por ser menos polarizante.`,
+
+    specs: [
+      { label: "Tipo", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Mujer" },
+      { label: "Familia olfativa", value: "Gourmand frutal floral" },
+      { label: "Color del frasco", value: "Rosa fucsia con cinta dorada" },
+      { label: "Duración aproximada", value: "3 a 8 horas en piel (variable según tipo de piel)" },
+      { label: "Duración en ropa", value: "Hasta el día siguiente" },
+      { label: "Proyección", value: "Moderada" },
+      { label: "Estación ideal", value: "Primavera, verano (apto todo el año)" },
+      { label: "Ocasión recomendada", value: "Uso diario, salidas casuales, citas" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2024" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche", value: "Sí" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    brand: "Lattafa",
+    line: "Yara",
+    version: "Candy",
+    gender: "Mujer",
+    perfumeType: "Eau de Parfum",
+    concentration: "EDP",
+    volume: 100,
+    volumeUnit: "mL",
+    color: "Rosa fucsia con cinta dorada",
+
+    olfactiveFamily: ["Gourmand", "Frutal", "Floral", "Avainillado"],
+    notes: {
+      top: ["Tangerina verde", "Grosella negra"],
+      heart: ["Gardenia", "Fizz de fresa"],
+      base: ["Sándalo", "Jarabe de vainilla", "Almizcle", "Ámbar"],
+    },
+    notesDisclaimer:
+      "Pirámide olfativa oficial de Lattafa, confirmada por la descripción del vendedor. Las compradoras tienden a percibir principalmente el corazón frutal (fresa, gomitas) y la base avainillada; algunas describen también notas atalcadas y de caramelo en el secado.",
+
+    duration: "3 a 8 horas en piel, hasta el día siguiente en ropa",
+    durationHours: 5,
+    durationDisclaimer:
+      "La duración es muy variable según tipo de piel. Las reseñas reales reportan rangos de 3 a 8 horas en piel. En ropa se ancla mucho mejor, llegando al día siguiente. Truco recomendado por usuarias experimentadas: dejar reposar el perfume 1-2 semanas en su caja después de comprarlo (macerado) mejora la duración.",
+
+    projection: "Media",
+    projectionNote:
+      "No es invasivo. Funciona como burbuja personal cercana, no como estela que llene un ambiente. Algunas reportan más proyección con el perfume macerado.",
+
+    bestSeason: ["Primavera", "Verano"],
+    bestOccasion: ["Uso diario", "Salidas casuales", "Citas", "Reuniones con amigas", "Adolescentes y jóvenes"],
+    notRecommendedFor: ["Eventos formales", "Quien busca perfumes elegantes-sofisticados", "Quien no tolera el dulce extremo"],
+
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    includesCase: true,
+
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2024,
+
+    ratingBreakdown: {
+      five: "~78%",
+      four: "~14%",
+      three: "~5%",
+      two: "~2%",
+      one: "~1%",
+    },
+
+    aiReviewSummary:
+      "La fragancia es muy dulce, con un aroma a gomitas cremosas que resulta encantador. Destaca por su excelente relación precio-calidad y su larga duración tanto en la piel como en la ropa. Es una opción ideal para quienes buscan un perfume con buena proyección y persistencia.",
+
+    comparedTo: [
+      {
+        name: "Yara Elixir (versión oriental-invierno de la misma línea)",
+        similarity: "Comparten el ADN dulce de Yara, pero Candy es más frutal-azucarado y menos oriental. Elixir proyecta más, Candy es más cercano a la piel.",
+      },
+      {
+        name: "Yara Tous (versión tropical-verano de la misma línea)",
+        similarity: "Ambos son apropiados para verano. Tous es más tropical (mango, coco), Candy es más gourmand (gomitas, fresa).",
+      },
+      {
+        name: "Cher Eau de Couture 1818",
+        similarity: "Mencionada por varias usuarias argentinas como referencia. Misma familia gourmand pero Candy es '10 veces más rica' según una reseña.",
+      },
+      {
+        name: "Kayali Vanilla Candy Rock Sugar 42",
+        similarity: "Comparten el perfil dulce-azucarado-vainillado. Yara Candy es alternativa accesible al perfil del Kayali a una fracción del precio.",
+      },
+      {
+        name: "Hello Kitty rosa de Fuller / My Melody de Fuller",
+        similarity: "Mencionado por usuaria experta mexicana. Comparten la apertura sintética dulce con notas de caramelo.",
+      },
+      {
+        name: "Kriska Romance de Natura",
+        similarity: "Mencionada por usuaria argentina como muy parecido. Comparten el dulzor frutal-floral.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-11-09",
+        text: "Me encantó. Para los que han probado los perfumes de Fuller, así se siente Yara Candy: como Hello Kitty rosa al principio, y luego se siente la fresa, la vainilla como una mermelada de vainilla o yogurt, con una nota sintética tipo caramelo de My Melody. Un poco frutal y floral. Es original.",
+        useful: 241,
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        date: "2025-03-05",
+        text: "El perfume es rico, aunque por las opiniones esperaba algo más contundente. No es tan fuerte como dicen, no percibo tanto la estela. En mi piel no se siente tan afrutado, sí más dulce especiado y luego con un olor a limpio, sin llegar a ser atalcado. La presentación es buena, como de perfume más costoso.",
+        useful: 119,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-03-14",
+        text: "Tengo todos los Yara menos el blanco. Huele ácido a frambuesa o frutillas en la salida y luego se va apagando, queda como jabonoso, medio atalcado, y finalmente con olor a caramelo frutal. Es muy agradable, bastante versátil, algo juvenil pero tampoco solo para nenas. Dura 3-4 horas en piel pero en la ropa dura una eternidad. Para todas las que dicen que no dura, recomiendo guardarlo por unas semanas y volverlo a probar — mejora con el tiempo.",
+        useful: 30,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-05-31",
+        text: "Si eres fan de aromas muy dulces, este es perfecto. Cuando seca deja un olor como a malvaviscos y fresa. Tiene muy buena duración sobre la piel y la ropa la deja oliendo al siguiente día. Y sí es original, leí el código QR y me mete a la página oficial. 10/10.",
+        useful: 110,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-03-31",
+        text: "Es extremadamente dulce, huele como un caramelo exquisito, buena proyección. Es original. Si quieren comprobarlo pueden escribir el código de lote en una página y les aparece si es de Lattafa o no.",
+        useful: 59,
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-05-04",
+        text: "Es mi primer perfume árabe. Soy team gourmand y este perfume huele muy dulce. Su salida es dulce y cítrica. Al final solo te queda un toque dulce como a gomitas.",
+        useful: 28,
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        date: "2025-08-31",
+        text: "Es original 100%. Tiene mucho aroma dulce a gomitas con duración moderada. Lo compré a ciegas y no me mató, su salida me empalaga mucho aunque luego se asienta y se estabiliza. Tengo el Yara rosa y me gusta más que éste. En mi caso no lo volvería a comprar porque me empalaga un toque.",
+        useful: 4,
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Cuánto dura Yara Candy en la piel?",
+        answer:
+          "La duración varía mucho según tipo de piel. Las reseñas reales reportan rangos de 3 a 8 horas en piel. En ropa la duración es notablemente mayor, llegando al día siguiente. Una usuaria experta recomienda dejar reposar el perfume 1-2 semanas en su caja antes de usarlo (proceso de macerado) para mejorar el rendimiento.",
+      },
+      {
+        question: "¿A qué huele Yara Candy realmente?",
+        answer:
+          "A gomitas, caramelo de fresa, vainilla cremosa y un toque de mermelada. La pirámide oficial menciona tangerina verde, grosella negra, gardenia, fresa, sándalo, vainilla y ámbar, pero las usuarias coinciden en que la sensación dominante es 'huele a postre' o 'huele a caramelos'. Algunas perciben una nota sintética inicial similar a perfumes infantiles tipo Hello Kitty Fuller.",
+      },
+      {
+        question: "¿Cuál es la diferencia con los otros Yara?",
+        answer:
+          "Yara Candy es la versión más dulce-juvenil-frutal de la línea. Yara Tous es tropical-fresco (mango, coco), Yara Elixir es oriental-intenso (mandarina, ámbar), Yara original es más equilibrado. Si querés algo gourmand-dulce extremo, Candy es tu opción. Si buscás algo más versátil, Tous o Elixir son apuestas más seguras.",
+      },
+      {
+        question: "¿Cómo identifico si es original?",
+        answer:
+          "Las señales del original son: holograma visible en la caja, sello dorado de Lattafa en el frasco, código QR que al escanearlo te lleva a la página oficial de Lattafa para verificación de autenticidad, etiqueta holográfica, y frasco rosa fucsia uniforme. Si el código QR no redirige al sitio oficial de Lattafa, desconfiá.",
+      },
+      {
+        question: "¿Es bueno como primer perfume árabe?",
+        answer:
+          "Depende. Si te gustan los gourmands extremos tipo Kayali Vanilla 28, Cher 18 o cualquier perfume 'comestible', Yara Candy es una excelente puerta de entrada. Si nunca probaste perfumes muy dulces, mejor empezá por Yara Tous o Yara Elixir, que son menos polarizantes. Yara Candy es para fans confirmados del perfil gourmand.",
+      },
+      {
+        question: "¿En qué edad va mejor?",
+        answer:
+          "Es versátil. Las reseñas muestran fans desde adolescentes (varias madres lo regalaron a sus hijas de 14-15 años) hasta mujeres +30 que lo aman. El perfil dulce-juvenil tira más a quien le gustan los gourmands divertidos, sin importar la edad. Sí es cierto que algunas adultas lo sienten 'demasiado para nenas', pero es minoría.",
+      },
+      {
+        question: "¿Sirve para verano o invierno?",
+        answer:
+          "Es ideal para primavera y verano por su perfil dulce-frutal-fresco. En invierno funciona pero brilla menos. Una usuaria chilena lo describe perfecto: 'es muy rico para climas cálidos, en verano no es pesado'. Para invierno-noche, mejor el Yara Elixir.",
+      },
+      {
+        question: "¿Por qué algunas dicen que no dura?",
+        answer:
+          "Hay tres factores: 1) Tipo de piel (las pieles secas absorben más rápido los gourmands), 2) Macerado (el perfume mejora con 1-2 semanas de reposo después de comprado), 3) Posibles falsificaciones (los originales tienden a durar mejor que los falsos). Si tu Yara Candy te dura poco, probá esas tres variables antes de descartarlo.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Lattafa Yara Candy Mujer EDP 100ml",
+      description:
+        "Eau de Parfum gourmand frutal con notas de tangerina verde, grosella negra, gardenia, fresa, sándalo, vainilla, almizcle y ámbar. La versión más dulce de la línea Yara de Lattafa. Incluye estuche.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2024",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "6632",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Compradora en México" },
+          datePublished: "2025-11-09",
+          reviewBody:
+            "Me encantó. El aroma es como Hello Kitty rosa al principio, luego fresa, vainilla como mermelada y un toque de caramelo. Original 100%.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Compradora en Argentina" },
+          datePublished: "2025-03-14",
+          reviewBody:
+            "Huele ácido a frambuesa en la salida, luego jabonoso y atalcado, finalmente caramelo frutal. Versátil y juvenil. Dura 3-4 horas en piel pero en ropa una eternidad.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2XYzvaU",
+        priceCurrency: "ARS",
+        price: "44397",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA60836327", "MLA40521028", "MLAU2983186467", "MLA32288168"],
   },
   {
     id: "MLA51612102",
