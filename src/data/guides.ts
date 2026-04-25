@@ -2331,6 +2331,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver Energy Golden Bar en MercadoLibre", href: "https://meli.la/13fYLhg" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA1841302022", label: "Electroestimulante", labelColor: "amber" },
       {
         type: "card",
         card: {
@@ -2343,6 +2344,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver kit rodillo jade + gua sha en MercadoLibre", href: "https://meli.la/1rDGvYf" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA24518712", label: "Empezar barato", labelColor: "green" },
       {
         type: "card",
         card: {
@@ -2356,6 +2358,7 @@ export const guides: Guide[] = [
           ctas: [{ label: "Ver Gadnic LF60 en MercadoLibre", href: "https://meli.la/2a6LCX1" }],
         },
       },
+      { type: "product-card", productMlaId: "MLA26522167", label: "Tratamiento profesional", labelColor: "purple" },
       { type: "verdict", content: "Mi opinión: para empezar, el kit de rodillo jade + gua sha por $5.400 es imbatible. Si ya tenés una rutina de skincare y querés algo que complemente, el Energy Golden Bar está bien. Y si querés ir en serio con tratamientos faciales en casa, el Gadnic LF60 es el que más se acerca a resultados profesionales, pero el precio lo refleja." },
       { type: "h2", title: "Cuándo no comprar un masajeador facial" },
       { type: "p", content: "Si tenés acné activo, rosácea o la piel muy sensible, un masajeador puede empeorar las cosas. La fricción y la presión irritan los brotes. Consultá con un dermatólogo antes." },
