@@ -3,6 +3,7 @@ import { ExternalLink, Package, Star } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
+import { productHref } from "@/lib/product-url";
 
 interface ProductCardProps {
   section: GuideSection;
@@ -238,7 +239,7 @@ export function ProductCard({ section }: ProductCardProps) {
               <ExternalLink size={14} />
             </a>
             <Link
-              href={`/producto/${product.id}`}
+              href={productHref(product)}
               className="inline-flex items-center px-4 py-2.5 text-sm font-medium rounded-full border text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] transition-colors"
               style={{ borderColor: "var(--border)" }}
             >

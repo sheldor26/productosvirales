@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { categories } from "@/data/categories";
 import { getSitemapProducts } from "@/lib/products";
+import { productHref } from "@/lib/product-url";
 import { getPublishedGuides } from "@/data/guides";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://productosvirales.com.ar";
@@ -24,7 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }));
 
   const productPages: MetadataRoute.Sitemap = getSitemapProducts().map(({ product, priority }) => ({
-    url: `${SITE_URL}/producto/${product.id}`,
+    url: `${SITE_URL}${productHref(product)}`,
     changeFrequency: "weekly" as const,
     priority,
   }));

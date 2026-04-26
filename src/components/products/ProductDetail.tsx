@@ -9,6 +9,7 @@ import { Badge } from "@/components/ui/Badge";
 import { TikTokBadge } from "@/components/widgets/TikTokBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
+import { productHref } from "@/lib/product-url";
 import type { Product } from "@/lib/types";
 
 interface ProductDetailProps {
@@ -333,7 +334,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
             {relatedProducts.map((related) => (
               <Link
                 key={related.id}
-                href={`/producto/${related.id}`}
+                href={productHref(related)}
                 className="group flex items-center gap-3 p-3 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
               >
                 <div

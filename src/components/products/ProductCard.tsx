@@ -5,6 +5,7 @@ import Image from "next/image";
 import { ArrowRight, Sparkles, TrendingUp, Flame, Award, Sun, Gift } from "lucide-react";
 import { Badge } from "@/components/ui/Badge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
+import { productHref } from "@/lib/product-url";
 import type { Product } from "@/lib/types";
 
 function TikTokIcon({ size = 12 }: { size?: number }) {
@@ -33,8 +34,8 @@ interface ProductCardProps {
 }
 
 export function ProductCard({ product, index = 0, priority = false }: ProductCardProps) {
+  const productUrl = productHref(product);
   const {
-    id,
     title,
     price,
     originalPrice,
@@ -58,7 +59,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
       }`}
     >
       {/* Image area */}
-      <Link href={`/producto/${id}`} className="block relative" style={{ aspectRatio: "10/9" }}>
+      <Link href={productUrl} className="block relative" style={{ aspectRatio: "10/9" }}>
         <div
           className="absolute inset-0"
           style={{ backgroundColor: pastelColor || "#f8f8f6" }}
@@ -115,7 +116,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
           {category}
         </Link>
 
-        <Link href={`/producto/${id}`}>
+        <Link href={productUrl}>
           <h3 className="mt-1 text-sm font-medium leading-[1.3] text-[var(--text-primary)] line-clamp-2">
             {title}
           </h3>

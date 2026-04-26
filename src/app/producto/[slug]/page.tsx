@@ -1,22 +1,25 @@
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import type { Metadata } from "next";
 import { curatedProducts } from "@/data/curated-products";
 import { getVisibleProducts } from "@/lib/products";
+import { parseProductSlug, productHref, productSlug } from "@/lib/product-url";
 import { ProductDetail } from "@/components/products/ProductDetail";
 import { ProductGrid } from "@/components/products/ProductGrid";
 
 interface Props {
-  params: Promise<{ id: string }>;
+  params: Promise<{ slug: string }>;
 }
 
 export function generateStaticParams() {
   return curatedProducts
     .filter((p) => p.visibility !== "deprioritized")
-    .map((p) => ({ id: p.id }));
+    .map((p) => ({ slug: productSlug(p) }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { id } = await params;
+  const { slug } = await params;
+  const { id } = parseProductSlug(slug);
+  if (!id) return { title: "Producto no encontrado" };
   const product = curatedProducts.find((p) => p.id === id);
   if (!product) return { title: "Producto no encontrado" };
 
@@ -30,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title,
     description,
     alternates: {
-      canonical: `https://productosvirales.com.ar/producto/${id}`,
+      canonical: `https://productosvirales.com.ar${productHref(product)}`,
     },
     openGraph: {
       title: product.ogTitle || title,
@@ -48,18 +51,26 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function ProductPage({ params }: Props) {
-  const { id } = await params;
-  const product = curatedProducts.find((p) => p.id === id);
+  const { slug } = await params;
 
-  if (!product) {
-    notFound();
+  const { id } = parseProductSlug(slug);
+  if (!id) notFound();
+
+  const product = curatedProducts.find((p) => p.id === id);
+  if (!product) notFound();
+
+  // 308 to canonical when the slug prefix is missing (legacy /producto/MLA…)
+  // or stale (title rewritten after the URL was shared).
+  const canonical = productSlug(product);
+  if (slug !== canonical) {
+    permanentRedirect(`/producto/${canonical}`);
   }
 
   // Explicit cross-links defined on the product (manual interlinking).
   // We resolve these from the full catalog so curated links still work even
   // if the target is deprioritized — explicit > automatic.
   const explicitRelated = (product.relatedProducts || [])
-    .map((id) => curatedProducts.find((p) => p.id === id))
+    .map((relId) => curatedProducts.find((p) => p.id === relId))
     .filter((p): p is NonNullable<typeof p> => p !== undefined);
 
   // Automatic feeds (same-category + other-categories) exclude deprioritized
@@ -214,7 +225,7 @@ export default async function ProductPage({ params }: Props) {
                 "@type": "ListItem",
                 position: 3,
                 name: product.title,
-                item: `https://productosvirales.com.ar/producto/${product.id}`,
+                item: `https://productosvirales.com.ar${productHref(product)}`,
               },
             ],
           }),
