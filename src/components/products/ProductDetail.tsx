@@ -10,6 +10,7 @@ import { TikTokBadge } from "@/components/widgets/TikTokBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { productHref } from "@/lib/product-url";
+import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import type { Product } from "@/lib/types";
 
 interface ProductDetailProps {
@@ -201,24 +202,20 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
           {/* CTA */}
           <div className="mt-6 flex flex-col sm:flex-row gap-3">
-            <a
+            <AffiliateLink
               href={product.affiliateUrl}
-              target="_blank"
-              rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
             >
               Ver en MercadoLibre
               <ExternalLink size={14} />
-            </a>
-            <a
+            </AffiliateLink>
+            <AffiliateLink
               href={product.affiliateUrl}
-              target="_blank"
-              rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 px-6 py-3 text-sm font-medium rounded-[var(--radius-pill)] border border-[var(--border)] text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] transition-colors"
             >
               Ir a la oferta
               <ArrowRight size={14} />
-            </a>
+            </AffiliateLink>
           </div>
         </div>
       </div>
@@ -373,15 +370,13 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
       {/* ─── Bottom CTA ─── */}
       {(product.articleBody || product.faq) && (
         <div className="mt-8 max-w-3xl flex justify-center">
-          <a
+          <AffiliateLink
             href={product.affiliateUrl}
-            target="_blank"
-            rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 px-8 py-3 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
           >
             Ver precio en MercadoLibre
             <ExternalLink size={14} />
-          </a>
+          </AffiliateLink>
         </div>
       )}
     </div>

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { ArrowRight, Sparkles, TrendingUp, Flame, Award, Sun, Gift } from "lucide-react";
+import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
@@ -142,16 +143,14 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             )}
           </div>
 
-          <a
+          <AffiliateLink
             href={affiliateUrl}
-            target="_blank"
-            rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}
             className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors shrink-0"
-            aria-label="Ver en MercadoLibre"
+            ariaLabel="Ver en MercadoLibre"
           >
             <ArrowRight size={14} />
-          </a>
+          </AffiliateLink>
         </div>
       </div>
     </div>
