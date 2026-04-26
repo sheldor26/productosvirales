@@ -6564,12 +6564,52 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA29780185",
-        description: "El lado fresco del catálogo. Acuático, frutal, base de maderas blancas. Es el perfume \"para cualquier cosa\" de esta lista. Oficina, salida, primavera, verano. No se equivoca nunca.",
+        description: "El masculino fresco-frutal del catálogo. Apertura cítrica con bergamota, lima y menta; corazón con la nota distintiva de 'manzana congelada' + ciruela y grosellas; base de pachulí, ámbar, tonka y sándalo. Comparado constantemente con Paco Rabanne Invictus a un tercio del precio. 9.144 reseñas con rating 4.8. Cruelty-free. Para verano, gym y citas casuales.",
+        label: "El Invictus árabe a 1/3 del precio",
+        labelColor: "blue",
         ranking: 3
       },
       {
         type: "p",
         content: "Si preferís algo más oscuro y amaderado, [Hawas Black](https://meli.la/2T9ofP2) es la alternativa dentro de la misma marca."
+      },
+      {
+        type: "h3",
+        title: "Hawas Ice vs Paco Rabanne Invictus: ¿vale la diferencia de precio?"
+      },
+      {
+        type: "p",
+        content: "Esta es la comparación que más se repite en las reseñas de Hawas Ice. Los compradores que tienen ambos coinciden en un punto clave: Hawas Ice ofrece un perfil similar al Invictus a un tercio del precio."
+      },
+      {
+        type: "p",
+        content: "**Comparten:** perfil fresco-frutal-aromático con base ambarino-amaderada, versatilidad para gym/oficina/citas casuales, mismo público target (hombres jóvenes-medios) y duración decente en piel con persistencia excepcional en ropa."
+      },
+      {
+        type: "p",
+        content: "**Diferencias:** Invictus EDT cuesta $200.000-300.000 vs Hawas Ice $76.284 (3 a 4 veces más barato). Invictus es más cítrico-acuático puro; Hawas Ice agrega la nota distintiva de 'manzana congelada' que el Invictus no tiene. Hawas Ice es más fácil de conseguir en Argentina sin pagar aranceles de importación."
+      },
+      {
+        type: "p",
+        content: "**¿Vale el diferencial?** Si nunca probaste el Invictus, Hawas Ice es una buena puerta de entrada al perfil. Si te gusta el Invictus pero no querés repetir el frasco a $300.000, es la alternativa razonable. Una compradora argentina lo resume: \"mejor que el Invictus, 24hs en la ropa\". Otro: \"es un Invictus a una fracción de su precio\". Para presupuestos limitados, Hawas Ice gana por mucho. Para coleccionistas que ya tienen el Invictus, agrega complementariedad por la manzana helada."
+      },
+      {
+        type: "h3",
+        title: "Cómo verificar la autenticidad de Hawas Ice (importante para lote 2024)"
+      },
+      {
+        type: "p",
+        content: "Hawas Ice tiene falsificaciones en circulación. Las señales del original son consistentes en las reseñas de quienes hicieron verificación detallada."
+      },
+      {
+        type: "p",
+        content: "**Atomizador plateado por dentro** — las falsificaciones suelen tener atomizador de otro color. Esta es la señal más infalible. **Tapa pesada** — las falsificaciones tienen tapas livianas; si la tapa se siente plástica al tacto, desconfiar. **Etiqueta de papel** con tipografía precisa de Rasasi. **Batchcode visible** verificable en checkfresh.com (algunos lotes nuevos no aparecen aún)."
+      },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Atención al lote 2024",
+        content: "Rasasi cambió el diseño en algunos lotes 2024: la palabra **\"Rasasi\" ya NO aparece en la tapa**, y el batchcode ahora viene **a un costado de la caja** (no abajo). Esto generó muchas dudas en compradores que pensaron que era falsificación. Si tu Hawas Ice no tiene 'Rasasi' en la tapa, NO significa que sea falso — verificar el resto de elementos (atomizador plateado, tapa pesada, batch code). Si el atomizador no es plateado o la tapa es liviana, considerá pedir cambio o devolución."
       },
       {
         type: "h3",
@@ -6898,7 +6938,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): $83.599",
+          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): $76.284",
           "[Rasasi Hawas Black](https://meli.la/2T9ofP2): $75.388"
         ]
       },
@@ -7021,7 +7061,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**Entre $70.000 y $100.000 — colección premium**. [Kingdom Man](https://meli.la/2aRjHd9) ($71.198), [Emeer Caja con Luces](https://meli.la/21q6DEg) ($75.811), [Hawas Black](https://meli.la/2T9ofP2) ($75.388), [Hawas Ice](https://meli.la/24kQeRc) ($83.599), [Erba Pura Árabe](https://meli.la/2WydUup) ($73.160). Perfumes para quien ya conoce el nicho y busca algo con más carácter."
+        content: "**Entre $70.000 y $100.000 — colección premium**. [Kingdom Man](https://meli.la/2aRjHd9) ($71.198), [Emeer Caja con Luces](https://meli.la/21q6DEg) ($75.811), [Hawas Black](https://meli.la/2T9ofP2) ($75.388), [Hawas Ice](https://meli.la/24kQeRc) ($76.284), [Erba Pura Árabe](https://meli.la/2WydUup) ($73.160). Perfumes para quien ya conoce el nicho y busca algo con más carácter."
       },
       {
         type: "p",
