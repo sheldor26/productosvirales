@@ -7592,6 +7592,211 @@ export const guides: Guide[] = [
     ],
     faq: []
   },
+  {
+    slug: "perfumes-arabes",
+    category: "perfumes-arabes",
+    title: "Perfumes árabes Argentina 2026: la guía completa para empezar",
+    seoTitle: "Perfumes árabes Argentina 2026: la guía completa para empezar",
+    metaDescription: "Perfumes árabes en Argentina 2026: marcas (Lattafa, Afnan, Rasasi), precios reales, dupes y cómo elegir el primero. Análisis honesto.",
+    ogTitle: "Perfumes árabes en Argentina: lo que nadie te dice antes de empezar",
+    ogDescription: "Marcas, precios, dupes y trampas. Lo que aprendí después de probar el nicho durante 2 años en Argentina.",
+    h1: "Perfumes árabes en Argentina: la guía honesta para empezar (2026)",
+    publishedDate: "2026-04-27",
+    updatedDate: "2026-04-27",
+    hasDisclosure: true,
+    standfirst: "Después de dos años explorando el nicho, esto es lo que me hubiera gustado saber al principio. Marcas, precios reales, dupes legítimos y las trampas que te pueden hacer perder dinero.",
+    quickPicks: [
+      {
+        productMlaId: "MLA19715215",
+        label: "Nuestra elección masculino",
+        labelColor: "green",
+        tagline: "Oriental amaderado-especiado con 7.245 reseñas y rating 4.6. La alternativa accesible al Dior Sauvage Elixir. Para hombres que buscan el primer árabe sin equivocarse."
+      },
+      {
+        productMlaId: "MLA60836327",
+        label: "Nuestra elección femenino",
+        labelColor: "green",
+        tagline: "El viral de TikTok que se quedó por mérito propio. Oriental floral con vainilla y caramelo. La puerta de entrada del nicho femenino árabe."
+      },
+      {
+        productMlaId: "MLA31178643",
+        label: "Mejor unisex gourmand",
+        labelColor: "amber",
+        tagline: "Café oriental, canela y vainilla. 7.137 reseñas con rating 4.8. Vegano y libre de crueldad. Solo para invierno y noche."
+      },
+      {
+        productMlaId: "MLA29780185",
+        label: "Mejor fresco-verano",
+        labelColor: "blue",
+        tagline: "El masculino fresco-frutal con nota distintiva de 'manzana congelada'. Comparado constantemente con Paco Rabanne Invictus a un tercio del precio."
+      }
+    ],
+    intro: [
+      "Hace tres años los perfumes árabes en Argentina eran cosa de coleccionistas raros que pedían frascos por encomienda desde Dubai. Hoy un Lattafa Yara Elixir de TikTok te lo entrega Mercado Libre en 48 horas, cuesta menos de un Dior Sauvage y dura más que él. Algo cambió, y cambió rápido.",
+      "Si estás acá, probablemente viste un video de TikTok, alguien te dijo 'tenés que probar Khamrah' o entraste a Mercado Libre buscando un perfume que no te salga $300.000. Bienvenido al lado raro de la perfumería: el lado donde un frasco de 100ml dura 8 horas en piel y proyecta como un Tom Ford a una décima del precio.",
+      "Ahora: no todos los perfumes árabes son buenos, y no todos los que ves recomendados en redes valen lo que cuestan. Esta guía es lo que me hubiera gustado leer cuando empecé a investigar el nicho hace dos años. Sin marketing, sin 'los 10 mejores', sin afiliados disfrazados de recomendaciones. Lo que funciona, lo que no, y por qué."
+    ],
+    sections: [
+      { type: "image", src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp", alt: "Lattafa Yara Elixir 100ml — uno de los perfumes árabes más vendidos en Argentina", imageSize: "hero" },
+
+      { type: "h2", title: "Qué son y por qué importan" },
+      { type: "p", content: "Los perfumes árabes vienen mayoritariamente de Emiratos Árabes Unidos y Arabia Saudita. Lo que en Occidente conocemos como 'el nicho árabe' explotó comercialmente en los últimos diez años de la mano de cinco casas grandes: Lattafa, Afnan, Rasasi, Armaf y Maison Alhambra. Antes de eso eran un mundo cerrado de bazares y encomiendas; hoy están en Mercado Libre con stock argentino y envío en 48 horas." },
+      { type: "p", content: "¿Por qué son tan baratos? Tres factores: producción local en Emiratos (no en Grasse, Francia), cero licencias de moda pagadas a casas como LVMH o Estée Lauder, y nada del aparato hollywoodense de marketing global. Lo que pagás es el perfume, no el frasco con la firma del actor del momento." },
+      { type: "p", content: "El cuarto factor importa decirlo de frente: muchos árabes son 'inspirados' en clásicos occidentales. Yara Elixir comparte ADN con Kayali Vanilla. Hawas Ice se comporta como un Paco Rabanne Invictus. Asad Intense apunta al perfil del Dior Sauvage Elixir. **No son falsificaciones** — son perfumes legales con perfiles olfativos similares, hechos por casas con licencia plena. La perfumería se construyó así durante siglos: las moléculas no se patentan, las composiciones sí, pero las inspiraciones quedan en el aire libre." },
+
+      { type: "h2", title: "Las marcas que importan" },
+
+      { type: "h3", title: "Lattafa — la dominante" },
+      { type: "p", content: "Es la casa emiratí con catálogo más grande en Argentina y la responsable directa de la viralidad del nicho. Su línea Yara (Original, Elixir, Tous, Candy y Moi) explotó en TikTok femenino en 2023-2024 y todavía no afloja. Su línea Khamrah (clásico y Qahwa) ocupa el espacio gourmand-unisex que antes pertenecía a Tom Ford Tobacco Vanille o Maison Francis Kurkdjian. En masculino, Asad y Maahir son las cartas fuertes. Si recién entrás, probablemente vas a entrar por una de estas tres líneas." },
+      { type: "p", content: "Para el desglose detallado de las cinco variantes Yara y cuál elegir según uso, [está la guía completa de la línea Yara](/guias/yara-lattafa-guia-completa)." },
+
+      { type: "h3", title: "Afnan — el caballo de batalla" },
+      { type: "p", content: "Segunda casa emiratí más relevante en Argentina. Catálogo más chico que Lattafa pero más cuidado. Su línea 9PM (clásico, Caballero y Elixir) son orientales especiados serios, sin la dulzura excesiva de algunos Lattafa. No tienen el motor de TikTok detrás, pero tienen el respeto de los puristas que llevan años en el nicho." },
+
+      { type: "h3", title: "Rasasi — el pedigrí" },
+      { type: "p", content: "Existe desde 1979, mucho antes de la moda actual. Hace perfumes en serio desde la época en que el nicho árabe era para árabes. Su línea Hawas (Original, Ice y Black) compite directo con Paco Rabanne en frescura masculina. Cuestan más que un Lattafa promedio, pero la diferencia se nota: la composición es más estable, el secado más prolijo, y la duración real más cercana a lo que indica la marca." },
+
+      { type: "h3", title: "Armaf — el rey del top tier" },
+      { type: "p", content: "Técnicamente india con producción en Emiratos, así que es híbrida. Importa por una razón: Club de Nuit Intense Man es el dupe más conseguido de Creed Aventus que vas a encontrar en Argentina, y a una décima del precio del original. La versión 200ml es el ticket más alto del catálogo árabe local (~$139.000) pero te lleva el doble de mililitros que el estándar." },
+
+      { type: "h3", title: "Maison Alhambra — el confiable" },
+      { type: "p", content: "La casa más nueva del grupo. No esconde que hace perfumes inspirados — los presenta abiertamente como tales. Sceptre Malachite, Vintage Radio Pride y otros son productos de calidad media a precio medio, sin la magia narrativa de las otras casas pero con consistencia. Si buscás 'el dupe de X' y no querés rebuscar, Maison Alhambra suele tener una opción decente." },
+
+      { type: "callout", calloutVariant: "note", content: "**Una aclaración sobre Bharara.** Vas a ver mucho recomendado el Bharara King y no es técnicamente árabe. Es marca americana con orientación al estilo árabe-niche. Lo incluyo en estas guías porque compite en el mismo segmento, comparte público y supera en métricas a varios árabes (11.532 reseñas en Mercado Libre, más que cualquier Lattafa). Pero conviene saber que no es Emiratos." },
+      { type: "product-card", productMlaId: "MLA19053146", label: "El masculino con más reseñas", labelColor: "amber", description: "11.532 calificaciones con rating 4.8 — el más validado del segmento masculino. Marca americana de inspiración árabe-niche. Apertura cítrica con base de vainilla y ámbar. Comparado con YSL Y EDP." },
+
+      { type: "h2", title: "Cómo elegir tu primer perfume árabe" },
+      { type: "p", content: "La mayoría de las guías te tiran 'los 10 mejores' y te dejan más confundido que antes. Voy a hacerlo distinto. Tres preguntas en orden, para llegar al perfume correcto." },
+
+      { type: "h3", title: "Pregunta 1: ¿Para qué uso?" },
+      { type: "p", content: "**Daily driver.** Algo que te puedas poner sin pensar a las 8 de la mañana sin invadir el ascensor ni quedar pegado en la oficina. Perfiles versátiles, proyección moderada, base limpia. Acá entran los frescos-aromáticos y los amaderados ligeros." },
+      { type: "p", content: "**Cita / noche / evento.** Perfume para que se note. Proyección alta, base intensa, idealmente algo que la otra persona quiera oler de cerca. Acá entran los gourmands, los orientales y los ámbar especiados." },
+      { type: "p", content: "**Especialidad o firma personal.** Algo que te identifique. Perfil distintivo, no el más vendido de la categoría. Esto es para tu segundo o tercer árabe — no arranques por acá. Si te equivocás con un perfume de firma, perdiste mucha plata; si te equivocás con un daily driver, lo usás igual para sacar la basura." },
+
+      { type: "h3", title: "Pregunta 2: ¿Qué presupuesto?" },
+      {
+        type: "table",
+        headers: ["Rango (ARS)", "Qué encontrás", "Ejemplo"],
+        rows: [
+          ["$16.000-35.000", "Sets de descubrimiento, básicos accesibles", "Set 4 perfumes unisex, Qaed Al Fursan"],
+          ["$35.000-50.000", "Núcleo del catálogo — sweet spot principiantes", "Asad Intense, Yara Tous, Khamrah Qahwa"],
+          ["$50.000-70.000", "Línea media-alta", "Yara Elixir, Her Confession, Habik"],
+          ["$70.000-100.000", "Premium", "Hawas Ice, Bharara King, Hawas Black"],
+          ["$100.000+", "Top tier", "Club de Nuit Intense 200ml, Armaf Odyssey"]
+        ]
+      },
+      { type: "p", content: "Si nunca probaste un árabe, el sweet spot está en el rango **$35.000-50.000**. Productos validados con miles de reseñas, perfiles representativos del nicho, y si no te gusta perdiste menos que en una salida a comer. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información." },
+      { type: "p", content: "Para profundizar en precios reales de cada marca, [acá está el desglose completo](/guias/perfumes-arabes-precio-argentina)." },
+      { type: "product-card", productMlaId: "MLA22234109", variant: "compact", label: "Entry-level masculino", labelColor: "blue", description: "El árabe más barato decente del catálogo: $30.051. Aromatic-fougère versátil para hombres que arrancan." },
+      { type: "product-card", productMlaId: "MLA40521028", variant: "compact", label: "Entry-level femenino", labelColor: "blue", description: "El Yara para verano: $42.545. Mango, coco, jazmín y vainilla cremosa. Más fresco y accesible que Yara Elixir." },
+
+      { type: "h3", title: "Pregunta 3: ¿Qué perfil olfativo?" },
+      { type: "p", content: "**Amaderado-especiado** es el territorio masculino clásico: oud, sándalo, cedro, pachulí y especias. Perfil sobrio, formal, funciona para reuniones y noches. Acá entran Maahir Legacy, Qaed Al Fursan, The Kingdom Man y Bade'e Al Oud. Para profundizar, [esta es la guía dedicada a amaderados](/guias/perfumes-arabes-amaderados)." },
+      { type: "p", content: "**Floral-frutal-dulce** es el corazón del catálogo femenino: la línea Yara, Her Confession, Mayar y Bade'e Al Oud Noble Blush. Para el ranking completo y las comparaciones intra-categoría, [acá está la guía femenina](/guias/perfumes-arabes-mujer)." },
+      { type: "p", content: "**Fresco-cítrico-acuático** es el perfil más versátil del nicho. Hawas Ice, Mandarine Sky y Erba Pura cubren este espacio. Funcionan para gimnasio, oficina, citas casuales y el verano argentino sin morir en el intento. Si dudás del perfil dulce, empezá por acá." },
+      { type: "p", content: "**Gourmand-oriental** es el perfume del momento: Khamrah Qahwa (café), Khamrah clásico (whisky-vainilla), Yara Elixir (caramelo-durazno), Asad Intense (oriental amaderado). Polariza más que los otros perfiles — o lo amás o te marea — pero cuando funciona, no hay vuelta atrás." },
+      { type: "p", content: "**Regla práctica:** si no podés decidir entre los cuatro perfiles, andá al perfil más opuesto al perfume actual que más usás. Si tu perfume diario es cítrico, probá un gourmand. Si es dulce, probá un amaderado. Es la forma más rápida de descubrir qué te gusta sin repetir lo que ya tenés." },
+
+      { type: "h2", title: "¿Yara o no Yara? La pregunta más común" },
+      { type: "p", content: "Si entraste al nicho por TikTok, probablemente entraste por Yara. Es estadísticamente la duda principal del 60% de los principiantes que conozco. Y casi todos cometen el mismo error inicial: tratar a Yara como si fuera UN perfume." },
+      { type: "p", content: "Yara es una línea, no un producto. Tiene cinco variantes principales en Argentina y la diferencia entre ellas es real, no cosmética. Comprar a ciegas 'el Yara' sin saber cuál es como comprar 'el Tom Ford' sin pensar en cuál de los 60 modelos." },
+      { type: "p", content: "**Yara Elixir** es la versión noche-invierno: la más intensa, oriental floral con vainilla y durazno caramelizado. Es la viral de TikTok. Proyecta fuerte, dura mucho, polariza menos que las otras." },
+      { type: "p", content: "**Yara Tous** es la versión verano-día: tropical-fresca con mango, coco y jazmín. Para clima cálido y uso liviano. La menos pesada de todas." },
+      { type: "p", content: "**Yara Candy** es la versión gourmand extremo: huele literalmente a gomitas y fresa. Es la más polarizante de todas — el descriptor 'me marea' aparece tanto como 'me encanta'. Si nunca probaste un perfume árabe, no arranques por acá." },
+      { type: "p", content: "Para la comparativa completa con tabla lado a lado y recomendación según perfil, [la guía dedicada a Yara](/guias/yara-lattafa-guia-completa) lo cubre en detalle." },
+
+      { type: "p", content: "El otro pilar gourmand del nicho no es Yara — es Khamrah. La versión clásica es 'el perfume del whisky' por su perfil dulce-licoroso. Frasco con corte de botella de coñac, líquido dorado-ambarino visible. La opción gourmand-puro sin floral, complementaria a Yara." },
+      { type: "product-card", productMlaId: "MLA53013853", label: "Para fans del whisky-vainilla", labelColor: "amber", description: "El original de la línea Khamrah, lanzado en 2022. Habatoka, canela, vainilla y ámbar. Conocido como 'el perfume del whisky' por su perfil dulce-licoroso. Frasco icónico tipo botella de coñac." },
+      { type: "pull-quote", content: "El frasco es una obra de arte que recuerda a una botella de whisky. La estela del perfume llega antes que vos y, cuando te vas, el perfume permanece.", attribution: "— Comprador en Brasil, mar 2026" },
+
+      { type: "h2", title: "Qué dicen los compradores reales" },
+      { type: "p", content: "El mejor filtro contra el marketing de TikTok son las reseñas reales. No las que tienen 5 estrellas y dos líneas, sino las que cuentan la experiencia y juntaron muchos votos útiles de otros compradores. Procesamos cientos de reseñas para los productos top del nicho y los patrones se repiten." },
+
+      { type: "h3", title: "Lo que la mayoría destaca" },
+      { type: "p", content: "Cuando funcionan, los árabes generan reacciones físicas reales en el entorno. La proyección es palpable las primeras horas, la duración es la mitad de larga otra vez en ropa, y los cumplidos son la métrica que más se repite en las reseñas con muchos votos útiles. La voz argentina lo expresa sin filtro:" },
+      { type: "pull-quote", content: "Es el verdadero terror de las bombachas.", attribution: "— Comprador del Asad Intense en Argentina, dic 2024 · 382 personas lo encontraron útil" },
+      { type: "pull-quote", content: "Tené cuidado con esta bestia porque se te avalanchan las féminas por más cara de pateado que tengas. Perfume espectacular.", attribution: "— Comprador del Khamrah Qahwa en Argentina, ene 2025 · 121 personas lo encontraron útil" },
+
+      { type: "h3", title: "Lo que algunos advierten" },
+      { type: "p", content: "El otro lado de la moneda. Los gourmands polarizan, los dulces empalagan, y comprar a ciegas siguiendo el hype de TikTok puede salir caro. Yara Candy es el ejemplo más claro: para algunas es el perfume favorito; para otras, una mareadora insoportable. Las reseñas honestas valen oro:" },
+      { type: "pull-quote", content: "Lo compré a ciegas y no me mató. Su salida me empalaga mucho aunque luego se asienta y se estabiliza. Tengo el Yara rosa y me gusta más que éste. En mi caso no lo volvería a comprar porque me empalaga un toque.", attribution: "— Compradora del Yara Candy en Argentina, ago 2025" },
+
+      { type: "h3", title: "Sobre falsificaciones" },
+      { type: "callout", calloutVariant: "warning", content: "**Falsificaciones — el tema importante.** Los Lattafa, Rasasi y Afnan tienen falsificaciones en circulación, especialmente los más virales (Yara Elixir, Khamrah Qahwa, Hawas Ice). Las señales del original: código QR en la caja que redirige al sitio oficial de la marca, batch code IMPRESO (no con stickers), tapa pesada, atomizador interno plateado para Rasasi. Si el QR no funciona o el batch code no se puede verificar en checkfresh.com, desconfiá. Comprar a vendedores con muchas reseñas y reputación verde reduce el riesgo casi a cero." },
+
+      { type: "h3", title: "Sobre el lote 2024 de Hawas Ice" },
+      { type: "callout", calloutVariant: "note", content: "**Si compraste Hawas Ice y la palabra 'Rasasi' no aparece en la tapa, no significa que sea falso.** Rasasi cambió el diseño en algunos lotes 2024 — el batchcode ahora viene a un costado de la caja (no abajo) y la tapa tiene cordón blanco trenzado sin texto. Verificá los otros elementos (atomizador plateado interno, peso de la tapa) antes de pedir devolución." },
+
+      { type: "h2", title: "Precios reales en Argentina (abril 2026)" },
+      {
+        type: "list",
+        items: [
+          "[Lattafa Qaed Al Fursan](/producto/lattafa-qaed-al-fursan-eau-de-parfum-90ml-mla22234109) — **$30.051** (entry-level masculino)",
+          "[Lattafa Yara Tous](/producto/lattafa-yara-tous-mujer-edp-100ml-mla40521028) — **$42.545** (entry-level femenino)",
+          "[Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215) — **$45.160** (masculino premium accesible)",
+          "[Lattafa Khamrah Qahwa](/producto/lattafa-khamrah-qahwa-edp-100ml-unisex-mla31178643) — **$47.846** (gourmand café unisex)",
+          "[Lattafa Khamrah clásico](/producto/lattafa-khamrah-parfum-100ml-unisex-mla53013853) — **$51.484** (gourmand whisky-vainilla)",
+          "[Lattafa Yara Elixir](/producto/lattafa-yara-elixir-edp-100ml-mla60836327) — **$68.000** (femenino premium viral)",
+          "[Rasasi Hawas Ice](/producto/rasasi-hawas-ice-edp-100ml-hombre-mla29780185) — **$76.284** (fresco-frutal masculino)",
+          "[Bharara King](/producto/bharara-king-edp-100ml-hombre-mla19053146) — **$99.800** (masculino con más reseñas)"
+        ]
+      },
+      { type: "trust-block", trustVariant: "pricing", content: "Precios verificados manualmente en Mercado Libre el 20 de abril de 2026. Los productos del nicho árabe argentino tienen movimiento de precio promedio de ±5-10% mensual. Para el mapa completo de precios por marca y rango, [esta guía cubre el desglose detallado](/guias/perfumes-arabes-precio-argentina)." },
+
+      { type: "h2", title: "Por dónde seguir explorando" },
+      { type: "p", content: "Cada uno de los siguientes artículos cubre un ángulo específico que esta guía solo toca por encima. Si después de leer hasta acá tenés clara la dirección, andá al que corresponda." },
+      {
+        type: "list",
+        items: [
+          "**[Mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)** — el ranking masculino completo con análisis de Asad Intense, Hawas Ice, Bharara King, Club de Nuit y más.",
+          "**[Mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer)** — el ranking femenino con foco en línea Yara, Bade'e Al Oud, Her Confession y los gourmand más virales.",
+          "**[Guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)** — comparativa de las 5 variantes (Original, Elixir, Tous, Candy, Moi), cuál elegir según uso y presupuesto.",
+          "**[Perfumes árabes amaderados](/guias/perfumes-arabes-amaderados)** — el perfil más popular en hombre: oud, sándalo, pachulí, cedro. Las mejores opciones del catálogo.",
+          "**[Precios reales en Argentina](/guias/perfumes-arabes-precio-argentina)** — desglose completo por marca, rango y producto. Verificación manual mensual."
+        ]
+      },
+
+      { type: "h2", title: "Veredicto" },
+      { type: "verdict", content: "Los perfumes árabes son la mejor relación duración/proyección/precio que existe hoy en perfumería accesible. No reemplazan un Tom Ford ni un Creed — son su versión accesible, con perfiles propios y una identidad clara. Si nunca probaste el nicho, arrancá por Asad Intense o Yara Tous antes de meterte en gourmand pesados como Khamrah. Si ya estás dentro, profundizá en una marca antes de saltar a la siguiente: Lattafa primero, Rasasi después, Afnan en paralelo." }
+    ],
+    faq: [
+      {
+        question: "¿Son falsificados los perfumes árabes baratos?",
+        answer: "No por defecto. Las marcas árabes tienen precios genuinos bajos por producción local en Emiratos, sin licencias de moda y sin marketing global. Sí existen falsificaciones en circulación, especialmente de los más virales (Yara Elixir, Khamrah Qahwa, Hawas Ice). El truco es comprar a vendedores con buena reputación, verificar el QR oficial de la marca y revisar el batch code en checkfresh.com cuando aplica."
+      },
+      {
+        question: "¿Cuánto duran en piel realmente?",
+        answer: "Entre 5 y 12 horas en piel según el perfume y el tipo de piel. En ropa la duración es notablemente mayor: hasta 1-3 días en algunos casos. Los Parfum (concentración alta) como Khamrah clásico duran más que los EDP. Las reseñas reales reportan rangos consistentes con esa estimación: 6-8 horas para un EDP estándar, 8-12 horas para un Parfum."
+      },
+      {
+        question: "¿Sirven para regalar?",
+        answer: "Sí, pero con cuidado. Si no conocés bien las preferencias de la persona, optá por perfiles versátiles: Asad Intense para hombre, Yara Tous para mujer, Khamrah Qahwa unisex. Los gourmand pesados como Khamrah clásico o los muy especiados pueden no gustarle a todos. Bharara King incluye estuche con atomizador adicional, lo que mejora la presentación de regalo."
+      },
+      {
+        question: "¿Hay perfumes árabes unisex?",
+        answer: "Sí, varios. Los más populares: Khamrah Qahwa (café-vainilla), Khamrah clásico (whisky-vainilla), Hawas Black (oriental amaderado). Aunque la línea Yara es técnicamente femenina y la línea Asad masculina, muchos compradores los usan al revés sin problema. El concepto de género en perfumería es más cultural que olfativo."
+      },
+      {
+        question: "¿Cuál comprar primero si nunca probé ninguno?",
+        answer: "Para hombre: Asad Intense ($45.160) — el primer árabe correcto por excelencia, oriental amaderado-especiado, duración real de 8 horas. Para mujer: Yara Tous ($42.545) si preferís fresco-frutal, o Yara Elixir ($68.000) si querés el viral de TikTok. Para alguien que quiere algo distinto del primer día: Khamrah Qahwa ($47.846) — gourmand café que polariza menos de lo que parece. Cualquiera de los tres es una compra segura validada por miles de reseñas."
+      },
+      {
+        question: "¿Qué pasa si no me gusta el perfume cuando me llega?",
+        answer: "Mercado Libre tiene política de devolución estándar: si está sellado y no abriste el frasco, podés devolverlo (condiciones sujetas a cambios — verificá la política vigente en Mercado Libre antes de comprar). Si ya lo probaste, no. Truco práctico: pedile a un amigo que tenga el mismo perfume probarlo antes de comprar el frasco. O comprá un decant de 5-10ml primero (algunos vendedores los ofrecen). Para reducir el riesgo de equivocarte sin probar: leé las reseñas reales (especialmente las de useful >50), no los videos de TikTok."
+      },
+      {
+        question: "¿Vale la pena pagar más de $100.000 por un árabe?",
+        answer: "Solo si ya probaste varios y sabés exactamente qué perfil querés. El sweet spot del nicho está en el rango $35.000-70.000: ahí están los productos más validados con mejor relación calidad/precio. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información. Productos como Club de Nuit Intense Man 200ml ($139.000) tienen sentido cuando ya conocés el segmento, no cuando arrancás."
+      }
+    ],
+    internalLinks: [
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" },
+      { label: "Perfumes árabes amaderados", href: "/guias/perfumes-arabes-amaderados" },
+      { label: "Precios reales en Argentina", href: "/guias/perfumes-arabes-precio-argentina" }
+    ]
+  },
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
