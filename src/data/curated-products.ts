@@ -10,7 +10,7 @@ import type { Product } from '@/lib/types';
 export const curatedProducts: Product[] = [
   {
     id: "MLA49197748",
-    title: "Smart TV 43\" TCL Full HD QLED 43S5K Google TV Dolby Audio",
+    title: "Smart TV 43\" TCL QLED Pro Full HD 43S5K Google TV Dolby Audio",
     price: 455998,
     originalPrice: 479999,
     currency: "ARS",
@@ -30,36 +30,218 @@ export const curatedProducts: Product[] = [
     condition: "new",
     freeShipping: false,
     rating: 4.7,
-    badge: "hot-deal",
+    reviewCount: 5465,
+    badge: "trending",
     visibility: "featured",
+    brand: "TCL",
     pastelColor: "var(--pastel-blue)",
-    description: "Smart TV QLED de 43 pulgadas con tecnología de Cristal Cuántico de Color mejorado. Resolución Full HD, Google TV con acceso a todas tus apps, y Dolby Audio para una experiencia inmersiva. La pantalla QLED ofrece colores vibrantes y mayor vida útil que los paneles LED tradicionales.",
+    seoTitle: "Smart TV TCL 43S5K 43 pulgadas QLED Full HD Google TV: análisis completo",
+    metaDescription: "Análisis del Smart TV TCL 43S5K de 43 pulgadas: QLED Pro, Full HD, Google TV, HDR10+, Dolby Audio y panel HVA. Lo que dicen 5.465 compradores, las specs reales y qué hay que saber del audio antes de comprar.",
+    ogTitle: "TCL 43S5K 43\" QLED Google TV: imagen premium, audio limitado y 5.465 opiniones",
+    ogDescription: "El TCL 43S5K combina QLED Pro, HDR10+, panel HVA y Google TV en 43 pulgadas a $455.998. Lo que destacan los compradores, lo que omiten los specs y por qué el audio es el punto de discusión.",
+    h1: "Smart TV TCL 43S5K 43\" QLED Pro: Google TV, imagen sólida y un audio que los compradores no perdonan",
+    description: "Smart TV TCL 43S5K de 43 pulgadas con tecnología QLED Pro, panel HVA, resolución Full HD, HDR10+, Dolby Audio, Google TV con Google Assistant y diseño slim sin bisel. Nueva Línea 2025.",
     pros: [
-      "Tecnología QLED — colores más vibrantes que un LED común",
-      "Google TV integrado — Netflix, YouTube, Disney+ sin chromecast",
-      "Dolby Audio — sonido envolvente sin barra externa",
-      "Rating 4.7 en MercadoLibre",
-      "5% OFF — de $479.999 a $455.998",
+      "Imagen QLED Pro con colores más vivos y mayor vida útil del panel",
+      "Panel HVA: contraste 3X, anti-glare y sin efecto halo",
+      "HDR10+ con ajuste dinámico escena por escena",
+      "Google TV con acceso a toda la Play Store",
+      "Diseño sin bisel, liviano (5 kg) y slim",
+      "5.465 calificaciones — el mayor respaldo de compradores de su categoría en el sitio",
+      "Eficiencia energética A++",
     ],
     cons: [
-      "Resolución Full HD (1080p), no 4K — para 43\" suficiente, pero no es lo último",
-      "Envío no gratis — verificá costo según tu CP",
-      "Sonido bueno, pero si querés cine en casa real necesitás una soundbar",
+      "Audio 10W débil — patrón consistente en reviews: los bajos son escasos de fábrica",
+      "Solo FHD (1080p) — no es 4K, dato relevante en un panel QLED",
+      "Solo 1 puerto USB",
+      "Almacenamiento disponible limitado (~4.3 GB efectivos según usuarios)",
+      "Bluetooth con reportes de falla de emparejamiento en algunos casos",
+      "SO puede presentar micro-lags ocasionales con varias apps abiertas",
+      "Control sin botón de sleep timer directo (requiere ir a menú de sistema)",
     ],
-    verdict: "El Smart TV 43\" con mejor relación precio-calidad de MercadoLibre. QLED + Google TV + Dolby por menos de $460.000 — la opción obvia si buscás un televisor para el living o un cuarto principal sin pagar de más por 4K que casi no vas a notar a esa pulgada.",
-    seoTitle: "Smart TV 43\" TCL QLED 43S5K Google TV — Precio y Review",
-    metaDescription: "Smart TV TCL 43\" QLED Full HD modelo 43S5K con Google TV y Dolby Audio. Rating 4.7 en MercadoLibre. Precio actualizado, pros, contras y dónde comprarla.",
-    h1: "TCL 43S5K — Smart TV QLED 43\" con Google TV",
+    verdict: "Para una habitación de 3×4 metros o sala mediana donde el uso principal es streaming, deportes y series, el TCL 43S5K cubre bien el caso de uso. La imagen QLED con HDR10+ está claramente por encima del promedio en su rango de precio. Si el audio sin equipo externo es importante, hay que evaluar con cuidado: con ajustes mejora, pero el techo de 10W con 2 parlantes tiene un límite físico.",
     specs: [
       { label: "Marca", value: "TCL" },
       { label: "Modelo", value: "43S5K" },
-      { label: "Tamaño de pantalla", value: "43 pulgadas" },
+      { label: "Serie", value: "S5K — Nueva Línea 2025" },
+      { label: "Tamaño", value: "43 pulgadas" },
       { label: "Resolución", value: "Full HD (1920 × 1080)" },
-      { label: "Tecnología de panel", value: "QLED" },
+      { label: "Tipo de panel", value: "QLED Pro + HVA" },
+      { label: "HDR", value: "HDR10+" },
+      { label: "Retroiluminación", value: "LED" },
+      { label: "Brillo", value: "300 cd/m²" },
+      { label: "Contraste", value: "5000:1" },
+      { label: "Frecuencia", value: "60 Hz" },
+      { label: "Ángulo de visión", value: "178° horizontal y vertical" },
       { label: "Sistema operativo", value: "Google TV" },
-      { label: "Audio", value: "Dolby Audio" },
-      { label: "Conectividad", value: "WiFi, Bluetooth, HDMI, USB" },
+      { label: "Asistente virtual", value: "Google Assistant" },
+      { label: "Apps integradas", value: "Netflix, YouTube, Prime Video, Disney+, Apple TV, Play Store" },
+      { label: "Almacenamiento", value: "8 GB (~4.3 GB disponibles según compradores)" },
+      { label: "Audio", value: "Dolby Audio — 2 parlantes, 10W total" },
+      { label: "Wi-Fi", value: "Sí" },
+      { label: "Bluetooth", value: "Sí (problemas de emparejamiento reportados por algunos usuarios)" },
+      { label: "Ethernet", value: "Sí" },
+      { label: "HDMI", value: "2" },
+      { label: "USB", value: "1" },
+      { label: "Screen share", value: "Sí" },
+      { label: "Dimensiones (sin base)", value: "95.4 × 7.7 × 55.4 cm" },
+      { label: "Peso", value: "5 kg" },
+      { label: "Eficiencia energética", value: "A++" },
+      { label: "Color", value: "Negro" },
+      { label: "Año de lanzamiento", value: "Nueva Línea 2025" },
     ],
+    articleBody: `Con 5.465 calificaciones, el TCL 43S5K es uno de los televisores más comprados y opinados de MercadoLibre Argentina en su categoría. La puntuación de 4.7 refleja una base enorme de compradores, y la lectura de los reviews revela algo interesante: casi todos coinciden en lo mismo. La imagen supera expectativas. El audio no.
+
+Ese patrón se repite con llamativa consistencia. Compradores de Argentina, Brasil y Uruguay escriben reviews independientes que llegan a la misma conclusión: la imagen QLED sorprende para el precio, los parlantes integrados decepcionan. Entender ese balance antes de comprar es más útil que cualquier descripción técnica.
+
+## QLED Pro: lo que hace y lo que no reemplaza
+
+La tecnología QLED de TCL incorpora Cristal Cuántico de Color con una estructura de aleación más estable. El resultado práctico es que los colores son más vivos, mantienen mejor el calibrado con el tiempo y la imagen tiene más profundidad que en un LED convencional.
+
+Pero hay un dato que varios compradores mencionan sin que la descripción lo destaque: este televisor es QLED Pro con resolución Full HD, no 4K. En la misma línea de 43 pulgadas, TCL ofrece modelos 4K. Si la resolución importa para tu uso (contenido 4K, gaming, monitores secundarios de PC), conviene comparar antes de decidir.
+
+Para ver streaming en 1080p, cable, o contenido que no sea 4K nativo, la diferencia práctica es limitada. Varios compradores con uso cotidiano de series y fútbol reportan no extrañar la resolución superior.
+
+## Panel HVA: contraste y ángulo de visión
+
+El panel HVA es la tecnología de panel desarrollada por TCL que trabaja en paralelo con QLED. Sus atributos según la ficha: realce de contraste 3X respecto a un panel estándar, ángulo de visión mayor a 178°, tratamiento anti-glare y eliminación del efecto halo.
+
+El ángulo de 178° es útil si el televisor va en una sala donde se lo ve desde distintos puntos. A diferencia de algunos paneles OLED o IPS de gama alta que pierden saturación en ángulos extremos, el HVA mantiene la imagen más consistente desde los costados.
+
+Anti-glare y ausencia de halo son características que se notan en ambientes con luz natural. El anti-glare reduce los reflejos de ventanas o luces, y la ausencia de halo evita ese efecto de luz difusa alrededor de objetos brillantes sobre fondos oscuros.
+
+## HDR10+ y Dolby Audio: lo que dicen las specs vs lo que dicen los compradores
+
+El HDR10+ ajusta el contraste y el brillo dinámicamente por escena. No es solo encender HDR y olvidarse: el televisor analiza cada cuadro y optimiza el rango tonal en tiempo real. La descripción dice que mejora incluso el contenido que no es HDR nativo.
+
+El Dolby Audio es donde aparece el punto de fricción más documentado del modelo. Con 10W distribuidos en 2 parlantes, el sistema tiene potencia limitada para graves y cuerpo sonoro. Algunos compradores describen el sonido como "agudo" o "a lata" de fábrica. La solución más común: entrar a los ajustes de audio, reducir los agudos y levantar los medios. La mayoría reporta que con ese ajuste el resultado mejora considerablemente.
+
+Para uso con barra de sonido o sistema de home theater, el audio integrado deja de ser relevante. Para uso sin equipamiento adicional, hay que tener la expectativa calibrada.
+
+## Google TV: la razón por la que muchos lo eligen
+
+El sistema operativo es uno de los puntos más comentados positivamente. Google TV (diferente de Android TV, aunque comparten base) centraliza el contenido de las suscripciones, hace recomendaciones personalizadas y da acceso a la Play Store completa.
+
+La diferencia práctica frente a televisores con Android TV o sistemas propietarios: podés instalar cualquier app disponible en Play Store, incluyendo las de streaming que no vienen preinstaladas. Varios compradores mencionan haber instalado apps de terceros sin dificultad una vez conectados a Wi-Fi.
+
+Un dato a considerar: la ficha indica 8 GB de almacenamiento total, pero compradores reportan que el espacio disponible para apps es de aproximadamente 4.3 GB, dado que el sistema ocupa el resto. Si planeás tener muchas aplicaciones instaladas simultáneamente, conviene ser selectivo.
+
+El sistema puede presentar micro-lags ocasionales cuando hay varias apps abiertas en segundo plano. La solución documentada por compradores: cerrar apps manualmente desde el menú de aplicaciones recientes.
+
+## Diseño slim y peso: ventajas prácticas
+
+Con 5 kg y 7.7 cm de profundidad, es uno de los televisores de 43 pulgadas más livianos disponibles. Instalarlo solo en la pared o moverlo entre habitaciones no requiere dos personas. Varios compradores que lo mencionan lo hacen en el contexto de "me sorprendió lo liviano que es".
+
+El diseño sin bisel aparente (bisel muy delgado, no literalmente sin borde) le da una proporción donde la pantalla ocupa casi toda la superficie frontal. En montaje en pared el efecto visual es limpio.
+
+## Conectividad: 2 HDMI, 1 USB, Bluetooth y Ethernet
+
+Para uso doméstico estándar, 2 puertos HDMI cubre consola + decodificador o barra de sonido + decodificador. Si tenés más de 2 dispositivos HDMI activos, necesitás un switch HDMI externo.
+
+Un solo puerto USB puede ser limitante si querés conectar un pendrive y cargar un dispositivo simultáneamente. La mayoría de los usos de streaming no requieren USB, así que para el perfil de uso más común (plataformas por Wi-Fi) no es un problema práctico.
+
+Bluetooth está listado como confirmado, aunque un comprador mencionó dificultades para emparejar dispositivos externos. La función screen share permite proyectar contenido del teléfono en el televisor.
+
+La conectividad Ethernet es útil si querés conexión cableada para mayor estabilidad en streaming de alta definición o gaming online.
+
+## Lo que dicen los compradores: patrones de 5.465 opiniones
+
+Con casi 3.000 comentarios escritos, hay suficiente data para identificar patrones reales más allá de los casos individuales:
+
+**Imagen:** unanimidad casi completa. "Colores nítidos", "imagen espectacular", "mejor de lo que esperaba". La tecnología QLED se nota claramente en la comparación con televisores LED convencionales previos de quienes ya tenían experiencia con otras marcas.
+
+**Audio:** el punto de debate más recurrente del modelo. La división no es entre "bueno" y "malo" sino entre quienes lo aceptan como es, quienes lo ajustan por software y quienes conectan audio externo. Los que esperaban audio comparable a la imagen se decepcionan; los que fueron con expectativas calibradas quedaron conformes.
+
+**Sistema operativo:** bien recibido, con observaciones sobre velocidad. "Sistema rápido" aparece en muchos reviews, aunque algunos mencionan que se puede poner un poco lento con varias apps abiertas.
+
+**Relación precio-calidad:** es la frase que más se repite. Compradores de Argentina, Brasil y Uruguay coinciden en que a ese precio la imagen QLED justifica la compra.`,
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        text: "Imagen espectacular. Encima viene con un cable componente para conectar la ps2.",
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        text: "La imagen es hermosa, el sonido hay que configurarlo bien porque sino se escucha raro.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        text: "Si le ponés cualquier parlante es un televisorazo.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        text: "Tiene sistema Google TV, así que podés instalar la app que quieras. Liviano, sistema operativo rápido.",
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        text: "Buena calidad de imagen, en cuanto al sonido hay que configurarlo bien. La navegación bastante fluida.",
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        text: "Para quienes no quieren gastar mucho pero pueden disfrutar de una calidad sorprendente.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿El TCL 43S5K es 4K?",
+        answer: "No. El TCL 43S5K tiene resolución Full HD (1080p), no 4K. Tiene tecnología QLED Pro y panel HVA que mejoran el color y el contraste, pero la resolución máxima es 1920×1080. Si buscás 4K en TCL, existen otros modelos de la misma marca con esa resolución.",
+      },
+      {
+        question: "¿Qué es el panel HVA del TCL 43S5K?",
+        answer: "HVA es la tecnología de panel desarrollada por TCL que ofrece realce de contraste 3X respecto a un panel convencional, ángulo de visión mayor a 178°, tratamiento anti-glare y eliminación del efecto halo. Trabaja junto con QLED Pro para mejorar la calidad de imagen.",
+      },
+      {
+        question: "¿Cuánto almacenamiento disponible tiene el TCL 43S5K?",
+        answer: "La ficha técnica indica 8 GB de almacenamiento total. Sin embargo, varios compradores reportan que el espacio disponible para instalar apps es de aproximadamente 4.3 GB, dado que el sistema operativo ocupa una parte significativa. Instalar muchas aplicaciones puede ralentizar el funcionamiento.",
+      },
+      {
+        question: "¿El TCL 43S5K tiene buenas bocinas?",
+        answer: "Es el punto donde más compradores expresan reservas. El sistema de audio tiene 2 parlantes con 10W total y decodificación Dolby Audio. El patrón en reviews es consistente: la imagen es lo más destacado, y el audio queda por debajo de las expectativas. La mayoría resuelve el tema ajustando los ecualizadores en configuración o conectando una barra de sonido o sistema externo.",
+      },
+      {
+        question: "¿Se puede instalar cualquier app en el TCL 43S5K?",
+        answer: "Sí. Corre Google TV, que da acceso a la Google Play Store completa. Netflix, YouTube, Prime Video, Disney+, Apple TV y otras plataformas vienen preinstaladas. También se pueden instalar apps de terceros (mediante APK) siempre que haya almacenamiento disponible.",
+      },
+      {
+        question: "¿Cuántos puertos HDMI tiene el TCL 43S5K?",
+        answer: "Tiene 2 puertos HDMI y 1 puerto USB. También incluye puerto Ethernet, Wi-Fi y Bluetooth.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smart TV TCL 43S5K 43\" QLED Pro Full HD Google TV",
+      description:
+        "Smart TV TCL 43S5K de 43 pulgadas con tecnología QLED Pro, panel HVA, resolución Full HD, HDR10+, Dolby Audio, Google TV con Google Assistant y diseño slim sin bisel. Nueva Línea 2025.",
+      brand: { "@type": "Brand", name: "TCL" },
+      model: "43S5K",
+      sku: "43S5K",
+      color: "Negro",
+      category: "Smart TV",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_2X_675525-MLA99461311188_112025-F.webp"],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1t9xDb2",
+        priceCurrency: "ARS",
+        price: "455998",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "5465",
+        bestRating: "5",
+        worstRating: "1",
+      },
+    },
   },
   {
     id: 'MLAU3809091558',

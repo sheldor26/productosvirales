@@ -33,13 +33,14 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
       tl.from(".detail-image", { x: -20, y: 0 })
         .from(".detail-info", { x: 20, y: 0 }, "<0.1")
         .from(".detail-article", {}, 0.3)
+        .from(".detail-reviews", {}, "-=0.05")
         .from(".detail-specs", {}, "-=0.05")
         .from(".detail-faq", {}, "-=0.05")
         .from(".detail-related", {}, "-=0.05");
     });
 
     mm.add("(prefers-reduced-motion: reduce)", () => {
-      gsap.set(".detail-image, .detail-info, .detail-article, .detail-specs, .detail-faq, .detail-related", {
+      gsap.set(".detail-image, .detail-info, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-related", {
         autoAlpha: 1, y: 0, x: 0,
       });
     });
@@ -237,6 +238,42 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
             })}
           </div>
         </article>
+      )}
+
+      {/* ─── Customer reviews ─── */}
+      {product.customerReviews && product.customerReviews.length > 0 && (
+        <section className="detail-reviews mt-8 max-w-3xl" style={{ visibility: "hidden" }}>
+          <h2
+            className="text-lg font-bold text-[var(--text-primary)] mb-4"
+            style={{ fontFamily: 'var(--font-display)' }}
+          >
+            Lo que dicen los compradores
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {product.customerReviews.map((review, i) => (
+              <figure
+                key={i}
+                className="rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-secondary)] p-4"
+              >
+                <div className="flex items-center gap-2 mb-2 text-xs">
+                  <span aria-label={`${review.rating} de 5 estrellas`} className="text-amber-500">
+                    {"★".repeat(review.rating)}
+                    <span className="text-[var(--text-muted)]">{"★".repeat(5 - review.rating)}</span>
+                  </span>
+                  {review.country && (
+                    <span className="text-[var(--text-muted)]">· {review.country}</span>
+                  )}
+                  {review.date && (
+                    <span className="text-[var(--text-muted)]">· {review.date}</span>
+                  )}
+                </div>
+                <blockquote className="text-sm text-[var(--text-secondary)] leading-relaxed italic">
+                  &ldquo;{review.text}&rdquo;
+                </blockquote>
+              </figure>
+            ))}
+          </div>
+        </section>
       )}
 
       {/* ─── Specs table ─── */}
