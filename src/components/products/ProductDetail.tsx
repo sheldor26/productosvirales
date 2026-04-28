@@ -6,7 +6,7 @@ import Link from "next/link";
 import { ArrowRight, ExternalLink, ChevronRight, Truck, Shield, Check, X } from "lucide-react";
 import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
-import { TikTokBadge } from "@/components/widgets/TikTokBadge";
+import { ProductGallery } from "./ProductGallery";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { productHref } from "@/lib/product-url";
@@ -66,26 +66,9 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
       </nav>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
-        {/* Left: Image */}
+        {/* Left: Image gallery */}
         <div className="detail-image" style={{ visibility: "hidden" }}>
-          <div
-            className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden"
-            style={{ backgroundColor: product.pastelColor || "#f8f8f6" }}
-          >
-            <Image
-              src={product.image}
-              alt={product.title}
-              fill
-              sizes="(max-width: 768px) 100vw, 50vw"
-              className="object-contain p-8"
-              priority
-            />
-            {product.tiktokViews && (
-              <div className="absolute top-4 left-4">
-                <TikTokBadge views={product.tiktokViews} />
-              </div>
-            )}
-          </div>
+          <ProductGallery product={product} />
         </div>
 
         {/* Right: Info */}
