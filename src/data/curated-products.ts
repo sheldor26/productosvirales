@@ -54,7 +54,7 @@ export const curatedProducts: Product[] = [
       "Audio 10W débil — patrón consistente en reviews: los bajos son escasos de fábrica",
       "Solo FHD (1080p) — no es 4K, dato relevante en un panel QLED",
       "Solo 1 puerto USB",
-      "Almacenamiento disponible limitado (~4.3 GB efectivos según usuarios)",
+      "Almacenamiento disponible limitado para apps (~4-5 GB tras el sistema operativo)",
       "Bluetooth con reportes de falla de emparejamiento en algunos casos",
       "SO puede presentar micro-lags ocasionales con varias apps abiertas",
       "Control sin botón de sleep timer directo (requiere ir a menú de sistema)",
@@ -76,7 +76,7 @@ export const curatedProducts: Product[] = [
       { label: "Sistema operativo", value: "Google TV" },
       { label: "Asistente virtual", value: "Google Assistant" },
       { label: "Apps integradas", value: "Netflix, YouTube, Prime Video, Disney+, Apple TV, Play Store" },
-      { label: "Almacenamiento", value: "8 GB (~4.3 GB disponibles según compradores)" },
+      { label: "Almacenamiento", value: "8 GB total (~4-5 GB disponibles para apps tras OS)" },
       { label: "Audio", value: "Dolby Audio — 2 parlantes, 10W total" },
       { label: "Wi-Fi", value: "Sí" },
       { label: "Bluetooth", value: "Sí (problemas de emparejamiento reportados por algunos usuarios)" },
@@ -98,7 +98,7 @@ Ese patrón se repite con llamativa consistencia. Compradores de Argentina, Bras
 
 La tecnología QLED de TCL incorpora Cristal Cuántico de Color con una estructura de aleación más estable. El resultado práctico es que los colores son más vivos, mantienen mejor el calibrado con el tiempo y la imagen tiene más profundidad que en un LED convencional.
 
-Pero hay un dato que varios compradores mencionan sin que la descripción lo destaque: este televisor es QLED Pro con resolución Full HD, no 4K. En la misma línea de 43 pulgadas, TCL ofrece modelos 4K. Si la resolución importa para tu uso (contenido 4K, gaming, monitores secundarios de PC), conviene comparar antes de decidir.
+Pero hay un dato que varios compradores mencionan sin que la descripción lo destaque: este televisor es QLED Pro con resolución Full HD, no 4K. Es un trade-off de posicionamiento de precio: a $455.998, TCL apunta este modelo a quien busca buena imagen QLED + Google TV en 43 pulgadas, no a quien busca 4K nativo en esa diagonal.
 
 Para ver streaming en 1080p, cable, o contenido que no sea 4K nativo, la diferencia práctica es limitada. Varios compradores con uso cotidiano de series y fútbol reportan no extrañar la resolución superior.
 
@@ -116,7 +116,7 @@ El HDR10+ ajusta el contraste y el brillo dinámicamente por escena. No es solo 
 
 El Dolby Audio es donde aparece el punto de fricción más documentado del modelo. Con 10W distribuidos en 2 parlantes, el sistema tiene potencia limitada para graves y cuerpo sonoro. Algunos compradores describen el sonido como "agudo" o "a lata" de fábrica. La solución más común: entrar a los ajustes de audio, reducir los agudos y levantar los medios. La mayoría reporta que con ese ajuste el resultado mejora considerablemente.
 
-Para uso con barra de sonido o sistema de home theater, el audio integrado deja de ser relevante. Para uso sin equipamiento adicional, hay que tener la expectativa calibrada.
+Para uso con barra de sonido o sistema de home theater, el audio integrado deja de ser relevante. Para uso sin equipamiento adicional, el resultado va a quedar por debajo de lo que la imagen sugiere.
 
 ## Google TV: la razón por la que muchos lo eligen
 
@@ -124,7 +124,7 @@ El sistema operativo es uno de los puntos más comentados positivamente. Google 
 
 La diferencia práctica frente a televisores con Android TV o sistemas propietarios: podés instalar cualquier app disponible en Play Store, incluyendo las de streaming que no vienen preinstaladas. Varios compradores mencionan haber instalado apps de terceros sin dificultad una vez conectados a Wi-Fi.
 
-Un dato a considerar: la ficha indica 8 GB de almacenamiento total, pero compradores reportan que el espacio disponible para apps es de aproximadamente 4.3 GB, dado que el sistema ocupa el resto. Si planeás tener muchas aplicaciones instaladas simultáneamente, conviene ser selectivo.
+Un dato a considerar: la ficha indica 8 GB de almacenamiento total, pero según el uso real reportado por compradores, el espacio efectivamente disponible para apps después del sistema operativo ronda los 4-5 GB. Para 10-15 apps de streaming alcanza sin problema; si planeás tener muchas aplicaciones instaladas simultáneamente, conviene ser selectivo.
 
 El sistema puede presentar micro-lags ocasionales cuando hay varias apps abiertas en segundo plano. La solución documentada por compradores: cerrar apps manualmente desde el menú de aplicaciones recientes.
 
@@ -154,7 +154,27 @@ Con casi 3.000 comentarios escritos, hay suficiente data para identificar patron
 
 **Sistema operativo:** bien recibido, con observaciones sobre velocidad. "Sistema rápido" aparece en muchos reviews, aunque algunos mencionan que se puede poner un poco lento con varias apps abiertas.
 
-**Relación precio-calidad:** es la frase que más se repite. Compradores de Argentina, Brasil y Uruguay coinciden en que a ese precio la imagen QLED justifica la compra.`,
+**Relación precio-calidad:** es la frase que más se repite. Compradores de Argentina, Brasil y Uruguay coinciden en que a ese precio la imagen QLED justifica la compra.
+
+## Para quién tiene sentido y para quién no
+
+A $455.998, este TCL no es un televisor para todo el mundo. Tres perfiles donde rinde particularmente bien:
+
+**Streamer doméstico (Netflix, YouTube, Prime Video, fútbol):** caso ideal. La imagen QLED supera el promedio de su rango y Google TV te da todas las apps sin agregar un Chromecast. La resolución FHD en 43 pulgadas se ve bien a la distancia normal de un living.
+
+**Quien viene de un TV viejo (LCD/plasma de hace 5+ años):** salto enorme. Los colores QLED, el contraste del panel HVA y el HDR10+ son una diferencia clara. Es uno de los upgrades más nítidos en relación gasto/mejora visual a este precio.
+
+**Quien necesita un segundo TV (cuarto, oficina, dormitorio principal sin pretensiones):** los 5 kg y el diseño slim lo hacen cómodo de instalar solo. Para uso casual sin home theater, cumple sobrado.
+
+Y dos perfiles donde **no** es la mejor decisión:
+
+**Gamer con consola de nueva generación (PS5, Xbox Series X):** los 60 Hz y la resolución FHD limitan lo que esas consolas pueden mostrar. Si jugás títulos donde el framerate y la resolución importan, conviene buscar un TV con 120 Hz y 4K aunque cueste un escalón más.
+
+**Quien quiere imagen + audio premium sin equipo extra:** el techo de 10W con 2 parlantes tiene un límite físico. Si no pensás conectar barra de sonido o equipo externo y querés que el sonido acompañe a la imagen, este modelo te va a quedar corto.
+
+## En resumen
+
+A $455.998, el TCL 43S5K es una compra sólida si entrás sabiendo qué te llevás: imagen QLED arriba del promedio, audio que necesita ajuste por software o equipo externo, y Google TV completo. Es uno de los Smart TVs 43 pulgadas con mejor combinación precio + sistema operativo en MercadoLibre Argentina hoy. Para más comparativas y reviews de tecnología, mirá nuestras [guías](/guias).`,
     customerReviews: [
       {
         rating: 5,
@@ -198,7 +218,7 @@ Con casi 3.000 comentarios escritos, hay suficiente data para identificar patron
       },
       {
         question: "¿Cuánto almacenamiento disponible tiene el TCL 43S5K?",
-        answer: "La ficha técnica indica 8 GB de almacenamiento total. Sin embargo, varios compradores reportan que el espacio disponible para instalar apps es de aproximadamente 4.3 GB, dado que el sistema operativo ocupa una parte significativa. Instalar muchas aplicaciones puede ralentizar el funcionamiento.",
+        answer: "La ficha técnica indica 8 GB de almacenamiento total. Después del sistema operativo, el espacio efectivamente disponible para apps ronda los 4-5 GB. Alcanza para 10-15 apps de streaming sin problema; para más conviene ser selectivo y desinstalar las que no usás. Instalar muchas aplicaciones simultáneamente puede ralentizar el funcionamiento.",
       },
       {
         question: "¿El TCL 43S5K tiene buenas bocinas?",
