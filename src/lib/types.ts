@@ -163,8 +163,15 @@ export interface GuideSection {
     ctas?: Array<{ label: string; href: string }>;
   };
   src?: string;
+  /** Required for new content. Used as the `alt` for `image` and as the
+   * accessible label for screen readers. Empty strings are not allowed. */
   alt?: string;
+  /** Optional caption rendered below the image. Also used as fallback
+   * `alt` text when `alt` is missing. Required for new content if `alt`
+   * is not descriptive on its own. */
+  caption?: string;
   imageSize?: "hero" | "inline-lg" | "inline-md" | "inline-sm";
+  /** `alt` is required on every grid item in new content. */
   gridImages?: Array<{ src: string; alt: string; caption?: string }>;
 
   // ── product-card fields ─────────────────────────────

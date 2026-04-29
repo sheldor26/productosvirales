@@ -110,7 +110,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={hero.src}
-            alt={hero.alt || ""}
+            alt={hero.alt || guide.h1}
             width={1200}
             height={630}
             loading="eager"

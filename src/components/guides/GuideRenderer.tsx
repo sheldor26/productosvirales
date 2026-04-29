@@ -181,7 +181,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={section.src || ""}
-              alt={section.alt || ""}
+              alt={section.alt || section.caption || "Imagen del artículo"}
               className={size === "hero" ? sizeClass : "w-full h-auto"}
               loading={size === "hero" ? "eager" : "lazy"}
             />
@@ -321,7 +321,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={it.src}
-                  alt={it.alt}
+                  alt={it.alt || it.caption || "Imagen"}
                   className="max-w-full max-h-full object-contain"
                   loading="lazy"
                 />
