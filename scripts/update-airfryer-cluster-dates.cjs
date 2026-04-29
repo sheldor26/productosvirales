@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const base = 'cluster-freidoras-de-aire';
+const base = 'docs/clusters/freidoras-de-aire';
 const schedule = [
   ['pilar/mejores-freidoras-de-aire-argentina.md', '2026-04-15'],
   ['reviews/atma-freidoras-de-aire-review.md', '2026-04-18'],

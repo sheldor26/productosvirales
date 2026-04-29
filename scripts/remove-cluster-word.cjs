@@ -1,17 +1,17 @@
 const fs = require('fs');
 
-// Files to process — only user-visible content. Skip planning/internal docs in cluster-freidoras-de-aire/.
+// Files to process — only user-visible content. Skip planning/internal docs in docs/clusters/freidoras-de-aire/.
 const targets = [
   'src/data/curated-products.ts',
   'src/data/guides.ts',
-  'cluster-freidoras-de-aire/pilar/mejores-freidoras-de-aire-argentina.md',
+  'docs/clusters/freidoras-de-aire/pilar/mejores-freidoras-de-aire-argentina.md',
 ];
 
 // Replacements ordered most-specific → least-specific.
 // Match the word "cluster"/"Cluster" with surrounding context to keep prose natural.
 function transform(line) {
-  // Skip lines that reference the folder path `cluster-freidoras-de-aire/`
-  if (/cluster-freidoras-de-aire\//.test(line)) return line;
+  // Skip lines that reference the folder path `docs/clusters/freidoras-de-aire/`
+  if (/docs\/clusters\/freidoras-de-aire\//.test(line)) return line;
   let s = line;
   // contextual phrases first
   s = s.replace(/\bdel mismo cluster\b/gi, 'del mismo catálogo');

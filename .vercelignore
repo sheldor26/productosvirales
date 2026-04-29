@@ -1,0 +1,10 @@
+# Internal docs and planning artifacts that don't need to ship to Vercel.
+docs/
+
+# Legacy cluster folders (kept here in case a stray one shows up at root again).
+cluster-*
+
+# Build / scratch artifacts that occasionally land in the repo.
+*.generated.txt
+pending-price-results.json
+perfume-price-check.json

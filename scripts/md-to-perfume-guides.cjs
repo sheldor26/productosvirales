@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const INPUT = 'cluster-perfumes-arabes/articulos_lote_1.md';
+const INPUT = 'docs/clusters/perfumes-arabes/articulos_lote_1.md';
 const IMG_DIR = 'public/images/perfumes-imagenes';
 const PUBLISH_DATE = '2026-04-17';
 
