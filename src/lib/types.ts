@@ -171,8 +171,19 @@ export interface GuideSection {
    * is not descriptive on its own. */
   caption?: string;
   imageSize?: "hero" | "inline-lg" | "inline-md" | "inline-sm";
+  /** Intrinsic image width in px. Lets next/image reserve layout box
+   * without `fill`. Defaults: hero → 1200, inline → 800 when omitted. */
+  width?: number;
+  /** Intrinsic image height in px. Defaults: hero → 630, inline → 600. */
+  height?: number;
   /** `alt` is required on every grid item in new content. */
-  gridImages?: Array<{ src: string; alt: string; caption?: string }>;
+  gridImages?: Array<{
+    src: string;
+    alt: string;
+    caption?: string;
+    width?: number;
+    height?: number;
+  }>;
 
   // ── product-card fields ─────────────────────────────
   productMlaId?: string;

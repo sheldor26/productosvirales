@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Guide, GuideSection } from "@/lib/types";
 import { calcReadingTime } from "@/lib/reading-time";
 
@@ -105,17 +106,18 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
       </div>
 
       {/* Hero image (breakout) */}
-      {hero && (
+      {hero && hero.src && (
         <figure className="editorial-hero-wrap mt-6 md:mt-8">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src={hero.src}
-            alt={hero.alt || guide.h1}
-            width={1200}
-            height={630}
-            loading="eager"
-            className="w-full h-auto aspect-[1200/630] object-cover"
-          />
+          <div className="relative aspect-[1200/630] w-full overflow-hidden">
+            <Image
+              src={hero.src}
+              alt={hero.alt || guide.h1}
+              fill
+              sizes="(max-width: 768px) 100vw, 1200px"
+              priority
+              className="object-cover"
+            />
+          </div>
           {hero.alt && (
             <figcaption className="px-4 md:px-6 mt-2 text-xs text-[var(--text-muted)] italic max-w-[640px]">
               {hero.alt}

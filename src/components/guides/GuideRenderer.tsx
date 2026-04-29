@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { ExternalLink, Target, Award, Tag } from "lucide-react";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import type { Guide, GuideSection } from "@/lib/types";
@@ -168,22 +169,52 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 
     case "image": {
       const size = section.imageSize || "inline-lg";
-      const sizeClass = {
-        "hero": "w-full max-w-none aspect-[1200/630] object-cover",
+      const inlineWrapper = {
         "inline-lg": "max-w-[400px] mx-auto",
         "inline-md": "max-w-[250px] md:float-right md:ml-5 md:mb-3",
         "inline-sm": "max-w-[150px] mx-auto",
-      }[size];
-      const wrapperClass = size === "inline-md" ? "my-3" : size === "hero" ? "-mx-4 md:-mx-6 my-6" : "my-6";
+      }[size as "inline-lg" | "inline-md" | "inline-sm"] ?? "max-w-[400px] mx-auto";
+      const wrapperClass =
+        size === "inline-md" ? "my-3" : size === "hero" ? "-mx-4 md:-mx-6 my-6" : "my-6";
+      const altText = section.alt || section.caption || "Imagen del artículo";
+      const src = section.src || "";
+
+      if (size === "hero") {
+        // Hero uses fill + aspect-ratio wrapper so the LCP image always
+        // reserves a 1200/630 box no matter the source's intrinsic size.
+        return (
+          <figure className={wrapperClass}>
+            <div className="relative aspect-[1200/630] rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)]">
+              <Image
+                src={src}
+                alt={altText}
+                fill
+                sizes="(max-width: 768px) 100vw, 720px"
+                priority
+                className="object-cover"
+              />
+            </div>
+          </figure>
+        );
+      }
+
+      // Inline sizes: intrinsic dimensions reserve the layout box.
+      // Defaults match a typical 4:3 product shot when the data omits
+      // explicit width/height — content authors should set them when
+      // they have non-default ratios.
+      const w = section.width ?? 800;
+      const h = section.height ?? 600;
       return (
         <figure className={wrapperClass}>
-          <div className={`rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)] ${size !== "hero" ? sizeClass : ""}`}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={section.src || ""}
-              alt={section.alt || section.caption || "Imagen del artículo"}
-              className={size === "hero" ? sizeClass : "w-full h-auto"}
-              loading={size === "hero" ? "eager" : "lazy"}
+          <div className={`rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)] ${inlineWrapper}`}>
+            <Image
+              src={src}
+              alt={altText}
+              width={w}
+              height={h}
+              sizes="(max-width: 768px) 100vw, 400px"
+              loading="lazy"
+              className="w-full h-auto"
             />
           </div>
         </figure>
@@ -317,13 +348,14 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         <div className={`my-6 grid ${cols} gap-3`}>
           {items.map((it, i) => (
             <figure key={i} className="text-center">
-              <div className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)] flex items-center justify-center p-3">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
+              <div className="relative aspect-square rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-secondary)]">
+                <Image
                   src={it.src}
                   alt={it.alt || it.caption || "Imagen"}
-                  className="max-w-full max-h-full object-contain"
+                  fill
+                  sizes="(max-width: 768px) 50vw, 240px"
                   loading="lazy"
+                  className="object-contain p-3"
                 />
               </div>
               {it.caption && (
