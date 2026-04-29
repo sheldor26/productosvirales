@@ -791,6 +791,7 @@ Enjuague con agua tibia. El acero inoxidable no absorbe olores. No uses esponjas
   {
     id: 'MLA3674559257',
     title: 'Mezclador De Ollas Gadnic Mixer 360° Salsas Automático',
+    brand: "Gadnic",
     price: 32671.54,
     originalPrice: 40000,
     currency: 'ARS',
@@ -2884,6 +2885,7 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
   {
     id: 'MLA43536904',
     title: 'Ventilador De Techo Peabody Pe-vtrdc425b 42 Retractil Cantidad de aspas 3 Estructura Blanco Aspas Transparente Diámetro 1.067 m Frecuencia 50 Hz Material de las aspas Acrílico',
+    brand: "Peabody",
     price: 257291.88,
     originalPrice: 349999,
     currency: 'ARS',
@@ -3032,6 +3034,7 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
   {
     id: 'MLA44033885',
     title: 'Ventilador De Techo Retráctil Etheos 100w Luz Led Control',
+    brand: "Etheos",
     price: 178621,
     originalPrice: 229999,
     currency: 'ARS',
@@ -3491,6 +3494,7 @@ Sin Bluetooth ni bocina. Sin app. Sin control por voz. Sin funcionalidad smart h
   {
     id: 'MLA45675149',
     title: 'Proyector Astronauta Dakota | Parlante BT, 8 Modos y Timer',
+    brand: "Dakota",
     badge: 'trending',
     price: 19950.33,
     originalPrice: 29295,
@@ -4091,6 +4095,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
   {
     id: 'MLA46931846',
     title: 'Robot Limpia Vidrios Gadnic Con 3 Modos de Limpieza Super Succión Pulverización',
+    brand: "Gadnic",
     price: 252449,
     originalPrice: 497549,
     currency: 'ARS',
@@ -4116,6 +4121,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
   {
     id: 'MLA51170872',
     title: 'Robot Limpia Ventanas Atma + 3 Patrones De Limpieza + Doble Spray + Apto Vidrios Con Y Sin Marco',
+    brand: "Atma",
     price: 254999,
     originalPrice: 399999,
     currency: 'ARS',
@@ -5074,6 +5080,7 @@ El packaging del tren en colores bronce/plata, negro o dorado es lo que hace que
   {
     id: 'MLA231395761',
     title: 'Difusor Aromatizador Gadnic DIFU0001 300ml — Aceites Esenciales',
+    brand: "Gadnic",
     price: 34049,
     originalPrice: undefined,
     currency: 'ARS',
@@ -5536,6 +5543,7 @@ Garantía de 30 días: es la garantía más corta de todos los modelos en este s
   {
     id: 'MLA38663276',
     title: 'Lampara Velador VL040 Led Doble Dakota Plegable Mesa Escritorio Flexible Táctil Recargable Lapicero Color Blanco',
+    brand: "Dakota",
     price: 21381,
     originalPrice: undefined,
     currency: 'ARS',
@@ -5561,6 +5569,7 @@ Garantía de 30 días: es la garantía más corta de todos los modelos en este s
   {
     id: 'MLA47263010',
     title: 'Lámpara LED Velador Dakota Recargable — Lapicero + Soporte Celular (Rosa)',
+    brand: "Dakota",
     price: 10488,
     originalPrice: 11487,
     currency: 'ARS',
@@ -5742,6 +5751,7 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
   {
     id: 'MLA38663195',
     title: 'Lampara Velador Led Dakota Mesa Escritorio Flexible Dimerizable Táctil Recargable Lapicero',
+    brand: "Dakota",
     price: 12142.8,
     originalPrice: undefined,
     currency: 'ARS',
@@ -5938,6 +5948,7 @@ El índice de reproducción cromática (CRI) declarado es >80, lo que es aceptab
   {
     id: 'MLA26853638',
     title: 'Velador Gadnic NI70 — Luz de Noche LED 7 Colores Recargable 24hs',
+    brand: "Gadnic",
     price: 63249,
     priceStatus: "stale",
     originalPrice: undefined,
@@ -6169,6 +6180,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA22894851',
     title: 'Mopa Plana Suono de Microfibra Limpieza Pisos Lavable Reforzada Con Rociador Tanque 300mL Color Crema 41x14cm',
+    brand: "Suono",
     price: 14800,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -6358,6 +6370,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA42045783',
     title: 'Aspiradora Robot Gadnic 3 Modos Limpieza Poder De Succión Negro',
+    brand: "Gadnic",
     price: 190999,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -6385,6 +6398,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA36838658',
     title: 'Aspiradora Robot Trapeadora Gadnic AspiRob Recargable Inteligente Detecta Obstáculos Mapeo App',
+    brand: "Gadnic",
     price: 318499,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -6466,6 +6480,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA45951645',
     title: 'Aspiradora Robot Gadnic 5 Modos Limpieza Trapeo Inteligente Depósito de Agua Polvo Control App Conexion Inalambrica Sensores Anti‐Colisión Anticaída',
+    brand: "Gadnic",
     price: 267908.18,
     originalPrice: 588049,
     currency: 'ARS',
@@ -6491,6 +6506,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA62126950',
     title: 'Aspiradora Robot Gadnic 5000 Pa LIDAR 360 Base Autolimpiante Bolsa 3.2 Litros 140 Min Autonomia 3200 mAh App Tuya',
+    brand: "Gadnic",
     price: 510999,
     originalPrice: 629649,
     currency: 'ARS',
@@ -6516,6 +6532,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA61420449',
     title: 'Aspiradora Robot Xiaomi Vacuum S40c E101 Blanco',
+    brand: "Xiaomi",
     price: 346690,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -6885,6 +6902,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA24692647',
     title: "Proyector Portatil Led Dakota 8500lm Wifi 1080p Mirrorlink Color Negro",
+    brand: "Dakota",
     price: 228699,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -6964,6 +6982,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA43928643',
     title: "Proyector Portatil Gadnic P-3129 FHD Soporta 4K Bt Multi Conexion 5000 Lúmenes Control Remoto 40 a 150",
+    brand: "Gadnic",
     price: 207599,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -7120,6 +7139,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA49747515',
     title: 'Pava Eléctrica ATMA Negra — Interior Acero Inoxidable, 1.8L, 1500W',
+    brand: "Atma",
     badge: 'viral',
     price: 41999,
     priceUpdated: "2026-04-20",
@@ -7266,6 +7286,7 @@ Esta ATMA no tiene función mate ni control de temperatura variable. Si tomás m
   {
     id: 'MLA24601443',
     title: 'Pava Eléctrica Philips HD9350 — Acero SUS304, 1.7L',
+    brand: "Philips",
     badge: 'trending',
     price: 52187,
     priceUpdated: "2026-04-20",
@@ -7430,6 +7451,7 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
   {
     id: 'MLA47275624',
     title: 'Pava Eléctrica Peabody Digital — 40–100°C y Función Mate',
+    brand: "Peabody",
     badge: 'viral',
     price: 69999,
     originalPrice: 99999,
@@ -7598,6 +7620,7 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
   {
     id: 'MLA47183370',
     title: 'Pava Eléctrica Philips HD9396 — 1.7L, Doble Pared y 6 Temp',
+    brand: "Philips",
     badge: 'viral',
     price: 115397,
     priceUpdated: "2026-04-20",
@@ -7757,6 +7780,7 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
   {
     id: 'MLA19589524',
     title: "Pava Eléctrica Atma Pe0821ap 1.7lts Blanco",
+    brand: "Atma",
     visibility: 'deprioritized',
     price: 31999,
     priceUpdated: "2026-04-20",
@@ -7805,6 +7829,7 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
   {
     id: 'MLA11145436',
     title: 'Pava Eléctrica Oster con Control de Temperatura — Función Mate, 1.7L',
+    brand: "Oster",
     badge: 'viral',
     price: 64999,
     priceUpdated: "2026-04-20",
@@ -7956,6 +7981,7 @@ Si querés precisión de grado con display digital, el [Peabody PE-DK2200N](/pro
   {
     id: 'MLA14263533',
     title: 'Peabody PE-DK1850 — Pava Eléctrica de Acero con 4 Niveles',
+    brand: "Peabody",
     badge: 'trending',
     relatedProducts: ['MLA47275624', 'MLA24601443', 'MLA47183370', 'MLA49747515'],
     price: 55900,
@@ -8110,6 +8136,7 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
   {
     id: 'MLA15276005',
     title: "Pava Eléctrica Vintage Peabody PE-KV8215R Color Rojo 2200 W",
+    brand: "Peabody",
     visibility: 'deprioritized',
     relatedProducts: ['MLA47275624', 'MLA14263533', 'MLA24601443'],
     price: 65999,
@@ -8139,6 +8166,7 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
   {
     id: 'MLA61505857',
     title: 'Liliana AP152: pava eléctrica de acero con selector mate',
+    brand: "Liliana",
     badge: 'hot-deal',
     relatedProducts: ['MLA47275624', 'MLA14263533', 'MLA24601443', 'MLA49747515'],
     price: 31999,
@@ -8292,6 +8320,7 @@ La AP152 es la pava más accesible del catálogo. Para quien necesita agua calie
   {
     id: 'MLA8933826',
     title: 'Liliana Mateando AP975B — pava con función mate y filtro',
+    brand: "Liliana",
     badge: 'viral',
     relatedProducts: ['MLA61505857', 'MLA47275624', 'MLA14263533', 'MLA49747515'],
     price: 35000,
@@ -8451,6 +8480,7 @@ A $44.599, la Mateando está en el rango medio del catálogo: más cara que la A
   {
     id: 'MLA27849823',
     title: "Pava Eléctrica Liliana Tempomate Ap175 - Capacidad 1.7 L Negro",
+    brand: "Liliana",
     visibility: 'deprioritized',
     relatedProducts: ['MLA8933826', 'MLA61505857', 'MLA54152343'],
     price: 47305,
@@ -8480,6 +8510,7 @@ A $44.599, la Mateando está en el rango medio del catálogo: más cara que la A
   {
     id: 'MLA54152343',
     title: 'Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared',
+    brand: "Liliana",
     badge: 'trending',
     relatedProducts: ['MLA47275624', 'MLA47183370', 'MLA8933826', 'MLA61505857'],
     price: 62499,
@@ -8643,6 +8674,7 @@ A $61.899 es la pava más cara de todas las que están en el sitio. El precio re
   {
     id: 'MLA11145437',
     title: "Pava Eléctrica Oster BVSTKT4970B Negra 1.7 Litros",
+    brand: "Oster",
     visibility: 'deprioritized',
     relatedProducts: ['MLA11145436', 'MLA47275624', 'MLA14263533', 'MLA8933826'],
     price: 70874.01,
@@ -8670,6 +8702,7 @@ A $61.899 es la pava más cara de todas las que están en el sitio. El precio re
   {
     id: 'MLA8993736',
     title: "Pava Eléctrica Oster 8970 Color Plateado",
+    brand: "Oster",
     visibility: 'deprioritized',
     relatedProducts: ['MLA11145436', 'MLA47275624', 'MLA24601443', 'MLA14263533'],
     price: 86499,
@@ -8959,6 +8992,7 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
   {
     id: 'MLA26522167',
     title: "Equipo de Alta Frecuencia Gadnic LF60 Antienvejecimiento Antiacné Reafirmante Facial 4 Electrodos",
+    brand: "Gadnic",
     price: 43702.38,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -10048,6 +10082,7 @@ Femmto ya tiene presencia en el catálogo con el [modelo MP](/producto/MLA379085
   {
     id: 'MLA39861162',
     title: "Freidora De Aire Atma Fr248ap 1750w 8l Y Control Táctil",
+    brand: "Atma",
     price: 140199,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -10185,6 +10220,7 @@ Compará contra los otros modelos Atma del catálogo: la [Atma Pro FR60AR 6.5L](
   {
     id: 'MLA27351841',
     title: "Freidora de aire digital sin aceite Atma Pro Fr60ar 6,5L color blanco",
+    brand: "Atma",
     price: 91839.18,
     priceStatus: "stale",
     originalPrice: 149999,
@@ -10329,6 +10365,7 @@ Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la
   {
     id: 'MLA37004216',
     title: "Freidora De Aire Y Grill Digital Atma Fr901dp 6.3 Litros",
+    brand: "Atma",
     price: 273299,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_727889-MLA99464081972_112025-F.webp',
@@ -10464,6 +10501,7 @@ No es un equipo para guardar y sacar — es para dejar fijo. Completá la compar
   {
     id: 'MLA40161710',
     title: "Freidora De Aire Atma Pro Doble Canasta 8.5 Litros 2200w Frd248a",
+    brand: "Atma",
     price: 199999,
     priceStatus: "stale",
     originalPrice: 266668,
@@ -10596,6 +10634,7 @@ Lo que no es: una freidora de entrada. El precio ($199.999) y el tamaño justifi
   {
     id: 'MLA44703897',
     title: "Freidora De Aire Peabody Pe-afd650n 6,5l Visor 7 Programas Color Negro",
+    brand: "Peabody",
     price: 93999.6,
     priceStatus: "stale",
     originalPrice: undefined,
@@ -10723,6 +10762,7 @@ Comparala también contra la [Atma Pro FR60AR](/producto/MLA27351841) — misma 
   {
     id: 'MLA41829394',
     title: "Freidora De Aire Peabody Pe-afd720n 7,2l Visor 360º 11 Prog Color Negro",
+    brand: "Peabody",
     price: 109999.4,
     priceStatus: "stale",
     originalPrice: 249999,
@@ -10854,6 +10894,7 @@ El diseño con visor en tapa es una preferencia subjetiva: a algunas personas le
   {
     id: 'MLA53776810',
     title: "Freidora Doble Piso Pe-afdl102n Capacidad 10 L Peabody Negro",
+    brand: "Peabody",
     price: 200999,
     priceStatus: "stale",
     originalPrice: 249999,
@@ -10991,6 +11032,7 @@ No es para quien quiere porciones simétricas en las dos canastas: para eso, la 
   {
     id: 'MLA23318618',
     title: "Freidora De Aire Peabody Con Grill 6 Litros 1600 Watts Pe-afg01ix Color Plateado",
+    brand: "Peabody",
     price: 159499,
     priceStatus: "stale",
     originalPrice: 199999,
@@ -11122,6 +11164,7 @@ No es para espacios chicos: 43.5 cm de ancho es considerable y la apertura verti
   {
     id: 'MLA61393261',
     title: "Freidora De Aire Philips Na120/00 Negra 4.2l Negro",
+    brand: "Philips",
     price: 86490.2,
     priceStatus: "stale",
     originalPrice: 159999,
@@ -11247,6 +11290,7 @@ Si necesitás más capacidad con respaldo Philips, la [Philips PHNA35100 doble c
   {
     id: 'MLA55779230',
     title: "Freidora De Aire Philips Canasta Doble 9 Litros Phna35100 Negro",
+    brand: "Philips",
     price: 286999.18,
     priceStatus: "stale",
     originalPrice: 399999,
@@ -11388,6 +11432,7 @@ Si el circuito eléctrico es una restricción, el [Atma Pro Doble FRD248AP de 8.
   {
     id: 'MLA53675940',
     title: "Freidora De Aire Philips Phna23100 13 En 1 6.2 L Negra",
+    brand: "Philips",
     price: 185599.2,
     priceStatus: "stale",
     originalPrice: 231999,
@@ -11527,6 +11572,7 @@ Si el presupuesto es más ajustado, la [NA120/00 de 4.2L](/producto/MLA61393261)
   {
     id: 'MLA19630913',
     title: "Airfryer HD9280/90 Essential XL color negro Philips",
+    brand: "Philips",
     price: 449999,
     priceStatus: "stale",
     originalPrice: undefined,
@@ -11687,6 +11733,7 @@ Si esas funcionalidades son parte activa de cómo cocinás, el producto tiene se
   {
     id: 'MLA19630911',
     title: "Freidora de aire 6,2 Litros Philips Essential HD927091 Negro",
+    brand: "Philips",
     price: 520727.13,
     priceStatus: "stale",
     originalPrice: 520727,
@@ -11836,6 +11883,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: 'MLA28709303',
     title: "Freidora De Aire Oster Airfryer Dual 7.6l Diamondforce 6 Fun Color Negro",
+    brand: "Oster",
     price: 145293.77,
     priceStatus: "stale",
     originalPrice: 199999,
@@ -11862,6 +11910,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: 'MLA41041543',
     title: "Freidora De Aire Digital Oster Con Ventana 4 Litros",
+    brand: "Oster",
     price: 107260.8,
     priceStatus: "stale",
     originalPrice: 299999,
@@ -11888,6 +11937,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: 'MLA62320294',
     title: "Freidora De Aire 5.2 L Ninja Crispi",
+    brand: "Ninja",
     price: 440549.01,
     priceStatus: "stale",
     originalPrice: 612699,
@@ -11914,6 +11964,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: 'MLA36974228',
     title: "Freidora de aire PowerXL 3.8L 10 Funciones AF-E4001-AR Color Negro",
+    brand: "PowerXL",
     price: 59599,
     priceStatus: "stale",
     originalPrice: 164979,
@@ -11940,6 +11991,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: 'MLA42113760',
     title: "Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro",
+    brand: "Kanji",
     price: 89675.53,
     priceStatus: "stale",
     originalPrice: 169999,
@@ -11966,6 +12018,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: 'MLA44142280',
     title: "Freidora De Aire Gadnic 6.5 L 1400w 220 240v Temperatura 80 A 200 C Temporizador 60 Minutos Pinza Incluida",
+    brand: "Gadnic",
     price: 65149,
     priceStatus: "stale",
     originalPrice: 130349,
@@ -11992,6 +12045,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: 'MLA54106293',
     title: "Airfryer Suono Digital Y Doble Resistencia 12 Programas 10l Negro",
+    brand: "Suono",
     price: 123990,
     priceStatus: "stale",
     originalPrice: 300000,
@@ -12018,6 +12072,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA24605489",
     title: "Al wataniah Bareeq Al Dhahad EDP 100 ml para hombre",
+    brand: "Al Wataniah",
     price: 32990,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -12194,6 +12249,7 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
   {
     id: "MLA22234109",
     title: "Lattafa Qaed Al Fursan Eau De Parfum 90ml",
+    brand: "Lattafa",
     price: 30051,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -12952,6 +13008,7 @@ Si el atomizador no es plateado, la tapa es liviana o el batch code no se puede 
   {
     id: "MLA54145870",
     title: "Lattafa Habik For Men Eau De Parfum 100 Ml",
+    brand: "Lattafa",
     price: 65799,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -12978,6 +13035,7 @@ Si el atomizador no es plateado, la tapa es liviana o el batch code no se puede 
   {
     id: "MLA29077943",
     title: "Perfume Vintage Radio Lattafa Pride 100 Ml",
+    brand: "Lattafa",
     price: 69932,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -13247,6 +13305,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
   {
     id: "MLA41306043",
     title: "Perfume Rasasi Hawas Black 100ml Eau De Parfum Aromático Frutal Unisex",
+    brand: "Rasasi",
     price: 75388,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -13273,6 +13332,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
   {
     id: "MLA25883660",
     title: "Lattafa - Mayar Edp X100ml",
+    brand: "Lattafa",
     price: 58900,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -13983,6 +14043,7 @@ Si el precio es muy por debajo de $90.000, desconfiar. Bharara King se mantiene 
   {
     id: "MLA27855490",
     title: "Perfume Arabe Maison Alhambra Sceptre Malachite Edp 100 Ml",
+    brand: "Maison Alhambra",
     price: 55499,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -14009,6 +14070,7 @@ Si el precio es muy por debajo de $90.000, desconfiar. Bharara King se mantiene 
   {
     id: "MLA41304983",
     title: "Lattafa Her Confession Eau De Parfum 100ml Volumen de la unidad 100 mL",
+    brand: "Lattafa",
     price: 65000,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -14451,6 +14513,7 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
   {
     id: "MLA19846768",
     title: "Perfume Afnan 9pm 100 ml Eau de Parfum Para Caballero",
+    brand: "Afnan",
     price: 47214,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -14476,6 +14539,7 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
   {
     id: "MLAU3452900219",
     title: "Perfume Armaf Odyssey Mandarin Sky Limited Edition Edp 100 M",
+    brand: "Armaf",
     price: 110263,
     priceUpdated: "2026-04-20",
     priceStatus: "stale",
@@ -14501,6 +14565,7 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
   {
     id: "MLA47054851",
     title: "Perfume Afnan 9 Pm 100 Ml Eau De Parfum",
+    brand: "Afnan",
     price: 43998,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -14553,6 +14618,7 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
   {
     id: "MLA43643712",
     title: "Perfume Mujer Lattafa Bade'e Al Oud Noble Blush Edp 100ml",
+    brand: "Lattafa",
     price: 57999,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -14992,6 +15058,7 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
   {
     id: "MLA28060225",
     title: "Edp Lattafa Fakhar Woman X 100 Ml",
+    brand: "Lattafa",
     price: 44000,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -15018,6 +15085,7 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
   {
     id: "MLA37755803",
     title: "Lattafa Maahir Legacy Eau De Parfum 100ml Premium",
+    brand: "Lattafa",
     price: 50999,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -15044,6 +15112,7 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
   {
     id: "MLA41178086",
     title: "Perfume Hombre Lattafa The Kingdom Man 100 Ml",
+    brand: "Lattafa",
     price: 71198,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -15069,6 +15138,7 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
   {
     id: "MLA16122300",
     title: "Armaf Club de Nuit Intense Man EDP 200ml",
+    brand: "Armaf",
     price: 139000,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -15095,6 +15165,7 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
   {
     id: "MLA32488004",
     title: "Perfume Unisex Fakhar Lattafa Pride Gold Extract Edp 100 Ml",
+    brand: "Lattafa",
     price: 47574,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -15121,6 +15192,7 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
   {
     id: "MLA28754461",
     title: "Lattafa Emeer Eau De Parfum Arabe Caja Con Luces De 100 Ml",
+    brand: "Lattafa",
     price: 75811,
     priceUpdated: "2026-04-20",
     priceStatus: "fresh",
@@ -16185,6 +16257,7 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
   {
     id: "MLA32288168",
     title: "Lattafa Yara Moi Eau de parfum Spray 100mL Mujer",
+    brand: "Lattafa",
     price: 46538,
     originalPrice: undefined,
     currency: "ARS",
@@ -16208,6 +16281,7 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
   {
     id: "MLAU2983186467",
     title: "Perfume De Mujer Lattafa Yara Edp 100 Ml Arabe Original",
+    brand: "Lattafa",
     price: 95939.55,
     originalPrice: 100989,
     currency: "ARS",
