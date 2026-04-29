@@ -8,7 +8,7 @@ import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { HomeFAQ } from "@/components/feed/HomeFAQ";
 import { getVisibleProducts } from "@/lib/products";
 
-export const metadata: Metadata = {
+const baseMetadata: Metadata = {
   title: "Productos Virales de MercadoLibre Argentina — Lo más trending",
   description:
     "Descubrí los productos más virales y trending de MercadoLibre Argentina. Ofertas, tendencias TikTok y lo que todos están comprando hoy.",
@@ -28,7 +28,34 @@ export const metadata: Metadata = {
   },
 };
 
-export default async function Home() {
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: Promise<{ q?: string }>;
+}): Promise<Metadata> {
+  const { q } = await searchParams;
+  const trimmed = q?.trim();
+
+  if (trimmed) {
+    return {
+      title: `Resultados para "${trimmed}" | ProductosVirales`,
+      robots: { index: false, follow: true },
+      alternates: { canonical: "https://productosvirales.com.ar" },
+    };
+  }
+
+  return baseMetadata;
+}
+
+export default async function Home({
+  searchParams,
+}: {
+  searchParams: Promise<{ q?: string }>;
+}) {
+  // We don't read q here — HomeFeed (client) reads it via useSearchParams.
+  // Touching the prop just keeps Next.js happy that this is a dynamic page
+  // when the query is present.
+  await searchParams;
   const weeklyPopular = getVisibleProducts().slice(0, 8);
 
   return (
