@@ -4,8 +4,19 @@ import {
   scrapeSearch,
   scrapedToProduct,
 } from "@/lib/scraper";
+import { requireSecret } from "@/lib/api-auth";
 
 export async function POST(request: Request) {
+  const denied = requireSecret(request);
+  if (denied) return denied;
+
+  if (process.env.NODE_ENV === "production" && process.env.ENABLE_SCRAPE !== "true") {
+    return NextResponse.json(
+      { error: "scrape is dev-only" },
+      { status: 503 }
+    );
+  }
+
   try {
     const body = await request.json();
     const { url, query, limit } = body;

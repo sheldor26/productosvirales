@@ -1,7 +1,11 @@
 import { NextResponse } from "next/server";
 import { extractMLAId, importProduct } from "@/lib/mercadolibre";
+import { requireSecret } from "@/lib/api-auth";
 
 export async function POST(request: Request) {
+  const denied = requireSecret(request);
+  if (denied) return denied;
+
   try {
     const body = await request.json();
     const { input } = body;
