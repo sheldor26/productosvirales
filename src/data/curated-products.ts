@@ -10329,9 +10329,7 @@ Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la
   {
     id: 'MLA37004216',
     title: "Freidora De Aire Y Grill Digital Atma Fr901dp 6.3 Litros",
-    price: 185999,
-    priceStatus: "stale",
-    originalPrice: 249999,
+    price: 273299,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_727889-MLA99464081972_112025-F.webp',
     images: [
@@ -10366,7 +10364,7 @@ Completá la comparación con la [FR901DP con grill](/producto/MLA37004216) y la
       'Bandeja recolectora de jugos',
     ],
     cons: [
-      '$185.999 — precio alto del sub-catálogo Atma',
+      '$273.299 — precio alto del sub-catálogo Atma',
       '8.13 kg (el más pesado del grupo)',
       'Ocupa 37 cm de ancho × 38.5 cm de alto en mesada',
       'Sin ventana transparente',
@@ -10449,7 +10447,7 @@ No es un equipo para guardar y sacar — es para dejar fijo. Completá la compar
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '185999',
+        price: '273299',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/1gGXWsc',
