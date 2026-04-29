@@ -46,3 +46,18 @@ export function parseProductSlug(slug: string): { id: string | null } {
   const match = slug.match(/(?:^|-)(MLAU?\d+)$/i);
   return { id: match ? match[1].toUpperCase() : null };
 }
+
+/**
+ * `priceValidUntil` for JSON-LD Offers. Google is degrading Product rich
+ * result eligibility for offers without this field. We default to 30 days
+ * past the last price check (or today, if the product has no checked-at
+ * date yet). Returns `YYYY-MM-DD` to match Schema.org Date format.
+ */
+export function getPriceValidUntil(product: { priceLastChecked?: string }): string {
+  const base = product.priceLastChecked
+    ? new Date(product.priceLastChecked)
+    : new Date();
+  const expires = new Date(base);
+  expires.setDate(expires.getDate() + 30);
+  return expires.toISOString().slice(0, 10);
+}

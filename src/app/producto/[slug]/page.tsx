@@ -2,7 +2,7 @@ import { notFound, permanentRedirect } from "next/navigation";
 import type { Metadata } from "next";
 import { curatedProducts } from "@/data/curated-products";
 import { getVisibleProducts } from "@/lib/products";
-import { parseProductSlug, productHref, productSlug } from "@/lib/product-url";
+import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "@/lib/product-url";
 import { ProductDetail } from "@/components/products/ProductDetail";
 import { ProductGrid } from "@/components/products/ProductGrid";
 
@@ -131,6 +131,7 @@ export default async function ProductPage({ params }: Props) {
         : {}),
     offers: {
       ...baseOffers,
+      priceValidUntil: baseOffers.priceValidUntil || getPriceValidUntil(product),
       shippingDetails: baseOffers.shippingDetails || {
         "@type": "OfferShippingDetails",
         shippingDestination: {

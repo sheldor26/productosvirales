@@ -46,6 +46,8 @@ export interface Product {
   volumeUnit?: "mL" | "L";
   color?: string;
   priceUpdated?: string;    // ISO date when the price was last verified
+  /** ISO date the price was last checked. Drives JSON-LD `priceValidUntil` (we add 30 days). */
+  priceLastChecked?: string;
   /** "fresh" = price verified recently. "stale" = could not auto-verify, may be outdated. "out_of_stock" = listing inactive. */
   priceStatus?: "fresh" | "stale" | "out_of_stock";
   reviewCount?: number;
