@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "prices:check": "node scripts/update-prices-from-ml.cjs --dry-run",
+    "prices:update": "node scripts/update-prices-from-ml.cjs --apply"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",

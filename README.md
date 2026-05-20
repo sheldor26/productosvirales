@@ -16,6 +16,26 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## MercadoLibre importer and prices
+
+The MercadoLibre importer defaults to a Puppeteer page scraper, without the official API. To check prices without writing changes:
+
+```bash
+npm run prices:check -- --match freidora --limit 5
+```
+
+To update stored prices in `src/data/curated-products.ts`:
+
+```bash
+npm run prices:update -- --match freidora --limit 5
+```
+
+If MercadoLibre asks for security verification, run once with a visible browser and a persistent profile:
+
+```bash
+ML_SCRAPER_HEADFUL=true ML_SCRAPER_PROFILE_DIR=.cache/ml-scraper-profile npm run prices:update -- --match freidora --limit 5
+```
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.

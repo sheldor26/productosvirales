@@ -28,22 +28,22 @@ export function buildAffiliateUrl(permalink: string): string {
 
 // ─── Extract MLA ID from various URL formats ───
 export function extractMLAId(input: string): string | null {
-  // Direct ID: "MLA850734153" or "MLA-850734153"
-  const directMatch = input.match(/^(MLA[-]?\d+)/i);
+  // Direct ID: "MLA850734153", "MLA-850734153" or "MLAU3812360798"
+  const directMatch = input.match(/^(MLAU?[-]?\d+)/i);
   if (directMatch) {
     return directMatch[1].replace("-", "");
+  }
+
+  // Catalog/product URL: .../p/MLA26156003 or .../up/MLAU3812360798
+  const productMatch = input.match(/\/(?:p|up)\/(MLAU?\d+)/i);
+  if (productMatch) {
+    return productMatch[1].toUpperCase();
   }
 
   // Article URL: articulo.mercadolibre.com.ar/MLA-850734153-...
   const articuloMatch = input.match(/MLA[-]?(\d+)/i);
   if (articuloMatch) {
     return `MLA${articuloMatch[1]}`;
-  }
-
-  // Catalog URL: .../p/MLA26156003
-  const catalogMatch = input.match(/\/p\/(MLA\d+)/i);
-  if (catalogMatch) {
-    return catalogMatch[1];
   }
 
   return null;
