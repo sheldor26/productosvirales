@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 import { getPublishedGuides, guideCategories } from "@/data/guides";
+import type { Guide } from "@/lib/types";
 
 // Revalidate daily so scheduled guides appear on their publishedDate
 export const revalidate = 86400;
@@ -26,9 +27,29 @@ export const metadata: Metadata = {
   },
 };
 
+function compareGuidesByNewest(a: Guide, b: Guide): number {
+  return (
+    b.publishedDate.localeCompare(a.publishedDate) ||
+    b.updatedDate.localeCompare(a.updatedDate) ||
+    a.title.localeCompare(b.title, "es-AR")
+  );
+}
+
+function formatFullDate(iso: string): string {
+  const [year, month, day] = iso.split("-").map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day));
+
+  return new Intl.DateTimeFormat("es-AR", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC",
+  }).format(date);
+}
+
 export default function GuiasIndexPage() {
-  // Group guides by category
-  const published = getPublishedGuides();
+  // Group guides by category, keeping the newest articles first.
+  const published = [...getPublishedGuides()].sort(compareGuidesByNewest);
   const grouped = published.reduce<Record<string, typeof published>>((acc, guide) => {
     if (!acc[guide.category]) acc[guide.category] = [];
     acc[guide.category].push(guide);
@@ -77,11 +98,7 @@ export default function GuiasIndexPage() {
                     {guide.metaDescription}
                   </p>
                   <p className="text-xs text-[var(--text-muted)] mt-3">
-                    Actualizado{" "}
-                    {new Date(guide.updatedDate).toLocaleDateString("es-AR", {
-                      year: "numeric",
-                      month: "long",
-                    })}
+                    Actualizado {formatFullDate(guide.updatedDate)}
                   </p>
                 </Link>
               ))}
