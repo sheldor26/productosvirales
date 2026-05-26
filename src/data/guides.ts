@@ -38,6 +38,7 @@ export const guides: Guide[] = [
       "Acá te cuento qué encontré en cada canal, con precios reales y los modelos que valen la pena.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_603622-MLU78073792105_072024-F.webp", alt: "Asiento masajeador cervical y espalda con shiatsu y calor", imageSize: "hero" },
       { type: "h2", title: "Las tres opciones que tenés en Argentina" },
       {
         type: "p",
@@ -261,6 +262,7 @@ export const guides: Guide[] = [
       "Antes de arrancar: hay masajeadores para todo. Para el cuello, la cara, los pies, la espalda, para contracturas, para relajarte. El error más común es comprar uno sin saber bien qué necesitás y terminar con algo que no te sirve. Así que primero aclaremos eso.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_954507-MLU72851427726_112023-F.webp", alt: "Masajeador Caliber doble cabezal percutor con infrarrojo", imageSize: "hero" },
       {
         type: "toc",
         title: "En este artículo:",
@@ -655,6 +657,7 @@ export const guides: Guide[] = [
       "Si tenés apuro: el resumen rápido está en la tabla de abajo. Si querés entender las diferencias y cuál te conviene, seguí leyendo.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840012-MLA108256179513_032026-F.webp", alt: "Masajeador cervical eléctrico inalámbrico recomendado en Argentina", imageSize: "hero" },
       { type: "h2", title: "¿Cuál es el mejor masajeador cervical en Argentina?" },
       { type: "p", content: "Después de probar cinco modelos vendidos en MercadoLibre, el que más me sirvió fue el Gadnic Yapeyú: tipo U con 8 nodos shiatsu rotativos y calor infrarrojo, batería de 3 horas y precio razonable. Para contracturas medias a fuertes y uso diario, es el más completo. Si necesitás cervical más lumbar en el mismo aparato, el Wolke Multiuso. Si querés algo portátil sin calor, el Femmto cumple por lo que cuesta. Abajo está el detalle de cada uno." },
       { type: "h2", title: "Tabla comparativa" },
@@ -1351,6 +1354,7 @@ export const guides: Guide[] = [
       "Compré y probé pavas de todos los rangos de precio. Algunas baratas funcionan bien. Otras caras son un desperdicio de plata. Acá te explico qué obtenés por cada rango y cuáles son las mejores opciones en cada uno.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_941485-MLA99549727582_122025-F.webp", alt: "Pava eléctrica Oster con control de temperatura — referencia de precio en Argentina", imageSize: "hero" },
       { type: "h2", title: "Rangos de precio: la realidad del mercado argentino" },
       {
         type: "table",
@@ -1545,6 +1549,7 @@ export const guides: Guide[] = [
       "Compré 4 pavas en MercadoLibre. Una llegó rota. Otra era imitación. Las otras dos funcionan perfecto. Acá te explico cómo comprar sin que te estafen, cómo identificar vendedores confiables, y cuáles son las mejores ofertas reales.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp", alt: "Pava eléctrica Atma negra de 1.8L con interior de acero inoxidable", imageSize: "hero" },
       { type: "h2", title: "Por qué comprar en MercadoLibre (y por qué no)" },
       {
         type: "table",
@@ -1753,6 +1758,7 @@ export const guides: Guide[] = [
       "Probé la Peabody digital durante un mes. El control de temperatura funciona bien, pero si solo tomás mate a 100°, estás pagando $30.000 por una pantalla que no vas a usar.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp", alt: "Pava eléctrica Peabody PE-DK2200N digital con función mate", imageSize: "hero" },
       { type: "h2", title: "Por qué Peabody cobra más" },
       {
         type: "p",
@@ -1950,6 +1956,7 @@ export const guides: Guide[] = [
       "Probé los cuatro modelos. La AP175B Mateando por $45.099 es la mejor compra. Función mate con 2 niveles de temperatura, 1.7 litros, y la alternativa más accesible con mate activo del catálogo.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_819670-MLA100005503771_122025-F.webp", alt: "Pava eléctrica Liliana AP152 de acero con selector mate", imageSize: "hero" },
       { type: "h2", title: "Los cuatro modelos Liliana" },
       {
         type: "p",
@@ -2120,6 +2127,7 @@ export const guides: Guide[] = [
       "La respuesta corta: no. Oster es más cara sin ventaja real. Peabody PE-DK1850 sale $55.900 con acero inoxidable y 4 preset de temperatura. Liliana AP175B sale $45.099 con función mate. Ambas hacen lo mismo que Oster por menos plata.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_941485-MLA99549727582_122025-F.webp", alt: "Pava eléctrica Oster con control de temperatura y función mate", imageSize: "hero" },
       { type: "h2", title: "Las dos Oster: qué ofrecen" },
       { type: "h3", title: "Oster 4970B — Plástico ($78.748)" },
       {
@@ -2298,6 +2306,7 @@ export const guides: Guide[] = [
       'El mercado de masajeadores faciales tiene un problema: la mitad de lo que se vende promete cosas que no puede cumplir. "Rejuvenece 10 años." "Elimina líneas de expresión." "Tecnología iónica de última generación." La realidad es más simple y más honesta que todo eso.',
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_636629-MLU70439270590_072023-F.webp", alt: "Kit masajeador facial de jade con piedra Gua Sha", imageSize: "hero" },
       { type: "h2", title: "Qué puede hacer un masajeador facial (y qué no)" },
       { type: "p", content: "Lo que sí hace: mejorar la circulación sanguínea en la cara, reducir hinchazón temporal (sobre todo a la mañana), ayudar a que los serums y cremas penetren mejor en la piel, y relajar la tensión facial. Si apretás la mandíbula dormido o tensás la cara sin darte cuenta, un masaje facial ayuda." },
       { type: "p", content: "Lo que no hace: eliminar arrugas, \"rejuvenecer\" la piel, reducir poros de forma permanente, ni reemplazar un tratamiento dermatológico. Si una publicación te promete eso, desconfiá." },
@@ -2416,6 +2425,7 @@ export const guides: Guide[] = [
       'Pero antes necesito que sepas algo: "masajeador de espalda" es una categoría enorme. Hay pistolas de masaje, almohadillas para la silla, colchonetas vibradoras, asientos shiatsu y hasta percutores manuales. Son aparatos distintos que hacen cosas distintas. El error más caro es comprar el tipo equivocado para tu problema.',
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_728435-MLA93622340310_102025-F.webp", alt: "Asiento masajeador de espalda y cuello con vibración y calor", imageSize: "hero" },
       { type: "h2", title: "Qué tipo necesitás según tu dolor" },
       { type: "p", content: "Si te duele la espalda después de estar sentado muchas horas y buscás algo que te alivie mientras trabajás, lo tuyo es una almohadilla o asiento masajeador. Lo ponés en la silla, lo encendés y te olvidás. El masaje es suave y constante. No va a resolver una contractura fuerte, pero para tensión acumulada funciona bien." },
       { type: "p", content: "Si tenés contracturas puntuales, nudos musculares que tocás y duelen, necesitás algo con más presión. Una pistola de masaje o un percutor. Estos aparatos aplican fuerza concentrada en un punto específico. Son mejores para eso, pero necesitás aplicártelos vos (o pedirle a alguien) y no son para dejarlo 8 horas." },
@@ -2532,6 +2542,7 @@ export const guides: Guide[] = [
       "Lo que sí necesitás es uno con calor. Los probé con y sin calor, y la diferencia es enorme. Con calor, el alivio se siente en los primeros 5 minutos. Sin calor, es como meter los pies en algo que vibra un poco. Funciona, pero mucho menos.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_709001-MLA85409844441_052025-F.webp", alt: "Masajeador de pies San Up Reflexwave con calor y modos de masaje", imageSize: "hero" },
       { type: "h2", title: "Para quién es un masajeador de pies" },
       { type: "p", content: "Mozos, enfermeros, vendedores, peluqueros, albañiles, docentes. Cualquier persona que esté parada más de 6 horas al día. También sirve para gente que camina mucho, para corredores, y para cualquiera que llegue a la noche con los pies destruidos." },
       { type: "p", content: "Mi caso: trabajo sentado pero camino bastante. Empecé a usar un masajeador de pies por curiosidad y se volvió parte de la rutina nocturna. 15 minutos después de cenar, todos los días. No es algo que necesitara urgentemente, pero la diferencia en cómo me siento antes de dormir es notable." },
@@ -2634,6 +2645,7 @@ export const guides: Guide[] = [
       "Los modelos arriba de $90.000 no los compres. Philips HD9368 a $92.878 y Oster 8970 a $99.600 no hacen nada que justifique el precio. Hay mejores opciones entre $45.000 y $70.000.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp", alt: "Pava eléctrica Peabody PE-DK2200N con control digital de temperatura", imageSize: "hero" },
       { type: "h2", title: "Las ocho opciones" },
       { type: "p", content: "Encontré ocho modelos con control de temperatura en Argentina. Peabody tiene tres, Liliana y Oster tienen dos cada una, y hay uno de Atma y uno de Philips. Cuatro son plástico, tres acero, y una híbrida. Los precios van de $44.599 hasta casi $100.000." },
       {
@@ -2710,6 +2722,7 @@ export const guides: Guide[] = [
       "El vidrio se ve lindo pero tiene un problema: el sarro es visible. Con acero o plástico no ves la suciedad. Con vidrio tenés que limpiar con vinagre cada 2-3 semanas. No es difícil pero hay que hacerlo.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_786211-MLA109752518549_032026-F.webp", alt: "Pava eléctrica Peabody Vintage roja", imageSize: "hero" },
       { type: "h2", title: "Las seis pavas de vidrio" },
       {
         type: "table",
@@ -2778,6 +2791,7 @@ export const guides: Guide[] = [
       "Kanji por $17.340 es la más barata con acero. Si tu presupuesto es medio, Peabody DK1850 por $55.900 tiene acero completo y 4 preset de temperatura. Oster 8970 por $99.600 hace exactamente lo mismo que Peabody DK1850 — la diferencia de $43.700 es pura marca.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp", alt: "Pava eléctrica Atma con interior de acero inoxidable", imageSize: "hero" },
       { type: "h2", title: "Las nueve pavas de acero" },
       {
         type: "table",
@@ -2850,6 +2864,7 @@ export const guides: Guide[] = [
       "¿Por qué? Tres razones: el mate requiere volumen, fabricar 0.5L cuesta casi lo mismo que fabricar 1.8L, y no hay demanda suficiente para justificar producción. Esta es la investigación completa.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_768970-MLA100042415615_122025-F.webp", alt: "Pava eléctrica Atma 1.7L blanca compacta", imageSize: "hero" },
       { type: "h2", title: "La búsqueda: dos semanas revisando el mercado" },
       { type: "p", content: "Empecé buscando \"pava eléctrica pequeña\" en MercadoLibre. 127 resultados. Los filtré uno por uno. Pavas de 0.5-0.8 litros: todas 12V para auto (G&G Camionera y genéricos). Cero opciones domésticas 220V. Pavas de 1.0-1.2 litros: Peugeot Ambert (única doméstica), Tokyo Style y Motora Premium (ambas 12V para auto). Pavas de 1.5 litros: Daewoo Infussia, Liliana AP992B. Pavas de 1.7L: Novohome (ya no es pequeña)." },
       { type: "p", content: "Llamé a distribuidores de Atma, Peabody, Philips, Liliana. Respuesta unánime: \"No fabricamos ese tamaño. No hay demanda.\" Visité tres casas de electrodomésticos físicas — ninguna tiene pavas pequeñas domésticas. La conclusión es clara: el mercado de pavas pequeñas domésticas en Argentina no existe." },
