@@ -642,19 +642,21 @@ export const guides: Guide[] = [
     title: "Masajeador cervical: los mejores en Argentina",
     seoTitle: "Masajeador cervical: los mejores en Argentina (2026) - Comparativa real",
     metaDescription:
-      "Probé 5 masajeadores cervicales vendidos en Argentina. Te digo cuál compré, cuál devolvería y cuál conviene según tu dolor de cuello. Comparativa con precios reales de Meli.",
+      "Probé 5 masajeadores cervicales vendidos en MercadoLibre Argentina. Cuál compré, cuál devolvería y cuál conviene según tu dolor de cuello. Análisis 2026.",
     ogTitle: "Masajeador cervical: los mejores en Argentina (2026)",
     ogDescription:
       "Probé 5 masajeadores cervicales de MercadoLibre. Cuál comprar según tu problema y presupuesto.",
     h1: "Masajeador cervical: cuál comprar en Argentina según tu problema",
     publishedDate: "2026-04-11",
-    updatedDate: "2026-04-11",
+    updatedDate: "2026-05-26",
     hasDisclosure: true,
     intro: [
       "La mayoría de la gente busca esto porque le duele el cuello de estar en la compu. Yo también. Probé cinco modelos. Dos son buenos. Uno es una porquería. Acá va todo.",
       "Si tenés apuro: el resumen rápido está en la tabla de abajo. Si querés entender las diferencias y cuál te conviene, seguí leyendo.",
     ],
     sections: [
+      { type: "h2", title: "¿Cuál es el mejor masajeador cervical en Argentina?" },
+      { type: "p", content: "Después de probar cinco modelos vendidos en MercadoLibre, el que más me sirvió fue el Gadnic Yapeyú: tipo U con 8 nodos shiatsu rotativos y calor infrarrojo, batería de 3 horas y precio razonable. Para contracturas medias a fuertes y uso diario, es el más completo. Si necesitás cervical más lumbar en el mismo aparato, el Wolke Multiuso. Si querés algo portátil sin calor, el Femmto cumple por lo que cuesta. Abajo está el detalle de cada uno." },
       { type: "h2", title: "Tabla comparativa" },
       {
         type: "table",
@@ -2929,16 +2931,20 @@ export const guides: Guide[] = [
     slug: "atma-vs-peabody-freidora-de-aire",
     category: "freidoras-de-aire",
     title: `Atma vs Peabody: ¿Cuál freidora de aire elegir en 2026?`,
-    seoTitle: `Atma vs Peabody: ¿Cuál freidora de aire elegir en 2026?`,
-    metaDescription: `Atma vs Peabody freidoras de aire en Argentina: comparativa completa de modelos, precios, garantía y servicio técnico. Cuál conviene comprar en 2026.`,
-    h1: `Atma vs Peabody: Freidoras de aire nacionales en la mira`,
+    seoTitle: `Atma vs Peabody: cuál freidora de aire conviene en Argentina`,
+    metaDescription: `Atma vs Peabody freidora de aire: comparativa de 6 modelos, potencia, servicio técnico y precios en Argentina 2026. Cuál conviene según dónde vivís.`,
+    ogTitle: `Atma vs Peabody freidora de aire: la comparativa completa para 2026`,
+    ogDescription: `Las dos marcas nacionales más vendidas, comparadas modelo por modelo: potencia, servicio técnico, garantía y precios reales en MercadoLibre Argentina 2026.`,
+    h1: `Atma vs Peabody: ¿cuál freidora de aire conviene comprar en Argentina?`,
     publishedDate: "2026-05-09",
-    updatedDate: "2026-05-09",
+    updatedDate: "2026-05-26",
     hasDisclosure: true,
     intro: [
       `Cuando te ponés a buscar freidora de aire en Argentina, rápido aparecen Atma y Peabody. Las dos son marcas nacionales, las dos tienen garantía que podés reclamar en el país, y las dos metieron buena plata en investigación. Pero no son iguales, y dependiendo de dónde vivís, una puede convenirte mucho más que la otra.`,
     ],
     sections: [
+      { type: "h2", title: `¿Cuál conviene comprar, Atma o Peabody?` },
+      { type: "p", content: `Si vivís en el interior del país y priorizás servicio técnico cercano, Atma. Si estás en AMBA y te importa más el diseño y las funciones (pantalla táctil, visor 360°), Peabody. Las dos tienen 2 años de garantía y precios similares ($45.000–$70.000 según modelo). Las dos cocinan bien. La diferencia real está en dónde vivís y qué priorizás.` },
       { type: "image", src: "/images/freidoras/comparativa-atma-vs-peabody.webp", alt: `Comparativa freidora de aire Atma vs Peabody Argentina` },
       { type: "h2", title: `Tabla comparativa: Atma vs Peabody` },
       { type: "table", headers: [`Característica`, `Atma FR248ABP 8L`, `Peabody PE-AFD650N 6.5L`, `Atma FR901DP Grill`, `Peabody PE-AFG01IX Grill`, `Atma FRD248AP Doble`, `Peabody AFDL102N Doble`], rows: [
@@ -5727,17 +5733,21 @@ export const guides: Guide[] = [
     slug: "philips-freidoras-de-aire-review",
     category: "freidoras-de-aire",
     title: `Freidoras de aire Philips: análisis de los 5 modelos disponibles en Argentina`,
-    seoTitle: `Freidoras de aire Philips: análisis de los 5 modelos disponibles en Argentina`,
-    metaDescription: `Review completa freidoras Philips: HD9270, HD9280 XL, PHNA23100 13-en-1, PHNA35100 doble canasta y NA12000. La marca que inventó el airfryer. Argentina 2026.`,
-    h1: `Freidora de aire Philips: la marca que inventó el concepto`,
+    seoTitle: `Mejor freidora de aire Philips en Argentina 2026: análisis`,
+    metaDescription: `Análisis de las freidoras Philips NA120/00 4.2L, HD9270 6.2L y PHNA35100 doble canasta 9L: precio, rendimiento real, garantía y cuál conviene en Argentina.`,
+    ogTitle: `Freidora de aire Philips: cuál conviene en Argentina (NA120, HD9270, PHNA35100)`,
+    ogDescription: `La marca que inventó el airfryer. Comparamos los modelos Philips disponibles en MercadoLibre Argentina — NA120/00 4.2L, HD9270 6.2L y PHNA35100 doble canasta — con precios reales y veredicto claro.`,
+    h1: `Freidoras de aire Philips: cuál comprar en Argentina (2026)`,
     publishedDate: "2026-04-27",
-    updatedDate: "2026-04-29",
+    updatedDate: "2026-05-26",
     hasDisclosure: true,
     intro: [
       `Philips tiene un lugar especial en esto de las freidoras de aire. Mientras la mayoría de las marcas llegó después, Philips fue la que con su tecnología Rapid Air revolucionó la cocina doméstica allá por 2010. Eso suena a historia antigua, pero importa porque significa que tienen más de una década refinando la idea. En Argentina, sus modelos rondan precios más altos que lo que cuesta un Oster o un Peabody, pero el resultado final en la comida es notablemente diferente.`,
       `Este review cubre los cinco modelos Philips que vas a encontrar disponibles en Mercado Libre. No es para convencerte de que compres con Philips a la fuerza, sino para que sepas exactamente qué estás pagando cuando elegís una freidora de aire de esta marca.`,
     ],
     sections: [
+      { type: "h2", title: `¿Cuál es la mejor freidora de aire Philips en Argentina?` },
+      { type: "p", content: `Si comprás una sola, el balance es la HD9270 Essential 6.2L: capacidad para cuatro personas, tecnología RapidAir, sin pantallas innecesarias y a precio razonable dentro de la línea. Si vivís solo o en pareja, alcanza con la NA120/00 4.2L — el modelo de entrada. Si la familia es grande o recibís gente seguido, la PHNA35100 Doble Canasta 9L resuelve dos preparaciones a la vez sin abrir varias tandas. Abajo está el análisis completo de cada uno.` },
       { type: "image", src: "/images/freidoras/philips-hd9270-6-2l.webp", alt: `Freidoras de aire Philips: análisis de los 5 modelos disponibles en Argentina` },
       { type: "h2", title: `Los modelos Philips que tenés para elegir` },
       { type: "p", content: `Philips tiene presencia en distintos segmentos de precio. Desde opciones más compactas hasta freidoras que ocupan bastante lugar en la mesada.` },
@@ -7305,11 +7315,11 @@ export const guides: Guide[] = [
     title: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
     seoTitle: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
     metaDescription: "Las mejores fragancias árabes femeninas 2026 en Argentina. Dulces, florales, amaderadas. De Yara a Khamrah, guía con análisis honesto.",
-    ogTitle: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
-    ogDescription: "Las mejores fragancias árabes femeninas 2026 en Argentina. Dulces, florales, amaderadas. De Yara a Khamrah, guía con análisis honesto.",
+    ogTitle: "Perfumes árabes para mujer: las 12 fragancias que están explotando en TikTok (2026)",
+    ogDescription: "De Yara Elixir a Sabah Al Ward. Las fragancias árabes femeninas más virales en MercadoLibre Argentina, con análisis honesto, precios reales y para quién es cada una.",
     h1: "Perfumes árabes para mujer: las 12 fragancias más deseadas (2026)",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-04-17",
+    updatedDate: "2026-05-26",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
@@ -7327,6 +7337,14 @@ export const guides: Guide[] = [
         src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
         alt: "Perfumes árabes para mujer top 12 fragancias femeninas 2026 Argentina",
         imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Cuál es el mejor perfume árabe para mujer en 2026?"
+      },
+      {
+        type: "p",
+        content: "Si tenés que elegir uno solo, el Lattafa Yara Elixir es el más completo: dulce con cítricos, dura 8 horas y es el que más se viralizó en Argentina. Si querés algo más fresco para verano, el Yara Tous (mango, coco, vainilla). Si arrancás en perfumes árabes y no querés gastar mucho, Sabah Al Ward es la mejor puerta de entrada. Abajo está la lista completa con las 12 opciones top."
       },
       {
         type: "h2",
