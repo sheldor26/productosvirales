@@ -3,6 +3,7 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import { getPublishedGuides, guideCategories } from "@/data/guides";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
+import { calcReadingTime } from "@/lib/reading-time";
 import type { Guide } from "@/lib/types";
 
 // Revalidate daily so scheduled guides appear on their publishedDate
@@ -40,16 +41,37 @@ function compareGuidesByNewest(a: Guide, b: Guide): number {
   );
 }
 
-function formatFullDate(iso: string): string {
+const MS_PER_DAY = 1000 * 60 * 60 * 24;
+
+function daysSince(iso: string): number {
+  const target = new Date(iso + "T00:00:00Z").getTime();
+  const todayUtc = Date.UTC(
+    new Date().getUTCFullYear(),
+    new Date().getUTCMonth(),
+    new Date().getUTCDate()
+  );
+  return Math.floor((todayUtc - target) / MS_PER_DAY);
+}
+
+function formatRelativeDate(iso: string): string {
+  const days = daysSince(iso);
+  if (days <= 0) return "Hoy";
+  if (days === 1) return "Ayer";
+  if (days < 7) return `Hace ${days} días`;
+  if (days < 14) return "Hace 1 semana";
+  if (days < 30) return `Hace ${Math.floor(days / 7)} semanas`;
+  if (days < 60) return "Hace 1 mes";
+  if (days < 90) return "Hace 2 meses";
   const [year, month, day] = iso.split("-").map(Number);
   const date = new Date(Date.UTC(year, month - 1, day));
-
   return new Intl.DateTimeFormat("es-AR", {
     day: "numeric",
-    month: "long",
+    month: "short",
     year: "numeric",
     timeZone: "UTC",
-  }).format(date);
+  })
+    .format(date)
+    .replace(/\./g, "");
 }
 
 export default function GuiasIndexPage() {
@@ -117,12 +139,19 @@ export default function GuiasIndexPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {categoryGuides.map((guide) => {
                 const thumbnail = getGuideThumbnail(guide);
+                const isFresh = daysSince(guide.updatedDate) <= 7;
+                const readingMinutes = calcReadingTime(guide);
                 return (
                   <Link
                     key={guide.slug}
                     href={`/guias/${guide.slug}`}
-                    className="group flex gap-4 p-4 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
+                    className="group relative flex gap-4 p-4 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
                   >
+                    {isFresh && (
+                      <span className="absolute top-3 right-3 px-2 py-0.5 rounded-full text-[10px] font-semibold tracking-wide uppercase bg-[var(--color-discount)]/10 text-[var(--color-discount)] border border-[var(--color-discount)]/30">
+                        Recién actualizada
+                      </span>
+                    )}
                     {thumbnail && (
                       <div className="shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-[calc(var(--radius-card)-4px)] bg-[var(--bg-secondary)]">
                         <Image
@@ -136,7 +165,7 @@ export default function GuiasIndexPage() {
                     )}
                     <div className="flex-1 min-w-0">
                       <h3
-                        className="text-base md:text-lg font-bold leading-snug mb-1.5 text-[var(--text-primary)]"
+                        className="text-base md:text-lg font-bold leading-snug mb-1.5 text-[var(--text-primary)] pr-24"
                         style={{ fontFamily: "var(--font-display)" }}
                       >
                         {guide.title}
@@ -145,7 +174,7 @@ export default function GuiasIndexPage() {
                         {guide.metaDescription}
                       </p>
                       <p className="text-xs text-[var(--text-muted)]">
-                        Actualizado {formatFullDate(guide.updatedDate)}
+                        {formatRelativeDate(guide.updatedDate)} · {readingMinutes} min de lectura
                       </p>
                     </div>
                   </Link>
