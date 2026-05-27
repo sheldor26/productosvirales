@@ -1354,7 +1354,7 @@ export const guides: Guide[] = [
       "Compré y probé pavas de todos los rangos de precio. Algunas baratas funcionan bien. Otras caras son un desperdicio de plata. Acá te explico qué obtenés por cada rango y cuáles son las mejores opciones en cada uno.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_941485-MLA99549727582_122025-F.webp", alt: "Pava eléctrica Oster con control de temperatura — referencia de precio en Argentina", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_652957-MLA99453012994_112025-F.webp", alt: "Peabody PE-DK1850 pava eléctrica de acero como referencia de precio en Argentina", imageSize: "hero" },
       { type: "h2", title: "Rangos de precio: la realidad del mercado argentino" },
       {
         type: "table",
@@ -2645,7 +2645,7 @@ export const guides: Guide[] = [
       "Los modelos arriba de $90.000 no los compres. Philips HD9368 a $92.878 y Oster 8970 a $99.600 no hacen nada que justifique el precio. Hay mejores opciones entre $45.000 y $70.000.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp", alt: "Pava eléctrica Peabody PE-DK2200N con control digital de temperatura", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_608755-MLA99457405666_112025-F.webp", alt: "Philips HD9396 pava eléctrica con doble pared y control de temperatura", imageSize: "hero" },
       { type: "h2", title: "Las ocho opciones" },
       { type: "p", content: "Encontré ocho modelos con control de temperatura en Argentina. Peabody tiene tres, Liliana y Oster tienen dos cada una, y hay uno de Atma y uno de Philips. Cuatro son plástico, tres acero, y una híbrida. Los precios van de $44.599 hasta casi $100.000." },
       {
@@ -2791,7 +2791,7 @@ export const guides: Guide[] = [
       "Kanji por $17.340 es la más barata con acero. Si tu presupuesto es medio, Peabody DK1850 por $55.900 tiene acero completo y 4 preset de temperatura. Oster 8970 por $99.600 hace exactamente lo mismo que Peabody DK1850 — la diferencia de $43.700 es pura marca.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp", alt: "Pava eléctrica Atma con interior de acero inoxidable", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp", alt: "Liliana AP975B pava de acero con función mate", imageSize: "hero" },
       { type: "h2", title: "Las nueve pavas de acero" },
       {
         type: "table",
@@ -4960,7 +4960,7 @@ export const guides: Guide[] = [
       `Esta guía cubre los 20 modelos disponibles en el sitio con links a Mercado Libre, organizados por marca y uso. Si querés ir directo, acá va la versión corta.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/atma-fr248abp-8l.webp", alt: `Las mejores freidoras de aire en Argentina [2026]: Guía completa` },
+      { type: "image", src: "/images/freidoras/peabody-pe-afd650n.webp", alt: `Peabody PE-AFD650N, una de las mejores freidoras de aire en Argentina` },
       { type: "h2", title: `Resumen rápido: cuál comprar según tu caso` },
       { type: "list", items: [
         `Mejor relación precio/calidad para 2-4 personas: [Atma FR248ABP 8L](/guias/atma-freidoras-de-aire-review)`,
@@ -7349,8 +7349,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
-        alt: "Perfumes árabes para mujer top 12 fragancias femeninas 2026 Argentina",
+        src: "/images/perfumes-imagenes/20-SabahAlWard-Mujer-100ml.webp",
+        alt: "Sabah Al Ward, perfume árabe femenino floral disponible en Argentina",
         imageSize: "hero"
       },
       {
@@ -7670,7 +7670,7 @@ export const guides: Guide[] = [
       "Ahora: no todos los perfumes árabes son buenos, y no todos los que ves recomendados en redes valen lo que cuestan. Esta guía es lo que me hubiera gustado leer cuando empecé a investigar el nicho hace dos años. Sin marketing, sin 'los 10 mejores', sin afiliados disfrazados de recomendaciones. Lo que funciona, lo que no, y por qué."
     ],
     sections: [
-      { type: "image", src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp", alt: "Lattafa Yara Elixir 100ml — uno de los perfumes árabes más vendidos en Argentina", imageSize: "hero" },
+      { type: "image", src: "/images/perfumes-imagenes/04-Set4Perfumes-Tubo-35ml-Unisex.webp", alt: "Kit variado de perfumes árabes en Argentina", imageSize: "hero" },
 
       { type: "h2", title: "Qué son y por qué importan" },
       { type: "p", content: "Los perfumes árabes vienen mayoritariamente de Emiratos Árabes Unidos y Arabia Saudita. Lo que en Occidente conocemos como 'el nicho árabe' explotó comercialmente en los últimos diez años de la mano de cinco casas grandes: Lattafa, Afnan, Rasasi, Armaf y Maison Alhambra. Antes de eso eran un mundo cerrado de bazares y encomiendas; hoy están en Mercado Libre con stock argentino y envío en 48 horas." },
@@ -7852,8 +7852,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
-        alt: "Lattafa Yara Elixir original en caja, ejemplo de perfume árabe verificable en Argentina",
+        src: "/images/perfumes-imagenes/08-Lattafa-QaedAlFursan-90ml.webp",
+        alt: "Lattafa Qaed Al Fursan con caja, ejemplo de perfume árabe original",
         imageSize: "hero"
       },
       {
@@ -8178,6 +8178,266 @@ export const guides: Guide[] = [
       }
     ],
     internalLinks: [
+      { label: "Precios reales de perfumes árabes en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
+      { label: "Guía completa de perfumes árabes", href: "/guias/perfumes-arabes" },
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
+  {
+    slug: "donde-comprar-perfumes-arabes-argentina",
+    category: "perfumes-arabes",
+    title: "Dónde comprar perfumes árabes en Argentina: opciones seguras y precios reales",
+    seoTitle: "Dónde comprar perfumes árabes en Argentina 2026: guía",
+    metaDescription:
+      "Dónde comprar perfumes árabes en Argentina: MercadoLibre, perfumerías e importadores. Comparativa de precios, vendedores confiables, envío y devoluciones.",
+    ogTitle: "Dónde comprar perfumes árabes en Argentina sin equivocarte",
+    ogDescription:
+      "MercadoLibre, perfumerías físicas, importadores en redes o free shop. Comparamos los 4 canales reales del mercado argentino con precios, riesgos y a quién le conviene cada uno.",
+    h1: "Dónde comprar perfumes árabes en Argentina: opciones reales y vendedores confiables (2026)",
+    publishedDate: "2026-05-26",
+    updatedDate: "2026-05-26",
+    hasDisclosure: true,
+    intro: [
+      "Cuando los perfumes árabes explotaron en TikTok argentino, la pregunta dejó de ser cuál comprar y pasó a ser dónde comprar uno sin pagar de más ni recibir una imitación. En 2024 había tres importadores serios; en 2026 hay decenas, más todo MercadoLibre, más perfumerías físicas que finalmente entendieron el negocio. La variedad creció. La confusión también.",
+      "Esta guía es para que sepas las cuatro vías reales que tenés hoy para conseguir un Lattafa, un Afnan o un Rasasi en Argentina, qué esperar de cada una en precio, envío y respaldo, y cuándo conviene cada opción según tu caso."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/06-Kit4Perfumes-Tubito-35ml-Hombre.webp",
+        alt: "Kit de perfumes árabes en MercadoLibre Argentina, alternativa para empezar",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Dónde comprar perfumes árabes en Argentina?",
+        id: "donde-comprar-perfumes-arabes-en-argentina"
+      },
+      {
+        type: "p",
+        content: "Hay cuatro canales reales en 2026: **MercadoLibre** (la opción principal por variedad, protección al comprador y precios competitivos), **perfumerías físicas con sección árabe** (en CABA y ciudades grandes, ideal para oler antes de comprar), **importadores independientes en redes sociales** (Instagram principalmente, precios atractivos pero menos respaldo) y **free shop** (limitado a viajeros, stock de marcas top como Lattafa y Armaf). Para la mayoría de los casos, MercadoLibre con un vendedor MercadoLíder Platinum o Gold es el camino más balanceado entre precio, seguridad y disponibilidad."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos esta comparativa",
+        content: "Comparamos los cuatro canales según seis factores: variedad real disponible en Argentina, precio promedio para los 5 perfumes árabes más buscados, tiempo de entrega, política de devolución, mecanismo de verificación de autenticidad y reputación del vendedor. Los precios mencionados son rangos reales observados en abril-mayo 2026 y se actualizan cuando hay cambios significativos."
+      },
+      {
+        type: "h2",
+        title: "Tabla comparativa de los 4 canales"
+      },
+      {
+        type: "table",
+        headers: ["Canal", "Variedad", "Precio", "Envío", "Devolución", "Riesgo"],
+        rows: [
+          ["MercadoLibre", "Muy alta", "Competitivo", "24-72hs (Full)", "Compra Protegida", "Bajo con MercadoLíder"],
+          ["Perfumerías físicas", "Media", "Alto (10-30% más)", "Inmediato", "Variable", "Bajo (probás antes)"],
+          ["Importadores en redes", "Alta", "Bajo a medio", "3-7 días", "Variable", "Medio-alto"],
+          ["Free shop", "Limitada (top marcas)", "Bajo", "Inmediato", "Casi nula", "Bajo (solo top)"]
+        ]
+      },
+      {
+        type: "h2",
+        title: "MercadoLibre: la opción principal para la mayoría"
+      },
+      {
+        type: "p",
+        content: "MercadoLibre concentra hoy el 70-80% del mercado de perfumes árabes en Argentina. Tiene desde los Lattafa más vendidos hasta marcas de nicho como Maison Alhambra, Al Wataniah o Khadlaj. La diferencia clave: variedad enorme y protección al comprador real (Compra Protegida), a cambio de tener que filtrar entre vendedores buenos y vendedores flojos."
+      },
+      {
+        type: "p",
+        content: "Lo que mirá en MercadoLibre: reputación verde, MercadoLíder Platinum o Gold, +500 ventas históricas, comentarios recientes con fotos, política de devolución visible. La regla simple: si la publicación falla en tres de esas señales al mismo tiempo, mejor pasar. El detalle completo de cómo evaluar un vendedor y detectar falsificaciones está en [perfumes árabes originales](/guias/perfumes-arabes-originales)."
+      },
+      {
+        type: "p",
+        content: "**Cuándo conviene**: cuando querés variedad, mejor precio dentro de vendedores confiables, envío Full en 24-72hs y respaldo de la plataforma."
+      },
+      {
+        type: "p",
+        content: "**Cuándo NO conviene**: cuando es tu primera compra de perfume y querés oler antes (ahí mejor perfumería física)."
+      },
+      {
+        type: "h2",
+        title: "Perfumerías físicas: para los que quieren oler antes"
+      },
+      {
+        type: "p",
+        content: "En 2026 ya hay perfumerías en CABA, GBA, Córdoba, Rosario y Mendoza que tienen sección árabe. Las cadenas grandes (Juleriaque, Pigmento) suelen tener Lattafa Yara, Asad y Afnan 9PM en exposición. Locales especializados independientes (sobre todo en Palermo y Recoleta) tienen muestrarios más amplios incluyendo Maison Alhambra y Armaf."
+      },
+      {
+        type: "p",
+        content: "La gran ventaja: probás el perfume en tu piel antes de pagar. En un nicho donde la nariz de cada uno reacciona distinto, eso vale plata. La desventaja: pagás entre 10% y 30% más que en MercadoLibre por el mismo producto."
+      },
+      {
+        type: "p",
+        content: "**Cuándo conviene**: primera compra, querés probar 2-3 antes de decidir, o necesitás el perfume hoy."
+      },
+      {
+        type: "p",
+        content: "**Cuándo NO conviene**: ya sabés qué perfume querés y solo buscás mejor precio."
+      },
+      {
+        type: "h2",
+        title: "Importadores independientes en Instagram"
+      },
+      {
+        type: "p",
+        content: "Aparecieron cientos de cuentas de Instagram que importan perfumes árabes y venden por DM o WhatsApp. Algunos son serios, con stock propio en Argentina, envíos rápidos y producto original. Otros son revendedores que solo arman el pedido cuando vos pagás. La diferencia se nota."
+      },
+      {
+        type: "p",
+        content: "Para evaluar un importador en redes: cuántos meses lleva publicando, qué comentarios reales hay (no solo emojis), si muestra el stock físico en stories, si tiene domicilio comercial visible, si emite factura. Los precios suelen estar 10-20% por debajo de MercadoLibre — eso es lo atractivo. Pero **el respaldo es cero**: si llega algo raro, no hay Compra Protegida ni plataforma intermediaria. La devolución depende exclusivamente de la buena voluntad del vendedor."
+      },
+      {
+        type: "p",
+        content: "**Cuándo conviene**: ya probaste a alguien recomendado por conocidos y confirmaste seriedad, o querés productos de nicho que no se consiguen en MercadoLibre."
+      },
+      {
+        type: "p",
+        content: "**Cuándo NO conviene**: primera compra, no conocés a nadie que recomiende el vendedor, o el precio es sospechosamente bajo."
+      },
+      {
+        type: "h2",
+        title: "Free shop: solo si viajás"
+      },
+      {
+        type: "p",
+        content: "Si viajás al exterior, los duty free de Ezeiza, Aeroparque y aeropuertos de Emiratos tienen sección árabe limitada pero con precios buenos. Lattafa, Armaf y Maison Alhambra suelen estar disponibles a 60-70% del precio argentino, sin IVA, sin intermediarios. El stock cambia mes a mes."
+      },
+      {
+        type: "p",
+        content: "**Cuándo conviene**: ya estás viajando y querés aprovechar. Para 1-2 frascos vale la pena."
+      },
+      {
+        type: "p",
+        content: "**Cuándo NO conviene**: comprar a alguien que viajó solo para revender (los márgenes que cobran a veces cancelan el ahorro de free shop)."
+      },
+      {
+        type: "h2",
+        title: "Rangos de precio reales por marca (abril-mayo 2026)"
+      },
+      {
+        type: "table",
+        headers: ["Marca / Producto", "MercadoLibre", "Perfumería física", "Importador IG"],
+        rows: [
+          ["Lattafa Yara Elixir 100ml", "$42.000 - $52.000", "$58.000 - $68.000", "$38.000 - $48.000"],
+          ["Lattafa Asad Intense 100ml", "$48.000 - $62.000", "$70.000 - $85.000", "$42.000 - $55.000"],
+          ["Lattafa Khamrah Qahwa 100ml", "$55.000 - $72.000", "$78.000 - $95.000", "$50.000 - $65.000"],
+          ["Afnan 9PM 100ml", "$45.000 - $58.000", "$65.000 - $80.000", "$40.000 - $52.000"],
+          ["Armaf Club de Nuit Intense Man 200ml", "$120.000 - $145.000", "$160.000 - $190.000", "$110.000 - $135.000"]
+        ]
+      },
+      {
+        type: "p",
+        content: "Si ves un precio significativamente por debajo del rango bajo del canal, es momento de hacer preguntas — no de comprar a ciegas. El razonamiento completo está en [perfumes árabes originales: cómo identificarlos antes de comprar](/guias/perfumes-arabes-originales)."
+      },
+      {
+        type: "h2",
+        title: "Recomendaciones para una primera compra"
+      },
+      {
+        type: "p",
+        content: "Si estás arrancando en perfumes árabes y no querés equivocarte, estos cuatro son las mejores apuestas con mayor validación comunitaria en el catálogo argentino. Cada uno funciona para un caso distinto."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        variant: "compact",
+        description: "El árabe femenino más viral. Dulce con cítricos, dura 8 horas. Si nunca usaste un árabe femenino, este es el más seguro como primera compra.",
+        label: "Para mujer — primera compra",
+        labelColor: "blue"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        variant: "compact",
+        description: "El masculino más validado del catálogo (7.245 reseñas, 4.6⭐). Especiado-amaderado con vainilla. Si tenés que elegir uno solo para hombre, este.",
+        label: "Para hombre — primera compra",
+        labelColor: "blue"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        variant: "compact",
+        description: "Khamrah Qahwa: café, canela, vainilla y dátiles. Unisex, ideal para otoño-invierno. La puerta de entrada al gourmand árabe que arrasa en TikTok.",
+        label: "Unisex viral",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA16122300",
+        variant: "compact",
+        description: "El dupe clásico del Creed Aventus a un cuarto del precio. 200ml de frasco — alcanza para 2-3 años de uso normal. Para hombre que quiere proyección de premium sin pagar premium.",
+        label: "Para hombre — máximo rendimiento",
+        labelColor: "green"
+      },
+      {
+        type: "h2",
+        title: "Envío, devoluciones y producto sellado"
+      },
+      {
+        type: "p",
+        content: "Tres cosas que vale la pena confirmar antes de pagar, en cualquier canal:"
+      },
+      {
+        type: "list",
+        items: [
+          "**Producto sellado**: el frasco viene con celofán de fábrica y la caja con sello visible. Si no, no es nuevo — es ex demo o tester.",
+          "**Política de devolución por aroma**: en general no se acepta devolución si abriste y usaste. Por eso conviene oler primero (perfumería física o decant chico).",
+          "**Política de devolución por defecto**: si llega abierto, roto, con menos volumen del declarado o con sospecha de adulteración, eso sí se devuelve. MercadoLibre cubre estos casos con Compra Protegida; en otros canales, depende del vendedor."
+        ]
+      },
+      {
+        type: "callout",
+        calloutVariant: "tip",
+        calloutTitle: "El truco del decant",
+        content: "Antes de comprar un 100ml de un perfume que nunca oliste, buscá si alguien vende un decant (5-10ml) del mismo producto. Es 5-8 veces más barato y te permite probarlo varios días en piel antes de comprometerte al frasco grande. Especialmente útil con perfumes intensos como Asad o Khamrah que pueden gustar en TikTok pero no funcionar en tu piel."
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Para la mayoría de los casos en Argentina, **MercadoLibre con un vendedor MercadoLíder Platinum o Gold** es la mejor opción: mejor precio, mejor variedad, mejor respaldo. Si es tu primera compra y vivís cerca de una perfumería con sección árabe, **agregale una visita** para oler 2-3 antes de decidir. Si encontraste un importador en redes recomendado por alguien que ya compró sin problemas, **es una opción válida** para ahorrar 10-20% en el segundo o tercer frasco. El free shop es una bonificación si justo viajás."
+      },
+      {
+        type: "p",
+        content: "Lo único que nunca conviene: comprar a ciegas el más barato sin verificar vendedor, sin mirar caja, sin chequear si el producto está sellado. El nicho árabe creció rápido y eso atrajo todo tipo de revendedores. Las herramientas para filtrar están — usalas."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Es seguro comprar perfumes árabes en MercadoLibre?",
+        answer: "Sí, si elegís bien al vendedor. MercadoLíder Platinum o Gold con +500 ventas históricas y comentarios recientes con fotos es la combinación más segura. La Compra Protegida cubre productos rotos, no recibidos o que no coinciden con lo publicado. No cubre devoluciones por aroma — eso es responsabilidad del comprador."
+      },
+      {
+        question: "¿Dónde están más baratos: MercadoLibre o importadores de Instagram?",
+        answer: "Los importadores en Instagram suelen estar 10-20% por debajo de MercadoLibre. Pero el respaldo es cero: si llega algo raro, no hay plataforma intermediaria que te ayude. Para una primera compra, el respaldo de MercadoLibre vale la diferencia de precio. Para compras siguientes, si confiás en el importador, el ahorro es real."
+      },
+      {
+        question: "¿Las perfumerías físicas tienen los mismos perfumes árabes que MercadoLibre?",
+        answer: "En general no. Las perfumerías físicas suelen tener los top 5-10 más vendidos: Yara, Asad, Khamrah, 9PM, Club de Nuit. MercadoLibre tiene esos más +100 productos de nicho. Si querés algo específico de Maison Alhambra, Al Wataniah o Khadlaj, lo más probable es que solo lo encuentres online."
+      },
+      {
+        question: "¿Cuánto tarda el envío de un perfume árabe en Argentina?",
+        answer: "Con MercadoLibre Full: 24-48hs en CABA/GBA, 48-72hs en interior. Sin Full: 3-7 días según vendedor y zona. Importadores en redes: 3-7 días en general, algunos hacen entrega en mano en CABA. Perfumería física: inmediato."
+      },
+      {
+        question: "¿Conviene comprar perfumes árabes en free shop?",
+        answer: "Si viajás y tenés espacio en la valija, sí: los precios suelen estar 30-40% por debajo del mercado argentino. Pero solo para top marcas como Lattafa y Armaf. Para nicho más profundo (Maison Alhambra, Khadlaj) free shop no tiene stock — ahí MercadoLibre sigue ganando."
+      },
+      {
+        question: "¿Puedo devolver un perfume árabe si no me gusta el aroma?",
+        answer: "En general no, en ningún canal. La política estándar es: producto abierto y usado, no hay devolución. Por eso recomendamos oler antes en perfumería física, o comprar un decant de 5-10ml para probar antes del frasco grande. Si recibís un producto que no coincide con lo publicado (volumen, fragancia, abierto, falsificado), eso sí se devuelve."
+      }
+    ],
+    internalLinks: [
+      { label: "Perfumes árabes originales: cómo identificarlos antes de comprar", href: "/guias/perfumes-arabes-originales" },
       { label: "Precios reales de perfumes árabes en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
       { label: "Guía completa de perfumes árabes", href: "/guias/perfumes-arabes" },
       { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
