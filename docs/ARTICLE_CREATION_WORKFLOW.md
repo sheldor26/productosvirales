@@ -1,6 +1,12 @@
-# Workflow para crear nuevos articulos
+# Workflow técnico para crear nuevos artículos
 
-Este proyecto publica articulos desde `src/data/guides.ts`. Los Markdown en `docs/clusters/` funcionan como fuente editorial o borrador, pero el sitio no los lee directamente en runtime.
+> Este documento cubre la parte **técnica**: cómo se guarda un artículo en `src/data/guides.ts`, qué campos tiene un `Guide`, cómo se renderiza.
+>
+> Para la parte **editorial y psicológica** (qué estructura usar, cómo escribir con SEO + persuasión, trucos de copy) ver [POST_MASTER_STRUCTURE.md](POST_MASTER_STRUCTURE.md) — esa es la biblia editorial.
+>
+> Si sos Claude y te piden crear un post nuevo, seguí la receta operativa en [.claude/skills/new-post.md](../.claude/skills/new-post.md).
+
+Este proyecto publica artículos desde `src/data/guides.ts`. Los Markdown en `docs/clusters/` funcionan como fuente editorial o borrador, pero el sitio no los lee directamente en runtime.
 
 ## Como funciona hoy
 
