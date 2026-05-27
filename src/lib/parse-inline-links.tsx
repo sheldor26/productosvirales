@@ -6,72 +6,63 @@ import type React from "react";
  *   - [texto](url)   → link (next/link for internal, <a> + nofollow for external)
  *   - **texto**      → <strong>
  *
- * Tokenized sequentially so order of occurrence is preserved.
+ * Bold can contain a link (**[texto](url)**) — the bold body is parsed recursively.
  */
 
-type Token =
-  | { kind: "text"; value: string }
-  | { kind: "link"; anchor: string; href: string }
-  | { kind: "bold"; value: string };
+const LINK_CLASS =
+  "text-[var(--cta-bg)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
 
-function tokenize(text: string): Token[] {
-  const tokens: Token[] = [];
-  // Match either [text](url) or **text** — non-greedy inner
-  const re = /\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*/g;
+function renderLink(anchor: string, href: string, key: number): React.ReactNode {
+  const isInternal = href.startsWith("/");
+  if (isInternal) {
+    return (
+      <Link key={key} href={href} className={LINK_CLASS}>
+        {anchor}
+      </Link>
+    );
+  }
+  return (
+    <a
+      key={key}
+      href={href}
+      target="_blank"
+      rel="nofollow sponsored noopener"
+      className={LINK_CLASS}
+    >
+      {anchor}
+    </a>
+  );
+}
+
+function renderText(text: string, startKey: { k: number }): React.ReactNode[] {
+  const out: React.ReactNode[] = [];
+  // Match either **text** or [text](url) — bold takes priority so nested links work
+  const re = /\*\*([\s\S]+?)\*\*|\[([^\]]+)\]\(([^)]+)\)/g;
   let last = 0;
   let m: RegExpExecArray | null;
   while ((m = re.exec(text)) !== null) {
-    if (m.index > last) tokens.push({ kind: "text", value: text.slice(last, m.index) });
-    if (m[1] != null && m[2] != null) {
-      tokens.push({ kind: "link", anchor: m[1], href: m[2] });
-    } else if (m[3] != null) {
-      tokens.push({ kind: "bold", value: m[3] });
+    if (m.index > last) out.push(text.slice(last, m.index));
+    if (m[1] != null) {
+      // Bold — recursively parse interior for links
+      const inner = renderText(m[1], startKey);
+      out.push(
+        <strong
+          key={startKey.k++}
+          className="font-semibold text-[var(--text-primary)]"
+        >
+          {inner}
+        </strong>
+      );
+    } else if (m[2] != null && m[3] != null) {
+      out.push(renderLink(m[2], m[3], startKey.k++));
     }
     last = m.index + m[0].length;
   }
-  if (last < text.length) tokens.push({ kind: "text", value: text.slice(last) });
-  return tokens;
+  if (last < text.length) out.push(text.slice(last));
+  return out;
 }
 
 export function parseInlineLinks(text: string): React.ReactNode[] {
-  const linkClass =
-    "text-[var(--cta-bg)] underline underline-offset-2 decoration-1 hover:opacity-70 transition-opacity";
-  const tokens = tokenize(text);
-  const out: React.ReactNode[] = [];
-  let key = 0;
-
-  for (const t of tokens) {
-    if (t.kind === "text") {
-      out.push(t.value);
-    } else if (t.kind === "bold") {
-      out.push(
-        <strong key={key++} className="font-semibold text-[var(--text-primary)]">
-          {t.value}
-        </strong>
-      );
-    } else {
-      const isInternal = t.href.startsWith("/");
-      if (isInternal) {
-        out.push(
-          <Link key={key++} href={t.href} className={linkClass}>
-            {t.anchor}
-          </Link>
-        );
-      } else {
-        out.push(
-          <a
-            key={key++}
-            href={t.href}
-            target="_blank"
-            rel="nofollow sponsored noopener"
-            className={linkClass}
-          >
-            {t.anchor}
-          </a>
-        );
-      }
-    }
-  }
-
+  const out = renderText(text, { k: 0 });
   return out.length > 0 ? out : [text];
 }
