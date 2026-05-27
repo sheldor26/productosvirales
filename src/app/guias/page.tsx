@@ -145,13 +145,8 @@ export default function GuiasIndexPage() {
                   <Link
                     key={guide.slug}
                     href={`/guias/${guide.slug}`}
-                    className="group relative flex gap-4 p-4 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
+                    className="group flex gap-4 p-4 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
                   >
-                    {isFresh && (
-                      <span className="absolute top-3 right-3 px-2 py-0.5 rounded-full text-[10px] font-semibold tracking-wide uppercase bg-[var(--color-discount)]/10 text-[var(--color-discount)] border border-[var(--color-discount)]/30">
-                        Recién actualizada
-                      </span>
-                    )}
                     {thumbnail && (
                       <div className="shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-[calc(var(--radius-card)-4px)] bg-[var(--bg-secondary)]">
                         <Image
@@ -164,8 +159,13 @@ export default function GuiasIndexPage() {
                       </div>
                     )}
                     <div className="flex-1 min-w-0">
+                      {isFresh && (
+                        <span className="inline-flex items-center px-2 py-0.5 mb-2 rounded-full text-[10px] font-semibold tracking-wide uppercase bg-[var(--color-discount)]/10 text-[var(--color-discount)] border border-[var(--color-discount)]/30">
+                          Recién actualizada
+                        </span>
+                      )}
                       <h3
-                        className="text-base md:text-lg font-bold leading-snug mb-1.5 text-[var(--text-primary)] pr-24"
+                        className="text-base md:text-lg font-bold leading-snug mb-1.5 text-[var(--text-primary)]"
                         style={{ fontFamily: "var(--font-display)" }}
                       >
                         {guide.title}
