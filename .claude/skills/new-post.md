@@ -77,7 +77,9 @@ Durante la redacción, marcar mentalmente **al menos 3 trucos psicológicos dife
 - **Comparativa**: respuesta directa arriba (featured snippet) + tabla comparativa + identification language + "para quién es cada una".
 - **Informacional**: respuesta directa arriba + loss aversion suave (errores comunes) + 2-3 product-cards al final.
 
-**Regla**: cada vez que aparezca un nombre de producto en el cuerpo, debe haber un link inline o un product-card cerca. Sin excepciones.
+**Regla 1**: cada vez que aparezca un nombre de producto en el cuerpo, debe haber un link inline o un product-card cerca. Sin excepciones.
+
+**Regla 2 (CRÍTICA)**: el link SIEMPRE va a la ficha interna del producto, NUNCA al afiliado de MercadoLibre desde un párrafo. Usar formato canónico `/producto/<slug-titulo>-<mla-id-en-minúscula>` (no `/producto/MLA<ID>` legacy). El componente `product-card` lo hace bien automáticamente vía `productMlaId`. Ver sección 4.9 del Master Structure para el detalle completo y los porqués.
 
 ## 5. Imágenes
 

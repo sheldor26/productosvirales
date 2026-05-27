@@ -7830,6 +7830,362 @@ export const guides: Guide[] = [
       { label: "Precios reales en Argentina", href: "/guias/perfumes-arabes-precio-argentina" }
     ]
   },
+  {
+    slug: "perfumes-arabes-originales",
+    category: "perfumes-arabes",
+    title: "Perfumes árabes originales: cómo identificarlos antes de comprar",
+    seoTitle: "Perfumes árabes originales: cómo reconocerlos en Argentina",
+    metaDescription:
+      "Cómo saber si un perfume árabe es original en Argentina: QR Lattafa, batch code, caja, vendedor y precio. Señales claras antes de comprar en MercadoLibre.",
+    ogTitle: "Perfumes árabes originales: lo que tenés que fijarte antes de comprar",
+    ogDescription:
+      "Lattafa, Afnan y Rasasi se hicieron virales en Argentina y con eso llegó más oferta y más riesgo. Las señales claras que separan un original de una imitación.",
+    h1: "Perfumes árabes originales: cómo reconocerlos antes de comprar (2026)",
+    publishedDate: "2026-05-26",
+    updatedDate: "2026-05-26",
+    hasDisclosure: true,
+    intro: [
+      "Los perfumes árabes se volvieron masivos en Argentina, y eso trajo dos cosas al mismo tiempo: mejores precios y más riesgo de comprar mal. Cuando un Lattafa, un Afnan o un Rasasi se hace viral, aparecen publicaciones dudosas, cajas raras, precios demasiado bajos y vendedores que no explican de dónde sale el producto.",
+      "La buena noticia es que no hace falta ser coleccionista para filtrar bastante. Hay señales simples: QR oficial, caja, batch code, reputación del vendedor, rango de precio y estado del producto cuando llega. Esta guía es para revisar todo eso antes de poner plata.",
+      "La idea no es asustarte. La mayoría de las compras sale bien si elegís con criterio. Pero en perfumes conviene mirar un poco más que en otros productos: si abriste el frasco y lo usaste, resolver una mala compra puede ser más complicado."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Lattafa Yara Elixir original en caja, ejemplo de perfume árabe verificable en Argentina",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Cómo saber si un perfume árabe es original?",
+        id: "como-saber-si-un-perfume-arabe-es-original"
+      },
+      {
+        type: "p",
+        content: "Hay seis señales que conviene revisar antes de pagar: que el **precio esté dentro del rango normal** del producto, que el **vendedor tenga reputación verde** y volumen real de ventas, que las **fotos muestren caja, frasco y etiqueta** (no imágenes de catálogo), que el **producto venga sellado** con celofán prolijo, que tenga **QR o sello de verificación** cuando la marca lo incluye (como Lattafa), y que las **opiniones recientes** tengan fotos y comentarios específicos. Si una publicación falla en tres señales al mismo tiempo, mejor pasar. Si pasa estas seis, ya filtraste la mayor parte del riesgo."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos esta guía",
+        content: "Cruzamos las señales de autenticidad que la propia Lattafa publica en sus etiquetas oficiales con patrones reportados por compradores en reseñas de MercadoLibre Argentina (especialmente sobre Yara, Asad, Khamrah, Afnan 9PM y Club de Nuit). El criterio editorial es siempre el mismo: nada de comprar barato porque sí, y nada de pánico tampoco — solo las verificaciones que valen la pena hacer antes de pagar."
+      },
+      {
+        type: "h2",
+        title: "Original, dupe e imitación no son lo mismo"
+      },
+      {
+        type: "p",
+        content: "Antes de hablar de falsificaciones, hay que separar tres conceptos que se mezclan todo el tiempo."
+      },
+      {
+        type: "p",
+        content: "Un **perfume árabe original** es un producto real de una marca como Lattafa, Afnan, Rasasi, Armaf, Maison Alhambra o Al Wataniah. Puede ser barato, puede estar inspirado en otro perfume y puede venir de Emiratos Árabes, pero sigue siendo un producto legítimo de esa casa."
+      },
+      {
+        type: "p",
+        content: "Un **dupe legal** es una fragancia inspirada en otra más cara. Muchas marcas árabes trabajan perfiles parecidos a perfumes occidentales populares (Dior Sauvage, Paco Rabanne Invictus, YSL). Eso no es falsificación: no dice Dior en la caja, no copia el logo y no intenta pasar por otro producto. Es un producto propio con una inspiración declarada."
+      },
+      {
+        type: "p",
+        content: "Una **falsificación** es otra cosa: una caja que pretende ser Lattafa, Afnan o Rasasi pero no fue fabricada por la marca. Ahí está el problema real, y es lo que esta guía te ayuda a detectar."
+      },
+      {
+        type: "h2",
+        title: "Checklist rápido antes de comprar"
+      },
+      {
+        type: "table",
+        headers: ["Señal", "Qué mirar", "Riesgo si falla"],
+        rows: [
+          ["Precio", "Que no esté muy por debajo del rango normal", "Puede ser falso, usado o sin stock real"],
+          ["Vendedor", "Reputación verde, ventas, antigüedad y respuestas", "Más riesgo de reclamo o producto dudoso"],
+          ["Fotos", "Caja, frasco y etiqueta visibles", "Publicación genérica o reciclada"],
+          ["QR o sello", "Si la marca lo incluye, que esté presente", "Dificulta verificar autenticidad"],
+          ["Producto sellado", "Caja cerrada y celofán prolijo", "Puede haber sido abierto o manipulado"],
+          ["Opiniones", "Reviews con fotos y comentarios específicos", "Las estrellas solas no alcanzan"]
+        ]
+      },
+      {
+        type: "h2",
+        title: "El QR oficial: la primera prueba en Lattafa"
+      },
+      {
+        type: "p",
+        content: "Lattafa tiene un sistema oficial de verificación para productos con etiqueta de seguridad. Es simple: escaneás el QR de la caja con la cámara del teléfono y te lleva a una página de verificación de la marca."
+      },
+      {
+        type: "p",
+        content: "Esto no reemplaza todo lo demás, pero ayuda mucho. Si comprás un Lattafa nuevo y la caja debería traer etiqueta, el QR tiene que estar sano (no raspado antes de que lo recibas) y debería abrir una página oficial de Lattafa, no una URL rara."
+      },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "No todos los frascos viejos se verifican igual",
+        content: "Algunas tandas antiguas o productos de líneas específicas pueden cambiar el tipo de etiqueta o el sistema de verificación. Si el vendedor dice que no trae QR, pedile foto real de caja, importador y lote antes de comprar. La ausencia de QR no es prueba automática de falsificación — pero sí pide más verificación."
+      },
+      {
+        type: "h2",
+        title: "Caja, celofán y frasco: lo físico también habla"
+      },
+      {
+        type: "p",
+        content: "Un perfume original suele tener terminaciones consistentes. No hace falta que la caja parezca de lujo europeo (muchas marcas árabes son accesibles), pero si tiene errores groseros conviene frenar."
+      },
+      {
+        type: "p",
+        content: "Mirá estas señales al recibir el producto:"
+      },
+      {
+        type: "list",
+        items: [
+          "Celofán demasiado flojo, roto o vuelto a pegar.",
+          "Tipografía corrida, borrosa o con errores raros.",
+          "Logo mal centrado o de baja resolución.",
+          "Tapa que no encaja bien.",
+          "Atomizador torcido o con pérdida.",
+          "Sticker de lote ausente o desprolijo.",
+          "Caja golpeada vendida como producto nuevo sin aclaración."
+        ]
+      },
+      {
+        type: "p",
+        content: "Un golpe de transporte puede pasar. Una caja mal impresa, un frasco torcido y un precio ridículamente bajo, todo junto, ya cuenta otra historia."
+      },
+      {
+        type: "h2",
+        title: "Batch code: útil, pero no mágico"
+      },
+      {
+        type: "p",
+        content: "El batch code es el código de lote. Suele estar en la caja y/o en el frasco. Sirve para identificar la tanda de producción y, en algunas marcas, estimar la fecha."
+      },
+      {
+        type: "p",
+        content: "Pero usalo con cuidado. Que un batch code aparezca en un verificador externo no garantiza al 100% que el frasco sea original. Y que no aparezca tampoco prueba automáticamente que sea falso, porque muchas bases de datos no cubren todas las marcas árabes ni todas las tandas."
+      },
+      {
+        type: "p",
+        content: "Lo importante es que el código exista, sea consistente entre caja y frasco cuando corresponde, y no parezca agregado a mano con marcador."
+      },
+      {
+        type: "h2",
+        title: "Precio demasiado barato: la alerta más fácil"
+      },
+      {
+        type: "p",
+        content: "Si todos venden un perfume entre $45.000 y $65.000 y aparece uno a $22.000, no encontraste una mina de oro. Encontraste una pregunta. Puede ser una liquidación real, una publicación vieja, un tester, una versión chica, un producto sin caja, una imitación o directamente algo que no está disponible."
+      },
+      {
+        type: "p",
+        content: "Antes de comprar, revisá: si el volumen es el mismo (30ml, 50ml, 100ml), si es EDP, EDT, parfum o aceite, si viene con caja, si es nuevo o usado, si el vendedor tiene stock real, y si las fotos son reales o solo imágenes de catálogo."
+      },
+      {
+        type: "p",
+        content: "En perfumes árabes, el mejor precio no siempre es el más bajo. Casi siempre es el más bajo dentro de vendedores confiables. Por ejemplo, el [Lattafa Yara Elixir 100ml](/producto/lattafa-yara-elixir-edp-100ml-mla60836327) tiene un rango razonable definido — verlo a la mitad del precio de mercado es señal de pregunta, no de oferta."
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        variant: "compact",
+        description: "El árabe femenino más viral del catálogo. La etiqueta con QR oficial es la primera verificación rápida. Útil como referencia de precio honesto para detectar publicaciones sospechosas.",
+        label: "Referencia de rango real",
+        labelColor: "blue"
+      },
+      {
+        type: "h2",
+        title: "Cómo evaluar un vendedor en MercadoLibre"
+      },
+      {
+        type: "p",
+        content: "MercadoLibre muestra reputación del vendedor y, en algunos casos, medallas como MercadoLíder. Eso no convierte a nadie en infalible, pero es una señal útil."
+      },
+      {
+        type: "p",
+        content: "Para perfumes, mirá esto antes de comprar:"
+      },
+      {
+        type: "list",
+        items: [
+          "Reputación en verde.",
+          "Buen volumen de ventas (no una cuenta nueva).",
+          "Comentarios recientes, no solo históricos.",
+          "Preguntas respondidas con claridad.",
+          "Fotos o descripción específica del producto (no plantilla genérica).",
+          "Política de devolución visible en la publicación.",
+          "Que no te pidan cerrar la compra por fuera de la plataforma."
+        ]
+      },
+      {
+        type: "callout",
+        calloutVariant: "tip",
+        calloutTitle: "La pregunta que más filtra",
+        content: "Antes de comprar, hacele al vendedor esta pregunta literal: \"¿El producto viene sellado, con caja original y código o QR verificable?\". Un vendedor serio responde claro. Un vendedor flojo esquiva."
+      },
+      {
+        type: "h2",
+        title: "Compra Protegida ayuda, pero no compres sin mirar"
+      },
+      {
+        type: "p",
+        content: "MercadoLibre tiene Compra Protegida y mecanismos de reclamo si el producto no llega, llega distinto o hay un problema. Eso suma tranquilidad, pero no conviene usarlo como excusa para comprar cualquier publicación dudosa."
+      },
+      {
+        type: "p",
+        content: "En perfumes hay un detalle práctico: si abrís, rociás y después decís que no te gusta el aroma, eso no es lo mismo que recibir un producto roto, abierto o diferente al publicado. Las condiciones pueden cambiar por categoría y por caso, así que antes de comprar revisá siempre lo que muestra la publicación."
+      },
+      {
+        type: "h2",
+        title: "Qué hacer cuando llega el perfume"
+      },
+      {
+        type: "p",
+        content: "No rompas todo apenas llega. Primero revisá:"
+      },
+      {
+        type: "list",
+        items: [
+          "Filmá o sacá fotos del paquete cerrado si la compra fue cara.",
+          "Revisá que la caja coincida con la publicación.",
+          "Mirá celofán, sellos, lote y QR antes de abrir.",
+          "Si algo no cierra, no lo uses.",
+          "Contactá al vendedor desde la plataforma.",
+          "Si no responde o la respuesta no convence, iniciá el reclamo por MercadoLibre."
+        ]
+      },
+      {
+        type: "p",
+        content: "Una vez que usaste el perfume, todo se vuelve más gris. Por eso la revisión inicial importa tanto."
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes que más se falsifican o confunden"
+      },
+      {
+        type: "p",
+        content: "Los más virales son los que más cuidado merecen. No porque todos sean falsos, sino porque hay más incentivo a copiar o publicar cualquier cosa con nombres parecidos."
+      },
+      {
+        type: "table",
+        headers: ["Perfume o línea", "Por qué mirar más"],
+        rows: [
+          ["Lattafa Yara y variantes", "Mucha demanda en TikTok y varias versiones parecidas circulando"],
+          ["Lattafa Asad Intense", "Nombre popular, múltiples variantes y muchos dupes alrededor"],
+          ["Khamrah / Khamrah Qahwa", "Perfil viral, precio variable y alta rotación"],
+          ["Afnan 9PM", "Muy buscado por público masculino joven"],
+          ["Armaf Club de Nuit Intense", "Dupe famoso del Aventus, precio más alto y muchas comparaciones"]
+        ]
+      },
+      {
+        type: "p",
+        content: "Si vas por alguno de estos, no compres solo por precio. Mirá vendedor, caja, lote y reseñas con fotos. Acá tres referencias del catálogo que te sirven como ancla de cómo debería ser una publicación honesta:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        variant: "compact",
+        description: "El masculino árabe más validado del sitio: 7.245 reseñas con rating 4.6. Las señales de falsificación están bien documentadas — tapa floja, dibujo central en adhesivo en lugar de relieve, líquido demasiado transparente. Compralo a vendedor fuerte.",
+        label: "El más copiado del nicho",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        variant: "compact",
+        description: "Khamrah Qahwa: la versión café-canela-vainilla del Khamrah original. Frasco grueso con tapa pesada — las imitaciones suelen fallar acá. Verificá peso y terminación de la tapa al recibir.",
+        label: "Frasco difícil de imitar",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA16122300",
+        variant: "compact",
+        description: "Club de Nuit Intense Man 200ml: el dupe clásico del Creed Aventus. Por ser el más conocido del segmento, también el que más versiones raras tiene circulando. Confirmá que el volumen sea realmente 200ml y no un 100ml mal listado.",
+        label: "El dupe más buscado",
+        labelColor: "amber"
+      },
+      {
+        type: "pull-quote",
+        content: "Llegó la caja golpeada y el celofán mal pegado. Lo abrí igual y olía bien, pero la tapa no encajaba como en las fotos del original. Pedí devolución por MercadoLibre y la aprobaron al toque. Después lo compré a un MercadoLíder y vino impecable.",
+        attribution: "— Comprador en Argentina sobre un Lattafa Yara, abril 2025"
+      },
+      {
+        type: "h2",
+        title: "Cuándo conviene no comprar"
+      },
+      {
+        type: "p",
+        content: "Hay situaciones donde lo mejor es cerrar la pestaña:"
+      },
+      {
+        type: "list",
+        items: [
+          "El vendedor evita decir si viene sellado.",
+          "La publicación usa fotos borrosas o de otro producto.",
+          "El precio está demasiado lejos del mercado.",
+          "El título dice una marca y la descripción dice otra.",
+          "Te piden pagar por afuera de MercadoLibre.",
+          "Las opiniones hablan de \"olor raro\", \"vino abierto\" o \"no dura nada\" de forma repetida.",
+          "No queda claro el volumen real del frasco (30ml vs 100ml es una diferencia enorme)."
+        ]
+      },
+      {
+        type: "p",
+        content: "Una mala compra de perfume no solo es perder plata. También te deja una experiencia falsa con una fragancia que tal vez, original, sí era buena."
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Para comprar perfumes árabes originales en Argentina, la mejor estrategia es simple: marca real, vendedor confiable, producto sellado, precio dentro de rango y, cuando exista, QR o código verificable. No hace falta obsesionarse con cada detalle, pero si una publicación falla en tres señales al mismo tiempo, mejor pasar."
+      },
+      {
+        type: "p",
+        content: "Si estás empezando, comprá primero un perfume popular a un vendedor fuerte, no el precio más barato escondido en la página cinco. Después, cuando ya conozcas frascos, cajas y rangos, podés cazar mejores oportunidades con menos riesgo."
+      },
+      {
+        type: "p",
+        content: "Para seguir, la guía de [precios reales de perfumes árabes en Argentina](/guias/perfumes-arabes-precio-argentina) te ayuda a detectar rangos razonables. Y si todavía estás eligiendo fragancia, arrancá por la [guía completa de perfumes árabes](/guias/perfumes-arabes), el ranking de [perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) o la selección de [perfumes árabes para mujer](/guias/perfumes-arabes-mujer)."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Cómo sé si un Lattafa es original?",
+        answer: "Revisá caja, celofán, frasco, lote y etiqueta de seguridad. Si trae QR oficial, escaneálo y confirmá que abra una página de verificación de Lattafa (no una URL rara). También importa comprar a un vendedor con buena reputación y fotos claras del producto."
+      },
+      {
+        question: "¿Qué pasa si el perfume no trae QR?",
+        answer: "No significa automáticamente que sea falso, pero aumenta la necesidad de revisar otras señales: lote, caja, vendedor, precio y reseñas. Algunas tandas o líneas pueden cambiar etiquetas. Si tenés dudas, pedile fotos reales al vendedor antes de comprar."
+      },
+      {
+        question: "¿Un perfume árabe barato puede ser original?",
+        answer: "Sí. Muchas marcas árabes son más baratas que perfumes occidentales porque tienen otra estructura de costos y marketing. Lo sospechoso no es que sea barato: lo sospechoso es que esté muy por debajo del rango normal del mismo producto en otros vendedores serios."
+      },
+      {
+        question: "¿Los dupes árabes son falsificaciones?",
+        answer: "No necesariamente. Un dupe o perfume inspirado puede ser legal si se vende con su propia marca, frasco y nombre. La falsificación ocurre cuando intenta hacerse pasar por otra marca o por otro producto."
+      },
+      {
+        question: "¿Conviene comprar perfumes árabes por MercadoLibre?",
+        answer: "Puede convenir por variedad, envío y herramientas de protección al comprador. Pero hay que mirar vendedor, reputación, fotos, condiciones de devolución y que el producto sea nuevo y sellado. La plataforma ayuda, no resuelve todo sola."
+      },
+      {
+        question: "¿Qué hago si el perfume llega abierto?",
+        answer: "No lo uses. Sacá fotos del producto y del packaging, guardá todo, y contactá al vendedor desde la plataforma. Si no hay respuesta clara o no se resuelve, iniciá el reclamo correspondiente en MercadoLibre — la Compra Protegida cubre estos casos."
+      }
+    ],
+    internalLinks: [
+      { label: "Precios reales de perfumes árabes en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
+      { label: "Guía completa de perfumes árabes", href: "/guias/perfumes-arabes" },
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {

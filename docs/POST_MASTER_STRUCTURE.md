@@ -173,6 +173,27 @@ Cada truco va etiquetado. Cuando uses uno, anotalo mentalmente para no abusar.
 **Dónde**: en TODO el cuerpo. No esperar al final.
 **Regla**: si mencionás un producto en un párrafo y no hay link, falta link.
 
+**REGLA CRÍTICA — a dónde enlazar**:
+
+Todos los productos mencionados en un post **ya tienen ficha interna propia** en `/producto/<slug>`. Desde el cuerpo de un guide, **siempre enlazar a la ficha interna**, NUNCA al afiliado de MercadoLibre directamente.
+
+- ✅ **Bien (link inline)**: `[Lattafa Yara Elixir 100ml](/producto/lattafa-yara-elixir-edp-100ml-mla60836327)`
+- ✅ **Bien (product-card)**: `{ type: "product-card", productMlaId: "MLA60836327", ... }` — linkea automáticamente a la ficha interna.
+- ❌ **Mal**: `[Lattafa Yara Elixir](https://meli.la/1kwTmSn)` desde un párrafo del guide.
+- ⚠️ **Aceptable pero no óptimo**: `/producto/MLA60836327` (URL legacy, sin slug). El sistema redirige a la canónica pero genera un 301 extra. **Para guides nuevos, usar siempre el slug canónico**: `/producto/<slug-titulo>-<mla-id-en-minúscula>`.
+
+**Por qué importa**:
+- SEO: distribuye link equity dentro del sitio (la ficha interna acumula autoridad y rankea independientemente).
+- Conversión: la ficha interna ya tiene specs, pros/cons, social proof, JSON-LD optimizado. El usuario llega con más contexto y convierte más cuando finalmente va al afiliado.
+- UX: el usuario puede comparar con productos relacionados antes de salir del sitio.
+
+**Excepción**: si una guía existente NO tiene ficha de producto interna (caso raro), solo entonces se puede usar `affiliateUrl` directo. Pero antes verificar con `grep "MLA<ID>" src/data/curated-products.ts` — la mayoría de productos referenciados ya están importados.
+
+**Cómo encontrar el slug canónico de un producto**:
+1. Buscar el producto en `src/data/curated-products.ts` por su `MLA<ID>`.
+2. La URL canónica se construye como `/producto/<title-slugificado>-<mla-id-en-minúscula>`.
+3. El helper `productHref()` en `src/lib/product-url.ts` lo genera automáticamente — útil si se está scripteando.
+
 ### 4.10 Pull-quote con atribución
 **Qué hace**: cita textual de un comprador + atribución detallada.
 **Formato**: *"texto"* — Comprador en Argentina, septiembre 2024 · 180 personas lo encontraron útil.
