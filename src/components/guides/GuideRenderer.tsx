@@ -433,7 +433,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
               key={i}
               className="text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)] mb-6"
             >
-              {p}
+              {parseInlineLinks(p)}
             </p>
           ))}
 

@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import type { Guide, GuideSection } from "@/lib/types";
 import { calcReadingTime } from "@/lib/reading-time";
+import { parseInlineLinks } from "@/lib/parse-inline-links";
 
 interface ArticleHeaderProps {
   guide: Guide;
@@ -73,7 +74,7 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
       {/* Standfirst */}
       {standfirst && (
         <p className="text-lg md:text-xl leading-[1.55] text-[var(--text-secondary)] mb-6 max-w-[640px]">
-          {standfirst}
+          {parseInlineLinks(standfirst)}
         </p>
       )}
 
