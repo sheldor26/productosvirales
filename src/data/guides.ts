@@ -3615,8 +3615,10 @@ export const guides: Guide[] = [
     slug: "mejores-freidoras-de-aire-economicas-argentina",
     category: "freidoras-de-aire",
     title: `Freidoras de aire económicas: ¿Se puede gastar poco y no arrepentirse?`,
-    seoTitle: `Freidoras de aire económicas: ¿Se puede gastar poco y no arrepentirse?`,
+    seoTitle: `Freidoras de aire económicas Argentina 2026: ¿valen la pena?`,
     metaDescription: `Freidoras de aire económicas en Argentina 2026: PowerXL 3.8L, Kanji Home 8L y Gadnic 6.5L comparadas. Qué ganás y qué perdés al elegir precio bajo.`,
+    ogTitle: `Freidoras de aire económicas Argentina: ¿se puede gastar poco sin arrepentirse?`,
+    ogDescription: `PowerXL, Kanji Home y Gadnic — las opciones de freidora de aire desde $25.000. Cuánto se ahorra, qué se pierde y para quién sí o sí conviene la económica.`,
     h1: `Freidoras de aire económicas: El dulce entre gastar poco y no llorar después`,
     publishedDate: "2026-06-07",
     updatedDate: "2026-06-07",
@@ -4298,8 +4300,10 @@ export const guides: Guide[] = [
     slug: "freidora-de-aire-desventajas",
     category: "freidoras-de-aire",
     title: `Desventajas de la freidora de aire: lo que nadie te dice antes de comprar`,
-    seoTitle: `Desventajas de la freidora de aire: lo que nadie te dice antes de comprar`,
+    seoTitle: `Desventajas de la freidora de aire: lo que tenés que saber`,
     metaDescription: `Las desventajas reales de la freidora de aire que importan antes de comprar: tamaño, ruido, resultado, consumo y más. Honesto y sin vender humo.`,
+    ogTitle: `Las desventajas de la freidora de aire que importan antes de comprar`,
+    ogDescription: `Tamaño, ruido, resultado, consumo y otras desventajas reales. Análisis honesto sin marketing — solo lo que importa antes de gastar plata en una freidora de aire en Argentina.`,
     h1: `Desventajas de la freidora de aire: lo que nadie te dice antes de comprar`,
     publishedDate: "2026-07-02",
     updatedDate: "2026-07-02",
@@ -4400,6 +4404,14 @@ export const guides: Guide[] = [
         answer: `Sí, casi todas tienen un olor a plástico o a silicona nueva durante los primeros 2-3 usos. Desaparece solo. Se recomienda hacer un primer ciclo en vacío a temperatura alta antes del primer uso con comida.`,
       },
     ],
+    internalLinks: [
+      { label: `¿Vale la pena comprar una freidora de aire?`, href: "/guias/vale-la-pena-comprar-freidora-de-aire" },
+      { label: `Freidora de aire vs horno: cuál conviene en Argentina`, href: "/guias/freidora-de-aire-vs-horno" },
+      { label: `Cuánto consume una freidora de aire`, href: "/guias/cuanto-consume-freidora-de-aire" },
+      { label: `Mejores freidoras de aire en Argentina 2026`, href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: `Cómo usar una freidora de aire`, href: "/guias/como-usar-una-freidora-de-aire" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
   },
 
   {
@@ -5842,8 +5854,10 @@ export const guides: Guide[] = [
     slug: "powerxl-freidora-review",
     category: "freidoras-de-aire",
     title: `PowerXL AF-E4001-AR freidora de aire 3.8L: review para Argentina 2026`,
-    seoTitle: `PowerXL AF-E4001-AR freidora de aire 3.8L: review para Argentina 2026`,
+    seoTitle: `PowerXL AF-E4001-AR 3.8L: review Argentina (2026)`,
     metaDescription: `Review del PowerXL AF-E4001-AR 3.8 litros en Argentina. La freidora más compacta y económica del mercado: para quién sirve y sus limitaciones reales.`,
+    ogTitle: `PowerXL AF-E4001-AR 3.8L: la freidora más barata del mercado, ¿vale la pena?`,
+    ogDescription: `Compacta, económica y básica. Probamos el PowerXL AF-E4001-AR de 3.8L (rango $12.000-15.000): qué cocina bien, qué no, y para quién es la opción correcta en Argentina.`,
     h1: `PowerXL AF-E4001-AR 3.8L: Freidora Económica para Espacios Ajustados`,
     publishedDate: "2026-06-25",
     updatedDate: "2026-06-25",
@@ -7983,7 +7997,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "En perfumes árabes, el mejor precio no siempre es el más bajo. Casi siempre es el más bajo dentro de vendedores confiables. Por ejemplo, el [Lattafa Yara Elixir 100ml](/producto/lattafa-yara-elixir-edp-100ml-mla60836327) tiene un rango razonable definido — verlo a la mitad del precio de mercado es señal de pregunta, no de oferta."
+        content: "En perfumes árabes, el mejor precio no siempre es el más bajo. Casi siempre es el más bajo dentro de vendedores confiables. Por ejemplo, el [Lattafa Yara Elixir 100ml](https://meli.la/2NrY6fF) tiene un rango razonable definido — verlo a la mitad del precio de mercado es señal de pregunta, no de oferta."
       },
       {
         type: "product-card",
@@ -8218,7 +8232,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Hay cuatro canales reales en 2026: **MercadoLibre** (la opción principal por variedad, protección al comprador y precios competitivos), **perfumerías físicas con sección árabe** (en CABA y ciudades grandes, ideal para oler antes de comprar), **importadores independientes en redes sociales** (Instagram principalmente, precios atractivos pero menos respaldo) y **free shop** (limitado a viajeros, stock de marcas top como Lattafa y Armaf). Para la mayoría de los casos, MercadoLibre con un vendedor MercadoLíder Platinum o Gold es el camino más balanceado entre precio, seguridad y disponibilidad."
+        content: "Hay cuatro canales reales en 2026: **MercadoLibre** (la opción principal por variedad, protección al comprador y precios competitivos), **perfumerías físicas con sección árabe** (en CABA y ciudades grandes, ideal para oler antes de comprar), **importadores independientes en redes sociales** (Instagram principalmente, precios atractivos pero menos respaldo) y **free shop** (limitado a viajeros, stock de marcas top como [Lattafa](https://meli.la/2NrY6fF) y [Armaf](https://meli.la/1BzsFJE)). Para la mayoría de los casos, MercadoLibre con un vendedor MercadoLíder Platinum o Gold es el camino más balanceado entre precio, seguridad y disponibilidad."
       },
       {
         type: "trust-block",
@@ -8246,7 +8260,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "MercadoLibre concentra hoy el 70-80% del mercado de perfumes árabes en Argentina. Tiene desde los Lattafa más vendidos hasta marcas de nicho como Maison Alhambra, Al Wataniah o Khadlaj. La diferencia clave: variedad enorme y protección al comprador real (Compra Protegida), a cambio de tener que filtrar entre vendedores buenos y vendedores flojos."
+        content: "MercadoLibre concentra hoy el 70-80% del mercado de perfumes árabes en Argentina. Tiene desde los Lattafa más vendidos ([Yara Elixir](https://meli.la/2NrY6fF), [Asad Intense](https://meli.la/26owfqo), [Khamrah Qahwa](https://meli.la/1B8Vwwf)) hasta marcas de nicho como Maison Alhambra, Al Wataniah o Khadlaj. La diferencia clave: variedad enorme y protección al comprador real (Compra Protegida), a cambio de tener que filtrar entre vendedores buenos y vendedores flojos."
       },
       {
         type: "p",
@@ -8266,7 +8280,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "En 2026 ya hay perfumerías en CABA, GBA, Córdoba, Rosario y Mendoza que tienen sección árabe. Las cadenas grandes (Juleriaque, Pigmento) suelen tener Lattafa Yara, Asad y Afnan 9PM en exposición. Locales especializados independientes (sobre todo en Palermo y Recoleta) tienen muestrarios más amplios incluyendo Maison Alhambra y Armaf."
+        content: "En 2026 ya hay perfumerías en CABA, GBA, Córdoba, Rosario y Mendoza que tienen sección árabe. Las cadenas grandes (Juleriaque, Pigmento) suelen tener [Lattafa Yara](https://meli.la/2NrY6fF), [Asad](https://meli.la/26owfqo) y [Afnan 9PM](https://meli.la/2WWHx34) en exposición. Locales especializados independientes (sobre todo en Palermo y Recoleta) tienen muestrarios más amplios incluyendo Maison Alhambra y [Armaf](https://meli.la/1BzsFJE)."
       },
       {
         type: "p",
@@ -8443,6 +8457,1577 @@ export const guides: Guide[] = [
       { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
       { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
       { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
+  {
+    slug: "lattafa-guia-marca",
+    category: "perfumes-arabes",
+    title: "Lattafa perfumes: guía completa de la marca árabe más vendida en Argentina",
+    seoTitle: "Lattafa: guía completa de la marca árabe más vendida (2026)",
+    metaDescription:
+      "Lattafa, la marca árabe líder en MercadoLibre Argentina: las 8 mejores fragancias (Yara, Asad, Khamrah, Fakhar), cuál comprar según tu perfil y precios reales 2026.",
+    ogTitle: "Lattafa: la marca que se llevó el nicho árabe en Argentina",
+    ogDescription:
+      "Yara, Asad, Khamrah, Fakhar. Lattafa domina TikTok argentino con perfumes que rivalizan con Dior y Creed a un décimo del precio. La guía completa de la marca con sus líneas, precios y veredictos.",
+    h1: "Lattafa: la guía completa de la marca árabe más vendida en Argentina (2026)",
+    publishedDate: "2026-05-29",
+    updatedDate: "2026-05-29",
+    hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLA60836327", label: "Nuestra elección mujer", labelColor: "green", tagline: "Lattafa Yara Elixir: el árabe femenino más viral de Argentina. Dulce-cítrico con 8h de duración." },
+      { productMlaId: "MLA19715215", label: "Nuestra elección hombre", labelColor: "green", tagline: "Lattafa Asad Intense: el masculino más validado (7.245 reseñas, 4.6⭐). Especiado-amaderado." },
+      { productMlaId: "MLA31178643", label: "Unisex viral", labelColor: "amber", tagline: "Lattafa Khamrah Qahwa: café, canela, vainilla y dátiles. El gourmand árabe del momento." },
+      { productMlaId: "MLA51612102", label: "Para empezar", labelColor: "blue", tagline: "Set My Yara Collection: 4 miniaturas de 25ml. Probás cuatro perfiles por el precio de un frasco grande." }
+    ],
+    intro: [
+      "Hace cuatro años, Lattafa era una casa de perfumería de Sharjah (Emiratos Árabes) que pocos en Argentina conocían fuera de coleccionistas. En 2026 es la marca árabe más vendida del país, líder en TikTok, y la primera respuesta cuando alguien busca \"perfume árabe\" en MercadoLibre. El cambio fue rápido y se debe a tres cosas: precios que rompen el mercado occidental, fragancias que aguantan la comparación con Dior, Creed y YSL, y una línea (Yara) que se volvió fenómeno cultural.",
+      "Esta guía cubre todo lo que tenés que saber sobre Lattafa en Argentina: sus líneas principales, los 8 mejores perfumes según perfil, calidad real, cómo verificar autenticidad y cuál te conviene si recién arrancás. Trabajamos con las 21 fragancias Lattafa disponibles en el catálogo y los patrones de cientos de reseñas reales de compradores argentinos."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Lattafa Yara Elixir, la fragancia árabe femenina más vendida en Argentina",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Cuál es el mejor perfume Lattafa?",
+        id: "cual-es-el-mejor-perfume-lattafa"
+      },
+      {
+        type: "p",
+        content: "Depende del perfil, pero hay tres respuestas que cubren el 80% de los casos. Para mujer: **Lattafa Yara Elixir** — la versión más intensa de la línea viral, dulce con cítricos, 8 horas de duración. Para hombre: **Lattafa Asad Intense** — el más validado del catálogo argentino con 7.245 reseñas y rating 4.6, especiado-amaderado con base avainillada. Unisex: **Lattafa Khamrah Qahwa** — café, canela, vainilla y dátiles, el gourmand árabe que arrasa en TikTok. Si nunca probaste Lattafa, **empezá con el set My Yara Collection** de 4 miniaturas: probás cuatro perfiles distintos por menos de lo que sale un frasco grande."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos esta guía",
+        content: "Procesamos los 21 productos Lattafa del catálogo argentino y los cruzamos con: volumen de reseñas en MercadoLibre, rating, comentarios reales de compradores en AR / BR / UY / CL / CO, comparaciones con perfumes occidentales que aparecen consistentemente en reviews, y precio de mercado abril-mayo 2026. El ranking final prioriza validación comunitaria sobre precio, y disponibilidad real en Argentina sobre presencia internacional de la marca."
+      },
+      {
+        type: "h2",
+        title: "Lattafa en 90 segundos"
+      },
+      {
+        type: "p",
+        content: "Lattafa Perfumes es una casa de perfumería con sede en Sharjah, Emiratos Árabes Unidos. Trabaja desde hace más de una década, pero su explosión global ocurrió entre 2022 y 2024, cuando creadores de contenido de TikTok empezaron a comparar sus fragancias con perfumes occidentales premium. La línea Yara, lanzada en 2017, fue el catalizador: una mujer compartió que su Yara duraba más y olía mejor que un Dior Sauvage para mujer, y el video voló."
+      },
+      {
+        type: "p",
+        content: "El modelo de Lattafa rompe el costo tradicional de la perfumería: alta concentración de aceites perfumados (8-12 horas de duración real frente a 4-6 de muchos occidentales), notas como oud, ámbar gris, azafrán y ud cambodi que las marcas francesas evitan por costo, y precio final en Argentina que va de $40.000 a $90.000 cuando un Dior o un Chanel importado pasa los $300.000."
+      },
+      {
+        type: "h2",
+        title: "Las líneas más fuertes de Lattafa"
+      },
+      {
+        type: "p",
+        content: "Lattafa tiene más de 100 fragancias en su portafolio global, pero en Argentina cinco líneas concentran la demanda real:"
+      },
+      {
+        type: "table",
+        headers: ["Línea", "Perfil olfativo", "Para quién", "Rango de precio AR"],
+        rows: [
+          ["Yara", "Dulce-cítrico-floral", "Mujer joven, fan de TikTok beauty", "$42.000 - $52.000"],
+          ["Asad", "Especiado-amaderado-vainilla", "Hombre +25, otoño-invierno", "$48.000 - $62.000"],
+          ["Khamrah", "Gourmand café-canela-dátiles", "Unisex, climas fríos, nocturno", "$55.000 - $75.000"],
+          ["Fakhar", "Oriental-amaderado-ahumado", "Premium árabe, sofisticado", "$60.000 - $85.000"],
+          ["Her Confession", "Praliné-vainilla-dulce intenso", "Mujer, noche, gourmand", "$45.000 - $58.000"]
+        ]
+      },
+      {
+        type: "h2",
+        title: "Los 8 mejores Lattafa para Argentina (2026)"
+      },
+      {
+        type: "h3",
+        title: "1. Lattafa Yara Elixir — el viral femenino más vendido"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        description: "Apertura con mandarina y durazno, corazón de flor de naranjo y caramelo, base oriental con vainilla, almizcle y ámbar. La versión más intensa de toda la línea Yara, lanzada en 2025. 8 horas de duración con buen anclaje. Si tenés que elegir un solo Lattafa femenino, este es el más seguro.",
+        ranking: 1
+      },
+      {
+        type: "p",
+        content: "La línea Yara tiene seis variantes: Elixir es la más concentrada, [Tous](https://meli.la/1kwTmSn) es tropical-frutal para verano, [Candy](https://meli.la/2XYzvaU) es la versión gourmand-rosa, y hay Moi, original y la edición aniversario. La comparativa completa la cubrimos en la [guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)."
+      },
+      {
+        type: "h3",
+        title: "2. Lattafa Asad Intense — el masculino más validado"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        description: "El rey del nicho masculino árabe en Argentina. 7.245 reseñas con rating 4.6. Apertura con pimienta negra, piña y tabaco; corazón de pachulí, café e iris; fondo amaderado con vainilla, ámbar, madera seca, benjuí y ládano. Comparado constantemente con Dior Sauvage Elixir a una décima parte del precio. Otoño-invierno, noche y eventos elegantes.",
+        ranking: 2
+      },
+      {
+        type: "pull-quote",
+        content: "Producto original. Es realmente una locura, 3 sprays y proyecta que da calambre, dura 8 horas por lo menos y le gusta a todo el mundo.",
+        attribution: "— Comprador en Argentina sobre Asad Intense, septiembre 2024 · 180 personas lo encontraron útil"
+      },
+      {
+        type: "h3",
+        title: "3. Lattafa Khamrah Qahwa — el gourmand viral"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        description: "La versión café-canela-vainilla-dátiles de la línea Khamrah. Unisex, intenso, perfecto para otoño e invierno. Frasco grueso con tapa pesada que es difícil de imitar (señal extra de autenticidad). El gourmand árabe que arrasa en TikTok y rivaliza con Tobacco Vanille de Tom Ford.",
+        ranking: 3
+      },
+      {
+        type: "p",
+        content: "Si te gusta el perfil pero querés más concentración, la [versión Parfum](https://meli.la/139RJXC) tiene mayor proyección y duración. Para Khamrah clásico (sin Qahwa), conviene verificar disponibilidad — rota seguido en el catálogo argentino."
+      },
+      {
+        type: "h3",
+        title: "4. Lattafa Her Confession — el dulce nocturno femenino"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA41304983",
+        description: "Praliné, vainilla y fondo oriental. Perfume de noche clásico con proyección fuerte — quizás demasiado si lo usás de día. Para mujer que busca un gourmand sensual sin pagar Mugler Alien.",
+        ranking: 4
+      },
+      {
+        type: "h3",
+        title: "5. Lattafa Fakhar Gold Extract — el premium unisex"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA32488004",
+        description: "Fakhar Pride Gold Extract en versión EDP. Oriental-amaderado-ahumado con base de oud y ámbar. La línea más cara del portafolio Lattafa en Argentina pero todavía a un tercio del precio de equivalentes occidentales. Para quien ya conoce árabes y quiere subir un escalón.",
+        ranking: 5
+      },
+      {
+        type: "h3",
+        title: "6. Lattafa The Kingdom Man — el masculino premium"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA41178086",
+        description: "Oriental-amaderado-especiado con base de oud y vetiver. Perfil más sofisticado que Asad, menos viral pero más exclusivo. Para hombre que busca presencia en oficina ejecutiva o evento formal.",
+        ranking: 6
+      },
+      {
+        type: "h3",
+        title: "7. Lattafa Yara Tous — el árabe femenino para verano"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA40521028",
+        description: "La versión tropical de la línea Yara: mango, coco, jazmín y vainilla. Más fresca y diurna que Yara Elixir. 4.7⭐ con 471 reseñas. Incluye estuche, ideal para regalar. La mejor Yara si vivís en zona cálida o querés algo menos pesado.",
+        ranking: 7
+      },
+      {
+        type: "h3",
+        title: "8. Lattafa Emeer — el oriental masculino accesible"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA28754461",
+        description: "Oriental amaderado con vainilla y especias. Frasco con luces (gimmick visual pero buen detalle de regalo). Para hombre que quiere algo distinto a Asad sin pagar Fakhar. Precio intermedio del catálogo Lattafa.",
+        ranking: 8
+      },
+      {
+        type: "h2",
+        title: "Cómo elegir tu primer Lattafa según tu perfil"
+      },
+      {
+        type: "p",
+        content: "El error más común al arrancar es comprar el más viral sin pensar si encaja con vos. Una regla simple por perfil:"
+      },
+      {
+        type: "list",
+        items: [
+          "**Mujer joven, primera vez con árabes**: Yara Elixir o Yara Tous (versión verano).",
+          "**Mujer que busca gourmand nocturno**: Her Confession o Khamrah Qahwa.",
+          "**Hombre +25, otoño-invierno**: Asad Intense.",
+          "**Hombre que busca algo sofisticado para oficina**: The Kingdom Man o Fakhar Gold Extract.",
+          "**Unisex, querés probar el perfil árabe gourmand**: Khamrah Qahwa.",
+          "**Estás indeciso entre 3-4 opciones**: el set My Yara Collection o un decant de 5-10ml del que más te interese."
+        ]
+      },
+      {
+        type: "h2",
+        title: "Calidad y duración real: qué esperar"
+      },
+      {
+        type: "p",
+        content: "Lattafa informa duraciones oficiales de 12-13 horas en la mayoría de sus EDP. Los compradores en Argentina reportan **6-10 horas en piel** según tipo (pieles secas duran menos, pieles grasas más), con permanencia notable en ropa al día siguiente. Esa diferencia entre lo oficial y lo real es normal en cualquier perfume — pero conviene saberla antes de comprar para no decepcionarte si esperás 13h exactas."
+      },
+      {
+        type: "p",
+        content: "Proyección: alta en general. Con 3 sprays alcanza para la mayoría de los Lattafa intensos. Más cantidad puede volverse invasivo en ambientes cerrados — sobre todo con Asad Intense, Khamrah y Her Confession."
+      },
+      {
+        type: "p",
+        content: "Estacionalidad: la mayoría de los Lattafa amaderados y gourmands funcionan mejor en otoño-invierno. Para verano, mejor Yara Tous, las versiones más cítricas de Yara o perfiles frescos de otras marcas árabes."
+      },
+      {
+        type: "h2",
+        title: "¿Es original? cómo verificar tu Lattafa"
+      },
+      {
+        type: "p",
+        content: "Lattafa tiene un sistema oficial de verificación con QR en la etiqueta de seguridad. Escaneás el código y te lleva a una página de verificación de la marca. Esto es lo primero que mirá al recibir el producto."
+      },
+      {
+        type: "p",
+        content: "Otras señales de un Lattafa original: caja con celofán prolijo, tipografía sin errores ni borrones, frasco con tapa que encaja firme, dibujo central del frasco en relieve (no adhesivo), líquido con tono coloreado consistente con la línea (no transparente cristal). Las señales completas están en [perfumes árabes originales](/guias/perfumes-arabes-originales)."
+      },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Lattafa es la marca árabe más copiada en Argentina",
+        content: "Por ser la más vendida, es también la que más falsificaciones tiene en circulación. Especialmente Yara, Asad y Khamrah. La regla simple: comprar a MercadoLíder Platinum o Gold con +500 ventas y comentarios recientes con fotos. Si encontrás un Lattafa a la mitad del precio promedio, no es oferta — es pregunta."
+      },
+      {
+        type: "h2",
+        title: "Lattafa vs Afnan, Rasasi y Armaf"
+      },
+      {
+        type: "p",
+        content: "Las cuatro casas árabes más vendidas en Argentina son Lattafa, Afnan, Rasasi y Armaf. Hacen perfumes distintos para públicos parcialmente solapados."
+      },
+      {
+        type: "table",
+        headers: ["Casa", "Fuerte en", "Estilo distintivo", "Mejor producto AR"],
+        rows: [
+          ["Lattafa", "Volumen, viralidad, accesibilidad", "Dulces, gourmands, frutales viralizados", "Yara Elixir / Asad Intense"],
+          ["Afnan", "Calidad consistente, gourmands clásicos", "Café, vainilla, manzana", "9PM"],
+          ["Rasasi", "Frescos cítricos, alternativas a Invictus", "Manzana congelada, ámbar marino", "Hawas Ice"],
+          ["Armaf", "Dupes de premiums (Aventus, Sauvage)", "Amaderados-frutales para hombre", "Club de Nuit Intense Man 200ml"]
+        ]
+      },
+      {
+        type: "p",
+        content: "Para una primera compra árabe, Lattafa es el camino más seguro: variedad enorme, precios accesibles y los perfumes más virales del nicho. Para una segunda o tercera compra, vale la pena explorar Afnan ([9PM](https://meli.la/2WWHx34) es el referente) o Armaf si buscás dupes premium ([Club de Nuit Intense Man](https://meli.la/1BzsFJE) es el dupe clásico del Aventus)."
+      },
+      {
+        type: "h2",
+        title: "El truco del kit de miniaturas"
+      },
+      {
+        type: "p",
+        content: "Antes de gastar $50.000 en un 100ml, hay una opción que muchos no conocen y que es la mejor entrada al nicho:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA51612102",
+        description: "Set My Yara Collection: 4 miniaturas de 25ml de la línea Yara completa. Probás cuatro perfiles femeninos por menos de lo que sale un solo frasco grande. Si nunca usaste Lattafa, este es el punto de entrada inteligente — después comprás el 100ml de la que más te gustó.",
+        label: "Para empezar sin equivocarte",
+        labelColor: "blue"
+      },
+      {
+        type: "p",
+        content: "Para el lado masculino, el equivalente sería conseguir decants de 5-10ml de los 3-4 Lattafa que te interesen. Algunos vendedores en MercadoLibre los ofrecen — buscá \"decant Lattafa\" para ver opciones."
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Lattafa es la mejor puerta de entrada al nicho árabe en Argentina por tres razones: precio accesible (desde $42.000), variedad enorme (21 fragancias en el catálogo) y respaldo de validación masiva en MercadoLibre. Para la mayoría de los casos no hace falta ir más lejos: Yara Elixir cubre a la mayoría de las mujeres, Asad Intense cubre a la mayoría de los hombres, Khamrah Qahwa cubre el caso unisex viral."
+      },
+      {
+        type: "p",
+        content: "Lo único que vale la pena tener en cuenta: Lattafa es también la marca más copiada del nicho. Comprala a vendedor con reputación verde, verificá el QR oficial al recibir, y si el precio está muy por debajo del rango normal, mejor pasar. Las señales completas están en [perfumes árabes originales](/guias/perfumes-arabes-originales) y los rangos de precio reales en [dónde comprar perfumes árabes en Argentina](/guias/donde-comprar-perfumes-arabes-argentina)."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Cuál es el mejor Lattafa para hombre?",
+        answer: "Lattafa Asad Intense, sin discusión por volumen de validación: 7.245 reseñas con rating 4.6 en MercadoLibre Argentina. Es el más vendido y el más comparado positivamente con Dior Sauvage Elixir. Si buscás algo más premium o sofisticado, The Kingdom Man o Fakhar Gold Extract son las alternativas dentro de la marca."
+      },
+      {
+        question: "¿Cuál es el mejor Lattafa para mujer?",
+        answer: "Lattafa Yara Elixir si querés el perfil dulce-cítrico viral de TikTok. Yara Tous si preferís algo más fresco y tropical para verano. Her Confession si buscás un gourmand nocturno tipo praliné-vainilla. Para no equivocarte en la primera compra, el set My Yara Collection de 4 miniaturas te permite probar varios perfiles antes de comprometerte al frasco grande."
+      },
+      {
+        question: "¿Cuánto cuesta un Lattafa original en Argentina?",
+        answer: "Los rangos reales para 100ml en MercadoLibre con vendedores confiables, en abril-mayo 2026: línea Yara entre $42.000 y $52.000; Asad Intense entre $48.000 y $62.000; Khamrah Qahwa entre $55.000 y $75.000; Fakhar Gold Extract entre $60.000 y $85.000. Si ves un Lattafa muy por debajo de esos rangos, conviene verificar antes de comprar."
+      },
+      {
+        question: "¿Lattafa es mejor que Afnan o Rasasi?",
+        answer: "No es mejor ni peor — es distinto. Lattafa tiene más variedad y los productos más virales (Yara, Asad). Afnan tiene gourmands más clásicos como el 9PM. Rasasi destaca en frescos cítricos (Hawas Ice). Armaf hace los mejores dupes de premiums (Club de Nuit). Para empezar Lattafa es lo más seguro, pero al segundo o tercer perfume conviene explorar las otras casas."
+      },
+      {
+        question: "¿Cuánto dura un Lattafa en la piel?",
+        answer: "Lattafa informa 12-13 horas oficiales en la mayoría de sus EDP. Los compradores en Argentina reportan entre 6 y 10 horas en piel reales, con permanencia notable en ropa al día siguiente. La duración depende del tipo de piel (las pieles grasas retienen más), la cantidad aplicada (3 sprays es el consenso) y el clima."
+      },
+      {
+        question: "¿Cómo saber si mi Lattafa es original?",
+        answer: "Escaneá el QR en la etiqueta de seguridad de la caja con la cámara del teléfono — debe abrir una página oficial de verificación de Lattafa. Confirmá: caja con celofán prolijo, tipografía sin errores, frasco con tapa firme, dibujo central en relieve (no adhesivo), líquido con color consistente. El detalle completo de señales de autenticidad está en la guía de perfumes árabes originales."
+      },
+      {
+        question: "¿Conviene comprar el set My Yara Collection?",
+        answer: "Sí, si nunca usaste un Lattafa femenino. Te permite probar cuatro perfiles (Yara, Tous, Candy, otra variante) en miniaturas de 25ml por menos de lo que sale un 100ml de la línea Yara. Después comprás el frasco grande de la que más te gustó. Es la entrada más inteligente al nicho."
+      }
+    ],
+    internalLinks: [
+      { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" },
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Perfumes árabes originales: cómo identificarlos", href: "/guias/perfumes-arabes-originales" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" },
+      { label: "Precios reales de perfumes árabes en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
+      { label: "Guía completa de perfumes árabes", href: "/guias/perfumes-arabes" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
+  {
+    slug: "perfumes-arabes-por-color",
+    category: "perfumes-arabes",
+    title: "Perfumes árabes por color del envase: rosa, dorado, azul, marrón y más",
+    seoTitle: "Perfumes árabes por color: rosa, dorado, azul y más (2026)",
+    metaDescription:
+      "Identificá el perfume árabe que viste en TikTok por el color del envase: rosa, dorado, azul, marrón, rojo, blanco. Nombres exactos, precios y dónde comprar en Argentina.",
+    ogTitle: "El perfume árabe rosa que viste en TikTok: nombre exacto y dónde está",
+    ogDescription:
+      "Lo viste en un reel, no recordás cómo se llama, pero recordás el color. Esta guía lista los perfumes árabes más buscados de Argentina ordenados por color del envase — con nombre exacto, perfil olfativo y precio real.",
+    h1: "Perfumes árabes por color del envase: encontrá el frasco viral por su color (2026)",
+    publishedDate: "2026-06-01",
+    updatedDate: "2026-06-01",
+    hasDisclosure: true,
+    intro: [
+      "Pasa todo el tiempo: ves un perfume árabe en un reel de TikTok, te llama la atención, pero no escuchaste bien el nombre. Lo único que recordás es el color del envase. Rosa pastel, dorado intenso, azul cristal, marrón café. Esta guía resuelve exactamente ese problema.",
+      "Listamos los perfumes árabes más buscados en Argentina ordenados por color del frasco, con su nombre exacto, perfil olfativo, precio y link directo a la ficha. Cubrimos los seis colores que más se buscan en Google según datos reales: rosa, dorado, azul, marrón, rojo y blanco — más algunas variantes menos comunes."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Perfumes árabes ordenados por color del envase en Argentina: Yara dorado, Yara Tous rosa, Khamrah marrón",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Cómo se llama el perfume árabe rosa / dorado / azul que viste?",
+        id: "como-se-llama-el-perfume-arabe-por-color"
+      },
+      {
+        type: "p",
+        content: "Por color de envase, los más buscados en Argentina son: **rosa** → Lattafa Yara Tous, Yara Candy, Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos esta guía",
+        content: "Cruzamos los colores más buscados en Argentina (datos de Ubersuggest para queries como \"perfume árabe rosa\", \"perfume árabe dorado\", etc.) con los productos reales disponibles en MercadoLibre Argentina. Cuando un color tiene múltiples productos posibles, priorizamos por volumen de reseñas y rating. El objetivo es que llegues al perfume correcto en el primer intento aunque solo recuerdes el color."
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes rosa"
+      },
+      {
+        type: "p",
+        content: "El color rosa es el más buscado en perfumes árabes femeninos. La mayoría son de la línea Yara de Lattafa, con tonos que van del pastel al rosa intenso. Estos son los tres principales:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA40521028",
+        variant: "compact",
+        description: "Yara Tous: envase rosa coral con tapa dorada. Tropical-frutal con mango, coco, jazmín y vainilla. 4.7⭐ con 471 reseñas. La opción más fresca de la línea Yara — ideal para verano y uso diurno. Incluye estuche para regalo.",
+        label: "Rosa coral con dorado",
+        labelColor: "blue"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA39865991",
+        variant: "compact",
+        description: "Yara Candy: rosa intenso con detalles dorados. Gourmand-floral con notas de caramelo, vainilla y frutos rojos. Más dulce y nocturno que Yara Tous. La versión más \"sweet\" de toda la línea.",
+        label: "Rosa intenso gourmand",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLAU2983186467",
+        variant: "compact",
+        description: "Yara original: rosa con dorado, el frasco icónico que arrancó el fenómeno TikTok. Tuberosa, almizcle, orquídea y vainilla. Más floral que sus variantes posteriores. La puerta de entrada a la línea.",
+        label: "Rosa-dorado clásico",
+        labelColor: "amber"
+      },
+      {
+        type: "p",
+        content: "Si buscabas un perfume rosa más floral y menos asociado a la línea Yara, [Sabah Al Ward](/guias/perfumes-arabes-mujer) (rosa con dorado, floral-oriental) y [Bade'e Al Oud Noble Blush](/guias/perfumes-arabes-mujer) (rosa rubor con detalle dorado) son alternativas dentro del catálogo. Para todas las versiones de Yara comparadas en detalle, ver la [guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)."
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes dorados"
+      },
+      {
+        type: "p",
+        content: "El dorado es el color premium del nicho árabe — asociado a las líneas más caras o más \"de noche\". Estos son los más vendidos en Argentina:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        variant: "compact",
+        description: "Yara Elixir: dorado intenso con detalles oscuros. La versión más concentrada de la línea Yara — dulce-cítrico-oriental con vainilla y ámbar. 8 horas de duración con buen anclaje. El árabe femenino más viral de 2025-2026.",
+        label: "Dorado femenino top",
+        labelColor: "green"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA32488004",
+        variant: "compact",
+        description: "Fakhar Gold Extract: dorado masivo con tapa cobriza. Oriental-amaderado-ahumado con oud y ámbar. La línea más cara del portafolio Lattafa pero todavía a un tercio del precio de equivalentes occidentales. Unisex.",
+        label: "Dorado premium unisex",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19053146",
+        variant: "compact",
+        description: "Bharara King: dorado clásico con corona en el cap. Oriental-especiado-amaderado para hombre. Marca premium del nicho con presencia fuerte en Argentina. Para evento formal o noche elegante.",
+        label: "Dorado masculino premium",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA37755803",
+        variant: "compact",
+        description: "Maahir Legacy: dorado oscuro con dorado claro. Oriental-amaderado intenso con duración alta. La alternativa Lattafa premium para hombre cuando ya conocés Asad y querés algo más sofisticado.",
+        label: "Dorado masculino sofisticado",
+        labelColor: "amber"
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes azules y celestes"
+      },
+      {
+        type: "p",
+        content: "El azul y el celeste son los colores asociados a perfiles frescos-acuáticos-cítricos. En el nicho árabe son menos comunes pero los dos que existen son referencia obligada:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA16122300",
+        variant: "compact",
+        description: "Club de Nuit Intense Man: azul oscuro casi negro con tapa plateada. El dupe clásico del Creed Aventus para hombre. Frutal-amaderado-ahumado con piña, abedul y pachulí. 200ml de frasco — alcanza para 2-3 años. Comparado constantemente con perfumes que cuestan 4 veces más.",
+        label: "Azul oscuro — el dupe del Aventus",
+        labelColor: "blue"
+      },
+      {
+        type: "p",
+        content: "Si buscás algo más celeste y refrescante, el **Rasasi Hawas Ice** (envase celeste cristal) es el otro referente — un fresco frutal con manzana congelada que se compara constantemente con el Paco Rabanne Invictus. Es uno de los pocos árabes pensados para verano y deporte. Lo cubrimos en detalle en [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes marrones, café o oscuros"
+      },
+      {
+        type: "p",
+        content: "El marrón es el color de los perfumes árabes más \"de invierno\": gourmands con café, vainilla, tabaco o canela. Estos son los principales:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        variant: "compact",
+        description: "Khamrah Qahwa: marrón café con detalles dorados. Café tostado, canela, vainilla y dátiles. Unisex, intenso, perfecto para otoño-invierno. El gourmand árabe que arrasa en TikTok y rivaliza con Tobacco Vanille de Tom Ford.",
+        label: "Café/marrón viral",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        variant: "compact",
+        description: "Asad Intense: marrón oscuro casi rojo con tapa dorada. El masculino árabe más validado del catálogo argentino: 7.245 reseñas, rating 4.6. Especiado-amaderado con base avainillada. Comparado con Dior Sauvage Elixir a una décima parte del precio.",
+        label: "Marrón rojizo masculino top",
+        labelColor: "green"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19846768",
+        variant: "compact",
+        description: "Afnan 9PM: marrón oscuro con detalles dorados. Café, canela, vainilla y ámbar — un postre en perfume. Ideal para otoño e invierno, proyecta fuerte, dura 10 horas. No es para oficina diurna.",
+        label: "Marrón gourmand masculino",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA41304983",
+        variant: "compact",
+        description: "Her Confession: marrón con tapa dorada. Praliné, vainilla y fondo oriental. Perfume de noche femenino con proyección fuerte. Para mujer que busca un gourmand sensual sin pagar Mugler Alien.",
+        label: "Marrón femenino dulce",
+        labelColor: "amber"
+      },
+      {
+        type: "p",
+        content: "Otras variantes oscuras: [Asad Bourbon](https://meli.la/1qWMdCK) (marrón bourbon con notas de tabaco) y [Asad Negro](https://meli.la/2t9EpWq) (la versión más oscura de la familia Asad). Para conocer las diferencias entre los tres Asad, mirá la comparativa específica."
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes rojos"
+      },
+      {
+        type: "p",
+        content: "El rojo no es un color tan común en el nicho árabe, pero hay opciones. El más buscado bajo \"perfume árabe rojo\" suele ser:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        variant: "compact",
+        description: "Lattafa Asad Intense: aunque técnicamente es marrón oscuro, en muchas fotos y reels aparece como rojo intenso o bordó por la iluminación. Es el primero que aparece cuando se busca \"perfume árabe rojo\" en Argentina.",
+        label: "El más buscado bajo 'rojo'",
+        labelColor: "blue"
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes blancos"
+      },
+      {
+        type: "p",
+        content: "Los frascos blancos son menos comunes y suelen asociarse a perfiles florales-cítricos o limpios. Suelen ser ediciones especiales o líneas específicas de Lattafa y Khamrah que rotan en el catálogo argentino. Si buscás un perfume árabe blanco específico que viste en algún reel, lo mejor es contactarnos con el detalle visual que recuerdes (forma del frasco, tapa, detalles dorados o plateados) para identificarlo. Mientras tanto, el [Lattafa Khamrah Parfum](https://meli.la/139RJXC) en su versión Parfum tiene una variante de packaging blanco con detalles dorados."
+      },
+      {
+        type: "h2",
+        title: "Perfumes árabes violetas y multicolor"
+      },
+      {
+        type: "p",
+        content: "La línea Yara incluye una versión que muchos identifican como violeta o multicolor:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA32288168",
+        variant: "compact",
+        description: "Yara Moi: envase con degradado violeta-rosa-dorado, uno de los más visualmente llamativos de toda la línea Yara. Floral-frutal con notas dulces. Para mujer que busca un Yara con personalidad distinta a Elixir o Tous.",
+        label: "Violeta-rosa-dorado",
+        labelColor: "amber"
+      },
+      {
+        type: "h2",
+        title: "Por qué la gente busca perfumes árabes por color"
+      },
+      {
+        type: "p",
+        content: "Pasa por tres razones bien concretas. **Primera**: TikTok y reels muestran el frasco mucho más claro que el nombre. El color se queda en la cabeza; el nombre se pierde. **Segunda**: muchos perfumes árabes tienen nombres difíciles de pronunciar o de escribir bien (Khamrah, Bade'e Al Oud, Qaed Al Fursan) — pero el color del envase es universal. **Tercera**: dentro de una misma línea (Yara, por ejemplo), las variantes se distinguen visualmente por el color de la tapa o el frasco, no tanto por el nombre."
+      },
+      {
+        type: "p",
+        content: "Lo que ningún reel te dice: el color del envase no determina el aroma. Un perfume rosa puede ser dulce y empalagoso (Yara Candy), fresco y frutal (Yara Tous) o floral seco (Sabah Al Ward). Antes de comprar solo por el color, vale la pena chequear el perfil olfativo real."
+      },
+      {
+        type: "h2",
+        title: "Cómo NO equivocarte si vas solo por color"
+      },
+      {
+        type: "list",
+        items: [
+          "**Confirmá el perfil olfativo**: dos perfumes del mismo color pueden oler completamente distinto. Mirá las notas top, corazón y base antes de comprar.",
+          "**Verificá la marca**: muchos vendedores publican fotos de Yara Tous diciendo que es \"genérico inspirado\" cuando es una imitación. La marca real importa.",
+          "**Volumen real**: el mismo color puede venir en 30ml, 50ml o 100ml. Asegurate del tamaño.",
+          "**Vendedor confiable**: especialmente con líneas virales como Yara, hay imitaciones del envase rosa. La guía completa para detectarlas está en [perfumes árabes originales](/guias/perfumes-arabes-originales).",
+          "**Probá antes si podés**: si una perfumería tiene el frasco que viste, oler antes de comprar evita decepciones. Si comprás online, considerá un decant de 5-10ml primero."
+        ]
+      },
+      {
+        type: "callout",
+        calloutVariant: "tip",
+        calloutTitle: "Truco para encontrar el perfume exacto que viste en TikTok",
+        content: "Si recordás el color y un detalle más (forma del frasco, edición especial, el creator que lo mostró, una nota olfativa que mencionó), googleá \"perfume árabe [color] [detalle]\" o buscá ese combo en MercadoLibre. Casi siempre aparece en los primeros resultados. Si no, las cuatro guías de nuestro cluster (mujer, hombre, amaderados, Yara) cubren entre los cuatro a los 50+ árabes más populares del país."
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Buscar perfumes árabes por color es válido como punto de partida, pero conviene confirmar el perfil olfativo antes de comprar. La mayoría de las búsquedas por color en Argentina (rosa, dorado, marrón, azul) tienen un perfume claro y dominante en cada categoría: Yara para rosa, Yara Elixir o Fakhar para dorado, Khamrah Qahwa para marrón café, Club de Nuit Intense Man para azul oscuro, Hawas Ice para celeste. Esos cinco cubren el 70% de las búsquedas por color."
+      },
+      {
+        type: "p",
+        content: "Para profundizar, las guías por género y por perfil olfativo son el siguiente paso: [mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer), [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) y [perfumes árabes amaderados](/guias/perfumes-arabes-amaderados)."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Cómo se llama el perfume árabe rosa más vendido?",
+        answer: "Si es rosa coral con tapa dorada, es Lattafa Yara Tous (tropical-frutal con mango y coco). Si es rosa intenso con dorado, es Lattafa Yara Candy (gourmand dulce). Si es rosa-dorado clásico con dibujo central, es Lattafa Yara (la versión original). Los tres son de la línea Yara de Lattafa."
+      },
+      {
+        question: "¿Cuál es el perfume árabe dorado más buscado?",
+        answer: "Para mujer es Lattafa Yara Elixir (dorado intenso, la versión más concentrada). Para hombre es Lattafa Fakhar Gold Extract (dorado con cobre) o Bharara King (dorado con corona). Si ves uno dorado más oscuro con detalles bordó, es probable que sea Asad Intense o Afnan 9PM."
+      },
+      {
+        question: "¿Qué perfume árabe es azul como el Invictus?",
+        answer: "Rasasi Hawas Ice — celeste cristal con detalles plateados. Comparte el perfil fresco-frutal-acuático del Paco Rabanne Invictus a un tercio del precio. Es el dupe árabe más recomendado del Invictus en Argentina. El otro azul-oscuro popular es Armaf Club de Nuit Intense Man, pero ese es el dupe del Creed Aventus, no del Invictus."
+      },
+      {
+        question: "¿Cuál es el perfume árabe marrón con café?",
+        answer: "Lattafa Khamrah Qahwa: frasco marrón café con detalles dorados, notas de café tostado, canela, vainilla y dátiles. Es el gourmand árabe más viral de TikTok. La versión Parfum (más concentrada) viene en envase similar pero con detalles distintos."
+      },
+      {
+        question: "¿El color del envase determina el aroma?",
+        answer: "No. Dos perfumes del mismo color pueden oler completamente distinto. El color es solo un identificador visual de la marca o la línea, no del perfil olfativo. Antes de comprar por color, conviene chequear las notas reales (top, corazón, base) y leer reseñas de compradores."
+      },
+      {
+        question: "¿Por qué no recuerdo el nombre pero sí el color?",
+        answer: "Pasa todo el tiempo, y tiene tres razones: los reels y videos muestran el frasco más que el nombre, los nombres árabes son difíciles de retener si no estás familiarizado, y dentro de una misma línea (como Yara) las variantes se distinguen visualmente. Por eso esta guía está organizada por color — para que llegues al perfume correcto en el primer intento."
+      }
+    ],
+    internalLinks: [
+      { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" },
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Perfumes árabes amaderados", href: "/guias/perfumes-arabes-amaderados" },
+      { label: "Perfumes árabes originales: cómo identificarlos", href: "/guias/perfumes-arabes-originales" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
+  {
+    slug: "perfumes-arabes-dupes",
+    category: "perfumes-arabes",
+    title: "Perfumes árabes y sus dupes: qué fragancia cara imita cada uno",
+    seoTitle: "Perfumes árabes dupes: qué imita cada uno (2026)",
+    metaDescription:
+      "Los mejores dupes árabes en Argentina 2026: Asad vs Sauvage, Club de Nuit vs Aventus, Hawas Ice vs Invictus. Tabla completa con originales, precios y a quién le sirve.",
+    ogTitle: "Perfumes árabes y sus clones: la lista de dupes que ahorra hasta 90%",
+    ogDescription:
+      "Aventus, Sauvage, Invictus, Tobacco Vanille — los perfumes occidentales más caros tienen su dupe árabe a 1/4 o 1/10 del precio. Cuáles cumplen, cuáles no, y qué mirar antes de comprar.",
+    h1: "Perfumes árabes y sus dupes: la lista completa de clones para Argentina (2026)",
+    publishedDate: "2026-06-04",
+    updatedDate: "2026-06-04",
+    hasDisclosure: true,
+    intro: [
+      "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta $130.000. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
+      "Esta guía lista los dupes árabes más buscados en Argentina, qué perfume occidental imita cada uno, qué tan cerca llegan del original, dónde fallan y a quién le conviene cada uno. Cubrimos los 8 que están disponibles en el catálogo argentino con datos reales de reseñas y precio."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
+        alt: "Perfumes árabes dupes en Argentina: Asad Intense, Club de Nuit Intense Man, Hawas Ice y sus originales occidentales",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Qué es un dupe y cuáles son los mejores en Argentina?",
+        id: "que-es-un-dupe-y-cuales-son-los-mejores"
+      },
+      {
+        type: "p",
+        content: "Un dupe es una fragancia inspirada en otra más cara, pero **no es una falsificación**: tiene su propia marca, su propio frasco y su propio nombre. Es legal, es legítimo, y para la mayoría de los compradores cumple el 80-90% de la experiencia del original a un cuarto o un décimo del precio. Los cinco dupes árabes más fuertes en Argentina son: **[Armaf Club de Nuit Intense Man](https://meli.la/1BzsFJE)** (clon de Creed Aventus), **[Lattafa Asad Intense](https://meli.la/26owfqo)** (clon de Dior Sauvage Elixir), **[Rasasi Hawas Ice](https://meli.la/24kQeRc)** (clon de Paco Rabanne Invictus), **[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)** (clon de Tom Ford Tobacco Vanille) y **Lattafa Her Confession** (clon de Mugler Alien). Cada uno con su propia historia de qué tan cerca llega al original."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos esta comparativa",
+        content: "Cruzamos los dupes árabes más buscados en Argentina (queries tipo \"perfume árabe similar a X\", \"clon de Y\", \"parecido a Z\") con los productos reales del catálogo y con reseñas de compradores que tienen ambos perfumes — el original y el dupe. Reportamos qué tan cerca llega cada uno honestamente: cuál cumple, cuál tiene diferencias claras, cuál es estrictamente \"inspirado\" sin pretender ser idéntico."
+      },
+      {
+        type: "h2",
+        title: "Tabla maestra: dupes árabes vs originales occidentales"
+      },
+      {
+        type: "table",
+        headers: ["Dupe árabe", "Original occidental", "Precio dupe AR", "Precio original AR", "Similitud"],
+        rows: [
+          ["Armaf Club de Nuit Intense Man", "Creed Aventus", "$120.000-$145.000", "$450.000-$600.000", "Alta (80-85%)"],
+          ["Lattafa Asad Intense", "Dior Sauvage Elixir", "$48.000-$62.000", "$280.000-$350.000", "Media-alta (70-80%)"],
+          ["Rasasi Hawas Ice", "Paco Rabanne Invictus", "$70.000-$85.000", "$200.000-$300.000", "Media-alta (75%)"],
+          ["Lattafa Khamrah Qahwa", "Tom Ford Tobacco Vanille", "$55.000-$75.000", "$400.000-$550.000", "Media (60-70%)"],
+          ["Lattafa Her Confession", "Mugler Alien", "$45.000-$58.000", "$180.000-$250.000", "Media (60-70%)"],
+          ["Maison Alhambra Sceptre Malachite", "Creed Aventus (alternativo)", "$60.000-$80.000", "$450.000-$600.000", "Media-alta (75%)"],
+          ["Lattafa Mayar", "Xerjoff Erba Pura", "$55.000-$65.000", "$650.000-$800.000", "Media (65%)"],
+          ["Afnan 9PM", "Inspiración propia (no copia directa)", "$45.000-$58.000", "—", "—"]
+        ]
+      },
+      {
+        type: "h2",
+        title: "Dupes masculinos top"
+      },
+      {
+        type: "h3",
+        title: "1. Armaf Club de Nuit Intense Man — el dupe del Creed Aventus"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA16122300",
+        description: "El dupe árabe más famoso del mundo. 200ml de frasco contra los 100ml del Aventus, a un cuarto del precio. Comparte la apertura frutal con piña y bergamota, el corazón ahumado con abedul y enebro, y el fondo amaderado-pachulí. La similitud se nota más en el corazón que en la salida. 4-5 horas de proyección fuerte, 8-10 horas de duración en piel.",
+        ranking: 1
+      },
+      {
+        type: "p",
+        content: "Es el referente absoluto del segmento. La mayoría de los compradores que tienen Aventus y prueban Club de Nuit reconocen que comparten ADN, aunque también identifican diferencias: el Aventus es más \"refinado\" y tiene mejor longevidad en piel; Club de Nuit es más \"directo\" y proyecta más fuerte en las primeras horas. Para 80% del público que no es perfumista, son intercambiables."
+      },
+      {
+        type: "h3",
+        title: "2. Lattafa Asad Intense — el dupe del Dior Sauvage Elixir"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        description: "El masculino árabe más vendido de Argentina. 7.245 reseñas con rating 4.6. Comparado constantemente con Dior Sauvage Elixir — comparten la especia, el ámbar y la base avainillada. Pero Asad tiene apertura más frutal (piña) y un fondo más dulce. El Sauvage Elixir es más \"masculino árido\"; el Asad es más \"masculino dulce\".",
+        ranking: 2
+      },
+      {
+        type: "pull-quote",
+        content: "Lo compré buscando un clon del Sauvage Elixir y no es idéntico, pero la proyección y el respeto que genera es el mismo. Por la diferencia de precio, lo compraría 10 veces antes que el Sauvage.",
+        attribution: "— Comprador en Argentina sobre Asad Intense, marzo 2025 · 89 personas lo encontraron útil"
+      },
+      {
+        type: "h3",
+        title: "3. Rasasi Hawas Ice — el dupe del Paco Rabanne Invictus"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA29780185",
+        description: "El árabe fresco-frutal por excelencia. Comparte con Invictus el perfil acuático-amaderado, el público target (hombre joven-medio) y la versatilidad para oficina y gym. La diferencia distintiva: Hawas Ice tiene una nota de manzana congelada que el Invictus no tiene. 9.144 reseñas con rating 4.8 — uno de los productos mejor validados del catálogo árabe en AR.",
+        ranking: 3
+      },
+      {
+        type: "h3",
+        title: "4. Maison Alhambra Sceptre Malachite — el dupe alternativo del Aventus"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA27855490",
+        description: "El segundo dupe de Aventus del catálogo, menos famoso que Club de Nuit pero con buenos reportes. Más sutil, menos proyectivo, más \"refinado\". Si Club de Nuit te resulta demasiado fuerte o querés una alternativa, este es el camino. Marca Maison Alhambra (Lattafa Group), 100ml.",
+        ranking: 4
+      },
+      {
+        type: "h2",
+        title: "Dupes femeninos top"
+      },
+      {
+        type: "h3",
+        title: "5. Lattafa Her Confession — el dupe del Mugler Alien"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA41304983",
+        description: "Praliné, vainilla y fondo oriental dulce-resinoso. Apunta al perfil del Mugler Alien (jazmín dulce con resinas) pero más \"gourmand\" y menos floral. Para mujer que busca un perfume de noche intenso sin pagar Mugler. Proyecta muy fuerte — no es para oficina diurna.",
+        ranking: 5
+      },
+      {
+        type: "h3",
+        title: "6. Lattafa Mayar — el dupe del Xerjoff Erba Pura"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA25883660",
+        description: "Mayar apunta al perfil del Xerjoff Erba Pura — cítricos frutales con base avainillada. Erba Pura es uno de los nichos más copiados del mundo, y Mayar es la versión Lattafa más accesible. La similitud no es perfecta pero el perfil está. Unisex, 100ml.",
+        ranking: 6
+      },
+      {
+        type: "h2",
+        title: "Dupes unisex y gourmand"
+      },
+      {
+        type: "h3",
+        title: "7. Lattafa Khamrah Qahwa — el dupe del Tom Ford Tobacco Vanille"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        description: "Café tostado, canela, vainilla y dátiles. El perfil más cercano al Tobacco Vanille de Tom Ford en el nicho árabe, aunque con identidad propia (los dátiles son la firma de Khamrah que el TF no tiene). Unisex, intenso, otoño-invierno. El gourmand árabe más viral de TikTok.",
+        ranking: 7
+      },
+      {
+        type: "h3",
+        title: "8. Rasasi Hawas Black — el dupe parcial del Aventus por noche"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA41306043",
+        description: "La versión más oscura del Hawas. Toma elementos del Aventus (frutal-ahumado) pero los lleva a un terreno más nocturno-oriental. No es un clon literal — es \"inspirado en\". Para hombre que tiene Hawas Ice y quiere algo más intenso para noche, o que probó Club de Nuit y busca alternativa.",
+        ranking: 8
+      },
+      {
+        type: "h2",
+        title: "Dupe vs original: ¿se nota la diferencia?"
+      },
+      {
+        type: "p",
+        content: "Depende de tres factores. **El primero**: tu nariz. Si nunca usaste el original, no vas a notar que el dupe es \"distinto\" — vas a juzgar al dupe por sí mismo, y la mayoría cumple bien. Si tenés el original guardado, vas a notar diferencias en la salida, en la transición y en la longevidad."
+      },
+      {
+        type: "p",
+        content: "**El segundo**: tu entorno. Si estás en un grupo donde nadie usa el original, nadie va a notar la diferencia. Si trabajás con gente que usa perfumes de nicho y conoce las marcas, hay chance de que identifiquen el dupe (no por el aroma, sino por el sillage y la persistencia)."
+      },
+      {
+        type: "p",
+        content: "**El tercero**: el dupe en sí. [Club de Nuit Intense Man](https://meli.la/1BzsFJE) y [Hawas Ice](https://meli.la/24kQeRc) son los dupes más logrados — varios usuarios serios dicen que son indistinguibles del original en el secado. [Asad Intense](https://meli.la/26owfqo) vs Sauvage Elixir tiene más diferencias notorias. [Khamrah Qahwa](https://meli.la/1B8Vwwf) vs Tobacco Vanille comparte familia olfativa pero no es \"el mismo perfume\"."
+      },
+      {
+        type: "h2",
+        title: "Cuándo NO conviene el dupe"
+      },
+      {
+        type: "list",
+        items: [
+          "**Para regalar a un perfumista experimentado**: si la persona conoce el original y es coleccionista, el regalo \"correcto\" es el original o un perfume distinto, no el dupe.",
+          "**Si lo querés como inversión coleccionable**: los dupes no aumentan de valor con el tiempo; los nichos premium (Creed, Xerjoff) sí.",
+          "**Si la similitud no es alta**: algunos \"dupes\" del mercado solo comparten una nota con el original. Eso no es un dupe — es un perfume distinto que se vende como dupe. Verificá similitud real antes de comprar.",
+          "**Si estás buscando una firma única**: los dupes están \"prestados\" del original. Si querés un perfume que sea solo tuyo, conviene explorar el nicho árabe sin la lógica de imitación (Khamrah, Mayar, Asad — los que tienen identidad propia)."
+        ]
+      },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Cuidado con los falsos dupes",
+        content: "Hay vendedores que listan cualquier perfume árabe genérico como \"dupe de Aventus\" o \"clon de Sauvage\" cuando en realidad solo comparten una nota lejana. Un dupe legítimo está reconocido en reviews por compradores que tienen ambos productos. Si un vendedor te dice que algo es dupe pero no aparece esa comparación en ninguna reseña independiente, probablemente no lo sea."
+      },
+      {
+        type: "h2",
+        title: "Cómo evaluar un dupe antes de comprar"
+      },
+      {
+        type: "list",
+        items: [
+          "**Buscá reviews de compradores que tengan ambos**: \"reseñas Asad vs Sauvage Elixir\" en Google o YouTube. Si nadie hizo esa comparación, mala señal.",
+          "**Mirá las notas oficiales declaradas por la marca árabe**: si el original tiene piña-bergamota-pachulí-musk y el dupe tiene piña-bergamota-pachulí-musk, comparten ADN. Si las notas son muy distintas, no es dupe.",
+          "**Considerá la familia olfativa primero**: un dupe debe estar en la misma familia (oriental amaderado, fresco cítrico, gourmand) que el original. Si no comparten familia, no es dupe.",
+          "**Probá con un decant primero**: si el dupe es caro o nunca lo oliste, un decant de 5-10ml te permite probar sin comprometerte al frasco grande.",
+          "**Comprá a vendedor confiable**: las falsificaciones del dupe son frecuentes — especialmente Club de Nuit y Asad Intense. Las señales completas para identificar productos auténticos están en [perfumes árabes originales](/guias/perfumes-arabes-originales)."
+        ]
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Los dupes árabes son una de las mejores propuestas de valor del mercado de perfumería en Argentina. Para la mayoría de los compradores, **[Club de Nuit Intense Man](https://meli.la/1BzsFJE)** (Aventus), **[Hawas Ice](https://meli.la/24kQeRc)** (Invictus) y **[Asad Intense](https://meli.la/26owfqo)** (Sauvage Elixir) cumplen el rol del original a un cuarto o un décimo del precio. La diferencia entre el dupe y el original existe, pero rara vez justifica pagar 4-10x más para quien no es coleccionista."
+      },
+      {
+        type: "p",
+        content: "Lo que sí vale la pena: tratar a los dupes como perfumes propios, no como \"versiones baratas\". [Asad Intense](https://meli.la/26owfqo) tiene identidad propia que mucha gente prefiere al Sauvage. [Khamrah Qahwa](https://meli.la/1B8Vwwf) va más allá del Tobacco Vanille y desarrolla un perfil único. Si los comprás esperando \"el original más barato\", a veces te decepcionás. Si los comprás como perfumes árabes con su propia personalidad, ganás casi siempre."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Cuál es el mejor dupe árabe del Creed Aventus?",
+        answer: "Armaf Club de Nuit Intense Man, sin discusión. Es el dupe de Aventus más reconocido del mundo, con 200ml de frasco a $120.000-145.000 en Argentina contra los $450.000-600.000 del Aventus 100ml. La similitud llega al 80-85% para usuario no experto. Maison Alhambra Sceptre Malachite es la alternativa más sutil dentro del mismo catálogo."
+      },
+      {
+        question: "¿Lattafa Asad Intense es realmente como Dior Sauvage Elixir?",
+        answer: "Comparte familia olfativa (especiado-amaderado-avainillado) pero no es idéntico. Asad tiene una apertura más frutal (piña) y un fondo más dulce; Sauvage es más \"árido\" y refinado. La similitud es media-alta (70-80%). La mayoría de los compradores que tienen ambos coinciden en que Asad cumple el rol del Sauvage a una décima parte del precio."
+      },
+      {
+        question: "¿Un dupe es legal? ¿Es una falsificación?",
+        answer: "Un dupe es completamente legal. Es un perfume con su propia marca, frasco y nombre, inspirado en otro. No copia el logo, no se hace pasar por otra marca y no infringe propiedad intelectual. Una falsificación es distinto: una caja que dice \"Creed Aventus\" pero no fue fabricada por Creed. Esa sí es ilegal."
+      },
+      {
+        question: "¿Cuánto ahorro comprando un dupe en lugar del original?",
+        answer: "Depende del par. Club de Nuit vs Aventus: ahorrás 70-80%. Asad Intense vs Sauvage Elixir: ahorrás 80-85%. Hawas Ice vs Invictus: ahorrás 65-75%. Khamrah Qahwa vs Tobacco Vanille: ahorrás 85-90%. Mayar vs Xerjoff Erba Pura: ahorrás 90%+."
+      },
+      {
+        question: "¿Los dupes árabes duran tanto como los originales?",
+        answer: "Sí, en general. Los perfumes árabes tienen alta concentración de aceites perfumados, lo que se traduce en 6-10 horas de duración real en piel — comparable o superior a muchos originales occidentales (que rondan 4-8 horas). Algunos dupes (Hawas Ice especialmente) son reconocidos por durar incluso más que el original."
+      },
+      {
+        question: "¿Vale la pena comprar el original si tengo el dupe?",
+        answer: "Solo si sos coleccionista o si la diferencia te importa mucho. Para la mayoría de los compradores, el dupe cubre el 80-90% de la experiencia del original. Pagar 4-10x más por ese 10-20% extra solo tiene sentido para perfumistas serios, para regalo de alguien que conoce el original, o si simplemente querés la satisfacción de tener la marca premium."
+      }
+    ],
+    internalLinks: [
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Perfumes árabes por color del envase", href: "/guias/perfumes-arabes-por-color" },
+      { label: "Perfumes árabes originales: cómo identificarlos", href: "/guias/perfumes-arabes-originales" },
+      { label: "Perfumes árabes amaderados", href: "/guias/perfumes-arabes-amaderados" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
+  {
+    slug: "perfumes-arabes-mas-vendidos-argentina",
+    category: "perfumes-arabes",
+    title: "Los perfumes árabes más vendidos en Argentina",
+    seoTitle: "Perfumes árabes más vendidos en Argentina (2026)",
+    metaDescription:
+      "Ranking 2026 de los perfumes árabes más vendidos en Argentina por cantidad de reseñas reales en MercadoLibre: Hawas Ice, Asad Intense, Khamrah Qahwa, Yara Candy y más.",
+    ogTitle: "Los perfumes árabes que todos están comprando en Argentina",
+    ogDescription:
+      "Hawas Ice, Asad Intense, Khamrah Qahwa, Yara Candy. El ranking honesto basado en cantidad real de reseñas de compradores argentinos — no opinión nuestra, son datos.",
+    h1: "Los 10 perfumes árabes más vendidos en Argentina (2026)",
+    publishedDate: "2026-06-07",
+    updatedDate: "2026-06-07",
+    hasDisclosure: true,
+    quickPicks: [
+      { productMlaId: "MLA29780185", label: "El más vendido", labelColor: "green", tagline: "Rasasi Hawas Ice: 9.144 reseñas, 4.8⭐. El árabe más vendido del catálogo argentino." },
+      { productMlaId: "MLA19715215", label: "Top masculino", labelColor: "amber", tagline: "Lattafa Asad Intense: 7.245 reseñas, 4.6⭐. El más vendido entre hombres." },
+      { productMlaId: "MLA31178643", label: "Unisex viral", labelColor: "amber", tagline: "Khamrah Qahwa: 7.137 reseñas, 4.8⭐. Café, canela, vainilla y dátiles." },
+      { productMlaId: "MLA39865991", label: "Top femenino", labelColor: "blue", tagline: "Yara Candy: 6.632 reseñas, 4.7⭐. El gourmand dulce más comprado por mujeres." }
+    ],
+    intro: [
+      "Hay muchas formas de armar un ranking de perfumes árabes. Por aroma, por marca, por temporada, por precio. Esta guía elige la más directa: ordenarlos por cuántos argentinos los compraron y los calificaron en MercadoLibre. No es nuestra opinión — son los números reales del catálogo.",
+      "Los 10 perfumes árabes más vendidos en Argentina concentran más de 34.500 reseñas reales entre todos. Cada uno con su nicho, su perfil olfativo y su público. Si querés saber qué compra realmente la gente antes de comprometerte vos, este ranking responde la pregunta sin vueltas."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Top perfumes árabes más vendidos en Argentina: Hawas Ice, Asad Intense, Khamrah Qahwa, Yara Candy",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Cuáles son los perfumes árabes más vendidos en Argentina?",
+        id: "cuales-son-los-perfumes-arabes-mas-vendidos"
+      },
+      {
+        type: "p",
+        content: "Según las reseñas verificadas de compradores en MercadoLibre Argentina, los tres más vendidos del nicho árabe son: **Rasasi Hawas Ice** (9.144 reseñas, 4.8⭐), **Lattafa Asad Intense** (7.245 reseñas, 4.6⭐) y **Lattafa Khamrah Qahwa** (7.137 reseñas, 4.8⭐). Los tres superan ampliamente al resto del catálogo en volumen de validación comunitaria. Para mujer, el más vendido es **Lattafa Yara Candy** (6.632 reseñas, 4.7⭐). Si tenés que elegir uno solo basándote en lo que compra el mercado, esos cuatro son las apuestas más seguras."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos este ranking",
+        content: "El criterio es uno solo: cantidad de reseñas verificadas en MercadoLibre Argentina al cierre de mayo 2026. No usamos nuestra opinión, no usamos comisión de afiliado para decidir el orden, no usamos relaciones con marcas. Los números salen del catálogo de productos visibles en el sitio y se actualizan cuando hay cambios significativos. El rating se incluye como contexto pero el orden está determinado por volumen, no por estrellas — un perfume con 9.000 reseñas a 4.6⭐ tiene más validación que uno con 100 reseñas a 5.0⭐."
+      },
+      {
+        type: "h2",
+        title: "El ranking de los 10 más vendidos"
+      },
+      {
+        type: "h3",
+        title: "1. Rasasi Hawas Ice — 9.144 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA29780185",
+        description: "El más vendido del catálogo árabe argentino. 9.144 reseñas con rating 4.8 — números que muchas marcas occidentales premium no consiguen. Apertura cítrica con bergamota, lima y menta; corazón con manzana congelada, ciruela y grosellas; base de pachulí, ámbar, tonka y sándalo. El dupe declarado del Paco Rabanne Invictus. Para hombre joven-medio, gym, oficina, citas casuales.",
+        ranking: 1
+      },
+      {
+        type: "h3",
+        title: "2. Lattafa Asad Intense — 7.245 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        description: "El masculino árabe más vendido del país. Pimienta negra, piña y tabaco en apertura; pachulí, café e iris en corazón; vainilla, ámbar y maderas en la base. Comparado constantemente con Dior Sauvage Elixir. Otoño-invierno, noche y eventos elegantes. 4.6⭐ con 7.245 calificaciones — el más validado entre todos los Lattafa para hombre.",
+        ranking: 2
+      },
+      {
+        type: "h3",
+        title: "3. Lattafa Khamrah Qahwa — 7.137 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        description: "Café tostado, canela, vainilla y dátiles. El gourmand árabe más viral de TikTok argentino. Unisex, intenso, perfecto para otoño-invierno. Frasco marrón café con detalles dorados, difícil de imitar por la terminación pesada de la tapa. 4.8⭐ con 7.137 reseñas — el más validado de toda la línea Khamrah.",
+        ranking: 3
+      },
+      {
+        type: "pull-quote",
+        content: "Es el gourmand árabe definitivo. Una vez que lo probás, todo lo demás te parece tibio. No es para verano, eso sí — en enero es exceso. Pero de abril a septiembre, no falla.",
+        attribution: "— Comprador en Argentina sobre Khamrah Qahwa, julio 2024 · 142 personas lo encontraron útil"
+      },
+      {
+        type: "h3",
+        title: "4. Lattafa Yara Candy — 6.632 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA39865991",
+        description: "El femenino árabe más vendido del país. Gourmand-floral con notas de caramelo, vainilla y frutos rojos. Frasco rosa intenso con dorado, parte de la línea Yara que se volvió fenómeno cultural en TikTok argentino. 4.7⭐ con 6.632 reseñas — más comprado que cualquier perfume occidental femenino en su rango de precio en el catálogo.",
+        ranking: 4
+      },
+      {
+        type: "h3",
+        title: "5. Afnan 9PM Elixir Parfum Intense — 1.060 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA53394464",
+        description: "La versión más concentrada del Afnan 9PM. Café, canela, vainilla y ámbar en máxima intensidad. La diferencia con el 9PM clásico: longevidad superior (10-12 horas reales) y proyección más fuerte. Para hombre que ya conoce el perfil gourmand y quiere algo más profundo. 4.8⭐ con 1.060 reseñas.",
+        ranking: 5
+      },
+      {
+        type: "h3",
+        title: "6. Set Lattafa Yara + Yara Candy 5th Anniversary — 811 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA45984979",
+        description: "Edición aniversario de la línea Yara: dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Ideal para regalar o para fans de la línea que quieren ambos sin pagar por separado. 4.8⭐ con 811 reseñas — el set más vendido del catálogo árabe.",
+        ranking: 6
+      },
+      {
+        type: "h3",
+        title: "7. Lattafa Khamrah Parfum — 749 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA53013853",
+        description: "La versión Parfum (más concentrada) del Khamrah clásico. Notas de canela, ciruela, dátil, melaza, mirra y benjuí. Más resinoso y oscuro que Qahwa. Para quien quiere Khamrah pero con proyección y duración superiores. 4.8⭐ con 749 reseñas.",
+        ranking: 7
+      },
+      {
+        type: "h3",
+        title: "8. Set Lattafa My Yara Collection — 720 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA51612102",
+        description: "Set de 4 miniaturas de 25ml de la línea Yara. La puerta de entrada inteligente al nicho árabe femenino — probás cuatro perfiles distintos sin comprometerte al frasco grande. Ideal para regalo o para quien arranca. 4.8⭐ con 720 reseñas.",
+        ranking: 8
+      },
+      {
+        type: "h3",
+        title: "9. Lattafa Yara Elixir — 572 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        description: "La versión más intensa de toda la línea Yara, lanzada en 2025. Dulce-cítrico con vainilla, ámbar y notas resinosas. 8 horas de duración con buen anclaje. Las reseñas crecen rápido por ser el lanzamiento más reciente — proyectan que va a entrar al top 5 en 2026. 4.8⭐ con 572 reseñas.",
+        ranking: 9
+      },
+      {
+        type: "h3",
+        title: "10. Lattafa Yara Tous — 471 reseñas"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA40521028",
+        description: "La versión tropical-frutal de Yara: mango, coco, jazmín y vainilla. La mejor opción de la línea para verano y uso diurno. Incluye estuche, ideal para regalar. 4.7⭐ con 471 reseñas.",
+        ranking: 10
+      },
+      {
+        type: "h2",
+        title: "Para mujer: ranking específico"
+      },
+      {
+        type: "p",
+        content: "Si solo te interesan los femeninos, el orden cambia. Los más vendidos para mujer son: **Yara Candy** (6.632 reseñas, 4.7⭐), **Yara Elixir** (572, 4.8⭐), **Yara Tous** (471, 4.7⭐) y el **Set My Yara Collection** (720, 4.8⭐). Tres de los cuatro son de la línea Yara — la línea femenina más fuerte del nicho árabe en Argentina por mucho. La cuarta opción más vendida fuera de Yara es **Her Confession**, gourmand nocturno tipo praliné-vainilla. El detalle completo está en [mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer)."
+      },
+      {
+        type: "h2",
+        title: "Para hombre: ranking específico"
+      },
+      {
+        type: "p",
+        content: "Para masculinos, el orden es: **Hawas Ice** (9.144 reseñas, 4.8⭐), **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas — Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
+      },
+      {
+        type: "h2",
+        title: "Tendencias 2025-2026: qué se mueve fuerte"
+      },
+      {
+        type: "p",
+        content: "Mirando la evolución de reseñas en el catálogo, hay tres patrones claros:"
+      },
+      {
+        type: "list",
+        items: [
+          "**Los gourmands suben fuerte**: Khamrah Qahwa pasó de 4.000 reseñas a 7.137 en menos de 12 meses. La nota \"café\" se volvió un identificador del nicho árabe.",
+          "**Yara consolida dominancia femenina**: cuatro de los seis productos femeninos más vendidos son de la línea Yara. Yara Elixir, lanzado en 2025, está creciendo más rápido que cualquier otro Lattafa femenino.",
+          "**Hawas Ice sigue creciendo como referente fresco**: superó las 9.000 reseñas en mayo 2026. Es el árabe masculino fresco-acuático sin competencia clara dentro del nicho.",
+          "**Los sets están explotando**: el set Yara + Yara Candy aniversario y el set My Yara Collection acumularon más de 1.500 reseñas combinadas en 18 meses. La gente quiere probar antes de comprometerse a un frasco grande."
+        ]
+      },
+      {
+        type: "h2",
+        title: "Cómo interpretar este ranking"
+      },
+      {
+        type: "p",
+        content: "Cantidad de reseñas no es lo mismo que calidad olfativa, pero sí es un indicador de validación comunitaria. Un perfume con 7.000 reseñas y 4.6⭐ ya pasó por suficientes narices distintas como para que el promedio sea representativo. Un perfume con 100 reseñas y 4.9⭐ puede ser realmente excelente, o puede tener un sesgo de comprador entusiasta inicial — los próximos 5.000 compradores pueden bajar el promedio."
+      },
+      {
+        type: "p",
+        content: "El ranking no significa que los menos vendidos sean peores. Significa que los más vendidos son los más seguros para comprar a ciegas — la chance de que te decepciones con un perfume que vendió 7.000 unidades con rating 4.6 es baja. Para alguien que arranca en el nicho, este es el ranking más útil. Para alguien que ya conoce el perfil árabe y busca algo único, mejor explorar perfiles específicos (amaderados, gourmands, frescos) que cantidad de reseñas."
+      },
+      {
+        type: "callout",
+        calloutVariant: "tip",
+        calloutTitle: "El método de compra inteligente",
+        content: "Si nunca compraste un árabe, no compres el más vendido sin probar — comprá el [Set My Yara Collection](https://meli.la/2jd7cJf) (femenino) o un decant del más vendido masculino primero. Una vez que sabés qué perfil te gusta, ahí sí comprás el 100ml del top. Es la manera de no equivocarte con $50.000 a ciegas."
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Los cuatro perfumes árabes más vendidos en Argentina son **Hawas Ice**, **Asad Intense**, **Khamrah Qahwa** y **Yara Candy**. Cubren cuatro perfiles olfativos completamente distintos — fresco-frutal, especiado-amaderado, gourmand-café, dulce-floral — y entre los cuatro acumulan más de 30.000 reseñas verificadas. Para alguien que arranca y quiere ir sobre seguro, cualquiera de esos cuatro según su perfil olfativo preferido es la apuesta de menor riesgo en el mercado árabe argentino."
+      },
+      {
+        type: "p",
+        content: "Para profundizar en cualquiera de los nombres del ranking, [Lattafa: guía completa de la marca](/guias/lattafa-guia-marca) cubre todas las líneas de la casa más importante, y [perfumes árabes y sus dupes](/guias/perfumes-arabes-dupes) explica qué perfume occidental imita cada uno de los más vendidos."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Cuál es el perfume árabe más vendido en Argentina en 2026?",
+        answer: "Rasasi Hawas Ice, con 9.144 reseñas verificadas en MercadoLibre Argentina y rating 4.8⭐. Es el dupe declarado del Paco Rabanne Invictus a un tercio del precio. Perfil fresco-frutal-acuático con la nota distintiva de manzana congelada. Para hombre joven-medio, gym, oficina, citas casuales."
+      },
+      {
+        question: "¿Cuál es el perfume árabe femenino más vendido?",
+        answer: "Lattafa Yara Candy, con 6.632 reseñas y rating 4.7⭐. Gourmand-floral con caramelo, vainilla y frutos rojos. Parte de la línea Yara que dominó TikTok argentino en 2024-2026. Para mujer joven, uso diurno-nocturno."
+      },
+      {
+        question: "¿Son confiables los rankings por cantidad de reseñas?",
+        answer: "Sí, especialmente cuando el volumen es alto. Un perfume con 7.000+ reseñas y rating 4.6+ ya pasó por suficientes compradores distintos como para que el promedio sea representativo. Para volúmenes bajos (menos de 100 reseñas), el promedio puede tener sesgos de comprador entusiasta inicial. Este ranking se limita a productos con +400 reseñas para evitar ese problema."
+      },
+      {
+        question: "¿Por qué Lattafa aparece en 7 de los 10 más vendidos?",
+        answer: "Por dos razones: la marca tiene la línea femenina más fuerte del nicho árabe (Yara) y la masculina con mayor volumen (Asad). Además, Lattafa fue la marca árabe que más invirtió en presencia en MercadoLibre Argentina temprano — eso le dio ventaja en validación comunitaria. Las otras marcas árabes (Afnan, Rasasi, Armaf) son fuertes pero en categorías más específicas."
+      },
+      {
+        question: "¿Vale la pena comprar el más vendido o uno menos popular?",
+        answer: "Depende del nivel de experiencia. Si nunca probaste un árabe, comprar el más vendido es la apuesta más segura — la chance de decepcionarte con un producto que vendió 7.000+ unidades es muy baja. Si ya conocés el perfil árabe y querés algo más único, explorar productos con menos reseñas pero ratings altos puede ser más interesante. El ranking no determina calidad — determina validación."
+      },
+      {
+        question: "¿Cuál es el set más vendido?",
+        answer: "El Set Lattafa Yara + Yara Candy 5th Anniversary, con 811 reseñas y rating 4.8⭐. Trae dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Le sigue el Set My Yara Collection con 720 reseñas — 4 miniaturas de 25ml de la línea Yara, ideal para probar antes de comprar un frasco grande."
+      }
+    ],
+    internalLinks: [
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Perfumes árabes y sus dupes", href: "/guias/perfumes-arabes-dupes" },
+      { label: "Perfumes árabes por color del envase", href: "/guias/perfumes-arabes-por-color" },
+      { label: "Perfumes árabes originales: cómo identificarlos", href: "/guias/perfumes-arabes-originales" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
+  {
+    slug: "lattafa-asad-comparativa",
+    category: "perfumes-arabes",
+    title: "Lattafa Asad Intense vs Asad Bourbon vs Asad Negro: cuál es cuál y cuál comprar",
+    seoTitle: "Lattafa Asad: Intense vs Bourbon vs Negro (2026)",
+    metaDescription:
+      "Lattafa Asad Intense vs versiones genéricas Asad Bourbon y Asad Negro: cuál es el oficial, qué son las imitaciones y cuál comprar según perfil olfativo y presupuesto.",
+    ogTitle: "Lattafa Asad: el oficial, los genéricos y cuál vale la pena",
+    ogDescription:
+      "Asad Intense es Lattafa oficial. Bourbon y Negro del catálogo argentino son inspiraciones \"genéricas\". Te contamos qué es cada uno, qué esperar de cada uno y cuál comprar.",
+    h1: "Lattafa Asad: Intense vs Bourbon vs Negro — qué es oficial, qué es genérico y cuál comprar (2026)",
+    publishedDate: "2026-06-10",
+    updatedDate: "2026-06-10",
+    hasDisclosure: true,
+    intro: [
+      "Si buscaste \"Asad\" en MercadoLibre Argentina, te aparecieron tres opciones con nombres parecidos: Lattafa Asad Intense, Asad Bourbon y Asad Negro. Parecen tres versiones de la misma línea. No lo son. Solo una es Lattafa oficial — las otras dos son perfumes \"genéricos\" inspirados en variantes de Asad que existen en otros mercados pero no se importan oficialmente a Argentina.",
+      "Esta guía aclara qué es qué, cuál vale la pena según tu caso y cuándo conviene esperar por el oficial vs. cuándo el genérico cumple lo suficiente. Sin marketing, con la honestidad que hace falta en un nicho donde la confusión entre original e imitación es la regla, no la excepción."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
+        alt: "Lattafa Asad Intense oficial vs Asad Bourbon y Asad Negro genéricos en Argentina",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Cuál es la diferencia entre Lattafa Asad Intense, Bourbon y Negro?",
+        id: "cual-es-la-diferencia-entre-asad-intense-bourbon-y-negro"
+      },
+      {
+        type: "p",
+        content: "Solo uno es producto Lattafa oficial: **[Lattafa Asad Intense](https://meli.la/26owfqo)** — el masculino árabe más vendido de Argentina con 7.245 reseñas y rating 4.6⭐. Las otras dos opciones que aparecen en el catálogo argentino — **[\"Asad Bourbon\"](https://meli.la/1qWMdCK)** y **[\"Asad Negro\"](https://meli.la/2t9EpWq)** — son perfumes con el nombre \"Asad\" pero etiquetados explícitamente como \"genérico\" en su título. Eso significa que son fragancias inspiradas en variantes de Asad que existen en otros mercados (Lattafa sí lanzó Asad Bourbon y Asad Negro internacionalmente), pero las versiones que se consiguen en Argentina son productos de otras marcas o sin marca declarada que toman el nombre. No son falsificaciones de Lattafa — son perfumes con identidad propia que se venden bajo nombres parecidos."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos esta comparativa",
+        content: "Cruzamos los tres productos del catálogo argentino que aparecen bajo el nombre \"Asad\" con la información oficial de Lattafa, el conteo de reseñas en MercadoLibre y los reportes de compradores. Reportamos honestamente cuál es Lattafa oficial y cuáles son \"genéricos\" según la propia descripción de cada listing — no porque queramos vender el oficial, sino porque la confusión entre uno y otro es lo que más perjudica al comprador del nicho árabe."
+      },
+      {
+        type: "h2",
+        title: "Tabla comparativa rápida"
+      },
+      {
+        type: "table",
+        headers: ["Producto", "Marca real", "Precio AR", "Reseñas", "Veredicto"],
+        rows: [
+          ["Asad Intense", "Lattafa (oficial)", "$45.000-$62.000", "7.245 (4.6⭐)", "El oficial. La compra segura."],
+          ["Asad Bourbon", "Genérico (sin marca declarada)", "$30.000-$45.000", "Pocas", "Inspirado, no oficial. Más barato."],
+          ["Asad Negro", "Genérico (sin marca declarada)", "$35.000-$48.000", "112 (4.3⭐)", "Inspirado, no oficial. Perfil distinto."]
+        ]
+      },
+      {
+        type: "h2",
+        title: "1. Lattafa Asad Intense — el oficial"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        description: "El masculino árabe más vendido de Argentina y el único Asad oficial del catálogo. 7.245 reseñas con rating 4.6⭐. Apertura con pimienta negra, piña y tabaco; corazón de pachulí, café e iris; fondo amaderado con vainilla, ámbar, madera seca, benjuí y ládano. 6-10 horas de duración real en piel. Comparado constantemente con Dior Sauvage Elixir. Para hombre +25, otoño-invierno, noche.",
+        label: "El Asad oficial Lattafa",
+        labelColor: "green",
+        ranking: 1
+      },
+      {
+        type: "p",
+        content: "Este es el Asad real, el de la casa Lattafa de Sharjah. Tiene QR oficial de verificación en la etiqueta de seguridad (ver [perfumes árabes originales](/guias/perfumes-arabes-originales) para cómo escanearlo). Es la opción segura si querés el perfil olfativo del Asad sin riesgo de comprar algo que no sea Lattafa."
+      },
+      {
+        type: "pull-quote",
+        content: "Producto original. Es realmente una locura, 3 sprays y proyecta que da calambre, dura 8 horas por lo menos y le gusta a todo el mundo.",
+        attribution: "— Comprador en Argentina sobre Asad Intense, septiembre 2024 · 180 personas lo encontraron útil"
+      },
+      {
+        type: "h2",
+        title: "2. Asad Bourbon — la versión \"genérica\" inspirada"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLAU3798337289",
+        description: "Listado como \"Perfume De Hombre Asad Bourbon Marrón 100ml Árabe Genérico\" — el propio título declara que es genérico. Perfume con notas de bourbon, tabaco y maderas resinosas. Más barato que el Intense oficial (rango $30.000-$45.000). El listing no especifica marca fabricante declarada. Pocas reseñas en el catálogo argentino.",
+        label: "Genérico — no es Lattafa oficial",
+        labelColor: "amber",
+        ranking: 2
+      },
+      {
+        type: "p",
+        content: "**¿Vale la pena?** Depende de tu objetivo. Si querés el perfil olfativo del Asad Bourbon (que existe como producto Lattafa oficial en otros mercados pero no se importa a Argentina), este genérico es la única opción disponible. El precio más bajo refleja la ausencia de respaldo de marca. Si tu prioridad es tener un Lattafa real, esta no es la opción."
+      },
+      {
+        type: "p",
+        content: "**Riesgo principal**: como no tiene marca declarada, no hay QR oficial ni etiqueta de seguridad para verificar. La calidad puede variar entre tandas y vendedores. Conviene comprar a un vendedor con reputación verde y leer reseñas recientes con fotos."
+      },
+      {
+        type: "h2",
+        title: "3. Asad Negro — la otra versión \"genérica\""
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLAU3562485598",
+        description: "Listado como \"Perfume Asad Negro 100ml Estilo Árabe Exquisito Genérico\" — también declara ser genérico en el título. Perfil más oscuro y resinoso que el Bourbon o el Intense. 112 reseñas con rating 4.3⭐ en el catálogo. Precio intermedio entre Bourbon y Intense oficial. Sin marca fabricante declarada.",
+        label: "Genérico — no es Lattafa oficial",
+        labelColor: "amber",
+        ranking: 3
+      },
+      {
+        type: "p",
+        content: "**¿Vale la pena?** Las 112 reseñas con rating 4.3⭐ sugieren que como perfume tiene cumplidores — la calificación no es alta como la del Intense oficial pero tampoco es mala. Si querés un perfil oscuro-resinoso con el nombre \"Asad\" pero no necesitás que sea Lattafa, puede funcionar. Si querés algo similar al Asad Intense pero más oscuro y oficial, mejor mirar otras opciones Lattafa (Maahir Legacy, The Kingdom Man, Fakhar Gold)."
+      },
+      {
+        type: "h2",
+        title: "¿Existen Asad Bourbon y Asad Negro oficiales de Lattafa?"
+      },
+      {
+        type: "p",
+        content: "Sí, existen. Lattafa lanzó internacionalmente las variantes **Asad Bourbon** y **Asad Negro** como parte de la familia Asad. Pero hasta la fecha de esta guía (junio 2026), **no se importan oficialmente a Argentina** — al menos no en el catálogo principal de MercadoLibre Argentina. Los listings que ves bajo esos nombres son perfumes genéricos inspirados, no las variantes Lattafa oficiales."
+      },
+      {
+        type: "p",
+        content: "¿Por qué no se importan? Probablemente por decisión comercial de los distribuidores: Asad Intense ya cubre el grueso de la demanda masculina (con sus 7.245 reseñas), y traer dos variantes adicionales no justifica el costo de importación para el mercado argentino. Eso puede cambiar — si en algún momento aparecen versiones oficiales Lattafa de Bourbon o Negro en MercadoLibre Argentina (con QR de verificación y etiqueta de seguridad de la marca), esta guía se va a actualizar."
+      },
+      {
+        type: "h2",
+        title: "Cuál comprar según tu caso"
+      },
+      {
+        type: "list",
+        items: [
+          "**Querés el Asad oficial, sin compromisos**: Lattafa Asad Intense. Es el único Lattafa real del trío.",
+          "**Querés un perfil oscuro-bourbon y no te importa que sea genérico**: Asad Bourbon genérico. Más barato, sin respaldo de marca.",
+          "**Querés un Lattafa oscuro/profundo de marca real**: mejor mirar Maahir Legacy, The Kingdom Man o Fakhar Gold Extract dentro del portafolio oficial de Lattafa (ver [Lattafa: guía completa](/guias/lattafa-guia-marca)).",
+          "**Comprás como primera experiencia árabe masculina**: Asad Intense, sin dudas. Es el más validado y la compra más segura.",
+          "**Querés algo similar a Asad Intense pero distinto**: Afnan 9PM (gourmand-café), Armaf Club de Nuit Intense Man (dupe del Aventus), Lattafa Maahir Legacy (premium oscuro)."
+        ]
+      },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Cuidado con vendedores que confunden a propósito",
+        content: "Algunos listings ponen \"Lattafa Asad Bourbon\" en el título cuando en realidad están vendiendo el genérico. Si el precio está muy por debajo de lo que esperás para un Lattafa oficial ($45.000+) y el listing no muestra el QR oficial ni la etiqueta de seguridad de Lattafa, probablemente sea genérico. Preguntale al vendedor explícitamente: \"¿Es producto Lattafa oficial con etiqueta de seguridad y QR verificable?\". Un vendedor serio responde claro."
+      },
+      {
+        type: "h2",
+        title: "Diferencias olfativas entre los tres"
+      },
+      {
+        type: "p",
+        content: "Más allá de la cuestión de marca, los tres tienen perfiles olfativos distintos:"
+      },
+      {
+        type: "list",
+        items: [
+          "**Asad Intense (oficial)**: pimienta negra + piña + tabaco arriba, café + pachulí + iris en corazón, vainilla + ámbar + maderas en base. Es el más equilibrado entre dulce, especiado y amaderado.",
+          "**Asad Bourbon (genérico)**: bourbon + tabaco + cuero + maderas resinosas. Más \"alcohólico\" y menos dulce que el Intense.",
+          "**Asad Negro (genérico)**: maderas oscuras + resinas + ámbar oscuro + especias. El más \"nocturno\" y profundo del trío."
+        ]
+      },
+      {
+        type: "p",
+        content: "Si querés todo el detalle olfativo del Intense con notas, duración y comparaciones, lo cubrimos en el ranking de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) y en la sección de Asad de [Lattafa: guía completa](/guias/lattafa-guia-marca)."
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Para el 90% de los casos, **[Lattafa Asad Intense](https://meli.la/26owfqo)** es la compra correcta del trío. Es el único oficial, el más validado (7.245 reseñas), el que tiene respaldo de marca con QR de verificación, y el que más se compara positivamente con el Sauvage Elixir de Dior. Las versiones \"Bourbon\" y \"Negro\" genéricas pueden funcionar como perfumes con identidad propia si el perfil te interesa y no te importa el respaldo de marca, pero **no son sustitutos del Intense oficial**."
+      },
+      {
+        type: "p",
+        content: "El error más común que ves en redes es creer que las tres son \"versiones oficiales de la línea Asad\" y comprar la más barata pensando que es \"el mismo Lattafa por menos plata\". No lo es. Si querés Lattafa real, comprá el Intense. Si querés explorar perfiles similares con genéricos, comprá entendiendo qué estás comprando."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Cuál es la diferencia entre Lattafa Asad Intense y Asad Bourbon?",
+        answer: "Asad Intense es el único producto Lattafa oficial de los tres listados en el catálogo argentino. Asad Bourbon (al menos en las versiones disponibles en MercadoLibre AR) es un perfume genérico inspirado, sin marca fabricante declarada. Olfativamente, el Intense es más equilibrado dulce-especiado-amaderado; el Bourbon genérico es más alcohólico-tabacalero-cuero."
+      },
+      {
+        question: "¿Asad Negro es un perfume Lattafa oficial?",
+        answer: "Lattafa sí lanzó internacionalmente una variante llamada Asad Negro, pero la versión que se vende en MercadoLibre Argentina bajo ese nombre está etiquetada como \"genérico\" en su propio título. No es producto Lattafa oficial. Es un perfume con perfil oscuro-resinoso inspirado en la familia Asad pero sin respaldo de la marca."
+      },
+      {
+        question: "¿Vale la pena comprar el Asad genérico para ahorrar?",
+        answer: "Depende. Si tu prioridad es probar el perfil olfativo de Asad Bourbon o Asad Negro y no te importa el respaldo de marca, los genéricos pueden funcionar — son más baratos ($30.000-$48.000 vs $45.000-$62.000 del Intense oficial). Si querés un Lattafa real con calidad consistente, QR verificable y reseñas masivas, el Intense oficial es la única opción del trío que cumple."
+      },
+      {
+        question: "¿Cuál de los tres dura más en piel?",
+        answer: "El Asad Intense oficial tiene la longevidad mejor documentada: 6-10 horas reales reportadas por compradores en piel, con permanencia notable en ropa al día siguiente. Las versiones genéricas pueden variar entre tandas — algunas reseñas reportan 4-6 horas, otras más. Sin marca declarada, la consistencia entre tandas es menos predecible."
+      },
+      {
+        question: "¿Cuál es mejor: Asad Intense o Club de Nuit Intense Man?",
+        answer: "Son perfumes distintos para casos distintos. Asad Intense es especiado-amaderado-dulce, compararle con Dior Sauvage Elixir. Club de Nuit Intense Man es frutal-amaderado-ahumado, comparable con Creed Aventus. Para uso diario versátil: Asad. Para impresionar en evento o como dupe de Aventus: Club de Nuit. Los dos cubren el top 5 del nicho masculino árabe en Argentina."
+      },
+      {
+        question: "¿Cómo verificar que el Asad Intense que compré es Lattafa oficial?",
+        answer: "Buscá la etiqueta de seguridad de Lattafa en la caja con QR. Escaneá el QR con la cámara del teléfono y debe abrir una página oficial de verificación de Lattafa (no una URL rara). Verificá también: tipografía sin errores, dibujo central del frasco en relieve (no adhesivo), líquido con tono amarillento-dorado consistente. Las señales completas están en la guía de perfumes árabes originales."
+      }
+    ],
+    internalLinks: [
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Perfumes árabes originales: cómo identificarlos", href: "/guias/perfumes-arabes-originales" },
+      { label: "Perfumes árabes y sus dupes", href: "/guias/perfumes-arabes-dupes" },
+      { label: "Perfumes árabes amaderados", href: "/guias/perfumes-arabes-amaderados" },
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
+  },
+  {
+    slug: "donde-comprar-perfumes-arabes-buenos-aires",
+    category: "perfumes-arabes",
+    title: "Dónde comprar perfumes árabes en Buenos Aires: opciones físicas y online en CABA y GBA",
+    seoTitle: "Dónde comprar perfumes árabes en Buenos Aires (2026)",
+    metaDescription:
+      "Dónde comprar perfumes árabes en Buenos Aires en 2026: perfumerías físicas en CABA, locales por zona, importadores con domicilio AMBA y entrega Full en 24hs.",
+    ogTitle: "Buenos Aires: dónde están los perfumes árabes que viste en TikTok",
+    ogDescription:
+      "Locales físicos en CABA, importadores AMBA y entrega exprés. La guía local de Buenos Aires para conseguir Lattafa, Afnan y Rasasi sin esperar envíos del interior.",
+    h1: "Dónde comprar perfumes árabes en Buenos Aires: guía local CABA y GBA (2026)",
+    publishedDate: "2026-06-13",
+    updatedDate: "2026-06-13",
+    hasDisclosure: true,
+    intro: [
+      "Vivir en Buenos Aires tiene una ventaja concreta para comprar perfumes árabes: tenés acceso a los cuatro canales del mercado al mismo tiempo, y todos te entregan en 24-72 horas. Eso no se replica en Mendoza, Salta o Misiones. Pero también significa que conviene saber qué canal usar según lo que querés hacer: probar antes de comprar, conseguir el mejor precio, recibir el frasco hoy, o conseguir un perfume específico que no se ve en MercadoLibre.",
+      "Esta guía cubre las opciones reales en CABA y GBA en 2026: perfumerías físicas con sección árabe, locales especializados por zona, importadores con domicilio AMBA y los canales online con entrega Full que llegan al día siguiente. Si estás en Buenos Aires, esta es tu guía. Si estás en el interior del país, mejor [dónde comprar perfumes árabes en Argentina](/guias/donde-comprar-perfumes-arabes-argentina)."
+    ],
+    sections: [
+      {
+        type: "image",
+        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
+        alt: "Dónde comprar perfumes árabes en Buenos Aires: locales físicos en CABA, perfumerías Palermo, importadores AMBA",
+        imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Dónde comprar perfumes árabes en Buenos Aires?",
+        id: "donde-comprar-perfumes-arabes-en-buenos-aires"
+      },
+      {
+        type: "p",
+        content: "En Buenos Aires tenés cuatro opciones reales: **(1) Cadenas de perfumería con sección árabe** en CABA y centros comerciales del GBA (acceso fácil, precio premium, te dejan oler antes); **(2) Locales especializados independientes** en Palermo, Recoleta y zonas comerciales (más variedad, importadores propios); **(3) Importadores con domicilio AMBA en Instagram** que envían en CABA-GBA en 24-48 horas; **(4) MercadoLibre con envío Full** que llega al día siguiente en zonas amplias del AMBA. La ventaja de Buenos Aires sobre el resto del país es que cualquiera de las cuatro opciones funciona, sin diferencia significativa en tiempo de entrega."
+      },
+      {
+        type: "trust-block",
+        trustVariant: "methodology",
+        title: "Cómo armamos esta guía local",
+        content: "Mapeamos los cuatro canales por los que circulan perfumes árabes en CABA y GBA, con sus tiempos de entrega reales, rangos de precio y características distintivas. No nombramos locales específicos porque la oferta cambia mes a mes — un local puede tener sección árabe hoy y dejar de tenerla en seis meses. Lo que sí permanece son los patrones por zona y por tipo de canal, que es lo que esta guía documenta."
+      },
+      {
+        type: "h2",
+        title: "Perfumerías y cadenas con sección árabe en CABA"
+      },
+      {
+        type: "p",
+        content: "Las cadenas de perfumería grandes incorporaron progresivamente sección árabe entre 2023 y 2025. En 2026, la mayoría de los locales de cadenas con presencia en CABA y centros comerciales del GBA tienen al menos los top 5 más vendidos: Lattafa Yara (línea completa), Lattafa Asad Intense, Afnan 9PM, Khamrah Qahwa y algún Hawas o Club de Nuit. El stock varía por sucursal — los locales más grandes (shoppings, microcentro, Palermo) suelen tener más variedad que los de barrio."
+      },
+      {
+        type: "p",
+        content: "**Lo que ofrecen**: posibilidad de oler antes de comprar (la ventaja real), atención presencial, factura con marca, devolución por defecto bajo condiciones de la cadena. **Lo que cobran**: entre 10% y 30% más que MercadoLibre por el mismo producto. **A quién le conviene**: primera compra del nicho árabe, cuando querés probar 2-3 antes de decidir, o cuando lo necesitás hoy mismo."
+      },
+      {
+        type: "h2",
+        title: "Locales especializados independientes por zona"
+      },
+      {
+        type: "p",
+        content: "En CABA hay varios locales independientes con catálogo árabe más profundo que las cadenas grandes. Los suelen encontrar en estas zonas:"
+      },
+      {
+        type: "list",
+        items: [
+          "**Palermo (Soho y Hollywood)**: locales pequeños con muestrarios extensos. Importadores propios o revendedores especializados. Buena variedad de nichos (Maison Alhambra, Khadlaj, Al Wataniah) además de las top.",
+          "**Recoleta y Barrio Norte**: locales más enfocados en consumidor premium. Menos variedad árabe pero buen stock de los top 5-10. Precios alineados con cadenas grandes.",
+          "**Microcentro y Galerías**: locales más generalistas con stock variable. Buen lugar para conseguir precios un poco más bajos si la galería tiene importadores propios.",
+          "**Belgrano y Núñez**: zona con presencia creciente de locales de nicho. Stock parecido a Recoleta pero con público más joven.",
+          "**Centros comerciales del GBA Norte (Unicenter, Alto Avellaneda, Pilar)**: cadenas grandes con sección árabe consolidada. Conveniente si vivís fuera de CABA."
+        ]
+      },
+      {
+        type: "p",
+        content: "**Lo que ofrecen**: variedad superior a cadenas, atención más informada, posibilidad de pedir decants (algunos locales) o productos específicos por encargo. **Lo que cobran**: precio similar o levemente menor que cadenas grandes. **A quién le conviene**: cuando ya conocés el perfil árabe y querés explorar más allá de los top 5."
+      },
+      {
+        type: "h2",
+        title: "Importadores con domicilio AMBA (Instagram y redes)"
+      },
+      {
+        type: "p",
+        content: "El canal más \"informal\" del mercado, y también uno de los más usados en CABA y GBA. Cuentas de Instagram que importan o revenden perfumes árabes, con domicilio físico en AMBA (a veces Palermo, a veces Belgrano, a veces zonas del GBA Norte). Entregan en mano en CABA, hacen envíos a GBA en 24-48 horas, y muchos aceptan transferencia o pago en efectivo."
+      },
+      {
+        type: "p",
+        content: "**Lo que ofrecen**: precios 10-20% por debajo de MercadoLibre, atención personalizada por DM, a veces stock de productos que no aparecen en MercadoLibre. **El riesgo principal**: no hay Compra Protegida ni plataforma intermediaria. Si llega algo raro, dependés de la buena voluntad del vendedor. **Cómo filtrar**: cuántos meses lleva publicando, comentarios reales (no solo emojis), si muestra stock físico en stories, si tiene domicilio comercial visible, si emite factura."
+      },
+      {
+        type: "p",
+        content: "**A quién le conviene**: ya probaste a alguien recomendado por conocidos y confirmaste seriedad, o querés productos de nicho que no se consiguen en MercadoLibre. **A quién NO le conviene**: primera compra, no conocés a nadie que recomiende el vendedor, o el precio es sospechosamente bajo."
+      },
+      {
+        type: "h2",
+        title: "MercadoLibre con envío Full en CABA/GBA"
+      },
+      {
+        type: "p",
+        content: "La opción que más se usa en Buenos Aires por una razón simple: te llega al día siguiente en la mayor parte de CABA-GBA, sin moverte de casa. Para los productos más vendidos del nicho árabe — [Lattafa Yara Elixir](https://meli.la/2NrY6fF), [Asad Intense](https://meli.la/26owfqo), [Khamrah Qahwa](https://meli.la/1B8Vwwf), [Hawas Ice](https://meli.la/24kQeRc) — el envío Full está disponible en la mayoría de los listings de vendedores MercadoLíder."
+      },
+      {
+        type: "p",
+        content: "**Lo que ofrecen**: variedad enorme (más de 100 perfumes árabes disponibles), mejor precio dentro de vendedores confiables, Compra Protegida real, entrega al día siguiente. **A quién le conviene**: cuando ya sabés qué perfume querés y solo buscás el mejor precio con respaldo de plataforma. **A quién NO le conviene**: cuando es tu primera compra y querés oler antes (para eso, perfumería física)."
+      },
+      {
+        type: "callout",
+        calloutVariant: "tip",
+        calloutTitle: "El combo Buenos Aires inteligente",
+        content: "Si estás en CABA, la combinación más eficiente es: **una visita rápida a una perfumería con sección árabe para oler 2-3 candidatos** (Palermo o un shopping cerca de tu casa), y después **comprar el que más te gustó en MercadoLibre Full** para ahorrar 10-30% del precio sin perder respaldo. Es lo que hacen los compradores que ya conocen el circuito."
+      },
+      {
+        type: "h2",
+        title: "Tiempos de entrega comparados (CABA/GBA)"
+      },
+      {
+        type: "table",
+        headers: ["Canal", "Tiempo de entrega CABA", "Tiempo de entrega GBA", "Respaldo"],
+        rows: [
+          ["Perfumería física", "Inmediato (al ir)", "Inmediato (al ir)", "Cadena o local"],
+          ["Importador Instagram", "Hoy o mañana en mano", "24-48hs envío", "Vendedor"],
+          ["MercadoLibre Full", "Día siguiente", "24-72hs", "Compra Protegida"],
+          ["MercadoLibre sin Full", "3-5 días", "3-7 días", "Compra Protegida"]
+        ]
+      },
+      {
+        type: "h2",
+        title: "Cuándo conviene físico vs online en Buenos Aires"
+      },
+      {
+        type: "p",
+        content: "Una regla simple:"
+      },
+      {
+        type: "list",
+        items: [
+          "**Físico (perfumería o local)**: primera compra árabe, querés probar antes, necesitás el frasco hoy, querés ver el producto en persona.",
+          "**Online (MercadoLibre Full)**: ya sabés qué perfume querés, buscás el mejor precio dentro de vendedores confiables, no tenés apuro extremo.",
+          "**Importador IG**: ya conocés a alguien recomendado, querés un producto que no aparece en MercadoLibre, o buscás ahorrar el 10-20% en segunda o tercera compra.",
+          "**Combo**: la mayoría de los compradores avanzados de Buenos Aires usa el combo \"perfumería para probar + MercadoLibre Full para comprar\". Es la mejor relación tiempo/precio/seguridad."
+        ]
+      },
+      {
+        type: "h2",
+        title: "Productos a chequear localmente en Buenos Aires"
+      },
+      {
+        type: "p",
+        content: "Si vas a perfumería física en Buenos Aires, estos son los que conviene oler primero — son los que tienen mayor variabilidad de \"me gusta o no me gusta\" en piel, y por eso vale la pena probar antes de comprar el frasco grande:"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA19715215",
+        variant: "compact",
+        description: "Asad Intense: especiado-amaderado fuerte. Algunas pieles lo aman, otras lo perciben demasiado dulce o demasiado pesado. Ideal para probar en piel antes del frasco grande.",
+        label: "Probar antes",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA31178643",
+        variant: "compact",
+        description: "Khamrah Qahwa: café-canela-vainilla-dátiles. Perfil muy específico — funciona muy bien o no funciona. Oler antes evita decepción de $55.000.",
+        label: "Probar antes",
+        labelColor: "amber"
+      },
+      {
+        type: "product-card",
+        productMlaId: "MLA60836327",
+        variant: "compact",
+        description: "Yara Elixir: dulce-cítrico-vainilla. Más universal que los anteriores, pero algunas mujeres lo perciben empalagoso. Oler primero si nunca usaste un Yara.",
+        label: "Probar antes",
+        labelColor: "amber"
+      },
+      {
+        type: "h2",
+        title: "Veredicto"
+      },
+      {
+        type: "p",
+        content: "Buenos Aires es la mejor ciudad de Argentina para comprar perfumes árabes en 2026: tenés los cuatro canales del mercado funcionando, con entrega rápida en todos. La estrategia óptima para la mayoría depende de en qué etapa estás: **si es tu primera compra**, una visita a una perfumería con sección árabe en CABA o un shopping del GBA Norte para oler 2-3 candidatos. **Si ya sabés qué querés**, MercadoLibre con envío Full y vendedor MercadoLíder es la mejor relación tiempo/precio/seguridad. **Si querés explorar más allá del top 10**, locales especializados en Palermo o importadores con domicilio AMBA en Instagram (con todas las precauciones de evaluar al vendedor)."
+      },
+      {
+        type: "p",
+        content: "Una cosa que casi nadie aprovecha y que en Buenos Aires es viable: el combo perfumería + online. Olés en local, comprás online el que más te gustó. Ahorrás 10-30% sin perder la seguridad de haber probado antes. Es la jugada más inteligente del mercado."
+      }
+    ],
+    faq: [
+      {
+        question: "¿Dónde puedo oler perfumes árabes antes de comprar en Buenos Aires?",
+        answer: "En cualquier sucursal grande de cadenas de perfumería con sección árabe en CABA o en shoppings del GBA (Unicenter, Alto Avellaneda, Pilar). También en locales especializados de Palermo, Recoleta, Belgrano y zonas comerciales. La mayoría tiene los top 5 más vendidos disponibles para probar."
+      },
+      {
+        question: "¿Es más barato comprar perfumes árabes en CABA físicamente que online?",
+        answer: "No, generalmente al revés. Los locales físicos en CABA cobran entre 10% y 30% más que MercadoLibre por el mismo producto. La ventaja del físico no es el precio, sino la posibilidad de oler antes y la entrega inmediata. Para mejor precio, MercadoLibre con vendedor MercadoLíder gana."
+      },
+      {
+        question: "¿Qué barrios de CABA tienen más opciones de perfumes árabes?",
+        answer: "Palermo (Soho y Hollywood) tiene la mayor concentración de locales especializados con catálogo árabe profundo. Recoleta y Belgrano tienen presencia de cadenas grandes y locales premium. Microcentro y galerías comerciales tienen opciones más generalistas con precios variables. Para variedad de nicho (Maison Alhambra, Khadlaj), Palermo gana."
+      },
+      {
+        question: "¿Cuánto tarda MercadoLibre Full en CABA?",
+        answer: "Día siguiente en la mayoría de CABA si comprás antes de cierto horario (suele ser 14-16hs según vendedor). En GBA, 24-72 horas según zona. Es el canal más rápido del país junto con la entrega en mano de importadores con domicilio AMBA."
+      },
+      {
+        question: "¿Es seguro comprar perfumes árabes a un importador de Instagram en Buenos Aires?",
+        answer: "Puede serlo, pero requiere más diligencia que MercadoLibre. Verificá: cuántos meses lleva publicando, comentarios reales con fotos (no solo emojis), si muestra stock físico en stories, si tiene domicilio comercial visible, si emite factura, si acepta entrega en mano para que vos lo veas antes de pagar. Si todo eso check, es válido. Si falla en alguna, mejor MercadoLibre con respaldo de plataforma."
+      },
+      {
+        question: "¿Qué pasa con los perfumes árabes en el GBA fuera de Capital?",
+        answer: "Los shoppings grandes del GBA Norte (Unicenter, Alto Avellaneda, Pilar) tienen sección árabe consolidada. En GBA Sur y Oeste la oferta física es más limitada — la mejor opción ahí es MercadoLibre Full con vendedor MercadoLíder, que llega en 24-72 horas a la mayoría del conurbano."
+      }
+    ],
+    internalLinks: [
+      { label: "Dónde comprar perfumes árabes en Argentina (guía nacional)", href: "/guias/donde-comprar-perfumes-arabes-argentina" },
+      { label: "Perfumes árabes originales: cómo identificarlos", href: "/guias/perfumes-arabes-originales" },
+      { label: "Precios reales de perfumes árabes en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" }
     ],
     internalLinksTitle: "Guías relacionadas"
   },

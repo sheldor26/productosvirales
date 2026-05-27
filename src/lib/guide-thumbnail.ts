@@ -21,6 +21,14 @@ function isUsableImageSection(s: GuideSection): boolean {
   return fileExistsInPublic(s.src);
 }
 
+function hashSlug(slug: string): number {
+  let h = 5381;
+  for (let i = 0; i < slug.length; i++) {
+    h = ((h << 5) + h + slug.charCodeAt(i)) | 0;
+  }
+  return Math.abs(h);
+}
+
 export function getGuideThumbnail(guide: Guide): {
   src: string;
   alt: string;
@@ -87,16 +95,19 @@ export function getGuideThumbnail(guide: Guide): {
   };
   const keyword = CATEGORY_KEYWORDS[guide.category];
   if (keyword) {
-    const match = getVisibleProducts().find((p) =>
+    const matches = getVisibleProducts().filter((p) =>
       p.title.toLowerCase().includes(keyword)
     );
-    if (match?.image) {
-      return {
-        src: match.image,
-        alt: match.title || guide.title,
-        width: 200,
-        height: 200,
-      };
+    if (matches.length > 0) {
+      const pick = matches[hashSlug(guide.slug) % matches.length];
+      if (pick.image) {
+        return {
+          src: pick.image,
+          alt: pick.title || guide.title,
+          width: 200,
+          height: 200,
+        };
+      }
     }
   }
 
