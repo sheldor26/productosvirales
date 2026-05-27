@@ -79,7 +79,12 @@ Durante la redacción, marcar mentalmente **al menos 3 trucos psicológicos dife
 
 **Regla 1**: cada vez que aparezca un nombre de producto en el cuerpo, debe haber un link inline o un product-card cerca. Sin excepciones.
 
-**Regla 2 (CRÍTICA)**: el link SIEMPRE va a la ficha interna del producto, NUNCA al afiliado de MercadoLibre desde un párrafo. Usar formato canónico `/producto/<slug-titulo>-<mla-id-en-minúscula>` (no `/producto/MLA<ID>` legacy). El componente `product-card` lo hace bien automáticamente vía `productMlaId`. Ver sección 4.9 del Master Structure para el detalle completo y los porqués.
+**Regla 2 (CRÍTICA — distinción producto vs guía)**:
+- **Link a un PRODUCTO en texto inline**: siempre directo a MercadoLibre (`affiliateUrl` del producto en `curated-products.ts`, suele ser un `meli.la/...`). Cero fricción, máxima conversión.
+- **Link a otra GUÍA en texto inline**: siempre URL interna (`/guias/<slug>`). Esto sí es SEO interno y construcción de autoridad del cluster.
+- **`product-card` (componente)**: no tocar — su CTA principal ya va a MercadoLibre, el secundario "Ficha completa" va a la ficha interna. Está configurado óptimo.
+
+Ver sección 4.9 del Master Structure para el detalle completo y los porqués.
 
 ## 5. Imágenes
 

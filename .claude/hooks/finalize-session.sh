@@ -26,6 +26,6 @@ printf '%s' "$session_id" > "$flag_file"
 cat <<'JSON'
 {
   "decision": "block",
-  "reason": "Antes de cerrar la sesión, hacé estos pasos en este orden:\n\n1) Actualizá CURRENT_STATE.md con lo que cambió en esta sesión (productos, guías, rutas, decisiones nuevas, pendientes que dejaste).\n2) Si algo salió mal o fue confuso, agregá una entrada arriba en MISTAKES.md (formato: fecha — qué pasó — por qué — cómo evitarlo).\n3) Si algo funcionó muy bien y vale la pena repetir, agregá una entrada arriba en LEARNINGS.md.\n\nSi no hubo cambios relevantes, decilo y terminá. No vuelvas a explorar el repo si ya cumpliste."
+  "reason": "Antes de cerrar la sesión, hacé estos pasos en este orden:\n\n1) APPENDEÁ UNA ENTRADA NUEVA ARRIBA en SESSION_LOG.md con la fecha de hoy y un resumen de qué se hizo en esta sesión (seguir la plantilla del archivo). Esto es el log histórico — siempre suma, nunca borra.\n\n2) ACTUALIZÁ CURRENT_STATE.md para que refleje el estado actual del proyecto (productos, guías, pendientes). Esto es un snapshot vivo — se sobrescribe.\n\n3) Si algo salió mal o fue confuso, agregá una entrada arriba en MISTAKES.md (formato: fecha — qué pasó — por qué — cómo evitarlo).\n\n4) Si algo funcionó muy bien y vale la pena repetir, agregá una entrada arriba en LEARNINGS.md.\n\nSi no hubo cambios relevantes, decilo en SESSION_LOG.md igual (1 línea: 'sin cambios') y terminá. No vuelvas a explorar el repo si ya cumpliste."
 }
 JSON

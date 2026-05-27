@@ -175,24 +175,34 @@ Cada truco va etiquetado. Cuando uses uno, anotalo mentalmente para no abusar.
 
 **REGLA CRÍTICA — a dónde enlazar**:
 
-Todos los productos mencionados en un post **ya tienen ficha interna propia** en `/producto/<slug>`. Desde el cuerpo de un guide, **siempre enlazar a la ficha interna**, NUNCA al afiliado de MercadoLibre directamente.
+Hay dos tipos de links dentro del cuerpo de un guide y cada uno tiene un destino distinto:
 
-- ✅ **Bien (link inline)**: `[Lattafa Yara Elixir 100ml](/producto/lattafa-yara-elixir-edp-100ml-mla60836327)`
-- ✅ **Bien (product-card)**: `{ type: "product-card", productMlaId: "MLA60836327", ... }` — linkea automáticamente a la ficha interna.
-- ❌ **Mal**: `[Lattafa Yara Elixir](https://meli.la/1kwTmSn)` desde un párrafo del guide.
-- ⚠️ **Aceptable pero no óptimo**: `/producto/MLA60836327` (URL legacy, sin slug). El sistema redirige a la canónica pero genera un 301 extra. **Para guides nuevos, usar siempre el slug canónico**: `/producto/<slug-titulo>-<mla-id-en-minúscula>`.
+### Links a productos (en texto inline o CTAs)
+**SIEMPRE directo a MercadoLibre** (`affiliateUrl` del producto en `curated-products.ts`, que ya es un `meli.la/...`). Cero fricción, máxima conversión.
 
-**Por qué importa**:
-- SEO: distribuye link equity dentro del sitio (la ficha interna acumula autoridad y rankea independientemente).
-- Conversión: la ficha interna ya tiene specs, pros/cons, social proof, JSON-LD optimizado. El usuario llega con más contexto y convierte más cuando finalmente va al afiliado.
-- UX: el usuario puede comparar con productos relacionados antes de salir del sitio.
+- ✅ **Bien**: `[Lattafa Yara Elixir 100ml](https://meli.la/1kwTmSn)` — link inline a meli.la.
+- ✅ **Bien**: `ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/1kwTmSn" }]` — CTA de card.
+- ❌ **Mal**: `[Lattafa Yara Elixir 100ml](/producto/lattafa-yara-elixir-edp-100ml-mla60836327)` — desvía al usuario por una ficha interna cuando ya estaba listo para comprar.
 
-**Excepción**: si una guía existente NO tiene ficha de producto interna (caso raro), solo entonces se puede usar `affiliateUrl` directo. Pero antes verificar con `grep "MLA<ID>" src/data/curated-products.ts` — la mayoría de productos referenciados ya están importados.
+**Por qué**: el guide es donde el usuario está leyendo y decidiendo. Cuando hace click en el nombre del producto, quiere COMPRAR, no leer otra página. La ficha interna sigue existiendo como destino SEO independiente (rankea por su cuenta para queries tipo "Lattafa Yara Elixir 100ml review"), pero no se usa como puente desde el guide.
 
-**Cómo encontrar el slug canónico de un producto**:
-1. Buscar el producto en `src/data/curated-products.ts` por su `MLA<ID>`.
-2. La URL canónica se construye como `/producto/<title-slugificado>-<mla-id-en-minúscula>`.
-3. El helper `productHref()` en `src/lib/product-url.ts` lo genera automáticamente — útil si se está scripteando.
+**Componente `product-card`**: ya está configurado correctamente. Su CTA principal "Ver en MercadoLibre" lleva directo al afiliado (`affiliateUrl`), y el CTA secundario "Ficha completa" lleva a la ficha interna para el usuario que quiere más contexto. **No tocar la implementación.**
+
+### Links a otras guías (cross-link editorial entre guides)
+**Siempre URL interna** (`/guias/<slug>`). Esto sí es SEO interno y construcción de autoridad temática del cluster.
+
+- ✅ **Bien**: `Más detalle en la [guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa).`
+- ✅ **Bien**: el bloque `internalLinks` al final con 3-7 guías relacionadas.
+
+**Por qué**: las guías sí se construyen como hub-and-spoke. El cluster necesita cross-linking entre guides para que Google entienda la autoridad temática. Eso es lo que distribuye link equity y posiciona el cluster completo.
+
+### Resumen
+- **Productos → meli.la** (conversión).
+- **Guías → interno** (autoridad SEO del cluster).
+- **Fichas de producto → no se enlazan desde el guide** (existen como destinos SEO autónomos, no como puente).
+
+### Cómo encontrar el affiliateUrl de un producto
+Buscar `id: "MLA<ID>"` en `src/data/curated-products.ts` y copiar el valor del campo `affiliateUrl` (un `meli.la/...`). Si por algún motivo el producto no tiene `affiliateUrl`, se usa el `permalink` de MercadoLibre original.
 
 ### 4.10 Pull-quote con atribución
 **Qué hace**: cita textual de un comprador + atribución detallada.
