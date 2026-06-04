@@ -2958,9 +2958,9 @@ export const guides: Guide[] = [
       `Cuando te ponés a buscar freidora de aire en Argentina, rápido aparecen Atma y Peabody. Las dos son marcas nacionales, las dos tienen garantía que podés reclamar en el país, y las dos metieron buena plata en investigación. Pero no son iguales, y dependiendo de dónde vivís, una puede convenirte mucho más que la otra.`,
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_785037-MLA99555415684_122025-F.webp", alt: `Comparativa freidora de aire Atma vs Peabody Argentina`, imageSize: "hero" },
       { type: "h2", title: `¿Cuál conviene comprar, Atma o Peabody?` },
       { type: "p", content: `Si vivís en el interior del país y priorizás servicio técnico cercano, Atma. Si estás en AMBA y te importa más el diseño y las funciones (pantalla táctil, visor 360°), Peabody. Las dos tienen 2 años de garantía y precios similares ($45.000–$70.000 según modelo). Las dos cocinan bien. La diferencia real está en dónde vivís y qué priorizás.` },
-      { type: "image", src: "/images/freidoras/comparativa-atma-vs-peabody.webp", alt: `Comparativa freidora de aire Atma vs Peabody Argentina` },
       { type: "h2", title: `Tabla comparativa: Atma vs Peabody` },
       { type: "table", headers: [`Característica`, `Atma FR248ABP 8L`, `Peabody PE-AFD650N 6.5L`, `Atma FR901DP Grill`, `Peabody PE-AFG01IX Grill`, `Atma FRD248AP Doble`, `Peabody AFDL102N Doble`], rows: [
         [`Capacidad`, `8 litros`, `6.5 litros`, `6.3 litros + grill`, `6 litros + grill`, `8.5 litros`, `10 litros`],
@@ -3044,7 +3044,7 @@ export const guides: Guide[] = [
       `Las freidoras con grill integrado son lo que todos ven una sola vez en la publicidad y dicen: "Quiero eso". Suena lógico. Una máquina que fríe y que también marca carnes como una parrilla. Genio de marketing. Pero la realidad es que la mayoría de quienes compran una freidora con grill nunca usan el grill. Acá vamos a analizar qué realmente es, cuándo funciona, cuándo es humo.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/freidoras-con-grill-argentina.webp", alt: `Freidoras de aire con grill Argentina Atma Peabody` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_727889-MLA99464081972_112025-F.webp", alt: `Freidoras de aire con grill Argentina Atma Peabody`, imageSize: "hero" },
       { type: "h2", title: `Qué es la función grill en una freidora` },
       { type: "p", content: `Primero, desmitificar. No es una parrilla de verdad. No tenés un hierro incandescente. Lo que hay es:` },
       { type: "p", content: `Tipo placa térmica: Una placa de metal que calienta por resistencia. Se coloca en el fondo o como accesorio. Alcanza 180-200°C y marca carnes por contacto directo.` },
@@ -3479,7 +3479,7 @@ export const guides: Guide[] = [
       `Cuando empezaron a salir freidoras con doble canasta, la propaganda fue obvia: "Cocina dos cosas a la vez". Suena genial. Carne en una, papas en la otra. Fin de historia, todos felices. Pero la realidad es un poco más complicada. Hay doble canasta y hay doble piso, y no es lo mismo. Y no siempre necesitás una.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/mejores-freidoras-doble-canasta.webp", alt: `Mejores freidoras de aire con doble canasta Argentina` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_991646-MLA100053575793_122025-F.webp", alt: `Mejores freidoras de aire con doble canasta Argentina`, imageSize: "hero" },
       { type: "h2", title: `Diferencia crucial: Doble canasta vs doble piso` },
       { type: "p", content: `Esto es lo primero que tenés que entender.` },
       { type: "p", content: `Doble canasta (Atma, Oster): Dos cestas colocadas una al lado de la otra, lateralmente. Ocupan espacio horizontal. Cada una recibe aire directo del ventilador, pero compiten por distribución. Los modelos mejores tienen dos sistemas de aire independientes.` },
