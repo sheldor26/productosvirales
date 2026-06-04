@@ -191,7 +191,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                 fill
                 sizes="(max-width: 768px) 100vw, 720px"
                 priority
-                className="object-cover"
+                className="object-contain"
               />
             </div>
           </figure>

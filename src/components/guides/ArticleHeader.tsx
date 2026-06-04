@@ -109,14 +109,14 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
       {/* Hero image (breakout) */}
       {hero && hero.src && (
         <figure className="editorial-hero-wrap mt-6 md:mt-8">
-          <div className="relative aspect-[1200/630] w-full overflow-hidden">
+          <div className="relative aspect-[1200/630] w-full overflow-hidden bg-[var(--bg-secondary)]">
             <Image
               src={hero.src}
               alt={hero.alt || guide.h1}
               fill
               sizes="(max-width: 768px) 100vw, 1200px"
               priority
-              className="object-cover"
+              className="object-contain"
             />
           </div>
           {hero.alt && (

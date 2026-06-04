@@ -3205,7 +3205,7 @@ export const guides: Guide[] = [
       `Cuando la familia es grande, o cocinás para reuniones, freidora de 5-6 litros es tortura. Haces una tanda, esperas, haces otra, esperas. Tres horas para tener todo listo. Acá entran las freidoras de 8-10 litros. Una sola tanda y alimentás a todo el mundo. Pero hay detalles importantes que no son solo "litros". Espacio, potencia, distribución de aire. Todo suma.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/freidoras-gran-capacidad.webp", alt: `Freidoras de aire gran capacidad 8 9 10 litros Argentina` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_630308-MLA99466742274_112025-F.webp", alt: `Freidoras de aire gran capacidad 8 9 10 litros Argentina`, imageSize: "hero" },
       { type: "h2", title: `Tabla: Las freidoras grandes del mercado` },
       { type: "table", headers: [`Modelo`, `Capacidad`, `Potencia`, `Temp. máx`, `Material`, `Precio aprox.`, `Mejor para`], rows: [
         [`[Atma FR248ABP](/guias/atma-freidoras-de-aire-review)`, `8L`, `2000W`, `200°C`, `Acero inoxidable`, `$48.000-$55.000`, `Familia 5-6 personas, cocina regular`],
@@ -3628,7 +3628,7 @@ export const guides: Guide[] = [
       `Acá entra la categoría de las económicas. Hay opciones que arrancan desde $25.000. Sí, un tercio del precio de una Atma. Pero tienen limitaciones claras.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/freidoras-economicas-argentina.webp", alt: `Mejores freidoras de aire económicas Argentina 2026` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_957826-MLU74154693437_012024-F.webp", alt: `Mejores freidoras de aire económicas Argentina 2026`, imageSize: "hero" },
       { type: "h2", title: `Tabla: Freidoras económicas vs premium` },
       { type: "table", headers: [`Característica`, `PowerXL AF-E4001-AR 3.8L`, `Kanji Home KJH-1700DC 8L`, `Gadnic 6.5L`, `Atma FR248ABP (referencia)`], rows: [
         [`Capacidad`, `3.8 litros`, `8 litros`, `6.5 litros`, `8 litros`],
@@ -3912,7 +3912,7 @@ export const guides: Guide[] = [
       `La respuesta no es un sí o un no rotundo. Algunos accesorios mejoran mucho cómo cocinas y cómo sale la comida. Otros son directamente chamuyo. Te cuento qué funciona y qué es al pedo.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/accesorios-freidora-de-aire.webp", alt: `Accesorios para freidora de aire moldes papel silicona` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_785037-MLA99555415684_122025-F.webp", alt: `Accesorios para freidora de aire moldes papel silicona`, imageSize: "hero" },
       { type: "h2", title: `Papel para freidora de aire: la arma de doble filo` },
       { type: "p", content: `Mucha gente lo ve como solución milagrosa. Lo cierto es que el papel ayuda, pero solo si lo usás bien.` },
       { type: "p", content: `Cuándo funciona: el papel para freidora (que es perforado, no cualquier papel) evita que la comida se pegue en la canasta. Si cocinas algo húmedo o con salsa, el papel atrapa la grasa y los derrames no se van directo al fondo de la máquina. También sirve cuando hacés algo empanado y no querés que los pequeños trozos se caigan por los costados.` },
@@ -4017,7 +4017,7 @@ export const guides: Guide[] = [
       `Compraste tu freidora de aire y no sabés por dónde empezar. Es normal. A pesar de que el aparato es relativamente simple, los primeros intentos pueden traer sorpresas desagradables: comida quemada, cruda, o con ese olor a plástico quemado que genera dudas. Con estos pasos básicos evitarás errores comunes y sacarás el máximo provecho de tu compra.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/como-usar-freidora-de-aire.webp", alt: `Cómo usar una freidora de aire guía paso a paso` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_661695-MLA99473383512_112025-F.webp", alt: `Cómo usar una freidora de aire guía paso a paso`, imageSize: "hero" },
       { type: "h2", title: `Preparación inicial: antes del primer uso` },
       { type: "h3", title: `Lavar la canasta y el interior` },
       { type: "p", content: `Saca todo el material de empaque. La canasta y la bandeja inferior tienen polvo de fábrica y restos de fabricación que necesitan desaparecer. Usa agua tibia con un poco de detergente suave, una esponja blanda y sécalo todo bien. Algunos modelos tienen partes que no son desmontables; en ese caso, pasa un paño húmedo por el interior con cuidado.` },
@@ -4164,7 +4164,7 @@ export const guides: Guide[] = [
       `Compraste freidora y de repente pensás: ¿cuánto me va a costar usarla? Es una pregunta legítima. A diferencia del gas (donde calcular es complicado), la electricidad es medible. Acá te muestro exactamente cómo se calcula el consumo y qué significa en tu factura.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/consumo-freidora-de-aire.webp", alt: `Cuánto consume una freidora de aire electricidad Argentina` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_788252-MLA99975580653_112025-F.webp", alt: `Cuánto consume una freidora de aire electricidad Argentina`, imageSize: "hero" },
       { type: "h2", title: `La fórmula básica que necesitás` },
       { type: "p", content: `Todo aparato eléctrico consume según su potencia. La fórmula es simple:` },
       { type: "p", content: `Consumo en kWh = Potencia en watts × Tiempo en horas` },
@@ -4336,7 +4336,7 @@ export const guides: Guide[] = [
       `No es para asustarte. Es para que sepas qué te espera si decidís comprar una. Hay desventajas que importan de verdad, y otras que son más un tema de expectativas. Necesitás saber cuáles son cuáles.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/desventajas-freidora-de-aire.webp", alt: `Desventajas freidora de aire lo que nadie te dice` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_957826-MLU74154693437_012024-F.webp", alt: `Desventajas freidora de aire lo que nadie te dice`, imageSize: "hero" },
       { type: "h2", title: `La capacidad nominal vs la capacidad real` },
       { type: "p", content: `Esto es lo primero que tiene que quedar claro: cuando una freidora dice "5 litros", no significa que cocines 5 litros de comida en un lote.` },
       { type: "p", content: `Una freidora de 5 litros tiene una canasta que físicamente mide eso. Pero si querés que la comida salga bien —crujiente y cocida parejo— no podés llenar la canasta a tope. El aire necesita circular alrededor de todo. Si apilás demasiado, la comida del medio queda al horno y la de los bordes queda quemada.` },
@@ -4451,7 +4451,7 @@ export const guides: Guide[] = [
       `La pregunta aparece en todos lados: ¿compro freidora de aire o qué hago con el horno que tengo? La respuesta depende de lo que cocinás, cuánto cocinás y qué tipo de horno tenés en casa. No es que una sea mejor que la otra. Son aparatos distintos para situaciones distintas.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/freidora-vs-horno.webp", alt: `Freidora de aire vs horno comparativa Argentina` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_785037-MLA99555415684_122025-F.webp", alt: `Freidora de aire vs horno comparativa Argentina`, imageSize: "hero" },
       { type: "h2", title: `El factor tiempo: freidora gana fácil` },
       { type: "p", content: `Esta es la ventaja más evidente. Una freidora de aire se calienta en 3-5 minutos. Un horno eléctrico tarda 10-15 minutos. Un horno a gas, si está en buenas condiciones, tarda 8-10 minutos.` },
       { type: "p", content: `Si cocinás por las noches cuando recién llegas del laburo, esos 10 minutos de espera son molestosos. Con freidora es: enchufás, esperás 3-4 minutos, metés la comida.` },
@@ -4574,7 +4574,7 @@ export const guides: Guide[] = [
       `Compraste freidora, aprendiste lo básico, ahora querés cocinar algo que valga la pena. Acá van 15 recetas simples, probadas en freidoras normales de mercado argentino. No es ciencia de cohete. Son cosas que cocinás en casa, pero más rápido y menos aceite.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/recetas-freidora-de-aire.webp", alt: `Recetas para freidora de aire Argentina fáciles` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_661695-MLA99473383512_112025-F.webp", alt: `Recetas para freidora de aire Argentina fáciles`, imageSize: "hero" },
       { type: "h2", title: `1. Papas tipo bastón crocantes` },
       { type: "p", content: `Ingredientes:` },
       { type: "list", items: [
@@ -4833,7 +4833,7 @@ export const guides: Guide[] = [
       `Estás a punto de gastar entre $50.000 y $80.000 en una freidora de aire. Es plata. Necesitás saber si realmente vale. Acá va la respuesta honesta, sin maña de vendedor.`,
     ],
     sections: [
-      { type: "image", src: "/images/freidoras/vale-la-pena-freidora.webp", alt: `Vale la pena comprar freidora de aire Argentina 2026` },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_981648-MLA99506816420_112025-F.webp", alt: `Vale la pena comprar freidora de aire Argentina 2026`, imageSize: "hero" },
       { type: "h2", title: `Para quién SÍ vale la pena` },
       { type: "h3", title: `Cocinás seguido (4+ veces a la semana)` },
       { type: "p", content: `Si tu rutina es: llegas a casa de laburo, necesitás cenar en 25-30 minutos, y hoy son papas con pollo. La freidora te resuelve eso. Papas en 18 minutos. Pollo en 15. Listo.` },
