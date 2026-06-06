@@ -10135,7 +10135,11 @@ export const guides: Guide[] = [
         [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `$244.949`, `Sensores`, `3 en 1 · tanque 450 ml`, `Empezar sin gastar mucho`],
       ] },
       { type: "p", content: `¿Querés ver el panorama de precios completo, de los $120.000 a los $1.400.000, y entender qué pagás en cada escalón? Lo desglosamos en la [guía de precios de robot aspiradora en Argentina](/guias/robot-aspiradora-precio-argentina).` },
-  
+
+      { type: "h2", title: `Función trapeado: qué esperar de verdad`, id: "trapeado" },
+      { type: "p", content: `Casi todos los robots de esta lista "trapean", pero hay que entender qué significa eso para no comprar esperando lo que no es. El trapeado de un robot es un **paño húmedo que arrastra mientras se mueve**: levanta el polvo fino que quedó, marca de pisada fresca y manchas livianas. Es mantenimiento diario, no la baldeada del sábado. No frota una mancha de salsa pegada ni reemplaza el trapo de piso a fondo.` },
+      { type: "p", content: `Dónde sí cambia la vida: en cocina, palier y ambientes que se ensucian rápido, pasarlo todos los días deja el piso visiblemente mejor sin que muevas un dedo. Los modelos con **tanque de agua y control de flujo** (como el [Gadnic AspiRob](https://meli.la/2mPhJwy) o el [Atma ATAR21C1DH](https://meli.la/1TWykcE) con sus 450 ml) dosifican mejor que los que solo mojan un paño y lo arrastran seco a los diez minutos. Si el trapeado es tu prioridad, armamos un ranking aparte en [mejores robot aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
+
       { type: "h2", title: `Cómo elegir: qué mirar antes de pagar`, id: "como-elegir" },
       { type: "h3", title: `Navegación: LIDAR vs mapeo vs aleatoria` },
       { type: "p", content: `Es lo que más cambia la experiencia. Un robot con **navegación aleatoria** (los más baratos) anda chocando y rebotando hasta cubrir el piso; tarda más y deja zonas sin tocar. Uno con **mapeo** arma un plano de tu casa y limpia ordenado, por filas. El **LIDAR** es mapeo de alta precisión con un láser giratorio: limpia parejo, esquiva mejor y te deja dibujar zonas prohibidas en la app. Si podés estirarte a un modelo con mapeo, es la mejora que más se nota.` },
@@ -10155,6 +10159,18 @@ export const guides: Guide[] = [
         `**Te tira el ecosistema Xiaomi:** entrá con el [S40c](https://meli.la/16WtjsG) y, si querés potencia, el [S40 Pro](https://meli.la/117oW5y).`,
       ] },
   
+      { type: "h2", title: `Precios reales en Argentina (junio 2026)`, id: "precios" },
+      { type: "p", content: `Estos son los precios verificados de los modelos del ranking en junio de 2026, de menor a mayor. Los robots aspiradora se mueven mucho de precio según ofertas y tipo de cambio, así que tomalos como referencia del escalón en el que juega cada uno, no como número grabado en piedra.` },
+      { type: "list", items: [
+        `[Atma ATAR21C1DH](https://meli.la/1TWykcE) — **$244.949** · entrada nacional, 3 en 1.`,
+        `[Xiaomi S40c](https://meli.la/16WtjsG) — **$320.540** · el mapeo más barato con app en español.`,
+        `[Gadnic AspiRob](https://meli.la/2mPhJwy) — **$330.049** · mapeo + trapeado equilibrado.`,
+        `[Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — **$507.799** · LIDAR y base autolimpiante a precio de gama media.`,
+        `[Xiaomi S40 Pro](https://meli.la/117oW5y) — **$599.990** · 15.000 Pa, el de más succión.`,
+        `[Samsung Jetbot LIDAR](https://meli.la/15C617u) — **$1.300.000** · premium con garantía oficial Samsung.`,
+      ] },
+      { type: "trust-block", trustVariant: "pricing", content: `Cómo verificamos los precios: chequeamos cada modelo directamente en su publicación de MercadoLibre Argentina en junio de 2026 y tomamos el precio del vendedor con mejor reputación y stock. Cuando un producto baja o sube de forma sostenida, actualizamos la guía. No mostramos "precios tachados" inflados: el número que ves es el que pagás hoy.` },
+
       { type: "h2", title: `Guías relacionadas para profundizar`, id: "guias-relacionadas" },
       { type: "list", items: [
         `[Mejores robot aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora) — si tu prioridad es el repasado de pisos.`,
@@ -10164,6 +10180,8 @@ export const guides: Guide[] = [
         `[Robot aspiradora con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser) — por qué el LIDAR cambia todo.`,
         `[Cómo funciona una robot aspiradora](/guias/como-funciona-robot-aspiradora) — la mecánica, paso a paso, sin vueltas.`,
       ] },
+
+      { type: "verdict", content: `Para la mayoría, el [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) es la compra más inteligente del momento: LIDAR y base autolimpiante a un precio que hace dos años era impensado, con más de 1.000 calificaciones que lo respaldan. Si te pesa el respaldo de una marca grande con service oficial en Argentina, el [Samsung Jetbot LIDAR](https://meli.la/15C617u) lo justifica. Y si querés arrancar gastando poco, el [Atma ATAR21C1DH](https://meli.la/1TWykcE) nacional cumple sin pretensiones. Sea cual sea, priorizá garantía y repuestos locales por encima de un número de succión llamativo.` },
     ],
     faq: [
       { question: `¿Vale la pena comprar una robot aspiradora en 2026?`, answer: `Sí, más que nunca. En los últimos dos años el mapeo LIDAR y la base de autovaciado bajaron de la gama premium a la gama media, así que por $450.000-$600.000 conseguís un equipo que en 2023 costaba el triple. Para mantenimiento diario de pisos —polvo, pelos, migas— rinde muchísimo. Lo que no reemplaza es una limpieza a fondo ocasional.` },
