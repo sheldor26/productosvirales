@@ -1,102 +1,110 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-05-26 (auditoría inicial).
+> Última actualización: 2026-06-06 (nicho aspiradoras robot + scraper arreglado + API oficial validada).
 
 ## Catálogo
 
-- **170 productos** en `src/data/curated-products.ts`.
-- Distribución por categoría del feed:
-  - Hogar: 55
-  - Cocina: 53
-  - Belleza: 50 (40 + 10 entre comillas dobles/simples — convención mixta)
-  - Tech: 12
-- Productos featured (visibility: "featured"): TCL 43S5K (Smart TV 43" — top del catálogo).
-- Precios trackeados con `priceUpdated` + `priceLastChecked` + `priceStatus` (fresh/stale/out_of_stock).
+- **~186 productos** en `src/data/curated-products.ts` (170 + 6 Panini + 10 aspiradoras robot nuevas).
+- Categorías nuevas: **`coleccionables`** (6 Panini Mundial 2026) y **`aspiradoras-robot`** se sirve vía categorySlug `hogar` para las 18 fichas de robots.
+- Productos featured: TCL 43S5K (Smart TV 43" — top del catálogo).
+- Precios trackeados con `priceUpdated` + `priceLastChecked` + `priceStatus`.
+- Última actualización de precios: 8 aspiradoras robot (2026-06-06).
+- **Importación por API oficial de ML validada** (OAuth client_credentials) — ver memoria `ml-api-oficial-funciona`. Credenciales en `.env` local. Sin bloqueos/CAPTCHA.
 
-## Guías publicadas
+## Guías publicadas / agendadas
 
-- **46 guías** en `src/data/guides.ts` (`grep -c "slug: \""`).
-- Distribución por cluster:
-  - `freidoras-de-aire`: 23
-  - `pavas-electricas`: 11
-  - `perfumes-arabes`: 6
+- **61 guías totales** en `src/data/guides.ts` (54 + 7 nuevas de aspiradoras robot).
+- Distribución por tema:
+  - `freidoras-de-aire`: 23 (varias agendadas a futuro)
+  - `pavas-electricas`: 11 (4 agendadas)
+  - `perfumes-arabes`: 14 (6 originales + 8 nuevas de fase 2)
   - `masajeadores`: 6
-- Estructura: cada guía es un objeto `Guide` con secciones tipadas (ver `lib/types.ts`).
-- Render: `src/components/guides/GuideRenderer.tsx`.
-- Filtro por fecha: solo se muestran guías con `publishedDate <= hoy`.
+  - `aspiradoras-robot`: **7** (red nueva, todas live desde 06-jun)
 
-## Clusters editoriales (drafts)
+### Red aspiradoras robot — completa ✅ (06-jun)
 
-Carpetas en `docs/clusters/`:
+| # | Slug | Tipo |
+|---|---|---|
+| 1 | robot-aspiradora | HUB pilar (3.673 palabras) |
+| 2 | mejores-robot-aspiradora-trapeadora | Ranking |
+| 3 | robot-aspiradora-precio-argentina | Precios |
+| 4 | robot-aspiradora-xiaomi | Marca |
+| 5 | robot-aspiradora-gadnic | Marca |
+| 6 | robot-aspiradora-con-mapeo-laser | Feature |
+| 7 | como-funciona-robot-aspiradora | Informacional |
 
-- **`freidoras-de-aire/`**
-  - Subcarpetas: `pilar`, `comparativas`, `informacionales`, `reviews`.
-  - Tiene `convert-to-guides.mjs` (script de conversión markdown → objeto `Guide`).
-  - `INTERNAL-LINKING-MAP.md`, `PUBLISHING-PROMPT.md`, `README.md`.
-- **`perfumes-arabes/`**
-  - `articulos_lote_1.md` — borrador batch.
-  - `perfumes-arabes-originales.md` — borrador prioridad 1 (NO publicado).
-  - `TEMPLATE_ARTICULO.md` — plantilla para nuevos artículos.
-  - `NEXT_ARTICLES.md` — roadmap priorizado (auditoría 2026-05-26).
+18 fichas de aspiradoras robot en el catálogo. Doc maestro: `docs/nichos/aspiradoras-robot.md`.
 
-## Pendientes detectados en el roadmap
+### Cluster perfumes árabes — Fase 2 cerrada ✅
 
-De `docs/clusters/perfumes-arabes/NEXT_ARTICLES.md` (Prioridad 1):
+| # | Slug | Fecha | Estado |
+|---|---|---|---|
+| 1 | perfumes-arabes-originales | 26-may | ✅ Live |
+| 2 | donde-comprar-perfumes-arabes-argentina | 26-may | ✅ Live |
+| 3 | lattafa-guia-marca | 29-may | Agendado |
+| 4 | perfumes-arabes-por-color | 1-jun | Agendado |
+| 5 | perfumes-arabes-dupes | 4-jun | Agendado |
+| 6 | perfumes-arabes-mas-vendidos-argentina | 7-jun | Agendado |
+| 7 | lattafa-asad-comparativa | 10-jun | Agendado |
+| 8 | donde-comprar-perfumes-arabes-buenos-aires | 13-jun | Agendado |
 
-1. `perfumes-arabes-originales` — borrador listo en docs, falta convertir a `Guide`.
-2. `donde-comprar-perfumes-arabes-argentina` — sin borrador.
-3. `perfumes-arabes-dupes` — sin borrador.
+Cierre del cluster: 13 de junio 2026.
 
-Prioridad 2:
-- `lattafa-asad-comparativa`
-- `perfumes-arabes-mas-vendidos-argentina`
+### Cola de freidoras agendadas (no escritas por Claude)
 
-## Cambios recientes (git log)
+10 guías agendadas entre 27-may y 02-jul. Estado:
+- Ninguna tiene `product-card` ni `quickPicks` (deuda estructural).
+- 12 sin `ogTitle`/`ogDescription` (chip flageado para upgrade).
+- 4 con fixes ya aplicados (powerxl, economicas, desventajas, ninja).
 
-Últimos 10 commits:
+### Cola de pavas eléctricas agendadas
 
-- `36e50be` Ordenar guías y mostrar fecha completa en /guias.
-- `91015bc` Mejora importador de MercadoLibre sin API.
-- `b89a231` Cluster aspiradoras cerrado + apertura cluster limpiavidrios.
-- `3534661` Editorial backfill de los 4 top robot vacuums del catálogo.
-- `55456ef` Cluster perfumes árabes cerrado — cobertura SEO 30/30.
-- `2c75810` Editorial backfill 7 perfumes árabes prioritarios.
-- `52b165c` Editorial + olfactive backfill top 6 perfumes.
-- `45c1e22` Backfill `brand` en 74 productos via whitelist.
-- `de1407c` Mover carpetas `cluster-*` a `docs/clusters/`.
-- `1fa6e13` Generar siblings WebP para OG cards de masajeador.
+4 guías agendadas entre 30-may y 20-jun. Mismo patrón: sin product-cards.
 
-## Archivos sin commitear (working tree)
+## Configuración del proyecto
 
-```
-docs/ARTICLE_CREATION_WORKFLOW.md             (nuevo)
-docs/clusters/perfumes-arabes/NEXT_ARTICLES.md (nuevo)
-docs/clusters/perfumes-arabes/TEMPLATE_ARTICULO.md (nuevo)
-docs/clusters/perfumes-arabes/perfumes-arabes-originales.md (nuevo, borrador)
-```
+- Next.js 16.2.3, React 19, Tailwind v4, TypeScript estricto.
+- Sin DB. Contenido en `src/data/*.ts`.
+- ISR diaria en `/guias` y `/guias/[slug]` (revalidate 86400).
+- Filtro `publishedDate <= hoy` en `getPublishedGuides()`.
+- CSP estricto y headers de seguridad en `next.config.ts`.
+- Hook Stop activo: pide actualizar SESSION_LOG, CURRENT_STATE, MISTAKES, LEARNINGS al cerrar sesión.
 
-Ninguno está aún en `git add`.
+## Reglas editoriales activas
 
-## Configuración
+Documentadas en `docs/POST_MASTER_STRUCTURE.md`:
+- **Links a productos en texto**: directo a meli.la (afiliado).
+- **Links entre guías**: URL interna (`/guias/...`) — SEO interno editorial.
+- **product-card componente**: ya configurado óptimo (CTA principal a ML).
+- **Cadencia de publicación recomendada**: 3 días entre artículos del mismo cluster.
 
-- Next.js: 16.2.3 (no es la versión que la mayoría de modelos conocen — leer docs antes de tocar App Router).
-- TypeScript: estricto.
-- ESLint: `next/core-web-vitals` + `next/typescript`.
-- CSP estricto y headers de seguridad activos en `next.config.ts`.
-- Sitemap dinámico cubre: home, /trending, /guias, categorías visibles, productos visibles, guías publicadas.
-- Robots permite todo salvo `/api/`.
+## Métricas SEO (último GSC export — 26-may, últimos 3 meses)
 
-## Salud / riesgos conocidos
+- Top 4 guías por clicks: atma-freidoras-de-aire-review (18), home (13), mejores-freidoras-de-aire-argentina (7), masajeador-cervical (6).
+- 4 guías optimizadas en GSC esperando re-indexación:
+  - philips-freidoras-de-aire-review (CTR 0.49% → mejorada con metadata nueva)
+  - atma-vs-peabody-freidora-de-aire (pos 4.96 → mejorada con respuesta directa)
+  - masajeador-cervical (pos 26.58 query genérica → mejorada)
+  - perfumes-arabes-mujer (pos 14.89 → og diferenciado + respuesta directa)
 
-- **Convención mixta de quotes** en `curated-products.ts` (algunas entries con `'` y otras con `"`). No es bug, solo inconsistencia.
-- **Sin tests automatizados.** Verificación = `npm run build` + `npm run dev` manual.
-- **Scraping de ML puede pedir verificación humana** — flujo headful documentado en README.
-- **`plan_editorial.json`** (31KB) en raíz — referencia editorial, no leído por el runtime.
+## Chips abiertos (deuda flageada para sesiones futuras)
+
+1. **Lint cleanup**: 41 errores ESLint preexistentes en archivos como Header.tsx, slug.ts, ProductCard.tsx.
+2. **Normalización de links históricos**: ~112 links inline `/producto/...` en guías viejas → convertir a meli.la siguiendo la regla nueva.
+3. **Upgrade ogTitle/ogDescription**: 11 guías en cola sin estos campos.
 
 ## Próximas decisiones esperando a Juan
 
-(Esta sección debe vaciarse a medida que Juan decide.)
+- Pedir reindexación en GSC de las 2 guías de fase 2 que ya salieron (perfumes-arabes-originales, donde-comprar-perfumes-arabes-argentina).
+- Decidir si arrancar con mejoras de sitio (12 ideas en SESSION_LOG, top 3: sticky CTA mobile, hero featured, price drop alerts).
+- Definir próximo cluster temático cuando perfumes árabes esté completamente publicado (limpiavidrios fue mencionado en commits previos como candidato).
+- Medir impacto SEO de fase 2 a partir del ~16-jun (3 semanas desde la primera publicación).
 
-- ¿Convertir y publicar `perfumes-arabes-originales` desde el borrador existente?
-- ¿Empezar nuevo cluster (limpiavidrios) o seguir cerrando perfumes árabes?
+## Salud del proyecto
+
+- ✅ Build verde: `npm run build` pasa sin errores en 2.6-3.0s.
+- ⚠️ Lint: 41 errores preexistentes (flageados, no son regresión).
+- ✅ Working tree clean.
+- ✅ Branch up-to-date con `origin/master`.
+- ✅ Master Structure consolidado y aplicado consistentemente en los 8 guides nuevos.

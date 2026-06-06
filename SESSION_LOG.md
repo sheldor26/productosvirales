@@ -25,6 +25,99 @@
 ---
 -->
 
+## 2026-06-06 — Nicho aspiradoras robot completo + scraper arreglado + API oficial de ML validada
+
+**Qué se hizo:**
+- **Fixes de render**: links markdown en `intro`/`standfirst` no se parseaban (se veían `[texto](url)` literal) → ahora usan `parseInlineLinks`. Además el parser ahora soporta links anidados en bold (`**[x](url)**`). Hero de guías pasó de `object-cover` a `object-contain` (imágenes verticales como pavas/perfumes ya no se recortan). Arregladas 12 imágenes hero rotas en guías de freidoras (apuntaban a `/images/freidoras/` inexistentes → URLs del CDN de ML).
+- **6 productos Panini Mundial 2026** importados (categoría nueva `coleccionables`).
+- **Scraper/importador de ML auditado y arreglado** (workflow de análisis, sin deps nuevas): shim `__name` que arregla el importer `.ts` vía tsx, parser de precios usa solo `__fraction` + redondeo (elimina centavos basura tipo `$121.339,23`), User-Agents solo Chrome, backoff+reintento ante CAPTCHA, perfil persistente por default, delays 8-20s. Mismo fix replicado en `update-prices-from-ml.cjs`.
+- **API oficial de ML VALIDADA** (OAuth client_credentials): token sin login, `/products/{id}` da metadata + imágenes, `/products/{id}/items` da precio. **Importa sin bloqueos ni CAPTCHA.** Credenciales en `.env` local (gitignored). Ver memoria `ml-api-oficial-funciona`.
+- **10 aspiradoras robot importadas** vía API oficial (Atma x3, Samsung Jetbot + POWERbot, Kärcher, Xiaomi x4). Más 8 que ya estaban = 18 en total.
+- **Precios de 8 aspiradoras robot** actualizados con el scraper (5 headless + 3 headful por CAPTCHA).
+- **Red de 7 guías de aspiradoras robot** (categoría nueva `aspiradoras-robot`), escritas con workflow de 14 agentes: HUB pilar (3.673 palabras) + trapeadora + precios + Xiaomi + Gadnic + mapeo láser + cómo funciona. 33 product-cards, 186 links meli.la (afiliados reales verificados), cross-links internos entre las 7. HUB completado a la spec PARTE 3 (sección trapeado, sección precios + trust-block pricing, bloque verdict).
+- **Doc maestro del nicho** guardado en `docs/nichos/aspiradoras-robot.md`.
+
+**Archivos tocados:**
+- `src/components/guides/ArticleHeader.tsx`, `GuideRenderer.tsx`, `src/lib/parse-inline-links.tsx` (render fixes).
+- `src/lib/scraper.ts`, `scripts/update-prices-from-ml.cjs` (scraper fixes).
+- `src/data/curated-products.ts` (6 Panini + 10 robots + precios).
+- `src/data/guides.ts` (7 guías + categoría `aspiradoras-robot` en guideCategories), `src/lib/guide-thumbnail.ts`.
+- `docs/nichos/aspiradoras-robot.md` (nuevo). `.env`/`.env.example` (credenciales ML, gitignored).
+
+**Estado al cerrar:** todo commiteado y pusheado. Working tree con cambios en los 4 .md de estado.
+
+**Decisiones pendientes para Juan:**
+- Construir un **importador/actualizador por API oficial reusable** (`scripts/`) que reemplace al scraper Puppeteer para precios — elimina los bloqueos de raíz. Anotado en memoria.
+- Eventual: escribir las fichas individuales (`articleBody`, pros/cons) de las 10 aspiradoras nuevas (hoy tienen datos base, no review largo).
+- Samsung VR05R5050WK (MLAU) quedó afuera: la API no expone su imagen. Se reemplazó por el POWERbot E de catálogo.
+
+**Próximo paso sugerido:**
+- Medir SEO de la red de aspiradoras robot a partir del ~27-jun (3 semanas).
+- Pedir reindexación en GSC de los 7 slugs nuevos + las 10 fichas.
+
+---
+
+## 2026-05-26 (tarde-noche) — Fase 2 perfumes árabes completa + cambio de regla de afiliados
+
+**Qué se hizo:**
+- **8 guías nuevas de fase 2 perfumes árabes** escritas y publicadas siguiendo el Master Structure, con cadencia de 3 días entre cada una:
+  1. `perfumes-arabes-originales` (26-may) — borrador previo convertido a Guide.
+  2. `donde-comprar-perfumes-arabes-argentina` (26-may) — escrita desde cero, captura "perfumes árabes en argentina" 1.300/mes dif 8.
+  3. `lattafa-guia-marca` (29-may) — captura 10.800/mes consolidado.
+  4. `perfumes-arabes-por-color` (1-jun) — **artículo nuevo descubierto con Ubersuggest**, captura 7.500/mes consolidado de búsquedas por color del envase.
+  5. `perfumes-arabes-dupes` (4-jun) — dupes vs originales occidentales.
+  6. `perfumes-arabes-mas-vendidos-argentina` (7-jun) — ranking basado en reseñas reales del catálogo.
+  7. `lattafa-asad-comparativa` (10-jun) — descubrió y explicitó que Asad Bourbon/Negro del catálogo AR son "genéricos", no oficiales.
+  8. `donde-comprar-perfumes-arabes-buenos-aires` (13-jun) — local SEO CABA/GBA.
+- Cluster perfumes árabes pasa de 6 a 14 guías. Targeting consolidado ~40-50.000 búsquedas/mes con dificultad mayoritariamente baja.
+- **Fixes urgentes en 4 guías agendadas pre-existentes**:
+  - `pava-electrica-pequena`: CTA de Liliana AP992B revisado (después revertido a meli.la por cambio de regla).
+  - `freidora-de-aire-desventajas`: seoTitle 73→58c, ogTitle/ogDescription agregados, bloque `internalLinks` agregado.
+  - `mejores-freidoras-de-aire-economicas-argentina`: seoTitle 70→60c, ogTitle/ogDescription.
+  - `powerxl-freidora-review`: seoTitle 69→49c, ogTitle/ogDescription.
+- **CAMBIO DE REGLA IMPORTANTE — links de afiliado**:
+  - Decisión de Juan: los links inline a productos en el cuerpo de un guide van **directo a meli.la** (afiliado), no a la ficha interna. Prioriza conversión sobre SEO interno.
+  - El SEO interno se sigue construyendo vía cross-links entre guías (`/guias/...`).
+  - El componente `product-card` ya estaba bien (CTA principal va a ML, secundario a ficha).
+  - Master Structure sección 4.9 reescrita con la regla nueva.
+  - `.claude/skills/new-post.md` regla 2 alineada.
+  - **40 links inline `/producto/...` reemplazados por meli.la** en los 8 guides nuevos. Antes de la corrección, 3 guides tenían 0 links inline a ML (todos los productos solo en cards) — la corrección agregó 26 links inline directos a ML repartidos en las menciones de texto prominentes.
+- **Auditoría de cola** (21 artículos agendados): 6 son de fase 2 perfumes árabes (escritos por nosotros), 15 son pre-existentes (freidoras + pavas). Identificados patrones: ningún artículo histórico tiene `product-card` ni `quickPicks`. 12 sin ogTitle/ogDescription. 3 con seoTitle truncado.
+- **Chips flageados para sesiones futuras**:
+  - Limpieza de 41 errores ESLint preexistentes.
+  - Conversión de ~112 links inline `/producto/...` históricos a meli.la (regla nueva).
+  - Upgrade de ogTitle/ogDescription en 11 guías agendadas (deuda metadata).
+- **12 ideas exploradas para mejora del sitio** (sticky CTA mobile, hero featured, price drop alerts, comparador side-by-side, quiz, TikTok embeds, etc.) — Juan eligió no implementar todavía, quedan en el roadmap.
+
+**Archivos tocados:**
+- `src/data/guides.ts`: 8 guides nuevos + 4 fixes en cola + 40 reemplazos de links a meli.la.
+- `docs/POST_MASTER_STRUCTURE.md`: sección 4.9 reescrita.
+- `.claude/skills/new-post.md`: regla 2 alineada.
+- `.claude/hooks/finalize-session.sh`: prompt de cierre mejorado (pide SESSION_LOG explícito).
+- `.claude/skills/onboarding.md`: nueva skill creada.
+- `README.md`: reescrito como puerta de entrada útil.
+- `SESSION_LOG.md` (este archivo).
+
+**Estado al cerrar:** commiteado y pusheado. Working tree clean. Commits:
+- `54385ca` perfumes-arabes-originales
+- `ae9191e` donde-comprar-perfumes-arabes-argentina + diversificación de heros
+- `192902e` chore(prices): 19 precios stale actualizados
+- `94aec75` 6 guías de fase 2 + diversificación de heros fallback
+- `2641861` docs: actualizar regla de links de afiliado en Master Structure
+
+**Decisiones pendientes para Juan:**
+- Pedir reindexación en GSC de las 2 URLs que ya salen hoy: `/guias/perfumes-arabes-originales` y `/guias/donde-comprar-perfumes-arabes-argentina`.
+- Las otras 6 se reindexan automáticamente al salir en sus fechas (29-may, 1-jun, 4-jun, 7-jun, 10-jun, 13-jun).
+- Decidir si arrancar con las 12 ideas exploradas para mejora del sitio (top 3 recomendadas: sticky CTA mobile, hero featured, price drop alerts).
+- Decidir el próximo cluster temático cuando perfumes árabes esté cerrado (limpiavidrios fue mencionado en un commit reciente como posible).
+
+**Próximo paso sugerido:**
+- Esperar 2-3 semanas para medir impacto SEO de fase 2 (volver a exportar XLSX de GSC el ~16-jun).
+- Mientras tanto: cerrar la deuda técnica con cualquiera de los 3 chips flageados o arrancar el siguiente cluster.
+- Considerar implementar el #1 sticky CTA mobile en cuanto haya tiempo — es el de mayor impacto/esfuerzo del análisis.
+
+---
+
 ## 2026-05-26 — Auditoría inicial, optimización SEO de 4 guías, rediseño de /guias y Master Structure
 
 **Qué se hizo:**
