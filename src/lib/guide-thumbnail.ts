@@ -92,6 +92,7 @@ export function getGuideThumbnail(guide: Guide): {
     "pavas-electricas": "pava",
     "perfumes-arabes": "perfume",
     masajeadores: "masajeador",
+    "aspiradoras-robot": "robot",
   };
   const keyword = CATEGORY_KEYWORDS[guide.category];
   if (keyword) {
