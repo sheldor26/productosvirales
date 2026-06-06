@@ -29,11 +29,11 @@ const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const RESULTS_PATH = path.resolve("scripts/price-update-results.json");
 const TODAY = new Date().toISOString().slice(0, 10);
 
+// Solo Chrome: el navegador real es Chromium, anunciar Firefox/Safari delata el bot.
 const USER_AGENTS = [
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0",
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
 ];
 
 const PRICE_SELECTORS = [
@@ -289,12 +289,15 @@ async function extractData(page) {
       if (!el) return null;
       const content = el.getAttribute("content");
       const fromContent = parseMoneyText(content);
-      if (fromContent) return fromContent;
+      if (fromContent) return Math.round(fromContent);
+      // Solo la parte entera (__fraction). NO concatenar __cents: en ML Argentina
+      // los precios de PDP son enteros y ese __cents (de cuotas/otro valor) producía
+      // basura tipo $121.339,23.
       const fraction = el.querySelector(".andes-money-amount__fraction")?.textContent;
-      const cents = el.querySelector(".andes-money-amount__cents")?.textContent;
-      const fromParts = parseMoneyText(cents && fraction ? `${fraction},${cents}` : fraction);
-      if (fromParts) return fromParts;
-      return parseMoneyText(el.getAttribute("aria-label")) || parseMoneyText(el.textContent);
+      const fromFraction = parseMoneyText(fraction);
+      if (fromFraction) return Math.round(fromFraction);
+      const fromOther = parseMoneyText(el.getAttribute("aria-label")) || parseMoneyText(el.textContent);
+      return fromOther ? Math.round(fromOther) : null;
     };
 
     const isOriginalPriceContext = (el) => Boolean(el.closest(
@@ -527,7 +530,7 @@ async function main() {
           opts.productTimeoutMs,
           `PRODUCT_TIMEOUT_${opts.productTimeoutMs}ms`
         );
-        const currentPrice = data.price ? Math.round(data.price * 100) / 100 : null;
+        const currentPrice = data.price ? Math.round(data.price) : null;
         const diff = currentPrice ? currentPrice - product.storedPrice : null;
         const ratio = currentPrice ? currentPrice / product.storedPrice : null;
         const suspicious =

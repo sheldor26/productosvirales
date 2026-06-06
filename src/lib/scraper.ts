@@ -3,12 +3,13 @@ import { buildAffiliateUrl, mapCategory } from "./mercadolibre";
 import type { Product } from "./types";
 
 // ─── Random User-Agent rotation ───
+// SOLO User-Agents de Chrome: el navegador real es Chromium (Puppeteer), así que
+// anunciar Firefox/Safari es una incoherencia que los anti-bot detectan al instante.
+// La versión debe ir cerca del Chromium que trae Puppeteer (146.x en Puppeteer 24).
 const USER_AGENTS = [
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0",
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.2 Safari/605.1.15",
-  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
 ];
 
 const PRICE_SELECTORS = [
@@ -51,7 +52,10 @@ export interface ScrapedProduct {
 
 // ─── Launch browser with anti-detection ───
 async function launchBrowser(): Promise<Browser> {
-  const userDataDir = process.env.ML_SCRAPER_PROFILE_DIR || undefined;
+  // Reusar siempre un perfil persistente: la sesión "bendecida" (cookies tras
+  // pasar una verificación) baja muchísimo la chance de que ML pida CAPTCHA.
+  const userDataDir =
+    process.env.ML_SCRAPER_PROFILE_DIR || ".cache/ml-scraper-profile";
 
   return puppeteer.launch({
     headless: process.env.ML_SCRAPER_HEADFUL === "true" ? false : true,
@@ -83,6 +87,16 @@ async function setupPage(browser: Browser): Promise<Page> {
     // Some Chromium builds do not ship every ICU timezone.
   }
 
+  // NO BORRAR: shim de __name. tsx/esbuild (keepNames) reescribe las funciones
+  // de este archivo a __name(fn, "nombre"). Cuando Puppeteer serializa esos
+  // callbacks a page.evaluate, __name no existe en el navegador y tira
+  // "ReferenceError: __name is not defined". Definirlo acá (corre antes que
+  // cualquier page.evaluate) hace que el importer .ts vía tsx funcione.
+  await page.evaluateOnNewDocument(() => {
+    // @ts-expect-error -- shim para el helper que inyecta esbuild/tsx
+    if (typeof globalThis.__name === "undefined") globalThis.__name = (fn) => fn;
+  });
+
   // Override navigator.webdriver to avoid detection
   await page.evaluateOnNewDocument(() => {
     Object.defineProperty(navigator, "webdriver", { get: () => false });
@@ -112,8 +126,14 @@ async function pageHasPrice(page: Page): Promise<boolean> {
   }, PRICE_SELECTORS);
 }
 
+const HEADFUL = process.env.ML_SCRAPER_HEADFUL === "true";
+// En headful, cuánto esperar a que un humano resuelva la verificación (ms).
+const HUMAN_WAIT_MS = Number(process.env.ML_HUMAN_WAIT_MS || 180000);
+
 async function resolveMercadoLibreInterstitial(page: Page): Promise<void> {
-  for (let attempt = 0; attempt < 4; attempt++) {
+  let verificationHits = 0;
+
+  for (let attempt = 0; attempt < 6; attempt++) {
     if (await pageHasPrice(page)) return;
 
     const state = await page.evaluate(() => {
@@ -129,9 +149,30 @@ async function resolveMercadoLibreInterstitial(page: Page): Promise<void> {
     });
 
     if (state.isAccountVerification || state.isSuspiciousTraffic) {
-      throw new Error(
-        "MercadoLibre pidió verificación de seguridad. Probá con ML_SCRAPER_HEADFUL=true y un ML_SCRAPER_PROFILE_DIR persistente."
-      );
+      // Headful: parar y darle tiempo al humano a resolver (login/captcha).
+      // La sesión queda guardada en el perfil persistente para las próximas.
+      if (HEADFUL) {
+        const deadline = Date.now() + HUMAN_WAIT_MS;
+        while (Date.now() < deadline) {
+          await delay(3000);
+          if (await pageHasPrice(page)) return;
+        }
+        throw new Error(
+          "Verificación de MercadoLibre no resuelta a tiempo en la ventana de Chrome."
+        );
+      }
+
+      // Headless: no abortar al toque. Esperar más (backoff) y reintentar la
+      // navegación un par de veces antes de rendirse. A veces el challenge cede.
+      verificationHits += 1;
+      if (verificationHits >= 3) {
+        throw new Error(
+          "MercadoLibre pidió verificación de seguridad. Reintentá con ML_SCRAPER_HEADFUL=true (resolvés el CAPTCHA una vez y la sesión queda guardada en el perfil)."
+        );
+      }
+      await delay(15000 + Math.random() * 15000); // 15-30s de backoff
+      await page.reload({ waitUntil: "domcontentloaded", timeout: 30000 }).catch(() => undefined);
+      continue;
     }
 
     if (state.hasContinue) {
@@ -195,20 +236,21 @@ async function extractProductData(page: Page, url: string): Promise<ScrapedProdu
       if (!el) return undefined;
       const content = el.getAttribute("content");
       const fromContent = parseMoneyText(content);
-      if (fromContent) return fromContent;
+      if (fromContent) return Math.round(fromContent);
 
+      // Solo la parte entera (__fraction). NO concatenar __cents: en ML
+      // Argentina los precios de PDP son enteros y ese __cents suele ser de
+      // cuotas u otro valor → producía basura tipo $121.339,23.
       const fraction = el.querySelector(".andes-money-amount__fraction")?.textContent;
-      const cents = el.querySelector(".andes-money-amount__cents")?.textContent;
-      const fromParts = parseMoneyText(
-        cents && fraction ? `${fraction},${cents}` : fraction
-      );
-      if (fromParts) return fromParts;
+      const fromFraction = parseMoneyText(fraction);
+      if (fromFraction) return Math.round(fromFraction);
 
       const aria = el.getAttribute("aria-label");
       const fromAria = parseMoneyText(aria);
-      if (fromAria) return fromAria;
+      if (fromAria) return Math.round(fromAria);
 
-      return parseMoneyText(el.textContent);
+      const fromText = parseMoneyText(el.textContent);
+      return fromText ? Math.round(fromText) : undefined;
     };
 
     const isOriginalPriceContext = (el: Element): boolean => {
@@ -459,8 +501,8 @@ async function extractProductData(page: Page, url: string): Promise<ScrapedProdu
 
     return {
       title,
-      price: price || 0,
-      originalPrice,
+      price: price ? Math.round(price) : 0,
+      originalPrice: originalPrice ? Math.round(originalPrice) : undefined,
       currency,
       description,
       images,
@@ -491,9 +533,20 @@ async function extractProductData(page: Page, url: string): Promise<ScrapedProdu
 // ─── Click "Ver descripción completa" if available ───
 async function expandDescription(page: Page): Promise<void> {
   try {
-    const descButton = await page.$(
-      'a[href*="description"], button:has-text("Ver descripción"), .ui-pdp-collapsable__action'
+    // `button:has-text(...)` es sintaxis de Playwright, NO es CSS válido y hacía
+    // fallar todo el selector en silencio. Usamos selectores CSS reales + un
+    // fallback que busca el botón por su texto.
+    let descButton = await page.$(
+      'a[href*="description"], .ui-pdp-collapsable__action'
     );
+    if (!descButton) {
+      const handle = await page.evaluateHandle(() => {
+        const els = Array.from(document.querySelectorAll("button, a"));
+        return els.find((el) => /ver descripci[oó]n|ver m[aá]s/i.test(el.textContent || "")) || null;
+      });
+      const el = handle.asElement();
+      if (el) descButton = el as Awaited<ReturnType<Page["$"]>>;
+    }
     if (descButton) {
       await descButton.click();
       await delay(1000);
@@ -572,8 +625,9 @@ export async function scrapeProducts(
         const data = await extractProductData(page, page.url() || url);
         results.push(data);
 
-        // Random delay between requests (2-5 seconds)
-        const waitTime = 2000 + Math.random() * 3000;
+        // Delay aleatorio entre requests (8-20s): el ritmo humano es la segunda
+        // palanca anti-bloqueo más fuerte después de la IP residencial.
+        const waitTime = 8000 + Math.random() * 12000;
         console.log(`  Esperando ${Math.round(waitTime / 1000)}s...`);
         await delay(waitTime);
       } catch (error) {

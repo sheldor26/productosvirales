@@ -6652,7 +6652,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA54522658',
     title: 'Aspiradora Y Trapeadora Robot Fika SENSE Antichoque Con App Wifi Color Negro',
-    price: 121339.23,
+    price: 121339,
     priceUpdated: "2026-06-06",
     priceLastChecked: "2026-06-06",
     priceStatus: "fresh",
@@ -6712,7 +6712,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA48378491',
     title: 'Aspiradora Robot Con Wifi Smart 115w Midow 3 Modos Con Base Negro',
-    price: 130978.56,
+    price: 130978,
     priceUpdated: "2026-06-06",
     priceLastChecked: "2026-06-06",
     priceStatus: "fresh",
