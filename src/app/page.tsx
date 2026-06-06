@@ -6,7 +6,7 @@ import { HomeFeed } from "@/components/feed/HomeFeed";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { HomeFAQ } from "@/components/feed/HomeFAQ";
-import { getVisibleProducts } from "@/lib/products";
+import { getRotatedVisibleProducts, makeRotationSeed } from "@/lib/products";
 
 const baseMetadata: Metadata = {
   title: "Productos Virales de MercadoLibre Argentina — Lo más trending",
@@ -56,7 +56,13 @@ export default async function Home({
   // Touching the prop just keeps Next.js happy that this is a dynamic page
   // when the query is present.
   await searchParams;
-  const weeklyPopular = getVisibleProducts().slice(0, 8);
+
+  // Semilla generada en el servidor en cada request. Rota qué productos se
+  // muestran (y en qué orden) para que la home no enseñe siempre los mismos.
+  // Se pasa a HomeFeed como prop para que SSR e hidratación usen el mismo orden.
+  const rotationSeed = makeRotationSeed();
+  const rotated = getRotatedVisibleProducts(rotationSeed);
+  const weeklyPopular = rotated.slice(0, 8);
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8">
@@ -99,7 +105,7 @@ export default async function Home({
 
       <div className="mt-6 md:mt-8">
         <Suspense>
-          <HomeFeed />
+          <HomeFeed seed={rotationSeed} />
         </Suspense>
       </div>
 

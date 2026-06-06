@@ -25,6 +25,44 @@ export function getVisibleProducts(): Product[] {
   return curatedProducts.filter(isVisible);
 }
 
+/**
+ * Deterministic Fisher-Yates shuffle driven by a numeric seed.
+ * Same seed → same order, so server render and client hydration agree
+ * (no hydration mismatch) while still varying across page loads.
+ */
+function seededShuffle<T>(input: T[], seed: number): T[] {
+  const arr = [...input];
+  let s = (seed >>> 0) || 1;
+  const next = () => {
+    // mulberry32-style LCG, good enough for shuffling a product feed.
+    s = (s * 1664525 + 1013904223) >>> 0;
+    return s / 4294967296;
+  };
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(next() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+/**
+ * Visible products in a rotated order for the homepage, so it doesn't always
+ * surface the same items. Pass a seed (generated once on the server per request,
+ * or a daily seed) so the order is stable within a render but varies over time.
+ */
+export function getRotatedVisibleProducts(seed: number): Product[] {
+  return seededShuffle(getVisibleProducts(), seed);
+}
+
+/**
+ * A fresh rotation seed for the homepage. Impurity (randomness) is kept inside
+ * this helper so server components that call it stay "pure" in render.
+ * Generate it once per request on the server and pass it down as a prop.
+ */
+export function makeRotationSeed(): number {
+  return Math.floor(Math.random() * 0xffffffff);
+}
+
 /** Lookup a product by its MLA/MLAU id. Returns undefined if not found. */
 export function getProductById(id: string): Product | undefined {
   return curatedProducts.find((p) => p.id === id);
