@@ -245,6 +245,17 @@ async function resolveInterstitial(page) {
     });
 
     if (state.accountVerification || state.suspiciousTraffic) {
+      // Headful: parar y esperar a que un humano resuelva la verificación
+      // (captcha/login). La sesión queda guardada en el perfil persistente.
+      if (process.env.ML_SCRAPER_HEADFUL === "true") {
+        const waitMs = Number(process.env.ML_HUMAN_WAIT_MS || 180000);
+        console.log(`    >> VERIFICACION DE ML. Resolvela en la ventana de Chrome (login/captcha). Esperando hasta ${Math.round(waitMs / 1000)}s...`);
+        const deadline = Date.now() + waitMs;
+        while (Date.now() < deadline) {
+          await delay(3000);
+          if (await pageHasPrice(page)) { console.log("    >> Verificacion superada, sigo."); return; }
+        }
+      }
       throw new Error("ML_SECURITY_VERIFICATION");
     }
 

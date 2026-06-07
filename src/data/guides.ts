@@ -10225,7 +10225,7 @@ export const guides: Guide[] = [
       `Probamos y comparamos los modelos que se consiguen en MercadoLibre Argentina con garantía, mirando concretamente qué tan bien trapean, no solo cuánto aspiran. Acá va la versión corta: cuál comprar según tu piso, tu presupuesto y cuánto te molesta pasar el trapo a mano.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_608905-MLA99516871408_112025-F.jpg", alt: `Robot aspiradora y trapeadora Atma sobre piso de cerámica en un departamento argentino`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_950503-MLA100012462368_122025-F.webp", alt: `Robot aspiradora y trapeadora Gadnic AspiRob sobre piso de cerámica en un departamento argentino`, imageSize: "hero" },
   
       { type: "h2", title: `Resumen rápido: cuál comprar según tu caso` },
       { type: "list", items: [
@@ -10353,7 +10353,7 @@ export const guides: Guide[] = [
       `No vendemos el más caro porque sí. Para un monoambiente, un robot de $170.000 puede dejarte la casa impecable todos los días y el de $1.000.000 sería plata tirada. Para una casa de tres ambientes con dos perros, lo barato te va a frustrar en una semana. Acá va la versión larga, con la tabla de los 18 modelos al final.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_920318-MLA107531899968_032026-F.jpg", alt: `Robot aspiradora Xiaomi S40 Pro, referencia de precio premium accesible en Argentina 2026`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_600741-MLA99995673079_112025-F.jpg", alt: `Robot aspiradora Xiaomi X20 Max, referencia del tramo de precio premium en Argentina 2026`, imageSize: "hero" },
   
       { type: "h2", id: "resumen", title: `Resumen rápido: cuánto sale y qué esperar` },
       { type: "list", items: [
@@ -10609,7 +10609,7 @@ export const guides: Guide[] = [
       `Pasamos por los cuatro robots Gadnic que se consiguen hoy, ordenados de mejor a más básico, con qué hace cada uno, qué le falta y a quién le sirve. Si querés ir directo: acá va la versión corta.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_624685-MLA80700748373_112024-F.webp", alt: `Robot aspiradora Gadnic de la línea por modos sobre piso de departamento argentino`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_757562-MLA98254774359_112025-F.webp", alt: `Robot aspiradora Gadnic AC800 con LIDAR y base autolimpiante sobre piso de departamento argentino`, imageSize: "hero" },
   
       { type: "h2", title: `Resumen rápido: cuál Gadnic comprar según tu caso`, id: "resumen" },
       { type: "list", items: [
@@ -10738,7 +10738,7 @@ export const guides: Guide[] = [
       `Lo importante de este año: el **mapeo láser (LIDAR) bajó de la gama premium a la gama media**. Hasta 2023 era una función de robots de más de un millón de pesos; hoy hay modelos con LIDAR real por la mitad. Abajo te explicamos en criollo qué es cada tecnología, por qué cambia la experiencia, y cuáles de los que se consiguen en Argentina valen la pena. Acá va la versión corta.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_711355-MLA100039491353_122025-F.jpg", alt: `Samsung Jetbot con mapeo LIDAR limpiando un piso en líneas ordenadas`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_943082-MLA99451643344_112025-F.jpg", alt: `Robot aspiradora con mapeo láser limpiando un piso en líneas ordenadas`, imageSize: "hero" },
   
       { type: "h2", id: "resumen", title: `Resumen rápido: qué mapeo conviene según tu caso` },
       { type: "list", items: [
