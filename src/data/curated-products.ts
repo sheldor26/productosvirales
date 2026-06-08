@@ -17755,15 +17755,137 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     affiliateUrl: 'https://meli.la/12hGhQB',
     condition: 'new',
     freeShipping: true,
+    rating: 4.5,
+    reviewCount: 115,
+    reviewsWithPhotos: 3,
     brand: 'Kärcher',
+    line: 'RCV',
+    color: 'Blanco',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'La aspiradora robot RCV 1 barre, aspira y pasa un trapo, brindando una limpieza completa y sin esfuerzo. Cuenta con tres modos de limpieza: Automático, Esquinas y Focus, que se adaptan a tus necesidades específicas en cada momento. Puedes controlarla fácilmente mediante el mando a distancia, asegurando así un hogar impecable en cualquier situación.',
-    seoTitle: 'Aspiradora Robot Kärcher Rcv 1',
-    metaDescription: 'Aspiradora Robot Kärcher Rcv 1: precio, ficha y opiniones. Aspiradora robot Kärcher en Argentina. Comprala en MercadoLibre con envío.',
-    ogTitle: 'Aspiradora Robot Kärcher Rcv 1 — ¿conviene?',
-    ogDescription: 'La aspiradora robot RCV 1 barre, aspira y pasa un trapo, brindando una limpieza completa y sin esfuerzo. Cuenta con tres modos de limpieza: Automático',
-    h1: 'Aspiradora Robot Kärcher Rcv 1',
+    description: 'La Kärcher RCV 1 es una aspiradora robot que barre, aspira y trapea en seco en una sola pasada. Se maneja con control remoto, sin app ni WiFi, y con solo 7 cm de alto entra bajo camas y muebles bajos. Pensada para el mantenimiento diario de polvo y pelos de mascota.',
+    aiReviewSummary: 'Es muy práctica y eficiente para mantener el piso libre de polvo y pelos de mascotas. Funciona bien, es silenciosa y aspira una cantidad importante de impurezas invisibles. Además, su manejo con control remoto la hace muy cómoda y fácil de usar.',
+    seoTitle: 'Kärcher RCV 1: Aspiradora Robot que Barre, Aspira y Trapea',
+    metaDescription: 'Aspiradora robot Kärcher RCV 1: barre, aspira y trapea en seco, ideal para pelos de mascota. Sin WiFi, anda con control remoto. 4.5★ con 115 opiniones.',
+    ogTitle: 'Kärcher RCV 1: la aspiradora robot finita que entra bajo la cama',
+    ogDescription: '4.5★ con 115 opiniones. Barre, aspira y trapea en seco, 7 cm de alto y control remoto incluido. Sin WiFi ni mapeo: analizamos para quién rinde.',
+    h1: 'Aspiradora robot Kärcher RCV 1: barre, aspira y trapea con control remoto, sin WiFi ni mapeo',
+    pros: [
+      '4.5⭐ con 115 calificaciones y respaldo de marca Kärcher',
+      'Solo 7 cm de alto: entra bajo camas, sillones y muebles bajos',
+      'Se maneja con control remoto incluido, sin app ni WiFi',
+      '3 en 1: barre, aspira y trapea (en seco)',
+      'Vuelve solo a la base a cargar',
+      'Apto para pelo de mascotas y filtro HEPA incluido',
+    ],
+    cons: [
+      'Sin WiFi ni app y sin mapeo: navega chocando, no recorre ordenado',
+      '500 Pa de succión: rinde para mantenimiento, no para limpieza profunda',
+      'No tiene cepillo central de rodillo, a veces empuja las migas a los costados',
+      'Depósito de polvo chico (310 mL) y trapeado en seco, sin tanque de agua',
+    ],
+    verdict: 'El Kärcher para mantenimiento diario: si querés que pase todos los días levantando polvo y pelos de mascota bajo los muebles, manejado con control remoto, cumple. Si buscás mapeo, app o limpieza profunda, este no es.',
+    articleBody: `## Cómo funciona: barre, aspira y trapea en seco
+
+Como toda aspiradora robot que barre y trapea, la RCV 1 hace tres cosas en una sola pasada. Dos cepillos laterales arrastran la suciedad hacia el centro, la boca de succión de 500 Pa la levanta, y un paño de microfibra montado abajo repasa el piso. Importante: ese repaso es en seco. El depósito de líquidos es de 0 mL, así que no es un robot aspiradora y trapeadora con tanque de agua, sino que pasa un paño que atrapa el polvo fino que la succión deja.
+
+Tiene tres modos. **Auto** recorre toda la superficie disponible, **Esquina** trabaja los bordes y rincones, y **Focus** insiste sobre una zona puntual cuando hay más suciedad concentrada. Los tres se eligen desde el control remoto.
+
+La navegación es por sensores: detecta obstáculos y desniveles para no caerse por las escaleras, pero no arma un mapa de la casa. Se mueve de forma semialeatoria y va corrigiendo cuando choca. Varios compradores lo confirman en las opiniones, así que conviene tenerlo claro antes de comprar.
+
+## Sin WiFi ni app: por qué se maneja con control remoto
+
+Esta es la diferencia más importante con los robots más caros. La RCV 1 es una aspiradora robot sin WiFi: no tiene app, no se conecta al celular y no guarda un plano de los ambientes. Toda la operación pasa por el control remoto incluido (funciona con 2 pilas AA que vienen en la caja).
+
+Para mucha gente eso es una ventaja: no hay que configurar nada, no depende de la conexión, lo prendés y anda. De hecho, el control remoto es de las cosas que más mencionan las opiniones buenas. La contracara es que, sin mapeo, el recorrido no es prolijo: puede dejar zonas sin pasar o repetir otras. Si tu expectativa es un robot que limpia la casa entera de forma ordenada y programada por app, este no lo hace.
+
+## 7 cm de alto: el detalle que más rinde
+
+Mide 29 cm de diámetro y solo 7 cm de alto. Esa altura baja es lo que más aparece en las opiniones positivas: entra bajo la cama, los sillones y los muebles donde no llegás con la escoba ni con una aspiradora de mano. Para mantener esas zonas sin polvo todos los días, el formato funciona.
+
+Pesa 1,8 kg, cubre hasta 90 m² de área máxima por sesión y la batería da hasta 1,5 horas de funcionamiento continuo, con retorno automático a la base y unas 5 horas de recarga. El nivel de ruido es de 70 dB, que varias opiniones describen como silencioso para un robot de este tipo.
+
+## 500 Pa y sin rodillo central: qué limpia bien y qué no
+
+Acá conviene ser realista. Los 500 Pa de succión y la ausencia de un cepillo central de rodillo definen para qué sirve. Levanta bien polvo, pelusa y pelo de mascota, que es justo lo que más destacan los compradores. Donde flaquea es con suciedad más gruesa: sin rodillo, a veces empuja las migas hacia los costados en lugar de aspirarlas, y alguna opinión menciona que deja residuos. El depósito de polvo es de 310 mL, chico, así que en casas grandes o con mascotas que sueltan mucho pelo hay que vaciarlo seguido.
+
+En resumen: es un robot de mantenimiento. Pasarlo a diario para que no se acumule el polvo, sí. Reemplazar una limpieza profunda con aspiradora de mano, no.
+
+## En qué se diferencia de las otras aspiradoras robot del catálogo
+
+La RCV 1 juega en la gama simple y económica. Las [Atma Atar21c1pi](/producto/MLA20033508) y [Atma Atar21c1dh](/producto/MLA18642318) son robots parecidos, también trapeadoras y con anti-choque, en un rango de precio algo más alto. Si en cambio querés mapeo, WiFi y control por app, la referencia del catálogo es la [Xiaomi Robot Vacuum S40c](/producto/MLA61420449): arma el plano de la casa y se programa desde el celular, pero sale bastante más cara. La RCV 1 renuncia a todo eso a cambio de un precio más bajo y la simplicidad del control remoto.
+
+## Qué incluye la caja
+
+Base de carga, 2 cepillos laterales, control remoto, 1 paño para trapear en seco, depósito de polvo de 310 mL con filtro HEPA, 1 cepillo de limpieza para el mantenimiento del equipo, manual y 2 pilas AA para el control.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Kärcher / RCV 1 (93010500)' },
+      { label: 'Tipo', value: 'Robot aspirador 3 en 1 (barre, aspira, paño seco)' },
+      { label: 'Succión', value: '500 Pa (nivel estándar)' },
+      { label: 'Modos de limpieza', value: 'Auto, Esquina, Focus' },
+      { label: 'Navegación', value: 'Sensores de obstáculo y anticaídas (sin mapeo)' },
+      { label: 'Control', value: 'Control remoto (sin app / sin WiFi)' },
+      { label: 'Depósito de polvo', value: '310 mL' },
+      { label: 'Tanque de agua', value: 'No (trapeado en seco)' },
+      { label: 'Filtro HEPA', value: 'Incluido' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: '11 V · ~1.500 mAh · hasta 1,5 h' },
+      { label: 'Carga', value: '5 h · retorno automático a la base' },
+      { label: 'Área máxima', value: '90 m²' },
+      { label: 'Nivel de ruido', value: '70 dB' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Dimensiones', value: '29 × 29 × 7 cm' },
+      { label: 'Peso', value: '1,8 kg' },
+      { label: 'Color / Voltaje', value: 'Blanco / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Kärcher RCV 1 se controla con app o WiFi?', answer: 'No. No tiene WiFi ni app: se maneja por completo con el control remoto incluido, que funciona con 2 pilas AA que vienen en la caja. Es más simple de usar, pero no podés programarla ni controlarla desde el celular.' },
+      { question: '¿Mapea la casa y recorre de forma ordenada?', answer: 'No arma un mapa. Usa sensores de obstáculo y anticaídas para no chocar fuerte ni caerse de las escaleras, pero se mueve de forma semialeatoria y corrige cuando toca algo. Puede dejar zonas sin pasar o repetir otras. Si necesitás recorrido ordenado y programado, conviene un robot con mapeo.' },
+      { question: '¿Sirve para pelos de mascota?', answer: 'Sí, es apto para pelo de mascota y es de lo que más destacan las opiniones: levanta bien pelos y polvo en el mantenimiento diario. Eso sí, el depósito de polvo es de 310 mL, así que con mascotas que sueltan mucho pelo hay que vaciarlo seguido.' },
+      { question: '¿Friega el piso con agua?', answer: 'No con agua. El "fregado" es un paño de microfibra que pasa en seco y atrapa el polvo fino. No tiene tanque de líquidos (0 mL), así que no es un robot de trapeado húmedo.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Mide solo 7 cm de alto, así que entra bajo camas, sillones y muebles bajos. Es una de las ventajas más mencionadas por los compradores para limpiar donde no se llega con la escoba.' },
+      { question: '¿Es potente? ¿Los 500 Pa alcanzan?', answer: '500 Pa es una succión de nivel estándar: rinde bien para mantenimiento de polvo, pelusa y pelo. Para suciedad gruesa flaquea, y como no tiene cepillo central de rodillo, a veces empuja las migas a los costados. Es un robot para mantener limpio, no para reemplazar una limpieza profunda.' },
+      { question: '¿En qué se diferencia de una aspiradora robot Xiaomi o Roomba con mapeo?', answer: 'Una aspiradora robot con mapeo, como las Xiaomi, Roomba o Samsung, arma el plano de la casa con LiDAR o cámara, recorre ordenado, evita zonas y se programa desde la app. La Kärcher RCV 1 no mapea ni tiene WiFi: es más simple y económica, se maneja con control remoto y apunta al mantenimiento diario. La elegís por marca, precio y formato bajo, no por navegación inteligente.' },
+      { question: '¿Qué aspiradora robot conviene comprar en Argentina?', answer: 'Depende de qué busques. Si querés mapeo, app y limpieza profunda, vas a un robot de gama más alta como Xiaomi o Roomba. Si buscás una aspiradora robot simple para mantenimiento diario, que barra y trapee en seco, levante pelos de mascota y se maneje con control remoto sin depender del WiFi, la Kärcher RCV 1 cumple ese rol con respaldo de marca.' },
+      { question: '¿Qué viene en la caja?', answer: 'Base de carga, 2 cepillos laterales, control remoto, paño para trapear en seco, depósito de polvo de 310 mL con filtro HEPA, cepillo de limpieza para mantenimiento, manual y 2 pilas AA.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Relación precio calidad excelente. No sé si te va a solucionar la vida, pero ayuda. Es verdad que se choca con los objetos, pero por el precio está re bien. Lo tengo hace 6 meses y ni un problema, solo cada tanto le pongo aceite en las rueditas. Hay modelos más potentes pero este cumple.', useful: 1 },
+      { rating: 5, country: 'Argentina', text: 'Levanta mucho pelos de mis mascotas, no pensé que se podía juntar tanto.', useful: 0 },
+      { rating: 5, country: 'Argentina', text: 'Lo mejor que me pasó y encima se maneja con control remoto.', useful: 1 },
+      { rating: 4, country: 'Argentina', text: 'Aspira pero para mí le falta más potencia, porque deja residuos después de que pasa, no aspira todo el polvo.', useful: 7 },
+      { rating: 4, country: 'Argentina', text: 'Es un poco más chica que otras marcas que tuve, pero funciona bien. El compartimento de recolección es chico y no tiene rodillos como otras. De todos modos limpia bien y es silenciosa.', useful: 0 },
+      { rating: 2, country: 'Argentina', text: 'No tiene cepillo para barrer abajo, lo que hace que no pueda aspirar correctamente y va corriendo las partículas para los costados.', useful: 8 },
+      { rating: 2, country: 'Argentina', text: 'Mapea mal. Deja lugares sin limpiar, choca con la estación de carga.', useful: 4 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Kärcher RCV 1',
+      description: 'Aspiradora robot Kärcher RCV 1: barre, aspira y pasa paño en seco con 500 Pa de succión, 3 modos de limpieza (Auto, Esquina, Focus), control remoto, filtro HEPA, sensores de obstáculo y anticaídas, 7 cm de alto y retorno automático a la base.',
+      brand: { '@type': 'Brand', name: 'Kärcher' },
+      model: 'RCV 1',
+      sku: 'MLA42103831',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_985533-MLA96128276793_102025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA42103831',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '182000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/12hGhQB',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '115',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
     relatedProducts: ['MLA18642318', 'MLA20033508', 'MLA61420449'],
   },
   {

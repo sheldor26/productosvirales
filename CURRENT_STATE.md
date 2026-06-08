@@ -1,7 +1,7 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-06-06 (nicho aspiradoras robot + scraper arreglado + API oficial validada).
+> Última actualización: 2026-06-08 (ficha Kärcher RCV 1 enriquecida full SEO).
 
 ## Catálogo
 
@@ -11,6 +11,7 @@
 - Precios trackeados con `priceUpdated` + `priceLastChecked` + `priceStatus`.
 - Última actualización de precios: 8 aspiradoras robot (2026-06-06).
 - **Importación por API oficial de ML validada** (OAuth client_credentials) — ver memoria `ml-api-oficial-funciona`. Credenciales en `.env` local. Sin bloqueos/CAPTCHA.
+- **Ficha Kärcher RCV 1 (MLA42103831) enriquecida (08-jun):** de placeholder a ficha completa con SEO real (seoTitle/meta/H1/OG con keywords de `Keywords/Aspiradoras Robot`), `rating` 4.5 / `reviewCount` 115, `articleBody` (6 H2), `specs` (18), `faq` (9 → FAQPage), 7 `customerReviews` reales, `structuredData` Product+Offer+aggregateRating, y 3 links internos a robots reales (2 Atma + Xiaomi S40c). Ángulo honesto: robot de mantenimiento sin WiFi/mapeo. Texto pasado por humanizer.
 
 ## Guías publicadas / agendadas
 
