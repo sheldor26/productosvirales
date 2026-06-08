@@ -1,7 +1,7 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-06-08 (ficha Kärcher RCV 1 enriquecida full SEO).
+> Última actualización: 2026-06-08 (aspiradoras robot: 7 guías optimizadas con precios/ratings frescos + 5 guías nuevas).
 
 ## Catálogo
 
@@ -37,27 +37,34 @@
 
 ## Guías publicadas / agendadas
 
-- **61 guías totales** en `src/data/guides.ts` (54 + 7 nuevas de aspiradoras robot).
+- **66 guías totales** en `src/data/guides.ts` (54 + 12 de aspiradoras robot).
 - Distribución por tema:
   - `freidoras-de-aire`: 23 (varias agendadas a futuro)
   - `pavas-electricas`: 11 (4 agendadas)
   - `perfumes-arabes`: 14 (6 originales + 8 nuevas de fase 2)
   - `masajeadores`: 10 (4 nuevas 08-jun: masajeador [pillar head term 49.5K/dif 13], pistola-masajeadora, masajeador-espalda-cuello, masajeador-electrico)
-  - `aspiradoras-robot`: **7** (red nueva, todas live desde 06-jun)
+  - `aspiradoras-robot`: **12** (7 originales optimizadas 08-jun + 5 nuevas 08-jun)
 
-### Red aspiradoras robot — completa ✅ (06-jun)
+### Red aspiradoras robot — 12 guías (7 optimizadas + 5 nuevas, 08-jun)
 
-| # | Slug | Tipo |
-|---|---|---|
-| 1 | robot-aspiradora | HUB pilar (3.673 palabras) |
-| 2 | mejores-robot-aspiradora-trapeadora | Ranking |
-| 3 | robot-aspiradora-precio-argentina | Precios |
-| 4 | robot-aspiradora-xiaomi | Marca |
-| 5 | robot-aspiradora-gadnic | Marca |
-| 6 | robot-aspiradora-con-mapeo-laser | Feature |
-| 7 | como-funciona-robot-aspiradora | Informacional |
+| # | Slug | Tipo | Estado |
+|---|---|---|---|
+| 1 | robot-aspiradora | HUB pilar | Optimizada (precios/Samsung/S40 Pro reframe) |
+| 2 | mejores-robot-aspiradora-trapeadora | Ranking | Optimizada (precios/ratings) |
+| 3 | robot-aspiradora-precio-argentina | Precios | Optimizada (toda la escala de precios + Midow=más barato, Samsung=techo $3.476.040) |
+| 4 | robot-aspiradora-xiaomi | Marca | Optimizada (S40 Pro ya no es "gama media") |
+| 5 | robot-aspiradora-gadnic | Marca | Optimizada |
+| 6 | robot-aspiradora-con-mapeo-laser | Feature | Optimizada (Samsung $3.476.040, X20 Pro $1.314.999) |
+| 7 | como-funciona-robot-aspiradora | Informacional | Sin cambios mayores |
+| 8 | mejor-aspiradora-robot | Decisión ("cuál comprar") | **NUEVA** — kw `mejor aspiradora robot` 480, `que aspiradora robot comprar` 140 |
+| 9 | robot-aspiradora-roomba | Marca (4 Roomba) | **NUEVA** — kw `roomba` 1.600 SD 11, `aspiradora roomba` 880 SD 10 |
+| 10 | robot-aspiradora-samsung | Marca (Jet Bot+, Powerbot E) | **NUEVA** — kw `aspiradora robot samsung` 1.300 |
+| 11 | robot-aspiradora-atma | Marca (3 Atma) | **NUEVA** — kw `aspiradora robot atma` 1.000 SD 13 |
+| 12 | aspiradora-robot-gadnic-vs-xiaomi | Comparativa | **NUEVA** — decisión 2 marcas top (2.900 + 1.900) |
 
-18 fichas de aspiradoras robot en el catálogo. Doc maestro: `docs/nichos/aspiradoras-robot.md`.
+**Optimización 08-jun (precios/ratings frescos de las 22 fichas → guías):** swaps limpios (Fika Nexos $191.900, SENSE $145.440, Gadnic 5 Modos $250.999, 3 Modos $270.522, S40c $317.366, S20 $446.859) + reencuadres editoriales fuertes: **Xiaomi S40 Pro $599.990→$949.657** (ya no "premium accesible casi gama media"; premium ahora arranca ~$950K), **Samsung Jet Bot+ $1.300.000→$3.476.040** (techo del catálogo, reposicionado como outlier de marca), **X20 Pro $1.000.000→$1.314.999**, **X20 Max $1.399.000→$1.548.517**. Corrección de dato: AC800 "más de 1.000 calificaciones" → "más de 1.000 **vendidas**" (son 548 calificaciones; Juan aclaró ventas≠reviews). Corrección: el más barato del catálogo ahora es **Midow $130.979**, no la Fika SENSE. Verificado: `tsc --noEmit` ✓, ESLint ✓, 12 slugs únicos, todos los cross-links y productMlaId resuelven. Build completo bloqueado por permisos del `.next` (entorno, no código). Sin commit (a la espera de Juan).
+
+18 fichas de aspiradoras robot en el catálogo. Doc maestro: `docs/nichos/aspiradoras-robot.md`. Método keywords: CSVs en `Keywords/Aspiradoras Robot/` + MCP Ubersuggest (locId 2032, es).
 
 ### Cluster perfumes árabes — Fase 2 cerrada ✅
 
