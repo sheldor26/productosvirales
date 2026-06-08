@@ -7123,8 +7123,8 @@ Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro
     title: 'Aspiradora Robot Gadnic 5000 Pa LIDAR 360 Base Autolimpiante Bolsa 3.2 Litros 140 Min Autonomia 3200 mAh App Tuya',
     brand: "Gadnic",
     price: 507799,
-    priceUpdated: "2026-06-06",
-    priceLastChecked: "2026-06-06",
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: "fresh",
     originalPrice: 720049,
     currency: 'ARS',
@@ -7143,43 +7143,132 @@ Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 545,
+    reviewCount: 548,
+    reviewsWithPhotos: 4,
     soldQuantity: 1000,
+    color: 'Negro',
+    badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    seoTitle: "Gadnic 5000 Pa LIDAR 360: review aspiradora robot premium",
-    metaDescription: "Análisis del Gadnic Aspiradora Robot 5000 Pa con LIDAR 360 y base autolimpiante: mapeo láser, bolsa 3.2L para 60 días sin tocarla, app Tuya. Precio en Argentina.",
-    ogTitle: "Gadnic 5000 Pa LIDAR 360 — el tope de gama del catálogo Gadnic",
-    ogDescription: "LIDAR para mapeo preciso, 5000 Pa de succión real, base autolimpiante con bolsa de 3.2L, app Tuya y 140 min de autonomía. La opción Gadnic más cercana a Roborock.",
-    h1: "Gadnic 5000 Pa LIDAR 360: el robot Gadnic con base autolimpiante",
+    aiReviewSummary: 'Destaca por su excelente calidad y eficiencia en la limpieza, siendo ideal para aspirar y trapear. Su capacidad para mapear y escanear el área de limpieza permite mantener la casa impecable, incluso en hogares con mascotas. Además, es silenciosa y fácil de manejar a través de su aplicación, lo que simplifica las tareas diarias.',
+    seoTitle: 'Aspiradora Robot Gadnic LiDAR: Mapeo, 5000 Pa y Autovaciado',
+    metaDescription: 'Aspiradora robot Gadnic LiDAR 360: mapeo láser, 5000 Pa, base autolimpiante (se vacía sola) y app. El premium de marca local. 4.8★ con 548 opiniones.',
+    ogTitle: 'Aspiradora Robot Gadnic LiDAR 360: el premium de marca local con autovaciado',
+    ogDescription: '4.8★ con 548 opiniones. Mapeo láser de verdad, 5000 Pa, base autolimpiante y app, a un precio muy por debajo de las importadas premium. Analizamos para quién rinde.',
+    h1: 'Aspiradora robot Gadnic LiDAR 360: mapeo láser, 5000 Pa y base autolimpiante, el premium de marca local',
+    articleBody: `## Mapeo láser LiDAR 360: este sí mapea de verdad
+
+A diferencia del [Gadnic 5 Modos](/producto/MLA45951645), que navega de forma giroscópica, este AC800 trae **navegación láser LiDAR 360**. Arma un mapa preciso de la casa, recorre ordenado sin repetir y esquiva los obstáculos en lugar de chocarlos. Los compradores lo notan: "el láser realmente cumple, mi novio dejó la moto en el living y la esquivó sin problemas", "escanea perfecto toda la casa".
+
+Sobre ese mapa, desde la app elegís qué habitación limpiar, marcás zonas prohibidas y programás horarios. Aviso honesto que aparece en algunas opiniones: a veces se le desconfigura el mapa o se olvida las zonas prohibidas y hay que rehacerlo; mandándolo a limpiar de nuevo se reacomoda.
+
+## Base autolimpiante: te olvidás del polvo
+
+La otra función estrella es la **base autolimpiante** con bolsa de 3,2 litros. Cuando termina, el robot vuelve a la estación y se vacía solo a la bolsa, así que pasás semanas sin tocar el polvo. Es de lo más valorado: "que tenga descarga en la misma base y no tener que vaciarla es genial". La contracara, también honesta: la base hace bastante ruido cuando descarga al robot, aunque dura solo un ratito, y la bolsa es un consumible que hay que reponer.
+
+## 5000 Pa: aspira y trapea
+
+Aspira con 5000 Pa y tres niveles de potencia, más que suficiente para pelo de mascota, pelusa y polvo fino. También trapea, con tres niveles de agua. El trapeado es de mantenimiento: humedece y repasa, pero no saca manchas y puede dejar el piso marcado en partes. Un detalle que repiten las opiniones: el tanque de agua es chico (250 mL) y hay que cargarlo en cada limpieza, y el robot no avisa cuando se queda sin agua.
+
+## La fricción real: el WiFi y la app
+
+Acá está la queja número uno, y conviene saberla antes de comprar. El robot solo se conecta a **WiFi de 2,4 GHz**: si tu red es solo de 5 GHz, no vas a poder usar la app, y muchos tienen que entrar al router a separar las bandas. Además, el manual no es claro para la conexión inicial (el truco que repiten es mantener apretado el botón de la casita, no el de encendido) y la app Tuya es bastante rudimentaria. Pasada esa curva funciona bien, pero es lo que más frustra los primeros días.
+
+## Para mascotas y casas grandes
+
+Es para lo que más se compra y donde mejor rinde. Con 5000 Pa y la base que se vacía sola, mantiene impecables casas de 100 a 120 m² con una carga, y la programás por zonas. Avisos honestos del panorama de opiniones: con pelo largo, el rodillo se enreda y hay que limpiarlo; cuando el robot se llena de pelo apelmazado, a veces no descarga bien en la base; y por la torre del LiDAR (9,7 cm de alto) no entra bajo los muebles muy bajos.
+
+## En qué se diferencia de los otros robots del catálogo
+
+Dentro de Gadnic, la diferencia con el [5 Modos](/producto/MLA45951645) es enorme: aquel navega giroscópico y no guarda mapa, este tiene LiDAR real y base autolimpiante. Frente a las importadas premium, el [Xiaomi X20 Pro](/producto/MLA44240016) también tiene autovaciado y mejor app, pero cuesta bastante más; y la [Samsung Jet Bot+](/producto/MLA26504431) juega en otra liga de precio. El Gadnic LiDAR se elige por ser el LiDAR + autovaciado más accesible del catálogo y de marca local con service en Argentina.
+
+## Qué incluye la caja
+
+Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (con repuesto), mopas lavables, filtro HEPA, cable de carga, herramienta de limpieza y manual de usuario.`,
+    faq: [
+      { question: '¿La Gadnic LiDAR mapea de verdad?', answer: 'Sí. A diferencia del Gadnic 5 Modos (que es giroscópico), este AC800 trae navegación láser LiDAR 360: arma un mapa preciso de la casa, recorre ordenado y esquiva los obstáculos. Desde la app elegís habitaciones, marcás zonas prohibidas y programás horarios. A veces se le desconfigura el mapa y hay que rehacerlo, pero se reacomoda rápido.' },
+      { question: '¿Se vacía sola?', answer: 'Sí. Trae base autolimpiante con bolsa de 3,2 L: al terminar, el robot vuelve a la estación y se vacía solo, así que pasás semanas sin tocar el polvo. La base hace bastante ruido cuando descarga, pero dura solo un ratito. La bolsa es un consumible que hay que reponer.' },
+      { question: '¿Es difícil conectarla al WiFi y la app?', answer: 'Es la queja más común. Solo se conecta a WiFi de 2,4 GHz, así que si tu red es solo de 5 GHz tenés que separar las bandas en el router. El manual no es claro (el truco es mantener apretado el botón de la casita, no el de encendido) y la app Tuya es básica. Pasada la curva inicial, funciona bien.' },
+      { question: '¿Trapea bien?', answer: 'El trapeado es de mantenimiento: humedece y repasa con tres niveles de agua, pero no saca manchas y puede dejar el piso marcado en partes. El tanque de agua es chico (250 mL) y hay que cargarlo en cada limpieza; además no avisa cuando se queda sin agua.' },
+      { question: '¿Sirve para mascotas y casas grandes?', answer: 'Sí, es donde mejor rinde. Con 5000 Pa y la base que se vacía sola, mantiene impecables casas de 100 a 120 m² con una carga, y la programás por zonas. Con pelo largo el rodillo se enreda y hay que limpiarlo, y cuando se llena de pelo apelmazado a veces no descarga bien en la base.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Solo bajo los de altura normal. Por la torre del sensor LiDAR mide 9,7 cm de alto, así que no pasa por debajo de muebles muy bajos. Conviene medir la luz libre antes de comprar.' },
+      { question: '¿En qué se diferencia del Gadnic 5 Modos o del Xiaomi X20 Pro?', answer: 'El Gadnic 5 Modos navega giroscópico y no guarda mapa; este tiene LiDAR real y base autolimpiante, una diferencia enorme. El Xiaomi X20 Pro también tiene autovaciado y una app mejor, pero cuesta bastante más. El Gadnic LiDAR es el autovaciado + mapeo láser más accesible del catálogo, de marca local.' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Gadnic AC800, base autolimpiante con bolsa de 3,2 L, cepillos laterales (con repuesto), mopas lavables, filtro HEPA, cable de carga, herramienta de limpieza y manual de usuario.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Muy feliz con martita. Estuvimos de festejo con chicos, snack por todos lados, y no toqué la escoba: aspiró y trapeó, dejó todo impecable. La programé y se quedaron sin juntar unas cortinas largas y un trapo, pero se pone en pausa, te avisa y luego sigue. La aplicación conectó fácil. Es una gran ayuda.', useful: 98 },
+      { rating: 5, country: 'Argentina', text: 'No limpia en profundidad, pero volvimos a poder caminar descalzos sin ensuciarnos. No saca manchas ni pegotes. La base es espectacular, tiene muchísima capacidad. El mapeo funciona bastante bien; por ahí se traba, rehace todo el mapa y se olvida las zonas prohibidas y hay que rehacerlo. Habla, te avisa si se traba. Recomendamos.', useful: 67 },
+      { rating: 5, country: 'Argentina', text: 'Me costó bastante que conecte al WiFi para tener la app y ver los mapas: únicamente conecta red 2,4; si solo tenés 5G, fuiste, no podés usar la app. Carga rápido, limpia bien, tiene muchas funciones, es linda y casi no hace ruido.', useful: 53 },
+      { rating: 5, country: 'Argentina', text: 'Aspira muy bien aunque solo tiene una escobilla. La base hace mucho ruido cuando vacía al robot, pero funciona perfectamente.', useful: 48 },
+      { rating: 5, country: 'Argentina', text: 'Tengo una perra y una gata que largan pelo. La programo para que aspire todos los días y trapee día por medio, y no volví a usar nunca más la escoba ni el secador. Increíble cómo aspira y trapea.', useful: 44 },
+      { rating: 5, country: 'Argentina', text: 'Tips: ojo con puntas de calefactores, ponéles zona prohibida; cuidado si sobra 1 cm entre la aspiradora y el somier, las grampas pueden marcar el protector del láser; bajen las persianas para que mapee bien; saquen cables sueltos del piso; configuren la potencia por ambiente en la app; WiFi 2,4 GHz, la de 5 no sirve.', useful: 3 },
+      { rating: 4, country: 'Argentina', text: 'Excelente producto, me costó conectarlo a la red pero se pudo. No trapea como pensé, deja marcado el piso en partes, pero ayuda a mantener bastante la limpieza.', useful: 11 },
+      { rating: 4, country: 'Argentina', text: 'Tuve que devolverlo, complicado de configurar porque el manual no es claro para reiniciar y no acepta redes modernas. Tuve que reconfigurar el router a 2,4 GHz e igual no tuve suerte. Recomendación: mejoren el posventa.', useful: 7 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Gadnic AC800 LiDAR 360',
+      description: 'Aspiradora robot y trapeador Gadnic AC800 con navegación láser LiDAR 360, 5000 Pa de succión, base autolimpiante con bolsa de 3,2 L, app Tuya por WiFi, control por voz (Alexa, Google), depósito de polvo de 400 mL, tanque de agua de 250 mL, filtro HEPA y hasta 140 minutos de autonomía.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'AC800 (ROB0518X)',
+      sku: 'MLA62126950',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_757562-MLA98254774359_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA62126950',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '507799',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2UjN3FV',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '548',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
     specs: [
-      { label: "Marca", value: "Gadnic" },
-      { label: "Modelo", value: "AC800" },
-      { label: "Tipo de navegación", value: "LIDAR 360 (mapeo láser)" },
-      { label: "Succión", value: "5000 Pa" },
-      { label: "Funciones", value: "Aspirado + trapeado" },
-      { label: "Base", value: "Autolimpiante con bolsa de 3.2 L (~60 días sin vaciar)" },
-      { label: "Autonomía", value: "140 minutos" },
-      { label: "Batería", value: "3200 mAh" },
-      { label: "Control", value: "App Tuya (WiFi) + control remoto" },
-      { label: "Voltaje", value: "220V (mercado argentino)" },
+      { label: 'Marca / Modelo', value: 'Gadnic / AC800 (ROB0518X)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador con base autolimpiante' },
+      { label: 'Succión', value: '5000 Pa (5 kPa) · 3 niveles' },
+      { label: 'Navegación', value: 'Láser LiDAR 360 (mapas, zonas y habitaciones)' },
+      { label: 'Base autolimpiante', value: 'Sí · bolsa de 3,2 L (se vacía sola)' },
+      { label: 'Modos de limpieza', value: 'Auto, Spot, Edge' },
+      { label: 'Control', value: 'App Tuya (WiFi 2,4 GHz) + voz (Alexa, Google)' },
+      { label: 'Fregado', value: 'Tanque de agua de 250 mL · 3 niveles' },
+      { label: 'Depósito de polvo', value: '400 mL' },
+      { label: 'Filtro', value: 'HEPA' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí (con detección de alfombras) / Sí' },
+      { label: 'Batería', value: '14,4 V · 3200 mAh · hasta 140 min · retorno automático' },
+      { label: 'Cepillo lateral', value: 'Uno (con repuesto)' },
+      { label: 'Nivel de ruido', value: 'Menos de 68 dB' },
+      { label: 'Dimensiones', value: 'Robot 34,5 cm de diámetro y 9,7 cm de alto · base 21 x 26 x 35 cm' },
+      { label: 'Peso', value: '3,5 kg' },
+      { label: 'Color', value: 'Negro' },
     ],
     pros: [
-      "LIDAR — mapeo preciso, no choca contra muebles ni pierde tiempo en zonas ya pasadas",
-      "Base autolimpiante con bolsa 3.2L — promedio de 60 días sin vaciar manualmente",
-      "5000 Pa de succión es suficiente para pelos de mascota y alfombras finas",
-      "App Tuya soporta zones, schedules y no-go zones",
-      "Rating 4.8 con +1.000 unidades vendidas",
+      '4.8⭐ con 548 calificaciones: el premium de Gadnic con LiDAR real y base autolimpiante',
+      'Mapeo láser LiDAR 360: recorre ordenado, con zonas, habitaciones y programación por app',
+      'Base autolimpiante (bolsa de 3,2 L): se vacía sola, te olvidás del polvo por semanas',
+      '5000 Pa: aspira muy bien el pelo de mascota; aspira y trapea en una pasada',
+      'Hasta 140 min de autonomía y vuelve sola a la base; relativamente silenciosa',
+      'El LiDAR + autovaciado más accesible del catálogo, y de marca local con service',
     ],
     cons: [
-      "Sin envío gratis — verificá costo según CP, agrega $5-15K al precio final",
-      "App Tuya es la genérica china — funciona pero no tiene la pulida de Mi Home o Roborock",
-      "Bolsa de la base es repuesto consumible — chequeá disponibilidad antes de comprar",
-      "Altura del robot: si tenés muebles con menos de 9-10 cm de luz, va a quedar afuera",
+      'Solo WiFi 2,4 GHz y la app Tuya es rudimentaria: cuesta conectarla y el manual no es claro (la queja nº1)',
+      'El trapeado es básico: tanque de agua chico (250 mL, hay que cargarlo seguido) y no saca manchas',
+      'Trae un solo cepillo lateral; con pelo largo se enreda en el rodillo y a veces no descarga bien en la base',
+      'Repuestos (bolsas, filtros) son un gasto recurrente y a veces difíciles de conseguir',
     ],
-    verdict: "Si tenés más de un ambiente, mascota que suelta pelo o no querés vaciar el robot cada 2 días, este es el Gadnic correcto. La base autolimpiante y el LIDAR son features que normalmente arrancan en $700K+ con Roborock o Xiaomi premium — acá sub-$520K. Para quien quiere comprarlo y olvidarse, el ticket alto se justifica.",
-    bestOccasion: ["Casas con mascotas", "Departamentos grandes", "Quien no quiere vaciar el robot frecuentemente"],
-    notRecommendedFor: ["Espacios chicos donde un robot básico cumple", "Muebles muy bajos (verificar altura libre)"],
-    relatedProducts: ["MLA61420449", "MLA36838658"],
+    verdict: 'El premium de Gadnic y el LiDAR + base autolimpiante más accesible del catálogo: mapea de verdad, se vacía solo y aspira muy bien el pelo de mascota, todo a un precio muy por debajo de las importadas premium y con service local. La fricción está en la app Tuya y el WiFi (solo 2,4 GHz, manual flojo): pasada esa curva inicial, es una de las mejores relaciones precio/calidad del catálogo para quien quiere automatización total sin gastar fortunas.',
+    bestOccasion: ['Máxima automatización a precio de marca local', 'Hogares con mascotas y casas medianas/grandes', 'Quien quiere LiDAR + autovaciado sin pagar importado'],
+    notRecommendedFor: ['Quien no quiera lidiar con la app Tuya / WiFi 2,4 GHz', 'Limpieza profunda (el trapeado es de mantenimiento)', 'Muebles muy bajos (mide 9,7 cm)'],
+    relatedProducts: ['MLA45951645', 'MLA44240016', 'MLA26504431'],
     description: 'Cod. : ROB0518X Aspiradora Trapeadora Robot Gadnic AC800 Con Base Carga Mapeo Inteligente    ACERCA DE ÉSTE PRODUCTO:  Limpieza Inteligente Con Mapeo Laser: La aspiradora robot Gadnic AC800 incorpora tecnologia LIDAR 360 que permite mapeo preciso del entorno. Organiza recorridos eficientes evitando ',
   },
   {
