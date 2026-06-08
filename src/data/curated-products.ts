@@ -19918,15 +19918,137 @@ El X20 Max es el más completo: tiene la estación todo-en-uno del [X20 Pro](/pr
     condition: 'new',
     freeShipping: true,
     brand: 'iRobot',
+    line: 'Serie 600',
+    color: 'Negro',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'La marca iRobot es líder mundial en la fabricación de robots militares y domésticos. Sus aspiradoras están revolucionando la forma de limpiar. La R692020 hará la tarea por ti y te permitirá ahorrar tiempo y esfuerzo. Completamente autónoma Cuenta con un detector de obstáculos que le posibilita realizar su labor de forma precisa y sin interrupciones. Por esto, ningún objeto será un problema para ll',
-    seoTitle: 'Aspiradora Robot Roomba 692',
-    metaDescription: 'Aspiradora Robot Roomba 692: precio, ficha y opiniones. Robot aspirador iRobot Roomba en Argentina. Comprala en MercadoLibre.',
-    ogTitle: 'Aspiradora Robot Roomba 692 — ¿conviene?',
-    ogDescription: 'La marca iRobot es líder mundial en la fabricación de robots militares y domésticos. Sus aspiradoras están revolucionando la forma de limpiar. La R692',
-    h1: 'Aspiradora Robot Roomba 692',
-    relatedProducts: ['MLA27941233', 'MLA37360592', 'MLA26504431'],
+    rating: 4.5,
+    reviewCount: 39,
+    reviewsWithPhotos: 1,
+    description: 'Aspiradora robot iRobot Roomba 692 (R692020): el Roomba de entrada. Aspira con sistema de limpieza de 3 fases y cepillos dobles multisuperficie, se controla por app iRobot Home vía WiFi (compatible con Alexa y Google), tiene sensores de obstáculo y anticaída, y vuelve sola a la base. No mapea (navegación aleatoria) y no trapea. 4.5 estrellas con 39 calificaciones.',
+    aiReviewSummary: 'Es un producto excelente, ingenioso y muy útil. Su funcionamiento es mínimamente ruidoso y la batería rinde muy bien, recargándose de forma eficiente. Lo más elogiado es la durabilidad de la marca iRobot. La crítica que se repite: no mapea (recorrido aleatorio) y el cepillo lateral se rompe con facilidad.',
+    seoTitle: 'Aspiradora Robot Roomba 692: ¿el Roomba barato conviene?',
+    metaDescription: 'Roomba 692: el iRobot más barato. Aspira muy bien y dura años, pero no mapea ni trapea. 4.5★ con 39 opiniones. ¿Conviene vs un Xiaomi? Análisis honesto.',
+    ogTitle: 'Roomba 692: el Roomba más barato, ¿vale la marca?',
+    ogDescription: '4.5★ con 39 opiniones. El iRobot de entrada: aspira bien, dura años y se banca Alexa. Pero no mapea ni trapea. Analizamos si conviene frente a un Xiaomi.',
+    h1: 'Aspiradora Robot Roomba 692: el iRobot más barato, para quien quiere la marca sin pagar el mapeo',
+    pros: [
+      '4.5⭐ con 39 calificaciones y el respaldo de iRobot, el creador del robot aspirador',
+      'Fama de durabilidad: varios compradores cuentan que el modelo anterior les duró años',
+      'Aspira muy bien, también pelo de mascota: sistema de limpieza de 3 fases con cepillos dobles',
+      'WiFi + app iRobot Home + compatible con Alexa y Google',
+      'Vuelve sola a la base y la batería rinde hasta 2 h',
+      'Silenciosa: las opiniones la describen como "mínimamente ruidosa"',
+    ],
+    cons: [
+      'No mapea: navegación aleatoria (rebota y cambia de dirección), pasa varias veces por el mismo lugar',
+      'Solo aspira, no trapea: por este precio hay robots que mapean y además trapean',
+      'Cara para lo que ofrece: cuesta más que varias Xiaomi o Gadnic que sí mapean y trapean',
+      'El cepillo lateral es el punto débil: a varios se les rompió al poco tiempo (lo señalan como falla de diseño)',
+      'La ficha de ML muestra un dato de succión erróneo (1 Pa): iRobot no publica la succión en Pa',
+    ],
+    verdict: 'El Roomba más barato, para quien quiere específicamente la marca iRobot y su fama de durabilidad, y le alcanza con un robot que aspira bien sin mapeo ni trapeado. Si por ese mismo precio (o menos) querés mapeo y trapeado, hay opciones mejores en el catálogo. Lo elegís por la marca y la confiabilidad, no por las funciones.',
+    bestOccasion: ['Quien quiere específicamente la marca Roomba a bajo costo', 'Departamentos y casas con mascotas', 'Quien prioriza durabilidad sobre funciones'],
+    notRecommendedFor: ['Quien quiere mapeo o recorrido ordenado', 'Quien busca que también trapee (mejor la Roomba Combo i5+)', 'Quien quiere el máximo de funciones por su plata (mejor un Xiaomi/Gadnic con LiDAR)'],
+    articleBody: `## El Roomba más barato: qué estás pagando
+
+La Roomba 692 es la puerta de entrada a la marca que inventó el robot aspirador. Es el modelo más accesible de iRobot, y ese es justo su gancho: tener un Roomba sin pagar la gama alta. Pero conviene entender qué estás comprando, porque a este precio (alrededor de $390.000) hay robots de otras marcas que hacen bastante más. Lo que pagás acá es **la marca y la durabilidad**, no las funciones.
+
+Una reseña lo resume sin vueltas: "es carísima, pero la anterior que tuve era idéntica y me duró como 5 años; se termina pagando sola". Ese es el argumento real de la 692.
+
+## Aspira bien, pero navega al azar
+
+Como aspiradora cumple: usa el sistema de limpieza de 3 fases de iRobot con cepillos dobles multisuperficie, y las opiniones coinciden en que levanta bien el polvo y el pelo de mascota. Es silenciosa ("mínimamente ruidosa") y la batería rinde hasta 2 horas, con retorno automático a la base.
+
+Lo que tenés que tener clarísimo es la navegación: la 692 **no mapea**. Se mueve de forma aleatoria, rebotando y cambiando de dirección cuando toca algo. Las propias reseñas lo confirman: "el recorrido es completamente aleatorio", "muy útil a pesar de no tener mapeo". En la práctica pasa varias veces por el mismo lugar y puede dejar zonas, aunque con tiempo termina cubriendo el ambiente. Si querés recorrido ordenado por habitaciones, este no es: ahí ya hablamos de un Roomba con mapa o de un robot con LiDAR como la [Xiaomi Robot Vacuum S20](/producto/MLA44714806).
+
+## Solo aspira: no trapea
+
+Otro punto a tener claro: la 692 **solo aspira, no trapea**. No tiene tanque de agua ni mopa. Si querés un Roomba que también pase el trapo, el del catálogo es la [Roomba Combo i5+](/producto/MLA27941233), que aspira, trapea y además se vacía sola en su base. La 692 es puramente una aspiradora de mantenimiento.
+
+## El punto débil: el cepillo lateral
+
+Hay una queja que se repite y conviene conocer antes de comprar: el cepillo lateral (esquinero) se rompe con facilidad. "Lo usé por primera vez y se rompió el cepillo lateral", "se rompe al flexionarse y fatigarse, y no lo cubren con la garantía; claramente es una falla de diseño". No es un problema que tenga todo el mundo, pero aparece lo suficiente como para tenerlo en el radar. La buena noticia es que el cepillo lateral es un repuesto barato y fácil de cambiar.
+
+## Marca y durabilidad: el argumento real
+
+Acá está el verdadero motivo para elegirla. iRobot es la marca que creó la categoría, con años de rodaje, y su fama es la confiabilidad: robots que duran. Eso, sumado a una app madura (iRobot Home) y compatibilidad con Alexa y Google, es lo que justifica el precio frente a alternativas que tienen más funciones pero menos kilómetros de marca. Si para vos pesa comprar algo probado y duradero, la 692 tiene sentido.
+
+## ¿Conviene frente a una Xiaomi o Gadnic?
+
+Seamos honestos con el precio. A unos $390.000, la 692 sale más que varios robots locales o chinos que **sí mapean y sí trapean**. Una [Gadnic AspiRob con LiDAR](/producto/MLA36838658) o una [Xiaomi Robot Vacuum S20](/producto/MLA44714806) arman el mapa de la casa, recorren ordenado y trapean, a un precio parecido o menor. Si tu prioridad son las funciones por tu plata, esas le ganan. La 692 se queda con el público que quiere la marca iRobot y su durabilidad por encima de todo.
+
+## En qué se diferencia de los otros Roomba del catálogo
+
+La 692 es la base de la gama. Si querés un Roomba que además trapee y se vacíe solo, la [Roomba Combo i5+](/producto/MLA27941233). Si querés el que esquiva objetos en el piso (cables, juguetes, sorpresas de la mascota) con su cámara, la [Roomba j7](/producto/MLA37360592). Y arriba de todo está la [Roomba j9](/producto/MLA44718960), el premium de la línea. La 692 es para quien quiere entrar a iRobot gastando lo mínimo.
+
+## Qué incluye la caja
+
+Robot Roomba 692, base de carga Home Base, cable de alimentación, un filtro y el cepillo lateral. Se controla desde la app iRobot Home por WiFi o por voz con Alexa y Google.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'iRobot / Roomba 692 (R692020)' },
+      { label: 'Tipo', value: 'Robot aspirador (solo aspira, no trapea)' },
+      { label: 'Sistema de limpieza', value: '3 fases con cepillos dobles multisuperficie' },
+      { label: 'Succión', value: 'iRobot no informa la presión en Pa' },
+      { label: 'Navegación', value: 'Aleatoria por sensores (sin mapeo)' },
+      { label: 'Modos', value: 'Limpieza automática + Spot (zona puntual)' },
+      { label: 'Control', value: 'App iRobot Home (WiFi) + voz (Alexa, Google)' },
+      { label: 'Trapeado', value: 'No (solo aspira)' },
+      { label: 'Filtro', value: 'Sí' },
+      { label: 'Apto pelo de mascota', value: 'Sí' },
+      { label: 'Batería', value: 'Hasta 2 h · carga ~2 h · retorno automático' },
+      { label: 'Sensores', value: 'Obstáculo y anticaída (Cliff Detect)' },
+      { label: 'Color / Voltaje', value: 'Negro / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Roomba 692 hace mapeo de la casa?', answer: 'No. Navega de forma aleatoria: rebota y cambia de dirección cuando toca un obstáculo, sin armar un mapa. Pasa varias veces por el mismo lugar y con el tiempo cubre el ambiente, pero no recorre ordenado por habitaciones. Si querés mapeo, necesitás un Roomba de gama más alta o un robot con LiDAR.' },
+      { question: '¿Trapea o solo aspira?', answer: 'Solo aspira. La 692 no tiene tanque de agua ni mopa, es puramente una aspiradora robot de mantenimiento. Si querés un Roomba que también trapee, el del catálogo es la Roomba Combo i5+, que aspira, trapea y se vacía sola en su base.' },
+      { question: '¿Sirve para pelo de mascota?', answer: 'Sí, es de lo que más destacan las opiniones. Con el sistema de limpieza de 3 fases y los cepillos dobles levanta bien el pelo de perros y gatos en el mantenimiento diario. Conviene revisar y limpiar los cepillos seguido porque el pelo largo se enreda.' },
+      { question: '¿Conviene por el precio o hay opciones mejores?', answer: 'Depende de qué priorices. A su precio (cerca de $390.000), varios robots locales o chinos como una Gadnic con LiDAR o una Xiaomi S20 mapean y además trapean, cosas que la 692 no hace. Si buscás funciones por tu plata, esas le ganan. La 692 se justifica si querés específicamente la marca iRobot y su fama de durabilidad.' },
+      { question: '¿Es verdad que el cepillo lateral se rompe?', answer: 'Es la queja más repetida: a varios compradores se les rompió el cepillo lateral (esquinero) al poco tiempo, y lo describen como una falla de diseño porque se fatiga al flexionarse. No le pasa a todos, pero conviene saberlo. Lo bueno es que es un repuesto barato y fácil de reemplazar.' },
+      { question: '¿Se controla por app y por Alexa?', answer: 'Sí. Se conecta por WiFi a la app iRobot Home, desde donde la programás y la controlás, y es compatible con Alexa y Google Assistant para iniciarla por voz. Varias opiniones destacan la compatibilidad con Alexa.' },
+      { question: '¿Cuánto dura la batería?', answer: 'La autonomía es de hasta 2 horas de limpieza continua, con un tiempo de carga similar y retorno automático a la base cuando se queda con poca energía. Alcanza de sobra para departamentos y casas medianas.' },
+      { question: '¿En qué se diferencia de la Roomba Combo i5+ o la j7?', answer: 'La 692 es la base: solo aspira y navega al azar. La Roomba Combo i5+ aspira, trapea y se vacía sola con mapeo por habitaciones. La Roomba j7 suma la cámara PrecisionVision que esquiva objetos del piso (cables, juguetes, sorpresas de mascota) y también mapea. La 692 es la entrada a la marca; las otras suman funciones a mayor precio.' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Roomba 692, base de carga Home Base, cable de alimentación, un filtro y el cepillo lateral. Se controla desde la app iRobot Home por WiFi o por voz con Alexa y Google.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'México', text: 'De las mejores compras para mi casa, fácil de programar y de utilizar, perfecta para todos los lugares. Adiós al polvo y a los pelos de las mascotas.', useful: 4 },
+      { rating: 5, country: 'Argentina', text: 'La mejor compra que hice los últimos años. Mientras hago cosas me aspira todo el depto. Una genialidad, no imagino la vida sin ella. Y además me divierto con mi perrita que la mira.', useful: 1 },
+      { rating: 5, country: 'Argentina', text: 'Es carísima, pero la anterior que tuve era idéntica y me duró como 5 años. Qué sé yo, se termina pagando sola. Anda joya.', useful: 1 },
+      { rating: 5, country: 'Argentina', text: 'Muy útil, a pesar de no tener mapeo.', useful: 0 },
+      { rating: 5, country: 'Argentina', text: 'Excelente producto, muy ingenioso y útil. Mínimamente ruidoso, no interfiere en la casa, y rinde muy bien la batería, que se recarga eficientemente. Compatible con Alexa.', useful: 0 },
+      { rating: 1, country: 'Argentina', text: 'Lo usé por primera vez y se rompió el cepillo lateral. El recorrido es completamente aleatorio. Parece de buena calidad y aspira bien, pero lo voy a devolver.', useful: 0 },
+      { rating: 2, country: 'Argentina', text: 'Decepcionado de que el cepillo esquinero se rompa al poco tiempo de uso y no lo quieran cubrir con la garantía, cuando claramente es una falla de diseño (se rompe al flexionarse y fatigarse). Compré la marca esperando un producto de calidad y resultó no serlo.', useful: 0 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot iRobot Roomba 692',
+      description: 'Aspiradora robot iRobot Roomba 692 (R692020): aspira con sistema de limpieza de 3 fases y cepillos dobles, app iRobot Home por WiFi, compatible con Alexa y Google, sensores de obstáculo y anticaída, navegación aleatoria (sin mapeo) y retorno automático a la base. Solo aspira, no trapea.',
+      brand: { '@type': 'Brand', name: 'iRobot' },
+      model: 'Roomba 692 (R692020)',
+      sku: 'MLA20657750',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_941712-MLA101345707619_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA20657750',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '389999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1aR5CYZ',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '39',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA27941233', 'MLA37360592', 'MLA44718960'],
   },
   {
     id: 'MLA27941233',
