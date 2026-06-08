@@ -6733,43 +6733,141 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     condition: 'new',
     freeShipping: false,
     rating: 4.5,
-    reviewCount: 1762,
-    soldQuantity: 1000,
+    reviewCount: 1776,
+    reviewsWithPhotos: 4,
+    soldQuantity: 5000,
     pastelColor: 'var(--pastel-amber)',
-    brand: "Midow",
-    seoTitle: "Midow Smart 115W: review aspiradora robot con WiFi",
-    metaDescription: "Análisis del Midow Aspiradora Robot Smart 115W: 3 modos, app por WiFi, función trapeador y carga automática. Cubre hasta 70 m². Sub-$135K en MercadoLibre.",
-    ogTitle: "Midow Smart 115W — el robot WiFi más accesible del catálogo",
-    ogDescription: "115W de potencia, 3 modos, función trapeador, app por WiFi y base de carga. Cubre hasta 70 m² — ideal para departamentos chicos a medianos.",
-    h1: "Midow Aspiradora Robot Smart 115W: el WiFi más accesible del catálogo",
-    specs: [
-      { label: "Marca", value: "Midow" },
-      { label: "Potencia", value: "115W" },
-      { label: "Modos", value: "3 patrones de limpieza" },
-      { label: "Funciones", value: "Aspirado + trapeado" },
-      { label: "Cobertura", value: "Hasta 70 m²" },
-      { label: "Control", value: "App por WiFi" },
-      { label: "Base", value: "Carga automática" },
-      { label: "Color", value: "Negro" },
-    ],
+    brand: 'Midow',
+    line: 'Aspiradoras Robot',
+    color: 'Negro',
+    badge: 'viral',
+    aiReviewSummary: 'Es un producto práctico y moderno que facilita la limpieza del hogar, especialmente para recoger pelos de mascotas. Su manejo y programación son sencillos, y su funcionamiento es eficiente, manteniendo los pisos impecables. Además, es silenciosa y cuenta con una buena duración de batería, lo que la convierte en una excelente opción para el mantenimiento diario de la casa.',
+    seoTitle: 'Aspiradora Robot Midow: Barre, Aspira y Trapea con WiFi',
+    metaDescription: 'Aspiradora robot y trapeadora Midow: barre, aspira y trapea, con WiFi y app Smart Life. 4.5★ con 1.776 opiniones y +5.000 vendidos. Ideal hasta 70 m².',
+    ogTitle: 'Aspiradora Robot Midow: el 2 en 1 con WiFi más vendido y barato',
+    ogDescription: '4.5★ con 1.776 opiniones y +5.000 vendidos. Barre, aspira y trapea, con app por WiFi y base de carga. Analizamos para quién rinde y para quién no.',
+    h1: 'Aspiradora robot Midow MDW/RZT: barre, aspira y trapea con WiFi, el 2 en 1 más vendido y económico',
     pros: [
-      "Sub-$135K con app WiFi — el más accesible con control desde celu",
-      "Cobertura declarada de 70 m² — adecuado para departamentos típicos en CABA/GBA",
-      "Función trapeador incluida",
-      "Base de carga automática",
-      "Rating 4.5 con +1.000 vendidos",
+      '4.5⭐ con 1.776 calificaciones y +5.000 vendidos: el robot más validado del catálogo',
+      'Barre, aspira y trapea (2 en 1) con tanque de agua de 200 mL',
+      'WiFi + app Smart Life: programás horarios y lo manejás desde el celu',
+      'Solo 7,9 cm de alto: entra bajo camas y muebles bajos',
+      'Vuelve solo a la base a cargar y es silencioso (65 dB)',
+      'Muy bueno para juntar pelos de mascota, a precio bajo',
     ],
     cons: [
-      "Marca Midow tiene menos historia en Argentina que Gadnic, Atma o Xiaomi — sin service oficial extendido",
-      "115W es potencia básica — para alfombras gruesas o pelo de mascota grande va a quedar corto",
-      "Sin mapeo láser — navegación aleatoria limitada por sensores",
-      "Sin envío gratis",
+      'Sin mapeo y sin sensor de obstáculos: navega chocando, repite zonas y a veces le cuesta volver a la base',
+      'Batería de alrededor de 1 hora (hasta 80 min): en casas grandes necesita 2 cargas',
+      'El trapeado es básico: un paño húmedo de mantenimiento, conviene aspirar primero',
+      'Depósito y filtro chicos; algunos reportan batería floja al año o repuestos difíciles de conseguir',
     ],
-    verdict: "Si querés app y trapeo a precio bajo y no te molestan las marcas menos conocidas, el Midow cumple. Vs el Gadnic 3 Modos (sub-$200K, sin app), este suma WiFi a menos precio. Para un primer robot con app o uso casual en departamento, comprado pequeño. Para casa con mascota o alfombras, mejor un Gadnic con mapeo o el Xiaomi.",
-    bestOccasion: ["Departamentos chicos a medianos", "Primer robot con app", "Quien busca el menor precio con WiFi"],
-    notRecommendedFor: ["Casas con mascota grande", "Mucha alfombra", "Quien valora marca con service oficial"],
-    relatedProducts: ["MLA42045783", "MLA45951645"],
-    description: 'Aspiradora Robot Midow con Control por App y Carga Automática para 70 m², con Función Trapeador.  ¡La limpieza inteligente al alcance de tu mano! La aspiradora robot Midow te ofrece una solución completa y autónoma para mantener tus pisos impecables. Ideal para hogares de hasta 70 metros cuadrados, ',
+    verdict: 'El robot 2 en 1 más vendido por algo: barre, aspira y trapea con app por WiFi a precio bajo, ideal para el mantenimiento diario en departamentos y casas con mascotas. No mapea ni hace limpieza profunda. Si querés recorrido ordenado, gastá un poco más en uno con mapeo.',
+    articleBody: `## Qué hace: barre, aspira y trapea en una sola pasada
+
+La Midow MDW/RZT es una aspiradora robot y trapeadora 2 en 1. En la misma pasada barre con los cepillos laterales, aspira con 700 Pa de succión hacia un depósito de 400 mL, y trapea con un tanque de agua de 200 mL que humedece una mopa de microfibra montada abajo.
+
+Conviene ser honesto con el trapeado: es un paño húmedo de mantenimiento, no un fregado profundo. Levanta polvo fino y refresca el piso, pero las manchas pegadas no las saca. Como dicen varias opiniones, lo mejor es aspirar primero y dejar el modo mopa para mantener. Tiene tres modos: Auto (toda la superficie), Bordes (perímetro y zócalos) y Manchas (una zona puntual).
+
+## WiFi y app Smart Life: programás y la manejás desde el celu
+
+Esta es la diferencia con los robots más básicos. La Midow se conecta por WiFi a la app Smart Life (Tuya), desde donde la encendés, elegís el modo, programás horarios y ves el nivel de batería, estés en casa o afuera. También viene con control remoto para manejarla sin el teléfono.
+
+Es lo que la separa de una [Kärcher RCV 1](/producto/MLA42103831), que es igual de simple pero no tiene WiFi ni app y se maneja solo con control remoto. Acá, por un precio parecido, sumás la programación desde el celular.
+
+## Sin mapeo: cómo se mueve (y por qué se choca)
+
+La Midow no arma un mapa de la casa. Tiene sensor anticaídas para no caerse de las escaleras, pero no tiene sensor de obstáculos, así que navega de forma aleatoria y va corrigiendo cuando choca. En la práctica: rebota contra los muebles, a veces repite lugares y otras le cuesta encontrar la base.
+
+Esto aparece en muchísimas opiniones, casi siempre con humor ("anda golpeándose la cabeza y recalculando como la gallega del GPS"). Para que rinda, conviene levantar del piso los cables, alfombras sueltas y sillas. Si querés recorrido ordenado y que no se choque, la categoría que buscás es la de mapeo, por ejemplo la [Gadnic 5 Modos con mapeo](/producto/MLA45951645), a un precio bastante más alto.
+
+## 7,9 cm de alto: entra bajo las camas
+
+Con 29 cm de diámetro y solo 7,9 cm de alto, pasa por debajo de camas, sillones y muebles bajos. Es de lo que más destacan los compradores: junta la pelusa y el pelo de mascota que se acumula donde no llegás con la escoba. Pesa 3,5 kg y vuelve solo a la base cuando se queda sin batería.
+
+## Batería y autonomía: alrededor de 1 hora
+
+La batería es de 2000 mAh y da hasta 80 minutos, aunque varias opiniones la ubican en torno a una hora de uso real. Cubre hasta 70 m² declarados, así que para casas grandes suele necesitar dos cargas (tarda unas 4 horas en cargar) y vuelve sola a la base cuando se está por agotar.
+
+Un par de compradores reportaron que la batería se debilita después de varios meses, o que si queda desconectada unos días se descarga del todo. Por el precio es un riesgo acotado, pero vale tenerlo presente.
+
+## En qué se diferencia de los otros robots del catálogo
+
+La Midow es la opción 2 en 1 con WiFi más económica. La [Kärcher RCV 1](/producto/MLA42103831) está en un precio parecido pero sin WiFi ni app. Si querés dar el salto a mapeo y recorrido ordenado, la [Gadnic 5 Modos](/producto/MLA45951645) lo suma a más precio. Y en la gama alta, una [Xiaomi Robot Vacuum S40 Pro](/producto/MLA66281403) agrega 15.000 Pa de succión y navegación inteligente. La Midow se elige por precio y por la combinación barre + trapea + app, no por limpieza profunda.
+
+## Qué incluye la caja
+
+Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de agua, mopa de microfibra, cepillo de limpieza y manual de usuario.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Midow / MDW-RZT' },
+      { label: 'Tipo', value: '2 en 1: aspira, barre y trapea' },
+      { label: 'Succión', value: '700 Pa' },
+      { label: 'Potencia', value: '115 W' },
+      { label: 'Depósito de polvo', value: '400 mL' },
+      { label: 'Tanque de agua', value: '200 mL (trapeado con mopa)' },
+      { label: 'Modos de limpieza', value: 'Auto, Bordes, Manchas' },
+      { label: 'Navegación', value: 'Sensor anticaídas (sin mapeo, sin sensor de obstáculos)' },
+      { label: 'Control', value: 'App WiFi Smart Life (Tuya) + control remoto' },
+      { label: 'Apto pelo de mascota', value: 'Sí' },
+      { label: 'Batería', value: '12 V · 2000 mAh · hasta 80 min' },
+      { label: 'Carga', value: '4 h · retorno automático a la base' },
+      { label: 'Área máxima', value: '70 m²' },
+      { label: 'Nivel de ruido', value: '65 dB' },
+      { label: 'Dimensiones', value: '29 × 29 × 7,9 cm' },
+      { label: 'Peso', value: '3,5 kg' },
+      { label: 'Color / Voltaje', value: 'Negro / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Midow tiene WiFi y se controla por app?', answer: 'Sí. Se conecta por WiFi a la app Smart Life (Tuya), desde donde la encendés, elegís el modo, programás horarios y ves la batería, estés en casa o afuera. Además trae control remoto para usarla sin el celular.' },
+      { question: '¿Mapea la casa?', answer: 'No. Tiene sensor anticaídas pero no arma un mapa ni tiene sensor de obstáculos, así que se mueve de forma aleatoria y corrige cuando choca. Puede repetir zonas o costarle volver a la base. Si necesitás recorrido ordenado, conviene un robot con mapeo.' },
+      { question: '¿Barre y trapea de verdad?', answer: 'Sí, es 2 en 1: aspira y barre con 700 Pa hacia un depósito de 400 mL y trapea con una mopa húmeda alimentada por un tanque de 200 mL. El trapeado es de mantenimiento (un paño húmedo), no un fregado profundo: lo ideal es aspirar primero y usar la mopa para mantener.' },
+      { question: '¿Sirve para pelos de mascota?', answer: 'Sí, es de lo que más destacan las opiniones. Junta bien pelo de perros y gatos en el mantenimiento diario, sobre todo bajo las camas y los muebles. Conviene limpiar el depósito y el filtro seguido cuando hay mucho pelo.' },
+      { question: '¿Cuánto dura la batería?', answer: 'Hasta 80 minutos, alrededor de una hora de uso real. Cubre hasta 70 m², así que en casas grandes suele necesitar dos cargas. Tarda unas 4 horas en cargar y vuelve sola a la base cuando se está por quedar sin batería.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Sí. Mide solo 7,9 cm de alto, así que pasa por debajo de camas, sillones y muebles bajos. Es una de las ventajas más mencionadas por los compradores.' },
+      { question: '¿En qué se diferencia de la Kärcher RCV 1?', answer: 'Las dos son robots simples y económicos sin mapeo. La diferencia es que la Midow tiene WiFi, app Smart Life y función de trapeado 2 en 1, mientras que la Kärcher RCV 1 se maneja solo con control remoto, sin WiFi. Por un precio parecido, la Midow suma la app y el trapeo.' },
+      { question: '¿Qué viene en la caja?', answer: 'El robot Midow, la base de carga, el adaptador de corriente, el control remoto, el tanque de agua, la mopa de microfibra, el cepillo de limpieza y el manual de usuario.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'En casa se llama Robert. He comprado de todo pero esto fue una verdadera inversión. Tengo 125 m2, lo limpia en una hora, le lleno el dispenser 2 o 3 veces porque la hago barrer y trapear a la vez. La batería se la banca para toda la casa, muy pocas veces ha quedado trabada y avisa con una alarma. Yo no la prendo y me voy. Con la app arranca a determinada hora, vuelve a la base siempre, no necesita configuración, son 3 botones locos y es fácil de limpiar.', useful: 288 },
+      { rating: 5, country: 'Argentina', text: 'Lo compré para ver qué onda y me encantó. Lo dejé 10 minutos en el dormitorio y juntó toda la pelusa que estaba abajo de la cama. Precio buenísimo, el ruido no es tan molesto y la app es fácil de usar. No quedó atrapado en ningún lugar.', useful: 143 },
+      { rating: 5, country: 'Argentina', text: 'Me convenció el recipiente para el agua: puede estar 30 a 40 minutos trapeando sin tener que humedecer el trapo. El ruido no es para nada incómodo, bastante silenciosa comparada con otras. Para el mantenimiento diario es ideal. Si se choca con algo resuelve y sale sin problema.', useful: 88 },
+      { rating: 5, country: 'Argentina', text: 'La necesitaba para los pelos de mi perra y cumplió. El trapeado es lo más: le cargo solo agua y salpico el piso con limpiador para que pase por encima. La detección de los muebles es casi perfecta. Si no tenés para las aspiradoras súper caras, esta es lo más para los de bolsillo seco.', useful: 67 },
+      { rating: 5, country: 'Argentina', text: 'Gasta un poco más y comprá una con mapeo, algo que yo no sabía y después averigüé: esa función es muy útil. Dicho eso, este producto es bueno y recomendado si por ahí no tenés dinero para estirarte a uno con mapeo. Sirve muy bien para sacar pelos o partículas del piso.', useful: 7 },
+      { rating: 4, country: 'Argentina', text: 'Al no ser inteligente recorre todo de manera aleatoria y repite lugares ya limpios, pero es comprensible por el precio. Muy eficiente para barrer debajo de las camas. Lo negativo: desconectada y apagada, en 3 días se agota la batería; los sensores de desnivel funcionan cuando quieren; el filtro es frágil; y le cuesta reconocer la base mientras limpia.', useful: 14 },
+      { rating: 5, country: 'Argentina', text: 'No mapea, se maneja sola en base a los sensores y si toca algo. Tengo 2 gatos y un perro, la pongo día por medio y junta un montón por habitación. Para que sea más rápido, apilamos las sillas y sacamos los obstáculos. Excelente compra.', useful: 1 },
+      { rating: 5, country: 'Argentina', text: 'A los 6 meses, con no más de 30 usos, se murió la batería. Una lástima, porque iba bien.', useful: 11 },
+    ],
+    relatedProducts: ['MLA42103831', 'MLA45951645', 'MLA66281403'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Midow MDW/RZT con WiFi',
+      description: 'Aspiradora robot y trapeadora Midow MDW/RZT 2 en 1: barre, aspira y trapea con 700 Pa de succión, tanque de agua de 200 mL, depósito de polvo de 400 mL, WiFi con app Smart Life, control remoto, 3 modos de limpieza, sensor anticaídas y retorno automático a la base.',
+      brand: { '@type': 'Brand', name: 'Midow' },
+      model: 'MDW-RZT',
+      sku: 'MLA48378491',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_695909-MLA99448480886_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA48378491',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '130979',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1ZQQnmr',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '1776',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    bestOccasion: ['Departamentos y casas para mantenimiento diario', 'Primer robot con app', 'Familias con mascotas', 'Quien busca el menor precio con WiFi'],
+    notRecommendedFor: ['Limpieza profunda', 'Casas grandes en una sola carga', 'Quien quiere mapeo y recorrido ordenado'],
+    description: 'La aspiradora robot Midow MDW/RZT barre, aspira y trapea en una sola pasada, con WiFi y app Smart Life para programarla desde el celu. Con 7,9 cm de alto entra bajo camas y muebles, y vuelve sola a la base a cargar. El 2 en 1 más vendido del catálogo para el mantenimiento diario, sobre todo en casas con mascotas.',
   },
   {
     id: 'MLA45951645',
