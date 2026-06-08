@@ -12,6 +12,7 @@
 - Última actualización de precios: 8 aspiradoras robot (2026-06-06).
 - **Importación por API oficial de ML validada** (OAuth client_credentials) — ver memoria `ml-api-oficial-funciona`. Credenciales en `.env` local. Sin bloqueos/CAPTCHA.
 - **Ficha Kärcher RCV 1 (MLA42103831) enriquecida (08-jun):** de placeholder a ficha completa con SEO real (seoTitle/meta/H1/OG con keywords de `Keywords/Aspiradoras Robot`), `rating` 4.5 / `reviewCount` 115, `articleBody` (6 H2), `specs` (18), `faq` (9 → FAQPage), 7 `customerReviews` reales, `structuredData` Product+Offer+aggregateRating, y 3 links internos a robots reales (2 Atma + Xiaomi S40c). Ángulo honesto: robot de mantenimiento sin WiFi/mapeo. Texto pasado por humanizer.
+- **Ficha Samsung Jet Bot+ (MLA26504431) enriquecida (08-jun):** mismo tratamiento full SEO. `rating` 4.6 / `reviewCount` 11, `articleBody` (7 H2), `specs` (20), `faq` (9), 6 `customerReviews` reales (incluye 1★), `structuredData` completo. Ángulo: robot premium con mapeo LiDAR + autovaciado. 5 links internos (RCV 1, Powerbot E, Xiaomi S40 Pro). **OJO precio:** actualicé `price` de 1.300.000 → **3.476.040** (valor que pasó Juan); CONFIRMAR cuál es el correcto.
 
 ## Guías publicadas / agendadas
 

@@ -17667,9 +17667,9 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
   {
     id: 'MLA26504431',
     title: 'Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter',
-    price: 1300000,
-    priceUpdated: '2026-06-06',
-    priceLastChecked: '2026-06-06',
+    price: 3476040,
+    priceUpdated: '2026-06-08',
+    priceLastChecked: '2026-06-08',
     priceStatus: 'fresh',
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_711355-MLA100039491353_122025-F.jpg',
@@ -17687,16 +17687,143 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     affiliateUrl: 'https://meli.la/15C617u',
     condition: 'new',
     freeShipping: true,
+    rating: 4.6,
+    reviewCount: 11,
     brand: 'Samsung',
+    line: 'Jet Bot+',
+    color: 'Blanco',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter LiDAR Sensor-Precision Mapping | Jet Cyclone | Control Inteligente de Potencia | Select & Go | No-go Zone | Estación de Limpieza | SmartThings | WiFi | Digital Inverter LIMPIÁ TU CASA A FONDO Y DE FORMA EFICAZ Limpiá tu casa de manera más eficiente y a fondo, ya que calcula su ubicación con precisión y optimiza su trayectoria. Un sensor LiDAR rastrea con pre',
-    seoTitle: 'Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter',
-    metaDescription: 'Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter: precio, ficha y opiniones. Aspiradora robot Samsung en Argentina. Comprala en MercadoLibre con en',
-    ogTitle: 'Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter — ¿convien',
-    ogDescription: 'Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter LiDAR Sensor-Precision Mapping | Jet Cyclone | Control Inteligente de Potencia | Select & ',
-    h1: 'Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter',
-    relatedProducts: ['MLA18642318', 'MLA20033508', 'MLA61420449'],
+    description: 'El Samsung Jet Bot+ es una aspiradora robot de gama alta: mapea la casa con sensor LiDAR, se vacía sola en su estación de autovaciado cada 1 a 3 meses y se controla por la app SmartThings o por voz. Con 5 kPa de succión y ajuste automático de potencia en alfombras, apunta a la limpieza profunda sin que tengas que estar encima.',
+    seoTitle: 'Aspiradora Robot Samsung Jet Bot+: LiDAR y Autovaciado',
+    metaDescription: 'Aspiradora robot Samsung Jet Bot+: mapeo LiDAR, estación de autovaciado (se vacía sola), 5 kPa y app SmartThings. 4.6★ con 11 opiniones. Ficha completa.',
+    ogTitle: 'Samsung Jet Bot+: el robot que mapea con LiDAR y se vacía solo',
+    ogDescription: '4.6★. Mapeo LiDAR, estación de autovaciado cada 1-3 meses, 5 kPa de succión y control por app y voz. Analizamos si justifica el precio premium.',
+    h1: 'Aspiradora robot Samsung Jet Bot+: mapeo LiDAR y estación de autovaciado para olvidarte de la limpieza',
+    pros: [
+      '4.6⭐ y respaldo de Samsung con tienda oficial',
+      'Estación de autovaciado: vaciás el polvo cada 1 a 3 meses, no todos los días',
+      'Mapeo LiDAR: recorre por habitaciones, con Select & Go y zonas prohibidas',
+      '5 kPa de succión con ajuste automático de potencia en alfombras',
+      'Control total por app SmartThings y por voz (Bixby, Alexa, Google)',
+      'Cepillo antienredo y filtración que retiene el 99,999% del polvo fino',
+    ],
+    cons: [
+      'Precio premium, el más alto de su categoría en el catálogo',
+      'Por su altura (10,5 cm) y la torre de carga, no entra bajo camas ni sillones bajos',
+      'Solo aspira: no trapea (para 2 en 1 está el Powerbot E)',
+      'Hubo algún reporte de falla temprana en las opiniones',
+    ],
+    verdict: 'El robot premium de Samsung para olvidarte de la limpieza: mapea con LiDAR, se vacía solo y se maneja por app o voz. Si tenés el presupuesto y querés algo set-and-forget, cumple. Para espacios chicos o presupuesto ajustado, es más de lo necesario.',
+    articleBody: `## Cómo funciona: mapeo LiDAR y limpieza por habitaciones
+
+El Jet Bot+ usa un sensor LiDAR montado arriba que escanea la habitación y arma un plano de la casa. Con ese mapa, en vez de moverse al azar, recorre de forma ordenada y cubre toda la superficie sin repetir ni dejar huecos.
+
+Sobre ese mapa se apoyan sus funciones más útiles. Con **Select & Go** le decís qué habitación querés que limpie, una por una. Con **No-go Zone** marcás zonas prohibidas (alrededor de los platos de la mascota, un sector con cables) y el robot no entra, sin necesidad de barreras físicas. Es lo opuesto a una aspiradora robot sin mapeo como la [Kärcher RCV 1](/producto/MLA42103831), que se maneja con control remoto y va corrigiendo cuando choca.
+
+Los modos son Auto Clean (toda la casa), Room Clean (una habitación) y Spot Clean (una zona puntual).
+
+## La estación de autovaciado: vaciás cada 1 a 3 meses
+
+Esta es la función que más cambia el día a día. Cuando termina o se queda sin batería, el Jet Bot+ vuelve solo a la estación, que aspira el contenido del robot hacia una bolsa con la tecnología Air Pulse. En la práctica, en vez de vaciar el cajón después de cada limpieza, lo hacés una vez cada uno a tres meses.
+
+El contenedor del robot es de 0,3 litros y es totalmente lavable, y el sistema de filtración multicapa retiene el 99,999% del polvo fino, lo que ayuda con ácaros y alérgenos.
+
+## 5 kPa y control inteligente de potencia: alfombras y pisos duros
+
+La succión es de 5 kPa (5000 Pa), bastante por encima de los robots de mantenimiento básicos. El **Control inteligente de potencia** detecta el tipo de piso y la cantidad de suciedad, y sube la potencia solo cuando hace falta, por ejemplo al pasar de un piso duro a una alfombra. El motor Digital Inverter y la estructura multiciclónica Jet Cyclone mantienen la succión constante a medida que se llena el depósito.
+
+El cepillo de alta eficiencia tiene fibras con plata antiestática, y los extractores trituran los pelos para que no se enreden. Por eso funciona bien con pelo de mascota, una de las cosas que más cuesta a los robots con rodillo común.
+
+## App SmartThings y control por voz
+
+Se conecta por WiFi a la app SmartThings, desde donde lo programás, elegís habitaciones, marcás zonas prohibidas y ves en un mapa dónde está limpiando en tiempo real con Jet Live, estés en casa o afuera. Varias opiniones destacan justamente eso: poder manejarlo desde el celular y ver qué hace a distancia.
+
+Además responde a la voz con Bixby, Amazon Alexa y Google Assistant: podés iniciar o frenar la limpieza, mandarlo a una habitación o pedirle que se vacíe, sin tocar el teléfono.
+
+## El detalle a tener en cuenta: altura y precio
+
+Conviene ser claro con dos cosas. La primera es el precio: es el robot más caro de esta categoría en el catálogo, varias veces lo que sale un robot de mantenimiento. La segunda la resume una compradora: "la única contra es que no entra abajo de la cama y del sillón". Con 10,5 cm de alto más la torre del sensor, el Jet Bot+ no pasa por debajo de muebles bajos. Si justo eso es lo que querés resolver, una [Kärcher RCV 1](/producto/MLA42103831) de 7 cm entra donde este no llega, aunque renuncia al mapeo y al autovaciado.
+
+También apareció un reporte de falla temprana entre las opiniones. La mayoría son muy positivas (4.6 de promedio), pero al ser un equipo caro vale la pena comprarlo en tienda oficial por la garantía.
+
+## En qué se diferencia de los otros robots del catálogo
+
+Dentro de Samsung, el [Powerbot E 2 en 1](/producto/MLA18917302) es bastante más económico y además trapea, pero no tiene mapeo LiDAR ni estación de autovaciado. Si querés succión todavía más alta, la [Xiaomi Robot Vacuum S40 Pro](/producto/MLA66281403) llega a 15.000 Pa y también mapea, a un precio más bajo que este Samsung. Y en el extremo opuesto está la [Kärcher RCV 1](/producto/MLA42103831): sin WiFi ni mapeo, para mantenimiento diario y a una fracción del precio. El Jet Bot+ se justifica cuando querés lo más automático posible y la marca Samsung con su ecosistema SmartThings.
+
+## Qué incluye la caja
+
+Robot Jet Bot+, estación de autovaciado y carga, cepillo, filtro y depósito de polvo.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Samsung / Jet Bot+ (VR30T80313W)' },
+      { label: 'Tipo', value: 'Robot aspirador con mapeo LiDAR + autovaciado' },
+      { label: 'Succión', value: '5 kPa (5000 Pa) · 3 niveles' },
+      { label: 'Potencia', value: '1300 W (motor Digital Inverter)' },
+      { label: 'Navegación', value: 'LiDAR Precision Mapping (mapeo por habitaciones)' },
+      { label: 'Modos de limpieza', value: 'Auto Clean, Room Clean, Spot Clean' },
+      { label: 'Funciones inteligentes', value: 'Select & Go, No-go Zone, Control inteligente de potencia' },
+      { label: 'Estación de autovaciado', value: 'Sí (Clean Station, Air Pulse)' },
+      { label: 'Depósito de polvo', value: '0,3 L (300 mL) · lavable' },
+      { label: 'Filtración', value: 'HEPA multicapa (retiene 99,999% del polvo fino)' },
+      { label: 'WiFi / App', value: 'Sí · SmartThings con Jet Live en tiempo real' },
+      { label: 'Control por voz', value: 'Bixby, Alexa, Google Assistant' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: '21,9 V · 5,2 Ah · hasta 1,5 h' },
+      { label: 'Carga', value: '4 h · retorno y autovaciado automático' },
+      { label: 'Área máxima', value: '250 m²' },
+      { label: 'Nivel de ruido', value: '76 dB' },
+      { label: 'Dimensiones (robot)', value: '43 × 35 × 10,5 cm (Ø 35)' },
+      { label: 'Peso', value: '3,4 kg' },
+      { label: 'Color / Voltaje', value: 'Blanco / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Samsung Jet Bot+ se vacía sola?', answer: 'Sí. Al terminar vuelve a su estación de autovaciado, que aspira el polvo del robot hacia una bolsa con tecnología Air Pulse. En la práctica solo tenés que vaciar la bolsa cada 1 a 3 meses, en vez de hacerlo después de cada limpieza.' },
+      { question: '¿Mapea la casa?', answer: 'Sí, con un sensor LiDAR que arma un plano de la casa. Sobre ese mapa podés elegir qué habitación limpiar (Select & Go) y marcar zonas prohibidas (No-go Zone) desde la app, sin barreras físicas. Recorre ordenado, no al azar.' },
+      { question: '¿Se controla por app y por voz?', answer: 'Se conecta por WiFi a la app SmartThings: lo programás, elegís habitaciones y ves en tiempo real dónde limpia con Jet Live, estés en casa o afuera. También responde a Bixby, Alexa y Google Assistant para iniciar, frenar o mandarlo a vaciar con la voz.' },
+      { question: '¿Entra abajo de los muebles?', answer: 'No bajo muebles bajos. Mide 10,5 cm de alto y tiene la torre del sensor LiDAR arriba, así que no pasa por debajo de camas ni sillones bajos. Es una limitación que mencionan las opiniones. Si necesitás eso, un robot finito de 7 cm como la Kärcher RCV 1 entra donde este no llega.' },
+      { question: '¿Trapea o solo aspira?', answer: 'Solo aspira, no trapea. Es un robot de aspiración con estación de autovaciado. Si buscás un Samsung que también trapee, el Powerbot E 2 en 1 aspira y pasa el trapo a la vez, aunque no tiene mapeo LiDAR ni autovaciado.' },
+      { question: '¿Sirve para alfombras y pelo de mascota?', answer: 'Sí. El Control inteligente de potencia sube la succión al detectar alfombra, y el cepillo con extractores tritura los pelos para que no se enreden. Funciona bien con pelo de mascota, que es lo que más complica a los robots con rodillo común.' },
+      { question: '¿En qué se diferencia de una aspiradora robot Xiaomi?', answer: 'La Xiaomi Robot Vacuum S40 Pro también mapea y llega a 15.000 Pa de succión, a un precio más bajo que este Samsung. El Jet Bot+ apuesta a la estación de autovaciado, el ecosistema SmartThings y el respaldo de marca Samsung. Si priorizás succión y precio, mirá la Xiaomi; si querés lo más automático y la marca, el Samsung.' },
+      { question: '¿Es ruidosa?', answer: 'Tiene un nivel de 76 dB. Varias opiniones la describen como más silenciosa de lo esperado, al punto de poder trabajar al lado mientras limpia.' },
+      { question: '¿Qué viene en la caja?', answer: 'El robot Jet Bot+, la estación de autovaciado y carga, un cepillo, el filtro y el depósito de polvo.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Me cambió la vida para bien. El poder de succión es buenísimo, evita los obstáculos bien, se vacía sola en una bolsa, la podés programar y manejar perfecto desde el celu. Cuando estás afuera ves lo que está haciendo a distancia. Y encima puedo trabajar mientras funciona porque no es tan ruidosa como pensé. La única contra es que no entra abajo de la cama y del sillón.', useful: 2 },
+      { rating: 5, country: 'Argentina', text: 'Muy buen producto, es re sencillo porque lo podés manejar desde el celular.', useful: 0 },
+      { rating: 5, country: 'Argentina', text: 'Excelente. Muy recomendable.', useful: 0 },
+      { rating: 5, country: 'Uruguay', text: 'Impecable, buena compra.', useful: 0 },
+      { rating: 5, country: 'Argentina', text: 'Un lujo.', useful: 0 },
+      { rating: 1, country: 'Argentina', text: 'Al mes empezó con problemas y al mes y medio dejó de funcionar. Ahora hay que esperar la reparación. Un producto caro al divino botón.', useful: 1 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Samsung Jet Bot+ LiDAR',
+      description: 'Aspiradora robot Samsung Jet Bot+ con mapeo LiDAR, estación de autovaciado (Clean Station), 5 kPa de succión, control inteligente de potencia, app SmartThings, control por voz (Bixby, Alexa, Google), filtro HEPA multicapa y sensores de obstáculo y anticaída.',
+      brand: { '@type': 'Brand', name: 'Samsung' },
+      model: 'VR30T80313W',
+      sku: 'MLA26504431',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_711355-MLA100039491353_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA26504431',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '3476040',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/15C617u',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '11',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA18917302', 'MLA66281403', 'MLA42103831'],
   },
   {
     id: 'MLA18917302',
