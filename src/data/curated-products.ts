@@ -17879,10 +17879,10 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
   {
     id: 'MLA20033508',
     title: 'Aspiradora Robot Atma Atar21c1pi - Trapeadora - Anti-choque Color Blanco',
-    price: 215399,
+    price: 206055,
     originalPrice: 288001,
-    priceUpdated: "2026-06-07",
-    priceLastChecked: "2026-06-07",
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: 'fresh',
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_685740-MLA95678652262_102025-F.jpg',
@@ -17900,16 +17900,132 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     affiliateUrl: 'https://meli.la/2BGRKbq',
     condition: 'new',
     freeShipping: true,
+    rating: 4.5,
+    reviewCount: 904,
+    reviewsWithPhotos: 4,
     brand: 'Atma',
-    badge: 'collector',
+    line: 'Robot',
+    color: 'Blanco',
+    badge: 'viral',
     pastelColor: 'var(--pastel-amber)',
-    description: 'El Robot de limpieza ATMA facilita la tarea de mantener los pisos impecables, combinando las funciones de aspirar y trapear simultáneamente. Equipado con una bomba electrónica, activa la función de trapeo automáticamente al ensamblar el dispositivo correspondiente. Su tanque de agua de 450 ml permite cubrir extensas áreas sin necesidad de recargas frecuentes. Incorpora un Smart Chip que ajusta los parámetros de funci',
-    seoTitle: 'Aspiradora Robot Atma Atar21c1pi - Trapeadora - Anti-choque ',
-    metaDescription: 'Aspiradora Robot Atma Atar21c1pi - Trapeadora - Anti-choque Color Blanco: precio, ficha y opiniones. Aspiradora robot Atma en Argentina. Comprala en MercadoLi',
-    ogTitle: 'Aspiradora Robot Atma Atar21c1pi - Trapeadora - Anti-choque Color Blan',
-    ogDescription: 'El Robot de limpieza ATMA facilita la tarea de mantener los pisos impecables, combinando las funciones de aspirar y trapear simultáneamente. Equipado ',
-    h1: 'Aspiradora Robot Atma Atar21c1pi - Trapeadora - Anti-choque Color Blanco',
-    relatedProducts: ['MLA18642318', 'MLA53579189', 'MLA61420449'],
+    aiReviewSummary: 'La aspiradora robot ofrece un excelente poder de barrido y aspirado, siendo ideal para mantener limpia la casa, especialmente en hogares con mascotas.',
+    seoTitle: 'Aspiradora Robot Atma: Aspira y Trapea, Pet Friendly 4000 Pa',
+    metaDescription: 'Aspiradora robot Atma Atar21c1pi: aspira y trapea, 4000 Pa, ideal para pelos de mascota. Marca local con service, sin app. 4.5★ con 904 opiniones.',
+    ogTitle: 'Aspiradora Robot Atma Atar21c1pi: el value de marca local pet friendly',
+    ogDescription: '4.5★ con 904 opiniones. Aspira muy bien el pelo de mascota, trapea para mantener, slim de 8 cm y con respaldo de Atma. Sin mapeo ni app: analizamos para quién rinde.',
+    h1: 'Aspiradora robot Atma Atar21c1pi: aspira y trapea, pet friendly y de marca local, con 4000 Pa',
+    pros: [
+      '4.5⭐ con 904 calificaciones y respaldo de Atma (marca local con service y garantía)',
+      'Aspira muy bien: 4000 Pa con cepillo central de rodillo, ideal para pelo de mascota',
+      'Aspira y trapea, con un tanque de agua grande de 450 mL',
+      'Slim (8 cm de alto): pasa por debajo de los muebles',
+      'Trae repuestos (mopa, cepillos) y se maneja con control remoto, sin depender de una app',
+      'Precio bajo (sub-$210.000): de lo más accesible del catálogo con función de trapeo',
+    ],
+    cons: [
+      'Sin mapeo ni app: navega aleatorio, choca, repite zonas y se traba en patas de sillas',
+      'El trapeado es flojo: solo humedece, no saca manchas, y a veces se tapan los conductos de agua',
+      'No se puede programar (no tiene WiFi)',
+      'La batería se degrada con los años y el repuesto es caro; el depósito de polvo es chico (300 mL)',
+    ],
+    verdict: 'El robot aspirador de marca local más conveniente: aspira muy bien el pelo de mascota con su cepillo de rodillo y 4000 Pa, es slim para pasar bajo los muebles y tiene el respaldo de Atma con service en Argentina, todo a precio bajo. No mapea, anda aleatorio y el trapeado es solo para mantener, pero como primer robot pet friendly de marca conocida es de las mejores relaciones precio/calidad del catálogo.',
+    articleBody: `## Aspira muy bien, sobre todo el pelo de mascota
+
+Donde el Atma se luce es aspirando. Tiene un **cepillo central de rodillo** (que muchos robots económicos no traen) y un motor BLDC de 4000 Pa, con tres niveles: Turbo (4000 Pa), Estándar (1200 Pa) y ECO (600 Pa). En las 904 opiniones, lo que más se repite es la sorpresa por cuánto levanta: "no entiendo de dónde saca tanta suciedad", "junta todos los pelos de mi perro". Es de los usos más valorados, sobre todo en casas con mascotas.
+
+## Aspira y trapea: qué esperar de la mopa
+
+Además de aspirar, trapea con un tanque de agua grande de 450 mL y una bomba electrónica que regula el caudal. Conviene ser honesto, como lo son los compradores: el trapeado es flojo, "para repasar". Humedece el piso y le da un lavado de cara, pero no saca manchas pegadas; varios directamente prefieren pasar un trapo a mano después. Un par de datos útiles de las opiniones: si la mopa no larga agua, suele ser que los conductos (cuatro puntitos debajo del robot) están tapados y hay que destaparlos con una aguja; y conviene humedecer la mopa antes de arrancar y apagar el aspirado mientras trapea.
+
+## Sin mapeo: cómo se mueve (anda chocando)
+
+El Atma no arma un mapa de la casa: navega de forma aleatoria con sensores anti-choque y anti-caída, y tres patrones (esquinas, zig-zag y espiral). Trae una barrera virtual para limitar zonas. Es honesto decir lo que repiten las opiniones: choca bastante con los obstáculos que no son pared, a veces se traba en las patas de una silla o un sillón, y no llega del todo a las esquinas. Un truco que recomiendan los compradores: dejarlo trabajar por ambiente con la puerta cerrada. Si querés recorrido ordenado y memoria de la casa, la categoría que buscás es la de mapeo, por ejemplo la [Xiaomi S20](/producto/MLA44714806).
+
+## Slim de 8 cm: pasa bajo los muebles
+
+Mide solo 8 cm de alto y 34 cm de diámetro. Esa altura baja es una de las cosas que más destacan: pasa por debajo de las camas, los sillones y los muebles bajos, donde no se llega con la escoba. La batería declarada es de hasta 140 minutos; en uso real, las opiniones la ubican en torno a 1 a 1,5 horas, suficiente para una casa mediana, y vuelve sola a la base.
+
+## Marca local: el respaldo de Atma
+
+Esta es una ventaja que los robots importados no tienen. Atma es una marca argentina con service y garantía local, así que ante un problema (la batería es lo que más se desgasta con los años) tenés a quién reclamar; en las opiniones, a más de un comprador la garantía le cubrió el cambio. Además no viene con enchufe extranjero ni requiere adaptador, y la caja trae repuestos de mopa, cepillos y filtro. La contracara honesta: con los años la batería pierde autonomía y el repuesto es caro, casi como un robot nuevo, así que conviene usarlo seguido para que no se descargue del todo.
+
+## En qué se diferencia de los otros robots del catálogo
+
+El Atma compite en la gama de robots económicos sin mapeo. Frente a la [Kärcher RCV 1](/producto/MLA42103831), que también va sin WiFi ni mapeo, el Atma suma cepillo central de rodillo, trapeo y la ventaja de la marca local; la Kärcher es un poco más finita. Frente a un genérico con WiFi como la [Midow MDW/RZT](/producto/MLA48378491), el Atma cambia la app por el respaldo de service argentino. Y si querés dar el salto a mapeo y app, ahí entran las Xiaomi como la [S20](/producto/MLA44714806). El Atma se elige por marca confiable, buen aspirado y precio bajo.
+
+## Qué incluye la caja
+
+Robot Atma, cepillo principal (rodillo central), mopa, base de carga, control remoto y repuestos (cepillos laterales, mopa y filtro), más la barrera virtual.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma / ATAR21C1PI' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador' },
+      { label: 'Succión', value: '4000 Pa (4 kPa) · Turbo / Estándar / ECO' },
+      { label: 'Potencia', value: '55 W (motor BLDC)' },
+      { label: 'Navegación', value: 'Sensores anti-choque y anticaídas (sin mapeo) + barrera virtual' },
+      { label: 'Control', value: 'Control remoto (sin app / sin WiFi)' },
+      { label: 'Patrones de limpieza', value: 'Esquinas, zig-zag, espiral' },
+      { label: 'Fregado', value: 'Bomba electrónica · tanque de agua de 450 mL' },
+      { label: 'Depósito de polvo', value: '300 mL' },
+      { label: 'Filtro', value: 'HEPA + triple filtración (polvo fino, polen, ácaros)' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: 'Hasta 140 min declarados (~1 a 1,5 h reales) · retorno automático' },
+      { label: 'Dimensiones', value: 'Ø 34 cm · 8 cm de alto' },
+      { label: 'Peso', value: '4,6 kg' },
+      { label: 'Accesorios', value: 'Cepillo principal, mopa, base, control remoto + repuestos' },
+      { label: 'Color / Voltaje', value: 'Blanco / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Atma Atar21c1pi aspira bien? ¿Sirve para mascotas?', answer: 'Sí, es de lo mejor que hace. Tiene cepillo central de rodillo y 4000 Pa con tres niveles (Turbo, Estándar y ECO). En las opiniones, lo más destacado es cuánto pelo de mascota, pelusa y polvo fino levanta. Es uno de los usos más valorados en casas con perros y gatos.' },
+      { question: '¿Trapea bien?', answer: 'El trapeado es flojo, para repasar. Humedece el piso con un tanque grande de 450 mL y le da un lavado de cara, pero no saca manchas pegadas. Muchos compradores prefieren pasar un trapo a mano después. Si la mopa no larga agua, suele ser que los conductos de abajo están tapados y hay que destaparlos con una aguja.' },
+      { question: '¿Tiene mapeo o app?', answer: 'No. Navega de forma aleatoria con sensores anti-choque y anticaídas, sin mapeo, y se maneja con control remoto (no tiene WiFi ni app). Choca con los obstáculos que no son pared y a veces se traba en las patas de las sillas. Si querés recorrido ordenado, conviene un robot con mapeo como una Xiaomi.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Sí. Mide solo 8 cm de alto, así que pasa por debajo de camas, sillones y muebles bajos. Es una de las ventajas que más mencionan los compradores.' },
+      { question: '¿Cuánto dura la batería?', answer: 'La batería declarada es de hasta 140 minutos; en uso real las opiniones la ubican en torno a 1 a 1,5 horas, suficiente para una casa mediana. Vuelve sola a la base. Importante: la batería se desgasta con los años y conviene usarla seguido para que no se descargue del todo.' },
+      { question: '¿Tiene garantía y service en Argentina?', answer: 'Sí. Atma es una marca argentina con service y garantía local, una ventaja frente a los robots importados. En las opiniones, a varios compradores la garantía les cubrió el cambio de batería. Además no viene con enchufe extranjero ni necesita adaptador.' },
+      { question: '¿En qué se diferencia de la Kärcher RCV 1 o una Xiaomi?', answer: 'Frente a la Kärcher RCV 1 (también sin WiFi ni mapeo), el Atma suma cepillo central de rodillo, trapeo y la marca local. Frente a una Xiaomi con mapeo y app, el Atma es más simple y económico, y se elige por precio y respaldo de service argentino más que por navegación inteligente.' },
+      { question: '¿Qué incluye la caja?', answer: 'El robot Atma, el cepillo principal de rodillo, la mopa, la base de carga, el control remoto y repuestos (cepillos laterales, mopa y filtro), además de la barrera virtual.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'La compré porque la anterior solo aspiraba. La trapeadora está buena, pero no es que el piso queda parejito; trapea nomás, yo le paso un trapito después y queda impecable. Estoy encantada porque no me gusta ni barrer.', useful: 45 },
+      { rating: 5, country: 'Argentina', text: 'Años renegando con la mugre. Hace una semana que la tengo y la uso todos los días, sin ningún inconveniente. Tengo un perro y un gato y miren cómo junta los pelos. Recomendable. Eso sí, no es muy silenciosa.', useful: 25 },
+      { rating: 5, country: 'Argentina', text: 'He comprado aspiradoras chinas y ninguna como esta. Pasa por abajo de todos los muebles, no se traba con nada, la dejo sola y no necesita supervisión. Muy silenciosa. Si la pudiera volver a comprar, compro una igual.', useful: 22 },
+      { rating: 5, country: 'Argentina', text: 'Tenía la versión vieja sin mopa y de esta extraño el sensor para que no pase a otras habitaciones. La mopa sirve para darle un lavado de cara al piso, pero no esperen que lo deje perfecto.', useful: 15 },
+      { rating: 5, country: 'Argentina', text: 'Barre y aspira muy bien. El trapeado es para repasar, sobre pisos muy sucios o manchas duras no te va a ayudar. Choca un poco brusco si el obstáculo no es pared; si es pared frena antes. Tiene tres intensidades. Recomendación: cuando trapea hay que apagarle el aspirado para que no aspire líquido. La batería, sin aspirar, dura una hora y media; con aspirado continuo, una hora. Trae repuesto de la mopa y de los cepillos.', useful: 6 },
+      { rating: 5, country: 'Argentina', text: 'Mantiene mi depto limpio (tengo 3 animales). Me complicó el tema de la mopa: tiene los conductos tapados, son 4 puntitos debajo del robot y ahí hay que meter una aguja con cuidado, y conviene llenar el tanque y humedecer la mopa antes. Es medio molesto que anda dando vueltas sin orientación (no tiene mapeo), pero era la mejor relación precio-calidad que podía pagar y no me arrepiento.', useful: 1 },
+      { rating: 5, country: 'Argentina', text: 'Yo tenía otra Atma que después de 6 años me abandonó. Compré esta y anda incluso mejor que la anterior, aspira y barre muy bien. La función trapeadora es un fiasco, no sirve para eso, no deberían tener esa función.', useful: 2 },
+      { rating: 5, country: 'Argentina', text: 'Espectacular, te facilita la vida. Una precaución: no la dejes mucho tiempo sin usar. Tenía la misma hace 2 años, no la usé por 2 meses y se le agotó la batería (solo duraba 15 minutos). La batería es muy cara, sale casi igual que comprar un robot nuevo, así que ahora me aseguro de usarla día por medio.', useful: 4 },
+    ],
+    relatedProducts: ['MLA42103831', 'MLA18642318', 'MLA44714806'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Atma Atar21c1pi',
+      description: 'Aspiradora robot y trapeador Atma Atar21c1pi con motor BLDC de 4000 Pa, cepillo central de rodillo, aspirado y trapeado simultáneos, tanque de agua de 450 mL, filtro HEPA con triple filtración, sensores anti-choque y anticaídas, control remoto y barrera virtual. Marca local con service en Argentina.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'ATAR21C1PI',
+      sku: 'MLA20033508',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_685740-MLA95678652262_102025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA20033508',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '206055',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2BGRKbq',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '904',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    bestOccasion: ['Mantenimiento diario en casas con mascotas', 'Primer robot de marca local con service', 'Quien quiere aspirar y trapear a precio bajo'],
+    notRecommendedFor: ['Limpieza profunda (el trapeado es de mantenimiento)', 'Quien quiere mapeo, app y recorrido ordenado', 'Casas muy grandes en una sola carga'],
+    description: 'La aspiradora robot Atma Atar21c1pi aspira y trapea a la vez, con un motor BLDC de 4000 Pa y cepillo central de rodillo que levanta muy bien el pelo de mascota. Es slim (8 cm), pasa bajo los muebles y tiene el respaldo de Atma con service en Argentina, sin enchufe extranjero. No mapea ni tiene app: se maneja con control remoto. El value de marca local para el mantenimiento diario.',
   },
   {
     id: 'MLA53579189',

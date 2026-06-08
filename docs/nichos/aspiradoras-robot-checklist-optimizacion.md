@@ -7,9 +7,9 @@
 > customerReviews reales, humanizer) → verificar (lint + parseo + links) → commit.
 > Detalle del método y estrategia: `docs/nichos/aspiradoras-robot-seo-ubersuggest.md`.
 
-## Estado: 9 / 18 completas — ✅ Tier 1 Xiaomi (5/5) COMPLETO
+## Estado: 10 / 18 completas — ✅ Tier 1 Xiaomi (5/5) COMPLETO
 
-### ✅ Ya optimizadas (9)
+### ✅ Ya optimizadas (10)
 
 | # | Producto | ID | Marca |
 | --- | --- | --- | --- |
@@ -22,6 +22,7 @@
 | ✅ | Xiaomi X20 Pro D102GL | MLA44240016 | Xiaomi |
 | ✅ | Xiaomi X20 Max | MLA44235159 | Xiaomi |
 | ✅ | Xiaomi S20 negra | MLA44714806 | Xiaomi |
+| ✅ | Atma Atar21c1pi | MLA20033508 | Atma |
 
 ### ⬜ Pendientes (14) — en orden de prioridad (ROI por Ubersuggest)
 
@@ -39,8 +40,8 @@
 
 | # | Producto | ID | Estado |
 | --- | --- | --- | --- |
-| 6 | Atma Atar21c1pi Trapeadora Anti-choque | MLA20033508 | ⬜ ← SIGUIENTE |
-| 7 | Atma Atar21c1dh | MLA18642318 | ⬜ |
+| 6 | Atma Atar21c1pi Trapeadora Anti-choque | MLA20033508 | ✅ |
+| 7 | Atma Atar21c1dh | MLA18642318 | ⬜ ← SIGUIENTE |
 
 **Tier 3 — Gadnic** (`aspiradora robot gadnic` 1.900/mes — ya rankeable; quedan 3)
 
