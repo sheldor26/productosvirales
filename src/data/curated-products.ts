@@ -18640,7 +18640,7 @@ Robot Atma, cepillo principal (rodillo central), mopa, base de carga, control re
   },
   {
     id: 'MLA53579189',
-    title: 'Aspiradora Y Trapeadora Robot Con Control App. WIFI. Tecnologia Laser. Mapeo. Sensores Anticaida.',
+    title: 'Aspiradora Robot Atma Smart ATAR2123PI Mapeo Láser 2 en 1 Blanca',
     price: 449999,
     originalPrice: 745359,
     priceUpdated: '2026-06-06',
@@ -18663,15 +18663,137 @@ Robot Atma, cepillo principal (rodillo central), mopa, base de carga, control re
     condition: 'new',
     freeShipping: true,
     brand: 'Atma',
+    line: 'Smart',
+    color: 'Blanco',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: '¡Transformá tu hogar y recuperá tu tiempo libre con la tecnología de ATMA! La nueva Aspiradora Robot ATMA Smart es la solución definitiva para mantener tus pisos impecables sin mover un dedo. Diseñada para adaptarse a tu ritmo de vida, este equipo no solo aspira, sino que también trapea, asegurando una limpieza profunda en todo tipo de superficies: desde madera y azulejos hasta alfombras. ¿Por qué elegir la ATMA Smar',
-    seoTitle: 'Aspiradora Y Trapeadora Robot Con Control App. WIFI. Tecnolo',
-    metaDescription: 'Aspiradora Y Trapeadora Robot Con Control App. WIFI. Tecnologia Laser. Mapeo. Sensores Anticaida.: precio, ficha y opiniones. Aspiradora robot Atma en Argenti',
-    ogTitle: 'Aspiradora Y Trapeadora Robot Con Control App. WIFI. Tecnologia Laser.',
-    ogDescription: '¡Transformá tu hogar y recuperá tu tiempo libre con la tecnología de ATMA! La nueva Aspiradora Robot ATMA Smart es la solución definitiva para mantene',
-    h1: 'Aspiradora Y Trapeadora Robot Con Control App. WIFI. Tecnologia Laser. Mapeo. Sensores Anticaida.',
-    relatedProducts: ['MLA18642318', 'MLA20033508', 'MLA61420449'],
+    rating: 4.3,
+    reviewCount: 3,
+    reviewsWithPhotos: 1,
+    description: 'Aspiradora robot y trapeadora Atma Smart ATAR2123PI: 2 en 1 (aspira y trapea) con mapeo láser LiDAR, control por app ATMA vía WiFi, 2.000 Pa de succión, filtro HEPA, sensores anticaída y antichoque, depósito de polvo de 450 mL y tanque de agua de 250 mL, diseño slim de 7,5 cm y retorno automático a la base. Es el Atma con mapeo láser, distinto de los modelos básicos sin mapa.',
+    aiReviewSummary: 'Las primeras opiniones la describen como buena para mantener la limpieza del piso: aspira bien el polvo y trapea de forma correcta siempre que se humedezca el paño antes. Es amigable con las mascotas. Es un modelo nuevo, con pocas calificaciones todavía, así que conviene tomar las reseñas como una muestra chica.',
+    seoTitle: 'Aspiradora Robot Atma con Mapeo Láser 2 en 1: análisis',
+    metaDescription: 'Aspiradora robot Atma Smart con mapeo láser LiDAR: el Atma que arma el plano de la casa. Aspira y trapea, app WiFi, 220V sin adaptador. Precio y ficha.',
+    ogTitle: 'Atma con mapeo láser: el robot Atma que arma el plano de tu casa',
+    ogDescription: 'El Atma con LiDAR del catálogo: mapea, guarda el plano y limpia por zonas. 2 en 1, marca local con service en Argentina. Analizamos para quién rinde.',
+    h1: 'Aspiradora Robot Atma Smart con mapeo láser LiDAR: el Atma que arma y guarda el plano de tu casa',
+    pros: [
+      'Mapeo láser LiDAR de verdad: arma el plano de la casa, lo guarda y recorre ordenado (a diferencia de los Atma básicos)',
+      'Marca local Atma: service y garantía en Argentina, enchufe 220V sin adaptador extranjero',
+      '2 en 1: aspira y trapea; depósito de polvo grande (450 mL) y tanque de agua de 250 mL',
+      'Filtro HEPA y apto para pelo de mascota',
+      'Slim (7,5 cm): entra bajo camas y sillones; hasta 100 min de autonomía y vuelve sola a la base',
+      'App ATMA: programás horarios, elegís modos y seguís el recorrido desde el celular',
+    ],
+    cons: [
+      'Modelo nuevo con muy pocas opiniones todavía (3 calificaciones): menos respaldo de comunidad que otros del catálogo',
+      'Succión de 2.000 Pa: correcta para mantenimiento, por debajo de los 3.000+ Pa de las Gadnic o Xiaomi con LiDAR',
+      'El trapeado rinde mejor si humedecés el paño antes; si no, tarda en mojarse y ese rato no trapea bien',
+      'Puede trabarse bajo muebles muy bajos o patas finas (avisa y, si no la ayudás, se apaga ahí)',
+      'WiFi de 2,4 GHz y una app que al principio puede parecer compleja',
+    ],
+    verdict: 'El Atma con mapeo láser: para quien quiere recorrido ordenado y plano guardado con el respaldo de una marca local (service en Argentina, 220V sin adaptador), sin pagar un importado. El mapeo y el aspirado cumplen; el trapeado es de mantenimiento y conviene humedecer el paño antes. Es un modelo nuevo, así que todavía tiene pocas opiniones.',
+    bestOccasion: ['Quien quiere mapeo láser con marca y service local', 'Hogares con mascotas', 'Casas medianas con varios ambientes'],
+    notRecommendedFor: ['Quien necesita muchas reseñas antes de comprar (es nuevo)', 'Limpieza profunda o sacar manchas (el trapeado es de mantenimiento)', 'Quien busca la succión más alta del catálogo'],
+    articleBody: `## El Atma que mapea: la diferencia con los Atma básicos
+
+Dentro del catálogo hay tres Atma, y esta es la única con **mapeo láser LiDAR**. Las otras dos, la [Atma Atar21c1pi](/producto/MLA20033508) y la [Atma Atar21c1dh](/producto/MLA18642318), son más económicas pero navegan sin mapa: se mueven por sensores y no guardan el plano de la casa. Esta Atma Smart (modelo ATAR2123PI) sí: arma un mapa con el sensor láser de la torreta, lo recuerda y recorre ordenado.
+
+Si ya mirabas las Atma básicas y dudabas, esta es la versión que sube un escalón en navegación. La elegís cuando querés que el robot recorra prolijo y por zonas, no que vaya tanteando.
+
+## Cómo funciona el mapeo láser
+
+El sensor LiDAR de la torreta gira y "lee" las paredes y los muebles para armar un plano de la casa. Con ese mapa, en lugar de moverse al azar, recorre en líneas ordenadas, sabe por dónde ya pasó y vuelve sola a la base al terminar o cuando se queda con poca batería. Desde la app ATMA ves el plano, elegís el modo de limpieza y programás horarios.
+
+Trae hasta cuatro modos (Auto, Bordes, Spot y Manual) según la ficha extendida, que elegís desde el celular. Es la misma lógica de un robot con mapeo de gama media: el plano guardado es lo que lo diferencia de un giroscópico o de un robot que va al azar.
+
+## Aspira y trapea: el 2 en 1
+
+Aspira con 2.000 Pa (2 kPa) y trapea en la misma corrida, con depósitos independientes: uno de polvo de 450 mL (grande, de los más amplios de su rango) y un tanque de agua de 250 mL para el fregado. Los 2.000 Pa son una succión correcta para mantenimiento de polvo, pelusa y pelo de mascota, aunque queda por debajo de los 3.000 Pa o más de una [Gadnic AspiRob con LiDAR](/producto/MLA36838658) o una Xiaomi.
+
+Sobre el trapeado, la primera reseña es clara y conviene tenerla en cuenta: funciona bien **siempre que humedezcas el paño antes** con líquido; si lo ponés seco, tarda un rato en mojarse y todo ese tiempo no trapea bien. Como en casi todos los robots de este tipo, es un trapeado de mantenimiento, no reemplaza un repaso a mano.
+
+## Marca local: la ventaja Atma
+
+Acá está uno de sus argumentos más fuertes. Atma es una marca con presencia y service en Argentina, así que la garantía y los repuestos los resolvés acá, y funciona a 220V sin adaptador ni transformador. Es la diferencia frente a muchos robots con mapeo que vienen importados (como las Xiaomi), donde el enchufe y el soporte posventa pueden ser un dolor de cabeza. Si te importa comprar con respaldo local, este Atma con LiDAR es una opción a mirar.
+
+## Slim y autonomía
+
+Con 7,5 cm de alto entra bajo camas, sillones y muebles bajos, donde no llega la escoba. La batería es de 2.600 mAh y da hasta 100 minutos de limpieza, suficiente para cubrir una casa mediana con una carga, y al terminar vuelve sola a la base. Pesa 3 kg. Como todo robot con torreta LiDAR, esa torre suma unos milímetros arriba, así que bajo muebles muy bajos puede no entrar.
+
+## Modelo nuevo: qué dicen las primeras opiniones
+
+Seamos transparentes: es un modelo nuevo y todavía tiene muy pocas opiniones (3 calificaciones, 4.3 estrellas). Las primeras son buenas pero conviene tomarlas como una muestra chica. La más completa, de una familia con dos perros y dos gatos, la usa dos veces por semana para mantener y la describe como "bastante buena para mantener la limpieza del piso", con buen aspirado y trapeado correcto si se humedece el paño antes. También avisa que a veces se traba bajo el vanitory o sobre las patas finas del tender, y que en ese caso el robot avisa y, si no lo ayudás, se apaga ahí. Es amigable con las mascotas.
+
+## En qué se diferencia de las otras del catálogo
+
+Frente a las Atma básicas ([Atar21c1pi](/producto/MLA20033508) y [Atar21c1dh](/producto/MLA18642318)), la diferencia es el mapeo láser: estas dos no guardan plano y son más baratas; esta sí mapea. Frente a otro mapeo láser local como la [Gadnic AspiRob con LiDAR](/producto/MLA36838658), juegan en un rango parecido, así que la decisión pasa por marca, succión y precio. Y frente a un LiDAR importado como la [Xiaomi Robot Vacuum S20](/producto/MLA44714806), la ventaja del Atma es el service local y el enchufe 220V, a cambio de una comunidad de opiniones más chica por ser nuevo.
+
+## Qué incluye la caja
+
+Robot Atma Smart, base de carga, cepillo de piso para líquidos, cepillo redondo y cepillo de limpieza. Se controla desde la app ATMA por WiFi.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Atma / Smart (ATAR2123PI)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador 2 en 1' },
+      { label: 'Succión', value: '2.000 Pa (2 kPa)' },
+      { label: 'Potencia', value: '40 W' },
+      { label: 'Navegación', value: 'Mapeo láser LiDAR (plano guardado, recorrido ordenado)' },
+      { label: 'Modos de limpieza', value: 'Auto, Bordes, Spot, Manual (vía app)' },
+      { label: 'Control', value: 'App ATMA por WiFi' },
+      { label: 'Fregado', value: 'Tanque de agua de 250 mL' },
+      { label: 'Depósito de polvo', value: '450 mL' },
+      { label: 'Filtro', value: 'HEPA' },
+      { label: 'Apto pelo de mascota', value: 'Sí' },
+      { label: 'Batería', value: '2.600 mAh · hasta 100 min · retorno automático' },
+      { label: 'Sensores', value: 'Anticaída y antichoque (de obstáculos)' },
+      { label: 'Dimensiones', value: '7,5 cm de alto (diseño slim)' },
+      { label: 'Peso', value: '3 kg' },
+      { label: 'Color / Voltaje', value: 'Blanco / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Atma Smart hace mapeo de verdad? ¿Guarda el plano?', answer: 'Sí. Tiene mapeo láser LiDAR: el sensor de la torreta arma el plano de la casa, lo recuerda y recorre ordenado en lugar de moverse al azar. Desde la app ATMA ves el mapa, elegís el modo y programás horarios. Es la única Atma del catálogo con mapeo láser; las otras dos (Atar21c1pi y Atar21c1dh) navegan sin mapa.' },
+      { question: '¿En qué se diferencia de las otras Atma (Atar21c1pi y Atar21c1dh)?', answer: 'La diferencia principal es la navegación. Las Atar21c1pi y Atar21c1dh son más económicas pero no mapean: se guían por sensores y se mueven sin un plano. Esta Atma Smart tiene mapeo láser LiDAR, así que arma y guarda el plano y recorre ordenado por zonas. Si querés recorrido prolijo, esta; si te alcanza con un robot básico de mantenimiento, las otras dos.' },
+      { question: '¿Aspira fuerte? ¿Alcanzan los 2.000 Pa?', answer: '2.000 Pa (2 kPa) es una succión correcta para mantenimiento: levanta bien polvo, pelusa y pelo de mascota en el día a día. Queda por debajo de los 3.000 Pa o más de algunas Gadnic o Xiaomi con LiDAR, así que para suciedad muy pesada es más de mantenimiento que de limpieza profunda. El depósito de polvo es grande (450 mL).' },
+      { question: '¿Trapea bien?', answer: 'Trapea en la misma pasada con un tanque de agua de 250 mL, pero rinde mejor si humedecés el paño antes con líquido. Si lo ponés seco, tarda un rato en mojarse y ese tiempo no trapea bien. Es un trapeado de mantenimiento: repasa el piso, no saca manchas pegadas ni reemplaza un trapeado a mano.' },
+      { question: '¿Sirve para pelo de mascota?', answer: 'Sí, es apto para pelo de mascota y con filtro HEPA retiene ácaros y partículas finas. La primera reseña, de una familia con dos perros y dos gatos, confirma que es amigable con las mascotas y buena para mantener el piso. Como con todos, conviene revisar las escobillas porque el pelo largo se enreda.' },
+      { question: '¿Es de marca local? ¿Tiene service en Argentina?', answer: 'Sí. Atma es una marca con presencia y service en Argentina, así que la garantía y los repuestos los resolvés localmente, y funciona a 220V sin adaptador ni transformador. Es la ventaja frente a muchos robots con mapeo importados, donde el enchufe y el soporte posventa pueden complicarse.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Mide 7,5 cm de alto, así que entra bajo camas, sillones y muebles bajos. Eso sí, como todo robot con mapeo láser, la torreta del sensor suma unos milímetros arriba, por lo que bajo muebles muy bajos puede no pasar. Conviene medir la luz libre antes de comprar.' },
+      { question: '¿Cuántas opiniones tiene? ¿Es confiable?', answer: 'Es un modelo nuevo y todavía tiene pocas opiniones (3 calificaciones, 4.3 estrellas), así que hay menos respaldo de comunidad que en otros robots del catálogo. Las primeras reseñas son buenas, pero conviene tomarlas como una muestra chica. Si necesitás muchas opiniones antes de decidir, quizás prefieras un modelo más probado.' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Atma Smart, base de carga, cepillo de piso para líquidos, cepillo redondo y cepillo de limpieza. Se controla desde la app ATMA por WiFi.' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', text: 'Ramona, así le pusimos. Limpia bastante bien, buen aspirado de polvo, y el trapeado funciona siempre que humedezcas el paño antes con líquido; si no, le cuesta un rato mojarlo y todo lo que tarda no lo trapea del todo bien. A veces se traba bajo el vanitory o sobre las patitas del tender, pero te avisa y, si no la ayudás, se apaga ahí. Es amigable con las mascotas: somos 2 adultos, 2 perros y 2 gatos. Le pedimos que limpie 2 veces por semana y es bastante buena para mantener el piso.', useful: 3 },
+      { rating: 5, country: 'Argentina', text: 'Recién llegó y estamos aprendiendo a usarla. La app parece compleja.', useful: 0 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Atma Smart ATAR2123PI con Mapeo Láser',
+      description: 'Aspiradora robot y trapeadora Atma Smart ATAR2123PI: 2 en 1 con mapeo láser LiDAR, 2.000 Pa de succión, app ATMA por WiFi, filtro HEPA, sensores anticaída y antichoque, depósito de polvo de 450 mL, tanque de agua de 250 mL, diseño slim de 7,5 cm y retorno automático a la base.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      model: 'Smart (ATAR2123PI)',
+      sku: 'MLA53579189',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_943082-MLA99451643344_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA53579189',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '449999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/14txuhx',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.3',
+        reviewCount: '3',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA20033508', 'MLA18642318', 'MLA36838658'],
   },
   {
     id: 'MLA26504431',
