@@ -8495,7 +8495,7 @@ export const guides: Guide[] = [
       "Yara, Asad, Khamrah, Fakhar. Lattafa domina TikTok argentino con perfumes que rivalizan con Dior y Creed a un décimo del precio. La guía completa de la marca con sus líneas, precios y veredictos.",
     h1: "Lattafa: la guía completa de la marca árabe más vendida en Argentina (2026)",
     publishedDate: "2026-05-29",
-    updatedDate: "2026-05-29",
+    updatedDate: "2026-06-08",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección mujer", labelColor: "green", tagline: "Lattafa Yara Elixir: el árabe femenino más viral de Argentina. Dulce-cítrico con 8h de duración." },
@@ -8677,6 +8677,21 @@ export const guides: Guide[] = [
         ]
       },
       {
+        type: "p",
+        content: "Y si lo pensás al revés —según el tipo de perfume que buscás—, este es el atajo por línea para saber por dónde arrancar:"
+      },
+      {
+        type: "table",
+        headers: ["Si buscás...", "Línea Lattafa", "Empezá con"],
+        rows: [
+          ["Femenino viral dulce", "Yara", "Yara Tous (verano) o Yara Elixir (invierno)"],
+          ["Unisex gourmand", "Khamrah", "Khamrah Qahwa (café) o el clásico (whisky)"],
+          ["Masculino versátil", "Asad", "Asad Intense"],
+          ["Algo más premium", "Maahir / The Kingdom", "Maahir Legacy o The Kingdom Man"],
+          ["Accesible para probar", "Fakhar / Mayar", "Fakhar Woman o Mayar"]
+        ]
+      },
+      {
         type: "h2",
         title: "Calidad y duración real: qué esperar"
       },
@@ -8756,7 +8771,7 @@ export const guides: Guide[] = [
         title: "Veredicto"
       },
       {
-        type: "p",
+        type: "verdict",
         content: "Lattafa es la mejor puerta de entrada al nicho árabe en Argentina por tres razones: precio accesible (desde $42.000), variedad enorme (21 fragancias en el catálogo) y respaldo de validación masiva en MercadoLibre. Para la mayoría de los casos no hace falta ir más lejos: Yara Elixir cubre a la mayoría de las mujeres, Asad Intense cubre a la mayoría de los hombres, Khamrah Qahwa cubre el caso unisex viral."
       },
       {
