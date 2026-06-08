@@ -19,7 +19,7 @@
   - `freidoras-de-aire`: 23 (varias agendadas a futuro)
   - `pavas-electricas`: 11 (4 agendadas)
   - `perfumes-arabes`: 14 (6 originales + 8 nuevas de fase 2)
-  - `masajeadores`: 6
+  - `masajeadores`: 10 (4 nuevas 08-jun: masajeador [pillar head term 49.5K/dif 13], pistola-masajeadora, masajeador-espalda-cuello, masajeador-electrico)
   - `aspiradoras-robot`: **7** (red nueva, todas live desde 06-jun)
 
 ### Red aspiradoras robot — completa ✅ (06-jun)

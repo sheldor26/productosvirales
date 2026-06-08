@@ -2623,6 +2623,588 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
+  // MASAJEADORES FASE 2 — pistola, espalda+cuello, eléctrico (08/06)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "pistola-masajeadora",
+    category: "masajeadores",
+    title: "Pistola masajeadora: cuál comprar en Argentina (2026)",
+    seoTitle: "Pistola masajeadora: comparativa y precios en Argentina 2026",
+    metaDescription:
+      "Femmto MP de motor brushless vs Caliber con infrarrojo. Qué mirar antes de comprar una pistola masajeadora en Argentina, precios reales y cuál conviene.",
+    ogTitle: "Pistola masajeadora: cuál vale la pena en Argentina",
+    ogDescription:
+      "Motor brushless, RPM, cabezales y batería. Comparamos dos opciones reales del mercado argentino y te decimos para quién sirve cada una.",
+    h1: "Pistola masajeadora: cuál vale la pena y cuál no",
+    publishedDate: "2026-06-08",
+    updatedDate: "2026-06-08",
+    hasDisclosure: true,
+    standfirst:
+      "Hay decenas de pistolas masajeadoras en Mercado Libre y casi todas prometen lo mismo. Acá separamos lo que importa (motor, potencia, cabezales) de lo que es relleno, y comparamos dos opciones concretas que se consiguen hoy en Argentina.",
+    intro: [
+      "Una pistola masajeadora buena cuesta entre $45.000 y $70.000 en Argentina. Una mala cuesta lo mismo. La diferencia no está en la foto ni en la cantidad de cabezales que prometen: está en el motor, en cuánta presión aguanta sin frenarse y en si el ruido te deja usarla mirando la tele o no.",
+      "El boom de las massage guns vino del deporte. Las usaban para recuperación muscular después de entrenar, y de ahí pasaron a cualquiera que tenga contracturas de estar sentado ocho horas. El problema es que el mercado se llenó de modelos genéricos que parecen iguales en la publicación y se sienten muy distintos en la mano. Una percute fuerte y parejo; otra hace ruido y se traba apenas apoyás.",
+      "Acá no vas a encontrar quince modelos para confundirte. Comparamos dos que se consiguen hoy con stock real y buen historial: una pistola de percusión a batería y un percutor de mano con cable e infrarrojo. Te decimos qué hace bien cada uno, dónde se queda corto y para qué caso conviene cada uno.",
+    ],
+    quickPicks: [
+      { productMlaId: "MLA37908577", label: "La más sólida", labelColor: "green", tagline: "Motor brushless, 6.679 calificaciones y 4.8 de rating" },
+      { productMlaId: "MLA25263767", label: "Con calor infrarrojo", labelColor: "amber", tagline: "De mano, con cable y certificación argentina IQC" },
+      { productMlaId: "MLA24127896", label: "Alternativa para el cuello", labelColor: "blue", tagline: "No es pistola, pero es lo más vendido y cuesta menos" },
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_767061-MLA102817516182_012026-F.webp", alt: "Pistola masajeadora Femmto MP con motor brushless y cuatro cabezales intercambiables", imageSize: "hero" },
+
+      { type: "h2", title: "Qué mirar antes de comprar (y qué es relleno)" },
+      { type: "p", content: "La especificación que más decide la calidad es el tipo de motor. Hay dos: brushed (con carbones) y brushless (sin carbones). El brushless no tiene piezas que rocen entre sí, así que hace menos ruido, dura más y mantiene la potencia parejo cuando apoyás con fuerza. El brushed es más barato y por eso lo usan la mayoría de los modelos económicos. Si una pistola no aclara el tipo de motor en la publicación, casi siempre es brushed." },
+      { type: "p", content: "Después viene la potencia, que se mide de dos formas. Las RPM (golpes por minuto) marcan la velocidad de la percusión: entre 2.000 y 3.200 es un rango usable. La amplitud (cuánto se mueve el cabezal hacia adentro y afuera) define cuán profundo llega el golpe; los modelos de gama media no la declaran, pero a mayor amplitud, más llega al músculo. No te dejes llevar por el número de velocidades: tener 30 niveles no sirve de nada si ninguno percute fuerte." },
+      { type: "p", content: "El resto es secundario. Los cabezales intercambiables ayudan (el redondo para zonas grandes, el de punta para nudos), pero con tres alcanza. El display con sensor de presión es un lujo cómodo, no una necesidad. Y la batería importa según tu uso: si la vas a tener cargada en casa, dos horas de autonomía sobran. El dato que sí conviene revisar es el peso, porque una pistola de más de 1 kg cansa el brazo si la usás solo en la espalda." },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Ojo con dónde la usás",
+        content: "Una pistola masajeadora no se aplica sobre huesos, articulaciones, la columna directamente, el cuello sobre la garganta, ni sobre várices, moretones o zonas inflamadas. Va sobre el músculo. Si tenés hernia, problemas de coagulación o estás embarazada, consultá con un profesional antes de usarla. La percusión fuerte en el lugar equivocado empeora las cosas en vez de aliviarlas.",
+      },
+
+      { type: "h2", title: "Las dos opciones, comparadas" },
+      { type: "p", content: "Son aparatos distintos que la gente busca con la misma palabra. La Femmto MP es una pistola de percusión clásica: a batería, portátil, percute fuerte. El Caliber es un percutor de mano con cable, más parecido a un wand, que suma calor infrarrojo. No compiten de igual a igual; conviene uno u otro según para qué lo quieras." },
+
+      { type: "h3", title: "Femmto MP: la pistola de percusión" },
+      { type: "p", content: "Es el producto más sólido de esta categoría en el catálogo, y los números lo respaldan: 4.8 de rating con 6.679 calificaciones. Trae motor brushless, seis velocidades, cuatro cabezales de silicona, batería de litio con carga USB-C y un display con sensor de presión que avisa cuando estás apretando de más. Pesa 560 gramos con el maletín y los accesorios." },
+      { type: "product-card", productMlaId: "MLA37908577", label: "Mejor pistola", labelColor: "green" },
+      { type: "p", content: "Qué hace bien: el motor brushless cumple lo que promete. Percute parejo a 3.000 RPM y el ruido (unos 65 dB declarados) te deja usarla en el sillón sin molestar a nadie. Los cuatro cabezales cubren desde grupos grandes (cuádriceps, glúteos, espalda) hasta puntos finos con el cabezal en Y para la zona cervical. El sensor de presión es de verdad útil para el que nunca usó una." },
+      { type: "p", content: "Dónde se queda corta: no tiene calor. Si buscás el efecto del infrarrojo sobre una contractura fría, esta no es. Y como toda pistola, llegar solo a la espalda media es incómodo: vas a tener que hacer maniobras con el brazo o pedir ayuda. La ficha de Mercado Libre tiene algún dato cruzado (mezcla cantidades de velocidades y cabezales según la variante), así que conviene confirmarle al vendedor la versión exacta." },
+      {
+        type: "pull-quote",
+        content: "Tiene buena potencia y el motor casi no se escucha. La uso después de entrenar y para los nudos de la espalda. El sensor de presión te ayuda a no pasarte.",
+        attribution: "— Compra verificada en Argentina · 4.8 de rating sobre 6.679 calificaciones",
+      },
+
+      { type: "h3", title: "Caliber Percussion: el percutor con infrarrojo" },
+      { type: "p", content: "El Caliber juega otro partido. No funciona con batería sino con cable a 220V, entrega 28W constantes y suma tres emisores infrarrojos en el cabezal. Tiene dos nodos rotativos, mango ergonómico con el control de velocidad integrado y certificación de seguridad eléctrica argentina (T8354/3, IQC S.A.). Lleva más de 1.000 unidades vendidas con 4.6 de rating." },
+      { type: "product-card", productMlaId: "MLA25263767", label: "Con infrarrojo", labelColor: "amber" },
+      { type: "p", content: "Qué hace bien: el calor. Es el único de los dos con infrarrojo real, y el calor penetra más que una almohadilla térmica común; sobre una contractura, sumado al movimiento de los nodos, se siente. Al ir con cable nunca pierde potencia a mitad de sesión, lo que conviene si lo vas a usar 30 o 40 minutos seguidos. Y la certificación local no es menor en un aparato eléctrico que va sobre el cuerpo." },
+      { type: "p", content: "Dónde se queda corto: el cable. Lo usás donde haya enchufe y nada más, olvidate de llevarlo al gimnasio. El movimiento es unidireccional, no es la percusión seca de una pistola deportiva, así que para recuperación muscular intensa rinde menos que la Femmto. Y su rating de 4.6 está apenas por debajo del de la pistola. La publicación menciona dos accesorios pero no detalla bien el segundo: preguntá antes si te importa." },
+
+      { type: "h2", title: "Tabla comparativa" },
+      {
+        type: "table",
+        headers: ["", "Femmto MP", "Caliber Percussion"],
+        rows: [
+          ["Tipo", "Pistola de percusión", "Percutor de mano (wand)"],
+          ["Alimentación", "Batería (USB-C)", "Cable 220V"],
+          ["Motor", "Brushless", "Con motor, 28W"],
+          ["Calor infrarrojo", "No", "Sí (3 emisores)"],
+          ["Portátil", "Sí, inalámbrica", "No, requiere enchufe"],
+          ["Cabezales", "4 de silicona", "2 accesorios"],
+          ["Rating", "4.8 (6.679)", "4.6 (+1.000 vendidos)"],
+          ["Certificación AR", "No declarada", "IQC T8354/3"],
+          ["Precio aprox.", "$54.805", "$45.579"],
+        ],
+      },
+      { type: "p", content: "Resumido: si querés una pistola masajeadora de verdad, portátil y para músculo, la Femmto MP. Si tu prioridad es el calor sobre una contractura y no te molesta el cable, el Caliber sale un poco menos y suma infrarrojo." },
+
+      { type: "h2", title: "Si no necesitás tanta potencia" },
+      { type: "p", content: "Mucha gente busca pistola masajeadora cuando en realidad lo que le duele es el cuello de estar frente a la computadora. Para ese caso puntual, una pistola es exagerada y un masajeador cervical específico funciona mejor y cuesta menos. El Femmto cervical inalámbrico ronda los $32.999, tiene shiatsu con calor y es el masajeador más vendido del catálogo: 4.8 de rating con más de 13.000 calificaciones." },
+      { type: "product-card", productMlaId: "MLA24127896", label: "Para el cuello", labelColor: "blue" },
+      { type: "p", content: "No es una pistola y no reemplaza la percusión en músculos grandes, pero si tu único problema son las cervicales y los trapecios, te va a servir más. La diferencia de precio también juega: por menos de la mitad resolvés el caso más común. Más detalle en la guía de [masajeador cervical](/guias/masajeador-cervical)." },
+
+      { type: "h2", title: "Cómo usar una pistola masajeadora" },
+      { type: "p", content: "La idea no es apretar con fuerza, es dejar que el peso del aparato haga el trabajo. Pasá la pistola lento sobre el músculo, de 30 a 60 segundos por zona, sin quedarte clavado en un punto. Empezá en la velocidad más baja y subí si lo necesitás. Sobre un nudo concreto podés frenar unos segundos, pero sin forzar: si duele de verdad, estás yendo muy fuerte o muy cerca de un hueso." },
+      { type: "p", content: "Antes de entrenar, sesiones cortas y rápidas para activar. Después de entrenar o para relajar a la noche, más lento y prolongado. No la uses más de 10 o 15 minutos por zona en total. Y nunca sobre la columna, las articulaciones, el cuello adelante ni zonas con dolor agudo de causa desconocida." },
+
+      { type: "h2", title: "Errores comunes al comprar" },
+      { type: "p", content: "El primero es comprar por la cantidad de velocidades. Una publicación que grita 30 niveles suena mejor que una de 6, pero si el motor es flojo, esos 30 niveles son 30 formas de percutir suave. Mirá primero el motor y la potencia real; los niveles son lo último." },
+      { type: "p", content: "El segundo es ignorar el peso. Las pistolas más baratas suelen ser más pesadas, y cuando intentás llegar solo a la espalda con un aparato de más de un kilo, el brazo se cansa antes que el músculo se afloje. Para uso en casa sin ayuda, conviene una liviana de entre 500 y 800 gramos." },
+      { type: "p", content: "El tercero es esperar que resuelva un dolor que no es muscular. La pistola es excelente para nudos y contracturas, pero no hace nada por una hernia, una articulación inflamada o un pinzamiento nervioso, y aplicada ahí puede empeorar las cosas. Si no sabés de dónde viene el dolor, primero un diagnóstico, después el aparato." },
+      { type: "p", content: "Y el cuarto, más fino: creer que toda pistola sirve para el cuello. La zona cervical es delicada y necesita el cabezal correcto (el fino en Y) y mano suave, aplicado a los costados de la columna, nunca encima. Si tu tema es el cuello todos los días, un cervical específico es más seguro y cómodo que andar con cuidado con una pistola." },
+
+      { type: "h2", title: "Precios reales en Argentina (junio 2026)" },
+      {
+        type: "list",
+        items: [
+          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **$54.805** (la más sólida, a batería)",
+          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **$45.579** (con calor, a cable)",
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (alternativa para el cuello)",
+        ],
+      },
+      {
+        type: "trust-block",
+        trustVariant: "pricing",
+        content: "Precios verificados manualmente en Mercado Libre Argentina en junio 2026. En esta categoría los precios se mueven mucho con las ofertas, así que tomalos como referencia y confirmá en el link antes de comprar. Para ver el rango completo de masajeadores y dónde conviene comprarlos, mirá la guía de [dónde comprar masajeadores](/guias/masajeador-donde-comprar-argentina).",
+      },
+
+      { type: "h2", title: "Por dónde seguir explorando" },
+      {
+        type: "list",
+        items: [
+          "**[Mejores masajeadores en Argentina](/guias/mejores-masajeadores-argentina)** — la comparativa general por tipo y por dolor.",
+          "**[Masajeador de espalda](/guias/masajeador-espalda)** — cuál sirve según dónde te duele.",
+          "**[Masajeador de espalda y cuello](/guias/masajeador-espalda-cuello)** — los asientos shiatsu y de vibración.",
+          "**[Masajeador cervical](/guias/masajeador-cervical)** — para tensión de cuello y trapecios.",
+          "**[Masajeador eléctrico](/guias/masajeador-electrico)** — la guía que ordena todos los tipos.",
+        ],
+      },
+
+      { type: "verdict", content: "Para la mayoría, la Femmto MP es la pistola masajeadora que conviene: motor brushless, percusión pareja, silenciosa y con el respaldo de casi 7.000 calificaciones. El Caliber tiene sentido si lo que buscás es el calor infrarrojo y no te molesta usarlo enchufado. Y si en el fondo lo único que te duele es el cuello, ahorrá plata y comprá un masajeador cervical en vez de una pistola." },
+    ],
+    faq: [
+      { question: "¿Qué es mejor, motor brushless o normal?", answer: "El brushless es mejor: hace menos ruido, dura más y mantiene la potencia cuando apoyás con fuerza, porque no tiene carbones que rocen. El brushed es más barato y lo usan casi todos los modelos económicos. Si la publicación no aclara el tipo de motor, asumí que es brushed." },
+      { question: "¿La pistola masajeadora sirve para contracturas?", answer: "Sí, para contracturas y nudos en músculos grandes (espalda, piernas, glúteos) funciona bien porque aplica presión profunda y concentrada. No sirve para dolor articular, óseo ni para la columna. Si el dolor es agudo o no sabés la causa, primero consultá." },
+      { question: "¿Cuánto cuesta una pistola masajeadora buena en Argentina?", answer: "Entre $45.000 y $70.000 en junio 2026. La Femmto MP ronda los $54.805 y el Caliber los $45.579. Por debajo de $40.000 suelen ser modelos con motor brushed de poca potencia que se quedan cortos en músculos grandes." },
+      { question: "¿La Femmto MP tiene calor?", answer: "No. La Femmto MP no tiene calor infrarrojo. Si querés calor, el Caliber Percussion lo trae con tres emisores infrarrojos, aunque funciona con cable y no a batería." },
+      { question: "¿Cómo se usa una pistola masajeadora?", answer: "Pasala lento sobre el músculo, 30 a 60 segundos por zona, sin apretar fuerte: dejá que el peso del aparato trabaje. Empezá en velocidad baja. No la uses más de 10 a 15 minutos por zona ni sobre huesos, articulaciones o la columna." },
+      { question: "¿Sirve para el cuello?", answer: "Con cuidado y el cabezal fino (en Y), sí, sobre los músculos a los costados de las cervicales. Nunca sobre la garganta ni sobre la columna directamente. Para tensión de cuello frecuente, un masajeador cervical específico es más cómodo y más barato." },
+      { question: "¿Hace mucho ruido?", answer: "Depende del motor. Las brushless como la Femmto MP rondan los 65 dB, por debajo de una conversación normal, así que se pueden usar mirando la tele. Las de motor brushed son bastante más ruidosas, entre 70 y 80 dB." },
+      { question: "¿Necesito una pistola cara con muchas velocidades?", answer: "No. Tener 30 velocidades no sirve si ninguna percute fuerte. Importa más el motor y la potencia real que la cantidad de niveles. Con tres velocidades y tres cabezales bien hechos alcanza para la mayoría de los usos." },
+    ],
+    internalLinksTitle: "Relacionado",
+    internalLinks: [
+      { label: "Mejores masajeadores en Argentina", href: "/guias/mejores-masajeadores-argentina" },
+      { label: "Masajeador de espalda", href: "/guias/masajeador-espalda" },
+      { label: "Masajeador de espalda y cuello", href: "/guias/masajeador-espalda-cuello" },
+      { label: "Masajeador cervical", href: "/guias/masajeador-cervical" },
+      { label: "Masajeador eléctrico", href: "/guias/masajeador-electrico" },
+    ],
+  },
+
+  {
+    slug: "masajeador-espalda-cuello",
+    category: "masajeadores",
+    title: "Masajeador de espalda y cuello: qué asiento conviene",
+    seoTitle: "Masajeador de espalda y cuello: comparativa en Argentina 2026",
+    metaDescription:
+      "Asiento shiatsu Melfit vs vibración Electroland vs cervical portátil Femmto. Cuál masajeador de espalda y cuello conviene según tu caso y tu presupuesto.",
+    ogTitle: "Masajeador de espalda y cuello: cuál conviene",
+    ogDescription:
+      "Shiatsu, vibración o portátil. Tres formas distintas de aliviar la espalda y el cuello, comparadas con precios reales de Argentina.",
+    h1: "Masajeador de espalda y cuello: cuál conviene según tu caso",
+    publishedDate: "2026-06-08",
+    updatedDate: "2026-06-08",
+    hasDisclosure: true,
+    standfirst:
+      "Bajo la misma búsqueda conviven aparatos muy distintos: asientos con nodos shiatsu, asientos de pura vibración y masajeadores portátiles de cuello. Hacen cosas diferentes y cuestan muy diferente. Acá comparamos tres opciones concretas para que no pagues de más ni te quedes corto.",
+    intro: [
+      "El que busca un masajeador de espalda y cuello casi siempre tiene el mismo problema: muchas horas sentado, tensión en los trapecios, la zona lumbar dura al final del día. Pero la solución no es una sola. Hay asientos que hacés masaje shiatsu de presión real, asientos que solo vibran y aparatos chicos que te ponés en el cuello. Elegir el tipo equivocado es el error más caro.",
+      "La diferencia de precio es enorme y vale entenderla. Un asiento shiatsu completo con calor y compresión de aire puede salir más de $300.000. Uno de pura vibración, alrededor de $100.000. Y un masajeador cervical portátil, poco más de $30.000. No es que uno sea mejor que otro: cada uno resuelve un problema distinto, y a veces el barato es justo el que necesitás.",
+      "Comparamos tres opciones que se consiguen hoy en Mercado Libre Argentina: un asiento shiatsu premium, un asiento de vibración de cobertura amplia y el masajeador cervical más vendido del catálogo. Te decimos qué hace cada uno, qué le falta y para qué caso conviene, con los datos reales de cada publicación, incluidos los que no son tan lindos.",
+    ],
+    quickPicks: [
+      { productMlaId: "MLA24127896", label: "El más vendido", labelColor: "green", tagline: "Portátil, shiatsu con calor y +13.000 calificaciones" },
+      { productMlaId: "MLAU274288377", label: "Cobertura amplia", labelColor: "blue", tagline: "110 cm de vibración, hombros a muslos, buen precio" },
+      { productMlaId: "MLA28420339", label: "Shiatsu completo", labelColor: "amber", tagline: "6 nodos, calor y compresión, pero pocas reseñas" },
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_603622-MLU78073792105_072024-F.webp", alt: "Asiento masajeador shiatsu Melfit I2500 con nodos rotativos, calor infrarrojo y control remoto", imageSize: "hero" },
+
+      { type: "h2", title: "Shiatsu, vibración o portátil: qué hace cada uno" },
+      { type: "p", content: "El shiatsu usa nodos que giran y hacen presión real sobre el músculo, parecido a unos pulgares amasando. Es la sensación más cercana a un masaje de consultorio y el que mejor trabaja un nudo. La contra: los nodos están en posiciones fijas o recorren un rango limitado, así que si tu punto de dolor queda entre dos nodos, no llega tan bien." },
+      { type: "p", content: "La vibración es más suave y cubre más superficie de una vez, pero no hace presión profunda. Relaja la tensión acumulada y se siente bien después de un día largo, aunque no va a deshacer una contractura dura. Su ventaja es que suele costar bastante menos y es más fácil de usar: lo encendés y te olvidás." },
+      { type: "p", content: "El masajeador portátil de cuello es otra cosa: un aparato chico con nodos shiatsu que te colgás sobre los trapecios. No cubre la espalda entera, pero ataca justo la zona donde la mayoría acumula tensión (cuello y hombros), lo usás solo, sin ayuda, y cuesta una fracción de un asiento. Para el caso más común, suele ser suficiente." },
+      {
+        type: "table",
+        headers: ["Tipo", "Mejor para", "Presión", "Precio aprox."],
+        rows: [
+          ["Asiento shiatsu", "Espalda + cuello, nudos reales", "Alta", "$300.000+"],
+          ["Asiento vibración", "Tensión difusa, relax diario", "Suave-media", "$100.000"],
+          ["Cervical portátil", "Cuello y trapecios puntual", "Media", "$33.000"],
+        ],
+      },
+
+      { type: "h2", title: "Femmto cervical: el más vendido y el más barato" },
+      { type: "p", content: "Antes que los asientos conviene mirar este, porque para muchísima gente alcanza y cuesta la décima parte. Es un masajeador cervical inalámbrico, con batería recargable por USB, nodos shiatsu y calor de hasta 48 grados. Ronda los $32.999 y es el masajeador más vendido del catálogo: 4.8 de rating con más de 13.000 calificaciones, un volumen de reseñas que ningún asiento se le acerca." },
+      { type: "product-card", productMlaId: "MLA24127896", label: "El más vendido", labelColor: "green" },
+      { type: "p", content: "Qué hace bien: ataca la zona donde casi todos sentimos la tensión, el cuello y los trapecios. Es silencioso, lo usás solo y en cualquier lado (mirando la tele, antes de dormir), y la batería rinde varias sesiones. Por el precio y el respaldo de reseñas, es el punto de partida lógico." },
+      { type: "p", content: "Dónde se queda corto: no es para la espalda media ni la lumbar. Llega al cuello y la espalda alta, nada más. Si tu dolor está abajo, este no lo resuelve y vas a necesitar un asiento. Pero si nunca tuviste un masajeador y no sabés cuánto lo vas a usar, empezar por acá es la decisión más sensata." },
+      {
+        type: "pull-quote",
+        content: "Lo uso todas las noches para el cuello y los hombros. Calienta bien y no hace ruido. Por lo que sale, es lo mejor que compré para la tensión de la oficina.",
+        attribution: "— Compra verificada en Argentina · 4.8 de rating sobre +13.000 calificaciones",
+      },
+
+      { type: "h2", title: "Electroland MA68: vibración de cobertura amplia" },
+      { type: "p", content: "Si querés cubrir toda la espalda y no solo el cuello, pero sin gastar lo de un shiatsu premium, el Electroland MA68 es el término medio. Es un asiento de 110 cm que va desde los hombros hasta los muslos, con cinco motores de vibración, calor en la zona lumbar y timer de 15, 30 o 60 minutos. Funciona en casa a 220V y en el auto a 12V, y es plegable. Ronda los $99.999, con 4.0 de rating sobre unas 145 reseñas y más de 500 vendidos." },
+      { type: "product-card", productMlaId: "MLAU274288377", label: "Cobertura amplia", labelColor: "blue" },
+      { type: "p", content: "Qué hace bien: cubre mucha superficie de una sola vez, cosa que ni el portátil ni la mayoría de los shiatsu logran. El calor lumbar es un acierto porque es donde más se acumula la rigidez de estar sentado. La opción de 60 minutos es poco común (casi todos se apagan a los 15), y poder usarlo en el auto suma para viajes largos." },
+      { type: "p", content: "Dónde se queda corto: es solo vibración, no tiene shiatsu ni presión profunda, así que no deshace contracturas duras. El control es alámbrico, no remoto. El rating de 4.0 está por debajo de los mejores del catálogo. Y un detalle de honestidad: se vende como Electroland pero el control de algunos usuarios dice Cinvedu; es el mismo aparato de origen chino con distinta marca, algo habitual en este rango." },
+
+      { type: "h2", title: "Melfit I2500: el shiatsu completo (con un asterisco)" },
+      { type: "p", content: "Es el más equipado de los tres y también el más caro, por lejos. Asiento shiatsu con seis nodos rotativos (dos para el cuello, cuatro para la espalda), calor infrarrojo, compresión de aire en los laterales, vibración en los glúteos y control remoto con selección de zona e intensidad. Trae adaptador de 12V para el auto y tiene certificación IRAM argentina. Ronda los $305.710." },
+      { type: "product-card", productMlaId: "MLA28420339", label: "Shiatsu completo", labelColor: "amber" },
+      { type: "p", content: "Qué hace bien: es lo más parecido a un sillón de masajes que vas a encontrar a este precio. Los nodos shiatsu hacen presión real, el calor infrarrojo penetra y la compresión de aire trabaja los costados de la espalda. La certificación IRAM es un respaldo de seguridad que casi ningún competidor tiene en este segmento." },
+      { type: "p", content: "El asterisco: al momento de escribir esto tiene apenas 8 calificaciones, con un rating de 3.9 que puede subir o bajar con cualquier reseña nueva. Para un producto de más de $300.000, ese historial tan corto es un riesgo. La única opinión negativa visible es por la política de devolución del vendedor, no por el funcionamiento. Y el apagado automático a los 15 minutos no se puede desactivar: si querés más, lo encendés de nuevo. Si te da seguridad comprar con muchas reseñas detrás, este todavía no la tiene." },
+      {
+        type: "callout",
+        calloutVariant: "note",
+        calloutTitle: "Cuándo conviene el caro y cuándo no",
+        content: "El Melfit tiene sentido si tenés tensión real en toda la espalda, lo vas a usar seguido y querés presión de verdad, no vibración. Si tu problema es solo el cuello, el Femmto cervical de $33.000 hace ese trabajo. Y si querés cubrir la espalda pero te alcanza con vibración relajante, el Electroland a $100.000 te ahorra más de $200.000. Más caro no es automáticamente mejor para tu caso.",
+      },
+
+      { type: "h2", title: "Cómo se siente cada uno en la práctica" },
+      { type: "p", content: "Mucha gente compra shiatsu esperando un masaje relajante y se sorprende: la presión de los nodos es fuerte, y los primeros días puede quedar una sensación parecida a la de después de un masaje de verdad. Eso es normal. Si te resulta demasiado, casi todos permiten bajar la intensidad o poner una toalla fina entre la espalda y el asiento para amortiguar. Con el tiempo el cuerpo se acostumbra." },
+      { type: "p", content: "La vibración es lo contrario: nunca molesta, pero tampoco hace ese trabajo profundo. Es ideal para apagar al final del día y aflojar la tensión general, no para deshacer un nudo concreto. Si tu expectativa es relax y no terapia, vas a estar más conforme con la vibración; si querés que algo realmente amase el músculo, el shiatsu es el único que da esa sensación." },
+      { type: "p", content: "Qué no esperar de ninguno: que cure un problema de columna. Un asiento masajeador alivia síntomas de tensión muscular, no corrige una hernia, una escoliosis ni una mala postura de fondo. Si el dolor vuelve siempre al mismo lugar y no afloja, el asiento es un parche; el que resuelve eso es un profesional." },
+
+      { type: "h2", title: "Antes de comprar un asiento masajeador" },
+      { type: "p", content: "Medí tu silla. Los asientos shiatsu tienen los nodos en posiciones fijas, y si sos muy alto o muy bajo, la zona lumbar puede quedar fuera del rango. Antes de gastar, fijate las dimensiones del respaldo (el Melfit mide 83 cm de largo) contra tu silla y tu altura." },
+      { type: "p", content: "Pensá dónde lo vas a usar. Si es para el auto, confirmá que venga con adaptador de 12V. Si es para la oficina, fijate que entre en tu silla y que el cable o control no molesten. Y revisá el apagado automático: muchos cortan a los 15 minutos sin opción de extenderlo, lo que para algunos es incómodo." },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Cuándo no usar un masajeador de espalda",
+        content: "Si tenés hernia de disco, escoliosis marcada, osteoporosis, fracturas o cualquier problema vertebral diagnosticado, no uses un masajeador sin autorización médica. La presión de los nodos shiatsu sobre la zona equivocada puede empeorar el cuadro. Lo mismo si estás embarazada o tenés problemas de circulación: consultá primero.",
+      },
+
+      { type: "h2", title: "Precios reales en Argentina (junio 2026)" },
+      {
+        type: "list",
+        items: [
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (cuello y trapecios, el más vendido)",
+          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **$99.999** (cobertura amplia, auto y casa)",
+          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **$305.710** (shiatsu completo con calor y compresión)",
+        ],
+      },
+      {
+        type: "trust-block",
+        trustVariant: "pricing",
+        content: "Precios verificados manualmente en Mercado Libre Argentina en junio 2026. En masajeadores los precios se mueven con las ofertas y las cuotas; confirmá en el link antes de comprar. Para ver vendedores y formas de pago, mirá la guía de [dónde comprar masajeadores](/guias/masajeador-donde-comprar-argentina).",
+      },
+
+      { type: "h2", title: "Por dónde seguir explorando" },
+      {
+        type: "list",
+        items: [
+          "**[Masajeador de espalda](/guias/masajeador-espalda)** — cuál sirve según dónde te duele.",
+          "**[Masajeador cervical](/guias/masajeador-cervical)** — todo sobre los portátiles de cuello.",
+          "**[Pistola masajeadora](/guias/pistola-masajeadora)** — para contracturas y recuperación deportiva.",
+          "**[Mejores masajeadores en Argentina](/guias/mejores-masajeadores-argentina)** — la comparativa general.",
+          "**[Masajeador eléctrico](/guias/masajeador-electrico)** — la guía que ordena todos los tipos.",
+        ],
+      },
+
+      { type: "verdict", content: "Para la mayoría, empezá por el Femmto cervical: resuelve el dolor más común (cuello y trapecios) por $33.000 y tiene más de 13.000 reseñas detrás. Si necesitás cubrir toda la espalda con un relax suave, el Electroland a $100.000 es el término medio honesto. El Melfit shiatsu es el más completo y el único con presión real en toda la espalda, pero su precio alto y sus pocas reseñas lo dejan solo para quien sabe que va a usar mucho un shiatsu de verdad." },
+    ],
+    faq: [
+      { question: "¿Qué es mejor para la espalda, shiatsu o vibración?", answer: "El shiatsu hace presión real con nodos que giran y trabaja mejor los nudos y contracturas. La vibración es más suave, cubre más superficie y relaja la tensión difusa, pero no deshace una contractura dura. Para nudos, shiatsu; para relax diario, vibración alcanza y cuesta menos." },
+      { question: "¿Un masajeador cervical sirve también para la espalda?", answer: "Solo para la espalda alta. Los masajeadores cervicales portátiles llegan al cuello y los trapecios, pero no a la zona media ni lumbar. Si tu dolor está abajo, vas a necesitar un asiento que cubra toda la espalda." },
+      { question: "¿Cuánto cuesta un masajeador de espalda y cuello en Argentina?", answer: "Depende del tipo. Un cervical portátil ronda los $33.000, un asiento de vibración unos $100.000, y un asiento shiatsu completo con calor y compresión puede superar los $300.000. En junio 2026 esos son los rangos de referencia." },
+      { question: "¿Los asientos masajeadores se pueden usar en el auto?", answer: "Algunos sí. El Electroland MA68 y el Melfit I2500 traen adaptador de 12V para el encendedor del auto, además del cable de 220V para casa. Antes de comprar, confirmá que el modelo incluya el adaptador de auto si lo vas a usar manejando." },
+      { question: "¿Por qué el Melfit tiene tan pocas reseñas?", answer: "Al momento de esta nota tiene 8 calificaciones en Mercado Libre Argentina, por ser un producto de baja rotación o lanzamiento reciente. Para un equipo de más de $300.000 es un historial corto: si te da seguridad comprar con muchas opiniones detrás, conviene esperar a que se acumulen más." },
+      { question: "¿Los nodos shiatsu llegan a la zona lumbar?", answer: "Depende de tu altura y de cómo quede el asiento en tu silla. Los nodos están en posiciones fijas dentro de un rango, así que si sos muy alto o muy bajo, la lumbar baja puede quedar afuera. Medí el largo del respaldo contra tu silla antes de comprar." },
+      { question: "¿Sirven si tengo una contractura fuerte?", answer: "Un asiento shiatsu ayuda con contracturas en la espalda, pero para nudos muy puntuales y profundos una pistola masajeadora suele ser más efectiva. Si la contractura no cede o duele mucho, conviene ver a un kinesiólogo antes que insistir con el aparato." },
+    ],
+    internalLinksTitle: "Relacionado",
+    internalLinks: [
+      { label: "Masajeador de espalda", href: "/guias/masajeador-espalda" },
+      { label: "Masajeador cervical", href: "/guias/masajeador-cervical" },
+      { label: "Pistola masajeadora", href: "/guias/pistola-masajeadora" },
+      { label: "Mejores masajeadores en Argentina", href: "/guias/mejores-masajeadores-argentina" },
+      { label: "Masajeador eléctrico", href: "/guias/masajeador-electrico" },
+    ],
+  },
+
+  {
+    slug: "masajeador-electrico",
+    category: "masajeadores",
+    title: "Masajeador eléctrico: tipos, usos y cuál comprar (2026)",
+    seoTitle: "Masajeador eléctrico: guía de tipos y precios en Argentina 2026",
+    metaDescription:
+      "Cervical, pistola, asiento, de pies o facial: qué masajeador eléctrico conviene según tu caso. Comparativa por tipo con precios reales de Argentina.",
+    ogTitle: "Masajeador eléctrico: cuál comprar según tu caso",
+    ogDescription:
+      "Una guía que ordena todos los tipos de masajeador eléctrico, qué hace cada uno y cuál conviene, con precios reales del mercado argentino.",
+    h1: "Masajeador eléctrico: cuál comprar según para qué lo querés",
+    publishedDate: "2026-06-08",
+    updatedDate: "2026-06-08",
+    hasDisclosure: true,
+    standfirst:
+      "Masajeador eléctrico es un cajón enorme: entran pistolas de percusión, asientos shiatsu, aparatos de cuello, de pies y faciales. Acá ordenamos los tipos, te decimos qué hace cada uno y cuál conviene según tu problema, sin venderte el más caro.",
+    intro: [
+      "Buscar masajeador eléctrico es como buscar electrodoméstico: la palabra no dice nada por sí sola. Bajo ese término conviven aparatos que cuestan $5.000 y otros que pasan los $300.000, y que sirven para cosas completamente distintas. Un masajeador de cuello no tiene nada que ver con una pistola de percusión ni con un asiento shiatsu.",
+      "El error más común y más caro es comprar por precio o por foto sin tener claro qué problema querés resolver. La gente termina con un aparato que vibra suave cuando necesitaba presión, o con una pistola potente cuando lo único que le dolía era el cuello de la oficina. Acertar el tipo importa más que acertar la marca.",
+      "Esta guía ordena los cinco tipos principales de masajeador eléctrico que se consiguen en Mercado Libre Argentina. Para cada uno te decimos qué hace, para quién sirve, qué le falta y un modelo concreto de referencia con su precio. No es un ranking de mejor a peor: es un mapa para que elijas el tipo correcto antes de mirar modelos.",
+    ],
+    quickPicks: [
+      { productMlaId: "MLA24127896", label: "Para el cuello", labelColor: "green", tagline: "Cervical portátil, el más vendido del catálogo" },
+      { productMlaId: "MLA37908577", label: "Para contracturas", labelColor: "amber", tagline: "Pistola brushless de percusión profunda" },
+      { productMlaId: "MLA23131501", label: "Para los pies", labelColor: "blue", tagline: "Shiatsu con calor y compresión, si estás mucho de pie" },
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840012-MLA108256179513_032026-F.webp", alt: "Masajeador cervical eléctrico inalámbrico Femmto con nodos shiatsu y calor", imageSize: "hero" },
+
+      { type: "h2", title: "Los cinco tipos de masajeador eléctrico" },
+      { type: "p", content: "Antes de mirar modelos, ubicá tu problema en uno de estos cinco grupos. Casi todo lo que se vende como masajeador eléctrico entra en alguno, y cada uno está pensado para una zona y una sensación distinta. Comprar el tipo correcto resuelve la mitad de la decisión." },
+      {
+        type: "table",
+        headers: ["Tipo", "Para qué zona", "Sensación", "Precio aprox."],
+        rows: [
+          ["Cervical portátil", "Cuello y trapecios", "Shiatsu + calor", "$33.000"],
+          ["Pistola de percusión", "Músculos grandes, nudos", "Percusión profunda", "$55.000"],
+          ["Asiento de espalda", "Espalda completa", "Shiatsu o vibración", "$100.000-$305.000"],
+          ["De pies", "Plantas y arcos", "Rodillos + compresión", "$48.000"],
+          ["Facial", "Cara y contorno", "Vibración suave", "$5.000-$18.000"],
+        ],
+      },
+
+      { type: "h2", title: "1. Cervical: para la tensión del cuello" },
+      { type: "p", content: "Es el tipo más buscado y, para la mayoría, el que más sirve. La tensión de cuello y trapecios de estar frente a una pantalla es el dolor más extendido, y un masajeador cervical lo ataca justo ahí. Son aparatos chicos, a batería, con nodos shiatsu y casi siempre calor. Lo usás solo, sin ayuda, en cualquier lado." },
+      { type: "p", content: "El de referencia es el Femmto cervical inalámbrico: ronda los $32.999, tiene calor de hasta 48 grados y es el masajeador más vendido del catálogo, con 4.8 de rating sobre más de 13.000 calificaciones. La limitación es clara: llega al cuello y la espalda alta, no a la zona media ni lumbar." },
+      { type: "product-card", productMlaId: "MLA24127896", label: "Para el cuello", labelColor: "green" },
+
+      { type: "h2", title: "2. Pistola: para contracturas y deporte" },
+      { type: "p", content: "Cuando el problema son nudos profundos en músculos grandes (espalda, piernas, glúteos) o recuperación después de entrenar, la pistola de percusión es lo que más rinde. Aplica presión concentrada y repetida que llega más profundo que la vibración o el shiatsu de un asiento. La contra: tenés que aplicártela vos y para la espalda media necesitás maniobrar o pedir ayuda." },
+      { type: "p", content: "El modelo de referencia es la Femmto MP, con motor brushless, seis velocidades, cuatro cabezales y sensor de presión, alrededor de $54.805 y 4.8 de rating sobre 6.679 calificaciones. La clave en este tipo es el motor: el brushless es más silencioso, dura más y mantiene la potencia. Hay un análisis completo en la guía de [pistola masajeadora](/guias/pistola-masajeadora)." },
+      { type: "product-card", productMlaId: "MLA37908577", label: "Para contracturas", labelColor: "amber" },
+      { type: "p", content: "Una variante de este grupo es el percutor de mano con cable, como el Caliber Percussion (unos $45.579), que suma calor infrarrojo y certificación argentina, aunque al ir enchufado pierde la portabilidad y la percusión seca de una pistola deportiva." },
+      { type: "product-card", productMlaId: "MLA25263767", label: "Percutor con infrarrojo", labelColor: "purple" },
+
+      { type: "h2", title: "3. Asiento: para toda la espalda" },
+      { type: "p", content: "Si el dolor abarca toda la espalda y querés algo pasivo (lo ponés en la silla y te relajás), el asiento es lo tuyo. Hay dos familias: shiatsu, con nodos que hacen presión real, y vibración, más suave y de cobertura amplia. El shiatsu trabaja mejor los nudos; la vibración relaja la tensión difusa y cuesta bastante menos." },
+      { type: "p", content: "Como vibración de cobertura amplia, el Electroland MA68 (unos $99.999) cubre 110 cm de hombros a muslos con calor lumbar. Como shiatsu completo, el Melfit I2500 (unos $305.710) suma nodos rotativos, calor infrarrojo y compresión de aire, aunque con muy pocas reseñas todavía. La comparación a fondo está en la guía de [masajeador de espalda y cuello](/guias/masajeador-espalda-cuello)." },
+      { type: "product-card", productMlaId: "MLAU274288377", label: "Vibración amplia", labelColor: "blue" },
+
+      { type: "h2", title: "4. De pies: para los que están parados todo el día" },
+      { type: "p", content: "Si trabajás muchas horas de pie o tenés los pies cansados e hinchados al final del día, un masajeador de pies hace algo que ningún otro tipo logra: combina rodillos shiatsu bajo la planta con compresión de aire que envuelve el pie, y casi siempre calor. No reemplaza a los otros tipos, ataca una zona que ellos no cubren." },
+      { type: "p", content: "El de referencia es el Suono de pies (alrededor de $47.999), con calor, compresión y rodillos, 4.5 de rating sobre casi 1.500 calificaciones. La contra general de este tipo: ocupan lugar y no son portátiles. Más opciones en la guía de [masajeador de pies](/guias/masajeador-pies)." },
+      { type: "product-card", productMlaId: "MLA23131501", label: "Para los pies", labelColor: "green" },
+
+      { type: "h2", title: "5. Facial: otra lógica completamente distinta" },
+      { type: "p", content: "Los masajeadores faciales no buscan aliviar dolor muscular sino estimular la piel: circulación, drenaje, aplicación de cremas. Son suaves por diseño y no tienen nada que ver con los anteriores. Van desde un rodillo de jade manual de unos $5.000 hasta barras electroestimulantes con vibración como la Energy Beauty Bar (cerca de $18.399)." },
+      { type: "p", content: "Si lo que buscás es cuidado de la piel y no alivio de contracturas, este es el grupo, y conviene tratarlo aparte. La guía dedicada de [masajeador facial](/guias/masajeador-facial) explica qué esperar de cada formato y qué promesas conviene tomar con pinzas." },
+      { type: "product-card", productMlaId: "MLA1841302022", label: "Facial", labelColor: "purple" },
+
+      { type: "h2", title: "Las tecnologías que vas a ver en las publicaciones" },
+      { type: "p", content: "Las fichas de Mercado Libre repiten siempre las mismas palabras y conviene saber qué significan, porque marcan la sensación real del masaje. El shiatsu son nodos que giran y hacen presión, como pulgares amasando: es lo que mejor trabaja un nudo. La percusión, en cambio, golpea hacia adentro y afuera a alta velocidad; es lo de las pistolas, y llega más profundo en músculos grandes." },
+      { type: "p", content: "La vibración es la más suave: no hace presión ni golpea, solo agita la superficie. Relaja y se siente bien, pero no deshace contracturas. Suele ser lo que traen los modelos más baratos, y por eso a veces decepciona a quien esperaba algo más fuerte." },
+      { type: "p", content: "El calor aparece de dos formas. El infrarrojo penetra más que una almohadilla térmica común y ayuda a aflojar el músculo antes o durante el masaje; es un plus real, no marketing. La compresión de aire, que ves en asientos y masajeadores de pies, infla unas bolsas que aprietan y sueltan la zona, sumando un efecto envolvente que ni el shiatsu ni la vibración dan." },
+      { type: "p", content: "Por último, la electroestimulación, que aparece sobre todo en faciales: manda microcorrientes a la piel para estimular los músculos. No tiene nada que ver con aliviar contracturas; es cuidado estético. Si ves esa palabra en una pistola o un asiento, desconfiá: está mezclando categorías." },
+
+      { type: "h2", title: "Eléctrico con batería o con cable" },
+      { type: "p", content: "Una decisión transversal a varios tipos es la alimentación. Los de batería (la mayoría de los cervicales y las pistolas) ganan en comodidad: los usás en cualquier lado, sin cable. La contra es que la potencia puede caer a medida que se descarga y, con el tiempo, la batería se gasta." },
+      { type: "p", content: "Los de cable, como el percutor Caliber o algunos asientos, entregan potencia constante todo el tiempo que los uses y no dependen de una batería que envejece. La contra obvia es que los atás a un enchufe. Si lo vas a usar siempre en el mismo lugar y por sesiones largas, el cable conviene; si querés moverlo, la batería." },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Seguridad y certificación",
+        content: "Un masajeador eléctrico va sobre el cuerpo, así que la seguridad eléctrica importa. Priorizá los que tengan certificación argentina (IRAM o un laboratorio acreditado como IQC). Y si tenés hernia de disco, problemas de circulación, marcapasos, o estás embarazada, consultá con un profesional antes de usar cualquiera de estos aparatos: la zona y la intensidad equivocadas pueden hacer daño.",
+      },
+
+      { type: "h2", title: "Cuál comprar según tu caso" },
+      {
+        type: "list",
+        items: [
+          "**Te duele el cuello de la computadora:** cervical portátil. Es lo más vendido, lo más barato y lo que más resuelve el caso común.",
+          "**Tenés contracturas duras o entrenás:** pistola de percusión con motor brushless.",
+          "**Te duele toda la espalda y querés algo pasivo:** asiento de vibración (más barato) o shiatsu (presión real, más caro).",
+          "**Estás mucho de pie:** masajeador de pies con rodillos y compresión.",
+          "**Buscás cuidado de la piel, no alivio muscular:** masajeador facial, que es otra categoría.",
+        ],
+      },
+
+      { type: "h2", title: "Precios reales en Argentina (junio 2026)" },
+      {
+        type: "list",
+        items: [
+          "[Masajeador facial rodillo de jade](https://meli.la/1rDGvYf) — **$5.399** (el más barato, cuidado de piel)",
+          "[Energy Beauty Bar facial](https://meli.la/13fYLhg) — **$18.399** (facial con vibración)",
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (cuello, el más vendido)",
+          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **$45.579** (percutor con calor)",
+          "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **$47.999** (pies con calor y compresión)",
+          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **$54.805** (contracturas, deporte)",
+          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **$99.999** (espalda completa)",
+          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **$305.710** (shiatsu premium)",
+        ],
+      },
+      {
+        type: "trust-block",
+        trustVariant: "pricing",
+        content: "Precios verificados manualmente en Mercado Libre Argentina en junio 2026. Los precios y las cuotas cambian seguido en esta categoría; confirmá en cada link antes de comprar. Para vendedores y formas de pago, mirá la guía de [dónde comprar masajeadores](/guias/masajeador-donde-comprar-argentina).",
+      },
+
+      { type: "h2", title: "Por dónde seguir explorando" },
+      {
+        type: "list",
+        items: [
+          "**[Mejores masajeadores en Argentina](/guias/mejores-masajeadores-argentina)** — la comparativa general por tipo.",
+          "**[Pistola masajeadora](/guias/pistola-masajeadora)** — para contracturas y recuperación.",
+          "**[Masajeador de espalda y cuello](/guias/masajeador-espalda-cuello)** — los asientos comparados.",
+          "**[Masajeador cervical](/guias/masajeador-cervical)** — todo sobre los portátiles de cuello.",
+          "**[Masajeador de pies](/guias/masajeador-pies)** — si estás mucho tiempo parado.",
+          "**[Masajeador facial](/guias/masajeador-facial)** — la categoría de cuidado de piel.",
+        ],
+      },
+
+      { type: "verdict", content: "No existe el mejor masajeador eléctrico: existe el correcto para tu problema. Para el dolor más común, el cuello, el cervical portátil de $33.000 gana por practicidad y precio. Para contracturas y deporte, la pistola brushless. Para toda la espalda, un asiento según cuánta presión quieras. Para los pies, uno específico. Y para la piel, un facial, que juega otro partido. Acertá el tipo primero; el modelo viene después." },
+    ],
+    faq: [
+      { question: "¿Cuál es el mejor masajeador eléctrico?", answer: "Depende de qué te duela. No hay uno mejor para todo: el cervical es el mejor para el cuello, la pistola para contracturas, el asiento para la espalda completa, el de pies para las plantas. Acertar el tipo según tu problema importa más que la marca." },
+      { question: "¿Qué masajeador eléctrico comprar si trabajo sentado todo el día?", answer: "Si la tensión es de cuello y hombros, un masajeador cervical portátil resuelve el caso por unos $33.000. Si te duele toda la espalda, un asiento de vibración o shiatsu. Muchos empiezan por el cervical porque es barato y cubre el dolor más frecuente de la oficina." },
+      { question: "¿Conviene un masajeador eléctrico a batería o con cable?", answer: "A batería es más cómodo y portátil, pero la potencia puede caer al descargarse y la batería se gasta con los años. Con cable da potencia constante para sesiones largas, atado a un enchufe. Si lo movés mucho, batería; si lo usás siempre en el mismo lugar, cable." },
+      { question: "¿Cuánto cuesta un masajeador eléctrico en Argentina?", answer: "Hay de todo: desde $5.000 un rodillo facial hasta más de $305.000 un asiento shiatsu completo. Un cervical ronda los $33.000, una pistola unos $55.000 y un masajeador de pies cerca de $48.000. Esos son los rangos de referencia a junio 2026." },
+      { question: "¿Los masajeadores eléctricos sirven para el dolor de verdad?", answer: "Alivian la tensión muscular y las contracturas leves, y se sienten bien. Pero no curan problemas de fondo: si el dolor es crónico, agudo o de causa desconocida, conviene ver a un médico o kinesiólogo en vez de insistir con el aparato." },
+      { question: "¿Es seguro usar un masajeador eléctrico todos los días?", answer: "En general sí, en sesiones cortas y sobre el músculo, no sobre huesos ni la columna. Conviene no excederse en intensidad ni tiempo. Si tenés hernia, marcapasos, problemas de circulación o estás embarazada, consultá con un profesional antes de usarlo." },
+      { question: "¿Qué diferencia hay entre un masajeador eléctrico y una pistola masajeadora?", answer: "La pistola masajeadora es un tipo de masajeador eléctrico, el de percusión profunda para músculos grandes. Masajeador eléctrico es el término general que incluye también cervicales, asientos, de pies y faciales, cada uno con otra sensación y otro uso." },
+    ],
+    internalLinksTitle: "Relacionado",
+    internalLinks: [
+      { label: "Mejores masajeadores en Argentina", href: "/guias/mejores-masajeadores-argentina" },
+      { label: "Pistola masajeadora", href: "/guias/pistola-masajeadora" },
+      { label: "Masajeador de espalda y cuello", href: "/guias/masajeador-espalda-cuello" },
+      { label: "Masajeador cervical", href: "/guias/masajeador-cervical" },
+      { label: "Masajeador de pies", href: "/guias/masajeador-pies" },
+      { label: "Masajeador facial", href: "/guias/masajeador-facial" },
+    ],
+  },
+
+  {
+    slug: "masajeador",
+    category: "masajeadores",
+    title: "Masajeador: tipos, beneficios y cuál elegir (2026)",
+    seoTitle: "Masajeador: guía de tipos, usos y cómo elegir en Argentina",
+    metaDescription:
+      "Qué tipos de masajeador hay, para qué sirve cada uno, beneficios reales y cómo elegir el tuyo sin gastar de más. La guía madre de masajeadores en Argentina.",
+    ogTitle: "Masajeador: qué tipo necesitás y cómo elegir bien",
+    ogDescription:
+      "La guía completa de masajeadores: tipos, beneficios reales, mitos, cómo elegir y cuándo no usarlos. Con precios reales del mercado argentino.",
+    h1: "Masajeador: qué tipo necesitás y cómo elegir bien",
+    publishedDate: "2026-06-08",
+    updatedDate: "2026-06-08",
+    hasDisclosure: true,
+    standfirst:
+      "Antes de comparar marcas y precios conviene entender qué tipo de masajeador necesitás, porque elegir mal el tipo es el error más caro. Esta es la guía madre: te ubica en el mapa y te manda a la guía específica de cada caso.",
+    intro: [
+      "La palabra masajeador no dice gran cosa por sí sola. Bajo ese término entran aparatos que cuestan $5.000 y otros que pasan los $300.000, y que sirven para cosas completamente distintas: aflojar el cuello, deshacer una contractura, descansar los pies o cuidar la piel de la cara. Comprar sin tener claro cuál es tu problema es la forma más rápida de tirar la plata.",
+      "El mercado argentino se llenó de opciones en los últimos años, sobre todo en Mercado Libre, donde miles de modelos compiten con fotos parecidas y promesas calcadas. La buena noticia es que casi todos entran en unos pocos grupos. Si entendés esos grupos, la decisión se vuelve simple: primero el tipo, después el modelo.",
+      "Esta guía no es un ranking ni una review. Es el mapa del nicho: qué es un masajeador, qué tipos hay, qué beneficios son reales y cuáles son marketing, cómo elegir el tuyo y cuándo conviene no usar ninguno. Para cada caso te dejamos el enlace a la guía específica, donde están los modelos concretos comparados con precios.",
+    ],
+    quickPicks: [
+      { productMlaId: "MLA24127896", label: "Para la mayoría", labelColor: "green", tagline: "Cervical portátil: ataca el dolor más común y es el más vendido" },
+      { productMlaId: "MLA37908577", label: "Para contracturas", labelColor: "amber", tagline: "Pistola de percusión, presión profunda para músculos grandes" },
+      { productMlaId: "MLAU274288377", label: "Para la espalda", labelColor: "blue", tagline: "Asiento de vibración que cubre de hombros a muslos" },
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840012-MLA108256179513_032026-F.webp", alt: "Masajeador cervical eléctrico inalámbrico apoyado sobre cuello y hombros", imageSize: "hero" },
+
+      { type: "h2", title: "Qué es un masajeador y para qué sirve" },
+      { type: "p", content: "Un masajeador es un aparato que aplica presión, vibración, golpeteo o calor sobre el cuerpo para aliviar la tensión muscular y mejorar la sensación de cansancio o rigidez. La mayoría hoy son eléctricos, aunque también hay manuales (rodillos, pelotas, gua sha). Lo que cambia entre uno y otro no es solo el precio: es la zona que tratan y la sensación que dan." },
+      { type: "p", content: "Sirve, sobre todo, para tres cosas concretas: aflojar la tensión acumulada de estar muchas horas en la misma posición, ayudar a relajar después de un día largo o de entrenar, y mejorar momentáneamente la sensación en zonas cansadas como cuello, espalda o pies. Lo que no hace es curar un problema de fondo. Un masajeador alivia síntomas; no arregla una hernia, una mala postura ni una lesión." },
+
+      { type: "h2", title: "Los tipos de masajeador, en breve" },
+      { type: "p", content: "Casi todo lo que se vende entra en estos grupos. Cada uno ataca una zona distinta y tiene su propia guía con los modelos comparados. Empezá por identificar dónde está tu molestia." },
+      {
+        type: "table",
+        headers: ["Tipo", "Para qué zona", "Sensación", "Precio aprox."],
+        rows: [
+          ["Cervical", "Cuello y trapecios", "Shiatsu + calor", "$33.000"],
+          ["De espalda / asiento", "Espalda completa", "Shiatsu o vibración", "$100.000-$305.000"],
+          ["Pistola de percusión", "Músculos grandes, nudos", "Percusión profunda", "$55.000"],
+          ["De pies", "Plantas y arcos", "Rodillos + compresión", "$48.000"],
+          ["Facial", "Cara y contorno", "Vibración suave", "$5.000-$18.000"],
+        ],
+      },
+      { type: "p", content: "El más buscado y el que a más gente le sirve es el cervical, porque la tensión de cuello de estar frente a una pantalla es el dolor más extendido. Es barato, lo usás solo y es el masajeador más vendido del catálogo: 4.8 de rating con más de 13.000 calificaciones." },
+      { type: "product-card", productMlaId: "MLA24127896", label: "El más vendido", labelColor: "green" },
+      {
+        type: "list",
+        items: [
+          "**[Masajeador cervical](/guias/masajeador-cervical)** — para la tensión de cuello y hombros, el caso más común.",
+          "**[Masajeador de espalda](/guias/masajeador-espalda)** — cuál sirve según dónde te duele.",
+          "**[Masajeador de espalda y cuello](/guias/masajeador-espalda-cuello)** — los asientos shiatsu y de vibración comparados.",
+          "**[Pistola masajeadora](/guias/pistola-masajeadora)** — para contracturas duras y recuperación deportiva.",
+          "**[Masajeador de pies](/guias/masajeador-pies)** — si estás muchas horas parado.",
+          "**[Masajeador facial](/guias/masajeador-facial)** — cuidado de la piel, que es otra categoría.",
+          "**[Masajeador eléctrico](/guias/masajeador-electrico)** — cómo funcionan las tecnologías (shiatsu, percusión, infrarrojo) y batería vs cable.",
+        ],
+      },
+
+      { type: "h2", title: "Beneficios reales y mitos" },
+      { type: "p", content: "Lo que sí hace, con respaldo: alivia la tensión muscular y la sensación de rigidez, ayuda a relajar, y mejora momentáneamente la circulación local en la zona masajeada. Para contracturas leves y tensión de oficina, funciona y se nota. Eso es real y es la razón por la que tanta gente queda conforme." },
+      { type: "p", content: "Lo que conviene tomar con pinzas: las promesas de que un masajeador adelgaza, elimina celulitis, desintoxica o reemplaza al kinesiólogo. No hay evidencia sólida de eso, y las publicaciones que lo prometen suelen estar vendiendo humo. Un masajeador es una herramienta de alivio y relax, no un tratamiento médico ni estético milagroso." },
+      { type: "p", content: "Y un punto intermedio: el calor. El infrarrojo de algunos modelos ayuda de verdad a aflojar el músculo, no es marketing. Pero el calor por sí solo no hace magia; suma cuando acompaña a la presión o la percusión, no cuando es lo único que ofrece el aparato." },
+
+      { type: "h2", title: "Cómo elegir tu primer masajeador" },
+      { type: "p", content: "Arrancá por la zona, no por el aparato. ¿Dónde te molesta? Si es el cuello, un cervical. Si es toda la espalda, un asiento. Si son nudos puntuales o entrenás, una pistola. Si son los pies, uno de pies. Acertar la zona resuelve la mitad de la decisión y te ahorra comprar algo que no usa esa parte del cuerpo." },
+      { type: "p", content: "Después definí la intensidad que buscás. La vibración es suave y relajante; el shiatsu hace presión real; la percusión es la más fuerte. Si nunca usaste uno y solo querés relajarte, no necesitás lo más potente. Si ya tenés contracturas que no ceden, andá a presión o percusión." },
+      { type: "p", content: "Por último, sé realista con el presupuesto y el uso. Si no sabés cuánto lo vas a usar, empezá por algo barato y específico (un cervical de $33.000 resuelve el caso más común) antes de gastar $300.000 en un asiento shiatsu completo. Es más fácil sumar un segundo masajeador después que justificar uno caro que terminás usando dos veces." },
+      {
+        type: "callout",
+        calloutVariant: "tip",
+        calloutTitle: "Regla rápida",
+        content: "Para la mayoría que llega buscando su primer masajeador, la combinación más sensata es un cervical para el cuello (lo más común y lo más barato) y, si hace falta más adelante, una pistola para contracturas puntuales. Con esos dos cubrís el 80% de los casos sin gastar lo de un asiento premium.",
+      },
+
+      { type: "h2", title: "Cuándo no usar un masajeador" },
+      { type: "p", content: "No todos pueden usar un masajeador a la ligera. Hay situaciones en las que la presión o la vibración pueden hacer daño en vez de aliviar, y conviene consultar antes." },
+      {
+        type: "callout",
+        calloutVariant: "warning",
+        calloutTitle: "Consultá primero si tenés",
+        content: "Hernia de disco u otros problemas de columna, osteoporosis o fracturas recientes, trombosis o problemas de coagulación, marcapasos (con masajeadores eléctricos), zonas con várices, moretones, inflamación o heridas, o embarazo. En todos esos casos, hablá con un médico o kinesiólogo antes de usar cualquier masajeador. Y nunca apliques presión fuerte ni percusión directamente sobre la columna, las articulaciones o el cuello sobre la garganta.",
+      },
+      { type: "p", content: "Una señal clara: si el dolor es agudo, no sabés de dónde viene, o vuelve siempre al mismo lugar y no afloja, el masajeador es un parche. Lo que resuelve eso es un diagnóstico profesional, no un aparato más potente." },
+
+      { type: "h2", title: "Cuánto usarlo y cada cuánto" },
+      { type: "p", content: "Más no es mejor. Como regla general, sesiones de 10 a 15 minutos por zona alcanzan, y no conviene pasar de 20. Con la mayoría de los masajeadores podés repetir una o dos veces por día, pero si la zona queda dolorida o irritada, espaciá las sesiones o bajá la intensidad. El cuerpo necesita descanso entre estímulos igual que con cualquier otra cosa." },
+      { type: "p", content: "Empezá siempre por la intensidad más baja y subí solo si lo necesitás. Una molestia leve durante el masaje puede ser normal, pero dolor fuerte no: es la señal de que estás yendo demasiado fuerte, demasiado tiempo o sobre la zona equivocada. Muchos modelos traen apagado automático a los 15 minutos justamente por esto." },
+      { type: "p", content: "Un detalle práctico que alarga la vida del aparato: si es a batería, no lo dejes descargado meses ni enchufado de forma permanente, y guardá los cabezales en su estuche para que no se ensucien ni se deformen. Los de cable, lejos de la humedad. Cuidados básicos, pero hacen la diferencia entre que dure años o se rompa al primer verano." },
+
+      { type: "h2", title: "Precios de masajeadores en Argentina (junio 2026)" },
+      {
+        type: "list",
+        items: [
+          "[Masajeador facial rodillo de jade](https://meli.la/1rDGvYf) — **$5.399** (cuidado de piel, el más barato)",
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (cuello, el más vendido)",
+          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **$45.579** (percutor de mano con calor)",
+          "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **$47.999** (pies, con calor y compresión)",
+          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **$54.805** (contracturas y deporte)",
+          "[Electroland MA68 asiento](https://meli.la/1ZW9A5Y) — **$99.999** (espalda completa, vibración)",
+          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **$305.710** (shiatsu premium con calor)",
+        ],
+      },
+      {
+        type: "trust-block",
+        trustVariant: "pricing",
+        content: "Precios verificados manualmente en Mercado Libre Argentina en junio 2026. Cambian seguido con ofertas y cuotas; confirmá en cada link antes de comprar. Para vendedores y formas de pago, mirá la guía de [dónde comprar masajeadores](/guias/masajeador-donde-comprar-argentina).",
+      },
+
+      { type: "h2", title: "Por dónde seguir" },
+      {
+        type: "list",
+        items: [
+          "**[Mejores masajeadores en Argentina](/guias/mejores-masajeadores-argentina)** — el ranking con los que valen la pena y los que no.",
+          "**[Masajeador cervical](/guias/masajeador-cervical)** — para el dolor de cuello más común.",
+          "**[Pistola masajeadora](/guias/pistola-masajeadora)** — para contracturas y recuperación.",
+          "**[Masajeador de espalda y cuello](/guias/masajeador-espalda-cuello)** — los asientos comparados.",
+          "**[Masajeador eléctrico](/guias/masajeador-electrico)** — las tecnologías y cómo funcionan.",
+        ],
+      },
+
+      { type: "verdict", content: "No existe el mejor masajeador para todos: existe el correcto para tu problema. Identificá la zona que te molesta, elegí la intensidad que buscás y empezá por algo específico antes de gastar de más. Para la mayoría, un cervical de $33.000 resuelve el dolor más frecuente; lo demás se suma según haga falta. Y si el dolor no afloja, antes que un aparato más caro, un profesional." },
+    ],
+    faq: [
+      { question: "¿Qué tipo de masajeador es el mejor?", answer: "Depende de qué te duela. No hay uno mejor para todo: el cervical es el mejor para el cuello, la pistola para contracturas, el asiento para la espalda completa y el de pies para las plantas. Acertar el tipo según tu zona importa más que la marca." },
+      { question: "¿Para qué sirve un masajeador?", answer: "Sirve para aliviar la tensión muscular, ayudar a relajar y mejorar momentáneamente la sensación en zonas cansadas como cuello, espalda o pies. No cura problemas de fondo como hernias o lesiones: alivia síntomas, no los corrige." },
+      { question: "¿Cuánto cuesta un masajeador en Argentina?", answer: "Desde unos $5.000 un rodillo facial hasta más de $305.000 un asiento shiatsu completo. Un cervical ronda los $33.000, una pistola unos $55.000 y un masajeador de pies cerca de $48.000. Esos son los rangos de referencia a junio 2026." },
+      { question: "¿Cuál es el mejor masajeador para empezar?", answer: "Para la mayoría, un masajeador cervical: ataca el dolor más común (cuello y hombros), cuesta unos $33.000, lo usás solo y es el más vendido. Si después aparecen contracturas más profundas, podés sumar una pistola." },
+      { question: "¿Los masajeadores adelgazan o eliminan celulitis?", answer: "No hay evidencia sólida de eso. Un masajeador alivia tensión y relaja, pero no es un tratamiento para bajar de peso ni para la celulitis. Desconfiá de las publicaciones que prometen esos resultados." },
+      { question: "¿Es seguro usar un masajeador todos los días?", answer: "En general sí, en sesiones cortas y sobre el músculo, no sobre huesos ni la columna. Si tenés hernia, marcapasos, problemas de circulación, várices o estás embarazada, consultá con un profesional antes de usarlo." },
+      { question: "¿Masajeador eléctrico o manual?", answer: "El eléctrico es más cómodo y constante, y cubre más tipos (cervical, pistola, asiento, pies). El manual (rodillos, pelotas, gua sha) es más barato y útil para zonas puntuales o para la cara, pero requiere que vos hagas la fuerza. Para alivio muscular real, el eléctrico rinde más." },
+      { question: "¿El calor en un masajeador sirve para algo?", answer: "Sí, el calor (sobre todo el infrarrojo) ayuda a aflojar el músculo y mejora la sensación del masaje. Pero suma cuando acompaña a la presión o la percusión; por sí solo no hace milagros." },
+    ],
+    internalLinksTitle: "Todas las guías de masajeadores",
+    internalLinks: [
+      { label: "Mejores masajeadores en Argentina", href: "/guias/mejores-masajeadores-argentina" },
+      { label: "Masajeador cervical", href: "/guias/masajeador-cervical" },
+      { label: "Masajeador de espalda", href: "/guias/masajeador-espalda" },
+      { label: "Masajeador de espalda y cuello", href: "/guias/masajeador-espalda-cuello" },
+      { label: "Pistola masajeadora", href: "/guias/pistola-masajeadora" },
+      { label: "Masajeador de pies", href: "/guias/masajeador-pies" },
+      { label: "Masajeador facial", href: "/guias/masajeador-facial" },
+      { label: "Masajeador eléctrico", href: "/guias/masajeador-electrico" },
+      { label: "Dónde comprar masajeadores", href: "/guias/masajeador-donde-comprar-argentina" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PAVAS ELÉCTRICAS FASE 3 — Programadas lunes 01/06, 08/06, 15/06, 22/06
   // ─────────────────────────────────────────────────────────
   {
