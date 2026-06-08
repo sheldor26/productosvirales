@@ -18211,9 +18211,9 @@ Base de carga, 2 cepillos laterales, control remoto, 1 paño para trapear en sec
   {
     id: 'MLA66281403',
     title: 'Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa',
-    price: 769999,
-    priceUpdated: "2026-06-07",
-    priceLastChecked: "2026-06-07",
+    price: 949657,
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: 'fresh',
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_920318-MLA107531899968_032026-F.jpg',
@@ -18231,16 +18231,139 @@ Base de carga, 2 cepillos laterales, control remoto, 1 paño para trapear en sec
     affiliateUrl: 'https://meli.la/117oW5y',
     condition: 'new',
     freeShipping: true,
+    rating: 4.8,
+    reviewCount: 51,
+    reviewsWithPhotos: 4,
     brand: 'Xiaomi',
+    line: 'Vacuum',
+    color: 'Blanco',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'XIAOMI ROBOT VACUUM S40 PRO CON BRAZOS EXTENSIBLES INTELIGENTES! El Xiaomi Robot Vacuum S40 Pro cuenta con cepillo lateral extensible y brazo de mopa extensible, que se despliegan automáticamente al detectar paredes, zócalos y esquinas, logrando una limpieza profunda y precisa donde los robots convencionales no llegan. ¡SUCCIÓN ULTRA POTENTE DE HASTA 15.000 PA! Elimina polvo fino, suciedad incrustada, migas y pelos d',
-    seoTitle: 'Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa',
-    metaDescription: 'Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa: precio, ficha y opiniones. Aspiradora robot Xiaomi en Argentina. Comprala en MercadoLibre con en',
-    ogTitle: 'Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa — ¿convie',
-    ogDescription: 'XIAOMI ROBOT VACUUM S40 PRO CON BRAZOS EXTENSIBLES INTELIGENTES! El Xiaomi Robot Vacuum S40 Pro cuenta con cepillo lateral extensible y brazo de mopa ',
-    h1: 'Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa',
-    relatedProducts: ['MLA18642318', 'MLA20033508', 'MLA61420449'],
+    description: 'El Xiaomi Robot Vacuum S40 Pro es el robot tope de gama: 15.000 Pa de succión, mapeo láser LDS y un brazo de cepillo y mopa extensibles que se despliegan en paredes, zócalos y esquinas para llegar donde los robots redondos no alcanzan. Aspira y friega a la vez con doble mopa rotatoria, y se controla por la app Xiaomi Home y por voz.',
+    aiReviewSummary: 'Ofrece una excelente relación precio-calidad y destaca por su practicidad y precisión en la limpieza. Su poder de succión es alto y el mapeo de la casa es preciso, lo que permite una limpieza eficiente sin tocar paredes ni obstáculos.',
+    seoTitle: 'Aspiradora Robot Xiaomi S40 Pro: 15.000 Pa y Mapeo Láser',
+    metaDescription: 'Aspiradora robot Xiaomi S40 Pro: 15.000 Pa, mapeo láser y brazo extensible que llega a las esquinas. Aspira y friega a la vez. 4.8★ con 51 opiniones.',
+    ogTitle: 'Xiaomi S40 Pro: el robot tope de gama con brazo extensible y 15.000 Pa',
+    ogDescription: '4.8★. Mapeo láser, 15.000 Pa, doble mopa rotatoria y un brazo que se estira para limpiar esquinas y zócalos. Analizamos si justifica el precio premium.',
+    h1: 'Aspiradora robot Xiaomi S40 Pro: 15.000 Pa, mapeo láser y brazo extensible para llegar a las esquinas',
+    pros: [
+      '4.8⭐ con 51 calificaciones: el robot mejor valorado del catálogo',
+      '15.000 Pa de succión: la más potente del catálogo, para alfombras y pelo de mascota',
+      'Brazo y cepillo extensibles: se estiran para limpiar esquinas y zócalos donde otros no llegan',
+      'Mapeo láser LDS: recorre ordenado, con habitaciones, zonas prohibidas y mapas multinivel',
+      'Aspira y friega a la vez con doble mopa rotatoria (180 RPM) que se eleva en alfombras',
+      '180 min de autonomía y control total por app Xiaomi Home y voz (Google, Alexa)',
+    ],
+    cons: [
+      'Precio premium: es el robot más caro del catálogo',
+      'Sin base de autovaciado: el depósito de polvo (430 mL) se vacía a mano',
+      '99 mm de alto: no entra bajo muebles muy bajos',
+      'La app tiene algo de curva de aprendizaje al principio (lo mencionan varias opiniones)',
+    ],
+    verdict: 'El robot tope de gama del catálogo: 15.000 Pa, mapeo láser preciso y un brazo extensible que llega a las esquinas como ninguno. Aspira y friega a la vez y deja poco para hacer a mano. Si tenés el presupuesto y querés lo mejor en limpieza, es la elección; lo único que le falta para ser total es la base de autovaciado.',
+    articleBody: `## El brazo extensible: lo que lo hace distinto
+
+El problema de casi todos los robots redondos son las esquinas y los zócalos: no llegan. El S40 Pro lo resuelve con un **cepillo lateral extensible** y un **brazo de mopa extensible** que se despliegan automáticamente cuando el robot detecta una pared o un rincón, y se retraen después. Llega a donde un robot convencional deja sucio.
+
+Es lo que más sorprende en las opiniones. Los compradores lo describen viendo cómo "saca la patita" o "el bracito" para meterse en cada esquina. En la práctica, es la diferencia entre un piso casi limpio y uno realmente limpio hasta los bordes.
+
+## 15.000 Pa y aspira + friega a la vez
+
+La succión llega a 15.000 Pa, la más alta del catálogo, con cuatro niveles: Silencioso, Estándar, Potente y Turbo/Máxima. Cuando detecta una alfombra sube la potencia sola para sacar el pelo y la suciedad incrustada.
+
+Y no solo aspira: friega al mismo tiempo con **doble mopa rotatoria a 180 RPM**, que restriega el piso en vez de arrastrar el trapo. Tiene tres niveles de caudal de agua y, al subir a una alfombra, **eleva las mopas** para no mojarla. Podés elegir entre solo aspirar, solo fregar, hacer las dos cosas a la vez, o aspirar primero y fregar después.
+
+## Mapeo láser LDS: recorre ordenado
+
+El S40 Pro usa navegación láser LDS con escaneo 360°, que arma un mapa preciso de la casa y planifica rutas eficientes sin repetir ni chocar. Soporta mapas multinivel (para casas de dos pisos), selección de habitaciones, zonas prohibidas y muros virtuales desde la app.
+
+Es lo opuesto a un robot económico sin mapeo como la [Kärcher RCV 1](/producto/MLA42103831), que se mueve al azar. Acá el recorrido es prolijo y programable, y el robot vuelve solo a la base y retoma donde dejó.
+
+## Autonomía y capacidad
+
+La batería es de 5200 mAh y da hasta 180 minutos, suficiente para casas grandes con una sola carga. El depósito de polvo es de 430 mL y el tanque de agua de 310 mL.
+
+Un punto a tener en cuenta: el S40 Pro no trae base de autovaciado. Vacía el cajón de polvo a mano. Si querés que el robot se vacíe solo durante semanas, esa función la tiene la [Samsung Jet Bot+](/producto/MLA26504431) con su estación, aunque con menos succión y sin brazo extensible.
+
+## Lo que conviene saber: precio, altura y app
+
+Tres cosas honestas. Primero, el precio: es el robot más caro del catálogo. Segundo, mide 99 mm de alto, así que no pasa por debajo de muebles muy bajos (si eso es prioridad, un robot finito de 7 cm como la Kärcher RCV 1 entra donde este no). Tercero, varias opiniones mencionan que la app Xiaomi Home tiene algo de curva al principio, aunque después es muy completa. Un par de compradores notaron que las mopas no siempre apoyan parejo en el piso.
+
+## En qué se diferencia de los otros robots del catálogo
+
+Dentro de Xiaomi, el [X20 Pro](/producto/MLA44240016) es la alternativa de la línea superior. Frente a la [Samsung Jet Bot+](/producto/MLA26504431), el S40 Pro gana en succión (15.000 vs 5.000 Pa), suma trapeado y el brazo extensible, pero la Samsung tiene la base de autovaciado que el Xiaomi no. Y contra los robots económicos del catálogo, juega en otra liga: mapeo, fregado real y potencia. El S40 Pro se elige cuando querés lo mejor en limpieza y no te pesa el precio.
+
+## Qué incluye la caja
+
+Robot Xiaomi S40 Pro, base de carga, depósito de polvo, tanque de agua, mopas rotatorias, cepillo lateral, cable de alimentación y manual de usuario.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Xiaomi / Robot Vacuum S40 Pro (OV71GL)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador' },
+      { label: 'Succión', value: '15.000 Pa (15 kPa) · 4 niveles' },
+      { label: 'Potencia', value: '160 W' },
+      { label: 'Navegación', value: 'Láser LDS con escaneo 360° · mapas multinivel' },
+      { label: 'Funciones inteligentes', value: 'Selección de habitaciones, zonas prohibidas, muros virtuales' },
+      { label: 'Brazo extensible', value: 'Cepillo lateral + mopa extensibles (llegan a esquinas y zócalos)' },
+      { label: 'Fregado', value: 'Doble mopa rotatoria a 180 RPM · 3 caudales · se eleva en alfombras' },
+      { label: 'Modos de limpieza', value: 'Aspirar / fregar / simultáneo / aspirar y luego fregar' },
+      { label: 'Depósito de polvo', value: '430 mL' },
+      { label: 'Tanque de agua', value: '310 mL' },
+      { label: 'Base de autovaciado', value: 'No' },
+      { label: 'Control', value: 'App Xiaomi Home (WiFi) + voz (Google, Alexa)' },
+      { label: 'Sensores', value: 'Obstáculo + anticaídas' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: '5200 mAh · hasta 180 min · retorno y reanudación' },
+      { label: 'Altura / supera obstáculos', value: '99 mm / hasta 20 mm' },
+      { label: 'Color', value: 'Blanco' },
+    ],
+    faq: [
+      { question: '¿Qué es el brazo extensible de la Xiaomi S40 Pro?', answer: 'Es un cepillo lateral y un brazo de mopa que se despliegan automáticamente cuando el robot detecta una pared, un zócalo o una esquina, y se retraen después. Sirve para limpiar los rincones y bordes donde un robot redondo común no llega. Es la función que más destacan las opiniones.' },
+      { question: '¿Cuánta succión tiene?', answer: '15.000 Pa, la más potente del catálogo, con cuatro niveles (Silencioso, Estándar, Potente y Turbo/Máxima). Cuando detecta una alfombra sube la potencia sola para sacar mejor el pelo y la suciedad incrustada.' },
+      { question: '¿Mapea la casa?', answer: 'Sí, con navegación láser LDS y escaneo 360°. Arma un mapa preciso, recorre ordenado sin repetir, y desde la app podés elegir habitaciones, marcar zonas prohibidas y muros virtuales. Soporta mapas multinivel para casas de dos pisos.' },
+      { question: '¿Aspira y trapea a la vez?', answer: 'Sí. Friega con doble mopa rotatoria a 180 RPM (restriega, no arrastra), con tres niveles de caudal de agua, y eleva las mopas al subir a una alfombra para no mojarla. Podés usar solo aspirar, solo fregar, las dos a la vez o aspirar primero y fregar después.' },
+      { question: '¿Tiene base de autovaciado?', answer: 'No. El S40 Pro vuelve solo a cargar pero el depósito de polvo (430 mL) se vacía a mano. Si buscás un robot que se vacíe solo durante semanas, esa función la tiene la Samsung Jet Bot+ con su estación de autovaciado, aunque con menos succión y sin brazo extensible.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Mide 99 mm (9,9 cm) de alto por el sensor láser de la tapa, así que entra bajo muebles de altura normal pero no bajo los muy bajos. Si tu prioridad es limpiar bajo camas o sillones muy bajos, un robot finito de 7 cm pasa donde este no.' },
+      { question: '¿Sirve para alfombras y pelo de mascota?', answer: 'Sí. Detecta la alfombra, sube la succión automáticamente y eleva las mopas para no mojarla. Con 15.000 Pa es de lo mejor del catálogo para pelo de mascota y suciedad incrustada en alfombras y tapetes.' },
+      { question: '¿Qué incluye la caja?', answer: 'El robot Xiaomi S40 Pro, la base de carga, el depósito de polvo, el tanque de agua, las mopas rotatorias, el cepillo lateral, el cable de alimentación y el manual de usuario.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Es una máquina muy precisa, fácil de limpiar y mantener, y un poder de succión muy alto. Mi casa es grande y con mascotas, y la deja todos los días impecable. Excelente relación precio calidad.', useful: 2 },
+      { rating: 5, country: 'Argentina', text: 'El sensor LiDAR mapea muy bien los ambientes, al punto de no tocar ni paredes ni obstáculos. Sobrepasa zócalos entre ambientes sin ningún problema, en mi caso de baldosas a pisos flotantes con zócalo de mármol y aluminio. Con gran precisión regresa solo a la base de carga.', useful: 2 },
+      { rating: 5, country: 'Argentina', text: 'Esta aspiradora es una bestia de la limpieza. Al tener ese súper bracito que saca para llegar a los rincones es una pasada, y ni hablar cuando pasa la mopa: ver cómo saca la patita para llegar hasta lo más recóndito de las esquinas es una maravilla. 100% recomendable.', useful: 0 },
+      { rating: 5, country: 'Argentina', text: 'Tengo una Roomba también y esta creo que limpia más y mejora funciones en la app. La volvería a comprar sin duda.', useful: 0 },
+      { rating: 5, country: 'Argentina', text: 'Buenísimo. Aspira en varias intensidades, llega a los rincones, el mapeo de la casa es excelente y el mantenimiento es fácil. La app para manejarlo es muy buena. Lo único malo: no levanta el cepillo cuando mopea. Recomendado.', useful: 0 },
+      { rating: 3, country: 'Argentina', text: 'No limpia muy bien el suelo, por lo menos en mi caso las mopas no quedaban bien apoyadas al piso. El resto, todo perfecto.', useful: 1 },
+      { rating: 2, country: 'Argentina', text: 'Precio/calidad, no vale tanto la pena.', useful: 0 },
+    ],
+    relatedProducts: ['MLA44240016', 'MLA26504431', 'MLA61420449'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Xiaomi Robot Vacuum S40 Pro',
+      description: 'Aspiradora robot y trapeador Xiaomi Robot Vacuum S40 Pro con 15.000 Pa de succión, navegación láser LDS con mapeo multinivel, cepillo y mopa extensibles, doble mopa rotatoria a 180 RPM, app Xiaomi Home, control por voz, batería de 5200 mAh y hasta 180 minutos de autonomía.',
+      brand: { '@type': 'Brand', name: 'Xiaomi' },
+      model: 'S40 Pro (OV71GL)',
+      sku: 'MLA66281403',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_920318-MLA107531899968_032026-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA66281403',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '949657',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/117oW5y',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '51',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
   },
   {
     id: 'MLA44240016',
