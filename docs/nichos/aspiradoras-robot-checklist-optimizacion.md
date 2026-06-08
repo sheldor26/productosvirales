@@ -7,9 +7,9 @@
 > customerReviews reales, humanizer) → verificar (lint + parseo + links) → commit.
 > Detalle del método y estrategia: `docs/nichos/aspiradoras-robot-seo-ubersuggest.md`.
 
-## Estado: 6 / 18 completas
+## Estado: 7 / 18 completas
 
-### ✅ Ya optimizadas (6)
+### ✅ Ya optimizadas (7)
 
 | # | Producto | ID | Marca |
 | --- | --- | --- | --- |
@@ -19,6 +19,7 @@
 | ✅ | Gadnic AspiRob 3 Modos | MLA42045783 | Gadnic |
 | ✅ | Xiaomi S40 Pro 15000 Pa | MLA66281403 | Xiaomi |
 | ✅ | Xiaomi S40c E101 | MLA61420449 | Xiaomi |
+| ✅ | Xiaomi X20 Pro D102GL | MLA44240016 | Xiaomi |
 
 ### ⬜ Pendientes (14) — en orden de prioridad (ROI por Ubersuggest)
 
@@ -28,8 +29,8 @@
 | --- | --- | --- | --- |
 | 1 | Xiaomi Robot Vacuum S40 Pro 15000 Pa | MLA66281403 | ✅ |
 | 2 | Xiaomi Robot Vacuum S40c E101 | MLA61420449 | ✅ |
-| 3 | Xiaomi Robot Vacuum X20 Pro D102GL | MLA44240016 | ⬜ ← SIGUIENTE |
-| 4 | Xiaomi Vacuum X20 Max | MLA44235159 | ⬜ |
+| 3 | Xiaomi Robot Vacuum X20 Pro D102GL | MLA44240016 | ✅ |
+| 4 | Xiaomi Vacuum X20 Max | MLA44235159 | ⬜ ← SIGUIENTE |
 | 5 | Xiaomi Vacuum S20 negra | MLA44714806 | ⬜ |
 
 **Tier 2 — Atma** (`aspiradora robot atma` 1.000/mes, dificultad 13)

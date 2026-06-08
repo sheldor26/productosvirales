@@ -18457,9 +18457,9 @@ Robot Xiaomi S40 Pro, base de carga, depósito de polvo, tanque de agua, mopas r
   {
     id: 'MLA44240016',
     title: 'Aspiradora Xiaomi Robot Vacuum X20 Pro D102GL Color Blanco',
-    price: 1285465,
-    priceUpdated: "2026-06-07",
-    priceLastChecked: "2026-06-07",
+    price: 1314999,
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: 'fresh',
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_868948-MLA99945011905_112025-F.jpg',
@@ -18477,16 +18477,135 @@ Robot Xiaomi S40 Pro, base de carga, depósito de polvo, tanque de agua, mopas r
     affiliateUrl: 'https://meli.la/2ViGUz3',
     condition: 'new',
     freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1688,
+    reviewsWithPhotos: 4,
     brand: 'Xiaomi',
+    line: 'Vacuum',
+    color: 'Blanco',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'Tener un robot aspirador te ahorrará tiempo y esfuerzo. Es la solución para que tu casa se limpie con más frecuencia y puedas mantener los ambientes siempre impecables. El Xiaomi Xiaomi Robot Vacuum X20 Pro hará la tarea por ti. Totalmente autónomo Cuenta con un detector de obstáculos que te permite hacer tu trabajo de forma precisa y sin interrupciones. Por este motivo, ningún objeto será un problema para llevar a c',
-    seoTitle: 'Aspiradora Xiaomi Robot Vacuum X20 Pro D102GL Color Blanco',
-    metaDescription: 'Aspiradora Xiaomi Robot Vacuum X20 Pro D102GL Color Blanco: precio, ficha y opiniones. Aspiradora robot Xiaomi en Argentina. Comprala en MercadoLibre con enví',
-    ogTitle: 'Aspiradora Xiaomi Robot Vacuum X20 Pro D102GL Color Blanco — ¿conviene',
-    ogDescription: 'Tener un robot aspirador te ahorrará tiempo y esfuerzo. Es la solución para que tu casa se limpie con más frecuencia y puedas mantener los ambientes s',
-    h1: 'Aspiradora Xiaomi Robot Vacuum X20 Pro D102GL Color Blanco',
-    relatedProducts: ['MLA18642318', 'MLA20033508', 'MLA61420449'],
+    aiReviewSummary: 'Ofrece una excelente relación calidad-precio y es altamente recomendable. Es fácil de usar e instalar, y su aplicación permite programar múltiples opciones de limpieza, ideal para mantener los pisos limpios incluso en hogares con mascotas. Además, su capacidad para aspirar y trapear deja los pisos impecables.',
+    seoTitle: 'Aspiradora Robot Xiaomi X20 Pro: Autovaciado y Lava Mopas',
+    metaDescription: 'Aspiradora robot Xiaomi X20 Pro: estación que se vacía sola, lava y seca las mopas. 7000 Pa, mapeo y app. 4.8★ con 1.688 opiniones en MercadoLibre.',
+    ogTitle: 'Xiaomi X20 Pro: el robot con estación que se vacía y lava las mopas solo',
+    ogDescription: '4.8★ con 1.688 opiniones. Estación todo-en-uno: autovaciado, lavado y secado de mopas con aire caliente. 7000 Pa y mapeo. Analizamos si vale el precio.',
+    h1: 'Aspiradora robot Xiaomi X20 Pro: estación que se vacía sola y lava las mopas, el Xiaomi que casi no tocás',
+    pros: [
+      '4.8⭐ con 1.688 calificaciones: uno de los robots más vendidos y mejor valorados del catálogo',
+      'Estación todo-en-uno: se vacía sola a una bolsa y lava y seca las mopas con aire caliente',
+      'Doble mopa rotatoria que restriega de verdad (no arrastra el trapo): deja el piso impecable',
+      '7000 Pa y detección de alfombra: muy bueno para pelo de mascota',
+      'Mapeo preciso y app completa: programás, elegís zonas y la dejás sola',
+      'Hasta 3 h de autonomía y depósito de agua grande: poco mantenimiento',
+    ],
+    cons: [
+      'Viene con enchufe extranjero: hay que comprar un adaptador para Argentina (lo dicen muchas opiniones)',
+      'La estación es grande y ocupa espacio; el robot es alto y no entra bajo muebles muy bajos',
+      'Sin brazo extensible: no llega del todo a las esquinas (eso lo tiene el X20 Max)',
+      'Precio premium y repuestos (mopas, bolsas) caros y difíciles de conseguir; el pelo se enreda en el rodillo',
+    ],
+    verdict: 'El Xiaomi que se limpia solo: su estación todo-en-uno vacía el polvo y lava y seca las mopas, así que casi no lo tocás. Aspira y trapea muy bien con mapeo preciso. Lo único: viene con enchufe extranjero (sumá adaptador) y no llega del todo a las esquinas. Para quien quiere el máximo de automatización sin pasar a la gama tope, es una compra que las opiniones validan fuerte.',
+    articleBody: `## La estación todo-en-uno: por qué casi no lo tocás
+
+Esta es la función que define al X20 Pro. Cuando termina, el robot vuelve a su estación base, que hace tres cosas sola: **vacía el polvo** del robot a una bolsa, **lava las mopas** y las **seca con aire caliente** para que no queden húmedas ni con olor. En la práctica, tu único trabajo es rellenar el agua limpia y vaciar la sucia cada tres o cuatro limpiezas, y cambiar la bolsa cada varias semanas.
+
+Es lo que más enamora en las opiniones: "se limpia solo", "lava las mopas", "no pagás cargas sociales". Si lo que buscás es un robot que casi no requiera atención, este formato es el salto grande frente a un robot que vaciás a mano como el [Xiaomi S40 Pro](/producto/MLA66281403).
+
+## Aspira y trapea con doble mopa rotatoria
+
+Aspira con 7000 Pa (con modo Normal y Turbo) y trapea con **doble mopa rotatoria** que restriega el piso en vez de arrastrar un trapo, con niveles de agua regulables. Detecta la alfombra y ajusta la limpieza. Los compradores destacan que las mopas giratorias "realmente limpian" y dejan el porcelanato sin marcas.
+
+Como todo robot, es para mantenimiento: deja el piso muy bien en el día a día, pero no reemplaza una limpieza profunda de vez en cuando.
+
+## Mapeo y app: la dejás programada
+
+Hace un mapeo preciso de la casa y lo mejora con el uso. Desde la app elegís habitaciones, marcás zonas prohibidas y guardás varios mapas (útil si subís la estación a otro piso). Programás horarios y la dejás trabajando mientras no estás. Aviso honesto: algunas opiniones mencionan que de vez en cuando pierde la ubicación o se le desconfigura el mapa, y hay que rehacerlo o reiniciar.
+
+## El detalle del enchufe (importante)
+
+Un punto que repiten muchísimas opiniones: el X20 Pro suele venir con un **enchufe de otro país** (formato chino o brasileño), que no entra en el tomacorriente argentino. Se resuelve fácil con un adaptador, pero conviene tenerlo a mano desde el día uno para poder usarlo apenas llega.
+
+## Lo que conviene saber: esquinas, altura y repuestos
+
+Tres cosas honestas. No tiene brazo extensible, así que no llega del todo a las esquinas y los zócalos (esa función la suma el X20 Max). La estación es grande y ocupa lugar, y el robot es alto y ancho, por lo que no pasa por debajo de muebles muy bajos. Y los repuestos (mopas, bolsas de polvo) son caros y a veces difíciles de conseguir; además, con mascotas el pelo se enreda en el rodillo y hay que limpiarlo cada tanto.
+
+## En qué se diferencia de los otros Xiaomi del catálogo
+
+Dentro de Xiaomi, el X20 Pro es el de la **estación que se limpia sola**. El [S40 Pro](/producto/MLA66281403) tiene más succión (15.000 Pa) y brazo y mopa extensibles para las esquinas, pero no trae autovaciado ni lavado de mopas. El [X20 Max](/producto/MLA44235159) es el tope: suma el brazo extensible a la estación todo-en-uno. Y el [S40c](/producto/MLA61420449) es la opción con mapeo más accesible, sin estación. El X20 Pro se elige cuando lo que más te importa es no tener que vaciar ni lavar nada a mano.
+
+## Para quién es
+
+Ideal para gente ocupada, hogares con mascotas y quien quiere el máximo de automatización sin pagar la gama tope. Si valorás que el robot se vacíe y lave las mopas solo, y no te molesta que la estación ocupe espacio, es de las compras más recomendadas del catálogo.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Xiaomi / Robot Vacuum X20 Pro (D102GL)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador con estación todo-en-uno' },
+      { label: 'Succión', value: '7000 Pa (7 kPa) · modos Normal y Turbo' },
+      { label: 'Potencia', value: '220 W' },
+      { label: 'Navegación', value: 'Mapeo láser + sensores de obstáculo' },
+      { label: 'Estación base', value: 'Autovaciado a bolsa + lavado y secado de mopas con aire caliente' },
+      { label: 'Fregado', value: 'Doble mopa rotatoria · niveles de agua regulables' },
+      { label: 'Modos de limpieza', value: 'Auto, aspirado, barrido, trapeo' },
+      { label: 'Filtro', value: 'HEPA (hasta 99,99% de filtración)' },
+      { label: 'Sensores', value: 'Obstáculo + anticaídas' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: 'Hasta 3 h · retorno automático a la base' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Enchufe', value: 'Extranjero (requiere adaptador en Argentina)' },
+      { label: 'Color / Voltaje', value: 'Blanco / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Xiaomi X20 Pro se vacía y lava las mopas sola?', answer: 'Sí. Al terminar vuelve a la estación todo-en-uno, que vacía el polvo del robot a una bolsa, lava las mopas y las seca con aire caliente. Tu único trabajo es rellenar el agua limpia y vaciar la sucia cada 3 o 4 limpiezas, y cambiar la bolsa cada varias semanas.' },
+      { question: '¿Aspira y trapea bien?', answer: 'Sí. Aspira con 7000 Pa (Normal y Turbo) y trapea con doble mopa rotatoria que restriega el piso, con niveles de agua regulables. Las opiniones destacan que las mopas giratorias realmente limpian y dejan el porcelanato sin marcas. Es para mantenimiento diario, no reemplaza una limpieza profunda ocasional.' },
+      { question: '¿Mapea la casa?', answer: 'Sí, hace un mapeo preciso que mejora con el uso. Desde la app elegís habitaciones, marcás zonas prohibidas y guardás varios mapas (útil para dos pisos). Algunas opiniones mencionan que de vez en cuando pierde la ubicación o se desconfigura el mapa y hay que rehacerlo.' },
+      { question: '¿Viene con enchufe argentino?', answer: 'No siempre. Muchas opiniones avisan que el X20 Pro suele venir con un enchufe de otro país (chino o brasileño) que no entra en el tomacorriente argentino. Se resuelve con un adaptador, pero conviene tenerlo listo desde el día uno.' },
+      { question: '¿Llega a las esquinas?', answer: 'No del todo. No tiene brazo extensible, así que las esquinas y los zócalos no quedan perfectos. Si eso es prioridad, el X20 Max suma un brazo extensible. Para el resto del piso, limpia muy bien.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Solo bajo los más altos. El robot es alto y ancho, y la estación ocupa espacio, así que no pasa por debajo de camas ni sillones muy bajos. Conviene medir el espacio libre antes de comprar.' },
+      { question: '¿En qué se diferencia del S40 Pro y del X20 Max?', answer: 'El X20 Pro tiene la estación que se vacía y lava las mopas sola, pero 7000 Pa y sin brazo extensible. El S40 Pro tiene más succión (15.000 Pa) y brazo extensible, pero no trae autovaciado. El X20 Max es el tope: combina el brazo extensible con la estación todo-en-uno.' },
+      { question: '¿Para quién es ideal?', answer: 'Para gente ocupada, hogares con mascotas y quien quiere el máximo de automatización sin pagar la gama tope. Si valorás que el robot se vacíe y lave las mopas solo, es de las compras más recomendadas del catálogo.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Mapea la casa, evita obstáculos gracias a los sensores y pasa la mopa porque es giratoria. Vuelve a la base, se limpia solo y tiene opciones de limpieza de la mopa y tiempo de uso. Si dejás la casa sin obstáculos, limpia mejor. Estoy enamorada de este aspirador, vale cada centavo.', useful: 88 },
+      { rating: 5, country: 'Brasil', text: 'Lo recomiendo mucho. Los puntos negativos son pocos: la limpieza en las esquinas no es perfecta por el alcance limitado de los brazos, y los cabellos terminan enredándose en la parte inferior. Para eso compré un accesorio para cortar pelos, y así evité comprar el modelo más caro, el X20 Max. Vale cada centavo.', useful: 71 },
+      { rating: 4, country: 'Argentina', text: 'Por ahora ningún problema, pero le falta para 5 estrellas: debería tener opción de limpiar varias veces una zona y un brazo extensor para la mopa como la versión Max. La navegación es excelente, no se traba. Afuera del país está muchísimo más barata, acá es excesivo lo que se paga.', useful: 32 },
+      { rating: 5, country: 'Argentina', text: 'Funciona perfecto. Único detalle: viene con un enchufe distinto de fábrica, que en general no es apto para Argentina. Hay que salir a comprar aparte el adaptador o la toma.', useful: 23 },
+      { rating: 4, country: 'Argentina', text: 'Tengo un amor-odio. Limpia bastante bien, pero las bolas de pelo grandes las esquiva como si fueran objetos (tenemos 3 gatos). Cuando vuelve a la base para limpiar las mopas a veces le erra y da vueltas hasta enganchar, o se pierde y hay que ir a buscarla. Cada tanto modifica el mapa solo. Es alta y ancha, no pasa entre las sillas ni bajo la cama. Igual la queremos, ayuda bastante.', useful: 24 },
+      { rating: 5, country: 'Argentina', text: 'Es la primera con función de mopeo y el resultado sobre porcelanato es excelente. Mapea permanentemente y se actualiza si movés un mueble. Con una sola carga consume aproximadamente 50% de la batería en 120 m2. Cada 3 o 4 limpiezas hay que rellenar el agua limpia y vaciar la sucia. Con 4 hijos, un perro y un gato, fue la solución definitiva.', useful: 17 },
+      { rating: 5, country: 'Argentina', text: 'Hay que hacerle mantenimiento cada tanto: limpiar el rodillo, la base donde lava las mopas, recargar el tanque y limpiar el de agua sucia. La calidad es muy buena y la app está bien. Las mopas limpian bien y la cantidad de agua es la correcta. En 25 minutos limpia un depto de 50 m2.', useful: 10 },
+      { rating: 4, country: 'Argentina', text: 'Lo uso hace una semana. No le pongo 5 estrellas por precio/calidad porque los repuestos son difíciles de conseguir y muy caros, y las bolsas también; de hecho las compré en China con una diferencia de precio muy grande.', useful: 4 },
+    ],
+    relatedProducts: ['MLA44235159', 'MLA66281403', 'MLA61420449'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Xiaomi Robot Vacuum X20 Pro',
+      description: 'Aspiradora robot y trapeador Xiaomi Robot Vacuum X20 Pro con estación todo-en-uno (autovaciado a bolsa y lavado y secado de mopas con aire caliente), 7000 Pa de succión, doble mopa rotatoria, mapeo láser, app Xiaomi Home, filtro HEPA y hasta 3 horas de autonomía.',
+      brand: { '@type': 'Brand', name: 'Xiaomi' },
+      model: 'X20 Pro (D102GL)',
+      sku: 'MLA44240016',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_868948-MLA99945011905_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA44240016',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '1314999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2ViGUz3',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '1688',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    bestOccasion: ['Máxima automatización (se vacía y lava las mopas solo)', 'Gente ocupada y hogares con mascotas', 'Quien no quiere vaciar ni lavar nada a mano'],
+    notRecommendedFor: ['Limpieza profunda', 'Espacios chicos donde la estación no entra', 'Quien necesita llegar perfecto a las esquinas (mejor el X20 Max)'],
+    description: 'La aspiradora robot Xiaomi X20 Pro trae una estación todo-en-uno que se vacía sola y lava y seca las mopas con aire caliente, así que casi no la tocás. Aspira con 7000 Pa y trapea con doble mopa rotatoria, con mapeo preciso y control por app. Pensada para el máximo de automatización en el mantenimiento diario, sobre todo en hogares con mascotas.',
   },
   {
     id: 'MLA44714806',
