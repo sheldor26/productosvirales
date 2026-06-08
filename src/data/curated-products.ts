@@ -6969,41 +6969,151 @@ Robot Gadnic AspiRob, adaptador, estación de carga, 2 cepillos laterales, trape
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 1388,
+    reviewCount: 1393,
+    reviewsWithPhotos: 4,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     brand: "Fika",
-    seoTitle: "Fika SENSE: review aspiradora robot con app WiFi",
-    metaDescription: "Análisis del Fika SENSE Aspiradora y Trapeadora Robot: navegación con sensores, app WiFi, autoreturn a base. Sub-$150K en MercadoLibre Argentina.",
-    ogTitle: "Fika SENSE — el robot Fika con app y sensores antichoque",
-    ogDescription: "Aspirado + trapeado, navegación con múltiples sensores antichoque, app WiFi y autoreturn. Marca local en alza. Sub-$150K.",
-    h1: "Fika SENSE: el robot con app que cuida los muebles",
-    specs: [
-      { label: "Marca", value: "Fika" },
-      { label: "Modelo", value: "SENSE" },
-      { label: "Tipo de navegación", value: "Sensores antichoque + autoreturn (sin LIDAR)" },
-      { label: "Funciones", value: "Aspirado + trapeado" },
-      { label: "Control", value: "App WiFi + mando físico" },
-      { label: "Color", value: "Negro" },
-    ],
+    line: 'SENSE',
+    color: 'Negro',
+    aiReviewSummary: 'Es un producto muy bueno y útil, que destaca por mantener los ambientes limpios de forma eficiente. Es silenciosa, tiene buena duración de batería y es especialmente eficaz para recoger pelos de mascotas, ideal para pisos cerámicos y flotantes. La crítica honesta más repetida: no mapea, navega al azar y la mopa de plástico es de calidad floja.',
+    seoTitle: "Aspiradora Robot Fika SENSE 2 en 1: ¿la más barata sirve?",
+    metaDescription: "Fika SENSE 2 en 1: la aspiradora robot más barata para empezar. Aspira y trapea, ideal para pelo de mascota. 4.6★ con 1.393 opiniones. Análisis honesto.",
+    ogTitle: "Fika SENSE: la aspiradora robot 2 en 1 más barata, ¿conviene?",
+    ogDescription: "4.6★ con 1.393 opiniones y +1.000 vendidas. La 2 en 1 de entrada para pelo de mascota. Ojo: navega al azar, no mapea y la succión es baja. Analizamos para quién rinde.",
+    h1: "Aspiradora Robot Fika SENSE 2 en 1: la más barata para empezar, ideal para pelo de mascota (pero navega al azar)",
     pros: [
-      "Sensores antichoque — menos golpes contra muebles que un random pure",
-      "App + mando físico — control redundante",
-      "Autoreturn a base — no quedás cargándolo manualmente",
-      "Descuento del 40% sobre precio de lista",
-      "Rating 4.6 con +1.000 vendidos",
+      "4.6⭐ con 1.393 calificaciones y +1.000 vendidas: una de las 2 en 1 más populares y baratas",
+      "Muy buena con pelo de mascota: lo que más destacan dueños de perros y gatos",
+      "Precio de entrada: de las aspiradoras robot 2 en 1 más accesibles del catálogo",
+      "Silenciosa: la podés dejar trabajando de noche o mientras hacés otra cosa",
+      "Ultra slim (7,8 cm): entra bajo camas y sillones; apta alfombras + filtro HEPA",
+      "Depósito de polvo grande (370 mL), vuelve sola a la base y trae control remoto + app + voz (Alexa, Google)",
     ],
     cons: [
-      "Sin mapeo láser — navegación basada en sensores tiene cobertura menos precisa",
-      "Marca Fika tiene menos años en Argentina que Gadnic o Atma — comunidad de reviews más chica",
-      "Sin envío gratis",
-      "Para alfombras gruesas o pelo de mascota grande, la succión sin LIDAR puede quedar corta",
+      "Navega al azar (sin giroscopio ni mapa): pasa varias veces por el mismo lugar, deja zonas y le cuesta volver a la base si está en otra habitación",
+      "Succión baja (600 Pa): rinde para polvo y pelo, no para suciedad pesada ni limpieza profunda",
+      "Trapeado leve y mopa de plástico de calidad floja: a varios se les rompió el enganche; tanque de agua chico (130 mL), hay que recargar seguido",
+      "Batería real más corta que la declarada (~1 h) y se descarga sola aunque esté apagada si la desenchufás",
+      "App genérica Tuya: a algunos les cuesta vincularla y no trae kit de repuestos extra",
     ],
-    verdict: "Si te gustan las marcas alternativas y querés un robot con app + sensores antichoque a precio mid-low, el Fika SENSE cumple. Posicionamiento similar al Midow pero con descuento más agresivo. Para departamento mediano sin mascota, rinde — para casa grande, mejor escalar a Gadnic con mapeo láser.",
-    bestOccasion: ["Departamentos medianos", "Primer robot con app", "Quien quiere alternativa a Gadnic"],
-    notRecommendedFor: ["Casas grandes (>80 m²)", "Mascota grande", "Quien valora marca con largo historial"],
-    relatedProducts: ["MLA48378491", "MLA45951645"],
-    description: 'La Aspiradora Trapeadora Robot FIKA SENSE fue pensada para integrarse a tu rutina y dejar tus pisos impecables con el mínimo esfuerzo. Con navegación inteligente basada en múltiples sensores y control vía APP o mando, realiza una limpieza eficiente y vuelve sola a su base cuando necesita recargar.  ',
+    verdict: "La aspiradora robot 2 en 1 más barata para entrar al mundo de los robots, ideal para mantener un departamento chico o mediano sin pelo de mascota gastando lo mínimo. No es para casas grandes, limpieza profunda ni para quien quiere recorrido ordenado: navega al azar y no guarda mapa.",
+    bestOccasion: ["Primer robot a bajo costo", "Departamentos chicos y medianos con mascotas", "Mantenimiento diario de pisos duros y alfombras bajas"],
+    notRecommendedFor: ["Casas grandes (área máxima 80 m²)", "Limpieza profunda o sacar manchas pegadas", "Quien quiere mapeo o recorrido ordenado (mejor un giroscópico o LiDAR)"],
+    articleBody: `## La aspiradora robot 2 en 1 más barata para empezar
+
+La Fika SENSE es la puerta de entrada al mundo de los robots: +1.000 vendidas y 4.6 estrellas con 1.393 calificaciones, a uno de los precios más bajos del catálogo. Es el modelo más básico y económico de Fika, pensado para quien nunca tuvo una y quiere probar sin arriesgar mucha plata. Las opiniones lo dicen tal cual: "es lo más barato del mercado, así que si querés algo más piola hay que ir a otra gama", "por el precio 100% recomendable", "me cambió el día a día".
+
+No esperes magia: es un robot de mantenimiento. Hace bien lo que promete (mantener el piso sin pelos ni polvo) y nada más que eso.
+
+## Muy buena con pelo de mascota
+
+Es su caso de uso estrella y aparece en cientos de reseñas: gente con dos pug, cuatro gatos, perros de pelo largo, todos coinciden en que junta el pelo de mascota muy bien. "Mi casa estaba siempre con pelos de perro y era un asco; ahora está impecable". Tiene filtro HEPA (retiene polvo fino y alérgenos) y un depósito de polvo grande de 370 mL, de los más amplios de su rango, aunque con mucho pelo igual conviene vaciarlo seguido y sacar los pelos enredados en los cepillos.
+
+Si querés una Fika que además aspire más fuerte y vaya más ordenada, la hermana mayor es la [Fika Nexos](/producto/MLA63784269), que tiene navegación giroscópica y bastante más succión.
+
+## Navega al azar: qué significa de verdad
+
+Acá está el punto más importante para no comprarte un problema. La SENSE **no mapea y no es giroscópica**: navega al azar. Un comprador lo explica perfecto: "se desplaza al azar por toda la casa y se lleva todo puesto, efectuando un movimiento del tipo browniano; en promedio termina pasando por todos lados". Otros lo confirman: "no tiene mapeo, va y viene solo, paciencia", "pasa varias veces por el mismo lugar", "puede limpiar 7 veces en el mismo sitio".
+
+Tiene tres modos (Automático, Bordes y Manual) que elegís desde la app o el control, pero ninguno guarda un plano ni define habitaciones. Los sensores anticaída y anticolisión hacen que no se caiga de las escaleras ni se pegue golpes fuertes, eso sí funciona bien. Pero si tu prioridad es un recorrido ordenado, la SENSE no es. Para eso, dentro del catálogo, el salto es a la [Fika Nexos](/producto/MLA63784269) (giroscópica, zigzag más prolijo) o directamente a un mapeo láser real como la [Xiaomi Robot Vacuum S20](/producto/MLA44714806).
+
+## Aspira y trapea: el 2 en 1
+
+Trae tanque de agua de 130 mL y una mopa para pasar el paño húmedo a la vez que aspira. Como en todas las de este rango, el trapeado es de mantenimiento: humedece el piso y lo repasa, no saca manchas pegadas. Un comprador lo describe bien: "el contenedor de agua tiene un agujerito y es como que se va haciendo pis a medida que limpia; suficiente para mantenimiento, insuficiente para limpieza profunda". El tanque es chico, así que para 60 m² hay que recargarlo un par de veces, y conviene enjuagar la mopa seguido o quedan vetas.
+
+Dos avisos honestos del panorama: el accesorio de la mopa es de plástico y de calidad floja; a varios se les rompió o desgastó el enganche con el uso. Y aunque la ficha pide usar solo agua, muchos le agregan un poco de desodorante de piso "y deja perfume"; es bajo tu responsabilidad porque puede dañar la bomba o tapar conductos con el tiempo.
+
+## Succión de 600 Pa: para qué alcanza y para qué no
+
+Seamos claros con el dato: 600 Pa (0,6 kPa) y 15 W es de las succiones más bajas que vas a encontrar. Eso define para qué sirve. Levanta bien polvo, pelusa y pelo de mascota en el mantenimiento diario, que es justo lo que más destacan los compradores. Donde flaquea es con suciedad gruesa o pesada: ahí ya le cuesta. Una reseña lo resume: "el nivel de aspirado es quizá un poco bajo, pero igual ayuda mucho". Si necesitás más potencia, la [Fika Nexos](/producto/MLA63784269) sube a unos 3.000 Pa, y una [Midow 2 en 1](/producto/MLA48378491) juega en una liga parecida de precio con buena succión.
+
+## Batería, tamaño y vuelta a la base
+
+La autonomía declarada es de más de 80 minutos (batería Li-Ion 7,4 V / 2.000 mAh), pero en la práctica varios reportan cerca de 1 hora según el uso, suficiente para un departamento de dos o tres ambientes. Con 7,8 cm de alto y 29 cm de diámetro entra bajo la mayoría de los muebles. Cubre hasta 80 m² de área máxima.
+
+Dos cosas a tener en cuenta de las propias reseñas: como no mapea, **le cuesta volver a la base si está en otra habitación**, así que conviene "encerrarla" por ambiente con las puertas cerradas. Y se descarga sola si la desenchufás de la corriente, por lo que conviene dejarla en la base o acordarse de cargarla antes de usarla.
+
+## En qué se diferencia de las otras del catálogo
+
+La SENSE es la opción más barata y básica. Si querés quedarte en Fika pero con más potencia y recorrido más ordenado, subí a la [Fika Nexos](/producto/MLA63784269). Si comparás 2 en 1 económicas de otra marca, la [Midow 2 en 1](/producto/MLA48378491) está en un rango parecido. Si te tienta el mapeo de verdad (que guarde el plano y limpie por zonas), el salto es a la [Xiaomi Robot Vacuum S20](/producto/MLA44714806) con LiDAR. Y si preferís algo simple sin depender de la app, la [Kärcher RCV 1](/producto/MLA42103831) anda con control remoto y sin WiFi, también buena con pelo de mascota.
+
+## Qué incluye la caja
+
+Robot Fika SENSE, base de carga y adaptador de corriente, control remoto, 2 cepillos laterales (instalados), 1 paño mopa, herramienta de limpieza y manual. A diferencia de la Nexos, no trae kit de repuestos extra, así que conviene prever recambios de mopa y cepillos para más adelante.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Fika / SENSE (FIKRVCCOM220)" },
+      { label: "Tipo", value: "Robot aspirador y trapeador 2 en 1" },
+      { label: "Succión", value: "600 Pa (0,6 kPa) · nivel estándar" },
+      { label: "Potencia", value: "15 W" },
+      { label: "Navegación", value: "Aleatoria por sensores (sin giroscopio ni mapa)" },
+      { label: "Modos de limpieza", value: "Automático, Bordes, Manual" },
+      { label: "Control", value: "App WiFi (Tuya) + control remoto + voz (Alexa, Google)" },
+      { label: "Fregado", value: "Tanque de agua de 130 mL (mopa húmeda)" },
+      { label: "Depósito de polvo", value: "370 mL" },
+      { label: "Filtro", value: "HEPA" },
+      { label: "Apto alfombras / pelo de mascota", value: "Sí / Sí" },
+      { label: "Batería", value: "7,4 V · 2.000 mAh · hasta 80 min · retorno automático" },
+      { label: "Carga", value: "5 h (12 h la primera vez)" },
+      { label: "Área máxima", value: "80 m²" },
+      { label: "Nivel de ruido", value: "70 dB" },
+      { label: "Sensores", value: "Anticaída y anticolisión (infrarrojos y mecánicos)" },
+      { label: "Dimensiones", value: "Ø 29 cm · 7,8 cm de alto" },
+      { label: "Peso", value: "2,5 kg" },
+      { label: "Color / Voltaje", value: "Negro / 220 V" },
+    ],
+    faq: [
+      { question: "¿La Fika SENSE hace mapeo de la casa? ¿Cómo navega?", answer: "No mapea y no es giroscópica: navega al azar. Se mueve de forma aleatoria por toda la casa (algunos lo describen como movimiento 'browniano') y termina pasando por casi todos lados, pero repite zonas y deja otras. Tiene sensores anticaída y anticolisión para no caerse ni golpearse fuerte, pero no guarda un plano ni define habitaciones. Si querés recorrido ordenado, necesitás un robot giroscópico o con mapeo láser." },
+      { question: "¿En qué se diferencia de la Fika Nexos?", answer: "La SENSE es la más básica y barata: 600 Pa de succión, navegación al azar y menos potencia (15 W). La Nexos es la hermana mayor: navegación giroscópica (recorre en zigzag más ordenado), más succión (unos 3.000 Pa) y kit de repuestos incluido, a un precio algo más alto. Si querés lo más económico para mantener, la SENSE; si querés más potencia y recorrido más prolijo, la Nexos." },
+      { question: "¿Sirve para pelo de perro y gato?", answer: "Sí, es su punto fuerte y lo que más destacan los compradores. Con filtro HEPA, cepillos laterales y un depósito de polvo grande de 370 mL junta muy bien el pelo de mascota en el mantenimiento diario. Conviene vaciar el depósito seguido con mucho pelo y sacar los pelos que se enredan en los cepillos." },
+      { question: "¿Aspira fuerte? ¿Alcanzan los 600 Pa?", answer: "600 Pa es una succión baja, de las más bajas del mercado. Alcanza bien para polvo, pelusa y pelo de mascota en el día a día, que es para lo que está pensada. Para suciedad gruesa o pesada se queda corta. Es un robot de mantenimiento, no para reemplazar una limpieza profunda. Si querés más potencia, la Fika Nexos sube a unos 3.000 Pa." },
+      { question: "¿Trapea bien? ¿Le puedo poner perfume?", answer: "El trapeado es de mantenimiento: humedece el piso y lo repasa, no saca manchas pegadas. El tanque es chico (130 mL), así que para superficies medianas hay que recargarlo y conviene enjuagar la mopa seguido o quedan vetas. La ficha indica solo agua; muchos le agregan un poco de desodorante de piso, pero es bajo tu responsabilidad porque puede dañar la bomba con el tiempo. Ojo: el accesorio de la mopa es de plástico y a varios se les rompió." },
+      { question: "¿Cuánto dura la batería?", answer: "La autonomía declarada es de más de 80 minutos (batería Li-Ion 7,4 V / 2.000 mAh), pero en la práctica varios reportan cerca de 1 hora según el uso. Alcanza para un departamento de dos o tres ambientes. Dato a tener en cuenta: se descarga sola si la desenchufás de la corriente, así que conviene dejarla en la base." },
+      { question: "¿Es apta para alfombras?", answer: "Sí, es apta para alfombras bajas y pisos duros (cerámica, porcelanato, flotante). Para alfombras de pelo alto ya le cuesta, sobre todo por la succión de 600 Pa. Donde mejor rinde es manteniendo pisos duros sin polvo ni pelo." },
+      { question: "¿La app es fácil? ¿Anda con control remoto?", answer: "Se controla por WiFi con la app genérica Tuya: a algunos les cuesta vincularla y la consideran básica, pero sirve para programar días y horarios. La buena noticia es que trae control remoto físico, así que la podés usar sin depender de la app. También responde por voz a Alexa y Google Home." },
+      { question: "¿Viene con repuestos? ¿Qué incluye la caja?", answer: "Incluye el robot, base de carga y adaptador, control remoto, 2 cepillos laterales instalados, 1 paño mopa, herramienta de limpieza y manual. A diferencia de la Fika Nexos, no trae kit de repuestos extra, así que conviene prever recambios de mopa y cepillos para más adelante." },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: "Una belleza, la programás y listo. Siempre tenés que limpiarla después de usarla y ponerle el agüita (yo le pongo desodorante para piso) y todo el piso queda limpito y perfumado. Eso sí, en el piso no tiene que quedar nada de juguetes ni cortinas muy bajas. Si la dejás de noche no hace mucho ruido, es silenciosa, y te levantás con todo limpio. Sola vuelve a cargarse.", useful: 90 },
+      { rating: 5, country: 'Argentina', text: "Tengo dos pug y mi casa estaba siempre con pelos de perro, un asco. Hace una semana tengo a 'ramoncita' y está impecable, no más pelos. Primero puse para que aspire y al otro día le puse agua y desodorante. La batería dura para limpiar todo un 3 ambientes. Importante cerrar la puerta para que no se vaya a otros ambientes. No tiene mapeo, va y viene solo, paciencia; por el precio 100% recomendable.", useful: 52 },
+      { rating: 5, country: 'Argentina', text: "Floyd observando que la 'keli' haga su trabajo. En las partes que tienen un pequeño desnivel no llega a limpiar bien y el nivel de aspirado es quizá un poco bajo, pero igual ayuda mucho en la limpieza de la casa.", useful: 62 },
+      { rating: 5, country: 'Argentina', text: "Cumple con la limpieza que necesito, dura la batería, va a recargarse solo. No se necesita el control con la conexión a WiFi, se maneja desde el celu y se puede programar. El sonido es discreto, el sensor de escalera funciona perfecto. No es muy robusto pero tratándolo bien va a durar. El tanque de agua es pequeño, para 60 m² hay que cargarlo 2 veces.", useful: 48 },
+      { rating: 5, country: 'Argentina', text: "Buena relación precio/calidad. Aunque el piso esté limpio siempre acumula suciedad en el depósito. La función mopa es útil siempre que el ambiente no sea muy grande, porque la mopa se ensucia a los minutos y si no la enjuagás quedan vetas. A tener en cuenta: si la base está en una habitación y se queda sin batería en otra, le cuesta regresar o no la encuentra, ya que no tiene mapeado.", useful: 44 },
+      { rating: 5, country: 'Argentina', text: "No es inteligente ni tiene reconocimiento de espacios: se desplaza al azar y se lleva todo puesto, un movimiento tipo browniano, pero en promedio pasa por todos lados. Funciona mejor si le despejás el camino. No reemplaza la limpieza profunda, está diseñada para mantenimiento y ese rol lo cumple muy bien. Es lo más barato del mercado, si querés algo más hay que ir a otra gama.", useful: 6 },
+      { rating: 4, country: 'Argentina', text: "Lo usé 3 meses. Buen aspirado, mantiene la limpieza diaria, y me sorprendieron los sensores anticaída, funcionan perfecto. El problema es el trapeador: el plástico enseguida se percudió y se rompió el enganche con la aspiradora. De muy mala calidad ese plástico, una pena. Igual la sigo usando como aspiradora. Por el precio está muy bien.", useful: 2 },
+      { rating: 4, country: 'Argentina', text: "Muy bueno, programando una rutina limpia todo el piso. No le doy 5 estrellas porque no mapea, va en modo aleatorio o guiándose por paredes y muebles. Tiene muchos sensores para no pegarse golpes fuertes. Buen producto.", useful: 6 },
+      { rating: 4, country: 'Argentina', text: "Para el precio está súper bien. Aspira, hace ruido normal al aspirar. No le pongo más estrellas porque estaría bueno que tenga mapeo: sin esa función da muchas vueltas y tarda más. Es increíble la cantidad de polvillo que saca; el contenedor es chiquito y se llena rápido. Para un ambiente chico la compraría sin dudar.", useful: 1 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Fika SENSE 2 en 1',
+      description: 'Aspiradora robot y trapeadora Fika SENSE: 2 en 1 (aspira y trapea) con navegación aleatoria por sensores, 600 Pa de succión, filtro HEPA, control por app WiFi (Tuya), control remoto y voz (Alexa, Google), apta para alfombras y pelo de mascota, ultra slim de 7,8 cm y retorno automático a la base. No tiene mapeo.',
+      brand: { '@type': 'Brand', name: 'Fika' },
+      model: 'SENSE (FIKRVCCOM220)',
+      sku: 'MLA54522658',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_975134-MLA103747108508_012026-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA54522658',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '145440',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2L3rk3G',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '1393',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ["MLA63784269", "MLA48378491", "MLA44714806"],
+    description: 'La Aspiradora Trapeadora Robot FIKA SENSE es el modelo más accesible de Fika: aspira y pasa mopa húmeda en una sola corrida, con navegación aleatoria por sensores, filtro HEPA, control por app WiFi, control remoto y voz (Alexa, Google Home), diseño ultra slim de 7,8 cm y retorno automático a la base. Apta para alfombras y pelo de mascota. No tiene mapeo.',
   },
   {
     id: 'MLA48378491',
