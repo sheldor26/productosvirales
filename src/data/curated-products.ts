@@ -6968,9 +6968,9 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
     id: 'MLA45951645',
     title: 'Aspiradora Robot Gadnic 5 Modos Limpieza Trapeo Inteligente Depósito de Agua Polvo Control App Conexion Inalambrica Sensores Anti‐Colisión Anticaída',
     brand: "Gadnic",
-    price: 271499,
-    priceUpdated: "2026-06-06",
-    priceLastChecked: "2026-06-06",
+    price: 250999,
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: "fresh",
     originalPrice: 588049,
     currency: 'ARS',
@@ -6989,41 +6989,134 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 1357,
+    reviewCount: 1293,
+    reviewsWithPhotos: 4,
     soldQuantity: 1000,
+    line: 'Rob',
+    color: 'Negro',
+    badge: 'viral',
     pastelColor: 'var(--pastel-amber)',
-    seoTitle: "Gadnic Aspiradora Robot 5 Modos: review con app y trapeo",
-    metaDescription: "Análisis del Gadnic 5 Modos Trapeo: aspiradora robot con app, depósito de agua, 5 patrones de limpieza y sensores anticolisión. Mid-tier del catálogo Gadnic.",
-    ogTitle: "Gadnic 5 Modos Trapeo — más patrones que el AspiRob, sin LIDAR",
-    ogDescription: "5 modos programables, depósito de agua para trapeo, app de control y sensores anticolisión/anticaída. La opción Gadnic intermedia con app sin pagar el LIDAR top.",
-    h1: "Gadnic Aspiradora Robot 5 Modos: el escalón intermedio del catálogo",
-    specs: [
-      { label: "Marca", value: "Gadnic" },
-      { label: "Modos", value: "5 patrones (zigzag, bordes, punto, automático, programado)" },
-      { label: "Tipo de navegación", value: "Sensores anticolisión y anticaída (sin LIDAR)" },
-      { label: "Funciones", value: "Aspirado + trapeado húmedo" },
-      { label: "Depósito de agua", value: "Sí — para trapeo" },
-      { label: "Control", value: "App + WiFi + control remoto" },
-      { label: "Voltaje", value: "220V (mercado argentino)" },
-    ],
+    aiReviewSummary: 'Es muy práctica y facilita la limpieza del hogar, especialmente en espacios con mascotas, ya que aspira eficazmente los pelos. Su funcionamiento es silencioso y eficiente, con buena duración de batería y facilidad de uso.',
+    seoTitle: 'Aspiradora Robot Gadnic 5 Modos: Aspira, Trapea y App WiFi',
+    metaDescription: 'Aspiradora robot Gadnic 5 Modos: aspira y trapea, 5 modos, app WiFi y voz (Alexa/Google). Ideal para pelos de mascota. 4.6★ con 1.293 opiniones.',
+    ogTitle: 'Aspiradora Robot Gadnic 5 Modos: el 2 en 1 con app más vendido',
+    ogDescription: '4.6★ con 1.293 opiniones. Aspira y trapea con 5 modos, app WiFi y voz. Marca local a precio bajo. Ojo con el "mapeo 3D": en la práctica es navegación giroscópica.',
+    h1: 'Aspiradora robot Gadnic 5 Modos: aspira y trapea con app WiFi y voz, el 2 en 1 más vendido de Gadnic',
     pros: [
-      "5 patrones de limpieza programables — más versatilidad que el modelo de 3 modos",
-      "Combinación aspirado + trapeo con depósito de agua propio",
-      "Sensores anticolisión y anticaída — funciona en casas con desniveles o escaleras",
-      "App con control de horarios y modos",
-      "Descuento del 54% sobre precio de lista",
+      '4.6⭐ con 1.293 calificaciones: uno de los robots Gadnic más vendidos del catálogo',
+      '2 en 1: aspira y trapea en una pasada, con 5 modos (auto, bordes, zigzag, puntual, trapeo)',
+      'WiFi + app Tuya + voz (Alexa y Google): programás y controlás desde el celu',
+      'Muy bueno para juntar pelo de mascota; depósito de polvo grande (510 mL)',
+      'Hasta 130 min de autonomía y vuelve solo a la base',
+      'Marca local (Gadnic) con service en Argentina, a precio bajo',
     ],
     cons: [
-      "Sin mapeo láser — la cobertura depende de los patrones programados, tarda más que un LIDAR",
-      "Sin envío gratis",
-      "Sin base autolimpiante — vaciás manualmente",
-      "Para casas con muchas mascotas o alfombras, la succión sin LIDAR puede quedar corta",
+      'El "mapeo 3D" del marketing es navegación giroscópica: en la práctica no guarda un mapa real ni zonas (lo dicen muchas opiniones)',
+      'Succión modesta (2000 Pa) y trapeado flojo: para mantenimiento, no limpieza profunda',
+      'En potencia alta la batería rinde poco; choca y se traba si no despejás el piso',
+      'La app es básica y a algunos les cuesta conectarla; hace un beep al iniciar y terminar',
     ],
-    verdict: "Si querés app + trapeo + sensores anticolisión sin saltar al LIDAR top, este Gadnic intermedio es el balance. Vs el AspiRob de NIDEC, este suma más patrones programables; vs el LIDAR top, ahorra ~$240K a costa del mapeo láser y la base autolimpiante. Para departamentos medianos sin mascota grande, rinde.",
-    bestOccasion: ["Departamentos medianos con desniveles", "Mix piso duro + alfombras finas", "Quien quiere app sin pagar LIDAR"],
-    notRecommendedFor: ["Casas grandes (>80m²)", "Quien valora mapeo preciso", "Mascota grande con mucho pelo"],
-    relatedProducts: ["MLA36838658", "MLA62126950", "MLA42045783"],
-    description: 'Eficiencia total para tu limpieza diaria La Aspiradora Trapeadora Robot Gadnic 5 Modos ofrece una solución inteligente para mantener tus pisos impecables sin esfuerzo. Con cinco modos de limpieza programables puedes adaptar la rutina al tipo de ambiente, ya sea bordes, zonas puntuales, zigzag amplio',
+    verdict: 'El Gadnic 2 en 1 con app y voz más vendido: aspira muy bien el pelo de mascota, trapea para mantener y se maneja desde el celu, todo a precio bajo y con marca local. Ojo con el marketing: el "mapeo 3D" en la práctica es navegación giroscópica que no guarda zonas, así que anda más bien aleatorio. Para el mantenimiento diario en casas despejadas es una gran relación precio/calidad; si querés mapeo real, mirá un robot con LiDAR.',
+    articleBody: `## Aspira y trapea con 5 modos
+
+El Gadnic 5 Modos es un robot 2 en 1: aspira y trapea en la misma salida. Su nombre viene de los cinco modos de limpieza: Automático (toda la superficie), Bordes (perímetro y zócalos), Zig-zag (de lado a lado), Puntual (una zona concentrada) y Trapeo (solo mopa con el tanque de agua). Tiene un depósito de polvo grande de 510 mL y un tanque de agua de 350 mL.
+
+En las 1.293 opiniones, lo que más se repite es cuánto pelo de mascota y polvo fino levanta: "mi perra pierde 4 kilos de pelo por día y me mantiene el piso limpio", "el marciano chupa tierra es incomparable". Para eso es muy bueno; el trapeado, en cambio, es de mantenimiento.
+
+## App WiFi y control por voz
+
+Se conecta por WiFi a la app Tuya, desde donde elegís el modo, programás horarios y lo encendés a distancia. También responde a Alexa y Google, y trae control remoto. Es lo que lo separa de un robot básico sin conexión. Aviso honesto, porque aparece en varias opiniones: la app es bastante básica y a algunos les cuesta la conexión inicial; varios terminan usándolo más con el control remoto.
+
+## El "mapeo 3D": qué esperar de verdad
+
+Acá conviene ser claro, porque el marketing puede confundir. La publicación habla de "mapeo 3D" y "navegación Vision", pero la ficha técnica dice **navegación giroscópica (GYRO)** con 16 sensores. En la práctica, eso significa que **no guarda un mapa de la casa ni te deja definir zonas**: se mueve siguiendo los patrones y los sensores, no con un plano. Muchos compradores lo dicen sin vueltas: "el sistema de mapeo es bastante malo", "no recorre bien la casa, se queda en el mismo espacio", "no viene con la función de mapear y guardar zonas".
+
+No es un defecto si sabés qué estás comprando: rinde muy bien como robot de mantenimiento en ambientes despejados. Pero si lo que buscás es recorrido ordenado y memoria de la casa, la categoría que necesitás es la de mapeo láser, como la [Xiaomi S20](/producto/MLA44714806) o, dentro de Gadnic, el modelo con LiDAR.
+
+## 2000 Pa: qué limpia bien y qué no
+
+La succión es de 2000 Pa, modesta. Alcanza bien para polvo, pelusa y pelo de mascota en el día a día, que es lo que más valoran los compradores, pero no para una limpieza profunda. El trapeado es flojo: humedece y repasa, no saca manchas, y algunas opiniones notan que deja el piso un poco mojado. Otro punto honesto: en potencia alta la batería rinde bastante menos, así que en casas grandes conviene sectorizar cerrando puertas.
+
+## Para mascotas: el uso estrella
+
+Si tenés perros o gatos, es para lo que más se compra y donde mejor cumple. El depósito de polvo es grande y junta una cantidad de pelo que sorprende ("tengo 3 gatos, levanta muy bien los pelitos"). Pasa bajo camas y muebles bajos. Conviene vaciar el depósito seguido cuando hay mucho pelo y retirar lo que se enrede en el cepillo.
+
+## En qué se diferencia de los otros robots del catálogo
+
+Dentro de Gadnic, el [AspiRob](/producto/MLA42045783) es el hermano con sensores de obstáculo infrarrojos y control por voz, en un rango parecido. Frente a un genérico con WiFi como la [Midow MDW/RZT](/producto/MLA48378491), el Gadnic suma los 5 modos y la marca local. Y si querés dar el salto a mapeo láser de verdad, ahí entran las Xiaomi como la [S20](/producto/MLA44714806). El 5 Modos se elige por ser un 2 en 1 con app, pet friendly y económico.
+
+## Qué incluye la caja
+
+Robot Gadnic, cepillo principal, cepillo lateral, compartimento de polvo, filtro (con cartuchos de repuesto), base de carga, juego de depósito de agua, paño de limpieza, herramienta de limpieza, adaptador de corriente y control remoto.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Gadnic / rob2.0 (ROB00513)' },
+      { label: 'Tipo', value: '2 en 1: aspira y trapea' },
+      { label: 'Succión', value: '2000 Pa (2 kPa)' },
+      { label: 'Navegación', value: 'Giroscópica (GYRO) + 16 sensores anti-colisión, anticaída y anti-enredo (sin mapeo láser)' },
+      { label: 'Modos de limpieza', value: 'Automático, Bordes, Zig-zag, Puntual, Trapeo' },
+      { label: 'Control', value: 'App Tuya (WiFi) + voz (Alexa, Google) + control remoto' },
+      { label: 'Fregado', value: 'Tanque de agua de 350 mL' },
+      { label: 'Depósito de polvo', value: '510 mL' },
+      { label: 'Filtro', value: 'HEPA (con cartuchos de repuesto)' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: '2600 mAh · 80 a 130 min · carga 4 a 5 h · retorno automático' },
+      { label: 'Capacidad de paso', value: '12 mm' },
+      { label: 'Nivel de ruido', value: '65 dB' },
+      { label: 'Área máxima', value: '80 a 130 m²' },
+      { label: 'Color / Voltaje', value: 'Negro / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Gadnic 5 Modos sirve para pelos de mascota?', answer: 'Sí, es para lo que más se compra y donde mejor cumple. Tiene un depósito de polvo grande (510 mL) y junta una cantidad de pelo que sorprende a los compradores con perros y gatos. Conviene vaciarlo seguido cuando hay mucho pelo y retirar lo que se enrede en el cepillo.' },
+      { question: '¿Tiene app y control por voz?', answer: 'Sí. Se conecta por WiFi a la app Tuya, desde donde elegís el modo, programás horarios y lo encendés a distancia, y responde a Alexa y Google. También trae control remoto. La app es básica y a algunos les cuesta la conexión inicial; varios terminan usando más el control remoto.' },
+      { question: '¿Mapea la casa?', answer: 'No guarda un mapa real. La publicación habla de "mapeo 3D", pero la ficha técnica indica navegación giroscópica con sensores: se mueve siguiendo patrones, no con un plano, y no te deja definir zonas. Muchas opiniones lo confirman. Rinde bien como robot de mantenimiento en ambientes despejados; si querés recorrido ordenado y memoria de la casa, conviene un robot con mapeo láser.' },
+      { question: '¿Trapea bien?', answer: 'El trapeado es de mantenimiento. Humedece el piso con un tanque de 350 mL y lo repasa, pero no saca manchas y algunas opiniones notan que deja el piso un poco mojado. Lo mejor es aspirar primero y usar la mopa para repasar.' },
+      { question: '¿Cuánto dura la batería?', answer: 'Entre 80 y 130 minutos según el modo, suficiente para una casa mediana, y vuelve sola a la base (la carga tarda 4 a 5 horas). En potencia alta rinde bastante menos, así que en casas grandes conviene sectorizar cerrando puertas.' },
+      { question: '¿Pasa por debajo de los muebles?', answer: 'Sí, su diseño compacto le permite pasar bajo camas y muebles bajos, donde se acumula el polvo y el pelo. Conviene despejar el piso (sillas, cables, alfombras sueltas) para que no se trabe.' },
+      { question: '¿En qué se diferencia del Gadnic AspiRob o de un robot con mapeo?', answer: 'El Gadnic AspiRob es el hermano con sensores de obstáculo infrarrojos, en un rango parecido. Frente a un robot con mapeo láser (como las Xiaomi), el 5 Modos no guarda mapa ni zonas: es más simple y económico, y se elige por ser un 2 en 1 con app a precio bajo, no por navegación inteligente.' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Gadnic, cepillo principal y lateral, compartimento de polvo, filtro con cartuchos de repuesto, base de carga, juego de depósito de agua, paño de limpieza, herramienta de limpieza, adaptador de corriente y control remoto.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Ya no barro más, robotina se encarga. Para trapear no la uso porque mis pisos no están lisitos, pero en barrer y absorber la mugre es una diosa.', useful: 94 },
+      { rating: 5, country: 'Argentina', text: 'Es excelente, evita objetos, los rodea y pasa por el costado o por abajo. La acabo de comprar y saqué bastante del receptáculo porque aspira muy bien. Ahora me falta probar la opción de mopa.', useful: 72 },
+      { rating: 5, country: 'Argentina', text: 'Como aspiradora anda muy bien; la función de mopa, espantosa. No es nada silenciosa, hace ruido la ruedita, y a veces se queda sin saber por dónde ir cuando choca con un obstáculo. El resto bien, sirve como aspiradora.', useful: 49 },
+      { rating: 4, country: 'Argentina', text: 'Limpia bastante bien pero no deja todo el piso impecable. El sistema de mapeo es bastante malo. Es un poco más ruidosa de lo que me gustaría y cuando empieza y termina un ciclo hace un beep insoportable.', useful: 10 },
+      { rating: 5, country: 'Argentina', text: 'Un espectáculo, hace muy bien su trabajo. Cuantas más sillas u objetos le dejes en el camino, más tarda y peor limpia, pero eso también vale para los humanos. Ayuda en el mantenimiento diario; si se acumuló suciedad de más de dos días, mejor recurrí a la limpieza tradicional.', useful: 12 },
+      { rating: 4, country: 'Argentina', text: 'Si bien aspira perfecto, no recorre bien la casa: se queda en el mismo espacio por horas.', useful: 12 },
+      { rating: 5, country: 'Argentina', text: 'Me sorprendió la potencia con la que aspira. Tengo piso flotante, así que re bien para aspirar y pasarle la mopa, junta bien. Lo único es que no viene con la función de mapearte las zonas de la casa y guardarlas para una próxima limpieza.', useful: 0 },
+      { rating: 4, country: 'Argentina', text: 'Muy buena relación precio/calidad. Aspira muy bien. El trapeado no me deja conforme, deja muy mojado y se pone pesada, costando avanzar.', useful: 10 },
+    ],
+    relatedProducts: ['MLA42045783', 'MLA48378491', 'MLA44714806'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Gadnic 5 Modos',
+      description: 'Aspiradora robot y trapeador Gadnic 5 Modos (rob2.0) con 2000 Pa de succión, 5 modos de limpieza (automático, bordes, zig-zag, puntual y trapeo), navegación giroscópica con sensores anti-colisión y anticaída, app Tuya por WiFi, control por voz (Alexa, Google), depósito de polvo de 510 mL y tanque de agua de 350 mL.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'ROB00513',
+      sku: 'MLA45951645',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_733529-MLA99985509933_112025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA45951645',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '250999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2kRauwY',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '1293',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    bestOccasion: ['Mantenimiento diario en casas con mascotas', 'Quien quiere un 2 en 1 con app a precio bajo', 'Ambientes despejados (sin muchos muebles)'],
+    notRecommendedFor: ['Limpieza profunda', 'Quien quiere mapeo láser y zonas guardadas', 'Casas grandes en una sola carga'],
+    description: 'La aspiradora robot Gadnic 5 Modos aspira y trapea en una pasada, con cinco modos de limpieza, app Tuya por WiFi y control por voz (Alexa y Google). Levanta muy bien el pelo de mascota y tiene un depósito de polvo grande de 510 mL. Navega de forma giroscópica con sensores (sin mapeo láser persistente). El 2 en 1 de marca local más vendido para el mantenimiento diario.',
   },
   {
     id: 'MLA62126950',

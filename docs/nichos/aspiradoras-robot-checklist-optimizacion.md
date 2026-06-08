@@ -7,9 +7,9 @@
 > customerReviews reales, humanizer) → verificar (lint + parseo + links) → commit.
 > Detalle del método y estrategia: `docs/nichos/aspiradoras-robot-seo-ubersuggest.md`.
 
-## Estado: 11 / 18 completas — ✅ Tier 1 Xiaomi (5/5) + Tier 2 Atma (2/2) COMPLETOS
+## Estado: 12 / 18 completas — ✅ Tier 1 Xiaomi + Tier 2 Atma COMPLETOS
 
-### ✅ Ya optimizadas (11)
+### ✅ Ya optimizadas (12)
 
 | # | Producto | ID | Marca |
 | --- | --- | --- | --- |
@@ -24,6 +24,7 @@
 | ✅ | Xiaomi S20 negra | MLA44714806 | Xiaomi |
 | ✅ | Atma Atar21c1pi | MLA20033508 | Atma |
 | ✅ | Atma Atar21c1dh | MLA18642318 | Atma |
+| ✅ | Gadnic 5 Modos | MLA45951645 | Gadnic |
 
 ### ⬜ Pendientes (14) — en orden de prioridad (ROI por Ubersuggest)
 
@@ -48,8 +49,8 @@
 
 | # | Producto | ID | Estado |
 | --- | --- | --- | --- |
-| 8 | Gadnic 5 Modos Trapeo App | MLA45951645 | ⬜ ← SIGUIENTE |
-| 9 | Gadnic 5000 Pa LIDAR 360 Autolimpiante | MLA62126950 | ⬜ |
+| 8 | Gadnic 5 Modos Trapeo App | MLA45951645 | ✅ |
+| 9 | Gadnic 5000 Pa LIDAR 360 Autolimpiante | MLA62126950 | ⬜ ← SIGUIENTE |
 | 10 | Gadnic AspiRob Recargable Mapeo App | MLA36838658 | ⬜ |
 
 **Tier 4 — Samsung** (`aspiradora robot samsung` 1.300/mes; queda 1)
