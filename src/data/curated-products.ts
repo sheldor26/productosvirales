@@ -20235,15 +20235,131 @@ Robot Roomba Combo i5+, base de autovaciado Clean Base, contenedor Combo (aspira
     condition: 'new',
     freeShipping: true,
     brand: 'iRobot',
+    line: 'j7',
+    color: 'Negro',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'La Roomba J7+ tiene la capacidad de aprender, mapear y adaptarse a la superficie de la casa. Este dispositivo utiliza tecnología inteligente iRobot OS y la navegación PrecisionVision para desplazarse sin problemas por todo su hogar y evitar objetos tales como cables, medias, cordones y mucho más. Además, la Rooomba J7+ posee tecnología Imprint Smart Mapping que le permite realizar hasta 10 mapas d',
-    seoTitle: 'Roomba Irobot J7 robot aspirador navegación 94J715030 wi-fi ',
-    metaDescription: 'Roomba Irobot J7 robot aspirador navegación 94J715030 wi-fi Negro: precio, ficha y opiniones. Robot aspirador iRobot Roomba en Argentina. Comprala en MercadoL',
-    ogTitle: 'Roomba Irobot J7 robot aspirador navegación 94J715030 wi-fi Negro — ¿c',
-    ogDescription: 'La Roomba J7+ tiene la capacidad de aprender, mapear y adaptarse a la superficie de la casa. Este dispositivo utiliza tecnología inteligente iRobot OS',
-    h1: 'Roomba Irobot J7 robot aspirador navegación 94J715030 wi-fi Negro',
-    relatedProducts: ['MLA20657750', 'MLA27941233', 'MLA26504431'],
+    rating: 5,
+    reviewCount: 1,
+    description: 'Aspiradora robot iRobot Roomba j7 (94J715030): el Roomba con cámara PrecisionVision que esquiva objetos del piso (cables, cordones, medias y las sorpresas de la mascota) sin tragárselos. Mapeo inteligente de hasta 10 planos con habitaciones nombradas y zonas restringidas, sistema AeroForce de 3 etapas, app iRobot Home, control por voz (Alexa, Google) y filtro HEPA. Solo aspira (no trapea) y no incluye base de autovaciado.',
+    aiReviewSummary: 'La única opinión publicada hasta ahora la destaca como el mejor producto, que limpia muy bien sobre todo si tenés mascotas. Es un modelo nuevo en esta publicación, con pocas calificaciones todavía, así que conviene apoyarse también en las características y en la trayectoria de la marca iRobot.',
+    seoTitle: 'Roomba j7: el Roomba que esquiva objetos, ¿conviene?',
+    metaDescription: 'Roomba j7: la cámara PrecisionVision esquiva cables, cordones y sorpresas de mascota, y guarda hasta 10 mapas. Solo aspira, no trapea. Precio y ficha.',
+    ogTitle: 'Roomba j7: el Roomba que esquiva objetos y guarda 10 mapas',
+    ogDescription: 'Cámara PrecisionVision: esquiva cables, cordones y sorpresas de mascota sin tragárselos. Mapeo de hasta 10 planos por habitación. Solo aspira. Analizamos.',
+    h1: 'Roomba j7: el Roomba con cámara que esquiva objetos y guarda hasta 10 mapas (pero solo aspira)',
+    pros: [
+      'Cámara PrecisionVision: esquiva cables, cordones, medias y las sorpresas de la mascota sin tragárselos ni esparcirlos',
+      'Mapeo avanzado: hasta 10 planos con habitaciones nombradas y zonas restringidas (resuelve el límite de 1 mapa de modelos menores)',
+      'Respaldo iRobot + iRobot OS: el sistema más maduro del rubro, con app y voz (Alexa, Google)',
+      'Aspira muy bien: sistema AeroForce de 3 etapas, depósito grande (420 mL), apta para alfombras y pelo de mascota',
+      'Control por voz y programación; vuelve sola a la base',
+      'Fuerte descuento sobre el precio de lista',
+    ],
+    cons: [
+      'Solo aspira, no trapea (a diferencia de la Roomba Combo i5+)',
+      'No incluye base de autovaciado (es la j7, no la j7+): vaciás el depósito a mano',
+      'Cara: es gama alta, sobre todo para un robot que solo aspira',
+      'Muy pocas opiniones en esta publicación todavía (1 calificación): poca muestra',
+      'Batería de unos 75 min: modesta para casas muy grandes',
+    ],
+    verdict: 'El Roomba para casas con obstáculos en el piso y mascotas: la cámara PrecisionVision esquiva cables, cordones y sorpresas que hacen encallar a otros robots, y el multi-mapa (hasta 10 planos) lo vuelve ideal para casas grandes o de varios ambientes. Solo aspira (no trapea ni se vacía solo): lo elegís por la navegación inteligente, no por el 2 en 1.',
+    bestOccasion: ['Hogares con mascotas (evita pisar y esparcir sorpresas)', 'Casas con cables, juguetes u obstáculos en el piso', 'Casas grandes o de varios ambientes (hasta 10 mapas)'],
+    notRecommendedFor: ['Quien quiere que también trapee (mejor la Roomba Combo i5+)', 'Quien busca autovaciado (es la j7, no la j7+)', 'Quien necesita muchas opiniones antes de comprar (esta publicación es nueva)'],
+    articleBody: `## El Roomba que esquiva objetos
+
+El sello de la j7 es su cámara frontal con navegación **PrecisionVision**. En lugar de chocar y empujar todo lo que encuentra, "ve" los obstáculos del piso y los esquiva: cables, cordones, medias, juguetes. Y el caso de uso por el que iRobot la hizo famosa: **no pisa ni esparce las sorpresas de la mascota**. Cualquiera que haya tenido un robot común y un perro o gato sabe lo que es ese desastre; la j7 está pensada justamente para evitarlo.
+
+Esa es su diferencia principal frente a los Roomba más económicos como la [Roomba 692](/producto/MLA20657750), que navega al azar y se traga lo que se cruza. La j7 mira antes de avanzar.
+
+## Hasta 10 mapas: la respuesta al límite de la i5+
+
+La j7 usa Imprint Smart Mapping y guarda **hasta 10 planos** distintos de la casa, con las habitaciones nombradas y zonas restringidas que vos definís ("no entres a la cocina", "limpiá solo el living"). Crea referencias visuales para recordar dónde estuvo y dónde le falta.
+
+Esto es importante porque resuelve la limitación más criticada de la [Roomba Combo i5+](/producto/MLA27941233), que solo guarda un mapa: si tenés una casa de varios pisos o niveles, la j7 puede mapear cada uno. Para casas grandes o con escaleras, es una ventaja concreta.
+
+## Aspira muy bien, pero solo aspira
+
+Como aspiradora rinde de sobra: sistema AeroForce de 3 etapas, depósito de polvo grande (420 mL) y buen desempeño en alfombras y pelo de mascota. Pero hay que tener dos cosas claras sobre esta versión:
+
+Primero, **solo aspira, no trapea**. Si querés que además pase el trapo, ese es el terreno de la [Roomba Combo i5+](/producto/MLA27941233). Segundo, esta es la j7 estándar (modelo 94J715030), **no la j7+**, así que **no incluye la base de autovaciado**: el depósito lo vaciás a mano. La marketing de iRobot a veces mezcla la j7 con la j7+; en esta publicación es la j7 a secas. Lo elegís por la cámara y el mapeo, no por la limpieza 2 en 1.
+
+## Para casas con mascotas: el argumento estrella
+
+Acá es donde la j7 se gana el precio. Si tenés perro o gato, la combinación de cámara que esquiva sorpresas + cepillos que aspiran bien el pelo la vuelve uno de los robots más tranquilos de dejar andando sin supervisión. La única opinión publicada hasta ahora lo resume: "el mejor producto, limpia muy bien sobre todo si tenés mascotas". Es justo el público para el que está pensada.
+
+## Modelo nuevo: pocas opiniones todavía
+
+Seamos transparentes: esta publicación es nueva y tiene una sola calificación (5 estrellas), así que hay muy poca muestra de compradores locales. La buena noticia es que la j7 es un modelo con años en el mercado global y una reputación sólida en navegación y esquive de obstáculos, respaldada por iRobot, la marca que creó la categoría. Aun así, si necesitás muchas opiniones argentinas antes de decidir, tenelo en cuenta.
+
+## En qué se diferencia de los otros Roomba del catálogo
+
+La [Roomba 692](/producto/MLA20657750) es la entrada: solo aspira y va al azar. La [Roomba Combo i5+](/producto/MLA27941233) suma trapeado y base de autovaciado, pero esquiva menos y guarda un solo mapa. La j7 se especializa en navegación: cámara que esquiva objetos y hasta 10 mapas, aunque sin trapeo ni autovaciado. Y arriba de todo está la [Roomba j9](/producto/MLA44718960), el premium de la línea. La j7 es la elección cuando lo que más te importa es que el robot no se trabe ni haga desastres en una casa con piso ocupado o con mascotas.
+
+## Qué incluye la caja
+
+Robot Roomba j7, base de carga, cepillos laterales y el cable de alimentación. Se controla desde la app iRobot Home por WiFi o por voz con Alexa y Google. (Esta versión no incluye la base de autovaciado de la j7+).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'iRobot / Roomba j7 (94J715030)' },
+      { label: 'Tipo', value: 'Robot aspirador (solo aspira, no trapea)' },
+      { label: 'Sistema de limpieza', value: 'AeroForce de 3 etapas' },
+      { label: 'Navegación', value: 'PrecisionVision con cámara (esquiva objetos)' },
+      { label: 'Mapeo', value: 'Imprint Smart Mapping: hasta 10 mapas, habitaciones nombradas, zonas restringidas' },
+      { label: 'Base de autovaciado', value: 'No (es la j7, no la j7+)' },
+      { label: 'Trapeado', value: 'No (solo aspira)' },
+      { label: 'Control', value: 'App iRobot Home (WiFi) + voz (Alexa, Google)' },
+      { label: 'Filtro HEPA', value: 'Sí' },
+      { label: 'Depósito de polvo', value: '420 mL' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Modos', value: 'Auto, Borde, Área restringida' },
+      { label: 'Batería', value: '14,4 V · 1,8 Ah · ~75 min · carga 2 h · retorno automático' },
+      { label: 'Sensores', value: 'Obstáculo y anticaída' },
+      { label: 'Dimensiones', value: '34 × 34 × 9,3 cm' },
+      { label: 'Peso', value: '3,4 kg' },
+      { label: 'Color / Voltaje', value: 'Negro / 220 V' },
+    ],
+    faq: [
+      { question: '¿Qué es PrecisionVision? ¿De verdad esquiva objetos?', answer: 'Es la navegación por cámara de la j7: en lugar de chocar y empujar, "ve" los obstáculos del piso y los rodea. Esquiva cables, cordones, medias y juguetes, y su caso de uso más famoso es no pisar ni esparcir las sorpresas de la mascota. Es lo que la diferencia de los Roomba que navegan al azar.' },
+      { question: '¿La Roomba j7 trapea o solo aspira?', answer: 'Solo aspira. Esta versión (94J715030) no tiene tanque de agua ni mopa. Si querés un Roomba que además trapee, el del catálogo es la Roomba Combo i5+, que aspira, trapea y se vacía sola. La j7 la elegís por la navegación inteligente y el esquive de objetos, no por el 2 en 1.' },
+      { question: '¿Se vacía sola?', answer: 'No. Esta es la Roomba j7 estándar, no la j7+, así que viene con base de carga común y el depósito de polvo lo vaciás a mano. La versión con base de autovaciado (Clean Base) es la j7+, que es otro producto. Conviene tenerlo claro porque la marketing de iRobot a veces las mezcla.' },
+      { question: '¿Cuántos mapas guarda?', answer: 'Hasta 10 mapas distintos con Imprint Smart Mapping, con las habitaciones nombradas y zonas restringidas. Esto la hace ideal para casas grandes o de varios pisos, y resuelve la limitación de modelos como la Combo i5+, que solo guarda un mapa.' },
+      { question: '¿Sirve para pelo de mascota?', answer: 'Sí, es uno de sus puntos fuertes y para lo que está más pensada. Combina la cámara que esquiva las sorpresas de la mascota con un buen aspirado de pelo (sistema AeroForce de 3 etapas). La única opinión publicada la recomienda justamente por eso: "limpia muy bien sobre todo si tenés mascotas".' },
+      { question: '¿Cuántas opiniones tiene? ¿Es confiable?', answer: 'Esta publicación es nueva y tiene una sola calificación (5 estrellas), así que hay poca muestra de compradores locales. La j7 es un modelo con años en el mercado global y buena reputación en navegación, respaldado por iRobot. Si necesitás muchas opiniones argentinas antes de decidir, tenelo en cuenta.' },
+      { question: '¿En qué se diferencia de la Roomba Combo i5+ o la 692?', answer: 'La Roomba 692 solo aspira y va al azar. La Roomba Combo i5+ trapea y se vacía sola, pero guarda un solo mapa y no esquiva objetos con cámara. La j7 se especializa en navegación: cámara PrecisionVision que esquiva obstáculos y hasta 10 mapas, aunque sin trapeo ni autovaciado. Elegís según qué priorices: trapeo y autovaciado (i5+) o esquive de objetos y multi-mapa (j7).' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Roomba j7, base de carga, cepillos laterales y el cable de alimentación. Se controla desde la app iRobot Home por WiFi o por voz con Alexa y Google. Esta versión no incluye la base de autovaciado de la j7+.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'El mejor producto, limpia muy bien sobre todo si tenés mascotas.', useful: 1 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot iRobot Roomba j7',
+      description: 'Aspiradora robot iRobot Roomba j7 (94J715030) con cámara PrecisionVision que esquiva objetos del piso, mapeo inteligente de hasta 10 planos con habitaciones nombradas y zonas restringidas, sistema AeroForce de 3 etapas, app iRobot Home, control por voz (Alexa, Google) y filtro HEPA. Solo aspira; no trapea ni incluye base de autovaciado.',
+      brand: { '@type': 'Brand', name: 'iRobot' },
+      model: 'Roomba j7 (94J715030)',
+      sku: 'MLA37360592',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_895799-MLA99463646864_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA37360592',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '1392999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1kHDG1G',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '5',
+        reviewCount: '1',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA27941233', 'MLA20657750', 'MLA44718960'],
   },
   {
     id: 'MLA44718960',
