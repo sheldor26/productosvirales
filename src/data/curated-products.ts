@@ -20384,15 +20384,127 @@ Robot Roomba j7, base de carga, cepillos laterales y el cable de alimentación. 
     condition: 'new',
     freeShipping: true,
     brand: 'iRobot',
+    line: 'j9',
+    color: 'Bronce',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'Filtración efectiva gracias a sus filtros HEPA que atrapan alérgenos y polvo fino.. Modos de limpieza inteligentes que se adaptan a diversas superficies.. Control fácil y remoto desde aplicaciones móviles para conveniencia.',
-    seoTitle: 'Aspiradora robot iRobot Roomba J9 bronce',
-    metaDescription: 'Aspiradora robot iRobot Roomba J9 bronce: precio, ficha y opiniones. Robot aspirador iRobot Roomba en Argentina. Comprala en MercadoLibre.',
-    ogTitle: 'Aspiradora robot iRobot Roomba J9 bronce — ¿conviene?',
-    ogDescription: 'Filtración efectiva gracias a sus filtros HEPA que atrapan alérgenos y polvo fino.. Modos de limpieza inteligentes que se adaptan a diversas superfici',
-    h1: 'Aspiradora robot iRobot Roomba J9 bronce',
-    relatedProducts: ['MLA20657750', 'MLA27941233', 'MLA26504431'],
+    rating: 4.6,
+    reviewCount: 5,
+    description: 'Aspiradora robot y trapeadora iRobot Roomba j9 bronce: el tope de gama de iRobot. Aspira, trapea, esquiva objetos con cámara y mapea, y su base premium se vacía sola y rellena el agua del trapeado. Filtro HEPA, 3 niveles de succión (Max, Normal, Silencioso), app iRobot Home y control por voz (Alexa, Google). 4.6 estrellas con 5 calificaciones.',
+    aiReviewSummary: 'El equipo concentra toda la tecnología de iRobot: aspirado, trapeado, esquive de objetos y base premium que se reabastece sola. Tiene un promedio de 4.6 estrellas, pero con muy pocas opiniones todavía, y la única reseña escrita reporta fallos que el comprador atribuye al diseño. Conviene tomarlo como una muestra muy chica.',
+    seoTitle: 'Roomba j9: el Roomba tope de gama que hace todo, ¿vale?',
+    metaDescription: 'Roomba j9 bronce: aspira, trapea, esquiva objetos, mapea y se vacía y rellena sola. El tope de gama de iRobot. 4.6★. Caro y con pocas opiniones. Análisis.',
+    ogTitle: 'Roomba j9: el tope de gama que se vacía y se rellena solo',
+    ogDescription: 'El Roomba que hace todo: aspira, trapea, esquiva objetos, mapea y se reabastece desde su base premium. Lujo total, precio premium. 4.6★ con pocas opiniones aún.',
+    h1: 'Roomba j9 bronce: el tope de gama de iRobot que aspira, trapea, esquiva objetos y se reabastece solo',
+    pros: [
+      'Tope de gama: aspira, trapea, esquiva objetos (cámara PrecisionVision) y mapea, todo en un equipo',
+      'Base premium que se vacía sola y rellena el agua del trapeado (estación de autolimpieza)',
+      '4.6⭐ de promedio y respaldo iRobot + iRobot OS (app + voz Alexa, Google)',
+      '3 niveles de succión (Max, Normal, Silencioso), filtro HEPA y hasta 185 m²',
+      'Diseño premium en bronce con base tipo mueble (tapa de madera)',
+      'Silenciosa en su modo más bajo (65 dB)',
+    ],
+    cons: [
+      'Carísima: es de los robots más caros del catálogo (premium puro)',
+      'Muy pocas opiniones todavía (5 calificaciones) y la única escrita es crítica: reporta "muchos fallos" que atribuye al diseño',
+      'Consumibles caros: la base premium usa bolsas, paños y agua que hay que reponer',
+      'Es una inversión fuerte, pensada para quien no mira el precio',
+      'Como toda la línea j, los repuestos de iRobot no son los más baratos',
+    ],
+    verdict: 'El Roomba que hace absolutamente todo solo: aspira, trapea, esquiva objetos, mapea y se reabastece (vaciado y agua) desde su base premium. Es el tope de gama y se paga: está entre los robots más caros del catálogo. Para quien quiere el máximo de automatización de iRobot sin mirar el precio. Ojo: pocas opiniones locales todavía y la única escrita reporta fallos.',
+    bestOccasion: ['Quien quiere el máximo de automatización sin mirar el precio', 'Hogares con mascotas y pisos con obstáculos', 'Quien valora una base que se vacía y se reabastece sola'],
+    notRecommendedFor: ['Presupuestos ajustados (es premium puro)', 'Quien necesita muchas opiniones probadas antes de invertir', 'Quien busca relación precio/función (hay opciones más baratas que hacen casi lo mismo)'],
+    articleBody: `## El Roomba que hace absolutamente todo
+
+La j9 es el tope de gama de iRobot, y su propuesta es no dejarte ninguna tarea. Aspira, **trapea**, **esquiva objetos** con cámara (cables, cordones, sorpresas de la mascota) y **mapea** la casa, todo en un solo equipo. Y lo más distintivo: su base premium no solo la carga, sino que **se vacía sola y rellena el agua del trapeado**. La idea es olvidarte del robot durante semanas.
+
+Es el escalón más alto de la línea que ya viste en la [Roomba 692](/producto/MLA20657750) (entrada), la [Roomba Combo i5+](/producto/MLA27941233) (autovaciado) y la [Roomba j7](/producto/MLA37360592) (esquiva objetos). La j9 junta todo eso en uno.
+
+## La base premium: se vacía sola y rellena el agua
+
+Acá está su gran diferencial. La estación de la j9 (la torre con tapa de madera que ves en las fotos) hace dos cosas que las bases más simples no: aspira el polvo del robot hacia una bolsa (autovaciado) **y** rellena automáticamente el tanque de agua para el trapeado. En la [Combo i5+](/producto/MLA27941233), por ejemplo, el tanque de agua es chico y hay que recargarlo a mano seguido; la j9 resuelve eso desde la base. Es lo que justifica buena parte del salto de precio.
+
+## Esquiva objetos y mapea
+
+Como la [j7](/producto/MLA37360592), la j9 trae la cámara de navegación que reconoce y esquiva los obstáculos del piso en lugar de chocarlos. Sumá el mapeo inteligente con habitaciones nombradas y zonas restringidas, y tenés un robot que recorre ordenado, evita los líos y lo dirigís por voz o app: "limpiá la cocina". Para casas con mascotas o con piso ocupado, es lo más tranquilo de dejar andando.
+
+## El precio: el tope de gama se paga
+
+Seamos directos: a más de $2.270.000, la j9 está entre los robots más caros del catálogo. Estás pagando el paquete completo de iRobot (aspirado + trapeado + esquive + mapeo + base que se reabastece sola) y el diseño premium en bronce. Si lo que buscás es relación precio/función, hay opciones que hacen casi todo lo mismo por bastante menos: la propia [Combo i5+](/producto/MLA27941233) tiene autovaciado y trapeo a la mitad de precio, y la [Samsung Jet Bot+](/producto/MLA26504431) ofrece mapeo láser y autovaciado en otra gama. La j9 es para quien quiere lo máximo y no mira el precio.
+
+## Pocas opiniones y la única escrita reporta fallos
+
+Honestidad por delante, porque es una compra cara. La j9 tiene un promedio de 4.6 estrellas, pero sobre muy pocas calificaciones (5), y la única opinión escrita hasta ahora es crítica: "buenísima la idea, pero le ocurren muchos fallos; dudaría de volver a comprar este modelo. No es falla de mi equipo sino de diseño". Es una sola voz y no define al producto, pero en una inversión de este nivel conviene tenerla sobre la mesa. La j9 es un modelo con buena reputación global y el respaldo de iRobot, pero la muestra de compradores locales todavía es chica. Si necesitás más opiniones antes de gastar tanto, esperá o mirá un modelo más probado.
+
+## En qué se diferencia de los otros Roomba del catálogo
+
+La [Roomba 692](/producto/MLA20657750) solo aspira y va al azar. La [Combo i5+](/producto/MLA27941233) suma trapeo y autovaciado, pero no esquiva objetos y guarda un solo mapa. La [j7](/producto/MLA37360592) esquiva objetos y hace multi-mapa, pero solo aspira. La j9 es la suma de todo: aspira, trapea, esquiva, mapea y se reabastece sola. Es la elección cuando querés el equipo más completo de la marca y el precio no es el factor.
+
+## Qué incluye la caja
+
+Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control remoto, paños de trapeado, bolsa para la base y el cable. Se controla desde la app iRobot Home por WiFi o por voz con Alexa y Google.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'iRobot / Roomba j9' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador 2 en 1 tope de gama' },
+      { label: 'Navegación', value: 'Cámara que esquiva objetos + mapeo inteligente' },
+      { label: 'Base premium', value: 'Autovaciado + autorrelleno del agua del trapeado' },
+      { label: 'Trapeado', value: 'Sí (fregado)' },
+      { label: 'Succión', value: '3 niveles (Max, Normal, Silencioso)' },
+      { label: 'Control', value: 'App iRobot Home (WiFi) + voz (Alexa, Google)' },
+      { label: 'Filtro HEPA', value: 'Sí' },
+      { label: 'Depósito de polvo', value: '400 mL' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: '3,3 Ah · carga 3 h · retorno automático' },
+      { label: 'Área máxima', value: '185 m²' },
+      { label: 'Nivel de ruido', value: '65 dB' },
+      { label: 'Sensores', value: 'Obstáculo y anticaída' },
+      { label: 'Dimensiones', value: '31,2 × 31,2 × 9,2 cm' },
+      { label: 'Peso', value: '3,7 kg' },
+      { label: 'Color / Voltaje', value: 'Bronce / 220 V' },
+    ],
+    faq: [
+      { question: '¿La base de la Roomba j9 se vacía y rellena sola?', answer: 'Sí, ese es su gran diferencial. La estación premium aspira el polvo del robot hacia una bolsa (autovaciado) y además rellena automáticamente el tanque de agua para el trapeado. Es lo que la separa de bases más simples como la de la Combo i5+, donde el tanque de agua hay que recargarlo a mano.' },
+      { question: '¿Aspira y trapea?', answer: 'Sí, hace las dos cosas (barrer y fregar). Es un 2 en 1 con la ventaja de que la base le rellena el agua del trapeado sola, así que el ciclo de limpieza húmeda es mucho más autónomo que en modelos que dependen de un tanque chico recargado a mano.' },
+      { question: '¿Esquiva objetos del piso?', answer: 'Sí. Como la Roomba j7, trae la cámara de navegación que reconoce y esquiva obstáculos del piso (cables, cordones, juguetes y las sorpresas de la mascota) en lugar de chocarlos o pisarlos. Sumado al mapeo, recorre ordenado y la dirigís por habitación.' },
+      { question: '¿Vale el precio?', answer: 'Es la pregunta clave porque es de los robots más caros del catálogo (más de $2.270.000). Pagás el paquete completo de iRobot más la base que se reabastece sola. Si buscás relación precio/función, hay opciones que hacen casi lo mismo por menos: la Combo i5+ tiene autovaciado y trapeo a la mitad, y la Samsung Jet Bot+ ofrece mapeo láser y autovaciado en otra gama. La j9 es para quien quiere lo máximo sin mirar el precio.' },
+      { question: '¿Es confiable? ¿Qué dicen las opiniones?', answer: 'Tiene un promedio de 4.6 estrellas, pero sobre muy pocas calificaciones (5), y la única opinión escrita hasta ahora es crítica: el comprador reporta "muchos fallos" que atribuye al diseño y dudaría de recomprarla. Es una sola voz y no define al producto, pero en una compra cara conviene tenerla en cuenta. La muestra de compradores locales todavía es chica.' },
+      { question: '¿En qué se diferencia de la Roomba j7 o la Combo i5+?', answer: 'La j7 esquiva objetos y hace multi-mapa, pero solo aspira (no trapea ni se vacía sola). La Combo i5+ trapea y se vacía sola, pero no esquiva objetos y guarda un solo mapa. La j9 junta todo: aspira, trapea, esquiva, mapea y su base se vacía sola y rellena el agua. Es el equipo más completo de la línea.' },
+      { question: '¿Sirve para pelo de mascota?', answer: 'Sí. Combina el aspirado fuerte (3 niveles de succión, HEPA) con la cámara que esquiva las sorpresas de la mascota, lo que la hace de las más tranquilas de dejar andando en un hogar con perro o gato. Y como la base se vacía sola, no tenés que limpiar el depósito seguido.' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control remoto, paños de trapeado, bolsa para la base y el cable. Se controla desde la app iRobot Home por WiFi o por voz con Alexa y Google.' },
+    ],
+    customerReviews: [
+      { rating: 3, country: 'Argentina', text: 'Buenísima la idea, pero le ocurren muchos fallos. Dudaría de volver a comprar este modelo. No es falla de mi equipo sino de diseño.', useful: 1 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot iRobot Roomba j9 bronce',
+      description: 'Aspiradora robot y trapeadora iRobot Roomba j9: tope de gama que aspira, trapea, esquiva objetos con cámara y mapea, con base premium que se vacía sola y rellena el agua del trapeado. Filtro HEPA, 3 niveles de succión, app iRobot Home y control por voz (Alexa, Google).',
+      brand: { '@type': 'Brand', name: 'iRobot' },
+      model: 'Roomba j9',
+      sku: 'MLA44718960',
+      category: 'Aspiradoras robot',
+      color: 'Bronce',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_913810-MLA99529946316_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA44718960',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '2277065',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1Pdpsod',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '5',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA37360592', 'MLA27941233', 'MLA26504431'],
   },
 ];
 
