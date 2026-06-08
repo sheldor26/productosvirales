@@ -20074,15 +20074,141 @@ Robot Roomba 692, base de carga Home Base, cable de alimentación, un filtro y e
     condition: 'new',
     freeShipping: true,
     brand: 'iRobot',
+    line: 'Combo i5+',
+    color: 'Tejido neutro',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'El iRobot Roomba Combo i5+ es un robot aspirador y trapeador de vacío automático que limpia por habitación con mapeo inteligente y se vacía hasta 60 días. Está habilitado para Alexa y cuenta con un sistema operativo de limpieza personalizado, ideal para pelo de mascotas. Este dispositivo es capaz de realizar una doble limpieza con una sola máquina. Está diseñado tanto para la limpieza de suelos hú',
-    seoTitle: 'Irobot Roomba Combo I5+ - Robot Aspirador Y Trapeador De Va.',
-    metaDescription: 'Irobot Roomba Combo I5+ - Robot Aspirador Y Trapeador De Va. Color Tejido Neutro: precio, ficha y opiniones. Robot aspirador iRobot Roomba en Argentina. Compr',
-    ogTitle: 'Irobot Roomba Combo I5+ - Robot Aspirador Y Trapeador De Va. Color Tej',
-    ogDescription: 'El iRobot Roomba Combo i5+ es un robot aspirador y trapeador de vacío automático que limpia por habitación con mapeo inteligente y se vacía hasta 60 d',
-    h1: 'Irobot Roomba Combo I5+ - Robot Aspirador Y Trapeador De Va. Color Tejido Neutro',
-    relatedProducts: ['MLA20657750', 'MLA37360592', 'MLA26504431'],
+    rating: 4.3,
+    reviewCount: 49,
+    reviewsWithPhotos: 4,
+    description: 'Aspiradora robot y trapeadora iRobot Roomba Combo i5+ (i557020): aspira, trapea y se vacía sola en su base hasta 60 días. Sistema AeroForce de 4 etapas con cepillos de goma dobles anti-enredo, 2.500 Pa, mapeo inteligente por habitación (Imprint Smart Mapping), app iRobot Home, control por voz (Alexa, Google, Siri) y filtro HEPA. El trapeado es de mantenimiento. 4.3 estrellas con 49 calificaciones.',
+    aiReviewSummary: 'El producto limpia de manera espectacular, especialmente eficaz para aspirar pelos de perro, y ofrece gran independencia gracias al autovaciado. Lo más elogiado: el aspirado, el mapeo por habitación y la base que se vacía sola. Las críticas se repiten en dos puntos: el trapeado es flojo y solo guarda un mapa (problema para casas de varios niveles).',
+    seoTitle: 'Roomba Combo i5+: aspira, trapea y se vacía sola, ¿vale?',
+    metaDescription: 'Roomba Combo i5+: aspira, trapea y se vacía sola hasta 60 días con mapeo por habitación. Pero el trapeado es flojo. 4.3★ con 49 opiniones reales.',
+    ogTitle: 'Roomba Combo i5+: el Roomba que se vacía solo, ¿conviene?',
+    ogDescription: '4.3★ con 49 opiniones. Aspira de 10, mapea por habitación y se vacía sola hasta 60 días. Pero el trapeado es su punto flojo y guarda un solo mapa. Analizamos.',
+    h1: 'Roomba Combo i5+: el Roomba 2 en 1 que se vacía solo — brilla aspirando, pero el trapeado es flojo',
+    pros: [
+      '4.3⭐ con 49 calificaciones y respaldo iRobot (con fama de durar: "la anterior me duró 8 años")',
+      'Manos libres totales: aspira, mapea por habitación y se vacía sola en su base hasta 60 días',
+      'Aspira fuerte (2.500 Pa, sistema AeroForce de 4 etapas) y es silenciosa; mejor que versiones anteriores',
+      'Cepillos de goma dobles anti-enredo: excelente para pelo de mascota',
+      'Mapeo inteligente + comando de voz (Alexa, Google, Siri): le decís "limpiá la cocina"',
+      'Detección de suciedad (Dirt Detect), apta para alfombras y pisos duros',
+    ],
+    cons: [
+      'El trapeado es el punto flojo: la mopa es "tímida", el tanque de agua es chico (hay que recargar seguido) y a algunos se les traba o deja el piso pegajoso',
+      'Solo guarda 1 mapa: si tenés casa de varios niveles, no podés mapear cada uno (te borra el principal)',
+      'Cara: varios compradores sienten que "vale menos" por lo que ofrece',
+      'Algunos reportan problemas de conexión WiFi que obligan a reiniciarla',
+      'No limpia unos 40 cm alrededor de la base y el mapeo inicial tarda más de 1 hora',
+    ],
+    verdict: 'El Roomba para olvidarte de aspirar: aspira, mapea por habitación y se vacía sola hasta 60 días, todo manos libres. Como aspiradora es de 10; como trapeadora es de mantenimiento flojo. Ideal para casas de un solo nivel que quieren máxima automatización del aspirado, con la pileta de service de iRobot detrás.',
+    bestOccasion: ['Casas de un solo nivel que quieren aspirado 100% automático', 'Hogares con mascotas (pelo de perro y gato)', 'Quien valora el autovaciado y el comando de voz'],
+    notRecommendedFor: ['Quien necesita un trapeado de verdad (la mopa es floja)', 'Casas de varios pisos o con desniveles (solo guarda un mapa)', 'Quien busca el máximo de funciones por su plata'],
+    articleBody: `## El Roomba que se vacía solo: el salto sobre la 692
+
+Si la [Roomba 692](/producto/MLA20657750) es la entrada que solo aspira y va al azar, la Combo i5+ es el otro extremo de la automatización: aspira, **trapea**, mapea por habitación y, lo más importante, **se vacía sola** en su base Clean Base hasta 60 días. Eso significa dos meses sin tocar el robot ni pensar en el polvo. Ese "+" del nombre es justamente la base de autovaciado, y es lo que más destacan los compradores: "salir de casa y volver con el piso limpio parece magia".
+
+Es el Roomba para quien quiere olvidarse del tema. Ahora bien, conviene saber en qué es excelente y en qué no, porque no todo rinde igual.
+
+## Aspira de 10: su punto más fuerte
+
+Como aspiradora es donde brilla. Usa el sistema AeroForce de 4 etapas con cepillos de goma dobles (no de cerdas), que se ajustan al piso y **no se enredan con el pelo de mascota** —un problema clásico de los robots con rodillo de cerdas—. Aspira con 2.500 Pa y, según las opiniones, "aspira más fuerte que las versiones anteriores" y es bastante silenciosa. Suma la tecnología Dirt Detect, que reconoce las zonas más sucias e insiste sobre ellas. Para pelo de perro y gato es de lo más elogiado: "la cantidad de suciedad que saca cuando pensás que tenés todo limpio es impresionante".
+
+## El trapeado es flojo: lo que tenés que saber
+
+Acá está la limitación más importante y la principal razón por la que el rating es 4.3 y no más alto. La Combo i5+ trapea con una almohadilla de microfibra que pasa con poca presión, y el resultado es de mantenimiento, no de limpieza profunda. Las opiniones son consistentes y conviene leerlas antes de comprar: "el trapeado es bastante flojo, tímido", "no pude hacer que lave el piso; si lava, se traba o deja pegajoso", "el depósito de agua es pequeño, hay que cambiarlo a cada rato y le quita autonomía".
+
+En criollo: sirve para repasar pisos duros ya limpios y darles una refrescada, no para sacar manchas. Si tu prioridad es un trapeado de verdad, este no es el robot. Para aspirar, en cambio, es excelente.
+
+## Mapea por habitación, pero solo guarda 1 mapa
+
+La i5+ arma un mapa inteligente de la casa (Imprint Smart Mapping) y te deja mandarla a limpiar una habitación puntual por app o por voz: "limpiá la cocina". Eso funciona bien una vez hecho el mapeo inicial, que tarda más de una hora la primera vez. Entiende comandos de Alexa, Google y Siri.
+
+El límite a tener en cuenta: **solo guarda un mapa**. Si tenés una casa de varios pisos o con desniveles, no podés mapear cada nivel: al crear uno nuevo te borra el principal. Varios lo marcan como su mayor decepción: "no podés tener más de un mapa", "tengo desniveles y no puede mapear todos los sectores". Si vivís en un solo nivel, no te afecta; si tu casa tiene escaleras, es un punto en contra fuerte. Un robot con multi-mapa, como la [Gadnic AC800 con LiDAR](/producto/MLA62126950), maneja varios planos.
+
+## ¿Vale el precio?
+
+Es la otra crítica honesta. A más de $1.280.000, varios compradores sienten que "vale menos" por lo que ofrece, sobre todo por el trapeado flojo. El contraargumento es la marca y la durabilidad: "la Roomba anterior me duró 8 años, esta es superior". Si comprás iRobot por la confiabilidad y el service local, y le das valor al autovaciado, el precio cierra. Si mirás funciones por plata, hay robots con LiDAR y mejor trapeado por menos —por ejemplo la [Samsung Jet Bot+](/producto/MLA26504431) con autovaciado y mapeo láser, o una [Xiaomi Robot Vacuum S20](/producto/MLA44714806)—.
+
+## En qué se diferencia de los otros Roomba del catálogo
+
+Frente a la [Roomba 692](/producto/MLA20657750), la i5+ suma todo: trapeado, mapeo y autovaciado (la 692 solo aspira y va al azar). Si querés que además **esquive objetos del piso** (cables, juguetes, sorpresas de la mascota) con su cámara, esa es la [Roomba j7](/producto/MLA37360592). Y el tope de gama es la [Roomba j9](/producto/MLA44718960). La i5+ es el punto dulce entre automatización (autovaciado + mapeo) y precio dentro de la línea.
+
+## Qué incluye la caja
+
+Robot Roomba Combo i5+, base de autovaciado Clean Base, contenedor Combo (aspirado + trapeado), almohadilla de trapeado, control remoto, un cepillo y el cable. Se controla desde la app iRobot Home por WiFi o por voz con Alexa, Google y Siri.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'iRobot / Roomba Combo i5+ (i557020)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador 2 en 1 con autovaciado' },
+      { label: 'Sistema de limpieza', value: 'AeroForce de 4 etapas con cepillos de goma dobles anti-enredo' },
+      { label: 'Succión', value: '2,5 kPa (2.500 Pa) · niveles Max y Normal' },
+      { label: 'Potencia', value: '120 W' },
+      { label: 'Navegación', value: 'Mapeo inteligente por habitación (Imprint Smart Mapping)' },
+      { label: 'Base de autovaciado', value: 'Sí (Clean Base, hasta 60 días)' },
+      { label: 'Trapeado', value: 'Sí (almohadilla swap & mop, de mantenimiento)' },
+      { label: 'Control', value: 'App iRobot Home (WiFi) + voz (Alexa, Google, Siri)' },
+      { label: 'Filtro HEPA', value: 'Sí' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí (cepillos anti-enredo)' },
+      { label: 'Funciones', value: 'Dirt Detect (detección de suciedad)' },
+      { label: 'Batería', value: 'Hasta 4 h · carga automática · retorno a la base' },
+      { label: 'Sensores', value: 'Obstáculo y anticaída' },
+      { label: 'Dimensiones', value: '34,3 × 34 × 9,14 cm' },
+      { label: 'Eficiencia energética', value: 'A++' },
+      { label: 'Color', value: 'Tejido neutro' },
+    ],
+    faq: [
+      { question: '¿La Roomba Combo i5+ se vacía sola? ¿Cada cuánto?', answer: 'Sí. Al terminar vuelve a su base Clean Base, que aspira el polvo del robot hacia una bolsa. En la práctica solo tenés que vaciar la bolsa cada hasta 60 días, es decir dos meses sin tocar el robot. Es lo que más destacan las opiniones y el "+" del nombre del modelo.' },
+      { question: '¿Trapea bien?', answer: 'Es su punto flojo. Trapea con una almohadilla de microfibra que pasa con poca presión, así que el resultado es de mantenimiento: refresca pisos duros ya limpios, no saca manchas. Varias opiniones lo confirman ("el trapeado es flojo, tímido", "si lava se traba o deja pegajoso") y mencionan que el tanque de agua es chico. Si buscás un trapeado de verdad, este no es el robot; para aspirar, en cambio, es excelente.' },
+      { question: '¿Mapea? ¿Puedo tener varios mapas o pisos?', answer: 'Mapea por habitación con Imprint Smart Mapping y la mandás a limpiar un ambiente puntual por app o por voz. El límite importante: solo guarda un mapa. Si tenés casa de varios niveles o con desniveles, no podés mapear cada uno (al crear uno nuevo borra el principal). Para un solo nivel funciona muy bien; para varios pisos es una limitación a considerar.' },
+      { question: '¿Sirve para pelo de mascota?', answer: 'Sí, es de lo más elogiado. Usa cepillos de goma dobles que no se enredan con el pelo (a diferencia de los rodillos de cerdas) y el sistema AeroForce de 4 etapas. Para pelo de perro y gato funciona muy bien y el autovaciado ayuda a no tener que limpiar el depósito seguido.' },
+      { question: '¿Se controla por voz?', answer: 'Sí, y es de los que más comandos entiende: se empareja con Alexa, Google Assistant y Siri, así que podés decirle "limpiá la cocina" o "limpiá todo". También se programa y controla desde la app iRobot Home por WiFi.' },
+      { question: '¿Vale el precio?', answer: 'Es una crítica honesta que aparece en las reseñas: por encima de $1.280.000, algunos sienten que "vale menos" por lo que ofrece, sobre todo por el trapeado flojo. Se justifica si comprás iRobot por la marca, la durabilidad (varios cuentan que el modelo anterior les duró años) y el autovaciado. Si priorizás funciones por plata, hay opciones con LiDAR y mejor trapeado por menos.' },
+      { question: '¿En qué se diferencia de la Roomba 692 o la j7?', answer: 'La Roomba 692 solo aspira y va al azar (sin mapeo, sin trapeo, sin autovaciado). La Combo i5+ suma trapeado, mapeo por habitación y base de autovaciado. La Roomba j7 agrega la cámara PrecisionVision que esquiva objetos del piso (cables, juguetes, sorpresas de mascota). La i5+ es el punto dulce entre automatización y precio.' },
+      { question: '¿Cuánto dura la batería?', answer: 'La autonomía es de hasta 4 horas según el uso, con retorno automático a la base. Como se vacía sola, en sesiones largas puede ir a vaciarse y seguir. Para casas medianas y grandes de un nivel rinde de sobra.' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Roomba Combo i5+, base de autovaciado Clean Base, contenedor Combo (aspirado + trapeado), almohadilla de trapeado, control remoto, un cepillo y el cable. Se controla desde la app iRobot Home por WiFi o por voz.' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', text: 'Es súper recomendable. No le pongo 5 estrellas porque el trapeado es bastante flojo, tímido diría. Todo lo demás es excelente: el mapeo de la casa, el aspirado y el vaciado. Realmente de primera.', useful: 5 },
+      { rating: 4, country: 'Argentina', text: 'Buen producto, lo usé dos veces, la batería dura bastante, pero sí me parece caro. Creo que vale menos.', useful: 5 },
+      { rating: 5, country: 'Argentina', text: 'Lo mejor del mundo. La Roomba anterior me duró 8 años, esta es superior.', useful: 2 },
+      { rating: 4, country: 'Argentina', text: 'El aparato es bárbaro, resolvió bien la limpieza por mapeo, limpia por habitación según le pido. Muy práctico el vaciamiento automático, hace un poco de ruido pero es comodísimo. El mapeo inicial tardó bastante más de 1 hora. Cuando limpia con agua lo hace bastante bien, y cuando aspira es silenciosa y más fuerte que sus versiones anteriores.', useful: 1 },
+      { rating: 4, country: 'Argentina', text: 'Es muy buena, pero no está bueno que no podés tener más de un mapa: te borra el principal. Si tenés una casa con escalones, no podés programar cada habitación.', useful: 1 },
+      { rating: 3, country: 'Argentina', text: 'Qué limpia, limpia, eso no se discute, y limpia bien. Ahora, tenemos problemas con la conexión al WiFi, y eso obliga a reiniciarla. Ya avisé a iRobot y aguardamos respuesta.', useful: 3 },
+      { rating: 3, country: 'Argentina', text: 'Limpia bien, pero no me resultó útil porque hace mapas de cada ambiente y, como tengo desniveles, no puede mapear todos los sectores. El depósito de agua es pequeño, hay que cambiarlo a cada rato y le quita autonomía. Muy caro, no lo volvería a comprar.', useful: 1 },
+      { rating: 5, country: 'Uruguay', text: 'Funciona bien, aspira bien. Pero no pude hacer que lave el piso: si lava, se traba o deja pegajoso.', useful: 0 },
+      { rating: 5, country: 'Argentina', text: 'Saber lo que es salir de casa y volver con el piso limpio, dejando todo ordenado previamente, parece magia. Un alivio y una alegría que te llena el pecho.', useful: 1 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot iRobot Roomba Combo i5+',
+      description: 'Aspiradora robot y trapeadora iRobot Roomba Combo i5+ (i557020) con base de autovaciado hasta 60 días, sistema AeroForce de 4 etapas, 2.500 Pa, cepillos de goma dobles anti-enredo, mapeo inteligente por habitación, app iRobot Home, control por voz (Alexa, Google, Siri) y filtro HEPA. Aspira y trapea; el trapeado es de mantenimiento.',
+      brand: { '@type': 'Brand', name: 'iRobot' },
+      model: 'Roomba Combo i5+ (i557020)',
+      sku: 'MLA27941233',
+      category: 'Aspiradoras robot',
+      color: 'Tejido neutro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_771543-MLA99937613189_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA27941233',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '1287399',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1bzFCeK',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.3',
+        reviewCount: '49',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA20657750', 'MLA37360592', 'MLA62126950'],
   },
   {
     id: 'MLA37360592',
