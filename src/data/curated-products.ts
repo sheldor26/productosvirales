@@ -7093,9 +7093,9 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
     id: 'MLA61420449',
     title: 'Aspiradora Robot Xiaomi Vacuum S40c E101 Blanco',
     brand: "Xiaomi",
-    price: 319900,
-    priceUpdated: "2026-06-07",
-    priceLastChecked: "2026-06-07",
+    price: 317366,
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: "fresh",
     originalPrice: 341000,
     currency: 'ARS',
@@ -7114,46 +7114,135 @@ Robot Midow, base de carga, adaptador de corriente, control remoto, tanque de ag
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 632,
+    reviewCount: 761,
+    reviewsWithPhotos: 4,
     soldQuantity: 1000,
+    line: 'Vacuum',
+    color: 'Blanco',
+    badge: 'viral',
     pastelColor: 'var(--pastel-amber)',
-    seoTitle: "Xiaomi Robot Vacuum S40c E101: review aspiradora robot",
-    metaDescription: "Análisis del Xiaomi Robot Vacuum S40c E101: 5000 Pa, navegación LDS, app Mi Home y soporte oficial Xiaomi. Comparación con Gadnic LIDAR y precio en Argentina.",
-    ogTitle: "Xiaomi Robot Vacuum S40c — la opción premium con ecosistema Mi Home",
-    ogDescription: "5000 Pa de succión, navegación LDS, app Mi Home con scheduling, no-go zones y zoned cleaning. La marca con mejor soporte oficial en Argentina.",
-    h1: "Xiaomi Robot Vacuum S40c E101: la opción Mi Home en Argentina",
-    specs: [
-      { label: "Marca", value: "Xiaomi" },
-      { label: "Modelo", value: "S40c E101" },
-      { label: "Tipo de navegación", value: "LDS (Laser Distance Sensor)" },
-      { label: "Succión", value: "5000 Pa" },
-      { label: "Modos", value: "4 niveles de potencia" },
-      { label: "Funciones", value: "Aspirado + trapeado húmedo" },
-      { label: "Control", value: "App Mi Home (WiFi 2.4 GHz)" },
-      { label: "Color", value: "Blanco" },
-      { label: "Voltaje", value: "220V (compatible Argentina)" },
-    ],
+    aiReviewSummary: 'Destaca por su increíble potencia de succión y capacidad para dejar los pisos impecables, ideal para el mantenimiento diario del hogar. Su mapeo eficiente y conexión rápida a la app permiten una limpieza autónoma y programada. Además es silenciosa, rápida y estéticamente agradable.',
+    seoTitle: 'Aspiradora Robot Xiaomi S40c: Mapeo Láser, Aspira y Trapea',
+    metaDescription: 'Aspiradora robot Xiaomi S40c: mapeo láser LDS, 5000 Pa, aspira y trapea, con app Xiaomi Home. 4.8★ con 761 opiniones. El Xiaomi con mapeo más accesible.',
+    ogTitle: 'Xiaomi S40c: el robot con mapeo láser más vendido y accesible',
+    ogDescription: '4.8★ con 761 opiniones. Mapeo láser LDS, 5000 Pa, aspira y trapea y se maneja por app. El mejor precio/calidad de la línea Xiaomi. Analizamos para quién rinde.',
+    h1: 'Aspiradora robot Xiaomi S40c: mapeo láser LDS, 5000 Pa y app, el Xiaomi con mapeo más accesible',
     pros: [
-      "Soporte oficial Xiaomi en Argentina — service y repuestos confiables",
-      "App Mi Home es probablemente la mejor del mercado en su rango (mejor que Tuya genérica)",
-      "Misma succión que el Gadnic LIDAR (5000 Pa) a $164K menos",
-      "Mi Home permite zoned cleaning, no-go zones, schedules y mapas multi-piso",
-      "Rating 4.8 con +1.000 unidades vendidas",
+      '4.8⭐ con 761 calificaciones: uno de los robots más vendidos y mejor valorados del catálogo',
+      'Mapeo láser LDS con escaneo 360°: recorre ordenado, con habitaciones y zonas prohibidas',
+      '5.000 Pa con 4 modos (hasta Turbo): muy bueno para levantar pelo de mascota',
+      'Aspira y trapea, con 3 niveles de caudal de agua',
+      'App Xiaomi Home muy completa: programás, editás zonas y te avisa por voz',
+      'El Xiaomi con mapeo láser más accesible: la mejor relación precio/calidad de la línea',
     ],
     cons: [
-      "Sin base autolimpiante — vas a vaciar el dust bin manualmente cada 2-3 limpiezas",
-      "Sin envío gratis — sumar al precio",
-      "Bolsa de polvo más chica que el Gadnic LIDAR top",
-      "El trapeado es función básica (mojado plano), no es comparable a un OZMO con bombeo",
+      'El trapeado es de mantenimiento: un paño húmedo que puede dejar alguna franja; conviene aspirar primero',
+      'Batería de ~2 h (menos en Turbo): en casas grandes puede no alcanzar en una sola carga',
+      'La torre del sensor LDS lo deja en unos 10 cm de alto: no entra bajo muebles muy bajos',
+      'Depósito con divisiones internas, algo incómodo de limpiar; repuestos difíciles de conseguir',
     ],
-    verdict: "Si confiás en marcas con soporte oficial y querés Mi Home como ecosistema, este es el robot a comprar. La diferencia vs el Gadnic LIDAR top es la base autolimpiante: si no la valorás (departamento chico, vaciar el bin no te molesta), el Xiaomi rinde más por peso. Para quien ya tiene devices Xiaomi (cámaras, focos, sensors), el Mi Home unifica todo.",
-    bestOccasion: ["Departamentos medianos", "Quien valora ecosistema Xiaomi", "Primer robot con buena app"],
-    notRecommendedFor: ["Quien quiere base autolimpiante (mejor el Gadnic LIDAR top)", "Casas con muchas alfombras gruesas"],
-    relatedProducts: ["MLA62126950", "MLA36838658"],
-    comparedTo: [
-      { name: "Gadnic 5000 Pa LIDAR 360", similarity: "Misma succión; Xiaomi sin base autolimpiante a $164K menos" },
+    verdict: 'El Xiaomi con mapeo láser más accesible y el mejor precio/calidad de la línea: mapea preciso, aspira fuerte y se maneja todo por app. El trapeado es de mantenimiento y la batería queda justa para casas grandes, pero para departamentos y mantenimiento diario con mascotas es una de las compras más recomendables del catálogo.',
+    articleBody: `## Mapeo láser LDS: la función que lo cambia todo
+
+A diferencia de los robots económicos que andan al azar, el S40c usa navegación **láser LDS con escaneo 360°**. En unos 15 minutos arma un mapa preciso de la casa en la app Xiaomi Home, y a partir de ahí recorre ordenado, sin repetir ni dejar huecos, y vuelve solo a la base.
+
+Sobre ese mapa hacés casi todo: elegís qué habitación limpiar, marcás zonas prohibidas y muros virtuales, y guardás la memoria del plano para no rescanear. Es lo que más destacan las 761 opiniones, y a este precio es donde el S40c se despega de un robot sin mapeo como la [Kärcher RCV 1](/producto/MLA42103831).
+
+## 5.000 Pa y 4 modos de succión
+
+La succión es de 5.000 Pa con cuatro modos: Silencioso (para la noche), Estándar (diario), Fuerte y Turbo (limpieza profunda). En las opiniones, el modo Turbo es el favorito para casas con mascotas: "no deja ni al gato cerca". Levanta bien pelo de perros y gatos, pelusa y migas, incluso lo que parecía piso limpio.
+
+## Aspira y trapea: qué esperar de la mopa
+
+Además de aspirar, trapea con un tanque de agua de 260 mL y tres niveles de caudal, que regulás según el piso (baldosa, madera). Conviene ser honesto, como lo son los compradores: la mopa es de mantenimiento. Pasa un paño húmedo que deja brillo y levanta el polvo fino, pero no saca manchas pegadas y puede dejar alguna franja si el piso está sucio. Lo mejor es aspirar primero y usar la mopa para repasar. Un truco que repiten varias opiniones: humedecer la mopa antes y lavarla siempre al terminar.
+
+## Batería y capacidad
+
+La batería es de 2600 mAh y da del orden de 2 horas, suficiente para limpiar un departamento entero con una carga. En modo Turbo rinde menos (cerca de 50 minutos), así que en casas grandes puede necesitar dos cargas o conviene el modelo superior. El depósito de polvo es de 520 mL y el tanque de agua de 260 mL.
+
+Si tu casa es grande o querés más autonomía y succión, el salto natural es el [Xiaomi S40 Pro](/producto/MLA66281403), que suma 15.000 Pa, brazo extensible y 180 minutos.
+
+## La altura: ojo si querés limpiar bajo los muebles
+
+Un detalle que aparece en las opiniones: la torre del sensor láser sobresale arriba, así que el equipo mide alrededor de 10 cm de alto y no pasa por debajo de camas y sillones muy bajos. Algunos compradores le agregan tacos a las patas de los muebles para ganar altura. Si limpiar bajo los muebles bajos es tu prioridad, un robot finito de 7 cm como la Kärcher RCV 1 entra donde este no, aunque renuncia al mapeo.
+
+## En qué se diferencia de los otros robots del catálogo
+
+El S40c es el punto justo de la línea Xiaomi: tenés el mapeo láser y la app a un precio accesible. Por encima está el [S40 Pro](/producto/MLA66281403), con más succión, brazo extensible y más batería. Por debajo, los robots económicos del catálogo no mapean. Frente a un 2 en 1 barato como la [Gadnic AspiRob](/producto/MLA42045783), el Xiaomi gana en navegación (láser vs aleatoria) y app. Es la compra recomendada para quien quiere mapeo real sin pagar la gama alta.
+
+## Para quién es
+
+Ideal para departamentos y casas medianas, mantenimiento diario y hogares con mascotas. Si buscás un primer robot con mapeo de verdad y una buena app, sin gastar en la gama premium, el S40c es de lo mejor que hay en el catálogo.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Xiaomi / Robot Vacuum S40C (BHR9664EU · E101)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador' },
+      { label: 'Succión', value: '5.000 Pa (5 kPa) · 4 modos' },
+      { label: 'Potencia', value: '55 W' },
+      { label: 'Navegación', value: 'Láser LDS con escaneo 360° · memoria de mapas' },
+      { label: 'Funciones', value: 'Selección de habitaciones, zonas prohibidas, detección de suciedad, programación' },
+      { label: 'Sensores', value: 'Obstáculo + detección de desniveles' },
+      { label: 'Fregado', value: 'Tanque de agua con 3 niveles de caudal' },
+      { label: 'Depósito de polvo', value: '520 mL' },
+      { label: 'Tanque de agua', value: '260 mL' },
+      { label: 'Control', value: 'App Xiaomi Home (WiFi) + voz (Alexa, Google)' },
+      { label: 'Conectividad', value: 'WiFi + Bluetooth' },
+      { label: 'Apto pelo de mascota', value: 'Sí' },
+      { label: 'Batería', value: '2600 mAh · del orden de 2 h · retorno automático' },
+      { label: 'Altura', value: '~10 cm (con torre del sensor LDS)' },
+      { label: 'Color / Voltaje', value: 'Blanco / 220 V' },
     ],
-    description: 'Xiaomi Robot Vacuum S40C-E101 NUEVO LANZAMIENTO Potente ventilador de succión de 5000 Pa . Aspira rápidamente partículas grandes y pelo. La potencia de succión mejorada de 5000 Pa proporciona una eficiencia de limpieza superior. Con cuatro modos de potencia, la aspiradora aspira fácilmente diversas ',
+    faq: [
+      { question: '¿La Xiaomi S40c mapea la casa?', answer: 'Sí, con navegación láser LDS y escaneo 360°. Arma un mapa preciso en la app Xiaomi Home en unos 15 minutos, recorre ordenado sin repetir y guarda la memoria del plano. Desde la app elegís habitaciones, marcás zonas prohibidas y muros virtuales. Es la función más valorada en las opiniones.' },
+      { question: '¿Cuánta succión tiene y sirve para mascotas?', answer: '5.000 Pa con cuatro modos (Silencioso, Estándar, Fuerte y Turbo). En Turbo levanta muy bien pelo de perros y gatos, pelusa y migas. Es de los usos más mencionados por los compradores con mascotas.' },
+      { question: '¿Trapea bien?', answer: 'Trapea como mantenimiento. Pasa un paño húmedo con tres niveles de caudal de agua que deja brillo y levanta el polvo fino, pero no saca manchas pegadas y puede dejar alguna franja si el piso está sucio. Lo ideal es aspirar primero y usar la mopa para repasar.' },
+      { question: '¿Cuánto dura la batería?', answer: 'La batería de 2600 mAh da del orden de 2 horas, suficiente para un departamento con una carga. En modo Turbo rinde menos (cerca de 50 minutos), así que en casas grandes puede necesitar dos cargas o conviene un modelo con más autonomía como el S40 Pro.' },
+      { question: '¿Entra bajo los muebles?', answer: 'No bajo los muy bajos. La torre del sensor láser sobresale arriba y deja el equipo en unos 10 cm de alto, así que no pasa por debajo de camas y sillones bajos. Algunos compradores le ponen tacos a las patas de los muebles para ganar altura.' },
+      { question: '¿En qué se diferencia del Xiaomi S40 Pro?', answer: 'El S40 Pro es la gama superior: 15.000 Pa (vs 5.000), brazo y mopa extensibles para llegar a las esquinas, doble mopa rotatoria y hasta 180 minutos de batería, a un precio bastante más alto. El S40c ofrece el mapeo láser y la app a un precio mucho más accesible.' },
+      { question: '¿En qué se diferencia de un robot sin mapeo?', answer: 'Un robot sin mapeo (más económico) anda al azar, repite zonas y no se programa por habitaciones. El S40c arma el plano de la casa con láser, recorre ordenado y te deja elegir qué y cuándo limpiar desde la app. Esa diferencia es la que justifica el salto de precio.' },
+      { question: '¿Para quién es ideal?', answer: 'Para departamentos y casas medianas, mantenimiento diario y hogares con mascotas. Es la mejor opción para un primer robot con mapeo de verdad y buena app, sin pagar la gama premium.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'De los mejores productos que compré. No limpio más, no aspiro más el piso, hace todo. La tengo en blanco y le pago cargas sociales.', useful: 38 },
+      { rating: 5, country: 'Argentina', text: 'Mi depto es de 40 m2 y lo creía innecesario; después de una semana ya lo creo fundamental. Con aspirar, el piso queda impecable. La mopa no saca manchas adheridas pero deja un brillo hermoso. Es silencioso y supera desniveles de un centímetro. Lo paso todos los días y le sobra batería.', useful: 27 },
+      { rating: 5, country: 'Argentina', text: 'Si estás pensando comprar un robot aspiradora, este es el indicado. Nunca se traba, configurás día y horario para que empiece solo, vuelve perfecto a su base, hace un plano perfecto de tu casa y los sensores evitan los objetos tirados. La súper recomiendo.', useful: 24 },
+      { rating: 5, country: 'Argentina', text: 'Tengo dos gatos en un depto. Pasa fácil por debajo de mi somier y hasta superó las patas de un tender que dejé. La mopa no la uso mucho: si la dejás puesta arrastra y deja marcas si hay polvo, prefiero pasar yo el trapo. Pero para los pelos, de repente dejé de tener bolas de pelo por todos lados, es el paraíso.', useful: 11 },
+      { rating: 5, country: 'Argentina', text: 'Mejora notable respecto de la Xiaomi E5 de entrada: más potencia, menos ruido y el escaneo inteligente de habitaciones con el mapa interactivo, súper intuitivo. Si no querés gatillar tu primera aspiradora al precio de esta, la E5 cumple; pero si podés estirarte, este modelo vale la pena.', useful: 7 },
+      { rating: 4, country: 'Argentina', text: 'No pasa debajo de la cama, le puse unos taquitos que le dan 5 cm más de alto a las patas y ahora pasa perfecto. En los bordes no pasa bien pero lo repaso yo. Me facilitó mucho la limpieza.', useful: 7 },
+      { rating: 4, country: 'Argentina', text: 'El contenedor de polvo no es lo más práctico al limpiarlo porque tiene divisiones internas, a veces hay que sacar la pelusa y los pelos a mano. El depósito de agua es bastante más chico que el de otros modelos, dudo que alcance para más de una habitación.', useful: 6 },
+      { rating: 4, country: 'Argentina', text: 'La compré para mi comedor de 42 m2 y en Turbo la batería dura poco más de 30 minutos, la mitad del espacio. Aspira bien pero esperaba que con una carga hiciera aspirado y lavado de todo el ambiente.', useful: 0 },
+    ],
+    relatedProducts: ['MLA66281403', 'MLA42103831', 'MLA42045783'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Xiaomi Robot Vacuum S40c',
+      description: 'Aspiradora robot y trapeador Xiaomi Robot Vacuum S40c con navegación láser LDS y escaneo 360°, 5.000 Pa de succión con 4 modos, mapeo inteligente con selección de habitaciones y zonas prohibidas, app Xiaomi Home, control por voz, depósito de polvo de 520 mL y tanque de agua de 260 mL.',
+      brand: { '@type': 'Brand', name: 'Xiaomi' },
+      model: 'S40C (BHR9664EU)',
+      sku: 'MLA61420449',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_646110-MLA96422826488_102025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA61420449',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '317366',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/16WtjsG',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '761',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    bestOccasion: ['Departamentos y casas medianas', 'Mantenimiento diario con mascotas', 'Primer robot con mapeo láser y buena app'],
+    notRecommendedFor: ['Limpieza profunda (la mopa es de mantenimiento)', 'Casas muy grandes en una sola carga', 'Quien quiere limpiar bajo muebles muy bajos'],
+    description: 'La aspiradora robot Xiaomi S40c usa navegación láser LDS para mapear la casa con precisión, recorrer ordenado y dejar que elijas habitaciones y zonas desde la app Xiaomi Home. Con 5.000 Pa y cuatro modos de succión aspira muy bien el pelo de mascota, y trapea con tanque de agua de 260 mL para el mantenimiento diario. Es el Xiaomi con mapeo láser más accesible del catálogo.',
   },
   {
     id: 'MLA3372015976',
