@@ -6688,8 +6688,8 @@ Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterale
     title: 'Aspiradora Robot Trapeadora Gadnic AspiRob Recargable Inteligente Detecta Obstáculos Mapeo App',
     brand: "Gadnic",
     price: 330049,
-    priceUpdated: "2026-06-06",
-    priceLastChecked: "2026-06-06",
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: "fresh",
     originalPrice: 583249,
     currency: 'ARS',
@@ -6708,40 +6708,129 @@ Robot Gadnic AspiRob, adaptador de corriente, base de carga, 2 cepillos laterale
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 868,
+    reviewCount: 872,
+    reviewsWithPhotos: 4,
     soldQuantity: 1000,
+    line: 'Rob',
+    color: 'Negro',
+    badge: 'viral',
     pastelColor: 'var(--pastel-amber)',
-    seoTitle: "Gadnic AspiRob: review aspiradora robot con app y trapeo",
-    metaDescription: "Análisis del Gadnic AspiRob: aspiradora trapeadora con mapeo láser, motor NIDEC 3000 Pa y app. Mid-tier del catálogo Gadnic con descuento de 48%.",
-    ogTitle: "Gadnic AspiRob — la opción Gadnic intermedia con láser y trapeo",
-    ogDescription: "Mapeo láser, motor NIDEC 3000 Pa, aspirado y trapeo, app de control. La opción Gadnic intermedia entre el modelo básico y el LIDAR con base autolimpiante.",
-    h1: "Gadnic AspiRob: el robot intermedio del catálogo Gadnic",
+    aiReviewSummary: 'Es altamente recomendada por su capacidad para barrer, aspirar y trapear eficazmente, dejando los pisos impecables. Es fácil de configurar y programar, lo que permite un uso eficiente en diferentes habitaciones, y es especialmente útil para hogares con mascotas. Además, su mapeo preciso y funcionamiento silencioso la convierten en una gran aliada.',
+    seoTitle: 'Aspiradora Robot Gadnic AspiRob: Mapeo Láser y 3000 Pa',
+    metaDescription: 'Aspiradora robot Gadnic AspiRob: mapeo láser LiDAR, 3000 Pa, aspira y trapea, app y voz. El mapeo de Gadnic más accesible. 4.8★ con 872 opiniones.',
+    ogTitle: 'Aspiradora Robot Gadnic AspiRob: el mapeo láser de Gadnic más accesible',
+    ogDescription: '4.8★ con 872 opiniones. Mapeo láser de verdad, 3000 Pa, aspira y trapea, app y voz, muy silenciosa. El LiDAR de Gadnic sin pagar el premium. Para quién rinde.',
+    h1: 'Aspiradora robot Gadnic AspiRob: mapeo láser, 3000 Pa y trapeo, el LiDAR de Gadnic más accesible',
+    articleBody: `## Mapeo láser de verdad
+
+A diferencia del [Gadnic 5 Modos](/producto/MLA45951645), que navega de forma giroscópica, el AspiRob ROB00122 trae **mapeo láser LiDAR**. Hace un plano preciso de la casa, lo guarda y recorre ordenado sin chocar (después de la primera vuelta de reconocimiento). Desde la app elegís qué habitación limpiar, marcás zonas y muros virtuales, y podés guardar varios mapas, por ejemplo planta alta y planta baja. En las 872 opiniones es de lo más valorado: "el mapeo es genial, se ve el recorrido en la app", "no choca contra nada".
+
+## 3000 Pa: aspira y trapea
+
+Aspira con 3000 Pa (motor NIDEC) y refuerza la potencia automáticamente al detectar una alfombra. Es muy bueno para pelo de mascota, el uso estrella en las opiniones ("tengo dos gatos y junta todos los pelos"). También trapea, con un tanque de agua de 250 mL y un modo de trapeado en Y. Honestidad por delante: el trapeado es de mantenimiento, no saca manchas y puede dejar el piso un poco marcado, porque la mopa no ejerce mucha presión. Lo mejor es aspirar con el robot y, si hay manchas, pasar el trapo a mano.
+
+## Muy silenciosa y fácil por app
+
+Con 58 dB es de las más silenciosas del catálogo, algo que repiten muchas opiniones. Se conecta por WiFi a la app (Smart Life / Tuya), desde donde la programás, elegís zonas y la controlás a distancia, incluso fuera de casa, y responde por voz a Alexa y Google. Avisos honestos del panorama: solo conecta a WiFi de 2,4 GHz y a algunos les cuesta el emparejamiento; la voz del robot puede venir en inglés y en ciertas unidades no se cambia a español; y Google Home a veces no la reconoce (con Tuya/Smart Life va bien).
+
+## Sin autovaciado: el mantenimiento
+
+Es importante saberlo: el AspiRob tiene base de carga, pero **no tiene base de autovaciado**. Vaciás el depósito de polvo a mano, y conviene hacerlo a diario porque es chico y se llena rápido, sobre todo con mascotas. El mantenimiento semanal (limpiar filtro, cepillos y mopa) lleva unos 10 a 15 minutos. Si querés que el robot se vacíe solo, esa función la tiene el [Gadnic AC800 LiDAR](/producto/MLA62126950) con su base autolimpiante, a mayor precio.
+
+## Para mascotas
+
+Es donde mejor rinde. Aspira muy bien el pelo de perros y gatos, y con el mapeo mantenés la casa con poco esfuerzo: la programás por zonas y vuelve sola a la base. Con una carga limpia casas de 100 m² y le sobra. Un detalle honesto: por la torreta del sensor láser (9,8 cm de alto), no entra bajo los muebles muy bajos.
+
+## En qué se diferencia de los otros robots del catálogo
+
+Dentro de Gadnic, el AspiRob es el punto medio: tiene el mapeo láser que el [5 Modos](/producto/MLA45951645) no tiene (aquel es giroscópico), pero sin la base autolimpiante ni los 5000 Pa del [AC800 LiDAR](/producto/MLA62126950). Frente a una Xiaomi con mapeo como la [S20](/producto/MLA44714806), juega en un rango parecido, con la ventaja de la marca local. El AspiRob se elige por ser el mapeo láser más accesible de Gadnic.
+
+## Qué incluye la caja
+
+Robot Gadnic AspiRob, adaptador, estación de carga, 2 cepillos laterales, trapeador, filtro HEPA, soporte para la fregona y cepillo de limpieza. Se maneja desde la app (no trae control remoto).`,
+    faq: [
+      { question: '¿La Gadnic AspiRob mapea de verdad?', answer: 'Sí. A diferencia del Gadnic 5 Modos (giroscópico), el AspiRob ROB00122 trae mapeo láser LiDAR: hace un plano preciso de la casa, lo guarda y recorre ordenado. Desde la app elegís habitaciones, marcás zonas y muros virtuales y podés guardar varios mapas (planta alta y baja). Es de lo más valorado en las opiniones.' },
+      { question: '¿Aspira bien? ¿Sirve para mascotas?', answer: 'Sí, es donde mejor rinde. Aspira con 3000 Pa (motor NIDEC) y refuerza la potencia en alfombras. Las opiniones destacan cuánto pelo de perros y gatos levanta. Con mascotas conviene vaciar el depósito a diario porque es chico.' },
+      { question: '¿Trapea bien?', answer: 'El trapeado es de mantenimiento. Trapea con un tanque de 250 mL y un modo en Y, pero no saca manchas y puede dejar el piso un poco marcado porque la mopa no ejerce mucha presión. Lo mejor es aspirar con el robot y pasar el trapo a mano si hay manchas.' },
+      { question: '¿Se vacía sola?', answer: 'No. Tiene base de carga pero no base de autovaciado: vaciás el depósito de polvo a mano, y conviene hacerlo a diario porque es chico. El mantenimiento semanal (filtro, cepillos, mopa) lleva 10 a 15 minutos. Si querés autovaciado, lo tiene el Gadnic AC800 LiDAR, a mayor precio.' },
+      { question: '¿Cómo es la app, la voz y el WiFi?', answer: 'Se conecta por WiFi (Smart Life / Tuya), se programa por zonas y se controla a distancia, y responde por voz a Alexa y Google. Avisos honestos: solo WiFi de 2,4 GHz y a algunos les cuesta emparejarla; la voz puede venir en inglés y en ciertas unidades no se cambia a español; y Google Home a veces no la reconoce (con Tuya va bien).' },
+      { question: '¿Entra bajo los muebles?', answer: 'Solo bajo los de altura normal. Por la torreta del sensor láser mide 9,8 cm de alto, así que no pasa por debajo de muebles muy bajos. Conviene medir la luz libre antes de comprar.' },
+      { question: '¿En qué se diferencia del Gadnic 5 Modos y del AC800 LiDAR?', answer: 'El 5 Modos navega giroscópico y no guarda mapa; el AspiRob tiene mapeo láser real, pero sin la base autolimpiante ni los 5000 Pa del AC800 LiDAR. El AspiRob es el mapeo láser más accesible de Gadnic; el AC800 es el premium con autovaciado.' },
+      { question: '¿Qué incluye la caja?', answer: 'Robot Gadnic AspiRob, adaptador, estación de carga, 2 cepillos laterales, trapeador, filtro HEPA, soporte para la fregona y cepillo de limpieza. Se maneja desde la app (no trae control remoto).' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Llevo pocos días con esperancita y ya la amo. Su punto fuerte es el barrido y aspirado; la mopa basta floja, solo para usar después de haber trapeado uno mismo y pedirle que mantenga. Tiene buena navegación, es súper silenciosa y, aunque se choca con todo, va y viene sin quejarse. Al 20% de batería se va sola a la base. Lo mejor es el uso remoto con la app, la controlás a distancia y ves por dónde limpió.', useful: 104 },
+      { rating: 5, country: 'Argentina', text: 'Buen producto en relación precio calidad, es gama intermedia, se lo ve bien construido. La batería dura lo justo para un depto de 50 m2. Limpia muy bien. La app y la configuración súper fáciles; una vez que escanea todo, va perfecto. Súper recomendable si no querés gastar un palo ni comprar una básica de 300 mil.', useful: 94 },
+      { rating: 5, country: 'Argentina', text: 'Ya tiene 3 meses de uso y estoy sorprendido, más que nada con el modo mopa: a la primera pasada queda muy bien el piso, aunque no como si lo pasara uno porque la presión no es mucha. Hay que hacerle un mantenimiento de 10 a 15 minutos por semana y vaciarle el depósito a diario. Tengo 5 mascotas (3 gatos y 2 perros) y me salvó.', useful: 59 },
+      { rating: 4, country: 'Argentina', text: 'Está bueno cómo mapea las habitaciones y se puede ver el recorrido en la app, queda guardado en el historial. Una desventaja es la altura: con la torreta hay muebles por debajo de los cuales no puede pasar. A veces le cuesta un poco encontrar la base, pero siempre la termina encontrando.', useful: 49 },
+      { rating: 4, country: 'Argentina', text: 'Lo malo es que el idioma de la voz es inglés y no puedo cambiarlo.', useful: 50 },
+      { rating: 4, country: 'Argentina', text: 'Va bien con Tuya o con Smart Life, pero no hay manera de que lo reconozca Google Home.', useful: 31 },
+      { rating: 5, country: 'Argentina', text: 'Muy autónoma y buen producto. A veces se desacomoda el mapa, pero si estás pensando en una aspiradora robot esta es una gran opción por su precio. Comparada con la Xiaomi es mucho más barata, y las del mismo rango de precio no mapean, así que esta es mejor por ofrecer esa funcionalidad.', useful: 16 },
+      { rating: 4, country: 'Argentina', text: 'Es un diez, aspira súper y el mapeo es genial. El trapeado es la parte floja: quedan las manchas del piso y cuando termina tenés que pasar un trapo, pero cumple muy bien. Tengo 2 perros y mi casa está limpia sin esfuerzo. Y es súper silenciosa.', useful: 10 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Gadnic AspiRob',
+      description: 'Aspiradora robot y trapeador Gadnic AspiRob (ROB00122) con mapeo láser LiDAR, 3000 Pa de succión (motor NIDEC), aspirado y trapeado simultáneos, tanque de agua de 250 mL, depósito de polvo de 400 mL, app por WiFi, control por voz (Alexa, Google), filtro HEPA, refuerzo en alfombras y hasta 120 minutos de autonomía.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'AspiRob (ROB00122)',
+      sku: 'MLA36838658',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_950503-MLA100012462368_122025-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA36838658',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '330049',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2mPhJwy',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '872',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
     specs: [
-      { label: "Marca", value: "Gadnic" },
-      { label: "Modelo", value: "AspiRob" },
-      { label: "Tipo de navegación", value: "Mapeo láser con detección de obstáculos" },
-      { label: "Succión", value: "3000 Pa (motor NIDEC)" },
-      { label: "Funciones", value: "Aspirado + trapeado" },
-      { label: "Control", value: "App + recargable" },
-      { label: "Voltaje", value: "220V (mercado argentino)" },
+      { label: 'Marca / Modelo', value: 'Gadnic / AspiRob (ROB00122)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador' },
+      { label: 'Succión', value: '3000 Pa (3 kPa) · motor NIDEC' },
+      { label: 'Navegación', value: 'Láser LiDAR (mapas guardados, zonas y muros virtuales)' },
+      { label: 'Base', value: 'De carga (sin autovaciado)' },
+      { label: 'Modos de limpieza', value: 'Auto, Spot, Borde, Trapeador en Y' },
+      { label: 'Control', value: 'App Smart Life / Tuya (WiFi 2,4 GHz) + voz (Alexa, Google)' },
+      { label: 'Fregado', value: 'Tanque de agua de 250 mL' },
+      { label: 'Depósito de polvo', value: '400 mL' },
+      { label: 'Filtro', value: 'HEPA' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí (refuerzo automático) / Sí' },
+      { label: 'Batería', value: '2600 mAh · 80 a 120 min · carga 4 a 5 h · retorno automático' },
+      { label: 'Nivel de ruido', value: '58 dB' },
+      { label: 'Dimensiones', value: 'Ø 34,5 cm · 9,8 cm de alto' },
+      { label: 'Color', value: 'Negro' },
     ],
     pros: [
-      "Motor NIDEC — más confiable que motores genéricos",
-      "Mapeo láser sin pagar el extra del LIDAR top",
-      "Combinación aspirado + trapeo para uso diario en pisos duros",
-      "Descuento del 48% sobre precio de lista",
-      "Rating 4.8 con +1.000 unidades vendidas",
+      '4.8⭐ con 872 calificaciones: el mapeo láser de Gadnic más accesible',
+      'Mapeo láser LiDAR de verdad: guarda el mapa, recorre ordenado y elegís zonas desde la app',
+      'Muy silenciosa (58 dB): de las más silenciosas del catálogo',
+      '3000 Pa: aspira muy bien el pelo de mascota; aspira y trapea en una pasada',
+      'App fácil + voz (Alexa, Google) y multi-mapa para casas de dos pisos',
+      'Hasta 120 min de autonomía; marca local con buena relación precio/calidad',
     ],
     cons: [
-      "Sin base autolimpiante — vas a vaciar el dust bin manualmente",
-      "3000 Pa es el mínimo aceptable para pelos de mascota — si tenés perro/gato grande, vas a querer el modelo LIDAR top",
-      "Sin envío gratis",
-      "App genérica (Tuya o similar), no premium",
+      'El trapeado es flojo: no saca manchas y deja el piso un poco marcado; el tanque de agua (250 mL) no alcanza toda la casa',
+      'Sin base de autovaciado: hay que vaciar el depósito de polvo a diario (es chico)',
+      'La voz del robot puede venir en inglés y en algunas unidades no se cambia a español',
+      'Por la torreta del LiDAR (9,8 cm) no entra bajo muebles muy bajos; WiFi solo 2,4 GHz',
     ],
-    verdict: "Es el robot Gadnic correcto para casas medianas sin mascotas pesadas. Si pesa la diferencia de precio, este AspiRob ahorra ~$200K vs el LIDAR top a costa de la base autolimpiante y la mejor succión. Para departamentos sin alfombras gruesas, cumple. Si tenés mascota grande o alfombras, mejor estirar al LIDAR.",
-    bestOccasion: ["Departamentos medianos", "Pisos duros", "Casas sin mascota grande"],
-    notRecommendedFor: ["Casas con mascotas que sueltan mucho pelo", "Quien quiere base autolimpiante"],
-    relatedProducts: ["MLA62126950", "MLA42045783"],
+    verdict: 'El mapeo láser de Gadnic más accesible: mapea de verdad, guarda el plano de la casa y te deja elegir zonas desde la app, todo muy silencioso y a precio de gama intermedia. Aspira muy bien el pelo de mascota; el trapeado es solo para mantener y no tiene autovaciado (vaciás el depósito a diario). Si querés mapeo real sin pagar el premium, es de las mejores compras del catálogo.',
+    bestOccasion: ['Mapeo láser a precio accesible', 'Hogares con mascotas', 'Casas medianas con varios ambientes/pisos'],
+    notRecommendedFor: ['Quien quiere base de autovaciado (mejor el AC800 LiDAR)', 'Limpieza profunda (el trapeado es de mantenimiento)', 'Muebles muy bajos (mide 9,8 cm)'],
+    relatedProducts: ['MLA45951645', 'MLA62126950', 'MLA44714806'],
     description: 'Limpieza inteligente con tecnología láser La Aspiradora Robot Gadnic con Estación de Descarga redefine la limpieza del hogar con su sistema de navegación láser avanzada, que mapea tu casa con precisión milimétrica para cubrir cada rincón de forma eficiente. Su potente motor NIDEC de 3000 Pa ofrece u',
   },
   {

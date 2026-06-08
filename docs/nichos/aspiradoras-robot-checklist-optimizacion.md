@@ -7,9 +7,9 @@
 > customerReviews reales, humanizer) → verificar (lint + parseo + links) → commit.
 > Detalle del método y estrategia: `docs/nichos/aspiradoras-robot-seo-ubersuggest.md`.
 
-## Estado: 13 / 18 completas — ✅ Tier 1 Xiaomi + Tier 2 Atma COMPLETOS
+## Estado: 14 / 18 completas — ✅ Tier 1 Xiaomi + Tier 2 Atma + Tier 3 Gadnic COMPLETOS
 
-### ✅ Ya optimizadas (13)
+### ✅ Ya optimizadas (14)
 
 | # | Producto | ID | Marca |
 | --- | --- | --- | --- |
@@ -26,6 +26,7 @@
 | ✅ | Atma Atar21c1dh | MLA18642318 | Atma |
 | ✅ | Gadnic 5 Modos | MLA45951645 | Gadnic |
 | ✅ | Gadnic 5000 Pa LIDAR 360 | MLA62126950 | Gadnic |
+| ✅ | Gadnic AspiRob Mapeo App | MLA36838658 | Gadnic |
 
 ### ⬜ Pendientes (14) — en orden de prioridad (ROI por Ubersuggest)
 
@@ -52,13 +53,13 @@
 | --- | --- | --- | --- |
 | 8 | Gadnic 5 Modos Trapeo App | MLA45951645 | ✅ |
 | 9 | Gadnic 5000 Pa LIDAR 360 Autolimpiante | MLA62126950 | ✅ |
-| 10 | Gadnic AspiRob Recargable Mapeo App | MLA36838658 | ⬜ ← SIGUIENTE |
+| 10 | Gadnic AspiRob Recargable Mapeo App | MLA36838658 | ✅ |
 
 **Tier 4 — Samsung** (`aspiradora robot samsung` 1.300/mes; queda 1)
 
 | # | Producto | ID | Estado |
 | --- | --- | --- | --- |
-| 11 | Samsung Powerbot E 2 en 1 | MLA18917302 | ⬜ |
+| 11 | Samsung Powerbot E 2 en 1 | MLA18917302 | ⬜ ← SIGUIENTE |
 
 **Tier 5 — Fika + genérica** (long-tail `robot aspiradora y trapeadora`, mascotas)
 
