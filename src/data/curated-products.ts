@@ -18611,8 +18611,8 @@ Ideal para gente ocupada, hogares con mascotas y quien quiere el máximo de auto
     id: 'MLA44714806',
     title: 'Aspiradora robot Xiaomi Vacuum S20 negra',
     price: 446859,
-    priceUpdated: "2026-06-07",
-    priceLastChecked: "2026-06-07",
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: 'fresh',
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_877835-MLA100061229999_122025-F.jpg',
@@ -18630,16 +18630,135 @@ Ideal para gente ocupada, hogares con mascotas y quien quiere el máximo de auto
     affiliateUrl: 'https://meli.la/18CB1Wa',
     condition: 'new',
     freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3820,
+    reviewsWithPhotos: 4,
     brand: 'Xiaomi',
-    badge: 'collector',
+    line: 'Vacuum',
+    color: 'Negro',
+    badge: 'viral',
     pastelColor: 'var(--pastel-amber)',
-    description: 'La Aspiradora Xiaomi Robot Vacuum S20 es la solución perfecta para mantener tu hogar limpio y ordenado sin esfuerzo. Con un diseño compacto de 32.5 cm de diámetro y una altura de solo 9.8 mm, se adapta a cualquier espacio, incluso bajo muebles. Su potente sistema de succión de 5000 Pa y sus múltiples niveles de succión, que incluyen modos silencioso, normal y turbo, garantizan una limpieza profunda en todo tipo de su',
-    seoTitle: 'Aspiradora robot Xiaomi Vacuum S20 negra',
-    metaDescription: 'Aspiradora robot Xiaomi Vacuum S20 negra: precio, ficha y opiniones. Aspiradora robot Xiaomi en Argentina. Comprala en MercadoLibre con envío.',
-    ogTitle: 'Aspiradora robot Xiaomi Vacuum S20 negra — ¿conviene?',
-    ogDescription: 'La Aspiradora Xiaomi Robot Vacuum S20 es la solución perfecta para mantener tu hogar limpio y ordenado sin esfuerzo. Con un diseño compacto de 32.5 cm',
-    h1: 'Aspiradora robot Xiaomi Vacuum S20 negra',
-    relatedProducts: ['MLA18642318', 'MLA20033508', 'MLA61420449'],
+    aiReviewSummary: 'Su sistema de mapeo es preciso y la aplicación es intuitiva, lo que facilita su programación y control. Además, es especialmente efectiva para recoger pelos de mascotas y navegar por espacios complejos, lo que la convierte en una inversión valiosa para mantener la casa limpia.',
+    seoTitle: 'Aspiradora Robot Xiaomi S20: Mapeo LiDAR y 5000 Pa',
+    metaDescription: 'Aspiradora robot Xiaomi S20: mapeo LiDAR, 5000 Pa, aspira y trapea, con app y voz. 4.7★ con 3.820 opiniones. El Xiaomi con mapeo más vendido y accesible.',
+    ogTitle: 'Xiaomi S20: el robot con mapeo LiDAR más vendido (3.820 opiniones)',
+    ogDescription: '4.7★ con 3.820 opiniones. Mapeo LiDAR preciso, 5000 Pa, aspira y trapea y se maneja por app. Analizamos el value pick de Xiaomi y para quién rinde.',
+    h1: 'Aspiradora robot Xiaomi S20: mapeo LiDAR y 5000 Pa, el Xiaomi con mapeo más vendido y accesible',
+    pros: [
+      '4.7⭐ con 3.820 calificaciones: el robot con mapeo más vendido y validado del catálogo',
+      'Mapeo LiDAR preciso a precio accesible: recorre ordenado, con zonas y paredes virtuales',
+      '5.000 Pa con 3 niveles: muy bueno para levantar pelo de mascota y polvo fino',
+      'Aspira y trapea en una sola pasada (tanque de agua de 270 mL)',
+      'Slim (9,8 cm) y compacto (32 cm): pasa bajo muchos muebles y entre las sillas',
+      'Batería de hasta 2 h: limpia casas medianas y grandes con una carga y vuelve sola a la base',
+    ],
+    cons: [
+      'Viene con enchufe extranjero (brasileño/americano): hay que comprar adaptador',
+      'Solo WiFi 2,4 GHz y la app para editar el mapa es floja (cuesta dividir ambientes y poner barreras)',
+      'El trapeado es de mantenimiento: paño simple (no rotatorio), no saca manchas y deja marcas en piso brillante',
+      'El cepillo no es anti-enredo: con pelo largo hay que limpiarlo seguido; la torre del LiDAR lo deja en ~10 cm',
+    ],
+    verdict: 'El Xiaomi con mapeo LiDAR más vendido y mejor valorado, por algo: a precio accesible te da navegación láser precisa, 5000 Pa y aspira y trapea, con la confianza de la marca frente a las genéricas. La app para editar el mapa es floja y viene con enchufe extranjero, pero para un primer robot con mapeo de verdad, sobre todo en casas con mascotas, es de las compras más recomendadas del catálogo.',
+    articleBody: `## Mapeo LiDAR a precio accesible
+
+Lo que hace especial al S20 es que trae **mapeo láser LiDAR** (el sensor que sobresale arriba) en un robot de precio accesible. Arma un mapa preciso de la casa en unos 15 minutos, recorre ordenado sin chocar y convive con cables y obstáculos mejor que un robot básico. Desde la app marcás zonas, paredes virtuales y elegís qué habitación limpiar, con mapas para casas de dos pisos.
+
+Es lo que más repiten las 3.820 opiniones: "mapea con LiDAR", "por esa plata mil veces conviene una Xiaomi que una genérica". A este precio, es la puerta de entrada al recorrido ordenado frente a un robot sin mapeo como la [Kärcher RCV 1](/producto/MLA42103831).
+
+## 5.000 Pa: muy bueno para pelo de mascota
+
+Aspira con 5.000 Pa y tres niveles (silencioso, normal y turbo). Es de los usos más mencionados: levanta muy bien pelo de perros y gatos, pelusa y polvo fino, incluso lo que parecía piso limpio. Con 9,8 cm de alto y 32 cm de diámetro es de los más compactos, así que pasa bajo muchos muebles y entre las sillas donde otros no entran.
+
+## Aspira y trapea: qué esperar de la mopa
+
+Además de aspirar, pasa un paño húmedo con un tanque de agua de 270 mL. Importante, como avisan los compradores: el trapeado es de mantenimiento, con un **paño simple (no rotatorio)**. Deja brillo y levanta el polvo fino, pero no saca manchas pegadas y puede dejar marcas en pisos muy brillantes. Lo mejor es aspirar primero y usar la mopa para repasar. Un detalle repetido: hay que lavar y secar la mopa después de cada uso para que no quede con olor.
+
+## La app y el WiFi: lo que cuesta
+
+Acá está la queja más común. El S20 solo se conecta a redes **WiFi de 2,4 GHz**, y a varios les costó la conexión inicial (contraseñas con caracteres especiales, o la app que arranca en chino y hay que pasarla a español). Además, la app para **editar el mapa** es floja: cuesta dividir ambientes, renombrar habitaciones y las paredes virtuales a veces marcan áreas demasiado grandes. Una vez configurada anda bien, pero el armado inicial pide paciencia.
+
+## El enchufe extranjero
+
+Como toda la línea importada, el S20 suele venir con una **fuente de alimentación con enchufe extranjero** (estándar brasileño o americano) que no entra en el tomacorriente argentino. Se resuelve con un adaptador, pero conviene tenerlo desde el día uno.
+
+## Lo que conviene saber: cepillo, altura y esquinas
+
+Tres cosas honestas. El cepillo no es anti-enredo (a diferencia del S20 Plus, que trae cuchillas), así que con pelo largo hay que limpiarlo seguido. La torre del LiDAR sobresale y deja el equipo en unos 10 cm, por lo que puede trabarse bajo muebles muy bajos. Y por su forma redonda no llega del todo a las esquinas y zócalos. Nada de esto lo descalifica, pero son detalles que las opiniones repiten.
+
+## En qué se diferencia de los otros Xiaomi del catálogo
+
+El S20 y el [S40c](/producto/MLA61420449) son los dos value picks con mapeo LiDAR: muy parecidos en precio y prestaciones, elegí por disponibilidad y precio del día. Por encima, el [S40 Pro](/producto/MLA66281403) suma 15.000 Pa y brazo extensible, y los [X20 Pro](/producto/MLA44240016) y X20 Max agregan la estación que se vacía y lava las mopas sola. El S20 se elige por ser el mapeo más vendido y económico, ideal como primer robot con láser.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Xiaomi / Robot Vacuum S20 (D106)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador' },
+      { label: 'Succión', value: '5.000 Pa (5 kPa) · 3 niveles' },
+      { label: 'Potencia', value: '45 W' },
+      { label: 'Navegación', value: 'Mapeo láser LiDAR + sensores de obstáculo y anticaídas' },
+      { label: 'Funciones', value: 'Zonas, paredes virtuales, programación, voz (Alexa, Google)' },
+      { label: 'Fregado', value: 'Paño simple (no rotatorio) · tanque de 270 mL' },
+      { label: 'Depósito de polvo', value: '400 mL' },
+      { label: 'Tanque de agua', value: '270 mL' },
+      { label: 'Filtro', value: 'HEPA (anti ácaros y alérgenos)' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí' },
+      { label: 'Batería', value: '3200 mAh · hasta 2 h · carga ~220 min · retorno automático' },
+      { label: 'Conectividad', value: 'WiFi 2,4 GHz + app Xiaomi Home' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Dimensiones', value: '32 × 32 × 10,3 cm' },
+      { label: 'Enchufe', value: 'Extranjero (requiere adaptador en Argentina)' },
+      { label: 'Color / Voltaje', value: 'Negro / 220 V' },
+    ],
+    faq: [
+      { question: '¿La Xiaomi S20 mapea la casa?', answer: 'Sí, con mapeo láser LiDAR. Arma un mapa preciso en unos 15 minutos, recorre ordenado sin chocar y desde la app marcás zonas, paredes virtuales y elegís habitaciones, con soporte de mapas para dos pisos. Es la función que más destacan las opiniones y lo que la separa de un robot económico sin mapeo.' },
+      { question: '¿Cuánta succión tiene y sirve para mascotas?', answer: '5.000 Pa con tres niveles (silencioso, normal y turbo). Levanta muy bien pelo de perros y gatos, pelusa y polvo fino, uno de los usos más mencionados. Con pelo largo conviene limpiar el cepillo seguido, porque no es anti-enredo.' },
+      { question: '¿Trapea bien?', answer: 'Trapea como mantenimiento, con un paño simple (no rotatorio) y un tanque de 270 mL. Deja brillo y levanta el polvo fino, pero no saca manchas pegadas y puede dejar marcas en pisos brillantes. Conviene aspirar primero, y lavar y secar la mopa después de cada uso para que no quede con olor.' },
+      { question: '¿Cómo es la app y la conexión WiFi?', answer: 'Solo se conecta a WiFi de 2,4 GHz, y a varios les cuesta la conexión inicial. La app sirve para programar y elegir zonas, pero la parte de editar el mapa (dividir ambientes, paredes virtuales) es floja. Una vez configurada anda bien; el armado inicial pide paciencia.' },
+      { question: '¿Viene con enchufe argentino?', answer: 'No. Suele venir con una fuente de enchufe extranjero (brasileño o americano) que no entra en el tomacorriente argentino. Hay que comprar un adaptador, así que conviene tenerlo listo desde el día uno.' },
+      { question: '¿Entra bajo los muebles?', answer: 'Es compacta (9,8 cm de alto, 32 cm de diámetro) y pasa bajo muchos muebles y entre las sillas. Eso sí, la torre del sensor LiDAR sobresale, así que bajo muebles muy bajos puede trabarse. Por su forma redonda tampoco llega del todo a las esquinas.' },
+      { question: '¿En qué se diferencia del Xiaomi S40c?', answer: 'Son los dos value picks de Xiaomi con mapeo LiDAR y prestaciones muy parecidas (5.000 Pa, aspira y trapea, sin estación de autovaciado). La elección suele ser por precio y disponibilidad del momento. Por encima, el S40 Pro y los X20 ofrecen más succión, brazo extensible o estación todo-en-uno.' },
+      { question: '¿Para quién es ideal?', answer: 'Para un primer robot con mapeo de verdad sin gastar de más, departamentos y casas medianas, y sobre todo hogares con mascotas. Es el mapeo más vendido y económico del catálogo, con la confianza de la marca frente a las genéricas.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'La S20 salió en septiembre 2024, se consigue más barata que la S10. 5000 Pa, limpia realmente bien, mapea con LiDAR, convive con cables mucho mejor que otras, sube a las alfombras y las limpia bien, evita las cortinas. La batería dura por lo menos 90 minutos. Es de 32 cm, más chica que la mayoría, así que pasa entre las sillas. Por esa plata mil veces conviene una Xiaomi que una genérica.', useful: 78 },
+      { rating: 5, country: 'Brasil', text: 'Positivo: diseño discreto, batería excelente (mi departamento de 90 m2 con aspirado y trapeado usa solo la mitad de la carga), aspira muy bien pelos y cabellos. Negativo: el enchufe no es estándar, hay que usar adaptador; y el sistema de mapeo de la app deja un poco que desear, no diferencia bien algunos ambientes y las herramientas de edición son limitadas.', useful: 151 },
+      { rating: 5, country: 'Argentina', text: 'Las contras: es difícil conectarla al WiFi, en castellano imposible, hay que conectarla en chino y luego pasarla. Si el piso es brillante, la mopa puede dejar marcas. La batería dura un montón, levanta pelo y tierra a lo loco y deja los pisos impecables. Hay que tener cuidado de no dejar cosas pequeñas en el piso porque las aspira y queda trabada.', useful: 30 },
+      { rating: 4, country: 'Argentina', text: 'Pros: optimiza los trazos de barrido, evita choques y obstáculos con facilidad, mantenimiento sencillo. Contras: complicado editar barreras y áreas restringidas, las cortinas las detecta como muros y no limpia debajo, y la torre del radar puede chocar en espacios bajos. Recomendación: en modo turbo, que el área no supere los 50 m2 por la autonomía.', useful: 29 },
+      { rating: 4, country: 'Brasil', text: 'Buena relación calidad-precio. Pero la capacidad de esquivar objetos es floja: tengo perros con tazones de agua y los golpea y derrama. A veces no respeta las barreras del mapa. La limpieza es excelente, buena potencia de succión. Lo molesto es tener que quitar la mopa a diario para lavarla, si la dejo húmeda huele mal, y la mopa no es de mucha calidad. Por el valor, vale la pena.', useful: 23 },
+      { rating: 5, country: 'Argentina', text: 'No pensé que lo iba a usar tanto. La casa es grande (130 m2) y entra mucha tierra del patio; la limpia entera sin gastar más de la mitad de la batería. Deja el piso flotante mejor que si lo limpiara yo y pasa debajo de los muebles. En el porcelanato no saca manchas complicadas, pero quita las marcas de pisadas. La súper recomiendo.', useful: 13 },
+      { rating: 4, country: 'Argentina', text: 'La aspiradora funciona excelente y barre mejor de lo que esperaba. La aplicación para configurarla es un desastre: mapea el plano como debe, pero la función para editar el mapa (dividir habitaciones, renombrar y agregar paredes virtuales) directamente no funciona. Dato importante: solo se conecta a redes WiFi de 2,4 GHz.', useful: 12 },
+      { rating: 5, country: 'Brasil', text: 'Ideal para quienes tienen mascotas. La única advertencia es para quienes tienen pelo largo: limpien con frecuencia el cepillo que absorbe el polvo, porque después de un mes tenía bastante cabello atrapado. Por lo demás, lo recomiendo muchísimo.', useful: 12 },
+    ],
+    relatedProducts: ['MLA61420449', 'MLA66281403', 'MLA44240016'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Xiaomi Robot Vacuum S20',
+      description: 'Aspiradora robot y trapeador Xiaomi Robot Vacuum S20 con mapeo láser LiDAR, 5.000 Pa de succión con 3 niveles, aspirado y trapeado en una pasada, app Xiaomi Home con zonas y paredes virtuales, control por voz (Alexa, Google), filtro HEPA, depósito de polvo de 400 mL y tanque de agua de 270 mL.',
+      brand: { '@type': 'Brand', name: 'Xiaomi' },
+      model: 'S20 (D106)',
+      sku: 'MLA44714806',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_877835-MLA100061229999_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA44714806',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '446859',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/18CB1Wa',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '3820',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    bestOccasion: ['Primer robot con mapeo láser sin gastar de más', 'Departamentos y casas medianas', 'Hogares con mascotas'],
+    notRecommendedFor: ['Limpieza profunda (la mopa es de mantenimiento)', 'Quien quiere estación de autovaciado', 'Quien no quiere lidiar con la app para editar el mapa'],
+    description: 'La aspiradora robot Xiaomi S20 trae mapeo láser LiDAR a precio accesible: arma el plano de la casa, recorre ordenado y te deja elegir zonas y paredes virtuales desde la app. Con 5.000 Pa aspira muy bien el pelo de mascota y además trapea en una sola pasada. Compacta y slim, es el Xiaomi con mapeo más vendido del catálogo, ideal como primer robot con láser.',
   },
   {
     id: 'MLA44235159',
