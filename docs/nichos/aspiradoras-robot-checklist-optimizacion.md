@@ -7,9 +7,9 @@
 > customerReviews reales, humanizer) → verificar (lint + parseo + links) → commit.
 > Detalle del método y estrategia: `docs/nichos/aspiradoras-robot-seo-ubersuggest.md`.
 
-## Estado: 15 / 18 completas — ✅ Tier 1 Xiaomi + Tier 2 Atma + Tier 3 Gadnic + Tier 4 Samsung COMPLETOS
+## Estado: 16 / 18 completas — ✅ Tier 1 a 4 COMPLETOS + Fika Nexos
 
-### ✅ Ya optimizadas (15)
+### ✅ Ya optimizadas (16)
 
 | # | Producto | ID | Marca |
 | --- | --- | --- | --- |
@@ -28,8 +28,9 @@
 | ✅ | Gadnic 5000 Pa LIDAR 360 | MLA62126950 | Gadnic |
 | ✅ | Gadnic AspiRob Mapeo App | MLA36838658 | Gadnic |
 | ✅ | Samsung Powerbot E 2 en 1 | MLA18917302 | Samsung |
+| ✅ | Fika Nexos Giroscópica | MLA63784269 | Fika |
 
-### ⬜ Pendientes (3) — en orden de prioridad (ROI por Ubersuggest)
+### ⬜ Pendientes (2) — en orden de prioridad (ROI por Ubersuggest)
 
 **Tier 1 — Xiaomi** (`aspiradora robot xiaomi` 2.900/mes, dificultad 13 — el mejor ROI del nicho)
 
@@ -66,8 +67,8 @@
 
 | # | Producto | ID | Estado |
 | --- | --- | --- | --- |
-| 12 | Fika Nexos Giroscópica | MLA63784269 | ⬜ ← SIGUIENTE |
-| 13 | Fika SENSE Antichoque | MLA54522658 | ⬜ |
+| 12 | Fika Nexos Giroscópica | MLA63784269 | ✅ |
+| 13 | Fika SENSE Antichoque | MLA54522658 | ⬜ ← SIGUIENTE |
 | 14 | Robot Trapeadora Láser/Mapeo (genérica) | MLA53579189 | ⬜ |
 
 ---

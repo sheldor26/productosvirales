@@ -6468,9 +6468,9 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   {
     id: 'MLA63784269',
     title: 'Aspiradora Robot Trapeadora Fika Nexos Giroscópica Pelos Mascotas App Wifi Color Negro',
-    price: 184224,
-    priceUpdated: "2026-06-07",
-    priceLastChecked: "2026-06-07",
+    price: 191900,
+    priceUpdated: "2026-06-08",
+    priceLastChecked: "2026-06-08",
     priceStatus: "fresh",
     originalPrice: 299999,
     currency: 'ARS',
@@ -6489,42 +6489,154 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 2321,
+    reviewCount: 2324,
+    reviewsWithPhotos: 4,
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     brand: "Fika",
-    seoTitle: "Fika Nexos Giroscópica: review robot para mascotas",
-    metaDescription: "Análisis del Fika Nexos: aspiradora robot trapeadora con navegación giroscópica, optimizada para pelos de mascota. App WiFi y descuento del 48%.",
-    ogTitle: "Fika Nexos — el Fika con navegación giroscópica para pelos de mascota",
-    ogDescription: "Navegación giroscópica (más ordenada que random), apto para pelos de mascota, app WiFi propia. Salto de calidad sobre el Fika SENSE.",
-    h1: "Fika Nexos: el robot giroscópico optimizado para mascotas",
-    specs: [
-      { label: "Marca", value: "Fika" },
-      { label: "Modelo", value: "Nexos" },
-      { label: "Tipo de navegación", value: "Giroscópica (patrones ordenados, sin random)" },
-      { label: "Funciones", value: "Aspirado + trapeado" },
-      { label: "Optimizado para", value: "Pelos de mascotas" },
-      { label: "Control", value: "App Fika + WiFi" },
-      { label: "Color", value: "Negro" },
-    ],
+    line: 'Nexos',
+    color: 'Negro',
+    aiReviewSummary: 'Destaca por su capacidad de ahorrar tiempo en la limpieza, siendo especialmente útil para recoger pelos de mascotas. Su funcionamiento es eficiente, con buena potencia de succión y la capacidad de aspirar y trapear. Es fácil de programar y operar. La crítica honesta más repetida: es giroscópica, no guarda el mapa entre sesiones, y el trapeado es de mantenimiento (no saca manchas).',
+    seoTitle: "Aspiradora Robot Fika Nexos 2 en 1: ¿la más vendida vale?",
+    metaDescription: "Fika Nexos 2 en 1: la aspiradora robot más vendida y económica para pelo de mascota. Giroscópica, app WiFi, 4.6★ con 2.324 opiniones. Análisis honesto.",
+    ogTitle: "Fika Nexos: la aspiradora robot más vendida (y por qué)",
+    ogDescription: "4.6★ con 2.324 opiniones. Aspira y trapea, ideal para pelo de mascota, a uno de los precios más bajos del catálogo. Ojo: es giroscópica, no guarda el mapa. Analizamos.",
+    h1: "Aspiradora Robot Fika Nexos 2 en 1: la más vendida y barata para pelo de mascota, pero no guarda el mapa",
     pros: [
-      "Navegación giroscópica — patrones ordenados (zigzag, paralelo), no es random pure",
-      "Diseño de cepillos optimizado para pelos de mascota",
-      "App Fika propia con scheduling y control de modos",
-      "Descuento del 48% sobre precio de lista",
-      "Rating 4.6",
+      "4.6⭐ con 2.324 calificaciones: una de las más vendidas y mejor valoradas del catálogo",
+      "Imbatible para pelo de mascota: lo que más destacan dueños de perros y gatos",
+      "Precio bajo: de las aspiradoras robot 2 en 1 más accesibles",
+      "Giroscópica: recorre en zigzag ordenado, más prolijo que las que van al azar",
+      "Ultra slim (7,4 cm): entra bajo camas y sillones; apta alfombras + filtro HEPA",
+      "Viene con repuestos (4 cepillos, 2 mopas, 2 filtros) y control remoto además de la app",
     ],
     cons: [
-      "Marca Fika con menos años en Argentina — sin service oficial extendido",
-      "Giroscópico es mejor que random pero no llega a la precisión del LIDAR",
-      "Sin envío gratis",
-      "Sin base autolimpiante",
+      "No guarda el mapa: es giroscópica, no LiDAR; cada sesión empieza de cero y si se traba reinicia el recorrido",
+      "La app cuesta de vincular (varios lo logran 'por lógica', en iPhone a veces no agarra); algunos reportan que quedó la app genérica Tuya",
+      "Trapeado leve: humedece pero no saca manchas pegadas; depósito y tanque chicos, hay que vaciar/recargar seguido",
+      "Batería real más corta que la declarada (~1 h vs 80 min) y vuelve a la base al 50%",
+      "La base de carga es liviana y se mueve si el robot la engancha (varios la fijan con cinta)",
     ],
-    verdict: "Si tenés mascota que suelta pelo y querés algo mid-tier sin saltar al LIDAR, el Fika Nexos es la opción dentro del catálogo Fika. Vs el SENSE, este suma navegación giroscópica y diseño para mascotas. Para casa con un perro/gato y departamento mediano, cumple. Para casa grande con dos mascotas o más, mejor escalar al Gadnic LIDAR.",
-    bestOccasion: ["Departamentos con mascota", "Quien busca alternativa a Gadnic en mid-tier", "Pisos duros con áreas con pelo"],
-    notRecommendedFor: ["Casas grandes con muchas mascotas", "Quien valora mapeo láser preciso"],
-    relatedProducts: ["MLA54522658", "MLA45951645", "MLA62126950"],
-    description: 'FIKA NEXOS — Robot Aspirador y Trapeador con Navegación Inteligente  Lleva la limpieza de tu hogar al siguiente nivel con la FIKA NEXOS. A diferencia de los robots básicos, este modelo utiliza navegación giroscópica para limpiar de forma ordenada y eficiente, todo controlado desde nuestra APP FIKA e',
+    verdict: "La aspiradora robot 2 en 1 más vendida y barata del catálogo, ideal para mantener los pisos sin pelo de mascota gastando poco. Aspira muy bien y el trapeado sirve para repasar. No es para quien quiere mapeo que se guarde ni limpieza profunda: para eso hay que subir a un robot con LiDAR.",
+    bestOccasion: ["Departamentos y casas con mascotas que sueltan pelo", "Quien quiere una 2 en 1 barata para mantenimiento diario", "Pisos duros y alfombras bajas"],
+    notRecommendedFor: ["Quien quiere mapeo guardado por habitaciones (mejor un LiDAR)", "Limpieza profunda o sacar manchas pegadas", "Casas con muchísimos obstáculos a ras del piso"],
+    articleBody: `## Por qué es la aspiradora robot más vendida
+
+La Fika Nexos junta 2.324 calificaciones con un promedio de 4.6 estrellas: es de las aspiradoras robot más vendidas y mejor valoradas de MercadoLibre Argentina, y eso tiene una explicación simple. Hace lo que la mayoría busca (mantener el piso sin pelos ni polvo) a uno de los precios más bajos del catálogo. Un comprador lo resume: "la elegí porque es la más vendida de ML y no me arrepiento". Otro: "después del lavarropas automático es la mejor creación".
+
+No es un robot de gama alta y no pretende serlo. Es la puerta de entrada: si nunca tuviste una y querés probar sin gastar una fortuna, es la que más gente eligió.
+
+## Imbatible para pelo de mascota
+
+Este es el caso de uso estrella, y aparece en cientos de opiniones. Gente con dos gatos, un golden, ovejeros que "sueltan más pelo que casa": todos coinciden en que junta el pelo de mascota muy bien. Tiene 28 W de potencia, succión de hasta ~3.000 Pa en su nivel máximo, filtro HEPA (que retiene polvo fino y alérgenos, clave si sos alérgico) y un cepillo de rodillo que desprende los pelos incluso en alfombras bajas.
+
+El detalle práctico: el depósito de polvo es de 250 mL, chico, así que con mascotas hay que vaciarlo seguido (los primeros días, casi después de cada pasada). Y conviene revisar las escobillas porque el pelo largo se enreda. Si querés un robot con rodillo pensado para pelo de mascota a precio parecido, la [Midow 2 en 1](/producto/MLA48378491) es la otra opción económica del catálogo.
+
+## "Giroscópica" no es lo mismo que "mapeo": qué esperar de verdad
+
+Acá conviene ser claro porque hay confusión en las propias opiniones. La Fika Nexos usa **navegación giroscópica**, no LiDAR. ¿Qué significa en la práctica? Que en lugar de moverse al azar y chocar como los robots más básicos, recorre en un patrón de zigzag más ordenado y cubre la superficie de forma más prolija. Eso es real y es una ventaja sobre una random pura.
+
+Lo que **no** hace es guardar un mapa de la casa. Varios compradores creen que "mapea", pero los más honestos lo aclaran: "el mapeo no se guarda, genera uno nuevo cada vez", "se empieza a perder cuanto más tiempo funciona", "no guarda los mapas y no me importa por el precio que pagás". Y un punto importante: si se traba o se pausa, **vuelve a empezar el recorrido de cero**. No podés definir zonas ni habitaciones como en un robot láser.
+
+Si te alcanza con un recorrido ordenado para mantener, la Nexos cumple. Si querés que guarde el plano, recuerde por dónde pasó y limpie por habitaciones, ahí ya hablamos de mapeo láser: dentro del catálogo, la [Xiaomi Robot Vacuum S20](/producto/MLA44714806) tiene LiDAR de verdad. Y ojo: la [Gadnic 5 Modos](/producto/MLA45951645) es otra giroscópica con la misma lógica que esta, así que entre ellas la decisión es precio y marca, no navegación.
+
+## Aspira y trapea: el 2 en 1
+
+Trae tanque de agua de 200 mL y mopa, con dosificación de agua ajustable desde la app. La función estrella es el aspirado; el trapeado es de mantenimiento. Las opiniones son consistentes: "deja trapeadito", "es para repasar", "no saca manchas pegadas, hay que ayudar a mano". Un truco que repiten los usuarios: bajar la humedad al 30% para que no se quede sin agua y cubra toda la casa; al 100% "te deja el piso como recién baldeado" pero se agota enseguida.
+
+La ficha aclara que solo va agua, sin productos. En la práctica muchos le agregan "una tapita de desodorante de piso" y dicen que anda bien y deja perfume, pero es bajo tu responsabilidad: ponerle productos puede tapar los conductos o dañar la bomba con el tiempo. Si el trapeado húmedo de verdad es tu prioridad, mirá modelos con tanque más grande.
+
+## La app: el punto a tener paciencia
+
+Es lo que más fricción genera. La app se controla por WiFi (compatible con Alexa y Google Home), pero instalarla y vincularla no siempre es directo: "en mi iPhone no agarró, en el Samsung sí", "la terminás haciendo más por lógica que por el manual", "es clave que el control tenga las pilas puestas para lograrlo". Un dato a tener en cuenta: algunos compradores recientes mencionan que la app propia FIKA dejó de estar disponible y que el robot queda controlado por la app genérica **Tuya / Smart Life**.
+
+La buena noticia: trae **control remoto físico**, así que aunque no logres la app, podés usarla igual (encender, dirigir, elegir modo). Desde la app se desbloquean los extras: regular la potencia de succión, el nivel de humedad de la mopa y programar horarios.
+
+## Batería, tamaño y mantenimiento
+
+La batería es de litio 2.600 mAh (11 V) con una autonomía declarada de hasta 80 minutos. En la práctica, varios reportan algo menos (cerca de 1 hora según potencia y superficie) y que vuelve a la base al 50%. Para un departamento de 60-70 m² alcanza de sobra; en casas grandes conviene limpiar por ambientes. Con 7,4 cm de alto y 31,3 cm de diámetro entra bajo la mayoría de los muebles, aunque sigue siendo "cuadrada" para algunas mesas de patas bajas. Pesa 2,7 kg.
+
+Dos avisos de los propios usuarios: la base de carga es liviana y plástica, y si el robot la engancha la mueve (solución casera: cinta doble faz para fijarla). Y hay que sacarle los pelos a las escobillas y limpiar los depósitos seguido para que rinda. Un consejo que se repite: no levantarla de la zona del paragolpes (el sensor amortiguador es delicado y puede zafarse).
+
+## En qué se diferencia de las otras del catálogo
+
+La Fika Nexos es la opción "más vendida y barata" para pelo de mascota. Si querés comparar con otra 2 en 1 económica, la [Midow 2 en 1](/producto/MLA48378491) juega en la misma liga. Si te tienta el mapeo de verdad (que guarde el plano y limpie por zonas), el salto es a la [Xiaomi Robot Vacuum S20](/producto/MLA44714806) con LiDAR. Y si preferís algo aún más simple, sin depender de ninguna app, la [Kärcher RCV 1](/producto/MLA42103831) anda con control remoto y sin WiFi, también buena con pelo de mascota.
+
+## Qué incluye la caja
+
+Robot Fika Nexos + base de carga, 4 cepillos laterales (2 instalados + 2 de repuesto), 2 mopas de trapeado (1 + 1 de repuesto), 2 filtros HEPA (1 + 1 de repuesto), control remoto y manual. El kit de repuestos incluido es uno de sus puntos fuertes a este precio.`,
+    specs: [
+      { label: "Marca / Modelo", value: "Fika / Nexos" },
+      { label: "Tipo", value: "Robot aspirador y trapeador 2 en 1" },
+      { label: "Succión", value: "~3.000 Pa (hasta 4 kPa) · 3 niveles" },
+      { label: "Potencia", value: "28 W" },
+      { label: "Navegación", value: "Giroscópica (zigzag ordenado, sin mapa guardado)" },
+      { label: "Modos de limpieza", value: "Smart/zigzag, bordes, puntual, programado (vía app)" },
+      { label: "Control", value: "App WiFi (FIKA / Tuya) + control remoto + voz (Alexa, Google)" },
+      { label: "Fregado", value: "Tanque de agua de 200 mL (humedad ajustable)" },
+      { label: "Depósito de polvo", value: "250 mL" },
+      { label: "Filtro", value: "HEPA" },
+      { label: "Apto alfombras / pelo de mascota", value: "Sí (altura de subida 15 mm) / Sí" },
+      { label: "Batería", value: "11 V · 2.600 mAh · hasta 80 min · retorno automático" },
+      { label: "Carga", value: "4 a 6 h" },
+      { label: "Nivel de ruido", value: "65 dB (< 70 dB)" },
+      { label: "Sensores", value: "Anticaída y anticolisión (paragolpes)" },
+      { label: "Dimensiones", value: "Ø 31,3 cm · 7,4 cm de alto" },
+      { label: "Peso", value: "2,7 kg" },
+      { label: "Color / Voltaje", value: "Negro / 220 V" },
+    ],
+    faq: [
+      { question: "¿La Fika Nexos hace mapeo de la casa? ¿Guarda el mapa?", answer: "No guarda el mapa. Usa navegación giroscópica: recorre en zigzag ordenado (más prolijo que un robot al azar), pero no es LiDAR y no almacena el plano. Cada sesión empieza de cero y, si se traba o se pausa, reinicia el recorrido. Si querés que guarde el mapa y limpie por habitaciones, necesitás un robot con mapeo láser." },
+      { question: "¿Sirve para pelo de perro y gato?", answer: "Sí, es su punto más fuerte y lo que más destacan los compradores. Con 28 W, succión de hasta ~3.000 Pa, filtro HEPA y cepillo de rodillo levanta muy bien el pelo de mascota, incluso en alfombras bajas. El depósito es de 250 mL, así que con mascotas conviene vaciarlo seguido y limpiar los pelos enredados en las escobillas." },
+      { question: "¿Es difícil instalar la app? ¿Anda en iPhone?", answer: "La app cuesta un poco de vincular: varios lo logran 'más por lógica que por el manual' y en algunos iPhone no conecta a la primera (sí suele andar en Android). Es clave tener las pilas puestas en el control durante el emparejamiento. Algunos compradores recientes reportan que la app propia FIKA dejó de estar y queda la genérica Tuya / Smart Life. Igual trae control remoto físico, así que la podés usar sin app." },
+      { question: "¿Trapea bien? ¿Saca manchas? ¿Le puedo poner perfume?", answer: "El trapeado es de mantenimiento: humedece el piso y lo repasa, pero no saca manchas pegadas (esas hay que hacerlas a mano). Tip de usuarios: poner la humedad al 30% desde la app para que el agua alcance toda la casa. La ficha indica usar solo agua; muchos le agregan un poco de desodorante de piso, pero es bajo tu responsabilidad porque puede tapar conductos con el tiempo." },
+      { question: "¿Cuánto dura la batería de verdad?", answer: "La autonomía declarada es de hasta 80 minutos (batería de litio 2.600 mAh). En la práctica varios reportan algo menos, cerca de 1 hora según la potencia y la superficie, y vuelve a la base al 50%. Para un departamento de 60-70 m² alcanza para toda la casa; en casas grandes conviene limpiar por ambientes." },
+      { question: "¿Es apta para alfombras?", answer: "Sí. Tiene una altura de subida de 15 mm, así que sube a alfombras bajas y umbrales, y el cepillo de rodillo recoge bien la suciedad y los pelos sobre la alfombra. Para alfombras de pelo muy alto (tipo shaggy) ya le cuesta, como a casi todos los robots de este rango." },
+      { question: "¿Viene con repuestos?", answer: "Sí, y es uno de sus puntos fuertes a este precio: la caja incluye 4 cepillos laterales (2 puestos + 2 de repuesto), 2 mopas (1 + 1) y 2 filtros HEPA (1 + 1), además del control remoto y el manual." },
+      { question: "¿En qué se diferencia de una aspiradora robot con LiDAR como Xiaomi?", answer: "Una con LiDAR (como la Xiaomi S20) arma el mapa de la casa, lo guarda, recuerda por dónde pasó y te deja limpiar por zonas desde la app. La Fika Nexos es giroscópica: recorre ordenado pero no guarda el mapa ni define habitaciones, y cuesta más cara la Xiaomi. La Nexos la elegís por precio y por pelo de mascota; la Xiaomi, por mapeo real." },
+      { question: "¿Por qué es tan barata y conviene?", answer: "Es una marca enfocada en value: ofrece aspirado fuerte, 2 en 1 y repuestos incluidos a un precio bajo, resignando el mapeo láser y una app más pulida. Por eso es la más vendida del nicho. Conviene si querés mantener los pisos (sobre todo con mascotas) gastando poco; no conviene si buscás mapeo guardado o limpieza profunda." },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: "Le pusimos r2-d2. Limpieza 9/10. Si tenés piso claro donde se nota la mugre te deja alguna cosa. Es suave cuando choca: retrocede y avanza para otro lado, eso me gustó. La app es un tema, en mi iPhone no agarró pero en el Samsung de mi novio sí; igual trae el control por las dudas. En 35 minutos limpia 30 m². Estoy feliz, no hace milagros pero te re salva del día a día.", useful: 571 },
+      { rating: 5, country: 'Argentina', text: "Se puede programar para que limpie sola con día y horario, muy fácil de usar, se regula la cantidad de agua para la mopa. La usé en lodo normal y juntó muchísimos pelos de perro y tierra, pasa por la alfombra muy bien. Cuando golpea para retomar el camino es muy suave. La recomiendo.", useful: 220 },
+      { rating: 5, country: 'Argentina', text: "Tengo dos gatos y para mantener sin pelos es excelente. Sensa bien los bordes; le cuesta un poco con mesitas de patitas chiquitas levantadas del piso, pero las esquiva. No es escandalosa. Hay que vaciar el depósito cada 2 o 3 días porque se llena enseguida, es chiquito. La mopa funciona pero es para repasar y después pasar un trapo. Precio/calidad incomparable. Además habla: avisa si se detiene y cuando se carga.", useful: 174 },
+      { rating: 5, country: 'Argentina', text: "Materiales muy buenos. Le encontré la vuelta al trapeo nivelándolo: no lo pongan al 100% porque se queda sin agua al toque; al 30% lava bien y cubre una casa promedio. Dos depósitos, el de agua y el de polvo, hay que limpiarlos seguido. El único punto malo es la base de carga: es muy plasticosa y livianita, si el robot la engancha la mueve; nada que una cinta doble faz no arregle. La batería se consume bastante rápido.", useful: 68 },
+      { rating: 5, country: 'Argentina', text: "No guarda los mapas de la casa y no me importa porque por el precio es una maravilla. No saca manchas del piso así que hay que ayudarle. Lo mejor es cuando la mando debajo de las camas, deja impecable. Hay que sacarle los pelos de los cepillos porque los junta. Y no la levanten de la parte del sensor que amortigua los golpes, es delicado.", useful: 9 },
+      { rating: 4, country: 'Argentina', text: "Está buena, hace lo que promete. El mapeo de área deja un poco que desear, se empieza a perder cuanto más tiempo funciona. El mapeo no se guarda, genera uno nuevo cada vez.", useful: 7 },
+      { rating: 4, country: 'Argentina', text: "Relación precio/calidad 8/10. Mopa 8/10: las manchas pegadas del suelo de la cocina no las saca ni poniéndole más poder. Aspiradora 9/10, se come todo. Vuelve sola a la base aunque a veces le cuesta encontrarla. La app me parece buena pero el mapeo deja que desear; estaría bueno poder configurar zonas. Conforme igual.", useful: 8 },
+      { rating: 4, country: 'Argentina', text: "Por el precio estoy satisfecho. Aspira y mantiene el piso limpio. Lo que critico: si se bloquea por algo y se pausa, vuelve a empezar de cero y recorre otra vez lo que ya aspiró. Pero es un producto muy bueno.", useful: 5 },
+      { rating: 5, country: 'Argentina', text: "Una maravilla. Ya sabía que no hace limpieza profunda pero no imaginé que limpiaba tan bien. Lo único criticable es que le cuesta volver a su base, pero finalmente lo hace.", useful: 9 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Fika Nexos 2 en 1 Giroscópica',
+      description: 'Aspiradora robot y trapeadora Fika Nexos: 2 en 1 (aspira y trapea) con navegación giroscópica, succión de hasta ~3.000 Pa, filtro HEPA, control por app WiFi y control remoto, apta para alfombras y pelo de mascota, ultra slim de 7,4 cm y retorno automático a la base. No guarda mapa (no es LiDAR).',
+      brand: { '@type': 'Brand', name: 'Fika' },
+      model: 'Nexos',
+      sku: 'MLA63784269',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_2X_615840-MLA109795465279_032026-F.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA63784269',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '191900',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2P2DXaC',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '2324',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ["MLA48378491", "MLA44714806", "MLA45951645"],
+    description: 'FIKA NEXOS — Robot Aspirador y Trapeador con Navegación Inteligente. A diferencia de los robots básicos, este modelo utiliza navegación giroscópica para limpiar de forma ordenada y eficiente, con app FIKA por WiFi, sistema 2 en 1 que aspira y trapea, diseño ultra slim de 7,4 cm y retorno automático a la base. Apta para alfombras y pelo de mascota, con filtro HEPA.',
   },
   {
     id: 'MLA42045783',
