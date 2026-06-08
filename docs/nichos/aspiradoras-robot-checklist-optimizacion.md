@@ -7,9 +7,9 @@
 > customerReviews reales, humanizer) → verificar (lint + parseo + links) → commit.
 > Detalle del método y estrategia: `docs/nichos/aspiradoras-robot-seo-ubersuggest.md`.
 
-## Estado: 14 / 18 completas — ✅ Tier 1 Xiaomi + Tier 2 Atma + Tier 3 Gadnic COMPLETOS
+## Estado: 15 / 18 completas — ✅ Tier 1 Xiaomi + Tier 2 Atma + Tier 3 Gadnic + Tier 4 Samsung COMPLETOS
 
-### ✅ Ya optimizadas (14)
+### ✅ Ya optimizadas (15)
 
 | # | Producto | ID | Marca |
 | --- | --- | --- | --- |
@@ -27,8 +27,9 @@
 | ✅ | Gadnic 5 Modos | MLA45951645 | Gadnic |
 | ✅ | Gadnic 5000 Pa LIDAR 360 | MLA62126950 | Gadnic |
 | ✅ | Gadnic AspiRob Mapeo App | MLA36838658 | Gadnic |
+| ✅ | Samsung Powerbot E 2 en 1 | MLA18917302 | Samsung |
 
-### ⬜ Pendientes (14) — en orden de prioridad (ROI por Ubersuggest)
+### ⬜ Pendientes (3) — en orden de prioridad (ROI por Ubersuggest)
 
 **Tier 1 — Xiaomi** (`aspiradora robot xiaomi` 2.900/mes, dificultad 13 — el mejor ROI del nicho)
 
@@ -59,13 +60,13 @@
 
 | # | Producto | ID | Estado |
 | --- | --- | --- | --- |
-| 11 | Samsung Powerbot E 2 en 1 | MLA18917302 | ⬜ ← SIGUIENTE |
+| 11 | Samsung Powerbot E 2 en 1 | MLA18917302 | ✅ |
 
 **Tier 5 — Fika + genérica** (long-tail `robot aspiradora y trapeadora`, mascotas)
 
 | # | Producto | ID | Estado |
 | --- | --- | --- | --- |
-| 12 | Fika Nexos Giroscópica | MLA63784269 | ⬜ |
+| 12 | Fika Nexos Giroscópica | MLA63784269 | ⬜ ← SIGUIENTE |
 | 13 | Fika SENSE Antichoque | MLA54522658 | ⬜ |
 | 14 | Robot Trapeadora Láser/Mapeo (genérica) | MLA53579189 | ⬜ |
 

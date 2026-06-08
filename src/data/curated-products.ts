@@ -18638,13 +18638,147 @@ Robot Jet Bot+, estación de autovaciado y carga, cepillo, filtro y depósito de
     brand: 'Samsung',
     badge: 'collector',
     pastelColor: 'var(--pastel-amber)',
-    description: 'Limpia y trapea simultáneamente con la aspiradora 2 en 1 que succiona el polvo y trapea el piso para obtener resultados óptimos. El tanque de agua ajusta automáticamente el flujo según la superficie. Batería de larga duración y gran capacidad de 3.400 mAh que permite una autonomía de hasta 150 minutos. Motor Digital Inverter de Samsung y control vía WiFi con la app SmartThings.',
-    seoTitle: 'Samsung POWERbot E 2 en 1: aspiradora robot Inverter WiFi',
-    metaDescription: 'Samsung POWERbot E 2 en 1: aspira y trapea, motor Digital Inverter, WiFi SmartThings, 150 min de autonomía. Precio y ficha en MercadoLibre Argentina.',
-    ogTitle: 'Samsung POWERbot E 2 en 1 Inverter WiFi — ¿conviene?',
-    ogDescription: 'Aspira y trapea a la vez, motor Digital Inverter, control WiFi por SmartThings y 150 min de autonomía. El robot 2 en 1 de Samsung.',
-    h1: 'Aspiradora Robot Samsung POWERbot E 2 en 1 Inverter WiFi',
-    relatedProducts: ['MLA26504431', 'MLA18642318', 'MLA53579189'],
+    rating: 4.4,
+    reviewCount: 397,
+    reviewsWithPhotos: 4,
+    line: 'POWERbot-E',
+    color: 'Negro',
+    description: 'Aspiradora robot 2 en 1 Samsung POWERbot E: aspira y pasa la mopa en una sola corrida, con filtro HEPA, control por WiFi y app SmartThings, sensores anti-choque y anti-caída, y depósito EZ Empty que se vacía con un botón. No arma mapa de la casa: navega por sensores. 4.4 estrellas con 397 calificaciones.',
+    aiReviewSummary: 'Es muy eficiente en la limpieza, aspirando con buena potencia y dejando los pisos impecables. Lo más elogiado es cuánto polvo y pelo de mascota levanta. Las críticas se repiten en tres puntos: le cuesta volver a la base, la app SmartThings falla seguido y el trapeado es leve (solo humedece, no saca manchas).',
+    seoTitle: 'Aspiradora Robot Samsung Powerbot E 2 en 1: ¿Conviene?',
+    metaDescription: 'Samsung Powerbot E 2 en 1: aspira fuerte y filtra con HEPA, pero no mapea y la app falla. 4.4★ con 397 opiniones. Análisis honesto y precio en Argentina.',
+    ogTitle: 'Samsung Powerbot E: aspira de 10, pero no esperes que mapee',
+    ogDescription: '4.4★ con 397 opiniones. Potente para polvo y pelo de mascota con filtro HEPA, pero sin mapeo y con una app que falla. Analizamos para quién rinde.',
+    h1: 'Aspiradora Robot Samsung Powerbot E 2 en 1: aspira muy bien, pero no mapea y la app es su punto débil',
+    pros: [
+      '4.4⭐ con 397 calificaciones y respaldo de marca Samsung',
+      'Aspira fuerte: lo más elogiado es cuánto polvo y pelo de mascota levanta',
+      'Filtro HEPA: retiene ácaros y alérgenos, ideal con gatos o perros',
+      'Delgada (8,5 cm de alto): entra bajo camas, sillones y muebles bajos',
+      '2 en 1: aspira y pasa la mopa húmeda en la misma corrida',
+      'Depósito EZ Empty: se vacía con un botón, sin tocar el polvo',
+    ],
+    cons: [
+      'No mapea: navega chocando, repite zonas y deja otras sin pasar',
+      'Le cuesta mucho volver a la base (la queja más repetida en las opiniones)',
+      'La app SmartThings es su punto débil: desactualizada, falla en iOS y Android viejo, varios no la pudieron vincular',
+      'Trapeado leve: solo humedece, no saca manchas; repuestos difíciles de conseguir en Argentina',
+      'Cara para lo que ofrece: varios compradores marcan que una Gadnic o Xiaomi más barata mapea o rinde igual',
+    ],
+    verdict: 'Para quien quiere aspirado potente con respaldo Samsung y filtro HEPA para el pelo de mascota, y no le importa que no mapee ni depender de la app. Si buscás mapeo, recorrido ordenado o una app que funcione, hay opciones mejores al mismo precio o más baratas.',
+    articleBody: `## Aspira muy bien: ese es su punto fuerte
+
+Si hay algo en lo que las 397 opiniones coinciden, es que aspira. "Increíble la cantidad de polvo que levanta", "se nota el trabajo que hace", "el piso queda limpio al tacto" son frases que se repiten. Tiene 3 kPa de succión (unos 3.000 Pa) y filtro HEPA, así que retiene polvo fino, ácaros y alérgenos. Para pelo de mascota es de lo que más la eligen: junta pelos de gatos y perros que a simple vista no se ven.
+
+No es la succión más alta del mercado (una [Xiaomi Robot Vacuum S40c](/producto/MLA61420449) declara mucho más), pero para mantenimiento diario de polvo y pelo cumple de sobra. El depósito de polvo es de 200 mL, así que en casas con mascotas hay que vaciarlo seguido.
+
+## Lo que tenés que saber antes de comprar: no mapea
+
+Esta es la decepción número uno en las reseñas, y conviene tenerla clara de entrada. La Powerbot E **no arma un mapa de la casa**. Navega por sensores (gyro, anti-choque y anti-caída), no con LiDAR ni cámara. En la práctica eso significa recorrido desordenado: se choca con los muebles, repite zonas, deja otras sin pasar y "gira siempre para la derecha sin buscar caminos nuevos", como dice un comprador.
+
+Varias opiniones lo resumen sin vueltas: "no es una aspiradora inteligente", "si podés, comprá una que tenga LiDAR y haga mapas". Si tu prioridad es un robot que recorra prolijo y programado, mirá la [Samsung Jet Bot+](/producto/MLA26504431) —la hermana mayor de la misma marca, que sí mapea con LiDAR y tiene autovaciado— o una [Gadnic 5000 Pa con LiDAR 360](/producto/MLA62126950). La Powerbot E es para quien acepta el recorrido "a las chapas" a cambio de un buen aspirado.
+
+## El talón de Aquiles: la app SmartThings
+
+Después del mapeo, la segunda queja más fuerte es la app. Es un patrón en las reseñas: "siendo Samsung no tiene una aplicación actualizada para conectar al S23", "la app tiene muy mala reputación en la store", "no funciona en iOS, solo Android", "no se vincula con SmartThings". Hay gente que directamente nunca la pudo conectar y la termina usando solo con el control remoto.
+
+El detalle importante: algunos modos de limpieza (como el zig-zag, que es el que mejor limpia) **no están en el control remoto físico**, solo en la app. Así que si no lográs vincularla, perdés funciones. Si dependés de controlar el robot desde el celular o desde afuera de casa, este es el punto a pensar dos veces. Si en cambio querés algo simple sin app, la [Kärcher RCV 1](/producto/MLA42103831) anda directo con control remoto, sin WiFi.
+
+## El problema de volver a la base
+
+"Le cuesta horrores volver a su base", "la encontrás muerta sin batería en cualquier rincón", "puede estar dando vueltas 5 minutos antes de encontrarla". Es otra constante. Al no mapear, no sabe con precisión dónde está el cargador y a veces se queda sin batería en el camino. Algunos compradores dicen que "con el tiempo se calibra o uno aprende a usarla", pero conviene saberlo: no siempre vuelve sola.
+
+## Aspira y trapea: qué esperar del 2 en 1
+
+Trae tanque de agua de 180 mL y una mopa, pero acá hay que bajar expectativas. El trapeado es **leve**: humedece el piso para darle un repaso, no saca manchas ni reemplaza un trapeado a mano. Varias opiniones explican que el agua sale en gotas chiquitas y conviene mojar la mopa antes para que tenga sentido. Y un dato práctico: solo admite agua, no se le puede poner ningún producto perfumado ni desinfectante.
+
+Como aspiradora robot que barre y trapea, sirve para mantener pisos ya limpios, sobre todo flotantes y porcelanato. Para limpieza profunda, no. Si el trapeado húmedo de verdad es tu prioridad, mirá modelos pensados para eso como las [Gadnic 5 Modos con trapeo](/producto/MLA45951645).
+
+## Batería, tamaño y autonomía real
+
+La ficha declara hasta 2,5 horas de batería (12 V, 3,45 Ah / 3.400 mAh) y unas 4 horas de carga. En la práctica, varios compradores reportan autonomías más cortas, del orden de 1 hora según el modo y la superficie, así que tomá el dato declarado como máximo teórico. Cubre hasta 150 m² y, con 8,5 cm de alto y 34 cm de diámetro, entra bajo la mayoría de los muebles. Pesa 3 kg. El nivel de ruido es de 65 dB: se escucha, como cualquier aspiradora, pero no molesta de fondo.
+
+Una aclaración honesta sobre el título: la publicación la lista como "Inverter", pero algún comprador discute que el motor lo sea y Samsung no lo documenta en la caja. No lo tomes como un diferencial confirmado.
+
+## Repuestos y mantenimiento: el punto a tener en cuenta
+
+Acá aparece una advertencia recurrente: los repuestos (escobillas, paños, filtros) **son difíciles de conseguir en Argentina**. Las escobillas van a presión y se enredan con frazadas, cordones o alfombras shaggy, y a algunos se les rompieron en el primer mes. La caja trae repuestos (suelen venir 2 escobillas, 1 paño y 1 filtro), y varios resuelven comprando combos importados de China por unos 25 dólares. Consejo de los propios compradores: antes de cada pasada, levantar cables, alfombras y obstáculos, y limpiar los filtros seguido.
+
+## En qué se diferencia de las otras del catálogo
+
+La Powerbot E es el robot de marca para quien quiere aspirado fuerte y respaldo Samsung sin pagar la gama alta. Si querés Samsung **con** mapeo y autovaciado, esa es la [Samsung Jet Bot+](/producto/MLA26504431). Si lo que te importa es que mapee y recorra ordenado gastando menos, la [Xiaomi Robot Vacuum S40c](/producto/MLA61420449) y la [Gadnic 5000 Pa con LiDAR 360](/producto/MLA62126950) hacen eso. Y si querés lo más simple posible sin depender de ninguna app, la [Kärcher RCV 1](/producto/MLA42103831) anda con control remoto y sin WiFi.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Samsung / POWERbot-E (SAVR05R5050WK)' },
+      { label: 'Tipo', value: 'Robot aspirador 2 en 1 (aspira y trapea)' },
+      { label: 'Succión', value: '3 kPa (~3.000 Pa)' },
+      { label: 'Potencia', value: '55 W' },
+      { label: 'Modos de limpieza', value: 'Zig-zag, automático, esquinas, puntual' },
+      { label: 'Navegación', value: 'Sensores gyro, anti-choque y anti-caída (sin mapeo)' },
+      { label: 'Control', value: 'WiFi + app SmartThings + control remoto' },
+      { label: 'Depósito de polvo', value: '200 mL (EZ Empty)' },
+      { label: 'Tanque de agua', value: '180 mL (trapeado húmedo leve)' },
+      { label: 'Filtro HEPA', value: 'Incluido' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'No / Sí' },
+      { label: 'Batería', value: '12 V · 3,45 Ah (3.400 mAh) · hasta 2,5 h declaradas' },
+      { label: 'Carga', value: '4 h · retorno automático a la base' },
+      { label: 'Área máxima', value: '150 m²' },
+      { label: 'Nivel de ruido', value: '65 dB' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Dimensiones', value: '34 × 34 × 8,5 cm' },
+      { label: 'Peso', value: '3 kg' },
+      { label: 'Color / Voltaje', value: 'Negro / 5 V' },
+    ],
+    faq: [
+      { question: '¿La Samsung Powerbot E hace mapeo de la casa?', answer: 'No. Navega por sensores (gyro, anti-choque y anti-caída), no con LiDAR ni cámara, así que no arma un mapa ni recorre ordenado: se choca, repite zonas y deja otras sin pasar. Es la queja más repetida en las opiniones. Si necesitás recorrido prolijo y programado, conviene un robot con mapeo como la Samsung Jet Bot+ o una Xiaomi con LiDAR.' },
+      { question: '¿Funciona la app SmartThings? ¿Anda en iPhone?', answer: 'Es su punto más flojo. Muchas opiniones reportan que la app está desactualizada, falla seguido y que no lograron vincularla, incluso con celulares Samsung. En iOS varios dicen que no funciona y queda solo para Android. Importante: algunos modos (como el zig-zag) solo están en la app, no en el control remoto, así que si no la podés conectar, perdés funciones.' },
+      { question: '¿Le cuesta volver a la base de carga?', answer: 'Sí, es una queja frecuente. Al no mapear, no ubica con precisión el cargador y a veces se queda sin batería en cualquier rincón de la casa. Algunos compradores dicen que con el uso "se calibra" o uno aprende a ubicar mejor la base, pero conviene saber que no siempre vuelve sola.' },
+      { question: '¿Trapea bien? ¿Saca manchas?', answer: 'El trapeado es leve: humedece el piso para darle un repaso, no saca manchas ni reemplaza un trapeado a mano. El agua sale en gotas chiquitas y conviene mojar la mopa antes. Solo admite agua, no se le puede poner ningún producto. Sirve para mantener pisos ya limpios, sobre todo flotantes y porcelanato.' },
+      { question: '¿Sirve para pelo de mascotas?', answer: 'Sí, es de lo que más la eligen. Con filtro HEPA y 3 kPa de succión levanta bien pelo de gatos y perros en el mantenimiento diario. Eso sí, el depósito de polvo es de 200 mL, así que con mascotas que sueltan mucho pelo hay que vaciarlo seguido, y conviene revisar las escobillas porque el pelo largo las enreda.' },
+      { question: '¿Se consiguen repuestos (escobillas, filtros) en Argentina?', answer: 'Es un punto a tener en cuenta: varios compradores avisan que los repuestos son difíciles de conseguir localmente. La caja trae repuestos (suelen venir 2 escobillas, 1 paño y 1 filtro) y muchos resuelven comprando combos importados de China. Las escobillas van a presión y se enredan con cordones o alfombras shaggy, así que conviene levantar obstáculos antes de cada pasada.' },
+      { question: '¿En qué se diferencia de la Samsung Jet Bot+ que sí mapea?', answer: 'La Jet Bot+ es la gama superior de la misma marca: mapea con LiDAR, recorre ordenado y tiene base de autovaciado. La Powerbot E es más simple y económica: aspira muy bien pero no mapea, navega por sensores y no tiene autovaciado. Si tu prioridad es recorrido inteligente y autovaciado, la Jet Bot+; si te alcanza con buen aspirado de mantenimiento, la Powerbot E.' },
+      { question: '¿Conviene por el precio o hay opciones más baratas?', answer: 'Es una crítica honesta que aparece en las reseñas: por el precio, hay alternativas que mapean o rinden parecido gastando menos. Si te importa el mapeo, una Xiaomi con LiDAR o una Gadnic LiDAR 360 te dan recorrido ordenado a menor precio. La Powerbot E se justifica si valorás el respaldo Samsung y el aspirado fuerte por encima de las funciones inteligentes.' },
+      { question: '¿Es apta para alfombras?', answer: 'No es apta para alfombras según la ficha. Funciona sobre pisos duros (cerámica, porcelanato, flotante). Además tiene problemas para detectar superficies y objetos negros: el sensor a veces no los registra y los choca de frente.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', text: 'Lo vi a 110k, lo compré a 134k, hoy lo veo a 166k. El producto es Samsung, saben de estas cosas. Califico por la alegría de mi mujer: con una semana de uso está feliz. En casa las piezas, el pasillo y la cocina tienen el piso al mismo nivel, creo que eso es clave. Muy buena calidad de materiales. Recomendable.', useful: 97 },
+      { rating: 5, country: 'Argentina', text: 'Le pongo un delantal y la llamo juanita, espectacular.', useful: 70 },
+      { rating: 2, country: 'Argentina', text: 'El nombre hace justicia, no es una aspiradora inteligente. Lo más grave es que a veces pierde la base para recargar. La función que mejor limpia es la de zigzag pero no viene ese botón en el control, tenés que bajar la app (que le podrían dedicar amor también) para usar ese modo. No funciona sobre alfombras con detalles negros. Si tenés pisos claros, levantás las sillas y no dejás cables, limpia bastante bien. La mopa, maso.', useful: 43 },
+      { rating: 5, country: 'Argentina', text: 'Es estéticamente hermosa, intuitiva y útil. Pero es demasiado cara, hay marcas más económicas que cumplen la misma función. Es ruidosa. El agua a la mopa se transfiere en gotas minúsculas, hay que mojar la mopa antes. Le cuesta horrores volver a su base, puede dar vueltas 5 minutos antes de encontrarla. Recomiendo averiguar otras marcas más baratas.', useful: 31 },
+      { rating: 5, country: 'Argentina', text: 'La aspiradora es buena, limpia y trapea bien. Al principio costaba que vuelva a la base, con el tiempo no sé si se calibró o yo aprendí a usarla. Hay que levantar frazadas, cordones, alfombras porque las escobillas se enredan. Lo malo es que no se consiguen repuestos en Argentina: en un mes rompí 2 escobillas, pero por 25 dólares conseguís combos en China. Esquiva bien los obstáculos, no mapea. Excelente compra.', useful: 10 },
+      { rating: 4, country: 'Argentina', text: 'Inentendible que siendo Samsung no tenga una app actualizada para conectar al S23 Plus. Lo de la app ya estaba en los reviews, pensé que con SmartThings lo solucionaba, pero tampoco funciona. Me hubiese comprado la Gadnic que es más barata.', useful: 12 },
+      { rating: 3, country: 'Argentina', text: 'Zafa. Hay que preparar mucho el ambiente para que pueda pasar bien. Si podés comprar una que tenga LiDAR y haga mapas del ambiente, sería mucho mejor.', useful: 12 },
+      { rating: 1, country: 'Argentina', text: 'Confié en que al ser Samsung iba a ser bueno y la verdad es que es un pésimo producto. Me vino fallado y no recibo respuestas de cómo solucionarlo ni me aceptan la devolución. No lo recomiendo.', useful: 13 },
+      { rating: 5, country: 'Argentina', text: 'Excelente compra, increíble la cantidad de polvo que levanta.', useful: 4 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Robot Samsung Powerbot E 2 en 1',
+      description: 'Aspiradora robot 2 en 1 Samsung POWERbot E: aspira con 3 kPa y filtro HEPA, pasa mopa húmeda, control por WiFi y app SmartThings, 4 modos de limpieza, sensores gyro, anti-choque y anti-caída, depósito EZ Empty y retorno automático a la base. No tiene mapeo.',
+      brand: { '@type': 'Brand', name: 'Samsung' },
+      model: 'POWERbot-E (SAVR05R5050WK)',
+      sku: 'MLA18917302',
+      category: 'Aspiradoras robot',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_887717-MLA95656398372_102025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA18917302',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '449999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/2UEp3uq',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.4',
+        reviewCount: '397',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    relatedProducts: ['MLA26504431', 'MLA61420449', 'MLA62126950'],
   },
   {
     id: 'MLA42103831',
