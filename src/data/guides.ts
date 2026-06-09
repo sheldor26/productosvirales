@@ -12537,6 +12537,522 @@ export const guides: Guide[] = [
     internalLinksTitle: "Guías relacionadas",
   },
 
+  {
+    slug: "cafetera-dolce-gusto",
+    category: "cafeteras",
+    title: `Cafetera Dolce Gusto: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cafetera Dolce Gusto: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Las cafeteras Dolce Gusto que se consiguen hoy en Argentina: la Piccolo XS con 8.392 opiniones y la Smartlife 3 en 1. Precios de junio 2026 y análisis honesto.`,
+    ogTitle: `Dolce Gusto en Argentina: la cafetera que compró todo el mundo (y su secreto)`,
+    ogDescription: `La Piccolo XS junta 8.392 opiniones y cuesta $155.132, pero tiene un detalle que nadie te cuenta antes de comprar: es 100% manual. Te explicamos si te conviene.`,
+    h1: `Cafetera Dolce Gusto en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    publishedDate: "2026-06-15",
+    updatedDate: "2026-06-15",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Dolce Gusto es el sistema de cápsulas más vendido de Argentina, y la Piccolo XS es su máquina estrella: 8.392 calificaciones, más que cualquier otra cafetera del país. Comparamos las dos opciones con stock y garantía hoy, con precios de junio 2026 y los datos que la publicación no te cuenta.`,
+    intro: [
+      `Si buscás "cafetera dolce gusto" probablemente ya sepas lo que querés: café rico apretando (casi) un botón, sin moler, sin compactar y sin lavar portafiltros. El sistema de Nescafé domina esa categoría en Argentina por una razón concreta: sus cápsulas se consiguen en cualquier supermercado y la variedad va mucho más allá del espresso, con capuchino, chocolate, té y bebidas frías.`,
+      `La oferta real, sin embargo, es más chica de lo que parece. Hoy en MercadoLibre Argentina hay una sola máquina Dolce Gusto oficial con stock y garantía: la **Piccolo XS** ($155.132), que casualmente es la cafetera más vendida del catálogo entero, con 4.8 estrellas y 8.392 calificaciones. La Mini Me y la Genio S, los otros modelos conocidos de la marca, no tienen hoy publicación activa con garantía, y preferimos decírtelo antes que mandarte a una reventa dudosa.`,
+      `La segunda opción viene por un costado inesperado: la **Smartlife 3 en 1** ($528.131), que acepta cápsulas Dolce Gusto, cápsulas Nespresso y café molido en la misma máquina. Acá comparamos las dos, te contamos el detalle manual de la Piccolo que confunde a medio mundo y hacemos la cuenta de las cápsulas, que es donde se gana o se pierde la plata.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg", alt: `Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS roja, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, ficha técnica y calificaciones públicas de cada máquina compatible con cápsulas Dolce Gusto activa en MercadoLibre Argentina (junio 2026). Las citas de compradores son textuales de las reseñas. No incluimos modelos sin stock ni publicaciones sin garantía oficial, aunque sean conocidos.` },
+
+      { type: "h2", title: `Qué es el sistema Dolce Gusto y por qué se vende tanto`, id: "sistema" },
+      { type: "p", content: `Dolce Gusto es el sistema de cápsulas de Nescafé: dosis selladas que la máquina perfora y extrae con 15 bares de presión. Su diferencia con Nespresso, el otro gigante de las cápsulas, está en el enfoque: Nespresso es el especialista del espresso puro, Dolce Gusto es el generalista de las bebidas. Más de 20 variedades entre café, capuchino, chococino (chocolate), té y versiones frías, con cápsulas que se consiguen en cualquier supermercado argentino.` },
+      { type: "p", content: `Ese acceso a las cápsulas es la mitad de la decisión. Una cafetera de cápsulas te casa con su sistema durante años, y casarse con un sistema cuyas dosis venden el chino de la esquina y la web oficial con descuentos por cantidad es una apuesta más tranquila que depender de boutiques. Además existen cápsulas compatibles (Starbucks para Dolce Gusto, marcas propias de supermercado) y recargables, que se cargan con tu café molido favorito y bajan el costo por taza en serio.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "El cupón del 60%", content: `La caja de la Piccolo XS trae un cupón de 60% de descuento para la tienda online de Dolce Gusto. No es marketing viejo: lo confirman reseñas recientes de compradores que arrancaron el stock de cápsulas con ese descuento. Si la comprás, usalo antes de que venza.` },
+
+      { type: "h2", title: `Las dos máquinas para cápsulas Dolce Gusto que se consiguen hoy`, id: "modelos" },
+
+      { type: "h3", title: `Dolce Gusto Piccolo XS: la cafetera más vendida del país` },
+      { type: "product-card", productMlaId: "MLA15705813", label: "La más vendida", labelColor: "green", description: `15 bares, depósito de 1 litro con tapa y más de 20 bebidas compatibles en 13,6 cm de ancho. 4.8 estrellas con 8.392 calificaciones: ninguna otra cafetera del catálogo se le acerca.` },
+      { type: "p", content: `A $155.132, la Piccolo XS resuelve el caso más común: café rico, rápido y sin lavar nada, en una cocina donde no sobra lugar. Enchufás, a los segundos prende la luz verde, ponés la cápsula y en menos de un minuto tenés la taza lista y bien caliente (las reseñas desarman el mito del café tibio). El depósito de 1 litro tiene tapa y se rellena sin sacarlo, un detalle que un comprador que venía de una Genio 2 automática valoró más que el corte automático que perdió.` },
+      { type: "p", content: `Ahora, el dato que la publicación no aclara bien: la Piccolo XS es **100% manual**. La publicación dice "tecnología automática", pero eso refiere al encendido; el agua la cortás vos moviendo la palanca. La caja trae un instructivo con los segundos por bebida y la comunidad usa apps de timer (los compradores recomiendan TimerDolca) para clavar el punto. Los primeros cafés pueden salir aguados hasta agarrarle la mano; después de la primera semana, sale igual que en una automática. Si ese ritual de 30 segundos te molesta, esta no es tu máquina. Si no te cambia nada, te ahorrás una diferencia de precio grande.` },
+      { type: "pull-quote", content: `"Excelente, con la cafetera te viene un cupón de descuento del 60% en compras de Dolce Gusto. Me compré 6 cajas de cápsulas y una lata por dos mangos con ese descuento."`, attribution: `Comprador verificado en MercadoLibre, enero 2025 · 77 personas lo encontraron útil` },
+
+      { type: "h3", title: `Smartlife 3 en 1: acepta Dolce Gusto, Nespresso y café molido` },
+      { type: "product-card", productMlaId: "MLA28314113", label: "La que acepta todo", labelColor: "blue", description: `20 bares, espumador de leche a vapor y tres sistemas en una máquina: cápsulas Dolce Gusto, cápsulas Nespresso y café molido. 4.7 estrellas con 1.654 calificaciones.` },
+      { type: "p", content: `La Smartlife 3 en 1 ($528.131) juega otro partido: es una express de acero inoxidable con 20 bares y espumador de leche que además trae portafiltros para cápsulas Dolce Gusto y Nespresso. Es la única máquina del catálogo que no te obliga a elegir sistema: cápsula Dolce Gusto a las 7 de la mañana, espresso de café molido el domingo, capuchino con leche espumada de verdad cuando hay visitas. Y a diferencia de la Piccolo, tiene corte automático para el espresso de 1 y 2 tazas.` },
+      { type: "p", content: `Lo honesto, directo de las 1.654 reseñas: no es tan simple de usar como una de cápsulas pura ("Fácil de usar no es, tiene muchas cosas", escribió una compradora que igual la recomienda), conviene leer el manual o mirar un tutorial antes de estrenarla, y el portafiltro de cápsulas Nespresso cuesta un poco de fuerza para trabar las primeras veces. A cambio, 1.380 de esas calificaciones son de 5 estrellas, varias firmadas por gente del rubro.` },
+      { type: "pull-quote", content: `"Soy barista, por lo tanto tengo conocimientos y no tiene nada que envidiarle a otras, para uso en casa es perfecta, hace un café riquísima, el espumador funciona de 10, es cuestión de agarrarle la mano."`, attribution: `Compradora verificada en MercadoLibre, julio 2024 · 31 personas lo encontraron útil` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Mini Me o la Genio S?", content: `Los otros modelos Dolce Gusto conocidos (Mini Me, Genio S) no tienen hoy publicación activa con stock y garantía oficial en MercadoLibre Argentina. Hay reventas y publicaciones sin respaldo, pero no las recomendamos: en una máquina que vas a usar todos los días, la garantía vale más que la diferencia de precio. Cuando vuelvan con stock oficial, actualizamos esta guía.` },
+
+      { type: "h2", title: `Piccolo XS vs Smartlife 3 en 1: tabla comparativa`, id: "tabla" },
+      { type: "table", headers: [`—`, `Piccolo XS`, `Smartlife 3 en 1`], rows: [
+        [`Precio (jun 2026)`, `[$155.132](https://meli.la/1f93McA)`, `[$528.131](https://meli.la/1soScPB)`],
+        [`Sistemas`, `Solo cápsulas Dolce Gusto`, `Dolce Gusto + Nespresso + café molido`],
+        [`Corte de agua`, `Manual (la cortás vos)`, `Automático en espresso de 1 y 2 tazas`],
+        [`Espumador de leche`, `No`, `Sí, lanza de vapor`],
+        [`Presión`, `15 bares`, `20 bares`],
+        [`Rating`, `4.8 ★ (8.392 calificaciones)`, `4.7 ★ (1.654 calificaciones)`],
+        [`Para quién`, `Cápsulas sin vueltas, cocina chica`, `Quien no quiere casarse con un sistema`],
+      ] },
+
+      { type: "h2", title: `Dolce Gusto vs Nespresso: cuál sistema conviene`, id: "dolce-gusto-vs-nespresso" },
+      { type: "p", content: `Son sistemas incompatibles entre sí, así que conviene decidirlo antes de comprar la máquina. Nespresso hace mejor espresso puro: cápsulas más chicas, extracción más fina, el clásico cortado de especialidad. Dolce Gusto gana en todo lo demás: variedad (chocolate, té, capuchino, bebidas frías), cápsulas más baratas y más fáciles de conseguir, y máquinas de entrada que cuestan menos de la mitad. La [Nespresso Inissia](https://meli.la/1rEtjYg), el modelo de entrada de ese sistema, cuesta $350.000 y su publicación todavía no tiene calificaciones; la Piccolo XS cuesta $155.132 con 8.392 opiniones.` },
+      { type: "p", content: `Para una casa donde se toman cosas distintas (vos café, tu pareja capuchino, los pibes chocolate), Dolce Gusto es la elección obvia. Para un fanático del espresso corto que no quiere saber nada con leches ni chocolates, Nespresso tiene sentido. Y si no querés decidir, la [Smartlife 3 en 1](https://meli.la/1soScPB) acepta los dos sistemas más el café molido, que sigue siendo el más barato por taza de todos.` },
+
+      { type: "h2", title: `El costo real son las cápsulas (y cómo bajarlo)`, id: "capsulas" },
+      { type: "p", content: `Con cualquier cafetera de cápsulas, la máquina es la entrada: el gasto de verdad son las dosis que vas a comprar durante años. La buena noticia es que Dolce Gusto es el sistema con más salidas para esa cuenta:` },
+      { type: "list", items: [
+        `**El cupón de la caja:** 60% de descuento en la tienda online de Dolce Gusto, confirmado por reseñas recientes. Sirve para el primer stock grande.`,
+        `**Descuentos por cantidad:** la web oficial hace precios por caja que mejoran bastante el costo unitario del supermercado.`,
+        `**Cápsulas compatibles:** Starbucks para Dolce Gusto y marcas de supermercado funcionan en la Piccolo XS, según confirman las reseñas.`,
+        `**Cápsulas recargables:** se cargan con tu café molido favorito. Es el truco preferido de los compradores que toman varios cafés por día, porque combina la comodidad de la máquina con el precio del molido.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para el 90% de los que buscan una Dolce Gusto, la respuesta es la **Piccolo XS** a $155.132: la cafetera más probada del país, compacta y confiable, con el único peaje de cortar el agua vos (se aprende en una semana, con app de timer incluida). La **Smartlife 3 en 1** a $528.131 es para otro comprador: el que quiere cápsulas Dolce Gusto hoy pero no quiere renunciar al espresso de café molido ni al capuchino con espuma real mañana. Lo que no recomendamos: pagar reventas sin garantía de la Mini Me o la Genio S habiendo una opción oficial con 8.392 compradores atrás.` },
+    ],
+    faq: [
+      { question: `¿Cuánto cuesta una cafetera Dolce Gusto en Argentina?`, answer: `En junio 2026, la única máquina Dolce Gusto oficial con stock y garantía en MercadoLibre Argentina es la [Piccolo XS](https://meli.la/1f93McA) a $155.132. La alternativa compatible es la [Smartlife 3 en 1](https://meli.la/1soScPB) a $528.131, que además acepta cápsulas Nespresso y café molido.` },
+      { question: `¿La Dolce Gusto Piccolo XS corta el agua sola?`, answer: `No, es 100% manual: movés la palanca para empezar y la volvés a mover para frenar. La caja trae un instructivo con los segundos recomendados por bebida y los compradores usan apps de timer como TimerDolca para el punto exacto. La publicación dice "automática", pero eso refiere al encendido, no al corte.` },
+      { question: `¿Qué cápsulas puedo usar en una Dolce Gusto?`, answer: `Las originales de Nescafé, las compatibles (Starbucks para Dolce Gusto, marcas de supermercado) y las recargables, que se cargan con café molido común. Las reseñas de la [Piccolo XS](https://meli.la/1f93McA) confirman que las compatibles funcionan sin problema. Lo que no acepta son cápsulas Nespresso: son sistemas distintos.` },
+      { question: `¿Conviene Dolce Gusto o Nespresso?`, answer: `Dolce Gusto gana en variedad (café, capuchino, chocolate, té, bebidas frías), precio de máquina y acceso a cápsulas en supermercados. Nespresso es el especialista del espresso puro, a mayor costo: la [Inissia](https://meli.la/1rEtjYg) de entrada cuesta $350.000, más del doble que la Piccolo XS. Para una casa con gustos variados, Dolce Gusto; para el purista del espresso, Nespresso.` },
+      { question: `¿Se consigue la Dolce Gusto Mini Me o la Genio S en Argentina?`, answer: `Hoy no hay publicaciones activas con stock y garantía oficial de esos modelos en MercadoLibre Argentina, solo reventas sin respaldo que preferimos no recomendar. La [Piccolo XS](https://meli.la/1f93McA) es el modelo oficial disponible, y para funciones que la Piccolo no tiene (corte automático, espumador) está la [Smartlife 3 en 1](https://meli.la/1soScPB).` },
+      { question: `¿La Smartlife 3 en 1 hace bien las tres cosas o es tuttifrutti?`, answer: `Las hace bien, y las 1.654 calificaciones (4.7 estrellas) lo respaldan: hay reseñas de baristas que la probaron con café molido, cápsulas Dolce Gusto y Nespresso con buen resultado en los tres modos. El costo es la curva de aprendizaje: conviene leer el manual o mirar un tutorial antes del primer café, algo que las propias reseñas repiten.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+  },
+
+  {
+    slug: "cafetera-peabody",
+    category: "cafeteras",
+    title: `Cafetera Peabody: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cafetera Peabody: Precios y Cuál Comprar [2026]`,
+    metaDescription: `Las dos cafeteras Peabody con stock en Argentina, comparadas: la PE-CE5010N con molinillo a $520.336 y la PE-CE5023IX totalmente automática. Análisis honesto.`,
+    ogTitle: `Cafetera Peabody: el molinillo integrado más barato del país, a examen`,
+    ogDescription: `Peabody puso el café recién molido al alcance de presupuestos normales. Comparamos sus dos express con molinillo, con las reseñas reales y los peros que nadie cuenta.`,
+    h1: `Cafetera Peabody en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    publishedDate: "2026-06-18",
+    updatedDate: "2026-06-18",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Peabody es la marca que abarató el café recién molido en Argentina: su PE-CE5010N es la express con molinillo integrado más accesible del mercado. Comparamos sus dos modelos con stock hoy, la 5010N y la PE-CE5023IX totalmente automática, con precios de junio 2026 y reseñas verificadas.`,
+    intro: [
+      `Peabody encontró un hueco que las marcas grandes dejaron abierto: la cafetera con molinillo integrado a precio razonable. Moler el grano en el momento es el salto de calidad más grande que existe en el café casero (el molido envasado pierde aromas a las semanas de abierto), pero esa función costaba arriba de $800.000. La **PE-CE5010N** la baja a $520.336, y por eso "cafetera peabody" se volvió una de las búsquedas de café que más crece en Google Argentina.`,
+      `Hoy la marca tiene dos express con stock y garantía en MercadoLibre: la **PE-CE5010N** ($520.336), semiautomática con molinillo y bomba italiana de 19 bares, y la **PE-CE5023IX** ($981.818), la única cafetera totalmente automática de todo el catálogo que analizamos: muele, dosifica, extrae y corta sin que toques nada. Una tiene 237 calificaciones que la respaldan; la otra tiene solo 75 y cuesta casi un millón de pesos, así que la miramos con la lupa que esa compra merece.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_937822-MLA99945605211_112025-F.jpg", alt: `Cafetera express Peabody PE-CE5010N negra con molinillo integrado de 19 bares`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, ficha técnica y calificaciones públicas de cada Peabody activa en MercadoLibre Argentina (junio 2026). Las citas de compradores son textuales de las reseñas. Cuando un modelo tiene pocas calificaciones para su precio, lo decimos y lo comparamos contra alternativas con más historial.` },
+
+      { type: "h2", title: `Por qué Peabody: molinillo integrado sin precio de importada`, id: "por-que-peabody" },
+      { type: "p", content: `El argumento de Peabody es uno solo y es bueno: del grano a la taza por la mitad de lo que cobran las marcas internacionales. La [Oster Perfect Brew](https://meli.la/2amGBqP), su competencia directa con molinillo, cuesta $838.899; la PE-CE5010N hace el mismo trabajo de base por $318.000 menos. Las reseñas de la 5010N repiten una idea: si entrás al mundo del café en grano, es la puerta más barata que existe con molino de muelas de verdad, no esos molinillos de cuchilla "que parecen una licuadorita", como escribió un comprador.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Un dato de contexto", content: `Las dos Peabody usan molinillo cónico de muelas con grados de molienda regulables, el mismo tipo de molino que los baristas recomiendan comprar aparte. Comprado suelto, un molino de muelas decente cuesta más de $150.000: tenelo en cuenta al evaluar el precio de estas máquinas.` },
+
+      { type: "h2", title: `Las dos Peabody que se consiguen hoy, una por una`, id: "modelos" },
+
+      { type: "h3", title: `Peabody PE-CE5010N: el molinillo integrado más accesible del país` },
+      { type: "product-card", productMlaId: "MLA47077888", label: "Mejor precio con molinillo", labelColor: "green", description: `Molinillo cónico de muelas, bomba italiana ULKA de 19 bares, thermoblock y portafiltro de 58 mm. 4.6 estrellas en 237 calificaciones: del grano a la taza sin pagar tope de gama.` },
+      { type: "p", content: `La 5010N es una semiautomática seria disfrazada de electrodoméstico accesible: bomba italiana ULKA de 19 bares con medidor de presión frontal, sistema thermoblock que calienta en segundos, tanque removible de 1,4 litros y portafiltro de 58 mm, la medida de las máquinas de cafetería. Trae jarrita de inox para la leche y apisonador. Las reseñas más técnicas (hay varias de aficionados serios) la recomiendan justamente para aprender a calibrar como barista.` },
+      { type: "p", content: `Lo honesto, directo de las 237 calificaciones: el molinillo exige paciencia al principio. Varios compradores cuentan que les costó encontrar el punto de molienda ("si gasté bastante café" es una frase que se repite), el molino es algo lento y la vaporera de un solo orificio hace ruido, aunque espuma bien. Ninguna de esas quejas es estructural: son la curva de aprendizaje de cualquier máquina de este tipo, y el premio es café recién molido todos los días.` },
+      { type: "pull-quote", content: `"La cafetera más económica con molino integrado. Es una muy linda máquina y excelente opción si entras al mundo del café."`, attribution: `Comprador verificado en MercadoLibre, junio 2025 · 10 personas lo encontraron útil` },
+
+      { type: "h3", title: `Peabody PE-CE5023IX: la única totalmente automática del catálogo` },
+      { type: "product-card", productMlaId: "MLA53370426", label: "La automática total", labelColor: "purple", description: `Muele, dosifica, extrae y corta sin intervención: la única cafetera totalmente automática que analizamos. Doble thermoblock, tanque de 2,8 litros y 4.8 estrellas, aunque con solo 75 calificaciones.` },
+      { type: "p", content: `La 5023IX es otra categoría de máquina: cuerpo de acero, tanque de 2,8 litros, doble thermoblock y un ciclo completo que va del grano a la taza apretando un botón. Una compradora la usa para vender café en su panadería; otro destaca el peso del tamper y el portafiltro como señal del nivel del equipo. Su rating acompaña: 4.8 estrellas, sin ninguna calificación de 1 o 2 estrellas.` },
+      { type: "p", content: `Ahora, la honestidad que una compra de $981.818 exige: tiene solo **75 calificaciones**, una base chica para sacar conclusiones firmes. Y entre esas pocas reseñas ya aparecen dos avisos serios. El primero: la crítica más detallada (3 estrellas) dice que el molinillo integrado "no alcanza a moler tan fino como para el expreso perfecto", un punto flojo doloroso en una máquina que se compra justamente para no pensar en nada. El segundo: un comprador reporta que consume tanto que tuvo que agregar una térmica y cableado exclusivo para enchufarla. Si tu instalación eléctrica es justa, averiguá antes de comprar.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Revisá tu instalación eléctrica", content: `La PE-CE5023IX usa ficha de alto amperaje y al menos una reseña documenta que necesitó una térmica dedicada para funcionar. En departamentos con instalación vieja, ese costo extra de electricista va arriba del precio de la máquina.` },
+      { type: "pull-quote", content: `"Terminas siendo un barista con esta máquina. Para los apasionados del café, la recomiendo."`, attribution: `Comprador verificado en MercadoLibre, noviembre 2025` },
+
+      { type: "h2", title: `Peabody vs Peabody: tabla comparativa`, id: "tabla" },
+      { type: "table", headers: [`—`, `PE-CE5010N`, `PE-CE5023IX`], rows: [
+        [`Precio (jun 2026)`, `[$520.336](https://meli.la/2uKu8pv)`, `[$981.818](https://meli.la/1n158eE)`],
+        [`Operación`, `Semiautomática (vos manejás la extracción)`, `Totalmente automática`],
+        [`Molinillo`, `Cónico de muelas, integrado`, `Cónico de muelas, integrado`],
+        [`Presión`, `19 bares (bomba ULKA)`, `19 bares`],
+        [`Tanque de agua`, `1,4 L`, `2,8 L`],
+        [`Rating`, `4.6 ★ (237 calificaciones)`, `4.8 ★ (75 calificaciones)`],
+        [`Para quién`, `Aprender el oficio y pagar menos`, `Cero intervención, presupuesto alto`],
+      ] },
+
+      { type: "h2", title: `¿Y si ninguna de las dos? Las alternativas honestas`, id: "alternativas" },
+      { type: "list", items: [
+        `**Más rating, mismo concepto:** la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP) ($838.899) tiene molinillo integrado, corte automático de dosis y el mejor rating de todas las cafeteras que analizamos: 4.9 estrellas. Cuesta $318.000 más que la 5010N pero juega entre las dos Peabody en precio, con más respaldo de marca. La comparamos a fondo en la [guía de cafeteras Oster](/guias/cafetera-oster).`,
+        `**Sin molinillo y con la mitad de presupuesto:** la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ($289.999) resigna el molido en el momento pero suma un espumador con depósito de leche que hace el capuchino solo. 4.7 estrellas en 402 calificaciones.`,
+        `**Presupuesto de entrada:** si el molinillo no es prioridad, en la [guía de cafeteras express](/guias/cafetera-express) está el ranking completo desde $133.999.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál Peabody comprar`, id: "veredicto" },
+      { type: "verdict", content: `La compra racional es la **PE-CE5010N** a $520.336: el molinillo integrado más barato del mercado argentino, con 237 calificaciones que ya documentaron su única exigencia real (paciencia para calibrar la molienda). La **PE-CE5023IX** es una linda máquina, pero a $981.818 con solo 75 calificaciones, un molinillo cuestionado en su reseña más detallada y posible obra de electricista incluida, preferimos que la compre quien ya sabe exactamente lo que busca. Si la automatización total no es innegociable, entre la 5010N y la [Oster Perfect Brew](https://meli.la/2amGBqP) está la mejor relación precio-café de la gama con molinillo.` },
+    ],
+    faq: [
+      { question: `¿Cuánto cuesta una cafetera Peabody en Argentina?`, answer: `En junio 2026, la [PE-CE5010N](https://meli.la/2uKu8pv) con molinillo integrado cuesta $520.336 y la [PE-CE5023IX](https://meli.la/1n158eE) totalmente automática, $981.818. Son los dos modelos express de la marca con stock y garantía en MercadoLibre Argentina.` },
+      { question: `¿La Peabody PE-CE5010N hace buen espresso?`, answer: `Sí, con una condición: aprender a calibrar la molienda. Las reseñas coinciden en que los primeros cafés salen flojos hasta encontrar el punto (una compradora lo resume: "tengan paciencia al principio"), y de ahí en más la extracción sale bien. La bomba ULKA de 19 bares y el portafiltro de 58 mm son componentes de máquina seria, no de juguete.` },
+      { question: `¿Qué significa que la PE-CE5023IX sea totalmente automática?`, answer: `Que hace el ciclo completo sola: muele el grano, dosifica, extrae y corta sin que intervengas. En las semiautomáticas como la [PE-CE5010N](https://meli.la/2uKu8pv) vos cargás el portafiltro y manejás la extracción. Es la única totalmente automática de todo el catálogo que analizamos, y esa comodidad explica buena parte de sus $981.818.` },
+      { question: `¿La PE-CE5023IX necesita instalación eléctrica especial?`, answer: `Puede que sí. Usa ficha de alto amperaje y al menos una reseña verificada cuenta que tuvo que instalar una térmica dedicada y cableado exclusivo para usarla. Antes de comprarla, revisá que tu instalación soporte el consumo o sumá el costo del electricista a la cuenta.` },
+      { question: `¿Conviene una Peabody o una Oster con molinillo?`, answer: `Si el presupuesto manda, la [Peabody PE-CE5010N](https://meli.la/2uKu8pv) a $520.336 es el molinillo integrado más barato. La [Oster Perfect Brew](https://meli.la/2amGBqP) a $838.899 suma corte automático de dosis, mejor rating (4.9 contra 4.6) y reputación de marca. Para el primer equipo con molinillo, la Peabody alcanza; para no pensar nunca más en la máquina, la Oster.` },
+      { question: `¿Las cafeteras Peabody tienen respaldo en Argentina?`, answer: `Sí, Peabody es una marca de larga presencia local con service y repuestos en el país. Entre las reseñas de la [PE-CE5023IX](https://meli.la/1n158eE) hay incluso una que destaca el servicio postventa como "súper atento". Como siempre, comprá publicaciones nuevas con garantía oficial.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+  },
+
+  {
+    slug: "cafetera-de-filtro",
+    category: "cafeteras",
+    title: `Cafetera de filtro: las mejores de Argentina [2026]`,
+    seoTitle: `Cafetera de Filtro: Mejores Modelos en Argentina [2026]`,
+    metaDescription: `Ranking de cafeteras de filtro en Argentina 2026: Atma, Ultracomb, Smartlife y Liliana desde $40.756. Precios reales, reseñas verificadas y cuál conviene.`,
+    ogTitle: `Cafetera de filtro: el café de jarra de toda la vida, elegido con datos`,
+    ogDescription: `Desde $40.756 hasta la premium con jarra de acero: comparamos las cafeteras de filtro que se consiguen hoy, con las reseñas reales y la que conviene evitar.`,
+    h1: `Cafetera de filtro en Argentina: ranking y cuál comprar [2026]`,
+    publishedDate: "2026-06-21",
+    updatedDate: "2026-06-21",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `La cafetera de filtro sigue siendo la forma más barata de tener café para toda la casa: jarra completa por el precio de dos cápsulas. Ranking con precios reales de junio 2026, desde la Ultracomb de $40.756 hasta la Liliana con jarra de acero, y la explicación honesta de cuál conviene según tu caso.`,
+    intro: [
+      `La **cafetera de filtro** es el electrodoméstico menos glamoroso y más eficiente del mundo del café: agua caliente que gotea sobre café molido y llena una jarra de hasta 12 pocillos sin que nadie la mire. Nada de bares de presión, cápsulas ni espumadores. Para una casa donde el café se toma en cantidad (desayunos largos, mates de oficina reemplazados, visitas), sigue siendo imbatible en costo por taza.`,
+      `Y los precios acompañan: las cuatro con calificaciones de este ranking van de $40.756 a $112.767, menos que cualquier express con bomba. La trampa de la categoría es otra: a este precio los fabricantes recortan en materiales, y la diferencia entre una buena compra y un dolor de cabeza está en detalles que solo aparecen en las reseñas, como jarras frágiles sin repuesto o cafés que salen tibios.`,
+      `Comparamos las seis cafeteras de filtro con publicación activa en MercadoLibre Argentina: cuatro con cientos de opiniones verificadas y dos recién llegadas sin calificaciones, que tratamos aparte y con honestidad. Si venís dudando entre filtro, express y cápsulas, arrancamos por ahí.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_618795-MLA99866989519_112025-F.jpg", alt: `Cafetera de filtro Atma CA8133 blanca de 1,25 litros, la más probada de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras de filtro disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones, cruzando ficha técnica con calificaciones públicas de compradores reales. Miramos capacidad real de jarra, si es programable, materiales (la fragilidad es la queja número uno de la categoría) y qué dicen las reseñas sobre la temperatura del café. Los precios son de junio 2026.` },
+
+      { type: "h2", title: `Filtro, express o cápsulas: cuál te corresponde`, id: "filtro-vs-express" },
+      { type: "p", content: `Las tres categorías hacen cosas distintas y conviene tenerlo claro antes de gastar un peso. La **express** empuja agua a presión y hace espresso con crema: el mejor café, a cambio de un ritual de moler, compactar y limpiar, y desde $133.999 las que valen la pena (el ranking completo está en la [guía de cafeteras express](/guias/cafetera-express)). Las **cápsulas** automatizan todo con dosis selladas: máxima comodidad, costo por taza más alto. La **de filtro** hace café de jarra por goteo: ni la intensidad del espresso ni la velocidad de la cápsula, pero llena un litro de café con el molido más barato del supermercado.` },
+      { type: "p", content: `La cuenta que define la compra es simple: ¿cuántas tazas se toman por día en tu casa? Una o dos, mirá cápsulas o express. Cuatro o más, la de filtro amortiza sola: una jarra entera cuesta en café molido lo que una cápsula y media. Y el goteo tiene un plus que las otras no dan: la jarra queda caliente sobre la base mientras dure el desayuno.` },
+
+      { type: "h2", title: `El ranking: mejores cafeteras de filtro 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Atma CA8133 — la más probada, mejor para la mayoría` },
+      { type: "product-card", productMlaId: "MLA14735678", label: "Mejor para la mayoría", labelColor: "green", ranking: 1, description: `1,25 litros (unos 12 pocillos), antigoteo para servirse antes de que termine el ciclo y base calentadora. 4.6 estrellas con 879 calificaciones, la filtro más probada del país.` },
+      { type: "p", content: `A $47.567, la CA8133 es la respuesta segura: 879 calificaciones que promedian 4.6 y reseñas que repiten lo mismo en distintas palabras: prepara rápido (no esperás ni 20 minutos para la jarra completa), el sistema antigoteo deja servirse una taza a mitad de ciclo y la base calentadora mantiene el resto a temperatura. Portafiltro removible para limpiar sin pelearse y filtro permanente, sin gastar en filtros de papel.` },
+      { type: "p", content: `Sus dos peros, directo de las reseñas: el cuerpo es de plástico liviano (varios piden cuidarla, ninguno reporta rotura masiva) y el color blanco se mancha con el café con el tiempo; más de un comprador dice que la próxima la elige negra. Un aviso menos visible: si se rompe la jarra, conseguir el repuesto cuesta, un clásico de toda la categoría que conviene saber antes.` },
+      { type: "pull-quote", content: `"Me encantó la cafetera, tenía mis dudas por el precio bajo pero la verdad fue una muy buena inversión. Funciona excelente y tiene gran capacidad para hacer café en tazas grandes."`, attribution: `Comprador verificado en MercadoLibre, junio 2020 · 12 personas lo encontraron útil` },
+
+      { type: "h3", title: `2. Ultracomb CA-2205 — la más barata, con sus letras chicas` },
+      { type: "product-card", productMlaId: "MLA15109525", label: "La más barata", labelColor: "amber", ranking: 2, description: `$40.756 con timer digital programable: el café te espera hecho cuando te levantás. 4.4 estrellas en 631 calificaciones, el rating más bajo del ranking, y te contamos por qué.` },
+      { type: "p", content: `La CA-2205 tiene el precio más bajo del ranking y una función que a este precio no tiene nadie: **timer digital programable**. La dejás cargada a la noche y el café está recién hecho cuando sonó el despertador; las reseñas positivas giran casi todas alrededor de eso. Filtro permanente lavable (también acepta papel 1x4), antigoteo y apagado automático.` },
+      { type: "p", content: `Ahora, el 4.4: es el rating más bajo de todas las cafeteras que analizamos, y las reseñas explican por qué. Los materiales son frágiles ("hay que tratarla con cuidado", avisa una compradora), la jarra es chica para lo que promete la publicación (un comprador midió: 5 tazas tipo mug) y, la peor, si la jarra se rompe no hay repuesto: hay una reseña de alguien preguntando dónde conseguirla. Bonus track: el reloj se desconfigura cada vez que la desenchufás, porque no tiene batería interna. Si el timer te vale esos peajes, a $40.756 sigue siendo un buen negocio; si no, la Atma de arriba es más máquina.` },
+
+      { type: "h3", title: `3. Smartlife SL-CM1095 — la programable con más capacidad` },
+      { type: "product-card", productMlaId: "MLA15297115", label: "Mejor programable", labelColor: "blue", ranking: 3, description: `Panel digital programable, 1,5 litros de capacidad y terminación con acero inoxidable. 4.7 estrellas en 94 calificaciones: el paso intermedio entre las básicas y la premium.` },
+      { type: "p", content: `La SL-CM1095 ($79.999) hace lo mismo que la Ultracomb (programar el café de la mañana) con mejores materiales y más capacidad: 1,5 litros, 980 W, cuerpo con acero inoxidable y base antideslizante. Las reseñas celebran exactamente eso: "la programo y tengo el café hecho a la hora exacta", y la describen rápida cuando se usa en el momento, con la jarra lista en menos de 10 minutos.` },
+      { type: "p", content: `Su punto flojo, repetido en las pocas críticas que tiene: la temperatura. Un comprador con 3 estrellas dice que el café "queda tibio" y otro sugiere que la resistencia debería calentar un poco más. La mayoría no lo menciona, pero si tomás el café hirviendo, anotalo. Con 94 calificaciones, su 4.7 es sólido aunque la base de opiniones sea más chica que la de las dos primeras.` },
+
+      { type: "h3", title: `4. Liliana AC935 — la premium con jarra de acero` },
+      { type: "product-card", productMlaId: "MLA62786317", label: "La premium", labelColor: "purple", ranking: 4, description: `Jarra térmica de acero inoxidable (no vidrio), panel digital con 6 funciones y selector de intensidad. 4.8 estrellas en 42 calificaciones: la filtro mejor puntuada del ranking.` },
+      { type: "p", content: `La AC935 ($112.767) ataca el talón de Aquiles de toda la categoría: la jarra de vidrio. Acá es **térmica y de acero inoxidable**, así que ni se rompe ni necesita la base calentadora prendida para mantener el café. Sumale panel digital con programación, selector de intensidad y apagado automático, y queda la filtro más completa del mercado argentino. Una reseña la resume mejor que nosotros: "Por las mañanas ya no me despierta la alarma, sino el olorcito a café".` },
+      { type: "p", content: `La honestidad del caso: tiene 42 calificaciones, una base chica, aunque el 4.8 sin ninguna reseña de 1 o 2 estrellas acompaña. Y la jarra térmica no es un termo: un comprador midió que mantiene el café a temperatura tomable unos 40-50 minutos. Para un desayuno largo alcanza; para la jarra de las 8 tomada a las 11, no.` },
+      { type: "pull-quote", content: `"La cafetera además de preciosa funciona perfecto. Rápida, elegante y con el plus de la jarra metálica que además de mantener la temperatura garantiza su vida útil. La volvería a comprar."`, attribution: `Comprador verificado en MercadoLibre, mayo 2026` },
+
+      { type: "h2", title: `Dos recién llegadas, todavía sin calificaciones`, id: "sin-calificaciones" },
+      { type: "p", content: `Estas dos tienen publicación activa y garantía, pero ninguna calificación todavía. No vamos a inventar opiniones: lo que sigue sale de la ficha técnica y de la trayectoria de cada marca, y por eso no entran al ranking principal.` },
+      { type: "product-card", productMlaId: "MLA37650751", label: "Sin calificaciones aún", labelColor: "amber", description: `La hermana simple de la CA8133: misma capacidad de 1,25 litros y filtro lavable, sin algunos detalles de terminación. $45.000, todavía sin opiniones en esta publicación.` },
+      { type: "p", content: `La [Atma CA8131](https://meli.la/2UrA2C7) es básicamente la CA8133 despojada: 12 tazas, filtro removible lavable y función de mantener caliente, por $45.000. El problema es la cuenta: por $2.567 más, la [CA8133](https://meli.la/1xm8Wd8) trae 879 calificaciones que ya probaron la máquina por vos. Salvo que esta esté en oferta, la hermana famosa es la compra lógica.` },
+      { type: "product-card", productMlaId: "MLA72187457", label: "La apuesta de marca", labelColor: "blue", description: `Electrolux en el rango de entrada: cuerpo de acero inoxidable, 1,2 litros y temporizador, por $69.999. Publicación nueva, sin calificaciones todavía.` },
+      { type: "p", content: `La [Electrolux ECM25](https://meli.la/1y5nrwc) es la jugada interesante de las dos: marca internacional, acero inoxidable y temporizador a $69.999, es decir, $10.000 menos que la Smartlife con prestaciones parecidas en los papeles. Si la reputación de Electrolux te alcanza como garantía, puede ser una buena entrada anticipada; si preferís comprar con opiniones, esperala o andá por la Smartlife.` },
+
+      { type: "h2", title: `Tabla comparativa: precios y prestaciones`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Programable`, `Rating`], rows: [
+        [`[Atma CA8133](https://meli.la/1xm8Wd8)`, `$47.567`, `1,25 L`, `No`, `4.6 ★ (879)`],
+        [`[Ultracomb CA-2205](https://meli.la/1aZSTdt)`, `$40.756`, `720 mL`, `Sí, timer digital`, `4.4 ★ (631)`],
+        [`[Smartlife SL-CM1095](https://meli.la/2Dw1odT)`, `$79.999`, `1,5 L`, `Sí, panel digital`, `4.7 ★ (94)`],
+        [`[Liliana AC935](https://meli.la/2fbAbdd)`, `$112.767`, `1,2 L (jarra de acero)`, `Sí, con intensidad`, `4.8 ★ (42)`],
+        [`[Atma CA8131](https://meli.la/2UrA2C7)`, `$45.000`, `1,25 L`, `No`, `Sin calificaciones`],
+        [`[Electrolux ECM25](https://meli.la/1y5nrwc)`, `$69.999`, `1,2 L`, `Sí, temporizador`, `Sin calificaciones`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cafetera de filtro: tres preguntas`, id: "como-elegir" },
+      { type: "list", items: [
+        `**¿Jarra de vidrio o de acero?** El vidrio es el punto débil de la categoría: se rompe y el repuesto cuesta conseguirlo (o directamente no existe, como en la Ultracomb). La [Liliana AC935](https://meli.la/2fbAbdd) es la única con jarra de acero, y solo por eso justifica parte de su precio.`,
+        `**¿Programable o no?** Si el café de la mañana es sagrado y el despertador es tu enemigo, el timer cambia la vida: [Ultracomb](https://meli.la/1aZSTdt) en versión económica, [Smartlife](https://meli.la/2Dw1odT) o [Liliana](https://meli.la/2fbAbdd) en versión seria. Si tomás café a cualquier hora, no pagues por la función.`,
+        `**¿Cuánta capacidad real?** No te guíes por los "pocillos" de la publicación, que son medidas optimistas: mirá los litros. Para tazas tipo mug, 1,25 litros rinden 5 o 6, no 12. La Ultracomb, con 720 mL, es para casas de poco café.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría: la **Atma CA8133** ($47.567), la más probada de la categoría y sin sorpresas. Si lo tuyo es despertarte con el café hecho, la **Smartlife SL-CM1095** ($79.999) es la programable con mejor equilibrio; la Ultracomb más barata sirve solo si aceptás sus materiales frágiles y su jarra sin repuesto. Y si la filtro va a trabajar todos los días durante años, la **Liliana AC935** ($112.767) con jarra de acero es la única pensada para no romperse. El error a evitar: pagar precio de filtro esperando café de express; para eso está la [guía de cafeteras express](/guias/cafetera-express).` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cafetera de filtro en Argentina?`, answer: `Por datos, la [Atma CA8133](https://meli.la/1xm8Wd8): $47.567, 1,25 litros, antigoteo y 4.6 estrellas en 879 calificaciones, la base de opiniones más grande de la categoría. Si querés programación o jarra de acero, la [Smartlife SL-CM1095](https://meli.la/2Dw1odT) y la [Liliana AC935](https://meli.la/2fbAbdd) son los escalones siguientes.` },
+      { question: `¿Qué diferencia hay entre cafetera de filtro y express?`, answer: `La de filtro hace café de jarra por goteo, suave y en cantidad, con el molido más barato. La express empuja el agua a presión y hace espresso con crema, taza por taza, desde $133.999 en máquinas con bomba real. Son cafés distintos: jarra para la mesa, espresso para el ritual. El ranking de express está en la [guía de cafeteras express](/guias/cafetera-express).` },
+      { question: `¿Cuánto cuesta una cafetera de filtro en Argentina?`, answer: `En junio 2026, entre $40.756 ([Ultracomb CA-2205](https://meli.la/1aZSTdt)) y $112.767 ([Liliana AC935](https://meli.la/2fbAbdd) con jarra de acero). El punto dulce de la categoría está en los $47.567 de la [Atma CA8133](https://meli.la/1xm8Wd8), la más probada.` },
+      { question: `¿Vale la pena una cafetera de filtro programable?`, answer: `Si tomás café apenas te levantás, sí: cargás agua y café a la noche y la máquina arranca sola a la hora que le pusiste. La opción económica es la [Ultracomb CA-2205](https://meli.la/1aZSTdt) ($40.756), con la advertencia de que su reloj se desconfigura si la desenchufás. La [Smartlife SL-CM1095](https://meli.la/2Dw1odT) hace lo mismo con mejores materiales por $79.999.` },
+      { question: `¿Por qué la Ultracomb CA-2205 tiene rating 4.4?`, answer: `Las reseñas lo explican: materiales frágiles que piden trato con cuidado, una jarra más chica de lo que sugiere la publicación y, el punto más serio, sin repuesto de jarra disponible si se rompe. Aun así junta 631 calificaciones y a $40.756 es la programable más barata; es una compra razonable solo si esos recortes no te molestan.` },
+      { question: `¿Conviene comprar una cafetera sin calificaciones?`, answer: `Depende de tu tolerancia: la publicación de la [Electrolux ECM25](https://meli.la/1y5nrwc) ($69.999) es nueva y la marca tiene trayectoria, pero nadie probó todavía esta máquina públicamente. Nuestra regla: si hay una alternativa probada por cientos de compradores a precio parecido, como la [Smartlife SL-CM1095](https://meli.la/2Dw1odT), la alternativa probada gana.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera Dolce Gusto: cuál comprar en Argentina", href: "/guias/cafetera-dolce-gusto" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+  },
+
+  {
+    slug: "cafetera-smartlife",
+    category: "cafeteras",
+    title: `Cafetera Smartlife: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cafetera Smartlife: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Las tres cafeteras Smartlife que valen la pena en Argentina: la SL-EC8501 de 20 bares, la 3 en 1 con cápsulas y la de filtro digital. Precios y reviews reales.`,
+    ogTitle: `Cafetera Smartlife: la marca barata que domina las reseñas de café en Argentina`,
+    ogDescription: `Por qué una marca económica junta miles de calificaciones arriba de 4.6: comparamos las tres Smartlife que se consiguen hoy y te decimos cuál va con vos.`,
+    h1: `Cafetera Smartlife en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    publishedDate: "2026-06-24",
+    updatedDate: "2026-06-24",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Smartlife se volvió la marca value de las cafeteras en Argentina: precios de gama económica con miles de calificaciones reales arriba de 4.6. Comparamos las tres que se consiguen hoy en MercadoLibre: la SL-EC8501 de 20 bares, la 3 en 1 que acepta todas las cápsulas y la de filtro digital programable.`,
+    intro: [
+      `Smartlife juega un juego claro en el mercado argentino: prestaciones que las marcas grandes cobran el doble, a precio de gama económica. En cafeteras le salió especialmente bien. La **SL-EC8501** junta 1.656 calificaciones con 4.6 estrellas, la **3 en 1** suma otras 1.654 con 4.7, y entre las dos forman la base de opiniones más grande de cualquier marca de cafeteras del catálogo. Eso explica que "cafetera smartlife" sea una búsqueda con nombre propio en Google.`,
+      `La letra chica también existe, y la contamos de entrada: los manuales de Smartlife son flojos, la SL-EC8501 viene con un tapón de silicona escondido en el depósito que volvió loco a más de un comprador, y los primeros cafés salen aguados hasta que purgás el circuito. Nada de eso frena la compra; todo eso conviene saberlo antes del primer café.`,
+      `Acá comparamos los tres modelos con stock y garantía en MercadoLibre Argentina: la express SL-EC8501 ($194.111), la 3 en 1 de cápsulas ($528.131) y la filtro digital SL-CM1095 ($79.999). Tres máquinas para tres tipos de casa.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_870792-MLA87138671692_072025-F.jpg", alt: `Cafetera express Smartlife SL-EC8501 de 20 bares con espumador, el modelo más vendido de la marca en Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, ficha técnica y calificaciones públicas de cada Smartlife activa en MercadoLibre Argentina (junio 2026). Las citas de compradores son textuales de las reseñas. No incluimos modelos sin stock ni publicaciones sin garantía oficial.` },
+
+      { type: "h2", title: `Por qué Smartlife: la marca value que se ganó la gama económica`, id: "por-que-smartlife" },
+      { type: "p", content: `Smartlife es la marca de electrodomésticos de Visuar, una importadora con años en el país, y su estrategia con las cafeteras fue directa: specs de gama media (20 bares de presión, caldera de acero, paneles digitales) a precios donde la competencia ofrece bastante menos. Lo que valida esa estrategia no es el marketing sino los números públicos: más de 3.300 calificaciones sumadas entre sus dos express, con promedios de 4.6 y 4.7. En la gama económica, ninguna otra marca fue probada por tanta gente.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Un dato de contexto", content: `La búsqueda "cafetera smartlife" mueve unas 2.400 consultas mensuales en Google Argentina. Para una marca sin tradición cafetera, ese volumen lo construyeron los compradores recomendándola, no la publicidad. Comprá siempre publicaciones nuevas con garantía: la reventa usada de la SL-EC8501 es común justamente porque la máquina es buscada.` },
+
+      { type: "h2", title: `Las tres Smartlife que se consiguen hoy, una por una`, id: "modelos" },
+
+      { type: "h3", title: `Smartlife SL-EC8501: la express que explica la fama de la marca` },
+      { type: "product-card", productMlaId: "MLA18562154", label: "La mejor Smartlife", labelColor: "green", description: `Bomba de 20 bares, espumador a vapor con perilla y dos portafiltros: café molido o cápsulas compatibles Nespresso. 4.6 estrellas en 1.656 calificaciones, la express económica más probada del país.` },
+      { type: "p", content: `Es la estrella de la marca y nuestra mejor elección general en la [guía de cafeteras express](/guias/cafetera-express). Por $194.111 te da **20 bares de presión**, espumador con perilla para vapor o agua caliente, calentador de tazas y el diferencial que casi nadie ofrece a este precio: **dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso**. Un comprador hizo la cuenta en su reseña: comprar espresso, espumador y máquina de cápsulas por separado salía mucho más caro.` },
+      { type: "p", content: `Los tres avisos del estreno, directo de las reseñas: el manual es malo (mirate un tutorial de cinco minutos antes de usarla), dentro del depósito hay un **tapón de silicona de transporte que no se ve** y que tenés que sacar o la máquina hace todo el proceso sin tomar agua (un comprador estuvo una hora hasta descubrirlo), y los primeros cafés salen flojos hasta que se purga el circuito. Los tres problemas se resuelven el primer día y no vuelven a aparecer.` },
+      { type: "pull-quote", content: `"Hice mis primeros cafés en casa, nada que envidiar a un resto bar. El café sale caliente, la espuma en la leche fantástica."`, attribution: `Comprador verificado en MercadoLibre, febrero 2022` },
+
+      { type: "h3", title: `Smartlife 3 en 1: Nespresso, Dolce Gusto y café molido en la misma máquina` },
+      { type: "product-card", productMlaId: "MLA28314113", label: "La todoterreno de cápsulas", labelColor: "purple", description: `La única del catálogo que acepta cápsulas Nespresso, Dolce Gusto y café molido. 20 bares, cuerpo de acero inoxidable y 4.7 estrellas en 1.654 calificaciones.` },
+      { type: "p", content: `Acá está la jugada más ambiciosa de Smartlife: una máquina que no te obliga a casarte con ningún sistema. Acepta **cápsulas Nespresso, cápsulas Dolce Gusto y café molido**, con 20 bares de presión y cuerpo de acero inoxidable. Las reseñas suman un dato que la ficha no destaca: corta la extracción sola y la dosis es programable, algo que la SL-EC8501 no hace. Si en tu casa conviven el del espresso de molido y la del chococino en cápsula, esta máquina termina la discusión.` },
+      { type: "p", content: `Lo honesto: cuesta $528.131, casi el triple que la SL-EC8501, y esa diferencia solo se justifica si de verdad vas a usar los tres sistemas. Las reseñas avisan además que la palanca del portafiltro de cápsulas exige fuerza los primeros usos y que conviene leer el manual con paciencia, porque la programación tiene sus truquitos. Con 4.7 estrellas en 1.654 calificaciones, los que la compraron no se arrepienten.` },
+      { type: "pull-quote", content: `"Soy barista, por lo tanto tengo conocimientos y no tiene nada que envidiarle a otras, para uso en casa es perfecta."`, attribution: `Comprador verificado en MercadoLibre, julio 2024` },
+
+      { type: "h3", title: `Smartlife SL-CM1095: la de filtro digital para el café de jarra` },
+      { type: "product-card", productMlaId: "MLA15297115", label: "La filtro programable", labelColor: "blue", description: `Cafetera de filtro digital programable de 1,5 litros (12 pocillos), con pantalla y timer para despertarte con el café hecho. 4.7 estrellas en 94 calificaciones.` },
+      { type: "p", content: `La tercera Smartlife es otra categoría: café de jarra por goteo, para la casa donde el café se toma de a tazas grandes y varias veces al día. Su gracia es el **timer programable con pantalla digital**: la cargás a la noche y te despertás con el café hecho, una función que las reseñas mencionan una y otra vez como el motivo de compra. A $79.999 con 4.7 estrellas, es el paso intermedio entre las filtro básicas de $45.000 y las filtro premium con jarra de acero.` },
+      { type: "p", content: `El matiz que sale de las reseñas: la placa mantiene el café más tibio que caliente, así que conviene tomarlo al momento o pasarlo a un termo. Para el resto, cumple sin drama: 1,5 litros, antigoteo y la programación que funciona como promete.` },
+
+      { type: "h2", title: `Tabla comparativa: las tres Smartlife frente a frente`, id: "tabla" },
+      { type: "table", headers: [`—`, `SL-EC8501`, `3 en 1`, `SL-CM1095`], rows: [
+        [`Precio (jun 2026)`, `[$194.111](https://meli.la/1QMpWAw)`, `[$528.131](https://meli.la/1soScPB)`, `[$79.999](https://meli.la/2Dw1odT)`],
+        [`Tipo`, `Express`, `Express + cápsulas`, `Filtro (jarra)`],
+        [`Presión`, `20 bares`, `20 bares`, `—`],
+        [`Cápsulas`, `Nespresso compatibles`, `Nespresso + Dolce Gusto`, `No`],
+        [`Corte automático`, `No`, `Sí, programable`, `Sí (fin de ciclo)`],
+        [`Rating`, `4.6 ★ (1.656 calificaciones)`, `4.7 ★ (1.654 calificaciones)`, `4.7 ★ (94 calificaciones)`],
+        [`Para quién`, `Espresso diario sin gastar de más`, `Casas que mezclan sistemas`, `Café de jarra programado`],
+      ] },
+
+      { type: "h2", title: `Cuál Smartlife elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**Querés entrar al espresso sin pagar de más:** la [SL-EC8501](https://meli.la/1QMpWAw) ($194.111). Es la compra obvia y la más respaldada por opiniones de toda la gama económica.`,
+        `**En tu casa conviven cápsulas y café molido:** la [3 en 1](https://meli.la/1soScPB) ($528.131). Cara, pero reemplaza dos o tres máquinas y corta sola.`,
+        `**Tomás café de jarra todo el día:** la [SL-CM1095](https://meli.la/2Dw1odT) ($79.999). Programable, 12 pocillos y el mejor precio de las tres.`,
+        `**Tomás capuchino diario y querés cero técnica:** ninguna de las tres es ideal. Mirá la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ($289.999) con su espumador con depósito de leche.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **SL-EC8501** a $194.111: 20 bares, cápsulas Nespresso de respaldo y 1.656 compradores que ya documentaron todos los errores de estreno (tapón, manual, purga). La **3 en 1** es la mejor máquina de la marca, pero solo paga su precio si vas a usar los tres sistemas. Y la **SL-CM1095** resuelve otra vida distinta: la del café de jarra que arranca solo a las 7 de la mañana. Smartlife no falla en ninguna de las tres; lo que cambia es qué café se toma en tu casa.` },
+    ],
+    faq: [
+      { question: `¿Las cafeteras Smartlife son buenas?`, answer: `Los números públicos dicen que sí: la [SL-EC8501](https://meli.la/1QMpWAw) tiene 4.6 estrellas en 1.656 calificaciones y la [3 en 1](https://meli.la/1soScPB) 4.7 en 1.654, las dos bases de opiniones más grandes de la gama económica. La advertencia repetida no es de calidad sino de estreno: manuales flojos y una purga inicial que el manual no explica bien.` },
+      { question: `¿Qué cápsulas acepta la Smartlife SL-EC8501?`, answer: `Cápsulas compatibles Nespresso (las chicas), gracias a su segundo portafiltro. No acepta Dolce Gusto: para eso está la [Smartlife 3 en 1](https://meli.la/1soScPB), que acepta Nespresso, Dolce Gusto y café molido. Varios compradores de la SL-EC8501 reportan que con cápsulas los cafés salen incluso mejores, aprovechando los 20 bares.` },
+      { question: `¿Por qué mi Smartlife no toma agua al estrenarla?`, answer: `Casi seguro es el tapón de silicona de transporte que viene escondido dentro del depósito de la [SL-EC8501](https://meli.la/1QMpWAw). Es la queja número uno de las reseñas: si no lo sacás, la máquina hace el proceso completo en seco. Sacalo antes del primer uso y problema resuelto.` },
+      { question: `¿Qué diferencia hay entre la SL-EC8501 y la 3 en 1?`, answer: `Tres cosas: la [3 en 1](https://meli.la/1soScPB) acepta también cápsulas Dolce Gusto, corta la extracción sola con dosis programable, y tiene cuerpo de acero inoxidable. La [SL-EC8501](https://meli.la/1QMpWAw) hace molido y Nespresso con corte manual. La diferencia de precio es grande: $194.111 contra $528.131.` },
+      { question: `¿La cafetera de filtro Smartlife se puede programar?`, answer: `Sí, es su función estrella: la [SL-CM1095](https://meli.la/2Dw1odT) tiene pantalla digital y timer para dejarla cargada a la noche y despertarte con el café hecho. Las reseñas confirman que la programación funciona bien; el único matiz es que la placa mantiene el café tibio, no bien caliente.` },
+      { question: `¿Conviene una Smartlife o una Oster?`, answer: `Depende del desayuno. La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) gana en precio, presión y flexibilidad de cápsulas. La [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ($289.999) gana en espumador (con depósito de leche que dosifica solo) y reputación de marca. Para espresso solo, la Smartlife; para capuchinos diarios sin técnica, la Oster.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+  },
+
+  {
+    slug: "cafetera-liliana",
+    category: "cafeteras",
+    title: `Cafetera Liliana: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cafetera Liliana: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Las cuatro cafeteras Liliana comparadas: la AC985 2 en 1 de 20 bares, la filtro AC935 con jarra de acero y las nuevas Prosteam y Latesense. Análisis honesto.`,
+    ogTitle: `Cafetera Liliana: la marca argentina con service local, modelo por modelo`,
+    ogDescription: `De la AC985 de 20 bares a la Latesense que hace lattes sola: qué ofrece la línea de café de Liliana, qué dicen los compradores reales y cuál conviene.`,
+    h1: `Cafetera Liliana en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    publishedDate: "2026-06-27",
+    updatedDate: "2026-06-27",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Liliana es la apuesta nacional en cafeteras: service y repuestos locales, precios competitivos y una línea que se renovó en 2026. Comparamos los cuatro modelos disponibles, incluidas las dos novedades que todavía no tienen calificaciones, y te decimos cuál conviene en cada caso.`,
+    intro: [
+      `Liliana lleva décadas en las casas argentinas con ventiladores, anafes y multiprocesadoras, y hace unos años decidió pelear también la mesada del café. El argumento de venta es distinto al de las marcas importadas genéricas: **service oficial y repuestos en el país**. Cuando a una cafetera de marca desconocida se le rompe la junta del portafiltro a los dos años, se tira; con Liliana hay a dónde llevarla.`,
+      `La línea actual tiene cuatro modelos y acá hay que ser preciso, porque conviven dos generaciones: la **AC985 2 en 1** (4.7 estrellas en 49 calificaciones) y la **filtro AC935** (4.8 en 42) ya están probadas por compradores reales, mientras que la **Prosteam AC987** y la **Latesense AC991** son lanzamientos recientes que todavía no tienen ninguna calificación. Lo decimos de entrada porque cambia el tipo de compra: las dos primeras son apuestas seguras, las dos nuevas son para pioneros.`,
+      `También verificamos un dato que circula mal: la AC985 se vende como compatible con cápsulas, y lo es, pero **la versión actual ya no trae el adaptador Dolce Gusto** que traía la anterior. Lo confirman las propias reseñas. Vamos modelo por modelo.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_725326-MLA99126509940_112025-F.jpg", alt: `Cafetera express digital Liliana AC985 2 en 1 de 20 bares, compatible con café molido y cápsulas Nespresso`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, ficha técnica y calificaciones públicas de cada Liliana activa en MercadoLibre Argentina (junio 2026). Las citas de compradores son textuales de las reseñas. Dos modelos de la línea son lanzamientos sin calificaciones todavía: lo señalamos donde corresponde en lugar de inventar opiniones.` },
+
+      { type: "h2", title: `Por qué Liliana: marca nacional, service de verdad`, id: "por-que-liliana" },
+      { type: "p", content: `En la gama económica de cafeteras casi todo es importado con marca de fantasía: si falla fuera de garantía, no hay repuestos ni service. Liliana es la excepción con estructura real en el país, red de service oficial y repuestos que se consiguen. En un electrodoméstico que trabaja con presión, calor y agua todos los días, ese respaldo vale más que un logo: la junta, el portafiltro o el vaporizador son piezas que se desgastan, y acá se reponen en lugar de jubilar la máquina.` },
+      { type: "p", content: `El otro punto a favor es el precio: la AC985 cuesta $174.521, unos $20.000 menos que la [Smartlife SL-EC8501](https://meli.la/1QMpWAw), su rival directa. La contracara es la base de opiniones: 49 calificaciones contra 1.656. Liliana vende menos volumen por esta vía, así que sus ratings, aunque excelentes, están menos probados.` },
+
+      { type: "h2", title: `Las cuatro cafeteras Liliana, una por una`, id: "modelos" },
+
+      { type: "h3", title: `Liliana AC985 2 en 1: la express nacional de 20 bares` },
+      { type: "product-card", productMlaId: "MLA62547964", label: "La Liliana para casi todos", labelColor: "green", description: `Express digital de 20 bares con panel LED, tanque de 1,5 litros y doble sistema: café molido o cápsulas compatibles Nespresso. 4.7 estrellas en 49 calificaciones.` },
+      { type: "p", content: `Es la respuesta de Liliana a la Smartlife SL-EC8501 y juega el mismo juego: **20 bares de presión, café molido o cápsulas compatibles Nespresso**, con panel digital y vaporizador regulable para la leche. A $174.521 es más barata que su rival, tiene service local y sus 49 calificaciones promedian 4.7. Para quien quiere espresso real con respaldo argentino, es la compra lógica de la marca.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El dato del adaptador Dolce Gusto", content: `La versión actual de la AC985 trae dos portafiltros: café molido y cápsulas chicas tipo Nespresso. **Ya no incluye el adaptador para cápsulas Dolce Gusto** que traía la versión anterior, aunque fotos viejas lo muestren. Lo confirma un comprador que repitió la compra en 2026: "Compré el año pasado otra igual y venía con un tercer portafiltro para cápsulas más grandes, esta solo trae uno para cápsulas chicas". Si tus cápsulas son Dolce Gusto, esta máquina no te sirve.` },
+      { type: "p", content: `Lo que advierten las reseñas, además del adaptador: el café sale a temperatura justa (el remedio de siempre es precalentar la taza) y hay más plástico del que sugieren las fotos. "Buen café, mucho plástico, bien precio calidad", resume un comprador de mayo 2026. Es una descripción justa de toda la gama económica, no solo de esta.` },
+      { type: "pull-quote", content: `"9/10 saca cafés como de cafetería, el espumador de leche excelente. Anda bien relacionando costo y calidad."`, attribution: `Comprador verificado en MercadoLibre, abril 2026` },
+
+      { type: "h3", title: `Liliana AC935: la de filtro con jarra de acero, no de vidrio` },
+      { type: "product-card", productMlaId: "MLA62786317", label: "La filtro premium", labelColor: "blue", description: `Cafetera de filtro digital programable con jarra térmica de acero inoxidable de 1,2 litros, selector de intensidad y apagado automático. 4.8 estrellas en 42 calificaciones, el mejor rating de la línea.` },
+      { type: "p", content: `La AC935 resuelve los dos dramas clásicos de las cafeteras de filtro: la jarra de vidrio que se rompe y el café recocido por la placa caliente. Acá la jarra es **térmica de acero inoxidable**, así que mantiene la temperatura sin recalentar el café ni riesgo de rotura. Sumale panel digital con programación horaria, selector de intensidad y apagado automático, todo por $112.767. Sus 42 calificaciones promedian 4.8, el número más alto de toda la línea Liliana.` },
+      { type: "p", content: `La aclaración honesta sale de una reseña de marzo 2026: la jarra térmica mantiene el café "a temperatura tomable" unos 40 o 50 minutos, no es un termo de camping. Y cuesta más del doble que una filtro básica de vidrio como la [Atma CA8133](https://meli.la/1xm8Wd8) ($47.567): la diferencia se paga en jarra, programación e intensidad, y tiene sentido solo si usás esas tres cosas.` },
+      { type: "pull-quote", content: `"Por las mañanas ya no me despierta la alarma, sino el olorcito a café. ¡Fácil de programar, un lujo!"`, attribution: `Compradora verificada en MercadoLibre, mayo 2026` },
+
+      { type: "h3", title: `Prosteam AC987 y Latesense AC991: las dos nuevas, todavía sin calificaciones` },
+      { type: "product-card", productMlaId: "MLA70273936", label: "La nueva generación", labelColor: "amber", description: `Express digital de 20 bares y 1350 W con cinco funciones, incluidas americano y espresso frío. Lanzamiento 2026: todavía sin calificaciones de compradores.` },
+      { type: "p", content: `La **Prosteam AC987** ($222.995) es la renovación de la línea express: 20 bares, 1350 W, tanque de 1,5 litros y un panel digital con cinco funciones que incluye dos rarezas en este rango: americano y espresso frío. Según la ficha, origen Argentina. Pinta bien en los papeles, y eso es exactamente todo lo que se puede decir hoy: **no tiene ninguna calificación todavía**, así que no hay reseñas que confirmen ni desmientan nada.` },
+      { type: "product-card", productMlaId: "MLA70275635", label: "Lattes con un botón", labelColor: "purple", description: `El tope de la línea: depósito de leche de 700 mL y seis funciones automáticas de espresso, capuchino y latte, simple o doble. Lanzamiento 2026, sin calificaciones aún.` },
+      { type: "p", content: `La **Latesense AC991** ($272.544) es la más interesante de las nuevas: trae **depósito de leche de 700 mL y prepara espresso, capuchino y latte de forma automática**, simple o doble, apretando un botón. Esa función, en marcas internacionales, arranca en la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) a $289.999, con la diferencia de que la Oster acumula 402 calificaciones y la Liliana, cero.` },
+      { type: "p", content: `Nuestra postura con las dos nuevas: si querés certezas, comprá la AC985 o la AC935, que ya rindieron examen. Si la latte automática te tienta y aceptás ser de los primeros, el service local y la garantía oficial bajan el riesgo de la apuesta, pero apuesta es. Cuando junten calificaciones, actualizamos esta guía.` },
+
+      { type: "h2", title: `Tabla comparativa: la línea Liliana completa`, id: "tabla" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Lo distintivo`, `Calificaciones`], rows: [
+        [`[AC985 2 en 1](https://meli.la/2t3mqay)`, `$174.521`, `Express 20 bar`, `Molido + cápsulas Nespresso`, `4.7 ★ (49)`],
+        [`[AC935 filtro](https://meli.la/2fbAbdd)`, `$112.767`, `Filtro digital`, `Jarra térmica de acero inox`, `4.8 ★ (42)`],
+        [`[Prosteam AC987](https://meli.la/2E1zVUz)`, `$222.995`, `Express 20 bar`, `Americano y espresso frío`, `Sin calificaciones aún`],
+        [`[Latesense AC991](https://meli.la/1TD95w9)`, `$272.544`, `Express 20 bar`, `Latte y capuchino automáticos`, `Sin calificaciones aún`],
+      ] },
+
+      { type: "h2", title: `Cuál Liliana elegir según tu caso`, id: "cual-elegir" },
+      { type: "list", items: [
+        `**Espresso diario con respaldo local:** la [AC985 2 en 1](https://meli.la/2t3mqay) ($174.521). Probada, más barata que su rival directa y con service en el país.`,
+        `**Café de jarra sin vidrio que se rompa:** la [AC935](https://meli.la/2fbAbdd) ($112.767). Programable, jarra de acero y el mejor rating de la marca.`,
+        `**Lattes automáticos y tolerás ser pionero:** la [Latesense AC991](https://meli.la/1TD95w9) ($272.544). Función de tope de gama a precio contenido, sin reseñas que la respalden todavía.`,
+        `**Tus cápsulas son Dolce Gusto:** ninguna Liliana actual. Mirá la [Smartlife 3 en 1](https://meli.la/1soScPB) ($528.131), que acepta los dos sistemas de cápsulas y molido.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `La compra segura de la marca es la **AC985 2 en 1** a $174.521: 20 bares, cápsulas Nespresso, service local y 4.7 estrellas de quienes ya la usan, sabiendo que la versión actual no trae adaptador Dolce Gusto. Para café de jarra, la **AC935** con jarra de acero es de lo mejor del segmento filtro a cualquier precio. Las dos nuevas prometen, en especial la Latesense con su latte automático, pero comprarlas hoy es confiar en la ficha técnica y en la marca, no en la experiencia de otros compradores. Nosotros preferimos recomendarte con datos.` },
+    ],
+    faq: [
+      { question: `¿Las cafeteras Liliana son buenas?`, answer: `Los dos modelos con historial dicen que sí: la [AC985 2 en 1](https://meli.la/2t3mqay) tiene 4.7 estrellas en 49 calificaciones y la [filtro AC935](https://meli.la/2fbAbdd) 4.8 en 42. Son bases de opiniones chicas comparadas con Smartlife u Oster, pero consistentes. El plus diferencial de la marca es el service y los repuestos locales.` },
+      { question: `¿La Liliana AC985 acepta cápsulas Dolce Gusto?`, answer: `No en su versión actual. Trae portafiltro para café molido y para cápsulas chicas compatibles Nespresso. La versión anterior incluía un tercer adaptador para Dolce Gusto y las reseñas de 2026 confirman que ya no viene. Si usás Dolce Gusto, mirá la [Smartlife 3 en 1](https://meli.la/1soScPB), que acepta ambos sistemas.` },
+      { question: `¿Liliana tiene service y repuestos en Argentina?`, answer: `Sí, es de las pocas marcas del segmento económico con red de service oficial y repuestos locales. Para una cafetera express, donde juntas, portafiltros y vaporizadores se desgastan con el uso diario, ese respaldo alarga la vida útil de la máquina varios años.` },
+      { question: `¿Qué diferencia hay entre la Prosteam AC987 y la AC985?`, answer: `La [Prosteam AC987](https://meli.la/2E1zVUz) ($222.995) es más nueva y más potente (1350 W contra 1200), con cinco funciones digitales que incluyen americano y espresso frío, pero solo usa café molido y no tiene ninguna calificación todavía. La [AC985](https://meli.la/2t3mqay) ($174.521) acepta también cápsulas Nespresso y ya está probada por compradores.` },
+      { question: `¿Vale la pena la Latesense AC991 sin calificaciones?`, answer: `Su propuesta es real: depósito de leche de 700 mL y lattes o capuchinos automáticos por [$272.544](https://meli.la/1TD95w9), una función que en marcas internacionales cuesta más. El riesgo también es real: cero reseñas. Con garantía oficial y service local, es una apuesta razonable para quien la quiere ya; el resto puede esperar a que junte opiniones.` },
+      { question: `¿Conviene una Liliana o una Smartlife?`, answer: `Mano a mano de las express 2 en 1: la [Liliana AC985](https://meli.la/2t3mqay) ($174.521) es más barata y tiene service local; la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) tiene una base de opiniones treinta veces más grande (1.656 contra 49) que ya documentó cada defecto posible. Empate técnico en specs: 20 bares y cápsulas Nespresso las dos. Decidí por lo que valores más, respaldo local o historial probado.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera Smartlife: cuál comprar en Argentina", href: "/guias/cafetera-smartlife" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+  },
+
+  {
+    slug: "que-cafetera-comprar",
+    category: "cafeteras",
+    title: `Qué cafetera comprar: express, cápsulas o filtro [2026]`,
+    seoTitle: `Qué Cafetera Comprar: Express, Cápsulas o Filtro [2026]`,
+    metaDescription: `Express, cápsulas o filtro: cuál conviene según cuánto café tomás, tu presupuesto y el costo real por taza. La mejor opción de cada sistema en Argentina 2026.`,
+    ogTitle: `¿Qué cafetera comprar? Las tres preguntas que te ahorran una mala compra`,
+    ogDescription: `Antes de mirar precios: cuánto café tomás por día, cuánto ritual tolerás y cuánto querés gastar por taza. La respuesta honesta para cada perfil, con números.`,
+    h1: `Qué cafetera comprar en Argentina: express, cápsulas o de filtro [2026]`,
+    publishedDate: "2026-06-30",
+    updatedDate: "2026-06-30",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Express, cápsulas o filtro: los tres sistemas hacen café y los tres pueden ser una mala compra si elegís el equivocado para tu casa. Esta guía decide con tres preguntas, muestra el mejor representante de cada sistema con precios reales de MercadoLibre y hace la cuenta que casi nadie hace: cuánto cuesta cada taza.`,
+    quickPicks: [
+      { productMlaId: "MLA18562154", label: "El mejor espresso", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por $194.111" },
+      { productMlaId: "MLA15705813", label: "Cápsulas sin ritual", labelColor: "blue", tagline: "La más vendida del país: 4.8★ en 8.392 calificaciones" },
+      { productMlaId: "MLA14735678", label: "Café de jarra por poco", labelColor: "amber", tagline: "Filtro de 12 pocillos por $47.567" },
+    ],
+    intro: [
+      `La respuesta corta, para que te la lleves aunque no leas más: si tomás uno o dos cafés por día y disfrutás prepararlos, comprá una **express**; si querés café rico apretando un botón y sin lavar nada, una de **cápsulas**; si en tu casa el café se toma en jarra y a toda hora, una de **filtro**. Los tres sistemas funcionan. El error caro es comprar el que no va con tu rutina.`,
+      `Y es un error común, porque el mercado empuja para el lado equivocado: la express se vende como aspiracional aunque después junte polvo, y la de cápsulas parece barata hasta que hacés la cuenta de las cápsulas. En esta guía la hacemos: el costo por taza de cada sistema, con precios argentinos de junio 2026, cambia bastante la foto.`,
+      `Para cada sistema elegimos un solo representante, el más probado de su categoría en MercadoLibre Argentina. Si después querés profundizar, cada sección enlaza a la guía completa de ese sistema.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg", alt: `Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS, la cafetera más vendida de MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** elegimos el representante de cada sistema por base de calificaciones públicas en MercadoLibre Argentina, no por comisión ni por novedad. Los precios son de junio 2026 y los revisamos periódicamente. Las estimaciones de costo por taza usan precios de café molido y cápsulas de venta online en Argentina a la misma fecha, y las citas de compradores son textuales.` },
+
+      { type: "h2", title: `Las tres preguntas que deciden (antes de mirar máquinas)`, id: "tres-preguntas" },
+      { type: "p", content: `Olvidate de los bares de presión y los watts por un minuto. La cafetera correcta se decide con tres preguntas sobre tu rutina, y las specs vienen después.` },
+      { type: "list", items: [
+        `**¿Cuánto café se toma en tu casa?** Una o dos tazas individuales por día apuntan a express o cápsulas, que preparan de a una. Si el café se toma en jarra, de a varios pocillos y se repite a la tarde, eso es territorio de la filtro: las otras dos se vuelven un trámite haciendo taza por taza.`,
+        `**¿Cuánto ritual tolerás?** Sé honesto acá, porque es donde más máquinas terminan juntando polvo. La express pide dosificar, compactar, extraer y limpiar: diez minutos que para algunos son el mejor momento del día y para otros una tortura matutina. Las cápsulas son cero ritual y cero limpieza. La filtro está en el medio: cargás, apretás y volvés cuando está.`,
+        `**¿Presupuesto de hoy o costo de los próximos años?** La máquina se paga una vez; el café, todos los días. Una de cápsulas barata de entrada se vuelve el sistema más caro a los seis meses, y una filtro de $47.000 es imbatible en costo total. La tabla de costo por taza, más abajo, pone los números.`,
+      ] },
+      { type: "p", content: `Con esas tres respuestas, el árbol de decisión se resuelve solo: mucha jarra → filtro; cero ritual → cápsulas; disfrutás el proceso y querés el mejor café → express. Lo que sigue es el mejor representante de cada rama.` },
+
+      { type: "h2", title: `Cafetera express: para quien disfruta el ritual`, id: "express" },
+      { type: "p", content: `La express empuja agua a presión a través de café molido compactado: es el único de los tres sistemas que hace espresso de verdad, con crema, y el que logra el costo por taza más bajo usando café molido. A cambio pide aprendizaje y limpieza diaria. En la [guía completa de cafeteras express](/guias/cafetera-express) está el ranking entero; acá va la que recomendamos a la mayoría.` },
+      { type: "product-card", productMlaId: "MLA18562154", label: "El mejor espresso económico", labelColor: "green", description: `Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor y dos portafiltros (café molido o cápsulas Nespresso). 4.6 estrellas en 1.656 calificaciones por $194.111.` },
+      { type: "p", content: `La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) resume por qué la express dejó de ser un lujo: 20 bares, espumador de leche y hasta cápsulas Nespresso de respaldo por menos de $200.000, con la base de opiniones más grande de la gama económica. Sus defectos están documentados y son de estreno: manual malo, un tapón de silicona escondido en el depósito y primeros cafés flojos hasta purgarla. Todo se resuelve el primer día.` },
+      { type: "pull-quote", content: `"La compré para mi madre y no le tenía fe. Me sorprendió para bien. Es sencilla pero tiene todo."`, attribution: `Comprador verificado en MercadoLibre, febrero 2022` },
+
+      { type: "h2", title: `Cafetera de cápsulas: para quien quiere café rico sin pensar`, id: "capsulas" },
+      { type: "p", content: `El sistema de cápsulas automatiza todo: dosis sellada, cero limpieza, resultado idéntico cada vez. Su talón de Aquiles es económico, no técnico: cada cápsula cuesta varias veces lo que sale la misma taza con café molido. Para entender el sistema Dolce Gusto a fondo está la [guía de cafeteras Dolce Gusto](/guias/cafetera-dolce-gusto); el representante acá es indiscutido.` },
+      { type: "product-card", productMlaId: "MLA15705813", label: "La más probada del país", labelColor: "blue", description: `Moulinex Dolce Gusto Piccolo XS: 15 bares, más de 20 bebidas y 13,6 cm de ancho. 4.8 estrellas en 8.392 calificaciones, la cafetera más vendida del catálogo, por $155.132.` },
+      { type: "p", content: `La [Piccolo XS](https://meli.la/1f93McA) acumula **8.392 calificaciones con 4.8 estrellas**: ninguna otra cafetera de Argentina fue probada por tanta gente. Hace café, capuchino, chocolate y té con cápsulas Dolce Gusto, sale bien caliente y entra en cualquier cocina. Dos letras chicas: es manual (el agua la cortás vos, y los primeros cafés pueden salir aguados hasta agarrarle la mano) y el costo por taza es el más alto de los tres sistemas, aunque el cupón de 60% en cápsulas que trae la caja y las cápsulas recargables lo alivian.` },
+      { type: "pull-quote", content: `"Lo único que critico nomás es que no corte sola, porque al principio que no le agarrábamos la mano a veces los cafés salían aguados. Pero después todo perfecto."`, attribution: `Compradora verificada en MercadoLibre, junio 2022` },
+
+      { type: "h2", title: `Cafetera de filtro: para la casa donde el café no para`, id: "filtro" },
+      { type: "p", content: `La de filtro hace café de jarra por goteo: sin presión, sin crema, sin pretensiones, y con dos ventajas que los otros sistemas no alcanzan: prepara hasta 12 pocillos de una vez y tiene el costo total más bajo, en máquina y en café. La comparativa completa del segmento está en la [guía de cafeteras de filtro](/guias/cafetera-de-filtro).` },
+      { type: "product-card", productMlaId: "MLA14735678", label: "La filtro más probada", labelColor: "amber", description: `Atma CA8133: 1,25 litros (12 pocillos), sistema antigoteo y portafiltro removible. 4.6 estrellas en 879 calificaciones por $47.567.` },
+      { type: "p", content: `La [Atma CA8133](https://meli.la/1xm8Wd8) es la prueba de que el café de todos los días no necesita inversión: $47.567, 879 calificaciones con 4.6 estrellas y un funcionamiento que no tiene cómo fallar. El antigoteo deja servirse una taza antes de que termine el ciclo. Lo honesto: es de plástico, el blanco se mancha con el tiempo y hace café de jarra, no espresso. Para lo que es, sobra; para lo que no es, está la express.` },
+
+      { type: "h2", title: `El costo por taza: la cuenta que casi nadie hace`, id: "costo-por-taza" },
+      { type: "p", content: `La máquina es el costo visible; el café de cada día es el costo real. Esta es nuestra estimación con precios argentinos de junio 2026, tomando café molido de marca conocida y cápsulas Dolce Gusto originales compradas online.` },
+      { type: "table", headers: [`Sistema`, `Costo por taza (aprox.)`, `Máquina de referencia`, `Inversión inicial`], rows: [
+        [`Filtro (molido + papel)`, `$150 a $250`, `[Atma CA8133](https://meli.la/1xm8Wd8)`, `$47.567`],
+        [`Express (café molido)`, `$200 a $350`, `[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `$194.111`],
+        [`Cápsulas (Dolce Gusto)`, `$900 a $1.300`, `[Piccolo XS](https://meli.la/1f93McA)`, `$155.132`],
+      ] },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Cómo hicimos la cuenta", content: `Café molido: paquete de 500 g entre $12.000 y $18.000, con dosis de 7 a 9 gramos por taza. Cápsulas: caja de 16 unidades entre $15.000 y $20.000. Los precios van a cambiar con los meses, pero la proporción es estable desde hace años: **la taza de cápsula cuesta entre 4 y 5 veces más que la de café molido**. Con dos cafés por día, esa diferencia supera el precio de la propia Piccolo XS en menos de un año. Los atenuantes existen: cupones de descuento de Dolce Gusto y cápsulas recargables que se cargan con tu café molido.` },
+
+      { type: "h2", title: `Veredicto: qué cafetera comprar según tu perfil`, id: "veredicto" },
+      { type: "list", items: [
+        `**Tomás 1 o 2 cafés por día y el momento del café te importa:** express. La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) es la entrada con mejor respaldo, y de paso acepta cápsulas Nespresso para los días sin tiempo.`,
+        `**Querés café rico ya, sin aprender nada ni lavar nada:** cápsulas. La [Piccolo XS](https://meli.la/1f93McA) ($155.132) es la compra más segura del país por cantidad de opiniones, asumiendo el costo por taza más alto.`,
+        `**En tu casa se toma café en jarra todo el día (o es para la oficina):** filtro. La [Atma CA8133](https://meli.la/1xm8Wd8) ($47.567) resuelve 12 pocillos de una vez al costo por taza más bajo de todos.`,
+        `**Presupuesto mínimo y sin vueltas:** también filtro. Es el único sistema completo por menos de $50.000.`,
+        `**No sabés si el espresso es lo tuyo:** la dual. La SL-EC8501 te deja arrancar con cápsulas y pasar al molido cuando te enganches, sin comprar dos máquinas.`,
+      ] },
+      { type: "verdict", content: `Si una sola recomendación tiene que quedar: la mayoría de la gente que pregunta "qué cafetera me compro" es más feliz con la **Piccolo XS** (cero fricción, 8.392 personas lo confirman) o con la **Atma CA8133** (café abundante por dos mangos) que con una express que exige un ritual que no sabía que estaba comprando. La **express** es la mejor taza de las tres, lejos, pero solo para quien quiere prepararla. Elegí por tu rutina real, no por la cocina que te imaginás los domingos.` },
+    ],
+    faq: [
+      { question: `¿Qué tipos de cafetera existen y en qué se diferencian?`, answer: `Los tres sistemas eléctricos principales son: express (agua a presión sobre café molido compactado: espresso real con crema), cápsulas (dosis selladas, cero limpieza, costo por taza alto) y filtro (café de jarra por goteo, hasta 12 pocillos por ciclo). Existen además la moka o italiana y la prensa francesa, que no son eléctricas y juegan otro partido: precio mínimo a cambio de hacer todo a mano.` },
+      { question: `¿Qué cafetera conviene para empezar?`, answer: `Si venís del café instantáneo, el salto más fácil es una de cápsulas como la [Piccolo XS](https://meli.la/1f93McA) ($155.132): imposible equivocarse y 8.392 calificaciones lo respaldan. Si ya sabés que te gusta el espresso, la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) es la entrada con más respaldo y acepta también cápsulas Nespresso mientras aprendés.` },
+      { question: `¿Qué es más barato, cápsulas o café molido?`, answer: `Café molido, y no por poco: nuestra estimación de junio 2026 da $200 a $350 por taza de espresso con molido contra $900 a $1.300 por cápsula Dolce Gusto original. Con dos cafés diarios, la diferencia anual supera el precio de una máquina. Las cápsulas recargables y los cupones de Dolce Gusto achican la brecha, pero no la dan vuelta.` },
+      { question: `¿Qué cafetera comprar para una familia que toma mucho café?`, answer: `Una de filtro, sin dudarlo: es el único sistema que prepara una jarra entera de una vez. La [Atma CA8133](https://meli.la/1xm8Wd8) ($47.567) hace 12 pocillos por ciclo con 879 calificaciones de respaldo. Express y cápsulas preparan de a una taza: para cuatro personas en el desayuno, el último siempre espera.` },
+      { question: `¿Vale la pena pagar una cafetera express?`, answer: `Si disfrutás el proceso, sí: es la única que hace espresso con crema de verdad y la más barata por taza usando café molido. Si en el fondo querés apretar un botón, no: va a terminar juntando polvo. La prueba honesta es preguntarte si los diez minutos de moler, compactar y limpiar te suenan a placer o a trámite. La [guía de cafeteras express](/guias/cafetera-express) tiene el ranking completo por presupuesto.` },
+      { question: `¿Las cafeteras de cápsulas hacen espresso de verdad?`, answer: `Hacen un café muy digno a presión, pero distinto del espresso de una express: la dosis y la molienda vienen fijadas por la cápsula. La [Piccolo XS](https://meli.la/1f93McA) mete 15 bares y su fuerte es la variedad (café, capuchino, chocolate, té) más que el espresso purista. Para crema espesa y control del punto, el camino es una express con café molido fresco.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera Dolce Gusto: guía completa", href: "/guias/cafetera-dolce-gusto" },
+      { label: "Cafetera de filtro: cuál comprar", href: "/guias/cafetera-de-filtro" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+  },
+
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
