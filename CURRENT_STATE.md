@@ -1,7 +1,24 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-06-08 (aspiradoras robot: 7 guías optimizadas con precios/ratings frescos + 5 guías nuevas).
+> Última actualización: 2026-06-09 (mejoras de sitio: links→meli.la, sticky CTA mobile, 3 fixes de JSON-LD, auditoría SEO, research próximo cluster).
+
+## Sesión 09-jun — Mejoras de sitio (4 frentes)
+
+1. **Chip #2 CERRADO — 134 links `/producto/...` → meli.la** en `guides.ts` (eran "~112"; el conteo real fue 134). Todos resueltos contra `affiliateUrl` del catálogo, 0 sin match. Clicks de afiliado que antes pasaban por la ficha interna ahora van directo a ML.
+2. **Sticky CTA mobile implementado** (#1 del roadmap de 12 ideas): `src/components/products/StickyMobileCta.tsx` + integración en `ProductDetail`. Barra fija inferior solo mobile con precio + "Ver en MercadoLibre"; aparece al scrollear pasado el CTA principal y se oculta cuando el CTA del final entra en pantalla. **Pendiente: prueba visual en navegador por Juan** (no se pudo probar visualmente en esta sesión).
+3. **3 bugs de JSON-LD corregidos** (encontrados por la auditoría, ver MISTAKES.md): image malformado en guías con hero externo, brand=categoría y reviewCount=ventas en el fallback de fichas, URLs legacy en CollectionPage de categorías.
+4. **Auditoría SEO live: score 72/100.** Técnico excelente (88); débil en schema (57, ya mejorado con los fixes) y GEO/IA (54). Top pendientes: actualizar llms.txt (lista 4 guías de 66), autor con nombre real + byline, schema en /guias index, itemCondition en offers, home dinámica→estática. Informes en outputs de la sesión: `AUDITORIA-SEO-COMPLETA.md`, `audit-schema.md`, `audit-performance.md`, `audit-geo.md`.
+5. **Research próximo cluster** (`proximo-cluster-research.md`): limpiavidrios DESCARTADO (210/mes). **Recomendado: cafeteras** (`cafetera express` 22.200/mes SD 11, evergreen). Calefacción es gigante pero estacional y llegamos tarde → agendar feb-mar 2027 (ver LEARNINGS).
+
+6. **NUEVO NICHO CAFETERAS — 18 fichas importadas** vía API oficial de ML (catálogo pasa a ~208 productos). Categoría `cocina`. Cobertura por tier: filtro/entrada (2 Atma, Ultracomb CA-2205, Electrolux ECM25, Smartlife SL-CM1095, Liliana AC935), express económicas (Ultracomb CE-6108, Liliana 2en1/Prosteam/Latesense, Smartlife SL-EC8501), cápsulas (Moulinex Piccolo XS, Nespresso Inissia, Smartlife 3en1), gama media/alta (Oster BVSTEM5501B, Peabody 5010N) y tope de gama (Oster Perfect Brew EM7301, Peabody PE-CE5023IX). Son placeholders estilo aspiradoras: precio fresco (09-jun), imágenes, brand, description cruda de ML — **falta el enriquecimiento 1 a 1** (seoTitle, articleBody, faq, specs, reviews, structuredData) con el mismo checklist de aspiradoras robot.
+   - ✅ **Links de afiliado meli.la aplicados en las 18** (Juan los generó en la misma sesión; cada uno verificado resolviendo el redirect contra su MLA ID). Detalle: la Atma CA8131 y la Nespresso Inissia fueron rechazadas por el programa con la publicación del buy box; entraron con publicaciones alternativas (MLA-3091753002 y MLA-1581204795). La CA8131 quedó con el precio de esa publicación: $45.000 (no $34.500).
+   - Nota API: `/sites/MLA/search` está 403 con client_credentials, pero **`/products/search` funciona** (descubrimiento de esta sesión). Dolce Gusto Mini Me / Genio S no aparecieron con oferta activa.
+   - **Reviews por API también funcionan**: `GET /reviews/item/{ITEM_ID}?catalog_product_id={MLA}` da rating, desglose por estrellas y textos completos. Con eso se agregaron `rating`/`reviewCount` a las 13 fichas que tienen reviews (5 quedaron sin: CA8131, ECM25, Prosteam, Latesense, Inissia — modelos nuevos).
+7. **Doc maestro del nicho**: `docs/nichos/cafeteras.md` — keywords validadas, tabla del catálogo, orden de enriquecimiento por ROI y plan de 8 guías.
+8. **Enriquecimiento batch 1 — 3 fichas COMPLETAS** (checklist heredado de aspiradoras): **Piccolo XS** (4.8★/8.392 — ángulo "la más vendida, pero es 100% manual"; desarmé el dato confuso "tecnología automática" de ML), **Oster BVSTEM5501B** (4.7★/402 — "la Oster de entrada"; contras honestos: corte manual, café tibio, espumador incómodo) y **Smartlife SL-EC8501** (4.6★/1.656 — "20 bares + cápsulas Nespresso"; la joya editorial: el tapón de silicona escondido en el depósito, queja nº1). Las 3 con articleBody 7 H2, specs 18-19, faq 8-9, 8-9 customerReviews reales (incl. críticas), structuredData completo y 4-5 links internos cruzados. **Quedan 15 fichas por enriquecer** (orden en el doc maestro; siguiente: Smartlife 3en1, Perfect Brew EM7301, Peabody 5010N).
+
+Verificado: `npm run lint` (mismos 41 errores preexistentes, sin regresión) + `npm run build` verde con las 18 fichas nuevas prerrenderizadas (build en copia temporal Linux; el `.next` local sigue con el problema de permisos del entorno). **Sin commit, a la espera de Juan.**
 
 ## Catálogo
 
@@ -121,8 +138,9 @@ Documentadas en `docs/POST_MASTER_STRUCTURE.md`:
 ## Chips abiertos (deuda flageada para sesiones futuras)
 
 1. **Lint cleanup**: 41 errores ESLint preexistentes en archivos como Header.tsx, slug.ts, ProductCard.tsx.
-2. **Normalización de links históricos**: ~112 links inline `/producto/...` en guías viejas → convertir a meli.la siguiendo la regla nueva.
+2. ~~Normalización de links históricos~~ ✅ CERRADO 09-jun (134 links convertidos a meli.la).
 3. **Upgrade ogTitle/ogDescription**: 11 guías en cola sin estos campos.
+4. **Pendientes de la auditoría SEO 09-jun** (orden de impacto): actualizar llms.txt al catálogo completo, autor con nombre real en Article schema + byline visible, schema ItemList/Breadcrumb en /guias, `offers.itemCondition`, FAQPage del HomeFAQ, home dinámica→estática (searchParams), preconnect a mlstatic.
 
 ## Próximas decisiones esperando a Juan
 

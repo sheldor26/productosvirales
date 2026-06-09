@@ -16,6 +16,22 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-06-09 — `/products/search` de la API de ML funciona con client_credentials (la búsqueda clásica no)
+
+**Qué funcionó:** para descubrir productos nuevos sin scraper, `GET /products/search?status=active&site_id=MLA&q=...` responde bien con el token de `client_credentials`. La búsqueda clásica `/sites/MLA/search` da 403 (PolicyAgent). Con eso + `/products/{id}` + `/products/{id}/items` se importaron las 18 cafeteras en una sesión, sin tocar Puppeteer.
+
+**Por qué:** completa el flujo de la entrada del 06-06: ahora tenemos búsqueda → metadata → precio, todo por API oficial. Limitación encontrada: muchas fichas de catálogo no tienen oferta activa (solo ~40 de 100 candidatas tenían precio), así que conviene buscar de más y filtrar.
+
+**Cuándo aplicarlo:** para abrir cualquier nicho nuevo: buscar por keyword + por marca/modelo específico (las queries de modelo rinden mejor que las genéricas), filtrar por oferta activa, y recién ahí elegir el set a importar.
+
+## 2026-06-09 — Los clusters estacionales se planifican 2-3 meses ANTES del pico
+
+**Qué funcionó:** el keyword research de calefacción mostró números brutales (`caloventor` 165.000 búsquedas en mayo, `estufa eléctrica` 110.000 en junio, SD 12-13 en varios términos) pero llegamos tarde: una guía nueva tarda 4-8 semanas en rankear y en septiembre el volumen cae ~90%. En vez de forzarlo, quedó agendado para febrero-marzo 2027.
+
+**Por qué:** la estacionalidad extrema convierte un cluster excelente en uno mediocre si se publica en el pico en vez de antes. El mismo research sirvió para detectar la alternativa evergreen (cafeteras: `cafetera express` 22.200/mes SD 11).
+
+**Cuándo aplicarlo:** antes de elegir cluster, mirar SIEMPRE el desglose mensual de búsquedas, no solo el promedio. Calendario tentativo: calefacción se arranca feb-mar, ventilación/aires se arrancaría ago-sep, y los evergreen (cafeteras, ollas, cocina) llenan los huecos.
+
 ## 2026-06-06 — La API oficial de ML resuelve los precios sin bloqueos (mejor que el scraper)
 
 **Qué funcionó:** registrar una app en developers.mercadolibre.com.ar y usar OAuth `client_credentials` para leer datos de producto. El token sale sin login interactivo (válido 6h). `/products/{id}` da metadata + imágenes; `/products/{id}/items` da el precio del mejor vendedor activo. Cero CAPTCHA, cero IP bloqueada. Se importaron 10 aspiradoras robot así, sin pelear con el anti-bot que justo ese día había escalado a la pared de `/gz/account-verification`.

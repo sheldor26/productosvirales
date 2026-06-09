@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-06-09 — Tres bugs de JSON-LD vivían en producción (los encontró la auditoría)
+
+**Qué pasó:** la auditoría SEO del sitio live encontró tres bugs de datos estructurados que estaban deployados: (1) el `image` del Article de guías concatenaba el dominio a URLs que ya eran absolutas de mlstatic (`com.arhttps://...`), generando una URL inválida en guías con hero externo; (2) el schema fallback de fichas usaba la categoría como `brand.name` (`"brand": "Cocina"`); (3) el mismo fallback usaba `soldQuantity` como `reviewCount` — dato factualmente incorrecto, con riesgo de penalización por reviews engañosas.
+
+**Por qué:** los tres son fallbacks que nadie miraba porque las fichas "buenas" tienen `structuredData` propio que los pisa. El código de fallback nunca se validó contra el HTML real renderizado.
+
+**Cómo evitarlo:** al tocar JSON-LD, validar el output renderizado de una página que use el FALLBACK, no solo de las que tienen datos propios. Y nunca prepender dominio a un src sin chequear `startsWith("/")`.
+
+**Archivos involucrados:** `src/app/guias/[slug]/page.tsx`, `src/app/producto/[slug]/page.tsx`, `src/app/categoria/[slug]/page.tsx` (los tres corregidos 09-jun).
+
 ## 2026-06-06 — El parser de precios concatenaba centavos basura ($121.339,23)
 
 **Qué pasó:** al actualizar precios de aspiradoras robot con el scraper, dos quedaron con decimales raros (`$121.339,23`, `$130.978,56`). El `readMoneyElement` (en `scraper.ts` y duplicado en `update-prices-from-ml.cjs`) concatenaba `__fraction` (el entero) con `__cents` del DOM, pero ese `__cents` no es el centavo del precio real (es de cuotas u otro valor). En ML Argentina los precios de PDP son enteros.
