@@ -16,6 +16,18 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-06-09 — Un npm install vía symlink destruyó el node_modules local
+
+**Qué pasó:** para verificar el build en el sandbox Linux, se armó una copia del proyecto en /tmp con `node_modules` como symlink al del proyecto real. Un `npm install --force` de binarios nativos Linux corrió A TRAVÉS del symlink y npm empezó a "retirar" (renombrar) y reinstalar paquetes en el node_modules real del Mac de Juan. El proceso falló a mitad de camino y dejó 541 de 561 paquetes rotos. Se recuperó parte con los renames de npm, pero al final fue irrecuperable.
+
+**Por qué:** npm sigue symlinks para resolver la raíz de node_modules; `--force` además dispara reinstalaciones agresivas. Y el binario era para otra plataforma (linux-arm64 vs darwin).
+
+**Cómo evitarlo:** NUNCA correr npm con un node_modules symlinkeado al árbol real. Para builds de verificación en sandbox: copiar el proyecto SIN node_modules y hacer `npm install` limpio en la copia (con `PUPPETEER_SKIP_DOWNLOAD=true` tarda ~1 min con cache). El node_modules es regenerable por diseño — la solución correcta fue borrarlo y reinstalar, no "repararlo".
+
+**Resolución:** node_modules eliminado; Juan tiene que correr `npm install` en el proyecto (1-2 min). `package.json` y `package-lock.json` intactos, cero impacto en el código.
+
+**Archivos involucrados:** `node_modules/` (descartable), ninguno versionado.
+
 ## 2026-06-09 — Tres bugs de JSON-LD vivían en producción (los encontró la auditoría)
 
 **Qué pasó:** la auditoría SEO del sitio live encontró tres bugs de datos estructurados que estaban deployados: (1) el `image` del Article de guías concatenaba el dominio a URLs que ya eran absolutas de mlstatic (`com.arhttps://...`), generando una URL inválida en guías con hero externo; (2) el schema fallback de fichas usaba la categoría como `brand.name` (`"brand": "Cocina"`); (3) el mismo fallback usaba `soldQuantity` como `reviewCount` — dato factualmente incorrecto, con riesgo de penalización por reviews engañosas.

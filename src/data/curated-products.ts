@@ -20508,7 +20508,7 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
   },
   {
     id: 'MLA37650751',
-    title: 'Cafetera de filtro Atma CA8131 blanca',
+    title: 'Cafetera de filtro Atma CA8131 blanca 1,25 L',
     price: 45000,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
@@ -20529,11 +20529,113 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     freeShipping: true,
     brand: 'Atma',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera de Filtro 1250 ml – Disfrutá del mejor café en cantidad y con comodidad La Cafetera de Filtro 1250 ml es ideal para los amantes del café que buscan cantidad, practicidad y sabor. p Prepara hasta 12 tazas de café en su jarra de vidrio, manteniéndolo caliente por más tiempo gracias a su función de conservación de temperatura. Características destacadas -Prepara el café de forma rápida y…',
+    description: 'Cafetera de filtro Atma CA8131: la básica de la línea, hermana simple de la CA8133. Misma capacidad de 1,25 litros para hasta 12 tazas, pero con filtro lavable y removible — no comprás filtros de papel — más función mantener caliente y sistema antigoteo. A $45.000 es de las filtro más baratas del catálogo, aunque esta publicación todavía no tiene calificaciones.',
+    seoTitle: 'Cafetera Atma CA8131: la de filtro básica, ¿vale la pena?',
+    metaDescription: 'La Atma CA8131 de filtro: 1,25 L, filtro lavable y mantener caliente por $45.000. Sin calificaciones aún en esta publicación: qué sabemos y qué no, honesto.',
+    ogTitle: 'Atma CA8131: café para 12 tazas con filtro lavable, sin gastar de más',
+    ogDescription: 'La hermana simple de la CA8133: misma capacidad, filtro reutilizable y $45.000. Te contamos lo que las specs garantizan y lo que todavía nadie calificó.',
+    h1: 'Cafetera Atma CA8131: la filtro básica de Atma, explicada sin opiniones infladas',
+    pros: [
+      '1,25 L y hasta 12 tazas: misma capacidad que la CA8133, más barata',
+      'Filtro lavable y removible: no comprás filtros de papel nunca más',
+      'Función mantener caliente: el café no se enfría apenas termina',
+      'Antigoteo: te servís una taza antes de que termine el ciclo',
+      'Atma: la misma línea de la CA8133, que junta 879 calificaciones',
+    ],
+    cons: [
+      'Esta publicación todavía no tiene calificaciones: comprás sin feedback verificado',
+      'La caja viene dañada (el producto es nuevo, aclara la propia publicación)',
+      'Sin timer, sin pantalla, sin apagado programado: es la básica de la línea',
+      'Por $2.567 más, la CA8133 te da 879 opiniones de respaldo',
+    ],
+    verdict: 'La hermana simple de la CA8133: misma capacidad de 1,25 L, filtro lavable que ahorra papel y $45.000 de precio. Esta publicación todavía no tiene calificaciones, así que si querés el respaldo de cientos de opiniones, la CA8133 cuesta apenas más; si confiás en la línea, esta ahorra.',
+    articleBody: `## La Atma básica de filtro, sin vueltas
+
+La Atma CA8131 es la cafetera de filtro básica de la marca: 1,25 litros (hasta 12 tazas), filtro lavable, función mantener caliente y sistema antigoteo por $45.000. Aclaración importante: esta publicación todavía no tiene calificaciones, así que acá no hay opiniones para citar — solo specs verificables.
+
+## Qué ofrece: 12 tazas, filtro lavable y mantener caliente
+
+La jarra de vidrio prepara hasta 12 tazas por ciclo, la misma capacidad de 1,25 litros que su hermana CA8133. El filtro es lavable y removible: lo enjuagás y lo volvés a usar, sin comprar filtros de papel — un ahorro chico pero constante que la descripción destaca como punto ecológico.
+
+La función mantener caliente conserva el café a temperatura cuando termina la preparación, y el sistema antigoteo te deja servir una taza a mitad de ciclo sin hacer un desastre en la base. Es semiautomática: un encendido, sin pantallas ni programación. Para café de filtro de todos los días, es exactamente lo que hay que esperar a este precio.
+
+## CA8131 vs CA8133: cuál es la diferencia real
+
+Son hermanas de línea y comparten lo importante: 1,25 litros, 12 tazas, antigoteo y cuerpo blanco. Las diferencias: la CA8131 trae filtro lavable reutilizable (la CA8133 usa descartables de papel) y cuesta $2.567 menos. La CA8133, a cambio, tiene lo que esta publicación no: 879 calificaciones con 4.6 estrellas que documentan años de uso real, con elogios a la velocidad y críticas conocidas al plástico.
+
+En specs, la CA8131 gana por precio y filtro. En certezas, gana la CA8133 por goleada.
+
+## Sin calificaciones: qué significa para tu compra
+
+Esta publicación todavía no tiene calificaciones, y prefirimos decírtelo directo antes que rellenarte con opiniones inventadas. No hay feedback verificado sobre durabilidad, ruido o calidad del plástico de esta publicación en particular.
+
+Lo que sí se puede decir: el modelo pertenece a la misma línea que la CA8133 — la cafetera de filtro más probada del catálogo — y comparte diseño y capacidad. La marca es conocida, el producto es simple y tiene poco para fallar. Pero el respaldo de cientos de compradores, acá, todavía no está.
+
+## El detalle de la caja dañada
+
+La publicación lo aclara en su propia descripción, en mayúsculas: "la caja está dañada pero el producto es nuevo". Es probablemente parte de la explicación del precio. Para uso propio no cambia nada — la cafetera es nueva y la caja va a la basura igual. Si la comprás para regalar, tenelo en cuenta: el paquete no va a lucir impecable.
+
+## Contra las otras filtro económicas del catálogo
+
+La comparación inevitable es con la [Atma CA8133](/producto/MLA14735678) ($47.567): misma capacidad, filtro descartable en vez de lavable, y 879 calificaciones con 4.6 estrellas que esta publicación no tiene. Por $2.567 de diferencia, es la opción para quien compra con el respaldo de las opiniones.
+
+La otra rival directa es la [Ultracomb CA-2205](/producto/MLA15109525) ($40.756): más barata, con timer digital programable y 631 opiniones — aunque su 4.4 es el rating más bajo del catálogo de cafeteras, con quejas de fragilidad documentadas.
+
+## ¿Para quién es la CA8131 (y para quién no)?
+
+Es para vos si: querés una filtro simple de marca conocida al menor precio posible dentro de Atma, valorás el filtro lavable para no comprar papel nunca más, y no te pesa comprar sin calificaciones previas en la publicación.
+
+No es para vos si: necesitás el respaldo de opiniones verificadas (la CA8133 lo tiene por apenas más), querés programar el café desde la noche anterior (mirá la Ultracomb CA-2205), o la comprás para regalo y la caja dañada te arruina la entrega.`,
+    specs: [
+      { label: 'Marca', value: 'Atma' },
+      { label: 'Modelo', value: 'CA8131' },
+      { label: 'Tipo', value: 'De filtro' },
+      { label: 'Tecnología', value: 'Semiautomática' },
+      { label: 'Capacidad de agua', value: '1,25 L (1.250 mL)' },
+      { label: 'Capacidad de tazas', value: 'Hasta 12' },
+      { label: 'Jarra', value: 'De vidrio' },
+      { label: 'Tipos de filtros', value: 'Lavable y removible (reutilizable)' },
+      { label: 'Mantener caliente', value: 'Sí' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Temporizador', value: 'No' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Voltaje', value: '220 V' },
+      { label: 'Detalle de la publicación', value: 'Caja dañada; el producto es nuevo' },
+    ],
+    faq: [
+      { question: '¿La CA8131 tiene opiniones de compradores?', answer: 'No: esta publicación todavía no tiene calificaciones, y preferimos decírtelo directo. Lo que describimos acá sale de la ficha técnica y la descripción oficial, no de experiencias de usuarios. Si querés comprar con respaldo de opiniones, su hermana CA8133 tiene 879 calificaciones con 4.6 estrellas por $2.567 más.' },
+      { question: '¿Qué diferencia hay con la Atma CA8133?', answer: 'Comparten capacidad (1,25 L, 12 tazas), antigoteo y diseño blanco. La CA8131 ($45.000) trae filtro lavable reutilizable y es más barata; la CA8133 ($47.567) usa filtros descartables de papel pero acumula 879 calificaciones. La diferencia real no está en las specs sino en las certezas: una tiene años de feedback, la otra no.' },
+      { question: '¿El filtro se lava y se vuelve a usar?', answer: 'Sí, ese es su diferencial: filtro lavable y removible, que la descripción califica de ecológico y reutilizable. Lo enjuagás después de cada uso y listo, sin comprar filtros de papel nunca más. Es un ahorro chico por compra, pero constante a lo largo de los años de uso de la cafetera.' },
+      { question: '¿Mantiene el café caliente?', answer: 'Sí: tiene función de conservación de temperatura, así el café queda a punto por más tiempo después de que termina el ciclo. Combinada con el sistema antigoteo — que te deja servir una taza a mitad de preparación — cubre lo esencial de una filtro hogareña sin funciones de lujo.' },
+      { question: '¿Por qué la publicación dice que la caja está dañada?', answer: 'La propia descripción lo aclara: "la caja está dañada pero el producto es nuevo". Es transparencia del vendedor y probablemente parte del precio atractivo. Para uso propio es irrelevante; si es para regalo, el empaque no va a estar impecable y conviene saberlo antes.' },
+      { question: '¿Para cuántas tazas alcanza?', answer: 'Hasta 12 tazas por ciclo con su jarra de vidrio de 1.250 mL, igual que la CA8133. Es capacidad pensada para familias o para quien toma varias tazas durante la mañana: hacés una tanda y la función mantener caliente se encarga del resto.' },
+      { question: '¿Tiene timer para programarla?', answer: 'No: la ficha confirma que no incluye temporizador. Es la básica de la línea — encendido manual y nada más. Si querés dejar el café programado desde la noche anterior, la Ultracomb CA-2205 cuesta incluso menos ($40.756) y trae timer digital, aunque con las advertencias de fragilidad que contamos en su ficha.' },
+      { question: '¿Conviene esta o la Ultracomb CA-2205?', answer: 'Las separa poco precio y bastante filosofía. La Ultracomb ($40.756) suma timer y display, pero su 4.4 es el rating más bajo del catálogo, con quejas de materiales frágiles. La Atma ($45.000) es más simple y de una línea con mejor reputación, pero esta publicación no tiene calificaciones. Empate técnico: decidí por timer o por marca.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera de filtro Atma CA8131',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_976321-MLA99453742526_112025-F.jpg',
+      description: 'Cafetera de filtro semiautomática Atma CA8131: 1,25 litros (hasta 12 tazas), filtro lavable y removible, función mantener caliente y sistema antigoteo. Producto nuevo en MercadoLibre Argentina.',
+      sku: 'CA8131',
+      mpn: 'CA8131',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2UrA2C7',
+        priceCurrency: 'ARS',
+        price: 45000,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+    },
+    relatedProducts: ['MLA14735678', 'MLA15109525'],
   },
   {
     id: 'MLA14735678',
-    title: 'Cafetera de filtro Atma CA8133 semi automática blanca',
+    title: 'Cafetera de filtro Atma CA8133 semiautomática blanca',
     price: 47567,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
@@ -20556,12 +20658,141 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     rating: 4.6,
     reviewCount: 879,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Diseño La cafetera de filtro ATMA CA8133N presenta un cuerpo en color blanco con indicador de nivel de agua con capacidad para 1.25 litros. Cuenta con portafiltro removible, que facilita la limpieza del equipo; y sistema antigoteo, con el que te podrás servir una taza de café antes de que termine el ciclo de preparación. También, tiene base calentadora antiadherente e interruptor luminoso.…',
+    description: 'Cafetera de filtro Atma CA8133: la más probada del catálogo, con 4.6 estrellas en 879 calificaciones. Semiautomática, 1,25 litros (12 pocillos), sistema antigoteo y base calentadora que mantiene el café a temperatura. A $47.567 es la compra segura en café de filtro: simple, rápida y con cientos de compradores que la respaldan.',
+    aiReviewSummary: 'Compra segura para café de filtro: prepara rápido, la capacidad de 1,25 L rinde para tazas grandes y la relación precio-calidad se repite en casi todas las opiniones. Las críticas honestas: el plástico del cuerpo es liviano y genera desconfianza, el blanco se mancha con café y cuesta limpiarlo, y más de un comprador pide apagado automático, que no tiene.',
+    seoTitle: 'Cafetera de filtro Atma CA8133: ¿la más probada conviene?',
+    metaDescription: 'La cafetera de filtro más probada del catálogo: 4.6★ en 879 opiniones, 1,25 L y antigoteo por $47.567. Sus contras reales — plástico y manchas — sin filtro.',
+    ogTitle: 'Atma CA8133: la cafetera de filtro que 879 personas ya probaron por vos',
+    ogDescription: 'Café para 12 pocillos, listo rápido y por menos de $50.000. Te contamos lo que las 879 calificaciones elogian y lo que critican, sin suavizar nada.',
+    h1: 'Cafetera de filtro Atma CA8133: la más probada del catálogo, con 879 calificaciones',
+    pros: [
+      '4.6⭐ con 879 calificaciones: la cafetera de filtro más probada del catálogo',
+      'Prepara rápido: las reviews destacan que no esperás ni 20 minutos',
+      '1,25 L y 12 pocillos: capacidad real para tazas grandes o varias personas',
+      'Antigoteo: te servís una taza antes de que termine el ciclo',
+      'Base calentadora antiadherente que mantiene el café a temperatura',
+      'Portafiltro removible y tapa de jarra desmontable: limpieza simple',
+    ],
+    cons: [
+      'Plástico liviano: más de una review desconfía de la calidad del material',
+      'El blanco se mancha con café y las manchas cuestan de sacar',
+      'Sin timer ni apagado automático (la descripción del vendedor dice que tiene timer; la ficha oficial lo desmiente)',
+      'La tapa de la jarra puede derramar café por el orificio chico, según una review',
+      'Reponer la jarra de vidrio es caro y difícil, avisa un comprador',
+    ],
+    verdict: 'La opción segura en cafeteras de filtro: 879 calificaciones la respaldan y a $47.567 es difícil equivocarse. No esperes materiales premium ni apagado automático: esperá café rápido para 12 pocillos, todos los días.',
+    articleBody: `## La cafetera de filtro más probada del catálogo
+
+La Atma CA8133 es una cafetera de filtro semiautomática de 1,25 litros (12 pocillos) que cuesta $47.567 y junta 4.6 estrellas en 879 calificaciones: ninguna otra cafetera de filtro del catálogo fue probada por tanta gente. Prepara rápido, tiene antigoteo y una base calentadora que mantiene el café a temperatura.
+
+## Qué hace bien: capacidad, velocidad y antigoteo
+
+La jarra de vidrio de 1,25 litros rinde 12 pocillos — o, como dice una compradora, "gran capacidad para hacer café en tazas grandes". La velocidad es el otro elogio repetido: "prepara rápido el café, no tenés que esperar ni 20 minutos para que esté listo".
+
+El sistema antigoteo te deja servir una taza antes de que termine el ciclo, el indicador de nivel de agua evita adivinar cuánto cargaste, y la base calentadora antiadherente mantiene el café caliente mientras dura el desayuno. El portafiltro es removible y la tapa de la jarra se desmonta para limpiar — una mejora que un comprador de larga data destaca frente al modelo anterior.
+
+## Ojo con la descripción: no tiene timer
+
+La descripción del vendedor lista "Timer: Sí", pero la ficha técnica oficial de MercadoLibre dice "Incluye temporizador: No" — y la ficha tiene razón: la CA8133 es una semiautomática básica que se prende con un interruptor luminoso y listo. Tampoco tiene apagado automático, algo que una review de 5 estrellas señala como lo único que le falta: "solo necesitaría corte automático por temperatura para ser perfecta".
+
+Si querés programar el café desde la noche anterior, este no es el modelo: para eso están las cafeteras con timer digital del catálogo.
+
+## Las críticas honestas: plástico liviano y manchas
+
+El desglose de las 879 calificaciones: 651 personas pusieron 5 estrellas, 165 pusieron 4, y solo 63 calificaron con 3 o menos. Pero las críticas que existen son consistentes y conviene conocerlas.
+
+La primera: el material. "El material es algo malo, un plástico muy liviano, no le tengo mucha confianza", dice una review de 4 estrellas; otra nota que la calidad del plástico "es inferior con respecto al modelo que pretende reemplazar". La segunda: el color. "El blanco no es recomendable, se mancha de café y cuesta mucho sacarlo — la próxima vez compraría una de color negro". La tercera: una review detallada marca que el orificio de la tapa por donde pasa el café es chico y puede derramar y manchar.
+
+## La jarra: el repuesto que conviene cuidar
+
+Un comprador con la cafetera ya amortizada deja un aviso útil: "lo único malo es el costo y dificultad de reponer la jarra, en caso de rotura". Es el clásico de las cafeteras de filtro económicas: la máquina dura, pero si se te cae la jarra, conseguir el repuesto puede salir caro o demorar.
+
+El resto del mantenimiento es simple: portafiltro removible, tapa desmontable y filtros de papel descartables que tirás con la borra.
+
+## Contra las otras cafeteras de filtro del catálogo
+
+La hermana simple es la [Atma CA8131](/producto/MLA37650751) ($45.000): misma capacidad de 1,25 L con filtro lavable, pero su publicación todavía no tiene calificaciones. La [Ultracomb CA-2205](/producto/MLA15109525) ($40.756) es más barata y agrega timer digital programable, aunque su 4.4 es el rating más bajo del catálogo de cafeteras, con quejas de fragilidad.
+
+Si querés el salto de calidad en filtro, la [Liliana AC935 filtro digital](/producto/MLA62786317) ($112.767) suma programación digital y jarra de acero inoxidable — al doble y pico de precio.
+
+## ¿Para quién es la CA8133 (y para quién no)?
+
+Es para vos si: querés café de filtro rico, rápido y en cantidad, con el respaldo de cientos de opiniones y sin gastar más de $50.000. Es la compra segura de la categoría.
+
+No es para vos si: querés programar el café desde la noche anterior (no tiene timer, diga lo que diga la descripción), buscás materiales premium o te molesta que el blanco se manche con el uso. En esos casos, mirá la Ultracomb con timer o la Liliana digital.`,
+    specs: [
+      { label: 'Marca', value: 'Atma' },
+      { label: 'Modelo', value: 'CA8133 (detallado: CA8133N)' },
+      { label: 'Tipo', value: 'De filtro, semiautomática' },
+      { label: 'Capacidad de agua', value: '1,25 L' },
+      { label: 'Capacidad de tazas', value: '12 pocillos' },
+      { label: 'Potencia', value: '850 W' },
+      { label: 'Tipos de filtros', value: 'Descartable (de papel)' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Indicador de agua', value: 'Sí' },
+      { label: 'Temporizador', value: 'No (la descripción del vendedor dice Sí; la ficha oficial lo desmiente)' },
+      { label: 'Apagado automático', value: 'No' },
+      { label: 'Base calentadora', value: 'Sí, antiadherente (mantiene el café caliente)' },
+      { label: 'Accesorios incluidos', value: 'Jarra de vidrio' },
+      { label: 'Estructura', value: 'Plástico' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Dimensiones', value: '28 x 15 x 31,5 cm' },
+      { label: 'Peso', value: '1,35 kg' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Atma CA8133 tiene timer programable?', answer: 'No. La descripción del vendedor dice "Timer: Sí", pero la ficha técnica oficial de MercadoLibre lo desmiente: no incluye temporizador. Es una semiautomática básica con interruptor luminoso. Si querés despertarte con el café hecho, mirá la Ultracomb CA-2205 o la Smartlife SL-CM1095, que sí son programables.' },
+      { question: '¿Se apaga sola cuando termina?', answer: 'No tiene apagado automático: la base calentadora sigue funcionando hasta que la apagás vos. Una review de 5 estrellas lo marca como lo único que le falta para ser perfecta. El lado bueno es que el café se mantiene caliente mientras la dejes encendida.' },
+      { question: '¿Para cuántas tazas alcanza?', answer: 'La jarra de vidrio es de 1,25 litros, que la ficha traduce en 12 pocillos. En la práctica, las reviews hablan de capacidad sobrada para tazas grandes: una compradora destaca que le rinde para hacer café en tazas tipo mug sin quedarse corta.' },
+      { question: '¿Es cierto que el blanco se mancha?', answer: 'Sí, es una crítica real de las reviews: "se mancha de café y cuesta mucho sacarlo, la próxima vez compraría una de color negro", dice un comprador de 4 estrellas. Si te molestan las marcas de uso en la mesada, tenelo en cuenta: el café sobre plástico blanco deja rastro.' },
+      { question: '¿Qué filtro usa?', answer: 'Según la ficha oficial, filtros descartables de papel: usás uno por preparación y lo tirás con la borra, lo que simplifica la limpieza. El portafiltro es removible y se enjuaga fácil. Si preferís filtro lavable permanente, la Atma CA8131 — la hermana de esta — lo trae.' },
+      { question: '¿Mantiene el café caliente?', answer: 'Sí: tiene base calentadora antiadherente que conserva la temperatura mientras la cafetera esté encendida. Un detalle de las reviews: el café sale a temperatura para tomar solo, y si le agregás leche conviene que esté al menos tibia para que no se enfríe el conjunto.' },
+      { question: '¿Se consigue la jarra de repuesto?', answer: 'Es el punto débil que avisa una review de 5 estrellas: "lo único malo es el costo y dificultad de reponer la jarra, en caso de rotura". La máquina aguanta, pero la jarra de vidrio es la pieza frágil y el repuesto no es ni barato ni fácil de encontrar. Tratala con cariño.' },
+      { question: '¿Qué diferencia hay con la Atma CA8131?', answer: 'Son hermanas de línea: misma capacidad de 1,25 L y 12 tazas. La CA8131 ($45.000) trae filtro lavable reutilizable y es un poco más barata, pero su publicación no tiene calificaciones todavía. La CA8133 usa filtro descartable y tiene 879 opiniones de respaldo. Por $2.567 de diferencia, las opiniones pesan.' },
+      { question: '¿Es buena como primera cafetera?', answer: 'Es exactamente su perfil: barata, simple de usar y con la relación precio-calidad como elogio repetido en las reviews. "Tenía mis dudas por el precio bajo pero fue una muy buena inversión", resume la opinión más votada. No esperes lujo: esperá café rico, rápido y en cantidad.' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: 'junio 2020', useful: 12, text: 'Me encantó la cafetera, tenía mis dudas por el precio bajo pero la verdad fue una muy buena inversión. Funciona excelente y tiene gran capacidad para hacer café en tazas grandes, lo mejor es que prepara rápido el café, no tenés que esperar ni 20 minutos para que esté listo. A pesar de tener cuerpo de plástico, solo hay que cuidarla y listo.' },
+      { rating: 5, country: 'Argentina', date: 'agosto 2022', useful: 6, text: 'Muy buena por el precio, solo necesitaría corte automático por temperatura para ser perfecta, pero para uso general está muy bien.' },
+      { rating: 5, country: 'Argentina', date: 'octubre 2023', useful: 3, text: 'Estéticamente está muy bien, el tamaño me parece perfecto, no es chica ni muy grande, el material se ve resistente, como todo depende del cuidado. Cumple su función; tomando en cuenta la relación precio-calidad, la recomiendo.' },
+      { rating: 4, country: 'Argentina', date: 'agosto 2023', useful: 2, text: 'Cumple su función. Pero el color blanco no es recomendable, se mancha de café y cuesta mucho sacarlo, la próxima vez compraría una de color negro.' },
+      { rating: 4, country: 'Argentina', date: 'agosto 2020', useful: 2, text: 'Muy buena la cafetera, el café sale como para tomar solo, si le agregás leche debe estar por lo menos tibia. En general, muy conforme.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2024', useful: 1, text: 'Lo único malo es el costo y dificultad de reponer la jarra, en caso de rotura.' },
+      { rating: 4, country: 'Argentina', date: 'junio 2020', useful: 1, text: 'Está buena. La tapa de la cafetera tiene un problema: el agujero por donde pasa el café es muy chico y el café se derrama fuera del orificio y mancha la tapa, y el café es muy agresivo, no sale la mancha. Por eso no es cinco estrellas.' },
+      { rating: 4, country: 'Argentina', date: 'mayo 2020', useful: 1, text: 'Cumple. El material es algo malo, un plástico muy liviano, no le tengo mucha confianza. El sistema de desagote a la cafetera es medio malo, termina chorreando hacia los costados. Lo bueno es que tiene filtro propio y prepara bastante rápido el café.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2021', useful: 1, text: 'Es una cafetera sencilla, hasta ahora funcionó de continuo con excelentes prestaciones. Muy buena relación costo-beneficio.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera de filtro Atma CA8133 semiautomática',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_618795-MLA99866989519_112025-F.jpg',
+      description: 'Cafetera de filtro semiautomática Atma CA8133: 1,25 litros (12 pocillos), sistema antigoteo, base calentadora antiadherente e indicador de nivel de agua. 4.6 estrellas con 879 calificaciones en MercadoLibre Argentina.',
+      sku: 'CA8133N',
+      mpn: '94CA8133N',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1xm8Wd8',
+        priceCurrency: 'ARS',
+        price: 47567,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '879',
+      },
+    },
+    relatedProducts: ['MLA37650751', 'MLA15109525', 'MLA62786317'],
   },
   {
     id: 'MLA15109525',
-    title: 'Cafetera de filtro Ultracomb CA-2205 automática negra',
-    price: 40756,
+    title: 'Cafetera de filtro Ultracomb CA-2205 con timer digital',
+    price: 40755.89,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
     priceStatus: 'fresh',
@@ -20583,11 +20814,138 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     rating: 4.4,
     reviewCount: 631,
     pastelColor: 'var(--pastel-coral)',
-    description: '¿Te imaginás levantarte y tener el café recién hecho esperándote? Con la cafetera eléctrica Ultracomb CA-2205 es posible. Su timer digital te permite programar la hora exacta a la que querés tener el café listo, ideal para arrancar el día sin esperas o sorprender a tus invitados. Con 900W de potencia y un elegante diseño, mantiene el café a la temperatura ideal conservando todo su aroma. Incluye…',
+    description: 'Cafetera de filtro Ultracomb CA-2205: la más barata del catálogo con cientos de opiniones (631) y la única en este rango con timer digital programable — la dejás lista a la noche y te despertás con el café hecho. Apagado automático a las 2 horas, filtro permanente lavable y 980 gramos de peso. Ojo: su 4.4 es el rating más bajo del catálogo de cafeteras, y las reviews explican por qué.',
+    aiReviewSummary: 'El timer digital es la estrella: programás la noche anterior y te despertás con el café recién hecho. Rápida, liviana y barata. Pero el 4.4 no es casualidad: los materiales son frágiles y piden cuidado, la jarra se rompe y es difícil de reponer, el portafiltro se desencaja al sacar la jarra y el reloj se desconfigura cada vez que la desenchufás porque no tiene batería interna.',
+    seoTitle: 'Cafetera de filtro Ultracomb CA-2205: ¿conviene su 4.4?',
+    metaDescription: 'La cafetera de filtro más barata con timer digital: $40.756 y 631 opiniones. Pero su 4.4★ es el rating más bajo del catálogo de cafeteras: te contamos por qué.',
+    ogTitle: 'Ultracomb CA-2205: despertarte con el café hecho por menos de $41.000',
+    ogDescription: 'Timer digital, apagado automático y el precio más bajo del catálogo. También el rating más bajo: 4.4. Las razones reales, contadas desde las reviews.',
+    h1: 'Cafetera Ultracomb CA-2205: la filtro más barata con timer, y por qué su rating es 4.4',
+    pros: [
+      'Timer digital programable: te despertás con el café recién hecho',
+      'La más barata del catálogo con cientos de opiniones (631)',
+      'Apagado automático a las 2 horas de uso continuo',
+      'Filtro permanente lavable, y admite filtros de papel 1x4',
+      'Liviana (980 g) y compacta: no ocupa media mesada',
+      'El café sale rápido, destacan varias reviews recientes',
+    ],
+    cons: [
+      'Rating 4.4: el más bajo del catálogo de cafeteras — 107 de 631 compradores calificaron con 3 estrellas o menos',
+      'Materiales frágiles: hay que tratarla con cuidado, avisan varias reviews',
+      'La jarra se rompe y el repuesto es difícil de conseguir, según compradores',
+      'El portafiltro se desencaja al sacar la jarra: un defecto de diseño que detalla una review',
+      'El reloj y la programación se borran si la desenchufás: no tiene batería interna',
+    ],
+    verdict: 'La más barata del catálogo con timer digital incluido, y eso perdona mucho. Pero su 4.4 es el rating más bajo de nuestras cafeteras: materiales frágiles y jarra delicada. Si la tratás con cuidado y querés despertarte con café hecho, rinde; si buscás robustez, la Atma CA8133 cuesta casi lo mismo.',
+    articleBody: `## La filtro más barata, con timer y con el rating más bajo
+
+La Ultracomb CA-2205 es una cafetera de filtro automática con timer digital que cuesta $40.756: la más barata del catálogo con cientos de opiniones (631). Programás la hora a la noche y te despertás con el café hecho. La letra chica: su 4.4 es el rating más bajo de nuestras cafeteras.
+
+## El timer digital: su razón de ser
+
+A este precio, ninguna otra cafetera del catálogo te deja programar el café. El uso real lo explica una review de 5 estrellas: "si te levantás a las 7, lo programás para las 6:45 y tenés el café listo para las 7 — eso sí, acordate de ponerle agua y el café". Suma display digital, apagado automático después de 2 horas de uso continuo, sistema antigoteo y visor de nivel de agua.
+
+El filtro es permanente, removible y lavable, y también admite filtros de papel 1x4 si preferís tirar la borra con el papel. Con 980 gramos es súper liviana, y una compradora reciente destaca que "sin que esté llena la jarra, rinde para 5 tazas tipo mug".
+
+## Por qué su 4.4 es el rating más bajo del catálogo
+
+El número no es un accidente: de las 631 calificaciones, 29 son de 1 estrella, 23 de 2 y 55 de 3 — 107 personas (un 17%) la calificaron con 3 o menos. En las demás cafeteras del catálogo ese porcentaje es bastante menor.
+
+Las reviews explican los motivos. El primero: la fragilidad. "Hay que tratarla con cuidado por los materiales frágiles", resume una review de 4 estrellas. El segundo: la jarra. Un comprador de 5 estrellas pregunta, literal: "si saben dónde puedo conseguir la jarra porque se me rompió hace poquito, le agradezco el dato" — la jarra se rompe y el repuesto no se consigue fácil. El tercero: el portafiltro. Una review de 4 estrellas detalla que "al sacar la jarra de la plataforma para servir café, el portafiltro se desencaja de la ranura, entonces cuando uno quiere poner la jarra de nuevo no entra".
+
+## Los detalles molestos del día a día
+
+Hay dos más, menores pero reales. El reloj no tiene batería interna: "la hora y el encendido automático se desconfiguran si se desconecta la cafetera", avisa una review — si la desenchufás para liberar el tomacorriente, reprogramás todo. Y la programación en sí no es intuitiva para todos: "se puede programar pero es bastante complicado", dice un comprador que esperó un año antes de opinar.
+
+También conviene calibrar expectativas, como hace esta review de 5 estrellas: "no es la gran cosa, pero está buena, yo no pretendía mucho de una cafetera. Pero si buscás algo genial, por acá no".
+
+## Dos datos de la ficha de MercadoLibre que están mal
+
+Primero, la potencia: la ficha de ML dice 850 W, pero la descripción oficial del fabricante especifica 900 W. Segundo, y más importante: la ficha lista "Expreso" entre las bebidas recomendadas, y eso es directamente incorrecto — la CA-2205 es una cafetera de filtro por goteo, sin bomba de presión. Hace café de filtro, no espresso. Si buscás espresso real, necesitás una express con bares de presión, como la Ultracomb CE-6108 del catálogo.
+
+## Contra las otras filtro económicas del catálogo
+
+La comparación obligada es la [Atma CA8133](/producto/MLA14735678) ($47.567): cuesta $6.800 más, no tiene timer, pero su 4.6 con 879 calificaciones la convierte en la opción robusta y segura de la categoría. La [Atma CA8131](/producto/MLA37650751) ($45.000) trae filtro lavable como la Ultracomb, aunque su publicación todavía no tiene calificaciones.
+
+Si lo que te atrae es la programación, el salto serio es la [Smartlife SL-CM1095](/producto/MLA15297115) ($79.999): también programable, con cuerpo de acero inoxidable y 4.7 de rating — al doble de precio.
+
+## ¿Para quién es la CA-2205 (y para quién no)?
+
+Es para vos si: tu prioridad es despertarte con el café hecho gastando lo mínimo posible, vas a dejarla fija en la mesada (para no reprogramar el reloj) y la vas a tratar con cuidado. A $40.756 con timer, no tiene competencia directa en precio.
+
+No es para vos si: buscás algo robusto que aguante trato descuidado, o te frustra el plástico finito. En ese caso, los $6.800 extra de la Atma CA8133 — la filtro más probada del catálogo — son la mejor inversión de esta página.`,
+    specs: [
+      { label: 'Marca', value: 'Ultracomb (fabricante: Fist Rate)' },
+      { label: 'Modelo', value: 'CA-2205 (línea Hogar)' },
+      { label: 'Tipo', value: 'De filtro, automática con timer digital' },
+      { label: 'Capacidad de agua', value: '720 mL' },
+      { label: 'Capacidad de tazas', value: '12 pocillos' },
+      { label: 'Potencia', value: '900 W (la ficha de ML dice 850 W; la descripción oficial del fabricante, 900 W)' },
+      { label: 'Timer programable', value: 'Sí, digital con display' },
+      { label: 'Apagado automático', value: 'Sí, a las 2 horas de uso continuo' },
+      { label: 'Tipos de filtros', value: 'Permanente, removible y lavable (admite papel 1x4)' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Indicador de agua', value: 'Sí' },
+      { label: 'Bandeja recolectora removible', value: 'Sí' },
+      { label: 'Accesorios incluidos', value: 'Jarra de vidrio' },
+      { label: 'Estructura', value: 'Plástico' },
+      { label: 'Bebidas recomendadas', value: 'Café de filtro (la ficha de ML dice "Expreso", pero es una cafetera de goteo: no hace espresso)' },
+      { label: 'Dimensiones', value: '27,5 x 30 x 31,2 cm' },
+      { label: 'Peso', value: '980 g' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Por qué la CA-2205 tiene rating 4.4?', answer: 'Porque 107 de sus 631 calificaciones son de 3 estrellas o menos, el porcentaje más alto del catálogo de cafeteras. Los motivos que se repiten en las reviews: materiales frágiles que piden cuidado, una jarra que se rompe y cuesta reponer, y un portafiltro que se desencaja al sacar la jarra. No es mala compra, pero hay que saberlo antes.' },
+      { question: '¿Cómo funciona el timer programable?', answer: 'Le ponés agua y café a la noche, configurás la hora en el display digital y la cafetera arranca sola. Una review lo explica con ejemplo: "si te levantás a las 7, lo programás para las 6:45 y tenés el café listo para las 7". Es la gracia principal del modelo a este precio.' },
+      { question: '¿Es cierto que se desconfigura el reloj?', answer: 'Sí: no tiene batería interna, así que si la desenchufás se borran la hora y la programación. Lo avisa una review de 4 estrellas que lo considera "un detalle menor". Si la vas a dejar enchufada fija en la mesada, no lo vas a sufrir; si compartís el tomacorriente, sí.' },
+      { question: '¿Hace espresso como dice la ficha?', answer: 'No. La ficha de MercadoLibre lista "Expreso" entre las bebidas recomendadas, pero es un error: la CA-2205 es una cafetera de filtro por goteo, sin bomba de presión. Hace café de filtro, rico y en cantidad, pero no espresso. Para espresso real necesitás una express con bares, como la Ultracomb CE-6108.' },
+      { question: '¿Para cuántas tazas alcanza?', answer: 'La ficha indica 720 mL de capacidad, que equivale a unos 12 pocillos de café. En tazas grandes rinde menos: una compradora reciente cuenta que, sin llenar la jarra del todo, le salen unas 5 tazas tipo mug. Para una o dos personas que toman café en serio, va perfecto.' },
+      { question: '¿Qué filtro usa: permanente o de papel?', answer: 'Los dos. Viene con filtro permanente removible y lavable — no comprás repuestos — y también admite filtros de papel tamaño 1x4 si preferís tirar la borra junto con el papel. Esa flexibilidad es poco común en cafeteras de este precio.' },
+      { question: '¿Se apaga sola?', answer: 'Sí: tiene apagado automático después de 2 horas de uso continuo, un punto de seguridad que la diferencia de otras filtro económicas como la Atma CA8133, que sigue encendida hasta que la apagás vos. Mientras está encendida, mantiene el café a temperatura.' },
+      { question: '¿Se consigue la jarra de repuesto?', answer: 'Es una de las quejas reales: un comprador de 5 estrellas pide ayuda en su propia review — "si saben dónde puedo conseguir la jarra porque se me rompió hace poquito, le agradezco el dato". La jarra es frágil y el repuesto, difícil. Manejala con cuidado, sobre todo al encajarla con el portafiltro.' },
+      { question: '¿Conviene esta o la Atma CA8133?', answer: 'Depende de qué valorás. La Ultracomb ($40.756) gana en funciones: timer, display y apagado automático. La Atma ($47.567) gana en confianza: 4.6 con 879 calificaciones y menos quejas de fragilidad. Si la programación te cambia la mañana, Ultracomb; si querés la compra más segura, Atma.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'julio 2020', useful: 176, text: 'Me hace la vida y la cuarentena mucho más fácil. Yo antes solo podía trabajar 16 horas por día; gracias a esta cafetera, mi productividad se incrementó un 200%, vendí mi cama porque ya no necesito dormir.' },
+      { rating: 5, country: 'Argentina', date: 'agosto 2024', useful: 16, text: 'Excelente, muy fácil de usar, económica, sencilla y lo más importante: funcional. En otras palabras, excelente opción para alguien que busca algo de marca pero sin irse a las nubes con el precio. Tiene también timer que lo programás cuando te levantás y tenés el café recién hecho. Por ejemplo, si te levantás a las 7 como yo, lo programás para las 6:45 y tenés el café listo para las 7 (eso sí, acordate de ponerle agua y el café).' },
+      { rating: 4, country: 'Argentina', date: 'enero 2021', useful: 5, text: 'Es una cafetera común y corriente, nada del otro mundo. De momento la estoy usando hace más de un mes y hasta ahora no presentó ningún problema. La única crítica es que la hora y el encendido automático se desconfiguran si se desconecta la cafetera porque no tiene batería interna, aunque es un detalle menor.' },
+      { rating: 4, country: 'Argentina', date: 'noviembre 2021', useful: 3, text: 'Le doy 4 estrellas porque tiene un pequeño defecto en el portafiltro. Al sacar la jarra de la plataforma para servir café, el portafiltro se desencaja de la ranura, entonces cuando uno quiere poner la jarra de nuevo en la cafetera no entra. Por lo demás es un muy buen producto.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2025', useful: 2, text: 'No es la gran cosa, pero está buena, yo no pretendía mucho de una cafetera. Pero si buscás algo genial, por acá no.' },
+      { rating: 4, country: 'Argentina', date: 'febrero 2024', useful: 2, text: 'Muy práctica, funciona bien, hay que tratarla con cuidado por los materiales frágiles.' },
+      { rating: 5, country: 'Argentina', date: 'diciembre 2023', useful: 2, text: 'Excelente. Si saben dónde puedo conseguir la jarra porque se me rompió hace poquito, le agradezco el dato.' },
+      { rating: 4, country: 'Argentina', date: 'diciembre 2025', useful: 1, text: 'La compré hace un año y me tomé el tiempo para opinar: anda muy bien, se puede programar pero es bastante complicado.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 1, text: 'Muy buena y práctica, por el precio te da lo justo y necesario. El temporizador le da un plus muy bueno y se mantiene caliente por un tiempo después de que se hace.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera de filtro Ultracomb CA-2205 con timer digital',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_958590-MLA99443169884_112025-F.jpg',
+      description: 'Cafetera de filtro automática Ultracomb CA-2205 con timer digital programable, apagado automático a las 2 horas, filtro permanente lavable y sistema antigoteo. 4.4 estrellas con 631 calificaciones en MercadoLibre Argentina.',
+      sku: 'CA-2205',
+      mpn: 'CA-2205',
+      brand: { '@type': 'Brand', name: 'Ultracomb' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1aZSTdt',
+        priceCurrency: 'ARS',
+        price: 40755.89,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.4',
+        reviewCount: '631',
+      },
+    },
+    relatedProducts: ['MLA14735678', 'MLA37650751', 'MLA15297115'],
   },
   {
     id: 'MLA72187457',
-    title: 'Cafetera de filtro Electrolux ECM25 plateada',
+    title: 'Cafetera eléctrica Electrolux ECM25 acero inoxidable',
     price: 69999,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
@@ -20608,11 +20966,112 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     freeShipping: true,
     brand: 'Electrolux',
     pastelColor: 'var(--pastel-coral)',
-    description: 'La cafetera eléctrica de goteo Electrolux ECM25 combina funcionalidad y estilo en un diseño de acero inoxidable de alta calidad. Su acabado plateado aporta elegancia a cualquier entorno, integrándose perfectamente en cocinas modernas. Este modelo automático cuenta con una capacidad de agua de 1.2 litros, permitiendo la preparación de múltiples servicios de café con eficiencia. La estructura…',
+    description: 'Cafetera eléctrica de goteo Electrolux ECM25: marca internacional en el rango de entrada. Cuerpo de acero inoxidable plateado — raro en cafeteras de menos de $70.000 —, capacidad de 1,2 litros y temporizador integrado para programar el inicio de la preparación. Es una publicación nueva sin calificaciones todavía: comprás specs y trayectoria de marca, no opiniones verificadas.',
+    seoTitle: 'Cafetera eléctrica Electrolux ECM25: ¿vale sus $69.999?',
+    metaDescription: 'Electrolux ECM25: cafetera eléctrica de goteo, acero inoxidable y timer por $69.999. Publicación nueva sin opiniones: specs reales y a quién le conviene.',
+    ogTitle: 'Electrolux ECM25: acero inoxidable y marca internacional sin irte de presupuesto',
+    ogDescription: 'Una cafetera de goteo con cuerpo de acero y timer programable por $69.999. Lo que garantizan las specs y lo que todavía nadie calificó, contado honesto.',
+    h1: 'Cafetera eléctrica Electrolux ECM25: acero inoxidable y timer en el rango de entrada',
+    pros: [
+      'Cuerpo de acero inoxidable: raro en cafeteras de menos de $70.000',
+      'Temporizador integrado para programar el inicio de la preparación',
+      '1,2 litros de capacidad: varios servicios de café por ciclo',
+      'Compacta: 28 cm de alto x 19 de largo x 23 de ancho, entra en cualquier mesada',
+      'Electrolux: marca internacional con trayectoria en electrodomésticos',
+    ],
+    cons: [
+      'Publicación nueva sin calificaciones: cero feedback verificado de compradores',
+      'La ficha de ML es escueta: no informa potencia ni el tipo de filtro que usa',
+      'Cuesta más que las filtro de Atma, que sí acumulan cientos de opiniones',
+    ],
+    verdict: 'Marca internacional y cuerpo de acero inoxidable en el rango de entrada: $69.999 con timer programable. La publicación es nueva y no tiene calificaciones, así que comprás specs y trayectoria de marca. Si preferís certezas, la Atma CA8133 tiene 879 opiniones por $22.000 menos.',
+    articleBody: `## Marca internacional en el rango de entrada
+
+La Electrolux ECM25 es una cafetera eléctrica de goteo con cuerpo de acero inoxidable, 1,2 litros de capacidad y temporizador programable por $69.999. Es una publicación nueva: todavía no tiene calificaciones, así que lo que sigue son specs verificables y contexto de marca, no opiniones de compradores.
+
+## Acero inoxidable donde todo es plástico
+
+El diferencial más visible de la ECM25 está en el material: la ficha indica estructura de acero inoxidable, algo que ninguna de las filtro económicas del catálogo ofrece — la Atma CA8133, la CA8131 y la Ultracomb CA-2205 son de plástico, y en el caso de las dos últimas, las propias descripciones o reviews piden tratarlas con cuidado.
+
+El acabado plateado además resuelve un problema que documentan las reviews de las cafeteras blancas: las manchas de café sobre plástico claro que no salen más. Sobre acero, ese drama no existe. Para una cocina donde la cafetera queda a la vista, es la diferencia entre un electrodoméstico y un aparato.
+
+## Timer programable y 1,2 litros
+
+La ficha confirma temporizador integrado: programás el inicio del ciclo y el café arranca solo, la misma lógica que la Ultracomb CA-2205 pero en un cuerpo de otra categoría. La capacidad de 1,2 litros da varios servicios por preparación — en línea con las jarras de 1,25 L de las Atma.
+
+Es automática y de goteo: café de filtro clásico, sin presión ni espresso. La descripción destaca el funcionamiento estable y rápido del sistema eléctrico, aunque — honestidad — la ficha no informa la potencia en watts, un dato que sí dan sus competidoras.
+
+## Lo que no sabemos todavía (y no vamos a inventar)
+
+Esta publicación no tiene calificaciones, y eso significa que hay preguntas sin respuesta verificada: cuánto tarda en preparar la jarra completa, qué tan intuitivo es programar el timer, si el filtro es permanente o de papel, y cómo envejece con el uso diario. Ninguna review documenta nada de eso todavía.
+
+Lo que sí hay es trayectoria: Electrolux es una marca internacional con décadas en electrodomésticos y servicio técnico establecido en Argentina. No reemplaza a las opiniones, pero es un respaldo distinto al de una marca genérica sin historia.
+
+## Compacta para mesadas reales
+
+Las medidas que da la descripción: 28 cm de alto, 19 cm de largo y 23 cm de ancho. Es un formato compacto que entra debajo de las alacenas y no monopoliza la mesada — un punto a favor frente a cafeteras más anchas como la Ultracomb CA-2205, que ocupa 30 cm de profundidad.
+
+## Contra las filtro económicas del catálogo
+
+Hacia abajo, la [Atma CA8133](/producto/MLA14735678) ($47.567) es la referencia de la categoría: $22.000 más barata y con 879 calificaciones que documentan años de uso — a cambio de cuerpo plástico y cero programación. Si tu prioridad es la certeza, es difícil argumentar contra ella.
+
+Hacia arriba, la [Smartlife SL-CM1095](/producto/MLA15297115) ($79.999) es la rival directa: también programable y con acero inoxidable, pero con 4.7 estrellas y 94 calificaciones que la ECM25 no tiene. Por $10.000 más, hoy es la opción programable con más respaldo.
+
+## ¿Para quién es la ECM25 (y para quién no)?
+
+Es para vos si: querés una cafetera de goteo con timer y cuerpo de acero de una marca internacional, valorás el diseño en la mesada y no te pesa ser de los primeros compradores de una publicación sin calificaciones.
+
+No es para vos si: comprás solo con respaldo de opiniones — la Smartlife SL-CM1095 te da casi lo mismo con 94 calificaciones por $10.000 más, y la Atma CA8133 te da el café de filtro probado por 879 personas por $22.000 menos, sin timer ni acero.`,
+    specs: [
+      { label: 'Marca', value: 'Electrolux' },
+      { label: 'Modelo', value: 'ECM25' },
+      { label: 'Tipo', value: 'Cafetera eléctrica de goteo (filtro)' },
+      { label: 'Tecnología', value: 'Automática' },
+      { label: 'Estructura', value: 'Acero inoxidable' },
+      { label: 'Capacidad de agua', value: '1,2 L' },
+      { label: 'Temporizador', value: 'Sí, integrado para programar el inicio' },
+      { label: 'Tipo de alimentación', value: 'Eléctrica' },
+      { label: 'Voltaje', value: '220 V' },
+      { label: 'Color', value: 'Plateado' },
+      { label: 'Altura', value: '28 cm' },
+      { label: 'Largo', value: '19 cm' },
+      { label: 'Ancho', value: '23 cm' },
+      { label: 'Incluye pilas', value: 'No' },
+    ],
+    faq: [
+      { question: '¿La Electrolux ECM25 tiene opiniones de compradores?', answer: 'No: es una publicación nueva y todavía no tiene calificaciones. Todo lo que contamos acá sale de la ficha técnica y la descripción oficial — no hay experiencias de usuarios para citar, y no vamos a inventarlas. Si las opiniones te dan tranquilidad, la Smartlife SL-CM1095 es la programable con respaldo del catálogo.' },
+      { question: '¿Es de acero inoxidable de verdad?', answer: 'La ficha técnica de MercadoLibre lo confirma: materiales de la estructura, acero inoxidable, con acabado plateado. Es el diferencial frente a las filtro económicas del catálogo, todas de plástico. Además evita el problema clásico de las cafeteras blancas: las manchas de café que no salen del plástico claro.' },
+      { question: '¿Se puede programar para que el café esté listo a la mañana?', answer: 'Sí: tiene temporizador integrado que, según la descripción oficial, permite programar el inicio del ciclo de preparación. Es la misma lógica de la Ultracomb CA-2205, pero en cuerpo de acero. El detalle honesto: sin reviews, nadie documentó todavía qué tan fácil o engorroso es configurarlo.' },
+      { question: '¿Qué tipo de café hace?', answer: 'Café de filtro por goteo, el clásico de jarra: cargás agua y café molido, y la máquina gotea la preparación. No tiene bomba de presión, así que no hace espresso ni capuchino. Para espresso real, el catálogo arranca con la Ultracomb CE-6108 a $133.999.' },
+      { question: '¿Para cuántas tazas alcanza?', answer: 'La capacidad es de 1,2 litros, que la descripción traduce como múltiples servicios de café por preparación. Está en la misma liga que las jarras de 1,25 L de las Atma: suficiente para una familia o para una mañana entera de trabajo sin repetir el ciclo.' },
+      { question: '¿Por qué cuesta más que las Atma si no tiene opiniones?', answer: 'Pagás dos cosas: el cuerpo de acero inoxidable (las Atma son de plástico) y la marca internacional con servicio técnico establecido. Si eso no te importa, la CA8133 a $47.567 con 879 calificaciones es la compra racional. La ECM25 apunta a quien quiere mejor material y diseño en la mesada.' },
+      { question: '¿Entra en una mesada chica?', answer: 'Sí: mide 28 cm de alto, 19 cm de largo y 23 cm de ancho según la descripción oficial — formato compacto que entra debajo de las alacenas estándar. Es menos profunda que la Ultracomb CA-2205 (30 cm), un detalle si tu espacio de mesada está contado.' },
+      { question: '¿Conviene esta o la Smartlife SL-CM1095?', answer: 'Son rivales directas: las dos programables y con acero inoxidable. La Smartlife ($79.999) tiene 4.7 estrellas con 94 calificaciones; la Electrolux ($69.999) es $10.000 más barata pero sin feedback todavía. Si querés certezas, Smartlife; si confiás en la marca y preferís ahorrar, Electrolux.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera eléctrica Electrolux ECM25',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_684694-MLA111660947618_062026-F.jpg',
+      description: 'Cafetera eléctrica de goteo Electrolux ECM25: cuerpo de acero inoxidable plateado, capacidad de 1,2 litros y temporizador integrado para programar el inicio de la preparación. Producto nuevo en MercadoLibre Argentina.',
+      sku: 'ECM25',
+      mpn: 'ECM25',
+      brand: { '@type': 'Brand', name: 'Electrolux' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1y5nrwc',
+        priceCurrency: 'ARS',
+        price: 69999,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+    },
+    relatedProducts: ['MLA14735678', 'MLA15297115'],
   },
   {
     id: 'MLA15297115',
-    title: 'Cafetera de filtro Smartlife SL-CM1095 digital negra y gris',
+    title: 'Cafetera de filtro Smartlife SL-CM1095 digital programable',
     price: 79999,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
@@ -20635,12 +21094,137 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     rating: 4.7,
     reviewCount: 94,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera Smartlife SL-CMD1095: Disfruta del Café Perfecto con Tecnología Avanzada Descubrí la innovadora Cafetera Smartlife SL-CMD1095, diseñada para ofrecerte la experiencia de café definitiva en la comodidad de tu hogar. Esta cafetera de filtro combina elegancia, funcionalidad y tecnología avanzada para satisfacer incluso a los amantes del café más exigentes. Con una potencia de 900 W, esta…',
+    description: 'Cafetera de filtro Smartlife SL-CM1095: digital, programable y con 1,5 litros de capacidad (12 pocillos). La cargás a la noche, programás la hora y te despertás con el café hecho. Pantalla digital, antigoteo, indicador de agua y frente con acero inoxidable, con 4.7 estrellas en 94 calificaciones. El paso intermedio entre las filtro básicas y las premium con jarra térmica.',
+    aiReviewSummary: 'La función estrella según los compradores es la programación: "la programo y tengo el café hecho a la hora exacta" se repite en distintas versiones. También elogian los materiales, la base antideslizante y la velocidad (menos de 10 minutos). La crítica honesta del panorama: la temperatura — más de una review dice que el café sale tibio o que no se mantiene caliente mucho tiempo.',
+    seoTitle: 'Cafetera Smartlife SL-CM1095: filtro programable, ¿rinde?',
+    metaDescription: 'Cafetera de filtro programable Smartlife SL-CM1095: 1,5 L, pantalla digital y 4.7★ en 94 opiniones. Qué dicen las reviews sobre la temperatura del café.',
+    ogTitle: 'Smartlife SL-CM1095: despertarse con el café ya hecho, por menos de $80.000',
+    ogDescription: 'La filtro digital programable de Smartlife: 12 pocillos, 4.7★ y un punto flojo que las reviews repiten. Te lo contamos sin filtro (bueno, con filtro).',
+    h1: 'Cafetera Smartlife SL-CM1095: la filtro digital programable que te hace el café antes de que te levantes',
+    pros: [
+      '4.7⭐ con 94 calificaciones y ninguna review de 1 estrella',
+      'Programable: la dejás cargada a la noche y el café está listo a la hora exacta',
+      'Capacidad de 1,5 L (12 pocillos): rinde para toda la familia',
+      'Pantalla digital con temporizador, válvula antigoteo e indicador de agua',
+      'Filtro permanente lavable incluido, y también acepta filtros descartables',
+      'Materiales bien valorados: frente de acero inoxidable y base antideslizante',
+    ],
+    cons: [
+      'La temperatura es la crítica repetida: alguna review dice que el café sale tibio',
+      'No mantiene el café muy caliente después de un rato: conviene tomarlo apenas se hace',
+      'Una review de 4 estrellas pide que la resistencia caliente un poco más',
+      'Jarra de vidrio común, sin aislamiento térmico: depende de la placa para conservar calor',
+    ],
+    verdict: 'Por $79.999, la programación cambia la rutina de la mañana: café hecho a la hora exacta, 12 pocillos y materiales que las reviews elogian. Su talón de Aquiles es la temperatura — si tomás el café apenas sale, no lo vas a notar; si lo dejás reposar, sí.',
+    articleBody: `## La filtro programable de Smartlife
+
+La SL-CM1095 es la cafetera de filtro digital de Smartlife: cuesta $79.999, prepara 1,5 litros (12 pocillos) y su gracia es la programación — la cargás a la noche y el café está listo a la hora que vos definas. Junta 4.7 estrellas en 94 calificaciones, sin ninguna review de 1 estrella.
+
+## Programar el café: la función que las reviews aman
+
+El temporizador es, lejos, lo más elogiado del panorama de opiniones: "la programo y tengo el café hecho a la hora exacta", "la función de programación para levantarse con el café caliente es excelente", "el timer anda perfecto". Es el diferencial concreto frente a las filtro básicas del mismo rango: te despierta el olor a café, no la alarma.
+
+Y si la usás en el momento, es rápida: una compradora midió menos de 10 minutos para la jarra completa, y otra resume que "si querés hacer café en el momento, en un toque está".
+
+## 1,5 litros, 12 pocillos y un dato que la ficha de ML tiene mal
+
+La capacidad de 1,5 litros rinde 12 pocillos — de las más grandes del catálogo de filtro, pensada para familias o para el termo del mate... digo, del café. Tiene válvula antigoteo (podés servirte antes de que termine), indicador de nivel de agua y pantalla digital para manejar todo.
+
+Una aclaración importante: la ficha técnica de MercadoLibre dice "tipos de filtros: descartable", pero está incompleta. La descripción oficial y las reviews confirman que incluye filtro permanente lavable — una compradora cuenta que "el filtro va genial, aunque aún la uso con filtros descartables". Es decir: tenés las dos opciones. Otro detalle menor: los atributos declaran 980 W de potencia y la descripción del vendedor menciona 900 W; en cualquier caso, potencia estándar de filtro.
+
+## El punto flojo honesto: la temperatura
+
+Acá va lo que las reviews críticas repiten. La única calificación de 3 estrellas del muestreo es directa: "no prepara el café caliente ni recién hecho, queda tibio". Una de 4 estrellas sugiere que "deberían regular con un poco más de temperatura la resistencia". Y una de 5 estrellas, aún elogiándola, avisa: "no mantiene muy caliente el café, sirve para tomarlo inmediatamente".
+
+El patrón es claro: el café sale a temperatura correcta pero justa, y la placa no lo mantiene caliente por mucho tiempo. Si tu ritual es servirte apenas termina de filtrar, no lo vas a sufrir. Si dejás la jarra una hora en la base esperando el segundo café, sí.
+
+## Lo que dicen las 94 calificaciones
+
+El desglose: 77 personas pusieron 5 estrellas, 10 pusieron 4, y solo 7 calificaron con 3 o menos (ninguna con 1). Además de la programación, los elogios apuntan a la construcción: "material impecable", "no se resbala ya que tiene antideslizante", "los materiales son de calidad". Varios compradores tienen otros productos de la marca y repiten.
+
+La frase que mejor resume el consenso es de una review de 2025: "tuve varias cafeteras y en relación precio calidad esta me pareció increíble".
+
+## Contra la Liliana AC935, la Atma CA8133 y la Electrolux ECM25
+
+La comparación natural hacia arriba es la [Liliana AC935](/producto/MLA62786317) ($112.767): también digital y programable, pero con jarra térmica de acero inoxidable en lugar de vidrio — justo el punto flojo de la Smartlife, resuelto por $33.000 más.
+
+Hacia abajo, la [Atma CA8133](/producto/MLA14735678) ($47.567) es la filtro más probada del catálogo (879 calificaciones) a casi la mitad de precio, pero sin programación ni pantalla. Y la [Electrolux ECM25](/producto/MLA72187457) ($69.999) pone una marca internacional en el mismo rango, aunque su publicación todavía no tiene calificaciones.
+
+## ¿Para quién es la SL-CM1095 (y para quién no)?
+
+Es para vos si: tomás café de filtro todas las mañanas, querés despertarte con el café ya hecho y buscás capacidad familiar sin gastar de más. No es para vos si: dejás la jarra reposando horas y esperás que siga hirviendo (mirá la Liliana AC935 con jarra térmica), o si solo querés una filtro simple y barata sin pantalla (la Atma CA8133 cuesta casi la mitad).
+
+A $79.999 con 4.7 estrellas y la programación como diferencial real, es el paso intermedio exacto entre las filtro básicas y las premium.`,
+    specs: [
+      { label: 'Marca', value: 'Smartlife' },
+      { label: 'Modelo', value: 'SL-CM1095' },
+      { label: 'Tipo', value: 'Cafetera de filtro automática' },
+      { label: 'Capacidad de agua', value: '1,5 L' },
+      { label: 'Capacidad de tazas', value: '12 pocillos' },
+      { label: 'Potencia', value: '980 W según ficha de ML (la descripción menciona 900 W)' },
+      { label: 'Pantalla digital', value: 'Sí' },
+      { label: 'Temporizador programable', value: 'Sí' },
+      { label: 'Filtro', value: 'Permanente lavable incluido (acepta descartables; la ficha de ML solo lista "descartable")' },
+      { label: 'Válvula antigoteo', value: 'Sí' },
+      { label: 'Indicador de agua', value: 'Sí' },
+      { label: 'Control de temperatura', value: 'Sí' },
+      { label: 'Jarra', value: 'Vidrio, sin aislamiento térmico' },
+      { label: 'Materiales de la estructura', value: 'Plástico y acero inoxidable' },
+      { label: 'Bandeja recolectora removible', value: 'Sí' },
+      { label: 'Dimensiones', value: '22,6 cm de ancho x 37,8 cm de alto' },
+      { label: 'Color', value: 'Negro y gris' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Smartlife SL-CM1095 se puede programar?', answer: 'Sí, y es su función estrella: por la pantalla digital configurás la hora y la cafetera arranca sola. Las reviews lo confirman con entusiasmo — "la programo y tengo el café hecho a la hora exacta" es el comentario más repetido. Dejás el agua y el café cargados a la noche, y a la mañana el café te espera listo.' },
+      { question: '¿Cuántos pocillos prepara?', answer: 'El tanque es de 1,5 litros, que rinden 12 pocillos según la ficha. Es de las capacidades más grandes entre las cafeteras de filtro del catálogo, pensada para familias o para quien toma varias tazas durante la mañana sin volver a cargar.' },
+      { question: '¿Trae filtro permanente o hay que comprar descartables?', answer: 'Incluye filtro permanente lavable, aunque la ficha técnica de MercadoLibre diga solo "descartable" — la descripción oficial y las reviews lo confirman. También acepta filtros de papel descartables si los preferís: una compradora cuenta que usa las dos opciones según el día.' },
+      { question: '¿El café sale bien caliente?', answer: 'Es la crítica honesta de esta cafetera. La única review de 3 estrellas dice que el café "queda tibio", y una de 4 pide más temperatura en la resistencia. La mayoría no lo sufre porque toma el café apenas sale; si te pasa lo mismo, precalentá la taza y servite al toque.' },
+      { question: '¿Mantiene el café caliente después de prepararlo?', answer: 'Tiene placa calefactora, pero las reviews avisan que no conserva la temperatura por mucho tiempo: "no mantiene muy caliente el café, sirve para tomarlo inmediatamente". Si querés café caliente horas después, la Liliana AC935 con jarra térmica de acero es la alternativa directa del catálogo.' },
+      { question: '¿Cuánto tarda en hacer el café?', answer: 'Rápido para su capacidad: una review midió menos de 10 minutos para la preparación completa, y varias destacan la velocidad como punto fuerte. Para una jarra de 1,5 litros es un tiempo más que razonable, y si programás, el tiempo de espera directamente desaparece de tu mañana.' },
+      { question: '¿Es de buena calidad de materiales?', answer: 'Las reviews son consistentes en esto: "material impecable", "los materiales son de calidad", "estéticamente hermosa". Combina plástico con frente de acero inoxidable, y trae base antideslizante que los compradores valoran. Ninguna de las 94 calificaciones es de 1 estrella, un dato que respalda la construcción.' },
+      { question: '¿Conviene esta o la Liliana AC935?', answer: 'Las dos son digitales y programables. La Smartlife ($79.999) tiene más capacidad (1,5 L contra 1,2 L) y cuesta $33.000 menos; la Liliana AC935 ($112.767) suma jarra térmica de acero inoxidable, que resuelve justo la crítica de temperatura de la Smartlife. Si tomás el café al instante, la Smartlife alcanza; si lo dejás reposar, pagá la jarra térmica.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'septiembre 2023', useful: 8, text: 'Material impecable, fácil de usar, la programación es genial, no se resbala ya que tiene antideslizante, la jarra es bastante grande y resalto que los materiales son de calidad. Contento.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2023', useful: 6, text: 'Excelente producto. Ya usándola hace un par de meses, la función de programación para levantarse con el café caliente es excelente.' },
+      { rating: 5, country: 'Argentina', date: 'noviembre 2022', useful: 6, text: 'Funciona perfecto. La programo y tengo el café hecho a la hora exacta. Es rápida: si querés hacer café en el momento, en un toque está.' },
+      { rating: 4, country: 'Argentina', date: 'mayo 2024', useful: 1, text: 'Es un producto que responde a las expectativas. Sugerencia: deberían regular con un poco más de temperatura la resistencia, así el café tendrá la temperatura justa.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2024', useful: 1, text: 'La amé. El timer anda perfecto, y si lo preparo en el momento tarda menos de 10 minutos. La mejor compra que hice en mucho tiempo, plata bien gastada.' },
+      { rating: 3, country: 'Argentina', date: 'noviembre 2023', useful: 1, text: 'No prepara el café caliente ni recién hecho, queda tibio.' },
+      { rating: 5, country: 'Argentina', date: 'octubre 2023', useful: 1, text: 'Práctica y rápida. No mantiene muy caliente el café, sirve para tomarlo inmediatamente.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2025', useful: 0, text: 'Tuve varias cafeteras y en relación precio calidad esta me pareció increíble. Muy pero muy buena cafetera, recomendable.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera de filtro Smartlife SL-CM1095 digital programable',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_902015-MLA100075937483_122025-F.jpg',
+      description: 'Cafetera de filtro digital programable Smartlife SL-CM1095: 1,5 litros (12 pocillos), pantalla digital, temporizador, válvula antigoteo y filtro permanente lavable. 4.7 estrellas con 94 calificaciones en MercadoLibre Argentina.',
+      sku: 'SL-CM1095',
+      mpn: 'SL-CM1095',
+      brand: { '@type': 'Brand', name: 'Smartlife' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2Dw1odT',
+        priceCurrency: 'ARS',
+        price: 79999,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '94',
+      },
+    },
+    relatedProducts: ['MLA62786317', 'MLA14735678', 'MLA72187457'],
   },
   {
     id: 'MLA62786317',
-    title: 'Cafetera de filtro digital Liliana AC935 jarra inox 1,2 L',
-    price: 112767,
+    title: 'Cafetera de filtro Liliana AC935 digital con jarra de acero 1,2 L',
+    price: 112766.76,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
     priceStatus: 'fresh',
@@ -20662,11 +21246,135 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     rating: 4.8,
     reviewCount: 42,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera Eléctrica DripXpert Liliana AC935 La Cafetera Eléctrica DripXpert Liliana AC935 ofrece mayor capacidad, control digital y conservación térmica avanzada, ideal para quienes buscan una experiencia de café más completa y profesional en el hogar. Su jarra térmica de acero inoxidable mantiene la temperatura por más tiempo, conservando sabor, aroma y frescura sin recalentar. Cuenta con panel…',
+    description: 'Cafetera de filtro Liliana AC935 DripXpert: digital, programable y con el diferencial que ninguna otra filtro del catálogo tiene — jarra térmica de acero inoxidable de 1,2 litros en lugar de vidrio. Panel con 6 funciones, selector de intensidad, apagado automático y 4.8 estrellas en 42 calificaciones, el mejor rating entre las cafeteras de filtro del catálogo.',
+    aiReviewSummary: 'La jarra de acero es el motivo de compra más mencionado: "lo elegimos por la jarra principalmente, para mayor durabilidad". También elogian la programación ("ya no me despierta la alarma, sino el olorcito a café"), el selector de intensidad y la estética. Las críticas honestas: una compradora reporta que el botón de intensidad falló al principio, y otra aclara que la jarra térmica mantiene el café a temperatura tomable unos 40-50 minutos — térmica, pero no un termo.',
+    seoTitle: 'Cafetera Liliana AC935: filtro digital con jarra de acero',
+    metaDescription: 'Cafetera de filtro Liliana AC935: digital programable, jarra térmica de acero de 1,2 L y 4.8★ en 42 opiniones. Lo bueno y lo que la jarra no hace, sin verso.',
+    ogTitle: 'Liliana AC935: la única filtro del catálogo con jarra de acero (chau vidrio)',
+    ogDescription: 'Digital, programable, con selector de intensidad y jarra térmica inoxidable. 4.8★, el mejor rating de las filtro. Y una aclaración honesta sobre cuánto dura el calor.',
+    h1: 'Cafetera Liliana AC935: la filtro digital premium con jarra térmica de acero que no se rompe nunca',
+    pros: [
+      '4.8⭐ con 42 calificaciones: el mejor rating entre las cafeteras de filtro del catálogo',
+      'Jarra térmica de acero inoxidable: no se rompe como el vidrio y conserva la temperatura',
+      'Programable: panel digital con 6 funciones para despertarte con el café hecho',
+      'Selector de intensidad del café, algo poco común en filtro de este rango',
+      'Filtro removible lavable, válvula antigoteo y apagado automático a los 120 minutos',
+      'Jarra y filtro aptos lavavajillas, con protección contra hervido en seco',
+    ],
+    cons: [
+      'La jarra térmica no es un termo: mantiene el café a temperatura tomable unos 40-50 minutos',
+      'Una review reporta que el botón de intensidad no funcionaba al principio (después anduvo)',
+      'Capacidad de 1,2 L, algo menor que otras filtro del catálogo de 1,5 L',
+      'Es fabricación china importada por Liliana, aclara una compradora — no industria nacional',
+    ],
+    verdict: 'La filtro premium del catálogo: programable, con intensidad regulable y la única con jarra de acero que no se te rompe en la bacha. A $112.767 cuesta más que las filtro comunes, pero el 4.8 de rating y la durabilidad de la jarra justifican la diferencia para uso diario.',
+    articleBody: `## La filtro premium del catálogo
+
+La Liliana AC935 (línea DripXpert) es la cafetera de filtro tope del catálogo: cuesta $112.767, es digital y programable, y su diferencial es la jarra térmica de acero inoxidable de 1,2 litros — nada de vidrio. Junta 4.8 estrellas en 42 calificaciones, el mejor rating entre las filtro.
+
+## La jarra de acero: el motivo de compra número uno
+
+Todas las demás cafeteras de filtro del catálogo vienen con jarra de vidrio: se rompe con un golpe y depende de una placa calefactora que recalienta el café. La AC935 cambia el esquema: jarra térmica de acero inoxidable que conserva la temperatura sin recalentar — el café no se "quema" ni toma ese gusto a recalentado de las placas.
+
+Las reviews confirman que es el motivo de compra: "lo elegimos por la jarra principalmente (no de vidrio) para mayor durabilidad", "el plus de la jarra metálica que además de mantener la temperatura garantiza su vida útil". Una compradora entusiasta reporta: "hice el café y me duró hasta la tarde caliente sin necesidad de prenderla".
+
+## La aclaración honesta: térmica, pero no un termo
+
+Acá conviene bajar la expectativa a la realidad. Una review de 4 estrellas lo mide con precisión: "el café dura a temperatura tomable en la jarra 40/50 minutos — no mantiene caliente, la jarra es térmica pero no tanto como un termo". Otra dice que "mantiene bastante el calor", y la del café "hasta la tarde" es el extremo optimista.
+
+El punto medio razonable: la jarra conserva el café tomable mucho más que una jarra de vidrio sin placa, pero si volvés tres horas después, no va a estar humeando. Para la rutina del desayuno largo, sobra; para el termo de la oficina, no la compres por eso.
+
+## Panel digital con 6 funciones e intensidad regulable
+
+El panel maneja encendido, programación, hora, minutos e intensidad del café — esta última es rara de ver en filtro de este rango, y las reviews la valoran: "la opción de intensidad del café me resulta muy útil". La programación funciona como en cualquier filtro premium: "por las mañanas ya no me despierta la alarma, sino el olorcito a café".
+
+Completan la ficha: apagado automático a los 120 minutos, filtro removible y lavable, válvula antigoteo, visor de nivel de agua, protección contra hervido en seco y jarra y filtro aptos lavavajillas. Potencia de 1.000 W para 1,2 litros: preparación rápida, y una review la destaca además como silenciosa.
+
+## Lo que dicen las 42 calificaciones (incluido el botón que falló)
+
+El desglose: 36 personas pusieron 5 estrellas, 5 pusieron 4 y solo 1 calificó con 3 — sin reviews de 1 ni 2 estrellas. Los elogios: estética ("además de preciosa funciona perfecto"), facilidad de uso y limpieza, velocidad.
+
+La crítica concreta a registrar: una compradora de 4 estrellas cuenta que "al principio no funcionaba el botón de intensidad, casi la devuelvo, pero después funcionó", y de paso aclara que la cafetera "es china, pero la importa Liliana". Caso aislado en el muestreo, pero existe — si te pasa, probá la garantía de Liliana antes de resignarte.
+
+## Contra la Smartlife SL-CM1095 y la Atma CA8133
+
+La competencia directa es la [Smartlife SL-CM1095](/producto/MLA15297115) ($79.999): también digital y programable, con más capacidad (1,5 L contra 1,2 L) y $33.000 más barata — pero con jarra de vidrio y la temperatura como crítica repetida en sus reviews. La AC935 resuelve exactamente eso.
+
+Si el presupuesto manda, la [Atma CA8133](/producto/MLA14735678) ($47.567) es la filtro más probada del catálogo con 879 calificaciones: simple, sin pantalla ni programación, a menos de la mitad de precio. La AC935 es para quien ya decidió pagar por las funciones premium.
+
+## ¿Para quién es la AC935 (y para quién no)?
+
+Es para vos si: tomás café de filtro todos los días, ya rompiste alguna jarra de vidrio (o no querés averiguar cómo se siente), y valorás programación e intensidad regulable. No es para vos si: buscás la filtro más barata posible (Atma CA8133) o necesitás 1,5 litros y preferís ahorrar (Smartlife SL-CM1095).
+
+A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra de acero es de esas decisiones que se agradecen años después.`,
+    specs: [
+      { label: 'Marca / Fabricante', value: 'Liliana SRL' },
+      { label: 'Modelo', value: 'AC935 (línea DripXpert)' },
+      { label: 'Tipo', value: 'Cafetera de filtro digital programable' },
+      { label: 'Capacidad de agua', value: '1,2 L' },
+      { label: 'Jarra', value: 'Térmica de acero inoxidable (no de vidrio)' },
+      { label: 'Potencia', value: '1.000 W' },
+      { label: 'Panel digital', value: 'Sí, 6 funciones: ON/OFF, intensidad, programación, minuto y hora' },
+      { label: 'Programable', value: 'Sí' },
+      { label: 'Selector de intensidad', value: 'Sí' },
+      { label: 'Apagado automático', value: 'Sí, a los 120 minutos' },
+      { label: 'Filtro', value: 'Removible y lavable' },
+      { label: 'Válvula antigoteo', value: 'Sí' },
+      { label: 'Visor de nivel de agua', value: 'Sí' },
+      { label: 'Apto lavavajillas', value: 'Sí (jarra y filtro)' },
+      { label: 'Protección contra hervido en seco', value: 'Sí' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Qué tiene de especial la jarra de la Liliana AC935?', answer: 'Es térmica y de acero inoxidable, la única así entre las cafeteras de filtro del catálogo. No se rompe como el vidrio y conserva la temperatura sin placa calefactora, así que el café no se recalienta ni toma gusto a quemado. Las reviews la señalan como el motivo principal de compra.' },
+      { question: '¿Cuánto tiempo mantiene el café caliente?', answer: 'Una review de 4 estrellas lo mide honesto: a temperatura tomable, unos 40-50 minutos — "la jarra es térmica pero no tanto como un termo". Otras reviews son más optimistas ("me duró hasta la tarde caliente"), pero la expectativa realista es: mucho mejor que una jarra de vidrio, no un termo Stanley.' },
+      { question: '¿Se puede programar para que haga el café sola?', answer: 'Sí: el panel digital de 6 funciones permite dejar programada la hora de preparación. Es una de las funciones más celebradas en las opiniones — "por las mañanas ya no me despierta la alarma, sino el olorcito a café. Fácil de programar, un lujo".' },
+      { question: '¿Qué hace el selector de intensidad?', answer: 'Ajusta la fuerza del café modificando el proceso de preparación, una función poco común en cafeteras de filtro de este rango. Las reviews la valoran ("la opción de intensidad me resulta muy útil"), aunque una compradora reportó que su botón de intensidad falló al principio y después empezó a funcionar normalmente.' },
+      { question: '¿Cuántos pocillos prepara?', answer: 'El tanque es de 1,2 litros, que rinden alrededor de 10-12 pocillos según el tamaño de taza. Es algo menos que las filtro de 1,5 litros del catálogo, como la Smartlife SL-CM1095 o la Atma CA8133, pero suficiente para el desayuno de una familia.' },
+      { question: '¿Es fácil de limpiar?', answer: 'Sí: el filtro es removible y lavable, y tanto la jarra como el filtro son aptos para lavavajillas. Las reviews lo confirman — "muy linda, fácil de armar y limpiar". Suma la válvula antigoteo para servir sin chorrear y la protección contra hervido en seco si te olvidás de cargar agua.' },
+      { question: '¿La Liliana AC935 es industria argentina?', answer: 'No: una compradora lo aclara en su review — "es china, pero la importa Liliana". Liliana es una marca argentina con larga trayectoria en electrodomésticos y respaldo local de garantía y servicio técnico, pero este modelo es de fabricación china, algo habitual en la categoría.' },
+      { question: '¿Conviene esta o la Smartlife SL-CM1095?', answer: 'Las dos son digitales y programables. La Smartlife ($79.999) ofrece 1,5 litros y cuesta menos, pero su crítica repetida es que el café queda tibio y la jarra de vidrio no ayuda. La AC935 ($112.767) resuelve justo eso con la jarra térmica de acero y suma intensidad regulable. Para uso diario intenso, la diferencia se paga sola.' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: 'marzo 2026', useful: 2, text: 'Muy linda. Es china, pero la importa Liliana. Al principio no funcionaba el botón de intensidad, casi la devuelvo, pero después funcionó. Lo lindo es que se programa.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 1, text: 'La cafetera además de preciosa funciona perfecto. Rápida, elegante y con el plus de la jarra metálica que además de mantener la temperatura garantiza su vida útil. Tiene opción de programar la hora para que haga el café. La volvería a comprar.' },
+      { rating: 4, country: 'Argentina', date: 'marzo 2026', useful: 0, text: 'Es de buena calidad acorde al precio. Lo único: el café dura a temperatura tomable en la jarra 40/50 minutos (no mantiene caliente, la jarra es térmica pero no tanto como un termo).' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Lo elegimos por la jarra principalmente (no de vidrio) para mayor durabilidad. Usamos la cafetera casi todos los días y de momento estamos muy conformes.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Por las mañanas ya no me despierta la alarma, sino el olorcito a café. Fácil de programar, un lujo.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Muy buena, rápida, silenciosa y la opción de intensidad del café me resulta muy útil. Lo que esperaba.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Excelente. Hice el café y me duró hasta la tarde caliente sin necesidad de prenderla.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2026', useful: 0, text: 'Fácil de usar y rápida. Muy linda estéticamente. Excelente compra.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera de filtro Liliana AC935 digital con jarra de acero',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_988328-MLA100242892537_122025-F.jpg',
+      description: 'Cafetera de filtro digital programable Liliana AC935: jarra térmica de acero inoxidable de 1,2 litros, panel con 6 funciones, selector de intensidad y apagado automático. 4.8 estrellas con 42 calificaciones en MercadoLibre Argentina.',
+      sku: 'AC935',
+      mpn: 'AC935',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2fbAbdd',
+        priceCurrency: 'ARS',
+        price: 112766.76,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '42',
+      },
+    },
+    relatedProducts: ['MLA15297115', 'MLA14735678'],
   },
   {
     id: 'MLA36409137',
-    title: 'Cafetera espresso Ultracomb CE-6108 roja',
+    title: 'Cafetera express Ultracomb CE-6108 15 bar roja',
     price: 133999,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
@@ -20689,12 +21397,140 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     rating: 4.6,
     reviewCount: 211,
     pastelColor: 'var(--pastel-coral)',
-    description: 'La cafetera espresso Ultracomb CE 6108 está diseñada para preparar café espresso o capuccino en el hogar. Cuenta con contenedor para café molido con capacidad para uno o dos pocillos y una bomba italiana de presión en acero inoxidable de 19 bar. Dispone de tanque de agua desmontable de gran capacidad y boquilla metálica de vapor con regulador de presión. Incorpora indicadores luminosos de…',
+    description: 'Cafetera express Ultracomb CE-6108: el espresso real más barato del catálogo. Bomba de presión de acero inoxidable de 15 bares, boquilla de vapor para espumar leche y capacidad para uno o dos pocillos por extracción. Con 4.6 estrellas en 211 calificaciones, es la puerta de entrada al espresso de verdad por $133.999 — menos de la mitad que una Oster.',
+    aiReviewSummary: 'La describen como económica, robusta y fácil de usar una vez que le encontrás el punto: hay quien la usa a diario en una oficina con varios empleados. Calienta enseguida y saca dos pocillos rápido. Las críticas honestas: no corta sola, la bomba es ruidosa y vibra, las tazas grandes no entran sin sacar la bandeja, y el espumador es difícil de limpiar y espuma menos que otros.',
+    seoTitle: 'Cafetera express Ultracomb CE-6108: ¿el espresso más barato?',
+    metaDescription: 'El espresso más barato del catálogo: Ultracomb CE-6108 a $133.999, 15 bares y 4.6★ en 211 opiniones. Qué hace bien, qué critican y la verdad sobre los bares.',
+    ogTitle: 'Ultracomb CE-6108: espresso con crema en casa sin fundirte',
+    ogDescription: 'Probar espresso real cuesta $133.999 con esta express de 15 bares y 4.6★. Lo que elogian 211 compradores y las mañas que tiene, contado sin vueltas.',
+    h1: 'Cafetera express Ultracomb CE-6108: el espresso real más barato del catálogo',
+    pros: [
+      '4.6⭐ con 211 calificaciones: el espresso más barato del catálogo, probado por cientos',
+      'Bomba de presión de acero inoxidable de 15 bares: espresso con crema de verdad',
+      'Calienta enseguida y saca uno o dos pocillos por vez',
+      'Boquilla de vapor metálica con regulador para espumar leche',
+      'Robusta: una review la usa a diario en una oficina con varios empleados',
+      'Rejilla y bandeja antiderrame desmontables, más recetario incluido',
+    ],
+    cons: [
+      'No corta sola: la extracción la frenás vos',
+      'Las tazas grandes no entran sin sacar la bandeja recolectora',
+      'La bomba es ruidosa y vibra, avisa una review detallada',
+      'El espumador es difícil de limpiar y espuma menos que otros, según un comprador',
+      'Tiene curva de aprendizaje: varias reviews recomiendan leer el manual o ver un video antes del primer café',
+    ],
+    verdict: 'El espresso real más barato del catálogo: 15 bares, espumador y 211 calificaciones por $133.999. Pide paciencia para encontrarle el punto y no corta sola, pero como primera express para probar si el ritual es para vos, es difícil de superar en precio.',
+    articleBody: `## El espresso real más barato del catálogo
+
+La Ultracomb CE-6108 es una cafetera express semiautomática de 15 bares que cuesta $133.999: la forma más barata de hacer espresso de verdad en este catálogo. Junta 4.6 estrellas en 211 calificaciones, prepara uno o dos pocillos por extracción e incluye boquilla de vapor para espumar leche.
+
+## ¿15 o 19 bares? La corrección
+
+La descripción del vendedor habla de "bomba italiana de presión en acero inoxidable de 19 bar", pero la ficha técnica oficial de MercadoLibre dice 15 bar. Quedate con los 15: es el dato de la ficha, y de todas formas es la presión de referencia para espresso doméstico — la misma cifra que la Oster BVSTEM5501B, que cuesta más del doble. Para un espresso con crema, alcanza y sobra.
+
+Lo que sí confirman las dos fuentes: bomba de acero inoxidable, tanque de agua desmontable, boquilla de vapor metálica con regulador de presión e indicadores luminosos de encendido y vapor.
+
+## Qué hace bien: rápida, robusta y aguanta uso intensivo
+
+La review más votada del producto (412 likes) destaca la velocidad: "se preparan rápido porque la cafetera calienta enseguida, lo que también permite sacar de a dos pocillos rápidamente". Y la segunda más votada aporta el dato de durabilidad que pocas express baratas tienen: "la compré porque es la misma que tengo en donde trabajo. La usamos permanentemente y somos varios empleados" — uso intensivo de oficina, no solo el cafecito del domingo.
+
+El espumador cumple para capuchinos caseros: "le doy un uso de todos los días y cumple con todas sus funciones de cafetera y calienta la leche", dice otro comprador.
+
+## Las críticas honestas: ruido, altura y limpieza
+
+De las 211 calificaciones, solo 17 son de 3 estrellas o menos — pero las críticas que hay son concretas. La primera: no corta sola. "La volvería a comprar, lo único malo que tiene es que no corta sola", resume una review de 4 estrellas: la extracción la frenás vos, como en casi todas las express de este rango.
+
+La segunda: la altura. "No tiene altura suficiente como para poner jarros de capuchino ni sacando la bandeja", explica la review más votada — para tazas grandes hay que retirar la bandeja recolectora y devolverla después. La tercera: el mantenimiento. Una review de 4 estrellas confiesa que la dejó de usar porque "es un poco tedioso lavar las partes luego", que colocar el portafiltro "cansa la muñeca" y que "la boquilla que espuma la leche es difícil de limpiar y no espuma mucho como otras cafeteras". Y la bomba, aunque potente, es "un poquito ruidosa y vibradora".
+
+## Tiene curva de aprendizaje (y las reviews lo admiten)
+
+Esto no es una cafetera de apretar un botón: es espresso semiautomático, con portafiltro, dosis y tiempos. Varias reviews lo dicen sin vergüenza: "la primera vez que la usé me estresé un poco, tuve que ver un video en YouTube", cuenta una; "recomiendo previamente ver un video o leer detenidamente el manual para entender su correcto funcionamiento y que el café salga perfecto", aconseja otra. La recompensa, según un comprador de enero 2026: "una vez que le encontrás el punto es bárbara".
+
+Incluye recetario para cafés y capuchinos, cuchara medidora y el espumador. Con eso y dos o tres intentos, el punto aparece.
+
+## Contra las otras express del catálogo
+
+El siguiente escalón es la [Smartlife SL-EC8501](/producto/MLA18562154) ($194.111), y un poco por debajo de esa está la [Liliana express 2 en 1](/producto/MLA62547964) ($174.521), que sube a 20 bares de presión con pantalla digital. Las dos cuestan entre $40.000 y $60.000 más que la Ultracomb.
+
+El salto de marca es la [Oster BVSTEM5501B](/producto/MLA23909880) ($289.999): mismos 15 bares pero con espumador con depósito de leche, estructura de acero y el respaldo de la marca de cafeteras más buscada de Argentina — a más del doble de precio.
+
+## ¿Para quién es la CE-6108 (y para quién no)?
+
+Es para vos si: querés probar el espresso de verdad — con crema, con ritual, con portafiltro — gastando lo mínimo, y no te asusta ver un video de YouTube antes del primer café. A $133.999 con 211 calificaciones, es la entrada más barata y probada a la categoría.
+
+No es para vos si: querés apretar un botón y listo (mirá las cafeteras de cápsulas o las filtro programables), tomás siempre en tazas grandes sin paciencia para sacar la bandeja, o el ruido de la bomba en una cocina abierta te va a molestar. Y si el presupuesto da, la Oster duplica el precio pero suma comodidades.`,
+    specs: [
+      { label: 'Marca', value: 'Ultracomb (línea Hogar)' },
+      { label: 'Modelo', value: 'CE-6108' },
+      { label: 'Tipo', value: 'Express semiautomática (café molido, sin cápsulas)' },
+      { label: 'Presión', value: '15 bar (la descripción del vendedor dice 19; la ficha oficial de ML dice 15)' },
+      { label: 'Bomba', value: 'De presión, en acero inoxidable' },
+      { label: 'Potencia', value: '850 W' },
+      { label: 'Capacidad de agua', value: '1 L, tanque desmontable' },
+      { label: 'Capacidad por extracción', value: '1 o 2 pocillos' },
+      { label: 'Cápsulas compatibles', value: 'No' },
+      { label: 'Emisión de vapor', value: 'Sí, boquilla metálica con regulador de presión' },
+      { label: 'Doble boquilla', value: 'Sí (dos pocillos a la vez)' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Bandeja recolectora removible', value: 'Sí, con rejilla metálica desmontable' },
+      { label: 'Indicador de agua', value: 'Sí (más indicadores luminosos de encendido y vapor)' },
+      { label: 'Tipos de filtros', value: 'Permanente' },
+      { label: 'Accesorios incluidos', value: 'Cuchara, espumador de leche y recetario' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Color', value: 'Rojo' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La CE-6108 tiene 15 o 19 bares?', answer: 'La ficha técnica oficial de MercadoLibre dice 15 bar; la descripción del vendedor dice 19. Quedate con 15, que es el dato de la ficha — y es la misma presión de referencia que máquinas mucho más caras, como la Oster BVSTEM5501B. Para espresso doméstico con crema, 15 bares alcanzan de sobra.' },
+      { question: '¿Corta sola la extracción?', answer: 'No: es semiautomática, así que vos decidís cuándo frenar el café. Una review de 4 estrellas lo marca como su único defecto: "la volvería a comprar, lo único malo que tiene es que no corta sola". Con dos o tres cafés le tomás el tiempo, pero si querés automatización total, no es esta.' },
+      { question: '¿Hace capuchino?', answer: 'Sí: tiene boquilla de vapor metálica con regulador de presión para espumar y calentar leche, e incluye recetario para capuchinos espumosos. La crítica honesta de una review: la boquilla es difícil de limpiar y "no espuma mucho como otras cafeteras". Para capuchinos caseros cumple; para latte art, no.' },
+      { question: '¿Entran tazas grandes abajo del portafiltro?', answer: 'No directamente: la review más votada explica que no tiene altura suficiente para jarros de capuchino. La solución que usan los compradores es sacar la bandeja recolectora para ganar centímetros, o extraer en una jarrita con pico y volcar en la taza grande. Para pocillos y tazas medianas, entra sin problema.' },
+      { question: '¿Usa cápsulas?', answer: 'No: funciona exclusivamente con café molido, con contenedor para uno o dos pocillos. La ficha lo confirma ("cápsulas compatibles: No"). Si buscás la comodidad de las cápsulas, en el catálogo están las Dolce Gusto y Nespresso; si querés el ritual del espresso real, esta es la entrada más barata.' },
+      { question: '¿Es difícil de usar?', answer: 'Tiene curva de aprendizaje, y las reviews lo admiten con humor: "la primera vez que la usé me estresé un poco, tuve que ver un video en YouTube". El consejo repetido: leer el manual o mirar un tutorial antes del primer café. La recompensa, según un comprador: "una vez que le encontrás el punto es bárbara".' },
+      { question: '¿Es ruidosa?', answer: 'La bomba es potente y eso se escucha: "un poquito ruidosa y vibradora", describe la review que la usa a diario en una oficina — y aclara que es precisamente porque es robusta. Son segundos de extracción, no un ruido constante, pero en una cocina abierta de madrugada se nota.' },
+      { question: '¿Aguanta uso intensivo?', answer: 'El mejor dato de durabilidad viene de una review de 5 estrellas: la compró para su casa porque es la misma que usan en su trabajo, "permanentemente y somos varios empleados". Para una express de $133.999, que haya una sobreviviendo al uso de oficina es más valioso que cualquier spec.' },
+      { question: '¿Conviene esta o una express de marca más conocida?', answer: 'Depende del presupuesto. La CE-6108 ($133.999) hace espresso real con 15 bares y 4.6 de rating. La Oster BVSTEM5501B ($289.999) suma espumador con depósito de leche, estructura de acero y marca, a más del doble. Si es tu primera express y no sabés si el ritual es para vos, arrancá barato.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'enero 2018', useful: 412, text: 'La cafetera es excelente. No tiene altura suficiente como para poner jarros de capuchino ni sacando la bandeja para derrames, pero igual se pueden hacer tranquilamente porque se puede poner una jarra con pico para hacer el café y así se agrega el café a los jarros de capuchino. El pico facilita el agregado del café al jarro y siempre queda entre la leche y la espuma. Se preparan rápido porque la cafetera calienta enseguida, lo que también permite sacar de a dos pocillos, jarritos americanos o cualquier taza de esas medidas rápidamente.' },
+      { rating: 5, country: 'Argentina', date: 'agosto 2020', useful: 19, text: 'Económica, robusta y fácil de usar. La compré porque es la misma que tengo en donde trabajo. La usamos permanentemente y somos varios empleados. Su bomba de bares es potente aunque un poquito ruidosa y vibradora, porque precisamente es robusta, y la cafetera tiene un diseño que, en mi opinión, la hace apta para uso intensivo. Si desea colocar una taza grande, como me gusta a mí, se puede retirar la bandeja colectora. Terminado el ciclo de preparación, retire la taza y vuelva a colocar la bandeja. Como siempre recomiendo, lea el manual antes de operar la máquina.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 2, text: 'Me encanta. Es fácil de usar, es recomendable saber un poco sobre cómo preparar café para que salgan ricos. Para el uso diario es muy buena.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2023', useful: 2, text: 'Excelente cafetera. Le doy un uso de todos los días y cumple con todas sus funciones de cafetera y calienta la leche.' },
+      { rating: 4, country: 'Argentina', date: 'noviembre 2024', useful: 1, text: 'La volvería a comprar, lo único malo que tiene es que no corta sola.' },
+      { rating: 5, country: 'Argentina', date: 'agosto 2024', useful: 1, text: 'La verdad es que la primera vez que la usé me estresé un poco, pero bueno, tuve que ver un video en YouTube. Creo que solo es para tacitas pequeñas, no grandes. Nunca usé una, es la primera vez.' },
+      { rating: 4, country: 'Argentina', date: 'enero 2026', useful: 0, text: 'Funciona bien. Después de un tiempo la dejé de usar porque es un poco tedioso lavar las partes luego, y también cansa la muñeca el colocar la pieza. La boquilla que espuma la leche es difícil de limpiar y no espuma mucho como otras cafeteras.' },
+      { rating: 5, country: 'Argentina', date: 'noviembre 2025', useful: 0, text: 'La cafetera cumple perfectamente su función para uso hogareño. Recomiendo previamente ver un video en YouTube o leer detenidamente el manual para entender su correcto funcionamiento y que el café salga perfecto.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera express Ultracomb CE-6108',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_693732-MLA106780579790_022026-F.jpg',
+      description: 'Cafetera express semiautomática Ultracomb CE-6108: bomba de presión de acero inoxidable de 15 bares, boquilla de vapor para espumar leche, tanque desmontable de 1 L y capacidad para 1 o 2 pocillos. 4.6 estrellas con 211 calificaciones en MercadoLibre Argentina.',
+      sku: 'CE-6108',
+      mpn: 'CE6108',
+      brand: { '@type': 'Brand', name: 'Ultracomb' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/11sCGja',
+        priceCurrency: 'ARS',
+        price: 133999,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '211',
+      },
+    },
+    relatedProducts: ['MLA18562154', 'MLA62547964', 'MLA23909880'],
   },
   {
     id: 'MLA62547964',
-    title: 'Cafetera express digital Liliana 2 en 1 20 bar 1200 W',
-    price: 174521,
+    title: 'Cafetera express Liliana AC985 digital 2 en 1 de 20 bar',
+    price: 174521.1,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
     priceStatus: 'fresh',
@@ -20716,7 +21552,134 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     rating: 4.7,
     reviewCount: 49,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera Express Digital 2 En 1 20bar 1200w - Liliana 3 en 1: Compatible para cápsulas y café express. Panel de control digital con LED indicador de funciones. Potente bomba de presión de 20 bar. Caldera de aleación de aluminio fundido a presión. Tanque de agua transparente desmontable de 1.5 Lts. (15 pocillos) Multifiltros de acero inoxidable: Filtro de café express y adaptadores compatibles…',
+    description: 'Cafetera express digital Liliana AC985 2 en 1: hace espresso con café molido y también acepta cápsulas tipo Nespresso mediante su adaptador incluido. Bomba de 20 bares, 1.200 W, tanque de 1,5 litros, vaporizador regulable para espumar leche y panel digital táctil. 4.7 estrellas en 49 calificaciones. Ojo: pese a lo que dice la publicación, no incluye adaptador para Dolce Gusto.',
+    aiReviewSummary: 'Los compradores destacan que el café sale "como de cafetería", que el espumador de leche funciona muy bien y que la doble opción molido/cápsula cumple: "anda re bien de las dos maneras". Las críticas concretas: el modelo actual ya no trae el adaptador para cápsulas grandes tipo Dolce Gusto que traía la versión anterior (aunque la publicación diga "todo tipo de cápsulas"), el teclado táctil tiene detractores, y un par de reviews piden más temperatura en el café y en la leche.',
+    seoTitle: 'Cafetera Liliana 2 en 1: express 20 bar y cápsulas, ¿rinde?',
+    metaDescription: 'Cafetera express Liliana AC985 2 en 1: 20 bares, café molido y cápsulas tipo Nespresso, 4.7★ en 49 opiniones. Qué significa el 2 en 1 exactamente, aclarado acá.',
+    ogTitle: 'Liliana AC985 2 en 1: espresso de 20 bares que también acepta cápsulas Nespresso',
+    ogDescription: 'Café molido o cápsula, vos elegís. 20 bares, espumador y 4.7★. Y la aclaración que la publicación no hace: Dolce Gusto no entra. Todo el detalle acá.',
+    h1: 'Cafetera express Liliana AC985 2 en 1: espresso de 20 bares con café molido o cápsulas tipo Nespresso',
+    pros: [
+      '4.7⭐ con 49 calificaciones y reviews que hablan de "cafés como de cafetería"',
+      '2 en 1 real: portafiltro para café molido + adaptador para cápsulas tipo Nespresso',
+      'Bomba de 20 bares y 1.200 W: más presión que muchas express del doble de precio',
+      'Vaporizador regulable que las reviews elogian: "el espumador de leche excelente"',
+      'Tanque desmontable grande de 1,5 litros (15 pocillos)',
+      'Multifiltros de acero inoxidable y cuchara dosificadora con rasero incluidos',
+    ],
+    cons: [
+      'No trae adaptador para Dolce Gusto, aunque la publicación diga "todo tipo de cápsulas": la versión actual solo incluye el de cápsulas chicas tipo Nespresso',
+      'El teclado táctil es el punto débil según una review de 3 estrellas',
+      'Un par de compradores piden más temperatura: en el café y al calentar la leche',
+      'Bastante plástico en el cuerpo, señalan reviews de 4 estrellas',
+      'La garantía extendida de ML es redundante: la de fábrica ya cubre 2 años, avisa un comprador',
+    ],
+    verdict: 'A $174.521, es la express más versátil de su rango: espresso de 20 bares con café molido y la salida rápida de la cápsula tipo Nespresso para los días sin tiempo. Compra con los ojos abiertos: Dolce Gusto no entra, y el teclado táctil no enamora a todos.',
+    articleBody: `## Qué es exactamente la Liliana 2 en 1
+
+La Liliana AC985 es una cafetera express digital de 20 bares y 1.200 W que cuesta $174.521 y junta 4.7 estrellas en 49 calificaciones. El "2 en 1" significa: hace espresso con café molido (portafiltro clásico) y también acepta cápsulas tipo Nespresso con el adaptador incluido.
+
+## El 2 en 1, aclarado de una vez (porque la publicación confunde)
+
+La descripción oficial llega a decir "3 en 1: compatible para cápsulas y café express", y promete "adaptadores compatibles para todo tipo de cápsulas". Las reviews recientes desmienten la segunda parte: la versión actual trae un solo adaptador de cápsulas, el de cápsulas chicas tipo Nespresso. Un comprador que tiene las dos versiones lo confirma: "compré el año pasado otra igual y venía con un tercer portafiltro para cápsulas más grandes; esta solo trae uno para cápsulas chicas". Otro lo dice sin vueltas: "no trae filtro para Dolce aunque en las especificaciones dice todo tipo de cápsulas; el anterior modelo lo traía. Dice 2 en 1 y 3 en 1, es medio confuso".
+
+Conclusión honesta: comprala como 2 en 1 — café molido + cápsulas tipo Nespresso. Si tu alacena está llena de cápsulas Dolce Gusto, esta máquina no te las va a tomar.
+
+## 20 bares y espumador: el espresso sale bien
+
+Con 20 bares de presión supera la referencia de 15 que usan muchas express más caras, y las opiniones respaldan el resultado: "9/10, saca cafés como de cafetería", "quería que tenga opción de cápsula y anda re bien de las dos maneras". El vaporizador regulable para espumar leche se lleva elogios puntuales: "el espumador de leche excelente".
+
+El tanque desmontable de 1,5 litros (15 pocillos) es generoso para la categoría, y trae multifiltros de acero inoxidable, cuchara dosificadora con rasero, bandeja escurridora extraíble y protección contra sobrecalentamiento y sobrepresión. Un detalle para fans del barismo casero: una compradora asegura que "leyendo el manual y con la práctica, en poco tiempo estás lista para barista".
+
+## Las críticas honestas: teclado, temperatura y plástico
+
+De las 49 calificaciones, 4 son de 3 estrellas y 1 de 2 — y conviene leerlas. La más dura: "no sale bien el café, el teclado táctil es muy malo". Otra de 3 estrellas: "no calienta bien la leche; después lo demás funciona". Y una de 4 que matiza: "estoy aprendiendo a usarla, tengo que conseguir que el café salga más caliente".
+
+Sumale el clásico de la categoría: "buen café, mucho plástico, bien precio calidad", y la advertencia administrativa de un comprador: la garantía de fábrica ya es de 2 años (está impreso en la caja), así que la garantía extendida paga te empieza a correr recién a los 6 meses — la considera plata tirada. Un dato a favor del mismo comprador crítico: su unidad anterior lleva "un año y sin problemas".
+
+## Un error grosero en la ficha de MercadoLibre
+
+Los atributos de ML declaran 220 cm de ancho, 352 cm de profundidad y 372 cm de altura — una cafetera de casi 4 metros que no entraría en tu cocina ni en tu casa. Es un error de carga de unidades: las medidas reales son 22 x 35,2 x 37,2 cm, coherentes con sus 4 kg de peso. Lo corregimos en la ficha de specs de abajo.
+
+## Contra la Smartlife SL-EC8501, la Ultracomb CE-6108 y la Prosteam AC987
+
+En espresso puro y barato, la [Ultracomb CE-6108](/producto/MLA36409137) ($133.999) hace café de 15 bares por $40.000 menos — sin opción de cápsulas ni panel digital. La [Smartlife SL-EC8501](/producto/MLA18562154) ($194.111) juega en el mismo rango de precio con su propia propuesta de express.
+
+Dentro de la misma marca, la [Liliana Prosteam AC987](/producto/MLA70273936) ($222.995) es la línea más nueva: 1.350 W, 5 funciones programadas y calentador de tazas, pero solo café molido — pierde la opción cápsula. Si la cápsula es tu plan B para los días de apuro, la AC985 sigue siendo la jugada.
+
+## ¿Para quién es la AC985 (y para quién no)?
+
+Es para vos si: querés espresso real de 20 bares con café molido pero valorás el comodín de la cápsula tipo Nespresso para la semana, y el espumador de leche te suma para capuchinos. No es para vos si: tus cápsulas son Dolce Gusto (no entran), te irritan los teclados táctiles mañosos, o preferís espresso simple y más barato (Ultracomb CE-6108).
+
+A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que entres sabiendo qué incluye la caja y qué no.`,
+    specs: [
+      { label: 'Marca / Fabricante', value: 'Liliana SRL' },
+      { label: 'Modelo', value: 'AC985' },
+      { label: 'Tipo', value: 'Express digital 2 en 1: café molido + cápsulas tipo Nespresso' },
+      { label: 'Presión', value: '20 bar' },
+      { label: 'Potencia', value: '1.200 W' },
+      { label: 'Capacidad de agua', value: '1,5 L (15 pocillos), tanque transparente desmontable' },
+      { label: 'Cápsulas compatibles', value: 'Tipo Nespresso (NO incluye adaptador Dolce Gusto, pese a lo que dice la publicación)' },
+      { label: 'Filtros', value: 'Multifiltros de acero inoxidable: café molido + adaptador de cápsulas' },
+      { label: 'Vaporizador', value: 'Regulable, para espumar leche o calentar líquidos' },
+      { label: 'Panel', value: 'Digital táctil con LED indicador de funciones' },
+      { label: 'Caldera', value: 'Aleación de aluminio fundido a presión' },
+      { label: 'Doble boquilla', value: 'Sí (dos pocillos a la vez)' },
+      { label: 'Seguridad', value: 'Protección contra sobrecalentamiento y sobrepresión' },
+      { label: 'Accesorios', value: 'Cuchara dosificadora con rasero, bandeja escurridora extraíble' },
+      { label: 'Dimensiones', value: '22 x 35,2 x 37,2 cm (la ficha de ML dice metros por error de carga)' },
+      { label: 'Peso', value: '4 kg' },
+      { label: 'Garantía', value: '2 años de fábrica' },
+      { label: 'Color', value: 'Negro con aplicaciones de acero inoxidable' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Qué significa el "2 en 1" de la Liliana AC985?', answer: 'Que prepara espresso de dos maneras: con café molido en el portafiltro clásico, o con cápsulas tipo Nespresso usando el adaptador incluido. Una review lo resume: "quería que tenga opción de cápsula y anda re bien de las dos maneras". La publicación a veces dice "3 en 1", pero la versión actual incluye un solo adaptador de cápsulas.' },
+      { question: '¿Acepta cápsulas Dolce Gusto?', answer: 'No, y es la aclaración más importante de esta ficha. Aunque la descripción diga "todo tipo de cápsulas", las reviews recientes confirman que la versión actual solo trae el adaptador para cápsulas chicas tipo Nespresso. El modelo anterior incluía un tercer portafiltro para cápsulas grandes; este ya no. Si usás Dolce Gusto, no es tu máquina.' },
+      { question: '¿El café sale como de cafetería de verdad?', answer: 'Las reviews positivas lo afirman con esas palabras: "9/10, saca cafés como de cafetería". Los 20 bares de presión superan el estándar de 15 de la categoría. Pero hay matices honestos: una review de 3 estrellas dice que el café no le sale bien, y otra de 4 está peleando para que salga más caliente. La curva de aprendizaje existe.' },
+      { question: '¿Cómo funciona el espumador de leche?', answer: 'Es un vaporizador regulable de tipo clásico: lo sumergís en la jarra de leche y espumás a mano. Las reviews lo elogian ("el espumador de leche excelente"), aunque una de 3 estrellas se queja de que no calienta bien la leche. No es automático como el de las express con depósito de leche — requiere un mínimo de práctica.' },
+      { question: '¿Cuál es el problema del teclado táctil?', answer: 'Una review de 3 estrellas es lapidaria: "el teclado táctil es muy malo". Es la crítica más puntual del muestreo y no se repite masivamente, pero existe. El panel digital con LED funciona bien para la mayoría; si sos de los que odian los táctiles caprichosos, tenelo presente antes de comprar.' },
+      { question: '¿Conviene pagar la garantía extendida?', answer: 'Un comprador con dos unidades dice que no: la garantía de fábrica de Liliana ya es de 2 años (impreso en la caja), y la protección adicional paga recién empieza a correr a los 6 meses — pagás cobertura que ya tenés. Su dato de durabilidad es alentador: su primera unidad lleva un año de uso sin problemas.' },
+      { question: '¿Qué tan grande es? ¿Las medidas de ML son correctas?', answer: 'La ficha de MercadoLibre tiene un error grosero: declara 220 x 352 x 372 centímetros, casi 4 metros de cafetera. Las medidas reales son 22 cm de ancho, 35,2 de profundidad y 37,2 de alto, con 4 kg de peso — una express de tamaño normal que entra en cualquier mesada.' },
+      { question: '¿Cuántos cafés salen con el tanque lleno?', answer: 'El tanque desmontable de 1,5 litros rinde unos 15 pocillos de espresso según el fabricante. Es de los más grandes de la categoría: cargás agua una vez y tenés para varios días de cafés individuales, o para una ronda completa cuando cae gente a casa.' },
+      { question: '¿Conviene esta o la Liliana Prosteam AC987?', answer: 'Depende de las cápsulas. La AC985 ($174.521) es 2 en 1: molido + cápsulas tipo Nespresso, con 49 calificaciones que la respaldan. La Prosteam AC987 ($222.995) es la línea más nueva, con 1.350 W, funciones programadas y calentador de tazas, pero solo acepta café molido y su publicación todavía no tiene calificaciones. Si querés el comodín cápsula, AC985.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 3, text: 'Compré el año pasado otra igual y venía con un tercer portafiltro para cápsulas más grandes. Esta solo trae uno para cápsulas chicas, que no son las mejores. Mi duda es si esta viene con un faltante, no me pude comunicar con el vendedor: solo trajo uno para cápsulas y el otro para café exprés.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 1, text: 'Hermosa estéticamente. Leyendo el manual y con la práctica, en poco tiempo estás lista para barista.' },
+      { rating: 4, country: 'Argentina', date: 'abril 2026', useful: 1, text: '9/10: saca cafés como de cafetería, el espumador de leche excelente. Anda bien relacionando costo y calidad.' },
+      { rating: 3, country: 'Argentina', date: 'junio 2026', useful: 0, text: 'No compren garantía extendida: la garantía de fábrica dice dos años, está impreso en la caja también, y si tomás protección adicional te empieza a correr a los 6 meses, con lo cual pagás algo que ya tiene garantía. No trae filtro para Dolce aunque en las especificaciones dice todo tipo de cápsulas; el anterior modelo lo traía. Dice 2 en 1 y 3 en 1, es medio confuso. La máquina anda bien: la otra que compré la tengo hace un año y sin problemas.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 0, text: '100% recomendable. Sencilla y rápida de usar. Quería que tenga opción de cápsula y anda re bien de las dos maneras.' },
+      { rating: 4, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Buen café, mucho plástico, bien precio calidad.' },
+      { rating: 4, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Estoy aprendiendo a usarla, tengo que conseguir que el café salga más caliente. No sé si es así o hay algo que todavía no aprendí.' },
+      { rating: 3, country: 'Argentina', date: 'marzo 2026', useful: 0, text: 'No sale bien el café. El teclado táctil es muy malo.' },
+      { rating: 3, country: 'Argentina', date: 'marzo 2026', useful: 0, text: 'Zafa, me arrepentí de comprarla: no calienta bien la leche. Después lo demás funciona.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera express Liliana AC985 digital 2 en 1 de 20 bar',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_725326-MLA99126509940_112025-F.jpg',
+      description: 'Cafetera express digital Liliana AC985 2 en 1: espresso con café molido o cápsulas tipo Nespresso, bomba de 20 bares, 1.200 W, tanque de 1,5 litros y vaporizador para espumar leche. 4.7 estrellas con 49 calificaciones en MercadoLibre Argentina.',
+      sku: 'AC985',
+      mpn: 'AC985',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2t3mqay',
+        priceCurrency: 'ARS',
+        price: 174521.1,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '49',
+      },
+    },
+    relatedProducts: ['MLA18562154', 'MLA36409137', 'MLA70273936'],
   },
   {
     id: 'MLA18562154',
@@ -20878,7 +21841,7 @@ A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en
   },
   {
     id: 'MLA70273936',
-    title: 'Cafetera express digital Liliana Prosteam AC987',
+    title: 'Cafetera express Liliana Prosteam AC987 digital de 20 bar',
     price: 222995,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
@@ -20898,12 +21861,123 @@ A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en
     freeShipping: true,
     brand: 'Liliana',
     pastelColor: 'var(--pastel-coral)',
-    description: 'CAFETERA EXPRESS DIGITAL LILIANA PROSTEAM AC987 DATOS TÉCNICOS - Potencia: 1350 W - Bomba de presión: 20 bar - Capacidad del tanque: 1.5 L (15 pocillos) - Tipo de café compatible: Café molido - Multifiltros de acero inoxidable: Filtro para 1 o 2 tazas - Vaporizador regulable ideal para espumar leche o calentar líquidos - Panel de control digital - 5 funciones: Americano, espresso frío, espresso…',
+    description: 'Cafetera express digital Liliana Prosteam AC987: la línea express nueva de la marca, con bomba de 20 bares, 1.350 W y panel digital con 5 funciones programadas — americano, espresso frío y espresso de 1 o 2 tazas, más espumador. Tanque de 1,5 litros, calentador de tazas y vaporizador regulable. Publicación reciente: todavía no tiene calificaciones de compradores.',
+    seoTitle: 'Cafetera Liliana Prosteam AC987: la express digital nueva',
+    metaDescription: 'Cafetera express digital Liliana Prosteam AC987: 20 bares, 1.350 W y 5 funciones programadas. Publicación nueva sin calificaciones: qué ofrece, sin verso.',
+    ogTitle: 'Liliana Prosteam AC987: espresso con funciones programadas, hasta café frío',
+    ogDescription: 'La línea express nueva de Liliana: 20 bares, 1.350 W, espresso frío y calentador de tazas. Sin reviews todavía — te contamos lo que las specs sí dicen.',
+    h1: 'Cafetera Liliana Prosteam AC987: la express digital nueva con 5 funciones programadas y espresso frío',
+    pros: [
+      'Bomba de 20 bares y 1.350 W: más potencia que casi todas las express del catálogo',
+      '5 funciones programadas con corte automático: americano, espresso frío y espresso de 1 o 2 tazas',
+      'Espresso frío de fábrica: función poco común, ideal para el verano',
+      'Calentador de tazas integrado, el truco clásico contra el café tibio',
+      'Tanque grande de 1,5 litros (15 pocillos) y vaporizador regulable para espumar leche',
+      'Fabricada en Argentina, con garantía y servicio técnico local de Liliana',
+    ],
+    cons: [
+      'Esta publicación todavía no tiene calificaciones: nadie contó aún cómo rinde en la vida real',
+      'Solo café molido: no acepta cápsulas, a diferencia de la Liliana 2 en 1 más barata',
+      'Sin dispositivo antigoteo según la ficha técnica',
+      'El espumado de leche es manual con vaporizador: capuchinos con técnica, no con un botón',
+    ],
+    verdict: 'La renovación de la línea express de Liliana: 20 bares, funciones programadas que cortan solas y hasta espresso frío, fabricada en Argentina. Lo único que le falta es historia: sin calificaciones todavía, comprás specs y reputación de marca, no experiencia ajena.',
+    articleBody: `## La express nueva de Liliana
+
+La Prosteam AC987 es la cafetera express digital de la línea actual de Liliana: cuesta $222.995, tiene bomba de 20 bares, 1.350 W y panel digital con 5 funciones programadas. Es una publicación reciente y todavía no tiene calificaciones — acá te contamos qué ofrece según sus especificaciones, sin inventar opiniones.
+
+## Lo primero: honestidad sobre las reviews
+
+Esta publicación no tiene calificaciones de compradores todavía. No podemos contarte si el café sale caliente, si el táctil responde bien ni cuánto dura, porque nadie lo contó aún. Lo que sí existe: la reputación de Liliana, marca argentina con décadas en electrodomésticos y servicio técnico local, y el historial de la generación anterior de esta misma línea — la AC985 2 en 1 acumula 4.7 estrellas con 49 calificaciones. Es un respaldo indirecto, no una garantía de este modelo.
+
+## 5 funciones programadas: apretás y la máquina corta sola
+
+El diferencial frente a las express semiautomáticas clásicas está en el panel: americano, espresso frío, espresso de 1 taza, espresso de 2 tazas y espumador. Las funciones de café están programadas — la máquina dosifica y corta sola, sin que tengas que frenar la extracción a ojo, que es el reclamo típico contra las express de entrada.
+
+La función más llamativa es el espresso frío: extracción pensada para café con hielo, algo que casi ninguna express del catálogo ofrece de fábrica y que en el verano argentino tiene más sentido del que parece.
+
+## 20 bares, 1.350 W y calentador de tazas
+
+La ficha técnica es generosa para el precio: bomba de presión de 20 bares (sobre el estándar de 15), 1.350 W de potencia — la más alta de las express del catálogo junto a su hermana Latesense —, tanque transparente desmontable de 1,5 litros (15 pocillos) y multifiltros de acero inoxidable para 1 o 2 tazas.
+
+Suma el calentador de tazas en la parte superior: el truco clásico de cafetería para que el espresso no pierda temperatura al tocar la porcelana fría. Detalle no menor cuando la queja más repetida en toda la categoría es justamente el café tibio. Completan: vaporizador regulable para espumar leche, protección contra sobrecalentamiento y sobrepresión, bandeja extraíble y cuchara dosificadora con rasero. Origen: Argentina.
+
+## Lo que no tiene, dicho claro
+
+Solo trabaja con café molido: no acepta cápsulas de ningún tipo. El espumado de leche es manual con vaporizador — funciona, pero requiere técnica; si querés capuchino con un botón, esa es la Latesense AC991, su hermana mayor. La ficha también declara que no tiene dispositivo antigoteo ni limpieza automática.
+
+Y el punto ya dicho que vale repetir antes de gastar $222.995: cero calificaciones. Si preferís comprar con cientos de opiniones leídas, este modelo todavía no te puede dar eso.
+
+Un detalle de la ficha de ML que conviene interpretar: los atributos dicen "capacidad de tazas: 2", pero se refiere a los 2 espressos simultáneos de la doble boquilla, no a la capacidad total — el tanque de 1,5 litros rinde unos 15 pocillos según el propio fabricante.
+
+## Contra la Latesense AC991 y la Liliana 2 en 1
+
+Dentro de la misma línea nueva, la [Liliana Latesense AC991](/producto/MLA70275635) ($272.544) es el paso siguiente: suma depósito de leche de 700 mL y prepara capuchino y latte automáticos con un toque, a cambio de un tanque más chico (1 litro) y $50.000 más.
+
+Hacia abajo, la [Liliana express 2 en 1](/producto/MLA62547964) ($174.521) es la generación anterior: 20 bares, 1.200 W y la flexibilidad de aceptar cápsulas tipo Nespresso además de molido — con 49 calificaciones y 4.7 estrellas que la Prosteam todavía no puede mostrar. Si la falta de reviews te frena, la 2 en 1 es la opción probada de la marca.
+
+## ¿Para quién es la Prosteam AC987 (y para quién no)?
+
+Es para vos si: querés espresso de café molido con dosificación automática (nada de cortar a ojo), te tienta el espresso frío, y confiás en una marca argentina con servicio técnico local aunque el modelo sea nuevo. No es para vos si: necesitás el comodín de las cápsulas (Liliana 2 en 1), querés latte automático sin técnica (Latesense AC991), o no comprás nada sin leer antes cien opiniones.
+
+A $222.995, pagás specs de gama media-alta y línea nueva. El primer lote de reviews dirá si la promesa se cumple — por ahora, esta publicación todavía no tiene calificaciones y lo decimos tal cual.`,
+    specs: [
+      { label: 'Marca / Fabricante', value: 'Liliana SRL' },
+      { label: 'Modelo', value: 'AC987 (línea Prosteam)' },
+      { label: 'Tipo', value: 'Express digital semiautomática, solo café molido (sin cápsulas)' },
+      { label: 'Presión', value: '20 bar' },
+      { label: 'Potencia', value: '1.350 W' },
+      { label: 'Capacidad de agua', value: '1,5 L (15 pocillos)' },
+      { label: 'Funciones', value: '5 programadas: americano, espresso frío, espresso 1 o 2 tazas, espumador' },
+      { label: 'Bebidas recomendadas', value: 'Espresso, americano, espresso frío, capuchino y latte (espumando a mano)' },
+      { label: 'Vaporizador', value: 'Regulable, para espumar leche o calentar líquidos' },
+      { label: 'Calentador de tazas', value: 'Sí' },
+      { label: 'Doble boquilla', value: 'Sí (2 espressos a la vez)' },
+      { label: 'Filtros', value: 'Multifiltros de acero inoxidable para 1 o 2 tazas' },
+      { label: 'Panel', value: 'Digital' },
+      { label: 'Seguridad', value: 'Protección contra sobrecalentamiento y sobrepresión' },
+      { label: 'Accesorios', value: 'Cuchara dosificadora con rasero, bandeja escurridora extraíble' },
+      { label: 'Dimensiones', value: '16 cm ancho x 31 cm profundidad x 31 cm alto' },
+      { label: 'Peso', value: '4 kg' },
+      { label: 'Origen', value: 'Argentina' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Liliana Prosteam AC987 tiene opiniones de compradores?', answer: 'Todavía no: es una publicación reciente de la línea nueva de Liliana y no tiene calificaciones. Lo decimos sin vueltas porque preferimos eso a inventar opiniones. Lo que sí hay es el historial de la marca y de la generación anterior (la AC985 2 en 1, con 4.7 estrellas en 49 calificaciones) como referencia indirecta.' },
+      { question: '¿Corta sola la extracción o hay que frenarla a mano?', answer: 'Las funciones de café están programadas: elegís americano, espresso frío o espresso de 1 o 2 tazas en el panel digital, y la máquina dosifica y corta sola. Es el diferencial frente a las express semiautomáticas clásicas de su rango, donde el corte a ojo es el reclamo más común.' },
+      { question: '¿Qué es la función de espresso frío?', answer: 'Una extracción pensada para preparar café destinado a bebidas frías, directamente desde el panel. Casi ninguna express del catálogo la trae de fábrica: lo habitual es extraer espresso caliente y enfriarlo con hielo, aguándolo. Para los meses de calor es una función con más uso real del que parece.' },
+      { question: '¿Acepta cápsulas?', answer: 'No: la Prosteam AC987 trabaja exclusivamente con café molido, con multifiltros de acero inoxidable para 1 o 2 tazas. Si querés la flexibilidad de cápsulas tipo Nespresso además del molido, la opción dentro de la marca es la Liliana express 2 en 1 (AC985), que además cuesta unos $48.000 menos.' },
+      { question: '¿Hace capuchino y latte?', answer: 'Sí, pero a mano: el vaporizador regulable espuma la leche con la técnica clásica de jarra, no automáticamente. Si querés capuchino o latte con un toque de botón y depósito de leche integrado, ese es el terreno de su hermana mayor, la Liliana Latesense AC991, que cuesta unos $50.000 más.' },
+      { question: '¿Para qué sirve el calentador de tazas?', answer: 'Es la superficie superior de la máquina que precalienta las tazas antes de extraer. El espresso pierde temperatura rapidísimo al tocar porcelana fría, y el café tibio es la queja número uno en toda la categoría de cafeteras. Que venga de fábrica es un punto a favor concreto de este modelo.' },
+      { question: '¿Cuántos cafés rinde el tanque?', answer: 'El tanque desmontable de 1,5 litros rinde unos 15 pocillos según Liliana. El atributo de ML que dice "capacidad de tazas: 2" se refiere a otra cosa: la doble boquilla permite extraer hasta 2 espressos simultáneos. Cargás agua una vez y tenés espresso para varios días.' },
+      { question: '¿Es industria argentina?', answer: 'Sí: la ficha oficial declara origen Argentina, algo poco común en la categoría (la mayoría de las express del mercado son de fabricación china, incluso las de marcas locales). Suma el respaldo de Liliana, marca argentina con servicio técnico local y garantía de fábrica.' },
+      { question: '¿Conviene esta o la Liliana 2 en 1 que es más barata?', answer: 'La 2 en 1 (AC985, $174.521) tiene a favor las 49 calificaciones con 4.7 estrellas y el comodín de las cápsulas tipo Nespresso. La Prosteam ($222.995) suma potencia (1.350 W contra 1.200), funciones programadas con corte automático, espresso frío y calentador de tazas, pero sin reviews todavía. Probada y flexible contra nueva y más completa: esa es la decisión.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera express Liliana Prosteam AC987 digital de 20 bar',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_750090-MLA111236563934_052026-F.jpg',
+      description: 'Cafetera express digital Liliana Prosteam AC987: bomba de 20 bares, 1.350 W, 5 funciones programadas (americano, espresso frío, espresso 1 o 2 tazas, espumador), tanque de 1,5 litros y calentador de tazas. Fabricada en Argentina.',
+      sku: 'AC987',
+      mpn: 'AC987',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2E1zVUz',
+        priceCurrency: 'ARS',
+        price: 222995,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+    },
+    relatedProducts: ['MLA70275635', 'MLA62547964'],
   },
   {
     id: 'MLA70275635',
-    title: 'Cafetera express digital Liliana Latesense AC991',
-    price: 272544,
+    title: 'Cafetera express Liliana Latesense AC991 con latte automático',
+    price: 272544.1,
     priceUpdated: '2026-06-09',
     priceLastChecked: '2026-06-09',
     priceStatus: 'fresh',
@@ -20923,7 +21997,117 @@ A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en
     freeShipping: true,
     brand: 'Liliana',
     pastelColor: 'var(--pastel-coral)',
-    description: 'CAFETERA EXPRESS DIGITAL LILIANA LATESENSE AC991 DATOS TÉCNICOS - Potencia: 1350 W - Bomba de presión: 20 bar - Capacidad de tanque de agua: 1 L (10 pocillos) - Capacidad de depósito leche: 700 ml - Multifiltros de acero inoxidable: Filtro para 1 o 2 tazas - Vaporizador regulable ideal para espumar leche o calentar líquidos - Panel de control digital - 6 funciones: Espresso, cappuccino y latte…',
+    description: 'Cafetera express digital Liliana Latesense AC991: el tope de la línea express nueva de Liliana, con capuchino y latte automáticos gracias a su depósito de leche de 700 mL. Bomba de 20 bares, 1.350 W y 6 funciones con un toque: espresso, capuchino y latte, simples o dobles. Publicación reciente: todavía no tiene calificaciones de compradores.',
+    seoTitle: 'Cafetera Liliana Latesense AC991: latte con un solo toque',
+    metaDescription: 'Cafetera express Liliana Latesense AC991: capuchino y latte automáticos con depósito de leche de 700 mL, 20 bares. Sin calificaciones aún: specs y comparativa.',
+    ogTitle: 'Liliana Latesense AC991: capuchino y latte apretando un botón, sin técnica',
+    ogDescription: 'El tope de la línea express de Liliana: depósito de leche de 700 mL, 6 funciones automáticas y 20 bares. Sin reviews todavía — lo que las specs sí garantizan.',
+    h1: 'Cafetera Liliana Latesense AC991: el tope de la línea express con capuchino y latte automáticos',
+    pros: [
+      'Capuchino y latte automáticos: depósito de leche de 700 mL y un toque de botón, sin técnica de barista',
+      '6 funciones: espresso, capuchino y latte, cada uno simple o doble',
+      'Bomba de 20 bares y 1.350 W: la potencia más alta de la línea',
+      'Calentador de tazas integrado contra el clásico café tibio',
+      'Depósito de leche y tanque transparentes y desmontables, fáciles de limpiar',
+      'Fabricada en Argentina, con garantía y servicio técnico local de Liliana',
+    ],
+    cons: [
+      'Esta publicación todavía no tiene calificaciones: nadie contó aún cómo rinde en la vida real',
+      'Tanque de agua de 1 litro, el más chico de la línea (10 pocillos)',
+      'Solo café molido: no acepta cápsulas de ningún tipo',
+      'Sin dispositivo antigoteo según la ficha técnica',
+      'Es la express más cara de Liliana: pagás la automatización de la leche',
+    ],
+    verdict: 'Para quien toma más lattes que espressos, la automatización de la leche es el diferencial real: 700 mL de depósito y un botón hacen lo que en otras máquinas exige técnica y paciencia. La contra honesta: a $272.544 todavía no tiene ni una calificación que respalde la promesa.',
+    articleBody: `## El tope de la línea express de Liliana
+
+La Latesense AC991 es la express digital más completa de Liliana: cuesta $272.544 y su diferencial es el depósito de leche de 700 mL que prepara capuchino y latte automáticos con un toque. Bomba de 20 bares, 1.350 W, 6 funciones. Publicación reciente: todavía no tiene calificaciones, y te lo decimos de entrada.
+
+## Sin reviews todavía: qué significa para tu decisión
+
+Esta publicación no tiene calificaciones de compradores. No hay experiencia ajena que te cuente si la espuma sale cremosa, si el sistema de leche se tapa o cuánto dura. Lo que existe como referencia: Liliana es una marca argentina con décadas de trayectoria y servicio técnico local, y su express anterior — la AC985 2 en 1 — acumula 4.7 estrellas en 49 calificaciones. Eso habla bien de la marca, no de este modelo puntual. Con esa carta sobre la mesa, vamos a lo que las especificaciones sí dicen.
+
+## Latte y capuchino con un botón: el diferencial real
+
+En una express común, el capuchino es un proceso: extraer el espresso, llenar la jarra de leche, espumar con el vaporizador a pulso, integrar. La Latesense lo reduce a un toque: el depósito de leche de 700 mL está integrado a la máquina, y el panel digital ofrece 6 funciones — espresso, capuchino y latte, cada uno en versión simple o doble. La máquina extrae el café y agrega la leche espumada sola, en el orden y la proporción que corresponde.
+
+Es la diferencia entre "tengo una cafetera que puede hacer capuchino si aprendo" y "apreto capuchino y sale capuchino". Para la casa donde el latte es el pedido de todas las mañanas, es exactamente la función por la que se paga.
+
+## 20 bares, 1.350 W y los detalles que suman
+
+La base espresso es seria: bomba de 20 bares (sobre el estándar de 15) y 1.350 W de potencia, la más alta del catálogo de express junto a su hermana Prosteam. Trae multifiltros de acero inoxidable para 1 o 2 tazas, vaporizador regulable por si querés espumar a mano igual, calentador de tazas y protección contra sobrecalentamiento y sobrepresión.
+
+Tanto el tanque de agua como el depósito de leche son transparentes y desmontables — clave en una máquina con circuito de leche, que exige limpieza disciplinada para no acumular residuos. Origen: Argentina, con la garantía local de Liliana.
+
+## Las limitaciones, dichas claro
+
+El tanque de agua es de 1 litro (10 pocillos): el más chico de la línea, justamente porque el espacio se lo lleva el depósito de leche. Solo acepta café molido — nada de cápsulas. No tiene dispositivo antigoteo según la ficha. Y el precio: $272.544 la ubican como la express más cara de Liliana, a $17.000 del territorio de marcas internacionales como Oster.
+
+La aclaración de ficha de siempre: el atributo de ML "capacidad de tazas: 2" no es la capacidad total, sino los 2 cafés simultáneos que permite la doble boquilla.
+
+## Contra la Prosteam AC987 y la Oster BVSTEM5501B
+
+Dentro de la misma línea, la [Liliana Prosteam AC987](/producto/MLA70273936) ($222.995) cuesta $50.000 menos y tiene más tanque (1,5 litros) y la curiosa función de espresso frío — pero la leche se espuma a mano. Si tomás más espresso y americano que lattes, la Prosteam rinde más por peso.
+
+El cruce interesante es la [Oster BVSTEM5501B](/producto/MLA23909880) ($289.999): cuesta $17.000 más, tiene depósito de leche de 250 mL con espumador y, sobre todo, 4.7 estrellas con 402 calificaciones — la experiencia real que a la Latesense le falta. A cambio, la Oster es de 15 bares, no corta sola la extracción y su espumador es señalado como incómodo en las reviews. Automatización nueva sin historial contra marca probada con mañas conocidas.
+
+## ¿Para quién es la Latesense AC991 (y para quién no)?
+
+Es para vos si: tu bebida es el latte o el capuchino (no el espresso corto), querés apretar un botón y no aprender a espumar, y aceptás estrenar un modelo sin reviews respaldado por una marca argentina con servicio técnico. No es para vos si: tomás espresso puro (la Prosteam te da más por menos), necesitás cápsulas (Liliana 2 en 1), o solo comprás con cientos de opiniones leídas — en ese caso la Oster 5501 es el camino probado.
+
+A $272.544, es una apuesta razonada: pagás la automatización de la leche y confiás en la marca. Esta publicación todavía no tiene calificaciones, y preferimos decírtelo a venderte certezas que no existen.`,
+    specs: [
+      { label: 'Marca / Fabricante', value: 'Liliana SRL' },
+      { label: 'Modelo', value: 'AC991 (línea Latesense)' },
+      { label: 'Tipo', value: 'Express digital con sistema de leche automático, solo café molido' },
+      { label: 'Presión', value: '20 bar' },
+      { label: 'Potencia', value: '1.350 W' },
+      { label: 'Capacidad de agua', value: '1 L (10 pocillos)' },
+      { label: 'Depósito de leche', value: '700 mL, transparente y desmontable' },
+      { label: 'Funciones', value: '6: espresso, capuchino y latte — simples o dobles' },
+      { label: 'Bebidas recomendadas', value: 'Espresso, capuchino, latte' },
+      { label: 'Vaporizador', value: 'Regulable, para espumar leche o calentar líquidos' },
+      { label: 'Calentador de tazas', value: 'Sí' },
+      { label: 'Doble boquilla', value: 'Sí (2 cafés a la vez)' },
+      { label: 'Filtros', value: 'Multifiltros de acero inoxidable para 1 o 2 tazas' },
+      { label: 'Panel', value: 'Digital' },
+      { label: 'Seguridad', value: 'Protección contra sobrecalentamiento y sobrepresión' },
+      { label: 'Accesorios', value: 'Cuchara dosificadora con rasero, bandeja escurridora extraíble' },
+      { label: 'Dimensiones', value: '21,5 cm ancho x 32,5 cm alto x 27,5 cm profundidad' },
+      { label: 'Peso', value: '4,2 kg' },
+      { label: 'Origen', value: 'Argentina' },
+    ],
+    faq: [
+      { question: '¿La Liliana Latesense AC991 tiene opiniones de compradores?', answer: 'Todavía no: es una publicación reciente y no tiene calificaciones. Preferimos decirlo claro antes que inventar opiniones. Como referencia indirecta está la trayectoria de Liliana en Argentina y el 4.7 con 49 calificaciones de su express anterior, la AC985 — pero de este modelo puntual aún no hay experiencia publicada.' },
+      { question: '¿Cómo funciona el capuchino automático?', answer: 'Cargás leche en el depósito integrado de 700 mL, elegís capuchino o latte en el panel (simple o doble) y la máquina hace todo: extrae el espresso y agrega la leche espumada en la proporción correspondiente. No hay jarra, vaporizador a pulso ni técnica que aprender — esa es exactamente la diferencia con las express comunes.' },
+      { question: '¿Qué diferencia hay entre la Latesense y la Prosteam AC987?', answer: 'La Latesense ($272.544) automatiza la leche: depósito de 700 mL y capuchino o latte con un botón, con tanque de agua de 1 litro. La Prosteam ($222.995) no tiene sistema de leche automático pero suma tanque de 1,5 litros y función de espresso frío. Si tu bebida diaria lleva leche, Latesense; si es espresso o americano, Prosteam.' },
+      { question: '¿Cuántos cafés rinde el tanque de agua?', answer: 'El tanque es de 1 litro, unos 10 pocillos según el fabricante — el más chico de la línea express de Liliana, porque el espacio interno se reparte con el depósito de leche de 700 mL. El atributo de ML "capacidad de tazas: 2" se refiere a los 2 cafés simultáneos de la doble boquilla, no a la capacidad total.' },
+      { question: '¿Acepta cápsulas?', answer: 'No: trabaja exclusivamente con café molido, usando multifiltros de acero inoxidable para 1 o 2 tazas. Dentro de Liliana, el modelo que combina café molido con cápsulas tipo Nespresso es la express 2 en 1 (AC985), que cuesta casi $100.000 menos pero no tiene nada automatizado en la leche.' },
+      { question: '¿Es complicada de limpiar por el circuito de leche?', answer: 'Las máquinas con sistema de leche exigen más disciplina de limpieza que una express común: los restos de leche son el enemigo. A favor de la AC991, tanto el tanque de agua como el depósito de leche son transparentes y desmontables, lo que simplifica el enjuague diario. La ficha aclara que no tiene función de limpieza automática.' },
+      { question: '¿El depósito de leche se puede guardar en la heladera?', answer: 'La ficha oficial no lo especifica, así que no lo podemos afirmar. Lo que sí confirma es que el depósito de 700 mL es desmontable y transparente. Hasta que haya manual público o reviews que lo confirmen, asumí que la práctica segura es cargar la leche que vas a usar y enjuagar el depósito después de cada uso.' },
+      { question: '¿Es industria argentina?', answer: 'Sí: la ficha oficial declara origen Argentina, igual que su hermana Prosteam — algo poco frecuente en la categoría, donde domina la fabricación china. Suma el respaldo local de Liliana: garantía de fábrica y red de servicio técnico en el país, un punto relevante en una máquina con sistema de leche que puede requerir mantenimiento.' },
+      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'Son apuestas opuestas. La Oster ($289.999) tiene 402 calificaciones con 4.7 estrellas: sabés exactamente qué comprás, incluidas sus mañas (no corta sola, espumador incómodo, 15 bares). La Latesense ($272.544) ofrece más presión, corte automático y latte con un botón, pero sin ninguna review todavía. Certeza probada contra specs superiores: depende de tu tolerancia a estrenar.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera express Liliana Latesense AC991 con latte automático',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_761176-MLA112258790315_052026-F.jpg',
+      description: 'Cafetera express digital Liliana Latesense AC991: capuchino y latte automáticos con depósito de leche de 700 mL, bomba de 20 bares, 1.350 W y 6 funciones (espresso, capuchino y latte, simples o dobles). Fabricada en Argentina.',
+      sku: 'AC991',
+      mpn: 'AC991',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1TD95w9',
+        priceCurrency: 'ARS',
+        price: 272544.1,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+    },
+    relatedProducts: ['MLA70273936', 'MLA23909880'],
   },
   {
     id: 'MLA15705813',
@@ -21102,7 +22286,113 @@ A $155.132 con 4.8 estrellas y 8.392 votos, es la compra más segura del catálo
     freeShipping: true,
     brand: 'Nespresso',
     pastelColor: 'var(--pastel-coral)',
-    description: 'Desde hace más de 30 años Nespresso, es una marca emblemática en concepto de café expresso perfecto. Comercializa productos con características tales como calidad, innovación, exclusividad y con un design inigualable.',
+    description: 'Cafetera Nespresso Inissia en color crema: el modelo de entrada al sistema de cápsulas más icónico del mundo. Nespresso lleva más de 30 años definiendo el concepto de espresso en cápsula, con un sistema que típicamente trabaja a 19 bares de presión. Aclaración honesta: esta publicación todavía no tiene calificaciones, así que este análisis se apoya en las especificaciones y en la reputación del sistema, no en opiniones de compradores.',
+    seoTitle: 'Cafetera Nespresso Inissia: ¿conviene la de entrada?',
+    metaDescription: 'La Nespresso de entrada en color crema a $350.000. Esta publicación todavía no tiene calificaciones: te contamos qué ofrece el sistema y con qué compararla.',
+    ogTitle: 'El espresso en cápsula que inventó la categoría, en su versión más simple',
+    ogDescription: 'La Inissia es la puerta de entrada al mundo Nespresso: un botón, una cápsula, espresso con crema. Sin opiniones en esta publicación todavía — te contamos lo que sí sabemos.',
+    h1: 'Cafetera Nespresso Inissia crema: la entrada al sistema de cápsulas más famoso del mundo',
+    pros: [
+      'El sistema de cápsulas más icónico: Nespresso lleva más de 30 años definiendo el espresso en cápsula',
+      'Espresso puro con crema apretando un botón: el sistema trabaja típicamente a 19 bares',
+      'La Inissia es el modelo de entrada clásico de la marca: compacto y sin vueltas',
+      'Cápsulas Nespresso conseguibles en Argentina: boutiques propias, supermercados y MercadoLibre',
+      'Color crema distinto del negro/acero de casi todas las cafeteras del catálogo',
+      'Respaldo de marca premium: calidad, innovación y diseño son el sello histórico de Nespresso',
+    ],
+    cons: [
+      'Esta publicación todavía no tiene calificaciones: no hay opiniones de compradores que la respalden',
+      'Solo acepta cápsulas del sistema Nespresso Original: sin café molido ni cápsulas Dolce Gusto',
+      'No incluye espumador de leche: para capuchinos o lattes necesitás un espumador aparte',
+      'El costo por taza de las cápsulas es el más alto entre los sistemas de café',
+      'La ficha de la publicación es escueta: varios datos técnicos no están informados',
+    ],
+    verdict: 'El camino más directo al espresso en cápsula con sello premium, en una máquina simple y compacta. La compra es a ciegas en cuanto a opiniones — esta publicación no tiene calificaciones — así que pesa la reputación del sistema Nespresso, no la experiencia de otros compradores.',
+    articleBody: `## La Nespresso de entrada (y una aclaración honesta)
+
+La Nespresso Inissia en color crema cuesta $350.000 y es el modelo de entrada al sistema de cápsulas más famoso del mundo. Antes de seguir, lo importante: esta publicación todavía no tiene calificaciones en MercadoLibre. No vamos a inventar opiniones — este análisis se apoya en las especificaciones, en lo que es el sistema Nespresso y en cómo se compara con las alternativas del catálogo.
+
+## Qué es el sistema Nespresso
+
+Nespresso lleva más de 30 años siendo la marca emblemática del espresso en cápsula: prácticamente inventó la categoría y la sigue definiendo en calidad, innovación y diseño. El concepto es simple: cápsulas selladas de café (sistema Original, el clásico de la marca), una máquina que las perfora y extrae con alta presión — típicamente 19 bares en este sistema — y un espresso con crema consistente, taza tras taza, sin moler, dosificar ni limpiar portafiltros.
+
+Es la antítesis de las máquinas con molinillo del catálogo: acá no calibrás nada. Apretás un botón y en menos de un minuto tenés el café.
+
+## La Inissia: chica, simple, un botón
+
+Dentro de la familia Nespresso, la Inissia es el modelo de entrada clásico: compacto, liviano y sin funciones de más. Es la máquina con la que millones de personas en el mundo entraron al sistema. Esta versión viene en color crema — un diferencial estético real frente al negro y acero de casi todo el catálogo de cafeteras.
+
+Un punto de honestidad sobre la ficha: la publicación informa pocos datos técnicos (marca, modelo, color y voltaje 220 V). Capacidad exacta del tanque y potencia no están informadas en la publicación, así que no las afirmamos acá.
+
+## Lo que no trae: contras honestas
+
+Primero, lo ya dicho: cero calificaciones en esta publicación. Si para comprar necesitás el respaldo de cientos de opiniones, este no es tu producto — en el catálogo hay cafeteras de cápsulas con miles de calificaciones.
+
+Segundo: el sistema es cerrado. Solo cápsulas Nespresso Original — sin café molido, sin cápsulas Dolce Gusto. Tercero: no incluye espumador de leche; la Inissia hace espresso y café largo, y si querés capuchino necesitás espumar la leche aparte. Y cuarto: el costo por taza. La cápsula Nespresso es el formato de café más caro por pocillo; es el peaje de la comodidad y la consistencia, y conviene hacer la cuenta según cuántos cafés tomás por día.
+
+## El costo real: la cápsula
+
+Con cualquier cafetera de cápsulas, la máquina es solo la entrada: el gasto de verdad está en las cápsulas que vas a comprar durante años. Nespresso vende las suyas en boutiques propias, supermercados y MercadoLibre, y además existen cápsulas compatibles de terceros que bajan el costo. Si tomás un café por día, el sistema es manejable; si en tu casa se toman seis, el molido te ahorra una diferencia importante por mes — y para eso existen las máquinas híbridas.
+
+## Contra las otras de cápsulas del catálogo
+
+La [Dolce Gusto Piccolo XS](/producto/MLA15705813) ($155.132) cuesta menos de la mitad: es el sistema hermano (también de la familia Nestlé), más orientado a bebidas con leche que a espresso puro. Si tu prioridad es el precio de entrada, gana fácil; si es el espresso clásico, el sistema Nespresso es el especialista.
+
+La alternativa más interesante es la [Smartlife 3 en 1](/producto/MLA28314113) ($528.131): acepta cápsulas Nespresso, cápsulas Dolce Gusto y café molido, trae espumador de leche y tiene 4.7 estrellas con 1654 calificaciones — todo el respaldo de opiniones que a esta publicación le falta. Cuesta $178.000 más, pero te libera del sistema cerrado y del costo fijo de la cápsula.
+
+## ¿Para quién es la Inissia (y para quién no)?
+
+Es para vos si: querés el espresso en cápsula original, con sello premium y cero curva de aprendizaje; tomás café solo (espresso o lungo) y no necesitás espumador; y valorás una máquina chica y linda en la mesada. No es para vos si: necesitás opiniones de compradores para decidir (esta publicación no tiene ninguna todavía), tomás muchos cafés por día (el costo por cápsula pega), o querés flexibilidad de formatos — ahí la Smartlife 3 en 1 es la jugada inteligente del catálogo.
+
+A $350.000, comprás simpleza y reputación de marca. Lo que no comprás, en esta publicación, es la tranquilidad estadística de miles de opiniones.`,
+    specs: [
+      { label: 'Marca', value: 'Nespresso' },
+      { label: 'Modelo', value: 'Inissia' },
+      { label: 'Tipo', value: 'Cafetera de cápsulas monodosis' },
+      { label: 'Sistema de cápsulas', value: 'Nespresso Original' },
+      { label: 'Compatible con café molido', value: 'No — funciona exclusivamente con cápsulas' },
+      { label: 'Compatible con cápsulas Dolce Gusto', value: 'No — son sistemas distintos' },
+      { label: 'Presión', value: '19 bar, la presión típica del sistema Nespresso' },
+      { label: 'Bebidas', value: 'Espresso y café largo, los formatos clásicos del sistema' },
+      { label: 'Espumador de leche', value: 'No incluye' },
+      { label: 'Color', value: 'Crema' },
+      { label: 'Color principal', value: 'Beige' },
+      { label: 'Voltaje', value: '220 V' },
+      { label: 'Potencia', value: 'No informada en la publicación' },
+      { label: 'Capacidad de agua', value: 'No informada en la publicación' },
+      { label: 'Trayectoria de marca', value: 'Más de 30 años como referente mundial del espresso en cápsula' },
+    ],
+    faq: [
+      { question: '¿Por qué esta Nespresso Inissia no tiene opiniones?', answer: 'Porque esta publicación de MercadoLibre todavía no tiene calificaciones de compradores — y preferimos decírtelo de frente antes que disimularlo. No significa que el producto sea malo: la Inissia es uno de los modelos más vendidos de la historia de Nespresso a nivel mundial. Pero en esta publicación concreta no hay experiencias de otros compradores para citarte, así que la decisión se apoya en las specs y en la reputación del sistema.' },
+      { question: '¿Qué cápsulas usa la Inissia?', answer: 'Exclusivamente cápsulas del sistema Nespresso Original: las clásicas de aluminio de la marca, más las compatibles de terceros que se fabrican para ese formato. No acepta cápsulas Dolce Gusto (es un sistema distinto, aunque ambas marcas son de la familia Nestlé) ni café molido. En Argentina las cápsulas se consiguen en boutiques Nespresso, supermercados y MercadoLibre.' },
+      { question: '¿Hace capuchino o café con leche?', answer: 'La máquina en sí hace espresso y café largo — café solo. No incluye espumador de leche, así que para capuchinos o lattes necesitás espumar la leche aparte (con un espumador eléctrico o de batería). Si las bebidas con leche son tu prioridad, mirá la Smartlife 3 en 1 del catálogo, que trae lanceta de vapor incluida, o el sistema Dolce Gusto, más orientado a ese tipo de bebidas.' },
+      { question: '¿Cuánta presión tiene?', answer: 'La publicación no informa la presión, pero el sistema Nespresso trabaja típicamente a 19 bares — por encima de los 15 bar de referencia para espresso doméstico. Es parte de la receta del sistema: alta presión más cápsula sellada igual a espresso con crema consistente, sin depender de tu técnica.' },
+      { question: '¿Las cápsulas Nespresso son caras?', answer: 'Son el formato de café más caro por taza: ese es el peaje de la comodidad. El precio exacto varía según la variedad y dónde compres (boutique, supermercado, MercadoLibre, compatibles de terceros). La cuenta que conviene hacer: multiplicá tu consumo diario por el precio de la cápsula y compará con lo que gastás hoy. Para 1-2 cafés diarios el sistema cierra; para consumos altos, el café molido ahorra mucho por mes.' },
+      { question: '¿Qué diferencia hay con la Dolce Gusto Piccolo XS?', answer: 'Son sistemas hermanos con focos distintos. La Piccolo XS ($155.132) cuesta menos de la mitad y su sistema Dolce Gusto está pensado para variedad: cortados, capuchinos y bebidas con leche en cápsula. La Inissia ($350.000) es la especialista en espresso puro estilo italiano, con la presión típica de 19 bares del sistema Nespresso. Si tomás café solo, Nespresso; si tomás bebidas con leche, Dolce Gusto rinde más.' },
+      { question: '¿Conviene esta o la Smartlife 3 en 1?', answer: 'La Smartlife 3 en 1 ($528.131) acepta cápsulas Nespresso, cápsulas Dolce Gusto y café molido, trae espumador de leche y tiene 4.7 estrellas con 1654 calificaciones — todo lo que esta publicación no puede mostrar. Cuesta $178.000 más y es más grande y compleja. La Inissia gana en simpleza absoluta, tamaño y sello de marca; la Smartlife gana en flexibilidad, espumador y respaldo de opiniones. Para un primer espresso sin pensar, Inissia; para no casarte con un sistema, Smartlife.' },
+      { question: '¿Por qué el permalink es de una publicación y no del catálogo?', answer: 'Esta Inissia se vende en una publicación individual de MercadoLibre (no en la página de catálogo del producto), por eso el link lleva a esa publicación específica en color crema. Es la misma máquina Inissia de Nespresso; solo cambia el formato de la página donde se vende. El precio y el stock son los de esa publicación.' },
+      { question: '¿Es buena como primera cafetera?', answer: 'Si tu idea de primera cafetera es cero esfuerzo, sí: no hay nada más simple que una cápsulera — sin molienda, sin calibración, sin limpieza de portafiltros. La Inissia fue exactamente eso para millones de hogares en el mundo. La advertencia honesta es doble: esta publicación no tiene calificaciones que lo confirmen, y el sistema cerrado implica pagar cápsulas Nespresso para siempre (o hasta que cambies de máquina).' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera Nespresso Inissia crema',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_666551-MLU73601202636_122023-F.jpg',
+      description: 'Cafetera de cápsulas Nespresso Inissia en color crema: el modelo de entrada al sistema Nespresso Original, el referente mundial del espresso en cápsula desde hace más de 30 años. Compacta, simple y con la presión típica de 19 bares del sistema.',
+      sku: 'INISSIA',
+      mpn: 'INISSIA',
+      brand: { '@type': 'Brand', name: 'Nespresso' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1rEtjYg',
+        priceCurrency: 'ARS',
+        price: 350000,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+    },
+    relatedProducts: ['MLA15705813', 'MLA28314113'],
   },
   {
     id: 'MLA28314113',
@@ -21129,7 +22419,137 @@ A $155.132 con 4.8 estrellas y 8.392 votos, es la compra más segura del catálo
     rating: 4.7,
     reviewCount: 1654,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Regalate una pausa Empezá tu día con energía y de la mejor manera, disfrutando de la textura y calidad de un buen café en la comodidad de tu casa. Desayuno al instante Si te apasiona el café molido no vas a poder resistirte al exquisito aroma de un expreso por las mañanas. Prepará los mejores cafés de manera sencilla y rápida. Sabor intenso en minutos Preparar café de manera rápida y sencilla es…',
+    description: 'Cafetera Smartlife 3 en 1 SL-EC5418NDG: la única del catálogo que acepta cápsulas Nespresso, cápsulas Dolce Gusto y café molido en una sola máquina. Express semiautomática de acero inoxidable con espumador de leche, corte automático para 1 y 2 tazas y cantidad de café programable. Junta 4.7 estrellas con 1654 calificaciones. La flexibilidad total: nunca quedás atado a un solo sistema de café.',
+    aiReviewSummary: 'Lo más elogiado: la flexibilidad de usar cápsulas Nespresso, Dolce Gusto o café molido con la misma máquina, el espumador de leche ("anda de diez") y la calidad de los materiales de acero. Las críticas del panorama: no es intuitiva — hay que leer el manual sí o sí —, los portafiltros de cápsulas se sienten endebles y cuesta trabarlos, y después de espumar hay que liberar presión antes del próximo café.',
+    seoTitle: 'Cafetera Smartlife 3 en 1: ¿la de cápsulas más versátil?',
+    metaDescription: 'Acepta cápsulas Nespresso, Dolce Gusto y café molido en una sola máquina: 4.7★ con 1654 opiniones. Qué elogian los compradores y qué critican, sin filtro.',
+    ogTitle: 'Una sola cafetera para Nespresso, Dolce Gusto y café molido',
+    ogDescription: 'La Smartlife 3 en 1 te libera de elegir sistema: cápsulas de los dos mundos o café molido, con espumador. 4.7★ en 1654 opiniones — y sus mañas, contadas honesto.',
+    h1: 'Cafetera Smartlife 3 en 1 SL-EC5418NDG: cápsulas Nespresso, Dolce Gusto y café molido en una sola máquina',
+    pros: [
+      '4.7⭐ con 1654 calificaciones: la cafetera de cápsulas más probada del catálogo',
+      'Tres sistemas en una: cápsulas Nespresso, cápsulas Dolce Gusto y café molido',
+      'Espumador de leche muy elogiado: "anda de diez" incluso para principiantes',
+      'Corte automático para 1 y 2 tazas, con cantidad de agua programable y memorizable',
+      'Estructura de acero inoxidable: las reviews destacan materiales y estética',
+      'Calentamiento de tazas, antigoteo y doble boquilla para dos cafés a la vez',
+    ],
+    cons: [
+      'No es intuitiva: las reviews coinciden en que hay que leer el manual sí o sí',
+      'Los portafiltros de cápsulas se sienten endebles y cuesta trabar la palanca, sobre todo con Nespresso',
+      'Después de espumar leche hay que liberar presión antes del próximo café (titilan las luces)',
+      'Quejas aisladas de recalentamiento, que los propios compradores atribuyen a no seguir el manual',
+      'Sin pantalla digital ni control de temperatura',
+    ],
+    verdict: 'Si no querés casarte con un solo sistema de café, esta es la respuesta: Nespresso, Dolce Gusto y molido en una sola máquina con espumador y 4.7 estrellas en 1654 opiniones. Solo pide algo de paciencia inicial: leé el manual y le encontrás la vuelta.',
+    articleBody: `## Una máquina, tres formas de hacer café
+
+La Smartlife 3 en 1 SL-EC5418NDG cuesta $528.131 y es la única cafetera del catálogo que acepta cápsulas Nespresso, cápsulas Dolce Gusto y café molido. Junta 4.7 estrellas en 1654 calificaciones — la express de cápsulas más probada que tenemos. Express semiautomática de acero inoxidable, con espumador de leche y 1450 W.
+
+La propuesta es la flexibilidad total: no tenés que decidir hoy qué sistema de café vas a usar los próximos cinco años.
+
+## Por qué importa el 3 en 1
+
+Comprar una cafetera de cápsulas suele ser casarse con un sistema: la Nespresso no toma Dolce Gusto, la Dolce Gusto no toma Nespresso, y ninguna de las dos acepta café molido. Esta Smartlife trae portafiltros intercambiables para los tres formatos, así que podés alternar según precio, ganas o lo que haya en el supermercado. Una compradora lo resume: estaba indecisa con una Nespresso "por el precio de sus cápsulas" y eligió esta justamente porque también funciona con café molido.
+
+Sobre la presión, una aclaración: la ficha de MercadoLibre indica 20 bar, pero el fabricante comercializa este modelo como de 19 bar. En cualquier caso, es presión de sobra para espresso con crema (la referencia doméstica es 15-19 bar).
+
+## Espumador y café programable: lo que más elogian
+
+El espumador de leche es el punto fuerte repetido en las opiniones: "el espumador anda de diez y eso que lo hice sin tener idea", "tiene la potencia justa para que salga solo vapor y no agua como me pasó con otras cafeteras". Incluso una compradora barista escribe que "no tiene nada que envidiarle a otras" para uso en casa.
+
+El otro detalle valorado: el corte automático para 1 y 2 tazas con cantidad programable. Sostenés el botón de café unos segundos con la cantidad de agua que querés y queda grabada — ideal para tazas grandes. La review más votada (164 likes) explica que muchas quejas sobre la cantidad de café vienen de no conocer esta función.
+
+## No es plug and play: el manual es obligatorio
+
+Acá van las contras honestas que se repiten en las 1654 calificaciones. La primera: no es intuitiva. "Fácil de usar no es, tiene muchas cosas que todavía no entiendo del todo, pero es cuestión de maña y práctica", dice una review de 5 estrellas. Varios compradores recomiendan directamente mirar un video de YouTube además del manual.
+
+La segunda: los portafiltros de cápsulas se sienten endebles. "Hay que hacer mucha fuerza y se nota medio pedorro", dice una review que igual la recomienda; otra cuenta que cuesta girar la palanca para trabar las cápsulas Nespresso, al menos al principio. La tercera: después de espumar leche, titilan las luces de las tazas y hay que liberar la presión antes de hacer otro café — está en el manual, pero sorprende a más de uno. Y las quejas de recalentamiento que aparecen sueltas, los propios compradores las atribuyen a no seguir las indicaciones del fabricante.
+
+## Lo que dicen las 1654 calificaciones
+
+El desglose: 1380 personas pusieron 5 estrellas, 181 pusieron 4, y solo 93 calificaron con 3 o menos. Para una máquina con tantas funciones, es un nivel de conformidad alto. Los elogios constantes: la calidad del café ("sale como en los bares o mejor"), el espumador, los materiales y la estética metálica.
+
+Las críticas existen y ya las contamos: curva de aprendizaje, portafiltros de cápsulas mejorables y el ritual de liberar presión. Ninguna review relevante cuestiona el resultado en la taza: el patrón es "leé el manual y es excelente".
+
+## Contra las otras de cápsulas del catálogo
+
+Si solo querés cápsulas y gastar menos, la [Dolce Gusto Piccolo XS](/producto/MLA15705813) ($155.132) resuelve por menos de un tercio del precio — pero solo con cápsulas Dolce Gusto y sin espumador. La [Nespresso Inissia](/producto/MLA23385666) ($350.000) es el ícono del espresso en cápsula, pero también te ata a un solo sistema y tampoco espuma leche.
+
+Y si lo tuyo es solo café molido, la [Smartlife SL-EC8501](/producto/MLA18562154) ($194.111) de la misma marca hace espresso por mucho menos, resignando las cápsulas. El valor de la 3 en 1 está justamente en no resignar nada.
+
+## ¿Para quién es la Smartlife 3 en 1 (y para quién no)?
+
+Es para vos si: querés libertad total de formato (cápsulas de los dos sistemas + molido), tomás capuchinos o lattes (el espumador acá rinde) y estás dispuesto a leer el manual y practicar la primera semana. No es para vos si: querés apretar un botón sin pensar (una cápsulera simple como la Piccolo XS o la Inissia es más directa), o si solo usás café molido, donde hay opciones más baratas.
+
+A $528.131 con 4.7 estrellas y 1654 opiniones, es la compra más versátil del catálogo de cafeteras: una sola máquina que no te deja afuera de ningún formato.`,
+    specs: [
+      { label: 'Marca / Fabricante', value: 'Smartlife (Visuar)' },
+      { label: 'Modelo', value: 'SL-EC5418NDG' },
+      { label: 'Línea', value: 'Expreso 3 en 1' },
+      { label: 'Tipo', value: 'Express semiautomática + cápsulas monodosis' },
+      { label: 'Sistemas compatibles', value: 'Café molido, cápsulas Nespresso y cápsulas Dolce Gusto' },
+      { label: 'Presión', value: '19 bar según el fabricante (la ficha de ML indica 20 bar)' },
+      { label: 'Potencia', value: '1.450 W' },
+      { label: 'Capacidad de agua', value: '1 L' },
+      { label: 'Bebidas recomendadas', value: 'Espresso, capuchino, latte' },
+      { label: 'Emisión de vapor', value: 'Sí — espumador de leche tipo lanceta' },
+      { label: 'Dosificación', value: 'Corte automático para 1 y 2 tazas, cantidad programable' },
+      { label: 'Calentamiento de tazas', value: 'Sí' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Doble boquilla', value: 'Sí (dos tazas a la vez)' },
+      { label: 'Estructura', value: 'Acero inoxidable' },
+      { label: 'Dimensiones', value: '31 cm ancho x 13 cm profundidad x 30,5 cm alto' },
+      { label: 'Peso', value: '4,6 kg' },
+      { label: 'Accesorios', value: 'Portafiltros para cada sistema y cuchara medidora' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Qué cápsulas acepta la Smartlife 3 en 1?', answer: 'Las dos grandes: cápsulas Nespresso (sistema Original) y cápsulas Dolce Gusto, cada una con su portafiltro específico incluido. Además funciona con café molido común, con molienda para espresso. Es la única cafetera del catálogo que cubre los tres formatos, y las reviews confirman que los tres funcionan bien: "probé molido, cápsulas Dolce y Nespresso, va joya todas las opciones".' },
+      { question: '¿Funciona bien con café molido?', answer: 'Sí, y para muchos compradores es el uso principal. Una review lo compara con sus otros métodos: "tengo una prensa francesa y una moka, y realmente este café es un antes y un después". El consejo que se repite: usar café molido fino, apto para espresso, y de buena calidad — la máquina extrae bien, pero no hace milagros con café malo.' },
+      { question: '¿El espumador de leche es bueno?', answer: 'Es de lo más elogiado en las 1654 calificaciones: "anda de diez y eso que lo hice sin tener idea", "la leche queda bien cremosa". Tiene la potencia justa para tirar vapor sin escupir agua, algo que compradores con otras cafeteras valoran especialmente. Como todo vaporizador, pide un poco de práctica: varios recomiendan ver un tutorial para la técnica.' },
+      { question: '¿Es difícil de usar?', answer: 'Tiene curva de aprendizaje y las reviews son francas al respecto: "fácil de usar no es", "hay que leer bien el manual para entenderla porque tiene sus truquitos". La buena noticia es que el patrón se repite: quien lee el manual (o mira un video en YouTube) le encuentra la vuelta en pocos días y termina encantado. Si querés cero fricción, una cápsulera simple es más directa.' },
+      { question: '¿Por qué titilan las luces después de espumar leche?', answer: 'Porque la máquina necesita liberar la presión del vapor antes de volver a hacer café. Es un paso normal del diseño que está explicado en el manual, pero sorprende a varios compradores. Una review con 41 likes lo aclara justamente para que nadie se asuste: titilan las dos luces de las tazas y hay que liberar presión antes de seguir.' },
+      { question: '¿Es cierto que se recalienta?', answer: 'Hay quejas aisladas, pero los propios compradores las desarman: "leí comentarios que dicen que se les recalienta pero es porque no leyeron bien el manual y porque no hacen caso a las indicaciones del fabricante". Con el uso indicado — incluida la liberación de presión después de espumar — el panorama de 4.7 estrellas en 1654 opiniones no muestra un problema sistemático.' },
+      { question: '¿Tiene 19 o 20 bares de presión?', answer: 'La ficha técnica de MercadoLibre dice 20 bar y el fabricante la comercializa como de 19 bar. La diferencia es irrelevante en la práctica: cualquier valor por encima de los 15 bar de referencia alcanza para extraer espresso con crema. Las reviews lo confirman desde el resultado: "el café sale como en los bares o mejor".' },
+      { question: '¿Conviene esta o una Nespresso Inissia?', answer: 'Depende de cuánto valores la libertad de formato. La Inissia ($350.000) es más barata y más simple, pero solo acepta cápsulas Nespresso y no espuma leche. La Smartlife cuesta $528.131 y suma cápsulas Dolce Gusto, café molido y espumador — con 4.7 estrellas en 1654 opiniones. Si las cápsulas Nespresso te parecen caras para todos los días, el café molido de esta 3 en 1 es la vía de escape.' },
+      { question: '¿Puede hacer dos cafés a la vez?', answer: 'Sí: tiene doble boquilla y corte automático para una o dos tazas. Además la cantidad de agua es programable — sostenés el botón con la medida que querés y queda memorizada, ideal si tomás café en taza grande. Para volver a los valores de fábrica se aprietan los dos botones de café juntos.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'febrero 2024', useful: 164, text: 'Hasta ahora excelente. El espumador anda de diez y eso que lo hice sin tener idea. Los cafés salen exquisitos. Cuesta un poco girar para trabar la palanca de las cápsulas Nespresso, pero imagino es hasta que se use un poco más. Los materiales son muy buenos y muy linda estéticamente. Los que se quejan de la cantidad de café que larga y de que hay que esperar a que caliente no leyeron el manual: se programa sosteniendo unos segundos el botón del café de acuerdo a la cantidad de agua que se quiera utilizar y queda grabada.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2024', useful: 64, text: 'Hermosa cafetera. Si estás buscando (como yo) una que tenga todas las boludeces, esta es perfecta. Fácil de usar no es, tiene muchas cosas que todavía no entiendo del todo, ¡pero es cuestión de maña y práctica! La uso casi a diario desde que la compré y la recomiendo mucho.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2024', useful: 45, text: 'Maravillosa. Lo que quería 100%, para el nivel de conocimiento nulo que tenía; si lees el manual sale fácil. Después te acostumbras y listo, solo resta disfrutarla y probar, espumar, hacer 1 taza, 2 tazas, etc. Me pareció clave leer el manual para no frustrarme con el producto, recomiendo. El café espectacular, rico, todo sale caliente, el espumador es buenísimo.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2025', useful: 41, text: 'La mejor compra que pude haber hecho, sin exagerar es buenísima. El espumador tiene la potencia justa para que salga solo vapor y no agua como me pasó con otras cafeteras, la leche queda bien cremosa y eso que no tengo bien la técnica. Probé hacer café con las dos cápsulas y café molido y va todo perfecto. Encima tiene corte automático para el espresso de 1 y 2 tazas y el tiempo de extracción es modificable. Lo único: lean bien el manual, después de usar el espumador van a titilar las dos luces de las tazas y es porque tienen que liberar presión.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2025', useful: 33, text: 'La amo, hace mucho venía investigando y viendo videos por todos lados. Anda perfecto, ya la usé un par de veces. Hay que leer bien el manual para entenderla porque tiene sus truquitos. Hay un video en YouTube que explica perfectamente todos los detalles a tener en cuenta. Leí comentarios que dicen que se les recalienta pero es porque no leyeron bien el manual y porque no hacen caso a las indicaciones del fabricante.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2024', useful: 12, text: '¡Compren sin dudar! ¡Calentito el café! ¡Espectacular la lanza! Y de buena calidad. Lo único malo son los portafiltros para cápsulas, que hay que hacer mucha fuerza y se nota medio pedorro. ¡Pero todo el resto espectacular!' },
+      { rating: 4, country: 'Argentina', date: 'mayo 2024', useful: 10, text: 'Estoy muy conforme con la cafetera; hasta que no la aprendés a usar no te deja conforme, miré un videíto por YouTube y listo, la foto habla por sí sola. Hasta ahora un diez. Le pongo 4 estrellas porque no la probé con cápsulas.' },
+      { rating: 4, country: 'Argentina', date: 'abril 2024', useful: 9, text: 'El material es de buena calidad, el café sale muy bien, las cápsulas Nespresso funcionan muy bien, las Dolce Gusto todavía no las probé. El espumador funciona bien, es cuestión de práctica para agarrarle la mano.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera Smartlife 3 en 1 SL-EC5418NDG',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_734553-MLA99935520841_112025-F.jpg',
+      description: 'Cafetera express 3 en 1 Smartlife SL-EC5418NDG: compatible con cápsulas Nespresso, cápsulas Dolce Gusto y café molido. Espumador de leche, corte automático para 1 y 2 tazas, estructura de acero inoxidable, 1450 W. 4.7 estrellas con 1654 calificaciones en MercadoLibre Argentina.',
+      sku: 'SL-EC5418NDG',
+      mpn: 'SL-EC5418NDG',
+      brand: { '@type': 'Brand', name: 'Smartlife' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1soScPB',
+        priceCurrency: 'ARS',
+        price: 528131,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '1654',
+      },
+    },
+    relatedProducts: ['MLA15705813', 'MLA23385666', 'MLA18562154'],
   },
   {
     id: 'MLA23909880',
@@ -21310,7 +22730,138 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
     rating: 4.6,
     reviewCount: 237,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Bomba Italiana ULKA de 19 bares de presión, para una óptima extracción: - Medidor de presión frontal. Tanque de agua de 1,4 L, removible y fácil de llenar y limpiar. - Función preseteada para 1 taza o modo Manual. - Sistema THERMOBLOCK para pre-calentamiento rápido y control preciso de temperatura. Logra la temperatura ideal en segundos para un espresso perfecto. - Conductos internos de acero…',
+    description: 'Cafetera express Peabody PE-CE5010N: la forma más barata de tener molinillo integrado en el catálogo. Bomba italiana ULKA de 19 bares con manómetro frontal, molinillo cónico de muelas con 20 niveles, tolva de 200 gramos y sistema Thermoblock de calentamiento rápido. Café recién molido por la mitad de lo que cuestan los tope de gama, con 4.6 estrellas en 237 calificaciones.',
+    aiReviewSummary: 'Los compradores la celebran como "la cafetera más económica con molino integrado": el molinillo de muelas convence, la lanceta texturiza bien la leche y el modo manual es el favorito de los aficionados al barismo. Las críticas honestas: trabaja siempre con preinfusión (hay que acostumbrarse), el molino es lento y a algunos no les muele lo suficientemente fino, la recuperación entre cafés puede demorar varios minutos y hay detalles de terminación mejorables, como la soldadura de la jarrita.',
+    seoTitle: 'Cafetera Peabody PE-CE5010N: molinillo y 19 bar, ¿rinde?',
+    metaDescription: 'La express con molinillo más accesible del catálogo: 19 bares, muelas de 20 niveles y 4.6★ en 237 opiniones. Sus contras honestas antes de gastar $520.336.',
+    ogTitle: 'Café recién molido sin pagar el tope de gama: la apuesta de Peabody',
+    ogDescription: 'Molinillo de muelas, bomba ULKA de 19 bares y portafiltro de 58 mm a mitad de precio que las grandes. Lo que aman los compradores y las 4 cosas que critican.',
+    h1: 'Cafetera express Peabody PE-CE5010N: molinillo integrado y 19 bares al precio más accesible del catálogo',
+    pros: [
+      '4.6⭐ con 237 calificaciones: la express con molinillo integrado más barata del catálogo',
+      'Bomba italiana ULKA de 19 bares con manómetro frontal para ver la presión de extracción',
+      'Molinillo cónico de muelas con 20 niveles, tolva de 200 g e ionizador antiestática',
+      'Portafiltro de 58 mm, el tamaño comercial que destacan los compradores baristas',
+      'Sistema Thermoblock: calienta rápido, con modo manual o dosis preseteada de 1 taza',
+      'Lanceta con buena presión de vapor: "texturiza la leche perfecto", según varias reviews',
+    ],
+    cons: [
+      'Trabaja siempre con preinfusión: no se puede desactivar y hay que agarrarle la mano',
+      'El molino es lento (unos 16 segundos para 18-19 g) y a algunos no les muele lo suficientemente fino',
+      'Recuperación lenta: una review reporta esperas de unos 5 minutos entre café y café',
+      'La lanceta tiene un solo orificio y hace bastante ruido al espumar',
+      'Detalles de terminación: una review señala marcas de soldadura en la jarrita de leche',
+    ],
+    verdict: 'La puerta de entrada real al café recién molido: molinillo de muelas, 19 bares y portafiltro de 58 mm por la mitad de lo que cuestan los tope de gama. Pide paciencia para calibrar y convivir con la preinfusión, pero a este precio nadie más te da molino integrado.',
+    articleBody: `## Molinillo integrado sin pagar tope de gama
+
+La Peabody PE-CE5010N cuesta $520.336 y es la cafetera express con molinillo integrado más barata del catálogo. Tiene bomba italiana ULKA de 19 bares, molinillo cónico de muelas con 20 niveles y 4.6 estrellas en 237 calificaciones. La síntesis la hace un comprador: "la cafetera más económica con molino integrado... excelente opción si entrás al mundo del café".
+
+Las otras dos máquinas con molinillo del catálogo cuestan $838.899 y $981.818. Esa es la dimensión de la diferencia.
+
+## Bomba ULKA de 19 bares y Thermoblock
+
+La bomba ULKA es un componente italiano de marca — no un genérico — y los 19 bares vienen con manómetro frontal para ver la presión durante la extracción, algo que las express de entrada no traen. El sistema Thermoblock precalienta en segundos y los conductos internos son de acero inoxidable, aunque el cuerpo es plástico con detalles de acero.
+
+Las reviews validan el resultado: "calienta rápido, el café sale espectacular y espumoso", "el que dice que no saca buen café no tiene idea". El portafiltro es de 58 mm — tamaño comercial — y los compradores con conocimientos lo destacan: "para quienes buscan aprender a calibrar como baristas, con su tamaño de 58 mm es lo mejor que hay".
+
+## El molinillo: 20 niveles, tolva de 200 g y sus límites
+
+El molinillo cónico de muelas tiene 20 niveles de molienda, tolva para 200 gramos de grano e ionizador integrado para que el polvo no se esparza por la estática. La cantidad de café molido puede ser fija o configurable por tiempo. Un comprador lo pone en contexto: los molinillos baratos que se compran aparte "parecen una licuadorita y no muelen tan bien como para aprovechar el café" — acá tenés muelas de verdad incluidas.
+
+Los límites, contados por las mismas reviews positivas: es lento ("16 segundos aproximadamente para moler unos 18-19 gramos") y más de un comprador siente que no muele lo suficientemente fino para el espresso perfecto, aunque ajustando al nivel mínimo y subiendo el gramaje se logra buena extracción. La calibración inicial pide paciencia: "me costó mucho calibrar la molienda... pero cuando lo logré, la extracción fue perfecta".
+
+## Lanceta, modo manual y accesorios
+
+La lanceta de vapor tiene un solo orificio pero buena presión: "espuma bien, hace mucho ruido eso sí", "texturiza bien la leche como para hacer latte art". Viene con jarrita de leche de acero inoxidable y tamper ("un pisón muy lindo", según una review), más bandeja de precalentado de tazas, función de agua caliente para otras infusiones y bandeja de goteo desmontable.
+
+El modo manual — vos decidís cuándo cortar la extracción, además de la dosis preseteada de 1 taza — es el favorito de los aficionados: "el modo manual es lo mejor de todo".
+
+## Las críticas honestas de las 237 calificaciones
+
+El desglose: 188 calificaciones de 5 estrellas, 24 de 4, y 25 de 3 o menos (incluidas 13 de 1 estrella) — por eso el 4.6, el rating más bajo entre las cafeteras de gama alta del catálogo. Los patrones críticos concretos: la máquina trabaja siempre con preinfusión y no se puede desactivar ("hay que agarrarle la mano, ya que eso es un recurso para ciertas ocasiones"), la recuperación entre cafés puede demorar ("tuve que esperar como cinco minutos hasta que esté lista para tirar otro café") y a una review de 4 estrellas le faltó temperatura de caldera.
+
+También hay detalles de terminación: un comprador encontró marcas de soldadura en la jarrita de leche y teme que se oxide. Y un dato de precio que aparece más de una vez: "me parece un muy buen producto pero creo que el precio no es acorde" — varios la compraron en oferta y la relación precio-calidad les cerró recién ahí.
+
+## Contra las otras con molinillo del catálogo
+
+El salto de calidad es la [Oster Perfect Brew EM7301](/producto/MLA48828162) ($838.899): molinillo de 30 configuraciones, dosificación automática del espresso y 4.9 estrellas — el mejor rating del catálogo — por $318.000 más. El tope absoluto es la [Peabody PE-CE5023IX](/producto/MLA53370426) ($981.818), automática, aunque sus propias reviews también critican el molinillo.
+
+Hacia abajo, la [Oster BVSTEM5501B](/producto/MLA23909880) ($289.999) hace espresso y capuchino con 4.7 estrellas por $230.000 menos — pero sin molinillo: el grano lo molés aparte o comprás café molido. Esa es exactamente la decisión: ¿cuánto vale para vos moler en el momento?
+
+## ¿Para quién es la PE-CE5010N (y para quién no)?
+
+Es para vos si: querés entrar al café de especialidad con grano recién molido sin gastar $800.000 o más, te divierte calibrar y aprender (portafiltro de 58 mm, modo manual, manómetro), y tu ritmo es de 1-2 cafés por sesión. No es para vos si: querés resultados inmediatos sin calibración (la Oster 5501 con café molido es más directa), servís muchos cafés seguidos (la recuperación es lenta) o buscás una máquina premium sin compromisos — para eso está la Oster EM7301.
+
+A $520.336 con 4.6 estrellas, es el mejor precio de entrada al mundo del molinillo integrado: con sus mañas, pero sin competencia en su rango.`,
+    specs: [
+      { label: 'Marca', value: 'Peabody' },
+      { label: 'Línea', value: 'Cafetera Express' },
+      { label: 'Modelo', value: 'PE-CE5010N' },
+      { label: 'Tipo', value: 'Express semiautomática con molinillo integrado' },
+      { label: 'Bomba', value: 'Italiana ULKA, 19 bar' },
+      { label: 'Manómetro', value: 'Sí, medidor de presión frontal' },
+      { label: 'Molinillo', value: 'Cónico de precisión por muelas, 20 niveles de molienda' },
+      { label: 'Tolva de café', value: '200 g, con ionizador antiestática' },
+      { label: 'Sistema térmico', value: 'Thermoblock de precalentamiento rápido' },
+      { label: 'Capacidad de agua', value: '1,4 L, tanque removible' },
+      { label: 'Dosificación', value: 'Preseteada para 1 taza o modo manual; café molido fijo o por tiempo' },
+      { label: 'Espumador', value: 'Lanceta con boquilla desmontable (capuchino, latte, macchiato)' },
+      { label: 'Función agua caliente', value: 'Sí, para otras infusiones' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Doble boquilla', value: 'Sí' },
+      { label: 'Bandeja de precalentado de tazas', value: 'Sí, con espacio guarda accesorios' },
+      { label: 'Estructura', value: 'Cuerpo plástico con detalles y conductos internos de acero inoxidable' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿El molinillo de la Peabody PE-CE5010N es bueno?', answer: 'Es un molinillo cónico de muelas con 20 niveles, tolva de 200 g e ionizador antiestática — componentes que en un molinillo aparte cuestan buena plata. Las reviews lo aprueban con matices: "el molino anda bárbaro", pero es lento (unos 16 segundos para 18-19 gramos) y algunos compradores sienten que no muele lo suficientemente fino; ajustando al nivel mínimo y subiendo un poco el gramaje se logra buen espresso.' },
+      { question: '¿Qué es la preinfusión y por qué la critican?', answer: 'La preinfusión moja el café con baja presión antes de la extracción completa, para una extracción más pareja. El detalle es que esta Peabody la aplica siempre y no se puede desactivar. Un comprador experimentado lo marca como su principal contra: "hay que agarrarle la mano, ya que eso es un recurso para ciertas ocasiones". No arruina el café, pero cambia los tiempos respecto de otras máquinas.' },
+      { question: '¿Cuánto tarda entre café y café?', answer: 'Ahí está una de las críticas honestas: la recuperación puede ser lenta. Una review de 5 estrellas cuenta que "tuve que esperar como cinco minutos hasta que esté lista para tirar otro café", especialmente después de usar el vapor. Para 1 o 2 cafés por sesión no molesta; para servir una mesa de seis, sí.' },
+      { question: '¿El portafiltro es de 58 mm?', answer: 'Sí, y es uno de los puntos que más destacan los compradores con conocimientos de barismo: 58 mm es el tamaño comercial de las máquinas de cafetería. "Para quienes buscan aprender a calibrar como baristas, con su tamaño de 58 mm es lo mejor que hay", dice una review. El portafiltro y los filtros se describen como robustos y de buena calidad.' },
+      { question: '¿La lanceta espuma bien la leche?', answer: 'Sí, con una particularidad: tiene un solo orificio, pero buena presión de vapor. Las reviews coinciden: "espuma bien, hace mucho ruido eso sí", "texturiza bien la leche como para hacer latte art". Viene con jarrita de leche de acero inoxidable incluida, aunque una review señala marcas de soldadura en su terminación.' },
+      { question: '¿Por qué tiene 4.6 y no más?', answer: 'De 237 calificaciones, 188 son de 5 estrellas y 24 de 4, pero hay 25 de 3 o menos — incluidas 13 de 1 estrella. Los patrones críticos: la preinfusión obligatoria, el molino lento o no tan fino, la espera entre cafés y la sensación de que el precio de lista es alto (varios la compraron en oferta). Los compradores conformes responden que quien dice que saca mal café "es porque no la sabe usar": la calibración inicial es clave.' },
+      { question: '¿Conviene esta o la Oster Perfect Brew EM7301?', answer: 'La Oster EM7301 ($838.899) tiene mejor molinillo (30 configuraciones), dosificación automática y 4.9 estrellas — pero cuesta $318.000 más. Esta Peabody ($520.336) da el mismo concepto de grano recién molido con más trabajo manual y rating 4.6. Si el presupuesto llega, la Oster es la compra más redonda; si no, esta es la única forma de tener molinillo integrado a este precio.' },
+      { question: '¿Sirve para alguien que recién empieza?', answer: 'Sí, con la expectativa correcta: vas a tener que calibrar la molienda al principio y eso puede llevar días de prueba. Una compradora lo cuenta tal cual: "me costó mucho calibrar la molienda para que salga bien el café... cuando lo logré, la extracción fue perfecta y quedé súper satisfecha. Solo tengan paciencia al principio". Si querés cero curva de aprendizaje, mirá las cafeteras de cápsulas del catálogo.' },
+      { question: '¿Qué incluye en la caja?', answer: 'Además de la máquina: jarrita para leche de acero inoxidable, tamper (pisón) para compactar el café, filtros, bandeja de goteo desmontable y bandeja superior de precalentado de tazas con espacio para guardar accesorios. También tiene función de agua caliente para preparar té u otras infusiones sin pasar por el café.' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: 'junio 2025', useful: 71, text: 'Para los amantes del café que saben cómo preparar, está excelente por el precio. Pero ahí van un par de apreciaciones técnicas. El molino es decente, tiene potencia, pero la realidad es que si el grano es malo no te va a servir; lo ideal es que no sea tan denso. Es lento: 16 segundos aproximadamente para moler unos 18-19 gramos. La máquina calienta rápido, tiene buena recuperación. Lo malo es que funciona siempre con preinfusión, así que hay que agarrarle la mano, ya que eso es un recurso para ciertas ocasiones. La lanceta tiene potencia a pesar de tener un solo orificio, pero te asegura una excelente texturización.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2025', useful: 65, text: 'La tengo hace más de una semana y después de haber investigado por todos lados y no obtener las respuestas que buscaba, me arriesgué a comprarla. La verdad ha sido una de las mejores compras que he hecho. El molino, aunque está bueno, siento que tal vez no muele lo suficientemente fino; sin embargo vivo en una zona de demasiada humedad y he de decir que en el mínimo y aumentando un poco el gramaje se logra un buen espresso. La lanceta, aunque tiene un solo orificio, tiene buena fuerza y texturiza la leche perfecto.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2025', useful: 32, text: 'El que dice que no saca buen café no tiene idea. El filtro no es presurizado, lo cual es un golazo. La vaporera es de un solo orificio pero espuma bien, hace mucho ruido eso sí. Tanto el portafiltro como los filtros se ven robustos y de buena calidad, como el resto de los accesorios. El molino anda bárbaro. El calentador de tazas tarda en levantar temperatura, así que a menos que la vayas a tener encendida mucho tiempo no lo vas a usar. Lo único negativo hasta el momento: de las dos veces que la usé, tuve que esperar como cinco minutos hasta que esté lista para tirar otro café. El modo manual es lo mejor de todo.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2025', useful: 10, text: 'La cafetera más económica con molino integrado. Es una muy linda máquina y excelente opción si entrás al mundo del café. El que dice que saca mal el café es porque no la sabe usar. Tené en cuenta que ya tiene molino integrado y, además de ser más cómodo que uno aparte, es un molino de muela con grados de molienda: te lo hace polvo si querés. Los que comprás aparte parecen una licuadorita y no muelen tan bien como para aprovechar el café. Además trae una jarrita para leche de inox y un pisón muy lindo. Calienta rápido, el café sale espectacular y espumoso. La leche la deja hecha una nube.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2025', useful: 9, text: 'La mejor compra que hice en mi corta vida teniendo un novio barista.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2025', useful: 5, text: 'Compré la cafetera en una oferta, 150 mil de descuento, por lo que en relación precio-calidad, 10. La compré con cierta desconfianza porque veía pocas reseñas y no había videos en YouTube sobre este modelo, por lo que fue arriesgado en cierto punto. Pero para mi sorpresa, la cafetera cumplió las expectativas y es muy fachera. Tres semanas de uso, algunas críticas o puntos mejorables: la jarrita para espumar leche tiene la marca de la soldadora en la manija y el interior, por lo que espero que no se oxide con el tiempo. Será cuestión de conseguir otra.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 3, text: '¡Para un barista aficionado es muy buena opción! Portafiltro de 58 mm, el molinillo es muy bueno, igual recomiendo usar un distribuidor. Y la lanceta tiene buena presión de vapor. Para uso de hobby y convidar café a tus amigos es ideal, además te deja practicar bastante. ¡La recomiendo!' },
+      { rating: 4, country: 'Argentina', date: 'junio 2025', useful: 2, text: 'El molino anda perfecto desde que le encontré el punto justo de la molienda, el espumador de leche muy bien, y en la parte del preparado del café, si bien sale correcto, le faltaría un poco más de calor a la caldera. Pero en líneas generales, conforme.' },
+      { rating: 5, country: 'Argentina', date: 'noviembre 2025', useful: 2, text: 'Me costó mucho calibrar la molienda para que salga bien el café. Al principio no salía con espuma y quedaba un café sin cuerpo, pero cuando lo logré, la extracción fue perfecta y quedé súper satisfecha. Recomiendo, solo tengan paciencia al principio.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera express Peabody PE-CE5010N',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_937822-MLA99945605211_112025-F.jpg',
+      description: 'Cafetera express semiautomática Peabody PE-CE5010N con molinillo cónico de muelas de 20 niveles, bomba italiana ULKA de 19 bares, manómetro frontal, sistema Thermoblock y tanque removible de 1,4 L. 4.6 estrellas con 237 calificaciones en MercadoLibre Argentina.',
+      sku: 'PE-CE5010N',
+      mpn: 'PE-CE5010N',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2uKu8pv',
+        priceCurrency: 'ARS',
+        price: 520336,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '237',
+      },
+    },
+    relatedProducts: ['MLA53370426', 'MLA48828162', 'MLA23909880'],
   },
   {
     id: 'MLA48828162',
@@ -21337,7 +22888,288 @@ A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria
     rating: 4.9,
     reviewCount: 110,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Cafetera Espresso Oster® Perfect Brew – Con molinillo integrado y tubo de vapor Tempsense™ La cafetera espresso Oster® Perfect Brew te ofrece la experiencia de una cafetería en tu casa, con resultados profesionales en solo tres pasos: Molienda precisa y sin derrames: Su molinillo cónico de muelas cuenta con 30 configuraciones para ajustar la molienda a tu gusto. Gracias a su tecnología…',
+    description: 'Cafetera espresso Oster Perfect Brew EM7301: el tope de gama de Oster en el catálogo, con molinillo cónico de muelas integrado de 30 configuraciones, portafiltro comercial de 58 mm y tubo de vapor Tempsense para microespuma. Espresso simple o doble con un botón, desde café recién molido. Tiene el mejor rating de todas las cafeteras del catálogo: 4.9 estrellas con 110 calificaciones.',
+    aiReviewSummary: 'El mejor rating del catálogo de cafeteras: compradores destacan la calidad de los materiales, el molinillo que muele al punto y un espresso "que no le envidia nada a las grandes cafeteras", con varios logrando extracciones de 25-30 segundos de manual. Las críticas, pocas y puntuales: la dosificación automática del molinillo a veces tira más café del justo, la punta del texturizador se marca con la leche y no es una máquina para grandes volúmenes seguidos.',
+    seoTitle: 'Cafetera Oster Perfect Brew EM7301: ¿vale el tope de gama?',
+    metaDescription: 'El tope de gama de Oster: molinillo integrado de 30 niveles, portafiltro de 58 mm y 4.9★ en 110 opiniones. Lo que elogian las reviews y sus contras reales.',
+    ogTitle: 'Del grano a la taza: la Oster con molinillo que tiene el mejor rating del catálogo',
+    ogDescription: 'Café recién molido, portafiltro de 58 mm como las máquinas de cafetería y 4.9 estrellas. Te contamos qué dicen los compradores y los detalles a saber antes de invertir.',
+    h1: 'Cafetera espresso Oster Perfect Brew EM7301: molinillo integrado, 58 mm y el mejor rating del catálogo',
+    pros: [
+      '4.9⭐ con 110 calificaciones: el mejor rating de todas las cafeteras del catálogo',
+      'Molinillo cónico de muelas con 30 configuraciones: café recién molido en cada taza',
+      'Portafiltro comercial de 58 mm, el estándar de las máquinas de cafetería',
+      'Tubo de vapor Tempsense: microespuma suave para lattes y capuchinos',
+      'Espresso simple o doble con un botón, sin cortar la extracción a mano',
+      'Viene completa: filtros simples y presurizados, jarra de leche, prensador y pin de limpieza',
+    ],
+    cons: [
+      'Cuesta casi el triple que la Oster BVSTEM5501B, la espresso de entrada de la marca',
+      'La dosificación del molinillo a veces tira más café del justo: varios la usan en modo manual',
+      'La punta del texturizador de leche tiende a marcarse con el uso, según alguna review',
+      'No es para grandes volúmenes: un comprador avisa que no conviene sobreexigirla con muchos cafés seguidos',
+      'El molinillo necesita un período de asentamiento de muelas, aclarado en el propio manual',
+    ],
+    verdict: 'El tope de Oster cumple lo que promete: café recién molido, extracción seria con portafiltro de 58 mm y el mejor rating del catálogo (4.9). Si el café recién molido no te importa, la Oster 5501 cubre lo esencial por un tercio del precio.',
+    articleBody: `## El tope de Oster, con el mejor rating del catálogo
+
+La Oster Perfect Brew EM7301 cuesta $838.899 y es la cafetera mejor calificada de todo el catálogo: 4.9 estrellas en 110 opiniones, sin una sola calificación de 1 o 2 estrellas. Es una espresso semiautomática con molinillo cónico integrado, portafiltro comercial de 58 mm y tubo de vapor para microespuma — la experiencia de cafetería completa, del grano a la taza.
+
+El argumento de venta es uno: café recién molido. Todo lo demás de la máquina está construido alrededor de eso.
+
+## Molinillo de 30 niveles (y una corrección a la ficha)
+
+Acá va una aclaración importante: la ficha técnica de MercadoLibre dice "niveles de molienda: 3", pero es un error — la descripción oficial del producto detalla un molinillo cónico de muelas con 30 configuraciones para ajustar la molienda a tu gusto. Treinta, no tres.
+
+El molinillo tiene además tecnología antiestática: el café molido cae directo en el portafiltro sin desparramarse por la mesada. La review más votada (de un comprador que se nota conocedor) lo valida: "el molinillo cumple muy bien su función" y aclara que el manual pide un tiempo de uso para que las muelas se asienten — después de eso, logró tirar espressos de 25-30 segundos "con una elevada cantidad de espuma y muy buen balance en sus sabores".
+
+## Portafiltro de 58 mm y espresso con un botón
+
+El portafiltro de 58 mm es el mismo estándar de las máquinas comerciales de cafetería — la mayoría de las espresso hogareñas usan 51 o 54 mm. Más diámetro significa una cama de café más pareja y mejor extracción. Viene con filtros simples (para aprovechar el grano recién molido) y presurizados (más permisivos para arrancar), en versiones de 1 y 2 tazas.
+
+La extracción es con un botón: espresso sencillo o doble, sin tener que cortar a mano como en las espresso de entrada. Sumale el tubo de vapor Tempsense para microespuma de nivel barista, el botón de limpieza para el mantenimiento y los accesorios incluidos (jarra de leche, prensador, pin de limpieza) y el paquete queda completo de fábrica.
+
+## Lo que dicen las 110 calificaciones
+
+El desglose es contundente: 97 personas pusieron 5 estrellas, 10 pusieron 4 y solo 3 calificaron con 3. Cero calificaciones de 1 o 2 estrellas. Los elogios repetidos: la calidad de los materiales ("sorprendió la calidad", "muy buena terminación"), el resultado en taza ("hace un café que no le envidia nada a las grandes cafeteras") y que no hace mucho ruido.
+
+Hay un dato honesto sobre la construcción que aporta la review más detallada: no es exclusivamente de acero inoxidable, tiene partes de plástico — aunque el mismo comprador destaca "la calidad en sus materiales y en su robustez".
+
+## Las contras honestas
+
+Las críticas son pocas pero concretas. Un comprador con semanas de uso avisa que "la molienda a veces te tira más café de lo que corresponde, así que háganlo de manera manual como recomendación" — la dosificación automática del molinillo no siempre clava el gramaje. El mismo comprador agrega que la máquina responde bien preparando 3 o 4 cafés seguidos, pero que no conviene sobreexigirla: "tampoco es para grandes producciones".
+
+Otra review de 4 estrellas nota que la punta del texturizador de leche se marca con el uso (posiblemente leche fría que se adhiere con la temperatura). Y está el período de asentamiento de las muelas del molinillo, que el manual aclara de antemano. Nada de esto mueve el 4.9 — pero conviene saberlo antes de invertir $838.899.
+
+## Contra la Oster chica y las Peabody
+
+La pregunta obligada: ¿y la [Oster BVSTEM5501B](/producto/MLA23909880) ($289.999)? Hace espresso y capuchino con 15 bares por un tercio del precio, pero sin molinillo, sin corte automático y con 4.7 en vez de 4.9. Si el café recién molido no es tu prioridad, es la compra racional.
+
+Entre las que sí muelen, la [Peabody PE-CE5010N](/producto/MLA47077888) ($520.336) es la alternativa más barata con molinillo integrado — más manual y con rating 4.6. Y por encima de todas está la [Peabody PE-CE5023IX](/producto/MLA53370426) ($981.818), automática, que cuesta $143.000 más que esta Oster con menos opiniones que la respalden.
+
+## ¿Para quién es la Perfect Brew (y para quién no)?
+
+Es para vos si: querés café de especialidad en casa con grano recién molido, valorás el portafiltro de 58 mm para aprender técnica de barista en serio, y preferís pagar una vez por una máquina completa antes que comprar molinillo aparte. No es para vos si: tu uso es café con leche ocasional (la 5501 sobra), buscás una máquina para un local con alta demanda, o el presupuesto manda — abajo de los $550.000 la Peabody PE-CE5010N muele también.
+
+A $838.899 con 4.9 estrellas y cero calificaciones negativas, es la compra más segura de la gama alta del catálogo.`,
+    specs: [
+      { label: 'Marca / Fabricante', value: 'Oster (Newell)' },
+      { label: 'Línea', value: 'Perfect Brew' },
+      { label: 'Modelo', value: 'OSBVSTEM7301' },
+      { label: 'Tipo', value: 'Espresso semiautomática con molinillo integrado' },
+      { label: 'Molinillo', value: 'Cónico de muelas, 30 configuraciones (la ficha de ML dice 3 por error) con tecnología antiestática' },
+      { label: 'Portafiltro', value: '58 mm, estándar comercial' },
+      { label: 'Presión', value: '15 bar' },
+      { label: 'Potencia', value: '1.350 W' },
+      { label: 'Capacidad de agua', value: '1,5 L' },
+      { label: 'Bebidas recomendadas', value: 'Espresso, capuchino, latte' },
+      { label: 'Tubo de vapor', value: 'Tempsense, para microespuma' },
+      { label: 'Dosificación', value: 'Espresso sencillo o doble con un botón' },
+      { label: 'Calentamiento de tazas', value: 'Sí' },
+      { label: 'Filtros', value: 'Simples y presurizados, para 1 y 2 tazas' },
+      { label: 'Accesorios', value: 'Jarra para leche, prensador de café, pin de limpieza' },
+      { label: 'Doble boquilla', value: 'Sí' },
+      { label: 'Dimensiones', value: '22 cm ancho x 28 cm profundidad x 30 cm alto' },
+      { label: 'Peso', value: '3,9 kg' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿El molinillo tiene 3 o 30 niveles de molienda?', answer: 'Treinta. La ficha técnica de MercadoLibre dice "3", pero es un error de carga: la descripción oficial del producto especifica un molinillo cónico de muelas con 30 configuraciones para ajustar la molienda. Con ese rango podés ir de molienda gruesa a fina para espresso, y la tecnología antiestática hace que el café caiga directo al portafiltro sin desparramo.' },
+      { question: '¿Qué significa el portafiltro de 58 mm?', answer: 'Es el diámetro estándar de las máquinas comerciales de cafetería — la mayoría de las espresso hogareñas usan portafiltros más chicos, de 51 o 54 mm. Un portafiltro más ancho permite una cama de café más pareja y una extracción más balanceada. Para quien quiere aprender técnica de barista, es un diferencial real: la práctica se traslada a máquinas profesionales.' },
+      { question: '¿Corta sola la extracción?', answer: 'Sí: preparás un espresso sencillo o doble con solo presionar un botón, sin tener que frenar el agua a mano como en las espresso de entrada (la Oster 5501, por ejemplo, no corta sola). Es una de las comodidades que justifican la diferencia de precio dentro de la marca.' },
+      { question: '¿Sirve para un local o cafetería?', answer: 'Para volúmenes chicos. Un comprador que la usa intensivamente cuenta que responde muy bien preparando 3 o 4 cafés seguidos, pero recomienda no sobreexplotarla "porque tampoco es para grandes producciones". Para una oficina o un emprendimiento con demanda moderada va bien; para un local con fila de clientes, conviene una máquina comercial.' },
+      { question: '¿Es ruidosa al moler?', answer: 'Según las opiniones, no especialmente: "muy buena, no hace mucho ruido y es re útil", dice una review. Todo molinillo de muelas hace su ruido al triturar el grano, pero no aparecen quejas de ruido en las 110 calificaciones, algo que sí pasa con otras cafeteras del catálogo.' },
+      { question: '¿Qué critican los compradores?', answer: 'Tres cosas puntuales: la dosificación automática del molinillo a veces tira más café del justo (la recomendación de un comprador es dosificar en modo manual), la punta del texturizador de leche tiende a marcarse con el uso, y las muelas necesitan un período de asentamiento que el manual aclara. Con 97 calificaciones de 5 estrellas sobre 110, ninguna crítica es estructural.' },
+      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La 5501 ($289.999) hace espresso y capuchino con 15 bares por un tercio del precio, pero sin molinillo y sin corte automático: usás café ya molido y frenás la extracción vos. La EM7301 ($838.899) suma grano recién molido, 58 mm y dosificación automática. Si el café recién molido no es tu obsesión, la 5501 cubre el 90% del uso real; si querés el ritual completo, esta es la definitiva.' },
+      { question: '¿Conviene esta o la Peabody PE-CE5023IX?', answer: 'La Peabody PE-CE5023IX ($981.818) es automática y cuesta $143.000 más, con 4.8 estrellas en 75 opiniones — y sus reviews señalan el molinillo como punto flojo. Esta Oster tiene mejor rating (4.9 en 110), cuesta menos y su molinillo de 30 configuraciones es de lo más elogiado. Salvo que necesites la automatización completa de la Peabody, la Oster es la compra más respaldada.' },
+      { question: '¿Qué accesorios incluye?', answer: 'Viene completa para arrancar el mismo día: filtros simples y presurizados en versiones de 1 y 2 tazas, jarra para leche, prensador de café (tamper) y pin de limpieza. Los filtros presurizados son más permisivos para principiantes; los simples aprovechan mejor el grano recién molido cuando ya calibrás la molienda.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'octubre 2025', useful: 10, text: 'Es una cafetera espresso de gama media ideal para un hogar u oficina. Su construcción no es exclusivamente de acero inoxidable, tiene partes de plástico, pero se puede apreciar la calidad en sus materiales y en su robustez. El molinillo cumple muy bien su función. El manual aclara que necesita un tiempo de uso para que las muelas se asienten bien: debo reconocer que me ha resultado sumamente fácil lograr tirar un espresso en 25-30 segundos con una elevada cantidad de espuma y muy buen balance en sus sabores.' },
+      { rating: 4, country: 'Argentina', date: 'enero 2026', useful: 3, text: 'La probé dos veces; en mi antigua cafetera siempre me salía el café subextraído, esta mañana fue la primera vez que me salió un espresso en tiempo, temperatura y peso. Lo que no entiendo es por qué se marca la punta del texturizador de leche, quizás sea porque la leche está muy fría y con la temperatura se pega. Lo demás, muy bueno.' },
+      { rating: 4, country: 'Argentina', date: 'noviembre 2025', useful: 2, text: 'Excelente, la espuma para el café es soñada. Todo funciona muy bien y la calidad parece muy buena.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 1, text: 'Muy buena terminación, fácil de usar, muy buen producto final y una máquina que se ve distinta a las demás. La recomiendo.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2026', useful: 1, text: 'Muy buena, no hace mucho ruido y es re útil.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 1, text: 'Práctica, simple de utilizar y de limpiar. Café disponible siempre.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Muy buena la cafetera, ya hasta le coloqué su trapo de señora para hacer los cafés. El equipo reacciona muy bien al preparar más de 3 o 4 cafés seguidos. Recomiendo no sobreexplotar la máquina porque tampoco es para grandes producciones. Viene con todo lo que se ve en la foto. La molienda a veces te tira más café de lo que corresponde, así que háganlo de manera manual como recomendación. Del resto, la máquina es una joyita para aprender a hacer barismo.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2026', useful: 0, text: 'La mejor compra de mi vida. Vale mucho la pena y no es tan difícil de usar. Nunca más comprando café afuera.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera espresso Oster Perfect Brew EM7301',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_611727-MLA100054728735_122025-F.jpg',
+      description: 'Cafetera espresso semiautomática Oster Perfect Brew EM7301 con molinillo cónico de muelas de 30 configuraciones, portafiltro comercial de 58 mm, tubo de vapor Tempsense para microespuma y 15 bares de presión. 4.9 estrellas con 110 calificaciones en MercadoLibre Argentina.',
+      sku: 'OSBVSTEM7301',
+      mpn: 'OSBVSTEM7301-054',
+      brand: { '@type': 'Brand', name: 'Oster' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2amGBqP',
+        priceCurrency: 'ARS',
+        price: 838899,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '110',
+      },
+    },
+    relatedProducts: ['MLA23909880', 'MLA53370426', 'MLA47077888'],
+  },
+  {
+    id: 'MLA53370426',
+    title: 'Cafetera express Peabody PE-CE5023IX automática con molinillo',
+    price: 981818,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_911965-MLA88936123860_082025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_777354-MLA88936123872_082025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_874413-MLA88936228062_082025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA53370426',
+    affiliateUrl: 'https://meli.la/1n158eE',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Peabody',
+    rating: 4.8,
+    reviewCount: 75,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera express Peabody PE-CE5023IX: el tope de gama absoluto del catálogo, a $981.818. Express automática con molinillo integrado, tanque de 2,8 litros y estructura de acero inoxidable, pensada para quien quiere automatización completa del grano a la taza. Tiene 4.8 estrellas, pero solo 75 calificaciones — pocas para una compra de este precio, y por eso este análisis es especialmente honesto.',
+    aiReviewSummary: 'Los compradores destacan la robustez, las terminaciones, el doble termoblock y un espresso "como de confitería" una vez calibrada — incluso hay quien la usa para vender café en una panadería. Las críticas son serias para el precio: el molinillo integrado no muele tan fino como pide un espresso perfecto y tiende a taparse, el consumo eléctrico es altísimo (ficha de 20 A que puede exigir instalación dedicada), y hay reportes puntuales de pérdida de agua por el portafiltro, presión justa y café tibio.',
+    seoTitle: 'Cafetera Peabody PE-CE5023IX: ¿vale casi un millón?',
+    metaDescription: 'La express automática tope de gama de Peabody: molinillo integrado y 4.8★, pero solo 75 opiniones. Sus contras reales y las alternativas que cuestan menos.',
+    ogTitle: 'Casi un millón de pesos en cafetera: lo que nadie te cuenta antes de pagarla',
+    ogDescription: 'Automática, con molinillo y doble termoblock — pero con un molinillo criticado y una ficha de 20 A que puede pedir instalación eléctrica propia. Análisis sin filtro.',
+    h1: 'Cafetera express Peabody PE-CE5023IX automática: el tope de gama del catálogo, analizado sin filtro',
+    pros: [
+      '4.8⭐ con 75 calificaciones: la única express automática del catálogo',
+      'Molinillo integrado con cepillo de limpieza incluido: del grano a la taza sin moler aparte',
+      'Tanque de agua de 2,8 litros, el más grande del catálogo: menos recargas',
+      'Doble termoblock según describen los compradores: calienta rápido y se banca uso intensivo',
+      'Tamper y portafiltro de peso profesional, terminaciones robustas de acero inoxidable',
+      'Aguanta uso comercial liviano: una compradora la usa para vender café en su panadería',
+    ],
+    cons: [
+      'Cuesta $981.818 con solo 75 calificaciones: poco respaldo estadístico para semejante inversión',
+      'El molinillo es el punto flojo señalado: no muele tan fino como pide un espresso perfecto y tiende a taparse',
+      'Consumo eléctrico muy alto: ficha de 20 A — un comprador tuvo que instalar una térmica y cableado dedicados',
+      'Reportes puntuales de pérdida de agua por el portafiltro, presión justa y café que sale tibio',
+      'Curva de aprendizaje real: varios compradores quemaron bastante café hasta calibrarla',
+    ],
+    verdict: 'Es una buena máquina con un problema de contexto: a $981.818, la Oster EM7301 hace casi lo mismo por $143.000 menos, con mejor rating y un molinillo menos criticado. Tiene sentido solo si la automatización completa y el tanque de 2,8 L valen esa diferencia para vos.',
+    articleBody: `## La automática más cara del catálogo
+
+La Peabody PE-CE5023IX cuesta $981.818 — la cafetera más cara de todo el catálogo — y es la única express automática con molinillo integrado que tenemos. Junta 4.8 estrellas, pero con solo 75 calificaciones. Y ahí está el primer punto honesto de este análisis: para una compra de casi un millón de pesos, 75 opiniones es poco respaldo estadístico. Vamos a contarte lo que esas 75 voces dicen, incluidas las críticas.
+
+## Qué hace por casi un millón de pesos
+
+La propuesta es automatización completa: molinillo integrado, dosificación y extracción automáticas, tanque de 2,8 litros (el más grande del catálogo, ideal para no recargar a cada rato) y estructura de acero inoxidable. Los compradores describen doble termoblock — calienta rápido y se recupera bien entre cafés — y accesorios de peso profesional: "el peso del tamper y el portafiltro, doble termoblock y demás características dan cuenta del nivel y el uso para el cual está pensado el producto".
+
+El resultado en taza, una vez calibrada, convence: "el café sale riquísimo, como de confitería". Hay incluso un caso de uso semicomercial: una compradora la usa para vender café en su panadería y la describe rápida y rendidora "si no vendés 50 por día".
+
+## El molinillo: el punto flojo señalado en las opiniones
+
+Acá está la crítica más seria, y viene de una review de 3 estrellas que vale oro: "la mejor cafetera que debe haber en el mercado en esa gama... pero a pesar de su elevado precio, el molinillo integrado no alcanza a moler tan fino como para el expreso perfecto, muy criticable y molesto si invertís esa plata para que te solucione todo".
+
+No es una voz aislada. La review más votada (4 estrellas) cuenta que hay que usar la molienda "siempre en 1 o 0 para que salga bien el espresso", con mínimo 20 gramos para el doble, y que el molinillo "suele taparse: hay que limpiarlo con el cepillito que trae frecuentemente para que salga bien el café y no se hagan grumos". Otra review de 4 estrellas es más cruda: "el molino no es muy bueno". En una máquina cuyo argumento central es resolver todo, que el molinillo sea el eslabón débil es un dato que tenés que conocer antes de pagar.
+
+## Ojo con la instalación eléctrica
+
+Esta contra no aparece en ninguna ficha técnica: la máquina tiene una ficha de 20 amperes y un consumo eléctrico muy alto. Un comprador lo documenta en detalle: "en las preguntas dicen que va bien con cualquier conexión hogareña pero es mentira. Tiene una ficha de 20 A y consume unos 13,5, por lo que tuve que agregar una térmica aparte y un tramo de cables solo para esta cafetera".
+
+Traducido: antes de comprarla, verificá que tu instalación eléctrica soporte una ficha de 20 A. En departamentos o casas con instalación vieja, puede implicar un gasto extra de electricista que nadie te avisa.
+
+## Lo que dicen las 75 calificaciones
+
+El desglose: 60 calificaciones de 5 estrellas, 12 de 4 y 3 de 3 — cero de 1 y 2 estrellas, lo cual habla bien dentro de la muestra chica. Los elogios: robustez, terminaciones, velocidad, espresso de nivel una vez calibrada, y un caso de buen servicio posventa.
+
+Las críticas concretas, además del molinillo y el consumo: una review reporta que "pierde agua por el portafiltro", otra que "la presión es un poco baja y la temperatura del café no es del todo apta", y otra que el café sale tibio o frío al principio. Y el patrón transversal: la curva de aprendizaje es real — "tuve que aprender bien qué molienda necesita... sí, gasté bastante café", "los primeros eran unos cafés malísimos, pero con práctica salen igual o mejores que los de cafetería".
+
+## Las alternativas que hacen casi lo mismo por menos
+
+Esta es la sección que justifica el análisis. La [Oster Perfect Brew EM7301](/producto/MLA48828162) ($838.899) también muele el grano en el momento, con un molinillo de 30 configuraciones que sus reviews elogian en vez de criticar, dosificación automática del espresso y 4.9 estrellas en 110 opiniones — mejor rating, más respaldo y $143.000 menos. Lo que resignás es la automatización completa y el tanque gigante.
+
+Y si el presupuesto manda, la [Peabody PE-CE5010N](/producto/MLA47077888) ($520.336) de la misma marca trae molinillo integrado de 20 niveles y bomba ULKA de 19 bares por poco más de la mitad del precio — más manual, con 4.6 estrellas y sus propias mañas, pero con la misma idea de fondo: café recién molido en casa.
+
+## ¿Para quién es la PE-CE5023IX (y para quién no)?
+
+Es para vos si: querés la máxima automatización del catálogo del grano a la taza, le vas a dar uso intensivo (el tanque de 2,8 L y el doble termoblock están pensados para eso, incluso para un emprendimiento chico), tu instalación eléctrica soporta una ficha de 20 A, y el millón no te duele. No es para vos si: buscás la mejor relación precio-resultado en gama alta (la Oster EM7301 gana en rating, respaldo y precio), el espresso ultrafino es tu obsesión (el molinillo es el punto flojo reconocido), o no querés gastos sorpresa de electricista.
+
+A $981.818 con 4.8 estrellas y solo 75 opiniones, es una buena máquina que pide comprarse con los ojos abiertos — y con las alternativas sobre la mesa.`,
+    specs: [
+      { label: 'Marca', value: 'Peabody' },
+      { label: 'Modelo', value: 'PE-CE5023IX' },
+      { label: 'Tipo', value: 'Express automática con molinillo integrado' },
+      { label: 'Tecnología', value: 'Automática' },
+      { label: 'Molinillo', value: 'Integrado, con niveles de molienda; los compradores recomiendan usarlo en los niveles más finos (1 o 0)' },
+      { label: 'Capacidad de agua', value: '2,8 L, la mayor del catálogo' },
+      { label: 'Sistema térmico', value: 'Doble termoblock, según describen los compradores' },
+      { label: 'Estructura', value: 'Acero inoxidable' },
+      { label: 'Temporizador', value: 'Sí' },
+      { label: 'Conexión eléctrica', value: 'Ficha de 20 A — un comprador reporta consumo de unos 13,5 A; verificar instalación antes de comprar' },
+      { label: 'Alimentación', value: 'Corriente doméstica, 220 V' },
+      { label: 'Accesorios', value: 'Tamper y portafiltro de peso profesional, cepillo de limpieza del molinillo (según compradores)' },
+      { label: 'Presión', value: 'No informada en la publicación; algún comprador la describe como justa' },
+      { label: 'Color', value: 'Plateado' },
+      { label: 'Apta uso semicomercial', value: 'Volúmenes chicos: una compradora la usa para vender café en una panadería' },
+    ],
+    faq: [
+      { question: '¿La Peabody PE-CE5023IX es automática de verdad?', answer: 'Sí, es la única express automática del catálogo: muele el grano, dosifica y extrae sin que tengas que operar cada paso como en las semiautomáticas. Igual no es magia: las reviews coinciden en que hay que calibrar molienda, gramaje y temperatura al principio — "tuve que aprender bien qué molienda necesita... sí, gasté bastante café" — y después de esa curva el espresso sale "como de confitería".' },
+      { question: '¿El molinillo integrado es bueno?', answer: 'Es el punto flojo señalado en las opiniones, y siendo una máquina de $981.818 hay que decirlo claro. Una review de 3 estrellas lo resume: "el molinillo integrado no alcanza a moler tan fino como para el expreso perfecto, muy criticable si invertís esa plata para que te solucione todo". Otros compradores agregan que conviene usarlo siempre en los niveles más finos (1 o 0) y que tiende a taparse, por lo que hay que limpiarlo seguido con el cepillo que trae.' },
+      { question: '¿Necesito una instalación eléctrica especial?', answer: 'Posiblemente, y es la contra menos publicitada: la máquina tiene ficha de 20 amperes y un comprador midió un consumo de unos 13,5 A. Él mismo cuenta que tuvo que agregar una térmica aparte y un tramo de cables exclusivo para la cafetera, porque su conexión hogareña común no alcanzaba. Antes de comprarla, verificá con un electricista que tu instalación soporte una ficha de 20 A.' },
+      { question: '¿Sirve para un local o emprendimiento?', answer: 'Para volúmenes chicos, sí: una compradora la usa para vender café en su panadería y la describe rápida, con buena recuperación y calentando la leche al toque — aclarando que va bien "si no vendés 50 por día". El tanque de 2,8 litros y el doble termoblock ayudan en uso intensivo. Para una cafetería con demanda real, sigue siendo una máquina hogareña tope de gama, no una comercial.' },
+      { question: '¿Por qué cuesta casi un millón de pesos?', answer: 'Por la combinación que ninguna otra del catálogo tiene: automatización completa, molinillo integrado, tanque de 2,8 L, doble termoblock y construcción de acero inoxidable con accesorios de peso profesional. La pregunta honesta es si esa combinación vale $143.000 más que la Oster EM7301, que muele y dosifica automático el espresso con mejor rating (4.9 contra 4.8) y más opiniones (110 contra 75).' },
+      { question: '¿Conviene esta o la Oster Perfect Brew EM7301?', answer: 'Para la mayoría, la Oster: cuesta $838.899 (contra $981.818), tiene el mejor rating del catálogo (4.9 en 110 opiniones) y su molinillo de 30 configuraciones es elogiado en las reviews, mientras que el de la Peabody es criticado. La Peabody gana en automatización total, tanque de 2,8 L y capacidad de uso intensivo. Si esas tres cosas no son decisivas para vos, la diferencia de precio no se justifica.' },
+      { question: '¿El café sale caliente?', answer: 'Mayormente sí, pero hay reportes en contra que conviene conocer: una review de 4 estrellas dice que "el café queda frío" (la compradora asume que le falta aprender a usarla) y una de 3 estrellas señala que "la temperatura del café no es del todo apta". El patrón sugiere que la temperatura depende de la calibración y el precalentamiento — no es un defecto universal, pero aparece más de una vez en solo 75 opiniones.' },
+      { question: '¿Es confiable comprar con solo 75 calificaciones?', answer: 'Es la pregunta correcta para una compra de este precio. Lo bueno: de esas 75, cero son de 1 o 2 estrellas — 60 de 5, 12 de 4 y 3 de 3, un panorama sólido. Lo prudente: es una muestra chica comparada con las 110 de la Oster EM7301 o las 237 de la Peabody PE-CE5010N, y las críticas que existen (molinillo, consumo eléctrico, pérdidas puntuales de agua) son consistentes entre sí. Comprala sabiendo eso.' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: 'noviembre 2025', useful: 13, text: 'Es una buena máquina para tener en casa. Hace buen espresso y emulsiona bien la leche si le agarrás la mano. No me convenció tanto el tema de la presión/bares porque siempre va a ser muy rápida la extracción. La molienda la tenés que usar siempre en 1 o 0 para que salga bien el espresso, y con mínimo 20 g de café para el doble. El molinillo no está mal pero suele taparse: hay que limpiarlo (con el cepillito que trae) frecuentemente para que salga bien el café y no se hagan grumos. Le doy 4/5.' },
+      { rating: 3, country: 'Argentina', date: 'febrero 2026', useful: 8, text: 'La mejor cafetera que debe haber en el mercado en esa gama y categoría, por supuesto. Pero lo único por lo que no le pongo todo perfecto es que, a pesar de su elevado precio, el molinillo integrado no alcanza a moler tan fino como para el expreso perfecto. Muy criticable y molesto si invertís esa plata para que te solucione todo pero tenga ese punto tan flojo. Por lo demás excelente, súper configurable, a un nivel profesional.' },
+      { rating: 5, country: 'Argentina', date: 'enero 2026', useful: 6, text: 'Hermosa máquina. La compré para vender café en la panadería; si no necesitás una súper máquina porque no vendés 50 por día, es rápida, sale muy rico el café, calienta rápido la leche. Muy buena, incluso a su precio, para poder vender café.' },
+      { rating: 5, country: 'Argentina', date: 'noviembre 2025', useful: 5, text: 'La amo. Es súper completa. Lo que sí, hay que tener paciencia e ir aprendiendo. Tuve que aprender bien qué molienda es la que necesita para llegar a los bares que corresponde (sí, gasté bastante café), cómo hacer para que esté en la temperatura correcta, etc. Terminás siendo un barista con esta máquina. Para los apasionados del café, la recomiendo.' },
+      { rating: 4, country: 'Argentina', date: 'febrero 2026', useful: 4, text: 'Está buenísima pero consume mucha electricidad. En las preguntas dicen que va bien con cualquier conexión hogareña pero es mentira. Tiene una ficha de 20 A y consume unos 13,5, por lo que tuve que agregar una térmica aparte y un tramo de cables solo para esta cafetera. Todavía no la pude probar por esto mismo. Igualmente es hermosa y se la ve de buena calidad.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 3, text: 'Muy buen producto. Muy buenas terminaciones. Se la ve robusta y práctica. Tira unos cafés excelentes.' },
+      { rating: 4, country: 'Argentina', date: 'enero 2026', useful: 2, text: 'Pierde agua por el portafiltro y el molino no es muy bueno.' },
+      { rating: 3, country: 'Argentina', date: 'marzo 2026', useful: 2, text: 'Cumple su función, aunque hay que agarrarle la mano para usarla correctamente. La presión es un poco baja y la temperatura del café no es del todo apta.' },
+      { rating: 5, country: 'Argentina', date: 'enero 2026', useful: 2, text: 'Está muy buena. El café sale riquísimo, como de confitería. Cuesta encontrar los puntos justos, pero vale la pena el gasto.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera express Peabody PE-CE5023IX automática',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg',
+      description: 'Cafetera express automática Peabody PE-CE5023IX con molinillo integrado, tanque de agua de 2,8 litros, estructura de acero inoxidable y temporizador. El tope de gama del catálogo. 4.8 estrellas con 75 calificaciones en MercadoLibre Argentina.',
+      sku: 'PE-CE5023IX',
+      mpn: 'PE-CE5023IX',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1n158eE',
+        priceCurrency: 'ARS',
+        price: 981818,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '75',
+      },
+    },
+    relatedProducts: ['MLA48828162', 'MLA47077888'],
   },
   {
     id: 'MLA53370426',
