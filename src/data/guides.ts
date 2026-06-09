@@ -12354,6 +12354,111 @@ export const guides: Guide[] = [
       ],
     },
 
+  {
+    slug: "cafetera-express",
+    category: "cafeteras",
+    title: `Cafetera express: guía completa y mejores modelos en Argentina [2026]`,
+    seoTitle: `Cafetera Express: Mejores Modelos en Argentina [2026]`,
+    metaDescription: `Comparamos las mejores cafeteras express de Argentina 2026: Smartlife, Oster, Peabody y más. Precios reales, ranking honesto y cuál comprar según tu caso.`,
+    ogTitle: `Cafetera express 2026: la guía honesta para no pagar de más`,
+    ogDescription: `Qué cafetera express conviene de verdad en Argentina: la diferencia real entre 15 y 20 bares, cuáles espuman bien la leche y dónde poner la plata.`,
+    h1: `Cafetera express en Argentina: guía completa y mejores modelos [2026]`,
+    publishedDate: "2026-06-09",
+    updatedDate: "2026-06-09",
+    hasDisclosure: true,
+    readingTime: 12,
+    standfirst: `Todo para elegir una cafetera express en Argentina sin gastar de más: ranking con precios reales de MercadoLibre, tabla comparativa, qué significan los bares de presión y cuál conviene según cuánto café tomás.`,
+    quickPicks: [
+      { productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por menos de $200.000" },
+      { productMlaId: "MLA23909880", label: "Mejor marca-precio", labelColor: "blue", tagline: "La Oster de entrada: espumador de leche con depósito" },
+      { productMlaId: "MLA47077888", label: "Mejor con molinillo", labelColor: "purple", tagline: "Café recién molido sin pagar tope de gama" },
+      { productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", tagline: "Espresso de 15 bares por $133.999" },
+    ],
+    intro: [
+      `La **cafetera express** te cambia el café de todos los días: pasás del de jarra o del instantáneo a un espresso con crema, hecho con presión real. Y en Argentina 2026 hay una buena noticia: ya no hace falta gastar un millón de pesos. Hoy una máquina de 15 o 20 bares con espumador de leche arranca en $134.000, y la franja de $190.000 a $300.000 concentra opciones con cientos o miles de calificaciones reales.`,
+      `La trampa del mercado local es otra: los números de marketing. Publicaciones que prometen 19 bares cuando la ficha técnica dice 15, máquinas "automáticas" que en realidad no cortan solas, y modelos que venían con accesorios que la versión actual ya no trae. En esta guía cruzamos cada dato con la ficha técnica oficial y con lo que cuentan los compradores en las reseñas, que es donde aparece la verdad.`,
+      `Comparamos los modelos de cafetera express que se consiguen hoy en MercadoLibre Argentina, desde la más barata hasta el tope de gama con molinillo integrado. Si no querés leer todo, el resumen de arriba te lleva directo. Si querés entender qué estás pagando, seguí: son diez minutos que te ahorran una mala compra.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg", alt: `Cafetera express Smartlife SL-EC8501 de 20 bares con espumador, una de las más vendidas de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras express disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos cuatro cosas que cambian el café de verdad: presión real de bomba (verificada contra la ficha técnica, no contra el título de la publicación), si el espumador de leche es práctico o decorativo, si acepta café molido, cápsulas o ambos, y qué dicen las calificaciones públicas de compradores reales. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Qué es una cafetera express y en qué se diferencia`, id: "que-es" },
+      { type: "p", content: `Una cafetera express (o espresso) empuja agua caliente a presión a través del café molido compactado. Esa presión, medida en **bares**, extrae los aceites del café y forma la crema de arriba. Sin presión no hay espresso: una cafetera de filtro hace café de jarra por goteo, y una de cápsulas automatiza el proceso con dosis selladas. La express es la única de las tres que te da el café de cafetería, a cambio de un ritual: moler o dosificar, compactar, extraer y limpiar.` },
+      { type: "p", content: `La pregunta honesta antes de seguir: ¿querés ese ritual? Si la respuesta es "solo quiero café rico apretando un botón", una [cafetera de cápsulas como la Dolce Gusto Piccolo XS](https://meli.la/1f93McA) te va a hacer más feliz por menos plata. Si en tu casa se toma café de jarra todo el día, una de filtro resuelve. La express es para quien disfruta el espresso y el capuchino con espuma de verdad, proceso incluido.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "El mito de los bares", content: `Más bares no significa mejor café a partir de cierto punto: el espresso se extrae entre 9 y 15 bares. Cuando una publicación dice 19 o 20 bares, es la presión máxima de la bomba, no la de extracción. Lo importante es que la máquina tenga bomba real (15 bares o más de pico) y no un sistema de vapor sin presión, como las "express" de menos de $100.000 que no figuran en este ranking.` },
+
+      { type: "h2", title: `El ranking: mejores cafeteras express 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Smartlife SL-EC8501 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Bomba de 20 bares, espumador a vapor y dos portafiltros: café molido o cápsulas Nespresso. 4.6 estrellas con 1.656 calificaciones, la express económica más probada del país.` },
+      { type: "p", content: `Es la que recomendamos a la mayoría, y las 1.656 calificaciones explican por qué: por menos de $200.000 te da **20 bares de presión**, espumador de leche con perilla para vapor o agua caliente, calentador de tazas y un diferencial que a este precio no ofrece casi nadie: viene con **dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso**. Un comprador hizo la cuenta en su reseña: comprar espresso, espumador y máquina de cápsulas por separado salía mucho más caro.` },
+      { type: "p", content: `Lo honesto: el manual es malo (mirá un tutorial de cinco minutos antes de estrenarla), trae un tapón de silicona escondido dentro del depósito que tenés que sacar o la máquina no toma agua, y los primeros cafés salen flojos hasta que se purga el circuito. Los tres avisos salen de las propias reseñas y los tres se resuelven el primer día. Después queda lo que escribió un comprador: "nada que envidiar a un resto bar".` },
+
+      { type: "h3", title: `2. Oster BVSTEM5501B — mejor marca-precio` },
+      { type: "product-card", productMlaId: "MLA23909880", label: "Mejor marca-precio", labelColor: "blue", ranking: 2, description: `La espresso de entrada de Oster: bomba italiana de 15 bares, espumador con depósito de leche de 250 mL y estructura de acero. 4.7 estrellas en 402 calificaciones.` },
+      { type: "p", content: `"Cafetera Oster" es de las búsquedas de café más repetidas en Google Argentina, y este es el modelo que la responde sin irse al precio del tope de gama. La diferencia práctica con la Smartlife está en el espumador: acá tiene **depósito de leche propio de 250 mL** que dosifica la espuma solo, sin técnica. Para quien toma capuchinos o lattes todos los días, esa comodidad vale la diferencia de precio.` },
+      { type: "p", content: `Las reseñas la describen como la primera cafetera espresso ideal: fácil de usar, fácil de limpiar y con resultado de verdad. Los contras que reconocen: no corta la extracción sola, el café sale a temperatura justa (precalentá la taza) y algunas piezas son de plástico más sencillo de lo que la marca sugiere. Nada que cambie la ecuación: a $289.999 es la forma más barata de tener una Oster espresso real en la mesada.` },
+
+      { type: "h3", title: `3. Ultracomb CE-6108 — la más barata con bomba real` },
+      { type: "product-card", productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", ranking: 3, description: `Espresso de 15 bares reales por $133.999, con 4.6 estrellas en 211 calificaciones. La puerta de entrada al espresso sin inversión.` },
+      { type: "p", content: `Si querés probar si el mundo espresso es para vos sin comprometer el presupuesto, esta es la respuesta. La publicación dice 19 bares pero la ficha técnica oficial dice 15 (inflar ese número es costumbre en la categoría), y 15 bares alcanzan perfectamente para un espresso con crema. Tiene vaporizador para la leche y 211 calificaciones que promedian 4.6.` },
+      { type: "p", content: `El recorte respecto de las de arriba está en los detalles: el espumador es una lanza simple sin depósito, no acepta cápsulas y la terminación es más plástica. Para un espresso diario sin pretensiones, cumple. Para capuchinos cómodos todos los días, mejor subir un escalón.` },
+
+      { type: "h3", title: `4. Liliana AC985 2 en 1 — la nacional con respaldo` },
+      { type: "product-card", productMlaId: "MLA62547964", label: "Industria con service local", labelColor: "blue", ranking: 4, description: `20 bares, digital, café molido + cápsulas Nespresso. Marca argentina con service y repuestos locales. 4.7 estrellas.` },
+      { type: "p", content: `La alternativa argentina a la Smartlife: misma idea (20 bares, molido + cápsulas tipo Nespresso, pantalla digital) con el plus del **service y los repuestos locales** de Liliana, una marca con décadas en el país. Un detalle que verificamos contra las reseñas: la versión actual ya no trae el adaptador para cápsulas Dolce Gusto que traía el modelo anterior, aunque algunas fotos viejas lo muestren. Molido y Nespresso, eso es lo que acepta.` },
+
+      { type: "h3", title: `5. Peabody PE-CE5010N — mejor con molinillo integrado` },
+      { type: "product-card", productMlaId: "MLA47077888", label: "Mejor con molinillo", labelColor: "purple", ranking: 5, description: `Molinillo integrado + 19 bares: del grano a la taza por la mitad de lo que cuesta el tope de gama. 4.6 estrellas en 237 calificaciones.` },
+      { type: "p", content: `Acá empieza otra liga: el **molinillo integrado** muele el grano en el momento, y la diferencia de aroma contra el café molido envasado se nota desde el primer día. Lo normal es pagar esa función arriba de $800.000; la Peabody la baja a $520.336. Las 237 calificaciones (4.6) la respaldan como la opción "del grano a la taza" más accesible del mercado argentino.` },
+
+      { type: "h3", title: `6. Oster Perfect Brew EM7301 — el tope de gama que vale la pena` },
+      { type: "product-card", productMlaId: "MLA48828162", label: "Tope de gama", labelColor: "purple", ranking: 6, description: `Molinillo integrado, 15 bares, corte automático de dosis y el mejor rating de todas: 4.9 estrellas. Para quien quiere la experiencia completa.` },
+      { type: "p", content: `El mejor rating del catálogo entero de cafeteras: **4.9 estrellas**. La Perfect Brew muele, dosifica y corta sola, con la terminación y el respaldo de la línea premium de Oster. A $838.899 no es para todos, y por eso no encabeza el ranking: la mayoría de la gente obtiene el 90% de esta experiencia con máquinas de un tercio del precio. Pero si el café es tu hobby y querés la versión sin compromisos, es esta.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Peabody automática?", content: `La [Peabody PE-CE5023IX](https://meli.la/1n158eE) ($981.818) es la única totalmente automática del catálogo: molinillo + extracción y corte sin intervención. Tiene 4.8 estrellas pero solo 75 calificaciones, por eso no está en el ranking principal. Si la automatización total es tu prioridad y el precio no te frena, es la opción.` },
+
+      { type: "h2", title: `Tabla comparativa: precios y prestaciones`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Presión`, `Extras`, `Para quién`], rows: [
+        [`[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `$194.111`, `20 bar`, `Cápsulas Nespresso + espumador`, `La mejor para casi todos`],
+        [`[Oster BVSTEM5501B](https://meli.la/1SZrW1t)`, `$289.999`, `15 bar`, `Espumador con depósito de leche`, `Capuchinos diarios sin técnica`],
+        [`[Ultracomb CE-6108](https://meli.la/11sCGja)`, `$133.999`, `15 bar`, `Vaporizador simple`, `Probar espresso sin invertir`],
+        [`[Liliana AC985 2 en 1](https://meli.la/2t3mqay)`, `$174.521`, `20 bar`, `Cápsulas Nespresso + service local`, `Quien prioriza marca nacional`],
+        [`[Peabody PE-CE5010N](https://meli.la/2uKu8pv)`, `$520.336`, `19 bar`, `Molinillo integrado`, `Del grano a la taza, sin tope de gama`],
+        [`[Oster Perfect Brew EM7301](https://meli.la/2amGBqP)`, `$838.899`, `15 bar`, `Molinillo + corte automático`, `El hobbista del café`],
+        [`[Peabody PE-CE5023IX](https://meli.la/1n158eE)`, `$981.818`, `19 bar`, `Totalmente automática`, `Cero intervención, presupuesto alto`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cafetera express: lo que importa de verdad`, id: "como-elegir" },
+      { type: "h3", title: `Espumador: el detalle que define tu desayuno` },
+      { type: "p", content: `Si tomás café solo, cualquier lanza de vapor te sobra. Si tomás capuchino o latte todos los días, el tipo de espumador es LA decisión: una lanza simple (Ultracomb) exige práctica, una con perilla selectora (Smartlife) la simplifica, y el depósito dosificador de la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) la elimina del todo. Las reseñas son claras: el espumador incómodo es la función que más se abandona.` },
+      { type: "h3", title: `¿Molido, cápsulas o las dos cosas?` },
+      { type: "p", content: `El café molido es más barato por taza y más rico si es fresco; las cápsulas ganan en velocidad y constancia. Las máquinas duales como la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) y la [Liliana AC985](https://meli.la/2t3mqay) te dejan no elegir: molido el fin de semana, cápsula a las 7 de la mañana. Si sabés que nunca vas a usar molido, directamente mirá una de cápsulas, que es otra categoría y otro precio.` },
+      { type: "h3", title: `Corte automático: el lujo silencioso` },
+      { type: "p", content: `Casi ninguna express económica corta la extracción sola: vos frenás el agua, y los primeros días algún café sale aguado. No es grave, pero si querés apretar un botón y volver con el café listo, esa función existe desde la [Oster Perfect Brew](https://meli.la/2amGBqP) hacia arriba. En el medio no hay: es manual o es tope de gama.` },
+
+      { type: "h2", title: `Cuánto cuesta una cafetera express en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$130.000 a $200.000:** bomba real de 15-20 bares, espumador básico. Acá viven la [Ultracomb CE-6108](https://meli.la/11sCGja), la [Liliana AC985](https://meli.la/2t3mqay) y la [Smartlife SL-EC8501](https://meli.la/1QMpWAw). Es la franja con mejor relación precio-café.`,
+        `**$200.000 a $400.000:** marcas internacionales, mejor espumador, más terminación. La [Oster BVSTEM5501B](https://meli.la/1SZrW1t) es la referencia.`,
+        `**$500.000 a $1.000.000:** molinillo integrado y automatización. [Peabody PE-CE5010N](https://meli.la/2uKu8pv) al inicio del rango, [Oster Perfect Brew](https://meli.la/2amGBqP) y [Peabody automática](https://meli.la/1n158eE) arriba.`,
+        `**Menos de $100.000:** cuidado. A ese precio casi todo es sistema de vapor sin bomba (no hace espresso real) o cafetera de filtro disfrazada. Mejor una de filtro honesta o juntar para la franja de arriba.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría: la **Smartlife SL-EC8501** ($194.111) — 20 bares, cápsulas Nespresso de respaldo y 1.656 compradores que ya pasaron por los tres avisos del estreno. Si tomás capuchino todos los días y querés cero maniobra, sumale $96.000 y llevate la **Oster BVSTEM5501B** con su espumador con depósito. Y si el café recién molido es tu placer, la **Peabody PE-CE5010N** es el molinillo integrado más accesible del país. El error a evitar: las "express" de menos de $100.000 sin bomba real.` },
+    ],
+    faq: [
+      { question: `¿Qué significa que una cafetera express tenga 15 o 20 bares?`, answer: `Es la presión máxima de la bomba. El espresso se extrae entre 9 y 15 bares, así que cualquier máquina con bomba real de 15 o más hace café con crema. Los 19 o 20 bares de algunas publicaciones son presión de pico, no de extracción: no hacen mejor café por sí solos. Lo que sí importa es que tenga bomba y no un sistema de vapor sin presión.` },
+      { question: `¿Cuál es la mejor cafetera express calidad-precio en Argentina?`, answer: `Por datos, la [Smartlife SL-EC8501](https://meli.la/1QMpWAw): $194.111, 20 bares, acepta café molido y cápsulas Nespresso, y junta 4.6 estrellas en 1.656 calificaciones, la base de opiniones más grande de su rango. Su único costo oculto es el estreno: manual flojo y un tapón de transporte escondido en el depósito que hay que sacar.` },
+      { question: `¿Conviene una cafetera express o una de cápsulas?`, answer: `Depende del ritual. La express da el mejor café y el costo por taza más bajo (café molido), a cambio de preparar y limpiar. Las cápsulas ganan en velocidad y cero limpieza, pero cada taza cuesta más. Camino del medio: las duales como la Smartlife SL-EC8501 aceptan ambos sistemas, o una [Dolce Gusto Piccolo XS](https://meli.la/1f93McA) si la comodidad gana siempre.` },
+      { question: `¿Las cafeteras express cortan solas el café?`, answer: `Las económicas no: vos frenás la extracción, y se aprende en dos o tres cafés. El corte automático de dosis aparece recién en la gama del molinillo integrado, como la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP) o la [Peabody PE-CE5023IX](https://meli.la/1n158eE) totalmente automática.` },
+      { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se siente: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a $520.336, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da el 90% por menos.` },
+      { question: `¿Qué cafetera express compro si es mi primera vez?`, answer: `Una con bomba real y comunidad grande de usuarios: la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) o, con menos presupuesto, la [Ultracomb CE-6108](https://meli.la/11sCGja) a $133.999. Las dos tienen cientos o miles de reseñas que ya documentaron todos los errores de principiante. Evitá las "express" de menos de $100.000: casi ninguna tiene bomba de verdad.` },
+    ],
+  },
+
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
