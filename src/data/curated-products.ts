@@ -20506,6 +20506,866 @@ Robot Roomba j9, base premium de autovaciado y autorrelleno de agua, control rem
     },
     relatedProducts: ['MLA37360592', 'MLA27941233', 'MLA26504431'],
   },
+  {
+    id: 'MLA37650751',
+    title: 'Cafetera de filtro Atma CA8131 blanca',
+    price: 45000,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_976321-MLA99453742526_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_976321-MLA99453742526_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_746594-MLU76720832382_062024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_990652-MLU76720842562_062024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_692692-MLA85559982715_062025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-3091753002',
+    affiliateUrl: 'https://meli.la/2UrA2C7',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Atma',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera de Filtro 1250 ml – Disfrutá del mejor café en cantidad y con comodidad La Cafetera de Filtro 1250 ml es ideal para los amantes del café que buscan cantidad, practicidad y sabor. p Prepara hasta 12 tazas de café en su jarra de vidrio, manteniéndolo caliente por más tiempo gracias a su función de conservación de temperatura. Características destacadas -Prepara el café de forma rápida y…',
+  },
+  {
+    id: 'MLA14735678',
+    title: 'Cafetera de filtro Atma CA8133 semi automática blanca',
+    price: 47567,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_618795-MLA99866989519_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_618795-MLA99866989519_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_659901-MLA91440492637_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_662324-MLA91048283378_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_881396-MLA91440735785_092025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA14735678',
+    affiliateUrl: 'https://meli.la/1xm8Wd8',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Atma',
+    rating: 4.6,
+    reviewCount: 879,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Diseño La cafetera de filtro ATMA CA8133N presenta un cuerpo en color blanco con indicador de nivel de agua con capacidad para 1.25 litros. Cuenta con portafiltro removible, que facilita la limpieza del equipo; y sistema antigoteo, con el que te podrás servir una taza de café antes de que termine el ciclo de preparación. También, tiene base calentadora antiadherente e interruptor luminoso.…',
+  },
+  {
+    id: 'MLA15109525',
+    title: 'Cafetera de filtro Ultracomb CA-2205 automática negra',
+    price: 40756,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_958590-MLA99443169884_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_958590-MLA99443169884_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_840926-MLU79289790419_092024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_922569-MLA97742525253_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_842871-MLU79049866664_092024-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA15109525',
+    affiliateUrl: 'https://meli.la/1aZSTdt',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Ultracomb',
+    rating: 4.4,
+    reviewCount: 631,
+    pastelColor: 'var(--pastel-coral)',
+    description: '¿Te imaginás levantarte y tener el café recién hecho esperándote? Con la cafetera eléctrica Ultracomb CA-2205 es posible. Su timer digital te permite programar la hora exacta a la que querés tener el café listo, ideal para arrancar el día sin esperas o sorprender a tus invitados. Con 900W de potencia y un elegante diseño, mantiene el café a la temperatura ideal conservando todo su aroma. Incluye…',
+  },
+  {
+    id: 'MLA72187457',
+    title: 'Cafetera de filtro Electrolux ECM25 plateada',
+    price: 69999,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_684694-MLA111660947618_062026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_684694-MLA111660947618_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_668011-MLA112738103019_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_988889-MLA112738959091_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_846287-MLA111660770154_062026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA72187457',
+    affiliateUrl: 'https://meli.la/1y5nrwc',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Electrolux',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'La cafetera eléctrica de goteo Electrolux ECM25 combina funcionalidad y estilo en un diseño de acero inoxidable de alta calidad. Su acabado plateado aporta elegancia a cualquier entorno, integrándose perfectamente en cocinas modernas. Este modelo automático cuenta con una capacidad de agua de 1.2 litros, permitiendo la preparación de múltiples servicios de café con eficiencia. La estructura…',
+  },
+  {
+    id: 'MLA15297115',
+    title: 'Cafetera de filtro Smartlife SL-CM1095 digital negra y gris',
+    price: 79999,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_902015-MLA100075937483_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_902015-MLA100075937483_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_620895-MLA91952523619_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_796309-MLA91952533167_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_612765-MLU75166382173_032024-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA15297115',
+    affiliateUrl: 'https://meli.la/2Dw1odT',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Smartlife',
+    rating: 4.7,
+    reviewCount: 94,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera Smartlife SL-CMD1095: Disfruta del Café Perfecto con Tecnología Avanzada Descubrí la innovadora Cafetera Smartlife SL-CMD1095, diseñada para ofrecerte la experiencia de café definitiva en la comodidad de tu hogar. Esta cafetera de filtro combina elegancia, funcionalidad y tecnología avanzada para satisfacer incluso a los amantes del café más exigentes. Con una potencia de 900 W, esta…',
+  },
+  {
+    id: 'MLA62786317',
+    title: 'Cafetera de filtro digital Liliana AC935 jarra inox 1,2 L',
+    price: 112767,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_988328-MLA100242892537_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_988328-MLA100242892537_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_719542-MLA100243079393_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_853798-MLA100242882677_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_714665-MLA100242864069_122025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA62786317',
+    affiliateUrl: 'https://meli.la/2fbAbdd',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Liliana',
+    rating: 4.8,
+    reviewCount: 42,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera Eléctrica DripXpert Liliana AC935 La Cafetera Eléctrica DripXpert Liliana AC935 ofrece mayor capacidad, control digital y conservación térmica avanzada, ideal para quienes buscan una experiencia de café más completa y profesional en el hogar. Su jarra térmica de acero inoxidable mantiene la temperatura por más tiempo, conservando sabor, aroma y frescura sin recalentar. Cuenta con panel…',
+  },
+  {
+    id: 'MLA36409137',
+    title: 'Cafetera espresso Ultracomb CE-6108 roja',
+    price: 133999,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_693732-MLA106780579790_022026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_693732-MLA106780579790_022026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_652374-MLA106780579796_022026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_620007-MLA107450982521_022026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_625132-MLA106780231516_022026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA36409137',
+    affiliateUrl: 'https://meli.la/11sCGja',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Ultracomb',
+    rating: 4.6,
+    reviewCount: 211,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'La cafetera espresso Ultracomb CE 6108 está diseñada para preparar café espresso o capuccino en el hogar. Cuenta con contenedor para café molido con capacidad para uno o dos pocillos y una bomba italiana de presión en acero inoxidable de 19 bar. Dispone de tanque de agua desmontable de gran capacidad y boquilla metálica de vapor con regulador de presión. Incorpora indicadores luminosos de…',
+  },
+  {
+    id: 'MLA62547964',
+    title: 'Cafetera express digital Liliana 2 en 1 20 bar 1200 W',
+    price: 174521,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_725326-MLA99126509940_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_725326-MLA99126509940_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_631635-MLA99607698253_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_801726-MLA99607698259_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_793254-MLA99126549580_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA62547964',
+    affiliateUrl: 'https://meli.la/2t3mqay',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Liliana',
+    rating: 4.7,
+    reviewCount: 49,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera Express Digital 2 En 1 20bar 1200w - Liliana 3 en 1: Compatible para cápsulas y café express. Panel de control digital con LED indicador de funciones. Potente bomba de presión de 20 bar. Caldera de aleación de aluminio fundido a presión. Tanque de agua transparente desmontable de 1.5 Lts. (15 pocillos) Multifiltros de acero inoxidable: Filtro de café express y adaptadores compatibles…',
+  },
+  {
+    id: 'MLA18562154',
+    title: 'Cafetera express Smartlife SL-EC8501 20 bares con espumador',
+    price: 194111,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_870792-MLA87138671692_072025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_861236-MLU72927931879_112023-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_981541-MLU72927912297_112023-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA18562154',
+    affiliateUrl: 'https://meli.la/1QMpWAw',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Smartlife',
+    rating: 4.6,
+    reviewCount: 1656,
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera express Smartlife SL-EC8501: la espresso económica más probada del catálogo, con 1.656 calificaciones y 4.6 estrellas. Bomba de 20 bares, espumador de leche a vapor, calentador de tazas y un as bajo la manga: trae dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso. Espresso real por menos de $200.000.',
+    aiReviewSummary: 'Relación precio-calidad excelente: 20 bares, espuma fácil y la flexibilidad de usar café molido o cápsulas Nespresso. Lo más elogiado: que por este precio "tiene todo". Las advertencias del panorama: el manual es malo (hay que mirar un tutorial), trae un tapón de silicona escondido en el depósito que hay que sacar antes de usarla, y los primeros cafés salen flojos hasta purgarla y agarrarle la mano.',
+    seoTitle: 'Cafetera Smartlife SL-EC8501: 20 bares, ¿la mejor barata?',
+    metaDescription: 'La express económica más vendida: 20 bares, espumador y acepta cápsulas Nespresso. 4.6★ en 1.656 opiniones. El truco del tapón escondido que tenés que saber.',
+    ogTitle: 'Smartlife SL-EC8501: espresso de 20 bares por menos de $200K (y un secreto en el depósito)',
+    ogDescription: '1.656 compradores la puntuaron 4.6★. Hace espresso con café molido O cápsulas Nespresso. Pero estrenala leyendo esto: hay un tapón que nadie encuentra.',
+    h1: 'Cafetera express Smartlife SL-EC8501: la espresso de 20 bares más vendida de la gama económica',
+    pros: [
+      '4.6⭐ con 1.656 calificaciones: la express económica más probada del catálogo',
+      '20 bares de presión: más que muchas máquinas del doble de precio',
+      'Dos portafiltros: café molido espresso Y cápsulas compatibles Nespresso',
+      'Espumador a vapor con perilla para vapor o agua caliente — espumar "es facilísimo" según las reviews',
+      'Calentador de tazas arriba y caldera de acero inoxidable',
+      'Depósito desmontable, fácil de cargar',
+    ],
+    cons: [
+      'El manual es malo: el panorama recomienda directamente mirar un tutorial en YouTube',
+      'Trae un tapón de silicona escondido dentro del depósito: si no lo sacás, la máquina no toma agua (la queja nº1)',
+      'Los primeros cafés salen flojos: necesita purga y un par de usos para calibrar el punto',
+      'A largo plazo el espumador puede perder fuerza (lo reporta una review tras 4 meses de uso intensivo)',
+      'La calidad percibida de los materiales es más sencilla de lo que muestran las fotos',
+    ],
+    verdict: 'La mejor puerta de entrada al espresso real por menos de $200.000: 20 bares, espuma fácil y cápsulas Nespresso como plan B. Exige 10 minutos de paciencia inicial (tutorial + tapón + purga) que el manual no te facilita.',
+    articleBody: `## La express económica más vendida del catálogo
+
+La Smartlife SL-EC8501 cuesta $194.111 y acumula 1.656 calificaciones con 4.6 estrellas — ninguna otra cafetera espresso de la gama económica del catálogo fue probada por tanta gente. La receta de su éxito: bomba de 20 bares (más presión que máquinas del doble de precio), espumador a vapor, calentador de tazas y un diferencial que casi nadie ofrece a este precio: acepta café molido y también cápsulas compatibles Nespresso.
+
+"Smartlife cafetera" es una búsqueda con nombre propio en Google Argentina, y este modelo es el motivo.
+
+## Dos portafiltros: molido o cápsulas Nespresso
+
+El as bajo la manga de la SL-EC8501: viene con dos mangos portafiltro, uno para café molido (espresso clásico) y otro para cápsulas tipo Nespresso — las chiquitas. Un comprador hizo la cuenta: comprar espresso + espumador + máquina de cápsulas por separado costaba mucho más; acá viene todo en una.
+
+Eso la vuelve una máquina sin compromiso: arrancás con cápsulas (cero técnica) y cuando te enganchás con el café pasás al molido, o al revés. Las reviews confirman que con cápsulas Nespresso "salen mejores cafés aún", aprovechando los 20 bares de presión.
+
+## El tapón escondido: leé esto antes de estrenarla
+
+La queja más repetida del panorama no es de la máquina, es del estreno: dentro del depósito de agua hay un tapón de silicona de transporte que no se ve, y si no lo sacás, la máquina hace todo el proceso sin tomar agua. Un comprador estuvo una hora hasta descubrirlo; otro lo resume con bronca: "el manual podría decir que trae un tapón de silicona entre el depósito y la máquina".
+
+Segunda advertencia de estreno: los primeros cafés salen flojos. Es normal — necesita una purga inicial (correr agua sin café para limpiar el circuito) y un par de usos para calibrar la molienda y el tiempo. Una review con 177 votos útiles lo confirma: "el café sale feo al principio, luego sale muy rico". Y tercera: el manual es malo, posiblemente de otro modelo o mal traducido — el consejo unánime es mirar un tutorial de 5 minutos en YouTube antes del primer café.
+
+## Espumar leche acá es fácil (de verdad)
+
+El espumador a vapor se maneja con una perilla lateral que elige entre vapor y agua caliente. El veredicto del panorama: "espumar la leche es facilísimo". Los trucos que suman las reviews: entibiar la leche unos segundos en el microondas antes (espuma más rápido), y dejar correr el chorrito de agua inicial en otro vaso antes de meter la jarra.
+
+El matiz honesto: una review con 4 meses de uso intensivo diario reporta que su espumador perdió fuerza con el tiempo. Es un caso entre 1.656, pero existe y lo contamos.
+
+## Lo que dicen las 1.656 calificaciones
+
+El desglose: 1.246 de 5 estrellas, 254 de 4, y 156 de 3 o menos. Los elogios: "sencilla pero tiene todo", el café sale caliente, la espuma "fantástica", "nada que envidiar a un resto bar", y la relación precio-calidad aparece en casi todas. El tip térmico del panorama: precalentar las tazas con el agua caliente de la propia máquina — para eso está el calentador de tazas de arriba.
+
+Las críticas reales, además del estreno complicado: la calidad de materiales "por fotos se ve de mucha mejor calidad", y que para un uso profesional no alcanza — "para el uso diario está excelente", aclara la misma review. Es exactamente lo que es: una espresso de hogar, honesta con su precio.
+
+## Contra las otras express del catálogo
+
+Por menos plata, la [Ultracomb CE-6108](/producto/MLA36409137) ($133.999) hace espresso de 15 bares con 211 reviews — pero sin la doble opción de cápsulas. Por un poco más, la [Liliana 2 en 1 de 20 bar](/producto/MLA62547964) ($174.521) compite directo. El salto de marca es la [Oster BVSTEM5501B](/producto/MLA23909880) ($289.999): mejor espumador con depósito de leche y respaldo Oster, al precio de resignar las cápsulas.
+
+Y si en realidad querés cápsulas sin ritual, la [Dolce Gusto Piccolo XS](/producto/MLA15705813) ($155.132) — la más vendida del catálogo — resuelve por menos, aunque con otro sistema de cápsulas y sin espresso de café molido.
+
+## ¿Para quién es la SL-EC8501 (y para quién no)?
+
+Es para vos si: querés espresso real y espuma de leche por menos de $200.000, te gusta la idea de alternar molido y cápsulas Nespresso, y estás dispuesto a invertir 10 minutos en un tutorial el primer día. No es para vos si: querés desempacar y que todo ande sin leer nada (mirá la Piccolo XS), o buscás calidad de cafetería para uso intensivo (ahí el salto es Oster o Peabody).
+
+A $194.111 con 4.6 estrellas y 1.656 votos, es la definición de comprar bien en la gama económica: sus defectos están documentados, son evitables, y lo que da por ese precio no lo da nadie.`,
+    specs: [
+      { label: 'Marca', value: 'Smartlife' },
+      { label: 'Modelo', value: 'SL-EC8501' },
+      { label: 'Tipo', value: 'Express semiautomática — café molido y cápsulas compatibles Nespresso' },
+      { label: 'Presión', value: '20 bar' },
+      { label: 'Potencia', value: '850 W' },
+      { label: 'Capacidad de agua', value: '473 mL (depósito desmontable)' },
+      { label: 'Portafiltros incluidos', value: '2: café molido y cápsulas tipo Nespresso' },
+      { label: 'Espumador', value: 'Vapor con perilla selectora (vapor / agua caliente)' },
+      { label: 'Calentador de tazas', value: 'Sí (superficie superior)' },
+      { label: 'Caldera', value: 'Acero inoxidable' },
+      { label: 'Bebidas recomendadas', value: 'Espresso, capuchino' },
+      { label: 'Capacidad de tazas', value: '2 (doble boquilla)' },
+      { label: 'Tiempo de preparación', value: '~1 minuto' },
+      { label: 'Indicador de agua', value: 'Sí (medidor transparente)' },
+      { label: 'Pantalla digital', value: 'No' },
+      { label: 'Antigoteo', value: 'No' },
+      { label: 'Medidas', value: '20,7 × 27 × 29,1 cm' },
+      { label: 'Peso', value: '3 kg' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Por qué la cafetera no toma agua al estrenarla?', answer: 'Casi seguro es el tapón de silicona de transporte que viene escondido dentro del depósito de agua, entre el depósito y la máquina. Es la queja nº1 del panorama de opiniones: si no lo sacás, la máquina hace el proceso completo sin agua. Sacalo antes del primer uso y listo.' },
+      { question: '¿Acepta cápsulas Nespresso?', answer: 'Sí, es su gran diferencial: viene con dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso (las chicas). Varios compradores reportan que con cápsulas los cafés salen incluso mejores, aprovechando los 20 bares.' },
+      { question: '¿Por qué los primeros cafés salen feos?', answer: 'Porque necesita una purga inicial (correr agua sin café) y un par de usos de calibración. Lo confirma la review más votada sobre el tema: "el café sale feo al principio, luego sale muy rico". No es falla, es estreno.' },
+      { question: '¿El manual sirve?', answer: 'No mucho: el panorama lo describe como mal traducido o de otro modelo. El consejo repetido es mirar un tutorial de YouTube de 5 minutos antes del primer uso — con eso, el funcionamiento es sencillo: tres botones y una perilla.' },
+      { question: '¿Cómo sé cuándo está lista para tirar el café?', answer: 'La luz titila mientras calienta; cuando queda fija, está lista. Aplica igual para el café y para el vapor del espumador. Es el tip operativo más repetido de las reviews.' },
+      { question: '¿Espuma bien la leche?', answer: 'Sí, es de lo más elogiado: "espumar la leche es facilísimo". Trucos del panorama: entibiar la leche antes en el microondas y dejar correr el primer chorrito de agua del vaporizador en otro vaso. Una sola review (uso intensivo, 4 meses) reporta que el espumador perdió fuerza con el tiempo.' },
+      { question: '¿Sale caliente el café?', answer: 'Sí, y para mejorarlo la máquina tiene calentador de tazas arriba. El tip de las reviews: precalentar la taza con el agua caliente de la propia máquina antes de extraer.' },
+      { question: '¿Conviene esta o la Oster BVSTEM5501B?', answer: 'La Smartlife da 20 bares + cápsulas Nespresso por $194.111; la Oster da mejor espumador (con depósito de leche), marca y terminación por $289.999, sin opción de cápsulas. Para entrar al espresso con flexibilidad, la Smartlife; para capuchinos diarios con menos maniobra, la Oster.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'febrero 2022', useful: 313, text: 'La compré para mi madre y no le tenía fe. Me sorprendió para bien. Es sencilla pero tiene todo. El tanque de agua se puede desmontar para cargarlo más fácil. Solo tiene tres botones: encendido, café y espumadera. La espumadera se puede seleccionar con una rueda lateral para vapor o agua caliente. Viene con dos mangos portafiltro: uno para el café espresso y el otro para cápsulas.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2022', useful: 177, text: 'Está bárbara. Es cierto dos de las cosas que comentan: el manual es malísimo, no sé si está mal traducido o corresponde a otro modelo. Segundo, el café sale feo al principio; luego sale muy rico y espumar la leche es facilísimo. Ni bien girás el botón siempre va a salir un poquito de agua: usá otro vaso. Otra cosa que hago es calentar la leche un poquito en el microondas antes.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2022', useful: 90, text: 'La volvería a comprar sin dudas. Quería una buena cafetera y esta me convenía porque viene con portafiltro no solo para café molido sino también para cápsulas (tipo Nespresso, las chiquitas), y además viene con espumador. Si compraba todo esto por separado me salía mucho más caro.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2022', useful: 40, text: 'Hice mis primeros cafés en casa, nada que envidiar a un resto bar. El café sale caliente, la espuma en la leche fantástica. Después de tantas vueltas sin saber qué cápsulas usar, encontré que es compatible con cápsulas Nespresso: mucho mejores cafés aún. Tiene 20 bares de presión, por lo cual es superior a las Nespresso y demás cafeteras.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2022', useful: 37, text: 'La cafetera anda espectacular. Solo un pequeño detalle para tener en cuenta: si no retirás el tapón que no se ve dentro del recipiente de agua, la máquina no recibe el líquido y hace todo el proceso sin agua. Estuve una hora para descubrir dicho tapón. Luego de retirarlo funcionó perfectamente.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2024', useful: 44, text: 'Relación calidad-precio excelente. Actualización después de 4 meses de uso: el espumador dejó de laburar, y desde el día uno uso el mismo tipo de leche. Hace ruido pero no espuma.' },
+      { rating: 4, country: 'Argentina', date: 'junio 2023', useful: 26, text: 'Más sencillo el uso que lo complicado de las instrucciones. La purga se ve por YouTube. Se enchufa, se hace una primera ronda para calentar el mecanismo con filtro sin café. El botón titila hasta que esté lista; una vez lista queda estable y ahí se aprieta el botón de café.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2023', useful: 23, text: 'Por fotos se ve de mucha mejor calidad. Pero funciona muy bien por ahora. Lo único a destacar: el manual de instrucciones podría decir que trae un tapón de silicona entre el depósito de agua y la máquina.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2022', useful: 14, text: 'La relación precio/calidad es muy buena. A medida que la vas usando vas aprendiendo cómo funciona. Si querés algo muy profesional no es este producto, pero para el uso diario está excelente. Hay que precalentar las tazas con el mismo agua de la máquina antes de servir el café para que la temperatura sea buena.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera express Smartlife SL-EC8501 20 bares',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg',
+      description: 'Cafetera express Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor, calentador de tazas, caldera de acero inoxidable y dos portafiltros (café molido y cápsulas compatibles Nespresso). 4.6 estrellas con 1.656 calificaciones en MercadoLibre Argentina.',
+      sku: 'SL-EC8501',
+      mpn: 'SL-EC8501',
+      brand: { '@type': 'Brand', name: 'Smartlife' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1QMpWAw',
+        priceCurrency: 'ARS',
+        price: 194111,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '1656',
+      },
+    },
+    relatedProducts: ['MLA36409137', 'MLA62547964', 'MLA23909880', 'MLA15705813'],
+  },
+  {
+    id: 'MLA70273936',
+    title: 'Cafetera express digital Liliana Prosteam AC987',
+    price: 222995,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_750090-MLA111236563934_052026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_750090-MLA111236563934_052026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_810939-MLA112257794887_052026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_828300-MLA112258559855_052026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA70273936',
+    affiliateUrl: 'https://meli.la/2E1zVUz',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Liliana',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'CAFETERA EXPRESS DIGITAL LILIANA PROSTEAM AC987 DATOS TÉCNICOS - Potencia: 1350 W - Bomba de presión: 20 bar - Capacidad del tanque: 1.5 L (15 pocillos) - Tipo de café compatible: Café molido - Multifiltros de acero inoxidable: Filtro para 1 o 2 tazas - Vaporizador regulable ideal para espumar leche o calentar líquidos - Panel de control digital - 5 funciones: Americano, espresso frío, espresso…',
+  },
+  {
+    id: 'MLA70275635',
+    title: 'Cafetera express digital Liliana Latesense AC991',
+    price: 272544,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_761176-MLA112258790315_052026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_761176-MLA112258790315_052026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_745448-MLA112259816421_052026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_786460-MLA111237816516_052026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_752457-MLA111238167322_052026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA70275635',
+    affiliateUrl: 'https://meli.la/1TD95w9',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Liliana',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'CAFETERA EXPRESS DIGITAL LILIANA LATESENSE AC991 DATOS TÉCNICOS - Potencia: 1350 W - Bomba de presión: 20 bar - Capacidad de tanque de agua: 1 L (10 pocillos) - Capacidad de depósito leche: 700 ml - Multifiltros de acero inoxidable: Filtro para 1 o 2 tazas - Vaporizador regulable ideal para espumar leche o calentar líquidos - Panel de control digital - 6 funciones: Espresso, cappuccino y latte…',
+  },
+  {
+    id: 'MLA15705813',
+    title: 'Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS',
+    price: 155132,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_623576-MLU72748568795_112023-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_625052-MLU72748501689_112023-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_706429-MLA41875311491_052020-F.jpg',
+    ],    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA15705813',
+    affiliateUrl: 'https://meli.la/1f93McA',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Moulinex',
+    line: 'Dolce Gusto',
+    rating: 4.8,
+    reviewCount: 8392,
+    badge: 'bestseller',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS (PV1A0558): la máquina de cápsulas más vendida del catálogo, con 4.8 estrellas y 8.392 calificaciones. 15 bares de presión en un cuerpo de 13,6 cm de ancho, depósito de 1 litro con tapa y más de 20 bebidas compatibles: café, capuchino, chocolate, té y bebidas frías. Un detalle clave: es 100% manual, el agua la cortás vos.',
+    aiReviewSummary: 'Sale bien caliente, rápido, y el tamaño es ideal para cocinas chicas. Lo más elogiado: la practicidad (cero lavado), el depósito con tapa que se rellena sin sacarlo y el cupón de 60% en cápsulas que viene en la caja. La crítica que se repite: no corta sola — es manual — y hasta agarrarle la mano los primeros cafés pueden salir aguados.',
+    seoTitle: 'Cafetera Dolce Gusto Piccolo XS: ¿la más vendida vale?',
+    metaDescription: 'La cafetera de cápsulas más vendida de Argentina: 4.8★ y 8.392 opiniones. 15 bares, más de 20 bebidas… pero es 100% manual. Lo que hay que saber antes de comprar.',
+    ogTitle: 'Piccolo XS: la cafetera de cápsulas que compró todo el mundo (4.8★, 8.392 opiniones)',
+    ogDescription: 'Sale caliente, en segundos y sin lavar nada. Pero ojo: no corta sola, es manual. El truco de la app de timer y el cupón del 60% en cápsulas, explicados.',
+    h1: 'Cafetera Moulinex Dolce Gusto Piccolo XS: la de cápsulas más vendida de Argentina, con un detalle que tenés que saber antes de comprar',
+    pros: [
+      '4.8⭐ con 8.392 calificaciones: la cafetera de cápsulas más vendida del catálogo',
+      '15 bares de presión: crema espesa y café de calidad en menos de un minuto',
+      'Más de 20 bebidas: espresso, capuchino, chococino, té, y también frías',
+      'Compacta de verdad: 13,6 cm de ancho, entra en cualquier cocina',
+      'Depósito de 1 L con tapa: se rellena sin sacarlo — los compradores lo valoran más que el corte automático',
+      'Trae cupón de 60% de descuento en cápsulas Dolce Gusto (lo confirman reviews de 2025)',
+    ],
+    cons: [
+      'Es 100% manual: no corta sola, el agua la frenás vos — los primeros cafés pueden salir aguados',
+      'Sin temporizador ni control de temperatura: el punto justo se aprende con la práctica (o con una app de timer)',
+      'Una taza por vez, y conviene tomarla al toque: si te demorás, se enfría',
+      'El costo por taza de cápsula es más alto que el café molido (hack del panorama: cápsulas recargables)',
+    ],
+    verdict: 'La puerta de entrada a las cápsulas: compacta, confiable y con miles de compradores contentos. Si querés que la máquina corte sola o buscás el café más barato por taza, abajo hay alternativas del catálogo.',
+    articleBody: `## La cafetera de cápsulas más vendida de Argentina
+
+La Piccolo XS es la máquina Dolce Gusto de entrada: la fabrica Moulinex bajo licencia de Nescafé, cuesta $155.132 y acumula 8.392 calificaciones con 4.8 estrellas — ninguna otra cafetera del catálogo se le acerca en cantidad de compradores. Mide 13,6 cm de ancho, mete 15 bares de presión y prepara más de 20 bebidas distintas con cápsulas Dolce Gusto.
+
+¿Por qué se vende tanto? Porque resuelve el caso más común: querer café rico, rápido y sin lavar nada, en una cocina donde no sobra lugar. Enchufás, a los segundos prende la luz verde, ponés la cápsula y en menos de un minuto tenés la taza lista.
+
+## Qué podés preparar: más de 20 bebidas, no solo café
+
+El sistema Dolce Gusto es el más "variado" de los de cápsulas: espresso, café con leche, capuchino, chococino (chocolate), té y versiones frías. Esa variedad es la razón por la que muchas familias la eligen sobre una Nespresso clásica, que está pensada casi exclusivamente para espresso.
+
+Las reviews suman usos que no figuran en la caja: varios compradores la usan para té en saquitos y hasta mate cocido, porque el agua caliente sale enseguida. Y funciona con cápsulas compatibles de supermercado (Starbucks para Dolce Gusto, marcas propias) además de las originales.
+
+## Es manual: el detalle que confunde a más compradores
+
+Acá va la aclaración más importante de toda la ficha, porque la publicación de MercadoLibre dice "tecnología automática" y no es así como lo entendería cualquiera: la Piccolo XS no corta el agua sola. Movés la palanca para empezar y la volvés a mover para frenar. La caja trae un instructivo con los segundos recomendados por bebida, y la comunidad usa apps de timer (los compradores recomiendan TimerDolca) para clavar el punto exacto.
+
+Un comprador lo resumió perfecto: al principio, hasta agarrarle la mano, "los cafés salían aguados". Después de la primera semana, sale igual que en una automática. Si ese ritual de 30 segundos te molesta, esta no es tu máquina; si no te cambia nada, te ahorrás una diferencia de precio grande contra los modelos automáticos.
+
+## El truco de las cápsulas: cupón del 60% y recargables
+
+El costo real de una cafetera de cápsulas no es la máquina, son las cápsulas. Tres datos del panorama de opiniones que mejoran mucho la cuenta: la caja trae un cupón de 60% de descuento para la tienda online de Dolce Gusto (confirmado por reviews de enero 2025), la web oficial hace descuentos por cantidad, y existen cápsulas recargables que se cargan con tu café molido favorito — el hack preferido de los compradores que toman varios cafés por día.
+
+## Lo que dicen 8.392 calificaciones (incluidas las malas)
+
+El desglose real: 7.346 personas pusieron 5 estrellas, 689 pusieron 4, y 357 calificaron con 3 o menos. Los elogios repetidos: sale bien caliente (un mito de foros decía lo contrario), es rápida, ocupa nada y el depósito con tapa se rellena sin desmontarlo — un comprador que venía de una Genio 2 automática dice que eso le resultó más útil que el corte automático que perdió.
+
+Las críticas honestas: el corte manual sorprende al que no leyó la letra chica, el café conviene tomarlo al toque porque la taza no se mantiene caliente, y hace una taza por vez — en una mesa de cuatro, el último espera.
+
+## Piccolo XS vs las otras cafeteras de cápsulas del catálogo
+
+Contra la [Nespresso Inissia](/producto/MLA23385666) ($350.000): sistemas distintos. Nespresso hace mejor espresso puro; Dolce Gusto gana en variedad (chocolate, té, bebidas con leche) y la Piccolo cuesta menos de la mitad. Contra la [Smartlife 3 en 1](/producto/MLA28314113) ($528.131): la Smartlife acepta cápsulas Dolce Gusto, Nespresso y café molido — flexibilidad total, a más del triple de precio.
+
+Y si lo tuyo es el café molido de verdad, una express económica como la [Smartlife SL-EC8501](/producto/MLA18562154) ($194.111) o la [Ultracomb CE-6108](/producto/MLA36409137) ($133.999) te da espresso con espumador por plata parecida — a cambio de moler, cargar y limpiar.
+
+## ¿Para quién es la Piccolo XS (y para quién no)?
+
+Es para vos si: es tu primera cafetera de cápsulas, tenés poco lugar, querés variedad (café, chocolate, té) y no te molesta un ritual manual de 30 segundos. No es para vos si: querés apretar un botón y que corte sola, tomás varios cafés seguidos (una taza por vez), o mirás el costo por taza con lupa — ahí gana el café molido y una de filtro.
+
+A $155.132 con 4.8 estrellas y 8.392 votos, es la compra más segura del catálogo de cafeteras: el riesgo de arrepentirte está medido por miles de personas que ya pasaron por ahí.`,
+    specs: [
+      { label: 'Fabricante', value: 'Moulinex (licencia Nescafé Dolce Gusto)' },
+      { label: 'Modelo', value: 'Piccolo XS (PV1A0558)' },
+      { label: 'Tipo', value: 'Cápsulas monodosis Dolce Gusto' },
+      { label: 'Presión', value: '15 bar' },
+      { label: 'Potencia', value: '1.340 W' },
+      { label: 'Capacidad de agua', value: '1 L (depósito con tapa, se rellena sin sacarlo)' },
+      { label: 'Dosificación', value: 'Manual — no corta sola (la ficha de ML dice "automática", pero refiere al encendido)' },
+      { label: 'Tazas por preparación', value: '1' },
+      { label: 'Tiempo de preparación', value: 'Menos de 1 minuto' },
+      { label: 'Bebidas compatibles', value: 'Más de 20: espresso, capuchino, chococino, té, frías' },
+      { label: 'Cápsulas compatibles', value: 'Dolce Gusto originales y compatibles (incl. recargables)' },
+      { label: 'Antigoteo', value: 'Sí' },
+      { label: 'Indicador de nivel de agua', value: 'Sí' },
+      { label: 'Bandeja recolectora removible', value: 'Sí' },
+      { label: 'Control de temperatura', value: 'No' },
+      { label: 'Emisión de vapor', value: 'No' },
+      { label: 'Medidas', value: '13,6 × 26,6 × 27,6 cm' },
+      { label: 'Peso', value: '2 kg' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Piccolo XS corta el agua sola?', answer: 'No. Es 100% manual: movés la palanca para empezar y la volvés a mover para frenar. Trae un instructivo con los segundos por bebida y los compradores recomiendan usar una app de timer (como TimerDolca) para el punto exacto. A los modelos que cortan solos se los llama "automáticos" y cuestan bastante más.' },
+      { question: '¿Qué cápsulas acepta?', answer: 'Cápsulas del sistema Dolce Gusto: las originales de Nescafé y las compatibles (Starbucks para Dolce Gusto, marcas de supermercado). También existen cápsulas recargables para usar tu propio café molido, el truco favorito del panorama de opiniones para bajar el costo por taza.' },
+      { question: '¿El café sale caliente?', answer: 'Sí. Es uno de los mitos que las reviews desarman: "sale perfecta la temperatura, bien calentito". El detalle es que conviene tomarlo enseguida — la máquina no mantiene la taza caliente, así que si te demorás, se enfría.' },
+      { question: '¿Cuánto tarda en preparar un café?', answer: 'Menos de un minuto. Al enchufarla, en segundos se prende la luz verde que indica que está lista, y la extracción con la cápsula tarda unos 30-40 segundos según la bebida.' },
+      { question: '¿Sirve para preparar té o mate cocido?', answer: 'Sí. Aunque no es su función oficial, varios compradores la usan con saquitos porque el agua caliente sale al instante. También hay cápsulas Dolce Gusto de té.' },
+      { question: '¿Cuál es la diferencia con una Nespresso?', answer: 'Son sistemas de cápsulas distintos e incompatibles. Nespresso está pensado para espresso puro de especialidad; Dolce Gusto apunta a la variedad: café, capuchino, chocolate, té y bebidas frías. La Piccolo XS además cuesta menos de la mitad que la Nespresso Inissia del catálogo.' },
+      { question: '¿Viene con descuento para comprar cápsulas?', answer: 'Sí: la caja trae un cupón de 60% de descuento para la tienda online de Dolce Gusto. Lo confirman reviews recientes — un comprador de 2025 cuenta que se llevó 6 cajas de cápsulas y una lata "por dos mangos" usando ese cupón.' },
+      { question: '¿El modelo es PV1A0558 o PV1A0158?', answer: 'Es la misma máquina: PV1A0558 es el modelo detallado de la versión roja que vende esta publicación (la ficha técnica de ML también lista el alfanumérico PV1A0158). Lo importante es que es la Piccolo XS, la Dolce Gusto manual de entrada.' },
+      { question: '¿Conviene la Piccolo XS o una cafetera express?', answer: 'Depende del ritual. La Piccolo gana en velocidad, variedad y cero limpieza; una express económica como la Smartlife SL-EC8501 o la Ultracomb CE-6108 gana en sabor de espresso real con café molido y costo por taza, a cambio de moler, tampear y limpiar. Si venís del café instantáneo, la Piccolo es el salto más fácil.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'enero 2022', useful: 148, text: 'Yo tenía una Genio 2, era automática; esta es manual pero a cambio el depósito de agua tiene tapa y no es necesario extraerlo para rellenarlo, lo que me resultó mucho más útil que el hecho de que fuera automática. Los cafés salen iguales a la anterior y su temperatura es muy buena, salen bien calientes. Dado que la diferencia de precios es bastante, recomiendo absolutamente esta máquina.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2022', useful: 125, text: 'Esperé 7 meses para opinar. Le doy uso continuo todos los días. La verdad es excelente, el tamaño perfecto, entra genial en mi cocina chica. Lo único que critico nomás es que no corte sola, porque al principio que no le agarrábamos la mano a veces los cafés salían aguados. Pero después todo perfecto.' },
+      { rating: 5, country: 'Argentina', date: 'enero 2025', useful: 77, text: 'Excelente, con la cafetera te viene un cupón de descuento del 60% en compras de Dolce Gusto. Me compré 6 cajas de cápsulas y una lata por dos mangos con ese descuento.' },
+      { rating: 5, country: 'Argentina', date: 'diciembre 2022', useful: 56, text: 'Había leído algunos comentarios de que el café salía frío o tibio pero no es así, ¡sale perfecta la temperatura, bien calentito! Apenas la enchufás, a los segundos se pone la luz verde que te habilita a usarla. La probamos con cápsulas Dolce Gusto y La Virginia, las dos funcionan perfecto. Al ser corte manual viene con un instructivo de cómo se prepara cada variedad de café.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2022', useful: 53, text: 'Práctica y útil. No hay que lavar nada y en unos segundos estás disfrutando tus capuchinos, cafés o cualquiera de sus variedades. En mi casa también la usamos para hacer el té y mate cocido en saquitos, ya que sale el agua caliente enseguida. Una función extra que le encontramos.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2024', useful: 34, text: 'Excelente, tener en cuenta que sale al punto justo: si te demorás charlando se enfría. Para que ande hay que sacar la bandeja de cápsula, poner y se activa sola. Compré cápsulas desde la web de Dolce Gusto, muy buenos descuentos en cantidad. En roja es muy fachera.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2024', useful: 27, text: 'El producto es bueno, sale caliente, es muy rápido, pero deberían aclarar bien que no es automático y explicar qué significa eso: ponés la cápsula, bajás la palanca hacia el lado calor y uno debe cortar, sino sigue saliendo agua. Las otras cortan automáticamente según el punto seleccionado. Lo entendí cuando la saqué de la caja. Igualmente la compré por el precio, muy bien precio.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2021', useful: 37, text: 'Me encanta, es manual. Recomiendo descargarse alguna app de timer para poder calcular bien el tiempo para una preparación óptima. Las opciones de café están buenísimas, pero recomiendo comprar las cápsulas recargables y seleccionar bien qué preparar en base al gusto personal.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera Moulinex Dolce Gusto Piccolo XS PV1A0558',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg',
+      description: 'Cafetera de cápsulas Dolce Gusto Piccolo XS fabricada por Moulinex. 15 bares de presión, depósito de 1 L, más de 20 bebidas compatibles, dosificación manual. La cafetera de cápsulas más vendida de MercadoLibre Argentina: 4.8 estrellas con 8.392 calificaciones.',
+      sku: 'PV1A0558',
+      mpn: 'PV1A0558',
+      brand: { '@type': 'Brand', name: 'Moulinex' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1f93McA',
+        priceCurrency: 'ARS',
+        price: 155132,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '8392',
+      },
+    },
+    relatedProducts: ['MLA23385666', 'MLA28314113', 'MLA18562154', 'MLA36409137'],
+  },
+  {
+    id: 'MLA23385666',
+    title: 'Cafetera de cápsulas Nespresso Inissia crema',
+    price: 350000,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_666551-MLU73601202636_122023-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_666551-MLU73601202636_122023-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_905639-MLU69503276202_052023-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_955753-MLU74143247905_012024-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1581204795',
+    affiliateUrl: 'https://meli.la/1rEtjYg',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Nespresso',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Desde hace más de 30 años Nespresso, es una marca emblemática en concepto de café expresso perfecto. Comercializa productos con características tales como calidad, innovación, exclusividad y con un design inigualable.',
+  },
+  {
+    id: 'MLA28314113',
+    title: 'Cafetera Smartlife 3 en 1 cápsulas Nespresso, Dolce Gusto y café molido',
+    price: 528131,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_734553-MLA99935520841_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_734553-MLA99935520841_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_820878-MLA87463577207_072025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_643211-MLU73046273047_112023-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_646029-MLU73792299923_012024-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA28314113',
+    affiliateUrl: 'https://meli.la/1soScPB',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Smartlife',
+    rating: 4.7,
+    reviewCount: 1654,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Regalate una pausa Empezá tu día con energía y de la mejor manera, disfrutando de la textura y calidad de un buen café en la comodidad de tu casa. Desayuno al instante Si te apasiona el café molido no vas a poder resistirte al exquisito aroma de un expreso por las mañanas. Prepará los mejores cafés de manera sencilla y rápida. Sabor intenso en minutos Preparar café de manera rápida y sencilla es…',
+  },
+  {
+    id: 'MLA23909880',
+    title: 'Cafetera espresso Oster BVSTEM5501B negra',
+    price: 289999,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_811045-MLA100066139885_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_811045-MLA100066139885_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_915908-MLA109737902407_032026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_696365-MLA84835979557_052025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_723147-MLA84835979575_052025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA23909880',
+    affiliateUrl: 'https://meli.la/1SZrW1t',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Oster',
+    rating: 4.7,
+    reviewCount: 402,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera espresso Oster BVSTEM5501B: la puerta de entrada a la marca de cafeteras más buscada de Argentina. Bomba italiana de 15 bares, espumador de leche con depósito de 250 mL y estructura de acero inoxidable. Espresso, capuchino y latte en casa, con 4.7 estrellas y 402 calificaciones. Es semiautomática: el corte del agua lo manejás vos.',
+    aiReviewSummary: 'Fácil de usar y de limpiar, el café sale rico y la espuma de leche resuelve capuchinos y lattes sin técnica. Lo más elogiado: la relación precio-calidad para entrar al mundo del espresso. Las críticas del panorama: no corta sola, el café a veces sale tibio, el espumador es algo incómodo y algunas partes son de plástico más sencillo de lo esperado.',
+    seoTitle: 'Cafetera Oster BVSTEM5501B: ¿la espresso de entrada rinde?',
+    metaDescription: 'La espresso más accesible de Oster: 15 bares, espumador de leche y 4.7★ en 402 opiniones. Sus contras honestas — corte manual y temperatura — antes de comprar.',
+    ogTitle: 'Oster BVSTEM5501B: espresso y capuchino en casa sin pagar el tope de gama',
+    ogDescription: 'La Oster de entrada: 15 bares, espumador de leche y 4.7★. Te contamos lo que las reviews elogian y las dos cosas que critican, sin filtro.',
+    h1: 'Cafetera Oster BVSTEM5501B: la espresso de entrada de la marca que todos buscan',
+    pros: [
+      '4.7⭐ con 402 calificaciones: la Oster espresso accesible más probada del catálogo',
+      'Bomba italiana de 15 bares: espresso con crema de verdad, no café aguado',
+      'Espumador de leche con depósito de 250 mL: capuchinos y lattes sin técnica de barista',
+      'Estructura de acero inoxidable y tamaño compacto frente a otras espresso',
+      'Incluye 2 filtros (1 y 2 tazas) y cuchara medidora con apisonador',
+      'Fácil de usar y de limpiar: las reviews la recomiendan como primera cafetera espresso',
+    ],
+    cons: [
+      'No corta sola: la extracción la frenás vos (las Oster más caras sí lo hacen automático)',
+      'Temperatura justa: alguna review pide que el café salga más caliente — conviene precalentar la taza',
+      'El espumador funciona bien pero es incómodo de maniobrar según varios compradores',
+      'Aunque la estructura es de acero, varias piezas son de plástico sencillo',
+    ],
+    verdict: 'La forma más barata de tener una Oster espresso real en la mesada: 15 bares, espumador y marca con respaldo. Si querés molinillo integrado y corte automático, el salto es la Perfect Brew EM7301 — al triple de precio.',
+    articleBody: `## La puerta de entrada a Oster
+
+La BVSTEM5501B es la cafetera espresso accesible de Oster: cuesta $289.999, tiene bomba italiana de 15 bares, espumador de leche con depósito propio y junta 4.7 estrellas en 402 calificaciones. "Cafetera Oster" es de lo más buscado en Google Argentina cuando se habla de café, y este modelo es el que responde esa búsqueda sin irse al precio de los tope de gama.
+
+La promesa es simple: espresso, capuchino, latte y americano en casa, con la presión correcta para que el café salga con crema y no como un cortado lavado.
+
+## Bomba italiana de 15 bares y espumador: lo que hace bien
+
+Los 15 bares son la presión de referencia para espresso doméstico — la misma cifra que máquinas que cuestan el doble. El resultado, según el panorama de opiniones, está a la altura: "el café sale bárbaro", "salen muy buenos", "los fecas salen joya". La máquina calienta rápido y la extracción es pareja.
+
+El espumador con depósito de leche de 250 mL es el diferencial frente a las espresso económicas con vaporizador pelado: dosifica la espuma sin que tengas que aprender técnica. Una compradora lo resume bien: "el espumador con la leche correcta te soluciona la vida". El detalle honesto: funciona bien, pero más de una review lo describe como incómodo de usar y con fiaca de limpiar.
+
+## Semiautomática: el corte lo manejás vos
+
+Igual que la mayoría de las espresso de su rango, la 5501 no corta la extracción sola: vos decidís cuándo frenar. Una review lo dice sin vueltas: "lo que no tiene es que no corta sola, después es una muy buena". Las Oster más completas (como la línea Perfect Brew) agregan dosificación automática — y lo cobran.
+
+En la práctica es menos grave de lo que suena: con dos o tres cafés le tomás el tiempo, y los filtros de 1 y 2 tazas te dan la medida del café. Pero si tu sueño es apretar un botón y volver con el café listo, esta no es esa máquina.
+
+## Lo que dicen las 402 calificaciones (incluidas las críticas)
+
+El desglose: 313 personas pusieron 5 estrellas, 67 pusieron 4, y solo 22 calificaron con 3 o menos. Los elogios constantes: facilidad de uso, facilidad de limpieza, velocidad, y que es la entrada ideal al espresso — varios compradores primerizos la recomiendan exactamente para eso.
+
+Las críticas, que están y conviene conocer: el café "a veces medio tibio" (el tip clásico: precalentar la taza con agua caliente), el espumador incómodo, y la sensación de que algunas piezas son "un poco baratitas, mucho plástico" — aunque la estructura es de acero inoxidable. Un dato bueno de durabilidad: una review de fines de 2025 reporta un año y medio de uso diario sin problemas, con la recomendación de usar agua filtrada y limpieza regular.
+
+## Accesorios y mantenimiento
+
+Viene completa para arrancar: portafiltro, dos filtros permanentes (café simple y doble), cuchara medidora con apisonador (tamper) y bandeja recolectora removible. El depósito de agua es de 900 mL — suficiente para varios cafés sin recargar.
+
+El mantenimiento que sugiere el panorama de opiniones: agua de filtro para evitar sarro, enjuague diario del espumador (es la pieza que más se ensucia) y una limpieza profunda cada tanto. Nada distinto del resto de las espresso, pero acá está confirmado por gente con más de un año de uso.
+
+## Contra las otras espresso del catálogo
+
+El salto natural dentro de Oster es la [Perfect Brew EM7301](/producto/MLA48828162) ($838.899): molinillo integrado, corte automático y 4.9 estrellas — pero cuesta casi el triple. En el medio está la [Peabody PE-CE5010N](/producto/MLA47077888) ($520.336), que agrega molinillo por menos plata que la Oster grande.
+
+Hacia abajo, la [Smartlife SL-EC8501](/producto/MLA18562154) ($194.111) y la [Ultracomb CE-6108](/producto/MLA36409137) ($133.999) hacen espresso de 15-20 bares por menos, con más de mil reviews entre las dos — a cambio de resignar la marca y el espumador con depósito. Y si lo que buscás es cero ritual, la [Dolce Gusto Piccolo XS](/producto/MLA15705813) ($155.132) resuelve con cápsulas.
+
+## ¿Para quién es la Oster 5501 (y para quién no)?
+
+Es para vos si: querés tu primera espresso "seria" con respaldo de marca, tomás capuchinos o lattes (el espumador acá vale oro) y no te molesta cortar la extracción a mano. No es para vos si: querés molinillo integrado y automatización (Perfect Brew o Peabody con molinillo), o si tu presupuesto está en los $130-200K, donde Smartlife y Ultracomb dan espresso digno sin la marca.
+
+A $289.999 con 4.7 estrellas, es el punto medio exacto del catálogo: más seria que las económicas, mucho más accesible que los tope de gama.`,
+    specs: [
+      { label: 'Marca / Fabricante', value: 'Oster' },
+      { label: 'Modelo', value: 'BVSTEM5501B' },
+      { label: 'Tipo', value: 'Espresso semiautomática (café molido, sin cápsulas)' },
+      { label: 'Presión', value: '15 bar (bomba italiana)' },
+      { label: 'Potencia', value: '1.170 W' },
+      { label: 'Capacidad de agua', value: '900 mL' },
+      { label: 'Depósito de leche', value: '250 mL con espumador integrado' },
+      { label: 'Bebidas recomendadas', value: 'Espresso, capuchino, latte, americano' },
+      { label: 'Dosificación', value: 'Manual — sin corte automático de extracción' },
+      { label: 'Estructura', value: 'Acero inoxidable (con piezas plásticas)' },
+      { label: 'Filtros', value: '2 permanentes: café simple y doble' },
+      { label: 'Accesorios', value: 'Portafiltro, cuchara medidora con apisonador, bandeja removible' },
+      { label: 'Emisión de vapor', value: 'Sí' },
+      { label: 'Doble boquilla', value: 'Sí (dos tazas a la vez)' },
+      { label: 'Indicador de agua', value: 'Sí' },
+      { label: 'Pantalla digital', value: 'No' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Oster BVSTEM5501B corta sola la extracción?', answer: 'No, es semiautomática: vos frenás la salida del café. Las reviews lo marcan como su única falta importante. Dentro de Oster, el corte automático llega con la línea Perfect Brew, que cuesta bastante más.' },
+      { question: '¿Hace capuchino de verdad?', answer: 'Sí, y es su punto fuerte: el espumador con depósito de leche de 250 mL dosifica la espuma sin técnica de barista. El panorama de opiniones lo confirma, aunque varios lo describen como incómodo de maniobrar y de limpiar.' },
+      { question: '¿El café sale caliente?', answer: 'Sale a temperatura correcta pero justa: alguna review de 4 estrellas pide que salga más caliente. El truco estándar: precalentar la taza con agua caliente antes de extraer, y tomar el café apenas sale.' },
+      { question: '¿Usa cápsulas?', answer: 'No, funciona exclusivamente con café molido. Viene con dos filtros permanentes (para café simple y doble) y cuchara con apisonador. Si querés cápsulas, mirá la Dolce Gusto Piccolo XS o la Smartlife 3 en 1 del catálogo.' },
+      { question: '¿Es buena como primera cafetera espresso?', answer: 'Es exactamente el perfil que más la recomienda en las reviews: fácil de usar, fácil de limpiar, completa de accesorios y con resultado de espresso real. Más de un comprador primerizo dice que es "muy buena opción para entrar al mundo del café espresso".' },
+      { question: '¿Qué mantenimiento necesita?', answer: 'El que confirma una review con un año y medio de uso diario: agua de filtro para evitar sarro, enjuague del espumador después de usarlo y una limpieza profunda periódica. Nada fuera de lo normal para una espresso.' },
+      { question: '¿Puede hacer dos cafés a la vez?', answer: 'Sí: tiene doble boquilla y filtro para café doble. Una review aclara que las dos tazas entran bien corriendo el depósito de leche, un detalle práctico del diseño compacto.' },
+      { question: '¿Conviene esta o la Oster Perfect Brew?', answer: 'Depende del presupuesto. La 5501 ($289.999) da espresso y capuchino con 15 bares; la Perfect Brew EM7301 ($838.899) agrega molinillo integrado, corte automático y 4.9 estrellas. Si el café recién molido no es tu obsesión, la 5501 cubre el 90% del uso real por un tercio del precio.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'junio 2024', useful: 11, text: 'Es mi primera cafetera. Me encantó, fácil de usar, de limpiar. La calidad del material capaz es un poco baratito, mucho plástico, pero para una cafetera de hogar sirve. Viene con filtro para 1 y 2 tazas. Las 2 tazas entran perfectamente corriendo el envase de leche, lo que me pareció muy práctico. La leche no tarda en espumar y el café seguía caliente.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2024', useful: 33, text: 'La amo, súper fácil de usar. Vi buenas reseñas, por eso la compré.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2024', useful: 3, text: 'Bastante buena en relación precio y calidad. Soy bastante nueva en el mundo del café, pero salen muy buenos. El espumador con la leche correcta te soluciona la vida; da un poco de fiaca limpiarlo, pero queda bastante bien. La máquina es rápida, fácil de usar y limpiar. Muy buena opción para gente que quiere entrar en el mundo del café espresso.' },
+      { rating: 5, country: 'Argentina', date: 'mayo 2024', useful: 5, text: 'Buena calidad, funciones simples, aunque no tiene programado el corte automático de finalización del proceso, como otras Oster — obviamente por no ser el modelo más completo. Es de tamaño más pequeño que otros modelos.' },
+      { rating: 5, country: 'Argentina', date: 'diciembre 2025', useful: 2, text: 'Excelente producto. La tengo hace 1 año y medio y me encanta. Recomiendo usar agua de filtro y limpieza diaria, cada tanto una limpieza profunda. Muy recomendable, 10/10.' },
+      { rating: 4, country: 'Argentina', date: 'enero 2025', useful: 2, text: 'Me gustaría que salga más caliente el café, al límite de temperatura. A veces medio tibio.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2024', useful: 2, text: 'El café sale bárbaro, como era de esperarse por ser marca Oster. El único tema es la espumadera: es buena, funciona bien, pero es incómoda de usar. Prefiero usar el café y calentar la leche en el microondas, sinceramente. Hubiese estado bueno que sea una vaporera de leche.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2025', useful: 2, text: 'Es una máquina súper sencilla de usar. Lo que no tiene es que no corta sola; después, es una muy buena.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera espresso Oster BVSTEM5501B',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_811045-MLA100066139885_122025-F.jpg',
+      description: 'Cafetera espresso semiautomática Oster BVSTEM5501B: bomba italiana de 15 bares, espumador de leche con depósito de 250 mL, estructura de acero inoxidable, filtros para café simple y doble. 4.7 estrellas con 402 calificaciones en MercadoLibre Argentina.',
+      sku: 'BVSTEM5501B',
+      mpn: 'BVSTEM5501B',
+      brand: { '@type': 'Brand', name: 'Oster' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1SZrW1t',
+        priceCurrency: 'ARS',
+        price: 289999,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '402',
+      },
+    },
+    relatedProducts: ['MLA48828162', 'MLA47077888', 'MLA18562154', 'MLA36409137'],
+  },
+  {
+    id: 'MLA47077888',
+    title: 'Cafetera express Peabody PE-CE5010N 19 bar con molinillo',
+    price: 520336,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_937822-MLA99945605211_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_937822-MLA99945605211_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_881528-MLA87303866344_072025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_701564-MLA87303797904_072025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_823538-MLA87631702257_072025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA47077888',
+    affiliateUrl: 'https://meli.la/2uKu8pv',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Peabody',
+    rating: 4.6,
+    reviewCount: 237,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Bomba Italiana ULKA de 19 bares de presión, para una óptima extracción: - Medidor de presión frontal. Tanque de agua de 1,4 L, removible y fácil de llenar y limpiar. - Función preseteada para 1 taza o modo Manual. - Sistema THERMOBLOCK para pre-calentamiento rápido y control preciso de temperatura. Logra la temperatura ideal en segundos para un espresso perfecto. - Conductos internos de acero…',
+  },
+  {
+    id: 'MLA48828162',
+    title: 'Cafetera espresso Oster Perfect Brew EM7301 con molinillo',
+    price: 838899,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_611727-MLA100054728735_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_611727-MLA100054728735_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_852799-MLA110229502885_042026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_989967-MLA84855145689_052025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_945269-MLA110229562315_042026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA48828162',
+    affiliateUrl: 'https://meli.la/2amGBqP',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Oster',
+    rating: 4.9,
+    reviewCount: 110,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'Cafetera Espresso Oster® Perfect Brew – Con molinillo integrado y tubo de vapor Tempsense™ La cafetera espresso Oster® Perfect Brew te ofrece la experiencia de una cafetería en tu casa, con resultados profesionales en solo tres pasos: Molienda precisa y sin derrames: Su molinillo cónico de muelas cuenta con 30 configuraciones para ajustar la molienda a tu gusto. Gracias a su tecnología…',
+  },
+  {
+    id: 'MLA53370426',
+    title: 'Cafetera express Peabody PE-CE5023IX automática con molinillo',
+    price: 981818,
+    priceUpdated: '2026-06-09',
+    priceLastChecked: '2026-06-09',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_911965-MLA88936123860_082025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_777354-MLA88936123872_082025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_874413-MLA88936228062_082025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA53370426',
+    affiliateUrl: 'https://meli.la/1n158eE',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Peabody',
+    rating: 4.8,
+    reviewCount: 75,
+    pastelColor: 'var(--pastel-coral)',
+    description: 'PE-CE5023IX',
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
