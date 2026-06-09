@@ -124,7 +124,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       return (
         <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-[var(--color-trending-up)] bg-[var(--color-trending-up)]/10">
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)] font-medium">
-            {section.content}
+            {section.content ? parseInlineLinks(section.content) : null}
           </p>
         </div>
       );
@@ -133,7 +133,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       return (
         <div className="my-5 p-4 rounded-[var(--radius-card)] border-l-4 border-amber-500 bg-amber-500/10">
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)]">
-            {section.content}
+            {section.content ? parseInlineLinks(section.content) : null}
           </p>
         </div>
       );

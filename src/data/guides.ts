@@ -13081,4 +13081,9 @@ export const guideCategories: Record<string, { name: string; description: string
     description:
       "Comparativas honestas de aspiradoras robot en MercadoLibre Argentina: Xiaomi, Samsung, Gadnic, Atma y más. Precios reales, mapeo láser, trapeado y cuál conviene según tu casa.",
   },
+  cafeteras: {
+    name: "Guía de Cafeteras",
+    description:
+      "Comparativas honestas de cafeteras en MercadoLibre Argentina: express, de cápsulas y de filtro. Oster, Smartlife, Peabody, Dolce Gusto y más, con precios reales y reseñas verificadas.",
+  },
 };
