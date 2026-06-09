@@ -7,6 +7,7 @@ import { ArrowRight, ExternalLink, ChevronRight, Truck, Shield, Check, X } from 
 import { gsap, useGSAP } from "@/lib/gsap-config";
 import { Badge } from "@/components/ui/Badge";
 import { ProductGallery } from "./ProductGallery";
+import { StickyMobileCta } from "./StickyMobileCta";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { productHref } from "@/lib/product-url";
@@ -185,7 +186,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
           )}
 
           {/* CTA */}
-          <div className="mt-6 flex flex-col sm:flex-row gap-3">
+          <div id="product-main-cta" className="mt-6 flex flex-col sm:flex-row gap-3">
             <AffiliateLink
               href={product.affiliateUrl}
               className="flex items-center justify-center gap-2 px-6 py-3 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
@@ -389,7 +390,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       {/* ─── Bottom CTA ─── */}
       {(product.articleBody || product.faq) && (
-        <div className="mt-8 max-w-3xl flex justify-center">
+        <div id="product-bottom-cta" className="mt-8 max-w-3xl flex justify-center">
           <AffiliateLink
             href={product.affiliateUrl}
             className="flex items-center justify-center gap-2 px-8 py-3 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
@@ -399,6 +400,8 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
           </AffiliateLink>
         </div>
       )}
+
+      <StickyMobileCta product={product} />
     </div>
   );
 }

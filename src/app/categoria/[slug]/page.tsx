@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { categories } from "@/data/categories";
 import { getVisibleProducts } from "@/lib/products";
+import { productHref } from "@/lib/product-url";
 import { ProductGrid } from "@/components/products/ProductGrid";
 
 interface Props {
@@ -97,7 +98,7 @@ export default async function CategoryPage({ params }: Props) {
               itemListElement: products.slice(0, 20).map((p, i) => ({
                 "@type": "ListItem",
                 position: i + 1,
-                url: `https://productosvirales.com.ar/producto/${p.id}`,
+                url: `https://productosvirales.com.ar${productHref(p)}`,
                 name: p.title,
               })),
             },

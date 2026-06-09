@@ -92,10 +92,14 @@ export default async function ProductPage({ params }: Props) {
     name: product.title,
     description: product.description,
     sku: product.id,
-    brand: {
-      "@type": "Brand",
-      name: product.category,
-    },
+    ...(product.brand
+      ? {
+          brand: {
+            "@type": "Brand",
+            name: product.brand,
+          },
+        }
+      : {}),
     offers: {
       "@type": "Offer",
       url: product.affiliateUrl,
@@ -120,12 +124,12 @@ export default async function ProductPage({ params }: Props) {
     // Add aggregateRating when product has rating data and custom data doesn't already include it
     ...(baseAggregateRating
       ? { aggregateRating: baseAggregateRating }
-      : product.rating && product.soldQuantity
+      : product.rating && product.reviewCount
         ? {
             aggregateRating: {
               "@type": "AggregateRating",
               ratingValue: product.rating.toFixed(1),
-              reviewCount: String(product.soldQuantity),
+              reviewCount: String(product.reviewCount),
             },
           }
         : {}),

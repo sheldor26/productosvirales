@@ -61,8 +61,12 @@ export default async function GuidePage({ params }: Props) {
   // Pick first image section as the article image (hero), fall back to dynamic OG
   const heroSection = guide.sections.find((s) => s.type === "image" && s.imageSize === "hero");
   const fallbackImage = guide.sections.find((s) => s.type === "image" && s.src);
-  const articleImage = heroSection?.src || fallbackImage?.src
-    ? `https://productosvirales.com.ar${heroSection?.src || fallbackImage?.src}`
+  const rawImageSrc = heroSection?.src || fallbackImage?.src;
+  // Solo prepender el dominio si el src es un path interno; los de mlstatic ya son absolutos
+  const articleImage = rawImageSrc
+    ? rawImageSrc.startsWith("/")
+      ? `https://productosvirales.com.ar${rawImageSrc}`
+      : rawImageSrc
     : `https://productosvirales.com.ar/guias/${guide.slug}/opengraph-image`;
 
   // Article structured data

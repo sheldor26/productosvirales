@@ -1108,12 +1108,12 @@ export const guides: Guide[] = [
       {
         question: "¿Vale la pena el modelo más caro (HD9396)?",
         answer:
-          "La [HD9396](/producto/MLA47183370) agrega doble pared (exterior no quema) y 6 niveles de temperatura. Si te importa la seguridad con chicos cerca o querés control de temperatura con acero completo, sí vale. Para hervir agua nada más, la [HD9350](/producto/MLA24601443) hace lo mismo por la mitad.",
+          "La [HD9396](https://meli.la/1nfm8ft) agrega doble pared (exterior no quema) y 6 niveles de temperatura. Si te importa la seguridad con chicos cerca o querés control de temperatura con acero completo, sí vale. Para hervir agua nada más, la [HD9350](https://meli.la/2kpg1Zr) hace lo mismo por la mitad.",
       },
       {
         question: "¿Philips tiene control de temperatura?",
         answer:
-          "La [HD9350](/producto/MLA24601443) básica no. La [HD9396](/producto/MLA47183370) sí — 6 niveles de 40°C a 100°C. Si querés control digital con más opciones, el [Peabody PE-DK2200N](/producto/MLA47275624) tiene control continuo 40-100°C con pantalla LED y keep warm 2h.",
+          "La [HD9350](https://meli.la/2kpg1Zr) básica no. La [HD9396](https://meli.la/1nfm8ft) sí — 6 niveles de 40°C a 100°C. Si querés control digital con más opciones, el [Peabody PE-DK2200N](https://meli.la/2cyQgD2) tiene control continuo 40-100°C con pantalla LED y keep warm 2h.",
       },
       {
         question: "¿Dónde consigo repuestos para Philips?",
@@ -1128,13 +1128,13 @@ export const guides: Guide[] = [
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Philips HD9350", href: "/producto/MLA24601443" },
-      { label: "Ver Philips HD9396 premium", href: "/producto/MLA47183370" },
-      { label: "Ver Atma PEAT1351", href: "/producto/MLA49747515" },
-      { label: "Ver Peabody digital", href: "/producto/MLA47275624" },
-      { label: "Ver Oster con control temp", href: "/producto/MLA11145436" },
-      { label: "Ver Peabody PE-DK1850 acero", href: "/producto/MLA14263533" },
-      { label: "Ver Liliana Mateando AP975B", href: "/producto/MLA8933826" },
+      { label: "Ver Philips HD9350", href: "https://meli.la/2kpg1Zr" },
+      { label: "Ver Philips HD9396 premium", href: "https://meli.la/1nfm8ft" },
+      { label: "Ver Atma PEAT1351", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Peabody digital", href: "https://meli.la/2cyQgD2" },
+      { label: "Ver Oster con control temp", href: "https://meli.la/1JfvkMc" },
+      { label: "Ver Peabody PE-DK1850 acero", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Liliana Mateando AP975B", href: "https://meli.la/2qM28cx" },
       { label: "Pava Atma: mejor calidad-precio argentina", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
@@ -1299,7 +1299,7 @@ export const guides: Guide[] = [
       {
         question: "¿El interior de acero es realmente acero o está pintado?",
         answer:
-          "Es acero inoxidable real en contacto con el agua en la [ATMA PEAT1351](/producto/MLA49747515). No es pintura. El exterior sí es plástico. Si querés acero completo (interior y exterior), la [Philips HD9350](/producto/MLA24601443) es la opción del catálogo.",
+          "Es acero inoxidable real en contacto con el agua en la [ATMA PEAT1351](https://meli.la/1TBSj3K). No es pintura. El exterior sí es plástico. Si querés acero completo (interior y exterior), la [Philips HD9350](https://meli.la/2kpg1Zr) es la opción del catálogo.",
       },
       {
         question: "¿Se puede cambiar la resistencia?",
@@ -1309,18 +1309,18 @@ export const guides: Guide[] = [
       {
         question: "¿Por qué no recomendás el modelo PE0821AP que es más barato?",
         answer:
-          "Porque es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. Por $9.000 más tenés [ATMA PEAT1351](/producto/MLA49747515) con interior de acero que no da sabor.",
+          "Porque es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. Por $9.000 más tenés [ATMA PEAT1351](https://meli.la/1TBSj3K) con interior de acero que no da sabor.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351", href: "/producto/MLA49747515" },
-      { label: "Ver Philips HD9350", href: "/producto/MLA24601443" },
-      { label: "Ver Philips HD9396 premium", href: "/producto/MLA47183370" },
-      { label: "Ver Peabody digital", href: "/producto/MLA47275624" },
-      { label: "Ver Oster con control temp", href: "/producto/MLA11145436" },
-      { label: "Ver Peabody PE-DK1850 acero", href: "/producto/MLA14263533" },
-      { label: "Ver Liliana AP152 (más barata)", href: "/producto/MLA61505857" },
+      { label: "Ver Atma PEAT1351", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Philips HD9350", href: "https://meli.la/2kpg1Zr" },
+      { label: "Ver Philips HD9396 premium", href: "https://meli.la/1nfm8ft" },
+      { label: "Ver Peabody digital", href: "https://meli.la/2cyQgD2" },
+      { label: "Ver Oster con control temp", href: "https://meli.la/1JfvkMc" },
+      { label: "Ver Peabody PE-DK1850 acero", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Liliana AP152 (más barata)", href: "https://meli.la/1QMfKob" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
@@ -1482,17 +1482,17 @@ export const guides: Guide[] = [
       {
         question: "¿Cuál es el precio justo para una buena pava?",
         answer:
-          "$40.000-52.000. En este rango conseguís interior de acero y durabilidad decente. Las 3 mejores opciones: [ATMA PEAT1351](/producto/MLA49747515) ($40.739, interior acero), [Liliana Mateando](/producto/MLA8933826) ($45.099, función mate), [Philips HD9350](/producto/MLA24601443) ($52.499, acero completo 5 años).",
+          "$40.000-52.000. En este rango conseguís interior de acero y durabilidad decente. Las 3 mejores opciones: [ATMA PEAT1351](https://meli.la/1TBSj3K) ($40.739, interior acero), [Liliana Mateando](https://meli.la/2qM28cx) ($45.099, función mate), [Philips HD9350](https://meli.la/2kpg1Zr) ($52.499, acero completo 5 años).",
       },
       {
         question: "¿Valen la pena las de menos de $25.000?",
         answer:
-          "Solo si realmente no tenés más presupuesto. La opción más accesible del catálogo con acero es la [Liliana AP152](/producto/MLA61505857) a $31.999. Por debajo de eso son todas de plástico y el agua toma sabor después de 1 año.",
+          "Solo si realmente no tenés más presupuesto. La opción más accesible del catálogo con acero es la [Liliana AP152](https://meli.la/1QMfKob) a $31.999. Por debajo de eso son todas de plástico y el agua toma sabor después de 1 año.",
       },
       {
         question: "¿Por qué Philips cuesta el doble que Atma?",
         answer:
-          "Porque la [Philips HD9350](/producto/MLA24601443) es acero completo, dura el doble que la [ATMA PEAT1351](/producto/MLA49747515), y tiene mejor construcción. A largo plazo sale más barata.",
+          "Porque la [Philips HD9350](https://meli.la/2kpg1Zr) es acero completo, dura el doble que la [ATMA PEAT1351](https://meli.la/1TBSj3K), y tiene mejor construcción. A largo plazo sale más barata.",
       },
       {
         question: "¿Las ofertas de Hot Sale son reales?",
@@ -1507,14 +1507,14 @@ export const guides: Guide[] = [
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351 (gama media)", href: "/producto/MLA49747515" },
-      { label: "Ver Philips HD9350 (gama alta)", href: "/producto/MLA24601443" },
-      { label: "Ver Philips HD9396 (premium)", href: "/producto/MLA47183370" },
-      { label: "Ver Peabody digital (control temp)", href: "/producto/MLA47275624" },
-      { label: "Ver Oster KT4970W (mate)", href: "/producto/MLA11145436" },
-      { label: "Ver Peabody PE-DK1850 acero (\$55.900)", href: "/producto/MLA14263533" },
-      { label: "Ver Liliana Mateando (\$45.099 mejor compra)", href: "/producto/MLA8933826" },
-      { label: "Ver Liliana AP152 (\$31.999 más barata)", href: "/producto/MLA61505857" },
+      { label: "Ver Atma PEAT1351 (gama media)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Philips HD9350 (gama alta)", href: "https://meli.la/2kpg1Zr" },
+      { label: "Ver Philips HD9396 (premium)", href: "https://meli.la/1nfm8ft" },
+      { label: "Ver Peabody digital (control temp)", href: "https://meli.la/2cyQgD2" },
+      { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
+      { label: "Ver Peabody PE-DK1850 acero (\$55.900)", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Liliana Mateando (\$45.099 mejor compra)", href: "https://meli.la/2qM28cx" },
+      { label: "Ver Liliana AP152 (\$31.999 más barata)", href: "https://meli.la/1QMfKob" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
@@ -1687,7 +1687,7 @@ export const guides: Guide[] = [
       {
         question: "¿Es seguro comprar pavas eléctricas en MercadoLibre?",
         answer:
-          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [ATMA PEAT1351](/producto/MLA49747515) ($40.739), [Philips HD9350](/producto/MLA24601443) ($52.499), [Peabody PE-DK2200N](/producto/MLA47275624) ($69.999).",
+          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [ATMA PEAT1351](https://meli.la/1TBSj3K) ($40.739), [Philips HD9350](https://meli.la/2kpg1Zr) ($52.499), [Peabody PE-DK2200N](https://meli.la/2cyQgD2) ($69.999).",
       },
       {
         question: "¿Cuánto tarda el envío?",
@@ -1712,14 +1712,14 @@ export const guides: Guide[] = [
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Atma PEAT1351 (2.368 reseñas)", href: "/producto/MLA49747515" },
-      { label: "Ver Philips HD9350 (SUS304)", href: "/producto/MLA24601443" },
-      { label: "Ver Philips HD9396 (doble pared)", href: "/producto/MLA47183370" },
-      { label: "Ver Peabody digital (mejor rating)", href: "/producto/MLA47275624" },
-      { label: "Ver Oster KT4970W (mate)", href: "/producto/MLA11145436" },
-      { label: "Ver Peabody PE-DK1850 acero", href: "/producto/MLA14263533" },
-      { label: "Ver Liliana Mateando (mejor compra)", href: "/producto/MLA8933826" },
-      { label: "Ver Liliana Safeheat AP992B (premium)", href: "/producto/MLA54152343" },
+      { label: "Ver Atma PEAT1351 (2.368 reseñas)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Philips HD9350 (SUS304)", href: "https://meli.la/2kpg1Zr" },
+      { label: "Ver Philips HD9396 (doble pared)", href: "https://meli.la/1nfm8ft" },
+      { label: "Ver Peabody digital (mejor rating)", href: "https://meli.la/2cyQgD2" },
+      { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
+      { label: "Ver Peabody PE-DK1850 acero", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Liliana Mateando (mejor compra)", href: "https://meli.la/2qM28cx" },
+      { label: "Ver Liliana Safeheat AP992B (premium)", href: "https://meli.la/1hkV3Et" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
@@ -1785,13 +1785,13 @@ export const guides: Guide[] = [
       {
         type: "verdict",
         content:
-          "Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°). No tiene sentido si solo tomás mate a 100° o querés acero completo — en esos casos mirá [Philips HD9350](/producto/MLA24601443) o [Atma PEAT1351](/producto/MLA49747515).",
+          "Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°). No tiene sentido si solo tomás mate a 100° o querés acero completo — en esos casos mirá [Philips HD9350](https://meli.la/2kpg1Zr) o [Atma PEAT1351](https://meli.la/1TBSj3K).",
       },
       { type: "h2", title: "Peabody vs Philips: la comparación real" },
       {
         type: "p",
         content:
-          "Peabody PE-DK2200N sale $70.000. [Philips HD9350](/producto/MLA24601443) sale $52.499. Esa diferencia de $17.500 alcanza para seis meses de mate.",
+          "Peabody PE-DK2200N sale $70.000. [Philips HD9350](https://meli.la/2kpg1Zr) sale $52.499. Esa diferencia de $17.500 alcanza para seis meses de mate.",
       },
       {
         type: "table",
@@ -1814,7 +1814,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Peabody PE-DK2200N cuesta $70.000. [Atma PEAT1351](/producto/MLA49747515) cuesta $40.739. Estás pagando $29.261 extra, casi el doble, por el control digital.",
+          "Peabody PE-DK2200N cuesta $70.000. [Atma PEAT1351](https://meli.la/1TBSj3K) cuesta $40.739. Estás pagando $29.261 extra, casi el doble, por el control digital.",
       },
       {
         type: "p",
@@ -1852,7 +1852,7 @@ export const guides: Guide[] = [
         type: "bad",
         title: "Peabody PEKV8215 ($69.999)",
         content:
-          "Diseño vintage bonito pero no vale la pena funcional. Cuesta más que [Philips HD9350](/producto/MLA24601443) con acero completo ($52.499) y solo tiene un termómetro analógico con una marca a 80°. Si querés acero por $69.999, mejor Philips por $52.499 y ahorrás $17.500 con mejor durabilidad.",
+          "Diseño vintage bonito pero no vale la pena funcional. Cuesta más que [Philips HD9350](https://meli.la/2kpg1Zr) con acero completo ($52.499) y solo tiene un termómetro analógico con una marca a 80°. Si querés acero por $69.999, mejor Philips por $52.499 y ahorrás $17.500 con mejor durabilidad.",
       },
       { type: "h2", title: "Problemas comunes" },
       {
@@ -1881,9 +1881,9 @@ export const guides: Guide[] = [
         items: [
           "Solo tomás mate a 100° — estás pagando $29K extra contra Atma por nada",
           "Solo hervís agua para café instantáneo — no vas a usar el control",
-          "Querés acero completo — [Philips](/producto/MLA24601443) es acero completo por $17K menos",
+          "Querés acero completo — [Philips](https://meli.la/2kpg1Zr) es acero completo por $17K menos",
           "Querés algo que dure 5+ años — la electrónica falla antes que pavas mecánicas",
-          "Presupuesto ajustado — [Atma](/producto/MLA49747515) por $41K hace lo mismo (hervir)",
+          "Presupuesto ajustado — [Atma](https://meli.la/1TBSj3K) por $41K hace lo mismo (hervir)",
         ],
       },
     ],
@@ -1896,7 +1896,7 @@ export const guides: Guide[] = [
       {
         question: "¿Vale la pena contra Philips?",
         answer:
-          "Solo si usás control de temperatura regularmente. Si no, [Philips HD9350](/producto/MLA24601443) es mejor compra.",
+          "Solo si usás control de temperatura regularmente. Si no, [Philips HD9350](https://meli.la/2kpg1Zr) es mejor compra.",
       },
       {
         question: "¿Cuánto dura la Peabody digital?",
@@ -1911,21 +1911,21 @@ export const guides: Guide[] = [
       {
         question: "¿Se puede usar para mate?",
         answer:
-          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](/producto/MLA49747515) por $41.000.",
+          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1TBSj3K) por $41.000.",
       },
       {
         question: "¿Vale la pena el modelo vintage PEKV8215?",
         answer:
-          "No. Cuesta $69.999, más que [Philips HD9350](/producto/MLA24601443) que sale $52.499 con acero completo y durabilidad superior. El diseño vintage no justifica pagar $17.500 extra.",
+          "No. Cuesta $69.999, más que [Philips HD9350](https://meli.la/2kpg1Zr) que sale $52.499 con acero completo y durabilidad superior. El diseño vintage no justifica pagar $17.500 extra.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Peabody PE-DK2200N", href: "/producto/MLA47275624" },
-      { label: "Ver Peabody PE-DK1850 (alternativa)", href: "/producto/MLA14263533" },
-      { label: "Ver Atma PEAT1351 (más barata)", href: "/producto/MLA49747515" },
-      { label: "Ver Philips HD9350 (acero completo)", href: "/producto/MLA24601443" },
-      { label: "Ver Oster KT4970W (mate)", href: "/producto/MLA11145436" },
+      { label: "Ver Peabody PE-DK2200N", href: "https://meli.la/2cyQgD2" },
+      { label: "Ver Peabody PE-DK1850 (alternativa)", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
+      { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
@@ -1967,7 +1967,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado — [Atma](/producto/MLA49747515) con acero sale $40.739. Ahorrás $8.740 por el mismo material. Pero no tiene función mate ni control de temperatura.",
+          "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado — [Atma](https://meli.la/1TBSj3K) con acero sale $40.739. Ahorrás $8.740 por el mismo material. Pero no tiene función mate ni control de temperatura.",
       },
       { type: "h3", title: "AP175B Mateando — MEJOR COMPRA ($45.099)" },
       {
@@ -1976,7 +1976,7 @@ export const guides: Guide[] = [
           heading: "Liliana AP175B Mateando — $45.099",
           paragraphs: [
             "Plástico, 1.7L, 2000W, función mate con 2 niveles (80°C mate / 100°C hervir), corte automático, doble visor de agua, filtro extraíble, sistema de apertura con traba.",
-            "Seleccionás mate y el agua llega a 80° exactos y se mantiene ahí. No tenés que hervir y esperar. $10.801 más barata que [Peabody](/producto/MLA47275624) que también tiene función mate.",
+            "Seleccionás mate y el agua llega a 80° exactos y se mantiene ahí. No tenés que hervir y esperar. $10.801 más barata que [Peabody](https://meli.la/2cyQgD2) que también tiene función mate.",
           ],
           ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/2qM28cx" }],
         },
@@ -2015,19 +2015,19 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "[Atma](/producto/MLA49747515) es $4.360 más barata, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, pagar $4.360 extra por función mate vale la pena.",
+          "[Atma](https://meli.la/1TBSj3K) es $4.360 más barata, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, pagar $4.360 extra por función mate vale la pena.",
       },
       { type: "h3", title: "vs Philips HD9350 ($52.499)" },
       {
         type: "p",
         content:
-          "[Philips](/producto/MLA24601443) es $7.400 más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
+          "[Philips](https://meli.la/2kpg1Zr) es $7.400 más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
       },
       { type: "h3", title: "vs Peabody PE-DK2200N ($69.999)" },
       {
         type: "p",
         content:
-          "[Peabody](/producto/MLA47275624) es $24.900 más cara, tiene control continuo 40-100° y pantalla digital. Si tomás té verde a 70° o blanco a 60°: Peabody vale los $25K extra. Si solo tomás mate a 80° y agua a 100°: los 2 niveles de Liliana alcanzan.",
+          "[Peabody](https://meli.la/2cyQgD2) es $24.900 más cara, tiene control continuo 40-100° y pantalla digital. Si tomás té verde a 70° o blanco a 60°: Peabody vale los $25K extra. Si solo tomás mate a 80° y agua a 100°: los 2 niveles de Liliana alcanzan.",
       },
       { type: "h2", title: "Función mate: ¿realmente la usás?" },
       {
@@ -2053,7 +2053,7 @@ export const guides: Guide[] = [
       {
         type: "verdict",
         content:
-          "Para la mayoría, comprá AP175B Mateando por $45.099. Si solo hervís a 100° sin función mate: AP152 por $31.999. Si querés acero completo con durabilidad: [Philips HD9350](/producto/MLA24601443). Si presupuesto ajustado: [Atma PEAT1351](/producto/MLA49747515).",
+          "Para la mayoría, comprá AP175B Mateando por $45.099. Si solo hervís a 100° sin función mate: AP152 por $31.999. Si querés acero completo con durabilidad: [Philips HD9350](https://meli.la/2kpg1Zr). Si presupuesto ajustado: [Atma PEAT1351](https://meli.la/1TBSj3K).",
       },
     ],
     faq: [
@@ -2080,7 +2080,7 @@ export const guides: Guide[] = [
       {
         question: "¿Liliana es mejor que Atma?",
         answer:
-          "AP175B por $45.099 tiene función mate que [Atma](/producto/MLA49747515) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
+          "AP175B por $45.099 tiene función mate que [Atma](https://meli.la/1TBSj3K) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
       },
       {
         question: "¿Vale la pena la AP992B premium?",
@@ -2090,12 +2090,12 @@ export const guides: Guide[] = [
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Liliana AP175B (MEJOR COMPRA)", href: "/producto/MLA8933826" },
-      { label: "Ver Liliana AP152 (acero más barata)", href: "/producto/MLA61505857" },
-      { label: "Ver Liliana AP992B Safeheat", href: "/producto/MLA54152343" },
-      { label: "Ver Atma PEAT1351 (interior acero)", href: "/producto/MLA49747515" },
-      { label: "Ver Philips HD9350 (acero completo)", href: "/producto/MLA24601443" },
-      { label: "Ver Peabody PE-DK2200N (digital)", href: "/producto/MLA47275624" },
+      { label: "Ver Liliana AP175B (MEJOR COMPRA)", href: "https://meli.la/2qM28cx" },
+      { label: "Ver Liliana AP152 (acero más barata)", href: "https://meli.la/1QMfKob" },
+      { label: "Ver Liliana AP992B Safeheat", href: "https://meli.la/1hkV3Et" },
+      { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1TBSj3K" },
+      { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
+      { label: "Ver Peabody PE-DK2200N (digital)", href: "https://meli.la/2cyQgD2" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
@@ -2138,7 +2138,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Cuesta $78.748. [Peabody](/producto/MLA47275624) de acero con 4 preset y pantalla digital sale $55.900. Son $22.848 menos. No tiene sentido pagar extra por plástico.",
+          "Cuesta $78.748. [Peabody](https://meli.la/2cyQgD2) de acero con 4 preset y pantalla digital sale $55.900. Son $22.848 menos. No tiene sentido pagar extra por plástico.",
       },
       { type: "h3", title: "Oster 8970 — Acero ($99.600) — La más cara del mercado" },
       {
@@ -2150,7 +2150,7 @@ export const guides: Guide[] = [
         type: "bad",
         title: "Oster 8970 — $99.600",
         content:
-          "Es la pava eléctrica más cara del mercado argentino. [Peabody PE-DK2200N](/producto/MLA47275624) con control preciso 40-100° y keep warm 2 horas sale $69.999. Son $29.601 menos. No tiene sentido pagar $99.600 por Oster cuando Peabody hace lo mismo por menos.",
+          "Es la pava eléctrica más cara del mercado argentino. [Peabody PE-DK2200N](https://meli.la/2cyQgD2) con control preciso 40-100° y keep warm 2 horas sale $69.999. Son $29.601 menos. No tiene sentido pagar $99.600 por Oster cuando Peabody hace lo mismo por menos.",
       },
       { type: "h2", title: "Oster vs Peabody: comparación directa" },
       {
@@ -2183,7 +2183,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "[Peabody DK2200N](/producto/MLA47275624) tiene control continuo (elegís cualquier temperatura vs 4 preset limitados), mantiene caliente 4x más tiempo, hierve más rápido, y cuesta $29.601 menos. Oster 8970 no tiene ninguna ventaja.",
+          "[Peabody DK2200N](https://meli.la/2cyQgD2) tiene control continuo (elegís cualquier temperatura vs 4 preset limitados), mantiene caliente 4x más tiempo, hierve más rápido, y cuesta $29.601 menos. Oster 8970 no tiene ninguna ventaja.",
       },
       { type: "h2", title: "Oster vs Liliana: diferencia de $26K" },
       {
@@ -2218,7 +2218,7 @@ export const guides: Guide[] = [
       {
         type: "verdict",
         content:
-          "Oster es más cara sin ventaja real sobre la competencia. Si tenés $78K: mejor [Peabody PE-DK1850](/producto/MLA47275624) por $55.900 (ahorrás $22.848, acero en vez de plástico). Si tenés $99K: mejor Peabody PE-DK2200N por $69.999 (ahorrás $29.601). O comprá [Philips HD9350](/producto/MLA24601443) por $52.499 y ahorrás $47.101 con durabilidad 5 años.",
+          "Oster es más cara sin ventaja real sobre la competencia. Si tenés $78K: mejor [Peabody PE-DK1850](https://meli.la/2cyQgD2) por $55.900 (ahorrás $22.848, acero en vez de plástico). Si tenés $99K: mejor Peabody PE-DK2200N por $69.999 (ahorrás $29.601). O comprá [Philips HD9350](https://meli.la/2kpg1Zr) por $52.499 y ahorrás $47.101 con durabilidad 5 años.",
       },
       { type: "h2", title: "Si querés Oster igual" },
       {
@@ -2246,7 +2246,7 @@ export const guides: Guide[] = [
       {
         question: "¿Oster dura más que Peabody o Liliana?",
         answer:
-          "No. Todas duran entre 2-3 años. [Philips HD9350](/producto/MLA24601443) dura 4-5 años — si querés durabilidad, comprá Philips.",
+          "No. Todas duran entre 2-3 años. [Philips HD9350](https://meli.la/2kpg1Zr) dura 4-5 años — si querés durabilidad, comprá Philips.",
       },
       {
         question: "¿El service de Oster es mejor?",
@@ -2266,17 +2266,17 @@ export const guides: Guide[] = [
       {
         question: "¿Oster 8970 o Peabody DK2200N?",
         answer:
-          "[Peabody DK2200N](/producto/MLA47275624) por $69.999. Control continuo vs 4 preset, mantiene 2hr vs 30min, $29.601 más barata. Peabody es mejor en todo.",
+          "[Peabody DK2200N](https://meli.la/2cyQgD2) por $69.999. Control continuo vs 4 preset, mantiene 2hr vs 30min, $29.601 más barata. Peabody es mejor en todo.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
-      { label: "Ver Oster KT4970W (mate analógico)", href: "/producto/MLA11145436" },
-      { label: "Ver Peabody PE-DK1850 (alternativa a Oster 4970B)", href: "/producto/MLA14263533" },
-      { label: "Ver Peabody PE-DK2200N (mejor que Oster 8970)", href: "/producto/MLA47275624" },
-      { label: "Ver Liliana AP175B (alternativa más barata)", href: "/producto/MLA8933826" },
-      { label: "Ver Philips HD9350 (mejor durabilidad)", href: "/producto/MLA24601443" },
-      { label: "Ver Atma PEAT1351 (más barata)", href: "/producto/MLA49747515" },
+      { label: "Ver Oster KT4970W (mate analógico)", href: "https://meli.la/1JfvkMc" },
+      { label: "Ver Peabody PE-DK1850 (alternativa a Oster 4970B)", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Peabody PE-DK2200N (mejor que Oster 8970)", href: "https://meli.la/2cyQgD2" },
+      { label: "Ver Liliana AP175B (alternativa más barata)", href: "https://meli.la/2qM28cx" },
+      { label: "Ver Philips HD9350 (mejor durabilidad)", href: "https://meli.la/2kpg1Zr" },
+      { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1TBSj3K" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
@@ -5590,45 +5590,45 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los 20 modelos disponibles` },
       { type: "h3", title: `Atma — 4 modelos` },
       { type: "p", content: `Atma es la marca de electrodomésticos nacional con mayor presencia en Argentina. Sus freidoras de aire tienen buena relación precio/calidad, garantía local y amplia red de service en todo el país.` },
-      { type: "p", content: `Atma FR248ABP — 8 litros La opción de mayor capacidad de la línea estándar. Pantalla digital, 8 funciones preconfiguradas, temperatura ajustable de 80°C a 200°C. Para familias de 4 a 6 personas es la más práctica de la marca. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA39861162)` },
-      { type: "p", content: `Atma Pro FR60AR — 6.5 litros Versión intermedia con acabado "Pro". Misma tecnología pero menor capacidad. Buena para hogares de 3 a 5 personas que no necesitan los 8 litros. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA27351841)` },
-      { type: "p", content: `Atma FR901DP Grill — 6.3 litros La diferencia acá es la placa grill incluida. Podés hacer a la parrilla dentro de la freidora, lo que amplía bastante el tipo de preparaciones. El resultado en carnes y vegetales a la plancha es notablemente mejor que sin el accesorio. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA37004216)` },
-      { type: "p", content: `Atma Pro Doble FRD248AP — 8.5 litros (doble canasta) La más completa de Atma. Dos canastas independientes que podés controlar por separado. Cocinás proteína y guarnición al mismo tiempo, a distintas temperaturas y tiempos. Para familias grandes o para quienes cocinan varios platos a la vez, esto cambia la dinámica completamente. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA40161710)` },
+      { type: "p", content: `Atma FR248ABP — 8 litros La opción de mayor capacidad de la línea estándar. Pantalla digital, 8 funciones preconfiguradas, temperatura ajustable de 80°C a 200°C. Para familias de 4 a 6 personas es la más práctica de la marca. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2UfmcVY)` },
+      { type: "p", content: `Atma Pro FR60AR — 6.5 litros Versión intermedia con acabado "Pro". Misma tecnología pero menor capacidad. Buena para hogares de 3 a 5 personas que no necesitan los 8 litros. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2H5RRoD)` },
+      { type: "p", content: `Atma FR901DP Grill — 6.3 litros La diferencia acá es la placa grill incluida. Podés hacer a la parrilla dentro de la freidora, lo que amplía bastante el tipo de preparaciones. El resultado en carnes y vegetales a la plancha es notablemente mejor que sin el accesorio. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1gGXWsc)` },
+      { type: "p", content: `Atma Pro Doble FRD248AP — 8.5 litros (doble canasta) La más completa de Atma. Dos canastas independientes que podés controlar por separado. Cocinás proteína y guarnición al mismo tiempo, a distintas temperaturas y tiempos. Para familias grandes o para quienes cocinan varios platos a la vez, esto cambia la dinámica completamente. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2aw3uVJ)` },
       { type: "p", content: `→ Análisis completo: [Freidoras de aire Atma: todos los modelos](/guias/atma-freidoras-de-aire-review)` },
       { type: "h3", title: `Peabody — 4 modelos` },
       { type: "p", content: `Peabody tiene presencia fuerte en el mercado argentino de electrodomésticos. Sus freidoras tienen diseños más modernos que las Atma y algunos modelos con características que pocas marcas ofrecen a ese precio.` },
-      { type: "p", content: `Peabody PE-AFD650N — 6.5 litros La entrada a la gama Peabody. Pantalla digital, diseño negro compacto, buen acceso al cajón de la canasta. Rendimiento parejo para uso cotidiano. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA44703897)` },
-      { type: "p", content: `Peabody PE-AFD720N — 7.2L con Visor 360° El visor de 360° permite ver la cocción sin abrir la freidora, lo que ayuda a no perder temperatura y a controlar el proceso sin interrumpirlo. No es algo que muchos modelos tengan a este precio. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA41829394)` },
-      { type: "p", content: `Peabody PE-AFDL102N Doble Piso — 10 litros El modelo de mayor capacidad de todo el sitio. Con dos niveles de cocción independientes y 10 litros totales, es para cocinar para 6 personas o más sin hacer tandas. Ocupa bastante espacio en la mesada. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA53776810)` },
-      { type: "p", content: `Peabody PE-AFG01IX Grill — 6 litros La versión con función grill de Peabody. Acabado inox, placa grill incluida, 6 litros de capacidad. Compite directamente con la Atma FR901DP en funcionalidad y precio. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA23318618)` },
+      { type: "p", content: `Peabody PE-AFD650N — 6.5 litros La entrada a la gama Peabody. Pantalla digital, diseño negro compacto, buen acceso al cajón de la canasta. Rendimiento parejo para uso cotidiano. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2zaHWZ2)` },
+      { type: "p", content: `Peabody PE-AFD720N — 7.2L con Visor 360° El visor de 360° permite ver la cocción sin abrir la freidora, lo que ayuda a no perder temperatura y a controlar el proceso sin interrumpirlo. No es algo que muchos modelos tengan a este precio. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1tZqZqD)` },
+      { type: "p", content: `Peabody PE-AFDL102N Doble Piso — 10 litros El modelo de mayor capacidad de todo el sitio. Con dos niveles de cocción independientes y 10 litros totales, es para cocinar para 6 personas o más sin hacer tandas. Ocupa bastante espacio en la mesada. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2vwo31u)` },
+      { type: "p", content: `Peabody PE-AFG01IX Grill — 6 litros La versión con función grill de Peabody. Acabado inox, placa grill incluida, 6 litros de capacidad. Compite directamente con la Atma FR901DP en funcionalidad y precio. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1afZm1r)` },
       { type: "p", content: `→ Análisis completo: [Freidoras de aire Peabody: todos los modelos](/guias/peabody-freidoras-de-aire-review)` },
       { type: "h3", title: `Philips — 5 modelos` },
       { type: "p", content: `Philips inventó la freidora de aire con tecnología Rapid Air en 2010. Sus modelos siguen siendo referencia en calidad de cocción, aunque el precio es notablemente más alto que las marcas nacionales.` },
-      { type: "p", content: `Philips NA12000 — 4.2 litros El modelo de entrada de la línea actual. Compacto, ideal para 1 a 3 personas. Sin tantas funciones pero con la calidad de cocción característica de Philips. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA61393261)` },
-      { type: "p", content: `Philips PHNA35100 — Doble Canasta 9 litros Doble canasta con función Sync para terminar ambas preparaciones al mismo tiempo. 9 litros totales divididos en dos compartimentos independientes. Una de las mejores opciones disponibles para cocinar en volumen con precisión. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA55779230)` },
-      { type: "p", content: `Philips PHNA23100 — 13-en-1, 6.2 litros 13 funciones preconfiguradas cubren preparaciones que van de papas fritas hasta deshidratar alimentos. La versatilidad es genuina, no de marketing: las temperaturas bajas de deshidratación funcionan bien para frutas y verduras. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA53675940)` },
-      { type: "p", content: `Philips HD9280 Essential XL La versión XL de la línea Essential. Formato grande para hogares de 4 a 6 personas, con la sencillez de controles que caracteriza a la línea HD9000. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA19630913)` },
-      { type: "p", content: `Philips HD9270 Essential — 6.2 litros El modelo que más se vende de Philips en Argentina. Equilibrio entre funciones, capacidad y precio dentro de la marca. Si querés Philips sin pagar el precio de los modelos top, este es el punto de entrada razonable. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA19630911)` },
+      { type: "p", content: `Philips NA12000 — 4.2 litros El modelo de entrada de la línea actual. Compacto, ideal para 1 a 3 personas. Sin tantas funciones pero con la calidad de cocción característica de Philips. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2gU6JZ1)` },
+      { type: "p", content: `Philips PHNA35100 — Doble Canasta 9 litros Doble canasta con función Sync para terminar ambas preparaciones al mismo tiempo. 9 litros totales divididos en dos compartimentos independientes. Una de las mejores opciones disponibles para cocinar en volumen con precisión. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/15VAU5a)` },
+      { type: "p", content: `Philips PHNA23100 — 13-en-1, 6.2 litros 13 funciones preconfiguradas cubren preparaciones que van de papas fritas hasta deshidratar alimentos. La versatilidad es genuina, no de marketing: las temperaturas bajas de deshidratación funcionan bien para frutas y verduras. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2LJBpLs)` },
+      { type: "p", content: `Philips HD9280 Essential XL La versión XL de la línea Essential. Formato grande para hogares de 4 a 6 personas, con la sencillez de controles que caracteriza a la línea HD9000. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/15xe1UZ)` },
+      { type: "p", content: `Philips HD9270 Essential — 6.2 litros El modelo que más se vende de Philips en Argentina. Equilibrio entre funciones, capacidad y precio dentro de la marca. Si querés Philips sin pagar el precio de los modelos top, este es el punto de entrada razonable. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2q6aiV8)` },
       { type: "p", content: `→ Análisis completo: [Freidoras de aire Philips: todos los modelos](/guias/philips-freidoras-de-aire-review)` },
       { type: "h3", title: `Oster — 2 modelos` },
-      { type: "p", content: `Oster Dual 7.6L DiamondForce Doble canasta con recubrimiento DiamondForce (más resistente que el antiadherente estándar, según la marca). 7.6 litros totales. Buen candidato para quienes quieren doble canasta a un precio menor que el de Philips o Atma Pro. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA28709303)` },
-      { type: "p", content: `Oster Digital con Ventana — 4 litros Ventana en la puerta para ver la cocción sin interrumpirla. Formato compacto de 4 litros, pantalla digital, para 2 a 3 personas. La ventana no es un gimmick en este caso: ayuda a no sobrecocinar, especialmente con preparaciones cortas. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA41041543)` },
+      { type: "p", content: `Oster Dual 7.6L DiamondForce Doble canasta con recubrimiento DiamondForce (más resistente que el antiadherente estándar, según la marca). 7.6 litros totales. Buen candidato para quienes quieren doble canasta a un precio menor que el de Philips o Atma Pro. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1rwaoYB)` },
+      { type: "p", content: `Oster Digital con Ventana — 4 litros Ventana en la puerta para ver la cocción sin interrumpirla. Formato compacto de 4 litros, pantalla digital, para 2 a 3 personas. La ventana no es un gimmick en este caso: ayuda a no sobrecocinar, especialmente con preparaciones cortas. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1s4Hmke)` },
       { type: "p", content: `→ Análisis completo: [Freidoras de aire Oster: review](/guias/oster-freidoras-de-aire-review)` },
       { type: "h3", title: `Ninja Crispi — 5.2 litros` },
       { type: "p", content: `La Ninja llegó a Argentina con su modelo Crispi como la apuesta más conocida de la marca. Tecnología Crispi Wave diseñada para dar más textura crocante con menos aceite. Pantalla digital, 6 funciones. Para 3 a 4 personas.` },
-      { type: "p", content: `No es la más barata ni la más grande, pero la diferencia en textura final (especialmente en papas y carnes) se nota frente a modelos de marcas nacionales. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA62320294)` },
+      { type: "p", content: `No es la más barata ni la más grande, pero la diferencia en textura final (especialmente en papas y carnes) se nota frente a modelos de marcas nacionales. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2uHHEk7)` },
       { type: "p", content: `→ Análisis completo: [Ninja Crispi 5.2L: review](/guias/ninja-crispi-review)` },
       { type: "h3", title: `PowerXL AF-E4001-AR — 3.8 litros` },
-      { type: "p", content: `La opción más compacta y accesible del catálogo. PowerXL tiene buena presencia en el mercado latinoamericano como marca de entrada. Los 3.8 litros la hacen ideal para 1 a 2 personas o para quienes tienen espacio limitado en la mesada. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA36974228)` },
+      { type: "p", content: `La opción más compacta y accesible del catálogo. PowerXL tiene buena presencia en el mercado latinoamericano como marca de entrada. Los 3.8 litros la hacen ideal para 1 a 2 personas o para quienes tienen espacio limitado en la mesada. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1Z6YNuK)` },
       { type: "p", content: `→ Análisis completo: [PowerXL freidora de aire: review](/guias/powerxl-freidora-review)` },
       { type: "h3", title: `Kanji Home KJH-1700DC — 8 litros` },
-      { type: "p", content: `Kanji Home es una marca de electrodomésticos de precio accesible con distribución en Argentina. Los 8 litros a su precio la hacen competitiva para familias grandes con presupuesto ajustado. Control digital, pantalla táctil. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA42113760)` },
+      { type: "p", content: `Kanji Home es una marca de electrodomésticos de precio accesible con distribución en Argentina. Los 8 litros a su precio la hacen competitiva para familias grandes con presupuesto ajustado. Control digital, pantalla táctil. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2pFTX5c)` },
       { type: "p", content: `→ Análisis completo: [Kanji Home freidora de aire: review](/guias/kanji-home-freidora-review)` },
       { type: "h3", title: `Gadnic 6.5L — 1.400W` },
-      { type: "p", content: `Gadnic es una marca de tecnología y electrodomésticos con fuerte presencia en el mercado argentino online. La freidora de 6.5 litros a 1.400W es una opción de precio intermedio-bajo para familias de 3 a 5 personas. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA44142280)` },
+      { type: "p", content: `Gadnic es una marca de tecnología y electrodomésticos con fuerte presencia en el mercado argentino online. La freidora de 6.5 litros a 1.400W es una opción de precio intermedio-bajo para familias de 3 a 5 personas. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1AMQ3m9)` },
       { type: "p", content: `→ Análisis completo: [Gadnic freidora de aire: review](/guias/gadnic-freidora-review)` },
       { type: "h3", title: `Suono Airfryer Digital — 10 litros` },
-      { type: "p", content: `La de mayor capacidad del catálogo. 10 litros digitales para cocinar en volumen sin compromisos. Si la familia son 5 o 6 personas o recibís seguido, es la más práctica. Suono es una marca de electrodomésticos con presencia en el mercado argentino de audio y pequeños electrodomésticos. [Ver en Mercado Libre](https://productosvirales.com.ar/producto/MLA54106293)` },
+      { type: "p", content: `La de mayor capacidad del catálogo. 10 litros digitales para cocinar en volumen sin compromisos. Si la familia son 5 o 6 personas o recibís seguido, es la más práctica. Suono es una marca de electrodomésticos con presencia en el mercado argentino de audio y pequeños electrodomésticos. [Ver en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1hCBwJ3)` },
       { type: "p", content: `→ Análisis completo: [Suono Airfryer Digital 10L: review](/guias/suono-airfryer-review)` },
       { type: "h2", title: `Tabla comparativa de todos los modelos` },
       { type: "table", headers: [`Modelo`, `Capacidad`, `Potencia`, `Tipo`, `Para cuántas personas`, `Precio`], rows: [
@@ -5771,10 +5771,10 @@ export const guides: Guide[] = [
       { type: "h2", title: `Dónde comprar y ofertas actuales` },
       { type: "p", content: `Todos estos modelos los encontrás en Mercado Libre con envío rápido y garantía del vendedor. Los precios varían bastante según épocas, así que te dejo los links actualizados:` },
       { type: "list", items: [
-        `[Atma FR248ABP 8L en Mercado Libre](https://productosvirales.com.ar/producto/MLA39861162)`,
-        `[Atma Pro FR60AR 6.5L en Mercado Libre](https://productosvirales.com.ar/producto/MLA27351841)`,
-        `[Atma FR901DP Grill 6.3L en Mercado Libre](https://productosvirales.com.ar/producto/MLA37004216)`,
-        `[Atma Pro Doble FRD248AP 8.5L en Mercado Libre](https://productosvirales.com.ar/producto/MLA40161710)`,
+        `[Atma FR248ABP 8L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2UfmcVY)`,
+        `[Atma Pro FR60AR 6.5L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2H5RRoD)`,
+        `[Atma FR901DP Grill 6.3L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1gGXWsc)`,
+        `[Atma Pro Doble FRD248AP 8.5L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2aw3uVJ)`,
       ]},
       { type: "p", content: `Generalmente en Black Friday y a fin de año hay descuentos interesantes. Si no te apura, es buen momento para esperar.` },
       { type: "h2", title: `Pros y contras generales de las freidoras Atma` },
@@ -6294,10 +6294,10 @@ export const guides: Guide[] = [
       { type: "h2", title: `Dónde encontrar cada modelo y precios` },
       { type: "p", content: `Los modelos de Peabody en Mercado Libre tiene buena disponibilidad. Los precios fluctúan bastante, así que chequea frecuente. Acá te dejo los links para que veas el precio del día:` },
       { type: "list", items: [
-        `[Peabody PE-AFD650N 6.5L en Mercado Libre](https://productosvirales.com.ar/producto/MLA44703897)`,
-        `[Peabody PE-AFD720N 7.2L con visor 360° en Mercado Libre](https://productosvirales.com.ar/producto/MLA41829394)`,
-        `[Peabody PE-AFDL102N Doble Piso 10L en Mercado Libre](https://productosvirales.com.ar/producto/MLA53776810)`,
-        `[Peabody PE-AFG01IX Grill 6L en Mercado Libre](https://productosvirales.com.ar/producto/MLA23318618)`,
+        `[Peabody PE-AFD650N 6.5L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2zaHWZ2)`,
+        `[Peabody PE-AFD720N 7.2L con visor 360° en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1tZqZqD)`,
+        `[Peabody PE-AFDL102N Doble Piso 10L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2vwo31u)`,
+        `[Peabody PE-AFG01IX Grill 6L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/1afZm1r)`,
       ]},
       { type: "p", content: `A diferencia de otras marcas, Peabody tiene promociones inteligentes. Busca ofertas de vendedor autorizado, que a veces meten descuentos puntuales.` },
       { type: "h2", title: `Ventajas y desventajas de Peabody` },
@@ -8383,14 +8383,14 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Lattafa Qaed Al Fursan](/producto/lattafa-qaed-al-fursan-eau-de-parfum-90ml-mla22234109) — **$30.051** (entry-level masculino)",
-          "[Lattafa Yara Tous](/producto/lattafa-yara-tous-mujer-edp-100ml-mla40521028) — **$42.545** (entry-level femenino)",
-          "[Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215) — **$45.160** (masculino premium accesible)",
-          "[Lattafa Khamrah Qahwa](/producto/lattafa-khamrah-qahwa-edp-100ml-unisex-mla31178643) — **$47.846** (gourmand café unisex)",
-          "[Lattafa Khamrah clásico](/producto/lattafa-khamrah-parfum-100ml-unisex-mla53013853) — **$51.484** (gourmand whisky-vainilla)",
-          "[Lattafa Yara Elixir](/producto/lattafa-yara-elixir-edp-100ml-mla60836327) — **$68.000** (femenino premium viral)",
-          "[Rasasi Hawas Ice](/producto/rasasi-hawas-ice-edp-100ml-hombre-mla29780185) — **$76.284** (fresco-frutal masculino)",
-          "[Bharara King](/producto/bharara-king-edp-100ml-hombre-mla19053146) — **$99.800** (masculino con más reseñas)"
+          "[Lattafa Qaed Al Fursan](https://meli.la/2TnKuGC) — **$30.051** (entry-level masculino)",
+          "[Lattafa Yara Tous](https://meli.la/1kwTmSn) — **$42.545** (entry-level femenino)",
+          "[Lattafa Asad Intense](https://meli.la/26owfqo) — **$45.160** (masculino premium accesible)",
+          "[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf) — **$47.846** (gourmand café unisex)",
+          "[Lattafa Khamrah clásico](https://meli.la/139RJXC) — **$51.484** (gourmand whisky-vainilla)",
+          "[Lattafa Yara Elixir](https://meli.la/2NrY6fF) — **$68.000** (femenino premium viral)",
+          "[Rasasi Hawas Ice](https://meli.la/24kQeRc) — **$76.284** (fresco-frutal masculino)",
+          "[Bharara King](https://meli.la/2DTqjeW) — **$99.800** (masculino con más reseñas)"
         ]
       },
       { type: "trust-block", trustVariant: "pricing", content: "Precios verificados manualmente en Mercado Libre el 20 de abril de 2026. Los productos del nicho árabe argentino tienen movimiento de precio promedio de ±5-10% mensual. Para el mapa completo de precios por marca y rango, [esta guía cubre el desglose detallado](/guias/perfumes-arabes-precio-argentina)." },
@@ -11712,14 +11712,14 @@ export const guides: Guide[] = [
         { type: `verdict`, content: `Para la mayoría, la Gadnic AC800 es la mejor aspiradora robot que conviene hoy en Argentina: LiDAR y autovaciado a precio de gama media, con rating sólido y miles de ventas. Si es tu primer robot, arrancá con la Xiaomi S40c. Si el presupuesto manda o tenés mascotas, la Fika Nexos es lo más vendido y no te va a fallar. Y si querés potencia bruta para alfombras, la Xiaomi S40 Pro de 15.000 Pa. Elegí por tu caso, no por el precio, y vas a comprar bien.` },
       ],
       faq: [
-        { question: `¿Cuál es la aspiradora robot más recomendada?`, answer: `Para la mayoría, la [Gadnic AC800](/producto/MLA62126950): trae navegación LiDAR y base de autovaciado a precio de gama media, dos cosas que normalmente solo vienen en robots de más de un millón de pesos. Tiene 4.8 de rating sobre 548 calificaciones y más de mil vendidas, así que es una compra segura para una casa promedio.` },
-        { question: `¿Qué aspiradora robot comprar si es la primera?`, answer: `La [Xiaomi S40c](/producto/MLA61420449). Es accesible, trae mapeo y la app Mi Home está en español y es fácil de configurar. Te deja armar mapas y zonas prohibidas sin volverte loco. Es la mejor entrada al mundo de los robots sin gastar de más ni terminar con algo que choca todo el día.` },
-        { question: `¿Cuál es la mejor aspiradora robot calidad precio?`, answer: `Depende del presupuesto. Si querés gastar poco, la [Fika Nexos](/producto/MLA63784269) a unos $191.900 es la más vendida y rinde muy bien. Si podés estirarte, la [Gadnic AC800](/producto/MLA62126950) da LiDAR y autovaciado por bastante menos de lo que cuestan esas funciones en otras marcas. Esas dos son las que mejor relación precio-calidad tienen.` },
-        { question: `¿Cuál es la mejor aspiradora robot para mascotas?`, answer: `Si el presupuesto es justo, la [Fika Nexos](/producto/MLA63784269) levanta bien el pelo y es lo más vendido. Si querés lo más potente para un perro que larga mucho o alfombras de pelo largo, la [Xiaomi S40 Pro](/producto/MLA66281403) con 15.000 Pa de succión y brazo extensible es la que más junta.` },
-        { question: `¿Qué robot aspiradora conviene en Argentina con marca local?`, answer: `La [Atma ATAR21C1DH](/producto/MLA18642318). Es marca nacional con service en el país, un 3 en 1 simple que aspira, barre y pasa el trapo, sin app ni mapeo. Si te importa la posventa local y no querés pelear con tecnología, es la opción más tranquila.` },
-        { question: `¿Hay aspiradoras robot sin wifi ni app?`, answer: `Sí. La [Kärcher RCV 1](/producto/MLA42103831) se maneja con control remoto, sin teléfono ni configuración de wifi. Es de marca alemana conocida en limpieza, simple de usar. No tiene mapas ni funciones inteligentes, pero si lo que querés es apretar un botón y que limpie, es la indicada.` },
+        { question: `¿Cuál es la aspiradora robot más recomendada?`, answer: `Para la mayoría, la [Gadnic AC800](https://meli.la/2UjN3FV): trae navegación LiDAR y base de autovaciado a precio de gama media, dos cosas que normalmente solo vienen en robots de más de un millón de pesos. Tiene 4.8 de rating sobre 548 calificaciones y más de mil vendidas, así que es una compra segura para una casa promedio.` },
+        { question: `¿Qué aspiradora robot comprar si es la primera?`, answer: `La [Xiaomi S40c](https://meli.la/16WtjsG). Es accesible, trae mapeo y la app Mi Home está en español y es fácil de configurar. Te deja armar mapas y zonas prohibidas sin volverte loco. Es la mejor entrada al mundo de los robots sin gastar de más ni terminar con algo que choca todo el día.` },
+        { question: `¿Cuál es la mejor aspiradora robot calidad precio?`, answer: `Depende del presupuesto. Si querés gastar poco, la [Fika Nexos](https://meli.la/2P2DXaC) a unos $191.900 es la más vendida y rinde muy bien. Si podés estirarte, la [Gadnic AC800](https://meli.la/2UjN3FV) da LiDAR y autovaciado por bastante menos de lo que cuestan esas funciones en otras marcas. Esas dos son las que mejor relación precio-calidad tienen.` },
+        { question: `¿Cuál es la mejor aspiradora robot para mascotas?`, answer: `Si el presupuesto es justo, la [Fika Nexos](https://meli.la/2P2DXaC) levanta bien el pelo y es lo más vendido. Si querés lo más potente para un perro que larga mucho o alfombras de pelo largo, la [Xiaomi S40 Pro](https://meli.la/117oW5y) con 15.000 Pa de succión y brazo extensible es la que más junta.` },
+        { question: `¿Qué robot aspiradora conviene en Argentina con marca local?`, answer: `La [Atma ATAR21C1DH](https://meli.la/1TWykcE). Es marca nacional con service en el país, un 3 en 1 simple que aspira, barre y pasa el trapo, sin app ni mapeo. Si te importa la posventa local y no querés pelear con tecnología, es la opción más tranquila.` },
+        { question: `¿Hay aspiradoras robot sin wifi ni app?`, answer: `Sí. La [Kärcher RCV 1](https://meli.la/12hGhQB) se maneja con control remoto, sin teléfono ni configuración de wifi. Es de marca alemana conocida en limpieza, simple de usar. No tiene mapas ni funciones inteligentes, pero si lo que querés es apretar un botón y que limpie, es la indicada.` },
         { question: `¿Vale la pena gastar en un Roomba o un Samsung?`, answer: `Solo si querés marca premium y tenés el presupuesto. El Samsung Jet Bot+ supera los $3.400.000 y los Roomba de iRobot también juegan en gama alta. Para la mayoría no se justifica el salto frente a la Gadnic o la Xiaomi S40 Pro. Si igual querés ese nivel, mirá nuestra [guía de Roomba](/guias/robot-aspiradora-roomba).` },
-        { question: `¿Necesito un robot con mapeo láser?`, answer: `Si tu casa tiene varios ambientes o dos pisos, sí: el mapeo láser (LiDAR) hace que limpie por recorridos ordenados y no se pierda. La [Gadnic AC800](/producto/MLA62126950) lo trae. Si vivís en un monoambiente sin alfombras, no lo necesitás y podés ahorrar con la Fika o la Xiaomi S40c. El detalle está en la [guía de mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
+        { question: `¿Necesito un robot con mapeo láser?`, answer: `Si tu casa tiene varios ambientes o dos pisos, sí: el mapeo láser (LiDAR) hace que limpie por recorridos ordenados y no se pierda. La [Gadnic AC800](https://meli.la/2UjN3FV) lo trae. Si vivís en un monoambiente sin alfombras, no lo necesitás y podés ahorrar con la Fika o la Xiaomi S40c. El detalle está en la [guía de mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
       ],
       internalLinksTitle: `Guías relacionadas`,
       internalLinks: [
