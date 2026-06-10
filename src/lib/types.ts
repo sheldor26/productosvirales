@@ -1,6 +1,14 @@
 export interface Product {
   id: string;
   title: string;
+  /** Nombre canónico limpio del producto (ej. "Lattafa Asad Intense EDP 100ml").
+   * Se usa en JSON-LD `name`, breadcrumbs y comparativas. Fallback: `title`. */
+  canonicalName?: string;
+  /** MPN real del fabricante. NUNCA inventar; omitir si no se conoce. */
+  mpn?: string;
+  /** Verificabilidad editorial: fecha ISO en que se leyeron las reseñas de ML
+   * para curar `customerReviews` (ej. "2026-06-10"). */
+  reviewsSampledAt?: string;
   price: number;
   originalPrice?: number;
   currency: string;

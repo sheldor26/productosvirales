@@ -16,6 +16,17 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-06-09 — 19 fichas con el prefijo del ID mal guardado (MLA en vez de MLAU)
+
+**Qué pasó:** la auditoría completa del catálogo encontró 19 fichas cuyo `id` dice `MLA...` pero el permalink real es `/up/MLAU...` (user-products). Consultar la API con ese ID da 404 falso — al principio parecían 10 productos muertos que en realidad estaban vivos.
+
+**Por qué:** imports viejos (scraper) derivaban el ID del lugar equivocado y le comieron la "U". Además, clasificar productos por cantidad de dígitos del ID es frágil.
+
+**Cómo evitarlo:** clasificar SIEMPRE por el permalink (`/p/` = catálogo, `/up/` = user-product, `articulo.` = publicación individual). Los scripts de precios e importer ya lo hacen así; los IDs guardados quedan como están porque las rutas del sitio los usan — corregirlos solo si se verifica que nada los referencia.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `scripts/update-prices-from-ml.cjs`
+
+
 ## 2026-06-09 — Un npm install vía symlink destruyó el node_modules local
 
 **Qué pasó:** para verificar el build en el sandbox Linux, se armó una copia del proyecto en /tmp con `node_modules` como symlink al del proyecto real. Un `npm install --force` de binarios nativos Linux corrió A TRAVÉS del symlink y npm empezó a "retirar" (renombrar) y reinstalar paquetes en el node_modules real del Mac de Juan. El proceso falló a mitad de camino y dejó 541 de 561 paquetes rotos. Se recuperó parte con los renames de npm, pero al final fue irrecuperable.
@@ -81,3 +92,15 @@
 **Por qué:** asumí marca por nombre del producto sin verificar el campo `brand` (que estaba vacío) y sin leer el `title` con atención completa. La palabra "Genérico" estaba ahí.
 
 **Cómo evitarlo:** antes de armar cualquier guide tipo "comparativa entre versiones de la misma línea", chequear que **TODOS** los productos comparten realmente la marca: leer el `title` completo de cada uno + el campo `brand` + cualquier mención de "genérico", "inspirado", "estilo X" en title/description. Si un producto tiene una marca distinta o ausente, el guide no es comparativa de versiones — es algo distinto.
+
+---
+
+## 2026-06-10 — git stash en el sandbox dejó un index.lock huérfano
+
+**Qué pasó:** para verificar si unos errores de lint eran preexistentes, corrí `git stash` desde el sandbox de Cowork. El sandbox no tiene permisos de escritura completos sobre `.git/`, el stash falló a mitad de camino y quedó un `.git/index.lock` huérfano que bloqueaba cualquier operación git. No se perdió nada (el stash nunca llegó a crearse y el working tree quedó intacto), y el lock se eliminó después de habilitar permisos de borrado.
+
+**Por qué:** usé una operación git que escribe en `.git/` para algo que se podía responder de otra forma (los archivos con errores de lint ni siquiera estaban entre los modificados).
+
+**Cómo evitarlo:** en este entorno, no usar operaciones git que escriben (`stash`, `add`, `commit`, `checkout`) — solo lectura (`status`, `diff`, `log`). Para saber si un error es preexistente, comparar la lista de archivos con error contra `git status --short`.
+
+**Archivos involucrados:** `.git/index.lock` (eliminado).

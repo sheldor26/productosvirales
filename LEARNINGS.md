@@ -16,6 +16,17 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-06-09 — Actualización de precios migrada a la API: 195 productos en segundos
+
+**Qué funcionó:** `npm run prices:check/update` ahora va API-first: los productos de catálogo y MLAU se chequean contra `/products/{id}/items` de a 8 en paralelo (195 productos, 0 fallos, segundos), y Puppeteer queda solo para las ~13 publicaciones individuales. El flag `--api-only` permite corridas sin navegador. Bonus: un 404 en `/items` significa "sin vendedores activos" (no "producto eliminado") — verificado porque el producto sigue saliendo en `/products/search`; el script lo marca `out_of_stock` automáticamente.
+
+**Por qué:** sin navegador no hay CAPTCHA ni riesgo de bloqueo de IP, y la velocidad habilita agendar la actualización diaria sin supervisión.
+
+**Cuándo aplicarlo:** siempre para precios. La auditoría de hoy salió de esto: 100 precios corregidos y 16 productos sin vendedores deprioritizados en una sola corrida.
+
+**Archivos involucrados:** `scripts/update-prices-from-ml.cjs`, `scripts/ml-product-importer.ts`
+
+
 ## 2026-06-09 — `/products/search` de la API de ML funciona con client_credentials (la búsqueda clásica no)
 
 **Qué funcionó:** para descubrir productos nuevos sin scraper, `GET /products/search?status=active&site_id=MLA&q=...` responde bien con el token de `client_credentials`. La búsqueda clásica `/sites/MLA/search` da 403 (PolicyAgent). Con eso + `/products/{id}` + `/products/{id}/items` se importaron las 18 cafeteras en una sesión, sin tocar Puppeteer.
@@ -99,3 +110,13 @@
 **Por qué:** Google prefiere señales de "publicación editorial sostenida" sobre "burst de contenido". 2 publicaciones por semana del mismo cluster es el sweet spot que usan publicaciones serias.
 
 **Cuándo aplicarlo:** para cualquier cluster con más de 4 artículos planeados, agendar con `publishedDate` futuro separado por 3-4 días. El sitio tiene ISR diaria que los publica automáticamente sin intervención manual.
+
+---
+
+## 2026-06-10 — Centralizar el JSON-LD arregló 87 fichas de una sola vez
+
+**Qué funcionó:** en vez de corregir a mano los 121 bloques `structuredData` cuyo precio se había desincronizado del campo `price`, se movió la lógica al generador de la página (`producto/[slug]/page.tsx`): los campos canónicos (precio, rating, disponibilidad, reseñas) SIEMPRE ganan, y el bloque manual queda solo para extras. Un solo cambio de ~80 líneas corrigió 87 fichas con precio contradictorio y conectó 45 fichas cuyas reseñas curadas no se publicaban como `Review[]`.
+
+**Por qué funcionó:** el dato vivía duplicado (campo + bloque manual) y solo una de las dos copias se actualizaba automáticamente. Eliminar la duplicación en el punto de render es más barato y más seguro que mantener 121 copias sincronizadas.
+
+**Para repetir:** cuando un dato aparezca duplicado entre campos estructurados y bloques manuales, mover la verdad al campo estructurado y generar el resto. Mismo principio que ya se aplicó con precios API-first.

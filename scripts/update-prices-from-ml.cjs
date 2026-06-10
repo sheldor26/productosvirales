@@ -2,28 +2,22 @@
 /* eslint-disable no-console */
 
 /**
- * Update product prices from MercadoLibre product pages without the official API.
+ * Update product prices from MercadoLibre — API-first, scraper as fallback.
+ *
+ * Catalog products (MLA cortos) and user-products (MLAU) go through the
+ * official API (/products/{id}/items, needs ML_APP_ID/ML_SECRET in .env):
+ * fast, parallel, no browser. Individual listings (articulo.mercadolibre...,
+ * MLA ids with 10+ digits) are blocked by the API and fall back to Puppeteer.
  *
  * Examples:
  *   node scripts/update-prices-from-ml.cjs --dry-run --match freidora --limit 5
  *   node scripts/update-prices-from-ml.cjs --apply --match freidora --limit 20
  *   node scripts/update-prices-from-ml.cjs --apply --id MLA39861162 --id MLA27351841
- *   ML_SCRAPER_HEADFUL=true node scripts/update-prices-from-ml.cjs --apply --stale-only --all
- *
- * The script uses Puppeteer so MercadoLibre can run its JS challenge. It keeps
- * a persistent browser profile by default in `.cache/ml-scraper-profile`.
+ *   node scripts/update-prices-from-ml.cjs --apply --all
  */
 
 const fs = require("fs");
 const path = require("path");
-
-let puppeteer;
-try {
-  puppeteer = require("puppeteer");
-} catch {
-  console.error("Missing dependency: puppeteer. Run npm install first.");
-  process.exit(1);
-}
 
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const RESULTS_PATH = path.resolve("scripts/price-update-results.json");
@@ -52,6 +46,7 @@ function usage() {
 
 Options:
   --apply                 Write changes to src/data/curated-products.ts
+  --api-only              Skip products that need the Puppeteer scraper
   --dry-run               Only report changes (default)
   --all                   Do not apply the default limit
   --limit N               Max products to check (default: 20 unless --all)
@@ -87,6 +82,7 @@ function parseArgs(argv) {
       usage();
       process.exit(0);
     } else if (arg === "--apply") opts.apply = true;
+    else if (arg === "--api-only") opts.apiOnly = true;
     else if (arg === "--dry-run") opts.apply = false;
     else if (arg === "--all") opts.all = true;
     else if (arg === "--stale-only") opts.staleOnly = true;
@@ -127,6 +123,104 @@ function randomBetween(min, max) {
 
 function randomUserAgent() {
   return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+}
+
+// ─── Official API engine (catalog MLA + MLAU products) ───
+
+const ML_API = "https://api.mercadolibre.com";
+const API_CONCURRENCY = 8;
+
+// El tipo real del producto sale del permalink (hay fichas con el prefijo
+// MLA/MLAU mal guardado en el id): /p/ y /up/ van por API, articulo... por
+// scraper. Sin permalink reconocible, MLA de 10+ dígitos = publicación
+// individual (la API la bloquea).
+function resolveApiId(id, permalink) {
+  const up = (permalink || "").match(/\/up\/(MLAU\d+)/i);
+  if (up) return up[1].toUpperCase();
+  const cat = (permalink || "").match(/\/p\/(MLA\d+)/i);
+  if (cat) return cat[1].toUpperCase();
+  if (/articulo\.mercadolibre/i.test(permalink || "")) return null;
+  if (id.startsWith("MLAU")) return id;
+  return id.replace(/^MLA-?/, "").length < 10 ? id : null;
+}
+
+function loadDotEnv() {
+  const out = {};
+  try {
+    for (const line of fs.readFileSync(path.resolve(".env"), "utf8").split("\n")) {
+      const eq = line.indexOf("=");
+      if (eq > 0 && !line.startsWith("#")) {
+        out[line.slice(0, eq).trim()] = line.slice(eq + 1).trim();
+      }
+    }
+  } catch {
+    // Sin .env: getMlToken avisa
+  }
+  return out;
+}
+
+async function getMlToken() {
+  const env = loadDotEnv();
+  const appId = env.ML_APP_ID || process.env.ML_APP_ID;
+  const secret = env.ML_SECRET || process.env.ML_SECRET;
+  if (!appId || !secret) return null;
+  const res = await fetch(`${ML_API}/oauth/token`, {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: `grant_type=client_credentials&client_id=${appId}&client_secret=${secret}`,
+  });
+  const data = await res.json().catch(() => ({}));
+  return data.access_token || null;
+}
+
+async function fetchApiProduct(token, id) {
+  const headers = { Authorization: `Bearer ${token}` };
+  const res = await fetch(`${ML_API}/products/${id}/items?limit=50`, { headers });
+  // 404 en /items = el producto de catalogo no tiene ningun vendedor activo
+  // (verificado: sigue apareciendo en /products/search como "sin ofertas")
+  if (res.status === 404) return { status: "out_of_stock", price: null };
+  if (!res.ok) throw new Error(`API_HTTP_${res.status}`);
+  const data = await res.json();
+  const offers = (data.results || []).filter((o) => o.condition === "new");
+  if (!offers.length) return { status: "out_of_stock", price: null };
+
+  const best = offers.reduce((a, b) => (b.price < a.price ? b : a));
+  let rating;
+  let reviewCount;
+  try {
+    const rev = await fetch(
+      `${ML_API}/reviews/item/${best.item_id}?catalog_product_id=${id}`,
+      { headers }
+    );
+    if (rev.ok) {
+      const rj = await rev.json();
+      rating = rj.rating_average || undefined;
+      reviewCount = (rj.paging && rj.paging.total) || undefined;
+    }
+  } catch {
+    // Rating es opcional; el precio es lo que importa
+  }
+
+  return {
+    status: "fresh",
+    price: Math.round(best.price),
+    originalPrice: best.original_price ? Math.round(best.original_price) : null,
+    rating,
+    reviewCount,
+  };
+}
+
+async function mapWithConcurrency(items, limit, fn) {
+  const results = new Array(items.length);
+  let next = 0;
+  async function worker() {
+    while (next < items.length) {
+      const i = next++;
+      results[i] = await fn(items[i], i);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
+  return results;
 }
 
 function extractQuotedProp(block, prop) {
@@ -507,104 +601,159 @@ async function main() {
     return;
   }
 
-  const profileDir = process.env.ML_SCRAPER_PROFILE_DIR || path.resolve(".cache/ml-scraper-profile");
-  fs.mkdirSync(profileDir, { recursive: true });
+  for (const p of selected) p.apiId = resolveApiId(p.id, p.permalink);
+  let apiTargets = selected.filter((p) => p.apiId);
+  let scrapeTargets = selected.filter((p) => !p.apiId);
+  if (opts.apiOnly && scrapeTargets.length) {
+    console.log(`--api-only: salteando ${scrapeTargets.length} productos que requieren scraper.`);
+    scrapeTargets = [];
+  }
 
   console.log(`${opts.apply ? "APPLY" : "DRY RUN"}: checking ${selected.length}/${products.length} products`);
-  console.log(`Browser profile: ${profileDir}`);
-  console.log("Tip: if ML asks for verification, rerun with ML_SCRAPER_HEADFUL=true once.\n");
-
-  const browser = await puppeteer.launch({
-    headless: process.env.ML_SCRAPER_HEADFUL === "true" ? false : true,
-    userDataDir: profileDir,
-    args: [
-      "--no-sandbox",
-      "--disable-setuid-sandbox",
-      "--disable-blink-features=AutomationControlled",
-      "--disable-infobars",
-      "--window-size=1440,1100",
-    ],
-  });
+  console.log(`  via API oficial: ${apiTargets.length} | via scraper: ${scrapeTargets.length}\n`);
 
   const results = [];
   let nextSrc = src;
 
-  try {
-    for (let i = 0; i < selected.length; i++) {
-      const product = selected[i];
-      let page;
-      try {
-        console.log(`[${i + 1}/${selected.length}] CHECK ${product.id} ${product.title.slice(0, 80)}`);
-        page = await preparePage(browser);
-        const data = await withTimeout(
-          scrapeProduct(page, product),
-          opts.productTimeoutMs,
-          `PRODUCT_TIMEOUT_${opts.productTimeoutMs}ms`
-        );
-        const currentPrice = data.price ? Math.round(data.price) : null;
-        const diff = currentPrice ? currentPrice - product.storedPrice : null;
-        const ratio = currentPrice ? currentPrice / product.storedPrice : null;
-        const suspicious =
-          currentPrice &&
-          (currentPrice < 500 || ratio < opts.minRatio || ratio > opts.maxRatio);
-
-        const result = {
-          id: product.id,
-          title: product.title,
-          url: product.permalink,
-          finalUrl: data.finalUrl,
-          storedPrice: product.storedPrice,
-          currentPrice,
-          originalPrice: data.originalPrice || null,
-          soldQuantity: data.soldQuantity || null,
-          rating: data.rating || null,
-          reviewCount: data.reviewCount || null,
-          diff,
-          ratio,
-          status: suspicious ? "suspicious" : data.status,
-        };
-        results.push(result);
-
-        const tag = currentPrice && Math.abs(diff) >= 1 ? (diff > 0 ? "UP " : "DN ") : "OK ";
-        const priceText = currentPrice ? `$${product.storedPrice.toLocaleString("es-AR")} -> $${currentPrice.toLocaleString("es-AR")}` : "no price";
-        console.log(`[${i + 1}/${selected.length}] ${tag}    ${product.id} ${priceText}${suspicious ? " (suspicious, skipped)" : ""}`);
-
-        if (opts.apply && !suspicious && (currentPrice || data.status === "out_of_stock")) {
-          const updated = updateProductBlock(product.block, result, opts);
-          nextSrc = nextSrc.replace(product.block, updated);
-        }
-      } catch (error) {
-        const status = error && error.message === "ML_SECURITY_VERIFICATION" ? "blocked" : "failed";
-        console.log(`[${i + 1}/${selected.length}] ${status.toUpperCase()} ${product.id}: ${error.message || error}`);
-        const result = {
-          id: product.id,
-          title: product.title,
-          url: product.permalink,
-          storedPrice: product.storedPrice,
-          currentPrice: null,
-          status,
-          error: error.message || String(error),
-        };
-        results.push(result);
-
-        if (opts.apply && opts.markFailedStale) {
-          const updated = updateProductBlock(product.block, result, opts);
-          nextSrc = nextSrc.replace(product.block, updated);
-        }
-      } finally {
-        if (page) await page.close().catch(() => undefined);
-        fs.writeFileSync(RESULTS_PATH, JSON.stringify(results, null, 2));
-        if (opts.apply && nextSrc !== src) {
-          fs.writeFileSync(CATALOG_PATH, nextSrc);
-        }
+  // Resultado exitoso o fallido → log, results[], y update del bloque si aplica
+  function recordResult(product, data, error, index, total, engine) {
+    if (error) {
+      const status = error.message === "ML_SECURITY_VERIFICATION" ? "blocked" : "failed";
+      console.log(`[${engine} ${index}/${total}] ${status.toUpperCase()} ${product.id}: ${error.message || error}`);
+      const result = {
+        id: product.id,
+        title: product.title,
+        url: product.permalink,
+        storedPrice: product.storedPrice,
+        currentPrice: null,
+        status,
+        error: error.message || String(error),
+      };
+      results.push(result);
+      if (opts.apply && opts.markFailedStale) {
+        nextSrc = nextSrc.replace(product.block, updateProductBlock(product.block, result, opts));
       }
+      return;
+    }
 
-      if (i < selected.length - 1) {
-        await delay(randomBetween(3500, 7500));
+    const currentPrice = data.price ? Math.round(data.price) : null;
+    const diff = currentPrice ? currentPrice - product.storedPrice : null;
+    const ratio = currentPrice ? currentPrice / product.storedPrice : null;
+    const suspicious =
+      currentPrice && (currentPrice < 500 || ratio < opts.minRatio || ratio > opts.maxRatio);
+
+    const result = {
+      id: product.id,
+      title: product.title,
+      url: product.permalink,
+      finalUrl: data.finalUrl || null,
+      storedPrice: product.storedPrice,
+      currentPrice,
+      originalPrice: data.originalPrice || null,
+      soldQuantity: data.soldQuantity || null,
+      rating: data.rating || null,
+      reviewCount: data.reviewCount || null,
+      diff,
+      ratio,
+      status: suspicious ? "suspicious" : data.status,
+    };
+    results.push(result);
+
+    const tag = currentPrice && Math.abs(diff) >= 1 ? (diff > 0 ? "UP " : "DN ") : "OK ";
+    const priceText = currentPrice
+      ? `$${product.storedPrice.toLocaleString("es-AR")} -> $${currentPrice.toLocaleString("es-AR")}`
+      : data.status === "out_of_stock"
+        ? "sin ofertas activas"
+        : "no price";
+    console.log(`[${engine} ${index}/${total}] ${tag}    ${product.id} ${priceText}${suspicious ? " (suspicious, skipped)" : ""}`);
+
+    if (opts.apply && !suspicious && (currentPrice || data.status === "out_of_stock")) {
+      nextSrc = nextSrc.replace(product.block, updateProductBlock(product.block, result, opts));
+    }
+  }
+
+  // ── Fase 1: API oficial (paralelo, sin navegador) ──
+  if (apiTargets.length > 0) {
+    const token = await getMlToken();
+    if (!token) {
+      console.log("AVISO: sin ML_APP_ID/ML_SECRET en .env (o token rechazado) — esos productos pasan al scraper.\n");
+      scrapeTargets = apiTargets.concat(scrapeTargets);
+      apiTargets = [];
+    } else {
+      let done = 0;
+      await mapWithConcurrency(apiTargets, API_CONCURRENCY, async (product) => {
+        try {
+          const data = await fetchApiProduct(token, product.apiId);
+          recordResult(product, data, null, ++done, apiTargets.length, "API");
+        } catch (error) {
+          recordResult(product, null, error, ++done, apiTargets.length, "API");
+        }
+      });
+      fs.writeFileSync(RESULTS_PATH, JSON.stringify(results, null, 2));
+      if (opts.apply && nextSrc !== src) {
+        fs.writeFileSync(CATALOG_PATH, nextSrc);
       }
     }
-  } finally {
-    await browser.close();
+  }
+
+  // ── Fase 2: scraper Puppeteer (solo publicaciones individuales) ──
+  if (scrapeTargets.length > 0) {
+    let puppeteer;
+    try {
+      puppeteer = require("puppeteer");
+    } catch {
+      console.error("Missing dependency: puppeteer. Run npm install first.");
+      process.exit(1);
+    }
+
+    const profileDir = process.env.ML_SCRAPER_PROFILE_DIR || path.resolve(".cache/ml-scraper-profile");
+    fs.mkdirSync(profileDir, { recursive: true });
+    console.log(`\nScraper para ${scrapeTargets.length} publicaciones individuales (la API las bloquea).`);
+    console.log(`Browser profile: ${profileDir}`);
+    console.log("Tip: if ML asks for verification, rerun with ML_SCRAPER_HEADFUL=true once.\n");
+
+    const browser = await puppeteer.launch({
+      headless: process.env.ML_SCRAPER_HEADFUL === "true" ? false : true,
+      userDataDir: profileDir,
+      args: [
+        "--no-sandbox",
+        "--disable-setuid-sandbox",
+        "--disable-blink-features=AutomationControlled",
+        "--disable-infobars",
+        "--window-size=1440,1100",
+      ],
+    });
+
+    try {
+      for (let i = 0; i < scrapeTargets.length; i++) {
+        const product = scrapeTargets[i];
+        let page;
+        try {
+          console.log(`[SCRAPER ${i + 1}/${scrapeTargets.length}] CHECK ${product.id} ${product.title.slice(0, 80)}`);
+          page = await preparePage(browser);
+          const data = await withTimeout(
+            scrapeProduct(page, product),
+            opts.productTimeoutMs,
+            `PRODUCT_TIMEOUT_${opts.productTimeoutMs}ms`
+          );
+          recordResult(product, data, null, i + 1, scrapeTargets.length, "SCRAPER");
+        } catch (error) {
+          recordResult(product, null, error, i + 1, scrapeTargets.length, "SCRAPER");
+        } finally {
+          if (page) await page.close().catch(() => undefined);
+          fs.writeFileSync(RESULTS_PATH, JSON.stringify(results, null, 2));
+          if (opts.apply && nextSrc !== src) {
+            fs.writeFileSync(CATALOG_PATH, nextSrc);
+          }
+        }
+
+        if (i < scrapeTargets.length - 1) {
+          await delay(randomBetween(3500, 7500));
+        }
+      }
+    } finally {
+      await browser.close();
+    }
   }
 
   fs.writeFileSync(RESULTS_PATH, JSON.stringify(results, null, 2));

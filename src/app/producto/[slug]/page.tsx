@@ -85,58 +85,91 @@ export default async function ProductPage({ params }: Props) {
     .filter((p) => p.categorySlug !== product.categorySlug)
     .slice(0, 4);
 
-  // Build JSON-LD structured data
-  const baseData = product.structuredData || {
+  // ── JSON-LD structured data ──────────────────────────────────────────
+  // Una sola fuente de verdad: los campos canónicos del producto (los que
+  // mantiene actualizados `prices:update`) SIEMPRE ganan. Un bloque
+  // `structuredData` manual solo puede AGREGAR extras (model, color,
+  // countryOfOrigin, releaseDate…) — nunca contradecir precio, nombre,
+  // rating ni disponibilidad de la página visible.
+  const custom = (product.structuredData || {}) as Record<string, unknown>;
+  const customOffers = (custom.offers as Record<string, unknown>) || {};
+
+  // Reseñas: preferimos las curadas en `customerReviews` (con fecha y texto
+  // citables). Fallback: un `review[]` manual ya escrito en structuredData.
+  const curatedReviews = (product.customerReviews || [])
+    .filter((r) => r.text && r.date)
+    .map((r) => ({
+      "@type": "Review",
+      author: {
+        "@type": "Person",
+        name: r.country ? `Comprador en ${r.country}` : "Comprador en Argentina",
+      },
+      datePublished: r.date,
+      reviewBody: r.text,
+      reviewRating: {
+        "@type": "Rating",
+        ratingValue: String(r.rating),
+        bestRating: "5",
+        worstRating: "1",
+      },
+    }));
+
+  // aggregateRating solo con datos reales: rating + reviewCount del producto.
+  // Fallback a un aggregateRating manual existente (datos reales legacy)
+  // mientras la ficha no tenga `reviewCount` cargado. Nunca se inventa.
+  const aggregateRating =
+    product.rating && product.reviewCount
+      ? {
+          "@type": "AggregateRating",
+          ratingValue: product.rating.toFixed(1),
+          reviewCount: String(product.reviewCount),
+          bestRating: "5",
+          worstRating: "1",
+        }
+      : custom.aggregateRating;
+
+  const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Product",
-    name: product.title,
-    description: product.description,
+    ...custom, // extras primero; los campos canónicos de abajo siempre ganan
+    name: product.canonicalName || (custom.name as string) || product.title,
+    description: (custom.description as string) || product.description,
     sku: product.id,
+    ...(product.mpn ? { mpn: product.mpn } : {}),
+    image: custom.image || product.images || product.image,
     ...(product.brand
+      ? { brand: { "@type": "Brand", name: product.brand } }
+      : custom.brand
+        ? { brand: custom.brand }
+        : {}),
+    ...(aggregateRating ? { aggregateRating } : {}),
+    ...(curatedReviews.length > 0
+      ? { review: curatedReviews }
+      : custom.review
+        ? { review: custom.review }
+        : {}),
+    ...(product.specs && product.specs.length > 0
       ? {
-          brand: {
-            "@type": "Brand",
-            name: product.brand,
-          },
+          additionalProperty: product.specs.map((s) => ({
+            "@type": "PropertyValue",
+            name: s.label,
+            value: s.value,
+          })),
         }
       : {}),
     offers: {
       "@type": "Offer",
+      ...customOffers,
       url: product.affiliateUrl,
       priceCurrency: product.currency,
       price: product.price,
-      availability: "https://schema.org/InStock",
-      seller: {
-        "@type": "Organization",
-        name: "MercadoLibre Argentina",
-      },
-    },
-  };
-
-  const baseOffers = (baseData as Record<string, unknown>).offers as Record<string, unknown> || {};
-
-  const baseAggregateRating = (baseData as Record<string, unknown>).aggregateRating;
-
-  const jsonLd = {
-    ...baseData,
-    // Always ensure image is present — custom structuredData entries often omit it
-    image: (baseData as Record<string, unknown>).image || product.images || product.image,
-    // Add aggregateRating when product has rating data and custom data doesn't already include it
-    ...(baseAggregateRating
-      ? { aggregateRating: baseAggregateRating }
-      : product.rating && product.reviewCount
-        ? {
-            aggregateRating: {
-              "@type": "AggregateRating",
-              ratingValue: product.rating.toFixed(1),
-              reviewCount: String(product.reviewCount),
-            },
-          }
-        : {}),
-    offers: {
-      ...baseOffers,
-      priceValidUntil: baseOffers.priceValidUntil || getPriceValidUntil(product),
-      shippingDetails: baseOffers.shippingDetails || {
+      availability:
+        product.priceStatus === "out_of_stock"
+          ? "https://schema.org/OutOfStock"
+          : "https://schema.org/InStock",
+      priceValidUntil: getPriceValidUntil(product),
+      seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      shippingDetails: customOffers.shippingDetails || {
         "@type": "OfferShippingDetails",
         shippingDestination: {
           "@type": "DefinedRegion",
@@ -165,7 +198,7 @@ export default async function ProductPage({ params }: Props) {
           },
         }),
       },
-      hasMerchantReturnPolicy: baseOffers.hasMerchantReturnPolicy || {
+      hasMerchantReturnPolicy: customOffers.hasMerchantReturnPolicy || {
         "@type": "MerchantReturnPolicy",
         applicableCountry: "AR",
         returnPolicyCategory:
@@ -229,7 +262,7 @@ export default async function ProductPage({ params }: Props) {
               {
                 "@type": "ListItem",
                 position: 3,
-                name: product.title,
+                name: product.canonicalName || product.title,
                 item: `https://productosvirales.com.ar${productHref(product)}`,
               },
             ],
