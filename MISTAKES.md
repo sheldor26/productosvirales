@@ -116,3 +116,5 @@
 **Cómo evitarlo:** SIEMPRE `cd /ruta/al/repo && ...` dentro del mismo comando cuando se trabaja en un repo que no es el primario, especialmente para operaciones git. Verificar con `git remote -v` antes de cualquier push.
 
 **Reparación:** Juan decidió dejar el commit como está (el build pasaba y los cambios eran suyos); solo queda el mensaje equivocado en el historial.
+
+**Reincidencia (mismo día):** volvió a pasar horas después con `git add -A && commit && push` sin `cd` — se commiteó y pusheó `.claude/launch.json` a master (`5acc89a`) con mensaje de la revista. Archivo inofensivo; se dejó. Regla reforzada: usar SIEMPRE `git -C /ruta/al/repo ...` para CUALQUIER comando git de otro repo, sin excepción.
