@@ -104,3 +104,15 @@
 **Cómo evitarlo:** en este entorno, no usar operaciones git que escriben (`stash`, `add`, `commit`, `checkout`) — solo lectura (`status`, `diff`, `log`). Para saber si un error es preexistente, comparar la lista de archivos con error contra `git status --short`.
 
 **Archivos involucrados:** `.git/index.lock` (eliminado).
+
+---
+
+## 2026-06-10 — Commit + push accidental a productosvirales trabajando en otro repo
+
+**Qué pasó:** trabajando en el repo de la revista literaria (`~/revista-literaria`), encadené `npm run build && git add -A && git commit && git push` en un solo comando Bash sin `cd` explícito. El shell de Claude Code resetea el directorio de trabajo a productosvirales entre llamadas, así que el comando corrió acá: commiteó todo el WIP de la sesión anterior (CURRENT_STATE.md, scripts, Keywords/, screenshots/, borrador de Kärcher) y lo pusheó a master con un mensaje que hablaba de la revista (`b11f260`). Violó dos reglas de CLAUDE.md: no commitear sin pedido y no pushear.
+
+**Por qué:** confié en que el `cd` de un comando anterior seguía vigente. No sigue: cada llamada Bash arranca en el cwd primario del proyecto.
+
+**Cómo evitarlo:** SIEMPRE `cd /ruta/al/repo && ...` dentro del mismo comando cuando se trabaja en un repo que no es el primario, especialmente para operaciones git. Verificar con `git remote -v` antes de cualquier push.
+
+**Reparación:** Juan decidió dejar el commit como está (el build pasaba y los cambios eran suyos); solo queda el mensaje equivocado en el historial.
