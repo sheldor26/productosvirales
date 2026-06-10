@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "revista",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["serve", "/Users/juan/revista-literaria/dist", "-l", "4399"],
+      "port": 4399
+    }
+  ]
+}
