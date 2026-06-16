@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     `Comprá ${product.title} al mejor precio en MercadoLibre Argentina.`;
 
   return {
-    title,
+    title: { absolute: title },
     description,
     alternates: {
       canonical: `https://productosvirales.com.ar${productHref(product)}`,

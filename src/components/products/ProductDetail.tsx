@@ -27,10 +27,18 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
     : null;
 
   useGSAP(() => {
+    const selector =
+      ".detail-image, .detail-info, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-related";
+
     const mm = gsap.matchMedia();
 
     mm.add("(prefers-reduced-motion: no-preference)", () => {
-      const tl = gsap.timeline({ defaults: { autoAlpha: 0, y: 20, duration: 0.4, ease: "power2.out" } });
+      // El SSR pinta estos bloques con opacity:0 (espacio reservado, sin CLS).
+      // Antes de animar, fijamos el estado final visible (opacity:1) para que
+      // .from() interpole DESDE 0 HACIA 1 — animamos solo opacity/transform,
+      // nunca layout.
+      gsap.set(selector, { opacity: 1 });
+      const tl = gsap.timeline({ defaults: { opacity: 0, y: 20, duration: 0.4, ease: "power2.out" } });
       tl.from(".detail-image", { x: -20, y: 0 })
         .from(".detail-info", { x: 20, y: 0 }, "<0.1")
         .from(".detail-article", {}, 0.3)
@@ -38,12 +46,12 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
         .from(".detail-specs", {}, "-=0.05")
         .from(".detail-faq", {}, "-=0.05")
         .from(".detail-related", {}, "-=0.05");
+      // Aseguramos el estado final (por si el usuario no espera la animación).
+      tl.set(selector, { clearProps: "opacity,transform" });
     });
 
     mm.add("(prefers-reduced-motion: reduce)", () => {
-      gsap.set(".detail-image, .detail-info, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-related", {
-        autoAlpha: 1, y: 0, x: 0,
-      });
+      gsap.set(selector, { opacity: 1, y: 0, x: 0 });
     });
   }, { scope: containerRef });
 
@@ -69,12 +77,12 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
         {/* Left: Image gallery */}
-        <div className="detail-image" style={{ visibility: "hidden" }}>
+        <div className="detail-image" style={{ opacity: 0 }}>
           <ProductGallery product={product} />
         </div>
 
         {/* Right: Info */}
-        <div className="detail-info flex flex-col" style={{ visibility: "hidden" }}>
+        <div className="detail-info flex flex-col" style={{ opacity: 0 }}>
           <Link
             href={`/categoria/${product.categorySlug}`}
             className="text-xs text-[var(--text-muted)] hover:text-[var(--text-secondary)] transition-colors mb-2"
@@ -207,7 +215,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       {/* ─── Article body ─── */}
       {product.articleBody && (
-        <article className="detail-article mt-10 max-w-3xl" style={{ visibility: "hidden" }}>
+        <article className="detail-article mt-10 max-w-3xl" style={{ opacity: 0 }}>
           <div className="prose prose-sm max-w-none text-[var(--text-secondary)]">
             {product.articleBody.split('\n\n').map((block, i) => {
               if (block.startsWith('## ')) {
@@ -243,7 +251,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       {/* ─── Customer reviews ─── */}
       {product.customerReviews && product.customerReviews.length > 0 && (
-        <section className="detail-reviews mt-8 max-w-3xl" style={{ visibility: "hidden" }}>
+        <section className="detail-reviews mt-8 max-w-3xl" style={{ opacity: 0 }}>
           <h2
             className="text-lg font-bold text-[var(--text-primary)] mb-4"
             style={{ fontFamily: 'var(--font-display)' }}
@@ -279,7 +287,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       {/* ─── Specs table ─── */}
       {product.specs && product.specs.length > 0 && (
-        <div className="detail-specs mt-8 max-w-3xl" style={{ visibility: "hidden" }}>
+        <div className="detail-specs mt-8 max-w-3xl" style={{ opacity: 0 }}>
           <h2
             className="text-lg font-bold text-[var(--text-primary)] mb-4"
             style={{ fontFamily: 'var(--font-display)' }}
@@ -310,7 +318,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       {/* ─── FAQ ─── */}
       {product.faq && product.faq.length > 0 && (
-        <section className="detail-faq mt-8 max-w-3xl" style={{ visibility: "hidden" }}>
+        <section className="detail-faq mt-8 max-w-3xl" style={{ opacity: 0 }}>
           <h2
             className="text-lg font-bold text-[var(--text-primary)] mb-4"
             style={{ fontFamily: 'var(--font-display)' }}
@@ -341,7 +349,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
       {/* ─── Comparar con otros modelos (interlinking) ─── */}
       {relatedProducts.length > 0 && (
-        <section className="detail-related mt-10 max-w-3xl" style={{ visibility: "hidden" }}>
+        <section className="detail-related mt-10 max-w-3xl" style={{ opacity: 0 }}>
           <h2
             className="text-lg font-bold text-[var(--text-primary)] mb-4"
             style={{ fontFamily: 'var(--font-display)' }}
