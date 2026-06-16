@@ -13673,6 +13673,50 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     reviewCount: 248,
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    pros: [
+      "Aroma fresco y cítrico con un fondo dulce",
+      "Duración larga: hay quien reporta 9 o 10 horas",
+      "Frasco con atomizador firme, buena terminación",
+      "Envío gratis y precio competitivo para 100ml",
+    ],
+    cons: [
+      "El nombre engaña: no huele a mandarina como uno esperaría",
+      "Al ser genérico, la experiencia puede variar entre lotes",
+    ],
+    verdict: "Un perfume árabe hombre fresco y cítrico que rinde bien por horas. Buena opción si buscás algo dulce sin caer en lo empalagoso, y el frasco se siente más caro de lo que cuesta.",
+    articleBody: `El Mandarine Sky es uno de esos perfumes árabes que generan dudas por el nombre. Uno se imagina un cítrico de mandarina puro y se encuentra con otra cosa: fresco, sí, pero con un fondo dulce que lo lleva por otro lado. Con 248 calificaciones y un promedio de 4.4, ya tiene recorrido suficiente para leer el patrón.
+
+## A qué huele
+
+Es un perfume árabe hombre del lado fresco y cítrico, con notas dulces que aparecen en el desarrollo. Varios compradores aclaran algo curioso: no huele a mandarina, y lo cuentan como algo bueno. La apertura es fresca, después se va asentando hacia algo más dulzón pegado a la piel. Si esperabas un cítrico frutal directo, este no es. Si buscabas algo fresco con cuerpo, encaja.
+
+## Cuánto dura y cuándo usarlo
+
+Acá está su punto fuerte. La reseña con más likes habla de 9 a 10 horas de duración, y otros compradores confirman que perdura bastante. Eso lo vuelve cómodo para un día largo de laburo o una salida que se estira. Por el perfil fresco va mejor en primavera y verano, o para uso diario donde no querés algo que tape todo el ambiente.
+
+## Qué dicen los compradores
+
+El patrón es positivo. Lo que más se repite: buena duración, aroma fresco y agradable, y sorpresa grata con el frasco. Hay un comentario que vale la pena por honesto: una persona que tenía miedo de comprar perfumes por Mercado Libre y se encontró con el original, atomizador rígido incluido. Otra lo describe como botellita tipo cantimplora con aroma cítrico. La nota baja del nombre engañoso aparece, pero casi siempre como dato, no como queja.
+
+## Para quién sí y para quién no
+
+Sí, si buscás un perfume fresco y dulce que dure y no te quieras gastar una fortuna. También si te interesa probar el mundo árabe sin arrancar por algo pesado. No, si esperás literalmente olor a mandarina, o si preferís perfiles amaderados y oscuros para la noche. Para esos casos conviene mirar la guía de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).
+
+## En resumen
+
+El Mandarine Sky cumple donde importa: huele rico, dura y el frasco no parece de los baratos. El único pero es de expectativa, no de calidad. Como perfume árabe fresco para el día a día, es de los que dan ganas de recomendar.`,
+    faq: [
+      { question: "¿Cuánto dura el Mandarine Sky?", answer: "Los compradores reportan duraciones largas: la reseña más votada habla de 9 a 10 horas, y varios confirman que perdura bien durante el día. Como siempre, depende de tu piel y de cuántos sprays apliques." },
+      { question: "¿Es original o un clon?", answer: "Es un perfume árabe genérico, no una marca con casa establecida. Varios compradores que dudaban antes de comprar confirmaron que recibieron el producto que esperaban, con buen frasco y atomizador. Comprá de vendedores con buena reputación para ir seguro." },
+      { question: "¿Para qué ocasión va mejor?", answer: "Por su perfil fresco y cítrico va bien para el día, el trabajo y salidas en primavera o verano. No es un perfume pesado de noche; es más bien de uso diario." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026-04-20", text: "Está rico, me duró como 9-10hs, no huele a mandarina que es lo más importante.", useful: 86 },
+      { rating: 5, country: "Argentina", date: "2026-04-25", text: "Muy buen envase con atomizador rígido, se nota la calidad. Notas dulces y duración larga. Tenía miedo de comprar perfumes por Mercado Libre pero era el original, lo súper recomiendo.", useful: 4 },
+      { rating: 4, country: "Argentina", date: "2026-04-04", text: "Botellita tipo cantimplora. Aroma fresco, cítrico. Lo compré recién.", useful: 6 },
+      { rating: 5, country: "Argentina", date: "2026-03-17", text: "Excelente perfume, lo recomiendo 10 de 10.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: "MLAU3798337289",
@@ -13701,6 +13745,50 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     reviewCount: 161,
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
+    pros: [
+      "Aroma dulce a cacao que no empalaga",
+      "Perfil cálido ideal para otoño e invierno",
+      "Rating alto: 4.6 sobre 161 calificaciones",
+      "Envío gratis",
+    ],
+    cons: [
+      "La duración divide opiniones: a algunos les dura poco",
+      "Reportes de cajas que llegan un poco golpeadas (la botella, bien)",
+    ],
+    verdict: "Un perfume árabe hombre cálido y dulce, con un cacao suave que lo hace fácil de llevar en otoño e invierno. El rating de 4.6 lo respalda, aunque la duración no es pareja para todos.",
+    articleBody: `El Asad Bourbon marrón es un perfume árabe hombre que apuesta al lado dulce y cálido, con un aroma a cacao que es su marca registrada. Con un promedio de 4.6 sobre 161 calificaciones, es de los mejor puntuados de su rango, y la lectura de las reseñas explica por qué: gusta, y gusta para una temporada concreta.
+
+## A qué huele
+
+La nota que más se nombra es el cacao: dulce, suave, sin llegar a empalagar. Es un perfil cálido y gourmand, de esos que abrigan más que refrescan. No es un cítrico ni un amaderado seco; va por el lado goloso pero contenido. Esa es la diferencia que destacan los compradores: dulce, pero no de los que cansan a la media hora.
+
+## Cuánto dura y cuándo usarlo
+
+Por su carácter cálido, va claramente mejor en otoño e invierno. Un comprador lo recomienda directo para esas estaciones, y tiene sentido: el calor potencia los dulces y puede volverlos pesados. Sobre la duración hay matices. Algunos lo describen como duradero y persistente; otros aclaran que dura poco en su piel. Es el típico perfume cuya permanencia depende mucho de cada persona, así que conviene tomarlo con expectativa media.
+
+## Qué dicen los compradores
+
+El tono general es muy positivo. Lo más repetido: el aroma a cacao suave que no empalaga, lo agradable y fresco del conjunto, y que es recomendable. Hay una reseña que se volvió graciosa entre los compradores, sobre lo bien que funciona socialmente. En el lado crítico aparecen dos cosas concretas: alguna caja que llegó un poco chueca (la botella siempre perfecta) y la duración corta para una parte de los usuarios.
+
+## Para quién sí y para quién no
+
+Sí, si te gustan los perfumes dulces y cálidos para usar de la tarde en adelante en épocas frías. Es buena puerta de entrada a lo gourmand árabe. No, si buscás algo fresco para el verano o necesitás una duración garantizada de muchas horas. Si querés comparar con otras opciones del rubro, está la guía de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).
+
+## En resumen
+
+El Asad Bourbon hace bien lo suyo: un dulce de cacao que no satura, perfecto para el frío y respaldado por un rating alto. Tené en cuenta que la duración es el punto donde las opiniones se separan.`,
+    faq: [
+      { question: "¿Cuánto dura el Asad Bourbon?", answer: "Las opiniones se dividen. Algunos compradores lo describen como duradero y persistente, mientras otros sienten que dura poco en su piel. Es un perfume cuya permanencia varía bastante según la persona." },
+      { question: "¿Es original o un clon?", answer: "Es un perfume árabe genérico inspirado en el perfil dulce-cacao. Los compradores reciben la botella en buen estado, aunque alguna caja exterior llegó algo golpeada. Comprá de vendedores con buena reputación." },
+      { question: "¿Para qué ocasión va mejor?", answer: "Por su perfil cálido y dulce, va mejor en otoño e invierno y para uso de tarde o noche. En verano el dulzor puede sentirse pesado." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026-05-21", text: "El único problema es que te duele el brazo, porque cuando me lo pongo se te cuelgan las mujeres.", useful: 8 },
+      { rating: 4, country: "Argentina", date: "2026-04-24", text: "La caja vino un poco chueca, pero la botella perfecta. Aroma a cacao suave, dulce y que no empalaga, ideal para invierno/otoño.", useful: 6 },
+      { rating: 5, country: "Argentina", date: "2026-03-25", text: "Altamente recomendable, duradero y persistente.", useful: 5 },
+      { rating: 4, country: "Argentina", date: "2026-05-04", text: "Fragancia fresca y muy agradable, pero dura poco.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: "MLA52883777",
@@ -13730,6 +13818,43 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     reviewsSampledAt: "2026-06-10",
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    pros: [
+      "Cuatro fragancias distintas para probar en un solo set",
+      "Formato chico de 35ml, cómodo para llevar",
+      "Unisex: sirve para hombre y mujer",
+      "Precio bajo y envío gratis",
+    ],
+    cons: [
+      "Frascos de 35ml: rinden poco si encontrás el que te gusta",
+      "Al ser genéricos, la calidad puede variar entre aromas",
+    ],
+    verdict: "Un set pensado para descubrir qué perfil árabe te gusta sin comprometerte con un frasco grande. Buena entrada al mundo árabe a precio accesible, con la salvedad de que cada tubo es chico.",
+    articleBody: `Este set de 4 perfumes árabes en tubo de 35ml está pensado para una situación muy concreta: no sabés qué perfil te gusta y querés probar varios sin gastar de más. En vez de jugarte a un frasco grande de algo que capaz no va con vos, llevás cuatro aromas distintos y vas descubriendo.
+
+## Qué incluye el set
+
+Son cuatro fragancias árabes en formato chico de 35ml cada una, con presentación tipo tubo. La idea es la variedad: cada uno apunta a un perfil distinto dentro del universo árabe, así probás familias diferentes y te quedás con tu favorito. Al ser unisex, sirve tanto para hombre como para mujer, lo que también lo vuelve una opción para compartir o regalar.
+
+## Para qué sirve este formato
+
+El tamaño de 35ml es la clave. No es un frasco para que te dure meses; es para conocer. Si recién entrás al mundo de los perfumes árabes y todavía no tenés claro si lo tuyo es lo dulce, lo fresco o lo amaderado, un set de prueba tiene más sentido que comprar a ciegas un 100ml. Y si encontrás el que te enamora, después comprás el frasco grande de ese. Es la forma más barata de equivocarte sin que duela: en vez de quedarte con un frasco entero que no usás, descartás los que no van y te quedás con tu favorito.
+
+## Cuándo conviene y cuándo no
+
+Conviene si querés explorar, si buscás un regalo con variedad, o si te gusta cambiar de aroma según el día. Tener cuatro opciones a mano es práctico. No conviene tanto si ya sabés exactamente qué perfume querés: en ese caso un frasco de 100ml te rinde mucho más por tu plata que cuatro tubos chicos.
+
+## Para quién sí y para quién no
+
+Sí, para el que arranca y quiere probar perfume árabe sin arriesgar mucho. También para regalar algo distinto. No, para el que ya tiene su perfil definido y prefiere cantidad. Si querés guiarte antes de elegir, mirá la guía de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).
+
+## En resumen
+
+Es un kit de descubrimiento. Cuatro aromas árabes para encontrar el tuyo, a precio bajo. Pensalo como una cata: ideal para empezar, no tanto para abastecerte.`,
+    faq: [
+      { question: "¿Cuánto dura cada perfume del set?", answer: "Son frascos genéricos de 35ml, así que la duración en piel varía según el aroma y tu tipo de piel. Al ser un set de prueba, la idea es conocer los perfiles más que buscar la máxima permanencia." },
+      { question: "¿Son originales o clones?", answer: "Son fragancias árabes genéricas pensadas como set de descubrimiento. No son marcas con casa establecida; el valor está en probar varios perfiles a bajo costo. Comprá de vendedores con buena reputación." },
+      { question: "¿Para qué ocasión sirven?", answer: "Al traer cuatro aromas distintos y ser unisex, te da opciones para distintos momentos: algo más fresco para el día y algo más dulce o cálido para la noche, según cuál de los cuatro elijas." },
+    ],
   },
   {
     id: "MLAU3407622515",
@@ -13758,6 +13883,51 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     reviewCount: 207,
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    pros: [
+      "Buena relación precio-calidad para el que arranca",
+      "Presentación cuidada, esencia agradable",
+      "Viene con perfumero recargable para llevar",
+      "Rico apenas te lo ponés",
+    ],
+    cons: [
+      "La duración es su talón: varios reportan 3 o 4 horas",
+      "Frasco de 60ml: por poco más conseguís un comercial de 150ml",
+      "Rating 4.1, el más bajo de este grupo de árabes",
+    ],
+    verdict: "Un perfume árabe hombre rico en el momento y de buena presentación, pensado más para el que empieza que para el exigente con la duración. Si necesitás que aguante todo el día, no es tu mejor apuesta.",
+    articleBody: `El Jamal es un perfume árabe hombre que entra por la presentación y la relación precio-calidad, e incluye un perfumero recargable para que lo lleves encima. Tiene 207 calificaciones con un promedio de 4.1, el más bajo de este grupo, y las reseñas explican exactamente por qué: huele bien, pero la duración no acompaña a todos.
+
+## A qué huele
+
+Las reseñas hablan de una esencia agradable y de buena calidad, con una presentación que suma. Es un perfume que arranca rico apenas te lo aplicás, de esos que llaman la atención en los primeros minutos. El problema no es el aroma en sí, que gusta; es cuánto se queda.
+
+## Cuánto dura y cuándo usarlo
+
+Acá está el punto que más divide. Hay quien dice que dura más de 6 horas y lo usa para eventos sin drama. Pero la reseña más votada es honesta: rico en el momento, pero no más de 3 o 4 horas. Otro comprador coincide en que no le pareció que durara mucho. Si sos de los que se reaplican o lo usás para salidas cortas, el perfumero recargable que viene incluido tiene todo el sentido. Para una jornada laboral completa de un solo spray a la mañana, quizás te quede corto.
+
+## Qué dicen los compradores
+
+El patrón es claro: aroma y presentación gustan, duración divide. Aparece un comentario muy práctico sobre el tamaño: al ser de 60ml, un comprador señala que por un poco más comprás un Calvin Klein de 150ml, así que conviene tener en cuenta el rinde. Del otro lado, varios destacan la relación precio-calidad y que es ideal para eventos, incluso comprando dos.
+
+## Para quién sí y para quién no
+
+Sí, si valorás la presentación, te gusta probar perfumes árabes accesibles y no te molesta reaplicar (para eso está el perfumero). No, si lo que más te importa es que aguante muchas horas sin retoques, o si buscás máximo rinde por mililitro. En ese caso mirá las alternativas de la guía de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).
+
+## En resumen
+
+El Jamal es lindo de entrada y viene bien equipado con su perfumero recargable. Su debilidad es la permanencia, así que ajustá la expectativa: rico sí, eterno no.`,
+    faq: [
+      { question: "¿Cuánto dura el Jamal?", answer: "Es su punto débil. La mayoría de los compradores reporta entre 3 y 4 horas, aunque algunos mencionan más de 6. Por eso viene con un perfumero recargable, que ayuda si necesitás reaplicar durante el día." },
+      { question: "¿Es original o un clon?", answer: "Es un perfume árabe genérico de armado nacional, valorado por su relación precio-calidad y presentación. No es una marca con casa establecida. Comprá de vendedores con buena reputación." },
+      { question: "¿Para qué ocasión va mejor?", answer: "Va bien para eventos y salidas, donde luce apenas te lo ponés. Como la duración es corta para varios, conviene aplicarlo cerca de la ocasión y aprovechar el perfumero recargable para retocar." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026-04-09", text: "Rico en el momento pero no dura más de 3/4 hs, y por el tamaño (60ml) no conviene tanto. Por un poco más comprás un Calvin Klein de 150ml.", useful: 19 },
+      { rating: 5, country: "Argentina", date: "2026-01-25", text: "Relación precio-calidad excelente, muy buena calidad en esencia y presentación.", useful: 4 },
+      { rating: 5, country: "Argentina", date: "2026-05-02", text: "Más de 6 horas de duración. Compré 2, ideal para eventos.", useful: 3 },
+      { rating: 4, country: "Argentina", date: "2026-04-18", text: "Fragancia agradable, buena presentación, pero no me pareció que dure mucho.", useful: 2 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: "MLAU3800115477",
@@ -13786,6 +13956,49 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     reviewCount: 82,
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
+    pros: [
+      "Cuatro fragancias árabes para hombre en un kit",
+      "Vienen con atomizador, cómodos de aplicar",
+      "Aromas frescos y bien logrados según los compradores",
+      "Buena duración para el formato chico",
+    ],
+    cons: [
+      "Tubos de 35ml: rinden poco si encontrás tu favorito",
+      "Comunidad de reseñas chica todavía (82 calificaciones)",
+    ],
+    verdict: "Un kit de cuatro perfumes árabes para hombre, bien logrados y con atomizador, ideal para probar perfiles antes de comprar un frasco grande. El rating de 4.5 lo respalda pese a su comunidad chica.",
+    articleBody: `Este kit de 4 perfumes árabes para hombre en tubo de 35ml está pensado para el que quiere probar variedad sin comprometerse con un solo frasco grande. Con un promedio de 4.5 sobre 82 calificaciones, las primeras reseñas son alentadoras y van todas en la misma dirección: son buenos y están bien armados.
+
+## Qué incluye el kit
+
+Cuatro fragancias árabes distintas, pensadas para hombre, en formato chico de 35ml cada una. Lo práctico es que vienen con atomizador, así que se aplican como cualquier perfume normal, sin trasvasar nada ni andar con goteros. La gracia del kit es la variedad: probás cuatro perfiles diferentes, ves cuál te queda mejor según tu piel y el momento del día, y te quedás con el que más va con vos.
+
+## A qué huelen y cuánto duran
+
+Las reseñas describen aromas frescos y bien logrados, con buena duración para lo que es un formato chico. Un comprador los define directo como buenos, bien logrados y con buena duración; otro dice simplemente que son muy buenos todos. El lado fresco los hace cómodos para el día y para climas cálidos, donde algo más pesado cansaría.
+
+## Qué dicen los compradores
+
+Con pocas reseñas todavía, el tono es positivo de forma consistente. Lo que se repite: que son buenos, que vienen con atomizador y que el aroma es fresco. Una reseña les pone un siete, lo que ubica al kit como una compra correcta y sin sorpresas más que como un golazo. Para un set de prueba a precio accesible, esa expectativa está bien calibrada.
+
+## Para quién sí y para quién no
+
+Sí, para el hombre que arranca en el mundo árabe y quiere descubrir su perfil sin gastar en un frasco grande de algo que capaz no le gusta. También para regalar variedad. No, si ya sabés exactamente qué perfume querés: ahí un 100ml te rinde mucho más que cuatro tubos de 35ml. Para orientarte antes de elegir, está la guía de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).
+
+## En resumen
+
+Un kit de descubrimiento bien armado: cuatro aromas árabes frescos, con atomizador y buena recepción. Ideal para empezar y encontrar tu favorito antes de comprar en grande.`,
+    faq: [
+      { question: "¿Cuánto duran estos perfumes?", answer: "Para ser frascos de 35ml, los compradores reportan buena duración. Como en todo perfume, varía según el aroma puntual y tu tipo de piel, pero las primeras reseñas son positivas en este punto." },
+      { question: "¿Son originales o clones?", answer: "Son fragancias árabes genéricas para hombre, armadas como kit de descubrimiento. No son marcas con casa establecida; el valor está en probar cuatro perfiles a bajo costo. Comprá de vendedores con buena reputación." },
+      { question: "¿Para qué ocasión sirven?", answer: "Los compradores los describen como frescos, así que van bien para el día y para uso diario. Al traer cuatro aromas distintos, podés alternar según el momento y descubrir cuál preferís." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026-05-11", text: "Son buenos, bien logrados y con buena duración.", useful: 2 },
+      { rating: 5, country: "Argentina", date: "2026-04-08", text: "Muy buenos todos.", useful: 3 },
+      { rating: 4, country: "Argentina", date: "2026-06-03", text: "Vienen con atomizador, aroma fresco. Siete puntos.", useful: 1 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: "MLAU3671070084",
@@ -13814,6 +14027,51 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     reviewCount: 139,
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    pros: [
+      "Aroma frutal dulzón, intenso y agradable",
+      "Presentación lujosa: la botella tiene terminación de terciopelo",
+      "Excelente para regalar",
+      "Le suele gustar mucho al sexo opuesto",
+    ],
+    cons: [
+      "La duración divide: a algunos no les dura tanto en piel",
+      "Rinde más en la ropa que en la piel, según varios compradores",
+    ],
+    verdict: "Un perfume árabe hombre frutal y dulce con una presentación que parece de boutique, ideal para regalar o para salir. La duración en piel no es pareja para todos, pero el aroma y el frasco enamoran.",
+    articleBody: `El Erba Pura árabe es un perfume que entra primero por los ojos y después por la nariz. La botella con terminación de terciopelo le da un aire de boutique que pocos genéricos tienen, y el aroma frutal dulzón acompaña. Con 139 calificaciones y un promedio de 4.2, es de los más elegidos para regalar de este grupo.
+
+## A qué huele
+
+Es un perfume árabe hombre del lado frutal y dulce. Los compradores lo describen como una fragancia riquísima, intensa pero delicada al mismo tiempo, frutal dulzón sin caer en lo pesado. Esa combinación de dulzura con suavidad es lo que lo hace fácil de llevar y, según varias reseñas, muy bien recibido por las mujeres.
+
+## Cuánto dura y cuándo usarlo
+
+Acá hay matices que conviene conocer. Hay quien dice que perdura mucho y se queda en la piel; otros aclaran que el olor es muy bueno pero no dura tanto, y que se siente más en la ropa que en la piel. Es un patrón típico de los frutales dulces: rinden distinto según el tipo de piel. Por su carácter dulce e intenso va bien para salidas y eventos, más de tarde-noche que para una jornada de oficina.
+
+## Qué dicen los compradores
+
+El consenso es claro en dos cosas. Primero, la presentación: el empaque lujoso y la botella de terciopelo se nombran una y otra vez, y por eso aparece tanto como opción para regalar. Segundo, el aroma gusta y es intenso. El punto que divide es la duración en piel. Si tuviera que resumir el patrón: enamora por el frasco y el olor, y donde flaquea es en la permanencia para algunas personas.
+
+## Para quién sí y para quién no
+
+Sí, si buscás un perfume árabe dulce y frutal con una presentación que impacta, ideal para regalar o para vos mismo en salidas. No, si tu prioridad es una duración garantizada de muchas horas en piel sin reaplicar. Para comparar con otras opciones del rubro, está la guía de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).
+
+## En resumen
+
+El Erba Pura es de los que entran por la presentación y se quedan por el aroma frutal dulce. Como regalo es una apuesta segura; en duración, ajustá la expectativa según tu piel.`,
+    faq: [
+      { question: "¿Cuánto dura el Erba Pura?", answer: "Depende de la piel. Algunos compradores dicen que perdura mucho, mientras otros notan que dura menos y se siente más en la ropa que en la piel. Es un comportamiento habitual en los frutales dulces." },
+      { question: "¿Es original o un clon?", answer: "Es un perfume árabe genérico inspirado en el perfil frutal dulce, con una presentación cuidada que destaca para regalar. No es una marca con casa establecida. Comprá de vendedores con buena reputación." },
+      { question: "¿Para qué ocasión va mejor?", answer: "Por su perfil dulce e intenso va bien para salidas y eventos, de tarde o de noche. También funciona muy bien como regalo por la presentación de la botella de terciopelo." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025-12-24", text: "Un producto excelente, aroma súper agradable e intenso. Presentación buenísima, para regalar superespecial.", useful: 24 },
+      { rating: 5, country: "Argentina", date: "2026-01-18", text: "Aroma sensacional y buena duración, perdura mucho. Gusta mucho a las mujeres.", useful: 6 },
+      { rating: 5, country: "Argentina", date: "2026-03-12", text: "El empaque súper lujoso, la botella es de terciopelo, la fragancia es riquísima y bastante fuerte.", useful: 3 },
+      { rating: 5, country: "Argentina", date: "2026-04-15", text: "Muy buen olor pero no dura mucho, se siente más en la ropa que en la piel.", useful: 3 },
+      { rating: 5, country: "Argentina", date: "2026-01-31", text: "Buena fragancia, frutal dulzón, delicado y suave. Perdura en la piel.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: "MLA22234109",
