@@ -4122,6 +4122,52 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'LIMPIA VIDRIOS MAGNÉTICO PROFESIONAL 3-8 MM CON REPUESTOS  !!! NO APTO PARA VIDRIOS CON CÁMARA DE AIRE O TERMO PANELES !!!!  IMPORTANTE !!  SU USO ES RECOMENDADO PARA VENTANAS DE DIFÍCIL ACCESO, POR LO GENERAL EDIFICIOS CUYOS VIDRIOS NO TENGAN CÁMARA DE AIRE.  ESTE PRODUCTO ESTÁ PENSADO PARA VIDRIOS',
+    seoTitle: "Limpiavidrios Magnético Profesional 3-8mm con Repuestos",
+    pros: [
+      "Limpia los dos lados del vidrio a la vez con imanes potentes",
+      "Resuelve ventanas de difícil acceso sin balcón ni andamio",
+      "Trae varios juegos de felpa, lavables y reversibles",
+      "Para vidrios de 3 a 8 mm de espesor",
+    ],
+    cons: [
+      "No sirve para vidrios con cámara de aire ni termopaneles (DVH)",
+      "Tiene curva de aprendizaje: hay que seguir las instrucciones",
+      "Los imanes son muy fuertes: cuidado con los dedos al separarlo",
+    ],
+    verdict: "Un limpiavidrios magnético que resuelve de verdad las ventanas a las que no llegás de afuera, dejándolas limpias de ambos lados. Pide práctica y solo va para vidrios simples de 3 a 8 mm; en termopaneles no se puede usar.",
+    articleBody: `El Limpia Vidrio Magnético Profesional es un limpiador de ventanas que trabaja con dos piezas imantadas: una de cada lado del vidrio. Está pensado para vidrios simples de 3 a 8 mm de espesor. Tiene 4.1 de promedio sobre más de 5.000 calificaciones, así que hay mucha experiencia de uso para leer. Su gracia es clara: limpiar ventanas a las que no llegás de afuera.
+
+## Cómo se usa
+
+Ponés una mitad de cada lado del vidrio y se sujetan entre sí por el imán. Movés la pieza que tenés en la mano y la de afuera la sigue. En una misma pasada la esponja limpia y la goma escurre, así que tenés que ir siempre en la misma dirección: si retrocedés, ensuciás lo ya limpio. Conviene mojar bien el vidrio con agua y un poco de detergente y no hacerlo en seco, para no rayar con la suciedad acumulada. Varios compradores avisan que tiene su técnica y que las primeras veces cuesta.
+
+## Para qué espesor de vidrio sirve
+
+La ficha indica vidrios de 3 a 8 mm, que son los simples de la mayoría de ventanas y ventanales comunes. Importante: no sirve para vidrios con cámara de aire ni termopaneles (DVH). En esos casos el imán no tiene la fuerza para mantener las dos piezas juntas a través del doble vidrio, y la pieza de afuera se puede despegar y caer. Si tu ventana es DVH, este producto no es para vos.
+
+## Qué dicen los compradores
+
+El patrón es claro. Lo que más valoran: que deja los vidrios impecables de ambos lados, que los imanes son potentes y no se separan mientras se usa, y que resuelve ventanas sin balcón en pisos altos. Viene con varios juegos de felpa lavables y reversibles. La crítica recurrente no es contra el producto sino sobre el uso: hay que practicar y seguir las instrucciones de movimiento. Un truco que comparten: en vidrios muy sucios, dar las primeras pasadas sin la goma y ponerla al final para retirar el agua.
+
+## Para quién conviene
+
+Conviene si tenés ventanas de difícil acceso, sin balcón, en un piso alto, con vidrio simple de 3 a 8 mm. No conviene si tu ventana es termopanel o de cámara de aire, ni si querés algo sin curva de aprendizaje para un vidrio que igual podés limpiar de la forma tradicional. Para ver otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+El limpiavidrios magnético cumple lo que promete: ventanas limpias de los dos lados sin colgarte por fuera. Pide práctica y solo va en vidrios simples de 3 a 8 mm. En termopaneles, ni lo intentes.`,
+    faq: [
+      { question: "¿Sirve para vidrios con cámara de aire o termopanel?", answer: "No. La ficha aclara que no es apto para vidrios con cámara de aire ni termopaneles (DVH). En esos casos el imán no mantiene las dos piezas juntas a través del doble vidrio y la de afuera se puede despegar y caer. Solo va para vidrios simples de 3 a 8 mm." },
+      { question: "¿Es difícil de usar?", answer: "Tiene su técnica. Varios compradores avisan que las primeras veces cuesta y que hay que seguir las instrucciones de movimiento, yendo siempre en la misma dirección. Después de practicar un poco, deja los vidrios impecables." },
+      { question: "¿Trae repuestos de felpa?", answer: "Sí, viene con varios juegos de felpa, que son lavables y se pueden usar de los dos lados invirtiendo la pieza. Conviene mojar bien el vidrio antes de usarlo para no rayarlo." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2021-03-18", text: "Estéticamente es igual a la foto. Deja los vidrios impecables de ambos lados y viene con 3 juegos de felpa, que se pueden usar de los dos lados invirtiendo el pituto negro. Son fáciles de desmontar, montar y lavar. Recomiendo mojar bien las ventanas y no hacerlo en seco, porque se puede rayar el vidrio con la suciedad acumulada.", useful: 133 },
+      { rating: 5, country: "Argentina", date: "2021-09-06", text: "Muy útil. Hay que encontrarle la mano para limpiar bien, pero en mi caso era necesario para ventanas sin balcón que no podía limpiar de otra manera. Los imanes son muy potentes y no se separan mientras se usa. En la misma pasada limpia con la esponja y escurre con la goma, así que te obliga a ir siempre en la misma dirección: si retrocedés, ensuciás lo ya limpio. Cumple con todo lo que promete.", useful: 107 },
+      { rating: 5, country: "Argentina", date: "2024-03-19", text: "Espectacular. No sabía cómo limpiar la ventana de la cocina, en un tercer piso sin acceso de balcón. Hay que practicar y seguir las instrucciones de movimiento. Es importante usar agua con un poquito de detergente para que resbale bien. Súper feliz con la compra, ojalá me duren los repuestos.", useful: 70 },
+      { rating: 5, country: "Argentina", date: "2021-09-21", text: "Tal cual la publicación. Lo compré para ventanas de difícil acceso, que creo que es su objetivo principal: si una ventana se puede limpiar de la manera tradicional, esta no sería una buena opción. Un truco: remover la goma para las primeras pasadas de una ventana muy sucia, y al final colocarla para retirar el exceso de agua.", useful: 53 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA214572440',
@@ -4151,6 +4197,45 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: 'Hola, somos veo quiero, en esta oportunidad tenemos para ofrecerte:  LIMPIA VIDRIOS MAGNETICO TRIANGULAR:   NO APTO PARA VIDRIOS CON CAMARA DE AIRE O TERMO PANELES !!!!  IMPORTANTE !! SU USO ES RECOMENDADO PARA VENTANAS DE DIFICIL ACCESO , POR LO GENERAL EDIFICIO CUYOS VIDRIOS NO SEAN CON CAMARA DE ',
+    seoTitle: "Limpiavidrios Magnético Triangular con Repuestos",
+    pros: [
+      "Limpia los dos lados del vidrio a la vez con imanes",
+      "Forma triangular que ayuda a llegar a las esquinas",
+      "Resuelve ventanas de difícil acceso sin balcón",
+      "Incluye repuestos de felpa",
+    ],
+    cons: [
+      "No sirve para vidrios con cámara de aire ni termopaneles (DVH)",
+      "Tiene curva de aprendizaje como todo limpiavidrios magnético",
+      "Rating de 4.3 sobre una base de reseñas mediana",
+    ],
+    verdict: "Un limpiavidrios magnético triangular para resolver ventanas a las que no llegás de afuera, con la ventaja de la forma que ayuda en las esquinas. Solo va en vidrios simples; en termopaneles no se puede usar.",
+    articleBody: `El Limpia Vidrio Magnético Triangular es un limpiador de ventanas de dos piezas imantadas, una a cada lado del vidrio, con forma triangular para llegar mejor a las esquinas. Tiene 4.3 de promedio. Está pensado para lo mismo que cualquier limpiavidrios magnético: las ventanas a las que no llegás de afuera.
+
+## Cómo se usa
+
+Colocás una pieza de cada lado del vidrio y se sujetan por el imán. Movés la que tenés en la mano y la de afuera la sigue. En cada pasada la felpa limpia y la goma escurre, así que conviene ir siempre en la misma dirección para no volver a ensuciar lo ya limpio. La forma triangular ayuda a meterse en los ángulos y bordes, donde una pieza rectangular cuesta más. Como en todos estos productos, mojar bien el vidrio con agua y un poco de detergente y no usarlo en seco, para no rayar.
+
+## Para qué espesor de vidrio sirve
+
+La ficha aclara que no es apto para vidrios con cámara de aire ni termopaneles (DVH). Va para vidrios simples, los de la mayoría de ventanas comunes. En un termopanel, el imán no logra mantener juntas las dos piezas a través del doble vidrio, y la pieza de afuera se puede despegar y caer. Si tu ventana es DVH, no es el producto indicado.
+
+## Qué dicen los compradores
+
+Este modelo tiene una base de reseñas más chica que otros limpiavidrios magnéticos, así que conviene no sobreinterpretar. Lo que sí se puede decir es lo que vale para toda esta categoría: resuelven ventanas de difícil acceso y limpian los dos lados a la vez, a cambio de una curva de aprendizaje de las primeras usadas. La forma triangular suma para las esquinas. Como con cualquiera de estos, la duración de los repuestos de felpa es un punto a seguir con el uso.
+
+## Para quién conviene
+
+Conviene si tenés ventanas sin balcón, en altura, con vidrio simple, y te interesa la forma triangular para las esquinas. No conviene si tu ventana es termopanel o de cámara de aire, ni si querés algo sin práctica previa para un vidrio que igual podés limpiar de la forma tradicional. Para ver otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+El limpiavidrios magnético triangular hace lo mismo que el resto de la categoría, limpiar ventanas inaccesibles de los dos lados, con el plus de la forma para las esquinas. Pide práctica y solo va en vidrios simples. En termopaneles, descartado.`,
+    faq: [
+      { question: "¿Sirve para termopaneles o vidrios con cámara de aire?", answer: "No. La ficha aclara que no es apto para vidrios con cámara de aire ni termopaneles (DVH). En esos casos el imán no mantiene unidas las dos piezas a través del doble vidrio y la de afuera se puede despegar y caer. Va solo para vidrios simples." },
+      { question: "¿Para qué sirve la forma triangular?", answer: "La forma triangular ayuda a llegar a las esquinas y bordes del vidrio, donde una pieza rectangular cuesta más. Por lo demás funciona como cualquier limpiavidrios magnético." },
+      { question: "¿Es fácil de usar?", answer: "Como todos los limpiavidrios magnéticos, tiene una curva de aprendizaje en las primeras usadas. Conviene mojar bien el vidrio, ir siempre en la misma dirección y seguir las instrucciones de movimiento." },
+    ],
   },
   {
     id: 'MLA38719920',
@@ -4181,6 +4266,44 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
     soldQuantity: 500,
     pastelColor: 'var(--pastel-amber)',
     description: 'Secavidrios Profesional de Acero Inoxidable de 25 cm con soporte para Colgar KIO KIO  CANTIDAD  1 UNIDAD SECAVIDRIO DE COLOR ACERO INOXIDABLE   SECAVIDRIO MULTIUSO PROFESIONAL       ESCURRE Y SECA SIN DEJAR VETAS  ACERO INOXIDABLE  SOPORTE AUTO ADHESIVO  25.4CM       VIDRIO                  VENTANA ',
+    pros: [
+      "Secador de vidrios de acero inoxidable, 25 cm de ancho",
+      "Escurre y seca sin dejar vetas",
+      "Multiuso: sirve para ventanas, espejos y mamparas",
+      "Trae soporte autoadhesivo para colgarlo",
+    ],
+    cons: [
+      "Es un secador manual, no llega al otro lado de un vidrio inaccesible",
+      "La goma se gasta con el uso y conviene conseguir repuestos",
+      "No reemplaza el lavado: primero limpiás, después escurrís",
+    ],
+    verdict: "Un secador de vidrios de acero inoxidable robusto y de buen ancho, que deja ventanas y mamparas sin vetas. Es la herramienta para el paso final del secado, no un sustituto del lavado ni una solución para vidrios a los que no llegás del otro lado.",
+    articleBody: `El Secador Limpia Vidrios Kiokio es un secavidrios de acero inoxidable de 25 cm con soporte para colgar. Tiene 4.8 de promedio. Es una herramienta simple con una función concreta: escurrir y secar el vidrio sin dejar vetas después de lavarlo.
+
+## Cómo se usa
+
+Primero lavás el vidrio con agua y limpiavidrios. Después pasás el secador de arriba hacia abajo, apoyando la goma con firmeza pareja, e inclinándolo un poco para que el agua escurra hacia un costado. Vas limpiando la goma con un paño entre pasadas para que no arrastre gotas. Con sus 25 cm de ancho cubre buena superficie por pasada, lo que agiliza ventanales y mamparas grandes. El soporte autoadhesivo sirve para colgarlo y tenerlo a mano.
+
+## Para qué espesor de vidrio sirve
+
+Acá hay una diferencia importante respecto de los limpiavidrios magnéticos: el secador trabaja de un solo lado, el que tengas a tu alcance. No importa el espesor del vidrio ni si es termopanel, porque no necesita imán ni pasa fuerza al otro lado. La contracara es que no resuelve el lado externo de una ventana inaccesible: para eso necesitás un magnético o llegar de afuera. El secador es para el lado que ya podés tocar.
+
+## Qué dicen los compradores
+
+Tiene buen puntaje pero una base de reseñas chica, así que conviene leerlo como un producto bien valorado más que con un patrón muy detallado. Lo esperable de un secavidrios de acero inoxidable: que sea robusto, que escurra sin vetas y que sirva para varias superficies. La goma es la pieza de desgaste, igual que el fieltro en otros limpiadores, así que conviene tener en cuenta el reemplazo a futuro.
+
+## Para quién conviene
+
+Conviene si querés una herramienta sólida para el secado final de ventanas, espejos y mamparas a las que llegás con la mano. No conviene si lo que necesitás es limpiar el lado externo de un vidrio inaccesible, porque para eso el secador manual no alcanza. Para ver otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+El secador Kiokio es la herramienta del paso final: deja el vidrio sin vetas después del lavado, con la solidez del acero inoxidable y un ancho cómodo. Tené claro que es para el lado accesible y que la goma se gasta con el uso.`,
+    faq: [
+      { question: "¿Sirve para limpiar el lado de afuera de una ventana alta?", answer: "No. Es un secador manual que trabaja del lado que tenés a tu alcance. Para el lado externo de una ventana inaccesible necesitás un limpiavidrios magnético o llegar de afuera." },
+      { question: "¿Deja vetas?", answer: "La idea del secavidrios es justamente escurrir y secar sin dejar vetas. Para que quede parejo, conviene pasar la goma de arriba hacia abajo con presión uniforme y limpiarla con un paño entre pasadas." },
+      { question: "¿Funciona en cualquier espesor de vidrio?", answer: "Sí. Al trabajar de un solo lado no necesita imán, así que el espesor no importa y sirve también en termopaneles, espejos y mamparas. Lo que limita es el alcance de tu mano, no el vidrio." },
+    ],
   },
   {
     id: 'MLA65086798',
@@ -4209,6 +4332,44 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: 'Repuesto De Limpia Vidrios Magnético Triangular  Características del producto:  - Diseño triangular que facilita la limpieza de esquinas y superficies difíciles. - Sistema magnético que permite una limpieza eficiente desde ambos lados del vidrio. - Ideal para ventanas, espejos y otras superficies de',
+    seoTitle: "Repuesto Limpiavidrios Aurelia Magnético Triangular",
+    pros: [
+      "Recambio: alarga la vida del limpiavidrios magnético triangular en vez de comprar uno nuevo",
+      "Diseño triangular para llegar a las esquinas",
+      "Envío gratis y precio bajo",
+      "Renueva la felpa gastada para volver a limpiar bien",
+    ],
+    cons: [
+      "Es un repuesto: comprobá que sea compatible con tu limpiavidrios antes de comprar",
+      "No es un limpiavidrios completo, es solo el recambio",
+    ],
+    verdict: "El repuesto que evita tirar el limpiavidrios magnético triangular cuando se gasta la felpa. Barato y con envío gratis; lo único a chequear es que sea compatible con tu modelo antes de comprar.",
+    articleBody: `Este es el repuesto del limpiavidrios magnético triangular Aurelia. No es un limpiavidrios nuevo, sino el recambio para cuando se gasta la parte que está en contacto con el vidrio. Tiene 4.4 de promedio. Resuelve el problema típico de estos productos: la herramienta funciona bien, pero la felpa se desgasta y deja de limpiar como al principio.
+
+## Cómo se usa
+
+Es directo: sacás la felpa o la pieza gastada de tu limpiavidrios magnético triangular y colocás el repuesto nuevo. Con la felpa renovada vuelve a limpiar el vidrio de ambos lados como cuando lo compraste. El diseño triangular ayuda a llegar a las esquinas y bordes, igual que en el aparato original. Antes de comprar, conviene confirmar que el repuesto sea compatible con tu modelo, porque no todos los limpiavidrios triangulares usan la misma pieza.
+
+## Para qué espesor de vidrio sirve
+
+El repuesto no cambia para qué vidrios sirve tu limpiavidrios: eso lo define el aparato. Los limpiavidrios magnéticos en general van para vidrios simples y no para termopaneles ni vidrios con cámara de aire (DVH), porque el imán no atraviesa el doble vidrio. Si tu equipo es de los aptos para vidrio simple, este repuesto le devuelve la capacidad de limpieza sin cambiar nada más.
+
+## Qué dicen los compradores
+
+Tiene una base de reseñas chica, así que conviene leerlo como lo que es: un recambio económico con buen puntaje. Lo valioso de un repuesto es práctico, no espectacular: alargás la vida de algo que ya tenés en vez de comprar todo de nuevo. Como en cualquier repuesto de limpieza, lo que más importa es la compatibilidad con tu modelo y que la felpa nueva agarre bien.
+
+## Para quién conviene
+
+Conviene si ya tenés un limpiavidrios magnético triangular y se le gastó la felpa: por poca plata y con envío gratis lo dejás como nuevo. No conviene si todavía no tenés el aparato, porque esto es solo el recambio, no el limpiavidrios completo. Para ver el producto entero u otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue sirviendo. Barato, con envío gratis y útil. Lo único: chequeá que sea compatible con tu modelo antes de comprar.`,
+    faq: [
+      { question: "¿Esto es el limpiavidrios completo o solo el repuesto?", answer: "Es solo el repuesto, el recambio que se coloca cuando se gasta la felpa de tu limpiavidrios magnético triangular. No incluye el aparato completo." },
+      { question: "¿Sirve para cualquier limpiavidrios triangular?", answer: "Está pensado para los limpiavidrios magnéticos triangulares, pero no todos usan exactamente la misma pieza. Conviene confirmar la compatibilidad con tu modelo antes de comprar." },
+      { question: "¿Por qué conviene comprar un repuesto?", answer: "Porque la felpa es la parte que se gasta con el uso. Cambiando solo el repuesto, por poca plata el limpiavidrios vuelve a limpiar bien en vez de tener que comprar uno nuevo." },
+    ],
   },
   {
     id: 'MLA46931846',
@@ -6485,6 +6646,51 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: 'Mopa Spray Mop Trapeador Piso + Rociador Lampazo Microfibra  Las principales características son:  - Diseño ergonómico, muy cómodo y fácil de usar incluso con una sola mano. - Tanque con capacidad de 300 ml, permite agregar agua y un poco de detergente para eliminar manchas, vinagre blanco para mata',
+    pros: [
+      "Mopa con rociador: cargás el líquido y limpiás sin balde",
+      "Tanque de 300ml para agua con detergente o vinagre",
+      "Microfibra lavable: los pelos quedan atrapados y se limpia fácil",
+      "Precio bajo para empezar con una mopa spray",
+    ],
+    cons: [
+      "Hay que tratarla con cuidado, no es robusta",
+      "El paño que viene pegado no siempre ajusta del todo bien",
+      "No reemplaza baldear cuando hay suciedad pesada",
+    ],
+    verdict: "Una mopa spray de microfibra a precio bajo que simplifica el mantenimiento diario, sobre todo en pisos flotantes. Limpia bien si la tratás con cuidado y barrés antes; no esperes que aguante torpezas ni que reemplace un buen baldeado.",
+    articleBody: `La Mopa Plana Suono es una mopa con rociador de microfibra con tanque de 300ml, pensada para el mantenimiento diario sin andar con balde. Tiene 4.2 de promedio sobre casi 500 calificaciones. La lectura de las reseñas deja una idea clara: limpia bien y simplifica la rutina, pero hay que tratarla con cuidado.
+
+## Cómo funciona el rociador
+
+El sistema es simple. Cargás el tanque de 300ml con agua y un poco de detergente, o con perfumina para pisos, apretás el gatillo y rociás el líquido justo delante del paño. Después pasás la microfibra. No necesitás balde ni andar escurriendo trapos ni agachándote. Un comprador cuenta que para pisos flotantes le cambió la rutina: pone directo el líquido para flotantes y listo.
+
+## En qué pisos rinde
+
+Anda bien en pisos flotantes, cerámica, baño y cocina. La microfibra atrapa pelos y mugre sin dispersarla, y eso se nota en casas con mascotas. El consejo que más se repite en las reseñas es barrer o aspirar primero: la mopa es para mantener, no para levantar tierra gruesa. Para que quede brillante, varios pasan dos o tres veces, la última con agua tibia sola.
+
+## Qué dicen los compradores
+
+El tono general es positivo, con un asterisco. Lo que más destacan: que limpia bastante bien, que los pelos quedan atrapados en la mopa y se sacan fácil, y la buena relación precio-calidad. La crítica honesta también aparece: no es de las más robustas, así que hay que usarla suave. Y el paño que viene pegado no siempre ajusta del todo bien, aunque cumple.
+
+## Para quién sí y para quién no
+
+Sí, si querés una mopa con rociador barata para el mantenimiento de espacios no muy amplios, sobre todo pisos flotantes. Sí, si vas a barrer antes y tratarla con cuidado. No, si esperás algo indestructible o si tenés que sacar grasa pegada del piso seguido: para eso vas a tener que resfregar y la podés romper. En suciedad pesada sigue ganando el baldeado de toda la vida. Para ver más opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+La Suono es una mopa spray de microfibra que cumple para el día a día a un precio accesible. Si la cuidás y barrés primero, te simplifica la limpieza. Si la tratás a los golpes o le pedís que reemplace un baldeado, te va a defraudar.`,
+    faq: [
+      { question: "¿Reemplaza al balde y el trapo?", answer: "Para el mantenimiento diario, sí: cargás el tanque de 300ml y limpiás sin agacharte. Pero no reemplaza baldear cuando hay suciedad pesada o grasa pegada. Conviene barrer o aspirar antes de pasarla." },
+      { question: "¿La microfibra se lava?", answer: "Sí, la mopa de microfibra es lavable. Los pelos y la mugre quedan atrapados y se sacan fácil. Conviene tener un paño de repuesto para ir intercambiando mientras se seca uno." },
+      { question: "¿Es resistente?", answer: "Varios compradores aclaran que hay que tratarla con cuidado porque no es robusta. Limpia bien, pero no aguanta torpezas ni el resfregado fuerte de suciedad pegada." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2026-02-12", text: "Hay que tratarla con mucho amor, suave, no es robusta. Pero la calidad acompaña al precio. Limpia bastante bien, los pelos quedan atrapados en la mopa, se saca y se limpia fácilmente. No tenés que andar escurriendo trapos ni agachada.", useful: 17 },
+      { rating: 5, country: "Argentina", date: "2026-03-16", text: "Me encantó. Es para pasar 3 veces: la primera con agua y jabón, la segunda con perfumina y agua tibia, y la tercera con agua tibia sola quedó brillante. Recomiendo barrer primero.", useful: 5 },
+      { rating: 4, country: "Argentina", date: "2024-02-05", text: "Precio-calidad está ok. No es de la mejor calidad, espero que dure. El trapo que trae pegado no se ajusta bien, pero sirve.", useful: 4 },
+      { rating: 5, country: "Argentina", date: "2026-02-12", text: "Una genialidad para pisos flotantes. Leí mucho antes de comprar porque vi malas experiencias de productos que se rompieron. Esta funciona súper, es para espacios no tan amplios. Hay que tratarla con cuidado, no creo que resista torpezas, pero después de barrer me simplificó la vida poniendo directo el líquido para pisos flotantes.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA45107869',
@@ -6514,6 +6720,50 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: 'MOPA SPRAY LIMPIADOR DE PISO CON GATILLO PARA ROCIAR   Material: estructura de plástico y aluminio   - Simple y fácil de usar, no necesita balde   - Funciona en tan sólo dos pasos:   1. Llenar con líquido limpiador deseado la botella desmontable   2. Apretar gatillo para liberar el líquido y fregar ',
+    pros: [
+      "Mopa spray sin balde: cargás el líquido y rociás con el gatillo",
+      "No pierde líquido y trae un paño de repuesto",
+      "Microfibra que limpia fácil y rápido",
+      "Buena relación precio-calidad",
+    ],
+    cons: [
+      "No vienen repuestos de las mopas: cuando se gasta el abrojo hay que comprar todo de nuevo",
+      "No empapa ni reemplaza un buen baldeado en suciedad pesada",
+    ],
+    verdict: "Una mopa spray de microfibra práctica y barata para el mantenimiento diario, que no pierde líquido y trae un paño de repuesto. El punto flojo es el repuesto: cuando se gasta el abrojo, conviene mirar si conseguís recambio antes de jugártela.",
+    articleBody: `La Mopa Blue Clair es una mopa spray de microfibra con gatillo, para limpiar pisos sin andar con balde. Tiene 4.1 de promedio sobre más de 600 calificaciones. Las reseñas la describen como práctica y rápida para el día a día, con una salvedad concreta sobre los repuestos.
+
+## Cómo funciona el rociador
+
+Funciona en dos pasos. Llenás la botella desmontable con el líquido limpiador que quieras, apretás el gatillo para rociar justo delante del paño y fregás la microfibra. No necesitás balde ni andar escurriendo trapos. Un comprador lo resume bien: no anda con baldes ni trapos de piso, limpia fácil y rápido. Otro destaca que no pierde líquido, algo que en estas mopas no siempre se da.
+
+## En qué pisos rinde
+
+Va para el mantenimiento de cerámica, flotante, baño y cocina. La microfibra levanta polvo y pelos sin dispersarlos. El consejo que más se repite: barrer o aspirar antes de pasarla, así queda mejor. La aclaración honesta de un comprador es clave: no empapa el piso ni limpia como un buen baldeado, pero para mantener está muy bien.
+
+## Qué dicen los compradores
+
+El tono es positivo. Lo más valorado: que no pierde líquido, que viene con un paño de repuesto y la buena relación precio-calidad. La crítica más concreta y útil aparece en la reseña más leída: no vienen repuestos de las mopas, así que cuando se gasta el abrojo, la microfibra básicamente deja de servir y hay que comprar todo de nuevo. Vale tenerlo en cuenta antes de comprar.
+
+## Para quién sí y para quién no
+
+Sí, si querés una mopa con rociador económica para el mantenimiento diario y te alcanza con barrer antes. No, si buscás algo para sacar suciedad pesada sin baldear, o si te molesta no conseguir repuestos sueltos del paño. Para ver otras opciones de limpieza, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+La Blue Clair cumple para el día a día: liviana, no pierde líquido y trae paño extra. El pero es el repuesto: cuando se gaste el abrojo, vas a tener que ver si conseguís recambio o reemplazar la mopa entera.`,
+    faq: [
+      { question: "¿Trae repuesto de la mopa?", answer: "Viene con un paño de repuesto, pero varios compradores avisan que no se consiguen repuestos sueltos de la microfibra. Cuando se gasta el abrojo que la sujeta, el paño deja de pegarse y hay que reemplazar más de lo esperado. Conviene chequear disponibilidad de recambios antes." },
+      { question: "¿Pierde líquido?", answer: "La mayoría de los compradores dice que no pierde líquido, algo que en estas mopas spray no siempre se cumple. Cargás la botella desmontable y rociás con el gatillo a medida que limpiás." },
+      { question: "¿Reemplaza al balde?", answer: "Para el mantenimiento diario, sí. Pero no empapa el piso ni limpia como un buen baldeado en suciedad pesada. Conviene barrer o aspirar antes de pasarla." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025-04-12", text: "Me gustó mucho. Lo único malo es que no vienen repuestos de las mopas, así que cuando se les gaste el abrojo básicamente deja de servir y hay que comprar todo de nuevo.", useful: 1 },
+      { rating: 5, country: "Argentina", date: "2025-03-25", text: "Excelente, no ando con baldes ni trapos de piso. Limpiás fácil y rápido. Antes recomiendo barrer o aspirar para que quede aún mejor. No reemplaza el baldeado, pero es excelente.", useful: 1 },
+      { rating: 5, country: "Argentina", date: "2025-03-31", text: "Me encantó. La calidad es bastante buena, no pierde líquido y trae un paño de repuesto. Relación precio-calidad excelente.", useful: 1 },
+      { rating: 4, country: "Argentina", date: "2025-04-20", text: "Obvio que no empapa el piso ni limpia como un buen baldeado, pero para mantener está muy bien.", useful: 1 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA23571779',
@@ -6543,6 +6793,51 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'IBERIA PRONTO MAGIC MOP 4 en 1   BARRE, GUARDA, ROCÍA y MOPEA!  Te imaginás tener una mopa, un balde, una barredora y una pala en un solo producto? Probá con Iberia Pronto® Magic Mop®, el asombroso sistema compacto todo en uno que se transforma de Mopa a Barredora en un abrir y cerrar de ojos.  Grac',
+    pros: [
+      "Sistema 4 en 1: barre, rocía y mopea en un solo producto",
+      "No te agachás y llega bien a los rincones",
+      "Trae cepillo para limpiar la mopa y el rodillo",
+      "Microfibra cómoda para una pasada rápida de mantenimiento",
+    ],
+    cons: [
+      "Hay reportes de que los dientes donde encastra el rociador se rompen con el tiempo",
+      "Para barrer no es la mejor opción: la barredora es para uso eventual",
+      "Pesado para algunos usuarios",
+    ],
+    verdict: "Una mopa con rociador 4 en 1 que destaca para la pasada rápida de mantenimiento y para llegar a los rincones sin agacharte. Para barrer es secundaria, y hay reportes de que la pieza del rociador se rompe con el uso, así que conviene tratarla con cuidado.",
+    articleBody: `La Iberia Pronto Magic Mop es una mopa con rociador que se vende como sistema 4 en 1: barre, guarda, rocía y mopea. Tiene 4.5 de promedio sobre 255 calificaciones. La idea es tener mopa, barredora y rociador en un solo aparato, y las reseñas dejan claro para qué brilla y dónde flojea.
+
+## Cómo funciona el rociador
+
+La mopa rocía el líquido con un sistema de gatillo y vos pasás la microfibra al toque, sin agacharte. La parte de barredora suma un rodillo para levantar pelos y migas antes de mopear. Trae además un cepillo para limpiar la propia mopa y el rodillo, detalle que varios destacan. Para una pasada rápida de mantenimiento, es donde mejor funciona.
+
+## En qué pisos rinde
+
+Anda para el mantenimiento de pisos lisos como cerámica y flotante. La microfibra llega bien a los rincones, algo que los compradores valoran. Eso sí: para barrer en serio no es la mejor opción. Una compradora lo dice directo: la función de barredora es para uso eventual, no para reemplazar la escoba de todos los días.
+
+## Qué dicen los compradores
+
+Lo positivo se repite: práctica, no hay que agacharse, llega a los rincones y el cepillo para limpiarla es un golazo. La crítica más seria también aparece, y es importante. Una reseña muy votada cuenta que después de casi un año se le rompieron los dientes donde encastra el rociador, se abrió todo y tuvo que ponerle cinta para seguir usándola. Dice que a su mamá le pasó lo mismo. Otra persona la encuentra pesada. Por eso conviene tratarla con cuidado en la zona del encastre.
+
+## Para quién conviene
+
+Conviene si querés una mopa con rociador para mantener pisos lisos sin agacharte y le das un uso suave. No conviene si buscás una barredora de uso intensivo o si te molesta el riesgo de que se rompa la pieza del rociador con el tiempo. Para ver otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+La Iberia Pronto cumple para la limpieza rápida y de mantenimiento, y el cepillo extra es un plus. Su talón de Aquiles es el encastre del rociador, que en algunos casos se rompe con el uso. Tratala con cuidado en esa zona y vas a sacarle buen provecho.`,
+    faq: [
+      { question: "¿Sirve para barrer?", answer: "Tiene función de barredora, pero los compradores la describen como de uso eventual, no para reemplazar la escoba de todos los días. Donde mejor rinde es en la pasada rápida con la mopa y el rociador." },
+      { question: "¿Es resistente?", answer: "Acá está su punto débil. Hay reportes de que los dientes donde encastra el rociador se rompen con el tiempo y se abre todo. Conviene tratar esa zona con cuidado y no forzarla." },
+      { question: "¿Trae algo para limpiar la mopa?", answer: "Sí, varios compradores destacan que trae un cepillo para limpiar la mopa y el rodillo, lo que facilita el mantenimiento del propio aparato." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2023-07-31", text: "Hace casi un año que lo tengo. Al principio me resultó súper práctico y eficiente, ahora ya no. Me resulta muy pesado y la función de barredora es para uso eventual. Hace unos meses se rompieron los dientitos donde encastra el rociador y se abre todo, tuve que ponerle cinta para seguir usándolo. A mi mamá le pasó lo mismo. Una pena, porque fuera de eso es muy funcional.", useful: 21 },
+      { rating: 5, country: "Argentina", date: "2025-04-07", text: "Para barrer no es la mejor opción, pero para pasar una mopa rápida es un acierto. Lo recomendable es tener varios cambios para la mopa.", useful: 4 },
+      { rating: 5, country: "Argentina", date: "2023-07-31", text: "Muy práctico. No tengo que agacharme y llega muy bien a los rincones.", useful: 4 },
+      { rating: 5, country: "Argentina", date: "2025-12-02", text: "Excelente calidad y producto. Trae un cepillo para limpiar la mopa y el rodillo, la verdad increíble.", useful: 3 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA3514734808',
@@ -6572,6 +6867,44 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: 5,
     pastelColor: 'var(--pastel-amber)',
     description: 'Pearl Spray Mop, limpia todos los pisos, espejos, azulejos, ventanas y mamparas de tu hogar, de forma fácil y rápida. Una manera innovadora de limpiar la casa, con un solo elemento, y sin ningún tipo de químicos.  ¡Limpia de forma fácil y rápida!   El secreto de esta mopa, de alta calidad, es su gra',
+    pros: [
+      "Mopa con rociador doble: limpiás sin balde",
+      "Sirve para pisos, espejos, azulejos, ventanas y mamparas",
+      "Cabezal doble de microfibra para cubrir más en cada pasada",
+      "Pensada para usar sin químicos, solo con agua",
+    ],
+    cons: [
+      "Comunidad de reseñas todavía chica para confirmar durabilidad",
+      "Microfibra que hay que lavar y, en mopas spray, conviene tener repuestos",
+      "No reemplaza baldear en suciedad pesada",
+    ],
+    verdict: "Una mopa spray con cabezal doble que sirve para pisos y también para superficies verticales como vidrios y azulejos. La propuesta es buena para el mantenimiento sin balde; con pocas reseñas todavía, conviene mirarla como opción práctica más que comprobada a largo plazo.",
+    articleBody: `La Pearl Spray Mop es una mopa con rociador de cabezal doble, pensada para limpiar pisos y también superficies como espejos, azulejos, ventanas y mamparas sin usar químicos. Todavía tiene pocas calificaciones, así que esta nota se apoya en lo que ofrece el producto más que en un patrón de reseñas.
+
+## Cómo funciona el rociador
+
+El sistema es el de cualquier mopa spray: cargás el tanque con agua, rociás con el gatillo justo delante del paño y pasás la microfibra. No necesitás balde ni andar escurriendo trapos. La diferencia de este modelo es el cabezal doble, que cubre más superficie en cada pasada y se puede usar de los dos lados.
+
+## En qué pisos rinde
+
+Sirve para el mantenimiento de pisos lisos como cerámica y flotante. Como la microfibra trabaja con poca agua, también la podés usar en azulejos, mamparas y vidrios bajos, que es donde se diferencia de una mopa común. Como con toda mopa spray, conviene barrer o aspirar antes: está pensada para mantener, no para levantar tierra gruesa ni reemplazar un baldeado cuando la suciedad es pesada.
+
+## Qué dicen los compradores
+
+Acá conviene ser honesto: el producto todavía tiene muy pocas calificaciones, así que no hay un patrón sólido de opiniones para resumir. Lo que se puede decir es lo que promete la ficha: limpieza rápida sin balde y sin químicos, apoyada en el cabezal doble de microfibra. Cuando se sume más volumen de reseñas, va a poder leerse mejor cómo aguanta con el uso.
+
+## Para quién conviene
+
+Conviene si buscás una mopa con rociador versátil para mantener pisos y de paso pasar por vidrios o azulejos, y no te molesta ser de los primeros en probarla. No conviene si querés comprar con muchas reseñas que respalden la durabilidad, o si necesitás algo para suciedad pesada que solo sale baldeando. Para ver otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+La Pearl Spray Mop es una mopa spray de cabezal doble con una propuesta práctica: limpiar pisos y superficies sin balde ni químicos. Como todavía tiene pocas reseñas, conviene tomarla como una opción interesante para el mantenimiento, sabiendo que la prueba del tiempo está pendiente.`,
+    faq: [
+      { question: "¿Sirve para vidrios y azulejos?", answer: "Sí, la ficha la presenta para pisos, espejos, azulejos, ventanas y mamparas. Como trabaja con microfibra y poca agua, sirve para superficies verticales además del piso." },
+      { question: "¿Necesito usar químicos?", answer: "Está pensada para usar solo con agua, sin químicos. Igual podés agregar un poco de detergente o limpiador al tanque si querés, como en cualquier mopa spray." },
+      { question: "¿Tiene muchas reseñas?", answer: "Todavía no. Tiene pocas calificaciones, así que no hay un patrón firme de opiniones sobre su durabilidad. Conviene tenerlo en cuenta si preferís comprar productos ya muy probados." },
+    ],
   },
   {
     id: 'MLA1360766060',
@@ -6601,6 +6934,44 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: 'MOPA SPRAY LIMPIADOR DE PISO CON GATILLO PARA ROCIAR    Material: estructura de plástico y aluminio - Simple y fácil de usar, no necesita balde - Funciona en tan sólo dos pasos: 1. Llenar con líquido limpiador deseado la botella desmontable 2. Apretar gatillo para liberar el líquido y fregar sin esf',
+    pros: [
+      "Mopa spray sin balde: cargás el líquido y rociás con el gatillo",
+      "Estructura de plástico y aluminio, liviana de manejar",
+      "Microfibra lavable para el mantenimiento diario",
+      "Precio accesible para empezar con una mopa con rociador",
+    ],
+    cons: [
+      "Rating de 3.9: más justo que otras mopas spray del rango",
+      "La microfibra hay que lavarla y conviene tener repuestos",
+      "No reemplaza baldear en suciedad pesada",
+    ],
+    verdict: "Una mopa spray básica y económica para el mantenimiento diario de pisos lisos. Cumple para la pasada rápida sin balde, aunque su puntaje algo más bajo invita a cuidar el uso y a barrer antes para sacarle el mejor resultado.",
+    articleBody: `Esta mopa spray es un trapeador con rociador de microfibra, con estructura de plástico y aluminio, para limpiar pisos sin balde. Tiene 3.9 de promedio, un poco más justo que otras mopas spray del rango, así que conviene mirarla con expectativa realista.
+
+## Cómo funciona el rociador
+
+El funcionamiento es simple y en dos pasos. Llenás la botella desmontable con el líquido limpiador que quieras, apretás el gatillo para rociar adelante del paño y pasás la microfibra. No necesitás balde ni andar escurriendo trapos ni agachándote. Es el mismo principio de cualquier mopa con rociador: rociás y fregás en una sola pasada.
+
+## En qué pisos rinde
+
+Va para el mantenimiento de pisos lisos como cerámica y flotante. La microfibra levanta polvo y pelos cuando el piso ya está barrido, así que en casas con mascotas ayuda en el día a día. Como toda mopa spray, conviene barrer o aspirar primero: está pensada para mantener, no para levantar tierra gruesa ni para reemplazar un baldeado cuando la suciedad es pesada. El tanque desmontable lo cargás con agua y un poco de detergente o perfumina, y el gatillo te deja rociar solo donde hace falta.
+
+## Qué dicen los compradores
+
+El puntaje de 3.9 es la señal a leer. Es de las mopas spray con nota más justa del rango, lo que sugiere experiencias más mezcladas que en modelos mejor puntuados. Como suele pasar en esta categoría de productos genéricos, la calidad puede variar entre unidades: a algunos les rinde bien para la rutina diaria y a otros se les desgasta antes de lo esperado. Si priorizás respaldo de reseñas, hay opciones con mejor promedio; si buscás lo más barato para probar el formato spray, esta entra.
+
+## Para quién conviene
+
+Conviene si querés una mopa con rociador lo más económica posible para el mantenimiento diario y le vas a dar un uso cuidadoso, barriendo antes. No conviene si buscás algo respaldado por un puntaje alto o pensás usarla para suciedad pesada que solo sale baldeando. Para comparar con otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+Es una mopa spray básica que cumple para la pasada rápida sin balde a precio bajo. El puntaje de 3.9 marca que no es la más sólida del rango, así que conviene cuidarla, barrer antes y no pedirle más de lo que una mopa de mantenimiento puede dar.`,
+    faq: [
+      { question: "¿Reemplaza al balde?", answer: "Para el mantenimiento diario, sí: cargás el tanque y limpiás sin agacharte. Pero no reemplaza baldear en suciedad pesada. Conviene barrer o aspirar antes de pasarla." },
+      { question: "¿Por qué tiene un puntaje más bajo?", answer: "Tiene 3.9 de promedio, más justo que otras mopas spray del rango. En productos genéricos como este la calidad puede variar entre unidades, lo que suele reflejarse en opiniones más mezcladas." },
+      { question: "¿La microfibra se lava?", answer: "Sí, es lavable. Como en toda mopa con rociador, conviene tener un paño de repuesto para ir intercambiando mientras se seca el otro." },
+    ],
   },
   {
     id: 'MLA20032873',
@@ -6630,6 +7001,50 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'Descubre la comodidad y eficiencia de la mopa plana Vileda Promist Max, diseñada para facilitar la limpieza de tus pisos. Con su cabezal giratorio, podrás llegar a todos los rincones de tu hogar sin esfuerzo, mientras que su mango de aluminio te brinda la resistencia y durabilidad que necesitas. La ',
+    pros: [
+      "Mopa spray de marca Vileda, con buena terminación",
+      "Cabezal giratorio que llega a los rincones, mango de aluminio",
+      "Microfibra que se da vuelta: es como tener dos mopas en una",
+      "Fácil de lavar: la enjuagás y va al lavarropas",
+    ],
+    cons: [
+      "Más cara que las mopas spray genéricas",
+      "La parte inferior es liviana: si el paño queda muy húmedo puede dejar betas",
+      "Como toda mopa, no reemplaza baldear en suciedad pesada",
+    ],
+    verdict: "La mopa spray de Vileda es de las mejor valoradas del rango: buena calidad, microfibra reversible y fácil de lavar. Cuesta más que las genéricas, pero los compradores que venían de modelos baratos coinciden en que vale la diferencia.",
+    articleBody: `La Vileda Promist Max es una mopa con rociador de microfibra con cabezal giratorio y mango de aluminio. Tiene 4.6 de promedio sobre más de 1.000 calificaciones, de las más altas del rango de mopas spray. Las reseñas la ponen como la opción a la que muchos llegan después de cansarse de modelos más baratos.
+
+## Cómo funciona el rociador
+
+El sistema es el clásico de mopa spray: llenás el tanque, apretás el gatillo para rociar el líquido justo delante del paño y pasás la microfibra. Sin balde, sin escurrir trapos, sin agacharte. El cabezal giratorio ayuda a llegar a los rincones, y la microfibra se da vuelta, así que es como tener dos mopas en una. Un consejo que repiten los compradores: tener al menos dos paños para ir intercambiando.
+
+## En qué pisos rinde
+
+Anda muy bien en pisos lisos como cerámica, flotante, madera y parquet. La microfibra barre con todo y no dispersa la mugre. Un detalle honesto de un comprador: como la parte inferior es liviana, si el paño queda muy húmedo puede dejar alguna beta, así que conviene no cargarlo de más. Y como toda mopa de mantenimiento, no reemplaza baldear cuando la suciedad es pesada ni sirve para sacar grasa pegada a fuerza de resfregar.
+
+## Qué dicen los compradores
+
+El tono es muy positivo, con bastante humor de por medio. Lo que se repite en serio: buena calidad general, lindas terminaciones, microfibra reversible y lo fácil que es lavarla, la enjuagás un poco y al lavarropas, sale como nueva y seca rápido. Varios cuentan que gastaron plata antes en mopas más económicas que terminaron en la basura, y que con esta no vuelven a las anteriores. El pero que aparece es el precio: es más cara que las genéricas.
+
+## Para quién conviene
+
+Conviene si querés una mopa con rociador de buena calidad para el mantenimiento diario y estás dispuesto a pagar un poco más por una marca que aguanta. No conviene si buscás lo más barato o si necesitás algo para suciedad pesada que solo sale baldeando. Para ver otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## En resumen
+
+La Vileda Promist Max es de las mopas spray mejor puntuadas: cómoda, bien terminada y fácil de lavar. Cuesta más que las genéricas, pero quienes vienen de modelos baratos coinciden en que la diferencia se nota.`,
+    faq: [
+      { question: "¿Vale la pena pagar más que una mopa genérica?", answer: "Según los compradores, sí. Muchos cuentan que gastaron antes en mopas más baratas que terminaron rompiéndose, y que con la Vileda no vuelven atrás. La calidad y la facilidad de lavado son lo que más destacan." },
+      { question: "¿La microfibra se lava fácil?", answer: "Sí. La enjuagás un poco y va al lavarropas; sale como nueva y seca rápido. Conviene tener al menos dos paños para ir intercambiando mientras se seca uno." },
+      { question: "¿Puede dejar betas en el piso?", answer: "Un comprador aclara que la parte inferior es liviana, así que si el paño queda muy húmedo puede dejar alguna beta. La solución es no cargar el paño de más con líquido." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2021-02-27", text: "Si aún no te compraste una mopa con spray, esta es la que vale la pena, y no las otras más baratas con las que nos clavamos la mayoría. Tiene buena calidad y hasta lindas terminaciones. La mopa se da vuelta, es como tener dos mopas en una. Lavarla es re fácil: la enjuagás un poco y al lavarropas, sale como nueva. Gasté plata en otras más económicas y fue plata tirada. Comprate esta de una, vale la pena.", useful: 27 },
+      { rating: 5, country: "Argentina", date: "2021-08-09", text: "Súper práctico, en una patada dejás el piso de maravillas y perfumado. La microfibra te barre con todo y no dispersa la mugre. No ocupa nada. Lo que aconsejo es tener como mínimo dos mopas para ir intercambiando, porque queda feo a la vista cuando la mopa está un poquito sucia. Un 10.", useful: 18 },
+      { rating: 5, country: "Argentina", date: "2025-05-20", text: "Si la defino por el precio, es buena, el paño también. La vengo usando y el paño queda muy húmedo porque la parte inferior es muy liviana, entonces deja alguna beta. No le pongan productos industriales porque con el tiempo resecan el plástico. Y tengan en cuenta que no es para sacar grasa del piso: si tenés que resfregar fuerte, la podés dañar.", useful: 21 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA63784269',
