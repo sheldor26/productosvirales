@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { useSearchParams } from "next/navigation";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { getRotatedVisibleProducts } from "@/lib/products";
@@ -17,11 +16,15 @@ interface HomeFeedProps {
   /** Server-generated seed so the feed order varies across loads but stays
    * identical between SSR and client hydration. */
   seed: number;
+  /** Query de búsqueda leída en el servidor (desde ?q=). Llega como prop para
+   * que el feed se renderice completo en el SSR y no haya salto de layout.
+   * Al buscar, el Header hace router.push("/?q=...") y el servidor re-renderiza
+   * la página pasando el nuevo valor. */
+  initialQuery?: string;
 }
 
-export function HomeFeed({ seed }: HomeFeedProps) {
-  const searchParams = useSearchParams();
-  const searchQuery = searchParams.get("q") || "";
+export function HomeFeed({ seed, initialQuery = "" }: HomeFeedProps) {
+  const searchQuery = initialQuery;
 
   const [activeCategory, setActiveCategory] = useState("todos");
 

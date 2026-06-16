@@ -52,10 +52,12 @@ export default async function Home({
 }: {
   searchParams: Promise<{ q?: string }>;
 }) {
-  // We don't read q here — HomeFeed (client) reads it via useSearchParams.
-  // Touching the prop just keeps Next.js happy that this is a dynamic page
-  // when the query is present.
-  await searchParams;
+  // Leemos la query en el servidor y se la pasamos a HomeFeed como prop.
+  // Esto mantiene la página dinámica y, sobre todo, permite que el feed se
+  // renderice completo en el SSR (antes quedaba vacío hasta hidratar, lo que
+  // causaba un salto de layout grande en mobile / CLS alto).
+  const { q } = await searchParams;
+  const initialQuery = q?.trim() || "";
 
   // Semilla generada en el servidor en cada request. Rota qué productos se
   // muestran (y en qué orden) para que la home no enseñe siempre los mismos.
@@ -105,7 +107,7 @@ export default async function Home({
 
       <div className="mt-6 md:mt-8">
         <Suspense>
-          <HomeFeed seed={rotationSeed} />
+          <HomeFeed seed={rotationSeed} initialQuery={initialQuery} />
         </Suspense>
       </div>
 
