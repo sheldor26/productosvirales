@@ -1743,7 +1743,7 @@ export const guides: Guide[] = [
     slug: "pava-electrica-peabody",
     category: "pavas-electricas",
     title: "Pava Eléctrica Peabody: ¿Vale La Pena El Control de Temperatura Digital?",
-    seoTitle: "Pava Eléctrica Peabody: ¿Vale La Pena? Guía 2026",
+    seoTitle: "Pava eléctrica Peabody: ¿vale la pena en 2026?",
     metaDescription:
       "Peabody con control digital de temperatura ($70K) vs Philips acero ($52K) vs Atma interior acero ($41K). Probé la Peabody digital un mes. Cuándo sí vale y cuándo no.",
     ogTitle: "Pava Eléctrica Peabody: ¿Vale El Control Digital de Temperatura?",
@@ -6365,7 +6365,7 @@ export const guides: Guide[] = [
     slug: "philips-freidoras-de-aire-review",
     category: "freidoras-de-aire",
     title: `Freidoras de aire Philips: análisis de los 5 modelos disponibles en Argentina`,
-    seoTitle: `Mejor freidora de aire Philips en Argentina 2026: análisis`,
+    seoTitle: `Freidora de aire Philips: cuál conviene en 2026`,
     metaDescription: `Análisis de las freidoras Philips NA120/00 4.2L, HD9270 6.2L y PHNA35100 doble canasta 9L: precio, rendimiento real, garantía y cuál conviene en Argentina.`,
     ogTitle: `Freidora de aire Philips: cuál conviene en Argentina (NA120, HD9270, PHNA35100)`,
     ogDescription: `La marca que inventó el airfryer. Comparamos los modelos Philips disponibles en MercadoLibre Argentina — NA120/00 4.2L, HD9270 6.2L y PHNA35100 doble canasta — con precios reales y veredicto claro.`,
@@ -7047,12 +7047,12 @@ export const guides: Guide[] = [
     category: "perfumes-arabes",
     title: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
     seoTitle: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
-    metaDescription: "Ranking 2026 de los mejores perfumes árabes masculinos en Argentina. Review con notas, duración y precios desde Lattafa hasta Armaf.",
-    ogTitle: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
-    ogDescription: "Ranking 2026 de los mejores perfumes árabes masculinos en Argentina. Review con notas, duración y precios desde Lattafa hasta Armaf.",
+    metaDescription: "Los 15 mejores perfumes árabes de hombre en Argentina 2026: Asad, 9PM, Khamrah Qahwa y más. Notas, duración real, precios y para quién es cada uno.",
+    ogTitle: "Mejores perfumes árabes de hombre 2026: el ranking probado en Argentina",
+    ogDescription: "De Asad Intense a Afnan 9PM. Los 15 árabes masculinos que más se venden en Argentina, con duración real, precios y los dupes de los clásicos caros.",
     h1: "Los 15 mejores perfumes árabes para hombre en Argentina (2026)",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-04-17",
+    updatedDate: "2026-06-16",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El masculino más probado del catálogo: 7.245 reseñas, 4.6⭐ y 13h de duración real." },
@@ -7478,22 +7478,69 @@ export const guides: Guide[] = [
         content: "La [guía completa de perfumes árabes](/guias/perfumes-arabes) te arma el panorama completo del nicho en Argentina."
       }
     ],
-    faq: []
+    faq: [
+      {
+        question: "¿Cuál es el mejor perfume árabe para hombre en 2026?",
+        answer:
+          "Si tenés que elegir uno solo, el Lattafa Asad Intense: especiado-frutal con base amaderada, proyección alta y 6 a 10 horas reales en piel. Es el más probado del catálogo, con más de 7.000 reseñas y 4.6 de promedio. Para algo más fresco y versátil de día va el Afnan 9PM en su versión más liviana; para invierno y noche, el Khamrah Qahwa con su nota de café.",
+      },
+      {
+        question: "¿Cuál es el perfume árabe de hombre más rico?",
+        answer:
+          "Depende del perfil que te guste. Si te van los dulces-especiados, Asad Intense y Khamrah Qahwa son los más elogiados. Si preferís algo fresco y limpio para uso diario, el 9PM en su versión clásica gana. No hay un único más rico: lo que para uno es una bomba elegante, para otro proyecta de más. Por eso conviene probar con un kit de miniaturas antes de comprar un 100 ml.",
+      },
+      {
+        question: "¿Qué perfume árabe de hombre se parece a clásicos caros como Creed Aventus o Dior Sauvage?",
+        answer:
+          "Muchos árabes masculinos nacen inspirados en clásicos occidentales y logran un perfil parecido a una fracción del precio. La idea no es buscar una copia exacta sino una fragancia del mismo ADN olfativo (frutal-amaderado, especiado-fresco, etcétera). Antes de pagar por un supuesto clon, fijate en las notas y, si podés, probalo: dos perfumes de la misma familia pueden oler distinto en tu piel. En el sitio hay una guía dedicada a los dupes.",
+      },
+      {
+        question: "¿Cuánto cuesta un perfume árabe de hombre en Argentina?",
+        answer:
+          "Un frasco de 100 ml bueno va de unos $45.000 a $95.000 según la marca y la concentración. El Afnan 9PM Elixir, por ejemplo, se consiguió cerca de $53.000 en 2026. Los kits de miniaturas de 35 ml salen menos que un frasco grande y sirven para probar cuatro fragancias antes de decidir.",
+      },
+      {
+        question: "¿Cuánto dura un perfume árabe masculino en la piel?",
+        answer:
+          "Un árabe masculino decente dura entre 8 y 12 horas, y los parfum o extrait como el Asad Intense pueden ir más allá en ropa. Si te dura menos de 6 horas, sospechá: suele ser una falsificación o una versión diluida. La mayor concentración de aceite perfumado es justamente lo que los hace rendir más que muchos occidentales.",
+      },
+      {
+        question: "¿Cómo sé si un perfume árabe es original y no una falsificación?",
+        answer:
+          "Mirá el precio (si está muy por debajo del rango habitual, desconfiá), el frasco y la etiqueta (las copias suelen tener tipografías corridas, tapas flojas o número de lote ausente) y la reputación del vendedor. En MercadoLibre comprá a vendedores con muchas ventas y buenas reseñas, donde tenés compra protegida. Una duración real menor a 6 horas también es señal de que algo no cierra.",
+      },
+      {
+        question: "¿Cuál es el mejor perfume árabe de hombre para uso diario y oficina?",
+        answer:
+          "Para oficina conviene un perfume fresco y de proyección moderada, no una bomba. El 9PM en su versión clásica y los perfiles cítrico-amaderados livianos funcionan bien de día. Reservá los intensos como Asad o Khamrah Qahwa para la noche o el invierno: un árabe muy proyectante en una reunión a la mañana es demasiado.",
+      },
+      {
+        question: "¿Qué perfume árabe de hombre conviene para empezar?",
+        answer:
+          "Si recién entrás al nicho, lo más inteligente es un kit de 4 miniaturas de 35 ml: probás cuatro perfiles por menos de lo que sale un solo frasco de 100 ml y después comprás el que más te gustó. Entre los grandes, el Asad Intense es la apuesta más segura por validación social y duración.",
+      },
+    ],
+    internalLinks: [
+      { label: "Perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
   },
   {
     slug: "perfumes-arabes-precio-argentina",
     category: "perfumes-arabes",
     title: "Perfumes árabes precio 2026: comparativa por marca Argentina",
-    seoTitle: "Perfumes árabes precio 2026: comparativa por marca Argentina",
-    metaDescription: "Precios reales de perfumes árabes en Argentina 2026. Lattafa, Afnan, Rasasi, Armaf: cuánto cuesta cada uno y cuál te conviene.",
-    ogTitle: "Perfumes árabes precio 2026: comparativa por marca Argentina",
-    ogDescription: "Precios reales de perfumes árabes en Argentina 2026. Lattafa, Afnan, Rasasi, Armaf: cuánto cuesta cada uno y cuál te conviene.",
+    seoTitle: "Perfumes árabes precio 2026: cuánto sale cada marca",
+    metaDescription: "Cuánto cuesta un perfume árabe en Argentina 2026, marca por marca. Lattafa, Afnan, Rasasi y Armaf: qué pagás en cada franja y cuál rinde más por tu plata.",
+    ogTitle: "Cuánto sale un perfume árabe en Argentina (2026): precios por marca",
+    ogDescription: "De los $40.000 de entrada a los premium de $100.000+. La comparativa de precios por marca y concentración, para no pagar de más en tu primer árabe.",
     h1: "Perfumes árabes precio 2026: qué cuesta cada marca en Argentina",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-04-17",
+    updatedDate: "2026-06-16",
     hasDisclosure: true,
     intro: [
-      "La pregunta que me llega más seguido es esta: cuánto cuestan realmente los perfumes árabes. Y la respuesta corta es que depende de la marca, la concentración y el importador. La respuesta larga es este artículo, con rangos actualizados a abril de 2026 y lo que conviene para cada presupuesto."
+      "La pregunta que me llega más seguido es esta: cuánto cuestan realmente los perfumes árabes. Y la respuesta corta es que depende de la marca, la concentración y el importador. La respuesta larga es este artículo, con rangos actualizados a 2026 y lo que conviene para cada presupuesto."
     ],
     sections: [
       {
@@ -7751,13 +7798,35 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
+          "[Perfumes árabes para mujer](/guias/perfumes-arabes-mujer)",
           "[Perfumes árabes originales: cómo identificarlos](/guias/perfumes-arabes-originales)",
           "[Perfumes árabes y sus dupes](/guias/perfumes-arabes-dupes)",
           "[Los perfumes árabes más vendidos en Argentina](/guias/perfumes-arabes-mas-vendidos-argentina)"
         ]
       }
     ],
-    faq: []
+    faq: [
+      {
+        question: "¿Cuánto cuesta un perfume árabe en Argentina?",
+        answer: "Un frasco de 100 ml bueno va de unos $42.000 a $95.000 según la marca y la concentración. Los sets de descubrimiento, con varias fragancias en 25 ml, rondan los $64.000, y los premium importados pueden superar los $100.000. El sweet spot del nicho, con los productos más validados, está entre los $40.000 y $70.000.",
+      },
+      {
+        question: "¿Por qué los perfumes árabes son más baratos que los occidentales?",
+        answer: "Porque se fabrican localmente en Emiratos Árabes Unidos y Arabia Saudita, sin licencias de marcas de moda y sin el gasto en marketing global de un Dior o un Chanel. No es menor calidad: la mayoría usa alta concentración de aceite perfumado, por eso rinden tanto. Pagás el jugo, no la campaña publicitaria.",
+      },
+      {
+        question: "¿Cuál es el perfume árabe más barato que vale la pena?",
+        answer: "En la franja de entrada hay opciones honestas alrededor de los $42.000, como Sabah Al Ward entre los femeninos. Si no querés jugártela a un solo frasco, un kit de miniaturas de 35 ml te deja probar cuatro fragancias por menos de lo que sale un 100 ml. Evitá lo demasiado barato: por debajo del rango habitual suele haber falsificaciones.",
+      },
+      {
+        question: "¿Conviene comprar el frasco de 100 ml o un set de descubrimiento?",
+        answer: "Si todavía no sabés qué perfil te gusta, empezá por un set de descubrimiento: gastás menos y probás varios aromas antes de comprometerte con un frasco grande. Si ya tenés claro tu perfume, el 100 ml siempre rinde mejor por mililitro. Para un regalo, los sets suman porque vienen con buena presentación.",
+      },
+      {
+        question: "¿Los precios de los perfumes árabes cambian seguido?",
+        answer: "Sí, bastante. Dependen del tipo de cambio y de la competencia entre importadores, así que un mismo perfume puede variar de mes a mes y entre vendedores. Tomá los rangos de esta guía como referencia y confirmá el precio del día en la publicación antes de comprar.",
+      },
+    ]
   },
   {
     slug: "perfumes-arabes-amaderados",
@@ -7931,6 +8000,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
+          "[Perfumes árabes para mujer](/guias/perfumes-arabes-mujer) si buscás las opciones más femeninas del nicho",
           "[Los 15 mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) cubre más opciones masculinas",
           "[Lattafa: guía de la marca](/guias/lattafa-guia-marca) porque la mayoría de los amaderados top vienen de acá",
           "[Perfumes árabes y sus dupes](/guias/perfumes-arabes-dupes) si querés saber qué europeo caro imita cada uno"
@@ -7948,12 +8018,12 @@ export const guides: Guide[] = [
     category: "perfumes-arabes",
     title: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
     seoTitle: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
-    metaDescription: "Las mejores fragancias árabes femeninas 2026 en Argentina. Dulces, florales, amaderadas. De Yara a Khamrah, guía con análisis honesto.",
+    metaDescription: "Las 12 mejores fragancias árabes para mujer 2026. Cuál es el mejor perfume árabe de mujer según tu perfil, con precios reales y análisis honesto.",
     ogTitle: "Perfumes árabes para mujer: las 12 fragancias que están explotando en TikTok (2026)",
     ogDescription: "De Yara Elixir a Sabah Al Ward. Las fragancias árabes femeninas más virales en MercadoLibre Argentina, con análisis honesto, precios reales y para quién es cada una.",
     h1: "Perfumes árabes para mujer: las 12 fragancias más deseadas (2026)",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-05-26",
+    updatedDate: "2026-06-16",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
@@ -7962,8 +8032,8 @@ export const guides: Guide[] = [
       { productMlaId: "MLA49628348", label: "Para empezar", labelColor: "purple", tagline: "Sabah Al Ward: floral accesible, la puerta de entrada al nicho." },
     ],
     intro: [
-      "El cambio que vivió el mercado argentino de perfumes femeninos en dos años es notable. Lo que hasta 2023 era un nicho para entusiastas hoy es contenido viral en TikTok, protagonista de reels y obligado en cualquier tienda importadora. La relación precio calidad cambió cómo miles de argentinas eligen su perfume diario, y el proceso sigue en curso.",
-      "Lista con las 12 fragancias árabes femeninas más buscadas y recomendadas de 2026 en Argentina. Análisis honesto (incluyendo para quién no son), ocasiones de uso y presupuesto."
+      "En dos años los perfumes árabes pasaron de nicho de entusiastas a fenómeno de TikTok y góndola fija en cualquier importadora. El motivo es concreto: una fragancia árabe femenina buena cuesta entre $42.000 y $95.000 y dura 8 a 12 horas, contra los $250.000 o más de un occidental premium que muchas veces rinde menos.",
+      "Esta es la lista de las 12 fragancias árabes para mujer más buscadas y recomendadas de 2026 en Argentina: cuál conviene según tu perfil, ocasiones de uso, precios reales y para quién no son. Análisis honesto, sin humo."
     ],
     sections: [
       {
@@ -8242,7 +8312,56 @@ export const guides: Guide[] = [
         ]
       }
     ],
-    faq: []
+    faq: [
+      {
+        question: "¿Cuál es el mejor perfume árabe para mujer en 2026?",
+        answer:
+          "Si tenés que elegir uno solo, el Lattafa Yara Elixir: dulce con cítricos, unas 8 horas de duración y el más viral en Argentina. Para algo más fresco de día, Yara Tous; para arrancar gastando poco, Sabah Al Ward; y para noche dulce, Her Confession o Khamrah. No hay un único mejor: depende de si buscás dulce, floral o amaderado.",
+      },
+      {
+        question: "¿Cuánto dura un perfume árabe de mujer en la piel?",
+        answer:
+          "Entre 8 y 12 horas en la mayoría de los casos, bastante más que las 4 a 6 horas típicas de un occidental. Se debe a la mayor concentración de aceite perfumado. Los parfum y extrait, como Khamrah clásico o Fakhar Pride Gold, son los que más aguantan; los florales frescos como Mayar duran un poco menos.",
+      },
+      {
+        question: "¿Cómo sé si un perfume árabe es original y no una falsificación?",
+        answer:
+          "Mirá tres cosas: el precio (si está muy por debajo del rango habitual, sospechá), el frasco y la etiqueta (las copias suelen tener tipografías corridas, tapas flojas o número de lote ausente) y la reputación del vendedor. En MercadoLibre comprá a vendedores con muchas ventas y buenas reseñas, donde además tenés compra protegida. Hay una guía dedicada a identificar originales en el sitio.",
+      },
+      {
+        question: "¿Cuánto cuesta un perfume árabe femenino en Argentina?",
+        answer:
+          "Un frasco de 100 ml bueno va de $42.000 a $95.000 según la versión. La línea Yara, por ejemplo, arranca cerca de $42.000 el Tous y llega a unos $96.000 el original importado. Los sets de descubrimiento, con varias fragancias en 25 ml, rondan los $64.000 y son la forma más barata de probar antes de comprar un frasco grande.",
+      },
+      {
+        question: "¿Qué perfume árabe de mujer es el más vendido?",
+        answer:
+          "La línea Yara de Lattafa es la más vendida y la que disparó la tendencia en Argentina. Detrás vienen Khamrah, el llamado perfume del whisky, y Her Confession. Si mirás cantidad de reseñas en MercadoLibre, los Yara y el Khamrah Qahwa son los que acumulan miles de calificaciones.",
+      },
+      {
+        question: "¿Cuál es el mejor perfume árabe de mujer para principiantes?",
+        answer:
+          "Yara Elixir o Khamrah son los dos que más probabilidades tienen de gustarte aunque nunca hayas usado un árabe. Si querés gastar poco para empezar, Sabah Al Ward es la puerta de entrada más barata. Y si no querés jugártela a un solo frasco, un set de descubrimiento de la línea Yara te deja probar cuatro perfiles distintos.",
+      },
+      {
+        question: "¿Los perfumes árabes para mujer son unisex?",
+        answer:
+          "Varios sí. Khamrah, Fakhar Pride Gold o Bade'e Al Oud funcionan en piel masculina y femenina, y en la etiqueta muchos figuran como unisex. Los más marcadamente femeninos son los florales y gourmand dulces como Mayar, Yara y Her Confession. Si compartís perfume en casa, los amaderados y especiados son la apuesta más segura.",
+      },
+      {
+        question: "¿Dónde comprar perfumes árabes para mujer originales en Argentina?",
+        answer:
+          "Funcionan tres canales: MercadoLibre con vendedores de buena reputación y compra protegida, tiendas físicas especializadas en CABA (sobre todo Once y Palermo) e importadores de Instagram con reputación verificable. En el sitio tenés guías de dónde comprar a nivel país y específicamente en Buenos Aires.",
+      },
+    ],
+    internalLinks: [
+      { label: "Perfumes árabes amaderados (oud y madera)", href: "/guias/perfumes-arabes-amaderados" },
+      { label: "Yara Lattafa: Elixir, Tous y cuál comprar", href: "/guias/yara-lattafa-guia-completa" },
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+      { label: "Perfumes árabes por color del envase", href: "/guias/perfumes-arabes-por-color" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" }
+    ],
+    internalLinksTitle: "Guías relacionadas"
   },
   {
     slug: "perfumes-arabes",
@@ -8254,7 +8373,7 @@ export const guides: Guide[] = [
     ogDescription: "Marcas, precios, dupes y trampas. Lo que aprendí después de probar el nicho durante 2 años en Argentina.",
     h1: "Perfumes árabes en Argentina: la guía honesta para empezar (2026)",
     publishedDate: "2026-04-27",
-    updatedDate: "2026-04-27",
+    updatedDate: "2026-06-16",
     hasDisclosure: true,
     standfirst: "Después de dos años explorando el nicho, esto es lo que me hubiera gustado saber al principio. Marcas, precios reales, dupes legítimos y las trampas que te pueden hacer perder dinero.",
     quickPicks: [
@@ -8439,6 +8558,14 @@ export const guides: Guide[] = [
       {
         question: "¿Vale la pena pagar más de $100.000 por un árabe?",
         answer: "Solo si ya probaste varios y sabés exactamente qué perfil querés. El sweet spot del nicho está en el rango $35.000-70.000: ahí están los productos más validados con mejor relación calidad/precio. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información. Productos como Club de Nuit Intense Man 200ml ($139.000) tienen sentido cuando ya conocés el segmento, no cuando arrancás."
+      },
+      {
+        question: "¿Qué es un perfume árabe y por qué es más barato que uno occidental?",
+        answer: "Son fragancias producidas mayormente en Emiratos Árabes Unidos y Arabia Saudita por casas como Lattafa, Afnan, Rasasi, Armaf o Maison Alhambra. Cuestan menos no por ser de menor calidad, sino porque se fabrican localmente, sin licencias de marcas de moda y sin el gasto en marketing global de un Dior o un Chanel. A cambio suelen tener alta concentración de aceite perfumado, mucha duración y perfiles propios (oud, ámbar, azafrán) a una fracción del precio."
+      },
+      {
+        question: "¿Cómo sé si un perfume árabe es original?",
+        answer: "Revisá cuatro cosas: el precio (muy por debajo del rango habitual es señal de alerta), el frasco y la etiqueta (tipografías corridas, tapas flojas o falta de número de lote delatan una copia), la reputación del vendedor (muchas ventas y reseñas reales, con compra protegida en MercadoLibre) y la duración (un original decente rinde 8 a 12 horas; menos de 6 es sospechoso). Cuando la marca lo permite, podés chequear el batch code en checkfresh.com."
       }
     ],
     internalLinks: [
