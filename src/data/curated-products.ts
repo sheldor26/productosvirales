@@ -8107,6 +8107,58 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     pastelColor: 'var(--pastel-blue)',
     metaDescription: "Proyector Fika P8 4K en color blanco: 720p nativo, Android, WiFi y 170 lúmenes ANSI para armar tu cine en casa. Specs reales, opiniones y precio en Argentina.",
     description: "¡Transforma cualquier espacio en un cine privado con el Proyector FIKA - 4K HD 170 Lúmenes ANSI!\n\nDisfrutá la versión mejorada de nuestro anterior modelo CHOWA con optimizaciones en su rendimiento. \n\nTransformá cualquier pared en tu sala de cine con el Proyector FIKA. Diseñado para quienes quieren u",
+    articleBody: `El Fika P8 en blanco es un mini proyector portátil con Android y WiFi, en una franja de precio media. Lo más útil de su ficha es un dato que casi nadie da con claridad: los lúmenes ANSI. Eso permite hacer una lectura más honesta del brillo que la mayoría de los proyectores baratos.
+
+## Qué resolución y brillo esperar
+
+La resolución nativa es HD 720p, y el brillo declarado es de 170 lúmenes ANSI. Acá vale una aclaración importante: el título dice 8000 lúmenes, pero ese número es de marketing. El dato que importa son los 170 ANSI, que es la medida real y comparable. 170 ANSI es un brillo modesto: rinde bien a oscuras y pierde con luz. El título también dice 4K, pero acepta señal 4K sin proyectar en esa resolución; la imagen es HD.
+
+## Para qué sirve (y para qué no)
+
+Sirve para cine en casa de noche, para ver pelis y series en pantalla grande, para el quincho o llevarlo de viaje. Su diseño en blanco queda prolijo en una mesa o estante de living. No sirve como pantalla principal de día ni para quien espere brillo de televisor.
+
+## Conectividad y apps
+
+Trae Android con WiFi, así que instalás apps directamente, más las entradas HDMI y USB de siempre. Como en casi todos los proyectores Android de este precio, algunas plataformas pueden pedir instalarse desde tiendas alternativas o conectar un dispositivo por HDMI. El sonido interno suele quedar corto para una sala, así que sumar un parlante mejora bastante la experiencia.
+
+## Qué tener en cuenta
+
+El P8 tiene un 4.6 de promedio, un puntaje sólido para la categoría. Lo que más juega a favor es la honestidad de la ficha con los 170 ANSI: sabés de antemano que es un brillo modesto y comprás con la expectativa correcta. Si lo que buscás es más nitidez y algo más de brillo, el Fika B2 con 1080p y 300 ANSI es el escalón siguiente dentro de la misma familia.
+
+## Para quién sí y para quién no
+
+Sí, si querés un mini proyector con Android para usar de noche y valorás que la ficha sea clara con el brillo real en ANSI. No, si necesitás brillo de día o esperás 4K real.
+
+## En resumen
+
+Un proyector portátil HD honesto con sus 170 ANSI, que rinde bien a oscuras. El 4K y los 8000 lúmenes del título son nominales; lo real es HD y 170 ANSI. Para comparar opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Declara el brillo en lúmenes ANSI (170), un dato real y comparable",
+      "Android con WiFi para instalar apps directamente",
+      "Diseño en blanco prolijo para el living",
+      "Portátil, sirve para cine en casa, quincho o viaje",
+    ],
+    cons: [
+      "170 ANSI es un brillo modesto: con luz de día pierde",
+      "El 4K es soportado, no nativo: la imagen es HD 720p",
+      "Los 8000 lúmenes del título son nominales, no reales",
+      "El sonido interno queda corto para una sala",
+    ],
+    verdict: "Un mini proyector HD honesto: declara 170 lúmenes ANSI reales en vez de un número inflado. Rinde bien a oscuras; con luz de día no. Buena opción si buscás Android y claridad en las specs.",
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Rinde a oscuras o con la habitación bien tapada. Con 170 lúmenes ANSI, con luz de día la imagen se ve lavada. Es un brillo modesto, pero al menos la ficha lo declara en ANSI, que es la medida real.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. La resolución nativa es HD 720p. El título dice 4K porque acepta señales de esa calidad, pero la imagen que proyecta es HD, no 4K nativo. Los 8000 lúmenes del título también son nominales: el dato real son los 170 ANSI.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Trae Android con WiFi, así que podés instalar apps directamente, además de entradas HDMI y USB. Como en casi todos los proyectores Android de este precio, algunas plataformas pueden pedir tiendas alternativas o conectar un dispositivo por HDMI.",
+      },
+    ],
   },
   {
     id: 'MLA52364259',
@@ -8152,6 +8204,58 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-blue)',
     description: "¡Transforma cualquier espacio en un cine privado con el Proyector FIKA B2 - 4K HD 300 Lúmenes ANSI!\n\nDisfrutá la versión mejorada de nuestro anterior modelo CHOWA con optimizaciones en su rendimiento. \n\nTransformá cualquier pared en tu sala de cine con el Proyector FIKA. Diseñado para quienes quiere",
+    articleBody: `El Fika B2 es el hermano mayor del P8: mejor resolución, más brillo y precio más alto. Es el proyector más completo de la familia Fika de esta lista. Como en todos, lo más útil es leer los datos reales en lugar de los números del título.
+
+## Qué resolución y brillo esperar
+
+Acá hay un salto frente al P8: resolución Full HD 1080p nativa y 300 lúmenes ANSI. Eso es lo que importa. El título dice 14000 lúmenes, pero ese número es de marketing; el dato real y comparable son los 300 ANSI. Con 300 ANSI tolera un poco mejor algo de luz ambiente que un proyector de 170, aunque sigue rindiendo mejor a oscuras. El 1080p nativo se nota en nitidez frente a un HD 720p. El título también dice 4K, pero acepta señal 4K sin proyectar en esa resolución.
+
+## Para qué sirve (y para qué no)
+
+Sirve para cine en casa con mejor imagen que un mini proyector de entrada, para pelis, series y consola en pantalla grande. Es la opción Fika para quien quiere dar un paso arriba en calidad. No sirve como pantalla principal en un ambiente muy luminoso ni como proyector 4K nativo.
+
+## Conectividad y apps
+
+Trae Android con WiFi para instalar apps directamente, más entradas HDMI y USB. Como en casi todos los proyectores Android de este precio, algunas plataformas pueden pedir tiendas alternativas o conectar un dispositivo por HDMI. El sonido interno mejora la experiencia con un parlante externo, igual que en el resto de la categoría.
+
+## Qué tener en cuenta
+
+El Fika B2 tiene un 4.6 de promedio, alto para la categoría. La diferencia frente al P8 se nota sobre todo en nitidez: el 1080p nativo se ve más definido que un HD 720p, y los 300 ANSI dan algo más de margen con luz ambiente. Aun así, conviene entrar con la expectativa correcta: sigue siendo un proyector que se luce a oscuras, no un reemplazo de televisor para el día.
+
+## Para quién sí y para quién no
+
+Sí, si querés el mejor de la familia Fika, con 1080p nativo y más brillo, y estás dispuesto a pagar la diferencia. No, si buscás lo más barato o necesitás brillo pleno de día.
+
+## En resumen
+
+El Fika más completo: 1080p nativo y 300 lúmenes ANSI reales. Mejor imagen que un mini proyector de entrada, con la honestidad de declarar el brillo en ANSI. Para comparar opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Resolución Full HD 1080p nativa, mejor nitidez que un HD 720p",
+      "300 lúmenes ANSI reales, declarados de forma honesta",
+      "Android con WiFi para instalar apps directamente",
+      "El más completo de la familia Fika de esta lista",
+    ],
+    cons: [
+      "Los 14000 lúmenes del título son de marketing: lo real son 300 ANSI",
+      "El 4K es soportado, no nativo: la imagen es Full HD 1080p",
+      "Más caro que un mini proyector de entrada",
+      "Como toda la categoría, rinde mejor a oscuras",
+    ],
+    verdict: "El Fika más completo, con 1080p nativo y 300 lúmenes ANSI reales. Si querés mejor imagen que un mini proyector de entrada y pagar la diferencia, es buena opción; el brillo sigue pidiendo ambiente oscuro.",
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Con 300 lúmenes ANSI tolera un poco mejor algo de luz que un proyector de 170, pero sigue rindiendo mejor a oscuras. Con sol directo de día ningún proyector de este precio se luce.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. La resolución nativa es Full HD 1080p, mejor que un HD 720p pero no 4K. El título dice 4K porque acepta señales de esa calidad. Los 14000 lúmenes del título también son nominales: el dato real son los 300 ANSI.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Trae Android con WiFi para instalar apps directamente, más entradas HDMI y USB. Como en casi todos los proyectores Android de este precio, algunas plataformas pueden pedir tiendas alternativas o conectar un dispositivo por HDMI.",
+      },
+    ],
   },
   {
     id: 'MLA52018443',
@@ -8198,6 +8302,58 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     pastelColor: 'var(--pastel-blue)',
     metaDescription: "Proyector Fika P8 en color negro: 720p HD, Android TV, WiFi y 170 lúmenes ANSI para tu pared. Análisis honesto, opiniones reales y precio en Argentina.",
     description: "¡Transforma cualquier espacio en un cine privado con el Proyector FIKA - 4K HD 170 Lúmenes ANSI!\n\nDisfrutá la versión mejorada de nuestro anterior modelo CHOWA con optimizaciones en su rendimiento. \n\nTransformá cualquier pared en tu sala de cine con el Proyector FIKA. Diseñado para quienes quieren u",
+    articleBody: `Este es el Fika P8 en color negro, el mismo proyector que la versión blanca pero con terminación oscura, más discreta para quien prefiere que el aparato no llame la atención sobre un mueble. Es un mini proyector portátil con Android y WiFi en franja de precio media, y su ficha tiene la virtud de declarar el brillo en lúmenes ANSI.
+
+## Qué resolución y brillo esperar
+
+Resolución nativa HD 720p y 170 lúmenes ANSI. El título habla de 8000 lúmenes, pero ese valor es de marketing; el número que sirve para comparar son los 170 ANSI, que es la medida real. Con 170 ANSI estamos ante un brillo modesto: a oscuras la imagen se ve bien y con luz pierde. El "4K" del título significa que acepta esa señal, no que proyecte en 4K; lo que ves es HD.
+
+## Para qué sirve (y para qué no)
+
+Sirve para cine en casa de noche, pelis y series en pantalla grande, quincho o viajes. El negro disimula mejor el polvo y queda más sobrio en un dormitorio o living oscuro. No sirve como pantalla de día ni como proyector 4K real.
+
+## Conectividad y apps
+
+Android con WiFi para instalar apps, más entradas HDMI y USB. Algunas plataformas pueden pedir tiendas alternativas o un dispositivo por HDMI, como suele pasar en proyectores Android de este precio. El parlante interno queda corto para una sala, así que un parlante externo mejora bastante.
+
+## Qué tener en cuenta
+
+El P8 mantiene un 4.6 de promedio, igual que su gemelo blanco, porque el hardware es idéntico: la única diferencia es el color. La elección entre negro y blanco es estética. Si en cambio te importa más la calidad de imagen que la terminación, el Fika B2 con 1080p nativo y 300 ANSI es el modelo a mirar dentro de la misma línea.
+
+## Para quién sí y para quién no
+
+Sí, si querés el P8 en una terminación más discreta para usar de noche y valorás que la ficha declare el brillo real en ANSI. No, si necesitás brillo de día o 4K nativo.
+
+## En resumen
+
+El P8 negro es idéntico al blanco en lo técnico, con una estética más sobria. Brillo honesto de 170 ANSI, mejor a oscuras, 4K soportado y no nativo. Para ver otras opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Declara el brillo en lúmenes ANSI (170), un dato real y comparable",
+      "Android con WiFi para instalar apps directamente",
+      "Terminación negra más discreta y sobria",
+      "Portátil, sirve para cine en casa, quincho o viaje",
+    ],
+    cons: [
+      "170 ANSI es un brillo modesto: con luz de día pierde",
+      "El 4K es soportado, no nativo: la imagen es HD 720p",
+      "Los 8000 lúmenes del título son nominales, no reales",
+      "El sonido interno queda corto para una sala",
+    ],
+    verdict: "El mismo P8 que la versión blanca, con terminación negra más discreta. Brillo honesto de 170 ANSI que rinde bien a oscuras; con luz de día no. Buena opción si querés Android y claridad en las specs.",
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Rinde a oscuras o con la habitación bien tapada. Con 170 lúmenes ANSI, con luz de día la imagen se ve lavada. El brillo es modesto, aunque la ficha lo declara en ANSI, que es la medida real.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. La resolución nativa es HD 720p. El título dice 4K porque acepta señales de esa calidad, pero proyecta en HD. Los 8000 lúmenes del título son nominales: el dato real son los 170 ANSI.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Trae Android con WiFi para instalar apps directamente, más entradas HDMI y USB. Como en casi todos los proyectores Android de este precio, algunas plataformas pueden pedir tiendas alternativas o conectar un dispositivo por HDMI.",
+      },
+    ],
   },
   {
     id: 'MLA42238146',
@@ -8239,6 +8395,58 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-blue)',
     description: "El Proyector 4k HY300 es un dispositivo compacto y versátil diseñado para ofrecer una experiencia de proyección de alta calidad en un formato portátil. Con una potencia de 2600 lúmenes, Este proyector cuenta con una resolución de pantalla de 1280 x 720 píxeles, lo que permite mostrar imágenes detall",
+    articleBody: `Este es el HY300 clásico con Android 11, uno de los mini proyectores más comprados de MercadoLibre, con más de 5.600 calificaciones y un 4.4 de promedio. Es probablemente el que más viste en TikTok armando cine en la pared. Tiene a su favor la ficha más honesta del grupo, así que vale la pena leerla.
+
+## Qué resolución y brillo esperar
+
+A diferencia de otros que inflan los números, esta ficha es transparente: resolución nativa 1280x720 y 2600 lúmenes. Eso es lo real, no un número de marketing, y se agradece. Como todo proyector de este brillo, a oscuras se ve bien y con luz de día pierde. El título menciona 4K porque acepta señal de esa calidad, pero la imagen que proyecta es HD nativa.
+
+## Para qué sirve (y para qué no)
+
+Sirve para cine en casa, para ver pelis y series de noche, para el quincho o para llevarlo a una juntada. Es compacto y portátil, lo enchufás y proyectás en minutos. No sirve como pantalla principal en un ambiente con luz, ni para quien espere una imagen 4K real.
+
+## Conectividad y apps
+
+Trae Android 11, WiFi, Bluetooth 5.0 y entrada HDMI. El Android propio te deja instalar apps directamente, y el Bluetooth sirve para mandar el audio a un parlante, algo recomendable porque el sonido interno de estos equipos queda corto para una sala. Como pasa con casi todos los HY300, algunas plataformas pueden pedir instalarse desde tiendas alternativas o conectar un dispositivo por HDMI.
+
+## Qué dicen los compradores
+
+Con más de 5.600 calificaciones y un 4.4 de promedio, el HY300 tiene un respaldo enorme para su precio. El consenso general en la categoría es claro: cumple de sobra a oscuras, el sonido conviene reforzarlo y nadie debería esperar brillo de día. Por la plata que sale, es de los que más gente recomienda como primer proyector.
+
+## Para quién sí y para quién no
+
+Sí, si querés el HY300 de siempre, con Android, WiFi y Bluetooth, para cine en casa de noche, y valorás que la ficha no te miente con los lúmenes. No, si necesitás brillo de día o esperás 4K real.
+
+## En resumen
+
+El mini proyector HY300 de referencia, con specs honestas y precio bajo. Cumple muy bien a oscuras y rinde poco con luz, como toda la categoría. Para comparar con otras opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Ficha honesta: 1280x720 y 2600 lúmenes reales, sin inflar",
+      "Android 11, WiFi y Bluetooth 5.0",
+      "Compacto, portátil y de los más baratos",
+      "Uno de los más vendidos y puntuados de su categoría",
+    ],
+    cons: [
+      "Brillo real bajo (2600 lúmenes): con luz de día pierde",
+      "El 4K es soportado, no nativo: la imagen es HD 720p",
+      "El sonido interno queda corto para una sala",
+      "Algunas apps pueden necesitar tiendas alternativas o HDMI",
+    ],
+    verdict: "El HY300 de referencia, con la ficha más honesta del grupo. Cumple muy bien a oscuras por lo que sale; con luz de día rinde poco, como toda la categoría. Buena compra de entrada.",
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Rinde a oscuras o con la habitación bien tapada. Con 2600 lúmenes reales, con luz de día la imagen se ve lavada. Es un brillo modesto pero, a diferencia de otros, acá la ficha no lo infla.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. La resolución nativa es 1280x720 (HD). El título menciona 4K porque acepta señales de esa calidad, pero la imagen que proyecta es HD, no 4K nativo.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Sí. Corre Android 11 con WiFi y Bluetooth 5.0, así que podés instalar apps directamente. Como en casi todos los HY300, algunas plataformas pueden necesitar tiendas alternativas o conectar un dispositivo por HDMI.",
+      },
+    ],
   },
   {
     id: 'MLA43932163',
@@ -8273,6 +8481,81 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-blue)',
     description: "El proyector Mini Ultrahd HY-300 es la solución ideal para quienes buscan una experiencia visual de alta calidad en un formato compacto. Con un brillo de 8000 lúmenes, este proyector ofrece imágenes nítidas y vibrantes en tamaños que van desde 30 hasta 150 pulgadas, permitiendo disfrutar de película",
+    articleBody: `El HY-300 blanco es otro de los mini proyectores que se hicieron virales, con más de 5.600 calificaciones y un 4.4 de promedio. La etiqueta dice 8000 lúmenes, pero como pasa con casi todos los proyectores baratos, ese número está inflado. Lo que importa es que para el precio que sale, la mayoría quedó conforme.
+
+## Qué resolución y brillo esperar
+
+Es un proyector portátil chico que tira una imagen grande, de 30 a 150 pulgadas según la distancia. El brillo real es de proyector económico: a oscuras se ve bien, y con luz pierde. Una docente que lo usa en el aula contó que oscureciendo apenas con las cortinas le alcanzó para una buena imagen, así que tampoco hace falta penumbra total, pero sí evitar la luz directa.
+
+## Para qué sirve (y para qué no)
+
+Sirve para dar clases, para ver pelis en el quincho, para una pantalla grande ocasional en casa. No sirve como reemplazo de un televisor en un living luminoso. Es liviano y fácil de transportar, que es parte de su gracia.
+
+## Conectividad y apps
+
+Tiene su sistema operativo propio con apps, WiFi y entrada HDMI. Acá aparece el truco que más repiten los compradores: el sonido del parlante interno es pobre, y conectar un parlante bluetooth puede ser una pelea (se desconecta solo). La solución que varios encontraron es enchufar el HDMI directo desde la PC o el dispositivo, y así reciben imagen y sonido en mejor calidad de una. Por la app, Netflix figura como no compatible, pero se puede instalar desde tiendas alternativas como Aptoide.
+
+## Qué dicen los compradores
+
+El patrón es parejo: imagen aceptable para el precio, sonido flojo que conviene reforzar. Un comprador resumió el espíritu de las opiniones: para un quincho va como trompada. Otro detalle simpático que mencionan es que por USB se le puede enchufar un mouse y manejarlo como si fuera una mini PC.
+
+## Para quién sí y para quién no
+
+Sí, si querés un mini proyector barato para clases, juntadas o cine de fin de semana y no te asusta usar un parlante aparte. No, si necesitás brillo de día o que el audio rinda solo.
+
+## En resumen
+
+Un proyector portátil correcto por lo que cuesta, con la salvedad del sonido y del brillo real. Si conectás HDMI desde la PC y le sumás un parlante, queda muy usable. Para comparar con otros modelos, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Imagen aceptable a oscuras para el precio que sale",
+      "Liviano y fácil de transportar",
+      "Sirve para clases, quincho o cine de fin de semana",
+      "Por USB se le puede conectar un mouse y usarlo como mini PC",
+    ],
+    cons: [
+      "Los 8000 lúmenes son de marketing: con luz de día rinde poco",
+      "Sonido del parlante interno pobre, conviene uno externo",
+      "El bluetooth para parlantes puede desconectarse solo",
+      "Netflix figura como no compatible (se instala por tiendas alternativas)",
+    ],
+    verdict: "Un mini proyector económico que cumple a oscuras, sobre todo si conectás HDMI desde la PC y le sumás un parlante. Para clases o cine de fin de semana es buena compra; para uso de día no.",
+    reviewsSampledAt: "2026-06-16",
+    customerReviews: [
+      {
+        rating: 4, country: "Argentina", date: "2025-02-22", useful: 117,
+        text: "Bastante conforme para el precio que pagué. La calidad visual varía según el método que uses. Yo conecto un HDMI directo a la placa de video de la PC y la calidad es muy superior a conectarlo desde el monitor. Con el sistema operativo del proyector la imagen es aceptable, pero el sonido es muy pobre. Arreglar eso con un parlante bluetooth me resultó imposible, se desconectaba al segundo. Por eso uso el HDMI directo de la PC y recibo imagen y sonido en buena calidad. Algo que no esperaba: por USB se puede conectar un mouse y usarlo como PC, muy cómodo.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2024-10-29", useful: 82,
+        text: "Muy buen producto. Súper útil para mis clases, fácil de usar y práctico para llevar a la escuela. El sonido no es muy alto, tuve que agregarle un parlante. La imagen, aún en el aula que solo oscurecí corriendo las cortinas, fue muy buena. Feliz con la compra.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2024-09-20", useful: 82,
+        text: "Muy bueno. Lástima que Netflix dice que no es compatible, pero sincronizando la Play Store se pueden conseguir apps compatibles y ver pelis.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2025-03-31", useful: 79,
+        text: "Una masa. Más allá del sonido, trae preinstalado el Magis. Netflix no te deja usarlo, pero lo podés descargar desde una app que instalás del navegador, se llama Aptoide. Muy contento con mi compra.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2024-11-22", useful: 53,
+        text: "Excelente el proyector, para un quincho va como trompada.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Rinde mejor a oscuras, pero no necesita penumbra total. Una compradora docente contó que oscureciendo apenas con las cortinas del aula le alcanzó para una buena imagen. Con luz directa de día sí pierde fuerza.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. Es un proyector LED de entrada y el 8000 lúmenes de la etiqueta es de marketing, no el brillo real. Está pensado para proyectar grande de noche, no para resolución de cine ni brillo de TV.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Tiene WiFi y apps propias. Netflix figura como no compatible de fábrica, pero los compradores lo instalan desde tiendas alternativas como Aptoide. Para mejor imagen y sonido, varios conectan un HDMI directo desde la PC o el celular.",
+      },
+    ],
   },
   {
     id: 'MLA24692647',
@@ -8315,6 +8598,54 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-blue)',
     description: "¿Querés disfrutar de tus películas, juegos y vídeos favoritos en una pantalla grande y nítida, sin importar el dispositivo que uses? ¡El proyector portátil LED Dakota es ideal para vos!\n\n\nCon una resolución Full HD de 1080p y una conectividad Wi-Fi, el proyector LED Dakota te ofrece una imagen de al",
+    articleBody: `El Dakota es un proyector portátil de marca, un escalón por encima de los HY300 genéricos que inundan MercadoLibre. Tiene un 4.7 de promedio, que es alto para la categoría, y juega en otra franja de precio. Si venís de mirar mini proyectores de 50 mil pesos, este es la versión más seria.
+
+## Qué resolución y brillo esperar
+
+La ficha habla de 1080p y 8500 lúmenes. Como con todos los proyectores de este rango, conviene tomar el número de lúmenes con pinzas: ese valor es de marketing y el brillo real que ves en la pared es bastante menor. Lo importante es que, dentro de los proyectores accesibles, este se ubica entre los más brillantes, así que tolera mejor algo de luz ambiente que un HY300 de entrada. Aun así, la regla no cambia: cuanto más oscuro el ambiente, mejor la imagen.
+
+## Para qué sirve (y para qué no)
+
+Sirve para armar un cine en casa de uso frecuente, para ver pelis, jugar a la consola o seguir series en pantalla grande. Por ser de marca y un poco más robusto, aguanta mejor el uso seguido que los genéricos. No sirve para reemplazar un televisor en una habitación con sol directo: ningún proyector de este precio lo hace.
+
+## Conectividad y apps
+
+Trae WiFi y MirrorLink, así que podés espejar la pantalla del celular sin cables, además de las entradas HDMI y USB de siempre. El espejado de celular es lo más práctico para tirar rápido un video de YouTube o las fotos a la pared. Para Netflix y plataformas conviene una entrada HDMI con un dispositivo aparte, que suele dar mejor resultado que las apps internas de estos equipos.
+
+## Para quién sí y para quién no
+
+Sí, si querés un proyector portátil de marca para uso regular y estás dispuesto a pagar más que por un genérico a cambio de mejor terminación. No, si buscás lo más barato posible o necesitás brillo para usarlo de día.
+
+## En resumen
+
+Un proyector 1080p portátil más serio que el promedio de su categoría, con buen puntaje de compradores. El brillo real sigue siendo de proyector económico, así que la regla de "mejor a oscuras" se mantiene. Para ver otras opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Proyector de marca, mejor terminación que los genéricos HY300",
+      "Resolución 1080p y MirrorLink para espejar el celular sin cables",
+      "Puntaje alto de compradores (4.7) para la categoría",
+      "Aguanta mejor el uso frecuente que un mini proyector de entrada",
+    ],
+    cons: [
+      "Los 8500 lúmenes son de marketing: el brillo real es menor",
+      "Más caro que un mini proyector genérico",
+      "Como todo proyector de este rango, rinde mucho mejor a oscuras",
+      "Para Netflix conviene un dispositivo por HDMI en vez de las apps internas",
+    ],
+    verdict: "Un proyector portátil de marca, más robusto y mejor puntuado que los genéricos. Si buscás algo para uso frecuente y no te molesta pagar más, es buena opción; el brillo real sigue pidiendo ambiente oscuro.",
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Tolera algo más de luz que un mini proyector de entrada, pero la regla no cambia: cuanto más oscuro el ambiente, mejor la imagen. Con sol directo de día ningún proyector de este precio rinde.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. La resolución es 1080p Full HD, no 4K. El número de 8500 lúmenes de la ficha es de marketing y el brillo real es bastante menor, como en todos los proyectores de este rango.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Sí, trae WiFi y MirrorLink para espejar la pantalla del celular sin cables, más entradas HDMI y USB. Para Netflix y plataformas suele funcionar mejor conectar un dispositivo aparte por HDMI que usar las apps internas.",
+      },
+    ],
   },
   {
     id: 'MLA43926951',
@@ -8358,6 +8689,77 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-blue)',
     description: "Transforma tu experiencia de entretenimiento con el Proyector Mini Genérica Smart TV Proyector Android Wifi 9000. Este dispositivo compacto y portátil, modelo HY300, es ideal para quienes buscan una solución versátil para disfrutar de películas, series y videojuegos en cualquier lugar. Con una impre",
+    articleBody: `Este es uno de esos mini proyectores HY300 que aparecen en TikTok cada dos por tres, con casi 5.900 calificaciones y un 4.3 de promedio. La etiqueta dice "9000 lúmenes" y conviene aclararlo de entrada: ese número es de marketing, no el brillo real que vas a ver en la pared. Aun así, por lo que cuesta, a la mayoría de los compradores les terminó gustando.
+
+## Qué resolución y brillo esperar
+
+Es un proyector LED chico, pensado para proyectar grande sin gastar una fortuna. El detalle que repiten los reviews es claro: rinde bárbaro a oscuras, y con luz de día pierde fuerza. Si pretendés usarlo con las persianas abiertas a las tres de la tarde, te vas a decepcionar. De noche o con la pieza bien tapada, la imagen se ve linda para ver una serie o el partido.
+
+## Para qué sirve (y para qué no)
+
+Sirve para armar un cine improvisado en casa, para el quincho, para una juntada. No sirve para reemplazar un televisor de uso diario en un ambiente luminoso. Pensalo como un extra para los findes, no como tu pantalla principal.
+
+## Conectividad y apps
+
+Trae Android, WiFi y viene con MagisTV y algunas apps preinstaladas. Acá está el lío que más se menciona: el MagisTV viene desactualizado y hay que actualizarlo desde ajustes después de conectarlo a internet. Para instalar otras apps (Netflix, Crunchyroll, Disney) no usás la Play Store común, sino la tienda propia del aparato, y a veces da pelea. Varios resolvieron viendo Netflix o Flow conectando un dispositivo por HDMI.
+
+## Qué dicen los compradores
+
+El sonido integrado se escucha bien si estás cerca, pero para una sala conviene un parlante bluetooth aparte. Lo bueno: es liviano, no se calienta y el ventilador casi no se siente. Una frase resume el clima general de las opiniones: no le pidas peras al olmo. Por la plata que sale, cumple.
+
+## Para quién sí y para quién no
+
+Sí, si buscás un mini proyector barato para usar de noche y no te molesta pelear un poco con las apps. No, si necesitás brillo de día o querés que todo funcione apenas lo enchufás.
+
+## En resumen
+
+Un proyector para celular o casa correcto para su precio, siempre que entres sabiendo que el brillo real es modesto y el software pide paciencia. Si querés ver más opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Imagen linda a oscuras para el precio que sale",
+      "Liviano, no se calienta y el ventilador casi no se escucha",
+      "Trae Android, WiFi y apps preinstaladas",
+      "Sonido aceptable si estás cerca",
+    ],
+    cons: [
+      "Los 9000 lúmenes son de marketing: con luz de día pierde calidad",
+      "El MagisTV viene desactualizado y hay que actualizarlo a mano",
+      "Instalar apps como Netflix o Disney puede dar pelea",
+      "Para sala conviene sumar un parlante externo",
+    ],
+    verdict: "Un mini proyector económico que cumple a oscuras y decepciona con luz de día. Si entrás sabiendo que el brillo real es modesto y el software pide paciencia, es buena compra por lo que sale.",
+    reviewsSampledAt: "2026-06-16",
+    customerReviews: [
+      {
+        rating: 4, country: "Argentina", date: "2025-05-09", useful: 273,
+        text: "El proyector tiene un aprobado como producto. Es para disfrutarlo a oscuras, con poca luz se pierde calidad. No es 9000 lúmenes. Es importante buscar en ajustes la actualización (antes conectarlo a internet). El MagisTV se descarga donde están las aplicaciones, que no es la Play Store. El sonido es bueno si estás cerca, pero conviene un parlante. Es liviano, no se calienta y no es ruidoso. Si estás dudando, doy mi voto a favor de que lo compres.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2025-05-14", useful: 187,
+        text: "No le pidas peras al olmo. Es perfecto. Si sos caprichoso comprá el de Samsung y pagá 600 dólares, nada más que decir.",
+      },
+      {
+        rating: 4, country: "Argentina", date: "2025-03-29", useful: 122,
+        text: "Me gusta mucho, aunque tiene pequeños detalles para descargar otras apps como Crunchyroll, y el Magis viene desactualizado. Después de eso, se ve excelente y se escucha bien.",
+      },
+      {
+        rating: 4, country: "Argentina", date: "2025-03-05", useful: 82,
+        text: "La imagen se ve bastante bien, tiene buen sonido, viene con Netflix y YouTube ya instalados. Intenté pero no pude instalar más apps como Disney o Flow. Únicamente con Flow conectado al HDMI pude ver Disney y Flow súper bien y fluido. Sale cine los fines de semana.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Rinde a oscuras o con la habitación bien tapada. Con luz de día pierde fuerza y la imagen se ve lavada. Los compradores coinciden: para ver algo de noche cumple, para usarlo con persianas abiertas no.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. Es un proyector LED de entrada con brillo modesto. El número de 9000 lúmenes que figura es de marketing, no el brillo real. Está pensado para ver contenido en pantalla grande de noche, no para resolución de cine.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Trae Android, WiFi y apps preinstaladas como Netflix y YouTube. Para instalar otras apps usás una tienda propia del aparato, no la Play Store común, y a veces cuesta. Varios compradores resolvieron viendo plataformas conectando un dispositivo por HDMI.",
+      },
+    ],
   },
   {
     id: 'MLA43928643',
@@ -8405,6 +8807,58 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-blue)',
     description: "Viví el Cine en Casa en Alta Definición\nDisfrutá de tus películas, series y videojuegos favoritos con una proyección clara y nítida gracias a su resolución nativa HD de 1280x720p y compatibilidad con contenido en 4K. Transformá cualquier habitación en tu sala de cine personal.\n\nImágenes Brillantes e",
+    articleBody: `El Gadnic P-3129 es un proyector portátil de marca argentina conocida, con un 4.5 de promedio. Juega en la franja de precio más alta dentro de los proyectores accesibles, así que el comprador típico busca algo más prolijo que un genérico de TikTok. Vale aclarar un punto desde el arranque para no comprar con la idea equivocada.
+
+## Qué resolución y brillo esperar
+
+La resolución nativa es HD, 1280x720. El título dice "soporta 4K", y ahí está la trampa más común de los proyectores baratos: soportar 4K significa que acepta una señal de esa calidad, pero la imagen que proyecta sigue siendo HD nativa. No es un proyector 4K real. Sobre el brillo, los 5000 lúmenes son número de marketing: a oscuras se ve bien, con luz pierde. La regla de siempre.
+
+## Para qué sirve (y para qué no)
+
+Sirve para armar cine en casa, ver pelis y series, jugar a la consola en pantalla grande de hasta 150 pulgadas. Trae control remoto, que se agradece para no levantarse. No sirve para reemplazar un televisor en un ambiente con sol, ni para quien espere resolución 4K real por proyectar.
+
+## Conectividad y apps
+
+Tiene bluetooth y varias entradas (HDMI, USB), así que conectás consola, decodificador o un parlante sin problema. El bluetooth permite mandar el audio a un parlante o auriculares, algo útil porque el sonido interno de estos equipos suele quedar corto para una sala. Para Netflix y plataformas, lo más confiable es enchufar un dispositivo por HDMI.
+
+## Qué tener en cuenta
+
+Con un 4.5 de promedio, los compradores lo valoran sobre todo por la terminación y el respaldo de una marca conocida frente a los genéricos. El punto a vigilar es el de siempre en proyectores de este rango: el brillo nominal no se traduce en imagen para usar de día, y el sonido pide un parlante aparte si querés llenar una sala.
+
+## Para quién sí y para quién no
+
+Sí, si querés un proyector de marca con respaldo local y control remoto, y estás dispuesto a pagar más por mejor terminación. No, si buscás lo más económico o creés que el "4K" del título significa imagen 4K real.
+
+## En resumen
+
+Un proyector portátil HD nativo de marca, sólido para cine en casa, siempre que entres sabiendo que el 4K es soportado y no nativo, y que el brillo real pide ambiente oscuro. Para comparar con otras opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Proyector de marca con respaldo local y control remoto",
+      "Bluetooth para mandar el audio a un parlante o auriculares",
+      "Varias entradas: HDMI, USB y multiconexión",
+      "Proyecta hasta 150 pulgadas para cine en casa",
+    ],
+    cons: [
+      "El 4K es soportado, no nativo: la imagen real es HD 720p",
+      "Los 5000 lúmenes son de marketing: con luz de día rinde poco",
+      "Más caro que un mini proyector genérico",
+      "El sonido interno suele quedar corto para una sala",
+    ],
+    verdict: "Un proyector HD de marca, prolijo para cine en casa, con la salvedad de siempre: el 4K es soportado y no nativo, y el brillo real pide ambiente oscuro. Si valorás el respaldo local, es buena opción.",
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Rinde a oscuras o con la habitación bien tapada. Los 5000 lúmenes de la ficha son de marketing y el brillo real es menor, así que con luz de día la imagen se ve lavada. Como todos los proyectores de este rango, cuanto más oscuro mejor.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. La resolución nativa es HD 1280x720. El título dice que soporta 4K, lo que significa que acepta una señal de esa calidad, pero la imagen que proyecta sigue siendo HD. No es un proyector 4K nativo.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Tiene bluetooth y entradas HDMI y USB. Para Netflix y plataformas, lo más confiable en estos equipos es conectar un dispositivo aparte por HDMI. El bluetooth sirve sobre todo para mandar el audio a un parlante o auriculares.",
+      },
+    ],
   },
   {
     id: 'MLA22975097',
@@ -8443,6 +8897,77 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-blue)',
     description: "MINI PROYECTOR LED PORTATIL 1200 LUMENS:\n\n* Distancia de Proyección Recomendada: 0.5 a 2.8 metros.\n* Imagen Proyectada en Pulgadas: 24\" a 120\".\n* Resolución: 640 x 360 DPI.\n* Brillo: 1200 lumens.\n* Soporta Videos Full HD (1920 x 1080).\n* Vida Util: 30.000hs.\n* Entradas: HDMI, AV, AUDIO, USB, Micro U",
+    articleBody: `Este es el mini proyector más básico y más barato de la lista, y su puntaje lo refleja: 3.9 de promedio, el más bajo del grupo. Es honesto empezar por ahí, porque varias de las opiniones críticas apuntan a lo mismo y conviene saberlo antes de comprar.
+
+## Qué resolución y brillo esperar
+
+La ficha es clara y vale leerla: resolución nativa de 640x360, brillo de 1200 lúmenes. Eso es muy poco. Soporta videos en Full HD, pero la imagen que proyecta es de baja resolución. Un comprador lo dijo sin vueltas: la imagen es débil y no representa ni cerca el número de lúmenes que destacan. Otro avisó que las 120 pulgadas que promete no son reales. Si el ambiente no está completamente a oscuras, no se distingue casi nada.
+
+## Para qué sirve (y para qué no)
+
+Sirve como juguete tecnológico, para probar la experiencia de proyectar, para chicos, o para un uso muy esporádico de noche. Algunos docentes lo usaron en el aula para tareas educativas básicas. No sirve para cine en casa serio ni para reemplazar un televisor: la resolución y el brillo no dan para eso.
+
+## Conectividad y apps
+
+Tiene entradas HDMI, AV, audio y USB. No es un proyector smart con apps ni WiFi, así que dependés de conectarle un dispositivo. Hubo quejas con archivos por USB: a algunos las películas se les reiniciaban solas o no andaba el audio según el formato del video. Para celular, no todos lograron conectarlo por HDMI.
+
+## Qué dicen los compradores
+
+Las opiniones están divididas y hay varias de una o dos estrellas. Lo más repetido en las críticas: es más chico de lo que parece en las fotos, el brillo decepciona y la imagen necesita oscuridad total. Un detalle que rescatan los que quedaron contentos: trae un joystick con juegos retro de 8 bits, así que como aparato lúdico entretiene.
+
+## Para quién sí y para quién no
+
+Sí, si querés gastar lo mínimo y entendés que es un proyector de juguete para usar de noche. No, si esperás una imagen decente para ver pelis o usarlo con algo de luz.
+
+## En resumen
+
+El más barato de la lista, y se nota. Solo tiene sentido si tus expectativas son bajas y lo vas a usar a oscuras. Si querés algo más serio, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "El más barato de la categoría",
+      "Compacto y fácil de manejar",
+      "Trae un joystick con juegos retro de 8 bits",
+      "Entradas HDMI, AV, audio y USB",
+    ],
+    cons: [
+      "Resolución muy baja (640x360) y brillo de apenas 1200 lúmenes",
+      "Necesita oscuridad total: con algo de luz no se distingue nada",
+      "Es más chico de lo que aparenta en las fotos",
+      "Problemas reportados con archivos por USB (audio o video)",
+    ],
+    verdict: "Es el más barato y el de puntaje más bajo. Solo conviene si tus expectativas son mínimas y lo vas a usar a oscuras como proyector de juguete; para cine en casa serio queda muy corto.",
+    reviewsSampledAt: "2026-06-16",
+    customerReviews: [
+      {
+        rating: 1, country: "Argentina", date: "2024-10-19", useful: 151,
+        text: "El producto es mucho más pequeño de lo que aparenta en las fotos. La imagen proyectada no solo es de mala calidad, también es muy débil y no representa ni cerca el número de lúmenes que destacan. El tamaño de proyección de 120 pulgadas que promete no es verdad. Es publicidad engañosa. Lo voy a devolver.",
+      },
+      {
+        rating: 4, country: "Argentina", date: "2023-11-13", useful: 59,
+        text: "Es útil y cómodo de manejar en mi trabajo, soy docente.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2023-09-22", useful: 28,
+        text: "Se olvidaron de algo muy importante: esto trae un joystick con juegos de 8 bits, Mario Bros y muchos más. Me encanta.",
+      },
+      {
+        rating: 2, country: "Argentina", date: "2023-12-14", useful: 19,
+        text: "La verdad me arrepiento de la compra. Si el lugar no está completamente oscuro la imagen no se distingue nada. Compré un USB para ver películas y o se reinicia sola o no le anda el audio. Estoy cambiando el formato de los videos a ver si en alguno me anda. No puedo conectar mi celular por HDMI. Por el precio esperaba algo mejor.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Solo a oscuras, y bien a oscuras. Es el punto que más repiten las opiniones: si el lugar no está completamente oscuro, la imagen casi no se distingue. El brillo de 1200 lúmenes es muy bajo.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No, ni cerca. La resolución nativa es 640x360, muy baja. Soporta archivos en Full HD, pero los proyecta a su resolución real, que es modesta. No esperes calidad de cine.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "No es un proyector smart: no trae apps ni WiFi. Tiene entradas HDMI, AV, audio y USB, así que dependés de conectarle un dispositivo. Algunos compradores tuvieron problemas para conectar el celular por HDMI y con archivos en USB.",
+      },
+    ],
   },
   {
     id: 'MLA28251222',
@@ -8489,6 +9014,54 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-blue)',
     description: "Mini proyector portátil\n\nPeso del proyector: 1,54 lb, tamaño compacto para llevarlo en su bolso o mochila. Ideal para entretenimiento familiar y camping al aire libre.\n\nAdmite pantalla Full HD 1080p\n\nBrillo de 4600 lúmenes, compatible con decodificación 4k@30fps, 1080p@60fps, para visualizar vídeos ",
+    articleBody: `Este proyector smart con Android 11 es uno de los más comprados de su tipo, con más de 9.300 calificaciones y un 4.4 de promedio. La gracia frente a los HY300 más básicos es que trae Android propio con apps, así que no dependés tanto de conectarle un dispositivo aparte. Eso sí, conviene poner los números en contexto antes de comprar.
+
+## Qué resolución y brillo esperar
+
+La ficha habla de 4500 lúmenes y Full HD 1080p. Sobre los lúmenes, la advertencia es la de siempre en proyectores baratos: ese número es de marketing y el brillo real que ves en la pared es menor. A oscuras se ve bien; con luz de día pierde fuerza. Sobre el 1080p, el proyector decodifica contenido en esa resolución, pero la nitidez real depende del panel y suele ubicarse por debajo de un televisor del mismo precio.
+
+## Para qué sirve (y para qué no)
+
+Es liviano y compacto, así que sirve para cine en casa, camping, una pared del quincho o llevarlo de viaje. Funciona para pelis, series y videojuegos en pantalla grande de noche. No sirve como pantalla principal en un ambiente luminoso: ningún proyector de este precio reemplaza un televisor con luz de día.
+
+## Conectividad y apps
+
+Acá está su punto fuerte. Corre Android 11 con apps integradas, WiFi y Bluetooth, así que podés instalar plataformas y mandar el audio a un parlante o auriculares sin cables. El Bluetooth ayuda bastante, porque el parlante interno de estos equipos suele quedar corto para una sala. Como en casi todos los proyectores Android baratos, algunas apps populares pueden necesitar instalarse desde tiendas alternativas o conectar un dispositivo por HDMI para funcionar bien.
+
+## Para quién sí y para quién no
+
+Sí, si querés un proyector smart con apps propias, WiFi y Bluetooth para usar sobre todo de noche, sin pelear tanto con cables. No, si necesitás brillo de día o esperás nitidez de televisor.
+
+## En resumen
+
+Un proyector portátil Android correcto y muy vendido, con la ventaja de las apps integradas y el Bluetooth. El brillo real sigue siendo de proyector económico, así que rinde mejor a oscuras. Para comparar con otras opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Android 11 con apps integradas, WiFi y Bluetooth",
+      "Liviano y compacto, fácil de transportar",
+      "Bluetooth para mandar el audio a un parlante sin cables",
+      "Uno de los más vendidos y puntuados de su categoría",
+    ],
+    cons: [
+      "Los 4500 lúmenes son de marketing: con luz de día pierde fuerza",
+      "La nitidez real suele estar por debajo de un televisor del mismo precio",
+      "Algunas apps pueden necesitar tiendas alternativas o HDMI",
+      "El parlante interno queda corto para una sala",
+    ],
+    verdict: "Un proyector smart Android muy vendido, cómodo por las apps integradas y el Bluetooth. Buena opción para cine en casa de noche; con luz de día rinde poco, como todo proyector de este precio.",
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Rinde a oscuras o con la habitación bien tapada. Los 4500 lúmenes de la ficha son de marketing y el brillo real es menor, así que con luz de día la imagen se ve lavada. Como todos los proyectores de este rango, cuanto más oscuro mejor.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. Decodifica contenido en Full HD 1080p (y acepta señales 4K), pero la imagen que proyecta no es 4K nativo. La nitidez real depende del panel y suele quedar por debajo de un televisor del mismo precio.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Sí. Corre Android 11 con apps integradas, WiFi y Bluetooth, así que podés instalar plataformas directamente. Como en casi todos los proyectores Android baratos, algunas apps pueden necesitar tiendas alternativas o conectar un dispositivo por HDMI.",
+      },
+    ],
   },
   {
     id: 'MLA42796008',
@@ -8534,6 +9107,81 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-blue)',
     description: "Línea:Projector Profesional Calibración Automática Portátil Compatible WiFi HY300 Versión Reforzada\nModelo:300hy\nModelo alfanumérico:300HY Proyector\nVoltaje:110V/220V\nBrillo de la imagen:6000 lm\nTamaño de la imagen:50 - 120\nCon Wi-Fi:Sí\nConexiones de entrada:2.4G/5G WiFi,Audio,Bluetooth 5.4,HDMI,USB",
+    articleBody: `El Long Xing Mini HY300 es una de las versiones del popular HY300 con Android 11, WiFi y Bluetooth. Tiene un 4.3 de promedio y, por lo que cuentan los compradores, sorprende para lo que sale. Como con todos los HY300, hay un par de cosas para tener claras antes de comprar.
+
+## Qué resolución y brillo esperar
+
+El título dice 4K, y conviene aclararlo: estos mini proyectores aceptan señal 4K pero no proyectan en 4K real. La imagen nativa es HD. Sobre el brillo, los compradores coinciden en que la calidad de imagen es muy buena para el precio, siempre con la regla de fondo: a oscuras se luce, con luz de día pierde. Uno destacó que el tamaño y la calidad de imagen son excelentes.
+
+## Para qué sirve (y para qué no)
+
+Sirve para cine en casa, para ver pelis, series y anime, e incluso para jugar a la consola. Un comprador contó que tira bien la PS3. No sirve como pantalla principal de día ni para quien espere imagen 4K real por proyectar.
+
+## Conectividad y apps
+
+Trae Android 11, WiFi, Bluetooth y entradas HDMI y USB. Viene con MagisTV preinstalado para ver series, películas, anime y el partido. Hay un par de detalles repetidos: Netflix puede no andar por una cuestión de permisos, y conectar el celular para espejar imágenes guardadas a veces cuesta, aunque la doble pantalla con YouTube funciona bien. Para el celular, conviene tener a mano un adaptador HDMI según el puerto del teléfono.
+
+## Qué dicen los compradores
+
+El consenso es positivo: buena relación precio-calidad, fácil de usar, imagen mejor de lo esperado. El pero más repetido es el sonido: el parlante interno no acompaña a la imagen y conviene sumar un parlante. Más allá de eso, la mayoría está contenta con la compra.
+
+## Para quién sí y para quién no
+
+Sí, si querés un mini proyector barato con Android, MagisTV y buena imagen para usar de noche, y no te molesta sumar un parlante. No, si buscás brillo de día, 4K real o que el audio rinda solo.
+
+## En resumen
+
+Un HY300 con Android 11 que cumple de sobra para su precio, sobre todo a oscuras y con un parlante aparte. El 4K es soportado y no nativo. Para ver otras opciones, mirá [más productos](/categoria/tech).`,
+    pros: [
+      "Buena relación precio-calidad, imagen mejor de lo esperado",
+      "Android 11, WiFi, Bluetooth y MagisTV preinstalado",
+      "Fácil de usar y sencillo de configurar",
+      "Aguanta consola (varios reportan que tira bien la PS3)",
+    ],
+    cons: [
+      "El 4K es soportado, no nativo: la imagen real es HD",
+      "El sonido interno no acompaña, conviene un parlante aparte",
+      "Netflix puede no andar por permisos",
+      "Espejar el celular a veces cuesta y puede pedir adaptador HDMI",
+    ],
+    verdict: "Un HY300 con Android 11 que rinde de sobra para lo que sale, sobre todo a oscuras y con un parlante externo. Buena compra si entrás sabiendo que el 4K es soportado y no nativo.",
+    reviewsSampledAt: "2026-06-16",
+    customerReviews: [
+      {
+        rating: 5, country: "Argentina", date: "2025-04-07", useful: 27,
+        text: "Excelente producto, cumple con las expectativas, fácil de usar, muy sencillo. Lo único que resalto es el sonido, pero con un parlante se resuelve. El tamaño y la calidad de imagen son excelentes. Viene incluido el Magis TV para ver anime, series, películas, televisión y el partido. Recomendado.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2025-04-15", useful: 4,
+        text: "Estoy contento con el producto. No estoy pudiendo hermanar el celular con el proyector para ver imágenes y videos guardados, pero la doble pantalla con YouTube va de maravilla.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2026-02-18", useful: 2,
+        text: "No funciona Netflix, más que nada es una cuestión de permisos. Vendría bien que viniera un adaptador HDMI para el puerto del celular. Más allá de eso, funciona, tiene buena imagen y sonido, mejor de lo esperado.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2026-04-19", useful: 2,
+        text: "Precio/calidad excelente. Es real que el sonido no acompaña, pero vale la pena la compra. Gracias al proveedor por cumplir con el horario de entrega.",
+      },
+      {
+        rating: 5, country: "Argentina", date: "2025-06-19", useful: 2,
+        text: "Se la re banca, tira bien la PS3. Muy bueno.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿Sirve de día o solo a oscuras?",
+        answer: "Se luce a oscuras. Con luz de día pierde fuerza, como todos los mini proyectores de este precio. Los compradores destacan la calidad de imagen, siempre en ambiente oscuro o con la habitación tapada.",
+      },
+      {
+        question: "¿Es 4K real?",
+        answer: "No. El título dice 4K, pero acepta señal 4K sin proyectar en esa resolución: la imagen nativa es HD. Aun así, la calidad para el precio es buena según los compradores.",
+      },
+      {
+        question: "¿Se conecta el celular y Netflix?",
+        answer: "Trae Android 11, WiFi y MagisTV preinstalado. Netflix puede no andar por una cuestión de permisos. Para espejar el celular, la doble pantalla con YouTube funciona bien, aunque para imágenes guardadas a veces cuesta y conviene un adaptador HDMI.",
+      },
+    ],
   },
   {
     id: 'MLA49747515',
