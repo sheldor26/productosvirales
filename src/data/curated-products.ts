@@ -9884,6 +9884,52 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
     pastelColor: 'var(--pastel-coral)',
     description: "Pava Eléctrica Atma Pe0821ap 1.7 litros.\n\nCapacidad de 1.7 Litros: Permite calentar agua para múltiples tazas de té, café o infusiones de manera eficiente.\n\nCorte Automático: El sistema se desactiva al alcanzar el punto de ebullición, evitando el sobrecalentamiento y garantizando seguridad.\n\nTanque ",
     relatedProducts: ['MLA49747515', 'MLA11145436', 'MLA24601443', 'MLA47275624'],
+    pros: [
+      "Precio bajo, de las más económicas de su rango",
+      "Capacidad de 1.7 litros",
+      "Corte automático al hervir",
+      "Calienta rápido y, según los compradores, sin gusto a plástico",
+      "Rating de 4.6 sobre más de 3.700 calificaciones",
+    ],
+    cons: [
+      "No tiene regulador de temperatura: solo hierve y corta",
+      "Cuerpo plástico, no es de acero",
+      "El cable es algo corto para algunos compradores",
+      "Hace algo de ruido al calentar",
+    ],
+    verdict: "Una pava eléctrica simple y barata que hace lo básico bien: hierve rápido y corta sola. No tiene función mate por temperatura, así que es para quien solo quiere agua hervida sin vueltas.",
+    articleBody: `La Atma PE0821AP es una pava eléctrica de 1.7 litros pensada para lo esencial: hervir agua rápido y cortar sola. Con 4.6 de promedio sobre más de 3.700 calificaciones, es una de las opciones económicas con mejor respaldo. No tiene selector de temperatura ni función mate regulada, solo hierve, y para muchos eso es exactamente lo que buscan.
+
+## Capacidad y potencia
+
+Tiene 1.7 litros, suficiente para varias tazas o para llenar el termo. Calienta rápido y cumple sin demoras en el desayuno. Es una pava de cuerpo plástico, lo que la mantiene liviana y barata, aunque no juega en la liga de las de acero inoxidable si eso es lo que te importa.
+
+## Solo hervir, sin regulador de temperatura
+
+Acá conviene ser claro para no comprar esperando lo que no es: este modelo no tiene regulador de temperatura. Es una pava de hervir y cortar. Salta el botón cuando el agua llega al punto de ebullición y se apaga sola. Para mate clásico, té o café preparado con agua hervida funciona perfecto; si lo tuyo es elegir temperatura exacta para distintos tés, este no es el modelo. Un comprador detalla que la tapa es a botón y hay que apretar suave, "no apto para gente brusca".
+
+## Qué dicen los compradores
+
+Lo más repetido es que cumple su función sin drama. Varios destacan que no genera olor ni gusto a plástico, una preocupación común en pavas plásticas. Hace algo de ruido al calentar, aunque la mayoría aclara que no es molesto. Lo crítico que más aparece: el cable queda corto para algunos, que hubieran preferido más largo. También funciona como salvavidas para quien tiene gas envasado y se queda sin garrafa de golpe.
+
+## Para quién sí y para quién no
+
+Sí, si querés una pava eléctrica barata que hierva rápido y corte sola, sin pagar de más por funciones que no vas a usar. No, si necesitás regulador de temperatura para distintos tés o querés acero inoxidable. Para ver más opciones de la marca, está la guía de [pavas eléctricas Atma](/guias/pava-electrica-atma).
+
+## En resumen
+
+La Atma PE0821AP es una pava simple y económica que hace lo básico bien. Si solo querés agua hervida rápido y con corte automático, cumple de sobra. Si buscás control de temperatura, mirá otro modelo.`,
+    faq: [
+      { question: "¿Tiene función mate o regulador de temperatura?", answer: "No. Es una pava de hervir y cortar: salta el botón cuando el agua llega a ebullición y se apaga sola. No permite elegir temperaturas intermedias para distintos tés." },
+      { question: "¿Tiene gusto a plástico?", answer: "Varios compradores aclaran que no genera olor ni gusto a plástico. De todas formas, conviene hervir y descartar agua un par de veces antes del primer uso, como con cualquier pava plástica nueva." },
+      { question: "¿El cable es largo?", answer: "Algunos compradores lo notan algo corto y hubieran preferido más largo. Conviene tener el enchufe cerca de donde la vas a usar." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2022-10-22", text: "Muy conforme, hierve el agua perfectamente, no genera olor ni gusto a plástico. Hace ruido pero no es nada molesto. Lo único malo en mi caso es que el cable me quedó medio corto.", useful: 39 },
+      { rating: 5, country: "Argentina", date: "2024-03-19", text: "Hermosa y cumple su función. No filtra ni gotea, no saltan los tapones y la tapa es con botón, hay que apretar suave, no apto para gente brusca. El modelo es con luz y sin regulador de temperatura. Hierve bien y rápido.", useful: 32 },
+      { rating: 5, country: "Argentina", date: "2024-02-09", text: "Es lo que esperaba. Tengo gas envasado y a veces se termina de noche, ahora no me hago problema porque tengo la pava eléctrica para desayunar, tomar mate y comprar el gas más tarde.", useful: 9 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA11145436',
@@ -10229,6 +10275,51 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "Con la pava eléctrica Peabody PE-KV8215R, disfruta de una bebida caliente en minutos. Prepara mate, café o sopa instantánea con facilidad. Bebidas calientes a la temperatura ideal. Este modelo incorpora un control de temperatura para que cada mate, té o café se prepare de manera óptima. Cuenta con a",
+    pros: [
+      "Diseño vintage de acero inoxidable con termómetro analógico a la vista",
+      "Termómetro incorporado para sacar el agua en el punto exacto",
+      "2200W de potencia",
+      "Buena calidad de materiales según los compradores",
+      "Rating de 4.8 sobre más de 4.400 calificaciones",
+    ],
+    cons: [
+      "Es grande: ocupa bastante lugar en la mesada",
+      "Tarda más en calentar que otras (a cambio de controlar mejor la temperatura)",
+      "El cuerpo de acero se calienta al tacto",
+    ],
+    verdict: "Una pava vintage de acero con termómetro analógico, ideal para quien quiere ver y controlar la temperatura del mate a ojo. Linda y bien valorada, pero grande y más lenta que el promedio.",
+    articleBody: `La Peabody PE-KV8215R es una pava eléctrica vintage de acero inoxidable con un termómetro analógico incrustado, de esos como los de cocina. Con 4.8 de promedio sobre más de 4.400 calificaciones, es de las mejor puntuadas de su categoría. Su propuesta es distinta: en vez de un corte automático por temperatura, te muestra cuántos grados tiene el agua para que la saques en el punto justo a ojo.
+
+## Capacidad y potencia
+
+Es una pava grande, de acero inoxidable, con 2200W de potencia. Varios compradores avisan que es enorme: si tenés una cocina chica, conviene medir antes porque ocupa lugar. El acero le da una estética premium y buena durabilidad, aunque como toda pava de acero el cuerpo se calienta al tacto mientras trabaja.
+
+## El termómetro y la temperatura del mate
+
+Acá está lo que la diferencia. En lugar de elegir un nivel y que corte sola, tiene un termómetro analógico que apunta al agua y te muestra la temperatura en tiempo real. Para el mate es cómodo: mirás el termómetro y la apagás justo antes de que hierva, así no te quemás la yerba. Varios compradores prefieren este sistema al del corte automático, que con el tiempo a veces se rompe y termina hirviendo el agua igual. La contra es que, al estar pensada para controlar la temperatura, calienta más lento. Si andás apurado en el desayuno, ese ritmo pausado puede jugar en contra.
+
+## Qué dicen los compradores
+
+El tono es muy positivo. Destacan el diseño vintage, la calidad de los materiales y que el termómetro es más útil y confiable que el corte automático de otros modelos. Lo crítico que más aparece: el tamaño, varios la describen como muy grande, y que es lenta para calentar. Esa lentitud es a propósito, porque hace más controlable la temperatura, pero conviene tenerlo claro.
+
+## Para quién sí y para quién no
+
+Sí, si te gusta el mate en su punto exacto y querés ver la temperatura a ojo, y tenés lugar en la mesada para una pava grande. No, si necesitás algo compacto o que hierva lo más rápido posible. Para comparar con otros modelos de la marca, está la guía de [pavas eléctricas Peabody](/guias/pava-electrica-peabody).
+
+## En resumen
+
+La Peabody vintage es una pava linda y bien hecha para el matero exigente con la temperatura. El termómetro es su gracia. Tené en cuenta que es grande y más lenta, dos cosas que vienen con el paquete.`,
+    faq: [
+      { question: "¿Cómo funciona el termómetro?", answer: "Tiene un termómetro analógico incrustado que apunta al agua y muestra la temperatura en tiempo real. Mirás los grados y la apagás vos en el punto que querés, ideal para el mate. No depende de un corte automático que puede fallar con el tiempo." },
+      { question: "¿Es muy grande?", answer: "Sí. Varios compradores avisan que es enorme. Si tu cocina o mesada es chica, conviene medir el espacio antes de comprarla." },
+      { question: "¿Por qué tarda más en calentar?", answer: "Está pensada para que controles la temperatura, así que calienta de forma más pausada. A cambio te da margen para sacar el agua en el punto justo, pero si andás apurado en el desayuno conviene saberlo." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2021-12-27", text: "Es grandota pero va como piña. Tiene el termómetro para saber a qué temperatura la sacás. Me resulta más útil que las que tienen corte automático, porque eso siempre termina rompiéndose y te hierve el agua. Recomiendo al 100%.", useful: 184 },
+      { rating: 4, country: "Argentina", date: "2022-06-28", text: "La pava está muy bonita, buena calidad de materiales. Es enorme, si tienen una cocina pequeña no se gasten. Es lenta para calentar, lo que hace controlable la temperatura, pero que no te agarre apurado en el desayuno.", useful: 28 },
+      { rating: 5, country: "Argentina", date: "2023-06-08", text: "Hermosa pava. La puedo apagar cuando llega a la temperatura deseada, y luce hermosa en mi mesada negra.", useful: 17 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA61505857',
@@ -10581,6 +10672,52 @@ A $44.599, la Mateando está en el rango medio del catálogo: más cara que la A
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "Modelo: AP175\nSelector de temperatura regulable: para preparar mate, té, y otras infusiones\n· Capacidad 1,7 litros.\n· Corte automático al hervir.\n· Doble visor del nivel del agua.\n· Luz indicadora de funcionamiento.\n· Base antideslizante, giratoria 360º.\n. Práctico sistema de apertura de tapa con tr",
+    pros: [
+      "Selector de temperatura regulable para mate, té y café",
+      "Capacidad de 1.7 litros, suficiente para una ronda larga de mate",
+      "Corte automático al hervir",
+      "Rating de 4.6 sobre miles de calificaciones",
+      "Silenciosa según varios compradores",
+    ],
+    cons: [
+      "En la posición de mate el agua suele quedar tibia, hay que girar un poco más la perilla",
+      "Cuerpo plástico: no es de las pavas de acero inoxidable",
+      "La manija puede crujir un poco por la terminación",
+    ],
+    verdict: "Una pava eléctrica con función mate y buen precio, que cumple para el mate de todos los días. El detalle a saber: la marca de temperatura para mate queda un poco fría, así que conviene ajustarla a mano.",
+    articleBody: `La Liliana Tempomate AP175 es una pava eléctrica con función mate y selector de temperatura, de las más vendidas en su rango. Con 4.6 de promedio sobre más de 7.000 calificaciones, es de las opciones que más confianza generan en MercadoLibre. La lectura de las reseñas deja una conclusión clara: anda bien y cumple, con un detalle de calibración que conviene conocer antes.
+
+## Capacidad y potencia
+
+Tiene 1.7 litros, que es la capacidad estándar para una pava de uso diario. Alcanza para varias rondas de mate sin tener que recargar todo el tiempo, y también sirve para llenar un termo o preparar varias tazas de té de una. Calienta el agua en pocos minutos según los compradores, sin demoras molestas en el desayuno.
+
+## Función mate y temperatura
+
+Acá está la gracia del modelo y también el punto a tener en cuenta. El selector permite elegir la temperatura para mate, té o café, y corta sola cuando llega. El detalle que repiten varios compradores: en la posición de mate el agua queda un poco tibia. La solución que todos mencionan es la misma, girar la perilla un toque más arriba de la marca de mate y ahí queda en el punto justo. No es un defecto grave, pero conviene saberlo para no frustrarse el primer día.
+
+## Qué dicen los compradores
+
+El tono general es positivo. Destacan que calienta rápido, que es silenciosa y que el corte automático funciona bien. Lo más crítico que aparece es lo de la temperatura de mate baja de fábrica, y algún comentario sobre que la manija cruje un poco por la calidad de la terminación. Al ser de cuerpo plástico, no juega en la liga de las pavas de acero, algo a tener en cuenta si te molesta el posible gusto a plástico nuevo de las primeras usadas.
+
+## Para quién sí y para quién no
+
+Sí, si querés una pava eléctrica con función mate a buen precio y no te molesta calibrar la perilla a tu gusto. No, si buscás una pava de acero inoxidable o necesitás que la marca de mate dé justo sin tener que ajustar nada. Si querés comparar con otros modelos de la marca, mirá la guía de [pavas eléctricas Liliana](/guias/pava-electrica-liliana).
+
+## En resumen
+
+La Tempomate AP175 es una pava eléctrica honesta para el mate diario: calienta rápido, corta sola y tiene buen respaldo de compradores. Lo único, ajustá la temperatura de mate un poco por encima de la marca y vas a estar cómodo.`,
+    faq: [
+      { question: "¿La temperatura de mate queda bien?", answer: "Varios compradores notan que en la posición de mate el agua queda un poco tibia. La solución habitual es girar la perilla un poco más arriba de la marca de mate hasta dar con tu punto." },
+      { question: "¿Es de acero o de plástico?", answer: "Es una pava de cuerpo plástico. No es de las de acero inoxidable. Si te molesta el gusto a plástico nuevo, conviene hervir agua un par de veces y descartarla antes de usarla." },
+      { question: "¿Corta sola cuando hierve?", answer: "Sí, tiene corte automático al llegar a la temperatura seleccionada, una función de seguridad para no dejarla hirviendo si te olvidás." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2020-12-01", text: "Disiento con la mayoría de los comentarios negativos. Cumple su función: se puede seleccionar temperatura, es silenciosa y el cable alcanza. La de mate se regula un poco más caliente que la marca, pero sin problema.", useful: 122 },
+      { rating: 5, country: "Argentina", date: "2024-05-22", text: "Un espectáculo la pavita Liliana. Muy conforme con mi compra, la recomiendo 100x100.", useful: 33 },
+      { rating: 5, country: "Argentina", date: "2024-03-29", text: "Linda pava. Calienta el agua en pocos minutos sin drama. Lo que le critico es que si le ponés la temperatura de mate queda tibio: yo la uso casi al máximo para darle justo. La manija cruje un toque por la terminación.", useful: 10 },
+      { rating: 5, country: "Argentina", date: "2023-11-09", text: "Excelente producto. Buena calidad de los materiales, calienta a la temperatura deseada y corta sola. Muy recomendable.", useful: 5 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA54152343',
@@ -10779,6 +10916,52 @@ A $61.899 es la pava más cara de todas las que están en el sitio. El precio re
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "BEBIDAS CALIENTES A TU GUSTO\n\nPara mejorar el sabor, las bebidas calientes deben prepararse a determinada temperatura. El control que incorpora este modelo permite que cada mate, té o café sea perfecto. Cuando el agua está lista, la pava se apaga automáticamente, lo que también contribuye al ahorro ",
+    pros: [
+      "Control de temperatura para mate, té y café",
+      "Corte automático en todos los niveles, no solo al hervir",
+      "Calienta muy rápido según los compradores",
+      "Filtro en el pico que retiene sarro y mugre",
+      "Rating de 4.7 sobre más de 1.600 calificaciones",
+    ],
+    cons: [
+      "En la marca de mate el agua suele quedar tibia, hay que girar un poco más",
+      "Cuerpo plástico, no es de acero inoxidable",
+      "En color blanco tiende a percudirse con el tiempo",
+    ],
+    verdict: "Una pava eléctrica con función mate que calienta rápido y corta sola en todos los niveles, algo no tan común. Buen respaldo de compradores; solo conviene ajustar la temperatura de mate un poco por encima de la marca.",
+    articleBody: `La Oster BVSTKT4970B es una pava eléctrica con control de temperatura pensada para mate, té y café. Con 4.7 de promedio sobre más de 1.600 calificaciones, es una de las opciones con mejor reputación de su rango. Lo que más destacan quienes la compran: lo rápido que calienta y que corta sola en cualquier nivel de temperatura, no solamente al hervir.
+
+## Capacidad y potencia
+
+Tiene 1.7 litros, la medida estándar para una pava de uso diario. Da para varias rondas de mate o para llenar el termo de una. Varios compradores mencionan que tarda apenas unos segundos en dejar el agua lista para el mate, ideal para quienes trabajan desde casa y la usan tres o cuatro veces por día.
+
+## Función mate y temperatura
+
+El control de temperatura permite elegir el punto para mate, té o café. Una ventaja que destacan los compradores frente a otras pavas: el corte automático actúa en todos los niveles, no solo cuando hierve. Eso suma seguridad si te la olvidás encendida. El detalle a saber es el mismo de casi todas las pavas con función mate: en la marca de mate el agua queda un poco tibia, así que conviene girar la perilla un poquito más arriba hasta dar con tu punto. También trae un filtro en el pico que retiene el sarro para que no caiga al mate o la taza.
+
+## Qué dicen los compradores
+
+El tono es muy positivo. Calienta rápido, parece de mejor calidad que otras que tuvieron antes, y el corte automático en todos los niveles aparece como un plus de seguridad. Lo crítico: la temperatura de mate baja de fábrica y, en la versión blanca, que el cuerpo plástico tiende a percudirse, por eso varios recomiendan el negro. Al ser plástica, no compite con las pavas de acero si eso es lo que buscás.
+
+## Para quién sí y para quién no
+
+Sí, si querés una pava eléctrica con función mate que caliente rápido y corte sola sin tener que estar atento. No, si preferís acero inoxidable o no querés calibrar la perilla a tu gusto. Para ver más modelos de la marca, está la guía de [pavas eléctricas Oster](/guias/pava-electrica-oster).
+
+## En resumen
+
+La Oster BVSTKT4970B es una pava práctica y rápida, con un corte automático más completo que el promedio. Si entrás sabiendo que la marca de mate queda tibia y la ajustás un toque, vas a quedar conforme.`,
+    faq: [
+      { question: "¿Corta sola en cualquier temperatura?", answer: "Sí. A diferencia de muchas pavas que solo cortan al hervir, esta tiene corte automático en todos los niveles de temperatura, lo que suma seguridad si te la olvidás encendida." },
+      { question: "¿La temperatura de mate queda bien?", answer: "Queda un poco tibia en la marca de mate. La solución habitual es girar la perilla un poco más arriba hasta encontrar tu punto." },
+      { question: "¿Conviene el color blanco o el negro?", answer: "Varios compradores recomiendan el negro porque el cuerpo plástico blanco tiende a percudirse con el uso. Es una cuestión estética, no afecta el funcionamiento." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2020-10-15", text: "Muy buena. Tiene corte automático y regulador de temperatura, tanto para mate como para hervir, y un filtro en el pico para que el sarro no caiga en la taza. Tarda unos 30 segundos en calentar.", useful: 81 },
+      { rating: 5, country: "Argentina", date: "2020-10-09", text: "Muy conforme. Para mates es excelente, los hacés en 2 minutos, ideal para los que trabajamos desde casa.", useful: 34 },
+      { rating: 5, country: "Argentina", date: "2022-07-18", text: "Muy buen producto en relación al precio. La elegí en negro porque en blanco está condenada a percudirse. La temperatura para mate queda muy tibia, hay que girar un poquito más la perilla y queda bien.", useful: 6 },
+      { rating: 5, country: "Argentina", date: "2023-10-09", text: "Calienta rápido y parece de mejor calidad que las que tuve. Tiene corte automático en todos los niveles, el resto suele cortar solo en hervor y es peligroso si te la olvidás.", useful: 6 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA8993736',
@@ -10811,6 +10994,52 @@ A $61.899 es la pava más cara de todas las que están en el sitio. El precio re
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "CUATRO TEMPERATURAS PREDEFINIDAS\nPanel de control fácil de usar con ajustes de temperatura ideales para tés verdes, blancos, negros, oolong y mate.\n\nYA NO NECESITAS CALENTAR EL AGUA UNA Y OTRA VEZ\nLa función “mantener caliente” ayuda a mantener el agua a la temperatura elegida por más tiempo, optimi",
+    pros: [
+      "Cuerpo de acero inoxidable, no plástico",
+      "Cuatro temperaturas predefinidas para distintos tés y mate",
+      "Función mantener caliente",
+      "Calienta rápido por el material de acero",
+      "Rating de 4.8 sobre casi 1.600 calificaciones",
+    ],
+    cons: [
+      "El acero se calienta al tacto y se marca fácil con las huellas",
+      "Es un poco ruidosa al calentar",
+      "Al sacarla de la base para cebar se resetea y hay que volver a accionarla",
+    ],
+    verdict: "Una pava eléctrica de acero inoxidable con temperaturas predefinidas y mantener caliente, valorada por la calidad de materiales. Tené en cuenta que se marca con las huellas y que se resetea al sacarla de la base.",
+    articleBody: `La Oster 8970 es una pava eléctrica de acero inoxidable con cuatro temperaturas predefinidas y función mantener caliente. Con 4.8 de promedio sobre casi 1.600 calificaciones, es de las mejor puntuadas de su categoría. Lo que más valoran los compradores es justamente el material: acero en lugar de plástico, algo que se nota tanto en la durabilidad como en la sensación de producto más caro.
+
+## Capacidad y materiales
+
+El gran diferencial frente a las pavas plásticas es el cuerpo de acero inoxidable. Eso le da una estética más prolija y, según varios compradores, una vida útil más larga. El acero también hace que caliente más rápido. La contra del material: se marca fácil con las huellas, así que si sos prolijo vas a pasarle un repasador seguido, y el cuerpo se calienta al tacto mientras trabaja, algo normal en las pavas de acero.
+
+## Función mate y temperatura
+
+Trae cuatro temperaturas predefinidas pensadas para distintos tés y para el mate, más la función mantener caliente, que sostiene el agua en el punto elegido sin tener que recalentar todo el tiempo. Es cómoda para quien toma varias infusiones en el día. Un detalle de uso que mencionan los compradores: al levantar la pava de la base para cebar, el sistema se resetea, así que si el agua se enfría hay que volver a accionar el botón. No es un problema, pero conviene saberlo.
+
+## Qué dicen los compradores
+
+El tono es muy positivo, y casi todos coinciden en lo mismo: los materiales son de lo mejor en pavas eléctricas. La estética "cara" del acero y el detalle de la luz aparecen como puntos a favor. En lo crítico: es un poco ruidosa al calentar, el acero se marca con las huellas y el reseteo al sacarla de la base molesta a algunos. Que se caliente el cuerpo no es defecto, es propio del material.
+
+## Para quién sí y para quién no
+
+Sí, si querés una pava de acero inoxidable que dure y no te molesta limpiarla seguido para que quede impecable. No, si buscás algo silencioso o que no se marque. Para comparar con otros modelos de la marca, está la guía de [pavas eléctricas Oster](/guias/pava-electrica-oster).
+
+## En resumen
+
+La Oster 8970 es una pava de acero bien valorada por calidad de materiales y temperaturas predefinidas. Si te gusta el acero y convivís con que se marque y haga algo de ruido, es una compra sólida.`,
+    faq: [
+      { question: "¿Es de acero o de plástico?", answer: "Es de acero inoxidable, ese es su principal diferencial. Por eso calienta rápido y tiene una vida útil más larga, aunque el cuerpo se caliente al tacto y se marque con las huellas." },
+      { question: "¿Por qué se resetea cuando la saco de la base?", answer: "Es un comportamiento del modelo: al levantarla de la base para cebar, el sistema se apaga. Si el agua se enfría, hay que volver a accionar el botón para recalentar." },
+      { question: "¿Hace mucho ruido?", answer: "Es un poco ruidosa al calentar según varios compradores, en parte por ser de acero. No es molesto para la mayoría, pero es más audible que algunas pavas plásticas." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2024-05-06", text: "Muy bien. Los materiales son de lo mejor en pavas eléctricas porque usa acero inoxidable en vez de plásticos. El detalle de usabilidad es que al retirarla de la base para cebar se resetea, así que hay que accionarla de nuevo.", useful: 135 },
+      { rating: 5, country: "Argentina", date: "2020-07-23", text: "Súper recomendable. La anterior Oster me duró 8 años. Los que dicen que se calienta mucho es porque el material es acero, eso hace que dure muchísimo más y caliente más rápido. El detalle de la luz es bárbaro.", useful: 84 },
+      { rating: 4, country: "Argentina", date: "2024-05-26", text: "Excelente calidad de materiales y muy bonita. El acero la hace linda y de apariencia cara, pero se marca muy fácil: si sos medio obse como yo, todos los días hay que pegarle una repasada.", useful: 18 },
+      { rating: 5, country: "Argentina", date: "2024-02-01", text: "Muy buena, era lo que esperaba. Tiene mucha capacidad y no es aparatosa. Mi esposa feliz, y una esposa feliz son mates ricos.", useful: 15 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA1841302022',
@@ -14061,6 +14290,54 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "FREIDORA DE AIRE DUAL OSTER CON RECUBRIMIENTO DIAMONDFORCE\n\nLa Freidora de aire dual Oster con recubrimiento DiamondForce es una freidora con dos canastas que permite cocinar dos platos independientes al mismo tiempo. Tiene una capacidad de 7,6L en total, y de 3,8L en cada canasta.\n\n¿QUÉ ES OSTER DI",
+    pros: [
+      "Dos canastas para cocinar dos platos distintos al mismo tiempo",
+      "7.6 litros en total (3.8 litros por canasta)",
+      "Recubrimiento antiadherente DiamondForce",
+      "Marca Oster con respaldo",
+      "Rating de 4.7 sobre más de 400 calificaciones",
+    ],
+    cons: [
+      "Es voluminosa: dos canastas ocupan bastante lugar",
+      "Cada canasta es de 3.8 litros, no 7.6: para una sola comida grande puede quedar justa",
+      "Como toda airfryer, puede resecar alimentos magros si te pasás de tiempo",
+    ],
+    verdict: "Una freidora de aire de doble canasta que sirve para cocinar dos cosas a la vez, por ejemplo la guarnición y la proteína juntas. Práctica para familias; tené en cuenta que ocupa lugar y que cada canasta es de 3.8 litros.",
+    articleBody: `La Oster Airfryer Dual de 7.6 litros es una freidora de aire con dos canastas, pensada para cocinar dos platos distintos al mismo tiempo. Tiene 4.7 de promedio sobre más de 400 calificaciones. Su gracia es la doble canasta: mientras en una hacés las papas, en la otra hacés el pollo, y los dos terminan juntos.
+
+## Capacidad y para cuántos
+
+La capacidad total es de 7.6 litros, repartidos en dos canastas de 3.8 litros cada una. Esto es importante para entender el formato: no es un solo compartimento gigante, son dos medianos. Para una familia que cocina una proteína y una guarnición al mismo tiempo es ideal. Si lo que querés es meter una sola preparación grande, cada canasta por separado puede quedarte justa. Como siempre, los litros son el volumen, no exactamente lo que entra de comida.
+
+## Funciones y uso real
+
+La doble canasta es lo que la diferencia: cocinás dos cosas en simultáneo, cada una con su tiempo y temperatura. Eso resuelve el problema clásico de la airfryer de una sola canasta, donde tenés que cocinar de a una cosa por vez. Trae el recubrimiento antiadherente DiamondForce, pensado para que la comida no se pegue y la limpieza sea más fácil. Funciona como toda freidora de aire, con aire caliente que circula para dejar la comida crujiente usando poco o nada de aceite.
+
+## Limpieza y mantenimiento
+
+Al tener dos canastas, son dos piezas para lavar después de cada uso, más sus bandejas. El antiadherente DiamondForce ayuda a que se limpien más fácil. Conviene no rayarlo con utensilios metálicos. Por su tamaño, es de las que más espacio piden para guardar.
+
+## Qué dicen los compradores
+
+Las opiniones disponibles son positivas: la describen como práctica y fácil de usar. Es una base de opiniones más chica que otros modelos, pero el tono es bueno.
+
+## Para quién conviene
+
+Conviene para una familia que quiere cocinar dos cosas a la vez y tiene lugar en la mesada para un aparato grande. No conviene si cocinás para una persona, si tu cocina es chica, o si necesitás un solo compartimento grande en vez de dos medianos. Para más sobre la marca, está el [review de freidoras Oster](/guias/oster-freidoras-de-aire-review).
+
+## En resumen
+
+La Oster Dual de 7.6 litros resuelve bien el cocinar dos platos en simultáneo, algo muy útil para familias. Tené claro que son dos canastas de 3.8 litros y que ocupa lugar.`,
+    faq: [
+      { question: "¿Las dos canastas suman 7.6 litros juntas?", answer: "Sí, la capacidad total es 7.6 litros repartidos en dos canastas de 3.8 litros cada una. No es un solo compartimento grande, son dos medianos que funcionan en paralelo." },
+      { question: "¿Puedo cocinar dos cosas distintas a la vez?", answer: "Sí, esa es su gracia. Cada canasta funciona con su propio tiempo y temperatura, así podés hacer, por ejemplo, las papas en una y el pollo en la otra para que terminen juntos." },
+      { question: "¿Ocupa mucho lugar?", answer: "Sí, al tener dos canastas es voluminosa. Conviene tener espacio en la mesada y para guardarla antes de comprarla." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2024-01-30", text: "Está muy bueno y es práctico.", useful: 0 },
+      { rating: 5, country: "Argentina", date: "2023-12-12", text: "Excelente producto, práctico y fácil de usar.", useful: 0 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA41041543',
@@ -14091,6 +14368,53 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "La Oster Freidora AF40W de 4 litros es la solución perfecta para quienes buscan disfrutar de comidas deliciosas y saludables. Su pantalla táctil digital permite un control intuitivo y preciso de la cocción, mientras que la ventana de visualización y la luz interna garantizan que puedas monitorear tu",
+    pros: [
+      "Ventana de visualización con luz interna para ver la cocción sin abrir",
+      "Pantalla táctil digital fácil de usar",
+      "Tamaño de 4 litros, cómodo para 1 a 3 personas",
+      "Marca conocida con respaldo",
+      "Rating de 4.8 sobre más de 500 calificaciones",
+    ],
+    cons: [
+      "4 litros es justo para familias grandes",
+      "Como toda airfryer, puede resecar alimentos magros si te pasás de tiempo",
+    ],
+    verdict: "Una freidora de aire compacta con la ventaja de la ventana para ver la cocción sin abrir el cajón. Buen tamaño para una o dos personas y marca con respaldo; para familias grandes queda corta.",
+    articleBody: `La Oster AF40W es una freidora de aire digital de 4 litros con una ventaja que no todas tienen: una ventana con luz interna para ver cómo va la cocción sin abrir el cajón. Tiene 4.8 de promedio sobre más de 500 calificaciones. La marca Oster suma confianza, y los compradores destacan lo práctica e intuitiva que resulta.
+
+## Capacidad y para cuántos
+
+Con 4 litros, es una airfryer de tamaño cómodo para una o dos personas, o una familia chica. Un comprador la define como de "tamaño ideal para una familia". Para grupos grandes o para cocinar mucha cantidad de una vez puede quedar justa, pero para el uso cotidiano de pocas porciones está bien dimensionada. Vale la aclaración de siempre: los 4 litros son el volumen del horno, no lo que entra de comida.
+
+## Funciones y uso real
+
+Tiene pantalla táctil digital, que los compradores describen como muy intuitiva, "como los hornitos eléctricos con iconos". La ventana de visualización es su diferencial: con la luz interna podés controlar el dorado sin tener que abrir y perder calor. Funciona como cualquier freidora de aire, cocinando con aire caliente que circula rápido para dejar la comida crujiente usando poco o nada de aceite. Es práctica para quien tiene poco tiempo y quiere algo rápido.
+
+## Limpieza y mantenimiento
+
+La limpieza pasa por la canasta y la bandeja, que conviene lavar después de cada uso. Al ser un modelo de 4 litros, las piezas son manejables y entran cómodas en la pileta. Como con toda airfryer, conviene no usar utensilios que rayen el antiadherente.
+
+## Qué dicen los compradores
+
+Los pocos comentarios disponibles son positivos: práctica, cocción al momento y un tablero intuitivo. Aparece destacada como ideal para quienes tienen tiempo reducido para cocinar. Es una base chica de opiniones todavía, pero el tono es bueno y consistente.
+
+## Para quién conviene
+
+Conviene para una o dos personas, o una familia chica, que valoran ver la cocción sin abrir y prefieren una marca conocida. No conviene si cocinás para muchos seguido, porque 4 litros se queda corto. Para más sobre la marca, está el [review de freidoras Oster](/guias/oster-freidoras-de-aire-review).
+
+## En resumen
+
+La Oster AF40W es una airfryer compacta y práctica, con la ventana como su mejor gracia. Para uso diario de pocas porciones, cumple bien. Si sos familia numerosa, mirá un modelo más grande.`,
+    faq: [
+      { question: "¿Para cuántas personas sirve?", answer: "Por sus 4 litros es cómoda para una o dos personas o una familia chica. Para grupos grandes o mucha cantidad de una vez puede quedar justa." },
+      { question: "¿Para qué sirve la ventana?", answer: "Permite ver cómo va la cocción sin abrir el cajón, gracias a la luz interna. Así controlás el dorado sin perder calor abriendo cada rato." },
+      { question: "¿Es fácil de usar?", answer: "Sí. Los compradores describen la pantalla táctil como muy intuitiva, comparándola con los hornitos eléctricos por los iconos del tablero." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026-05-20", text: "Práctica y al momento. Excelente la freidora de aire Oster, súper recomendable para los que tenemos tiempo reducido para cocinar.", useful: 0 },
+      { rating: 5, country: "Argentina", date: "2026-04-17", text: "Es tal cual lo anunciado, funciona perfecto y el tamaño es ideal para una familia. El menú del tablero es muy intuitivo, como los hornitos eléctricos con iconos.", useful: 0 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA62320294',
@@ -14121,6 +14445,57 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     soldQuantity: 500,
     pastelColor: 'var(--pastel-coral)',
     description: "Te presentamos Ninja CRISPi, la freidora de aire portátil de cristal 4 en 1: el poder de una freidora de aire de tamaño estándar en la palma de tu mano.\n\nSolo tienes que ajustar el ligero PowerPod de 1700 vatios a uno de los recipientes de cristal para preparar desde raciones individuales a comidas ",
+    pros: [
+      "Recipientes de cristal: el vidrio es muy fácil de lavar",
+      "Diseño compacto que se puede guardar en el mismo recipiente",
+      "Calienta rápido y cocina parejo según los compradores",
+      "Silenciosa en uso",
+      "Marca Ninja con muy buen puntaje (4.8)",
+    ],
+    cons: [
+      "Precio alto, de las más caras de su rango",
+      "La base plástica de abajo no se desmonta y cuesta limpiarla bien",
+      "Conviene enchufarla directo a la pared: con zapatilla algunos reportan que se calienta la conexión",
+    ],
+    verdict: "Una freidora de aire premium de cristal, compacta y fácil de guardar, valorada por la cocción pareja y la limpieza del vidrio. El precio es alto y la base plástica cuesta limpiarla, pero el puntaje la respalda.",
+    articleBody: `La Ninja Crispi es una freidora de aire de cristal de 5.2 litros con un enfoque distinto: un PowerPod de 1700W que se acopla a recipientes de vidrio, lo que la hace compacta y fácil de guardar. Tiene 4.8 de promedio sobre más de 100 calificaciones. Es de las opciones premium del rubro, y los compradores valoran la cocción pareja y lo práctico del formato.
+
+## Capacidad y para cuántos
+
+Con 5.2 litros, va bien para 3 o 4 adultos según los compradores. La opción más chica del set permite cocinar porciones individuales sin encender todo. Un punto que destacan: se guarda dentro del mismo recipiente, así que no queda ocupando la mesada permanentemente. Para una pareja o una familia chica está bien dimensionada.
+
+## Funciones y uso real
+
+La gracia es el formato de cristal con el PowerPod que se acopla arriba. Calienta rápido y cocina parejo según las reseñas: empanadas congeladas en unos 10 minutos, milanesas en 10, papas en 13. La cocción uniforme es lo que más mencionan. A diferencia de muchas airfryer con canasta de teflón, acá los recipientes son de vidrio, salvo unas rejillas opcionales. Eso gusta a quien desconfía del antiadherente. Un comprador da un aviso importante de seguridad: conviene enchufarla directo a la pared, porque con zapatilla algunos notaron que se calienta la conexión por el consumo del aparato.
+
+## Limpieza y mantenimiento
+
+Acá hay luces y sombras. La parte de vidrio es muy fácil de lavar, eso lo repiten varios. El problema es la base plástica de abajo, que no se desmonta y cuesta limpiarla bien; algunos la resuelven con un cepillito. Si la limpieza prolija te importa mucho, es el punto a tener en cuenta de este modelo.
+
+## Qué dicen los compradores
+
+El tono es muy positivo. Destacan que calienta rápido, cocina parejo y es silenciosa, además de la calidad de materiales. La crítica más concreta y repetida es la base plástica difícil de limpiar. Varios cierran diciendo que la volverían a elegir sin dudar.
+
+## Para quién conviene
+
+Conviene para una pareja o familia chica que valora la cocción pareja, el vidrio en vez de teflón y poder guardarla compacta, y que no le pesa el precio premium. No conviene si buscás lo más barato o te molesta que la base no se desmonte. Para más detalle, está el [review de la Ninja Crispi](/guias/ninja-crispi-review).
+
+## En resumen
+
+La Ninja Crispi es una airfryer premium bien resuelta: cocina parejo, el vidrio se lava fácil y se guarda compacta. Pagás más y convivís con una base plástica engorrosa, pero la mayoría la recompraría.`,
+    faq: [
+      { question: "¿Tiene teflón?", answer: "Los recipientes principales son de cristal, no de teflón. Solo unas rejillas opcionales tienen antiadherente. Por eso gusta a quien prefiere evitar el teflón en el contacto con la comida." },
+      { question: "¿Es fácil de limpiar?", answer: "La parte de vidrio se lava muy fácil. El punto flojo es la base plástica de abajo, que no se desmonta y cuesta limpiarla bien; algunos usan un cepillito para llegar." },
+      { question: "¿Hay que enchufarla de alguna forma especial?", answer: "Un comprador recomienda enchufarla directo a la pared y no a una zapatilla, porque por el consumo del aparato algunos notaron que se calienta la conexión. Es un dato de seguridad a tener en cuenta." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2026-02-07", text: "Superó mis expectativas. Calienta rápido, cocina pareja y los alimentos quedan crujientes por fuera y jugosos por dentro. Muy práctica y fácil de limpiar. La calidad del material es excelente, se nota durable. La uso todos los días.", useful: 11 },
+      { rating: 5, country: "Argentina", date: "2026-01-15", text: "Compacta y buen diseño. Anda súper rápido y silenciosa. Empanadas congeladas 10 min, milanesas 10 min, papas fritas 13 min. Lo mejor es que se puede guardar y no estar instalada sobre la mesada.", useful: 9 },
+      { rating: 5, country: "Argentina", date: "2025-12-30", text: "Tamaño pequeño, como para 3-4 adultos. Se puede guardar en el mismo recipiente. No tiene teflón salvo unas rejillas opcionales. No se sacan algunas partes y dificulta limpiarlo, con un cepillito habría que llegar. Por ahora nos gustó.", useful: 8 },
+      { rating: 5, country: "Argentina", date: "2026-04-08", text: "Al primer uso, papitas a 25 min en opción freír con aire, quedaron súper bien. Aviso: se debe colocar el enchufe directo a la pared porque si no te derrite la conexión.", useful: 7 },
+      { rating: 5, country: "Argentina", date: "2026-04-23", text: "Cocción uniforme, rápido y realmente inigualable. La parte de vidrio es muy fácil de lavar, pero el plástico de abajo no se saca y dificulta lavarlo. Si tuviera que volver a elegir, la vuelvo a elegir sin dudas.", useful: 6 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA36974228',
@@ -14152,6 +14527,56 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "DETALLE DEL PRODUCTO:\n\nCrea platillos para toda la familia rápido y fácil con la freidora de aire con tecnología Vortex para resultados deliciosamente crujientes. Crea comidas completas en dos niveles de cocción con la bandeja para freír y asar. Recibirás notificación de agitar la cesta. Con tecnolo",
+    pros: [
+      "Tecnología Vortex con 10 funciones",
+      "Avisa cuándo agitar la cesta y cuándo terminó la cocción",
+      "Cocina rápido: papas en unos 18 minutos según los compradores",
+      "Tamaño compacto (alrededor de 24 cm por lado)",
+      "Rating de 4.8 sobre más de 3.000 calificaciones",
+    ],
+    cons: [
+      "Con la rejilla que divide, lo de abajo puede quedar crudo si cocinás en dos niveles a la vez",
+      "3.8 litros queda justo para familias grandes",
+      "Como toda airfryer, puede resecar alimentos magros si te pasás de tiempo",
+    ],
+    verdict: "Una freidora de aire compacta y rápida, con buenas notificaciones de cocción y muy buen puntaje. El detalle a saber: cocinar en sus dos niveles a la vez no funciona tan bien como promete, lo de abajo tiende a quedar crudo.",
+    articleBody: `La PowerXL de 3.8 litros con tecnología Vortex y 10 funciones es una de las freidoras de aire más vendidas y mejor puntuadas de su rango. Tiene 4.8 de promedio sobre más de 3.000 calificaciones. Lo que más valoran los compradores es lo rápida y práctica que es, y que avisa cuándo agitar la cesta y cuándo terminó.
+
+## Capacidad y para cuántos
+
+Con 3.8 litros, es una airfryer compacta. Un comprador pasó las medidas exactas: alrededor de 24 cm de alto, ancho y profundidad, o sea que no ocupa mucho lugar. Para una o dos personas o una familia chica está bien; para grupos grandes o mucha cantidad de una vez queda justa. Como siempre, los litros son el volumen del horno, no lo que entra de comida.
+
+## Funciones y uso real
+
+Trae 10 funciones preseteadas y la tecnología Vortex de circulación de aire. Lo que más gusta es que te avisa cuándo dar vuelta o agitar la comida y vuelve a sonar cuando terminó la cocción, así no estás adivinando. Es rápida: papas listas en unos 18 minutos. Acá viene la advertencia honesta más importante de este modelo: viene con una rejilla que divide para cocinar en dos niveles, pero varios compradores avisan que no funciona bien. Si ponés algo abajo y algo arriba, lo de abajo queda crudo y tenés que sacar lo de arriba para que termine. En la práctica, conviene usarla de a un nivel.
+
+## Limpieza y mantenimiento
+
+La canasta y la bandeja se lavan después de cada uso. Al ser un modelo compacto, las piezas son chicas y manejables. Conviene no rayar el antiadherente con utensilios metálicos.
+
+## Qué dicen los compradores
+
+El tono es muy positivo. Destacan que ahorra tiempo, que casi no deja olor ni calienta el ambiente, y que avisa los pasos de cocción. Quien la llevó de camping valora lo fácil que es de usar. La crítica concreta y repetida: la promesa de cocinar dos cosas a la vez en los dos niveles no se cumple del todo.
+
+## Para quién conviene
+
+Conviene para una o dos personas que quieren algo rápido, compacto y con buenas notificaciones de cocción. No conviene si pensabas usar los dos niveles en simultáneo, porque ahí decepciona, o si cocinás para muchos seguido. Para más sobre la marca, está el [review de freidora PowerXL](/guias/powerxl-freidora-review).
+
+## En resumen
+
+La PowerXL es una airfryer rápida, compacta y bien puntuada, ideal para uso de pocas porciones. Si la usás de a un nivel está muy bien; no cuentes con cocinar arriba y abajo a la vez.`,
+    faq: [
+      { question: "¿Sirve para cocinar dos cosas a la vez en los dos niveles?", answer: "En la práctica no del todo. Varios compradores avisan que si ponés algo abajo y algo arriba, lo de abajo queda crudo. Conviene usarla de a un nivel para resultados parejos." },
+      { question: "¿Avisa cuándo dar vuelta la comida?", answer: "Sí. Te avisa cuándo agitar o dar vuelta la cesta y vuelve a sonar cuando terminó la cocción, lo que la hace cómoda de usar sin estar pendiente." },
+      { question: "¿Cuánto mide?", answer: "Es compacta, alrededor de 24 cm de alto, ancho y profundidad según un comprador. No ocupa mucho lugar en la mesada." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2024-11-01", text: "Muy práctica. Paso medidas exactas porque no las tiene: 24 cm de alto, 24 de profundidad y 24 de ancho.", useful: 148 },
+      { rating: 4, country: "Argentina", date: "2024-11-25", text: "Después de un mes, sí me ahorra tiempo. La compré por la rejilla que divide para cocinar dos cosas a la vez, pero no es así: lo de abajo queda crudo y tenés que sacar lo de arriba para que termine.", useful: 65 },
+      { rating: 5, country: "Argentina", date: "2024-10-19", text: "Muy práctica, cocina todo en minutos, podés descongelar, calentar y freír, cero olor en el ambiente y cero calor.", useful: 52 },
+      { rating: 5, country: "Argentina", date: "2025-10-29", text: "Súper recomendada. Al principio tenía un poco de miedo pero es tal cual la foto. Lo primero que hice fueron alitas y pechuga, muy ricas. Te avisa cuándo dar vuelta y vuelve a sonar cuando termina la cocción.", useful: 22 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA42113760',
@@ -14183,6 +14608,56 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-coral)',
     description: "Producto: Freidora de Aire Kanji 8 Litros KJH-1700DC 1700W 12 Funciones\n\n¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\nEspecificaciones técnicas: \n- Marca : Kanji\n- Modelo : KJH-1700DC /AFR-1701\n- EAN : 7273731534608 \n- Potencia: 1700W\n- Capacidad: 8 litros\n- Control digital\n- 12 funciones automátic",
+    pros: [
+      "Capacidad grande de 8 litros, cocina para 4 a 6 personas",
+      "1700W y control digital con funciones automáticas",
+      "Fácil de usar y de limpiar según los compradores",
+      "Buena relación precio-calidad",
+      "Rating de 4.8 sobre casi 3.000 calificaciones",
+    ],
+    cons: [
+      "La rejilla no retiene líquidos: para budines o mezclas líquidas hay que usar moldes",
+      "8 litros ocupa lugar en la mesada",
+      "Las funciones preseteadas son solo tiempo y temperatura, nada que no puedas poner a mano",
+    ],
+    verdict: "Una freidora de aire grande con muy buena relación precio-calidad, fácil de usar y de limpiar. Anda como un mini horno o parrilla; el único pero es que con la rejilla no podés hacer nada líquido sin un molde.",
+    articleBody: `La Kanji Home de 8 litros es una freidora de aire grande, con 1700W y control digital. Tiene 4.8 de promedio sobre casi 3.000 calificaciones, en la franja alta de su categoría. Lo que más repiten los compradores es la relación precio-calidad y lo fácil que es de usar y de limpiar.
+
+## Capacidad y para cuántos
+
+Con 8 litros es de las grandes del rango. Un comprador dice que cocina sin problema para 4 personas y permite hacer budines o cosas completas. Para una familia o para quien recibe gente, esa capacidad evita andar haciendo tandas. La aclaración de siempre: los 8 litros son el volumen del horno, no lo que entra de comida, pero igual admite cargas generosas.
+
+## Funciones y uso real
+
+Trae control digital con 12 funciones preseteadas. Un comprador da un consejo honesto: si querés ahorrar, no hace falta pagar por las funciones, porque no son más que tiempo y temperatura ya cargados, algo que podés poner vos mismo. Más allá de eso, varios la describen no tanto como freidora sino como un mini horno o parrilla a gas: marinás carnes y verduras con un poco de aceite y salen sabrosas y rápidas. El detalle de uso a saber: la rejilla no retiene líquidos, así que para budines, mezclas o cualquier cosa que empiece líquida tenés que usar moldes de silicona, papel o metal sin rayar el antiadherente.
+
+## Limpieza y mantenimiento
+
+La limpieza es uno de sus puntos fuertes: varios compradores la destacan como fácil de limpiar. La canasta y la rejilla se lavan después de cada uso. Al ser un modelo de 8 litros, las piezas son más grandes, algo a tener en cuenta para guardarla y lavarla.
+
+## Qué dicen los compradores
+
+El tono es muy positivo. Destacan que es fácil de usar, fácil de limpiar y que rinde para varias personas. Quienes la probaron con carnes y verduras se sorprenden con el sabor. La crítica más concreta es la rejilla que no permite cocinar nada líquido sin molde.
+
+## Para quién conviene
+
+Conviene para una familia o grupo que quiere capacidad y buen precio, y que va a cocinar sobre todo cosas sólidas como papas, carnes y verduras. No conviene si tu cocina es chica o si pensabas hacer muchas preparaciones líquidas sin moldes. Para más sobre la marca, está el [review de la Kanji Home](/guias/kanji-home-freidora-review).
+
+## En resumen
+
+La Kanji Home de 8 litros es una airfryer grande con muy buena relación precio-calidad, fácil de usar y de limpiar. Funciona como un mini horno; solo recordá usar moldes para lo líquido.`,
+    faq: [
+      { question: "¿Para cuántas personas alcanza?", answer: "Por sus 8 litros sirve para 4 a 6 personas. Un comprador la usa sin problema para 4 y hace budines y comidas completas. Recordá que los litros son el volumen del horno, no la cantidad exacta de comida." },
+      { question: "¿Puedo hacer budines o cosas líquidas?", answer: "Sí, pero con molde. La rejilla no retiene líquidos, así que para budines o mezclas líquidas hay que usar un molde de silicona, papel o metal sin rayar el antiadherente." },
+      { question: "¿Vale la pena pagar por las funciones automáticas?", answer: "Un comprador aclara que las funciones son solo tiempo y temperatura ya cargados, nada que no puedas poner a mano. Si querés ahorrar, podés manejarla en modo manual sin perder nada." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2024-11-19", text: "Recomiendo, funciona bárbaro y el precio está muy bien. Si quieren ahorrar más, no gasten en una con funciones, porque no es más que tiempo y temperatura preseteados, nada que no puedan poner ustedes mismos.", useful: 108 },
+      { rating: 5, country: "Argentina", date: "2024-11-29", text: "Lo recibí hoy y en 30 minutos cociné para 6 personas. Hasta ahora excelente, impecable.", useful: 99 },
+      { rating: 4, country: "Argentina", date: "2025-01-15", text: "Muy bueno, fácil de usar. Sirve para cocinar para 4 o hacer budines y cosas completas. No me gusta el tema de la rejilla porque no permite hacer nada líquido, tenés que usar moldes de silicona, papel o metal sin rayar el antiadherente.", useful: 85 },
+      { rating: 5, country: "Argentina", date: "2025-02-10", text: "Fácil de usar y limpiar. Probé pollo, bifes, solomillo con boniato, morrones y verduras. Funciona como un horno o parrilla a gas. Mariné con apenas aceite, muy sabroso y rápido. La recomiendo.", useful: 50 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA44142280',
@@ -14213,6 +14688,45 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "Cocina saludable y sin esfuerzo\nLa Freidora de Aire Gadnic 8067 te permite disfrutar de tus comidas favoritas con hasta un 85% menos de grasa, gracias a su tecnología de circulación rápida de aire caliente que cocina de manera uniforme y sin necesidad de aceite. Ideal para preparar desde papas frita",
+    pros: [
+      "Capacidad de 6.5 litros, cómoda para una familia",
+      "Temperatura regulable de 80 a 200 grados",
+      "Temporizador de hasta 60 minutos",
+      "Incluye pinza para retirar la comida",
+      "Rating de 4.8 en MercadoLibre",
+    ],
+    cons: [
+      "1400W: algo menos de potencia que modelos de 1700W",
+      "6.5 litros ocupa lugar en la mesada",
+      "Como toda airfryer, puede resecar alimentos magros si te pasás de tiempo",
+    ],
+    verdict: "Una freidora de aire de buen tamaño con temperatura regulable, temporizador largo y pinza incluida. Buen puntaje y especificaciones claras; tené en cuenta que con 1400W es un poco menos potente que los modelos de gama más alta.",
+    articleBody: `La Gadnic de 6.5 litros es una freidora de aire de tamaño familiar, con temperatura regulable de 80 a 200 grados y temporizador de hasta 60 minutos. Tiene 4.8 de promedio en MercadoLibre. Su propuesta es directa: cocinar con hasta un 85% menos de grasa usando aire caliente, con controles simples y una pinza incluida para sacar la comida.
+
+## Capacidad y para cuántos
+
+Con 6.5 litros entra en la franja cómoda para una familia: alcanza para cocinar cantidad sin tener que hacer varias tandas. La aclaración de siempre vale acá también: los litros son el volumen del horno, no exactamente lo que entra de comida. Aun así, es un tamaño práctico para el uso de todos los días en una casa con varios.
+
+## Funciones y uso real
+
+La temperatura va de 80 a 200 grados, lo que da margen para distintas cocciones, desde deshidratar suave hasta dorar fuerte. El temporizador llega a 60 minutos, suficiente para preparaciones largas. Tiene 1400W, un poco menos que los modelos de 1700W, así que puede tardar algo más en cargas grandes, pero para el uso normal cumple. La pinza incluida es un detalle útil para retirar la comida sin quemarte. Funciona como cualquier freidora de aire: el aire caliente circula rápido y deja la comida crujiente por fuera con poco o nada de aceite.
+
+## Limpieza y mantenimiento
+
+La limpieza pasa por la canasta y la bandeja, que conviene lavar después de cada uso para que no se acumule grasa. Como con toda airfryer, conviene no rayar el antiadherente con utensilios metálicos y usar la pinza o algo de plástico o madera.
+
+## Para quién conviene
+
+Conviene para una familia que busca una airfryer de buen tamaño con controles claros y temperatura regulable, a un precio accesible. No conviene si querés la máxima potencia para cargas muy grandes o si tu cocina es muy chica. Para ver más sobre la marca, está el [review de la freidora Gadnic](/guias/gadnic-freidora-review).
+
+## En resumen
+
+La Gadnic de 6.5 litros es una freidora de aire familiar bien dimensionada, con temperatura regulable, temporizador largo y pinza incluida. Para el uso cotidiano de una casa cumple; si necesitás máxima potencia, mirá un modelo de 1700W.`,
+    faq: [
+      { question: "¿Para cuántas personas alcanza?", answer: "Por sus 6.5 litros es cómoda para una familia y permite cocinar cantidad sin hacer varias tandas. Recordá que los litros son el volumen del horno, no la cantidad exacta de comida que entra." },
+      { question: "¿Qué temperatura alcanza?", answer: "La temperatura es regulable de 80 a 200 grados, con un temporizador de hasta 60 minutos. Eso da margen para distintas cocciones, desde las suaves hasta el dorado fuerte." },
+      { question: "¿Tiene mucha potencia?", answer: "Tiene 1400W, un poco menos que los modelos de 1700W. Para el uso normal cumple bien; en cargas muy grandes puede tardar algo más que un modelo más potente." },
+    ],
   },
   {
     id: 'MLA54106293',
@@ -14243,6 +14757,44 @@ Si querés optimizar precio-funcionalidad, la [HD9280/90](/producto/MLA19630913)
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "SKU: HOG0360NEG  \nAirFryer Digital Suono 10L con Doble Resistencia – Potencia, Capacidad y Versatilidad  \n\nLa AirFryer Digital Suono de 10 litros es el electrodoméstico ideal para quienes buscan cocinar de forma más saludable y práctica. Con su sistema de convección de aire caliente y doble resisten",
+    pros: [
+      "Capacidad grande de 10 litros, de las más amplias de su rango",
+      "Doble resistencia para una cocción más pareja",
+      "12 programas y control digital",
+      "Rating de 4.8 en MercadoLibre",
+    ],
+    cons: [
+      "10 litros ocupa bastante lugar en la mesada",
+      "Los 10 litros son el volumen total del horno, no la canasta de comida",
+      "Como toda freidora de aire, puede resecar algunos alimentos magros",
+    ],
+    verdict: "Una airfryer de gran capacidad con doble resistencia y control digital, pensada para familias o para quien cocina cantidad. Tené en cuenta que 10 litros ocupa lugar y que la capacidad real de comida es menor al número nominal.",
+    articleBody: `La Suono Digital de 10 litros es una freidora de aire grande, con doble resistencia y 12 programas. Tiene 4.8 de promedio en MercadoLibre, dentro de la franja alta de su categoría. Su propuesta es clara: capacidad y versatilidad para quien cocina para varios y no quiere andar haciendo tandas.
+
+## Capacidad y para cuántos
+
+Los 10 litros la ubican entre las airfryer más grandes del rango. Para una familia o para quien recibe gente seguido, esa capacidad permite cocinar cantidad de una sola vez. Acá conviene una aclaración honesta: los litros nominales son el volumen total del horno, no lo que entra de comida. Una airfryer de 10 litros no cocina el doble de papas que una de 5, porque parte de ese espacio es aire que necesita circular. Aun así, es de las que más comida real admiten en una tanda.
+
+## Funciones y uso real
+
+Trae doble resistencia, que ayuda a que el calor llegue más parejo, y control digital con 12 programas preseteados. Los programas son básicamente combinaciones de tiempo y temperatura que ya vienen cargadas; podés usarlos o ajustar a mano. No esperes magia de los preajustes: son una comodidad, no un cambio de resultado. La gracia de cualquier freidora de aire es la misma, cocinar con aire caliente que circula rápido y dejar los alimentos crujientes por fuera usando poco o nada de aceite.
+
+## Limpieza y mantenimiento
+
+Como toda airfryer, la limpieza pasa por la canasta y la bandeja. Conviene lavarlas después de cada uso para que no se acumule grasa, sobre todo en cocciones con bastante aceite o adobo. En modelos grandes como este, las piezas son más voluminosas, algo a tener en cuenta a la hora de guardarlo y lavarlo.
+
+## Para quién conviene
+
+Conviene si cocinás para una familia o grupo y querés capacidad de sobra en una sola tanda. No conviene si vivís solo o tenés una cocina chica, porque vas a estar moviendo un aparato grande para cocinar poco. Para ver más sobre la marca, está el [review de airfryer Suono](/guias/suono-airfryer-review).
+
+## En resumen
+
+La Suono de 10 litros es una freidora de aire pensada para volumen, con doble resistencia y buen puntaje. Si necesitás capacidad y tenés lugar, cumple. Si cocinás para una o dos personas, una más chica te va a resultar más cómoda.`,
+    faq: [
+      { question: "¿Para cuántas personas alcanza?", answer: "Por sus 10 litros es de las más grandes de su rango y sirve para familias o grupos. Recordá que los litros son el volumen total del horno, no la cantidad exacta de comida que entra, pero igual admite tandas grandes." },
+      { question: "¿Qué hace la doble resistencia?", answer: "Ayuda a que el calor llegue más parejo a los alimentos, para una cocción más uniforme. Es una ventaja frente a modelos de una sola resistencia, sobre todo en cargas grandes." },
+      { question: "¿Reseca la comida?", answer: "Como toda freidora de aire, puede resecar alimentos magros si te pasás de tiempo. Conviene controlar la cocción y, en cortes secos, usar un poco de aceite o adobo." },
+    ],
   },
   {
     id: "MLA24605489",
