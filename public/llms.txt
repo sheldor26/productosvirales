@@ -1,13 +1,12 @@
 # ProductosVirales.com.ar
 
 ## About
-ProductosVirales is a curated product discovery platform for MercadoLibre Argentina. We showcase trending and viral products, publish buying guides with honest comparisons, and help Argentine consumers find the best deals on products that are popular on TikTok and social media.
+ProductosVirales is a curated product discovery platform for MercadoLibre Argentina. We publish in-depth, honest buying guides and individual product reviews (with real ARS prices, pros/cons, specs and FAQs) for products that go viral on TikTok and social media. Every recommendation includes cons, not just pros, and an affiliate disclosure.
 
 ## Content Types
-- Product pages: Individual product reviews with prices, pros/cons, specs, and FAQ
-- Buying guides: In-depth comparisons (e.g., "Best massagers in Argentina 2026")
-- Category pages: Curated collections by category (Home, Kitchen, Beauty, Tech)
-- Trending page: Products currently trending on MercadoLibre and TikTok
+- Buying guides: cluster pillars and comparisons (e.g. "Best air fryers in Argentina 2026", "Atma vs Peabody air fryer")
+- Product pages: individual reviews with price, rating, specs, real customer reviews and FAQ
+- Category pages: curated collections (Hogar, Cocina, Tech, Belleza)
 
 ## Categories
 - Hogar: https://productosvirales.com.ar/categoria/hogar
@@ -15,30 +14,94 @@ ProductosVirales is a curated product discovery platform for MercadoLibre Argent
 - Tech: https://productosvirales.com.ar/categoria/tech
 - Belleza: https://productosvirales.com.ar/categoria/belleza
 
-## Key Guides
-- Masajeadores: https://productosvirales.com.ar/guias/mejores-masajeadores-argentina
-- Pavas eléctricas: https://productosvirales.com.ar/guias/pava-electrica-mercadolibre
-- Freidoras de aire: https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina
-- Dónde comprar masajeador: https://productosvirales.com.ar/guias/masajeador-donde-comprar-argentina
-
 ## Perfumes Árabes (Lattafa, Afnan, Rasasi, Armaf)
-- Yara Lattafa guía completa: https://productosvirales.com.ar/guias/yara-lattafa-guia-completa
-- Mejores perfumes árabes para hombre: https://productosvirales.com.ar/guias/mejores-perfumes-arabes-hombre
-- Perfumes árabes para mujer: https://productosvirales.com.ar/guias/perfumes-arabes-mujer
-- Perfumes árabes amaderados (oud, sándalo): https://productosvirales.com.ar/guias/perfumes-arabes-amaderados
-- Precios perfumes árabes Argentina: https://productosvirales.com.ar/guias/perfumes-arabes-precio-argentina
+- Yara Lattafa: Elixir, Tous y cuál comprar (2026): https://productosvirales.com.ar/guias/yara-lattafa-guia-completa
+- Mejores perfumes árabes de hombre: top 15 Argentina 2026: https://productosvirales.com.ar/guias/mejores-perfumes-arabes-hombre
+- Perfumes árabes precio 2026: comparativa por marca Argentina: https://productosvirales.com.ar/guias/perfumes-arabes-precio-argentina
+- Perfumes árabes amaderados: top 10 con oud y madera: https://productosvirales.com.ar/guias/perfumes-arabes-amaderados
+- Perfumes árabes para mujer: las 12 mejores fragancias 2026: https://productosvirales.com.ar/guias/perfumes-arabes-mujer
+- Perfumes árabes Argentina 2026: la guía completa para empezar: https://productosvirales.com.ar/guias/perfumes-arabes
+- Perfumes árabes originales: cómo reconocerlos en Argentina: https://productosvirales.com.ar/guias/perfumes-arabes-originales
+- Dónde comprar perfumes árabes en Argentina 2026: guía: https://productosvirales.com.ar/guias/donde-comprar-perfumes-arabes-argentina
+- Lattafa: guía completa de la marca árabe más vendida (2026): https://productosvirales.com.ar/guias/lattafa-guia-marca
+- Perfumes árabes por color: rosa, dorado, azul y más (2026): https://productosvirales.com.ar/guias/perfumes-arabes-por-color
+- Perfumes árabes dupes: qué imita cada uno (2026): https://productosvirales.com.ar/guias/perfumes-arabes-dupes
+- Perfumes árabes más vendidos en Argentina (2026): https://productosvirales.com.ar/guias/perfumes-arabes-mas-vendidos-argentina
+- Lattafa Asad: Intense vs Bourbon vs Negro (2026): https://productosvirales.com.ar/guias/lattafa-asad-comparativa
+- Dónde comprar perfumes árabes en Buenos Aires (2026): https://productosvirales.com.ar/guias/donde-comprar-perfumes-arabes-buenos-aires
+
+## Freidoras de Aire / Airfryer
+- Atma vs peabody freidora de aire: https://productosvirales.com.ar/guias/atma-vs-peabody-freidora-de-aire
+- Freidoras de aire con grill argentina: https://productosvirales.com.ar/guias/freidoras-de-aire-con-grill-argentina
+- Freidoras de aire gran capacidad: https://productosvirales.com.ar/guias/freidoras-de-aire-gran-capacidad
+- Mejores freidoras de aire doble canasta: https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-doble-canasta
+- Mejores freidoras de aire economicas argentina: https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-economicas-argentina
+- Ninja vs philips freidora de aire: https://productosvirales.com.ar/guias/ninja-vs-philips-freidora-de-aire
+- Accesorios para freidora de aire: https://productosvirales.com.ar/guias/accesorios-para-freidora-de-aire
+- Como usar una freidora de aire: https://productosvirales.com.ar/guias/como-usar-una-freidora-de-aire
+- Cuanto consume freidora de aire: https://productosvirales.com.ar/guias/cuanto-consume-freidora-de-aire
+- Recetas freidora de aire: https://productosvirales.com.ar/guias/recetas-freidora-de-aire
+- Mejores freidoras de aire argentina: https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina
+- Atma freidoras de aire review: https://productosvirales.com.ar/guias/atma-freidoras-de-aire-review
+- Gadnic freidora review: https://productosvirales.com.ar/guias/gadnic-freidora-review
+- Kanji home freidora review: https://productosvirales.com.ar/guias/kanji-home-freidora-review
+- Ninja crispi review: https://productosvirales.com.ar/guias/ninja-crispi-review
+- Oster freidoras de aire review: https://productosvirales.com.ar/guias/oster-freidoras-de-aire-review
+- Peabody freidoras de aire review: https://productosvirales.com.ar/guias/peabody-freidoras-de-aire-review
+- Philips freidoras de aire review: https://productosvirales.com.ar/guias/philips-freidoras-de-aire-review
+
+## Masajeadores
+- Dónde comprar un masajeador en Argentina (2026) - Opciones reales y precios: https://productosvirales.com.ar/guias/masajeador-donde-comprar-argentina
+- Mejores masajeadores en Argentina (2026) - Comparativa honesta con precios: https://productosvirales.com.ar/guias/mejores-masajeadores-argentina
+- Masajeador cervical: los mejores en Argentina (2026) - Comparativa real: https://productosvirales.com.ar/guias/masajeador-cervical
+- Masajeador facial: cuáles funcionan y cuáles son puro marketing (2026): https://productosvirales.com.ar/guias/masajeador-facial
+- Masajeador de espalda: comparativa real en Argentina (2026): https://productosvirales.com.ar/guias/masajeador-espalda
+- Masajeador de pies: cuál comprar en Argentina (2026): https://productosvirales.com.ar/guias/masajeador-pies
+- Pistola masajeadora: comparativa y precios en Argentina 2026: https://productosvirales.com.ar/guias/pistola-masajeadora
+- Masajeador de espalda y cuello: comparativa en Argentina 2026: https://productosvirales.com.ar/guias/masajeador-espalda-cuello
+- Masajeador eléctrico: guía de tipos y precios en Argentina 2026: https://productosvirales.com.ar/guias/masajeador-electrico
+- Masajeador: guía de tipos, usos y cómo elegir en Argentina: https://productosvirales.com.ar/guias/masajeador
+
+## Pavas Eléctricas
+- Pava Eléctrica Philips: ¿Vale La Pena? Guía 2026: https://productosvirales.com.ar/guias/pava-electrica-philips
+- Pava Eléctrica Atma: Guía Completa 2026 (+ Modelo CORRECTO): https://productosvirales.com.ar/guias/pava-electrica-atma
+- Pava Eléctrica Precio Argentina 2026: Guía Por Rango: https://productosvirales.com.ar/guias/pava-electrica-precio
+- Pava Eléctrica MercadoLibre: Guía Para No Equivocarte: https://productosvirales.com.ar/guias/pava-electrica-mercadolibre
+- Pava Eléctrica Peabody: ¿Vale La Pena? Guía 2026: https://productosvirales.com.ar/guias/pava-electrica-peabody
+- Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar? (2026): https://productosvirales.com.ar/guias/pava-electrica-liliana
+- Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?: https://productosvirales.com.ar/guias/pava-electrica-oster
+- Pava Eléctrica con Control de Temperatura: ¿Cuál Comprar en 2026?: https://productosvirales.com.ar/guias/pava-electrica-control-temperatura
+- Pava Eléctrica de Vidrio: ¿Cuál Comprar en 2026?: https://productosvirales.com.ar/guias/pava-electrica-vidrio
+- Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?: https://productosvirales.com.ar/guias/pava-electrica-acero-inoxidable
+
+## Robots Aspiradora
+- Robot aspiradora: https://productosvirales.com.ar/guias/robot-aspiradora
+- Mejores robot aspiradora trapeadora: https://productosvirales.com.ar/guias/mejores-robot-aspiradora-trapeadora
+- Robot aspiradora precio argentina: https://productosvirales.com.ar/guias/robot-aspiradora-precio-argentina
+- Robot aspiradora xiaomi: https://productosvirales.com.ar/guias/robot-aspiradora-xiaomi
+- Robot aspiradora gadnic: https://productosvirales.com.ar/guias/robot-aspiradora-gadnic
+- Robot aspiradora con mapeo laser: https://productosvirales.com.ar/guias/robot-aspiradora-con-mapeo-laser
+- Como funciona robot aspiradora: https://productosvirales.com.ar/guias/como-funciona-robot-aspiradora
+- Mejor aspiradora robot: https://productosvirales.com.ar/guias/mejor-aspiradora-robot
+- Roomba en Argentina 2026: comparativa de modelos y precios reales: https://productosvirales.com.ar/guias/robot-aspiradora-roomba
+- Robot aspiradora Samsung en Argentina: qué hay y qué cuesta: https://productosvirales.com.ar/guias/robot-aspiradora-samsung
+- Robot aspiradora atma: https://productosvirales.com.ar/guias/robot-aspiradora-atma
+- Aspiradora robot gadnic vs xiaomi: https://productosvirales.com.ar/guias/aspiradora-robot-gadnic-vs-xiaomi
+
+## Cafeteras
+- Cafetera express: https://productosvirales.com.ar/guias/cafetera-express
+- Cafetera oster: https://productosvirales.com.ar/guias/cafetera-oster
+- Cafetera dolce gusto: https://productosvirales.com.ar/guias/cafetera-dolce-gusto
 
 ## Key Topics
 - Viral products from TikTok and social media available on MercadoLibre Argentina
 - Product comparisons with real prices in Argentine Pesos (ARS)
-- Buying guides for Argentine consumers
-- Trending deals and offers on MercadoLibre
+- Honest buying guides for Argentine consumers (cons included, not just pros)
 
 ## About Our Content
-- All prices in ARS, updated regularly
-- Honest reviews including cons, not just pros
-- Affiliate disclosure on every guide (hasDisclosure)
-- First-person experiential content (we test what we recommend)
+- All prices in ARS, updated regularly via MercadoLibre's official API
+- Honest reviews including cons; first-person experiential tone
+- Affiliate disclosure on every guide
 
 ## Language
 Spanish (Argentina)

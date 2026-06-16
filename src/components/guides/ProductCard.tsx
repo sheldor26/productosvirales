@@ -3,7 +3,7 @@ import { ExternalLink, Package, Star } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
-import { productHref } from "@/lib/product-url";
+import { getPriceValidUntil, productHref } from "@/lib/product-url";
 
 interface ProductCardProps {
   section: GuideSection;
@@ -35,15 +35,22 @@ function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
         __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Product",
-          name: product.title,
+          name: product.canonicalName || product.title,
           image: product.image,
-          ...(product.rating
+          ...(product.brand
+            ? { brand: { "@type": "Brand", name: product.brand } }
+            : {}),
+          // aggregateRating SOLO con datos reales (rating + reviewCount del
+          // producto). Antes se emitía `reviewCount: 1` fijo: Google renderizaba
+          // el snippet como "() reviews" y mataba el CTR. Nunca placeholder.
+          ...(product.rating && product.reviewCount
             ? {
                 aggregateRating: {
                   "@type": "AggregateRating",
-                  ratingValue: product.rating,
-                  reviewCount: 1,
-                  bestRating: 5,
+                  ratingValue: product.rating.toFixed(1),
+                  reviewCount: String(product.reviewCount),
+                  bestRating: "5",
+                  worstRating: "1",
                 },
               }
             : {}),
@@ -51,8 +58,17 @@ function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
             "@type": "Offer",
             priceCurrency: product.currency || "ARS",
             price: product.price,
-            availability: "https://schema.org/InStock",
+            itemCondition: "https://schema.org/NewCondition",
+            availability:
+              product.priceStatus === "out_of_stock"
+                ? "https://schema.org/OutOfStock"
+                : "https://schema.org/InStock",
+            priceValidUntil: getPriceValidUntil(product),
             url: product.affiliateUrl,
+            seller: {
+              "@type": "Organization",
+              name: "MercadoLibre Argentina",
+            },
           },
         }),
       }}

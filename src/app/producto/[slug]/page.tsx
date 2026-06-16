@@ -163,6 +163,8 @@ export default async function ProductPage({ params }: Props) {
       url: product.affiliateUrl,
       priceCurrency: product.currency,
       price: product.price,
+      itemCondition:
+        customOffers.itemCondition || "https://schema.org/NewCondition",
       availability:
         product.priceStatus === "out_of_stock"
           ? "https://schema.org/OutOfStock"
