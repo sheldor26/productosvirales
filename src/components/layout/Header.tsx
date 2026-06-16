@@ -33,10 +33,10 @@ export function Header() {
     <>
       <header
         className={cn(
-          "sticky top-0 z-50 transition-all duration-200",
+          "sticky top-0 z-50 transition-all duration-200 border-b",
           scrolled
-            ? "bg-[var(--bg-primary)]/80 backdrop-blur-xl border-b border-[var(--border)]"
-            : "bg-[var(--bg-primary)]"
+            ? "bg-[var(--bg-primary)]/80 backdrop-blur-xl border-[var(--border)]"
+            : "bg-[var(--bg-primary)] border-transparent"
         )}
       >
         <div className="max-w-[1200px] mx-auto px-4 md:px-6">

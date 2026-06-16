@@ -55,7 +55,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
 
   return (
     <div
-      className={`product-card reveal group rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-primary)] hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] ${
+      className={`product-card ${priority ? "" : "reveal"} group rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] bg-[var(--bg-primary)] hover:-translate-y-1 hover:shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)] ${
         badge === "viral" ? "shadow-[0_0_14px_rgba(236,72,153,0.16)]" : ""
       }`}
     >
