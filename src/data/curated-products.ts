@@ -4523,6 +4523,54 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'MANGUERA NEON LED RGB ULTRA FLEXIBLE IP65 CON FUENTE!!!!!!  INCLUYE FUENTE!!  La manguera de NEON LED es ideal para cartelería, señalización, ambientación, decoración de exteriores, pileta, iluminación de estructuras y vidrieras.   100% flexibles, muy resistentes, livianas y bajo consumo.   Alta pro',
+    pros: [
+      "Manguera neón LED de 5m con fuente incluida, lista para usar",
+      "No se ven los LED uno por uno: queda como un trazo de luz parejo",
+      "Brillo alto y colores RGB bien definidos",
+      "Flexible: se puede armar en formas y letras",
+      "Cuerpo siliconado IP65, apto para exterior",
+    ],
+    cons: [
+      "No trae adhesivo: hay que comprar cinta doble faz aparte",
+      "El control remoto trae pocos colores fijos (cambiar a app wifi es aparte)",
+      "Es más pesada que una tira común, no se sostiene sola en la pared",
+      "El efecto neón no es perfecto si la mirás muy de cerca",
+    ],
+    verdict: "Una manguera neón LED RGB de 5m que queda mucho más prolija que una tira común porque no se ven los LED sueltos. Viene con fuente, pero sin adhesivo: contá con comprar cinta doble faz aparte para pegarla.",
+    articleBody: `El Kit de Manguera Neón RGB es una tira de luz de 5 metros con cuerpo siliconado que imita el efecto del neón. La diferencia con una tira LED común es estética: acá no se ven los LED uno por uno, la luz sale pareja como un trazo continuo, y eso le da un acabado más prolijo. Tiene 4.5 de promedio sobre más de 1.400 calificaciones y viene con fuente y control remoto.
+
+## Qué incluye y cómo se instala
+
+Viene la manguera de 5m, la fuente y un control remoto. Listo para enchufar. El detalle importante, y la queja número uno de los compradores: no trae adhesivo. La manguera es siliconada y pesa más que una tira fina, así que un autoadhesivo flojo no la aguanta. La solución que repiten todos es simple: pasá por una ferretería y comprá cinta doble faz finita, y queda. También conviene pensar antes el recorrido, porque es flexible y se arma en curvas o letras, pero no se corta con la misma libertad que una tira de leds sueltos.
+
+## Control y modos
+
+El control remoto que viene maneja el encendido, el brillo y un set de colores fijos, alrededor de 9. Para muchos alcanza. Si querés más, varios compradores le suman un módulo wifi aparte: con eso lo vinculás a Google Home, lo manejás por voz o desde el celular y elegís muchos más tonos. Es un gasto extra, pero quien lo hizo dice que vale la pena por la cantidad de colores.
+
+## Para qué ambientes
+
+Va bien para decorar un cuarto, una barra, un mueble, cartelería o el contorno de un espacio donde querés que la luz se vea continua y no punteada. Al ser IP65 y siliconada, aguanta exterior. Para comparar con tiras LED comunes, mirá [más en hogar](/categoria/hogar).
+
+## Qué dicen los compradores
+
+El acuerdo general: buena calidad por el precio, brillo alto y colores bien definidos. Lo que más valoran frente a una tira barata es que no se ven los LED. Las advertencias se repiten: no viene adhesivo, no se puede extender con otra, y la luz sale por el canto fino, no por la cara ancha. Si mirás de muy cerca, el efecto neón no es perfecto, pero al precio difícilmente consigas algo mejor.
+
+## En resumen
+
+Manguera neón LED RGB que queda mucho más linda que una tira común y viene con fuente. Restá del cálculo la cinta doble faz, que no viene, y tenés una opción muy recomendada por sus compradores.`,
+    faq: [
+      { question: "¿Viene con adhesivo para pegarla?", answer: "No, y es la advertencia más repetida por los compradores. La manguera es siliconada y pesa, así que conviene comprar cinta doble faz finita en una ferretería para fijarla bien. Un autoadhesivo flojo no la aguanta en la pared." },
+      { question: "¿Cuántos colores tiene el control?", answer: "El control remoto incluido trae alrededor de 9 colores fijos más el manejo de brillo. Si querés muchos más tonos, varios compradores le agregan un módulo wifi aparte para controlarla desde el celular o por Google Home." },
+      { question: "¿Sirve para exterior?", answer: "Sí. La ficha la indica como IP65 y el cuerpo es siliconado, así que aguanta exterior. Se usa para cartelería, decoración y contornos donde querés un trazo de luz continuo en vez de LED punteados." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2024-12-30", text: "La calidad es muy buena, el brillo está muy bueno y los colores son bien definidos. Por el precio es súper recomendable. El único punto que no le da las 5 estrellas es que se nota un poco la separación de los LED y el efecto neón no termina de ser tan bueno, pero por el precio dudo que se pueda conseguir algo mejor.", useful: 69 },
+      { rating: 5, country: "Argentina", date: "2026-03-21", text: "Iluminación con color flama. La tengo con un módulo wifi para vincularla a Google Home. Sale unos pesos más que las tiras LED chinas comunes donde se ven todos los LED, y el cambio vale 100%: los LED no se ven y queda muy pro. A tener en cuenta: no viene con pegamento, así que comprá una cinta doble faz finita. Si le sumás el adaptador wifi la manejás por voz y elegís muchos más colores que con el control.", useful: 159 },
+      { rating: 5, country: "Argentina", date: "2025-11-21", text: "Muy buena calidad por su precio. Datos a tener en cuenta: no viene con cinta para pegarla, tampoco se puede extender con otra, y la luz sale del canto más fino, no como las tiras LED comunes. Ilumina bien y es como siliconada en su totalidad.", useful: 53 },
+      { rating: 5, country: "Argentina", date: "2025-08-30", text: "Me encantó. Terminaciones muy prolijas e iluminación muy brillante, alumbra excelente para mi gusto. Solo aviso para los que la piensan poner en la pared: no traen adhesivo, ya que son bastante pesadas. Lo demás, todo bien. Precio y calidad 10/10.", useful: 42 },
+      { rating: 5, country: "Argentina", date: "2025-07-17", text: "Excelente calidad de luz, variedad de colores y fácil instalación. No incluye pegamento.", useful: 13 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA33974728',
@@ -4553,6 +4601,43 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: 'La tecnología led es una excelente aliada para disminuir el consumo energético. Se trata de una iluminación que abre múltiples posibilidades para la decoración de cada rincón de tu casa ya que, gracias a su flexibilidad, tendrás la posibilidad de adaptarlas a distintos relieves y a espacios reducido',
+    pros: [
+      "Tira LED RGB de 5m con control remoto incluido",
+      "5050 con 60 LEDs por metro: buena densidad de luz",
+      "Flexible: se adapta a relieves y espacios chicos",
+      "IP64, tolera algo de humedad",
+      "Se puede cortar por las marcas para ajustar el largo",
+    ],
+    cons: [
+      "El adhesivo de fábrica suele despegarse con calor o humedad",
+      "Con el control se ve cada LED, no da el efecto neón parejo",
+      "Conviene confirmar si incluye fuente antes de comprar",
+    ],
+    verdict: "Una tira LED RGB de 5 metros con buena densidad y control remoto, para iluminar cuartos, muebles o el contorno de un ambiente. Es la opción clásica y barata; si querés que no se vean los LED, mirá una manguera neón.",
+    articleBody: `La Tira LED RGB Hytoshy es una tira de 5 metros tipo 5050 con 60 LEDs por metro, lo que le da buena densidad de luz. Es RGB, así que cambiás de color con el control remoto que viene incluido. Es la opción clásica para decorar con luz de colores: barata, flexible y fácil de instalar.
+
+## Qué incluye y cómo se instala
+
+Viene la tira de 5m y el control remoto. La tira trae su parte adhesiva atrás para pegarla, pero el punto a tener en cuenta, común a casi todas las tiras LED, es que ese adhesivo de fábrica se despega con el tiempo, sobre todo con calor o humedad. Si la pegás en un lugar caluroso o en el baño, reforzá con cinta doble faz buena. Se puede cortar por las marcas que trae cada cierto tramo, así ajustás el largo a tu mueble o pared. Antes de comprar conviene confirmar en la publicación si incluye fuente, porque varía según el vendedor.
+
+## Control y modos
+
+El control remoto maneja encendido, brillo, colores y algunos modos automáticos como cambios y secuencias. Es lo práctico de una tira RGB: tenés varios colores fijos y efectos sin instalar nada más. Si querés controlarla desde el celular o por voz, hay módulos wifi aparte que se le agregan, pero no vienen.
+
+## Para qué ambientes
+
+Va bien para el contorno de un cuarto, atrás del televisor, abajo de la cama o de muebles, en una barra o para ambientar con color. Con 5 metros tenés largo de sobra para dar la vuelta a una habitación o cubrir varios muebles. Al ser IP64 tolera algo de humedad, aunque no es para sumergir ni para dejar bajo la lluvia. Tené en cuenta que con esta tira se ven los LED uno por uno: si buscás un trazo de luz continuo y prolijo, lo tuyo es una manguera neón, que cuesta más. Para comparar opciones, mirá [más en hogar](/categoria/hogar).
+
+Antes de pegarla conviene planear el recorrido y limpiar bien la superficie, porque sobre una pared con polvo o pintura vieja el adhesivo agarra menos. En esquinas, en vez de doblar la tira de golpe (que puede dañar los LED), conviene cortarla y unirla con un conector, o dejar una curva suave.
+
+## En resumen
+
+Tira LED RGB de 5m con buena densidad y control remoto, la opción clásica y económica para decorar con luz de colores. Vas a querer reforzar el adhesivo y confirmar si trae fuente, pero por lo que cuesta cumple.`,
+    faq: [
+      { question: "¿Se puede cortar la tira?", answer: "Sí. La tira trae marcas de corte cada cierto tramo, así que podés ajustar el largo a tu mueble o pared. Cortala siempre por la marca indicada para no dañar el circuito." },
+      { question: "¿El adhesivo aguanta bien?", answer: "El adhesivo de fábrica funciona al principio, pero como en casi todas las tiras LED tiende a despegarse con el tiempo, sobre todo con calor o humedad. Si la pegás en un lugar caluroso conviene reforzar con cinta doble faz de buena calidad." },
+      { question: "¿Incluye fuente?", answer: "Depende del vendedor, así que conviene confirmarlo en la publicación antes de comprar. El control remoto sí viene incluido para manejar colores, brillo y modos." },
+    ],
   },
   {
     id: 'MLA23485318',
@@ -4583,6 +4668,43 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: '¡Sumate a la movida EcoFriendly! La tecnología led es una excelente aliada para disminuir el consumo energético. Se trata de una iluminación que abre múltiples posibilidades para la decoración de cada rincón de tu casa ya que, gracias a su flexibilidad, tendrás la posibilidad de adaptarlas a distint',
+    pros: [
+      "Kit completo: tira RGB de 1m con controlador y fuente incluidos",
+      "Listo para enchufar, sin comprar nada extra",
+      "RGB con control para cambiar de color y modos",
+      "IP64, tolera algo de humedad",
+      "Largo corto ideal para un mueble, estante o detalle puntual",
+    ],
+    cons: [
+      "Es solo 1 metro: para un cuarto entero queda corto",
+      "El adhesivo de fábrica puede despegarse con calor o humedad",
+      "Se ven los LED uno por uno, no da efecto neón parejo",
+    ],
+    verdict: "Una tira LED RGB de 1 metro que viene completa, con controlador y fuente, lista para enchufar. Buena para un detalle puntual; para iluminar un ambiente entero se queda corta y conviene una de 5m.",
+    articleBody: `La Tira LED Quiero Eso es una tira RGB de 1 metro tipo 5050 que viene como kit completo: trae el controlador y la fuente, así que la enchufás y funciona sin comprar nada aparte. Es la opción para un detalle puntual de luz de color, no para iluminar un ambiente entero.
+
+## Qué incluye y cómo se instala
+
+A diferencia de muchas tiras que se venden peladas, este kit trae todo: la tira de 1m, el controlador y la fuente. Eso es lo cómodo, no tenés que andar averiguando si te falta el transformador. La tira tiene su adhesivo atrás para pegarla, con la advertencia de siempre: ese pegamento de fábrica tiende a aflojarse con el tiempo, sobre todo con calor o humedad, así que para algo permanente conviene reforzar con cinta doble faz. Al ser de 1m la pensás para un tramo definido: el borde de un estante, atrás de un monitor, un mueble o una vitrina.
+
+## Control y modos
+
+El controlador maneja el encendido, el brillo, los colores RGB y modos automáticos como cambios y secuencias. Para una tira de adorno alcanza de sobra. Si más adelante querés controlarla desde el celular o por voz, hay módulos wifi que se le agregan aparte, pero este kit funciona con su control.
+
+## Para qué ambientes
+
+Va bien para un detalle: una repisa, una vitrina, el contorno de un cuadro, atrás del televisor en un mueble chico o para sumar color a un rincón. Por ser corta es fácil de manejar y de esconder el cable y el controlador, así que queda prolija. Al ser IP64 tolera algo de humedad, pero no es para mojar ni para exterior a la intemperie. Si lo que querés es iluminar un cuarto entero, 1 metro queda corto y te conviene una tira de 5m. Para comparar largos y opciones, mirá [más en hogar](/categoria/hogar).
+
+Una ventaja del kit corto es que no tenés que andar calculando cuánta tira aguanta la fuente: como viene todo dimensionado para 1 metro, enchufás y listo, sin riesgo de sobrecargar nada.
+
+## En resumen
+
+Tira LED RGB de 1m que llega completa con controlador y fuente, lista para usar. Práctica para un detalle puntual de color; para algo más grande, una tira de 5 metros rinde mejor.`,
+    faq: [
+      { question: "¿Viene con fuente?", answer: "Sí. Es un kit completo: incluye la tira RGB de 1 metro, el controlador y la fuente. La enchufás y funciona sin comprar nada extra, a diferencia de muchas tiras que se venden sin transformador." },
+      { question: "¿Un metro alcanza para iluminar un cuarto?", answer: "No, 1 metro queda corto para un ambiente entero. Está pensada para un detalle puntual: un estante, una vitrina, atrás de un monitor o el contorno de algo. Para iluminar un cuarto conviene una tira de 5m." },
+      { question: "¿El adhesivo dura?", answer: "El adhesivo de fábrica funciona al principio, pero como en casi todas las tiras LED puede aflojarse con el tiempo, sobre todo con calor o humedad. Para algo permanente conviene reforzar con cinta doble faz de buena calidad." },
+    ],
   },
   {
     id: 'MLA64582730',
@@ -5970,6 +6092,56 @@ Garantía de 30 días: es la garantía más corta de todos los modelos en este s
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'La lampara doble  veladora LED  Dakota para mesa y escritorio es flexible y recargable. perfecta para iluminar tu espacio de trabajo o estudio. Cuenta con un práctico lapicero y soporte para celular, Optimizando el espacio y mantenimiento tu escritorio organizado y funcional  >> MODO DE USO>> -Como ',
+    pros: [
+      "Modelo doble VL040: dos cabezas de luz en vez de una",
+      "Velador LED recargable, se usa sin cable enchufado",
+      "Cuello flexible y plegable para guardar o reorientar",
+      "Lapicero con soporte de celular integrado en la base",
+      "Marca argentina Dakota, 4.7 de promedio sobre miles de opiniones",
+    ],
+    cons: [
+      "Botón táctil sin retroiluminación: a oscuras cuesta encontrarlo",
+      "Cuerpo de plástico, no es premium",
+      "La autonomía varía bastante según el brillo que uses",
+    ],
+    verdict: "La versión doble de la Dakota: dos focos LED plegables sobre la misma base con lapicero. Buena como velador o lámpara de escritorio recargable; el botón táctil sin luz sigue siendo el punto flojo de noche.",
+    articleBody: `La Lámpara Velador VL040 Dakota es la versión de doble cabeza de la línea: en vez de un solo foco, trae dos brazos LED plegables sobre la misma base. Es marca argentina Dakota, funciona con batería recargable y tiene 4.7 de promedio sobre más de 3.000 calificaciones. Si te gusta la Dakota pero querés repartir mejor la luz, esta es la variante a mirar.
+
+## Luz y modos
+
+Al ser doble, ilumina un área más ancha que un velador de un solo foco, útil si la usás de escritorio y querés cubrir el papel y el teclado a la vez. Es táctil: tocás para encender y regulás el brillo desde el botón. La luz tira a blanca/neutra más que a cálida, así que sirve mejor para estudiar o trabajar que para una luz tenue de descanso.
+
+## Batería y carga
+
+Se carga por USB con el cable incluido y después la usás sin cable enchufado. La duración de la batería depende de cuánto brillo le pidas y de si tenés prendidas las dos cabezas o una sola: a full y doble dura menos que a brillo bajo. Muchos la dejan enchufada de fijo y la batería pasa a ser un extra para cuando se corta la luz o la querés mover.
+
+## Dónde queda bien
+
+En un escritorio de estudio o trabajo, donde los dos focos plegables cubren más superficie. También de velador en la mesa de luz. El cuello plegable deja acomodar cada brazo por separado y, cuando no la usás, doblás todo y ocupa poco. El lapicero del pie ordena las lapiceras y sostiene el celular parado.
+
+## Qué dicen los compradores
+
+Las opiniones de la línea Dakota coinciden: ilumina más de lo esperado y la batería rinde. El reclamo que se repite es el botón táctil sin luz, incómodo de encontrar a oscuras, y que la luz es más blanca que cálida. Para comparar con otras lámparas, mirá [más en hogar](/categoria/hogar).
+
+## Para quién sí y para quién no
+
+Sí, si querés más luz y cobertura que un velador de un foco, para escritorio o estudio. No tanto, si preferís algo chico de una sola luz cálida para la mesa de noche.
+
+## En resumen
+
+La Dakota doble suma cobertura con sus dos focos plegables y mantiene lo bueno de la línea: recargable, flexible, con lapicero. El botón táctil a oscuras sigue siendo el detalle a tener en cuenta.`,
+    faq: [
+      { question: "¿En qué se diferencia de la Dakota de un solo foco?", answer: "Esta es el modelo VL040 doble: trae dos brazos LED plegables sobre la misma base en lugar de uno. Ilumina un área más ancha, lo que ayuda en un escritorio donde querés cubrir el papel y el teclado a la vez." },
+      { question: "¿Cuánto dura la batería?", answer: "Depende del brillo y de si usás una o las dos cabezas. A intensidad alta y con los dos focos prendidos dura menos que a brillo bajo. Como se carga por USB, muchos la dejan enchufada de fijo en el escritorio y usan la batería solo cuando la mueven o se corta la luz." },
+      { question: "¿La luz es cálida?", answer: "Tira más a blanca o neutra que a cálida. Va bien para estudiar o trabajar; si buscás una luz amarilla tenue para descansar, no es el modelo ideal." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2024-08-31", text: "Me la regaló mi mamá, hasta ahora 10/10, ilumina un montón. Dejo también una foto de cómo ilumina sólo la lámpara, con las demás luces apagadas.", useful: 69 },
+      { rating: 5, country: "Argentina", date: "2024-11-28", text: "Funciona excelente. Muy útil para la mesa de luz de la cabecera de la cama, para dormir sin cables cerca de la cabeza. Como se carga por USB, uno se traslada con ella como si fuera una linterna hasta la cama y se acuesta cómodo.", useful: 40 },
+      { rating: 5, country: "Argentina", date: "2024-10-13", text: "Excelente. Aparte de que es muy bonita, la lámpara funciona de 10 puntos, batería con gran resistencia y terminado en cuero blanco. Me encantó desde el primer día.", useful: 34 },
+      { rating: 5, country: "Argentina", date: "2024-09-24", text: "La luz es más fuerte de lo que pensaba. De la batería no puedo hablar mucho porque la uso siempre conectada, pero por lo demás 10/10.", useful: 31 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA47263010',
@@ -6158,6 +6330,49 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'LÁMPARA LED RECARGABLE USB  - 3 Tonos de temperatura color: Cálida, neutra y fría. Seleccioná los tonos tocando el touch hasta seleccionar el que desees. - Dimmer de intensidad de luz regulable: Cuando la luz esté encendida, matené presionado el touch hasta que encuentres la intensidad de luz ideal ',
+    pros: [
+      "3 tonos de temperatura: cálida, neutra y fría",
+      "Dimmer táctil: regulás el brillo manteniendo apretado el touch",
+      "Recargable por USB-C, se usa sin cable enchufado",
+      "Formato compacto, queda como centro de mesa o velador",
+      "4.6 de promedio sobre casi 1.500 calificaciones",
+    ],
+    cons: [
+      "El botón es táctil: de noche, a oscuras, hay que buscarlo a tientas",
+      "La autonomía varía según el brillo que uses",
+      "Cuerpo de plástico",
+    ],
+    verdict: "Un velador recargable de mesa con dimmer táctil y 3 temperaturas de luz, de los más completos en lo que a tonos se refiere. Lo cómodo es que elegís desde cálido para descansar hasta frío para leer, todo sin cable.",
+    articleBody: `El Velador Centro de Mesa es una lámpara LED recargable pensada para apoyar en cualquier lado: una mesa, la mesa de luz, una barra. Se carga por USB-C, así que la usás sin cable enchufado, y tiene dimmer táctil con 3 temperaturas de color. Tiene 4.6 de promedio sobre casi 1.500 calificaciones, una base de opiniones grande para la categoría.
+
+## Luz y modos
+
+Es lo más fuerte de este modelo: tres tonos de luz, cálida, neutra y fría, que elegís tocando el touch. Sumado a eso, tiene dimmer: manteniendo apretado el botón con la luz prendida, subís o bajás la intensidad hasta dejarla donde te gusta. Así pasás de una luz cálida y tenue para descansar a una blanca más fuerte para leer o trabajar, con el mismo velador.
+
+## Batería y carga
+
+Carga por USB-C, el mismo conector de la mayoría de los celulares nuevos, así que no dependés de un cable raro. Una vez cargado, lo movés y lo apoyás donde quieras sin cable a la vista. La duración depende de la intensidad y del tono que uses: a brillo bajo aguanta más que a full. Es lo esperable en este tipo de luces, y conviene tenerlo en cuenta si lo querés prendido muchas horas.
+
+## Dónde queda bien
+
+Como centro de mesa para una cena o una barra, de velador en la mesa de luz o como luz de ambiente en un estar. Al no tener cable es cómodo para llevarlo de un lado a otro o para usarlo afuera un rato. Para ver otros veladores recargables, mirá [más en hogar](/categoria/hogar).
+
+## Qué dicen los compradores
+
+Con casi 1.500 calificaciones y 4.6 de promedio, el respaldo es sólido. Como en casi todos los veladores táctiles de este tipo, el detalle a tener presente es el manejo: el botón es táctil, así que de noche a oscuras hay que ubicarlo a tientas. A cambio, la variedad de tonos y el dimmer son de lo mejor del segmento.
+
+## Para quién sí y para quién no
+
+Sí, si querés un velador recargable con muchas opciones de luz, de cálida a fría, para distintos momentos. No tanto, si buscás un botón físico fácil de encontrar a oscuras o algo de un solo tono.
+
+## En resumen
+
+Velador recargable USB-C con dimmer y 3 temperaturas, de los más versátiles en cuanto a luz. El manejo táctil a oscuras es el único pero; por lo demás, muy validado por opiniones.`,
+    faq: [
+      { question: "¿Qué temperaturas de luz tiene?", answer: "Tres: cálida, neutra y fría. Las cambiás tocando el botón táctil. Además tiene dimmer, así que manteniendo apretado el touch con la luz encendida regulás la intensidad de cada tono." },
+      { question: "¿Con qué cable se carga?", answer: "Con USB-C, el mismo conector de la mayoría de los celulares nuevos. Una vez cargado lo usás sin cable enchufado y lo apoyás donde quieras. La duración de la batería depende del brillo y el tono que uses." },
+      { question: "¿Es fácil de manejar de noche?", answer: "El botón es táctil, así que a oscuras puede costar encontrarlo, como en la mayoría de los veladores de este tipo. A cambio, ofrece más opciones de tono e intensidad que la mayoría." },
+    ],
   },
   {
     id: 'MLA38663195',
@@ -6189,6 +6404,56 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
     description: 'La lampara veladora LED Touch Dakota para mesa y escritorio es flexible y recargable. perfecta para iluminar tu espacio de trabajo o estudio. Cuenta con un práctico lapicero y soporte para celular, Optimizando el espacio y mantenimiento tu escritorio organizado y funcional  CARACTERISTICAS :   - Bot',
+    pros: [
+      "Velador LED recargable: la usás sin cable enchufado",
+      "Dimmer táctil: regulás el brillo manteniendo apretado el botón",
+      "Cuello flexible que se orienta donde quieras",
+      "Lapicero y soporte para el celular integrados al pie",
+      "Marca argentina Dakota, con 4.7 de promedio sobre miles de opiniones",
+    ],
+    cons: [
+      "El botón es táctil capacitivo: de noche, a oscuras, cuesta encontrarlo",
+      "La luz blanca/neutra puede quedar fría para quien busca algo cálido",
+      "Es de plástico, no de gama premium",
+    ],
+    verdict: "Una lámpara táctil recargable que sirve igual de velador o de luz de escritorio, con dimmer para bajar el brillo y lapicero al pie. El botón táctil sin retroiluminación es lo más molesto: de noche hay que buscarlo a tientas.",
+    articleBody: `La Lámpara Velador LED Dakota es una luz de escritorio y mesa de luz que funciona con batería recargable, así que la podés usar sin cable enchufado. Es marca argentina Dakota y tiene 4.7 de promedio sobre más de 3.000 calificaciones, una de las bases de opiniones más grandes de toda la categoría iluminación del sitio. La gracia es que junta tres cosas: luz regulable, cuello flexible y un lapicero con soporte de celular en la base.
+
+## Luz y modos
+
+Es un velador LED táctil con dimmer. Con un toque encendés, y manteniendo apretado el botón la luz sube o baja de intensidad hasta dejarla donde te sirve. Eso es lo bueno: la podés tener fuerte para estudiar o muy baja como luz de noche. El punto a tener en cuenta es el color: tira a luz blanca o neutra, así que si buscás algo bien cálido tipo vela, no es lo suyo.
+
+## Batería y carga
+
+Se carga por USB, igual que un celular, con el cable que viene incluido. Una vez cargada la usás suelta, sin cable a la vista, lo que la hace cómoda para la mesa de luz. La autonomía depende de a qué intensidad la uses: a brillo bajo dura bastante más que a full. Varios compradores la dejan enchufada de fijo en el escritorio y resuelto.
+
+## Dónde queda bien
+
+Funciona como velador en la mesa de luz, como lámpara de escritorio para estudiar o como luz para trabajar de noche. El cuello flexible se orienta con una mano hacia el papel, la pantalla o el techo. El lapicero del pie te saca las lapiceras sueltas de encima y el soporte sostiene el celular parado.
+
+## Qué dicen los compradores
+
+Lo que más repiten: ilumina más de lo que esperaban y la batería aguanta. La queja recurrente es el botón táctil. Al ser capacitivo y sin luz, de noche a oscuras cuesta encontrarlo y hay que pasar el dedo por el plástico hasta dar con la zona. También aparece que la luz es blanca y a algunos les gustaría más cálida. Si querés ver otras opciones de iluminación, mirá [más en hogar](/categoria/hogar).
+
+## Para quién sí y para quién no
+
+Sí, si querés una sola lámpara que sirva de velador y de escritorio, con brillo regulable y para usar sin cable. No tanto, si te molesta buscar un botón a oscuras o si buscás luz bien cálida.
+
+## En resumen
+
+Velador LED recargable correcto y muy validado por opiniones. El dimmer y el lapicero suman; el botón táctil sin luz es el detalle que más vas a notar de noche.`,
+    faq: [
+      { question: "¿Se usa sin cable enchufado?", answer: "Sí. Tiene batería recargable que cargás por USB con el cable incluido. Una vez cargada la usás suelta, sin cable a la vista. Cuánto dura depende de la intensidad: a brillo bajo aguanta bastante más que a full. Muchos la dejan enchufada de fijo en el escritorio." },
+      { question: "¿La luz es cálida o blanca?", answer: "Tira a blanca o neutra. Tiene dimmer para regular la intensidad, pero el tono general es más frío que cálido. Si buscás una luz tipo vela bien amarilla, este modelo no es el más indicado." },
+      { question: "¿El botón táctil es cómodo de noche?", answer: "Es lo que más critican los compradores. El botón es táctil capacitivo y no tiene luz, así que a oscuras cuesta encontrarlo: hay que pasar el dedo por el plástico hasta dar con la zona que responde." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2024-08-31", text: "Me la regaló mi mamá, hasta ahora 10/10, ilumina un montón. Dejo también una foto de cómo ilumina sólo la lámpara, con las demás luces apagadas.", useful: 69 },
+      { rating: 5, country: "Argentina", date: "2024-10-13", text: "Excelente. Aparte de que es muy bonita, la lámpara funciona de 10 puntos, batería con gran resistencia y terminado en cuero blanco. Me encantó desde el primer día que la saqué de la caja. Cómprala con confianza.", useful: 34 },
+      { rating: 5, country: "Argentina", date: "2024-09-24", text: "La luz es más fuerte de lo que pensaba. De la batería no puedo hablar mucho porque la uso siempre conectada, pero por lo demás 10/10.", useful: 31 },
+      { rating: 5, country: "Argentina", date: "2024-10-21", text: "Ilumina muy bien, y como se carga con puerto USB me compré un panel solar. No gasto energía eléctrica y dura mucho prendida. Me encantó.", useful: 25 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA156843560',
@@ -6218,6 +6483,49 @@ En un escritorio pequeño o estudiante, eliminar el lapicero y el soporte de cel
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'Lámpara Luna con control remoto y Led de 16 colores.  - Viene en packaging ideal para regalar. - Trae Control Remoto para que la puedas manejar a distancia - 16 tonos de luz de intensidad e intercambio regulable - Se carga por USB y posee botón touch de encendido/apagado y regulación de luz. - Inclu',
+    pros: [
+      "Diseño de luna: queda como objeto decorativo, no solo lámpara",
+      "16 colores que cambiás con el control remoto incluido",
+      "Recargable por USB, se usa sin cable",
+      "Viene en packaging lindo para regalar",
+      "Botón touch para encender y regular la luz",
+    ],
+    cons: [
+      "Es luz decorativa: ilumina ambiente, no para leer o trabajar",
+      "El botón touch a oscuras puede costar ubicarlo",
+      "La autonomía depende del color y la intensidad",
+    ],
+    verdict: "Una lámpara con forma de luna y 16 colores por control remoto, más decorativa que funcional. Es de las que se regalan: queda linda prendida y viene en caja para obsequiar.",
+    articleBody: `La Lámpara Luna es un velador LED con forma de luna que cambia entre 16 colores con un control remoto. Es de las luces que se compran tanto para uno como para regalar: viene en un packaging pensado para obsequio. Tiene 4.7 de promedio sobre más de 700 calificaciones. La idea es decorar y ambientar, más que iluminar para leer.
+
+## Luz y modos
+
+Trae 16 tonos de color que vas cambiando con el control remoto o con el botón touch del propio cuerpo. Podés dejarla fija en un color o usar los modos de cambio. La intensidad también se regula. Es una luz suave, de ambiente: queda muy bien prendida de noche como adorno o como luz tenue, pero no es del tipo que usás para trabajar o leer de cerca.
+
+## Batería y carga
+
+Se carga por USB, así que la usás sin cable enchufado, cómoda para apoyar en una repisa o mesa de luz. Cuánto dura depende del color y de la intensidad que elijas. Como toda luz recargable decorativa, conviene cargarla del todo antes de una noche en que la quieras tener prendida un buen rato.
+
+## Dónde queda bien
+
+En una mesa de luz, una repisa, un escritorio o como detalle en un cuarto de chicos. Por el formato luna y los colores, funciona muy bien de regalo, sobre todo para quien le gustan los objetos decorativos con luz. El control remoto deja cambiarla sin levantarte. Para ver otros veladores y luces, mirá [más en hogar](/categoria/hogar).
+
+## Qué dicen los compradores
+
+Con más de 700 opiniones y 4.7 de promedio, el respaldo es bueno. Lo que hay que tener claro antes de comprar es la expectativa: es una luz decorativa de ambiente, no una lámpara de lectura. Si lo que buscás es eso, cumple muy bien; si esperabas iluminar un escritorio para estudiar, te va a quedar corta.
+
+## Para quién sí y para quién no
+
+Sí, si querés un objeto decorativo con luz, para ambientar o para regalar, con muchos colores y control remoto. No tanto, si necesitás una lámpara para leer o trabajar: para eso conviene un velador de luz blanca regulable.
+
+## En resumen
+
+Lámpara luna decorativa con 16 colores y control remoto, ideal para regalar o para ambientar un cuarto. Tené presente que es luz de adorno, no de lectura.`,
+    faq: [
+      { question: "¿Sirve para leer o estudiar?", answer: "No es lo suyo. Es una luz decorativa de ambiente, pensada para ambientar o adornar. Si necesitás iluminar un escritorio para leer o estudiar, conviene un velador de luz blanca regulable." },
+      { question: "¿Cómo se cambian los colores?", answer: "Trae 16 tonos que cambiás con el control remoto incluido o con el botón touch del cuerpo. Podés dejarla fija en un color o usar los modos de cambio, y regular la intensidad." },
+      { question: "¿Viene lista para regalar?", answer: "Sí. Viene en un packaging pensado para obsequio, y por el diseño de luna y los colores es una de las opciones que más se eligen como regalo. Se carga por USB y se usa sin cable." },
+    ],
   },
   {
     id: 'MLA23486209',
@@ -6555,6 +6863,49 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: 500,
     pastelColor: 'var(--pastel-amber)',
     description: 'Velador Practiled Lámpara Recargable de Mesa para Botella  Agregá un toque único y moderno a tus espacios con el Velador Practiled Lámpara Recargable de Mesa para Botella. Diseñado para ofrecer una iluminación versátil y elegante, este velador es ideal para mesas, escritorios y más. Su base especial',
+    pros: [
+      "Recargable por USB: se usa sin cable enchufado",
+      "Luz regulable con botón táctil",
+      "Base especial para colocar sobre una botella (estilo bar)",
+      "Formato lindo para mesa, barra o ambiente",
+      "Marca Practiled",
+    ],
+    cons: [
+      "La autonomía depende del brillo que uses",
+      "El botón táctil a oscuras puede costar ubicarlo",
+      "Base de reseñas todavía chica",
+    ],
+    verdict: "Un velador recargable con base para apoyar sobre una botella, pensado para dar onda de bar a una mesa o barra. La luz se regula y no tiene cable, lo que lo hace cómodo para mover.",
+    articleBody: `El Velador Táctil Practiled es una lámpara recargable de mesa con una particularidad: su base está pensada para apoyarse sobre una botella, ese estilo de luz de bar o restaurante. Se carga por USB, así que la usás sin cable, y la luz se regula con un botón táctil. Tiene 4.6 de promedio, sobre una base de reseñas todavía chica.
+
+## Luz y modos
+
+Es un velador táctil con luz regulable: tocás para encender y ajustás la intensidad para tenerla más fuerte o más tenue según el momento. La gracia del formato es el clima que arma: una luz suave sobre una botella en la mesa da un aire de bar que un velador común no logra. Para ambiente funciona muy bien; para leer de cerca, como la mayoría de estos veladores decorativos, va más justo.
+
+## Batería y carga
+
+Carga por USB y después se usa suelto, sin cable a la vista, que es justo lo que necesitás si lo querés sobre la mesa o la barra. La duración depende de la intensidad: cuanto más brillo, menos aguanta. Conviene cargarlo del todo antes de una noche larga.
+
+## Dónde queda bien
+
+En una barra, una mesa, un patio o un evento donde quieras varios puntos de luz cálida sin cables cruzando. La base para botella es lo que lo distingue: lo apoyás sobre una y queda como las luces de un restaurante. Para ver otros veladores recargables, mirá [más en hogar](/categoria/hogar).
+
+## Qué dicen los compradores
+
+La base de opiniones es chica todavía, así que conviene no sobreinterpretar el promedio. Lo que se puede decir es lo que vale para esta clase de veladores: el atractivo está en el clima que arman y en usarlos sin cable, y el punto a tener en cuenta es el manejo táctil, que de noche a oscuras puede costar.
+
+## Para quién sí y para quién no
+
+Sí, si querés dar onda de bar a una mesa o barra con una luz recargable y regulable. No tanto, si buscás una lámpara para leer o trabajar, o si preferís un botón físico.
+
+## En resumen
+
+Velador recargable con base para botella, pensado para ambiente más que para iluminar. Lindo para una barra o mesa; la luz se regula y no lleva cable.`,
+    faq: [
+      { question: "¿Por qué dice que es para botella?", answer: "Porque la base está diseñada para apoyarse sobre una botella, ese estilo de luz de bar o restaurante. Lo apoyás sobre una y queda como las lámparas de mesa de un local, con luz cálida y sin cables." },
+      { question: "¿Se usa sin cable?", answer: "Sí. Se carga por USB y después se usa suelto, sin cable enchufado, lo que es cómodo para una mesa o barra. La duración de la batería depende de la intensidad: a más brillo, menos autonomía." },
+      { question: "¿Sirve para leer?", answer: "Es más una luz de ambiente que de lectura. Funciona muy bien para dar clima a una mesa o barra; si necesitás iluminar para leer o trabajar de cerca, un velador de luz blanca regulable rinde mejor." },
+    ],
   },
   {
     id: 'MLA52016063',
@@ -6585,6 +6936,49 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: 500,
     pastelColor: 'var(--pastel-amber)',
     description: 'Características:  Alto: 33 cm   Ancho: 8 cm   3 Intensidades de brillo de luz   Puerto de carga TIPO C más duradero que los puertos comunes   Cuerpo metálico en diferentes colores: Gold, Gold Rose, Black y Silver.   Entrada: USB DC 5V; 5W   Botón de control maestro en la base del velador.    INCLUYE',
+    pros: [
+      "Cuerpo metálico, más sólido que los de plástico",
+      "3 temperaturas de luz: fría, cálida y neutra",
+      "Dimmer con 3 intensidades de brillo",
+      "Recargable por USB-C, se usa sin cable",
+      "Alto de 33 cm: presencia de velador de mesa, no de lamparita chica",
+    ],
+    cons: [
+      "El botón de control es táctil, en la base: a oscuras hay que ubicarlo",
+      "La autonomía depende del brillo y el tono que uses",
+      "Base de reseñas todavía mediana",
+    ],
+    verdict: "Un velador LED recargable de cuerpo metálico, con 3 tonos de luz y dimmer, más prolijo que los de plástico. El formato de 33 cm le da presencia de velador de verdad en la mesa de luz o una barra.",
+    articleBody: `El Velador Levys es una lámpara LED recargable de cuerpo metálico, de 33 cm de alto, con 3 temperaturas de luz y dimmer. La diferencia frente a la mayoría de los veladores recargables es el material: en vez de plástico, es metálico, lo que se nota en la terminación y en la sensación de robustez. Se carga por USB-C y se usa sin cable.
+
+## Luz y modos
+
+Tiene 3 tonos de luz, fría, cálida y neutra, y 3 intensidades de brillo, que se manejan desde el botón en la base. Así armás la combinación que querés: cálida y baja para descansar, neutra para una mesa, fría y fuerte si necesitás más luz. Es de los modelos más completos en cuanto a opciones de luz, y el cuerpo alto le da una presencia que las lamparitas chicas no tienen.
+
+## Batería y carga
+
+Carga por USB-C, que es más resistente que el micro USB viejo y el mismo conector de muchos celulares nuevos. Una vez cargado, se usa suelto, sin cable a la vista. La duración depende del brillo y del tono: a intensidad baja aguanta más que a full. Como en todos estos veladores, conviene cargarlo del todo si lo querés muchas horas seguidas.
+
+## Dónde queda bien
+
+Por el tamaño y el cuerpo metálico, queda bien como velador de mesa de luz, en una barra, un restaurante o un estar con onda. Los colores de cuerpo (gold, gold rose, negro, plateado) ayudan a combinarlo con la decoración. Para ver otros veladores recargables, mirá [más en hogar](/categoria/hogar).
+
+## Qué dicen los compradores
+
+La base de opiniones es mediana, así que conviene no leer demasiado en el promedio. Lo que sí vale, como en todo velador táctil: el atractivo está en la variedad de luz y en usarlo sin cable, y el detalle a tener en cuenta es el botón en la base, que de noche a oscuras hay que ubicar a tientas.
+
+## Para quién sí y para quién no
+
+Sí, si querés un velador recargable con cuerpo metálico, varios tonos de luz y buena presencia para una mesa o barra. No tanto, si buscás algo chico para la mesa de luz o un botón físico fácil de encontrar.
+
+## En resumen
+
+Velador LED recargable metálico con 3 tonos y dimmer, más prolijo y con más presencia que los de plástico. El manejo táctil a oscuras es el único pero; en variedad de luz está entre los más completos.`,
+    faq: [
+      { question: "¿Es de plástico o metálico?", answer: "Es de cuerpo metálico, lo que lo hace más sólido y prolijo que los veladores recargables de plástico. Viene en varios colores de cuerpo: gold, gold rose, negro y plateado." },
+      { question: "¿Cuántos tonos e intensidades tiene?", answer: "Tres temperaturas de luz (fría, cálida y neutra) y tres intensidades de brillo, que se manejan desde el botón en la base. Así combinás el tono y el brillo según el momento." },
+      { question: "¿Con qué cable se carga?", answer: "Con USB-C, que es más resistente que el micro USB y el mismo conector de muchos celulares nuevos. Una vez cargado se usa sin cable; la autonomía depende del brillo y el tono que uses." },
+    ],
   },
   {
     id: 'MLA24314471',
@@ -6615,6 +7009,57 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
     soldQuantity: undefined,
     pastelColor: 'var(--pastel-amber)',
     description: 'Lámpara de mesa LED táctil 5w con diseño moderno y textura similar al cuero. Ideal para embellecer espacios en el hogar u oficina con su estilo minimalista. Cuenta con interruptor táctil activable al contacto y ofrece 3 niveles de intensidad de iluminación.  - Luz ajustable - Lumens: 300 - Potencia:',
+    pros: [
+      "Lámpara táctil con 3 niveles de intensidad regulable",
+      "Recargable e inalámbrica: la movés a donde quieras",
+      "Buen tamaño y materiales que no son plástico frágil",
+      "Trae una segunda luz de noche tenue en la base",
+      "Lapicero/porta objetos que también sirve de soporte de celular",
+    ],
+    cons: [
+      "Botones táctiles sin luz: a oscuras hay que buscarlos a tientas",
+      "La luz tira a blanca/fría, no a cálida",
+      "El cuello flexible se va para adelante si no lo acomodás bien",
+      "Para apagar hay que pasar por la intensidad más alta",
+    ],
+    verdict: "Una lámpara táctil LED recargable bien armada, con 3 intensidades, luz de noche aparte y porta objetos. Cumple lo que muestra; lo molesto del uso diario son los botones táctiles a oscuras y que la luz es más fría que cálida.",
+    articleBody: `La Lámpara Táctil LED Electroland es un velador recargable de escritorio con acabado tipo cuero. Tiene 4.7 de promedio sobre más de 1.200 calificaciones, así que hay mucha experiencia de uso para leer. Su diferencia frente a otros veladores es que mete varias cosas en un solo aparato: tres intensidades de luz, una luz de noche aparte y un porta objetos que también hace de soporte de celular.
+
+## Luz y modos
+
+Es táctil y tiene 3 niveles de intensidad: de fuerte para iluminar un dormitorio chico o leer, a una luz baja para no encandilar de noche. Según los compradores, la luz tira a blanca o neutra, más fría que cálida, y no cansa la vista. Aparte de la luz principal, trae una segunda luz de noche tenue en la base, pensada para dejar prendida toda la noche, por ejemplo para los chicos que empiezan a dormir solos.
+
+## Batería y carga
+
+Se carga con un cable que entra en cualquier cargador y después la usás sin cable, como una linterna. La duración depende de la intensidad: a brillo bajo aguanta horas; a full, menos. Un detalle de la ficha: para cargar el celular desde la lámpara hace falta un adaptador, y no podés cargar el celu mientras la lámpara está enchufada.
+
+## Dónde queda bien
+
+De velador en la mesa de luz, de lámpara de escritorio o de luz para trabajar de noche. El cuello es flexible y se orienta, aunque varios avisan que si no lo acomodás bien se va para adelante. El porta objetos del pie ordena lapiceras y sostiene el celular parado.
+
+## Qué dicen los compradores
+
+El patrón es claro: ilumina más de lo esperado y los materiales no son plástico berreta. Las críticas son de uso. Los botones son táctiles sin luz, así que de noche a oscuras cuesta encontrarlos. Para apagar hay que pasar primero por la intensidad más alta, lo que molesta. Y a varios la luz les resulta poco cálida. Para ver otras opciones, mirá [más en hogar](/categoria/hogar).
+
+## Para quién sí y para quién no
+
+Sí, si querés un velador recargable completo, con luz de noche aparte y porta objetos, y no te molesta el manejo táctil. No tanto, si buscás botones físicos fáciles de encontrar a oscuras o una luz bien cálida.
+
+## En resumen
+
+Velador táctil LED recargable bien resuelto y muy validado por opiniones. Suma la luz de noche y el porta objetos; el manejo táctil a oscuras y el tono frío de la luz son lo que más vas a notar.`,
+    faq: [
+      { question: "¿Trae una luz de noche aparte?", answer: "Sí. Además de la luz principal con 3 intensidades, tiene una segunda luz tenue en la base para dejar prendida toda la noche. Varios compradores la usan para acompañar a los chicos cuando empiezan a dormir solos." },
+      { question: "¿Se puede cargar el celular con la lámpara?", answer: "Solo con un adaptador, según la ficha. Y no se puede cargar el celular mientras la lámpara está enchufada. El porta objetos del pie sí funciona como soporte para apoyar el celular parado." },
+      { question: "¿Los botones son cómodos de noche?", answer: "Es la crítica más repetida. Los botones son táctiles capacitivos y no tienen luz, así que a oscuras cuesta encontrarlos. Además, para apagar hay que pasar primero por la intensidad más alta." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2020-09-30", text: "Más que conforme, cumple con lo que promete. La intensidad más alta ilumina un dormitorio chico sin problema y no cansa la vista. Es molesto que los botones no sean retroiluminados: al ser táctil, a oscuras es imposible encontrarlos. También molesta tener que pasar a la intensidad más alta cada vez que querés apagar. La calidad de los materiales es intermedia, no es plástico frágil y tiene buen tamaño.", useful: 179 },
+      { rating: 5, country: "Argentina", date: "2025-06-10", text: "Fantástica. La luz es muy fuerte, la batería dura horas y si está enchufada queda como velador. El orificio del centro permite usarla como luz de cerca. El porta objetos también sirve de soporte para el teléfono. Viene con una segunda lámpara más chica en la base para dejar de luz de noche, muy tenue. Compré varias y reemplacé todos los veladores de la casa.", useful: 135 },
+      { rating: 4, country: "Argentina", date: "2023-08-09", text: "La uso de mesa de luz. Le quito una estrella porque los botones son capacitivos, no hacen click, así que de noche a oscuras no los encuentro: paso el dedo por el plástico hasta hacer contacto. La luz es blanca y no es suficientemente cálida.", useful: 59 },
+      { rating: 4, country: "Argentina", date: "2025-07-12", text: "Muy práctica. La necesitaba porque trabajo de noche y quería algo chico con luz baja, y como se regula fue justo. Viene con un cable que se pone en cualquier cargador. Lo malo es que el cuello es flexible y hay que acomodarlo bien, porque si no se cae para adelante.", useful: 56 },
+    ],
+    reviewsSampledAt: "2026-06-16",
   },
   {
     id: 'MLA22894851',
