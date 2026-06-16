@@ -1,7 +1,28 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-06-10 (Schema "agent-ready": JSON-LD centralizado desde campos canónicos — 87 precios contradictorios arreglados de una — + ficha piloto Noble Blush completa).
+> Última actualización: 2026-06-16 (Optimización SEO cluster perfumes árabes a partir de la medición GSC de fase 2 + fixes de schema de la auditoría).
+
+## Sesión 16-jun — Optimización SEO perfumes árabes (medición GSC fase 2) + fixes de schema
+
+Disparador: medición de impacto SEO de la fase 2 de perfumes árabes (estaba agendada para ~16-jun, 3 semanas desde la primera publicación). Juan pasó 3 exports de GSC + keywords de Ubersuggest. **Atención: parte de esta sesión se cruzó con una segunda sesión de Claude que Juan corrió sin querer en paralelo — ver punto 5.**
+
+1. **Diagnóstico GSC (últimos 3 meses).** Los exports filtrados por query "perfumes arabes" daban 0 clicks y engañaban (GSC solo cuenta esa frase exacta). El export del sitio completo mostró la realidad: el cluster hizo **~29 clicks / ~2.800 impresiones (~13% de los clicks del sitio)**. Casi todas las guías rankean en posiciones 6-20 (puerta de página 1). Hallazgo grande: demanda fuerte en singular "perfume arabe mujer" (22.200, SD 8) donde rankeábamos en página 2. Decisión: **optimizar lo existente antes de crear nuevos artículos** (mover de pos 9→3 en términos de 18-40k búsquedas vale más que un artículo nuevo de 300).
+
+2. **Patrón común detectado y arreglado:** varias guías top tenían `faq: []` vacío → **no se generaba el FAQPage schema** (la página solo lo emite si `faq.length>0`), justo donde hay queries de pregunta con volumen ("como saber si un perfume arabe es original" = 880/mes). Se cargaron FAQs reales (de Ubersuggest) en las que faltaban.
+
+3. **5 guías de perfumes optimizadas** (FAQs + metadata + frescura `updatedDate: 2026-06-16`):
+   - `perfumes-arabes-mujer` (era pos 20): 8 FAQs, metaDescription con singular, intro sin relleno.
+   - `mejores-perfumes-arabes-hombre` (pos 10): 8 FAQs (incluye dupes), ogTitle/ogDescription propios (eran copia del SEO), meta.
+   - `perfumes-arabes` (hub, pos 9): +2 FAQs (definicional + cómo reconocer original), ya tenía 7.
+   - `perfumes-arabes-precio-argentina` (pos 7, CTR 0.45%): 5 FAQs, ogDescription, intro sin pin de mes.
+   - `perfumes-arabes-por-color`: SIN cambios (ya estaba bien optimizada, no tocar por tocar).
+
+4. **Verificación:** `tsc --noEmit` limpio y `eslint` limpio en los archivos tocados. Build completo de 266 páginas NO corrido (límite del sandbox + perms `.next`); el typecheck es lo que el build valida.
+
+5. **Sesión paralela accidental (segunda instancia de Claude).** Tocó además: `ProductCard.tsx` (arregló el bug del `reviewCount: 1` fijo del schema de product-cards → ahora aggregateRating con datos reales, brand, priceValidUntil, itemCondition, availability por stock, seller), `producto/[slug]/page.tsx` (itemCondition NewCondition en offers), `public/llms.txt` (expandido al catálogo completo) y los seoTitle de `pava-electrica-peabody` y `philips-freidoras-de-aire-review` (CTR). Todo legítimo y de la auditoría SEO pendiente; sin conflictos con lo de perfumes. Creó `.claude/settings.local.json` (config local — NO commitear, conviene gitignorearlo).
+
+6. **Estado git al cierre:** el sandbox NO puede pushear (sin credenciales) y su `.git` es read-only para borrar (deja `.lock` que Juan limpia en su Mac). Quedó commiteado local **solo el bloque perfumes** (`0164f6d`, guides.ts). Pendiente de commit+push por Juan: `ProductCard.tsx` + `page.tsx` (schema-fixes), `public/llms.txt`, y este `CURRENT_STATE.md`.
 
 ## Sesión 10-jun — Fichas "agent-ready": una sola fuente de verdad para el Schema
 
