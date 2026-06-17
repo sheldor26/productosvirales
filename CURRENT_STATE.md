@@ -106,7 +106,7 @@ Verificado: `npm run lint` (mismos 41 errores preexistentes, sin regresión) + `
   - `freidoras-de-aire`: 23 (varias agendadas a futuro)
   - `pavas-electricas`: 11 (4 agendadas)
   - `perfumes-arabes`: 14 (6 originales + 8 nuevas de fase 2)
-  - `masajeadores`: 10 (4 nuevas 08-jun: masajeador [pillar head term 49.5K/dif 13], pistola-masajeadora, masajeador-espalda-cuello, masajeador-electrico)
+  - `masajeadores`: 11 (08-jun: masajeador [pillar head term 49.5K/dif 13], pistola-masajeadora, masajeador-espalda-cuello, masajeador-electrico · 17-jun: masajeador-gadnic [marca, formato cafeteras] + 5 productos Gadnic importados: Cedro MLA18961711 9.455rev, Gunax pistola MLA22138401, 8nodos-lumbar MLA19043353, Sauce asiento MLA19712537, Healthy Leg MLA24043083 — affiliateUrl con matt_tool largo, pendiente pasar a meli.la)
   - `aspiradoras-robot`: **12** (7 originales optimizadas 08-jun + 5 nuevas 08-jun)
 
 ### Red aspiradoras robot — 12 guías (7 optimizadas + 5 nuevas, 08-jun)
