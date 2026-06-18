@@ -5,6 +5,7 @@ import { Analytics } from "@vercel/analytics/next";
 import { ThemeProvider } from "@/components/layout/ThemeProvider";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
+import { NewsletterBanner } from "@/components/widgets/NewsletterBanner";
 import "./globals.css";
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -74,6 +75,7 @@ export default function RootLayout({
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <NewsletterBanner />
         </ThemeProvider>
         <Analytics />
         <Script
