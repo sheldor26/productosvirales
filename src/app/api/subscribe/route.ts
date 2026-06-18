@@ -1,8 +1,9 @@
 import { NextResponse } from "next/server";
+import { getSql } from "@/lib/db";
 
-// TODO: hook this up to real persistence (Vercel KV / Resend audience /
-// Supabase). Today the handler only validates, rate-limits, and logs —
-// no email is stored or notified.
+// Persistencia: guarda el email en la tabla `subscribers` (Postgres/Neon).
+// Si no hay DATABASE_URL configurada (ej. local sin storage), cae a un
+// console.warn y responde OK igual — no se manda ningún mail todavía.
 
 const EMAIL_REGEX = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
 
@@ -66,12 +67,37 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Email inválido" }, { status: 400 });
   }
 
-  console.warn(
-    `[subscribe] queued: ${email.trim()} at ${new Date().toISOString()} (ip=${ip})`
-  );
+  const normalized = email.trim().toLowerCase();
+
+  const sql = getSql();
+  if (!sql) {
+    // Sin DB configurada: dejamos rastro y seguimos sin romper.
+    console.warn(
+      `[subscribe] sin DATABASE_URL — no se guardó: ${normalized} (ip=${ip})`
+    );
+    return NextResponse.json({
+      success: true,
+      message: "Te avisaremos cuando publiquemos algo nuevo.",
+    });
+  }
+
+  try {
+    // ON CONFLICT DO NOTHING: si el mail ya existe, no es error (idempotente).
+    await sql`
+      INSERT INTO subscribers (email, source, ip)
+      VALUES (${normalized}, ${"newsletter"}, ${ip})
+      ON CONFLICT (email) DO NOTHING
+    `;
+  } catch (err) {
+    console.error("[subscribe] error al guardar:", err);
+    return NextResponse.json(
+      { error: "No pudimos guardar tu email. Probá de nuevo en un rato." },
+      { status: 500 }
+    );
+  }
 
   return NextResponse.json({
     success: true,
-    message: "Te avisaremos cuando esté listo el sistema de alertas.",
+    message: "Te avisaremos cuando publiquemos algo nuevo.",
   });
 }
