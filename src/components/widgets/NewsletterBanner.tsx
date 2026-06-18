@@ -2,23 +2,17 @@
 
 import { useEffect, useState } from "react";
 
-// Banner de captación de emails. Aparece deslizándose desde abajo cuando el
-// visitante scrolleó buena parte de la página (señal de interés real). Se
-// descarta con la ✕ y no vuelve a molestar (queda en localStorage). Si se
-// suscribe, tampoco reaparece. Reusa /api/subscribe (mismo endpoint que el
-// form de las guías).
+// Popup de captación de emails. Aparece centrado en la pantalla (modal con
+// fondo oscurecido) apenas el visitante arranca a scrollear. Se cierra con la
+// ✕, con Esc o clickeando el fondo, y no vuelve a molestar (queda en
+// localStorage). Si se suscribe, tampoco reaparece. Reusa /api/subscribe.
 
 const STORAGE_KEY = "pv_newsletter_banner"; // valor: "dismissed" | "subscribed"
 
-// Aparece apenas el visitante empezó a leer: después de un scroll corto
-// (~600px). Usamos distancia fija, no porcentaje, porque las guías son muy
-// largas y un 50% quedaría inalcanzable. En páginas cortas (que no scrollean
-// esos 600px) simplemente no se dispara.
-const TRIGGER_PX = 600;
-
-function pastTrigger(): boolean {
-  return window.scrollY > TRIGGER_PX;
-}
+// Aparece apenas empezó a scrollear. Distancia fija (no porcentaje) porque las
+// guías son muy largas. En páginas cortas que no llegan a este scroll, no se
+// dispara.
+const TRIGGER_PX = 400;
 
 export function NewsletterBanner() {
   const [show, setShow] = useState(false);
@@ -31,7 +25,7 @@ export function NewsletterBanner() {
     if (localStorage.getItem(STORAGE_KEY)) return;
 
     const onScroll = () => {
-      if (pastTrigger()) {
+      if (window.scrollY > TRIGGER_PX) {
         setShow(true);
         window.removeEventListener("scroll", onScroll);
       }
@@ -40,6 +34,16 @@ export function NewsletterBanner() {
     onScroll(); // por si carga ya scrolleado
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
+
+  // Cerrar con Escape mientras está abierto.
+  useEffect(() => {
+    if (!show) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") dismiss();
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [show]);
 
   function dismiss() {
     setShow(false);
@@ -69,7 +73,6 @@ export function NewsletterBanner() {
         try {
           localStorage.setItem(STORAGE_KEY, "subscribed");
         } catch {}
-        // Se cierra solo después de mostrar el agradecimiento.
         window.setTimeout(() => setShow(false), 3500);
       } else {
         setStatus("error");
@@ -85,42 +88,46 @@ export function NewsletterBanner() {
 
   return (
     <div
-      role="dialog"
-      aria-label="Suscripción al newsletter"
-      className="fixed inset-x-0 bottom-0 z-50 px-3 pb-3 sm:px-4 sm:pb-4 pointer-events-none"
+      className="newsletter-overlay fixed inset-0 z-50 flex items-center justify-center p-4"
+      onClick={dismiss}
+      style={{ background: "rgba(10,10,20,0.55)" }}
     >
       <div
-        className="newsletter-banner pointer-events-auto mx-auto w-full max-w-2xl rounded-[20px] border p-4 sm:p-5"
+        role="dialog"
+        aria-modal="true"
+        aria-label="Suscripción al newsletter"
+        onClick={(e) => e.stopPropagation()}
+        className="newsletter-popup relative w-full max-w-md rounded-[24px] border p-6 sm:p-7"
         style={{
-          background: "color-mix(in srgb, var(--bg-primary) 80%, transparent)",
+          background: "color-mix(in srgb, var(--bg-primary) 88%, transparent)",
           borderColor: "var(--border)",
-          boxShadow: "0 12px 40px rgba(17,17,17,0.16), inset 0 1px 0 rgba(255,255,255,0.5)",
-          backdropFilter: "blur(20px) saturate(160%)",
-          WebkitBackdropFilter: "blur(20px) saturate(160%)",
+          boxShadow: "0 24px 70px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.5)",
+          backdropFilter: "blur(28px) saturate(160%)",
+          WebkitBackdropFilter: "blur(28px) saturate(160%)",
         }}
       >
         <button
           type="button"
           onClick={dismiss}
           aria-label="Cerrar"
-          className="absolute right-3 top-3 flex h-7 w-7 items-center justify-center rounded-full text-lg leading-none transition-opacity hover:opacity-100 opacity-60"
+          className="absolute right-4 top-4 flex h-8 w-8 items-center justify-center rounded-full text-xl leading-none opacity-60 transition-opacity hover:opacity-100"
           style={{ color: "var(--text-muted)" }}
         >
           ×
         </button>
 
-        <div className="pr-6">
+        <div className="pr-4">
           <p
-            className="text-base sm:text-lg font-bold"
+            className="text-xl sm:text-2xl font-bold"
             style={{ fontFamily: "var(--font-display)", color: "var(--text-primary)" }}
           >
             Te paso los que valen la pena
           </p>
-          <p className="mt-1 text-sm" style={{ color: "var(--text-secondary)" }}>
+          <p className="mt-2 text-sm sm:text-base" style={{ color: "var(--text-secondary)" }}>
             Un mail cada tanto con lo que reviso y recomiendo. Sin spam, sin vender humo.
           </p>
 
-          <form onSubmit={handleSubmit} className="mt-3 flex flex-col gap-2 sm:flex-row">
+          <form onSubmit={handleSubmit} className="mt-5 flex flex-col gap-2">
             <input
               type="email"
               required
@@ -129,7 +136,7 @@ export function NewsletterBanner() {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               disabled={status === "submitting" || status === "ok"}
-              className="flex-1 rounded-[10px] border px-4 py-2.5 text-sm focus:outline-none focus:ring-2"
+              className="w-full rounded-[12px] border px-4 py-3 text-sm focus:outline-none focus:ring-2"
               style={{
                 background: "var(--bg-primary)",
                 borderColor: "var(--border)",
@@ -139,7 +146,7 @@ export function NewsletterBanner() {
             <button
               type="submit"
               disabled={status === "submitting" || status === "ok"}
-              className="rounded-[var(--radius-pill)] px-6 py-2.5 text-sm font-semibold transition-opacity hover:opacity-90 disabled:opacity-60"
+              className="w-full rounded-[var(--radius-pill)] px-6 py-3 text-sm font-semibold transition-opacity hover:opacity-90 disabled:opacity-60"
               style={{ background: "var(--cta-bg)", color: "var(--cta-text)" }}
             >
               {status === "submitting" ? "Enviando…" : "Avisame"}
@@ -148,7 +155,7 @@ export function NewsletterBanner() {
 
           {message && (
             <p
-              className="mt-2 text-xs"
+              className="mt-3 text-xs"
               style={{ color: status === "error" ? "var(--text-secondary)" : "var(--text-primary)" }}
               aria-live="polite"
             >
