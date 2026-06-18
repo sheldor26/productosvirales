@@ -10,13 +10,14 @@ import { useEffect, useState } from "react";
 
 const STORAGE_KEY = "pv_newsletter_banner"; // valor: "dismissed" | "subscribed"
 
-// Mostrar recién cuando scrolleó ~50% del alto scrolleable, y solo en páginas
-// lo bastante largas como para que el 50% signifique algo.
+// Aparece apenas el visitante empezó a leer: después de un scroll corto
+// (~600px). Usamos distancia fija, no porcentaje, porque las guías son muy
+// largas y un 50% quedaría inalcanzable. En páginas cortas (que no scrollean
+// esos 600px) simplemente no se dispara.
+const TRIGGER_PX = 600;
+
 function pastTrigger(): boolean {
-  const scrolled = window.scrollY + window.innerHeight;
-  const total = document.documentElement.scrollHeight;
-  if (total < window.innerHeight * 2) return false; // página corta: no aparece
-  return scrolled / total > 0.5;
+  return window.scrollY > TRIGGER_PX;
 }
 
 export function NewsletterBanner() {
