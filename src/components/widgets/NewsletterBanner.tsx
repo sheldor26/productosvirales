@@ -35,6 +35,15 @@ export function NewsletterBanner() {
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  function dismiss() {
+    setShow(false);
+    try {
+      localStorage.setItem(STORAGE_KEY, "dismissed");
+    } catch {
+      // localStorage puede fallar (modo privado); no es crítico.
+    }
+  }
+
   // Cerrar con Escape mientras está abierto.
   useEffect(() => {
     if (!show) return;
@@ -44,15 +53,6 @@ export function NewsletterBanner() {
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, [show]);
-
-  function dismiss() {
-    setShow(false);
-    try {
-      localStorage.setItem(STORAGE_KEY, "dismissed");
-    } catch {
-      // localStorage puede fallar (modo privado); no es crítico.
-    }
-  }
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
