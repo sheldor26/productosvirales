@@ -24342,6 +24342,880 @@ No es para vos si: querés programar el café desde la noche anterior (no tiene 
     },
     relatedProducts: ['MLA37650751', 'MLA15109525', 'MLA62786317'],
   },
+  // ─────────────────────────────────────────────────────────
+  // LICUADORAS — cluster licuadora (importadas jun 2026)
+  // ─────────────────────────────────────────────────────────
+  {
+    id: 'MLA17734241',
+    title: 'Licuadora Oster Classic BLST4655 con jarra de vidrio',
+    canonicalName: 'Oster Classic BLST4655',
+    price: 148513,
+    priceUpdated: "2026-06-21",
+    priceLastChecked: "2026-06-21",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_853438-MLA99449333302_112025-F.jpg',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA17734241',
+    affiliateUrl: 'https://meli.la/1UhsB6r',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Oster',
+    rating: 4.8,
+    reviewCount: 2365,
+    reviewsSampledAt: '2026-06-21',
+    ratingBreakdown: { five: '88%', four: '9%', three: '1%', two: '1%', one: '1%' },
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-green)',
+    description: 'La licuadora Oster Classic BLST4655 es la heredera directa de "la de tu mamá": jarra de vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. 4.8 estrellas en 2.365 calificaciones. No es barata —ronda los $148.000— pero es la que se compra para que dure años, no temporadas.',
+    aiReviewSummary: 'La compran sabiendo lo que compran: durabilidad de la vieja escuela. Lo que más se repite es el encastre de metal (no los dientes de plástico que se desgastan en las económicas), la jarra de vidrio grueso que pica hielo y fruta congelada, y que "es la que tenía mi mamá". Las críticas honestas: el cable es corto, el encastre no se asegura con traba, y por el formato de la jarra lo licuado se estanca en el fondo y a veces hay que pausar y revolver.',
+    seoTitle: 'Licuadora Oster Classic BLST4655: ¿vale los $148.000?',
+    metaDescription: 'La Oster Classic BLST4655: jarra de vidrio, encastre de metal y 4.8★ en 2.365 opiniones. Por qué dura años y los contras reales (cable corto, se estanca en el fondo).',
+    ogTitle: 'Oster Classic BLST4655: la licuadora que dura una generación',
+    ogDescription: 'Vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. Te contamos por qué 2.365 personas la eligieron y lo que critican sin suavizar.',
+    h1: 'Licuadora Oster Classic BLST4655: la de vidrio que dura años, con 2.365 calificaciones',
+    pros: [
+      '4.8⭐ con 2.365 calificaciones: de las mejor valoradas del catálogo',
+      'Jarra de vidrio grueso: no toma olor ni se raja como el plástico barato',
+      'Encastre de metal sobre ruleman: no los dientes de plástico que se desgastan',
+      'Cuchilla inoxidable que pica hielo y fruta congelada, según las reviews',
+      'Piezas desmontables (cuchilla, rosca, jarra) para limpieza fácil',
+      'Marca con décadas de service y repuestos en Argentina',
+    ],
+    cons: [
+      'Cara: ronda los $148.000, varias veces el precio de una licuadora de plástico',
+      'El cable es corto, marcan varias reviews',
+      'El encastre no se asegura con traba: hay que apoyar bien la jarra',
+      'Por el formato de la jarra, lo licuado se estanca en el fondo y conviene pausar y revolver',
+      'Solo 3 velocidades (700 W): suficiente para casa, pero no es de gama alta',
+    ],
+    verdict: 'La compra de "una vez y listo": si querés una licuadora que dure años y no te importa pagar de más por vidrio y metal en vez de plástico, es esta. 2.365 calificaciones con 4.8 estrellas la respaldan. No la compres si buscás lo más barato o necesitás cable largo.',
+    articleBody: `## La heredera de "la de mi mamá"
+
+La Oster Classic BLST4655 es una licuadora de vaso con jarra de vidrio de 1,25 litros, 700 W y 3 velocidades, que cuesta alrededor de $148.000 y junta 4.8 estrellas en 2.365 calificaciones. No es la más potente ni la más barata: es la que se compra por durabilidad. La frase que más se repite en las reviews lo resume: "es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo".
+
+## Qué hace bien: vidrio, metal y cuchilla inox
+
+El diferencial está en los materiales. La jarra es de vidrio grueso —"un vidrio gruesísimo", dice un comprador— que no toma olor ni gusto, a diferencia del plástico de las económicas. El encastre es de metal sobre ruleman, "como los de antes", y eso importa: en las licuadoras baratas el eje encastra con dientes de plástico que se desgastan o se falsean con el tiempo. La cuchilla es de acero inoxidable y, según las reviews, "pica hielo y fruta congelada en instantes".
+
+Sirve para mucho más que licuados de fruta: hay compradores que la usan para hummus, untables, sopas cremosas y leches vegetales (almendras), que es justamente el tipo de uso exigente que castiga a las licuadoras flojas.
+
+## Los contras reales: cable corto y se estanca en el fondo
+
+Ninguna licuadora es perfecta y esta tiene dos quejas concretas. La primera, el cable corto, que aparece en más de una review. La segunda, el formato de la jarra: "el formato hace que lo licuado quede en el fondo y uno deba pausar y revolver", explica un comprador de 4 estrellas, porque la jarra se angosta abajo y el alimento ya procesado se queda ahí. Se resuelve con una espátula angosta y un poco de paciencia, pero conviene saberlo.
+
+El tercer detalle: el encastre no tiene traba de seguridad, así que hay que apoyar bien la jarra. No es un defecto grave, pero alguien acostumbrado a las modernas con cierre lo va a notar.
+
+## Potencia y velocidades: alcanza, no sobra
+
+Son 700 W y 3 velocidades. Para el uso doméstico real —licuados, hielo, untables, sopas— alcanza de sobra, y un comprador que pasó de la versión de 600 W a esta de 700 nota la diferencia. Pero si buscás una bestia de 1.500 W para uso intensivo, esta no es; para eso está la Oster Xtreme Mix, mucho más cara.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés una licuadora que dure años, valorás el vidrio y el metal sobre el plástico, y no te asusta pagar más por eso. Es la compra "una vez y listo".
+
+No es para vos si: buscás lo más barato (hay licuadoras de vaso a un tercio del precio), necesitás cable largo, o querés la potencia máxima. En esos casos, mirá la Atma Pro (mejor relación precio-calidad) o la Philips Pro Blend.`,
+    specs: [
+      { label: 'Marca', value: 'Oster' },
+      { label: 'Línea', value: 'Classic' },
+      { label: 'Modelo', value: 'BLST4655 (detallado: BLST4655-052)' },
+      { label: 'Tipo', value: 'De vaso' },
+      { label: 'Capacidad de la jarra', value: '1,25 L' },
+      { label: 'Material de la jarra', value: 'Vidrio' },
+      { label: 'Potencia', value: '700 W' },
+      { label: 'Velocidades', value: '3' },
+      { label: 'Material de la cuchilla', value: 'Acero inoxidable' },
+      { label: 'Encastre', value: 'Metal sobre ruleman' },
+      { label: 'Accesorios incluidos', value: 'Jarra, cuchilla, rosca, tapa' },
+      { label: 'Apto para lavavajillas', value: 'No (base y cuchillas)' },
+      { label: 'Portátil', value: 'No' },
+      { label: 'Color', value: 'Plateado' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Oster Classic BLST4655 tiene jarra de vidrio o de plástico?', answer: 'De vidrio, y grueso. Es uno de sus diferenciales: el vidrio no toma olor ni gusto y aguanta mejor el hielo y la fruta congelada que el plástico de las licuadoras económicas. Un comprador lo describe como "un vidrio gruesísimo". La contra es que es más pesado para lavar.' },
+      { question: '¿Para qué sirve además de licuados?', answer: 'Las reviews la usan para hummus, untables, quesos, sopas cremosas y leches vegetales (almendras). Es el tipo de uso exigente que castiga a las licuadoras flojas, y la cuchilla inoxidable lo banca. Para licuados de fruta y hielo va sobrada.' },
+      { question: '¿Por qué es más cara que otras licuadoras?', answer: 'Por los materiales: jarra de vidrio, encastre de metal sobre ruleman y cuchilla inoxidable, en lugar del plástico y los dientes que se desgastan de las económicas. Se paga la durabilidad. Si buscás el precio más bajo, la Atma Pro de vidrio cuesta la mitad.' },
+      { question: '¿Es verdad que el cable es corto?', answer: 'Sí, es una queja real que aparece en varias reviews. Conviene tener el tomacorriente cerca de donde la vayas a usar o tener a mano un zapatilla. Es un detalle, no un problema grave, pero está bueno saberlo antes.' },
+      { question: '¿El encastre se asegura con traba?', answer: 'No tiene traba de seguridad: hay que apoyar bien la jarra sobre la base. Un comprador lo marca como lo único que mejoraría. Si venís de una licuadora moderna con cierre, lo vas a notar; con el uso te acostumbrás.' },
+      { question: '¿Por qué a veces queda comida sin licuar en el fondo?', answer: 'Por el formato de la jarra, que se angosta abajo. "Lo licuado queda en el fondo y uno debe pausar y revolver", explica una review de 4 estrellas. Se resuelve con una espátula angosta y pausando un par de veces. No afecta el resultado, solo agrega un paso.' },
+      { question: '¿Tiene service en Argentina?', answer: 'Sí, Oster tiene distribución oficial, service y repuestos en el país; es parte de la razón de su buena reputación. Comprá publicaciones nuevas con garantía oficial, no reventa usada sin respaldo.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'abril 2023', useful: 215, text: 'Le tuve ganas pero no quería gastar tanto, iba a ir por las clásicas tipo atma o liliana, pero cuando vi esta no pude resistirme: metal y vidrio, cuchilla sobre ruleman, y es un mueble además decorativo. A otro precio pero otra cosa totalmente distinta (espero dure años). El motor da gusto escucharlo. Sobria por donde se la mire.' },
+      { rating: 5, country: 'Argentina', date: 'agosto 2022', useful: 81, text: '¿Es oster, qué más se puede esperar? Es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2021', useful: 60, text: 'Excelente. Buscaba una licuadora potente no solo para licuados de frutas, sino para hacer untables, quesos y leches vegetales. Probé licuar una sopa de verduras, quedó súper cremosa, e hice hummus, espectacular, muy suave. El sistema de encastre es de metal como los de antes, cosa ideal porque muchas nuevas se desgastan. Las cuchillas son inoxidables. Todas las piezas se desensamblan fácil para limpiar.' },
+      { rating: 4, country: 'Argentina', date: 'octubre 2022', useful: 28, text: 'La relación precio-calidad es muy buena, sin embargo tiene un pequeño defecto: el formato de la jarra hace que lo licuado quede en el fondo y uno deba pausar y revolver para que no se estanque. Se salva con una espátula angosta. No es un mal aparato salvo ese detalle. Recomiendo.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Licuadora Oster Classic BLST4655 con jarra de vidrio',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_853438-MLA99449333302_112025-F.jpg',
+      description: 'Licuadora de vaso Oster Classic BLST4655: jarra de vidrio de 1,25 L, 700 W, 3 velocidades, encastre de metal y cuchilla de acero inoxidable. 4.8 estrellas con 2.365 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Oster' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1UhsB6r',
+        priceCurrency: 'ARS',
+        price: 148513,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '2365',
+      },
+    },
+    relatedProducts: ['MLA19693634', 'MLA59377328', 'MLA50527370'],
+  },
+  {
+    id: 'MLA19693634',
+    title: 'Licuadora Atma Pro LI8450AP con jarra de vidrio',
+    canonicalName: 'Atma Pro LI8450AP',
+    price: 74999,
+    priceUpdated: "2026-06-21",
+    priceLastChecked: "2026-06-21",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_654240-MLA99514945598_112025-F.jpg',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA19693634',
+    affiliateUrl: 'https://meli.la/1s19WgR',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Atma',
+    rating: 4.7,
+    reviewCount: 4980,
+    reviewsSampledAt: '2026-06-21',
+    ratingBreakdown: { five: '82%', four: '13%', three: '2%', two: '1%', one: '3%' },
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-blue)',
+    description: 'La Atma Pro LI8450AP es la mejor relación precio-calidad del catálogo de licuadoras: jarra de vidrio de 1,5 litros, cuchilla inoxidable y cierre de seguridad por unos $75.000. 4.7 estrellas en 4.980 calificaciones, la base de opiniones más grande de todas las licuadoras de vaso que comparamos.',
+    aiReviewSummary: 'La elección "value" por excelencia: vidrio, pica hielo, no se tiñe el vaso y cuesta la mitad que una Oster, con casi 5.000 opiniones detrás. Lo que más se elogia es que el vaso no toma color, la base maciza y el sistema de seguridad que no enciende si la jarra no está bien puesta. Lo honesto: son solo 500 W y 2 velocidades, así que el hielo le cuesta un poco (en primera velocidad quedan grumos, en segunda desaparecen), y el encastre es de dientes de plástico como casi todas las de este precio.',
+    seoTitle: 'Licuadora Atma Pro LI8450AP: la mejor en relación precio',
+    metaDescription: 'La Atma Pro LI8450AP: jarra de vidrio de 1,5 L y 4.7★ en 4.980 opiniones por ~$75.000. La mejor relación precio-calidad del catálogo. Specs reales y contras.',
+    ogTitle: 'Atma Pro LI8450AP: vidrio, 4.980 opiniones y la mitad del precio de una Oster',
+    ogDescription: 'Jarra de vidrio que no se tiñe, cierre de seguridad y casi 5.000 calificaciones. La licuadora value del catálogo, contada con sus contras reales.',
+    h1: 'Licuadora Atma Pro LI8450AP: la mejor relación precio-calidad, con 4.980 calificaciones',
+    pros: [
+      '4.7⭐ con 4.980 calificaciones: la base de opiniones más grande del catálogo',
+      'Jarra de vidrio de 1,5 L que no toma color ni olor, destacan las reviews',
+      'Cuchilla de acero inoxidable, apta para picar hielo',
+      'Cierre de seguridad: no enciende si la jarra no está bien encastrada',
+      'Base maciza y antideslizante que encastra firme',
+      'Mejor precio que una Oster de vidrio: ronda los $75.000',
+    ],
+    cons: [
+      'Solo 500 W y 2 velocidades: al hielo le cuesta un poco',
+      'En primera velocidad el hielo queda en grumos (en segunda desaparece)',
+      'Encastre de dientes de plástico, como casi todas las de este precio',
+      'Una trabita de seguridad de plástico puede hacer ruido, marca una review',
+      'No tiene pantalla digital ni programas: es manual',
+    ],
+    verdict: 'La compra inteligente del catálogo: vidrio, cierre de seguridad y casi 5.000 opiniones por la mitad de lo que sale una Oster de vidrio. Si querés lo mejor por tu plata y no te molesta que sea de 500 W, es esta. Para más potencia con hielo, mirá la Philips Pro Blend o la Oster Classic.',
+    articleBody: `## La licuadora "value" del catálogo
+
+La Atma Pro LI8450AP es una licuadora de vaso con jarra de vidrio de 1,5 litros, 500 W, 2 velocidades y función pulsar, que cuesta alrededor de $75.000 y junta 4.7 estrellas en 4.980 calificaciones. Es, por lejos, la base de opiniones más grande de todas las licuadoras de vaso que comparamos, y la razón por la que la elegimos como mejor relación precio-calidad: vidrio y cierre de seguridad, por la mitad de lo que sale una Oster de vidrio.
+
+## Qué hace bien: vidrio que no se tiñe y seguridad
+
+El elogio que más se repite es que el vaso de vidrio no toma color ni olor: "le estoy dando full uso, varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso", dice la review más votada. A eso se suma una base maciza que "encastra a la perfección" y un sistema de seguridad de encendido: si la jarra no está bien puesta, no arranca.
+
+La cuchilla es de acero inoxidable y pica hielo, con cierre de seguridad, tapa dosificadora y pico vertedor. Para el uso doméstico típico —licuados, jugos, hummus— responde de sobra, y a un precio que no asusta.
+
+## Los contras reales: potencia justa y encastre de plástico
+
+Acá no hay magia: son 500 W y 2 velocidades, y eso se nota con el hielo. "La primera velocidad es la justa para que el hielo se triture y queden grumos, la segunda te hace desaparecer toda la pulpa", explica un comprador. Es decir: pica hielo, pero le cuesta un poco más que a una de 700 o 1.000 W. Otra review de 4 estrellas lo dice sin vueltas: "le cuesta el hielo, ¿a quién no?".
+
+El encastre es de dientes de plástico, como casi todas las licuadoras domésticas de este precio —"el eje encastra con seis dientes de plástico como la mayoría"—. Es lo esperable; si querés encastre de metal, hay que ir a la Oster Classic, que cuesta el doble. Una review también menciona una trabita blanca de plástico que hace algo de ruido, sin que afecte el funcionamiento.
+
+## Por qué es la mejor relación precio-calidad
+
+El razonamiento de un comprador lo resume: comparó modelos de marcas más caras con las mismas specs (vidrio, cuchilla inox, picar hielo) y terminó eligiendo esta porque daba todo eso por menos. Casi 5.000 personas coinciden. No es la más potente ni la más premium, pero es la que más rinde por peso.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés lo mejor por tu plata, valorás la jarra de vidrio y el cierre de seguridad, y el uso es doméstico normal (licuados, jugos, untables). Es la compra segura.
+
+No es para vos si: usás mucho hielo o congelados y querés que vuele (mirá la Philips Pro Blend de 1.000 W o la Oster Xtreme), o querés encastre de metal para que dure una generación (Oster Classic).`,
+    specs: [
+      { label: 'Marca', value: 'Atma' },
+      { label: 'Modelo', value: 'LI8450AP' },
+      { label: 'Tipo', value: 'De vaso' },
+      { label: 'Capacidad de la jarra', value: '1,5 L' },
+      { label: 'Material de la jarra', value: 'Vidrio' },
+      { label: 'Potencia', value: '500 W' },
+      { label: 'Velocidades', value: '2 + función pulsar' },
+      { label: 'Material de la cuchilla', value: 'Acero inoxidable' },
+      { label: 'Apta para picar hielo', value: 'Sí' },
+      { label: 'Cierre de seguridad', value: 'Sí (no enciende sin la jarra)' },
+      { label: 'Base antideslizante', value: 'Sí' },
+      { label: 'Tapa dosificadora', value: 'Sí' },
+      { label: 'Pico vertedor', value: 'Sí' },
+      { label: 'Color', value: 'Acero inoxidable / plateado' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Atma Pro LI8450AP es de vidrio o de plástico?', answer: 'La jarra es de vidrio de 1,5 litros, y es uno de sus puntos fuertes: las reviews destacan que no se tiñe ni toma olor. A diferencia de las licuadoras de plástico barato, aguanta el uso intenso sin mancharse con tomate o frutos rojos.' },
+      { question: '¿Pica hielo bien?', answer: 'Sí, pero con matices. Son 500 W y 2 velocidades: en primera quedan grumos, en segunda se tritura. Pica hielo y congelados, solo que le cuesta un poco más que a una de 700 o 1.000 W. Para hielo a diario y mucho volumen, una Philips Pro Blend de 1.000 W rinde mejor.' },
+      { question: '¿Por qué es la mejor relación precio-calidad?', answer: 'Porque da jarra de vidrio, cuchilla inoxidable, cierre de seguridad y casi 5.000 opiniones por la mitad de lo que sale una Oster de vidrio. Un comprador la eligió tras comparar modelos más caros con las mismas specs. Por peso, es la que más rinde del catálogo.' },
+      { question: '¿El encastre es de metal o de plástico?', answer: 'De plástico (seis dientes), como casi todas las licuadoras domésticas de este precio. Es lo normal en la categoría. Si querés encastre de metal sobre ruleman para máxima durabilidad, hay que ir a la Oster Classic, que cuesta el doble.' },
+      { question: '¿Tiene cuántas velocidades?', answer: '2 velocidades más función pulsar. Es manual, sin pantalla digital ni programas. Para el uso doméstico (licuados, jugos, untables) alcanza; si querés más control de velocidad, la Philips Pro Blend tiene 5.' },
+      { question: '¿Trae cierre de seguridad?', answer: 'Sí: tiene un sistema que no deja encender la licuadora si la jarra no está bien encastrada. Es una buena medida de seguridad. Una review menciona que la trabita de plástico hace algo de ruido, sin que eso afecte el funcionamiento.' },
+      { question: '¿Cuánta capacidad tiene?', answer: 'La jarra es de 1,5 litros, un poco más grande que la Oster Classic (1,25 L). Alcanza para varios vasos de licuado o jugo de una. Para batidos individuales y portátiles, mirá la Ninja Blast.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'enero 2023', useful: 440, text: 'Estuve dos días comparando calidad y precio. Me decidí por esta y menos mal porque es todo lo que buscaba. Le estoy dando full uso: varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso. La base es maciza y encastra perfecto. El vaso tiene seguridad de encendido: si no se encastra no anda. La primera velocidad tritura el hielo y deja grumos, la segunda hace desaparecer la pulpa. Excelente.' },
+      { rating: 5, country: 'Argentina', date: 'noviembre 2023', useful: 47, text: 'Es la tercera licuadora que tengo, pero es la mejor: súper sólida, de materiales fuertes y pica todo sin problema, me sorprendió. Entre el vidrio y el acero inox queda hermoso a la vista.' },
+      { rating: 4, country: 'Argentina', date: 'febrero 2023', useful: 51, text: 'Muy buen producto. Pica bien el hielo y no deja trozos de fruta. La jarra es de vidrio grueso pero no es tan pesada como pensaba. El encastre es sencillo, el eje encastra con seis dientes de plástico como la mayoría. Le pongo 4 estrellas porque la trabita blanca de plástico me hace un poco de ruido, pero usándola bien va a durar. Compren con confianza.' },
+      { rating: 4, country: 'Argentina', date: 'marzo 2023', useful: 40, text: 'Bien. Le cuesta el hielo, ¿a quién no? Al almirante irízar también.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Licuadora Atma Pro LI8450AP con jarra de vidrio',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_654240-MLA99514945598_112025-F.jpg',
+      description: 'Licuadora de vaso Atma Pro LI8450AP: jarra de vidrio de 1,5 L, 500 W, 2 velocidades, cuchilla de acero inoxidable y cierre de seguridad. 4.7 estrellas con 4.980 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Atma' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1s19WgR',
+        priceCurrency: 'ARS',
+        price: 74999,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '4980',
+      },
+    },
+    relatedProducts: ['MLA17734241', 'MLA50527370', 'MLA20951762'],
+  },
+  {
+    id: 'MLA20951762',
+    title: 'Licuadora Liliana Blacklic AL310 con molinillo de café',
+    canonicalName: 'Liliana Blacklic AL310',
+    price: 58138,
+    priceUpdated: "2026-06-21",
+    priceLastChecked: "2026-06-21",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_619609-MLA99382230508_112025-F.jpg',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA20951762',
+    affiliateUrl: 'https://meli.la/12cS1LU',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Liliana',
+    rating: 4.6,
+    reviewCount: 794,
+    reviewsSampledAt: '2026-06-21',
+    ratingBreakdown: { five: '79%', four: '12%', three: '4%', two: '1%', one: '4%' },
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'La Liliana Blacklic AL310 es una licuadora negra de 600 W con un extra que la diferencia: viene con molinillo de café incluido. 4.6 estrellas en 794 calificaciones. El gran "pero", que sale directo de las reviews, es la jarra de plástico, frágil: hay compradores a los que se les rompió al mes.',
+    aiReviewSummary: 'Su gancho es el molinillo de café incluido, que funciona bien para café, especias y untables. El motor tiene buena potencia. Pero la jarra es de plástico y frágil: es la queja recurrente —se raja, se derrama, "al mes se me rompió el vaso es muy frágil"—. Conviene tratarla con cuidado y, si sos de uso intenso, considerar una de vidrio.',
+    seoTitle: 'Licuadora Liliana Blacklic AL310 con molinillo: ¿conviene?',
+    metaDescription: 'La Liliana AL310 trae molinillo de café incluido y 4.6★ en 794 opiniones. Pero la jarra de plástico es frágil y se rompe. Specs reales y contras sin filtro.',
+    ogTitle: 'Liliana Blacklic AL310: licuadora + molinillo de café, con un pero importante',
+    ogDescription: 'El molinillo incluido es su gancho y funciona bien. Pero la jarra de plástico es frágil y se raja. Te lo contamos como lo cuentan los compradores.',
+    h1: 'Licuadora Liliana Blacklic AL310 con molinillo de café: el extra y el pero de la jarra',
+    pros: [
+      '4.6⭐ con 794 calificaciones',
+      'Molinillo de café incluido: muele café, especias y sirve para untables',
+      'Buena potencia para licuados, jugos y hummus, según las reviews',
+      'Jarra grande de 1,5 L',
+      'Diseño negro sobrio',
+      'Marca nacional con presencia y repuestos en Argentina',
+    ],
+    cons: [
+      'Jarra de plástico frágil: la queja recurrente de las reviews',
+      'Hay compradores a los que se les rompió el vaso al mes',
+      'Reportes de derrame por la jarra en los primeros usos',
+      'Solo 2 velocidades, sin botón de encendido/apagado dedicado',
+      'No es apta para lavavajillas',
+    ],
+    verdict: 'Atractiva por el molinillo de café incluido y la buena potencia, pero su talón de Aquiles es la jarra de plástico frágil, que más de un comprador rompió al poco tiempo. Si te seduce el molinillo, tratá la jarra con cuidado. Si querés una jarra que aguante, la Atma Pro de vidrio cuesta parecido.',
+    articleBody: `## Licuadora con molinillo de café incluido
+
+La Liliana Blacklic AL310 es una licuadora de vaso negra de 600 W, 1,5 litros y 2 velocidades que cuesta alrededor de $58.000 y junta 4.6 estrellas en 794 calificaciones. Su diferencial frente a las otras del catálogo es el accesorio: viene con un molinillo de café incluido, que las reviews destacan como un extra que funciona bien para café, especias y preparaciones tipo untables.
+
+## Qué hace bien: el molinillo y la potencia
+
+El molinillo es el gancho real. "Funciona perfecto para hummus, licuados, jugos. El molinillo de café excelente", resume una review de 5 estrellas. Es un accesorio que en otras licuadoras hay que comprar aparte, y acá viene en la caja. El motor tiene buena potencia para el uso doméstico: licuados, jugos y untables salen sin drama.
+
+## El pero importante: la jarra de plástico es frágil
+
+Acá está la letra chica, y es importante. A diferencia de la Oster Classic o la Atma Pro, la jarra de la AL310 es de plástico, y las reviews coinciden en que es frágil. "Es potente aunque al mes se me rompió el vaso, es muy frágil", dice un comprador. Otro: "la segunda vez que la uso y se derrama todo la jarra de la licuadora". No es un caso aislado: la fragilidad del vaso es la queja recurrente de quienes calificaron bajo.
+
+Esto no la hace una mala licuadora —el motor y el molinillo están bien valorados— pero conviene saberlo antes de comprar: hay que tratar la jarra con cuidado y no es la opción si querés algo que aguante caídas o uso brusco.
+
+## Potencia y velocidades
+
+Son 600 W y 2 velocidades, sin botón de encendido/apagado dedicado (se maneja con el selector). Para licuados, jugos y untables responde bien. No es una bestia para hielo intensivo, pero cumple el uso doméstico típico.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: te interesa el molinillo de café incluido y vas a darle un uso cuidadoso. El combo licuadora + molinillo a este precio es difícil de igualar.
+
+No es para vos si: querés una jarra robusta que dure años sin cuidarla. En ese caso, la Atma Pro de vidrio (que cuesta parecido) o la Oster Classic son apuestas más seguras.`,
+    specs: [
+      { label: 'Marca', value: 'Liliana' },
+      { label: 'Línea', value: 'Blacklic' },
+      { label: 'Modelo', value: 'AL310' },
+      { label: 'Tipo', value: 'De vaso, con molinillo' },
+      { label: 'Capacidad de la jarra', value: '1,5 L' },
+      { label: 'Material de la jarra', value: 'Plástico' },
+      { label: 'Potencia', value: '600 W' },
+      { label: 'Velocidades', value: '2' },
+      { label: 'Accesorios incluidos', value: 'Molinillo de café' },
+      { label: 'Apta para lavavajillas', value: 'No' },
+      { label: 'Portátil', value: 'No' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Liliana AL310 viene con molinillo de café?', answer: 'Sí, ese es su diferencial: incluye un molinillo de café en la caja, que las reviews valoran como "excelente" para café y especias. En otras licuadoras ese accesorio se compra aparte. Es el principal motivo para elegir esta sobre otras.' },
+      { question: '¿Es verdad que la jarra se rompe?', answer: 'Es la queja recurrente y honesta de las reviews: la jarra es de plástico y frágil. "Al mes se me rompió el vaso, es muy frágil", dice un comprador; otro reporta derrame en los primeros usos. No le pasa a todos, pero conviene tratarla con cuidado. Si querés una jarra robusta, mirá las de vidrio.' },
+      { question: '¿De qué material es la jarra?', answer: 'De plástico, a diferencia de la Oster Classic o la Atma Pro, que son de vidrio. El plástico es más liviano pero más frágil y puede tomar olor con el tiempo. Es el principal compromiso de este modelo.' },
+      { question: '¿Cuánta potencia tiene?', answer: '600 W y 2 velocidades. Alcanza para licuados, jugos y untables (hummus incluido, según las reviews). No es una licuadora para uso intensivo de hielo; para eso hay opciones de 700 a 1.500 W en el catálogo.' },
+      { question: '¿Para qué sirve el molinillo?', answer: 'Para moler café en grano, especias y semillas. Las reviews lo usan para café y untables. Es un accesorio práctico que suma versatilidad sin pagar aparte.' },
+      { question: '¿Conviene frente a la Atma Pro?', answer: 'Depende. Si querés el molinillo de café incluido, la Liliana lo trae y la Atma no. Pero si priorizás una jarra que aguante, la Atma Pro es de vidrio y cuesta parecido, con muchas más opiniones (4.980 vs 794) y sin la queja de fragilidad.' },
+      { question: '¿Tiene service en Argentina?', answer: 'Sí, Liliana es una marca nacional con presencia, service y repuestos en el país. Comprá publicaciones nuevas con garantía oficial.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'enero 2026', useful: 4, text: 'Rendimiento: hace todo perfecto. Buena potencia. Calidad: excelente. Funciona perfecto para hummus, licuados, jugos. El molinillo de café excelente.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2024', useful: 4, text: 'Es potente aunque al mes se me rompió el vaso, es muy frágil.' },
+      { rating: 5, country: 'Argentina', date: 'octubre 2023', useful: 3, text: 'La verdad muy lindo, súper recomendable. Lástima que la segunda vez que la uso se derrama todo la jarra de la licuadora.' },
+      { rating: 5, country: 'Argentina', date: 'septiembre 2023', useful: 7, text: 'Muy feliz por esta compra.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Licuadora Liliana Blacklic AL310 con molinillo de café',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_619609-MLA99382230508_112025-F.jpg',
+      description: 'Licuadora de vaso Liliana Blacklic AL310: 1,5 L, 600 W, 2 velocidades, jarra de plástico y molinillo de café incluido. 4.6 estrellas con 794 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Liliana' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/12cS1LU',
+        priceCurrency: 'ARS',
+        price: 58138,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '794',
+      },
+    },
+    relatedProducts: ['MLA19693634', 'MLA17734241', 'MLA50527370'],
+  },
+  {
+    id: 'MLA50527370',
+    title: 'Licuadora Philips Pro Blend HR2260/90 de 1000 W',
+    canonicalName: 'Philips Pro Blend HR2260/90',
+    price: 120839,
+    priceUpdated: "2026-06-21",
+    priceLastChecked: "2026-06-21",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_935248-MLA105750306188_022026-F.jpg',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA50527370',
+    affiliateUrl: 'https://meli.la/116UsZh',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Philips',
+    rating: 4.6,
+    reviewCount: 377,
+    reviewsSampledAt: '2026-06-21',
+    ratingBreakdown: { five: '81%', four: '11%', three: '3%', two: '2%', one: '3%' },
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-purple)',
+    description: 'La Philips Pro Blend HR2260/90 (Serie 3000) es la licuadora de gama media potente del catálogo: 1.000 W, jarra grande de 2 litros, 5 velocidades más turbo y pulsar. 4.6 estrellas en 377 calificaciones. Si querés potencia de marca para hielo y sopas sin irte a la premium, es la apuesta lógica.',
+    aiReviewSummary: 'La potencia es su carta fuerte: 1.000 W y 5 velocidades más turbo, con la jarra más grande del grupo (2 L). Las reviews la usan para sopas crema, purés, jugos y picar hielo, con buen resultado y a un precio razonable para la marca. El compromiso: la jarra es de plástico (no vidrio), así que puede tomar olor con el tiempo, algo a tener en cuenta si sos sensible al sabor.',
+    seoTitle: 'Licuadora Philips Pro Blend HR2260/90: potencia de gama media',
+    metaDescription: 'La Philips HR2260/90 Pro Blend: 1.000 W, jarra de 2 L y 5 velocidades. 4.6★ en 377 opiniones. La de gama media potente del catálogo. Specs reales y contras.',
+    ogTitle: 'Philips Pro Blend HR2260/90: 1.000 W de potencia sin irte a la premium',
+    ogDescription: 'Jarra de 2 litros, 5 velocidades más turbo y la marca Philips. Para sopas, hielo y purés. Te contamos lo bueno y el pero de la jarra de plástico.',
+    h1: 'Licuadora Philips Pro Blend HR2260/90: la potente de gama media, con 1.000 W',
+    pros: [
+      '1.000 W: la más potente del grupo después de la Oster Xtreme',
+      'Jarra grande de 2 litros: la de mayor capacidad del catálogo',
+      '5 velocidades más función turbo y pulsar: control fino',
+      'Apta para picar hielo, sopas crema y purés, según las reviews',
+      '4.6⭐ en 377 calificaciones, con la marca Philips detrás',
+      'Base antideslizante',
+    ],
+    cons: [
+      'Jarra de plástico, no de vidrio: puede tomar olor con el tiempo',
+      'Menos opiniones que la Atma o la Oster Classic',
+      'Más cara que la Atma Pro de vidrio',
+      'Es voluminosa por la jarra de 2 L',
+    ],
+    verdict: 'La elección de gama media cuando querés potencia real (1.000 W) y la marca Philips sin pagar premium. Ideal para sopas, purés y hielo, con la jarra más grande del catálogo. El único compromiso es que la jarra es de plástico; si te importa el vidrio, la Atma Pro o la Oster Classic son el camino.',
+    articleBody: `## La potente de gama media
+
+La Philips Pro Blend HR2260/90 (Serie 3000) es una licuadora de vaso de 1.000 W con jarra de 2 litros, 5 velocidades más turbo y función pulsar, que cuesta alrededor de $120.000 y junta 4.6 estrellas en 377 calificaciones. Es la apuesta de gama media potente del catálogo: más músculo que la Atma Pro, la marca Philips de respaldo, y un precio por debajo de la premium Oster Xtreme.
+
+## Qué hace bien: potencia, capacidad y control
+
+Los 1.000 W se notan. Las reviews la usan para tareas exigentes y responde: "procesamos verduras para sopa crema, es excelente", dice una compradora; otra resume el uso real: "licuado, picar hielo, puré y hacer jugo, todo eso podré hacerlo, con 5 velocidades para elegir el nivel". La jarra de 2 litros es la más grande del grupo, ideal si licuás para varios o hacés sopas en cantidad.
+
+Las 5 velocidades más turbo y pulsar dan un control que las de 2 velocidades (Atma, Liliana) no tienen: podés arrancar suave y subir, o usar el turbo para lo más duro. Para quien quiere afinar la textura, es una ventaja concreta.
+
+## El compromiso: jarra de plástico
+
+A diferencia de la Oster Classic y la Atma Pro, la jarra de la Philips es de plástico, no de vidrio. Eso la hace más liviana, pero el plástico puede tomar olor con el tiempo y es menos resistente a las manchas que el vidrio. Las reviews valoran el material del vaso, pero si sos sensible al sabor o querés algo que no se tiña nunca, el vidrio de la Atma Pro es mejor en ese punto.
+
+## Potencia vs. la premium
+
+Con 1.000 W queda a mitad de camino entre la gama económica (500-700 W) y la premium Oster Xtreme (1.500 W). Para el 90% de los usos domésticos —incluido picar hielo y hacer sopas— los 1.000 W alcanzan de sobra. La Xtreme suma potencia y jarra de vidrio, pero a más del doble de precio y con sus propios contras (jarra pesadísima, reportes de olor).
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés potencia real (sopas, purés, hielo a diario), la jarra más grande del catálogo y la marca Philips, sin pagar premium.
+
+No es para vos si: priorizás la jarra de vidrio (Atma Pro u Oster Classic) o buscás lo más barato. Para batidos individuales y portátiles, la Ninja Blast.`,
+    specs: [
+      { label: 'Marca', value: 'Philips' },
+      { label: 'Línea', value: 'Pro Blend (Serie 3000)' },
+      { label: 'Modelo', value: 'HR2260/90' },
+      { label: 'Tipo', value: 'De vaso' },
+      { label: 'Capacidad de la jarra', value: '2 L' },
+      { label: 'Material de la jarra', value: 'Plástico' },
+      { label: 'Potencia', value: '1.000 W' },
+      { label: 'Velocidades', value: '5 + turbo + pulsar' },
+      { label: 'Apta para picar hielo', value: 'Sí' },
+      { label: 'Función turbo', value: 'Sí' },
+      { label: 'Base antideslizante', value: 'Sí' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Cuánta potencia tiene la Philips HR2260/90?', answer: '1.000 W, la segunda más potente del catálogo después de la Oster Xtreme (1.500 W). Eso le permite picar hielo, hacer sopas crema y purés sin esfuerzo. Para el uso doméstico exigente es de las mejores opciones sin irse a la premium.' },
+      { question: '¿La jarra es de vidrio o de plástico?', answer: 'De plástico. Es su principal compromiso frente a la Atma Pro o la Oster Classic, que son de vidrio. El plástico es más liviano pero puede tomar olor con el tiempo. Si sos sensible al sabor, el vidrio es mejor; si priorizás potencia y capacidad, la Philips gana.' },
+      { question: '¿Cuántas velocidades tiene?', answer: '5 velocidades más función turbo y pulsar. Es de las que más control ofrece del catálogo: podés arrancar suave y subir, o usar el turbo para lo más duro. Las económicas (Atma, Liliana) tienen solo 2.' },
+      { question: '¿Qué capacidad tiene la jarra?', answer: '2 litros, la más grande del grupo. Ideal si licuás para varias personas o hacés sopas en cantidad. La contra es que la hace más voluminosa en la mesada.' },
+      { question: '¿Sirve para sopas y purés?', answer: 'Sí, es uno de sus usos destacados en las reviews: "procesamos verduras para sopa crema, es excelente". Los 1.000 W y las 5 velocidades la hacen versátil para sopas, purés, jugos y licuados.' },
+      { question: '¿Conviene frente a la Oster Xtreme?', answer: 'Para la mayoría, sí. La Xtreme suma potencia (1.500 W) y jarra de vidrio, pero cuesta más del doble y tiene contras reales (jarra pesadísima, reportes de olor a quemado). La Philips da el 90% del resultado a mucho menor precio.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'junio 2026', useful: 0, text: 'Ya la usamos varias veces y es buenísima. Procesamos verduras para sopa crema, es excelente y barata.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 0, text: 'Calidad: buen material del vaso y cuchilla. Uso: licuado, picar hielo, puré y hacer jugo rico. Todo eso podré hacerlo. Es un buen producto y de calidad, con 5 velocidades para elegir a qué nivel se quiere usar. Se los recomiendo.' },
+      { rating: 4, country: 'Argentina', date: 'febrero 2026', useful: 0, text: 'Buen producto, excelente calidad como lo es Philips.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Licuadora Philips Pro Blend HR2260/90 de 1000 W',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_935248-MLA105750306188_022026-F.jpg',
+      description: 'Licuadora de vaso Philips Pro Blend HR2260/90 (Serie 3000): 1.000 W, jarra de plástico de 2 L, 5 velocidades más turbo y pulsar, apta para picar hielo. 4.6 estrellas con 377 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Philips' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/116UsZh',
+        priceCurrency: 'ARS',
+        price: 120839,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '377',
+      },
+    },
+    relatedProducts: ['MLA19693634', 'MLA17734241', 'MLA59377328'],
+  },
+  {
+    id: 'MLA59377328',
+    title: 'Licuadora Oster Xtreme Mix de 1500 W con jarra de vidrio',
+    canonicalName: 'Oster Xtreme Mix OSBLSTXPGBWAR',
+    price: 310799,
+    priceUpdated: "2026-06-21",
+    priceLastChecked: "2026-06-21",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_948878-MLA100041257915_122025-F.jpg',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA59377328',
+    affiliateUrl: 'https://meli.la/1f25iob',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Oster',
+    rating: 4.8,
+    reviewCount: 99,
+    reviewsSampledAt: '2026-06-21',
+    ratingBreakdown: { five: '89%', four: '5%', three: '3%', two: '0%', one: '3%' },
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-coral)',
+    description: 'La Oster Xtreme Mix es la premium del catálogo: 1.500 W, jarra de vidrio de 2 litros y muchísima potencia. 4.8 estrellas en 99 calificaciones. Pero es honesto avisar lo que dicen las reviews: la jarra es pesadísima y cara de reponer, hay reportes de olor a quemado al poco uso, y a un comprador se le quemó en el primer uso.',
+    aiReviewSummary: 'Potencia bruta: 1.500 W que "rompen hielo" y no se traban con nada, con jarra de vidrio de 2 litros. Es la más cara del catálogo. Las críticas honestas son importantes y conviene leerlas: la jarra es pesadísima y da miedo el costo si se rompe, varios reportan olor a quemado al poco tiempo de uso, es ruidosa, y a un comprador se le quemó en el primer uso (lo tuvo que devolver). Es potente y linda, pero no está libre de problemas reportados.',
+    seoTitle: 'Licuadora Oster Xtreme Mix 1500 W: potente pero con peros',
+    metaDescription: 'La Oster Xtreme Mix: 1.500 W, jarra de vidrio de 2 L y 4.8★ en 99 opiniones. La premium del catálogo. Pero ojo: jarra pesadísima, olor a quemado y precio alto.',
+    ogTitle: 'Oster Xtreme Mix: 1.500 W de potencia, con contras que conviene conocer',
+    ogDescription: 'La premium del catálogo: rompe hielo y no se traba con nada. Pero la jarra es pesadísima, hay reportes de olor a quemado y es la más cara. Sin suavizar.',
+    h1: 'Licuadora Oster Xtreme Mix 1500 W: la premium potente, con peros reales',
+    pros: [
+      '1.500 W: la más potente del catálogo, "rompe hielo" según las reviews',
+      'Jarra de vidrio de 2 litros: no toma olor, gran capacidad',
+      '4.8⭐ en 99 calificaciones',
+      'Libre de BPA',
+      'No se traba con nada: pasa congelados y jugos verdes sin esfuerzo',
+      'Apta para lavavajillas (jarra)',
+    ],
+    cons: [
+      'La más cara del catálogo: ronda los $310.000',
+      'Jarra pesadísima: hay que tener cuidado al lavarla y da miedo el costo de reponerla',
+      'Reportes de olor a quemado al poco tiempo de uso, en varias reviews',
+      'Una unidad se quemó en el primer uso (el comprador la devolvió)',
+      'Es ruidosa, marcan las reviews',
+    ],
+    verdict: 'La más potente del catálogo (1.500 W) y con jarra de vidrio, pero también la más cara y la que más contras reales junta: jarra pesadísima, reportes de olor a quemado y hasta una unidad que se quemó al primer uso. Solo la recomendamos si la potencia máxima es prioridad y aceptás los riesgos reportados. Para casi todos, la Philips Pro Blend de 1.000 W rinde igual por mucho menos.',
+    articleBody: `## La premium del catálogo: 1.500 W
+
+La Oster Xtreme Mix (modelo OSBLSTXPGBWAR) es la licuadora más potente y más cara del catálogo: 1.500 W, jarra de vidrio de 2 litros, 3 velocidades y libre de BPA, por alrededor de $310.000. Junta 4.8 estrellas en 99 calificaciones. Es una máquina de potencia bruta, pero también la que más contras reales acumula en las reviews, y por honestidad hay que ponerlos sobre la mesa.
+
+## Qué hace bien: potencia que no se traba
+
+La potencia es real. "Rompe hielo, es un caño esta licuadora", resume un comprador. Otro: "súper potente, nada se le interpone, en minutos mi jugo verde". Los 1.500 W pasan congelados, hielo y preparaciones densas sin esfuerzo, con una jarra de vidrio de 2 litros que no toma olor y aguanta el trabajo pesado. Para quien hace jugos verdes, leches vegetales o smoothies con congelados a diario, la potencia se agradece.
+
+## Los contras reales: pesada, cara y reportes de olor
+
+Acá está la parte honesta, y es importante. Primero, la jarra: "es pesadísima y hay que tener cuidado al lavarla. No quiero imaginar el costo si se rompe", dice una review. El vidrio de 2 litros es robusto pero incómodo de manipular y caro de reponer.
+
+Segundo, y más serio: hay reportes de olor a quemado al poco tiempo de uso. "Cuando le das uso tira olor raro, como a quemado", marca un comprador de 4 estrellas; otro lo confirma: "larga olor como a quemado al poquito tiempo de uso, no sé si será normal". Y el caso más fuerte: "cuando lo recibí me pareció buenísimo pero en el primer uso se quemó, lo tuve que devolver". No le pasa a todos —el rating general es alto— pero son reportes reales y repetidos que conviene conocer antes de gastar $310.000.
+
+Tercero, es ruidosa, algo esperable en una de 1.500 W pero que las reviews mencionan.
+
+## ¿Vale la pena frente a la Philips?
+
+Esta es la pregunta clave. La Philips Pro Blend de 1.000 W cuesta menos de la mitad y, para el 90% de los usos domésticos, rinde igual de bien: pica hielo, hace sopas y purés sin drama. La Xtreme suma 500 W más y jarra de vidrio, pero a cambio de mucho más precio, una jarra incómoda y los reportes de olor. La potencia extra solo se justifica si hacés uso muy intensivo de congelados.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: la potencia máxima es prioridad real (jugos verdes con congelados a diario, leches vegetales en volumen), querés jarra de vidrio grande y aceptás el precio y los riesgos reportados.
+
+No es para vos si: buscás la compra segura. Por menos de la mitad, la Philips Pro Blend da casi lo mismo sin los contras de peso, precio y olor. Y si querés la durabilidad Oster sin el precio premium, la Oster Classic de vidrio es más sensata.`,
+    specs: [
+      { label: 'Marca', value: 'Oster' },
+      { label: 'Modelo', value: 'OSBLSTXPGBWAR (Xtreme Mix)' },
+      { label: 'Tipo', value: 'De vaso, premium' },
+      { label: 'Capacidad de la jarra', value: '2 L' },
+      { label: 'Material de la jarra', value: 'Vidrio' },
+      { label: 'Potencia', value: '1.500 W' },
+      { label: 'Velocidades', value: '3' },
+      { label: 'Apta para picar hielo', value: 'Sí' },
+      { label: 'Libre de BPA', value: 'Sí' },
+      { label: 'Apta para lavavajillas', value: 'Sí (la jarra; base y cuchillas no)' },
+      { label: 'Accesorios incluidos', value: 'Jarra portátil' },
+      { label: 'Color', value: 'Gris' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Cuánta potencia tiene la Oster Xtreme Mix?', answer: '1.500 W, la más potente del catálogo. "Rompe hielo, es un caño", dice una review. Pasa congelados, hielo y jugos verdes sin esfuerzo. Es su gran carta fuerte, aunque para la mayoría de los usos domésticos los 1.000 W de la Philips ya alcanzan.' },
+      { question: '¿Es cierto que larga olor a quemado?', answer: 'Es un reporte real y repetido en las reviews: "cuando le das uso tira olor raro, como a quemado", marcan varios compradores al poco tiempo de uso. No le pasa a todos (el rating general es 4.8), pero son reportes consistentes que conviene conocer antes de gastar $310.000.' },
+      { question: '¿La jarra es pesada?', answer: 'Sí, "es pesadísima y hay que tener cuidado al lavarla", dice una review. El vidrio de 2 litros es robusto pero incómodo de manipular, y un comprador advierte sobre el costo de reponerla si se rompe. Es un detalle a considerar en el uso diario.' },
+      { question: '¿Vale la pena frente a la Philips Pro Blend?', answer: 'Para la mayoría, no. La Philips de 1.000 W cuesta menos de la mitad y rinde igual de bien para el 90% de los usos (hielo, sopas, purés). La Xtreme solo se justifica si hacés uso muy intensivo de congelados y querés jarra de vidrio grande, aceptando precio y contras.' },
+      { question: '¿Se quema?', answer: 'Hay un caso reportado: "en el primer uso se quemó, lo tuve que devolver". Es un caso aislado dentro de un rating alto, pero sumado a los reportes de olor a quemado, es un patrón que conviene conocer. Comprá de publicaciones con garantía oficial para tener respaldo si pasa.' },
+      { question: '¿Por qué es tan cara?', answer: 'Es la premium del catálogo: 1.500 W, jarra de vidrio de 2 litros y la marca Oster. Ronda los $310.000, más del doble que la Philips Pro Blend. Pagás potencia máxima y vidrio, pero el salto de prestaciones reales sobre la Philips es chico para el uso doméstico típico.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'enero 2026', useful: 4, text: 'Rendimiento: rompe hielo. Uso: de todo. Es un caño esta licuadora.' },
+      { rating: 4, country: 'Argentina', date: 'diciembre 2025', useful: 5, text: 'El vaso y la potencia son excelentes. Es fácil de usar, muy intuitiva. Le pongo 4 estrellas porque cuando le das uso tira olor raro, como a quemado.' },
+      { rating: 5, country: 'Argentina', date: 'noviembre 2025', useful: 5, text: 'Está buena. Solo la usamos para licuados. La jarra es pesadísima y hay que tener cuidado al lavarla, no quiero imaginar el costo si se rompe. Y también larga olor como a quemado al poquito tiempo de uso. No sé si será normal porque es nueva.' },
+      { rating: 5, country: 'Argentina', date: 'noviembre 2025', useful: 10, text: 'Cuando lo recibí me pareció buenísimo pero en el primer uso se quemó, lo tuve que devolver. Una pena porque estaba hermoso.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Licuadora Oster Xtreme Mix de 1500 W con jarra de vidrio',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_948878-MLA100041257915_122025-F.jpg',
+      description: 'Licuadora de vaso premium Oster Xtreme Mix (OSBLSTXPGBWAR): 1.500 W, jarra de vidrio de 2 L, 3 velocidades, libre de BPA y apta para picar hielo. 4.8 estrellas con 99 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Oster' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1f25iob',
+        priceCurrency: 'ARS',
+        price: 310799,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '99',
+      },
+    },
+    relatedProducts: ['MLA50527370', 'MLA17734241', 'MLA19693634'],
+  },
+  {
+    id: 'MLA13112158',
+    title: 'Licuadora de mano Peabody PE-LMA327B mixer 800 W',
+    canonicalName: 'Peabody PE-LMA327B',
+    price: 109979,
+    priceUpdated: "2026-06-21",
+    priceLastChecked: "2026-06-21",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-F.jpg',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA13112158',
+    affiliateUrl: 'https://meli.la/2xEshc3',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Peabody',
+    rating: 4.6,
+    reviewCount: 6868,
+    reviewsSampledAt: '2026-06-21',
+    ratingBreakdown: { five: '80%', four: '12%', three: '3%', two: '1%', one: '4%' },
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-blue)',
+    description: 'La Peabody PE-LMA327B no es una licuadora de vaso: es una licuadora de mano (mixer o minipimer) de 800 W con kit completo —batidor, vaso medidor, picadora y soporte—. 4.6 estrellas en 6.868 calificaciones, una de las bases de opiniones más grandes del catálogo. Resuelve otra cosa que la de vaso: licuás directo en la olla.',
+    aiReviewSummary: 'Es un mixer de mano, no una licuadora de vaso: sirve para licuar directo en la olla, hacer purés, sopas, mayonesas, salsas y picar. El kit completo (batidor, picadora, vaso, soporte) es muy elogiado y tiene casi 7.000 opiniones. La varilla y la cuchilla son de acero inoxidable. El contra honesto y recurrente: el cuerpo y los encastres son de plástico, y hay reportes de que "después de 4 meses los plásticos de los encastres se rompen". Respetar el tiempo de uso del fabricante alarga su vida.',
+    seoTitle: 'Licuadora de mano Peabody PE-LMA327B: mixer con kit completo',
+    metaDescription: 'La Peabody PE-LMA327B es una licuadora de mano (mixer) de 800 W con kit completo y 4.6★ en 6.868 opiniones. Licuás en la olla. Specs reales y el contra de los encastres.',
+    ogTitle: 'Peabody PE-LMA327B: la licuadora de mano que licúa directo en la olla',
+    ogDescription: 'Mixer de 800 W con batidor, picadora y soporte. Casi 7.000 opiniones. Te contamos para qué sirve de verdad y el pero de los encastres plásticos.',
+    h1: 'Licuadora de mano Peabody PE-LMA327B: el mixer con kit completo y 6.868 calificaciones',
+    pros: [
+      '4.6⭐ con 6.868 calificaciones: una de las bases más grandes del catálogo',
+      'Licúa directo en la olla: ideal para sopas, purés y cremas',
+      'Kit completo: batidor, vaso medidor, picadora, soporte y pie de licuado',
+      '800 W y 5 velocidades más pulsar',
+      'Varilla y cuchilla de acero inoxidable',
+      'Soporte que mantiene todo ordenado, muy elogiado en las reviews',
+    ],
+    cons: [
+      'Cuerpo y encastres de plástico: hay reportes de que se rompen a los meses',
+      '"Después de 4 meses los plásticos de los encastres se rompen", dice una review',
+      'Necesita una cantidad mínima de ingredientes para mixear bien',
+      'No reemplaza a una licuadora de vaso para licuados con mucho líquido',
+      'Hay que respetar el tiempo de uso del fabricante para que dure',
+    ],
+    verdict: 'Otra herramienta, no una licuadora de vaso: el mixer de mano resuelve sopas, purés, mayonesas y picado directo en la olla, con un kit completo y casi 7.000 opiniones. El contra honesto es que los encastres son de plástico y hay reportes de que se rompen a los meses. Tratalo con cuidado y respetá el tiempo de uso. Si querés licuar batidos con líquido, una de vaso es mejor.',
+    articleBody: `## No es una licuadora de vaso: es un mixer de mano
+
+La Peabody PE-LMA327B es una licuadora de mano —también llamada mixer o minipimer— de 800 W, 5 velocidades y función pulsar, que cuesta alrededor de $110.000 y junta 4.6 estrellas en 6.868 calificaciones. Es importante entender qué es antes de comprar: no reemplaza a una licuadora de vaso, resuelve otra cosa. Con una de mano licuás directo en la olla, sin trasvasar nada.
+
+## Qué hace bien: versatilidad y kit completo
+
+Su fuerte es la versatilidad. Sirve para sopas, purés, cremas, mayonesas, salsas, aderezos y picado, todo con la varilla de acero inoxidable que metés directo en la cacerola. "Para alguien que no tiene ni idea de cocina, esta máquina te vuela la cabeza", dice la review más votada (466 personas la encontraron útil).
+
+El kit es otro punto fuerte: viene con batidor, vaso medidor, vaso picador, pie de licuado y un soporte/organizador que las reviews elogian mucho porque "mantiene ordenada la cocina". Por casi 7.000 opiniones, es una de las herramientas de cocina mejor probadas del catálogo.
+
+## El contra real: los encastres de plástico se rompen
+
+Acá está la letra chica honesta. El cuerpo y los encastres son de plástico, y hay un reporte recurrente: "después de 4 meses los plasticos de los encastres se rompen y no funciona nada, no giran las cuchillas ni de la minipimer ni de la procesadora", dice una review. Es la queja típica de los mixers de mano con accesorios plásticos: la varilla y la cuchilla aguantan, pero las piezas de encastre son el punto débil.
+
+La buena noticia es que se puede mitigar. Una compradora con experiencia lo explica: "mi recomendación para cualquier minipimer es que revisen la aclaración de tiempo de uso del fabricante; eso asegura el buen uso y la durabilidad". Estos motores no están hechos para funcionar varios minutos seguidos sin parar; respetando los descansos, duran mucho más.
+
+## Cómo usarla bien
+
+Dos detalles de las reviews: necesita una cantidad mínima de ingredientes para mixear bien (si ponés muy poco líquido, patina), y conviene respetar los tiempos de uso del fabricante para no forzar el motor ni los encastres. Usándola así, es una herramienta muy querida.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: cocinás —sopas, purés, cremas, mayonesas, salsas— y querés licuar y picar directo en la olla, con un kit completo. Complementa perfecto a una licuadora de vaso.
+
+No es para vos si: lo que querés es hacer licuados y jugos con bastante líquido todos los días. Para eso, una licuadora de vaso (Atma Pro, Oster Classic) es más cómoda y adecuada. Las dos cosas no compiten: hacen tareas distintas.`,
+    specs: [
+      { label: 'Marca', value: 'Peabody' },
+      { label: 'Línea', value: 'Licuadoras de mano' },
+      { label: 'Modelo', value: 'PE-LMA327B (variante PE-LMA327R)' },
+      { label: 'Tipo', value: 'De mano (mixer / minipimer)' },
+      { label: 'Potencia', value: '800 W' },
+      { label: 'Velocidades', value: '5 + función pulsar' },
+      { label: 'Funciones', value: 'Mezclar, licuar, batir, picar' },
+      { label: 'Material de la varilla', value: 'Acero inoxidable' },
+      { label: 'Material de la hoja', value: 'Acero inoxidable' },
+      { label: 'Material del cuerpo', value: 'Plástico' },
+      { label: 'Varilla removible', value: 'Sí' },
+      { label: 'Accesorios incluidos', value: 'Batidor, vaso medidor, vaso picador, organizador, pie de licuado' },
+      { label: 'Apta para picar hielo', value: 'Sí' },
+      { label: 'Voltaje', value: '220 V' },
+      { label: 'Frecuencia', value: '50/60 Hz' },
+    ],
+    faq: [
+      { question: '¿La Peabody PE-LMA327B es una licuadora de vaso?', answer: 'No: es una licuadora de mano (mixer o minipimer). En lugar de una jarra, tiene una varilla que metés directo en la olla o el vaso. Sirve para sopas, purés, cremas, mayonesas y picado. No reemplaza a una de vaso para hacer licuados con mucho líquido; resuelve otra cosa.' },
+      { question: '¿Qué trae el kit?', answer: 'Viene completo: pie de licuado, batidor, vaso medidor, vaso picador y un soporte organizador. Las reviews valoran mucho el soporte porque "mantiene ordenada la cocina". Es uno de los kits más completos del catálogo a este precio.' },
+      { question: '¿Es verdad que se rompe a los meses?', answer: 'Hay un reporte recurrente: "después de 4 meses los plásticos de los encastres se rompen". El cuerpo y los encastres son de plástico y son el punto débil. Se mitiga respetando el tiempo de uso del fabricante (no forzar el motor varios minutos seguidos), como recomienda una compradora con experiencia.' },
+      { question: '¿Para qué sirve mejor?', answer: 'Para licuar y picar directo en la olla: sopas, purés, cremas, mayonesas, salsas, aderezos. La varilla de acero inoxidable va a la cacerola sin trasvasar. Es el complemento ideal de una licuadora de vaso, no su reemplazo.' },
+      { question: '¿Cuánta potencia tiene?', answer: '800 W con 5 velocidades más función pulsar. Es potente para un mixer de mano. Eso sí: necesita una cantidad mínima de ingredientes para mixear bien; si ponés muy poco, patina.' },
+      { question: '¿Conviene una de mano o una de vaso?', answer: 'Depende de qué cocines. Si hacés sopas, purés y cremas, la de mano (esta) es más cómoda porque trabajás en la olla. Si hacés licuados y jugos con líquido a diario, la de vaso (Atma Pro, Oster Classic) es mejor. No compiten: hacen tareas distintas y muchos tienen las dos.' },
+      { question: '¿Tiene service en Argentina?', answer: 'Sí, Peabody es una marca de larga presencia local con service y repuestos en el país. Comprá publicaciones nuevas con garantía oficial.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'diciembre 2020', useful: 466, text: 'Para alguien que no tiene ni idea de cocina como yo, esta máquina te vuela la cabeza. La primera vez que la usé para picar zanahoria quedé como cuando aprendí lo que era la física cuántica: se me abrió un infinito mundo de posibilidades culinarias. 10/10.' },
+      { rating: 5, country: 'Argentina', date: 'octubre 2023', useful: 180, text: 'Parecía bueno pero después de 4 meses los plásticos de los encastres se rompen y no funciona nada, no giran las cuchillas ni de la minipimer ni de la procesadora.' },
+      { rating: 5, country: 'Argentina', date: 'septiembre 2023', useful: 132, text: 'Mi recomendación para cualquier minipimer o aparato de cocina es que revisen la aclaración de tiempo de uso del fabricante. Eso te asegura el buen uso del aparato y su durabilidad. No tengo ninguna queja, estoy encantada. Y resulta muy cómodo el soporte: mantiene ordenada la cocina.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2021', useful: 45, text: 'Por ahora genial. Anda muy bien, tiene buena potencia pero necesitás una cantidad mínima de ingredientes para poder mixear. Mucho más robusta y sólida que todas las que tuve hasta ahora. Buena compra.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Licuadora de mano Peabody PE-LMA327B mixer 800 W',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-F.jpg',
+      description: 'Licuadora de mano (mixer) Peabody PE-LMA327B: 800 W, 5 velocidades, varilla y cuchilla de acero inoxidable, con batidor, vaso medidor, picadora y soporte. 4.6 estrellas con 6.868 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Peabody' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2xEshc3',
+        priceCurrency: 'ARS',
+        price: 109979,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '6868',
+      },
+    },
+    relatedProducts: ['MLA19693634', 'MLA17734241', 'MLA62801882'],
+  },
+  {
+    id: 'MLA62801882',
+    title: 'Licuadora portátil Ninja Blast con carga USB',
+    canonicalName: 'Ninja Blast EUBK',
+    price: 99999,
+    priceUpdated: "2026-06-21",
+    priceLastChecked: "2026-06-21",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_780812-MLA100258841305_122025-F.jpg',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA62801882',
+    affiliateUrl: 'https://meli.la/1CTc5Xx',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Ninja',
+    rating: 4.9,
+    reviewCount: 269,
+    reviewsSampledAt: '2026-06-21',
+    ratingBreakdown: { five: '93%', four: '3%', three: '1%', two: '1%', one: '1%' },
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-amber)',
+    description: 'La Ninja Blast es otra categoría: una licuadora portátil de 530 mL con batería recargable por USB. No es para la mesada, es para hacerte un batido individual donde estés —gimnasio, oficina, viaje— y tomarlo del mismo vaso. 4.9 estrellas en 269 calificaciones, el rating más alto de todas las licuadoras que comparamos.',
+    aiReviewSummary: 'Es una licuadora portátil, no de mesada: vaso individual de 530 mL, batería recargable por USB, para un batido donde estés y tomarlo del mismo vaso. El rating es altísimo (4.9). Las reviews destacan que la batería rinde 4 o 5 licuados, que tritura hasta hielo (mejor con hielo chico para cuidar la cuchilla) y que es práctica para llevar. El único "pero" menor: el cable USB de carga podría ser más largo. No reemplaza a una de vaso para licuar para varios.',
+    seoTitle: 'Licuadora portátil Ninja Blast USB: batido individual donde estés',
+    metaDescription: 'La Ninja Blast: licuadora portátil de 530 mL con batería USB y 4.9★ en 269 opiniones. Para batidos individuales en el gym, oficina o viaje. Specs reales y contras.',
+    ogTitle: 'Ninja Blast: la licuadora portátil para tu batido individual',
+    ogDescription: 'Vaso de 530 mL, batería recargable por USB y el rating más alto del catálogo (4.9). Para el gym, la oficina o el viaje. Te contamos para qué sirve y para qué no.',
+    h1: 'Licuadora portátil Ninja Blast USB: el batido individual que llevás a todos lados',
+    pros: [
+      '4.9⭐ en 269 calificaciones: el rating más alto del catálogo de licuadoras',
+      'Portátil con batería recargable por USB: la usás donde estés',
+      'Vaso individual de 530 mL: licuás y tomás del mismo vaso',
+      'La batería rinde 4 o 5 licuados, según las reviews',
+      'Tritura hasta hielo (mejor con hielo chico)',
+      'Libre de BPA y apta para lavavajillas (el vaso)',
+    ],
+    cons: [
+      'Solo 50 W y 530 mL: es para un batido individual, no para licuar para varios',
+      'El cable USB de carga es corto, marcan las reviews',
+      'Con frutas de mucha piel (arándanos) conviene filtrar',
+      'No reemplaza a una licuadora de vaso para uso familiar',
+      'Hay que recargar la batería (no funciona enchufada a la corriente)',
+    ],
+    verdict: 'Una categoría aparte: para batidos individuales donde estés (gym, oficina, viaje), la Ninja Blast es práctica, recargable y tiene el rating más alto del catálogo (4.9). No es para la mesada ni para licuar para varios; para eso está la Atma Pro o la Oster Classic. Como segundo aparato portátil, es la mejor del grupo.',
+    articleBody: `## Otra categoría: la licuadora portátil
+
+La Ninja Blast (modelo EUBK) es una licuadora portátil de 530 mL con batería recargable por USB, que cuesta alrededor de $100.000 y junta 4.9 estrellas en 269 calificaciones: el rating más alto de todas las licuadoras que comparamos. No es una licuadora de mesada ni un reemplazo de la de vaso: resuelve algo distinto. Es para hacerte un batido individual donde estés —el gimnasio, la oficina, un viaje— y tomarlo del mismo vaso, sin enchufes ni jarras que lavar.
+
+## Qué hace bien: portabilidad y batido individual
+
+El concepto es simple y funciona. Cargás la batería por USB, ponés fruta y líquido en el vaso de 530 mL, licuás y te lo tomás directo. "La batería dura hasta 4 o 5 licuados", confirma una review; otra detalla el uso real: "para cuidar las cuchillas pongo hielo chico, licuado de banana, sandía, arándanos; tamaño rendidor, funcionamiento excelente". Tritura hasta hielo si lo ponés en trozos chicos, y el vaso es libre de BPA y apto para lavavajillas.
+
+Para deportistas, gente de oficina o viajeros que quieren un smoothie sin depender de una licuadora grande, es ideal. El rating de 4.9 con 269 opiniones lo respalda.
+
+## Los contras reales: potencia y alcance
+
+Hay que entender sus límites. Son 50 W y 530 mL: está pensada para un batido individual, no para licuar para toda la familia ni para preparaciones grandes. No es "poca potencia" para lo que es —rinde bien en su tamaño— pero no le pidas lo de una de vaso de 700 o 1.000 W.
+
+El detalle menor que marcan las reviews: el cable USB de carga "podría ser un poco más largo". Y con frutas de mucha piel, como arándanos, conviene filtrar el resultado. Nada grave, pero conviene saberlo.
+
+## No reemplaza a una de vaso
+
+Esto es clave para no comprar mal: la Ninja Blast es un segundo aparato, portátil, para uso individual. Si lo que necesitás es la licuadora de la casa —para licuados de la familia, sopas, hielo en cantidad— una de vaso (Atma Pro, Oster Classic, Philips) es lo que buscás. La Ninja brilla como complemento, no como única licuadora.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés un batido individual donde estés (gym, oficina, viaje), valorás la portabilidad y la carga por USB, y entendés que es para uso individual.
+
+No es para vos si: necesitás la licuadora principal de la casa. Para licuar para varios o uso intensivo, una de vaso es lo correcto; la Ninja es el extra práctico que llevás a todos lados.`,
+    specs: [
+      { label: 'Marca', value: 'Ninja' },
+      { label: 'Línea', value: 'Blast' },
+      { label: 'Modelo', value: 'EUBK' },
+      { label: 'Tipo', value: 'Portátil (vaso individual)' },
+      { label: 'Capacidad total', value: '530 mL (útil 470 mL)' },
+      { label: 'Potencia', value: '50 W' },
+      { label: 'Alimentación', value: 'Batería recargable (5V)' },
+      { label: 'Carga USB', value: 'Sí' },
+      { label: 'Apta para picar hielo', value: 'Sí (hielo chico)' },
+      { label: 'Libre de BPA', value: 'Sí' },
+      { label: 'Apta para lavavajillas', value: 'Sí (el vaso; base no)' },
+      { label: 'Portátil', value: 'Sí' },
+      { label: 'Accesorios incluidos', value: 'Vaso individual portable' },
+      { label: 'Color', value: 'Negro' },
+    ],
+    faq: [
+      { question: '¿La Ninja Blast es una licuadora de mesada?', answer: 'No: es una licuadora portátil de vaso individual (530 mL) con batería recargable por USB. Está pensada para hacerte un batido donde estés —gimnasio, oficina, viaje— y tomarlo del mismo vaso. No reemplaza a una licuadora de vaso para uso familiar.' },
+      { question: '¿Cuántos licuados rinde la batería?', answer: 'Según las reviews, "la batería dura hasta 4 o 5 licuados". Se carga por cable USB. Es una de las ventajas: no depende de un enchufe, la usás en cualquier lado mientras tenga carga.' },
+      { question: '¿Tritura hielo?', answer: 'Sí, pero conviene usar hielo en trozos chicos para cuidar la cuchilla, como recomiendan las reviews. Es libre de BPA y el vaso va al lavavajillas. Para hielo en cantidad y a diario, una licuadora de vaso de más potencia es mejor.' },
+      { question: '¿Tiene suficiente potencia?', answer: 'Para lo que es —un batido individual de 530 mL— rinde bien (50 W). No le pidas lo de una de vaso de 700 o 1.000 W: no está hecha para licuar para varios ni preparaciones grandes. En su tamaño, funciona muy bien, con 4.9 estrellas que lo respaldan.' },
+      { question: '¿Para quién es ideal?', answer: 'Para deportistas, gente de oficina y viajeros que quieren un smoothie individual sin depender de una licuadora grande. Es el complemento portátil perfecto. Como única licuadora de la casa, no: para eso, una de vaso.' },
+      { question: '¿Tiene algún contra?', answer: 'El cable USB de carga es corto, marcan las reviews, y con frutas de mucha piel (arándanos) conviene filtrar el resultado. Son detalles menores. El rating general es 4.9, el más alto del catálogo de licuadoras.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'enero 2026', useful: 3, text: 'Rendimiento: licúa bien, muele y tritura. Calidad: excelente. Para cuidar las cuchillas pongo hielo chico; licuado de banana un 10, sandía también, arándanos queda mucha piel así que lo filtré. Tamaño rendidor, funcionamiento excelente. Se carga la batería con cable USB que podría ser un poco más largo. Viene con manual completo en todos los idiomas. El origen es made in China pero está buenísima, la recomiendo.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2026', useful: 0, text: 'Muy buena calidad. Rendimiento: sirve para cualquier tipo de licuados y puede triturar hasta hielo. Lo recomiendo, la batería dura hasta 4 o 5 licuados.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Licuadora portátil Ninja Blast con carga USB',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_780812-MLA100258841305_122025-F.jpg',
+      description: 'Licuadora portátil Ninja Blast (EUBK): vaso individual de 530 mL, 50 W, batería recargable por USB, libre de BPA y apta para picar hielo. 4.9 estrellas con 269 calificaciones en MercadoLibre Argentina.',
+      brand: { '@type': 'Brand', name: 'Ninja' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1CTc5Xx',
+        priceCurrency: 'ARS',
+        price: 99999,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '269',
+      },
+    },
+    relatedProducts: ['MLA19693634', 'MLA13112158', 'MLA17734241'],
+  },
   {
     id: 'MLA15109525',
     title: 'Cafetera de filtro Ultracomb CA-2205 con timer digital',

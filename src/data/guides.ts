@@ -16,6 +16,123 @@ export function getRelatedGuides(current: Guide, limit = 4): Guide[] {
 
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
+  // PILAR licuadora — diseño best-of (ver docs/guias.md)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "licuadora",
+    category: "licuadoras",
+    title: `Mejores licuadoras en Argentina: cuál comprar [2026]`,
+    seoTitle: `Mejores Licuadoras 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Comparamos las mejores licuadoras de Argentina 2026: Oster, Atma, Philips y Ninja. De vaso, de mano o portátil, jarra de vidrio o plástico, precios reales y cuál comprar.`,
+    ogTitle: `Licuadora 2026: cuál comprar de verdad (sin pagar de más)`,
+    ogDescription: `De vaso, de mano o portátil; vidrio o plástico; Oster o Atma. La guía honesta de licuadoras en Argentina, con precios reales de MercadoLibre y contras incluidos.`,
+    h1: `Mejores licuadoras en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    publishedDate: "2026-06-21",
+    updatedDate: "2026-06-21",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Todo para elegir una licuadora en Argentina sin equivocarte: primero el tipo (de vaso, de mano o portátil), después la marca y la jarra. Ranking con precios reales de MercadoLibre, tabla comparativa y cuál conviene según tu caso.`,
+    quickPicks: [
+      { productMlaId: "MLA17734241", label: "Mejor elección general", labelColor: "green", tagline: "Vidrio, encastre de metal y la durabilidad Oster — 4.8 estrellas en 2.365 opiniones" },
+      { productMlaId: "MLA19693634", label: "Mejor relación precio", labelColor: "blue", tagline: "Jarra de vidrio y 4.980 opiniones por ~$75.000: la value del catálogo" },
+      { productMlaId: "MLA50527370", label: "Más potente gama media", labelColor: "purple", tagline: "Philips de 1.000 W, jarra de 2 L y 5 velocidades" },
+      { productMlaId: "MLA62801882", label: "Mejor portátil", labelColor: "amber", tagline: "Ninja Blast con batería USB para tu batido individual — 4.9 estrellas" },
+    ],
+    intro: [
+      `La **licuadora** parece el electrodoméstico más simple de la cocina, hasta que entrás a MercadoLibre y aparecen tres aparatos distintos llamados igual: la de vaso de toda la vida, una "de mano" que no tiene jarra, y una "portátil" con batería. No son lo mismo ni resuelven lo mismo, y comprar el tipo equivocado es el error más caro y más común.`,
+      `Por eso esta guía arranca por ahí: primero el **tipo** (de vaso, de mano o portátil), después la **marca** (Oster, Atma, Philips y compañía) y recién después el detalle que más se subestima, la **jarra** (vidrio o plástico). Resolviendo esas tres cosas en orden, no te equivocás.`,
+      `Comparamos las licuadoras que se consiguen hoy en MercadoLibre Argentina, cruzando la ficha técnica con lo que cuentan los compradores —incluidos los contras reales—. Si no querés leer todo, el resumen de arriba te lleva directo a la recomendada para cada caso.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_853438-MLA99449333302_112025-F.jpg", alt: `Licuadora Oster Classic BLST4655 con jarra de vidrio, una de las mejor valoradas de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las licuadoras disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos cuatro cosas que cambian el uso real: el tipo de licuadora (de vaso para la cocina, de mano para licuar en la olla, portátil para un batido individual), el material de la jarra (el vidrio no toma olor ni se raja; el plástico barato sí), la potencia (de 500 a 1.500 W, según si solo hacés licuados o también hielo y sopas) y qué dicen las calificaciones públicas de compradores reales. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Antes de comprar: qué tipo de licuadora necesitás`, id: "antes-de-comprar" },
+      { type: "p", content: `Esta es la primera decisión y la más importante, porque tres aparatos distintos se venden como "licuadora". La **de vaso** es la clásica de la mesada: una jarra sobre una base con motor, para licuados, jugos, sopas y untables. La **de mano** (mixer o minipimer, como la Peabody) no tiene jarra: metés una varilla directo en la olla o el vaso, ideal para purés, cremas y mayonesas. Y la **portátil** (como la Ninja Blast) es un vaso individual con batería recargable por USB, para hacerte un batido en el gimnasio o la oficina y tomarlo del mismo vaso.` },
+      { type: "p", content: `Regla rápida: si querés **la** licuadora de la casa, es una de vaso. Si cocinás mucho (sopas, purés, salsas), la de mano la complementa. Si lo tuyo es un smoothie individual a donde vayas, la portátil. No compiten: hacen tareas distintas, y mucha gente termina teniendo dos.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Jarra de vidrio vs. plástico, en una línea", content: `El vidrio no toma olor ni gusto y aguanta años; el plástico es más liviano pero se mancha y, en las económicas, se raja —el caso de la Liliana, cuyas reviews reportan jarras rotas al mes—. Si podés, priorizá vidrio: lo señalamos en cada modelo.` },
+
+      { type: "h2", title: `El ranking: mejores licuadoras 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Oster Classic BLST4655 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA17734241", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Jarra de vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. 4.8 estrellas en 2.365 calificaciones: la durabilidad de "la de tu mamá".` },
+      { type: "p", content: `Es la que recomendamos si querés comprar una vez y olvidarte. Oster domina la categoría por una razón: durabilidad de la vieja escuela. La frase que más se repite en las reviews lo dice todo: "es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo". La jarra es de **vidrio grueso** (no toma olor, pica hielo y fruta congelada), el encastre es de **metal sobre ruleman** —no los dientes de plástico que se desgastan en las baratas— y la cuchilla es inoxidable.` },
+      { type: "p", content: `Lo honesto: ronda los $148.000, varias veces el precio de una de plástico. Y tiene dos detalles que las reviews marcan: el cable es corto y, por el formato de la jarra, lo licuado se estanca en el fondo y conviene pausar y revolver. Pero si valorás que dure años, es la apuesta más segura del catálogo.` },
+      { type: "pull-quote", content: `"¿Es Oster, qué más se puede esperar? Es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo."`, attribution: `Comprador verificado en MercadoLibre, agosto 2022 · 81 personas lo encontraron útil` },
+
+      { type: "h3", title: `2. Atma Pro LI8450AP — mejor relación precio-calidad` },
+      { type: "product-card", productMlaId: "MLA19693634", label: "Mejor relación precio", labelColor: "blue", ranking: 2, description: `Jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~$75.000. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
+      { type: "p", content: `Si querés lo mejor por tu plata, es esta. La Atma Pro da **jarra de vidrio**, cuchilla inoxidable y cierre de seguridad por la mitad de lo que sale una Oster de vidrio, con la base de opiniones más grande de la categoría: **4.980 calificaciones**. El elogio que más se repite es que el vaso no se tiñe: "varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso".` },
+      { type: "p", content: `El recorte honesto: son 500 W y 2 velocidades, así que al hielo le cuesta un poco más ("en primera velocidad quedan grumos, en segunda desaparecen"), y el encastre es de dientes de plástico, como casi todas las de este precio. Para el uso doméstico normal, rinde de sobra. Es la compra inteligente del catálogo.` },
+      { type: "pull-quote", content: `"Estuve dos días comparando. Le doy full uso: varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso. La base es maciza y encastra perfecto. Excelente."`, attribution: `Compradora verificada en MercadoLibre, enero 2023 · 440 personas lo encontraron útil` },
+
+      { type: "h3", title: `3. Philips Pro Blend HR2260/90 — la más potente de gama media` },
+      { type: "product-card", productMlaId: "MLA50527370", label: "Más potente gama media", labelColor: "purple", ranking: 3, description: `1.000 W, jarra de 2 litros (la más grande del grupo) y 5 velocidades más turbo. 4.6 estrellas en 377 calificaciones.` },
+      { type: "p", content: `Si querés potencia real sin irte a la premium, la Philips es la apuesta lógica: **1.000 W**, la jarra más grande del catálogo (2 litros) y 5 velocidades más turbo y pulsar, un control que las de 2 velocidades no tienen. Las reviews la usan para lo exigente: "procesamos verduras para sopa crema, es excelente", y para licuados, hielo y purés sin esfuerzo.` },
+      { type: "p", content: `El compromiso: la jarra es de **plástico**, no de vidrio, así que puede tomar olor con el tiempo. Si sos sensible al sabor, la Atma Pro de vidrio es mejor en ese punto; si lo que querés es músculo y capacidad, la Philips gana. Da el 90% de lo que da la premium Oster Xtreme por mucho menos.` },
+
+      { type: "h3", title: `4. Ninja Blast — mejor portátil para batido individual` },
+      { type: "product-card", productMlaId: "MLA62801882", label: "Mejor portátil", labelColor: "amber", ranking: 4, description: `Licuadora portátil de 530 mL con batería recargable por USB. 4.9 estrellas en 269 calificaciones: el rating más alto del catálogo.` },
+      { type: "p", content: `Otra categoría, no una de mesada. La Ninja Blast es un **vaso individual de 530 mL con batería USB**: licuás y tomás del mismo vaso, donde estés —gimnasio, oficina, viaje—. Tiene el rating más alto de todas las licuadoras que comparamos (**4.9**), y las reviews confirman lo importante: "la batería dura hasta 4 o 5 licuados" y tritura hasta hielo (mejor con hielo chico).` },
+      { type: "p", content: `Lo que hay que entender: son 50 W para un batido individual, no reemplaza a una de vaso para licuar para varios. El único pero menor: el cable USB de carga es corto. Como segundo aparato portátil, es la mejor del grupo.` },
+
+      { type: "h3", title: `5. Oster Xtreme Mix — la premium potente (con peros)` },
+      { type: "product-card", productMlaId: "MLA59377328", label: "Premium", labelColor: "purple", ranking: 5, description: `1.500 W y jarra de vidrio de 2 L: la más potente del catálogo. 4.8 estrellas en 99 calificaciones, pero con contras reales.` },
+      { type: "p", content: `La más potente del catálogo: **1.500 W** que "rompen hielo" y no se traban con nada, con jarra de vidrio de 2 litros. Si hacés jugos verdes con congelados o leches vegetales en volumen a diario, la potencia se agradece. Pero es honesto avisar los contras, porque son varios y reales.` },
+      { type: "p", content: `A $310.000 es la más cara, la jarra es **pesadísima** y cara de reponer, hay **reportes de olor a quemado** al poco uso en varias reviews, es ruidosa y a un comprador se le **quemó en el primer uso** (la devolvió). Para casi todos, la Philips Pro Blend de 1.000 W rinde igual por menos de la mitad. Solo la elegís si la potencia máxima es prioridad y aceptás los riesgos reportados.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Cocinás mucho o presupuesto ajustado?", content: `Si lo tuyo son sopas, purés y mayonesas, una licuadora **de mano** como la [Peabody PE-LMA327B](/producto/MLA13112158) trabaja directo en la olla. Y si buscás un combo con molinillo de café, la [Liliana AL310](/producto/MLA20951762) lo trae —aunque su jarra de plástico es frágil, las reviews reportan roturas—.` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, jarra y potencia`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Jarra / potencia`, `Para quién`], rows: [
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `De vaso`, `Vidrio · 700 W`, `La que dura años`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `De vaso`, `Vidrio · 500 W`, `Mejor relación precio`],
+        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `$120.839`, `De vaso`, `Plástico · 1.000 W`, `Potencia de gama media`],
+        [`[Ninja Blast](https://meli.la/1CTc5Xx)`, `$99.999`, `Portátil USB`, `530 mL · 50 W`, `Batido individual`],
+        [`[Oster Xtreme Mix](https://meli.la/1f25iob)`, `$310.799`, `De vaso premium`, `Vidrio · 1.500 W`, `Potencia máxima (con peros)`],
+        [`[Peabody PE-LMA327B](https://meli.la/2xEshc3)`, `$109.979`, `De mano (mixer)`, `Varilla inox · 800 W`, `Licuar en la olla`],
+        [`[Liliana AL310](https://meli.la/12cS1LU)`, `$58.138`, `De vaso + molinillo`, `Plástico · 600 W`, `Combo con molinillo de café`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu licuadora`, id: "como-elegir" },
+      { type: "h3", title: `1. El tipo: de vaso, de mano o portátil` },
+      { type: "p", content: `Es la decisión madre. La **de vaso** es la licuadora principal de la casa (licuados, jugos, sopas, untables). La **de mano** complementa para purés, cremas y mayonesas directo en la olla. La **portátil** es para un batido individual a donde vayas. Definí qué necesitás antes de mirar marcas: comprar el tipo equivocado es el error más común.` },
+      { type: "h3", title: `2. La marca: por qué Oster domina (y cuándo conviene otra)` },
+      { type: "p", content: `Oster es sinónimo de licuadora en Argentina por durabilidad y herencia ("la de mi mamá"), con service y repuestos en el país. Es la más segura, pero también de las más caras. Cuando el presupuesto manda, **Atma Pro** es el rey value: jarra de vidrio y 4.980 opiniones por ~$75.000. Y para potencia de marca, **Philips** con 1.000 W.` },
+      { type: "h3", title: `3. La jarra: vidrio o plástico` },
+      { type: "p", content: `El vidrio no toma olor ni gusto y dura más; el plástico es más liviano pero se mancha y, en las económicas, se raja —las reviews de la Liliana AL310 reportan jarras rotas al mes—. Si sos sensible al sabor o la querés por años, priorizá vidrio (Oster Classic, Atma Pro, Oster Xtreme).` },
+      { type: "h3", title: `4. La potencia: para qué la vas a usar` },
+      { type: "p", content: `Para licuados de fruta y jugos, 500-700 W alcanzan (Atma, Oster Classic). Para hielo a diario, sopas, purés y untables densos, conviene 1.000 W o más (Philips, Oster Xtreme). Para leches vegetales y congelados intensivos, la potencia de la Xtreme se justifica —si aceptás sus contras—.` },
+
+      { type: "h2", title: `Cuánto cuesta una licuadora en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$55.000 a $75.000:** la franja del mejor valor. Acá viven la [Atma Pro](https://meli.la/1s19WgR) (vidrio, ~$75.000) y la [Liliana AL310](https://meli.la/12cS1LU) con molinillo. La Atma es la compra inteligente.`,
+        `**$100.000 a $150.000:** gama media-alta. La [Oster Classic](https://meli.la/1UhsB6r) de vidrio (durabilidad), la [Philips Pro Blend](https://meli.la/116UsZh) de 1.000 W (potencia) y la [Ninja Blast](https://meli.la/1CTc5Xx) portátil.`,
+        `**$300.000 o más:** premium. La [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W. Solo si la potencia máxima es prioridad y aceptás los contras reportados.`,
+        `**Ojo con las de plástico muy baratas:** se manchan, toman olor y la jarra se raja. La Liliana AL310 lo muestra: motor bueno, pero reviews con jarras rotas al mes.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Oster Classic BLST4655**: vidrio, encastre de metal y la durabilidad de "la de tu mamá", con 4.8 estrellas en 2.365 opiniones. Si querés lo mejor por tu plata, la **Atma Pro LI8450AP** de vidrio a ~$75.000, con 4.980 calificaciones. ¿Potencia de gama media? La **Philips Pro Blend** de 1.000 W. ¿Un batido individual a donde vayas? La **Ninja Blast** portátil (4.9, el rating más alto). Si cocinás mucho, sumá una **de mano Peabody** para la olla. Los errores a evitar: pagar premium por la Oster Xtreme sin necesitar 1.500 W, y comprar plástico barato que se raja como la Liliana.` },
+    ],
+    faq: [
+      { question: `¿Qué licuadora conviene comprar en Argentina en 2026?`, answer: `Por datos, depende del uso. Para la licuadora principal de la casa, la [Oster Classic BLST4655](https://meli.la/1UhsB6r) (vidrio, durabilidad, 4.8★ en 2.365 opiniones). Si priorizás el precio, la [Atma Pro LI8450AP](https://meli.la/1s19WgR) de vidrio a ~$75.000 con 4.980 calificaciones es la mejor relación precio-calidad. Para un batido individual portátil, la [Ninja Blast](https://meli.la/1CTc5Xx).` },
+      { question: `¿Qué diferencia hay entre una licuadora de vaso, de mano y portátil?`, answer: `La de vaso es la clásica de la mesada (jarra sobre base con motor), para licuados, jugos y sopas. La de mano (mixer o minipimer, como la [Peabody PE-LMA327B](https://meli.la/2xEshc3)) no tiene jarra: licuás con una varilla directo en la olla, ideal para purés y cremas. La portátil (como la [Ninja Blast](https://meli.la/1CTc5Xx)) es un vaso individual con batería USB, para un batido donde estés. No son lo mismo ni se reemplazan.` },
+      { question: `¿Conviene una licuadora de jarra de vidrio o de plástico?`, answer: `El vidrio no toma olor ni gusto y dura más; el plástico es más liviano pero se mancha y, en las económicas, se raja. Las reviews de la [Liliana AL310](https://meli.la/12cS1LU) reportan jarras de plástico rotas al mes. Si podés, priorizá vidrio: la [Atma Pro](https://meli.la/1s19WgR) lo trae por ~$75.000 y la [Oster Classic](https://meli.la/1UhsB6r) con vidrio grueso.` },
+      { question: `¿Por qué las licuadoras Oster son las más buscadas?`, answer: `Por durabilidad y herencia: la frase "es la que tenía mi mamá" se repite en las reviews. Oster usa jarra de vidrio, encastre de metal sobre ruleman y cuchilla inoxidable, con service y repuestos en Argentina. Son más caras, pero la apuesta más segura si querés que dure años. La [Oster Classic](https://meli.la/1UhsB6r) es la recomendada.` },
+      { question: `¿Cuánta potencia necesita una licuadora?`, answer: `Para licuados de fruta y jugos, 500-700 W alcanzan (la [Atma Pro](https://meli.la/1s19WgR) o la [Oster Classic](https://meli.la/1UhsB6r)). Para hielo a diario, sopas y untables densos, conviene 1.000 W o más, como la [Philips Pro Blend](https://meli.la/116UsZh). La [Oster Xtreme](https://meli.la/1f25iob) llega a 1.500 W, pero solo se justifica para uso muy intensivo de congelados.` },
+      { question: `¿Cuál es la mejor licuadora barata en Argentina?`, answer: `La [Atma Pro LI8450AP](https://meli.la/1s19WgR) a ~$75.000: jarra de vidrio, cierre de seguridad y 4.7★ en 4.980 calificaciones, la base de opiniones más grande del catálogo. Da casi todo lo de una Oster de vidrio por la mitad de precio. Cuidado con las de plástico muy baratas: se manchan y la jarra se raja.` },
+      { question: `¿Sirve una licuadora portátil como única licuadora de la casa?`, answer: `No. La [Ninja Blast](https://meli.la/1CTc5Xx) es excelente para un batido individual (gym, oficina, viaje) y tiene el rating más alto del catálogo (4.9), pero son 50 W y 530 mL: no licúa para varios ni hace preparaciones grandes. Como única licuadora, conviene una de vaso; la portátil es el complemento perfecto.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Qué cafetera comprar", href: "/guias/que-cafetera-comprar" },
+      { label: "Mejores cafeteras Nespresso", href: "/guias/cafetera-nespresso" },
+    ],
+    internalLinksTitle: "Guías de cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR pavas-electricas — diseño best-of (ver docs/guias.md)
   // ─────────────────────────────────────────────────────────
   {
@@ -13577,5 +13694,10 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Cafeteras",
     description:
       "Comparativas honestas de cafeteras en MercadoLibre Argentina: express, de cápsulas y de filtro. Oster, Smartlife, Peabody, Dolce Gusto y más, con precios reales y reseñas verificadas.",
+  },
+  licuadoras: {
+    name: "Guía de Licuadoras",
+    description:
+      "Comparativas honestas de licuadoras en MercadoLibre Argentina: de vaso, de mano y portátiles. Oster, Atma, Philips, Ninja, Peabody y Liliana, con precios reales y reseñas verificadas.",
   },
 };
