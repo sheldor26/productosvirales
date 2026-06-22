@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ExternalLink, Package } from "lucide-react";
+import { Package } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
@@ -11,20 +11,22 @@ interface ProductCardProps {
 }
 
 function inferLabelColor(label: string | undefined): LabelColor {
-  if (!label) return "amber";
+  if (!label) return "slate";
   const l = label.toLowerCase();
   if (l.includes("elec") || l.includes("nuestra")) return "green";
   if (l.includes("econ") || l.includes("accesible") || l.includes("barata")) return "blue";
-  if (l.includes("premium") || l.includes("exigente") || l.includes("elixir") || l.includes("lujo")) return "amber";
+  if (l.includes("premium") || l.includes("exigente") || l.includes("elixir") || l.includes("lujo")) return "purple";
   if (l.includes("empezar") || l.includes("primera") || l.includes("principiante")) return "purple";
-  return "amber";
+  return "slate";
 }
 
+// Pasteles desaturados / gris. NINGUNO en amarillo/ámbar (el amarillo = solo el botón).
 const LABEL_STYLES: Record<LabelColor, { bg: string; fg: string }> = {
   green: { bg: "#DCEAD5", fg: "#1E4F1E" },
   blue: { bg: "#D5E4F0", fg: "#123D6E" },
-  amber: { bg: "#F0E4CE", fg: "#7A5620" },
+  amber: { bg: "#EEF1F5", fg: "#4A5568" },
   purple: { bg: "#E5D9EC", fg: "#5A2E75" },
+  slate: { bg: "#EEF1F5", fg: "#4A5568" },
 };
 
 function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
@@ -140,11 +142,16 @@ export function ProductCard({ section }: ProductCardProps) {
               href={product.affiliateUrl}
               target="_blank"
               rel="sponsored nofollow noopener"
-              className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-semibold rounded-full text-white transition-opacity hover:opacity-90"
-              style={{ backgroundColor: "var(--editorial-accent)" }}
+              className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+              style={{
+                backgroundColor: "var(--cta-action)",
+                color: "var(--cta-action-text)",
+                border: "1px solid rgba(0,0,0,.18)",
+                boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+              }}
             >
-              Ver en Mercado Libre
-              <ExternalLink size={12} />
+              Comprar en MercadoLibre
+              <span aria-hidden="true" className="font-extrabold">→</span>
             </a>
           </div>
         </div>
@@ -204,12 +211,6 @@ export function ProductCard({ section }: ProductCardProps) {
               {product.reviewCount ? (
                 <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
               ) : null}
-              {price && (
-                <>
-                  <span aria-hidden="true">·</span>
-                  <span className="font-semibold text-[var(--text-secondary)]">{price}</span>
-                </>
-              )}
             </div>
           )}
 
@@ -250,25 +251,49 @@ export function ProductCard({ section }: ProductCardProps) {
             </p>
           )}
 
-          <div className="flex flex-wrap gap-2 pt-2">
+          {/* Unidad precio → botón aislada: solo precio + botón, con aire. */}
+          <div
+            className="mt-2 flex flex-wrap items-center gap-4 rounded-[12px] p-3 md:p-3.5"
+            style={{ backgroundColor: "var(--bg-secondary)" }}
+          >
+            {price && (
+              <div className="leading-tight">
+                <span
+                  className="block text-[22px] font-extrabold text-[var(--text-primary)]"
+                  style={{ fontFamily: "var(--font-display)" }}
+                >
+                  {price}
+                </span>
+                <span className="text-[10.5px] text-[var(--text-muted)]">
+                  Precio verificado contra MercadoLibre
+                </span>
+              </div>
+            )}
             <a
               href={product.affiliateUrl}
               target="_blank"
               rel="sponsored nofollow noopener"
-              className="inline-flex items-center gap-1.5 px-5 py-2.5 text-sm font-semibold rounded-full text-white transition-opacity hover:opacity-90"
-              style={{ backgroundColor: "var(--editorial-accent)" }}
+              className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+              style={{
+                backgroundColor: "var(--cta-action)",
+                color: "var(--cta-action-text)",
+                border: "1px solid rgba(0,0,0,.18)",
+                boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+              }}
             >
-              Ver en Mercado Libre
-              <ExternalLink size={14} />
+              Comprar en MercadoLibre
+              <span aria-hidden="true" className="font-extrabold">→</span>
             </a>
+          </div>
+          {/* "Ver ficha" degradado a link gris debajo (no compite con el CTA). */}
+          <p className="mt-2 text-[13px]">
             <Link
               href={productHref(product)}
-              className="inline-flex items-center px-4 py-2.5 text-sm font-medium rounded-full border text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] transition-colors"
-              style={{ borderColor: "var(--border)" }}
+              className="text-[var(--text-muted)] underline underline-offset-2 hover:text-[var(--text-secondary)] transition-colors"
             >
-              Ficha completa
+              Ver ficha y opiniones
             </Link>
-          </div>
+          </p>
         </div>
       </div>
       <SchemaLd product={product} />

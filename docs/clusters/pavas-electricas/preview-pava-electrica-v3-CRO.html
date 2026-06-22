@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>PREVIEW v3 (CRO perfeccionado) · Pava eléctrica</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#ffffff; --bg2:#f7f7f5; --text:#111; --text2:#5f5f5f; --muted:#9a9a9a; --border:#e8e8e6;
+    --cta:#FFE600; --cta-text:#111;          /* el ÚNICO amarillo de la página = el botón */
+    --star:#A8842E;                           /* dorado apagado, NO compite con el botón */
+    --green:#e3efe0; --blue:#e2edf5; --violet:#ece4f2; --slate:#eef1f5; /* pasteles desaturados */
+    --gtext:#2f5d2f; --btext:#1f4d75; --vtext:#5a3a72; --stext:#4a5568;
+    --rcard:16px; --rbtn:24px;
+  }
+  *{box-sizing:border-box} html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg2);color:var(--text);font-family:"DM Sans",system-ui,sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased;padding-bottom:84px}
+  .pv{background:#111;color:#fff;text-align:center;font-size:12.5px;padding:8px}
+  .pv b{color:#FFE600}
+  .wrap{max-width:760px;margin:0 auto;padding:0 20px 60px}
+  .article{background:var(--bg);border:1px solid var(--border);border-radius:var(--rcard);margin-top:20px;padding:32px clamp(20px,5vw,52px) 46px}
+  h1,h2,h3,h4{font-family:"Plus Jakarta Sans",sans-serif;line-height:1.2}
+  h1{font-size:clamp(26px,5vw,37px);font-weight:800;letter-spacing:-.02em;margin:.15em 0 .3em}
+  .chip{display:inline-block;background:var(--slate);color:var(--stext);font-size:11.5px;font-weight:700;padding:5px 12px;border-radius:9999px;text-transform:uppercase;letter-spacing:.04em}
+  .dek{font-size:18px;color:var(--text2);margin:.4em 0 .8em}
+  .byline{font-size:13px;color:var(--muted);border-top:1px solid var(--border);border-bottom:1px solid var(--border);padding:10px 0}
+  .disc{font-size:11.5px;color:var(--muted);margin:8px 0 0}
+
+  /* ===== BOTÓN: el único amarillo, con peso visual ===== */
+  .btn{display:inline-flex;align-items:center;gap:7px;background:var(--cta);color:var(--cta-text);font-weight:800;font-size:14.5px;padding:12px 20px;border-radius:var(--rbtn);border:1px solid rgba(0,0,0,.18);text-decoration:none;font-family:"DM Sans";box-shadow:0 3px 10px rgba(180,150,0,.30);transition:transform .12s}
+  .btn:hover{transform:translateY(-1px)}
+  .btn .arw{font-weight:800}
+  .btn.sm{padding:10px 16px;font-size:13.5px}
+  /* botón SECUNDARIO: neutro, sin amarillo, claramente menor */
+  .ghost{display:inline-flex;align-items:center;gap:6px;background:#fff;color:var(--text);font-weight:700;font-size:13px;padding:9px 14px;border-radius:var(--rbtn);border:1.5px solid var(--border);text-decoration:none}
+  .ghost:hover{background:var(--bg2)}
+  .tlink{color:var(--text);font-weight:700;font-size:12.5px;text-decoration:none;white-space:nowrap}
+  .tlink:hover{text-decoration:underline}
+
+  /* respuesta directa (para lector apurado + IA) */
+  .answer{background:#fffdf0;border:1px solid #f3e6a8;border-left:4px solid var(--cta);border-radius:12px;padding:14px 16px;margin:18px 0;font-size:15px}
+  .answer b{font-weight:700}
+
+  /* CTA above the fold */
+  .afold{display:flex;align-items:center;gap:14px;flex-wrap:wrap;background:var(--bg2);border:1px solid var(--border);border-radius:var(--rcard);padding:14px 16px;margin:16px 0}
+  .afold .l{flex:1;min-width:180px}
+  .afold .k{font-size:12px;color:var(--text2);font-weight:600}
+  .afold .nm{font-family:"Plus Jakarta Sans";font-weight:800;font-size:16px}
+  .hero{width:100%;aspect-ratio:16/10;object-fit:contain;background:#fff;border:1px solid var(--border);border-radius:var(--rcard);padding:14px;margin:8px 0}
+  .cap{font-size:12px;color:var(--muted);text-align:center;margin-bottom:18px}
+  h2{font-size:clamp(20px,3.5vw,26px);font-weight:800;margin:1.7em 0 .1em}
+  h3{font-size:18px;font-weight:700;margin:1.2em 0 .2em}
+  p{margin:.7em 0}
+
+  /* estrellas APAGADAS */
+  .stars{--p:100%;display:inline-block;position:relative;font-family:Arial;font-size:13px;letter-spacing:1px;vertical-align:-1px}
+  .stars::before{content:"★★★★★";color:#e0e0dc}
+  .stars::after{content:"★★★★★";color:var(--star);position:absolute;left:0;top:0;width:var(--p);overflow:hidden;white-space:nowrap}
+  .rev{color:var(--muted);font-size:12px}
+
+  /* quick picks: 1 dominante + 3 secundarias */
+  .qp-h{font-family:"Plus Jakarta Sans";font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--text2);margin:24px 0 12px}
+  .qp{display:grid;grid-template-columns:repeat(2,1fr);gap:13px}
+  .qp-card{border:1px solid var(--border);border-radius:var(--rcard);padding:14px;display:flex;flex-direction:column;gap:7px;background:var(--bg)}
+  .qp-card.win{border:2px solid #111;box-shadow:0 4px 16px rgba(0,0,0,.07)}
+  .badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:8px;width:fit-content}
+  .b-green{background:var(--green);color:var(--gtext)}.b-blue{background:var(--blue);color:var(--btext)}.b-violet{background:var(--violet);color:var(--vtext)}.b-slate{background:var(--slate);color:var(--stext)}
+  .qp-card img{width:100%;height:92px;object-fit:contain;background:var(--bg2);border-radius:9px}
+  .qp-name{font-weight:700;font-size:14px;font-family:"Plus Jakarta Sans"}
+  .qp-tag{font-size:12.5px;color:var(--text2);flex:1}
+  .qp-foot{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:4px}
+  .price{font-family:"Plus Jakarta Sans";font-weight:800;font-size:16px}
+  .winlab{font-size:10.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#111}
+
+  .trust{background:var(--bg2);border:1px solid var(--border);border-radius:var(--rcard);padding:15px 18px;margin:22px 0;font-size:13.5px;color:var(--text2)}
+  .trust b{color:var(--text)}
+
+  /* product card */
+  .pcard{border:1px solid var(--border);border-radius:var(--rcard);margin:14px 0 16px;background:var(--bg);overflow:hidden}
+  .ribbon{display:flex;align-items:center;gap:8px;padding:8px 18px;font-family:"Plus Jakarta Sans";font-weight:800;font-size:12px;letter-spacing:.05em;text-transform:uppercase}
+  .ribbon .rk{opacity:.5}
+  .r-green{background:var(--green);color:var(--gtext)}.r-blue{background:var(--blue);color:var(--btext)}
+  .pc-body{padding:16px 18px;display:grid;grid-template-columns:148px 1fr;gap:18px}
+  .pc-body img{width:148px;height:148px;object-fit:contain;background:var(--bg2);border-radius:11px}
+  .pc h4{font-size:18px;font-weight:700;margin:2px 0 4px;font-family:"Plus Jakarta Sans"}
+  .pc .meta{display:flex;align-items:center;gap:8px;margin:4px 0}
+  .pc .desc{font-size:14px;color:var(--text2);margin:7px 0 10px}
+  .pc .social{font-size:12px;color:var(--text2);margin:0 0 10px}
+  .pc .social b{color:#2f5d2f}
+  /* unidad precio -> botón (solo precio + botón, nada más) */
+  .buy{display:flex;align-items:center;gap:16px;flex-wrap:wrap;background:var(--bg2);border-radius:12px;padding:12px 14px}
+  .buy .pr{line-height:1.05}
+  .buy .pr .big{font-family:"Plus Jakarta Sans";font-weight:800;font-size:22px;display:block}
+  .buy .pr .sm{font-size:10.5px;color:var(--muted)}
+  .ficha{margin:8px 0 0;font-size:12.5px}
+  .ficha a{color:var(--muted);text-decoration:underline}
+
+  table{width:100%;border-collapse:collapse;margin:14px 0;font-size:13.5px}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--border)}
+  th{font-family:"Plus Jakarta Sans";font-weight:700;background:var(--bg2);font-size:12px}
+
+  .verdict{background:#141414;color:#f3f3f0;border-radius:var(--rcard);padding:22px 24px;margin:22px 0}
+  .verdict h2{color:#fff;margin-top:0}
+  .verdict .vb{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-top:14px}
+  .verdict .ghost{background:transparent;color:#fff;border-color:#555}
+  .verdict .ghost:hover{background:#222}
+
+  .faq{border-top:1px solid var(--border);margin-top:24px}
+  .faq details{border-bottom:1px solid var(--border);padding:2px 0}
+  .faq summary{cursor:pointer;font-family:"Plus Jakarta Sans";font-weight:700;font-size:15px;padding:13px 0;list-style:none}
+  .faq summary::-webkit-details-marker{display:none}
+  .faq summary::after{content:"+";float:right;color:var(--muted)}
+  .faq details[open] summary::after{content:"–"}
+  .faq p{margin:0 0 13px;color:var(--text2);font-size:14px}
+
+  /* sticky mobile */
+  .sticky{position:fixed;left:0;right:0;bottom:0;z-index:50;background:#fff;border-top:1px solid var(--border);box-shadow:0 -3px 14px rgba(0,0,0,.10);display:flex;align-items:center;gap:11px;padding:9px 14px}
+  .sticky img{width:42px;height:42px;object-fit:contain;background:var(--bg2);border-radius:8px;flex:none}
+  .sticky .i{flex:1;min-width:0}
+  .sticky .i .n{font-family:"Plus Jakarta Sans";font-weight:700;font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .sticky .i .p{font-size:12px;color:var(--text2)}
+  .sticky .btn{min-height:44px}
+  .note{font-size:11px;color:var(--muted);text-align:center;padding:6px}
+  @media(max-width:620px){.qp{grid-template-columns:1fr}.pc-body{grid-template-columns:1fr}.pc-body img{width:100%;height:170px}.afold .btn{width:100%;justify-content:center}}
+</style>
+</head>
+<body>
+<div class="pv">PREVIEW v3 · CRO perfeccionado · <b>amarillo = solo el botón</b> · no publicado</div>
+<div class="wrap">
+<article class="article">
+  <span class="chip">Pavas eléctricas</span>
+  <h1>Mejores pavas eléctricas en Argentina: cuál comprar [2026]</h1>
+  <p class="dek">Ranking con precios reales de MercadoLibre, por qué el control de temperatura cambia el mate y cuál conviene según tu caso.</p>
+  <div class="byline">Por el Equipo de Productos Virales · Actualizado junio 2026 · 9 min</div>
+
+  <div class="afold">
+    <div class="l">
+      <div class="k">Nuestra recomendación para el 90%</div>
+      <div class="nm">Liliana Mateando AP975B</div>
+      <div><span class="stars" style="--p:92%"></span> <span class="rev">4.6 · 5.454 calificaciones</span></div>
+    </div>
+    <a class="btn" href="#" rel="nofollow">Comprar a $45.900 en MercadoLibre <span class="arw">→</span></a>
+  </div>
+
+  <img class="hero" src="https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp" alt="Pava Liliana Mateando">
+  <p class="cap">La elección depende de una sola pregunta: ¿tomás mate?</p>
+  <p class="disc">Transparencia: contiene enlaces de afiliado a MercadoLibre. Si comprás, recibimos una comisión chica sin costo extra para vos.</p>
+
+  <div class="answer"><b>Respuesta corta:</b> para la mayoría conviene la <b>Liliana Mateando</b> ($45.900) por su función mate y sus 5.454 calificaciones. Si tomás mucho mate y querés la temperatura exacta, la <b>Peabody Digital</b> (la mejor puntuada, 4.9★).</div>
+
+  <p>La <strong>pava eléctrica</strong> parece toda igual hasta que comprás la equivocada: agua con gusto a plástico o que para el mate te hierve la yerba. Acá te decimos cuál comprar, con datos reales y sin vueltas.</p>
+
+  <div class="qp-h">Nuestras recomendaciones de un vistazo</div>
+  <div class="qp">
+    <div class="qp-card win">
+      <span class="winlab">★ Elección general</span>
+      <span class="badge b-green">Mejor para casi todos</span>
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp" alt="Liliana Mateando">
+      <div class="qp-name">Liliana Mateando AP975B</div>
+      <div class="meta"><span class="stars" style="--p:92%"></span><span class="rev">4.6 · 5.454</span></div>
+      <div class="qp-tag">La más elegida del país. Mate listo sin pensarlo.</div>
+      <div class="qp-foot"><span class="price">$45.900</span><a class="btn sm" href="#" rel="nofollow">Comprar a $45.900 →</a></div>
+    </div>
+    <div class="qp-card">
+      <span class="badge b-blue">Mejor para mate</span>
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp" alt="Peabody Digital">
+      <div class="qp-name">Peabody Digital 40-100°</div>
+      <div class="meta"><span class="stars" style="--p:98%"></span><span class="rev">4.9 · 855</span></div>
+      <div class="qp-tag">Temperatura exacta para no quemar la yerba.</div>
+      <div class="qp-foot"><span class="price">$69.433</span><a class="ghost" href="#" rel="nofollow">Ver a $69.433 →</a></div>
+    </div>
+    <div class="qp-card">
+      <span class="badge b-violet">Mejor acero</span>
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_652957-MLA99453012994_112025-F.webp" alt="Peabody DK1850">
+      <div class="qp-name">Peabody PE-DK1850</div>
+      <div class="meta"><span class="stars" style="--p:94%"></span><span class="rev">4.7 · 1.554</span></div>
+      <div class="qp-tag">Acero de verdad y 4 niveles de mate, sin pagar de más.</div>
+      <div class="qp-foot"><span class="price">$55.999</span><a class="ghost" href="#" rel="nofollow">Ver a $55.999 →</a></div>
+    </div>
+    <div class="qp-card">
+      <span class="badge b-slate">Más económica</span>
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_819670-MLA100005503771_122025-F.webp" alt="Liliana AP152">
+      <div class="qp-name">Liliana AP152</div>
+      <div class="meta"><span class="stars" style="--p:94%"></span><span class="rev">4.7 · 529</span></div>
+      <div class="qp-tag">Todo lo que necesitás por $29.999. Nada de más.</div>
+      <div class="qp-foot"><span class="price">$29.999</span><a class="ghost" href="#" rel="nofollow">Ver a $29.999 →</a></div>
+    </div>
+  </div>
+
+  <div class="trust"><b>Cómo comparamos:</b> analizamos las pavas disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. <b>Verificamos los precios automáticamente contra MercadoLibre</b> (última: junio 2026). Las calificaciones y citas son reales de compradores.</div>
+
+  <h2>El ranking: mejores pavas eléctricas 2026</h2>
+
+  <h3>1. Liliana Mateando AP975B — mejor elección general</h3>
+  <div class="pcard pc">
+    <div class="ribbon r-green"><span class="rk">★ N.º 1</span> Mejor elección general</div>
+    <div class="pc-body">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp" alt="Liliana Mateando">
+      <div>
+        <h4>Liliana Mateando AP975B</h4>
+        <div class="meta"><span class="stars" style="--p:92%"></span><span class="rev">4.6 · 5.454 calificaciones</span></div>
+        <div class="desc">Mate en su punto sin hervir la yerba, 1.7L (dos termos de una) y filtro anti-sarro. Lo honesto: interior plástico — normal a este precio. Para el 90%, alcanza y sobra.</div>
+        <div class="social">✓ <b>La más elegida del país</b> · 5.454 calificaciones (4.6)</div>
+        <div class="buy">
+          <div class="pr"><span class="big">$45.900</span><span class="sm">Precio verificado · junio 2026</span></div>
+          <a class="btn" href="#" rel="nofollow">Comprar en MercadoLibre <span class="arw">→</span></a>
+        </div>
+        <p class="ficha"><a href="#">¿Dudás? Ver ficha y opiniones reales →</a></p>
+      </div>
+    </div>
+  </div>
+
+  <h3>2. Peabody Digital 40-100°C — la mejor para el mate</h3>
+  <div class="pcard pc">
+    <div class="ribbon r-blue"><span class="rk">★ N.º 2</span> Mejor para mate</div>
+    <div class="pc-body">
+      <img src="https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp" alt="Peabody Digital">
+      <div>
+        <h4>Peabody Digital 40-100°C</h4>
+        <div class="meta"><span class="stars" style="--p:98%"></span><span class="rev">4.9 · 855 calificaciones</span></div>
+        <div class="desc">Elegís el grado exacto y lo mantiene toda la tarde: cebás sin que vuelva a hervir nunca. Con 4.9 es la mejor puntuada de la categoría.</div>
+        <div class="social">✓ <b>El rating más alto de todas</b> · 4.9 sobre 855 calificaciones</div>
+        <div class="buy">
+          <div class="pr"><span class="big">$69.433</span><span class="sm">Precio verificado · junio 2026</span></div>
+          <a class="btn" href="#" rel="nofollow">Comprar en MercadoLibre <span class="arw">→</span></a>
+        </div>
+        <p class="ficha"><a href="#">¿Dudás? Ver ficha y opiniones reales →</a></p>
+      </div>
+    </div>
+  </div>
+
+  <h2>Tabla comparativa</h2>
+  <table>
+    <thead><tr><th>Modelo</th><th>Precio</th><th>Mate</th><th>Material</th><th>Ideal para</th><th></th></tr></thead>
+    <tbody>
+      <tr><td>Liliana Mateando</td><td>$45.900</td><td>Función mate</td><td>Plástico</td><td>El 90%</td><td><a class="tlink" href="#">Ver a $45.900 →</a></td></tr>
+      <tr><td>Peabody Digital</td><td>$69.433</td><td>Continua 40-100°</td><td>Acero</td><td>Mate serio</td><td><a class="tlink" href="#">Ver a $69.433 →</a></td></tr>
+      <tr><td>Peabody DK1850</td><td>$55.999</td><td>4 niveles</td><td>Acero</td><td>Acero sin gastar</td><td><a class="tlink" href="#">Ver a $55.999 →</a></td></tr>
+      <tr><td>Liliana AP152</td><td>$29.999</td><td>Selector mate</td><td>Acero</td><td>Presupuesto</td><td><a class="tlink" href="#">Ver a $29.999 →</a></td></tr>
+    </tbody>
+  </table>
+
+  <div class="verdict">
+    <h2>Veredicto: cuál comprar</h2>
+    <p style="margin-top:0">Para la mayoría, la <strong>Liliana Mateando</strong> ($45.900): función mate, marca nacional y 5.454 calificaciones. Si el mate es serio en tu casa, la <strong>Peabody Digital</strong> (4.9★, la mejor puntuada).</p>
+    <div class="vb">
+      <a class="btn" href="#" rel="nofollow">Comprar la Liliana ($45.900) <span class="arw">→</span></a>
+      <a class="ghost" href="#" rel="nofollow">Ver la Peabody Digital →</a>
+    </div>
+  </div>
+
+  <h2>Preguntas frecuentes</h2>
+  <div class="faq">
+    <details open><summary>¿Qué pava eléctrica es mejor para el mate?</summary><p>La que controla la temperatura: el mate se ceba a 70-80°, no a 100° (a esa temperatura quema la yerba). Nuestra favorita es la Peabody Digital. Para gastar menos, la Liliana Mateando trae función mate por preset.</p></details>
+    <details><summary>¿Conviene una pava de acero o de plástico?</summary><p>El acero no le pasa gusto al agua y dura más. La Liliana AP152 es de acero y cuesta $29.999, así que no hace falta pagar de más por tenerlo.</p></details>
+    <details><summary>¿Cuánto cuesta una pava eléctrica buena en 2026?</summary><p>Una de acero con función mate arranca en $29.999. El punto dulce está entre $45.000 y $70.000.</p></details>
+  </div>
+
+</article>
+</div>
+
+<div class="sticky">
+  <img src="https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp" alt="">
+  <div class="i"><div class="n">Liliana Mateando AP975B</div><div class="p">4.6 · 5.454 calificaciones · $45.900</div></div>
+  <a class="btn sm" href="#" rel="nofollow">Comprar a $45.900 →</a>
+</div>
+<div class="note">↑ Barra fija de compra (se muestra solo en celular, acompañando el scroll).</div>
+</body>
+</html>

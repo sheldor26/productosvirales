@@ -27,7 +27,7 @@ export function Stars({ rating, size = 15 }: { rating: number; size?: number }) 
         style={{ width: `${pct}%` }}
         aria-hidden="true"
       >
-        {row("var(--editorial-accent)")}
+        {row("var(--star)")}
       </span>
     </span>
   );

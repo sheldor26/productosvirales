@@ -136,7 +136,7 @@ export interface TrendingKeyword {
   growth?: string;
 }
 
-export type LabelColor = "green" | "blue" | "amber" | "purple";
+export type LabelColor = "green" | "blue" | "amber" | "purple" | "slate";
 export type Intensity = "baja" | "media" | "alta" | "muy alta";
 export type CalloutVariant = "note" | "warning" | "tip" | "update";
 export type TrustVariant = "methodology" | "credentials" | "pricing";

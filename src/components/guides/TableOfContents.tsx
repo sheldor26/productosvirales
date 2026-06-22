@@ -114,7 +114,7 @@ export function TableOfContents({ items }: TableOfContentsProps) {
       <button
         type="button"
         onClick={() => setMobileOpen(true)}
-        className="lg:hidden fixed bottom-5 right-5 z-[55] flex items-center gap-2 px-4 py-2.5 rounded-full shadow-lg text-sm font-medium"
+        className="lg:hidden fixed bottom-[76px] right-4 z-[55] flex items-center gap-2 px-3.5 py-2 rounded-full shadow-lg text-[13px] font-medium"
         style={{
           backgroundColor: "var(--editorial-accent)",
           color: "#FFFFFF",

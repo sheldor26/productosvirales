@@ -1,3 +1,4 @@
+import { Fragment } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { ExternalLink, Target, Award, Tag } from "lucide-react";
@@ -9,7 +10,11 @@ import { ReadingProgressBar } from "./ReadingProgressBar";
 import { TableOfContents } from "./TableOfContents";
 import { ProductCard } from "./ProductCard";
 import { QuickPicks } from "./QuickPicks";
+import { StickyBuyBar } from "./StickyBuyBar";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
+import { getProductById } from "@/lib/products";
+import { formatPrice } from "@/lib/utils";
+import { Stars } from "./Stars";
 
 interface GuideRendererProps {
   guide: Guide;
@@ -393,6 +398,87 @@ function SectionRenderer({ section }: { section: GuideSection }) {
   }
 }
 
+/** Caja compacta de recomendación above-the-fold (antes de la intro). */
+function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
+  const product = getProductById(productMlaId);
+  if (!product) return null;
+  const priceText = product.price
+    ? formatPrice(product.price, product.currency)
+    : null;
+  return (
+    <div
+      className="not-prose my-6 flex flex-wrap items-center gap-4 rounded-[var(--radius-card)] border p-4"
+      style={{ borderColor: "var(--border)", backgroundColor: "var(--bg-secondary)" }}
+    >
+      <div className="flex-1 min-w-[180px]">
+        <p className="text-[12px] font-semibold text-[var(--text-secondary)]">
+          Nuestra recomendación
+        </p>
+        <p
+          className="text-[16px] font-extrabold text-[var(--text-primary)] leading-tight"
+          style={{ fontFamily: "var(--font-display)" }}
+        >
+          {product.title}
+        </p>
+        {product.rating ? (
+          <div className="mt-0.5 flex items-center gap-1.5 text-[12px] text-[var(--text-muted)]">
+            <Stars rating={product.rating} size={12} />
+            <span className="font-medium text-[var(--text-secondary)]">
+              {product.rating.toFixed(1)}
+            </span>
+            {product.reviewCount ? (
+              <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
+            ) : null}
+          </div>
+        ) : null}
+      </div>
+      <a
+        href={product.affiliateUrl}
+        target="_blank"
+        rel="sponsored nofollow noopener"
+        className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+        style={{
+          backgroundColor: "var(--cta-action)",
+          color: "var(--cta-action-text)",
+          border: "1px solid rgba(0,0,0,.18)",
+          boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+        }}
+      >
+        {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
+        <span aria-hidden="true" className="font-extrabold">→</span>
+      </a>
+    </div>
+  );
+}
+
+/** Botón amarillo al producto #1, para repetir tras el veredicto. */
+function VerdictCta({ productMlaId }: { productMlaId: string }) {
+  const product = getProductById(productMlaId);
+  if (!product) return null;
+  const priceText = product.price
+    ? formatPrice(product.price, product.currency)
+    : null;
+  return (
+    <div className="not-prose -mt-2 mb-6">
+      <a
+        href={product.affiliateUrl}
+        target="_blank"
+        rel="sponsored nofollow noopener"
+        className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
+        style={{
+          backgroundColor: "var(--cta-action)",
+          color: "var(--cta-action-text)",
+          border: "1px solid rgba(0,0,0,.18)",
+          boxShadow: "0 3px 10px rgba(180,150,0,.30)",
+        }}
+      >
+        {priceText ? `Comprar a ${priceText} en MercadoLibre` : "Comprar en MercadoLibre"}
+        <span aria-hidden="true" className="font-extrabold">→</span>
+      </a>
+    </div>
+  );
+}
+
 export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
   // Inject stable IDs on every H2/H3 so the TOC + in-page anchors work
   const guide = ensureSectionIds(rawGuide);
@@ -404,6 +490,8 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
   const firstIsHero =
     guide.sections[0]?.type === "image" && guide.sections[0]?.imageSize === "hero";
   const bodySections = firstIsHero ? guide.sections.slice(1) : guide.sections;
+
+  const topPickId = guide.quickPicks?.[0]?.productMlaId;
 
   return (
     <div className="editorial-article">
@@ -427,6 +515,9 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
             </div>
           )}
 
+          {/* CTA above-the-fold: recomendación #1 antes de la intro larga */}
+          {topPickId && <AboveFoldCta productMlaId={topPickId} />}
+
           {/* Remaining intro paragraphs */}
           {introRest.map((p, i) => (
             <p
@@ -444,7 +535,13 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
 
           {/* Sections */}
           {bodySections.map((section, i) => (
-            <SectionRenderer key={i} section={section} />
+            <Fragment key={i}>
+              <SectionRenderer section={section} />
+              {/* Repetir CTA al producto #1 tras el veredicto */}
+              {section.type === "verdict" && topPickId && (
+                <VerdictCta productMlaId={topPickId} />
+              )}
+            </Fragment>
           ))}
 
       {/* FAQ */}
@@ -501,6 +598,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
       <ArticleFooter guide={guide} />
         </article>
       </div>
+      {topPickId && <StickyBuyBar productMlaId={topPickId} />}
     </div>
   );
 }

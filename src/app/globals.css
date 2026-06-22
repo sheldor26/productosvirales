@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ─── Editorial article scope (Wirecutter-style guides) ───────────────── */
 .editorial-article {
-  --bg-primary: #FAFAF5;
+  --bg-primary: #ffffff;
   --bg-secondary: #F5F5F0;
   --text-primary: #1A1A1A;
   --text-secondary: #4A4A4A;
@@ -108,6 +108,10 @@ h1, h2, h3, h4, h5, h6 {
   --border: #E5E5E0;
   --editorial-accent: #A67B3B;
   --editorial-accent-soft: #F0E4CE;
+  /* CRO v3: el amarillo ML es EXCLUSIVO del botón de compra. */
+  --cta-action: #FFE600;
+  --cta-action-text: #111111;
+  --star: #A8842E;
   --font-display: var(--font-serif);
 
   background: var(--bg-primary);
@@ -123,6 +127,10 @@ h1, h2, h3, h4, h5, h6 {
   --border: #2E2824;
   --editorial-accent: #D4A862;
   --editorial-accent-soft: #3A2E20;
+  /* El amarillo CTA funciona también en dark; las estrellas suben un poco. */
+  --cta-action: #FFE600;
+  --cta-action-text: #111111;
+  --star: #D4A862;
 }
 
 .editorial-article .editorial-hero-wrap {
