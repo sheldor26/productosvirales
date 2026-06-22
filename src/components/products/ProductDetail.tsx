@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef } from "react";
+import { useRef, type ReactNode } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -46,6 +46,41 @@ function RatingStars({ rating, size = 15 }: { rating: number; size?: number }) {
   );
 }
 
+/** Tarjeta de sección con etiqueta (kicker) y título, estilo embudo. */
+function SectionCard({
+  kicker,
+  title,
+  className = "",
+  children,
+}: {
+  kicker?: string;
+  title?: string;
+  className?: string;
+  children: ReactNode;
+}) {
+  return (
+    <section
+      className={`mt-8 max-w-3xl rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-5 md:p-6 ${className}`}
+      style={{ opacity: 0 }}
+    >
+      {kicker && (
+        <p className="text-[11px] font-bold uppercase tracking-wider text-[#3483fa] mb-1">
+          {kicker}
+        </p>
+      )}
+      {title && (
+        <h2
+          className="text-lg font-bold text-[var(--text-primary)] mb-4"
+          style={{ fontFamily: "var(--font-display)" }}
+        >
+          {title}
+        </h2>
+      )}
+      {children}
+    </section>
+  );
+}
+
 function updatedLabel(product: Product): string | null {
   const raw =
     product.priceUpdated || product.priceLastChecked || product.reviewsSampledAt;
@@ -58,6 +93,74 @@ function updatedLabel(product: Product): string | null {
   }).format(d);
 }
 
+/** Especificaciones cortas y "titulares" para mostrar como mosaicos. */
+function pickTileSpecs(product: Product) {
+  const preferred = [
+    "potencia",
+    "capacidad",
+    "velocidad",
+    "voltaje",
+    "peso",
+    "bar",
+    "frecuencia",
+    "resolución",
+    "pantalla",
+    "litro",
+  ];
+  const rank = (label: string) => {
+    const l = label.toLowerCase();
+    const i = preferred.findIndex((p) => l.includes(p));
+    return i === -1 ? 99 : i;
+  };
+  return [...(product.specs || [])]
+    .filter((s) => {
+      const v = s.value.trim();
+      return v.length >= 2 && v.length <= 14 && !/^(s[ií]|no)$/i.test(v);
+    })
+    .sort((a, b) => rank(a.label) - rank(b.label))
+    .slice(0, 4);
+}
+
+/**
+ * Separa del articleBody la sección "¿Para quién es…?" para mostrarla como
+ * dos tarjetas (sí / no). Si no encuentra los marcadores, deja el bloque en
+ * el artículo (fallback seguro).
+ */
+function parseArticle(articleBody?: string): {
+  blocks: string[];
+  paraYes?: string;
+  paraNo?: string;
+} {
+  if (!articleBody) return { blocks: [] };
+  const raw = articleBody.split("\n\n");
+  const blocks: string[] = [];
+  let paraYes: string | undefined;
+  let paraNo: string | undefined;
+
+  for (let i = 0; i < raw.length; i++) {
+    const b = raw[i];
+    if (b.startsWith("## ") && /para qui[eé]n/i.test(b) && !paraYes && !paraNo) {
+      const seg: string[] = [];
+      let j = i + 1;
+      while (j < raw.length && !raw[j].startsWith("## ")) {
+        seg.push(raw[j]);
+        j++;
+      }
+      const segText = seg.join(" ");
+      if (/no es para (vos|ti)/i.test(segText)) {
+        const parts = segText.split(/no es para (?:vos|ti) si:?/i);
+        const yesPart = parts[0].replace(/.*es para (?:vos|ti) si:?/i, "").trim();
+        paraYes = yesPart || undefined;
+        paraNo = parts[1] ? parts[1].trim() : undefined;
+        i = j - 1;
+        continue;
+      }
+    }
+    blocks.push(b);
+  }
+  return { blocks, paraYes, paraNo };
+}
+
 export function ProductDetail({ product, relatedProducts = [] }: ProductDetailProps) {
   const containerRef = useRef<HTMLDivElement>(null);
 
@@ -68,29 +171,29 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
   const updated = updatedLabel(product);
   const fewReviews =
     typeof product.reviewCount === "number" && product.reviewCount < 50;
+  const tileSpecs = pickTileSpecs(product);
+  const { blocks: articleBlocks, paraYes, paraNo } = parseArticle(product.articleBody);
 
   useGSAP(() => {
     const selector =
-      ".detail-image, .detail-info, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-related, .detail-cta-band";
+      ".detail-image, .detail-info, .detail-proscons, .detail-related, .detail-parawhom, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-cta-band";
 
     const mm = gsap.matchMedia();
 
     mm.add("(prefers-reduced-motion: no-preference)", () => {
       // El SSR pinta estos bloques con opacity:0 (espacio reservado, sin CLS).
-      // Antes de animar, fijamos el estado final visible (opacity:1) para que
-      // .from() interpole DESDE 0 HACIA 1 — animamos solo opacity/transform,
-      // nunca layout.
       gsap.set(selector, { opacity: 1 });
       const tl = gsap.timeline({ defaults: { opacity: 0, y: 20, duration: 0.4, ease: "power2.out" } });
       tl.from(".detail-image", { x: -20, y: 0 })
         .from(".detail-info", { x: 20, y: 0 }, "<0.1")
-        .from(".detail-article", {}, 0.3)
+        .from(".detail-proscons", {}, 0.3)
+        .from(".detail-related", {}, "-=0.05")
+        .from(".detail-parawhom", {}, "-=0.05")
+        .from(".detail-article", {}, "-=0.05")
         .from(".detail-reviews", {}, "-=0.05")
         .from(".detail-specs", {}, "-=0.05")
         .from(".detail-faq", {}, "-=0.05")
-        .from(".detail-related", {}, "-=0.05")
         .from(".detail-cta-band", {}, "-=0.05");
-      // Aseguramos el estado final (por si el usuario no espera la animación).
       tl.set(selector, { clearProps: "opacity,transform" });
     });
 
@@ -125,7 +228,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
           <ProductGallery product={product} />
         </div>
 
-        {/* Right: Info */}
+        {/* Right: Buy box */}
         <div className="detail-info flex flex-col" style={{ opacity: 0 }}>
           <Link
             href={`/categoria/${product.categorySlug}`}
@@ -232,42 +335,6 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
             </p>
           )}
 
-          {/* Pros / Cons — tarjetas de color */}
-          {(product.pros || product.cons) && (
-            <div className="mt-5 grid grid-cols-1 sm:grid-cols-2 gap-3">
-              {product.pros && (
-                <div className="rounded-[var(--radius-badge)] p-3.5 bg-[rgba(22,163,74,0.08)] border border-[rgba(22,163,74,0.22)]">
-                  <h4 className="flex items-center gap-1.5 text-xs font-bold text-[#16a34a] mb-2 uppercase tracking-wider">
-                    <Check size={14} /> A favor
-                  </h4>
-                  <ul className="space-y-1.5">
-                    {product.pros.map((pro) => (
-                      <li key={pro} className="flex items-start gap-2 text-[13px] text-[var(--text-secondary)] leading-snug">
-                        <Check size={13} className="text-[#16a34a] shrink-0 mt-0.5" />
-                        {pro}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-              {product.cons && (
-                <div className="rounded-[var(--radius-badge)] p-3.5 bg-[rgba(239,68,68,0.07)] border border-[rgba(239,68,68,0.22)]">
-                  <h4 className="flex items-center gap-1.5 text-xs font-bold text-[#ef4444] mb-2 uppercase tracking-wider">
-                    <X size={14} /> En contra
-                  </h4>
-                  <ul className="space-y-1.5">
-                    {product.cons.map((con) => (
-                      <li key={con} className="flex items-start gap-2 text-[13px] text-[var(--text-secondary)] leading-snug">
-                        <X size={13} className="text-[#ef4444] shrink-0 mt-0.5" />
-                        {con}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-            </div>
-          )}
-
           {/* Verdict */}
           {product.verdict && (
             <div className="mt-5 p-4 rounded-[var(--radius-badge)] bg-[rgba(245,158,11,0.10)] border border-[rgba(245,158,11,0.3)]">
@@ -281,7 +348,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
           <div id="product-main-cta" className="mt-6">
             <AffiliateLink
               href={product.affiliateUrl}
-              ariaLabel="Ver en MercadoLibre (se abre en una pestaña nueva)"
+              ariaLabel="Ir a MercadoLibre (se abre en una pestaña nueva)"
               className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors"
             >
               Ir a MercadoLibre
@@ -296,28 +363,174 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
         </div>
       </div>
 
+      {/* ─── Pros / Cons + mosaicos de specs ─── */}
+      {(product.pros || product.cons) && (
+        <SectionCard className="detail-proscons" kicker="El resumen honesto" title="A favor y en contra">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {product.pros && (
+              <div className="rounded-[var(--radius-badge)] p-4 bg-[rgba(22,163,74,0.08)] border border-[rgba(22,163,74,0.22)]">
+                <h3 className="flex items-center gap-1.5 text-sm font-bold text-[#16a34a] mb-2.5">
+                  <Check size={15} /> A favor
+                </h3>
+                <ul className="space-y-2">
+                  {product.pros.map((pro) => (
+                    <li key={pro} className="flex items-start gap-2 text-[13px] text-[var(--text-secondary)] leading-snug">
+                      <Check size={13} className="text-[#16a34a] shrink-0 mt-0.5" />
+                      {pro}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+            {product.cons && (
+              <div className="rounded-[var(--radius-badge)] p-4 bg-[rgba(239,68,68,0.07)] border border-[rgba(239,68,68,0.22)]">
+                <h3 className="flex items-center gap-1.5 text-sm font-bold text-[#ef4444] mb-2.5">
+                  <X size={15} /> En contra
+                </h3>
+                <ul className="space-y-2">
+                  {product.cons.map((con) => (
+                    <li key={con} className="flex items-start gap-2 text-[13px] text-[var(--text-secondary)] leading-snug">
+                      <X size={13} className="text-[#ef4444] shrink-0 mt-0.5" />
+                      {con}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+
+          {tileSpecs.length >= 3 && (
+            <div className="mt-4 grid grid-cols-2 sm:grid-cols-4 gap-2.5">
+              {tileSpecs.map((t) => (
+                <div key={t.label} className="rounded-[var(--radius-badge)] bg-[var(--bg-secondary)] p-3 text-center">
+                  <div className="text-base font-bold text-[var(--text-primary)] leading-tight">
+                    {t.value}
+                  </div>
+                  <div className="text-[11px] text-[var(--text-muted)] mt-0.5 line-clamp-1">
+                    {t.label}
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+        </SectionCard>
+      )}
+
+      {/* ─── Comparar con otros modelos (tabla con estrellas + botón) ─── */}
+      {relatedProducts.length > 0 && (
+        <SectionCard className="detail-related" kicker="Compará" title="Comparar con otros modelos">
+          <div className="-mx-1 overflow-x-auto">
+            <table className="w-full text-sm min-w-[480px]">
+              <thead>
+                <tr className="text-[var(--text-muted)] text-xs uppercase tracking-wider border-b border-[var(--border)]">
+                  <th className="px-2 py-2 text-left font-semibold">Modelo</th>
+                  <th className="px-2 py-2 text-left font-semibold">Precio</th>
+                  <th className="px-2 py-2 text-left font-semibold">Puntaje</th>
+                  <th className="px-2 py-2 text-right font-semibold" aria-label="Comprar" />
+                </tr>
+              </thead>
+              <tbody>
+                {relatedProducts.map((related) => (
+                  <tr key={related.id} className="border-b border-[var(--border)] last:border-0">
+                    <td className="px-2 py-3">
+                      <Link href={productHref(related)} className="flex items-center gap-2.5 group">
+                        <span
+                          className="relative w-10 h-10 shrink-0 rounded-[var(--radius-badge)] overflow-hidden"
+                          style={{ backgroundColor: related.pastelColor || "#f8f8f6" }}
+                        >
+                          {related.image && (
+                            <Image
+                              src={related.image}
+                              alt={related.title}
+                              fill
+                              sizes="40px"
+                              className="object-contain p-1"
+                            />
+                          )}
+                        </span>
+                        <span className="text-[13px] font-semibold text-[var(--text-primary)] line-clamp-2 leading-tight group-hover:text-[#3483fa] transition-colors">
+                          {related.title}
+                        </span>
+                      </Link>
+                    </td>
+                    <td className="px-2 py-3 whitespace-nowrap font-semibold text-[var(--text-primary)]">
+                      {formatPrice(related.price)}
+                    </td>
+                    <td className="px-2 py-3 whitespace-nowrap">
+                      {related.rating ? (
+                        <span className="inline-flex items-center gap-1">
+                          <RatingStars rating={related.rating} size={13} />
+                          <span className="text-[var(--text-secondary)]">
+                            {related.rating.toFixed(1)}
+                          </span>
+                        </span>
+                      ) : (
+                        <span className="text-[var(--text-muted)]">—</span>
+                      )}
+                    </td>
+                    <td className="px-2 py-3 text-right">
+                      <Link
+                        href={productHref(related)}
+                        aria-label={`Ver ${related.title}`}
+                        className="inline-flex items-center gap-1 px-3 py-1.5 text-xs font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors whitespace-nowrap"
+                      >
+                        Ver <ArrowRight size={13} />
+                      </Link>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </SectionCard>
+      )}
+
+      {/* ─── ¿Para quién es? (extraído del artículo) ─── */}
+      {(paraYes || paraNo) && (
+        <SectionCard className="detail-parawhom" kicker="¿Es para vos?" title="Para quién sí y para quién no">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {paraYes && (
+              <div className="rounded-[var(--radius-badge)] p-4 bg-[rgba(22,163,74,0.08)] border border-[rgba(22,163,74,0.22)]">
+                <h3 className="flex items-center gap-1.5 text-sm font-bold text-[#16a34a] mb-2">
+                  <Check size={15} /> Comprala si…
+                </h3>
+                <p className="text-[13px] text-[var(--text-secondary)] leading-relaxed">{paraYes}</p>
+              </div>
+            )}
+            {paraNo && (
+              <div className="rounded-[var(--radius-badge)] p-4 bg-[var(--bg-secondary)] border border-[var(--border)]">
+                <h3 className="flex items-center gap-1.5 text-sm font-bold text-[var(--text-secondary)] mb-2">
+                  <X size={15} /> Mejor otra si…
+                </h3>
+                <p className="text-[13px] text-[var(--text-secondary)] leading-relaxed">{paraNo}</p>
+              </div>
+            )}
+          </div>
+        </SectionCard>
+      )}
+
       {/* ─── Article body ─── */}
-      {product.articleBody && (
-        <article className="detail-article mt-10 max-w-3xl" style={{ opacity: 0 }}>
+      {articleBlocks.length > 0 && (
+        <SectionCard className="detail-article" kicker="El análisis">
           <div className="prose prose-sm max-w-none text-[var(--text-secondary)]">
-            {product.articleBody.split('\n\n').map((block, i) => {
-              if (block.startsWith('## ')) {
+            {articleBlocks.map((block, i) => {
+              if (block.startsWith("## ")) {
                 return (
                   <h2
                     key={i}
-                    className="text-lg font-bold text-[var(--text-primary)] mt-8 mb-3"
-                    style={{ fontFamily: 'var(--font-display)' }}
+                    className="text-lg font-bold text-[var(--text-primary)] mt-7 mb-3 first:mt-0"
+                    style={{ fontFamily: "var(--font-display)" }}
                   >
-                    {block.replace('## ', '')}
+                    {block.replace("## ", "")}
                   </h2>
                 );
               }
               if (/^\d+\.\s/.test(block)) {
-                const items = block.split('\n').filter(Boolean);
+                const items = block.split("\n").filter(Boolean);
                 return (
                   <ol key={i} className="list-decimal list-inside space-y-1.5 my-4 text-sm leading-relaxed">
                     {items.map((item, j) => (
-                      <li key={j}>{item.replace(/^\d+\.\s/, '')}</li>
+                      <li key={j}>{item.replace(/^\d+\.\s/, "")}</li>
                     ))}
                   </ol>
                 );
@@ -329,23 +542,17 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               );
             })}
           </div>
-        </article>
+        </SectionCard>
       )}
 
       {/* ─── Customer reviews ─── */}
       {product.customerReviews && product.customerReviews.length > 0 && (
-        <section className="detail-reviews mt-8 max-w-3xl" style={{ opacity: 0 }}>
-          <h2
-            className="text-lg font-bold text-[var(--text-primary)] mb-4"
-            style={{ fontFamily: 'var(--font-display)' }}
-          >
-            Lo que dicen los compradores
-          </h2>
+        <SectionCard className="detail-reviews" kicker="Voz del comprador" title="Lo que dicen los compradores">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {product.customerReviews.map((review, i) => (
               <figure
                 key={i}
-                className="rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-secondary)] p-4"
+                className="rounded-[var(--radius-badge)] border border-[var(--border)] bg-[var(--bg-secondary)] p-4"
               >
                 <div className="flex items-center gap-2 mb-2 text-xs">
                   <span aria-label={`${review.rating} de 5 estrellas`} className="inline-flex">
@@ -364,25 +571,19 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               </figure>
             ))}
           </div>
-        </section>
+        </SectionCard>
       )}
 
       {/* ─── Specs table ─── */}
       {product.specs && product.specs.length > 0 && (
-        <div className="detail-specs mt-8 max-w-3xl" style={{ opacity: 0 }}>
-          <h2
-            className="text-lg font-bold text-[var(--text-primary)] mb-4"
-            style={{ fontFamily: 'var(--font-display)' }}
-          >
-            Especificaciones
-          </h2>
-          <div className="rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden">
+        <SectionCard className="detail-specs" kicker="Ficha técnica" title="Especificaciones">
+          <div className="rounded-[var(--radius-badge)] border border-[var(--border)] overflow-hidden">
             <table className="w-full text-sm">
               <tbody>
                 {product.specs.map((spec, i) => (
                   <tr
                     key={spec.label}
-                    className={i % 2 === 0 ? 'bg-[var(--bg-secondary)]' : 'bg-[var(--bg-primary)]'}
+                    className={i % 2 === 0 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}
                   >
                     <td className="px-4 py-2.5 font-medium text-[var(--text-primary)] w-[40%]">
                       {spec.label}
@@ -395,23 +596,17 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               </tbody>
             </table>
           </div>
-        </div>
+        </SectionCard>
       )}
 
       {/* ─── FAQ ─── */}
       {product.faq && product.faq.length > 0 && (
-        <section className="detail-faq mt-8 max-w-3xl" style={{ opacity: 0 }}>
-          <h2
-            className="text-lg font-bold text-[var(--text-primary)] mb-4"
-            style={{ fontFamily: 'var(--font-display)' }}
-          >
-            Preguntas frecuentes
-          </h2>
-          <div className="space-y-4">
+        <SectionCard className="detail-faq" kicker="Antes de comprar" title="Preguntas frecuentes">
+          <div className="space-y-3">
             {product.faq.map((item) => (
               <details
                 key={item.question}
-                className="group rounded-[var(--radius-card)] border border-[var(--border)] overflow-hidden"
+                className="group rounded-[var(--radius-badge)] border border-[var(--border)] overflow-hidden"
               >
                 <summary className="flex items-center justify-between px-4 py-3 cursor-pointer text-sm font-medium text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors">
                   {item.question}
@@ -426,88 +621,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               </details>
             ))}
           </div>
-        </section>
-      )}
-
-      {/* ─── Comparar con otros modelos (tabla con estrellas, links internos) ─── */}
-      {relatedProducts.length > 0 && (
-        <section className="detail-related mt-10 max-w-3xl" style={{ opacity: 0 }}>
-          <h2
-            className="text-lg font-bold text-[var(--text-primary)] mb-4"
-            style={{ fontFamily: 'var(--font-display)' }}
-          >
-            Comparar con otros modelos
-          </h2>
-          <div className="rounded-[var(--radius-card)] border border-[var(--border)] overflow-x-auto">
-            <table className="w-full text-sm min-w-[460px]">
-              <thead>
-                <tr className="bg-[var(--bg-secondary)] text-[var(--text-muted)] text-xs uppercase tracking-wider">
-                  <th className="px-4 py-2.5 text-left font-semibold">Modelo</th>
-                  <th className="px-4 py-2.5 text-left font-semibold">Precio</th>
-                  <th className="px-4 py-2.5 text-left font-semibold">Puntaje</th>
-                  <th className="px-4 py-2.5 text-right font-semibold" aria-label="Ver" />
-                </tr>
-              </thead>
-              <tbody>
-                {relatedProducts.map((related) => (
-                  <tr
-                    key={related.id}
-                    className="border-t border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
-                  >
-                    <td className="px-4 py-3">
-                      <Link
-                        href={productHref(related)}
-                        className="flex items-center gap-2.5 group"
-                      >
-                        <span
-                          className="relative w-10 h-10 shrink-0 rounded-[var(--radius-badge)] overflow-hidden"
-                          style={{ backgroundColor: related.pastelColor || '#f8f8f6' }}
-                        >
-                          {related.image && (
-                            <Image
-                              src={related.image}
-                              alt={related.title}
-                              fill
-                              sizes="40px"
-                              className="object-contain p-1"
-                            />
-                          )}
-                        </span>
-                        <span className="text-[13px] font-semibold text-[var(--text-primary)] line-clamp-2 leading-tight group-hover:text-[#3483fa] transition-colors">
-                          {related.title}
-                        </span>
-                      </Link>
-                    </td>
-                    <td className="px-4 py-3 whitespace-nowrap font-semibold text-[var(--text-primary)]">
-                      {formatPrice(related.price)}
-                    </td>
-                    <td className="px-4 py-3 whitespace-nowrap">
-                      {related.rating ? (
-                        <span className="inline-flex items-center gap-1">
-                          <RatingStars rating={related.rating} size={13} />
-                          <span className="text-[var(--text-secondary)]">
-                            {related.rating.toFixed(1)}
-                          </span>
-                        </span>
-                      ) : (
-                        <span className="text-[var(--text-muted)]">—</span>
-                      )}
-                    </td>
-                    <td className="px-4 py-3 text-right">
-                      <Link
-                        href={productHref(related)}
-                        aria-label={`Ver ${related.title}`}
-                        className="inline-flex text-[var(--text-muted)] hover:text-[#3483fa] transition-colors"
-                      >
-                        <ArrowRight size={16} />
-                      </Link>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </section>
+        </SectionCard>
       )}
 
       {/* ─── Banda CTA final ─── */}
