@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Propuesta ficha — Nespresso Lattissima One</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#ffffff; --bg2:#f8f8f6; --txt:#111111; --txt2:#555555; --muted:#999999;
+    --border:#eaeaea; --green:#16a34a; --green-bg:#ecfdf3; --red:#ef4444; --red-bg:#fef2f2;
+    --amber:#f59e0b; --ml-yellow:#ffe600; --ml-blue:#3483fa; --ml-blue-dark:#2968c8;
+    --radius:16px; --radius-sm:10px; --pill:9999px;
+    --font:'Plus Jakarta Sans',system-ui,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:var(--font);background:var(--bg2);color:var(--txt);line-height:1.6;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  img{max-width:100%;display:block}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+
+  /* annotation banner */
+  .note-bar{background:#111;color:#fff;font-size:13px;text-align:center;padding:9px 16px}
+  .note-bar b{color:var(--ml-yellow)}
+
+  /* topbar */
+  .top{background:var(--bg);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:50}
+  .top .wrap{display:flex;align-items:center;justify-content:space-between;height:58px}
+  .logo-real{display:flex;align-items:center;gap:2px;font-weight:700;font-size:20px;letter-spacing:-.02em;line-height:1}
+  .logo-real .lg-1{color:#b8a9d4}
+  .logo-real .lg-2{position:relative;color:#fff;background:#f4b5a4;padding:2px 8px;border-radius:8px}
+  .logo-real .lg-arrow{position:absolute;top:-2px;right:-4px}
+  .nav{display:flex;gap:22px;font-size:14px;color:var(--txt2);font-weight:500}
+  .nav a:hover{color:var(--txt)}
+  @media(max-width:640px){.nav{display:none}}
+
+  .crumb{font-size:12px;color:var(--muted);padding:16px 0 4px;display:flex;gap:6px;flex-wrap:wrap}
+  .crumb a:hover{color:var(--txt2)}
+
+  /* hero grid */
+  .hero{display:grid;grid-template-columns:1fr 1fr;gap:34px;background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:28px;margin-top:6px}
+  @media(max-width:860px){.hero{grid-template-columns:1fr;padding:18px;gap:22px}}
+  .gal{position:relative}
+  .gal-img{background:var(--bg2);border-radius:var(--radius);aspect-ratio:1;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .gal-img img{object-fit:contain;padding:18px;width:100%;height:100%}
+  .gal-badges{position:absolute;top:14px;left:14px;display:flex;flex-direction:column;gap:8px}
+  .badge{font-size:11px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:5px 10px;border-radius:var(--pill)}
+  .b-viral{background:#7c3aed;color:#fff}
+  .b-ship{background:var(--green-bg);color:var(--green);border:1px solid #c4f0d4}
+  .thumbs{display:flex;gap:8px;margin-top:10px}
+  .thumbs div{width:54px;height:54px;border-radius:10px;background:var(--bg2);border:1px solid var(--border)}
+  .thumbs div:first-child{border-color:var(--txt)}
+
+  /* buy box */
+  .cat-link{font-size:12px;color:var(--ml-blue);font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+  h1{font-size:25px;line-height:1.22;font-weight:800;letter-spacing:-.02em;margin:8px 0 12px}
+  @media(max-width:860px){h1{font-size:21px}}
+  .rate{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--txt2);margin-bottom:14px;flex-wrap:wrap}
+  .stars{color:var(--amber);letter-spacing:1px;font-size:15px}
+  .rate b{color:var(--txt)}
+  .rate .few{background:#fff7ed;color:#b45309;border:1px solid #fed7aa;font-size:11px;font-weight:600;padding:2px 8px;border-radius:var(--pill)}
+
+  .price-row{display:flex;align-items:baseline;gap:10px;margin-bottom:6px}
+  .price{font-size:36px;font-weight:800;letter-spacing:-.02em}
+  .trust{display:flex;flex-wrap:wrap;gap:14px;margin:10px 0 18px;font-size:13px}
+  .trust span{display:flex;align-items:center;gap:6px;color:var(--txt2)}
+  .trust .ok{color:var(--green);font-weight:600}
+
+  .cta{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;border:none;cursor:pointer;
+    font-family:var(--font);font-weight:800;font-size:16px;border-radius:var(--pill);padding:15px 20px;transition:transform .08s,box-shadow .15s}
+  .cta-primary{background:var(--ml-blue);color:#fff;box-shadow:0 6px 18px rgba(52,131,250,.32)}
+  .cta-primary:hover{background:var(--ml-blue-dark);transform:translateY(-1px)}
+  .cta-ghost{background:var(--bg);color:var(--txt);border:1.5px solid var(--border);font-weight:600;font-size:14px;padding:12px 20px;margin-top:10px}
+  .cta-ghost:hover{background:var(--bg2)}
+  .cta-sub{text-align:center;font-size:12px;color:var(--muted);margin-top:10px}
+  .seller{display:flex;align-items:center;gap:8px;margin-top:14px;padding-top:14px;border-top:1px solid var(--border);font-size:13px;color:var(--txt2)}
+  .seller b{color:var(--txt)}
+
+  /* verdict callout */
+  .verdict{background:#fffbeb;border:1px solid #fde68a;border-left:4px solid var(--amber);border-radius:var(--radius-sm);padding:16px 18px;margin-top:16px;font-size:14px;color:#713f12;line-height:1.55}
+  .verdict b{color:#92400e}
+
+  /* section */
+  section{margin-top:18px}
+  .card{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);padding:24px}
+  @media(max-width:860px){.card{padding:18px}}
+  h2{font-size:20px;font-weight:800;letter-spacing:-.02em;margin-bottom:4px}
+  .kicker{font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ml-blue);margin-bottom:6px}
+
+  /* pros cons */
+  .pc{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:700px){.pc{grid-template-columns:1fr}}
+  .pcbox{border-radius:var(--radius-sm);padding:18px}
+  .pc-pro{background:var(--green-bg);border:1px solid #bbf7d0}
+  .pc-con{background:var(--red-bg);border:1px solid #fecaca}
+  .pchead{display:flex;align-items:center;gap:8px;font-weight:800;font-size:15px;margin-bottom:12px}
+  .pc-pro .pchead{color:#15803d}
+  .pc-con .pchead{color:#b91c1c}
+  .pclist{list-style:none;display:flex;flex-direction:column;gap:9px}
+  .pclist li{display:flex;gap:9px;font-size:13.5px;line-height:1.45;color:var(--txt2)}
+  .ic{flex:none;width:18px;height:18px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:800;color:#fff;margin-top:1px}
+  .pc-pro .ic{background:var(--green)}
+  .pc-con .ic{background:var(--red)}
+
+  /* spec tiles */
+  .tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  @media(max-width:700px){.tiles{grid-template-columns:repeat(2,1fr)}}
+  .tile{background:var(--bg2);border-radius:var(--radius-sm);padding:16px;text-align:center}
+  .tile .v{font-size:22px;font-weight:800;letter-spacing:-.02em}
+  .tile .l{font-size:12px;color:var(--muted);margin-top:2px}
+
+  /* comparison table */
+  .tbl-wrap{overflow-x:auto;border-radius:var(--radius-sm);border:1px solid var(--border)}
+  table.cmp{width:100%;border-collapse:collapse;font-size:13.5px;min-width:560px}
+  table.cmp th,table.cmp td{padding:12px 14px;text-align:left;border-bottom:1px solid var(--border)}
+  table.cmp thead th{background:var(--bg2);font-size:12px;text-transform:uppercase;letter-spacing:.03em;color:var(--txt2);font-weight:700}
+  table.cmp td:first-child,table.cmp th:first-child{font-weight:700}
+  table.cmp .hl{background:#eff6ff}
+  table.cmp .hl td:first-child{color:var(--ml-blue)}
+  .pill-tag{font-size:11px;font-weight:700;padding:2px 8px;border-radius:var(--pill)}
+  .tg-best{background:#dcfce7;color:#15803d}
+  .tg-mid{background:#fef9c3;color:#854d0e}
+
+  /* who for */
+  .who{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:700px){.who{grid-template-columns:1fr}}
+  .who-box{border-radius:var(--radius-sm);padding:18px;border:1px solid var(--border)}
+  .who-yes{background:var(--green-bg);border-color:#bbf7d0}
+  .who-no{background:var(--bg2)}
+  .who h3{font-size:15px;font-weight:800;margin-bottom:10px;display:flex;gap:8px;align-items:center}
+  .who-yes h3{color:#15803d}
+  .who-no h3{color:var(--txt2)}
+  .who ul{list-style:none;display:flex;flex-direction:column;gap:8px;font-size:13.5px;color:var(--txt2)}
+  .who li{padding-left:18px;position:relative}
+  .who-yes li::before{content:"✓";position:absolute;left:0;color:var(--green);font-weight:800}
+  .who-no li::before{content:"✕";position:absolute;left:0;color:var(--muted);font-weight:800}
+
+  /* article */
+  .article p{font-size:15px;color:var(--txt2);margin-bottom:14px;line-height:1.7}
+  .article h2{margin:26px 0 10px}
+  .article a{color:var(--ml-blue);font-weight:600}
+  .pullquote{background:var(--bg2);border-left:4px solid var(--ml-blue);border-radius:0 var(--radius-sm) var(--radius-sm) 0;padding:16px 18px;margin:18px 0;font-size:15px;color:var(--txt);font-weight:500}
+  .honesty{background:#eff6ff;border:1px solid #bfdbfe;border-radius:var(--radius-sm);padding:16px 18px;margin:18px 0;font-size:14px;color:#1e40af}
+  .honesty b{display:block;margin-bottom:4px}
+
+  /* reviews */
+  .rev{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:700px){.rev{grid-template-columns:1fr}}
+  .revcard{background:var(--bg2);border:1px solid var(--border);border-radius:var(--radius-sm);padding:16px}
+  .revcard .meta{font-size:12px;color:var(--muted);margin-bottom:8px}
+  .revcard .meta .stars{font-size:13px}
+  .revcard q{font-size:14px;color:var(--txt2);font-style:italic;line-height:1.55}
+
+  /* specs */
+  table.spec{width:100%;border-collapse:collapse;font-size:14px;border-radius:var(--radius-sm);overflow:hidden}
+  table.spec td{padding:11px 16px}
+  table.spec tr:nth-child(odd){background:var(--bg2)}
+  table.spec td:first-child{font-weight:600;width:42%}
+  table.spec td:last-child{color:var(--txt2)}
+
+  /* faq */
+  details{border:1px solid var(--border);border-radius:var(--radius-sm);margin-bottom:10px;overflow:hidden}
+  summary{cursor:pointer;list-style:none;padding:15px 18px;font-weight:600;font-size:14.5px;display:flex;justify-content:space-between;align-items:center;gap:10px}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";font-size:20px;color:var(--muted);font-weight:400}
+  details[open] summary::after{content:"–"}
+  details[open] summary{background:var(--bg2)}
+  details .body{padding:0 18px 16px;font-size:14px;color:var(--txt2);line-height:1.6}
+
+  /* final cta band */
+  .band{background:#111;border-radius:var(--radius);padding:30px;text-align:center;color:#fff;margin-top:18px}
+  .band h2{color:#fff;margin-bottom:6px}
+  .band p{color:#bbb;font-size:14px;margin-bottom:18px}
+  .band .price{color:var(--ml-yellow);font-size:30px}
+  .band .cta{max-width:340px;margin:14px auto 0}
+
+  /* related */
+  .related{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  @media(max-width:700px){.related{grid-template-columns:repeat(2,1fr)}}
+  .relcard{background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-sm);padding:12px;font-size:12.5px}
+  .relcard .ph{aspect-ratio:1;background:var(--bg2);border-radius:8px;margin-bottom:8px}
+  .relcard .t{font-weight:600;line-height:1.3;color:var(--txt);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .relcard .p{color:var(--ml-blue);font-weight:700;margin-top:4px}
+
+  /* sticky mobile */
+  .sticky{position:fixed;left:0;right:0;bottom:0;background:var(--bg);border-top:1px solid var(--border);padding:10px 16px;display:none;align-items:center;gap:12px;z-index:60;box-shadow:0 -4px 16px rgba(0,0,0,.06)}
+  .sticky .p{font-weight:800;font-size:17px}
+  .sticky .cta{width:auto;flex:1;padding:13px 18px;font-size:15px}
+  @media(max-width:860px){.sticky{display:flex}body{padding-bottom:74px}}
+
+  footer{text-align:center;color:var(--muted);font-size:12px;padding:34px 20px}
+</style>
+</head>
+<body>
+
+<div class="note-bar">Borrador de rediseño · misma copy, nueva presentación orientada a <b>conversión</b> · ProductosVirales</div>
+
+<header class="top"><div class="wrap">
+  <a href="#" class="logo-real" aria-label="productosvirales">
+    <span class="lg-1">productos</span><span class="lg-2">virales<svg width="10" height="10" viewBox="0 0 12 12" fill="none" class="lg-arrow" aria-hidden="true"><path d="M2 9L6 5L8 7L11 3" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 3H11V6" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+  </a>
+  <nav class="nav"><a>Inicio</a><a>Trending</a><a>Categorías</a><a>Guías</a></nav>
+</div></header>
+
+<div class="wrap">
+  <div class="crumb"><a>Inicio</a> › <a>Cocina</a> › <span>Nespresso Lattissima One</span></div>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="gal">
+      <div class="gal-badges">
+        <span class="badge b-viral">Premium</span>
+        <span class="badge b-ship">✓ Envío gratis</span>
+      </div>
+      <div class="gal-img">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_633808-MLA99961118239_112025-F.jpg" alt="Cafetera Nespresso Lattissima One blanca con leche integrada">
+      </div>
+      <div class="thumbs"><div></div><div></div><div></div></div>
+    </div>
+
+    <div class="buy">
+      <span class="cat-link">Cocina</span>
+      <h1>Cafetera Nespresso Lattissima One blanca: la premium con leche integrada one-touch</h1>
+
+      <div class="rate">
+        <span class="stars">★★★★★</span>
+        <b>4.8</b><span>· 20 opiniones</span>
+        <span class="few">Pocas opiniones — lo decimos de frente</span>
+      </div>
+
+      <div class="price-row"><span class="price">$515.880</span></div>
+      <div class="trust">
+        <span class="ok">✓ Envío gratis</span>
+        <span>● Nuevo</span>
+        <span>● 1.300 W · 1 L</span>
+      </div>
+
+      <button class="cta cta-primary" onclick="go()">Ver precio en MercadoLibre →</button>
+      <button class="cta cta-ghost" onclick="go()">Ir a la oferta</button>
+      <p class="cta-sub">Te lleva a la publicación oficial en MercadoLibre · precio actualizado allí</p>
+
+      <div class="seller">🛒 Vendido en <b>MercadoLibre Argentina</b> · sistema Nespresso Original</div>
+
+      <div class="verdict">
+        💬 <b>La Nespresso más cómoda para bebidas con leche:</b> depósito de leche integrado y cappuccino de un toque, sin espumador aparte. 4.8 estrellas, pero todavía con pocas opiniones (20). Se justifica solo si la leche es central en tu café y querés cero maniobra.
+      </div>
+    </div>
+  </div>
+
+  <!-- PROS / CONS -->
+  <section class="card">
+    <div class="kicker">El resumen honesto</div>
+    <h2 style="margin-bottom:16px">A favor y en contra</h2>
+    <div class="pc">
+      <div class="pcbox pc-pro">
+        <div class="pchead"><span class="ic">✓</span> Lo bueno</div>
+        <ul class="pclist">
+          <li><span class="ic">✓</span>Leche integrada one-touch: cappuccino o latte apretando un solo botón, sin espumador aparte</li>
+          <li><span class="ic">✓</span>Depósito de leche incorporado: todo en un paso, la comodidad máxima del sistema</li>
+          <li><span class="ic">✓</span>4.8⭐ en las opiniones que tiene: "riquísimo el café, funciona perfecto"</li>
+          <li><span class="ic">✓</span>1.300 W de potencia y depósito de agua de 1 litro</li>
+          <li><span class="ic">✓</span>Diseño en blanco, prolijo y distinto del negro/acero del resto del catálogo</li>
+        </ul>
+      </div>
+      <div class="pcbox pc-con">
+        <div class="pchead"><span class="ic">✕</span> A tener en cuenta</div>
+        <ul class="pclist">
+          <li><span class="ic">✕</span>Pocas opiniones todavía: solo 20 calificaciones, menos respaldo que la Essenza Mini o la Citiz &amp; Milk</li>
+          <li><span class="ic">✕</span>Material plástico: un comprador esperaba mejor terminación</li>
+          <li><span class="ic">✕</span>Hay que limpiar el circuito de leche cada vez que la usás: mantenimiento extra diario</li>
+          <li><span class="ic">✕</span>La más cara del catálogo de cápsulas: más del doble que la Essenza Mini</li>
+          <li><span class="ic">✕</span>Sistema cerrado: solo cápsulas Nespresso Original, sin café molido ni Dolce Gusto</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="tiles" style="margin-top:18px">
+      <div class="tile"><div class="v">1.300W</div><div class="l">Potencia</div></div>
+      <div class="tile"><div class="v">1 L</div><div class="l">Depósito de agua</div></div>
+      <div class="tile"><div class="v">4.8★</div><div class="l">20 opiniones</div></div>
+      <div class="tile"><div class="v">1 toque</div><div class="l">Leche integrada</div></div>
+    </div>
+  </section>
+
+  <!-- COMPARISON -->
+  <section class="card">
+    <div class="kicker">Decidí en 10 segundos</div>
+    <h2 style="margin-bottom:6px">Comparar con las otras Nespresso del catálogo</h2>
+    <p style="color:var(--txt2);font-size:14px;margin-bottom:16px">Si tomás café solo, hay opciones mucho más baratas. La Lattissima One gana en una sola cosa: la leche integrada one-touch.</p>
+    <div class="tbl-wrap">
+      <table class="cmp">
+        <thead><tr>
+          <th>Modelo</th><th>Precio</th><th>Leche</th><th>Material</th><th>Opiniones</th><th>Mejor para</th>
+        </tr></thead>
+        <tbody>
+          <tr class="hl">
+            <td>Lattissima One</td><td>$515.880</td>
+            <td><span class="pill-tag tg-best">Integrada 1 toque</span></td>
+            <td>Plástico</td><td>20</td><td>Cero maniobra con leche</td>
+          </tr>
+          <tr>
+            <td>Citiz &amp; Milk</td><td>$368.699</td>
+            <td><span class="pill-tag tg-mid">Espumador aparte</span></td>
+            <td>Acero</td><td>130</td><td>Leche + más respaldo, más barata</td>
+          </tr>
+          <tr>
+            <td>Essenza Mini</td><td>$200.000</td>
+            <td>—</td><td>Plástico</td><td>2.663</td><td>Café solo, la más vendida</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <button class="cta cta-primary" style="max-width:340px;margin:18px auto 0" onclick="go()">Me quedo con la Lattissima One →</button>
+  </section>
+
+  <!-- WHO FOR -->
+  <section class="card">
+    <div class="kicker">¿Es para vos?</div>
+    <h2 style="margin-bottom:16px">Para quién sí y para quién no</h2>
+    <div class="who">
+      <div class="who-box who-yes">
+        <h3>👍 Comprala si…</h3>
+        <ul>
+          <li>Tomás cappuccino o latte casi siempre</li>
+          <li>Querés la máxima comodidad: un botón, leche integrada, cero maniobra</li>
+          <li>El presupuesto no es el límite</li>
+        </ul>
+      </div>
+      <div class="who-box who-no">
+        <h3>👎 Mejor otra si…</h3>
+        <ul>
+          <li>Necesitás muchas opiniones para decidir (tiene solo 20)</li>
+          <li>Te molesta limpiar el circuito de leche cada día</li>
+          <li>Esperás terminación premium en los materiales</li>
+          <li>Tomás café solo (cualquier Nespresso más barata te lo da igual)</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ARTICLE -->
+  <section class="card article">
+    <h2 style="margin-top:0">La premium de Nespresso, con leche integrada</h2>
+    <p>La Nespresso Lattissima One blanca cuesta $515.880 y es la premium del sistema Nespresso para bebidas con leche. Su diferencial frente a la Citiz &amp; Milk es clave: en lugar de un espumador Aeroccino aparte, la Lattissima One tiene un <strong>depósito de leche integrado a la máquina</strong> y hace cappuccino o latte macchiato apretando <strong>un solo botón</strong>. Es la comodidad máxima del sistema.</p>
+
+    <div class="honesty"><b>Una aclaración honesta sobre las opiniones</b>Esta publicación tiene 20 calificaciones. Es muchísimo menos que las 2.663 de la Essenza Mini o las 130 de la Citiz &amp; Milk. El promedio es alto (4.8, con 18 de 20 dando 5 estrellas), pero la muestra es chica. No vamos a inflar el respaldo que no tiene.</div>
+
+    <h2>Cómo funciona: one-touch de verdad</h2>
+    <p>Cargás el depósito de leche incorporado, ponés la cápsula, elegís cappuccino o latte y la máquina hace todo —el café y la leche espumada— en un solo paso, sin que muevas una jarra ni manejes una lanceta. Es un escalón de comodidad por encima de la Citiz &amp; Milk.</p>
+    <div class="pullquote">"Riquísimo el café, funciona perfecto." — opinión verificada en MercadoLibre</div>
+
+    <h2>Los contras reales (de las propias reviews)</h2>
+    <p>El comprador más crítico —4 estrellas— resume el perfil con honestidad: <em>"buen producto, vale la pena solo si necesitás la leche. Me esperaba mejor material, pero es muy linda."</em> Primero, el <strong>material es plástico</strong>: a este precio, algunos esperan una terminación más sólida. Segundo, y más importante en el día a día: hay que <strong>limpiar el circuito de leche cada vez que la usás</strong>. Es el costo de tener la leche integrada.</p>
+
+    <h2>El costo por cápsula (y el precio de entrada)</h2>
+    <p>Es la más cara del catálogo de cápsulas: $515.880, más del doble que la Essenza Mini. Antes de comprarla, la cuenta honesta: ¿la leche integrada one-touch te importa lo suficiente como para pagar este salto y limpiar el circuito cada día? Si la respuesta es sí, es la más cómoda; si dudás, la <a>Citiz &amp; Milk</a> hace bebidas con leche por $147.000 menos.</p>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="card">
+    <div class="kicker">Voz del comprador</div>
+    <h2 style="margin-bottom:16px">Lo que dicen los compradores</h2>
+    <div class="rev">
+      <div class="revcard">
+        <div class="meta"><span class="stars">★★★★★</span> · Argentina · marzo 2026</div>
+        <q>Buen producto, vale la pena solo si necesitás la leche. Me esperaba mejor material, pero es muy linda. La conseguí en oferta. Tenés que limpiarla cada vez que la usás.</q>
+      </div>
+      <div class="revcard">
+        <div class="meta"><span class="stars">★★★★★</span> · Argentina · febrero 2026</div>
+        <q>Riquísimo el café, funciona perfecto.</q>
+      </div>
+    </div>
+  </section>
+
+  <!-- SPECS -->
+  <section class="card">
+    <div class="kicker">Ficha técnica</div>
+    <h2 style="margin-bottom:16px">Especificaciones</h2>
+    <table class="spec"><tbody>
+      <tr><td>Marca</td><td>Nespresso</td></tr>
+      <tr><td>Línea</td><td>Lattissima One</td></tr>
+      <tr><td>Tipo</td><td>Cafetera de cápsulas (expreso) con leche integrada</td></tr>
+      <tr><td>Espuma de leche</td><td>Integrada one-touch (depósito incorporado)</td></tr>
+      <tr><td>Bebidas</td><td>Espresso, lungo, cappuccino y latte macchiato</td></tr>
+      <tr><td>Potencia</td><td>1.300 W</td></tr>
+      <tr><td>Capacidad de agua</td><td>1 L</td></tr>
+      <tr><td>Estructura</td><td>Plástico</td></tr>
+      <tr><td>Color</td><td>Blanco</td></tr>
+      <tr><td>Mantenimiento</td><td>Requiere limpiar el circuito de leche después de cada uso</td></tr>
+    </tbody></table>
+  </section>
+
+  <!-- FAQ -->
+  <section class="card">
+    <div class="kicker">Antes de comprar</div>
+    <h2 style="margin-bottom:16px">Preguntas frecuentes</h2>
+    <details open><summary>¿Qué tiene de especial la Lattissima One?</summary><div class="body">La leche integrada one-touch: tiene un depósito de leche incorporado y hace cappuccino o latte macchiato apretando un solo botón, todo en un paso. Es la opción más cómoda del sistema Nespresso para bebidas con leche.</div></details>
+    <details><summary>¿Por qué tiene pocas opiniones?</summary><div class="body">Esta publicación acumuló 20 calificaciones, frente a las 2.663 de la Essenza Mini. El promedio es alto (4.8), pero la muestra es chica, así que preferimos decírtelo de frente.</div></details>
+    <details><summary>¿Hay que limpiar la leche cada vez?</summary><div class="body">Sí, y es el principal contra del día a día. El circuito necesita limpieza después de cada uso. Es el costo de la comodidad one-touch: más fácil al preparar, más mantenimiento al terminar.</div></details>
+    <details><summary>¿Vale la pena frente a la Citiz &amp; Milk?</summary><div class="body">Solo si la leche integrada one-touch te importa de verdad. La Citiz &amp; Milk hace lo mismo con el espumador aparte (dos pasos), es de acero, tiene más opiniones y cuesta $147.000 menos.</div></details>
+    <details><summary>¿De qué material es?</summary><div class="body">El cuerpo es de plástico. Pagás por la función (leche integrada one-touch) y el diseño, no por una terminación en acero.</div></details>
+  </section>
+
+  <!-- FINAL CTA -->
+  <div class="band">
+    <h2>La comodidad total en bebidas con leche</h2>
+    <p>Cappuccino de un toque, sin espumador aparte. Si ese paso de menos vale para vos, esta es la Nespresso.</p>
+    <div class="price">$515.880</div>
+    <button class="cta cta-primary" style="background:var(--ml-yellow);color:#111;box-shadow:none" onclick="go()">Ver en MercadoLibre →</button>
+  </div>
+
+  <!-- RELATED -->
+  <section class="card">
+    <div class="kicker">Comparar precios</div>
+    <h2 style="margin-bottom:16px">Otros modelos del catálogo</h2>
+    <div class="related">
+      <div class="relcard"><div class="ph"></div><div class="t">Nespresso Essenza Mini C roja</div><div class="p">$200.000 · 4.8⭐</div></div>
+      <div class="relcard"><div class="ph"></div><div class="t">Nespresso Citiz &amp; Milk Platinum</div><div class="p">$368.699 · 4.8⭐</div></div>
+      <div class="relcard"><div class="ph"></div><div class="t">Nespresso Inissia crema</div><div class="p">$350.000</div></div>
+      <div class="relcard"><div class="ph"></div><div class="t">Moulinex Dolce Gusto Piccolo XS</div><div class="p">$129.990 · 4.8⭐</div></div>
+    </div>
+  </section>
+</div>
+
+<footer>© 2026 ProductosVirales · Borrador de propuesta de diseño · Sitio afiliado a MercadoLibre</footer>
+
+<!-- STICKY MOBILE -->
+<div class="sticky">
+  <div><div class="p">$515.880</div></div>
+  <button class="cta cta-primary" onclick="go()">Ver en MercadoLibre →</button>
+</div>
+
+<script>
+function go(){ window.open('https://meli.la/1gpz3ft','_blank'); }
+</script>
+</body>
+</html>
