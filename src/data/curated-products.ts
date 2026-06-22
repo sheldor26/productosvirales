@@ -25954,6 +25954,451 @@ A $350.000, comprás simpleza y reputación de marca. Lo que no comprás, en est
     relatedProducts: ['MLA15705813', 'MLA28314113'],
   },
   {
+    id: 'MLA24730361',
+    title: 'Cafetera Nespresso Essenza Mini C roja de cápsulas',
+    canonicalName: 'Cafetera Nespresso Essenza Mini',
+    price: 200000,
+    priceUpdated: '2026-06-21',
+    priceLastChecked: '2026-06-21',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_936786-MLA95729072378_102025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_936786-MLA95729072378_102025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA24730361',
+    affiliateUrl: 'https://meli.la/1g3EDxT',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Nespresso',
+    rating: 4.8,
+    reviewCount: 2663,
+    reviewsSampledAt: '2026-06-21',
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-coral)',
+    ratingBreakdown: {
+      five: '2401',
+      four: '186',
+      three: '37',
+      two: '16',
+      one: '23',
+    },
+    description: 'Cafetera Nespresso Essenza Mini en color rojo: la puerta de entrada al sistema Nespresso y, de lejos, la más vendida y mejor reseñada del catálogo, con 2.663 calificaciones y 4.8 estrellas. Es la más chica de la familia (depósito de 600 mL), hace espresso y lungo apretando un botón, y resigna todo lo accesorio: no trae espumador de leche y el depósito es para una taza. Espresso en cápsula, sin vueltas.',
+    aiReviewSummary: 'La más elogiada del catálogo de cafeteras de cápsulas: 4.8 estrellas en 2.663 opiniones. Lo más repetido: el café "es otra cosa" frente al instantáneo o el de filtro, sale cremoso y compacto. El consejo recurrente de los compradores: usar cápsulas recargables para bajar el costo por taza. Las advertencias honestas: el depósito es chico (600 mL), no espuma leche (es solo café) y la cápsula es el formato más caro por pocillo.',
+    seoTitle: 'Cafetera Nespresso Essenza Mini: ¿la mejor de entrada?',
+    metaDescription: 'La Nespresso más vendida y mejor puntuada: 4.8★ en 2.663 opiniones. Compacta, espresso con un botón. Contras honestas: depósito chico y sin espumador.',
+    ogTitle: 'Nespresso Essenza Mini: la cápsulera más vendida y mejor reseñada del catálogo',
+    ogDescription: '2.663 compradores la puntuaron 4.8★. La Nespresso de entrada: chica, espresso con un botón. Te contamos el truco para bajar el costo por cápsula.',
+    h1: 'Cafetera Nespresso Essenza Mini roja: la entrada al sistema Nespresso, y la más vendida del catálogo',
+    pros: [
+      '4.8⭐ con 2.663 calificaciones: la cafetera de cápsulas más vendida y mejor reseñada del catálogo',
+      'La Nespresso de entrada: espresso con crema apretando un botón, cero curva de aprendizaje',
+      'La más compacta de la familia: 600 mL y un cuerpo chico que ocupa la mitad de espacio que otras cápsuleras',
+      'Sistema Nespresso Original: cápsulas conseguibles en boutiques, supermercados y MercadoLibre',
+      'Plástico liviano y diseño limpio en color rojo, distinto del negro/acero del resto del catálogo',
+      'Truco real de las reviews: con cápsulas recargables bajás bastante el costo por taza',
+    ],
+    cons: [
+      'No incluye espumador de leche: hace solo café (espresso y lungo), no capuchino ni latte',
+      'Depósito chico de 600 mL: pensada para una taza por vez, hay que recargar seguido',
+      'El costo por cápsula es el más alto entre los sistemas de café (las recargables lo bajan)',
+      'Sistema cerrado: solo cápsulas Nespresso Original, sin café molido ni Dolce Gusto',
+      'Cuerpo de plástico, no acero: es liviana pero la terminación es la de una máquina de entrada',
+    ],
+    verdict: 'La forma más probada de entrar al sistema Nespresso: la más vendida del catálogo, 4.8 estrellas en 2.663 opiniones, espresso con un botón en un cuerpo chiquito. El recorte es claro y honesto: solo café (sin espumador), depósito para una taza y el costo de la cápsula. Si tomás café solo y querés simpleza, es la compra obvia.',
+    articleBody: `## La Nespresso de entrada (y la más vendida del catálogo)
+
+La Nespresso Essenza Mini cuesta $200.000 y es el modelo de entrada al sistema Nespresso Original. Pero su dato más fuerte no es el precio: es que acumula **2.663 calificaciones con 4.8 estrellas** — ninguna otra cafetera de cápsulas del catálogo fue probada por tanta gente ni con mejor promedio. Cuando alguien busca "cafetera Nespresso" y quiere lo simple y probado, este es el modelo.
+
+## Cómo funciona: un botón, una cápsula
+
+El sistema Nespresso es la antítesis de la cafetera con molinillo: no calibrás nada. Metés una cápsula sellada, apretás un botón y en menos de un minuto tenés un espresso con crema, taza tras taza igual. La Essenza Mini hace los dos formatos clásicos del sistema —espresso y lungo (café largo)— y nada más. Esa es justamente la idea: simpleza total.
+
+Una compradora con 35 votos útiles lo cuenta bien: tuvo antes una Inissia "grande y ruidosa", y esta "es hermosa, ocupa la mitad del espacio". La Essenza Mini es la más chica de la familia Nespresso.
+
+## El costo por cápsula (el dato que casi nadie te dice)
+
+Con cualquier cápsulera, la máquina es solo la entrada: el gasto de verdad son las cápsulas que vas a comprar durante años. La cápsula Nespresso es el formato de café **más caro por pocillo** — es el peaje de la comodidad y la consistencia. La buena noticia, y es un consejo que se repite en las propias reviews: existen **cápsulas recargables** (las llenás con tu café molido) que bajan mucho el costo por taza. Un comprador lo dice directo: "recomiendo que se compren cápsulas recargables y un buen café".
+
+La cuenta honesta: si tomás un café por día, el sistema cierra. Si en tu casa se toman seis, el molido o una express te ahorran una diferencia importante por mes.
+
+## Lo que no trae: contras honestas
+
+Primero: **no espuma leche**. La Essenza Mini hace café solo (espresso y lungo); no trae lanceta de vapor ni espumador. Para capuchino o latte necesitás espumar la leche aparte, o mirar una Nespresso con espumador como la [Citiz & Milk](/producto/MLA29654829), que viene con un Aeroccino incluido.
+
+Segundo: el **depósito es chico**, 600 mL. Está pensada para una taza por vez; si hacés varios cafés seguidos, vas a recargar agua seguido. Tercero: el sistema es cerrado (solo cápsulas Nespresso Original, sin café molido ni Dolce Gusto). Y cuarto: el cuerpo es de plástico — liviano y prolijo, pero es una máquina de entrada, no de acero.
+
+## Lo que dicen las 2.663 calificaciones
+
+El desglose es contundente: 2.401 de 5 estrellas, 186 de 4, y apenas 76 de 3 o menos. El elogio que más se repite es casi siempre el mismo —el salto de calidad frente al café instantáneo o de filtro—. Una review con 89 votos útiles lo resume con humor: "esta máquina me cagó la vida, ya no puedo tomar café instantáneo, ni de filtro, ni de sobrecito; las cápsulas son un camino directo a la felicidad del paladar". Otro, que venía de una de filtro, lo confirma: "sale cremoso y rico".
+
+Las críticas reales no son a la máquina sino al sistema: el costo de la cápsula y que es solo café. Ningún defecto de fábrica aparece como patrón en las opiniones.
+
+## Contra las otras Nespresso del catálogo
+
+La Essenza Mini es la entrada. Si querés **espuma de leche real**, la [Citiz & Milk](/producto/MLA29654829) ($368.699) viene con espumador Aeroccino aparte y cuerpo de acero — para capuchino y latte. Si querés todo de un toque (la leche integrada en la máquina), la [Lattissima One](/producto/MLA23437114) ($515.880) hace cappuccino one-touch, aunque cuesta más del doble. Y la [Nespresso Inissia](/producto/MLA23385666) ($350.000) es la otra de entrada del catálogo, pero sin calificaciones en su publicación todavía — la Essenza Mini gana por respaldo de opiniones y precio.
+
+Si tu prioridad es bajar el costo de la cápsula, una híbrida que acepta cápsulas Nespresso compatibles como la [Smartlife SL-EC8501](/producto/MLA18562154) ($209.999) te deja alternar molido y cápsula — a cambio de algo más de ritual.
+
+## ¿Para quién es la Essenza Mini (y para quién no)?
+
+Es para vos si: querés entrar al sistema Nespresso con la máquina más probada y mejor puntuada, tomás café solo (espresso o lungo), valorás un cuerpo chiquito en la mesada y la simpleza de un botón. No es para vos si: tomás capuchino o latte (necesitás espumador — mirá la Citiz & Milk), hacés muchos cafés seguidos (el depósito de 600 mL queda corto), o te molesta el costo fijo de la cápsula (ahí conviene una híbrida con molido).
+
+A $200.000, con 4.8 estrellas y 2.663 votos, es la forma más segura de empezar en Nespresso: lo que da está confirmado por miles de personas, y sus límites son claros y honestos.`,
+    specs: [
+      { label: 'Marca', value: 'Nespresso' },
+      { label: 'Línea', value: 'Essenza Mini' },
+      { label: 'Modelo', value: 'C' },
+      { label: 'Tipo', value: 'Cafetera de cápsulas monodosis' },
+      { label: 'Sistema de cápsulas', value: 'Nespresso Original (cápsulas clásicas)' },
+      { label: 'Tecnología', value: 'Automática' },
+      { label: 'Bebidas', value: 'Espresso y lungo (café largo)' },
+      { label: 'Espumador de leche', value: 'No incluye — hace solo café' },
+      { label: 'Capacidad de agua', value: '600 mL (depósito chico, pensado para una taza)' },
+      { label: 'Estructura', value: 'Plástico' },
+      { label: 'Color', value: 'Rojo' },
+      { label: 'Temporizador', value: 'No' },
+      { label: 'Compatible con café molido', value: 'No — funciona exclusivamente con cápsulas' },
+      { label: 'Compatible con cápsulas Dolce Gusto', value: 'No — son sistemas distintos' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿La Nespresso Essenza Mini espuma leche?', answer: 'No. La Essenza Mini hace solo café: espresso y lungo. No trae lanceta de vapor ni espumador, así que para capuchino o latte necesitás espumar la leche aparte (con un espumador eléctrico o de batería). Si las bebidas con leche son tu prioridad, mirá la Nespresso Citiz & Milk, que viene con espumador Aeroccino incluido, o la Lattissima One, con leche integrada.' },
+      { question: '¿Por qué es la Nespresso más recomendada del catálogo?', answer: 'Por los números: 4.8 estrellas en 2.663 calificaciones, la base de opiniones más grande y el promedio más alto de las cafeteras de cápsulas del catálogo. Es la de entrada al sistema Nespresso, la más vendida del mundo en su categoría, y la que mejor combina precio, simpleza y respaldo de compradores reales.' },
+      { question: '¿Qué cápsulas usa la Essenza Mini?', answer: 'Exclusivamente cápsulas del sistema Nespresso Original: las clásicas de la marca más las compatibles de terceros que se fabrican para ese formato. No acepta cápsulas Dolce Gusto (otro sistema, aunque ambas marcas son de la familia Nestlé) ni café molido. Existen además cápsulas recargables que llenás con tu propio café para bajar el costo por taza.' },
+      { question: '¿Cómo bajo el costo de las cápsulas?', answer: 'Es el consejo que más se repite en las reviews: usar cápsulas recargables. Son cápsulas reutilizables que llenás con tu propio café molido, así pagás el precio del molido (mucho más barato) y no el de la cápsula sellada. Un comprador lo dice directo: "recomiendo que se compren cápsulas recargables y un buen café". También existen las compatibles de terceros, más baratas que las originales.' },
+      { question: '¿Es muy chica? ¿Cuánta agua le entra?', answer: 'Sí, es la más compacta de la familia Nespresso: depósito de 600 mL, pensado para una taza por vez. Su tamaño es justamente uno de sus puntos fuertes en las reviews ("ocupa la mitad del espacio"), pero el contracara es que si hacés varios cafés seguidos vas a recargar agua seguido. Para uso de una o dos personas alcanza; para una mesa larga, recargás.' },
+      { question: '¿Conviene la Essenza Mini o la Citiz & Milk?', answer: 'Depende de qué tomás. La Essenza Mini ($200.000) hace café solo y es la entrada más probada al sistema. La Citiz & Milk ($368.699) cuesta casi el doble pero viene con espumador Aeroccino y cuerpo de acero: es para quien toma capuchino o latte. Si tomás espresso o lungo, la Essenza Mini sobra; si querés espuma de leche real sin maniobrar, la Citiz & Milk.' },
+      { question: '¿Sale buen café para ser de cápsula?', answer: 'Es de lo más elogiado: el salto frente al café instantáneo o de filtro es lo que más mencionan las 2.663 opiniones. Sale cremoso, compacto y consistente taza tras taza, sin depender de tu técnica. La crema es la del sistema Nespresso, que trabaja a alta presión sobre cápsula sellada. La calidad depende también de la variedad de cápsula que elijas.' },
+      { question: '¿Sirve como primera cafetera?', answer: 'Si tu idea de primera cafetera es cero esfuerzo, es ideal: sin molienda, sin calibración, sin limpieza de portafiltros — metés la cápsula y apretás un botón. La advertencia honesta es el sistema cerrado: pagás cápsulas Nespresso (o recargables/compatibles) para siempre, o hasta que cambies de máquina. Si querés flexibilidad de formatos desde el día uno, mirá una híbrida con café molido.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'agosto 2023', useful: 89, text: 'Esta máquina me cagó la vida. Ya no puedo tomar café instantáneo, ni de filtro, ni de sobrecito, ni de nada. Las cápsulas son un camino directo a la felicidad del paladar.' },
+      { rating: 4, country: 'Argentina', date: 'enero 2022', useful: 57, text: 'Pasé de una cafetera de filtro a esto y es otra cosa, sale cremoso y rico. Lo único que recomiendo es que se compren cápsulas recargables y un buen café.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2023', useful: 35, text: 'Tuve hace unos años una Inissia. Era grande, ruidosa y con las cápsulas alternativas no se llevaba bien. Esta es hermosa, ocupa la mitad del espacio.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera Nespresso Essenza Mini C roja',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_936786-MLA95729072378_102025-F.jpg',
+      description: 'Cafetera de cápsulas Nespresso Essenza Mini en color rojo: el modelo de entrada al sistema Nespresso Original, el más vendido y mejor reseñado del catálogo. Compacta (depósito de 600 mL), hace espresso y lungo con un botón. 4.8 estrellas con 2.663 calificaciones en MercadoLibre Argentina.',
+      sku: 'ESSENZA-MINI-C',
+      mpn: 'ESSENZA-MINI-C',
+      brand: { '@type': 'Brand', name: 'Nespresso' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1g3EDxT',
+        priceCurrency: 'ARS',
+        price: 200000,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '2663',
+      },
+    },
+    relatedProducts: ['MLA29654829', 'MLA23437114', 'MLA23385666', 'MLA18562154', 'MLA15705813'],
+  },
+  {
+    id: 'MLA29654829',
+    title: 'Cafetera Nespresso Citiz & Milk Platinum con espumador',
+    canonicalName: 'Cafetera Nespresso Citiz & Milk',
+    price: 368699,
+    priceUpdated: '2026-06-21',
+    priceLastChecked: '2026-06-21',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_694303-MLA113517387861_062026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_694303-MLA113517387861_062026-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA29654829',
+    affiliateUrl: 'https://meli.la/2nHo9mw',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Nespresso',
+    rating: 4.8,
+    reviewCount: 130,
+    reviewsSampledAt: '2026-06-21',
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-coral)',
+    ratingBreakdown: {
+      five: '117',
+      four: '9',
+      three: '1',
+      two: '0',
+      one: '3',
+    },
+    description: 'Cafetera Nespresso Citiz & Milk Platinum: la Nespresso de diseño con espuma de leche real. Cuerpo de acero inoxidable, 19 bares de presión, depósito de 1 litro y, su gran diferencial, el espumador Aeroccino incluido (separado de la máquina) para hacer capuchino y latte de verdad. 4.8 estrellas en 130 calificaciones. Para quien toma bebidas con leche y quiere una máquina linda en la mesada.',
+    aiReviewSummary: 'Muy bien puntuada (4.8 en 130 opiniones): los compradores destacan que sale el café "realmente caliente", el tamaño funcional y la calidad superior frente a la Essenza Mini. La advertencia honesta más repetida: las cápsulas "de regalo" tienen letra chica — hay que hacer una compra para que te bonifiquen una parte, no vienen sin condiciones.',
+    seoTitle: 'Nespresso Citiz & Milk: ¿la mejor para capuchino?',
+    metaDescription: 'La Nespresso de diseño con espumador Aeroccino incluido: cuerpo de acero, 19 bar, 4.8★ en 130 opiniones. Para capuchino y latte. Ojo con las cápsulas de regalo.',
+    ogTitle: 'Nespresso Citiz & Milk: acero, 19 bar y espuma de leche real (Aeroccino incluido)',
+    ogDescription: '4.8★ en 130 opiniones. La Nespresso de diseño para quien toma capuchino: viene con espumador separado. Te contamos la letra chica de las cápsulas de regalo.',
+    h1: 'Cafetera Nespresso Citiz & Milk: diseño en acero y espuma de leche real',
+    pros: [
+      '4.8⭐ en 130 calificaciones: muy bien puntuada y "muy superior a la Essenza Mini" según los compradores',
+      'Espumador de leche Aeroccino incluido: capuchino y latte de verdad, no solo café',
+      'Cuerpo de acero inoxidable: más durable y mejor terminación que las de plástico',
+      '19 bares de presión, la presión típica del sistema Nespresso para espresso con crema',
+      'Depósito de 1 litro y opción de agua caliente, útil cuando preparás varios cafés seguidos',
+      'El café "sale realmente caliente", un punto que los compradores destacan frente a otras',
+    ],
+    cons: [
+      'Cara: cuesta casi el doble que la Essenza Mini, el salto se justifica solo si tomás bebidas con leche',
+      'Las cápsulas "de regalo" tienen letra chica: hay que hacer una compra para que te bonifiquen parte',
+      'El espumador es una unidad separada (Aeroccino): suma una pieza más para guardar y limpiar',
+      'Sistema cerrado: solo cápsulas Nespresso Original, sin café molido ni Dolce Gusto',
+      'El costo por cápsula sigue siendo el más alto entre los sistemas de café',
+    ],
+    verdict: 'La Nespresso para quien toma capuchino o latte y quiere una máquina linda y durable: acero, 19 bar y espumador Aeroccino incluido, con 4.8 estrellas en 130 opiniones. El salto de precio sobre la Essenza Mini ($168.000 más) se justifica solo si la leche es parte de tu café. La letra chica honesta: las cápsulas de regalo se bonifican con una compra, no vienen sin condiciones.',
+    articleBody: `## La Nespresso de diseño con espuma de leche real
+
+La Nespresso Citiz & Milk Platinum cuesta $368.699 y es la Nespresso para quien toma bebidas con leche. Su diferencial frente a la Essenza Mini de entrada es doble: trae **espumador Aeroccino incluido** (para capuchino y latte de verdad) y un **cuerpo de acero inoxidable** en lugar de plástico. Tiene 4.8 estrellas en 130 calificaciones — menos opiniones que la Essenza Mini, pero un promedio igual de alto.
+
+## Cómo funciona: café Nespresso + leche aparte
+
+El corazón es el sistema Nespresso Original de siempre: cápsula sellada, 19 bares de presión, espresso con crema apretando un botón. Lo que suma la Citiz & Milk es el **Aeroccino**, un espumador de leche separado de la máquina: ponés la leche, aprieta un botón y te arma la espuma (fría o caliente). Así hacés el capuchino en dos pasos —el café por un lado, la leche por el otro— sin lanceta de vapor ni técnica de barista.
+
+Un comprador lo compara directo: "excelente, muy superior a la Essenza Mini. Sale el café realmente caliente y además la opción de agua caliente para cuando preparás varios cafés para una reunión".
+
+## El cuerpo de acero y el agua caliente
+
+A diferencia de la Essenza Mini (plástico), la Citiz & Milk tiene **estructura de acero inoxidable**: se siente más sólida, dura más y queda mejor en la mesada. Mide 13 cm de ancho por 38,9 de profundidad y 27,7 de alto, pesa 4 kg, y trae depósito de 1 litro (casi el doble que los 600 mL de la Essenza Mini). La opción de **agua caliente** es un extra práctico: sirve para té o para preparar varios cafés seguidos sin esperar.
+
+Un comprador lo resume: "su tamaño es funcional, no ocupa mucho espacio y prepara un café exquisito en segundos".
+
+## La letra chica de las cápsulas de regalo
+
+El punto que más conviene saber antes de comprar, y que aparece en las reviews: las **cápsulas "de regalo" tienen condiciones**. Un comprador lo cuenta sin vueltas: "las 50 cápsulas no te las regalan: hay que hacer una compra para que te bonifiquen 30, y las otras 20 son aparte". No es una estafa —es una promoción con requisitos—, pero conviene leer la letra chica de la publicación para no contar con un beneficio que en realidad pide una compra mínima.
+
+## El costo por cápsula (igual que toda Nespresso)
+
+Como toda cápsulera, la máquina es la entrada y las cápsulas son el gasto real a largo plazo. La cápsula Nespresso es el formato más caro por taza. Lo de siempre: existen cápsulas recargables (las llenás con tu café) y compatibles de terceros que bajan el costo. Para 1-2 cafés diarios el sistema cierra; para consumos altos, el molido ahorra por mes.
+
+## Lo que dicen las 130 calificaciones
+
+El desglose: 117 de 5 estrellas, 9 de 4, y apenas 4 de 3 o menos. Los elogios se concentran en tres puntos: el café sale **muy caliente**, la calidad es **superior a la Essenza Mini**, y el tamaño es funcional. Las críticas reales no apuntan a la máquina sino a la promoción de cápsulas (la letra chica del regalo). Con 130 opiniones tiene menos respaldo estadístico que la Essenza Mini (2.663), pero suficiente para confiar en el patrón.
+
+## Contra las otras Nespresso del catálogo
+
+Si no tomás bebidas con leche, la [Essenza Mini](/producto/MLA24730361) ($200.000) hace el mismo café por $168.000 menos —solo que sin espumador y en plástico—. Si querés la leche **integrada en la máquina** (sin Aeroccino aparte), la [Lattissima One](/producto/MLA23437114) ($515.880) hace cappuccino de un toque, aunque cuesta más y hay que limpiar el circuito de leche cada uso. Y la [Nespresso Inissia](/producto/MLA23385666) ($350.000) es otra de entrada, pero sin espumador y sin calificaciones en su publicación.
+
+## ¿Para quién es la Citiz & Milk (y para quién no)?
+
+Es para vos si: tomás capuchino o latte y querés espuma de leche real sin maniobrar una lanceta, valorás un cuerpo de acero que dura y queda lindo, y hacés varios cafés seguidos (el litro de depósito y el agua caliente ayudan). No es para vos si: tomás café solo (ahí la Essenza Mini hace lo mismo por mucho menos), querés la leche integrada en la propia máquina (mirá la Lattissima One), o el costo de la cápsula te frena.
+
+A $368.699 con 4.8 estrellas, es la Nespresso de diseño que se justifica por la leche: si el capuchino es parte de tu día, el salto vale; si tomás espresso solo, estás pagando de más.`,
+    specs: [
+      { label: 'Marca', value: 'Nespresso' },
+      { label: 'Modelo', value: 'Citiz & Milk Platinum' },
+      { label: 'Tipo', value: 'Cafetera de cápsulas monodosis' },
+      { label: 'Sistema de cápsulas', value: 'Nespresso Original' },
+      { label: 'Tecnología', value: 'Automática' },
+      { label: 'Presión', value: '19 bar' },
+      { label: 'Espumador de leche', value: 'Sí — Aeroccino incluido (unidad separada)' },
+      { label: 'Capacidad de agua', value: '1 L' },
+      { label: 'Estructura', value: 'Acero inoxidable' },
+      { label: 'Compatible con café molido', value: 'No — funciona exclusivamente con cápsulas' },
+      { label: 'Compatible con cápsulas Dolce Gusto', value: 'No — son sistemas distintos' },
+      { label: 'Ancho', value: '13 cm' },
+      { label: 'Profundidad', value: '38,9 cm' },
+      { label: 'Altura', value: '27,7 cm' },
+      { label: 'Peso', value: '4 kg' },
+    ],
+    faq: [
+      { question: '¿La Citiz & Milk hace capuchino y latte?', answer: 'Sí, ese es su gran diferencial: viene con un espumador Aeroccino incluido (separado de la máquina) que te arma la espuma de leche, fría o caliente, apretando un botón. Hacés el capuchino en dos pasos: el café por un lado, la leche espumada por el otro. No tiene lanceta de vapor, así que no hace falta técnica de barista.' },
+      { question: '¿Qué diferencia hay con la Essenza Mini?', answer: 'Tres cosas: la Citiz & Milk trae espumador Aeroccino (la Essenza Mini hace solo café), es de acero inoxidable (la Essenza Mini es de plástico) y tiene depósito de 1 litro más opción de agua caliente (la Essenza Mini, 600 mL). A cambio cuesta $168.000 más. Si tomás capuchino o latte, el salto vale; si tomás espresso solo, la Essenza Mini hace el mismo café por mucho menos.' },
+      { question: '¿Es verdad que regala cápsulas?', answer: 'Con letra chica. Según las reviews, las cápsulas "de regalo" tienen condiciones: hay que hacer una compra para que te bonifiquen una parte (por ejemplo, 30 de 50, y las otras 20 aparte). No es una estafa, es una promoción con requisitos. Conviene leer la letra chica de la publicación para no contar con un beneficio que en realidad pide una compra mínima.' },
+      { question: '¿El café sale caliente?', answer: 'Sí, y es uno de los puntos más elogiados en las opiniones: los compradores destacan que sale "realmente caliente", incluso por encima de otras Nespresso. Además tiene opción de agua caliente, útil para té o para preparar varios cafés seguidos en una reunión.' },
+      { question: '¿Qué cápsulas usa?', answer: 'Cápsulas del sistema Nespresso Original: las clásicas de la marca más las compatibles de terceros. No acepta cápsulas Dolce Gusto ni café molido. Como en toda Nespresso, existen cápsulas recargables que llenás con tu propio café para bajar el costo por taza.' },
+      { question: '¿El espumador es parte de la máquina o va aparte?', answer: 'Va aparte: el Aeroccino es una unidad separada que viene incluida. Eso tiene una ventaja (lo usás cuando querés, sin tocar la máquina) y un costo (es una pieza más para guardar y lavar). Si preferís la leche integrada en la propia cafetera, de un solo toque, mirá la Lattissima One.' },
+      { question: '¿Conviene la Citiz & Milk o la Lattissima One?', answer: 'Las dos hacen bebidas con leche, pero distinto. La Citiz & Milk ($368.699) usa un espumador Aeroccino separado: dos pasos, dos piezas. La Lattissima One ($515.880) tiene la leche integrada en la máquina y hace cappuccino de un toque, pero hay que limpiar el circuito de leche cada uso y cuesta más. Para acero y diseño con espuma a buen precio, la Citiz & Milk; para máxima comodidad one-touch, la Lattissima One.' },
+      { question: '¿Cuánto espacio ocupa?', answer: 'Mide 13 cm de ancho por 38,9 de profundidad y 27,7 de alto, y pesa 4 kg. Es angosta pero profunda. Los compradores la describen como de "tamaño funcional" que "no ocupa mucho espacio". Sumá que el Aeroccino es una pieza aparte que también necesita su lugar en la mesada.' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'marzo 2026', text: 'Excelente. Muy superior a la Essenza Mini. Sale el café realmente caliente y además la opción de agua caliente para cuando preparás varios cafés para una reunión.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2025', text: 'La cafetera es lo que esperaba. Pero las 50 cápsulas no te las regalan: hay que hacer una compra para que te bonifiquen 30, y las otras 20 son aparte.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2025', text: 'Me encanta, su tamaño es funcional, no ocupa mucho espacio y viene con cápsulas de regalo. Prepara un café exquisito en segundos.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera Nespresso Citiz & Milk Platinum',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_694303-MLA113517387861_062026-F.jpg',
+      description: 'Cafetera de cápsulas Nespresso Citiz & Milk Platinum: cuerpo de acero inoxidable, 19 bares de presión, depósito de 1 litro y espumador Aeroccino incluido para capuchino y latte. Sistema Nespresso Original. 4.8 estrellas con 130 calificaciones en MercadoLibre Argentina.',
+      sku: 'CITIZ-MILK-PLATINUM',
+      mpn: 'CITIZ-MILK-PLATINUM',
+      brand: { '@type': 'Brand', name: 'Nespresso' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/2nHo9mw',
+        priceCurrency: 'ARS',
+        price: 368699,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '130',
+      },
+    },
+    relatedProducts: ['MLA24730361', 'MLA23437114', 'MLA23385666', 'MLA18562154', 'MLA15705813'],
+  },
+  {
+    id: 'MLA23437114',
+    title: 'Cafetera Nespresso Lattissima One blanca con leche integrada',
+    canonicalName: 'Cafetera Nespresso Lattissima One',
+    price: 515880,
+    priceUpdated: '2026-06-21',
+    priceLastChecked: '2026-06-21',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_633808-MLA99961118239_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_633808-MLA99961118239_112025-F.jpg',
+    ],
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA23437114',
+    affiliateUrl: 'https://meli.la/1gpz3ft',
+    condition: 'new',
+    freeShipping: true,
+    brand: 'Nespresso',
+    rating: 4.8,
+    reviewCount: 20,
+    reviewsSampledAt: '2026-06-21',
+    visibility: 'normal',
+    pastelColor: 'var(--pastel-coral)',
+    ratingBreakdown: {
+      five: '18',
+      four: '1',
+      three: '0',
+      two: '0',
+      one: '1',
+    },
+    description: 'Cafetera Nespresso Lattissima One blanca: la premium del sistema Nespresso con leche integrada one-touch. A diferencia de las que traen espumador aparte, la Lattissima One tiene un depósito de leche incorporado y hace cappuccino o latte macchiato apretando un solo botón. 1.300 W, depósito de agua de 1 litro. 4.8 estrellas, pero con pocas opiniones todavía (20) — lo declaramos con honestidad.',
+    aiReviewSummary: 'Premium con leche integrada one-touch. Las pocas opiniones (20) son muy buenas: "riquísimo el café, funciona perfecto". El comprador más crítico (4 estrellas) resume bien el perfil: "vale la pena solo si necesitás la leche; me esperaba mejor material, pero es muy linda" y advierte que hay que limpiar el circuito de leche cada vez que se usa. Base de opiniones todavía chica: lo decimos de frente.',
+    seoTitle: 'Nespresso Lattissima One: ¿la mejor con leche?',
+    metaDescription: 'La Nespresso premium con leche integrada: cappuccino y latte de un toque, depósito de leche incorporado. 4.8★ pero con pocas opiniones (20). Material plástico.',
+    ogTitle: 'Nespresso Lattissima One: cappuccino de un toque con leche integrada',
+    ogDescription: 'La premium de Nespresso: depósito de leche incorporado, latte macchiato apretando un botón. 4.8★ con pocas opiniones todavía. Te contamos los contras reales.',
+    h1: 'Cafetera Nespresso Lattissima One blanca: la premium con leche integrada one-touch',
+    pros: [
+      'Leche integrada one-touch: cappuccino o latte macchiato apretando un solo botón, sin espumador aparte',
+      'Depósito de leche incorporado a la máquina: todo en un paso, la comodidad máxima del sistema',
+      '4.8⭐ en las opiniones que tiene: "riquísimo el café, funciona perfecto"',
+      '1.300 W de potencia y depósito de agua de 1 litro',
+      'Diseño en blanco, prolijo y distinto del negro/acero del resto del catálogo',
+      'La forma más cómoda de tomar bebidas con leche dentro del sistema Nespresso',
+    ],
+    cons: [
+      'Pocas opiniones todavía: solo 20 calificaciones, menos respaldo estadístico que la Essenza Mini o la Citiz & Milk',
+      'Material plástico: un comprador esperaba mejor terminación ("me esperaba mejor material")',
+      'Hay que limpiar el circuito de leche cada vez que la usás: mantenimiento extra diario',
+      'La más cara del catálogo de cápsulas: más del doble que la Essenza Mini',
+      'Sistema cerrado: solo cápsulas Nespresso Original, sin café molido ni Dolce Gusto',
+    ],
+    verdict: 'La Nespresso más cómoda para bebidas con leche: depósito de leche integrado y cappuccino de un toque, sin espumador aparte. 4.8 estrellas, pero todavía con pocas opiniones (20) — lo decimos de frente. Se justifica solo si la leche es central en tu café y querés cero maniobra; los contras reales son el material plástico, la limpieza del circuito de leche cada uso y el precio.',
+    articleBody: `## La premium de Nespresso, con leche integrada
+
+La Nespresso Lattissima One blanca cuesta $515.880 y es la premium del sistema Nespresso para bebidas con leche. Su diferencial frente a la Citiz & Milk es clave: en lugar de un espumador Aeroccino aparte, la Lattissima One tiene un **depósito de leche integrado a la máquina** y hace cappuccino o latte macchiato apretando **un solo botón**. Es la comodidad máxima del sistema. Tiene 4.8 estrellas — pero, seamos honestos, con pocas opiniones todavía (20).
+
+## Una aclaración honesta sobre las opiniones
+
+Antes de seguir: esta publicación tiene 20 calificaciones. Es muchísimo menos que las 2.663 de la Essenza Mini o las 130 de la Citiz & Milk. El promedio es alto (4.8, con 18 de 20 dando 5 estrellas), pero la muestra es chica. No vamos a inflar el respaldo que no tiene: el análisis se apoya en las specs, en lo que es el sistema Nespresso y en las pocas opiniones reales que sí existen.
+
+## Cómo funciona: one-touch de verdad
+
+La gracia de la Lattissima One es el **one-touch**: cargás el depósito de leche incorporado, ponés la cápsula, elegís cappuccino o latte y la máquina hace todo —el café y la leche espumada— en un solo paso, sin que muevas una jarra ni manejes una lanceta. Es un escalón de comodidad por encima de la Citiz & Milk, donde la leche va en un espumador separado. Una opinión lo confirma en pocas palabras: "riquísimo el café, funciona perfecto".
+
+## Los contras reales (de las propias reviews)
+
+El comprador más crítico —4 estrellas— resume el perfil con honestidad: "buen producto, vale la pena solo si necesitás la leche. Me esperaba mejor material, pero es muy linda". Dos cosas concretas de ahí:
+
+Primero, el **material es plástico**: a este precio, algunos esperan una terminación más sólida. Segundo, y más importante en el día a día: hay que **limpiar el circuito de leche cada vez que la usás**. La misma review lo dice: "tenés que limpiarla cada vez que la usás". Es el costo de tener la leche integrada: más comodidad al preparar, más mantenimiento al terminar.
+
+## El costo por cápsula (y el precio de entrada)
+
+Es la más cara del catálogo de cápsulas: $515.880, más del doble que la Essenza Mini. Y, como toda Nespresso, suma el costo de la cápsula a largo plazo —el formato más caro por taza—. Existen cápsulas recargables y compatibles que lo bajan. Antes de comprarla, la cuenta honesta: ¿la leche integrada one-touch te importa lo suficiente como para pagar este salto y limpiar el circuito cada día? Si la respuesta es sí, es la más cómoda; si dudás, la Citiz & Milk hace bebidas con leche por $147.000 menos.
+
+## Contra las otras Nespresso del catálogo
+
+Si tomás café solo, ni mires acá: la [Essenza Mini](/producto/MLA24730361) ($200.000) hace el espresso por un tercio del precio. Si tomás bebidas con leche pero no te molesta usar un espumador aparte, la [Citiz & Milk](/producto/MLA29654829) ($368.699) es de acero, tiene 130 opiniones (más respaldo) y cuesta $147.000 menos — el espumador Aeroccino va separado, ese es el único trade-off. La Lattissima One gana solo en una cosa: la leche integrada one-touch, todo en un paso.
+
+## ¿Para quién es la Lattissima One (y para quién no)?
+
+Es para vos si: tomás cappuccino o latte casi siempre y querés la máxima comodidad —un botón, leche integrada, cero maniobra—, y el presupuesto no es el límite. No es para vos si: necesitás muchas opiniones para decidir (tiene solo 20), te molesta limpiar el circuito de leche cada día, esperás terminación premium en los materiales, o tomás café solo (cualquier Nespresso más barata te lo da igual).
+
+A $515.880 con 4.8 estrellas en pocas opiniones, es la apuesta por la comodidad total en bebidas con leche. Lo que pagás de más sobre la Citiz & Milk es justamente eso: no tener que tocar un espumador aparte. Si ese paso no te molesta, hay opciones más probadas y más baratas.`,
+    specs: [
+      { label: 'Marca', value: 'Nespresso' },
+      { label: 'Línea', value: 'Lattissima One' },
+      { label: 'Tipo', value: 'Cafetera de cápsulas (expreso) con leche integrada' },
+      { label: 'Sistema de cápsulas', value: 'Nespresso Original' },
+      { label: 'Tecnología', value: 'Analógico' },
+      { label: 'Espuma de leche', value: 'Integrada one-touch (depósito de leche incorporado)' },
+      { label: 'Bebidas', value: 'Espresso, lungo, cappuccino y latte macchiato' },
+      { label: 'Potencia', value: '1.300 W' },
+      { label: 'Capacidad de agua', value: '1 L' },
+      { label: 'Estructura', value: 'Plástico' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Compatible con café molido', value: 'No — funciona exclusivamente con cápsulas' },
+      { label: 'Compatible con cápsulas Dolce Gusto', value: 'No — son sistemas distintos' },
+      { label: 'Mantenimiento', value: 'Requiere limpiar el circuito de leche después de cada uso' },
+      { label: 'Voltaje', value: '220 V' },
+    ],
+    faq: [
+      { question: '¿Qué tiene de especial la Lattissima One?', answer: 'La leche integrada one-touch: a diferencia de las Nespresso que traen un espumador aparte, la Lattissima One tiene un depósito de leche incorporado a la máquina y hace cappuccino o latte macchiato apretando un solo botón, todo en un paso. Es la opción más cómoda del sistema Nespresso para bebidas con leche, sin jarras ni lanceta de vapor.' },
+      { question: '¿Por qué tiene pocas opiniones?', answer: 'Porque esta publicación todavía acumuló pocas calificaciones: 20, frente a las 2.663 de la Essenza Mini o las 130 de la Citiz & Milk. El promedio es alto (4.8, con 18 de 20 dando 5 estrellas), pero la muestra es chica, así que preferimos decírtelo de frente. No significa que sea mala —es un modelo premium reconocido de Nespresso—, pero hay menos respaldo estadístico de compradores que en otros modelos del catálogo.' },
+      { question: '¿Hay que limpiar la leche cada vez?', answer: 'Sí, y es el principal contra del día a día. Al tener la leche integrada, el circuito necesita una limpieza después de cada uso para que no queden restos. Una review lo dice directo: "tenés que limpiarla cada vez que la usás". Es el costo de la comodidad one-touch: más fácil al preparar, más mantenimiento al terminar. Si eso te pesa, un espumador separado (como el Aeroccino de la Citiz & Milk) se limpia aparte y más simple.' },
+      { question: '¿Vale la pena frente a la Citiz & Milk?', answer: 'Solo si la leche integrada one-touch te importa de verdad. La Lattissima One ($515.880) hace cappuccino de un toque con la leche en la máquina; la Citiz & Milk ($368.699) hace lo mismo pero con el espumador Aeroccino aparte (dos pasos), es de acero, tiene más opiniones y cuesta $147.000 menos. Si no te molesta usar el espumador aparte, la Citiz & Milk es la compra más probada; si querés cero maniobra, la Lattissima One.' },
+      { question: '¿De qué material es?', answer: 'El cuerpo es de plástico. Es uno de los puntos que un comprador marca: "me esperaba mejor material", aunque aclara que "es muy linda". A este nivel de precio, conviene saberlo: pagás por la función (leche integrada one-touch) y el diseño, no por una terminación en acero como la de la Citiz & Milk.' },
+      { question: '¿Qué cápsulas usa?', answer: 'Cápsulas del sistema Nespresso Original: las clásicas de la marca más las compatibles de terceros. No acepta cápsulas Dolce Gusto ni café molido. Como en toda Nespresso, existen cápsulas recargables para bajar el costo por taza. La leche va aparte, en el depósito integrado, con la leche que vos cargues.' },
+      { question: '¿Hace café solo o solo bebidas con leche?', answer: 'Hace los dos: espresso y lungo (café solo) más cappuccino y latte macchiato (con leche). Pero su razón de ser son las bebidas con leche: si tomás café solo, estás pagando de más por una función que no vas a usar. Para espresso puro, cualquier Nespresso más barata del catálogo —como la Essenza Mini— hace el mismo café por mucho menos.' },
+      { question: '¿Es la mejor Nespresso del catálogo?', answer: 'Es la más cómoda para bebidas con leche, pero "mejor" depende de qué tomás. Si tomás café solo, la Essenza Mini es la más vendida y mejor reseñada por mucho. Si tomás capuchino y no te molesta el espumador aparte, la Citiz & Milk tiene más respaldo de opiniones y cuesta menos. La Lattissima One gana solo si querés la leche integrada one-touch y el presupuesto no es el límite — con la advertencia honesta de sus 20 opiniones.' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: 'marzo 2026', text: 'Buen producto, vale la pena solo si necesitás la leche. Me esperaba mejor material, pero es muy linda. La conseguí en oferta. Tenés que limpiarla cada vez que la usás.' },
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', text: 'Riquísimo el café, funciona perfecto.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Cafetera Nespresso Lattissima One blanca',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_633808-MLA99961118239_112025-F.jpg',
+      description: 'Cafetera de cápsulas Nespresso Lattissima One en color blanco: la premium del sistema con leche integrada one-touch. Depósito de leche incorporado, cappuccino y latte macchiato de un solo botón, 1.300 W y depósito de agua de 1 litro. 4.8 estrellas con 20 calificaciones en MercadoLibre Argentina.',
+      sku: 'LATTISSIMA-ONE',
+      mpn: 'LATTISSIMA-ONE',
+      brand: { '@type': 'Brand', name: 'Nespresso' },
+      offers: {
+        '@type': 'Offer',
+        url: 'https://meli.la/1gpz3ft',
+        priceCurrency: 'ARS',
+        price: 515880,
+        availability: 'https://schema.org/InStock',
+        itemCondition: 'https://schema.org/NewCondition',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '20',
+      },
+    },
+    relatedProducts: ['MLA24730361', 'MLA29654829', 'MLA23385666', 'MLA18562154', 'MLA15705813'],
+  },
+  {
     id: 'MLA28314113',
     title: 'Cafetera Smartlife 3 en 1 cápsulas Nespresso, Dolce Gusto y café molido',
     price: 528131,

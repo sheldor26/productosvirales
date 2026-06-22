@@ -1,6 +1,8 @@
 import { ExternalLink } from "lucide-react";
 import type { Guide, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
+import { formatPrice } from "@/lib/utils";
+import { Stars } from "./Stars";
 
 interface QuickPicksProps {
   picks: NonNullable<Guide["quickPicks"]>;
@@ -58,7 +60,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
             <div
               key={p.productMlaId}
               className="flex items-start gap-3 rounded-[6px] p-3 bg-[var(--bg-primary)] border"
-              style={{ borderColor: "var(--border)" }}
+              style={{ borderColor: "var(--border)", borderTopWidth: 3, borderTopColor: palette.fg }}
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
@@ -84,6 +86,24 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                 <p className="text-xs text-[var(--text-secondary)] leading-snug line-clamp-2">
                   {p.tagline}
                 </p>
+                {(p.product.rating || p.product.price) && (
+                  <div className="flex items-center gap-1.5 text-[11px] text-[var(--text-muted)]">
+                    {p.product.rating ? (
+                      <>
+                        <Stars rating={p.product.rating} size={12} />
+                        <span className="font-medium text-[var(--text-secondary)]">
+                          {p.product.rating.toFixed(1)}
+                        </span>
+                      </>
+                    ) : null}
+                    {p.product.price ? (
+                      <span className="font-semibold text-[var(--text-secondary)]">
+                        {p.product.rating ? "· " : ""}
+                        {formatPrice(p.product.price, p.product.currency)}
+                      </span>
+                    ) : null}
+                  </div>
+                )}
                 <a
                   href={p.product.affiliateUrl}
                   target="_blank"

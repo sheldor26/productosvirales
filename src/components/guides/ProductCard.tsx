@@ -1,9 +1,10 @@
 import Link from "next/link";
-import { ExternalLink, Package, Star } from "lucide-react";
+import { ExternalLink, Package } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
 import { getPriceValidUntil, productHref } from "@/lib/product-url";
+import { Stars } from "./Stars";
 
 interface ProductCardProps {
   section: GuideSection;
@@ -162,6 +163,18 @@ export function ProductCard({ section }: ProductCardProps) {
       style={{ borderColor: "var(--border)" }}
       aria-label={product.title}
     >
+      {/* Cinta de premio (award ribbon) — full width, color por labelColor */}
+      {(section.label || section.ranking) && (
+        <div
+          className="flex items-center gap-2 px-5 py-2.5 text-[12px] font-bold tracking-[0.06em] uppercase"
+          style={{ backgroundColor: palette.bg, color: palette.fg, fontFamily: "var(--font-display)" }}
+        >
+          {section.ranking && (
+            <span style={{ opacity: 0.55 }}>N.º {section.ranking}</span>
+          )}
+          {section.label && <span>{section.label}</span>}
+        </div>
+      )}
       <div className="flex flex-col md:flex-row">
         <div
           className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-5"
@@ -177,15 +190,6 @@ export function ProductCard({ section }: ProductCardProps) {
         </div>
 
         <div className="flex-1 p-5 md:p-6 flex flex-col gap-3">
-          {labelText && (
-            <span
-              className="self-start inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-semibold tracking-wider uppercase"
-              style={{ backgroundColor: palette.bg, color: palette.fg }}
-            >
-              {labelText}
-            </span>
-          )}
-
           <h4
             className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] leading-tight"
             style={{ fontFamily: "var(--font-display)" }}
@@ -194,13 +198,16 @@ export function ProductCard({ section }: ProductCardProps) {
           </h4>
 
           {rating && (
-            <div className="flex items-center gap-1.5 text-sm text-[var(--text-muted)]">
-              <Star size={14} className="fill-current" style={{ color: "var(--editorial-accent)" }} />
+            <div className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--text-muted)]">
+              <Stars rating={rating} />
               <span className="font-medium text-[var(--text-secondary)]">{rating.toFixed(1)}</span>
+              {product.reviewCount ? (
+                <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
+              ) : null}
               {price && (
                 <>
                   <span aria-hidden="true">·</span>
-                  <span>{price}</span>
+                  <span className="font-semibold text-[var(--text-secondary)]">{price}</span>
                 </>
               )}
             </div>

@@ -28,6 +28,7 @@ Next.js 16 (App Router) + React 19 + Tailwind v4 + TypeScript. Sin DB: contenido
 - `AGENTS.md` — aviso obligatorio sobre Next 16.
 - `docs/ARTICLE_CREATION_WORKFLOW.md` — cómo agregar un artículo nuevo (lado técnico).
 - **`docs/guias.md` — sistema de diseño y plantilla OFICIAL de todas las guías. Toda guía nueva sigue ESTE diseño (estilo TechRadar best-of). Leer SIEMPRE antes de escribir o rediseñar una guía.**
+- **`docs/fichas.md` — proceso OFICIAL para importar/enriquecer una ficha de producto (fuentes, página del fabricante, checklist agent-ready, reglas de honestidad). Leer SIEMPRE antes de importar un producto.**
 - `docs/clusters/<cluster>/` — borradores editoriales por cluster (perfumes-arabes, freidoras-de-aire, etc.).
 
 ## Comandos
@@ -47,7 +48,7 @@ No existe `npm test`: la verificación es `npm run build` (tipos) + revisar en `
 - Cambios chicos: editar el archivo y `npm run lint && npm run build` antes de cerrar.
 - Features nuevas: seguir `.claude/skills/feature.md`.
 - Artículos nuevos: seguir `docs/guias.md` (diseño y estructura, OBLIGATORIO) + `docs/ARTICLE_CREATION_WORKFLOW.md` (cómo guardar el objeto `Guide` en `src/data/guides.ts`).
-- Productos nuevos: editar `src/data/curated-products.ts` (o usar `scripts/ml-product-importer.ts` para importar de MercadoLibre).
+- Productos nuevos: seguir `docs/fichas.md` (proceso de importación, OBLIGATORIO) + editar `src/data/curated-products.ts` (o usar `scripts/ml-product-importer.ts` para importar de MercadoLibre).
 - Precios: `npm run prices:check -- --match <slug>` (dry-run) o `npm run prices:update -- --match <slug>` (escribe).
 
 ## Antes de cerrar una sesión

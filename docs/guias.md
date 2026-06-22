@@ -124,14 +124,14 @@ Avatar circular negro "PV" + "Equipo de Productos Virales" + bio corta. Va al pi
 
 El **contenido y la estructura** (§3) ya se expresan con los tipos de bloque actuales del `Guide` y los renderiza `GuideRenderer.tsx`. Lo que el sitio renderiza hoy: quickPicks, product-card, trust-block, callout, pull-quote, table, verdict, FAQ, internalLinks.
 
-Elementos del preview que **requieren trabajo en los componentes React** para que el sitio en vivo se vea igual que el preview (avisar a Juan antes de tocar componentes, regla 4 de CLAUDE.md):
-- [ ] **Índice lateral con scroll-spy** (layout de 2 columnas + IntersectionObserver en `GuideRenderer`).
-- [ ] **Cinta de premio (ribbon) de color** arriba del `product-card` (hoy el card usa `label` como badge chico; falta la cinta full-width).
-- [ ] **Estrellas fraccionadas** en `product-card` (verificar que ya rendericen el rating exacto; si muestran ★ llenas, ajustar).
-- [ ] **Caja de comparación superior** con estrellas + borde de color (mejora del render actual de `quickPicks`).
-- [ ] **Firma del equipo** (autor footer) reutilizable al pie.
+Estado de los elementos visuales en los componentes React (actualizado jun 2026):
+- [x] **Índice lateral con scroll-spy** — ya existía (`TableOfContents.tsx`, usado en `GuideRenderer`, resalta la sección activa con `--editorial-accent`).
+- [x] **Cinta de premio (ribbon) de color** arriba del `product-card` — implementada (full-width, color por `labelColor`, incluye "N.º X").
+- [x] **Estrellas fraccionadas** en `product-card` — implementadas vía `Stars.tsx` (relleno = rating/5×100%) + cantidad de calificaciones.
+- [x] **Caja de comparación superior** (`QuickPicks`) — mejorada con estrellas + precio + borde superior de color.
+- [x] **Firma del equipo** (autor footer) — ya existía en `ArticleFooter.tsx` (avatar PV + bio + fechas).
 
-Mientras esos no estén en el componente, el preview HTML es la referencia de cómo tiene que quedar.
+Componente nuevo: `src/components/guides/Stars.tsx` (estrellas fraccionadas reutilizables). El preview HTML (`docs/clusters/pavas-electricas/preview-pava-electrica.html`) sigue siendo la referencia visual.
 
 ---
 

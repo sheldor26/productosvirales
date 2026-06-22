@@ -17,9 +17,6 @@ export function getRelatedGuides(current: Guide, limit = 4): Guide[] {
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   // PILAR pavas-electricas — diseño best-of (ver docs/guias.md)
-  // TODO Juan: antes de pushear a PRODUCCIÓN, poné publishedDate a la
-  // fecha real de lanzamiento (post 30-jun). Hoy está con fecha de hoy
-  // solo para que se vea en el preview.
   // ─────────────────────────────────────────────────────────
   {
     slug: "pava-electrica",
@@ -6288,18 +6285,26 @@ export const guides: Guide[] = [
   {
     slug: "ninja-crispi-review",
     category: "freidoras-de-aire",
-    title: `Ninja Crispi freidora de aire 5.2L: review completa para Argentina 2026`,
-    seoTitle: `Ninja Crispi freidora de aire 5.2L: review completa para Argentina 2026`,
-    metaDescription: `Review del Ninja Crispi 5.2L en Argentina: tecnología Crispi Wave, resultados reales, precio y si vale la pena frente a Philips y marcas nacionales.`,
+    title: `Ninja Crispi 5.2L: review completa de la freidora de aire [2026]`,
+    seoTitle: `Freidora de aire Ninja Crispi 5.2L: review [2026]`,
+    metaDescription: `Review del Ninja Crispi 5.2L en Argentina: tecnología Crispi Wave, resultados reales, precio actual (~$321.000) y si vale la pena frente a Philips y Atma.`,
+    ogTitle: `Ninja Crispi: ¿se justifica el precio premium en Argentina?`,
+    ogDescription: `La probamos a fondo. Cocina muy bien, pero a ~$321.000 es de las freidoras más caras del país. Te contamos si el diferencial Ninja vale frente a Philips y Atma.`,
     h1: `Ninja Crispi 5.2L: ¿Cómo funciona y para quién es realmente?`,
     publishedDate: "2026-05-23",
-    updatedDate: "2026-05-23",
+    updatedDate: "2026-06-21",
     hasDisclosure: true,
     intro: [
       `La Ninja Crispi aparece constantemente en las búsquedas cuando alguien quiere una freidora de aire de marca reconocida. Pero acá en Argentina, los precios de importación la ponen en una categoría diferente. Pasé tiempo probando este modelo, viendo cómo funciona en la cocina real, y conversando con usuarios que la tienen. El resultado es un análisis honesto: qué hace bien, qué no, y si los números tienen sentido.`,
     ],
     sections: [
       { type: "image", src: "/images/freidoras/ninja-crispi-5-2l.webp", alt: `Ninja Crispi freidora de aire 5.2 litros Argentina` },
+
+      { type: "product-card", productMlaId: "MLA62320294", label: "La Ninja que se consigue en Argentina", labelColor: "purple", description: `Freidora de aire de 5.2L con tecnología Crispi Wave, pantalla digital y 6 funciones. Cocina muy bien, pero es de las más caras del catálogo: el premium de marca se paga.` },
+
+      { type: "h2", title: `¿Es "la" freidora de aire Ninja que se consigue en Argentina?`, id: "freidora-de-aire-ninja" },
+      { type: "p", content: `Cuando alguien busca "freidora de aire Ninja" en Argentina, casi siempre termina acá: en la Crispi. La línea grande de Ninja —las Foodi de doble canasta que aparecen en los videos de Estados Unidos— no llega al país con stock ni garantía estables, así que en la práctica **la Ninja que se consigue y se vende es la Crispi de 5.2L**. Por eso esta review cubre el modelo que de verdad vas a poder comprar, no uno que vas a buscar y no vas a encontrar.` },
+
       { type: "h2", title: `Qué es lo especial de la Ninja Crispi (y qué no)` },
       { type: "p", content: `Ninja promociona su tecnología Crispi Wave como lo que la diferencia. Básicamente, es un sistema que varía la velocidad del aire durante la cocción. La idea es generar una circulación más compleja que freidoras tradicionales, logrando más textura crocante en menos tiempo.` },
       { type: "p", content: `Suena bien en teoría. En la práctica, cuando cocinás papas fritas, milanesas o alitas de pollo, el resultado es bastante bueno. La textura es crocante sin ser quebradiza, y los tiempos de cocción son rápidos. Pero acá va lo honesto: cualquier freidora de aire decente con 2000W va a darte resultados similares. La diferencia entre Ninja Crispi y una Philips o una Atma de buen precio es más de matiz que de abismo.` },
@@ -6313,10 +6318,10 @@ export const guides: Guide[] = [
       { type: "h2", title: `Mantenimiento y durabilidad` },
       { type: "p", content: `El cesto es de acero inoxidable y la bandeja tiene un revestimiento antiadherente. Se limpia fácil con agua caliente y un cepillo suave. Sin sorpresas ahí.` },
       { type: "p", content: `El punto débil acá es que Ninja no tiene servicio técnico oficial amplio en Argentina. Lo que circula es importación paralela principalmente, traído por distribuidores. Si algo anda mal después de la garantía, tu opciones son limitadas comparadas con marcas como Atma o Philips que sí tienen técnicos acreditados.` },
-      { type: "h2", title: `El tema del precio` },
-      { type: "p", content: `Acá está el factor que más duele. La Ninja Crispi 5.2L está entre $45.000 y $55.000 en Mercado Libre, dependiendo de vendedor y promociones. Una Philips HD9270 (que es su comparador natural) sale en $35.000 a $40.000. Una Atma FR248ABP de 8 litros la conseguís a $20.000.` },
-      { type: "p", content: `¿Esos precios justifican mejor resultado? No completamente. ¿Justifican mejor durabilidad o tecnología exclusiva? Tampoco. ¿Justifican el diseño y la experiencia de marca? Un poco más, pero es subjetivo.` },
-      { type: "p", content: `Si tenés presupuesto de $45.000-55.000 para una freidora, vale la pena pensar si querés la Ninja o si preferís una Philips o incluso dos freidoras de marcas de presupuesto para cocinar en paralelo.` },
+      { type: "h2", title: `El tema del precio`, id: "precio" },
+      { type: "p", content: `Acá está el factor que más duele. La Ninja Crispi 5.2L cuesta alrededor de **$321.000** en Mercado Libre, lo que la pone entre las freidoras de aire **más caras** que se consiguen en Argentina. Para poner en contexto: una [Philips Na120 de 4.2L](https://meli.la/2gU6JZ1) ronda los $81.000, la [Atma Pro digital de 8L](https://meli.la/2H5RRoD) está en $89.000 con más de 12.000 calificaciones, y hasta la [Peabody con grill de 6L](https://meli.la/1afZm1r) sale $205.900. Con lo que cuesta una Crispi te llevás dos o tres freidoras de marca con excelente rating.` },
+      { type: "p", content: `¿Ese precio justifica mejor resultado? No del todo. ¿Justifica mejor durabilidad o tecnología exclusiva? Tampoco. ¿Justifica el diseño y la experiencia de marca americana? Un poco, pero es subjetivo y la brecha hoy es grande.` },
+      { type: "p", content: `Si tenés ~$321.000 para una freidora, vale la pena pensar si querés la Ninja por la marca o si preferís una [Atma](https://meli.la/2UfmcVY) o [Philips](https://meli.la/2gU6JZ1) de primera línea y guardarte la diferencia. Mirá el [ranking completo de freidoras](/guias/mejores-freidoras-de-aire-argentina) antes de decidir.` },
       { type: "h2", title: `Pros claros` },
       { type: "list", items: [
         `Pantalla digital responsiva y fácil de usar`,
@@ -6344,6 +6349,10 @@ export const guides: Guide[] = [
     ],
     faq: [
       {
+        question: `¿Qué freidora de aire Ninja se consigue en Argentina?`,
+        answer: `En la práctica, la Ninja Crispi de 5.2L. Las líneas grandes Foodi de doble canasta que se ven en Estados Unidos no entran al país con stock y garantía estables, así que cuando buscás "freidora de aire Ninja" en Argentina, la que vas a encontrar disponible es la Crispi. Cuesta alrededor de $321.000.`,
+      },
+      {
         question: `¿La Ninja Crispi cocina más rápido que otras freidoras?`,
         answer: `Más o menos igual. Los tiempos de cocción son competitivos, pero no hay ventaja significativa. Lo que sí tiene es bastante consistencia: repetís una receta y sale igual.`,
       },
@@ -6352,8 +6361,8 @@ export const guides: Guide[] = [
         answer: `Acá está el problema. Repuestos originales son difíciles. En Mercado Libre hay algunos vendedores que traen cestas de reemplazo, pero es complicado y caro.`,
       },
       {
-        question: `¿Conviene comprar la Ninja o mejor una Philips?`,
-        answer: `La Philips HD9270 es más barata y prácticamente igual en rendimiento. La Ninja gana en diseño y pantalla, pero el precio no justifica mucho la diferencia. Si el presupuesto es ajustado, Philips es más inteligente.`,
+        question: `¿Conviene comprar la Ninja o mejor una Philips o Atma?`,
+        answer: `En rendimiento, una [Philips Na120](https://meli.la/2gU6JZ1) ($81.000) o una [Atma Pro de 8L](https://meli.la/2H5RRoD) ($89.000) hacen prácticamente lo mismo por una fracción del precio. La Ninja gana en diseño, pantalla y experiencia de marca, pero la brecha de precio hoy es enorme (la Crispi sale ~$321.000). Si el presupuesto manda, Philips o Atma son más inteligentes.`,
       },
       {
         question: `¿Cuánto tiempo dura una freidora Ninja?`,
@@ -12716,6 +12725,126 @@ export const guides: Guide[] = [
         { productMlaId: "MLA66281403", label: "Más potencia", labelColor: "amber", tagline: "Xiaomi S40 Pro: 15.000 Pa para mascotas" },
       ],
     },
+
+  // ─────────────────────────────────────────────────────────
+  // GUÍA cafetera-nespresso — diseño best-of (ver docs/guias.md)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cafetera-nespresso",
+    category: "cafeteras",
+    title: `Mejores cafeteras Nespresso en Argentina: cuál comprar [2026]`,
+    seoTitle: `Cafetera Nespresso: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos las mejores cafeteras Nespresso de Argentina 2026: Essenza Mini, Citiz & Milk y Lattissima One. Precios reales, costo por cápsula y cuál conviene.`,
+    ogTitle: `Cafetera Nespresso 2026: cuál conviene de verdad (y el costo por cápsula)`,
+    ogDescription: `Essenza Mini, Citiz & Milk, Lattissima One: qué Nespresso comprar según cómo tomás el café, el costo real de la cápsula y cómo entrar al sistema por menos.`,
+    h1: `Mejores cafeteras Nespresso en Argentina: cuál comprar y cuánto cuesta la cápsula [2026]`,
+    publishedDate: "2026-06-21",
+    updatedDate: "2026-06-21",
+    hasDisclosure: true,
+    readingTime: 11,
+    standfirst: `Todo para elegir una cafetera Nespresso en Argentina sin sorpresas: ranking con precios reales de MercadoLibre, qué Nespresso comprar según cómo tomás el café, el costo real de la cápsula (y cómo bajarlo) y la diferencia entre Nespresso clásico y Vertuo.`,
+    quickPicks: [
+      { productMlaId: "MLA24730361", label: "Mejor elección general", labelColor: "green", tagline: "La Nespresso de entrada: la más vendida, 4.8★ en 2.663 opiniones" },
+      { productMlaId: "MLA29654829", label: "Mejor para leche", labelColor: "blue", tagline: "Citiz & Milk: acero y espumador Aeroccino para capuchino" },
+      { productMlaId: "MLA23437114", label: "Premium leche one-touch", labelColor: "purple", tagline: "Lattissima One: cappuccino de un toque, leche integrada" },
+      { productMlaId: "MLA18562154", label: "Entrar por menos", labelColor: "amber", tagline: "Smartlife: acepta cápsulas Nespresso compatibles, 1.656 opiniones" },
+    ],
+    intro: [
+      `Si buscás **cafetera Nespresso**, probablemente ya sabés lo que querés: espresso con crema apretando un botón, sin moler, dosificar ni limpiar portafiltros. Nespresso lleva más de 30 años definiendo esa categoría, y por eso "Nespresso" es casi sinónimo de café en cápsula. La pregunta no es si conviene el sistema —eso ya lo decidiste—, sino **cuál de las Nespresso comprar** y qué te va a costar la cápsula durante los próximos años.`,
+      `Y ahí hay matices que la tienda oficial no te cuenta tan de frente: la cápsula Nespresso es el formato de café más caro por taza (las recargables y compatibles lo bajan bastante); hay dos sistemas distintos —el **clásico** y el **Vertuo**, que usa otra cápsula más grande y es bastante más caro—; y existen máquinas que aceptan cápsulas Nespresso compatibles por menos plata, con miles de opiniones reales. Todo eso lo cubrimos acá.`,
+      `Comparamos las cafeteras Nespresso que se consiguen hoy en MercadoLibre Argentina, cruzando ficha técnica con lo que cuentan los compradores. Si no querés leer todo, el resumen de arriba te lleva directo. Si querés entender qué pagás —y qué vas a seguir pagando en cápsulas—, seguí.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_936786-MLA95729072378_102025-F.jpg", alt: `Cafetera Nespresso Essenza Mini roja de cápsulas, la más vendida del catálogo en Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras Nespresso disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos cuatro cosas que cambian el uso real: si hace solo café o también bebidas con leche (y cómo: espumador aparte o leche integrada), el material y el tamaño, el costo por cápsula a largo plazo, y qué dicen las calificaciones públicas de compradores reales. Aclaramos siempre cuántas opiniones tiene cada modelo —no es lo mismo decidir con 2.663 que con 20—. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Qué es el sistema Nespresso (y por qué se elige)`, id: "que-es" },
+      { type: "p", content: `Una cafetera Nespresso es una máquina de cápsulas: metés una cápsula sellada de café, apretás un botón y en menos de un minuto tenés un espresso con crema, taza tras taza igual, sin moler ni calibrar nada. El sistema trabaja a alta presión (típicamente 19 bares) sobre la cápsula, y esa es la receta de la crema consistente sin depender de tu técnica. Es la antítesis de la cafetera express con portafiltro: acá no hay ritual, hay un botón.` },
+      { type: "p", content: `Por eso se elige: comodidad, velocidad y constancia. La contra, que desarrollamos abajo, es el costo de la cápsula y que es un sistema cerrado. Si todavía dudás entre el ritual del espresso y la comodidad de la cápsula, mirá la [guía de cafeteras express](/guias/cafetera-express); si lo que querés es solo café de jarra, la [guía de cafeteras de filtro](/guias/cafetera-de-filtro) resuelve por mucho menos.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "El costo real está en la cápsula", content: `La máquina es solo la entrada: el gasto de verdad son las cápsulas que vas a comprar durante años. La cápsula Nespresso es el formato de café más caro por taza. Las cápsulas recargables (las llenás con tu café molido) y las compatibles de terceros bajan bastante ese costo — es el consejo que más se repite en las propias reseñas.` },
+
+      { type: "h2", title: `El ranking: mejores cafeteras Nespresso 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Nespresso Essenza Mini — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA24730361", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `La Nespresso de entrada y la más vendida del catálogo: 4.8 estrellas con 2.663 calificaciones. Compacta (600 mL), espresso y lungo con un botón. La mejor relación precio-respaldo del sistema.` },
+      { type: "p", content: `Es la que recomendamos a la mayoría, y las **2.663 calificaciones** lo explican: ninguna otra cafetera de cápsulas del catálogo fue probada por tanta gente ni con mejor promedio (4.8). A $200.000 hace lo esencial del sistema —espresso y lungo apretando un botón— en el cuerpo más chico de la familia Nespresso, que ocupa la mitad de espacio que otras cápsuleras.` },
+      { type: "p", content: `Lo honesto: hace **solo café**, no espuma leche (para capuchino mirá la Citiz & Milk de abajo), el depósito de 600 mL está pensado para una taza por vez, y el cuerpo es de plástico. Para quien toma espresso o lungo y quiere la entrada más probada al sistema, sus límites son claros y no molestan.` },
+      { type: "pull-quote", content: `"Esta máquina me cagó la vida. Ya no puedo tomar café instantáneo, ni de filtro, ni de sobrecito, ni de nada. Las cápsulas son un camino directo a la felicidad del paladar."`, attribution: `Comprador verificado en MercadoLibre, agosto 2023 · 89 personas lo encontraron útil` },
+
+      { type: "h3", title: `2. Nespresso Citiz & Milk — mejor para leche y diseño` },
+      { type: "product-card", productMlaId: "MLA29654829", label: "Mejor para leche", labelColor: "blue", ranking: 2, description: `Cuerpo de acero, 19 bares y espumador Aeroccino incluido para capuchino y latte de verdad. Depósito de 1 litro y agua caliente. 4.8 estrellas en 130 calificaciones.` },
+      { type: "p", content: `Si tomás capuchino o latte, esta es la Nespresso. Su diferencial sobre la Essenza Mini es doble: trae **espumador Aeroccino** (una unidad separada que te arma la espuma de leche con un botón) y **cuerpo de acero inoxidable** en lugar de plástico. Suma depósito de 1 litro y opción de agua caliente, útil para preparar varios cafés seguidos. 4.8 estrellas en 130 opiniones: menos que la Essenza Mini, pero con el mismo promedio alto.` },
+      { type: "p", content: `Lo honesto, y conviene saberlo antes de comprar: las **cápsulas "de regalo" tienen letra chica** —hay que hacer una compra para que te bonifiquen una parte, no vienen sin condiciones—, el espumador es una pieza aparte para guardar y lavar, y cuesta casi el doble que la Essenza Mini. El salto se justifica solo si la leche es parte de tu café.` },
+      { type: "pull-quote", content: `"Excelente. Muy superior a la Essenza Mini. Sale el café realmente caliente y además la opción de agua caliente para cuando preparás varios cafés para una reunión."`, attribution: `Comprador verificado en MercadoLibre, marzo 2026` },
+
+      { type: "h3", title: `3. Nespresso Lattissima One — premium con leche one-touch` },
+      { type: "product-card", productMlaId: "MLA23437114", label: "Premium leche one-touch", labelColor: "purple", ranking: 3, description: `La premium con leche integrada: cappuccino y latte macchiato de un solo botón, depósito de leche incorporado (sin espumador aparte). 1.300 W. 4.8 estrellas, pero con pocas opiniones todavía (20).` },
+      { type: "p", content: `El escalón de comodidad máxima: a diferencia de la Citiz & Milk (espumador aparte), la Lattissima One tiene un **depósito de leche integrado a la máquina** y hace cappuccino o latte macchiato apretando **un solo botón**, todo en un paso. Es la forma más cómoda de tomar bebidas con leche en el sistema Nespresso.` },
+      { type: "p", content: `Lo honesto, y es importante: esta publicación tiene **solo 20 calificaciones** —muy pocas frente a las 2.663 de la Essenza Mini—, así que el respaldo estadístico es chico y lo decimos de frente. Sumá que el material es plástico (un comprador esperaba mejor terminación), que hay que **limpiar el circuito de leche cada uso**, y que es la más cara del catálogo. Se justifica solo si la leche es central en tu café y querés cero maniobra.` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Nespresso Inissia?", content: `La [Nespresso Inissia](/producto/MLA23385666) ($350.000) es otra de entrada del catálogo, en color crema. La dejamos fuera del ranking principal por un motivo honesto: su publicación todavía no tiene calificaciones, así que no hay opiniones de compradores que la respalden. Si querés la entrada más probada, la Essenza Mini gana por respaldo y precio.` },
+
+      { type: "h2", title: `Nespresso clásico vs Vertuo: por qué este ranking es solo clásico`, id: "clasico-vs-vertuo" },
+      { type: "p", content: `Nespresso tiene **dos sistemas distintos y no compatibles entre sí**. El **clásico (Original)** es el de toda la vida: cápsula chica, espresso y lungo, presión típica de 19 bares. Es el de las tres máquinas de este ranking, y el de las cápsulas que conseguís en cualquier supermercado, boutique Nespresso o MercadoLibre.` },
+      { type: "p", content: `El **Vertuo** es el sistema nuevo: usa una **cápsula más grande y de otra forma** (lee un código de barras en cada cápsula para ajustar la extracción) y hace tazas más largas, estilo americano, además del espresso. El problema para Argentina: las máquinas Vertuo son importadas y caras (suelen arrancar arriba de los $700.000), y sus cápsulas son más difíciles de conseguir localmente. Por eso **no importamos ninguna Vertuo al catálogo**: hoy, para la mayoría en Argentina, el sistema clásico es el que tiene sentido por precio, disponibilidad de cápsulas y respaldo de opiniones. Si más adelante el Vertuo se consigue mejor por acá, lo sumamos.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "En una línea", content: `Si recién entrás a Nespresso en Argentina, andá por el sistema clásico (Original): cápsulas baratas y conseguibles en todos lados, máquinas con miles de opiniones. El Vertuo es interesante pero hoy es caro y de cápsula difícil de conseguir localmente.` },
+
+      { type: "h2", title: `Nespresso vs Dolce Gusto: no son lo mismo`, id: "vs-dolce-gusto" },
+      { type: "p", content: `Es la confusión más común, porque ambas son de la familia Nestlé y las dos usan cápsulas. Pero son **sistemas distintos y no intercambiables**: una máquina Nespresso no acepta cápsulas Dolce Gusto, ni al revés. La diferencia de fondo es el foco. **Nespresso** es la especialista en **espresso puro** estilo italiano: alta presión, crema, café corto. **Dolce Gusto** está pensada para **variedad de bebidas**: cortados, capuchinos, chocolate, té y bebidas con leche en cápsula, a un precio de entrada bastante más bajo.` },
+      { type: "p", content: `Regla simple: si tomás espresso o café solo, Nespresso. Si en tu casa se toman bebidas con leche variadas y el precio de entrada importa, Dolce Gusto rinde más. El comparativo completo, con modelos y precios, está en la [guía de cafeteras Dolce Gusto](/guias/cafetera-dolce-gusto).` },
+
+      { type: "h2", title: `Cómo entrar al sistema Nespresso por menos`, id: "entrar-por-menos" },
+      { type: "p", content: `Acá está el dato que la tienda oficial no te va a dar: no necesitás una máquina Nespresso para tomar café en cápsulas Nespresso. Varias cafeteras express del catálogo **aceptan cápsulas Nespresso compatibles** (las clásicas, las chiquitas) y además hacen café molido, con miles de calificaciones reales y precios más bajos.` },
+      { type: "p", content: `La más probada es la [Smartlife SL-EC8501](/producto/MLA18562154) ($209.999, 4.6 estrellas en 1.656 opiniones): bomba de 20 bares, espumador a vapor y dos portafiltros, uno para café molido y otro para cápsulas tipo Nespresso. Entrás al sistema y, encima, podés hacer espresso con café molido cuando quieras. En la misma idea juegan la [Liliana AC985 2 en 1](/producto/MLA62547964) (marca nacional con service local, molido + cápsulas Nespresso) y, un escalón arriba en flexibilidad, la [Smartlife 3 en 1](/producto/MLA28314113), que acepta cápsulas Nespresso, cápsulas Dolce Gusto y café molido.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "El trade-off honesto", content: `Estas máquinas piden algo más de ritual que una Nespresso pura (cargar la cápsula en el portafiltro, purgar, limpiar). A cambio te dan flexibilidad —molido o cápsula— y un costo por taza más bajo. Si querés la simpleza absoluta del botón único, una Nespresso de verdad; si no te molesta un poco de maniobra, estas te abren la puerta por menos.` },
+
+      { type: "h2", title: `Tabla comparativa: precio, sistema y leche`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Sistema`, `Leche`, `Para quién`], rows: [
+        [`[Nespresso Essenza Mini](https://meli.la/1g3EDxT)`, `$200.000`, `Cápsulas Nespresso`, `No (solo café)`, `La mejor para casi todos`],
+        [`[Nespresso Citiz & Milk](https://meli.la/2nHo9mw)`, `$368.699`, `Cápsulas Nespresso`, `Sí, espumador Aeroccino aparte`, `Capuchino con diseño en acero`],
+        [`[Nespresso Lattissima One](https://meli.la/1gpz3ft)`, `$515.880`, `Cápsulas Nespresso`, `Sí, integrada one-touch`, `Máxima comodidad con leche`],
+        [`[Nespresso Inissia](https://meli.la/1rEtjYg)`, `$350.000`, `Cápsulas Nespresso`, `No (solo café)`, `Entrada en crema (sin opiniones aún)`],
+        [`[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `$209.999`, `Molido + cápsulas Nespresso`, `Sí, espumador a vapor`, `Entrar al sistema por menos`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cafetera Nespresso`, id: "como-elegir" },
+      { type: "h3", title: `¿Tomás café solo o con leche?` },
+      { type: "p", content: `Es la decisión madre. Si tomás espresso o lungo, la [Essenza Mini](https://meli.la/1g3EDxT) hace exactamente eso por el precio más bajo y con el mayor respaldo de opiniones. Si tomás capuchino o latte, necesitás espuma de leche: ahí entran la [Citiz & Milk](https://meli.la/2nHo9mw) (espumador aparte) o la [Lattissima One](https://meli.la/1gpz3ft) (leche integrada). Pagar por la leche si tomás café solo es tirar plata.` },
+      { type: "h3", title: `Espumador aparte vs leche integrada` },
+      { type: "p", content: `Si vas a tomar bebidas con leche, el "cómo" define el precio. La Citiz & Milk usa un **Aeroccino separado**: dos pasos, dos piezas, pero se limpia aparte y más simple. La Lattissima One tiene la **leche integrada one-touch**: un botón y listo, pero hay que limpiar el circuito de leche cada uso y cuesta más. Comodidad máxima contra precio y mantenimiento: ese es el eje.` },
+      { type: "h3", title: `El costo por cápsula, antes de comprar` },
+      { type: "p", content: `Hacé la cuenta: multiplicá tu consumo diario por el precio de la cápsula y compará con lo que gastás hoy. Para 1-2 cafés diarios, el sistema cierra. Para consumos altos, las **cápsulas recargables** (llenás con tu café molido) o una máquina híbrida con molido como la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) te ahorran una diferencia importante por mes.` },
+
+      { type: "h2", title: `Cuánto cuesta una cafetera Nespresso en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$200.000 a $210.000:** la entrada. La [Essenza Mini](https://meli.la/1g3EDxT) (Nespresso pura, solo café) y la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) (acepta cápsulas Nespresso compatibles + molido). Mejor relación precio-respaldo.`,
+        `**$350.000 a $370.000:** Nespresso con más prestaciones. La [Inissia](https://meli.la/1rEtjYg) en crema y la [Citiz & Milk](https://meli.la/2nHo9mw) con espumador y acero.`,
+        `**$500.000 y más:** premium con leche integrada. La [Lattissima One](https://meli.la/1gpz3ft) hace cappuccino one-touch. El Vertuo, importado, suele arrancar todavía más arriba.`,
+        `**El gasto que no aparece en el precio:** la cápsula. Es el formato más caro por taza; las recargables y compatibles lo bajan. Calculalo según cuántos cafés tomás por día.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál Nespresso comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría: la **Nespresso Essenza Mini** ($200.000) — la de entrada, la más vendida y mejor reseñada del catálogo (4.8★ en 2.663 opiniones), espresso con un botón en un cuerpo chiquito. Si tomás capuchino o latte y querés diseño en acero, la **Citiz & Milk** suma espumador Aeroccino por $168.000 más. Si querés la leche integrada one-touch y el presupuesto no es el límite, la **Lattissima One** (con la advertencia de sus pocas opiniones todavía). Y si querés entrar al sistema por menos, la **Smartlife SL-EC8501** acepta cápsulas Nespresso compatibles y además hace molido, con 1.656 opiniones. El dato a no olvidar: el costo real está en la cápsula — calculalo antes de comprar.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cafetera Nespresso para empezar?`, answer: `La [Nespresso Essenza Mini](https://meli.la/1g3EDxT): es la de entrada, la más vendida y mejor puntuada del catálogo (4.8 estrellas en 2.663 calificaciones). Hace espresso y lungo con un botón, es la más compacta de la familia y cuesta $200.000. Para empezar en el sistema con el mayor respaldo de opiniones, es la elección obvia. La única salvedad: hace solo café, no espuma leche.` },
+      { question: `¿Qué Nespresso conviene para capuchino y latte?`, answer: `Las que traen espuma de leche. La [Citiz & Milk](https://meli.la/2nHo9mw) ($368.699) viene con espumador Aeroccino aparte y cuerpo de acero; la [Lattissima One](https://meli.la/1gpz3ft) ($515.880) tiene la leche integrada y hace cappuccino de un toque, aunque hay que limpiar el circuito de leche cada uso. Si no te molesta usar el espumador aparte, la Citiz & Milk tiene más opiniones y cuesta menos; si querés cero maniobra, la Lattissima One.` },
+      { question: `¿Cuánto cuesta una cápsula Nespresso y cómo bajo el gasto?`, answer: `La cápsula Nespresso es el formato de café más caro por taza — ese es el peaje de la comodidad. El precio exacto varía según la variedad y dónde compres (boutique, supermercado, MercadoLibre, compatibles de terceros). Para bajar el gasto, el consejo que más se repite en las reseñas es usar cápsulas recargables, que llenás con tu propio café molido. También están las compatibles de terceros, más baratas que las originales.` },
+      { question: `¿Qué diferencia hay entre Nespresso clásico y Vertuo?`, answer: `Son dos sistemas distintos y no compatibles. El clásico (Original) usa una cápsula chica, hace espresso y lungo y es el de todas las máquinas de esta guía; sus cápsulas se consiguen en todos lados. El Vertuo usa una cápsula más grande, lee un código de barras para ajustar la extracción y hace tazas más largas, pero sus máquinas son importadas y caras (suelen arrancar arriba de $700.000) y las cápsulas son más difíciles de conseguir en Argentina. Para la mayoría acá, hoy conviene el sistema clásico.` },
+      { question: `¿La Nespresso usa cápsulas Dolce Gusto?`, answer: `No. Aunque ambas marcas son de la familia Nestlé, son sistemas distintos y no intercambiables: una máquina Nespresso no acepta cápsulas Dolce Gusto, ni al revés. Nespresso es la especialista en espresso puro; Dolce Gusto, en variedad de bebidas con leche a un precio de entrada más bajo. El detalle está en la [guía de cafeteras Dolce Gusto](/guias/cafetera-dolce-gusto).` },
+      { question: `¿Se puede tomar café en cápsulas Nespresso sin comprar una máquina Nespresso?`, answer: `Sí. Varias cafeteras express del catálogo aceptan cápsulas Nespresso compatibles y además hacen café molido. La más probada es la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($209.999, 4.6 estrellas en 1.656 opiniones), que trae un portafiltro para cápsulas tipo Nespresso y otro para molido. Es la forma de entrar al sistema por menos, a cambio de algo más de ritual que una Nespresso pura.` },
+      { question: `¿Vale la pena la Lattissima One frente a la Citiz & Milk?`, answer: `Solo si la leche integrada one-touch te importa de verdad. La Lattissima One ($515.880) hace cappuccino de un toque con la leche en la máquina; la Citiz & Milk ($368.699) hace lo mismo con el espumador Aeroccino aparte (dos pasos), es de acero, tiene más opiniones (130 vs 20) y cuesta $147.000 menos. Si no te molesta el espumador aparte, la Citiz & Milk es la compra más probada; si querés cero maniobra, la Lattissima One.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express", href: "/guias/cafetera-express" },
+      { label: "Cafetera Dolce Gusto", href: "/guias/cafetera-dolce-gusto" },
+      { label: "Cafetera de filtro", href: "/guias/cafetera-de-filtro" },
+      { label: "Qué cafetera comprar", href: "/guias/que-cafetera-comprar" },
+      { label: "Cafetera Oster", href: "/guias/cafetera-oster" },
+    ],
+    internalLinksTitle: "Guías de cafeteras",
+  },
 
   {
     slug: "cafetera-express",

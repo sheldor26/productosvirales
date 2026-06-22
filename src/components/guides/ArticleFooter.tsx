@@ -52,7 +52,7 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
           </div>
           <div className="flex-1 min-w-0">
             <p className="text-[15px] font-semibold text-[var(--text-primary)]">
-              Escrito por Equipo productosvirales
+              Escrito por el Equipo de Productos Virales
             </p>
             <p className="mt-1 text-[14px] leading-relaxed text-[var(--text-secondary)]">
               Analizamos el mercado argentino de {categoryLabel.toLowerCase()} desde 2024.
