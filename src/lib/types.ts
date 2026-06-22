@@ -228,6 +228,8 @@ export interface GuideFAQ {
 export interface Guide {
   slug: string;
   category: string; // e.g. "masajeadores"
+  /** Marca la guía pilar (hub/ranking) de su categoría. Se renderiza como card destacada en /guias. */
+  pillar?: boolean;
   title: string;
   seoTitle: string;
   metaDescription: string;

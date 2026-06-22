@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>PREVIEW v3 · Listado de guías</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#fff;--bg2:#f6f6f4;--text:#111;--text2:#585858;--muted:#767676;--border:#e7e7e4;--star:#A8842E;--rcard:16px}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:"DM Sans",system-ui,sans-serif;line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{outline:none}
+  a:focus-visible{outline:2px solid #111;outline-offset:2px;border-radius:8px}
+  .pv{background:#111;color:#fff;text-align:center;font-size:12.5px;padding:8px}
+  .pv b{color:#FFE600}
+  .wrap{max-width:1040px;margin:0 auto;padding:22px 20px 70px}
+  /* header compacto */
+  h1{font-family:"Plus Jakarta Sans";font-size:clamp(26px,4.2vw,36px);font-weight:800;letter-spacing:-.02em;margin:.1em 0 .2em}
+  .sub{font-size:15.5px;color:var(--text2);margin:0 0 8px;max-width:680px}
+  .scale{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:12.5px;color:var(--muted);margin:0 0 14px}
+  .scale b{color:var(--text);font-weight:700}
+  nav{position:sticky;top:0;z-index:30;background:rgba(255,255,255,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--border);margin:0 -20px 24px;padding:10px 20px}
+  nav ul{list-style:none;display:flex;flex-wrap:wrap;gap:7px;margin:0;padding:0;overflow-x:auto}
+  nav a{display:inline-flex;gap:6px;align-items:center;font-size:13px;font-weight:600;color:var(--text);text-decoration:none;border:1px solid var(--border);border-radius:9999px;padding:6px 12px;white-space:nowrap}
+  nav a:hover{background:var(--bg2)} nav a.on{background:#111;color:#fff;border-color:#111}
+  nav a .c{color:var(--muted);font-size:11.5px} nav a.on .c{color:#bbb}
+  h2{font-family:"Plus Jakarta Sans";font-size:clamp(21px,3.2vw,27px);font-weight:800;margin:0 0 4px}
+  .catdesc{color:var(--text2);font-size:14.5px;margin:0 0 14px;max-width:680px}
+  section{margin:0 0 42px;scroll-margin-top:64px}
+
+  /* chips unificados */
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin:9px 0}
+  .chip{font-size:12px;font-weight:600;color:var(--text2);background:var(--bg2);border:1px solid var(--border);border-radius:8px;padding:3px 9px;white-space:nowrap}
+  .chip.pick{color:#1e4f1e;background:#e8f1e4;border-color:#cfe3c6}
+  .chip.star{color:var(--star)}
+  .chip.fresh{color:#155e75;background:#e0f2f5;border-color:#bae3ec}
+  .chip.op{color:#5a3a72;background:#efe7f4;border-color:#ddc9e8}
+
+  /* CTA unificado (un solo color, negro) */
+  .go{align-self:flex-start;display:inline-flex;align-items:center;gap:7px;font-weight:800;font-size:14px;background:#111;color:#fff;border-radius:9999px;padding:11px 19px;text-decoration:none}
+  .go:hover{background:#333}
+  .go-sm{margin-top:auto;display:inline-flex;align-items:center;gap:5px;font-weight:700;font-size:13px;color:#111;text-decoration:none}
+  .go-sm:hover{text-decoration:underline}
+
+  /* PILAR — domina */
+  .pillar{display:flex;gap:22px;border:1.5px solid #111;border-radius:var(--rcard);padding:20px;background:var(--bg);box-shadow:0 10px 30px rgba(0,0,0,.09);text-decoration:none;color:inherit;margin-bottom:16px;transition:transform .15s}
+  .pillar:hover{transform:translateY(-2px)}
+  .pillar .ph{flex:none;width:230px;height:200px;background:#fff;border:1px solid var(--border);border-radius:12px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .pillar .ph img{max-width:100%;max-height:100%;object-fit:contain;padding:10px}
+  .pillar .body{flex:1;min-width:0;display:flex;flex-direction:column}
+  .tag{align-self:flex-start;font-size:10.5px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;background:#111;color:#fff;border-radius:6px;padding:4px 10px;margin-bottom:9px}
+  .pillar h3{font-family:"Plus Jakarta Sans";font-size:25px;font-weight:800;line-height:1.15;margin:0 0 7px}
+  .pillar p{font-size:15px;color:var(--text2);margin:0}
+
+  /* satélites */
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  .card{display:flex;gap:14px;border:1px solid var(--border);border-radius:var(--rcard);padding:14px;background:var(--bg);text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}
+  .card:hover{transform:translateY(-2px);box-shadow:0 8px 20px rgba(0,0,0,.07)}
+  .card .ph{flex:none;width:108px;height:108px;background:#fff;border:1px solid var(--border);border-radius:12px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+  .card .ph img{max-width:100%;max-height:100%;object-fit:contain;padding:7px}
+  .card .body{flex:1;min-width:0;display:flex;flex-direction:column}
+  .card h3{font-family:"Plus Jakarta Sans";font-size:15.5px;font-weight:700;line-height:1.25;margin:0 0 4px}
+  .card p{font-size:13px;color:var(--text2);margin:0;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+  .card .chips{margin:6px 0 8px} .card .chip{font-size:11px;padding:2px 7px}
+  @media(max-width:680px){.grid{grid-template-columns:1fr}.pillar{flex-direction:column}.pillar .ph{width:100%;height:180px}}
+</style>
+</head>
+<body>
+<div class="pv">PREVIEW v3 · listado · pilar dominante + chips unificados + CTA único · <b>(schema/title SEO van en el código, no se ven acá)</b></div>
+<div class="wrap">
+  <h1>Guías de compra para MercadoLibre Argentina</h1>
+  <p class="sub">Comparativas honestas para elegir bien: precios reales, opiniones de compradores y los contras que nadie te cuenta.</p>
+  <div class="scale"><span><b>7 categorías</b></span><span><b>+100</b> productos analizados</span><span><b>miles</b> de opiniones leídas</span><span>precios verificados automáticamente</span></div>
+
+  <nav>
+    <ul>
+      <li><a class="on" href="#l">Licuadoras <span class="c">1</span></a></li>
+      <li><a href="#c">Cafeteras <span class="c">9</span></a></li>
+      <li><a href="#">Freidoras <span class="c">23</span></a></li>
+      <li><a href="#">Pavas <span class="c">12</span></a></li>
+      <li><a href="#">Masajeadores <span class="c">11</span></a></li>
+      <li><a href="#">Perfumes árabes <span class="c">14</span></a></li>
+      <li><a href="#">Aspiradoras robot <span class="c">12</span></a></li>
+    </ul>
+  </nav>
+
+  <!-- LICUADORAS -->
+  <section id="l">
+    <h2>Licuadoras</h2>
+    <p class="catdesc">Cuál licúa hielo de verdad, cuál no le pasa gusto al agua y desde cuánto sale una que dure. Las más vendidas de MercadoLibre, comparadas.</p>
+
+    <a class="pillar" href="#">
+      <div class="ph"><img src="https://http2.mlstatic.com/D_NQ_NP_853438-MLA99449333302_112025-F.jpg" alt="Oster Classic"></div>
+      <div class="body">
+        <span class="tag">★ Guía principal</span>
+        <h3>Licuadora 2026: cuál comprar de verdad (sin pagar de más)</h3>
+        <p>Cuál licúa hielo de verdad y cuál no le pasa gusto al agua. Comparamos las 7 más vendidas con sus contras reales — de vaso, de mano y portátil.</p>
+        <div class="chips">
+          <span class="chip">Comparamos 7</span>
+          <span class="chip op">+15.000 opiniones</span>
+          <span class="chip pick">Elección: Oster Classic</span>
+          <span class="chip">Desde $58.000</span>
+          <span class="chip star">★ 4.8</span>
+          <span class="chip fresh">Actualizada esta semana</span>
+        </div>
+        <span class="go" style="margin-top:13px">Ver guía completa →</span>
+      </div>
+    </a>
+    <p style="font-size:13px;color:var(--muted);margin:0">Más guías de licuadoras (de mano, Oster, portátiles) en camino.</p>
+  </section>
+
+  <!-- CAFETERAS -->
+  <section id="c">
+    <h2>Cafeteras</h2>
+    <p class="catdesc">Express, cápsulas o filtro: cuál te conviene según cómo tomás el café, cuánto cuesta cada cápsula y dónde poner la plata (y dónde no).</p>
+
+    <a class="pillar" href="#">
+      <div class="ph"><img src="https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg" alt="Smartlife SL-EC8501"></div>
+      <div class="body">
+        <span class="tag">★ Guía principal</span>
+        <h3>Cafetera express 2026: la guía honesta para no pagar de más</h3>
+        <p>La diferencia real entre 15 y 20 bares, cuáles espuman bien la leche y dónde conviene poner la plata. Smartlife, Oster, Peabody y más.</p>
+        <div class="chips">
+          <span class="chip">Comparamos 7</span>
+          <span class="chip op">+12.000 opiniones</span>
+          <span class="chip pick">Elección: Smartlife SL-EC8501</span>
+          <span class="chip">Desde $129.990</span>
+          <span class="chip star">★ 4.6</span>
+        </div>
+        <span class="go" style="margin-top:13px">Ver guía completa →</span>
+      </div>
+    </a>
+
+    <div class="grid">
+      <a class="card" href="#">
+        <div class="ph"><img src="https://http2.mlstatic.com/D_NQ_NP_811045-MLA100066139885_122025-F.jpg" alt="Oster"></div>
+        <div class="body">
+          <h3>Cafetera Oster: cuál comprar [2026]</h3>
+          <p>Las dos Oster que se consiguen: la de entrada y la Perfect Brew con molinillo.</p>
+          <div class="chips"><span class="chip">Comparamos 2</span><span class="chip">Desde $289.999</span><span class="chip star">★ 4.7</span></div>
+          <span class="go-sm">Ver guía →</span>
+        </div>
+      </a>
+      <a class="card" href="#">
+        <div class="ph"><img src="https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg" alt="Dolce Gusto Piccolo"></div>
+        <div class="body">
+          <h3>Cafetera Dolce Gusto: cuál comprar [2026]</h3>
+          <p>La Piccolo XS y el detalle manual que confunde a todos antes de comprar.</p>
+          <div class="chips"><span class="chip pick">La más vendida</span><span class="chip">Desde $129.990</span><span class="chip star">★ 4.8 (8.392)</span></div>
+          <span class="go-sm">Ver guía →</span>
+        </div>
+      </a>
+      <a class="card" href="#">
+        <div class="ph"><img src="https://http2.mlstatic.com/D_NQ_NP_936786-MLA95729072378_102025-F.jpg" alt="Nespresso Essenza"></div>
+        <div class="body">
+          <h3>Cafetera Nespresso: cuál comprar [2026]</h3>
+          <p>Essenza, Citiz y Lattissima: costo por cápsula y cómo entrar al sistema por menos.</p>
+          <div class="chips"><span class="chip pick">Elección: Essenza Mini</span><span class="chip">Desde $200.000</span><span class="chip star">★ 4.8 (2.663)</span></div>
+          <span class="go-sm">Ver guía →</span>
+        </div>
+      </a>
+      <a class="card" href="#">
+        <div class="ph"><img src="https://http2.mlstatic.com/D_NQ_NP_618795-MLA99866989519_112025-F.jpg" alt="Cafetera de filtro"></div>
+        <div class="body">
+          <h3>Cafetera de filtro: las mejores [2026]</h3>
+          <p>Para café de jarra todo el día: cuáles valen y cuál es la mejor calidad-precio.</p>
+          <div class="chips"><span class="chip">Comparamos 6</span><span class="chip">Desde $40.756</span><span class="chip star">★ 4.6</span></div>
+          <span class="go-sm">Ver guía →</span>
+        </div>
+      </a>
+    </div>
+  </section>
+
+</div>
+</body>
+</html>

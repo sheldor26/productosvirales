@@ -3,30 +3,33 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import { getPublishedGuides, guideCategories } from "@/data/guides";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
-import { calcReadingTime } from "@/lib/reading-time";
+import { getGuideCardSignals } from "@/lib/guide-card-signals";
 import type { Guide } from "@/lib/types";
 
 // Revalidate daily so scheduled guides appear on their publishedDate
 export const revalidate = 86400;
 
 export const metadata: Metadata = {
-  title: "Guías de compra — Productos Virales",
+  title:
+    "Guías de compra 2026: mejores productos en MercadoLibre Argentina",
   description:
-    "Comparativas honestas y guías de compra para elegir bien en MercadoLibre Argentina. Masajeadores, gadgets virales y más.",
+    "Comparativas honestas para elegir bien en MercadoLibre Argentina: precios reales, opiniones de compradores y los contras que nadie te cuenta.",
   alternates: {
     canonical: "https://productosvirales.com.ar/guias",
   },
   openGraph: {
-    title: "Guías de compra — Productos Virales",
+    title:
+      "Guías de compra 2026: mejores productos en MercadoLibre Argentina",
     description:
-      "Comparativas honestas y guías de compra para elegir bien en MercadoLibre Argentina.",
+      "Comparativas honestas para elegir bien en MercadoLibre Argentina: precios reales, opiniones de compradores y los contras que nadie te cuenta.",
     url: "https://productosvirales.com.ar/guias",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Guías de compra — Productos Virales",
+    title:
+      "Guías de compra 2026: mejores productos en MercadoLibre Argentina",
     description:
-      "Comparativas honestas y guías de compra para elegir bien en MercadoLibre Argentina.",
+      "Comparativas honestas para elegir bien en MercadoLibre Argentina: precios reales, opiniones de compradores y los contras que nadie te cuenta.",
   },
 };
 
@@ -53,25 +56,153 @@ function daysSince(iso: string): number {
   return Math.floor((todayUtc - target) / MS_PER_DAY);
 }
 
-function formatRelativeDate(iso: string): string {
-  const days = daysSince(iso);
-  if (days <= 0) return "Hoy";
-  if (days === 1) return "Ayer";
-  if (days < 7) return `Hace ${days} días`;
-  if (days < 14) return "Hace 1 semana";
-  if (days < 30) return `Hace ${Math.floor(days / 7)} semanas`;
-  if (days < 60) return "Hace 1 mes";
-  if (days < 90) return "Hace 2 meses";
-  const [year, month, day] = iso.split("-").map(Number);
-  const date = new Date(Date.UTC(year, month - 1, day));
-  return new Intl.DateTimeFormat("es-AR", {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-    timeZone: "UTC",
-  })
-    .format(date)
-    .replace(/\./g, "");
+/** Chips renderizados de una guía, en el mismo orden para pilar y satélites. */
+function CardChips({ guide, compact }: { guide: Guide; compact?: boolean }) {
+  const signals = getGuideCardSignals(guide);
+  const isFresh = daysSince(guide.updatedDate) <= 7;
+  const base = compact
+    ? "text-[11px] px-[7px] py-[2px]"
+    : "text-xs px-[9px] py-[3px]";
+  const chip = `inline-flex items-center font-semibold rounded-[8px] border whitespace-nowrap ${base}`;
+
+  return (
+    <div className="flex flex-wrap gap-1.5 my-2">
+      {signals.productCount > 1 && (
+        <span
+          className={`${chip} text-[var(--text-secondary)] bg-[var(--bg-secondary)] border-[var(--border)]`}
+        >
+          Comparamos {signals.productCount}
+        </span>
+      )}
+      {signals.totalReviews && signals.totalReviews > 1000 && (
+        <span
+          className={`${chip} text-[#5a3a72] bg-[#efe7f4] border-[#ddc9e8]`}
+        >
+          +{signals.totalReviews.toLocaleString("es-AR")} opiniones
+        </span>
+      )}
+      {signals.topPick && (
+        <span
+          className={`${chip} text-[#1e4f1e] bg-[#e8f1e4] border-[#cfe3c6]`}
+        >
+          Elección: {signals.topPick}
+        </span>
+      )}
+      {signals.fromPrice && (
+        <span
+          className={`${chip} text-[var(--text-secondary)] bg-[var(--bg-secondary)] border-[var(--border)]`}
+        >
+          Desde ${signals.fromPrice}
+        </span>
+      )}
+      {typeof signals.topRating === "number" && (
+        <span
+          className={`${chip} text-[#A8842E] bg-[var(--bg-secondary)] border-[var(--border)]`}
+        >
+          ★ {signals.topRating.toLocaleString("es-AR")}
+        </span>
+      )}
+      {isFresh && (
+        <span
+          className={`${chip} text-[#155e75] bg-[#e0f2f5] border-[#bae3ec]`}
+        >
+          Actualizada esta semana
+        </span>
+      )}
+    </div>
+  );
+}
+
+function GuideThumb({
+  guide,
+  variant,
+  priority,
+}: {
+  guide: Guide;
+  variant: "pillar" | "card";
+  priority?: boolean;
+}) {
+  const thumbnail = getGuideThumbnail(guide);
+  if (!thumbnail) return null;
+  const box =
+    variant === "pillar"
+      ? "w-full md:w-[230px] h-[180px] md:h-[200px]"
+      : "w-[108px] h-[108px]";
+  return (
+    <div
+      className={`shrink-0 ${box} overflow-hidden rounded-[12px] border border-[var(--border)] bg-white flex items-center justify-center`}
+    >
+      <Image
+        src={thumbnail.src}
+        alt={thumbnail.alt}
+        width={thumbnail.width}
+        height={thumbnail.height}
+        priority={priority}
+        className={`max-w-full max-h-full ${
+          thumbnail.fit === "contain" ? "object-contain p-2.5" : "object-cover w-full h-full"
+        }`}
+      />
+    </div>
+  );
+}
+
+function PillarCard({ guide }: { guide: Guide }) {
+  const title = guide.ogTitle || guide.title;
+  const dek = guide.ogDescription || guide.metaDescription;
+  return (
+    <Link
+      href={`/guias/${guide.slug}`}
+      className="group flex flex-col md:flex-row gap-5 md:gap-[22px] mb-4 p-5 rounded-[var(--radius-card)] border-[1.5px] border-[var(--text-primary)] bg-[var(--bg-primary)] shadow-[0_10px_30px_rgba(0,0,0,0.09)] transition-transform duration-150 hover:-translate-y-0.5"
+    >
+      <GuideThumb guide={guide} variant="pillar" priority />
+      <div className="flex-1 min-w-0 flex flex-col">
+        <span className="self-start mb-2.5 text-[10.5px] font-extrabold tracking-[0.08em] uppercase rounded-[6px] px-2.5 py-1 bg-[var(--cta-bg)] text-[var(--cta-text)]">
+          ★ Guía principal
+        </span>
+        <h3
+          className="text-xl md:text-[25px] font-extrabold leading-[1.15] mb-2 text-[var(--text-primary)]"
+          style={{ fontFamily: "var(--font-display)" }}
+        >
+          {title}
+        </h3>
+        <p className="text-[15px] text-[var(--text-secondary)] leading-relaxed">
+          {dek}
+        </p>
+        <CardChips guide={guide} />
+        <span className="self-start mt-3 inline-flex items-center gap-2 font-extrabold text-sm rounded-full px-[19px] py-[11px] bg-[var(--cta-bg)] text-[var(--cta-text)] transition-opacity group-hover:opacity-90">
+          Ver guía completa →
+        </span>
+      </div>
+    </Link>
+  );
+}
+
+function SatelliteCard({ guide }: { guide: Guide }) {
+  const title = guide.ogTitle || guide.title;
+  const dek = guide.ogDescription || guide.metaDescription;
+  return (
+    <Link
+      href={`/guias/${guide.slug}`}
+      className="group flex gap-3.5 p-3.5 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] transition-all duration-150 hover:-translate-y-0.5 hover:shadow-[0_8px_20px_rgba(0,0,0,0.07)]"
+    >
+      <GuideThumb guide={guide} variant="card" />
+      <div className="flex-1 min-w-0 flex flex-col">
+        <h3
+          className="text-[15.5px] font-bold leading-[1.25] mb-1 text-[var(--text-primary)] line-clamp-2"
+          style={{ fontFamily: "var(--font-display)" }}
+        >
+          {title}
+        </h3>
+        <p className="text-[13px] text-[var(--text-secondary)] leading-snug line-clamp-1">
+          {dek}
+        </p>
+        <CardChips guide={guide} compact />
+        <span className="mt-auto inline-flex items-center gap-1 font-bold text-[13px] text-[var(--text-primary)] group-hover:underline">
+          Ver guía →
+        </span>
+      </div>
+    </Link>
+  );
 }
 
 export default function GuiasIndexPage() {
@@ -88,31 +219,117 @@ export default function GuiasIndexPage() {
     count: items.length,
   }));
 
+  const totalProducts = published.reduce((sum, g) => {
+    const ids = new Set<string>();
+    for (const pick of g.quickPicks || []) {
+      if (pick.productMlaId) ids.add(pick.productMlaId);
+    }
+    for (const s of g.sections) {
+      if (s.type === "product-card" && s.productMlaId) ids.add(s.productMlaId);
+    }
+    return sum + ids.size;
+  }, 0);
+
+  // Fecha de modificación más reciente entre todas las guías publicadas.
+  const dateModified = published.reduce(
+    (latest, g) => (mostRecentDate(g) > latest ? mostRecentDate(g) : latest),
+    published[0] ? mostRecentDate(published[0]) : ""
+  );
+
+  const collectionLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name: "Guías de compra para MercadoLibre Argentina",
+    description:
+      "Comparativas honestas para elegir bien en MercadoLibre Argentina: precios reales, opiniones de compradores y los contras que nadie te cuenta.",
+    url: "https://productosvirales.com.ar/guias",
+    inLanguage: "es-AR",
+    ...(dateModified ? { dateModified } : {}),
+    mainEntity: {
+      "@type": "ItemList",
+      itemListElement: published.map((g, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: `https://productosvirales.com.ar/guias/${g.slug}`,
+        name: g.ogTitle || g.title,
+      })),
+    },
+  };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Inicio",
+        item: "https://productosvirales.com.ar",
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Guías",
+        item: "https://productosvirales.com.ar/guias",
+      },
+    ],
+  };
+
   return (
-    <div className="max-w-[1100px] mx-auto px-4 md:px-6 py-8 md:py-12">
+    <div className="max-w-[1040px] mx-auto px-4 md:px-6 py-6 md:py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
+
       <h1
-        className="text-3xl md:text-4xl font-bold text-[var(--text-primary)] mb-3"
+        className="text-3xl md:text-4xl font-extrabold tracking-tight text-[var(--text-primary)] mb-2"
         style={{ fontFamily: "var(--font-display)" }}
       >
-        Guías de compra
+        Guías de compra para MercadoLibre Argentina
       </h1>
-      <p className="text-base md:text-lg text-[var(--text-secondary)] mb-6">
-        Comparativas honestas para elegir bien en MercadoLibre Argentina.
+      <p className="text-base md:text-[15.5px] text-[var(--text-secondary)] mb-2 max-w-[680px]">
+        Comparativas honestas para elegir bien: precios reales, opiniones de
+        compradores y los contras que nadie te cuenta.
       </p>
+      <div className="flex flex-wrap gap-x-3.5 gap-y-1.5 text-[12.5px] text-[var(--text-muted)] mb-4">
+        <span>
+          <strong className="text-[var(--text-primary)] font-bold">
+            {categoriesForNav.length} categorías
+          </strong>
+        </span>
+        <span>
+          <strong className="text-[var(--text-primary)] font-bold">
+            +{Math.floor(totalProducts / 10) * 10}
+          </strong>{" "}
+          productos analizados
+        </span>
+        <span>
+          <strong className="text-[var(--text-primary)] font-bold">miles</strong>{" "}
+          de opiniones leídas
+        </span>
+        <span>precios verificados automáticamente</span>
+      </div>
 
       <nav
         aria-label="Categorías de guías"
-        className="sticky top-14 md:top-16 z-40 -mx-4 md:-mx-6 px-4 md:px-6 py-3 bg-[var(--bg-primary)]/80 backdrop-blur-xl border-b border-[var(--border)] mb-8"
+        className="sticky top-14 md:top-16 z-40 -mx-4 md:-mx-6 px-4 md:px-6 py-2.5 bg-[var(--bg-primary)]/90 backdrop-blur-xl border-b border-[var(--border)] mb-6"
       >
-        <ul className="flex flex-wrap gap-2">
+        <ul className="flex flex-wrap gap-[7px] overflow-x-auto">
           {categoriesForNav.map((cat) => (
             <li key={cat.slug}>
               <a
                 href={`#cat-${cat.slug}`}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm font-medium border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[13px] font-semibold border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors whitespace-nowrap"
               >
                 <span>{cat.name}</span>
-                <span className="text-xs text-[var(--text-muted)]">{cat.count}</span>
+                <span className="text-[11.5px] text-[var(--text-muted)]">
+                  {cat.count}
+                </span>
               </a>
             </li>
           ))}
@@ -121,68 +338,37 @@ export default function GuiasIndexPage() {
 
       {Object.entries(grouped).map(([categorySlug, categoryGuides]) => {
         const cat = guideCategories[categorySlug];
+        const pillar = categoryGuides.find((g) => g.pillar);
+        const satellites = pillar
+          ? categoryGuides.filter((g) => g.slug !== pillar.slug)
+          : categoryGuides;
         return (
           <section
             key={categorySlug}
             id={`cat-${categorySlug}`}
-            className="mb-12 scroll-mt-32 md:scroll-mt-36"
+            className="mb-10 md:mb-[42px] scroll-mt-32 md:scroll-mt-36"
           >
             <h2
-              className="text-2xl md:text-3xl font-bold text-[var(--text-primary)] mb-2"
+              className="text-2xl md:text-[27px] font-extrabold text-[var(--text-primary)] mb-1"
               style={{ fontFamily: "var(--font-display)" }}
             >
               {cat?.name || categorySlug}
             </h2>
             {cat?.description && (
-              <p className="text-[var(--text-secondary)] mb-5">{cat.description}</p>
+              <p className="text-[14.5px] text-[var(--text-secondary)] mb-3.5 max-w-[680px]">
+                {cat.description}
+              </p>
             )}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              {categoryGuides.map((guide) => {
-                const thumbnail = getGuideThumbnail(guide);
-                const isFresh = daysSince(guide.updatedDate) <= 7;
-                const readingMinutes = calcReadingTime(guide);
-                return (
-                  <Link
-                    key={guide.slug}
-                    href={`/guias/${guide.slug}`}
-                    className="group flex gap-4 p-4 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
-                  >
-                    {thumbnail && (
-                      <div className="shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-[calc(var(--radius-card)-4px)] bg-[var(--bg-secondary)] flex items-center justify-center">
-                        <Image
-                          src={thumbnail.src}
-                          alt={thumbnail.alt}
-                          width={thumbnail.width}
-                          height={thumbnail.height}
-                          className={`w-full h-full group-hover:scale-105 transition-transform duration-300 ${
-                            thumbnail.fit === "contain" ? "object-contain p-2" : "object-cover"
-                          }`}
-                        />
-                      </div>
-                    )}
-                    <div className="flex-1 min-w-0">
-                      {isFresh && (
-                        <span className="inline-flex items-center px-2 py-0.5 mb-2 rounded-full text-[10px] font-semibold tracking-wide uppercase bg-[var(--color-discount)]/10 text-[var(--color-discount)] border border-[var(--color-discount)]/30">
-                          Recién actualizada
-                        </span>
-                      )}
-                      <h3
-                        className="text-base md:text-lg font-bold leading-snug mb-1.5 text-[var(--text-primary)]"
-                        style={{ fontFamily: "var(--font-display)" }}
-                      >
-                        {guide.title}
-                      </h3>
-                      <p className="text-sm text-[var(--text-secondary)] leading-relaxed line-clamp-2 mb-2">
-                        {guide.metaDescription}
-                      </p>
-                      <p className="text-xs text-[var(--text-muted)]">
-                        {formatRelativeDate(guide.updatedDate)} · {readingMinutes} min de lectura
-                      </p>
-                    </div>
-                  </Link>
-                );
-              })}
-            </div>
+
+            {pillar && <PillarCard guide={pillar} />}
+
+            {satellites.length > 0 && (
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                {satellites.map((guide) => (
+                  <SatelliteCard key={guide.slug} guide={guide} />
+                ))}
+              </div>
+            )}
           </section>
         );
       })}

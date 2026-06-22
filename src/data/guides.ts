@@ -21,6 +21,7 @@ export const guides: Guide[] = [
   {
     slug: "licuadora",
     category: "licuadoras",
+    pillar: true,
     title: `Mejores licuadoras en Argentina: cuál comprar [2026]`,
     seoTitle: `Mejores Licuadoras 2026: Cuál Comprar en Argentina`,
     metaDescription: `Comparamos las mejores licuadoras de Argentina 2026: Oster, Atma, Philips y Ninja. De vaso, de mano o portátil, jarra de vidrio o plástico, precios reales y cuál comprar.`,
@@ -138,6 +139,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica",
     category: "pavas-electricas",
+    pillar: true,
     title: `Mejores pavas eléctricas en Argentina: cuál comprar [2026]`,
     seoTitle: `Mejores Pavas Eléctricas 2026: Cuál Comprar en Argentina`,
     metaDescription: `Comparamos las mejores pavas eléctricas de Argentina 2026: Liliana, Peabody, Philips y Oster. Función mate, control de temperatura, precios reales y cuál comprar.`,
@@ -1164,7 +1166,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-philips",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Philips: ¿Vale La Pena Pagar El Precio Premium?",
+    title: "Pava Philips: ¿vale la pena pagar premium?",
     seoTitle: "Pava Eléctrica Philips: ¿Vale La Pena? Guía 2026",
     metaDescription:
       "Philips cobra $60K por una pava. ¿Vale la pena vs Atma ($33K)? Probé 5 modelos. Comparativa honesta + cuándo SÍ comprar y cuándo NO.",
@@ -1396,7 +1398,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-atma",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Atma: La Mejor Opción Argentina Calidad-Precio",
+    title: "Pava Atma: la mejor opción argentina calidad-precio",
     seoTitle: "Pava Eléctrica Atma: Guía Completa 2026 (+ Modelo CORRECTO)",
     metaDescription:
       "Atma tiene 15 modelos. UNO tiene interior de acero ($42K), los demás son plástico. Cuál comprar, cuál evitar, y por qué la diferencia importa.",
@@ -1582,7 +1584,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-precio",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Precio Argentina 2026: Guía Completa Por Rango",
+    title: "Pava eléctrica precio Argentina 2026: guía completa por rango",
     seoTitle: "Pava Eléctrica Precio Argentina 2026: Guía Por Rango",
     metaDescription:
       "Precios desde $30K hasta $90K. Qué esperás por cada rango, mejores opciones, y cuándo vale (o NO vale) gastar más. Guía honesta 2026.",
@@ -1777,7 +1779,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-mercadolibre",
     category: "pavas-electricas",
-    title: "Pava Eléctrica en MercadoLibre: Guía Para No Equivocarte",
+    title: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     seoTitle: "Pava Eléctrica MercadoLibre: Guía Para No Equivocarte",
     metaDescription:
       "500+ modelos en ML. Cómo identificar vendedores confiables, leer reviews sin que te engañen, y las mejores ofertas reales abril 2026.",
@@ -1987,7 +1989,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-peabody",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Peabody: ¿Vale La Pena El Control de Temperatura Digital?",
+    title: "Pava Peabody: ¿vale la pena el control de temperatura digital?",
     seoTitle: "Pava eléctrica Peabody: ¿vale la pena en 2026?",
     metaDescription:
       "Peabody con control digital de temperatura ($70K) vs Philips acero ($60K) vs Atma interior acero ($42K). Probé la Peabody digital un mes. Cuándo sí vale y cuándo no.",
@@ -2185,7 +2187,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-liliana",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar en 2026?",
+    title: "Pava Liliana: ¿cuál de las 4 comprar en 2026?",
     seoTitle: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar? (2026)",
     metaDescription:
       "Comparamos 4 pavas Liliana (AP152, AP175B, AP175, AP992B). Precios desde $29.999. La AP175B Mateando por $45.900 es mejor compra.",
@@ -2355,7 +2357,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-oster",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
+    title: "Pava Oster: ¿vale pagar más por la marca?",
     seoTitle: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
     metaDescription:
       "Análisis honesto: Oster 8970 ($93.600) y 4970B ($63.121). ¿Vale la pena vs Peabody? Comparamos precios, características y alternativas.",
@@ -3303,6 +3305,7 @@ export const guides: Guide[] = [
   {
     slug: "masajeador",
     category: "masajeadores",
+    pillar: true,
     title: "Masajeador: tipos, beneficios y cuál elegir (2026)",
     seoTitle: "Masajeador: guía de tipos, usos y cómo elegir en Argentina",
     metaDescription:
@@ -3560,7 +3563,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-control-temperatura",
     category: "pavas-electricas",
-    title: "Pava Eléctrica con Control de Temperatura: ¿Cuál Comprar en 2026?",
+    title: "Pava eléctrica con control de temperatura: ¿cuál comprar en 2026?",
     seoTitle: "Pava Eléctrica con Control de Temperatura: ¿Cuál Comprar en 2026?",
     metaDescription:
       "Comparamos 8 pavas con control de temperatura desde $45.900. Atma PE1821NAP con 6 niveles sale $45.904 y es mejor que modelos de $70K.",
@@ -3637,7 +3640,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-vidrio",
     category: "pavas-electricas",
-    title: "Pava Eléctrica de Vidrio: ¿Cuál Comprar en 2026?",
+    title: "Pava eléctrica de vidrio: ¿cuál comprar en 2026?",
     seoTitle: "Pava Eléctrica de Vidrio: ¿Cuál Comprar en 2026?",
     metaDescription:
       "Comparé 6 pavas de vidrio desde $24.628. Winco W1719 a $34.680 tiene control de temperatura + LED y cuesta la mitad que modelos premium.",
@@ -3706,7 +3709,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-acero-inoxidable",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?",
+    title: "Pava eléctrica acero inoxidable: ¿cuál comprar en 2026?",
     seoTitle: "Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?",
     metaDescription:
       "Comparé 9 pavas de acero desde $17.340. El acero dura 3-4 años sin tomar olor. Kanji a $17K y Peabody DK1850 a $56K son las mejores opciones.",
@@ -3779,7 +3782,7 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-pequena",
     category: "pavas-electricas",
-    title: "Pava Eléctrica Pequeña: ¿Por Qué Casi No Existen en Argentina?",
+    title: "Pava eléctrica pequeña: ¿por qué casi no existen en Argentina?",
     seoTitle: "Pava Eléctrica Pequeña: ¿Por Qué Casi No Existen en Argentina?",
     metaDescription:
       "Busqué pavas pequeñas en Argentina. Solo encontré 1 modelo doméstico real. Te explico por qué no hay más opciones y cuáles son las alternativas.",
@@ -5914,6 +5917,7 @@ export const guides: Guide[] = [
   {
     slug: "mejores-freidoras-de-aire-argentina",
     category: "freidoras-de-aire",
+    pillar: true,
     title: `Las mejores freidoras de aire en Argentina [2026]: Guía completa`,
     seoTitle: `Las mejores freidoras de aire en Argentina [2026]: Guía completa`,
     metaDescription: `Comparamos las mejores freidoras de aire en Argentina: Atma, Peabody, Philips, Ninja y más. Precios, capacidades y cuál comprar según tu hogar. Actualizado 2026.`,
@@ -8728,6 +8732,7 @@ export const guides: Guide[] = [
   {
     slug: "perfumes-arabes",
     category: "perfumes-arabes",
+    pillar: true,
     title: "Perfumes árabes Argentina 2026: la guía completa para empezar",
     seoTitle: "Perfumes árabes Argentina 2026: la guía completa para empezar",
     metaDescription: "Perfumes árabes en Argentina 2026: marcas (Lattafa, Afnan, Rasasi), precios reales, dupes y cómo elegir el primero. Análisis honesto.",
@@ -11143,6 +11148,7 @@ export const guides: Guide[] = [
   {
     slug: "robot-aspiradora",
     category: "aspiradoras-robot",
+    pillar: true,
     title: `Robot aspiradora: guía completa y mejores modelos en Argentina [2026]`,
     seoTitle: `Robot Aspiradora: Mejores Modelos en Argentina [2026]`,
     metaDescription: `Comparamos las mejores robot aspiradora en Argentina 2026: Gadnic 5000 Pa LIDAR, Samsung Jetbot y Xiaomi S40 Pro. Precios, ranking y cuál comprar.`,
@@ -12966,6 +12972,7 @@ export const guides: Guide[] = [
   {
     slug: "cafetera-express",
     category: "cafeteras",
+    pillar: true,
     title: `Cafetera express: guía completa y mejores modelos en Argentina [2026]`,
     seoTitle: `Cafetera Express: Mejores Modelos en Argentina [2026]`,
     metaDescription: `Comparamos las mejores cafeteras express de Argentina 2026: Smartlife, Oster, Peabody y más. Precios reales, ranking honesto y cuál comprar según tu caso.`,
@@ -13668,36 +13675,36 @@ export const guideCategories: Record<string, { name: string; description: string
   masajeadores: {
     name: "Guía de Masajeadores",
     description:
-      "Comparativas honestas de masajeadores en MercadoLibre Argentina: cervicales, espalda, pies, faciales y pistolas de masaje.",
+      "Para el cuello, la espalda o las piernas: cuáles alivian de verdad y cuáles son solo vibración. Comparados por zona y precio.",
   },
   "pavas-electricas": {
     name: "Guía de Pavas Eléctricas",
     description:
-      "Comparativas honestas de pavas eléctricas en Argentina: Philips, Atma, Peabody, Oster. Precios reales, cuáles valen la pena y cuáles evitar.",
+      "Con o sin control de temperatura, acero o plástico, y cuál sirve de verdad para el mate. Las más probadas de MercadoLibre.",
   },
   "freidoras-de-aire": {
     name: "Guía de Freidoras de Aire",
     description:
-      "Comparativas honestas de freidoras de aire en MercadoLibre Argentina: Atma, Peabody, Philips, Ninja, Oster y más. Reviews por marca, recetas y guías de uso.",
+      "Cuántos litros según cuántos son en casa, cuáles limpian fácil y desde cuánto sale una que no se descascare.",
   },
   "perfumes-arabes": {
     name: "Guía de Perfumes Árabes",
     description:
-      "Comparativas honestas de perfumes árabes en Argentina: Lattafa, Afnan, Rasasi, Armaf y más. Reviews por marca, género, presupuesto y notas.",
+      "Cuáles rinden de verdad, cuáles son clones de qué y cuánto dura la estela. Sin humo de perfumería.",
   },
   "aspiradoras-robot": {
     name: "Guía de Aspiradoras Robot",
     description:
-      "Comparativas honestas de aspiradoras robot en MercadoLibre Argentina: Xiaomi, Samsung, Gadnic, Atma y más. Precios reales, mapeo láser, trapeado y cuál conviene según tu casa.",
+      "Cuál mapea y cuál choca, cuál trapea de verdad y desde cuánto sale uno que valga la pena. Las más vendidas, comparadas.",
   },
   cafeteras: {
     name: "Guía de Cafeteras",
     description:
-      "Comparativas honestas de cafeteras en MercadoLibre Argentina: express, de cápsulas y de filtro. Oster, Smartlife, Peabody, Dolce Gusto y más, con precios reales y reseñas verificadas.",
+      "Express, cápsulas o filtro: cuál te conviene según cómo tomás el café, cuánto cuesta cada cápsula y dónde poner la plata.",
   },
   licuadoras: {
     name: "Guía de Licuadoras",
     description:
-      "Comparativas honestas de licuadoras en MercadoLibre Argentina: de vaso, de mano y portátiles. Oster, Atma, Philips, Ninja, Peabody y Liliana, con precios reales y reseñas verificadas.",
+      "Cuál licúa hielo de verdad, cuál no le pasa gusto al agua y desde cuánto sale una que dure. Las más vendidas de MercadoLibre, comparadas.",
   },
 };
