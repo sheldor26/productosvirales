@@ -60,7 +60,7 @@ function SectionCard({
 }) {
   return (
     <section
-      className={`mt-8 max-w-3xl rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-5 md:p-6 ${className}`}
+      className={`mt-8 max-w-3xl mx-auto rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-5 md:p-6 ${className}`}
       style={{ opacity: 0 }}
     >
       {kicker && (
@@ -628,7 +628,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
       {(product.articleBody || product.faq) && (
         <div
           id="product-bottom-cta"
-          className="detail-cta-band mt-10 max-w-3xl rounded-[var(--radius-card)] p-7 md:p-8 text-center bg-[var(--text-primary)]"
+          className="detail-cta-band mt-10 max-w-3xl mx-auto rounded-[var(--radius-card)] p-7 md:p-8 text-center bg-[var(--text-primary)]"
           style={{ opacity: 0 }}
         >
           <p className="text-lg font-bold text-[var(--bg-primary)]" style={{ fontFamily: "var(--font-display)" }}>
