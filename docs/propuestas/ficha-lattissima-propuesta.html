@@ -127,6 +127,11 @@
   table.cmp tbody tr:hover{background:#fafafa}
   .btn-ml{display:inline-flex;align-items:center;gap:5px;white-space:nowrap;background:var(--ml-blue);color:#fff;border:none;cursor:pointer;font-family:var(--font);font-weight:700;font-size:12.5px;padding:8px 13px;border-radius:var(--pill);transition:background .12s,transform .08s;box-shadow:0 2px 8px rgba(52,131,250,.28)}
   .btn-ml:hover{background:var(--ml-blue-dark);transform:translateY(-1px)}
+  .rstars{display:inline-block;position:relative;font-size:14px;line-height:1;letter-spacing:1px;color:#e2e2e2;vertical-align:-1px}
+  .rstars::before{content:"★★★★★"}
+  .rstars-fill{position:absolute;top:0;left:0;height:100%;overflow:hidden;white-space:nowrap;color:#f59e0b}
+  .rstars-fill::before{content:"★★★★★"}
+  table.cmp .op-count{font-size:11px;color:var(--muted);margin-top:3px;white-space:nowrap}
   .pill-tag{font-size:11px;font-weight:700;padding:2px 8px;border-radius:var(--pill)}
   .tg-best{background:#dcfce7;color:#15803d}
   .tg-mid{background:#fef9c3;color:#854d0e}
@@ -305,24 +310,24 @@
     <div class="tbl-wrap">
       <table class="cmp">
         <thead><tr>
-          <th>Modelo</th><th>Precio</th><th>Leche</th><th>Material</th><th>Opiniones</th><th>Mejor para</th><th>Comprar</th>
+          <th>Modelo</th><th>Precio</th><th>Leche</th><th>Material</th><th>Puntaje</th><th>Mejor para</th><th>Comprar</th>
         </tr></thead>
         <tbody>
           <tr class="hl">
             <td>Lattissima One</td><td>$515.880</td>
             <td><span class="pill-tag tg-best">Integrada 1 toque</span></td>
-            <td>Plástico</td><td>20</td><td>Cero maniobra con leche</td>
+            <td>Plástico</td><td><span class="rstars"><span class="rstars-fill" style="width:96%"></span></span> <b>4.8</b><div class="op-count">20 opiniones</div></td><td>Cero maniobra con leche</td>
             <td><a class="btn-ml" href="https://meli.la/1gpz3ft" target="_blank" rel="sponsored nofollow noopener">Ver en MercadoLibre →</a></td>
           </tr>
           <tr>
             <td>Citiz &amp; Milk</td><td>$368.699</td>
             <td><span class="pill-tag tg-mid">Espumador aparte</span></td>
-            <td>Acero</td><td>130</td><td>Leche + más respaldo, más barata</td>
+            <td>Acero</td><td><span class="rstars"><span class="rstars-fill" style="width:96%"></span></span> <b>4.8</b><div class="op-count">130 opiniones</div></td><td>Leche + más respaldo, más barata</td>
             <td><a class="btn-ml" href="https://meli.la/2nHo9mw" target="_blank" rel="sponsored nofollow noopener">Ver en MercadoLibre →</a></td>
           </tr>
           <tr>
             <td>Essenza Mini</td><td>$200.000</td>
-            <td>—</td><td>Plástico</td><td>2.663</td><td>Café solo, la más vendida</td>
+            <td>—</td><td>Plástico</td><td><span class="rstars"><span class="rstars-fill" style="width:96%"></span></span> <b>4.8</b><div class="op-count">2.663 opiniones</div></td><td>Café solo, la más vendida</td>
             <td><a class="btn-ml" href="https://meli.la/1g3EDxT" target="_blank" rel="sponsored nofollow noopener">Ver en MercadoLibre →</a></td>
           </tr>
         </tbody>
