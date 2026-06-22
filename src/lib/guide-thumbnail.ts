@@ -34,14 +34,21 @@ export function getGuideThumbnail(guide: Guide): {
   alt: string;
   width: number;
   height: number;
+  /** "contain" para fotos de producto sobre fondo blanco (no recortar); "cover" para imágenes editoriales/lifestyle. */
+  fit: "cover" | "contain";
 } | null {
   const editorialImage = guide.sections.find(isUsableImageSection);
   if (editorialImage?.src) {
+    // Las fotos de producto de ML (mlstatic) vienen sobre fondo blanco y se
+    // recortan feo con cover → mostrarlas completas. Las locales /images son
+    // editoriales/lifestyle y rinden mejor con cover.
+    const isProductShot = /mlstatic\.com|^https?:/i.test(editorialImage.src);
     return {
       src: editorialImage.src,
       alt: editorialImage.alt || editorialImage.caption || guide.title,
       width: editorialImage.width || 200,
       height: editorialImage.height || 200,
+      fit: isProductShot ? "contain" : "cover",
     };
   }
 
@@ -83,6 +90,7 @@ export function getGuideThumbnail(guide: Guide): {
         alt: product.title || guide.title,
         width: 200,
         height: 200,
+        fit: "contain",
       };
     }
   }
@@ -107,6 +115,7 @@ export function getGuideThumbnail(guide: Guide): {
           alt: pick.title || guide.title,
           width: 200,
           height: 200,
+          fit: "contain",
         };
       }
     }

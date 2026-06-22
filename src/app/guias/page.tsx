@@ -148,13 +148,15 @@ export default function GuiasIndexPage() {
                     className="group flex gap-4 p-4 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
                   >
                     {thumbnail && (
-                      <div className="shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-[calc(var(--radius-card)-4px)] bg-[var(--bg-secondary)]">
+                      <div className="shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-[calc(var(--radius-card)-4px)] bg-[var(--bg-secondary)] flex items-center justify-center">
                         <Image
                           src={thumbnail.src}
                           alt={thumbnail.alt}
                           width={thumbnail.width}
                           height={thumbnail.height}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                          className={`w-full h-full group-hover:scale-105 transition-transform duration-300 ${
+                            thumbnail.fit === "contain" ? "object-contain p-2" : "object-cover"
+                          }`}
                         />
                       </div>
                     )}
