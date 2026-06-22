@@ -26,14 +26,27 @@ Next.js 16 (App Router) + React 19 + Tailwind v4 + TypeScript. Sin DB: contenido
 - [MISTAKES.md](MISTAKES.md) — cada vez que algo sale mal, queda anotado acá.
 - [LEARNINGS.md](LEARNINGS.md) — cada vez que algo funciona bien, queda anotado acá.
 - `AGENTS.md` — aviso obligatorio sobre Next 16.
-- `docs/ARTICLE_CREATION_WORKFLOW.md` — cómo agregar un artículo nuevo.
+- `docs/ARTICLE_CREATION_WORKFLOW.md` — cómo agregar un artículo nuevo (lado técnico).
+- **`docs/guias.md` — sistema de diseño y plantilla OFICIAL de todas las guías. Toda guía nueva sigue ESTE diseño (estilo TechRadar best-of). Leer SIEMPRE antes de escribir o rediseñar una guía.**
 - `docs/clusters/<cluster>/` — borradores editoriales por cluster (perfumes-arabes, freidoras-de-aire, etc.).
+
+## Comandos
+
+```bash
+npm run dev                                  # next dev (verificación visual)
+npm run build                                # next build — ESTO es el test: chequea tipos. No hay framework de tests.
+npm run lint                                 # eslint (no es `next lint`)
+npm run prices:check  -- --match <slug>      # dry-run de precios desde ML
+npm run prices:update -- --match <slug>      # aplica precios a curated-products.ts
+```
+
+No existe `npm test`: la verificación es `npm run build` (tipos) + revisar en `npm run dev`.
 
 ## Cómo trabajar en este repo
 
 - Cambios chicos: editar el archivo y `npm run lint && npm run build` antes de cerrar.
 - Features nuevas: seguir `.claude/skills/feature.md`.
-- Artículos nuevos: seguir `docs/ARTICLE_CREATION_WORKFLOW.md` — escribir el objeto `Guide` en `src/data/guides.ts`.
+- Artículos nuevos: seguir `docs/guias.md` (diseño y estructura, OBLIGATORIO) + `docs/ARTICLE_CREATION_WORKFLOW.md` (cómo guardar el objeto `Guide` en `src/data/guides.ts`).
 - Productos nuevos: editar `src/data/curated-products.ts` (o usar `scripts/ml-product-importer.ts` para importar de MercadoLibre).
 - Precios: `npm run prices:check -- --match <slug>` (dry-run) o `npm run prices:update -- --match <slug>` (escribe).
 
