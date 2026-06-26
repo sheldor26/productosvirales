@@ -5778,8 +5778,8 @@ export const guides: Guide[] = [
     ogTitle: `Las desventajas de la freidora de aire que importan antes de comprar`,
     ogDescription: `Tamaño, ruido, resultado, consumo y otras desventajas reales. Análisis honesto sin marketing — solo lo que importa antes de gastar plata en una freidora de aire en Argentina.`,
     h1: `Desventajas de la freidora de aire: lo que nadie te dice antes de comprar`,
-    publishedDate: "2026-07-02",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       `Las freidoras de aire están en todos lados. Las ves en casas de amigos, las publicitan como si fueran magia, y por supuesto hay ofertas en Mercado Libre cada tanto. Pero nadie te cuenta los problemas reales. Acá vamos a hacerlo.`,
@@ -7478,8 +7478,8 @@ export const guides: Guide[] = [
     seoTitle: `Suono Airfryer Digital 10L: review completa para Argentina 2026`,
     metaDescription: `Review del Suono Airfryer Digital 10 litros en Argentina. La freidora de mayor capacidad individual del mercado: para familias grandes y quienes cocinan en volumen.`,
     h1: `Suono Airfryer Digital 10L: La Freidora Grande para Cuando Cocinás en Volumen`,
-    publishedDate: "2026-06-28",
-    updatedDate: "2026-06-28",
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       `Si tu familia es numerosa o cocinás para visita regularmente, eventualmente considerás una freidora grande. La Suono de 10 litros aparece en las búsquedas porque es una de las pocas opciones con esa capacidad individual (sin contar modelos doble piso).`,
@@ -13712,6 +13712,203 @@ export const guides: Guide[] = [
       { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se siente: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a $520.336, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da el 90% por menos.` },
       { question: `¿Qué cafetera express compro si es mi primera vez?`, answer: `Una con bomba real y comunidad grande de usuarios: la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) o, con menos presupuesto, la [Ultracomb CE-6108](https://meli.la/11sCGja) a $133.999. Las dos tienen cientos o miles de reseñas que ya documentaron todos los errores de principiante. Evitá las "express" de menos de $100.000: casi ninguna tiene bomba de verdad.` },
     ],
+    internalLinks: [
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
+      { label: "Cafetera de cápsulas: Nespresso, Dolce Gusto o multisistema", href: "/guias/cafetera-de-capsulas" },
+      { label: "Cafetera automática: del grano a la taza", href: "/guias/cafetera-automatica" },
+      { label: "Cafetera de filtro: las mejores", href: "/guias/cafetera-de-filtro" },
+      { label: "Cafetera Nespresso: cuál comprar", href: "/guias/cafetera-nespresso" },
+      { label: "Cafetera Dolce Gusto: cuál comprar", href: "/guias/cafetera-dolce-gusto" },
+    ],
+    internalLinksTitle: "Más sobre cafeteras",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITES cafeteras nuevos — automática + cápsulas (jun 2026)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cafetera-automatica",
+    category: "cafeteras",
+    title: `Cafetera automática: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cafetera Automática 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué cafetera automática comprar en Argentina: del grano a la taza con molinillo integrado, precios reales y cuál conviene. Mirá las mejores.`,
+    ogTitle: `Cafetera automática: cuál comprar en Argentina`,
+    ogDescription: `Del grano a la taza con molinillo integrado y corte automático. La guía honesta de la cafetera automática en Argentina, con precios reales de MercadoLibre.`,
+    h1: `Cafetera automática: cuál comprar en Argentina y qué muele sola [2026]`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una cafetera automática muele el grano y prepara el café con mínima intervención. Te mostramos cuáles convienen hoy en Argentina, la diferencia entre semiautomática y totalmente automática, y cuánto sale cada una, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA48828162", label: "La mejor automática", labelColor: "purple", tagline: "Oster Perfect Brew: molinillo, corte automático y 4.9 estrellas, el mejor rating del catálogo" },
+      { productMlaId: "MLA53370426", label: "La totalmente automática", labelColor: "blue", tagline: "Peabody con molinillo, tanque de 2,8 L y doble termoblock: del grano a la taza sola" },
+      { productMlaId: "MLA47077888", label: "Mejor precio con molinillo", labelColor: "green", tagline: "Peabody PE-CE5010N: molinillo integrado por la mitad del tope de gama" },
+    ],
+    intro: [
+      `La **cafetera automática** es el salto que da el café recién molido en casa sin convertirte en barista. A diferencia de una express común, que usa café ya molido y exige que cortes la dosis a mano, una automática **muele el grano en el momento** y se encarga de la parte difícil. El grano recién molido conserva aromas que el café envasado pierde a las pocas semanas de abierto: esa es la diferencia que se siente en la taza.`,
+      `Conviene aclarar un término desde el arranque, porque genera confusión: no todas las "automáticas" automatizan lo mismo. Las **semiautomáticas con molinillo** muelen y vos terminás la extracción; las **totalmente automáticas** (del grano a la taza) hacen todo el proceso solas. En esta guía vemos las tres que valen la pena hoy en Argentina y cuál te conviene según cuánto querés hacer vos.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_968437-MLA100069135559_122025-F.jpg", alt: `Cafetera automática Peabody con molinillo integrado y tanque de 2,8 litros`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras automáticas y con molinillo integrado disponibles hoy en MercadoLibre Argentina y las cruzamos con lo que dicen los compradores reales. Miramos lo que define el resultado en la taza: el tipo de **molinillo** (cónico de muelas vs. cuchillas), si hace **corte automático de dosis**, la **presión** real de la bomba y las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Qué es una cafetera automática (y qué no)`, id: "que-es" },
+      { type: "p", content: `Una cafetera automática es, en esencia, una express que suma un **molinillo integrado** y algún grado de automatización del proceso. El molinillo es la clave: muele el grano justo antes de extraer, lo que conserva los aromas que se pierden en el café ya molido. A partir de ahí, hay dos niveles. La **semiautomática con molinillo** muele y arranca la extracción, pero vos controlás cuándo cortar. La **totalmente automática** (del grano a la taza) muele, dosifica, extrae y corta sola: apretás un botón y listo.`, },
+      { type: "p", content: `Lo que una automática no es: una cafetera de cápsulas. Las de cápsulas también son cómodas, pero usan café preenvasado en cápsula, no grano fresco, y el costo por taza es más alto. Si lo tuyo es la comodidad total sin grano, mirá la [guía de cafeteras de cápsulas](/guias/cafetera-de-capsulas). La automática es para quien quiere café recién molido con poco esfuerzo.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Semiautomática o totalmente automática, en una línea", content: `Si te divierte el ritual y querés controlar el café, una semiautomática con molinillo te sobra y gastás menos. Si querés apretar un botón y olvidarte, la totalmente automática lo hace todo, pero se paga. Las dos muelen grano fresco: esa es la ventaja que las separa de una express común.` },
+
+      { type: "h2", title: `Las mejores cafeteras automáticas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Oster Perfect Brew EM7301 — la mejor` },
+      { type: "product-card", productMlaId: "MLA48828162", label: "La mejor automática", labelColor: "purple", ranking: 1, description: `Molinillo cónico integrado con 30 niveles, corte automático de dosis y lanza de vapor. 4.9 estrellas en 110 calificaciones: el rating más alto de todas las cafeteras del catálogo.` },
+      { type: "p", content: `Es la que recomendamos si querés café de especialidad en casa sin complicarte. La Oster Perfect Brew suma las dos cosas que una express común no tiene: **muele el grano en el momento** (molinillo cónico de 30 niveles, de fino a grueso) y **corta la dosis sola**, así el espresso sale igual todas las veces sin que tengas que cronometrar. El portafiltro de 58 milímetros es medida profesional, y la lanza de vapor Tempsense ayuda con la leche.` },
+      { type: "p", content: `Tiene el mejor rating de todas las cafeteras que comparamos: **4.9 estrellas**. Lo honesto es el precio: ronda los $960.000, así que es una compra para quien el café es su momento del día y el grano recién molido justifica la inversión. Si tomás café ocasional, es más máquina de la que necesitás. Para quien quiere la experiencia completa con respaldo de marca y service local, es la apuesta más sólida.` },
+
+      { type: "h3", title: `2. Peabody PE-CE5023IX — la totalmente automática` },
+      { type: "product-card", productMlaId: "MLA53370426", label: "La totalmente automática", labelColor: "blue", ranking: 2, description: `Del grano a la taza con molinillo integrado, tanque de 2,8 L y doble termoblock para preparar café y espumar leche a la vez. 4.8 estrellas en 75 calificaciones.` },
+      { type: "p", content: `Si querés el "apretar un botón y listo" de verdad, esta es la más automática del catálogo. La Peabody PE-CE5023IX hace todo el proceso sola, con un **tanque de 2,8 litros** (de los más grandes, ideal si en casa toman varios cafés seguidos) y **doble termoblock**, que le permite extraer el café y calentar la leche al mismo tiempo, sin esperar entre uno y otro. Marca argentina con service y repuestos en el país.` },
+      { type: "p", content: `Es la más cara de la comparativa, por encima del millón de pesos, lo que se explica por el nivel de automatización y el doble sistema de calentado. La elegís si valorás la comodidad total y el volumen: para una casa donde el café es de a varios y nadie quiere maniobrar, justifica la diferencia sobre la Oster.` },
+
+      { type: "h3", title: `3. Peabody PE-CE5010N — mejor precio con molinillo` },
+      { type: "product-card", productMlaId: "MLA47077888", label: "Mejor precio con molinillo", labelColor: "green", ranking: 3, description: `Semiautomática de 19 bares con molinillo cónico de muelas (20 niveles) y espumador. 4.6 estrellas en 237 calificaciones: el molinillo integrado más accesible del catálogo.` },
+      { type: "p", content: `Es la puerta de entrada al grano recién molido sin pagar el tope de gama. La Peabody PE-CE5010N trae **molinillo cónico de muelas con 20 niveles** y 19 bares de presión por unos $520.336, bastante menos que las dos de arriba. Resigna el corte automático de dosis (la extracción la cortás vos, algo que se aprende en dos o tres cafés) y la marca, pero te da lo esencial: moler el grano en el momento.` },
+      { type: "p", content: `Es la opción inteligente si te tienta el molinillo integrado pero no querés gastar casi un millón de pesos. Para la mayoría que recién entra al café recién molido, esta máquina da el 90% de la experiencia por la mitad del precio. El molinillo de muelas (no de cuchillas) es lo importante, y lo tiene.` },
+
+      { type: "h2", title: `Tabla comparativa: las automáticas frente a frente`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Molinillo`, `Corte de dosis`, `Ideal para`], rows: [
+        [`[Oster Perfect Brew EM7301](https://meli.la/2amGBqP)`, `$960.000`, `Cónico, 30 niveles`, `Automático`, `Café de especialidad en casa`],
+        [`[Peabody PE-CE5023IX](https://meli.la/1n158eE)`, `$1.044.999`, `Integrado`, `Totalmente automático`, `Comodidad total y volumen`],
+        [`[Peabody PE-CE5010N](https://meli.la/2uKu8pv)`, `$520.336`, `Cónico de muelas, 20 niveles`, `Manual`, `Entrar al molinillo sin gastar de más`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir una cafetera automática`, id: "como-elegir" },
+      { type: "h3", title: `1. Semiautomática o totalmente automática` },
+      { type: "p", content: `Es la primera decisión y define el precio. La **semiautomática con molinillo** (como la Peabody PE-CE5010N) muele el grano pero te deja cortar la extracción: más barata y con algo de ritual. La **totalmente automática** (como la Peabody PE-CE5023IX) hace todo sola, ideal si querés cero maniobra. La Oster Perfect Brew queda en el medio virtuoso: muele y corta la dosis sola, pero te deja la lanza de vapor para la leche.` },
+      { type: "h3", title: `2. El molinillo: cónico de muelas, no de cuchillas` },
+      { type: "p", content: `Acá está la diferencia real de calidad. Un **molinillo cónico de muelas** muele parejo y deja regular el grosor, lo que cambia el sabor del espresso. Los molinillos de cuchillas (más baratos) muelen disparejo y se calientan, afectando los aromas. Las tres de esta guía usan muelas o sistema cónico, que es lo que conviene buscar. Cuantos más niveles de molienda, más fino podés ajustar.` },
+      { type: "h3", title: `3. El presupuesto real` },
+      { type: "p", content: `Una automática con molinillo arranca en torno a los $520.000 y sube hasta más de un millón. Si el café es tu placer diario, la inversión se amortiza rápido frente a comprar café molido fresco o ir a la cafetería. Si tomás café ocasional, ser honesto conviene: una express común con buen café molido fresco te da gran parte del resultado por mucho menos. Mirá la [guía de cafeteras express](/guias/cafetera-express).` },
+
+      { type: "h2", title: `Cuánto cuesta una cafetera automática en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $520.000:** la franja de entrada al molinillo integrado. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) semiautomática es la mejor relación precio de la categoría.`,
+        `**$900.000 a $1.000.000:** automatización seria. La [Oster Perfect Brew](https://meli.la/2amGBqP) con corte automático y el mejor rating del catálogo (4.9).`,
+        `**Más de $1.000.000:** totalmente automática. La [Peabody PE-CE5023IX](https://meli.la/1n158eE) del grano a la taza, con tanque grande y doble termoblock.`,
+        `**Ojo con las "automáticas" muy baratas:** por debajo de los $300.000 casi ninguna trae molinillo de muelas real. Suele ser café molido con nombre rimbombante.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál cafetera automática comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría que quiere café recién molido sin complicarse, la **Oster Perfect Brew EM7301**: muele el grano, corta la dosis sola y tiene el mejor rating de todas las cafeteras del catálogo (4.9 en 110 opiniones). Si querés el "apretar un botón y listo" total y tomás café de a varios, la **Peabody PE-CE5023IX** del grano a la taza lo justifica. Y si te tienta el molinillo pero no querés gastar casi un millón, la **Peabody PE-CE5010N** es la entrada más accesible. El error a evitar: pagar una automática cara si tomás café ocasional, donde una [express común](/guias/cafetera-express) con buen molido fresco te alcanza.` },
+    ],
+    faq: [
+      { question: `¿Qué diferencia hay entre una cafetera automática y una express?`, answer: `Una express común usa café ya molido y vos cortás la extracción a mano. Una cafetera automática suma un molinillo integrado que muele el grano en el momento, y según el modelo también corta la dosis sola. La diferencia se siente en la taza: el grano recién molido conserva aromas que el café envasado pierde a las semanas. La [Oster Perfect Brew](https://meli.la/2amGBqP) hace las dos cosas.` },
+      { question: `¿Cuál es la mejor cafetera automática en Argentina?`, answer: `Por datos, la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP): molinillo cónico de 30 niveles, corte automático de dosis y 4.9 estrellas en 110 calificaciones, el rating más alto de las cafeteras del catálogo. Si querés totalmente automática del grano a la taza, la [Peabody PE-CE5023IX](https://meli.la/1n158eE).` },
+      { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se nota: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a $520.336, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da gran parte del resultado por menos.` },
+      { question: `¿Qué es mejor, una cafetera semiautomática o totalmente automática?`, answer: `Depende de cuánto quieras hacer vos. La semiautomática con molinillo (como la [Peabody PE-CE5010N](https://meli.la/2uKu8pv)) muele pero te deja cortar la extracción: más barata y con algo de ritual. La totalmente automática (como la [Peabody PE-CE5023IX](https://meli.la/1n158eE)) hace todo sola: ideal si querés apretar un botón y olvidarte, pero más cara.` },
+      { question: `¿Cuánto cuesta una cafetera automática con molinillo?`, answer: `En junio 2026, desde unos $520.336 la [Peabody PE-CE5010N](https://meli.la/2uKu8pv) semiautomática, alrededor de $960.000 la [Oster Perfect Brew](https://meli.la/2amGBqP) con corte automático, y por encima del millón la [Peabody PE-CE5023IX](https://meli.la/1n158eE) totalmente automática. Por debajo de $300.000 casi ninguna trae molinillo de muelas real.` },
+      { question: `¿Qué molinillo conviene en una cafetera automática?`, answer: `El cónico de muelas, no el de cuchillas. Las muelas muelen parejo y dejan regular el grosor, lo que cambia el sabor del espresso; las cuchillas muelen disparejo y se calientan. Las tres cafeteras de esta guía usan sistema cónico o de muelas, que es lo que conviene buscar.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
+      { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
+    ],
+    internalLinksTitle: "Seguí comparando cafeteras",
+  },
+
+  {
+    slug: "cafetera-de-capsulas",
+    category: "cafeteras",
+    title: `Cafetera de cápsulas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cafetera de Cápsulas 2026: Cuál Comprar Argentina`,
+    metaDescription: `Conocé qué cafetera de cápsulas comprar en Argentina: Nespresso, Dolce Gusto o multisistema, costo por taza y cuál conviene. Compará las mejores.`,
+    ogTitle: `Cafetera de cápsulas: cuál comprar en Argentina`,
+    ogDescription: `Nespresso, Dolce Gusto o multisistema: primero elegí el sistema, después la máquina. La guía honesta de la cafetera de cápsulas en Argentina, con precios reales.`,
+    h1: `Cafetera de cápsulas: cuál comprar en Argentina y qué sistema elegir [2026]`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Con una cafetera de cápsulas, lo primero que elegís no es la máquina sino el sistema, porque te casás con sus cápsulas. Te explicamos Nespresso, Dolce Gusto y multisistema, el costo por taza y cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA15705813", label: "La más vendida", labelColor: "amber", tagline: "Dolce Gusto Piccolo XS: variedad de bebidas y 8.392 opiniones, la de cápsulas más probada del país" },
+      { productMlaId: "MLA24730361", label: "Mejor espresso", labelColor: "blue", tagline: "Nespresso Essenza Mini: el espresso corto italiano, compacta y con 2.663 calificaciones" },
+      { productMlaId: "MLA28314113", label: "Multisistema", labelColor: "purple", tagline: "Smartlife 3 en 1: acepta cápsulas Nespresso, Dolce Gusto y café molido" },
+    ],
+    intro: [
+      `La **cafetera de cápsulas** es la vía más cómoda al café rico: ponés la cápsula, apretás un botón y listo, sin moler, dosificar ni limpiar borra. Pero antes de mirar máquinas hay que entender algo que define todo: cada sistema usa **su propia cápsula**, y al comprar la máquina te casás con ese formato. Elegir el sistema equivocado es el error más caro, porque después dependés de conseguir esas cápsulas.`,
+      `Por eso esta guía arranca por el sistema, no por la marca. Los tres caminos en Argentina son **Nespresso** (espresso corto, estilo italiano), **Dolce Gusto** (variedad: capuchinos, lattes, bebidas frías) y las **multisistema**, que aceptan varios formatos e incluso café molido. Resolviendo eso primero, después la máquina cae de maduro.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_734553-MLA99935520841_112025-F.jpg", alt: `Cafetera de cápsulas multisistema Smartlife 3 en 1 compatible con Nespresso, Dolce Gusto y café molido`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras de cápsulas disponibles hoy en MercadoLibre Argentina y las cruzamos con lo que dicen los compradores reales. Lo que define la compra es distinto a una express: el **sistema de cápsulas** (de qué dependés para siempre), el **tipo de café** que da (espresso corto vs. variedad de bebidas), el **costo por taza** y las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Lo primero: elegí el sistema, no la máquina`, id: "sistemas" },
+      { type: "p", content: `Cada sistema te ata a sus cápsulas, así que esta es la decisión que más importa. **Nespresso** hace espresso corto al estilo italiano, intenso y con crema, y tiene la mayor variedad de cápsulas (oficiales y compatibles más baratas) del país. **Dolce Gusto** apunta a la variedad de bebidas: además de café, hace capuchinos, lattes, chocolatadas y bebidas frías con cápsulas específicas. Y las **multisistema** aceptan más de un formato, lo que te saca el problema de elegir.` },
+      { type: "p", content: `En costo por taza, la cápsula siempre sale más que el café molido de una express, pero varía: las compatibles de Nespresso son de las más económicas por la competencia que hay, mientras que las de Dolce Gusto, al traer leche en la cápsula para los capuchinos, suelen costar algo más por bebida. Si tomás mucho café por día, ese costo por taza pesa con el tiempo.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Ya sabés qué sistema querés?", content: `Si te decidiste por Nespresso, mirá la [guía de cafeteras Nespresso](/guias/cafetera-nespresso) con todos los modelos. Si vas por la variedad de Dolce Gusto, la [guía de cafeteras Dolce Gusto](/guias/cafetera-dolce-gusto) compara las que se consiguen. Esta página es para decidir el sistema; esas dos, para elegir la máquina exacta.` },
+
+      { type: "h2", title: `Las mejores cafeteras de cápsulas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Dolce Gusto Piccolo XS — la más vendida` },
+      { type: "product-card", productMlaId: "MLA15705813", label: "La más vendida", labelColor: "amber", ranking: 1, description: `Sistema Dolce Gusto, 15 bares, compacta y de las más accesibles. 4.8 estrellas en 8.392 calificaciones: la cafetera de cápsulas más probada del país.` },
+      { type: "p", content: `Es la de cápsulas que recomendamos para la mayoría, y los números lo respaldan: **8.392 calificaciones** con 4.8 estrellas, la base de opiniones más grande de toda la categoría. La Piccolo XS usa el sistema Dolce Gusto, que es el más versátil para una casa: además de espresso y café largo, hace capuchinos, lattes, chocolatadas y bebidas frías, cada una con su cápsula. Es compacta y de las más accesibles en precio de máquina.` },
+      { type: "p", content: `El detalle honesto que conviene saber: es **100% manual**, es decir, vos frenás el agua cuando la taza llega al nivel que querés (tiene una guía visual para eso). No es un defecto, es cómo funciona la Piccolo, pero si esperabas que cortara sola, ese es el punto. Para variedad de bebidas y comprar tranquilo por respaldo de opiniones, es la elección obvia.` },
+
+      { type: "h3", title: `2. Nespresso Essenza Mini — mejor espresso` },
+      { type: "product-card", productMlaId: "MLA24730361", label: "Mejor espresso", labelColor: "blue", ranking: 2, description: `Sistema Nespresso Original, compacta (depósito de 600 mL) y de las más accesibles de la línea. 4.8 estrellas en 2.663 calificaciones.` },
+      { type: "p", content: `Si lo tuyo es el espresso corto e intenso al estilo italiano, el sistema Nespresso es el camino, y la Essenza Mini es su puerta de entrada. Es la más compacta de la línea, ideal para cocinas chicas, y da el espresso con crema característico de Nespresso con solo apretar un botón. Tiene una enorme variedad de cápsulas, incluidas las compatibles más económicas, lo que baja el costo por taza frente a otros sistemas.` },
+      { type: "p", content: `Lo que resigna por tamaño y precio: no trae espumador de leche, así que es café negro (espresso, lungo). Si querés capuchinos, vas a necesitar un espumador aparte o mirar un modelo Nespresso con leche. Para quien toma espresso o café negro y valora el formato compacto, la Essenza Mini es la mejor relación de la línea Nespresso.` },
+
+      { type: "h3", title: `3. Smartlife 3 en 1 — la multisistema` },
+      { type: "product-card", productMlaId: "MLA28314113", label: "Multisistema", labelColor: "purple", ranking: 3, description: `Acepta cápsulas Nespresso, cápsulas Dolce Gusto y café molido, con espumador de leche. 4.7 estrellas en 1.654 calificaciones.` },
+      { type: "p", content: `Es la respuesta para quien no quiere casarse con un solo sistema. La Smartlife 3 en 1 acepta **cápsulas Nespresso, cápsulas Dolce Gusto y café molido**, las tres cosas, más un espumador de leche para capuchinos. Es la flexibilidad total: usás el sistema que tengas a mano o el que esté más barato esa semana, sin depender de un solo formato de cápsula.` },
+      { type: "p", content: `El compromiso es el precio de la máquina, bastante más alto que una de cápsulas de un solo sistema, porque integra varios mecanismos. Con 4.7 estrellas en 1.654 calificaciones, tiene respaldo. La elegís si valorás no atarte a una sola cápsula y querés también la opción del café molido cuando te canses de las cápsulas. Es la más completa, a cambio de pagar por esa versatilidad.` },
+
+      { type: "h2", title: `Tabla comparativa: los tres sistemas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Sistema`, `Qué hace`, `Ideal para`], rows: [
+        [`[Dolce Gusto Piccolo XS](https://meli.la/1f93McA)`, `$129.990`, `Dolce Gusto`, `Café y bebidas con leche`, `Variedad de bebidas, máquina accesible`],
+        [`[Nespresso Essenza Mini](https://meli.la/1g3EDxT)`, `$200.000`, `Nespresso Original`, `Espresso corto e intenso`, `El que quiere espresso de verdad`],
+        [`[Smartlife 3 en 1](https://meli.la/1soScPB)`, `$528.131`, `Nespresso + Dolce Gusto + molido`, `Todo, con espumador`, `No atarse a un solo sistema`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cafetera de cápsulas`, id: "como-elegir" },
+      { type: "h3", title: `1. El sistema: de qué cápsula vas a depender` },
+      { type: "p", content: `Antes que el precio de la máquina, pensá en la cápsula, porque la vas a comprar toda la vida del aparato. **Nespresso** tiene la mayor oferta de cápsulas y compatibles baratas: buena si querés espresso y costo por taza bajo. **Dolce Gusto** te da variedad de bebidas (capuchinos, fríos), a cambio de cápsulas algo más caras. Si dudás, una **multisistema** te deja la puerta abierta a las dos.` },
+      { type: "h3", title: `2. El costo por taza, no solo el de la máquina` },
+      { type: "p", content: `Una máquina barata con cápsulas caras puede salir más que una máquina cara con cápsulas económicas, si tomás mucho café. La cápsula siempre cuesta más que el café molido de una express, así que si el costo por taza te importa mucho, evaluá pasar a una [cafetera express](/guias/cafetera-express). Si priorizás la comodidad de cero limpieza, la cápsula lo vale.` },
+      { type: "h3", title: `3. Espresso corto o variedad de bebidas` },
+      { type: "p", content: `Definí qué tomás. Si sos de espresso, cortado o café negro intenso, Nespresso es el sistema natural. Si en casa toman capuchinos, lattes, chocolatadas o bebidas frías, Dolce Gusto está pensado para eso. Y si querés las dos cosas o sumar leche al espresso de Nespresso, una multisistema con espumador como la Smartlife resuelve todo en un aparato.` },
+
+      { type: "h2", title: `Cuánto cuesta una cafetera de cápsulas en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $130.000:** la franja accesible. La [Dolce Gusto Piccolo XS](https://meli.la/1f93McA), la de cápsulas más vendida y probada del país.`,
+        `**Alrededor de $200.000:** el espresso Nespresso. La [Essenza Mini](https://meli.la/1g3EDxT) compacta, la entrada a la línea con la mejor relación.`,
+        `**Más de $500.000:** la multisistema. La [Smartlife 3 en 1](https://meli.la/1soScPB) que acepta Nespresso, Dolce Gusto y café molido, con espumador.`,
+        `**No te olvides de las cápsulas:** el costo real es máquina más cápsulas. Calculá cuántos cafés tomás por día antes de elegir el sistema.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál cafetera de cápsulas comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Dolce Gusto Piccolo XS**: variedad de bebidas, máquina accesible y la base de opiniones más grande de la categoría (8.392 calificaciones, 4.8 estrellas). Si lo tuyo es el **espresso corto e intenso**, el sistema Nespresso con la **Essenza Mini** compacta es la mejor entrada. Y si no querés casarte con un solo sistema, la **Smartlife 3 en 1** acepta cápsulas Nespresso, Dolce Gusto y café molido. El error a evitar: elegir la máquina sin pensar en sus cápsulas, porque de ese formato dependés después. Para decidir la máquina exacta, mirá las guías de [Nespresso](/guias/cafetera-nespresso) y [Dolce Gusto](/guias/cafetera-dolce-gusto).` },
+    ],
+    faq: [
+      { question: `¿Qué sistema de cápsulas conviene, Nespresso o Dolce Gusto?`, answer: `Depende de qué tomes. Nespresso hace espresso corto e intenso y tiene la mayor variedad de cápsulas y compatibles baratas, así que el costo por taza es más bajo. Dolce Gusto apunta a la variedad: capuchinos, lattes y bebidas frías, a cambio de cápsulas algo más caras. Si querés las dos, una multisistema como la [Smartlife 3 en 1](https://meli.la/1soScPB) acepta ambas.` },
+      { question: `¿Cuál es la mejor cafetera de cápsulas en Argentina?`, answer: `Por respaldo de opiniones, la [Dolce Gusto Piccolo XS](https://meli.la/1f93McA): 4.8 estrellas en 8.392 calificaciones, la más probada del país, con variedad de bebidas y precio accesible. Si preferís espresso de verdad, la [Nespresso Essenza Mini](https://meli.la/1g3EDxT) es la mejor entrada al sistema Nespresso.` },
+      { question: `¿Cuánto cuesta una cápsula de café?`, answer: `Varía según el sistema. Las cápsulas Nespresso tienen mucha competencia de compatibles, así que son de las más económicas por unidad; las de Dolce Gusto, al incluir leche para los capuchinos, suelen costar algo más por bebida. En cualquier caso, la cápsula siempre sale más que el café molido de una express: si tomás mucho café por día, conviene calcularlo.` },
+      { question: `¿Hay cápsulas recargables o compatibles más baratas?`, answer: `Sí, sobre todo en el sistema Nespresso, que tiene la mayor oferta de cápsulas compatibles de otras marcas más económicas, e incluso recargables para usar tu propio café molido. Es una de las razones por las que Nespresso suele dar el costo por taza más bajo entre las de cápsulas. En Dolce Gusto la oferta de compatibles es menor.` },
+      { question: `¿Una cafetera de cápsulas hace capuchino?`, answer: `Depende del sistema. Dolce Gusto hace capuchinos y lattes con cápsulas específicas que ya traen la leche. Nespresso, en sus modelos básicos como la [Essenza Mini](https://meli.la/1g3EDxT), hace café negro y necesitás un espumador aparte para la leche. Las multisistema como la [Smartlife 3 en 1](https://meli.la/1soScPB) traen espumador integrado.` },
+      { question: `¿Conviene una cafetera de cápsulas o una express?`, answer: `Depende del ritual y del costo por taza. Las cápsulas ganan en comodidad y cero limpieza, pero cada taza cuesta más. La [express](/guias/cafetera-express) da el costo por taza más bajo con café molido y mejor café, a cambio de preparar y limpiar. Si tomás mucho café y el costo importa, la express; si priorizás la comodidad total, las cápsulas.` },
+    ],
+    internalLinks: [
+      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
+      { label: "Cafetera Nespresso: cuál comprar", href: "/guias/cafetera-nespresso" },
+      { label: "Cafetera Dolce Gusto: cuál comprar", href: "/guias/cafetera-dolce-gusto" },
+    ],
+    internalLinksTitle: "Seguí comparando cafeteras",
   },
 
   {
@@ -14143,8 +14340,8 @@ export const guides: Guide[] = [
     ogTitle: `Cafetera Liliana: la marca argentina con service local, modelo por modelo`,
     ogDescription: `De la AC985 de 20 bares a la Latesense que hace lattes sola: qué ofrece la línea de café de Liliana, qué dicen los compradores reales y cuál conviene.`,
     h1: `Cafetera Liliana en Argentina: cuál comprar y cuánto cuesta [2026]`,
-    publishedDate: "2026-06-27",
-    updatedDate: "2026-06-27",
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Liliana es la apuesta nacional en cafeteras: service y repuestos locales, precios competitivos y una línea que se renovó en 2026. Comparamos los cuatro modelos disponibles, incluidas las dos novedades que todavía no tienen calificaciones, y te decimos cuál conviene en cada caso.`,
@@ -14227,8 +14424,8 @@ export const guides: Guide[] = [
     ogTitle: `¿Qué cafetera comprar? Las tres preguntas que te ahorran una mala compra`,
     ogDescription: `Antes de mirar precios: cuánto café tomás por día, cuánto ritual tolerás y cuánto querés gastar por taza. La respuesta honesta para cada perfil, con números.`,
     h1: `Qué cafetera comprar en Argentina: express, cápsulas o de filtro [2026]`,
-    publishedDate: "2026-06-30",
-    updatedDate: "2026-06-30",
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     readingTime: 10,
     standfirst: `Express, cápsulas o filtro: los tres sistemas hacen café y los tres pueden ser una mala compra si elegís el equivocado para tu casa. Esta guía decide con tres preguntas, muestra el mejor representante de cada sistema con precios reales de MercadoLibre y hace la cuenta que casi nadie hace: cuánto cuesta cada taza.`,
