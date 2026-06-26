@@ -4,20 +4,21 @@
 
 ## Cola de indexación (orden por prioridad)
 
-Las 12 de abajo ya están **en vivo** y listas para pedir indexación. Con DA bajo conviene mandarlas **de a una** (una cada 1-2 días). Marcá la casilla cuando la pidas en Search Console.
+Las 13 de abajo ya están **en vivo** y listas para pedir indexación. Con DA bajo conviene mandarlas **de a una** (una cada 1-2 días). Marcá la casilla cuando la pidas en Search Console.
 
 1. [ ] `cafetera-italiana` — 27.100/mes · la de más volumen del sitio
 2. [ ] `licuadora-portatil` — 5.400/mes
 3. [ ] `licuadora-philips` — 4.400/mes
 4. [ ] `licuadora-oster` — 3.600/mes
-5. [ ] `licuadora-de-mano` — 2.400/mes
-6. [ ] `cafetera-de-capsulas` — 1.900/mes
-7. [ ] `licuadora-atma` — 1.600/mes
-8. [ ] `cafetera-liliana` — 1.000/mes
-9. [ ] `cafetera-automatica` — 1.000/mes
-10. [ ] `suono-airfryer-review` — 880/mes
-11. [ ] `que-cafetera-comprar` — 90/mes · pilar de decisión (poco volumen propio, mucho valor de enlazado)
-12. [ ] `freidora-de-aire-desventajas` — 10/mes · captura de cola larga
+5. [ ] `sillon-masajeador` — 2.900/mes
+6. [ ] `licuadora-de-mano` — 2.400/mes
+7. [ ] `cafetera-de-capsulas` — 1.900/mes
+8. [ ] `licuadora-atma` — 1.600/mes
+9. [ ] `cafetera-liliana` — 1.000/mes
+10. [ ] `cafetera-automatica` — 1.000/mes
+11. [ ] `suono-airfryer-review` — 880/mes
+12. [ ] `que-cafetera-comprar` — 90/mes · pilar de decisión (poco volumen propio, mucho valor de enlazado)
+13. [ ] `freidora-de-aire-desventajas` — 10/mes · captura de cola larga
 
 > Regla práctica: una URL cada 1-2 días. Mandar todas juntas en un dominio con autoridad baja es la señal que hace que Google dude en indexar.
 
@@ -50,6 +51,14 @@ Keywords: portátil 5.400/mes (capta también "licuadora ninja"), philips 4.400,
 | https://productosvirales.com.ar/guias/suono-airfryer-review | Baja | 2026-06-26 | — | — | — | — |
 
 Keywords: "desventajas freidora de aire" (informacional, capta dudas pre-compra: tamaño, ruido, consumo; enlaza a fichas y pilar), suono airfryer review (review de producto, modelo de mayor capacidad individual 10L). Estado: **publicadas 2026-06-26**.
+
+## Silo: masajeadores
+
+| URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
+|---|---|---|---|---|---|---|
+| https://productosvirales.com.ar/guias/sillon-masajeador | Media | 2026-06-26 | — | — | — | — |
+
+Keywords: sillón masajeador 2.900/mes (dificultad 13). Ranking por tipo (cuerpo completo Gadnic / reclinable Majestic / silla oficina Nictom / premium Melfit). 4 fichas importadas via API ML con links de afiliado propios. Estado: **publicada 2026-06-26**.
 
 ## Silo: cafeteras
 
