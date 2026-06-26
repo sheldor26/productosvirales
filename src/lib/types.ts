@@ -228,6 +228,9 @@ export interface GuideFAQ {
 export interface Guide {
   slug: string;
   category: string; // e.g. "masajeadores"
+  /** Si está presente, la guía vive en `/guias/{silo}/{slug}` (silo nuevo con subdirectorio,
+   * ej. "climatizacion"). Si falta, vive en `/guias/{slug}` (legacy plano, no se migra). */
+  silo?: string;
   /** Marca la guía pilar (hub/ranking) de su categoría. Se renderiza como card destacada en /guias. */
   pillar?: boolean;
   title: string;

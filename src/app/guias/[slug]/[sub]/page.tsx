@@ -11,24 +11,24 @@ export const revalidate = 86400;
 export const dynamicParams = true;
 
 interface Props {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ slug: string; sub: string }>;
 }
 
 export async function generateStaticParams() {
-  // Solo guías planas (sin silo). Las de silo viven en /guias/[slug]/[sub].
-  return getPublishedGuides()
-    .filter((g) => !g.silo)
-    .map((g) => ({ slug: g.slug }));
+  // Guías en silo: slug = silo (ej. "climatizacion"), sub = slug de la guía.
+  return getPublishedGuides().flatMap((g) =>
+    g.silo ? [{ slug: g.silo, sub: g.slug }] : []
+  );
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
-  return buildGuideMetadata(findGuideByPath([slug]));
+  const { slug, sub } = await params;
+  return buildGuideMetadata(findGuideByPath([slug, sub]));
 }
 
-export default async function GuidePage({ params }: Props) {
-  const { slug } = await params;
-  const guide = findGuideByPath([slug]);
+export default async function SiloGuidePage({ params }: Props) {
+  const { slug, sub } = await params;
+  const guide = findGuideByPath([slug, sub]);
   if (!guide) notFound();
   return <GuidePageView guide={guide} />;
 }

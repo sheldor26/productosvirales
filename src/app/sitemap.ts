@@ -3,6 +3,7 @@ import { categories } from "@/data/categories";
 import { getSitemapProducts } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { getPublishedGuides } from "@/data/guides";
+import { guideHref } from "@/lib/guide-url";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://productosvirales.com.ar";
 
@@ -31,7 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const guidePages: MetadataRoute.Sitemap = getPublishedGuides().map((guide) => ({
-    url: `${SITE_URL}/guias/${guide.slug}`,
+    url: `${SITE_URL}${guideHref(guide)}`,
     lastModified: new Date(guide.updatedDate),
     changeFrequency: "monthly" as const,
     priority: 0.8,

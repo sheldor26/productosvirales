@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Guide } from "@/lib/types";
 import { getRelatedGuides } from "@/data/guides";
+import { guideHref } from "@/lib/guide-url";
 import { calcReadingTime } from "@/lib/reading-time";
 import { NewsletterForm } from "./NewsletterForm";
 
@@ -86,7 +87,7 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
             {related.map((g) => (
               <Link
                 key={g.slug}
-                href={`/guias/${g.slug}`}
+                href={guideHref(g)}
                 className="group block rounded-[6px] border p-3 md:p-4 transition-colors hover:bg-[var(--bg-secondary)]"
                 style={{ borderColor: "var(--border)" }}
               >

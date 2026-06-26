@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
 import { getPublishedGuides, guideCategories } from "@/data/guides";
+import { guideHref, guideUrl } from "@/lib/guide-url";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
 import { getGuideCardSignals } from "@/lib/guide-card-signals";
 import type { Guide } from "@/lib/types";
@@ -151,7 +152,7 @@ function PillarCard({ guide }: { guide: Guide }) {
   const dek = guide.ogDescription || guide.metaDescription;
   return (
     <Link
-      href={`/guias/${guide.slug}`}
+      href={guideHref(guide)}
       className="group flex flex-col md:flex-row gap-5 md:gap-[22px] mb-4 p-5 rounded-[var(--radius-card)] border-[1.5px] border-[var(--text-primary)] bg-[var(--bg-primary)] shadow-[0_10px_30px_rgba(0,0,0,0.09)] transition-transform duration-150 hover:-translate-y-0.5"
     >
       <GuideThumb guide={guide} variant="pillar" priority />
@@ -182,7 +183,7 @@ function SatelliteCard({ guide }: { guide: Guide }) {
   const dek = guide.ogDescription || guide.metaDescription;
   return (
     <Link
-      href={`/guias/${guide.slug}`}
+      href={guideHref(guide)}
       className="group flex gap-3.5 p-3.5 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] transition-all duration-150 hover:-translate-y-0.5 hover:shadow-[0_8px_20px_rgba(0,0,0,0.07)]"
     >
       <GuideThumb guide={guide} variant="card" />
@@ -250,7 +251,7 @@ export default function GuiasIndexPage() {
       itemListElement: published.map((g, i) => ({
         "@type": "ListItem",
         position: i + 1,
-        url: `https://productosvirales.com.ar/guias/${g.slug}`,
+        url: guideUrl(g),
         name: g.ogTitle || g.title,
       })),
     },

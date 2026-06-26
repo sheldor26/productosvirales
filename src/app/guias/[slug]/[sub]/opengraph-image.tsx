@@ -8,10 +8,10 @@ export const contentType = "image/png";
 export default async function Image({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ slug: string; sub: string }>;
 }) {
-  const { slug } = await params;
-  const guide = findGuideByPath([slug]);
+  const { slug, sub } = await params;
+  const guide = findGuideByPath([slug, sub]);
   if (!guide) {
     return new Response("Not found", { status: 404 });
   }

@@ -14,6 +14,18 @@ export function getRelatedGuides(current: Guide, limit = 4): Guide[] {
     .slice(0, limit);
 }
 
+/**
+ * Resuelve una guía publicada a partir del path de la ruta atrapa-todo `/guias/[...path]`.
+ * - `[slug]` (1 segmento) → guía plana legacy (sin `silo`).
+ * - `[silo, slug]` (2 segmentos) → guía en silo (ej. ["climatizacion", "estufas-electricas"]).
+ */
+export function findGuideByPath(path: string[]): Guide | undefined {
+  const pub = getPublishedGuides();
+  if (path.length === 1) return pub.find((g) => !g.silo && g.slug === path[0]);
+  if (path.length === 2) return pub.find((g) => g.silo === path[0] && g.slug === path[1]);
+  return undefined;
+}
+
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   // PILAR licuadora — diseño best-of (ver docs/guias.md)
@@ -6804,8 +6816,11 @@ export const guides: Guide[] = [
       { label: `Cómo usar una freidora de aire correctamente`, href: "/guias/como-usar-una-freidora-de-aire" },
       { label: `Recetas para freidora de aire`, href: "/guias/recetas-freidora-de-aire" },
       { label: `Accesorios para freidora de aire`, href: "/guias/accesorios-para-freidora-de-aire" },
+      { label: `Mejores licuadoras: cuál comprar en Argentina`, href: "/guias/licuadora" },
+      { label: `Cafetera express y cápsulas: cuál comprar`, href: "/guias/cafetera-express" },
+      { label: `Cafetera italiana (moka): cuál comprar`, href: "/guias/cafetera-italiana" },
     ],
-    internalLinksTitle: "Guías relacionadas",
+    internalLinksTitle: "Más guías de cocina",
   },
 
   {
@@ -9228,7 +9243,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Si tenés que elegir uno solo, el Lattafa Yara Elixir es el más completo: dulce con cítricos, dura 8 horas y es el que más se viralizó en Argentina. Si querés algo más fresco para verano, el Yara Tous (mango, coco, vainilla). Si arrancás en perfumes árabes y no querés gastar mucho, Sabah Al Ward es la mejor puerta de entrada. Abajo está la lista completa con las 12 mejores opciones."
+        content: "Si tenés que elegir uno solo, el Lattafa Yara Elixir es el más completo: dulce con cítricos, dura 8 horas y es el que más se viralizó en Argentina. Si querés algo más fresco para verano, el Yara Tous (mango, coco, vainilla). Si arrancás en perfumes árabes y no querés gastar mucho, Sabah Al Ward es la mejor puerta de entrada. Y si buscás un gourmand dulce para el invierno, el [Khamrah de Lattafa](/guias/khamrah-lattafa) es el más adictivo del momento, con miles de opiniones. Abajo está la lista completa con las 12 mejores opciones."
       },
       {
         type: "h2",
