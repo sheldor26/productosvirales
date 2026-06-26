@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "prices:check": "node scripts/update-prices-from-ml.cjs --dry-run",
-    "prices:update": "node scripts/update-prices-from-ml.cjs --apply"
+    "prices:update": "node scripts/update-prices-from-ml.cjs --apply",
+    "indexnow": "node scripts/indexnow.mjs"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",

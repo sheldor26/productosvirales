@@ -1,0 +1,37 @@
+name: Avisar a IndexNow (Bing/Yandex)
+
+# Cada vez que se mergea contenido a master, Vercel publica y este workflow
+# le avisa a IndexNow (Bing, Yandex, etc.) que hay URLs nuevas/actualizadas,
+# para que las indexen sin esperar a crawlearnos. Empuje de indexacion gratis.
+#
+# No necesita ningun secret: la clave de IndexNow es publica (vive en
+# public/a0cf2ba0f6361ca7d4f0516c7f30b9b1.txt y se sirve en el dominio).
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "src/data/**"
+  workflow_dispatch: {} # boton para correrlo a mano desde la pestaña Actions
+
+jobs:
+  ping-indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el codigo
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # Vercel tarda ~1-2 min en publicar el deploy de este push. Esperamos para
+      # que el sitemap en vivo ya tenga la URL nueva antes de avisarle a IndexNow.
+      - name: Esperar a que Vercel publique
+        run: sleep 150
+
+      - name: Avisar a IndexNow
+        run: node scripts/indexnow.mjs
