@@ -126,11 +126,436 @@ export const guides: Guide[] = [
       { question: `¿Sirve una licuadora portátil como única licuadora de la casa?`, answer: `No. La [Ninja Blast](https://meli.la/1CTc5Xx) es excelente para un batido individual (gym, oficina, viaje) y tiene el rating más alto del catálogo (4.9), pero son 50 W y 530 mL: no licúa para varios ni hace preparaciones grandes. Como única licuadora, conviene una de vaso; la portátil es el complemento perfecto.` },
     ],
     internalLinks: [
-      { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
-      { label: "Qué cafetera comprar", href: "/guias/que-cafetera-comprar" },
-      { label: "Mejores cafeteras Nespresso", href: "/guias/cafetera-nespresso" },
+      { label: "Licuadora Oster: cuál comprar y cuál evitar", href: "/guias/licuadora-oster" },
+      { label: "Licuadora Atma: la mejor relación precio", href: "/guias/licuadora-atma" },
+      { label: "Licuadora Philips: potencia de gama media", href: "/guias/licuadora-philips" },
+      { label: "Licuadora de mano: cuál conviene", href: "/guias/licuadora-de-mano" },
+      { label: "Licuadora portátil: la mejor para batidos", href: "/guias/licuadora-portatil" },
     ],
-    internalLinksTitle: "Guías de cocina",
+    internalLinksTitle: "Más sobre licuadoras",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITES licuadoras — silo hub-and-spoke (ver docs/guias.md)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "licuadora-portatil",
+    category: "licuadoras",
+    title: `Licuadora portátil: cuál comprar en Argentina [2026]`,
+    seoTitle: `Licuadora Portátil 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué licuadora portátil comprar en Argentina: Ninja Blast con batería USB, autonomía real y para qué sirve (y para qué no). Mirá la mejor opción.`,
+    ogTitle: `Licuadora portátil: cuál comprar de verdad en Argentina`,
+    ogDescription: `Batería USB, vaso individual y batido a donde vayas. La guía honesta de la licuadora portátil en Argentina, con precio real y autonomía reportada por compradores.`,
+    h1: `Licuadora portátil: cuál comprar en Argentina y para qué sirve [2026]`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una licuadora portátil resuelve un batido individual donde estés, no la cocina entera. Te mostramos cuál conviene en Argentina, qué autonomía real tiene la batería y en qué casos te conviene una de vaso, con precio fresco de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA62801882", label: "Mejor portátil", labelColor: "amber", tagline: "Ninja Blast con batería USB, 4.9 estrellas y la mejor autonomía del catálogo" },
+      { productMlaId: "MLA19693634", label: "Si querés una de vaso económica", labelColor: "blue", tagline: "Atma Pro de vidrio por ~$75.000 cuando el batido individual no te alcanza" },
+      { productMlaId: "MLA17734241", label: "La de toda la casa", labelColor: "green", tagline: "Oster Classic de vidrio para licuar en serio, no solo un vaso" },
+    ],
+    intro: [
+      `La **licuadora portátil** dejó de ser una curiosidad. Es un vaso individual con batería recargable que cargás por USB: ponés fruta y líquido, licuás y te lo tomás del mismo vaso, en el gimnasio, la oficina o un viaje. En Argentina la que se lleva todas las miradas es la Ninja Blast, y tiene el rating más alto de todas las licuadoras que comparamos.`,
+      `Antes de comprar conviene tener clara una cosa, porque es el error más común: una portátil **no reemplaza** a la licuadora de vaso de la casa. Resuelve un batido para una persona, no licuar para toda la familia ni hacer sopas. En esta guía vemos cuál conviene, qué autonomía real tiene y cuándo te conviene ir por una de vaso.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_780812-MLA100258841305_122025-F.jpg", alt: `Licuadora portátil Ninja Blast con vaso individual y batería recargable por USB`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las licuadoras portátiles disponibles hoy en MercadoLibre Argentina y las cruzamos con lo que cuentan los compradores reales. Lo que define el uso de una portátil es distinto a una de vaso: la **autonomía** de la batería (cuántos licuados aguanta por carga), la **capacidad** del vaso, si **tritura hielo** y qué tan cómoda es de **limpiar**. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Qué es una licuadora portátil y para quién es`, id: "que-es" },
+      { type: "p", content: `Una licuadora portátil es un vaso individual de entre 400 y 600 mL con la cuchilla y un motor chico alimentado por **batería recargable**, que cargás con un cable USB. No se enchufa a la pared para funcionar: la usás donde quieras. Es para un batido de fruta, una merienda con yogur o un licuado de proteína después de entrenar, y se toma del mismo vaso que se convierte en vaso de viaje.` },
+      { type: "p", content: `Es ideal si trabajás fuera de casa, entrenás, viajás o simplemente querés un batido rápido sin ensuciar la licuadora grande. No es para vos si lo que buscás es **la** licuadora del hogar: para licuar para varios, hacer sopas, untables o jugos en cantidad, necesitás una de vaso. Mucha gente termina teniendo las dos, porque resuelven cosas distintas.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Portátil vs. de vaso, en una línea", content: `La portátil es potencia chica (alrededor de 50 W) y un vaso individual a batería; la de vaso es 500 W o más, jarra de litro y medio y se enchufa. Si dudás cuál necesitás, mirá primero nuestra [guía de mejores licuadoras](/guias/licuadora): ahí está el tipo que te conviene según el uso.` },
+
+      { type: "h2", title: `La mejor licuadora portátil: Ninja Blast`, id: "ranking" },
+      { type: "product-card", productMlaId: "MLA62801882", label: "Mejor portátil", labelColor: "amber", ranking: 1, description: `Vaso individual de 530 mL con batería recargable por USB. 4.9 estrellas en 269 calificaciones: el rating más alto de todas las licuadoras del catálogo.` },
+      { type: "p", content: `Si querés una portátil, esta es la apuesta segura. La Ninja Blast es un **vaso de 530 mL con batería recargable**: cargás por USB, ponés fruta y líquido, tapás, licuás y salís con el batido puesto. Lo que la separa del resto es la autonomía y la potencia bien resuelta para su tamaño. Una review lo confirma directo: "la batería dura hasta 4 o 5 licuados". Es libre de BPA y el vaso va al lavavajillas, así que la limpieza es de las cómodas.` },
+      { type: "p", content: `Tritura hasta hielo, con una salvedad honesta que los propios compradores explican: conviene usar **hielo en trozos chicos** para cuidar las cuchillas. Funciona muy bien con banana, sandía o frutillas; con frutas de mucha cáscara como los arándanos puede quedar algo de piel y conviene filtrar. El único pero menor que aparece en las reviews es que el cable de carga USB es corto. Para lo que promete, un batido individual a donde vayas, no tiene competencia real en el catálogo.` },
+      { type: "pull-quote", content: `"Para cuidar las cuchillas pongo hielo chico; licuado de banana un 10, sandía también. Tamaño rendidor, funcionamiento excelente. La recomiendo."`, attribution: `Comprador verificado en MercadoLibre, enero 2026` },
+
+      { type: "h2", title: `Cuándo una portátil no te alcanza (y qué comprar)`, id: "alternativas" },
+      { type: "p", content: `Sé honesto con tu uso antes de comprar. Si vas a licuar para más de una persona, hacer sopas, untables, mayonesas o jugos en cantidad, una portátil te va a quedar corta: son 50 W y medio litro. Para eso necesitás una **licuadora de vaso**, y estas dos son las que mejor relación dan en el catálogo. Sumá una portátil después, como segundo aparato.` },
+      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Mejor de vaso económica", labelColor: "blue", description: `Jarra de vidrio de 1,5 L y 500 W por ~$75.000. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "La que dura años", labelColor: "green", description: `Oster Classic de vidrio grueso, encastre de metal y 4.8 estrellas en 2.365 opiniones. La compra para olvidarte por años.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Querés ver todas las opciones?", content: `Si todavía no tenés claro el tipo, nuestra [guía de mejores licuadoras de Argentina](/guias/licuadora) compara de vaso, de mano y portátil con precios reales y te lleva a la recomendada para tu caso.` },
+
+      { type: "h2", title: `Tabla comparativa: portátil vs. de vaso`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Capacidad / potencia`, `Ideal para`], rows: [
+        [`[Ninja Blast](https://meli.la/1CTc5Xx)`, `$99.999`, `Portátil USB`, `530 mL · 50 W · batería`, `Batido individual a donde vayas`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `De vaso`, `Vidrio 1,5 L · 500 W`, `Licuar para varios sin gastar de más`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `De vaso`, `Vidrio 1,25 L · 700 W`, `La licuadora que dura años`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir una licuadora portátil`, id: "como-elegir" },
+      { type: "h3", title: `1. La autonomía de la batería` },
+      { type: "p", content: `Es lo que más importa en una portátil, porque sin batería no sirve. Buscá una que rinda varios licuados por carga: la Ninja Blast aguanta 4 o 5 según los compradores, que es lo necesario para una semana de uso normal sin vivir cargándola. Fijate también que cargue por USB, así la enchufás a cualquier cargador de celular o a la computadora.` },
+      { type: "h3", title: `2. La capacidad del vaso y el hielo` },
+      { type: "p", content: `El vaso individual ronda el medio litro, suficiente para un batido de una persona. Si vas a triturar hielo o fruta congelada, confirmá que el modelo lo permita y usalo en trozos chicos: las cuchillas de una portátil son más delicadas que las de una de vaso, y respetar eso es lo que las hace durar.` },
+      { type: "h3", title: `3. La limpieza y los materiales` },
+      { type: "p", content: `Que el vaso sea **libre de BPA** y **apto para lavavajillas** te ahorra el peor momento de cualquier licuadora, que es lavarla. La Ninja Blast cumple las dos cosas: el vaso va al lavavajillas y la base, como en todas, se limpia con un paño. Un material sin BPA también evita que el plástico tome olor o gusto con el tiempo.` },
+
+      { type: "h2", title: `Cuánto cuesta una licuadora portátil en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $100.000:** la franja de la portátil que vale la pena. Acá está la [Ninja Blast](https://meli.la/1CTc5Xx), con batería que rinde varios licuados, vaso apto lavavajillas y el rating más alto del catálogo.`,
+        `**Por debajo de $50.000:** aparecen portátiles muy baratas de marcas sin trayectoria. El riesgo es batería que rinde un solo licuado, cuchilla que se traba y plástico que toma olor. Suelen salir más caras a la larga.`,
+        `**¿Tu presupuesto es para una sola licuadora?** Entonces conviene una de vaso como la [Atma Pro](https://meli.la/1s19WgR) (~$75.000, vidrio): resuelve mucho más que un batido individual. La portátil es el segundo aparato, no el primero.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál licuadora portátil comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para una portátil, la **Ninja Blast** es la elección clara: batería que rinde 4 o 5 licuados, vaso de 530 mL libre de BPA y apto para lavavajillas, y el rating más alto del catálogo (4.9 en 269 opiniones). Es ideal como batido individual para el gimnasio, la oficina o un viaje. Lo único a tener presente es que **no es la licuadora de la casa**: si vas a licuar para varios o hacer sopas, sumá una de vaso como la [Atma Pro](https://meli.la/1s19WgR) de vidrio o la duradera [Oster Classic](https://meli.la/1UhsB6r). El error a evitar es comprar una portátil muy barata esperando que reemplace todo: ni la batería ni la potencia dan para eso.` },
+    ],
+    faq: [
+      { question: `¿Sirve una licuadora portátil para hielo?`, answer: `Sí, pero con hielo en trozos chicos para cuidar las cuchillas. La [Ninja Blast](https://meli.la/1CTc5Xx) tritura hielo y fruta congelada; los propios compradores recomiendan ponerlo en pedazos chicos. Si vas a hacer mucho hielo a diario o frapés en cantidad, una de vaso potente rinde mejor.` },
+      { question: `¿Cuánto dura la batería de una licuadora portátil?`, answer: `Depende del modelo. La [Ninja Blast](https://meli.la/1CTc5Xx) aguanta entre 4 y 5 licuados por carga según las reviews, y se recarga por cable USB en cualquier cargador de celular. Es la mejor autonomía del catálogo; las portátiles muy baratas suelen rendir un solo licuado por carga.` },
+      { question: `¿Sirve la licuadora portátil para batidos de proteína?`, answer: `Sí, es uno de sus usos principales. El vaso individual de 530 mL de la [Ninja Blast](https://meli.la/1CTc5Xx) es ideal para un batido de proteína con fruta y líquido, y como se toma del mismo vaso lo llevás al gimnasio sin trasvasar. Para polvos que cuestan disolverse, agregá primero el líquido y después el polvo.` },
+      { question: `¿Una licuadora portátil puede ser mi única licuadora?`, answer: `No conviene. La [Ninja Blast](https://meli.la/1CTc5Xx) es excelente para un batido individual, pero son 50 W y medio litro: no licúa para varios ni hace sopas, untables o jugos en cantidad. Como única licuadora de la casa conviene una de vaso; la portátil es el complemento ideal. Mirá las opciones en nuestra [guía de licuadoras](/guias/licuadora).` },
+      { question: `¿La Ninja Blast es buena?`, answer: `Es la licuadora mejor calificada del catálogo: 4.9 estrellas en 269 opiniones. Los compradores destacan la autonomía de la batería (4 o 5 licuados) y que tritura hasta hielo chico. El único pero menor que mencionan es que el cable de carga USB es corto. Para una portátil, es la más recomendable.` },
+      { question: `¿Se puede lavar en el lavavajillas?`, answer: `El vaso de la [Ninja Blast](https://meli.la/1CTc5Xx) es libre de BPA y apto para lavavajillas, así que la limpieza es cómoda. La base con el motor, como en cualquier licuadora, no se sumerge ni va al lavavajillas: se limpia con un paño húmedo.` },
+    ],
+    internalLinks: [
+      { label: "Mejores licuadoras de Argentina: cuál comprar", href: "/guias/licuadora" },
+      { label: "Licuadora Atma: la mejor relación precio", href: "/guias/licuadora-atma" },
+      { label: "Licuadora de mano: cuál conviene", href: "/guias/licuadora-de-mano" },
+    ],
+    internalLinksTitle: "Seguí comparando licuadoras",
+  },
+
+  {
+    slug: "licuadora-oster",
+    category: "licuadoras",
+    title: `Licuadora Oster: cuál comprar en Argentina [2026]`,
+    seoTitle: `Licuadora Oster 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Comparamos las licuadoras Oster de Argentina: Classic vs. Xtreme, precios reales, vidrio, potencia y cuál conviene de verdad. Elegí la Oster correcta.`,
+    ogTitle: `Licuadora Oster: cuál comprar (y cuál evitar) en Argentina`,
+    ogDescription: `Oster Classic o Oster Xtreme, vidrio y durabilidad de la vieja escuela. La guía honesta de las licuadoras Oster en Argentina, con precios reales y contras incluidos.`,
+    h1: `Licuadora Oster: cuál comprar en Argentina y cuál evitar [2026]`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Oster es sinónimo de licuadora en Argentina por una razón: durabilidad. Pero no todas las Oster convienen igual. Comparamos la Classic y la Xtreme con precios reales de MercadoLibre, te decimos cuál es para la mayoría y dónde están los peros reales.`,
+    quickPicks: [
+      { productMlaId: "MLA17734241", label: "La Oster recomendada", labelColor: "green", tagline: "Classic de vidrio, encastre de metal y 4.8 estrellas en 2.365 opiniones" },
+      { productMlaId: "MLA59377328", label: "La más potente (con peros)", labelColor: "purple", tagline: "Xtreme de 1.500 W y vidrio de 2 L, solo si necesitás máxima potencia" },
+      { productMlaId: "MLA19693634", label: "Alternativa más barata", labelColor: "blue", tagline: "Atma Pro de vidrio por la mitad de precio, si la Oster se te va de presupuesto" },
+    ],
+    intro: [
+      `Cuando alguien busca **licuadora Oster** en Argentina, casi siempre busca lo mismo: que dure. La marca se ganó ese lugar a pulso, con jarras de vidrio grueso, encastres de metal y la frase que se repite en cada review, "es la que tenía mi mamá". Por eso son de las más buscadas, y también de las más caras.`,
+      `Pero Oster tiene varios modelos y no todos convienen igual. En esta guía comparamos las dos que importan hoy en MercadoLibre: la **Classic**, la apuesta segura para la mayoría, y la **Xtreme**, la premium potente que tiene peros reales que conviene conocer antes de pagar de más. Te decimos cuál Oster comprar según tu caso, y cuándo otra marca te conviene más.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_948878-MLA100041257915_122025-F.jpg", alt: `Licuadora Oster Xtreme Mix con jarra de vidrio de 2 litros y 1.500 W de potencia`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las licuadoras Oster disponibles hoy en MercadoLibre Argentina y las cruzamos con lo que dicen los compradores reales, incluidos los contras. Miramos lo que cambia el uso: el material de la jarra (Oster es de las pocas que mantiene **vidrio** en gama media), el tipo de **encastre** (metal sobre ruleman vs. plástico), la **potencia** según para qué la uses y las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Por qué las licuadoras Oster son las más buscadas`, id: "por-que-oster" },
+      { type: "p", content: `Oster domina la categoría por durabilidad de la vieja escuela. Tres detalles técnicos explican la fama: la **jarra de vidrio grueso**, que no toma olor ni gusto y aguanta años a diferencia del plástico de las económicas; el **encastre de metal sobre ruleman**, en vez de los dientes de plástico que se desgastan o se falsean en las baratas; y la **cuchilla inoxidable**. A eso se suma algo que en Argentina pesa: tiene service y repuestos en el país.` },
+      { type: "p", content: `El reverso es el precio. Una Oster de vidrio sale varias veces lo que cuesta una de plástico, y la premium se va por encima de los $300.000. La pregunta correcta no es "¿Oster sí o no?", sino "¿cuál Oster?", porque la diferencia entre modelos es grande y elegir mal es lo que te hace pagar de más sin necesidad.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La regla rápida con Oster", content: `Para casi todos, la **Classic** es la Oster correcta: da la durabilidad que buscás sin el sobreprecio de la premium. La **Xtreme** solo se justifica si vas a usar máxima potencia a diario (congelados, leches vegetales en volumen) y aceptás sus contras reportados.` },
+
+      { type: "h2", title: `Las mejores licuadoras Oster 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Oster Classic BLST4655 — la Oster recomendada` },
+      { type: "product-card", productMlaId: "MLA17734241", label: "La Oster recomendada", labelColor: "green", ranking: 1, description: `Jarra de vidrio grueso, encastre de metal sobre ruleman y cuchilla inoxidable. 4.8 estrellas en 2.365 calificaciones: la durabilidad de "la de tu mamá".` },
+      { type: "p", content: `Es la Oster que recomendamos si querés comprar una vez y olvidarte. La jarra es de **vidrio grueso** que no toma olor, pica hielo y fruta congelada; el encastre es de **metal sobre ruleman**, no los dientes de plástico que se desgastan en las baratas; y la cuchilla es inoxidable. Un comprador lo resume: "metal y vidrio, cuchilla sobre ruleman, es un mueble además decorativo, otra cosa totalmente distinta".` },
+      { type: "p", content: `Lo honesto: ronda los $148.000, varias veces el precio de una de plástico. Y tiene dos detalles que las reviews marcan: el **cable es corto** y, por el formato de la jarra, lo licuado se estanca en el fondo y conviene pausar y revolver con una espátula angosta. Ninguno de los dos es grave. Si valorás que dure años, es la apuesta más segura de toda la marca.` },
+      { type: "pull-quote", content: `"¿Es Oster, qué más se puede esperar? Es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo."`, attribution: `Comprador verificado en MercadoLibre, agosto 2022 · 81 personas lo encontraron útil` },
+
+      { type: "h3", title: `2. Oster Xtreme Mix — la premium potente (con peros)` },
+      { type: "product-card", productMlaId: "MLA59377328", label: "La más potente (con peros)", labelColor: "purple", ranking: 2, description: `1.500 W y jarra de vidrio de 2 L: la más potente del catálogo. 4.8 estrellas en 99 calificaciones, pero con contras reales que conviene conocer.` },
+      { type: "p", content: `La Xtreme es la más potente del catálogo: **1.500 W** que "rompen hielo" y no se traban con nada, con jarra de vidrio de 2 litros y libre de BPA. "Rompe hielo, es un caño esta licuadora", resume un comprador. Si hacés jugos verdes con congelados o leches vegetales en volumen a diario, la potencia se agradece de verdad.` },
+      { type: "p", content: `Ahora la parte honesta, porque los peros son varios y reales. A $310.000 es la más cara; la jarra es **pesadísima** y cara de reponer; hay **reportes de olor a quemado** al poco uso en varias reviews; es ruidosa; y a un comprador se le **quemó en el primer uso** y la devolvió. Para casi todos, una licuadora de 1.000 W como la [Philips Pro Blend](/guias/licuadora-philips) rinde igual por menos de la mitad. La Xtreme solo si la potencia máxima es prioridad y aceptás los riesgos reportados.` },
+      { type: "pull-quote", content: `"El vaso y la potencia son excelentes, muy intuitiva. Le pongo 4 estrellas porque cuando le das uso tira olor raro, como a quemado."`, attribution: `Compradora verificada en MercadoLibre, diciembre 2025 · 5 personas lo encontraron útil` },
+
+      { type: "h2", title: `Tabla comparativa: Classic vs. Xtreme`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Jarra`, `Ideal para`], rows: [
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `700 W`, `Vidrio 1,25 L`, `La que dura años, para la mayoría`],
+        [`[Oster Xtreme Mix](https://meli.la/1f25iob)`, `$310.799`, `1.500 W`, `Vidrio 2 L`, `Máxima potencia diaria (con peros)`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `500 W`, `Vidrio 1,5 L`, `Alternativa de vidrio más barata`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu licuadora Oster`, id: "como-elegir" },
+      { type: "h3", title: `1. Classic o Xtreme: la potencia que necesitás` },
+      { type: "p", content: `Para licuados de fruta, jugos, untables y hielo normal, los 700 W de la **Classic** alcanzan de sobra y es la opción sensata. Los 1.500 W de la **Xtreme** solo se justifican para uso intensivo de congelados, leches vegetales en volumen o frapés a diario. Pagar la Xtreme para hacer un licuado de banana es pagar potencia que no vas a usar.` },
+      { type: "h3", title: `2. El vidrio: el sello de Oster` },
+      { type: "p", content: `Las dos Oster vienen con **jarra de vidrio**, que es buena parte de por qué se eligen: no toma olor ni gusto y dura más que el plástico. Si venías mirando licuadoras de plástico baratas, este es el salto de calidad que notás. La contra del vidrio es el peso, que en la Xtreme de 2 litros se vuelve un tema real al lavarla.` },
+      { type: "h3", title: `3. Cuándo conviene otra marca` },
+      { type: "p", content: `Si la Oster se te va de presupuesto, la [Atma Pro](/guias/licuadora-atma) ofrece **jarra de vidrio** y la mayor base de opiniones del catálogo por la mitad de precio. Y si lo que querés es potencia de gama media sin pagar la premium, la [Philips Pro Blend](/guias/licuadora-philips) de 1.000 W es la alternativa lógica. Oster es la más segura, pero no siempre la más conveniente.` },
+
+      { type: "h2", title: `Cuánto cuesta una licuadora Oster en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $148.000:** la [Oster Classic](https://meli.la/1UhsB6r) de vidrio, la gama media-alta que recomendamos para la mayoría. Durabilidad sin sobreprecio.`,
+        `**$300.000 o más:** la [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W, premium. Solo si la potencia máxima es prioridad y aceptás los contras reportados.`,
+        `**Si buscás vidrio más barato:** la [Atma Pro](https://meli.la/1s19WgR) a ~$75.000 da jarra de vidrio y 4.980 opiniones por la mitad de lo que sale una Oster de vidrio.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál Oster comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la enorme mayoría, la **Oster Classic BLST4655**: vidrio grueso, encastre de metal y la durabilidad de "la de tu mamá", con 4.8 estrellas en 2.365 opiniones, sin pagar el sobreprecio de la premium. La **Oster Xtreme** de 1.500 W solo si necesitás máxima potencia a diario y aceptás sus peros reales (precio, peso, reportes de olor a quemado). Y si la Oster se te va de presupuesto, la [Atma Pro](/guias/licuadora-atma) de vidrio es la alternativa inteligente. El error a evitar es pagar la Xtreme sin necesitar sus 1.500 W: para casi todo, la Classic es la Oster correcta.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor licuadora Oster para comprar en Argentina?`, answer: `Para la mayoría, la [Oster Classic BLST4655](https://meli.la/1UhsB6r): jarra de vidrio, encastre de metal sobre ruleman y 4.8 estrellas en 2.365 opiniones, a un precio mucho más razonable que la premium. La [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W queda para quien necesite máxima potencia a diario y acepte sus contras.` },
+      { question: `¿Por qué las licuadoras Oster son tan caras?`, answer: `Por los materiales y la durabilidad. Oster usa jarra de vidrio grueso, encastre de metal sobre ruleman (no plástico) y cuchilla inoxidable, con service y repuestos en Argentina. Eso encarece el precio frente a una de plástico, pero es lo que hace que duren años. La [Classic](https://meli.la/1UhsB6r) es la que mejor equilibra precio y durabilidad.` },
+      { question: `¿La licuadora Oster Xtreme vale la pena?`, answer: `Solo para uso intensivo. Sus 1.500 W "rompen hielo" y pasan congelados sin esfuerzo, pero a $310.000 es la más cara, la jarra es pesadísima y hay reportes reales de olor a quemado al poco uso. Para potencia de gama media, la [Philips Pro Blend](/guias/licuadora-philips) de 1.000 W rinde casi igual por menos de la mitad.` },
+      { question: `¿Las licuadoras Oster tienen jarra de vidrio?`, answer: `Sí, es una de sus señas. Tanto la [Oster Classic](https://meli.la/1UhsB6r) como la [Xtreme](https://meli.la/1f25iob) traen jarra de vidrio, que no toma olor ni gusto y dura más que el plástico. Es buena parte de por qué se eligen frente a marcas más baratas que usan plástico.` },
+      { question: `¿Qué licuadora es mejor, Oster o Atma?`, answer: `Depende del presupuesto. La [Oster Classic](https://meli.la/1UhsB6r) es más duradera (encastre de metal) y la apuesta más segura, pero más cara. La [Atma Pro](/guias/licuadora-atma) ofrece jarra de vidrio y la mayor base de opiniones del catálogo (4.980) por la mitad de precio. Si el presupuesto manda, la Atma es la compra inteligente; si querés que dure décadas, la Oster.` },
+      { question: `¿Oster tiene service y repuestos en Argentina?`, answer: `Sí, es una de sus ventajas frente a marcas importadas sin respaldo local. Tener service y repuestos en el país hace que valga la pena invertir en una Oster: si algo falla, se puede reparar en vez de tirar. Es parte de por qué la marca tiene fama de durar.` },
+    ],
+    internalLinks: [
+      { label: "Mejores licuadoras de Argentina: cuál comprar", href: "/guias/licuadora" },
+      { label: "Licuadora Atma: la mejor relación precio", href: "/guias/licuadora-atma" },
+      { label: "Licuadora Philips: potencia de gama media", href: "/guias/licuadora-philips" },
+    ],
+    internalLinksTitle: "Seguí comparando licuadoras",
+  },
+
+  {
+    slug: "licuadora-philips",
+    category: "licuadoras",
+    title: `Licuadora Philips: cuál comprar en Argentina [2026]`,
+    seoTitle: `Licuadora Philips 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Analizamos la licuadora Philips Pro Blend de 1.000 W: potencia real, jarra de 2 L, precio y cuándo conviene frente a Oster o Atma. Elegí con datos.`,
+    ogTitle: `Licuadora Philips: cuál comprar en Argentina`,
+    ogDescription: `1.000 W, jarra de 2 litros y 5 velocidades. La guía honesta de la licuadora Philips en Argentina, con precio real de MercadoLibre y comparación con Oster y Atma.`,
+    h1: `Licuadora Philips: cuál comprar en Argentina y cuándo conviene [2026]`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `La licuadora Philips es la apuesta lógica si querés potencia de gama media sin irte a la premium. Vemos la Pro Blend de 1.000 W con precio real de MercadoLibre, sus virtudes y su único compromiso, y cuándo te conviene una Oster o una Atma.`,
+    quickPicks: [
+      { productMlaId: "MLA50527370", label: "La Philips recomendada", labelColor: "purple", tagline: "Pro Blend de 1.000 W y jarra de 2 L, la más potente de gama media" },
+      { productMlaId: "MLA17734241", label: "Si priorizás durabilidad", labelColor: "green", tagline: "Oster Classic de vidrio y encastre de metal, para que dure años" },
+      { productMlaId: "MLA19693634", label: "Si priorizás el precio", labelColor: "blue", tagline: "Atma Pro de vidrio por ~$75.000, la mejor relación precio del catálogo" },
+    ],
+    intro: [
+      `Buscar **licuadora Philips** en Argentina suele significar una cosa: querés potencia de marca confiable sin pagar lo que sale una premium. Y la elección es bastante clara, porque el modelo que importa hoy en MercadoLibre es la **Pro Blend HR2260/90**, una licuadora de 1.000 W con la jarra más grande de su rango.`,
+      `En esta guía la analizamos a fondo: qué hace bien, cuál es su único compromiso real y, sobre todo, cuándo la Philips es la mejor opción y cuándo te conviene una Oster por durabilidad o una Atma por precio. La idea es que elijas con datos, no por la marca en el cartel.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_935248-MLA105750306188_022026-F.jpg", alt: `Licuadora Philips Pro Blend HR2260/90 de 1.000 W con jarra de 2 litros`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos la licuadora Philips disponible hoy en MercadoLibre Argentina y la cruzamos con lo que dicen los compradores reales y con las marcas que compiten en su precio. Miramos lo que define el uso: la **potencia** (clave en este rango), el **tamaño de la jarra**, las **velocidades** y el **material**, además de las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `La mejor licuadora Philips: Pro Blend HR2260/90`, id: "ranking" },
+      { type: "product-card", productMlaId: "MLA50527370", label: "La Philips recomendada", labelColor: "purple", ranking: 1, description: `1.000 W, jarra de 2 litros (la más grande del grupo) y 5 velocidades más pulso. 4.6 estrellas en 377 calificaciones.` },
+      { type: "p", content: `Si querés potencia real sin irte a la premium, la Philips es la apuesta lógica. Son **1.000 W**, la **jarra más grande** del catálogo de licuadoras (2 litros) y **5 velocidades** más máxima potencia y pulso, un control que las de 2 velocidades no tienen. Las reviews la usan para lo exigente y responde: "procesamos verduras para sopa crema, es excelente", dice una compradora.` },
+      { type: "p", content: `El uso real lo resume otra review: "licuado, picar hielo, puré y hacer jugo, todo eso podré hacerlo, con 5 velocidades para elegir el nivel". Las velocidades hacen la diferencia frente a las de 2: elegís el nivel justo para cada preparación en vez de ir de cero a todo. Y la jarra de 2 litros es ideal si licuás para varios o hacés sopas en cantidad.` },
+      { type: "pull-quote", content: `"Ya la usamos varias veces y es buenísima. Procesamos verduras para sopa crema, es excelente y barata."`, attribution: `Compradora verificada en MercadoLibre, junio 2026` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "El único compromiso de la Philips", content: `La jarra es de **plástico**, no de vidrio, así que con el tiempo puede tomar olor. Si sos sensible al sabor o al gusto, una de vidrio como la [Atma Pro](/guias/licuadora-atma) o la [Oster Classic](/guias/licuadora-oster) es mejor en ese punto. Si lo que buscás es músculo y capacidad, la Philips gana.` },
+
+      { type: "h2", title: `Philips, Oster o Atma: cuál te conviene`, id: "comparativa" },
+      { type: "p", content: `La Philips no juega sola. Según qué priorices, otra marca puede convenirte más, y conviene tenerlo claro antes de comprar. Estas son las tres que mejor relación dan hoy, cada una fuerte en algo distinto: la Philips en potencia, la Oster en durabilidad y la Atma en precio.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "Si priorizás durabilidad", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal. 4.8 estrellas en 2.365 opiniones: la que dura años.` },
+      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Si priorizás el precio", labelColor: "blue", description: `Atma Pro de vidrio por ~$75.000 y 4.980 calificaciones: la mejor relación precio del catálogo.` },
+
+      { type: "h2", title: `Tabla comparativa: Philips frente a sus rivales`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Jarra`, `Ideal para`], rows: [
+        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `$120.839`, `1.000 W`, `Plástico 2 L`, `Potencia y capacidad de gama media`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `700 W`, `Vidrio 1,25 L`, `Durabilidad para años`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `500 W`, `Vidrio 1,5 L`, `Mejor relación precio`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir una licuadora Philips`, id: "como-elegir" },
+      { type: "h3", title: `1. La potencia: el fuerte de la Philips` },
+      { type: "p", content: `Los 1.000 W de la Pro Blend son su mejor argumento. Para licuados de fruta y jugos, cualquier licuadora de 500 a 700 W alcanza; pero para hielo a diario, sopas, purés y untables densos, esos 1.000 W se notan y trabajan sin esfuerzo. Es el punto justo de potencia sin pagar los $300.000 de una premium de 1.500 W.` },
+      { type: "h3", title: `2. La jarra grande y las velocidades` },
+      { type: "p", content: `La jarra de 2 litros es la más grande del catálogo: ideal si licuás para toda la familia o hacés sopas en cantidad. Y las 5 velocidades más pulso te dan control fino, algo que las de 2 velocidades no ofrecen. La contra a tener presente es que esa jarra es de plástico, no de vidrio.` },
+      { type: "h3", title: `3. Plástico vs. vidrio: qué resignás` },
+      { type: "p", content: `El plástico es más liviano pero puede tomar olor con el tiempo, sobre todo con preparaciones intensas. Si eso te molesta, la [Oster Classic](/guias/licuadora-oster) o la [Atma Pro](/guias/licuadora-atma) traen vidrio. Es el trueque de la Philips: ganás potencia y capacidad, resignás el vidrio. Para la mayoría que prioriza músculo, vale la pena.` },
+
+      { type: "h2", title: `Cuánto cuesta una licuadora Philips en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $120.000:** la [Philips Pro Blend HR2260/90](https://meli.la/116UsZh) de 1.000 W, gama media-alta. Da casi todo lo de una premium por mucho menos.`,
+        `**Si querés gastar menos con vidrio:** la [Atma Pro](https://meli.la/1s19WgR) a ~$75.000, menos potencia pero jarra de vidrio y la mayor base de opiniones.`,
+        `**Si priorizás durabilidad:** la [Oster Classic](https://meli.la/1UhsB6r) (~$148.000), encastre de metal y vidrio para que dure años.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál licuadora Philips comprar`, id: "veredicto" },
+      { type: "verdict", content: `La **Philips Pro Blend HR2260/90** es la mejor opción si tu prioridad es potencia y capacidad de gama media: 1.000 W, jarra de 2 litros y 5 velocidades por unos $120.000, con 4.6 estrellas en 377 opiniones. Da el 90% de lo que da una premium de 1.500 W por menos de la mitad. Su único compromiso es la jarra de plástico: si sos sensible al sabor, la [Atma Pro](/guias/licuadora-atma) de vidrio te conviene; y si priorizás durabilidad para años, la [Oster Classic](/guias/licuadora-oster). Para potencia sin pagar de más, la Philips es la elección sensata.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor licuadora Philips en Argentina?`, answer: `La [Philips Pro Blend HR2260/90](https://meli.la/116UsZh): 1.000 W, jarra de 2 litros (la más grande del catálogo) y 5 velocidades más pulso, con 4.6 estrellas en 377 opiniones. Es la apuesta lógica si querés potencia de gama media sin pagar lo que sale una premium.` },
+      { question: `¿Cuánta potencia tiene la licuadora Philips Pro Blend?`, answer: `Tiene 1.000 W, lo que la ubica entre las más potentes de gama media. Esa potencia se nota en hielo a diario, sopas, purés y untables densos, donde las licuadoras de 500 a 700 W trabajan más al límite. Para licuados simples de fruta, cualquier licuadora alcanza; los 1.000 W son para uso más exigente.` },
+      { question: `¿La licuadora Philips tiene jarra de vidrio o plástico?`, answer: `La [Pro Blend HR2260/90](https://meli.la/116UsZh) tiene jarra de plástico de 2 litros, la más grande del catálogo. Es su único compromiso: el plástico puede tomar olor con el tiempo. Si preferís vidrio, la [Atma Pro](/guias/licuadora-atma) o la [Oster Classic](/guias/licuadora-oster) lo traen, aunque con menos potencia.` },
+      { question: `¿Qué licuadora es mejor, Philips u Oster?`, answer: `Depende de qué priorices. La [Philips Pro Blend](https://meli.la/116UsZh) gana en potencia (1.000 W) y capacidad (2 L). La [Oster Classic](/guias/licuadora-oster) gana en durabilidad (vidrio y encastre de metal) y suele durar más años. Si tu uso es exigente y querés músculo, Philips; si querés que dure décadas, Oster.` },
+      { question: `¿Sirve la licuadora Philips para hielo y sopas?`, answer: `Sí, es uno de sus puntos fuertes. Con 1.000 W y 5 velocidades pica hielo y procesa verduras para sopa crema sin esfuerzo, como confirman las reviews. La jarra de 2 litros ayuda cuando hacés sopas o licuás en cantidad para varios.` },
+      { question: `¿Vale la pena la licuadora Philips frente a una más barata?`, answer: `Si vas a usar la potencia, sí. Frente a una de 500 W, los 1.000 W de la [Pro Blend](https://meli.la/116UsZh) hacen una diferencia real en hielo, sopas y untables densos. Si solo hacés licuados simples de fruta, una más barata de vidrio como la [Atma Pro](/guias/licuadora-atma) te alcanza y gastás menos.` },
+    ],
+    internalLinks: [
+      { label: "Mejores licuadoras de Argentina: cuál comprar", href: "/guias/licuadora" },
+      { label: "Licuadora Oster: cuál comprar y cuál evitar", href: "/guias/licuadora-oster" },
+      { label: "Licuadora Atma: la mejor relación precio", href: "/guias/licuadora-atma" },
+    ],
+    internalLinksTitle: "Seguí comparando licuadoras",
+  },
+
+  {
+    slug: "licuadora-de-mano",
+    category: "licuadoras",
+    title: `Licuadora de mano: cuál comprar en Argentina [2026]`,
+    seoTitle: `Licuadora de Mano 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Conocé cuál licuadora de mano comprar en Argentina: la Peabody de 800 W, accesorios, precio real y para qué sirve frente a una de vaso. Elegí la mejor.`,
+    ogTitle: `Licuadora de mano: cuál comprar en Argentina`,
+    ogDescription: `Minipimer de 800 W para licuar directo en la olla: sopas, purés, cremas y mayonesas. La guía honesta de la licuadora de mano en Argentina, con precio real y contras.`,
+    h1: `Licuadora de mano: cuál comprar en Argentina y para qué sirve [2026]`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `La licuadora de mano (o minipimer) licúa directo en la olla: ideal para sopas, purés, cremas y mayonesas. Te mostramos cuál conviene en Argentina, qué trae en la caja y cuándo te alcanza esta y cuándo necesitás una de vaso.`,
+    quickPicks: [
+      { productMlaId: "MLA13112158", label: "La de mano recomendada", labelColor: "green", tagline: "Peabody de 800 W con 5 accesorios y 4.6 estrellas en 6.868 opiniones" },
+      { productMlaId: "MLA19693634", label: "Si querés una de vaso", labelColor: "blue", tagline: "Atma Pro de vidrio por ~$75.000 para licuados y jugos en jarra" },
+      { productMlaId: "MLA17734241", label: "La de vaso que dura", labelColor: "green", tagline: "Oster Classic de vidrio y metal, la licuadora principal de la casa" },
+    ],
+    intro: [
+      `La **licuadora de mano**, también conocida como minipimer, es el aparato que mete una varilla directo en la olla o el vaso, sin jarra. Por eso es la reina de las preparaciones calientes y de las que requieren textura fina: sopas crema, purés, cremas, mayonesas, salsas y aderezos salen sin trasvasar nada. En Argentina la más elegida y mejor respaldada por opiniones es la Peabody.`,
+      `Conviene entender desde el arranque qué resuelve y qué no. Una de mano **no reemplaza** a una de vaso para licuados de fruta o jugos en cantidad: son herramientas distintas y muchas cocinas terminan con las dos. En esta guía vemos cuál de mano comprar, qué trae en la caja y cuándo te conviene sumar una de vaso.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_994881-MLA99490288888_112025-F.jpg", alt: `Licuadora de mano Peabody PE-LMA327B de 800 W con varilla de acero inoxidable y accesorios`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las licuadoras de mano disponibles hoy en MercadoLibre Argentina y las cruzamos con lo que dicen los compradores reales, incluidos los contras. En una de mano lo que importa es distinto a una de vaso: la **potencia** del motor, los **accesorios** que trae (batidor, picadora, vaso), el **material de la varilla** y la durabilidad de los **encastres**. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Qué es una licuadora de mano y para qué sirve`, id: "que-es" },
+      { type: "p", content: `Una licuadora de mano es un mango con motor del que sale una varilla con cuchilla en la punta, que sumergís directo en lo que querés procesar. No tiene jarra: trabajás en la propia olla, en un bol o en el vaso que viene incluido. Eso la hace imbatible para preparaciones calientes (no tenés que pasar la sopa hirviendo a una jarra) y para texturas finas como cremas y purés.` },
+      { type: "p", content: `Su fuerte es la **versatilidad**. Con los accesorios correctos hace sopas, purés, cremas, mayonesas, salsas, aderezos, bate claras y pica. "Para alguien que no tiene ni idea de cocina, esta máquina te vuela la cabeza", dice la review más votada de la Peabody, con 466 personas que la encontraron útil. Lo que no hace bien es un licuado de fruta en cantidad o un jugo para varios: para eso es mejor una de vaso.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "De mano vs. de vaso, en una línea", content: `La de mano va a la preparación (la olla, el bol); la de vaso espera a que le lleves los ingredientes a la jarra. Si cocinás mucho (sopas, purés, salsas), la de mano es clave. Si lo tuyo son licuados y jugos, una de vaso. No compiten: ver la [guía de licuadoras](/guias/licuadora) para elegir el tipo.` },
+
+      { type: "h2", title: `La mejor licuadora de mano: Peabody PE-LMA327B`, id: "ranking" },
+      { type: "product-card", productMlaId: "MLA13112158", label: "La de mano recomendada", labelColor: "green", ranking: 1, description: `800 W, 5 velocidades más pulso y varilla de acero inoxidable, con batidor, vaso medidor, picadora y organizador. 4.6 estrellas en 6.868 calificaciones, la base de opiniones más grande de las licuadoras del catálogo.` },
+      { type: "p", content: `Es la de mano que recomendamos por una combinación difícil de igualar: **potencia, accesorios y respaldo de opiniones**. Trae **800 W**, 5 velocidades más máxima potencia, varilla y hoja de **acero inoxidable**, y un set completo en la caja: batidor para claras y cremas, vaso medidor, vaso picador y un organizador para tener todo ordenado. Con eso cubrís prácticamente toda la cocina del día a día.` },
+      { type: "p", content: `La parte honesta la dan los propios compradores, y conviene leerla. La advertencia más útil que se repite: respetá el **tiempo de uso continuo** que indica el fabricante. Quien lo respeta queda encantado ("no tengo ninguna queja, muy cómodo el soporte"); algunos que la exigieron de más reportan que los plásticos de los encastres se resienten con los meses. Usada como corresponde, con su potencia de sobra para el uso doméstico, es la más recomendable de su tipo.` },
+      { type: "pull-quote", content: `"Para alguien que no tiene ni idea de cocina como yo, esta máquina te vuela la cabeza. Se me abrió un infinito mundo de posibilidades culinarias. 10/10."`, attribution: `Comprador verificado en MercadoLibre, diciembre 2020 · 466 personas lo encontraron útil` },
+
+      { type: "h2", title: `¿Y si también querés licuados? Sumá una de vaso`, id: "alternativas" },
+      { type: "p", content: `La de mano es media cocina, pero le falta la otra media: licuados de fruta, jugos y batidos en jarra para varios. Si querés cubrir todo, lo ideal es una de mano más una de vaso. Estas son las dos de vaso que mejor relación dan en el catálogo, según presupuesto.` },
+      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "De vaso económica", labelColor: "blue", description: `Atma Pro de vidrio de 1,5 L por ~$75.000 y 4.980 opiniones: la mejor relación precio para licuados y jugos.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "De vaso que dura", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal, 4.8 estrellas en 2.365 opiniones: la que dura años.` },
+
+      { type: "h2", title: `Tabla comparativa: de mano y de vaso`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Potencia`, `Ideal para`], rows: [
+        [`[Peabody PE-LMA327B](https://meli.la/2xEshc3)`, `$109.979`, `De mano`, `800 W`, `Sopas, purés, cremas y mayonesas en la olla`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `De vaso`, `500 W`, `Licuados y jugos económicos`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `De vaso`, `700 W`, `La licuadora de la casa para años`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir una licuadora de mano`, id: "como-elegir" },
+      { type: "h3", title: `1. La potencia del motor` },
+      { type: "p", content: `Para una de mano, 600 a 800 W es lo ideal: pasa purés, cremas y sopas sin trabarse y mantiene fuerza incluso con preparaciones densas. La Peabody con sus 800 W queda holgada para el uso doméstico. Menos potencia puede costarle a las preparaciones más espesas.` },
+      { type: "h3", title: `2. Los accesorios que trae en la caja` },
+      { type: "p", content: `Acá está buena parte del valor. Un batidor te suma claras a nieve y cremas; un vaso picador convierte la minipimer en mini procesadora para cebolla, ajo o frutos secos; el vaso medidor te da dónde licuar sin ensuciar otra cosa. La Peabody trae todo eso más un organizador, que en la práctica significa que de verdad vas a usar los accesorios en vez de perderlos.` },
+      { type: "h3", title: `3. El material y los encastres` },
+      { type: "p", content: `La varilla de **acero inoxidable** es el estándar a buscar: no se mancha y aguanta el calor de las preparaciones. El punto a cuidar son los encastres de plástico, que son el talón de Aquiles de cualquier minipimer si se la exige de más. La regla de oro que repiten los compradores: respetar el tiempo de uso continuo del fabricante y dejarla descansar. Así dura.` },
+
+      { type: "h2", title: `Cuánto cuesta una licuadora de mano en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $110.000:** la [Peabody PE-LMA327B](https://meli.la/2xEshc3) de 800 W con set completo de accesorios. La opción con mejor respaldo de opiniones.`,
+        `**Por debajo de $60.000:** aparecen minipimer básicas de menor potencia y sin accesorios. Sirven para un puré ocasional, pero rinden menos en uso frecuente.`,
+        `**¿Querés cubrir también licuados?** Sumá una de vaso económica como la [Atma Pro](https://meli.la/1s19WgR) (~$75.000, vidrio). Entre las dos cubrís toda la cocina.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál licuadora de mano comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para una de mano, la **Peabody PE-LMA327B** es la elección clara: 800 W, varilla de acero inoxidable y un set completo de accesorios (batidor, picadora, vaso medidor, organizador), con la mayor base de opiniones de las licuadoras del catálogo (4.6 en 6.868). Es imbatible para sopas, purés, cremas y mayonesas directo en la olla. El único cuidado, que vale para toda minipimer, es respetar el tiempo de uso continuo del fabricante para que los encastres duren. Si también querés licuados y jugos en jarra, sumá una de vaso como la [Atma Pro](/guias/licuadora-atma) de vidrio: entre las dos, cocina completa.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor licuadora de mano en Argentina?`, answer: `La [Peabody PE-LMA327B](https://meli.la/2xEshc3): 800 W, varilla de acero inoxidable y un set completo de accesorios (batidor, picadora, vaso medidor, organizador), con 4.6 estrellas en 6.868 opiniones, la base más grande de las licuadoras del catálogo. Es la más recomendable para sopas, purés y cremas.` },
+      { question: `¿Qué diferencia hay entre una licuadora de mano y una de vaso?`, answer: `La de mano (o minipimer) mete una varilla directo en la olla o el bol, ideal para sopas, purés, cremas y mayonesas. La de vaso tiene jarra sobre una base con motor y es mejor para licuados de fruta y jugos en cantidad. No se reemplazan: la de mano va a la preparación, la de vaso espera los ingredientes en la jarra. Mirá la [guía de licuadoras](/guias/licuadora) para elegir.` },
+      { question: `¿Para qué sirve una licuadora de mano?`, answer: `Para sopas crema, purés, cremas, mayonesas, salsas, aderezos, batir claras y picar, todo directo en la olla, el bol o el vaso que trae. Su fuerte es la versatilidad y las preparaciones calientes, porque no tenés que trasvasar nada a una jarra. La [Peabody](https://meli.la/2xEshc3) suma accesorios que amplían esos usos.` },
+      { question: `¿La licuadora de mano sirve para licuados de fruta?`, answer: `Para un licuado individual o una porción chica, sí, usando el vaso que trae. Pero para licuados o jugos en cantidad para varios, una de vaso rinde mejor por la jarra y la cuchilla. Si querés cubrir las dos cosas, lo ideal es una de mano más una de vaso económica como la [Atma Pro](/guias/licuadora-atma).` },
+      { question: `¿Cuánta potencia necesita una licuadora de mano?`, answer: `Entre 600 y 800 W es lo ideal para uso doméstico: pasa purés y sopas sin trabarse y aguanta preparaciones densas. La [Peabody](https://meli.la/2xEshc3) con 800 W queda holgada. Menos potencia puede costarle a lo más espeso, así que conviene no quedarse corto en este punto.` },
+      { question: `¿Por qué se rompen los encastres de las minipimer?`, answer: `Casi siempre por exceso de uso continuo. Los encastres de plástico se resienten si se la exige más allá del tiempo que indica el fabricante. La recomendación que repiten los compradores de la [Peabody](https://meli.la/2xEshc3) es respetar ese tiempo y dejarla descansar entre tandas: usada así, dura sin problemas.` },
+    ],
+    internalLinks: [
+      { label: "Mejores licuadoras de Argentina: cuál comprar", href: "/guias/licuadora" },
+      { label: "Licuadora Atma: la mejor relación precio", href: "/guias/licuadora-atma" },
+      { label: "Licuadora portátil: la mejor para batidos", href: "/guias/licuadora-portatil" },
+    ],
+    internalLinksTitle: "Seguí comparando licuadoras",
+  },
+
+  {
+    slug: "licuadora-atma",
+    category: "licuadoras",
+    title: `Licuadora Atma: cuál comprar en Argentina [2026]`,
+    seoTitle: `Licuadora Atma 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Analizamos la licuadora Atma Pro de vidrio: precio real, 4.980 opiniones y por qué es la mejor relación precio del catálogo. Mirá si te conviene.`,
+    ogTitle: `Licuadora Atma: cuál comprar en Argentina`,
+    ogDescription: `Jarra de vidrio, cierre de seguridad y 4.980 calificaciones por ~$75.000. La guía honesta de la licuadora Atma en Argentina, con precio real y contras incluidos.`,
+    h1: `Licuadora Atma: cuál comprar en Argentina y por qué conviene [2026]`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `La licuadora Atma Pro es la mejor relación precio del catálogo: jarra de vidrio y la base de opiniones más grande, por la mitad de lo que sale una Oster de vidrio. Vemos qué hace bien, dónde está su límite honesto y cuándo conviene gastar un poco más.`,
+    quickPicks: [
+      { productMlaId: "MLA19693634", label: "La Atma recomendada", labelColor: "blue", tagline: "Atma Pro de vidrio, cierre de seguridad y 4.980 calificaciones por ~$75.000" },
+      { productMlaId: "MLA17734241", label: "Si querés que dure más", labelColor: "green", tagline: "Oster Classic de vidrio y encastre de metal, la que dura años" },
+      { productMlaId: "MLA50527370", label: "Si querés más potencia", labelColor: "purple", tagline: "Philips Pro Blend de 1.000 W y jarra de 2 L para uso exigente" },
+    ],
+    intro: [
+      `Buscar **licuadora Atma** en Argentina casi siempre es buscar lo mismo: lo mejor por tu plata. Y la respuesta es bastante directa, porque la **Atma Pro LI8450AP** es la licuadora con la mayor base de opiniones de todo el catálogo, casi 5.000 calificaciones, y la mejor relación precio que vas a encontrar con jarra de vidrio.`,
+      `En esta guía la analizamos a fondo: por qué la eligen tanto, cuál es su límite honesto (porque a este precio hay recortes) y cuándo te conviene estirar el presupuesto a una Oster por durabilidad o a una Philips por potencia. La idea es que sepas exactamente qué estás comprando.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_654240-MLA99514945598_112025-F.jpg", alt: `Licuadora Atma Pro LI8450AP con jarra de vidrio de 1,5 litros y base de acero inoxidable`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos la licuadora Atma disponible hoy en MercadoLibre Argentina y la cruzamos con lo que dicen los compradores reales y con las marcas que compiten en su precio. Miramos lo que define el uso: el **material de la jarra** (Atma mantiene vidrio en su precio), la **potencia**, los **detalles de seguridad** y las calificaciones públicas, que en este modelo son una muestra enorme. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `La mejor licuadora Atma: Pro LI8450AP`, id: "ranking" },
+      { type: "product-card", productMlaId: "MLA19693634", label: "La Atma recomendada", labelColor: "blue", ranking: 1, description: `Jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~$75.000. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
+      { type: "p", content: `Si querés lo mejor por tu plata, es esta. La Atma Pro da **jarra de vidrio**, cuchilla inoxidable y cierre de seguridad por la mitad de lo que sale una Oster de vidrio, con la base de opiniones más grande de la categoría: **4.980 calificaciones**. El elogio que más se repite es que el vaso no se tiñe: "varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso", dice la review más votada.` },
+      { type: "p", content: `Suma una **base maciza** que "encastra a la perfección" y un sistema de seguridad de encendido: si la jarra no está bien puesta, no arranca. El recorte honesto a este precio: son **500 W y 2 velocidades**, así que al hielo le cuesta un poco más ("en primera velocidad quedan grumos, en segunda desaparecen"), y el encastre es de dientes de plástico, como casi todas las de su rango. Para el uso doméstico normal, rinde de sobra. Es la compra inteligente del catálogo.` },
+      { type: "pull-quote", content: `"Estuve dos días comparando. Le doy full uso: varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso. La base es maciza y encastra perfecto. Excelente."`, attribution: `Compradora verificada en MercadoLibre, enero 2023 · 440 personas lo encontraron útil` },
+
+      { type: "h2", title: `Cuándo conviene gastar un poco más`, id: "alternativas" },
+      { type: "p", content: `La Atma Pro es la compra sensata para la mayoría, pero hay dos casos donde estirar el presupuesto tiene sentido: si querés máxima durabilidad para años, o si tu uso es exigente y necesitás más potencia. Estas son las dos alternativas lógicas según cada caso.` },
+      { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "Si querés que dure más", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal (no plástico). 4.8 estrellas en 2.365 opiniones: la durabilidad de la vieja escuela.` },
+      { type: "product-card", productMlaId: "MLA50527370", variant: "compact", label: "Si querés más potencia", labelColor: "purple", description: `Philips Pro Blend de 1.000 W y jarra de 2 L: para hielo a diario, sopas y untables densos sin esfuerzo.` },
+
+      { type: "h2", title: `Tabla comparativa: Atma frente a sus alternativas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Jarra`, `Ideal para`], rows: [
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `500 W`, `Vidrio 1,5 L`, `La mejor relación precio`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `700 W`, `Vidrio 1,25 L`, `Máxima durabilidad para años`],
+        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `$120.839`, `1.000 W`, `Plástico 2 L`, `Más potencia para uso exigente`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir una licuadora Atma`, id: "como-elegir" },
+      { type: "h3", title: `1. El vidrio: el gran argumento de la Atma` },
+      { type: "p", content: `Que la Atma Pro traiga **jarra de vidrio** a ~$75.000 es lo que la hace tan recomendable. El vidrio no toma olor ni gusto y dura más que el plástico, algo que en su rango de precio casi ninguna competidora ofrece. Si venías mirando licuadoras de plástico baratas, este es el salto de calidad sin saltar de presupuesto.` },
+      { type: "h3", title: `2. La potencia: para qué la vas a usar` },
+      { type: "p", content: `Sus 500 W alcanzan perfecto para licuados de fruta, jugos, untables y preparaciones densas del día a día. El límite honesto está en el hielo: en cantidad le cuesta un poco más que a una de 1.000 W, y conviene usar la segunda velocidad. Si hacés mucho hielo o frapés a diario, la [Philips](/guias/licuadora-philips) de 1.000 W te conviene más.` },
+      { type: "h3", title: `3. Los detalles de seguridad y la base` },
+      { type: "p", content: `Dos cosas que los compradores valoran y que no son obvias a este precio: el **cierre de seguridad** (no enciende si la jarra no está bien puesta, clave si hay chicos en casa) y la **base maciza** que no se mueve mientras licúa. Son detalles que hacen el uso diario más cómodo y seguro, y que explican parte de las casi 5.000 opiniones positivas.` },
+
+      { type: "h2", title: `Cuánto cuesta una licuadora Atma en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $75.000:** la [Atma Pro LI8450AP](https://meli.la/1s19WgR) de vidrio, la mejor relación precio del catálogo. Es la franja del mejor valor.`,
+        `**Alrededor de $120.000:** si querés más potencia, la [Philips Pro Blend](https://meli.la/116UsZh) de 1.000 W con jarra grande.`,
+        `**Alrededor de $148.000:** si querés máxima durabilidad, la [Oster Classic](https://meli.la/1UhsB6r) de vidrio y encastre de metal para años.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál licuadora Atma comprar`, id: "veredicto" },
+      { type: "verdict", content: `La **Atma Pro LI8450AP** es la compra inteligente del catálogo: jarra de vidrio, cierre de seguridad y base maciza por ~$75.000, con la mayor base de opiniones de todas las licuadoras (4.980 calificaciones, 4.7 estrellas). Da casi todo lo de una Oster de vidrio por la mitad de precio. Su límite honesto son los 500 W: para hielo intensivo o uso exigente, la [Philips](/guias/licuadora-philips) de 1.000 W rinde mejor; y si querés máxima durabilidad para años, la [Oster Classic](/guias/licuadora-oster) con encastre de metal. Para el uso doméstico normal y el mejor precio con vidrio, la Atma es la elección sensata.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor licuadora Atma en Argentina?`, answer: `La [Atma Pro LI8450AP](https://meli.la/1s19WgR): jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~$75.000, con 4.7 estrellas en 4.980 calificaciones, la base de opiniones más grande del catálogo. Es la mejor relación precio para uso doméstico.` },
+      { question: `¿La licuadora Atma Pro tiene jarra de vidrio?`, answer: `Sí, y es su mayor virtud a ese precio. La [Atma Pro](https://meli.la/1s19WgR) trae jarra de vidrio de 1,5 litros, que no toma olor ni gusto y dura más que el plástico. A ~$75.000, casi ninguna competidora de su rango ofrece vidrio: por eso es la compra inteligente del catálogo.` },
+      { question: `¿La licuadora Atma sirve para hielo?`, answer: `Sí, pero con un matiz honesto. Sus 500 W pican hielo usando la segunda velocidad; en primera pueden quedar algunos grumos, como cuentan las reviews. Para uso normal alcanza bien. Si hacés mucho hielo o frapés a diario, una de 1.000 W como la [Philips Pro Blend](/guias/licuadora-philips) rinde mejor.` },
+      { question: `¿Qué licuadora es mejor, Atma u Oster?`, answer: `Depende del presupuesto. La [Atma Pro](https://meli.la/1s19WgR) ofrece jarra de vidrio y la mayor base de opiniones por la mitad de precio. La [Oster Classic](/guias/licuadora-oster) es más duradera (encastre de metal en vez de plástico) pero cuesta el doble. Si el presupuesto manda, la Atma es la compra inteligente; si querés que dure décadas, la Oster.` },
+      { question: `¿Cuántas velocidades tiene la licuadora Atma Pro?`, answer: `Tiene 2 velocidades más función pulsar. Es menos que las 5 velocidades de una [Philips](/guias/licuadora-philips), pero para el uso doméstico (licuados, jugos, untables) las dos velocidades más el pulso alcanzan bien. La segunda velocidad es la que conviene para el hielo y las preparaciones más densas.` },
+      { question: `¿Por qué la licuadora Atma tiene tantas opiniones?`, answer: `Porque es una de las más vendidas de Argentina por su relación precio-calidad: jarra de vidrio y cierre de seguridad a un precio accesible. Con 4.980 calificaciones, la [Atma Pro](https://meli.la/1s19WgR) tiene la muestra de opiniones más grande del catálogo, lo que la vuelve una de las compras más respaldadas por datos reales.` },
+    ],
+    internalLinks: [
+      { label: "Mejores licuadoras de Argentina: cuál comprar", href: "/guias/licuadora" },
+      { label: "Licuadora Oster: cuál comprar y cuál evitar", href: "/guias/licuadora-oster" },
+      { label: "Licuadora Philips: potencia de gama media", href: "/guias/licuadora-philips" },
+    ],
+    internalLinksTitle: "Seguí comparando licuadoras",
   },
 
   // ─────────────────────────────────────────────────────────
@@ -269,15 +694,15 @@ export const guides: Guide[] = [
     slug: "masajeador-donde-comprar-argentina",
     category: "masajeadores",
     title: "Dónde comprar un masajeador en Argentina",
-    seoTitle: "Dónde comprar un masajeador en Argentina (2026) - Opciones reales y precios",
+    seoTitle: "Dónde comprar un masajeador en Argentina (2026)",
     metaDescription:
-      "Dónde comprar masajeadores en Argentina: farmacias, locales de electrónica y MercadoLibre. Comparamos precios, variedad y envío para que elijas bien.",
+      "Compará dónde comprar masajeadores en Argentina: farmacias, locales de electrónica y MercadoLibre. Precios, variedad y envío para que elijas bien.",
     ogTitle: "Dónde comprar un masajeador en Argentina (2026)",
     ogDescription:
       "Farmacias, locales de electrónica y MercadoLibre: comparamos precios, variedad y envío para que elijas bien.",
     h1: "Dónde comprar un masajeador en Argentina (guía actualizada)",
     publishedDate: "2026-04-11",
-    updatedDate: "2026-04-11",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       'Si estás buscando "masajeador cerca de mí" probablemente querés comprar uno hoy. No mañana. Hoy.',
@@ -285,12 +710,12 @@ export const guides: Guide[] = [
       "Acá te cuento qué encontré en cada canal, con precios reales y los modelos que valen la pena.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_603622-MLU78073792105_072024-F.webp", alt: "Asiento masajeador cervical y espalda con shiatsu y calor", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_993970-MLA84847927311_052025-F.jpg", alt: "Masajeador cervical y lumbar de 8 nodos, a la venta en MercadoLibre Argentina", imageSize: "hero" },
       { type: "h2", title: "Las tres opciones que tenés en Argentina" },
       {
         type: "p",
         content:
-          "Básicamente son tres caminos: farmacia, local de electrónica, o comprar online. Cada uno tiene ventajas y problemas distintos.",
+          "Básicamente son tres caminos: farmacia, local de electrónica, o comprar por internet. Cada uno tiene ventajas y problemas distintos.",
       },
       {
         type: "table",
@@ -322,7 +747,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "La mayoría tiene uno o dos modelos, generalmente masajeadores manuales o algún aparato cervical básico de marca genérica. Los precios suelen estar por encima de lo que encontrás online, a veces bastante. Vi el mismo masajeador cervical a $45.000 en una farmacia que en MercadoLibre estaba a $28.000.",
+          "La mayoría tiene uno o dos modelos, generalmente masajeadores manuales o algún aparato cervical básico de marca genérica. Los precios suelen estar por encima de lo que encontrás por internet, a veces bastante. Vi el mismo masajeador cervical a $45.000 en una farmacia que en MercadoLibre estaba a $28.000.",
       },
       {
         type: "p",
@@ -343,7 +768,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Los precios en locales físicos suelen estar entre un 10% y 25% más caros que online, dependiendo del local. Algunos igualan precios de MercadoLibre si les mostrás la publicación.",
+          "Los precios en locales físicos suelen estar entre un 10% y 25% más caros que por internet, dependiendo del local. Algunos igualan precios de MercadoLibre si les mostrás la publicación.",
       },
       { type: "h2", title: "MercadoLibre: la opción que más conviene para la mayoría" },
       {
@@ -452,6 +877,29 @@ export const guides: Guide[] = [
           ],
         },
       },
+      { type: "h2", title: "Comprar por internet o en local: pros y contras" },
+      { type: "p", content: "Comprar en MercadoLibre, a favor:" },
+      { type: "list", items: [
+        "Más variedad y mejores precios que en farmacia o local de electrónica",
+        "Reviews reales de compradores para leer antes de decidir",
+        "Envío a todo el país y devolución protegida los primeros 30 días",
+      ]},
+      { type: "p", content: "Comprar en MercadoLibre, en contra:" },
+      { type: "list", items: [
+        "No lo probás antes de comprar",
+        "Depende de la reputación del vendedor: hay que filtrar",
+        "Esperás el envío, no lo tenés en el día",
+      ]},
+      { type: "p", content: "Comprar en local (farmacia o electrónica), a favor:" },
+      { type: "list", items: [
+        "Lo tenés hoy mismo y lo podés ver y probar",
+        "Cambio o reclamo en el momento, cara a cara",
+      ]},
+      { type: "p", content: "Comprar en local, en contra:" },
+      { type: "list", items: [
+        "Pocos modelos para elegir y precios más altos",
+        "Depende de tu zona: en el interior la oferta es mínima",
+      ]},
     ],
     faq: [
       {
@@ -483,7 +931,10 @@ export const guides: Guide[] = [
     internalLinksTitle: "Guías relacionadas",
     internalLinks: [
       { label: "Mejores masajeadores en Argentina", href: "/guias/mejores-masajeadores-argentina" },
+      { label: "Qué masajeador eléctrico elegir", href: "/guias/masajeador-electrico" },
       { label: "Masajeador cervical: comparativa", href: "/guias/masajeador-cervical" },
+      { label: "Masajeador de espalda", href: "/guias/masajeador-espalda" },
+      { label: "Pistola de masaje muscular", href: "/guias/pistola-masajeadora" },
     ],
   },
 
@@ -494,15 +945,15 @@ export const guides: Guide[] = [
     slug: "mejores-masajeadores-argentina",
     category: "masajeadores",
     title: "Mejores masajeadores en Argentina",
-    seoTitle: "Mejores masajeadores en Argentina (2026) - Comparativa honesta con precios",
+    seoTitle: "Mejores masajeadores en Argentina: cuál comprar (2026)",
     metaDescription:
-      "Probé más de 15 masajeadores disponibles en MercadoLibre Argentina. Cervicales, de espalda, pies, faciales y pistolas de masaje. Acá van los que valen la pena.",
-    ogTitle: "Mejores masajeadores en Argentina (2026) - Comparativa honesta",
+      "Probé más de 15 masajeadores de MercadoLibre Argentina: cervicales, de espalda, pies, faciales y pistolas de masaje. Acá van los que valen la pena.",
+    ogTitle: "Mejores masajeadores en Argentina (2026): comparativa honesta",
     ogDescription:
       "Probé más de 15 masajeadores de MercadoLibre. Cervicales, espalda, pies, faciales y pistolas. Los que valen la pena y los que no.",
     h1: "Mejores masajeadores en Argentina: cuáles valen la pena y cuáles no",
     publishedDate: "2026-04-11",
-    updatedDate: "2026-04-11",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "Estuve tres semanas probando masajeadores que encontré en MercadoLibre. Algunos son buenos. Otros son un desperdicio de plata. Acá te cuento cuáles valen la pena y para qué sirve cada uno.",
@@ -841,6 +1292,21 @@ export const guides: Guide[] = [
         content:
           "Modelos sin reviews o con reviews sospechosas. Si las primeras 10 reviews dicen exactamente lo mismo con variaciones menores, probablemente sean falsas. Buscá las de 3-4 estrellas, que suelen ser las más honestas.",
       },
+      { type: "h2", title: "Pros y contras de los masajeadores eléctricos" },
+      { type: "p", content: "A favor:" },
+      { type: "list", items: [
+        "Alivio de contracturas y relax en casa, a demanda y sin turno",
+        "Hay un formato para cada zona: cuello, espalda, pies, piernas y cara",
+        "A la larga salen más baratos que sesiones repetidas con un masajista",
+        "Los inalámbricos los usás en el sillón, la cama o el auto",
+      ]},
+      { type: "p", content: "En contra:" },
+      { type: "list", items: [
+        "No reemplazan un tratamiento profesional cuando hay una lesión",
+        "Los de menos de $10.000 suelen ser solo vibración floja",
+        "Las pistolas de masaje pesan y hacen ruido, no son para cualquiera",
+        "Muchos prometen funciones casi médicas que no cumplen",
+      ]},
       { type: "h2", id: "faq", title: "Preguntas frecuentes" },
     ],
     faq: [
@@ -877,8 +1343,15 @@ export const guides: Guide[] = [
     ],
     internalLinksTitle: "Guías relacionadas",
     internalLinks: [
-      { label: "Masajeador cervical", href: "/guias/masajeador-cervical" },
-      { label: "Dónde comprar masajeadores", href: "/guias/masajeador-donde-comprar-argentina" },
+      { label: "Masajeador cervical: cuál comprar", href: "/guias/masajeador-cervical" },
+      { label: "Masajeador de espalda y cuello", href: "/guias/masajeador-espalda-cuello" },
+      { label: "Masajeador de espalda", href: "/guias/masajeador-espalda" },
+      { label: "Masajeador de pies", href: "/guias/masajeador-pies" },
+      { label: "Masajeador facial", href: "/guias/masajeador-facial" },
+      { label: "Pistola de masaje muscular", href: "/guias/pistola-masajeadora" },
+      { label: "Masajeadores Gadnic: ¿valen la pena?", href: "/guias/masajeador-gadnic" },
+      { label: "Qué masajeador eléctrico elegir", href: "/guias/masajeador-electrico" },
+      { label: "Dónde comprar masajeadores en Argentina", href: "/guias/masajeador-donde-comprar-argentina" },
     ],
   },
 
@@ -889,15 +1362,15 @@ export const guides: Guide[] = [
     slug: "masajeador-cervical",
     category: "masajeadores",
     title: "Masajeador cervical: los mejores en Argentina",
-    seoTitle: "Masajeador cervical: los mejores en Argentina (2026) - Comparativa real",
+    seoTitle: "Masajeador cervical: los mejores en Argentina (2026)",
     metaDescription:
-      "Probé 5 masajeadores cervicales vendidos en MercadoLibre Argentina. Cuál compré, cuál devolvería y cuál conviene según tu dolor de cuello. Análisis 2026.",
+      "Probé 5 masajeadores cervicales de MercadoLibre Argentina. Cuál compré, cuál devolvería y cuál conviene según tu dolor de cuello. Análisis honesto.",
     ogTitle: "Masajeador cervical: los mejores en Argentina (2026)",
     ogDescription:
       "Probé 5 masajeadores cervicales de MercadoLibre. Cuál comprar según tu problema y presupuesto.",
     h1: "Masajeador cervical: cuál comprar en Argentina según tu problema",
     publishedDate: "2026-04-11",
-    updatedDate: "2026-05-26",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "La mayoría de la gente busca esto porque le duele el cuello de estar en la compu. Yo también. Probé cinco modelos. Dos son buenos. Uno es una porquería. Acá va todo.",
@@ -1115,6 +1588,22 @@ export const guides: Guide[] = [
         content:
           "Si tenés hernia de disco cervical, artrosis cervical, o cualquier problema en las vértebras del cuello, consultá a tu médico antes de usar un masajeador cervical. En algunos casos la presión puede empeorar el problema.",
       },
+      { type: "h2", title: "Pros y contras de los masajeadores cervicales" },
+      { type: "p", content: "A favor:" },
+      { type: "list", items: [
+        "Alivian la contractura de cuello y hombros en casa, sin turno ni costo por sesión",
+        "El calor relaja la zona y potencia el efecto de los nodos shiatsu",
+        "Los buenos son inalámbricos: los usás en el sillón, el auto o la oficina",
+        "Mucho más baratos que sesiones repetidas con un masajista",
+      ]},
+      { type: "p", content: "En contra:" },
+      { type: "list", items: [
+        "No reemplazan a un kinesiólogo: alivian el síntoma, no la causa",
+        "Los de menos de $20.000 vibran flojo y casi no calientan",
+        "Los tipo U tienen ancho fijo: si tenés el cuello grueso, los nodos no llegan bien",
+        "La batería de varios rinde poco, una o dos sesiones por carga",
+        "Mal usados, más de 20 minutos seguidos, pueden irritar la zona",
+      ]},
     ],
     faq: [
       {
@@ -1151,6 +1640,9 @@ export const guides: Guide[] = [
     internalLinksTitle: "Relacionado",
     internalLinks: [
       { label: "Mejores masajeadores en Argentina", href: "/guias/mejores-masajeadores-argentina" },
+      { label: "Masajeador de espalda y cuello", href: "/guias/masajeador-espalda-cuello" },
+      { label: "Masajeadores Gadnic: ¿valen la pena?", href: "/guias/masajeador-gadnic" },
+      { label: "Qué masajeador eléctrico elegir", href: "/guias/masajeador-electrico" },
       { label: "Dónde comprar masajeadores", href: "/guias/masajeador-donde-comprar-argentina" },
     ],
   },
@@ -1167,15 +1659,15 @@ export const guides: Guide[] = [
     slug: "pava-electrica-philips",
     category: "pavas-electricas",
     title: "Pava Philips: ¿vale la pena pagar premium?",
-    seoTitle: "Pava Eléctrica Philips: ¿Vale La Pena? Guía 2026",
+    seoTitle: "Pava eléctrica Philips: ¿vale la pena? Guía 2026",
     metaDescription:
-      "Philips cobra $60K por una pava. ¿Vale la pena vs Atma ($33K)? Probé 5 modelos. Comparativa honesta + cuándo SÍ comprar y cuándo NO.",
-    ogTitle: "Pava Eléctrica Philips: ¿Vale La Pena El Precio Premium?",
+      "Philips cobra $60K por una pava. ¿Vale la pena frente a Atma ($33K)? Probé 5 modelos. Comparativa honesta y cuándo sí comprar y cuándo no.",
+    ogTitle: "Pava eléctrica Philips: ¿vale la pena el precio premium?",
     ogDescription:
-      "Comparativa honesta de pavas Philips vs Atma, Peabody y Oster. Cuándo sí vale y cuándo no.",
-    h1: "Pava eléctrica Philips — ¿vale la pena pagar el precio premium?",
+      "Comparativa honesta de pavas Philips frente a Atma, Peabody y Oster. Cuándo sí vale y cuándo no.",
+    h1: "Pava eléctrica Philips: ¿vale la pena pagar el precio premium?",
     publishedDate: "2026-04-13",
-    updatedDate: "2026-04-13",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "Philips cobra más. Bastante más. Una pava Philips cuesta entre $60.000 y $90.000 en MercadoLibre, mientras que una Atma o Peabody decente la conseguís por $20.000-35.000.",
@@ -1360,7 +1852,7 @@ export const guides: Guide[] = [
       {
         question: "¿Philips tiene control de temperatura?",
         answer:
-          "La [HD9350](https://meli.la/2kpg1Zr) básica no. La [HD9396](https://meli.la/1nfm8ft) sí — 6 niveles de 40°C a 100°C. Si querés control digital con más opciones, el [Peabody PE-DK2200N](https://meli.la/2cyQgD2) tiene control continuo 40-100°C con pantalla LED y keep warm 2h.",
+          "La [HD9350](https://meli.la/2kpg1Zr) básica no. La [HD9396](https://meli.la/1nfm8ft) sí — 6 niveles de 40°C a 100°C. Si querés control digital con más opciones, el [Peabody PE-DK2200N](https://meli.la/2cyQgD2) tiene control continuo 40-100°C con pantalla LED y mantener caliente 2h.",
       },
       {
         question: "¿Dónde consigo repuestos para Philips?",
@@ -1385,6 +1877,8 @@ export const guides: Guide[] = [
       { label: "Pava Atma: mejor calidad-precio argentina", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
+      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
@@ -1399,15 +1893,15 @@ export const guides: Guide[] = [
     slug: "pava-electrica-atma",
     category: "pavas-electricas",
     title: "Pava Atma: la mejor opción argentina calidad-precio",
-    seoTitle: "Pava Eléctrica Atma: Guía Completa 2026 (+ Modelo CORRECTO)",
+    seoTitle: "Pava eléctrica Atma: guía completa y cuál modelo comprar",
     metaDescription:
-      "Atma tiene 15 modelos. UNO tiene interior de acero ($42K), los demás son plástico. Cuál comprar, cuál evitar, y por qué la diferencia importa.",
-    ogTitle: "Pava Eléctrica Atma: La Mejor Opción Argentina Calidad-Precio",
+      "Atma tiene 15 modelos de pava. Uno solo tiene interior de acero ($42K), los demás son plástico. Cuál comprar, cuál evitar y por qué importa la diferencia.",
+    ogTitle: "Pava eléctrica Atma: la mejor opción argentina calidad-precio",
     ogDescription:
       "El modelo PEAT1351 es el que vale la pena. El PE0821AP no. Acá te explico por qué.",
-    h1: "Pava eléctrica Atma — la mejor opción argentina calidad-precio",
+    h1: "Pava eléctrica Atma: la mejor opción argentina calidad-precio",
     publishedDate: "2026-04-20",
-    updatedDate: "2026-04-20",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "Atma es argentina. Tiene servicio técnico en todo el país. Y cuesta bastante menos que una Philips.",
@@ -1571,6 +2065,8 @@ export const guides: Guide[] = [
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
+      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
@@ -1585,15 +2081,15 @@ export const guides: Guide[] = [
     slug: "pava-electrica-precio",
     category: "pavas-electricas",
     title: "Pava eléctrica precio Argentina 2026: guía completa por rango",
-    seoTitle: "Pava Eléctrica Precio Argentina 2026: Guía Por Rango",
+    seoTitle: "Pava eléctrica precio Argentina 2026: guía por rango",
     metaDescription:
-      "Precios desde $30K hasta $90K. Qué esperás por cada rango, mejores opciones, y cuándo vale (o NO vale) gastar más. Guía honesta 2026.",
-    ogTitle: "Pava Eléctrica Precio Argentina 2026: Guía Por Rango",
+      "Precios de pavas eléctricas desde $30K hasta $90K. Qué esperás en cada rango, las mejores opciones y cuándo vale o no vale gastar más. Guía honesta 2026.",
+    ogTitle: "Pava eléctrica precio Argentina 2026: guía por rango",
     ogDescription:
-      "La guía definitiva de precios de pavas eléctricas en Argentina. Qué comprás por $30K, $42K y $60K.",
-    h1: "Pava eléctrica precio Argentina 2026 — guía completa por rango",
+      "La guía de precios de pavas eléctricas en Argentina. Qué comprás por $30K, $42K y $60K.",
+    h1: "Pava eléctrica precio Argentina 2026: guía completa por rango",
     publishedDate: "2026-04-25",
-    updatedDate: "2026-04-25",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "Las pavas eléctricas en Argentina van desde $30.000 hasta $90.000.",
@@ -1629,11 +2125,11 @@ export const guides: Guide[] = [
         content:
           "Honestidad brutal: las pavas de menos de $30.000 son todas de plástico completo. Después de 6-12 meses el agua empieza a tener un gustito raro. Si podés, estirá el presupuesto a gama media.",
       },
-      { type: "h2", title: "Rango gama media: $30.000 - $50.000 — El sweet spot" },
+      { type: "h2", title: "Rango gama media: $30.000 - $50.000 — El punto justo" },
       {
         type: "p",
         content:
-          "Este es el sweet spot del mercado. Acá encontrás la mejor relación precio-calidad. Interior acero inoxidable + exterior plástico, o plástico de muy buena calidad. Potencia 1500W-2200W, hierven en 3-6 min. Duración 2-4 años promedio.",
+          "Este es el punto justo del mercado. Acá encontrás la mejor relación precio-calidad. Interior acero inoxidable + exterior plástico, o plástico de muy buena calidad. Potencia 1500W-2200W, hierven en 3-6 min. Duración 2-4 años promedio.",
       },
       {
         type: "image",
@@ -1767,6 +2263,7 @@ export const guides: Guide[] = [
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Oster: ¿vale el precio?", href: "/guias/pava-electrica-oster" },
+      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
@@ -1780,15 +2277,15 @@ export const guides: Guide[] = [
     slug: "pava-electrica-mercadolibre",
     category: "pavas-electricas",
     title: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
-    seoTitle: "Pava Eléctrica MercadoLibre: Guía Para No Equivocarte",
+    seoTitle: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     metaDescription:
-      "500+ modelos en ML. Cómo identificar vendedores confiables, leer reviews sin que te engañen, y las mejores ofertas reales abril 2026.",
-    ogTitle: "Pava Eléctrica en MercadoLibre: Guía Para No Equivocarte",
+      "Aprendé a comprar pava eléctrica en MercadoLibre sin que te estafen: cómo elegir vendedores confiables, leer reviews reales y detectar ofertas truchas.",
+    ogTitle: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     ogDescription:
-      "Compré 4 pavas en ML. Una llegó rota. Acá te explico cómo comprar bien.",
-    h1: "Pava eléctrica en MercadoLibre — guía para no equivocarte",
+      "Compré 4 pavas en MercadoLibre. Una llegó rota. Acá te explico cómo comprar bien y no caer en publicaciones engañosas.",
+    h1: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     publishedDate: "2026-05-02",
-    updatedDate: "2026-05-02",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "MercadoLibre tiene más de 500 modelos de pavas eléctricas. Desde $12.000 hasta $150.000.",
@@ -1865,7 +2362,7 @@ export const guides: Guide[] = [
         content:
           "Estrategia: ordenar por \"Más recientes\", leer últimos 10-15 reviews, buscar patrones. Si más del 20% de reviews recientes son negativos → no comprar.",
       },
-      { type: "h2", title: "Las mejores ofertas en MercadoLibre (abril 2026)" },
+      { type: "h2", title: "Las mejores ofertas en MercadoLibre" },
       {
         type: "image",
         src: "/guias/pavas/atma-peat1351-principal.png",
@@ -1972,6 +2469,7 @@ export const guides: Guide[] = [
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Oster: ¿vale el precio?", href: "/guias/pava-electrica-oster" },
+      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
@@ -1990,15 +2488,15 @@ export const guides: Guide[] = [
     slug: "pava-electrica-peabody",
     category: "pavas-electricas",
     title: "Pava Peabody: ¿vale la pena el control de temperatura digital?",
-    seoTitle: "Pava eléctrica Peabody: ¿vale la pena en 2026?",
+    seoTitle: "Pava eléctrica Peabody: ¿vale el control digital?",
     metaDescription:
-      "Peabody con control digital de temperatura ($70K) vs Philips acero ($60K) vs Atma interior acero ($42K). Probé la Peabody digital un mes. Cuándo sí vale y cuándo no.",
-    ogTitle: "Pava Eléctrica Peabody: ¿Vale El Control Digital de Temperatura?",
+      "Probé la Peabody digital un mes: cuándo el control de temperatura vale la pena y cuándo conviene una Philips de acero o una Atma más barata.",
+    ogTitle: "Pava eléctrica Peabody: ¿vale el control digital de temperatura?",
     ogDescription:
-      "Si solo tomás mate a 100°, estás pagando $27.000 por una pantalla que no vas a usar. Análisis honesto de Peabody.",
-    h1: "Pava eléctrica Peabody — ¿vale el control digital de temperatura?",
+      "Si solo tomás mate a 100°, pagás de más por una pantalla que no vas a usar. Análisis honesto de la Peabody digital.",
+    h1: "Pava eléctrica Peabody: ¿vale el control digital de temperatura?",
     publishedDate: "2026-05-09",
-    updatedDate: "2026-05-09",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "Peabody vende pavas eléctricas con control de temperatura. La pregunta es si eso justifica pagar $70.000 cuando Philips con acero completo cuesta $60.000 y Atma con interior acero cuesta $42.000.",
@@ -2024,7 +2522,7 @@ export const guides: Guide[] = [
           heading: "Peabody PE-DK2200N — Control digital 40-100°C",
           paragraphs: [
             "1.5 litros, control digital 40-100°, pantalla LED touch, doble pared (interior acero, exterior plástico), 2200W. El control funciona bien y la pantalla es clara.",
-            "Pero $70.000 es caro. Son 1.5L (menos que Atma 1.8L o Philips 1.7L), el exterior es plástico, y la función keep warm gasta luz constantemente.",
+            "Pero $70.000 es caro. Son 1.5L (menos que Atma 1.8L o Philips 1.7L), el exterior es plástico, y la función mantener caliente gasta luz constantemente.",
           ],
           ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
         },
@@ -2048,7 +2546,7 @@ export const guides: Guide[] = [
           ["Material", "Interior acero, exterior plástico", "Acero completo"],
           ["Capacidad", "1.5L", "1.7L"],
           ["Control temperatura", "Sí (40-100°)", "No"],
-          ["Keep warm", "2 horas", "No"],
+          ["Mantener caliente", "2 horas", "No"],
           ["Vida útil", "2-3 años", "4-5 años"],
         ],
       },
@@ -2066,7 +2564,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Atma: 1.8L (vs 1.5L Peabody), interior acero, 1500W. Simplemente hierve y corta. Peabody: 2200W + función keep warm que gasta luz constantemente. La pregunta: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando $27.000 por una pantalla.",
+          "Atma: 1.8L (vs 1.5L Peabody), interior acero, 1500W. Simplemente hierve y corta. Peabody: 2200W + función mantener caliente que gasta luz constantemente. La pregunta: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando $27.000 por una pantalla.",
       },
       { type: "h2", title: "Control de temperatura: ¿realmente lo necesitás?" },
       {
@@ -2107,7 +2605,7 @@ export const guides: Guide[] = [
         items: [
           "Pantalla touch pierde sensibilidad después de 1-2 años — problema de hardware",
           "Sensor de temperatura falla raramente pero cuando falla es grave (requiere cambio)",
-          "Función keep warm deja de funcionar después de ~2 años (termostato)",
+          "Función mantener caliente deja de funcionar después de ~2 años (termostato)",
           "Base digital puede fallar ocasionalmente (arreglo: $15K-$20K)",
           "Doble pared acumula condensación con el tiempo (cosmético)",
         ],
@@ -2118,7 +2616,7 @@ export const guides: Guide[] = [
         items: [
           "Tomás té verde o blanco diariamente y necesitás temperaturas 60-80°C",
           "Hacés café de filtro exigente entre 92-96°C (V60, Chemex, Aeropress)",
-          "Tomás varias infusiones en 2 horas (función keep warm real útil)",
+          "Tomás varias infusiones en 2 horas (función mantener caliente real útil)",
           "Tenés presupuesto de $70.000 sin estirar finanzas",
         ],
       },
@@ -2173,6 +2671,8 @@ export const guides: Guide[] = [
       { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1TBSj3K" },
       { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
+      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
@@ -2239,7 +2739,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "1.5L, doble pared (interior acero, exterior plástico), pantalla digital, 7 niveles de temperatura, Keep Warm, 1500W. Los 7 niveles suenan útiles pero son demasiados para uso real — la mayoría solo usa 80° y 100°. Y 1.5L es 200ml menos que la AP175B. La AP175B por $45.900 hace lo necesario por $36.999 menos.",
+          "1.5L, doble pared (interior acero, exterior plástico), pantalla digital, 7 niveles de temperatura, mantener caliente, 1500W. Los 7 niveles suenan útiles pero son demasiados para uso real — la mayoría solo usa 80° y 100°. Y 1.5L es 200ml menos que la AP175B. La AP175B por $45.900 hace lo necesario por $36.999 menos.",
       },
       { type: "h2", title: "AP175B: por qué es la mejor compra" },
       {
@@ -2332,7 +2832,7 @@ export const guides: Guide[] = [
       {
         question: "¿Vale la pena la AP992B premium?",
         answer:
-          "Solo si realmente necesitás 7 niveles de temperatura y Keep Warm. Para la mayoría, la AP175B por $45.900 hace lo necesario por $36.999 menos.",
+          "Solo si realmente necesitás 7 niveles de temperatura y mantener caliente. Para la mayoría, la AP175B por $45.900 hace lo necesario por $36.999 menos.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
@@ -2391,13 +2891,13 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Acero inoxidable, 1.7L, 1850W, 4 niveles de temperatura, pantalla digital LED, función mantener caliente (Keep Warm 30 min). Se ve premium con acabado cromado brillante.",
+          "Acero inoxidable, 1.7L, 1850W, 4 niveles de temperatura, pantalla digital LED, función mantener caliente (mantener caliente 30 min). Se ve premium con acabado cromado brillante.",
       },
       {
         type: "bad",
         title: "Oster 8970 — $93.600",
         content:
-          "Es la pava eléctrica más cara del mercado argentino. [Peabody PE-DK2200N](https://meli.la/2cyQgD2) con control preciso 40-100° y keep warm 2 horas sale $69.433. Son $24.167 menos. No tiene sentido pagar $93.600 por Oster cuando Peabody hace lo mismo por menos.",
+          "Es la pava eléctrica más cara del mercado argentino. [Peabody PE-DK2200N](https://meli.la/2cyQgD2) con control preciso 40-100° y mantener caliente 2 horas sale $69.433. Son $24.167 menos. No tiene sentido pagar $93.600 por Oster cuando Peabody hace lo mismo por menos.",
       },
       { type: "h2", title: "Oster vs Peabody: comparación directa" },
       {
@@ -2422,7 +2922,7 @@ export const guides: Guide[] = [
         rows: [
           ["Precio", "$93.600", "$69.433"],
           ["Control", "4 preset (75/80/90/100°)", "Continuo 40-100°"],
-          ["Keep warm", "30 minutos", "2 horas"],
+          ["Mantener caliente", "30 minutos", "2 horas"],
           ["Potencia", "1850W", "2200W"],
           ["Diferencia", "+$24.167", "—"],
         ],
@@ -2457,7 +2957,7 @@ export const guides: Guide[] = [
           ["$45.900", "Liliana AP175B", "Plástico, función mate 2 niveles ← MEJOR COMPRA"],
           ["$59.602", "Philips HD9350", "Acero completo, dura 5 años"],
           ["$55.999", "Peabody PE-DK1850", "Acero, 4 preset, pantalla"],
-          ["$69.433", "Peabody PE-DK2200N", "Acero, control 40-100°, keep warm 2hr"],
+          ["$69.433", "Peabody PE-DK2200N", "Acero, control 40-100°, mantener caliente 2hr"],
           ["$63.121", "Oster 4970B", "Plástico, 3 niveles ← CARA SIN JUSTIFICACIÓN"],
           ["$93.600", "Oster 8970", "Acero, 4 preset ← MÁS CARA DEL MERCADO"],
         ],
@@ -2473,7 +2973,7 @@ export const guides: Guide[] = [
         items: [
           "Comprá la 4970B por $63.121, no la 8970 por $93.600",
           "Usala solo para mate (75°) y hervir (100°) — el nivel de té a 85° casi no se usa",
-          "No uses Keep Warm constantemente porque gasta luz",
+          "No uses mantener caliente constantemente porque gasta luz",
           "Limpiá con vinagre cada 2-3 meses para prevenir olor a plástico",
           "Esperá que dure 2-3 años (no 5 como Philips)",
         ],
@@ -2665,7 +3165,7 @@ export const guides: Guide[] = [
       "Probé 6 masajeadores de espalda. Tres me aliviaron. Dos no hicieron nada. Cuál sirve según tu dolor.",
     h1: "Masajeador de espalda: cuál sirve para tu dolor",
     publishedDate: "2026-04-24",
-    updatedDate: "2026-04-24",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "Probé seis modelos diferentes. Tres me aliviaron el dolor. Dos no hicieron nada. Uno era tan fuerte que me dejó peor. Te cuento cuál es cuál.",
@@ -2753,6 +3253,21 @@ export const guides: Guide[] = [
       { type: "p", content: "También probé una colchoneta vibradora que se pone en la cama. La vibración era tan suave que apenas la sentía. Dormí encima una siesta y me desperté igual. $15.000 tirados." },
       { type: "p", content: "Si tu problema no es la espalda sino los pies (por estar de pie muchas horas), mirá la guía de [masajeador de pies](/guias/masajeador-pies). Y si buscás algo para la cara, tenemos una [guía de masajeadores faciales](/guias/masajeador-facial) con otra lógica completamente distinta." },
       { type: "warning", content: "Si tenés hernia de disco, espondilolistesis, fracturas, o cualquier problema vertebral, no uses un masajeador sin autorización médica. La presión en la zona equivocada puede empeorar el cuadro." },
+      { type: "h2", title: "Pros y contras de los masajeadores de espalda" },
+      { type: "p", content: "A favor:" },
+      { type: "list", items: [
+        "Alivian la tensión de la espalda en casa, a demanda y sin turno",
+        "Los de asiento cubren toda la espalda, de cervical a lumbar, de una",
+        "El calor afloja la zona y potencia los nodos shiatsu o la vibración",
+        "Salen mucho menos que sesiones repetidas con un masajista",
+      ]},
+      { type: "p", content: "En contra:" },
+      { type: "list", items: [
+        "No reemplazan al kinesiólogo cuando hay una lesión",
+        "Los de asiento ocupan lugar y no son portátiles",
+        "Los de menos de $20.000 vibran flojo y casi no calientan",
+        "Los nodos shiatsu pueden ser intensos al principio: empezá de a poco",
+      ]},
     ],
     faq: [
       { question: "¿Pistola de masaje o almohadilla?", answer: "Depende de cómo lo querés usar. La almohadilla es pasiva: la ponés en la silla y te relajás. La pistola es activa: la agarrás y apuntás donde te duele. Para tensión diaria, almohadilla. Para contracturas puntuales, pistola." },
@@ -3176,7 +3691,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLA23131501", label: "Para los pies", labelColor: "blue", tagline: "Shiatsu con calor y compresión, si estás mucho de pie" },
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840012-MLA108256179513_032026-F.webp", alt: "Masajeador cervical eléctrico inalámbrico Femmto con nodos shiatsu y calor", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_760721-MLA109737749177_032026-F.webp", alt: "Masajeador de pies eléctrico con calor y rodillos, ejemplo de masajeador eléctrico para casa", imageSize: "hero" },
 
       { type: "h2", title: "Los cinco tipos de masajeador eléctrico" },
       { type: "p", content: "Antes de mirar modelos, ubicá tu problema en uno de estos cinco grupos. Casi todo lo que se vende como masajeador eléctrico entra en alguno, y cada uno está pensado para una zona y una sensación distinta. Comprar el tipo correcto resuelve la mitad de la decisión." },
@@ -3330,7 +3845,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLAU274288377", label: "Para la espalda", labelColor: "blue", tagline: "Asiento de vibración que cubre de hombros a muslos" },
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840012-MLA108256179513_032026-F.webp", alt: "Masajeador cervical eléctrico inalámbrico apoyado sobre cuello y hombros", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_781455-MLU76151002922_052024-F.jpg", alt: "Pistola masajeadora de percusión, uno de los tipos de masajeador eléctrico más usados", imageSize: "hero" },
 
       { type: "h2", title: "Qué es un masajeador y para qué sirve" },
       { type: "p", content: "Un masajeador es un aparato que aplica presión, vibración, golpeteo o calor sobre el cuerpo para aliviar la tensión muscular y mejorar la sensación de cansancio o rigidez. La mayoría hoy son eléctricos, aunque también hay manuales (rodillos, pelotas, gua sha). Lo que cambia entre uno y otro no es solo el precio: es la zona que tratan y la sensación que dan." },
@@ -3726,7 +4241,7 @@ export const guides: Guide[] = [
       "Kanji por $17.340 es la más barata con acero. Si tu presupuesto es medio, Peabody DK1850 por $55.999 tiene acero completo y 4 preset de temperatura. Oster 8970 por $93.600 hace exactamente lo mismo que Peabody DK1850 — la diferencia de $37.601 es pura marca.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp", alt: "Liliana AP975B pava de acero con función mate", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp", alt: "Pava eléctrica Philips HD9350 de acero inoxidable SUS304, 1.7 litros", imageSize: "hero" },
       { type: "h2", title: "Las nueve pavas de acero" },
       {
         type: "table",
@@ -3830,7 +4345,7 @@ export const guides: Guide[] = [
         card: {
           heading: "Liliana AP992B Safeheat — $82.899",
           paragraphs: [
-            "Interior acero inoxidable, exterior plástico blanco. 1.5 litros, 1500W, 7 niveles de temperatura, pantalla digital, función Keep Warm.",
+            "Interior acero inoxidable, exterior plástico blanco. 1.5 litros, 1500W, 7 niveles de temperatura, pantalla digital, función mantener caliente.",
             "Consume 1500W vs 2200W de pavas grandes. Hierve un poco más lento — aproximadamente un minuto extra. Tiene 1.5 litros vs 1.7-1.8 de otras.",
             "Es $12.000 más cara que Daewoo. La diferencia: Liliana tiene 7 niveles vs 8 preset de Daewoo, más potencia (1500W vs 800W), pero no tiene infusor profesional.",
           ],
@@ -4847,7 +5362,7 @@ export const guides: Guide[] = [
       `La respuesta no es un sí o un no rotundo. Algunos accesorios mejoran mucho cómo cocinas y cómo sale la comida. Otros son directamente chamuyo. Te cuento qué funciona y qué es al pedo.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_785037-MLA99555415684_122025-F.webp", alt: `Accesorios para freidora de aire moldes papel silicona`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_749040-MLA99953958559_112025-F.webp", alt: `Freidora de aire Peabody con grill, lista para usar con sus accesorios`, imageSize: "hero" },
       { type: "h2", title: `Papel para freidora de aire: la arma de doble filo` },
       { type: "p", content: `Mucha gente lo ve como solución milagrosa. Lo cierto es que el papel ayuda, pero solo si lo usás bien.` },
       { type: "p", content: `Cuándo funciona: el papel para freidora (que es perforado, no cualquier papel) evita que la comida se pegue en la canasta. Si cocinas algo húmedo o con salsa, el papel atrapa la grasa y los derrames no se van directo al fondo de la máquina. También sirve cuando hacés algo empanado y no querés que los pequeños trozos se caigan por los costados.` },
@@ -5271,7 +5786,7 @@ export const guides: Guide[] = [
       `No es para asustarte. Es para que sepas qué te espera si decidís comprar una. Hay desventajas que importan de verdad, y otras que son más un tema de expectativas. Necesitás saber cuáles son cuáles.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_957826-MLU74154693437_012024-F.webp", alt: `Desventajas freidora de aire lo que nadie te dice`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_723285-MLA99522245280_122025-F.webp", alt: `Freidora de aire Gadnic, con las desventajas que conviene saber antes de comprar`, imageSize: "hero" },
       { type: "h2", title: `La capacidad nominal vs la capacidad real` },
       { type: "p", content: `Esto es lo primero que tiene que quedar claro: cuando una freidora dice "5 litros", no significa que cocines 5 litros de comida en un lote.` },
       { type: "p", content: `Una freidora de 5 litros tiene una canasta que físicamente mide eso. Pero si querés que la comida salga bien —crujiente y cocida parejo— no podés llenar la canasta a tope. El aire necesita circular alrededor de todo. Si apilás demasiado, la comida del medio queda al horno y la de los bordes queda quemada.` },
@@ -5386,7 +5901,7 @@ export const guides: Guide[] = [
       `La pregunta aparece en todos lados: ¿compro freidora de aire o qué hago con el horno que tengo? La respuesta depende de lo que cocinás, cuánto cocinás y qué tipo de horno tenés en casa. No es que una sea mejor que la otra. Son aparatos distintos para situaciones distintas.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_785037-MLA99555415684_122025-F.webp", alt: `Freidora de aire vs horno comparativa Argentina`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_738568-MLA99494938658_112025-F.webp", alt: `Freidora de aire Oster Dual, comparada frente al horno tradicional`, imageSize: "hero" },
       { type: "h2", title: `El factor tiempo: freidora gana fácil` },
       { type: "p", content: `Esta es la ventaja más evidente. Una freidora de aire se calienta en 3-5 minutos. Un horno eléctrico tarda 10-15 minutos. Un horno a gas, si está en buenas condiciones, tarda 8-10 minutos.` },
       { type: "p", content: `Si cocinás por las noches cuando recién llegas del laburo, esos 10 minutos de espera son molestosos. Con freidora es: enchufás, esperás 3-4 minutos, metés la comida.` },
@@ -5509,7 +6024,7 @@ export const guides: Guide[] = [
       `Compraste freidora, aprendiste lo básico, ahora querés cocinar algo que valga la pena. Acá van 15 recetas simples, probadas en freidoras normales de mercado argentino. No es ciencia de cohete. Son cosas que cocinás en casa, pero más rápido y menos aceite.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_661695-MLA99473383512_112025-F.webp", alt: `Recetas para freidora de aire Argentina fáciles`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_765339-MLA100081476833_122025-F.webp", alt: `Freidora de aire Peabody 7,2L, una de las recomendadas para estas recetas`, imageSize: "hero" },
       { type: "h2", title: `1. Papas tipo bastón crocantes` },
       { type: "p", content: `Ingredientes:` },
       { type: "list", items: [
@@ -6075,7 +6590,7 @@ export const guides: Guide[] = [
     metaDescription: `Review completa de las freidoras de aire Atma: FR248ABP 8L, Pro FR60AR 6.5L, Grill 6.3L y doble canasta. Cuál comprar según tu hogar. Argentina 2026.`,
     h1: `Freidoras de aire Atma: análisis de los 4 modelos más vendidos en Argentina`,
     publishedDate: "2026-04-18",
-    updatedDate: "2026-04-18",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       `Atma es de esas marcas que están en casi toda cocina argentina. Llevan décadas haciendo electrodomésticos que aguantan, y sus freidoras de aire no son la excepción. En este artículo te cuento qué ofrece cada modelo, dónde andan bien y dónde te pegan con el pualá, así decidís según tu presupuesto y necesidades.`,
@@ -6087,7 +6602,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Este es el modelo que ves en la mayoría de las casas. La cuatrocientas y pico de pesos la pone al alcance de la mayoría, y sinceramente, por esa guita tostás bien.` },
       { type: "p", content: `La capacidad de 8 litros es bastante generosa. Fríes un pollo entero sin quilombo, un par de bandejas de papas fritas, hasta alitas de pollo para toda la familia. El tamaño no es para apartamentos diminutos, pero tampoco es un refrigerador.` },
       { type: "p", content: `El desempeño es confiable. Calienta rápido, 200 grados en menos de 3 minutos, y el aire circula bien sin dejar partes crudas. No te pide demasiado: enchufas, seleccionás tiempo y temperatura, y listo. La bandeja sale con un click, fácil de limpiar.` },
-      { type: "p", content: `Donde baja un poco es en controles. Tiene botones básicos, pantalla simple. Si querés presets o un display fancy, acá no va. Pero la mayoría ni lo necesita. Además, la mayoría de los accesorios genéricos le quedan bien.` },
+      { type: "p", content: `Donde baja un poco es en controles. Tiene botones básicos, pantalla simple. Si querés programas preestablecidos o una pantalla sofisticada, acá no va. Pero la mayoría ni lo necesita. Además, la mayoría de los accesorios genéricos le quedan bien.` },
       { type: "p", content: `El ruido es moderado. No es de esas que suena como un taladro, pero tampoco pasa desapercibida. Si tu cocina da a la sala, algo de ruido vas a escuchar.` },
       { type: "p", content: `Mejor para: Familias de 3 a 5 personas, presupuesto ajustado, quien quiere algo que funcione y punto.` },
       { type: "h2", title: `Atma Pro FR60AR 6.5L: capacidad media, menos consumo` },
@@ -6123,7 +6638,7 @@ export const guides: Guide[] = [
         [`FRD248AP Doble`, `8.5L (2 canastas)`, `Familias grandes, negocios`, `Alto`, `Alto`],
       ]},
       { type: "h2", title: `Dónde comprar y ofertas actuales` },
-      { type: "p", content: `Todos estos modelos los encontrás en Mercado Libre con envío rápido y garantía del vendedor. Los precios varían bastante según épocas, así que te dejo los links actualizados:` },
+      { type: "p", content: `Todos estos modelos los encontrás en Mercado Libre con envío rápido y garantía del vendedor. Los precios varían bastante según épocas, así que te dejo los enlaces actualizados:` },
       { type: "list", items: [
         `[Atma FR248ABP 8L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2UfmcVY)`,
         `[Atma Pro FR60AR 6.5L en Mercado Libre](https://productosvirales.com.arhttps://meli.la/2H5RRoD)`,
@@ -6183,6 +6698,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: `Mejores freidoras de aire en Argentina 2026`, href: "/guias/mejores-freidoras-de-aire-argentina" },
       { label: `Atma vs Peabody: ¿cuál freidora de aire te conviene?`, href: "/guias/atma-vs-peabody-freidora-de-aire" },
+      { label: `Freidoras de aire Philips: cuál es la mejor`, href: "/guias/philips-freidoras-de-aire-review" },
       { label: `Mejores freidoras de aire con doble canasta`, href: "/guias/mejores-freidoras-de-aire-doble-canasta" },
       { label: `Freidoras de aire con función grill en Argentina`, href: "/guias/freidoras-de-aire-con-grill-argentina" },
       { label: `Cómo usar una freidora de aire correctamente`, href: "/guias/como-usar-una-freidora-de-aire" },
@@ -6731,13 +7247,13 @@ export const guides: Guide[] = [
     slug: "philips-freidoras-de-aire-review",
     category: "freidoras-de-aire",
     title: `Freidoras de aire Philips: análisis de los 5 modelos disponibles en Argentina`,
-    seoTitle: `Freidora de aire Philips: cuál conviene en 2026`,
-    metaDescription: `Análisis de las freidoras Philips NA120/00 4.2L, HD9270 6.2L y PHNA35100 doble canasta 9L: precio, rendimiento real, garantía y cuál conviene en Argentina.`,
-    ogTitle: `Freidora de aire Philips: cuál conviene en Argentina (NA120, HD9270, PHNA35100)`,
-    ogDescription: `La marca que inventó el airfryer. Comparamos los modelos Philips disponibles en MercadoLibre Argentina — NA120/00 4.2L, HD9270 6.2L y PHNA35100 doble canasta — con precios reales y veredicto claro.`,
+    seoTitle: `Freidora de aire Philips: cuál es la mejor en Argentina`,
+    metaDescription: `Comparamos las freidoras de aire Philips NA120/00, HD9270 y PHNA35100 doble canasta: precio, rendimiento real, garantía y cuál conviene en Argentina.`,
+    ogTitle: `Freidora de aire Philips: cuál es la mejor en Argentina (NA120, HD9270, PHNA35100)`,
+    ogDescription: `La marca que inventó la freidora de aire. Comparamos los modelos Philips de MercadoLibre Argentina (NA120/00 4.2L, HD9270 6.2L y PHNA35100 doble canasta) con datos reales y veredicto claro.`,
     h1: `Freidoras de aire Philips: cuál comprar en Argentina (2026)`,
     publishedDate: "2026-04-27",
-    updatedDate: "2026-05-26",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       `Philips tiene un lugar especial en esto de las freidoras de aire. Mientras la mayoría de las marcas llegó después, Philips fue la que con su tecnología Rapid Air revolucionó la cocina doméstica allá por 2010. Eso suena a historia antigua, pero importa porque significa que tienen más de una década refinando la idea. En Argentina, sus modelos rondan precios más altos que lo que cuesta un Oster o un Peabody, pero el resultado final en la comida es notablemente diferente.`,
@@ -6752,7 +7268,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `Philips NA12000 4.2L: la opción compacta` },
       { type: "product-card", productMlaId: "MLA61393261", label: "La opción compacta", labelColor: "blue", description: `Modelo de entrada de la línea Philips: 4.2 litros con tecnología Rapid Air, ideal para 1-3 personas. La opción más accesible si tenés cocina chica y querés calidad Philips sin pagar tope de gama.` },
       { type: "p", content: `El NA12000 es el modelo más accesible de la línea. Tiene 4.2 litros de capacidad, lo que significa que cocina porciones para 2-3 personas cómodamente. No es una freidora gigante, pero tampoco diminuta. Usa la tecnología Rapid Air que caracteriza a Philips.` },
-      { type: "p", content: `Lo que ves es un diseño funcional sin pretensiones. La temperatura llega hasta 200°C, tiene timer de 30 minutos y funciona con una única canasta. Si vivís solo o en pareja, este es tu modelo. No vas a cocinar un asado de papas para una cena con amigos, pero para el día a día funciona bien.` },
+      { type: "p", content: `Lo que ves es un diseño funcional sin pretensiones. La temperatura llega hasta 200°C, tiene temporizador de 30 minutos y funciona con una única canasta. Si vivís solo o en pareja, este es tu modelo. No vas a cocinar un asado de papas para una cena con amigos, pero para el día a día funciona bien.` },
       { type: "h3", title: `Philips HD9270 Essential 6.2L: el balance más popular` },
       { type: "product-card", productMlaId: "MLA19630911", label: "El más vendido", labelColor: "green", description: `El Philips que más se ve en cocinas argentinas. 6.2 litros con Rapid Air y controles táctiles. Equilibrio entre precio y capacidad — funciona para 4 personas regularmente sin pagar el tope de la línea.` },
       { type: "p", content: `El HD9270 sube de capacidad a 6.2 litros y mantiene el precio relativamente controlado dentro de la marca. Es el modelo que más ves en las cocinas de gente que compró Philips hace un par de años. Tiene la misma tecnología Rapid Air, toque táctil y canasta simple.` },
@@ -6760,7 +7276,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `Philips HD9280 Essential XL: cuando necesitás volumen` },
       { type: "product-card", productMlaId: "MLA19630913", label: "Para más volumen", labelColor: "purple", description: `Versión XL de la línea Essential: ~8 litros, canasta simple, sin controles inteligentes. Para hogares de 5-6 personas que cocinan en mesada amplia y prefieren simplicidad sobre funciones extras.` },
       { type: "p", content: `El HD9280 sigue siendo canasta simple, pero agrega casi 2 litros más de capacidad respecto al anterior. A este volumen la freidora empieza a ocupar un lugar importante en tu cocina. Las dimensiones son notables. Si tenés espacio en la mesada y cocinas para más de tres personas regularmente, este modelo resuelve bastante.` },
-      { type: "p", content: `Mantiene lo esencial: Rapid Air, funcionalidad directa sin toques inteligentes. Es un aparato robusiano que hace bien su trabajo. No hay conectividad bluetooth ni pantallitas fancy. Cocina, limpiás y guardás.` },
+      { type: "p", content: `Mantiene lo esencial: Rapid Air, funcionalidad directa sin toques inteligentes. Es un aparato robusto que hace bien su trabajo. No hay conectividad bluetooth ni pantallitas innecesarias. Cocina, limpiás y guardás.` },
       { type: "h3", title: `Philips PHNA23100 13-en-1 6.2L: la que promete más` },
       { type: "product-card", productMlaId: "MLA53675940", label: "13 funciones preestablecidas", labelColor: "amber", description: `6.2 litros con 13 programas preconfigurados (papas, pollo, pescado, deshidratar, postres, etc.). La versatilidad es real, no solo marketing — las temperaturas bajas para deshidratar funcionan bien con frutas y verduras.` },
       { type: "p", content: `Este modelo en particular tiene 13 funciones de cocción preestablecidas: papas, pollo, pescado, vegetales, carnes, postres, etc. El tamaño es de 6.2 litros pero la forma es diferente porque Philips lo diseñó para permitir varios tipos de cocinado sin necesidad de ajustar manualmente.` },
@@ -6769,11 +7285,20 @@ export const guides: Guide[] = [
       { type: "product-card", productMlaId: "MLA55779230", label: "Doble canasta + Sync", labelColor: "amber", description: `El máximo del catálogo Philips: 9 litros totales en dos compartimentos independientes con función Sync para terminar ambas preparaciones al mismo tiempo. Para asado, familia grande o quienes reciben gente seguido.` },
       { type: "p", content: `Este es el modelo que te da el máximo de capacidad en la línea Philips. Doble canasta de 9 litros totales, lo que te permite cocinar para un asado tranquilamente. Dos compartimentos independientes significa que cocinas papas en uno y milanesas en el otro al mismo tiempo, cada una a su propia temperatura si querés.` },
       { type: "p", content: `La doble canasta tiene un precio mayor y ocupa bastante espacio, pero cambia el juego si la familia es grande o si recibís gente frecuentemente. La tecnología Rapid Air sigue siendo la que mueve el aire caliente uniformemente en ambas secciones. Este modelo es la inversión más grande de la línea, pero también la que más "freidora" te da.` },
+      { type: "h2", title: `Comparativa rápida de los 5 modelos Philips` },
+      { type: "p", content: `Si querés decidir de un vistazo, esta tabla resume capacidad, panel y para quién rinde cada modelo. El precio va como referencia relativa dentro de la línea Philips (el botón de cada ficha de arriba tiene el valor real verificado en Mercado Libre).` },
+      { type: "table", headers: [`Modelo`, `Capacidad`, `Panel`, `Mejor para`, `Precio relativo`], rows: [
+        [`Philips NA120/00`, `4.2 L`, `Digital simple`, `Solo o pareja`, `Base`],
+        [`Philips HD9270 Essential`, `6.2 L`, `Táctil`, `Familia de 4 (el balance)`, `Medio`],
+        [`Philips HD9280 Essential XL`, `~8 L`, `Simple`, `Hogar de 5-6, simplicidad`, `Medio-alto`],
+        [`Philips PHNA23100 13-en-1`, `6.2 L`, `13 programas`, `Quien quiere programas listos`, `Medio-alto`],
+        [`Philips PHNA35100 Doble`, `9 L (2 canastas)`, `Digital + Sync`, `Familia grande, asado`, `Alto`],
+      ]},
       { type: "h2", title: `Tecnología Rapid Air: qué la diferencia` },
       { type: "p", content: `Acá entra lo técnico, pero sin necesidad de ser ingeniero para entenderlo. La tecnología Rapid Air de Philips hace circular el aire caliente a altísima velocidad alrededor de la comida. El resultado es una cocción más uniforme que en freidoras de aire de otras marcas. Las papas quedan crujientes por todos lados, no tiene esos bordes quemados que a veces aparecen en otras marcas.` },
       { type: "p", content: `Dicho esto, la diferencia es real pero tampoco es la noche y el día. Un Oster o un Peabody también cocina bien. Philips es más consistente, el acabado es superior. Pagás por eso.` },
       { type: "h2", title: `Qué sale bien cocinado en Philips` },
-      { type: "p", content: `Las papas son donde Philips brilla. Papas fritas congeladas, croquetas, empanadas, todo lo que es algo crujiente por fuera. Carnes también. Pollo quedar jugoso por dentro y dorado por fuera es lo normal. Vegetales asados salen muy bien. Las galletitas no se queman en los bordes como en otros modelos.` },
+      { type: "p", content: `Las papas son donde Philips brilla. Papas fritas congeladas, croquetas, empanadas, todo lo que tiene que quedar crujiente por fuera. Carnes también. El pollo queda jugoso por dentro y dorado por fuera, sin esfuerzo. Vegetales asados salen muy bien. Las galletitas no se queman en los bordes como en otros modelos.` },
       { type: "p", content: `Lo que toma práctica en cualquier freidora de aire, incluyendo Philips, es la repostería. Bizcochuelos y cosas así necesitan que aprendas los tiempos. No es culpa de Philips, es de aprender a usar el aparato.` },
       { type: "h2", title: `Servicio técnico y garantía en Argentina` },
       { type: "p", content: `Philips tiene servicio oficial en Argentina, pero acá viene la verdad: está más concentrado en CABA y GBA. Si vivís en Mendoza o Córdoba, puede que te resulte complicado. La garantía es de dos años, lo cual es estándar. Pero conseguir repuestos es más fácil en Buenos Aires que en otros lados.` },
@@ -6781,6 +7306,23 @@ export const guides: Guide[] = [
       { type: "h2", title: `Mantenimiento y durabilidad` },
       { type: "p", content: `Las Philips aguantan mucho. He visto modelos con cinco años de uso que siguen funcionando como el primer día. La construcción es más robusta que en marcas más baratas. El interior antiadherente (según el modelo) dura más. Si la usás con cuidado, la vida útil ronda los 5-7 años sin problemas.` },
       { type: "p", content: `La limpieza depende del modelo. Las canastas son removibles en todos los casos. No son lavavajillas en general, pero lavar a mano es cuestión de minutos.` },
+      { type: "h2", title: `Pros y contras de las freidoras Philips` },
+      { type: "p", content: `A favor:` },
+      { type: "list", items: [
+        `Cocción más uniforme gracias a Rapid Air: papas crujientes parejas, sin los bordes quemados que aparecen en otras marcas`,
+        `Durabilidad real: hay modelos con 5-7 años de uso que siguen andando como el primer día`,
+        `Construcción más robusta y antiadherentes que duran más que en marcas baratas`,
+        `Más de una década refinando la freidora de aire (fue la que la popularizó)`,
+        `Línea completa: desde la compacta de 4.2L hasta la doble canasta de 9L`,
+      ]},
+      { type: "p", content: `En contra:` },
+      { type: "list", items: [
+        `Más cara que Oster, Peabody o Electrolux a igual capacidad`,
+        `Servicio técnico concentrado en CABA y GBA: en el interior conseguir repuestos cuesta más`,
+        `Las funciones preestablecidas son más marketing que necesidad real`,
+        `Ocupan bastante lugar en la mesada, sobre todo los modelos de doble canasta`,
+        `En general no van al lavavajillas: lavado a mano`,
+      ]},
       { type: "h2", title: `Cuál elegir según tu caso` },
       { type: "p", content: `Vivís solo o en pareja sin cocinar mucho: NA12000 4.2L. Suficiente capacidad, precio más bajo, menos espacio ocupado.` },
       { type: "p", content: `Familia de cuatro, cocina regular: HD9270 Essential 6.2L. Es el balance entre precio y capacidad. Lo que vas a gastar es la mejor inversión en la línea.` },
@@ -6788,9 +7330,9 @@ export const guides: Guide[] = [
       { type: "p", content: `Querés funciones preestablecidas y te parece útil: PHNA23100 13-en-1. Tiene su nicho. La capacidad es similar al HD9270, pero te da opciones.` },
       { type: "p", content: `Simplicidad máxima: HD9280 Essential XL. Hace lo que tiene que hacer sin botoneras innecesarias.` },
       { type: "h2", title: `Comparación con otras marcas` },
-      { type: "p", content: `Philips es más cara que Ninja en muchos casos. Ninja cocina muy bien también, especialmente sus modelos doble canasta. Pero Philips tiene más años de refinamiento. La diferencia de precio justifica para muchos, para otros no.` },
-      { type: "p", content: `Versus Oster, Philips gana en consistencia de cocción. Oster tiene mejor presencia de servicio técnico en todo el país y precios más accesibles.` },
-      { type: "p", content: `Versus marcas nacionales (Peabody, Electrolux), Philips es caror pero la durabilidad y el resultado final compensan si tenés presupuesto.` },
+      { type: "p", content: `Philips es más cara que Ninja en muchos casos. Ninja cocina muy bien también, especialmente sus modelos doble canasta. Pero Philips tiene más años de refinamiento. La diferencia de precio se justifica para muchos, para otros no.` },
+      { type: "p", content: `Frente a Oster, Philips gana en consistencia de cocción. Oster tiene mejor presencia de servicio técnico en todo el país y precios más accesibles.` },
+      { type: "p", content: `Frente a las marcas nacionales (Peabody, Electrolux), Philips es más cara, pero la durabilidad y el resultado final compensan si tenés presupuesto.` },
       { type: "p", content: `El verdadero rival de Philips en Argentina es Ninja, no otras marcas. Si decidiste entre esas dos, la pregunta es: cuánto presupuesto tenés y cuánta importancia le das a la durabilidad.` },
     ],
     faq: [
@@ -6816,9 +7358,18 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Es mejor canasta simple o doble?`,
-        answer: `Depende de cuánto cocines y si necesitás versatilidad. Canasta simple es más simple de limpiar y ocupa menos. Doble te permite cocinar dos cosas a la vez a diferentes temperaturas. Si cocinas para más de cuatro personas habitualmente, doble vale la pena. Relacionados que te pueden interesar: - [Mejores freidoras de aire en Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina) - [Philips vs Ninja: cuál freidora de aire elegir](https://productosvirales.com.ar/guias/ninja-vs-philips-freidora-de-aire) - [Mejores freidoras de aire doble canasta](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-doble-canasta) - [Vale la pena comprar freidora de aire](https://productosvirales.com.ar/guias/vale-la-pena-comprar-freidora-de-aire)`,
+        answer: `Depende de cuánto cocines y si necesitás versatilidad. La canasta simple es más fácil de limpiar y ocupa menos. La doble te permite cocinar dos cosas a la vez a distintas temperaturas. Si cocinás para más de cuatro personas habitualmente, la doble vale la pena.`,
       },
     ],
+    internalLinks: [
+      { label: `Mejores freidoras de aire en Argentina 2026`, href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: `Freidoras de aire Atma: los 4 modelos`, href: "/guias/atma-freidoras-de-aire-review" },
+      { label: `Philips vs Ninja: cuál freidora de aire elegir`, href: "/guias/ninja-vs-philips-freidora-de-aire" },
+      { label: `Mejores freidoras de aire con doble canasta`, href: "/guias/mejores-freidoras-de-aire-doble-canasta" },
+      { label: `¿Vale la pena comprar una freidora de aire?`, href: "/guias/vale-la-pena-comprar-freidora-de-aire" },
+      { label: `Cómo usar una freidora de aire correctamente`, href: "/guias/como-usar-una-freidora-de-aire" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
   },
 
   {
@@ -7411,14 +7962,14 @@ export const guides: Guide[] = [
   {
     slug: "mejores-perfumes-arabes-hombre",
     category: "perfumes-arabes",
-    title: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
-    seoTitle: "Mejores perfumes árabes de hombre: top 15 Argentina 2026",
+    title: "Mejores perfumes árabes de hombre en Argentina 2026",
+    seoTitle: "Mejores perfumes árabes de hombre en Argentina 2026",
     metaDescription: "Los 15 mejores perfumes árabes de hombre en Argentina 2026: Asad, 9PM, Khamrah Qahwa y más. Notas, duración real, precios y para quién es cada uno.",
     ogTitle: "Mejores perfumes árabes de hombre 2026: el ranking probado en Argentina",
     ogDescription: "De Asad Intense a Afnan 9PM. Los 15 árabes masculinos que más se venden en Argentina, con duración real, precios y los dupes de los clásicos caros.",
     h1: "Los 15 mejores perfumes árabes para hombre en Argentina (2026)",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-06-16",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El masculino más probado del catálogo: 7.245 reseñas, 4.6⭐ y 13h de duración real." },
@@ -7433,8 +7984,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
-        alt: "Top perfumes árabes de hombre 2026 Argentina, Lattafa Asad Intense y alternativas",
+        src: "/images/perfumes-imagenes/23-Afnan-9PM-100ml-Caballero.webp",
+        alt: "Afnan 9PM, uno de los mejores perfumes árabes de hombre disponibles en Argentina",
         imageSize: "hero"
       },
       {
@@ -7466,6 +8017,17 @@ export const guides: Guide[] = [
         type: "p",
         content: "Y sobre la duración: un perfume árabe decente dura 8 a 12 horas. Si te dura menos de 6, probablemente sea una falsificación o una versión diluida. Pasa, hay que tener cuidado."
       },
+      {
+        type: "h2",
+        title: "Comparativa rápida: los 5 mejores para hombre"
+      },
+      { type: "table", headers: ["Perfume", "Perfil olfativo", "Mejor para", "Precio relativo"], rows: [
+        ["Lattafa Asad Intense", "Amaderado especiado", "El más probado (7.245 reseñas), todo terreno", "Medio"],
+        ["Afnan 9PM", "Dulce ambarino", "Salida de noche", "Bajo-medio"],
+        ["Rasasi Hawas Ice", "Fresco acuático", "Verano y oficina", "Medio-alto"],
+        ["Armaf Club de Nuit Intense Man", "Frutal ahumado (dupe de Aventus)", "Versátil, máxima relación precio-calidad", "Bajo"],
+        ["Bharara King", "Dulce frutal con proyección fuerte", "Quien quiere que lo huelan de lejos", "Medio"],
+      ]},
       {
         type: "h2",
         title: "El ranking"
@@ -7683,7 +8245,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA31178643",
-        description: "La versión café de Khamrah, lanzada en 2023. Eau de Parfum unisex con bergamota, canela, nuez moscada, café oriental, vainilla, ámbar y dátiles. La nota de café lo hace más sofisticado y masculino que el Khamrah clásico. Rating 4.8 con 7.137 reseñas — top 3 del catálogo árabe local. Vegano y libre de crueldad. Estrictamente para invierno y noche: en verano se vuelve insoportable.",
+        description: "La versión café de Khamrah, lanzada en 2023. Eau de Parfum unisex con bergamota, canela, nuez moscada, café oriental, vainilla, ámbar y dátiles. La nota de café lo hace más sofisticado y masculino que el Khamrah clásico. Rating 4.8 con 7.137 reseñas, entre los 3 más vendidos del catálogo árabe local. Vegano y libre de crueldad. Estrictamente para invierno y noche: en verano se vuelve insoportable.",
         ranking: 6
       },
       {
@@ -7887,6 +8449,7 @@ export const guides: Guide[] = [
       },
     ],
     internalLinks: [
+      { label: "Guía completa de perfumes árabes en Argentina", href: "/guias/perfumes-arabes" },
       { label: "Perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
       { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
       { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" }
@@ -7898,12 +8461,12 @@ export const guides: Guide[] = [
     category: "perfumes-arabes",
     title: "Perfumes árabes precio 2026: comparativa por marca Argentina",
     seoTitle: "Perfumes árabes precio 2026: cuánto sale cada marca",
-    metaDescription: "Cuánto cuesta un perfume árabe en Argentina 2026, marca por marca. Lattafa, Afnan, Rasasi y Armaf: qué pagás en cada franja y cuál rinde más por tu plata.",
+    metaDescription: "Cuánto sale un perfume árabe en Argentina 2026: de $16.000 los básicos a $100.000+ los premium. Precios marca por marca y cuál rinde más por tu plata.",
     ogTitle: "Cuánto sale un perfume árabe en Argentina (2026): precios por marca",
     ogDescription: "De los $40.000 de entrada a los premium de $100.000+. La comparativa de precios por marca y concentración, para no pagar de más en tu primer árabe.",
     h1: "Perfumes árabes precio 2026: qué cuesta cada marca en Argentina",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-06-16",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "La pregunta que me llega más seguido es esta: cuánto cuestan realmente los perfumes árabes. Y la respuesta corta es que depende de la marca, la concentración y el importador. La respuesta larga es este artículo, con rangos actualizados a 2026 y lo que conviene para cada presupuesto."
@@ -7930,7 +8493,7 @@ export const guides: Guide[] = [
           ["$35.000 – $50.000", "Núcleo del catálogo (Asad Intense, Yara Tous, Khamrah, Fakhar Woman, Afnan 9PM, Mandarine Sky)"],
           ["$50.000 – $70.000", "Línea media-alta (Yara Elixir, Her Confession, Habik, Mayar, Vintage Radio Pride, Bade'e Al Oud)"],
           ["$70.000 – $90.000", "Premium (Kingdom Man, Hawas Ice, Hawas Black, Emeer Caja con Luces, Erba Pura Árabe)"],
-          ["$100.000+", "Top tier (Armaf Odyssey, Bharara King, Club de Nuit Intense 200ml)"]
+          ["$100.000+", "Gama alta (Armaf Odyssey, Bharara King, Club de Nuit Intense 200ml)"]
         ]
       },
       {
@@ -8018,7 +8581,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "La marca de los dupes. Club de Nuit Intense Man es su referencia. Subió a top tier este año — rango actual $110.000–140.000."
+        content: "La marca de los dupes. Club de Nuit Intense Man es su referencia. Subió a la gama alta este año, rango actual $110.000–140.000."
       },
       {
         type: "list",
@@ -8131,7 +8694,7 @@ export const guides: Guide[] = [
       },
       {
         type: "h2",
-        title: "Tips para no pagar de más"
+        title: "Consejos para no pagar de más"
       },
       {
         type: "p",
@@ -8174,7 +8737,7 @@ export const guides: Guide[] = [
     faq: [
       {
         question: "¿Cuánto cuesta un perfume árabe en Argentina?",
-        answer: "Un frasco de 100 ml bueno va de unos $42.000 a $95.000 según la marca y la concentración. Los sets de descubrimiento, con varias fragancias en 25 ml, rondan los $64.000, y los premium importados pueden superar los $100.000. El sweet spot del nicho, con los productos más validados, está entre los $40.000 y $70.000.",
+        answer: "Un frasco de 100 ml bueno va de unos $42.000 a $95.000 según la marca y la concentración. Los sets de descubrimiento, con varias fragancias en 25 ml, rondan los $64.000, y los premium importados pueden superar los $100.000. El punto justo del nicho, con los productos más validados, está entre los $40.000 y $70.000.",
       },
       {
         question: "¿Por qué los perfumes árabes son más baratos que los occidentales?",
@@ -8192,19 +8755,27 @@ export const guides: Guide[] = [
         question: "¿Los precios de los perfumes árabes cambian seguido?",
         answer: "Sí, bastante. Dependen del tipo de cambio y de la competencia entre importadores, así que un mismo perfume puede variar de mes a mes y entre vendedores. Tomá los rangos de esta guía como referencia y confirmá el precio del día en la publicación antes de comprar.",
       },
-    ]
+    ],
+    internalLinksTitle: "Guías relacionadas",
+    internalLinks: [
+      { label: "Guía completa de perfumes árabes en Argentina", href: "/guias/perfumes-arabes" },
+      { label: "Perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Mejores perfumes árabes de hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" },
+    ],
   },
   {
     slug: "perfumes-arabes-amaderados",
     category: "perfumes-arabes",
     title: "Perfumes árabes amaderados: top 10 con oud y madera",
     seoTitle: "Perfumes árabes amaderados: top 10 con oud y madera",
-    metaDescription: "Los mejores perfumes árabes amaderados 2026 en Argentina. Fragancias con oud, sándalo y maderas nobles. Análisis con notas.",
+    metaDescription: "Descubrí los mejores perfumes árabes amaderados 2026 en Argentina: oud, sándalo y maderas nobles. Notas, para quién es cada uno y cuál conviene comprar.",
     ogTitle: "Perfumes árabes amaderados: top 10 con oud y madera",
-    ogDescription: "Los mejores perfumes árabes amaderados 2026 en Argentina. Fragancias con oud, sándalo y maderas nobles. Análisis con notas.",
+    ogDescription: "Los mejores perfumes árabes amaderados 2026 en Argentina. Fragancias con oud, sándalo y maderas nobles, con notas y veredicto honesto.",
     h1: "Perfumes árabes amaderados: los 10 mejores con oud y madera",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-04-17",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLAU3798337289", label: "Nuestra elección", labelColor: "green", tagline: "Bourbon + tabaco + maderas nobles. Versátil de día y de noche." },
@@ -8222,6 +8793,14 @@ export const guides: Guide[] = [
         src: "/images/perfumes-imagenes/03-AsadBourbonMarron-100ml.webp",
         alt: "Perfumes árabes amaderados top 10 con oud y madera 2026",
         imageSize: "hero"
+      },
+      {
+        type: "h2",
+        title: "¿Cuál es el mejor perfume árabe amaderado?"
+      },
+      {
+        type: "p",
+        content: "Si querés uno solo, el Lattafa Asad Bourbon es el más versátil: arranca frutal y cierra en madera noble con bourbon y tabaco, así que sirve de día y de noche. Si buscás oud real, andá por el Maahir Legacy. Para algo formal de oficina, el Qaed Al Fursan. Abajo está el top 10 completo con notas y para quién es cada uno."
       },
       {
         type: "h2",
@@ -8341,6 +8920,17 @@ export const guides: Guide[] = [
       },
       {
         type: "h2",
+        title: "Comparativa rápida: los amaderados más recomendados"
+      },
+      { type: "table", headers: ["Perfume", "Notas principales", "Mejor para", "Precio relativo"], rows: [
+        ["Lattafa Asad Bourbon", "Bourbon, tabaco, maderas nobles", "Versátil, día y noche", "Medio"],
+        ["Lattafa Maahir Legacy", "Oud real, ámbar gris", "Premium, noche e invierno", "Alto"],
+        ["Lattafa Qaed Al Fursan", "Cuero, sándalo, especias", "Oficina, ámbito formal", "Bajo-medio"],
+        ["Maison Alhambra Sceptre Malachite", "Verde amaderado, menta, sándalo", "Oficina y salida", "Bajo"],
+        ["Rasasi Hawas Black", "Oud, pachulí, ámbar", "Noche e invierno", "Medio-alto"],
+      ]},
+      {
+        type: "h2",
         title: "Cuál elegir según el contexto"
       },
       {
@@ -8377,19 +8967,52 @@ export const guides: Guide[] = [
         content: "Y la [guía general de perfumes árabes](/guias/perfumes-arabes) te pone el contexto del nicho completo."
       }
     ],
-    faq: []
+    faq: [
+      {
+        question: "¿Qué es el oud y por qué huele tan fuerte?",
+        answer: "El oud (o agarwood) es la resina que produce el árbol Aquilaria cuando lo infecta un hongo específico. Es una de las materias primas más caras de la perfumería y aporta un olor denso, animal y amaderado. En los árabes bien hechos aparece equilibrado con maderas y ámbar; en los flojos puede quedar medicinal o avinagrado.",
+      },
+      {
+        question: "¿Los perfumes árabes amaderados son unisex?",
+        answer: "Muchos sí. Las maderas y el oud funcionan en cualquier piel, y la perfumería árabe tiene una tradición vieja de fragancias fluidas entre géneros. De esta lista, el Bade'e Al Oud Noble Blush figura como femenino pero rinde en hombre, y el Asad Bourbon o el Sceptre Malachite los usa cualquiera.",
+      },
+      {
+        question: "¿Cuánto dura un amaderado árabe en la piel?",
+        answer: "Entre 8 y 12 horas en la mayoría de los casos, bastante más que un occidental promedio. Las maderas y las resinas son notas pesadas que se evaporan lento. Si te dura menos de 6 horas, sospechá de una falsificación o una versión diluida.",
+      },
+      {
+        question: "¿Cuál es el mejor amaderado árabe para empezar?",
+        answer: "El Asad Bourbon es la puerta de entrada más segura: es amaderado pero arranca frutal y dulce, así que no asusta a quien nunca usó oud. El Habik For Men, más dulce y juvenil, también es buen primer amaderado. Dejá el Hawas Black o el Maahir Legacy para cuando ya tengas el paladar hecho.",
+      },
+      {
+        question: "¿En qué época del año conviene usar un amaderado?",
+        answer: "Rinden mejor en otoño e invierno: el frío potencia las maderas y las resinas. En primavera y verano conviene ir a los más livianos del perfil, como el Sceptre Malachite o el Kingdom Man. Un Hawas Black o un Maahir en pleno enero puede volverse pesado.",
+      },
+      {
+        question: "¿Por qué un amaderado árabe cuesta tanto menos que un nicho europeo?",
+        answer: "Porque se fabrican en Medio Oriente con acceso directo a la materia prima, sin licencias de marcas de moda ni el gasto en marketing global de una casa europea. No es menor calidad: muchos usan alta concentración de aceite. Pagás el jugo, no la campaña.",
+      },
+    ],
+    internalLinksTitle: "Guías relacionadas",
+    internalLinks: [
+      { label: "Guía completa de perfumes árabes en Argentina", href: "/guias/perfumes-arabes" },
+      { label: "Mejores perfumes árabes de hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Perfumes árabes y sus dupes", href: "/guias/perfumes-arabes-dupes" },
+    ],
   },
   {
     slug: "perfumes-arabes-mujer",
     category: "perfumes-arabes",
     title: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
-    seoTitle: "Perfumes árabes para mujer: las 12 mejores fragancias 2026",
-    metaDescription: "Las 12 mejores fragancias árabes para mujer 2026. Cuál es el mejor perfume árabe de mujer según tu perfil, con precios reales y análisis honesto.",
+    seoTitle: "Perfume árabe para mujer: las 12 mejores fragancias 2026",
+    metaDescription: "Descubrí las 12 mejores fragancias árabes para mujer 2026: cuál es el mejor perfume árabe de mujer según tu perfil, con precios reales y análisis honesto.",
     ogTitle: "Perfumes árabes para mujer: las 12 fragancias que están explotando en TikTok (2026)",
     ogDescription: "De Yara Elixir a Sabah Al Ward. Las fragancias árabes femeninas más virales en MercadoLibre Argentina, con análisis honesto, precios reales y para quién es cada una.",
     h1: "Perfumes árabes para mujer: las 12 fragancias más deseadas (2026)",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-06-16",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
@@ -8414,8 +9037,19 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Si tenés que elegir uno solo, el Lattafa Yara Elixir es el más completo: dulce con cítricos, dura 8 horas y es el que más se viralizó en Argentina. Si querés algo más fresco para verano, el Yara Tous (mango, coco, vainilla). Si arrancás en perfumes árabes y no querés gastar mucho, Sabah Al Ward es la mejor puerta de entrada. Abajo está la lista completa con las 12 opciones top."
+        content: "Si tenés que elegir uno solo, el Lattafa Yara Elixir es el más completo: dulce con cítricos, dura 8 horas y es el que más se viralizó en Argentina. Si querés algo más fresco para verano, el Yara Tous (mango, coco, vainilla). Si arrancás en perfumes árabes y no querés gastar mucho, Sabah Al Ward es la mejor puerta de entrada. Abajo está la lista completa con las 12 mejores opciones."
       },
+      {
+        type: "h2",
+        title: "Comparativa rápida: las 5 más recomendadas"
+      },
+      { type: "table", headers: ["Perfume", "Perfil olfativo", "Mejor para", "Precio relativo"], rows: [
+        ["Lattafa Yara Elixir", "Dulce con cítricos", "La más completa, todo el año", "Medio-alto"],
+        ["Lattafa Yara Tous", "Tropical frutal (mango, coco, vainilla)", "Verano y uso de día", "Medio"],
+        ["Her Confession", "Gourmand dulce (praliné, vainilla)", "Noche y ocasión especial", "Alto"],
+        ["Lattafa Khamrah", "Especiado dulce (canela, dátil)", "Otoño-invierno, principiantes", "Medio"],
+        ["Sabah Al Ward", "Floral accesible", "Empezar con poco presupuesto", "Bajo"],
+      ]},
       {
         type: "h2",
         title: "¿Por qué elegir árabe en vez de occidental?"
@@ -8721,6 +9355,7 @@ export const guides: Guide[] = [
       },
     ],
     internalLinks: [
+      { label: "Guía completa de perfumes árabes en Argentina", href: "/guias/perfumes-arabes" },
       { label: "Perfumes árabes amaderados (oud y madera)", href: "/guias/perfumes-arabes-amaderados" },
       { label: "Yara Lattafa: Elixir, Tous y cuál comprar", href: "/guias/yara-lattafa-guia-completa" },
       { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
@@ -8740,7 +9375,7 @@ export const guides: Guide[] = [
     ogDescription: "Marcas, precios, dupes y trampas. Lo que aprendí después de probar el nicho durante 2 años en Argentina.",
     h1: "Perfumes árabes en Argentina: la guía honesta para empezar (2026)",
     publishedDate: "2026-04-27",
-    updatedDate: "2026-06-16",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     standfirst: "Después de dos años explorando el nicho, esto es lo que me hubiera gustado saber al principio. Marcas, precios reales, dupes legítimos y las trampas que te pueden hacer perder dinero.",
     quickPicks: [
@@ -8817,13 +9452,13 @@ export const guides: Guide[] = [
         headers: ["Rango (ARS)", "Qué encontrás", "Ejemplo"],
         rows: [
           ["$16.000-35.000", "Sets de descubrimiento, básicos accesibles", "Set 4 perfumes unisex, Qaed Al Fursan"],
-          ["$35.000-50.000", "Núcleo del catálogo — sweet spot principiantes", "Asad Intense, Yara Tous, Khamrah Qahwa"],
+          ["$35.000-50.000", "Núcleo del catálogo — punto justo principiantes", "Asad Intense, Yara Tous, Khamrah Qahwa"],
           ["$50.000-70.000", "Línea media-alta", "Yara Elixir, Her Confession, Habik"],
           ["$70.000-100.000", "Premium", "Hawas Ice, Bharara King, Hawas Black"],
           ["$100.000+", "Top tier", "Club de Nuit Intense 200ml, Armaf Odyssey"]
         ]
       },
-      { type: "p", content: "Si nunca probaste un árabe, el sweet spot está en el rango **$35.000-50.000**. Productos validados con miles de reseñas, perfiles representativos del nicho, y si no te gusta perdiste menos que en una salida a comer. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información." },
+      { type: "p", content: "Si nunca probaste un árabe, el punto justo está en el rango **$35.000-50.000**. Productos validados con miles de reseñas, perfiles representativos del nicho, y si no te gusta perdiste menos que en una salida a comer. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información." },
       { type: "p", content: "Para profundizar en precios reales de cada marca, [acá está el desglose completo](/guias/perfumes-arabes-precio-argentina)." },
       { type: "product-card", productMlaId: "MLA22234109", variant: "compact", label: "Entry-level masculino", labelColor: "blue", description: "El árabe más barato decente del catálogo: $30.051. Aromatic-fougère versátil para hombres que arrancan." },
       { type: "product-card", productMlaId: "MLA40521028", variant: "compact", label: "Entry-level femenino", labelColor: "blue", description: "El Yara para verano: $42.545. Mango, coco, jazmín y vainilla cremosa. Más fresco y accesible que Yara Elixir." },
@@ -8924,7 +9559,7 @@ export const guides: Guide[] = [
       },
       {
         question: "¿Vale la pena pagar más de $100.000 por un árabe?",
-        answer: "Solo si ya probaste varios y sabés exactamente qué perfil querés. El sweet spot del nicho está en el rango $35.000-70.000: ahí están los productos más validados con mejor relación calidad/precio. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información. Productos como Club de Nuit Intense Man 200ml ($139.000) tienen sentido cuando ya conocés el segmento, no cuando arrancás."
+        answer: "Solo si ya probaste varios y sabés exactamente qué perfil querés. El punto justo del nicho está en el rango $35.000-70.000: ahí están los productos más validados con mejor relación calidad/precio. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información. Productos como Club de Nuit Intense Man 200ml ($139.000) tienen sentido cuando ya conocés el segmento, no cuando arrancás."
       },
       {
         question: "¿Qué es un perfume árabe y por qué es más barato que uno occidental?",
@@ -8939,8 +9574,12 @@ export const guides: Guide[] = [
       { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
       { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
       { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" },
+      { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
       { label: "Perfumes árabes amaderados", href: "/guias/perfumes-arabes-amaderados" },
-      { label: "Precios reales en Argentina", href: "/guias/perfumes-arabes-precio-argentina" }
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+      { label: "Perfumes árabes y sus dupes", href: "/guias/perfumes-arabes-dupes" },
+      { label: "Precios reales en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
+      { label: "Dónde comprar perfumes árabes en Argentina", href: "/guias/donde-comprar-perfumes-arabes-argentina" }
     ]
   },
   {
@@ -8955,7 +9594,7 @@ export const guides: Guide[] = [
       "Lattafa, Afnan y Rasasi se hicieron virales en Argentina y con eso llegó más oferta y más riesgo. Las señales claras que separan un original de una imitación.",
     h1: "Perfumes árabes originales: cómo reconocerlos antes de comprar (2026)",
     publishedDate: "2026-05-26",
-    updatedDate: "2026-05-26",
+    updatedDate: "2026-06-26",
     hasDisclosure: true,
     intro: [
       "Los perfumes árabes se volvieron masivos en Argentina, y eso trajo dos cosas al mismo tiempo: mejores precios y más riesgo de comprar mal. Cuando un Lattafa, un Afnan o un Rasasi se hace viral, aparecen publicaciones dudosas, cajas raras, precios demasiado bajos y vendedores que no explican de dónde sale el producto.",
@@ -9586,8 +10225,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
-        alt: "Lattafa Yara Elixir, la fragancia árabe femenina más vendida en Argentina",
+        src: "/images/perfumes-imagenes/16-Lattafa-KhamrahQahwa-100ml.webp",
+        alt: "Lattafa Khamrah Qahwa, una de las fragancias de la marca árabe Lattafa más vendidas en Argentina",
         imageSize: "hero"
       },
       {
@@ -9917,8 +10556,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
-        alt: "Perfumes árabes ordenados por color del envase en Argentina: Yara dorado, Yara Tous rosa, Khamrah marrón",
+        src: "/images/perfumes-imagenes/18-MaisonAlhambra-SceptreMalachite-100ml.webp",
+        alt: "Maison Alhambra Sceptre Malachite, frasco verde: ejemplo de perfumes árabes identificados por el color del envase",
         imageSize: "hero"
       },
       {
@@ -10219,8 +10858,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/09-Asad-LattafaIntense-Hombre.webp",
-        alt: "Perfumes árabes dupes en Argentina: Asad Intense, Club de Nuit Intense Man, Hawas Ice y sus originales occidentales",
+        src: "/images/perfumes-imagenes/33-Armaf-ClubDeNuitIntenseMan-200ml.webp",
+        alt: "Armaf Club de Nuit Intense Man, el dupe árabe más conocido del Creed Aventus, junto a otros perfumes árabes y sus originales",
         imageSize: "hero"
       },
       {
@@ -10483,8 +11122,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
-        alt: "Top perfumes árabes más vendidos en Argentina: Hawas Ice, Asad Intense, Khamrah Qahwa, Yara Candy",
+        src: "/images/perfumes-imagenes/15-Lattafa-Mayar-100ml.webp",
+        alt: "Lattafa Mayar, uno de los perfumes árabes más vendidos en Argentina",
         imageSize: "hero"
       },
       {
@@ -10945,8 +11584,8 @@ export const guides: Guide[] = [
     sections: [
       {
         type: "image",
-        src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
-        alt: "Dónde comprar perfumes árabes en Buenos Aires: locales físicos en CABA, perfumerías Palermo, importadores AMBA",
+        src: "/images/perfumes-imagenes/35-Lattafa-Emeer-CajaConLuces-100ml.webp",
+        alt: "Perfume árabe Lattafa Emeer en su caja, a la venta en perfumerías de Buenos Aires",
         imageSize: "hero"
       },
       {
@@ -11609,7 +12248,7 @@ export const guides: Guide[] = [
       { type: "p", content: `El [S20](https://meli.la/18CB1Wa) se ubica un escalón arriba del S40c en prestaciones: mantiene el mapeo, suma comando de voz y trabaja mejor sobre alfombras. Está pensado para quien quiere comodidad extra —pedirle por voz que arranque— sin irse al precio del tope de gama.` },
       { type: "callout", calloutVariant: "note", calloutTitle: `Ojo con el nombre`, content: `El "S20" robot aspirador NO es lo mismo que las aspiradoras de mano que aparecen en las mismas búsquedas. Si lo que querés es un robot que ande solo por el piso, este es el correcto; las de mano son otra categoría.` },
   
-      { type: "h3", title: `3. Xiaomi S40 Pro 15.000 Pa — el sweet spot de la marca` },
+      { type: "h3", title: `3. Xiaomi S40 Pro 15.000 Pa — el punto justo de la marca` },
       { type: "product-card", productMlaId: "MLA66281403", label: "Mejor relación precio-calidad", labelColor: "green", ranking: 3, description: `15.000 Pa de succión —el número más alto de toda la línea Xiaomi— y brazos extensibles que llegan a los rincones, por menos de lo que sale el X20 Pro. Si tenés alfombras, mascotas o una casa mediana, este es el que recomendamos para la mayoría.` },
       { type: "p", content: `Acá está, para nosotros, el mejor robot Xiaomi para la mayoría de la gente. El [S40 Pro](https://meli.la/117oW5y) declara **15.000 Pa de succión**, que es el número más alto de toda la línea, incluso por encima de modelos que cuestan el doble. Esa potencia es la que hace que levante pelo de mascota incrustado en alfombras y migas en las uniones del piso, no solo el polvo de superficie.` },
       { type: "p", content: `Sumale los brazos extensibles, que se estiran para barrer los rincones y los bordes contra la pared —el punto débil clásico de los robots redondos—, y tenés un equipo que limpia de verdad. Cuesta bastante menos que el X20 Pro y el X20 Max, y para el 90% de las casas argentinas no vas a notar lo que te perdés de los premium.` },
@@ -11652,7 +12291,7 @@ export const guides: Guide[] = [
       { type: "h2", id: "cual-elegir", title: `Entonces, ¿cuál Xiaomi comprás?` },
       { type: "list", items: [
         `**Departamento o monoambiente, piso duro, sin mascotas:** [S40c E101](https://meli.la/16WtjsG). Te sobra y entrás al ecosistema Mi Home gastando lo mínimo.`,
-        `**Casa mediana con alfombras y/o mascotas:** [S40 Pro 15.000 Pa](https://meli.la/117oW5y). Es el sweet spot de la marca y nuestra recomendación general.`,
+        `**Casa mediana con alfombras y/o mascotas:** [S40 Pro 15.000 Pa](https://meli.la/117oW5y). Es el punto justo de la marca y nuestra recomendación general.`,
         `**Querés algo más que lo básico pero sin saltar al premium:** [S20](https://meli.la/18CB1Wa), con comando de voz y buen rendimiento en alfombras.`,
         `**Casa grande de dos plantas, querés navegación fina y batería que aguante:** [X20 Pro D102GL](https://meli.la/2ViGUz3).`,
         `**Querés directamente lo mejor de Xiaomi y tenés escaleras:** [X20 Max](https://meli.la/1Jsg7hm), tope de gama con sensor anticaída.`,
@@ -11966,7 +12605,7 @@ export const guides: Guide[] = [
       `En esta guía te explicamos cada parte sin chamuyo: navegación, aspirado, trapeado, sensores, batería y el mantenimiento real (el que nadie te cuenta en la publicidad). Al final te dejamos dos ejemplos concretos del catálogo argentino y las guías para elegir modelo. Vamos por partes.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_608905-MLA99516871408_112025-F.jpg", alt: `Robot aspiradora Atma funcionando sobre piso de un departamento`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_695909-MLA99448480886_112025-F.webp", alt: `Robot aspiradora Midow funcionando sobre el piso de un departamento`, imageSize: "hero" },
   
       { type: "h2", id: "que-es", title: `Qué es una aspiradora robot (y qué no es)` },
       { type: "p", content: `Una aspiradora robot es un electrodoméstico autónomo, redondo o en forma de D, de unos 7 a 10 cm de alto, que limpia el piso solo. Se mueve sin que lo empujes, esquiva muebles, baja la potencia o la sube según el modelo y vuelve a su base a cargar. La idea es simple: programás que limpie todos los días a las 10 de la mañana mientras estás en el laburo, y volvés a una casa más limpia sin haber tocado nada.` },
@@ -12096,7 +12735,7 @@ export const guides: Guide[] = [
         { productMlaId: `MLA66281403`, label: `Mejor potencia`, labelColor: `purple`, tagline: `15.000 Pa y brazo extensible para alfombras` },
       ],
       sections: [
-        { type: `image`, src: `https://http2.mlstatic.com/D_NQ_NP_2X_757562-MLA98254774359_112025-F.webp`, alt: `Gadnic AC800, la mejor aspiradora robot en general, con navegación LiDAR y base de autovaciado`, imageSize: `hero` },
+        { type: `image`, src: `https://http2.mlstatic.com/D_NQ_NP_2X_646110-MLA96422826488_102025-F.webp`, alt: `Xiaomi Robot Vacuum S40c, una de las mejores aspiradoras robot para empezar en Argentina`, imageSize: `hero` },
   
         {
           type: `trust-block`,
@@ -12178,7 +12817,7 @@ export const guides: Guide[] = [
           type: `list`,
           items: [
             `Tenés menos de $250.000 → Fika Nexos (mascotas, lo más vendido) o Atma (marca nacional). Kärcher si no querés app.`,
-            `Tenés entre $300.000 y $550.000 → acá está el sweet spot. Xiaomi S40c para arrancar bien, o Gadnic AC800 si querés LiDAR y autovaciado de una.`,
+            `Tenés entre $300.000 y $550.000 → acá está el punto justo. Xiaomi S40c para arrancar bien, o Gadnic AC800 si querés LiDAR y autovaciado de una.`,
             `Tenés más de $900.000 → Xiaomi S40 Pro por la potencia, o subí a Roomba/Samsung si querés marca premium.`,
           ],
         },
@@ -12404,7 +13043,7 @@ export const guides: Guide[] = [
         `Las probamos contra el resto del catálogo y acá te decimos, sin vueltas, cuál de las dos tiene sentido, para quién, y cuándo te conviene una Xiaomi oficial que sale una fracción.`,
       ],
       sections: [
-        { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_711355-MLA100039491353_122025-F.jpg", alt: "Robot aspiradora Samsung Jet Bot+ con estación de autovaciado Clean Station", imageSize: "hero" },
+        { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_887717-MLA95656398372_102025-F.jpg", alt: "Aspiradora robot Samsung Powerbot E 2 en 1, otro de los modelos Samsung en Argentina", imageSize: "hero" },
         {
           type: "trust-block",
           trustVariant: "methodology",
@@ -12740,7 +13379,7 @@ export const guides: Guide[] = [
         `Comparamos los modelos reales de cada marca que se venden hoy en MercadoLibre, ronda por ronda, con los pros y las contras de cada lado sobre la mesa. Si ya sabés qué te importa más —plata, app, service o potencia— al final tenés la respuesta directa.`,
       ],
       sections: [
-        { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_757562-MLA98254774359_112025-F.webp", alt: `Robot aspiradora Gadnic AC800 con base de autovaciado en un living argentino`, imageSize: "hero" },
+        { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_877835-MLA100061229999_122025-F.jpg", alt: `Xiaomi Robot Vacuum S20, el lado Xiaomi de la comparativa Gadnic vs Xiaomi`, imageSize: "hero" },
   
         { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los modelos de Gadnic y Xiaomi que se consiguen hoy en MercadoLibre Argentina y los enfrentamos por las cosas que cambian la experiencia real, no por el marketing: tipo de navegación (LiDAR de verdad vs giroscópica), calidad y idioma de la app, precio por lo que efectivamente trae, service y repuestos locales, y qué tan bien trapea o levanta pelo de mascota. Cuando un producto tiene calificaciones públicas en MercadoLibre, las citamos tal cual; no inventamos números. No tenemos preferencia de marca: nos pagan los links de afiliado, no Gadnic ni Xiaomi.` },
   
@@ -13604,7 +14243,7 @@ export const guides: Guide[] = [
       `Para cada sistema elegimos un solo representante, el más probado de su categoría en MercadoLibre Argentina. Si después querés profundizar, cada sección enlaza a la guía completa de ese sistema.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg", alt: `Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS, la cafetera más vendida de MercadoLibre Argentina`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_611727-MLA100054728735_122025-F.jpg", alt: `Cafetera espresso Oster Perfect Brew con molinillo, una opción al elegir qué cafetera comprar`, imageSize: "hero" },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** elegimos el representante de cada sistema por base de calificaciones públicas en MercadoLibre Argentina, no por comisión ni por novedad. Los precios son de junio 2026 y los revisamos periódicamente. Las estimaciones de costo por taza usan precios de café molido y cápsulas de venta online en Argentina a la misma fecha, y las citas de compradores son textuales.` },
 
