@@ -13964,9 +13964,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: de cuántos pocillos`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Pocillos`, `Material`, `Ideal para`], rows: [
-        [`[Volturno Clásica 12](https://www.mercadolibre.com.ar/p/MLA29464859?matt_tool=12465328&matt_word=productosvirales)`, `$126.333`, `12`, `Aluminio`, `Café para varios, la más probada`],
-        [`[Volturno Ebano 6](https://www.mercadolibre.com.ar/p/MLA53927506?matt_tool=12465328&matt_word=productosvirales)`, `$116.638`, `6`, `Aluminio antiadherente`, `Uso diario de 1 a 3 personas`],
-        [`[Volturno Ebano 9](https://www.mercadolibre.com.ar/p/MLA53925844?matt_tool=12465328&matt_word=productosvirales)`, `$132.969`, `9`, `Aluminio antiadherente`, `Tamaño medio con diseño`],
+        [`[Volturno Clásica 12](https://meli.la/2CNfobr)`, `$126.333`, `12`, `Aluminio`, `Café para varios, la más probada`],
+        [`[Volturno Ebano 6](https://meli.la/1Gja5GB)`, `$116.638`, `6`, `Aluminio antiadherente`, `Uso diario de 1 a 3 personas`],
+        [`[Volturno Ebano 9](https://meli.la/2FRvGw8)`, `$132.969`, `9`, `Aluminio antiadherente`, `Tamaño medio con diseño`],
       ] },
 
       { type: "h2", title: `Cómo elegir una cafetera italiana`, id: "como-elegir" },
@@ -13979,7 +13979,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una cafetera italiana en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$115.000 a $135.000:** la franja de Volturno con respaldo. La [Ebano 6](https://www.mercadolibre.com.ar/p/MLA53927506?matt_tool=12465328&matt_word=productosvirales) para uso diario, la [Ebano 9](https://www.mercadolibre.com.ar/p/MLA53925844?matt_tool=12465328&matt_word=productosvirales) tamaño medio y la [Clásica 12](https://www.mercadolibre.com.ar/p/MLA29464859?matt_tool=12465328&matt_word=productosvirales) para varios.`,
+        `**$115.000 a $135.000:** la franja de Volturno con respaldo. La [Ebano 6](https://meli.la/1Gja5GB) para uso diario, la [Ebano 9](https://meli.la/2FRvGw8) tamaño medio y la [Clásica 12](https://meli.la/2CNfobr) para varios.`,
         `**Por debajo de $60.000:** aparecen muchas italianas genéricas de aluminio sin marca. Funcionar, funcionan, pero la junta y el filtro son difíciles de reponer y el acabado es más basto. Por unos pesos más, una Volturno te dura años y conseguís repuestos.`,
         `**Acero inoxidable / inducción:** suele costar bastante más que el aluminio. Solo lo necesitás si tu cocina es de inducción; si es a gas o eléctrica, el aluminio rinde igual por menos.`,
       ] },
@@ -13989,10 +13989,10 @@ export const guides: Guide[] = [
     ],
     faq: [
       { question: `¿Qué es una cafetera italiana o moka?`, answer: `Es una cafetera de hornalla de tres partes que hace café por presión de vapor: el agua va abajo, el café molido en el medio y el café ya hecho sube arriba. No usa electricidad ni cápsulas. Da un café concentrado e intenso, tipo italiano, ideal para tomar solo o como base de un café con leche. En Argentina también se la llama greca o moka.` },
-      { question: `¿De cuántos pocillos conviene comprar la cafetera italiana?`, answer: `Según cuántos tomen. Para una o dos personas, 6 pocillos (la [Volturno Ebano 6](https://www.mercadolibre.com.ar/p/MLA53927506?matt_tool=12465328&matt_word=productosvirales)); para tres o cuatro, 9; para varios o una casa de mucho café, 12 (la [Volturno Clásica 12](https://www.mercadolibre.com.ar/p/MLA29464859?matt_tool=12465328&matt_word=productosvirales)). No compres más grande "por las dudas": la italiana rinde mejor llena, y si preparás de menos el café sale flojo.` },
+      { question: `¿De cuántos pocillos conviene comprar la cafetera italiana?`, answer: `Según cuántos tomen. Para una o dos personas, 6 pocillos (la [Volturno Ebano 6](https://meli.la/1Gja5GB)); para tres o cuatro, 9; para varios o una casa de mucho café, 12 (la [Volturno Clásica 12](https://meli.la/2CNfobr)). No compres más grande "por las dudas": la italiana rinde mejor llena, y si preparás de menos el café sale flojo.` },
       { question: `¿La cafetera italiana hace espresso?`, answer: `Hace un café fuerte y concentrado tipo italiano, pero no es el espresso de una cafetera de bar. Una express de bomba trabaja a 9 bar y saca crema densa; la moka genera mucha menos presión, así que da un café rico e intenso pero sin esa crema. Si querés crema de espresso, mirá la [guía de cafeteras express](/guias/cafetera-express).` },
       { question: `¿La cafetera italiana de aluminio sirve para inducción?`, answer: `No. Las italianas de aluminio no funcionan en cocinas de inducción porque el aluminio no es magnético. Para inducción necesitás una cafetera italiana de acero inoxidable apta para ese tipo de cocina. En hornalla a gas o eléctrica común, el aluminio anda perfecto, y es lo más vendido por precio y conducción del calor.` },
-      { question: `¿Qué marca de cafetera italiana es mejor en Argentina?`, answer: `Volturno es la marca de referencia: está hace décadas en el país, tiene la mayor base de opiniones y, clave, repuestos (junta, filtro, manija) que se consiguen en cualquier lado y baratos. La [Volturno Clásica](https://www.mercadolibre.com.ar/p/MLA29464859?matt_tool=12465328&matt_word=productosvirales) es la más probada. Las genéricas sin marca son más baratas pero cuesta reponerles las partes que se gastan.` },
+      { question: `¿Qué marca de cafetera italiana es mejor en Argentina?`, answer: `Volturno es la marca de referencia: está hace décadas en el país, tiene la mayor base de opiniones y, clave, repuestos (junta, filtro, manija) que se consiguen en cualquier lado y baratos. La [Volturno Clásica](https://meli.la/2CNfobr) es la más probada. Las genéricas sin marca son más baratas pero cuesta reponerles las partes que se gastan.` },
       { question: `¿Cómo se limpia y cuida una cafetera italiana?`, answer: `Se enjuaga con agua y se seca, sin detergente fuerte ni lavavajillas, para no picar el aluminio ni sacarle el curado que mejora el sabor con el uso. La junta de goma y el filtro se gastan con el tiempo y conviene cambiarlos cada tanto: en una Volturno son repuestos baratos y fáciles de conseguir. Bien cuidada, una italiana de aluminio dura años.` },
     ],
     internalLinks: [
