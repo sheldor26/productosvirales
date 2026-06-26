@@ -4,21 +4,22 @@
 
 ## Cola de indexación (orden por prioridad)
 
-Las 13 de abajo ya están **en vivo** y listas para pedir indexación. Con DA bajo conviene mandarlas **de a una** (una cada 1-2 días). Marcá la casilla cuando la pidas en Search Console.
+Las 14 de abajo ya están **en vivo** y listas para pedir indexación. Con DA bajo conviene mandarlas **de a una** (una cada 1-2 días). Marcá la casilla cuando la pidas en Search Console.
 
 1. [ ] `cafetera-italiana` — 27.100/mes · la de más volumen del sitio
-2. [ ] `licuadora-portatil` — 5.400/mes
-3. [ ] `licuadora-philips` — 4.400/mes
-4. [ ] `licuadora-oster` — 3.600/mes
-5. [ ] `sillon-masajeador` — 2.900/mes
-6. [ ] `licuadora-de-mano` — 2.400/mes
-7. [ ] `cafetera-de-capsulas` — 1.900/mes
-8. [ ] `licuadora-atma` — 1.600/mes
-9. [ ] `cafetera-liliana` — 1.000/mes
-10. [ ] `cafetera-automatica` — 1.000/mes
-11. [ ] `suono-airfryer-review` — 880/mes
-12. [ ] `que-cafetera-comprar` — 90/mes · pilar de decisión (poco volumen propio, mucho valor de enlazado)
-13. [ ] `freidora-de-aire-desventajas` — 10/mes · captura de cola larga
+2. [ ] `khamrah-lattafa` — 12.100/mes · dificultad alta (52), pero volumen enorme
+3. [ ] `licuadora-portatil` — 5.400/mes
+4. [ ] `licuadora-philips` — 4.400/mes
+5. [ ] `licuadora-oster` — 3.600/mes
+6. [ ] `sillon-masajeador` — 2.900/mes
+7. [ ] `licuadora-de-mano` — 2.400/mes
+8. [ ] `cafetera-de-capsulas` — 1.900/mes
+9. [ ] `licuadora-atma` — 1.600/mes
+10. [ ] `cafetera-liliana` — 1.000/mes
+11. [ ] `cafetera-automatica` — 1.000/mes
+12. [ ] `suono-airfryer-review` — 880/mes
+13. [ ] `que-cafetera-comprar` — 90/mes · pilar de decisión (poco volumen propio, mucho valor de enlazado)
+14. [ ] `freidora-de-aire-desventajas` — 10/mes · captura de cola larga
 
 > Regla práctica: una URL cada 1-2 días. Mandar todas juntas en un dominio con autoridad baja es la señal que hace que Google dude en indexar.
 
@@ -59,6 +60,14 @@ Keywords: "desventajas freidora de aire" (informacional, capta dudas pre-compra:
 | https://productosvirales.com.ar/guias/sillon-masajeador | Media | 2026-06-26 | — | — | — | — |
 
 Keywords: sillón masajeador 2.900/mes (dificultad 13). Ranking por tipo (cuerpo completo Gadnic / reclinable Majestic / silla oficina Nictom / premium Melfit). 4 fichas importadas via API ML con links de afiliado propios. Estado: **publicada 2026-06-26**.
+
+## Silo: perfumes árabes
+
+| URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
+|---|---|---|---|---|---|---|
+| https://productosvirales.com.ar/guias/khamrah-lattafa | Alta | 2026-06-26 | — | — | — | — |
+
+Keywords: khamrah 12.100/mes (dificultad 52, alta). Original vs Qahwa (la de café). 2 fichas: original MLA22845568 (4.327 reseñas, link propio) + Qahwa MLA31178643 (ficha existente reutilizada). Nota: dificultad alta por DA bajo, pero es la veta de fragancias virales individuales (Bharara King, etc. quedan como próximas). Estado: **publicada 2026-06-26**.
 
 ## Silo: cafeteras
 
