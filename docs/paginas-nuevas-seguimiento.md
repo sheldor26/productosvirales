@@ -13,8 +13,8 @@
 
 | URL | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo optimización | Notas |
 |---|---|---|---|---|---|---|
-| https://productosvirales.com.ar/guias/licuadora-portatil | — | — | — | — | — | Satélite. Keyword "licuadora portátil" (5.400/mes, pico verano 8.100). Capta también "licuadora ninja". |
-| https://productosvirales.com.ar/guias/licuadora-oster | — | — | — | — | — | Satélite. Keyword "licuadora oster" (3.600/mes). Comparativa Classic vs Xtreme. |
-| https://productosvirales.com.ar/guias/licuadora-philips | — | — | — | — | — | Satélite. Keyword "licuadora philips" (4.400/mes). |
-| https://productosvirales.com.ar/guias/licuadora-de-mano | — | — | — | — | — | Satélite. Keyword "licuadora de mano" (2.400/mes). |
-| https://productosvirales.com.ar/guias/licuadora-atma | — | — | — | — | — | Satélite. Keyword "licuadora atma" (1.600/mes). |
+| https://productosvirales.com.ar/guias/licuadora-portatil | 2026-06-26 | — | — | — | — | Satélite. Keyword "licuadora portátil" (5.400/mes, pico verano 8.100). Capta también "licuadora ninja". |
+| https://productosvirales.com.ar/guias/licuadora-oster | 2026-06-26 | — | — | — | — | Satélite. Keyword "licuadora oster" (3.600/mes). Comparativa Classic vs Xtreme. |
+| https://productosvirales.com.ar/guias/licuadora-philips | 2026-06-26 | — | — | — | — | Satélite. Keyword "licuadora philips" (4.400/mes). |
+| https://productosvirales.com.ar/guias/licuadora-de-mano | 2026-06-26 | — | — | — | — | Satélite. Keyword "licuadora de mano" (2.400/mes). |
+| https://productosvirales.com.ar/guias/licuadora-atma | 2026-06-26 | — | — | — | — | Satélite. Keyword "licuadora atma" (1.600/mes). |
