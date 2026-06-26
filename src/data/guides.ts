@@ -7681,6 +7681,97 @@ export const guides: Guide[] = [
   },
   // GRUPO: PERFUMES ÁRABES (Lote 1 - 5 artículos)
   {
+    slug: "khamrah-lattafa",
+    category: "perfumes-arabes",
+    title: `Khamrah Lattafa: original, Qahwa y cuál comprar (2026)`,
+    seoTitle: `Khamrah Lattafa: Original, Qahwa y Cuál Comprar 2026`,
+    metaDescription: `Conocé Khamrah de Lattafa, el gourmand árabe viral: original vs Qahwa, notas, duración real y precio en Argentina. Mirá cuál conviene.`,
+    ogTitle: `Khamrah Lattafa: original vs Qahwa, cuál comprar`,
+    ogDescription: `El gourmand árabe dulce que reventó TikTok. Original o Qahwa (la de café): notas, duración real, precio en Argentina y para quién es cada uno. Guía honesta.`,
+    h1: `Khamrah Lattafa: la guía honesta del gourmand árabe (original vs Qahwa)`,
+    publishedDate: "2026-06-26",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Khamrah es el perfume árabe dulce de invierno que más se vende en Argentina, con miles de calificaciones. Pero hay dos: el original y el Qahwa, la versión con café. Te contamos a qué huele cada uno, cuánto dura de verdad, para quién es y cuál conviene, con precio real de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA22845568", label: "El clásico de invierno", labelColor: "amber", tagline: "Khamrah original: dátil, canela y vainilla, el gourmand dulce con más de 4.300 opiniones" },
+      { productMlaId: "MLA31178643", label: "La versión con café", labelColor: "purple", tagline: "Khamrah Qahwa: suma café tostado, más sobrio y adictivo, con 2.400 opiniones" },
+    ],
+    intro: [
+      `Khamrah es de esos perfumes que se hicieron virales y se quedaron por mérito propio. Lattafa lo lanzó en 2022 y hoy es el gourmand árabe dulce más vendido de Argentina: el original junta más de 4.300 calificaciones en MercadoLibre, una barbaridad para el nicho. Es dulce, especiado y cálido, pensado para el frío.`,
+      `El lío al comprar es que hay dos versiones que se confunden: el **Khamrah original** y el **Khamrah Qahwa**, la variante con café. No huelen igual ni son para lo mismo. Acá te contamos a qué huele cada uno, cuánto dura de verdad, para quién es y para quién no, y cómo no comprar un falso, que de Khamrah hay muchos dando vueltas.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_974342-MLA111154952966_052026-F.jpg", alt: `Perfume Lattafa Khamrah EDP 100ml, el gourmand árabe dulce más vendido en Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo evaluamos:** cruzamos la pirámide olfativa oficial de Lattafa con las calificaciones públicas de compradores en MercadoLibre Argentina, donde Khamrah tiene una de las bases de opiniones más grandes del nicho árabe. Miramos lo que define la compra: el **perfil de aroma**, la **duración y proyección** reales, la **temporada** ideal y cómo distinguir un original de un falso. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Qué es Khamrah`, id: "que-es" },
+      { type: "p", content: `Lattafa es una casa de perfumes de Emiratos Árabes Unidos, la marca que metió los perfumes árabes en el mapa masivo. Khamrah es uno de sus gourmand estrella: un perfume **dulce, especiado y avainillado**, con dátil y canela al frente. La palabra "khamrah" remite a algo embriagador, y va con el perfil: es envolvente y cálido, de esos que se sienten "ricos" apenas los olés.` },
+      { type: "p", content: `Se volvió viral por tres cosas concretas. El precio: ronda los $50.000, contra perfumes nicho de perfil parecido (tipo los gourmand especiados caros) que salen cinco o diez veces más. La duración: aguanta gran parte del día en piel y al otro día seguís oliéndolo en la ropa. Y el perfil "para todos": dulce sin ser infantil, que funciona en hombres y mujeres. Es unisex de verdad.` },
+
+      { type: "h2", title: `A qué huele Khamrah`, id: "notas" },
+      { type: "p", content: `El original abre con **canela y nuez moscada** sobre un toque de bergamota, entra a un corazón de **praliné, dátil y nardo**, y cierra en un fondo de **vainilla, haba tonka, benjuí y mirra**. Traducido: arranca especiado, se pone dulce a dátil y caramelo, y termina en una vainilla cálida y resinosa. La imagen que más se repite para describirlo es "torta de canela con dátiles", y es bastante exacta.` },
+      { type: "p", content: `Es un perfume de **otoño e invierno**, noche y eventos. Para quién es: si te gustan los dulces gourmand, los aromas cálidos y que el perfume se note, Khamrah es de los mejores por su precio. Para quién no: si buscás algo fresco, liviano o de oficina en verano, te va a resultar pesado. Y es honesto avisarlo, porque es su mayor crítica: en ambientes cerrados o con mano pesada, puede volverse **empalagoso**. Con dos o tres aplicaciones alcanza y sobra.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Regla rápida con Khamrah", content: `Aplicá poco. Khamrah proyecta fuerte y dura mucho, así que con dos o tres sprays tenés perfume para todo el día. Pasarte de cantidad es lo que lo vuelve invasivo. Es para frío y para la noche, no para un mediodía de verano en una oficina chica.` },
+
+      { type: "h2", title: `Khamrah original vs Khamrah Qahwa`, id: "ranking" },
+      { type: "p", content: `Esta es la duda que trae a la mayoría. "Qahwa" significa **café** en árabe, y ahí está toda la diferencia: el Qahwa toma la base dulce del original y le suma una nota de **café tostado** que lo vuelve más sobrio y menos azucarado. No es mejor ni peor, es otro perfil. Estos son los dos, cuál es cuál.` },
+
+      { type: "h3", title: `1. Khamrah original — el gourmand dulce` },
+      { type: "product-card", productMlaId: "MLA22845568", label: "El clásico de invierno", labelColor: "amber", ranking: 1, description: `El Khamrah de siempre: dátil, canela, praliné y vainilla. Dulce, cálido y con mucha duración. 4.8 estrellas en más de 4.300 calificaciones, la base de opiniones más grande del nicho.` },
+      { type: "p", content: `Es el que recomendamos si entrás por primera vez a Khamrah. Es el más **dulce y postre**: el dátil y el praliné mandan, con la canela dándole el toque especiado y la vainilla cerrando cálido. Es el perfil que se hizo viral, el que la mayoría busca cuando dice "quiero el Khamrah". Tiene la enorme base de opiniones que lo respalda: más de 4.300 calificaciones con 4.8 estrellas.` },
+      { type: "p", content: `La pega es justamente su dulzura: para algunos es demasiado, sobre todo en verano o si no te van los gourmand. Pero para frío y noche, por este precio, es difícil de superar. Si te gustan los aromas dulces y cálidos, empezá por el original.` },
+
+      { type: "h3", title: `2. Khamrah Qahwa — la versión con café` },
+      { type: "product-card", productMlaId: "MLA31178643", label: "La versión con café", labelColor: "purple", ranking: 2, description: `El original más una nota de café tostado: más sobrio, menos azucarado y muy adictivo. 4.8 estrellas en más de 2.400 calificaciones.` },
+      { type: "p", content: `Si el original te parece demasiado dulce, o querés algo un poco más "de grande", el Qahwa es tu Khamrah. La nota de **café tostado** corta el azúcar del dátil y le da un aire más serio y envolvente, sin perder la calidez de la base de vainilla y haba tonka. Mucha gente que arrancó por el original termina prefiriendo el Qahwa por eso: dulce pero con más carácter.` },
+      { type: "p", content: `Comparte todo lo bueno del original (duración, proyección, precio bajo) y suma matices. Tiene menos opiniones que el original, pero igual son más de 2.400, así que está sobradamente probado. La elegís si el café te suma y querés diferenciarte del Khamrah más común.` },
+
+      { type: "h2", title: `Tabla comparativa: original vs Qahwa`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Versión`, `Precio`, `Nota que la define`, `Perfil`, `Reseñas`], rows: [
+        [`[Khamrah original](https://meli.la/2sBMfk2)`, `$51.000`, `Dátil y canela`, `Dulce gourmand, tipo postre`, `4.8 (4.327)`],
+        [`[Khamrah Qahwa](https://meli.la/1B8Vwwf)`, `$48.137`, `Café tostado`, `Dulce pero más sobrio`, `4.8 (2.432)`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir entre original y Qahwa`, id: "como-elegir" },
+      { type: "h3", title: `1. Cuánto dulce bancás` },
+      { type: "p", content: `Es la decisión clave. Si te gustan los perfumes dulces, postre, sin culpa: **original**. Si el dulce intenso te marea o querés algo más serio para usar más seguido: **Qahwa**, que el café equilibra el azúcar. Los dos son cálidos y de invierno, la diferencia está en cuánto pesa el dulzor.` },
+      { type: "h3", title: `2. Cuándo y dónde lo vas a usar` },
+      { type: "p", content: `Los dos son de **otoño-invierno y noche**. Para eventos, salidas o frío, cualquiera de los dos rinde. Si lo querés para usar también de día o en ambientes de trabajo, el Qahwa es un poco más llevadero por ser menos azucarado, pero igual aplicá poco: ninguno de los dos es un perfume liviano de verano.` },
+      { type: "h3", title: `3. El precio casi no mueve la aguja` },
+      { type: "p", content: `Salen prácticamente lo mismo (alrededor de $48.000 a $51.000 los 100 ml), así que el precio no debería decidir. Elegí por aroma, no por unos pesos de diferencia. Los dos dan una relación precio-calidad que en perfumería tradicional no se consigue: duración de gama alta por precio de gama baja.` },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Ojo con los Khamrah falsos", content: `Khamrah es tan vendido que hay muchas falsificaciones. Señales de un falso: tapa floja o de plástico berreta, líquido demasiado transparente (el original tiene un tono ambarino), etiqueta o caja con impresión borrosa, y proyección y duración muy por debajo de lo esperado. Comprá siempre de **vendedores con buena reputación** en MercadoLibre y revisá estos detalles al recibirlo.` },
+
+      { type: "h2", title: `Cuánto cuesta Khamrah en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$48.000 a $51.000 (100 ml):** la franja normal de ambos. El [Khamrah original](https://meli.la/2sBMfk2) y el [Qahwa](https://meli.la/1B8Vwwf), de vendedores con reputación. Es el precio justo para un EDP de esta duración.`,
+        `**Mucho más barato que eso:** desconfiá. Un Khamrah de 100 ml muy por debajo de los $40.000 suele ser falso, recargado o un decant (fracción) que no aclara que no es el frasco completo.`,
+        `**Decants (5 a 10 ml):** si no querés arriesgar el frasco entero sin probarlo, un decant chico te deja conocerlo por poca plata antes de comprar los 100 ml. Buena opción para decidir entre original y Qahwa.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál Khamrah comprar`, id: "veredicto" },
+      { type: "verdict", content: `Si querés el Khamrah viral, el dulce de postre que todos nombran, andá al **original**: dátil, canela y vainilla, con la mayor base de opiniones del nicho (más de 4.300, 4.8★) y un precio que para esa duración es regalado. Si el dulce intenso no es lo tuyo, o querés algo más sobrio y con carácter, el **Qahwa** suma café tostado y equilibra el azúcar, sin perder nada de lo bueno. Los dos son de frío y noche, los dos proyectan fuerte (aplicá poco), y los dos salen casi lo mismo: elegí por aroma. Y comprá de vendedor con reputación, que de Khamrah hay muchos falsos.` },
+    ],
+    faq: [
+      { question: `¿A qué huele Khamrah de Lattafa?`, answer: `A un gourmand dulce y especiado: abre con canela y nuez moscada, tiene un corazón de dátil y praliné, y cierra en vainilla, haba tonka y mirra. La descripción más común es "torta de canela con dátiles": cálido, dulce y envolvente. Es un perfume de otoño-invierno y noche. El [Khamrah original](https://meli.la/2sBMfk2) es el más dulce; el [Qahwa](https://meli.la/1B8Vwwf) suma café y es más sobrio.` },
+      { question: `¿Cuánto dura Khamrah en la piel?`, answer: `Es de los más duraderos en su rango de precio: entre 8 y 12 horas en piel según el tipo de piel y la cantidad aplicada, y al día siguiente todavía se siente en la ropa. Proyecta fuerte, así que con dos o tres sprays alcanza; pasarse de cantidad es lo que lo vuelve invasivo en ambientes cerrados.` },
+      { question: `¿Khamrah original o Khamrah Qahwa, cuál es mejor?`, answer: `Depende de cuánto dulce te guste. El [original](https://meli.la/2sBMfk2) es más dulce, tipo postre, con el dátil y el praliné al frente: es el viral, el que la mayoría busca. El [Qahwa](https://meli.la/1B8Vwwf) le suma café tostado, lo que lo hace más sobrio y menos azucarado. Si te gustan los dulces intensos, el original; si querés algo con más carácter, el Qahwa.` },
+      { question: `¿Khamrah es para hombre o para mujer?`, answer: `Es unisex de verdad. El perfil gourmand dulce-especiado funciona igual de bien en hombres y mujeres, y así lo usan los compradores. No es un perfume marcadamente masculino ni femenino: es cálido y envolvente, y cada uno lo lleva a su manera.` },
+      { question: `¿Khamrah sirve para verano?`, answer: `No es su fuerte. Es un perfume cálido, dulce y de mucha proyección, pensado para otoño, invierno y noche. En verano o en ambientes cerrados puede volverse pesado y empalagoso. Si lo querés igual para días templados, aplicá muy poco. Para algo fresco de verano, mejor buscá otro perfil.` },
+      { question: `¿Cómo sé si mi Khamrah es original y no falso?`, answer: `Khamrah tiene muchas falsificaciones por lo vendido que es. Señales de un falso: tapa floja o de plástico de mala calidad, líquido demasiado transparente (el original es ligeramente ambarino), impresión borrosa en etiqueta o caja, y duración o proyección muy por debajo de lo esperado. Comprá de [vendedores con buena reputación](https://meli.la/2sBMfk2) en MercadoLibre y revisá estos detalles al recibirlo.` },
+    ],
+    internalLinks: [
+      { label: "Perfumes árabes: la guía completa para empezar", href: "/guias/perfumes-arabes" },
+      { label: "Lattafa: guía de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+    ],
+    internalLinksTitle: "Más perfumes árabes",
+  },
+
+  {
     slug: "yara-lattafa-guia-completa",
     category: "perfumes-arabes",
     title: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
