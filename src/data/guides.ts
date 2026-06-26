@@ -28,6 +28,187 @@ export function findGuideByPath(path: string[]): Guide | undefined {
 
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
+  // PILAR estufas-electricas — silo climatizacion (/guias/climatizacion/...)
+  // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "estufas-electricas",
+    category: "climatizacion",
+    silo: "climatizacion",
+    pillar: true,
+    title: `Estufas eléctricas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Estufas Eléctricas 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué estufa eléctrica comprar en Argentina: caloventor, cuarzo o halógena, cuánto consumen de verdad y cuál conviene. Compará las mejores.`,
+    ogTitle: `Estufas eléctricas: cuál comprar en Argentina`,
+    ogDescription: `Caloventor, cuarzo o halógena: qué calienta mejor, cuánto consume cada una y cuál conviene según tu ambiente. La guía honesta de estufas eléctricas, con precios reales.`,
+    h1: `Estufas eléctricas: cuál comprar en Argentina y cuánto consumen [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Las estufas eléctricas calientan al instante y no necesitan instalación, pero consumen, y mucho. Te mostramos los tres tipos (caloventor, cuarzo y halógena), cuál conviene según tu ambiente y cuánto gastan de verdad, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA34782966", label: "La más vendida", labelColor: "green", tagline: "Caloventor Liliana: calienta un ambiente rápido, con más de 1.500 opiniones" },
+      { productMlaId: "MLA36753510", label: "La más barata", labelColor: "blue", tagline: "Estufa de cuarzo de dos niveles: calor radiante directo por poca plata" },
+      { productMlaId: "MLA68346857", label: "Calor instantáneo", labelColor: "purple", tagline: "Estufa halógena Winco: calienta a una persona apenas la prendés" },
+    ],
+    intro: [
+      `La estufa eléctrica es la calefacción más simple y barata de comprar: la enchufás y calienta, sin instalación, sin gas, sin obra. Por eso es la salida rápida cuando llega el frío. Pero tiene una contra que conviene saber antes de comprar, no después de ver la factura: **consumen mucha electricidad**. Ninguna estufa eléctrica es "de bajo consumo" de verdad; esa es la pega que casi nadie te dice.`,
+      `Dicho eso, son ideales para lo que son: calentar un ambiente puntual, un rato, sin complicarte. En esta guía vemos los **tres tipos** que se venden en Argentina (caloventor, cuarzo y halógena), qué calienta mejor cada uno, cuánto gastan y cuál conviene según tu caso, con modelos que tienen ventas y opiniones reales en MercadoLibre.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_721404-MLA99518615302_112025-F.jpg", alt: `Caloventor Liliana Heatcolor, la estufa eléctrica más vendida en Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las estufas eléctricas con ventas y opiniones reales en MercadoLibre Argentina, descartando las genéricas sin respaldo. Priorizamos lo que define el uso: el **tipo de calor** (aire forzado vs. radiante), el **consumo** real, para qué **ambiente** sirve cada una y las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Los tres tipos de estufa eléctrica`, id: "tipos" },
+      { type: "p", content: `El **caloventor** (o termoventilador) tiene una resistencia y un ventilador que empuja aire caliente. Calienta el ambiente entero rápido, pero reseca el aire y hace ruido. La **estufa de cuarzo** usa tubos que dan calor radiante: no calienta el aire, calienta lo que tiene enfrente (como el sol), es silenciosa y barata. La **halógena** es parecida al cuarzo pero con lámparas halógenas: calor infrarrojo instantáneo y direccional, ideal para calentar a una persona al toque.` },
+      { type: "p", content: `Ninguno es mejor en abstracto: depende de qué necesites. Para calentar un cuarto entero, el caloventor. Para calor puntual y barato mientras estás sentado, cuarzo o halógena. Lo que tienen en común las tres es el consumo: todas convierten electricidad en calor con la misma eficiencia, así que la potencia (los watts) manda en la factura, no el tipo.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Mito del \"bajo consumo\"", content: `Cuidado con las que se venden como "bajo consumo". Toda estufa eléctrica de resistencia consume prácticamente lo mismo por cada watt de calor: una de 2000 W gasta 2 kWh por hora, le pongas la etiqueta que le pongas. Lo que baja la factura es usar **menos potencia y menos tiempo**, o calentar solo la zona donde estás (ahí ganan la cuarzo y la halógena).` },
+
+      { type: "h2", title: `Las mejores estufas eléctricas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Caloventor Liliana Heatcolor — la más vendida` },
+      { type: "product-card", productMlaId: "MLA34782966", label: "La más vendida", labelColor: "green", ranking: 1, description: `Caloventor de aire caliente forzado: calienta rápido un ambiente chico o mediano. 4.6 estrellas en más de 1.500 calificaciones, la estufa eléctrica más probada del catálogo.` },
+      { type: "p", content: `Es la que recomendamos para la mayoría, por una razón simple: calienta el **ambiente entero** y rápido, que es lo que casi todos buscan. El ventilador reparte el aire caliente, así que en pocos minutos se siente en todo el cuarto, no solo enfrente. Liliana es marca conocida con respaldo en el país, y este modelo es lejos el más vendido de la categoría, con más de 1.500 opiniones que lo avalan.` },
+      { type: "p", content: `Las contras, para ser honestos: **reseca el aire** (conviene un recipiente con agua cerca si lo usás mucho) y **hace ruido** por el ventilador, así que para dormir puede molestar. Y como todo caloventor, a máxima potencia consume bastante. Para living, cocina o un cuarto donde querés calor parejo y rápido, es la opción más sensata y la de mejor respaldo.` },
+
+      { type: "h3", title: `2. Estufa de cuarzo horizontal — la más barata` },
+      { type: "product-card", productMlaId: "MLA36753510", label: "La más barata", labelColor: "blue", ranking: 2, description: `Estufa de cuarzo de dos niveles (600/1200 W): calor radiante directo, silencioso y económico. 4.2 estrellas en 163 calificaciones. La entrada más barata a la calefacción eléctrica.` },
+      { type: "p", content: `Si querés gastar poco y calentar de manera puntual, esta es la opción. La estufa de cuarzo da **calor radiante**: no calienta el aire, te calienta a vos y lo que tiene enfrente, como el sol en invierno. Es **silenciosa** (no tiene ventilador) y la más barata de la guía, alrededor de $26.000. Los dos niveles (600 y 1200 W) te dejan regular cuánto calor y cuánto consumo querés.` },
+      { type: "p", content: `Lo que tenés que entender: **no calienta el ambiente entero**, calienta la zona hacia donde apunta. Es perfecta al lado del escritorio, del sillón o de la cama, no para templar un cuarto grande. A favor del bolsillo: en nivel bajo (600 W) consume la mitad. Para calor directo, barato y sin ruido, cumple de sobra.` },
+
+      { type: "h3", title: `3. Estufa halógena Winco — calor instantáneo` },
+      { type: "product-card", productMlaId: "MLA68346857", label: "Calor instantáneo", labelColor: "purple", ranking: 3, description: `Estufa halógena de calor infrarrojo direccional: calienta a una persona apenas la prendés. 4.7 estrellas en 71 calificaciones.` },
+      { type: "p", content: `Es la del calor más **inmediato**. Las lámparas halógenas dan calor infrarrojo que sentís al instante, sin esperar a que el aire se temple. Como la de cuarzo, es radiante y direccional: calienta a quien tiene enfrente. Winco es marca con respaldo, y este modelo mantiene 4.7 estrellas. Ideal para el baño mientras te bañás, o para calentarte rápido al sentarte.` },
+      { type: "p", content: `La contra: como toda halógena y cuarzo, **no es para calentar un ambiente grande**, sino una zona o una persona. Y las lámparas halógenas se gastan con los años (son reemplazables). Para calor puntual instantáneo, sin ruido y sin esperar, es la más rápida de las tres. Si en cambio querés templar todo un cuarto, volvé al caloventor.` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, consumo y para quién`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Calienta`, `Ideal para`], rows: [
+        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `$49.799`, `Caloventor`, `El ambiente entero, rápido`, `Templar un cuarto (con algo de ruido)`],
+        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `$25.886`, `Cuarzo (radiante)`, `La zona de enfrente`, `Calor puntual barato y silencioso`],
+        [`[Estufa halógena Winco W173](https://meli.la/175r65T)`, `$32.000`, `Halógena (infrarroja)`, `A una persona, al instante`, `Calor inmediato y direccional`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir una estufa eléctrica`, id: "como-elegir" },
+      { type: "h3", title: `1. El ambiente: cuarto entero o zona puntual` },
+      { type: "p", content: `Es la primera decisión. Si querés templar **un ambiente entero** (living, dormitorio), necesitás aire forzado: un **caloventor**. Si querés calor **puntual** sobre vos (escritorio, sillón, cama, baño), te conviene calor radiante: **cuarzo o halógena**, que gastan apuntando solo a donde estás. Comprar un cuarzo esperando que caliente todo el cuarto es el error más común.` },
+      { type: "h3", title: `2. El consumo: la potencia manda` },
+      { type: "p", content: `Acá no hay magia: el consumo lo define la **potencia en watts**, no el tipo ni la marca. Una estufa de 2000 W gasta 2 kWh por hora; una de 1200 W, 1,2 kWh. Por eso conviene una con **niveles de potencia** (como la de cuarzo de 600/1200 W): usás el mínimo que te alcance. Y por eso el calor direccional (cuarzo, halógena) suele salir más barato de usar: calentás a la persona, no al aire de todo el cuarto.` },
+      { type: "h3", title: `3. Ruido y aire: detalles que importan` },
+      { type: "p", content: `Si la vas a usar para dormir, el **caloventor hace ruido** de ventilador y reseca el aire: puede molestar. La cuarzo y la halógena son **silenciosas** y no resecan, pero no mueven el aire caliente. Si el ruido o el aire seco te importan, inclínate por las radiantes; si lo que pesa es calentar rápido todo el cuarto, el caloventor.` },
+
+      { type: "h2", title: `Cuánto cuesta (y cuánto consume) una estufa eléctrica [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$25.000 a $35.000:** la franja de entrada. La [estufa de cuarzo](https://meli.la/2mpDeng) y la [halógena Winco](https://meli.la/175r65T), para calor puntual y barato.`,
+        `**$45.000 a $55.000:** caloventores con respaldo. El [Liliana Heatcolor](https://meli.la/2vbeANw), el más vendido, para templar un ambiente.`,
+        `**El costo real es la luz, no el aparato:** una estufa eléctrica de 2000 W usada varias horas por día suma bastante a la factura. Para uso intensivo todo el invierno, conviene evaluar calefacción a gas; la eléctrica brilla en uso puntual y como apoyo.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál estufa eléctrica comprar`, id: "veredicto" },
+      { type: "verdict", content: `Depende de qué quieras calentar. Para templar **un ambiente entero** rápido, el **Caloventor Liliana Heatcolor**: es el más vendido (más de 1.500 opiniones), calienta parejo y tiene marca con respaldo, a cambio de algo de ruido. Para **calor puntual y barato** sobre vos, la **estufa de cuarzo** de dos niveles es la más económica y silenciosa. Y si querés **calor instantáneo** apenas la prendés, la **halógena Winco**. Lo que no cambia con ninguna: el consumo lo define la potencia, así que usá el nivel justo y, si vas a calentar mucho todo el invierno, pensá en el gas. La eléctrica es imbatible en simpleza y calor puntual.` },
+    ],
+    faq: [
+      { question: `¿Qué estufa eléctrica calienta mejor un ambiente?`, answer: `Para calentar un ambiente entero, el caloventor: su ventilador reparte el aire caliente y templa el cuarto rápido. El [Caloventor Liliana Heatcolor](https://meli.la/2vbeANw) es el más vendido. Las de cuarzo y halógena no calientan el aire, sino la zona de enfrente, así que sirven para calor puntual, no para todo un cuarto.` },
+      { question: `¿Cuánto consume una estufa eléctrica?`, answer: `Lo define la potencia: una de 2000 W consume 2 kWh por hora, una de 1200 W consume 1,2 kWh. El tipo (caloventor, cuarzo, halógena) no cambia el consumo por watt. Por eso conviene una con niveles de potencia y usar el mínimo que alcance. Las radiantes (cuarzo, halógena) suelen salir más baratas de usar porque calentás a la persona, no al aire de todo el ambiente.` },
+      { question: `¿Existen las estufas eléctricas de bajo consumo?`, answer: `No de verdad. Toda estufa eléctrica de resistencia convierte electricidad en calor con la misma eficiencia, así que "bajo consumo" suele ser marketing. Lo que baja la factura es usar menos potencia, menos tiempo, y calentar solo la zona donde estás. Una [estufa de cuarzo](https://meli.la/2mpDeng) en nivel bajo (600 W) consume poco justamente por eso.` },
+      { question: `¿Qué es mejor, caloventor, cuarzo o halógena?`, answer: `Depende del uso. El caloventor calienta el ambiente entero rápido, pero hace ruido y reseca el aire. La de cuarzo da calor radiante puntual, silencioso y barato. La halógena es como la cuarzo pero con calor instantáneo. Para un cuarto, caloventor; para calor puntual sobre vos, cuarzo o halógena.` },
+      { question: `¿La estufa eléctrica o la de gas conviene más?`, answer: `Para uso puntual y como apoyo, la eléctrica gana: barata, sin instalación, calienta al instante. Para calentar mucho y todo el invierno, el gas sale más barato de usar (la electricidad es cara por kWh) aunque requiere instalación y ventilación. La eléctrica brilla en simpleza y calor inmediato; el gas, en costo de uso intensivo.` },
+      { question: `¿La estufa de cuarzo calienta todo el ambiente?`, answer: `No. La [estufa de cuarzo](https://meli.la/2mpDeng) da calor radiante: calienta a quien tiene enfrente y la zona hacia donde apunta, como el sol, no el aire de todo el cuarto. Es ideal al lado del escritorio, el sillón o la cama. Para templar un ambiente entero, necesitás un caloventor.` },
+    ],
+    internalLinks: [
+      { label: "Estufa eléctrica de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Mejores licuadoras: cuál comprar en Argentina", href: "/guias/licuadora" },
+      { label: "Cafetera express y cápsulas: cuál comprar", href: "/guias/cafetera-express" },
+    ],
+    internalLinksTitle: "Más guías para el hogar",
+  },
+
+  // SATÉLITE estufa-electrica-bajo-consumo (silo climatizacion) — STAGED
+  {
+    slug: "estufa-electrica-bajo-consumo",
+    category: "climatizacion",
+    silo: "climatizacion",
+    title: `Estufa eléctrica de bajo consumo: cuál gasta menos [2026]`,
+    seoTitle: `Estufa Eléctrica Bajo Consumo: Cuál Gasta Menos`,
+    metaDescription: `Conocé qué estufa eléctrica gasta menos en Argentina: por qué el "bajo consumo" es un mito y cuál conviene para no inflar la factura. Mirá la comparativa.`,
+    ogTitle: `Estufa eléctrica de bajo consumo: la verdad`,
+    ogDescription: `Spoiler: ninguna estufa eléctrica es de bajo consumo de verdad. Te explicamos cuál gasta menos según cómo la uses, con la cuenta real de watts y precios de MercadoLibre.`,
+    h1: `Estufa eléctrica de bajo consumo: cuál gasta menos de verdad [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `"Bajo consumo" en una estufa eléctrica es, casi siempre, marketing: todas gastan parecido por watt. Pero algunas te hacen gastar menos por cómo calientan. Te mostramos cuál conviene si te importa la factura, con la cuenta real y precios de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA36753510", label: "La que menos gasta bien usada", labelColor: "green", tagline: "Estufa de cuarzo con nivel de 600 W: calor directo gastando la mitad" },
+      { productMlaId: "MLA68346857", label: "Calor direccional eficiente", labelColor: "blue", tagline: "Halógena Winco: calienta a la persona, no al aire de todo el cuarto" },
+      { productMlaId: "MLA34782966", label: "Calienta más pero gasta más", labelColor: "amber", tagline: "Caloventor Liliana: templa el ambiente entero, a costa de más consumo" },
+    ],
+    intro: [
+      `Si buscás una estufa eléctrica "de bajo consumo", primero la mala noticia: **no existe en el sentido que te imaginás**. Toda estufa eléctrica de resistencia convierte la electricidad en calor con la misma eficiencia, así que dos estufas de la misma potencia gastan lo mismo, le pongan la etiqueta que le pongan. El "bajo consumo" en la publicación suele ser puro marketing.`,
+      `Ahora la buena: aunque todas gastan parecido por watt, **podés gastar bastante menos según qué estufa elijas y cómo la uses**. La clave no es la marca ni el cartelito, es la potencia y a qué le tirás el calor. Acá te explicamos cuál conviene si lo que te importa es no inflar la factura, con la cuenta real de cuánto gasta cada una.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_798818-MLA107585755341_022026-F.jpg", alt: `Estufa de cuarzo de dos niveles, la opción de menor consumo bien usada`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo evaluamos:** comparamos las estufas eléctricas con ventas reales en MercadoLibre Argentina desde un solo ángulo, el consumo. Miramos la **potencia** (lo que define la factura), el **tipo de calor** (calentar el aire de todo el cuarto cuesta más que calentar a la persona) y las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Por qué "bajo consumo" en una estufa eléctrica es un mito`, id: "mito" },
+      { type: "p", content: `Una estufa eléctrica es, en el fondo, una resistencia: toma electricidad y la transforma en calor. Y todas lo hacen con la misma eficiencia, cerca del 100%. Eso significa que **una estufa de 2000 W gasta 2 kWh por hora, sea caloventor, de cuarzo o halógena**. No hay truco físico que la haga gastar menos a misma potencia. Por eso, cuando una publicación dice "bajo consumo" sin bajar los watts, está vendiendo humo.` },
+      { type: "p", content: `Lo que sí cambia la factura son dos cosas concretas: **cuántos watts** usás y **a qué le tirás el calor**. Una estufa con un nivel bajo (por ejemplo 600 W) gasta un tercio que una de 1800 W. Y una que calienta solo a la persona (radiante) te deja apagarla antes que una que tiene que templar todo el aire del cuarto. Ahí está el verdadero "bajo consumo": en el uso, no en la etiqueta.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La cuenta rápida del consumo", content: `Multiplicá los kilowatts por las horas. Una estufa de 1200 W (1,2 kW) prendida 4 horas por día gasta 4,8 kWh diarios. A fin de mes son unos 144 kWh solo de esa estufa. Por eso conviene la menor potencia que te alcance y calentar solo donde estás.` },
+
+      { type: "h2", title: `Cuál estufa gasta menos (según cómo la uses)`, id: "ranking" },
+
+      { type: "h3", title: `1. Estufa de cuarzo en 600 W — la que menos gasta bien usada` },
+      { type: "product-card", productMlaId: "MLA36753510", label: "La que menos gasta", labelColor: "green", ranking: 1, description: `Estufa de cuarzo de dos niveles (600 / 1200 W): en el nivel bajo da calor radiante directo gastando la mitad. 4.2 estrellas en 163 calificaciones, y la más barata de comprar.` },
+      { type: "p", content: `Es la que recomendamos si tu prioridad es gastar poco. Tiene **dos niveles, 600 y 1200 W**, y en el de 600 W consume la mitad que la mayoría de las estufas, dando calor radiante directo a quien tiene enfrente. No calienta todo el cuarto, pero si lo que querés es calentarte vos al lado del escritorio o el sillón sin que la factura explote, es imbatible: gasta poco y es la más barata de comprar (alrededor de $26.000).` },
+      { type: "p", content: `Lo honesto: en 600 W el calor es suave y direccional, no esperes que temple un ambiente grande. Para eso tendrías que subirla a 1200 W (y ahí ya gasta como cualquier otra) o usar un caloventor (que gasta más). Bien usada, en nivel bajo y apuntando a donde estás, es la de menor consumo real del grupo.` },
+
+      { type: "h3", title: `2. Estufa halógena — calor direccional eficiente` },
+      { type: "product-card", productMlaId: "MLA68346857", label: "Calor direccional eficiente", labelColor: "blue", ranking: 2, description: `Halógena Winco W173: calor infrarrojo direccional que sentís al instante, sin tener que calentar el aire de todo el cuarto. 4.7 estrellas en 71 calificaciones.` },
+      { type: "p", content: `La halógena juega en la misma lógica de la cuarzo: **calienta a la persona, no al ambiente**, así que la prendés solo el rato que la necesitás y la apagás. El calor infrarrojo se siente al instante, sin esperar a que el aire se temple, lo que te deja tenerla encendida menos tiempo. Para uso puntual, eso se traduce en menos consumo total aunque la potencia sea parecida.` },
+      { type: "p", content: `Igual que la de cuarzo, no es para templar un cuarto entero, sino una zona. Su ventaja sobre la cuarzo es la inmediatez (calienta apenas la prendés), lo que ayuda a no dejarla puesta de más. Si buscás calor instantáneo y direccional sin inflar la factura, es una buena opción.` },
+
+      { type: "h3", title: `3. Caloventor — calienta más, pero gasta más` },
+      { type: "product-card", productMlaId: "MLA34782966", label: "Calienta más, gasta más", labelColor: "amber", ranking: 3, description: `Caloventor Liliana Heatcolor: templa el ambiente entero rápido, pero para eso calienta todo el aire, así que es el que más consume del grupo. 4.6 estrellas en más de 1.500 calificaciones.` },
+      { type: "p", content: `Lo ponemos para ser claros: si tu prioridad absoluta es el bajo consumo, **el caloventor no es tu mejor opción**. Calienta el ambiente entero (su ventaja), pero justamente por eso tiene que calentar todo el aire del cuarto, lo que significa más potencia y más tiempo encendido. Es el más vendido y el que mejor templa un cuarto, pero también el que más gasta del grupo.` },
+      { type: "p", content: `¿Cuándo lo elegís igual? Cuando necesitás calentar un ambiente entero y el consumo es secundario. Si en cambio querés gastar lo mínimo, volvé a las radiantes (cuarzo, halógena) y calentate vos, no el aire. Y si vas a calefaccionar mucho todo el invierno, lo más barato de usar sigue siendo el gas, no la electricidad.` },
+
+      { type: "h2", title: `Tabla comparativa: consumo y calor`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Calienta`, `Consumo`], rows: [
+        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `$25.886`, `600 / 1200 W`, `La zona de enfrente`, `El menor (en 600 W)`],
+        [`[Estufa halógena Winco](https://meli.la/175r65T)`, `$32.000`, `Direccional`, `A una persona, al instante`, `Bajo en uso puntual`],
+        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `$49.799`, `Aire forzado`, `El ambiente entero`, `El mayor del grupo`],
+      ] },
+
+      { type: "h2", title: `Cómo gastar menos con una estufa eléctrica`, id: "como-elegir" },
+      { type: "h3", title: `1. Usá la menor potencia que te alcance` },
+      { type: "p", content: `El consumo es potencia por tiempo, sin vueltas. Una estufa con niveles (como la de cuarzo de 600/1200 W) te deja usar el mínimo que necesites. Si te alcanza con el nivel bajo, gastás la mitad. No prendas todo a máxima potencia por costumbre: ajustá al frío real que tenés.` },
+      { type: "h3", title: `2. Calentá la zona, no todo el cuarto` },
+      { type: "p", content: `Calentar el aire de un ambiente entero cuesta mucho más que calentarte a vos. Por eso las radiantes (cuarzo, halógena), apuntadas a donde estás sentado, te dejan gastar menos: prendés, te calentás, apagás. El caloventor templa todo, pero esa comodidad la pagás en la factura.` },
+      { type: "h3", title: `3. Para uso intensivo, mirá el gas` },
+      { type: "p", content: `Si vas a calefaccionar muchas horas todos los días del invierno, ninguna estufa eléctrica te va a salir barata de usar: la electricidad cuesta cara por kWh. Ahí conviene evaluar calefacción a gas, que sale bastante menos de usar aunque pida instalación. La eléctrica brilla en uso puntual y como apoyo, no como calefacción principal del día entero.` },
+
+      { type: "h2", title: `Veredicto: cuál estufa gasta menos`, id: "veredicto" },
+      { type: "verdict", content: `Si tu prioridad es no inflar la factura, la **estufa de cuarzo de dos niveles** en su modo de 600 W: calor radiante directo gastando la mitad, y la más barata de comprar. La **halógena Winco** es la alternativa de calor instantáneo y direccional, ideal para prender y apagar rápido. El **caloventor Liliana** calienta mucho mejor un ambiente entero, pero es el que más gasta, así que elegilo solo si necesitás templar todo el cuarto. Y la verdad que no querés escuchar: ninguna eléctrica es de bajo consumo de verdad; la única forma de gastar poco es **menos potencia, menos tiempo y calentar solo donde estás**. Para calefacción intensiva, el gas gana.` },
+    ],
+    faq: [
+      { question: `¿Existen las estufas eléctricas de bajo consumo?`, answer: `No de verdad. Toda estufa eléctrica de resistencia transforma la electricidad en calor con la misma eficiencia, así que dos estufas de la misma potencia gastan lo mismo. El "bajo consumo" en la publicación, si no baja los watts, es marketing. Lo que sí baja la factura es usar menos potencia y calentar solo la zona donde estás.` },
+      { question: `¿Qué estufa eléctrica gasta menos?`, answer: `La que te deje usar menos watts para lo que necesitás. Una [estufa de cuarzo](https://meli.la/2mpDeng) en su nivel de 600 W es de las que menos gasta, dando calor directo. Las radiantes (cuarzo, halógena) en general gastan menos en uso real porque calentás a la persona y apagás rápido, en vez de templar el aire de todo el cuarto como el caloventor.` },
+      { question: `¿Cuánto gasta una estufa eléctrica por hora?`, answer: `Lo que diga su potencia: una de 1200 W gasta 1,2 kWh por hora; una de 2000 W, 2 kWh. Multiplicá los kilowatts por las horas de uso. Por eso conviene una con niveles de potencia y usar el mínimo que alcance: bajar de 1200 a 600 W es gastar la mitad.` },
+      { question: `¿El caloventor gasta mucho?`, answer: `Gasta más que las radiantes en uso real, porque calienta el aire de todo el ambiente, lo que pide más potencia y más tiempo encendido. El [caloventor Liliana](https://meli.la/2vbeANw) es el que mejor templa un cuarto, pero si tu prioridad es el bajo consumo, conviene una de cuarzo o halógena apuntada a donde estás.` },
+      { question: `¿Conviene una estufa eléctrica o a gas para gastar menos?`, answer: `Para uso intensivo todo el invierno, el gas sale bastante más barato de usar: la electricidad cuesta cara por kWh. La estufa eléctrica conviene para uso puntual, como apoyo o en ambientes donde no tenés gas, por su simpleza y calor inmediato. Si calefaccionás muchas horas por día, evaluá gas.` },
+    ],
+    internalLinks: [
+      { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
+      { label: "Mejores licuadoras: cuál comprar en Argentina", href: "/guias/licuadora" },
+    ],
+    internalLinksTitle: "Más sobre el hogar",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR licuadora — diseño best-of (ver docs/guias.md)
   // ─────────────────────────────────────────────────────────
   {
