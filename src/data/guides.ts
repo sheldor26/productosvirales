@@ -226,18 +226,18 @@ export const guides: Guide[] = [
     readingTime: 8,
     standfirst: `El caloventor es la forma más rápida de calentar un ambiente: lo enchufás y en minutos se siente. Te mostramos cuál conviene según el tamaño del cuarto, qué mirar antes de comprar (termostato, seguridad) y la pega del consumo, con los más vendidos de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA34782966", label: "El más vendido", labelColor: "green", tagline: "Liliana Heatcolor: el caloventor más elegido y más barato, con más de 1.500 opiniones" },
-      { productMlaId: "MLA21233017", label: "Para ambiente mediano", labelColor: "blue", tagline: "Liliana Heatcyclone: más potencia para un cuarto más grande, 975 opiniones" },
-      { productMlaId: "MLA19540674", label: "Alternativa de marca", labelColor: "purple", tagline: "Liliana Blacksun: otra opción de la marca de confianza para ambientes chicos" },
+      { productMlaId: "MLA19137445", label: "El más vendido", labelColor: "green", tagline: "Exahome Único: el más vendido y barato, con termostato y más de 6.200 opiniones" },
+      { productMlaId: "MLA34782966", label: "La mejor marca", labelColor: "blue", tagline: "Liliana Heatcolor: la opción de marca de confianza más elegida, mejor rating" },
+      { productMlaId: "MLA21233017", label: "Para ambiente grande", labelColor: "purple", tagline: "Liliana Heatcyclone: más potencia para un cuarto más grande" },
     ],
     intro: [
       `El caloventor (o termoventilador) es la calefacción de respuesta rápida: una resistencia y un ventilador que empuja aire caliente, así que en pocos minutos se siente en todo el cuarto. Es barato, no necesita instalación y lo movés de ambiente fácil. Por eso es lo primero que la mayoría compra cuando llega el frío.`,
-      `Tiene dos contras que conviene saber antes de comprar: **reseca el aire y hace ruido** (el ventilador), y como calienta todo el aire del ambiente, **consume bastante**. En esta guía vemos cuál conviene según el tamaño de tu cuarto, qué detalles mirar (termostato y seguridad), y comparamos los modelos Liliana más vendidos, con precios reales de MercadoLibre.`,
+      `Tiene dos contras que conviene saber antes de comprar: **reseca el aire y hace ruido** (el ventilador), y como calienta todo el aire del ambiente, **consume bastante**. En esta guía vemos cuál conviene según el tamaño de tu cuarto, qué detalles mirar (termostato y seguridad), y comparamos los caloventores más vendidos, con precios reales de MercadoLibre.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_819025-MLA96504164529_102025-F.jpg", alt: `Caloventor Liliana Heatcyclone, termoventilador para calentar un ambiente rápido`, imageSize: "hero" },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los caloventores con ventas y opiniones reales en MercadoLibre Argentina, priorizando la marca Liliana por su respaldo y volumen de calificaciones. Evaluamos lo que define el uso: la **potencia** (para qué tamaño de ambiente), si trae **termostato** (clave para no gastar de más), la **seguridad** (apagado por sobrecalentamiento o vuelco) y las calificaciones públicas. Precios de junio 2026, revisados periódicamente.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los caloventores con ventas y opiniones reales en MercadoLibre Argentina, priorizando los de mayor volumen de calificaciones y respaldo (garantía, marca con service). Evaluamos lo que define el uso: la **potencia** (para qué tamaño de ambiente), si trae **termostato** (clave para no gastar de más), la **seguridad** (apagado por sobrecalentamiento o vuelco) y las calificaciones públicas. Precios de junio 2026, revisados periódicamente.` },
 
       { type: "h2", title: `Qué mirar antes de comprar un caloventor`, id: "que-mirar" },
       { type: "p", content: `Todos los caloventores hacen lo mismo (aire caliente forzado), así que la diferencia está en los detalles. El más importante es el **termostato**: corta solo cuando el ambiente llega a la temperatura que pusiste y vuelve a prender cuando baja. Sin termostato, el caloventor anda a full todo el tiempo y consume de más. Con termostato, mantiene la temperatura gastando menos. Es lo primero que conviene buscar.` },
@@ -246,24 +246,30 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Los mejores caloventores 2026`, id: "ranking" },
 
-      { type: "h3", title: `1. Liliana Heatcolor — el más vendido` },
-      { type: "product-card", productMlaId: "MLA34782966", label: "El más vendido", labelColor: "green", ranking: 1, description: `El caloventor más elegido de la marca: calienta rápido un ambiente chico o mediano y es el más barato de la guía. 4.6 estrellas en más de 1.500 calificaciones.` },
-      { type: "p", content: `Es el que recomendamos para la mayoría, y los números lo explican: es el **más vendido y el más barato** de los tres (alrededor de $49.800), con la mayor base de opiniones (más de 1.500). Calienta rápido un ambiente chico o mediano, que es lo que casi todos buscan, y tiene el respaldo de Liliana, marca con service en el país. Para un dormitorio o un escritorio, es la compra sensata.` },
-      { type: "p", content: `Las contras son las de todo caloventor: reseca el aire y hace algo de ruido. Pero por precio, ventas y respaldo, es el punto de partida lógico. Si tu ambiente es chico o mediano, no necesitás gastar más que esto.` },
+      { type: "h3", title: `1. Exahome Único con termostato — el más vendido` },
+      { type: "product-card", productMlaId: "MLA19137445", label: "El más vendido", labelColor: "green", ranking: 1, description: `El caloventor más vendido del país: termostato, dos posiciones y 2 años de garantía, al precio más bajo de la guía. 4.3 estrellas en más de 6.200 calificaciones.` },
+      { type: "p", content: `Es el que recomendamos para la mayoría, y por amplio margen. Junta **más de 6.200 calificaciones** (la base más grande de todos los caloventores) y es de los **más baratos** (alrededor de $28.000), con dos detalles que marcan la diferencia: trae **termostato** (mantiene la temperatura sin gastar de más) y **2 años de garantía**, raro a este precio. Calienta rápido un ambiente chico o mediano y se usa en dos posiciones.` },
+      { type: "p", content: `Es marca de vendedor, no una tradicional como Liliana, pero el volumen de opiniones y la garantía de 2 años le dan respaldo de sobra. Por precio, ventas y termostato, es el punto de partida lógico: si querés gastar lo mínimo y que ande bien, es este.` },
 
-      { type: "h3", title: `2. Liliana Heatcyclone — para ambiente mediano` },
-      { type: "product-card", productMlaId: "MLA21233017", label: "Para ambiente mediano", labelColor: "blue", ranking: 2, description: `Más potencia y mejor reparto del aire caliente, para un cuarto algo más grande. 4.3 estrellas en 975 calificaciones.` },
+      { type: "h3", title: `2. Liliana Heatcolor — la mejor marca de confianza` },
+      { type: "product-card", productMlaId: "MLA34782966", label: "La mejor marca", labelColor: "blue", ranking: 2, description: `La opción de marca tradicional más elegida: Liliana, con service en el país y el mejor rating de la guía. 4.6 estrellas en más de 1.500 calificaciones.` },
+      { type: "p", content: `Si preferís una **marca tradicional con service**, el Heatcolor es el caloventor Liliana más elegido y el de mejor puntuación de la guía (4.6). Calienta rápido un ambiente chico o mediano con el respaldo de una marca conocida. Cuesta más que el Exahome (alrededor de $49.800), así que lo elegís si la marca y ese punto extra de rating te importan más que el precio.` },
+      { type: "p", content: `Las contras son las de todo caloventor: reseca el aire y hace algo de ruido. Frente al Exahome, pagás más por la marca y un rating algo mejor; a cambio, el Exahome te da termostato y más garantía por menos. Los dos son buenas compras para un ambiente chico o mediano.` },
+
+      { type: "h3", title: `3. Liliana Heatcyclone — para ambiente grande` },
+      { type: "product-card", productMlaId: "MLA21233017", label: "Para ambiente grande", labelColor: "purple", ranking: 3, description: `Más potencia y mejor reparto del aire caliente, para un cuarto algo más grande. 4.3 estrellas en 975 calificaciones.` },
       { type: "p", content: `Si tu ambiente es más grande o querés que el calor llegue más parejo, la Heatcyclone es el escalón de arriba. Mueve y reparte mejor el aire caliente, así que rinde en un cuarto donde el Heatcolor se quedaría corto. Tiene buena base de opiniones (975) y el mismo respaldo de marca. Cuesta más (alrededor de $84.000), así que la elegís si el tamaño del ambiente lo justifica.` },
       { type: "p", content: `Para un cuarto chico es gastar de más; ahí el Heatcolor alcanza. La Heatcyclone tiene sentido cuando el ambiente es mediano-grande y querés calor más repartido. Mismas contras de cualquier caloventor: ruido y aire seco.` },
 
-      { type: "h3", title: `3. Liliana Blacksun — alternativa de marca` },
-      { type: "product-card", productMlaId: "MLA19540674", label: "Alternativa de marca", labelColor: "purple", ranking: 3, description: `Otra opción Liliana para ambientes chicos, con diseño compacto. 4.2 estrellas en 433 calificaciones.` },
+      { type: "h3", title: `4. Liliana Blacksun — alternativa de marca` },
+      { type: "product-card", productMlaId: "MLA19540674", label: "Alternativa de marca", labelColor: "amber", ranking: 4, description: `Otra opción Liliana para ambientes chicos, con diseño compacto. 4.2 estrellas en 433 calificaciones.` },
       { type: "p", content: `Es la tercera opción de la marca, pensada para ambientes chicos. Cumple lo mismo que el Heatcolor (aire caliente forzado, respaldo Liliana) en un formato distinto, a un precio intermedio (alrededor de $54.700). Tiene menos opiniones que los otros dos (433), así que la base de validación es más chica, pero positivas.` },
       { type: "p", content: `Honestamente, para la mayoría el Heatcolor le gana por precio y por tener más opiniones. La Blacksun es una alternativa válida si te gusta más su diseño o la conseguís mejor de precio. Mismo uso, misma marca, menos elegida.` },
 
       { type: "h2", title: `Tabla comparativa: los tres caloventores`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Opiniones`, `Ideal para`], rows: [
-        [`[Liliana Heatcolor](https://meli.la/2vbeANw)`, `$49.799`, `1.544 (4.6★)`, `El más vendido, ambiente chico-mediano`],
+        [`[Exahome Único](https://meli.la/2Wfvbjb)`, `$28.020`, `6.201 (4.3★)`, `El más vendido y barato, con termostato`],
+        [`[Liliana Heatcolor](https://meli.la/2vbeANw)`, `$49.799`, `1.544 (4.6★)`, `Marca de confianza, mejor rating`],
         [`[Liliana Heatcyclone](https://meli.la/1ndjnp4)`, `$84.000`, `975 (4.3★)`, `Ambiente mediano-grande`],
         [`[Liliana Blacksun](https://meli.la/1ssJJY9)`, `$54.699`, `433 (4.2★)`, `Ambiente chico, alternativa de marca`],
       ] },
@@ -284,7 +290,7 @@ export const guides: Guide[] = [
       ] },
 
       { type: "h2", title: `Veredicto: cuál caloventor comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, el **Liliana Heatcolor**: es el más vendido, el más barato y el de más opiniones (más de 1.500), y calienta rápido un ambiente chico o mediano con el respaldo de la marca. Si tu cuarto es más grande, la **Heatcyclone** reparte mejor el calor, a cambio de más plata. La **Blacksun** es una alternativa de la marca, aunque el Heatcolor le gana por precio y opiniones. Mirá que tenga **termostato** (te ahorra en la factura) y apagado de seguridad. Y recordá la pega: el caloventor calienta rápido pero reseca, hace ruido y consume; si querés calor puntual gastando menos, una [estufa radiante](/guias/climatizacion/estufas-electricas) conviene más.` },
+      { type: "verdict", content: `Para la mayoría, el **Exahome Único**: es el más vendido del país (más de 6.200 opiniones), de los más baratos (~$28.000), y trae termostato y 2 años de garantía. Si preferís una **marca tradicional con service**, el **Liliana Heatcolor** es el mejor Liliana (4.6★), pagando algo más. Para un ambiente más grande, la **Heatcyclone** reparte mejor el calor. Mirá siempre que tenga **termostato** (te ahorra en la factura) y apagado de seguridad. Y recordá la pega: el caloventor calienta rápido pero reseca, hace ruido y consume; si querés calor puntual gastando menos, una [estufa radiante](/guias/climatizacion/estufas-electricas) conviene más.` },
     ],
     faq: [
       { question: `¿Cuál es el mejor caloventor en Argentina?`, answer: `Para la mayoría, el [Liliana Heatcolor](https://meli.la/2vbeANw): es el más vendido, el más barato y el de más opiniones (más de 1.500, 4.6★), y calienta rápido un ambiente chico o mediano con respaldo de marca. Para ambientes más grandes, la [Liliana Heatcyclone](https://meli.la/1ndjnp4) reparte mejor el calor.` },
