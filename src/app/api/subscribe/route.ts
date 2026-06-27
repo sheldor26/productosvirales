@@ -69,11 +69,22 @@ export async function POST(request: Request) {
 
   const normalized = email.trim().toLowerCase();
 
+  // De qué guía/página vino la suscripción (ruta), para mandar contenido
+  // relacionado. Opcional: si no viene o es inválido, queda null.
+  const rawRef =
+    typeof body === "object" && body !== null && "ref" in body
+      ? (body as { ref: unknown }).ref
+      : undefined;
+  const sourceDetail =
+    typeof rawRef === "string" && rawRef.trim() !== ""
+      ? rawRef.trim().slice(0, 200)
+      : null;
+
   const sql = getSql();
   if (!sql) {
     // Sin DB configurada: dejamos rastro y seguimos sin romper.
     console.warn(
-      `[subscribe] sin DATABASE_URL — no se guardó: ${normalized} (ip=${ip})`
+      `[subscribe] sin DATABASE_URL — no se guardó: ${normalized} (ip=${ip}, ref=${sourceDetail ?? "-"})`
     );
     return NextResponse.json({
       success: true,
@@ -84,8 +95,8 @@ export async function POST(request: Request) {
   try {
     // ON CONFLICT DO NOTHING: si el mail ya existe, no es error (idempotente).
     await sql`
-      INSERT INTO subscribers (email, source, ip)
-      VALUES (${normalized}, ${"newsletter"}, ${ip})
+      INSERT INTO subscribers (email, source, ip, source_detail)
+      VALUES (${normalized}, ${"newsletter"}, ${ip}, ${sourceDetail})
       ON CONFLICT (email) DO NOTHING
     `;
   } catch (err) {

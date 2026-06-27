@@ -2,7 +2,13 @@
 
 import { useState } from "react";
 
-export function NewsletterForm() {
+interface NewsletterFormProps {
+  // Ruta de origen (ej. la guía donde está el form), para guardar de dónde
+  // vino la suscripción y mandar contenido relacionado.
+  source?: string;
+}
+
+export function NewsletterForm({ source }: NewsletterFormProps = {}) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "submitting" | "ok" | "error">("idle");
   const [message, setMessage] = useState("");
@@ -16,7 +22,7 @@ export function NewsletterForm() {
       const res = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, ref: source }),
       });
       const data = await res.json();
       if (res.ok) {

@@ -30,14 +30,26 @@ export async function GET(request: Request) {
   }
 
   const rows = (await sql`
-    SELECT email, source, created_at
+    SELECT email, source, source_detail, created_at
     FROM subscribers
     ORDER BY created_at DESC
-  `) as { email: string; source: string; created_at: string }[];
+  `) as {
+    email: string;
+    source: string;
+    source_detail: string | null;
+    created_at: string;
+  }[];
 
-  const header = "email,source,created_at";
+  const header = "email,source,source_detail,created_at";
   const body = rows
-    .map((r) => [csvCell(r.email), csvCell(r.source), csvCell(r.created_at)].join(","))
+    .map((r) =>
+      [
+        csvCell(r.email),
+        csvCell(r.source),
+        csvCell(r.source_detail),
+        csvCell(r.created_at),
+      ].join(",")
+    )
     .join("\n");
   const csv = `${header}\n${body}\n`;
 

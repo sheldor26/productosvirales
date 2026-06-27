@@ -63,7 +63,7 @@ export function NewsletterBanner() {
       const res = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, ref: window.location.pathname }),
       });
       const data = await res.json();
       if (res.ok) {
