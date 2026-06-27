@@ -230,6 +230,87 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
+  // SATÉLITE torre-de-sonido (silo audio) — STAGED
+  {
+    slug: "torre-de-sonido",
+    category: "audio",
+    silo: "audio",
+    title: `Torre de sonido: cuál comprar en Argentina [2026]`,
+    seoTitle: `Torre de Sonido 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué torre de sonido comprar en Argentina: Noblex, JVC o Aiwa, con bluetooth, luces y karaoke, precios reales y cuál conviene. Compará.`,
+    ogTitle: `Torre de sonido: cuál comprar en Argentina`,
+    ogDescription: `El equipo de sonido fijo para llenar la casa. Noblex, JVC y Aiwa comparadas por potencia, prestaciones (karaoke, luces) y precio real de MercadoLibre.`,
+    h1: `Torre de sonido: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `La torre de sonido es el equipo fijo para llenar la casa de música, con más potencia que un portátil por menos plata. Te mostramos cuál conviene según prestaciones y precio, comparando las más vendidas (Noblex, JVC, Aiwa) con datos reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA15733030", label: "La más vendida", labelColor: "green", tagline: "Noblex MNT290: la mejor relación precio, con luces LED y más de 3.000 opiniones" },
+      { productMlaId: "MLA45615651", label: "Potencia + karaoke", labelColor: "blue", tagline: "JVC XS-LA5214: más potencia y micrófono incluido para cantar" },
+      { productMlaId: "MLA20012498", label: "La premium", labelColor: "purple", tagline: "Aiwa AW-T2018R: torre con más prestaciones y función power bank" },
+    ],
+    intro: [
+      `La torre de sonido es para quien quiere un equipo **fijo en casa** que llene el ambiente, no un portátil para llevar. Por el precio de un parlante portátil mediano conseguís bastante más volumen y graves, además de extras como luces, entradas auxiliares y, en algunas, micrófono para karaoke. Es la opción lógica para el living, las juntadas en casa o ambientar una reunión.`,
+      `En esta guía comparamos las torres más vendidas de Argentina (Noblex, JVC, Aiwa) por potencia, prestaciones y precio real de MercadoLibre. La contra a tener clara: **no son transportables**, son un mueble que se queda en casa. Si necesitás llevarlo, mirá la [guía de parlantes](/guias/audio/parlantes) y los portátiles.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_657368-MLA99938070613_112025-F.jpg", alt: `Torre de sonido Noblex MNT290 con bluetooth y luces LED, una de las más vendidas de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las torres de sonido con más ventas y opiniones reales en MercadoLibre Argentina. Evaluamos lo que define la compra: la **potencia** y el sonido, las **prestaciones** (bluetooth, luces, micrófono para karaoke, power bank) y el precio. Las calificaciones son de compradores reales. Precios de junio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Las mejores torres de sonido 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Noblex MNT290 — la más vendida` },
+      { type: "product-card", productMlaId: "MLA15733030", label: "La más vendida", labelColor: "green", ranking: 1, description: `La torre más elegida: bluetooth, luces LED y efectos, a la mejor relación precio. 4.6 estrellas en más de 3.000 calificaciones.` },
+      { type: "p", content: `Es la que recomendamos para la mayoría. La Noblex MNT290 da **volumen potente para el living** con bluetooth y luces LED, y es la más vendida del segmento (más de 3.000 opiniones) a un precio menor que las otras (alrededor de $166.500). Para ambientar una reunión en casa o escuchar música fuerte sin gastar de más, es la opción sensata y la más probada.` },
+      { type: "p", content: `No tiene los extras de las premium (no trae micrófono ni power bank), pero cumple lo central: sonido potente, bluetooth y un precio que ninguna iguala con tanto respaldo. Si querés una torre que ande bien sin pagar de más, es esta.` },
+
+      { type: "h3", title: `2. JVC XS-LA5214 — potencia y karaoke` },
+      { type: "product-card", productMlaId: "MLA45615651", label: "Potencia + karaoke", labelColor: "blue", ranking: 2, description: `Más potencia y un micrófono incluido para karaoke. 4.7 estrellas en más de 1.700 calificaciones.` },
+      { type: "p", content: `Si querés más sonido y la función **karaoke**, la JVC es el escalón de arriba. Trae micrófono incluido, así que es la elegida para juntadas donde se canta, y suma potencia sobre la Noblex. Cuesta algo más (alrededor de $202.000), con muy buen respaldo de opiniones (más de 1.700) y el mejor rating del grupo. Para fiestas en casa con canto, es la indicada.` },
+
+      { type: "h3", title: `3. Aiwa AW-T2018R — la premium` },
+      { type: "product-card", productMlaId: "MLA20012498", label: "La premium", labelColor: "purple", ranking: 3, description: `Torre con más prestaciones: bluetooth, entrada auxiliar y función power bank. 4.7 estrellas en 332 calificaciones.` },
+      { type: "p", content: `Es la opción con más prestaciones del grupo. La Aiwa suma sobre las otras la función **power bank** (carga el celular) y la marca, a un precio más alto (alrededor de $288.000). Tiene menos opiniones que la Noblex y la JVC (332), así que la base de validación es más chica, pero positivas. La elegís si valorás la marca Aiwa y los extras; si no, la Noblex da casi lo mismo por menos.` },
+
+      { type: "h2", title: `Tabla comparativa: las tres torres`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Extra`, `Ideal para`], rows: [
+        [`[Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030)`, `$166.499`, `Luces LED`, `La más vendida y económica`],
+        [`[JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651)`, `$202.099`, `Micrófono (karaoke)`, `Potencia y cantar en casa`],
+        [`[Aiwa AW-T2018R](https://www.mercadolibre.com.ar/p/MLA20012498)`, `$288.099`, `Power bank`, `Premium con más prestaciones`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu torre de sonido`, id: "como-elegir" },
+      { type: "h3", title: `1. Por el presupuesto y las prestaciones` },
+      { type: "p", content: `Si querés lo central (sonido potente y bluetooth) al mejor precio, la Noblex. Si te importa el karaoke, la JVC con su micrófono. Si querés la marca y extras como el power bank, la Aiwa premium. Las tres llenan un ambiente; la diferencia está en los extras y el precio.` },
+      { type: "h3", title: `2. Recordá que no es portátil` },
+      { type: "p", content: `Una torre es un equipo fijo: queda en un lugar de la casa, no la llevás. Si necesitás moverla o sacarla afuera, una torre no es lo tuyo: ahí conviene un parlante portátil potente como un JBL Charge o Boombox. La torre es para el hogar, enchufada, llenando el living.` },
+
+      { type: "h2", title: `Cuánto cuesta una torre de sonido en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $166.000:** la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030), la más vendida y la mejor relación precio.`,
+        `**$200.000 a $290.000:** las de más prestaciones. La [JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651) (karaoke) y la [Aiwa AW-T2018R](https://www.mercadolibre.com.ar/p/MLA20012498) (premium con power bank).`,
+        `**Si necesitás llevarlo:** una torre no sirve (es fija). Mirá un parlante portátil potente en la [guía de parlantes](/guias/audio/parlantes).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál torre de sonido comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Noblex MNT290**: la más vendida, con bluetooth y luces, y la mejor relación precio (más de 3.000 opiniones). Si te gusta el **karaoke**, la **JVC XS-LA5214** trae micrófono y más potencia. Y si querés la marca y extras como el power bank, la **Aiwa AW-T2018R** premium. Las tres son equipos fijos de hogar: si necesitás algo para llevar, no es una torre, es un [parlante portátil](/guias/audio/parlantes). Para llenar la casa de música sin gastar de más, la Noblex es la apuesta segura.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor torre de sonido en Argentina?`, answer: `Por relación precio y ventas, la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030): la más vendida (más de 3.000 opiniones), con bluetooth y luces LED, a buen precio. Si querés karaoke, la [JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651) trae micrófono; si buscás extras premium, la [Aiwa AW-T2018R](https://www.mercadolibre.com.ar/p/MLA20012498).` },
+      { question: `¿Torre de sonido o parlante portátil?`, answer: `Depende de si lo vas a mover. La torre es un equipo fijo de hogar: más potencia por el precio para llenar el living, pero no se transporta. Un parlante portátil (como un JBL Charge o Boombox) lo llevás a todos lados y resiste el agua, a cambio de menos volumen por peso. Para casa, torre; para llevar, portátil.` },
+      { question: `¿Las torres de sonido sirven para karaoke?`, answer: `Algunas sí, las que traen micrófono incluido. La [JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651) viene con micrófono, así que es la indicada para cantar en casa. La Noblex y la Aiwa apuntan más a reproducir música potente; si el karaoke es prioridad, fijate que el modelo incluya micrófono.` },
+      { question: `¿Cuánto cuesta una torre de sonido?`, answer: `En junio 2026, desde unos $166.500 la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030) (la más vendida), alrededor de $202.000 la [JVC](https://www.mercadolibre.com.ar/p/MLA45615651) con karaoke, y unos $288.000 la [Aiwa](https://www.mercadolibre.com.ar/p/MLA20012498) premium. Por ese precio dan más potencia que un parlante portátil del mismo valor, a cambio de no ser transportables.` },
+    ],
+    internalLinks: [
+      { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
+      { label: "Parlantes JBL: cuál comprar", href: "/guias/audio/parlante-jbl" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
   // ─────────────────────────────────────────────────────────
   // PILAR estufas-electricas — silo climatizacion (/guias/climatizacion/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
