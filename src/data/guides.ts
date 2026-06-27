@@ -506,6 +506,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
       { label: "Auriculares deportivos: cuál comprar para entrenar", href: "/guias/audio/auriculares-deportivos" },
+      { label: "Auriculares profesionales de estudio: cuál comprar", href: "/guias/audio/auriculares-profesionales" },
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
     ],
     internalLinksTitle: "Más sobre audio",
@@ -664,6 +665,103 @@ export const guides: Guide[] = [
       { question: `¿Qué auriculares no se caen al correr?`, answer: `Los de gancho de oreja, como los [Alpina F50 Pro](https://meli.la/2UAS5x1): el gancho los sujeta firme y aguantan saltos y corridas sin moverse. Los in-ear comunes tienden a aflojarse con el movimiento; para entrenamiento intenso, el gancho es la opción más segura.` },
       { question: `¿Qué son los auriculares open ear?`, answer: `Son auriculares que se apoyan sobre la oreja sin meterse en el canal del oído, así que no lo tapan y escuchás el entorno mientras los usás. Los [Vention Open Ear](https://meli.la/2dsHLzN) son de este tipo: ideales para correr en la calle porque oís autos y gente, a costa de menos aislamiento del ruido.` },
       { question: `¿Los auriculares deportivos resisten el agua y el sudor?`, answer: `Los buenos sí. Buscá certificación IPX4 o IPX5, que resiste sudor, salpicaduras y lluvia. Los tres de esta guía la tienen. Es lo primero a confirmar antes de comprar unos para entrenar: el sudor arruina los que no están preparados.` },
+    ],
+    internalLinks: [
+      { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
+  // SATÉLITE auriculares-profesionales (silo audio) — STAGED
+  {
+    slug: "auriculares-profesionales",
+    category: "audio",
+    silo: "audio",
+    title: `Auriculares profesionales de estudio: cuál comprar [2026]`,
+    seoTitle: `Auriculares Profesionales 2026: Cuál Comprar Argentina`,
+    metaDescription: `Conocé qué auriculares profesionales de estudio comprar en Argentina: Audio-Technica M-Series y Sennheiser, para monitoreo y mezcla. Compará y elegí.`,
+    ogTitle: `Auriculares profesionales de estudio: cuál comprar`,
+    ogDescription: `Para producir, grabar y mezclar: Audio-Technica ATH-M20x, M40x, M50x y Sennheiser HD 280 Pro comparados por uso y precio real de MercadoLibre. La guía honesta.`,
+    h1: `Auriculares profesionales de estudio: cuál comprar en Argentina [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Los auriculares de estudio son herramientas para producir, grabar y mezclar, no para escuchar música por placer: suenan neutros a propósito. Te mostramos cuál conviene según tu uso, comparando los clásicos del rubro (Audio-Technica, Sennheiser) con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA6343490", label: "La mejor entrada", labelColor: "green", tagline: "Audio-Technica ATH-M20x: el monitor de estudio más vendido, ideal para empezar" },
+      { productMlaId: "MLA24560880", label: "El estándar", labelColor: "blue", tagline: "Audio-Technica ATH-M50x: el estándar de la industria, la referencia" },
+      { productMlaId: "MLA6337847", label: "El más neutro", labelColor: "purple", tagline: "Audio-Technica ATH-M40x: respuesta plana, ideal para mezclar" },
+      { productMlaId: "MLA6072318", label: "Máximo aislamiento", labelColor: "amber", tagline: "Sennheiser HD 280 Pro: el que más aísla del ruido, para grabar" },
+    ],
+    intro: [
+      `Primero lo más importante, para no comprar mal: los auriculares de estudio (o profesionales) **no son para escuchar música por placer**. Son herramientas para **producir, grabar, editar y mezclar**: suenan neutros y detallados a propósito, para que escuches el audio "como es", sin maquillaje. Si buscás unos para disfrutar tu música con graves potentes, no son estos, andá a la [guía de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).`,
+      `Si en cambio hacés música, podcasts, edición de video o querés monitorear con precisión, esta es tu guía. Comparamos los clásicos del rubro, casi todos **Audio-Technica** (la marca de referencia) y **Sennheiser**, con sus diferencias reales y precios de MercadoLibre. Son **con cable**: en estudio, el cable es la norma (cero latencia, cero batería).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_693288-MLA99932434053_112025-F.jpg", alt: `Auriculares Audio-Technica ATH-M50x, el estándar de la industria en monitoreo de estudio`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los auriculares de estudio con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas de referencia (Audio-Technica, Sennheiser). Evaluamos lo que importa en producción: la **neutralidad** del sonido (para mezclar con referencia honesta), el **aislamiento**, la construcción y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `Qué hace "profesional" a un auricular`, id: "que-es" },
+      { type: "p", content: `Dos cosas. Primero, el **sonido neutro**: a diferencia de los auriculares de consumo (que realzan graves y agudos para que la música suene "más linda"), los de estudio reproducen el audio plano, sin colorearlo, para que oigas exactamente lo que grabaste y puedas mezclar bien. Segundo, el **aislamiento y la construcción**: cerrados para no filtrar sonido en la grabación, con cables reemplazables y materiales que aguantan uso intensivo.` },
+      { type: "p", content: `Casi todos son **con cable** (cero latencia, no dependés de batería) y **over-ear cerrados**. La marca de referencia es **Audio-Technica** con su línea M, que va del M20x (entrada) al M50x (el estándar de la industria). Sennheiser es la alternativa clásica. Elegí según tu uso y presupuesto.` },
+
+      { type: "h2", title: `Los mejores auriculares de estudio 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Audio-Technica ATH-M20x — la mejor entrada` },
+      { type: "product-card", productMlaId: "MLA6343490", label: "La mejor entrada", labelColor: "green", ranking: 1, description: `El monitor de estudio más vendido: cerrado, con cable, sonido honesto para monitoreo. 4.9 estrellas en más de 2.200 calificaciones. La entrada ideal al estudio.` },
+      { type: "p", content: `Si empezás en producción, grabación o edición, es el que recomendamos. El ATH-M20x da el **sonido neutro y la construcción de Audio-Technica** al precio más accesible de la línea (alrededor de $135.900), con la mayor base de opiniones del segmento (más de 2.200). Para monitorear, grabar voces o editar video con audio confiable, cumple de sobra sin gastar de más.` },
+      { type: "p", content: `No es para escuchar música por placer (suena plano a propósito), pero como primera herramienta de estudio es imbatible. Cuando quieras más detalle o respuesta más neutra para mezcla, subís a los de abajo.` },
+
+      { type: "h3", title: `2. Audio-Technica ATH-M50x — el estándar de la industria` },
+      { type: "product-card", productMlaId: "MLA24560880", label: "El estándar", labelColor: "blue", ranking: 2, description: `El monitor de estudio más famoso, un estándar de la industria: detallado, con cable desmontable. 4.9 estrellas. La referencia de la marca.` },
+      { type: "p", content: `Es el clásico que vas a ver en cualquier estudio. El ATH-M50x ofrece **más detalle y mejor construcción** que los de entrada, con un sonido algo más marcado en graves que lo hace también disfrutable, y cable desmontable. A alrededor de $316.900, es la inversión de quien se toma en serio la producción o quiere "el bueno" de una. Es, literalmente, un estándar de la industria.` },
+      { type: "p", content: `Frente al M40x, el M50x tiene los graves un poco más realzados (algunos lo prefieren por eso, otros buscan algo más plano). Si querés la referencia más reconocida y versátil, es este.` },
+
+      { type: "h3", title: `3. Audio-Technica ATH-M40x — el más neutro` },
+      { type: "product-card", productMlaId: "MLA6337847", label: "El más neutro", labelColor: "purple", ranking: 3, description: `Respuesta de sonido plana, ideal para mezclar con referencia neutra. Cable desmontable. 4.9 estrellas en más de 1.000 calificaciones.` },
+      { type: "p", content: `Si tu prioridad es **mezclar con la referencia más honesta**, el M40x es la elección. Su respuesta es más plana que la del M50x (no realza graves), lo que para mezcla es una ventaja: escuchás el audio sin maquillaje y tomás mejores decisiones. A alrededor de $303.700, es el favorito de muchos para producción seria por esa neutralidad.` },
+      { type: "p", content: `Entre el M40x y el M50x no hay uno "mejor": el M40x es más neutro (mejor para mezclar), el M50x más versátil y con más pegada. Elegís según si priorizás la precisión de mezcla o un sonido más completo.` },
+
+      { type: "h3", title: `4. Sennheiser HD 280 Pro — máximo aislamiento` },
+      { type: "product-card", productMlaId: "MLA6072318", label: "Máximo aislamiento", labelColor: "amber", ranking: 4, description: `Monitor de estudio cerrado con gran aislamiento pasivo del ruido externo, un clásico para grabación. 4.8 estrellas, la alternativa Sennheiser.` },
+      { type: "p", content: `Si grabás en ambientes con ruido o querés el mayor aislamiento, el Sennheiser HD 280 Pro es la opción. Su fuerte es el **aislamiento pasivo**: tapa muy bien el sonido externo, ideal para tracking y grabación donde no querés que se filtre nada. A alrededor de $280.000, es el clásico de Sennheiser para estudio y la alternativa a la línea M.` },
+      { type: "p", content: `Tiene menos opiniones que los Audio-Technica en Argentina, pero es un referente histórico del rubro. Lo elegís si el aislamiento es tu prioridad o si preferís la firma de sonido Sennheiser.` },
+
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Querés premium pero para escuchar, no para producir?", content: `Si en realidad buscás auriculares premium para **disfrutar música** con cancelación de ruido (no monitores de estudio), el [Sony WH-1000XM5](https://meli.la/1JwhrZT) es la referencia: inalámbricos, con la mejor cancelación del mercado. Es otra cosa que los de estudio: estos suenan neutros para trabajar, el Sony suena "lindo" para escuchar.` },
+
+      { type: "h2", title: `Tabla comparativa: auriculares de estudio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Fuerte`, `Ideal para`], rows: [
+        [`[Audio-Technica ATH-M20x](https://meli.la/1UEeYbH)`, `$135.913`, `Precio`, `Empezar en estudio`],
+        [`[Audio-Technica ATH-M30x](https://meli.la/2eP7p8D)`, `$156.971`, `Detalle por su precio`, `Escalón intermedio`],
+        [`[Sennheiser HD 280 Pro](https://meli.la/2QKcvdu)`, `$280.000`, `Aislamiento`, `Grabación, tracking`],
+        [`[Audio-Technica ATH-M40x](https://meli.la/29PkMPt)`, `$303.696`, `Neutralidad`, `Mezcla con referencia plana`],
+        [`[Audio-Technica ATH-M50x](https://meli.la/13WhHKh)`, `$316.911`, `El estándar`, `Producción seria, versátil`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tus auriculares de estudio`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Para qué los vas a usar?` },
+      { type: "p", content: `Para empezar a producir, grabar voces o editar video, el ATH-M20x alcanza y es lo más económico. Para mezclar con la referencia más neutra, el M40x. Para una herramienta versátil y reconocida, el M50x. Para máximo aislamiento en grabación, el Sennheiser HD 280 Pro. Definí tu tarea principal y elegí en consecuencia.` },
+      { type: "h3", title: `2. Recordá: neutro no es "feo", es honesto` },
+      { type: "p", content: `Si los comparás con tus auriculares de consumo, los de estudio suenan más planos y menos "emocionantes". Eso es a propósito y es lo que querés para trabajar: escuchar el audio sin que el auricular lo maquille. No es un defecto, es la herramienta haciendo su trabajo. Para escuchar por placer, usá otros.` },
+
+      { type: "h2", title: `Cuánto cuestan unos auriculares de estudio en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$135.000 a $157.000:** la entrada. El [ATH-M20x](https://meli.la/1UEeYbH) (el más vendido) y el [M30x](https://meli.la/2eP7p8D).`,
+        `**$280.000 a $317.000:** la gama de producción seria. El [Sennheiser HD 280 Pro](https://meli.la/2QKcvdu) (aislamiento), el [M40x](https://meli.la/29PkMPt) (neutro) y el [M50x](https://meli.la/13WhHKh) (el estándar).`,
+        `**Si querés premium para escuchar (no estudio):** el [Sony WH-1000XM5](https://meli.la/1JwhrZT), inalámbrico con cancelación tope de gama. Otra categoría.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuáles auriculares de estudio comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para empezar, el **Audio-Technica ATH-M20x**: el monitor de estudio más vendido, con el sonido honesto de la marca al mejor precio. Para producción seria, el **ATH-M50x** (el estándar de la industria) o el **M40x** si priorizás la neutralidad para mezclar. Para máximo aislamiento en grabación, el **Sennheiser HD 280 Pro**. Lo clave: estos son herramientas para trabajar con audio, suenan neutros a propósito. Si lo que querés es disfrutar música con cancelación, el [Sony WH-1000XM5](https://meli.la/1JwhrZT) u otros de la [guía general](/guias/audio/auriculares-inalambricos) son lo tuyo.` },
+    ],
+    faq: [
+      { question: `¿Cuáles son los mejores auriculares de estudio en Argentina?`, answer: `Por ventas y reputación, la línea Audio-Technica M: el [ATH-M20x](https://meli.la/1UEeYbH) para empezar (el más vendido), el [ATH-M50x](https://meli.la/13WhHKh) como estándar de la industria, y el [M40x](https://meli.la/29PkMPt) por su neutralidad para mezcla. El [Sennheiser HD 280 Pro](https://meli.la/2QKcvdu) es la alternativa con más aislamiento.` },
+      { question: `¿Sirven los auriculares de estudio para escuchar música?`, answer: `Se puede, pero no es para lo que están hechos: suenan neutros y planos a propósito, sin realzar graves como los de consumo, así que la música suena "menos emocionante". Para producir, grabar y mezclar son ideales; para disfrutar música por placer, conviene un auricular de consumo, como los de la [guía general](/guias/audio/auriculares-inalambricos).` },
+      { question: `¿Qué diferencia hay entre el ATH-M40x y el M50x?`, answer: `El [M40x](https://meli.la/29PkMPt) tiene una respuesta más plana y neutra, ideal para mezclar con referencia honesta. El [M50x](https://meli.la/13WhHKh) realza un poco más los graves, lo que lo hace más versátil y disfrutable, además de ser el estándar más reconocido. Para mezcla pura, el M40x; para una herramienta versátil y famosa, el M50x.` },
+      { question: `¿Los auriculares de estudio son con cable o inalámbricos?`, answer: `Casi todos son con cable, y es lo que conviene en estudio: cero latencia (el audio llega sin retraso, clave para grabar y monitorear) y sin depender de batería. Los de esta guía son con cable, varios con cable desmontable y reemplazable. Si querés inalámbricos premium para escuchar, esa es otra categoría (como el [Sony WH-1000XM5](https://meli.la/1JwhrZT)).` },
     ],
     internalLinks: [
       { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
