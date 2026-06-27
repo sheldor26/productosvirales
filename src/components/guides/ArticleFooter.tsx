@@ -127,7 +127,7 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
         <p className="text-sm text-[var(--text-secondary)] mb-4 max-w-md">
           Sin spam. Solo cuando publicamos contenido nuevo.
         </p>
-        <NewsletterForm />
+        <NewsletterForm source={guideHref(guide)} />
       </section>
     </footer>
   );

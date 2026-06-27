@@ -28,6 +28,115 @@ export function findGuideByPath(path: string[]): Guide | undefined {
 
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
+  // PILAR parlantes — silo audio (/guias/audio/...)
+  // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "parlantes",
+    category: "audio",
+    silo: "audio",
+    pillar: true,
+    title: `Parlantes bluetooth: cuál comprar en Argentina [2026]`,
+    seoTitle: `Parlantes Bluetooth 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué parlante bluetooth comprar en Argentina: del mini portátil al de fiesta, JBL, Xiaomi y torres, con precios reales y cuál conviene. Compará.`,
+    ogTitle: `Parlantes bluetooth: cuál comprar en Argentina`,
+    ogDescription: `Del mini para llevar al de fiesta. JBL, Xiaomi y torres de sonido comparados por tamaño, potencia y precio real de MercadoLibre. La guía honesta de parlantes.`,
+    h1: `Parlantes bluetooth: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un parlante bluetooth puede ser un mini para la mochila o un equipo de fiesta de medio metro. Te mostramos cuál conviene según para qué lo querés, comparando los más vendidos de Argentina (JBL, Xiaomi, Noblex) por tamaño, potencia y precio real de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA44740757", label: "El más vendido", labelColor: "green", tagline: "Xiaomi Sound Pocket: mini bluetooth barato, más de 6.200 opiniones, para llevar" },
+      { productMlaId: "MLA48958711", label: "El todoterreno", labelColor: "blue", tagline: "JBL Flip 7: el portátil mediano que mejor equilibra sonido, tamaño y resistencia" },
+      { productMlaId: "MLA44709426", label: "Potencia + batería", labelColor: "purple", tagline: "JBL Charge 5: sonido fuerte, mucha batería y carga tu celular" },
+      { productMlaId: "MLA15733030", label: "Torre para el hogar", labelColor: "amber", tagline: "Noblex MNT290: equipo de sonido fijo con luces, más de 3.000 opiniones" },
+    ],
+    intro: [
+      `"Parlante bluetooth" abarca cosas muy distintas: desde un mini de 5 W que entra en el bolsillo hasta una torre de sonido para la casa o un equipo de fiesta que se escucha a media cuadra. Comprar el tamaño equivocado es el error más común, así que la primera pregunta no es la marca, es **para qué lo querés**.`,
+      `En esta guía los ordenamos por uso y tamaño, comparando los más vendidos de Argentina (JBL, Xiaomi, Noblex) con precios reales de MercadoLibre. Desde el más barato para llevar hasta el de fiesta, con lo bueno y lo que resignás en cada uno. Si sabés para qué lo necesitás, en dos minutos sabés cuál comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_929987-MLA88350056799_072025-F.jpg", alt: `Parlante JBL Flip 7, uno de los parlantes bluetooth portátiles más vendidos de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los parlantes con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (JBL, Xiaomi, Noblex). Los ordenamos por lo que define la compra: el **tamaño y uso** (de bolsillo, portátil, de fiesta, torre de hogar), la **potencia**, la **resistencia al agua** y las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
+
+      { type: "h2", title: `Qué parlante necesitás según el uso`, id: "tipos" },
+      { type: "p", content: `Antes de marca o potencia, definí el uso. Para **llevar a todos lados** (mochila, viaje, ducha), un mini bluetooth alcanza y es barato. Para **escuchar en casa o juntadas chicas**, un portátil mediano da buen sonido sin ocupar lugar. Para **previas y fiestas** o exteriores, necesitás potencia y batería grande. Y si querés un **equipo fijo en casa** con más volumen, una torre de sonido.` },
+      { type: "p", content: `La regla rápida: cuanto más grande el parlante, más potencia y batería, pero menos portátil y más caro. No pagues por un equipo de fiesta si lo vas a usar en el escritorio, ni compres un mini esperando que llene un patio. Definí el uso y el resto se ordena solo.` },
+
+      { type: "h2", title: `Los mejores parlantes bluetooth 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Xiaomi Sound Pocket — el más vendido` },
+      { type: "product-card", productMlaId: "MLA44740757", label: "El más vendido", labelColor: "green", ranking: 1, description: `Mini bluetooth de 5 W, ultraportátil y el más barato de la guía. 4.8 estrellas en más de 6.200 calificaciones: el parlante más vendido del catálogo.` },
+      { type: "p", content: `Si querés un parlante para llevar a cualquier lado sin gastar mucho, es este. El Xiaomi Sound Pocket es **mini, liviano y barato** (alrededor de $33.600), con la mayor base de opiniones de todos (más de 6.200). No va a llenar una fiesta, pero para la mochila, el viaje, el baño o el escritorio cumple de sobra y suena mejor de lo que su tamaño sugiere.` },
+      { type: "p", content: `Lo honesto: son 5 W, así que es sonido personal, no para ambientar un patio. Para eso mirá los de abajo. Pero como primer parlante o como el "para llevar", por precio y ventas no tiene con qué competir.` },
+
+      { type: "h3", title: `2. JBL Flip 7 — el todoterreno` },
+      { type: "product-card", productMlaId: "MLA48958711", label: "El todoterreno", labelColor: "blue", ranking: 2, description: `Portátil mediano resistente al agua y al polvo, con sonido potente para su tamaño. 4.8 estrellas en 482 calificaciones. El equilibrio de la gama JBL.` },
+      { type: "p", content: `Si querés calidad JBL en un tamaño que sirve para casi todo, el Flip 7 es la elección. Es el **todoterreno**: lo bastante chico para llevar, lo bastante potente para una juntada, y resistente al agua y al polvo para usarlo afuera o en la pileta. Es el punto justo de la gama JBL entre los mini y los grandes, y por eso el más recomendado para la mayoría que quiere un solo parlante para todo.` },
+      { type: "p", content: `Cuesta bastante más que el Xiaomi (alrededor de $167.000), así que la diferencia la pagás en sonido, marca y resistencia. Si tu uso es solo personal, el Xiaomi alcanza; si querés un parlante que rinda en más situaciones y dure, el Flip 7 los justifica.` },
+
+      { type: "h3", title: `3. JBL Go Essential — el JBL chico` },
+      { type: "product-card", productMlaId: "MLA44711946", label: "JBL económico", labelColor: "blue", ranking: 3, description: `El JBL más accesible: chico, waterproof y con la firma de sonido de la marca. 4.8 estrellas en más de 2.100 calificaciones.` },
+      { type: "p", content: `Es la puerta de entrada a JBL. El Go Essential es **chico y waterproof**, con el sonido característico de la marca por un precio mucho menor que el Flip (alrededor de $57.000). Compite en tamaño con el Xiaomi Pocket: el Xiaomi es más barato y con más opiniones; el Go Essential suma la marca JBL y la resistencia al agua. Para quien quiere un JBL sin gastar tanto, es la opción.` },
+
+      { type: "h3", title: `4. JBL Charge 5 — potencia y batería` },
+      { type: "product-card", productMlaId: "MLA44709426", label: "Potencia + batería", labelColor: "purple", ranking: 4, description: `Parlante grande con sonido potente, batería que dura y que además carga el celular. 4.9 estrellas en 216 calificaciones, waterproof.` },
+      { type: "p", content: `Cuando querés sonido fuerte y autonomía, el Charge 5 es el salto. Suena más alto y con más graves que el Flip, tiene **batería grande** (aguanta una previa entera) y un extra útil: **carga el celular** como un power bank. Es resistente al agua y pensado para exteriores y juntadas más grandes, a cambio de más tamaño y precio (alrededor de $250.000).` },
+
+      { type: "h3", title: `5. JBL Boombox 3 — el de fiesta` },
+      { type: "product-card", productMlaId: "MLA45498184", label: "El de fiesta", labelColor: "purple", ranking: 5, description: `El más potente de la gama portátil: graves fuertes, mucho volumen y batería para una fiesta entera. 4.9 estrellas en 232 calificaciones.` },
+      { type: "p", content: `Es el parlante portátil "serio". El Boombox 3 tiene **volumen y graves de fiesta**, se escucha en un patio o una terraza sin esfuerzo, y la batería aguanta horas. Es grande, pesado y caro (alrededor de $625.000), así que lo elegís solo si de verdad vas a ambientar reuniones o exteriores. Para uso doméstico es más de lo que necesitás; para fiestas, es el rey portátil.` },
+
+      { type: "h3", title: `6. Noblex MNT290 — torre para el hogar` },
+      { type: "product-card", productMlaId: "MLA15733030", label: "Torre para el hogar", labelColor: "amber", ranking: 6, description: `Torre de sonido fija para casa, con bluetooth, luces LED y efectos. 4.6 estrellas en más de 3.000 calificaciones.` },
+      { type: "p", content: `Si lo que querés es un **equipo de sonido fijo en casa** y no un portátil, la torre Noblex es la opción más vendida. Da volumen potente para ambientar el living o una reunión, suma luces LED y efectos, y cuesta menos que un JBL grande (alrededor de $166.500). No es para llevar (es un mueble), pero como equipo de hogar con bluetooth y mucho respaldo de opiniones, es difícil de igualar por el precio.` },
+
+      { type: "h2", title: `Tabla comparativa: por tamaño y uso`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
+        [`[Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757)`, `$33.599`, `Mini`, `Llevar a todos lados, el más barato`],
+        [`[JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946)`, `$57.119`, `Chico`, `JBL económico, waterproof`],
+        [`[JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711)`, `$167.466`, `Mediano`, `El todoterreno para casi todo`],
+        [`[JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
+        [`[JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
+        [`[Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030)`, `$166.499`, `Torre`, `Equipo fijo de hogar`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu parlante bluetooth`, id: "como-elegir" },
+      { type: "h3", title: `1. El tamaño según el uso` },
+      { type: "p", content: `Es la decisión madre. Mini (Xiaomi Pocket, Go Essential) para llevar y uso personal. Mediano (Flip 7) para el todoterreno que sirve en casa y afuera. Grande (Charge 5, Boombox 3) para potencia, fiestas y exteriores. Torre (Noblex) para equipo fijo en casa. Definí esto antes que la marca.` },
+      { type: "h3", title: `2. Resistencia al agua, si lo sacás afuera` },
+      { type: "p", content: `Si lo vas a usar en la pileta, la playa o la lluvia, que sea **waterproof** no es lujo. Los JBL (Go Essential, Flip 7, Charge 5, Boombox 3) lo son. Un mini barato sin resistencia al agua está bien para el escritorio, pero para exteriores conviene uno preparado.` },
+      { type: "h3", title: `3. Batería y, si querés, marca` },
+      { type: "p", content: `Para uso fuera de casa, mirá la batería: los grandes JBL aguantan horas y algunos cargan el celular. La marca también pesa en sonido y durabilidad: JBL es referencia en portátiles, Xiaomi imbatible en relación precio, Noblex fuerte en torres de hogar. Elegí según cuánto valorás cada cosa.` },
+
+      { type: "h2", title: `Cuánto cuesta un parlante bluetooth en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$33.000 a $60.000:** los chicos. El [Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757) (el más vendido) y el [JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946).`,
+        `**$160.000 a $250.000:** los medianos y grandes. El [JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) (todoterreno), el [JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) (potencia) y la torre [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030) para el hogar.`,
+        `**$625.000 o más:** el de fiesta. El [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184), solo si vas a ambientar reuniones o exteriores.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál parlante comprar`, id: "veredicto" },
+      { type: "verdict", content: `Depende del uso. Para **llevar y gastar poco**, el **Xiaomi Sound Pocket**: el más vendido y barato, imbatible como mini. Si querés **un solo parlante para todo** con calidad JBL, el **Flip 7** es el todoterreno, el más recomendado para la mayoría. Para **sonido fuerte y batería**, el **Charge 5** (y carga tu celular). Para **fiestas**, el **Boombox 3**. Y para un **equipo fijo en casa**, la torre **Noblex MNT290** rinde mucho por su precio. El error a evitar: comprar el tamaño equivocado: un mini no llena una fiesta, y un equipo de fiesta es de más para el escritorio.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor parlante bluetooth en Argentina?`, answer: `Depende del uso. El más vendido y barato es el [Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757), ideal para llevar. Si querés un solo parlante para todo con calidad, el [JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) es el todoterreno más recomendado. Para fiestas, el [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184); para el hogar fijo, la torre [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030).` },
+      { question: `¿Qué parlante bluetooth conviene para fiestas?`, answer: `Para previas y exteriores, el [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184): es el más potente de la gama portátil, con graves fuertes y batería para horas. Un escalón abajo, el [JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) ya da buen volumen para una juntada y cuesta bastante menos. Para casa fija, una torre como la Noblex.` },
+      { question: `¿Vale la pena un JBL o conviene uno más barato?`, answer: `Si tu uso es personal (escritorio, mochila), un [Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757) te da lo necesario por mucho menos. JBL se justifica si querés mejor sonido, resistencia al agua para exteriores y la durabilidad de la marca: ahí el [Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) es el equilibrio. Pagás más, pero rinde en más situaciones.` },
+      { question: `¿Qué significa que un parlante sea waterproof?`, answer: `Que resiste el agua (salpicaduras, lluvia y, según el modelo, sumergirse un rato). Es importante si lo usás en la pileta, la playa o afuera. Los JBL de esta guía (Go Essential, Flip 7, Charge 5, Boombox 3) son resistentes al agua. Para uso solo en casa o escritorio no es imprescindible.` },
+      { question: `¿Conviene un parlante portátil o una torre de sonido?`, answer: `Si lo vas a mover (llevar, exteriores), un portátil bluetooth. Si querés un equipo fijo en casa con más volumen para ambientar el living, una torre como la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030) da más sonido por el precio, a cambio de no ser transportable. Mucha gente termina con un portátil chico para llevar y una torre para casa.` },
+    ],
+    internalLinks: [
+      { label: "Parlantes JBL: cuál comprar y cuál conviene", href: "/guias/audio/parlante-jbl" },
+      { label: "Torre de sonido: cuál comprar para el hogar", href: "/guias/audio/torre-de-sonido" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR estufas-electricas — silo climatizacion (/guias/climatizacion/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────
