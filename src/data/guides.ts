@@ -511,6 +511,167 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
+  // SATÉLITE auriculares-jbl (silo audio) — STAGED
+  {
+    slug: "auriculares-jbl",
+    category: "audio",
+    silo: "audio",
+    title: `Auriculares JBL: cuál comprar en Argentina [2026]`,
+    seoTitle: `Auriculares JBL 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué auriculares JBL comprar en Argentina: in-ear Wave o vinchas Tune, con o sin cancelación, precios reales y cuál conviene. Compará.`,
+    ogTitle: `Auriculares JBL: cuál comprar en Argentina`,
+    ogDescription: `In-ear Wave o vinchas Tune 520, 720 y 770NC. La gama de auriculares JBL comparada por tipo, cancelación de ruido y precio real de MercadoLibre.`,
+    h1: `Auriculares JBL: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `JBL tiene auriculares para cada uso: in-ear para llevar y vinchas Tune con o sin cancelación de ruido. Te mostramos la gama ordenada, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA23997257", label: "La vincha más vendida", labelColor: "green", tagline: "JBL Tune 520BT: la vincha de entrada, más de 50 horas de batería" },
+      { productMlaId: "MLA24519483", label: "Vincha mejorada", labelColor: "blue", tagline: "JBL Tune 720BT: mejor sonido, la más elegida de la línea Tune" },
+      { productMlaId: "MLA53285777", label: "Con cancelación", labelColor: "purple", tagline: "JBL Tune 770NC: vincha con cancelación activa de ruido" },
+      { productMlaId: "MLA53657592", label: "El in-ear", labelColor: "amber", tagline: "JBL Wave Beam 2: los earbuds JBL para llevar a todos lados" },
+    ],
+    intro: [
+      `JBL es de las marcas de auriculares más buscadas de Argentina, y su gama se entiende fácil: los **Wave** son los in-ear (earbuds), y los **Tune** las vinchas, que van de la 520BT (entrada) a la 770NC (con cancelación de ruido). La diferencia entre ellos es el formato y las prestaciones, y de ahí el precio.`,
+      `En esta guía ordenamos los JBL más vendidos para que sepas cuál te conviene según el uso. Si querés ver auriculares de otras marcas (Xiaomi, Sony, Samsung), mirá la [guía general de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_649928-MLA95936459037_102025-F.jpg", alt: `Auriculares JBL Tune 720BT de vincha, parte de la gama de auriculares JBL`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los auriculares JBL con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: el **formato** (in-ear vs vincha), si tienen **cancelación de ruido**, la **batería** y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `La gama de auriculares JBL`, id: "gama" },
+      { type: "p", content: `Es simple: los **Wave** (como el Wave Beam 2) son los in-ear, earbuds chicos con estuche para llevar. Los **Tune** son las vinchas: la **520BT** es la de entrada (mucha batería, buen precio), la **720BT** mejora el sonido, y la **770NC** suma **cancelación activa de ruido**. Elegí por formato y por si querés cancelación; el resto cae solo.` },
+
+      { type: "h2", title: `Los mejores auriculares JBL 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. JBL Tune 520BT — la vincha más vendida` },
+      { type: "product-card", productMlaId: "MLA23997257", label: "La vincha más vendida", labelColor: "green", ranking: 1, description: `La vincha de entrada de JBL: más de 50 horas de batería y sonido de la marca, a buen precio. 4.8 estrellas en más de 1.600 calificaciones.` },
+      { type: "p", content: `Es el JBL que recomendamos para la mayoría que quiere una vincha. La Tune 520BT da **más de 50 horas de batería**, el sonido JBL y la comodidad del formato de vincha, a alrededor de $80.000. Sin cancelación de ruido, pero para escuchar música y hablar con autonomía enorme, cumple de sobra y es la más accesible de la línea.` },
+      { type: "p", content: `Si no necesitás cancelación, es la compra lógica: das con lo esencial de JBL en vincha por el menor precio. Para subir un escalón de sonido, la 720BT; para cancelación, la 770NC.` },
+
+      { type: "h3", title: `2. JBL Tune 720BT — la vincha mejorada` },
+      { type: "product-card", productMlaId: "MLA24519483", label: "Vincha mejorada", labelColor: "blue", ranking: 2, description: `Mejor sonido que la 520BT, la vincha Tune más elegida. 4.8 estrellas en más de 2.400 calificaciones.` },
+      { type: "p", content: `Si querés un paso más de calidad sin irte a la cancelación, la 720BT es el punto dulce. Mejora el sonido respecto de la 520BT manteniendo el formato de vincha y la buena batería, a alrededor de $108.000, y es la Tune con más opiniones de todas (más de 2.400). Para quien escucha bastante música y nota la diferencia de audio, vale la diferencia.` },
+
+      { type: "h3", title: `3. JBL Tune 770NC — con cancelación de ruido` },
+      { type: "product-card", productMlaId: "MLA53285777", label: "Con cancelación", labelColor: "purple", ranking: 3, description: `Vincha over-ear con cancelación activa de ruido. 4.8 estrellas en más de 1.000 calificaciones. Para aislarte en viajes y oficina.` },
+      { type: "p", content: `Si querés cancelación de ruido en JBL, esta es. La **cancelación activa** te aísla del colectivo, la oficina o el avión, con el sonido JBL y buena batería, a alrededor de $163.000. Es el salto desde las Tune comunes: si viajás o trabajás en lugares ruidosos, la cancelación cambia la experiencia. Si no la necesitás, la 520BT o 720BT te ahorran plata.` },
+
+      { type: "h3", title: `4. JBL Wave Beam 2 — el in-ear` },
+      { type: "product-card", productMlaId: "MLA53657592", label: "El in-ear", labelColor: "amber", ranking: 4, description: `Los earbuds in-ear de JBL, con estuche para llevar. 4.8 estrellas en más de 600 calificaciones.` },
+      { type: "p", content: `Si preferís el formato in-ear (earbuds chicos en vez de vincha), el Wave Beam 2 es el JBL para eso. Más portátil y discreto, con el sonido de la marca, a alrededor de $99.000. Para uso diario, la calle y llamadas, sin el volumen de una vincha. Si querés in-ear más baratos, mirá la [guía general de auriculares](/guias/audio/auriculares-inalambricos) (los Xiaomi Redmi Buds salen mucho menos).` },
+
+      { type: "h2", title: `Tabla comparativa: la gama JBL`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Ideal para`], rows: [
+        [`[JBL Wave Beam 2](https://meli.la/2nnvajF)`, `$98.919`, `In-ear`, `Earbuds JBL para llevar`],
+        [`[JBL Tune 520BT](https://meli.la/1ovdrES)`, `$79.990`, `Vincha`, `La vincha de entrada, mucha batería`],
+        [`[JBL Tune 720BT](https://meli.la/1PhKyyq)`, `$107.999`, `Vincha`, `Mejor sonido, la más elegida`],
+        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `$163.197`, `Vincha con cancelación`, `Aislarte del ruido`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu JBL`, id: "como-elegir" },
+      { type: "h3", title: `1. In-ear o vincha` },
+      { type: "p", content: `In-ear (Wave Beam 2) para portabilidad y discreción; vincha (Tune) para comodidad de muchas horas, más batería y mejor sonido por el precio. Si lo llevás siempre, in-ear; si priorizás comodidad y autonomía, vincha.` },
+      { type: "h3", title: `2. ¿Querés cancelación de ruido?` },
+      { type: "p", content: `Solo la Tune 770NC la trae en esta selección. Si viajás o estás en lugares ruidosos, vale la pena. Si no, la 520BT o 720BT te dan el sonido JBL por menos. No pagues la cancelación si no la vas a aprovechar.` },
+
+      { type: "h2", title: `Veredicto: cuál JBL comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **JBL Tune 520BT**: la vincha de entrada con más de 50 horas de batería y el sonido de la marca al mejor precio. Si querés un paso más de sonido, la **Tune 720BT** (la más elegida). Para **cancelación de ruido**, la **Tune 770NC**. Y si preferís in-ear, el **Wave Beam 2**. Si lo que buscás es ahorrar y no te casás con JBL, mirá la [guía general de auriculares](/guias/audio/auriculares-inalambricos): los Xiaomi Redmi Buds rinden muy bien por mucho menos.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor auricular JBL?`, answer: `Para la mayoría, la [JBL Tune 520BT](https://meli.la/1ovdrES): vincha de entrada con más de 50 horas de batería y buen precio. Si querés mejor sonido, la [Tune 720BT](https://meli.la/1PhKyyq); para cancelación de ruido, la [Tune 770NC](https://meli.la/1mR75zc); y si preferís in-ear, el [Wave Beam 2](https://meli.la/2nnvajF).` },
+      { question: `¿Qué diferencia hay entre la JBL Tune 520BT, 720BT y 770NC?`, answer: `Son vinchas de la misma línea: la 520BT es la de entrada (mucha batería, buen precio), la 720BT mejora el sonido, y la 770NC suma cancelación activa de ruido. A más número, más prestaciones y precio. Elegí según si te importa más el precio (520BT), el sonido (720BT) o el aislamiento (770NC).` },
+      { question: `¿Los JBL valen la pena o conviene algo más barato?`, answer: `JBL da buen sonido, marca y batería, pero hay opciones más baratas. Si tu uso es básico, unos [Xiaomi Redmi Buds](/guias/audio/auriculares-inalambricos) salen mucho menos. JBL se justifica si querés el sonido y la durabilidad de la marca, y la línea Tune ofrece esa calidad a precios razonables, sobre todo la 520BT.` },
+    ],
+    internalLinks: [
+      { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "Auriculares deportivos: cuál comprar", href: "/guias/audio/auriculares-deportivos" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
+  // SATÉLITE auriculares-deportivos (silo audio) — STAGED
+  {
+    slug: "auriculares-deportivos",
+    category: "audio",
+    silo: "audio",
+    title: `Auriculares deportivos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Auriculares Deportivos 2026: Cuál Comprar Argentina`,
+    metaDescription: `Conocé qué auriculares deportivos comprar en Argentina: con gancho, open ear o in-ear, que no se caen al correr, resistentes al agua y baratos. Compará.`,
+    ogTitle: `Auriculares deportivos: cuál comprar para entrenar`,
+    ogDescription: `Con gancho, open ear o in-ear: los auriculares para correr que no se caen, resistentes al agua. Comparados por tipo de sujeción y precio real de MercadoLibre.`,
+    h1: `Auriculares deportivos: cuál comprar en Argentina para entrenar [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Los auriculares comunes se caen al correr; los deportivos no. Te mostramos los tres formatos (con gancho, open ear e in-ear deportivo), cuál conviene según cómo entrenás y cuáles resisten el sudor y el agua, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA41255867", label: "El más vendido", labelColor: "green", tagline: "Alpina F50 Pro: con gancho de oreja, no se caen al correr, y baratos" },
+      { productMlaId: "MLA41013705", label: "Para correr al aire libre", labelColor: "blue", tagline: "Vention Open Ear: no tapan el oído, escuchás el entorno (autos, gente)" },
+      { productMlaId: "MLA43473453", label: "In-ear económico", labelColor: "purple", tagline: "Lenovo XT80: in-ear deportivo con cancelación, opción barata" },
+    ],
+    intro: [
+      `Si entrenás con auriculares, ya sabés el problema: los in-ear comunes se aflojan y se caen a mitad de la serie o de la corrida. Los **deportivos** lo resuelven de tres formas: con **gancho** de oreja que los sujeta firme, con formato **open ear** que se apoya sin meterse en el canal, o como **in-ear deportivos** con almohadillas que agarran mejor. Y casi todos resisten el sudor y el agua.`,
+      `En esta guía comparamos los más vendidos de cada formato para que elijas según cómo entrenás. Si querés ver auriculares en general (no solo deportivos), mirá la [guía de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_847250-MLA99998945373_112025-F.jpg", alt: `Auriculares deportivos Vention Open Ear, formato abierto para correr al aire libre`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los auriculares deportivos con más ventas y opiniones reales en MercadoLibre Argentina. Evaluamos lo que importa para entrenar: el **tipo de sujeción** (gancho, open ear, in-ear), la **resistencia al agua y el sudor** (IPX), la **batería** y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `Los tres tipos de auricular deportivo`, id: "tipos" },
+      { type: "p", content: `El **de gancho** se engancha sobre la oreja y es el que mejor se sujeta: no se cae ni saltando ni corriendo, ideal para entrenamiento intenso. El **open ear** se apoya sin tapar el canal del oído, así que escuchás el entorno (autos, gente): el más seguro para correr en la calle, a costa de menos aislamiento. Y el **in-ear deportivo** es un earbud común con mejor agarre, más discreto, para uso mixto.` },
+
+      { type: "h2", title: `Los mejores auriculares deportivos 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Alpina F50 Pro — el más vendido (con gancho)` },
+      { type: "product-card", productMlaId: "MLA41255867", label: "El más vendido", labelColor: "green", ranking: 1, description: `Deportivos con gancho de oreja que los sujeta firme, inalámbricos y baratos. 4.7 estrellas en más de 3.000 calificaciones.` },
+      { type: "p", content: `Es el deportivo que recomendamos para la mayoría. El gancho de oreja los sujeta firme, así que **no se caen** ni en entrenamiento intenso ni corriendo, y son inalámbricos y baratos (alrededor de $24.900). Con más de 3.000 opiniones, es el más vendido del formato. Si tu prioridad es que no se muevan mientras te movés, son la opción lógica.` },
+      { type: "p", content: `No compiten en sonido con unos premium, pero para el gimnasio y salir a correr, la sujeción y el precio los hacen imbatibles. Un par dedicado al deporte que aguanta el ritmo.` },
+
+      { type: "h3", title: `2. Vention Open Ear — para correr al aire libre` },
+      { type: "product-card", productMlaId: "MLA41013705", label: "Para correr al aire libre", labelColor: "blue", ranking: 2, description: `Formato open ear que no tapa el oído, IPX5 y hasta 35 horas de batería. 4.7 estrellas en 400 calificaciones.` },
+      { type: "p", content: `Si corrés en la calle, estos son los más seguros. El formato **open ear** se apoya sin meterse en el oído, así que **escuchás el entorno** (autos, bocinas, gente) mientras entrenás, algo clave para correr en la vía pública. Suman resistencia al agua IPX5 (sudor y lluvia) y hasta 35 horas de batería, a alrededor de $26.000.` },
+      { type: "p", content: `El compromiso es el aislamiento: al no tapar el oído, en lugares ruidosos se escuchan menos y pierden algo de graves. Pero para correr afuera con seguridad, es justamente lo que querés. Para gimnasio cerrado, el gancho de la Alpina aísla más.` },
+
+      { type: "h3", title: `3. Lenovo XT80 — in-ear económico` },
+      { type: "product-card", productMlaId: "MLA43473453", label: "In-ear económico", labelColor: "purple", ranking: 3, description: `In-ear deportivos con buen agarre, inalámbricos y muy baratos. 4.6 estrellas en más de 650 calificaciones.` },
+      { type: "p", content: `Si preferís el formato in-ear clásico para entrenar y gastar lo mínimo, los Lenovo XT80 son la opción. Son earbuds deportivos a alrededor de $27.000, más discretos que el gancho o el open ear, con buen respaldo de ventas. Para uso mixto (deporte y diario) y presupuesto ajustado, cumplen.` },
+      { type: "p", content: `Al ser in-ear, se sujetan menos que los de gancho en movimiento intenso, así que para entrenamiento fuerte la Alpina es más segura. Pero como opción barata y versátil, los XT80 rinden bien.` },
+
+      { type: "h2", title: `Tabla comparativa: por tipo de sujeción`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Ideal para`], rows: [
+        [`[Alpina F50 Pro](https://meli.la/2UAS5x1)`, `$24.875`, `Gancho`, `Que no se caigan, entrenamiento intenso`],
+        [`[Vention Open Ear](https://meli.la/2dsHLzN)`, `$26.009`, `Open ear`, `Correr en la calle oyendo el entorno`],
+        [`[Lenovo XT80](https://meli.la/1B6V5G7)`, `$27.053`, `In-ear`, `Económico y discreto, uso mixto`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tus auriculares deportivos`, id: "como-elegir" },
+      { type: "h3", title: `1. Por cómo y dónde entrenás` },
+      { type: "p", content: `Para gimnasio o entrenamiento intenso donde no querés que se muevan, los de **gancho** (Alpina). Para correr en la calle donde necesitás oír el entorno por seguridad, los **open ear** (Vention). Para uso mixto y discreto, los **in-ear** deportivos (Lenovo XT80). El formato es lo que más cambia tu experiencia.` },
+      { type: "h3", title: `2. Resistencia al sudor y al agua` },
+      { type: "p", content: `Para deporte, que resistan el sudor y el agua (IPX4 o IPX5) no es opcional: vas a transpirar y a veces correr bajo lluvia. Los tres de esta guía lo soportan. Es lo primero a confirmar en cualquier auricular que vayas a usar entrenando.` },
+
+      { type: "h2", title: `Veredicto: cuáles auriculares deportivos comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, los **Alpina F50 Pro** con gancho: no se caen ni en el ejercicio más intenso, son los más vendidos y baratos. Si corrés **en la calle** y necesitás oír el entorno por seguridad, los **Vention Open Ear** son los indicados. Y si querés el formato **in-ear** discreto y económico, los **Lenovo XT80**. Lo no negociable: que resistan el sudor y el agua. Elegí el formato según cómo entrenás y listo.` },
+    ],
+    faq: [
+      { question: `¿Cuáles son los mejores auriculares deportivos?`, answer: `Para que no se caigan, los [Alpina F50 Pro](https://meli.la/2UAS5x1) con gancho de oreja (más de 3.000 opiniones, baratos). Si corrés en la calle y necesitás oír el entorno, los [Vention Open Ear](https://meli.la/2dsHLzN); y para un in-ear económico, los [Lenovo XT80](https://meli.la/1B6V5G7).` },
+      { question: `¿Qué auriculares no se caen al correr?`, answer: `Los de gancho de oreja, como los [Alpina F50 Pro](https://meli.la/2UAS5x1): el gancho los sujeta firme y aguantan saltos y corridas sin moverse. Los in-ear comunes tienden a aflojarse con el movimiento; para entrenamiento intenso, el gancho es la opción más segura.` },
+      { question: `¿Qué son los auriculares open ear?`, answer: `Son auriculares que se apoyan sobre la oreja sin meterse en el canal del oído, así que no lo tapan y escuchás el entorno mientras los usás. Los [Vention Open Ear](https://meli.la/2dsHLzN) son de este tipo: ideales para correr en la calle porque oís autos y gente, a costa de menos aislamiento del ruido.` },
+      { question: `¿Los auriculares deportivos resisten el agua y el sudor?`, answer: `Los buenos sí. Buscá certificación IPX4 o IPX5, que resiste sudor, salpicaduras y lluvia. Los tres de esta guía la tienen. Es lo primero a confirmar antes de comprar unos para entrenar: el sudor arruina los que no están preparados.` },
+    ],
+    internalLinks: [
+      { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
   // ─────────────────────────────────────────────────────────
   // PILAR estufas-electricas — silo climatizacion (/guias/climatizacion/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
