@@ -136,6 +136,100 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
+  // SATÉLITE parlante-jbl (silo audio) — STAGED
+  {
+    slug: "parlante-jbl",
+    category: "audio",
+    silo: "audio",
+    title: `Parlante JBL: cuál comprar en Argentina [2026]`,
+    seoTitle: `Parlante JBL 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué parlante JBL comprar en Argentina: Go, Flip, Charge o Boombox, cuál conviene según el uso y el precio real. Compará los modelos.`,
+    ogTitle: `Parlante JBL: cuál comprar en Argentina`,
+    ogDescription: `Go Essential, Flip 7, Charge 5 o Boombox 3: la gama JBL comparada por tamaño, potencia y precio real de MercadoLibre. Cuál conviene según para qué lo querés.`,
+    h1: `Parlante JBL: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `JBL tiene un parlante para cada uso, del Go que entra en el bolsillo al Boombox de fiesta. Te mostramos la gama ordenada por tamaño y potencia, qué resignás en cada uno y cuál conviene según para qué lo querés, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA48958711", label: "El mejor para la mayoría", labelColor: "green", tagline: "JBL Flip 7: el todoterreno que equilibra sonido, tamaño y resistencia" },
+      { productMlaId: "MLA44711946", label: "El más accesible", labelColor: "blue", tagline: "JBL Go Essential: el JBL chico y waterproof al mejor precio" },
+      { productMlaId: "MLA44709426", label: "Potencia + batería", labelColor: "purple", tagline: "JBL Charge 5: sonido fuerte, mucha batería y carga tu celular" },
+      { productMlaId: "MLA45498184", label: "El de fiesta", labelColor: "amber", tagline: "JBL Boombox 3: el más potente, para previas y exteriores" },
+    ],
+    intro: [
+      `JBL es la marca de parlantes portátiles más buscada de Argentina, y con razón: sonido reconocible, buena resistencia y una gama que cubre todos los usos. El problema al comprar es elegir entre tantos modelos parecidos: Go, Flip, Charge, Boombox. La diferencia entre ellos es básicamente el **tamaño y la potencia**, y de ahí el precio.`,
+      `En esta guía ordenamos la gama JBL de menor a mayor, con lo que gana y lo que resigna cada uno, para que sepas cuál te conviene según para qué lo vas a usar. Precios reales de MercadoLibre, y al final el veredicto según tu caso. Si buscás opciones de otras marcas, mirá la [guía general de parlantes](/guias/audio/parlantes).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_886635-MLA100077802831_122025-F.jpg", alt: `Parlante JBL Charge 5, parte de la gama de parlantes bluetooth JBL`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los parlantes JBL con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: el **tamaño**, la **potencia**, la **batería**, la **resistencia al agua** y el precio. Las calificaciones son de compradores reales. Precios de junio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `La gama JBL, de menor a mayor`, id: "gama" },
+      { type: "p", content: `Toda la gama portátil de JBL comparte la firma de sonido y la resistencia al agua; lo que cambia es el tamaño y, con él, la potencia, la batería y el precio. El **Go** es el chico de bolsillo; el **Flip**, el portátil mediano todoterreno; el **Charge**, el grande con batería que carga el celular; y el **Boombox**, el de fiesta. Elegí por uso, no por modelo.` },
+      { type: "p", content: `Regla rápida: para llevar siempre encima, Go. Para un solo parlante que sirva en casa y afuera, Flip. Para sonido fuerte y autonomía, Charge. Para ambientar una fiesta o un patio, Boombox. Cuanto más grande, más potencia y batería, pero menos portátil y más caro.` },
+
+      { type: "h2", title: `Los mejores parlantes JBL 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. JBL Flip 7 — el mejor para la mayoría` },
+      { type: "product-card", productMlaId: "MLA48958711", label: "El mejor para la mayoría", labelColor: "green", ranking: 1, description: `El portátil mediano todoterreno: sonido potente para su tamaño, resistente al agua y al polvo. 4.8 estrellas en 482 calificaciones. El equilibrio de la gama.` },
+      { type: "p", content: `Si querés un solo JBL para todo, es el Flip 7. Es lo bastante chico para llevar y lo bastante potente para una juntada, resistente al agua y al polvo para usarlo en la pileta o afuera. Está justo en el medio de la gama: más sonido que el Go, más portátil que el Charge. Por eso es el más recomendado para la mayoría que quiere un parlante que rinda en casi cualquier situación.` },
+      { type: "p", content: `Ronda los $167.000. Si tu uso es solo personal (escritorio, mochila), el Go Essential alcanza por mucho menos; si querés sonido de fiesta, mirá el Charge o el Boombox. Pero como punto justo entre tamaño, sonido y precio, el Flip 7 es la elección segura.` },
+
+      { type: "h3", title: `2. JBL Go Essential — el más accesible` },
+      { type: "product-card", productMlaId: "MLA44711946", label: "El más accesible", labelColor: "blue", ranking: 2, description: `El JBL más chico y barato, waterproof, con la firma de sonido de la marca. 4.8 estrellas en más de 2.100 calificaciones.` },
+      { type: "p", content: `Es la puerta de entrada a JBL. Chico, liviano y resistente al agua, con el sonido característico de la marca por un precio mucho menor que el Flip (alrededor de $57.000). Es sonido personal, no para llenar un ambiente, pero para llevar a todos lados con calidad JBL es imbatible dentro de la marca, y tiene la mayor base de opiniones de la gama (más de 2.100).` },
+
+      { type: "h3", title: `3. JBL Charge 5 — potencia y batería` },
+      { type: "product-card", productMlaId: "MLA44709426", label: "Potencia + batería", labelColor: "purple", ranking: 3, description: `Grande, con sonido potente, batería que dura y que además carga el celular. 4.9 estrellas en 216 calificaciones, waterproof.` },
+      { type: "p", content: `Cuando querés más volumen y autonomía, el Charge 5 es el salto. Suena más alto y con más graves que el Flip, la batería aguanta una previa entera y, de yapa, **carga el celular** como power bank. Es resistente al agua y pensado para exteriores y juntadas más grandes. Cuesta alrededor de $250.000: lo elegís si el sonido fuerte y la batería te importan más que la portabilidad.` },
+
+      { type: "h3", title: `4. JBL Boombox 3 — el de fiesta` },
+      { type: "product-card", productMlaId: "MLA45498184", label: "El de fiesta", labelColor: "amber", ranking: 4, description: `El más potente de la gama portátil: graves fuertes, mucho volumen y batería para una fiesta entera. 4.9 estrellas en 232 calificaciones.` },
+      { type: "p", content: `Es el JBL "serio". El Boombox 3 tiene volumen y graves de fiesta, se escucha en un patio o una terraza sin esfuerzo, y la batería aguanta horas. Es grande, pesado y caro (alrededor de $625.000), así que lo elegís solo si de verdad vas a ambientar reuniones o exteriores. Para uso doméstico es más de lo que necesitás; para fiestas, es el rey portátil de JBL.` },
+
+      { type: "h2", title: `Tabla comparativa: la gama JBL`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
+        [`[JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946)`, `$57.119`, `Chico`, `Llevar siempre, el más barato`],
+        [`[JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711)`, `$167.466`, `Mediano`, `El todoterreno para la mayoría`],
+        [`[JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
+        [`[JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu JBL`, id: "como-elegir" },
+      { type: "h3", title: `1. Por el tamaño y el uso` },
+      { type: "p", content: `Para llevar siempre encima y uso personal, el Go Essential. Para un solo parlante que sirva en casa y afuera, el Flip 7. Para sonido fuerte y batería, el Charge 5. Para fiestas y exteriores, el Boombox 3. No compres más tamaño del que vas a usar: un Boombox para el escritorio es gastar de más, y un Go no llena un patio.` },
+      { type: "h3", title: `2. Batería y carga del celular` },
+      { type: "p", content: `Si lo vas a usar lejos del enchufe, mirá la batería: los Charge y Boombox aguantan muchas horas, y el Charge 5 además carga el celular, útil en una salida. Los chicos (Go, Flip) tienen menos autonomía, suficiente para uso diario pero no para una jornada entera de música.` },
+      { type: "h3", title: `3. Todos resisten el agua (úsalo afuera tranquilo)` },
+      { type: "p", content: `Una ventaja transversal de la gama: todos estos JBL son resistentes al agua, así que los podés usar en la pileta, la playa o bajo lluvia sin drama. Es uno de los motivos por los que la marca es tan elegida para exteriores frente a opciones más baratas sin protección.` },
+
+      { type: "h2", title: `Cuánto cuesta un parlante JBL en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $57.000:** el [JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946), la entrada a la marca.`,
+        `**$167.000 a $250.000:** el [Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) (todoterreno) y el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) (potencia y batería). La franja que conviene para la mayoría.`,
+        `**$625.000 o más:** el [Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184), solo si vas a ambientar fiestas o exteriores.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál JBL comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **JBL Flip 7**: el todoterreno que equilibra sonido, tamaño y resistencia, y rinde en casi cualquier situación. Si querés gastar menos y es para llevar, el **Go Essential** es la entrada a la marca al mejor precio. Si buscás **sonido fuerte y batería** (y cargar el celular), el **Charge 5**. Y para **fiestas**, el **Boombox 3**. La gama entera resiste el agua, así que para exteriores cualquiera sirve. El error a evitar: comprar más tamaño del que vas a usar. Si querés ver otras marcas, mirá la [guía general de parlantes](/guias/audio/parlantes).` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor parlante JBL?`, answer: `Para la mayoría, el [JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711): es el todoterreno que mejor equilibra sonido, tamaño y resistencia. Si querés el más barato para llevar, el [Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946); para potencia y batería, el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426); para fiestas, el [Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184).` },
+      { question: `¿Qué diferencia hay entre JBL Go, Flip, Charge y Boombox?`, answer: `Básicamente el tamaño y la potencia. El Go es el chico de bolsillo; el Flip, el portátil mediano todoterreno; el Charge, el grande con batería que carga el celular; el Boombox, el de fiesta. Todos comparten la firma de sonido JBL y la resistencia al agua. Elegí por el uso: cuanto más grande, más potencia y batería, pero menos portátil y más caro.` },
+      { question: `¿Vale la pena el JBL Charge 5 sobre el Flip 7?`, answer: `Si querés más volumen, más graves y más batería (y cargar el celular), sí: el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) es un escalón de potencia sobre el [Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711). Pero es más grande, pesado y caro. Si tu uso es mixto (casa y salidas) y no necesitás tanto volumen, el Flip 7 es más práctico y más barato.` },
+      { question: `¿Los parlantes JBL son resistentes al agua?`, answer: `Sí, toda la gama portátil de esta guía (Go Essential, Flip 7, Charge 5, Boombox 3) es resistente al agua, así que los podés usar en la pileta, la playa o bajo lluvia. Es una de las ventajas de JBL frente a opciones baratas sin protección, y un motivo por el que se elige tanto para exteriores.` },
+      { question: `¿Cuál JBL conviene para una fiesta?`, answer: `El [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184): es el más potente de la gama portátil, con graves fuertes y batería para horas, ideal para previas y exteriores. Si la fiesta es más chica o el presupuesto ajusta, el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) ya da buen volumen por bastante menos.` },
+    ],
+    internalLinks: [
+      { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
+      { label: "Torre de sonido: cuál comprar para el hogar", href: "/guias/audio/torre-de-sonido" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
   // ─────────────────────────────────────────────────────────
   // PILAR estufas-electricas — silo climatizacion (/guias/climatizacion/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
