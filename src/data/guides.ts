@@ -96,12 +96,12 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por tamaño y uso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
-        [`[Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757)`, `$33.599`, `Mini`, `Llevar a todos lados, el más barato`],
-        [`[JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946)`, `$57.119`, `Chico`, `JBL económico, waterproof`],
-        [`[JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711)`, `$167.466`, `Mediano`, `El todoterreno para casi todo`],
-        [`[JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
-        [`[JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
-        [`[Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030)`, `$166.499`, `Torre`, `Equipo fijo de hogar`],
+        [`[Xiaomi Sound Pocket](https://meli.la/2aD2P7V)`, `$33.599`, `Mini`, `Llevar a todos lados, el más barato`],
+        [`[JBL Go Essential](https://meli.la/1M5XMiQ)`, `$57.119`, `Chico`, `JBL económico, waterproof`],
+        [`[JBL Flip 7](https://meli.la/1NBXkt8)`, `$167.466`, `Mediano`, `El todoterreno para casi todo`],
+        [`[JBL Charge 5](https://meli.la/2rdrXGv)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
+        [`[JBL Boombox 3](https://meli.la/2wwPi19)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
+        [`[Noblex MNT290](https://meli.la/2XUcqza)`, `$166.499`, `Torre`, `Equipo fijo de hogar`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu parlante bluetooth`, id: "como-elegir" },
@@ -114,20 +114,20 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un parlante bluetooth en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$33.000 a $60.000:** los chicos. El [Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757) (el más vendido) y el [JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946).`,
-        `**$160.000 a $250.000:** los medianos y grandes. El [JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) (todoterreno), el [JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) (potencia) y la torre [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030) para el hogar.`,
-        `**$625.000 o más:** el de fiesta. El [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184), solo si vas a ambientar reuniones o exteriores.`,
+        `**$33.000 a $60.000:** los chicos. El [Xiaomi Sound Pocket](https://meli.la/2aD2P7V) (el más vendido) y el [JBL Go Essential](https://meli.la/1M5XMiQ).`,
+        `**$160.000 a $250.000:** los medianos y grandes. El [JBL Flip 7](https://meli.la/1NBXkt8) (todoterreno), el [JBL Charge 5](https://meli.la/2rdrXGv) (potencia) y la torre [Noblex MNT290](https://meli.la/2XUcqza) para el hogar.`,
+        `**$625.000 o más:** el de fiesta. El [JBL Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar reuniones o exteriores.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál parlante comprar`, id: "veredicto" },
       { type: "verdict", content: `Depende del uso. Para **llevar y gastar poco**, el **Xiaomi Sound Pocket**: el más vendido y barato, imbatible como mini. Si querés **un solo parlante para todo** con calidad JBL, el **Flip 7** es el todoterreno, el más recomendado para la mayoría. Para **sonido fuerte y batería**, el **Charge 5** (y carga tu celular). Para **fiestas**, el **Boombox 3**. Y para un **equipo fijo en casa**, la torre **Noblex MNT290** rinde mucho por su precio. El error a evitar: comprar el tamaño equivocado: un mini no llena una fiesta, y un equipo de fiesta es de más para el escritorio.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor parlante bluetooth en Argentina?`, answer: `Depende del uso. El más vendido y barato es el [Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757), ideal para llevar. Si querés un solo parlante para todo con calidad, el [JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) es el todoterreno más recomendado. Para fiestas, el [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184); para el hogar fijo, la torre [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030).` },
-      { question: `¿Qué parlante bluetooth conviene para fiestas?`, answer: `Para previas y exteriores, el [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184): es el más potente de la gama portátil, con graves fuertes y batería para horas. Un escalón abajo, el [JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) ya da buen volumen para una juntada y cuesta bastante menos. Para casa fija, una torre como la Noblex.` },
-      { question: `¿Vale la pena un JBL o conviene uno más barato?`, answer: `Si tu uso es personal (escritorio, mochila), un [Xiaomi Sound Pocket](https://www.mercadolibre.com.ar/p/MLA44740757) te da lo necesario por mucho menos. JBL se justifica si querés mejor sonido, resistencia al agua para exteriores y la durabilidad de la marca: ahí el [Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) es el equilibrio. Pagás más, pero rinde en más situaciones.` },
+      { question: `¿Cuál es el mejor parlante bluetooth en Argentina?`, answer: `Depende del uso. El más vendido y barato es el [Xiaomi Sound Pocket](https://meli.la/2aD2P7V), ideal para llevar. Si querés un solo parlante para todo con calidad, el [JBL Flip 7](https://meli.la/1NBXkt8) es el todoterreno más recomendado. Para fiestas, el [JBL Boombox 3](https://meli.la/2wwPi19); para el hogar fijo, la torre [Noblex MNT290](https://meli.la/2XUcqza).` },
+      { question: `¿Qué parlante bluetooth conviene para fiestas?`, answer: `Para previas y exteriores, el [JBL Boombox 3](https://meli.la/2wwPi19): es el más potente de la gama portátil, con graves fuertes y batería para horas. Un escalón abajo, el [JBL Charge 5](https://meli.la/2rdrXGv) ya da buen volumen para una juntada y cuesta bastante menos. Para casa fija, una torre como la Noblex.` },
+      { question: `¿Vale la pena un JBL o conviene uno más barato?`, answer: `Si tu uso es personal (escritorio, mochila), un [Xiaomi Sound Pocket](https://meli.la/2aD2P7V) te da lo necesario por mucho menos. JBL se justifica si querés mejor sonido, resistencia al agua para exteriores y la durabilidad de la marca: ahí el [Flip 7](https://meli.la/1NBXkt8) es el equilibrio. Pagás más, pero rinde en más situaciones.` },
       { question: `¿Qué significa que un parlante sea waterproof?`, answer: `Que resiste el agua (salpicaduras, lluvia y, según el modelo, sumergirse un rato). Es importante si lo usás en la pileta, la playa o afuera. Los JBL de esta guía (Go Essential, Flip 7, Charge 5, Boombox 3) son resistentes al agua. Para uso solo en casa o escritorio no es imprescindible.` },
-      { question: `¿Conviene un parlante portátil o una torre de sonido?`, answer: `Si lo vas a mover (llevar, exteriores), un portátil bluetooth. Si querés un equipo fijo en casa con más volumen para ambientar el living, una torre como la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030) da más sonido por el precio, a cambio de no ser transportable. Mucha gente termina con un portátil chico para llevar y una torre para casa.` },
+      { question: `¿Conviene un parlante portátil o una torre de sonido?`, answer: `Si lo vas a mover (llevar, exteriores), un portátil bluetooth. Si querés un equipo fijo en casa con más volumen para ambientar el living, una torre como la [Noblex MNT290](https://meli.la/2XUcqza) da más sonido por el precio, a cambio de no ser transportable. Mucha gente termina con un portátil chico para llevar y una torre para casa.` },
     ],
     internalLinks: [
       { label: "Parlantes JBL: cuál comprar y cuál conviene", href: "/guias/audio/parlante-jbl" },
@@ -192,10 +192,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la gama JBL`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
-        [`[JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946)`, `$57.119`, `Chico`, `Llevar siempre, el más barato`],
-        [`[JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711)`, `$167.466`, `Mediano`, `El todoterreno para la mayoría`],
-        [`[JBL Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
-        [`[JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
+        [`[JBL Go Essential](https://meli.la/1M5XMiQ)`, `$57.119`, `Chico`, `Llevar siempre, el más barato`],
+        [`[JBL Flip 7](https://meli.la/1NBXkt8)`, `$167.466`, `Mediano`, `El todoterreno para la mayoría`],
+        [`[JBL Charge 5](https://meli.la/2rdrXGv)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
+        [`[JBL Boombox 3](https://meli.la/2wwPi19)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu JBL`, id: "como-elegir" },
@@ -208,20 +208,20 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un parlante JBL en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $57.000:** el [JBL Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946), la entrada a la marca.`,
-        `**$167.000 a $250.000:** el [Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711) (todoterreno) y el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) (potencia y batería). La franja que conviene para la mayoría.`,
-        `**$625.000 o más:** el [Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184), solo si vas a ambientar fiestas o exteriores.`,
+        `**Alrededor de $57.000:** el [JBL Go Essential](https://meli.la/1M5XMiQ), la entrada a la marca.`,
+        `**$167.000 a $250.000:** el [Flip 7](https://meli.la/1NBXkt8) (todoterreno) y el [Charge 5](https://meli.la/2rdrXGv) (potencia y batería). La franja que conviene para la mayoría.`,
+        `**$625.000 o más:** el [Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar fiestas o exteriores.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál JBL comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, el **JBL Flip 7**: el todoterreno que equilibra sonido, tamaño y resistencia, y rinde en casi cualquier situación. Si querés gastar menos y es para llevar, el **Go Essential** es la entrada a la marca al mejor precio. Si buscás **sonido fuerte y batería** (y cargar el celular), el **Charge 5**. Y para **fiestas**, el **Boombox 3**. La gama entera resiste el agua, así que para exteriores cualquiera sirve. El error a evitar: comprar más tamaño del que vas a usar. Si querés ver otras marcas, mirá la [guía general de parlantes](/guias/audio/parlantes).` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor parlante JBL?`, answer: `Para la mayoría, el [JBL Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711): es el todoterreno que mejor equilibra sonido, tamaño y resistencia. Si querés el más barato para llevar, el [Go Essential](https://www.mercadolibre.com.ar/p/MLA44711946); para potencia y batería, el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426); para fiestas, el [Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184).` },
+      { question: `¿Cuál es el mejor parlante JBL?`, answer: `Para la mayoría, el [JBL Flip 7](https://meli.la/1NBXkt8): es el todoterreno que mejor equilibra sonido, tamaño y resistencia. Si querés el más barato para llevar, el [Go Essential](https://meli.la/1M5XMiQ); para potencia y batería, el [Charge 5](https://meli.la/2rdrXGv); para fiestas, el [Boombox 3](https://meli.la/2wwPi19).` },
       { question: `¿Qué diferencia hay entre JBL Go, Flip, Charge y Boombox?`, answer: `Básicamente el tamaño y la potencia. El Go es el chico de bolsillo; el Flip, el portátil mediano todoterreno; el Charge, el grande con batería que carga el celular; el Boombox, el de fiesta. Todos comparten la firma de sonido JBL y la resistencia al agua. Elegí por el uso: cuanto más grande, más potencia y batería, pero menos portátil y más caro.` },
-      { question: `¿Vale la pena el JBL Charge 5 sobre el Flip 7?`, answer: `Si querés más volumen, más graves y más batería (y cargar el celular), sí: el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) es un escalón de potencia sobre el [Flip 7](https://www.mercadolibre.com.ar/p/MLA48958711). Pero es más grande, pesado y caro. Si tu uso es mixto (casa y salidas) y no necesitás tanto volumen, el Flip 7 es más práctico y más barato.` },
+      { question: `¿Vale la pena el JBL Charge 5 sobre el Flip 7?`, answer: `Si querés más volumen, más graves y más batería (y cargar el celular), sí: el [Charge 5](https://meli.la/2rdrXGv) es un escalón de potencia sobre el [Flip 7](https://meli.la/1NBXkt8). Pero es más grande, pesado y caro. Si tu uso es mixto (casa y salidas) y no necesitás tanto volumen, el Flip 7 es más práctico y más barato.` },
       { question: `¿Los parlantes JBL son resistentes al agua?`, answer: `Sí, toda la gama portátil de esta guía (Go Essential, Flip 7, Charge 5, Boombox 3) es resistente al agua, así que los podés usar en la pileta, la playa o bajo lluvia. Es una de las ventajas de JBL frente a opciones baratas sin protección, y un motivo por el que se elige tanto para exteriores.` },
-      { question: `¿Cuál JBL conviene para una fiesta?`, answer: `El [JBL Boombox 3](https://www.mercadolibre.com.ar/p/MLA45498184): es el más potente de la gama portátil, con graves fuertes y batería para horas, ideal para previas y exteriores. Si la fiesta es más chica o el presupuesto ajusta, el [Charge 5](https://www.mercadolibre.com.ar/p/MLA44709426) ya da buen volumen por bastante menos.` },
+      { question: `¿Cuál JBL conviene para una fiesta?`, answer: `El [JBL Boombox 3](https://meli.la/2wwPi19): es el más potente de la gama portátil, con graves fuertes y batería para horas, ideal para previas y exteriores. Si la fiesta es más chica o el presupuesto ajusta, el [Charge 5](https://meli.la/2rdrXGv) ya da buen volumen por bastante menos.` },
     ],
     internalLinks: [
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
@@ -277,9 +277,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: las tres torres`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Extra`, `Ideal para`], rows: [
-        [`[Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030)`, `$166.499`, `Luces LED`, `La más vendida y económica`],
-        [`[JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651)`, `$202.099`, `Micrófono (karaoke)`, `Potencia y cantar en casa`],
-        [`[Aiwa AW-T2018R](https://www.mercadolibre.com.ar/p/MLA20012498)`, `$288.099`, `Power bank`, `Premium con más prestaciones`],
+        [`[Noblex MNT290](https://meli.la/2XUcqza)`, `$166.499`, `Luces LED`, `La más vendida y económica`],
+        [`[JVC XS-LA5214](https://meli.la/2AFiBZG)`, `$202.099`, `Micrófono (karaoke)`, `Potencia y cantar en casa`],
+        [`[Aiwa AW-T2018R](https://meli.la/1FFKAw8)`, `$288.099`, `Power bank`, `Premium con más prestaciones`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu torre de sonido`, id: "como-elegir" },
@@ -290,8 +290,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una torre de sonido en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $166.000:** la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030), la más vendida y la mejor relación precio.`,
-        `**$200.000 a $290.000:** las de más prestaciones. La [JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651) (karaoke) y la [Aiwa AW-T2018R](https://www.mercadolibre.com.ar/p/MLA20012498) (premium con power bank).`,
+        `**Alrededor de $166.000:** la [Noblex MNT290](https://meli.la/2XUcqza), la más vendida y la mejor relación precio.`,
+        `**$200.000 a $290.000:** las de más prestaciones. La [JVC XS-LA5214](https://meli.la/2AFiBZG) (karaoke) y la [Aiwa AW-T2018R](https://meli.la/1FFKAw8) (premium con power bank).`,
         `**Si necesitás llevarlo:** una torre no sirve (es fija). Mirá un parlante portátil potente en la [guía de parlantes](/guias/audio/parlantes).`,
       ] },
 
@@ -299,10 +299,10 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Para la mayoría, la **Noblex MNT290**: la más vendida, con bluetooth y luces, y la mejor relación precio (más de 3.000 opiniones). Si te gusta el **karaoke**, la **JVC XS-LA5214** trae micrófono y más potencia. Y si querés la marca y extras como el power bank, la **Aiwa AW-T2018R** premium. Las tres son equipos fijos de hogar: si necesitás algo para llevar, no es una torre, es un [parlante portátil](/guias/audio/parlantes). Para llenar la casa de música sin gastar de más, la Noblex es la apuesta segura.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor torre de sonido en Argentina?`, answer: `Por relación precio y ventas, la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030): la más vendida (más de 3.000 opiniones), con bluetooth y luces LED, a buen precio. Si querés karaoke, la [JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651) trae micrófono; si buscás extras premium, la [Aiwa AW-T2018R](https://www.mercadolibre.com.ar/p/MLA20012498).` },
+      { question: `¿Cuál es la mejor torre de sonido en Argentina?`, answer: `Por relación precio y ventas, la [Noblex MNT290](https://meli.la/2XUcqza): la más vendida (más de 3.000 opiniones), con bluetooth y luces LED, a buen precio. Si querés karaoke, la [JVC XS-LA5214](https://meli.la/2AFiBZG) trae micrófono; si buscás extras premium, la [Aiwa AW-T2018R](https://meli.la/1FFKAw8).` },
       { question: `¿Torre de sonido o parlante portátil?`, answer: `Depende de si lo vas a mover. La torre es un equipo fijo de hogar: más potencia por el precio para llenar el living, pero no se transporta. Un parlante portátil (como un JBL Charge o Boombox) lo llevás a todos lados y resiste el agua, a cambio de menos volumen por peso. Para casa, torre; para llevar, portátil.` },
-      { question: `¿Las torres de sonido sirven para karaoke?`, answer: `Algunas sí, las que traen micrófono incluido. La [JVC XS-LA5214](https://www.mercadolibre.com.ar/p/MLA45615651) viene con micrófono, así que es la indicada para cantar en casa. La Noblex y la Aiwa apuntan más a reproducir música potente; si el karaoke es prioridad, fijate que el modelo incluya micrófono.` },
-      { question: `¿Cuánto cuesta una torre de sonido?`, answer: `En junio 2026, desde unos $166.500 la [Noblex MNT290](https://www.mercadolibre.com.ar/p/MLA15733030) (la más vendida), alrededor de $202.000 la [JVC](https://www.mercadolibre.com.ar/p/MLA45615651) con karaoke, y unos $288.000 la [Aiwa](https://www.mercadolibre.com.ar/p/MLA20012498) premium. Por ese precio dan más potencia que un parlante portátil del mismo valor, a cambio de no ser transportables.` },
+      { question: `¿Las torres de sonido sirven para karaoke?`, answer: `Algunas sí, las que traen micrófono incluido. La [JVC XS-LA5214](https://meli.la/2AFiBZG) viene con micrófono, así que es la indicada para cantar en casa. La Noblex y la Aiwa apuntan más a reproducir música potente; si el karaoke es prioridad, fijate que el modelo incluya micrófono.` },
+      { question: `¿Cuánto cuesta una torre de sonido?`, answer: `En junio 2026, desde unos $166.500 la [Noblex MNT290](https://meli.la/2XUcqza) (la más vendida), alrededor de $202.000 la [JVC](https://meli.la/2AFiBZG) con karaoke, y unos $288.000 la [Aiwa](https://meli.la/1FFKAw8) premium. Por ese precio dan más potencia que un parlante portátil del mismo valor, a cambio de no ser transportables.` },
     ],
     internalLinks: [
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
