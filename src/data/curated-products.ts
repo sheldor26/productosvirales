@@ -562,13 +562,16 @@ export const curatedProducts: Product[] = [
     specs: [
       { label: "Tipo", value: "Parlante bluetooth ultraportátil" },
       { label: "Potencia", value: "5 W" },
+      { label: "Resistencia", value: "IP67 (sumergible)" },
+      { label: "Batería", value: "Hasta 10 h" },
+      { label: "Conexión", value: "Bluetooth 5.4" },
       { label: "Ideal para", value: "El más vendido y barato, para llevar" },
     ],
     relatedProducts: ["MLA44711946", "MLA48958711"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
-    description: "Parlante Xiaomi Sound Pocket: mini bluetooth de 5 W, el más vendido y barato. Para llevar a cualquier lado. Más de 6.200 calificaciones.",
+    description: "Parlante Xiaomi Sound Pocket: mini bluetooth de 5 W con IP67 y batería de hasta 10 horas, el más vendido y barato. Para llevar a cualquier lado. Más de 6.200 calificaciones.",
   },
   {
     id: "MLA44711946",
@@ -593,7 +596,9 @@ export const curatedProducts: Product[] = [
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante bluetooth portátil chico" },
-      { label: "Resistencia", value: "Waterproof (resistente al agua)" },
+      { label: "Resistencia", value: "IPX7 (sumergible, no antipolvo)" },
+      { label: "Potencia", value: "3,1 W" },
+      { label: "Batería", value: "Hasta 5 h" },
       { label: "Marca", value: "JBL" },
       { label: "Ideal para", value: "JBL chico, mejor relación marca-precio" },
     ],
@@ -724,7 +729,8 @@ export const curatedProducts: Product[] = [
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Torre de sonido para el hogar" },
-      { label: "Extra", value: "Luces LED y efectos de voz" },
+      { label: "Potencia", value: "30 W RMS (3200 W PMPO)" },
+      { label: "Extra", value: "Luces LED, micrófono (karaoke) y puerto USB" },
       { label: "Marca", value: "Noblex" },
       { label: "Ideal para", value: "Sonido potente fijo en casa" },
     ],
@@ -824,7 +830,7 @@ export const curatedProducts: Product[] = [
     visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante 2 en 1 (par que se separa)" },
-      { label: "Resistencia", value: "IPX5 (resistente al agua)" },
+      { label: "Resistencia", value: "IPX4 (salpicaduras y lluvia)" },
       { label: "Extra", value: "Bluetooth y radio FM" },
       { label: "Marca", value: "Stromberg" },
     ],
@@ -832,7 +838,7 @@ export const curatedProducts: Product[] = [
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
-    description: "Parlante Stromberg Twin 2: dos parlantes en uno que se separan para sonido estéreo, IPX5 y radio FM. El Stromberg más vendido, con más de 400 calificaciones.",
+    description: "Parlante Stromberg Twin 2: dos parlantes en uno que se separan para sonido estéreo, IPX4 y radio FM. El Stromberg más vendido, con más de 400 calificaciones.",
   },
   {
     id: "MLA47305608",
