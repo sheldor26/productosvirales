@@ -8794,6 +8794,7 @@ export const guides: Guide[] = [
     metaDescription: `Conocé Khamrah de Lattafa, el gourmand árabe viral: original vs Qahwa, notas, duración real y precio en Argentina. Mirá cuál conviene.`,
     ogTitle: `Khamrah Lattafa: original vs Qahwa, cuál comprar`,
     ogDescription: `El gourmand árabe dulce que reventó TikTok. Original o Qahwa (la de café): notas, duración real, precio en Argentina y para quién es cada uno. Guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_974342-MLA111154952966_052026-F.jpg`,
     h1: `Khamrah Lattafa: la guía honesta del gourmand árabe (original vs Qahwa)`,
     publishedDate: "2026-06-26",
     updatedDate: "2026-06-26",

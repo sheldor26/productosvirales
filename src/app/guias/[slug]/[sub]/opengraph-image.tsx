@@ -37,8 +37,8 @@ export default async function Image({
         <div style={{ fontSize: 64, fontWeight: 800, lineHeight: 1.1, display: "flex" }}>
           {guide.ogTitle || guide.title}
         </div>
-        <div style={{ fontSize: 28, opacity: 0.9 }}>
-          Guía actualizada · {guide.updatedDate}
+        <div style={{ display: "flex", fontSize: 28, opacity: 0.9 }}>
+          {`Guía actualizada · ${guide.updatedDate}`}
         </div>
       </div>
     ),

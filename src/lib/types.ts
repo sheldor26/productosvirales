@@ -238,6 +238,9 @@ export interface Guide {
   metaDescription: string;
   ogTitle?: string;
   ogDescription?: string;
+  /** Foto de producto (URL) para la imagen OpenGraph. Si está, la ruta opengraph-image
+   * la compone sobre el fondo de marca en vez del gradiente con solo el título. */
+  ogImage?: string;
   h1: string;
   publishedDate: string;
   updatedDate: string;
