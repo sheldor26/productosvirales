@@ -401,6 +401,116 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
+  // PILAR auriculares-inalambricos — silo audio (/guias/audio/...) — STAGED
+  {
+    slug: "auriculares-inalambricos",
+    category: "audio",
+    silo: "audio",
+    pillar: true,
+    title: `Auriculares inalámbricos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Auriculares Inalámbricos 2026: Cuál Comprar Argentina`,
+    metaDescription: `Descubrí qué auriculares inalámbricos comprar en Argentina: in-ear, de vincha o con cancelación de ruido, los más vendidos y cuál conviene. Compará.`,
+    ogTitle: `Auriculares inalámbricos: cuál comprar en Argentina`,
+    ogDescription: `In-ear baratos, de vincha o con cancelación de ruido. Los auriculares bluetooth más vendidos de Argentina comparados por tipo, uso y precio real de MercadoLibre.`,
+    h1: `Auriculares inalámbricos: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-26",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Hay auriculares inalámbricos para cada uso y bolsillo: del in-ear de $23.000 a la vincha con cancelación de ruido. Te mostramos los más vendidos de Argentina ordenados por tipo, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", tagline: "Xiaomi Redmi Buds 6 Play: in-ear baratísimos, más de 85.000 opiniones" },
+      { productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", tagline: "Sony WH-CH520: hasta 50 horas de batería, la vincha más vendida" },
+      { productMlaId: "MLA53285777", label: "Cancelación de ruido", labelColor: "purple", tagline: "JBL Tune 770NC: over-ear con cancelación activa, para aislarte" },
+      { productMlaId: "MLA41255867", label: "Para deporte", labelColor: "amber", tagline: "Alpina F50 Pro: con gancho, no se caen al correr, y baratos" },
+    ],
+    intro: [
+      `"Auriculares inalámbricos" abarca cosas muy distintas: los **in-ear** que se meten en la oreja (los típicos earbuds con estuche), las **vinchas** que apoyan sobre o alrededor de la oreja, y los **deportivos** con gancho. Y dentro de cada tipo, con o sin **cancelación de ruido**. Comprar el formato equivocado es el error más común, así que primero definí para qué los querés.`,
+      `En esta guía ordenamos los más vendidos de Argentina por tipo y uso, con lo que gana y lo que resigna cada uno, y precios reales de MercadoLibre. Desde el in-ear más barato hasta el premium con cancelación. Si sabés cómo los vas a usar, en dos minutos sabés cuál comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_932176-MLA99502277578_112025-F.jpg", alt: `Auriculares Sony WH-CH520 de vincha, uno de los inalámbricos más vendidos de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los auriculares inalámbricos con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (Xiaomi, Sony, JBL, Samsung). Los ordenamos por lo que define la compra: el **tipo** (in-ear, vincha, deportivo), si tienen **cancelación de ruido**, la **batería** y el precio. Las calificaciones son de compradores reales. Precios de junio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué auriculares necesitás según el uso`, id: "tipos" },
+      { type: "p", content: `Primero el formato. Los **in-ear** (earbuds con estuche) son los más portátiles y discretos, ideales para uso diario, la calle y llamadas; los hay desde muy baratos hasta premium. Las **vinchas** (on-ear u over-ear) son más cómodas para muchas horas, tienen más batería y mejor sonido por el precio, pero abultan más. Y los **deportivos** con gancho se sujetan a la oreja para que no se caigan al correr.` },
+      { type: "p", content: `Después, la **cancelación de ruido** (ANC): los que la traen te aíslan del ruido de afuera (colectivo, oficina, avión), pero cuestan más. Si viajás o trabajás en lugares ruidosos, vale la pena; si es para casa o la calle tranquila, podés ahorrártela. Definí formato y si querés cancelación, y el resto se ordena solo.` },
+
+      { type: "h2", title: `Los mejores auriculares inalámbricos 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Xiaomi Redmi Buds 6 Play — el más vendido` },
+      { type: "product-card", productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", ranking: 1, description: `In-ear inalámbricos baratísimos, con bluetooth 5.4. 4.8 estrellas en más de 85.000 calificaciones: los auriculares más vendidos de Argentina, por lejos.` },
+      { type: "p", content: `Si querés in-ear que anden bien sin gastar casi nada, son estos. Los Redmi Buds 6 Play son **los más vendidos del país por amplio margen** (más de 85.000 opiniones, un número que no tiene ningún otro) y cuestan alrededor de $23.000. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra. La compra más segura y económica de la categoría.` },
+      { type: "p", content: `No esperes el sonido ni la cancelación de unos premium, pero por lo que salen, la relación es imbatible. Si es tu primer par de inalámbricos o querés un repuesto barato y confiable, empezá por acá.` },
+
+      { type: "h3", title: `2. Sony WH-CH520 — la mejor vincha` },
+      { type: "product-card", productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", ranking: 2, description: `Vincha inalámbrica con hasta 50 horas de batería. 4.8 estrellas en más de 13.000 calificaciones: la vincha más vendida del segmento.` },
+      { type: "p", content: `Si preferís el formato de vincha (más cómodo para muchas horas y con más batería), la Sony WH-CH520 es la elección. Da **hasta 50 horas de batería** (semanas de uso sin cargar), buen sonido para el precio y la comodidad de apoyar sobre la oreja, a alrededor de $80.000. Es la vincha más vendida, con más de 13.000 opiniones, y el respaldo de Sony en audio.` },
+      { type: "p", content: `No tiene cancelación de ruido activa (para eso, mirá la JBL de abajo o la Sony WH-CH720N), pero para escuchar música y trabajar en casa con autonomía enorme, es difícil de superar por el precio. La vincha sensata para la mayoría.` },
+
+      { type: "h3", title: `3. Samsung Galaxy Buds3 Pro — los premium` },
+      { type: "product-card", productMlaId: "MLA38451794", label: "Los premium", labelColor: "purple", ranking: 3, description: `In-ear premium con cancelación activa de ruido y sonido de alta calidad. 4.8 estrellas en más de 800 calificaciones.` },
+      { type: "p", content: `Si querés lo mejor en in-ear y no te importa pagarlo, los Galaxy Buds3 Pro son la gama alta. Suman **cancelación activa de ruido**, mejor sonido y la integración con celulares Samsung, a alrededor de $330.000. Son para quien valora la calidad de audio y la cancelación en un formato chico y discreto.` },
+      { type: "p", content: `Es bastante más caro que el resto, así que solo lo justificás si el sonido premium y la cancelación en formato in-ear son prioridad. Para uso normal, los Redmi Buds dan el 80% por una fracción; los Galaxy Buds3 Pro son el salto a la gama alta.` },
+
+      { type: "h3", title: `4. JBL Tune 770NC — con cancelación de ruido` },
+      { type: "product-card", productMlaId: "MLA53285777", label: "Cancelación de ruido", labelColor: "purple", ranking: 4, description: `Vincha over-ear con cancelación activa de ruido. 4.8 estrellas en más de 1.000 calificaciones. Para aislarte en viajes y oficina.` },
+      { type: "p", content: `Si querés cancelación de ruido en formato vincha y a precio razonable, la JBL Tune 770NC es la opción. La **cancelación activa** te aísla del ruido del colectivo, la oficina o el avión, con el sonido JBL y buena batería, a alrededor de $163.000. Es el punto medio entre la Sony WH-CH520 (sin cancelación, más barata) y los premium.` },
+      { type: "p", content: `Para quien viaja, trabaja en lugares ruidosos o simplemente quiere silencio para concentrarse, la cancelación cambia la experiencia. Si no la necesitás, la Sony WH-CH520 te ahorra plata; si la querés en vincha sin irte a premium, esta es la indicada.` },
+
+      { type: "h3", title: `5. Alpina F50 Pro — para deporte` },
+      { type: "product-card", productMlaId: "MLA41255867", label: "Para deporte", labelColor: "amber", ranking: 5, description: `Inalámbricos deportivos con gancho de oreja para que no se caigan al correr. 4.7 estrellas en más de 3.000 calificaciones, a buen precio.` },
+      { type: "p", content: `Para correr o entrenar, los in-ear comunes se caen; estos no. Los Alpina F50 Pro tienen **gancho de oreja** que los sujeta firme durante el ejercicio, son inalámbricos y baratos (alrededor de $24.900), con más de 3.000 opiniones. Si tu uso principal es el deporte, el gancho hace toda la diferencia frente a un earbud común.` },
+      { type: "p", content: `No compiten en sonido con los premium, pero para el gimnasio y salir a correr, la sujeción y el precio los hacen la opción lógica. Un par dedicado al deporte que no se te cae a mitad de serie.` },
+
+      { type: "h3", title: `6. Lenovo LivePod LP75 — los más baratos` },
+      { type: "product-card", productMlaId: "MLA28026305", label: "Los más baratos", labelColor: "green", ranking: 6, description: `In-ear inalámbricos súper económicos, con más de 7.400 calificaciones. La opción más barata con respaldo real de ventas.` },
+      { type: "p", content: `Si lo único que importa es el precio, los Lenovo LivePod LP75 son de los más baratos con respaldo serio: más de 7.400 opiniones por alrededor de $31.700. Para un primer par, un repuesto o regalar, cumplen con lo básico. Frente a los Redmi Buds 6 Play, estos suelen ser apenas más caros y con muchas menos opiniones, así que en general el Xiaomi conviene más; pero si los conseguís mejor de precio, son una alternativa válida.` },
+
+      { type: "h2", title: `Tabla comparativa: por tipo y uso`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Ideal para`], rows: [
+        [`[Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR)`, `$23.250`, `In-ear`, `El más vendido y barato`],
+        [`[Lenovo LivePod LP75](https://meli.la/1S7f74t)`, `$31.681`, `In-ear`, `Lo más barato con respaldo`],
+        [`[Alpina F50 Pro](https://meli.la/2UAS5x1)`, `$24.875`, `Deportivo (gancho)`, `Correr y entrenar`],
+        [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `$80.000`, `Vincha`, `Comodidad y 50 h de batería`],
+        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `$163.197`, `Vincha con cancelación`, `Aislarte del ruido`],
+        [`[Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6)`, `$329.999`, `In-ear premium`, `Lo mejor en sonido y cancelación`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tus auriculares inalámbricos`, id: "como-elegir" },
+      { type: "h3", title: `1. El formato: in-ear, vincha o deportivo` },
+      { type: "p", content: `In-ear para portabilidad y uso diario (Redmi Buds, LivePod). Vincha para comodidad de muchas horas y más batería (Sony WH-CH520, JBL 770NC). Deportivo con gancho si entrenás (Alpina F50 Pro). Definí esto primero: es lo que más cambia tu experiencia, más que la marca.` },
+      { type: "h3", title: `2. ¿Necesitás cancelación de ruido?` },
+      { type: "p", content: `Si viajás, usás colectivo o trabajás en lugares ruidosos, la cancelación activa (ANC) te aísla y vale la pena: la traen la JBL Tune 770NC y los Galaxy Buds3 Pro. Si es para casa o la calle tranquila, podés ahorrártela y elegir algo como la Sony WH-CH520 o los Redmi Buds, que cuestan menos.` },
+      { type: "h3", title: `3. Por el presupuesto` },
+      { type: "p", content: `Con poca plata, los Redmi Buds 6 Play son imbatibles (in-ear) y la Sony WH-CH520 la mejor vincha accesible. Si querés cancelación sin gastar de más, la JBL 770NC. Y si buscás lo premium, los Galaxy Buds3 Pro. No pagues por funciones que no vas a usar: para la mayoría, los baratos rinden muy bien.` },
+
+      { type: "h2", title: `Cuánto cuestan unos auriculares inalámbricos en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$23.000 a $32.000:** los in-ear más vendidos. Los [Redmi Buds 6 Play](https://meli.la/1LqPkFR), los [Lenovo LivePod](https://meli.la/1S7f74t) y los deportivos [Alpina F50 Pro](https://meli.la/2UAS5x1).`,
+        `**$80.000 a $163.000:** las vinchas. La [Sony WH-CH520](https://meli.la/2t24mSB) (50 h de batería) y la [JBL Tune 770NC](https://meli.la/1mR75zc) con cancelación.`,
+        `**$330.000 o más:** los premium. Los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6), gama alta con cancelación.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuáles auriculares comprar`, id: "veredicto" },
+      { type: "verdict", content: `Depende del uso. Para **in-ear que anden bien sin gastar**, los **Xiaomi Redmi Buds 6 Play**: los más vendidos del país por lejos, imbatibles por precio. Si preferís **vincha cómoda con mucha batería**, la **Sony WH-CH520**. Si querés **cancelación de ruido** para aislarte, la **JBL Tune 770NC** (vincha) o los **Galaxy Buds3 Pro** (premium in-ear). Y para **deporte**, los **Alpina F50 Pro** con gancho no se caen al correr. El error a evitar: comprar el formato equivocado o pagar cancelación que no vas a usar. Para la mayoría, los Redmi Buds o la Sony WH-CH520 resuelven todo por poca plata.` },
+    ],
+    faq: [
+      { question: `¿Cuáles son los mejores auriculares inalámbricos en Argentina?`, answer: `Por ventas y relación precio, los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) en in-ear (más de 85.000 opiniones) y la [Sony WH-CH520](https://meli.la/2t24mSB) en vincha. Si querés cancelación de ruido, la [JBL Tune 770NC](https://meli.la/1mR75zc); para deporte, los [Alpina F50 Pro](https://meli.la/2UAS5x1); y en premium, los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6).` },
+      { question: `¿Qué diferencia hay entre auriculares in-ear y de vincha?`, answer: `Los in-ear (earbuds) se meten en la oreja, son chicos, discretos y portátiles, ideales para uso diario y la calle. Las vinchas apoyan sobre o alrededor de la oreja: más cómodas para muchas horas, con más batería y mejor sonido por el precio, pero abultan más. Para llevar siempre, in-ear; para comodidad y autonomía, vincha.` },
+      { question: `¿Vale la pena la cancelación de ruido?`, answer: `Si viajás, usás colectivo o trabajás en lugares ruidosos, sí: la cancelación activa te aísla del ruido y mejora mucho la experiencia. La traen la [JBL Tune 770NC](https://meli.la/1mR75zc) y los [Galaxy Buds3 Pro](https://meli.la/1REUKv6). Si es para casa o la calle tranquila, podés ahorrártela y elegir algo más barato como la [Sony WH-CH520](https://meli.la/2t24mSB) o los Redmi Buds.` },
+      { question: `¿Cuáles auriculares conviene para hacer deporte?`, answer: `Los que tienen gancho de oreja, que los sujetan firme y no se caen al correr. Los [Alpina F50 Pro](https://meli.la/2UAS5x1) son de los más vendidos en ese formato, inalámbricos y baratos. Los in-ear comunes pueden caerse durante el ejercicio, así que para el gimnasio o salir a correr, el gancho hace la diferencia.` },
+      { question: `¿Cuáles son los auriculares inalámbricos más baratos que valen la pena?`, answer: `Los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) (alrededor de $23.000): son los más vendidos del país y cumplen muy bien para uso diario. Los [Lenovo LivePod LP75](https://meli.la/1S7f74t) son otra opción económica con buen respaldo. Por poca plata dan lo necesario; no hace falta gastar mucho para tener inalámbricos que anden bien.` },
+    ],
+    internalLinks: [
+      { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+      { label: "Auriculares deportivos: cuál comprar para entrenar", href: "/guias/audio/auriculares-deportivos" },
+      { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
   // ─────────────────────────────────────────────────────────
   // PILAR estufas-electricas — silo climatizacion (/guias/climatizacion/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
