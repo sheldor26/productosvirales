@@ -12,18 +12,16 @@ function mlHeaders(): Record<string, string> {
 }
 
 // ─── Affiliate config ───
-const AFFILIATE_TOOL_ID = "12465328";
-const AFFILIATE_WORD = "productosvirales";
+// Juan no tiene un tool ID de afiliado: el link lo genera Mercado Libre al entrar
+// a la publicación (un meli.la propio). El importador NO debe inventar un link de
+// afiliado; antes metía un tool ID ajeno (matt_tool) que le cobraba a otra cuenta.
+// Por eso devolvemos un placeholder visible: hay que reemplazarlo a mano por el
+// meli.la real antes de publicar la ficha. Para encontrar los pendientes:
+//   grep "PEGAR_MELI_LA" src/data/curated-products.ts
+export const AFFILIATE_PLACEHOLDER = "PEGAR_MELI_LA";
 
-export function buildAffiliateUrl(permalink: string): string {
-  try {
-    const url = new URL(permalink);
-    url.searchParams.set("matt_tool", AFFILIATE_TOOL_ID);
-    url.searchParams.set("matt_word", AFFILIATE_WORD);
-    return url.toString();
-  } catch {
-    return permalink;
-  }
+export function buildAffiliateUrl(_permalink: string): string {
+  return AFFILIATE_PLACEHOLDER;
 }
 
 // ─── Extract MLA ID from various URL formats ───
