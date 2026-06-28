@@ -28,6 +28,321 @@ export function findGuideByPath(path: string[]): Guide | undefined {
 
 export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
+  // PILAR microondas — silo cocina (/guias/cocina/...) — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "microondas",
+    category: "cocina",
+    silo: "cocina",
+    pillar: true,
+    title: `Microondas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Microondas 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué microondas comprar en Argentina: BGH, Samsung, Atma o LG, con o sin grill, qué litros necesitás y cuál conviene. Compará los más vendidos.`,
+    ogTitle: `Microondas: cuál comprar en Argentina`,
+    ogDescription: `Del más vendido y barato al premium con inverter. BGH, Samsung, Atma y LG comparados por litros, potencia, grill y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg`,
+    h1: `Microondas: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un microondas para calentar la comida lo resolvés con $150.000; uno con grill, inverter o 28 litros sale el doble. Te mostramos cuál conviene según para qué lo querés, comparando los más vendidos de Argentina (BGH, Samsung, Atma, LG) por litros, potencia, grill y precio real de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", tagline: "BGH Quick Chef 20L: el más vendido y barato, a perilla, más de 4.100 opiniones" },
+      { productMlaId: "MLA17695389", label: "El digital más elegido", labelColor: "blue", tagline: "BGH Quick Chef Eco 20L: mismo tamaño con control digital y menús" },
+      { productMlaId: "MLA10531383", label: "Con grill", labelColor: "purple", tagline: "Samsung 23L: grill e interior cerámico para dorar y gratinar" },
+      { productMlaId: "MLA17484012", label: "Grande para familia", labelColor: "amber", tagline: "BGH 28L: el grande, entra una fuente, con grill" },
+    ],
+    intro: [
+      `"Microondas" parece una sola cosa, pero hay tres decisiones que cambian el precio: el **tamaño** (de 20 a 28 litros), el **control** (perilla o digital) y si tiene **grill**. La mayoría solo quiere calentar y descongelar, y para eso el más barato sobra. Si cocinás más o sos varios en casa, ahí sí conviene subir.`,
+      `En esta guía ordenamos los más vendidos de Argentina (BGH lidera por lejos, después Samsung, Atma y LG) con precios reales de MercadoLibre, lo bueno y lo que resignás en cada uno. Si sabés para qué lo querés, en dos minutos sabés cuál comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg", alt: `Microondas BGH Quick Chef 20 litros, el microondas más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los microondas con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (BGH, Samsung, Atma, LG). Los ordenamos por lo que define la compra: la **capacidad** en litros, la **potencia**, si traen **grill**, el control (perilla o digital) y el precio. Las calificaciones son de compradores reales. Precios de junio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué microondas necesitás según el uso`, id: "tipos" },
+      { type: "p", content: `Tres preguntas y listo. **Tamaño:** los de 20 litros entran en cualquier cocina y alcanzan para una persona o pareja; los de 23 a 28 litros sirven para una fuente grande o una familia. **Control:** las perillas son más simples y baratas (girás y listo); el digital suma menús automáticos y reloj, a cambio de algo más de precio. **Grill:** si querés que además **dore o gratine** (no solo caliente), buscá uno con grill; si solo recalentás, no lo necesitás.` },
+      { type: "p", content: `La regla rápida: para calentar y descongelar, un 20 litros barato. Para cocinar más, dorar o ser varios, subí a 23-28 litros con grill. No pagues por funciones que no vas a usar, pero tampoco compres chico si cocinás en serio.` },
+
+      { type: "h2", title: `Los mejores microondas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. BGH Quick Chef 20L (B120M20) — el más vendido` },
+      { type: "product-card", productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", ranking: 1, description: `El microondas más vendido del país: 20 litros, 700 W, control a perilla. 4.6 estrellas en más de 4.100 calificaciones. Simple, confiable y al mejor precio.` },
+      { type: "p", content: `Si solo querés calentar, descongelar y no renegar, es este. El BGH Quick Chef de 20 litros funciona **a perilla** (girás el tiempo y la potencia, sin menús), es el **más barato** de la guía (alrededor de $149.000) y, por lejos, el más vendido de Argentina con más de 4.100 opiniones. Para el uso que el 90% le da a un microondas, sobra.` },
+      { type: "p", content: `Lo honesto: a perilla el timer no es preciso al segundo, y es de 700 W (potencia estándar, no la más alta). Pero esa simpleza es justamente su gracia: no hay nada que se rompa ni que aprender. Si querés control digital, mirá el de abajo; si te alcanza con girar una perilla, no hay con qué darle por el precio.` },
+      { type: "pull-quote", content: `"Es un producto estándar. Simple, lo justo y necesario para no renegar con problemas tecnológicos ni digitales: potencia, tiempo, descongela, calienta, más que suficiente."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. BGH Quick Chef Eco 20L (B120DS20) — el digital más elegido` },
+      { type: "product-card", productMlaId: "MLA17695389", label: "El digital más elegido", labelColor: "blue", ranking: 2, description: `El mismo tamaño que el más vendido, pero con control digital y menús automáticos. 4.7 estrellas en más de 3.700 calificaciones.` },
+      { type: "p", content: `Si querés lo mismo pero con **panel digital**, es la versión Eco. Tiene los 20 litros y los 700 W del de perilla, y suma menús automáticos, reloj y programación al minuto, a alrededor de $200.000. Es el BGH digital más elegido, con más de 3.700 opiniones. La diferencia con el #1 la pagás en comodidad de uso, no en tamaño ni potencia.` },
+      { type: "p", content: `La contra que aparece en las reseñas: el panel es **espejado** y a veces cuesta leerlo según la luz. Nada grave, pero si te molesta el detalle, el de perilla lo evita. Para quien prefiere botones y menús a girar una perilla, este es el indicado.` },
+      { type: "pull-quote", content: `"Muy bueno el microondas. Tal vez lo único para mencionar es que el panel es espejado y se dificulta un poco la lectura de los comandos."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Samsung 23L con grill (MG23F3K3TAK) — para dorar y gratinar` },
+      { type: "product-card", productMlaId: "MLA10531383", label: "Con grill", labelColor: "purple", ranking: 3, description: `23 litros con grill e interior cerámico (más fácil de limpiar). 4.7 estrellas en más de 3.600 calificaciones. Para los que además quieren dorar.` },
+      { type: "p", content: `Si querés que el microondas **además dore o gratine** (no solo caliente), el Samsung con grill es la opción más vendida. Suma 23 litros, 800 W e **interior cerámico** (más resistente y fácil de limpiar que el esmaltado común), a alrededor de $258.000. Con el grill hacés tostadas, gratinás una pasta o dorás pollo, cosa que un microondas pelado no hace.` },
+      { type: "p", content: `**Ojo con un detalle importante:** necesita un **toma de 20 amperes**, así que es muy probable que tengas que cambiar el enchufe de la pared (varias reseñas lo marcan). Tenelo en cuenta antes de comprarlo. Salvado eso, es un equipo que cumple de sobra y la marca respalda.` },
+
+      { type: "h3", title: `4. BGH 28L (B228DS20) — el grande para familia` },
+      { type: "product-card", productMlaId: "MLA17484012", label: "Grande para familia", labelColor: "amber", ranking: 4, description: `28 litros (de los más grandes), 900 W, digital y con grill. 4.8 estrellas en más de 2.800 calificaciones. Entra una fuente grande o una pizza.` },
+      { type: "p", content: `Si son varios en casa o cocinás en serio, el tamaño importa, y este es de los **más grandes**: 28 litros donde entra una fuente o una pizza, con 900 W de potencia (más que los de 20L), control digital y grill. A alrededor de $310.000, es el salto para quien usa mucho el microondas y quiere espacio.` },
+      { type: "p", content: `Para una persona sola es más de lo que necesitás (y ocupa lugar en la mesada). Pero para familia, o si te cansa que no entre el plato grande, los 28 litros se notan. Suma un diseño espejado que queda lindo en la cocina.` },
+
+      { type: "h3", title: `5. Atma 20L (MATDB20UAP) — la alternativa de valor` },
+      { type: "product-card", productMlaId: "MLA41009857", label: "Alternativa de valor", labelColor: "blue", ranking: 5, description: `20 litros, 700 W, digital, de una marca conocida y confiable. 4.8 estrellas en más de 2.300 calificaciones. La opción a BGH.` },
+      { type: "p", content: `Si querés una alternativa a BGH en la misma franja, el Atma de 20 litros cumple: 700 W, control digital y el respaldo de una marca conocida, a alrededor de $214.000. Más de 2.300 opiniones lo avalan. Es la opción para quien prefiere Atma o lo consigue a mejor precio que el BGH digital.` },
+      { type: "p", content: `Contra honesta de las reseñas: la **luz interior es floja** (cuesta ver la comida adentro) y hace varios pitidos al terminar. Detalles menores, pero por algo el BGH digital se vende más. Como alternativa de valor, igual es una compra sólida.` },
+
+      { type: "h3", title: `6. LG 25L Smart Inverter (MH6535GIS) — el premium` },
+      { type: "product-card", productMlaId: "MLA62204337", label: "El premium con inverter", labelColor: "purple", ranking: 6, description: `25 litros, 1000 W, con tecnología Smart Inverter y grill. 4.9 estrellas. Calienta más parejo y silencioso. El premium de la guía.` },
+      { type: "p", content: `Si querés lo mejor y no te importa pagarlo, el LG con **Smart Inverter** es el premium. En vez de prender y apagar la potencia (como los comunes), la regula de forma continua: **calienta más parejo**, descongela mejor y es más silencioso. Suma 25 litros, 1000 W y grill, a alrededor de $375.000.` },
+      { type: "p", content: `Lo honesto: es **nuevo**, así que todavía tiene pocas opiniones (aunque excelentes), y un detalle que aparece en las reseñas es que la melodía de aviso al terminar es larga y a algunos les molesta. Si valorás el inverter y la marca, es el tope de gama; si no, el resto de la guía resuelve por menos.` },
+
+      { type: "h2", title: `Tabla comparativa: por tamaño, grill y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Grill`, `Ideal para`], rows: [
+        [`[BGH Quick Chef 20L](https://meli.la/27RQQKV)`, `$149.132`, `20 L`, `No`, `El más vendido y barato (a perilla)`],
+        [`[BGH Eco Digital 20L](https://meli.la/2jy5EDC)`, `$200.595`, `20 L`, `No`, `El digital más elegido`],
+        [`[Samsung 23L grill](https://meli.la/2TU2ytf)`, `$258.612`, `23 L`, `Sí`, `Dorar y gratinar (pide toma 20A)`],
+        [`[BGH 28L](https://meli.la/322XwMY)`, `$310.374`, `28 L`, `Sí`, `Grande, para familia`],
+        [`[Atma 20L](https://meli.la/2Gh5aGU)`, `$214.158`, `20 L`, `No`, `Alternativa de valor a BGH`],
+        [`[LG 25L Inverter](https://meli.la/2pLfJd8)`, `$374.999`, `25 L`, `Sí`, `Premium con inverter`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu microondas`, id: "como-elegir" },
+      { type: "h3", title: `1. Los litros, según cuántos son` },
+      { type: "p", content: `20 litros para una persona o pareja: entra un plato y alcanza para calentar y descongelar. 23 a 28 litros si son familia, si querés meter una fuente grande o una pizza, o si cocinás bastante con el microondas. No compres 28 litros para uso de soltero (ocupa mesada de más), ni 20 si sos cuatro en casa.` },
+      { type: "h3", title: `2. Perilla o digital` },
+      { type: "p", content: `La perilla es más simple y barata: girás tiempo y potencia, nada que falle. El digital suma menús automáticos, reloj y programación exacta, a cambio de algo más de precio (y a veces un panel que cuesta leer). Si valorás la simpleza, perilla; si te gustan los menús y la precisión, digital.` },
+      { type: "h3", title: `3. ¿Necesitás grill?` },
+      { type: "p", content: `El grill agrega una resistencia que **dora y gratina**: tostadas, pollo dorado, pasta gratinada. Si solo vas a calentar y descongelar, no lo necesitás y ahorrás. Si querés que el microondas haga un poco más, buscá uno con grill (Samsung, BGH 28L, LG de esta guía lo tienen).` },
+      { type: "h3", title: `4. Potencia e inverter` },
+      { type: "p", content: `La potencia (700 a 1000 W) define qué tan rápido calienta: 700 W alcanza para uso normal; 900-1000 W es más veloz. El **inverter** (LG) es un escalón aparte: regula la potencia de forma continua en vez de prender y apagar, así que calienta más parejo y descongela mejor. Es un plus premium, no imprescindible.` },
+
+      { type: "h2", title: `Cuánto cuesta un microondas en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$149.000 a $215.000:** los de 20 litros. El [BGH Quick Chef](https://meli.la/27RQQKV) a perilla (el más vendido), el [BGH Eco digital](https://meli.la/2jy5EDC) y el [Atma](https://meli.la/2Gh5aGU). La franja que resuelve para la mayoría.`,
+        `**$258.000 a $310.000:** los de 23-28 litros con grill. El [Samsung 23L](https://meli.la/2TU2ytf) (dorar y gratinar) y el [BGH 28L](https://meli.la/322XwMY) (grande para familia).`,
+        `**$375.000 o más:** el premium. El [LG 25L Smart Inverter](https://meli.la/2pLfJd8), solo si valorás el inverter y la marca.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál microondas comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **BGH Quick Chef 20L** a perilla: el más vendido y barato, simple y confiable para calentar y descongelar. Si preferís **control digital**, el **BGH Eco** (o el **Atma** como alternativa). Si querés **dorar y gratinar**, el **Samsung 23L** con grill (acordate del toma de 20A). Para **familia o más espacio**, el **BGH 28L**. Y si vas por lo **premium**, el **LG con Smart Inverter**. El error a evitar: pagar grill, litros o inverter que no vas a usar, o quedarte corto de tamaño si son varios en casa.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor microondas en Argentina?`, answer: `Para la mayoría, el [BGH Quick Chef 20L](https://meli.la/27RQQKV): es el más vendido del país (más de 4.100 opiniones), simple y barato, ideal para calentar y descongelar. Si querés control digital, el [BGH Eco](https://meli.la/2jy5EDC) o el [Atma](https://meli.la/2Gh5aGU); con grill, el [Samsung 23L](https://meli.la/2TU2ytf); y premium, el [LG con inverter](https://meli.la/2pLfJd8).` },
+      { question: `¿Cuántos litros de microondas necesito?`, answer: `Para una persona o pareja, 20 litros alcanzan de sobra (entra un plato, calienta y descongela). Para familia, para meter una fuente grande o una pizza, conviene 23 a 28 litros. No compres más litros de los que vas a usar: el de 28 ([BGH 28L](https://meli.la/322XwMY)) ocupa bastante mesada.` },
+      { question: `¿Vale la pena un microondas con grill?`, answer: `Depende de si vas a dorar o gratinar. El grill agrega una resistencia que tuesta, dora pollo o gratina pasta, algo que un microondas común no hace. Si solo calentás y descongelás, no lo necesitás y ahorrás. Si querés esa función extra, el [Samsung 23L](https://meli.la/2TU2ytf) o el [BGH 28L](https://meli.la/322XwMY) lo traen.` },
+      { question: `¿Conviene microondas digital o a perilla?`, answer: `La perilla es más simple y barata: girás tiempo y potencia, no hay nada que se complique. El digital suma menús automáticos, reloj y programación al minuto, a cambio de algo más de precio. El [BGH a perilla](https://meli.la/27RQQKV) es el más vendido justamente por simple; el [BGH Eco digital](https://meli.la/2jy5EDC) es para quien prefiere botones y menús.` },
+      { question: `¿Qué es la tecnología inverter en un microondas?`, answer: `Un microondas común calienta prendiendo y apagando la potencia al máximo; el inverter (como el [LG MH6535GIS](https://meli.la/2pLfJd8)) la regula de forma continua. ¿Qué cambia? Calienta más parejo (menos zonas frías y calientes), descongela mejor sin cocinar los bordes, y suele ser más silencioso. Es un plus premium, no imprescindible para calentar.` },
+      { question: `¿Por qué algunos microondas piden un toma de 20 amperes?`, answer: `Los modelos de más potencia o con grill, como el [Samsung 23L](https://meli.la/2TU2ytf), consumen más corriente y vienen con una ficha para toma de 20 A (más grande que el enchufe común de 10 A). Suele hacer falta cambiar el tomacorriente de la pared. Es un gasto y un trabajito a tener en cuenta antes de comprar uno de estos.` },
+    ],
+    internalLinks: [
+      { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
+      { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
+      { label: "Atma freidoras de aire: review y cuál comprar", href: "/guias/atma-freidoras-de-aire-review" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR horno-electrico — silo cocina (/guias/cocina/...) — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "horno-electrico",
+    category: "cocina",
+    silo: "cocina",
+    pillar: true,
+    title: `Horno eléctrico: cuál comprar en Argentina [2026]`,
+    seoTitle: `Horno Eléctrico 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué horno eléctrico de sobremesa comprar en Argentina: Atma, BGH, Ultracomb o Smartlife, qué litros necesitás, con convección o grill, y cuál conviene.`,
+    ogTitle: `Horno eléctrico: cuál comprar en Argentina`,
+    ogDescription: `Del chico de 17 litros al grande de 65. Atma, BGH, Ultracomb y Smartlife comparados por capacidad, convección, grill y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg`,
+    h1: `Horno eléctrico de sobremesa: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un horno eléctrico de sobremesa cocina como un horno de cocina pero lo enchufás donde quieras, sin gas ni obra. Te mostramos cuál conviene según cuántos litros necesitás y si querés convección o grill, comparando los más vendidos de Argentina (Atma, BGH, Ultracomb, Smartlife) con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA27167036", label: "El más vendido", labelColor: "green", tagline: "Atma 45L con grill: amplio, entra un pollo entero, más de 2.300 opiniones" },
+      { productMlaId: "MLA23096996", label: "El más barato", labelColor: "blue", tagline: "Ultracomb 17L: chico, rápido y ocupa poco, para 1 persona o cocina chica" },
+      { productMlaId: "MLA15545846", label: "Grande para familia", labelColor: "amber", tagline: "BGH 65L: el grande, cocina rápido para varios (pide toma 20A)" },
+      { productMlaId: "MLA14259153", label: "El que más cocina", labelColor: "purple", tagline: "Smartlife 50L con convección y spiedo: temperatura precisa, como un horno de verdad" },
+    ],
+    intro: [
+      `El horno eléctrico de sobremesa es la forma más simple de tener horno sin depender del gas: lo enchufás, calienta, y lo movés de lugar. Sirve para todo lo que hace un horno de cocina (pizza, tartas, pollo, repostería) en un aparato que va sobre la mesada. La decisión pasa por tres cosas: los **litros** (de 17 a 65), si tiene **convección** (un ventilador que cocina más parejo) y si suma **grill** o anafes.`,
+      `En esta guía ordenamos los más vendidos de Argentina (Atma lidera, después BGH, Ultracomb y Smartlife) con precios reales de MercadoLibre, lo bueno y lo que resignás en cada uno. Si sabés cuántos son en casa y qué cocinás, en dos minutos sabés cuál comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg", alt: `Horno eléctrico de sobremesa Atma de 45 litros con grill, el más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los hornos eléctricos de sobremesa con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (Atma, BGH, Ultracomb, Smartlife). Los ordenamos por lo que define la compra: la **capacidad** en litros, si traen **convección** (cocina más pareja), **grill** o **anafes**, la potencia y el precio. Las calificaciones son de compradores reales. Precios de junio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué horno eléctrico necesitás según el uso`, id: "tipos" },
+      { type: "p", content: `Primero, los **litros**: de 17 a 30 litros para una persona o pareja y cosas chicas (una pizza individual, recalentar, una tarta chica); de 40 a 50 litros para el uso familiar típico (una pizza grande, pollo, fuentes); de 55 a 65 litros si son varios o cocinás en serio. Después, la **convección**: es un ventilador interno que reparte el calor, así que cocina más parejo y rápido, parecido a un horno de cocina bueno. Si hacés repostería o lo vas a usar mucho, vale la pena.` },
+      { type: "p", content: `Y los extras: el **grill** (resistencia superior para dorar y gratinar) lo trae casi todo horno mediano; los **anafes** (hornallas arriba) suman bocas de cocina si te faltan. Ojo con un detalle eléctrico: los hornos más grandes o potentes (de 2000 W para arriba) suelen pedir un **toma de 20 amperes**, así que puede que tengas que cambiar el enchufe de la pared.` },
+
+      { type: "h2", title: `Los mejores hornos eléctricos 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Atma 45L con grill (HGAB4523PI) — el más vendido` },
+      { type: "product-card", productMlaId: "MLA27167036", label: "El más vendido", labelColor: "green", ranking: 1, description: `45 litros con grill: amplio, entra una fuente de pizza o un pollo entero. 4.7 estrellas en más de 2.300 calificaciones. El horno eléctrico más vendido del país.` },
+      { type: "p", content: `Si querés el horno que le sirve a la mayoría, es este. El Atma de **45 litros** es el tamaño justo para una familia: entra una fuente de pizza grande o un pollo entero sin trozar, tiene grill para dorar, y es el más vendido de Argentina con más de 2.300 opiniones, a alrededor de $185.000. Atma es además la marca de hornos más buscada y con respaldo en el país.` },
+      { type: "p", content: `Las contras honestas que marcan las reseñas: **no tiene luz interior** (tenés que abrir para ver cómo va la comida) y algún comprador notó que la capacidad real es un toque menor a la de la caja. Nada que arruine la compra: por tamaño, marca, ventas y precio, es el punto de partida lógico.` },
+      { type: "pull-quote", content: `"Tiene buena capacidad. Entra una fuente de pizza y se puede hacer un pollo entero sin necesidad de trozarlo, tranquilamente."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Ultracomb 17L (UC-17) — el chico y más barato` },
+      { type: "product-card", productMlaId: "MLA23096996", label: "El más barato", labelColor: "blue", ranking: 2, description: `17 litros, el más chico y económico: cocina rápido y ocupa poco. 4.8 estrellas en más de 1.100 calificaciones. Para una persona o cocina chica.` },
+      { type: "p", content: `Si vivís solo, tenés poco espacio o querés un segundo horno para cosas rápidas, el Ultracomb de **17 litros** es la entrada perfecta: es de los más baratos (alrededor de $89.000), calienta rápido y ocupa muy poco en la mesada. Viene con bandeja y rejilla, y tiene 4.8 estrellas, el mejor puntaje de la guía.` },
+      { type: "p", content: `Lo honesto: es **chico**, así que una tarta o una pizza grande no entran (es para porciones individuales o de a dos). Si cocinás para varios, mirá los de abajo. Pero para uso personal, calentar y cosas chicas, por ese precio no hay con qué darle.` },
+      { type: "pull-quote", content: `"Cocina mucho más rápido de lo que yo esperaba. Anda bien y ocupa poco espacio; eso sí, es pequeño, así que una tarta grande no entra."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. BGH 65L (BHE65M19) — el grande para familia` },
+      { type: "product-card", productMlaId: "MLA15545846", label: "Grande para familia", labelColor: "amber", ranking: 3, description: `65 litros y 2200 W: el grande, cocina rápido para varios. 4.7 estrellas en más de 1.800 calificaciones. Para familia o quien cocina mucho.` },
+      { type: "p", content: `Si son varios en casa o el horno chico te queda corto, el BGH de **65 litros** es de los más grandes: entran fuentes grandes, cocina empanadas y tartas en minutos, con 2200 W de potencia y el respaldo de BGH. A alrededor de $205.000, es el salto para quien usa el horno en serio.` },
+      { type: "p", content: `Detalle importante (sale en varias reseñas): trae **ficha para toma de 20 amperes**, más grande que el enchufe común, así que es muy probable que tengas que cambiar el tomacorriente de la pared. Es un gasto chico y un trabajito, pero conviene saberlo antes de comprarlo.` },
+
+      { type: "h3", title: `4. Smartlife 50L con convección y spiedo — el que más cocina` },
+      { type: "product-card", productMlaId: "MLA14259153", label: "El que más cocina", labelColor: "purple", ranking: 4, description: `50 litros con convección, spiedo y 6 funciones: temperatura precisa, cocina parejo como un horno de cocina. 4.7 estrellas en más de 1.500 calificaciones.` },
+      { type: "p", content: `Si te tomás en serio cocinar (repostería, pan, pollo al asador), este es el más completo. El Smartlife de **50 litros** suma **convección** (cocina parejo, sin zonas frías), **spiedo** (asador giratorio para pollo) y 6 funciones, con temperatura precisa que los compradores destacan para bizcochuelos y pan. A alrededor de $225.000.` },
+      { type: "p", content: `Es el que más se acerca a un horno de cocina de verdad, a cambio de un precio algo mayor que un horno simple del mismo tamaño. Si solo vas a calentar y hacer pizza, es más de lo que necesitás; si horneás y cocinás variado, la convección y el spiedo se notan.` },
+
+      { type: "h3", title: `5. BGH 45L con convección y grill (BHE45S22) — convección de marca` },
+      { type: "product-card", productMlaId: "MLA23364885", label: "Convección de marca", labelColor: "amber", ranking: 5, description: `45 litros con convección y grill, marca con service en el país. 4.7 estrellas en más de 1.100 calificaciones. Cocina parejo y rápido.` },
+      { type: "p", content: `Si querés convección en el tamaño familiar de 45 litros y con una marca de respaldo, el BGH es la opción. Trae **convección y grill**, calienta rápido y cocina parejo, tanto que hay quien lo usa para emprendimientos de pastelería. A alrededor de $196.000, con el service de BGH en el país.` },
+      { type: "p", content: `Frente al Atma #1 (que es el más vendido y un toque más barato), este suma la **convección** y es de BGH. Frente al Smartlife, es más chico (45 vs 50 litros) y sin spiedo, pero de marca más conocida. Buena opción de convección de tamaño medio.` },
+
+      { type: "h3", title: `6. Atma 40L con 2 anafes (HG4022API) — horno + hornallas` },
+      { type: "product-card", productMlaId: "MLA23686313", label: "Horno + 2 anafes", labelColor: "green", ranking: 6, description: `40 litros con grill y 2 anafes (hornallas) arriba: horno y dos bocas de cocina en un solo aparato. 4.7 estrellas en más de 1.700 calificaciones.` },
+      { type: "p", content: `Si te faltan hornallas (monoambiente, cocina chica, una segunda cocina), este Atma resuelve dos cosas en uno: **horno de 40 litros con grill más 2 anafes arriba** para ollas y sartenes. A alrededor de $206.000, es muy elegido justamente por esa combinación práctica.` },
+      { type: "p", content: `Dos contras honestas de las reseñas: como tira mucha potencia (3250 W con los anafes), **necesita toma de 20 amperes** (cambio de enchufe), y los **anafes no funcionan independientes del horno** en algunos usos, así que prendés todo junto. Si lo que querés es horno + hornallas en poco espacio, igual es una solución difícil de igualar.` },
+
+      { type: "h2", title: `Tabla comparativa: por litros, convección y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Extra`, `Ideal para`], rows: [
+        [`[Ultracomb 17L](https://meli.la/275n9Me)`, `$89.499`, `17 L`, `Chico`, `1 persona, el más barato`],
+        [`[Atma 45L grill](https://meli.la/14iWweG)`, `$185.299`, `45 L`, `Grill`, `El más vendido, familia`],
+        [`[BGH 45L convección](https://meli.la/2yH1PUv)`, `$196.527`, `45 L`, `Convección + grill`, `Convección de marca`],
+        [`[BGH 65L](https://meli.la/1xFm6vK)`, `$205.000`, `65 L`, `Grande (toma 20A)`, `Familia, cocinar mucho`],
+        [`[Atma 40L + 2 anafes](https://meli.la/1z6gciA)`, `$205.999`, `40 L`, `2 hornallas arriba`, `Sumar bocas de cocina`],
+        [`[Smartlife 50L](https://meli.la/25fVep5)`, `$224.999`, `50 L`, `Convección + spiedo`, `El que más cocina`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu horno eléctrico`, id: "como-elegir" },
+      { type: "h3", title: `1. Los litros, según cuántos son y qué cocinás` },
+      { type: "p", content: `17 a 30 litros para una persona o pareja y cosas chicas; 40 a 50 litros para el uso familiar típico (pizza grande, pollo, fuentes); 55 a 65 litros si son varios o cocinás mucho. El error más común es comprar chico y que no entre la fuente, o comprar enorme para uso de soltero. Pensá en la pizza o la fuente más grande que vas a meter.` },
+      { type: "h3", title: `2. ¿Convección o simple?` },
+      { type: "p", content: `La convección es un ventilador que reparte el calor: cocina más parejo, más rápido y dora mejor, parecido a un buen horno de cocina. Si hacés repostería, pan o lo vas a usar seguido, vale la pena (Smartlife, BGH 45L convección). Si solo calentás y hacés pizza de vez en cuando, un horno simple alcanza y sale menos.` },
+      { type: "h3", title: `3. Grill, anafes y el enchufe` },
+      { type: "p", content: `El grill (resistencia superior) sirve para dorar y gratinar, y casi todos lo traen. Los anafes (hornallas arriba) suman bocas de cocina si te faltan. Y el dato eléctrico que muchos pasan por alto: los hornos de 2000 W o más, y los que traen anafes, suelen pedir **toma de 20 A**, así que sumá el costo de cambiar el enchufe a tu cuenta.` },
+
+      { type: "h2", title: `Cuánto cuesta un horno eléctrico en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$89.000 a $130.000:** los chicos. El [Ultracomb 17L](https://meli.la/275n9Me) (el más barato), para una persona o poco espacio.`,
+        `**$185.000 a $206.000:** los medianos de 40-45 litros, la franja que conviene para la mayoría. El [Atma 45L](https://meli.la/14iWweG) (el más vendido), el [BGH 45L convección](https://meli.la/2yH1PUv) y el [Atma 40L con anafes](https://meli.la/1z6gciA).`,
+        `**$205.000 a $225.000:** los grandes y completos. El [BGH 65L](https://meli.la/1xFm6vK) (familia) y el [Smartlife 50L](https://meli.la/25fVep5) con convección y spiedo.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál horno eléctrico comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Atma 45L con grill**: el más vendido, tamaño justo para familia (entra un pollo entero) y al mejor precio. Si vivís solo o tenés poco espacio, el **Ultracomb 17L** es el más barato y rápido. Para **familia grande o cocinar mucho**, el **BGH 65L**. Si **horneás en serio** (pan, repostería, pollo al asador), el **Smartlife 50L** con convección y spiedo es el más completo, o el **BGH 45L** si querés convección de marca en tamaño medio. Y si te **faltan hornallas**, el **Atma 40L con 2 anafes** resuelve dos cosas en uno. Acordate: los grandes y los de anafes piden toma de 20 A.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor horno eléctrico en Argentina?`, answer: `Para la mayoría, el [Atma 45L con grill](https://meli.la/14iWweG): es el más vendido del país (más de 2.300 opiniones), con el tamaño justo para familia y buen precio. Si vivís solo, el [Ultracomb 17L](https://meli.la/275n9Me) es el más barato; para familia grande, el [BGH 65L](https://meli.la/1xFm6vK); y si horneás en serio, el [Smartlife 50L](https://meli.la/25fVep5) con convección.` },
+      { question: `¿Cuántos litros de horno eléctrico necesito?`, answer: `Para una persona o pareja y cosas chicas, 17 a 30 litros. Para el uso familiar típico (pizza grande, pollo, fuentes), 40 a 50 litros, que es lo que conviene a la mayoría. Para familia grande o cocinar mucho, 55 a 65 litros como el [BGH 65L](https://meli.la/1xFm6vK). Pensá en la fuente o pizza más grande que vas a meter y elegí en consecuencia.` },
+      { question: `¿Qué es la convección en un horno eléctrico?`, answer: `Es un ventilador interno que reparte el calor por todo el horno. ¿Qué cambia? Cocina más parejo (sin zonas frías ni quemadas), más rápido y dora mejor, parecido a un horno de cocina bueno. Para repostería, pan o uso frecuente conviene; los modelos [Smartlife 50L](https://meli.la/25fVep5) y [BGH 45L](https://meli.la/2yH1PUv) de esta guía la traen. Si solo calentás, un horno simple alcanza.` },
+      { question: `¿Por qué algunos hornos eléctricos piden un toma de 20 amperes?`, answer: `Los hornos de mayor potencia (2000 W o más) y los que traen anafes, como el [BGH 65L](https://meli.la/1xFm6vK) o el [Atma con 2 anafes](https://meli.la/1z6gciA), consumen más corriente y vienen con una ficha para toma de 20 A, más grande que el enchufe común de 10 A. Suele hacer falta cambiar el tomacorriente de la pared: es barato y rápido, pero conviene tenerlo en cuenta antes de comprar.` },
+      { question: `¿Horno eléctrico de sobremesa o cocina a gas con horno?`, answer: `El eléctrico de sobremesa no necesita gas ni instalación: lo enchufás y listo, ideal para sumar horno donde no tenés, para departamentos o como segundo horno. La contra es que consume electricidad (que es cara por kWh), así que para uso intensivo todos los días el horno a gas sale más barato de usar. Para uso normal y la comodidad de no depender del gas, el eléctrico cumple de sobra.` },
+      { question: `¿Horno eléctrico de sobremesa o empotrable?`, answer: `Son dos cosas distintas. El de sobremesa (el de esta guía) lo apoyás en la mesada, lo enchufás y lo movés cuando quieras: cero instalación, más barato e ideal para sumar horno o para departamentos. El empotrable se instala embutido en el mueble de la cocina: queda más prolijo y suele tener más capacidad, pero es más caro y necesita instalación y un mueble preparado. Marcas como Ariston, en Argentina, son justamente de empotrar. Si no querés obra ni instalación, andá al de sobremesa.` },
+      { question: `¿Sirve un horno eléctrico para hacer pizza o pan?`, answer: `Sí, y bastante bien, sobre todo los que tienen convección y llegan a 250°C. Para pizza, un modelo de 40 litros o más con buena temperatura anda perfecto; para pan y repostería, la convección (como en el [Smartlife 50L](https://meli.la/25fVep5)) ayuda a que leve y se cocine parejo. Los compradores destacan justamente el pan, los bizcochuelos y las pizzas.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
+      { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
+      { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // COMPARATIVO horno-electrico-vs-microondas — silo cocina — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "horno-electrico-vs-microondas",
+    category: "cocina",
+    silo: "cocina",
+    title: `Horno eléctrico vs microondas: cuál conviene [2026]`,
+    seoTitle: `Horno Eléctrico vs Microondas: Cuál Conviene 2026`,
+    metaDescription: `Horno eléctrico o microondas: qué hace cada uno, cuánto consumen y cuál conviene si solo podés comprar uno. La comparación honesta, con precios reales.`,
+    ogTitle: `Horno eléctrico vs microondas: cuál conviene`,
+    ogDescription: `No son lo mismo ni compiten. Qué hace cada uno, cuánto gastan de luz y cuál comprar si solo podés uno. La guía honesta para decidir, con precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg`,
+    h1: `Horno eléctrico vs microondas: cuál conviene y cuál comprar [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Horno eléctrico y microondas parecen competir, pero hacen cosas distintas: uno cocina, el otro calienta. Te explicamos qué hace cada uno, cuánto consumen de verdad y cuál conviene si solo podés comprar uno, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA18193159", label: "Microondas recomendado", labelColor: "green", tagline: "BGH Quick Chef 20L: el microondas más vendido, para calentar y descongelar" },
+      { productMlaId: "MLA27167036", label: "Horno recomendado", labelColor: "blue", tagline: "Atma 45L con grill: el horno eléctrico más vendido, para cocinar y dorar" },
+    ],
+    intro: [
+      `Es una de las dudas más comunes al equipar la cocina: ¿horno eléctrico o microondas? La respuesta corta es que **no son lo mismo ni compiten de verdad**: el microondas calienta y descongela rápido, el horno cocina, dora y hornea. Lo ideal es tener los dos, pero si el lugar o el presupuesto te obligan a elegir uno, depende de qué hacés más seguido.`,
+      `Acá te explicamos qué hace cada uno, cuánto gastan de luz (que no es lo que la mayoría piensa) y cuál conviene según tu caso, con precios reales de MercadoLibre. Si querés ir directo al producto, tenemos la [guía de microondas](/guias/cocina/microondas) y la [guía de hornos eléctricos](/guias/cocina/horno-electrico).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg", alt: `Horno eléctrico de sobremesa y microondas, comparados para decidir cuál conviene`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `No compiten: el **microondas** calienta y descongela en minutos pero no dora ni cocina; el **horno eléctrico** cocina, hornea y dora (pizza, pollo, tartas, repostería) pero tarda más. Lo ideal es tener los dos. Si solo podés uno: para el día a día de calentar comida, **microondas**; si querés cocinar de verdad, **horno eléctrico**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo comparamos:** cruzamos para qué sirve cada aparato, su consumo real de electricidad y los modelos más vendidos de MercadoLibre Argentina. La idea no es decir cuál es "mejor" (hacen cosas distintas), sino ayudarte a elegir según lo que vas a cocinar y cuánto espacio y plata tenés. Precios de junio 2026.` },
+
+      { type: "h2", title: `Qué hace cada uno (y por qué no son lo mismo)`, id: "que-hace" },
+      { type: "p", content: `El **microondas** calienta con ondas que agitan el agua de la comida, así que calienta **desde adentro y muy rápido** (2 o 3 minutos), e ideal para recalentar, descongelar y cocinar cosas al vapor. Lo que no hace: **no dora ni gratina** (salvo que tenga grill), no hace una pizza crocante ni una tarta con tapa dorada. La comida sale caliente, pero no "cocinada" como en un horno.` },
+      { type: "p", content: `El **horno eléctrico** calienta con resistencias, como un horno de cocina: **cocina, hornea y dora** (pizza, pollo, tartas, pan, repostería), y los que tienen convección reparten el calor parejo. Lo que no hace bien: calentar rápido un plato (tarda en levantar temperatura) ni descongelar al toque. Es para cocinar, no para apurar.` },
+
+      { type: "h2", title: `Consumo: cuál gasta más luz`, id: "consumo" },
+      { type: "p", content: `Acá hay un malentendido común. El microondas tiene mucha potencia (700 a 1000 W), pero lo usás **poco tiempo** (2-3 minutos), así que por uso gasta muy poco. El horno tiene potencia parecida o mayor (1500 a 2200 W) pero lo tenés prendido **mucho más** (20 a 40 minutos), así que por uso gasta bastante más. No es que uno sea "ineficiente": es que cocinar lleva más energía que solo calentar.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La cuenta, redonda", content: `Calentar un plato en el microondas (1000 W, 3 minutos) son unos 0,05 kWh: centavos. Cocinar en el horno (2000 W, 40 minutos) son cerca de 1,3 kWh: con la tarifa residencial de Argentina (a junio 2026 el kWh ronda los $160 a $170 antes de impuestos, calculá un poco más con IVA), eso son del orden de $250 a $350 por uso. O sea: para calentar, el microondas es muchísimo más barato; para cocinar, el horno gasta lo que tiene que gastar. Confirmá el valor del kWh en tu factura, que cambia por provincia y subsidio.` },
+
+      { type: "h2", title: `Cuál comprar si solo podés uno`, id: "cual-comprar" },
+      { type: "h3", title: `Comprá microondas si...` },
+      { type: "p", content: `Lo que más hacés es **calentar y descongelar** comida del día a día, vivís solo o son dos, tenés poco espacio, o ya tenés horno (el de la cocina a gas) y solo te falta calentar rápido. El microondas resuelve el 90% del uso cotidiano por menos plata y sin esperar. El [BGH Quick Chef 20L](https://meli.la/27RQQKV) es el más vendido para esto.` },
+      { type: "h3", title: `Comprá horno eléctrico si...` },
+      { type: "p", content: `Querés **cocinar de verdad** (pizza, pollo, tartas, pan, repostería), no tenés horno a gas o se te rompió, o vivís en un departamento sin gas. El horno eléctrico te da un horno completo sin obra ni instalación. El [Atma 45L con grill](https://meli.la/14iWweG) es el más vendido; si horneás en serio, uno con convección como el [Smartlife 50L](https://meli.la/25fVep5).` },
+      { type: "h3", title: `Comprá los dos si...` },
+      { type: "p", content: `Cocinás seguido y querés lo mejor de cada uno: el microondas para apurar (calentar, descongelar) y el horno para cocinar. Es lo que tiene la mayoría de las cocinas, y juntos no salen una fortuna: un microondas básico más un horno mediano se arman por menos de lo que cuesta una cocina nueva.` },
+
+      { type: "h2", title: `Tabla comparativa: microondas vs horno eléctrico`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Qué mirás`, `Microondas`, `Horno eléctrico`], rows: [
+        [`Para qué sirve`, `Calentar y descongelar`, `Cocinar, hornear, dorar`],
+        [`Velocidad`, `Muy rápido (minutos)`, `Lento (20-40 min)`],
+        [`¿Dora / gratina?`, `No (salvo con grill)`, `Sí`],
+        [`Consumo por uso`, `Muy bajo (centavos)`, `Alto (cocina = más energía)`],
+        [`Espacio`, `Compacto`, `Más grande`],
+        [`Precio desde`, `~$149.000`, `~$89.000 (chico) a $225.000`],
+      ] },
+
+      { type: "h2", title: `Veredicto`, id: "veredicto" },
+      { type: "verdict", content: `No es "cuál es mejor", es "cuál te sirve". Si lo tuyo es **calentar y descongelar** el día a día, comprá **microondas** (el [BGH Quick Chef](https://meli.la/27RQQKV) es el más vendido). Si querés **cocinar** pizza, pollo o repostería, comprá **horno eléctrico** (el [Atma 45L](https://meli.la/14iWweG)). Y si cocinás seguido, lo ideal es **tener los dos**: se complementan y juntos no salen tanto. Para elegir el modelo exacto, mirá la [guía de microondas](/guias/cocina/microondas) o la [guía de hornos eléctricos](/guias/cocina/horno-electrico).` },
+    ],
+    faq: [
+      { question: `¿Qué conviene más, horno eléctrico o microondas?`, answer: `Depende de qué hagas. Para calentar y descongelar la comida del día a día, conviene el microondas: rápido y barato de usar. Para cocinar (pizza, pollo, tartas, repostería), conviene el horno eléctrico. No compiten: hacen cosas distintas, y lo ideal es tener los dos. Si tenés que elegir uno, pensá si vas a calentar más o cocinar más.` },
+      { question: `¿Un horno eléctrico reemplaza al microondas?`, answer: `Para cocinar, sí; para calentar rápido, no del todo. El horno cocina y dora, pero tarda en levantar temperatura, así que recalentar un plato lleva mucho más que en el microondas y gasta más luz. Si solo querés cocinar, el horno alcanza; si también querés calentar al toque, el microondas sigue siendo más práctico.` },
+      { question: `¿El microondas sirve para cocinar o solo para calentar?`, answer: `Sobre todo para calentar, descongelar y cocciones al vapor o rápidas. Cocina, pero no dora ni gratina (salvo que tenga grill), así que no te hace una pizza crocante ni una tarta dorada. Para eso necesitás un horno. El microondas brilla en lo rápido: recalentar, descongelar y preparaciones simples.` },
+      { question: `¿Cuál gasta más luz, el horno o el microondas?`, answer: `Por uso, el horno gasta bastante más, pero no porque sea ineficiente: cocinar lleva más energía que solo calentar. El microondas tiene mucha potencia pero lo usás 2-3 minutos (centavos por uso); el horno está prendido 20-40 minutos. Para calentar, el microondas es muchísimo más barato; para cocinar, el horno gasta lo que corresponde.` },
+      { question: `¿Qué conviene si no tengo horno a gas?`, answer: `Un horno eléctrico de sobremesa: te da un horno completo (pizza, pollo, repostería) sin gas ni instalación, ideal para departamentos. Sumale un microondas para calentar rápido y tenés la cocina resuelta. Mirá la [guía de hornos eléctricos](/guias/cocina/horno-electrico) para elegir el tamaño según cuántos sean en casa.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
+      { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
+      { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────
@@ -7802,7 +8117,7 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "/images/freidoras/atma-fr248abp-8l.webp", alt: `Freidoras de aire Atma - los 4 modelos disponibles en Argentina` },
       { type: "h2", title: `Atma FR248ABP 8L: la freidora de aire más popular` },
-      { type: "p", content: `Este es el modelo que ves en la mayoría de las casas. La cuatrocientas y pico de pesos la pone al alcance de la mayoría, y sinceramente, por esa guita tostás bien.` },
+      { type: "p", content: `Este es el modelo que ves en la mayoría de las casas. La cuatrocientas y pico de pesos la pone al alcance de la mayoría, y sinceramente, por esa guita tostás bien. Mirá la [ficha completa de la Atma FR248ABP 8L](/producto/freidora-de-aire-atma-fr248ap-1750w-8l-y-control-tactil-mla39861162) con specs, precio actualizado y opiniones reales.` },
       { type: "p", content: `La capacidad de 8 litros es bastante generosa. Fríes un pollo entero sin quilombo, un par de bandejas de papas fritas, hasta alitas de pollo para toda la familia. El tamaño no es para apartamentos diminutos, pero tampoco es un refrigerador.` },
       { type: "p", content: `El desempeño es confiable. Calienta rápido, 200 grados en menos de 3 minutos, y el aire circula bien sin dejar partes crudas. No te pide demasiado: enchufas, seleccionás tiempo y temperatura, y listo. La bandeja sale con un click, fácil de limpiar.` },
       { type: "p", content: `Donde baja un poco es en controles. Tiene botones básicos, pantalla simple. Si querés programas preestablecidos o una pantalla sofisticada, acá no va. Pero la mayoría ni lo necesita. Además, la mayoría de los accesorios genéricos le quedan bien.` },
@@ -8087,7 +8402,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Recomendación final` },
       { type: "p", content: `La Kanji Home es una freidora de aire seria a precio intermedio. No es la mejor del mercado, pero tampoco es una apuesta riesgosa. Cocina bien, ocupa espacio razonable, y aguanta uso normal durante años.` },
       { type: "p", content: `Si te atrae el precio y cocinás para familia de tamaño medio, es buena compra. Si querés lo mejor y el dinero no es problema, mirá Atma o Philips.` },
-      { type: "p", content: `Para ver disponibilidad y precios actuales:` },
+      { type: "p", content: `Para ver disponibilidad y precios actuales, mirá la [ficha completa de la Kanji Home KJH-1700DC 8L](/producto/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700-mla42113760): specs, precio actualizado y opiniones reales.` },
       { type: "p", content: `Otras lecturas útiles antes de decidir:` },
     ],
     faq: [
