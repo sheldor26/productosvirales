@@ -14,6 +14,7 @@ import { StickyBuyBar } from "./StickyBuyBar";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
+import { injectLivePrices } from "@/lib/price-token";
 import { Stars } from "./Stars";
 
 interface GuideRendererProps {
@@ -96,14 +97,14 @@ function SectionRenderer({ section }: { section: GuideSection }) {
             className="text-lg md:text-xl font-bold text-[var(--text-primary)] mb-3"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            {section.card.heading}
+            {injectLivePrices(section.card.heading)}
           </h3>
           {section.card.paragraphs.map((p, i) => (
             <p
               key={i}
               className="text-[15px] leading-relaxed text-[var(--text-secondary)] mb-3"
             >
-              {p}
+              {injectLivePrices(p)}
             </p>
           ))}
           {section.card.ctas && section.card.ctas.length > 0 && (
@@ -116,7 +117,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                   rel="nofollow sponsored noopener"
                   className="inline-flex items-center gap-1.5 px-5 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
                 >
-                  {cta.label}
+                  {injectLivePrices(cta.label)}
                   <ExternalLink size={13} />
                 </a>
               ))}
@@ -167,7 +168,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
             </p>
           )}
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)]">
-            {section.content}
+            {section.content ? injectLivePrices(section.content) : null}
           </p>
         </div>
       );
@@ -588,7 +589,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
                 className="inline-block px-3 py-1.5 text-sm rounded-full bg-[var(--bg-primary)] border border-[var(--border)] hover:bg-[var(--bg-secondary)] transition-colors"
                 style={{ color: "var(--editorial-accent)" }}
               >
-                {link.label}
+                {injectLivePrices(link.label)}
               </Link>
             ))}
           </div>

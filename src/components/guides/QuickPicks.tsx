@@ -1,6 +1,7 @@
 import type { Guide, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
+import { injectLivePrices } from "@/lib/price-token";
 import { Stars } from "./Stars";
 
 interface QuickPicksProps {
@@ -109,7 +110,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                 </div>
               ) : null}
               <p className="flex-1 text-xs text-[var(--text-secondary)] leading-snug line-clamp-2">
-                {p.tagline}
+                {injectLivePrices(p.tagline)}
               </p>
               <div className="mt-1">
                 {isWin ? (

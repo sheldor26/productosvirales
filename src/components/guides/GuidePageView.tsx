@@ -1,5 +1,6 @@
 import { GuideRenderer } from "./GuideRenderer";
 import { guideUrl } from "@/lib/guide-url";
+import { injectLivePrices } from "@/lib/price-token";
 import type { Guide } from "@/lib/types";
 
 /**
@@ -24,7 +25,7 @@ export function GuidePageView({ guide }: { guide: Guide }) {
     "@context": "https://schema.org",
     "@type": "Article",
     headline: guide.title,
-    description: guide.metaDescription,
+    description: injectLivePrices(guide.metaDescription),
     image: articleImage,
     datePublished: guide.publishedDate,
     dateModified: guide.updatedDate,
@@ -60,7 +61,7 @@ export function GuidePageView({ guide }: { guide: Guide }) {
             name: item.question,
             acceptedAnswer: {
               "@type": "Answer",
-              text: item.answer,
+              text: injectLivePrices(item.answer),
             },
           })),
         }

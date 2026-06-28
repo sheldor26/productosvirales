@@ -102,12 +102,12 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por tamaño, grill y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Grill`, `Ideal para`], rows: [
-        [`[BGH Quick Chef 20L](https://meli.la/27RQQKV)`, `$149.132`, `20 L`, `No`, `El más vendido y barato (a perilla)`],
-        [`[BGH Eco Digital 20L](https://meli.la/2jy5EDC)`, `$200.595`, `20 L`, `No`, `El digital más elegido`],
-        [`[Samsung 23L grill](https://meli.la/2TU2ytf)`, `$258.612`, `23 L`, `Sí`, `Dorar y gratinar (pide toma 20A)`],
-        [`[BGH 28L](https://meli.la/322XwMY)`, `$310.374`, `28 L`, `Sí`, `Grande, para familia`],
-        [`[Atma 20L](https://meli.la/2Gh5aGU)`, `$214.158`, `20 L`, `No`, `Alternativa de valor a BGH`],
-        [`[LG 25L Inverter](https://meli.la/2pLfJd8)`, `$374.999`, `25 L`, `Sí`, `Premium con inverter`],
+        [`[BGH Quick Chef 20L](https://meli.la/27RQQKV)`, `{{precio:MLA18193159}}`, `20 L`, `No`, `El más vendido y barato (a perilla)`],
+        [`[BGH Eco Digital 20L](https://meli.la/2jy5EDC)`, `{{precio:MLA17695389}}`, `20 L`, `No`, `El digital más elegido`],
+        [`[Samsung 23L grill](https://meli.la/2TU2ytf)`, `{{precio:MLA10531383}}`, `23 L`, `Sí`, `Dorar y gratinar (pide toma 20A)`],
+        [`[BGH 28L](https://meli.la/322XwMY)`, `{{precio:MLA17484012}}`, `28 L`, `Sí`, `Grande, para familia`],
+        [`[Atma 20L](https://meli.la/2Gh5aGU)`, `{{precio:MLA41009857}}`, `20 L`, `No`, `Alternativa de valor a BGH`],
+        [`[LG 25L Inverter](https://meli.la/2pLfJd8)`, `{{precio:MLA62204337}}`, `25 L`, `Sí`, `Premium con inverter`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu microondas`, id: "como-elegir" },
@@ -124,7 +124,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$149.000 a $215.000:** los de 20 litros. El [BGH Quick Chef](https://meli.la/27RQQKV) a perilla (el más vendido), el [BGH Eco digital](https://meli.la/2jy5EDC) y el [Atma](https://meli.la/2Gh5aGU). La franja que resuelve para la mayoría.`,
         `**$258.000 a $310.000:** los de 23-28 litros con grill. El [Samsung 23L](https://meli.la/2TU2ytf) (dorar y gratinar) y el [BGH 28L](https://meli.la/322XwMY) (grande para familia).`,
-        `**$375.000 o más:** el premium. El [LG 25L Smart Inverter](https://meli.la/2pLfJd8), solo si valorás el inverter y la marca.`,
+        `**{{precio:MLA62204337:k}} o más:** el premium. El [LG 25L Smart Inverter](https://meli.la/2pLfJd8), solo si valorás el inverter y la marca.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál microondas comprar`, id: "veredicto" },
@@ -222,12 +222,12 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por litros, convección y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Extra`, `Ideal para`], rows: [
-        [`[Ultracomb 17L](https://meli.la/275n9Me)`, `$89.499`, `17 L`, `Chico`, `1 persona, el más barato`],
-        [`[Atma 45L grill](https://meli.la/14iWweG)`, `$185.299`, `45 L`, `Grill`, `El más vendido, familia`],
-        [`[BGH 45L convección](https://meli.la/2yH1PUv)`, `$196.527`, `45 L`, `Convección + grill`, `Convección de marca`],
-        [`[BGH 65L](https://meli.la/1xFm6vK)`, `$205.000`, `65 L`, `Hasta 250 °C`, `Familia, cocinar mucho`],
-        [`[Atma 40L + 2 anafes](https://meli.la/1z6gciA)`, `$205.999`, `40 L`, `2 hornallas arriba`, `Sumar bocas de cocina`],
-        [`[Smartlife 50L](https://meli.la/25fVep5)`, `$224.999`, `50 L`, `Convección + spiedo`, `El que más cocina`],
+        [`[Ultracomb 17L](https://meli.la/275n9Me)`, `{{precio:MLA23096996}}`, `17 L`, `Chico`, `1 persona, el más barato`],
+        [`[Atma 45L grill](https://meli.la/14iWweG)`, `{{precio:MLA27167036}}`, `45 L`, `Grill`, `El más vendido, familia`],
+        [`[BGH 45L convección](https://meli.la/2yH1PUv)`, `{{precio:MLA23364885}}`, `45 L`, `Convección + grill`, `Convección de marca`],
+        [`[BGH 65L](https://meli.la/1xFm6vK)`, `{{precio:MLA15545846}}`, `65 L`, `Hasta 250 °C`, `Familia, cocinar mucho`],
+        [`[Atma 40L + 2 anafes](https://meli.la/1z6gciA)`, `{{precio:MLA23686313}}`, `40 L`, `2 hornallas arriba`, `Sumar bocas de cocina`],
+        [`[Smartlife 50L](https://meli.la/25fVep5)`, `{{precio:MLA14259153}}`, `50 L`, `Convección + spiedo`, `El que más cocina`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu horno eléctrico`, id: "como-elegir" },
@@ -407,10 +407,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la gama BGH`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Control`, `Ideal para`], rows: [
-        [`[Quick Chef 20L perilla](https://meli.la/27RQQKV)`, `$149.132`, `20 L`, `Perilla`, `El más vendido y barato`],
-        [`[Eco 20L digital](https://meli.la/2jy5EDC)`, `$200.595`, `20 L`, `Digital`, `El digital más elegido`],
-        [`[Eco 23L digital](https://meli.la/17cw2wE)`, `$242.999`, `23 L`, `Digital + grill`, `Más grande, con grill`],
-        [`[28L con grill](https://meli.la/322XwMY)`, `$310.374`, `28 L`, `Digital + grill`, `Familia, dorar y gratinar`],
+        [`[Quick Chef 20L perilla](https://meli.la/27RQQKV)`, `{{precio:MLA18193159}}`, `20 L`, `Perilla`, `El más vendido y barato`],
+        [`[Eco 20L digital](https://meli.la/2jy5EDC)`, `{{precio:MLA17695389}}`, `20 L`, `Digital`, `El digital más elegido`],
+        [`[Eco 23L digital](https://meli.la/17cw2wE)`, `{{precio:MLA19079384}}`, `23 L`, `Digital + grill`, `Más grande, con grill`],
+        [`[28L con grill](https://meli.la/322XwMY)`, `{{precio:MLA17484012}}`, `28 L`, `Digital + grill`, `Familia, dorar y gratinar`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu BGH`, id: "como-elegir" },
@@ -421,9 +421,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un microondas BGH en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $149.000:** el [Quick Chef 20L a perilla](https://meli.la/27RQQKV), el más vendido y la entrada a la marca.`,
+        `**Alrededor de {{precio:MLA18193159:k}}:** el [Quick Chef 20L a perilla](https://meli.la/27RQQKV), el más vendido y la entrada a la marca.`,
         `**$200.000 a $243.000:** los digitales de 20 y 23 litros. El [Eco 20L](https://meli.la/2jy5EDC) y el [Eco 23L](https://meli.la/17cw2wE).`,
-        `**Alrededor de $310.000:** el [28L con grill](https://meli.la/322XwMY), el grande para familia.`,
+        `**Alrededor de {{precio:MLA17484012:k}}:** el [28L con grill](https://meli.la/322XwMY), el grande para familia.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál BGH comprar`, id: "veredicto" },
@@ -519,11 +519,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por capacidad, potencia y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Bowl`, `Potencia`, `Ideal para`], rows: [
-        [`[Suono Neochef 3.3L](https://meli.la/22jNkj5)`, `$396.199`, `3.3 L`, `1700 W`, `Entrar gastando lo mínimo`],
-        [`[EasyCook Vonne 4.5L](https://meli.la/2A46PnW)`, `$488.139`, `4.5 L`, `1000 W`, `Pantalla táctil, tamaño grande`],
-        [`[Atma Smart Mix 3L](https://meli.la/2iWFvPW)`, `$568.999`, `3 L`, `—`, `Marca conocida con service`],
-        [`[Suono Neochef Pro 4.7L](https://meli.la/19nyfZ5)`, `$569.999`, `4.7 L`, `1700 W`, `El más completo y valorado`],
-        [`[Heybez PMIX08](https://meli.la/1DzAgtB)`, `$1.199.699`, `3 L`, `800 W`, `Premium, tope de gama`],
+        [`[Suono Neochef 3.3L](https://meli.la/22jNkj5)`, `{{precio:MLA51527087}}`, `3.3 L`, `1700 W`, `Entrar gastando lo mínimo`],
+        [`[EasyCook Vonne 4.5L](https://meli.la/2A46PnW)`, `{{precio:MLA62799773}}`, `4.5 L`, `1000 W`, `Pantalla táctil, tamaño grande`],
+        [`[Atma Smart Mix 3L](https://meli.la/2iWFvPW)`, `{{precio:MLA57493542}}`, `3 L`, `—`, `Marca conocida con service`],
+        [`[Suono Neochef Pro 4.7L](https://meli.la/19nyfZ5)`, `{{precio:MLA58514868}}`, `4.7 L`, `1700 W`, `El más completo y valorado`],
+        [`[Heybez PMIX08](https://meli.la/1DzAgtB)`, `{{precio:MLA52092432}}`, `3 L`, `800 W`, `Premium, tope de gama`],
       ] },
 
       { type: "h2", title: `Qué mirar antes de comprar un robot de cocina`, id: "como-elegir" },
@@ -537,7 +537,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta un robot de cocina en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**$396.000 a $570.000:** las opciones económicas que hacen gran parte del trabajo. El [Suono 3.3L](https://meli.la/22jNkj5) (entrada), el [EasyCook Vonne](https://meli.la/2A46PnW) y el [Suono Pro 4.7L](https://meli.la/19nyfZ5) (el más completo).`,
-        `**Alrededor de $1.200.000:** el premium del nicho, el [Heybez PMIX08](https://meli.la/1DzAgtB), ya cerca de la categoría Thermomix.`,
+        `**Alrededor de {{precio:MLA52092432:k}}:** el premium del nicho, el [Heybez PMIX08](https://meli.la/1DzAgtB), ya cerca de la categoría Thermomix.`,
         `**Más de $1.500.000:** la Thermomix de verdad, la mejor de la categoría, para quien quiere lo máximo y lo usa todos los días.`,
       ] },
 
@@ -617,10 +617,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la gama Atma`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Grill`, `Ideal para`], rows: [
-        [`[Atma 20L rotativo](https://meli.la/2XmTv5R)`, `$186.279`, `20 L`, `No`, `El más barato de la marca`],
-        [`[Atma 20L digital](https://meli.la/2Gh5aGU)`, `$214.158`, `20 L`, `No`, `El más vendido, digital`],
-        [`[Atma 25L full screen](https://meli.la/19aHgDm)`, `$233.494`, `25 L`, `Sí`, `El más grande, con grill`],
-        [`[Atma Easy Cook 23L](https://meli.la/21neHpi)`, `$260.000`, `23 L`, `Sí`, `Dorar, con parrilla incluida`],
+        [`[Atma 20L rotativo](https://meli.la/2XmTv5R)`, `{{precio:MLA28645101}}`, `20 L`, `No`, `El más barato de la marca`],
+        [`[Atma 20L digital](https://meli.la/2Gh5aGU)`, `{{precio:MLA41009857}}`, `20 L`, `No`, `El más vendido, digital`],
+        [`[Atma 25L full screen](https://meli.la/19aHgDm)`, `{{precio:MLA56215513}}`, `25 L`, `Sí`, `El más grande, con grill`],
+        [`[Atma Easy Cook 23L](https://meli.la/21neHpi)`, `{{precio:MLA8891728}}`, `23 L`, `Sí`, `Dorar, con parrilla incluida`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu Atma`, id: "como-elegir" },
@@ -700,10 +700,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la gama Atma`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Extra`, `Ideal para`], rows: [
-        [`[Atma 45L grill](https://meli.la/14iWweG)`, `$185.299`, `45 L`, `Grill`, `El más vendido, familia`],
-        [`[Atma 50L grill](https://meli.la/2gXMCyC)`, `$200.000`, `50 L`, `Dorar arriba/abajo`, `El grande`],
-        [`[Atma 30L grill](https://meli.la/1fbEnsF)`, `$199.999`, `30 L`, `Hasta 250 °C`, `Pareja, tamaño intermedio`],
-        [`[Atma 23L + freidora](https://meli.la/1HfsMm2)`, `$203.457`, `23 L`, `Freidora de aire`, `Horno y freidora en uno`],
+        [`[Atma 45L grill](https://meli.la/14iWweG)`, `{{precio:MLA27167036}}`, `45 L`, `Grill`, `El más vendido, familia`],
+        [`[Atma 50L grill](https://meli.la/2gXMCyC)`, `{{precio:MLA20010900}}`, `50 L`, `Dorar arriba/abajo`, `El grande`],
+        [`[Atma 30L grill](https://meli.la/1fbEnsF)`, `{{precio:MLA21789761}}`, `30 L`, `Hasta 250 °C`, `Pareja, tamaño intermedio`],
+        [`[Atma 23L + freidora](https://meli.la/1HfsMm2)`, `{{precio:MLA29108606}}`, `23 L`, `Freidora de aire`, `Horno y freidora en uno`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu horno Atma`, id: "como-elegir" },
@@ -798,12 +798,12 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por tamaño y uso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
-        [`[Xiaomi Sound Pocket](https://meli.la/2aD2P7V)`, `$33.599`, `Mini`, `Llevar a todos lados, el más barato`],
-        [`[JBL Go Essential](https://meli.la/1M5XMiQ)`, `$57.119`, `Chico`, `JBL económico, waterproof`],
-        [`[JBL Flip 7](https://meli.la/1NBXkt8)`, `$167.466`, `Mediano`, `El todoterreno para casi todo`],
-        [`[JBL Charge 5](https://meli.la/2rdrXGv)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
-        [`[JBL Boombox 3](https://meli.la/2wwPi19)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
-        [`[Noblex MNT290](https://meli.la/2XUcqza)`, `$166.499`, `Torre`, `Equipo fijo de hogar`],
+        [`[Xiaomi Sound Pocket](https://meli.la/2aD2P7V)`, `{{precio:MLA44740757}}`, `Mini`, `Llevar a todos lados, el más barato`],
+        [`[JBL Go Essential](https://meli.la/1M5XMiQ)`, `{{precio:MLA44711946}}`, `Chico`, `JBL económico, waterproof`],
+        [`[JBL Flip 7](https://meli.la/1NBXkt8)`, `{{precio:MLA48958711}}`, `Mediano`, `El todoterreno para casi todo`],
+        [`[JBL Charge 5](https://meli.la/2rdrXGv)`, `{{precio:MLA44709426}}`, `Grande`, `Potencia, batería y carga celular`],
+        [`[JBL Boombox 3](https://meli.la/2wwPi19)`, `{{precio:MLA45498184}}`, `Fiesta`, `Previas y exteriores`],
+        [`[Noblex MNT290](https://meli.la/2XUcqza)`, `{{precio:MLA15733030}}`, `Torre`, `Equipo fijo de hogar`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu parlante bluetooth`, id: "como-elegir" },
@@ -818,7 +818,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$33.000 a $60.000:** los chicos. El [Xiaomi Sound Pocket](https://meli.la/2aD2P7V) (el más vendido) y el [JBL Go Essential](https://meli.la/1M5XMiQ).`,
         `**$160.000 a $250.000:** los medianos y grandes. El [JBL Flip 7](https://meli.la/1NBXkt8) (todoterreno), el [JBL Charge 5](https://meli.la/2rdrXGv) (potencia) y la torre [Noblex MNT290](https://meli.la/2XUcqza) para el hogar.`,
-        `**$625.000 o más:** el de fiesta. El [JBL Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar reuniones o exteriores.`,
+        `**{{precio:MLA45498184}} o más:** el de fiesta. El [JBL Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar reuniones o exteriores.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál parlante comprar`, id: "veredicto" },
@@ -901,10 +901,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la gama JBL`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
-        [`[JBL Go Essential](https://meli.la/1M5XMiQ)`, `$57.119`, `Chico`, `Llevar siempre, el más barato`],
-        [`[JBL Flip 7](https://meli.la/1NBXkt8)`, `$167.466`, `Mediano`, `El todoterreno para la mayoría`],
-        [`[JBL Charge 5](https://meli.la/2rdrXGv)`, `$250.000`, `Grande`, `Potencia, batería y carga celular`],
-        [`[JBL Boombox 3](https://meli.la/2wwPi19)`, `$625.000`, `Fiesta`, `Previas y exteriores`],
+        [`[JBL Go Essential](https://meli.la/1M5XMiQ)`, `{{precio:MLA44711946}}`, `Chico`, `Llevar siempre, el más barato`],
+        [`[JBL Flip 7](https://meli.la/1NBXkt8)`, `{{precio:MLA48958711}}`, `Mediano`, `El todoterreno para la mayoría`],
+        [`[JBL Charge 5](https://meli.la/2rdrXGv)`, `{{precio:MLA44709426}}`, `Grande`, `Potencia, batería y carga celular`],
+        [`[JBL Boombox 3](https://meli.la/2wwPi19)`, `{{precio:MLA45498184}}`, `Fiesta`, `Previas y exteriores`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu JBL`, id: "como-elegir" },
@@ -917,9 +917,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un parlante JBL en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $57.000:** el [JBL Go Essential](https://meli.la/1M5XMiQ), la entrada a la marca.`,
+        `**Alrededor de {{precio:MLA44711946:k}}:** el [JBL Go Essential](https://meli.la/1M5XMiQ), la entrada a la marca.`,
         `**$167.000 a $250.000:** el [Flip 7](https://meli.la/1NBXkt8) (todoterreno) y el [Charge 5](https://meli.la/2rdrXGv) (potencia y batería). La franja que conviene para la mayoría.`,
-        `**$625.000 o más:** el [Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar fiestas o exteriores.`,
+        `**{{precio:MLA45498184}} o más:** el [Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar fiestas o exteriores.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál JBL comprar`, id: "veredicto" },
@@ -992,9 +992,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: las tres torres`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Extra`, `Ideal para`], rows: [
-        [`[Noblex MNT290](https://meli.la/2XUcqza)`, `$166.499`, `Luces LED`, `La más vendida y económica`],
-        [`[JVC XS-LA5214](https://meli.la/2AFiBZG)`, `$202.099`, `Micrófono (karaoke)`, `Potencia y cantar en casa`],
-        [`[Aiwa AW-T2018R](https://meli.la/1FFKAw8)`, `$288.099`, `Power bank`, `Premium con más prestaciones`],
+        [`[Noblex MNT290](https://meli.la/2XUcqza)`, `{{precio:MLA15733030}}`, `Luces LED`, `La más vendida y económica`],
+        [`[JVC XS-LA5214](https://meli.la/2AFiBZG)`, `{{precio:MLA45615651}}`, `Micrófono (karaoke)`, `Potencia y cantar en casa`],
+        [`[Aiwa AW-T2018R](https://meli.la/1FFKAw8)`, `{{precio:MLA20012498}}`, `Power bank`, `Premium con más prestaciones`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu torre de sonido`, id: "como-elegir" },
@@ -1005,7 +1005,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una torre de sonido en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $166.000:** la [Noblex MNT290](https://meli.la/2XUcqza), la más vendida y la mejor relación precio.`,
+        `**Alrededor de {{precio:MLA15733030:k}}:** la [Noblex MNT290](https://meli.la/2XUcqza), la más vendida y la mejor relación precio.`,
         `**$200.000 a $290.000:** las de más prestaciones. La [JVC XS-LA5214](https://meli.la/2AFiBZG) (karaoke) y la [Aiwa AW-T2018R](https://meli.la/1FFKAw8) (premium con power bank).`,
         `**Si necesitás llevarlo:** una torre no sirve (es fija). Mirá un parlante portátil potente en la [guía de parlantes](/guias/audio/parlantes).`,
       ] },
@@ -1084,9 +1084,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la línea Stromberg`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Ideal para`], rows: [
-        [`[Stromberg Burst 2](https://meli.la/1vRTkEr)`, `$79.999`, `Compacto`, `El más barato, para llevar`],
-        [`[Stromberg Twin 2](https://meli.la/1dxJi26)`, `$85.924`, `2 en 1 (estéreo)`, `El más vendido, mejor relación`],
-        [`[Stromberg Mega Twin](https://meli.la/1ER2XeX)`, `$182.650`, `2 en 1 grande`, `Más potencia para ambientes grandes`],
+        [`[Stromberg Burst 2](https://meli.la/1vRTkEr)`, `{{precio:MLA42652282}}`, `Compacto`, `El más barato, para llevar`],
+        [`[Stromberg Twin 2](https://meli.la/1dxJi26)`, `{{precio:MLA55886611}}`, `2 en 1 (estéreo)`, `El más vendido, mejor relación`],
+        [`[Stromberg Mega Twin](https://meli.la/1ER2XeX)`, `{{precio:MLA47305608}}`, `2 en 1 grande`, `Más potencia para ambientes grandes`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu Stromberg`, id: "como-elegir" },
@@ -1100,7 +1100,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta un parlante Stromberg en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**$80.000 a $86.000:** los chicos. El [Burst 2](https://meli.la/1vRTkEr) (compacto) y el [Twin 2](https://meli.la/1dxJi26) (el 2 en 1 más vendido). La franja que conviene para la mayoría.`,
-        `**Alrededor de $182.650:** el [Mega Twin](https://meli.la/1ER2XeX), la versión grande del 2 en 1 para más potencia.`,
+        `**Alrededor de {{precio:MLA47305608:k}}:** el [Mega Twin](https://meli.la/1ER2XeX), la versión grande del 2 en 1 para más potencia.`,
         `**Frente a las marcas grandes:** Stromberg cuesta bastante menos que un JBL de tamaño similar; resignás algo de sonido y marca, ganás el truco del 2 en 1 y el precio.`,
       ] },
 
@@ -1193,12 +1193,12 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por tipo y uso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Ideal para`], rows: [
-        [`[Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR)`, `$23.250`, `In-ear`, `El más vendido y barato`],
-        [`[Lenovo LivePod LP75](https://meli.la/1S7f74t)`, `$31.681`, `In-ear`, `Lo más barato con respaldo`],
-        [`[Alpina F50 Pro](https://meli.la/2UAS5x1)`, `$24.875`, `Deportivo (gancho)`, `Correr y entrenar`],
-        [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `$80.000`, `Vincha`, `Comodidad y 50 h de batería`],
-        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `$163.197`, `Vincha con cancelación`, `Aislarte del ruido`],
-        [`[Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6)`, `$329.999`, `In-ear premium`, `Lo mejor en sonido y cancelación`],
+        [`[Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR)`, `{{precio:MLA39962085}}`, `In-ear`, `El más vendido y barato`],
+        [`[Lenovo LivePod LP75](https://meli.la/1S7f74t)`, `{{precio:MLA28026305}}`, `In-ear`, `Lo más barato con respaldo`],
+        [`[Alpina F50 Pro](https://meli.la/2UAS5x1)`, `{{precio:MLA41255867}}`, `Deportivo (gancho)`, `Correr y entrenar`],
+        [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `{{precio:MLA23138487}}`, `Vincha`, `Comodidad y 50 h de batería`],
+        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha con cancelación`, `Aislarte del ruido`],
+        [`[Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6)`, `{{precio:MLA38451794}}`, `In-ear premium`, `Lo mejor en sonido y cancelación`],
       ] },
 
       { type: "h2", title: `Cómo elegir tus auriculares inalámbricos`, id: "como-elegir" },
@@ -1213,7 +1213,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$23.000 a $32.000:** los in-ear más vendidos. Los [Redmi Buds 6 Play](https://meli.la/1LqPkFR), los [Lenovo LivePod](https://meli.la/1S7f74t) y los deportivos [Alpina F50 Pro](https://meli.la/2UAS5x1).`,
         `**$80.000 a $163.000:** las vinchas. La [Sony WH-CH520](https://meli.la/2t24mSB) (50 h de batería) y la [JBL Tune 770NC](https://meli.la/1mR75zc) con cancelación.`,
-        `**$330.000 o más:** los premium. Los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6), gama alta con cancelación.`,
+        `**{{precio:MLA38451794:k}} o más:** los premium. Los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6), gama alta con cancelación.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuáles auriculares comprar`, id: "veredicto" },
@@ -1296,10 +1296,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la gama JBL`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Ideal para`], rows: [
-        [`[JBL Wave Beam 2](https://meli.la/2nnvajF)`, `$98.919`, `In-ear`, `Earbuds JBL para llevar`],
-        [`[JBL Tune 520BT](https://meli.la/1ovdrES)`, `$79.990`, `Vincha`, `La vincha de entrada, mucha batería`],
-        [`[JBL Tune 720BT](https://meli.la/1PhKyyq)`, `$107.999`, `Vincha`, `Mejor sonido, la más elegida`],
-        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `$163.197`, `Vincha con cancelación`, `Aislarte del ruido`],
+        [`[JBL Wave Beam 2](https://meli.la/2nnvajF)`, `{{precio:MLA53657592}}`, `In-ear`, `Earbuds JBL para llevar`],
+        [`[JBL Tune 520BT](https://meli.la/1ovdrES)`, `{{precio:MLA23997257}}`, `Vincha`, `La vincha de entrada, mucha batería`],
+        [`[JBL Tune 720BT](https://meli.la/1PhKyyq)`, `{{precio:MLA24519483}}`, `Vincha`, `Mejor sonido, la más elegida`],
+        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha con cancelación`, `Aislarte del ruido`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu JBL`, id: "como-elegir" },
@@ -1380,9 +1380,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por tipo de sujeción`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Ideal para`], rows: [
-        [`[Alpina F50 Pro](https://meli.la/2UAS5x1)`, `$24.875`, `Gancho`, `Que no se caigan, entrenamiento intenso`],
-        [`[Vention Open Ear](https://meli.la/2dsHLzN)`, `$26.009`, `Open ear`, `Correr en la calle oyendo el entorno`],
-        [`[Lenovo XT80](https://meli.la/1B6V5G7)`, `$27.053`, `In-ear`, `Económico y discreto, uso mixto`],
+        [`[Alpina F50 Pro](https://meli.la/2UAS5x1)`, `{{precio:MLA41255867}}`, `Gancho`, `Que no se caigan, entrenamiento intenso`],
+        [`[Vention Open Ear](https://meli.la/2dsHLzN)`, `{{precio:MLA41013705}}`, `Open ear`, `Correr en la calle oyendo el entorno`],
+        [`[Lenovo XT80](https://meli.la/1B6V5G7)`, `{{precio:MLA43473453}}`, `In-ear`, `Económico y discreto, uso mixto`],
       ] },
 
       { type: "h2", title: `Cómo elegir tus auriculares deportivos`, id: "como-elegir" },
@@ -1474,11 +1474,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: auriculares de estudio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Fuerte`, `Ideal para`], rows: [
-        [`[Audio-Technica ATH-M20x](https://meli.la/1UEeYbH)`, `$135.913`, `Precio`, `Empezar en estudio`],
-        [`[Audio-Technica ATH-M30x](https://meli.la/2eP7p8D)`, `$156.971`, `Detalle por su precio`, `Escalón intermedio`],
-        [`[Sennheiser HD 280 Pro](https://meli.la/2QKcvdu)`, `$280.000`, `Aislamiento`, `Grabación, tracking`],
-        [`[Audio-Technica ATH-M40x](https://meli.la/29PkMPt)`, `$303.696`, `Neutralidad`, `Mezcla con referencia plana`],
-        [`[Audio-Technica ATH-M50x](https://meli.la/13WhHKh)`, `$316.911`, `El estándar`, `Producción seria, versátil`],
+        [`[Audio-Technica ATH-M20x](https://meli.la/1UEeYbH)`, `{{precio:MLA6343490}}`, `Precio`, `Empezar en estudio`],
+        [`[Audio-Technica ATH-M30x](https://meli.la/2eP7p8D)`, `{{precio:MLA6344268}}`, `Detalle por su precio`, `Escalón intermedio`],
+        [`[Sennheiser HD 280 Pro](https://meli.la/2QKcvdu)`, `{{precio:MLA6072318}}`, `Aislamiento`, `Grabación, tracking`],
+        [`[Audio-Technica ATH-M40x](https://meli.la/29PkMPt)`, `{{precio:MLA6337847}}`, `Neutralidad`, `Mezcla con referencia plana`],
+        [`[Audio-Technica ATH-M50x](https://meli.la/13WhHKh)`, `{{precio:MLA24560880}}`, `El estándar`, `Producción seria, versátil`],
       ] },
 
       { type: "h2", title: `Cómo elegir tus auriculares de estudio`, id: "como-elegir" },
@@ -1574,9 +1574,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: tipo, consumo y para quién`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Calienta`, `Ideal para`], rows: [
-        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `$49.799`, `Caloventor`, `El ambiente entero, rápido`, `Templar un cuarto (con algo de ruido)`],
-        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `$25.886`, `Cuarzo (radiante)`, `La zona de enfrente`, `Calor puntual barato y silencioso`],
-        [`[Estufa halógena Winco W173](https://meli.la/175r65T)`, `$32.000`, `Halógena (infrarroja)`, `A una persona, al instante`, `Calor inmediato y direccional`],
+        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `{{precio:MLA34782966}}`, `Caloventor`, `El ambiente entero, rápido`, `Templar un cuarto (con algo de ruido)`],
+        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `{{precio:MLA36753510}}`, `Cuarzo (radiante)`, `La zona de enfrente`, `Calor puntual barato y silencioso`],
+        [`[Estufa halógena Winco W173](https://meli.la/175r65T)`, `{{precio:MLA68346857}}`, `Halógena (infrarroja)`, `A una persona, al instante`, `Calor inmediato y direccional`],
       ] },
 
       { type: "h2", title: `Cómo elegir una estufa eléctrica`, id: "como-elegir" },
@@ -1683,9 +1683,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: consumo y calor`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Calienta`, `Consumo`], rows: [
-        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `$25.886`, `600 / 1200 W`, `La zona de enfrente`, `El menor (en 600 W)`],
-        [`[Estufa halógena Winco](https://meli.la/175r65T)`, `$32.000`, `Direccional`, `A una persona, al instante`, `Bajo en uso puntual`],
-        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `$49.799`, `Aire forzado`, `El ambiente entero`, `El mayor del grupo`],
+        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `{{precio:MLA36753510}}`, `600 / 1200 W`, `La zona de enfrente`, `El menor (en 600 W)`],
+        [`[Estufa halógena Winco](https://meli.la/175r65T)`, `{{precio:MLA68346857}}`, `Direccional`, `A una persona, al instante`, `Bajo en uso puntual`],
+        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `{{precio:MLA34782966}}`, `Aire forzado`, `El ambiente entero`, `El mayor del grupo`],
       ] },
 
       { type: "h2", title: `Cómo gastar menos con una estufa eléctrica`, id: "como-elegir" },
@@ -1777,10 +1777,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: los tres caloventores`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Opiniones`, `Ideal para`], rows: [
-        [`[Exahome Único](https://meli.la/2Wfvbjb)`, `$28.020`, `6.201 (4.3★)`, `El más vendido y barato, con termostato`],
-        [`[Liliana Heatcolor](https://meli.la/2vbeANw)`, `$49.799`, `1.544 (4.6★)`, `Marca de confianza, mejor rating`],
-        [`[Liliana Heatcyclone](https://meli.la/1ndjnp4)`, `$84.000`, `975 (4.3★)`, `Ambiente mediano-grande`],
-        [`[Liliana Blacksun](https://meli.la/1ssJJY9)`, `$54.699`, `433 (4.2★)`, `Ambiente chico, alternativa de marca`],
+        [`[Exahome Único](https://meli.la/2Wfvbjb)`, `{{precio:MLA19137445}}`, `6.201 (4.3★)`, `El más vendido y barato, con termostato`],
+        [`[Liliana Heatcolor](https://meli.la/2vbeANw)`, `{{precio:MLA34782966}}`, `1.544 (4.6★)`, `Marca de confianza, mejor rating`],
+        [`[Liliana Heatcyclone](https://meli.la/1ndjnp4)`, `{{precio:MLA21233017}}`, `975 (4.3★)`, `Ambiente mediano-grande`],
+        [`[Liliana Blacksun](https://meli.la/1ssJJY9)`, `{{precio:MLA19540674}}`, `433 (4.2★)`, `Ambiente chico, alternativa de marca`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu caloventor`, id: "como-elegir" },
@@ -1794,7 +1794,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta un caloventor en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**$45.000 a $55.000:** la franja de los más vendidos con marca. El [Liliana Heatcolor](https://meli.la/2vbeANw) (el más elegido) y el [Blacksun](https://meli.la/1ssJJY9).`,
-        `**Alrededor de $84.000:** más potencia para ambientes medianos, como la [Liliana Heatcyclone](https://meli.la/1ndjnp4).`,
+        `**Alrededor de {{precio:MLA21233017:k}}:** más potencia para ambientes medianos, como la [Liliana Heatcyclone](https://meli.la/1ndjnp4).`,
         `**El costo real es la luz:** un caloventor de 2000 W gasta 2 kWh por hora, del orden de $360 a $460 por hora según tu tarifa. Usado varias horas todos los días, suma fuerte a la factura. El termostato ayuda a que consuma solo lo necesario. Para calor puntual gastando menos, una estufa radiante.`,
       ] },
 
@@ -1836,7 +1836,7 @@ export const guides: Guide[] = [
     standfirst: `Todo para elegir una licuadora en Argentina sin equivocarte: primero el tipo (de vaso, de mano o portátil), después la marca y la jarra. Ranking con precios reales de MercadoLibre, tabla comparativa y cuál conviene según tu caso.`,
     quickPicks: [
       { productMlaId: "MLA17734241", label: "Mejor elección general", labelColor: "green", tagline: "Vidrio, encastre de metal y la durabilidad Oster — 4.8 estrellas en 2.365 opiniones" },
-      { productMlaId: "MLA19693634", label: "Mejor relación precio", labelColor: "blue", tagline: "Jarra de vidrio y 4.980 opiniones por ~$75.000: la value del catálogo" },
+      { productMlaId: "MLA19693634", label: "Mejor relación precio", labelColor: "blue", tagline: "Jarra de vidrio y 4.980 opiniones por ~{{precio:MLA19693634:k}}: la value del catálogo" },
       { productMlaId: "MLA50527370", label: "Más potente gama media", labelColor: "purple", tagline: "Philips de 1.000 W, jarra de 2 L y 5 velocidades" },
       { productMlaId: "MLA62801882", label: "Mejor portátil", labelColor: "amber", tagline: "Ninja Blast con batería USB para tu batido individual — 4.9 estrellas" },
     ],
@@ -1864,7 +1864,7 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"¿Es Oster, qué más se puede esperar? Es la licuadora que tenía mi mamá, que tuvo mi abuela y que ahora tengo yo."`, attribution: `Comprador verificado en MercadoLibre, agosto 2022 · 81 personas lo encontraron útil` },
 
       { type: "h3", title: `2. Atma Pro LI8450AP — mejor relación precio-calidad` },
-      { type: "product-card", productMlaId: "MLA19693634", label: "Mejor relación precio", labelColor: "blue", ranking: 2, description: `Jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~$75.000. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
+      { type: "product-card", productMlaId: "MLA19693634", label: "Mejor relación precio", labelColor: "blue", ranking: 2, description: `Jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~{{precio:MLA19693634:k}}. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
       { type: "p", content: `Si querés lo mejor por tu plata, es esta. La Atma Pro da **jarra de vidrio**, cuchilla inoxidable y cierre de seguridad por la mitad de lo que sale una Oster de vidrio, con la base de opiniones más grande de la categoría: **4.980 calificaciones**. El elogio que más se repite es que el vaso no se tiñe: "varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso".` },
       { type: "p", content: `El recorte honesto: son 500 W y 2 velocidades, así que al hielo le cuesta un poco más ("en primera velocidad quedan grumos, en segunda desaparecen"), y el encastre es de dientes de plástico, como casi todas las de este precio. Para el uso doméstico normal, rinde de sobra. Es la compra inteligente del catálogo.` },
       { type: "pull-quote", content: `"Estuve dos días comparando. Le doy full uso: varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso. La base es maciza y encastra perfecto. Excelente."`, attribution: `Compradora verificada en MercadoLibre, enero 2023 · 440 personas lo encontraron útil` },
@@ -1887,13 +1887,13 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: tipo, jarra y potencia`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Jarra / potencia`, `Para quién`], rows: [
-        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `De vaso`, `Vidrio · 700 W`, `La que dura años`],
-        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `De vaso`, `Vidrio · 500 W`, `Mejor relación precio`],
-        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `$120.839`, `De vaso`, `Plástico · 1.000 W`, `Potencia de gama media`],
-        [`[Ninja Blast](https://meli.la/1CTc5Xx)`, `$99.999`, `Portátil USB`, `530 mL · 50 W`, `Batido individual`],
-        [`[Oster Xtreme Mix](https://meli.la/1f25iob)`, `$310.799`, `De vaso premium`, `Vidrio · 1.500 W`, `Potencia máxima (con peros)`],
-        [`[Peabody PE-LMA327B](https://meli.la/2xEshc3)`, `$109.979`, `De mano (mixer)`, `Varilla inox · 800 W`, `Licuar en la olla`],
-        [`[Liliana AL310](https://meli.la/12cS1LU)`, `$58.138`, `De vaso + molinillo`, `Plástico · 600 W`, `Combo con molinillo de café`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `{{precio:MLA17734241}}`, `De vaso`, `Vidrio · 700 W`, `La que dura años`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `{{precio:MLA19693634}}`, `De vaso`, `Vidrio · 500 W`, `Mejor relación precio`],
+        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `{{precio:MLA50527370}}`, `De vaso`, `Plástico · 1.000 W`, `Potencia de gama media`],
+        [`[Ninja Blast](https://meli.la/1CTc5Xx)`, `{{precio:MLA62801882}}`, `Portátil USB`, `530 mL · 50 W`, `Batido individual`],
+        [`[Oster Xtreme Mix](https://meli.la/1f25iob)`, `{{precio:MLA59377328}}`, `De vaso premium`, `Vidrio · 1.500 W`, `Potencia máxima (con peros)`],
+        [`[Peabody PE-LMA327B](https://meli.la/2xEshc3)`, `{{precio:MLA13112158}}`, `De mano (mixer)`, `Varilla inox · 800 W`, `Licuar en la olla`],
+        [`[Liliana AL310](https://meli.la/12cS1LU)`, `{{precio:MLA20951762}}`, `De vaso + molinillo`, `Plástico · 600 W`, `Combo con molinillo de café`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu licuadora`, id: "como-elegir" },
@@ -1923,7 +1923,7 @@ export const guides: Guide[] = [
       { question: `¿Conviene una licuadora de jarra de vidrio o de plástico?`, answer: `El vidrio no toma olor ni gusto y dura más; el plástico es más liviano pero se mancha y, en las económicas, se raja. Las reviews de la [Liliana AL310](https://meli.la/12cS1LU) reportan jarras de plástico rotas al mes. Si podés, priorizá vidrio: la [Atma Pro](https://meli.la/1s19WgR) lo trae por ~$75.000 y la [Oster Classic](https://meli.la/1UhsB6r) con vidrio grueso.` },
       { question: `¿Por qué las licuadoras Oster son las más buscadas?`, answer: `Por durabilidad y herencia: la frase "es la que tenía mi mamá" se repite en las reviews. Oster usa jarra de vidrio, encastre de metal sobre ruleman y cuchilla inoxidable, con service y repuestos en Argentina. Son más caras, pero la apuesta más segura si querés que dure años. La [Oster Classic](https://meli.la/1UhsB6r) es la recomendada.` },
       { question: `¿Cuánta potencia necesita una licuadora?`, answer: `Para licuados de fruta y jugos, 500-700 W alcanzan (la [Atma Pro](https://meli.la/1s19WgR) o la [Oster Classic](https://meli.la/1UhsB6r)). Para hielo a diario, sopas y untables densos, conviene 1.000 W o más, como la [Philips Pro Blend](https://meli.la/116UsZh). La [Oster Xtreme](https://meli.la/1f25iob) llega a 1.500 W, pero solo se justifica para uso muy intensivo de congelados.` },
-      { question: `¿Cuál es la mejor licuadora barata en Argentina?`, answer: `La [Atma Pro LI8450AP](https://meli.la/1s19WgR) a ~$75.000: jarra de vidrio, cierre de seguridad y 4.7★ en 4.980 calificaciones, la base de opiniones más grande del catálogo. Da casi todo lo de una Oster de vidrio por la mitad de precio. Cuidado con las de plástico muy baratas: se manchan y la jarra se raja.` },
+      { question: `¿Cuál es la mejor licuadora barata en Argentina?`, answer: `La [Atma Pro LI8450AP](https://meli.la/1s19WgR) a ~{{precio:MLA19693634:k}}: jarra de vidrio, cierre de seguridad y 4.7★ en 4.980 calificaciones, la base de opiniones más grande del catálogo. Da casi todo lo de una Oster de vidrio por la mitad de precio. Cuidado con las de plástico muy baratas: se manchan y la jarra se raja.` },
       { question: `¿Sirve una licuadora portátil como única licuadora de la casa?`, answer: `No. La [Ninja Blast](https://meli.la/1CTc5Xx) es excelente para un batido individual (gym, oficina, viaje) y tiene el rating más alto del catálogo (4.9), pero son 50 W y 530 mL: no licúa para varios ni hace preparaciones grandes. Como única licuadora, conviene una de vaso; la portátil es el complemento perfecto.` },
     ],
     internalLinks: [
@@ -1955,7 +1955,7 @@ export const guides: Guide[] = [
     standfirst: `Una licuadora portátil resuelve un batido individual donde estés, no la cocina entera. Te mostramos cuál conviene en Argentina, qué autonomía real tiene la batería y en qué casos te conviene una de vaso, con precio fresco de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA62801882", label: "Mejor portátil", labelColor: "amber", tagline: "Ninja Blast con batería USB, 4.9 estrellas y la mejor autonomía del catálogo" },
-      { productMlaId: "MLA19693634", label: "Si querés una de vaso económica", labelColor: "blue", tagline: "Atma Pro de vidrio por ~$75.000 cuando el batido individual no te alcanza" },
+      { productMlaId: "MLA19693634", label: "Si querés una de vaso económica", labelColor: "blue", tagline: "Atma Pro de vidrio por ~{{precio:MLA19693634:k}} cuando el batido individual no te alcanza" },
       { productMlaId: "MLA17734241", label: "La de toda la casa", labelColor: "green", tagline: "Oster Classic de vidrio para licuar en serio, no solo un vaso" },
     ],
     intro: [
@@ -1980,15 +1980,15 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuándo una portátil no te alcanza (y qué comprar)`, id: "alternativas" },
       { type: "p", content: `Sé honesto con tu uso antes de comprar. Si vas a licuar para más de una persona, hacer sopas, untables, mayonesas o jugos en cantidad, una portátil te va a quedar corta: son 50 W y medio litro. Para eso necesitás una **licuadora de vaso**, y estas dos son las que mejor relación dan en el catálogo. Sumá una portátil después, como segundo aparato.` },
-      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Mejor de vaso económica", labelColor: "blue", description: `Jarra de vidrio de 1,5 L y 500 W por ~$75.000. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
+      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Mejor de vaso económica", labelColor: "blue", description: `Jarra de vidrio de 1,5 L y 500 W por ~{{precio:MLA19693634:k}}. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
       { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "La que dura años", labelColor: "green", description: `Oster Classic de vidrio grueso, encastre de metal y 4.8 estrellas en 2.365 opiniones. La compra para olvidarte por años.` },
       { type: "callout", calloutVariant: "note", calloutTitle: "¿Querés ver todas las opciones?", content: `Si todavía no tenés claro el tipo, nuestra [guía de mejores licuadoras de Argentina](/guias/licuadora) compara de vaso, de mano y portátil con precios reales y te lleva a la recomendada para tu caso.` },
 
       { type: "h2", title: `Tabla comparativa: portátil vs. de vaso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Capacidad / potencia`, `Ideal para`], rows: [
-        [`[Ninja Blast](https://meli.la/1CTc5Xx)`, `$99.999`, `Portátil USB`, `530 mL · 50 W · batería`, `Batido individual a donde vayas`],
-        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `De vaso`, `Vidrio 1,5 L · 500 W`, `Licuar para varios sin gastar de más`],
-        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `De vaso`, `Vidrio 1,25 L · 700 W`, `La licuadora que dura años`],
+        [`[Ninja Blast](https://meli.la/1CTc5Xx)`, `{{precio:MLA62801882}}`, `Portátil USB`, `530 mL · 50 W · batería`, `Batido individual a donde vayas`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `{{precio:MLA19693634}}`, `De vaso`, `Vidrio 1,5 L · 500 W`, `Licuar para varios sin gastar de más`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `{{precio:MLA17734241}}`, `De vaso`, `Vidrio 1,25 L · 700 W`, `La licuadora que dura años`],
       ] },
 
       { type: "h2", title: `Cómo elegir una licuadora portátil`, id: "como-elegir" },
@@ -2001,9 +2001,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una licuadora portátil en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $100.000:** la franja de la portátil que vale la pena. Acá está la [Ninja Blast](https://meli.la/1CTc5Xx), con batería que rinde varios licuados, vaso apto lavavajillas y el rating más alto del catálogo.`,
+        `**Alrededor de {{precio:MLA62801882:k}}:** la franja de la portátil que vale la pena. Acá está la [Ninja Blast](https://meli.la/1CTc5Xx), con batería que rinde varios licuados, vaso apto lavavajillas y el rating más alto del catálogo.`,
         `**Por debajo de $50.000:** aparecen portátiles muy baratas de marcas sin trayectoria. El riesgo es batería que rinde un solo licuado, cuchilla que se traba y plástico que toma olor. Suelen salir más caras a la larga.`,
-        `**¿Tu presupuesto es para una sola licuadora?** Entonces conviene una de vaso como la [Atma Pro](https://meli.la/1s19WgR) (~$75.000, vidrio): resuelve mucho más que un batido individual. La portátil es el segundo aparato, no el primero.`,
+        `**¿Tu presupuesto es para una sola licuadora?** Entonces conviene una de vaso como la [Atma Pro](https://meli.la/1s19WgR) (~{{precio:MLA19693634:k}}, vidrio): resuelve mucho más que un batido individual. La portátil es el segundo aparato, no el primero.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál licuadora portátil comprar`, id: "veredicto" },
@@ -2074,9 +2074,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: Classic vs. Xtreme`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Jarra`, `Ideal para`], rows: [
-        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `700 W`, `Vidrio 1,25 L`, `La que dura años, para la mayoría`],
-        [`[Oster Xtreme Mix](https://meli.la/1f25iob)`, `$310.799`, `1.500 W`, `Vidrio 2 L`, `Máxima potencia diaria (con peros)`],
-        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `500 W`, `Vidrio 1,5 L`, `Alternativa de vidrio más barata`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `{{precio:MLA17734241}}`, `700 W`, `Vidrio 1,25 L`, `La que dura años, para la mayoría`],
+        [`[Oster Xtreme Mix](https://meli.la/1f25iob)`, `{{precio:MLA59377328}}`, `1.500 W`, `Vidrio 2 L`, `Máxima potencia diaria (con peros)`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `{{precio:MLA19693634}}`, `500 W`, `Vidrio 1,5 L`, `Alternativa de vidrio más barata`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu licuadora Oster`, id: "como-elegir" },
@@ -2091,7 +2091,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**Alrededor de $148.000:** la [Oster Classic](https://meli.la/1UhsB6r) de vidrio, la gama media-alta que recomendamos para la mayoría. Durabilidad sin sobreprecio.`,
         `**$300.000 o más:** la [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W, premium. Solo si la potencia máxima es prioridad y aceptás los contras reportados.`,
-        `**Si buscás vidrio más barato:** la [Atma Pro](https://meli.la/1s19WgR) a ~$75.000 da jarra de vidrio y 4.980 opiniones por la mitad de lo que sale una Oster de vidrio.`,
+        `**Si buscás vidrio más barato:** la [Atma Pro](https://meli.la/1s19WgR) a ~{{precio:MLA19693634:k}} da jarra de vidrio y 4.980 opiniones por la mitad de lo que sale una Oster de vidrio.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál Oster comprar`, id: "veredicto" },
@@ -2130,7 +2130,7 @@ export const guides: Guide[] = [
     quickPicks: [
       { productMlaId: "MLA50527370", label: "La Philips recomendada", labelColor: "purple", tagline: "Pro Blend de 1.000 W y jarra de 2 L, la más potente de gama media" },
       { productMlaId: "MLA17734241", label: "Si priorizás durabilidad", labelColor: "green", tagline: "Oster Classic de vidrio y encastre de metal, para que dure años" },
-      { productMlaId: "MLA19693634", label: "Si priorizás el precio", labelColor: "blue", tagline: "Atma Pro de vidrio por ~$75.000, la mejor relación precio del catálogo" },
+      { productMlaId: "MLA19693634", label: "Si priorizás el precio", labelColor: "blue", tagline: "Atma Pro de vidrio por ~{{precio:MLA19693634:k}}, la mejor relación precio del catálogo" },
     ],
     intro: [
       `Buscar **licuadora Philips** en Argentina suele significar una cosa: querés potencia de marca confiable sin pagar lo que sale una premium. Y la elección es bastante clara, porque el modelo que importa hoy en MercadoLibre es la **Pro Blend HR2260/90**, una licuadora de 1.000 W con la jarra más grande de su rango.`,
@@ -2151,13 +2151,13 @@ export const guides: Guide[] = [
       { type: "h2", title: `Philips, Oster o Atma: cuál te conviene`, id: "comparativa" },
       { type: "p", content: `La Philips no juega sola. Según qué priorices, otra marca puede convenirte más, y conviene tenerlo claro antes de comprar. Estas son las tres que mejor relación dan hoy, cada una fuerte en algo distinto: la Philips en potencia, la Oster en durabilidad y la Atma en precio.` },
       { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "Si priorizás durabilidad", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal. 4.8 estrellas en 2.365 opiniones: la que dura años.` },
-      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Si priorizás el precio", labelColor: "blue", description: `Atma Pro de vidrio por ~$75.000 y 4.980 calificaciones: la mejor relación precio del catálogo.` },
+      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "Si priorizás el precio", labelColor: "blue", description: `Atma Pro de vidrio por ~{{precio:MLA19693634:k}} y 4.980 calificaciones: la mejor relación precio del catálogo.` },
 
       { type: "h2", title: `Tabla comparativa: Philips frente a sus rivales`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Jarra`, `Ideal para`], rows: [
-        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `$120.839`, `1.000 W`, `Plástico 2 L`, `Potencia y capacidad de gama media`],
-        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `700 W`, `Vidrio 1,25 L`, `Durabilidad para años`],
-        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `500 W`, `Vidrio 1,5 L`, `Mejor relación precio`],
+        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `{{precio:MLA50527370}}`, `1.000 W`, `Plástico 2 L`, `Potencia y capacidad de gama media`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `{{precio:MLA17734241}}`, `700 W`, `Vidrio 1,25 L`, `Durabilidad para años`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `{{precio:MLA19693634}}`, `500 W`, `Vidrio 1,5 L`, `Mejor relación precio`],
       ] },
 
       { type: "h2", title: `Cómo elegir una licuadora Philips`, id: "como-elegir" },
@@ -2171,7 +2171,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta una licuadora Philips en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de $120.000:** la [Philips Pro Blend HR2260/90](https://meli.la/116UsZh) de 1.000 W, gama media-alta. Da casi todo lo de una premium por mucho menos.`,
-        `**Si querés gastar menos con vidrio:** la [Atma Pro](https://meli.la/1s19WgR) a ~$75.000, menos potencia pero jarra de vidrio y la mayor base de opiniones.`,
+        `**Si querés gastar menos con vidrio:** la [Atma Pro](https://meli.la/1s19WgR) a ~{{precio:MLA19693634:k}}, menos potencia pero jarra de vidrio y la mayor base de opiniones.`,
         `**Si priorizás durabilidad:** la [Oster Classic](https://meli.la/1UhsB6r) (~$148.000), encastre de metal y vidrio para que dure años.`,
       ] },
 
@@ -2210,7 +2210,7 @@ export const guides: Guide[] = [
     standfirst: `La licuadora de mano (o minipimer) licúa directo en la olla: ideal para sopas, purés, cremas y mayonesas. Te mostramos cuál conviene en Argentina, qué trae en la caja y cuándo te alcanza esta y cuándo necesitás una de vaso.`,
     quickPicks: [
       { productMlaId: "MLA13112158", label: "La de mano recomendada", labelColor: "green", tagline: "Peabody de 800 W con 5 accesorios y 4.6 estrellas en 6.868 opiniones" },
-      { productMlaId: "MLA19693634", label: "Si querés una de vaso", labelColor: "blue", tagline: "Atma Pro de vidrio por ~$75.000 para licuados y jugos en jarra" },
+      { productMlaId: "MLA19693634", label: "Si querés una de vaso", labelColor: "blue", tagline: "Atma Pro de vidrio por ~{{precio:MLA19693634:k}} para licuados y jugos en jarra" },
       { productMlaId: "MLA17734241", label: "La de vaso que dura", labelColor: "green", tagline: "Oster Classic de vidrio y metal, la licuadora principal de la casa" },
     ],
     intro: [
@@ -2235,14 +2235,14 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `¿Y si también querés licuados? Sumá una de vaso`, id: "alternativas" },
       { type: "p", content: `La de mano es media cocina, pero le falta la otra media: licuados de fruta, jugos y batidos en jarra para varios. Si querés cubrir todo, lo ideal es una de mano más una de vaso. Estas son las dos de vaso que mejor relación dan en el catálogo, según presupuesto.` },
-      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "De vaso económica", labelColor: "blue", description: `Atma Pro de vidrio de 1,5 L por ~$75.000 y 4.980 opiniones: la mejor relación precio para licuados y jugos.` },
+      { type: "product-card", productMlaId: "MLA19693634", variant: "compact", label: "De vaso económica", labelColor: "blue", description: `Atma Pro de vidrio de 1,5 L por ~{{precio:MLA19693634:k}} y 4.980 opiniones: la mejor relación precio para licuados y jugos.` },
       { type: "product-card", productMlaId: "MLA17734241", variant: "compact", label: "De vaso que dura", labelColor: "green", description: `Oster Classic de vidrio grueso y encastre de metal, 4.8 estrellas en 2.365 opiniones: la que dura años.` },
 
       { type: "h2", title: `Tabla comparativa: de mano y de vaso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Potencia`, `Ideal para`], rows: [
-        [`[Peabody PE-LMA327B](https://meli.la/2xEshc3)`, `$109.979`, `De mano`, `800 W`, `Sopas, purés, cremas y mayonesas en la olla`],
-        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `De vaso`, `500 W`, `Licuados y jugos económicos`],
-        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `De vaso`, `700 W`, `La licuadora de la casa para años`],
+        [`[Peabody PE-LMA327B](https://meli.la/2xEshc3)`, `{{precio:MLA13112158}}`, `De mano`, `800 W`, `Sopas, purés, cremas y mayonesas en la olla`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `{{precio:MLA19693634}}`, `De vaso`, `500 W`, `Licuados y jugos económicos`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `{{precio:MLA17734241}}`, `De vaso`, `700 W`, `La licuadora de la casa para años`],
       ] },
 
       { type: "h2", title: `Cómo elegir una licuadora de mano`, id: "como-elegir" },
@@ -2255,9 +2255,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una licuadora de mano en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $110.000:** la [Peabody PE-LMA327B](https://meli.la/2xEshc3) de 800 W con set completo de accesorios. La opción con mejor respaldo de opiniones.`,
+        `**Alrededor de {{precio:MLA13112158:k}}:** la [Peabody PE-LMA327B](https://meli.la/2xEshc3) de 800 W con set completo de accesorios. La opción con mejor respaldo de opiniones.`,
         `**Por debajo de $60.000:** aparecen minipimer básicas de menor potencia y sin accesorios. Sirven para un puré ocasional, pero rinden menos en uso frecuente.`,
-        `**¿Querés cubrir también licuados?** Sumá una de vaso económica como la [Atma Pro](https://meli.la/1s19WgR) (~$75.000, vidrio). Entre las dos cubrís toda la cocina.`,
+        `**¿Querés cubrir también licuados?** Sumá una de vaso económica como la [Atma Pro](https://meli.la/1s19WgR) (~{{precio:MLA19693634:k}}, vidrio). Entre las dos cubrís toda la cocina.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál licuadora de mano comprar`, id: "veredicto" },
@@ -2294,7 +2294,7 @@ export const guides: Guide[] = [
     readingTime: 8,
     standfirst: `La licuadora Atma Pro es la mejor relación precio del catálogo: jarra de vidrio y la base de opiniones más grande, por la mitad de lo que sale una Oster de vidrio. Vemos qué hace bien, dónde está su límite honesto y cuándo conviene gastar un poco más.`,
     quickPicks: [
-      { productMlaId: "MLA19693634", label: "La Atma recomendada", labelColor: "blue", tagline: "Atma Pro de vidrio, cierre de seguridad y 4.980 calificaciones por ~$75.000" },
+      { productMlaId: "MLA19693634", label: "La Atma recomendada", labelColor: "blue", tagline: "Atma Pro de vidrio, cierre de seguridad y 4.980 calificaciones por ~{{precio:MLA19693634:k}}" },
       { productMlaId: "MLA17734241", label: "Si querés que dure más", labelColor: "green", tagline: "Oster Classic de vidrio y encastre de metal, la que dura años" },
       { productMlaId: "MLA50527370", label: "Si querés más potencia", labelColor: "purple", tagline: "Philips Pro Blend de 1.000 W y jarra de 2 L para uso exigente" },
     ],
@@ -2308,7 +2308,7 @@ export const guides: Guide[] = [
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos la licuadora Atma disponible hoy en MercadoLibre Argentina y la cruzamos con lo que dicen los compradores reales y con las marcas que compiten en su precio. Miramos lo que define el uso: el **material de la jarra** (Atma mantiene vidrio en su precio), la **potencia**, los **detalles de seguridad** y las calificaciones públicas, que en este modelo son una muestra enorme. Los precios son de junio 2026 y los revisamos periódicamente.` },
 
       { type: "h2", title: `La mejor licuadora Atma: Pro LI8450AP`, id: "ranking" },
-      { type: "product-card", productMlaId: "MLA19693634", label: "La Atma recomendada", labelColor: "blue", ranking: 1, description: `Jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~$75.000. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
+      { type: "product-card", productMlaId: "MLA19693634", label: "La Atma recomendada", labelColor: "blue", ranking: 1, description: `Jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~{{precio:MLA19693634:k}}. 4.7 estrellas en 4.980 calificaciones: la base de opiniones más grande del catálogo.` },
       { type: "p", content: `Si querés lo mejor por tu plata, es esta. La Atma Pro da **jarra de vidrio**, cuchilla inoxidable y cierre de seguridad por la mitad de lo que sale una Oster de vidrio, con la base de opiniones más grande de la categoría: **4.980 calificaciones**. El elogio que más se repite es que el vaso no se tiñe: "varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso", dice la review más votada.` },
       { type: "p", content: `Suma una **base maciza** que "encastra a la perfección" y un sistema de seguridad de encendido: si la jarra no está bien puesta, no arranca. El recorte honesto a este precio: son **500 W y 2 velocidades**, así que al hielo le cuesta un poco más ("en primera velocidad quedan grumos, en segunda desaparecen"), y el encastre es de dientes de plástico, como casi todas las de su rango. Para el uso doméstico normal, rinde de sobra. Es la compra inteligente del catálogo.` },
       { type: "pull-quote", content: `"Estuve dos días comparando. Le doy full uso: varios batidos al día, preparaciones densas con pulpa de tomate, y lo mejor, no se tiñe el vaso. La base es maciza y encastra perfecto. Excelente."`, attribution: `Compradora verificada en MercadoLibre, enero 2023 · 440 personas lo encontraron útil` },
@@ -2320,9 +2320,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: Atma frente a sus alternativas`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Jarra`, `Ideal para`], rows: [
-        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `$74.999`, `500 W`, `Vidrio 1,5 L`, `La mejor relación precio`],
-        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `$148.513`, `700 W`, `Vidrio 1,25 L`, `Máxima durabilidad para años`],
-        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `$120.839`, `1.000 W`, `Plástico 2 L`, `Más potencia para uso exigente`],
+        [`[Atma Pro LI8450AP](https://meli.la/1s19WgR)`, `{{precio:MLA19693634}}`, `500 W`, `Vidrio 1,5 L`, `La mejor relación precio`],
+        [`[Oster Classic BLST4655](https://meli.la/1UhsB6r)`, `{{precio:MLA17734241}}`, `700 W`, `Vidrio 1,25 L`, `Máxima durabilidad para años`],
+        [`[Philips Pro Blend HR2260/90](https://meli.la/116UsZh)`, `{{precio:MLA50527370}}`, `1.000 W`, `Plástico 2 L`, `Más potencia para uso exigente`],
       ] },
 
       { type: "h2", title: `Cómo elegir una licuadora Atma`, id: "como-elegir" },
@@ -2335,7 +2335,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una licuadora Atma en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $75.000:** la [Atma Pro LI8450AP](https://meli.la/1s19WgR) de vidrio, la mejor relación precio del catálogo. Es la franja del mejor valor.`,
+        `**Alrededor de {{precio:MLA19693634:k}}:** la [Atma Pro LI8450AP](https://meli.la/1s19WgR) de vidrio, la mejor relación precio del catálogo. Es la franja del mejor valor.`,
         `**Alrededor de $120.000:** si querés más potencia, la [Philips Pro Blend](https://meli.la/116UsZh) de 1.000 W con jarra grande.`,
         `**Alrededor de $148.000:** si querés máxima durabilidad, la [Oster Classic](https://meli.la/1UhsB6r) de vidrio y encastre de metal para años.`,
       ] },
@@ -2344,8 +2344,8 @@ export const guides: Guide[] = [
       { type: "verdict", content: `La **Atma Pro LI8450AP** es la compra inteligente del catálogo: jarra de vidrio, cierre de seguridad y base maciza por ~$75.000, con la mayor base de opiniones de todas las licuadoras (4.980 calificaciones, 4.7 estrellas). Da casi todo lo de una Oster de vidrio por la mitad de precio. Su límite honesto son los 500 W: para hielo intensivo o uso exigente, la [Philips](/guias/licuadora-philips) de 1.000 W rinde mejor; y si querés máxima durabilidad para años, la [Oster Classic](/guias/licuadora-oster) con encastre de metal. Para el uso doméstico normal y el mejor precio con vidrio, la Atma es la elección sensata.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor licuadora Atma en Argentina?`, answer: `La [Atma Pro LI8450AP](https://meli.la/1s19WgR): jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~$75.000, con 4.7 estrellas en 4.980 calificaciones, la base de opiniones más grande del catálogo. Es la mejor relación precio para uso doméstico.` },
-      { question: `¿La licuadora Atma Pro tiene jarra de vidrio?`, answer: `Sí, y es su mayor virtud a ese precio. La [Atma Pro](https://meli.la/1s19WgR) trae jarra de vidrio de 1,5 litros, que no toma olor ni gusto y dura más que el plástico. A ~$75.000, casi ninguna competidora de su rango ofrece vidrio: por eso es la compra inteligente del catálogo.` },
+      { question: `¿Cuál es la mejor licuadora Atma en Argentina?`, answer: `La [Atma Pro LI8450AP](https://meli.la/1s19WgR): jarra de vidrio de 1,5 L, cuchilla inoxidable y cierre de seguridad por ~{{precio:MLA19693634:k}}, con 4.7 estrellas en 4.980 calificaciones, la base de opiniones más grande del catálogo. Es la mejor relación precio para uso doméstico.` },
+      { question: `¿La licuadora Atma Pro tiene jarra de vidrio?`, answer: `Sí, y es su mayor virtud a ese precio. La [Atma Pro](https://meli.la/1s19WgR) trae jarra de vidrio de 1,5 litros, que no toma olor ni gusto y dura más que el plástico. A ~{{precio:MLA19693634:k}}, casi ninguna competidora de su rango ofrece vidrio: por eso es la compra inteligente del catálogo.` },
       { question: `¿La licuadora Atma sirve para hielo?`, answer: `Sí, pero con un matiz honesto. Sus 500 W pican hielo usando la segunda velocidad; en primera pueden quedar algunos grumos, como cuentan las reviews. Para uso normal alcanza bien. Si hacés mucho hielo o frapés a diario, una de 1.000 W como la [Philips Pro Blend](/guias/licuadora-philips) rinde mejor.` },
       { question: `¿Qué licuadora es mejor, Atma u Oster?`, answer: `Depende del presupuesto. La [Atma Pro](https://meli.la/1s19WgR) ofrece jarra de vidrio y la mayor base de opiniones por la mitad de precio. La [Oster Classic](/guias/licuadora-oster) es más duradera (encastre de metal en vez de plástico) pero cuesta el doble. Si el presupuesto manda, la Atma es la compra inteligente; si querés que dure décadas, la Oster.` },
       { question: `¿Cuántas velocidades tiene la licuadora Atma Pro?`, answer: `Tiene 2 velocidades más función pulsar. Es menos que las 5 velocidades de una [Philips](/guias/licuadora-philips), pero para el uso doméstico (licuados, jugos, untables) las dos velocidades más el pulso alcanzan bien. La segunda velocidad es la que conviene para el hielo y las preparaciones más densas.` },
@@ -2380,8 +2380,8 @@ export const guides: Guide[] = [
     quickPicks: [
       { productMlaId: "MLA8933826", label: "Mejor elección general", labelColor: "green", tagline: "Función mate y la más probada del país: 5.454 calificaciones" },
       { productMlaId: "MLA47275624", label: "Mejor para mate", labelColor: "blue", tagline: "Temperatura exacta para no quemar la yerba — 4.9 estrellas" },
-      { productMlaId: "MLA14263533", label: "Mejor acero calidad-precio", labelColor: "purple", tagline: "Interior de acero y 4 niveles por menos de $56.000" },
-      { productMlaId: "MLA61505857", label: "Más económica", labelColor: "amber", tagline: "Pava de acero con selector mate a $29.999" },
+      { productMlaId: "MLA14263533", label: "Mejor acero calidad-precio", labelColor: "purple", tagline: "Interior de acero y 4 niveles por menos de {{precio:MLA14263533:k}}" },
+      { productMlaId: "MLA61505857", label: "Más económica", labelColor: "amber", tagline: "Pava de acero con selector mate a {{precio:MLA61505857}}" },
     ],
     intro: [
       `La **pava eléctrica** es uno de esos electrodomésticos que parecen todos iguales hasta que comprás el equivocado: agua con gusto a plástico, que tarda una eternidad, o que para el mate te hierve la yerba. En Argentina, donde la pava se usa para el mate tanto como para el té o el café, elegir bien tiene un detalle que en otros países no importa: la temperatura.`,
@@ -2418,7 +2418,7 @@ export const guides: Guide[] = [
       { type: "p", content: `El recorte: los niveles son fijos (no continua como la Digital) y no mantiene el calor tanto rato. Para acero + control de temperatura al mejor precio, es difícil de superar. El ranking completo de acero está en la [guía de pavas de acero inoxidable](/guias/pava-electrica-acero-inoxidable).` },
 
       { type: "h3", title: `4. Liliana AP152 — la de acero más económica` },
-      { type: "product-card", productMlaId: "MLA61505857", label: "Más económica", labelColor: "amber", ranking: 4, description: `Acero inoxidable, selector mate, base giratoria 360° y filtro removible. 4.7 estrellas a $29.999.` },
+      { type: "product-card", productMlaId: "MLA61505857", label: "Más económica", labelColor: "amber", ranking: 4, description: `Acero inoxidable, selector mate, base giratoria 360° y filtro removible. 4.7 estrellas a {{precio:MLA61505857}}.` },
       { type: "p", content: `La puerta de entrada sin resignar lo importante: a **$29.999** es la pava de acero más barata del catálogo, y encima trae selector mate y base giratoria. 4.7 estrellas en 529 calificaciones. Si tenés presupuesto ajustado pero no querés una pava de plástico que dé gusto raro, esta es la compra inteligente.` },
       { type: "p", content: `Lo que resignás contra las de arriba: el "mate" es un punto fijo, no niveles, y la terminación es más simple. Pero hierve bien, es de acero y cuesta la mitad que una premium. Para una primera pava o un segundo ambiente, sobra.` },
 
@@ -2435,13 +2435,13 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: precio, temperatura y material`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Temperatura / mate`, `Material`, `Para quién`], rows: [
-        [`[Liliana Mateando AP975B](https://meli.la/2qM28cx)`, `$45.900`, `Función mate (preset)`, `Plástico`, `La mejor para casi todos`],
-        [`[Peabody Digital 40-100°](https://meli.la/2cyQgD2)`, `$69.433`, `Continua 40-100° + mantiene`, `Acero`, `El mejor mate`],
-        [`[Peabody PE-DK1850](https://meli.la/2T7Y1zd)`, `$55.999`, `4 niveles`, `Acero`, `Acero al mejor precio`],
-        [`[Liliana AP152](https://meli.la/1QMfKob)`, `$29.999`, `Selector mate (fijo)`, `Acero`, `La más económica de acero`],
-        [`[Philips HD9396](https://meli.la/1nfm8ft)`, `$90.766`, `6 temperaturas + doble pared`, `Acero SUS304`, `Premium sin compromisos`],
-        [`[Oster control temp.](https://meli.la/1JfvkMc)`, `$70.200`, `Control de temperatura + mate`, `Acero`, `Quien prioriza marca/service`],
-        [`[Philips HD9350](https://meli.la/2kpg1Zr)`, `$59.602`, `Solo hierve`, `Acero SUS304`, `Acero Philips sin temperatura`],
+        [`[Liliana Mateando AP975B](https://meli.la/2qM28cx)`, `{{precio:MLA8933826}}`, `Función mate (preset)`, `Plástico`, `La mejor para casi todos`],
+        [`[Peabody Digital 40-100°](https://meli.la/2cyQgD2)`, `{{precio:MLA47275624}}`, `Continua 40-100° + mantiene`, `Acero`, `El mejor mate`],
+        [`[Peabody PE-DK1850](https://meli.la/2T7Y1zd)`, `{{precio:MLA14263533}}`, `4 niveles`, `Acero`, `Acero al mejor precio`],
+        [`[Liliana AP152](https://meli.la/1QMfKob)`, `{{precio:MLA61505857}}`, `Selector mate (fijo)`, `Acero`, `La más económica de acero`],
+        [`[Philips HD9396](https://meli.la/1nfm8ft)`, `{{precio:MLA47183370}}`, `6 temperaturas + doble pared`, `Acero SUS304`, `Premium sin compromisos`],
+        [`[Oster control temp.](https://meli.la/1JfvkMc)`, `{{precio:MLA11145436}}`, `Control de temperatura + mate`, `Acero`, `Quien prioriza marca/service`],
+        [`[Philips HD9350](https://meli.la/2kpg1Zr)`, `{{precio:MLA24601443}}`, `Solo hierve`, `Acero SUS304`, `Acero Philips sin temperatura`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu pava eléctrica`, id: "como-elegir" },
@@ -2467,7 +2467,7 @@ export const guides: Guide[] = [
     faq: [
       { question: `¿Qué pava eléctrica es mejor para el mate?`, answer: `La que te deja controlar la temperatura, porque el mate se ceba a 70-80°C y no a 100° (a esa temperatura "quema" la yerba). Nuestra favorita es la [Peabody Digital 40-100°](https://meli.la/2cyQgD2), que fija el grado exacto y lo mantiene. Si querés gastar menos, la [Liliana Mateando](https://meli.la/2qM28cx) trae función mate por preset a $45.900.` },
       { question: `¿Cuál es la mejor pava eléctrica calidad-precio en Argentina?`, answer: `Por datos, la [Liliana Mateando AP975B](https://meli.la/2qM28cx): $45.900, función mate y 4.6 estrellas en 5.454 calificaciones, la base de opiniones más grande de la categoría. Si priorizás interior de acero, la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) a $55.999 es el mejor salto.` },
-      { question: `¿Conviene una pava de acero o de plástico?`, answer: `El acero no le pasa gusto al agua y dura más; el plástico económico puede dar olor los primeros usos. Si sos sensible al sabor o la querés por años, acero. La [Liliana AP152](https://meli.la/1QMfKob) es de acero y cuesta $29.999, así que ni siquiera tenés que pagar de más por tenerlo.` },
+      { question: `¿Conviene una pava de acero o de plástico?`, answer: `El acero no le pasa gusto al agua y dura más; el plástico económico puede dar olor los primeros usos. Si sos sensible al sabor o la querés por años, acero. La [Liliana AP152](https://meli.la/1QMfKob) es de acero y cuesta {{precio:MLA61505857}}, así que ni siquiera tenés que pagar de más por tenerlo.` },
       { question: `¿Para qué sirve el control de temperatura en una pava?`, answer: `Para no usar siempre agua a 100°. El té verde se arruina con agua hirviendo, el mate se ceba a 70-80°, el café de filtro va a ~92°. Una pava con temperatura te deja elegir el punto justo de cada bebida. El detalle de cómo funcionan está en la [guía de pavas con control de temperatura](/guias/pava-electrica-control-temperatura).` },
       { question: `¿Cuánto cuesta una pava eléctrica buena en Argentina en 2026?`, answer: `Una pava de acero con función mate arranca en $29.999 (Liliana AP152). El rango que mejor funciona está entre $45.000 y $70.000, donde entran la Liliana Mateando, la Peabody de acero y la Peabody Digital. Las premium con doble pared llegan a $90.000.` },
       { question: `¿Qué capacidad de pava eléctrica conviene?`, answer: `1.7 litros es el estándar y llena dos termos de mate de una. Si vivís solo o tenés poco espacio, una de 1 a 1.5L alcanza — ver la [guía de pavas pequeñas](/guias/pava-electrica-pequena).` },
@@ -4031,7 +4031,7 @@ export const guides: Guide[] = [
       {
         question: "¿Valen la pena las de menos de $25.000?",
         answer:
-          "Solo si realmente no tenés más presupuesto. La opción más accesible del catálogo con acero es la [Liliana AP152](https://meli.la/1QMfKob) a $29.999. Por debajo de eso son todas de plástico y el agua toma sabor después de 1 año.",
+          "Solo si realmente no tenés más presupuesto. La opción más accesible del catálogo con acero es la [Liliana AP152](https://meli.la/1QMfKob) a {{precio:MLA61505857}}. Por debajo de eso son todas de plástico y el agua toma sabor después de 1 año.",
       },
       {
         question: "¿Por qué Philips cuesta el doble que Atma?",
@@ -4056,9 +4056,9 @@ export const guides: Guide[] = [
       { label: "Ver Philips HD9396 (premium)", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital (control temp)", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
-      { label: "Ver Peabody PE-DK1850 acero (\$55.999)", href: "https://meli.la/2T7Y1zd" },
-      { label: "Ver Liliana Mateando (\$45.900 mejor compra)", href: "https://meli.la/2qM28cx" },
-      { label: "Ver Liliana AP152 (\$29.999 más barata)", href: "https://meli.la/1QMfKob" },
+      { label: "Ver Peabody PE-DK1850 acero (\{{precio:MLA14263533}})", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Liliana Mateando (\{{precio:MLA8933826}} mejor compra)", href: "https://meli.la/2qM28cx" },
+      { label: "Ver Liliana AP152 (\{{precio:MLA61505857}} más barata)", href: "https://meli.la/1QMfKob" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
@@ -4457,7 +4457,7 @@ export const guides: Guide[] = [
       {
         question: "¿Se puede usar para mate?",
         answer:
-          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1TBSj3K) por $42.000.",
+          "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1TBSj3K) por {{precio:MLA49747515:k}}.",
       },
       {
         question: "¿Vale la pena el modelo vintage PEKV8215?",
@@ -5285,9 +5285,9 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **$54.805** (la más sólida, a batería)",
-          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **$45.579** (con calor, a cable)",
-          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (alternativa para el cuello)",
+          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **{{precio:MLA37908577}}** (la más sólida, a batería)",
+          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (con calor, a cable)",
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (alternativa para el cuello)",
         ],
       },
       {
@@ -5421,9 +5421,9 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (cuello y trapecios, el más vendido)",
-          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **$99.999** (cobertura amplia, auto y casa)",
-          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **$305.710** (shiatsu completo con calor y compresión)",
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (cuello y trapecios, el más vendido)",
+          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (cobertura amplia, auto y casa)",
+          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu completo con calor y compresión)",
         ],
       },
       {
@@ -5568,13 +5568,13 @@ export const guides: Guide[] = [
         type: "list",
         items: [
           "[Masajeador facial rodillo de jade](https://meli.la/1rDGvYf) — **$5.399** (el más barato, cuidado de piel)",
-          "[Energy Beauty Bar facial](https://meli.la/13fYLhg) — **$18.399** (facial con vibración)",
-          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (cuello, el más vendido)",
-          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **$45.579** (percutor con calor)",
-          "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **$47.999** (pies con calor y compresión)",
-          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **$54.805** (contracturas, deporte)",
-          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **$99.999** (espalda completa)",
-          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **$305.710** (shiatsu premium)",
+          "[Energy Beauty Bar facial](https://meli.la/13fYLhg) — **{{precio:MLA1841302022}}** (facial con vibración)",
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (cuello, el más vendido)",
+          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (percutor con calor)",
+          "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **{{precio:MLA23131501}}** (pies con calor y compresión)",
+          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **{{precio:MLA37908577}}** (contracturas, deporte)",
+          "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (espalda completa)",
+          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu premium)",
         ],
       },
       {
@@ -5716,12 +5716,12 @@ export const guides: Guide[] = [
         type: "list",
         items: [
           "[Masajeador facial rodillo de jade](https://meli.la/1rDGvYf) — **$5.399** (cuidado de piel, el más barato)",
-          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **$32.999** (cuello, el más vendido)",
-          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **$45.579** (percutor de mano con calor)",
-          "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **$47.999** (pies, con calor y compresión)",
-          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **$54.805** (contracturas y deporte)",
-          "[Electroland MA68 asiento](https://meli.la/1ZW9A5Y) — **$99.999** (espalda completa, vibración)",
-          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **$305.710** (shiatsu premium con calor)",
+          "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (cuello, el más vendido)",
+          "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (percutor de mano con calor)",
+          "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **{{precio:MLA23131501}}** (pies, con calor y compresión)",
+          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **{{precio:MLA37908577}}** (contracturas y deporte)",
+          "[Electroland MA68 asiento](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (espalda completa, vibración)",
+          "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu premium con calor)",
         ],
       },
       {
@@ -5827,10 +5827,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: tipo, precio y para quién`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Rating`, `Ideal para`], rows: [
-        [`[Gadnic Titanium L Shape](https://meli.la/1YNrY5P)`, `$1.276.153`, `Cuerpo completo`, `4.7 (155)`, `La experiencia robótica completa`],
-        [`[Majestic Excalibur](https://meli.la/2Vzmd15)`, `$995.000`, `Reclinable manual`, `4.9 (33)`, `Reclinar y relajar sin gastar de más`],
-        [`[Melfit Maui](https://meli.la/1JfTxZv)`, `$1.313.137`, `Premium con rodillos`, `4.8 (30)`, `Alternativa premium a la Gadnic`],
-        [`[Nictom Ejecutivo](https://meli.la/2qYKbAj)`, `$199.999`, `Silla de oficina`, `4.6 (243)`, `Masaje en el escritorio, lo más barato`],
+        [`[Gadnic Titanium L Shape](https://meli.la/1YNrY5P)`, `{{precio:MLA32066541}}`, `Cuerpo completo`, `4.7 (155)`, `La experiencia robótica completa`],
+        [`[Majestic Excalibur](https://meli.la/2Vzmd15)`, `{{precio:MLA67779238}}`, `Reclinable manual`, `4.9 (33)`, `Reclinar y relajar sin gastar de más`],
+        [`[Melfit Maui](https://meli.la/1JfTxZv)`, `{{precio:MLA44945188}}`, `Premium con rodillos`, `4.8 (30)`, `Alternativa premium a la Gadnic`],
+        [`[Nictom Ejecutivo](https://meli.la/2qYKbAj)`, `{{precio:MLA60221167}}`, `Silla de oficina`, `4.6 (243)`, `Masaje en el escritorio, lo más barato`],
       ] },
 
       { type: "h2", title: `Cómo elegir un sillón masajeador`, id: "como-elegir" },
@@ -5843,7 +5843,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un sillón masajeador en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $200.000:** la entrada. La [Nictom](https://meli.la/2qYKbAj), silla de oficina con masaje por vibración. Lo más barato para sumar masaje, sin ser un sillón para relajarse tirado.`,
+        `**Alrededor de {{precio:MLA60221167:k}}:** la entrada. La [Nictom](https://meli.la/2qYKbAj), silla de oficina con masaje por vibración. Lo más barato para sumar masaje, sin ser un sillón para relajarse tirado.`,
         `**$900.000 a $1.000.000:** reclinables. La [Majestic Excalibur](https://meli.la/2Vzmd15) manual, para reclinar y relajar con masaje por vibración sin pagar la gama robótica.`,
         `**$1.250.000 o más:** cuerpo completo robótico. La [Gadnic Titanium](https://meli.la/1YNrY5P) (riel en L, airbags, gravedad cero) y la [Melfit Maui](https://meli.la/1JfTxZv) (rodillos, calor). La experiencia completa.`,
         `**Si buscás solo aliviar una zona:** quizás no necesitás un sillón. Un [masajeador de espalda](/guias/masajeador-espalda) o un asiento masajeador cuestan mucho menos y resuelven el dolor puntual.`,
@@ -5883,7 +5883,7 @@ export const guides: Guide[] = [
     readingTime: 10,
     standfirst: `Gadnic es la marca de masajeadores más buscada en Mercado Libre Argentina. Su catálogo va del cervical de $50.999 con casi 10.000 reseñas hasta el asiento y la pistola. Acá te ordenamos cuál es cuál, qué hace bien cada uno y para quién conviene.`,
     quickPicks: [
-      { productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", tagline: "El cervical Cedro: 9.455 reseñas a 4.8 por $50.999" },
+      { productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", tagline: "El cervical Cedro: 9.455 reseñas a 4.8 por {{precio:MLA18961711}}" },
       { productMlaId: "MLA22138401", label: "Para contracturas", labelColor: "amber", tagline: "La pistola Gunax recargable con 4 cabezales" },
       { productMlaId: "MLA19043353", label: "Cervical + lumbar", labelColor: "blue", tagline: "Llega también a la zona baja de la espalda" },
     ],
@@ -5904,17 +5904,17 @@ export const guides: Guide[] = [
       { type: "h2", title: `La línea Gadnic, modelo por modelo`, id: "ranking" },
 
       { type: "h3", title: `1. Gadnic Cedro — el cervical más vendido` },
-      { type: "product-card", productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", ranking: 1, description: `Cervical shiatsu de 8 nodos bidireccionales con calor infrarrojo, 24W. 4.8 estrellas con 9.455 calificaciones por $50.999: el masajeador más probado del catálogo.` },
+      { type: "product-card", productMlaId: "MLA18961711", label: "Mejor en general", labelColor: "green", ranking: 1, description: `Cervical shiatsu de 8 nodos bidireccionales con calor infrarrojo, 24W. 4.8 estrellas con 9.455 calificaciones por {{precio:MLA18961711}}: el masajeador más probado del catálogo.` },
       { type: "p", content: `Es el masajeador Gadnic que recomendamos a la mayoría, y las 9.455 calificaciones explican por qué. Por $50.999 te da **8 nodos shiatsu que giran en los dos sentidos**, calor infrarrojo, apagado automático y protección contra sobrecalentamiento. Ataca justo la zona donde casi todos acumulamos tensión: el cuello y los trapecios. Viene con adaptador de 12V, así que también lo usás en el auto.` },
       { type: "p", content: `Lo honesto: funciona enchufado, no es a batería, así que no es tan libre como un cervical inalámbrico. Y llega al cuello y la espalda alta, no a la zona lumbar ni a la espalda completa. Para esa zona necesitás otro modelo de la misma línea. Pero como puerta de entrada a Gadnic y como cervical calidad-precio, es difícil de superar en Argentina.` },
 
       { type: "h3", title: `2. Gadnic Gunax — la pistola masajeadora` },
-      { type: "product-card", productMlaId: "MLA22138401", label: "Para contracturas", labelColor: "amber", ranking: 2, description: `Pistola de percusión a batería recargable, 3 velocidades y 4 cabezales intercambiables. 4.6 estrellas en 187 calificaciones, $69.999.` },
+      { type: "product-card", productMlaId: "MLA22138401", label: "Para contracturas", labelColor: "amber", ranking: 2, description: `Pistola de percusión a batería recargable, 3 velocidades y 4 cabezales intercambiables. 4.6 estrellas en 187 calificaciones, {{precio:MLA22138401}}.` },
       { type: "p", content: `Si lo tuyo son nudos profundos en músculos grandes o recuperación después de entrenar, la pistola es mejor que un cervical. La Gunax es la opción de Gadnic: **recargable, inalámbrica, con 4 cabezales** para distintas zonas y 3 velocidades regulables. Para percusión básica de marca local sin pagar lo de una premium, cumple.` },
       { type: "p", content: `Lo honesto: la ficha no aclara el tipo de motor (lo más probable es que sea brushed, no brushless), y 3 velocidades es lo justo. Si el ruido y la durabilidad te importan, conviene comparar contra una brushless antes de decidir. Tenés el análisis a fondo en la [guía de pistola masajeadora](/guias/pistola-masajeadora).` },
 
       { type: "h3", title: `3. Gadnic 8 nodos cervical y lumbar — más alcance` },
-      { type: "product-card", productMlaId: "MLA19043353", label: "Cervical + lumbar", labelColor: "blue", ranking: 3, description: `Hermano mayor del Cedro: mismos 8 nodos shiatsu y calor infrarrojo, pero suma vibración y llega a la zona lumbar. 4.7 estrellas en 1.320 calificaciones, $72.038.` },
+      { type: "product-card", productMlaId: "MLA19043353", label: "Cervical + lumbar", labelColor: "blue", ranking: 3, description: `Hermano mayor del Cedro: mismos 8 nodos shiatsu y calor infrarrojo, pero suma vibración y llega a la zona lumbar. 4.7 estrellas en 1.320 calificaciones, {{precio:MLA19043353}}.` },
       { type: "p", content: `Es el Cedro con más alcance: mantiene los **8 nodos shiatsu bidireccionales y el calor infrarrojo**, agrega sistema de vibración y, sobre todo, llega a la **zona lumbar**, no solo al cuello. Si la tensión la sentís también más abajo de la espalda, este es el de la línea que la cubre.` },
       { type: "p", content: `Lo honesto: cuesta $20.000 más que el Cedro y tiene bastantes menos reseñas (1.320 contra 9.455), aunque su 4.7 sigue siendo muy bueno. Si tu molestia es puramente de cuello, el Cedro te ahorra plata y tiene más respaldo de opiniones. Pagás la diferencia solo si querés la cobertura lumbar.` },
 
@@ -5924,17 +5924,17 @@ export const guides: Guide[] = [
       { type: "p", content: `Lo honesto, y por eso no está más arriba: es **con diferencia el más caro de la guía** (ronda los $438.000, más de 3x un cervical Gadnic). El 4.7 sobre 282 calificaciones lo respalda y el shiatsu lo justifica si querés cubrir toda la espalda, pero si tu molestia es puntual —cuello u hombros— un cervical de la misma marca resuelve por una fracción. Comparativa de asientos en la [guía de masajeador de espalda y cuello](/guias/masajeador-espalda-cuello).` },
 
       { type: "h3", title: `5. Gadnic Healthy Leg — el caso aparte` },
-      { type: "product-card", productMlaId: "MLA24043083", label: "Piernas y circulación", labelColor: "blue", ranking: 5, description: `Ejercitador pasivo de piernas: simula caminar estando sentado para activar la circulación. No es un masajeador de contracturas. 4.6 estrellas en 689 calificaciones, $128.399.` },
+      { type: "product-card", productMlaId: "MLA24043083", label: "Piernas y circulación", labelColor: "blue", ranking: 5, description: `Ejercitador pasivo de piernas: simula caminar estando sentado para activar la circulación. No es un masajeador de contracturas. 4.6 estrellas en 689 calificaciones, {{precio:MLA24043083}}.` },
       { type: "p", content: `Lo incluimos porque aparece en las búsquedas de masajeadores Gadnic, pero conviene aclararlo: **no es un masajeador de contracturas**. Es un ejercitador pasivo de piernas, con pedales que se mueven solos para activar la circulación mientras estás sentado. Está pensado para adultos mayores, rehabilitación o gente que pasa muchas horas sin moverse.` },
       { type: "p", content: `Para ese uso puntual tiene sentido y un buen rating (4.6 sobre 689 calificaciones). Pero si lo que buscás es aflojar el cuello o la espalda, este no es: andá a los cervicales o a la pistola. Más sobre los tipos de masajeador en la [guía de masajeador eléctrico](/guias/masajeador-electrico).` },
 
       { type: "h2", title: `Tabla comparativa: la línea Gadnic`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Zona`, `Rating`], rows: [
-        [`[Gadnic Cedro](https://meli.la/21bCTeS)`, `$50.999`, `Shiatsu + calor`, `Cuello, espalda alta`, `4.8 (9.455)`],
-        [`[Gadnic Gunax](https://meli.la/16Cf8XR)`, `$69.999`, `Pistola percusión`, `Músculos grandes`, `4.6 (187)`],
-        [`[Gadnic 8 nodos lumbar](https://meli.la/1KvJsz4)`, `$72.038`, `Shiatsu + vibración`, `Cuello y lumbar`, `4.7 (1.320)`],
+        [`[Gadnic Cedro](https://meli.la/21bCTeS)`, `{{precio:MLA18961711}}`, `Shiatsu + calor`, `Cuello, espalda alta`, `4.8 (9.455)`],
+        [`[Gadnic Gunax](https://meli.la/16Cf8XR)`, `{{precio:MLA22138401}}`, `Pistola percusión`, `Músculos grandes`, `4.6 (187)`],
+        [`[Gadnic 8 nodos lumbar](https://meli.la/1KvJsz4)`, `{{precio:MLA19043353}}`, `Shiatsu + vibración`, `Cuello y lumbar`, `4.7 (1.320)`],
         [`[Gadnic Acacia asiento](https://meli.la/26bbbro)`, `~$438.000`, `Shiatsu + calor`, `Espalda completa`, `4.7 (282)`],
-        [`[Gadnic Healthy Leg](https://meli.la/2J1FnpN)`, `$128.399`, `Ejercitador piernas`, `Piernas, circulación`, `4.6 (689)`],
+        [`[Gadnic Healthy Leg](https://meli.la/2J1FnpN)`, `{{precio:MLA24043083}}`, `Ejercitador piernas`, `Piernas, circulación`, `4.6 (689)`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu masajeador Gadnic`, id: "como-elegir" },
@@ -5946,7 +5946,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$50.000 a $75.000:** los cervicales, que son lo mejor de la marca. El [Cedro](https://meli.la/21bCTeS) a $50.999 y el [8 nodos cervical-lumbar](https://meli.la/1KvJsz4) a $72.038. Acá está la mejor relación precio-prestaciones.`,
         `**~$70.000:** la [pistola Gunax](https://meli.la/16Cf8XR) ($69.999), para contracturas y deporte.`,
-        `**~$128.000:** el [Healthy Leg](https://meli.la/2J1FnpN), ejercitador de piernas para activar la circulación.`,
+        `**~{{precio:MLA24043083:k}}:** el [Healthy Leg](https://meli.la/2J1FnpN), ejercitador de piernas para activar la circulación.`,
         `**~$438.000:** el [asiento Acacia](https://meli.la/26bbbro), el premium de la línea: shiatsu, vibración y calor para toda la espalda. Es el más caro, lejos.`,
       ] },
       { type: "trust-block", trustVariant: "pricing", content: `Precios verificados manualmente en Mercado Libre Argentina en junio 2026. En masajeadores los precios se mueven mucho con las ofertas y las cuotas; confirmá en cada link antes de comprar. Para ver vendedores y formas de pago, mirá la guía de [dónde comprar masajeadores](/guias/masajeador-donde-comprar-argentina).` },
@@ -5955,7 +5955,7 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Para la mayoría, el **Gadnic Cedro** ($50.999): shiatsu real, calor infrarrojo y 9.455 reseñas a 4.8 lo hacen el masajeador calidad-precio más sólido de la marca y uno de los mejores del país. Si la tensión te llega a la lumbar, subí al **8 nodos cervical-lumbar**. Si son contracturas duras, la **pistola Gunax**. El asiento Acacia (4.7) solo si querés shiatsu para toda la espalda y bancás que es, lejos, el más caro de la guía (~$438.000). Y el Healthy Leg es otra categoría: piernas, no contracturas.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor masajeador Gadnic?`, answer: `Por datos, el [cervical Cedro](https://meli.la/21bCTeS): $50.999, 8 nodos shiatsu con calor infrarrojo y 4.8 estrellas sobre 9.455 calificaciones, la base de opiniones más grande del nicho. Es el mejor punto de partida para la marca. Si necesitás llegar a la zona lumbar, el modelo de 8 nodos cervical-lumbar; si son contracturas, la pistola Gunax.` },
+      { question: `¿Cuál es el mejor masajeador Gadnic?`, answer: `Por datos, el [cervical Cedro](https://meli.la/21bCTeS): {{precio:MLA18961711}}, 8 nodos shiatsu con calor infrarrojo y 4.8 estrellas sobre 9.455 calificaciones, la base de opiniones más grande del nicho. Es el mejor punto de partida para la marca. Si necesitás llegar a la zona lumbar, el modelo de 8 nodos cervical-lumbar; si son contracturas, la pistola Gunax.` },
       { question: `¿Los masajeadores Gadnic son buenos?`, answer: `Depende del modelo. Sus cervicales son de lo mejor puntuado del nicho (el Cedro tiene 4.8 con casi 10.000 reseñas) y son los más baratos. El asiento Acacia con shiatsu sube a 4.7 pero también el precio (~$438.000). Gadnic es una marca local que vende directo, con productos de origen chino rebrandeados: la calidad y el precio varían por modelo, no es uniforme.` },
       { question: `¿Cuánto cuesta un masajeador Gadnic en Argentina?`, answer: `En junio 2026, los cervicales van de $50.999 (Cedro) a $72.038 (8 nodos cervical-lumbar), la pistola Gunax ronda los $69.999, el ejercitador de piernas Healthy Leg está en torno a $128.000, y el asiento premium Acacia con shiatsu es el más caro, lejos, alrededor de $438.000.` },
       { question: `¿La pistola masajeadora Gadnic sirve?`, answer: `La Gunax es una pistola de percusión recargable, con 4 cabezales y 3 velocidades, a $69.999 y 4.6 estrellas. Para contracturas y recuperación cumple. Lo que no aclara la ficha es el tipo de motor; si buscás lo más silencioso y durable, conviene compararla contra una brushless antes de decidir.` },
@@ -9542,8 +9542,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: original vs Qahwa`, id: "tabla-comparativa" },
       { type: "table", headers: [`Versión`, `Precio`, `Nota que la define`, `Perfil`, `Reseñas`], rows: [
-        [`[Khamrah original](https://meli.la/2sBMfk2)`, `$51.000`, `Dátil y canela`, `Dulce gourmand, tipo postre`, `4.8 (4.327)`],
-        [`[Khamrah Qahwa](https://meli.la/1B8Vwwf)`, `$48.137`, `Café tostado`, `Dulce pero más sobrio`, `4.8 (2.432)`],
+        [`[Khamrah original](https://meli.la/2sBMfk2)`, `{{precio:MLA22845568}}`, `Dátil y canela`, `Dulce gourmand, tipo postre`, `4.8 (4.327)`],
+        [`[Khamrah Qahwa](https://meli.la/1B8Vwwf)`, `{{precio:MLA31178643}}`, `Café tostado`, `Dulce pero más sobrio`, `4.8 (2.432)`],
       ] },
 
       { type: "h2", title: `Cómo elegir entre original y Qahwa`, id: "como-elegir" },
@@ -9877,13 +9877,13 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Yara Tous 100ml](https://meli.la/1kwTmSn): **$42.000**",
-          "[Yara Moi 100ml](https://meli.la/1qBuAFB): **$46.538**",
-          "[Yara Candy 100ml](https://meli.la/2XYzvaU): **$44.397**",
-          "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **$68.000**",
-          "[Yara original 100ml](https://meli.la/2nDMa11): **$95.940** (importado, menos disponible)",
-          "[My Yara Collection Set 4 × 25ml](https://meli.la/2jd7cJf): **$64.508**",
-          "[Set 5to Aniversario Yara + Candy 2 × 100ml](https://meli.la/2qjxA7G): **$100.528** (compra internacional)"
+          "[Yara Tous 100ml](https://meli.la/1kwTmSn): **{{precio:MLA40521028}}**",
+          "[Yara Moi 100ml](https://meli.la/1qBuAFB): **{{precio:MLA32288168}}**",
+          "[Yara Candy 100ml](https://meli.la/2XYzvaU): **{{precio:MLA39865991}}**",
+          "[Yara Elixir 100ml](https://meli.la/2NrY6fF): **{{precio:MLA60836327}}**",
+          "[Yara original 100ml](https://meli.la/2nDMa11): **{{precio:MLAU2983186467}}** (importado, menos disponible)",
+          "[My Yara Collection Set 4 × 25ml](https://meli.la/2jd7cJf): **{{precio:MLA51612102}}**",
+          "[Set 5to Aniversario Yara + Candy 2 × 100ml](https://meli.la/2qjxA7G): **{{precio:MLA45984979}}** (compra internacional)"
         ]
       },
       {
@@ -10541,9 +10541,9 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Afnan 9PM 100ml](https://meli.la/2Njx2cC): $43.998",
-          "[Afnan 9PM Caballero](https://meli.la/2WWHx34): $47.214",
-          "[Afnan 9PM Elixir](https://meli.la/1nRAN9K): $53.369"
+          "[Afnan 9PM 100ml](https://meli.la/2Njx2cC): {{precio:MLA47054851}}",
+          "[Afnan 9PM Caballero](https://meli.la/2WWHx34): {{precio:MLA19846768}}",
+          "[Afnan 9PM Elixir](https://meli.la/1nRAN9K): {{precio:MLA53394464}}"
         ]
       },
       {
@@ -10565,8 +10565,8 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): $76.284",
-          "[Rasasi Hawas Black](https://meli.la/2T9ofP2): $75.388"
+          "[Rasasi Hawas Ice](https://meli.la/24kQeRc): {{precio:MLA29780185}}",
+          "[Rasasi Hawas Black](https://meli.la/2T9ofP2): {{precio:MLA41306043}}"
         ]
       },
       {
@@ -10588,8 +10588,8 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): $139.000 (viene en 200ml, el doble del estándar)",
-          "[Armaf Odyssey Mandarin Sky](https://meli.la/1woeKmQ): $110.263"
+          "[Armaf Club de Nuit Intense Man 200ml](https://meli.la/1BzsFJE): {{precio:MLA16122300}} (viene en 200ml, el doble del estándar)",
+          "[Armaf Odyssey Mandarin Sky](https://meli.la/1woeKmQ): {{precio:MLAU3452900219}}"
         ]
       },
       {
@@ -10611,7 +10611,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Sceptre Malachite 100ml](https://meli.la/2x5L5Ei): $55.499"
+          "[Sceptre Malachite 100ml](https://meli.la/2x5L5Ei): {{precio:MLA27855490}}"
         ]
       },
       {
@@ -10633,7 +10633,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Bharara King](https://meli.la/2DTqjeW): $99.800"
+          "[Bharara King](https://meli.la/2DTqjeW): {{precio:MLA19053146}}"
         ]
       },
       {
@@ -10643,7 +10643,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): $32.990"
+          "[Al Wataniah Bareeq Al Dhahab](https://meli.la/1hq7XUU): {{precio:MLA24605489}}"
         ]
       },
       {
@@ -11462,8 +11462,8 @@ export const guides: Guide[] = [
       },
       { type: "p", content: "Si nunca probaste un árabe, el punto justo está en el rango **$35.000-50.000**. Productos validados con miles de reseñas, perfiles representativos del nicho, y si no te gusta perdiste menos que en una salida a comer. Pagar $100.000+ en tu primer árabe es apostar fuerte sin información." },
       { type: "p", content: "Para profundizar en precios reales de cada marca, [acá está el desglose completo](/guias/perfumes-arabes-precio-argentina)." },
-      { type: "product-card", productMlaId: "MLA22234109", variant: "compact", label: "Entry-level masculino", labelColor: "blue", description: "El árabe más barato decente del catálogo: $30.051. Aromatic-fougère versátil para hombres que arrancan." },
-      { type: "product-card", productMlaId: "MLA40521028", variant: "compact", label: "Entry-level femenino", labelColor: "blue", description: "El Yara para verano: $42.545. Mango, coco, jazmín y vainilla cremosa. Más fresco y accesible que Yara Elixir." },
+      { type: "product-card", productMlaId: "MLA22234109", variant: "compact", label: "Entry-level masculino", labelColor: "blue", description: "El árabe más barato decente del catálogo: {{precio:MLA22234109}}. Aromatic-fougère versátil para hombres que arrancan." },
+      { type: "product-card", productMlaId: "MLA40521028", variant: "compact", label: "Entry-level femenino", labelColor: "blue", description: "El Yara para verano: {{precio:MLA40521028}}. Mango, coco, jazmín y vainilla cremosa. Más fresco y accesible que Yara Elixir." },
 
       { type: "h3", title: "Pregunta 3: ¿Qué perfil olfativo?" },
       { type: "p", content: "**Amaderado-especiado** es el territorio masculino clásico: oud, sándalo, cedro, pachulí y especias. Perfil sobrio, formal, funciona para reuniones y noches. Acá entran Maahir Legacy, Qaed Al Fursan, The Kingdom Man y Bade'e Al Oud. Para profundizar, [esta es la guía dedicada a amaderados](/guias/perfumes-arabes-amaderados)." },
@@ -11506,14 +11506,14 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Lattafa Qaed Al Fursan](https://meli.la/2TnKuGC) — **$30.051** (entry-level masculino)",
-          "[Lattafa Yara Tous](https://meli.la/1kwTmSn) — **$42.545** (entry-level femenino)",
-          "[Lattafa Asad Intense](https://meli.la/26owfqo) — **$45.160** (masculino premium accesible)",
-          "[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf) — **$47.846** (gourmand café unisex)",
-          "[Lattafa Khamrah clásico](https://meli.la/139RJXC) — **$51.484** (gourmand whisky-vainilla)",
-          "[Lattafa Yara Elixir](https://meli.la/2NrY6fF) — **$68.000** (femenino premium viral)",
-          "[Rasasi Hawas Ice](https://meli.la/24kQeRc) — **$76.284** (fresco-frutal masculino)",
-          "[Bharara King](https://meli.la/2DTqjeW) — **$99.800** (masculino con más reseñas)"
+          "[Lattafa Qaed Al Fursan](https://meli.la/2TnKuGC) — **{{precio:MLA22234109}}** (entry-level masculino)",
+          "[Lattafa Yara Tous](https://meli.la/1kwTmSn) — **{{precio:MLA40521028}}** (entry-level femenino)",
+          "[Lattafa Asad Intense](https://meli.la/26owfqo) — **{{precio:MLA19715215}}** (masculino premium accesible)",
+          "[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf) — **{{precio:MLA31178643}}** (gourmand café unisex)",
+          "[Lattafa Khamrah clásico](https://meli.la/139RJXC) — **{{precio:MLA53013853}}** (gourmand whisky-vainilla)",
+          "[Lattafa Yara Elixir](https://meli.la/2NrY6fF) — **{{precio:MLA60836327}}** (femenino premium viral)",
+          "[Rasasi Hawas Ice](https://meli.la/24kQeRc) — **{{precio:MLA29780185}}** (fresco-frutal masculino)",
+          "[Bharara King](https://meli.la/2DTqjeW) — **{{precio:MLA19053146}}** (masculino con más reseñas)"
         ]
       },
       { type: "trust-block", trustVariant: "pricing", content: "Precios verificados manualmente en Mercado Libre el 20 de abril de 2026. Los productos del nicho árabe argentino tienen movimiento de precio promedio de ±5-10% mensual. Para el mapa completo de precios por marca y rango, [esta guía cubre el desglose detallado](/guias/perfumes-arabes-precio-argentina)." },
@@ -13813,9 +13813,9 @@ export const guides: Guide[] = [
         `**Mejor elección general:** [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — LIDAR + base autolimpiante a un precio de gama media, con +1.000 vendidas y 4.8 estrellas.`,
         `**Mejor premium con garantía oficial:** [Samsung Jetbot LIDAR](https://meli.la/15C617u) — marca con service en Argentina, SmartThings y estación de limpieza.`,
         `**Mejor succión bruta:** [Xiaomi Robot Vacuum S40 Pro](https://meli.la/117oW5y) — 15.000 Pa y brazos extensibles para zócalos y esquinas.`,
-        `**Mejor entrada al ecosistema Xiaomi:** [Xiaomi Robot Vacuum S40c](https://meli.la/16WtjsG) — mapeo y app Mi Home en español por menos de $330.000.`,
+        `**Mejor entrada al ecosistema Xiaomi:** [Xiaomi Robot Vacuum S40c](https://meli.la/16WtjsG) — mapeo y app Mi Home en español por menos de {{precio:MLA61420449:k}}.`,
         `**Mejor para trapear:** [Gadnic AspiRob](https://meli.la/2mPhJwy) — aspirado + trapeado con mapeo y detección de obstáculos.`,
-        `**Más accesible nacional:** [Atma ATAR21C1DH](https://meli.la/1TWykcE) — marca argentina, 3 en 1 aspira y trapea simultáneo, por menos de $245.000.`,
+        `**Más accesible nacional:** [Atma ATAR21C1DH](https://meli.la/1TWykcE) — marca argentina, 3 en 1 aspira y trapea simultáneo, por menos de {{precio:MLA18642318:k}}.`,
       ] },
   
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos 18 robots aspiradora que se venden hoy en MercadoLibre Argentina y los ordenamos por relación precio-prestaciones, no por marketing. Priorizamos cuatro cosas que cambian la experiencia real: tipo de navegación (LIDAR/láser vs giroscópica vs aleatoria), potencia de succión en Pascales (Pa), si trapea de verdad o solo arrastra un trapo húmedo, y —clave en Argentina— si hay garantía oficial y repuestos locales (cepillos, filtros, baterías). Cuando un producto tiene calificaciones públicas en MercadoLibre, las citamos tal cual; no inventamos números.` },
@@ -13834,9 +13834,9 @@ export const guides: Guide[] = [
       { type: "p", content: `¿La letra chica honesta? Gadnic no tiene la red de service de una multinacional, así que ante una falla dependés del vendedor y de la garantía de MercadoLibre. Para la mayoría de los hogares eso no es un problema, pero si querés un respaldo de marca grande, mirá el #2. Profundizamos en la línea en la [guía de robot aspiradora Gadnic](/guias/robot-aspiradora-gadnic).` },
   
       { type: "h3", title: `2. Samsung Jetbot LIDAR — mejor premium con garantía oficial` },
-      { type: "product-card", productMlaId: "MLA26504431", label: "Premium oficial", labelColor: "blue", ranking: 2, description: `LIDAR, app SmartThings en español y estación de limpieza, con el respaldo de service técnico Samsung en Argentina. La opción de marca grande para quien prioriza soporte oficial y tiene presupuesto premium: hoy es, por lejos, el más caro del catálogo.` },
+      { type: "product-card", productMlaId: "MLA26504431", label: "Premium oficial", labelColor: "blue", ranking: 2, description: `LIDAR, app SmartThings en español y estación de limpieza, con el respaldo de service técnico Samsung en Argentina. La opción de marca grande para quien prioriza soporte oficial y tiene presupuesto premium.` },
       { type: "p", content: `Si tu prioridad es **comprar tranquilo**, el [Samsung Jetbot](https://meli.la/15C617u) es la respuesta. Trae LIDAR, se integra al ecosistema **SmartThings** (la misma app que maneja tu Smart TV o heladera Samsung) y tiene estación de limpieza. Pero lo que de verdad pagás acá es el respaldo: Samsung tiene **distribución y service oficial en Argentina**, repuestos disponibles y firmware en español que se actualiza. Es lo que separa una compra de marca de una importación gris.` },
-      { type: "p", content: `Acá viene la salvedad fuerte: hoy ronda los $3.476.040, más del doble que la Xiaomi más cara y lejísimos del resto del ranking. Lo justificás solo si querés el respaldo de una multinacional y la plata no es el límite. Ojo con un detalle: Xiaomi también tiene distribución oficial en Argentina y arranca por una fracción de ese precio, así que "marca grande con service" no obliga a gastar tanto. Si te interesa entender por qué el LIDAR cambia tanto la limpieza, lo desarrollamos en la guía de [robot aspiradora con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
+      { type: "p", content: `Acá viene la salvedad: hoy ronda los {{precio:MLA26504431:k}}, en la franja más alta del ranking. Lo justificás solo si querés el respaldo de una multinacional y la plata no es el límite. Ojo con un detalle: Xiaomi también tiene distribución oficial en Argentina y arranca por una fracción de ese precio, así que "marca grande con service" no obliga a gastar tanto. Si te interesa entender por qué el LIDAR cambia tanto la limpieza, lo desarrollamos en la guía de [robot aspiradora con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
   
       { type: "h3", title: `3. Xiaomi Robot Vacuum S40 Pro — mejor succión` },
       { type: "product-card", productMlaId: "MLA66281403", label: "Más potencia", labelColor: "purple", ranking: 3, description: `15.000 Pa de succión y brazos extensibles que llegan a zócalos y esquinas. Mapeo, WiFi y app Mi Home en español. La bestia para casas con alfombras y mascotas.` },
@@ -13844,28 +13844,28 @@ export const guides: Guide[] = [
       { type: "p", content: `Es la mejor opción si tenés alfombras gruesas, mascotas que sueltan mucho pelo o pisos con mucho detalle de zócalos. Si te tira Xiaomi pero querés gastar menos, abajo está el S40c. Comparamos toda la línea en la [guía de robot aspiradora Xiaomi](/guias/robot-aspiradora-xiaomi).` },
   
       { type: "h3", title: `4. Xiaomi Robot Vacuum S40c — mejor entrada a Xiaomi` },
-      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 4, description: `Mapeo, WiFi y app Mi Home en español por menos de $330.000. La puerta más barata al ecosistema Xiaomi, con 4.8 estrellas. Sin base de autovaciado, pero cumple.` },
-      { type: "p", content: `El [Xiaomi S40c](https://meli.la/16WtjsG) es la forma más accesible de entrar al ecosistema Xiaomi con mapeo real. Por menos de $330.000 tenés navegación inteligente, WiFi y la app **Mi Home** en español —la misma que ya usás si tenés una balanza o una lámpara Xiaomi—. Con **4.8 estrellas**, es de los más elegidos en su rango de precio.` },
+      { type: "product-card", productMlaId: "MLA61420449", label: "Mejor entrada", labelColor: "green", ranking: 4, description: `Mapeo, WiFi y app Mi Home en español por menos de {{precio:MLA61420449:k}}. La puerta más barata al ecosistema Xiaomi, con 4.8 estrellas. Sin base de autovaciado, pero cumple.` },
+      { type: "p", content: `El [Xiaomi S40c](https://meli.la/16WtjsG) es la forma más accesible de entrar al ecosistema Xiaomi con mapeo real. Por menos de {{precio:MLA61420449:k}} tenés navegación inteligente, WiFi y la app **Mi Home** en español —la misma que ya usás si tenés una balanza o una lámpara Xiaomi—. Con **4.8 estrellas**, es de los más elegidos en su rango de precio.` },
       { type: "p", content: `No trae base de autovaciado (vaciás el depósito a mano cada par de días) y la succión es menor que la del S40 Pro, pero para un departamento o una casa de pisos lisos cumple sobrado. Es el clásico "primer robot" sin arrepentimientos.` },
   
       { type: "h3", title: `5. Gadnic AspiRob — mejor trapeado` },
-      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "amber", ranking: 5, description: `Aspirado y trapeado con mapeo y detección de obstáculos, por menos de $335.000. Con 4.8 estrellas, es la opción para quien quiere los pisos no solo sin polvo, sino repasados.` },
+      { type: "product-card", productMlaId: "MLA36838658", label: "Mejor para trapear", labelColor: "amber", ranking: 5, description: `Aspirado y trapeado con mapeo y detección de obstáculos, por menos de {{precio:MLA36838658:k}}. Con 4.8 estrellas, es la opción para quien quiere los pisos no solo sin polvo, sino repasados.` },
       { type: "p", content: `Si en tu casa el problema no es tanto el polvo sino el **piso pegajoso** (cocina, zonas de paso, mascotas), el [Gadnic AspiRob](https://meli.la/2mPhJwy) prioriza el trapeado sin resignar mapeo ni detección de obstáculos. Tiene **4.8 estrellas** y un precio de gama media-baja que lo hace muy fácil de justificar.` },
       { type: "p", content: `Ojo con la expectativa: ningún robot reemplaza un baldeo a fondo, pero para mantener los pisos repasados día a día rinde muy bien. Si el trapeado es tu prioridad absoluta, armamos un ranking dedicado en [mejores robot aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
   
       { type: "h3", title: `6. Atma ATAR21C1DH — más accesible nacional` },
-      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor precio nacional", labelColor: "green", ranking: 6, description: `Marca argentina, 3 en 1 que aspira y trapea simultáneo, tanque de 450 ml y sistema antichoque, por menos de $245.000. Para empezar sin gastar mucho.` },
-      { type: "p", content: `El [Atma ATAR21C1DH](https://meli.la/1TWykcE) es la entrada más sensata si tu presupuesto es ajustado y querés una **marca argentina** con respaldo conocido. Es un 3 en 1 que aspira y trapea al mismo tiempo, tiene tanque de 450 ml y sistema antichoque. Por menos de $245.000, es difícil pedirle más.` },
+      { type: "product-card", productMlaId: "MLA18642318", label: "Mejor precio nacional", labelColor: "green", ranking: 6, description: `Marca argentina, 3 en 1 que aspira y trapea simultáneo, tanque de 450 ml y sistema antichoque, por menos de {{precio:MLA18642318:k}}. Para empezar sin gastar mucho.` },
+      { type: "p", content: `El [Atma ATAR21C1DH](https://meli.la/1TWykcE) es la entrada más sensata si tu presupuesto es ajustado y querés una **marca argentina** con respaldo conocido. Es un 3 en 1 que aspira y trapea al mismo tiempo, tiene tanque de 450 ml y sistema antichoque. Por menos de {{precio:MLA18642318:k}}, es difícil pedirle más.` },
       { type: "p", content: `No esperes mapeo ni app: este modelo navega por sensores y patrones, no arma un plano de tu casa. Pero para un ambiente o un departamento chico va sobrado, y el hecho de ser nacional simplifica la garantía. Es nuestro "no falla" para quien recién arranca.` },
   
       { type: "h2", title: `Tabla comparativa de los mejores modelos`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio aprox.`, `Navegación`, `Succión / extras`, `Para quién`], rows: [
-        [`[Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV)`, `$507.799`, `LIDAR`, `5.000 Pa · base autolimpiante`, `La mejor para casi todos`],
-        [`[Samsung Jetbot LIDAR](https://meli.la/15C617u)`, `$3.476.040`, `LIDAR`, `Estación de limpieza · SmartThings`, `Quien quiere garantía oficial`],
-        [`[Xiaomi S40 Pro](https://meli.la/117oW5y)`, `$949.657`, `Mapeo`, `15.000 Pa · brazos extensibles`, `Alfombras y mascotas`],
-        [`[Xiaomi S40c](https://meli.la/16WtjsG)`, `$317.366`, `Mapeo`, `App Mi Home · WiFi`, `Primer robot con mapeo`],
-        [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `$330.049`, `Mapeo`, `Aspira + trapea · obstáculos`, `Pisos siempre repasados`],
-        [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `$244.949`, `Sensores`, `3 en 1 · tanque 450 ml`, `Empezar sin gastar mucho`],
+        [`[Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `LIDAR`, `5.000 Pa · base autolimpiante`, `La mejor para casi todos`],
+        [`[Samsung Jetbot LIDAR](https://meli.la/15C617u)`, `{{precio:MLA26504431}}`, `LIDAR`, `Estación de limpieza · SmartThings`, `Quien quiere garantía oficial`],
+        [`[Xiaomi S40 Pro](https://meli.la/117oW5y)`, `{{precio:MLA66281403}}`, `Mapeo`, `15.000 Pa · brazos extensibles`, `Alfombras y mascotas`],
+        [`[Xiaomi S40c](https://meli.la/16WtjsG)`, `{{precio:MLA61420449}}`, `Mapeo`, `App Mi Home · WiFi`, `Primer robot con mapeo`],
+        [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `Mapeo`, `Aspira + trapea · obstáculos`, `Pisos siempre repasados`],
+        [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `{{precio:MLA18642318}}`, `Sensores`, `3 en 1 · tanque 450 ml`, `Empezar sin gastar mucho`],
       ] },
       { type: "p", content: `¿Querés ver el panorama de precios completo, de los $120.000 a más de $3.000.000, y entender qué pagás en cada escalón? Lo desglosamos en la [guía de precios de robot aspiradora en Argentina](/guias/robot-aspiradora-precio-argentina).` },
 
@@ -13895,12 +13895,12 @@ export const guides: Guide[] = [
       { type: "h2", title: `Precios reales en Argentina (junio 2026)`, id: "precios" },
       { type: "p", content: `Estos son los precios verificados de los modelos del ranking en junio de 2026, de menor a mayor. Los robots aspiradora se mueven mucho de precio según ofertas y tipo de cambio, así que tomalos como referencia del escalón en el que juega cada uno, no como número grabado en piedra.` },
       { type: "list", items: [
-        `[Atma ATAR21C1DH](https://meli.la/1TWykcE) — **$244.949** · entrada nacional, 3 en 1.`,
-        `[Xiaomi S40c](https://meli.la/16WtjsG) — **$317.366** · el mapeo más barato con app en español.`,
-        `[Gadnic AspiRob](https://meli.la/2mPhJwy) — **$330.049** · mapeo + trapeado equilibrado.`,
-        `[Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — **$507.799** · LIDAR y base autolimpiante a precio de gama media.`,
-        `[Xiaomi S40 Pro](https://meli.la/117oW5y) — **$949.657** · 15.000 Pa, el de más succión.`,
-        `[Samsung Jetbot LIDAR](https://meli.la/15C617u) — **$3.476.040** · premium con garantía oficial Samsung.`,
+        `[Atma ATAR21C1DH](https://meli.la/1TWykcE) — **{{precio:MLA18642318}}** · entrada nacional, 3 en 1.`,
+        `[Xiaomi S40c](https://meli.la/16WtjsG) — **{{precio:MLA61420449}}** · el mapeo más barato con app en español.`,
+        `[Gadnic AspiRob](https://meli.la/2mPhJwy) — **{{precio:MLA36838658}}** · mapeo + trapeado equilibrado.`,
+        `[Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — **{{precio:MLA62126950}}** · LIDAR y base autolimpiante a precio de gama media.`,
+        `[Xiaomi S40 Pro](https://meli.la/117oW5y) — **{{precio:MLA66281403}}** · 15.000 Pa, el de más succión.`,
+        `[Samsung Jetbot LIDAR](https://meli.la/15C617u) — **{{precio:MLA26504431}}** · premium con garantía oficial Samsung.`,
       ] },
       { type: "trust-block", trustVariant: "pricing", content: `Cómo verificamos los precios: chequeamos cada modelo directamente en su publicación de MercadoLibre Argentina en junio de 2026 y tomamos el precio del vendedor con mejor reputación y stock. Cuando un producto baja o sube de forma sostenida, actualizamos la guía. No mostramos "precios tachados" inflados: el número que ves es el que pagás hoy.` },
 
@@ -13937,7 +13937,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLA62126950", label: "Mejor en general", labelColor: "green", tagline: "LIDAR + base autolimpiante a precio de gama media" },
       { productMlaId: "MLA26504431", label: "Premium oficial", labelColor: "blue", tagline: "Samsung con service en Argentina" },
       { productMlaId: "MLA66281403", label: "Más potencia", labelColor: "purple", tagline: "15.000 Pa para alfombras y mascotas" },
-      { productMlaId: "MLA18642318", label: "Más accesible", labelColor: "green", tagline: "Marca nacional, aspira y trapea, bajo $245.000" },
+      { productMlaId: "MLA18642318", label: "Más accesible", labelColor: "green", tagline: "Marca nacional, aspira y trapea, bajo {{precio:MLA18642318:k}}" },
     ],
   },
   {
@@ -14023,14 +14023,14 @@ export const guides: Guide[] = [
   
       { type: "h2", title: `Tabla comparativa` },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo de trapeado`, `Navegación`, `App`, `Para quién`], rows: [
-        [`[Gadnic 5000 Pa LIDAR](https://meli.la/2UjN3FV)`, `$507.799`, `Tanque + base autolimpiante`, `LIDAR`, `Tuya`, `Trapeado serio, casa entera`],
-        [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `$330.049`, `Tanque, sin base`, `Mapeo`, `Sí`, `Mejor precio-calidad`],
-        [`[Atma láser/mapeo](https://meli.la/14txuhx)`, `$449.999`, `Tanque 250 ml separado`, `Láser + mapeo`, `WiFi`, `Marca nacional con service`],
-        [`[Gadnic 5 Modos](https://meli.la/2kRauwY)`, `$250.999`, `Depósito de agua`, `Simple`, `WiFi`, `Trapeo accesible, depto chico`],
-        [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `$244.949`, `Tanque 450 ml`, `Random`, `No`, `Económico nacional, monoambiente`],
-        [`[Fika Nexos](https://meli.la/2P2DXaC)`, `$191.900`, `Paño (mantenimiento)`, `Giroscópica`, `Fika`, `Casa con mascotas`],
-        [`[Atma ATAR21C1PI](https://meli.la/2BGRKbq)`, `$206.055`, `Paño básico`, `Random`, `No`, `Entry con garantía AR`],
-        [`[Fika SENSE](https://meli.la/2L3rk3G)`, `$145.440`, `Paño básico`, `Random`, `WiFi`, `El más barato, primera vez`],
+        [`[Gadnic 5000 Pa LIDAR](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `Tanque + base autolimpiante`, `LIDAR`, `Tuya`, `Trapeado serio, casa entera`],
+        [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `Tanque, sin base`, `Mapeo`, `Sí`, `Mejor precio-calidad`],
+        [`[Atma láser/mapeo](https://meli.la/14txuhx)`, `{{precio:MLA53579189}}`, `Tanque 250 ml separado`, `Láser + mapeo`, `WiFi`, `Marca nacional con service`],
+        [`[Gadnic 5 Modos](https://meli.la/2kRauwY)`, `{{precio:MLA45951645}}`, `Depósito de agua`, `Simple`, `WiFi`, `Trapeo accesible, depto chico`],
+        [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `{{precio:MLA18642318}}`, `Tanque 450 ml`, `Random`, `No`, `Económico nacional, monoambiente`],
+        [`[Fika Nexos](https://meli.la/2P2DXaC)`, `{{precio:MLA63784269}}`, `Paño (mantenimiento)`, `Giroscópica`, `Fika`, `Casa con mascotas`],
+        [`[Atma ATAR21C1PI](https://meli.la/2BGRKbq)`, `{{precio:MLA20033508}}`, `Paño básico`, `Random`, `No`, `Entry con garantía AR`],
+        [`[Fika SENSE](https://meli.la/2L3rk3G)`, `{{precio:MLA54522658}}`, `Paño básico`, `Random`, `WiFi`, `El más barato, primera vez`],
       ] },
   
       { type: "h2", title: `Cuál elegir según tu caso` },
@@ -14072,7 +14072,7 @@ export const guides: Guide[] = [
     category: "aspiradoras-robot",
     title: `Robot aspiradora precio en Argentina [2026]: cuánto sale y qué te da cada rango`,
     seoTitle: `Robot aspiradora precio Argentina 2026: guía por rango`,
-    metaDescription: `Cuánto sale un robot aspiradora en Argentina en 2026: desde la Fika SENSE a $145.440 hasta la Xiaomi X20 Max a $1.548.517. Tabla de 18 modelos y qué ganás en cada rango.`,
+    metaDescription: `Cuánto sale un robot aspiradora en Argentina en 2026: desde la Fika SENSE a {{precio:MLA54522658}} hasta la Xiaomi X20 Max a {{precio:MLA44235159}}. Tabla de 18 modelos y qué ganás en cada rango.`,
     ogTitle: `¿Cuánto sale un robot aspiradora en serio? La tabla completa 2026`,
     ogDescription: `De $130.000 a más de $3.000.000: te mostramos qué hace cada robot en cada rango y dónde está el punto justo entre lo barato que decepciona y lo caro que no necesitás.`,
     h1: `Robot aspiradora: precios en Argentina y qué te da cada rango [2026]`,
@@ -14090,9 +14090,9 @@ export const guides: Guide[] = [
   
       { type: "h2", id: "resumen", title: `Resumen rápido: cuánto sale y qué esperar` },
       { type: "list", items: [
-        `**Entrada ($120K–$250K):** limpieza diaria de mantenimiento. Andan "a las chapas" (navegación al azar o giroscópica básica), sin mapa. Bárbaros para departamento chico. El mejor valor: [Fika Nexos](https://meli.la/2P2DXaC) a $191.900.`,
-        `**Medio ($270K–$520K):** acá aparece el mapeo y, en la parte alta, el láser y el autovaciado. El robot deja de chocar y empieza a limpiar ordenado. El mejor valor: [Gadnic AC800 con LIDAR](https://meli.la/2UjN3FV) a $507.799.`,
-        `**Premium ($950K+):** mapeo láser fino, succión de 15.000 Pa, baterías de 3 horas y marcas con service oficial. La puerta de entrada: [Xiaomi S40 Pro](https://meli.la/117oW5y) a $949.657, el premium más accesible.`,
+        `**Entrada ($120K–$250K):** limpieza diaria de mantenimiento. Andan "a las chapas" (navegación al azar o giroscópica básica), sin mapa. Bárbaros para departamento chico. El mejor valor: [Fika Nexos](https://meli.la/2P2DXaC) a {{precio:MLA63784269}}.`,
+        `**Medio ($270K–$520K):** acá aparece el mapeo y, en la parte alta, el láser y el autovaciado. El robot deja de chocar y empieza a limpiar ordenado. El mejor valor: [Gadnic AC800 con LIDAR](https://meli.la/2UjN3FV) a {{precio:MLA62126950}}.`,
+        `**Premium ($750K+):** mapeo láser fino, succión de 15.000 Pa, baterías de 3 horas y marcas con service oficial. La puerta de entrada: [Xiaomi S40 Pro](https://meli.la/117oW5y) a {{precio:MLA66281403}}, el premium más accesible.`,
         `**Regla rápida:** abajo de $250K comprás un ayudante; entre $300K y $520K comprás un robot que entiende tu casa; arriba de $950K comprás respaldo de marca grande y autonomía total.`,
       ] },
   
@@ -14103,29 +14103,29 @@ export const guides: Guide[] = [
       { type: "p", content: `¿Para quién va sobrado? Monoambiente, departamento de uno o dos ambientes, piso liso sin laberinto de muebles. Ahí un robot de entrada te deja la casa impecable a diario y no extrañás el mapa. ¿Para quién se queda corto? Casa grande, varios ambientes, muchas patas de silla: sin mapa, el robot deja zonas sin tocar y repite otras.` },
   
       { type: "h3", title: `El mejor valor de entrada: Fika Nexos` },
-      { type: "product-card", productMlaId: "MLA63784269", label: "Mejor valor de entrada", labelColor: "green", ranking: 1, description: `A $191.900 es el robot de entrada que mejor resuelve el problema típico de los baratos: el desorden. Usa navegación giroscópica, así que limpia en líneas ordenadas en vez de chocar al azar, y está optimizada para pelos de mascota. Tiene app Fika con WiFi y un rating de 4.6 con 2.324 calificaciones, de los más respaldados del rango.` },
-      { type: "p", content: `La [Fika Nexos](https://meli.la/2P2DXaC) es el punto donde "barato" deja de significar "torpe". Por menos de $170.000 te da navegación ordenada y manejo de pelos de mascota, dos cosas que en el resto del rango hay que pagar bastante más caro. Si querés gastar todavía menos, la [Fika SENSE](https://meli.la/2L3rk3G) a $145.440 es de lo más barato del catálogo (solo la Midow sale un poco menos): antichoque, app WiFi y nada más, pero cumple para un ambiente chico.` },
+      { type: "product-card", productMlaId: "MLA63784269", label: "Mejor valor de entrada", labelColor: "green", ranking: 1, description: `A {{precio:MLA63784269}} es el robot de entrada que mejor resuelve el problema típico de los baratos: el desorden. Usa navegación giroscópica, así que limpia en líneas ordenadas en vez de chocar al azar, y está optimizada para pelos de mascota. Tiene app Fika con WiFi y un rating de 4.6 con 2.324 calificaciones, de los más respaldados del rango.` },
+      { type: "p", content: `La [Fika Nexos](https://meli.la/2P2DXaC) es el punto donde "barato" deja de significar "torpe". Te da navegación ordenada y manejo de pelos de mascota, dos cosas que en el resto del rango hay que pagar bastante más caro. Si querés gastar todavía menos, la [Fika SENSE](https://meli.la/2L3rk3G) a {{precio:MLA54522658}} es lo más barato del catálogo: antichoque, app WiFi y nada más, pero cumple para un ambiente chico.` },
       { type: "pull-quote", content: `Lo compré para los pelos del gato y la verdad que no falla, pasa todos los días solo y no se traba con las patas de la mesa.`, attribution: `— Comprador en Argentina, 2025` },
-      { type: "p", content: `Las otras opciones de entrada cubren casos puntuales. La [Midow Smart 115W](https://meli.la/1ZQQnmr) a $130.979 suma WiFi y base por poca plata. La [Kärcher RCV 1](https://meli.la/12hGhQB) a $182.000 trae el respaldo de una marca conocida y tres modos (Auto, Esquinas, Focus) más mando a distancia. Y las dos Atma nacionales —la [ATAR21C1PI](https://meli.la/2BGRKbq) a $206.055 y la [ATAR21C1DH](https://meli.la/1TWykcE) a $244.949— son la jugada "marca argentina con service local": aspiran y trapean a la vez, aunque sin mapa.` },
+      { type: "p", content: `Las otras opciones de entrada cubren casos puntuales. La [Midow Smart 115W](https://meli.la/1ZQQnmr) a {{precio:MLA48378491}} suma WiFi y base por poca plata. La [Kärcher RCV 1](https://meli.la/12hGhQB) a {{precio:MLA42103831}} trae el respaldo de una marca conocida y tres modos (Auto, Esquinas, Focus) más mando a distancia. Y las dos Atma nacionales —la [ATAR21C1PI](https://meli.la/2BGRKbq) a {{precio:MLA20033508}} y la [ATAR21C1DH](https://meli.la/1TWykcE) a {{precio:MLA18642318}}— son la jugada "marca argentina con service local": aspiran y trapean a la vez, aunque sin mapa.` },
   
       { type: "h2", id: "medio", title: `Rango medio: $270.000 a $520.000` },
       { type: "p", content: `Acá es donde el precio empieza a comprar inteligencia, no solo músculo. El salto de entrada a medio se paga con **mapeo**: el robot arma un plano de tu casa, sabe dónde estuvo y dónde le falta, y muchos te dejan ver ese mapa en la app y mandarlo a limpiar un solo ambiente. Es la diferencia entre un robot que pasa y uno que **limpia con criterio**. En la parte alta del rango ya aparecen dos cosas que hasta hace poco eran de lujo: el **láser/LIDAR** y la **base de autovaciado**.` },
       { type: "callout", calloutVariant: "update", calloutTitle: "Lo que cambió en 2024–2025", content: `El autovaciado y el LIDAR bajaron de gama premium a gama media. Hace dos años, un robot con láser y base que se vacía sola arrancaba en el millón de pesos; hoy lo conseguís por debajo de $510.000. Si tu presupuesto llega al rango medio-alto, esto es lo más importante que ganás respecto de 2023.` },
   
       { type: "h3", title: `El mejor valor del medio: Gadnic AC800 con LIDAR` },
-      { type: "product-card", productMlaId: "MLA62126950", label: "Mejor valor del rango medio", labelColor: "green", ranking: 1, description: `A $507.799 es lo más cerca de un premium sin pagar premium. Trae navegación LIDAR (láser), base autolimpiante con bolsa de 3.2L para olvidarte de vaciar por semanas, 140 minutos de autonomía y app Tuya. Tiene rating 4.8 con más de 1.000 vendidas. Es el robot que en 2023 costaba el doble.` },
-      { type: "p", content: `La [Gadnic AC800](https://meli.la/2UjN3FV) es la mejor demostración de por qué conviene esperar a juntar para el rango medio-alto: por $507.799 te llevás láser, mapeo fino y autovaciado, un combo que define a los premium. La contra honesta es la de marca económica: Gadnic no tiene la red de service de Xiaomi o Samsung, así que ante una falla dependés más del vendedor. Si querés todo el detalle de la marca, lo desglosamos en la [guía de robots Gadnic](/guias/robot-aspiradora-gadnic).` },
-      { type: "p", content: `Si tu presupuesto es más ajustado dentro del medio, hay un escalón claro. La [Gadnic 5 Modos](https://meli.la/2kRauwY) a $250.999 y la [Gadnic 3 Modos](https://meli.la/2WGATBu) a $270.522 son la entrada al medio sin láser. Subiendo, la [Xiaomi S40c](https://meli.la/16WtjsG) a $317.366 te mete en el ecosistema Mi Home con mapeo y rating 4.8 —la puerta de entrada a la marca con mejor app del mercado, que repasamos en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi)—. La [Gadnic AspiRob](https://meli.la/2mPhJwy) a $330.049 suma trapeado con mapeo (rating 4.8). Y si buscás aspirado y trapeado a la vez con respaldo de marca grande, la [Samsung POWERbot E](https://meli.la/2UEp3uq) a $449.999 lo hace simultáneo con su motor Digital Inverter y SmartThings.` },
-      { type: "p", content: `Dos opciones más para tener en cuenta en este rango: la [Atma láser/mapeo](https://meli.la/14txuhx) a $449.999 combina láser y mapeo con doble tarea (450 ml de polvo + 250 ml de agua) y marca nacional con service, y la [Xiaomi S20](https://meli.la/18CB1Wa) a $446.859 agrega comando de voz y aspirado de alfombras al ecosistema Xiaomi.` },
+      { type: "product-card", productMlaId: "MLA62126950", label: "Mejor valor del rango medio", labelColor: "green", ranking: 1, description: `A {{precio:MLA62126950}} es lo más cerca de un premium sin pagar premium. Trae navegación LIDAR (láser), base autolimpiante con bolsa de 3.2L para olvidarte de vaciar por semanas, 140 minutos de autonomía y app Tuya. Tiene rating 4.8 con más de 1.000 vendidas. Es el robot que en 2023 costaba el doble.` },
+      { type: "p", content: `La [Gadnic AC800](https://meli.la/2UjN3FV) es la mejor demostración de por qué conviene esperar a juntar para el rango medio-alto: por {{precio:MLA62126950}} te llevás láser, mapeo fino y autovaciado, un combo que define a los premium. La contra honesta es la de marca económica: Gadnic no tiene la red de service de Xiaomi o Samsung, así que ante una falla dependés más del vendedor. Si querés todo el detalle de la marca, lo desglosamos en la [guía de robots Gadnic](/guias/robot-aspiradora-gadnic).` },
+      { type: "p", content: `Si tu presupuesto es más ajustado dentro del medio, hay un escalón claro. La [Gadnic 5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}} y la [Gadnic 3 Modos](https://meli.la/2WGATBu) a {{precio:MLA42045783}} son la entrada al medio sin láser. Subiendo, la [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} te mete en el ecosistema Mi Home con mapeo y rating 4.8 —la puerta de entrada a la marca con mejor app del mercado, que repasamos en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi)—. La [Gadnic AspiRob](https://meli.la/2mPhJwy) a {{precio:MLA36838658}} suma trapeado con mapeo (rating 4.8). Y si buscás aspirado y trapeado a la vez con respaldo de marca grande, la [Samsung POWERbot E](https://meli.la/2UEp3uq) a {{precio:MLA18917302}} lo hace simultáneo con su motor Digital Inverter y SmartThings.` },
+      { type: "p", content: `Dos opciones más para tener en cuenta en este rango: la [Atma láser/mapeo](https://meli.la/14txuhx) a {{precio:MLA53579189}} combina láser y mapeo con doble tarea (450 ml de polvo + 250 ml de agua) y marca nacional con service, y la [Xiaomi S20](https://meli.la/18CB1Wa) a {{precio:MLA44714806}} agrega comando de voz y aspirado de alfombras al ecosistema Xiaomi.` },
       { type: "pull-quote", content: `Pasé de uno que chocaba contra todo a este que mapea la casa y la diferencia es de otro planeta. Lo programo desde el laburo y cuando llego está todo hecho.`, attribution: `— Comprador en Argentina, 2025` },
   
       { type: "h2", id: "premium", title: `Rango premium: $950.000 en adelante` },
-      { type: "p", content: `Hay un salto grande acá: después del Gadnic AC800 a $507.799, el próximo escalón ya arranca cerca del millón. Arriba de **$950.000** ya no comprás "que limpie": eso lo hace bien el rango medio. Comprás **máxima succión, autonomía total, mapeo láser fino y respaldo de marca con distribución oficial**. La pregunta clave deja de ser técnica y pasa a ser práctica: ¿vas a usar todo esto? En un departamento, un premium es un Ferrari para ir a comprar el pan. En una casa grande, con alfombras, mascotas y varios pisos, recién acá el robot trabaja sin que tengas que rescatarlo.` },
-      { type: "p", content: `El tope de la marca Xiaomi lo pone la [Xiaomi X20 Max](https://meli.la/1Jsg7hm) a $1.548.517: mapeo, WiFi y sensores de obstáculos y anticaída. Pero el techo absoluto del catálogo es otro: la [Samsung Jetbot LIDAR](https://meli.la/15C617u), que hoy ronda los $3.476.040 —más del doble que la Xiaomi más cara—. Es el premium de marca por excelencia (LIDAR, SmartThings, estación de limpieza y la mejor red de service oficial del país), pero a ese precio es una compra para muy pocos. Después de ver esos números, el resto del rango se entiende mejor.` },
+      { type: "p", content: `Hay un salto grande acá: después del Gadnic AC800 a {{precio:MLA62126950}}, el próximo escalón ya arranca cerca del millón. Arriba de **$950.000** ya no comprás "que limpie": eso lo hace bien el rango medio. Comprás **máxima succión, autonomía total, mapeo láser fino y respaldo de marca con distribución oficial**. La pregunta clave deja de ser técnica y pasa a ser práctica: ¿vas a usar todo esto? En un departamento, un premium es un Ferrari para ir a comprar el pan. En una casa grande, con alfombras, mascotas y varios pisos, recién acá el robot trabaja sin que tengas que rescatarlo.` },
+      { type: "p", content: `El tope de la marca Xiaomi lo pone la [Xiaomi X20 Max](https://meli.la/1Jsg7hm) a {{precio:MLA44235159}}: mapeo, WiFi y sensores de obstáculos y anticaída. En premium de marca, la [Samsung Jetbot LIDAR](https://meli.la/15C617u) ronda los {{precio:MLA26504431:k}}: es el robot de marca por excelencia (LIDAR, SmartThings, estación de limpieza y la mejor red de service oficial del país), aunque a ese precio es una compra para pocos. Después de ver esos números, el resto del rango se entiende mejor.` },
   
       { type: "h3", title: `El premium más accesible: Xiaomi S40 Pro` },
-      { type: "product-card", productMlaId: "MLA66281403", label: "Mejor premium accesible", labelColor: "blue", ranking: 1, description: `A $949.657 es la puerta de entrada al premium real: succión de 15.000 Pa (de las más altas del catálogo), mapeo y brazos extensibles que llegan a las esquinas y los bordes que otros robots se saltean. Marca Xiaomi con app Mi Home en español. El salto de potencia frente al rango medio se nota en alfombras y pelos.` },
-      { type: "p", content: `La [Xiaomi S40 Pro](https://meli.la/117oW5y) es el premium más barato del catálogo: rozando el millón, te da 15.000 Pa de succión y brazos extensibles que ningún robot del rango medio iguala. No es "casi un gama media" —cuesta casi el doble que el Gadnic AC800—, pero es lo más accesible una vez que cruzás al premium real. Si necesitás todavía más respaldo y autonomía, la [Xiaomi X20 Pro](https://meli.la/2ViGUz3) a $1.314.999 sube a batería de 3 horas y sensores de obstáculos, pensada para casas donde el robot tiene que durar una limpieza completa sin volver a la base.` },
+      { type: "product-card", productMlaId: "MLA66281403", label: "Mejor premium accesible", labelColor: "blue", ranking: 1, description: `A {{precio:MLA66281403}} es la puerta de entrada al premium real: succión de 15.000 Pa (de las más altas del catálogo), mapeo y brazos extensibles que llegan a las esquinas y los bordes que otros robots se saltean. Marca Xiaomi con app Mi Home en español. El salto de potencia frente al rango medio se nota en alfombras y pelos.` },
+      { type: "p", content: `La [Xiaomi S40 Pro](https://meli.la/117oW5y) es el premium más barato del catálogo: por {{precio:MLA66281403}} te da 15.000 Pa de succión y brazos extensibles que ningún robot del rango medio iguala. No es "casi un gama media" —sale bastante más que el Gadnic AC800—, pero es lo más accesible una vez que cruzás al premium real. Si necesitás todavía más respaldo y autonomía, la [Xiaomi X20 Pro](https://meli.la/2ViGUz3) a {{precio:MLA44240016}} sube a batería de 3 horas y sensores de obstáculos, pensada para casas donde el robot tiene que durar una limpieza completa sin volver a la base.` },
       { type: "callout", calloutVariant: "tip", calloutTitle: "Garantía oficial vs. importación gris", content: `En premium el respaldo de marca pesa más que en cualquier otro rango, porque estás poniendo mucha plata. Comprando un Xiaomi o Samsung con distribución oficial tenés service técnico en Argentina, repuestos (cepillos, filtros, baterías) y app/firmware en español. La importación gris suele ser más barata, pero si falla la batería o necesitás un cepillo, te quedás a pie. A más precio, más conviene asegurar el respaldo local.` },
   
       { type: "h2", id: "tabla", title: `Tabla de precios: los 18 robots, de menor a mayor` },
@@ -14133,24 +14133,24 @@ export const guides: Guide[] = [
       { type: "table",
         headers: [`Modelo`, `Precio`, `Mapeo`, `Para quién`],
         rows: [
-          [`[Midow Smart 115W](https://meli.la/1ZQQnmr)`, `$130.979`, `Barrido`, `El más barato; WiFi y base`],
-          [`[Fika SENSE](https://meli.la/2L3rk3G)`, `$145.440`, `Barrido`, `Entrada absoluta; ambiente chico`],
-          [`[Fika Nexos](https://meli.la/2P2DXaC)`, `$191.900`, `Giroscópico`, `Mascotas; mejor valor de entrada`],
-          [`[Kärcher RCV 1](https://meli.la/12hGhQB)`, `$182.000`, `Barrido`, `Marca conocida; barre+aspira+trapo`],
-          [`[Atma ATAR21C1PI](https://meli.la/2BGRKbq)`, `$206.055`, `Barrido`, `El Atma más barato; pelos de mascota`],
-          [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `$244.949`, `Barrido`, `Nacional; aspira+trapea a la vez`],
-          [`[Gadnic 5 Modos](https://meli.la/2kRauwY)`, `$250.999`, `Barrido`, `Trapeo y app por poco`],
-          [`[Gadnic 3 Modos](https://meli.la/2WGATBu)`, `$270.522`, `Barrido`, `Entrada al medio sin app ni láser`],
-          [`[Xiaomi S40c](https://meli.la/16WtjsG)`, `$317.366`, `Mapeo`, `Entrada al ecosistema Xiaomi`],
-          [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `$330.049`, `Mapeo`, `Trapeado + mapeo; rating 4.8`],
-          [`[Xiaomi S20](https://meli.la/18CB1Wa)`, `$446.859`, `Mapeo`, `Comando de voz; aspira alfombras`],
-          [`[Samsung POWERbot E](https://meli.la/2UEp3uq)`, `$449.999`, `Mapeo`, `Aspira+trapea simultáneo; marca grande`],
-          [`[Atma láser/mapeo](https://meli.la/14txuhx)`, `$449.999`, `Láser`, `Láser nacional con service`],
-          [`[Gadnic AC800 LIDAR](https://meli.la/2UjN3FV)`, `$507.799`, `Láser/LIDAR`, `Láser + autovaciado; mejor valor medio`],
-          [`[Xiaomi S40 Pro](https://meli.la/117oW5y)`, `$949.657`, `Mapeo`, `15.000 Pa; premium más accesible`],
-          [`[Xiaomi X20 Pro](https://meli.la/2ViGUz3)`, `$1.314.999`, `Mapeo`, `Batería 3h; casas grandes`],
-          [`[Xiaomi X20 Max](https://meli.la/1Jsg7hm)`, `$1.548.517`, `Mapeo`, `Tope de gama Xiaomi`],
-          [`[Samsung Jetbot LIDAR](https://meli.la/15C617u)`, `$3.476.040`, `Láser/LIDAR`, `Premium de marca; mejor service`],
+          [`[Midow Smart 115W](https://meli.la/1ZQQnmr)`, `{{precio:MLA48378491}}`, `Barrido`, `El más barato; WiFi y base`],
+          [`[Fika SENSE](https://meli.la/2L3rk3G)`, `{{precio:MLA54522658}}`, `Barrido`, `Entrada absoluta; ambiente chico`],
+          [`[Fika Nexos](https://meli.la/2P2DXaC)`, `{{precio:MLA63784269}}`, `Giroscópico`, `Mascotas; mejor valor de entrada`],
+          [`[Kärcher RCV 1](https://meli.la/12hGhQB)`, `{{precio:MLA42103831}}`, `Barrido`, `Marca conocida; barre+aspira+trapo`],
+          [`[Atma ATAR21C1PI](https://meli.la/2BGRKbq)`, `{{precio:MLA20033508}}`, `Barrido`, `El Atma más barato; pelos de mascota`],
+          [`[Atma ATAR21C1DH](https://meli.la/1TWykcE)`, `{{precio:MLA18642318}}`, `Barrido`, `Nacional; aspira+trapea a la vez`],
+          [`[Gadnic 5 Modos](https://meli.la/2kRauwY)`, `{{precio:MLA45951645}}`, `Barrido`, `Trapeo y app por poco`],
+          [`[Gadnic 3 Modos](https://meli.la/2WGATBu)`, `{{precio:MLA42045783}}`, `Barrido`, `Entrada al medio sin app ni láser`],
+          [`[Xiaomi S40c](https://meli.la/16WtjsG)`, `{{precio:MLA61420449}}`, `Mapeo`, `Entrada al ecosistema Xiaomi`],
+          [`[Gadnic AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `Mapeo`, `Trapeado + mapeo; rating 4.8`],
+          [`[Xiaomi S20](https://meli.la/18CB1Wa)`, `{{precio:MLA44714806}}`, `Mapeo`, `Comando de voz; aspira alfombras`],
+          [`[Samsung POWERbot E](https://meli.la/2UEp3uq)`, `{{precio:MLA18917302}}`, `Mapeo`, `Aspira+trapea simultáneo; marca grande`],
+          [`[Atma láser/mapeo](https://meli.la/14txuhx)`, `{{precio:MLA53579189}}`, `Láser`, `Láser nacional con service`],
+          [`[Gadnic AC800 LIDAR](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `Láser/LIDAR`, `Láser + autovaciado; mejor valor medio`],
+          [`[Xiaomi S40 Pro](https://meli.la/117oW5y)`, `{{precio:MLA66281403}}`, `Mapeo`, `15.000 Pa; premium más accesible`],
+          [`[Xiaomi X20 Pro](https://meli.la/2ViGUz3)`, `{{precio:MLA44240016}}`, `Mapeo`, `Batería 3h; casas grandes`],
+          [`[Xiaomi X20 Max](https://meli.la/1Jsg7hm)`, `{{precio:MLA44235159}}`, `Mapeo`, `Tope de gama Xiaomi`],
+          [`[Samsung Jetbot LIDAR](https://meli.la/15C617u)`, `{{precio:MLA26504431}}`, `Láser/LIDAR`, `Premium de marca; mejor service`],
         ]
       },
   
@@ -14166,10 +14166,10 @@ export const guides: Guide[] = [
   
       { type: "h2", id: "cual", title: `Cuál elegir según tu presupuesto` },
       { type: "list", items: [
-        `**Tengo hasta $200.000:** [Fika Nexos](https://meli.la/2P2DXaC) ($191.900). Navegación ordenada y bueno con pelos de mascota; el mejor robot honesto del rango bajo.`,
-        `**Tengo hasta $350.000:** [Xiaomi S40c](https://meli.la/16WtjsG) ($317.366). Entrás al ecosistema Xiaomi con mapeo y la mejor app; ideal si querés crecer después.`,
-        `**Tengo hasta $520.000:** [Gadnic AC800 LIDAR](https://meli.la/2UjN3FV) ($507.799). Láser y autovaciado por la mitad de lo que costaban hace dos años; el mejor valor absoluto del catálogo.`,
-        `**Tengo $950.000 o más:** [Xiaomi S40 Pro](https://meli.la/117oW5y) ($949.657) es el premium más accesible, con la mayor succión del catálogo. Si querés autonomía de 3 horas para una casa grande, la [Xiaomi X20 Pro](https://meli.la/2ViGUz3) ($1.314.999). Y solo si la plata no es límite y querés el mejor service oficial, el [Samsung Jetbot LIDAR](https://meli.la/15C617u) ($3.476.040).`,
+        `**Tengo hasta $200.000:** [Fika Nexos](https://meli.la/2P2DXaC) ({{precio:MLA63784269}}). Navegación ordenada y bueno con pelos de mascota; el mejor robot honesto del rango bajo.`,
+        `**Tengo hasta $350.000:** [Xiaomi S40c](https://meli.la/16WtjsG) ({{precio:MLA61420449}}). Entrás al ecosistema Xiaomi con mapeo y la mejor app; ideal si querés crecer después.`,
+        `**Tengo hasta $520.000:** [Gadnic AC800 LIDAR](https://meli.la/2UjN3FV) ({{precio:MLA62126950}}). Láser y autovaciado por la mitad de lo que costaban hace dos años; el mejor valor absoluto del catálogo.`,
+        `**Tengo $750.000 o más:** [Xiaomi S40 Pro](https://meli.la/117oW5y) ({{precio:MLA66281403}}) es el premium más accesible, con la mayor succión del catálogo. Si querés autonomía de 3 horas para una casa grande, la [Xiaomi X20 Pro](https://meli.la/2ViGUz3) ({{precio:MLA44240016}}). Y solo si la plata no es límite y querés el mejor service oficial, el [Samsung Jetbot LIDAR](https://meli.la/15C617u) ({{precio:MLA26504431}}).`,
         `**Quiero que también trapee bien:** mirá la [guía de robots con trapeadora](/guias/mejores-robot-aspiradora-trapeadora), donde comparamos los que aspiran y fregan a la vez.`,
       ] },
   
@@ -14178,17 +14178,17 @@ export const guides: Guide[] = [
       { type: "p", content: `Si todavía no tenés claro qué función priorizar antes que el precio, arrancá por el [hub de robots aspiradora](/guias/robot-aspiradora), donde está el panorama completo del tema. Y si lo que te interesa puntualmente es el mapeo láser, lo profundizamos en la [guía de robots con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
     ],
     faq: [
-      { question: `¿Cuánto sale un robot aspiradora en Argentina en 2026?`, answer: `Los precios van de $130.979 (Midow Smart 115W, el más barato del catálogo) a $3.476.040 (Samsung Jetbot, el premium de marca). El tope de la línea Xiaomi es la X20 Max a $1.548.517. El rango de entrada arranca en $130.000, el medio entre $270.000 y $520.000, y el premium desde $950.000. El mejor valor absoluto está alrededor de los $507.799 de la Gadnic AC800, que trae láser y autovaciado.` },
-      { question: `¿Vale la pena un robot aspiradora barato de menos de $200.000?`, answer: `Sí, para departamentos chicos de uno o dos ambientes. Modelos como la Fika Nexos ($191.900) hacen un trabajo de mantenimiento diario muy decente con navegación ordenada. Lo que no esperes en este rango es mapeo láser ni autovaciado: para eso hay que subir al rango medio. En una casa grande, un robot barato sin mapa te va a frustrar.` },
+      { question: `¿Cuánto sale un robot aspiradora en Argentina en 2026?`, answer: `Los precios van de {{precio:MLA54522658}} (Fika SENSE, el más barato del catálogo) a {{precio:MLA44718960}} (Roomba j9, el tope de gama). El tope de la línea Xiaomi es la X20 Max a {{precio:MLA44235159}}. El rango de entrada arranca cerca de los $130.000, el medio entre $270.000 y $520.000, y el premium desde unos $750.000. El mejor valor absoluto está alrededor de los {{precio:MLA62126950:k}} de la Gadnic AC800, que trae láser y autovaciado.` },
+      { question: `¿Vale la pena un robot aspiradora barato de menos de $200.000?`, answer: `Sí, para departamentos chicos de uno o dos ambientes. Modelos como la Fika Nexos ({{precio:MLA63784269}}) hacen un trabajo de mantenimiento diario muy decente con navegación ordenada. Lo que no esperes en este rango es mapeo láser ni autovaciado: para eso hay que subir al rango medio. En una casa grande, un robot barato sin mapa te va a frustrar.` },
       { question: `¿Por qué un robot cuesta $1.000.000 si otro de $300.000 también limpia?`, answer: `Ambos limpian, pero no de la misma forma. La diferencia se paga en mapeo láser (navegación precisa), succión (hasta 15.000 Pa), autonomía (baterías de 3 horas), autovaciado y respaldo de marca con service oficial en Argentina. Para un departamento, el de $300.000 alcanza; el de $1.000.000 se justifica en casas grandes con mascotas y alfombras.` },
       { question: `¿Qué gano al pasar de un robot de $150.000 a uno de $500.000?`, answer: `Dos saltos grandes: de $150.000 a $300.000 ganás mapeo y app (el robot deja de chocar al azar y arma un plano de tu casa); de $300.000 a $500.000 ganás láser LIDAR y base de autovaciado (navegación milimétrica y te olvidás de vaciar el robot por semanas). Es el tramo donde el robot pasa de ayudante a electrodoméstico que no atendés.` },
       { question: `¿Conviene comprar importado para ahorrar?`, answer: `Depende del precio del equipo. En robots de entrada y medio, la diferencia rara vez justifica perder el service local. En premium (Xiaomi, Samsung de más de $600.000) el respaldo oficial pesa mucho: tenés service técnico en Argentina, repuestos como cepillos, filtros y baterías, y app en español. La importación gris es más barata hasta que falla algo y te quedás sin repuesto.` },
-      { question: `¿Cuál es el robot aspiradora con mejor relación precio-calidad en 2026?`, answer: `La Gadnic AC800 LIDAR a $507.799: es la que más prestaciones premium concentra por el menor precio posible, con láser, mapeo fino y base de autovaciado, además de un rating de 4.8 con más de 1.000 vendidas. Si buscás algo más barato, la Fika Nexos a $191.900 es el mejor valor del rango de entrada.` },
+      { question: `¿Cuál es el robot aspiradora con mejor relación precio-calidad en 2026?`, answer: `La Gadnic AC800 LIDAR a {{precio:MLA62126950}}: es la que más prestaciones premium concentra por el menor precio posible, con láser, mapeo fino y base de autovaciado, además de un rating de 4.8 con más de 1.000 vendidas. Si buscás algo más barato, la Fika Nexos a {{precio:MLA63784269}} es el mejor valor del rango de entrada.` },
     ],
     quickPicks: [
-      { productMlaId: "MLA63784269", label: "Mejor entrada", labelColor: "green", tagline: "Mascotas a $191.900" },
-      { productMlaId: "MLA62126950", label: "Mejor valor", labelColor: "green", tagline: "Láser + autovaciado a $507.799" },
-      { productMlaId: "MLA66281403", label: "Premium accesible", labelColor: "blue", tagline: "15.000 Pa a $949.657" },
+      { productMlaId: "MLA63784269", label: "Mejor entrada", labelColor: "green", tagline: "Mascotas a {{precio:MLA63784269}}" },
+      { productMlaId: "MLA62126950", label: "Mejor valor", labelColor: "green", tagline: "Láser + autovaciado a {{precio:MLA62126950}}" },
+      { productMlaId: "MLA66281403", label: "Premium accesible", labelColor: "blue", tagline: "15.000 Pa a {{precio:MLA66281403}}" },
       { productMlaId: "MLA26504431", label: "Premium de marca", labelColor: "purple", tagline: "Samsung Jetbot, mejor service" },
     ],
     internalLinks: [
@@ -14246,7 +14246,7 @@ export const guides: Guide[] = [
       { type: "p", content: `¿La limitación honesta? Es un robot de gama de entrada, así que la succión es modesta y en alfombras gruesas o con mucho pelo de mascota se va a quedar corto. Si ese es tu caso, saltate este y mirá el S40 Pro.` },
   
       { type: "h3", title: `2. Xiaomi Robot Vacuum S20 — el del comando de voz` },
-      { type: "product-card", productMlaId: "MLA44714806", label: "Aspira alfombras", labelColor: "blue", ranking: 2, description: `Sube la apuesta sobre el S40c con mapeo, comando de voz y mejor desempeño en alfombras. Buen punto medio si querés algo más que lo básico pero no estás dispuesto a saltar a los casi $950.000 del S40 Pro.` },
+      { type: "product-card", productMlaId: "MLA44714806", label: "Aspira alfombras", labelColor: "blue", ranking: 2, description: `Sube la apuesta sobre el S40c con mapeo, comando de voz y mejor desempeño en alfombras. Buen punto medio si querés algo más que lo básico pero no estás dispuesto a saltar a los casi {{precio:MLA66281403:k}} del S40 Pro.` },
       { type: "p", content: `El [S20](https://meli.la/18CB1Wa) se ubica un escalón arriba del S40c en prestaciones: mantiene el mapeo, suma comando de voz y trabaja mejor sobre alfombras. Está pensado para quien quiere comodidad extra —pedirle por voz que arranque— sin irse al precio del tope de gama.` },
       { type: "callout", calloutVariant: "note", calloutTitle: `Ojo con el nombre`, content: `El "S20" robot aspirador NO es lo mismo que las aspiradoras de mano que aparecen en las mismas búsquedas. Si lo que querés es un robot que ande solo por el piso, este es el correcto; las de mano son otra categoría.` },
   
@@ -14366,7 +14366,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `1. Gadnic 5000 Pa LIDAR AC800 — el tope, y el único que vale "premium"` },
       { type: "product-card", productMlaId: "MLA62126950", label: "Mejor de la línea", labelColor: "green", ranking: 1, description: `El único Gadnic con navegación LIDAR y base autolimpiante. Mapea la casa con láser, aspira con 5000 Pa, se vacía solo en una bolsa de 3.2L y declara 140 minutos de autonomía. Tiene rating 4.8 con más de 1.000 vendidas, lo que para una marca argentina es muchísimo respaldo.` },
       { type: "p", content: `Acá está el salto real de Gadnic. El [AC800](https://meli.la/2UjN3FV) usa **LIDAR** —un láser giratorio que arma el mapa de tu casa— en lugar de chocar y rebotar al azar. Eso significa recorrido ordenado, por habitación, sin dejar el ambiente a medias ni pasar tres veces por el mismo lugar.` },
-      { type: "p", content: `Lo que de verdad cambia la vida es la **base autolimpiante**: el robot vuelve solo a la estación y se vacía en una bolsa de **3.2 litros**, así que en vez de limpiar el depósito todos los días, lo hacés cada varias semanas. Esa función, que hasta 2023 solo veías en equipos de más de un millón, acá viene en un robot de unos $507.799. Sumá **5000 Pa** de succión, batería de **3200 mAh** para unos **140 minutos** de autonomía y la app **Tuya** para horarios y mapa, y entendés por qué junta más de 1.000 reseñas con 4.8 de promedio.` },
+      { type: "p", content: `Lo que de verdad cambia la vida es la **base autolimpiante**: el robot vuelve solo a la estación y se vacía en una bolsa de **3.2 litros**, así que en vez de limpiar el depósito todos los días, lo hacés cada varias semanas. Esa función, que hasta 2023 solo veías en equipos de más de un millón, acá viene en un robot de unos {{precio:MLA62126950:k}}. Sumá **5000 Pa** de succión, batería de **3200 mAh** para unos **140 minutos** de autonomía y la app **Tuya** para horarios y mapa, y entendés por qué junta más de 1.000 reseñas con 4.8 de promedio.` },
       { type: "p", content: `¿La parte honesta? Es Tuya, no un ecosistema propio: la app cumple pero no es la más prolija, y el service no tiene la cobertura de una marca global. Aun así, para el precio, es el robot con autovaciado más accesible de origen argentino que vas a encontrar.` },
       { type: "pull-quote", content: `Pensé que el autovaciado era un chiche, hasta que pasé tres semanas sin tocar el robot. La casa impecable y yo sin acordarme de que existe.`, attribution: `— Comprador en Argentina, 2025` },
   
@@ -14389,10 +14389,10 @@ export const guides: Guide[] = [
   
       { type: "h2", title: `Tabla comparativa de la línea Gadnic`, id: "tabla" },
       { type: "table", headers: [`Modelo`, `Precio`, `Navegación`, `Trapea`, `App`, `Autovaciado`, `Para quién`], rows: [
-        [`[AC800 5000 Pa LIDAR](https://meli.la/2UjN3FV)`, `$507.799`, `LIDAR (láser)`, `No`, `Tuya`, `Sí (3.2L)`, `Casa grande, querés "instalarlo y olvidarte"`],
-        [`[AspiRob](https://meli.la/2mPhJwy)`, `$330.049`, `Mapeo por sensores`, `Sí`, `Sí`, `No`, `Depto con mucho piso duro, querés trapeado`],
-        [`[5 Modos](https://meli.la/2kRauwY)`, `$250.999`, `Básica (sin mapeo)`, `Sí`, `Sí`, `No`, `Monoambiente o depto chico, con app`],
-        [`[3 Modos](https://meli.la/2WGATBu)`, `$270.522`, `Básica (sin mapeo)`, `No`, `No`, `No`, `Probar el formato barato o regalar`],
+        [`[AC800 5000 Pa LIDAR](https://meli.la/2UjN3FV)`, `{{precio:MLA62126950}}`, `LIDAR (láser)`, `No`, `Tuya`, `Sí (3.2L)`, `Casa grande, querés "instalarlo y olvidarte"`],
+        [`[AspiRob](https://meli.la/2mPhJwy)`, `{{precio:MLA36838658}}`, `Mapeo por sensores`, `Sí`, `Sí`, `No`, `Depto con mucho piso duro, querés trapeado`],
+        [`[5 Modos](https://meli.la/2kRauwY)`, `{{precio:MLA45951645}}`, `Básica (sin mapeo)`, `Sí`, `Sí`, `No`, `Monoambiente o depto chico, con app`],
+        [`[3 Modos](https://meli.la/2WGATBu)`, `{{precio:MLA42045783}}`, `Básica (sin mapeo)`, `No`, `No`, `No`, `Probar el formato barato o regalar`],
       ]},
       { type: "p", content: `Ojo con un detalle que sorprende: el **3 Modos figura más caro que el 5 Modos** en algunos lotes, pero ofrece menos (no trae app ni trapeado). Es un caso clásico de precio que no sigue a las features. Si los ves a precio parecido, el [5 Modos](https://meli.la/2kRauwY) es la compra más inteligente de los dos.` },
   
@@ -14518,39 +14518,39 @@ export const guides: Guide[] = [
   
       { type: "h2", id: "lidar-bajo-de-precio", title: `El cambio de 2024-2025: el LIDAR bajó de premium a gama media` },
       { type: "p", content: `Este es el dato que más conviene tener claro antes de comprar. Hasta hace dos años, el **mapeo láser era exclusivo de los robots premium**, de más de un millón de pesos. Si querías LIDAR, pagabas LIDAR. Lo mismo pasó con el **autovaciado** (la base que aspira sola la suciedad del robot): era una función de tope de gama.` },
-      { type: "p", content: `Entre 2024 y 2025 eso cambió. Hoy conseguís **LIDAR real en la gama media**: el [Gadnic AC800](https://meli.la/2UjN3FV) trae láser y base autolimpiante por unos **$507.799**, contra los **$3.476.040** del [Samsung Jetbot LIDAR](https://meli.la/15C617u). Es la misma tecnología de navegación base —láser que escanea 360°— a una fracción del precio.` },
+      { type: "p", content: `Entre 2024 y 2025 eso cambió. Hoy conseguís **LIDAR real en la gama media**: el [Gadnic AC800](https://meli.la/2UjN3FV) trae láser y base autolimpiante por unos **{{precio:MLA62126950:k}}**, contra los **{{precio:MLA26504431}}** del [Samsung Jetbot LIDAR](https://meli.la/15C617u). Es la misma tecnología de navegación base —láser que escanea 360°— a una fracción del precio.` },
       { type: "callout", calloutVariant: "update", content: `Qué significa esto para tu bolsillo: ya **no hace falta gastar un millón** para tener mapeo láser de verdad. La diferencia entre un premium y un gama media con LIDAR ya no está tanto en si mapea, sino en la potencia de succión, la calidad del trapeado, el autovaciado y —clave en Argentina— la marca y el service. De los precios hablamos en detalle en la [guía de precios de robots aspiradora](/guias/robot-aspiradora-precio-argentina).` },
   
       { type: "h2", id: "ranking", title: `Los mejores robots con mapeo que se consiguen en Argentina` },
   
       { type: "h3", title: `1. Samsung Jetbot LIDAR — mapeo láser con marca oficial` },
       { type: "product-card", productMlaId: "MLA26504431", label: "Mejor marca oficial", labelColor: "blue", ranking: 1, description: `LIDAR de verdad, app SmartThings en español y estación de limpieza. Lo que pagás de más acá es la tranquilidad de Samsung con presencia oficial en Argentina: service técnico y repuestos sin depender de importación gris.` },
-      { type: "p", content: `El [Samsung Jetbot LIDAR](https://meli.la/15C617u) es el premium "seguro" de esta lista. Trae mapeo láser, se integra al ecosistema **SmartThings** (la misma app de los electrodomésticos Samsung, en español) y suma estación de limpieza. Es, de hecho, el más caro del catálogo por lejos (ronda los $3.476.040), y no el más potente; lo que pagás es la marca con distribución oficial fuerte en el país. Si ya tenés productos Samsung, te importa tener a quién reclamarle y el presupuesto da, este es tu robot. Si no, Xiaomi también es oficial y sale bastante menos.` },
+      { type: "p", content: `El [Samsung Jetbot LIDAR](https://meli.la/15C617u) es el premium "seguro" de esta lista. Trae mapeo láser, se integra al ecosistema **SmartThings** (la misma app de los electrodomésticos Samsung, en español) y suma estación de limpieza. Está entre los más caros del catálogo (ronda los {{precio:MLA26504431:k}}), y no es el más potente; lo que pagás es la marca con distribución oficial fuerte en el país. Si ya tenés productos Samsung, te importa tener a quién reclamarle y el presupuesto da, este es tu robot. Si no, Xiaomi también es oficial y sale bastante menos.` },
   
       { type: "h3", title: `2. Gadnic 5000 Pa LIDAR (AC800) — el mejor precio por LIDAR + base` },
       { type: "product-card", productMlaId: "MLA62126950", label: "Mejor relación mapeo-precio", labelColor: "green", ranking: 2, description: `LIDAR, base autolimpiante con bolsa de 3.2L, app Tuya y 140 minutos de autonomía, por una fracción de un premium de marca. Con +1.000 vendidas y 4.8 de rating, es la prueba de que el láser bajó de gama.` },
-      { type: "p", content: `El [Gadnic AC800](https://meli.la/2UjN3FV) es el ejemplo perfecto del cambio de 2025: **LIDAR + base autolimpiante** (con bolsa de 3.2 litros, no la vaciás por semanas) por unos $507.799. Tiene **140 minutos de autonomía**, batería de 3.200 mAh y app Tuya. La contra honesta: Tuya es una app genérica (no de marca propia) y el soporte de Gadnic no es el de Samsung. Pero las **+1.000 vendidas con 4.8 de rating** dicen que, para la mayoría, cumple de sobra. Si lo tuyo es máximo mapeo por el menor precio razonable, es este.` },
+      { type: "p", content: `El [Gadnic AC800](https://meli.la/2UjN3FV) es el ejemplo perfecto del cambio de 2025: **LIDAR + base autolimpiante** (con bolsa de 3.2 litros, no la vaciás por semanas) por unos {{precio:MLA62126950:k}}. Tiene **140 minutos de autonomía**, batería de 3.200 mAh y app Tuya. La contra honesta: Tuya es una app genérica (no de marca propia) y el soporte de Gadnic no es el de Samsung. Pero las **+1.000 vendidas con 4.8 de rating** dicen que, para la mayoría, cumple de sobra. Si lo tuyo es máximo mapeo por el menor precio razonable, es este.` },
       { type: "pull-quote", content: `Mapea la casa perfecto y la base le saca la mugre sola, no toco nada en una semana. Por lo que salió comparado con los Xiaomi caros, no me arrepiento ni un poco.`, attribution: `— Comprador en Argentina, 2025` },
   
       { type: "h3", title: `3. Xiaomi S40 Pro 15.000 Pa — el mapeo de Xiaomi con la mayor succión` },
       { type: "product-card", productMlaId: "MLA66281403", label: "Más potencia con mapeo", labelColor: "purple", ranking: 3, description: `Mapeo Xiaomi (de los mejores del mercado) más 15.000 Pa de succión y brazos extensibles que llegan a las esquinas. Si tenés alfombras o mascotas y querés mapeo, este levanta lo que el resto deja.` },
-      { type: "p", content: `El [Xiaomi S40 Pro](https://meli.la/117oW5y) combina el mapeo de Xiaomi —que es de lo mejor que hay en navegación y app— con **15.000 Pa de succión**, muchísima potencia. Suma **brazos extensibles** que sacan el cepillo y la mopa hacia afuera para limpiar bien las esquinas y los bordes, el punto débil clásico de los robots. A unos $949.657 es el premium más accesible del catálogo: no es barato (cuesta casi el doble que el Gadnic AC800), pero es la potencia de tope de gama por menos que cualquier otro premium. Para casas con alfombras o pelos de mascota, la succión hace la diferencia. Más opciones de la marca en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi).` },
+      { type: "p", content: `El [Xiaomi S40 Pro](https://meli.la/117oW5y) combina el mapeo de Xiaomi —que es de lo mejor que hay en navegación y app— con **15.000 Pa de succión**, muchísima potencia. Suma **brazos extensibles** que sacan el cepillo y la mopa hacia afuera para limpiar bien las esquinas y los bordes, el punto débil clásico de los robots. A unos {{precio:MLA66281403:k}} es el premium más accesible del catálogo: no es barato (cuesta casi el doble que el Gadnic AC800), pero es la potencia de tope de gama por menos que cualquier otro premium. Para casas con alfombras o pelos de mascota, la succión hace la diferencia. Más opciones de la marca en la [guía de robots Xiaomi](/guias/robot-aspiradora-xiaomi).` },
   
       { type: "h3", title: `4. Xiaomi X20 Pro — mapeo premium para casas grandes` },
       { type: "product-card", productMlaId: "MLA44240016", label: "Mejor para casas grandes", labelColor: "purple", ranking: 4, description: `Mapeo, sensor de obstáculos y 3 horas de batería. La autonomía extra es justo lo que necesita una casa grande de varios ambientes para limpiarla entera de una pasada.` },
-      { type: "p", content: `El [Xiaomi X20 Pro](https://meli.la/2ViGUz3) apunta a las casas grandes: mapeo, sensor de obstáculos para esquivar objetos en el piso y, sobre todo, **batería de 3 horas**. En una casa de varios ambientes, esa autonomía es lo que le permite limpiar todo en una sola pasada en vez de tener que volver a cargar a mitad de camino. Ronda los $1.314.999, así que es para quien tiene metros que cubrir y los justifica.` },
+      { type: "p", content: `El [Xiaomi X20 Pro](https://meli.la/2ViGUz3) apunta a las casas grandes: mapeo, sensor de obstáculos para esquivar objetos en el piso y, sobre todo, **batería de 3 horas**. En una casa de varios ambientes, esa autonomía es lo que le permite limpiar todo en una sola pasada en vez de tener que volver a cargar a mitad de camino. Ronda los {{precio:MLA44240016:k}}, así que es para quien tiene metros que cubrir y los justifica.` },
   
       { type: "h3", title: `5. Atma láser/mapeo — la entrada más barata al mapeo láser` },
       { type: "product-card", productMlaId: "MLA53579189", label: "Mapeo láser más barato", labelColor: "amber", ranking: 5, description: `Láser + mapeo, 2 en 1 barrido y fregado, 450ml de polvo + 250ml de agua y app WiFi. La puerta de entrada al mundo del mapeo con láser sin saltar a la gama media.` },
-      { type: "p", content: `Si querés mapeo con láser pero no llegás al Gadnic, el [Atma láser/mapeo](https://meli.la/14txuhx) es la entrada más accesible. Trae **láser + mapeo**, funciona como **2 en 1** (barre y friega), tiene depósito de 450 ml de polvo más 250 ml de agua, sensores anticaída y app WiFi a unos $449.999. No esperes la potencia ni el acabado de los Xiaomi, pero como primer robot con mapa de verdad y siendo una marca con presencia en el país, cumple.` },
+      { type: "p", content: `Si querés mapeo con láser pero no llegás al Gadnic, el [Atma láser/mapeo](https://meli.la/14txuhx) es la entrada más accesible. Trae **láser + mapeo**, funciona como **2 en 1** (barre y friega), tiene depósito de 450 ml de polvo más 250 ml de agua, sensores anticaída y app WiFi a unos {{precio:MLA53579189:k}}. No esperes la potencia ni el acabado de los Xiaomi, pero como primer robot con mapa de verdad y siendo una marca con presencia en el país, cumple.` },
   
       { type: "h2", id: "tabla", title: `Tabla comparativa: navegación, succión y precio` },
       { type: "table", headers: [`Modelo`, `Navegación`, `Succión`, `Precio`, `Para quién`], rows: [
-        [`[Samsung Jetbot](https://meli.la/15C617u)`, `LIDAR`, `—`, `$3.476.040`, `Marca oficial y service en AR`],
-        [`[Gadnic AC800](https://meli.la/2UjN3FV)`, `LIDAR`, `5.000 Pa`, `$507.799`, `Mejor precio por LIDAR + base`],
-        [`[Xiaomi S40 Pro](https://meli.la/117oW5y)`, `Mapeo Xiaomi`, `15.000 Pa`, `$949.657`, `Alfombras y mascotas`],
-        [`[Xiaomi X20 Pro](https://meli.la/2ViGUz3)`, `Mapeo + sensor`, `7 kPa`, `$1.314.999`, `Casas grandes (3h batería)`],
-        [`[Atma láser](https://meli.la/14txuhx)`, `Láser + mapeo`, `—`, `$449.999`, `Entrada al mapeo láser`],
+        [`[Samsung Jetbot](https://meli.la/15C617u)`, `LIDAR`, `—`, `{{precio:MLA26504431}}`, `Marca oficial y service en AR`],
+        [`[Gadnic AC800](https://meli.la/2UjN3FV)`, `LIDAR`, `5.000 Pa`, `{{precio:MLA62126950}}`, `Mejor precio por LIDAR + base`],
+        [`[Xiaomi S40 Pro](https://meli.la/117oW5y)`, `Mapeo Xiaomi`, `15.000 Pa`, `{{precio:MLA66281403}}`, `Alfombras y mascotas`],
+        [`[Xiaomi X20 Pro](https://meli.la/2ViGUz3)`, `Mapeo + sensor`, `7 kPa`, `{{precio:MLA44240016}}`, `Casas grandes (3h batería)`],
+        [`[Atma láser](https://meli.la/14txuhx)`, `Láser + mapeo`, `—`, `{{precio:MLA53579189}}`, `Entrada al mapeo láser`],
       ] },
       { type: "callout", calloutVariant: "note", content: `Los precios son de junio de 2026 y se mueven. Donde la ficha no publica la succión en pascales, dejamos el guion en vez de inventar un número.` },
   
@@ -14570,7 +14570,7 @@ export const guides: Guide[] = [
     faq: [
       { question: `¿Qué diferencia hay entre mapeo láser (LIDAR) y giroscópico?`, answer: `El LIDAR usa un láser que gira y mide distancias 360°, así arma un mapa preciso y estable que no se desfasa, ideal para casas grandes y multi-piso, y funciona en la oscuridad. El giroscópico estima la posición con sensores de movimiento internos: limpia en orden y es un salto enorme frente al random, pero en recorridos muy largos puede acumular error. Para departamentos y casas chicas, el giroscópico anda muy bien; para casas grandes, conviene el LIDAR.` },
       { question: `¿Para qué sirve realmente el mapeo en el día a día?`, answer: `Para tres cosas que se usan todo el tiempo: dibujar zonas prohibidas (que no entre al plato del perro o a los cables), mandar el robot a limpiar una sola habitación, y que retome donde dejó después de ir a cargar. En los modelos más completos, además guarda mapas de varios pisos.` },
-      { question: `¿Es verdad que el mapeo láser ya no es solo para robots caros?`, answer: `Sí. Entre 2024 y 2025 el LIDAR bajó de la gama premium a la gama media. Hoy hay modelos con láser real, como el Gadnic AC800, por unos $507.799, contra el $3.476.040 de un Samsung Jetbot LIDAR. La diferencia entre un premium y un gama media con LIDAR ya no está tanto en si mapea, sino en la potencia, el trapeado, el autovaciado y la marca.` },
+      { question: `¿Es verdad que el mapeo láser ya no es solo para robots caros?`, answer: `Sí. Entre 2024 y 2025 el LIDAR bajó de la gama premium a la gama media. Hoy hay modelos con láser real, como el Gadnic AC800, por unos {{precio:MLA62126950:k}}, contra el {{precio:MLA26504431}} de un Samsung Jetbot LIDAR. La diferencia entre un premium y un gama media con LIDAR ya no está tanto en si mapea, sino en la potencia, el trapeado, el autovaciado y la marca.` },
       { question: `¿La torre del LIDAR es un problema?`, answer: `Solo en un caso: agrega unos 3-4 cm de alto, así que un robot con LIDAR puede no pasar por debajo de muebles muy bajos donde uno chato sí entraría. Para la mayoría de las casas no es un problema, pero si tenés muebles muy al ras del piso, medí antes de comprar.` },
       { question: `¿Necesito mapeo láser si vivo en un monoambiente?`, answer: `No necesariamente. En un monoambiente o un dos ambientes chico, un robot con navegación giroscópica limpia ordenado y te ahorra plata. El LIDAR brilla en superficies grandes y en casas de varios ambientes o pisos, donde la precisión del mapa se nota de verdad.` },
       { question: `¿El mapeo láser sirve para aspirar y trapear a la vez?`, answer: `Sí. El mapeo es independiente de la función de trapeado: varios modelos con LIDAR o láser, como el Atma láser/mapeo o el Gadnic AC800, barren o aspiran y pasan la mopa en la misma pasada. El mapa lo que hace es que ese trapeado sea ordenado y por zonas, no al azar. Si querés enfocarte en el trapeado, mirá la guía de mejores robots aspiradora y trapeadora.` },
@@ -14625,7 +14625,7 @@ export const guides: Guide[] = [
   
       { type: "h3", title: `3. Navegación con mapeo láser (LIDAR)` },
       { type: "p", content: `La gama media-alta y premium. El robot lleva arriba una torreta giratoria que dispara un láser y mide la distancia a las paredes y muebles miles de veces por segundo. Con eso arma un **mapa real de tu casa** que ves en la app: podés decirle "limpiá solo la cocina", marcar zonas prohibidas (alrededor del comedero del perro, por ejemplo) o programar por habitación. Es lo más eficiente: recorre todo una sola vez, en líneas perfectas, y sabe exactamente qué le falta.` },
-      { type: "p", content: `La buena noticia de 2024-2025 es que el **LIDAR dejó de ser exclusivo de los modelos carísimos**. Hoy lo tenés en gama media: el [Gadnic 5000 Pa LIDAR (AC800)](https://meli.la/2UjN3FV) ronda los $507.000 y el [Samsung Jetbot LIDAR](https://meli.la/15C617u) lleva el sistema a su tope. Si querés profundizar solo en esto, tenemos una guía dedicada al [mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
+      { type: "p", content: `La buena noticia de 2024-2025 es que el **LIDAR dejó de ser exclusivo de los modelos carísimos**. Hoy lo tenés en gama media: el [Gadnic 5000 Pa LIDAR (AC800)](https://meli.la/2UjN3FV) ronda los {{precio:MLA62126950:k}} y el [Samsung Jetbot LIDAR](https://meli.la/15C617u) lleva el sistema a su tope. Si querés profundizar solo en esto, tenemos una guía dedicada al [mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
       { type: "callout", calloutVariant: "tip", calloutTitle: `Regla rápida de navegación`, content: `Ambiente único y chico → random alcanza. Departamento con 2-3 ambientes → giroscópico. Casa con varias habitaciones o querés zonas prohibidas en la app → LIDAR, sin dudarlo.` },
   
       { type: "h2", id: "aspira", title: `Cómo aspira: cepillos, succión y los Pa` },
@@ -14796,7 +14796,7 @@ export const guides: Guide[] = [
           type: `callout`,
           calloutVariant: `note`,
           calloutTitle: `¿Y los Roomba y Samsung?`,
-          content: `Si buscás marca premium, los iRobot Roomba y el Samsung Jet Bot+ (el más caro del mercado, arriba de $3.400.000) son otra liga de precio. No los pusimos acá porque para la mayoría no se justifica el salto, pero si querés ese nivel, tenemos guía aparte de [robots Roomba](/guias/robot-aspiradora-roomba).`,
+          content: `Si buscás marca premium, los iRobot Roomba y el Samsung Jet Bot+ (premium oficial, arriba del millón) son otra liga de precio. No los pusimos acá porque para la mayoría no se justifica el salto, pero si querés ese nivel, tenemos guía aparte de [robots Roomba](/guias/robot-aspiradora-roomba).`,
         },
   
         { type: `h2`, title: `Tabla rápida: cuál según tu caso`, id: `tabla` },
@@ -14804,12 +14804,12 @@ export const guides: Guide[] = [
           type: `table`,
           headers: [`Tu caso`, `Modelo`, `Precio aprox.`, `Por qué`],
           rows: [
-            [`La mayoría`, `Gadnic AC800`, `$507.799`, `LiDAR y autovaciado a precio medio`],
-            [`Primer robot`, `Xiaomi S40c`, `$317.366`, `Mapeo y app en español, accesible`],
-            [`Presupuesto justo / mascotas`, `Fika Nexos`, `$191.900`, `La más vendida, levanta pelos`],
-            [`Máxima potencia`, `Xiaomi S40 Pro`, `$949.657`, `15.000 Pa y brazo extensible`],
-            [`Marca nacional`, `Atma ATAR21C1DH`, `$244.949`, `Service local, 3 en 1, simple`],
-            [`Sin wifi`, `Kärcher RCV 1`, `$182.000`, `Control remoto, cero apps`],
+            [`La mayoría`, `Gadnic AC800`, `{{precio:MLA62126950:k}}`, `LiDAR y autovaciado a precio medio`],
+            [`Primer robot`, `Xiaomi S40c`, `{{precio:MLA61420449:k}}`, `Mapeo y app en español, accesible`],
+            [`Presupuesto justo / mascotas`, `Fika Nexos`, `{{precio:MLA63784269:k}}`, `La más vendida, levanta pelos`],
+            [`Máxima potencia`, `Xiaomi S40 Pro`, `{{precio:MLA66281403:k}}`, `15.000 Pa y brazo extensible`],
+            [`Marca nacional`, `Atma ATAR21C1DH`, `{{precio:MLA18642318:k}}`, `Service local, 3 en 1, simple`],
+            [`Sin wifi`, `Kärcher RCV 1`, `{{precio:MLA42103831:k}}`, `Control remoto, cero apps`],
           ],
         },
   
@@ -14850,11 +14850,11 @@ export const guides: Guide[] = [
       faq: [
         { question: `¿Cuál es la aspiradora robot más recomendada?`, answer: `Para la mayoría, la [Gadnic AC800](https://meli.la/2UjN3FV): trae navegación LiDAR y base de autovaciado a precio de gama media, dos cosas que normalmente solo vienen en robots de más de un millón de pesos. Tiene 4.8 de rating sobre 548 calificaciones y más de mil vendidas, así que es una compra segura para una casa promedio.` },
         { question: `¿Qué aspiradora robot comprar si es la primera?`, answer: `La [Xiaomi S40c](https://meli.la/16WtjsG). Es accesible, trae mapeo y la app Mi Home está en español y es fácil de configurar. Te deja armar mapas y zonas prohibidas sin volverte loco. Es la mejor entrada al mundo de los robots sin gastar de más ni terminar con algo que choca todo el día.` },
-        { question: `¿Cuál es la mejor aspiradora robot calidad precio?`, answer: `Depende del presupuesto. Si querés gastar poco, la [Fika Nexos](https://meli.la/2P2DXaC) a unos $191.900 es la más vendida y rinde muy bien. Si podés estirarte, la [Gadnic AC800](https://meli.la/2UjN3FV) da LiDAR y autovaciado por bastante menos de lo que cuestan esas funciones en otras marcas. Esas dos son las que mejor relación precio-calidad tienen.` },
+        { question: `¿Cuál es la mejor aspiradora robot calidad precio?`, answer: `Depende del presupuesto. Si querés gastar poco, la [Fika Nexos](https://meli.la/2P2DXaC) a unos {{precio:MLA63784269:k}} es la más vendida y rinde muy bien. Si podés estirarte, la [Gadnic AC800](https://meli.la/2UjN3FV) da LiDAR y autovaciado por bastante menos de lo que cuestan esas funciones en otras marcas. Esas dos son las que mejor relación precio-calidad tienen.` },
         { question: `¿Cuál es la mejor aspiradora robot para mascotas?`, answer: `Si el presupuesto es justo, la [Fika Nexos](https://meli.la/2P2DXaC) levanta bien el pelo y es lo más vendido. Si querés lo más potente para un perro que larga mucho o alfombras de pelo largo, la [Xiaomi S40 Pro](https://meli.la/117oW5y) con 15.000 Pa de succión y brazo extensible es la que más junta.` },
         { question: `¿Qué robot aspiradora conviene en Argentina con marca local?`, answer: `La [Atma ATAR21C1DH](https://meli.la/1TWykcE). Es marca nacional con service en el país, un 3 en 1 simple que aspira, barre y pasa el trapo, sin app ni mapeo. Si te importa la posventa local y no querés pelear con tecnología, es la opción más tranquila.` },
         { question: `¿Hay aspiradoras robot sin wifi ni app?`, answer: `Sí. La [Kärcher RCV 1](https://meli.la/12hGhQB) se maneja con control remoto, sin teléfono ni configuración de wifi. Es de marca alemana conocida en limpieza, simple de usar. No tiene mapas ni funciones inteligentes, pero si lo que querés es apretar un botón y que limpie, es la indicada.` },
-        { question: `¿Vale la pena gastar en un Roomba o un Samsung?`, answer: `Solo si querés marca premium y tenés el presupuesto. El Samsung Jet Bot+ supera los $3.400.000 y los Roomba de iRobot también juegan en gama alta. Para la mayoría no se justifica el salto frente a la Gadnic o la Xiaomi S40 Pro. Si igual querés ese nivel, mirá nuestra [guía de Roomba](/guias/robot-aspiradora-roomba).` },
+        { question: `¿Vale la pena gastar en un Roomba o un Samsung?`, answer: `Solo si querés marca premium y tenés el presupuesto. El Samsung Jet Bot+ y los Roomba de iRobot juegan en gama alta. Para la mayoría no se justifica el salto frente a la Gadnic o la Xiaomi S40 Pro. Si igual querés ese nivel, mirá nuestra [guía de Roomba](/guias/robot-aspiradora-roomba).` },
         { question: `¿Necesito un robot con mapeo láser?`, answer: `Si tu casa tiene varios ambientes o dos pisos, sí: el mapeo láser (LiDAR) hace que limpie por recorridos ordenados y no se pierda. La [Gadnic AC800](https://meli.la/2UjN3FV) lo trae. Si vivís en un monoambiente sin alfombras, no lo necesitás y podés ahorrar con la Fika o la Xiaomi S40c. El detalle está en la [guía de mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
       ],
       internalLinksTitle: `Guías relacionadas`,
@@ -14918,10 +14918,10 @@ export const guides: Guide[] = [
         { type: "p", content: "Van de menor a mayor precio. Para cada uno te digo qué destaca y, sobre todo, dónde se queda corto, que es lo que la ficha de la marca no resalta." },
   
         { type: "h3", title: "1. Roomba 692: el de entrada" },
-        { type: "p", content: "Es el iRobot más barato, $389.999, y es donde más se nota que pagás la marca y no las funciones. El 692 navega al azar: no escanea tu casa ni arma un mapa, simplemente se mueve y rebota hasta cubrir el piso. Tampoco trapea, solo aspira. Tiene 4.5 de rating sobre 39 opiniones, así que el respaldo está." },
+        { type: "p", content: "Es el iRobot más barato, {{precio:MLA20657750}}, y es donde más se nota que pagás la marca y no las funciones. El 692 navega al azar: no escanea tu casa ni arma un mapa, simplemente se mueve y rebota hasta cubrir el piso. Tampoco trapea, solo aspira. Tiene 4.5 de rating sobre 39 opiniones, así que el respaldo está." },
         { type: "product-card", productMlaId: "MLA20657750", label: "El más barato", labelColor: "blue", ranking: 1, description: "El Roomba de entrada. Aspira bien y dura, pero navega sin mapa y no pasa el trapo. A su precio, varios robots de otras marcas ya mapean y trapean." },
         { type: "p", content: "Qué destaca: la durabilidad y el nombre. Si lo único que querés es un robot que aspire todos los días y que te dure años, el 692 cumple y tiene atrás a iRobot. Para departamentos chicos donde el mapeo no cambia mucho, su navegación aleatoria termina cubriendo todo igual." },
-        { type: "p", content: "Dónde se queda corto: en todo lo demás. A $389.999, robots como la Xiaomi S40c (que ronda los $317.366) ya mapean con láser, y el Gadnic AC800 con LIDAR mapea y se vacía solo por unos $507.799. El 692 no hace ninguna de las dos cosas. Y hay una falla que aparece seguido en las opiniones: el cepillo lateral se rompe con el uso. No es un defecto raro, es algo a tener en cuenta." },
+        { type: "p", content: "Dónde se queda corto: en todo lo demás. A {{precio:MLA20657750}}, robots como la Xiaomi S40c (que ronda los {{precio:MLA61420449:k}}) ya mapean con láser, y el Gadnic AC800 con LIDAR mapea y se vacía solo por unos {{precio:MLA62126950:k}}. El 692 no hace ninguna de las dos cosas. Y hay una falla que aparece seguido en las opiniones: el cepillo lateral se rompe con el uso. No es un defecto raro, es algo a tener en cuenta." },
         {
           type: "pull-quote",
           content: "Anda bien y aspira, pero no esperés que arme un recorrido inteligente. Va para todos lados medio al voleo. El cepillo de costado se me rajó a los pocos meses.",
@@ -14929,13 +14929,13 @@ export const guides: Guide[] = [
         },
   
         { type: "h3", title: "2. Roomba Combo i5+: aspira y trapea" },
-        { type: "p", content: "Acá sí cambia la historia. El Combo i5+ aspira y pasa el trapo, y viene con base de autovaciado (la Clean Base): el robot vuelve solo, descarga lo que juntó en una bolsa y vos te olvidás de vaciarlo por semanas. Cuesta $1.287.399 y tiene 4.3 sobre 49 opiniones. Es el más equilibrado de la línea." },
+        { type: "p", content: "Acá sí cambia la historia. El Combo i5+ aspira y pasa el trapo, y viene con base de autovaciado (la Clean Base): el robot vuelve solo, descarga lo que juntó en una bolsa y vos te olvidás de vaciarlo por semanas. Cuesta {{precio:MLA27941233}} y tiene 4.3 sobre 49 opiniones. Es el más equilibrado de la línea." },
         { type: "product-card", productMlaId: "MLA27941233", label: "Aspira y trapea", labelColor: "green", ranking: 2, description: "Suma trapeado y base de autovaciado. El punto medio de la línea: hace lo importante sin saltar al precio del tope de gama." },
         { type: "p", content: "Qué destaca: la base de autovaciado es la función que más cambia el día a día, porque deja de pedirte atención. Sumado al trapeado, el i5+ hace lo que la mayoría busca en un robot moderno. Por funciones, es el Roomba que tiene más sentido para una casa común." },
         { type: "p", content: "Dónde se queda corto: guarda un solo mapa. Si vivís en una casa de un piso, ningún problema. Pero si querés que recuerde la planta baja y la de arriba por separado, este no las distingue: vas a tener que dejarlo remapear cada vez que lo subas. Para una vivienda de varios niveles, es una limitación real." },
   
         { type: "h3", title: "3. Roomba j7: el que esquiva objetos" },
-        { type: "p", content: "El j7 trae la cámara PrecisionVision, que le permite ver y esquivar obstáculos en tiempo real: cables, cargadores, una media tirada, las sorpresas que deja la mascota. Guarda hasta 10 mapas, así que se lleva bien con casas de varios pisos. Cuesta $1.392.999. Ojo con el rating: tiene 5.0, pero sobre una sola opinión, así que es una muestra mínima y no la tomes como representativa." },
+        { type: "p", content: "El j7 trae la cámara PrecisionVision, que le permite ver y esquivar obstáculos en tiempo real: cables, cargadores, una media tirada, las sorpresas que deja la mascota. Guarda hasta 10 mapas, así que se lleva bien con casas de varios pisos. Cuesta {{precio:MLA37360592}}. Ojo con el rating: tiene 5.0, pero sobre una sola opinión, así que es una muestra mínima y no la tomes como representativa." },
         { type: "product-card", productMlaId: "MLA37360592", label: "Esquiva objetos", labelColor: "amber", ranking: 3, description: "La cámara PrecisionVision esquiva cables y obstáculos que otros robots se tragan. Esta versión solo aspira: no trapea ni trae autovaciado." },
         {
           type: "callout",
@@ -14944,31 +14944,31 @@ export const guides: Guide[] = [
           content: "Esta es la j7 estándar (código 94J715030) y SOLO aspira. No trapea ni viene con base de autovaciado. La línea j7 de iRobot mezcla varias versiones (la j7+ trae base, la Combo j7+ suma trapeado), y la publicidad las nombra parecido. Si lo que buscás es esquivar objetos y además trapear, esta no es: mirá el j9 o un Combo.",
         },
         { type: "p", content: "Qué destaca: esquivar objetos es la función estrella y la que mejor justifica el extra de iRobot. Si tenés mascota o sos de dejar cables por el piso, que el robot los vea y los rodee en vez de enredarse y frenar vale mucho. Es la diferencia entre que limpie solo o que tengas que rescatarlo cada dos días." },
-        { type: "p", content: "Dónde se queda corto: solo aspira. A casi $1.400.000, no pasa el trapo ni se vacía solo, dos cosas que el Combo i5+ sí hace por $100.000 menos. Si no te importa esquivar objetos, el i5+ te da más funciones por menos plata. El j7 tiene sentido puntual: querés navegación inteligente y tenés obstáculos en el piso." },
+        { type: "p", content: "Dónde se queda corto: solo aspira. A casi {{precio:MLA37360592:k}}, no pasa el trapo ni se vacía solo, dos cosas que el Combo i5+ sí hace por $100.000 menos. Si no te importa esquivar objetos, el i5+ te da más funciones por menos plata. El j7 tiene sentido puntual: querés navegación inteligente y tenés obstáculos en el piso." },
   
         { type: "h3", title: "4. Roomba j9: el tope de gama" },
-        { type: "p", content: "El j9 hace todo: aspira, trapea, esquiva objetos con cámara y mapea varios ambientes. Y trae la base premium, que se vacía sola y además rellena el tanque de agua del trapeado, así que la autonomía sin que lo toques es la más larga de la línea. Cuesta $2.277.065, con 4.6 sobre 5 opiniones. Es de los robots más caros de todo el catálogo." },
+        { type: "p", content: "El j9 hace todo: aspira, trapea, esquiva objetos con cámara y mapea varios ambientes. Y trae la base premium, que se vacía sola y además rellena el tanque de agua del trapeado, así que la autonomía sin que lo toques es la más larga de la línea. Cuesta {{precio:MLA44718960}}, con 4.6 sobre 5 opiniones. Es de los robots más caros de todo el catálogo." },
         { type: "product-card", productMlaId: "MLA44718960", label: "Tope de gama", labelColor: "purple", ranking: 4, description: "Aspira, trapea, esquiva objetos y mapea. La base se vacía sola y rellena el agua. Hace todo, pero está entre lo más caro que vas a encontrar." },
         { type: "p", content: "Qué destaca: es lo máximo que da iRobot en Argentina hoy. La base que se rellena de agua sola es lo más cómodo del mercado: lo dejás trabajar varios días sin tocarlo. Si querés el robot que menos atención pide y el dinero no es el límite, el j9 lo cumple." },
-        { type: "p", content: "Y acá va la parte honesta, porque es una compra de más de dos millones de pesos. El j9 hace casi lo mismo que el Combo i5+ (aspira, trapea, autovaciado), y le agrega esquivar objetos y el relleno de agua. Esos dos extras cuestan casi $1.000.000 más. La Samsung Jet Bot+, que es premium oficial, ronda los $3.476.040 y queda todavía arriba, pero el Combo i5+ a $1.287.399 te da el grueso de las funciones. Antes de gastar dos millones, preguntate si esquivar cables vale ese salto para tu casa." },
+        { type: "p", content: "Y acá va la parte honesta, porque es una compra de más de dos millones de pesos. El j9 hace casi lo mismo que el Combo i5+ (aspira, trapea, autovaciado), y le agrega esquivar objetos y el relleno de agua. Esos dos extras cuestan más de un millón. La Samsung Jet Bot+, que es premium oficial, ronda los {{precio:MLA26504431:k}}, por debajo del j9, pero el Combo i5+ a {{precio:MLA27941233}} te da el grueso de las funciones. Antes de gastar dos millones, preguntate si esquivar cables vale ese salto para tu casa." },
   
         { type: "h2", title: "Tabla comparativa", id: "tabla" },
         {
           type: "table",
           headers: ["Modelo", "Precio", "Mapea", "Trapea", "Autovaciado", "Para quién"],
           rows: [
-            ["Roomba 692", "$389.999", "No (al azar)", "No", "No", "Depto chico, quiere la marca"],
-            ["Combo i5+", "$1.287.399", "Sí (1 mapa)", "Sí", "Sí", "Casa de un piso, busca lo importante"],
-            ["Roomba j7", "$1.392.999", "Sí (10 mapas)", "No", "No", "Hay cables y mascota en el piso"],
-            ["Roomba j9", "$2.277.065", "Sí (10 mapas)", "Sí", "Sí (+ rellena agua)", "Quiere todo y el precio no importa"],
+            ["Roomba 692", "{{precio:MLA20657750}}", "No (al azar)", "No", "No", "Depto chico, quiere la marca"],
+            ["Combo i5+", "{{precio:MLA27941233}}", "Sí (1 mapa)", "Sí", "Sí", "Casa de un piso, busca lo importante"],
+            ["Roomba j7", "{{precio:MLA37360592}}", "Sí (10 mapas)", "No", "No", "Hay cables y mascota en el piso"],
+            ["Roomba j9", "{{precio:MLA44718960}}", "Sí (10 mapas)", "Sí", "Sí (+ rellena agua)", "Quiere todo y el precio no importa"],
           ],
         },
         { type: "p", content: "Visto así de corrido, el Combo i5+ es el que mejor relación funciones-precio tiene dentro de la marca. El 692 es el más accesible pero el más limitado. El j7 es nicho. Y el j9 es para quien quiere lo mejor sin mirar el ticket." },
   
         { type: "h2", title: "¿Conviene un Roomba o hay mejores por menos?", id: "conviene" },
         { type: "p", content: "Esta es la pregunta que más gente se hace y la que menos respuestas honestas encuentra, porque casi todo lo que se escribe sobre Roomba lo vende. Te la contesto derecho: depende del modelo y de cuánto valores la marca." },
-        { type: "p", content: "Si estás mirando el Roomba 692, casi seguro hay mejor por menos. La Xiaomi S40c mapea con láser por unos $317.366, más barata que el 692, y arma un recorrido inteligente que el Roomba de entrada no hace. El Gadnic AC800 con LIDAR mapea y se vacía solo por unos $507.799, todavía debajo del Combo i5+, sumando una función que el 692 ni se acerca a tener. En la franja baja, la marca te cuesta funciones." },
-        { type: "p", content: "En la franja alta el cálculo cambia un poco. El j9 hace cosas que pocos robots baratos logran igual de bien, sobre todo esquivar objetos con cámara y la durabilidad. Pero aun ahí hay alternativas: la Samsung Jet Bot+ es premium oficial con respaldo local (hoy ronda los $3.476.040, así que no es más barata), y dentro de la misma iRobot el Combo i5+ te da el grueso por casi un millón menos que el j9. La pregunta no es si Roomba es bueno, sino si esquivar cables y el relleno de agua justifican el salto de precio para tu casa." },
+        { type: "p", content: "Si estás mirando el Roomba 692, casi seguro hay mejor por menos. La Xiaomi S40c mapea con láser por unos {{precio:MLA61420449:k}}, más barata que el 692, y arma un recorrido inteligente que el Roomba de entrada no hace. El Gadnic AC800 con LIDAR mapea y se vacía solo por unos {{precio:MLA62126950:k}}, todavía debajo del Combo i5+, sumando una función que el 692 ni se acerca a tener. En la franja baja, la marca te cuesta funciones." },
+        { type: "p", content: "En la franja alta el cálculo cambia un poco. El j9 hace cosas que pocos robots baratos logran igual de bien, sobre todo esquivar objetos con cámara y la durabilidad. Pero aun ahí hay alternativas: la Samsung Jet Bot+ es premium oficial con respaldo local (hoy ronda los {{precio:MLA26504431:k}}), y dentro de la misma iRobot el Combo i5+ te da el grueso por casi un millón menos que el j9. La pregunta no es si Roomba es bueno, sino si esquivar cables y el relleno de agua justifican el salto de precio para tu casa." },
         {
           type: "callout",
           calloutVariant: "tip",
@@ -14981,10 +14981,10 @@ export const guides: Guide[] = [
         {
           type: "list",
           items: [
-            "[Roomba 692](https://meli.la/1aR5CYZ) — **$389.999** (el de entrada, solo aspira, sin mapeo)",
-            "[Roomba Combo i5+](https://meli.la/1bzFCeK) — **$1.287.399** (aspira, trapea y se vacía solo)",
-            "[Roomba j7](https://meli.la/1kHDG1G) — **$1.392.999** (esquiva objetos con cámara, solo aspira)",
-            "[Roomba j9](https://meli.la/1Pdpsod) — **$2.277.065** (el tope de gama, hace todo)",
+            "[Roomba 692](https://meli.la/1aR5CYZ) — **{{precio:MLA20657750}}** (el de entrada, solo aspira, sin mapeo)",
+            "[Roomba Combo i5+](https://meli.la/1bzFCeK) — **{{precio:MLA27941233}}** (aspira, trapea y se vacía solo)",
+            "[Roomba j7](https://meli.la/1kHDG1G) — **{{precio:MLA37360592}}** (esquiva objetos con cámara, solo aspira)",
+            "[Roomba j9](https://meli.la/1Pdpsod) — **{{precio:MLA44718960}}** (el tope de gama, hace todo)",
           ],
         },
         {
@@ -15008,8 +15008,8 @@ export const guides: Guide[] = [
         { type: "verdict", content: "Roomba es una gran marca, pero comprar bien depende del modelo. El 692 cuesta caro para lo poco que hace: a ese precio una Xiaomi o Gadnic mapea y a veces trapea, así que evitalo salvo que la marca te importe mucho. El Combo i5+ es el que más conviene de la línea: aspira, trapea y se vacía solo por un precio razonable dentro de iRobot. El j7 es para quien tiene cables y mascotas y prioriza esquivar objetos. Y el j9 es el mejor de todos, pero a más de dos millones solo tiene sentido si el dinero no es el límite y querés que el robot no te pida nada. Para la mayoría, el i5+ es la respuesta." },
       ],
       faq: [
-        { question: "¿Cuánto cuesta un Roomba en Argentina?", answer: "En junio 2026 va de $389.999 el modelo de entrada (Roomba 692) a $2.277.065 el tope de gama (j9). El Combo i5+ ronda los $1.287.399 y el j7 los $1.392.999. Los precios se mueven con ofertas y cuotas, así que conviene confirmar en la publicación antes de comprar." },
-        { question: "¿Vale la pena un Roomba o hay mejores por menos?", answer: "Depende del modelo. Si mirás el Roomba 692, casi seguro hay mejor por menos: una Xiaomi S40c mapea por unos $317.366 y el Gadnic AC800 mapea y se vacía solo por unos $507.799, cosas que el 692 no hace. En la gama alta, el j9 hace cosas que pocos robots baratos logran igual, pero el Combo i5+ te da el grueso de las funciones por casi un millón menos." },
+        { question: "¿Cuánto cuesta un Roomba en Argentina?", answer: "En junio 2026 va de {{precio:MLA20657750}} el modelo de entrada (Roomba 692) a {{precio:MLA44718960}} el tope de gama (j9). El Combo i5+ ronda los {{precio:MLA27941233:k}} y el j7 los {{precio:MLA37360592}}. Los precios se mueven con ofertas y cuotas, así que conviene confirmar en la publicación antes de comprar." },
+        { question: "¿Vale la pena un Roomba o hay mejores por menos?", answer: "Depende del modelo. Si mirás el Roomba 692, casi seguro hay mejor por menos: una Xiaomi S40c mapea por unos {{precio:MLA61420449:k}} y el Gadnic AC800 mapea y se vacía solo por unos {{precio:MLA62126950:k}}, cosas que el 692 no hace. En la gama alta, el j9 hace cosas que pocos robots baratos logran igual, pero el Combo i5+ te da el grueso de las funciones por casi un millón menos." },
         { question: "¿Qué Roomba aspira y trapea?", answer: "El Roomba Combo i5+ y el j9 aspiran y trapean. El 692 y el j7 estándar solo aspiran. Ojo con la línea j7: la marca tiene varias versiones y la publicidad las mezcla, así que verificá el modelo exacto antes de comprar si querés trapeado." },
         { question: "¿El Roomba 692 mapea la casa?", answer: "No. El 692 usa navegación aleatoria: se mueve y rebota hasta cubrir el piso, pero no escanea ni arma un mapa de tu casa. Para mapeo real a un precio parecido, conviene mirar un robot con láser o LIDAR de otra marca." },
         { question: "¿Cuál es la diferencia entre el Roomba j7 y el j9?", answer: "Los dos esquivan objetos con cámara y guardan hasta 10 mapas. La diferencia es que el j7 estándar solo aspira, mientras que el j9 además trapea y trae base premium que se vacía sola y rellena el agua del trapeado. El j9 hace todo; el j7 estándar se queda en aspirar." },
@@ -15062,13 +15062,13 @@ export const guides: Guide[] = [
         },
         {
           type: "p",
-          content: `Ahora, el detalle que cambia todo: la diferencia de precio entre los dos modelos es brutal. La Powerbot E ronda los $450.000. La Jet Bot+ supera los $3.400.000. No es un escalón, es un abismo. Y ahí es donde tenés que pensar bien qué estás pagando.`,
+          content: `Ahora, el detalle que cambia todo: la diferencia de precio entre los dos modelos es brutal. La Powerbot E ronda los {{precio:MLA18917302:k}}. La Jet Bot+ se va a {{precio:MLA26504431:k}}. No es un escalón, es un abismo. Y ahí es donde tenés que pensar bien qué estás pagando.`,
         },
         {
           type: "callout",
           calloutVariant: "warning",
           calloutTitle: "Ojo con el precio de la Jet Bot+",
-          content: `La Samsung Jet Bot+ es, por lejos, el robot más caro de todo nuestro catálogo: más del doble que la Xiaomi más cara que seguimos. Por la plata de una sola Jet Bot+ comprás siete robots Xiaomi con mapeo. Tiene mapeo LiDAR y autovaciado de verdad, pero pagás un montón por el logo de Samsung. Solo tiene sentido si querés respaldo de multinacional sí o sí y la plata no es un límite real.`,
+          content: `La Samsung Jet Bot+ es de las más caras del catálogo, aunque el Roomba j9 quedó arriba. Por la plata de una sola Jet Bot+ comprás tres o cuatro robots Xiaomi con mapeo. Tiene mapeo LiDAR y autovaciado de verdad, pero pagás un montón por el logo de Samsung. Solo tiene sentido si querés respaldo de multinacional sí o sí y la plata no es un límite real.`,
         },
         { type: "h2", title: "Las dos Samsung, una por una", id: "modelos" },
         { type: "h3", title: "Samsung Jet Bot+ (Jetbot LiDAR): la premium cara" },
@@ -15076,10 +15076,10 @@ export const guides: Guide[] = [
           type: "p",
           content: `La Jet Bot+ es el robot completo de Samsung. Mapea la casa con LiDAR (ese sensor giratorio que arma un plano de los ambientes y le permite moverse ordenado, sin chocar de acá para allá), trae estación de autovaciado Clean Station —vuelve sola a la base y vacía la mugre en una bolsa, así no tocás polvo por semanas— y se controla desde la app SmartThings en español. En uso, mapea bien, esquiva obstáculos y la limpieza es prolija.`,
         },
-        { type: "product-card", productMlaId: "MLA26504431", label: "La premium de Samsung", labelColor: "purple", description: `Mapeo LiDAR, estación de autovaciado Clean Station y app SmartThings en español, con service oficial Samsung. El robot mejor armado que tiene la marca y también el más caro del catálogo por amplio margen.` },
+        { type: "product-card", productMlaId: "MLA26504431", label: "La premium de Samsung", labelColor: "purple", description: `Mapeo LiDAR, estación de autovaciado Clean Station y app SmartThings en español, con service oficial Samsung. El robot mejor armado que tiene la marca, y de los más caros del catálogo.` },
         {
           type: "p",
-          content: `Las opiniones son buenas (4.6 de rating), aunque son pocas: alrededor de once. Tiene sentido, casi nadie paga este precio por un robot. Y acá está el problema. Compite en mapeo y autovaciado contra robots como la Xiaomi S40c o la Gadnic AC800, que hacen lo mismo a una fracción. La Gadnic AC800, por ejemplo, también tiene LiDAR y autovaciado por cerca de $507.799. La Jet Bot+ pelea contra eso a siete veces el precio. Lo único que suma de verdad por esa diferencia es el nombre Samsung y su red de service.`,
+          content: `Las opiniones son buenas (4.6 de rating), aunque son pocas: alrededor de once. Tiene sentido, casi nadie paga este precio por un robot. Y acá está el problema. Compite en mapeo y autovaciado contra robots como la Xiaomi S40c o la Gadnic AC800, que hacen lo mismo a una fracción. La Gadnic AC800, por ejemplo, también tiene LiDAR y autovaciado por cerca de {{precio:MLA62126950:k}}. La Jet Bot+ pelea contra eso a siete veces el precio. Lo único que suma de verdad por esa diferencia es el nombre Samsung y su red de service.`,
         },
         {
           type: "pull-quote",
@@ -15106,7 +15106,7 @@ export const guides: Guide[] = [
           type: "table",
           headers: ["", "Jet Bot+ (LiDAR)", "Powerbot E 2 en 1"],
           rows: [
-            ["Precio aprox.", "$3.476.040", "$449.999"],
+            ["Precio aprox.", "{{precio:MLA26504431:k}}", "{{precio:MLA18917302:k}}"],
             ["Mapeo", "Sí, LiDAR", "No"],
             ["Trapeo", "No (solo aspira)", "Sí, simultáneo"],
             ["Autovaciado", "Sí, Clean Station", "No"],
@@ -15126,7 +15126,7 @@ export const guides: Guide[] = [
         },
         {
           type: "p",
-          content: `Para ponerlo en números: la Xiaomi S40c mapea con láser y sale alrededor de $317.366, con respaldo oficial. La Samsung Jet Bot+ hace algo equivalente en mapeo y suma autovaciado, pero a más de $3.400.000. Si lo que buscás es un robot que mapee la casa de una marca con soporte, la Xiaomi te da casi lo mismo por menos del 10% del precio. Tenemos la comparación completa en la guía de [robot aspiradora Xiaomi](/guias/robot-aspiradora-xiaomi).`,
+          content: `Para ponerlo en números: la Xiaomi S40c mapea con láser y sale alrededor de {{precio:MLA61420449:k}}, con respaldo oficial. La Samsung Jet Bot+ hace algo equivalente en mapeo y suma autovaciado, pero a más de {{precio:MLA26504431:k}}. Si lo que buscás es un robot que mapee la casa de una marca con soporte, la Xiaomi te da casi lo mismo por menos del 10% del precio. Tenemos la comparación completa en la guía de [robot aspiradora Xiaomi](/guias/robot-aspiradora-xiaomi).`,
         },
         {
           type: "p",
@@ -15145,9 +15145,9 @@ export const guides: Guide[] = [
         {
           type: "list",
           items: [
-            "Samsung Powerbot E 2 en 1: ~$449.999 — la opción sensata de la marca. Aspira y trapea, gama media. [Ver en MercadoLibre](https://meli.la/2UEp3uq).",
-            "Samsung Jet Bot+ (LiDAR): ~$3.476.040 — el robot más caro del catálogo. LiDAR + autovaciado. Solo si la plata no es límite. [Ver en MercadoLibre](https://meli.la/15C617u).",
-            "Para referencia: la Xiaomi S40c con mapeo sale ~$317.366 y la Gadnic AC800 con LiDAR y autovaciado ~$507.799, ambas oficiales.",
+            "Samsung Powerbot E 2 en 1: ~{{precio:MLA18917302:k}} — la opción sensata de la marca. Aspira y trapea, gama media. [Ver en MercadoLibre](https://meli.la/2UEp3uq).",
+            "Samsung Jet Bot+ (LiDAR): ~{{precio:MLA26504431:k}} — el premium de marca, con LiDAR + autovaciado. Solo si querés service oficial Samsung. [Ver en MercadoLibre](https://meli.la/15C617u).",
+            "Para referencia: la Xiaomi S40c con mapeo sale ~{{precio:MLA61420449:k}} y la Gadnic AC800 con LiDAR y autovaciado ~{{precio:MLA62126950:k}}, ambas oficiales.",
           ],
         },
         {
@@ -15166,7 +15166,7 @@ export const guides: Guide[] = [
         },
         {
           type: "verdict",
-          content: `De las dos Samsung que se consiguen en Argentina, la Powerbot E 2 en 1 es la que tiene sentido para la mayoría: aspira muy bien, trapea, tiene la marca detrás y sale lo que un robot de gama media debería salir. Vivís con que no mapea y con que la app a veces se hace la difícil. La Jet Bot+ es un robot excelente, pero a más de $3.400.000 es muy difícil de justificar cuando una Xiaomi oficial mapea por una fracción. Comprala solo si querés el ecosistema Samsung completo y el precio te da igual. Para todos los demás: Powerbot E si querés la marca, o una Xiaomi con mapeo si lo que te importa es la función, no el logo.`,
+          content: `De las dos Samsung que se consiguen en Argentina, la Powerbot E 2 en 1 es la que tiene sentido para la mayoría: aspira muy bien, trapea, tiene la marca detrás y sale lo que un robot de gama media debería salir. Vivís con que no mapea y con que la app a veces se hace la difícil. La Jet Bot+ es un robot excelente, pero a más de {{precio:MLA26504431:k}} es muy difícil de justificar cuando una Xiaomi oficial mapea por una fracción. Comprala solo si querés el ecosistema Samsung completo y el precio te da igual. Para todos los demás: Powerbot E si querés la marca, o una Xiaomi con mapeo si lo que te importa es la función, no el logo.`,
         },
       ],
       faq: [
@@ -15176,7 +15176,7 @@ export const guides: Guide[] = [
         },
         {
           question: "¿Por qué la Samsung Jet Bot+ es tan cara?",
-          answer: "Porque es un robot premium importado, con mapeo LiDAR, estación de autovaciado y el respaldo de Samsung. Pero a más de $3.400.000 es el robot más caro del catálogo: pagás mucho por la marca. Una Xiaomi oficial con mapeo hace algo equivalente por una fracción.",
+          answer: "Porque es un robot premium importado, con mapeo LiDAR, estación de autovaciado y el respaldo de Samsung. Pero a {{precio:MLA26504431:k}} pagás mucho por la marca. Una Xiaomi oficial con mapeo hace algo equivalente por una fracción.",
         },
         {
           question: "¿La Samsung Powerbot E mapea la casa?",
@@ -15184,7 +15184,7 @@ export const guides: Guide[] = [
         },
         {
           question: "¿Samsung o Xiaomi para un robot aspiradora?",
-          answer: "Depende. Xiaomi también tiene distribución oficial en Argentina y robots con mapeo láser por mucho menos (la S40c sale ~$317.366). Si buscás mapeo barato, Xiaomi gana claro. La Samsung Powerbot E es competitiva en gama media; la Jet Bot+ solo conviene si querés el ecosistema Samsung y el precio no te importa.",
+          answer: "Depende. Xiaomi también tiene distribución oficial en Argentina y robots con mapeo láser por mucho menos (la S40c sale ~{{precio:MLA61420449:k}}). Si buscás mapeo barato, Xiaomi gana claro. La Samsung Powerbot E es competitiva en gama media; la Jet Bot+ solo conviene si querés el ecosistema Samsung y el precio no te importa.",
         },
         {
           question: "¿La Samsung Jet Bot+ tiene autovaciado?",
@@ -15213,7 +15213,7 @@ export const guides: Guide[] = [
       ],
       quickPicks: [
         { productMlaId: "MLA18917302", label: "La sensata", labelColor: "green", tagline: "Aspira y trapea, gama media, con la marca Samsung por un precio razonable" },
-        { productMlaId: "MLA26504431", label: "La premium", labelColor: "purple", tagline: "LiDAR + autovaciado, pero es el robot más caro del catálogo" },
+        { productMlaId: "MLA26504431", label: "La premium", labelColor: "purple", tagline: "LiDAR + autovaciado, premium de marca con service oficial" },
       ],
     },
   {
@@ -15259,13 +15259,13 @@ export const guides: Guide[] = [
         { type: `p`, content: `Atma tiene dos robots básicos casi gemelos y un modelo Smart que juega en otra categoría. Te los presento en orden de precio, de más barato a más caro, con lo bueno y lo malo de cada uno según las opiniones reales.` },
   
         { type: `h3`, title: `Atma ATAR21C1PI: la entrada de gama` },
-        { type: `p`, content: `Es el Atma más barato y el más vendido de la familia: ronda los $206.055 con 4.5 de rating sobre 904 opiniones, que es un volumen de reseñas serio. Trae cepillo central de rodillo, es pet friendly (aspira pelo de mascota sin enredarse tanto) y mide apenas 8 cm de alto, así que pasa por debajo de la cama y de muebles bajos donde un robot más alto no entra. Para un departamento chico o un ambiente, cumple.` },
+        { type: `p`, content: `Es el Atma más barato y el más vendido de la familia: ronda los {{precio:MLA20033508:k}} con 4.5 de rating sobre 904 opiniones, que es un volumen de reseñas serio. Trae cepillo central de rodillo, es pet friendly (aspira pelo de mascota sin enredarse tanto) y mide apenas 8 cm de alto, así que pasa por debajo de la cama y de muebles bajos donde un robot más alto no entra. Para un departamento chico o un ambiente, cumple.` },
         { type: `product-card`, productMlaId: `MLA20033508`, label: `La más barata`, labelColor: `green`, ranking: 1, description: `El punto de entrada a la marca. Slim, pet friendly y con el respaldo de casi mil opiniones. Ideal para departamento chico si no te molesta que ande chocando.` },
         { type: `p`, content: `Qué hace bien: el precio y el respaldo. Por lo que sale, es difícil pedirle más, y las 904 opiniones con 4.5 promedio te dicen que para mucha gente cumple lo básico, mantener el piso libre de polvo y pelo entre limpiezas a fondo. El perfil slim de 8 cm es una ventaja concreta para los bajo-muebles.` },
         { type: `p`, content: `Dónde se queda corto, y esto sale claro de las opiniones: no mapea ni tiene app, así que se mueve medio a ciegas, choca contra las patas de las sillas y a veces se traba. El trapeado es flojo (más bien pasa un paño húmedo que limpia de verdad) y varios usuarios cuentan que los conductos se tapan si no los limpiás seguido. Y la batería, como casi todas, se degrada con el tiempo: al año largo le dura menos la pasada. Nada raro para un robot de este precio, pero conviene saberlo antes.` },
   
         { type: `h3`, title: `Atma ATAR21C1DH: el 3 en 1` },
-        { type: `p`, content: `El DH es el hermano del PI y se parecen muchísimo. La diferencia que paga la diferencia de precio (ronda los $244.949, con 4.4 sobre 854 opiniones) es la función 3 en 1: aspira, barre y trapea al mismo tiempo, con un tanque de agua de 450 ml. Si querés que en una sola pasada el piso quede aspirado y repasado con un paño húmedo, este es el de la marca que lo hace en simultáneo.` },
+        { type: `p`, content: `El DH es el hermano del PI y se parecen muchísimo. La diferencia que paga la diferencia de precio (ronda los {{precio:MLA18642318:k}}, con 4.4 sobre 854 opiniones) es la función 3 en 1: aspira, barre y trapea al mismo tiempo, con un tanque de agua de 450 ml. Si querés que en una sola pasada el piso quede aspirado y repasado con un paño húmedo, este es el de la marca que lo hace en simultáneo.` },
         { type: `product-card`, productMlaId: `MLA18642318`, label: `3 en 1`, labelColor: `blue`, ranking: 2, description: `Aspira, barre y trapea en una sola pasada, con tanque de 450 ml. Mismo cuerpo que el PI pero con la función húmeda. Tampoco mapea ni tiene app.` },
         { type: `p`, content: `Qué hace bien: la conveniencia del 3 en 1. Para pisos de cerámica o porcelanato en un ambiente sin mucho mueble, que aspire y deje el paso húmedo de una vez te ahorra el balde. El tanque de 450 ml aguanta una pasada de un ambiente mediano sin recargar. Tiene el mismo sensor antichoque que el PI.` },
         { type: `p`, content: `Dónde se queda corto: comparte los límites del PI. Sin mapeo ni app, anda chocando y trabándose; el trapeado es un repaso, no un fregado a fondo. Y hay un dato de oro que repiten los usuarios y que conviene tener anotado: si el robot no enciende o no arranca, antes de pensar que se rompió, sacale el reborde de goma EVA del parachoques y revisá el sensor de golpes. En muchos casos el robot cree que está chocando contra algo y por eso no se mueve. Es la falla más común y la solución es de dos minutos.` },
@@ -15276,7 +15276,7 @@ export const guides: Guide[] = [
         },
   
         { type: `h3`, title: `Atma Smart ATAR2123PI: el del mapeo láser` },
-        { type: `p`, content: `Este es otro animal. El Smart es el único Atma con mapeo láser LiDAR, el sistema que arma un plano de tu casa y limpia por recorridos ordenados en vez de chocar al azar. Ronda los $449.999, más del doble que los básicos, y trae app por WiFi para programar horarios, ver el mapa y dirigirlo por habitación. Es 2 en 1 (aspira y trapea) con depósitos separados: 450 ml para el polvo y 250 ml para el agua, así no se mezclan.` },
+        { type: `p`, content: `Este es otro animal. El Smart es el único Atma con mapeo láser LiDAR, el sistema que arma un plano de tu casa y limpia por recorridos ordenados en vez de chocar al azar. Ronda los {{precio:MLA53579189:k}}, más del doble que los básicos, y trae app por WiFi para programar horarios, ver el mapa y dirigirlo por habitación. Es 2 en 1 (aspira y trapea) con depósitos separados: 450 ml para el polvo y 250 ml para el agua, así no se mezclan.` },
         { type: `product-card`, productMlaId: `MLA53579189`, label: `Mapeo láser`, labelColor: `purple`, ranking: 3, description: `El único Atma que mapea con LiDAR y se maneja por app. Depósitos separados de polvo y agua. Mucho más capaz que los básicos, pero recién salió y tiene muy pocas reseñas.` },
         { type: `p`, content: `Qué hace bien: el mapeo cambia todo. Un robot que sabe dónde está limpia más prolijo, no repite zonas, no se pierde y lo programás desde el celular para que arranque cuando no estás. Los depósitos separados son un acierto frente al sistema todo-en-uno de los básicos. Para una casa con varios ambientes, este es el único Atma que la maneja de verdad.` },
         { type: `p`, content: `Dónde se queda corto, y acá hay que ser honesto: tiene tres opiniones. Tres. Es un modelo nuevo, así que el 4.3 de rating es una muestra mínima que no te dice casi nada todavía; no hay manera de saber cómo se porta a los seis meses ni qué tan bien responde el service para este aparato. Además, la succión es de 2.000 Pa, que es moderada (los modelos potentes de otras marcas llegan a 4.000 o más), el trapeado necesita que humedezcas el paño antes para que rinda, y se traba bajo muebles muy bajos por ser más alto que los slim. Es el mejor Atma, pero comprás con menos información que con los otros dos.` },
@@ -15286,7 +15286,7 @@ export const guides: Guide[] = [
           type: `table`,
           headers: [``, `ATAR21C1PI`, `ATAR21C1DH`, `Smart ATAR2123PI`],
           rows: [
-            [`Precio aprox.`, `$206.055`, `$244.949`, `$449.999`],
+            [`Precio aprox.`, `{{precio:MLA20033508:k}}`, `{{precio:MLA18642318:k}}`, `{{precio:MLA53579189:k}}`],
             [`Mapeo láser`, `No`, `No`, `Sí (LiDAR)`],
             [`App WiFi`, `No`, `No`, `Sí`],
             [`Trapeado`, `Repaso húmedo`, `3 en 1 simultáneo`, `2 en 1, paño pre-humedecido`],
@@ -15304,7 +15304,7 @@ export const guides: Guide[] = [
         {
           type: `list`,
           items: [
-            `**Departamento chico o un ambiente, presupuesto ajustado:** el ATAR21C1PI. Por $206.055 te resuelve el mantenimiento diario del polvo y el pelo. Que choque te va a importar menos en pocos metros cuadrados, y el perfil slim de 8 cm entra debajo de la cama.`,
+            `**Departamento chico o un ambiente, presupuesto ajustado:** el ATAR21C1PI. Por {{precio:MLA20033508}} te resuelve el mantenimiento diario del polvo y el pelo. Que choque te va a importar menos en pocos metros cuadrados, y el perfil slim de 8 cm entra debajo de la cama.`,
             `**Pisos de cerámica o porcelanato y querés que también trapee:** el ATAR21C1DH. La función 3 en 1 te deja el piso aspirado y repasado en una pasada. Pagás unos $40.000 más que el PI por la parte húmeda hecha en simultáneo.`,
             `**Casa con varios ambientes o querés manejarlo desde el celular:** el Smart ATAR2123PI. Es el único que mapea y se programa por app, así que es el que de verdad ordena la limpieza de una casa grande. Asumiendo que estás cómodo siendo de los primeros en probarlo, porque tiene muy pocas reseñas todavía.`,
             `**Tenés mascotas:** cualquiera de los tres aspira pelo, pero el PI viene declarado como pet friendly y es el más barato para esa función. Si además querés mapeo, el Smart.`,
@@ -15317,9 +15317,9 @@ export const guides: Guide[] = [
         {
           type: `list`,
           items: [
-            `[Atma ATAR21C1PI anti-choque](https://meli.la/2BGRKbq) — **$206.055** (la más barata, slim y pet friendly)`,
-            `[Atma ATAR21C1DH 3 en 1](https://meli.la/1TWykcE) — **$244.949** (aspira, barre y trapea a la vez)`,
-            `[Atma Smart ATAR2123PI mapeo láser](https://meli.la/14txuhx) — **$449.999** (el único con LiDAR y app)`,
+            `[Atma ATAR21C1PI anti-choque](https://meli.la/2BGRKbq) — **{{precio:MLA20033508}}** (la más barata, slim y pet friendly)`,
+            `[Atma ATAR21C1DH 3 en 1](https://meli.la/1TWykcE) — **{{precio:MLA18642318}}** (aspira, barre y trapea a la vez)`,
+            `[Atma Smart ATAR2123PI mapeo láser](https://meli.la/14txuhx) — **{{precio:MLA53579189}}** (el único con LiDAR y app)`,
           ],
         },
         {
@@ -15329,7 +15329,7 @@ export const guides: Guide[] = [
         },
   
         { type: `h2`, title: `Por dónde seguir`, id: `por-donde-seguir` },
-        { type: `p`, content: `Si todavía estás decidiendo y querés comparar Atma contra el resto del mercado, estas guías te van a servir. Atma es marca nacional, pero no es la única con presencia y service local: Gadnic es la otra opción argentina fuerte, y su modelo AC800 con LiDAR ronda los $507.799, en el rango del Atma Smart pero con más reseñas. Si lo que querés es mapeo al menor precio, un Xiaomi S40c mapea por unos $317.366, aunque ahí volvés al tema del enchufe extranjero y la garantía importada que ya hablamos.` },
+        { type: `p`, content: `Si todavía estás decidiendo y querés comparar Atma contra el resto del mercado, estas guías te van a servir. Atma es marca nacional, pero no es la única con presencia y service local: Gadnic es la otra opción argentina fuerte, y su modelo AC800 con LiDAR ronda los {{precio:MLA62126950:k}}, en el rango del Atma Smart pero con más reseñas. Si lo que querés es mapeo al menor precio, un Xiaomi S40c mapea por unos {{precio:MLA61420449:k}}, aunque ahí volvés al tema del enchufe extranjero y la garantía importada que ya hablamos.` },
         {
           type: `list`,
           items: [
@@ -15346,11 +15346,11 @@ export const guides: Guide[] = [
       faq: [
         { question: `¿La PI y la DH son la misma aspiradora?`, answer: `Son casi gemelas pero no idénticas. La ATAR21C1PI y la ATAR21C1DH comparten el cuerpo, el perfil slim y el sensor antichoque, y ninguna de las dos mapea ni tiene app. La diferencia que paga el precio extra es la función 3 en 1 de la DH: aspira, barre y trapea al mismo tiempo con un tanque de 450 ml. Si querés trapeado simultáneo, la DH; si te alcanza con aspirar, la PI sale unos $40.000 menos.` },
         { question: `¿El robot aspiradora Atma tiene mapeo?`, answer: `Solo el modelo Smart ATAR2123PI tiene mapeo láser LiDAR y app por WiFi. Los dos modelos básicos (ATAR21C1PI y ATAR21C1DH) no mapean: se mueven con sensor antichoque, lo que significa que andan chocando y cambiando de dirección hasta cubrir el piso. Si el mapeo es importante para vos, el Smart es el único Atma que lo trae.` },
-        { question: `¿Cuánto cuesta un robot aspiradora Atma en Argentina?`, answer: `En junio 2026, el ATAR21C1PI ronda los $206.055, el ATAR21C1DH los $244.949 y el Smart con mapeo láser los $449.999. Los dos básicos están en el rango medio de la categoría y el Smart compite con modelos premium de otras marcas. Confirmá siempre el precio en la publicación porque las ofertas lo mueven bastante.` },
+        { question: `¿Cuánto cuesta un robot aspiradora Atma en Argentina?`, answer: `En junio 2026, el ATAR21C1PI ronda los {{precio:MLA20033508:k}}, el ATAR21C1DH los {{precio:MLA18642318:k}} y el Smart con mapeo láser los {{precio:MLA53579189:k}}. Los dos básicos están en el rango medio de la categoría y el Smart compite con modelos premium de otras marcas. Confirmá siempre el precio en la publicación porque las ofertas lo mueven bastante.` },
         { question: `¿Cómo reseteo mi robot aspiradora Atma si no enciende?`, answer: `El problema más común no es de software sino del sensor de golpes. Antes de pensar que se rompió, sacale el reborde de goma EVA del parachoques delantero y revisá que el sensor antichoque no esté presionado o sucio. Muchos usuarios cuentan que el robot no arranca porque cree que está chocando contra algo. Limpiá el sensor, dejá la base bien apoyada para cargar y volvé a probar. Si aun así no enciende, recurrí al service oficial, que por ser marca nacional lo tenés en el país.` },
         { question: `¿Qué dicen las opiniones del robot aspiradora Atma?`, answer: `Las opiniones de los modelos básicos son buenas para el precio: 4.5 sobre 904 reseñas el PI y 4.4 sobre 854 el DH. Lo positivo se repite en que cumplen el mantenimiento diario y trapean bien en cerámica. Las quejas también se repiten: choca porque no mapea, el trapeado es flojo y los conductos se tapan si no se limpian seguido. El Smart todavía tiene solo tres opiniones por ser nuevo, así que su 4.3 no es representativo aún.` },
         { question: `¿El Atma trapea bien?`, answer: `Trapea, pero con matices. En los modelos básicos es más un repaso con paño húmedo que un fregado a fondo, e igual rinde aceptable en pisos de cerámica o porcelanato. El Smart trapea mejor con depósito de agua separado, aunque necesita que humedezcas el paño antes para que sea efectivo. Para un trapeado de fondo de verdad, ningún robot reemplaza al balde, pero para mantenimiento entre limpiezas alcanza.` },
-        { question: `¿Conviene un Atma o un Xiaomi?`, answer: `Depende de qué priorices. Un Xiaomi como el S40c mapea y limpia muy bien por unos $317.366, menos que el Atma Smart. Pero suele venir con enchufe de otro estándar y garantía importada, así que el día que falla quedás más solo. Atma es marca nacional con service local: pagás un poco más o limpiás un poco menos, pero comprás tranquilo. Si el respaldo no te importa y buscás rendimiento, el Xiaomi; si valorás resolver acá, el Atma.` },
+        { question: `¿Conviene un Atma o un Xiaomi?`, answer: `Depende de qué priorices. Un Xiaomi como el S40c mapea y limpia muy bien por unos {{precio:MLA61420449:k}}, menos que el Atma Smart. Pero suele venir con enchufe de otro estándar y garantía importada, así que el día que falla quedás más solo. Atma es marca nacional con service local: pagás un poco más o limpiás un poco menos, pero comprás tranquilo. Si el respaldo no te importa y buscás rendimiento, el Xiaomi; si valorás resolver acá, el Atma.` },
         { question: `¿El robot aspiradora Atma sirve para pelo de mascota?`, answer: `Sí. El ATAR21C1PI viene declarado como pet friendly y aspira pelo sin enredarse demasiado en el cepillo de rodillo, y los otros dos también levantan pelo. Para una casa con mascotas, el PI es la opción más barata que cumple esa función; si además querés mapeo para una casa grande con perro o gato, el Smart es el indicado.` },
       ],
       internalLinksTitle: `Guías relacionadas`,
@@ -15386,7 +15386,7 @@ export const guides: Guide[] = [
         { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los modelos de Gadnic y Xiaomi que se consiguen hoy en MercadoLibre Argentina y los enfrentamos por las cosas que cambian la experiencia real, no por el marketing: tipo de navegación (LiDAR de verdad vs giroscópica), calidad y idioma de la app, precio por lo que efectivamente trae, service y repuestos locales, y qué tan bien trapea o levanta pelo de mascota. Cuando un producto tiene calificaciones públicas en MercadoLibre, las citamos tal cual; no inventamos números. No tenemos preferencia de marca: nos pagan los links de afiliado, no Gadnic ni Xiaomi.` },
   
         { type: "h2", title: `Gadnic vs Xiaomi: la diferencia de fondo`, id: "diferencia-de-fondo" },
-        { type: "p", content: `Antes de meternos en modelos puntuales conviene entender de qué va cada marca, porque ahí está el 80% de la decisión. **Gadnic** es una marca pensada para vender barato. Su jugada fue clarísima: agarrar tecnología que hasta hace poco era cara —LiDAR, base de autovaciado— y ponerla en equipos que cuestan la mitad que un equivalente de marca grande. El [Gadnic AC800](https://meli.la/2UjN3FV) trae LiDAR y base autolimpiante por $507.799, algo que en otra marca te sale el doble o más.` },
+        { type: "p", content: `Antes de meternos en modelos puntuales conviene entender de qué va cada marca, porque ahí está el 80% de la decisión. **Gadnic** es una marca pensada para vender barato. Su jugada fue clarísima: agarrar tecnología que hasta hace poco era cara —LiDAR, base de autovaciado— y ponerla en equipos que cuestan la mitad que un equivalente de marca grande. El [Gadnic AC800](https://meli.la/2UjN3FV) trae LiDAR y base autolimpiante por {{precio:MLA62126950}}, algo que en otra marca te sale el doble o más.` },
         { type: "p", content: `**Xiaomi** va por otro lado. No es la más barata de su segmento, pero te da la **app Mi Home en español**, integración con el resto de sus aparatos y, sobre todo, volumen de ventas: el [Xiaomi S20](https://meli.la/18CB1Wa) tiene 3.820 opiniones, el modelo más reseñado de todo el rango. Eso es respaldo: miles de personas ya lo usaron y dejaron escrito qué les funcionó y qué no. Xiaomi también tiene distribución cada vez más sólida en Argentina, aunque sus equipos suelen venir con enchufe extranjero.` },
         { type: "p", content: `Resumido sin vueltas: con Gadnic pagás menos por la misma ficha técnica, a cambio de una app genérica (Tuya) y de depender del vendedor ante una falla. Con Xiaomi pagás un poco más por una experiencia de software más prolija y por el peso de una marca conocida, aceptando algunos detalles como el enchufe que viene de afuera. Ninguna de las dos está mal. Dependen de qué te importa.` },
   
@@ -15395,8 +15395,8 @@ export const guides: Guide[] = [
         { type: "h2", title: `Ronda por ronda`, id: "ronda-por-ronda" },
   
         { type: "h3", title: `Navegación y mapeo` },
-        { type: "p", content: `Acá las dos marcas pelean parejo, y eso es noticia. El [Gadnic AC800](https://meli.la/2UjN3FV) trae LiDAR real —un láser giratorio que arma el plano de tu casa y limpia ordenado por filas— por $507.799. Del lado de Xiaomi, el LiDAR más accesible es el [Xiaomi S40c](https://meli.la/16WtjsG), a $317.366. O sea: la puerta de entrada al mapeo láser es más barata en Xiaomi, pero el Gadnic suma autovaciado que el S40c no tiene.` },
-        { type: "product-card", productMlaId: "MLA61420449", label: "LiDAR más barato", labelColor: "green", description: `El láser más accesible de Xiaomi: mapea tu casa y limpia ordenado, con app Mi Home en español, por menos de $320.000. Trae mopa de mantenimiento, batería justa y mide unos 10 cm de alto.` },
+        { type: "p", content: `Acá las dos marcas pelean parejo, y eso es noticia. El [Gadnic AC800](https://meli.la/2UjN3FV) trae LiDAR real —un láser giratorio que arma el plano de tu casa y limpia ordenado por filas— por {{precio:MLA62126950}}. Del lado de Xiaomi, el LiDAR más accesible es el [Xiaomi S40c](https://meli.la/16WtjsG), a {{precio:MLA61420449}}. O sea: la puerta de entrada al mapeo láser es más barata en Xiaomi, pero el Gadnic suma autovaciado que el S40c no tiene.` },
+        { type: "product-card", productMlaId: "MLA61420449", label: "LiDAR más barato", labelColor: "green", description: `El láser más accesible de Xiaomi: mapea tu casa y limpia ordenado, con app Mi Home en español, por menos de {{precio:MLA61420449:k}}. Trae mopa de mantenimiento, batería justa y mide unos 10 cm de alto.` },
         { type: "p", content: `Ojo con un detalle que el marketing de Gadnic mezcla a propósito: el [Gadnic 5 Modos](https://meli.la/2kRauwY) usa palabras como "3D" o "Vision", pero navega por **giroscopio**, no guarda el mapa de tu casa y limpia por patrones, no por plano. Está bien para un ambiente chico, pero no lo compres esperando lo que hace un LiDAR. Si querés mapeo de verdad, en Gadnic mirá el AC800 o el [AspiRob](https://meli.la/2mPhJwy); en Xiaomi, cualquiera de los tres tiene LiDAR. Lo desarrollamos en la [guía de robot aspiradora con mapeo láser](/guias/robot-aspiradora-con-mapeo-laser).` },
   
         { type: "h3", title: `App y control` },
@@ -15405,9 +15405,9 @@ export const guides: Guide[] = [
         { type: "callout", calloutVariant: "warning", calloutTitle: "Las dos comparten una limitación", content: `Tanto el Gadnic AC800 como los Xiaomi funcionan solo en WiFi de 2.4 GHz, no en 5 GHz. Si tu router moderno emite las dos bandas con el mismo nombre, vas a tener que separarlas o crear una red 2.4 GHz para que el robot conecte. No es defecto de marca: es lo normal en casi todos los robots de este rango.` },
   
         { type: "h3", title: `Precio por prestación` },
-        { type: "p", content: `Si lo único que mirás es cuánta tecnología te llevás por peso, Gadnic pega más fuerte. El caso más claro: el [Gadnic AC800](https://meli.la/2UjN3FV) te da LiDAR **más** base de autovaciado por $507.799. El Xiaomi más reseñado, el [S20](https://meli.la/18CB1Wa), tiene LiDAR pero **no** trae autovaciado y cuesta $446.859. Por unos $60.000 más, el Gadnic suma una función que en Xiaomi no aparece hasta modelos bastante más caros.` },
+        { type: "p", content: `Si lo único que mirás es cuánta tecnología te llevás por peso, Gadnic pega más fuerte. El caso más claro: el [Gadnic AC800](https://meli.la/2UjN3FV) te da LiDAR **más** base de autovaciado por {{precio:MLA62126950}}. El Xiaomi más reseñado, el [S20](https://meli.la/18CB1Wa), tiene LiDAR pero **no** trae autovaciado y cuesta {{precio:MLA44714806}}. Por unos $40.000 más, el Gadnic suma una función que en Xiaomi no aparece hasta modelos bastante más caros.` },
         { type: "product-card", productMlaId: "MLA62126950", label: "Más función por peso", labelColor: "green", description: `LiDAR y base autolimpiante de 3.2L juntos, a precio que ninguna marca grande toca: aspirás y te olvidás de vaciar el depósito por semanas. La contra es la app Tuya genérica y la falta de service de multinacional.` },
-        { type: "p", content: `Pero "más prestación por peso" no es lo mismo que "mejor compra". Si entrás a comparar la base más accesible de cada marca, el [Xiaomi S40c](https://meli.la/16WtjsG) a $317.366 te da LiDAR y la app buena por menos plata que el AC800, resignando el autovaciado. Y arriba de todo está el [Xiaomi S40 Pro](https://meli.la/117oW5y) a $949.657, que juega en otra liga de potencia. La cuenta no es "cuál es más barato", es "qué función estás pagando".` },
+        { type: "p", content: `Pero "más prestación por peso" no es lo mismo que "mejor compra". Si entrás a comparar la base más accesible de cada marca, el [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} te da LiDAR y la app buena por menos plata que el AC800, resignando el autovaciado. Y arriba de todo está el [Xiaomi S40 Pro](https://meli.la/117oW5y) a {{precio:MLA66281403}}, que juega en otra liga de potencia. La cuenta no es "cuál es más barato", es "qué función estás pagando".` },
   
         { type: "h3", title: `Service, repuestos y enchufe` },
         { type: "p", content: `Este es el terreno incómodo para las dos, cada una a su manera. **Gadnic** no tiene la red de service de una multinacional: ante una falla dependés del vendedor de MercadoLibre y de la garantía de la plataforma. Para la mayoría no es drama —el robot anda o no anda dentro de la garantía— pero si te gusta tener un 0800 de marca atrás, Gadnic no te lo da.` },
@@ -15417,7 +15417,7 @@ export const guides: Guide[] = [
         { type: "h3", title: `Trapeado y mascotas` },
         { type: "p", content: `Las dos marcas trapean, pero con la misma advertencia de siempre: un robot arrastra un paño húmedo, no friega. Levanta polvo fino y marca de pisada fresca, no la mancha de salsa pegada del domingo. Dicho eso, hay diferencias. El [Xiaomi S20](https://meli.la/18CB1Wa) trae una **mopa simple no rotatoria** y un cepillo **sin sistema anti-enredo**, así que con pelo largo de mascota se enrosca y hay que limpiarlo seguido.` },
         { type: "product-card", productMlaId: "MLA44714806", label: "El más reseñado", labelColor: "blue", description: `El LiDAR más vendido de Xiaomi, con 3.820 opiniones: el respaldo de reseñas más grande del rango. Las contras a tener en cuenta: enchufe extranjero, mopa simple no rotatoria y cepillo sin anti-enredo, que sufre con pelo largo de mascota.` },
-        { type: "p", content: `Si en tu casa hay mascotas que sueltan mucho pelo, el factor que más pesa es la succión y el cepillo. Ahí el premium accesible de Xiaomi, el [S40 Pro](https://meli.la/117oW5y) con 15.000 Pa y brazo extensible, es lo más bestia del catálogo de ambas marcas. Del lado del trapeado equilibrado con mapeo, el [Gadnic AspiRob](https://meli.la/2mPhJwy) aspira y trapea con detección de obstáculos por menos de $335.000, aunque sin autovaciado.` },
+        { type: "p", content: `Si en tu casa hay mascotas que sueltan mucho pelo, el factor que más pesa es la succión y el cepillo. Ahí el premium accesible de Xiaomi, el [S40 Pro](https://meli.la/117oW5y) con 15.000 Pa y brazo extensible, es lo más bestia del catálogo de ambas marcas. Del lado del trapeado equilibrado con mapeo, el [Gadnic AspiRob](https://meli.la/2mPhJwy) aspira y trapea con detección de obstáculos por menos de {{precio:MLA36838658:k}}, aunque sin autovaciado.` },
   
         { type: "h2", title: `Tabla comparativa lado a lado`, id: "tabla-comparativa" },
         { type: "table", headers: [`Criterio`, `Gadnic`, `Xiaomi`], rows: [
@@ -15428,14 +15428,14 @@ export const guides: Guide[] = [
           [`Enchufe`, `Estándar argentino`, `Extranjero, suele necesitar adaptador`],
           [`Service`, `Vía vendedor + garantía MercadoLibre`, `Marca con distribución creciente + garantía ML`],
           [`Respaldo de reseñas`, `Hasta 1.293 opiniones (5 Modos)`, `Hasta 3.820 opiniones (S20)`],
-          [`Desde`, `$250.999 (5 Modos)`, `$317.366 (S40c)`],
+          [`Desde`, `{{precio:MLA45951645}} (5 Modos)`, `{{precio:MLA61420449}} (S40c)`],
         ] },
         { type: "p", content: `Una lectura rápida: Gadnic gana en función por peso (LiDAR + autovaciado barato) y en el detalle del enchufe; Xiaomi gana en app, en potencia tope y en cantidad de reseñas. Para ver dónde cae cada modelo en el panorama de precios completo del rubro, mirá la [guía de precios de robot aspiradora en Argentina](/guias/robot-aspiradora-precio-argentina).` },
   
         { type: "h2", title: `Cuándo conviene cada una`, id: "cuando-conviene" },
         { type: "list", items: [
           `**Elegí Gadnic si...** querés la mayor cantidad de tecnología por la menor plata, te interesa el autovaciado sin pagar premium, no te molesta una app genérica como Tuya y preferís un enchufe que entra directo en el toma. El [AC800](https://meli.la/2UjN3FV) es el ejemplo más claro de esa lógica.`,
-          `**Elegí Gadnic si...** tu presupuesto es ajustado y un ambiente chico te alcanza: el [5 Modos](https://meli.la/2kRauwY) a $250.999 es la entrada más barata, aceptando que navega por giroscopio y no guarda mapa.`,
+          `**Elegí Gadnic si...** tu presupuesto es ajustado y un ambiente chico te alcanza: el [5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}} es la entrada más barata, aceptando que navega por giroscopio y no guarda mapa.`,
           `**Elegí Xiaomi si...** la app y la facilidad de uso te importan de verdad: Mi Home en español es la experiencia más prolija del rango. El [S40c](https://meli.la/16WtjsG) es la puerta de entrada más accesible al LiDAR de la marca.`,
           `**Elegí Xiaomi si...** querés el respaldo del modelo más probado: el [S20](https://meli.la/18CB1Wa) con sus 3.820 reseñas es lo más testeado que vas a encontrar, aceptando el enchufe extranjero.`,
           `**Elegí Xiaomi si...** tenés alfombras o mascotas y la potencia manda: el [S40 Pro](https://meli.la/117oW5y) con 15.000 Pa y brazo extensible es el más fuerte de las dos marcas.`,
@@ -15444,12 +15444,12 @@ export const guides: Guide[] = [
         { type: "h2", title: `Precios reales (junio 2026)`, id: "precios" },
         { type: "p", content: `Estos son los precios verificados de los modelos clave de cada marca en junio de 2026, ordenados de menor a mayor. Los robots se mueven mucho según ofertas y tipo de cambio, así que tomalos como referencia del escalón en el que juega cada uno.` },
         { type: "list", items: [
-          `[Gadnic 5 Modos](https://meli.la/2kRauwY) — **$250.999** · entrada Gadnic, navegación giroscópica, sin mapa guardado.`,
-          `[Xiaomi S40c](https://meli.la/16WtjsG) — **$317.366** · el LiDAR más accesible de Xiaomi, app Mi Home en español.`,
-          `[Gadnic AspiRob](https://meli.la/2mPhJwy) — **$330.049** · mapeo + trapeado con detección de obstáculos, sin autovaciado.`,
-          `[Xiaomi S20](https://meli.la/18CB1Wa) — **$446.859** · el LiDAR más vendido y reseñado, enchufe extranjero.`,
-          `[Gadnic AC800 5000 Pa LIDAR](https://meli.la/2UjN3FV) — **$507.799** · LiDAR + base de autovaciado, la más completa por peso.`,
-          `[Xiaomi S40 Pro](https://meli.la/117oW5y) — **$949.657** · 15.000 Pa y brazo extensible, el premium accesible.`,
+          `[Gadnic 5 Modos](https://meli.la/2kRauwY) — **{{precio:MLA45951645}}** · entrada Gadnic, navegación giroscópica, sin mapa guardado.`,
+          `[Xiaomi S40c](https://meli.la/16WtjsG) — **{{precio:MLA61420449}}** · el LiDAR más accesible de Xiaomi, app Mi Home en español.`,
+          `[Gadnic AspiRob](https://meli.la/2mPhJwy) — **{{precio:MLA36838658}}** · mapeo + trapeado con detección de obstáculos, sin autovaciado.`,
+          `[Xiaomi S20](https://meli.la/18CB1Wa) — **{{precio:MLA44714806}}** · el LiDAR más vendido y reseñado, enchufe extranjero.`,
+          `[Gadnic AC800 5000 Pa LIDAR](https://meli.la/2UjN3FV) — **{{precio:MLA62126950}}** · LiDAR + base de autovaciado, la más completa por peso.`,
+          `[Xiaomi S40 Pro](https://meli.la/117oW5y) — **{{precio:MLA66281403}}** · 15.000 Pa y brazo extensible, el premium accesible.`,
         ] },
         { type: "trust-block", trustVariant: "pricing", content: `Cómo verificamos los precios: chequeamos cada modelo directamente en su publicación de MercadoLibre Argentina en junio de 2026 y tomamos el precio del vendedor con mejor reputación y stock. Cuando un producto sube o baja de forma sostenida, actualizamos la guía. No mostramos "precios tachados" inflados: el número que ves es el que pagás hoy.` },
   
@@ -15462,7 +15462,7 @@ export const guides: Guide[] = [
           `[Robot aspiradora: precios en Argentina](/guias/robot-aspiradora-precio-argentina) — qué pagás en cada escalón de precio.`,
         ] },
   
-        { type: "verdict", content: `No hay un ganador absoluto, y desconfiá de quien te diga que sí. Si tu lógica es "máxima función por la menor plata", **Gadnic** se lleva la pulseada: el [AC800](https://meli.la/2UjN3FV) te da LiDAR y autovaciado por $507.799, algo que Xiaomi no ofrece a ese precio, y entra directo en el toma sin adaptador. Si lo que valorás es la **app prolija en español, el respaldo de marca y la cantidad de reseñas**, te conviene Xiaomi: arrancá con el [S40c](https://meli.la/16WtjsG) si querés gastar poco, jugá seguro con el [S20](https://meli.la/18CB1Wa) por su volumen de opiniones, o andá al [S40 Pro](https://meli.la/117oW5y) si tenés mascotas y la potencia manda. Elegí por lo que vas a usar todos los días —la app y el service— más que por el número de succión del marketing.` },
+        { type: "verdict", content: `No hay un ganador absoluto, y desconfiá de quien te diga que sí. Si tu lógica es "máxima función por la menor plata", **Gadnic** se lleva la pulseada: el [AC800](https://meli.la/2UjN3FV) te da LiDAR y autovaciado por {{precio:MLA62126950}}, algo que Xiaomi no ofrece a ese precio, y entra directo en el toma sin adaptador. Si lo que valorás es la **app prolija en español, el respaldo de marca y la cantidad de reseñas**, te conviene Xiaomi: arrancá con el [S40c](https://meli.la/16WtjsG) si querés gastar poco, jugá seguro con el [S20](https://meli.la/18CB1Wa) por su volumen de opiniones, o andá al [S40 Pro](https://meli.la/117oW5y) si tenés mascotas y la potencia manda. Elegí por lo que vas a usar todos los días —la app y el service— más que por el número de succión del marketing.` },
       ],
       faq: [
         { question: `¿Es mejor Gadnic o Xiaomi para robot aspiradora?`, answer: `Ninguna es "mejor" en abstracto: depende de qué priorices. Gadnic te da más tecnología por menos plata (LiDAR y autovaciado baratos, como en el [AC800](https://meli.la/2UjN3FV)) pero con app genérica y sin service de multinacional. Xiaomi te da la app Mi Home en español, más reseñas y respaldo de marca, pero suele venir con enchufe extranjero y arranca un poco más caro en mapeo con el [S40c](https://meli.la/16WtjsG).` },
@@ -15470,7 +15470,7 @@ export const guides: Guide[] = [
         { question: `¿El robot Gadnic tiene mapeo láser real?`, answer: `Depende del modelo. El [Gadnic AC800](https://meli.la/2UjN3FV) y el [AspiRob](https://meli.la/2mPhJwy) sí tienen mapeo, el AC800 con LiDAR. Pero ojo con el [5 Modos](https://meli.la/2kRauwY): aunque el marketing diga "3D" o "Vision", navega por giroscopio y no guarda el mapa de tu casa. Si querés LiDAR de verdad en Gadnic, andá al AC800.` },
         { question: `¿Por qué los Xiaomi vienen con enchufe extranjero?`, answer: `Porque muchos llegan a Argentina con la ficha del mercado de origen y no siempre se cambia antes de la venta. No es un problema grave: con un adaptador o cambiando la ficha lo resolvés. Pero conviene saberlo antes de comprar para no encontrarte con la sorpresa al abrir la caja. Gadnic suele venir con enchufe estándar argentino.` },
         { question: `¿Cuál conviene si tengo mascotas que sueltan pelo?`, answer: `Para mascotas manda la succión y el cepillo. El [Xiaomi S40 Pro](https://meli.la/117oW5y) con 15.000 Pa es el más potente de las dos marcas. Ojo con el [Xiaomi S20](https://meli.la/18CB1Wa): su cepillo no tiene sistema anti-enredo, así que con pelo largo se enrosca y hay que limpiarlo seguido. Del lado Gadnic, el [AC800](https://meli.la/2UjN3FV) con 5.000 Pa y autovaciado también rinde bien.` },
-        { question: `¿Cuál es más barata, Gadnic o Xiaomi?`, answer: `La entrada más barata es Gadnic con el [5 Modos](https://meli.la/2kRauwY) a $250.999, pero navega por giroscopio sin guardar mapa. Si querés mapeo láser barato, el [Xiaomi S40c](https://meli.la/16WtjsG) a $317.366 es la opción más accesible con app en español. Y el [Gadnic AC800](https://meli.la/2UjN3FV) a $507.799 es el que más función te da por peso, sumando autovaciado.` },
+        { question: `¿Cuál es más barata, Gadnic o Xiaomi?`, answer: `La entrada más barata es Gadnic con el [5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}}, pero navega por giroscopio sin guardar mapa. Si querés mapeo láser barato, el [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} es la opción más accesible con app en español. Y el [Gadnic AC800](https://meli.la/2UjN3FV) a {{precio:MLA62126950}} es el que más función te da por peso, sumando autovaciado.` },
         { question: `¿Tienen garantía y service en Argentina?`, answer: `Las dos las comprás por MercadoLibre, así que tu primera protección es la garantía de la plataforma y la reputación del vendedor. Xiaomi tiene además distribución de marca creciente en el país; Gadnic depende más del vendedor ante una falla. En cualquier caso, fijate que el vendedor tenga buena reputación y muchas ventas: ese dato te cubre más que el logo.` },
         { question: `¿Vale la pena pagar el autovaciado del Gadnic AC800?`, answer: `Si te molesta vaciar el depósito a mano cada par de días, sí. La base del [AC800](https://meli.la/2UjN3FV) aspira sola el polvo del robot a una bolsa de 3.2 litros, así que no la tocás por semanas. Es una función que en Xiaomi no aparece en el S40c, S20 ni S40 Pro, y que en otras marcas se paga mucho más caro. Por unos $60.000 más que el S20, es un salto de comodidad real.` },
       ],
@@ -15483,7 +15483,7 @@ export const guides: Guide[] = [
       ],
       internalLinksTitle: "Guías relacionadas",
       quickPicks: [
-        { productMlaId: "MLA62126950", label: "Más función por peso", labelColor: "green", tagline: "Gadnic: LiDAR + autovaciado por $507.799" },
+        { productMlaId: "MLA62126950", label: "Más función por peso", labelColor: "green", tagline: "Gadnic: LiDAR + autovaciado por {{precio:MLA62126950}}" },
         { productMlaId: "MLA61420449", label: "Mejor app barata", labelColor: "blue", tagline: "Xiaomi S40c: LiDAR y Mi Home por menos plata" },
         { productMlaId: "MLA44714806", label: "El más probado", labelColor: "purple", tagline: "Xiaomi S20: 3.820 reseñas, el más vendido" },
         { productMlaId: "MLA66281403", label: "Más potencia", labelColor: "amber", tagline: "Xiaomi S40 Pro: 15.000 Pa para mascotas" },
@@ -15547,7 +15547,7 @@ export const guides: Guide[] = [
       { type: "p", content: `El escalón de comodidad máxima: a diferencia de la Citiz & Milk (espumador aparte), la Lattissima One tiene un **depósito de leche integrado a la máquina** y hace cappuccino o latte macchiato apretando **un solo botón**, todo en un paso. Es la forma más cómoda de tomar bebidas con leche en el sistema Nespresso.` },
       { type: "p", content: `Lo honesto, y es importante: esta publicación tiene **solo 20 calificaciones** —muy pocas frente a las 2.663 de la Essenza Mini—, así que el respaldo estadístico es chico y lo decimos de frente. Sumá que el material es plástico (un comprador esperaba mejor terminación), que hay que **limpiar el circuito de leche cada uso**, y que es la más cara del catálogo. Se justifica solo si la leche es central en tu café y querés cero maniobra.` },
 
-      { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Nespresso Inissia?", content: `La [Nespresso Inissia](/producto/MLA23385666) ($350.000) es otra de entrada del catálogo, en color crema. La dejamos fuera del ranking principal por un motivo honesto: su publicación todavía no tiene calificaciones, así que no hay opiniones de compradores que la respalden. Si querés la entrada más probada, la Essenza Mini gana por respaldo y precio.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Nespresso Inissia?", content: `La [Nespresso Inissia](/producto/MLA23385666) ({{precio:MLA23385666}}) es otra de entrada del catálogo, en color crema. La dejamos fuera del ranking principal por un motivo honesto: su publicación todavía no tiene calificaciones, así que no hay opiniones de compradores que la respalden. Si querés la entrada más probada, la Essenza Mini gana por respaldo y precio.` },
 
       { type: "h2", title: `Nespresso clásico vs Vertuo: por qué este ranking es solo clásico`, id: "clasico-vs-vertuo" },
       { type: "p", content: `Nespresso tiene **dos sistemas distintos y no compatibles entre sí**. El **clásico (Original)** es el de toda la vida: cápsula chica, espresso y lungo, presión típica de 19 bares. Es el de las tres máquinas de este ranking, y el de las cápsulas que conseguís en cualquier supermercado, boutique Nespresso o MercadoLibre.` },
@@ -15565,11 +15565,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: precio, sistema y leche`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Sistema`, `Leche`, `Para quién`], rows: [
-        [`[Nespresso Essenza Mini](https://meli.la/1g3EDxT)`, `$200.000`, `Cápsulas Nespresso`, `No (solo café)`, `La mejor para casi todos`],
-        [`[Nespresso Citiz & Milk](https://meli.la/2nHo9mw)`, `$368.699`, `Cápsulas Nespresso`, `Sí, espumador Aeroccino aparte`, `Capuchino con diseño en acero`],
-        [`[Nespresso Lattissima One](https://meli.la/1gpz3ft)`, `$515.880`, `Cápsulas Nespresso`, `Sí, integrada one-touch`, `Máxima comodidad con leche`],
-        [`[Nespresso Inissia](https://meli.la/1rEtjYg)`, `$350.000`, `Cápsulas Nespresso`, `No (solo café)`, `Entrada en crema (sin opiniones aún)`],
-        [`[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `$209.999`, `Molido + cápsulas Nespresso`, `Sí, espumador a vapor`, `Entrar al sistema por menos`],
+        [`[Nespresso Essenza Mini](https://meli.la/1g3EDxT)`, `{{precio:MLA24730361}}`, `Cápsulas Nespresso`, `No (solo café)`, `La mejor para casi todos`],
+        [`[Nespresso Citiz & Milk](https://meli.la/2nHo9mw)`, `{{precio:MLA29654829}}`, `Cápsulas Nespresso`, `Sí, espumador Aeroccino aparte`, `Capuchino con diseño en acero`],
+        [`[Nespresso Lattissima One](https://meli.la/1gpz3ft)`, `{{precio:MLA23437114}}`, `Cápsulas Nespresso`, `Sí, integrada one-touch`, `Máxima comodidad con leche`],
+        [`[Nespresso Inissia](https://meli.la/1rEtjYg)`, `{{precio:MLA23385666}}`, `Cápsulas Nespresso`, `No (solo café)`, `Entrada en crema (sin opiniones aún)`],
+        [`[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `{{precio:MLA18562154}}`, `Molido + cápsulas Nespresso`, `Sí, espumador a vapor`, `Entrar al sistema por menos`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu cafetera Nespresso`, id: "como-elegir" },
@@ -15592,12 +15592,12 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Para la mayoría: la **Nespresso Essenza Mini** ($200.000) — la de entrada, la más vendida y mejor reseñada del catálogo (4.8★ en 2.663 opiniones), espresso con un botón en un cuerpo chiquito. Si tomás capuchino o latte y querés diseño en acero, la **Citiz & Milk** suma espumador Aeroccino por $168.000 más. Si querés la leche integrada one-touch y el presupuesto no es el límite, la **Lattissima One** (con la advertencia de sus pocas opiniones todavía). Y si querés entrar al sistema por menos, la **Smartlife SL-EC8501** acepta cápsulas Nespresso compatibles y además hace molido, con 1.656 opiniones. El dato a no olvidar: el costo real está en la cápsula — calculalo antes de comprar.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor cafetera Nespresso para empezar?`, answer: `La [Nespresso Essenza Mini](https://meli.la/1g3EDxT): es la de entrada, la más vendida y mejor puntuada del catálogo (4.8 estrellas en 2.663 calificaciones). Hace espresso y lungo con un botón, es la más compacta de la familia y cuesta $200.000. Para empezar en el sistema con el mayor respaldo de opiniones, es la elección obvia. La única salvedad: hace solo café, no espuma leche.` },
+      { question: `¿Cuál es la mejor cafetera Nespresso para empezar?`, answer: `La [Nespresso Essenza Mini](https://meli.la/1g3EDxT): es la de entrada, la más vendida y mejor puntuada del catálogo (4.8 estrellas en 2.663 calificaciones). Hace espresso y lungo con un botón, es la más compacta de la familia y cuesta {{precio:MLA24730361}}. Para empezar en el sistema con el mayor respaldo de opiniones, es la elección obvia. La única salvedad: hace solo café, no espuma leche.` },
       { question: `¿Qué Nespresso conviene para capuchino y latte?`, answer: `Las que traen espuma de leche. La [Citiz & Milk](https://meli.la/2nHo9mw) ($368.699) viene con espumador Aeroccino aparte y cuerpo de acero; la [Lattissima One](https://meli.la/1gpz3ft) ($515.880) tiene la leche integrada y hace cappuccino de un toque, aunque hay que limpiar el circuito de leche cada uso. Si no te molesta usar el espumador aparte, la Citiz & Milk tiene más opiniones y cuesta menos; si querés cero maniobra, la Lattissima One.` },
       { question: `¿Cuánto cuesta una cápsula Nespresso y cómo bajo el gasto?`, answer: `La cápsula Nespresso es el formato de café más caro por taza — ese es el peaje de la comodidad. El precio exacto varía según la variedad y dónde compres (boutique, supermercado, MercadoLibre, compatibles de terceros). Para bajar el gasto, el consejo que más se repite en las reseñas es usar cápsulas recargables, que llenás con tu propio café molido. También están las compatibles de terceros, más baratas que las originales.` },
       { question: `¿Qué diferencia hay entre Nespresso clásico y Vertuo?`, answer: `Son dos sistemas distintos y no compatibles. El clásico (Original) usa una cápsula chica, hace espresso y lungo y es el de todas las máquinas de esta guía; sus cápsulas se consiguen en todos lados. El Vertuo usa una cápsula más grande, lee un código de barras para ajustar la extracción y hace tazas más largas, pero sus máquinas son importadas y caras (suelen arrancar arriba de $700.000) y las cápsulas son más difíciles de conseguir en Argentina. Para la mayoría acá, hoy conviene el sistema clásico.` },
       { question: `¿La Nespresso usa cápsulas Dolce Gusto?`, answer: `No. Aunque ambas marcas son de la familia Nestlé, son sistemas distintos y no intercambiables: una máquina Nespresso no acepta cápsulas Dolce Gusto, ni al revés. Nespresso es la especialista en espresso puro; Dolce Gusto, en variedad de bebidas con leche a un precio de entrada más bajo. El detalle está en la [guía de cafeteras Dolce Gusto](/guias/cafetera-dolce-gusto).` },
-      { question: `¿Se puede tomar café en cápsulas Nespresso sin comprar una máquina Nespresso?`, answer: `Sí. Varias cafeteras express del catálogo aceptan cápsulas Nespresso compatibles y además hacen café molido. La más probada es la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($209.999, 4.6 estrellas en 1.656 opiniones), que trae un portafiltro para cápsulas tipo Nespresso y otro para molido. Es la forma de entrar al sistema por menos, a cambio de algo más de ritual que una Nespresso pura.` },
+      { question: `¿Se puede tomar café en cápsulas Nespresso sin comprar una máquina Nespresso?`, answer: `Sí. Varias cafeteras express del catálogo aceptan cápsulas Nespresso compatibles y además hacen café molido. La más probada es la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ({{precio:MLA18562154}}, 4.6 estrellas en 1.656 opiniones), que trae un portafiltro para cápsulas tipo Nespresso y otro para molido. Es la forma de entrar al sistema por menos, a cambio de algo más de ritual que una Nespresso pura.` },
       { question: `¿Vale la pena la Lattissima One frente a la Citiz & Milk?`, answer: `Solo si la leche integrada one-touch te importa de verdad. La Lattissima One ($515.880) hace cappuccino de un toque con la leche en la máquina; la Citiz & Milk ($368.699) hace lo mismo con el espumador Aeroccino aparte (dos pasos), es de acero, tiene más opiniones (130 vs 20) y cuesta $147.000 menos. Si no te molesta el espumador aparte, la Citiz & Milk es la compra más probada; si querés cero maniobra, la Lattissima One.` },
     ],
     internalLinks: [
@@ -15629,7 +15629,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por menos de $200.000" },
       { productMlaId: "MLA23909880", label: "Mejor marca-precio", labelColor: "blue", tagline: "La Oster de entrada: espumador de leche con depósito" },
       { productMlaId: "MLA47077888", label: "Mejor con molinillo", labelColor: "purple", tagline: "Café recién molido sin pagar tope de gama" },
-      { productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", tagline: "Espresso de 15 bares por $133.999" },
+      { productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", tagline: "Espresso de 15 bares por {{precio:MLA36409137}}" },
     ],
     intro: [
       `La **cafetera express** te cambia el café de todos los días: pasás del de jarra o del instantáneo a un espresso con crema, hecho con presión real. Y en Argentina 2026 hay una buena noticia: ya no hace falta gastar un millón de pesos. Hoy una máquina de 15 o 20 bares con espumador de leche arranca en $134.000, y la franja de $190.000 a $300.000 concentra opciones con cientos o miles de calificaciones reales.`,
@@ -15659,7 +15659,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Las reseñas la describen como la primera cafetera espresso ideal: fácil de usar, fácil de limpiar y con resultado de verdad. Los contras que reconocen: no corta la extracción sola, el café sale a temperatura justa (precalentá la taza) y algunas piezas son de plástico más sencillo de lo que la marca sugiere. Nada que cambie la ecuación: a $289.999 es la forma más barata de tener una Oster espresso real en la mesada.` },
 
       { type: "h3", title: `3. Ultracomb CE-6108 — la más barata con bomba real` },
-      { type: "product-card", productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", ranking: 3, description: `Espresso de 15 bares reales por $133.999, con 4.6 estrellas en 211 calificaciones. La puerta de entrada al espresso sin inversión.` },
+      { type: "product-card", productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", ranking: 3, description: `Espresso de 15 bares reales por {{precio:MLA36409137}}, con 4.6 estrellas en 211 calificaciones. La puerta de entrada al espresso sin inversión.` },
       { type: "p", content: `Si querés probar si el mundo espresso es para vos sin comprometer el presupuesto, esta es la respuesta. La publicación dice 19 bares pero la ficha técnica oficial dice 15 (inflar ese número es costumbre en la categoría), y 15 bares alcanzan perfectamente para un espresso con crema. Tiene vaporizador para la leche y 211 calificaciones que promedian 4.6.` },
       { type: "p", content: `El recorte respecto de las de arriba está en los detalles: el espumador es una lanza simple sin depósito, no acepta cápsulas y la terminación es más plástica. Para un espresso diario sin pretensiones, cumple. Para capuchinos cómodos todos los días, mejor subir un escalón.` },
 
@@ -15674,17 +15674,17 @@ export const guides: Guide[] = [
       { type: "h3", title: `6. Oster Perfect Brew EM7301 — el tope de gama que vale la pena` },
       { type: "product-card", productMlaId: "MLA48828162", label: "Tope de gama", labelColor: "purple", ranking: 6, description: `Molinillo integrado, 15 bares, corte automático de dosis y el mejor rating de todas: 4.9 estrellas. Para quien quiere la experiencia completa.` },
       { type: "p", content: `El mejor rating del catálogo entero de cafeteras: **4.9 estrellas**. La Perfect Brew muele, dosifica y corta sola, con la terminación y el respaldo de la línea premium de Oster. A $838.899 no es para todos, y por eso no encabeza el ranking: la mayoría de la gente obtiene el 90% de esta experiencia con máquinas de un tercio del precio. Pero si el café es tu hobby y querés la versión sin compromisos, es esta.` },
-      { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Peabody automática?", content: `La [Peabody PE-CE5023IX](https://meli.la/1n158eE) ($981.818) es la única totalmente automática del catálogo: molinillo + extracción y corte sin intervención. Tiene 4.8 estrellas pero solo 75 calificaciones, por eso no está en el ranking principal. Si la automatización total es tu prioridad y el precio no te frena, es la opción.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Y la Peabody automática?", content: `La [Peabody PE-CE5023IX](https://meli.la/1n158eE) ({{precio:MLA53370426}}) es la única totalmente automática del catálogo: molinillo + extracción y corte sin intervención. Tiene 4.8 estrellas pero solo 75 calificaciones, por eso no está en el ranking principal. Si la automatización total es tu prioridad y el precio no te frena, es la opción.` },
 
       { type: "h2", title: `Tabla comparativa: precios y prestaciones`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Presión`, `Extras`, `Para quién`], rows: [
-        [`[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `$194.111`, `20 bar`, `Cápsulas Nespresso + espumador`, `La mejor para casi todos`],
-        [`[Oster BVSTEM5501B](https://meli.la/1SZrW1t)`, `$289.999`, `15 bar`, `Espumador con depósito de leche`, `Capuchinos diarios sin técnica`],
-        [`[Ultracomb CE-6108](https://meli.la/11sCGja)`, `$133.999`, `15 bar`, `Vaporizador simple`, `Probar espresso sin invertir`],
-        [`[Liliana AC985 2 en 1](https://meli.la/2t3mqay)`, `$174.521`, `20 bar`, `Cápsulas Nespresso + service local`, `Quien prioriza marca nacional`],
-        [`[Peabody PE-CE5010N](https://meli.la/2uKu8pv)`, `$520.336`, `19 bar`, `Molinillo integrado`, `Del grano a la taza, sin tope de gama`],
-        [`[Oster Perfect Brew EM7301](https://meli.la/2amGBqP)`, `$838.899`, `15 bar`, `Molinillo + corte automático`, `El hobbista del café`],
-        [`[Peabody PE-CE5023IX](https://meli.la/1n158eE)`, `$981.818`, `19 bar`, `Totalmente automática`, `Cero intervención, presupuesto alto`],
+        [`[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `{{precio:MLA18562154}}`, `20 bar`, `Cápsulas Nespresso + espumador`, `La mejor para casi todos`],
+        [`[Oster BVSTEM5501B](https://meli.la/1SZrW1t)`, `{{precio:MLA23909880}}`, `15 bar`, `Espumador con depósito de leche`, `Capuchinos diarios sin técnica`],
+        [`[Ultracomb CE-6108](https://meli.la/11sCGja)`, `{{precio:MLA36409137}}`, `15 bar`, `Vaporizador simple`, `Probar espresso sin invertir`],
+        [`[Liliana AC985 2 en 1](https://meli.la/2t3mqay)`, `{{precio:MLA62547964}}`, `20 bar`, `Cápsulas Nespresso + service local`, `Quien prioriza marca nacional`],
+        [`[Peabody PE-CE5010N](https://meli.la/2uKu8pv)`, `{{precio:MLA47077888}}`, `19 bar`, `Molinillo integrado`, `Del grano a la taza, sin tope de gama`],
+        [`[Oster Perfect Brew EM7301](https://meli.la/2amGBqP)`, `{{precio:MLA48828162}}`, `15 bar`, `Molinillo + corte automático`, `El hobbista del café`],
+        [`[Peabody PE-CE5023IX](https://meli.la/1n158eE)`, `{{precio:MLA53370426}}`, `19 bar`, `Totalmente automática`, `Cero intervención, presupuesto alto`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu cafetera express: lo que importa de verdad`, id: "como-elegir" },
@@ -15708,10 +15708,10 @@ export const guides: Guide[] = [
     ],
     faq: [
       { question: `¿Qué significa que una cafetera express tenga 15 o 20 bares?`, answer: `Es la presión máxima de la bomba. El espresso se extrae entre 9 y 15 bares, así que cualquier máquina con bomba real de 15 o más hace café con crema. Los 19 o 20 bares de algunas publicaciones son presión de pico, no de extracción: no hacen mejor café por sí solos. Lo que sí importa es que tenga bomba y no un sistema de vapor sin presión.` },
-      { question: `¿Cuál es la mejor cafetera express calidad-precio en Argentina?`, answer: `Por datos, la [Smartlife SL-EC8501](https://meli.la/1QMpWAw): $194.111, 20 bares, acepta café molido y cápsulas Nespresso, y junta 4.6 estrellas en 1.656 calificaciones, la base de opiniones más grande de su rango. Su único costo oculto es el estreno: manual flojo y un tapón de transporte escondido en el depósito que hay que sacar.` },
+      { question: `¿Cuál es la mejor cafetera express calidad-precio en Argentina?`, answer: `Por datos, la [Smartlife SL-EC8501](https://meli.la/1QMpWAw): {{precio:MLA18562154}}, 20 bares, acepta café molido y cápsulas Nespresso, y junta 4.6 estrellas en 1.656 calificaciones, la base de opiniones más grande de su rango. Su único costo oculto es el estreno: manual flojo y un tapón de transporte escondido en el depósito que hay que sacar.` },
       { question: `¿Conviene una cafetera express o una de cápsulas?`, answer: `Depende del ritual. La express da el mejor café y el costo por taza más bajo (café molido), a cambio de preparar y limpiar. Las cápsulas ganan en velocidad y cero limpieza, pero cada taza cuesta más. Camino del medio: las duales como la Smartlife SL-EC8501 aceptan ambos sistemas, o una [Dolce Gusto Piccolo XS](https://meli.la/1f93McA) si la comodidad gana siempre.` },
       { question: `¿Las cafeteras express cortan solas el café?`, answer: `Las económicas no: vos frenás la extracción, y se aprende en dos o tres cafés. El corte automático de dosis aparece recién en la gama del molinillo integrado, como la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP) o la [Peabody PE-CE5023IX](https://meli.la/1n158eE) totalmente automática.` },
-      { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se siente: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a $520.336, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da el 90% por menos.` },
+      { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se siente: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a {{precio:MLA47077888}}, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da el 90% por menos.` },
       { question: `¿Qué cafetera express compro si es mi primera vez?`, answer: `Una con bomba real y comunidad grande de usuarios: la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) o, con menos presupuesto, la [Ultracomb CE-6108](https://meli.la/11sCGja) a $133.999. Las dos tienen cientos o miles de reseñas que ya documentaron todos los errores de principiante. Evitá las "express" de menos de $100.000: casi ninguna tiene bomba de verdad.` },
     ],
     internalLinks: [
@@ -15781,9 +15781,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: las automáticas frente a frente`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Molinillo`, `Corte de dosis`, `Ideal para`], rows: [
-        [`[Oster Perfect Brew EM7301](https://meli.la/2amGBqP)`, `$960.000`, `Cónico, 30 niveles`, `Automático`, `Café de especialidad en casa`],
-        [`[Peabody PE-CE5023IX](https://meli.la/1n158eE)`, `$1.044.999`, `Integrado`, `Totalmente automático`, `Comodidad total y volumen`],
-        [`[Peabody PE-CE5010N](https://meli.la/2uKu8pv)`, `$520.336`, `Cónico de muelas, 20 niveles`, `Manual`, `Entrar al molinillo sin gastar de más`],
+        [`[Oster Perfect Brew EM7301](https://meli.la/2amGBqP)`, `{{precio:MLA48828162}}`, `Cónico, 30 niveles`, `Automático`, `Café de especialidad en casa`],
+        [`[Peabody PE-CE5023IX](https://meli.la/1n158eE)`, `{{precio:MLA53370426}}`, `Integrado`, `Totalmente automático`, `Comodidad total y volumen`],
+        [`[Peabody PE-CE5010N](https://meli.la/2uKu8pv)`, `{{precio:MLA47077888}}`, `Cónico de muelas, 20 niveles`, `Manual`, `Entrar al molinillo sin gastar de más`],
       ] },
 
       { type: "h2", title: `Cómo elegir una cafetera automática`, id: "como-elegir" },
@@ -15796,7 +15796,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una cafetera automática en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $520.000:** la franja de entrada al molinillo integrado. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) semiautomática es la mejor relación precio de la categoría.`,
+        `**Alrededor de {{precio:MLA47077888:k}}:** la franja de entrada al molinillo integrado. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) semiautomática es la mejor relación precio de la categoría.`,
         `**$900.000 a $1.000.000:** automatización seria. La [Oster Perfect Brew](https://meli.la/2amGBqP) con corte automático y el mejor rating del catálogo (4.9).`,
         `**Más de $1.000.000:** totalmente automática. La [Peabody PE-CE5023IX](https://meli.la/1n158eE) del grano a la taza, con tanque grande y doble termoblock.`,
         `**Ojo con las "automáticas" muy baratas:** por debajo de los $300.000 casi ninguna trae molinillo de muelas real. Suele ser café molido con nombre rimbombante.`,
@@ -15808,7 +15808,7 @@ export const guides: Guide[] = [
     faq: [
       { question: `¿Qué diferencia hay entre una cafetera automática y una express?`, answer: `Una express común usa café ya molido y vos cortás la extracción a mano. Una cafetera automática suma un molinillo integrado que muele el grano en el momento, y según el modelo también corta la dosis sola. La diferencia se siente en la taza: el grano recién molido conserva aromas que el café envasado pierde a las semanas. La [Oster Perfect Brew](https://meli.la/2amGBqP) hace las dos cosas.` },
       { question: `¿Cuál es la mejor cafetera automática en Argentina?`, answer: `Por datos, la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP): molinillo cónico de 30 niveles, corte automático de dosis y 4.9 estrellas en 110 calificaciones, el rating más alto de las cafeteras del catálogo. Si querés totalmente automática del grano a la taza, la [Peabody PE-CE5023IX](https://meli.la/1n158eE).` },
-      { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se nota: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a $520.336, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da gran parte del resultado por menos.` },
+      { question: `¿Vale la pena el molinillo integrado?`, answer: `Si tomás café todos los días, es el upgrade que más se nota: el grano recién molido conserva aromas que el café envasado pierde en semanas. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) lo ofrece a {{precio:MLA47077888}}, la mitad de lo que costaba esa función hace un par de años. Si tomás café ocasional, un buen café molido fresco te da gran parte del resultado por menos.` },
       { question: `¿Qué es mejor, una cafetera semiautomática o totalmente automática?`, answer: `Depende de cuánto quieras hacer vos. La semiautomática con molinillo (como la [Peabody PE-CE5010N](https://meli.la/2uKu8pv)) muele pero te deja cortar la extracción: más barata y con algo de ritual. La totalmente automática (como la [Peabody PE-CE5023IX](https://meli.la/1n158eE)) hace todo sola: ideal si querés apretar un botón y olvidarte, pero más cara.` },
       { question: `¿Cuánto cuesta una cafetera automática con molinillo?`, answer: `En junio 2026, desde unos $520.336 la [Peabody PE-CE5010N](https://meli.la/2uKu8pv) semiautomática, alrededor de $960.000 la [Oster Perfect Brew](https://meli.la/2amGBqP) con corte automático, y por encima del millón la [Peabody PE-CE5023IX](https://meli.la/1n158eE) totalmente automática. Por debajo de $300.000 casi ninguna trae molinillo de muelas real.` },
       { question: `¿Qué molinillo conviene en una cafetera automática?`, answer: `El cónico de muelas, no el de cuchillas. Las muelas muelen parejo y dejan regular el grosor, lo que cambia el sabor del espresso; las cuchillas muelen disparejo y se calientan. Las tres cafeteras de esta guía usan sistema cónico o de muelas, que es lo que conviene buscar.` },
@@ -15873,9 +15873,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: los tres sistemas`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Sistema`, `Qué hace`, `Ideal para`], rows: [
-        [`[Dolce Gusto Piccolo XS](https://meli.la/1f93McA)`, `$129.990`, `Dolce Gusto`, `Café y bebidas con leche`, `Variedad de bebidas, máquina accesible`],
-        [`[Nespresso Essenza Mini](https://meli.la/1g3EDxT)`, `$200.000`, `Nespresso Original`, `Espresso corto e intenso`, `El que quiere espresso de verdad`],
-        [`[Smartlife 3 en 1](https://meli.la/1soScPB)`, `$528.131`, `Nespresso + Dolce Gusto + molido`, `Todo, con espumador`, `No atarse a un solo sistema`],
+        [`[Dolce Gusto Piccolo XS](https://meli.la/1f93McA)`, `{{precio:MLA15705813}}`, `Dolce Gusto`, `Café y bebidas con leche`, `Variedad de bebidas, máquina accesible`],
+        [`[Nespresso Essenza Mini](https://meli.la/1g3EDxT)`, `{{precio:MLA24730361}}`, `Nespresso Original`, `Espresso corto e intenso`, `El que quiere espresso de verdad`],
+        [`[Smartlife 3 en 1](https://meli.la/1soScPB)`, `{{precio:MLA28314113}}`, `Nespresso + Dolce Gusto + molido`, `Todo, con espumador`, `No atarse a un solo sistema`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu cafetera de cápsulas`, id: "como-elegir" },
@@ -15888,8 +15888,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una cafetera de cápsulas en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $130.000:** la franja accesible. La [Dolce Gusto Piccolo XS](https://meli.la/1f93McA), la de cápsulas más vendida y probada del país.`,
-        `**Alrededor de $200.000:** el espresso Nespresso. La [Essenza Mini](https://meli.la/1g3EDxT) compacta, la entrada a la línea con la mejor relación.`,
+        `**Alrededor de {{precio:MLA15705813:k}}:** la franja accesible. La [Dolce Gusto Piccolo XS](https://meli.la/1f93McA), la de cápsulas más vendida y probada del país.`,
+        `**Alrededor de {{precio:MLA24730361:k}}:** el espresso Nespresso. La [Essenza Mini](https://meli.la/1g3EDxT) compacta, la entrada a la línea con la mejor relación.`,
         `**Más de $500.000:** la multisistema. La [Smartlife 3 en 1](https://meli.la/1soScPB) que acepta Nespresso, Dolce Gusto y café molido, con espumador.`,
         `**No te olvides de las cápsulas:** el costo real es máquina más cápsulas. Calculá cuántos cafés tomás por día antes de elegir el sistema.`,
       ] },
@@ -15966,9 +15966,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: de cuántos pocillos`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Pocillos`, `Material`, `Ideal para`], rows: [
-        [`[Volturno Clásica 12](https://meli.la/2CNfobr)`, `$126.333`, `12`, `Aluminio`, `Café para varios, la más probada`],
-        [`[Volturno Ebano 6](https://meli.la/1Gja5GB)`, `$116.638`, `6`, `Aluminio antiadherente`, `Uso diario de 1 a 3 personas`],
-        [`[Volturno Ebano 9](https://meli.la/2FRvGw8)`, `$132.969`, `9`, `Aluminio antiadherente`, `Tamaño medio con diseño`],
+        [`[Volturno Clásica 12](https://meli.la/2CNfobr)`, `{{precio:MLA29464859}}`, `12`, `Aluminio`, `Café para varios, la más probada`],
+        [`[Volturno Ebano 6](https://meli.la/1Gja5GB)`, `{{precio:MLA53927506}}`, `6`, `Aluminio antiadherente`, `Uso diario de 1 a 3 personas`],
+        [`[Volturno Ebano 9](https://meli.la/2FRvGw8)`, `{{precio:MLA53925844}}`, `9`, `Aluminio antiadherente`, `Tamaño medio con diseño`],
       ] },
 
       { type: "h2", title: `Cómo elegir una cafetera italiana`, id: "como-elegir" },
@@ -16061,9 +16061,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `¿Y si ninguna de las dos? Las alternativas honestas`, id: "alternativas" },
       { type: "list", items: [
-        `**Menos presupuesto:** la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) da 20 bares y acepta cápsulas Nespresso, con 1.656 calificaciones. Es nuestra mejor elección general en la [guía de cafeteras express](/guias/cafetera-express).`,
+        `**Menos presupuesto:** la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ({{precio:MLA18562154}}) da 20 bares y acepta cápsulas Nespresso, con 1.656 calificaciones. Es nuestra mejor elección general en la [guía de cafeteras express](/guias/cafetera-express).`,
         `**Molinillo por menos plata:** la [Peabody PE-CE5010N](https://meli.la/2uKu8pv) ($520.336) tiene molinillo integrado a $318.000 menos que la Perfect Brew. Resigna el corte automático y la marca.`,
-        `**Cero ritual:** si en el fondo querés café rico sin preparación, la [Dolce Gusto Piccolo XS](https://meli.la/1f93McA) ($155.132) con sus 8.392 calificaciones es la salida de cápsulas más probada del país.`,
+        `**Cero ritual:** si en el fondo querés café rico sin preparación, la [Dolce Gusto Piccolo XS](https://meli.la/1f93McA) ({{precio:MLA15705813}}) con sus 8.392 calificaciones es la salida de cápsulas más probada del país.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál Oster comprar`, id: "veredicto" },
@@ -16226,7 +16226,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `¿Y si ninguna de las dos? Las alternativas honestas`, id: "alternativas" },
       { type: "list", items: [
         `**Más rating, mismo concepto:** la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP) ($838.899) tiene molinillo integrado, corte automático de dosis y el mejor rating de todas las cafeteras que analizamos: 4.9 estrellas. Cuesta $318.000 más que la 5010N pero juega entre las dos Peabody en precio, con más respaldo de marca. La comparamos a fondo en la [guía de cafeteras Oster](/guias/cafetera-oster).`,
-        `**Sin molinillo y con la mitad de presupuesto:** la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ($289.999) resigna el molido en el momento pero suma un espumador con depósito de leche que hace el capuchino solo. 4.7 estrellas en 402 calificaciones.`,
+        `**Sin molinillo y con la mitad de presupuesto:** la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ({{precio:MLA23909880}}) resigna el molido en el momento pero suma un espumador con depósito de leche que hace el capuchino solo. 4.7 estrellas en 402 calificaciones.`,
         `**Presupuesto de entrada:** si el molinillo no es prioridad, en la [guía de cafeteras express](/guias/cafetera-express) está el ranking completo desde $133.999.`,
       ] },
 
@@ -16302,19 +16302,19 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Dos recién llegadas, todavía sin calificaciones`, id: "sin-calificaciones" },
       { type: "p", content: `Estas dos tienen publicación activa y garantía, pero ninguna calificación todavía. No vamos a inventar opiniones: lo que sigue sale de la ficha técnica y de la trayectoria de cada marca, y por eso no entran al ranking principal.` },
-      { type: "product-card", productMlaId: "MLA37650751", label: "Sin calificaciones aún", labelColor: "amber", description: `La hermana simple de la CA8133: misma capacidad de 1,25 litros y filtro lavable, sin algunos detalles de terminación. $45.000, todavía sin opiniones en esta publicación.` },
+      { type: "product-card", productMlaId: "MLA37650751", label: "Sin calificaciones aún", labelColor: "amber", description: `La hermana simple de la CA8133: misma capacidad de 1,25 litros y filtro lavable, sin algunos detalles de terminación. {{precio:MLA37650751}}, todavía sin opiniones en esta publicación.` },
       { type: "p", content: `La [Atma CA8131](https://meli.la/2UrA2C7) es básicamente la CA8133 despojada: 12 tazas, filtro removible lavable y función de mantener caliente, por $45.000. El problema es la cuenta: por $2.567 más, la [CA8133](https://meli.la/1xm8Wd8) trae 879 calificaciones que ya probaron la máquina por vos. Salvo que esta esté en oferta, la hermana famosa es la compra lógica.` },
-      { type: "product-card", productMlaId: "MLA72187457", label: "La apuesta de marca", labelColor: "blue", description: `Electrolux en el rango de entrada: cuerpo de acero inoxidable, 1,2 litros y temporizador, por $69.999. Publicación nueva, sin calificaciones todavía.` },
+      { type: "product-card", productMlaId: "MLA72187457", label: "La apuesta de marca", labelColor: "blue", description: `Electrolux en el rango de entrada: cuerpo de acero inoxidable, 1,2 litros y temporizador, por {{precio:MLA72187457}}. Publicación nueva, sin calificaciones todavía.` },
       { type: "p", content: `La [Electrolux ECM25](https://meli.la/1y5nrwc) es la jugada interesante de las dos: marca internacional, acero inoxidable y temporizador a $69.999, es decir, $10.000 menos que la Smartlife con prestaciones parecidas en los papeles. Si la reputación de Electrolux te alcanza como garantía, puede ser una buena entrada anticipada; si preferís comprar con opiniones, esperala o andá por la Smartlife.` },
 
       { type: "h2", title: `Tabla comparativa: precios y prestaciones`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Programable`, `Rating`], rows: [
-        [`[Atma CA8133](https://meli.la/1xm8Wd8)`, `$47.567`, `1,25 L`, `No`, `4.6 ★ (879)`],
-        [`[Ultracomb CA-2205](https://meli.la/1aZSTdt)`, `$40.756`, `720 mL`, `Sí, timer digital`, `4.4 ★ (631)`],
-        [`[Smartlife SL-CM1095](https://meli.la/2Dw1odT)`, `$79.999`, `1,5 L`, `Sí, panel digital`, `4.7 ★ (94)`],
-        [`[Liliana AC935](https://meli.la/2fbAbdd)`, `$112.767`, `1,2 L (jarra de acero)`, `Sí, con intensidad`, `4.8 ★ (42)`],
-        [`[Atma CA8131](https://meli.la/2UrA2C7)`, `$45.000`, `1,25 L`, `No`, `Sin calificaciones`],
-        [`[Electrolux ECM25](https://meli.la/1y5nrwc)`, `$69.999`, `1,2 L`, `Sí, temporizador`, `Sin calificaciones`],
+        [`[Atma CA8133](https://meli.la/1xm8Wd8)`, `{{precio:MLA14735678}}`, `1,25 L`, `No`, `4.6 ★ (879)`],
+        [`[Ultracomb CA-2205](https://meli.la/1aZSTdt)`, `{{precio:MLA15109525}}`, `720 mL`, `Sí, timer digital`, `4.4 ★ (631)`],
+        [`[Smartlife SL-CM1095](https://meli.la/2Dw1odT)`, `{{precio:MLA15297115}}`, `1,5 L`, `Sí, panel digital`, `4.7 ★ (94)`],
+        [`[Liliana AC935](https://meli.la/2fbAbdd)`, `{{precio:MLA62786317}}`, `1,2 L (jarra de acero)`, `Sí, con intensidad`, `4.8 ★ (42)`],
+        [`[Atma CA8131](https://meli.la/2UrA2C7)`, `{{precio:MLA37650751}}`, `1,25 L`, `No`, `Sin calificaciones`],
+        [`[Electrolux ECM25](https://meli.la/1y5nrwc)`, `{{precio:MLA72187457}}`, `1,2 L`, `Sí, temporizador`, `Sin calificaciones`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu cafetera de filtro: tres preguntas`, id: "como-elegir" },
@@ -16402,10 +16402,10 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuál Smartlife elegir según tu caso`, id: "cual-elegir" },
       { type: "list", items: [
-        `**Querés entrar al espresso sin pagar de más:** la [SL-EC8501](https://meli.la/1QMpWAw) ($194.111). Es la compra obvia y la más respaldada por opiniones de toda la gama económica.`,
-        `**En tu casa conviven cápsulas y café molido:** la [3 en 1](https://meli.la/1soScPB) ($528.131). Cara, pero reemplaza dos o tres máquinas y corta sola.`,
-        `**Tomás café de jarra todo el día:** la [SL-CM1095](https://meli.la/2Dw1odT) ($79.999). Programable, 12 pocillos y el mejor precio de las tres.`,
-        `**Tomás capuchino diario y querés cero técnica:** ninguna de las tres es ideal. Mirá la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ($289.999) con su espumador con depósito de leche.`,
+        `**Querés entrar al espresso sin pagar de más:** la [SL-EC8501](https://meli.la/1QMpWAw) ({{precio:MLA18562154}}). Es la compra obvia y la más respaldada por opiniones de toda la gama económica.`,
+        `**En tu casa conviven cápsulas y café molido:** la [3 en 1](https://meli.la/1soScPB) ({{precio:MLA28314113}}). Cara, pero reemplaza dos o tres máquinas y corta sola.`,
+        `**Tomás café de jarra todo el día:** la [SL-CM1095](https://meli.la/2Dw1odT) ({{precio:MLA15297115}}). Programable, 12 pocillos y el mejor precio de las tres.`,
+        `**Tomás capuchino diario y querés cero técnica:** ninguna de las tres es ideal. Mirá la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) ({{precio:MLA23909880}}) con su espumador con depósito de leche.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
@@ -16477,18 +16477,18 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: la línea Liliana completa`, id: "tabla" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Lo distintivo`, `Calificaciones`], rows: [
-        [`[AC985 2 en 1](https://meli.la/2t3mqay)`, `$174.521`, `Express 20 bar`, `Molido + cápsulas Nespresso`, `4.7 ★ (49)`],
-        [`[AC935 filtro](https://meli.la/2fbAbdd)`, `$112.767`, `Filtro digital`, `Jarra térmica de acero inox`, `4.8 ★ (42)`],
-        [`[Prosteam AC987](https://meli.la/2E1zVUz)`, `$222.995`, `Express 20 bar`, `Americano y espresso frío`, `Sin calificaciones aún`],
-        [`[Latesense AC991](https://meli.la/1TD95w9)`, `$272.544`, `Express 20 bar`, `Latte y capuchino automáticos`, `Sin calificaciones aún`],
+        [`[AC985 2 en 1](https://meli.la/2t3mqay)`, `{{precio:MLA62547964}}`, `Express 20 bar`, `Molido + cápsulas Nespresso`, `4.7 ★ (49)`],
+        [`[AC935 filtro](https://meli.la/2fbAbdd)`, `{{precio:MLA62786317}}`, `Filtro digital`, `Jarra térmica de acero inox`, `4.8 ★ (42)`],
+        [`[Prosteam AC987](https://meli.la/2E1zVUz)`, `{{precio:MLA70273936}}`, `Express 20 bar`, `Americano y espresso frío`, `Sin calificaciones aún`],
+        [`[Latesense AC991](https://meli.la/1TD95w9)`, `{{precio:MLA70275635}}`, `Express 20 bar`, `Latte y capuchino automáticos`, `Sin calificaciones aún`],
       ] },
 
       { type: "h2", title: `Cuál Liliana elegir según tu caso`, id: "cual-elegir" },
       { type: "list", items: [
-        `**Espresso diario con respaldo local:** la [AC985 2 en 1](https://meli.la/2t3mqay) ($174.521). Probada, más barata que su rival directa y con service en el país.`,
-        `**Café de jarra sin vidrio que se rompa:** la [AC935](https://meli.la/2fbAbdd) ($112.767). Programable, jarra de acero y el mejor rating de la marca.`,
+        `**Espresso diario con respaldo local:** la [AC985 2 en 1](https://meli.la/2t3mqay) ({{precio:MLA62547964}}). Probada, más barata que su rival directa y con service en el país.`,
+        `**Café de jarra sin vidrio que se rompa:** la [AC935](https://meli.la/2fbAbdd) ({{precio:MLA62786317}}). Programable, jarra de acero y el mejor rating de la marca.`,
         `**Lattes automáticos y tolerás ser pionero:** la [Latesense AC991](https://meli.la/1TD95w9) ($272.544). Función de tope de gama a precio contenido, sin reseñas que la respalden todavía.`,
-        `**Tus cápsulas son Dolce Gusto:** ninguna Liliana actual. Mirá la [Smartlife 3 en 1](https://meli.la/1soScPB) ($528.131), que acepta los dos sistemas de cápsulas y molido.`,
+        `**Tus cápsulas son Dolce Gusto:** ninguna Liliana actual. Mirá la [Smartlife 3 en 1](https://meli.la/1soScPB) ({{precio:MLA28314113}}), que acepta los dos sistemas de cápsulas y molido.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
@@ -16499,7 +16499,7 @@ export const guides: Guide[] = [
       { question: `¿La Liliana AC985 acepta cápsulas Dolce Gusto?`, answer: `No en su versión actual. Trae portafiltro para café molido y para cápsulas chicas compatibles Nespresso. La versión anterior incluía un tercer adaptador para Dolce Gusto y las reseñas de 2026 confirman que ya no viene. Si usás Dolce Gusto, mirá la [Smartlife 3 en 1](https://meli.la/1soScPB), que acepta ambos sistemas.` },
       { question: `¿Liliana tiene service y repuestos en Argentina?`, answer: `Sí, es de las pocas marcas del segmento económico con red de service oficial y repuestos locales. Para una cafetera express, donde juntas, portafiltros y vaporizadores se desgastan con el uso diario, ese respaldo alarga la vida útil de la máquina varios años.` },
       { question: `¿Qué diferencia hay entre la Prosteam AC987 y la AC985?`, answer: `La [Prosteam AC987](https://meli.la/2E1zVUz) ($222.995) es más nueva y más potente (1350 W contra 1200), con cinco funciones digitales que incluyen americano y espresso frío, pero solo usa café molido y no tiene ninguna calificación todavía. La [AC985](https://meli.la/2t3mqay) ($174.521) acepta también cápsulas Nespresso y ya está probada por compradores.` },
-      { question: `¿Vale la pena la Latesense AC991 sin calificaciones?`, answer: `Su propuesta es real: depósito de leche de 700 mL y lattes o capuchinos automáticos por [$272.544](https://meli.la/1TD95w9), una función que en marcas internacionales cuesta más. El riesgo también es real: cero reseñas. Con garantía oficial y service local, es una apuesta razonable para quien la quiere ya; el resto puede esperar a que junte opiniones.` },
+      { question: `¿Vale la pena la Latesense AC991 sin calificaciones?`, answer: `Su propuesta es real: depósito de leche de 700 mL y lattes o capuchinos automáticos por [{{precio:MLA70275635}}](https://meli.la/1TD95w9), una función que en marcas internacionales cuesta más. El riesgo también es real: cero reseñas. Con garantía oficial y service local, es una apuesta razonable para quien la quiere ya; el resto puede esperar a que junte opiniones.` },
       { question: `¿Conviene una Liliana o una Smartlife?`, answer: `Mano a mano de las express 2 en 1: la [Liliana AC985](https://meli.la/2t3mqay) ($174.521) es más barata y tiene service local; la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) tiene una base de opiniones treinta veces más grande (1.656 contra 49) que ya documentó cada defecto posible. Empate técnico en specs: 20 bares y cápsulas Nespresso las dos. Decidí por lo que valores más, respaldo local o historial probado.` },
     ],
     internalLinks: [
@@ -16524,9 +16524,9 @@ export const guides: Guide[] = [
     readingTime: 10,
     standfirst: `Express, cápsulas o filtro: los tres sistemas hacen café y los tres pueden ser una mala compra si elegís el equivocado para tu casa. Esta guía decide con tres preguntas, muestra el mejor representante de cada sistema con precios reales de MercadoLibre y hace la cuenta que casi nadie hace: cuánto cuesta cada taza.`,
     quickPicks: [
-      { productMlaId: "MLA18562154", label: "El mejor espresso", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por $194.111" },
+      { productMlaId: "MLA18562154", label: "El mejor espresso", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por {{precio:MLA18562154}}" },
       { productMlaId: "MLA15705813", label: "Cápsulas sin ritual", labelColor: "blue", tagline: "La más vendida del país: 4.8★ en 8.392 calificaciones" },
-      { productMlaId: "MLA14735678", label: "Café de jarra por poco", labelColor: "amber", tagline: "Filtro de 12 pocillos por $47.567" },
+      { productMlaId: "MLA14735678", label: "Café de jarra por poco", labelColor: "amber", tagline: "Filtro de 12 pocillos por {{precio:MLA14735678}}" },
     ],
     intro: [
       `La respuesta corta, para que te la lleves aunque no leas más: si tomás uno o dos cafés por día y disfrutás prepararlos, comprá una **express**; si querés café rico apretando un botón y sin lavar nada, una de **cápsulas**; si en tu casa el café se toma en jarra y a toda hora, una de **filtro**. Los tres sistemas funcionan. El error caro es comprar el que no va con tu rutina.`,
@@ -16549,35 +16549,35 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cafetera express: para quien disfruta el ritual`, id: "express" },
       { type: "p", content: `La express empuja agua a presión a través de café molido compactado: es el único de los tres sistemas que hace espresso de verdad, con crema, y el que logra el costo por taza más bajo usando café molido. A cambio pide aprendizaje y limpieza diaria. En la [guía completa de cafeteras express](/guias/cafetera-express) está el ranking entero; acá va la que recomendamos a la mayoría.` },
-      { type: "product-card", productMlaId: "MLA18562154", label: "El mejor espresso económico", labelColor: "green", description: `Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor y dos portafiltros (café molido o cápsulas Nespresso). 4.6 estrellas en 1.656 calificaciones por $194.111.` },
+      { type: "product-card", productMlaId: "MLA18562154", label: "El mejor espresso económico", labelColor: "green", description: `Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor y dos portafiltros (café molido o cápsulas Nespresso). 4.6 estrellas en 1.656 calificaciones por {{precio:MLA18562154}}.` },
       { type: "p", content: `La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) resume por qué la express dejó de ser un lujo: 20 bares, espumador de leche y hasta cápsulas Nespresso de respaldo por menos de $200.000, con la base de opiniones más grande de la gama económica. Sus defectos están documentados y son de estreno: manual malo, un tapón de silicona escondido en el depósito y primeros cafés flojos hasta purgarla. Todo se resuelve el primer día.` },
       { type: "pull-quote", content: `"La compré para mi madre y no le tenía fe. Me sorprendió para bien. Es sencilla pero tiene todo."`, attribution: `Comprador verificado en MercadoLibre, febrero 2022` },
 
       { type: "h2", title: `Cafetera de cápsulas: para quien quiere café rico sin pensar`, id: "capsulas" },
       { type: "p", content: `El sistema de cápsulas automatiza todo: dosis sellada, cero limpieza, resultado idéntico cada vez. Su talón de Aquiles es económico, no técnico: cada cápsula cuesta varias veces lo que sale la misma taza con café molido. Para entender el sistema Dolce Gusto a fondo está la [guía de cafeteras Dolce Gusto](/guias/cafetera-dolce-gusto); el representante acá es indiscutido.` },
-      { type: "product-card", productMlaId: "MLA15705813", label: "La más probada del país", labelColor: "blue", description: `Moulinex Dolce Gusto Piccolo XS: 15 bares, más de 20 bebidas y 13,6 cm de ancho. 4.8 estrellas en 8.392 calificaciones, la cafetera más vendida del catálogo, por $155.132.` },
+      { type: "product-card", productMlaId: "MLA15705813", label: "La más probada del país", labelColor: "blue", description: `Moulinex Dolce Gusto Piccolo XS: 15 bares, más de 20 bebidas y 13,6 cm de ancho. 4.8 estrellas en 8.392 calificaciones, la cafetera más vendida del catálogo, por {{precio:MLA15705813}}.` },
       { type: "p", content: `La [Piccolo XS](https://meli.la/1f93McA) acumula **8.392 calificaciones con 4.8 estrellas**: ninguna otra cafetera de Argentina fue probada por tanta gente. Hace café, capuchino, chocolate y té con cápsulas Dolce Gusto, sale bien caliente y entra en cualquier cocina. Dos letras chicas: es manual (el agua la cortás vos, y los primeros cafés pueden salir aguados hasta agarrarle la mano) y el costo por taza es el más alto de los tres sistemas, aunque el cupón de 60% en cápsulas que trae la caja y las cápsulas recargables lo alivian.` },
       { type: "pull-quote", content: `"Lo único que critico nomás es que no corte sola, porque al principio que no le agarrábamos la mano a veces los cafés salían aguados. Pero después todo perfecto."`, attribution: `Compradora verificada en MercadoLibre, junio 2022` },
 
       { type: "h2", title: `Cafetera de filtro: para la casa donde el café no para`, id: "filtro" },
       { type: "p", content: `La de filtro hace café de jarra por goteo: sin presión, sin crema, sin pretensiones, y con dos ventajas que los otros sistemas no alcanzan: prepara hasta 12 pocillos de una vez y tiene el costo total más bajo, en máquina y en café. La comparativa completa del segmento está en la [guía de cafeteras de filtro](/guias/cafetera-de-filtro).` },
-      { type: "product-card", productMlaId: "MLA14735678", label: "La filtro más probada", labelColor: "amber", description: `Atma CA8133: 1,25 litros (12 pocillos), sistema antigoteo y portafiltro removible. 4.6 estrellas en 879 calificaciones por $47.567.` },
-      { type: "p", content: `La [Atma CA8133](https://meli.la/1xm8Wd8) es la prueba de que el café de todos los días no necesita inversión: $47.567, 879 calificaciones con 4.6 estrellas y un funcionamiento que no tiene cómo fallar. El antigoteo deja servirse una taza antes de que termine el ciclo. Lo honesto: es de plástico, el blanco se mancha con el tiempo y hace café de jarra, no espresso. Para lo que es, sobra; para lo que no es, está la express.` },
+      { type: "product-card", productMlaId: "MLA14735678", label: "La filtro más probada", labelColor: "amber", description: `Atma CA8133: 1,25 litros (12 pocillos), sistema antigoteo y portafiltro removible. 4.6 estrellas en 879 calificaciones por {{precio:MLA14735678}}.` },
+      { type: "p", content: `La [Atma CA8133](https://meli.la/1xm8Wd8) es la prueba de que el café de todos los días no necesita inversión: {{precio:MLA14735678}}, 879 calificaciones con 4.6 estrellas y un funcionamiento que no tiene cómo fallar. El antigoteo deja servirse una taza antes de que termine el ciclo. Lo honesto: es de plástico, el blanco se mancha con el tiempo y hace café de jarra, no espresso. Para lo que es, sobra; para lo que no es, está la express.` },
 
       { type: "h2", title: `El costo por taza: la cuenta que casi nadie hace`, id: "costo-por-taza" },
       { type: "p", content: `La máquina es el costo visible; el café de cada día es el costo real. Esta es nuestra estimación con precios argentinos de junio 2026, tomando café molido de marca conocida y cápsulas Dolce Gusto originales compradas online.` },
       { type: "table", headers: [`Sistema`, `Costo por taza (aprox.)`, `Máquina de referencia`, `Inversión inicial`], rows: [
-        [`Filtro (molido + papel)`, `$150 a $250`, `[Atma CA8133](https://meli.la/1xm8Wd8)`, `$47.567`],
-        [`Express (café molido)`, `$200 a $350`, `[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `$194.111`],
-        [`Cápsulas (Dolce Gusto)`, `$900 a $1.300`, `[Piccolo XS](https://meli.la/1f93McA)`, `$155.132`],
+        [`Filtro (molido + papel)`, `$150 a $250`, `[Atma CA8133](https://meli.la/1xm8Wd8)`, `{{precio:MLA14735678}}`],
+        [`Express (café molido)`, `$200 a $350`, `[Smartlife SL-EC8501](https://meli.la/1QMpWAw)`, `{{precio:MLA18562154}}`],
+        [`Cápsulas (Dolce Gusto)`, `$900 a $1.300`, `[Piccolo XS](https://meli.la/1f93McA)`, `{{precio:MLA15705813}}`],
       ] },
       { type: "callout", calloutVariant: "note", calloutTitle: "Cómo hicimos la cuenta", content: `Café molido: paquete de 500 g entre $12.000 y $18.000, con dosis de 7 a 9 gramos por taza. Cápsulas: caja de 16 unidades entre $15.000 y $20.000. Los precios van a cambiar con los meses, pero la proporción es estable desde hace años: **la taza de cápsula cuesta entre 4 y 5 veces más que la de café molido**. Con dos cafés por día, esa diferencia supera el precio de la propia Piccolo XS en menos de un año. Los atenuantes existen: cupones de descuento de Dolce Gusto y cápsulas recargables que se cargan con tu café molido.` },
 
       { type: "h2", title: `Veredicto: qué cafetera comprar según tu perfil`, id: "veredicto" },
       { type: "list", items: [
-        `**Tomás 1 o 2 cafés por día y el momento del café te importa:** express. La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) es la entrada con mejor respaldo, y de paso acepta cápsulas Nespresso para los días sin tiempo.`,
-        `**Querés café rico ya, sin aprender nada ni lavar nada:** cápsulas. La [Piccolo XS](https://meli.la/1f93McA) ($155.132) es la compra más segura del país por cantidad de opiniones, asumiendo el costo por taza más alto.`,
-        `**En tu casa se toma café en jarra todo el día (o es para la oficina):** filtro. La [Atma CA8133](https://meli.la/1xm8Wd8) ($47.567) resuelve 12 pocillos de una vez al costo por taza más bajo de todos.`,
+        `**Tomás 1 o 2 cafés por día y el momento del café te importa:** express. La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ({{precio:MLA18562154}}) es la entrada con mejor respaldo, y de paso acepta cápsulas Nespresso para los días sin tiempo.`,
+        `**Querés café rico ya, sin aprender nada ni lavar nada:** cápsulas. La [Piccolo XS](https://meli.la/1f93McA) ({{precio:MLA15705813}}) es la compra más segura del país por cantidad de opiniones, asumiendo el costo por taza más alto.`,
+        `**En tu casa se toma café en jarra todo el día (o es para la oficina):** filtro. La [Atma CA8133](https://meli.la/1xm8Wd8) ({{precio:MLA14735678}}) resuelve 12 pocillos de una vez al costo por taza más bajo de todos.`,
         `**Presupuesto mínimo y sin vueltas:** también filtro. Es el único sistema completo por menos de $50.000.`,
         `**No sabés si el espresso es lo tuyo:** la dual. La SL-EC8501 te deja arrancar con cápsulas y pasar al molido cuando te enganches, sin comprar dos máquinas.`,
       ] },
@@ -16587,7 +16587,7 @@ export const guides: Guide[] = [
       { question: `¿Qué tipos de cafetera existen y en qué se diferencian?`, answer: `Los tres sistemas eléctricos principales son: express (agua a presión sobre café molido compactado: espresso real con crema), cápsulas (dosis selladas, cero limpieza, costo por taza alto) y filtro (café de jarra por goteo, hasta 12 pocillos por ciclo). Existen además la moka o italiana y la prensa francesa, que no son eléctricas y juegan otro partido: precio mínimo a cambio de hacer todo a mano.` },
       { question: `¿Qué cafetera conviene para empezar?`, answer: `Si venís del café instantáneo, el salto más fácil es una de cápsulas como la [Piccolo XS](https://meli.la/1f93McA) ($155.132): imposible equivocarse y 8.392 calificaciones lo respaldan. Si ya sabés que te gusta el espresso, la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) ($194.111) es la entrada con más respaldo y acepta también cápsulas Nespresso mientras aprendés.` },
       { question: `¿Qué es más barato, cápsulas o café molido?`, answer: `Café molido, y no por poco: nuestra estimación de junio 2026 da $200 a $350 por taza de espresso con molido contra $900 a $1.300 por cápsula Dolce Gusto original. Con dos cafés diarios, la diferencia anual supera el precio de una máquina. Las cápsulas recargables y los cupones de Dolce Gusto achican la brecha, pero no la dan vuelta.` },
-      { question: `¿Qué cafetera comprar para una familia que toma mucho café?`, answer: `Una de filtro, sin dudarlo: es el único sistema que prepara una jarra entera de una vez. La [Atma CA8133](https://meli.la/1xm8Wd8) ($47.567) hace 12 pocillos por ciclo con 879 calificaciones de respaldo. Express y cápsulas preparan de a una taza: para cuatro personas en el desayuno, el último siempre espera.` },
+      { question: `¿Qué cafetera comprar para una familia que toma mucho café?`, answer: `Una de filtro, sin dudarlo: es el único sistema que prepara una jarra entera de una vez. La [Atma CA8133](https://meli.la/1xm8Wd8) ({{precio:MLA14735678}}) hace 12 pocillos por ciclo con 879 calificaciones de respaldo. Express y cápsulas preparan de a una taza: para cuatro personas en el desayuno, el último siempre espera.` },
       { question: `¿Vale la pena pagar una cafetera express?`, answer: `Si disfrutás el proceso, sí: es la única que hace espresso con crema de verdad y la más barata por taza usando café molido. Si en el fondo querés apretar un botón, no: va a terminar juntando polvo. La prueba honesta es preguntarte si los diez minutos de moler, compactar y limpiar te suenan a placer o a trámite. La [guía de cafeteras express](/guias/cafetera-express) tiene el ranking completo por presupuesto.` },
       { question: `¿Las cafeteras de cápsulas hacen espresso de verdad?`, answer: `Hacen un café muy digno a presión, pero distinto del espresso de una express: la dosis y la molienda vienen fijadas por la cápsula. La [Piccolo XS](https://meli.la/1f93McA) mete 15 bares y su fuerte es la variedad (café, capuchino, chocolate, té) más que el espresso purista. Para crema espesa y control del punto, el camino es una express con café molido fresco.` },
     ],

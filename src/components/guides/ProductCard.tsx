@@ -3,6 +3,7 @@ import { Package } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
+import { injectLivePrices } from "@/lib/price-token";
 import { getPriceValidUntil, productHref } from "@/lib/product-url";
 import { Stars } from "./Stars";
 
@@ -129,7 +130,7 @@ export function ProductCard({ section }: ProductCardProps) {
             </h4>
             {section.description && (
               <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
-                {section.description}
+                {injectLivePrices(section.description)}
               </p>
             )}
             {product.includesCase && (
@@ -216,7 +217,7 @@ export function ProductCard({ section }: ProductCardProps) {
 
           {section.description && (
             <p className="text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
-              {section.description}
+              {injectLivePrices(section.description)}
             </p>
           )}
 

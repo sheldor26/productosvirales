@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type React from "react";
+import { injectLivePrices } from "@/lib/price-token";
 
 /**
  * Parses inline markdown in text strings:
@@ -63,6 +64,9 @@ function renderText(text: string, startKey: { k: number }): React.ReactNode[] {
 }
 
 export function parseInlineLinks(text: string): React.ReactNode[] {
-  const out = renderText(text, { k: 0 });
-  return out.length > 0 ? out : [text];
+  // Resolvemos los tokens de precio en vivo ({{precio:MLA…}}) antes de parsear
+  // markdown, así el precio queda como texto plano y el resto del pipeline sigue igual.
+  const resolved = injectLivePrices(text);
+  const out = renderText(resolved, { k: 0 });
+  return out.length > 0 ? out : [resolved];
 }
