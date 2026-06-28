@@ -1,0 +1,7 @@
+# NUNCA commitear: credenciales y datos descargados
+service-account.json
+*.json
+data/
+exports/
+.venv/
+__pycache__/
