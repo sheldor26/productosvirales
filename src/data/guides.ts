@@ -5711,7 +5711,7 @@ export const guides: Guide[] = [
     ogDescription: `La marca de masajeadores más buscada de Argentina, modelo por modelo: cervicales, pistola, asiento y ejercitador de piernas. Análisis honesto con precios reales.`,
     h1: `Masajeador Gadnic: cuál conviene de toda la línea`,
     publishedDate: "2026-06-17",
-    updatedDate: "2026-06-17",
+    updatedDate: "2026-06-28",
     hasDisclosure: true,
     readingTime: 10,
     standfirst: `Gadnic es la marca de masajeadores más buscada en Mercado Libre Argentina. Su catálogo va del cervical de $50.999 con casi 10.000 reseñas hasta el asiento y la pistola. Acá te ordenamos cuál es cuál, qué hace bien cada uno y para quién conviene.`,
