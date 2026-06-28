@@ -1,0 +1,79 @@
+name: Actualizar precios de MercadoLibre
+
+# Corre solo y, si algún precio cambió, ABRE UN PULL REQUEST contra master.
+# Nada se publica sin que Juan revise y le dé merge al PR.
+#
+# Requisitos (configurar una sola vez, ver docs abajo):
+#   - Secrets del repo: ML_APP_ID y ML_SECRET (Settings > Secrets and variables > Actions)
+#   - Permitir que Actions cree PRs: Settings > Actions > General >
+#     "Allow GitHub Actions to create and approve pull requests"
+
+on:
+  schedule:
+    # Lunes 11:00 UTC = 08:00 hora Argentina (UTC-3). Cambiar a gusto.
+    - cron: "0 11 * * 1"
+  workflow_dispatch: {} # botón para correrlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el código
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Actualizar precios (solo API, sin navegador)
+        env:
+          ML_APP_ID: ${{ secrets.ML_APP_ID }}
+          ML_SECRET: ${{ secrets.ML_SECRET }}
+        # --api-only: usa la API oficial de ML. No usa Puppeteer porque scrapear
+        # desde un servidor de CI hace que ML bloquee/pida captcha. Los productos
+        # que necesitan el navegador (publicaciones individuales) se siguen
+        # actualizando a mano con: npm run prices:update -- --match <slug>
+        run: npm run prices:update -- --all --api-only --mark-failed-stale
+
+      - name: Abrir Pull Request si hubo cambios
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if git diff --quiet -- src/data/curated-products.ts; then
+            echo "Sin cambios de precio. No se abre PR."
+            exit 0
+          fi
+
+          DATE=$(date +%Y-%m-%d)
+          BRANCH="precios/auto-${DATE}-${{ github.run_id }}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add src/data/curated-products.ts
+          git commit -m "chore(precios): actualizacion automatica ${DATE}"
+          git push origin "$BRANCH"
+
+          gh pr create \
+            --base master \
+            --head "$BRANCH" \
+            --title "Precios ML — ${DATE} (revisar antes de publicar)" \
+            --body "Actualización automática de precios desde MercadoLibre (API).
+
+          Revisá el diff de \`src/data/curated-products.ts\`. Si los precios tienen
+          sentido, hacé merge y Vercel publica solo. Si alguno se ve raro, cerrá
+          el PR sin mergear y avisá.
+
+          Generado por el workflow .github/workflows/update-prices.yml"
