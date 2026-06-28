@@ -140,9 +140,9 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Microondas BGH: cuál comprar (la marca más vendida)", href: "/guias/cocina/microondas-bgh" },
+      { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
       { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
-      { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -258,9 +258,9 @@ export const guides: Guide[] = [
       { question: `¿Sirve un horno eléctrico para hacer pizza o pan?`, answer: `Sí, y bastante bien, sobre todo los que tienen convección y llegan a 250°C. Para pizza, un modelo de 40 litros o más con buena temperatura anda perfecto; para pan y repostería, la convección (como en el [Smartlife 50L](https://meli.la/25fVep5)) ayuda a que leve y se cocine parejo. Los compradores destacan justamente el pan, los bizcochuelos y las pizzas.` },
     ],
     internalLinks: [
+      { label: "Horno eléctrico Atma: cuál comprar (la marca más vendida)", href: "/guias/cocina/horno-atma" },
       { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
-      { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
       { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
     ],
     internalLinksTitle: "Más para la cocina",
@@ -554,6 +554,172 @@ export const guides: Guide[] = [
       { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE microondas-atma — silo cocina — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "microondas-atma",
+    category: "cocina",
+    silo: "cocina",
+    title: `Microondas Atma: cuál comprar en Argentina [2026]`,
+    seoTitle: `Microondas Atma 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué microondas Atma comprar: 20, 23 o 25 litros, con o sin grill, cuál conviene y a qué precio. Compará la gama Atma con datos reales.`,
+    ogTitle: `Microondas Atma: cuál comprar en Argentina`,
+    ogDescription: `La gama de microondas Atma comparada: del 20 litros básico al 25 con grill. Cuál conviene según el tamaño y si querés dorar, con precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_852430-MLA99447789936_112025-F.jpg`,
+    h1: `Microondas Atma: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Atma es una de las marcas de microondas más elegidas de Argentina, con service en el país y precios accesibles. Te mostramos su gama (de 20 a 25 litros, con o sin grill) y cuál conviene según para qué lo querés, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA41009857", label: "El más vendido", labelColor: "green", tagline: "Atma 20L digital: el más elegido de la marca, para calentar y descongelar" },
+      { productMlaId: "MLA8891728", label: "Con grill", labelColor: "purple", tagline: "Atma Easy Cook 23L: suma grill para dorar, con descongelado por peso" },
+      { productMlaId: "MLA28645101", label: "El más barato", labelColor: "blue", tagline: "Atma 20L rotativo: la opción más económica de la marca" },
+      { productMlaId: "MLA56215513", label: "El más grande", labelColor: "amber", tagline: "Atma 25L full screen: el más grande, con grill y panel digital" },
+    ],
+    intro: [
+      `Si querés un microondas Atma, la marca tiene una gama clara: modelos de 20 litros (para calentar y descongelar), de 23 con grill, y de 25 con grill y panel digital. Todos comparten lo de Atma: marca conocida, **service en el país** y precios accesibles.`,
+      `Acá ordenamos los Atma más vendidos para que elijas según el tamaño y si querés que además dore. Si querés ver otras marcas (BGH, Samsung, LG), mirá la [guía general de microondas](/guias/cocina/microondas).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_852430-MLA99447789936_112025-F.jpg", alt: `Microondas Atma, una de las marcas más elegidas de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los microondas Atma con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: la **capacidad** (20, 23, 25 litros), si traen **grill**, el control y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `Los mejores microondas Atma 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Atma 20L digital (MATDB20UAP) — el más vendido` },
+      { type: "product-card", productMlaId: "MLA41009857", label: "El más vendido", labelColor: "green", ranking: 1, description: `20 litros, 700 W, control digital. 4.8 estrellas en más de 2.300 calificaciones. El Atma más elegido, para calentar y descongelar.` },
+      { type: "p", content: `Es el Atma que recomendamos para la mayoría: 20 litros, 700 W y control digital, a alrededor de $214.000, con más de 2.300 opiniones. Marca conocida, service en el país y lo esencial bien resuelto para el uso de todos los días.` },
+      { type: "p", content: `Contra honesta de las reseñas: la **luz interior es floja** (cuesta ver la comida adentro) y hace varios pitidos al terminar. Detalles menores; por respaldo de marca y precio, es la entrada lógica a Atma.` },
+      { type: "pull-quote", content: `"A los 2 minutos recalienta la comida como si la acabara de cocinar, y en 5 empieza a descongelar. Dejo estos tiempos de referencia por si a alguien le sirve."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Atma Easy Cook 23L con grill (MD1723GN) — para dorar` },
+      { type: "product-card", productMlaId: "MLA8891728", label: "Con grill", labelColor: "purple", ranking: 2, description: `23 litros, 800 W, con grill (incluye parrilla) y descongelado por peso. 4.7 estrellas en más de 1.500 calificaciones.` },
+      { type: "p", content: `Si querés que el Atma además **dore**, el Easy Cook de 23 litros suma grill (viene con parrilla) y un práctico **descongelado por peso**, a alrededor de $260.000. Un poco más grande que el de 20 litros y con la función para gratinar o calentar dos platos juntos.` },
+      { type: "p", content: `Contra de las reseñas: es **liviano**, así que al tirar de la manija para abrirlo se mueve hacia adelante, un poco incómodo. Por lo demás, suma el grill por una diferencia razonable.` },
+      { type: "pull-quote", content: `"El descongelado por peso es un golazo. Lo único malo es que sea tan liviano: al tirar de la manija se mueve hacia adelante."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Atma 20L rotativo (MATRB20AN) — el más barato` },
+      { type: "product-card", productMlaId: "MLA28645101", label: "El más barato", labelColor: "blue", ranking: 3, description: `20 litros, 700 W, con plato giratorio. 4.7 estrellas en más de 800 calificaciones. La opción más económica de Atma.` },
+      { type: "p", content: `Si querés un Atma gastando lo mínimo, el de 20 litros con plato giratorio es el más barato de la marca, a alrededor de $186.000. Hace lo esencial (calentar, descongelar) con el respaldo de Atma, sin pagar de más.` },
+
+      { type: "h3", title: `4. Atma 25L full screen con grill — el más grande` },
+      { type: "product-card", productMlaId: "MLA56215513", label: "El más grande", labelColor: "amber", ranking: 4, description: `25 litros, 850 W, con grill y panel digital full screen. 4.8 estrellas. El más grande y completo de la gama Atma.` },
+      { type: "p", content: `Si querés el Atma más grande y completo, el de 25 litros suma capacidad (entra una fuente más holgada), grill para dorar y un panel digital full screen, a alrededor de $233.000. Para quien quiere espacio y la función de gratinar dentro de la marca.` },
+
+      { type: "h2", title: `Tabla comparativa: la gama Atma`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Grill`, `Ideal para`], rows: [
+        [`[Atma 20L rotativo](https://meli.la/2XmTv5R)`, `$186.279`, `20 L`, `No`, `El más barato de la marca`],
+        [`[Atma 20L digital](https://meli.la/2Gh5aGU)`, `$214.158`, `20 L`, `No`, `El más vendido, digital`],
+        [`[Atma 25L full screen](https://meli.la/19aHgDm)`, `$233.494`, `25 L`, `Sí`, `El más grande, con grill`],
+        [`[Atma Easy Cook 23L](https://meli.la/21neHpi)`, `$260.000`, `23 L`, `Sí`, `Dorar, con parrilla incluida`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu Atma`, id: "como-elegir" },
+      { type: "p", content: `Definí dos cosas: el **tamaño** (20 litros para una persona o pareja; 23 a 25 si querés más espacio o sos familia) y si querés **grill** (para dorar y gratinar, no solo calentar). Si buscás lo más barato, el rotativo de 20 litros; si querés el más completo, el de 25 con grill. Y si dudás entre Atma y otra marca, en la [guía general](/guias/cocina/microondas) está la comparación con BGH, Samsung y LG.` },
+
+      { type: "h2", title: `Veredicto: cuál microondas Atma comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Atma 20L digital**: el más vendido de la marca, simple y con buen respaldo. Si querés **dorar**, el **Easy Cook 23L** con grill; si buscás **lo más barato**, el **20L rotativo**; y si querés **el más grande**, el **25L con grill**. Toda la gama tiene el service de Atma en el país. Para comparar con otras marcas, mirá la [guía general de microondas](/guias/cocina/microondas).` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor microondas Atma?`, answer: `Para la mayoría, el [Atma 20L digital](https://meli.la/2Gh5aGU): el más vendido de la marca, simple y confiable. Si querés grill para dorar, el [Easy Cook 23L](https://meli.la/21neHpi); el más barato es el [20L rotativo](https://meli.la/2XmTv5R); y el más grande, el [25L con grill](https://meli.la/19aHgDm).` },
+      { question: `¿Atma es buena marca de microondas?`, answer: `Sí, es una de las marcas más elegidas de Argentina, con service en el país y precios accesibles. Juega en la misma franja que BGH y suele ser un poco más económica. Es una compra confiable; si querés el escalón premium, Samsung o LG, que ves en la [guía general de microondas](/guias/cocina/microondas).` },
+      { question: `¿Qué microondas Atma tiene grill?`, answer: `El [Easy Cook 23L](https://meli.la/21neHpi) (que viene con parrilla) y el [25L full screen](https://meli.la/19aHgDm). Los de 20 litros son para calentar y descongelar, sin grill. Si querés que además dore o gratine, andá a los de 23 o 25 litros.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
+      { label: "Microondas BGH: cuál comprar", href: "/guias/cocina/microondas-bgh" },
+      { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE horno-atma — silo cocina — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "horno-atma",
+    category: "cocina",
+    silo: "cocina",
+    title: `Horno eléctrico Atma: cuál comprar en Argentina [2026]`,
+    seoTitle: `Horno Eléctrico Atma 2026: Cuál Comprar Argentina`,
+    metaDescription: `Descubrí qué horno eléctrico Atma comprar: de 23 a 50 litros, con grill, anafes o freidora de aire, cuál conviene y a qué precio. Compará la gama Atma.`,
+    ogTitle: `Horno eléctrico Atma: cuál comprar en Argentina`,
+    ogDescription: `La gama de hornos eléctricos Atma comparada: de 23 a 50 litros, con grill, 2 anafes o freidora de aire. Cuál conviene según el tamaño, con precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg`,
+    h1: `Horno eléctrico Atma: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Atma es la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina. Te mostramos su gama (de 23 a 50 litros, con grill, anafes o hasta freidora de aire) y cuál conviene según cuántos sean en casa, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA27167036", label: "El más vendido", labelColor: "green", tagline: "Atma 45L con grill: el horno más vendido del país, entra un pollo entero" },
+      { productMlaId: "MLA20010900", label: "El grande", labelColor: "amber", tagline: "Atma 50L: más espacio, elegís dorar arriba o abajo" },
+      { productMlaId: "MLA29108606", label: "Horno + freidora", labelColor: "purple", tagline: "Atma 23L 2 en 1: horno y freidora de aire en un solo aparato" },
+      { productMlaId: "MLA21789761", label: "El más chico", labelColor: "blue", tagline: "Atma 30L con grill: el tamaño intermedio, para pareja" },
+    ],
+    intro: [
+      `Atma es **la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina**, con service en el país y precios accesibles. Su gama va del de 23 litros (con freidora de aire incluida) al de 50, pasando por el de 45 que es el más vendido del país.`,
+      `Acá ordenamos los Atma más vendidos para que elijas según cuántos sean en casa y qué funciones querés. Si querés ver otras marcas (BGH, Ultracomb, Smartlife), mirá la [guía general de hornos eléctricos](/guias/cocina/horno-electrico).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg", alt: `Horno eléctrico de sobremesa Atma, la marca más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los hornos eléctricos Atma con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: la **capacidad** en litros, si traen **grill**, **anafes** o **freidora de aire**, y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `Los mejores hornos eléctricos Atma 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Atma 45L con grill (HGAB4523PI) — el más vendido` },
+      { type: "product-card", productMlaId: "MLA27167036", label: "El más vendido", labelColor: "green", ranking: 1, description: `45 litros con grill: amplio, entra una fuente de pizza o un pollo entero. 4.7 estrellas en más de 2.300 calificaciones. El horno eléctrico más vendido del país.` },
+      { type: "p", content: `Es el Atma (y el horno eléctrico) más vendido de Argentina. Con **45 litros** es el tamaño justo para familia: entra una fuente de pizza grande o un pollo entero, tiene grill para dorar, a alrededor de $185.000. Por tamaño, marca y ventas, es el punto de partida lógico.` },
+      { type: "p", content: `Contra honesta de las reseñas: **no tiene luz interior** (tenés que abrir para ver la comida). Nada que arruine la compra; sigue siendo el más recomendado de la marca.` },
+      { type: "pull-quote", content: `"Muy lindo, la verdad me encantó. Es súper amplio, te entran las dos bandejas redondas pizzeras grandes."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Atma 50L con grill (HGA5021N) — el grande` },
+      { type: "product-card", productMlaId: "MLA20010900", label: "El grande", labelColor: "amber", ranking: 2, description: `50 litros, 1400 W, con grill y temperatura hasta 200 °C. 4.7 estrellas en más de 1.500 calificaciones. Elegís dorar arriba, abajo o ambos.` },
+      { type: "p", content: `Si querés más espacio que el de 45, el Atma de **50 litros** suma capacidad y la opción de **elegir dónde dorar** (resistencia de arriba, de abajo o ambas), con timer e intensidad, a alrededor de $200.000. Calienta rápido y parejo, con muy buen respaldo de opiniones.` },
+      { type: "pull-quote", content: `"Calienta híper bien y rápido. Podés elegir dónde dorar, arriba o abajo, timer e intensidad. Diez mil menos que en una cadena súper conocida."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Atma 23L con freidora de aire (HGFA2323PI) — 2 en 1` },
+      { type: "product-card", productMlaId: "MLA29108606", label: "Horno + freidora", labelColor: "purple", ranking: 3, description: `23 litros que además es freidora de aire: dos aparatos en uno, con grill. 4.6 estrellas en más de 590 calificaciones.` },
+      { type: "p", content: `Si te tienta tener **horno y freidora de aire en un solo aparato**, este Atma de 23 litros lo resuelve: horneás como en cualquier horno chico y además freís con aire (más sano, sin tanto aceite), a alrededor de $203.000. Ideal si querés las dos cosas sin ocupar dos lugares en la mesada.` },
+      { type: "p", content: `Es más chico (23 litros), así que para una familia grande queda corto; pero como combo horno + freidora para una pareja o cocina chica, es una solución práctica que pocos ofrecen.` },
+
+      { type: "h3", title: `4. Atma 30L con grill (HGA3022) — el más chico` },
+      { type: "product-card", productMlaId: "MLA21789761", label: "El tamaño intermedio", labelColor: "blue", ranking: 4, description: `30 litros con grill, llega hasta 250 °C y trae timer. 4.7 estrellas en más de 700 calificaciones.` },
+      { type: "p", content: `Si el de 45 te sobra y querés algo más compacto, el Atma de **30 litros** es el intermedio: alcanza para una pareja o cosas que no entran en uno chico, con grill, hasta 250 °C y timer, a alrededor de $200.000. Buen equilibrio entre tamaño y espacio en la mesada.` },
+
+      { type: "h2", title: `Tabla comparativa: la gama Atma`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Extra`, `Ideal para`], rows: [
+        [`[Atma 45L grill](https://meli.la/14iWweG)`, `$185.299`, `45 L`, `Grill`, `El más vendido, familia`],
+        [`[Atma 50L grill](https://meli.la/2gXMCyC)`, `$200.000`, `50 L`, `Dorar arriba/abajo`, `El grande`],
+        [`[Atma 30L grill](https://meli.la/1fbEnsF)`, `$199.999`, `30 L`, `Hasta 250 °C`, `Pareja, tamaño intermedio`],
+        [`[Atma 23L + freidora](https://meli.la/1HfsMm2)`, `$203.457`, `23 L`, `Freidora de aire`, `Horno y freidora en uno`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu horno Atma`, id: "como-elegir" },
+      { type: "p", content: `Definí el **tamaño** según cuántos son: 23 a 30 litros para una pareja o cosas chicas; 45 a 50 si sos familia o cocinás en cantidad. Y mirá las **funciones**: el de 23 suma freidora de aire (dos en uno), el de 50 te deja elegir dónde dorar. El más vendido (45L) es el equilibrio para la mayoría. Si dudás entre Atma y otra marca, en la [guía general](/guias/cocina/horno-electrico) está la comparación con BGH, Ultracomb y Smartlife.` },
+
+      { type: "h2", title: `Veredicto: cuál horno Atma comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Atma 45L con grill**: el más vendido, tamaño justo para familia y al mejor precio. Si querés **más espacio**, el **50L**; si te tienta **horno + freidora de aire** en uno, el **23L 2 en 1**; y para una pareja, el **30L** intermedio. Toda la gama tiene el service de Atma en el país. Para comparar con otras marcas, mirá la [guía general de hornos eléctricos](/guias/cocina/horno-electrico).` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor horno eléctrico Atma?`, answer: `Para la mayoría, el [Atma 45L con grill](https://meli.la/14iWweG): el más vendido del país, tamaño justo para familia y buen precio. Si querés más espacio, el [50L](https://meli.la/2gXMCyC); si querés horno y freidora de aire en uno, el [23L 2 en 1](https://meli.la/1HfsMm2); y para una pareja, el [30L](https://meli.la/1fbEnsF).` },
+      { question: `¿Atma es buena marca de hornos eléctricos?`, answer: `Sí, es la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina, con service en el país y precios accesibles. Es la opción confiable para la mayoría. En la [guía general de hornos eléctricos](/guias/cocina/horno-electrico) la comparamos con BGH, Ultracomb y Smartlife.` },
+      { question: `¿Hay un horno Atma que sea también freidora de aire?`, answer: `Sí, el [Atma 23L HGFA2323PI](https://meli.la/1HfsMm2) es horno y freidora de aire en un solo aparato: horneás y además freís con aire (más sano, sin tanto aceite). Es de 23 litros, así que para familia grande queda chico, pero como dos en uno para una pareja o cocina chica es muy práctico.` },
+    ],
+    internalLinks: [
+      { label: "Horno eléctrico: la guía completa (todas las marcas)", href: "/guias/cocina/horno-electrico" },
+      { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
+      { label: "Robot de cocina: cuál comprar", href: "/guias/cocina/robot-de-cocina" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
