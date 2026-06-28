@@ -36,12 +36,108 @@ export const curatedProducts: Product[] = [
       { label: "Control", value: "Perillas (analógico)" },
       { label: "Grill", value: "No" },
       { label: "Marca", value: "BGH" },
+      { label: "Dimensiones", value: "45,1 x 25,6 x 31,2 cm (ancho x alto x prof)" },
+      { label: "Peso", value: "10,2 kg" },
+      { label: "Tipo", value: "Monofunción" },
+      { label: "Plato giratorio", value: "Sí (vidrio)" },
+      { label: "Descongelado", value: "Automático" },
+      { label: "Timer", value: "Hasta 35 minutos" },
+      { label: "Color", value: "Blanco" },
+      { label: "Alimentación", value: "220 V / 50 Hz" },
+      { label: "Garantía", value: "12 meses (BGH)" },
     ],
     relatedProducts: ["MLA17695389", "MLA17484012"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas BGH Quick Chef de 20 litros y 700 W con control a perillas: el más vendido del país, simple y al mejor precio. Más de 4.100 calificaciones. Para descongelar y calentar sin renegar con menús digitales.",
+    seoTitle: "BGH B120M20: el microondas más vendido, ¿conviene?",
+    metaDescription: "Microondas BGH Quick Chef B120M20 de 20 litros, 700 W y perillas. Para una o dos personas que calientan y descongelan. No trae grill ni control digital.",
+    verdict: "Para una o dos personas que solo quieren calentar comida y descongelar, el BGH B120M20 es de los más elegidos del país: 20 litros, control a perillas, marca con service nacional y 4.6 estrellas en más de 4.100 opiniones. Si cocinás para una familia, querés dorar o gratinar, o buscás menús automáticos digitales, no es para vos: son 20 litros, 700 W, no trae grill y se maneja con perillas.",
+    pros: [
+      "20 litros y 700 W: el formato estándar que cubre el uso de todos los días, calentar y descongelar para una o dos personas",
+      "Control a perillas: andás, girás y listo, sin pantallas que se traben ni botones que se borren con el tiempo",
+      "Descongelado automático y plato giratorio de vidrio incluido",
+      "BGH es marca nacional con service en el país y 12 meses de garantía",
+      "4.6 estrellas en más de 4.100 opiniones, uno de los microondas más vendidos de MercadoLibre",
+      "Liviano (10,2 kg) y compacto: 45 cm de ancho, entra en cualquier alacena o mesada",
+    ],
+    cons: [
+      "700 W es potencia estándar: calienta y descongela más lento que uno de 900 a 1000 W",
+      "No trae grill: solo calienta y descongela, no dora ni gratina",
+      "Control a perillas, no digital: no tiene menús automáticos ni reloj. Si querés panel digital, el hermano B120DS20 lo trae",
+      "20 litros se queda corto para una familia o para meter fuentes grandes",
+      "Interior pintado (no cerámico): cuesta un poco más mantenerlo limpio que un esmaltado",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El BGH B120M20 es un microondas chico, de 20 litros y 700 W, pensado para lo básico: calentar la comida y descongelar. Es el modelo a perillas de la línea Quick Chef de BGH y uno de los más vendidos de MercadoLibre Argentina, con 4.6 estrellas en más de 4.100 opiniones.
+
+Si vivís solo o son dos en casa y lo que necesitás es recalentar un plato, descongelar carne y entibiar la leche, te sobra. No es un microondas para cocinar de cero ni para una familia numerosa.
+
+## Las funciones clave
+
+Tiene lo justo y necesario, sin vueltas. Control mecánico a perillas: una para la potencia, otra para el tiempo. Girás, anda, suena cuando termina.
+
+Trae descongelado automático y plato giratorio de vidrio. La potencia se regula en varios niveles y el timer llega hasta 35 minutos. Es un microondas monofunción: solo microondas, nada más.
+
+## Lo que resignás
+
+Acá no hay menús digitales ni reloj. Es a perillas. Eso para mucha gente es una ventaja (más simple, menos cosas que se rompen), pero si buscabas un panel con botones y programas automáticos, este no es.
+
+Tampoco trae grill. No dora ni gratina: si querés un microondas que haga eso, tenés que mirar otro modelo, como el Samsung con grill de 23 litros.
+
+## La contra real
+
+Son 700 W. Es la potencia estándar de los microondas de entrada, pero calienta y descongela más lento que uno de 900 a 1000 W. Si sos de los que no se banca esperar o calentás porciones grandes seguido, lo vas a notar.
+
+El otro punto: 20 litros es chico. Una fuente grande o un plato hondo de buen tamaño puede no entrar cómodo. Para una persona o dos está bien; para una familia se queda corto.
+
+## BGH y el digital de al lado
+
+BGH es marca nacional con service en el país y garantía de 12 meses. Eso pesa cuando algo falla: no es lo mismo que una marca importada sin respaldo acá.
+
+Si te gusta este pero querés control digital con menús automáticos y reloj, BGH tiene el hermano: el B120DS20. Mismo tamaño (20 litros) y misma potencia (700 W), pero con panel digital en vez de perillas. Cuesta más.
+
+## Para quién sí y para quién no
+
+Sí: para una o dos personas que calientan, descongelan y poco más. Para quien prefiere perillas antes que pantallas. Para quien quiere marca nacional con service y no quiere gastar de más.
+
+No: para una familia, para quien quiere dorar o gratinar (no trae grill), para quien busca menús digitales, o para quien calienta porciones grandes y no quiere esperar (700 W es lento).
+
+## Veredicto
+
+Es un microondas honesto: hace lo básico bien, es barato y tiene respaldo de marca nacional. Las 4.6 estrellas en más de 4.100 opiniones lo respaldan. No esperes grill, control digital ni espacio para una familia. Si tu uso es calentar y descongelar para una o dos personas, conviene.`,
+    faq: [
+      {
+        question: "¿El BGH B120M20 tiene grill?",
+        answer: "No. Es un microondas monofunción: solo calienta y descongela. No dora ni gratina. Si querés grill, mirá el Samsung de 23 litros con grill cerámico.",
+      },
+      {
+        question: "¿Cuántos litros y cuántos watts tiene?",
+        answer: "20 litros de capacidad y 700 W de potencia. Es el formato estándar de microondas de entrada, ideal para una o dos personas.",
+      },
+      {
+        question: "¿Es digital o a perillas?",
+        answer: "A perillas (control mecánico). No tiene panel digital ni menús automáticos. Si querés control digital con reloj, el hermano B120DS20 lo trae, mismo tamaño y potencia.",
+      },
+      {
+        question: "¿Conviene el B120M20 o el digital B120DS20?",
+        answer: "Mismo tamaño (20 litros) y misma potencia (700 W). La diferencia es el control: el B120M20 es a perillas y más barato; el B120DS20 es digital con menús automáticos y cuesta más. Si te alcanza con calentar y descongelar, las perillas sobran.",
+      },
+      {
+        question: "¿Sirve para una familia?",
+        answer: "Para una o dos personas está bien. Para una familia se queda corto: 20 litros es chico y 700 W calienta lento. Si son varios, conviene uno de 28 litros o más potencia.",
+      },
+      {
+        question: "¿Trae descongelado automático?",
+        answer: "Sí. Incluye función de descongelado automático y plato giratorio de vidrio. La regulación de potencia y el tiempo se manejan con las perillas, con timer hasta 35 minutos.",
+      },
+      {
+        question: "¿Tiene garantía y service en Argentina?",
+        answer: "Sí. BGH es marca nacional con service en el país y 12 meses de garantía. Eso es un respaldo que no siempre tienen las marcas importadas de bajo precio.",
+      },
+    ],
   },
   {
     id: "MLA17695389",
@@ -70,12 +166,100 @@ export const curatedProducts: Product[] = [
       { label: "Control", value: "Digital con menús automáticos" },
       { label: "Grill", value: "No" },
       { label: "Marca", value: "BGH" },
+      { label: "Niveles de potencia", value: "10" },
+      { label: "Programas automáticos", value: "6" },
+      { label: "Descongelado", value: "Por peso (100 a 1500 g)" },
+      { label: "Plato giratorio", value: "Sí" },
+      { label: "Traba para niños", value: "Sí" },
+      { label: "Eficiencia energética", value: "B (línea Eco, display con apagado automático)" },
+      { label: "Dimensiones", value: "25,9 alto x 44 ancho x 33,7 prof. (cm)" },
+      { label: "Peso", value: "10,2 kg" },
+      { label: "Color", value: "Silver" },
+      { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA18193159", "MLA17484012"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas BGH Quick Chef Eco de 20 litros y 700 W con control digital y menús automáticos. El BGH digital más elegido, con más de 3.700 calificaciones. Mismo tamaño que el de perillas, con panel para programar.",
+    seoTitle: "Microondas BGH B120DS20 Eco 20L: ¿conviene? Análisis",
+    metaDescription: "BGH Quick Chef Eco B120DS20, 20 litros y 700 W con control digital. Para una persona o pareja que calienta y descongela. 4.7★ en 3.700+ opiniones. Qué resignás.",
+    verdict: "Para una o dos personas que quieren calentar y descongelar con panel digital, el BGH B120DS20 es de las compras más sensatas: 20 litros, 700 W, descongelado por peso y 4.7 estrellas en más de 3.700 calificaciones, de una marca con service nacional. Si cocinás para una familia, querés dorar o gratinar, o no te banca esperar, no es para vos: son 20 litros, 700 W y no trae grill.",
+    pros: [
+      "20 litros: entra en cualquier cocina, ideal para una persona o pareja",
+      "Control digital con descongelado por peso (100 a 1500 g) y 6 programas automáticos",
+      "Línea Eco: eficiencia energética B y display que se apaga solo cuando no lo usás",
+      "Traba para niños y bloqueo de seguridad de fábrica",
+      "BGH, marca argentina con service oficial conocido",
+      "4.7 estrellas en más de 3.700 calificaciones: respaldo alto de compradores",
+    ],
+    cons: [
+      "700 W es potencia estándar: calienta y descongela más lento que uno de 900 a 1000 W",
+      "20 litros es chico: no entra una fuente grande ni una pizza familiar",
+      "Sin grill: solo calienta y descongela, no dora ni gratina",
+      "Garantía de 12 meses, más corta que la de modelos con magnetrón de garantía extendida",
+    ],
+    articleBody: `El BGH B120DS20 (línea Quick Chef Eco) es un microondas de 20 litros y 700 W con control digital. Es de los BGH digitales más elegidos, con 4.7 estrellas en más de 3.700 calificaciones. La pregunta no es si anda, sino para qué uso lo querés. Para eso está esta ficha.
+
+## Para qué alcanza (y para qué no)
+
+20 litros y 700 W es la franja de entrada. Alcanza de sobra para lo que el 90% le pide a un microondas: calentar la comida, descongelar, hacer un café con leche, recalentar las sobras. Para una persona o una pareja, rinde.
+
+Donde se queda corto es en volumen y velocidad. Los 20 litros no reciben una fuente grande ni una pizza familiar, y los 700 W (potencia estándar) tardan un poco más que uno de 900 a 1000 W. Si son varios en casa o cocinás seguido en el microondas, mirá uno más grande.
+
+## El control digital: qué suma
+
+A diferencia de los de perilla, este es digital. Trae 6 programas automáticos, 10 niveles de potencia y descongelado por peso: apretás el botón, cargás los gramos del alimento (de 100 a 1500 g) y el microondas calcula el tiempo solo. Ponés el dato exacto y listo, sin estimar girando una perilla.
+
+## La línea Eco: qué significa
+
+El "Eco" no es marketing vacío: el equipo tiene eficiencia energética B y un display que se apaga solo cuando no lo usás, para no consumir de fondo. Es un detalle chico, pero real. También trae traba para niños y bloqueo de seguridad de fábrica.
+
+## Lo que resignás: sin grill
+
+No tiene grill. La ficha del fabricante lo dice claro: es monofunción. Calienta y descongela, pero no dora ni gratina. Si querés tostar, gratinar una pasta o dorar pollo, este no es. Para eso hay que ir a un modelo con grill, que sube de precio y suele ser más grande.
+
+## La contra real
+
+Más allá de lo obvio (700 W y 20 litros son de entrada), el punto a tener en cuenta es la garantía: 12 meses. Modelos de gama más alta ofrecen garantía extendida en el magnetrón (la pieza que más se rompe). Acá es la estándar. No es un defecto, pero conviene saberlo si lo comparás con un LG o Samsung de más arriba.
+
+## Para quién sí y para quién no
+
+Sí: una persona o pareja que usa el microondas para calentar y descongelar, quiere panel digital con descongelado por peso y prefiere una marca con service local. No: familias, quien cocina mucho en el microondas, o quien quiere dorar y gratinar (le falta tamaño, potencia y grill).
+
+## Veredicto
+
+Es una compra sensata si tu uso es el común. BGH digital, descongelado por peso, línea eficiente y un precio de entrada, con el respaldo de más de 3.700 calificaciones. No esperes potencia alta ni grill: para eso no está pensado. Si lo tuyo es solo calentar y descongelar, sobra.`,
+    faq: [
+      {
+        question: "¿El microondas BGH B120DS20 tiene grill?",
+        answer: "No. La ficha del fabricante lo marca como monofunción: solo calienta y descongela, no dora ni gratina. Si querés grill para tostar o gratinar, necesitás otro modelo (más grande y más caro).",
+      },
+      {
+        question: "¿Cuántos litros tiene y para cuántas personas alcanza?",
+        answer: "20 litros. Rinde para una persona o una pareja. No entra una fuente grande ni una pizza familiar; si son varios en casa, conviene uno de 23 a 28 litros.",
+      },
+      {
+        question: "¿Cuánta potencia tiene y qué significa?",
+        answer: "700 W, la potencia estándar de un microondas de entrada. Calienta y descongela bien, pero tarda algo más que uno de 900 a 1000 W. Para uso normal (calentar, descongelar) casi no se nota.",
+      },
+      {
+        question: "¿Es digital o a perilla?",
+        answer: "Digital. Trae 6 programas automáticos, 10 niveles de potencia y descongelado por peso: cargás los gramos del alimento y calcula el tiempo solo. Más cómodo que uno a perilla.",
+      },
+      {
+        question: "¿Qué quiere decir la línea Eco?",
+        answer: "Que prioriza el bajo consumo: tiene eficiencia energética B y un display que se apaga solo cuando no lo usás. No cambia cómo cocina, suma en el gasto de luz a fin de mes.",
+      },
+      {
+        question: "¿Conviene este o el BGH digital de 28 litros?",
+        answer: "Depende del uso. Este (20 litros, 700 W) es para una persona o pareja que calienta y descongela. El de 28 litros (B228DS20) suma tamaño, 900 W y grill, para familia o quien cocina en serio. Si solo calentás, el de 20 sobra y sale menos.",
+      },
+      {
+        question: "¿BGH tiene service oficial en Argentina?",
+        answer: "Sí, BGH es una marca nacional con red de service conocida. La garantía de este modelo es de 12 meses, la estándar de la categoría.",
+      },
+    ],
   },
   {
     id: "MLA10531383",
@@ -105,12 +289,110 @@ export const curatedProducts: Product[] = [
       { label: "Interior", value: "Esmaltado cerámico (fácil de limpiar)" },
       { label: "Ojo", value: "Necesita toma de 20 A" },
       { label: "Marca", value: "Samsung" },
+      { label: "Potencia del grill", value: "1050 W" },
+      { label: "Programas", value: "20 modos de cocción preestablecidos" },
+      { label: "Traba", value: "Traba para niños" },
+      { label: "Modo Eco", value: "Sí (menor consumo en espera)" },
+      { label: "Dimensiones", value: "48,9 x 27,5 x 39,2 cm" },
+      { label: "Peso", value: "13 kg" },
     ],
     relatedProducts: ["MLA17484012", "MLA62204337"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas Samsung de 23 litros con grill e interior cerámico (más fácil de limpiar y resistente). Dora y gratina además de calentar. Importante: pide un toma de 20 A, así que puede que tengas que cambiar el enchufe. Más de 3.600 calificaciones.",
+    seoTitle: "Samsung MG23F3K3TAK: microondas con grill cerámico 23L",
+    metaDescription: "Microondas Samsung 23L con grill e interior cerámico. Para quien quiere dorar y gratinar, no solo calentar. Ojo: pide toma de 20 A. Specs reales y la contra.",
+    verdict: "Para una pareja o familia chica que además de calentar quiere dorar, gratinar o tostar, el Samsung de 23 litros con grill cumple: 800 W, grill de 1050 W, interior cerámico fácil de limpiar y 4.7 estrellas en más de 3.600 calificaciones. No es para vos si solo calentás café y comida del táper (pagás de más por un grill que no vas a usar) o si tu cocina no tiene un toma de 20 A: este modelo lo pide y puede que tengas que cambiar el enchufe.",
+    pros: [
+      "Trae grill de 1050 W: dora, gratina y tuesta, no solo calienta",
+      "Interior de cerámica lisa: antibacteriano, resistente a los rayones y más fácil de limpiar que el pintado",
+      "23 litros: entra una fuente o un plato grande sin pelearte con el plato giratorio",
+      "20 modos de cocción preestablecidos y descongelado automático",
+      "4.7 estrellas en más de 3.600 calificaciones, con service Samsung en el país",
+      "Modo Eco para bajar el consumo en espera",
+    ],
+    cons: [
+      "Pide un toma de 20 A: si tu cocina no lo tiene, vas a tener que cambiar el enchufe antes de usarlo",
+      "800 W de salida es potencia estándar: calienta normal, no más rápido que un microondas común",
+      "El grill es resistencia, no horno de convección: dora la superficie pero no reemplaza al horno para cocinar en serio",
+      "Más caro que un microondas de 20 L sin grill: si no vas a usar el grill, estás pagando de más",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Samsung MG23F3K3TAK es un microondas de 23 litros con grill incorporado. Eso quiere decir dos cosas: calienta y descongela como cualquier microondas, y además dora la superficie de la comida gracias a una resistencia (el grill).
+
+Con 23 litros entra una fuente mediana o un plato grande sin que el plato giratorio choque. Es un tamaño cómodo para una pareja o una familia chica. La salida de microondas es de 800 W, que es la potencia estándar: ni rápido ni lento, lo normal.
+
+## Para qué sirve el grill
+
+El grill es lo que lo separa de un microondas común. Suma una resistencia de 1050 W arriba que dora y gratina.
+
+Sirve para tostar un sándwich, gratinar una porción de pastas con queso, dorar la parte de arriba de una tarta o terminar un pollo que ya cocinaste. La función Combi mezcla microondas y grill al mismo tiempo, así cocinás por dentro y dorás por fuera.
+
+Aclaración importante: el grill es una resistencia, no convección. Dora la superficie, pero no reemplaza al horno para cocinar algo desde cero.
+
+## El interior cerámico
+
+El interior es de cerámica lisa, no de pintura. Es el detalle que más se nota con el uso.
+
+La cerámica es antibacteriana, resistente a los rayones y no pierde color con el tiempo. En la práctica: las salpicaduras se limpian con un trapo y no se queda pegada la grasa como en los interiores pintados que se descascaran a los años.
+
+## Lo que tenés que saber antes de comprar
+
+Este modelo pide un toma corriente de 20 A. No es un detalle menor.
+
+La mayoría de los enchufes de casa son de 10 A. Si conectás el microondas a un toma común, podés saltar la térmica o forzar la instalación. Antes de comprarlo, fijate qué toma tenés en la cocina. Si no es de 20 A, vas a tener que llamar a un electricista para cambiar el enchufe.
+
+Es la contra más concreta del producto y la razón número uno por la que alguien se arrepiente de la compra.
+
+## Lo que resignás
+
+Pagás más que por un microondas de 20 litros sin grill. Si lo único que hacés es calentar comida y descongelar, ese plus no te rinde: te conviene un modelo más barato sin grill.
+
+Tampoco es un horno. El grill dora, pero si querés cocinar tartas, pizzas o asados desde cero, esto no lo reemplaza. Es un complemento, no un dos en uno completo.
+
+Y los 800 W son potencia normal. No esperes que caliente más rápido que cualquier otro microondas: la diferencia está en el grill, no en la velocidad.
+
+## Para quién sí y para quién no
+
+Es para vos si querés un microondas que además dore y gratine, tenés (o podés instalar) un toma de 20 A, y valorás un interior que se limpia fácil y dura. Pareja o familia chica que cocina seguido y le saca jugo al grill.
+
+No es para vos si solo calentás y descongelás (pagás de más por el grill), si tu instalación eléctrica es vieja y no querés tocarla, o si buscás algo que reemplace al horno. En esos casos, un microondas de 20 litros sin grill te resuelve por menos plata.
+
+## Veredicto
+
+Buen microondas con grill, con la marca y el service de Samsung detrás, y 4.7 estrellas en más de 3.600 calificaciones que respaldan que cumple. El interior cerámico es el punto fuerte real. La única traba seria es el toma de 20 A: verificá eso antes de comprar y el resto es lo esperable de un Samsung de gama media.`,
+    faq: [
+      {
+        question: "¿El Samsung MG23F3K3TAK tiene grill?",
+        answer: "Sí. Trae un grill (resistencia) de 1050 W que dora y gratina, además de los 800 W de microondas para calentar y descongelar. La función Combi usa los dos a la vez para cocinar por dentro y dorar por fuera.",
+      },
+      {
+        question: "¿Cuántos litros tiene?",
+        answer: "23 litros. Es un tamaño intermedio: entra una fuente mediana o un plato grande sin que choque el plato giratorio. Cómodo para una pareja o una familia chica.",
+      },
+      {
+        question: "¿Por qué necesita un toma de 20 A?",
+        answer: "Por el consumo del grill sumado al microondas. La mayoría de los enchufes de casa son de 10 A, así que antes de comprarlo fijate qué toma tenés en la cocina. Si es de 10 A vas a tener que cambiar el enchufe con un electricista.",
+      },
+      {
+        question: "¿El interior cerámico se limpia más fácil?",
+        answer: "Sí. La cerámica lisa es antibacteriana, resistente a los rayones y no pierde color. Las salpicaduras se limpian con un trapo y no se queda pegada la grasa como en los interiores pintados.",
+      },
+      {
+        question: "¿Conviene este Samsung con grill o uno sin grill más barato?",
+        answer: "Depende del uso. Si solo calentás y descongelás, un microondas de 20 litros sin grill te sale más barato y rinde igual. Si querés tostar, gratinar o dorar, ahí el grill justifica la diferencia de precio.",
+      },
+      {
+        question: "¿El grill reemplaza al horno?",
+        answer: "No. El grill es una resistencia que dora la superficie, no convección. Sirve para gratinar o terminar un plato, pero no cocina tartas, pizzas ni asados desde cero como un horno.",
+      },
+      {
+        question: "¿Tiene programas automáticos?",
+        answer: "Sí. Trae 20 modos de cocción preestablecidos, descongelado automático y traba para niños. También un modo Eco que baja el consumo en espera.",
+      },
+    ],
   },
   {
     id: "MLA17484012",
@@ -139,12 +421,99 @@ export const curatedProducts: Product[] = [
       { label: "Control", value: "Digital" },
       { label: "Grill", value: "Sí" },
       { label: "Marca", value: "BGH" },
+      { label: "Potencia grill", value: "1000 W" },
+      { label: "Convección", value: "No (solo grill)" },
+      { label: "Dimensiones", value: "52 x 43.5 x 32.6 cm" },
+      { label: "Peso", value: "16 kg" },
+      { label: "Color", value: "Silver, puerta espejada" },
+      { label: "Garantía", value: "12 meses oficial BGH" },
+      { label: "Funciones", value: "Descongelado automático, cocción por etapas, plato giratorio" },
     ],
     relatedProducts: ["MLA18193159", "MLA10531383"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas BGH de 28 litros (de los más grandes: entra una fuente o una pizza), 900 W de potencia, control digital y grill. Para familia o quien cocina en serio. Más de 2.800 calificaciones y diseño espejado.",
+    seoTitle: "Microondas BGH 28L B228DS20: ¿conviene? Grill y digital",
+    metaDescription: "BGH 28 litros, 900 W, control digital y grill que dora. Para familia o quien cocina en serio. 4.8★ en 2.800+ opiniones. Qué resignás y para quién conviene.",
+    verdict: "Para una familia o para quien cocina en serio y necesita meter una fuente o una pizza, el BGH de 28 litros entra: 900 W, control digital, grill que dora y service oficial BGH con garantía de 12 meses. Si vivís solo, calentás el café y poco más, o tenés la cocina chica, no es para vos: son 52 cm de ancho y vas a pagar por litros y grill que no usás.",
+    pros: [
+      "28 litros: entra una fuente grande o una pizza, pensado para familia",
+      "Grill incluido: dora y gratina, no solo calienta",
+      "900 W de salida: calienta y descongela más rápido que uno de 700 W",
+      "Control digital con descongelado automático y cocción por etapas",
+      "BGH, marca nacional con service oficial y 12 meses de garantía",
+      "4.8 estrellas en más de 2.800 calificaciones: respaldo alto",
+    ],
+    cons: [
+      "52 cm de ancho y 16 kg: ocupa lugar, no es para una cocina chica",
+      "Los 1500 W son de consumo eléctrico, no de cocción (la salida real es 900 W)",
+      "Si vivís solo y solo calentás, pagás por litros y grill que no vas a usar",
+      "El grill suma consumo cuando lo usás: la luz se nota si cocinás seguido",
+    ],
+    articleBody: `El BGH B228DS20 es un microondas de 28 litros con 900 W de salida, control digital y grill. Es de los más grandes de su rango y tiene 4.8 estrellas en más de 2.800 calificaciones. La pregunta no es si es bueno, sino si necesitás este tamaño: para eso es esta ficha.
+
+## Qué es y para qué alcanza
+
+Son 28 litros. Eso significa que entra una fuente grande, una pizza o un plato hondo sin pelear con el plato giratorio. La mayoría de los microondas que ves rondan los 20 o 23 litros; este juega en otra liga de capacidad.
+
+Los 900 W de salida calientan y descongelan más rápido que un equipo de 700 W. Vas a notar la diferencia en una porción de comida congelada o en calentar un guiso para varios.
+
+## Qué incluye el grill
+
+Tiene grill, y eso es lo que lo separa de un microondas básico. El grill dora y gratina: sirve para terminar una tortilla, gratinar un pastel de papa o dorar la parte de arriba de algo que ya cocinaste. No reemplaza a un horno, pero suma una función que los microondas simples no tienen.
+
+El control es digital, con descongelado automático y cocción por etapas. No es solo un dial de tiempo: programás y el equipo hace el resto.
+
+## La aclaración de los 1500 W
+
+El título dice "1500 W" y conviene entender qué significa. Esos 1500 W son el consumo eléctrico del equipo, no la potencia de cocción. La potencia real con la que calienta la comida es 900 W. Es la diferencia normal entre lo que el aparato toma del enchufe y lo que entrega adentro. No es un dato malo, pero no compares 1500 W contra los 900 o 1000 W de salida de otro: no son la misma medida.
+
+## Lo que resignás
+
+Tamaño contra espacio. Son 52 cm de ancho, 43.5 de profundidad y 16 kg. Antes de comprar, medí el lugar en la mesada o el mueble. En una cocina chica este equipo se come la mesada.
+
+También resignás simplicidad de cuenta de luz: el grill consume cuando lo usás. Si cocinás seguido con grill, lo vas a ver en la boleta.
+
+## Para quién sí y para quién no
+
+Sí, si sos familia, cocinás para varios, o querés dorar y gratinar además de calentar. Los 28 litros y el grill se justifican cuando los usás.
+
+No, si vivís solo o en pareja y tu uso es calentar café, descongelar y poco más. Para eso, un 20 litros sin grill te alcanza, ocupa menos y sale menos. Estarías pagando litros y una función que no vas a tocar.
+
+## Veredicto
+
+El BGH B228DS20 es un microondas grande, digital y con grill, de marca nacional con service y garantía oficial de 12 meses. Las 4.8 estrellas en más de 2.800 opiniones respaldan que cumple. La decisión es de tamaño: si necesitás 28 litros y grill, este es de los más completos en su rango. Si no, te estás pasando de equipo.`,
+    faq: [
+      {
+        question: "¿El BGH B228DS20 tiene grill?",
+        answer: "Sí. Trae grill, así que además de calentar dora y gratina. Sirve para terminar una tortilla, gratinar un pastel de papa o dorar la parte de arriba de algo ya cocinado. Es lo que lo separa de un microondas básico que solo calienta.",
+      },
+      {
+        question: "¿Cuántos litros tiene y qué le entra?",
+        answer: "28 litros, de los más grandes en su rango. Entra una fuente grande, una pizza o un plato hondo. Para comparar: la mayoría de los microondas comunes son de 20 o 23 litros.",
+      },
+      {
+        question: "¿Qué significa que tenga 1500 W?",
+        answer: "Los 1500 W son el consumo eléctrico del equipo, no la potencia de cocción. La potencia real con la que calienta es 900 W de salida. Es la diferencia normal entre lo que toma del enchufe y lo que entrega adentro. No compares 1500 W contra los 900 o 1000 W de salida de otro modelo: no son la misma medida.",
+      },
+      {
+        question: "¿Conviene este o un microondas de 20 litros?",
+        answer: "Depende de tu uso. Si sos familia o cocinás para varios y querés dorar o gratinar, los 28 litros y el grill se justifican. Si vivís solo o en pareja y solo calentás y descongelás, un 20 litros sin grill te alcanza, ocupa menos y sale menos.",
+      },
+      {
+        question: "¿Qué medidas tiene? ¿Entra en cualquier mesada?",
+        answer: "Mide 52 cm de ancho, 43.5 de profundidad y 32.6 de alto, y pesa 16 kg. Es grande: antes de comprar medí el lugar en la mesada o el mueble. En una cocina chica ocupa bastante espacio.",
+      },
+      {
+        question: "¿BGH tiene service oficial y garantía?",
+        answer: "Sí. BGH es marca nacional con service oficial en Argentina y el equipo viene con 12 meses de garantía oficial. Es uno de los motivos por los que tiene 4.8 estrellas en más de 2.800 calificaciones.",
+      },
+      {
+        question: "¿Sirve para descongelar y cocinar comidas, no solo calentar?",
+        answer: "Sí. Tiene control digital con descongelado automático y cocción por etapas, así que programás y el equipo hace el resto. Con el grill además podés dorar y gratinar, pero no reemplaza a un horno completo.",
+      },
+    ],
   },
   {
     id: "MLA41009857",
@@ -179,6 +548,75 @@ export const curatedProducts: Product[] = [
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas Atma de 20 litros y 700 W, control digital, de una marca conocida y confiable. La alternativa de valor a BGH, con más de 2.300 calificaciones. Contra honesta de las reseñas: la luz interior es floja.",
+    seoTitle: "Microondas Atma 20L MATDB20UAP: ¿conviene? Análisis honesto",
+    metaDescription: "Atma 20 litros, 700 W y control digital. Para una o dos personas que solo calientan y descongelan. 4.8★ en 2.300+ opiniones. Qué resignás y para quién conviene.",
+    verdict: "Para una o dos personas que solo quieren calentar y descongelar, el Atma de 20 litros sobra: control digital, marca con service local y 4.8 estrellas en más de 2.300 opiniones. Si cocinás para una familia, querés dorar o gratinar, o no te banca esperar, no es para vos: son 20 litros, 700 W y no trae grill.",
+    pros: [
+      "20 litros: entra en cualquier cocina, ideal para una persona o pareja",
+      "Control digital con menús automáticos, reloj y programación al minuto",
+      "Atma, marca con service oficial conocido en Argentina",
+      "4.8 estrellas en más de 2.300 calificaciones: respaldo alto de compradores",
+      "De la franja de entrada en precio, la alternativa de valor al BGH digital",
+    ],
+    cons: [
+      "700 W es potencia estándar: calienta y descongela más lento que uno de 900 a 1000 W",
+      "20 litros es chico: no entra una fuente grande ni una pizza",
+      "Sin grill: solo calienta y descongela, no dora ni gratina",
+      "La luz interior es floja, según las opiniones de compradores",
+    ],
+    articleBody: `El Atma MATDB20UAP es un microondas de 20 litros y 700 W con control digital. Es de los más elegidos en su rango, con 4.8 estrellas en más de 2.300 calificaciones. La pregunta no es si es bueno, sino para qué uso lo querés: para eso sirve esta ficha.
+
+## Para qué alcanza (y para qué no)
+
+20 litros y 700 W es la franja de entrada. Alcanza de sobra para lo que el 90% le pide a un microondas: calentar la comida, descongelar, hacer un café con leche, recalentar las sobras. Para una persona o una pareja, rinde.
+
+Donde se queda corto es en volumen y velocidad. Los 20 litros no reciben una fuente grande ni una pizza familiar, y los 700 W (potencia estándar) tardan un poco más que un microondas de 900 a 1000 W. Si sos varios en casa o cocinás seguido en el microondas, mirá uno más grande.
+
+## El control digital: qué suma
+
+A diferencia de los de perilla, este es digital: trae menús automáticos por tipo de alimento, reloj y programación al minuto. En la práctica, ponés el tiempo exacto y listo, sin estimar girando una perilla. Es la comodidad que pagás de más respecto a un microondas a perilla del mismo tamaño.
+
+## Lo que resignás: sin grill
+
+No tiene grill. Eso significa que calienta y descongela, pero no dora ni gratina. Si querés tostar, gratinar una pasta o dorar pollo, este no es. Para eso hay que ir a un modelo con grill, que sube de precio y suele ser más grande.
+
+## La contra real
+
+La crítica más repetida de los compradores es que la luz interior es floja: se ve poco el plato mientras gira. No afecta el funcionamiento, pero es el "pero" honesto que conviene saber antes de comprar.
+
+## Para quién sí y para quién no
+
+Sí: una persona o pareja que usa el microondas para calentar y descongelar, quiere control digital y prefiere una marca con service local. No: familias, quien cocina mucho en el microondas, o quien quiere dorar y gratinar (le falta tamaño, potencia y grill).
+
+## Veredicto
+
+Es una compra sensata si tu uso es el común y valorás la marca. Atma con control digital, respaldo de service y un precio de entrada. No esperes potencia alta ni grill: para eso no está pensado.`,
+    faq: [
+      {
+        question: "¿El microondas Atma MATDB20UAP tiene grill?",
+        answer: "No. Solo calienta y descongela; no dora ni gratina. Si querés grill para tostar o gratinar, necesitás otro modelo (más grande y más caro).",
+      },
+      {
+        question: "¿Cuánta potencia tiene y qué significa?",
+        answer: "700 W, que es la potencia estándar de un microondas de entrada. Calienta y descongela bien, pero tarda algo más que uno de 900 a 1000 W. Para uso normal (calentar, descongelar) no se nota mucho.",
+      },
+      {
+        question: "¿Para cuántas personas alcanza?",
+        answer: "Por sus 20 litros, rinde para una persona o una pareja. No entra una fuente grande ni una pizza familiar; si son varios en casa, conviene uno de 23 a 28 litros.",
+      },
+      {
+        question: "¿Es digital o a perilla?",
+        answer: "Digital. Trae menús automáticos, reloj y programación al minuto. Es más cómodo que uno a perilla, a cambio de un poco más de precio.",
+      },
+      {
+        question: "¿Atma tiene service oficial en Argentina?",
+        answer: "Sí, Atma es una marca nacional con red de service conocida en el país. Es uno de los motivos por los que se elige frente a marcas sin respaldo local.",
+      },
+      {
+        question: "¿Conviene este o el BGH digital?",
+        answer: "Son equivalentes en tamaño y potencia (20 litros, 700 W, digital). El BGH digital suele ser el más vendido; este Atma es la alternativa de valor. Si lo conseguís más barato o preferís Atma, es una compra igual de sensata.",
+      },
+    ],
   },
   {
     id: "MLA62204337",
@@ -207,12 +645,111 @@ export const curatedProducts: Product[] = [
       { label: "Tecnología", value: "Smart Inverter (potencia continua: descongela y cocina parejo)" },
       { label: "Garantía", value: "Magnetrón 10 años" },
       { label: "Marca", value: "LG" },
+      { label: "Potencia combinada", value: "1350 W (microondas + grill)" },
+      { label: "Línea", value: "NeoChef" },
+      { label: "Panel de control", value: "Táctil con pantalla LED" },
+      { label: "Niveles de potencia", value: "10 niveles de microondas" },
+      { label: "Interior", value: "EasyClean antibacterial (elimina 99,99% de bacterias)" },
+      { label: "Plato giratorio", value: "Hexagonal, 292 mm de diámetro" },
+      { label: "Dimensiones", value: "47,6 x 27,2 x 38,9 cm (an x al x prof)" },
+      { label: "Peso", value: "8,9 kg" },
+      { label: "Seguridad", value: "Bloqueo de niños" },
+      { label: "Color", value: "Negro" },
     ],
     relatedProducts: ["MLA10531383", "MLA17484012"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas LG de 25 litros con tecnología Smart Inverter, que regula la potencia en vez de prender y apagar: calienta más parejo y es más silencioso. El premium de la guía. Es nuevo, así que todavía tiene pocas opiniones (pero excelentes).",
+    seoTitle: "Microondas LG MH6535GIS 25L Smart Inverter: review",
+    metaDescription: "El LG MH6535GIS de 25 litros con grill y Smart Inverter: para quien cocina seguido, quiere dorar y banca pagar el premium. Specs reales y la contra.",
+    verdict: "Para quien cocina seguido, quiere calentar parejo y además dorar o gratinar con el grill, el LG MH6535GIS es el premium de la categoría: 25 litros, Smart Inverter que regula la potencia en vez de prender y apagar, y magnetrón con 10 años de garantía. Si solo calentás el café y descongelás, te sobra y estás pagando de más: con uno de 20 litros y 700 W resolvés lo mismo por bastante menos plata.",
+    pros: [
+      "Smart Inverter: regula la potencia de forma continua, así que calienta y descongela más parejo y más silencioso que un microondas común",
+      "25 litros entran fuentes y platos grandes, sirve para familia",
+      "Grill de cuarzo de 850 W para dorar, gratinar y tostar, no solo calentar",
+      "Magnetrón con 10 años de garantía: LG cubre la pieza más cara y la que más se rompe",
+      "Interior EasyClean antibacterial, más fácil de limpiar que el esmaltado común",
+      "Panel táctil con pantalla LED y bloqueo de niños",
+    ],
+    cons: [
+      "Es el más caro del grupo: 374.999 pesos contra microondas de 20 a 23 litros que arrancan bastante más abajo",
+      "Si solo calentás y descongelás, no vas a aprovechar ni el grill ni la potencia: pagás funciones que no usás",
+      "Pocas opiniones todavía (4.9 en 66 calificaciones): el rating es excelente pero la muestra es chica frente a modelos con miles de reseñas",
+      "Ocupa lugar: 47,6 cm de ancho, medí la mesada antes de comprar",
+      "El grill suma potencia pero no reemplaza a un horno eléctrico para tandas largas",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El LG MH6535GIS es un microondas de 25 litros con grill y tecnología Smart Inverter. Es el premium de la categoría microondas del sitio. Apunta a quien cocina seguido, no solo calienta: una familia, alguien que descongela carne, gratina, hace tostadas o quiere que la comida quede pareja y no hervida por fuera y fría en el centro.
+
+Si lo tuyo es calentar el café, descongelar y poco más, este equipo te queda grande y caro. Para ese uso, un microondas de 20 litros y 700 W hace lo mismo por mucho menos. Acá pagás por la potencia, el grill y la marca.
+
+## Qué hace el Smart Inverter
+
+Un microondas común regula la potencia prendiendo y apagando el magnetrón. Cuando lo ponés al 50%, en realidad va a tope unos segundos y se apaga otros. Por eso a veces la comida queda con zonas calientes y zonas frías.
+
+El Smart Inverter mantiene un flujo de potencia continuo. Baja la intensidad de verdad en vez de cortar. El resultado: descongela y cocina más parejo, y trabaja más silencioso. Es la diferencia real entre este LG y un microondas de entrada.
+
+## Potencia y grill
+
+Trae 1000 W de microondas, que es potencia alta. Calienta y descongela más rápido que los modelos de 700 a 800 W.
+
+El extra es el grill de cuarzo de 850 W. Sirve para dorar, gratinar y tostar, cosas que un microondas pelado no hace. En modo combinado (microondas más grill) llega a 1350 W. No reemplaza a un horno eléctrico para una pizza casera de cero o tandas largas, pero para gratinar una porción o dorar la superficie de un plato, cumple.
+
+## Tamaño, limpieza y garantía
+
+Son 25 litros, así que entran fuentes y platos grandes que en uno de 20 litros no entran. Eso también significa que ocupa más: medí la mesada antes, son 47,6 cm de ancho.
+
+El interior tiene revestimiento EasyClean antibacterial, más fácil de limpiar que el esmaltado común. Trae panel táctil con pantalla LED y bloqueo de niños.
+
+El dato fuerte es la garantía: LG cubre el magnetrón por 10 años. El magnetrón es la pieza que genera las microondas y la más cara de reemplazar. Que esté cubierto una década baja el riesgo de la compra.
+
+## Lo que resignás
+
+Pagás más. A 374.999 pesos, es el más caro de la categoría. Microondas de 20 a 23 litros arrancan bastante por debajo.
+
+Y todavía tiene pocas opiniones: 4.9 estrellas sobre 66 calificaciones. El rating es excelente, pero la muestra es chica al lado de modelos con miles de reseñas. Es un producto nuevo, todavía no acumuló historial de uso largo.
+
+## Para quién sí y para quién no
+
+Sí: si cocinás seguido, sos familia, querés calentar parejo y además dorar o gratinar, y te banca pagar el premium por el Smart Inverter y los 10 años de garantía del magnetrón.
+
+No: si solo calentás y descongelás, o buscás lo más barato que funcione. Para eso, un microondas de 20 litros y 700 W resuelve lo mismo y te ahorra plata.
+
+## Veredicto
+
+El LG MH6535GIS es el microondas premium de la categoría y se justifica para quien le va a sacar el jugo: cocina seguido, usa el grill y valora el Smart Inverter. Specs reales: 25 litros, 1000 W, grill de cuarzo 850 W, magnetrón con 10 años de garantía. Si tu uso es solo calentar, no es para vos; mirá un modelo más chico y económico.`,
+    faq: [
+      {
+        question: "¿El LG MH6535GIS tiene grill?",
+        answer: "Sí. Trae grill de cuarzo de 850 W para dorar, gratinar y tostar. En modo combinado (microondas más grill) llega a 1350 W. No reemplaza a un horno eléctrico para tandas largas, pero para gratinar o dorar una porción cumple.",
+      },
+      {
+        question: "¿Cuántos litros tiene?",
+        answer: "25 litros. Entran fuentes y platos grandes que en un microondas de 20 litros no entran. A cambio ocupa más lugar: medí la mesada, son 47,6 cm de ancho.",
+      },
+      {
+        question: "¿Qué es el Smart Inverter y para qué sirve?",
+        answer: "Es la tecnología que regula la potencia de forma continua en vez de prender y apagar el magnetrón. Calienta y descongela más parejo (sin zonas hervidas y zonas frías) y trabaja más silencioso. Es la diferencia principal con un microondas de entrada.",
+      },
+      {
+        question: "¿Conviene el LG MH6535GIS o uno más barato de 20 litros?",
+        answer: "Depende del uso. Si solo calentás y descongelás, un microondas de 20 litros y 700 W hace lo mismo por mucho menos plata. El LG conviene si cocinás seguido, sos familia y vas a usar el grill y la potencia de 1000 W.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "LG cubre el magnetrón por 10 años. El magnetrón es la pieza que genera las microondas y la más cara de reemplazar, así que esa cobertura larga baja el riesgo de la compra.",
+      },
+      {
+        question: "¿Sirve para una familia?",
+        answer: "Sí. Con 25 litros y 1000 W es de los que mejor responden para uso familiar: entran platos grandes y calienta rápido. Para una o dos personas que solo calientan, queda sobredimensionado.",
+      },
+      {
+        question: "¿Cuánta potencia tiene?",
+        answer: "1000 W de microondas con 10 niveles de potencia, más el grill de cuarzo de 850 W. Es potencia alta: calienta y descongela más rápido que los modelos de 700 a 800 W.",
+      },
+    ],
   },
   {
     id: "MLA19079384",
@@ -242,12 +779,113 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí" },
       { label: "Garantía", value: "12 meses" },
       { label: "Marca", value: "BGH" },
+      { label: "Potencia grill", value: "1000 W" },
+      { label: "Niveles de potencia", value: "10" },
+      { label: "Descongelado", value: "Por peso y por tiempo" },
+      { label: "Plato giratorio", value: "Sí, 27 cm" },
+      { label: "Modo Eco", value: "Apaga el display en standby" },
+      { label: "Bloqueo de niños", value: "Sí" },
+      { label: "Eficiencia energética", value: "Clase B" },
+      { label: "Dimensiones", value: "48,5 x 39,4 x 29,2 cm (an x prof x alt)" },
+      { label: "Peso", value: "13,4 kg" },
+      { label: "Modelo", value: "B223DN20I" },
     ],
     relatedProducts: ["MLA18193159", "MLA17484012"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas BGH Eco de 23 litros, 800 W y con grill (1000 W) para dorar: un escalón de tamaño y de funciones sobre los de 20 litros, sin saltar al de 28. Control digital. Más de 2.000 calificaciones.",
+    seoTitle: "Microondas BGH Eco 23L 800W con Grill: review honesta",
+    metaDescription: "Microondas BGH Eco 23L, 800W y grill 1000W para dorar. Para quien cocina para dos o tres y quiere algo más que calentar. Specs reales, contras y para quién sí.",
+    verdict: "Para una pareja o tres personas que quieren calentar, descongelar y de vez en cuando dorar algo, el BGH Eco de 23 litros es un punto justo: tamaño intermedio, grill de 1000 W y control digital, con 4.7 estrellas en más de 2.000 calificaciones. Si cocinás para una familia grande, querés meter fuentes anchas, o pensás que el grill reemplaza a un horno, no es para vos: son 23 litros, el grill dora pero no es convección, y los 800 W calientan a velocidad estándar.",
+    pros: [
+      "Grill de 1000 W para dorar y dejar crocante, algo que un microondas pelado no hace",
+      "23 litros: entra una fuente mediana, un escalón arriba de los de 20 L",
+      "Control digital con auto menú, descongelado por peso, reloj y cronómetro",
+      "Modo Eco que apaga el display cuando no se usa, baja el consumo en standby",
+      "Bloqueo de teclado para niños y traba de seguridad",
+      "Marca nacional con service en el país y 12 meses de garantía",
+    ],
+    cons: [
+      "800 W es potencia estándar: calienta y descongela a ritmo normal, no más rápido que la media",
+      "El grill dora con resistencia eléctrica, no es convección: no reemplaza al horno para hornear",
+      "23 litros sigue siendo chico para una familia numerosa o fuentes grandes",
+      "Eficiencia energética clase B, no es de las más bajas en consumo",
+      "Capacidad útil de 13 litros: el plato de 27 cm limita el diámetro de lo que entra",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El BGH Eco de 23 litros es un microondas de tamaño intermedio con grill. Está pensado para una pareja o una casa de tres: calienta, descongela y, gracias al grill, también dora.
+
+Es el escalón del medio. Más grande que los de 20 litros, sin saltar a los de 28. Si venís de uno chico y querés meter una fuente mediana o gratinar de vez en cuando, este rango es el que tiene sentido.
+
+No es un horno. El grill ayuda, pero la cocción de verdad va por otro lado.
+
+## Las funciones clave
+
+Trae 800 W de microondas y un grill de 1000 W. El grill es el diferencial frente a un microondas pelado: dora la superficie y deja la comida más crocante. Sirve para gratinar, tostar o terminar una pizza recalentada.
+
+El control es digital, con auto menú, descongelado por peso (vos ponés los gramos y él calcula tiempo y potencia) y descongelado por tiempo. Suma reloj, cronómetro y señal de fin de cocción.
+
+Tiene modo Eco: apaga el display cuando no lo usás, así baja el consumo en standby. Y bloqueo de teclado para niños, que activás manteniendo Cancelar tres segundos.
+
+## Lo que resignás
+
+Los 800 W son potencia estándar. Calienta y descongela bien, pero no esperes que vaya más rápido que cualquier microondas común de gama media. Para velocidad real hay que ir a uno de 900 a 1000 W de microondas (no de grill).
+
+El grill funciona con resistencia eléctrica, no es convección. Dora por arriba, pero no cocina con aire caliente: no hornea como un horno ni como los microondas con convección de verdad.
+
+La capacidad útil real es de 13 litros y el plato giratorio mide 27 cm. Eso limita el diámetro de la fuente que entra, aunque los 23 litros declarados dan más altura interna que un modelo de 20.
+
+## La contra real
+
+Es marca nacional y de gama media, no premium. La eficiencia energética es clase B: no es de las más eficientes del mercado, aunque el modo Eco compensa en standby.
+
+Y ojo con la expectativa del grill. Mucha gente compra un microondas con grill pensando que reemplaza al horno. No lo hace. Dora y gratina, pero milanesas o tartas de cero siguen siendo trabajo de horno.
+
+Para respaldo: tiene 4.7 estrellas en más de 2.000 calificaciones en MercadoLibre, así que en lo que promete (calentar, descongelar, dorar) cumple según la mayoría.
+
+## Para quién sí y para quién no
+
+Sí: pareja o casa de tres que quiere algo más que calentar. Si te tienta poder dorar, gratinar o dejar crocante sin prender el horno grande, el grill justifica el paso desde un microondas básico.
+
+Sí también si valorás marca nacional con service local y 12 meses de garantía.
+
+No: familia numerosa o quien mete fuentes anchas seguido. Quedate en los de 28 litros o más. Tampoco si buscás el más rápido (mirá los de 900 a 1000 W de microondas) o si esperás que el grill funcione como horno.
+
+## Veredicto
+
+El BGH Eco 23L es un microondas de gama media bien resuelto para el uso de todos los días de una casa chica o mediana. El grill de 1000 W le da algo que los básicos no tienen, sin pagar de más. Sabiendo que son 23 litros, 800 W estándar y un grill que dora pero no hornea, es una compra sensata. Si necesitás más capacidad, más potencia o cocción real, este no es tu modelo.`,
+    faq: [
+      {
+        question: "¿El microondas BGH Eco 23L tiene grill?",
+        answer: "Sí. Trae grill eléctrico de 1000 W, además de los 800 W de microondas. Sirve para dorar, gratinar y dejar crocante. No es convección: dora por arriba, pero no cocina con aire caliente como un horno.",
+      },
+      {
+        question: "¿Cuántos litros tiene y cuánto entra?",
+        answer: "23 litros de capacidad declarada (13 litros útiles) con plato giratorio de 27 cm. Es un tamaño intermedio: entra una fuente mediana. Para familia numerosa o fuentes anchas conviene uno de 28 litros o más.",
+      },
+      {
+        question: "¿Cuánta potencia tiene y calienta rápido?",
+        answer: "800 W de microondas, que es potencia estándar de gama media. Calienta y descongela bien, pero no más rápido que la media. Si buscás velocidad, mirá modelos de 900 a 1000 W de microondas (no de grill).",
+      },
+      {
+        question: "¿Tiene descongelado automático?",
+        answer: "Sí. Descongela por peso (ponés los gramos y calcula tiempo y potencia solo) y también por tiempo. Suma auto menú, reloj, cronómetro e inicio rápido.",
+      },
+      {
+        question: "¿Qué es el modo Eco?",
+        answer: "Apaga el display cuando el equipo no se usa, para bajar el consumo en standby. Es la función que le da el nombre. La eficiencia energética del equipo es clase B.",
+      },
+      {
+        question: "¿Conviene el BGH Eco 23L o un Atma de 23L con grill?",
+        answer: "Son muy parejos: ambos 23 litros, 800 W y con grill. El Atma Easy Cook incluye parrilla y tiene fama de liviano (se mueve al tirar de la manija). El BGH suma modo Eco y bloqueo de niños. Mirá precio del día y la garantía; en specs van cabeza a cabeza.",
+      },
+      {
+        question: "¿Sirve para una familia?",
+        answer: "Para una familia chica (tres personas) sí. Para familia grande o si cocinás cantidad seguido, 23 litros se queda corto: conviene uno de 28 litros o más.",
+      },
+    ],
   },
 
   {
@@ -276,12 +914,105 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí (incluye parrilla)" },
       { label: "Extra", value: "Descongelado por peso" },
       { label: "Marca", value: "Atma" },
+      { label: "Potencia grill", value: "1000 W" },
+      { label: "Niveles de potencia", value: "5" },
+      { label: "Menús programables", value: "8" },
+      { label: "Traba de seguridad", value: "Sí (bloqueo de teclado para chicos)" },
+      { label: "Reloj y timer", value: "Sí" },
+      { label: "Dimensiones", value: "49 x 29.8 x 41 cm (ancho x alto x profundidad)" },
+      { label: "Eficiencia energética", value: "B" },
+      { label: "Color", value: "Blanco" },
     ],
     relatedProducts: ["MLA41009857", "MLA56215513"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas Atma Easy Cook de 23 litros con grill (incluye parrilla) y descongelado por peso. Más de 1.500 calificaciones. Contra honesta de las reseñas: es liviano, así que al tirar de la manija se mueve hacia adelante.",
+    seoTitle: "Atma MD1723GN 23L: microondas con grill, review honesta",
+    metaDescription: "Microondas Atma Easy Cook MD1723GN 23L con grill de 1000 W. Para quien cocina para 2-3 y quiere dorar. La contra real y para quién no conviene.",
+    verdict: "Para una pareja o familia chica que quiere algo más que calentar (este trae grill de 1000 W para dorar y gratinar) y un escalón más de espacio que los de 20 litros, el Atma MD1723GN cumple: 23 litros, marca con service local y 4.7 estrellas en casi 1.600 opiniones. Si cocinás para una familia grande, querés un microondas pesado que no se mueva, o esperás potencia de 900 a 1000 W en microondas, no es para vos: son 800 W y es liviano.",
+    pros: [
+      "Trae grill de 1000 W con parrilla incluida: dora y gratina, no solo calienta",
+      "23 litros entran una fuente mediana; un escalón más que los de 20 litros",
+      "Marca argentina con service local (Atma)",
+      "8 menús programables, descongelado automático y traba de seguridad para chicos",
+      "4.7 estrellas en casi 1.600 opiniones reales",
+    ],
+    cons: [
+      "Es liviano: al tirar de la manija para abrir, tiende a moverse hacia adelante (sale en las reseñas)",
+      "800 W de microondas es potencia estándar: calienta y descongela más lento que uno de 900 a 1000 W",
+      "23 litros se quedan cortos para una familia grande o fuentes grandes",
+      "Combinar microondas y grill consume más y calienta el exterior del equipo",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Atma Easy Cook MD1723GN es un microondas de 23 litros con grill. Es para una pareja o una familia chica que quiere algo más que calentar y descongelar: el grill de 1000 W te deja dorar pollo, gratinar una tarta o tostar.
+
+No es para una familia grande. Con 23 litros entrás una fuente mediana, no una asadera. Si cocinás para cinco o seis, mirá uno de 28 litros o más.
+
+## El grill, que es el motivo de elegir este
+
+La diferencia con un microondas pelado es el grill. Son 1000 W de resistencia arriba y viene con parrilla incluida.
+
+Sirve para lo que un microondas común no hace: dejar dorada la superficie. Gratinar queso, tostar pan, dar color a una milanesa recalentada. No reemplaza al horno, pero para el día a día de dos personas resuelve.
+
+## Las funciones que trae
+
+Tiene 5 niveles de potencia y 8 menús programables, así que no tenés que adivinar tiempos para lo más común. Suma descongelado automático, reloj con timer y traba de seguridad para chicos, que bloquea el teclado.
+
+Las medidas son 49 cm de ancho, 29.8 de alto y 41 de profundidad. Medí el hueco antes de comprar: 49 cm de ancho no es poco.
+
+## Lo que resignás
+
+Son 800 W de potencia en microondas. Es lo estándar de la categoría, pero un microondas de 900 a 1000 W calienta y descongela más rápido. Si te importa la velocidad, este no es el más veloz.
+
+También resignás capacidad frente a los de 25 o 28 litros. Y cuando usás microondas más grill al mismo tiempo, el equipo consume más y se calienta por fuera. Es normal en cualquier microondas con grill, pero conviene saberlo.
+
+## La contra real
+
+El defecto que más aparece en las reseñas no es la cocción: es el peso. Es liviano, así que cuando tirás de la manija para abrir la puerta, el microondas tiende a venirse hacia adelante.
+
+No es grave y se acomoda apoyándolo bien o agarrándolo con la otra mano, pero si esperabas un equipo macizo que no se mueva, este no lo es. Es la pega honesta de un microondas de este precio.
+
+## Para quién sí y para quién no
+
+Sí: pareja o familia chica que quiere dorar y gratinar además de calentar, y que valora una marca con service local. Los 23 litros y el grill lo ponen un escalón arriba de los de 20 litros básicos.
+
+No: familia grande, quien necesita fuentes grandes, quien quiere máxima potencia (900 a 1000 W), o quien busca un equipo pesado que quede firme al abrir.
+
+## Veredicto
+
+Por casi 1.600 opiniones y 4.7 estrellas, el Atma MD1723GN es un microondas con grill correcto para uso de dos o tres personas. Pagás por el grill y por la marca con service. La contra del peso es real pero menor. Si esos 23 litros y 800 W te alcanzan, es una compra sin sorpresas.`,
+    faq: [
+      {
+        question: "¿El Atma MD1723GN tiene grill?",
+        answer: "Sí. Trae grill de 1000 W con parrilla incluida, para dorar y gratinar, además de los 800 W del microondas. Es el motivo principal para elegir este sobre uno básico.",
+      },
+      {
+        question: "¿Cuántos litros tiene?",
+        answer: "23 litros. Entra una fuente mediana. Es un escalón arriba de los de 20 litros, pero se queda corto para una familia grande o asaderas grandes.",
+      },
+      {
+        question: "¿Cuánta potencia tiene?",
+        answer: "800 W en microondas y 1000 W en el grill. Los 800 W son potencia estándar: calienta y descongela bien, pero más lento que un microondas de 900 a 1000 W.",
+      },
+      {
+        question: "¿Sirve para una familia?",
+        answer: "Para una pareja o familia chica (dos o tres personas), sí. Para una familia grande conviene uno de 28 litros o más: con 23 litros no entran fuentes grandes.",
+      },
+      {
+        question: "¿Tiene traba de seguridad para chicos?",
+        answer: "Sí. Trae traba de seguridad que bloquea el teclado para evitar que los chicos lo enciendan. También tiene descongelado automático, reloj y 8 menús programables.",
+      },
+      {
+        question: "¿Cuál es la contra del Atma MD1723GN?",
+        answer: "Que es liviano: al tirar de la manija para abrir la puerta, tiende a moverse hacia adelante. Es la pega que más aparece en las reseñas. Se soluciona apoyándolo bien o sosteniéndolo con la otra mano.",
+      },
+      {
+        question: "¿Conviene el de 23 litros con grill o el Atma de 20 litros básico?",
+        answer: "Si solo querés calentar y descongelar, el de 20 litros y 700 W alcanza y es más barato. Si querés dorar o gratinar y un poco más de espacio, este de 23 litros con grill es el que buscás.",
+      },
+    ],
   },
   {
     id: "MLA28645101",
@@ -309,12 +1040,107 @@ export const curatedProducts: Product[] = [
       { label: "Plato", value: "Giratorio" },
       { label: "Color", value: "Negro" },
       { label: "Marca", value: "Atma" },
+      { label: "Control", value: "Mecánico (perillas)" },
+      { label: "Niveles de potencia", value: "5" },
+      { label: "Descongelado", value: "Por peso y por tiempo" },
+      { label: "Timer", value: "Hasta 35 minutos" },
+      { label: "Grill", value: "No" },
+      { label: "Luz interior", value: "No" },
+      { label: "Reloj", value: "No" },
+      { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA41009857", "MLA8891728"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas Atma de 20 litros y 700 W con plato giratorio, en negro: la opción más económica de Atma para calentar y descongelar. Más de 800 calificaciones.",
+    seoTitle: "Microondas Atma MATRB20AN 20L: ¿conviene? Review",
+    metaDescription: "Microondas Atma de 20 litros y 700 W con control mecánico, sin grill. Para una o dos personas que solo calientan y descongelan. La contra real, acá.",
+    verdict: "Para una o dos personas que solo quieren calentar, recalentar y descongelar, el Atma MATRB20AN de 20 litros alcanza y sobra: control mecánico simple, plato giratorio y 4.7 estrellas en más de 800 opiniones. Si cocinás para una familia, querés dorar o gratinar, o te molesta esperar, no es para vos: son 20 litros, 700 W, control a perillas y no trae grill.",
+    pros: [
+      "Control mecánico a perillas: lo prendés, girás y listo, sin menús ni programación",
+      "Plato giratorio y 5 niveles de potencia para calentar parejo",
+      "Descongelado por peso o por tiempo, con timer de hasta 35 minutos",
+      "Marca con service oficial en Argentina y 12 meses de garantía",
+      "4.7 estrellas en más de 800 opiniones, la opción más económica de Atma",
+      "20 litros: ocupa poco en la mesada, entra en cocinas chicas",
+    ],
+    cons: [
+      "700 W es potencia estándar tirando a baja: calienta y descongela más lento que uno de 900 a 1000 W",
+      "20 litros es chico: no entra una fuente grande ni un plato hondo ancho",
+      "No trae grill: no dora ni gratina, solo microondas",
+      "Control mecánico, sin reloj ni programación al minuto exacto",
+      "No tiene luz interior: no ves la comida sin abrir la puerta",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Atma MATRB20AN es el microondas más básico y económico de la marca. 20 litros, 700 W, control mecánico a perillas. Sirve para lo que la mayoría usa un microondas: calentar la comida, recalentar el café, descongelar lo que sacás del freezer.
+
+Si vivís solo, sos dos, o querés un segundo microondas para la oficina o el monoambiente, este modelo cumple. Es chico, simple y no tiene nada que se rompa de más.
+
+## El control mecánico: simple a propósito
+
+Acá no hay pantalla digital ni botones. Son dos perillas: una para la potencia, otra para el tiempo (timer de hasta 35 minutos). Girás, y arranca.
+
+Para mucha gente eso es una ventaja, no una falta. No hay que aprender menús ni programar nada. Lo prende un chico o un abuelo sin manual. La contra es que no podés poner "1 minuto 30 exacto" con precisión, y no trae reloj: es un microondas, no un electrodoméstico de cocina inteligente.
+
+## Las funciones que sí tiene
+
+Trae 5 niveles de potencia, plato giratorio para que caliente parejo y descongelado por peso o por tiempo. Eso cubre el uso real de todos los días.
+
+El descongelado por peso es lo más útil del modelo: indicás cuánto pesa lo congelado y el microondas calcula el tiempo. Funciona bien para carne, pollo o pan que sacás del freezer.
+
+## Lo que resignás por el precio
+
+Es el modelo de entrada, así que hay recortes claros. No tiene grill: no dora ni gratina, no le vas a hacer una costra a nada. No tiene luz interior: no ves la comida girando sin abrir la puerta. Y los 700 W son potencia estándar tirando a baja.
+
+Nada de esto es un defecto de fabricación. Es lo que pagás de menos. Si querés esas funciones, Atma tiene modelos de 23 y 25 litros con grill y control digital que cuestan más.
+
+## La contra real: 700 W y 20 litros
+
+Las dos limitaciones que vas a sentir en el uso diario son la potencia y el tamaño.
+
+Con 700 W, todo tarda un poco más que en un microondas de 900 a 1000 W. Calentar un plato grande de comida lleva su minuto extra. Y con 20 litros de capacidad interna, una fuente ancha o un plato hondo grande no entran cómodos. Para una porción individual o dos platos chicos está bien; para una cacerola familiar, no.
+
+## Para quién sí y para quién no
+
+Sí, si sos una o dos personas, querés algo simple para calentar y descongelar, y no te importa que tarde un poco más. También como segundo microondas o para espacios chicos.
+
+No, si cocinás para una familia, querés dorar o gratinar (eso es grill), o no te banca la espera de los 700 W. En esos casos conviene un modelo más grande y potente, aunque pagues más.
+
+## Veredicto
+
+El Atma MATRB20AN hace una cosa y la hace bien: calentar y descongelar para una o dos personas, sin complicaciones. Control mecánico, marca con service local, 4.7 estrellas en más de 800 opiniones. Es la opción más barata de Atma y se nota en lo que no trae: nada de grill, sin luz interior, 700 W. Si tu uso es básico, es una compra sensata; si querés más, mirá los modelos con grill.`,
+    faq: [
+      {
+        question: "¿El microondas Atma MATRB20AN tiene grill?",
+        answer: "No. Es el modelo de entrada de Atma, solo microondas: calienta y descongela, pero no dora ni gratina. Si necesitás grill, fijate los modelos Atma de 23 o 25 litros que sí lo traen.",
+      },
+      {
+        question: "¿Cuántos litros tiene y para cuántas personas alcanza?",
+        answer: "20 litros. Alcanza cómodo para una o dos personas, o como segundo microondas. Para una familia o fuentes grandes queda chico: una fuente ancha o un plato hondo grande no entran bien.",
+      },
+      {
+        question: "¿Es digital o mecánico?",
+        answer: "Mecánico, con dos perillas: una de potencia y una de tiempo (timer de hasta 35 minutos). No tiene pantalla, menús ni reloj. Es simple a propósito: girás y arranca.",
+      },
+      {
+        question: "¿700 W es poca potencia?",
+        answer: "Es potencia estándar tirando a baja. Calienta y descongela bien, pero un poco más lento que uno de 900 a 1000 W. Para uso diario básico no se nota mucho; si calentás platos grandes seguido, vas a sentir la diferencia.",
+      },
+      {
+        question: "¿Sirve para descongelar?",
+        answer: "Sí. Tiene descongelado por peso y por tiempo: indicás cuánto pesa lo congelado y calcula el tiempo solo. Anda bien para carne, pollo o pan del freezer.",
+      },
+      {
+        question: "¿Conviene este o el Atma de 23 litros con grill?",
+        answer: "Depende del uso. Si solo calentás y descongelás, este de 20 litros es más barato y alcanza. Si querés dorar, gratinar o más espacio, el de 23 litros con grill conviene aunque cueste más.",
+      },
+      {
+        question: "¿Tiene luz interior?",
+        answer: "No. No vas a ver la comida girando sin abrir la puerta. Es uno de los recortes del modelo económico, igual que la falta de grill y de reloj.",
+      },
+    ],
   },
   {
     id: "MLA56215513",
@@ -343,12 +1169,107 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí" },
       { label: "Control", value: "Digital full screen" },
       { label: "Marca", value: "Atma" },
+      { label: "Niveles de potencia", value: "10" },
+      { label: "Programas automáticos", value: "8" },
+      { label: "Descongelado", value: "Por tiempo, rápido y automático por peso" },
+      { label: "Seguridad", value: "Traba de seguridad para niños" },
+      { label: "Medidas (al x an x prof)", value: "34,5 x 59,5 x 35,2 cm" },
+      { label: "Peso", value: "18,5 kg" },
+      { label: "Garantía", value: "12 meses" },
+      { label: "Origen", value: "China" },
     ],
     relatedProducts: ["MLA41009857", "MLA8891728"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Microondas Atma de 25 litros con grill y panel digital full screen: el más grande y completo de la gama Atma, para quien quiere espacio y dorar. 4.8 estrellas.",
+    seoTitle: "Microondas Atma 25L con Grill Digital: review honesta",
+    metaDescription: "Microondas Atma 25 litros con grill y panel digital. Para familia que calienta y quiere dorar. Specs reales, los 850 W y para quién no conviene.",
+    verdict: "Para una familia que calienta, descongela y cada tanto quiere dorar o gratinar, el Atma de 25 litros cumple: es de los más grandes de la gama Atma, trae grill, panel digital y 4.8 estrellas en 346 opiniones. Si vivís solo o tenés una cocina chica, te sobra tamaño (59,5 cm de ancho y 18,5 kg); si querés que caliente rápido, los 850 W están por debajo de los 900-1000 W de un microondas más potente.",
+    pros: [
+      "25 litros: entra una fuente grande, plato hondo o un par de viandas a la vez",
+      "Trae grill: dora milanesas, gratina y tuesta, cosa que un microondas pelado no hace",
+      "Control digital con 8 programas automáticos y 10 niveles de potencia",
+      "Tres modos de descongelado: por tiempo, rápido y automático por peso",
+      "Marca Atma (NewSan) con service local y 12 meses de garantía",
+      "4.8 estrellas en 346 opiniones reales en MercadoLibre",
+    ],
+    cons: [
+      "850 W es potencia media: calienta y descongela más lento que uno de 900 a 1000 W",
+      "El grill es por resistencia, no es horno de convección: dora la superficie pero no reemplaza a un horno eléctrico para cocinar de cero",
+      "Mide 59,5 cm de ancho y pesa 18,5 kg: necesita lugar fijo en la mesada, no es para cocina apretada",
+      "346 opiniones es un volumen modesto al lado de otros electros Atma con miles de calificaciones",
+      "La puerta espejada se marca con huellas y se nota más que un frente mate",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Atma de 25 litros con grill es un microondas grande para una familia que cocina y calienta seguido. Los 25 litros entran una fuente de buen tamaño, un plato hondo o dos viandas juntas. Si sos una o dos personas que solo recalientan café y restos, te queda grande: con 20 litros te alcanzaba y gastabas menos.
+
+Es el modelo más completo de la línea Atma de microondas: suma grill al control digital. El grill es lo que lo separa de un microondas básico, porque te deja dorar y gratinar, no solo calentar.
+
+## Las funciones clave
+
+Trae control digital con display, 8 programas automáticos y 10 niveles de potencia. En la práctica eso significa que tenés botones por tipo de comida en lugar de calcular el tiempo a ojo.
+
+El descongelado viene en tres formas: por tiempo, rápido y automático por peso. El automático por peso es el más cómodo: ponés los gramos y él calcula. También tiene traba de seguridad para niños, útil si hay chicos en casa.
+
+## Lo que suma el grill
+
+El grill es la razón para elegir este sobre un microondas pelado. Sirve para dorar la superficie de una milanesa, gratinar una tarta o tostar. Es una resistencia arriba, no convección.
+
+Eso marca el límite: el grill termina o dora, no cocina de cero como un horno eléctrico. Si querés hacer una pizza o un pollo entero partiendo de crudo, esto no reemplaza a un horno. Para dar el toque final, anda bien.
+
+## Lo que resignás
+
+Son 850 W. Es una potencia media: calienta y descongela, pero más lento que un microondas de 900 a 1000 W. Si el tiempo te importa, vas a notar la diferencia frente a uno más potente.
+
+El tamaño es la otra contra. Mide 59,5 cm de ancho, 34,5 de alto y 35,2 de fondo, y pesa 18,5 kg. Necesita un lugar fijo en la mesada; en una cocina chica come mucho espacio.
+
+## La contra real
+
+La potencia del grill no está publicada, así que no podemos prometer cuánto dora ni qué tan rápido. Lo que sí se sabe: es grill por resistencia, con el alcance que eso tiene.
+
+Y los 850 W son honestamente el techo de este equipo. Calienta bien para el día a día, pero no es un microondas de alta potencia. Sumá la puerta espejada, que se llena de huellas, y tenés el cuadro completo de un equipo correcto, no premium.
+
+## Para quién sí y para quién no
+
+Sí, si sos una familia que calienta y descongela todos los días y querés la opción de dorar o gratinar de vez en cuando, con marca de service local. Los 25 litros y el grill justifican el paso.
+
+No, si vivís solo, tenés cocina chica o querés que caliente lo más rápido posible. En ese caso, un microondas más chico y simple te rinde más. Y si lo que buscás es cocinar de cero, mirá un horno eléctrico, no este.
+
+## Veredicto
+
+Microondas grande, con grill y panel digital, de una marca con respaldo en Argentina y 4.8 estrellas en 346 opiniones. Cumple para familia. Las pegas son claras: 850 W de potencia media, grill por resistencia (no horno) y un cuerpo que pide espacio en la mesada. Si eso encaja con tu cocina, es una compra sensata.`,
+    faq: [
+      {
+        question: "¿El microondas Atma de 25 litros tiene grill?",
+        answer: "Sí. Trae función grill por resistencia, que sirve para dorar y gratinar la superficie de la comida. No es convección, así que no cocina de cero como un horno eléctrico.",
+      },
+      {
+        question: "¿Cuántos litros tiene y para cuántas personas alcanza?",
+        answer: "25 litros. Entra una fuente grande o dos viandas a la vez, así que rinde bien para una familia. Si sos una o dos personas, uno de 20 litros te alcanza y gastás menos.",
+      },
+      {
+        question: "¿Cuánta potencia tiene el Atma 25L con grill?",
+        answer: "850 W. Es una potencia media: calienta y descongela bien para el día a día, pero más lento que un microondas de 900 a 1000 W.",
+      },
+      {
+        question: "¿Sirve para cocinar o solo para calentar?",
+        answer: "Calienta, descongela y, con el grill, dora o gratina. No reemplaza a un horno eléctrico para cocinar pizza o pollo de cero: el grill da el toque final, no cocina desde crudo.",
+      },
+      {
+        question: "¿Qué medidas tiene? ¿Entra en cualquier cocina?",
+        answer: "Mide 59,5 cm de ancho, 34,5 de alto y 35,2 de fondo, y pesa 18,5 kg. Es grande: necesita un lugar fijo en la mesada y en una cocina chica ocupa bastante.",
+      },
+      {
+        question: "¿Conviene este o el Atma de 20 litros sin grill?",
+        answer: "El de 20 litros sin grill es más chico, más barato y suficiente si solo calentás y descongelás para una o dos personas. Este de 25 litros con grill conviene si sos familia y querés además dorar o gratinar.",
+      },
+      {
+        question: "¿Tiene garantía y service en Argentina?",
+        answer: "Sí. Atma es marca de NewSan, con service local, y este modelo trae 12 meses de garantía. El origen del producto es China.",
+      },
+    ],
   },
 
   // ─── Hornos eléctricos de sobremesa — importados via API oficial de ML (jun 2026). Silo cocina (STAGED) ───
@@ -379,12 +1300,109 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí" },
       { label: "Ojo", value: "Sin luz interior" },
       { label: "Marca", value: "Atma" },
+      { label: "Temperatura", value: "40 a 230 °C, termostato regulable" },
+      { label: "Timer", value: "90 minutos con función de tiempo ilimitado" },
+      { label: "Funciones", value: "Cocción superior, inferior y combinada" },
+      { label: "Convección", value: "No" },
+      { label: "Incluye", value: "Bandeja y rejilla" },
+      { label: "Medidas", value: "59 x 33 x 45,5 cm (ancho x alto x prof.)" },
+      { label: "Peso", value: "11,2 kg" },
+      { label: "Clase energética", value: "A" },
     ],
     relatedProducts: ["MLA23686313", "MLA23364885"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa Atma de 45 litros con grill: el más vendido de Argentina, amplio (entra una fuente de pizza o un pollo entero). 1400 W. Más de 2.300 calificaciones. Contra honesta de las reseñas: no tiene luz interior.",
+    seoTitle: "Atma HGAB4523PI: horno grill 45L, opinión honesta",
+    metaDescription: "El Atma HGAB4523PI de 45L y 1400 W es el horno eléctrico más vendido de AR. Para quién conviene, qué resignás (no trae convección) y la contra real.",
+    verdict: "Para una pareja o familia chica que cocina seguido sin querer prender el horno grande de la cocina, el Atma de 45 litros es la opción obvia: entra una pizza o un pollo entero, llega a 230 °C, tiene grill, luz interior y es el más vendido de Argentina con 4.7 estrellas en más de 2.300 opiniones. No es para vos si cocinás para muchos (un 65 litros rinde más) o si querés dorado parejo: este no trae convección, así que la circulación de aire la ponés vos rotando la bandeja.",
+    pros: [
+      "45 litros: entra una fuente de pizza o un pollo entero, suficiente para una familia chica",
+      "Grill arriba para gratinar y dorar, más cocción inferior y combinada",
+      "Termostato regulable de 40 a 230 °C: misma temperatura que un horno de cocina común",
+      "Luz interior para mirar la cocción sin abrir la puerta y perder calor",
+      "Timer de 90 minutos con función de tiempo ilimitado para cocciones largas",
+      "Marca con service en Argentina y 4.7 estrellas en más de 2.300 opiniones",
+    ],
+    cons: [
+      "No trae convección (ventilador): el calor no circula solo, conviene rotar la bandeja para que dore parejo",
+      "1400 W para 45 litros: precalienta más lento que un horno chico o uno de más potencia",
+      "Es de sobremesa: 59 cm de ancho ocupan bastante mesada, no es para una cocina apretada",
+      "Llega hasta 230 °C: alcanza para casi todo, pero un horno de cocina suele dar más",
+      "Para cocinar a diario para mucha gente queda corto frente a un 65 litros",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Atma HGAB4523PI es un horno eléctrico de sobremesa de 45 litros y 1400 W. Es el horno eléctrico más vendido de Argentina: 4.7 estrellas en más de 2.300 opiniones.
+
+Sirve para una pareja o una familia chica que cocina seguido y no quiere prender el horno grande de la cocina cada vez. Entra una fuente de pizza o un pollo entero. Para una persona sola es más de lo que necesitás; para una familia numerosa que cocina todos los días, se queda corto.
+
+## Las funciones clave
+
+Tiene tres modos de cocción: superior, inferior y combinada, más grill para gratinar y dorar.
+
+El termostato es regulable de 40 a 230 °C, la misma temperatura máxima que un horno de cocina común. Trae timer programable de hasta 90 minutos con función de tiempo ilimitado, así que para cocciones largas no te quedás sin reloj.
+
+Suma luz interior, que no es detalle menor: mirás cómo va la comida sin abrir la puerta y sin perder calor.
+
+## Tamaño real y espacio que ocupa
+
+Son 45 litros, una capacidad media. Mide 59 cm de ancho, 33 cm de alto y 45,5 cm de profundidad, y pesa 11,2 kg.
+
+Antes de comprarlo, medí la mesada. 59 cm de ancho ocupan bastante. Si tu cocina es chica, fijate dónde lo vas a apoyar, porque queda fijo ahí.
+
+## Lo que resignás
+
+Acá está la diferencia que importa: este horno no trae convección. No tiene ventilador que mueva el aire caliente.
+
+En la práctica eso significa que el calor no circula solo. Para que las cosas doren parejas conviene rotar la bandeja a mitad de cocción. Si buscás dorado uniforme sin tocar nada, mirá un horno con convección (hay modelos de 50 litros que la traen).
+
+Sumá que 1400 W para 45 litros no es mucha potencia: precalienta más lento que un horno chico o uno de mayor watts. No es lento para cocinar, pero el precalentado se siente.
+
+## La contra real
+
+La contra honesta no son las reseñas: es la convección que no tiene y la potencia justa para su tamaño.
+
+Para hornear todos los días o llenarlo de bandejas, vas a notar que dora disparejo y tarda en levantar temperatura. Es la pega de casi todos los hornos de sobremesa en este rango de precio, no un defecto exclusivo de Atma.
+
+## Para quién sí y para quién no
+
+Sí: pareja o familia chica, cocina cada tanto sin querer prender el horno grande, valora marca conocida con service y el grill para gratinar.
+
+No: si cocinás a diario para mucha gente (mirá un 65 litros), si querés dorado parejo sin rotar bandejas (buscá convección), o si tu mesada no tiene 60 cm libres.
+
+El más vendido del país lo es por una razón: cumple lo que promete a un precio razonable. Solo entrá sabiendo que es de sobremesa y sin ventilador.`,
+    faq: [
+      {
+        question: "¿El Atma HGAB4523PI tiene grill?",
+        answer: "Sí. Tiene grill en la parte superior para gratinar y dorar, además de cocción inferior y combinada. El grill es una de sus funciones principales.",
+      },
+      {
+        question: "¿Cuántos litros tiene y qué entra?",
+        answer: "45 litros. Entra una fuente de pizza o un pollo entero. Es una capacidad media: cómoda para una pareja o familia chica, justa para una familia numerosa.",
+      },
+      {
+        question: "¿Tiene luz interior?",
+        answer: "Sí. Trae luz interior, así podés ver cómo va la cocción sin abrir la puerta y sin perder calor. La ficha del fabricante lo confirma para este modelo exacto.",
+      },
+      {
+        question: "¿Tiene convección (ventilador)?",
+        answer: "No. Este modelo no trae convección. El aire caliente no circula solo, así que para dorar parejo conviene rotar la bandeja a mitad de cocción. Si querés convección, hay hornos de 50 litros que la incluyen.",
+      },
+      {
+        question: "¿Hasta qué temperatura llega?",
+        answer: "El termostato es regulable de 40 a 230 °C, la misma temperatura máxima que un horno de cocina común. Alcanza para pizza, tartas, pollo y casi todo.",
+      },
+      {
+        question: "¿Conviene este o un horno de 65 litros?",
+        answer: "Si cocinás para una pareja o familia chica y cada tanto, el de 45 litros sobra y ocupa menos. Si cocinás a diario para mucha gente, un 65 litros (más potencia y capacidad) rinde más, aunque ocupa bastante más mesada.",
+      },
+      {
+        question: "¿Cuánto mide y cuánto pesa?",
+        answer: "Mide 59 cm de ancho, 33 cm de alto y 45,5 cm de profundidad, y pesa 11,2 kg. Es de sobremesa: medí la mesada antes de comprarlo porque los 59 cm de ancho ocupan.",
+      },
+    ],
   },
   {
     id: "MLA23096996",
@@ -414,12 +1432,98 @@ export const curatedProducts: Product[] = [
       { label: "Incluye", value: "Bandeja y rejilla" },
       { label: "Garantía", value: "6 meses (la más corta de la guía)" },
       { label: "Marca", value: "Ultracomb" },
+      { label: "Funciones", value: "Grill eléctrico y selector de cocción" },
+      { label: "Timer", value: "Temporizador de 60 minutos con corte automático" },
+      { label: "Manija", value: "Acero inoxidable, con señal luminosa de encendido" },
+      { label: "Dimensiones", value: "41,5 cm ancho x 32,5 cm alto x 33 cm profundidad (aprox.)" },
+      { label: "Tensión", value: "220 V" },
     ],
     relatedProducts: ["MLA27167036", "MLA23364885"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa Ultracomb de 17 litros, el más chico y barato de la guía. Cocina rápido y ocupa poco espacio, ideal para una persona o cocinas chicas. 4.8 estrellas. Lo honesto: es chico, una tarta grande no entra.",
+    seoTitle: "Horno Ultracomb UC-17 17L: review honesta y para quién",
+    metaDescription: "El Ultracomb UC-17 de 17 litros con grill y timer es para una persona o cocina chica. 4.8 estrellas. Mirá si entra lo que cocinás antes de comprarlo.",
+    verdict: "Para una o dos personas que cocinan poco y tienen poco espacio, el Ultracomb UC-17 cumple: 17 litros, grill eléctrico, timer de 60 minutos y 4.8 estrellas en más de 1.100 opiniones, al precio más bajo de la guía. Si cocinás para una familia, querés meter una tarta grande o un pollo entero, o buscás convección y spiedo, no es para vos: 17 litros se llenan rápido y la garantía es de 6 meses, la más corta de la guía.",
+    pros: [
+      "17 litros y 41,5 cm de ancho: entra en cualquier mesada o estante chico",
+      "Trae grill eléctrico para dorar y gratinar, no solo calentar",
+      "Timer de 60 minutos con corte automático y señal luminosa de encendido",
+      "Termostato regulable de 100 a 230 °C",
+      "Incluye bandeja esmaltada, rejilla y pinza",
+      "4.8 estrellas en más de 1.100 opiniones y el precio más bajo de la guía",
+    ],
+    cons: [
+      "17 litros es chico: una tarta o pizza grande no entra, y un pollo entero queda justo",
+      "El timer llega hasta 60 minutos: una cocción larga la tenés que reprogramar",
+      "No tiene convección ni spiedo (rotisserie): cocina por calor directo, dora más parejo en modelos con turbo",
+      "Garantía de 6 meses, la más corta de la guía (otros dan 12)",
+      "1280 W en 17 litros calienta bien, pero no reemplaza a un horno grande para tandas grandes",
+    ],
+    articleBody: `## Para quién es y para quién no
+
+El Ultracomb UC-17 es un horno de mesa chico, para una o dos personas o para una cocina sin lugar. Mide 41,5 cm de ancho y entra en casi cualquier mesada. Si vivís solo, alquilás, o querés un segundo horno para tostar, recalentar y dorar sin prender el grande, es una opción barata y que cumple.
+
+No es para una familia ni para el que cocina en cantidad. Son 17 litros: una tarta grande, una pizza familiar o un pollo entero quedan justos o no entran. Si ese es tu uso, mirá los modelos de 50 o 65 litros de la guía.
+
+## Qué cocina de verdad
+
+Los 17 litros alcanzan para una pizza individual, una bandeja chica de empanadas, un par de milanesas, una porción de carne al horno o unas papas. Para calentar, tostar y descongelar va sobrado.
+
+Donde se queda corto es en volumen. No es un tema de potencia (1280 W para 17 litros es suficiente), es de tamaño físico: lo que no entra, no entra. Antes de comprarlo, medí mentalmente la fuente que más usás.
+
+## Las funciones que sí trae
+
+Trae grill eléctrico, que es lo que lo separa de un horno solo de calentar: con el grill dorás milanesas, gratinás una tarta o terminás un gratinado por arriba. Tiene termostato regulable de 100 a 230 °C, así que podés bajar para algo lento o subir para dorar.
+
+Suma un timer de 60 minutos con corte automático y señal luminosa de encendido, manija de acero inoxidable e incluye bandeja esmaltada, rejilla y pinza. No tenés que comprar accesorios aparte.
+
+## Lo que resignás
+
+Resignás convección y spiedo. No tiene turbo (ventilador), así que el calor es directo: cocina bien, pero no dora tan parejo ni tan rápido como un horno con convección. Y no trae spiedo para pollo girando.
+
+El timer también tiene techo: llega hasta 60 minutos. Para una cocción larga (un pernil, algo a fuego lento) lo vas a tener que reprogramar a mano.
+
+## La contra real
+
+Dos cosas para tener en cuenta antes de pagar. Primero, el tamaño: 17 litros es lo más chico de la guía, y es la queja más previsible si esperabas meter algo grande. Segundo, la garantía: son 6 meses, la más corta de la guía, cuando varios competidores dan 12. Para un electrodoméstico de uso diario, medio año de cobertura es poco.
+
+Ninguna de las dos lo descarta si lo que buscás es justamente un horno chico y barato. Pero conviene saberlo antes y no después.
+
+## Veredicto
+
+El UC-17 hace bien lo que promete: calentar, tostar, dorar con grill y ocupar poco, al precio más bajo de la guía. Tiene 4.8 estrellas en más de 1.100 opiniones, que para un horno de entrada es un buen respaldo. Comprálo si sos una o dos personas o necesitás un horno chico de apoyo. Saltealo si cocinás para una familia, querés convección y spiedo, o te molesta una garantía de 6 meses.`,
+    faq: [
+      {
+        question: "¿Cuántos litros tiene el Ultracomb UC-17?",
+        answer: "Tiene 17 litros, el más chico de la guía. Alcanza para una pizza individual, una bandeja chica de empanadas o un par de milanesas. Una tarta o pizza familiar no entra.",
+      },
+      {
+        question: "¿El Ultracomb UC-17 tiene grill?",
+        answer: "Sí, trae grill eléctrico. Sirve para dorar milanesas, gratinar una tarta o terminar un gratinado por arriba. Es lo que lo separa de un horno que solo calienta.",
+      },
+      {
+        question: "¿Sirve para cocinar para una familia?",
+        answer: "No es lo ideal. Con 17 litros se llena rápido: para tres o cuatro personas o tandas grandes vas a quedar corto. Para eso conviene un horno de 50 o 65 litros.",
+      },
+      {
+        question: "¿Tiene convección o spiedo?",
+        answer: "No. Cocina por calor directo, sin ventilador (convección) ni spiedo para pollo. Dora bien pero no tan parejo ni tan rápido como un modelo con turbo.",
+      },
+      {
+        question: "¿Cuánto dura el timer?",
+        answer: "El temporizador llega hasta 60 minutos, con corte automático al terminar. Para una cocción más larga lo tenés que reprogramar a mano.",
+      },
+      {
+        question: "¿Qué accesorios incluye?",
+        answer: "Viene con bandeja esmaltada, rejilla y pinza. No necesitás comprar accesorios aparte para empezar a usarlo.",
+      },
+      {
+        question: "¿Conviene el UC-17 o un horno más grande?",
+        answer: "Depende del uso. El UC-17 conviene si sos una o dos personas, tenés poco espacio o querés un segundo horno barato. Si cocinás para una familia o querés meter fuentes grandes, conviene pagar más por uno de 50 a 65 litros con convección.",
+      },
+    ],
   },
   {
     id: "MLA15545846",
@@ -448,12 +1552,111 @@ export const curatedProducts: Product[] = [
       { label: "Temperatura", value: "Hasta 250 °C, termostato regulable" },
       { label: "Garantía", value: "12 meses" },
       { label: "Marca", value: "BGH" },
+      { label: "Grill", value: "Sí, doble (superior o inferior)" },
+      { label: "Convección", value: "Sí" },
+      { label: "Control", value: "Mecánico (perillas + timer 60 min)" },
+      { label: "Spiedo", value: "No incluye" },
+      { label: "Temperatura mínima", value: "Desde 100 °C" },
+      { label: "Luz interior", value: "Sí, con alarma sonora" },
+      { label: "Accesorios", value: "Rejilla + bandeja, 3 posiciones de altura" },
+      { label: "Peso", value: "Cerca de 11 kg" },
+      { label: "Enchufe", value: "Toma de 20 A (más grande de lo común)" },
+      { label: "Origen", value: "China" },
     ],
     relatedProducts: ["MLA14259153", "MLA27167036"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa BGH de 65 litros y 2200 W, hasta 250 °C: el grande para familia, cocina rápido empanadas, tartas y pollo. Más de 1.800 calificaciones. Nota: la ficha oficial indica toma de 10 A, pero varios compradores mencionan que el enchufe viene más grande de lo común, así que fijate al recibirlo.",
+    seoTitle: "Horno BGH 65L BHE65M19: el grande para familia (review)",
+    metaDescription: "Horno eléctrico BGH BHE65M19 de 65 litros: para familia que cocina seguido. Tiene grill y convección, pero pide enchufe de 20 A. Lo bueno y lo malo, sin vueltas.",
+    verdict: "Para una familia que cocina seguido y necesita meter una fuente grande, una pizza entera o un pollo, el BGH de 65 litros es de los más amplios que vas a encontrar de sobremesa: 2200 W, grill doble y convección, con 4.7 estrellas en más de 1.800 opiniones. No es para vos si vivís solo o tenés una cocina chica: es ancho, alto y profundo, ocupa mucho, y pide un tomacorriente de 20 A que no toda casa tiene.",
+    pros: [
+      "65 litros reales: entra una fuente grande, una pizza entera o un pollo, lo que un horno de 30 o 40 L no banca",
+      "Trae grill doble (podés elegir resistencia de arriba o de abajo) más convección para que cocine más parejo",
+      "2200 W: gana temperatura rápido, varios compradores dicen que casi no necesita precalentado",
+      "Convección que reparte el aire caliente y dora parejo, cerca de un horno de cocina de verdad",
+      "Marca con service en el país y 12 meses de garantía",
+      "4.7 estrellas en más de 1.800 opiniones",
+    ],
+    cons: [
+      "Pide un tomacorriente de 20 A: el enchufe viene más grande de lo común y 2200 W es mucha carga; si tu cocina tiene toma común de 10 A, vas a tener que adaptarlo o ponerle una línea aparte",
+      "Es grande de verdad: ronda los 64 cm de ancho, más alto y profundo que un horno de mesa típico; medí el lugar antes de comprarlo",
+      "Control 100% mecánico (perillas y timer de 60 minutos): nada de display digital ni programas automáticos",
+      "No trae spiedo: si querías el pollo girando al asador, este no es",
+      "Pesa cerca de 11 kg: no es para andar moviéndolo de lugar",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El BGH BHE65M19 es un horno eléctrico de sobremesa de 65 litros. Es el grande del grupo: pensado para una familia que cocina seguido y necesita capacidad de verdad. Entra una fuente grande, una pizza entera, una tarta o un pollo sin pelearte con el espacio.
+
+Si cocinás para una o dos personas, o tenés la cocina justa, este horno te va a quedar grande en todo sentido. Para eso conviene uno de 30 a 45 litros. Pero si sos de hacer comida para varios, milanesas para toda la familia o tandas de pastelería, los 65 litros se notan.
+
+## Las funciones que sí tiene
+
+Trae 2200 W de potencia, que es bastante: según varios compradores, gana temperatura rápido y casi no necesita precalentado. Llega hasta 250 °C con termostato regulable desde 100 °C.
+
+Tiene grill doble: podés usar la resistencia de arriba o la de abajo según lo que cocines, para gratinar, dorar o tostar. Y suma convección, que reparte el aire caliente para que la comida cocine más pareja, más cerca de un horno de cocina común.
+
+Completan timer de 60 minutos con alarma, luz interior y tres posiciones de bandeja. Viene con rejilla y bandeja.
+
+## Lo que resignás por el precio
+
+El control es todo mecánico: perillas para temperatura y función, más un timer a cuerda de 60 minutos. Nada de display digital, programas automáticos ni apagado programado al minuto. Para un horno eléctrico de este tamaño es lo esperable, pero si venías de un microondas con menús, el cambio se siente.
+
+Tampoco trae spiedo. Si querías el pollo girando al asador, este modelo no lo hace; para eso hay otros hornos de la guía con spiedo motorizado.
+
+## La contra real: el enchufe de 20 A
+
+Esto es lo que más conviene saber antes de comprarlo. Los 2200 W son mucha carga, y varias fichas de fabricante y vendedores indican que funciona con un tomacorriente de 20 A, no el común de 10 A. El enchufe viene más grande de lo normal.
+
+En la práctica: si tu cocina tiene un toma estándar, quizás tengas que adaptarlo o pedirle a un electricista una línea aparte. No es un defecto del horno, pero es un gasto y un trámite extra que no todos esperan. Fijate el tipo de enchufe al recibirlo y dónde lo vas a conectar.
+
+## El otro tema: el tamaño
+
+Es grande de verdad. Ronda los 64 cm de ancho, y es más alto y más profundo que un horno de mesa típico. Pesa cerca de 11 kg. Compradores avisan que hay que pensar bien dónde ponerlo porque ocupa mucha mesada.
+
+Medí el lugar antes de comprar. Si tenés una cocina chica, este horno te va a comer la mesada.
+
+## Para quién sí y para quién no
+
+Sí: familias que cocinan seguido, gente que hace comida para varios, quien necesita meter fuentes o bandejas grandes y tiene un toma de 20 A (o se lo puede armar). Los 65 litros con grill y convección son difíciles de igualar a este precio.
+
+No: si vivís solo, tenés cocina chica, querés control digital o spiedo, o no podés resolver el tema del enchufe de 20 A.
+
+## Veredicto
+
+El BGH de 65 litros es uno de los hornos de sobremesa más amplios que vas a encontrar, con grill doble, convección y una marca que tiene service local, respaldado por 4.7 estrellas en más de 1.800 opiniones. Las dos pegas son concretas y resolvibles si las sabés de antes: ocupa mucho lugar y pide un enchufe de 20 A. Si tenés familia, espacio y el toma adecuado, es una compra sólida.`,
+    faq: [
+      {
+        question: "¿Cuántos litros tiene y para cuánta gente alcanza?",
+        answer: "Tiene 65 litros, de los más grandes en hornos de sobremesa. Alcanza de sobra para una familia: entra una pizza entera, una fuente grande o un pollo. Para una o dos personas es demasiado grande.",
+      },
+      {
+        question: "¿El horno BGH BHE65M19 tiene grill?",
+        answer: "Sí, y es grill doble: podés elegir la resistencia de arriba o la de abajo según lo que cocines, para gratinar, dorar o tostar.",
+      },
+      {
+        question: "¿Tiene convección?",
+        answer: "Sí. La función de convección reparte el aire caliente dentro del horno para que la comida cocine más pareja, más cerca de un horno de cocina común.",
+      },
+      {
+        question: "¿Necesita un enchufe especial?",
+        answer: "Sí, ese es el punto a mirar antes de comprar. Por los 2200 W de potencia funciona con un tomacorriente de 20 A y el enchufe viene más grande de lo común. Si tu cocina tiene toma estándar de 10 A, vas a tener que adaptarlo o pedir una línea aparte. Revisá el enchufe al recibirlo.",
+      },
+      {
+        question: "¿Tiene spiedo para hacer pollo al asador?",
+        answer: "No. Este modelo no trae spiedo. Si querés el pollo girando al asador, conviene mirar otros hornos eléctricos que sí lo incluyen.",
+      },
+      {
+        question: "¿Es muy grande? ¿Cuánto ocupa?",
+        answer: "Es grande de verdad: ronda los 64 cm de ancho y es más alto y profundo que un horno de mesa típico, con un peso cercano a los 11 kg. Medí el lugar en la mesada antes de comprarlo, sobre todo si tenés cocina chica.",
+      },
+      {
+        question: "¿Tiene control digital?",
+        answer: "No. El control es todo mecánico: perillas para temperatura y función, más un timer de 60 minutos con alarma. No tiene display ni programas automáticos.",
+      },
+    ],
   },
   {
     id: "MLA14259153",
@@ -483,12 +1686,104 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Spiedo motorizado y 6 funciones" },
       { label: "Garantía", value: "24 meses (la más larga de la guía)" },
       { label: "Marca", value: "Smartlife" },
+      { label: "Modelo", value: "SL-TOR050PN" },
+      { label: "Potencia (fabricante)", value: "1750-1800 W" },
+      { label: "Rango de temperatura", value: "100 a 250 °C" },
+      { label: "Funciones", value: "Convección, spiedo, convección + spiedo, grill, tostar, hornear" },
+      { label: "Temporizador", value: "Hasta 60 minutos" },
+      { label: "Dimensiones aprox.", value: "58 x 37 x 36 cm" },
+      { label: "Peso", value: "9,5 kg" },
+      { label: "Accesorios", value: "Bandeja, manipulador de bandeja, bandeja junta migas, kit de spiedo" },
+      { label: "Voltaje", value: "220-240 V" },
     ],
     relatedProducts: ["MLA15545846", "MLA23364885"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa Smartlife de 50 litros con convección forzada y spiedo motorizado: el que más cocina de la guía, con temperatura precisa hasta 250 °C para pan, bizcochuelo, pizza y pollo al asador. 6 funciones, 2000 W y 2 años de garantía (la más larga del grupo). Más de 1.500 calificaciones.",
+    seoTitle: "Horno Smartlife 50L Convección y Spiedo SL-TOR050: reseña",
+    metaDescription: "Horno eléctrico Smartlife 50L con convección y spiedo motorizado. Para quien cocina pollo al asador, pan y pizza sin horno de cocina. Specs reales y la contra.",
+    verdict: "Para quien quiere cocinar de verdad sin tener horno de cocina (pan, bizcochuelo, pizza, pollo al asador), el Smartlife de 50 litros es de los más completos del segmento: convección forzada, spiedo motorizado, 6 funciones y 24 meses de garantía, con 4.7 estrellas en más de 1.500 opiniones. Si solo querés tostar y recalentar, o tenés poco espacio en la mesada, no es para vos: son 50 litros que ocupan casi 58 cm de ancho y es una marca sin service tan extendido como BGH o Atma.",
+    pros: [
+      "Convección forzada: cocina parejo de verdad, no solo dora arriba",
+      "Spiedo motorizado incluido con sus accesorios para pollo al asador",
+      "6 funciones reales: convección, spiedo, convección + spiedo, grill, tostar y hornear",
+      "50 litros: entra fuente grande, pollo entero o pizza familiar",
+      "24 meses de garantía, de las más largas del segmento",
+      "4.7 estrellas en más de 1.500 opiniones",
+    ],
+    cons: [
+      "1750 a 1800 W según el fabricante (la publicación dice 2000 W, pero el modelo SL-TOR050 figura en 1800 W en Megatone y otros): es potencia correcta para 50 litros, no de horno industrial",
+      "El temporizador llega hasta 60 minutos: para cocciones largas hay que reprogramar a mano",
+      "Es grande: casi 58 cm de ancho, pensá el lugar en la mesada antes de comprar",
+      "Smartlife no tiene la red de service de BGH o Atma; la garantía es larga pero el respaldo depende del importador",
+      "Construcción de chapa y plástico, estándar de la gama; no esperes terminación de horno empotrable",
+    ],
+    articleBody: `## Para quién es (y para quién no)
+
+Este horno es para el que no tiene horno de cocina, o tiene uno que no anda, y quiere cocinar de verdad: pan, bizcochuelo, pizza, pollo al asador. No es un tostador grande. Es un horno de mesa de 50 litros con convección forzada y spiedo, pensado para reemplazar al horno de la cocina en un monoambiente, un departamento chico o una casa donde el horno a gas dejó de funcionar.
+
+Para quién no: si solo querés tostar pan, recalentar y descongelar, te sobra y te ocupa lugar. Para eso conviene uno de 20 a 25 litros. Y si tenés la mesada justa, medí antes: este equipo pasa los 56 cm de ancho.
+
+## Qué hace la convección (y por qué importa)
+
+La convección forzada es la diferencia real con un horno eléctrico común. Tiene un ventilador que mueve el aire caliente adentro, así que cocina parejo: no se te quema arriba y queda crudo abajo. Es lo que hace que sirva para repostería y para masas, no solo para gratinar.
+
+Llega de 100 a 250 °C con regulador de temperatura. Esos 250 °C alcanzan para pizza con base crocante y para pan, que es donde los hornos eléctricos chicos se quedan cortos.
+
+## El spiedo y las 6 funciones
+
+El spiedo es motorizado y viene con sus accesorios (el eje y el manipulador). Le ponés el pollo, gira solo y se cocina parejo, como el pollo al asador de rotisería. Es el extra que justifica el modelo si comés pollo seguido.
+
+Las 6 funciones son concretas, no marketing: convección, spiedo, convección + spiedo, grill, tostar y hornear. La combinación convección + spiedo es la que dora el pollo mientras gira.
+
+## Lo que resignás
+
+Dos cosas para tener claras antes de pagar.
+
+Una: la potencia. La publicación de MercadoLibre dice 2000 W, pero el modelo SL-TOR050 figura en 1750 a 1800 W en la ficha del fabricante y en cadenas como Megatone. Es potencia correcta para 50 litros y calienta bien, pero no esperes que precaliente en dos minutos. Tomate los 10 a 15 minutos de precalentado como con cualquier horno.
+
+Dos: el temporizador llega hasta 60 minutos. Para una pizza o un pollo alcanza de sobra. Para una cocción de hora y media (un pan de masa madre, una carne lenta) vas a tener que volver a programarlo a mitad de camino. No se apaga solo después de los 60 minutos sin que lo reinicies.
+
+## La contra real
+
+Smartlife es una marca importada, no nacional con red de service como BGH o Atma. La garantía de 24 meses es de las más largas del segmento, eso suma. Pero si algo falla, el respaldo pasa por el importador, no por un service oficial en cada ciudad. Si para vos el service local pesa más que la garantía larga, mirá el BGH de 45 litros, que está en la misma franja de precio.
+
+La construcción es de chapa y plástico, estándar de esta gama de precio. Cumple, pero no tiene la terminación de un horno empotrable ni de una marca premium.
+
+## Veredicto
+
+Es de los hornos de mesa más completos para cocinar en serio sin horno de cocina: convección, spiedo, 50 litros y 24 meses de garantía, con 4.7 estrellas en más de 1.500 opiniones que lo respaldan. La pega es la marca sin service tan extendido y el temporizador de 60 minutos. Si cocinás pollo al asador, pan y pizza seguido, los justifica. Si solo tostás y recalentás, gastá menos en uno más chico.`,
+    faq: [
+      {
+        question: "¿Tiene spiedo de verdad o es solo el nombre?",
+        answer: "Tiene spiedo motorizado real, con eje y manipulador incluidos. Le ponés el pollo, gira solo y se cocina parejo como en rotisería. Es uno de los extras que distingue a este modelo.",
+      },
+      {
+        question: "¿Cuántos litros tiene y qué entra?",
+        answer: "50 litros. Entra una fuente grande, un pollo entero al spiedo o una pizza familiar. Es de los más grandes entre los hornos de mesa; pensá el espacio en la mesada antes de comprar.",
+      },
+      {
+        question: "¿De cuántos watts es realmente?",
+        answer: "La ficha del fabricante y cadenas como Megatone listan el SL-TOR050 en 1750 a 1800 W. La publicación de MercadoLibre dice 2000 W. Es potencia correcta para 50 litros: calienta bien, pero precalentá 10 a 15 minutos como cualquier horno.",
+      },
+      {
+        question: "¿La convección sirve para hacer pan y repostería?",
+        answer: "Sí. La convección forzada mueve el aire caliente y cocina parejo, que es justo lo que necesita la repostería. Llega a 250 °C, así que sirve para pan, bizcochuelo y pizza, no solo para gratinar.",
+      },
+      {
+        question: "¿Conviene este Smartlife o el BGH de 45 litros?",
+        answer: "El Smartlife suma spiedo motorizado, 5 litros más y 24 meses de garantía. El BGH es marca nacional con service más extendido. Si cocinás pollo al asador seguido, el Smartlife. Si te importa más el respaldo local, el BGH.",
+      },
+      {
+        question: "¿El temporizador apaga el horno solo?",
+        answer: "El temporizador llega hasta 60 minutos y al terminar corta. Para pizza o pollo alcanza. Para cocciones más largas tenés que volver a programarlo a mano a mitad de camino.",
+      },
+      {
+        question: "¿Sirve para reemplazar el horno de la cocina?",
+        answer: "Para un monoambiente, un departamento chico o si se te rompió el horno a gas, sí: con convección, spiedo y 50 litros cocina casi todo lo que haría un horno de cocina. Para una familia que cocina grandes cantidades a diario, un horno empotrable sigue siendo superior.",
+      },
+    ],
   },
   {
     id: "MLA23364885",
@@ -517,12 +1812,109 @@ export const curatedProducts: Product[] = [
       { label: "Convección", value: "Sí" },
       { label: "Grill", value: "Sí" },
       { label: "Marca", value: "BGH" },
+      { label: "Temperatura", value: "100-250 °C (termostato a perilla)" },
+      { label: "Capacidad neta", value: "~31 litros útiles (45 brutos)" },
+      { label: "Grill", value: "Doble (superior e inferior, a elección)" },
+      { label: "Control", value: "Mecánico (perillas)" },
+      { label: "Timer", value: "60 minutos" },
+      { label: "Niveles de cocción", value: "3" },
+      { label: "Accesorios", value: "Bandeja asadera, rejilla metálica y pinza" },
+      { label: "Dimensiones exteriores", value: "56 x 35 x 41,7 cm (ancho x alto x prof.)" },
+      { label: "Peso", value: "11 kg" },
+      { label: "Alimentación", value: "220-240 V, ficha IRAM 10 A" },
+      { label: "Garantía", value: "12 meses de fábrica" },
     ],
     relatedProducts: ["MLA27167036", "MLA15545846"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa BGH de 45 litros con convección y grill, de una marca con service en el país. Calienta rápido y cocina parejo, elegido hasta para emprendimientos de pastelería. 2000 W. Más de 1.100 calificaciones.",
+    seoTitle: "Horno BGH BHE45S22 45L: convección, grill y service AR",
+    metaDescription: "Horno BGH BHE45S22 de 45 litros con convección y doble grill. Para quien cocina seguido y quiere marca con service. Specs reales, contras y para quién no.",
+    verdict: "Si cocinás seguido para una familia y querés una marca con service en el país, el BGH BHE45S22 cumple: 45 litros, 2000 W, convección y doble grill, con 4.7 en más de 1.100 calificaciones. Si buscás control digital, programación al minuto exacta o algo compacto para un monoambiente, no es para vos: el control es mecánico (perilla) y son 56 cm de ancho que ocupan mesada.",
+    pros: [
+      "45 litros brutos: entra una asadera grande, pollo entero o varias pizzas",
+      "Convección (turbo) para cocinar más parejo y dorar mejor que un horno simple",
+      "Doble grill: elegís dorar arriba o abajo según lo que cocines",
+      "2000 W, calienta rápido para su tamaño",
+      "BGH es marca nacional con service en el país, no genérica importada",
+      "4.7 estrellas en más de 1.100 calificaciones",
+    ],
+    cons: [
+      "Control 100% mecánico (perillas): no hay programación digital ni apagado automático preciso al minuto",
+      "El termostato a perilla no es exacto: conviene termómetro de horno si horneás repostería fina",
+      "56 cm de ancho y 11 kg: ocupa bastante mesada, no es para una cocina chica",
+      "Capacidad útil real más cerca de 31 litros netos que de los 45 brutos del nombre",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El BGH BHE45S22 es un horno eléctrico de sobremesa de 45 litros pensado para reemplazar al horno de la cocina o sumar capacidad. Con 2000 W y 45 litros brutos entra una asadera grande, un pollo entero o varias porciones de pizza a la vez. Es de los grandes del segmento: si cocinás seguido para tres, cuatro o más personas, tiene espacio de sobra.
+
+Ojo con el número: 45 litros es la capacidad bruta. La útil real (lo que de verdad podés llenar) está más cerca de 31 litros netos. Sigue siendo grande, pero no esperes meter el doble de comida que en uno de 40.
+
+## Convección y doble grill
+
+Las dos funciones que justifican el precio frente a un horno simple. La convección (turbo) reparte el calor con un ventilador, así cocina más parejo y dora mejor por fuera dejando tierno por dentro. Es lo que hace que el pan, el bizcochuelo o el pollo salgan parejos en vez de quemados de un lado y crudos del otro.
+
+El doble grill te deja elegir dorar arriba o abajo según lo que cocines. Para gratinar una tarta usás el de arriba; para una base de pizza crocante, el de abajo. Trae además 3 niveles para las bandejas, bandeja asadera, rejilla y pinza.
+
+## Marca con service, no genérica
+
+Acá está parte del valor. BGH es marca argentina con red de service en el país. Si se rompe, hay a quién reclamar y dónde conseguir repuesto, algo que con muchos hornos importados genéricos no pasa. La garantía de fábrica es de 12 meses.
+
+No es un detalle menor en un electrodoméstico que usás casi todos los días y que, si falla, no querés tirar a la basura.
+
+## Lo que resignás: el control es mecánico
+
+Acá está la contra principal y hay que decirla. El BHE45S22 se maneja 100% con perillas: temperatura, función y timer de 60 minutos. No hay display digital, ni programás al minuto exacto, ni tenés menús automáticos. Ponés la perilla en una temperatura aproximada y listo.
+
+Para la mayoría de las recetas alcanza. Pero el termostato a perilla no es preciso: si horneás repostería fina (macarons, masas que dependen del grado exacto) conviene comprar un termómetro de horno barato y calibrar a ojo. Si venís de un horno digital, el cambio se nota.
+
+## El tamaño juega en contra en cocinas chicas
+
+Son 56 cm de ancho, unos 41 de profundidad y 11 kg. Ocupa mesada de verdad. En una cocina amplia no molesta, pero en un monoambiente o una cocina chica te come el espacio de trabajo. Medí antes de comprar.
+
+Si tu prioridad es algo compacto para calentar y poco más, este horno es demasiado: te conviene uno más chico.
+
+## Para quién sí y para quién no
+
+Sí: familias o parejas que cocinan seguido, hacen tartas, pizzas, pollo o pan, y quieren convección, grill y una marca con service nacional. Varios compradores lo usan incluso para emprendimientos de pastelería por la capacidad.
+
+No: si vivís solo y solo calentás, si necesitás control digital y programación exacta, o si tenés poco lugar en la mesada. En esos casos te queda grande, literal.
+
+## Veredicto
+
+El BGH BHE45S22 es un horno grande, completo y de marca confiable a un precio razonable: convección, doble grill, 2000 W y service en el país, con 4.7 en más de 1.100 calificaciones. La pega es el control mecánico a perilla y el tamaño: ni es preciso para repostería fina ni entra cómodo en una cocina chica. Para quien cocina en volumen y valora el respaldo de la marca, conviene.`,
+    faq: [
+      {
+        question: "¿El horno BGH BHE45S22 tiene convección?",
+        answer: "Sí, tiene convección (función turbo). Un ventilador reparte el calor para cocinar más parejo y dorar mejor por fuera dejando tierno por dentro. Es lo que lo diferencia de un horno eléctrico simple.",
+      },
+      {
+        question: "¿Cuántos litros tiene realmente?",
+        answer: "Son 45 litros brutos, que es el número del nombre. La capacidad útil real (lo que podés llenar de verdad) está más cerca de los 31 litros netos. Sigue siendo de los grandes del segmento.",
+      },
+      {
+        question: "¿Tiene grill?",
+        answer: "Sí, y es doble grill: podés elegir dorar arriba o abajo según lo que cocines. Para gratinar usás el de arriba; para una base crocante, el de abajo.",
+      },
+      {
+        question: "¿El control es digital o mecánico?",
+        answer: "Es mecánico, con perillas para temperatura, función y timer de 60 minutos. No tiene display digital ni programación al minuto exacto. Si querés control digital, este no es.",
+      },
+      {
+        question: "¿Qué potencia y temperatura alcanza?",
+        answer: "2000 W de potencia, que para su tamaño calienta rápido. El termostato va de 100 a 250 °C. Tené en cuenta que la perilla no es exacta: para repostería fina conviene un termómetro de horno.",
+      },
+      {
+        question: "¿BGH tiene service en Argentina?",
+        answer: "Sí. BGH es marca argentina con red de service en el país y garantía de fábrica de 12 meses. Es una ventaja frente a hornos importados genéricos sin respaldo local.",
+      },
+      {
+        question: "¿Sirve para emprender en pastelería?",
+        answer: "Por capacidad sí: 45 litros y convección dan para hornear en volumen, y varios compradores lo usan para eso. La limitación es la precisión del termostato mecánico, que conviene calibrar con termómetro si hacés repostería que depende del grado exacto.",
+      },
+    ],
   },
   {
     id: "MLA23686313",
@@ -552,12 +1944,109 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí" },
       { label: "Ojo", value: "Necesita toma de 20 A; los anafes no funcionan independientes del horno" },
       { label: "Marca", value: "Atma" },
+      { label: "Potencia anafes", value: "1000 W y 750 W" },
+      { label: "Temperatura", value: "Termostato regulable hasta 250 °C" },
+      { label: "Timer", value: "Hasta 60 minutos" },
+      { label: "Cocción", value: "Superior, inferior o combinada" },
+      { label: "Panel", value: "Analógico (a perilla)" },
+      { label: "Dimensiones", value: "53,1 x 37,5 x 38 cm (An x Prof x Alto)" },
+      { label: "Peso", value: "10,3 kg" },
+      { label: "Interior", value: "Antiadherente, puerta desmontable y bandeja de migas removible" },
+      { label: "Incluye", value: "Bandeja, grilla y pinza" },
+      { label: "Origen", value: "Argentina" },
     ],
     relatedProducts: ["MLA27167036", "MLA15545846"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa Atma de 40 litros con grill y 2 anafes (hornallas) arriba: horno y dos hornallas en un solo aparato, ideal si te faltan bocas de cocina. Más de 1.700 calificaciones. Pide toma de 20 A.",
+    seoTitle: "Atma HG4022API: horno 40L con grill y 2 anafes",
+    metaDescription: "Horno eléctrico Atma 40L con grill y 2 anafes arriba (3250 W). Para sumar bocas de cocina en poco espacio. Pide toma de 20 A. Te contamos para quién sí.",
+    verdict: "Si te faltan bocas de cocina y querés horno más dos hornallas en un solo aparato sin instalar nada de gas, el Atma de 40 litros HG4022API resuelve: 4,7 estrellas en más de 1.700 calificaciones, marca con service en Argentina y precio por debajo de las marcas más caras. No es para vos si tu instalación es vieja o no llegás a una toma de 20 A: con 3250 W de potencia total, enchufado a un toma flojo te salta la térmica o calienta el cable.",
+    pros: [
+      "Horno de 40 litros más 2 anafes (hornallas) arriba en un solo equipo: sumás dos bocas de cocina sin instalar nada de gas",
+      "Los anafes son de 1000 W y 750 W, y pueden funcionar al mismo tiempo que el horno",
+      "Llega hasta 250 °C con termostato regulable y timer de hasta 60 minutos",
+      "Trae grill (resistencia superior) y elegís cocción de arriba, de abajo o combinada",
+      "Interior antiadherente, puerta desmontable y bandeja de migas removible: más fácil de limpiar",
+      "4,7 estrellas en más de 1.700 calificaciones y marca Atma con service local",
+    ],
+    cons: [
+      "3250 W de potencia total: pide una toma de 20 A. En instalaciones viejas o con toma flojo puede saltar la térmica",
+      "Los anafes y el horno comparten el mismo aparato y circuito: no es una cocina independiente, es un horno que además trae hornallas",
+      "Panel analógico, no digital: ajustás temperatura y tiempo a perilla, sin programación al minuto ni menús",
+      "Ocupa lugar en la mesada: mide 53 cm de ancho y pesa unos 10 kg",
+      "Las hornallas eléctricas calientan más lento que una a gas y no son para una olla grande de cocción larga",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+Es un horno eléctrico de sobremesa de 40 litros que además trae dos anafes (hornallas) arriba. La idea es simple: en un solo aparato tenés horno y dos bocas de cocina extra, sin instalar nada de gas ni romper la mesada.
+
+Sirve para quien cocina para una familia chica o mediana y se quedó corto de hornallas. También para departamentos, monoambientes o una cocina sin gas donde poner una cocina entera no es opción.
+
+Cuarenta litros es un tamaño cómodo: te entra una fuente grande, una pizza o un pollo. No es industrial, pero para el día a día de una casa rinde.
+
+## Las funciones que importan
+
+El horno llega hasta 250 °C con termostato regulable y timer de hasta 60 minutos. Trae grill (la resistencia de arriba) y podés elegir cocción de arriba, de abajo o las dos juntas. Eso te deja gratinar, dorar una tapa o tostar sin prender todo.
+
+Los dos anafes de arriba son de 1000 W y 750 W. Según la ficha del fabricante, pueden funcionar al mismo tiempo que el horno. O sea: horneás abajo y calentás una olla arriba en simultáneo.
+
+La potencia total del equipo es de 3250 W. Es bastante, y de ahí sale la única letra chica seria de este horno.
+
+## La contra real: pide toma de 20 A
+
+Acá está el dato que tenés que mirar antes de comprar. Con 3250 W, este horno necesita una toma de 20 amperes. No es un detalle de manual: si lo enchufás a una toma común floja, o tu instalación es vieja, te puede saltar la térmica o calentar el cable.
+
+Si vivís en una casa con instalación nueva, no vas a notar nada. Si tu cocina tiene tomas viejos o ya te salta la térmica con la pava y el microondas juntos, fijate esto primero. No es un problema del horno, es de cuánta corriente le podés dar.
+
+## Lo que resignás
+
+Es un panel analógico, a perilla. Ajustás temperatura y tiempo girando, sin programación al minuto, sin menús automáticos ni display. Funciona bien, pero no esperes la comodidad de un horno digital.
+
+Los anafes son eléctricos, así que calientan más lento que una hornalla a gas y no están pensados para una olla grande de cocción larga. Son para calentar, hervir o cocinar algo puntual, no para reemplazar una cocina completa.
+
+Y ocupa lugar: 53 cm de ancho y unos 10 kg. Antes de comprarlo, medí la mesada.
+
+## Para quién sí y para quién no
+
+Sí, si necesitás sumar bocas de cocina sin obra y querés horno más dos hornallas en un solo aparato. Sí, si tu instalación eléctrica está al día y llegás a una toma de 20 A. Sí, si buscás una marca con service en Argentina a precio razonable.
+
+No, si tu instalación es vieja o no podés garantizar la toma de 20 A: ese es el filtro que manda. No, si querés panel digital y programación. No, si pensás cocinar a olla grande todo el día en las hornallas, porque ahí una cocina a gas le gana.
+
+## Veredicto
+
+Para sumar horno y dos hornallas sin instalar gas, el Atma HG4022API cumple: 40 litros, grill, anafes que funcionan junto al horno, 4,7 estrellas en más de 1.700 calificaciones y marca con respaldo local. La única condición real es la eléctrica: con 3250 W pide toma de 20 A. Si eso lo tenés cubierto, es una compra honesta a buen precio.`,
+    faq: [
+      {
+        question: "¿Tiene grill?",
+        answer: "Sí. Trae la resistencia superior para grill y podés elegir cocción de arriba, de abajo o combinada, así gratinás o dorás la tapa.",
+      },
+      {
+        question: "¿Cuántos litros tiene?",
+        answer: "40 litros. Es un tamaño cómodo para una familia chica o mediana: te entra una fuente grande, una pizza o un pollo.",
+      },
+      {
+        question: "¿Los anafes funcionan al mismo tiempo que el horno?",
+        answer: "Sí. Según el fabricante, los dos anafes (de 1000 W y 750 W) pueden funcionar en simultáneo con el horno. Tené en cuenta que es un solo aparato con un solo circuito, no una cocina independiente.",
+      },
+      {
+        question: "¿Qué toma eléctrica necesita?",
+        answer: "Necesita una toma de 20 A. Son 3250 W de potencia total, así que en una toma floja o una instalación vieja puede saltar la térmica. Es lo más importante a chequear antes de comprar.",
+      },
+      {
+        question: "¿Hasta cuántos grados llega?",
+        answer: "Hasta 250 °C, con termostato regulable y timer de hasta 60 minutos.",
+      },
+      {
+        question: "¿Conviene este o el Atma de 50 litros sin anafes?",
+        answer: "Depende de qué te falte. Si necesitás bocas de cocina extra, este de 40 litros con 2 anafes resuelve eso. Si solo querés más capacidad de horno y no te interesan las hornallas, el de 50 litros te da más volumen por dentro.",
+      },
+      {
+        question: "¿El panel es digital?",
+        answer: "No, es analógico a perilla. Ajustás temperatura y tiempo girando, sin programación al minuto ni menús automáticos.",
+      },
+    ],
   },
 
   {
@@ -587,12 +2076,101 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí (elegís dorar arriba o abajo)" },
       { label: "Temperatura", value: "Hasta 200 °C, con timer" },
       { label: "Marca", value: "Atma" },
+      { label: "Temperatura máxima", value: "200 °C (termostato a perilla)" },
+      { label: "Control", value: "Mecánico (perillas), con timer programable" },
+      { label: "Cocción", value: "Superior, inferior o combinada" },
+      { label: "Luz interior", value: "Sí" },
+      { label: "Ancho aprox.", value: "59 cm" },
+      { label: "Peso aprox.", value: "~12 kg" },
+      { label: "Cavidad", value: "Esmaltada" },
+      { label: "Incluye", value: "Bandeja y rejilla" },
     ],
     relatedProducts: ["MLA27167036", "MLA21789761"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa Atma de 50 litros con grill: calienta rápido y podés elegir dónde dorar (arriba, abajo o ambos), con timer e intensidad. Más de 1.500 calificaciones, a buen precio frente a las marcas más conocidas.",
+    seoTitle: "Horno Atma HGA5021N 50L Grill: review honesta y para quién",
+    metaDescription: "Horno eléctrico Atma HGA5021N de 50 litros con grill y luz interior. Para quién rinde, qué resignás y la contra real. 4.7 en 1.576 opiniones.",
+    verdict: "Si cocinás para una familia y querés un horno de mesa grande sin gastar en marcas premium, el Atma HGA5021N rinde: 50 litros, grill arriba/abajo/combinado, luz interior y timer, con 4.7 estrellas en 1.576 opiniones y service local. No es para vos si buscás precisión de repostería fina o controles digitales: el termostato es mecánico (perilla) y llega hasta los 200 °C que declara la publicación, no más.",
+    pros: [
+      "50 litros reales: entra una fuente grande, una pizza familiar o un pollo entero",
+      "Grill con selección de zona: dorás arriba, abajo o combinado",
+      "Luz interior para mirar la cocción sin abrir la puerta",
+      "Timer programable que apaga el horno solo",
+      "4.7 estrellas en 1.576 opiniones y respaldo de Atma con service local",
+      "Precio por debajo de las marcas más conocidas para el mismo tamaño",
+    ],
+    cons: [
+      "Control mecánico a perilla, no digital: no hay menús ni temperatura exacta al grado",
+      "Llega hasta 200 °C según la publicación: para repostería de 220-230 °C queda justo",
+      "1400 W para 50 litros: precalienta más lento que un horno chico",
+      "Es grande (59 cm de ancho) y pesa cerca de 12 kg: ocupa mesada",
+      "Cavidad esmaltada, no acero inoxidable interior: hay que limpiarla con cuidado",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Atma HGA5021N es un horno eléctrico de mesa de 50 litros con grill. Es de los más grandes de la línea de hornos de sobremesa de Atma. Con 50 litros entra una pizza familiar, una fuente grande de lasaña o un pollo entero, cosas que en un horno de 20 o 30 litros directamente no entran.
+
+Está pensado para una familia o para quien usa el horno seguido y no quiere depender solo de las hornallas. Tiene 1400 W, grill, luz interior y timer. La publicación lo lista con envío gratis y tiene 4.7 estrellas en 1.576 opiniones.
+
+## Las funciones que importan
+
+El grill te deja elegir dónde calienta: arriba, abajo o combinado. Eso sirve para gratinar una tarta por encima, dorar la base de una pizza o cocinar parejo. Es la función que más se nota frente a un horno básico.
+
+La luz interior parece un detalle pero no lo es: te deja mirar cómo va la comida sin abrir la puerta, que es justo cuando se escapa el calor y se corta la cocción. El timer programable apaga el horno solo cuando termina, así no tenés que estar encima mirando el reloj.
+
+## Lo que resignás
+
+Acá está la pega principal: el control es mecánico, a perilla. No hay pantalla, ni menús automáticos, ni podés fijar una temperatura exacta al grado. Ponés la perilla donde te parece y vas corrigiendo a ojo. Para cocina de todos los días funciona bien; para repostería fina donde 5 grados cambian el resultado, vas a tener que tomarle la mano.
+
+La publicación lo declara hasta 200 °C. Hay recetas de panadería y repostería que piden 220 o 230 °C: en ese rango te queda justo. Para asados, gratinados, pizzas y horneado común, 200 °C alcanza de sobra.
+
+## La contra real: tamaño y precalentado
+
+50 litros con 1400 W significa que el horno tiene mucho aire para calentar con una potencia que es normal, no alta. Traducido: precalienta más lento que un horno chico. Hay que prenderlo antes y darle unos minutos. No es un defecto, es física, pero conviene saberlo si venís de uno de 20 litros que calentaba enseguida.
+
+Y es un aparato grande: cerca de 59 cm de ancho y unos 12 kg. Ocupa mesada de verdad. Medí el lugar antes de comprarlo y no cuentes con moverlo seguido. La cavidad es esmaltada, no acero inoxidable interior, así que conviene limpiarla con cuidado y sin productos abrasivos para que dure.
+
+## Para quién sí y para quién no
+
+Sí, si cocinás para una familia, querés un horno de mesa grande para no usar siempre el de la cocina, y no querés pagar de más por una marca premium. El tamaño, el grill por zonas y el respaldo de Atma con service local lo hacen una compra razonable.
+
+No, si vivís solo o son dos y solo calentás cosas: te sobra horno y espacio, te conviene uno de 20 a 30 litros. Tampoco si hacés repostería seria que necesita temperatura exacta y más de 200 °C: ahí el control mecánico y el tope de temperatura te van a quedar cortos.
+
+## Veredicto
+
+El HGA5021N es un horno grande, honesto y a buen precio para cocina familiar de todos los días. Lo que pagás es capacidad y grill, no electrónica ni precisión. Si tenés claro que es a perilla, que precalienta lento y que ocupa lugar, vas a estar contento. Si esperabas controles digitales o temperatura de panadería, mirá otra cosa.`,
+    faq: [
+      {
+        question: "¿El Atma HGA5021N tiene grill?",
+        answer: "Sí. Y te deja elegir dónde calienta: arriba, abajo o combinado, según lo que cocines. Sirve para gratinar y dorar.",
+      },
+      {
+        question: "¿Cuántos litros tiene?",
+        answer: "50 litros. Es de los más grandes de la línea de hornos de mesa de Atma: entra una pizza familiar, una fuente grande o un pollo entero.",
+      },
+      {
+        question: "¿Qué potencia tiene y cuánto tarda en calentar?",
+        answer: "1400 W. Es potencia normal para el tamaño, así que con 50 litros precalienta más lento que un horno chico. Conviene prenderlo unos minutos antes.",
+      },
+      {
+        question: "¿Hasta cuántos grados llega?",
+        answer: "La publicación lo declara hasta 200 °C, con termostato a perilla y timer. Alcanza para asados, pizzas y horneado común; para repostería que pide 220-230 °C queda justo.",
+      },
+      {
+        question: "¿El control es digital o a perilla?",
+        answer: "A perilla (mecánico). No tiene pantalla ni menús automáticos: ponés temperatura y tiempo a mano. Simple, pero sin precisión al grado.",
+      },
+      {
+        question: "¿Conviene este de 50 litros o el Atma de 30 litros?",
+        answer: "Depende de cuántos son. El de 50 litros es para familia o uso intensivo; si son una o dos personas, el de 30 litros alcanza, ocupa menos y algunos llegan a más temperatura.",
+      },
+      {
+        question: "¿Trae bandeja y rejilla?",
+        answer: "Sí, incluye bandeja y rejilla. También tiene luz interior para mirar la cocción sin abrir la puerta.",
+      },
+    ],
   },
   {
     id: "MLA21789761",
@@ -621,12 +2199,110 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí" },
       { label: "Temperatura", value: "Hasta 250 °C, con timer" },
       { label: "Marca", value: "Atma" },
+      { label: "Modos de calor", value: "Grill superior, inferior y combinado" },
+      { label: "Timer", value: "Hasta 60 minutos" },
+      { label: "Termostato", value: "Regulable de 100 a 250 °C" },
+      { label: "Control", value: "Analógico (por perillas)" },
+      { label: "Accesorios", value: "Bandeja, rejilla y pinza" },
+      { label: "Luz interior", value: "Sí" },
+      { label: "Dimensiones", value: "32,8 alto x 49,8 ancho x 36,5 prof cm" },
+      { label: "Peso", value: "6,4 kg" },
+      { label: "Eficiencia energética", value: "B" },
+      { label: "Garantía", value: "12 meses (Newsan, service local)" },
+      { label: "Origen", value: "Argentina" },
     ],
     relatedProducts: ["MLA27167036", "MLA20010900"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa Atma de 30 litros con grill, llega hasta 250 °C y trae timer. El tamaño intermedio de Atma, para una pareja o cosas que no entran en uno chico. Más de 700 calificaciones.",
+    seoTitle: "Horno Atma HGA3022 30L Grill: review honesta",
+    metaDescription: "Horno eléctrico Atma HGA3022 30L con grill y convección. Para quién sí y para quién no, specs reales del HGA3022PI y la contra de los 1500W. 4.7 en 716 opiniones.",
+    verdict: "Para una pareja o una familia chica que quiere un horno de sobremesa con grill y convección sin gastar de más, el Atma de 30 litros cumple: marca con service local, 4.7 estrellas en 716 opiniones y un tamaño intermedio que sirve para una pizza, una pierna de pollo o una fuente. Si querés precisión digital, programar al minuto o cocinar para muchos, no es para vos: el panel es analógico, el timer corta a los 60 minutos y los 1500 W para 30 litros calientan más lento que un horno más potente.",
+    pros: [
+      "30 litros: entra una pizza, una fuente o una pierna de pollo, sin ocupar el lugar de un horno de cocina entero",
+      "Grill eléctrico con calor superior, inferior y combinado, más convección para dorar y cocinar parejo",
+      "Termostato regulable de 100 a 250 °C: sirve para gratinar, hornear pan o calentar tartas",
+      "Atma es marca argentina (Newsan) con service local y 12 meses de garantía",
+      "4.7 estrellas en 716 opiniones reales en MercadoLibre",
+      "Trae bandeja, rejilla y pinza, más luz interior para mirar sin abrir la puerta",
+    ],
+    cons: [
+      "1500 W para 30 litros es potencia justa: precalienta y cocina más lento que un horno de mayor consumo",
+      "Panel analógico, no digital: no programás al minuto ni queda una lectura exacta, vas por la perilla",
+      "El timer corta a los 60 minutos; para asados largos lo tenés que volver a poner",
+      "Mide 49,8 cm de ancho: ocupa un buen pedazo de mesada, fijate el lugar antes de comprar",
+      "A 30 litros un pollo entero entra justo; para fuentes grandes o cocinar para muchos te queda corto",
+    ],
+    articleBody: `## Para quién es este horno (y para quién no)
+
+El Atma HGA3022 es un horno eléctrico de sobremesa de 30 litros con grill y convección. Es el tamaño intermedio de Atma: más grande que los de 10 o 20 litros que solo calientan, más chico que un horno de cocina empotrado.
+
+Te sirve si sos una pareja o una familia chica y querés hornear, gratinar y dorar sin prender el horno grande. Te sirve si alquilás o no tenés horno a gas y necesitás algo que cocine de verdad, no solo que recaliente.
+
+No te sirve si cocinás para una mesa de seis o más, si querés control digital y programación al minuto, o si no te banca que tarde en levantar temperatura. Para eso buscá uno más grande y de más potencia.
+
+## Las funciones que importan
+
+Tiene grill eléctrico con tres modos de calor: superior, inferior y combinado. Eso es lo que lo separa de un horno chico que solo calienta: podés gratinar una tarta por arriba, dorar una pizza por abajo o cocinar parejo con los dos.
+
+Suma convección, que mueve el aire caliente adentro para que la cocción sea más uniforme y no te quede crudo de un lado.
+
+El termostato va de 100 a 250 °C, así que cubre desde mantener algo caliente hasta hornear pan o dorar fuerte. Trae bandeja, rejilla y pinza, más una luz interior para mirar la cocción sin abrir la puerta y perder temperatura.
+
+## Lo que resignás por el precio
+
+Los 1500 W para 30 litros son potencia justa. Un horno de más litros suele venir con 1800 o 2000 W; este levanta temperatura más despacio y precalienta más lento. No es un problema, pero si esperabas que esté listo en cinco minutos, no.
+
+El control es analógico, por perilla. No hay display, no programás al minuto ni te queda una lectura exacta de temperatura. Vas por la perilla y por el ojo. Para mucha gente eso alcanza; si venís de un horno digital, lo vas a notar.
+
+El timer máximo es de 60 minutos. Para una pizza o una tarta sobra; para un asado largo lo tenés que volver a poner a mitad de camino.
+
+## La contra real: tamaño y potencia
+
+Treinta litros suena a mucho, pero un pollo entero entra justo y una fuente grande capaz no entra. Es un horno para porciones de una pareja o una familia chica, no para cocinar para muchos. Si tu plan es asar para ocho, este no es.
+
+Y los 1500 W mandan: la combinación de capacidad media con potencia justa significa que cocina bien, pero sin apuro. Mide casi 50 cm de ancho, así que antes de comprarlo fijate que tengas el lugar en la mesada.
+
+## El respaldo: marca y opiniones
+
+Atma es marca argentina del grupo Newsan, con service y repuestos locales. Eso pesa: ante una falla tenés a quién reclamar, cosa que con marcas importadas sin representación no siempre pasa. Viene con 12 meses de garantía.
+
+En MercadoLibre tiene 4.7 estrellas sobre 716 opiniones. Es un puntaje alto y sostenido en mucha gente, lo que habla de un producto consistente para lo que promete: un horno honesto de tamaño medio.
+
+## Veredicto
+
+El Atma HGA3022 es una compra sensata para una pareja o familia chica que quiere grill, convección y 30 litros sin pagar de más, con la tranquilidad de una marca con service local. La pega son los 1500 W justos, el panel analógico y el timer de 60 minutos. Si eso no te frena y no cocinás para una multitud, es un horno que cumple lo que dice.`,
+    faq: [
+      {
+        question: "¿El Atma HGA3022 tiene grill?",
+        answer: "Sí. Tiene grill eléctrico con tres modos de calor: superior, inferior y combinado. Podés gratinar por arriba, dorar por abajo o cocinar parejo con los dos a la vez.",
+      },
+      {
+        question: "¿Cuántos litros tiene y para cuántas personas alcanza?",
+        answer: "Son 30 litros, el tamaño intermedio de Atma. Alcanza cómodo para una pareja o una familia chica. Un pollo entero entra justo y para cocinar para seis o más te va a quedar corto.",
+      },
+      {
+        question: "¿Tiene convección?",
+        answer: "Sí, trae convección. Mueve el aire caliente adentro del horno para que la cocción sea más uniforme y no te quede crudo de un lado.",
+      },
+      {
+        question: "¿Hasta qué temperatura llega y tiene timer?",
+        answer: "El termostato va de 100 a 250 °C, regulable por perilla. El timer es analógico y llega hasta 60 minutos; para cocciones más largas lo tenés que volver a poner.",
+      },
+      {
+        question: "¿Es digital o analógico?",
+        answer: "Es analógico, se maneja por perillas. No tiene display digital ni programación al minuto. Si venías de un horno digital, lo vas a notar; para la mayoría del uso diario alcanza.",
+      },
+      {
+        question: "¿1500 W es poca potencia para 30 litros?",
+        answer: "Es potencia justa. Cocina bien, pero precalienta y levanta temperatura más despacio que un horno de 1800 o 2000 W. No es un defecto grave, solo que no esperes que esté listo en cinco minutos.",
+      },
+      {
+        question: "¿Conviene el Atma de 30L o uno con freidora de aire?",
+        answer: "Depende del uso. Este de 30L es más grande y barato, ideal para hornear, gratinar y grill. Si querés freír con poco aceite, mirá el Atma 23L con freidora de aire: es más chico de capacidad útil, pero suma la función air fryer integrada.",
+      },
+    ],
   },
   {
     id: "MLA29108606",
@@ -656,12 +2332,100 @@ export const curatedProducts: Product[] = [
       { label: "Grill", value: "Sí" },
       { label: "Garantía", value: "12 meses" },
       { label: "Marca", value: "Atma" },
+      { label: "Rango de temperatura", value: "90°C a 230°C" },
+      { label: "Timer", value: "Hasta 90 minutos" },
+      { label: "Control", value: "Mecánico (perillas)" },
+      { label: "Modos de cocción", value: "Grill superior, grill inferior, ambos, convección combinada y freidora de aire" },
+      { label: "Accesorios incluidos", value: "Bandeja, rejilla, pinza y canasta para freír" },
+      { label: "Dimensiones", value: "38 cm ancho x 36 cm alto x 43.5 cm prof." },
+      { label: "Peso", value: "8.1 kg" },
+      { label: "Voltaje", value: "220 V" },
     ],
     relatedProducts: ["MLA27167036", "MLA20010900"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Horno eléctrico Atma de 23 litros (1800 W) que además es freidora de aire: la función air fryer es convección forzada con canasta perforada incluida, integrada como un modo más. Horneás y freís con aire (más sano, sin tanto aceite) en el mismo equipo. Más de 590 calificaciones.",
+    seoTitle: "Horno Atma HGFA2323PI 23L con Freidora de Aire: review",
+    metaDescription: "Review honesto del horno Atma HGFA2323PI 23L con freidora de aire: 1800 W, grill y convección en un solo equipo. Para quién sí y para quién no.",
+    verdict: "Para quien quiere hornear y usar air fryer sin tener dos aparatos ocupando la mesada, este Atma de 23 litros resuelve: 1800 W, grill arriba y abajo, convección y canasta para freír incluida, con 4.6 estrellas en cerca de 600 opiniones y service local de una marca conocida en Argentina. No es para vos si buscás control preciso al grado: las perillas son mecánicas (no digital) y se calientan al tacto. Tampoco si cocinás para mucha gente: son 23 litros nominales pero 14 útiles, alcanza para dos o tres porciones, no para una bandeja grande.",
+    pros: [
+      "1800 W de potencia, bastante para esta categoría de hornos de mesa",
+      "Grill superior, inferior, ambos juntos, convección y freidora de aire: 5 modos reales en un equipo",
+      "Trae la canasta perforada para freír con aire, más bandeja, rejilla y pinza",
+      "El modo air fryer y el horno se usan por separado, no estorban entre sí",
+      "4.6 estrellas en cerca de 600 opiniones y marca Atma con service en Argentina",
+      "Temperatura de 90 a 230°C y timer de hasta 90 minutos",
+    ],
+    cons: [
+      "Control con perillas mecánicas: no fijás la temperatura al grado exacto como en uno digital",
+      "Las perillas se calientan bastante al tacto durante el uso, cuidado al manipular",
+      "Son 23 litros nominales pero solo 14 útiles: la capacidad real es la de un horno chico",
+      "El manual es breve y explica poco cómo aprovechar el modo freidora de aire",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+Es un horno eléctrico de mesa que además trae freidora de aire. La parte air fryer es convección forzada con una canasta perforada incluida: cocina con aire caliente en vez de aceite. Todo en el mismo aparato, así no tenés que comprar un horno y una freidora aparte.
+
+Con 1800 W y 23 litros (14 útiles), alcanza para dos o tres personas. Una bandeja de papas, unas milanesas, un pollo chico, gratinar una fuente. Si cocinás para una familia grande o querés meter una asadera entera, te va a quedar corto.
+
+## Las funciones clave
+
+Tiene 5 modos: grill superior, grill inferior, los dos juntos, convección combinada y la función de freidora de aire. La temperatura va de 90 a 230°C y el timer llega a 90 minutos.
+
+Lo bueno es que el horno y la freidora funcionan por separado. Podés hornear sin la canasta o freír con aire sin que un modo pise al otro. Viene con bandeja de cocción, rejilla, pinza y la canasta para freír, así que no tenés que comprar accesorios sueltos.
+
+## Lo que resignás
+
+El control es mecánico, con perillas. No fijás la temperatura al grado exacto como en un horno digital con display. Para hornear de todos los días no molesta, pero si sos preciso con las recetas, lo vas a notar.
+
+La capacidad también es un tema de expectativa. Dice 23 litros, pero los útiles son 14. Es un horno chico bien aprovechado, no un horno grande.
+
+## La contra real
+
+Las perillas se calientan bastante al tacto mientras el horno trabaja. Hay que tener cuidado al girarlas o usar un repasador. Es un detalle de construcción, no un defecto que rompa el equipo, pero conviene saberlo antes de comprar.
+
+El otro punto es el manual: es breve y explica poco cómo sacarle el jugo al modo freidora de aire. Vas a tener que probar tiempos y temperaturas a mano las primeras veces.
+
+## Para quién sí y para quién no
+
+Sí, si vivís solo o son dos o tres y querés un solo aparato que hornee y fría con aire sin ocupar media mesada. Sí, si te importa tener service de una marca conocida en Argentina.
+
+No, si cocinás para mucha gente: 14 litros útiles se llenan rápido. No, si querés control digital al grado o un panel con programas automáticos. No, si la freidora de aire es lo único que vas a usar: una air fryer dedicada de canasta es más cómoda para eso solo.
+
+## Veredicto
+
+Es un dos en uno honesto para uso de a poco. 1800 W, grill completo, convección y canasta de freír incluida, respaldado por 4.6 estrellas en cerca de 600 opiniones. Sabiendo que el control es a perilla, que se calienta y que la capacidad real es de horno chico, sabés exactamente lo que comprás. Si necesitás más litros y no te importa la freidora, los Atma de 45 o 50 litros salen parecido.`,
+    faq: [
+      {
+        question: "¿El Atma HGFA2323PI tiene grill de verdad?",
+        answer: "Sí. Tiene grill superior, grill inferior y la opción de usar los dos juntos. Sumá la convección combinada y la freidora de aire: son 5 modos de cocción en total.",
+      },
+      {
+        question: "¿Cuántos litros tiene y para cuántas personas alcanza?",
+        answer: "Son 23 litros nominales, pero 14 útiles. Alcanza cómodo para dos o tres personas. Para una familia grande o una asadera entera te va a quedar chico.",
+      },
+      {
+        question: "¿La freidora de aire es de verdad o es solo convección?",
+        answer: "Es convección forzada con una canasta perforada incluida, que es como funciona la freidora de aire. Cocina con aire caliente, sin sumergir en aceite. El modo freidora se usa aparte del horno.",
+      },
+      {
+        question: "¿El control es digital o a perilla?",
+        answer: "Es mecánico, con perillas. No fijás la temperatura al grado exacto como en un horno digital con display. Para uso diario funciona bien; si buscás precisión o programas automáticos, no es este.",
+      },
+      {
+        question: "¿Cuánta potencia tiene?",
+        answer: "1800 W, bastante para un horno de mesa de este tamaño. La temperatura va de 90 a 230°C y el timer llega a 90 minutos.",
+      },
+      {
+        question: "¿Conviene este o un horno Atma más grande sin freidora?",
+        answer: "Depende de qué priorices. Si querés air fryer y horno en un solo equipo y cocinás para pocos, este. Si necesitás más capacidad y la freidora no te importa, los Atma de 45 o 50 litros salen un precio parecido pero sin la función de freír con aire.",
+      },
+      {
+        question: "¿Qué accesorios trae?",
+        answer: "Bandeja de cocción, rejilla, pinza y la canasta perforada para freír con aire. No necesitás comprar accesorios sueltos para empezar a usarlo.",
+      },
+    ],
   },
 
   // ─── Robots de cocina — importados via API oficial de ML (jun 2026). Silo cocina (STAGED) ───
@@ -692,12 +2456,109 @@ export const curatedProducts: Product[] = [
       { label: "Funciones", value: "Más de 20 (amasa, cocina, vapor, pica, pesa, sofríe...)" },
       { label: "Control", value: "Digital" },
       { label: "Marca", value: "Suono" },
+      { label: "Material de la jarra", value: "Acero inoxidable 304" },
+      { label: "Pantalla", value: "TFT táctil a color de 7 pulgadas" },
+      { label: "Rango de temperatura", value: "37 a 120 °C" },
+      { label: "Capacidad para líquidos", value: "1.5 litros máx. (4.7 L total del bowl)" },
+      { label: "Conectividad", value: "Wifi con app Tuya y recetario online" },
+      { label: "Accesorios", value: "Vaporera de doble piso, amasador, espátula, batidor, colador, cuchilla multifunción" },
+      { label: "Balanza", value: "Integrada en la jarra" },
+      { label: "Dimensiones", value: "44 x 31.5 x 36 cm" },
+      { label: "Peso", value: "7.6 kg" },
+      { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA51527087", "MLA62799773"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Robot de cocina Suono Neochef Pro: bowl de 4.7 litros, 1700 W y más de 20 funciones (amasa, cocina, cocina al vapor, pica, pesa, sofríe). El más completo y mejor valorado del nicho en MercadoLibre, una alternativa económica a la Thermomix.",
+    seoTitle: "Suono Neochef Pro 4.7L: la alternativa a la Thermomix",
+    metaDescription: "Robot de cocina Suono Neochef Pro 4.7L, 1700 W, pantalla táctil y app. Para quien quiere un multifunción tipo Thermomix sin pagar en dólares. Specs y la contra real.",
+    verdict: "Para quien quiere un robot de cocina que amase, cocine, pique y cocine al vapor sin gastar lo que sale una Thermomix (arriba de USD 2.000), el Suono Neochef Pro es la opción: bowl de 4.7 litros, 1700 W, pantalla táctil de 7 pulgadas y balanza integrada, con 4.8 estrellas en 100 opiniones. Si querés dorar carne, sellar a fuego fuerte o no te banca depender de una app china (Tuya) para las recetas, no es para vos: el tope es 120 °C y el ecosistema de recetas no es el de Thermomix.",
+    pros: [
+      "Bowl de 4.7 litros de acero inoxidable 304 con balanza integrada: pesás los ingredientes en la jarra sin balanza aparte",
+      "1700 W y más de 30 funciones automáticas (amasa, cocina, vapor, pica, sofríe, deshidrata, baño maría)",
+      "Pantalla táctil TFT de 7 pulgadas a color y app Tuya con recetas paso a paso",
+      "Vaporera de doble piso: cocinás dos pisos de comida al vapor mientras el bowl trabaja abajo",
+      "Hace el mismo trabajo que una Thermomix por una fracción del precio",
+      "4.8 estrellas en 100 opiniones y envío gratis",
+    ],
+    cons: [
+      "Tope de 120 °C: cocina, amasa y hace vapor, pero no sella ni dora carne a fuego fuerte (esa limitación la tiene también la Thermomix)",
+      "Para cocciones líquidas el máximo es 1.5 litros, no los 4.7 del bowl: la capacidad grande es para masas y sólidos, no para una olla de sopa familiar",
+      "Depende de la app Tuya para el recetario; no es el ecosistema cerrado y curado de Thermomix",
+      "Marca de origen chino con 12 meses de garantía y 100 opiniones: respaldo real pero menos red de service e historial que una marca masiva",
+      "Mide 44 x 31.5 x 36 cm y pesa 7.6 kg: ocupa mesada y no es para guardar y sacar todos los días",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Suono Neochef Pro es un robot de cocina multifunción: una sola máquina que amasa, cocina, pica, pesa, sofríe y cocina al vapor. El bowl es de 4.7 litros, tiene 1700 W y pantalla táctil de 7 pulgadas. La idea es la misma que la de una Thermomix: reemplazar varios aparatos por uno.
+
+Es para quien cocina seguido y quiere automatizar el proceso (poner ingredientes, elegir programa, dejar que trabaje) sin pagar lo que sale una Thermomix, que en Argentina arranca arriba de USD 2.000. Si cocinás una vez por semana y con una olla te arreglás, es mucha máquina para lo que vas a usar.
+
+## Las funciones clave
+
+Trae más de 30 funciones automáticas: amasar, cocinar, vapor, picar, triturar, sofreír, baño maría, deshidratar, cocción lenta y mantener caliente, entre otras. La jarra es de acero inoxidable 304 y tiene balanza integrada, así que pesás los ingredientes adentro del bowl sin balanza aparte.
+
+La pantalla TFT de 7 pulgadas a color guía paso a paso. Se conecta por wifi a la app Tuya, donde están las recetas preconfiguradas y podés cargar las tuyas. Incluye vaporera de doble piso, amasador, espátula, batidor, colador y cuchilla multifunción.
+
+## Lo que resignás frente a una Thermomix
+
+Lo principal es el ecosistema de recetas. Thermomix tiene un recetario cerrado y curado (Cookidoo); el Suono usa la app Tuya, que es genérica y no está pensada exclusivamente para este robot. Funciona, pero no es lo mismo.
+
+Lo otro es el respaldo de marca. Suono es de origen chino, con 12 meses de garantía, sin la red de service ni el valor de reventa de una marca tradicional. A cambio, pagás una fracción del precio.
+
+## La contra real: temperatura y líquidos
+
+Dos límites concretos, sacados de la ficha del fabricante.
+
+El primero: el tope de temperatura es 120 °C. Eso alcanza para hervir, cocinar, hacer vapor y masas, pero no para sellar o dorar carne a fuego fuerte. Es una limitación honesta de este tipo de robots; la Thermomix llega al mismo techo, así que no es un defecto exclusivo del Suono, pero conviene saberlo: no reemplaza la sartén para un dorado.
+
+El segundo: aunque el bowl es de 4.7 litros, para cocciones líquidas el máximo recomendado es 1.5 litros. La capacidad grande es para masas y sólidos. Si pensabas hacer una olla de sopa para toda la familia, no es eso.
+
+## Tamaño y uso diario
+
+Mide 44 x 31.5 x 36 cm y pesa 7.6 kg. Es un equipo que ocupa mesada y no se guarda y se saca con comodidad todos los días. Si tenés cocina chica, medí antes de comprar. Lo lógico es dejarlo fijo en un lugar.
+
+## Para quién sí y para quién no
+
+Sí: si querés un multifunción que haga el trabajo de una Thermomix (amasar, cocinar, vapor, picar) por mucha menos plata, cocinás seguido y tenés lugar fijo en la mesada. Las 4.8 estrellas en 100 opiniones respaldan que cumple.
+
+No: si querés dorar y sellar a fuego fuerte, si necesitás cocinar grandes volúmenes de líquido, si no te gusta depender de una app para las recetas, o si para vos pesa tener service de marca tradicional. En esos casos, mirá una sartén buena más una olla, o bancá el salto a una Thermomix.
+
+## Veredicto
+
+El Suono Neochef Pro es la entrada honesta al mundo del robot de cocina multifunción en Argentina: te da el 80% de lo que hace una Thermomix por una fracción del precio. La contra es clara y no la esconde la ficha: 120 °C de tope (no dora), 1.5 litros de líquido máximo y dependencia de la app Tuya. Si eso no te frena, por el precio es difícil pedirle más.`,
+    faq: [
+      {
+        question: "¿Cuántos litros tiene el Suono Neochef Pro?",
+        answer: "El bowl es de 4.7 litros de acero inoxidable 304. Ojo con un detalle: para cocciones líquidas el máximo recomendado es 1.5 litros. Los 4.7 litros son la capacidad total, pensada sobre todo para masas y sólidos, no para llenar de sopa.",
+      },
+      {
+        question: "¿Es como una Thermomix?",
+        answer: "Hace lo mismo (amasa, cocina, pica, pesa, vapor) por una fracción del precio: la Thermomix arranca arriba de USD 2.000 en Argentina. Lo que resignás es el ecosistema de recetas (Thermomix tiene Cookidoo, el Suono usa la app genérica Tuya) y el respaldo de marca tradicional con su red de service.",
+      },
+      {
+        question: "¿Cuánta potencia tiene y a qué temperatura llega?",
+        answer: "1700 W de potencia y un rango de temperatura de 37 a 120 °C. Ese tope de 120 °C alcanza para cocinar, hervir, hacer vapor y masas, pero no para sellar o dorar carne a fuego fuerte. Es una limitación del tipo de robot, no solo del Suono.",
+      },
+      {
+        question: "¿Tiene wifi y app?",
+        answer: "Sí. Se conecta por wifi a la app Tuya, donde están las recetas preconfiguradas paso a paso y podés cargar las tuyas. También trae pantalla táctil TFT de 7 pulgadas a color para manejarlo sin el celular.",
+      },
+      {
+        question: "¿Qué accesorios incluye?",
+        answer: "Vaporera de doble piso, amasador, espátula, batidor, colador y cuchilla multifunción. La vaporera de doble piso te deja cocinar dos pisos de comida al vapor mientras el bowl trabaja abajo. La jarra trae balanza integrada para pesar adentro.",
+      },
+      {
+        question: "¿Sirve para amasar pan o pizza?",
+        answer: "Sí, trae amasador y función específica de amasado, y el bowl de 4.7 litros da lugar para masas. Es uno de los usos más fuertes de este robot, porque la capacidad grande está pensada justo para sólidos y masas más que para líquidos.",
+      },
+      {
+        question: "¿Conviene el Pro de 4.7L o el Neochef de 3.3L?",
+        answer: "El Pro de 4.7 litros tiene bowl más grande, pantalla de 7 pulgadas y más funciones; conviene si cocinás para familia o amasás seguido. El de 3.3 litros es más accesible y alcanza para una o dos personas. Si el lugar en la mesada y el presupuesto te dan, el Pro rinde más.",
+      },
+    ],
   },
   {
     id: "MLA51527087",
@@ -726,12 +2587,107 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Wifi y recetario online" },
       { label: "Funciones", value: "Multifunción (amasa, cocina, vapor, pica, pesa...)" },
       { label: "Marca", value: "Suono" },
+      { label: "Material de la jarra", value: "Acero inoxidable" },
+      { label: "Capacidad máxima en cocción", value: "1.5 litros (3.3 L totales)" },
+      { label: "Rango de temperatura", value: "37°C a 120°C" },
+      { label: "Funciones automáticas", value: "Más de 20" },
+      { label: "Báscula integrada", value: "Sí" },
+      { label: "Dimensiones", value: "39 x 26 x 31.5 cm" },
+      { label: "Peso", value: "5.53 kg" },
+      { label: "Accesorios", value: "Vaporera, amasador, espátula, colador, cuchilla multifunción" },
     ],
     relatedProducts: ["MLA58514868", "MLA62799773"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Robot de cocina Suono Neochef de 3.3 litros con wifi y recetario online: la entrada más accesible al multifunción, con casi las mismas prestaciones que el Pro por menos plata. 1700 W.",
+    seoTitle: "Suono Neochef 3.3L Wifi: review honesta del robot",
+    metaDescription: "El Suono Neochef 3.3L con wifi es el robot de cocina más accesible de la línea: 1700 W y báscula, ideal para una o dos personas. Mirá la pega del bowl.",
+    verdict: "Para una o dos personas que quieren un multifunción que amase, cocine al vapor, pique y pese sin gastar lo de un Thermomix, el Suono Neochef de 3.3 litros cumple: 1700 W, báscula integrada, app con recetario y 4.5 estrellas en 94 opiniones. Si cocinás para una familia grande o esperás llenar la jarra, no es para vos: son 3.3 litros totales pero solo 1.5 litros útiles en cocciones, y la pantalla es digital simple, no táctil.",
+    pros: [
+      "1700 W de potencia, igual que el modelo Pro más caro de la misma marca",
+      "Báscula integrada: pesás los ingredientes adentro de la jarra sin balanza aparte",
+      "Más de 20 funciones automáticas (amasa, vapor, pica, sofríe, yogur, cocción lenta)",
+      "Jarra de acero inoxidable, no de plástico",
+      "App con recetario paso a paso vía wifi",
+      "Es la entrada más barata a un robot multifunción de esta línea",
+    ],
+    cons: [
+      "La jarra es de 3.3 litros totales pero solo admite 1.5 litros en cocciones: para una familia grande queda chico",
+      "La pantalla es un display digital simple, no táctil a color como la del Neochef Pro",
+      "La temperatura llega hasta 120°C: cocina y sofríe, pero no dora ni gratina como una sartén o un horno",
+      "Suono es una marca de electrodoméstico económico, sin la red de service de una Atma o Philips",
+      "El recetario depende de la app: si no la usás, perdés parte del valor",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Suono Neochef es un robot de cocina multifunción de 3.3 litros: un solo aparato que reemplaza a varios. Amasa, cocina al vapor, pica, sofríe, bate, pesa y cocina a fuego lento, todo desde una jarra de acero inoxidable. Es la versión de entrada de la línea Neochef de Suono, por debajo del Pro de 4.7 litros.
+
+Alcanza para una o dos personas, o una pareja que cocina seguido y quiere sacarse de encima la balanza, la procesadora y la vaporera por separado. Trae 1700 W, los mismos que el modelo Pro más caro.
+
+## Las funciones que de verdad usás
+
+Suono lista más de 20 funciones automáticas. En la práctica las que mueven la aguja son pocas: amasar (pan, pizza, pasta), cocinar al vapor con la vaporera incluida, picar y la báscula integrada para pesar adentro de la jarra. También hace yogur, cocción lenta y sofrito.
+
+La báscula es el detalle más útil del día a día: tirás los ingredientes adentro y el aparato te dice cuánto pesa cada uno, sin ensuciar una balanza aparte.
+
+## El recetario por app
+
+El wifi conecta el robot a una app con recetas paso a paso. Es lo que diferencia a este tipo de robot de una procesadora común: en vez de pelearte con las velocidades y los tiempos, seguís la receta y el aparato hace el resto.
+
+La contra es que el valor del recetario depende de que uses la app. Si no la enganchás, te queda un multifunción más, sin la guía que justifica parte del precio.
+
+## Lo que resignás contra un Thermomix
+
+Este no es un Thermomix ni pretende serlo. Resignás dos cosas concretas. La primera es la marca: Suono es electrodoméstico económico, sin la red de service ni la trayectoria de una Thermomix o una Atma. La segunda es la temperatura: llega a 120°C, así que cocina y sofríe, pero no te va a dorar una carne ni gratinar como una sartén bien caliente o un horno.
+
+A cambio pagás una fracción del precio. Es la lógica del producto: prestaciones parecidas, marca más barata.
+
+## La contra real: el bowl
+
+El dato que el título no te dice de entrada: son 3.3 litros totales, pero el máximo en cocciones es 1.5 litros. Esa es la capacidad real cuando hervís, cocinás una salsa o hacés una sopa. Para una o dos porciones está bien. Para una familia de cuatro o para cocinar tandas grandes, te vas a quedar corto y vas a tener que cocinar en dos veces.
+
+Si ese es tu caso, el Neochef Pro de 4.7 litros (o un robot de mayor capacidad) te conviene más, aunque pagues la diferencia.
+
+## La pantalla
+
+El Neochef de 3.3 litros trae un display digital simple, no la pantalla táctil a color de 7 pulgadas del Pro. Para manejarlo está perfecto. Pero si esperabas navegar recetas en la pantalla del aparato como en un celular, eso lo hace el Pro, no este.
+
+## Para quién sí y para quién no
+
+Sí: una o dos personas, una pareja, alguien que cocina seguido y quiere un solo aparato que amase, cocine al vapor y pese, sin pagar lo de las marcas premium. Las 4.5 estrellas en 94 opiniones respaldan que cumple lo que promete a su precio.
+
+No: familias grandes (el bowl de 1.5 litros útiles te frena), gente que quiere dorar o gratinar, o quien necesita la red de service de una marca grande. Para esos casos, mirá el Neochef Pro o un robot de otra gama.`,
+    faq: [
+      {
+        question: "¿Cuántos litros tiene la jarra del Suono Neochef?",
+        answer: "La jarra es de 3.3 litros totales, pero el máximo recomendado en cocciones es 1.5 litros. Ese es el dato que importa cuando hervís, hacés sopa o salsa: rinde para una o dos porciones, no para una familia grande.",
+      },
+      {
+        question: "¿El Suono Neochef tiene wifi y app?",
+        answer: "Sí. Se conecta por wifi a una app con recetario paso a paso. Es lo que lo diferencia de una procesadora común: seguís la receta desde la app y el robot ajusta tiempo y velocidad.",
+      },
+      {
+        question: "¿Cuántos watts de potencia tiene?",
+        answer: "1700 W, los mismos que el modelo Neochef Pro de 4.7 litros, que es más caro. La potencia es la misma; lo que cambia entre los dos modelos es el tamaño de la jarra y la pantalla.",
+      },
+      {
+        question: "¿Conviene el Neochef 3.3L o el Neochef Pro 4.7L?",
+        answer: "El 3.3L es para una o dos personas y trae display digital simple. El Pro de 4.7 litros tiene más capacidad y pantalla táctil a color de 7 pulgadas. Si cocinás para una familia o querés la pantalla grande, el Pro; si sos uno o dos, el 3.3L alcanza y sale menos.",
+      },
+      {
+        question: "¿Sirve para amasar pan y pizza?",
+        answer: "Sí, trae función de amasado y un accesorio amasador. Con 1700 W maneja masa de pan y pizza, dentro del límite de capacidad de la jarra.",
+      },
+      {
+        question: "¿Dora o gratina la comida?",
+        answer: "No. La temperatura llega hasta 120°C, así que cocina, hierve y sofríe, pero no dora una carne ni gratina como una sartén caliente o un horno. Para eso vas a necesitar otro electrodoméstico.",
+      },
+      {
+        question: "¿Qué accesorios trae?",
+        answer: "Según el fabricante, viene con vaporera, amasador, espátula, colador y cuchilla multifunción, además de la báscula integrada en el aparato.",
+      },
+    ],
   },
   {
     id: "MLA62799773",
@@ -759,12 +2715,108 @@ export const curatedProducts: Product[] = [
       { label: "Potencia", value: "1000 W" },
       { label: "Extra", value: "Wifi y pantalla táctil" },
       { label: "Marca", value: "Vonne" },
+      { label: "Material del bowl", value: "Acero inoxidable" },
+      { label: "Pantalla", value: "Táctil TFT 7\"" },
+      { label: "Balanza incorporada", value: "Sí (0 a 5 kg)" },
+      { label: "Recetas", value: "400 guiadas en español" },
+      { label: "App / conectividad", value: "Wifi con app Tuya" },
+      { label: "Velocidades", value: "12 niveles + reversa" },
+      { label: "Rango de temperatura", value: "36 °C a 160 °C" },
+      { label: "Accesorios", value: "Vaporera 2 niveles, cuchilla, disco rallador, batidor, vaso medidor" },
+      { label: "Origen", value: "Importado (China)" },
     ],
     relatedProducts: ["MLA58514868", "MLA51527087"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Robot de cocina EasyCook Vonne de 4.5 litros con wifi y pantalla táctil. Multifunción de tamaño grande con buena interfaz, una alternativa a Suono. Es un producto nuevo, todavía con pocas opiniones.",
+    seoTitle: "Robot Cocina Vonne EasyCook 4.5L: review y para quién es",
+    metaDescription: "El Vonne EasyCook es un robot multifunción de 4.5 litros con wifi, pantalla de 7\" y 400 recetas. Para quien cocina seguido y quiere uno grande. Es marca nueva con pocas opiniones.",
+    verdict: "Si cocinás seguido para una familia y querés un robot multifunción grande con pantalla y recetas guiadas, el Vonne EasyCook tiene la ficha más completa del nicho: 4.5 litros, 1000 W, balanza, vaporera y 400 recetas en español. Si querés el respaldo de una marca con trayectoria y service probado, frená: Vonne es nueva en este rubro y la publicación tiene apenas 12 opiniones, así que estás comprando ficha técnica, no historial.",
+    pros: [
+      "Bowl de 4.5 litros de acero inoxidable, el más grande del nicho de robots económicos",
+      "1000 W, suficiente para amasar pan y sopas para una familia",
+      "Pantalla táctil TFT de 7\" con 400 recetas guiadas en español paso a paso",
+      "Balanza integrada de 0 a 5 kg: pesás los ingredientes en el mismo bowl",
+      "Viene con vaporera de 2 niveles, disco rallador, batidor y cuchilla, sin comprar aparte",
+      "Wifi con app Tuya para seguir las recetas desde el celular",
+    ],
+    cons: [
+      "Vonne es una marca nueva en robots de cocina: no hay historial de service ni de durabilidad todavía",
+      "Solo 12 opiniones en MercadoLibre (4.6 estrellas): poca muestra para confiar a ciegas",
+      "Las recetas y la app dependen de Tuya y de la nube del fabricante; si eso falla, perdés el modo guiado",
+      "1000 W es correcto pero no es un Thermomix: para uso intensivo diario de varias horas puede quedar corto",
+      "Pesa más de 11 kg: no es para guardar y sacar todos los días, ocupa lugar fijo en la mesada",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Vonne EasyCook es un robot de cocina multifunción: pica, ralla, amasa, bate, cocina al vapor, hierve y guisa en un solo aparato. La diferencia con el resto del nicho económico es el tamaño: 4.5 litros de bowl, contra los 3 o 3.3 litros de la mayoría. Si cocinás para una familia o te gusta hacer tandas grandes, ese litro y medio extra se nota.
+
+Tiene 1000 W de potencia, balanza incorporada y una pantalla táctil de 7 pulgadas con 400 recetas guiadas en español. La idea es que sigas la receta paso a paso en la pantalla y el robot vaya ajustando temperatura, tiempo y velocidad solo.
+
+## Las funciones que más vas a usar
+
+La lista oficial es larga: amasar, batir, emulsionar, hervir, mezclar, moler, picar, rallar, guisar, licuar, yogurtera, cocción al vapor, cocción lenta y baño María. En la práctica, lo que más se usa en este tipo de robot es: amasar masa de pan o pizza, hacer sopas y purés calientes (cocina y procesa en el mismo bowl), y cocinar al vapor mientras prepara otra cosa abajo.
+
+Trae vaporera de dos niveles, disco rallador, cuchilla procesadora, batidor de varillas y vaso medidor. O sea: la mayoría de los accesorios que en otros equipos comprás aparte, acá vienen incluidos.
+
+## La pantalla, el wifi y las recetas
+
+La pantalla TFT de 7" es deslizable y muestra las recetas guiadas. El wifi conecta con la app Tuya, así seguís la receta desde el celular y, según el fabricante, las recetas se actualizan. Controla 12 velocidades más reversa y temperatura de 36 a 160 grados en pasos.
+
+Para alguien que recién arranca con un robot de cocina, el modo guiado es lo más útil: te dice cuánto de cada cosa y a qué velocidad. Si ya sabés cocinar, está el modo manual donde manejás todo vos.
+
+## Lo que resignás
+
+El dato a tener claro: las recetas y el modo guiado dependen de la app Tuya y de la nube del fabricante. Es la misma plataforma que usan miles de dispositivos chinos, así que no es un riesgo raro, pero si la app o el servidor fallan, te quedás con el robot funcionando en modo manual nada más. El aparato cocina igual; lo que perdés es la guía paso a paso.
+
+También pesa más de 11 kg. No es de los que sacás y guardás todos los días: ocupa un lugar fijo en la mesada.
+
+## La contra real
+
+Vonne es una marca nueva en robots de cocina. No tiene la trayectoria de una Atma o una marca con service conocido en el país. Y la publicación tiene apenas 12 opiniones, con 4.6 estrellas. Es un buen promedio, pero 12 opiniones es poca muestra: alcanza para tener una idea, no para confiar a ciegas como harías con un producto de cientos de reseñas.
+
+En criollo: la ficha técnica es de las mejores del nicho, pero estás comprando specs, no un historial probado de durabilidad ni de respuesta del service.
+
+## Para quién sí y para quién no
+
+Sí, si cocinás seguido, sos varios en casa y querés el bowl más grande del rango económico con pantalla y recetas guiadas. La relación funciones-precio es buena y los accesorios incluidos suman.
+
+No, si lo que más te importa es el respaldo de una marca con years de service en Argentina, o si querés esperar a que junte más opiniones antes de jugarte. En ese caso, mirá la opción de Atma (marca conocida, menos litros) o un Suono si querés algo más chico y barato.
+
+## Veredicto
+
+El Vonne EasyCook es la apuesta de "máxima ficha técnica por el precio" del nicho: 4.5 litros, 1000 W, balanza, vaporera y 400 recetas. Para una familia que cocina y quiere espacio, es de lo más completo que vas a encontrar en el rango. El pero es la marca nueva y las pocas opiniones: si te banca ser de los primeros, vale; si querés historial, esperá o andá a una marca con más recorrido.`,
+    faq: [
+      {
+        question: "¿Cuántos litros tiene el bowl del Vonne EasyCook?",
+        answer: "4.5 litros, de acero inoxidable. Es de los más grandes del nicho de robots de cocina económicos, donde lo normal son 3 a 3.3 litros. Bien para cocinar para una familia o hacer tandas grandes.",
+      },
+      {
+        question: "¿Qué potencia tiene?",
+        answer: "1000 W. Alcanza para amasar masa de pan y pizza y para sopas o purés calientes para varias personas. No es un robot premium tipo Thermomix, así que para uso intensivo de varias horas seguidas puede quedar justo.",
+      },
+      {
+        question: "¿Trae vaporera y accesorios o hay que comprarlos aparte?",
+        answer: "Vienen incluidos: vaporera de dos niveles, cuchilla procesadora, disco rallador, batidor de varillas, vaso medidor, cesto hervidor, espátula y empujador. La mayoría de los accesorios que en otros equipos pagás aparte, acá ya están.",
+      },
+      {
+        question: "¿Cómo funcionan las recetas y el wifi?",
+        answer: "Tiene pantalla táctil de 7\" con 400 recetas guiadas en español paso a paso. El wifi conecta con la app Tuya para seguir las recetas desde el celular. El detalle: el modo guiado depende de esa app y de la nube del fabricante; si eso falla, el robot cocina igual pero en modo manual.",
+      },
+      {
+        question: "¿Vonne es una marca confiable?",
+        answer: "Es una marca nueva en robots de cocina, sin la trayectoria de una Atma. La publicación tiene 4.6 estrellas pero sobre apenas 12 opiniones, así que hay poca muestra para hablar de durabilidad o service todavía. Estás comprando ficha técnica más que historial probado.",
+      },
+      {
+        question: "¿Conviene el Vonne EasyCook o un Atma?",
+        answer: "Depende de qué priorices. El Vonne te da más litros (4.5 vs 3) y ficha más completa por el precio. El Atma te da marca conocida con service en el país, aunque con bowl más chico. Si querés capacidad y funciones, Vonne; si querés respaldo de marca, Atma.",
+      },
+      {
+        question: "¿Sirve para amasar pan?",
+        answer: "Sí. Con 1000 W y bowl de 4.5 litros amasa masa de pan y pizza sin problema para cantidades de familia. Para amasados muy pesados y seguidos, igual conviene no exigirlo al máximo de forma continua.",
+      },
+    ],
   },
   {
     id: "MLA57493542",
@@ -792,12 +2844,107 @@ export const curatedProducts: Product[] = [
       { label: "Control", value: "Pantalla táctil" },
       { label: "Ventaja", value: "Marca conocida con service en el país" },
       { label: "Marca", value: "Atma" },
+      { label: "Potencia", value: "1700 W" },
+      { label: "Material del bowl", value: "Acero inoxidable" },
+      { label: "Pantalla", value: "Táctil de 5 pulgadas" },
+      { label: "Programas", value: "18 automáticos" },
+      { label: "Balanza integrada", value: "Sí, hasta 5 kg" },
+      { label: "Vaporera", value: "Incluida" },
+      { label: "Accesorios", value: "Cuchilla amasadora, batidor mariposa, colador, cuchilla multifunción, espátula" },
+      { label: "Dimensiones", value: "48 x 35 x 51 cm" },
+      { label: "Peso", value: "8,2 kg" },
     ],
     relatedProducts: ["MLA58514868", "MLA51527087"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Robot de cocina Atma Smart Mix de 3 litros con pantalla táctil: la opción de una marca conocida con service en el país, para quien prefiere respaldo a un genérico. Es nuevo, así que todavía tiene pocas opiniones.",
+    seoTitle: "Robot Atma Mix II 3L RC2023TCP: review honesta",
+    metaDescription: "El Atma Mix II 3L (RC2023TCP) es para quien quiere un robot multifunción con marca conocida y service en el país. 1700 W, balanza y vaporera. Mirá la pega.",
+    verdict: "Para quien quiere un robot de cocina multifunción y prefiere una marca con service en el país antes que un genérico chino sin respaldo, el Atma Mix II de 3 litros cumple: 1700 W, bowl de acero inoxidable, balanza integrada, vaporera y 18 programas. No es para vos si buscás un Thermomix de verdad o si te pesa comprar algo con pocas opiniones todavía: es un modelo nuevo y arrastra apenas 6 reseñas (4.0 estrellas).",
+    pros: [
+      "1700 W de potencia, suficiente para amasar, cocinar y picar sin quedarse corto",
+      "Bowl de 3 litros de acero inoxidable, no de plástico",
+      "Balanza integrada (hasta 5 kg): pesás los ingredientes adentro del bowl",
+      "Trae vaporera y juego de accesorios (cuchilla amasadora, batidor mariposa, colador, espátula)",
+      "Marca conocida en Argentina con service local, no un genérico sin respaldo",
+      "Pantalla táctil de 5 pulgadas con 18 programas automáticos",
+    ],
+    cons: [
+      "Es un modelo nuevo: arrastra solo 6 opiniones y 4.0 estrellas, poca muestra para confiar a ojos cerrados",
+      "No es un Thermomix: aunque imita el formato, no juega en esa liga de prestaciones ni precisión",
+      "3 litros rinde para dos a cuatro personas; para tandas grandes de familia numerosa se queda chico",
+      "Mide 48 x 35 x 51 cm y pesa más de 8 kg: ocupa lugar en la mesada y no es para guardar y sacar todo el tiempo",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Atma Mix II es un robot de cocina multifunción de 3 litros. La idea: una sola máquina que pica, amasa, bate, cocina y cuece al vapor, con programas automáticos para no estar encima.
+
+Apunta al mismo lugar que un Thermomix, pero a una fracción del precio. No es lo mismo, y conviene tenerlo claro de entrada. Lo que ofrece es la función multiuso de una marca con respaldo local.
+
+Rinde bien para dos a cuatro personas. Para una familia numerosa que cocina en tandas grandes, los 3 litros se quedan cortos.
+
+## Las funciones clave
+
+Trae 1700 W de potencia. Es bastante para esta categoría: amasa masa de pan, pica duro y cocina sin frenarse.
+
+El bowl es de acero inoxidable, no de plástico. Detalle que importa: aguanta mejor el calor y se limpia más fácil.
+
+La balanza integrada llega hasta 5 kg. Pesás los ingredientes directo adentro del bowl, sin balanza aparte. Suma 18 programas automáticos y pantalla táctil de 5 pulgadas.
+
+## Lo que viene en la caja
+
+Más allá del bowl, trae vaporera, colador, cuchilla para amasar, batidor mariposa, cuchilla multifunción y espátula de silicona.
+
+Con eso cubrís lo básico de un robot de cocina sin tener que comprar accesorios sueltos.
+
+## La contra real
+
+Es un modelo nuevo. Hoy tiene apenas 6 opiniones y 4.0 estrellas. Es poca muestra: no podés saber todavía cómo se porta a los dos años de uso ni qué tan común es que falle.
+
+Acá la balanza se inclina por el respaldo de la marca. Atma tiene service en el país, así que si algo se rompe, sabés a quién reclamarle. Eso es lo que pagás de más frente a un genérico.
+
+El otro punto: ocupa lugar. Mide 48 x 35 x 51 cm y pesa más de 8 kg. Es para dejar fijo en la mesada, no para guardar y sacar a cada rato.
+
+## Para quién sí y para quién no
+
+Sí: si querés un robot multifunción y te importa más la tranquilidad de una marca con service que ahorrar unos pesos con un genérico chino sin respaldo.
+
+No: si esperás un Thermomix de verdad (no lo es), si cocinás para muchos y necesitás más de 3 litros, o si no te banca comprar algo que todavía tiene pocas reseñas.
+
+## Veredicto
+
+El Atma Mix II 3L es una compra razonable para entrar al mundo de los robots de cocina con red de seguridad: marca conocida, service local, 1700 W, balanza y vaporera incluidas. La pega es que es nuevo y tiene pocas opiniones (4.0 en 6 reseñas), así que comprás más por la marca que por el historial. Si eso no te frena, da buena relación función-precio.`,
+    faq: [
+      {
+        question: "¿Cuántos litros tiene el bowl del Atma Mix II RC2023TCP?",
+        answer: "El bowl es de 3 litros, de acero inoxidable. Rinde bien para dos a cuatro personas; para tandas grandes de familia numerosa se queda chico.",
+      },
+      {
+        question: "¿Qué potencia tiene?",
+        answer: "1700 W, según la ficha del fabricante para el modelo 94RC2023TCP. Es bastante para la categoría: amasa, pica y cocina sin quedarse corto.",
+      },
+      {
+        question: "¿Trae vaporera y balanza?",
+        answer: "Sí. Incluye vaporera y balanza integrada de hasta 5 kg, así pesás los ingredientes directo en el bowl. También viene cuchilla para amasar, batidor mariposa, colador, cuchilla multifunción y espátula.",
+      },
+      {
+        question: "¿Es como un Thermomix?",
+        answer: "Imita el formato y las funciones, pero no juega en esa liga de prestaciones ni precisión. Es una alternativa más económica con marca conocida en el país, no un reemplazo uno a uno.",
+      },
+      {
+        question: "¿Conviene el Atma o un robot genérico más barato?",
+        answer: "Depende de qué valorés. El Atma cuesta más que un genérico chino, pero es una marca con service local: si se rompe, sabés a quién reclamarle. Si te importa el respaldo, conviene; si solo buscás el precio más bajo, hay opciones genéricas.",
+      },
+      {
+        question: "¿Tiene buenas opiniones?",
+        answer: "Es un modelo nuevo: hoy tiene 4.0 estrellas en apenas 6 opiniones. Es poca muestra para confiar a ciegas, así que se compra más por el respaldo de la marca que por el historial de reseñas.",
+      },
+      {
+        question: "¿Qué tamaño ocupa en la mesada?",
+        answer: "Mide 48 x 35 x 51 cm y pesa más de 8 kg. Es para dejar fijo en la mesada, no para guardar y sacar todo el tiempo.",
+      },
+    ],
   },
   {
     id: "MLA52092432",
@@ -826,12 +2973,114 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Vaporera incluida" },
       { label: "Posición", value: "Premium (tipo Thermomix)" },
       { label: "Marca", value: "Heybez" },
+      { label: "Potencia del motor", value: "800 W" },
+      { label: "Potencia de cocción", value: "1000 W" },
+      { label: "Material del vaso", value: "Acero inoxidable" },
+      { label: "Temperatura máxima", value: "160 °C" },
+      { label: "Velocidades", value: "12 niveles" },
+      { label: "Pantalla", value: "Táctil TFT 6,9 pulgadas" },
+      { label: "Balanza integrada", value: "1 a 5000 g, función tara" },
+      { label: "Conectividad", value: "Wifi (recetario sin suscripción)" },
+      { label: "Vaporera", value: "Dos niveles (3,2 L + bandeja 1,5 L)" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+      { label: "Peso", value: "4,65 kg" },
     ],
     relatedProducts: ["MLA58514868", "MLA51527087"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Robot de cocina Heybez PMIX08 con vaporera: el premium del nicho en MercadoLibre, cerca de la categoría Thermomix por prestaciones y precio (más de un millón de pesos). Para quien quiere lo más completo y no le importa pagarlo.",
+    seoTitle: "Heybez PMIX08 Negra: review honesto del robot tipo Thermomix",
+    metaDescription: "Robot de cocina Heybez PMIX08 Negra con vaporera: vaso de acero 3L, 30 funciones, pantalla táctil y wifi. Para quien quiere lo más completo. La pega: el precio y la garantía.",
+    verdict: "Para quien quiere un robot de cocina lo más cercano a una Thermomix sin pagar lo que sale una Thermomix, el Heybez PMIX08 es de lo más completo del nicho en MercadoLibre: vaso de acero inoxidable de 3 litros, balanza integrada, pantalla táctil de 6,9 pulgadas, wifi con recetario sin suscripción y 30 funciones. Tiene 4.6 estrellas, aunque todavía con pocas opiniones (14). Si te asusta gastar más de un millón de pesos en una marca que no es de las históricas, o esperás un motor potente, no es para vos: son 800 W de motor y la garantía es de 6 meses.",
+    pros: [
+      "Vaso de acero inoxidable de 3 litros, el más grande de su categoría de robots tipo Thermomix",
+      "Balanza integrada de 1 a 5000 g con función tara: pesás los ingredientes adentro del vaso",
+      "Pantalla táctil TFT de 6,9 pulgadas con modos manual, guiado y automático",
+      "Wifi con recetario que se actualiza solo y queda guardado en el equipo, sin pago de suscripción",
+      "Llega con vaporera de dos niveles (3,2 L), cuchilla de 4 hojas, batidor mariposa, espátula y vaso medidor",
+      "4.6 estrellas en MercadoLibre y respaldo de marca con venta en Megatone, Frávega y tiendas oficiales",
+    ],
+    cons: [
+      "Más de 1,19 millones de pesos: es el premium del nicho, casi el doble que un Suono de 4.7 litros",
+      "Motor de 800 W: por debajo de los 1700 W de los Suono, rinde menos para amasar o moler en seco",
+      "Garantía de fábrica de solo 6 meses por defectos, corta para un electrodoméstico de este precio",
+      "Vaso de 3 litros: alcanza para una familia chica, pero queda corto si cocinás para muchos seguido",
+      "Pocas opiniones todavía (14): el promedio de 4.6 está armado sobre una muestra chica",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Heybez PMIX08 es un robot de cocina multifunción, de los que apuntan a hacer casi todo: picar, amasar, cocinar, cocinar al vapor, pesar y batir desde un solo vaso. Es la categoría que copia a la Thermomix, pero a una fracción del precio de una Thermomix.
+
+Alcanza para alguien que cocina en serio y quiere dejar de usar cinco aparatos distintos. Si solo querés un procesador para picar verdura o una licuadora, esto es demasiado equipo (y demasiada plata). Tiene sentido si vas a usar las funciones de cocción y el recetario guiado.
+
+## Las funciones clave
+
+El vaso es de acero inoxidable y entran 3 litros: según Heybez, el más grande de su categoría. Calienta hasta 160 °C y tiene 12 niveles de velocidad. La pantalla táctil es una TFT de 6,9 pulgadas, con modos manual, guiado y automático.
+
+Trae balanza integrada de 1 a 5000 gramos con función tara, así que pesás los ingredientes adentro del vaso sin balanza aparte. La marca habla de 30 funciones, con programas de vapor, salteado, amasado, dorado, sous-vide, cocción lenta, fermentar y derretir chocolate.
+
+El wifi sirve para una cosa concreta: el recetario se actualiza solo y no paga suscripción. Una vez descargadas, las recetas quedan en el equipo y andan sin internet.
+
+## Lo que viene en la caja
+
+Además del vaso, llega con vaporera de dos niveles (bandeja de 1,5 L y vaporera de 3,2 L), cuchilla de 4 hojas, batidor mariposa tipo mariposa, espátula, vaso medidor de 70 ml y tapa de seguridad. Con eso cubrís vapor, amasado y batido sin comprar accesorios sueltos.
+
+El equipo pesa 4,65 kg y mide 374 x 265 x 234 mm: ocupa lugar fijo en la mesada, no es algo que guardes y saques todos los días.
+
+## El motor: dónde resigna potencia
+
+Acá está el dato que conviene mirar. El motor es de 800 W y la potencia de cocción es de 1000 W (consumo máximo 1300 W). Para cocinar, calentar y cocinar al vapor, 800 W de motor alcanzan. Donde se nota la diferencia es en el amasado pesado o en moler ingredientes secos: un Suono de la misma lista trae 1700 W, más del doble.
+
+No es que el Heybez no amase. Es que si tu uso principal es masa dura o moler seco a repetición, hay opciones con más motor por menos plata.
+
+## La contra real
+
+Dos cosas pesan. La primera, el precio: más de 1,19 millones de pesos lo ponen como el más caro del nicho en MercadoLibre, casi el doble que un Suono Neochef Pro de 4.7 litros. Estás pagando el acabado, el acero, la balanza y la pantalla, no más potencia.
+
+La segunda, la garantía: 6 meses de fábrica por defectos. Para un electrodoméstico de cocina de este precio es corto. Suele cubrirse con la garantía del vendedor de MercadoLibre, pero conviene confirmarlo antes de comprar.
+
+Y el promedio de 4.6 estrellas está armado sobre 14 opiniones. Es buena nota, pero es poca muestra todavía.
+
+## Para quién sí y para quién no
+
+Sí, si querés lo más parecido a una Thermomix sin pagar una Thermomix, valorás el vaso de acero, la balanza adentro y un recetario guiado sin suscripción, y no te frena el precio.
+
+No, si te alcanza con un robot de cocción más simple y barato, si tu uso fuerte es amasar masa dura todos los días (mirá los de 1700 W), o si querés una marca histórica con red de service grande y garantía larga.
+
+## Veredicto
+
+El Heybez PMIX08 Negra es el premium del nicho de robots tipo Thermomix en MercadoLibre: acero, balanza, pantalla táctil de 6,9 pulgadas, wifi con recetario propio y vaporera incluida. Lo que pagás es la terminación y la experiencia completa, no la potencia: son 800 W de motor y 6 meses de garantía. Si eso te cierra y el precio no te asusta, es de lo más completo que vas a encontrar. Si priorizás motor o plata, hay alternativas mejores en la misma lista.`,
+    faq: [
+      {
+        question: "¿Cuántos litros tiene el Heybez PMIX08?",
+        answer: "El vaso es de 3 litros, de acero inoxidable. Según Heybez es el más grande de su categoría de robots tipo Thermomix. Alcanza para una familia chica; si cocinás para muchos de forma habitual, queda justo.",
+      },
+      {
+        question: "¿Qué potencia tiene?",
+        answer: "El motor es de 800 W y la potencia de cocción es de 1000 W (consumo máximo 1300 W). Es menos que los robots Suono de 1700 W: rinde bien para cocinar y vapor, pero menos para amasar masa dura o moler en seco.",
+      },
+      {
+        question: "¿Trae vaporera?",
+        answer: "Sí. Llega con vaporera de dos niveles: bandeja de 1,5 litros y vaporera de 3,2 litros. También incluye cuchilla de 4 hojas, batidor mariposa, espátula, vaso medidor de 70 ml y tapa de seguridad.",
+      },
+      {
+        question: "¿Tiene balanza integrada?",
+        answer: "Sí, balanza de 1 a 5000 gramos con función tara y precisión de 1 gramo. Pesás los ingredientes adentro del vaso, sin necesidad de una balanza aparte.",
+      },
+      {
+        question: "¿El wifi y el recetario se pagan aparte?",
+        answer: "No. El wifi sirve para que el recetario se actualice solo, y no cobra suscripción. Una vez descargadas, las recetas quedan guardadas en el equipo y funcionan sin internet.",
+      },
+      {
+        question: "¿Conviene el Heybez PMIX08 o un Suono Neochef?",
+        answer: "Depende. El Heybez tiene vaso de acero, balanza y mejor terminación, pero cuesta casi el doble y tiene menos motor (800 W contra 1700 W del Suono). Si querés lo más completo y el acabado, el Heybez. Si priorizás potencia y precio, el Suono.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "Heybez ofrece 6 meses de garantía de fábrica por defectos de fabricación. Es una garantía corta para el precio del equipo; conviene revisar también la cobertura del vendedor en MercadoLibre.",
+      },
+    ],
   },
 
   // ─── Cafeteras italianas (moka) Volturno — importadas via API oficial de ML (jun 2026) ───
@@ -864,12 +3113,97 @@ export const curatedProducts: Product[] = [
       { label: "Material", value: "Aluminio" },
       { label: "Apta para inducción", value: "No (aluminio)" },
       { label: "Apta para", value: "Hornalla a gas y eléctrica" },
+      { label: "Capacidad", value: "720 cm³ (12 pocillos)" },
+      { label: "Diseño", value: "Desarmable por completo (base, embudo y jarra)" },
+      { label: "Incluye", value: "Filtro metálico" },
+      { label: "Repuestos", value: "Nacionales (junta y filtro)" },
     ],
     relatedProducts: ["MLA53925844", "MLA53927506"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Cafetera italiana (moka) de aluminio Volturno, la marca clásica argentina. 12 pocillos para preparar café para varios. Para hornalla a gas o eléctrica; no apta para inducción.",
+    seoTitle: "Cafetera Volturno 12 Pocillos: la moka clásica argentina",
+    metaDescription: "Cafetera italiana Volturno 12 pocillos de aluminio: para quien toma café en casa y prepara para varios. Hornalla a gas o eléctrica, no inducción. Mirá si te conviene.",
+    verdict: "Para el que toma café en casa todos los días y prepara para tres o cuatro personas, la Volturno 12 pocillos es la moka de siempre: aluminio, desarmable, repuestos nacionales y 4.7 estrellas en 363 opiniones. Si tenés cocina de inducción, no es para vos: el aluminio no funciona ahí. Y si vivís solo, 12 pocillos te queda grande, andá a la de 6.",
+    pros: [
+      "Marca argentina clásica con repuestos nacionales: la junta de goma y el filtro se consiguen en cualquier ferretería",
+      "Se desarma por completo, así que la limpieza es simple y entra todo bajo la canilla",
+      "12 pocillos (720 cm³) alcanza para café de tres o cuatro personas de una vez",
+      "Sirve en hornalla a gas y en eléctrica, las dos más comunes en casas argentinas",
+      "4.7 estrellas en 363 opiniones, un respaldo grande para una cafetera de este precio",
+      "No tiene electrónica ni nada que se rompa: es metal, dura años",
+    ],
+    cons: [
+      "El aluminio no sirve para cocinas de inducción: si tenés anafe de inducción, esta no te calienta",
+      "12 pocillos es mucho para una persona sola; el café rinde mejor cuando llenás la cafetera, así que de a poco no es su fuerte",
+      "El aluminio se mancha y se opaca con el uso; es estético, no afecta el café, pero no queda como nueva",
+      "No tiene apagado automático ni indicadores: hay que estar atento al fuego para que no se reseque",
+      "Lavavajillas no se recomienda en aluminio: lo va opacando más rápido, conviene lavarla a mano",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+La Volturno 12 pocillos es una cafetera italiana de aluminio, también llamada moka o greca. Va arriba de la hornalla, no se enchufa. El agua de abajo hierve, sube por el café molido y queda el café listo en la parte de arriba.
+
+Es para el que toma café en casa todos los días y prepara para varios. Los 12 pocillos dan unos 720 cm³, suficiente para tres o cuatro tazas de una. Si vivís solo y tomás un café por la mañana, esta capacidad te sobra y conviene la de 6 pocillos.
+
+## La marca importa más de lo que parece
+
+Volturno es un clásico argentino. Eso tiene una ventaja concreta: los repuestos se consiguen en cualquier ferretería del país. La junta de goma y el filtro metálico son las dos piezas que se gastan con los años, y en una Volturno los reemplazás por monedas. Con una cafetera importada o de marca rara, conseguir esos repuestos es un dolor de cabeza.
+
+## Cómo se usa y se limpia
+
+Se desarma por completo en tres partes: base, embudo del café y jarra de arriba. Eso hace la limpieza simple, todo entra bajo la canilla. No la metas en lavavajillas: el aluminio se opaca más rápido. Lavala a mano, sin detergente fuerte, y secala bien.
+
+Para el café, va molido medio fino y fuego moderado. Si la ponés a fuego alto el café sale quemado y amargo. Es la curva de aprendizaje de toda moka, no un defecto de esta en particular.
+
+## Lo que resignás
+
+No tiene nada electrónico. No hay apagado automático, ni luz, ni temporizador. Tenés que estar cerca para sacarla del fuego cuando termina de subir el café. Si te olvidás, se reseca y se siente el gusto.
+
+Tampoco la vas a tener reluciente para siempre. El aluminio se mancha y se opaca con el uso. Es estético, no cambia el sabor del café, pero si te molesta una cafetera marcada, tenelo en cuenta.
+
+## La contra real: inducción
+
+Acá está el límite que descarta a mucha gente. El aluminio no funciona en cocinas de inducción. La inducción necesita material magnético (acero ferromagnético), y el aluminio no lo es. Si tenés anafe de inducción, esta cafetera no te va a calentar nunca, da igual la potencia que pongas.
+
+Para gas y para eléctrica de resistencia anda perfecto, que son las dos cocinas más comunes en las casas de acá. Pero antes de comprar, fijate qué cocina tenés.
+
+## Para quién sí y para quién no
+
+Sí: tomás café en casa seguido, preparás para tres o cuatro, tenés cocina a gas o eléctrica, y querés algo simple que dure y se repare barato.
+
+No: tenés inducción, vivís solo (te queda grande), o querés algo con botón y apagado automático sin estar pendiente del fuego.
+
+## Veredicto
+
+Es la moka de toda la vida, bien hecha y con respaldo de marca nacional. 4.7 estrellas en 363 opiniones no es casualidad: hace lo que promete y se banca años. El único filtro real es la inducción y el tamaño. Si tu cocina es a gas o eléctrica y tomás café para varios, es una compra segura.`,
+    faq: [
+      {
+        question: "¿La cafetera Volturno sirve para cocina de inducción?",
+        answer: "No. Es de aluminio, y la inducción necesita material magnético (acero). En anafe de inducción no calienta. Sirve para hornalla a gas y eléctrica de resistencia, que son las más comunes.",
+      },
+      {
+        question: "¿Cuántas tazas hace la Volturno de 12 pocillos?",
+        answer: "Da unos 720 cm³, alcanza para tres o cuatro tazas de café de una preparación. \"Pocillos\" es la medida del café italiano (un pocillo es chico), no tazas grandes.",
+      },
+      {
+        question: "¿Se consiguen repuestos para la Volturno?",
+        answer: "Sí, y es una de sus ventajas. Es marca argentina, así que la junta de goma y el filtro metálico (las piezas que se gastan) se consiguen baratos en ferreterías de todo el país.",
+      },
+      {
+        question: "¿Conviene la de 12 pocillos o una más chica?",
+        answer: "Si preparás para tres o cuatro personas, la de 12. Si vivís solo o son dos, la moka rinde mejor llena, así que conviene una de 6 pocillos: vas a tomar café más fresco y bien preparado.",
+      },
+      {
+        question: "¿Se puede lavar en lavavajillas?",
+        answer: "No se recomienda. El aluminio se opaca más rápido en el lavavajillas. Conviene lavarla a mano, sin detergente fuerte, y secarla bien para que dure.",
+      },
+      {
+        question: "¿Por qué me sale el café amargo o quemado?",
+        answer: "Casi siempre es por fuego alto. La moka va a fuego moderado y con café molido medio fino. A fuego fuerte el café sube demasiado rápido y sale quemado. Es cuestión de agarrarle la mano.",
+      },
+    ],
   },
   {
     id: "MLA53925844",
@@ -903,12 +3237,94 @@ export const curatedProducts: Product[] = [
       { label: "Capacidad", value: "540 cm³" },
       { label: "Color", value: "Negro" },
       { label: "Apta para inducción", value: "No (aluminio)" },
+      { label: "Capacidad", value: "540 cm³" },
+      { label: "Dimensiones", value: "Aprox. 28,3 x 19,5 x 12,5 cm" },
+      { label: "Peso", value: "Aprox. 0,9 kg" },
+      { label: "SKU fabricante", value: "VF00024" },
     ],
     relatedProducts: ["MLA29464859", "MLA53927506"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Cafetera italiana Volturno línea Ebano: aluminio con revestimiento antiadherente y terminación negra. 9 pocillos. Diseño y fácil limpieza; no apta para inducción.",
+    seoTitle: "Cafetera Volturno Ebano 9 Pocillos: para quién rinde",
+    metaDescription: "Volturno Ebano 9 pocillos: moka de aluminio negro para café de 4 a 6 personas en hornalla a gas o eléctrica. No va en inducción. Specs reales y para quién conviene.",
+    verdict: "Para una pareja o una familia chica que toma café a la mañana en hornalla a gas o eléctrica, la Volturno Ebano de 9 pocillos es la opción obvia: 540 cm³, aluminio con antiadherente, terminación negra y la marca que en Argentina es sinónimo de cafetera italiana (4.8 estrellas en sus opiniones). Si tenés anafe de inducción, no te sirve: es de aluminio y no calienta sobre inducción. Y si tomás un solo pocillo, te queda grande; ahí va la de 6 o 3.",
+    pros: [
+      "Aluminio con revestimiento antiadherente: se lava fácil y no se pega el café",
+      "540 cm³ (9 pocillos) alcanza para 4 a 6 tazas de una preparada",
+      "Volturno es la marca clásica argentina de cafetera italiana, con repuestos conseguibles",
+      "Terminación negra (línea Ebano) más prolija que el aluminio pelado",
+      "4.8 estrellas en las opiniones de la publicación",
+      "Liviana (unos 0,9 kg) y compacta: 28 cm de alto",
+    ],
+    cons: [
+      "No es apta para inducción: el cuerpo es de aluminio y solo funciona en hornalla a gas o eléctrica",
+      "9 pocillos es mucho si tomás un solo café por día: la moka rinde mejor llena",
+      "Como toda cafetera italiana, necesita fuego y unos minutos; no es apretar un botón como una eléctrica",
+      "El antiadherente del interior pide lavado a mano suave para que dure",
+    ],
+    articleBody: `## Qué es y para cuántos alcanza
+
+La Volturno Ebano de 9 pocillos es una cafetera italiana (moka o greca): la de toda la vida, la que va sobre la hornalla. "9 pocillos" son 540 cm³ de capacidad, o sea entre 4 y 6 tazas según cómo las sirvas. Es el tamaño del medio de la línea: arriba está la de 12 y abajo la de 6 y la de 3.
+
+Para una pareja o una familia chica que arranca el día con café, este tamaño es el punto justo. Si vivís solo y tomás un pocillo, mejor la de 6 o la de 3, porque la moka rinde mejor cuando se llena.
+
+## Qué es la línea Ebano
+
+Ebano es la versión negra de la cafetera de aluminio de Volturno. El material y el revestimiento antiadherente son los mismos que la clásica plateada: la diferencia es estética, la terminación negra. Si te gusta cómo queda en la cocina y no querés el aluminio pelado, esa es la razón para elegir la Ebano.
+
+## El material y por qué importa
+
+El cuerpo es de aluminio de primera calidad apto para uso alimentario, con revestimiento antiadherente por dentro. El antiadherente es lo que hace que el café no se pegue y que la limpieza sea rápida: se enjuaga y listo. La contra del antiadherente es que conviene lavarlo a mano con esponja suave, sin metales, para que el recubrimiento dure.
+
+Es liviana (alrededor de 0,9 kg) y mide unos 28 cm de alto, así que entra sin problema en cualquier alacena.
+
+## Lo que resignás
+
+Una cafetera italiana no es una eléctrica de cápsulas ni una de filtro automática. Va sobre la hornalla, hay que prestarle atención unos minutos y sacarla a tiempo. A cambio te da el café concentrado tipo espresso casero que la moka hace bien, sin enchufes ni cápsulas.
+
+Tampoco lleva temporizador ni apagado automático: el control lo ponés vos.
+
+## La contra real: inducción
+
+El punto a mirar antes de comprar: no es apta para inducción. El aluminio no funciona sobre anafes de inducción, que necesitan base ferromagnética. Si tu cocina es de inducción, esta cafetera no te va a calentar y tenés que ir a una de acero inoxidable apta para inducción. Sobre hornalla a gas o eléctrica común, anda perfecto.
+
+## Para quién sí y para quién no
+
+Sí: si cocinás con gas o anafe eléctrico, tomás café a la mañana de a dos o más, y querés la cafetera italiana clásica argentina con terminación negra y limpieza fácil.
+
+No: si tu cocina es de inducción, si tomás un solo pocillo por día (te queda grande), o si buscás apretar un botón y que el café salga solo. Para eso va una eléctrica.
+
+## Veredicto
+
+Es una compra segura dentro de lo que es: una moka de aluminio de una marca con historia y repuestos en el país, con 4.8 estrellas en sus opiniones. El único filtro de verdad es la inducción. Si tu hornalla es a gas o eléctrica, la Ebano de 9 te va a durar años; solo asegurate de que el tamaño de 9 pocillos sea el que realmente usás.`,
+    faq: [
+      {
+        question: "¿La cafetera Volturno Ebano sirve para inducción?",
+        answer: "No. El cuerpo es de aluminio y la inducción necesita base ferromagnética, así que no calienta sobre anafe de inducción. Funciona en hornalla a gas y en hornalla eléctrica común. Si tu cocina es de inducción, necesitás una cafetera de acero inoxidable apta para ese tipo de anafe.",
+      },
+      {
+        question: "¿Para cuántas personas alcanza la de 9 pocillos?",
+        answer: "Los 9 pocillos son 540 cm³, o sea entre 4 y 6 tazas de una preparada. Va bien para una pareja que toma más de un café o una familia chica. Si tomás un solo pocillo por día, conviene la de 6 o la de 3, porque la moka rinde mejor cuando se llena.",
+      },
+      {
+        question: "¿Qué diferencia hay entre la línea Ebano y la Volturno clásica?",
+        answer: "La diferencia es estética: Ebano es la versión negra y la clásica es el aluminio plateado. El material (aluminio de primera calidad) y el revestimiento antiadherente interno son los mismos en las dos. Elegís por color, no por calidad.",
+      },
+      {
+        question: "¿Es la misma cafetera italiana de siempre o es eléctrica?",
+        answer: "Es una cafetera italiana (moka o greca) de las que van sobre la hornalla, no es eléctrica ni de cápsulas. La ponés al fuego, esperás unos minutos y la sacás cuando sube el café. Da el café concentrado tipo espresso casero.",
+      },
+      {
+        question: "¿Conviene la Ebano de 9 o la de 6 pocillos?",
+        answer: "Depende de cuánto café tomes. La de 9 (540 cm³) es para 4 a 6 tazas; la de 6 es para uso diario de 1 a 3 personas. Si sos uno o dos que toman un café a la mañana, la de 6 te queda mejor; si son varios o tomás varias tazas, la de 9.",
+      },
+      {
+        question: "¿Cómo se limpia y cómo se cuida el antiadherente?",
+        answer: "El revestimiento antiadherente hace que el café no se pegue, así que se enjuaga rápido. Para que el recubrimiento dure, lavala a mano con esponja suave, sin elementos metálicos ni abrasivos. No hace falta detergente fuerte: con agua y enjuague alcanza la mayoría de las veces.",
+      },
+    ],
   },
   {
     id: "MLA53927506",
@@ -937,12 +3353,97 @@ export const curatedProducts: Product[] = [
       { label: "Material", value: "Aluminio con revestimiento antiadherente" },
       { label: "Color", value: "Negro" },
       { label: "Apta para inducción", value: "No (aluminio)" },
+      { label: "Capacidad", value: "360 cm3" },
+      { label: "SKU fabricante", value: "VF00023" },
+      { label: "Uso", value: "Hornalla a gas, eléctrica o vitrocerámica (no enchufa)" },
     ],
     relatedProducts: ["MLA29464859", "MLA53925844"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Cafetera italiana Volturno Ebano de aluminio, terminación negra. 6 pocillos, tamaño ideal para uso diario de 1 a 3 personas; no apta para inducción.",
+    seoTitle: "Cafetera Volturno Ebano 6 Pocillos: review honesta",
+    metaDescription: "Cafetera italiana Volturno Ebano de 6 pocillos: para quien toma café de hornalla en casa de 1 a 3 personas. Aluminio antiadherente, no va en inducción.",
+    verdict: "Para una a tres personas que toman café de hornalla todos los días, la Volturno Ebano de 6 pocillos es la opción clásica argentina: aluminio antiadherente, fácil de limpiar y sin electricidad de por medio. Si tenés anafe de inducción, no te sirve: el aluminio no funciona ahí. Y si esperabas una taza grande estilo cafetería, ojo: son 360 cm3 repartidos en pocillos chicos de espresso, no tazones.",
+    pros: [
+      "Café tipo espresso en la hornalla, sin enchufe ni filtros descartables",
+      "Aluminio con revestimiento antiadherente: se limpia con un enjuague",
+      "360 cm3 (6 pocillos): rinde bien para 1 a 3 personas",
+      "Volturno es marca argentina de toda la vida, repuestos fáciles de conseguir",
+      "Terminación negra ebano, prolija y discreta en la cocina",
+    ],
+    cons: [
+      "No apta para inducción: el cuerpo es de aluminio y ese tipo de anafe no la calienta",
+      "Los pocillos son medidas de espresso, no tazas grandes: 360 cm3 es café concentrado para 6 cafecitos chicos",
+      "El revestimiento antiadherente se gasta si la lavás con esponja de metal o lavavajillas",
+      "Es manual: hay que controlar el fuego y sacarla a tiempo o el café se quema",
+      "Rating 5 estrellas pero sobre solo 35 opiniones: muestra chica, tomalo con pinza",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+La Volturno Ebano de 6 pocillos es una cafetera italiana (moka o greca) de aluminio. Va arriba de la hornalla, no se enchufa. Cargás agua abajo, café molido en el filtro, prendés el fuego y en unos minutos sube el café por presión de vapor.
+
+Los 6 pocillos son 360 cm3 de capacidad total. Eso alcanza para 1 a 3 personas tomando café concentrado. Es el tamaño de uso diario de una casa chica o una pareja.
+
+## Cómo funciona y qué café hace
+
+Hace café tipo espresso: fuerte, concentrado, sin la dilución de una cafetera de filtro. No es café americano largo. Si te gusta el café cargado o lo cortás con leche, esta es la lógica correcta.
+
+No lleva filtros de papel ni cápsulas. El café molido va directo al embudo metálico. Eso baja el costo por taza y saca un residuo menos.
+
+## Materiales y terminación
+
+Es aluminio de primera calidad, apto para uso alimentario, con revestimiento antiadherente y terminación negra ebano. El fabricante (Volturno) confirma estos datos para el modelo de 360 cm3.
+
+El antiadherente ayuda en la limpieza: la mayoría de las veces alcanza un enjuague con agua. Lo importante es no usar esponja de metal ni meterla al lavavajillas, porque ahí el revestimiento se va gastando.
+
+## Lo que resignás
+
+Resignás compatibilidad con inducción. Al ser de aluminio, no funciona en anafes de inducción, que necesitan base ferromagnética. Va en hornalla a gas, eléctrica o vitrocerámica, no en inducción.
+
+También resignás automatismo. Es manual: vos controlás el fuego y la sacás cuando termina de subir. Si te distraés y la dejás de más, el café se pasa y queda amargo.
+
+## La contra real
+
+El tema de las medidas confunde seguido. Pocillo en cafetera italiana es taza de espresso, no taza grande. 360 cm3 dividido en 6 da cafecitos chicos. Si pensabas en seis mugs llenos, no es esto: es café concentrado para servir en tazas chicas o estirar con leche.
+
+Suma a eso que el rating es 5 estrellas pero sobre 35 opiniones. Es buena señal, pero es una muestra chica. No es lo mismo que un producto con miles de reseñas.
+
+## Para quién sí y para quién no
+
+Sí: si tomás café cargado en casa todos los días, son 1 a 3 personas, tenés hornalla a gas o eléctrica y querés algo simple, durable y de marca conocida.
+
+No: si tenés inducción, si buscás tazones grandes de café largo, o si querés algo automático que se apague solo. Para eso conviene otra cosa.`,
+    faq: [
+      {
+        question: "¿La Volturno Ebano de 6 pocillos sirve para inducción?",
+        answer: "No. Es de aluminio y los anafes de inducción necesitan base de material ferromagnético. Va en hornalla a gas, eléctrica o vitrocerámica, no en inducción.",
+      },
+      {
+        question: "¿Cuántas tazas salen de la de 6 pocillos?",
+        answer: "Son 360 cm3 de capacidad total. Pocillo en cafetera italiana es medida de espresso, así que da 6 cafecitos chicos concentrados, o sea para 1 a 3 personas. No son 6 tazas grandes.",
+      },
+      {
+        question: "¿Qué tipo de café hace?",
+        answer: "Café tipo espresso: fuerte y concentrado, sin filtro de papel ni cápsulas. Lo podés tomar solo o cortarlo con leche. No hace café americano largo.",
+      },
+      {
+        question: "¿Necesita electricidad o se enchufa?",
+        answer: "No se enchufa. Es una cafetera de hornalla: va arriba del fuego y sube el café por presión de vapor. Es manual, tenés que controlar el fuego.",
+      },
+      {
+        question: "¿Conviene la de 6 pocillos o la de 9?",
+        answer: "La de 6 (360 cm3) es para 1 a 3 personas y uso diario en casa chica o pareja. La de 9 (540 cm3) rinde más, conviene si toman café 3 o más o tenés visitas seguido. Si vivís solo o son dos, con la de 6 sobra.",
+      },
+      {
+        question: "¿Cómo se limpia sin arruinar el antiadherente?",
+        answer: "Con agua y la mano o una esponja suave, la mayoría de las veces alcanza un enjuague. No uses esponja de metal ni lavavajillas: el revestimiento antiadherente se gasta con eso.",
+      },
+      {
+        question: "¿Volturno es buena marca?",
+        answer: "Es una marca argentina clásica, casi sinónimo de cafetera italiana en el país. Eso facilita conseguir repuestos como gomas y filtros. Este modelo tiene 5 estrellas, aunque sobre una muestra chica de 35 opiniones.",
+      },
+    ],
   },
   // ─── Sillones masajeadores — importados via API oficial de ML (jun 2026) ───
   {
@@ -980,12 +3481,109 @@ export const curatedProducts: Product[] = [
       { label: "Calor", value: "Sí (terapia de calor)" },
       { label: "Conectividad", value: "Bluetooth con parlantes" },
       { label: "Potencia", value: "90 W" },
+      { label: "Medidas", value: "166 cm largo x 73 cm ancho x 105 cm alto" },
+      { label: "Peso del sillón", value: "65 kg" },
+      { label: "Soporta hasta", value: "120 kg" },
+      { label: "Alimentación", value: "220V - 50Hz" },
+      { label: "Intensidad de airbags", value: "Ajustable en 3 niveles" },
+      { label: "Reposapiés extensible", value: "Hasta 12 cm" },
+      { label: "Material", value: "Ecocuero gris oscuro" },
+      { label: "Garantía", value: "12 meses de fábrica" },
     ],
     relatedProducts: ["MLA44945188", "MLA67779238", "MLA60221167"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Sillón masajeador premium de cuerpo completo: riel L-track, 20 programas, 22 airbags, gravedad cero (reclina 180°), terapia de calor y parlantes Bluetooth. El más vendido del segmento.",
+    seoTitle: "Sillón Masajeador Gadnic Titanium: review honesta 2026",
+    metaDescription: "Gadnic Titanium L Shape: 20 programas, 22 airbags, zero gravity y calor. Para quién conviene este sillón de cuerpo completo y para quién no.",
+    verdict: "Para alguien que quiere un sillón de cuerpo completo en casa, con masaje de espalda a pies, calor, zero gravity y Bluetooth, sin saltar a las marcas de medio palo, el Gadnic Titanium cumple: 20 programas, 22 airbags y 4.7 estrellas en 155 opiniones. No es para vos si pesás más de 120 kg, medís bien alto o esperás un masaje de rodillos de gama alta tipo SL-track: este es formato L Shape, de 90 W, marca nacional de electro económico.",
+    pros: [
+      "Masaje de cuerpo completo real: cubre cuello, espalda, cola, pantorrillas y pies",
+      "22 bolsas de aire con intensidad ajustable en 3 niveles",
+      "Zero gravity: reclina hasta 180° para sacarle peso a la columna",
+      "Terapia de calor en la zona lumbar más Bluetooth con parlantes",
+      "4.7 estrellas en 155 opiniones, con respaldo de marca nacional (Gadnic) y garantía de 12 meses",
+      "Entra como el más completo de su rango de precio sin pagar lo de una marca importada",
+    ],
+    cons: [
+      "Soporta hasta 120 kg: si pesás más, no es para vos",
+      "Es formato L Shape, no un riel SL-track de gama alta: el recorrido del masaje es más básico que un sillón premium",
+      "90 W es potencia modesta para un full-body; la presión de los rodillos es contenida, no de spa",
+      "Ocupa mucho: 166 cm de largo reclinado y 65 kg de peso, cuesta moverlo una vez puesto",
+      "Es marca de electro nacional, no una firma especializada en masaje: gestioná expectativas de durabilidad a largo plazo",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Gadnic Titanium es un sillón masajeador de cuerpo completo. Te sentás, elegís un programa y trabaja de la cabeza a los pies: cuello, hombros, espalda, cola, pantorrillas y plantas. No es un cojín ni una silla de oficina con vibración. Es el mueble entero, formato L Shape, que se reclina hasta quedar casi acostado.
+
+Alcanza para uso doméstico diario de una persona que quiere descargar tensión después del laburo. Para eso está bien armado. No es equipo de fisioterapia ni reemplaza a un kinesiólogo.
+
+## Las funciones clave
+
+Trae 20 programas automáticos y modos manuales por zona. Podés dejar que haga la secuencia completa o pedirle que insista en cuello o lumbar.
+
+Suma 22 bolsas de aire que aprietan brazos, cadera y piernas, con intensidad ajustable en 3 niveles. El zero gravity reclina hasta 180°: te deja casi horizontal para que la columna no cargue tu propio peso. Tiene terapia de calor en la zona baja de la espalda y parlantes Bluetooth para enchufar el celular.
+
+El reposapiés se extiende 12 cm, así que las piernas más largas entran mejor que en un modelo fijo.
+
+## Lo que resignás
+
+Es formato L Shape, no un riel SL-track de los sillones premium. La diferencia: el recorrido de los rodillos es más simple y el seguimiento de la curva de la columna es menos fino que en un sillón de marca especializada.
+
+La potencia es 90 W. Para un full-body es modesta. La presión de los rodillos alcanza para aflojar, no para un amasado profundo tipo spa. Si venís de probar un sillón importado de gama alta, vas a notar la diferencia.
+
+## La contra real: tamaño y peso máximo
+
+Soporta hasta 120 kg de usuario. Es un límite firme: si pesás más, este no es tu sillón.
+
+Y ocupa. Mide 166 cm de largo cuando reclina, 73 de ancho y pesa 65 kg. Es un mueble pesado: pensá bien dónde lo ponés porque moverlo solo es complicado. Necesitás espacio libre atrás para que reclina sin chocar la pared.
+
+## Marca y respaldo
+
+Gadnic es una marca nacional de electro económico, no una firma especializada en equipos de masaje. Eso explica el precio: tenés cuerpo completo, calor y zero gravity sin pagar lo de una importada.
+
+La contracara es que la durabilidad a largo plazo de un sillón de este rango es una incógnita razonable. Viene con 12 meses de garantía de fábrica. Tiene 4.7 estrellas en 155 opiniones, que para el segmento es un respaldo sólido.
+
+## Para quién sí y para quién no
+
+Sí: querés masaje de cuerpo completo en casa, hasta 120 kg, y buscás el más equipado de su rango sin estirarte a una marca premium. Calor, airbags, zero gravity y Bluetooth, todo en uno.
+
+No: pesás más de 120 kg, tenés poco espacio, o esperás la presión y el recorrido de un sillón de gama alta. Para eso hay que poner bastante más plata.
+
+## Veredicto
+
+El Gadnic Titanium es la opción completa del rango medio: cubre todo el cuerpo, reclina a 180°, calienta y se conecta por Bluetooth, con buena reputación en ML. La pega es honesta: 90 W de potencia contenida, formato L Shape básico y tope de 120 kg. Si eso te cierra, es mucho sillón por lo que sale.`,
+    faq: [
+      {
+        question: "¿El Gadnic Titanium masajea todo el cuerpo o solo la espalda?",
+        answer: "Todo el cuerpo. El masaje recorre cuello, hombros, espalda, cola, pantorrillas y plantas de los pies, combinando rodillos con 22 bolsas de aire. No es un sillón que trabaje solo la espalda.",
+      },
+      {
+        question: "¿Cuánto peso soporta?",
+        answer: "Hasta 120 kg de usuario, según el fabricante. Es un límite firme: si pesás más, conviene buscar otro modelo con mayor capacidad.",
+      },
+      {
+        question: "¿Qué es la función zero gravity?",
+        answer: "Reclina el sillón hasta 180°, dejándote casi acostado con las piernas elevadas. En esa posición la columna no carga tu propio peso, así que el masaje se siente más relajante. Es de las funciones más valoradas del modelo.",
+      },
+      {
+        question: "¿Tiene terapia de calor?",
+        answer: "Sí, terapia de calor en la zona lumbar. Suma a la sensación de aflojar la zona baja de la espalda. También trae parlantes Bluetooth para conectar el celular.",
+      },
+      {
+        question: "¿Cuánto ocupa y cuánto pesa el sillón?",
+        answer: "Mide 166 cm de largo cuando reclina, 73 cm de ancho y 105 cm de alto. Pesa 65 kg. Dejá espacio libre detrás para que reclina sin chocar la pared, y pensá la ubicación antes de armarlo porque moverlo después es trabajoso.",
+      },
+      {
+        question: "¿Conviene el Gadnic Titanium o un sillón de marca premium?",
+        answer: "Depende del presupuesto. El Titanium es formato L Shape de 90 W: cumple para uso doméstico y descarga de tensión, pero la presión y el recorrido del masaje son más básicos que un riel SL-track de gama alta. Si querés masaje profundo tipo spa, hay que poner bastante más plata; si buscás el más completo de su rango, este rinde.",
+      },
+      {
+        question: "¿Es buena marca Gadnic para un sillón masajeador?",
+        answer: "Gadnic es una marca nacional de electro económico, no especializada en masaje. Eso explica que sea accesible para todo lo que trae. Viene con 12 meses de garantía y tiene 4.7 estrellas en 155 opiniones en MercadoLibre, un respaldo sólido para el segmento.",
+      },
+    ],
   },
   {
     id: "MLA60221167",
@@ -1018,12 +3616,103 @@ export const curatedProducts: Product[] = [
       { label: "Respaldo", value: "Reclinable" },
       { label: "Uso", value: "Escritorio, PC, oficina" },
       { label: "Material", value: "Cuero sintético" },
+      { label: "Medida del asiento", value: "50 x 62 cm" },
+      { label: "Alto del respaldo", value: "67 cm" },
+      { label: "Altura regulable", value: "Hasta 120 cm" },
+      { label: "Peso máximo soportado", value: "130 kg" },
+      { label: "Peso del producto", value: "14 kg" },
+      { label: "Estructura", value: "Acero con acabado cromado" },
+      { label: "Alimentación del masaje", value: "Cable USB" },
+      { label: "Reposabrazos", value: "Sí" },
+      { label: "Ruedas", value: "Sí" },
+      { label: "Color", value: "Negro" },
     ],
     relatedProducts: ["MLA32066541", "MLA67779238", "MLA44945188"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Silla ejecutiva de oficina con función de masaje por vibración en el respaldo. La opción más accesible para sumar masaje al escritorio, con la mayor base de opiniones del segmento.",
+    seoTitle: "Nictom SDO02: silla oficina con masaje USB, honesto",
+    metaDescription: "El Nictom SDO02 es una silla ejecutiva con vibración USB en el respaldo. Para quien quiere una silla cómoda con un plus de masaje suave, no terapia profunda.",
+    verdict: "Para quien pasa horas frente a la PC y quiere una silla ejecutiva cómoda con un extra de vibración suave en la espalda, el Nictom SDO02 cumple: cuero sintético, reclinable, soporta hasta 130 kg y tiene 4.6 estrellas en 243 opiniones. Si lo que buscás es masaje de verdad (rodillos, amasado, calor), no es para vos: el \"masaje\" es vibración liviana que se enchufa por USB.",
+    pros: [
+      "Es una silla de oficina completa: reclinable, con regulación de altura hasta 120 cm, reposabrazos y ruedas",
+      "Soporta hasta 130 kg con estructura de acero cromado",
+      "El masaje se alimenta por USB: lo conectás a la PC, a un cargador o a cualquier puerto, sin buscar enchufe",
+      "La opción más accesible para sumar vibración al escritorio, lejos de los sillones de rodillos que valen 5 o 6 veces más",
+      "4.6 estrellas en 243 opiniones, la base más grande de su segmento de precio",
+      "Cuero sintético negro, fácil de limpiar y de estética sobria para oficina",
+    ],
+    cons: [
+      "El masaje es vibración liviana alimentada por USB, no rodillos ni amasado: es un plus de relax, no terapia para contracturas",
+      "La vibración va solo en el respaldo (zona lumbar y espalda), no en asiento, piernas ni cuello",
+      "Cuero sintético: con uso intenso y calor se transpira más que una malla",
+      "Asiento de 50 x 62 cm: pensado para una persona de contextura estándar, no es un sillón ancho",
+      "El tope de peso es 130 kg, menos que sillas reforzadas que llegan a 150 kg o más",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Nictom SDO02 es, antes que nada, una silla de oficina ejecutiva. El "masajeador" es un extra: vibración en el respaldo que se activa enchufando un cable USB. Si tu día es sentarte ocho horas frente a la PC y querés algo más cómodo que la silla que tenés, con un plus de relax para la espalda, va bien. Si entrás buscando un sillón masajeador de verdad, este no es ese producto.
+
+La diferencia importa porque en MercadoLibre aparece junto a sillones de rodillos y calor que cuestan 5 o 6 veces más. El SDO02 juega en otra liga de precio y de función.
+
+## Las funciones clave
+
+Como silla, está bastante completa. Respaldo reclinable, regulación de altura hasta 120 cm, reposabrazos, ruedas y estructura de acero con acabado cromado. El asiento mide 50 x 62 cm y el respaldo 67 cm. Soporta hasta 130 kg y el producto pesa 14 kg.
+
+El masaje es vibración en la zona del respaldo. Lo práctico es cómo se alimenta: por USB. Lo conectás a la PC, a un cargador de celular o a cualquier puerto, sin depender de un enchufe libre cerca del escritorio.
+
+## Lo que resignás
+
+No esperes terapia. La vibración es liviana, pensada para aflojar un poco la espalda, no para deshacer una contractura. Tampoco hay rodillos, amasado, calor ni función en el asiento, las piernas o el cuello. Todo el efecto va en el respaldo.
+
+El tapizado es cuero sintético: prolijo y fácil de limpiar, pero transpira más que una malla cuando hace calor o pasás muchas horas seguidas.
+
+## La contra real
+
+Si tu problema son los dolores serios de espalda y comprás esperando alivio terapéutico, te vas a frustrar. El SDO02 es una buena silla con un agregado de vibración suave, no un dispositivo de masaje. Quien necesita rodillos, amasado y calor tiene que mirar los sillones masajeadores eléctricos, que arrancan bastante más arriba en precio.
+
+El otro límite es físico: asiento de contextura estándar y tope de 130 kg. Para una persona grande o que quiera una silla bien ancha y reforzada, conviene buscar otra cosa.
+
+## Para quién sí y para quién no
+
+Sí, si querés renovar la silla del escritorio por una ejecutiva, reclinable y cómoda, y te seduce el extra de vibración por USB sin gastar de más. Sí, si valorás una marca con respaldo y la base de opiniones más grande de su rango.
+
+No, si buscás masaje de verdad para tratar dolores. No, si pesás más de 130 kg o querés un asiento amplio. No, si te molesta el cuero sintético en climas calurosos.
+
+## Veredicto
+
+El Nictom SDO02 entrega lo que es: una silla de oficina decente con un toque de vibración. Por el precio, es la forma más barata de sumar masaje suave al escritorio, y las 4.6 estrellas en 243 opiniones respaldan que cumple como silla. La clave es comprarlo entendiendo que la palabra "masajeador" acá significa vibración liviana, no rodillos. Con esa expectativa clara, es una compra sensata.`,
+    faq: [
+      {
+        question: "¿El masaje del Nictom SDO02 es de rodillos o de vibración?",
+        answer: "Es de vibración en el respaldo, no de rodillos. Según el fabricante (Nictom), el efecto se concentra en la espalda y zona lumbar. Es un plus de relax suave, no un masaje terapéutico con amasado.",
+      },
+      {
+        question: "¿Cómo se enchufa o alimenta el masaje?",
+        answer: "Por USB. El cable se conecta a la PC, a un cargador de celular o a cualquier puerto USB. No depende de un enchufe de pared libre cerca del escritorio.",
+      },
+      {
+        question: "¿Cuánto peso soporta?",
+        answer: "Hasta 130 kg, con estructura de acero y acabado cromado, según las especificaciones de Nictom. El producto en sí pesa 14 kg.",
+      },
+      {
+        question: "¿Qué medidas tiene la silla?",
+        answer: "El asiento mide 50 x 62 cm, el respaldo 67 cm y la altura se regula hasta 120 cm. Es un tamaño para contextura estándar, no un sillón ancho.",
+      },
+      {
+        question: "¿Sirve para una persona con dolores serios de espalda?",
+        answer: "No como tratamiento. La vibración es liviana y ayuda a relajar, pero no reemplaza un masaje de rodillos ni un sillón masajeador terapéutico. Si el objetivo es tratar contracturas, conviene mirar otro tipo de producto.",
+      },
+      {
+        question: "¿Conviene este o un sillón masajeador de rodillos?",
+        answer: "Depende de qué busques. El SDO02 es una silla de oficina con vibración por un precio accesible. Los sillones de rodillos y calor dan masaje de verdad, pero cuestan 5 o 6 veces más y no son para trabajar al escritorio. Si querés silla para la PC con un extra, este. Si querés terapia, el otro.",
+      },
+      {
+        question: "¿De qué material es la tapizado?",
+        answer: "Cuero sintético negro sobre estructura de acero cromado. Es fácil de limpiar y de estética sobria, aunque transpira más que una silla de malla en climas calurosos.",
+      },
+    ],
   },
   {
     id: "MLA44945188",
@@ -1056,12 +3745,110 @@ export const curatedProducts: Product[] = [
       { label: "Calor", value: "Sí" },
       { label: "Conectividad", value: "Bluetooth" },
       { label: "Color", value: "Negro" },
+      { label: "Rodillos", value: "14 rodillos en la espalda" },
+      { label: "Calor", value: "Función de calefacción en la espalda" },
+      { label: "Airbags", value: "Presión de aire de hombros y cuello hasta manos y plantas, giro de cadera" },
+      { label: "Pies", value: "Reposapiés extensible con rodillo de masaje" },
+      { label: "Audio y control", value: "Parlante Bluetooth, control por tablet" },
+      { label: "Carga", value: "Cargadores USB y tipo C, iluminación LED" },
+      { label: "Dimensiones (normal)", value: "135 x 74 x 103 cm" },
+      { label: "Dimensiones (extendido)", value: "164 x 74 x 81 cm" },
+      { label: "Peso del sillón", value: "56 kg" },
     ],
     relatedProducts: ["MLA32066541", "MLA67779238", "MLA60221167"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Sillón masajeador con sistema de rodillos, terapia de calor y conectividad Bluetooth. Alternativa premium con el rating más alto entre los reclinables eléctricos.",
+    seoTitle: "Sillón Masajeador Melfit Maui: rodillos, calor y review",
+    metaDescription: "Sillón Melfit Maui: 14 rodillos en la espalda, calor, airbags y Bluetooth. Para quién conviene este reclinable de gama alta y para quién no. Review honesta.",
+    verdict: "Para quien quiere un masaje completo en casa todos los días y tiene el lugar y el presupuesto, el Melfit Maui cumple: 14 rodillos en la espalda, calor, airbags de hombro a pies y reposapiés con rodillo. Tiene 4.8 estrellas en 30 opiniones. Si tu departamento es chico o solo querés algo para la zona lumbar de vez en cuando, no es para vos: pesa 56 kg, mide 1,64 m estirado y está arriba del millón de pesos.",
+    pros: [
+      "14 rodillos en la espalda que recorren del cuello a la zona baja, no solo vibración",
+      "Calor en la espalda más airbags de presión desde hombros y cuello hasta manos y plantas de los pies",
+      "Reposapiés extensible con rodillo de masaje para los pies",
+      "Bluetooth para audio, control por tablet y cargadores USB y tipo C integrados",
+      "4.8 de promedio en MercadoLibre, el rating más alto de los reclinables masajeadores que seguimos",
+    ],
+    cons: [
+      "Es un mueble grande: 135 cm parado y 164 cm estirado, más 56 kg de peso. No es para espacios chicos",
+      "Precio de gama alta, arriba del millón de pesos: un masajeador de respaldo o una silla de oficina con vibración cuestan una fracción",
+      "Solo 30 opiniones: la base de reseñas es chica comparada con productos más masivos",
+      "La marca no publica potencia, garantía ni peso máximo de usuario en su página oficial; conviene confirmarlo con el vendedor antes de comprar",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Melfit Maui es un sillón reclinable con masaje de rodillos, calor y airbags. No es un accesorio que ponés sobre una silla: es un mueble completo que reemplaza a un sillón. Apunta a quien quiere un masaje de cuerpo entero en casa, todos los días, sin turno ni traslado.
+
+Si buscás algo puntual para la espalda baja después de la oficina, o tenés poco lugar, mirá un masajeador de respaldo o una silla de escritorio con vibración. Salen mucho menos y ocupan nada. El Maui es otra categoría.
+
+## Las funciones clave
+
+El corazón del sillón son los 14 rodillos en la espalda, que recorren del cuello hasta la zona baja. Eso es masaje mecánico de verdad, no solo la vibración que traen los modelos de entrada.
+
+A eso se le suma la función de calefacción en la espalda y la presión de aire por airbags, que trabaja desde hombros y cuello hasta las manos y las plantas de los pies. El reposapiés es extensible y trae rodillo de masaje para los pies, así que el masaje no termina en la cintura.
+
+En lo práctico: parlante Bluetooth para escuchar música, control por tablet, cargadores USB y tipo C en el sillón e iluminación LED. Los datos de specs salen de la página oficial de Melfit para este modelo exacto.
+
+## Lo que resignás por el tamaño
+
+Este sillón es grande y pesado. Mide 135 cm de largo en posición normal y se estira hasta 164 cm cuando lo reclinás del todo. Ancho 74 cm. Y pesa 56 kg.
+
+Eso significa dos cosas. Una: necesitás un lugar fijo donde dejarlo, porque moverlo no es algo que hagas a diario. Dos: cuando está estirado ocupa casi un metro sesenta y cinco, así que medí el espacio antes de comprar. En un monoambiente o un living chico, no entra cómodo.
+
+## La contra real
+
+Hay dos puntos honestos para tener en cuenta.
+
+El precio: está arriba del millón de pesos. Es de los productos más caros de la categoría de masajeadores. Por una fracción conseguís un masajeador de respaldo o una silla de oficina con vibración. No hacen lo mismo, pero si tu necesidad es chica, el Maui es mucho sillón.
+
+La información del fabricante: la página oficial de Melfit no publica la potencia en watts, ni la garantía, ni el peso máximo de usuario soportado para el Maui. Son datos que conviene confirmar con el vendedor antes de comprar, sobre todo el límite de peso y la garantía, que en un producto de este precio importan.
+
+## El respaldo de las opiniones
+
+El Maui tiene 4.8 estrellas de promedio en MercadoLibre. Es el rating más alto entre los reclinables masajeadores que seguimos en el sitio.
+
+El asterisco: son 30 opiniones. Es una base chica. Un promedio alto sobre pocas reseñas es buena señal, pero no tiene el peso estadístico de un producto con cientos o miles de calificaciones. Tomalo como un indicio positivo, no como una garantía.
+
+## Para quién sí y para quién no
+
+Sí, si querés un masaje de cuerpo entero en casa de forma habitual, tenés el espacio para un sillón de 1,64 m estirado y el presupuesto no es el problema. Los 14 rodillos, el calor y los airbags de pies a hombros justifican el formato sillón.
+
+No, si tu necesidad es puntual (zona lumbar, de vez en cuando), si vivís en un espacio chico, o si querés gastar lo mínimo. Para esos casos, un masajeador de respaldo o una silla de oficina con vibración resuelven por mucha menos plata.
+
+## Veredicto
+
+El Melfit Maui es un sillón masajeador completo y bien valorado, con masaje de rodillos real, calor y airbags de pies a hombros. La pega es de formato y plata: pesa 56 kg, ocupa casi 1,65 m estirado y cuesta más de un millón. Si tenés el lugar y querés el masaje diario, anda. Si dudás del espacio o del gasto, hay opciones más chicas y baratas que cubren lo básico.`,
+    faq: [
+      {
+        question: "¿El Melfit Maui usa rodillos o solo vibración?",
+        answer: "Usa rodillos. La marca declara un mecanismo de masaje de espalda de 14 rodillos que recorren del cuello a la zona baja, más airbags de presión de aire. Es masaje mecánico, no solo la vibración de los modelos de entrada.",
+      },
+      {
+        question: "¿Tiene calor y Bluetooth?",
+        answer: "Sí a las dos cosas. Trae función de calefacción en la espalda y parlante Bluetooth para audio. También suma control por tablet, cargadores USB y tipo C, e iluminación LED.",
+      },
+      {
+        question: "¿Hace masaje en los pies?",
+        answer: "Sí. El reposapiés es extensible y trae rodillo de masaje para los pies, además de la presión de aire que llega hasta las plantas. El masaje no termina en la cintura.",
+      },
+      {
+        question: "¿Cuánto mide y cuánto pesa? ¿Entra en un espacio chico?",
+        answer: "Mide 135 cm de largo en posición normal y se estira hasta 164 cm reclinado, con 74 cm de ancho. Pesa 56 kg. Es un sillón grande: para un monoambiente o un living chico conviene medir el espacio antes de comprar.",
+      },
+      {
+        question: "¿Qué garantía y qué peso máximo de usuario soporta?",
+        answer: "La página oficial de Melfit no publica la garantía ni el peso máximo de usuario para el Maui. Son datos que conviene confirmar con el vendedor antes de comprar, sobre todo en un producto de este precio.",
+      },
+      {
+        question: "¿Conviene el Maui o un masajeador de respaldo más barato?",
+        answer: "Depende de la necesidad. El Maui es un sillón completo para masaje de cuerpo entero a diario, y cuesta más de un millón. Si solo querés algo puntual para la espalda baja, un masajeador de respaldo o una silla de oficina con vibración cuestan una fracción y ocupan mucho menos.",
+      },
+      {
+        question: "¿Cuántas opiniones tiene y qué calificación?",
+        answer: "Tiene 4.8 estrellas de promedio en MercadoLibre sobre 30 opiniones. Es el rating más alto de los reclinables masajeadores que seguimos, aunque la base de reseñas todavía es chica.",
+      },
+    ],
   },
   {
     id: "MLA67779238",
@@ -1092,12 +3879,103 @@ export const curatedProducts: Product[] = [
       { label: "Reclinación", value: "Manual" },
       { label: "Masaje", value: "Vibración" },
       { label: "Color", value: "Negro" },
+      { label: "Mecanismo de reclinación", value: "Manual (sin motor)" },
+      { label: "Tipo de masaje", value: "Vibración" },
+      { label: "Peso aproximado", value: "35 kg" },
+      { label: "Colores de la línea", value: "Negro, beige, gris y chocolate" },
     ],
     relatedProducts: ["MLA32066541", "MLA44945188", "MLA60221167"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Sillón reclinable con masaje por vibración y reclinación manual. La entrada más accesible al formato sillón masajeador, con el rating más alto del grupo (4.9).",
+    seoTitle: "Sillón Majestic Excalibur Manual: la entrada al masaje",
+    metaDescription: "Reseña honesta del Sillón Masajeador Majestic Excalibur Manual: reclinación manual y masaje por vibración. Para quién conviene el más barato de la línea y para quién no.",
+    verdict: "Si querés un sillón reclinable con masaje por vibración sin gastar lo que sale uno eléctrico, el Excalibur Manual es la puerta de entrada más barata de la línea: 995.000 pesos, 4.9 estrellas en 33 opiniones y envío gratis. Si esperás que se reclinte solo, que te eleve las piernas o el masaje tipo amasado de los sillones caros, no es para vos: la reclinación la hacés vos con el cuerpo y el masaje es vibración, nada más.",
+    pros: [
+      "Es la versión más accesible de la línea Excalibur: arranca cerca de 995.000 pesos contra 1.4 a 1.8 millones de los eléctricos",
+      "4.9 estrellas en 33 opiniones, el rating más alto entre los sillones masajeadores que tenemos",
+      "Reclinación manual: menos motores significa menos cosas que se rompan con el tiempo",
+      "Masaje por vibración para aflojar la espalda después del día",
+      "Es liviano para su tipo (cerca de 35 kg), bastante menos que los 46 kg de las versiones eléctricas",
+      "Envío gratis",
+    ],
+    cons: [
+      "La reclinación es manual: lo bajás empujando con el cuerpo, no hay motor ni botón",
+      "El masaje es por vibración, no el de rodillos que amasa la espalda como los sillones de gama alta",
+      "No trae autoelevación ni elevación de piernas: si te cuesta levantarte, mirá las versiones autoelevables",
+      "Sin calor lumbar ni control remoto confirmados en esta versión manual: esas funciones son de los modelos eléctricos",
+      "Solo 33 opiniones: base de reseñas chica para un producto de casi un millón de pesos",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Majestic Excalibur Manual es la versión más barata de una familia de sillones masajeadores. La palabra clave es "manual": vos reclinás el respaldo empujando con el cuerpo, como un reclinable de toda la vida, y el sillón le suma masaje por vibración.
+
+Sale alrededor de 995.000 pesos. Las versiones eléctrica y autoelevable de la misma línea Excalibur cuestan entre 1.4 y 1.8 millones. O sea: estás pagando por el formato sillón masajeador sin pagar los motores de reclinación.
+
+Tiene 4.9 estrellas en 33 opiniones, el rating más alto entre los sillones que tenemos. Buena señal, pero son pocas opiniones para un producto de este precio.
+
+## El masaje es por vibración, no amasado
+
+Acá conviene aclarar algo antes de comprar. Cuando la gente imagina un "sillón masajeador" piensa en rodillos que recorren la espalda y amasan los músculos. Este no hace eso.
+
+El Excalibur Manual masajea por vibración: motores que vibran sobre algunas zonas para aflojar tensión. Sirve para relajar la espalda después del día, pero no reemplaza un masaje de verdad ni el sistema de rodillos de los sillones de gama alta.
+
+Si lo que buscás es el amasado profundo, este no es el sillón.
+
+## La reclinación la hacés vos
+
+"Manual" también define cómo se reclina. No hay botón ni motor: empujás con la espalda y las piernas y el respaldo baja. Para volver, lo subís vos.
+
+Tiene su lado bueno. Menos motores es menos cosas que se rompen con los años, y por eso pesa cerca de 35 kg contra los 46 kg de las versiones eléctricas. Es más simple y más liviano.
+
+El lado malo es obvio: si te cuesta moverte o levantarte, este mecanismo te va a costar.
+
+## Lo que resignás contra los modelos eléctricos
+
+La línea Excalibur tiene hermanos más caros con cosas que este no trae. Los modelos eléctricos suman reclinación a motor, calor lumbar, control remoto y, en las versiones autoelevables, un mecanismo que te empuja para arriba para ayudarte a pararte.
+
+Nada de eso está en la versión manual. No es un defecto del producto: es que estás comprando el escalón de entrada. Pero si alguna de esas funciones te importa, vas a tener que sumar entre 400.000 y 800.000 pesos por el modelo eléctrico o autoelevable.
+
+## Para quién sí y para quién no
+
+Sí: para alguien que quiere un sillón cómodo, reclinable, con un plus de masaje por vibración, y no quiere gastar más de un millón. Para quien valora la simpleza y no le molesta reclinarlo a pulso.
+
+No: para alguien grande, con problemas de movilidad o que necesite ayuda para levantarse; ahí va la versión autoelevable. Tampoco para quien quiere el masaje de rodillos serio o que el sillón se maneje solo con control remoto.
+
+## Veredicto
+
+El Excalibur Manual es honesto en lo que es: el sillón masajeador más barato de su línea, con reclinación a pulso y masaje por vibración. Si entendés esas dos limitaciones y te alcanzan, es una compra sensata con buen rating. Si esperabas algo más automático o un masaje más profundo, gastá la diferencia y andá por el eléctrico.`,
+    faq: [
+      {
+        question: "¿El Sillón Majestic Excalibur Manual se reclina solo?",
+        answer: "No. La versión Manual no tiene motor de reclinación: el respaldo lo bajás empujando con el cuerpo y lo subís vos. Si querés reclinación a botón, necesitás la versión eléctrica de la misma línea.",
+      },
+      {
+        question: "¿Qué tipo de masaje hace?",
+        answer: "Masaje por vibración. No es el sistema de rodillos que amasa la espalda; son motores que vibran para aflojar tensión. Sirve para relajar, no para un masaje profundo.",
+      },
+      {
+        question: "¿Cuál es la diferencia con el Excalibur eléctrico o autoelevable?",
+        answer: "Los modelos eléctrico y autoelevable suman reclinación a motor, calor lumbar, control remoto y, en el autoelevable, un mecanismo que te ayuda a pararte. La versión Manual no trae nada de eso, pero sale entre 400.000 y 800.000 pesos menos.",
+      },
+      {
+        question: "¿Tiene calor lumbar y control remoto?",
+        answer: "Esas funciones están confirmadas en los modelos eléctricos, no en la versión Manual. Si el calor o el control remoto son importantes para vos, mirá los modelos eléctricos de la línea.",
+      },
+      {
+        question: "¿Sirve para una persona con problemas de movilidad?",
+        answer: "No es lo ideal. Como la reclinación es manual y no tiene autoelevación, a alguien que le cuesta levantarse le va a complicar. Para ese caso conviene la versión autoelevable, que empuja hacia arriba para ayudar a pararse.",
+      },
+      {
+        question: "¿Cuánto pesa el sillón?",
+        answer: "Alrededor de 35 kg, bastante menos que las versiones eléctricas de la misma línea, que pesan cerca de 46 kg por los motores.",
+      },
+      {
+        question: "¿Vale la pena por casi un millón de pesos?",
+        answer: "Si querés el formato sillón masajeador sin pagar los motores eléctricos, sí: es la entrada más barata de la línea, con 4.9 estrellas en 33 opiniones. Tené en cuenta que son pocas opiniones y que el masaje es solo vibración.",
+      },
+    ],
   },
   // ─── Perfumes Lattafa Khamrah — importados via API oficial de ML (jun 2026) ───
   {
@@ -1148,12 +4026,98 @@ export const curatedProducts: Product[] = [
       { label: "Familia", value: "Ámbar gourmand especiado" },
       { label: "Temporada", value: "Otoño e invierno" },
       { label: "Origen", value: "Emiratos Árabes Unidos" },
+      { label: "Familia olfativa (fabricante)", value: "Aromática especiada" },
+      { label: "Notas de salida", value: "Bergamota, canela, nuez moscada" },
+      { label: "Notas de corazón", value: "Dátil, praliné, muguete, nardo" },
+      { label: "Notas de fondo", value: "Vainilla, haba tonka, mirra, akigalawood, maderas ambaradas" },
+      { label: "Año de lanzamiento", value: "2022" },
     ],
     relatedProducts: ["MLA31178643"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Khamrah de Lattafa, el gourmand árabe dulce y especiado más vendido del invierno: canela, dátil y vainilla con mucha duración y proyección. La base de opiniones más grande del nicho (más de 4.300 calificaciones).",
+    seoTitle: "Lattafa Khamrah EDP 100ml: el gourmand de invierno",
+    metaDescription: "Khamrah de Lattafa es un EDP dulce, especiado y con mucha duración. Para quien busca un perfume de invierno potente y barato. Por qué en verano no va.",
+    verdict: "Si buscás un perfume de invierno dulce y especiado, con mucha duración y proyección, y no querés gastar lo de un nicho, el Khamrah cumple: canela, dátil y vainilla, 4.8 estrellas en más de 4.300 opiniones. Si tu ambiente es de calor, oficina cerrada o te empalagan los dulces, no es para vos: proyecta fuerte y es claramente para clima frío.",
+    pros: [
+      "Mucha duración: 8 a 12 horas en piel y bastante más en la ropa, según varias reseñas independientes",
+      "Proyección alta las primeras horas: se nota al entrar a un ambiente sin tener que reaplicar",
+      "Perfil claro de gourmand especiado: canela, dátil, praliné y vainilla, fácil de entender y de usar",
+      "Unisex real: lo usan tanto hombres como mujeres, no es un perfume marcadamente femenino ni masculino",
+      "La base de opiniones más grande del nicho: 4.8 estrellas en más de 4.300 calificaciones",
+      "Frasco de 100 ml: rinde meses aunque lo uses seguido",
+    ],
+    cons: [
+      "Es un perfume de clima frío: en verano o en ambientes calurosos la mezcla dulce y especiada empalaga",
+      "Proyecta fuerte las primeras horas: para una oficina cerrada o una reunión puede ser demasiado, conviene aplicar poco",
+      "Es muy dulce: si no te gustan los gourmand de vainilla y praliné, te va a cansar",
+      "No es un olor original: se lo compara seguido con Angels Share de Kilian y con Kayali Vanilla 28, así que es una alternativa, no un perfume único",
+      "Lattafa es marca de Emiratos: el frasco y el atomizador son correctos para el precio, no esperes terminación de nicho caro",
+    ],
+    articleBody: `## Para quién es y para quién no
+
+El Khamrah de Lattafa es para quien quiere un perfume de invierno dulce, especiado y con mucha duración, sin pagar lo que sale un nicho. Es un Eau de Parfum (EDP) de 100 ml, unisex, de la familia que el propio fabricante define como aromática especiada. Si te gustan los olores cálidos a canela, dátil y vainilla, y lo vas a usar de noche o en días fríos, va a cumplir.
+
+No es para vos si vivís en clima caluroso, si lo querés para la oficina o si te empalagan los perfumes dulces. Proyecta fuerte y es claramente para frío. En verano la mezcla pesa.
+
+## Cómo huele
+
+La pirámide que publica Lattafa: arriba bergamota, canela y nuez moscada; en el corazón dátil, praliné, muguete y nardo; en la base vainilla, haba tonka, mirra, akigalawood y maderas ambaradas.
+
+En la práctica es un gourmand especiado: abre con la canela y la nuez moscada, después aparece el dátil y el praliné, y termina en una base dulce de vainilla y haba tonka. Es cálido y goloso de principio a fin.
+
+## La duración y la proyección
+
+Acá es donde rinde. Varias reseñas independientes coinciden en 8 a 12 horas de duración en piel, y bastante más en la ropa (hay quien lo siente al día siguiente en una bufanda).
+
+La proyección es alta las primeras horas: llena un ambiente sin que tengas que reaplicar. Después baja a algo más pegado a la piel. Para un perfume de este precio, el rendimiento es lo que más destacan.
+
+## Lo que resignás
+
+No es un olor original. Se lo compara seguido con Angels Share de Kilian (un nicho que sale muchísimo más) y con Kayali Vanilla 28. Es una alternativa accesible a esos perfiles, no una creación única. Si lo que buscás es un olor que nadie más tenga, este no es.
+
+Tampoco esperes terminación de lujo. Lattafa es una marca de Emiratos Árabes que hace perfumes buenos a precio bajo: el frasco y el atomizador están bien para lo que cuesta, no para competir con la presentación de un nicho caro.
+
+## La contra real: no es para todo el año
+
+El defecto más concreto es que es estacional. Es un perfume de otoño e invierno. En verano o en un ambiente con calor, la mezcla dulce y especiada se vuelve pesada y empalaga. Si vivís en una zona calurosa la mayor parte del año, lo vas a poder usar pocos meses.
+
+Y la proyección fuerte de las primeras horas, que es una ventaja de noche, en una oficina cerrada o una reunión puede molestar. La solución es simple: aplicá menos. Con uno o dos toques alcanza.
+
+## Veredicto
+
+Khamrah es uno de los gourmand árabes más vendidos por una razón: dura, proyecta y huele rico, todo a un precio que no se acerca a un nicho. Con 4.8 estrellas en más de 4.300 opiniones, es de los más respaldados del nicho. Es una buena primera compra si querés entrar a los perfumes dulces y especiados de invierno. Si buscás algo fresco, de oficina o para usar todo el año, mirá otra cosa.`,
+    faq: [
+      {
+        question: "¿El Lattafa Khamrah es unisex?",
+        answer: "Sí. El fabricante lo define como unisex y en la práctica lo usan tanto hombres como mujeres. Es un gourmand especiado dulce, no marcadamente femenino ni masculino.",
+      },
+      {
+        question: "¿Cuánto dura el Khamrah en la piel?",
+        answer: "Entre 8 y 12 horas en piel según varias reseñas independientes, y bastante más en la ropa. Es uno de los puntos fuertes del perfume.",
+      },
+      {
+        question: "¿Sirve para verano o solo para invierno?",
+        answer: "Es un perfume de otoño e invierno. En verano o con calor la mezcla dulce y especiada empalaga. Si lo vas a usar en clima caluroso, conviene aplicar muy poco o elegir otro.",
+      },
+      {
+        question: "¿Qué concentración tiene, EDP o EDT?",
+        answer: "Es Eau de Parfum (EDP), la concentración más alta de las habituales. Eso explica la duración y la proyección que tiene.",
+      },
+      {
+        question: "¿A qué se parece el Khamrah?",
+        answer: "Se lo compara seguido con Angels Share de Kilian y con Kayali Vanilla 28, dos perfumes bastante más caros. Es una alternativa accesible a esos perfiles dulces y especiados, no una copia exacta.",
+      },
+      {
+        question: "¿Es muy fuerte para la oficina?",
+        answer: "Las primeras horas proyecta fuerte, así que en una oficina cerrada o una reunión puede ser demasiado. Con uno o dos toques se controla. Para uso de día discreto conviene aplicar poco.",
+      },
+      {
+        question: "¿Qué tamaño viene y rinde?",
+        answer: "Viene en frasco de 100 ml. Para uso diario rinde varios meses, y como dura mucho no necesitás reaplicar durante el día.",
+      },
+    ],
   },
   // ─── Calefacción (silo climatizacion) — importados via API ML (jun 2026) ───
   // Afiliado: links meli.la propios de Juan (ya swapeados). STAGED: la guía estufas-electricas
@@ -1188,12 +4152,100 @@ export const curatedProducts: Product[] = [
       { label: "Posiciones", value: "Dos (vertical y horizontal)" },
       { label: "Garantía", value: "2 años" },
       { label: "Ideal para", value: "El más vendido y económico" },
+      { label: "Potencia máxima", value: "2000W" },
+      { label: "Niveles de potencia", value: "Dos" },
+      { label: "Modelo", value: "CV03" },
+      { label: "Funciones", value: "Termostato, apagado por sobrecalentamiento, modo ventilación" },
+      { label: "Origen", value: "Fabricación argentina" },
     ],
     relatedProducts: ["MLA34782966", "MLA21233017"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Caloventor Exahome Único con termostato: el más vendido del país (más de 6.200 calificaciones) y de los más baratos, con dos posiciones y 2 años de garantía.",
+    seoTitle: "Caloventor Exahome con Termostato: barato y el más vendido",
+    metaDescription: "El caloventor más vendido y barato de Argentina, con termostato y 2000W. Para ambientes chicos. Si buscás calentar una casa entera, mirá por qué no te alcanza.",
+    verdict: "Si querés gastar poco y calentar rápido un ambiente chico (un baño, un escritorio, un dormitorio), el Exahome Único cumple: 2000W, termostato, dos potencias y 2 años de garantía por menos de 30 mil pesos. Tiene 4.3 estrellas en más de 6.200 calificaciones, la base de opiniones más grande del rubro. Si querés calentar un living grande, dejarlo prendido toda la noche o no te banca el ruido del ventilador, no es para vos: es un caloventor de plástico, básico y consume bastante.",
+    pros: [
+      "Es de los más baratos del rubro: menos de 30 mil pesos",
+      "2000W con dos niveles de potencia, calienta rápido un ambiente chico",
+      "Termostato que corta solo al llegar a la temperatura y vuelve a prender",
+      "Apagado automático por sobrecalentamiento",
+      "2 años de garantía y fabricación nacional (Exahome, modelo CV03)",
+      "La base de opiniones más grande del rubro: 4.3 en más de 6.200 calificaciones",
+    ],
+    cons: [
+      "Es un caloventor: calienta el aire mientras está prendido, no acumula calor; apagás y se enfría enseguida",
+      "2000W consume bastante, no conviene dejarlo prendido horas ni de noche",
+      "Gabinete de plástico, producto básico, no es para uso intensivo todo el día",
+      "El ventilador hace ruido, no es ideal para dormir al lado",
+      "Sirve para ambientes chicos a medianos; un living grande le queda grande",
+    ],
+    articleBody: `## Para quién es (y para quién no)
+
+Este caloventor es para el que quiere gastar poco y calentar rápido un ambiente chico. Un baño antes de bañarte, un escritorio, un dormitorio. Es el más vendido del país y de los más baratos: menos de 30 mil pesos.
+
+No es para calentar un living grande ni una casa entera. Tampoco para dejarlo prendido toda la noche: es un caloventor, consume y no acumula calor. Si buscás eso, mirá un panel o una estufa de cuarzo.
+
+## Qué es y para qué alcanza
+
+Es un caloventor con termostato: un ventilador que sopla aire sobre una resistencia caliente. Tira calor al instante, pero solo mientras está prendido. Apagás y el ambiente se enfría enseguida.
+
+Tiene 2000W de potencia máxima con dos niveles, así que para un cuarto de 10 a 15 metros lo levantás rápido. Para más que eso, te queda corto.
+
+## Las funciones clave
+
+El termostato es lo que lo diferencia de los más básicos: regulás la temperatura, el aparato corta solo cuando la alcanza y vuelve a prender cuando baja. Eso ayuda a no recalentar el ambiente ni gastar de más.
+
+Trae apagado automático por sobrecalentamiento, una protección de seguridad estándar pero que en los más baratos a veces falta. Es modelo CV03 de Exahome, fabricación nacional, con 2 años de garantía.
+
+## Lo que resignás
+
+Resignás potencia de calefacción real. 2000W está bien para un ambiente chico, pero un caloventor calienta el aire, no las paredes ni los objetos. El calor no dura: es para tenerlo prendido mientras estás en la pieza.
+
+También resignás materiales y robustez. Es un producto de plástico, básico, pensado para un precio bajo. Cumple, pero no es para uso intensivo todo el día.
+
+## La contra real
+
+El consumo. 2000W es bastante: tenerlo prendido varias horas se nota en la boleta de luz. Por eso un caloventor conviene para ratos cortos y ambientes chicos, no como calefacción de fondo.
+
+Y hace ruido: es un ventilador. Para calentar el baño cinco minutos no molesta, pero al lado de la cama para dormir puede incomodar.
+
+## Veredicto
+
+Por lo que sale, hace lo que promete: calienta rápido un ambiente chico, tiene termostato, dos potencias y 2 años de garantía. Las más de 6.200 calificaciones con 4.3 estrellas lo respaldan como la opción barata y segura del rubro.
+
+La regla es simple: ambiente chico y ratos cortos, sí. Casa entera o toda la noche, no.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el caloventor Exahome?",
+        answer: "2000W de potencia máxima, con dos niveles para regular. Alcanza para calentar rápido un ambiente chico a mediano.",
+      },
+      {
+        question: "¿Tiene termostato de verdad?",
+        answer: "Sí. El termostato corta el aparato cuando el ambiente llega a la temperatura que elegiste y lo vuelve a prender cuando baja. Es lo que lo separa de los caloventores más básicos.",
+      },
+      {
+        question: "¿Sirve para calentar un living grande?",
+        answer: "No. Con 2000W rinde en ambientes chicos a medianos (un dormitorio, un baño, un escritorio). Para un living grande o una casa entera te va a quedar corto.",
+      },
+      {
+        question: "¿Se puede dejar prendido toda la noche?",
+        answer: "No conviene. Es un caloventor de 2000W: consume bastante y calienta solo el aire mientras está encendido. Sirve para ratos cortos, no como calefacción de fondo. Trae apagado automático por sobrecalentamiento como protección.",
+      },
+      {
+        question: "¿Qué garantía tiene y es nacional?",
+        answer: "Tiene 2 años de garantía y es de fabricación argentina. Es el modelo CV03 de la marca Exahome.",
+      },
+      {
+        question: "¿Hace ruido?",
+        answer: "Sí, lo normal de un ventilador. Para calentar un baño o una pieza un rato no molesta, pero al lado de la cama para dormir puede incomodar.",
+      },
+      {
+        question: "¿Conviene este o un caloventor Liliana?",
+        answer: "El Exahome es más barato y es el más vendido. Los Liliana (Heatcolor, Heatcyclone) cuestan más y suelen ofrecer mejor terminación y opciones. Si priorizás precio, el Exahome; si querés una marca con más recorrido y mejores materiales, mirá los Liliana.",
+      },
+    ],
   },
   {
     id: "MLA34782966",
@@ -1221,12 +4273,103 @@ export const curatedProducts: Product[] = [
       { label: "Marca", value: "Liliana" },
       { label: "Calor", value: "Aire caliente forzado, calienta rápido" },
       { label: "Ideal para", value: "Ambientes chicos a medianos" },
+      { label: "Potencia", value: "1000 / 2000 W (dos niveles)" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Termostato", value: "Temperatura regulable" },
+      { label: "Posiciones", value: "Doble: horizontal y vertical" },
+      { label: "Dimensiones", value: "25 x 25,1 x 12 cm (compacto)" },
+      { label: "Seguridad", value: "Corte por sobrecalentamiento" },
+      { label: "Indicador", value: "Luminoso de funcionamiento" },
+      { label: "Garantía", value: "2 años" },
     ],
     relatedProducts: ["MLA36753510", "MLA68346857"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Caloventor Liliana Heatcolor: aire caliente forzado para calentar rápido un ambiente chico. El más vendido del segmento, con más de 1.500 calificaciones.",
+    seoTitle: "Caloventor Liliana Heatcolor CFH501R: review honesta",
+    metaDescription: "Caloventor Liliana CFH501R: 2000W, dos posiciones y termostato para ambientes chicos. Para quién sí y para quién no, con specs reales y la contra.",
+    verdict: "Para calentar rápido un ambiente chico (dormitorio, baño, escritorio) el Liliana Heatcolor CFH501R cumple: 2000W en el nivel alto, termostato regulable, dos posiciones y marca con service en el país, con 4.6 estrellas en más de 1.500 opiniones. Si querés calefaccionar un living grande, dejarlo prendido horas o que no haga ruido, no es para vos: el caloventor reseca el aire, mete ruido de turbina y 2000W no alcanzan para ambientes grandes.",
+    pros: [
+      "Calienta rápido: en un ambiente chico sentís el cambio en minutos",
+      "Dos niveles de potencia (1000 y 2000W) para regular calor y consumo",
+      "Termostato regulable: corta solo al llegar a la temperatura y no queda a full todo el tiempo",
+      "Compacto (25 x 25 x 12 cm) y de doble posición: lo apoyás o guardás sin que ocupe",
+      "Marca argentina con service local y 2 años de garantía",
+      "4.6 estrellas en más de 1.500 opiniones, el más vendido del segmento",
+    ],
+    cons: [
+      "2000W es el techo: alcanza para ambientes chicos a medianos, no para un living grande ni espacios abiertos",
+      "Es caloventor: reseca el aire y no conviene dejarlo prendido toda la noche en un cuarto cerrado",
+      "Mete ruido de turbina, no es silencioso como un panel o un caño de aceite",
+      "No oscila ni reparte el calor: calienta hacia donde apunta",
+      "El nivel alto consume bastante (2000W); usarlo seguido se nota en la factura",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Liliana Heatcolor CFH501R es un caloventor: un termoventilador que tira aire caliente forzado con una turbina. Su gracia es la velocidad. En un ambiente chico (un dormitorio, un baño, un escritorio) sentís el cambio de temperatura en minutos, no en media hora.
+
+El techo es 2000W. Eso te da para ambientes chicos a medianos. Para un living grande, un local o un espacio abierto se queda corto: vas a sentir calor cerca del aparato pero el ambiente no levanta.
+
+## Las funciones que sí tiene
+
+Trae dos niveles de potencia, 1000 y 2000W. El de 1000W sirve para mantener temperatura sin gastar de más; el de 2000W para levantar rápido un cuarto frío.
+
+Tiene termostato regulable. Ponés la temperatura, el aparato corta solo cuando la alcanza y vuelve a arrancar cuando baja. No queda a full todo el tiempo, lo que ayuda con el consumo.
+
+Es de doble posición (horizontal y vertical) y compacto: 25 x 25,1 x 12 cm. Lo apoyás en cualquier lado o lo guardás sin que ocupe. Trae indicador luminoso de funcionamiento y corte de seguridad por sobrecalentamiento.
+
+## Lo que resignás
+
+No oscila. Calienta hacia donde lo apuntás, así que el calor no se reparte parejo por el ambiente. Si te corrés del chorro de aire, lo notás.
+
+Tampoco es silencioso. La turbina mete ruido constante, distinto a un panel eléctrico o un caño de aceite que calientan callados. Para dormir, a algunos les molesta.
+
+## La contra real
+
+Es un caloventor, y los caloventores resecan el aire. Si lo dejás prendido toda la noche en un cuarto cerrado, te levantás con la garganta seca. No es un defecto del modelo: es cómo funciona la tecnología. Por eso conviene para ráfagas de calor (entrás al baño, calentás el cuarto antes de dormir) más que para tenerlo horas.
+
+El otro punto es el consumo. 2000W es bastante. Usarlo seguido en el nivel alto se siente en la factura de luz. El termostato ayuda, pero no hace magia.
+
+## Para quién sí y para quién no
+
+Te sirve si querés calor inmediato en un espacio chico: un dormitorio, un baño antes de bañarte, un escritorio donde estás trabajando. También si querés algo barato, compacto y de marca con service local.
+
+No te sirve si tu objetivo es calefaccionar un ambiente grande, dejarlo prendido muchas horas o si te molesta el ruido. Para esos casos conviene un caño de aceite (más lento pero parejo y silencioso) o un equipo de mayor potencia.
+
+## Veredicto
+
+El CFH501R hace bien lo que un caloventor tiene que hacer: calentar rápido y poco espacio, barato. Con 4.6 estrellas en más de 1.500 opiniones, la marca respalda. Si lo comprás entendiendo que es para ambientes chicos y ráfagas de calor, no para calefaccionar una casa entera, no te vas a arrepentir.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el Liliana Heatcolor CFH501R?",
+        answer: "Tiene dos niveles: 1000W y 2000W. Funciona a 220V. El nivel de 2000W es para levantar rápido la temperatura de un ambiente chico; el de 1000W para mantener sin gastar tanto.",
+      },
+      {
+        question: "¿Para qué tamaño de ambiente sirve?",
+        answer: "Para ambientes chicos a medianos: un dormitorio, un baño, un escritorio. Con 2000W de techo no alcanza para un living grande ni un espacio abierto.",
+      },
+      {
+        question: "¿Tiene termostato?",
+        answer: "Sí, temperatura regulable. Cuando llega a la temperatura que pusiste corta solo y vuelve a encender cuando baja, lo que ayuda a no gastar de más.",
+      },
+      {
+        question: "¿Es seguro dejarlo prendido toda la noche?",
+        answer: "Tiene corte de seguridad por sobrecalentamiento, pero al ser caloventor reseca el aire. Conviene usarlo en ráfagas (calentar el cuarto antes de dormir) más que dejarlo prendido horas en un ambiente cerrado.",
+      },
+      {
+        question: "¿Hace mucho ruido?",
+        answer: "Sí, tiene ruido de turbina constante porque sopla aire caliente. No es silencioso como un caño de aceite o un panel eléctrico. Para dormir, a algunos les molesta.",
+      },
+      {
+        question: "¿Conviene este o un caño de aceite?",
+        answer: "El caloventor calienta más rápido y es más barato, pero reseca el aire y hace ruido. El caño de aceite es más lento pero reparte calor parejo, es silencioso y no reseca. Para calor inmediato en espacio chico, el caloventor; para tener prendido muchas horas, el de aceite.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "Liliana ofrece 2 años de garantía. Es marca argentina con service en el país, algo a favor frente a genéricos sin respaldo.",
+      },
+    ],
   },
   {
     id: "MLA21233017",
@@ -1256,12 +4399,100 @@ export const curatedProducts: Product[] = [
       { label: "Marca", value: "Liliana" },
       { label: "Calor", value: "Aire caliente forzado, varios niveles" },
       { label: "Ideal para", value: "Ambientes medianos" },
+      { label: "Potencia", value: "1200 / 2400 W (dos niveles: eco y turbo)" },
+      { label: "Termostato", value: "Regulable, con corte automático" },
+      { label: "Cabezal", value: "Reclinable para dirigir el aire" },
+      { label: "Seguridad", value: "Corte por sobrecalentamiento; no consume oxígeno" },
+      { label: "Estructura", value: "Metal reforzado" },
+      { label: "Medidas", value: "23 ancho x 27 alto x 17 prof. (cm)" },
+      { label: "Garantía", value: "24 meses del fabricante" },
     ],
     relatedProducts: ["MLA34782966", "MLA19540674"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Caloventor Liliana Heatcyclone: aire caliente forzado para ambientes medianos, con buena base de opiniones (975 calificaciones).",
+    seoTitle: "Liliana CFI700 Heatcyclone: caloventor 2400W, ¿conviene?",
+    metaDescription: "Caloventor Liliana Heatcyclone CFI700 de 1200/2400W: calienta rápido un ambiente mediano. Para quién sí y para quién no, con specs y contras reales.",
+    verdict: "Para calentar rápido un dormitorio o un ambiente mediano que usás un rato, el Liliana Heatcyclone CFI700 cumple: 2400W en turbo, termostato, cabezal reclinable y 4.3 estrellas en 975 opiniones. Si lo querés para tener prendido todo el día o calentar un ambiente grande, no es para vos: el caloventor consume mucho y reseca el aire.",
+    pros: [
+      "Dos niveles de potencia: 1200W (eco) y 2400W (turbo) para calentar rápido",
+      "Termostato regulable que corta y prende solo para mantener la temperatura",
+      "Cabezal reclinable: dirigís el aire caliente hacia donde estás",
+      "Corte de seguridad por sobrecalentamiento y estructura de metal reforzado",
+      "No consume oxígeno y trae 24 meses de garantía del fabricante",
+      "Base sólida de opiniones: 4.3 estrellas en 975 calificaciones",
+    ],
+    cons: [
+      "Es un caloventor: a 2400W chupa mucha luz si lo tenés prendido seguido",
+      "Reseca el aire del ambiente, típico de este tipo de calefactor",
+      "Hace ruido de turbina; no es para dormir con el sueño liviano",
+      "Calienta mientras está prendido: apagás y el ambiente se enfría rápido",
+      "Rinde en ambiente mediano, no en uno grande ni con techos altos",
+    ],
+    articleBody: `## Para quién es y para quién no
+
+Es para quien quiere subir la temperatura de un ambiente mediano en pocos minutos: un dormitorio, un escritorio, un baño antes de bañarte. Lo prendés, calienta, y cuando el ambiente está a punto lo bajás o lo apagás.
+
+No es para quien busca calefaccionar todo el día. El caloventor calienta fuerte pero consume mucho, y apenas lo apagás el calor se va. Si querés calor parejo y constante en un living grande, mirá otra cosa.
+
+## Qué es y para qué alcanza
+
+El Heatcyclone CFI700 es un caloventor (termoventilador): una resistencia que calienta el aire y un turbo que lo empuja al ambiente. Tiene dos niveles: 1200W para mantener y 2400W para calentar rápido.
+
+Con 2400W levanta rápido la temperatura de un ambiente chico a mediano. En un ambiente grande o con techos altos se queda corto: el calor se diluye y nunca termina de cerrar.
+
+## Las funciones que importan
+
+El termostato regulable es lo más útil: lográs la temperatura que querés y el aparato corta y prende solo para mantenerla, en vez de estar a full todo el tiempo. Eso baja el consumo respecto de tenerlo siempre en turbo.
+
+El cabezal reclinable te deja apuntar el aire caliente hacia donde estás sentado, así no calentás el techo al pedo. Trae corte de seguridad por sobrecalentamiento y estructura de metal reforzado.
+
+## Lo que resignás
+
+Es un caloventor, con lo bueno y lo malo del formato. Lo bueno: barato y calienta al toque. Lo malo: consume mucho a 2400W y reseca el aire del ambiente.
+
+También hace ruido. Es una turbina moviendo aire, así que zumba. Para el día a día no molesta, pero si tenés el sueño liviano no es ideal para dejarlo prendido toda la noche al lado de la cama.
+
+## La contra real
+
+El consumo. A 2400W, tenerlo prendido horas se nota en la factura de luz. La forma de usarlo bien es a tirones: lo prendés en turbo para calentar, y después lo dejás en eco o lo apagás. Si tu plan es tenerlo a full todo el invierno, un calefactor de otro tipo te va a salir más barato de mantener.
+
+Sumá que el calor no queda: apagás y en minutos el ambiente vuelve a enfriarse, porque no hay nada que acumule temperatura como en una estufa de aceite.
+
+## Veredicto
+
+Por el precio, para calentar rápido un ambiente mediano un rato, el CFI700 hace el trabajo: 2400W, termostato, cabezal reclinable y 4.3 estrellas en 975 opiniones lo respaldan. Compralo si querés calor instantáneo y por tramos. Si buscás tener calefacción prendida todo el día o calentar un espacio grande, no es la herramienta.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el Liliana CFI700 Heatcyclone?",
+        answer: "Tiene dos niveles: 1200W en modo eco y 2400W en turbo. Usás los 2400W para calentar rápido y bajás a 1200W para mantener la temperatura.",
+      },
+      {
+        question: "¿Para qué tamaño de ambiente sirve?",
+        answer: "Rinde bien en ambientes chicos a medianos, tipo dormitorio o escritorio. En un living grande o con techos altos se queda corto: el calor se diluye.",
+      },
+      {
+        question: "¿Tiene termostato?",
+        answer: "Sí, termostato regulable. Una vez que el ambiente llega a la temperatura que pusiste, corta y prende solo para mantenerla, lo que ayuda a no tenerlo siempre a full.",
+      },
+      {
+        question: "¿Consume mucha luz?",
+        answer: "A 2400W consume bastante si lo tenés prendido seguido. Conviene usarlo a tirones: prenderlo para calentar y después dejarlo en eco o apagarlo, en vez de mantenerlo a full todo el día.",
+      },
+      {
+        question: "¿Hace ruido?",
+        answer: "Sí, es una turbina moviendo aire, así que zumba. Para el día no molesta, pero si tenés el sueño liviano puede incomodar de noche al lado de la cama.",
+      },
+      {
+        question: "¿Reseca el aire?",
+        answer: "Sí, como todo caloventor reseca el ambiente. Es la pega del formato. Si te molesta la garganta o la nariz seca, ventilá cada tanto o sumá un humidificador.",
+      },
+      {
+        question: "¿Conviene el Heatcyclone o el Blacksun de Liliana?",
+        answer: "El Heatcyclone CFI700 llega a 2400W y apunta a ambientes medianos. El Blacksun es la opción más económica de la marca para ambientes chicos. Si el espacio es chico y querés gastar menos, el Blacksun; si necesitás más potencia, el Heatcyclone.",
+      },
+    ],
   },
   {
     id: "MLA19540674",
@@ -1290,12 +4521,105 @@ export const curatedProducts: Product[] = [
       { label: "Marca", value: "Liliana" },
       { label: "Calor", value: "Aire caliente forzado" },
       { label: "Ideal para", value: "Ambientes chicos, opción económica" },
+      { label: "Potencia", value: "1200 / 2400 W (dos niveles)" },
+      { label: "Termostato", value: "Regulable, con corte y reenganche automático" },
+      { label: "Seguridad", value: "Corte por sobrecalentamiento; no consume oxígeno" },
+      { label: "Modo verano", value: "Función ventilación (sin calor)" },
+      { label: "Peso", value: "Aprox. 1,2 kg, con manija de traslado" },
+      { label: "Garantía", value: "2 años (oficial Liliana)" },
     ],
     relatedProducts: ["MLA34782966", "MLA21233017"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Caloventor Liliana Blacksun: la opción económica de la marca para ambientes chicos, con 433 calificaciones.",
+    seoTitle: "Caloventor Liliana Blacksun CFH450: ¿conviene?",
+    metaDescription: "Caloventor Liliana Blacksun CFH450, 1200/2400W para ambientes chicos. Specs reales, contras y para quién conviene la opción económica de la marca.",
+    verdict: "Si querés calor instantáneo y barato para un ambiente chico (un dormitorio, un baño, un escritorio) y no te molesta el ruido del forzador, el Blacksun CFH450 cumple: 2400W de aire caliente, termostato y corte de seguridad, por menos plata que el resto de la línea Liliana. Si buscás calentar un living grande, te molesta que el aire se reseque o querés algo silencioso para dormir, no es para vos: es un caloventor de plástico, ruidoso, y con 4.2 estrellas es el peor calificado de los Liliana que tenemos.",
+    pros: [
+      "Dos niveles de calor: 1200 y 2400W, calienta un ambiente chico en minutos",
+      "Termostato regulable que corta y reengancha solo para mantener la temperatura",
+      "Corte de seguridad por sobrecalentamiento y no consume oxígeno: se puede usar en ambiente cerrado",
+      "Liviano (poco más de 1 kg) y con manija: lo movés de cuarto sin drama",
+      "Modo ventilación para usarlo también en verano",
+      "La opción más barata de la línea Liliana de caloventores",
+    ],
+    cons: [
+      "4.2 estrellas en 433 opiniones: es el peor calificado de los caloventores Liliana que tenemos (el Heatcolor tiene 4.6)",
+      "Como todo caloventor, reseca el aire y mete ruido de turbina: no es para dormir al lado",
+      "A 2400W consume mucha luz si lo dejás prendido horas; sirve para calor puntual, no para calefaccionar todo el día",
+      "Solo rinde en ambientes chicos: un living o un cuarto grande le queda grande",
+      "Carcasa de plástico y control manual a perilla, sin display ni programación",
+    ],
+    articleBody: `## Para quién es (y para quién no)
+
+El Blacksun CFH450 es para calentar rápido y barato un ambiente chico: un dormitorio, un baño antes de bañarte, un escritorio donde laburás. Lo prendés y en minutos tirás aire caliente. Es la opción más económica de la línea de caloventores de Liliana.
+
+No es para calefaccionar un living grande ni para dejarlo prendido todo el día. Tampoco para dormir al lado: hace ruido de turbina y reseca el aire. Si eso te molesta, mirá una estufa de cuarzo o halógena, que dan calor radiante sin ventilador.
+
+## Qué es y cuánto calienta
+
+Es un caloventor (termoventilador): una resistencia eléctrica con un ventilador que sopla el aire caliente al ambiente. Por eso calienta más rápido que una estufa radiante, pero apenas lo apagás el calor se va igual de rápido.
+
+Tiene dos niveles: 1200W y 2400W. En el máximo levanta la temperatura de un ambiente chico en pocos minutos. Para un ambiente mediano va a costarle, y un ambiente grande directamente le queda grande.
+
+## Las funciones que sí trae
+
+Termostato regulable: ponés la perilla y el aparato corta solo cuando llega a temperatura y reengancha cuando baja. Eso evita que recaliente el cuarto y ayuda algo con el consumo.
+
+Trae corte de seguridad por sobrecalentamiento (si se tapa o recalienta, se apaga) y no consume oxígeno, así que lo podés usar en un ambiente cerrado. Suma modo ventilación para usarlo como ventilador en verano, manija para moverlo y pesa poco más de un kilo.
+
+## Lo que resignás por el precio
+
+Es plástico y control manual a perilla: nada de display, temporizador ni programación. No oscila, así que el calor va para donde apunta el aparato; si te corrés, lo sentís menos.
+
+Y consume. A 2400W, dejarlo prendido horas se nota en la boleta de luz. Un caloventor es para dar un golpe de calor puntual, no para tener prendido todo el día como calefacción central.
+
+## La contra real
+
+Dos cosas que son de todos los caloventores y este no escapa: reseca el aire y hace ruido. El forzador mete un zumbido constante que para muchos es incómodo de noche, y después de un rato el ambiente queda con el aire seco.
+
+A los datos: tiene 4.2 estrellas en 433 opiniones. Es una calificación decente, pero es la más baja de los caloventores Liliana que seguimos. El Heatcolor CFH501R, por ejemplo, tiene 4.6 en más de 1.500 opiniones por una plata parecida. Si vas por marca y rating, ese le gana.
+
+## Caloventor o estufa: cuál te conviene
+
+Si lo que querés es calor inmediato para entrar en calor rápido en un cuarto chico, el caloventor es lo tuyo y este cumple. Si querés calor sostenido, parejo y silencioso, un caloventor no es el formato: ahí conviene una estufa de cuarzo o un calefactor de otro tipo.
+
+Dentro de Liliana, el Blacksun es el más barato. El Heatcolor está apenas arriba en precio pero mejor calificado, y el Heatcyclone CFI700 apunta a ambientes medianos por bastante más plata.
+
+## Veredicto
+
+El Blacksun CFH450 hace lo que promete: calor rápido y barato para un ambiente chico, con termostato y seguridad básica. Es honestamente la opción de entrada. Si te alcanza con eso y el ruido no te molesta, está bien. Pero si podés estirar un poco el presupuesto, el Heatcolor de la misma marca tiene mejor rating por casi lo mismo.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el Caloventor Liliana Blacksun CFH450?",
+        answer: "Tiene dos niveles de potencia: 1200W y 2400W. En el máximo calienta un ambiente chico en pocos minutos. Tené en cuenta que a 2400W consume bastante si lo dejás prendido muchas horas.",
+      },
+      {
+        question: "¿Para qué tamaño de ambiente sirve?",
+        answer: "Rinde bien en ambientes chicos: un dormitorio, un baño, un escritorio. Para un ambiente mediano le cuesta y un living grande le queda grande. Es un caloventor de calor puntual, no de calefacción central.",
+      },
+      {
+        question: "¿Tiene termostato?",
+        answer: "Sí, trae termostato regulable: corta solo cuando el ambiente llega a temperatura y reengancha cuando baja. Es control manual a perilla, sin display ni programación digital.",
+      },
+      {
+        question: "¿Se puede usar en un ambiente cerrado?",
+        answer: "Sí. No consume oxígeno y tiene corte de seguridad por sobrecalentamiento, así que se puede usar en un cuarto cerrado. Lo que sí, como todo caloventor, reseca el aire si lo dejás mucho rato.",
+      },
+      {
+        question: "¿Hace ruido?",
+        answer: "Sí. El forzador (ventilador) mete un zumbido constante mientras está prendido. Para muchos es molesto para dormir al lado. Si buscás algo silencioso, un caloventor no es el formato: mirá una estufa de cuarzo o halógena.",
+      },
+      {
+        question: "¿Conviene el Blacksun o el Heatcolor de Liliana?",
+        answer: "El Blacksun CFH450 es el más barato de la línea. El Heatcolor CFH501R cuesta apenas un poco más pero tiene mejor calificación: 4.6 estrellas en más de 1.500 opiniones contra 4.2 en 433 del Blacksun. Si podés estirar la diferencia, el Heatcolor es la apuesta más segura.",
+      },
+      {
+        question: "¿Tiene modo ventilador para el verano?",
+        answer: "Sí, trae modo ventilación: lo usás como ventilador en días cálidos, sin calor. Sumado a la manija y al poco peso (poco más de 1 kg), lo movés de ambiente sin problema.",
+      },
+    ],
   },
   {
     id: "MLA36753510",
@@ -1323,12 +4647,103 @@ export const curatedProducts: Product[] = [
       { label: "Potencia", value: "600 / 1200 W (dos niveles)" },
       { label: "Calor", value: "Radiante directo, sin secar el aire" },
       { label: "Ideal para", value: "Calor puntual y económico" },
+      { label: "Marca y modelo", value: "Whitenblack WBCHWB02 (horizontal)" },
+      { label: "Origen", value: "Industria Argentina" },
+      { label: "Garantía", value: "1 año oficial" },
+      { label: "Instalación", value: "Piso o pared (soporte con ángulo regulable incluido)" },
+      { label: "Protección", value: "Frente mallado + pantalla metálica interior" },
+      { label: "Regulación", value: "Dos niveles fijos (600 / 1200 W), sin termostato" },
     ],
     relatedProducts: ["MLA34782966", "MLA68346857"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Estufa de cuarzo horizontal de dos niveles (600/1200 W): calor radiante directo y barato. La entrada más económica a la calefacción eléctrica.",
+    seoTitle: "Estufa Cuarzo Horizontal 600/1200W Whitenblack: análisis",
+    metaDescription: "Estufa de cuarzo horizontal Whitenblack de 600/1200 W: calor radiante directo y barato para una persona o un ambiente chico. Para quién sí y para quién no.",
+    verdict: "Para una persona que quiere calor directo y barato en un ambiente chico (escritorio, baño, cuarto), esta estufa de cuarzo de 600/1200 W cumple: calienta al instante, va en el piso o colgada en la pared y es la entrada más económica a la calefacción eléctrica (4,2 estrellas en 163 opiniones). Si querés calentar un living grande de forma pareja o tenerla prendida horas, no es para vos: el calor de cuarzo es puntual, no llena el ambiente, y a 1200 W chupa luz.",
+    pros: [
+      "Calor radiante instantáneo: apenas la prendés ya sentís el calor de frente, sin esperar a que se caliente el aire",
+      "Dos niveles, 600 y 1200 W: suave para acompañar o a full cuando hace más frío",
+      "Va en el piso o colgada en la pared, con soporte de ángulo regulable incluido",
+      "Industria Argentina con un año de garantía oficial, no es una importada sin respaldo",
+      "Entrada barata a la calefacción eléctrica: arranca en torno a los 26.000 pesos",
+      "Liviana y fácil de mover de un ambiente a otro",
+    ],
+    cons: [
+      "El calor de cuarzo es direccional: calienta lo que tiene en frente, no llena un ambiente de forma pareja",
+      "A 1200 W consume bastante luz; tenerla prendida muchas horas se nota en la boleta",
+      "La resistencia de cuarzo es frágil: un golpe o una caída fuerte la puede partir",
+      "No tiene termostato: no regula sola la temperatura, solo elegís entre 600 o 1200 W",
+      "Pensada para ambientes chicos; en un living grande queda corta",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+Es una estufa eléctrica de cuarzo horizontal de dos niveles, 600 y 1200 W, de la marca argentina Whitenblack (modelo WBCHWB02). Calienta por radiación: la resistencia de cuarzo se pone al rojo y tira calor infrarrojo directo, parecido al del sol. Vos lo sentís de frente al instante, sin esperar a que se caliente el aire del ambiente.
+
+Está pensada para calor puntual en espacios chicos: un escritorio, un baño, un cuarto, el rincón donde estás sentado. No es una estufa para climatizar toda la casa.
+
+## Cómo funciona el calor de cuarzo
+
+A diferencia de un caloventor, que mueve aire caliente, la estufa de cuarzo calienta los objetos y a las personas que tiene enfrente. Por eso el calor es inmediato y bien dirigido, pero también puntual: lo que está en el cono de la estufa se calienta, lo que está atrás o a un costado, no.
+
+Tiene dos intensidades. En 600 W la usás para acompañar o sacar el frío; en 1200 W va a full. Como no seca el aire, es más amable que un caloventor para estar al lado un rato largo.
+
+## Lo práctico: piso o pared
+
+Viene con soporte para fijarla a la pared con ángulo regulable, así que la podés colgar y apuntarla hacia donde estás. O la dejás en el piso si preferís moverla de un ambiente a otro. Es liviana, así que cambiarla de lugar no es problema. El frente mallado y la pantalla metálica interior cubren la resistencia.
+
+## Lo que resignás
+
+No tiene termostato. Elegís 600 o 1200 W y listo: no regula sola la temperatura ni se apaga cuando el ambiente llega a una temperatura. Si querés que mantenga un clima estable sin estar pendiente, este no es el equipo.
+
+Tampoco mueve aire, así que el calor no se reparte. Es para sentarte cerca, no para entrar a una habitación fría y que esté toda templada.
+
+## La contra real
+
+Dos cosas a tener claras antes de comprar. Primero, el consumo: a 1200 W es una estufa que pide luz, y tenerla prendida horas todos los días se siente en la boleta. Para ratos cortos y dirigidos rinde; como calefacción de fondo todo el día, sale cara.
+
+Segundo, la fragilidad: la resistencia de cuarzo se puede partir con un golpe o una caída fuerte. Es parte de cómo son estas estufas, no un defecto de esta en particular. Si la vas a mover seguido o hay chicos cerca, tratala con cuidado. Esto se refleja en el rating: 4,2 estrellas en 163 opiniones, sólido pero no de las mejores puntuadas de la categoría.
+
+## Para quién sí y para quién no
+
+Sí, si querés calor directo y barato para vos en un ambiente chico, te alcanza con calentar el rincón donde estás y querés la opción más económica para arrancar. La versatilidad piso/pared y que sea industria argentina con garantía suman.
+
+No, si buscás calentar un living grande de forma pareja, querés un termostato que regule solo, o vas a tenerla prendida muchas horas seguidas. En esos casos un calefactor que mueva aire o un equipo con termostato te va a servir más, aunque arranques pagando un poco más.
+
+## Veredicto
+
+Cumple lo que promete: calor instantáneo y dirigido por poca plata. Es la entrada más económica a la calefacción eléctrica y para uso puntual en espacios chicos rinde. Las dos contras a tener en cuenta son el consumo a 1200 W y que el calor no llena el ambiente. Si eso encaja con cómo la vas a usar, es una compra honesta.`,
+    faq: [
+      {
+        question: "¿Sirve para calentar una habitación grande?",
+        answer: "No es lo suyo. El calor de cuarzo es radiante y direccional: calienta lo que tiene enfrente, no reparte el calor de forma pareja por todo el ambiente. Está pensada para espacios chicos y calor puntual; en un living grande queda corta.",
+      },
+      {
+        question: "¿Cuánto consume una estufa de cuarzo de 1200 W?",
+        answer: "En su nivel máximo consume 1200 W, que es un consumo alto. Una hora a full equivale a 1,2 kWh. Si la usás en 600 W o por ratos cortos rinde; tenerla prendida muchas horas todos los días se nota en la boleta de luz.",
+      },
+      {
+        question: "¿Se puede colgar en la pared?",
+        answer: "Sí. Viene con soporte para fijarla a la pared con ángulo regulable, así la apuntás hacia donde estás. También la podés usar apoyada en el piso, lo que prefieras.",
+      },
+      {
+        question: "¿Tiene termostato?",
+        answer: "No. Solo elegís entre dos niveles de potencia, 600 o 1200 W. No regula sola la temperatura ni se apaga cuando el ambiente se calienta; vos decidís el nivel.",
+      },
+      {
+        question: "¿Qué diferencia hay entre estufa de cuarzo y caloventor?",
+        answer: "El caloventor mueve aire caliente y reparte mejor el calor en el ambiente, pero es más ruidoso y reseca el aire. La estufa de cuarzo da calor radiante directo e instantáneo a lo que tiene enfrente, sin secar el aire, pero más puntual. Para calentarte a vos en un rincón, cuarzo; para templar todo el cuarto, caloventor.",
+      },
+      {
+        question: "¿Es segura? ¿Se apaga si se cae?",
+        answer: "Tiene frente mallado y pantalla metálica interior que protegen la resistencia. La resistencia de cuarzo igual se calienta mucho y puede quemar al tocarla, así que cuidado con chicos y mascotas. Como toda estufa de cuarzo, la resistencia es frágil ante golpes o caídas.",
+      },
+      {
+        question: "¿De qué marca es y tiene garantía?",
+        answer: "Es de la marca Whitenblack, industria argentina, modelo horizontal de 600/1200 W. Trae un año de garantía oficial, así que no es una importada genérica sin respaldo.",
+      },
+    ],
   },
   {
     id: "MLA68346857",
@@ -1361,6 +4776,90 @@ export const curatedProducts: Product[] = [
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Estufa halógena Winco W173: calor infrarrojo direccional e instantáneo, ideal para calentar a una persona apenas la prendés. Bajo costo de entrada.",
+    seoTitle: "Estufa Halógena Winco W173: para quién sirve (y para quién no)",
+    metaDescription: "La Winco W173 calienta a una persona al instante con calor infrarrojo. Barata y silenciosa, pero no calienta el ambiente. Para quién conviene y para quién no.",
+    verdict: "Si querés calor inmediato y barato para una persona sentada cerca (el escritorio, el sillón, el baño antes de bañarte), la Winco W173 cumple: calor infrarrojo que se siente apenas la prendés, sin ruido y a 32.000 pesos. Si buscás calentar una habitación entera o que el calor quede después de apagarla, no es para vos: la halógena calienta lo que tiene enfrente, no el aire del cuarto.",
+    pros: [
+      "Calor instantáneo: se siente apenas la prendés, sin esperar a que precaliente",
+      "Calor infrarrojo direccional: apunta a la persona, no desperdicia calentando todo el aire",
+      "Silenciosa: no tiene turbina ni ventilador como un caloventor",
+      "Entrada barata a la calefacción eléctrica, 32.000 pesos",
+      "4.7 estrellas en 71 opiniones, con envío gratis",
+    ],
+    cons: [
+      "No calienta el ambiente: tibia a quien está enfrente, no sube la temperatura del cuarto",
+      "El calor desaparece al apagarla, no queda inercia como un caño de aceite",
+      "Los tubos halógenos son frágiles y se gastan con el uso; es repuesto, no es para toda la vida",
+      "Hay que estar cerca y de frente: si te corrés del haz, dejás de sentir el calor",
+      "La luz naranja fuerte molesta de noche para algunos",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+La Winco W173 es una estufa halógena: calienta por radiación infrarroja, igual que el sol cuando te da en la piel. No mueve aire ni calienta el cuarto. Calienta lo que tiene enfrente.
+
+Eso define para qué sirve. Para una persona sentada cerca (escritorio, sillón, el baño justo antes de meterte a la ducha) anda muy bien. Para calentar una habitación entera, no.
+
+Es la entrada más barata a la calefacción eléctrica: 32.000 pesos, con envío gratis y 4.7 estrellas en 71 opiniones.
+
+## Cómo calienta una halógena
+
+La diferencia con un caloventor es el tipo de calor. El caloventor sopla aire caliente con un ventilador; hace ruido y reparte el calor por el cuarto. La halógena no sopla nada: emite calor radiante que viaja en línea recta hasta vos.
+
+Por eso el calor es instantáneo. No hay que esperar que precaliente: la prendés y en segundos lo sentís. Y por eso es silenciosa, no tiene turbina.
+
+La contra de ese mismo diseño: si te corrés del haz, dejás de sentir el calor. Tenés que estar cerca y de frente.
+
+## Lo que resignás
+
+No calienta el ambiente. Esto es lo más importante y donde más gente se decepciona. La halógena tibia a quien está enfrente; no sube la temperatura del aire del cuarto. Si esperás entrar a una pieza y que esté caldeada, esta no es la herramienta.
+
+Tampoco queda inercia. Apenas la apagás, el calor se corta. Un caño de aceite sigue largando calor un rato después; la halógena no.
+
+## La contra real
+
+Los tubos halógenos son frágiles y se gastan. Es la naturaleza de la tecnología: el filamento tiene vida útil y el tubo se puede romper de un golpe. Tratala como un repuesto, no como algo para toda la vida.
+
+A precio de 32.000 pesos es esperable: estás pagando calor barato e inmediato, no durabilidad de electrodoméstico premium.
+
+## Para quién sí y para quién no
+
+Sí: si querés calor puntual y barato para una persona, sin ruido, y te alcanza con calentarte vos mientras trabajás, leés o te vestís.
+
+No: si buscás calentar una habitación, querés que el calor dure después de apagar, o vas a usarla muchas horas todos los días todo el invierno. Para eso conviene un caño de aceite o un caloventor de ambiente.
+
+## Veredicto
+
+Para calor inmediato y barato a una persona, la Winco W173 cumple y cuesta poco. Sabiendo que calienta lo que tiene enfrente y no el cuarto, es una buena compra. Si esperás más que eso, vas a quedar a medias.`,
+    faq: [
+      {
+        question: "¿La estufa halógena Winco W173 calienta un ambiente entero?",
+        answer: "No. La halógena calienta por radiación infrarroja: tibia a quien está enfrente, no sube la temperatura del aire del cuarto. Para calentar una habitación conviene un caño de aceite o un caloventor de ambiente.",
+      },
+      {
+        question: "¿Cuánto tarda en calentar?",
+        answer: "Es instantánea. No precalienta como un caño de aceite: la prendés y en segundos sentís el calor radiante. Esa inmediatez es su mayor ventaja.",
+      },
+      {
+        question: "¿Hace ruido?",
+        answer: "No. A diferencia del caloventor, no tiene ventilador ni turbina, así que es silenciosa. Solo emite calor radiante.",
+      },
+      {
+        question: "¿Conviene una halógena o un caloventor?",
+        answer: "Depende. La halógena da calor instantáneo y silencioso a una persona que está cerca y de frente. El caloventor reparte calor por el cuarto pero hace ruido. Para calentarte vos en el escritorio, la halógena; para tibiar una pieza, el caloventor.",
+      },
+      {
+        question: "¿Sirve para el baño?",
+        answer: "Sí, es uno de sus mejores usos: la prendés un rato antes de bañarte y tenés calor inmediato sin esperar. Eso sí, respetá la distancia al agua y las indicaciones de seguridad del fabricante.",
+      },
+      {
+        question: "¿Los tubos halógenos se rompen o se gastan?",
+        answer: "Sí, es propio de la tecnología. El filamento tiene vida útil y el tubo es frágil ante golpes. Considerala como algo que puede necesitar repuesto, no un electrodoméstico para toda la vida.",
+      },
+      {
+        question: "¿Gasta mucha luz?",
+        answer: "Como toda estufa eléctrica, el consumo depende de la potencia a la que la uses y de cuántas horas. La ventaja de la halógena es que calienta directo a la persona, así que la usás en ratos cortos y puntuales en vez de tenerla prendida horas.",
+      },
+    ],
   },
   // ─── Audio (silo audio) — importados via API ML (jun 2026) ───
   // Afiliado: links meli.la propios de Juan (ya swapeados). STAGED hasta publicar el silo audio.
@@ -1392,12 +4891,108 @@ export const curatedProducts: Product[] = [
       { label: "Batería", value: "Hasta 10 h" },
       { label: "Conexión", value: "Bluetooth 5.4" },
       { label: "Ideal para", value: "El más vendido y barato, para llevar" },
+      { label: "Modelo", value: "MDZ-37-DB" },
+      { label: "Rango de frecuencias", value: "100 Hz a 20 kHz" },
+      { label: "Carga", value: "USB-C, full en unas 3 h" },
+      { label: "Alcance Bluetooth", value: "Hasta 25 m" },
+      { label: "Batería", value: "1000 mAh (10 h al 40% de volumen)" },
+      { label: "Peso", value: "Aprox. 200 g" },
+      { label: "Dimensiones", value: "90,8 x 74,4 x 42,6 mm" },
+      { label: "Estéreo", value: "Emparejamiento TWS con dos unidades" },
     ],
     relatedProducts: ["MLA44711946", "MLA48958711"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante Xiaomi Sound Pocket: mini bluetooth de 5 W con IP67 y batería de hasta 10 horas, el más vendido y barato. Para llevar a cualquier lado. Más de 6.200 calificaciones.",
+    seoTitle: "Xiaomi Sound Pocket 5W: el mini bluetooth barato y resistente",
+    metaDescription: "Parlante Xiaomi Sound Pocket 5W: mini bluetooth con IP67, 10 h de batería y 200 g. Para quien quiere algo barato para llevar, no para llenar una fiesta.",
+    verdict: "Para una sola persona que quiere música mientras cocina, se baña o sale a caminar, el Sound Pocket cumple: 5 W, resistente al agua y al polvo (IP67), 200 gramos y 4.8 estrellas en más de 6.200 opiniones, a uno de los precios más bajos en parlantes con marca. Si querés volumen para una previa, graves de verdad o sonido para varias personas, no es para vos: 5 W es poco y un solo parlante no llena un ambiente grande.",
+    pros: [
+      "Resistencia IP67 real: aguanta polvo y se puede sumergir, sirve para baño, pileta o lluvia",
+      "200 gramos y tamaño de pocket: entra en la mano o en un bolsillo grande",
+      "Hasta 10 horas de batería al 40% de volumen, carga por USB-C en unas 3 horas",
+      "Bluetooth 5.4 con alcance de hasta 25 metros y micrófono para atender llamadas",
+      "Se puede emparejar con otro Sound Pocket para sonido estéreo (modo TWS)",
+      "Uno de los parlantes con marca más baratos: 4.8 estrellas en más de 6.200 opiniones",
+    ],
+    cons: [
+      "5 W es potencia chica: alcanza para una persona o un escritorio, no para llenar una fiesta ni un patio grande",
+      "Un solo parlante de este tamaño no da graves profundos; el sonido es plano comparado con uno más grande",
+      "Para estéreo real necesitás comprar dos unidades, no viene de a pares",
+      "1000 mAh: las 10 horas son al 40% de volumen, a todo volumen dura bastante menos",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Xiaomi Sound Pocket es un parlante bluetooth de bolsillo: 5 W de potencia, 200 gramos y tamaño de pocket. Es para una persona que quiere música cerca mientras cocina, se baña, trabaja en el escritorio o sale a caminar. No es un parlante para llenar un ambiente ni para una previa con gente.
+
+Lo que lo hace vender tanto no es el sonido, es el combo: marca conocida, resistente al agua y barato. A 4.8 estrellas con más de 6.200 opiniones en MercadoLibre, es de los parlantes con marca más elegidos en su rango de precio.
+
+## Las funciones clave
+
+La resistencia IP67 es lo mejor que tiene. No es "resistente a salpicaduras" nomás: aguanta polvo y se puede sumergir. Para el baño, la pileta o un día de lluvia, no te preocupás.
+
+La batería es de 1000 mAh y rinde hasta 10 horas, pero ojo: ese número es al 40% de volumen. A todo volumen dura bastante menos. Carga por USB-C en unas 3 horas.
+
+Trae Bluetooth 5.4 con alcance de hasta 25 metros y micrófono, así que podés atender una llamada con un toque. Y si comprás dos, se emparejan en modo estéreo (TWS) para abrir el sonido a izquierda y derecha.
+
+## Lo que resignás por el tamaño
+
+Acá está la pega real: son 5 W. Esa potencia alcanza para una persona o un escritorio, no para un patio ni para varios. Si esperás que llene un ambiente grande o que se escuche en una juntada, te va a quedar corto.
+
+Y por ser tan chico, los graves son flojos. El sonido es más bien plano si lo comparás con un parlante más grande. Está bien para escuchar, no para sentir el bajo.
+
+## La contra que conviene saber antes
+
+Las 10 horas de batería son con el volumen al 40%. Es un dato honesto del fabricante, pero significa que si lo usás fuerte, vas a cargar más seguido. Para un día de pileta a volumen alto, llevá el cable.
+
+Y el estéreo "envolvente" del que habla Xiaomi necesita dos parlantes. Con uno solo tenés sonido mono. Si querés el efecto estéreo, es comprar dos unidades.
+
+## Sound Pocket o un JBL chico
+
+Si dudás entre este y un JBL Go Essential, mirá la diferencia. El Xiaomi tiene más potencia (5 W contra 3,1 W), más batería (10 h contra 5 h) y protección IP67 (polvo + agua), mientras que el JBL Go Essential es IPX7 (solo agua, no polvo). El Xiaomi suele salir más barato.
+
+A favor del JBL juega la marca en audio y el respaldo. Pero en números puros, el Sound Pocket da más por menos. Si querés saltar a algo serio de verdad, ahí sí conviene mirar un JBL Flip, que es otra categoría de precio y de sonido.
+
+## Para quién sí y para quién no
+
+Sí, si sos una persona que quiere música portátil y barata para el baño, la pileta, el escritorio o salir a caminar, y no te importa el volumen alto ni los graves.
+
+No, si querés sonido para una previa, para varias personas o un patio, o si buscás graves de verdad. Para eso necesitás algo más grande y más caro.
+
+## Veredicto
+
+El Sound Pocket es el parlante de "lo quiero barato, resistente y para llevar". Cumple eso bien: IP67, 200 gramos, marca y 4.8 estrellas en miles de opiniones. La condición es tener claro que 5 W es poco. Si lo comprás esperando un parlante de fiesta, te vas a decepcionar. Si lo comprás como compañero personal de música, es difícil de superar al precio que tiene.`,
+    faq: [
+      {
+        question: "¿El Xiaomi Sound Pocket es resistente al agua de verdad?",
+        answer: "Sí, tiene certificación IP67: aguanta polvo y se puede sumergir en agua. Sirve para baño, pileta o lluvia sin problema. Es de lo mejor que tiene el parlante.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Hasta 10 horas, pero con el volumen al 40%. A todo volumen dura bastante menos. Tiene batería de 1000 mAh y carga por USB-C en unas 3 horas.",
+      },
+      {
+        question: "¿Se escucha fuerte? ¿Sirve para una fiesta?",
+        answer: "No para una fiesta. Son 5 W: alcanza para una persona, un escritorio o un baño. Para una previa o un patio con gente te va a quedar corto, y los graves son flojos por el tamaño chico.",
+      },
+      {
+        question: "¿Se puede conectar dos para sonido estéreo?",
+        answer: "Sí. Dos Xiaomi Sound Pocket se emparejan en modo TWS y dividen el sonido en izquierda y derecha. Con uno solo el sonido es mono; para el estéreo real necesitás comprar dos unidades.",
+      },
+      {
+        question: "¿Conviene el Xiaomi Sound Pocket o el JBL Go Essential?",
+        answer: "El Xiaomi tiene más potencia (5 W vs 3,1 W), más batería (10 h vs 5 h) y protección IP67 (polvo + agua), mientras el JBL Go Essential es IPX7 (solo agua). El Xiaomi suele salir más barato. El JBL gana en marca de audio y respaldo.",
+      },
+      {
+        question: "¿Tiene micrófono para atender llamadas?",
+        answer: "Sí, trae micrófono. Podés atender una llamada con un toque y hablar manos libres. Usa Bluetooth 5.4 con alcance de hasta 25 metros.",
+      },
+      {
+        question: "¿Por qué cable se carga?",
+        answer: "Se carga por USB-C, no por microUSB. La carga completa lleva alrededor de 3 horas.",
+      },
+    ],
   },
   {
     id: "MLA44711946",
@@ -1427,12 +5022,102 @@ export const curatedProducts: Product[] = [
       { label: "Batería", value: "Hasta 5 h" },
       { label: "Marca", value: "JBL" },
       { label: "Ideal para", value: "JBL chico, mejor relación marca-precio" },
+      { label: "Transductor", value: "1 x 40 mm" },
+      { label: "Respuesta de frecuencia", value: "180 Hz - 20 kHz" },
+      { label: "Bluetooth", value: "Versión 4.2" },
+      { label: "Tiempo de carga", value: "2,5 horas" },
+      { label: "Peso", value: "180 g" },
+      { label: "Medidas", value: "86 x 71 x 32 mm" },
+      { label: "Micrófono / manos libres", value: "No tiene" },
+      { label: "Entrada auxiliar", value: "No tiene (solo bluetooth)" },
     ],
     relatedProducts: ["MLA44740757", "MLA48958711"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante JBL Go Essential: el JBL chico waterproof, la entrada a la marca al mejor precio. Más de 2.100 calificaciones.",
+    seoTitle: "JBL Go Essential: el JBL chico más barato (review)",
+    metaDescription: "Parlante JBL Go Essential: la entrada a la marca al mejor precio. IPX7, 3,1 W y 5 horas. Para quién sí y para quién no, con specs reales.",
+    verdict: "Para quien quiere un JBL chico de marca, sumergible, para llevar a la pileta o al baño y no gastar de más, el Go Essential cumple: IPX7, 3,1 W y 4.8 estrellas en más de 2.100 opiniones. Si buscás volumen para una previa, graves de verdad o más de 5 horas de batería, no es para vos: es chico, suena bajo y no tiene micrófono ni entrada auxiliar.",
+    pros: [
+      "IPX7: aguanta sumergido, no solo salpicaduras. Va a la pileta y a la ducha sin drama",
+      "Es un JBL de verdad al precio más bajo de la marca: la puerta de entrada",
+      "180 gramos y 86 x 71 mm: entra en cualquier bolsillo o mochila",
+      "Sonido limpio y prolijo para su tamaño, con la firma de JBL",
+      "4.8 estrellas en más de 2.100 opiniones, con envío gratis",
+    ],
+    cons: [
+      "3,1 W: suena para un ambiente chico o un baño, no para llenar un patio ni una previa",
+      "Hasta 5 horas de batería: corto al lado de otros JBL que dan 10 o más",
+      "No tiene micrófono: no sirve para atender llamadas en manos libres",
+      "No tiene entrada auxiliar: solo Bluetooth, no le enchufás un cable",
+      "Graves justos: es chico, no esperes que retumbe",
+    ],
+    articleBody: `## Para quién es y para quién no
+
+El JBL Go Essential es el parlante más chico y barato de la marca. Es para quien quiere un JBL de verdad, sumergible, para llevar a la pileta, al baño o a la mochila, sin gastar lo de un Flip o un Charge.
+
+No es para quien busca volumen. Son 3,1 W: suena para un ambiente chico, no para una previa ni un patio. Si querés graves que retumben o batería para todo el día, mirá un modelo más grande.
+
+## Qué es y para qué alcanza
+
+Es un parlante bluetooth ultra compacto: 86 x 71 x 32 mm y 180 gramos. Entra en un bolsillo. Trae un transductor de 40 mm y respuesta de 180 Hz a 20 kHz, así que abajo no llega lejos (los graves profundos no son lo suyo).
+
+Alcanza para escuchar música mientras te bañás, cocinás o estás en la pileta. Para una persona o dos en un ambiente chico, va bien. Para ambientar una reunión, queda corto.
+
+## La resistencia, que es el fuerte
+
+Acá está lo bueno: es IPX7. Eso quiere decir que aguanta sumergido hasta 30 minutos a un metro, no solo salpicaduras. Se te puede caer a la pileta y lo sacás. Para un parlante de este precio, esa certificación es lo que más vale.
+
+Ojo: IPX7 es solo agua. No tiene la X que certifica polvo, así que en arena o tierra fina cuidalo.
+
+## Lo que resignás por el tamaño
+
+La batería rinde hasta 5 horas. Carga en 2,5 horas. Es de las más cortas de la línea JBL (varios hermanos dan 10 o más), así que para un día entero afuera te vas a quedar sin.
+
+El bluetooth es 4.2, no la versión más nueva. En la práctica conecta y anda, pero no esperes el alcance ni la estabilidad de los modelos actuales.
+
+## Las dos contras que más pesan
+
+No tiene micrófono. No podés atender llamadas en manos libres ni usar asistente de voz: es solo para reproducir música.
+
+No tiene entrada auxiliar. Funciona únicamente por bluetooth, no le enchufás un cable de 3,5 mm. Si tu plan era conectarlo a algo viejo por cable, este no es.
+
+## Cómo se ubica en la gama JBL
+
+El Go Essential es el escalón de entrada. Arriba está el Flip, con más volumen y batería; después el Charge, que además carga el celular; y el Boombox para fiesta. Cada salto es más potencia y más plata.
+
+Si lo único que querés es la marca JBL, sumergible y barato, este es el punto justo. Si vas a usarlo de parlante principal, conviene subir un escalón.
+
+## Veredicto
+
+El JBL Go Essential hace una cosa y la hace bien: ser un JBL chico, sumergible y barato. IPX7, 3,1 W, 5 horas y 4.8 estrellas en más de 2.100 opiniones. Para la pileta, el baño o la mochila, cumple. Para volumen, graves o batería larga, no: ahí ya estás pidiendo otro modelo.`,
+    faq: [
+      {
+        question: "¿El JBL Go Essential es sumergible o solo resiste salpicaduras?",
+        answer: "Es sumergible. Tiene certificación IPX7, que significa que aguanta hasta 30 minutos bajo un metro de agua. Se te puede caer a la pileta y lo sacás. Eso sí, solo certifica agua, no polvo ni arena.",
+      },
+      {
+        question: "¿Cuánto dura la batería del JBL Go Essential?",
+        answer: "Hasta 5 horas de reproducción, según JBL. Carga completa en 2,5 horas. Es de las baterías más cortas de la línea: si querés un día entero afuera, conviene un modelo más grande como el Flip.",
+      },
+      {
+        question: "¿Cuánta potencia tiene y suena fuerte?",
+        answer: "Son 3,1 W RMS. Suena limpio para su tamaño, pero es para un ambiente chico, un baño o estar al lado tuyo. No llena un patio ni sirve para una previa. Si buscás volumen, no es este.",
+      },
+      {
+        question: "¿Tiene micrófono para atender llamadas?",
+        answer: "No. El Go Essential no tiene micrófono, así que no podés usarlo de manos libres ni con asistente de voz. Es solo para reproducir música por bluetooth.",
+      },
+      {
+        question: "¿Se le puede conectar un cable auxiliar?",
+        answer: "No. No tiene entrada auxiliar de 3,5 mm. Funciona únicamente por bluetooth (versión 4.2). Si tu plan era enchufarle un cable, este modelo no sirve.",
+      },
+      {
+        question: "¿Conviene el Go Essential o pagar más por un JBL Flip?",
+        answer: "Depende del uso. El Go Essential es la entrada de marca: chico, sumergible y barato, ideal para pileta o baño. El Flip da más volumen y más batería para usarlo de parlante principal. Si lo querés solo para acompañar, el Go alcanza; si va a sonar para varios, subí al Flip.",
+      },
+    ],
   },
   {
     id: "MLA48958711",
@@ -1460,12 +5145,108 @@ export const curatedProducts: Product[] = [
       { label: "Resistencia", value: "Resistente al agua y al polvo" },
       { label: "Marca", value: "JBL" },
       { label: "Ideal para", value: "El todoterreno, sonido potente para su tamaño" },
+      { label: "Potencia", value: "35W RMS (25W graves + 10W agudos)" },
+      { label: "Batería", value: "Hasta 14h + 2h Playtime Boost (rinde menos a volumen alto)" },
+      { label: "Carga", value: "USB-C, aprox. 2,5 horas" },
+      { label: "Resistencia", value: "IP68: sumergible 1,5 m / 30 min, antigolpes 1 m" },
+      { label: "Conectividad", value: "Bluetooth 5.4, Auracast, audio por USB-C (lossless)" },
+      { label: "Peso", value: "560 g" },
+      { label: "Respuesta de frecuencia", value: "60 Hz - 20 kHz" },
     ],
     relatedProducts: ["MLA44709426", "MLA44711946"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante JBL Flip 7: el portátil mediano todoterreno, sonido potente y resistente al agua. El equilibrio de la gama JBL.",
+    seoTitle: "JBL Flip 7 rojo: review honesta del portátil mediano",
+    metaDescription: "JBL Flip 7: 35W, IP68 y USB-C para quien quiere un parlante chico que suena fuerte. Te cuento la pega de batería y para quién no es. 4.8 en 482 opiniones.",
+    verdict: "Para una persona que quiere un parlante chico, llevable y resistente al agua que suene fuerte para su tamaño, el Flip 7 es el punto justo de la gama JBL: 35W, IP68, USB-C y 4.8 estrellas en 482 opiniones. Si buscás graves de fiesta o que te dure todo el día a volumen alto, no es para vos: es mono, entra solo en una mano y la batería real cae bastante por debajo de las 14 horas que promete JBL.",
+    pros: [
+      "35W RMS (25W de graves + 10W de agudos): suena fuerte y limpio para lo chico que es",
+      "IP68 real: se sumerge hasta 1,5 m por 30 minutos y aguanta caídas de 1 metro al piso",
+      "Carga por USB-C y acepta audio por cable, incluso sin pérdida desde la compu",
+      "Bluetooth 5.4 con Auracast para enlazar varios parlantes nuevos de JBL",
+      "Entra en una mano (560 g) y se lleva a cualquier lado con la correa PushLock",
+      "4.8 estrellas en 482 opiniones en MercadoLibre",
+    ],
+    cons: [
+      "La batería real rinde bastante menos que las 14-16 horas que promete JBL: a volumen alto se va a media tarde",
+      "Es mono y chico: los graves tienen un techo, no esperes que llene un patio ni que haga fiesta",
+      "El modo Playtime Boost te suma horas pero baja la calidad de sonido (recorta graves)",
+      "No tiene micrófono: no sirve como manos libres ni para asistentes de voz",
+      "Auracast no se enlaza con los JBL viejos de PartyBoost: si ya tenés un Charge 5, no se sincronizan",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El JBL Flip 7 es el parlante mediano de la marca: el que entra en una mano y suena más fuerte de lo que su tamaño deja imaginar. Mide unos 18 cm de largo y pesa 560 g. Es el todoterreno de la gama. Ni el chiquito de entrada ni el grande de fiesta.
+
+Para una persona que quiere música en la cocina, en el baño, en la pileta o de paseo, alcanza y sobra. Suena fuerte, es resistente al agua y se lleva a cualquier lado. Si esa es tu necesidad, este es el modelo justo.
+
+## Las funciones clave
+
+Son 35W RMS: 25W para los graves y 10W para los agudos. Esa potencia es la que hace que un parlante chico suene grande. Trae AI Sound Boost, una función de JBL que ajusta el sonido para que no se distorsione al subir el volumen.
+
+La conexión es Bluetooth 5.4. Suma USB-C, que sirve para cargar y también para pasar audio por cable desde la compu, incluso sin pérdida. Tiene Auracast: podés enlazar varios Flip 7 (u otros JBL nuevos) para sonar en simultáneo.
+
+## La resistencia, que es lo que más se valora
+
+Acá el Flip 7 cumple de verdad. Tiene certificación IP68: se sumerge hasta 1,5 metros de profundidad por 30 minutos sin romperse. Y aguanta caídas de 1 metro al piso de concreto.
+
+Eso es pileta, lluvia, arena y caídas sin drama. Trae el sistema PushLock, una correa para colgarlo o atarlo a una mochila. Para uso al aire libre, está pensado para sobrevivir.
+
+## Lo que resignás
+
+Es un parlante mono y chico. Por más AI Sound Boost que tenga, de una caja de 18 cm sale solo cierta cantidad de graves. Para escuchar de cerca anda bárbaro. Para llenar un patio grande o hacer fiesta, te queda corto: ahí ya estás mirando un Charge o un Boombox.
+
+No tiene micrófono. No sirve como manos libres ni para hablarle a un asistente de voz. Tampoco tiene entrada auxiliar clásica: si querés cable, es por USB-C.
+
+## La contra real: la batería
+
+JBL promete hasta 14 horas, más 2 con el modo Playtime Boost. En pruebas independientes a volumen alto el rendimiento real cae bastante por debajo de eso. A volumen fuerte se va a media tarde, no a la noche.
+
+Y el modo Playtime Boost, que suma esas horas extra, lo hace recortando graves: ganás autonomía pero perdés calidad de sonido. No es un parlante para tenerlo todo el día prendido a todo volumen sin enchufe cerca.
+
+Otro detalle: el Auracast no se enlaza con los JBL viejos que usan PartyBoost. Si ya tenés un Charge 5 o un Flip anterior, este Flip 7 no se sincroniza con ellos.
+
+## Para quién sí y para quién no
+
+Sí, si querés un parlante chico, llevable y resistente para uso personal o de a dos: pileta, mate en el patio, baño, viaje. Para eso es el equilibrio justo de JBL y por algo tiene 4.8 estrellas en 482 opiniones.
+
+No, si buscás graves de fiesta, que llene un espacio grande, o que aguante todo el día a volumen alto sin cargar. En ese caso conviene subir al JBL Charge (más batería, además carga el celular) o al Boombox (mucho más sonido y tamaño).
+
+## Veredicto
+
+El Flip 7 es el medio de la gama JBL bien resuelto: potente para su tamaño, resistente de verdad y fácil de llevar. La pega es la batería, que rinde menos de lo que dice la caja, y que como todo parlante chico tiene un techo de graves. Si tenés clara esa expectativa, es una compra que difícilmente te decepcione.`,
+    faq: [
+      {
+        question: "¿El JBL Flip 7 es resistente al agua?",
+        answer: "Sí, tiene certificación IP68: se sumerge hasta 1,5 metros de profundidad por 30 minutos sin dañarse. También aguanta caídas de 1 metro al piso de concreto. Sirve para pileta, lluvia, arena y playa.",
+      },
+      {
+        question: "¿Cuánto dura la batería del JBL Flip 7?",
+        answer: "JBL promete hasta 14 horas, más 2 horas con el modo Playtime Boost (16 en total). En la práctica, a volumen alto el rendimiento real es bastante menor: pensalo para media jornada fuerte, no para todo el día sin enchufe.",
+      },
+      {
+        question: "¿El JBL Flip 7 se carga por USB-C?",
+        answer: "Sí, carga por USB-C en unas 2,5 horas. Además ese mismo puerto sirve para pasar audio por cable desde la computadora, incluso sin pérdida de calidad. No tiene entrada auxiliar tradicional.",
+      },
+      {
+        question: "¿Conviene el JBL Flip 7 o el Charge 5?",
+        answer: "Depende de qué priorices. El Flip 7 es más chico, liviano y fácil de llevar. El Charge 5 es más grande, suena más fuerte, dura más de batería y además carga el celular. Si querés portabilidad, el Flip; si querés sonido y autonomía, el Charge.",
+      },
+      {
+        question: "¿El JBL Flip 7 se conecta con mi JBL viejo?",
+        answer: "Solo con modelos JBL nuevos que usen Auracast. Si tu parlante viejo usa el sistema PartyBoost (como un Charge 5 o Flip anteriores), el Flip 7 no se sincroniza con él para sonar en simultáneo.",
+      },
+      {
+        question: "¿El JBL Flip 7 sirve para hacer y atender llamadas?",
+        answer: "No. El Flip 7 no tiene micrófono, así que no funciona como manos libres ni con asistentes de voz como Alexa. Es solo para reproducir música y audio.",
+      },
+      {
+        question: "¿Qué potencia tiene el JBL Flip 7?",
+        answer: "Son 35W RMS en total: 25W para los graves y 10W para los agudos. Para un parlante de 18 cm es bastante: suena fuerte y limpio gracias a la función AI Sound Boost, que evita que se distorsione al subir el volumen.",
+      },
+    ],
   },
   {
     id: "MLA44709426",
@@ -1493,12 +5274,111 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Batería que carga el celular (power bank)" },
       { label: "Resistencia", value: "Waterproof" },
       { label: "Marca", value: "JBL" },
+      { label: "Potencia", value: "40W (woofer 30W + tweeter 10W)" },
+      { label: "Batería", value: "7500 mAh, hasta 20 horas" },
+      { label: "Tiempo de carga", value: "Unas 4 horas (USB-C)" },
+      { label: "Resistencia", value: "IP67 (polvo y sumergible 1 m / 30 min)" },
+      { label: "Bluetooth", value: "Versión 5.1" },
+      { label: "Función power bank", value: "Sí, carga el celular por USB-A" },
+      { label: "Multipunto / fiesta", value: "PartyBoost (se empareja con otros JBL compatibles)" },
+      { label: "Entrada auxiliar", value: "No tiene (solo Bluetooth)" },
+      { label: "Micrófono / manos libres", value: "No tiene" },
+      { label: "Peso", value: "Aproximadamente 960 g" },
     ],
     relatedProducts: ["MLA48958711", "MLA45498184"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante JBL Charge 5: potencia y batería grande que además carga el celular. El JBL para sonido fuerte con autonomía.",
+    seoTitle: "JBL Charge 5: review honesta, batería y carga de celu",
+    metaDescription: "JBL Charge 5: 40W, 20 horas de batería, IP67 y carga el celular. Para quien quiere sonido fuerte y autonomía. No tiene aux ni micrófono. Análisis honesto.",
+    verdict: "Para quien quiere sonido fuerte con mucha autonomía y poder cargar el celular en una salida larga, el Charge 5 cumple: 40W, 20 horas de batería, IP67 y 4.9 estrellas en 216 opiniones. Si solo escuchás música en casa, querés entrada auxiliar o atender llamadas por el parlante, no es para vos: a 250.000 pesos pagás de más por funciones que no vas a usar, y ya salió el Charge 6.",
+    pros: [
+      "40W de potencia (woofer de 30W + tweeter de 10W): suena fuerte y con graves para patio, pileta o juntada",
+      "20 horas de batería con una carga, de las más altas en parlantes portátiles de este tamaño",
+      "Función power bank: el puerto USB-A carga el celular cuando te quedás sin batería afuera",
+      "Certificación IP67: aguanta polvo y 30 minutos sumergido a 1 metro, sirve al lado de la pileta",
+      "4.9 estrellas en 216 opiniones, con respaldo de marca y service oficial en Argentina",
+      "PartyBoost: lo emparejás con otro parlante JBL compatible para más volumen",
+    ],
+    cons: [
+      "No tiene entrada auxiliar (3.5mm): soló conectás por Bluetooth, no por cable",
+      "No tiene micrófono: no podés atender llamadas ni usarlo de manos libres",
+      "Tarda unas 4 horas en cargar del todo por USB-C",
+      "A 250.000 pesos es caro: hay parlantes que suenan parecido por menos plata",
+      "Ya existe el Charge 6, así que estás comprando la generación anterior",
+    ],
+    articleBody: `## Para quién es y para quién no
+
+El JBL Charge 5 es para quien sale, escucha fuerte y necesita batería que dure. Patio, pileta, camping, una previa que se estira. 40W de potencia, 20 horas de autonomía y aguanta agua. Y de yapa, carga el celular cuando te quedaste sin batería afuera.
+
+No es para todos. Si escuchás música en casa y siempre tenés enchufe cerca, pagás por autonomía que no vas a usar. Si querés conectar por cable o atender llamadas por el parlante, este no es: no tiene ni entrada auxiliar ni micrófono.
+
+## Qué es y para qué alcanza
+
+Es un parlante Bluetooth portátil de gama media-alta de JBL. El formato es el clásico "ladrillo" cilíndrico: lo metés en la mochila y va a cualquier lado. Pesa cerca de 960 gramos, así que se nota en el bolso pero no es un lastre.
+
+La potencia es de 40W, repartida en un woofer de 30W y un tweeter de 10W. En criollo: suena fuerte y con graves marcados, suficiente para un patio o una pileta sin que se quede corto. No es un equipo de fiesta grande tipo Boombox, pero para una juntada cumple de sobra.
+
+## Las funciones clave
+
+La batería es el punto fuerte. 7500 mAh que dan hasta 20 horas de música con una carga. Es de las autonomías más altas en parlantes de este tamaño. Para una salida de todo el día no lo cargás ni una vez.
+
+La función power bank es lo que lo diferencia. Tiene un puerto USB-A para cargar el celular desde el parlante. En una salida larga, cuando a todos se les muere el teléfono, este te salva. Por eso se llama "Charge".
+
+Resiste agua y polvo con certificación IP67: aguanta 30 minutos sumergido a 1 metro. Al lado de la pileta o bajo lluvia no pasa nada. Y con PartyBoost lo emparejás con otro parlante JBL compatible para sumar volumen.
+
+## Lo que resignás
+
+Acá viene la parte honesta. El Charge 5 no tiene entrada auxiliar. La conexión es solo por Bluetooth. Si tenías pensado enchufar algo por cable de 3.5mm, olvidate: JBL lo sacó para mejorar la resistencia al agua.
+
+Tampoco tiene micrófono. No lo podés usar de manos libres ni atender llamadas por el parlante. Si esperabas eso, buscá otro modelo.
+
+La app JBL Portable trae un ecualizador, pero es básico: tres bandas (graves, medios, agudos) y listo. No esperes ajustes finos.
+
+## La contra real
+
+El precio. A 250.000 pesos, el Charge 5 está caro para lo que ofrece. Hay parlantes que suenan parecido por bastante menos plata. Lo que pagás de más es la marca, el service oficial y la función power bank.
+
+Y un dato que conviene saber: ya salió el JBL Charge 6. El Charge 5 sigue siendo bueno, pero estás comprando la generación anterior. Si la diferencia de precio entre uno y otro es chica, mirá el 6 antes de decidir.
+
+La carga completa tarda unas 4 horas por USB-C. No es rápido, así que conviene dejarlo cargando de noche.
+
+## Veredicto
+
+Si lo que buscás es sonido fuerte, batería que aguante todo el día y poder cargar el celular afuera, el Charge 5 lo hace bien: 40W, 20 horas, IP67 y 4.9 estrellas en 216 opiniones lo respaldan. Es un parlante para salir, no para el living.
+
+Si solo escuchás en casa, querés entrada auxiliar o usarlo de manos libres, no es para vos. Y antes de pagar 250.000 pesos, fijate cuánto sale el Charge 6: capaz por poca diferencia te llevás la versión nueva.`,
+    faq: [
+      {
+        question: "¿El JBL Charge 5 carga el celular?",
+        answer: "Sí. Tiene un puerto USB-A que funciona como power bank: enchufás el celular al parlante y lo cargás. Es la función que lo diferencia del resto de la gama JBL, por eso se llama Charge.",
+      },
+      {
+        question: "¿Cuánto dura la batería del JBL Charge 5?",
+        answer: "Hasta 20 horas de música con una carga, según JBL. Es de las autonomías más altas en parlantes portátiles de este tamaño. La carga completa tarda unas 4 horas por USB-C.",
+      },
+      {
+        question: "¿El JBL Charge 5 es resistente al agua?",
+        answer: "Sí, tiene certificación IP67: aguanta polvo y 30 minutos sumergido a 1 metro de agua dulce. Sirve al lado de la pileta o bajo lluvia sin problema.",
+      },
+      {
+        question: "¿Cuántos watts tiene el JBL Charge 5?",
+        answer: "40W de potencia total: un woofer de 30W más un tweeter de 10W. Suena fuerte y con graves marcados, suficiente para un patio o una juntada sin quedarse corto.",
+      },
+      {
+        question: "¿El JBL Charge 5 tiene entrada auxiliar?",
+        answer: "No. La conexión es solo por Bluetooth. JBL sacó la entrada de 3.5mm para mejorar la resistencia al agua. Si necesitás conectar por cable, este modelo no sirve.",
+      },
+      {
+        question: "¿Se puede hablar por el JBL Charge 5 como manos libres?",
+        answer: "No. El Charge 5 no tiene micrófono, así que no atiende llamadas ni funciona de speakerphone. Solo reproduce audio.",
+      },
+      {
+        question: "¿Conviene el JBL Charge 5 o el Charge 6?",
+        answer: "Ya salió el Charge 6, así que el 5 es la generación anterior. El 5 sigue siendo muy bueno. Si la diferencia de precio con el 6 es chica, mirá el modelo nuevo antes de decidir; si el 5 está bastante más barato, sigue valiendo la pena.",
+      },
+    ],
   },
   {
     id: "MLA45498184",
@@ -1525,12 +5405,108 @@ export const curatedProducts: Product[] = [
       { label: "Potencia", value: "Sonido alto, graves potentes" },
       { label: "Resistencia", value: "Waterproof" },
       { label: "Marca", value: "JBL" },
+      { label: "Potencia", value: "180W RMS (con cable) / 136W RMS (a batería)" },
+      { label: "Sistema de audio", value: "3 vías: subwoofer, medios y tweeters" },
+      { label: "Batería", value: "Hasta 24 horas; carga completa en 6,5 horas" },
+      { label: "Resistencia", value: "IP67 (polvo y agua; sumergible 1 m / 30 min)" },
+      { label: "Peso", value: "6,7 kg" },
+      { label: "Dimensiones", value: "48,2 x 25,7 x 20 cm" },
+      { label: "Conectividad", value: "Bluetooth 5.3, entrada auxiliar 3.5mm, PartyBoost" },
+      { label: "Extra", value: "Power bank USB para cargar el celular" },
     ],
     relatedProducts: ["MLA44709426", "MLA15733030"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante JBL Boombox 3: el más potente de la gama portátil, para fiestas y exteriores. Graves fuertes y mucha batería.",
+    seoTitle: "JBL Boombox 3: análisis del parlante de fiesta más potente",
+    metaDescription: "JBL Boombox 3 negro: 180W, 24h de batería e IP67 para fiestas y exteriores. Para quién sí y para quién no. Specs reales y la contra del peso.",
+    verdict: "Si querés sonido fuerte para fiestas, patio o playa y no te importa cargar 6,7 kg, el Boombox 3 es de lo más potente que hay portátil: 180W con cable, 24 horas de batería e IP67 (aguanta sumergido). No es para vos si lo querés para escuchar en el escritorio, llevarlo en mochila todos los días o si buscás un parlante chico: pesa como una garrafa chica y el precio es alto. Respaldo: 4.9 estrellas en 232 opiniones.",
+    pros: [
+      "180W RMS con cable (136W a batería): suena fuerte de verdad para una fiesta o un patio grande",
+      "24 horas de batería según JBL; carga completa en 6,5 horas",
+      "IP67: resiste polvo y agua, aguanta sumergido 1 metro por 30 minutos (lluvia y pileta sin drama)",
+      "Power bank integrado: cargás el celular por USB sin cortar la música",
+      "Bluetooth 5.3 y entrada auxiliar 3.5mm; PartyBoost para sumar otro parlante JBL compatible",
+      "4.9 estrellas en 232 opiniones",
+    ],
+    cons: [
+      "Pesa 6,7 kg y mide 48 cm de largo: no es para llevar a todos lados, es un equipo que dejás en un lugar",
+      "Precio alto frente a parlantes portátiles más chicos",
+      "El multipunto (dos celulares a la vez) anda flojo según reseñas: se desconecta",
+      "El ecualizador de la app es básico, de tres bandas",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El JBL Boombox 3 es el parlante portátil más grande y potente de la línea de JBL. Está pensado para una cosa: sonar fuerte afuera. Fiesta en el patio, asado con música alta, playa, camping.
+
+No es un parlante para escuchar de fondo mientras trabajás. Es para llenar un espacio grande de sonido. Si lo que querés es algo discreto y chico, este no es.
+
+## Cuánta potencia tiene de verdad
+
+Acá está el dato que importa. Enchufado a la corriente da 180W RMS. A batería baja a 136W RMS, que sigue siendo mucho.
+
+Usa un sistema de tres vías: un subwoofer para los graves, parlantes de medios y tweeters para los agudos. Por eso los graves pegan fuerte sin tapar el resto. Para un patio o una juntada de gente, sobra volumen.
+
+## Batería y la función de cargar el celular
+
+JBL declara 24 horas de batería. En la práctica depende del volumen: a todo lo que da, dura menos. Carga completa en 6,5 horas.
+
+Trae power bank: tiene un USB para cargar el celular mientras suena. Útil en una salida larga donde no hay enchufe cerca.
+
+## Resistencia: IP67 real
+
+Tiene certificación IP67. Eso quiere decir que resiste polvo y agua, y aguanta sumergido 1 metro durante 30 minutos. Lo podés dejar bajo lluvia o cerca de la pileta sin problema.
+
+Un detalle: no flota. Si se cae a la pileta, se va al fondo. Resiste el agua, pero no es un flotador.
+
+## Lo que resignás
+
+Lo grande del Boombox 3 es también su contra: pesa 6,7 kg y mide 48 cm de largo. Es como cargar una garrafa chica. Tiene manija, pero no es algo que metés en la mochila todos los días. Es un equipo que dejás en un lugar y movés cuando hace falta.
+
+El precio también es alto comparado con parlantes portátiles más chicos. Pagás por la potencia y la batería, no por la comodidad de llevarlo.
+
+## La contra real
+
+Más allá del peso, las reseñas marcan dos cosas. El multipunto (conectar dos celulares a la vez para que cualquiera ponga música) anda flojo: se desconecta. Y el ecualizador de la app es básico, de tres bandas, sin mucho ajuste fino.
+
+Para la mayoría no es grave: lo conectás con un celular y listo. Pero si esperabas pasarte el control entre amigos sin reconectar, sabelo.
+
+## Para quién sí y para quién no
+
+Sí: si querés sonido fuerte para fiestas, patio, playa o camping, y no te molesta que pese y ocupe lugar. Es de lo más potente que conseguís en formato portátil, con batería que aguanta una noche entera e IP67 para no cuidarlo tanto.
+
+No: si lo querés para el escritorio, para llevarlo en mochila a diario, o si buscás un parlante chico y liviano. Para eso hay opciones más cómodas y baratas en la misma marca, como el JBL Charge 5.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el JBL Boombox 3?",
+        answer: "180W RMS enchufado a la corriente y 136W RMS a batería. Usa un sistema de tres vías (subwoofer, medios y tweeters), por eso los graves pegan fuerte sin tapar el resto.",
+      },
+      {
+        question: "¿Cuánto dura la batería del Boombox 3?",
+        answer: "JBL declara 24 horas. En la práctica dura menos si lo tenés a todo volumen. La carga completa tarda 6,5 horas.",
+      },
+      {
+        question: "¿El JBL Boombox 3 es resistente al agua?",
+        answer: "Sí, tiene certificación IP67: resiste polvo y agua, y aguanta sumergido 1 metro por 30 minutos. Lo podés dejar bajo lluvia o cerca de la pileta. Eso sí, no flota: si se cae al agua se va al fondo.",
+      },
+      {
+        question: "¿Cuánto pesa el JBL Boombox 3?",
+        answer: "Pesa 6,7 kg y mide 48 cm de largo. Tiene manija para transportarlo, pero es un equipo grande: lo dejás en un lugar y lo movés cuando hace falta, no es para mochila de uso diario.",
+      },
+      {
+        question: "¿El Boombox 3 carga el celular?",
+        answer: "Sí, trae un power bank integrado con USB. Podés cargar el celular mientras suena la música, útil en salidas largas sin enchufe cerca.",
+      },
+      {
+        question: "¿Conviene el JBL Boombox 3 o el JBL Charge 5?",
+        answer: "Depende del uso. El Boombox 3 es mucho más potente (180W) y tiene más batería, pero pesa 6,7 kg. El Charge 5 es chico, liviano y más barato, ideal para llevar a todos lados. Para fiestas y patio, Boombox; para uso diario y portabilidad, Charge.",
+      },
+      {
+        question: "¿El Boombox 3 sirve para una fiesta grande?",
+        answer: "Sí, es justo para eso. Con 180W RMS llena de sonido un patio o una juntada de gente, y la batería aguanta una noche entera. Es de lo más potente que conseguís en formato portátil.",
+      },
+    ],
   },
   {
     id: "MLA15733030",
@@ -1559,12 +5535,105 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Luces LED, micrófono (karaoke) y puerto USB" },
       { label: "Marca", value: "Noblex" },
       { label: "Ideal para", value: "Sonido potente fijo en casa" },
+      { label: "Batería", value: "Recargable, 9 horas a volumen medio" },
+      { label: "Parlantes", value: "Woofer 6.5\" + 2 tweeters" },
+      { label: "Conexiones", value: "Bluetooth EDR, auxiliar 3.5mm, radio FM" },
+      { label: "Micrófonos", value: "2 entradas con volumen independiente (karaoke)" },
+      { label: "USB", value: "Solo carga de dispositivos (no reproduce música)" },
+      { label: "TWS", value: "Sí (emparejás dos unidades en estéreo)" },
+      { label: "Audio", value: "Botón Súper Bass + ecualizador con presets" },
+      { label: "Medidas y peso", value: "50 x 22 x 22 cm aprox., 5.2 kg" },
     ],
     relatedProducts: ["MLA45498184", "MLA44709426"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Torre de Sonido Noblex MNT290: equipo de audio para el hogar con bluetooth, luces LED y efectos. Sonido potente fijo, con más de 3.000 calificaciones.",
+    seoTitle: "Noblex MNT290: torre de sonido con karaoke y LED",
+    metaDescription: "La Noblex MNT290 es para sonido potente en casa, karaoke con dos micrófonos y luces. Mirá specs reales, los 3200W explicados y para quién conviene.",
+    verdict: "Para quien quiere sonido fuerte en casa, juntadas con amigos y karaoke con dos micrófonos, la Noblex MNT290 cumple: woofer de 6.5\", luces LED, Bluetooth, FM y 9 horas de batería, con 4.6 estrellas en más de 3.000 opiniones. No es para fiestas grandes ni para audiófilos: los 3200W son PMPO (marketing), la potencia real ronda los 30W RMS, y el USB es solo para cargar el celular, no reproduce música.",
+    pros: [
+      "Dos entradas de micrófono con volumen independiente: karaoke en casa sin equipo extra",
+      "Batería recargable de 9 horas a volumen medio, la movés de ambiente sin enchufe",
+      "Bluetooth, radio FM y entrada auxiliar 3.5mm: conectás celular, ponés la radio o un cable",
+      "Función TWS: emparejás dos unidades para estéreo real y más volumen",
+      "Botón Súper Bass y ecualizador con presets (Flat, Rock, Pop, Jazz) para mover los graves",
+      "4.6 estrellas en más de 3.000 opiniones, marca con service en Argentina (Newsan)",
+    ],
+    cons: [
+      "Los 3200W son potencia PMPO (marketing): la potencia real ronda los 30W RMS, alcanza para un ambiente, no para un patio lleno",
+      "El USB es solo para cargar el celular: no reproduce música desde un pen drive",
+      "Un solo woofer de 6.5\" y dos tweeters: suena fuerte y claro, pero el grave no es de equipo grande",
+      "No tiene ecualizador manual fino, solo los presets y el botón de graves",
+      "5.2 kg y 50 cm de alto: es portátil dentro de casa, no para llevar al hombro todo el día",
+    ],
+    articleBody: `## Para quién es (y para quién no)
+
+La Noblex MNT290 es para quien quiere sonido fuerte en casa sin armar un equipo grande. Juntadas con amigos, asados, una habitación con la música alta, karaoke un sábado a la noche. Trae dos entradas de micrófono, luces LED, Bluetooth y batería para nueve horas.
+
+No es para fiestas grandes ni para quien busca calidad de audio de estudio. Para un patio lleno de gente o un salón, te quedás corto. Para eso hay torres de más potencia real.
+
+## Qué es y qué alcanza
+
+Es una torre de sonido para el hogar: un solo cuerpo vertical de 50 cm de alto y 5.2 kg, con un woofer de 6.5 pulgadas y dos tweeters. La movés de ambiente porque tiene batería propia, pero no es un parlante para colgarse al hombro y salir.
+
+Suena fuerte y claro para un living o una habitación. Es el tipo de equipo que llena una casa, no un evento.
+
+## El tema de los 3200W
+
+En la publicación vas a ver "3200W". Eso es potencia PMPO, un número de marketing que mide picos teóricos, no lo que el parlante entrega sostenido. La potencia real (RMS) ronda los 30W. Es lo normal en esta gama y alcanza para un ambiente, pero conviene saberlo: 3200W no significa que suene como un equipo de 3000 watts de verdad.
+
+Si comparás torres por el número grande de la caja, todas inflan igual. Mirá el woofer, el RMS y las opiniones, no el PMPO.
+
+## Las funciones que la hacen útil
+
+El fuerte de la MNT290 es el karaoke. Trae dos entradas de micrófono con volumen independiente, así que cantan dos personas a la vez sin pelearse por el volumen.
+
+Suma Bluetooth para el celular, radio FM, entrada auxiliar 3.5mm y función TWS: si conseguís dos unidades, las emparejás para estéreo real y más volumen. Tiene botón Súper Bass y ecualizador con presets (Flat, Rock, Pop, Jazz) para subir los graves. Las luces LED acompañan la música.
+
+## Lo que resignás
+
+El USB es solo para cargar el celular, no reproduce música desde un pen drive. Si querías enchufar tu pen con temas, no va: la música entra por Bluetooth, auxiliar o FM.
+
+El ecualizador es de presets más el botón de graves, no hay ajuste manual fino. Y el grave, aunque el Súper Bass ayuda, sale de un solo woofer de 6.5": está bien para casa, pero no esperes el cuerpo de un equipo grande.
+
+## La contra real
+
+Es un equipo de potencia modesta vendido con un número enorme. Para una habitación, un living o una juntada chica, anda bárbaro. Para una fiesta de verdad, en un patio o con mucha gente, no le da. Quien compra esperando "3200W" de potencia real se va a decepcionar; quien compra una torre para casa con karaoke y luces, no.
+
+## Veredicto
+
+Por el precio, la MNT290 hace lo que promete para uso hogareño: sonido fuerte en un ambiente, karaoke con dos micrófonos, Bluetooth, FM y nueve horas de batería. Lo respaldan 4.6 estrellas en más de 3.000 opiniones y una marca con service local. Sabiendo que los 3200W son marketing y que el USB no reproduce música, es una compra honesta para casa. Para eventos grandes, buscá otra cosa.`,
+    faq: [
+      {
+        question: "¿Cuántos watts reales tiene la Noblex MNT290?",
+        answer: "Los 3200W que figuran en la publicación son potencia PMPO (un pico teórico de marketing). La potencia real (RMS) ronda los 30W, lo normal en esta gama. Alcanza para sonido fuerte en un ambiente de casa, no para una fiesta grande.",
+      },
+      {
+        question: "¿Sirve para karaoke?",
+        answer: "Sí, es uno de sus puntos fuertes. Trae dos entradas de micrófono con volumen independiente, así cantan dos personas a la vez. Los micrófonos van aparte (no siempre vienen incluidos, revisá la publicación).",
+      },
+      {
+        question: "¿El USB reproduce música desde un pen drive?",
+        answer: "No. Según Noblex, el puerto USB es solo para cargar el celular. La música entra por Bluetooth, entrada auxiliar 3.5mm o radio FM, no desde un pen drive.",
+      },
+      {
+        question: "¿Tiene batería o va siempre enchufada?",
+        answer: "Tiene batería recargable propia, que dura alrededor de 9 horas a volumen medio. La podés mover de ambiente sin enchufarla. A volumen alto dura menos.",
+      },
+      {
+        question: "¿Sirve para una fiesta grande o un patio lleno?",
+        answer: "No es lo ideal. Con potencia real cercana a 30W RMS y un solo woofer de 6.5\", llena una habitación o un living, pero se queda corta en un patio con mucha gente. Para eventos conviene una torre de más potencia real.",
+      },
+      {
+        question: "¿Se pueden conectar dos para más sonido?",
+        answer: "Sí, tiene función TWS (True Wireless Stereo): emparejás dos unidades MNT290 para tener estéreo real y más volumen. Necesitás comprar la segunda torre.",
+      },
+      {
+        question: "¿Qué medidas y peso tiene?",
+        answer: "Mide aproximadamente 50 cm de alto por 22 x 22 cm de base y pesa 5.2 kg. Es portátil dentro de casa (la movés de cuarto), pero no es un parlante de mochila.",
+      },
+    ],
   },
   {
     id: "MLA45615651",
@@ -1592,12 +5661,102 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Incluye micrófono (karaoke)" },
       { label: "Marca", value: "JVC" },
       { label: "Ideal para", value: "Potencia y karaoke en casa" },
+      { label: "Parlantes", value: "Doble woofer de 6.5\" + 2 tweeter" },
+      { label: "Batería", value: "Recargable, hasta 9 horas" },
+      { label: "Conectividad", value: "Bluetooth EDR + TWS, radio FM" },
+      { label: "Entradas", value: "Micrófono y guitarra" },
+      { label: "Iluminación", value: "Luces LED de 7 colores" },
+      { label: "Control", value: "Mando a distancia incluido" },
+      { label: "Dimensiones", value: "25 x 62.5 x 26 cm (ancho x alto x prof.)" },
+      { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA15733030", "MLA20012498"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Torre de Sonido JVC XS-LA5214: equipo de hogar potente con bluetooth y micrófono incluido para karaoke. Más de 1.700 calificaciones.",
+    seoTitle: "Torre JVC XS-LA5214PB: karaoke y batería 9h | Review",
+    metaDescription: "Torre de sonido JVC XS-LA5214PB: Bluetooth, micrófono para karaoke y batería de 9 horas. Para quién sí y para quién no, con specs reales y la contra del \"4800W\".",
+    verdict: "Para fiestas en casa, juntadas y karaoke, esta torre JVC cumple: trae micrófono, batería de hasta 9 horas, Bluetooth y luces LED, con 4.7 estrellas en más de 1.700 opiniones. Si buscás fidelidad de audio para escuchar música tranquilo, o algo chico que muevas seguido, no es para vos: son 62,5 cm de alto, está pensada para volumen y fiesta, y el \"4800W\" es potencia total de marketing, no potencia real.",
+    pros: [
+      "Trae micrófono incluido: arrancás a hacer karaoke sin comprar nada aparte",
+      "Batería recargable de hasta 9 horas: la usás en el patio o la terraza sin enchufe",
+      "Bluetooth EDR con TWS: sincronizás dos torres iguales para más cobertura de sonido",
+      "Doble woofer de 6.5\" y dos tweeter, FM y entradas para micrófono y guitarra",
+      "4.7 estrellas en más de 1.700 opiniones, marca JVC con respaldo conocido",
+      "Luces LED de 7 colores y mando a distancia para controlar todo a distancia",
+    ],
+    cons: [
+      "El \"4800W\" es potencia total de marketing: JVC no publica la potencia RMS, que es la que de verdad compara equipos",
+      "Es grande: 62,5 cm de alto y formato torre, no es algo que muevas de una mano pese a ser \"portátil\"",
+      "Trae un solo micrófono: si querés cantar a dúo tenés que comprar el segundo aparte",
+      "Sonido pensado para volumen y fiesta, no para escuchar música con fidelidad",
+      "Para sumar potencia real con TWS necesitás una segunda torre igual, que es otra compra",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+La JVC XS-LA5214PB es una torre de sonido para el hogar pensada para fiestas, juntadas y karaoke. Trae micrófono incluido, batería recargable, Bluetooth y luces. La idea es simple: la prendés, conectás el celular y tenés música fuerte y luces sin armar nada.
+
+Alcanza para una reunión en casa, un cumpleaños, una previa o el patio. No es un equipo de audiófilo ni un parlante de viaje. Es la torre de fiesta del living.
+
+## Las funciones clave
+
+Lo que la hace útil para juntadas:
+
+- Micrófono incluido para karaoke, más entrada para guitarra.
+- Batería recargable de hasta 9 horas: la sacás al patio sin enchufe.
+- Bluetooth EDR para conectar el celular, más radio FM.
+- Doble woofer de 6.5" y dos tweeter.
+- Luces LED de 7 colores y mando a distancia.
+- TWS: sincronizás dos torres JVC iguales para cubrir más espacio.
+
+## Lo que resignás
+
+Esta torre prioriza volumen y fiesta sobre calidad de sonido. Si te sentás a escuchar un disco con atención, vas a notar que el audio está armado para llenar un ambiente con gente hablando, no para detalle ni graves limpios a bajo volumen.
+
+También resignás portabilidad real. Es "portátil" porque tiene batería, pero mide 62,5 cm de alto. La movés de un cuarto a otro, no la llevás a la playa colgada del hombro.
+
+## La contra real
+
+El número grande de la publicación, "4800W", es potencia total de marketing. JVC no publica la potencia RMS, que es el dato que sirve para comparar equipos de verdad. Cuando veas torres de "4000W", "5000W" o "8000W", no las compares por ese número: ninguna entrega eso de forma sostenida.
+
+El otro punto: viene un solo micrófono. Para karaoke a dúo necesitás comprar el segundo. Y para sumar potencia real con TWS tenés que comprar una segunda torre igual, o sea otra compra.
+
+## Para quién sí y para quién no
+
+Sí, si querés una torre para fiestas y karaoke en casa, con micrófono y batería, y te importa más el clima de fiesta que la fidelidad. Para patio, terraza, cumpleaños y previas, cumple.
+
+No, si buscás un equipo para escuchar música con calidad, o algo chico y liviano para llevar a todos lados. Para eso conviene un parlante portátil compacto, no una torre.
+
+## Veredicto
+
+Cumple lo que promete para fiesta y karaoke: micrófono incluido, 9 horas de batería, Bluetooth y luces, con 4.7 estrellas en más de 1.700 opiniones y respaldo JVC. Solo tené claro que el "4800W" es marketing y que es una torre grande, no un parlante de bolsillo. Si entendés eso, es una compra sensata para animar juntadas en casa.`,
+    faq: [
+      {
+        question: "¿La torre JVC XS-LA5214PB sirve para karaoke?",
+        answer: "Sí. Viene con micrófono incluido y además tiene entrada para una guitarra. Para cantar a dúo vas a necesitar comprar un segundo micrófono aparte, porque trae uno solo.",
+      },
+      {
+        question: "¿Tiene batería o hay que tenerla enchufada?",
+        answer: "Tiene batería recargable con hasta 9 horas de duración, así que la podés usar en el patio o la terraza sin enchufe. Para fiestas largas conviene tenerla cerca de un tomacorriente igual.",
+      },
+      {
+        question: "¿Qué significa que tenga 4800W?",
+        answer: "Es la potencia total de marketing, no la potencia RMS (la que sirve para comparar equipos de verdad). JVC no publica la RMS de este modelo. No compares torres solo por ese número grande: ninguna entrega esa potencia de forma sostenida.",
+      },
+      {
+        question: "¿Se pueden conectar dos torres para más sonido?",
+        answer: "Sí, tiene función TWS por Bluetooth: sincronizás dos torres JVC iguales para cubrir más espacio. Tené en cuenta que la segunda torre es otra compra.",
+      },
+      {
+        question: "¿Es realmente portátil para llevarla a cualquier lado?",
+        answer: "Es portátil por la batería, pero mide 62,5 cm de alto y tiene formato de torre. La movés de un ambiente a otro o al patio sin problema, pero no es un parlante chico para llevar colgado a la playa.",
+      },
+      {
+        question: "¿Conviene esta JVC o una torre Noblex o Aiwa?",
+        answer: "Depende de qué priorices. La JVC viene con micrófono y batería, ideal para karaoke y fiestas con movilidad. Si querés más prestaciones tipo power bank, mirá la Aiwa AW-T2018R. Si buscás precio, la Noblex MNT290 suele estar más económica. Las tres apuntan a fiesta, no a fidelidad de audio.",
+      },
+    ],
   },
   {
     id: "MLA20012498",
@@ -1625,12 +5784,110 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Función power bank (carga el celular)" },
       { label: "Marca", value: "Aiwa" },
       { label: "Ideal para", value: "Torre premium con más prestaciones" },
+      { label: "Potencia", value: "8000W PMPO (pico de marketing, no RMS)" },
+      { label: "Parlantes", value: "Woofer de 8\" + tweeter de 2\"" },
+      { label: "Batería", value: "Interna 7,4V / 3600mAh, hasta 6 horas" },
+      { label: "Conectividad", value: "Bluetooth 5.0, auxiliar y USB" },
+      { label: "Micrófonos", value: "2 entradas con control de eco" },
+      { label: "Controles", value: "Graves, agudos y eco de micrófono" },
+      { label: "Luces", value: "RGB en panel superior y alrededor del woofer" },
+      { label: "Medidas / peso", value: "32 x 56,5 x 32 cm, 5,95 kg" },
     ],
     relatedProducts: ["MLA15733030", "MLA45615651"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Torre de Sonido Aiwa AW-T2018R: equipo de hogar con bluetooth, entrada auxiliar y función power bank. La opción premium entre las torres.",
+    seoTitle: "Torre Aiwa AW-T2018R: review, potencia y power bank",
+    metaDescription: "Torre de sonido Aiwa AW-T2018R: batería de 6 horas, power bank, 2 micrófonos y luces RGB. Para fiestas chicas y patio. Mirá la pega antes de comprar.",
+    verdict: "Para quien quiere una torre con batería para mover de la cocina al patio, hacer karaoke con dos micrófonos y cargar el celular en el camino, la Aiwa AW-T2018R cumple: 6 horas de autonomía, función power bank y 4.7 estrellas en 332 opiniones. Si buscás sonido de alta fidelidad o llenar un salón grande, no es para vos: es un woofer de 8 pulgadas pensado para ambientes chicos y medianos, y los 8000W que figuran son PMPO, un número inflado de marketing.",
+    pros: [
+      "Batería interna de hasta 6 horas: la movés sin enchufe entre cocina, patio y vereda",
+      "Función power bank real: carga el celular desde la misma torre",
+      "Dos entradas de micrófono con eco para karaoke, sin equipo extra",
+      "Bluetooth 5.0 más entrada auxiliar y USB para conectar de varias formas",
+      "Controles separados de graves y agudos para ajustar el sonido a mano",
+      "4.7 estrellas en 332 opiniones, con service y garantía de Aiwa en Argentina",
+    ],
+    cons: [
+      "Los 8000W son PMPO, un pico de marketing: la potencia real (RMS) es mucho menor y Aiwa no la publica",
+      "Un solo woofer de 8 pulgadas: alcanza para un ambiente o un patio, no para un salón grande",
+      "Mide 56,5 cm y pesa casi 6 kg: portátil para mover en casa, no para llevar al hombro",
+      "No confirma radio FM: si la querés con radio, fijate en la publicación antes de comprar",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+La Aiwa AW-T2018R es una torre de sonido con batería propia. La pensás para llevarla de la cocina al patio sin buscar enchufe: trae batería interna de 7,4V y 3600mAh, que da hasta 6 horas según el volumen.
+
+Es para una junta en casa, un asado, un cumpleaños chico. Un woofer de 8 pulgadas y un tweeter de 2 pulgadas mueven bien un ambiente o un patio. No es un equipo para llenar un salón de fiestas grande.
+
+## Las funciones que la diferencian
+
+Tres cosas la separan de un parlante común.
+
+La función power bank: carga el celular desde la misma torre, útil cuando estás afuera todo el día.
+
+Las dos entradas de micrófono con control de eco: enchufás los micrófonos y armás karaoke sin comprar nada aparte.
+
+El TWS (True Wireless): si conseguís dos unidades iguales, las emparejás para sonido estéreo. Con una sola no lo aprovechás.
+
+## La conectividad
+
+Conecta por Bluetooth 5.0, que es estable y de bajo consumo. Además tiene entrada auxiliar por cable y USB, así que la enchufás al teléfono, a la compu o a un pendrive.
+
+Trae controles separados de graves y agudos. No es un ecualizador completo, pero te deja subir el bajo o aclarar la voz a mano. Suma luces RGB en el panel de arriba y alrededor del woofer, más decorativas que otra cosa.
+
+## Lo que resignás
+
+Acá está la pega que importa. El número grande de la publicación, 8000W PMPO, es marketing. El PMPO es un pico teórico, no la potencia que entrega de verdad. La potencia real (RMS) es mucho menor y Aiwa no la publica para este modelo, así que tomá ese 8000 como un dato de folleto, no como sonido real.
+
+Lo otro es el tamaño del woofer: 8 pulgadas. Empuja bien un ambiente, pero no esperes que haga temblar un salón. Para eso necesitás una torre con woofer más grande o dos parlantes.
+
+## Portátil, pero con asterisco
+
+Tiene batería, sí, pero "portátil" tiene su letra chica. Mide 56,5 cm de alto y pesa 5,95 kg. La movés cómodo de un cuarto a otro o al patio. No es de las que te colgás al hombro para ir a la plaza.
+
+Pensala como una torre que no depende del enchufe dentro de casa, no como un parlante de mochila.
+
+## Para quién sí y para quién no
+
+Sí, si querés una torre con batería para mover por la casa, hacer karaoke con dos micrófonos y cargar el celular de paso. Para juntadas chicas y medianas, con marca que tiene service local, cumple.
+
+No, si buscás alta fidelidad para escuchar música con detalle, o si querés sonorizar un salón grande. En esos casos el woofer de 8 pulgadas se queda corto y vas a querer otra cosa.
+
+## Veredicto
+
+La AW-T2018R vale por lo práctico: batería de 6 horas, power bank, dos micrófonos y respaldo de Aiwa, con 4.7 estrellas en 332 opiniones. Es honesta para lo que es. Solo no te creas los 8000W: son PMPO, número de caja, no de parlante.`,
+    faq: [
+      {
+        question: "¿Cuántos watts reales tiene la Aiwa AW-T2018R?",
+        answer: "La publicación muestra 8000W PMPO, que es un pico de marketing, no la potencia real. La potencia continua (RMS) es mucho menor y Aiwa no la publica para este modelo. Tomá el 8000 como dato de folleto: alcanza para un ambiente o un patio, no para un salón grande.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Tiene batería interna recargable de 7,4V y 3600mAh, con hasta 6 horas de autonomía según el volumen al que la uses. A todo volumen dura menos. La idea es moverla por la casa o el patio sin enchufe.",
+      },
+      {
+        question: "¿Sirve para karaoke?",
+        answer: "Sí. Trae dos entradas de micrófono con control de eco, así que enchufás los micrófonos directo a la torre sin equipo extra. Los micrófonos no siempre vienen incluidos, fijate en la publicación.",
+      },
+      {
+        question: "¿La función power bank carga el celular de verdad?",
+        answer: "Sí, tiene función power bank: cargás el celular desde la misma torre con su batería interna. Útil cuando estás afuera y no tenés enchufe cerca.",
+      },
+      {
+        question: "¿Tiene radio FM?",
+        answer: "Aiwa no confirma radio FM en la ficha oficial de este modelo. Si la radio es importante para vos, revisá la publicación de MercadoLibre antes de comprar para no llevarte una sorpresa.",
+      },
+      {
+        question: "¿Conviene para un salón de fiestas grande?",
+        answer: "No. Tiene un solo woofer de 8 pulgadas, pensado para un ambiente o un patio. Para un salón grande te conviene una torre con woofer más grande o dos parlantes emparejados.",
+      },
+      {
+        question: "¿Es fácil de transportar?",
+        answer: "Mide 56,5 cm de alto y pesa 5,95 kg. La movés cómoda dentro de casa o hasta el patio, pero no es de las que te colgás al hombro para llevar lejos. La batería sirve para no depender del enchufe en casa.",
+      },
+    ],
   },
   // ─── Parlantes Stromberg (satélite parlante-stromberg) — via API ML (jun 2026), links propios de Juan ───
   {
@@ -1659,12 +5916,105 @@ export const curatedProducts: Product[] = [
       { label: "Resistencia", value: "IPX4 (salpicaduras y lluvia)" },
       { label: "Extra", value: "Bluetooth y radio FM" },
       { label: "Marca", value: "Stromberg" },
+      { label: "Potencia", value: "10W RMS (potencia real)" },
+      { label: "Parlantes", value: "2 drivers de 2 pulgadas" },
+      { label: "Batería", value: "Hasta 10 horas de reproducción" },
+      { label: "Conexiones", value: "Bluetooth, radio FM y entrada auxiliar 3,5 mm" },
+      { label: "Diseño", value: "Sistema 2 en 1 divisible con cierre magnético" },
+      { label: "Dimensiones", value: "20,5 x 8,5 x 8,5 cm" },
+      { label: "Peso", value: "640 g" },
     ],
     relatedProducts: ["MLA47305608", "MLA42652282"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante Stromberg Twin 2: dos parlantes en uno que se separan para sonido estéreo, IPX4 y radio FM. El Stromberg más vendido, con más de 400 calificaciones.",
+    seoTitle: "Parlante Stromberg Twin 2: 2 en 1 con FM, ¿vale?",
+    metaDescription: "Stromberg Twin 2: dos parlantes en uno que se separan para estéreo, 10W, FM y hasta 10 horas. Para quien quiere algo chico y barato. Lo que resignás, adentro.",
+    verdict: "Para quien quiere un parlante chico, barato y con la gracia de separarse en dos para sonido estéreo, el Stromberg Twin 2 cumple: 10W reales, radio FM, hasta 10 horas de batería y 4.8 estrellas en 405 calificaciones. Si buscás volumen para una fiesta, graves potentes o resistencia al agua real para la pileta, no es para vos: son 10W y dos parlantes de 2 pulgadas, pensados para una mesa o un baño, no para un patio lleno.",
+    pros: [
+      "El truco real: se divide en dos parlantes que se separan para sonido estéreo, con cierre magnético",
+      "Radio FM incorporada, algo que casi ningún parlante bluetooth de este precio trae",
+      "Hasta 10 horas de batería: aguanta un día de uso sin cargar",
+      "Entrada auxiliar de 3,5 mm: lo enchufás por cable si el bluetooth falla",
+      "Liviano (640 g) y compacto (20,5 cm): entra en una mochila sin pensarlo",
+      "4.8 estrellas en 405 calificaciones, el Stromberg 2 en 1 más elegido",
+    ],
+    cons: [
+      "10W reales y parlantes de 2 pulgadas: alcanza para una habitación o un baño, no para un patio o una fiesta",
+      "La publicación dice IPX5, pero el fabricante y la mayoría de las tiendas lo listan como IPX4: aguanta salpicaduras y lluvia, no sumergirlo",
+      "Sin graves contundentes: es sonido equilibrado y chico, no para quien busca que retumbe",
+      "Al separarlo, cada mitad suena más floja que el conjunto: el estéreo es lindo pero baja el volumen por lado",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Stromberg Twin 2 es un parlante bluetooth chico con un truco: son en realidad dos parlantes pegados con cierre magnético que se separan. Juntos suenan como una sola unidad; separados, uno a cada lado, te arman un estéreo en la mesa. Esa es toda la idea.
+
+Tiene 10W reales y dos parlantes de 2 pulgadas. Eso ubica al Twin 2 donde tiene que estar: una habitación, un baño, una cocina, un escritorio. Para acompañar mientras cocinás o te bañás, sobra. Para llenar un patio o una juntada con gente, no le da el cuero.
+
+## El truco de los dos en uno
+
+La gracia es separarlo. Cuando lo partís en dos y dejás cada mitad a un par de metros, el sonido se abre y se nota el efecto estéreo. Es el motivo por el que la gente lo elige y no a un parlante común del mismo precio.
+
+La contra: al separarlo, cada mitad suena más floja que el conjunto entero. El estéreo queda lindo pero perdés volumen por lado. Para una mesa tranquila está perfecto; si querés que se escuche fuerte, conviene dejarlo armado.
+
+## Lo que sí trae de más
+
+Dos cosas lo separan de la mayoría de los parlantes bluetooth baratos. Una es la radio FM incorporada: enciende y sintonizás, sin teléfono ni datos. Casi ningún parlante de este precio la trae todavía.
+
+La otra es la entrada auxiliar de 3,5 mm. Si el bluetooth se traba o querés conectar algo viejo por cable, lo enchufás y listo. Sumá la batería de hasta 10 horas y tenés un parlante que aguanta un día entero de uso sin buscar el cargador.
+
+## Lo que resignás
+
+Resignás potencia y graves. Son 10W: equilibrado y prolijo a volumen medio, pero sin esos bajos que retumban. Quien viene buscando que la música "pegue" se va a quedar corto. Es honesto: por este precio, nadie te da graves de equipo grande.
+
+También resignás resistencia al agua de verdad. La publicación dice IPX5, pero el fabricante y la mayoría de las tiendas lo listan como IPX4. La diferencia importa: IPX4 aguanta salpicaduras y lluvia, no que lo metas bajo el chorro ni en la pileta. Tratalo como resistente, no como sumergible.
+
+## La contra real
+
+La más concreta es la potencia. 10W y dos parlantes de 2 pulgadas son para espacios chicos. Si tu plan es música para una previa, un asado o un patio, este parlante te va a quedar chico y vas a terminar subiéndolo al máximo, donde el sonido se ensucia.
+
+La segunda es el dato de resistencia al agua que no coincide entre la publicación y el fabricante. No es para asustarse, pero conviene saberlo antes: usalo cerca del agua, no dentro.
+
+## Para quién sí y para quién no
+
+Sí: querés algo chico, barato y portátil para una habitación, el baño o el escritorio; te copa el detalle de separarlo en dos para estéreo; valorás tener radio FM y entrada por cable.
+
+No: buscás volumen para fiestas o exteriores; querés graves potentes; necesitás un parlante para meter en la pileta o bajo la lluvia fuerte. Para eso hay parlantes más grandes y con IPX más alto.
+
+## Veredicto
+
+El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de los dos en uno y radio FM, a un precio accesible. Las 4.8 estrellas en 405 calificaciones lo respaldan como el 2 en 1 más elegido de la marca. Sabiendo que son 10W y que el agua aguanta salpicaduras y no inmersión, es una compra clara para uso de interior y portátil. Si tu uso es de patio o fiesta, mirá el Stromberg Mega Twin, que es la versión grande con más potencia.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el Stromberg Twin 2?",
+        answer: "10W RMS (potencia real), repartidos en dos parlantes de 2 pulgadas. Alcanza para una habitación, un baño o un escritorio; para un patio o una fiesta se queda corto.",
+      },
+      {
+        question: "¿El Stromberg Twin 2 es resistente al agua?",
+        answer: "El fabricante y la mayoría de las tiendas lo listan como IPX4: aguanta salpicaduras y lluvia, pero no sumergirlo. Algunas publicaciones dicen IPX5; tratalo como resistente, no como sumergible.",
+      },
+      {
+        question: "¿Cuánto dura la batería del Twin 2?",
+        answer: "Hasta 10 horas de reproducción continua. Aguanta un día de uso normal sin cargar.",
+      },
+      {
+        question: "¿Tiene radio FM?",
+        answer: "Sí, trae radio FM incorporada. Sintonizás sin teléfono ni datos, algo que casi ningún parlante bluetooth de este precio incluye.",
+      },
+      {
+        question: "¿Cómo funciona el sistema 2 en 1?",
+        answer: "Son dos parlantes unidos por cierre magnético. Juntos suenan como una unidad; separados, uno a cada lado, te arman un efecto estéreo. Al separarlo baja el volumen por lado.",
+      },
+      {
+        question: "¿Se puede conectar por cable?",
+        answer: "Sí, tiene entrada auxiliar de 3,5 mm además del bluetooth. Útil si el bluetooth falla o querés conectar un equipo más viejo.",
+      },
+      {
+        question: "¿Conviene el Twin 2 o el Mega Twin?",
+        answer: "El Twin 2 es para espacios chicos (habitación, baño, escritorio). Si necesitás más potencia para un ambiente grande o exterior, el Stromberg Mega Twin es la versión grande con más volumen y carga USB-C.",
+      },
+    ],
   },
   {
     id: "MLA47305608",
@@ -1692,12 +6042,109 @@ export const curatedProducts: Product[] = [
       { label: "Resistencia", value: "IPX4 (salpicaduras)" },
       { label: "Extra", value: "Más potencia, carga USB-C" },
       { label: "Marca", value: "Stromberg" },
+      { label: "Potencia", value: "20W RMS (dos subwoofers de 3 pulgadas)" },
+      { label: "Batería", value: "Hasta 8 horas de autonomía (fabricante AR)" },
+      { label: "Conexiones", value: "Bluetooth, auxiliar 3.5mm y radio FM" },
+      { label: "Carga", value: "USB-C" },
+      { label: "Iluminación", value: "Sistema de luces RGB" },
+      { label: "Diseño", value: "2 en 1 divisible con cierre magnético" },
+      { label: "Dimensiones", value: "30 x 12 x 12 cm" },
+      { label: "Peso", value: "1,65 kg" },
     ],
     relatedProducts: ["MLA55886611", "MLA42652282"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante Stromberg Mega Twin: la versión grande del 2 en 1, más potencia para un ambiente, IPX4 y carga USB-C. Más de 200 calificaciones.",
+    seoTitle: "Stromberg Mega Twin: opinión del parlante 2 en 1 de 20W",
+    metaDescription: "Parlante Stromberg Mega Twin 2 en 1: 20W RMS, IPX4 y luces RGB. Para quien quiere sonido estéreo separable en casa o patio. Mirá la pega real antes de comprar.",
+    verdict: "Para quien quiere un parlante que se parte en dos para tener estéreo real en casa, el patio o un asado, el Mega Twin cumple: 20W RMS, dos subwoofers de 3 pulgadas, IPX4 contra salpicaduras y luces RGB, con 4.8 estrellas en 239 opiniones. No es para vos si buscás algo de bolsillo o batería de fiesta larga: pesa 1,65 kg, mide 30 cm y la autonomía ronda las 8 horas, menos que muchos competidores de su precio.",
+    pros: [
+      "20W RMS reales con dos subwoofers de 3 pulgadas: más cuerpo de graves que un parlante chico de bolsillo",
+      "Se separa en dos torres con cierre magnético para estéreo real, o se une en una sola pieza",
+      "IPX4: aguanta salpicaduras y la humedad de un patio o pileta, no que lo sumerjas",
+      "Carga por USB-C, el mismo cable del celular nuevo",
+      "Bluetooth, entrada auxiliar 3.5mm y radio FM incorporada",
+      "4.8 estrellas en 239 opiniones de MercadoLibre",
+    ],
+    cons: [
+      "Autonomía corta para el segmento: el fabricante declara hasta 8 horas en la página argentina (otras fuentes hablan de 11), por debajo de muchos rivales de precio similar",
+      "Pesa 1,65 kg y mide 30 cm: es transportable, no de bolsillo ni para llevar colgado",
+      "IPX4 es solo salpicaduras: no resiste inmersión ni un chapuzón en la pileta",
+      "20W RMS alcanzan para un ambiente o un patio chico, no para sonorizar una fiesta grande o un espacio abierto amplio",
+      "El fabricante no especifica micrófono ni manos libres: no des por hecho que atiende llamadas",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Stromberg Mega Twin es un parlante Bluetooth 2 en 1: una sola unidad que se parte en dos torres magnéticas para armar estéreo real. Es la versión grande del Twin de Stromberg, con más potencia y subwoofers de 3 pulgadas.
+
+Da 20W RMS de potencia real. Eso rinde para una habitación, un living o un patio chico. Para un asado en el fondo o música de fondo en una reunión, va bien. Para sonorizar una fiesta grande o un espacio abierto amplio, se queda corto.
+
+## Lo del 2 en 1: para qué sirve de verdad
+
+La gracia del Mega Twin es el cierre magnético que lo divide en dos. Separás las torres, una la ponés a un lado y otra al otro, y tenés sonido estéreo con separación real de canales. Para escuchar música con un poco más de ambiente, se nota.
+
+Cuando no lo necesitás separado, las dos mitades se enganchan con el imán y queda una sola pieza para transportar. Es la diferencia con un parlante mono común: ese formato 2 en 1 es lo que justifica el modelo.
+
+## Las funciones que trae
+
+Conecta por Bluetooth, pero también tiene entrada auxiliar de 3.5mm y radio FM incorporada. La FM es un plus que muchos parlantes nuevos ya no traen.
+
+Carga por USB-C, el mismo cable de un celular moderno. Suma luces RGB, que es decoración más que función: si te gusta el efecto, está; si no, lo ignorás.
+
+Tiene certificación IPX4: aguanta salpicaduras y humedad. Sirve para el patio, la pileta o un baño. Lo que no podés hacer es sumergirlo ni que le caiga un chorro fuerte.
+
+## Lo que resignás
+
+La batería es el punto débil. La página argentina del fabricante declara hasta 8 horas de autonomía; otras fuentes hablan de hasta 11. En cualquier caso, queda por debajo de varios parlantes de precio parecido que llegan a 20 horas o más. Si querés que dure toda una jornada larga sin enchufe, tenelo en cuenta.
+
+El otro punto es el tamaño. Mide 30 x 12 x 12 cm y pesa 1,65 kg. Es transportable de un ambiente a otro o para llevarlo a un encuentro, pero no es de bolsillo ni para colgarte y salir a caminar. Es un parlante de casa que también podés mover.
+
+## La contra real
+
+IPX4 marca el límite. Es resistencia a salpicaduras, no a inmersión. Para la pileta sirve si está cerca y le salta agua, pero no lo tires adentro. Mucha gente confunde resistente al agua con sumergible: acá no lo es.
+
+Sobre llamadas: el fabricante no especifica micrófono ni manos libres para el Mega Twin. Si lo querés también para atender el teléfono, no lo des por hecho.
+
+## Para quién sí y para quién no
+
+Sí, si querés un parlante para casa, patio o asado que se parta en dos y dé estéreo real, con graves de cuerpo y a prueba de salpicaduras. Las 4.8 estrellas en 239 opiniones respaldan que cumple lo que promete.
+
+No, si buscás algo de bolsillo para llevar siempre encima, batería de fiesta larga sin enchufe, o un parlante sumergible para meter en la pileta.
+
+## Veredicto
+
+El Mega Twin es un parlante de ambiente honesto: 20W reales, formato 2 en 1 que de verdad usás, IPX4 y USB-C, por buen precio. La autonomía de 8 horas y el peso de 1,65 kg son su techo. Si entrás sabiendo eso, es una compra sólida para casa y patio.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el Stromberg Mega Twin?",
+        answer: "20W RMS de potencia real, repartidos en dos subwoofers de 3 pulgadas. Alcanza para un ambiente, un living o un patio chico; para una fiesta grande o un espacio abierto amplio se queda corto.",
+      },
+      {
+        question: "¿De verdad se separa en dos parlantes?",
+        answer: "Sí. Tiene cierre magnético que divide la unidad en dos torres independientes para sonido estéreo real. Cuando no las necesitás separadas, se enganchan con el imán y queda una sola pieza para transportar.",
+      },
+      {
+        question: "¿Es resistente al agua? ¿Lo puedo meter en la pileta?",
+        answer: "Tiene IPX4, que es resistencia a salpicaduras y humedad, no a inmersión. Sirve para el patio o cerca de la pileta, pero no lo sumerjas ni le tires un chorro fuerte.",
+      },
+      {
+        question: "¿Cuántas horas de batería dura?",
+        answer: "La página argentina del fabricante declara hasta 8 horas de autonomía; otras fuentes mencionan hasta 11. En ambos casos queda por debajo de varios parlantes de precio similar que llegan a 20 horas, así que es su punto flojo.",
+      },
+      {
+        question: "¿Carga con USB-C?",
+        answer: "Sí, carga por USB-C, el mismo conector de un celular moderno. No necesitás un cable aparte si ya tenés uno de USB-C.",
+      },
+      {
+        question: "¿Tiene radio FM y entrada auxiliar?",
+        answer: "Sí. Además de Bluetooth, trae radio FM incorporada y entrada auxiliar de 3.5mm. La FM es un extra que muchos parlantes nuevos ya no incluyen.",
+      },
+      {
+        question: "¿Conviene el Mega Twin o el Twin 2 más chico?",
+        answer: "El Twin 2 es más chico (10W, 2 pulgadas, más liviano) y más barato, ideal si lo querés portátil. El Mega Twin da el doble de potencia (20W), subwoofers de 3 pulgadas y luces RGB, pero pesa 1,65 kg y es de casa más que de bolsillo. Elegí según si priorizás potencia o portabilidad.",
+      },
+    ],
   },
   {
     id: "MLA42652282",
@@ -1725,12 +6172,121 @@ export const curatedProducts: Product[] = [
       { label: "Resistencia", value: "IPX5 (resistente al agua)" },
       { label: "Extra", value: "Bluetooth y radio FM" },
       { label: "Marca", value: "Stromberg" },
+      { label: "Potencia", value: "20 W" },
+      { label: "Parlantes", value: "2 woofers de 2,25 pulgadas" },
+      { label: "Batería", value: "Hasta 10 horas (al 50% de volumen)" },
+      { label: "Carga", value: "USB 5V 1A" },
+      { label: "Conexiones", value: "Bluetooth, entrada auxiliar y radio FM" },
+      { label: "Resistencia", value: "IPX5 (salpicaduras y lluvia)" },
+      { label: "Luces", value: "LED RGB" },
+      { label: "Vinculación", value: "Stromberg Connect (dos parlantes)" },
     ],
     relatedProducts: ["MLA55886611", "MLA47305608"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Parlante Stromberg Burst 2: portátil compacto, resistente al agua (IPX5) con radio FM, el Stromberg más accesible. Más de 100 calificaciones.",
+    seoTitle: "Stromberg Burst 2: parlante 20W IPX5 con FM, opinión real",
+    metaDescription: "El Stromberg Burst 2 es un parlante portátil de 20W, IPX5 y radio FM para una habitación o la pileta. Specs reales, contras y para quién conviene.",
+    verdict: "Para quien quiere un parlante portátil barato que suene fuerte en una habitación, el patio o la pileta, el Burst 2 cumple: 20W, IPX5, radio FM y 4.7 estrellas en 113 opiniones. Si buscás sonido fiel para escuchar música con detalle, o llenar un fondo grande con gente, no es para vos: 20W rinden para un ambiente, no para una fiesta al aire libre.",
+    pros: [
+      "20W de potencia con dos woofers de 2,25 pulgadas: suena fuerte para su tamaño",
+      "IPX5: aguanta salpicaduras y lluvia, va bien al lado de la pileta",
+      "Radio FM incorporada: funciona sin celular ni internet",
+      "Hasta 10 horas de batería a 50% de volumen",
+      "Stromberg Connect: podés vincular dos Burst 2 para sonido estéreo",
+      "Marca argentina con respaldo: 4.7 estrellas en 113 opiniones",
+    ],
+    cons: [
+      "20W alcanzan para una habitación o un patio chico, no para llenar un fondo grande con gente",
+      "Carga por USB 5V 1A: es lento y es el conector viejo, no la carga rápida de hoy",
+      "Las luces LED RGB se ven, pero encendidas comen batería y bajan las 10 horas",
+      "IPX5 resiste salpicaduras, no sumergirlo: no es para meter al agua",
+      "Es un parlante de fiesta, no de audio fiel: prioriza volumen y graves sobre detalle",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Stromberg Burst 2 es un parlante portátil compacto de 20W. Es para quien quiere algo barato que suene fuerte en una habitación, el patio o la pileta.
+
+No es un equipo de audio fiel. Prioriza volumen y graves por sobre el detalle. Para escuchar música tranquilo y notar cada instrumento, no es el indicado.
+
+Trae dos woofers de 2,25 pulgadas. Para su tamaño, suena fuerte y con graves marcados. Cuesta 79.999 pesos y es el Stromberg más accesible.
+
+## Las funciones que sí usás
+
+Tres cosas lo separan de un parlante pelado.
+
+Primero, IPX5: aguanta salpicaduras y lluvia. Lo podés tener al lado de la pileta sin drama. No lo metas al agua, pero un chapuzón de gotas no lo mata.
+
+Segundo, radio FM incorporada. Funciona sin celular y sin internet. Para el que escucha radio o se queda sin datos, suma.
+
+Tercero, Stromberg Connect: vinculás dos Burst 2 y tenés sonido estéreo en dos puntos. Si pensás comprar de a dos, esto es real.
+
+## La batería y la carga
+
+La batería dura hasta 10 horas a 50% de volumen, según el fabricante. A todo volumen rinde menos.
+
+Acá está la primera pega: carga por USB 5V 1A. Es carga lenta y es el conector viejo. No esperes la carga rápida de un parlante moderno.
+
+Las luces LED RGB son lindas pero también comen batería. Si las dejás bailando todo el tiempo, las 10 horas bajan.
+
+## Lo que resignás por el precio
+
+A 79.999 pesos, algo se deja en el camino.
+
+Los 20W alcanzan para un ambiente o un patio chico. No esperes llenar un fondo grande con mucha gente: ahí se queda corto.
+
+El sonido es de fiesta, no de estudio. Graves marcados, volumen alto, pero sin la fidelidad de un parlante de gama alta.
+
+La carga 5V 1A y el conector viejo son el recordatorio de que es la opción económica de la marca.
+
+## La contra real
+
+Es un parlante para volumen, no para detalle. Si venís de auriculares buenos o un equipo fiel, vas a notar que prioriza graves y fuerza por sobre la nitidez.
+
+Y el alcance es de una habitación. Para una fiesta grande al aire libre, 20W no dan. Ahí conviene vincular dos por Stromberg Connect, o ir directo a un modelo más potente.
+
+## Para quién sí y para quién no
+
+Sí: si querés un parlante barato, resistente al agua, para la pileta, el patio o llevar a todos lados. La radio FM y las luces son un plus concreto.
+
+No: si buscás sonido fiel para escuchar música con detalle, o potencia para una fiesta grande. Para eso, 20W se quedan cortos.
+
+## Veredicto
+
+El Burst 2 hace bien lo que promete: parlante portátil barato, fuerte para su tamaño, resistente al agua, con FM. Las 4.7 estrellas en 113 opiniones lo respaldan.
+
+Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta más que fiel. Si eso te sirve, por el precio anda bien.`,
+    faq: [
+      {
+        question: "¿Cuántos watts tiene el Stromberg Burst 2?",
+        answer: "Tiene 20W de potencia, con dos woofers de 2,25 pulgadas. Alcanza para una habitación o un patio chico; para una fiesta grande al aire libre se queda corto.",
+      },
+      {
+        question: "¿Cuánto dura la batería del Burst 2?",
+        answer: "Hasta 10 horas al 50% de volumen, según el fabricante. A todo volumen y con las luces LED encendidas rinde menos.",
+      },
+      {
+        question: "¿El Stromberg Burst 2 es resistente al agua?",
+        answer: "Tiene certificación IPX5: aguanta salpicaduras y lluvia, así que va bien al lado de la pileta. No es para sumergirlo en el agua.",
+      },
+      {
+        question: "¿Tiene radio FM?",
+        answer: "Sí, trae radio FM incorporada. Funciona sin celular ni internet, lo que suma si escuchás radio o te quedás sin datos.",
+      },
+      {
+        question: "¿Cómo se carga el Burst 2?",
+        answer: "Por USB con entrada de 5V 1A. Es carga lenta y el conector viejo, no la carga rápida de los parlantes más nuevos.",
+      },
+      {
+        question: "¿Se pueden conectar dos parlantes Burst 2?",
+        answer: "Sí, con la tecnología Stromberg Connect vinculás dos Burst 2 para tener sonido estéreo en dos puntos. Útil si pensás comprar de a dos.",
+      },
+      {
+        question: "¿Conviene el Burst 2 o uno más potente?",
+        answer: "El Burst 2 conviene si querés algo barato para una habitación, el patio o la pileta. Si necesitás llenar un fondo grande con gente, mejor ir a un modelo de más watts o vincular dos por Stromberg Connect.",
+      },
+    ],
   },
   // ─── Auriculares (satélite/pilar auriculares-inalambricos, silo audio) — via API ML, links propios de Juan ───
   {
@@ -1759,12 +6315,107 @@ export const curatedProducts: Product[] = [
       { label: "Conexión", value: "Bluetooth 5.4" },
       { label: "Marca", value: "Xiaomi" },
       { label: "Ideal para", value: "El más vendido y barato, uso diario" },
+      { label: "Driver", value: "Dinámico de 10 mm" },
+      { label: "Bluetooth", value: "5.4 (codecs SBC y AAC)" },
+      { label: "Batería auriculares", value: "Hasta 7,5 horas" },
+      { label: "Batería total con estuche", value: "Hasta 36 horas" },
+      { label: "Carga", value: "USB-C (10 min = ~2 h de uso)" },
+      { label: "Resistencia al agua", value: "IPX4 (sudor y lluvia liviana, no sumergibles)" },
+      { label: "Cancelación de ruido", value: "Solo en llamadas (ENC/IA), sin ANC" },
+      { label: "Peso", value: "3,6 g por auricular" },
+      { label: "Controles", value: "Táctiles" },
+      { label: "Modo baja latencia", value: "~80 ms (pleno en Android/Xiaomi)" },
     ],
     relatedProducts: ["MLA28026305", "MLA23138487"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares Xiaomi Redmi Buds 6 Play: in-ear inalámbricos, los más vendidos de Argentina (más de 85.000 calificaciones) a precio bajísimo. La compra segura para uso diario.",
+    seoTitle: "Xiaomi Redmi Buds 6 Play: el TWS barato más vendido",
+    metaDescription: "Análisis honesto de los Xiaomi Redmi Buds 6 Play: para quien quiere auriculares inalámbricos baratos para el día a día. Sin cancelación de ruido. 4.8 en 85.000 opiniones.",
+    verdict: "Para quien quiere auriculares inalámbricos baratos, sin complicarse: los Redmi Buds 6 Play son el TWS más vendido de Argentina (4.8 en más de 85.000 opiniones) por poco más de 23 lucas. Conexión Bluetooth 5.4, 36 horas de batería con el estuche y resistencia al sudor. Si buscás cancelación de ruido para el colectivo o el subte, no es para vos: no tienen ANC, solo reducción de ruido en las llamadas. Y si tenés iPhone, perdés el modo de baja latencia para jugar.",
+    pros: [
+      "El TWS más vendido de Argentina: 4.8 estrellas en más de 85.000 opiniones",
+      "Precio bajísimo para auriculares inalámbricos de marca conocida",
+      "Hasta 36 horas de batería sumando el estuche (7,5 horas los auriculares solos)",
+      "Bluetooth 5.4: conexión estable y carga por USB-C (10 minutos dan unas 2 horas)",
+      "Resistencia IPX4: aguantan sudor y lluvia liviana, sirven para entrenar",
+      "Driver de 10 mm y solo 3,6 gramos por auricular",
+    ],
+    cons: [
+      "No tienen cancelación activa de ruido (ANC): el ruido del colectivo o la calle se escucha igual",
+      "La reducción de ruido es solo para las llamadas (ENC), no para escuchar música",
+      "El modo de baja latencia para jugar funciona pleno en celulares Xiaomi/Android; con iPhone queda limitado",
+      "IPX4 cubre el sudor y la lluvia, pero no son sumergibles ni sirven para la ducha; el estuche no es resistente al agua",
+      "Codecs SBC y AAC: sonido correcto para el precio, no es para oído exigente",
+    ],
+    articleBody: `## Qué son y para quién alcanzan
+
+Los Redmi Buds 6 Play son los auriculares inalámbricos más vendidos de Argentina: 4.8 estrellas en más de 85.000 opiniones, por poco más de 23 lucas. Son in-ear TWS (cada auricular suelto, con estuche de carga) de la línea más económica de Xiaomi.
+
+Son para uso diario: escuchar música en el celular, atender llamadas, ver videos, salir a caminar. Si nunca tuviste inalámbricos y querés probar sin gastar, son la entrada lógica. Marca conocida, precio de los más bajos del mercado.
+
+## Las funciones clave
+
+Conexión Bluetooth 5.4, la versión más nueva: emparejamiento rápido y conexión estable. Driver de 10 mm, que es grande para esta gama. Cada auricular pesa 3,6 gramos, así que casi no los sentís.
+
+La batería es el punto fuerte. Hasta 7,5 horas los auriculares solos y hasta 36 horas sumando las cargas del estuche. El estuche carga por USB-C y con 10 minutos enchufado te da unas 2 horas de uso. Controles táctiles en cada auricular.
+
+## Lo que resignás por el precio
+
+No tienen cancelación activa de ruido. Eso es lo primero que conviene tener claro. Los "Play" son la versión más barata de la línea: el ANC está en los Redmi Buds 6 normales, no en estos.
+
+Lo que sí traen es reducción de ruido por IA, pero solo para las llamadas (ENC): el que está del otro lado te escucha más limpio. Para escuchar música, el ruido de afuera entra igual, salvo lo que tape la goma del auricular.
+
+## La contra real: ruido y latencia
+
+Si tu plan era ponértelos en el colectivo o el subte para aislarte, no es el producto. Sin ANC, el ruido ambiente se cuela. Para eso hay que subir de gama.
+
+La otra pega es la latencia. Traen un modo de baja latencia (cerca de 80 ms) que sirve para jugar y mirar video sincronizado, pero rinde pleno en celulares Xiaomi y Android. Con iPhone queda limitado porque Apple bloquea esos ajustes de marca. Además hay que activar el modo cada vez que los conectás.
+
+## Resistencia al agua: hasta dónde
+
+Tienen certificación IPX4. Aguantan sudor y lluvia liviana, así que para entrenar o salir a correr van bien. Pero no son sumergibles: nada de ducha, pileta ni agua caliente. Y ojo, la protección es de los auriculares, no del estuche de carga.
+
+## Para quién sí y para quién no
+
+Sí: si querés tus primeros inalámbricos, gastar poco, y los vas a usar para el día a día (música, llamadas, caminar, entrenar liviano). Por el precio y con 85.000 opiniones de respaldo, es la compra segura.
+
+No: si buscás cancelación de ruido para viajar, si sos exigente con el sonido, o si tenés iPhone y querés el modo de baja latencia para jugar. En esos casos conviene subir a un modelo con ANC.
+
+## Veredicto
+
+El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bluetooth 5.4, 36 horas con el estuche y resistencia al sudor cubren el uso diario sin drama. La contra es clara y vale repetirla: no aíslan del ruido (no tienen ANC) y el modo de baja latencia es para Android/Xiaomi. Sabiendo eso, por el precio no hay mucho con qué discutir.`,
+    faq: [
+      {
+        question: "¿Los Redmi Buds 6 Play tienen cancelación de ruido?",
+        answer: "No tienen cancelación activa de ruido (ANC) para escuchar música. Traen reducción de ruido por IA pero solo para las llamadas (ENC): mejora cómo te escucha el otro, no aísla el ruido de afuera mientras escuchás. Si querés ANC, hay que subir de gama.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Hasta 7,5 horas los auriculares solos y hasta 36 horas sumando las cargas del estuche. El estuche carga por USB-C y con 10 minutos enchufado te da unas 2 horas de uso.",
+      },
+      {
+        question: "¿Sirven para hacer deporte o se mojan con el sudor?",
+        answer: "Tienen certificación IPX4: aguantan sudor y lluvia liviana, así que para entrenar o correr van bien. No son sumergibles: nada de ducha ni pileta. La protección es de los auriculares, no del estuche.",
+      },
+      {
+        question: "¿Funcionan con iPhone?",
+        answer: "Sí, se conectan por Bluetooth 5.4 con cualquier celular. Pero el modo de baja latencia para jugar rinde pleno en celulares Xiaomi y Android; con iPhone queda limitado porque Apple bloquea esos ajustes de marca.",
+      },
+      {
+        question: "¿Sirven para jugar sin retardo en el audio?",
+        answer: "Traen un modo de baja latencia de cerca de 80 ms que ayuda con juegos y video. Hay que activarlo cada vez que los conectás y funciona mejor en celulares Xiaomi/Android. Para un jugador exigente no es lo ideal, pero para uso casual cumple.",
+      },
+      {
+        question: "¿Conviene el Play o el Redmi Buds 6 normal?",
+        answer: "El Play es la versión más barata y no tiene cancelación de ruido. El Redmi Buds 6 normal sí trae ANC para aislarte en el colectivo o el subte. Si solo querés inalámbricos baratos para el día a día, el Play alcanza; si buscás bloquear el ruido ambiente, pagá la diferencia por los normales.",
+      },
+      {
+        question: "¿Son buenos por el precio?",
+        answer: "Son los más vendidos de Argentina con 4.8 estrellas en más de 85.000 opiniones, a poco más de 23 lucas. Para uso diario (música, llamadas, caminar) cumplen y la marca responde. No esperes calidad de sonido de gama alta ni aislamiento del ruido.",
+      },
+    ],
   },
   {
     id: "MLA23138487",
@@ -1792,12 +6443,106 @@ export const curatedProducts: Product[] = [
       { label: "Batería", value: "Hasta 50 horas" },
       { label: "Marca", value: "Sony" },
       { label: "Ideal para", value: "La mejor vincha, comodidad y duración" },
+      { label: "Drivers", value: "30 mm" },
+      { label: "Bluetooth", value: "5.2 (SBC, AAC)" },
+      { label: "Carga", value: "USB-C, completa en 3 h; 3 min = 90 min de uso" },
+      { label: "Peso", value: "147 gramos" },
+      { label: "Respuesta de frecuencia", value: "20 Hz - 20.000 Hz" },
+      { label: "Cancelación de ruido", value: "No tiene (solo aislamiento pasivo)" },
+      { label: "Entrada de cable", value: "No (sin jack 3,5 mm)" },
+      { label: "Multipoint", value: "Sí, 2 equipos a la vez" },
     ],
     relatedProducts: ["MLA53285777", "MLA39962085"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares Sony WH-CH520: vincha inalámbrica con hasta 50 horas de batería, la más vendida del segmento (más de 13.000 calificaciones). Comodidad y autonomía por buen precio.",
+    seoTitle: "Sony WH-CH520: la vincha barata de 50 horas, ¿conviene?",
+    metaDescription: "Sony WH-CH520: vincha Bluetooth con 50 horas de batería y app con ecualizador. Buena para uso diario sin gastar de más. No tiene cancelación de ruido ni cable.",
+    verdict: "Para quien quiere una vincha Sony barata para el día a día, escuchar música, podcasts y atender llamadas, la WH-CH520 cumple: 50 horas de batería reales, 147 gramos, app con ecualizador y 4.8 estrellas en más de 13.000 opiniones. Si buscás cancelación activa de ruido para el colectivo o la oficina, o querés conectarla por cable, no es para vos: no tiene ninguna de las dos cosas.",
+    pros: [
+      "50 horas de batería con una carga, de lo mejor del segmento; con 3 minutos de carga rinde 90 minutos",
+      "Liviana: 147 gramos, se banca usarla varias horas seguidas",
+      "App Sony Headphones Connect con ecualizador y presets para ajustar graves y agudos",
+      "Multipoint: se conecta a dos equipos a la vez (celu y compu) y cambia entre ellos",
+      "Bluetooth 5.2 con códecs SBC y AAC, conexión estable",
+      "Respaldo de marca con service local y 4.8 estrellas en más de 13.000 opiniones",
+    ],
+    cons: [
+      "No tiene cancelación activa de ruido: solo aísla por las almohadillas, poco en ambientes ruidosos",
+      "Es on-ear (apoya sobre la oreja, no la envuelve): a algunos les molesta después de muchas horas",
+      "No trae entrada de 3,5 mm: si se queda sin batería, no la usás por cable",
+      "Sin códec de alta resolución (no hay LDAC ni aptX), suena bien pero no es para audiófilos",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+La Sony WH-CH520 es una vincha inalámbrica de entrada de gama. Pensada para uso diario: música, podcasts, videos y llamadas. No es la vincha premium de Sony (esa es la línea WH-1000X), es la opción barata que prioriza batería y comodidad sobre sonido de estudio.
+
+Para una persona que quiere salir de los auriculares in-ear y pasarse a una vincha sin gastar mucho, alcanza y sobra. Para quien busca aislarse del ruido del afuera o sonido de alta fidelidad, se queda corta.
+
+## La batería es el punto fuerte
+
+Hasta 50 horas con una sola carga. Es de lo mejor que vas a encontrar en este precio. La cargás un fin de semana y la usás toda la semana sin pensar en el cable.
+
+Suma carga rápida por USB-C: 3 minutos de carga te dan 90 minutos de uso. La carga completa tarda unas 3 horas. Si sos de los que siempre se olvida de cargar, este punto te salva.
+
+## Liviana y con app
+
+Pesa 147 gramos. Es liviana y se banca usarla varias horas. Trae la app Sony Headphones Connect, donde podés ajustar el ecualizador, elegir presets y tocar graves y agudos a gusto. No todas las vinchas baratas tienen app, este es un plus real de Sony.
+
+Tiene multipoint: la conectás al celular y a la compu al mismo tiempo, y cambia sola entre los dos. Bluetooth 5.2, con códecs SBC y AAC. Micrófono para llamadas manos libres.
+
+## Lo que resignás
+
+Suena bien para el precio, pero no esperes sonido de audiófilo. No tiene LDAC ni aptX, los códecs de alta resolución que sí traen modelos más caros. Para Spotify, YouTube y llamadas está perfecta. Para escuchar música en alta calidad con detalle, no es la herramienta.
+
+El diseño es on-ear: las almohadillas apoyan sobre la oreja, no la envuelven como una over-ear. Es más compacta y liviana, pero a algunas personas el apoyo directo les molesta después de muchas horas.
+
+## La contra real
+
+Dos cosas que conviene saber antes de comprar. Primero: no tiene cancelación activa de ruido. Solo aísla con las almohadillas, que en un colectivo, un tren o una oficina ruidosa no te van a tapar el ambiente. Si lo que buscás es silencio, este no es el modelo.
+
+Segundo: no trae entrada de 3,5 mm. Es 100% inalámbrica. Si se queda sin batería, te quedás sin auriculares hasta que cargue. No hay plan B por cable.
+
+## Para quién sí y para quién no
+
+Sí, si querés una vincha Sony liviana, con batería que dura una eternidad y app para ajustar el sonido, para uso diario sin gastar de más. Andan bien para casa, para caminar, para trabajar en un lugar tranquilo.
+
+No, si necesitás cancelación de ruido para aislarte en transporte o oficina, si querés sonido de alta resolución, o si valorás poder enchufarla por cable cuando se queda sin batería. Para eso hay modelos como la JBL Tune 770NC (con cancelación) o gamas superiores.
+
+## Veredicto
+
+La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería brutal y app de Sony. El respaldo de 4.8 estrellas en más de 13.000 opiniones lo confirma. Entrás sabiendo que resignás cancelación de ruido y cable, y a ese precio el trato es justo.`,
+    faq: [
+      {
+        question: "¿La Sony WH-CH520 tiene cancelación de ruido?",
+        answer: "No. No tiene cancelación activa de ruido. Solo aísla de forma pasiva con las almohadillas, que en ambientes ruidosos como un colectivo o una oficina no alcanzan a tapar el sonido del afuera. Si buscás cancelación, mirá modelos como la JBL Tune 770NC.",
+      },
+      {
+        question: "¿Cuántas horas de batería tiene?",
+        answer: "Hasta 50 horas con una sola carga, de lo mejor del segmento. Además tiene carga rápida: 3 minutos de carga por USB-C te dan 90 minutos de uso. La carga completa tarda unas 3 horas.",
+      },
+      {
+        question: "¿Se puede usar con cable?",
+        answer: "No. La WH-CH520 es 100% inalámbrica y no trae entrada de 3,5 mm. Si se queda sin batería, no la podés usar hasta que cargue. No hay opción de cable.",
+      },
+      {
+        question: "¿Es on-ear o over-ear?",
+        answer: "Es on-ear: las almohadillas apoyan sobre la oreja, no la envuelven como una over-ear. Por eso es más compacta y liviana (147 gramos), aunque a algunas personas el apoyo directo les incomoda tras muchas horas de uso.",
+      },
+      {
+        question: "¿Se conecta a dos dispositivos a la vez?",
+        answer: "Sí, tiene multipoint. La podés conectar al celular y a la computadora al mismo tiempo y cambia sola entre los dos. Usa Bluetooth 5.2 con códecs SBC y AAC.",
+      },
+      {
+        question: "¿Sirve para llamadas?",
+        answer: "Sí, tiene micrófono integrado para llamadas manos libres y es compatible con asistentes de voz como Google Assistant y Siri. Para llamadas y videollamadas en lugares tranquilos cumple bien.",
+      },
+      {
+        question: "¿Conviene la WH-CH520 o gastar un poco más?",
+        answer: "Si querés una vincha liviana, batería que dura muchísimo y app de Sony para uso diario, la WH-CH520 es una compra sólida a su precio. Si necesitás cancelación de ruido o sonido de alta resolución, conviene saltar a un modelo superior; vas a pagar bastante más.",
+      },
+    ],
   },
   {
     id: "MLA38451794",
@@ -1824,12 +6569,111 @@ export const curatedProducts: Product[] = [
       { label: "Tipo", value: "In-ear premium (TWS) con cancelación de ruido" },
       { label: "Marca", value: "Samsung" },
       { label: "Ideal para", value: "Premium, mejor sonido y cancelación" },
+      { label: "Drivers", value: "Doble por auricular: dinámico de 10,5 mm + planar de 6,1 mm, con amplificador independiente" },
+      { label: "Cancelación de ruido", value: "Activa adaptativa, con modo sonido ambiente y 360 audio" },
+      { label: "Bluetooth", value: "5.4" },
+      { label: "Resistencia", value: "IP57 (sudor, polvo y agua)" },
+      { label: "Batería", value: "Hasta 6 h con ANC y 26 h con estuche (declarado); ~4 a 5 h reales con ANC" },
+      { label: "Peso por auricular", value: "5,4 g" },
+      { label: "Compatibilidad plena", value: "Funciones avanzadas requieren celular Samsung Galaxy reciente" },
     ],
     relatedProducts: ["MLA39962085", "MLA53285777"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares Samsung Galaxy Buds3 Pro: in-ear premium con cancelación activa de ruido y sonido de alta calidad. La opción de gama alta para quien busca lo mejor.",
+    seoTitle: "Samsung Galaxy Buds3 Pro: review honesto y para quién",
+    metaDescription: "Samsung Galaxy Buds3 Pro grafito: in-ear premium con ANC adaptativo e IP57. Brillan con celular Galaxy; en iPhone perdés funciones. Para quién sí y para quién no.",
+    verdict: "Para quien tiene un celular Samsung Galaxy y quiere lo mejor en in-ear: doble driver (10,5 mm dinámico + 6,1 mm planar), cancelación de ruido adaptativa, IP57 y 4,8 estrellas en 827 opiniones. Si usás iPhone o un Android de otra marca, no es para vos: la mitad de la gracia (traducción en vivo, ajustes con IA, audio de alta calidad) queda atada al ecosistema Galaxy y la perdés.",
+    pros: [
+      "Doble driver por auricular (10,5 mm dinámico + 6,1 mm planar) con amplificador independiente: más detalle que un in-ear de un solo driver",
+      "Cancelación de ruido adaptativa que ajusta sola según el ambiente, más sonido ambiente y 360 audio",
+      "IP57: aguanta sudor, lluvia y hasta una mojada corta, sirve para entrenar",
+      "Bluetooth 5.4 y estuche con carga total de hasta 26 horas con ANC encendido",
+      "Respaldo de marca con service en Argentina y 4,8 estrellas en 827 opiniones",
+    ],
+    cons: [
+      "Las funciones que lo hacen Pro (traducción en vivo, ajustes con IA, códec de alta calidad) requieren un celular Samsung Galaxy reciente; en iPhone o en otro Android quedan capadas",
+      "La cancelación de ruido cancela bien pero varios análisis la ubican por debajo del modelo anterior (Buds2 Pro)",
+      "En uso real con ANC la batería rinde cerca de 4 a 5 horas por carga, menos que las 6 que figuran en la ficha",
+      "No tiene carga rápida declarada por Samsung",
+      "La pad de silicona puede quedar floja en algunas orejas: si no calza justa, baja la cancelación; conviene probar los tres tamaños",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+Los Samsung Galaxy Buds3 Pro son el in-ear de gama alta de Samsung. Auriculares true wireless con cancelación activa de ruido, doble driver por oído y certificación IP57. La versión de esta publicación es la grafito.
+
+Tienen 4,8 estrellas en 827 opiniones. Son para quien ya está en el mundo Samsung y quiere el tope de gama en auriculares chicos.
+
+Si usás iPhone o un Android que no sea Galaxy, frená. Funcionan, pero perdés buena parte de lo que pagás.
+
+## El sonido: doble driver, no uno
+
+Acá está la diferencia con un in-ear común. Cada auricular trae dos parlantes: un driver dinámico de 10,5 mm para los graves y uno planar de 6,1 mm para los agudos, cada uno con su amplificador.
+
+En la práctica eso da más separación y detalle que un in-ear de un solo driver. El sonido es la parte donde mejor parado sale en los análisis.
+
+## La cancelación de ruido
+
+Traen cancelación activa adaptativa: monitorea el ruido de afuera y ajusta sola la intensidad. Suman modo sonido ambiente y 360 audio para escuchar lo de alrededor cuando lo necesitás.
+
+La pega honesta: cancelan bien, pero varios análisis la ubican un escalón por debajo del modelo anterior, los Buds2 Pro. No es la mejor cancelación del mercado, es buena.
+
+## Lo que resignás
+
+Dos cosas concretas.
+
+Primero, la batería real. Samsung declara 6 horas con ANC encendido, pero en pruebas el rinde cae a 4 o 5 horas por carga. El estuche suma hasta 26 horas en total. No tiene carga rápida declarada.
+
+Segundo, el ajuste. La pad de silicona queda algo floja en algunas orejas. Si no calza justa, baja la cancelación. Vienen tres tamaños de pad, conviene probar los tres antes de quejarte.
+
+## La contra real: están casados con Samsung
+
+Esto es lo que más hay que entender antes de comprar. Las funciones que justifican el precio Pro están atadas al ecosistema Galaxy.
+
+La traducción en vivo, los ajustes de ecualizador y cancelación con IA y el códec de alta calidad necesitan un celular Samsung Galaxy reciente con la app Galaxy Wearable. En iPhone andan como auriculares Bluetooth normales: muchas funciones avanzadas no corren. En un Android de otra marca, lo mismo a medias.
+
+Comprás el tope de gama de Samsung pensado para usarse con un teléfono Samsung.
+
+## Para quién sí y para quién no
+
+Sí, si tenés un Galaxy reciente y querés lo mejor en in-ear: doble driver, IP57 para entrenar y la cancelación adaptativa con IA andando completa.
+
+No, si usás iPhone u otro Android: pagás de más por funciones que no vas a poder usar. En ese caso conviene un in-ear o una vincha que dé toda su gracia en cualquier celular.
+
+## Veredicto
+
+Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el sudor. Pero el precio se justifica con un Galaxy al lado. Con iPhone o con otro Android, mucho de lo que pagás queda apagado.`,
+    faq: [
+      {
+        question: "¿Los Galaxy Buds3 Pro funcionan con iPhone?",
+        answer: "Se conectan y suenan, pero como auriculares Bluetooth normales. Las funciones avanzadas (traducción en vivo, ajustes con IA, el códec de alta calidad) necesitan un celular Samsung Galaxy y no corren en iPhone. Si usás iPhone, pagás de más por algo que no vas a aprovechar.",
+      },
+      {
+        question: "¿Tienen cancelación de ruido?",
+        answer: "Sí, cancelación activa adaptativa que ajusta sola según el ruido de afuera, más modo sonido ambiente. Cancela bien, aunque varios análisis la ubican un escalón por debajo del modelo anterior, los Buds2 Pro.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Samsung declara hasta 6 horas con cancelación encendida y hasta 26 horas sumando el estuche. En uso real con ANC el rinde cae a 4 o 5 horas por carga. No tiene carga rápida declarada por Samsung.",
+      },
+      {
+        question: "¿Se pueden usar para hacer deporte o bajo la lluvia?",
+        answer: "Sí. Tienen certificación IP57: aguantan sudor, polvo y hasta una mojada corta. Sirven para entrenar y para la lluvia. No son para nadar.",
+      },
+      {
+        question: "¿Qué diferencia tienen con un in-ear más barato?",
+        answer: "El doble driver. Cada auricular trae dos parlantes (uno dinámico de 10,5 mm y uno planar de 6,1 mm) con amplificador independiente, lo que da más detalle y separación que un in-ear de un solo driver. El sonido es su punto más fuerte.",
+      },
+      {
+        question: "¿Conviene los Buds3 Pro o una vincha con cancelación como los JBL Tune 770NC?",
+        answer: "Depende del formato y del celular. Si tenés un Galaxy y querés algo chico que entre en el bolsillo, los Buds3 Pro. Si querés más horas de batería, más aislamiento por el formato over-ear y que ande igual en cualquier teléfono, una vincha como los JBL Tune 770NC cumple por bastante menos plata.",
+      },
+      {
+        question: "¿Son los Galaxy Buds3 Pro o los Buds3 normales?",
+        answer: "Esta ficha es de los Buds3 Pro, el tope de gama, con doble driver, cancelación adaptativa e IP57. Los Buds3 a secas son la versión más económica y resignan parte de la cancelación y del sistema de drivers.",
+      },
+    ],
   },
   {
     id: "MLA53285777",
@@ -1857,12 +6701,109 @@ export const curatedProducts: Product[] = [
       { label: "Función", value: "Cancelación activa de ruido (ANC)" },
       { label: "Marca", value: "JBL" },
       { label: "Ideal para", value: "Aislarte del ruido, viajes y oficina" },
+      { label: "Tipo", value: "Over-ear (vincha) cerrado con cancelación activa de ruido" },
+      { label: "Driver", value: "40 mm" },
+      { label: "Respuesta de frecuencia", value: "20 Hz - 20 kHz" },
+      { label: "Bluetooth", value: "5.3, con conexión a dos dispositivos (multipoint)" },
+      { label: "Codecs", value: "SBC y AAC (sin aptX ni LDAC)" },
+      { label: "Batería", value: "Hasta 70 h (ANC apagado) / 44 h (ANC activado)" },
+      { label: "Carga", value: "USB-C, 2 h carga completa; 5 min = 3 h de música" },
+      { label: "Peso", value: "232 gramos" },
+      { label: "Conexión con cable", value: "Entrada de 3.5 mm (cable auxiliar incluido)" },
+      { label: "Modos de sonido ambiente", value: "Ambient Aware y TalkThru" },
+      { label: "Diseño", value: "Plegable, plástico" },
+      { label: "Resistencia al agua", value: "No tiene" },
     ],
     relatedProducts: ["MLA23138487", "MLA38451794"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares JBL Tune 770NC: vincha over-ear con cancelación activa de ruido, ideal para viajes y oficina. Sonido JBL y buen aislamiento por precio medio.",
+    seoTitle: "JBL Tune 770NC: ANC y 70h de batería, ¿conviene?",
+    metaDescription: "Los JBL Tune 770NC son para quien quiere cancelación de ruido y autonomía larga sin pagar gama alta. Vincha de 232 g, 70 h y USB-C. La pega adentro.",
+    verdict: "Para quien quiere cancelación de ruido y autonomía larga sin pagar gama alta, los JBL Tune 770NC cierran: vincha liviana de 232 g, hasta 70 horas de batería (44 con ANC) y 4.8 estrellas en más de 1.000 opiniones. Si buscás la cancelación de un Sony o Bose, o usás anteojos muchas horas, no son para vos: el ANC es bueno pero no de élite y las almohadillas son chicas.",
+    pros: [
+      "Hasta 70 horas de batería (44 con cancelación de ruido activada); carga completa en 2 horas por USB-C",
+      "Carga rápida: 5 minutos enchufado dan 3 horas de música",
+      "Cancelación activa de ruido más modos Ambient Aware y TalkThru para escuchar el entorno sin sacártelos",
+      "Livianos: 232 gramos, plegables y con conexión a dos dispositivos a la vez (multipoint)",
+      "Traen cable auxiliar de 3.5 mm para usarlos con cable si se queda sin batería",
+      "4.8 estrellas en más de 1.000 opiniones de MercadoLibre",
+    ],
+    cons: [
+      "El ANC corta bien las voces y el zumbido parejo, pero flojea con los graves profundos (motores, aire acondicionado): queda por debajo de un Sony XM4 o Bose",
+      "Construcción de plástico: cumple para el precio, pero se siente menos premium que la gama alta",
+      "Almohadillas más chicas que el promedio: si usás anteojos muchas horas, pueden apretar",
+      "Solo codecs SBC y AAC: sin aptX ni LDAC, no es el mejor para audio de máxima calidad ni gaming de baja latencia",
+      "No tienen resistencia al agua: no son para entrenar ni para usar bajo lluvia",
+    ],
+    articleBody: `## Qué son y para qué alcanzan
+
+Los JBL Tune 770NC son auriculares de vincha (over-ear) con cancelación activa de ruido, pensados para aislarte en viajes, oficina o transporte sin gastar lo de un Sony o Bose. Son la gama media de JBL: traen lo importante (ANC, batería larga, multipoint) sin los lujos de la gama alta.
+
+Si tu uso es escuchar música, llamadas y aislarte del ruido de fondo varias horas por día, alcanzan de sobra. Si sos audiófilo o buscás la mejor cancelación del mercado, mirá más arriba.
+
+## La batería es el punto fuerte
+
+Acá ganan: hasta 70 horas con el ANC apagado y 44 horas con la cancelación prendida. Eso son varios días de uso entre cargas.
+
+La carga completa tarda 2 horas por USB-C. Y si te quedaste sin batería antes de salir, 5 minutos enchufado te dan 3 horas de música. Para viajar, es de lo mejor en su rango.
+
+## La cancelación de ruido: buena, no de élite
+
+El ANC es adaptativo y funciona bien con ruido parejo: voces de oficina, murmullo, el zumbido del colectivo. También traen modo Ambient Aware (para escuchar el entorno) y TalkThru (para charlar sin sacártelos).
+
+La pega: con los graves profundos (un motor, el aire acondicionado fuerte) deja pasar más que un Sony XM4 o un Bose. Cancela, pero no te encierra en silencio total. Para el precio está bien; no esperes el techo de la categoría.
+
+## Lo que resignás contra la gama alta
+
+Solo soportan codecs SBC y AAC. No traen aptX ni LDAC, así que para audio de máxima fidelidad o gaming de baja latencia hay opciones mejores. Para uso normal con celular no lo vas a notar.
+
+La construcción es de plástico. Cumple para lo que salen, pero se siente menos sólida que un auricular premium. Y no tienen ninguna resistencia al agua: no son para entrenar ni para la lluvia.
+
+## La contra real para quien usa anteojos
+
+Las almohadillas son más chicas que el promedio. Pesan poco (232 gramos) y son cómodos para la mayoría, pero si usás anteojos muchas horas seguidas, el calce más ajustado puede empujar las patillas contra la cabeza y molestar. Si pasás el día con lentes puestos, tenelo en cuenta.
+
+## Para quién sí y para quién no
+
+Sí: si querés cancelación de ruido decente, batería que dura días y un auricular liviano y plegable para viajes u oficina, sin pagar lo de la gama alta. La conexión a dos dispositivos a la vez suma para alternar entre la compu y el celu.
+
+No: si buscás la mejor cancelación posible (ahí van Sony o Bose), si sos audiófilo que necesita LDAC, o si los querés para entrenar (no resisten agua).
+
+## Veredicto
+
+Un auricular de gama media honesto. La batería y el precio son lo más fuerte; el ANC y los materiales son los que delatan que no es gama alta. Con 4.8 estrellas en más de 1.000 opiniones, es una compra segura para uso diario, siempre que tengas claro que el silencio total y el audio audiófilo no son su terreno.`,
+    faq: [
+      {
+        question: "¿Cuánto dura la batería del JBL Tune 770NC?",
+        answer: "Hasta 70 horas con la cancelación de ruido apagada y hasta 44 horas con el ANC prendido. La carga completa tarda 2 horas por USB-C y, con 5 minutos enchufado, conseguís 3 horas de música.",
+      },
+      {
+        question: "¿La cancelación de ruido es buena?",
+        answer: "Es buena para el precio. Corta bien voces y ruido parejo (oficina, colectivo), pero deja pasar más los graves profundos como motores o aire acondicionado. Queda por debajo de un Sony XM4 o un Bose, que son bastante más caros.",
+      },
+      {
+        question: "¿Sirven para hacer deporte o correr?",
+        answer: "No son la mejor opción. No tienen resistencia al agua ni al sudor, así que para entrenar conviene un auricular deportivo. Estos están pensados para viajes, oficina y uso diario.",
+      },
+      {
+        question: "¿Se pueden conectar a dos dispositivos a la vez?",
+        answer: "Sí, tienen multipoint: se conectan al celular y a la compu al mismo tiempo y cambian entre los dos. Usan Bluetooth 5.3.",
+      },
+      {
+        question: "¿Se pueden usar con cable si se quedan sin batería?",
+        answer: "Sí. Traen entrada de 3.5 mm, así que los podés enchufar con cable auxiliar cuando se agota la batería o si querés evitar el Bluetooth.",
+      },
+      {
+        question: "¿Conviene el JBL Tune 770NC o los Tune 520BT?",
+        answer: "El 770NC tiene cancelación activa de ruido y los 520BT no. Si lo que querés es aislarte del ruido, va el 770NC. Si solo buscás batería larga y precio más bajo sin ANC, los 520BT alcanzan.",
+      },
+      {
+        question: "¿Molestan si uso anteojos?",
+        answer: "Pueden. Las almohadillas son más chicas que el promedio y el calce ajustado a veces empuja las patillas de los anteojos. Para usos cortos no se nota; si pasás muchas horas con lentes, tenelo en cuenta.",
+      },
+    ],
   },
   {
     id: "MLA41255867",
@@ -1889,12 +6830,109 @@ export const curatedProducts: Product[] = [
       { label: "Tipo", value: "Deportivos con gancho de oreja (TWS)" },
       { label: "Sujeción", value: "Gancho, no se caen al correr" },
       { label: "Ideal para", value: "Deporte y correr, a buen precio" },
+      { label: "Bluetooth", value: "5.3, alcance hasta 10 m" },
+      { label: "Driver", value: "8 mm" },
+      { label: "Batería auricular", value: "60 mAh, hasta 7 horas de uso" },
+      { label: "Estuche de carga", value: "1200 mAh" },
+      { label: "Tiempo de carga", value: "Auricular 60 min, estuche 90 min" },
+      { label: "Controles", value: "Táctiles, con micrófono integrado" },
+      { label: "Conector de carga", value: "USB Tipo C" },
+      { label: "Compatibilidad", value: "Android, iOS, Windows" },
+      { label: "Contenido", value: "Estuche, 2 auriculares, cable USB-C y manual" },
+      { label: "Resistencia al agua", value: "Sin certificación IPX declarada por el fabricante" },
     ],
     relatedProducts: ["MLA39962085", "MLA28026305"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares deportivos Alpina F50 Pro: con gancho de oreja para que no se caigan al correr, inalámbricos y baratos. Más de 3.000 calificaciones, la opción deportiva.",
+    seoTitle: "Auriculares Alpina F50 Pro: gancho deportivo barato",
+    metaDescription: "Los Alpina F50 Pro son auriculares deportivos con gancho de oreja a 24.875 pesos. Para quien corre y quiere algo barato que no se caiga. Sin certificación de agua.",
+    verdict: "Para quien corre o entrena y quiere unos auriculares baratos que no se le caigan, los Alpina F50 Pro cumplen: gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.000 calificaciones, todo por menos de 25.000 pesos. Si buscás sonido de marca grande, cancelación de ruido o una certificación de agua que aguante el sudor fuerte, no son para vos: la marca no declara protección IPX y el parlante es de 8 mm, sonido correcto pero sin pretensiones.",
+    pros: [
+      "Gancho de oreja: la sujeción que evita que se caigan corriendo o en el gimnasio",
+      "Precio bajo, menos de 25.000 pesos, con envío gratis",
+      "4.7 estrellas en más de 3.000 calificaciones: respaldo de ventas real para una marca chica",
+      "Bluetooth 5.3, la versión actual: conexión estable hasta 10 metros",
+      "Controles táctiles, micrófono integrado e indicador LED de batería en el estuche",
+      "Carga por USB-C, el conector estándar de hoy",
+    ],
+    cons: [
+      "Alpina no declara resistencia al agua ni certificación IPX: dato importante en unos auriculares de deporte donde vas a transpirar",
+      "Hasta 7 horas de batería por carga: aguanta un par de entrenamientos pero queda lejos de los 30 o 40 horas con estuche de modelos más caros",
+      "Parlante de 8 mm: sonido correcto para entrenar, no para escuchar música con detalle",
+      "Marca chica argentina sin trayectoria de audio: no esperes el sonido ni el service de una JBL o Xiaomi",
+      "No tienen cancelación activa de ruido: en la calle o el gimnasio entra el ruido de afuera",
+    ],
+    articleBody: `## Qué son y para qué alcanzan
+
+Los Alpina F50 Pro son auriculares inalámbricos deportivos con gancho de oreja. El gancho es todo el punto: se enganchan en la oreja para que no se caigan cuando corrés, saltás o levantás peso. Cuestan menos de 25.000 pesos, así que son la opción de entrada para quien quiere algo para entrenar sin gastar en una marca grande.
+
+No son para escuchar música con detalle en casa ni para aislarte en un viaje. Son para moverte: gimnasio, running, andar en bici, y que el auricular siga en su lugar.
+
+## La sujeción, que es lo que importa acá
+
+El gancho de oreja resuelve el problema número uno de los auriculares deportivos: que se salen. Los in-ear comunes se aflojan con el movimiento y el sudor; el gancho los fija. Si ya probaste correr con unos sin gancho y los terminaste guardando en el bolsillo, esta es la diferencia.
+
+Son TWS, o sea totalmente inalámbricos, sin cable entre los dos auriculares. Vienen con estuche de carga.
+
+## Las funciones clave
+
+Alpina declara Bluetooth 5.3, la versión actual, con alcance de hasta 10 metros. Traen controles táctiles, micrófono integrado para atender llamadas e indicador LED de batería en el estuche. La carga es por USB-C, el conector estándar. Son compatibles con Android, iOS y Windows.
+
+El parlante es de 8 mm. Es una medida chica: alcanza para entrenar, pero no esperes graves profundos ni mucho detalle.
+
+## Lo que resignás
+
+La batería es de hasta 7 horas por carga, según el volumen. El estuche tiene 1200 mAh y cada auricular 60 mAh; la carga completa del auricular toma unos 60 minutos y la del estuche 90. Siete horas te cubre varios entrenamientos, pero está lejos de los modelos que prometen 30 o 40 horas sumando el estuche.
+
+No tienen cancelación activa de ruido. Es esperable a este precio, pero conviene saberlo: en la calle o el gimnasio vas a escuchar el ruido de afuera.
+
+## La contra real
+
+Alpina no declara resistencia al agua ni certificación IPX en su ficha oficial. En unos auriculares de deporte esto pesa: cuando entrenás transpirás, y el sudor es agua. Sin un número de IPX que respalde, no hay garantía del fabricante de que aguanten la transpiración fuerte o la lluvia. Tratalos con cuidado en sesiones intensas.
+
+Sumado: es una marca argentina chica, sin trayectoria en audio. El respaldo que tenés son las más de 3.000 calificaciones de compradores en MercadoLibre, no el nombre de la marca.
+
+## Para quién sí y para quién no
+
+Sí, si corrés o entrenás, querés gastar poco y lo que más te importa es que no se caigan. El gancho cumple y el precio es bajo.
+
+No, si querés sonido de marca grande, cancelación de ruido, o necesitás una certificación de agua que te asegure que aguantan el sudor pesado. Para eso hay que subir de categoría y de precio.
+
+## Veredicto
+
+A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.000 calificaciones, los Alpina F50 Pro son una entrada honesta al auricular deportivo barato. El defecto a tener claro antes de comprar es que no traen certificación de agua declarada y la batería es de 7 horas. Si eso no te frena, cumplen lo que prometen: que no se te caigan mientras te movés.`,
+    faq: [
+      {
+        question: "¿Los Alpina F50 Pro son resistentes al agua o al sudor?",
+        answer: "Alpina no declara resistencia al agua ni certificación IPX en su ficha oficial. Sirven para entrenar, pero sin un número de IPX no hay garantía del fabricante de que aguanten transpiración fuerte o lluvia. Conviene cuidarlos en sesiones intensas.",
+      },
+      {
+        question: "¿Se caen al correr?",
+        answer: "Para eso está el gancho de oreja: se enganchan en la oreja y quedan fijos, que es justo lo que falla en los in-ear comunes cuando corrés o saltás. Es el punto fuerte de este modelo.",
+      },
+      {
+        question: "¿Cuánta batería tienen?",
+        answer: "Hasta 7 horas por carga según el volumen, más las recargas del estuche de 1200 mAh. La carga completa del auricular toma unos 60 minutos. Alcanza para varios entrenamientos, pero es menos que los modelos que prometen 30 o 40 horas con estuche.",
+      },
+      {
+        question: "¿Qué versión de Bluetooth usan?",
+        answer: "Bluetooth 5.3, la versión actual, con alcance de hasta 10 metros. Son compatibles con Android, iOS y Windows.",
+      },
+      {
+        question: "¿Tienen cancelación de ruido?",
+        answer: "No. No traen cancelación activa de ruido, así que en la calle o el gimnasio vas a escuchar el ruido de afuera. Es lo esperable a este precio.",
+      },
+      {
+        question: "¿Conviene los Alpina F50 Pro o unos Lenovo LivePod LP75?",
+        answer: "Si lo que querés es que no se caigan al correr, los Alpina ganan por el gancho de oreja. Los Lenovo LP75 son in-ear comunes, más económicos y con más calificaciones (más de 7.400), pero sin sujeción deportiva. Para deporte, gancho; para uso diario barato, los Lenovo.",
+      },
+      {
+        question: "¿Cómo se cargan?",
+        answer: "Por cable USB-C, el conector estándar de hoy. El estuche de carga viene incluido junto con los dos auriculares, el cable y el manual.",
+      },
+    ],
   },
   {
     id: "MLA28026305",
@@ -1921,12 +6959,106 @@ export const curatedProducts: Product[] = [
       { label: "Tipo", value: "In-ear inalámbricos (TWS)" },
       { label: "Marca", value: "Lenovo" },
       { label: "Ideal para", value: "Los más baratos con respaldo de ventas" },
+      { label: "Forma", value: "In-ear con gancho de oreja (deportivo)" },
+      { label: "Bluetooth", value: "5.3" },
+      { label: "Autonomía auricular", value: "Aprox. 6 horas por carga" },
+      { label: "Autonomía total con estuche", value: "Aprox. 28 horas" },
+      { label: "Estuche", value: "Con pantalla LED de batería" },
+      { label: "Carga", value: "USB-C" },
+      { label: "Cancelación de ruido activa (ANC)", value: "No" },
+      { label: "Codecs", value: "SBC / AAC" },
+      { label: "Resistencia al agua (IP)", value: "No declarada" },
     ],
     relatedProducts: ["MLA39962085", "MLA41255867"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares Lenovo LivePod LP75: in-ear inalámbricos súper baratos con más de 7.400 calificaciones. La opción más económica con respaldo real de ventas.",
+    seoTitle: "Lenovo LivePod LP75: los más baratos con gancho deportivo",
+    metaDescription: "Auriculares Lenovo LivePod LP75: in-ear con gancho de oreja para correr y entrenar, Bluetooth 5.3 y estuche con pantalla. Para quién sirven y para quién no.",
+    verdict: "Para quien quiere auriculares baratos que no se le caigan corriendo o en el gym, el LP75 cumple: gancho de oreja, Bluetooth 5.3, estuche con pantalla de batería y 4.6 estrellas en más de 7.400 opiniones. Si querés algo discreto para usar todo el día, sonido cuidado o resistencia al agua certificada, no es para vos: es un deportivo voluminoso, de audio básico y sin grado IP declarado.",
+    pros: [
+      "Gancho de oreja: quedan firmes corriendo, saltando o en la cinta, no se caen",
+      "Bluetooth 5.3, más estable y de menor latencia que versiones viejas",
+      "Estuche con pantalla LED que muestra el porcentaje de batería",
+      "Carga por USB-C, el conector que ya usás en casi todo",
+      "Autonomía cómoda: unas 6 horas por carga y cerca de 28 con el estuche",
+      "4.6 estrellas en más de 7.400 opiniones: respaldo de ventas real para el precio",
+    ],
+    cons: [
+      "No declara grado de resistencia al agua (IP): para sudor zafa, pero no es para lluvia ni agua",
+      "El gancho los hace voluminosos: no son discretos ni cómodos abajo de un gorro o casco",
+      "Audio básico: sin cancelación de ruido activa y solo codecs SBC/AAC",
+      "Marca grande en un producto genérico: la fabricación es de gama baja, no esperes terminación premium",
+      "En auriculares Bluetooth de este precio la conexión puede cortarse a veces: es el techo de la gama",
+    ],
+    articleBody: `## Para quién es (y para quién no)
+
+El Lenovo LivePod LP75 es para quien entrena y se cansó de que los auriculares se le caigan. El gancho de oreja los traba y no se mueven aunque corras o saltes. Son de los más baratos de su tipo y tienen respaldo de ventas: 4.6 estrellas en más de 7.400 opiniones.
+
+No son para todos. Si buscás algo discreto para usar en la oficina o abajo de un gorro, el gancho molesta y se nota. Si querés sonido cuidado o cancelación de ruido, este no es. Y si pensás usarlos bajo lluvia, ojo: no declaran grado de resistencia al agua.
+
+## Qué son y para qué alcanzan
+
+Son auriculares in-ear inalámbricos (TWS) con gancho deportivo. La forma es la clave: en vez de apoyarse solo dentro de la oreja, el gancho rodea la parte de arial y los fija. Por eso aguantan el movimiento mejor que un in-ear común.
+
+Vienen con estuche de carga. El estuche trae una pantalla que muestra el porcentaje de batería del propio estuche y de cada auricular, así sabés cuánto te queda sin adivinar.
+
+Alcanzan de sobra para correr, andar en bici, entrenar en casa o el gimnasio y para llamadas. No apuntan a audiófilos ni a quien quiere aislarse del ruido de la calle.
+
+## Las funciones clave
+
+Bluetooth 5.3: la versión moderna. Conecta más rápido, mantiene mejor la señal y baja la latencia, que es el retraso entre la imagen y el sonido cuando ves un video. No la elimina, pero la reduce frente a versiones viejas.
+
+Carga por USB-C. Es el mismo conector del celular nuevo, así que no tenés que andar con un cable raro aparte.
+
+Autonomía: rondan las 6 horas por carga del auricular y cerca de 28 horas en total contando las recargas del estuche. Para sesiones de entrenamiento sobra; vas a cargar el estuche cada varios días según cuánto los uses.
+
+## Lo que resignás
+
+Audio básico. Funcionan bien para música mientras entrenás, pero no esperes graves profundos ni detalle fino. Soportan solo los codecs estándar SBC y AAC y no traen cancelación de ruido activa: vas a escuchar el ambiente.
+
+Tamaño. El gancho suma volumen. Quedan firmes, pero son lo contrario de discretos y no entran cómodos abajo de un casco de bici o un gorro.
+
+Terminación. Es Lenovo en la marca, pero el producto es de gama baja. Plásticos simples y armado económico, acorde al precio.
+
+## La contra real
+
+No declaran grado de resistencia al agua (la certificación IP). Para un auricular que se vende como deportivo, esto importa. El sudor de un entrenamiento normal no debería ser problema, pero no hay un número oficial que te diga cuánto aguantan. Con lluvia fuerte o salpicaduras, no te confíes.
+
+Sumá lo típico de la gama: en auriculares Bluetooth a este precio la conexión a veces se corta o tarda en emparejar. Es el techo de lo que se puede pedir por lo que salen.
+
+## Veredicto
+
+Si lo que querés es un auricular barato que no se caiga mientras entrenás, el LP75 hace ese trabajo: gancho firme, Bluetooth 5.3, estuche con pantalla y miles de ventas detrás. Es la opción económica con respaldo real.
+
+Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resistencia al agua certificada, pagá más y mirá otra cosa. Acá estás comprando sujeción y precio, no fidelidad de audio.`,
+    faq: [
+      {
+        question: "¿Los Lenovo LP75 son con gancho de oreja o in-ear comunes?",
+        answer: "Son in-ear con gancho de oreja. El gancho rodea la parte de arriba de la oreja y los fija, por eso no se caen al correr o entrenar. A cambio, son más voluminosos y menos discretos que un in-ear común.",
+      },
+      {
+        question: "¿Sirven para correr y hacer deporte?",
+        answer: "Sí, están pensados para eso: el gancho los mantiene firmes con el movimiento. La salvedad es que no declaran grado de resistencia al agua (IP), así que para sudor zafan pero no son para lluvia ni agua.",
+      },
+      {
+        question: "¿Cuánto dura la batería del Lenovo LP75?",
+        answer: "Rondan las 6 horas por carga del auricular y cerca de 28 horas en total sumando las recargas del estuche. El estuche carga por USB-C y tiene pantalla que muestra el porcentaje de batería.",
+      },
+      {
+        question: "¿Tienen cancelación de ruido?",
+        answer: "No tienen cancelación de ruido activa (ANC). Vas a seguir escuchando el ambiente, lo cual incluso es más seguro para correr en la calle. Traen reducción de ruido en el micrófono para las llamadas, que es otra cosa.",
+      },
+      {
+        question: "¿Qué versión de Bluetooth tienen?",
+        answer: "Bluetooth 5.3. Es una versión moderna: conecta más rápido, mantiene mejor la señal y baja la latencia (el retraso entre imagen y sonido) frente a versiones más viejas.",
+      },
+      {
+        question: "¿Vale la pena el Lenovo LP75 o conviene gastar más?",
+        answer: "Conviene si tu prioridad es que no se caigan entrenando y gastar poco: tienen 4.6 estrellas en más de 7.400 opiniones. Si te importa el sonido, querés cancelación de ruido o resistencia al agua certificada, conviene subir de presupuesto a una marca como JBL.",
+      },
+    ],
   },
   // ─── Auriculares JBL + deportivos (satélites) — via API ML, links propios de Juan ───
   {
@@ -1954,12 +7086,109 @@ export const curatedProducts: Product[] = [
       { label: "Tipo", value: "In-ear inalámbricos (TWS)" },
       { label: "Marca", value: "JBL" },
       { label: "Ideal para", value: "In-ear JBL para uso diario" },
+      { label: "Driver", value: "Dinámico de 8 mm" },
+      { label: "Bluetooth", value: "5.3" },
+      { label: "Cancelación de ruido", value: "ANC activa + Smart Ambient" },
+      { label: "Batería", value: "10 h por carga, hasta 40 h con estuche (ANC off)" },
+      { label: "Carga rápida", value: "10 min = 3 h de reproducción (USB-C)" },
+      { label: "Resistencia", value: "IP54 auriculares / IPX2 estuche" },
+      { label: "Micrófonos", value: "4 (2 por auricular)" },
+      { label: "Códecs", value: "SBC y AAC" },
+      { label: "Conexión", value: "Multipunto (2 dispositivos a la vez)" },
+      { label: "App", value: "JBL Headphones (ecualizador y control de ANC)" },
     ],
     relatedProducts: ["MLA23997257", "MLA53285777"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares JBL Wave Beam 2: in-ear inalámbricos con sonido JBL, para uso diario y llamadas. La entrada in-ear de la marca.",
+    seoTitle: "JBL Wave Beam 2: review honesta del in-ear con ANC",
+    metaDescription: "In-ear JBL con cancelación de ruido, 40 horas de batería y USB-C. Para uso diario y llamadas. Lo bueno, la contra real y para quién conviene.",
+    verdict: "Para uso diario, llamadas y algo de cancelación de ruido sin gastar de más, el Wave Beam 2 cumple: 40 horas de batería con el estuche, ANC, USB-C y 4.8 estrellas en 638 opiniones. Si buscás audio de alta fidelidad (aptX o LDAC) o que la cancelación te tape el subte entero, no es para vos: usa solo códecs estándar SBC y AAC y su ANC es de gama de entrada.",
+    pros: [
+      "Cancelación de ruido activa más modo Smart Ambient en un in-ear de precio accesible",
+      "Batería real: 10 horas por carga y hasta 40 horas con el estuche (ANC apagado)",
+      "Carga rápida por USB-C: 10 minutos te dan 3 horas de reproducción",
+      "IP54: aguanta sudor y salpicaduras, sirve para entrenar o caminar bajo llovizna",
+      "Multipunto: se conecta a dos dispositivos a la vez (ej celular y notebook)",
+      "JBL con service local, 4.8 estrellas en 638 opiniones y app para ecualizar",
+    ],
+    cons: [
+      "Solo códecs SBC y AAC: no hay aptX ni LDAC, así que no es para quien busca alta fidelidad",
+      "La cancelación de ruido es de gama de entrada: baja el ruido grave pero no aísla como un modelo premium",
+      "No trae carga inalámbrica ni detección de uso (no se pausa solo al sacarte un auricular)",
+      "Con ANC encendido la batería baja de 40 a unas 32 horas con estuche",
+      "El estuche es IPX2: tolera goteo leve, no es resistente al agua como los auriculares",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El JBL Wave Beam 2 es un in-ear inalámbrico (TWS) para uso diario: escuchar música, podcasts y atender llamadas. Apunta al que quiere la marca JBL, cancelación de ruido y mucha batería sin pagar lo que cuesta la gama alta. Para eso alcanza y sobra.
+
+Para quien busca audio de audiófilo o aislarse por completo del ruido de la calle, no es el indicado. Es un auricular de entrada con extras, no un competidor de los buques insignia.
+
+## Las funciones clave
+
+Trae cancelación de ruido activa (ANC) y modo Smart Ambient, que deja entrar el sonido de afuera cuando lo necesitás (cruzar la calle, escuchar un anuncio). Eso, en este rango de precio, no es lo común.
+
+La batería es el punto fuerte: 10 horas por carga y hasta 40 horas sumando el estuche, con el ANC apagado. Con carga rápida por USB-C, 10 minutos te dan 3 horas de reproducción.
+
+Driver dinámico de 8 mm, Bluetooth 5.3 y multipunto: se conecta a dos equipos a la vez y cambiás entre el celular y la notebook sin reconectar. Cuatro micrófonos (dos por auricular) para las llamadas. Y la app JBL Headphones para ajustar el ecualizador y los modos de ruido.
+
+## Lo que resignás
+
+Acá está el límite. Los códecs son los estándar: SBC y AAC. No hay aptX ni LDAC. Para la mayoría de la gente con el celular eso no se nota, pero si venías buscando alta fidelidad por Bluetooth, este no es el camino.
+
+Tampoco trae carga inalámbrica ni detección de uso. O sea: no se pausa solo cuando te sacás un auricular, lo hacés a mano. Son detalles que aparecen en modelos más caros.
+
+## La contra real
+
+La cancelación de ruido es de gama de entrada. Baja el ruido grave y constante (el motor del colectivo, un ventilador) pero no te aísla del mundo como un modelo premium de tres veces el precio. Es ANC honesto para su categoría, no magia.
+
+Y un detalle del estuche: es IPX2. Tolera goteo leve, pero no es resistente al agua como los auriculares en sí (que son IP54). No lo metas en la mochila mojada confiado.
+
+## Batería: el número con letra chica
+
+Las 40 horas son con el ANC apagado. Si usás cancelación de ruido todo el tiempo, baja a unas 32 horas con el estuche (cerca de 8 horas por carga). Sigue siendo mucho para un in-ear, pero conviene saber el número real antes de comprar.
+
+## Para quién sí y para quién no
+
+Sí, si querés un in-ear JBL para todos los días, con buena batería, USB-C, resistencia al sudor para entrenar y algo de cancelación de ruido, sin estirar el presupuesto.
+
+No, si sos exigente con el audio (aptX/LDAC), querés aislarte por completo en lugares ruidosos, o necesitás carga inalámbrica y detección de uso. Para eso conviene subir de gama.
+
+## Veredicto
+
+El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería, USB-C, IP54 y multipunto, con el respaldo de JBL y 4.8 estrellas en 638 opiniones. La contra es clara y esperable al precio: códecs básicos, ANC moderado y sin extras premium. Si entendés que es un auricular de uso diario y no un equipo audiófilo, cumple lo que promete.`,
+    faq: [
+      {
+        question: "¿El JBL Wave Beam 2 tiene cancelación de ruido?",
+        answer: "Sí, trae cancelación de ruido activa (ANC) más modo Smart Ambient para dejar entrar el sonido de afuera cuando lo necesitás. Es ANC de gama de entrada: baja el ruido grave y constante, pero no aísla como un modelo premium.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Hasta 10 horas por carga y hasta 40 horas sumando el estuche, con el ANC apagado. Con el ANC encendido baja a unas 8 horas por carga y cerca de 32 horas con el estuche. La carga rápida da 3 horas de reproducción con 10 minutos enchufado.",
+      },
+      {
+        question: "¿Se puede usar para hacer deporte?",
+        answer: "Sí. Tienen certificación IP54, así que aguantan sudor, polvo y salpicaduras. Sirven para entrenar o caminar bajo llovizna. Ojo: el estuche es IPX2 (solo goteo leve), no lo mojes.",
+      },
+      {
+        question: "¿Sirve para llamadas?",
+        answer: "Sí. Trae cuatro micrófonos (dos en cada auricular) que captan la voz y reducen el ruido de fondo. Es un uso central de este modelo, junto con escuchar música.",
+      },
+      {
+        question: "¿Se conecta a dos dispositivos a la vez?",
+        answer: "Sí, tiene multipunto: se conecta a dos equipos al mismo tiempo y cambiás entre ellos sin reconectar, por ejemplo el celular y la notebook. Usa Bluetooth 5.3.",
+      },
+      {
+        question: "¿Tiene buena calidad de audio para música?",
+        answer: "Para uso diario, sí: driver de 8 mm con el sonido JBL y ecualizador en la app. Pero solo soporta códecs estándar SBC y AAC, sin aptX ni LDAC. Si buscás alta fidelidad por Bluetooth, este no es el modelo indicado.",
+      },
+      {
+        question: "¿Carga por USB-C o tiene carga inalámbrica?",
+        answer: "Carga por cable USB-C, no trae carga inalámbrica. La parte buena es la carga rápida: 10 minutos enchufado te dan 3 horas de reproducción.",
+      },
+    ],
   },
   {
     id: "MLA23997257",
@@ -1987,12 +7216,102 @@ export const curatedProducts: Product[] = [
       { label: "Batería", value: "Más de 50 horas" },
       { label: "Marca", value: "JBL" },
       { label: "Ideal para", value: "Vincha JBL de entrada, mucha batería" },
+      { label: "Batería", value: "Hasta 57 horas (JBL)" },
+      { label: "Carga rápida", value: "5 min de carga = 3 horas de uso" },
+      { label: "Conectividad", value: "Bluetooth 5.3 con multipunto" },
+      { label: "Cancelación de ruido", value: "No (sin ANC)" },
+      { label: "Micrófono", value: "Sí, para llamadas manos libres" },
+      { label: "Tipo", value: "On-ear plegable, liviano" },
+      { label: "Códecs", value: "SBC y AAC" },
+      { label: "Carga", value: "Puerto USB-C (no reproduce mientras carga)" },
+      { label: "App", value: "JBL Headphones (ecualizador)" },
     ],
     relatedProducts: ["MLA24519483", "MLA53285777"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares JBL Tune 520BT: vincha on-ear con más de 50 horas de batería y sonido JBL, a buen precio. La entrada a las vinchas de la marca.",
+    seoTitle: "JBL Tune 520BT: ficha honesta, batería y contras",
+    metaDescription: "JBL Tune 520BT: vincha on-ear con 57 h de batería y Bluetooth 5.3, sin cancelación de ruido. Para quién conviene y para quién no. Specs reales y la pega.",
+    verdict: "Para quien quiere entrar a las vinchas JBL gastando poco y le importa la autonomía, la Tune 520BT cumple: 57 horas de batería, Bluetooth 5.3 con conexión a dos dispositivos y 4.8 estrellas en más de 1.600 opiniones. Si buscás cancelación de ruido para el colectivo o el avión, o te molesta la presión de una vincha on-ear, no es para vos: no tiene ANC, aísla poco y aprieta sobre la oreja.",
+    pros: [
+      "57 horas de batería reales y carga rápida: 5 minutos enchufada dan 3 horas de uso",
+      "Bluetooth 5.3 con multipunto: se conecta al celular y a la notebook al mismo tiempo",
+      "Liviana (cerca de 160 g) y plegable, entra en cualquier mochila",
+      "Tiene micrófono para llamadas con manos libres",
+      "App JBL gratis para ajustar el ecualizador a tu gusto",
+      "4.8 estrellas en más de 1.600 opiniones, con service oficial de la marca en el país",
+    ],
+    cons: [
+      "No tiene cancelación de ruido activa (ANC) y el aislamiento pasivo es flojo: no sirve para avión ni para la calle ruidosa",
+      "Es on-ear y aprieta: la vincha viene firme y a varias horas de uso puede molestar sobre la oreja",
+      "No podés escuchar mientras se carga: el puerto USB-C no deja usarla enchufada",
+      "Sonido con mucho graves de fábrica; los agudos quedan apagados si no tocás el ecualizador",
+      "Cuerpo de plástico sin resistencia al agua: aguanta gimnasio liviano, no entrenamiento con transpiración fuerte",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+La JBL Tune 520BT es la vincha on-ear más barata de JBL. On-ear quiere decir que el almohadón apoya sobre la oreja, no la rodea entera como las grandes. Es para uso diario: música, videos, llamadas, estudiar. Liviana, plegable y con una batería que dura muchísimo.
+
+No es una vincha para audiófilos ni para silenciar el mundo. Es la puerta de entrada a la marca a buen precio, con 4.8 estrellas en más de 1.600 opiniones.
+
+## La batería es lo más fuerte
+
+Acá está el argumento principal: 57 horas de batería según JBL. En la práctica son varios días de uso sin enchufar. Si te olvidás de cargarla, tiene carga rápida: 5 minutos en el cable dan 3 horas de música. Para alguien que la usa todo el día y no quiere estar pendiente del cargador, esto sobra.
+
+## Conexión a dos dispositivos
+
+Trae Bluetooth 5.3 con multipunto. Eso significa que la podés tener conectada al celular y a la notebook al mismo tiempo: si entra una llamada al teléfono mientras mirás algo en la compu, cambia sola. Para trabajar o estudiar saltando entre pantallas es cómodo. El alcance es el estándar, unos 10 metros sin paredes de por medio.
+
+## Lo que resignás por el precio
+
+No tiene cancelación de ruido activa. Tampoco aísla bien de forma pasiva, porque al apoyar sobre la oreja deja pasar el ruido de afuera. En un ambiente tranquilo se escucha bien, pero en el colectivo, la calle o un avión vas a tener que subir el volumen y aun así se mete el ruido.
+
+Otro detalle: no se puede usar enchufada. El puerto USB-C es solo para cargar; mientras carga, no reproduce. Y el sonido viene cargado de graves de fábrica, con los agudos un poco apagados. Se arregla con el ecualizador de la app JBL, pero hay que tocarlo.
+
+## La contra real: aprieta
+
+Más allá de las specs, la pega que aparece en una vincha on-ear de este tipo es la presión. La vincha viene firme y el almohadón chico apoya directo sobre la oreja. Las primeras horas no molesta, pero en sesiones largas la presión se siente. Si usás anteojos o tenés la cabeza grande, tenelo en cuenta. El cuerpo es de plástico, liviano, sin resistencia al agua: aguanta gimnasio liviano, no entrenamiento con mucha transpiración.
+
+## Para quién sí y para quién no
+
+Sí, si querés una vincha JBL barata, con batería que dura días, liviana para llevar a todos lados y para uso tranquilo en casa, oficina o caminando. También si te sirve conectarla a dos dispositivos a la vez.
+
+No, si necesitás silenciar el ruido del transporte o el avión: para eso hace falta una con ANC. Tampoco si no bancás la presión de una on-ear sobre la oreja, o si querés escuchar con el cable mientras carga.
+
+## Veredicto
+
+La Tune 520BT hace bien lo básico: suena correcta, dura muchísimo y cuesta poco. La batería y la conexión a dos dispositivos son su fuerte real. Las contras también son reales y conocidas: sin cancelación de ruido, aísla poco y aprieta. Si entrás sabiendo eso, es una compra honesta para empezar con vinchas inalámbricas. Si querés un paso más de sonido en la misma familia, la JBL Tune 720BT es el siguiente escalón.`,
+    faq: [
+      {
+        question: "¿Cuánto dura la batería de la JBL Tune 520BT?",
+        answer: "Hasta 57 horas según JBL, varios días de uso normal sin cargar. Además tiene carga rápida: 5 minutos enchufada dan 3 horas de música.",
+      },
+      {
+        question: "¿La JBL Tune 520BT tiene cancelación de ruido?",
+        answer: "No. No tiene cancelación de ruido activa (ANC) y, al ser on-ear, aísla poco del ruido de afuera. Para el colectivo o el avión conviene otra con ANC.",
+      },
+      {
+        question: "¿Tiene micrófono para llamadas?",
+        answer: "Sí, trae micrófono para hablar con manos libres. Funciona bien en lugares tranquilos, pero con viento o calle ruidosa la voz se escucha peor del otro lado.",
+      },
+      {
+        question: "¿Se puede conectar a dos dispositivos al mismo tiempo?",
+        answer: "Sí. Tiene Bluetooth 5.3 con multipunto, así que la podés tener conectada al celular y a la notebook a la vez y cambia sola cuando entra una llamada.",
+      },
+      {
+        question: "¿Se puede usar mientras se carga?",
+        answer: "No. El puerto USB-C es solo para cargar; mientras carga no reproduce. Como dura 57 horas, en la práctica casi nunca te quedás sin batería.",
+      },
+      {
+        question: "¿Conviene la JBL Tune 520BT o la 720BT?",
+        answer: "La 520BT es la entrada: más barata y con buena batería. La 720BT suena un escalón mejor y cuesta más. Si te alcanza el presupuesto y te importa el sonido, la 720BT; si querés gastar poco, la 520BT cumple.",
+      },
+      {
+        question: "¿Sirve para hacer deporte o gimnasio?",
+        answer: "Para gimnasio liviano sí, es plástica y plegable. Pero no tiene resistencia al agua ni al sudor, así que para entrenamiento con mucha transpiración no es la indicada.",
+      },
+    ],
   },
   {
     id: "MLA24519483",
@@ -2019,12 +7338,115 @@ export const curatedProducts: Product[] = [
       { label: "Tipo", value: "De vincha (on-ear) inalámbricos" },
       { label: "Marca", value: "JBL" },
       { label: "Ideal para", value: "Vincha JBL mejorada, más sonido" },
+      { label: "Tipo", value: "Vincha over-ear inalámbrica" },
+      { label: "Drivers", value: "40 mm dinámicos (Pure Bass)" },
+      { label: "Respuesta de frecuencia", value: "20 Hz - 20 kHz" },
+      { label: "Impedancia", value: "32 ohms" },
+      { label: "Batería", value: "Hasta 76 horas" },
+      { label: "Carga", value: "USB-C, llena en unas 2 horas" },
+      { label: "Carga rápida", value: "5 minutos = 3 horas de música" },
+      { label: "Bluetooth", value: "5.3 con multipoint (2 dispositivos)" },
+      { label: "Códecs", value: "AAC y SBC" },
+      { label: "Cancelación de ruido", value: "No tiene ANC (solo aislamiento pasivo)" },
+      { label: "Peso", value: "Aprox. 220 g" },
+      { label: "Diseño", value: "Plegable, con micrófono y app JBL con ecualizador" },
+      { label: "Entrada de cable", value: "Audio 3.5 mm (cable aparte según lote)" },
     ],
     relatedProducts: ["MLA23997257", "MLA53285777"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares JBL Tune 720BT: vincha on-ear con mejor sonido que la 520BT, sin cancelación. El punto medio de las vinchas JBL.",
+    seoTitle: "JBL Tune 720BT: vincha Bluetooth sin ANC, 76h batería",
+    metaDescription: "JBL Tune 720BT: vincha over-ear Bluetooth con 76 horas de batería y graves Pure Bass, sin cancelación activa. Para quién conviene y para quién no, con datos reales.",
+    verdict: "Para quien quiere una vincha JBL con mucha batería, graves marcados y multipoint para saltar del celu a la notebook, la 720BT cumple: 76 horas, Bluetooth 5.3, app con ecualizador y 4.8 estrellas en más de 2.400 opiniones. Si buscás cancelación activa de ruido para el bondi o el avión, no es para vos: la 720BT no trae ANC, solo aísla por las almohadillas.",
+    pros: [
+      "76 horas de batería declaradas: la cargás una vez por semana y olvidate",
+      "Carga rápida USB-C: 5 minutos te dan 3 horas más de música",
+      "Multipoint: conectada al celu y a la notebook al mismo tiempo, sin desemparejar",
+      "App JBL con ecualizador para ajustar los graves a tu gusto",
+      "Plegable y liviana (unos 220 g), entra en la mochila sin ocupar lugar",
+      "4.8 estrellas en más de 2.400 opiniones: respaldo de ventas alto en ML",
+    ],
+    cons: [
+      "No tiene cancelación activa de ruido (ANC): solo aísla por las almohadillas, en colectivo o avión vas a escuchar el ambiente",
+      "Es una vincha over-ear de entrada de gama: el sonido apunta a graves Pure Bass, no a fidelidad de estudio",
+      "No es resistente al agua: no está pensada para correr o sudar mucho",
+      "El cable de audio de 3.5 mm es aparte, no siempre viene incluido según el lote",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+La JBL Tune 720BT es una vincha over-ear inalámbrica de gama de entrada. Apunta a quien quiere graves marcados, mucha batería y la marca JBL sin gastar en los modelos con cancelación de ruido.
+
+Está en el punto medio de la línea Tune. Mejora a la 520BT en sonido y batería, pero no llega a las vinchas con ANC. Si tu uso es escuchar música, ver videos y atender llamadas en casa, en la oficina o caminando, alcanza de sobra.
+
+Cuesta 107.999 pesos y tiene envío gratis. En ML lleva 4.8 estrellas sobre más de 2.400 opiniones, así que el respaldo de ventas es alto.
+
+## Las funciones clave
+
+La batería es el argumento más fuerte: hasta 76 horas declaradas por JBL. En la práctica eso es cargarla una vez por semana o menos. Y si te quedaste sin batería, 5 minutos de carga te dan unas 3 horas más. Carga por USB-C y la llena en unas 2 horas.
+
+Tiene multipoint, que es la función que más se agradece en el día a día: la dejás conectada al celular y a la notebook a la vez. Cuando entra una llamada al celu mientras ves algo en la compu, salta sola, sin tener que desemparejar nada.
+
+Trae Bluetooth 5.3 y la app de JBL con ecualizador, así que podés bajar o subir los graves según lo que escuches. Drivers de 40 mm con el perfil Pure Bass de la marca: graves presentes y con cuerpo.
+
+## El sonido y el formato
+
+Es una vincha over-ear, o sea que la almohadilla rodea la oreja en lugar de apoyarse encima. Pesa alrededor de 220 gramos y es plegable, así que entra en la mochila sin hacer bulto.
+
+El sonido es el típico JBL de entrada: graves al frente. No es un auricular de estudio ni busca neutralidad. Si escuchás pop, trap, electrónica o reguetón, te va a gustar. Si buscás fidelidad plana para mezclar o monitorear, esto no es para eso (ahí van los Audio-Technica de estudio).
+
+## Lo que resignás
+
+No hay cancelación activa de ruido. Esta es la línea que separa la 720BT de los modelos más caros. Lo único que la 720BT hace contra el ruido es el aislamiento pasivo de las almohadillas: tapa algo, pero no anula el motor del colectivo ni la turbina del avión.
+
+Tampoco es resistente al agua. No está pensada para correr ni para entrenar sudando. Para eso convienen los in-ear deportivos con certificación IPX.
+
+## La contra real
+
+Si tu razón principal para comprar una vincha es aislarte del ruido afuera —viajás mucho, trabajás en un lugar ruidoso, querés silencio en el avión— la 720BT te va a dejar a medias. No tiene ANC y se nota.
+
+El otro punto a mirar: el cable de audio de 3.5 mm para usarla conectada sin batería viene aparte y según el lote puede no estar incluido. No es un drama (su gracia es el Bluetooth), pero conviene saberlo antes de comprar.
+
+## Para quién sí y para quién no
+
+Sí, si querés una vincha JBL con mucha batería, graves potentes y multipoint para alternar entre celu y notebook, todo a precio de gama de entrada. Para casa, estudio, oficina y caminar es una compra redonda.
+
+No, si lo que buscás es cancelación activa de ruido para viajes, o sonido neutro de estudio, o un auricular para entrenar. Para esos usos hay opciones mejores.
+
+## Veredicto
+
+La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, multipoint y app con ecualizador, respaldada por 4.8 estrellas en más de 2.400 opiniones. El techo es claro: sin ANC y sin resistencia al agua. Si eso no te hace falta, es de las JBL inalámbricas más equilibradas en su precio.`,
+    faq: [
+      {
+        question: "¿La JBL Tune 720BT tiene cancelación de ruido?",
+        answer: "No. La 720BT no trae cancelación activa de ruido (ANC). Solo aísla de forma pasiva con las almohadillas over-ear, que tapan algo del ambiente pero no anulan ruidos constantes como el del colectivo o el avión. Si necesitás ANC, conviene mirar modelos de gama más alta.",
+      },
+      {
+        question: "¿Cuántas horas de batería dura?",
+        answer: "JBL declara hasta 76 horas de reproducción. Además tiene carga rápida: 5 minutos de carga dan unas 3 horas más, y carga completa en unas 2 horas por USB-C. En uso normal la cargás una vez por semana o menos.",
+      },
+      {
+        question: "¿Es on-ear o over-ear?",
+        answer: "Es over-ear: las almohadillas rodean la oreja en lugar de apoyarse encima. Pesa alrededor de 220 gramos y es plegable para llevarla en la mochila.",
+      },
+      {
+        question: "¿Se puede conectar a dos dispositivos a la vez?",
+        answer: "Sí, tiene multipoint. La dejás emparejada con el celular y la notebook al mismo tiempo y salta sola entre ambos, por ejemplo si entra una llamada al celu mientras ves un video en la compu.",
+      },
+      {
+        question: "¿Conviene la 720BT o la 520BT?",
+        answer: "La 720BT mejora a la 520BT en sonido y batería (76 horas contra unas 50) y suma la app con ecualizador. Si querés el modelo más barato de la línea, la 520BT alcanza; si querés más batería y sonido más trabajado, la 720BT es el paso de arriba. Ninguna de las dos tiene cancelación activa de ruido.",
+      },
+      {
+        question: "¿Sirve para hacer deporte?",
+        answer: "No es lo ideal. La 720BT no es resistente al agua ni al sudor, y al ser una vincha over-ear no queda firme para correr. Para entrenar convienen los in-ear deportivos con certificación de resistencia al agua.",
+      },
+      {
+        question: "¿Se puede usar con cable?",
+        answer: "Sí, tiene entrada de audio de 3.5 mm para usarla conectada cuando se queda sin batería. Ojo: el cable puede venir aparte según el lote, así que no des por hecho que está incluido.",
+      },
+    ],
   },
   {
     id: "MLA43473453",
@@ -2051,12 +7473,95 @@ export const curatedProducts: Product[] = [
       { label: "Tipo", value: "In-ear deportivos (TWS)" },
       { label: "Marca", value: "Lenovo" },
       { label: "Ideal para", value: "Deporte, opción económica" },
+      { label: "Bluetooth", value: "5.3" },
+      { label: "Driver", value: "10 mm" },
+      { label: "Resistencia", value: "IPX5 (sudor y salpicaduras)" },
+      { label: "Autonomía", value: "~6-7 h por auricular, recarga en estuche" },
+      { label: "Carga", value: "USB-C, estuche con pantalla LED de batería" },
+      { label: "Micrófono", value: "Doble mic con reducción de ruido en llamadas (ENC)" },
+      { label: "Cancelación de ruido", value: "Solo en llamadas (ENC). No tiene ANC para música" },
+      { label: "Controles", value: "Botones físicos" },
     ],
     relatedProducts: ["MLA41255867", "MLA41013705"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares deportivos Lenovo XT80: in-ear para deporte, inalámbricos y económicos, con buen respaldo de ventas. La opción barata para entrenar.",
+    seoTitle: "Lenovo XT80: review honesta de los auriculares deportivos",
+    metaDescription: "Lenovo XT80: in-ear deportivos baratos con Bluetooth 5.3, IPX5 y gancho. Para entrenar sin gastar. Ojo: la \"cancelación de ruido\" es para llamadas, no ANC real.",
+    verdict: "Para quien entrena y quiere auriculares baratos que no se caigan ni se arruinen con el sudor, el Lenovo XT80 cumple: gancho de oreja, IPX5, Bluetooth 5.3 y 4.6 estrellas en más de 650 opiniones. Para quien busca cancelación de ruido de verdad (esa que tapa el ruido del colectivo mientras escuchás música), no es: el XT80 reduce ruido solo en llamadas, no en lo que oís.",
+    pros: [
+      "Gancho de oreja: se quedan puestos corriendo o en el gimnasio, no se caen",
+      "IPX5: aguantan sudor y salpicaduras, pensados para entrenar",
+      "Bluetooth 5.3 con emparejamiento rápido y conexión estable",
+      "Estuche con pantalla LED que muestra la batería de cada auricular y del estuche",
+      "Carga por USB-C, el conector estándar que ya usás",
+      "Precio de entrada: 4.6 estrellas en más de 650 opiniones por una marca conocida",
+    ],
+    cons: [
+      "La 'cancelación de ruido' del título es para llamadas (ENC con doble micrófono), no ANC: no tapan el ruido de fondo mientras escuchás música",
+      "El micrófono se complica en lugares ruidosos: para llamadas en la calle no es lo mejor",
+      "Los botones físicos son chicos y cuesta apretarlos con los auriculares puestos",
+      "Latencia notable jugando: aun con modo gaming, el audio va atrás de la imagen",
+      "La autonomía total con estuche que figura en el listado es optimista: por auricular son unas 6 a 7 horas reales",
+    ],
+    articleBody: `## Qué son y para qué alcanzan
+
+El Lenovo XT80 es un auricular in-ear deportivo, inalámbrico y barato. La idea es clara: que puedas entrenar sin que se te caigan y sin que el sudor los arruine. Traen gancho de oreja, resistencia IPX5 y Bluetooth 5.3. Para correr, gimnasio o uso diario, alcanzan de sobra. Para escuchar música con audio de gama alta o aislarte del mundo, no son eso.
+
+## Las funciones que importan
+
+El gancho de oreja es lo que justifica comprarlos para deporte: se quedan firmes aunque saltes o corras. La resistencia IPX5 aguanta sudor y salpicaduras, así que no los vas a matar en una sesión intensa. El Bluetooth 5.3 conecta rápido y mantiene la señal estable a distancia corta. El estuche tiene una pantalla LED que te muestra cuánta batería le queda a cada auricular y al estuche, un detalle práctico que no todos los baratos traen. Cargan por USB-C, el mismo cable del celular nuevo.
+
+## El tema de la "cancelación de ruido"
+
+Acá está la trampa del título. Dice "cancelación de ruido", pero el XT80 no tiene ANC, esa cancelación activa que tapa el ruido del colectivo o la oficina mientras escuchás música. Lo que tiene es ENC: dos micrófonos que limpian el ruido de fondo en tus llamadas, para que del otro lado te escuchen mejor. Es útil, pero es otra cosa. Si comprás esperando aislarte del mundo, te vas a decepcionar. Eso lo dan auriculares bastante más caros.
+
+## Lo que resignás por el precio
+
+El micrófono cumple en lugares tranquilos, pero en la calle o con viento la voz se ensucia. Los botones físicos son chicos y cuesta apretarlos justo, sobre todo con las manos sudadas. Si pensás jugar, la latencia se nota: el audio va un poco atrás de la imagen aun con el modo gaming activado. Y la autonomía total que promete el listado con el estuche es optimista; lo realista es contar unas 6 a 7 horas por auricular y recargar en el estuche.
+
+## Para quién sí y para quién no
+
+Sí, si querés un auricular barato para entrenar que no se caiga ni se arruine con el sudor, y la batería del celular no te importa cargar seguido. Sí, si valorás el gancho de oreja por sobre el formato que se mete y listo. No, si buscás cancelación de ruido real para aislarte, si hacés muchas llamadas en la calle, o si vas a jugar y la latencia te molesta. En esos casos, conviene subir de presupuesto.
+
+## Comparado con las alternativas
+
+Si lo que querés es correr al aire libre escuchando el entorno (autos, gente), mirá el formato open ear como el Vention, que no te tapa el oído. Si en cambio querés que aíslen y suenen mejor, el salto de calidad está en otra categoría de precio. El XT80 juega en la franja económica y ahí su fuerte es el agarre deportivo y el IPX5, no el sonido ni el aislamiento.
+
+## Veredicto
+
+El Lenovo XT80 es una compra honesta si sabés qué estás comprando: auriculares deportivos baratos, con buen agarre y resistentes al sudor, de una marca conocida y con 4.6 estrellas en más de 650 opiniones. El defecto a tener claro es que la "cancelación de ruido" es para llamadas, no para aislarte mientras escuchás música. Con esa expectativa en su lugar, cumplen lo que prometen.`,
+    faq: [
+      {
+        question: "¿El Lenovo XT80 tiene cancelación de ruido real (ANC)?",
+        answer: "No. A pesar de lo que dice el título, el XT80 no tiene cancelación activa de ruido (ANC) para escuchar música. Lo que tiene es ENC: dos micrófonos que reducen el ruido de fondo en tus llamadas. No te va a aislar del ruido del colectivo ni de la oficina.",
+      },
+      {
+        question: "¿Sirven para correr y hacer gimnasio?",
+        answer: "Sí, es para lo que están pensados. Traen gancho de oreja para que no se caigan al moverte y resistencia IPX5, que aguanta sudor y salpicaduras. Es su punto fuerte.",
+      },
+      {
+        question: "¿Cuánta batería tienen?",
+        answer: "Por auricular rondan las 6 a 7 horas de uso continuo, y se recargan en el estuche. La autonomía total con estuche que figura en algunos listados es optimista; lo realista es contar esas horas por carga y reponer en el estuche.",
+      },
+      {
+        question: "¿Son resistentes al agua? ¿Me puedo bañar con ellos?",
+        answer: "Tienen certificación IPX5, que cubre sudor, lluvia ligera y salpicaduras. No están hechos para sumergirlos: nada de ducha, pileta ni lluvia fuerte.",
+      },
+      {
+        question: "¿Qué versión de Bluetooth y cómo se cargan?",
+        answer: "Bluetooth 5.3, con emparejamiento rápido y conexión estable a distancia corta. Se cargan por USB-C, el mismo conector de los celulares nuevos. El estuche tiene una pantalla LED que muestra la batería.",
+      },
+      {
+        question: "¿Sirven para jugar en el celular?",
+        answer: "Para juegos casuales pueden andar, pero tienen latencia notable: el audio va un poco atrás de la imagen, incluso con el modo gaming. Para juegos competitivos donde el sonido tiene que ir sincronizado, no son la mejor opción.",
+      },
+      {
+        question: "¿Conviene el Lenovo XT80 o un open ear para correr?",
+        answer: "Depende de si querés oír el entorno. El XT80 es in-ear: aísla más y suena con más cuerpo, pero te tapa el oído. Si corrés en la calle y necesitás escuchar autos y gente, un formato open ear como el Vention es más seguro porque no tapa el oído.",
+      },
+    ],
   },
   {
     id: "MLA41013705",
@@ -2084,12 +7589,99 @@ export const curatedProducts: Product[] = [
       { label: "Resistencia", value: "IPX5 (resistente al agua)" },
       { label: "Batería", value: "Hasta 35 horas" },
       { label: "Ideal para", value: "Correr al aire libre oyendo el entorno" },
+      { label: "Bluetooth", value: "5.3 (alcance hasta 10 m)" },
+      { label: "Carga", value: "USB-C, estuche de carga incluido" },
+      { label: "Capacidad", value: "70 mAh auriculares + 400 mAh estuche" },
+      { label: "Codecs", value: "AAC y SBC" },
+      { label: "Controles", value: "Tactiles, con microfono para llamadas" },
+      { label: "Modelo", value: "OpenBeat O11 (NBPB0)" },
     ],
     relatedProducts: ["MLA41255867", "MLA43473453"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Auriculares Vention Open Ear: formato abierto que no tapa el oído, ideal para correr al aire libre oyendo el entorno. IPX5 y 35 horas de batería.",
+    seoTitle: "Vention OpenBeat O11 Open Ear: para correr seguro",
+    metaDescription: "Los Vention OpenBeat O11 son open ear para correr al aire libre oyendo el entorno: IPX5 y 35 hs con estuche. No aíslan ni dan graves. Para quién sí y para quién no.",
+    verdict: "Para quien corre o anda en bici al aire libre y necesita escuchar el tránsito mientras escucha música, los Vention OpenBeat O11 cumplen: open ear que no tapa el oído, IPX5 contra sudor y lluvia, y 35 horas con el estuche. 4.7 estrellas en 400 opiniones. Si querés aislarte del ruido en el colectivo, sentir graves o cancelación de ruido, no son para vos: el formato abierto deja entrar el sonido de afuera y deja salir algo del tuyo.",
+    pros: [
+      "Open ear: no tapan el oido, escuchas el transito y el entorno mientras corres",
+      "IPX5 contra sudor y lluvia, sirve para entrenar afuera",
+      "Hasta 35 horas de bateria sumando el estuche de carga",
+      "Bluetooth 5.3 y carga por USB-C",
+      "Controles tactiles y microfono para atender llamadas",
+      "4.7 estrellas en 400 opiniones, precio de gama de entrada",
+    ],
+    cons: [
+      "Al ser open ear el sonido se escapa: en lugares silenciosos los de al lado te escuchan algo",
+      "Poco aislamiento y graves flojos: no son para sumergirte en la musica ni para ruido fuerte",
+      "No tienen cancelacion de ruido (ANC)",
+      "Las 35 horas son sumando el estuche, no de una sola carga",
+      "Marca generica sin service oficial fuerte en Argentina",
+    ],
+    articleBody: `## Para quién son y para quién no
+
+Estos Vention OpenBeat O11 son para correr, andar en bici o entrenar al aire libre sin perder contacto con lo que pasa alrededor. El formato open ear apoya el sonido sobre la oreja sin meterse en el canal: oís la música y al mismo tiempo el auto que se acerca o la bocina.
+
+Si lo que buscás es aislarte (viajar en colectivo, concentrarte en una oficina ruidosa, meterte de lleno en un tema), no son para vos. Ahí conviene un in-ear cerrado.
+
+## Qué es el formato open ear
+
+Open ear quiere decir que no tapan el oído. En vez de un tapón de silicona que entra en el canal, el auricular queda apoyado por fuera. Eso da dos cosas: comodidad para horas largas y, sobre todo, seguridad al correr en la calle, porque seguís escuchando el entorno.
+
+La contra es la misma moneda al revés: si dejás entrar el ruido de afuera, también dejás salir algo del tuyo y resignás aislamiento.
+
+## Las funciones clave
+
+Traen Bluetooth 5.3 con alcance de hasta 10 metros, resistencia IPX5 contra sudor y salpicaduras, y carga por USB-C. La batería es de 70 mAh en los auriculares más un estuche de 400 mAh, lo que da hasta 35 horas de uso sumando las recargas del estuche.
+
+Tienen controles táctiles y micrófono, así que podés cambiar tema o atender una llamada sin sacar el teléfono. Soportan los códecs AAC y SBC, que es lo estándar en esta gama.
+
+## Lo que resignás por el precio y el formato
+
+No esperes graves potentes ni una escena de sonido envolvente. El open ear, por física, da menos graves y menos pegada que un in-ear que sella el oído. Acá el audio es correcto para entrenar y escuchar pódcast, no para producción ni para escuchar música con detalle.
+
+Tampoco hay cancelación de ruido activa (ANC). Si el plan es viajar tapando el ruido del motor, este no es el producto.
+
+## La contra real
+
+Las 35 horas son el número con el estuche, no de una sola carga: los auriculares solos duran bastante menos y el estuche los va recargando. Es como funcionan casi todos los inalámbricos de este tipo, pero conviene tenerlo claro para no esperar 35 horas seguidas sin pasar por el estuche.
+
+Y un punto de honestidad: Vention es una marca económica sin un service oficial fuerte en Argentina. Si algo falla, dependés de la garantía del vendedor, no de un soporte de marca como tendrías con una primera línea.
+
+## Veredicto
+
+Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del tránsito, los OpenBeat O11 hacen bien ese trabajo a precio de entrada: IPX5, livianos y con buena autonomía sumando el estuche. El respaldo de 4.7 estrellas en 400 opiniones acompaña. Si tu prioridad es aislarte, sentir graves o tener cancelación de ruido, pasá a un in-ear cerrado: para eso el open ear no está pensado.`,
+    faq: [
+      {
+        question: "¿Los Vention OpenBeat O11 son de conduccion osea?",
+        answer: "No exactamente. Son open ear: apoyan el sonido sobre la oreja sin tapar el canal del oido, pero por aire, no por vibracion del hueso. El efecto practico es parecido (escuchas el entorno), pero la tecnologia no es bone conduction.",
+      },
+      {
+        question: "¿Sirven para correr y entrenar con sudor?",
+        answer: "Si. Tienen resistencia IPX5, que aguanta sudor y salpicaduras de lluvia. Estan pensados justamente para correr y andar en bici al aire libre. No son para sumergirlos en agua.",
+      },
+      {
+        question: "¿Cuanta bateria tienen de verdad?",
+        answer: "Hasta 35 horas, pero ese numero es sumando las recargas del estuche (70 mAh los auriculares, 400 mAh el estuche). De una sola carga duran bastante menos; el estuche los va recargando entre usos.",
+      },
+      {
+        question: "¿Se escucha bien la musica o se escapa el sonido?",
+        answer: "Al ser open ear, se escapa algo de sonido: en un lugar silencioso, alguien al lado puede escuchar tu musica a volumen alto. Tambien tienen menos graves que un in-ear cerrado. Para entrenar y pdcast van bien; para sumergirte en la musica, no.",
+      },
+      {
+        question: "¿Tienen cancelacion de ruido?",
+        answer: "No. No traen ANC (cancelacion de ruido activa). Justo lo contrario: estan diseñados para que sigas oyendo el entorno. Si buscas aislarte del ruido, este formato no es para vos.",
+      },
+      {
+        question: "¿Conviene un open ear o un in-ear para deporte?",
+        answer: "Depende. El open ear (como este O11) es mejor para correr en la calle porque escuchas el transito y es mas seguro. El in-ear cerrado aisla mas y da mejores graves, ideal si entrenas en gimnasio o queres concentrarte. Es una decision de prioridad: seguridad y entorno vs. aislamiento y sonido.",
+      },
+      {
+        question: "¿Se conectan a cualquier celular?",
+        answer: "Si. Usan Bluetooth 5.3 con perfiles estandar (A2DP, HFP, AVRCP), asi que funcionan con Android e iPhone. Cargan por USB-C, que es el conector mas comun hoy.",
+      },
+    ],
   },
   // ─── Auriculares de estudio/profesionales (satélite auriculares-profesionales) — via API ML, links propios de Juan ───
   {
@@ -2118,12 +7710,120 @@ export const curatedProducts: Product[] = [
       { label: "Conexión", value: "Con cable" },
       { label: "Uso", value: "Monitoreo, grabación, edición" },
       { label: "Marca", value: "Audio-Technica" },
+      { label: "Tipo", value: "Cerrados, circumaurales (over-ear)" },
+      { label: "Driver", value: "40 mm con iman de neodimio" },
+      { label: "Respuesta de frecuencia", value: "15 - 20.000 Hz" },
+      { label: "Impedancia", value: "47 ohm" },
+      { label: "Sensibilidad", value: "96 dB" },
+      { label: "Potencia maxima", value: "700 mW a 1 kHz" },
+      { label: "Cable", value: "Fijo de 3 m con plug de 3,5 mm" },
+      { label: "Adaptador", value: "6,3 mm incluido" },
+      { label: "Peso", value: "Aprox. 190 g (sin cable)" },
     ],
     relatedProducts: ["MLA6344268", "MLA24560880"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Audio-Technica ATH-M20x: la entrada a los auriculares de estudio, cerrados y con cable, para monitoreo y edición. El estudio más vendido, con más de 2.200 calificaciones.",
+    seoTitle: "Audio-Technica ATH-M20x: el estudio de entrada (review)",
+    metaDescription: "Review honesta del Audio-Technica ATH-M20x: para quien arranca a grabar, editar o monitorear con cable. Specs reales, contras y para quien no es.",
+    verdict: "Para quien arranca a grabar, editar video o monitorear y quiere un auricular de estudio con cable sin gastar de más, el ATH-M20x es la puerta de entrada: cerrado, sonido parejo, marca seria y 4.9 estrellas en más de 2.200 opiniones. Si querés graves marcados para escuchar música, llevarlos a entrenar o un cable que puedas reemplazar, este no es: el cable viene fijo, los graves son flacos y el formato es para estar sentado, no en movimiento.",
+    pros: [
+      "Sonido parejo y honesto: mids planos que sirven para monitorear y editar sin que el auricular te 'maquille' la mezcla",
+      "Cerrados y circumaurales: tapan el oido y dejan algo de aislamiento para grabar voz o instrumento",
+      "Driver de 40 mm con impedancia baja (47 ohm): suenan fuerte directo del celular o la placa, sin amplificador aparte",
+      "Livianos (unos 190 g sin cable): aguantan sesiones largas sentado sin que te pese la cabeza",
+      "Marca seria (Audio-Technica) con la M-Series como estandar de estudio barato",
+      "Respaldo real: 4.9 estrellas en mas de 2.200 opiniones en MercadoLibre",
+    ],
+    cons: [
+      "El cable viene fijo (3 metros, no se desenchufa): si se corta o se pela, no lo cambias, cambias el auricular",
+      "Graves flacos: el sub-bajo casi no aparece, no son para escuchar musica con pegada",
+      "Agudos irregulares: tienen un bajon en la zona media-alta, les falta brillo y detalle fino",
+      "Construccion plastica y simple: se notan mas baratos que el M40x de la misma linea",
+      "Solo con cable: no tienen Bluetooth ni microfono, no sirven para llamadas ni para usarlos sueltos",
+    ],
+    articleBody: `## Que es y para que alcanza
+
+El ATH-M20x es la puerta de entrada a los auriculares de estudio de Audio-Technica. Cerrados, circumaurales (tapan toda la oreja) y con cable. Estan pensados para monitorear, grabar y editar, no para escuchar musica tirado en el sillon.
+
+La idea de un monitor de estudio es que suene parejo: que no te invente graves ni te exagere los agudos. Asi escuchas lo que de verdad grabaste. El M20x cumple esa funcion al precio mas bajo de la linea. Si recien arrancas a editar video, hacer podcast o grabar voz en casa, alcanza.
+
+## Las specs reales
+
+Estos son los datos oficiales de Audio-Technica para este modelo exacto:
+
+- Tipo: cerrados, circumaurales (over-ear)
+- Driver: 40 mm con iman de neodimio
+- Respuesta de frecuencia: 15 a 20.000 Hz
+- Impedancia: 47 ohm
+- Sensibilidad: 96 dB
+- Potencia maxima: 700 mW a 1 kHz
+- Cable: fijo de 3 metros con plug de 3,5 mm
+- Adaptador a 6,3 mm incluido (el plug grueso de placas y consolas)
+- Peso: alrededor de 190 g sin cable
+
+La impedancia de 47 ohm es baja, asi que suenan con volumen directo del celular o de una placa de sonido modesta. No necesitas un amplificador aparte.
+
+## Para que sirven bien
+
+Para monitorear mientras grabas: el formato cerrado evita que el sonido del auricular se filtre al microfono. Para editar video o audio: los mids planos te dejan escuchar las voces tal cual son. Para empezar en home studio sin gastar de mas.
+
+Tambien sirven para escuchar con cable en la compu durante horas: son livianos y no aprietan tanto.
+
+## Lo que resignas
+
+Graves. El sub-bajo casi no esta. Si lo que queres es sentir la pegada del bombo o del bajo en la musica, este auricular te va a sonar flaco. Es una decision de diseno (un monitor no infla los graves a proposito), pero hay que saberlo.
+
+Agudos. Tienen un bajon en la zona media-alta antes de un pico mas arriba: les falta brillo parejo y detalle fino. Para mezclar sirven; para disfrutar musica brillante, hay opciones mejores.
+
+Conectividad. Solo cable, sin Bluetooth y sin microfono. No los uses para llamadas ni para andar sueltos por la calle.
+
+## La contra real: el cable fijo
+
+El cable viene soldado al auricular: no se desenchufa. En la misma linea, el M40x para arriba traen cable desmontable. Aca no. El cable es el punto que mas se rompe en un auricular con uso: si se pela o se corta, no cambias el cable, cambias el auricular entero. Si lo vas a mover mucho, tenelo en cuenta.
+
+La construccion tambien es la mas simple de la serie: plastico, headband fino. Se notan mas baratos que un M40x. A cambio, son los mas livianos.
+
+## Para quien si y para quien no
+
+Si: arrancas a grabar, editar o hacer podcast y queres un monitor honesto con cable sin gastar de mas. Si trabajas sentado y no te molesta el cable.
+
+No: queres graves para escuchar musica, los vas a llevar a entrenar (se zafan con el movimiento), necesitas Bluetooth o microfono, o queres un cable que puedas reemplazar el dia que se rompa.
+
+## Veredicto
+
+El ATH-M20x hace una cosa y la hace bien: ser el monitor de estudio mas barato de una marca seria, con sonido parejo para empezar. Lo respaldan 4.9 estrellas en mas de 2.200 opiniones. Las pegas son claras y consistentes: cable fijo, graves flacos, sin Bluetooth. Si tu uso es grabar y editar, es la entrada logica. Si tu uso es escuchar musica con pegada o moverte, mira otra cosa.`,
+    faq: [
+      {
+        question: "El cable del ATH-M20x es desmontable?",
+        answer: "No. El M20x trae un cable fijo de 3 metros, soldado al auricular: no se desenchufa ni se reemplaza. Si queres cable desmontable dentro de la misma linea, tenes que ir al M40x para arriba.",
+      },
+      {
+        question: "Sirve el ATH-M20x para escuchar musica?",
+        answer: "Se puede, pero no es lo suyo. Es un monitor de estudio: suena parejo y con graves flacos a proposito. Si buscas pegada en los bajos para escuchar musica, te va a sonar plano. Para grabar y editar, en cambio, ese sonido honesto es la ventaja.",
+      },
+      {
+        question: "Tiene Bluetooth o microfono?",
+        answer: "No. El M20x es solo con cable, sin Bluetooth y sin microfono. No sirve para llamadas ni para usarlo suelto. Si buscas la version inalambrica, esa es el M20xBT, que es otro producto.",
+      },
+      {
+        question: "Necesito un amplificador para usarlos?",
+        answer: "No. Con 47 ohm de impedancia suenan con volumen directo del celular, la notebook o una placa de sonido basica. No hace falta un amplificador aparte.",
+      },
+      {
+        question: "Que diferencia hay entre el ATH-M20x y el M30x o M40x?",
+        answer: "El M20x es el de entrada: el mas barato, con cable fijo. El M30x suma algo mas de detalle. El M40x sube a respuesta plana para mezclar y trae cable desmontable. A mas modelo, mas precio y mas prestaciones; el M20x es el piso de la linea.",
+      },
+      {
+        question: "Sirven para grabar voz o podcast?",
+        answer: "Si, para eso estan pensados. Al ser cerrados, no dejan que el sonido del auricular se filtre al microfono mientras grabas. Son una opcion de entrada habitual para home studio, podcast y edicion.",
+      },
+      {
+        question: "Sirven para entrenar o correr?",
+        answer: "No. Son over-ear de estudio, con calce flojo y cable: se zafan con el movimiento. Para entrenar conviene un auricular deportivo, in-ear o de oreja abierta, no este.",
+      },
+    ],
   },
   {
     id: "MLA6344268",
@@ -2151,12 +7851,109 @@ export const curatedProducts: Product[] = [
       { label: "Conexión", value: "Con cable" },
       { label: "Uso", value: "Monitoreo con más detalle que el M20x" },
       { label: "Marca", value: "Audio-Technica" },
+      { label: "Driver", value: "40 mm con imanes de neodimio y bobina CCAW" },
+      { label: "Respuesta de frecuencia", value: "15 - 22.000 Hz" },
+      { label: "Impedancia", value: "47 ohms" },
+      { label: "Sensibilidad", value: "96 dB/mW" },
+      { label: "Potencia máxima de entrada", value: "1.300 mW a 1 kHz" },
+      { label: "Cable", value: "Fijo, 3 m, salida por un solo lado" },
+      { label: "Peso", value: "205 g (sin cable)" },
+      { label: "Incluye", value: "Adaptador de 6.3 mm y estuche" },
+      { label: "Diseño", value: "Plegable, cápsulas giran 90°" },
     ],
     relatedProducts: ["MLA6343490", "MLA6337847"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Audio-Technica ATH-M30x: monitor de estudio cerrado, un escalón de detalle sobre el M20x. Con cable, para monitoreo y edición.",
+    seoTitle: "Audio-Technica ATH-M30x: para quién sí y para quién no",
+    metaDescription: "Auricular cerrado de monitoreo Audio-Technica ATH-M30x: 40mm, 47 ohms, cable fijo de 3m. Para grabar y editar en casa. Lo bueno, la contra y si conviene el M40x.",
+    verdict: "Para quien graba o edita en casa y quiere un cerrado honesto con más detalle que el de entrada, el ATH-M30x cumple: 40mm, 47 ohms (anda sin amplificador), aísla bien y tiene 4.9 estrellas en más de 1.000 opiniones. No es para vos si vas a mezclar en serio (la respuesta no es del todo plana) o si te molesta el cable fijo de 3 metros: por poco más, el M40x trae sonido más neutro y cable desmontable.",
+    pros: [
+      "Driver de 40mm con 47 ohms y 96 dB de sensibilidad: suena fuerte y claro directo del celular, la notebook o una placa, sin amplificador",
+      "Diseño cerrado over-ear que aísla del ruido de afuera: sirve para grabar voz sin que se filtre el sonido del auricular al micrófono",
+      "Más detalle en agudos y medios-altos que el M20x de entrada (llega a 22.000 Hz): cymbals, voces y guitarra acústica con más definición",
+      "Vincha plegable con cápsulas que giran 90 grados para monitorear con un oído, más estuche y adaptador de 6.3mm incluidos",
+      "Marca con trayectoria en monitoreo de estudio y respaldo real: 4.9 estrellas en más de 1.000 opiniones en MercadoLibre",
+    ],
+    cons: [
+      "Cable fijo de 3 metros, no desmontable: si se daña hay que repararlo, no se reemplaza enchufando otro como en el M40x",
+      "La respuesta no es del todo plana (tiene una caída marcada cerca de 5 kHz): graba y edita bien, pero para mezclar con referencia neutra el M40x es más fiel",
+      "Cable largo de 3m sin versión corta ni rulo: cómodo en escritorio fijo, incómodo si grabás parado o en movimiento",
+      "Aísla agudos pero deja pasar los graves bajos del ambiente: no corta el ruido bajo como unos con cancelación activa",
+      "El armado es funcional pero plástico: la terminación no es tan refinada como modelos más caros de la misma línea",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+El Audio-Technica ATH-M30x es un auricular de estudio cerrado, over-ear, con cable. Está pensado para grabar y editar en casa: monitorear lo que entra por el micrófono, escuchar una edición con detalle, practicar con un instrumento.
+
+Es el escalón del medio de la línea M de Audio-Technica. Arriba del M20x de entrada, abajo del M40x. La diferencia con el M20x es que el M30x da más detalle en agudos y medios-altos.
+
+Si querés un cerrado serio para producir en casa sin gastar de más, entra en ese lugar. No es un auricular para escuchar música tirado en el sillón con graves potentes: es una herramienta de trabajo.
+
+## Las funciones clave
+
+Trae driver de 40mm con imanes de neodimio y bobina de aluminio con baño de cobre. La respuesta de frecuencia va de 15 a 22.000 Hz.
+
+Lo importante para el uso real: 47 ohms de impedancia y 96 dB de sensibilidad. En criollo, suena fuerte y claro enchufado directo al celular, la notebook o una placa de sonido básica. No necesitás un amplificador aparte.
+
+Al ser cerrado, aísla. Eso sirve cuando grabás voz: el sonido del auricular no se filtra al micrófono. Y te aísla del ruido de afuera para concentrarte en la edición.
+
+La vincha se pliega, las cápsulas giran 90 grados para monitorear con un oído, y viene con estuche y adaptador de 6.3mm para conectarlo a una consola o interfaz.
+
+## Lo que resignás
+
+El cable es de 3 metros y es fijo. No se desconecta. Si se daña, hay que repararlo, no lo reemplazás enchufando otro. Este es el punto donde el M40x toma ventaja: ese sí trae cable desmontable.
+
+Tampoco hay versión corta ni cable en rulo. Tres metros es cómodo en un escritorio fijo y molesto si grabás parado o te movés.
+
+El sonido no es perfectamente plano. Tiene una caída marcada cerca de los 5 kHz. Para grabar y editar va bien. Para mezclar con referencia neutra, donde necesitás que el auricular no te mienta, queda corto.
+
+## La contra real
+
+El cable fijo es la pega que más vas a notar a la larga. Los cables de auricular son la primera pieza que se gasta, y acá no podés simplemente cambiarlo. Es la diferencia concreta de precio con el M40x, que cuesta poco más y lo resuelve.
+
+La segunda: no esperes neutralidad de mezcla. Está afinado más para grabar voces que para tomar decisiones finas de mezcla. El armado es plástico, funcional, no de terminación fina.
+
+## Para quién sí y para quién no
+
+Sí, si recién armás un home studio, grabás voz o instrumento, editás podcast o video, y querés un cerrado honesto que aísle y suene sin amplificador. A ese uso el M30x le sobra.
+
+No, si vas a mezclar en serio y necesitás respuesta plana: ahí mirá el M40x. Tampoco si el cable fijo te traba (sos de romper cables o querés poder cambiarlo). Y no, si lo querés para escuchar música con graves potentes: este apunta a detalle, no a fiesta.
+
+## Veredicto
+
+El ATH-M30x es la opción correcta para producir en casa con presupuesto medido: 40mm, 47 ohms que andan sin amplificador, buena aislación y 4.9 estrellas en más de 1.000 opiniones. La contra es el cable fijo de 3 metros y que no es del todo plano. Si esos dos puntos te importan, sumá un poco más y andá por el M40x. Si no, este cumple sin vueltas.`,
+    faq: [
+      {
+        question: "¿El cable del ATH-M30x es desmontable?",
+        answer: "No. El M30x trae un cable fijo de 3 metros, de salida por un solo lado. No se desconecta, así que si se daña hay que repararlo. Si querés cable desmontable, el M40x de la misma línea lo trae.",
+      },
+      {
+        question: "¿Necesita amplificador para sonar bien?",
+        answer: "No. Con 47 ohms de impedancia y 96 dB de sensibilidad, suena fuerte y claro enchufado directo al celular, la notebook o una placa de sonido. Un amplificador aparte no es necesario para uso normal.",
+      },
+      {
+        question: "¿Conviene el M30x o el M40x?",
+        answer: "Depende del uso. El M30x está bien para grabar voz y editar. El M40x cuesta poco más y suma respuesta más plana (mejor para mezclar) y cable desmontable. Si vas a mezclar en serio o querés poder cambiar el cable, conviene el M40x.",
+      },
+      {
+        question: "¿Sirve para grabar voz y podcast?",
+        answer: "Sí, es uno de sus usos fuertes. Al ser cerrado, aísla el sonido del auricular para que no se filtre al micrófono mientras grabás. Y trae adaptador de 6.3mm para conectarlo a una interfaz o consola.",
+      },
+      {
+        question: "¿Cuál es la diferencia con el M20x?",
+        answer: "El M30x da más detalle en agudos y medios-altos: llega a 22.000 Hz contra los 20.000 del M20x. Voces, platillos y guitarra acústica se escuchan con más definición. También aísla y se ajusta algo mejor.",
+      },
+      {
+        question: "¿Es bueno para escuchar música o solo para estudio?",
+        answer: "Está pensado para estudio: prioriza detalle, no graves potentes. Para escuchar música funciona, pero si buscás un sonido divertido con mucho bajo, no es lo suyo. Es una herramienta de monitoreo, no un auricular de consumo.",
+      },
+      {
+        question: "¿Aísla el ruido de afuera?",
+        answer: "Aísla de forma pasiva, sobre todo en agudos. Corta bastante el ruido alto del ambiente, pero deja pasar los graves bajos (motores, aire acondicionado). No tiene cancelación activa de ruido.",
+      },
+    ],
   },
   {
     id: "MLA6337847",
@@ -2184,12 +7981,99 @@ export const curatedProducts: Product[] = [
       { label: "Conexión", value: "Con cable (desmontable)" },
       { label: "Sonido", value: "Respuesta plana, ideal para mezcla" },
       { label: "Marca", value: "Audio-Technica" },
+      { label: "Driver", value: "40 mm (imán de neodimio, bobina CCAW)" },
+      { label: "Impedancia", value: "35 ohms" },
+      { label: "Sensibilidad", value: "98 dB" },
+      { label: "Peso", value: "240 g (sin cable)" },
+      { label: "Cables incluidos", value: "Dos de 3 m (recto y enrollado) + adaptador a 6,3 mm" },
+      { label: "Cápsulas", value: "Rotan 90° para monitoreo mono" },
     ],
     relatedProducts: ["MLA24560880", "MLA6344268"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Audio-Technica ATH-M40x: monitor de estudio con respuesta de sonido plana, ideal para mezclar con referencia neutra. Cable desmontable, gama profesional.",
+    seoTitle: "Audio-Technica ATH-M40x: el monitor plano para mezclar",
+    metaDescription: "El ATH-M40x es para quien mezcla o edita y quiere sonido neutro de referencia. Con cable, sin micrófono. Para escuchar música con graves, mirá el M50x.",
+    verdict: "Para quien produce, mezcla o edita audio y necesita una referencia neutra y honesta, el ATH-M40x es de lo más recomendado del mercado: respuesta plana, 40 mm, cable desmontable y 4.9 estrellas en más de 1.000 opiniones. Si lo querés para escuchar música con graves potentes, llevártelo a la calle o usarlo en llamadas, no es para vos: es con cable, no trae micrófono y suena chato a propósito.",
+    pros: [
+      "Respuesta de sonido plana: muestra el audio como es, sin maquillarlo, ideal para mezclar con referencia neutra",
+      "Cable desmontable: si se rompe o engancha, lo cambiás sin tirar el auricular",
+      "Trae dos cables de 3 metros (recto y enrollado) más adaptador a plug grande (6,3 mm)",
+      "Cápsulas que rotan 90 grados, sirve para monitorear con un solo oído",
+      "Liviano (240 g) y con presión de vincha moderada: se banca sesiones largas",
+      "Respaldo real: 4.9 estrellas en más de 1.000 opiniones y marca con peso en estudio",
+    ],
+    cons: [
+      "Es con cable y no trae micrófono ni Bluetooth: no sirve para llamadas, gaming con chat ni para usarlo en la calle",
+      "El sonido plano no es para todos: si buscás graves marcados para música, lo vas a sentir flojo",
+      "Las almohadillas son de cuerina y retienen calor; en verano o sesiones largas transpirás la oreja",
+      "La aislación es apenas correcta para ser cerrado: filtra algo de ruido y deja escapar sonido a volumen alto",
+      "El cable propietario se traba bien, pero el repuesto original sale caro",
+    ],
+    articleBody: `## Para quién es (y para quién no)
+
+El ATH-M40x es para quien trabaja con audio: producís, mezclás, editás video o grabás y necesitás escuchar el sonido como es, sin que el auricular lo "mejore". Su gracia es justamente esa: respuesta plana. No te infla los graves ni te endulza los agudos. Te muestra el material crudo para que tomes decisiones que después suenen bien en cualquier parlante.
+
+Si lo que querés es escuchar Spotify con graves que pateen, llevártelo al colectivo o usarlo para jugar con chat de voz, este no es tu auricular. Es con cable, no tiene micrófono y suena neutro a propósito.
+
+## Qué es y qué resuelve
+
+Es un auricular de estudio cerrado, over-ear (tapa toda la oreja), con cable. Driver de 40 mm. Impedancia de 35 ohms, así que lo movés bien desde una notebook, un celular o una placa de audio chica, sin necesidad de amplificador.
+
+Dentro de la línea M de Audio-Technica, el M40x es el escalón de monitoreo serio: más neutro y honesto que el M30x, y más plano que el M50x (que mete más graves y es más para disfrutar la música).
+
+## Las funciones que importan
+
+Cable desmontable: se conecta y se traba con un giro. Si lo enganchás con la silla o se gasta, comprás otro y listo, no tirás el auricular. Trae dos cables de 3 metros, uno recto y uno enrollado, más el adaptador a plug grande de 6,3 mm para conectarlo a una consola o interfaz.
+
+Cápsulas rotativas: giran 90 grados. Sirve para apoyarte un solo lado en la oreja (monitoreo mono) y para guardarlo más plano. Pesa 240 gramos y la vincha no aprieta de más, así que aguanta horas puesto.
+
+## Lo que resignás
+
+No hay micrófono, no hay Bluetooth, no hay cancelación de ruido. Es un auricular de trabajo, no un manos libres ni unos auriculares de calle. Todo lo que ganás en fidelidad lo pagás en versatilidad.
+
+El sonido plano también es un "contra" según para qué lo uses. Si venís de auriculares con graves marcados, los primeros días te va a parecer flojo. Eso no es un defecto: es el punto del producto.
+
+## La contra real
+
+Dos cosas concretas. Una: las almohadillas son de cuerina y retienen calor. En sesiones largas o en verano, la oreja transpira. Si usás anteojos, además la patilla rompe un poco el sello.
+
+Dos: la aislación es apenas correcta para ser cerrado. Aísla algo, pero no es un tapón total, y a volumen alto deja escapar sonido. Para grabar voz cerca de un micrófono abierto, tenelo en cuenta.
+
+## Veredicto
+
+Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las referencias más sólidas y honestas en su precio: plano, liviano, con cable que cambiás y respaldo de 4.9 estrellas en más de 1.000 opiniones. Si querés graves, llamadas o usarlo en la calle, mirá otra cosa. Y si dudás entre este y el M50x: M40x para trabajar con referencia neutra, M50x si además querés disfrutar la música.`,
+    faq: [
+      {
+        question: "¿El Audio-Technica M40x trae micrófono?",
+        answer: "No. Es un auricular de estudio con cable, sin micrófono y sin Bluetooth. No sirve para llamadas ni para gaming con chat de voz. Si necesitás micrófono, este modelo no es para vos.",
+      },
+      {
+        question: "¿El M40x tiene respuesta plana o graves potentes?",
+        answer: "Tiene respuesta plana, neutra. Está hecho para mostrar el sonido como es y mezclar con referencia, no para inflar los graves. Si buscás graves marcados para escuchar música, conviene el M50x, que es más potente abajo.",
+      },
+      {
+        question: "¿Conviene el M40x o el M50x?",
+        answer: "M40x si tu prioridad es mezclar y editar con sonido neutro y honesto. M50x si además querés disfrutar la música, con más graves y escena más amplia. Los dos son cerrados, con cable desmontable y de la misma familia.",
+      },
+      {
+        question: "¿El cable del M40x es desmontable?",
+        answer: "Sí. El cable se conecta y se traba con un giro, así que si se rompe o se engancha lo cambiás sin tirar el auricular. Vienen dos cables de 3 metros (uno recto y uno enrollado) más adaptador a plug grande de 6,3 mm.",
+      },
+      {
+        question: "¿Necesito un amplificador para usar el M40x?",
+        answer: "No. Tiene 35 ohms de impedancia, así que lo movés bien desde una notebook, un celular o una placa de audio chica. Un amplificador no es necesario para uso normal.",
+      },
+      {
+        question: "¿Sirve para escuchar música o solo para estudio?",
+        answer: "Sirve para los dos, pero está pensado para estudio. Para música suena detallado y limpio, aunque con graves más contenidos que un auricular de consumo. Si venís de uno con mucho bajo, al principio lo vas a sentir más chato.",
+      },
+      {
+        question: "¿El M40x aísla bien el ruido de afuera?",
+        answer: "Es cerrado, así que aísla algo, pero la aislación es apenas correcta: no es cancelación activa ni un tapón total, y a volumen alto deja escapar algo de sonido. Para ambientes muy ruidosos no es lo ideal.",
+      },
+    ],
   },
   {
     id: "MLA24560880",
@@ -2217,12 +8101,103 @@ export const curatedProducts: Product[] = [
       { label: "Conexión", value: "Con cable (desmontable)" },
       { label: "Reputación", value: "El estándar de la industria" },
       { label: "Marca", value: "Audio-Technica" },
+      { label: "Driver", value: "45 mm dinámico, imán de neodimio" },
+      { label: "Tipo", value: "Cerrado over-ear (circumaural)" },
+      { label: "Impedancia", value: "38 ohms" },
+      { label: "Respuesta de frecuencia", value: "15 - 28.000 Hz" },
+      { label: "Sensibilidad", value: "99 dB" },
+      { label: "Peso", value: "285 g (sin cable)" },
+      { label: "Cables incluidos", value: "3 desmontables: 1,2 m recto, 3 m recto y 1,2-3 m rulo" },
+      { label: "Plegado", value: "Auriculares rotan 90 grados y se pliegan" },
     ],
     relatedProducts: ["MLA6337847", "MLA6072318"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Audio-Technica ATH-M50x: el monitor de estudio más famoso, un estándar de la industria. Sonido detallado con graves marcados, cable desmontable. La referencia de la marca.",
+    seoTitle: "Audio-Technica ATH-M50x: el clásico de estudio que rinde",
+    metaDescription: "Para quien quiere unos auriculares de estudio cerrados con graves marcados y aislamiento. Specs reales, las tres mechas incluidas y la pega del M50x antes de comprar.",
+    verdict: "Para quien graba, edita video o escucha música con detalle y quiere unos cerrados que aíslen, el ATH-M50x es la apuesta segura: 45mm, cable desmontable, aislamiento pasivo bueno y 4.9 estrellas en 414 opiniones. Si buscás referencia 100% plana para masterizar, querés micrófono para llamadas, o pretendés inalámbrico, no es para vos: tiene los graves marcados, va siempre con cable y no trae mic.",
+    pros: [
+      "Driver de 45mm con sonido detallado y graves contundentes, sin que el bajo se coma los medios",
+      "Tres mechas desmontables incluidas (1,2m recta, 3m recta y 1,2-3m rulo): si se rompe el cable, lo cambiás y no tirás el auricular",
+      "Aislamiento pasivo bueno por ser cerrado over-ear: tapa bastante del ruido de afuera sin cancelación activa",
+      "Auriculares rotan 90 grados y se pliegan: monitoreás con una oreja y entran en su funda para llevar",
+      "Impedancia de 38 ohms: suena fuerte directo del celular o la notebook, sin amplificador aparte",
+      "4.9 estrellas en 414 opiniones, un estándar de estudio que se vende hace años",
+    ],
+    cons: [
+      "No es de respuesta plana de referencia: trae los graves arriba de neutro y un realce en los agudos, así que para masterizar fino conviene compensar o ir a un monitor más neutro",
+      "Solo con cable: no hay Bluetooth ni batería, dependés de la mecha enchufada",
+      "No trae micrófono: para llamadas o juego en equipo necesitás un mic aparte",
+      "Por ser cerrado, el escenario sonoro es más cerrado que unos abiertos: la música suena menos 'amplia'",
+      "Los almohadones son de cuero sintético: cómodos pero dan calor en sesiones largas y con los años pueden descascararse",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Audio-Technica ATH-M50x es un auricular de estudio cerrado, over-ear, con cable. Apunta a quien graba, edita audio o video, mezcla o simplemente escucha música con atención y quiere aislarse del ruido de afuera. Es uno de los modelos más vendidos de su tipo hace años, con 4.9 estrellas en 414 opiniones en MercadoLibre.
+
+No es un auricular para salir a la calle con el celular y olvidarte del cable. Es para sentarte a escuchar o trabajar.
+
+## Las specs que importan
+
+Trae driver de 45mm, respuesta de 15 a 28.000 Hz e impedancia de 38 ohms. Ese número bajo de impedancia significa algo concreto: suena con buen volumen enchufado directo al celular o a la notebook, sin necesitar un amplificador aparte.
+
+Pesa 285 gramos, los auriculares rotan 90 grados para monitorear con una oreja y se pliegan para guardarlos en su funda. Es portátil dentro de lo que un over-ear de estudio puede ser.
+
+## Las tres mechas desmontables
+
+El cable es desmontable y vienen tres en la caja: una recta de 1,2 metros, una recta de 3 metros y una tipo rulo (de 1,2 a 3 metros estirada). Esto resuelve el problema más común de los auriculares con cable: cuando el cable se pela o se corta, lo cambiás y seguís usando el auricular. No tirás todo.
+
+La recta corta sirve para el celular, la larga y el rulo para la compu o la mesa de mezcla.
+
+## El sonido: graves marcados, no plano
+
+Acá está el matiz importante. El M50x no es de respuesta plana de referencia. Tiene los graves arriba de neutro y un realce en los agudos, lo que lo hace divertido para escuchar música y muy bueno para detectar detalle. El bajo es contundente pero no se mete sobre los medios.
+
+Para grabar, editar video o disfrutar música, esa firma juega a favor. Para masterizar con precisión milimétrica, conviene saber que el grave está empujado y compensar, o ir a un modelo más neutro.
+
+## Lo que resignás
+
+Es solo con cable: no hay Bluetooth ni batería. No trae micrófono, así que para llamadas o juego en equipo vas a necesitar un mic aparte. Y por ser cerrado, el escenario sonoro es más cerrado que el de unos auriculares abiertos: la música suena menos amplia, a cambio del aislamiento.
+
+Los almohadones son de cuero sintético. Cómodos, pero dan calor en sesiones largas y con los años pueden descascararse (es el repuesto más buscado de este modelo).
+
+## Para quién sí y para quién no
+
+Sí: si grabás, editás, mezclás de manera casera o escuchás música con detalle y querés cerrados que aíslen y duren, con cable reemplazable. Es la apuesta segura del rubro.
+
+No: si necesitás referencia 100% plana para masterización profesional, si querés inalámbrico, o si buscás un auricular con micrófono integrado para llamadas y juego. Para esos casos hay opciones mejores.`,
+    faq: [
+      {
+        question: "¿El ATH-M50x es inalámbrico o con cable?",
+        answer: "Es con cable. Esta versión negra no tiene Bluetooth ni batería. La ventaja es que el cable es desmontable y vienen tres en la caja (1,2m recta, 3m recta y una tipo rulo), así que si se rompe lo cambiás sin tirar el auricular. Si querés Bluetooth, Audio-Technica tiene la variante M50xBT, que es otro producto.",
+      },
+      {
+        question: "¿Sirve para mezclar y masterizar?",
+        answer: "Para grabar y mezclar de forma casera, sí, y mucha gente lo usa para eso. Pero no es de respuesta 100% plana de referencia: tiene los graves empujados y un realce en los agudos. Para masterización profesional conviene compensar esa firma o usar un monitor más neutro.",
+      },
+      {
+        question: "¿Tiene micrófono para llamadas o juego?",
+        answer: "No. El M50x es un auricular de estudio sin micrófono integrado. Para llamadas o juego en equipo vas a necesitar un micrófono aparte (de mesa o un mic clip).",
+      },
+      {
+        question: "¿Necesito un amplificador para usarlo?",
+        answer: "No. Con 38 ohms de impedancia suena con buen volumen enchufado directo al celular, la notebook o la placa de sonido. Un amplificador puede sumar, pero no es obligatorio para que ande bien.",
+      },
+      {
+        question: "¿Aísla bien del ruido de afuera?",
+        answer: "Aísla bien de forma pasiva por ser cerrado y over-ear: tapa buena parte del ruido del ambiente sin tener cancelación activa de ruido. No esperes silencio total como en unos con ANC, pero corta bastante el sonido de alrededor.",
+      },
+      {
+        question: "¿Se puede usar para escuchar música y no solo para estudio?",
+        answer: "Sí. Justamente su firma con graves marcados y agudos realzados lo hace entretenido para escuchar música, además de para trabajar. Lo que resignás frente a unos abiertos es amplitud del escenario sonoro, a cambio de aislamiento.",
+      },
+      {
+        question: "¿Los almohadones se pueden reemplazar?",
+        answer: "Sí. Son de cuero sintético y con los años pueden descascararse o aplastarse; es el repuesto más buscado del modelo y se consiguen de marca y genéricos. Cambiarlos devuelve la comodidad sin reemplazar todo el auricular.",
+      },
+    ],
   },
   {
     id: "MLA6072318",
@@ -2250,12 +8225,102 @@ export const curatedProducts: Product[] = [
       { label: "Conexión", value: "Con cable" },
       { label: "Fuerte", value: "Gran aislamiento del ruido externo (pasivo)" },
       { label: "Marca", value: "Sennheiser" },
+      { label: "Respuesta de frecuencia", value: "8 a 25.000 Hz" },
+      { label: "Impedancia", value: "64 Ω" },
+      { label: "Presión sonora máxima (SPL)", value: "113 dB" },
+      { label: "Distorsión (THD)", value: "0,1%" },
+      { label: "Aislamiento pasivo", value: "Hasta 32 dB" },
+      { label: "Cable", value: "Enrulado, de 1,3 a 3 m, fijo (no desmontable)" },
+      { label: "Conector", value: "Ficha 3,5 mm con adaptador a 6,3 mm incluido" },
+      { label: "Peso", value: "285 g (sin cable)" },
+      { label: "Diseño", value: "Plegable, almohadillas y vincha reemplazables" },
     ],
     relatedProducts: ["MLA24560880", "MLA6343490"],
     priceUpdated: "2026-06-26",
     priceLastChecked: "2026-06-26",
     priceStatus: "fresh",
     description: "Sennheiser HD 280 Pro: monitor de estudio cerrado con gran aislamiento pasivo del ruido, un clásico para grabación. Con cable, la alternativa Sennheiser a la línea M.",
+    seoTitle: "Sennheiser HD 280 Pro: aislamiento de estudio con cable",
+    metaDescription: "Sennheiser HD 280 Pro: auricular cerrado de estudio con hasta 32 dB de aislamiento pasivo. Para grabar y mezclar, no para salir a la calle. Specs reales y la contra.",
+    verdict: "Si grabás, mezclás o monitoreás audio y necesitás que no se filtre sonido al micrófono, el HD 280 Pro es un clásico que cumple: hasta 32 dB de aislamiento pasivo, respuesta plana de estudio y repuestos que conseguís suelto. 4.8 estrellas en 138 opiniones. Si querés auriculares para la calle, para escuchar música con graves marcados o para sesiones de muchas horas seguidas, no es para vos: aprietan fuerte, el cable es enrulado y fijo, y suenan neutros a propósito.",
+    pros: [
+      "Aislamiento pasivo de hasta 32 dB: tapa el ruido externo y evita que se filtre sonido al micrófono al grabar",
+      "Respuesta plana de estudio (8 a 25.000 Hz): suena neutro, ideal para mezclar y monitorear sin colorear el audio",
+      "64 Ω: lo manejás directo de una interfaz o consola sin necesitar amplificador aparte",
+      "Almohadillas y vincha reemplazables: si se gastan, comprás el repuesto en vez de tirar el auricular",
+      "Diseño plegable: se compacta para guardar o llevar al estudio",
+      "4.8 estrellas en 138 opiniones en MercadoLibre",
+    ],
+    cons: [
+      "Aprieta fuerte la cabeza (clamping alto): es lo que da el aislamiento, pero cansa en sesiones largas, sobre todo las primeras semanas",
+      "Cable enrulado de 1,3 a 3 m y fijo: no se desmonta ni se reemplaza, si se corta es un problema",
+      "Sonido neutro a propósito: no trae los graves marcados que busca quien escucha música por placer",
+      "Es con cable: no tiene Bluetooth, no sirve para usar suelto en el celular o en la calle",
+      "285 gramos: no es de los más livianos para tener puesto todo el día",
+    ],
+    articleBody: `## Para quién es y para quién no
+
+El Sennheiser HD 280 Pro es un auricular de estudio cerrado. Está pensado para grabar, mezclar y monitorear audio, no para salir a la calle ni para escuchar música con graves potentes.
+
+Si hacés home studio, producción musical, edición de video o streaming y necesitás que el sonido no se filtre al micrófono, este es de los clásicos que la gente sigue comprando. Si lo que querés es un auricular para el celular, para el gimnasio o para escuchar música con graves marcados, mirá otra cosa: este suena neutro a propósito y va con cable.
+
+## Qué hace bien: el aislamiento
+
+El punto fuerte es el aislamiento pasivo: hasta 32 dB sin batería ni electrónica, solo por el diseño cerrado y la fuerza con la que apoya en la cabeza.
+
+Eso sirve para dos cosas. Cuando grabás, evita que el sonido del auricular se cuele en el micrófono. Cuando mezclás, tapa el ruido de alrededor para que escuches solo tu mezcla. Es un aislamiento real, no marketing: está medido y es de los mejores en su rango de precio.
+
+## El sonido es plano (y eso es la idea)
+
+La respuesta va de 8 a 25.000 Hz y está pensada para ser neutra. No infla los graves ni los agudos. En un auricular de estudio eso es lo que querés: escuchás el audio como es, no maquillado, así tomás decisiones de mezcla que después suenan parejo en otros equipos.
+
+Por eso mismo, para escuchar música por placer puede resultar "aburrido": le falta el golpe de graves que traen los auriculares de consumo.
+
+## Datos técnicos que importan
+
+Tiene 64 Ω de impedancia, así que lo enchufás directo a una interfaz de audio, una consola o una notebook sin necesitar un amplificador aparte. La presión sonora máxima es de 113 dB y la distorsión es baja (0,1%).
+
+El cable es enrulado y se estira de 1,3 a 3 metros. Trae ficha de 3,5 mm con adaptador a 6,3 mm incluido, así que entra tanto en la interfaz como en el celular o la notebook. Pesa 285 gramos sin cable y es plegable para guardarlo.
+
+## Lo que resignás
+
+Dos cosas concretas. Primero, la comodidad en sesiones largas: aprieta fuerte la cabeza, y esa misma presión que te da el aislamiento es la que cansa después de varias horas. Las reseñas técnicas lo marcan parejo, sobre todo en las primeras semanas de uso o si tenés la cabeza grande.
+
+Segundo, el cable. Es fijo y enrulado: no se desmonta. En otros auriculares de estudio el cable es reemplazable, y acá no. Si se corta o se daña, es un dolor de cabeza. La parte buena es que las almohadillas y la vincha sí se cambian, y conseguís el repuesto suelto.
+
+## Veredicto
+
+Es un caballo de batalla de estudio, no un auricular de uso diario. Compralo si grabás o mezclás y el aislamiento es prioridad. No lo compres si buscás Bluetooth, graves potentes o algo para tener puesto todo el día sin que te apriete.`,
+    faq: [
+      {
+        question: "¿El Sennheiser HD 280 Pro sirve para escuchar música o solo para estudio?",
+        answer: "Sirve para las dos cosas, pero está pensado para estudio. Suena neutro a propósito (respuesta plana de 8 a 25.000 Hz), así que para grabar y mezclar es ideal. Para escuchar música por placer puede resultar aburrido porque no infla los graves como los auriculares de consumo.",
+      },
+      {
+        question: "¿Necesita amplificador para sonar bien?",
+        answer: "No. Tiene 64 Ω de impedancia, que es bajo, así que lo enchufás directo a una interfaz de audio, una consola, una notebook o el celular y suena fuerte sin amplificador aparte.",
+      },
+      {
+        question: "¿Tiene Bluetooth o es con cable?",
+        answer: "Es con cable, no tiene Bluetooth. El cable es enrulado y va de 1,3 a 3 metros. Trae ficha de 3,5 mm con adaptador a 6,3 mm incluido.",
+      },
+      {
+        question: "¿El cable se puede cambiar si se rompe?",
+        answer: "No. El cable es fijo, no se desmonta ni se reemplaza, esa es una de sus contras. Lo que sí se reemplaza son las almohadillas y la vincha, que se consiguen como repuesto suelto.",
+      },
+      {
+        question: "¿Cuánto aislamiento de ruido tiene?",
+        answer: "Hasta 32 dB de aislamiento pasivo, sin batería ni cancelación electrónica. Es por el diseño cerrado y la presión con la que apoya en la cabeza. Tapa bastante el ruido externo y evita que el sonido se filtre al micrófono al grabar.",
+      },
+      {
+        question: "¿Es cómodo para usar muchas horas seguidas?",
+        answer: "Es la principal pega. Aprieta fuerte la cabeza, y esa presión es justamente la que da el aislamiento, pero cansa en sesiones largas, sobre todo las primeras semanas de uso o si tenés la cabeza grande.",
+      },
+      {
+        question: "¿Conviene el HD 280 Pro o el Audio-Technica ATH-M50x?",
+        answer: "Dependen del uso. El HD 280 Pro prioriza aislamiento y sonido neutro, con cable fijo enrulado. El ATH-M50x tiene graves más marcados y cable desmontable. Si grabás y el aislamiento manda, el Sennheiser; si querés un sonido más entretenido y poder cambiar el cable, mirá el Audio-Technica.",
+      },
+    ],
   },
   {
     id: "MLA49197748",
@@ -21365,6 +27430,90 @@ Si el precio es muy por debajo de $90.000, desconfiar. Bharara King se mantiene 
     reviewsSampledAt: "2026-06-10",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
+    metaDescription: "Sabah Al Ward de Al Wataniah, perfume árabe femenino 100ml. Floral dulce con jazmín, cacao y vainilla (no es de rosas). Para quién sí y para quién no.",
+    verdict: "Si te gustan los perfumes árabes femeninos dulces, cremosos y para clima fresco, el Sabah Al Ward cumple: jazmín, cacao y vainilla, buena duración y 4.7 estrellas en 518 opiniones por menos de la mitad de lo que sale un nicho. Para quién no: si lo comprás esperando un perfume de rosas (el nombre significa \"mañana de rosas\") te vas a confundir, porque de rosa tiene poco; y si buscás algo liviano para el calor del día, este empalaga.",
+    pros: [
+      "Floral dulce y cremoso bien armado: jazmín sambac, flor de azahar y un fondo de cacao y vainilla que lo vuelve adictivo",
+      "Buena duración: aguanta varias horas en piel y muchísimo en la ropa (reportes de más de medio día en tela)",
+      "Estela presente sin ser asfixiante en exterior",
+      "Eau de Parfum de 100 ml de marca emiratí real (Al Wataniah), no un genérico sin origen",
+      "4.7 estrellas en 518 opiniones y más de 1.000 vendidos: respaldo concreto",
+      "Precio de perfume árabe (ARS 40.999) por un perfil que recuerda a femeninos dulces de marca, con envío gratis",
+    ],
+    cons: [
+      "El nombre engaña: 'Sabah Al Ward' es 'mañana de rosas', pero NO es un perfume de rosas; mandan el jazmín, el cacao y la vainilla",
+      "Es dulce y goloso: en verano o de día con calor puede empalagar; rinde mejor de noche y en clima fresco",
+      "Circula como 'parecido a L'Interdit de Givenchy' pero NO es un clon; si lo comprás buscando esa copia, te vas a decepcionar",
+      "Es claramente femenino: no es la opción si buscás algo unisex o para hombre",
+      "La proyección es buena pero no de 'arrasa la habitación'; con pocos sprays queda discreto",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Sabah Al Ward es un perfume árabe femenino de la marca emiratí Al Wataniah, en formato Eau de Parfum de 100 ml. Es un floral dulce, tirando a goloso: jazmín y flor de azahar arriba, con un fondo de cacao, vainilla y haba tonka que lo vuelve cálido y cremoso. Si te gustan los perfumes dulces y abrazadores para clima fresco, este es para vos. Si buscás algo fresco, cítrico o liviano para el día de verano, no.
+
+Tiene 4.7 estrellas en 518 opiniones y más de 1.000 unidades vendidas en MercadoLibre. Para un perfume árabe de menos de ARS 41.000, ese respaldo no es poco.
+
+## Cómo huele de verdad
+
+Acá va el dato más importante, y el que más confunde. El nombre "Sabah Al Ward" significa "mañana de rosas", pero NO es un perfume de rosas. La rosa es apenas la inspiración del nombre: lo que sentís en la piel es jazmín sambac y flor de azahar en el corazón, sobre una base de cacao, vainilla, haba tonka y un toque de pachulí. Arriba lleva pimienta rosa y mandarina, que le dan un arranque fresco que dura poco.
+
+El resultado es un floral dulce con un costado gourmand suave por el cacao. Varios lo describen como cremoso y adictivo. Si comprás esperando un perfume de rosas clásico, te vas a confundir.
+
+## Duración y estela
+
+Esta es la parte fuerte. La duración es buena: aguanta varias horas en piel, y en la ropa es de las que dejan rastro al otro día (hay reportes de más de medio día en tela). La estela está presente sin ser asfixiante al aire libre.
+
+Un consejo práctico: con pocas aplicaciones queda discreto y elegante; si cargás de más, en un ambiente cerrado puede saturar. Es un perfume para dosificar.
+
+## Lo que resignás
+
+Es un perfume dulce y cálido, y eso define dónde rinde. De noche y en otoño-invierno, brilla. En verano, de día y con calor, empalaga rápido. No es versátil para todo el año.
+
+Tampoco es unisex: es claramente femenino. Y no es un "arrasa todo" de proyección bestial; es más bien envolvente y de piel.
+
+## La contra real
+
+Dos confusiones bajan estrellas a quien compra mal. La primera, la del nombre: esperan rosas y se encuentran con un dulce de jazmín y cacao. La segunda, las comparaciones: circula por ahí como "parecido a L'Interdit de Givenchy", pero no es un clon de ese ni de ningún diseñador puntual. Si lo comprás como copia de algo, vas a quedar disconforme. Tomalo por lo que es: un floral dulce árabe bien hecho a precio bajo.
+
+## Para quién sí y para quién no
+
+Sí: mujer a la que le gustan los perfumes dulces, cremosos y golosos; uso de noche, salidas, otoño e invierno; alguien que quiere un árabe de buena duración sin gastar lo de un nicho.
+
+No: si buscás un perfume de rosas, algo fresco para el calor del día, una fragancia unisex, o una copia exacta de un diseñador.
+
+## Veredicto
+
+Por ARS 40.999 con envío gratis, el Sabah Al Ward es un floral dulce honesto: huele bien, dura, y tiene 4.7 en 518 opiniones para respaldarlo. La única trampa es de expectativa: no es de rosas y no es un clon. Si te gustan los dulces cremosos para clima fresco, es una compra segura.`,
+    faq: [
+      {
+        question: "¿El Sabah Al Ward huele a rosas?",
+        answer: "No, y esto confunde a mucha gente. El nombre significa 'mañana de rosas', pero el perfume manda con jazmín sambac, flor de azahar, cacao y vainilla. La rosa es solo la inspiración del nombre, no la nota dominante.",
+      },
+      {
+        question: "¿De qué marca es y de dónde viene?",
+        answer: "Es de Al Wataniah, una casa de perfumes de Emiratos Árabes Unidos. Es un perfume árabe real de marca, no un genérico sin origen identificable.",
+      },
+      {
+        question: "¿Cuánto dura el Sabah Al Ward?",
+        answer: "La duración es buena: aguanta varias horas en piel y mucho más en la ropa, donde hay reportes de que persiste más de medio día. La estela está presente sin ser asfixiante al aire libre.",
+      },
+      {
+        question: "¿Es para hombre o para mujer?",
+        answer: "Es claramente femenino. Es un floral dulce y cremoso pensado para mujer; no es una opción unisex ni masculina.",
+      },
+      {
+        question: "¿Sirve para verano o para invierno?",
+        answer: "Rinde mucho mejor en otoño e invierno y de noche. Es dulce y cálido, así que en verano o de día con calor tiende a empalagar.",
+      },
+      {
+        question: "¿Es un clon de L'Interdit de Givenchy?",
+        answer: "No. Circula esa comparación, pero no es un clon de L'Interdit ni de ningún diseñador puntual. Si lo comprás esperando una copia exacta, te vas a decepcionar; tomalo como un floral dulce árabe por sí mismo.",
+      },
+      {
+        question: "¿Qué concentración y tamaño tiene?",
+        answer: "Es Eau de Parfum (EDP) en frasco de 100 ml. La concentración EDP explica la buena duración para el precio.",
+      },
+    ],
   },
   {
     id: "MLAU3562485598",
@@ -21393,6 +27542,86 @@ Si el precio es muy por debajo de $90.000, desconfiar. Bharara King se mantiene 
     reviewCount: 119,
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
+    seoTitle: "Asad Negro genérico 100ml: clon de Asad, opiniones",
+    metaDescription: "Perfume Asad Negro genérico 100ml: clon del perfil de Lattafa Asad (pimienta, piña, vainilla). Para quién sirve, qué resignás contra el original y la contra real.",
+    verdict: "Si querés el perfil del Asad (especiado-dulce, dupe del Dior Sauvage Elixir) y te importa más el aroma que la marca en el frasco, este genérico de 100ml a 35.968 cumple: 4.4 estrellas en 119 opiniones y envío gratis. No es para vos si buscás el Lattafa original (este es genérico, no de Lattafa) ni si esperás la duración y proyección del de marca: en un clon eso varía lote a lote y no está garantizado.",
+    pros: [
+      "100 ml de Eau de Parfum a 35.968: cuesta menos de la mitad que el Lattafa Asad original",
+      "Perfil especiado-dulce muy reconocido: piña y pimienta arriba, vainilla y ámbar abajo (el clon más conocido del Dior Sauvage Elixir)",
+      "Unisex con tendencia masculina: sirve para diario y salida de noche, sobre todo en otoño-invierno",
+      "4.4 estrellas en 119 opiniones y más de 100 vendidos: base de compradores real para un genérico",
+      "Envío gratis",
+    ],
+    cons: [
+      "Es genérico, NO Lattafa: el frasco negro imita la estética del Asad de marca, pero no es el mismo producto",
+      "Duración y proyección no garantizadas: en un clon varían según el lote y suelen quedar por debajo del original",
+      "El que ya conoce el Asad de Lattafa puede notar diferencias en el secado (la parte amaderada-vainillada del fondo)",
+      "Sin página de fabricante verificable: las notas son las del perfil Asad que imita, no specs confirmadas de esta botella puntual",
+      "Empalaga con calor: es un perfume dulce-especiado, rinde mejor en clima fresco que en pleno verano",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Asad Negro genérico es un perfume de 100 ml que imita el perfil del Lattafa Asad, uno de los aromas árabes más vendidos de los últimos años. Ojo con esto desde el arranque: la publicación dice "estilo árabe genérico". O sea, no es Lattafa. Es un clon que copia la idea del Asad (frasco negro con dorado, mismo aire) a un precio más bajo.
+
+Es para vos si te gusta el aroma del Asad y te da igual la marca en el frasco. No es para vos si querés específicamente el Lattafa original o si esperás el rendimiento exacto del de marca.
+
+## Cómo huele
+
+El perfil que imita es el del Asad: especiado-dulce, masculino pero usable unisex. Arriba pega pimienta negra, tabaco y piña. En el corazón, pachulí, café e iris. En el fondo, vainilla, ámbar, maderas y benjuí. Es el aroma que se hizo famoso como el clon económico del Dior Sauvage Elixir.
+
+Traducido: abre fresco y picante, y baja a algo cálido y dulzón. Rinde mejor en otoño e invierno. Con calor fuerte tiende a empalagar.
+
+## Lo que resignás contra el original
+
+Acá está la diferencia honesta. El Lattafa Asad de marca tiene una duración de entre 6 y 10 horas según el lote, con buena proyección las primeras horas. Este es genérico: la concentración y la calidad del lote varían, y lo normal es que un clon quede por debajo del original en cuánto dura y cuánto proyecta.
+
+Si nunca oliste el Asad de Lattafa, probablemente no notes la diferencia y lo disfrutes igual. Si ya lo conocés, vas a notar que el secado (la parte amaderada-vainillada del final) no es idéntico.
+
+## La contra real
+
+No hay fabricante verificable detrás de esta botella puntual. Las notas que describimos son las del perfil Asad que imita, no specs confirmadas de este genérico. Por eso no podemos prometerte una duración exacta: en clones eso depende del lote.
+
+El respaldo concreto que sí tenés son los números de la propia publicación: 4.4 estrellas en 119 opiniones y más de 100 unidades vendidas. Para un genérico, es una base de compradores razonable.
+
+## Genérico vs original: cuándo conviene cada uno
+
+Conviene el genérico si tu prioridad es gastar poco y tener el aroma puesto, sin pretensiones. A 35.968 los 100 ml, es menos de la mitad de lo que sale el Lattafa Asad Intense.
+
+Conviene ir al original si el perfume es para regalo, si te importa la marca, o si querés asegurarte la duración y proyección que tiene fama de tener el Asad de Lattafa.
+
+## Veredicto
+
+Un clon honesto a buen precio. Cumple para quien quiere el perfil del Asad sin pagar la marca, y los 4.4 con 119 opiniones lo respaldan. Si buscás el Lattafa original o el rendimiento garantizado del de marca, este no es ese producto: es genérico y la performance varía.`,
+    faq: [
+      {
+        question: "¿El Asad Negro genérico es Lattafa?",
+        answer: "No. La publicación lo aclara: es 'estilo árabe genérico'. Imita el perfil y la estética del Lattafa Asad (frasco negro con dorado), pero no es el producto de Lattafa. Si querés el original, mirá el Lattafa Asad Intense.",
+      },
+      {
+        question: "¿A qué perfume conocido se parece?",
+        answer: "Al Lattafa Asad, que a su vez es el clon árabe más famoso del Dior Sauvage Elixir. El perfil es especiado-dulce: piña y pimienta al abrir, vainilla y ámbar en el fondo.",
+      },
+      {
+        question: "¿Cuánto dura puesto?",
+        answer: "No lo podemos garantizar. El Lattafa Asad de marca dura entre 6 y 10 horas según el lote. Al ser este un genérico, la duración varía lote a lote y suele quedar por debajo del original.",
+      },
+      {
+        question: "¿Es para hombre o unisex?",
+        answer: "El perfil Asad es masculino pero se usa unisex. Tira más a hombre por las notas especiadas y amaderadas. Rinde mejor en otoño e invierno; con calor fuerte empalaga.",
+      },
+      {
+        question: "¿Cuántos ml trae y cuánto sale?",
+        answer: "Son 100 ml de Eau de Parfum a 35.968 (precio de junio 2026), con envío gratis. Es menos de la mitad de lo que cuesta el Lattafa Asad original.",
+      },
+      {
+        question: "¿Conviene este genérico o el Lattafa Asad original?",
+        answer: "El genérico si querés el aroma gastando poco y no te importa la marca. El original si es para regalo, te importa la marca, o querés asegurar la duración y proyección que tiene fama de tener el Asad de Lattafa.",
+      },
+      {
+        question: "¿Tiene buenas opiniones?",
+        answer: "Tiene 4.4 estrellas en 119 opiniones y más de 100 unidades vendidas en la publicación. Es una base de compradores real para un perfume genérico.",
+      },
+    ],
   },
   {
     id: "MLA53013853",
@@ -21923,6 +28152,87 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
     description: "Listing alternativo del Afnan 9PM EDP 100ml. Mismo producto que la ficha principal en el sitio, vendido por otro publicador en MercadoLibre. Para review editorial completa, longevidad, notas y verdict, ver la ficha principal del Afnan 9PM.",
     relatedProducts: ["MLA19846768"],
     pastelColor: "var(--pastel-pink)",
+    verdict: "Si querés un oriental dulce masculino para la noche en otoño-invierno y no querés pagar lo que vale un Jean Paul Gaultier Ultra Male, el Afnan 9PM es el dupe más conocido: manzana, canela y vainilla, 8-10 horas de duración y proyección fuerte las primeras horas. No es para vos si trabajás en oficina formal, si lo vas a usar en verano (empalaga con calor) o si buscás algo que nadie más tenga: es de los árabes más vendidos, lo vas a cruzar seguido.",
+    pros: [
+      "Dulce reconocible: manzana y canela arriba, vainilla y haba tonka abajo",
+      "Considerado el dupe del JPG Ultra Male a una fracción del precio",
+      "Longevidad de 8-10 horas reportada (hasta 12 en piel que lo fija bien)",
+      "Proyección fuerte las primeras 3-4 horas: se nota al entrar a un lugar",
+      "Eau de Parfum de 100 ml con envío gratis",
+      "Rating 4.7 en este listing y de los árabes masculinos más vendidos del catálogo",
+    ],
+    cons: [
+      "Es de los más vendidos: vas a cruzar gente con el mismo perfume",
+      "En verano la combinación dulce-vainilla empalaga y satura",
+      "No sirve para oficina formal: es fuerte y se proyecta mucho",
+      "La apertura puede sentirse un poco sintética los primeros minutos",
+      "Es un listing alternativo: solo 82 opiniones acá contra casi 1.900 en la publicación principal",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Afnan 9PM es un eau de parfum oriental dulce para hombre, en frasco de 100 ml. Es uno de los perfumes árabes masculinos más vendidos en Argentina, y su fama viene de una cosa concreta: es el dupe más conocido del Jean Paul Gaultier Ultra Male, a una fracción del precio.
+
+Para quién sí: si querés un dulce reconocible para la noche, en otoño o invierno, y entrar al mundo de los orientales gourmand sin gastar lo de un nicho. Para quién no: si necesitás algo discreto para la oficina, si lo vas a usar en pleno verano o si te molesta cruzarte gente con el mismo perfume.
+
+## Cómo huele
+
+La pirámide oficial de Afnan es: arriba bergamota, lavandina, canela y manzana; en el corazón muguete (lirio de los valles) y azahar; abajo pachulí, ámbar, vainilla y haba tonka.
+
+En la práctica abre frutal y especiado (manzana con canela) y se va asentando en un fondo cálido y dulce de vainilla, haba tonka y ámbar. Es claramente gourmand: dulce, goloso, fácil de leer. Quien conozca el Ultra Male lo va a reconocer enseguida; la diferencia es que el 9PM cambia la menta fría de la apertura del Gaultier por manzana y canela, así que se siente más cálido y frutal.
+
+## Rendimiento: duración y proyección
+
+Acá es donde justifica el precio. El consenso de reseñas internacionales lo ubica en 8 a 12 horas de duración en piel, con proyección fuerte las primeras 3 o 4 horas antes de pegarse más al cuerpo. Para un perfume de este rango de precio, rinde por encima de lo esperable.
+
+Traducido: con uno o dos toques te dura el día y la noche, y al principio se nota cuando entrás a un lugar. No es un perfume de piel: proyecta.
+
+## Lo que resignás
+
+No es original. Es de los árabes masculinos más vendidos, así que la diferenciación es baja: vas a cruzar gente con el mismo aroma. Tampoco es versátil: el perfil dulce con vainilla empalaga y satura en verano, y es demasiado fuerte para una oficina formal.
+
+Sumá dos detalles honestos: la apertura puede sentirse un poco sintética los primeros minutos hasta que asienta, y el perfil tira a juvenil, no le cae bien a todo el mundo.
+
+## La contra real de este listing
+
+Este es un listing alternativo del Afnan 9PM, vendido por otro publicador en MercadoLibre. Es el mismo producto que la ficha principal del sitio, pero con menos historial: 82 opiniones (rating 4.7) contra casi 1.900 de la publicación más establecida. Para validar con una comunidad de reseñas más grande, conviene mirar la ficha principal del Afnan 9PM.
+
+## Para quién sí y para quién no
+
+Sí: primer oriental gourmand masculino, uso nocturno, otoño-invierno, citas y salidas, y quien quiera el efecto Ultra Male sin pagarlo. No: verano caluroso, oficina formal, y quien busque un perfume que casi nadie tenga.
+
+## Veredicto
+
+El Afnan 9PM hace bien una sola cosa: ser un dulce masculino potente y reconocible para la noche fría, al precio de un árabe. Si eso es lo que buscás, es una compra segura y de las más probadas del catálogo. Si ya lo tenés o querés algo menos común, hay alternativas con más personalidad en la misma franja de precio.`,
+    faq: [
+      {
+        question: "¿El Afnan 9PM es un dupe de qué perfume?",
+        answer: "Se lo considera el clon económico del Jean Paul Gaultier Ultra Male: comparten el ADN dulce, frutal y oriental con base de vainilla y ámbar. La diferencia es que el 9PM abre con manzana y canela en vez de la menta fría del Ultra Male, así que se siente más cálido y frutal.",
+      },
+      {
+        question: "¿Cuánto dura el Afnan 9PM?",
+        answer: "El consenso de reseñas lo ubica entre 8 y 12 horas en piel, con proyección fuerte las primeras 3 o 4 horas. Para su rango de precio rinde por encima de lo esperable.",
+      },
+      {
+        question: "¿Qué notas tiene el Afnan 9PM?",
+        answer: "Pirámide oficial de Afnan: arriba bergamota, lavandina, canela y manzana; corazón de muguete y azahar; fondo de pachulí, ámbar, vainilla y haba tonka. En conjunto es un oriental dulce gourmand.",
+      },
+      {
+        question: "¿Sirve para verano o es de invierno?",
+        answer: "Es de otoño-invierno y noche. El perfil dulce con vainilla empalaga y satura con calor, así que en verano no es la mejor elección.",
+      },
+      {
+        question: "¿Es para hombre o unisex?",
+        answer: "El Afnan 9PM EDP es pour homme, una fragancia masculina. Afnan tiene otras versiones de la línea (9PM Elixir, 9PM Night Out, 9pm pour Femme) que son composiciones distintas.",
+      },
+      {
+        question: "¿Sirve para la oficina?",
+        answer: "Para oficina formal no conviene: es fuerte y proyecta mucho las primeras horas. Va mejor para salidas nocturnas, cenas y citas que para un ambiente de trabajo formal.",
+      },
+      {
+        question: "¿Por qué este listing tiene menos opiniones que otros del mismo perfume?",
+        answer: "Es un listing alternativo del mismo Afnan 9PM, publicado por otro vendedor: tiene 82 opiniones con 4.7 de rating. La publicación principal del mismo producto acumula casi 1.900 opiniones, que sirven para validar con una comunidad más grande.",
+      },
+    ],
   },
   {
     id: "MLA40157772",
@@ -21953,6 +28263,92 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
     reviewsSampledAt: "2026-06-10",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
+    metaDescription: "Review honesta del Jamal Oud de Butterfly Effect, perfume árabe amaderado de hombre hecho en Argentina. Notas, duración real, lo de las feromonas y para quién conviene.",
+    verdict: "Para el que quiere entrar a los perfumes árabes amaderados gastando poco y sin importar de Medio Oriente, el Jamal Oud de Butterfly Effect cumple: es nacional, vegano, cuero y especias dulces, y tiene 4.2 sobre 602 opiniones. Si buscás un oud potente de verdad, longevidad de 10+ horas o te frena el discurso de \"feromonas afrodisíacas\", no es para vos: es una fragancia económica, la duración ronda las 6-8 horas y lo de las feromonas es marketing, no un efecto comprobado.",
+    pros: [
+      "Perfume árabe amaderado-cuero hecho en Argentina: te ahorrás importación y demoras",
+      "Vegano y cruelty free, según la marca",
+      "Perfil dulce-especiado (canela, rosa, ámbar) fácil de usar en otoño-invierno",
+      "60 mL a 52.879 pesos: precio de entrada al nicho árabe",
+      "4.2 estrellas sobre 602 opiniones en MercadoLibre, con más de 1.000 vendidos",
+      "Envío gratis",
+    ],
+    cons: [
+      "Lo de \"feromonas afrodisíacas\" es un claim de marketing: no hay evidencia de que atraiga a nadie",
+      "La concentración no está clara: la página de la marca dice Eau de Toilette y la publicación dice Eau de Parfum",
+      "Duración estimada de 6 a 8 horas: lejos de los oud árabes que duran todo el día",
+      "No es un oud de nicho importado: es una versión nacional accesible, no esperes la misma profundidad",
+      "Marca chica de cosmética íntima, no una casa de perfumería con trayectoria larga",
+    ],
+    articleBody: `## Qué es y para quién alcanza
+
+El Jamal Oud es un perfume árabe de hombre de Butterfly Effect, una marca argentina de cosmética íntima. Es amaderado con acorde de cuero, dulzón por la canela y la rosa, y se vende como "con feromonas". Cuesta 52.879 pesos los 60 mL.
+
+Sirve si querés probar el estilo árabe amaderado sin importar nada de afuera ni gastar de más. Es nacional, vegano y cruelty free según la marca. No sirve si ya conocés oud de verdad: esto es una versión accesible, no un oud de nicho.
+
+## Cómo huele
+
+Las notas son consistentes entre la marca y los listados:
+
+- Salida: menta pimentada y mandarina sanguínea. Arranca fresco y con una chispa cítrica.
+- Corazón: canela y rosa. Acá aparece lo dulce-especiado.
+- Fondo: ámbar y un acorde de cuero. Algunos listados suman cedro, vainilla y almizcle.
+
+Es un perfil cálido, especiado y amaderado. Pensalo para otoño-invierno y salidas de noche, no para un día de calor.
+
+## La duración real
+
+La marca habla de 6 a 8 horas en piel por ser eau de parfum. Eso lo ubica en duración media: te acompaña una salida, no un día entero.
+
+Si venís de los oud árabes importados que duran 10 horas o más y dejan estela toda la tarde, este va a quedar corto. Para un perfume de este precio, 6 a 8 horas es razonable.
+
+## Lo que resignás por el precio
+
+Es un perfume económico y se nota en dos cosas. Primero, no es un oud profundo de casa árabe: es una interpretación nacional del estilo, más liviana. Segundo, la concentración no está clara. La propia página de Butterfly Effect lo lista como Eau de Toilette, mientras que la publicación de MercadoLibre y otros vendedores dicen Eau de Parfum. Esa contradicción la dejamos a la vista: no la podemos resolver sin oler el frasco.
+
+## La contra real: lo de las feromonas
+
+La publicación lo vende como "afrodisíaco con feromonas" y "seductor". Eso es marketing. No hay evidencia de que un perfume con feromonas haga que alguien te encuentre más atractivo. Comprá este perfume porque te gusta cómo huele, no porque esperás un efecto en otras personas. Si te lo venden por las feromonas, te están vendiendo humo.
+
+## Para quién sí y para quién no
+
+Sí: para el que quiere entrar a los árabes amaderados gastando poco, prefiere un producto nacional y busca un perfil dulce-especiado de cuero para el invierno. Tiene 4.2 sobre 602 opiniones y más de 1.000 vendidos, así que no es una apuesta a ciegas.
+
+No: para el que busca un oud potente de verdad, longevidad de todo el día, o le molesta el discurso de feromonas. Para eso, un Lattafa importado del catálogo te va a dar más cuerpo y más horas.
+
+## Veredicto
+
+Es un perfume árabe amaderado de entrada, nacional y barato, con un perfil dulce-especiado que funciona en otoño-invierno. El rating lo respalda (4.2 sobre 602). Las dos cosas a tener claras antes de comprar: la duración es media (6 a 8 horas) y lo de las feromonas es puro marketing.`,
+    faq: [
+      {
+        question: "¿Cuántos ml trae el Jamal Oud?",
+        answer: "Trae 60 mL. La página de Butterfly Effect y la publicación de MercadoLibre coinciden en ese volumen.",
+      },
+      {
+        question: "¿Es Eau de Parfum o Eau de Toilette?",
+        answer: "Hay datos contradictorios. La página oficial de Butterfly Effect lo lista como Eau de Toilette, mientras que la publicación de MercadoLibre y otros vendedores lo ponen como Eau de Parfum. No lo podemos confirmar con certeza.",
+      },
+      {
+        question: "¿Cuánto dura en la piel?",
+        answer: "La marca declara entre 6 y 8 horas. Es una duración media: te acompaña una salida, no todo el día como los oud árabes importados más concentrados.",
+      },
+      {
+        question: "¿Las feromonas funcionan?",
+        answer: "Es un claim de marketing. No hay evidencia de que un perfume con feromonas te haga más atractivo para otras personas. Compralo porque te gusta el olor, no por eso.",
+      },
+      {
+        question: "¿A qué huele el Jamal Oud?",
+        answer: "Es amaderado con cuero. Abre con menta pimentada y mandarina sanguínea, corazón de canela y rosa, y fondo de ámbar y cuero. Perfil cálido, dulce y especiado.",
+      },
+      {
+        question: "¿Es industria argentina y vegano?",
+        answer: "Sí. Butterfly Effect es una marca argentina y la publicación lo declara vegano y cruelty free.",
+      },
+      {
+        question: "¿Conviene este o un Lattafa importado?",
+        answer: "Depende. Este es más barato y es nacional, ideal para entrar al estilo árabe. Un Lattafa importado suele dar más cuerpo, más profundidad de oud y más horas de duración, pero a otro precio.",
+      },
+    ],
   },
   {
     id: "MLA43643712",
@@ -22533,6 +28929,62 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
         seller: { "@type": "Organization", name: "Mercado Libre Argentina" },
       },
     },
+    verdict: "Para el que ya conoce el 9PM o el palo de Le Mâle Elixir / Ultra Male y quiere algo más concentrado, dulce y especiado para noche e invierno, el 9PM Elixir cumple: extrait de parfum, estuche incluido y 4.8 en 1.060 opiniones de ML. Para uso de día, oficina o verano no es: es pesado, empalagoso con calor y la duración real ronda las 6 a 9 horas, no las 24 que dice la caja.",
+    pros: [
+      "Más concentrado que el 9PM estándar: es un extrait de parfum, con más esencia y menos alcohol",
+      "Perfil dulce-especiado (vainilla, canela, ámbar) muy del estilo de Le Mâle Elixir a una fracción del precio",
+      "Rinde bien para climas frescos: noche, invierno, ocasiones donde querés dejar estela",
+      "Viene con estuche, lo que lo hace cómodo para regalar",
+      "4.8 estrellas en 1.060 opiniones de Mercado Libre, número alto para un lanzamiento 2025",
+      "Proyección fuerte las primeras horas: se nota apenas te lo ponés",
+    ],
+    cons: [
+      "La duración real que reportan las reseñas independientes es de 6 a 9 horas, no las 24 que figura en la caja",
+      "Es dulce y pesado: para verano, día u oficina puede resultar empalagoso",
+      "No es un aroma original: es del territorio Le Mâle Elixir / Ultra Male, si ya tenés alguno se pisa",
+      "Afnan no lo certifica como libre de crueldad animal; tampoco es vegano ni sin alcohol",
+    ],
+    articleBody: `## Qué es y para quién
+
+El 9PM Elixir es la versión más concentrada de la línea 9PM de Afnan, una casa de perfumería de Emiratos Árabes con décadas en el nicho árabe. Es para el que busca un aroma dulce-especiado, intenso, pensado para noche y clima fresco, y que ya está cómodo con perfumes que dejan estela.
+
+No es para el que quiere algo liviano de diario, ni para oficina o verano. Es pesado y dulce: con calor se vuelve empalagoso. Si nunca probaste la línea 9PM, conviene arrancar por el 9PM estándar y subir al Elixir solo si conectás con el perfil.
+
+## La diferencia con el 9PM estándar
+
+El 9PM original es un Eau de Parfum. El Elixir es un extrait de parfum (en Mercado Libre figura como "Parfum Intense"): más aceite perfumado, menos alcohol. Eso se traduce en una fórmula más densa y una base más rica.
+
+Las reseñas que comparan las dos versiones coinciden: el original es más fruti y liviano, casi "bubblegum"; el Elixir arranca más especiado y oscuro, con un fondo más cremoso y profundo. Si el 9PM estándar te dura bien y te cierra, no necesitás subir. Si querés más cuerpo y más concentración, ahí sí justifica.
+
+## Las notas reales
+
+Afnan oficializa esta pirámide para el 9PM Elixir:
+
+- Salida: nuez moscada, elemi, cardamomo.
+- Corazón: pimienta de Jamaica, lavandín, cuero.
+- Fondo: jara (cistus), labdano, pachulí, vainilla.
+
+En piel, lo que la mayoría percibe es otra cosa más simple: una apertura especiada y dulce, un corazón de vainilla cremosa con tono acaramelado y ámbar, y un fondo de maderas dulces y vainilla. Varios lo describen como "un postre especiado": canela, vainilla y un toque de madera ahumada. Las notas reales que vas a sentir pueden variar según tu piel.
+
+## A qué se parece
+
+No es un aroma original y conviene saberlo antes de comprar. El 9PM Elixir juega en el mismo territorio que Jean Paul Gaultier Le Mâle Elixir Absolu, y la línea 9PM en general viene comparándose con Ultra Male. Las reseñas internacionales lo tratan como un clon cercano de Le Mâle Elixir, más dulce y más ruidoso, a alrededor de un tercio del precio.
+
+Eso es bueno si querés ese palo gastando poco. Es malo si ya tenés Le Mâle Elixir, Ultra Male o el propio 9PM: se pisan bastante.
+
+## Lo que resignás: la duración
+
+Acá está la pega principal. La caja y la publicación hablan de hasta 24 horas. Las reseñas independientes que probaron el perfume reportan entre 6 y 9 horas reales en piel antes de quedar como un aroma pegado al cuerpo.
+
+La proyección es fuerte las primeras 2 a 3 horas y después baja a algo más íntimo. Es buena duración para el precio, pero conviene tomar el "24 horas" como número de marketing, no como dato. Donde sí queda es en la ropa al día siguiente.
+
+## Cuándo usarlo
+
+Funciona mejor en otoño, invierno y noches frescas. El perfil dulce con vainilla y ámbar se potencia con el frío. En verano, de día o en ambientes cerrados puede resultar cargoso. Por eso conviene aplicar 1 o 2 sprays en lugar de 3.
+
+## Veredicto
+
+Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le Mâle Elixir sin pagar precio europeo, el 9PM Elixir es una compra razonable: extrait de parfum, estuche incluido y 4.8 en 1.060 opiniones. Bajá la expectativa de la duración a 6-9 horas reales, no lo pienses para verano ni oficina, y tené en cuenta que si ya tenés algo de ese estilo te lo vas a pisar. Afnan tampoco lo certifica como cruelty-free.`,
   },
   {
     id: "MLA28060225",
@@ -24120,6 +30572,84 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     seoTitle: 'Pack x15 Sobres Figuritas Panini Mundial 2026 — Originales',
     metaDescription: 'Pack de 15 sobres originales Panini Mundial FIFA 2026. 105 figuritas oficiales para completar tu álbum. Comprá en MercadoLibre Argentina.',
     h1: 'Pack x15 sobres figuritas Panini Mundial 2026',
+    verdict: "Para quien quiere arrancar el álbum del Mundial 2026 con volumen y comprar de una en vez de sobre por sobre, este pack de 15 (105 figuritas, 7 por sobre) hace fuerza. No es para quien busca completar el álbum: son 980 figuritas en total, así que 105 es apenas el 11% y vas a necesitar muchísimos más. Tampoco es para quien quiere comprar ya: la publicación está agotada.",
+    pros: [
+      "15 sobres en una sola compra: 105 figuritas oficiales Panini (7 por sobre)",
+      "Comprás de una en vez de ir sobre por sobre, que es como suelen venderse",
+      "Producto oficial Panini para el álbum del Mundial FIFA 2026",
+      "Buen volumen para arrancar la colección o para repartir entre varios chicos",
+      "El álbum 2026 es el más grande de la historia (980 figuritas): empezar con cantidad ayuda",
+    ],
+    cons: [
+      "Está agotado: la publicación figura sin stock, así que hoy no se puede comprar",
+      "105 figuritas es solo el 11% de un álbum de 980: no alcanza ni cerca para completarlo",
+      "No hay descuento real por cantidad: a $2.000 el sobre, 15 sobres salen casi lo mismo sueltos",
+      "Vienen al azar: te pueden tocar repetidas, sobre todo si ya tenés varias",
+      "Las figuritas especiales y las de Coca-Cola son más difíciles y no las garantiza ningún pack",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+Es un pack de 15 sobres oficiales de Panini del álbum de la Copa Mundial FIFA 2026. Cada sobre trae 7 figuritas, así que el pack son 105 figuritas en total. Sirve para arrancar la colección con volumen o para sumar de un saque sin ir comprando de a un sobre.
+
+Ojo con la expectativa: el álbum del Mundial 2026 pide 980 figuritas, la colección más grande que hizo Panini para un Mundial. 105 figuritas es como el 11% del álbum. Es un buen empujón inicial, no un atajo para terminarlo.
+
+## Cuántas figuritas y cómo vienen
+
+El dato concreto: 15 sobres, 7 figuritas por sobre, 105 en total. Las figuritas vienen al azar dentro de cada sobre. No elegís qué te toca.
+
+Eso significa repetidas. Mientras tenés pocas, casi todo suma. Cuando ya juntaste varias, empiezan a caer repetidas y ahí es donde el álbum se hace largo (y caro).
+
+## Lo que resignás
+
+No hay descuento por comprar el pack. En Argentina el sobre suelto ronda los $2.000, así que 15 sobres salen prácticamente lo mismo que comprarlos de a uno. Lo que ganás es comodidad: una sola compra en vez de quince.
+
+Tampoco te asegura las figuritas difíciles. El álbum tiene cromos especiales y 14 figuritas exclusivas de Coca-Cola que son las más buscadas, y ningún pack te garantiza que te toquen.
+
+## La contra real
+
+Está agotado. La publicación figura sin stock, así que por más que la ficha esté linda, hoy no la podés comprar acá. Si la querés, conviene buscar el pack equivalente que sí tenga stock o el sobre suelto.
+
+Y la otra contra es de fondo, no del pack: completar el álbum es carísimo. En el mejor de los casos, sin una sola repetida, necesitás unos 140 sobres (cerca de $280.000). En la vida real, entre repetidas y canjes, el número trepa muy por encima de eso. 105 figuritas es un arranque, nada más.
+
+## Para quién sí y para quién no
+
+Sí, si querés empezar el álbum con cantidad, si lo vas a repartir entre varios chicos, o si preferís una sola compra antes que ir al kiosco sobre por sobre.
+
+No, si esperás completar el álbum con esto (te falta el 89%), si buscás un descuento real por cantidad (no lo hay), o si lo querés comprar ya: está sin stock.
+
+## Veredicto
+
+Como puntapié inicial del álbum del Mundial 2026, 105 figuritas de una sola compra está bien. Pero seamos claros: es el comienzo de un álbum de 980, sin descuento por volumen y con las figuritas al azar. Y hoy figura agotado. Si lo conseguís, sirve para arrancar; para completar, preparate para muchos sobres más.`,
+    faq: [
+      {
+        question: "¿Cuántas figuritas trae el pack de 15 sobres?",
+        answer: "105 figuritas en total: cada sobre oficial de Panini trae 7 figuritas, y el pack son 15 sobres (15 x 7 = 105).",
+      },
+      {
+        question: "¿Alcanza para completar el álbum del Mundial 2026?",
+        answer: "No, ni cerca. El álbum completo pide 980 figuritas, así que 105 es apenas el 11%. Es un buen arranque, pero vas a necesitar muchísimos sobres más.",
+      },
+      {
+        question: "¿Cuántas figuritas tiene el álbum completo del Mundial 2026?",
+        answer: "980 figuritas, la colección más grande que hizo Panini para un Mundial. Incluye 18 jugadores por selección de las 48 que clasifican, más especiales y las exclusivas de Coca-Cola.",
+      },
+      {
+        question: "¿Conviene el pack x15 o comprar los sobres sueltos?",
+        answer: "Por precio da casi igual: en Argentina el sobre ronda los $2.000, así que 15 sueltos salen prácticamente lo mismo que el pack. La ventaja del pack es la comodidad de una sola compra, no un descuento.",
+      },
+      {
+        question: "¿Las figuritas del pack vienen elegidas o al azar?",
+        answer: "Al azar. No elegís qué te toca en cada sobre, así que pueden salir repetidas, sobre todo cuando ya tenés varias de la colección.",
+      },
+      {
+        question: "¿Son figuritas oficiales de Panini?",
+        answer: "Sí, son sobres oficiales de Panini del álbum de la Copa Mundial FIFA 2026.",
+      },
+      {
+        question: "¿Cuánto cuesta completar todo el álbum?",
+        answer: "Mucho. En el mejor caso, sin una sola repetida, necesitás unos 140 sobres (cerca de $280.000). En la práctica, entre repetidas y canjes, el costo trepa muy por encima de eso.",
+      },
+    ],
   },
   {
     id: 'MLAU3971709486',
@@ -24145,6 +30675,86 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     metaDescription: '5 sobres originales Panini Copa Mundial FIFA 2026. 35 figuritas. Para arrancar la colección o sumar al álbum. Envío MercadoLibre.',
     h1: 'Pack x5 sobres figuritas Panini Mundial 2026',
     relatedProducts: ['MLAU3971742978', 'MLAU3932735871'],
+    verdict: "Para arrancar la colección, probar o regalarle a alguien que recién empieza, este pack de 5 sobres va bien: son 35 figuritas oficiales Panini (7 por sobre) sin comprar de a uno. Si vas a completar el álbum de 980 figuritas, no es para vos: a este ritmo te salen carísimos y necesitás packs grandes. Ojo: hoy figura sin stock.",
+    pros: [
+      "Figuritas oficiales Panini del Mundial 2026, las mismas que pegás en el álbum",
+      "5 sobres = 35 figuritas (7 por sobre), cantidad real para empezar",
+      "A 1.600 el sobre sale igual o menos que comprar sueltos a 2.000",
+      "Tamaño ideal para regalar o para que un chico pruebe sin gastar mucho",
+      "Marca con licencia FIFA: no son truchas ni de imitación",
+    ],
+    cons: [
+      "Son 35 figuritas de 980 que tiene el álbum: te alcanza para arrancar, nada más",
+      "Hoy figura sin stock en la publicación",
+      "Para completar el álbum este formato chico sale mucho más caro por figurita que los packs x50 o x100",
+      "No incluye álbum: lo comprás aparte",
+      "Cuantos más sobres chicos comprás, más repetidas te van a salir",
+    ],
+    articleBody: `## Qué es y para qué te alcanza
+
+Es un pack chico: 5 sobres oficiales Panini de la Copa Mundial FIFA 2026. Cada sobre trae 7 figuritas, así que son 35 en total. Sirve para una cosa concreta: arrancar la colección, probar cómo viene el álbum o regalarle a alguien que recién empieza.
+
+Lo que no es: una compra para completar. El álbum del Mundial 2026 tiene 980 figuritas repartidas en 112 páginas, con 48 selecciones y 18 jugadores por selección. 35 figuritas son menos del 4% del total.
+
+## Las figuritas son las oficiales
+
+Panini tiene la licencia oficial de FIFA. Estas son las mismas figuritas que pegás en el álbum, no imitaciones ni genéricas. Eso importa porque en temporada de Mundial aparecen muchas truchas: si querés que peguen en el álbum oficial, tienen que ser Panini.
+
+Cada sobre lleva 7 cromos. Es el formato estándar 2026, el mismo que viene en los displays grandes.
+
+## La cuenta del precio
+
+A 8.000 el pack, te queda cada sobre a 1.600. El sobre suelto ronda los 2.000, así que comprando este pack chico pagás un poco menos por sobre que de a uno. Hasta ahí, conviene contra el sobre suelto.
+
+El problema es otro: para completar el álbum entero, este no es el formato. En el mejor de los casos (cero repetidas, algo que no pasa) completar el álbum son unos 280.000 pesos. En la práctica, con repetidas, la gente termina gastando alrededor de 2.000.000. Comprando de a 5 sobres vas a llegar ahí pagando más caro por figurita que con los packs x50 o x100.
+
+## Lo que resignás
+
+Resignás cantidad y economía de escala. Cuantos más sobres comprás sueltos o en packs chicos, más figuritas repetidas te salen, y cada repetida es plata tirada. Los packs grandes no eliminan las repetidas, pero bajan el costo por figurita nueva.
+
+Tampoco incluye el álbum. Eso lo comprás por separado (tapa blanda, tapa dura o edición dorada, según cuánto quieras gastar).
+
+## La contra real
+
+Hoy la publicación figura sin stock. Si lo ves disponible de nuevo, tené presente que es un pack de entrada: 35 figuritas no te cambian la colección, te la inician.
+
+Y el límite de fondo es de formato, no de calidad: el sobre chico está pensado para el impulso y el regalo, no para la persona que va en serio a llenar las 980. Para eso, te conviene mirar los packs x50 o x100.
+
+## Para quién sí y para quién no
+
+Sí: si querés arrancar sin comprometerte, regalarle a un chico, o ver cómo viene el álbum antes de meterte de lleno.
+
+No: si ya decidiste completar el álbum. En ese caso comprás el álbum primero y después sobres en cantidad (packs grandes), que es donde el costo por figurita baja de verdad.`,
+    faq: [
+      {
+        question: "¿Cuántas figuritas trae este pack?",
+        answer: "35 figuritas en total: 5 sobres con 7 figuritas cada uno. Es un pack de entrada, no para completar el álbum.",
+      },
+      {
+        question: "¿Cuántas figuritas tiene el álbum del Mundial 2026 en total?",
+        answer: "980 figuritas repartidas en 112 páginas, con las 48 selecciones del torneo y 18 jugadores por selección. Es el álbum más grande que hizo Panini para un Mundial.",
+      },
+      {
+        question: "¿Son figuritas Panini oficiales?",
+        answer: "Sí. Panini tiene la licencia oficial de FIFA, así que son las mismas figuritas que pegás en el álbum oficial. No son imitaciones ni genéricas.",
+      },
+      {
+        question: "¿Incluye el álbum?",
+        answer: "No. Este pack es solo de sobres. El álbum (tapa blanda, tapa dura o dorado) se compra por separado.",
+      },
+      {
+        question: "¿Conviene este pack de 5 o uno más grande para completar el álbum?",
+        answer: "Para completar conviene un pack grande (x50 o x100): el costo por figurita es más bajo. El pack de 5 sirve para arrancar o regalar, no para llenar las 980.",
+      },
+      {
+        question: "¿Cuánto sale completar el álbum entero?",
+        answer: "En el mejor escenario, sin repetidas, unos 280.000 pesos. En la práctica, con figuritas repetidas, la gente termina gastando cerca de 2.000.000. Por eso para completar conviene comprar en cantidad.",
+      },
+      {
+        question: "¿Está disponible para comprar?",
+        answer: "Al momento de revisar la publicación figura sin stock. Si vuelve, tené en cuenta que es un pack chico de inicio.",
+      },
+    ],
   },
   {
     id: 'MLAU4018520020',
@@ -24170,6 +30780,83 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     metaDescription: 'Álbum oficial Panini Copa Mundial FIFA 2026 tapa blanda. Páginas por selección, historia del torneo y espacio para pegar las figuritas. Comprá en MercadoLibre.',
     h1: 'Álbum Mundial 2026 Panini tapa blanda',
     relatedProducts: ['MLAU3991939658', 'MLAU3971742978'],
+    verdict: "Si querés el soporte oficial de la colección Panini 2026 al menor precio, el de tapa blanda es la opción más barata: 112 páginas, 980 figuritas para pegar y las 48 selecciones del Mundial. Si pensás guardarlo años o lo van a manosear chicos, la tapa dura aguanta mejor el uso: la blanda se ajа y se dobla con el tiempo. Ojo además: hoy figura sin stock en la publicación.",
+    pros: [
+      "Álbum oficial Panini con licencia FIFA del Mundial 2026, las 48 selecciones más secciones de estadios y sedes",
+      "980 figuritas para pegar en 112 páginas: la colección más grande que armó Panini para un Mundial",
+      "Versión más barata del álbum: la tapa blanda contra la dura, bastante más cara",
+      "Mismo contenido y mismos espacios que la tapa dura: cambia el formato, no las figuritas ni las páginas",
+      "Incluye los huecos para las Legends doradas (Messi ARG-02) y las brillantes, las más buscadas del álbum",
+    ],
+    cons: [
+      "La tapa blanda se dobla y se gasta más rápido que la dura: para guardar la colección años, conviene la versión dura",
+      "Es solo el álbum vacío: las 980 figuritas se compran aparte y llenarlo de cero cuesta mucho más que el álbum",
+      "En esta publicación figura sin stock; el álbum oficial se agota seguido cerca del Mundial",
+      "No trae sobres incluidos: si querés arrancar pegando de entrada, te conviene un combo álbum más sobres",
+    ],
+    articleBody: `## Qué es y para quién
+
+Este es el álbum oficial de Panini para la Copa Mundial FIFA 2026, en su versión de tapa blanda. Es el soporte físico de toda la colección: las páginas donde vas pegando las figuritas, organizadas por selección y por las secciones del torneo.
+
+Es para vos si querés el álbum oficial al menor precio posible y no te importa que la tapa sea de cartulina y no rígida. No es para vos si pensás guardar la colección terminada durante años, o si lo van a usar chicos que lo van a manosear: en ese caso la tapa dura aguanta mejor.
+
+## Qué trae adentro
+
+Son 112 páginas y 980 figuritas para pegar. Es la colección más grande que armó Panini para un Mundial, porque el torneo pasó de 32 a 48 selecciones.
+
+Adentro están las 48 selecciones clasificadas más secciones especiales: los estadios y las sedes de Estados Unidos, Canadá y México. También trae los espacios para las figuritas especiales: las Legends de diseño dorado (la de Messi es la ARG-02) y las brillantes con acabado reflectante, que son las más buscadas para el intercambio.
+
+## Tapa blanda vs tapa dura
+
+La diferencia es solo el formato, no el contenido. Las dos versiones tienen las mismas 112 páginas, las mismas 980 figuritas y los mismos espacios. Lo único que cambia es la tapa.
+
+La de tapa blanda es de cartulina: pesa menos, ocupa menos y sale más barata. La contra es que se dobla, se ajа en los bordes y se gasta más rápido con el uso. La tapa dura es rígida, protege mejor y es la que conviene si querés que el álbum terminado te dure años.
+
+## Lo que resignás
+
+Resignás durabilidad. Una tapa blanda manoseada por meses no queda como una tapa dura. Si el álbum es para coleccionar en serio y guardarlo, esa diferencia importa.
+
+Lo otro que resignás es la conveniencia de arrancar pegando: esto es el álbum solo, vacío. Las figuritas van aparte. Cada sobre trae 7 figuritas, y llenar las 980 sin contar repetidas cuesta varias veces lo que sale el álbum.
+
+## La contra real
+
+Hoy esta publicación figura sin stock. El álbum oficial de Panini se agota seguido a medida que se acerca el Mundial, así que puede que tengas que buscar otra publicación o esperar reposición. Antes de hacerte ilusiones, confirmá disponibilidad.
+
+## Para quién sí y para quién no
+
+Sí: para quien arranca la colección y quiere el álbum oficial gastando lo menos posible, sabiendo que la tapa es de cartulina.
+
+No: para quien va a completar las 980 y guardar el álbum como pieza de colección. Ahí la tapa dura vale la diferencia. Y si querés empezar a pegar de una, mirá los combos que vienen con álbum más sobres en lugar del álbum pelado.`,
+    faq: [
+      {
+        question: "¿Cuántas figuritas tiene el álbum Panini Mundial 2026?",
+        answer: "980 figuritas para pegar, repartidas en 112 páginas. Es la colección más grande que hizo Panini para un Mundial, porque el torneo pasó de 32 a 48 selecciones.",
+      },
+      {
+        question: "¿Qué diferencia hay entre la tapa blanda y la tapa dura?",
+        answer: "Solo el formato de la tapa. Las dos tienen las mismas 112 páginas y las mismas 980 figuritas. La tapa blanda es de cartulina, más barata pero se dobla y se gasta más rápido. La dura es rígida y aguanta mejor el uso a largo plazo.",
+      },
+      {
+        question: "¿El álbum viene con figuritas incluidas?",
+        answer: "No. Esto es el álbum solo, vacío. Las 980 figuritas se compran aparte en sobres de 7. Si querés arrancar pegando de entrada, conviene un combo que traiga álbum más sobres.",
+      },
+      {
+        question: "¿Cuántas selecciones trae el álbum del Mundial 2026?",
+        answer: "Las 48 selecciones clasificadas, más secciones especiales con los estadios y las sedes del torneo en Estados Unidos, Canadá y México.",
+      },
+      {
+        question: "¿Cuánto cuesta llenar el álbum completo?",
+        answer: "Mucho más que el álbum. Cada sobre trae 7 figuritas y completar las 980 sin contar repetidas se va a varios cientos de miles de pesos. El álbum es solo el soporte; el grueso del gasto son las figuritas.",
+      },
+      {
+        question: "¿Trae la figurita de Messi y las Legends?",
+        answer: "El álbum trae los espacios para pegarlas, no las figuritas en sí. Las Legends son de diseño dorado (Messi es la ARG-02) y son de tirada limitada, así que están entre las más difíciles de conseguir.",
+      },
+      {
+        question: "¿Conviene la tapa blanda o la tapa dura?",
+        answer: "Si buscás el precio más bajo y no te importa que se gaste, la blanda. Si vas a completar la colección y guardarla años, la dura protege mejor y vale la diferencia.",
+      },
+    ],
   },
   {
     id: 'MLAU3932735871',
@@ -24195,6 +30882,90 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     metaDescription: 'Packs grandes de sobres Panini Mundial 2026: x10, x25, x50 y x100. La compra más conveniente por sobre para completar el álbum oficial.',
     h1: 'Packs grandes figuritas Panini Mundial 2026',
     relatedProducts: ['MLAU3971742978', 'MLAU3971709486'],
+    verdict: "Si ya tenés el álbum y querés comprar muchos sobres de una sola vez, este listado de packs x10/x25/x50/x100 es lo que buscás: son sobres oficiales Panini del Mundial 2026, 7 figuritas cada uno. Si recién arrancás, no es para vos: estos packs no incluyen el álbum, y este listado puntual figura sin stock al momento de chequearlo. Conviene mirar primero las fichas que sí están disponibles.",
+    pros: [
+      "Sobres oficiales Panini del Mundial 2026, 7 figuritas cada uno",
+      "Packs grandes (x10, x25, x50, x100) para comprar mucho de una sola compra",
+      "Mismas figuritas que el álbum oficial: 980 a completar entre 48 selecciones",
+      "Sirve para quien ya tiene el álbum y solo quiere seguir llenándolo",
+      "Marca Panini, la oficial del Mundial, sin sorpresas de calidad",
+    ],
+    cons: [
+      "Al chequearlo figuraba sin stock: puede no estar disponible para comprar ahora",
+      "No incluye el álbum: si recién empezás, te falta dónde pegar las figuritas",
+      "Es un listado multivendedor sin opiniones cargadas, así que no hay calificación que mirar",
+      "Comprar muchos sobres no garantiza completar: salen repetidas y hay que cambiar o comprar más",
+      "El precio que ves es el de entrada del pack chico; los x50 y x100 cuestan bastante más",
+    ],
+    articleBody: `## Qué es y para quién
+
+Esto es un listado de packs grandes de sobres Panini del Mundial 2026: viene en x10, x25, x50 y x100 sobres originales. Es para el que ya tiene el álbum y quiere comprar muchos sobres de una sola vez en lugar de ir de a uno al kiosco.
+
+Si recién arrancás con la colección, esta no es tu compra. Estos packs traen solo sobres, no el álbum. Para empezar conviene un combo álbum + sobres.
+
+## Qué trae cada sobre
+
+Cada sobre oficial Panini trae 7 figuritas. Es el contenido estándar del Mundial 2026, igual en Argentina que en el resto del mundo.
+
+Las figuritas son las mismas del álbum oficial: jugadores, fotos de selección y escudos de las 48 selecciones que juegan el Mundial.
+
+## Cuántas hay que juntar
+
+El álbum del Mundial 2026 tiene 980 figuritas para completar, repartidas en 112 páginas. Por cada selección van 18 jugadores, la foto grupal y el escudo de la federación.
+
+Es el álbum más grande en la historia de los Mundiales Panini, porque el torneo pasó de 32 a 48 selecciones. O sea: hay mucho más para juntar que en 2022.
+
+## Lo que resignás
+
+No incluye el álbum. Si no lo tenés, los sobres solos no te sirven para empezar: no hay dónde pegar.
+
+Tampoco hay garantía de completar comprando en cantidad. Salen figuritas repetidas sí o sí, así que después toca cambiar con otros o seguir comprando. Comprar un x100 ayuda, pero no te asegura el álbum lleno.
+
+## La contra real
+
+Al momento de chequear esta publicación figuraba sin stock. Puede que no la puedas comprar ahora mismo, o que el vendedor la haya dado de baja.
+
+Además es un listado que junta varios vendedores y tamaños de pack, sin opiniones cargadas. No tenés una calificación de compradores para guiarte, como sí pasa con otras fichas de sobres Panini.
+
+## Para quién sí y para quién no
+
+Sí, si ya tenés el álbum, ya venís juntando y querés cargar muchos sobres en una sola compra sin ir de a uno.
+
+No, si estás empezando (te falta el álbum), si querés ver opiniones antes de comprar, o si lo necesitás disponible ya: este listado puntual estaba sin stock.
+
+## Veredicto
+
+Son sobres oficiales Panini del Mundial 2026 en packs grandes, ideal para el coleccionista que ya está en la mitad del álbum y quiere comprar cantidad. La pega es doble: no incluye el álbum y este listado figuraba sin stock. Si querés algo disponible y con opiniones, mirá primero las otras fichas de sobres Panini del sitio.`,
+    faq: [
+      {
+        question: "¿Cuántas figuritas trae cada sobre Panini del Mundial 2026?",
+        answer: "Cada sobre trae 7 figuritas. Es el contenido oficial estándar, igual en Argentina que en el resto del mundo.",
+      },
+      {
+        question: "¿Estos packs incluyen el álbum?",
+        answer: "No. Este listado es solo de sobres (x10, x25, x50, x100). Si recién empezás y te falta el álbum, conviene un combo álbum + sobres.",
+      },
+      {
+        question: "¿Cuántas figuritas tiene el álbum completo del Mundial 2026?",
+        answer: "Son 980 figuritas a completar, en 112 páginas. Por cada una de las 48 selecciones van 18 jugadores, la foto grupal y el escudo.",
+      },
+      {
+        question: "¿Conviene comprar un pack x100 para completar el álbum?",
+        answer: "Ayuda a juntar mucho de una, pero no garantiza completarlo. Siempre salen repetidas, así que después hay que cambiar con otros coleccionistas o seguir comprando.",
+      },
+      {
+        question: "¿Las figuritas son originales Panini?",
+        answer: "Sí, son sobres oficiales Panini, la marca licenciada del Mundial. Son las mismas figuritas que van en el álbum oficial.",
+      },
+      {
+        question: "¿Por qué este listado no tiene opiniones ni calificación?",
+        answer: "Es un listado que agrupa varios vendedores y tamaños de pack, y no tiene opiniones cargadas. Para ver calificaciones de compradores, mirá otras fichas de sobres Panini.",
+      },
+      {
+        question: "¿Cuál es la diferencia entre los packs x10, x25, x50 y x100?",
+        answer: "Solo la cantidad de sobres: x10 son 10 sobres, x100 son 100. El contenido por sobre es el mismo (7 figuritas). A más sobres, más alto el precio total, aunque comprás más cantidad de una.",
+      },
+    ],
   },
   {
     id: 'MLA69643846',
@@ -24221,6 +30992,80 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     metaDescription: 'Catálogo de sobres figuritas Panini Mundial 2026 en MercadoLibre Argentina. Varios vendedores y tamaños de pack para elegir el más conveniente.',
     h1: 'Sobres figuritas Panini Mundial 2026',
     relatedProducts: ['MLAU3971742978', 'MLAU3932735871'],
+    verdict: "Para el que va a coleccionar las figuritas oficiales del Mundial 2026 y quiere comparar precios antes de comprar, esta ficha es catálogo: junta varios vendedores y tamaños de pack en una sola página. Cada sobre trae 7 figuritas y el álbum entero son 980, así que completarlo en serio cuesta plata. Si solo querés probar o regalar, comprá un pack chico; si vas a llenar el álbum, conviene mirar los packs grandes por sobre, no de a uno.",
+    pros: [
+      "Producto oficial Panini del Mundial FIFA 2026: 7 figuritas por sobre, las mismas que venden en kiosco",
+      "Es una ficha de catálogo: junta varios vendedores y tamaños de pack para comparar precio por sobre sin abrir diez pestañas",
+      "La colección más grande de la historia de Panini: 980 figuritas, 48 selecciones y 112 páginas de álbum",
+      "Sirve igual para arrancar de cero, sumar volumen al álbum o regalar a alguien que recién empieza",
+      "4.5 estrellas en las opiniones del catálogo, aunque sobre una muestra chica de 8",
+    ],
+    cons: [
+      "Completar el álbum sale caro: son 980 figuritas y, con las repetidas, en la práctica gastás mucho más que el precio teórico de 140 sobres",
+      "Las 20 figuritas especiales (doradas, plateadas y bronce) son escasas: en promedio una extra cada 100 sobres, las más difíciles de conseguir",
+      "Es un catálogo con varios vendedores: el precio y el tamaño del pack cambian según quién venda, hay que mirar el detalle de cada uno",
+      "El sobre suelto es la forma más cara: comprando de a uno pagás bastante más por figurita que en los packs grandes",
+    ],
+    articleBody: `## Qué es esta ficha y qué vas a encontrar
+
+Esto no es un producto único: es un catálogo de MercadoLibre que junta varios vendedores y tamaños de pack de sobres Panini del Mundial 2026 en una sola página. Sirve para comparar precio por sobre antes de comprar. Si buscás un pack puntual (x5, x15, x50), conviene mirar el detalle de cada publicación porque el precio cambia según quién venda.
+
+Lo importante de entrada: son las figuritas oficiales de Panini para la Copa Mundial FIFA 2026. Las mismas que se venden en kiosco. Cada sobre trae 7 figuritas.
+
+## Qué trae la colección oficial
+
+El álbum del Mundial 2026 es el más grande de la historia de Panini. Los números, según la marca:
+
+- 980 figuritas en total
+- 48 selecciones, con 20 figuritas cada una (18 jugadores, el escudo y la foto del plantel)
+- 20 figuritas especiales sobre la historia del Mundial
+- 112 páginas de álbum
+
+Para ponerlo en perspectiva: la edición 2022 tenía 670. Esta suma 310 más. Más figuritas para juntar quiere decir más sobres para comprar.
+
+## Las figuritas difíciles: las especiales
+
+Acá está la pega que todo coleccionista termina sufriendo. Aparte de las 980 del álbum, hay 20 figuritas extra de jugadores en cuatro versiones: regular, bronce, plata y dorada. No tienen lugar en el álbum y son escasas: según Panini, sale en promedio una extra cada 100 sobres. Son las más buscadas y las más caras de conseguir si las querés todas.
+
+## Lo que resignás comprando de a uno
+
+El sobre suelto es la forma más cara de coleccionar. Si vas a completar el álbum, el precio por sobre baja bastante cuando comprás packs grandes (x25, x50, x100). De a uno pagás la comodidad de probar, pero si la idea es llenar el álbum, el cálculo no cierra.
+
+## La contra real: completar el álbum cuesta
+
+Que sean 980 figuritas no significa que con 140 sobres lo terminás. En la práctica te salen repetidas, muchas, y para conseguir las que faltan terminás comprando bastante más. Es el costo real de cualquier colección de figuritas, pero con 980 casilleros se siente más que en mundiales anteriores. Si entrás con la idea de completarlo solo, hacé las cuentas antes: el gasto real es varias veces el precio teórico.
+
+## Para quién sí y para quién no
+
+Sí, si vas a coleccionar en serio y querés comparar precio por sobre entre vendedores antes de comprar el pack más conveniente. También si querés un pack chico para probar o regalar.
+
+No, si esperás completar el álbum gastando poco, o si querés un solo producto cerrado con precio fijo: esto es un catálogo, el precio depende del vendedor y del tamaño del pack. Para arrancar bien, mirá los packs grandes (mejor precio por sobre) o el combo álbum más sobres.`,
+    faq: [
+      {
+        question: "¿Cuántas figuritas trae cada sobre Panini del Mundial 2026?",
+        answer: "Cada sobre trae 7 figuritas. Es la primera vez desde 2014 que Panini mete más de 5 por sobre.",
+      },
+      {
+        question: "¿Cuántas figuritas tiene el álbum del Mundial 2026 en total?",
+        answer: "980 figuritas, repartidas en 48 selecciones (20 cada una) más 20 especiales sobre la historia del Mundial. Es la colección más grande de la historia de Panini, con 310 figuritas más que la de 2022.",
+      },
+      {
+        question: "¿Cuáles son las figuritas más difíciles de conseguir?",
+        answer: "Las 20 especiales de jugadores en versión bronce, plata y dorada. No van en el álbum y son escasas: según Panini, sale en promedio una figurita extra cada 100 sobres.",
+      },
+      {
+        question: "¿Conviene comprar sobres de a uno o packs grandes?",
+        answer: "Si vas a completar el álbum, conviene packs grandes: el precio por sobre baja bastante en los x25, x50 o x100. De a uno es la forma más cara. Para probar o regalar, un pack chico (x5) alcanza.",
+      },
+      {
+        question: "¿Son figuritas oficiales de Panini?",
+        answer: "Sí, son las figuritas oficiales de Panini para la Copa Mundial FIFA 2026, las mismas que se venden en kiosco. Esta ficha es un catálogo que junta varios vendedores y tamaños de pack.",
+      },
+      {
+        question: "¿Cuánto sale completar el álbum del Mundial 2026?",
+        answer: "Más de lo que parece. Son 980 figuritas y en la práctica salen muchas repetidas, así que para conseguir las que faltan terminás comprando bastante más que la cuenta teórica de sobres. Hacé el cálculo antes de arrancar si pensás completarlo solo.",
+      },
+    ],
   },
   {
     id: 'MLAU3991939658',
@@ -24246,6 +31091,92 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     metaDescription: 'Combo oficial Panini Mundial 2026: álbum + 25 sobres con 175 figuritas. La forma más rentable de arrancar la colección desde cero.',
     h1: 'Combo álbum Panini + 25 sobres Mundial 2026',
     relatedProducts: ['MLAU4018520020', 'MLAU3971742978'],
+    verdict: "Para el que quiere arrancar la colección Panini Mundial 2026 de cero y en un solo movimiento, este combo resuelve: trae el álbum oficial más 25 sobres, o sea 175 figuritas para empezar a pegar de entrada. Para el que ya tiene el álbum, o el que busca el precio más barato por figurita, no es para vos: 175 de 980 es menos del 18%, no elegís qué te toca y vienen repetidas. Antes de comprar, fijate el precio del día: con la escasez, la reventa está cara.",
+    pros: [
+      "Trae el álbum oficial más 25 sobres en una sola compra: arrancás la colección sin cazar el álbum por un lado y los sobres por otro",
+      "175 figuritas de entrada (25 sobres x 7), suficiente para empezar a pegar el mismo día que llega",
+      "Producto oficial Panini, el único válido para este álbum del Mundial 2026",
+      "Buena opción de regalo para chicos o para el que recién se prende a la colección",
+      "Te saca del problema del momento: en kioscos hay faltantes constantes de sobres y de álbum",
+    ],
+    cons: [
+      "175 figuritas es menos del 18% de las 980 del álbum: con este combo no lo completás ni cerca",
+      "No elegís qué figuritas vienen y, como en todo sobre, salen repetidas: las que faltan las conseguís comprando más, canjeando o por intercambio",
+      "El precio está atado a la reventa: con la escasez, pagás más que comprar álbum y sobres por separado en un super si los encontrás",
+      "Figura como sin stock: hay que esperar reposición o buscar otro vendedor",
+      "Completar el álbum cuesta mucho más: el cálculo oficial arranca en torno a $280.000 sin contar repetidas",
+    ],
+    articleBody: `## Qué es y para qué alcanza
+
+Es el combo de arranque de la colección Panini Mundial 2026: el álbum oficial más 25 sobres. Cada sobre trae 7 figuritas, así que son 175 figuritas para empezar a pegar el mismo día que te llega, sin tener que conseguir el álbum por un lado y los sobres por otro.
+
+Sirve para arrancar de cero. Si nunca compraste nada de esta colección, con esto ya tenés el cuaderno y un buen puñado de cromos para no abrir el álbum vacío. Es lo que mucha gente busca para regalar.
+
+Lo que no es: un atajo para completar el álbum. El álbum del Mundial 2026 tiene 980 figuritas. 175 son menos del 18%. Recién estás empezando.
+
+## Qué incluye la caja
+
+Un álbum oficial Panini Copa Mundial 2026 y 25 sobres cerrados, originales, de 7 figuritas cada uno. Total: 175 figuritas para pegar.
+
+El álbum tiene 112 páginas y espacio para 980 figuritas: las 48 selecciones (18 jugadores, escudo y foto del plantel por equipo), más mascotas, escudos de mundiales anteriores y cromos especiales. Es la colección más grande que hizo Panini.
+
+## Lo que resignás
+
+Las 25 sobres vienen cerradas y al azar. No elegís qué te toca, y salen repetidas, como en cualquier sobre. Eso no es un defecto del producto: es cómo funciona el coleccionable. Pero conviene tenerlo claro antes de comprar pensando que vas a avanzar parejo.
+
+Las que te falten las conseguís de tres formas: comprando más sobres, canjeando o intercambiando con otros coleccionistas. El combo te deja listo para arrancar, no para terminar.
+
+## La contra real: el precio y la escasez
+
+Acá está la pega honesta. A precio de góndola, el álbum estándar ronda los $12.000 y cada sobre unos $2.000, así que 25 sobres serían unos $50.000. El problema es que en kioscos hay faltantes constantes y la reventa está cara: por eso un combo armado en MercadoLibre puede salir bastante más que comprarlo suelto en un super, si lo encontrás.
+
+Antes de pagar, hacé la cuenta: álbum más 25 sobres a precio de lista. Si el combo está muy por encima, te conviene buscar las partes por separado. Y ojo, esta ficha figura como sin stock, así que puede que tengas que esperar reposición o mirar otro vendedor.
+
+## Cuánto cuesta completarlo de verdad
+
+Para dimensionar: el cálculo oficial para llenar el álbum sin contar repetidas arranca en torno a $280.000. Con repetidas, que es lo normal, las estimaciones trepan muy por encima del millón. Este combo es el primer paso de ese camino, no el final.
+
+La forma barata de completar no es comprar y comprar sobres: es intercambiar repetidas con amigos, en grupos de coleccionistas o en apps de canje. El combo te da con qué empezar a tener repetidas para intercambiar.
+
+## Para quién sí y para quién no
+
+Sí, si querés arrancar la colección de cero en un solo movimiento, si es un regalo, o si en tu zona no conseguís ni el álbum ni los sobres y preferís resolverlo de una.
+
+No, si ya tenés el álbum (ahí te conviene comprar sobres sueltos), si buscás el menor precio por figurita, o si pensás que con 175 figuritas avanzás mucho. Para completar vas a necesitar muchas más y, sobre todo, intercambiar.
+
+## Veredicto
+
+El combo cumple lo que dice: álbum oficial más 175 figuritas para empezar. Es honesto como punto de partida y cómodo como regalo. La decisión pasa por el precio: con la escasez y la reventa, fijate cuánto pagás contra comprar las partes por separado. Si la diferencia es chica, dale; si es grande, armalo vos.`,
+    faq: [
+      {
+        question: "¿Cuántas figuritas trae el combo en total?",
+        answer: "175 figuritas. Son 25 sobres con 7 figuritas cada uno, más el álbum oficial vacío para pegarlas.",
+      },
+      {
+        question: "¿Con este combo completo el álbum?",
+        answer: "No, ni cerca. El álbum tiene 980 figuritas y el combo trae 175, menos del 18%. Es para arrancar la colección, no para terminarla. Las que falten las conseguís con más sobres o intercambiando repetidas.",
+      },
+      {
+        question: "¿El álbum y los sobres son oficiales de Panini?",
+        answer: "Sí. Es el álbum oficial Panini Copa Mundial 2026 y sobres originales. Es el único producto válido para esta colección del Mundial.",
+      },
+      {
+        question: "¿Cuántas figuritas trae cada sobre?",
+        answer: "7 figuritas por sobre. Vienen cerradas y al azar, así que no elegís cuáles te tocan y, como en todo sobre, salen repetidas.",
+      },
+      {
+        question: "¿Conviene este combo o comprar el álbum y los sobres por separado?",
+        answer: "Depende del precio del día. A góndola, el álbum estándar ronda los $12.000 y cada sobre unos $2.000 (25 sobres serían unos $50.000). Con la escasez, la reventa está cara, así que hacé la cuenta: si el combo está muy por encima de armarlo vos, conviene comprar las partes por separado si las encontrás.",
+      },
+      {
+        question: "¿Cuánto cuesta llenar el álbum entero?",
+        answer: "Mucho más que el combo. El cálculo oficial sin contar repetidas arranca en torno a $280.000, y con repetidas (lo normal) trepa muy por encima del millón. Por eso la forma barata de completar es intercambiar repetidas, no comprar sobres sin parar.",
+      },
+      {
+        question: "¿Por qué figura sin stock?",
+        answer: "Hay escasez de figuritas y de álbumes en Argentina: kioscos con faltantes y mucha reventa. Esta ficha aparece como sin stock, así que puede que tengas que esperar reposición o buscar otro vendedor.",
+      },
+    ],
   },
   {
     id: 'MLA18642318',
