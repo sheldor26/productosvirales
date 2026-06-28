@@ -31,6 +31,7 @@ Estado **previo** a la primera tanda de optimización del 2026-06-26.
 | Slug | Impr | Clicks | Pos | CTR | Publicada | Optimizada |
 | :-- | --: | --: | --: | --: | :-- | :-- |
 | atma-freidoras-de-aire-review | 2725 | 46 | 7.10 | 1.69% | 2026-04-18 | 2026-06-26 |
+| mejores-freidoras-de-aire-argentina | 1863* | 31* | 9.60* | 1.66%* | 2026-04-15 | 2026-06-28 |
 | philips-freidoras-de-aire-review | 1446 | 11 | 8.20 | 0.76% | 2026-04-27 | 2026-06-26 |
 | mejores-perfumes-arabes-hombre | 1262 | 14 | 9.97 | 1.11% | 2026-04-17 | 2026-06-26 |
 | masajeador-cervical | 1092 | 16 | 9.26 | 1.47% | 2026-04-11 | 2026-06-26 |
@@ -51,6 +52,8 @@ Estado **previo** a la primera tanda de optimización del 2026-06-26.
 | masajeador-gadnic | n/d | n/d | n/d | — | 2026-06-17 | revisada s/optimización (nueva, 11 días) |
 
 **masajeador-gadnic (2026-06-28):** guía nueva (11 días), sin baseline en GSC todavía. No se re-optimizó por ser muy nueva (mismo criterio que `mejor-aspiradora-robot`). Sí se hizo un cambio de contenido puntual: el asiento Sauce (MLA19712537) quedó discontinuado en ML, se reemplazó por el Gadnic Acacia (MLA21263803, shiatsu, 4.7, ~$438.000) y se pasaron los links de afiliado a meli.la propios. `updatedDate` → 2026-06-28. Medir en la próxima tanda.
+
+**mejores-freidoras-de-aire-argentina (2026-06-28):** guía pilar que la tanda del 26-06 NO había tocado (plateau real, nunca modificada desde 04-15). `*` = baseline de ventana 28 días (snapshot GSC propio 2026-06-26 vía el lector `scripts/gsc/`), no de 3 meses como el resto de la tabla. **Bug crítico encontrado y corregido:** los 20 links de afiliado "Ver en Mercado Libre" estaban rotos (`https://productosvirales.com.arhttps://meli.la/...` → 404); se arreglaron los 20 + 4 en atma-review + 4 en peabody-review (28 en total, la guía rankeaba sin monetizar). Optimización: seoTitle afilado a 57 car. con keyword al inicio e intención ("cuál comprar"), meta ≤155, bloque de respuesta directa tras el "Resumen rápido" para ganar el snippet de "cuál es la mejor freidora de aire en argentina" (pos 11), `updatedDate` → 2026-06-28. Contenido ya robusto (20 modelos + tabla + FAQ), no se reescribió. Medir en la próxima tanda.
 
 **Qué se hizo en la tanda 2026-06-26 (resumen):** las 18 se llevaron al estándar de embudo de la skill (respuesta directa + tabla comparativa + pros/contras + FAQ + CTAs), se reforzó el enlazado interno hacia los hubs de cada silo, se dedujeron los heros duplicados (cada guía con imagen única), se limpiaron anglicismos crudos y se actualizó `updatedDate` a 2026-06-26. `mejor-aspiradora-robot` se revisó pero se dejó igual por ser muy nueva (18 días).
 
