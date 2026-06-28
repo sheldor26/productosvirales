@@ -25,11 +25,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     }));
 
-  const productPages: MetadataRoute.Sitemap = getSitemapProducts().map(({ product, priority }) => ({
-    url: `${SITE_URL}${productHref(product)}`,
-    changeFrequency: "weekly" as const,
-    priority,
-  }));
+  const productPages: MetadataRoute.Sitemap = getSitemapProducts().map(({ product, priority }) => {
+    const lastmod = product.priceUpdated || product.priceLastChecked;
+    return {
+      url: `${SITE_URL}${productHref(product)}`,
+      ...(lastmod ? { lastModified: new Date(lastmod) } : {}),
+      changeFrequency: "weekly" as const,
+      priority,
+    };
+  });
 
   const guidePages: MetadataRoute.Sitemap = getPublishedGuides().map((guide) => ({
     url: `${SITE_URL}${guideHref(guide)}`,
