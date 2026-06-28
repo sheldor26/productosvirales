@@ -139,9 +139,10 @@ export const guides: Guide[] = [
       { question: `¿Por qué algunos microondas piden un toma de 20 amperes?`, answer: `Los modelos de más potencia o con grill, como el [Samsung 23L](https://meli.la/2TU2ytf), consumen más corriente y vienen con una ficha para toma de 20 A (más grande que el enchufe común de 10 A). Suele hacer falta cambiar el tomacorriente de la pared. Es un gasto y un trabajito a tener en cuenta antes de comprar uno de estos.` },
     ],
     internalLinks: [
+      { label: "Microondas BGH: cuál comprar (la marca más vendida)", href: "/guias/cocina/microondas-bgh" },
       { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
+      { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
-      { label: "Atma freidoras de aire: review y cuál comprar", href: "/guias/atma-freidoras-de-aire-review" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -258,6 +259,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
+      { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
       { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
       { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
     ],
@@ -338,6 +340,220 @@ export const guides: Guide[] = [
       { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
       { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
       { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE microondas-bgh — silo cocina — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "microondas-bgh",
+    category: "cocina",
+    silo: "cocina",
+    title: `Microondas BGH: cuál comprar en Argentina [2026]`,
+    seoTitle: `Microondas BGH 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Descubrí qué microondas BGH comprar: Quick Chef a perilla o digital, 20, 23 o 28 litros, cuál conviene y a qué precio. Compará la gama BGH.`,
+    ogTitle: `Microondas BGH: cuál comprar en Argentina`,
+    ogDescription: `La gama Quick Chef de BGH comparada: 20 litros a perilla o digital, 23 y 28 litros. Cuál conviene según para qué lo querés, con precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg`,
+    h1: `Microondas BGH: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `BGH es la marca de microondas más vendida de Argentina, y su gama Quick Chef se entiende fácil: 20 litros a perilla o digital, y versiones de 23 y 28 litros. Te mostramos cuál conviene según el tamaño y el control que querés, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", tagline: "Quick Chef 20L a perilla: el más vendido y barato, simple" },
+      { productMlaId: "MLA17695389", label: "El digital", labelColor: "blue", tagline: "Quick Chef Eco 20L digital: mismo tamaño con menús automáticos" },
+      { productMlaId: "MLA19079384", label: "Un poco más grande", labelColor: "purple", tagline: "Eco 23L digital: un escalón de tamaño sin saltar al de 28" },
+      { productMlaId: "MLA17484012", label: "El grande", labelColor: "amber", tagline: "28L con grill: para familia, entra una fuente grande" },
+    ],
+    intro: [
+      `Si ya decidiste que querés un BGH (la marca de microondas más vendida y con service en el país), la elección se reduce a dos cosas: el **tamaño** (20, 23 o 28 litros) y el **control** (perilla o digital). El resto de la gama Quick Chef comparte lo mismo: la calidad y el respaldo de BGH.`,
+      `Acá ordenamos los BGH más vendidos para que elijas según para qué lo querés. Si querés ver otras marcas (Samsung, Atma, LG), mirá la [guía general de microondas](/guias/cocina/microondas).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg", alt: `Microondas BGH Quick Chef, la marca de microondas más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los microondas BGH con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: la **capacidad** (20, 23, 28 litros), el **control** (perilla o digital), si traen grill y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `La gama de microondas BGH`, id: "gama" },
+      { type: "p", content: `Es simple. La línea **Quick Chef** arranca en los **20 litros**, que vienen en dos versiones: a **perilla** (la más barata y vendida) o **digital** (con menús automáticos). Después está el **23 litros**, un escalón de tamaño y potencia, y el **28 litros**, el grande con grill para familia. Todos comparten la marca, el service y la confiabilidad de BGH; elegís por tamaño y por si querés perilla o botones.` },
+
+      { type: "h2", title: `Los mejores microondas BGH 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. BGH Quick Chef 20L a perilla (B120M20) — el más vendido` },
+      { type: "product-card", productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", ranking: 1, description: `20 litros, 700 W, control a perilla. 4.6 estrellas en más de 4.100 calificaciones. El microondas más vendido del país, simple y al mejor precio.` },
+      { type: "p", content: `Es el BGH (y el microondas) más vendido de Argentina. El Quick Chef de **20 litros a perilla** hace lo esencial (calentar, descongelar) sin menús ni complicaciones, y es el **más barato** de la gama, a alrededor de $149.000. Con más de 4.100 opiniones, es la compra segura para el uso de todos los días.` },
+      { type: "p", content: `Lo honesto: la perilla no es precisa al segundo y son 700 W (potencia estándar). Pero esa simpleza es su gracia: no hay nada que aprender ni que se complique. Si querés botones y menús, mirá el digital de abajo.` },
+      { type: "pull-quote", content: `"Lo tengo hace dos años y sigue funcionando joya. Lo recomiendo una banda."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. BGH Quick Chef Eco 20L digital (B120DS20) — el digital` },
+      { type: "product-card", productMlaId: "MLA17695389", label: "El digital", labelColor: "blue", ranking: 2, description: `El mismo 20 litros, pero con control digital y menús automáticos. 4.7 estrellas en más de 3.700 calificaciones.` },
+      { type: "p", content: `Si querés lo mismo pero con **panel digital**, es la versión Eco: 20 litros, 700 W, con menús automáticos, reloj y programación al minuto, a alrededor de $200.000. Es el BGH digital más elegido. La diferencia con el de perilla la pagás en comodidad de uso, no en tamaño ni potencia.` },
+      { type: "p", content: `La contra que aparece en las reseñas: el panel es **espejado** y a veces cuesta leerlo según la luz. Nada grave, pero si te molesta, el de perilla lo evita.` },
+      { type: "pull-quote", content: `"Estéticamente es hermoso, funciona y calienta bien; no es tan potente como otros pero cumple su función más que bien."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. BGH Eco 23L digital (B223DN20) — un poco más grande` },
+      { type: "product-card", productMlaId: "MLA19079384", label: "Un poco más grande", labelColor: "purple", ranking: 3, description: `23 litros, 800 W, digital. 4.7 estrellas en más de 2.000 calificaciones. Un escalón de tamaño y potencia sobre los de 20 litros.` },
+      { type: "p", content: `Si el de 20 litros te queda justo pero el de 28 te parece demasiado, el de **23 litros** es el punto medio: un poco más de espacio y 800 W (algo más de potencia), con control digital, a alrededor de $243.000. Para una pareja que cocina algo más o no quiere quedarse corta, es un buen equilibrio.` },
+
+      { type: "h3", title: `4. BGH 28L con grill (B228DS20) — el grande` },
+      { type: "product-card", productMlaId: "MLA17484012", label: "El grande", labelColor: "amber", ranking: 4, description: `28 litros (de los más grandes), 900 W, digital y con grill. 4.8 estrellas en más de 2.800 calificaciones. Entra una fuente grande o una pizza.` },
+      { type: "p", content: `Para familia o quien usa mucho el microondas, el de **28 litros** es el grande de BGH: entra una fuente o una pizza, tiene 900 W (más potencia), control digital y **grill** para dorar. A alrededor de $310.000, es el salto para quien quiere espacio y que además dore, no solo caliente.` },
+      { type: "p", content: `Para una persona sola es más de lo que necesitás y ocupa más mesada. Pero si son varios o te cansa que no entre el plato grande, los 28 litros y el grill se notan.` },
+
+      { type: "h2", title: `Tabla comparativa: la gama BGH`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Control`, `Ideal para`], rows: [
+        [`[Quick Chef 20L perilla](https://meli.la/27RQQKV)`, `$149.132`, `20 L`, `Perilla`, `El más vendido y barato`],
+        [`[Eco 20L digital](https://meli.la/2jy5EDC)`, `$200.595`, `20 L`, `Digital`, `El digital más elegido`],
+        [`[Eco 23L digital](https://meli.la/17cw2wE)`, `$242.999`, `23 L`, `Digital`, `Un poco más grande`],
+        [`[28L con grill](https://meli.la/322XwMY)`, `$310.374`, `28 L`, `Digital + grill`, `Familia, dorar y gratinar`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu BGH`, id: "como-elegir" },
+      { type: "h3", title: `1. El tamaño, según cuántos son` },
+      { type: "p", content: `20 litros para una persona o pareja (entra un plato, calienta y descongela); 23 litros si querés un poco más de margen; 28 litros si son familia o querés meter fuentes grandes. No compres el de 28 para uso de soltero, ni el de 20 si son cuatro en casa.` },
+      { type: "h3", title: `2. Perilla o digital` },
+      { type: "p", content: `La perilla (el B120M20) es más simple y barata: girás y listo, nada que falle. El digital (Eco) suma menús automáticos y programación exacta, a cambio de algo más de precio y un panel que a veces cuesta leer. Si valorás la simpleza, perilla; si te gustan los menús, digital.` },
+
+      { type: "h2", title: `Cuánto cuesta un microondas BGH en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de $149.000:** el [Quick Chef 20L a perilla](https://meli.la/27RQQKV), el más vendido y la entrada a la marca.`,
+        `**$200.000 a $243.000:** los digitales de 20 y 23 litros. El [Eco 20L](https://meli.la/2jy5EDC) y el [Eco 23L](https://meli.la/17cw2wE).`,
+        `**Alrededor de $310.000:** el [28L con grill](https://meli.la/322XwMY), el grande para familia.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál BGH comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Quick Chef 20L a perilla**: el más vendido, simple y barato, perfecto para calentar y descongelar. Si preferís **menús digitales**, el **Eco 20L**; si querés **un poco más de espacio**, el **Eco 23L**; y para **familia o dorar**, el **28L con grill**. Toda la gama comparte la marca y el service de BGH, así que elegís tranquilo por tamaño y control. Si querés comparar con otras marcas, mirá la [guía general de microondas](/guias/cocina/microondas).` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor microondas BGH?`, answer: `Para la mayoría, el [Quick Chef 20L a perilla](https://meli.la/27RQQKV): el más vendido del país, simple y al mejor precio. Si querés control digital, el [Eco 20L](https://meli.la/2jy5EDC); un poco más grande, el [Eco 23L](https://meli.la/17cw2wE); y para familia con grill, el [28L](https://meli.la/322XwMY).` },
+      { question: `¿Qué diferencia hay entre el BGH a perilla y el digital?`, answer: `El tamaño y la potencia son iguales (20 litros, 700 W); cambia el control. El de perilla ([B120M20](https://meli.la/27RQQKV)) es más simple y barato: girás tiempo y potencia. El digital ([Eco](https://meli.la/2jy5EDC)) suma menús automáticos, reloj y programación al minuto, a cambio de algo más de precio. Elegí según si preferís la simpleza o los menús.` },
+      { question: `¿Qué significa Quick Chef y Eco en los BGH?`, answer: `Quick Chef es la línea de microondas de BGH; Eco es la versión con función de ahorro y, en varios modelos, control digital. No cambian lo esencial (calientan y descongelan igual): son nombres de gama. Lo que define tu elección sigue siendo el tamaño en litros y si querés perilla o digital.` },
+      { question: `¿Los microondas BGH tienen grill?`, answer: `Algunos sí. Los de 20 y 23 litros de esta guía son para calentar y descongelar (sin grill); el de [28 litros](https://meli.la/322XwMY) suma grill para dorar y gratinar. Si querés que el microondas además dore, andá al de 28 litros o mirá la [guía general](/guias/cocina/microondas), donde está el Samsung con grill.` },
+      { question: `¿BGH es buena marca de microondas?`, answer: `Sí, es la marca de microondas más vendida de Argentina, con service en el país y una base enorme de opiniones positivas (el Quick Chef 20L tiene más de 4.100). Es la opción confiable y de precio accesible. Si querés alternativas, Atma juega en la misma franja y Samsung o LG son el escalón premium; los ves en la [guía general de microondas](/guias/cocina/microondas).` },
+    ],
+    internalLinks: [
+      { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
+      { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
+      { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE robot-de-cocina — silo cocina — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "robot-de-cocina",
+    category: "cocina",
+    silo: "cocina",
+    title: `Robot de cocina: cuál comprar en Argentina [2026]`,
+    seoTitle: `Robot de Cocina 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Guía para elegir un robot de cocina multifunción en Argentina: qué hace, Thermomix vs las opciones económicas, qué mirar y cuál conviene, con precios reales.`,
+    ogTitle: `Robot de cocina: cuál comprar (y si vale la pena)`,
+    ogDescription: `Qué hace un robot de cocina, para quién sí y para quién no, Thermomix vs los económicos, y cuál conviene según tu presupuesto. La guía honesta, con precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_631696-MLA99413419718_112025-F.jpg`,
+    h1: `Robot de cocina: cuál comprar en Argentina y si vale la pena [2026]`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un robot de cocina hace en un solo aparato lo de varios: pica, amasa, cocina, cocina al vapor y hasta pesa. La Thermomix lo popularizó, pero hoy hay opciones que hacen gran parte por una fracción del precio. Te explicamos qué mirar y cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA58514868", label: "El más completo", labelColor: "green", tagline: "Suono Neochef Pro 4.7L: 1700 W y más de 20 funciones, el mejor valorado" },
+      { productMlaId: "MLA51527087", label: "El más accesible", labelColor: "blue", tagline: "Suono Neochef 3.3L: wifi y recetario, casi lo mismo por menos plata" },
+      { productMlaId: "MLA57493542", label: "Marca conocida", labelColor: "amber", tagline: "Atma Smart Mix 3L: el respaldo de una marca con service en el país" },
+      { productMlaId: "MLA52092432", label: "El premium", labelColor: "purple", tagline: "Heybez PMIX08: el tope de gama, cerca de la categoría Thermomix" },
+    ],
+    intro: [
+      `El robot de cocina es un aparato que reemplaza a varios: **pica, amasa, bate, cocina, cocina al vapor, sofríe y hasta pesa los ingredientes**, muchas veces siguiendo recetas guiadas paso a paso desde una app. La Thermomix fue la que puso de moda la categoría, pero sale una fortuna; lo nuevo es que aparecieron opciones que hacen gran parte de lo mismo por mucho menos.`,
+      `Es un nicho que recién está creciendo en Argentina, así que todavía hay pocos modelos con muchas opiniones. En esta guía te explicamos **qué hace de verdad, para quién conviene y para quién no, y qué mirar antes de comprar**, con los más vendidos de MercadoLibre y precios reales. Si lo que buscás es un horno o un microondas, mejor mirá la [guía de microondas](/guias/cocina/microondas) o la de [hornos eléctricos](/guias/cocina/horno-electrico).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_631696-MLA99413419718_112025-F.jpg", alt: `Robot de cocina multifunción Suono Neochef Pro, uno de los más vendidos de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Un robot de cocina te conviene si **cocinás variado y querés ahorrar tiempo y lavar menos cacharros**: pica, amasa y cocina solo, siguiendo recetas guiadas. Si solo calentás comida o cocinás poco, es gastar de más. La **Thermomix** es la mejor pero sale más de un millón y medio; las opciones como **Suono** hacen gran parte por un tercio o menos. Para empezar sin arriesgar mucho, una de gama media es la jugada.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo evaluamos:** miramos los robots de cocina con más ventas y opiniones reales en MercadoLibre Argentina (un nicho nuevo, con bases de opiniones todavía chicas), y los ordenamos por lo que define la compra: la **capacidad** del bowl, la **potencia**, las **funciones**, si traen wifi y recetario, y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `Qué es un robot de cocina (y para quién conviene)`, id: "que-es" },
+      { type: "p", content: `Es una procesadora con calor: un bowl con cuchillas que además **calienta y cocina**, controlando temperatura y tiempo. Con eso hace casi todo el proceso de una receta: pica la cebolla, sofríe, suma el caldo, cocina a fuego lento, todo en el mismo recipiente y muchas veces guiado por una app paso a paso. Reemplaza procesadora, batidora, una olla y a veces la balanza, y deja menos cosas para lavar.` },
+      { type: "p", content: `**Para quién sí:** si cocinás seguido y variado (guisos, salsas, masas, purés, comida para bebés, repostería), si tenés poco tiempo o si te tira la idea de cocinar siguiendo recetas guiadas. **Para quién no:** si cocinás poco, si solo calentás, o si te gusta cocinar "a mano" y no querés depender de un aparato. No hace magia: te ahorra tiempo y pasos, pero hay que aprenderle la mano.` },
+
+      { type: "h2", title: `Thermomix vs los económicos: la verdad`, id: "thermomix" },
+      { type: "p", content: `La **Thermomix** (Vorwerk) es la referencia de la categoría: la mejor construida, con el mejor recetario guiado y soporte. La contra es el precio: pasa largamente el millón y medio de pesos. Los robots **económicos** (Suono, Vonne, Heybez y similares) copian la idea y hacen **gran parte de lo mismo** (picar, amasar, cocinar, vapor) por un tercio o menos.` },
+      { type: "p", content: `¿Qué resignás con los económicos? Algo de robustez (materiales y durabilidad menos probados), un recetario y un soporte menos pulidos, y la marca. Para arrancar, probar la experiencia y cocinar rico sin invertir una fortuna, los económicos cumplen, y los compradores que vienen de la Thermomix suelen decir que "no tienen nada que envidiar" para el uso diario. Si cocinás todos los días hace años y querés lo mejor de por vida, ahí la Thermomix se justifica.` },
+
+      { type: "h2", title: `Los mejores robots de cocina 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Suono Neochef Pro 4.7L — el más completo` },
+      { type: "product-card", productMlaId: "MLA58514868", label: "El más completo", labelColor: "green", ranking: 1, description: `Bowl de 4.7 litros, 1700 W y más de 20 funciones (amasa, cocina, vapor, pica, pesa). 4.8 estrellas, el mejor valorado del nicho.` },
+      { type: "p", content: `Es el que recomendamos para la mayoría que quiere entrar al robot de cocina en serio. El Suono Neochef Pro tiene el **bowl más grande** (4.7 litros, rinde para familia), 1700 W de potencia y **más de 20 funciones**, con recetario. A alrededor de $570.000, es el mejor valorado del nicho y el que más se compara, para bien, con la Thermomix.` },
+      { type: "p", content: `Lo honesto: es un nicho nuevo, así que la base de opiniones todavía es chica (alrededor de 100), aunque muy positivas. Y un detalle que marcan: el recetario no siempre aclara cuántas porciones rinde cada receta. Por prestaciones y valoración, igual es el punto de partida más sólido.` },
+      { type: "pull-quote", content: `"Es espectacular. Tengo la Thermomix en otra cocina y esta no tiene nada que envidiar: recetas súper prácticas."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Suono Neochef 3.3L con wifi — el más accesible` },
+      { type: "product-card", productMlaId: "MLA51527087", label: "El más accesible", labelColor: "blue", ranking: 2, description: `Bowl de 3.3 litros, 1700 W, con wifi y recetario online. 4.5 estrellas. Casi las mismas prestaciones que el Pro por menos plata.` },
+      { type: "p", content: `Si querés entrar gastando lo menos posible, el Suono de **3.3 litros** es la versión accesible: misma potencia (1700 W) y multifunción, con **wifi y recetario online**, en un bowl más chico, a alrededor de $396.000. Es el más barato de la guía con respaldo de opiniones, y varios lo usan para emprendimientos de pastelería.` },
+      { type: "p", content: `Contra honesta de las reseñas: algunos materiales (sobre todo la traba de la tapa) se sienten un poco endebles. Para uso doméstico cumple bien, y en relación precio-prestaciones es la entrada más lógica al mundo del robot de cocina.` },
+      { type: "pull-quote", content: `"La compré para mi emprendimiento de pastelería y es súper útil. La app, excelente, con todo el recetario. En comparación de precio con la Thermomix, va como piña."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. EasyCook Vonne 4.5L — alternativa con pantalla táctil` },
+      { type: "product-card", productMlaId: "MLA62799773", label: "Alternativa táctil", labelColor: "purple", ranking: 3, description: `Bowl de 4.5 litros, 1000 W, con wifi y pantalla táctil. 4.6 estrellas en pocas opiniones todavía.` },
+      { type: "p", content: `El EasyCook Vonne es una alternativa al Suono en tamaño grande: **4.5 litros**, con **wifi y pantalla táctil** para manejarlo cómodo, a alrededor de $488.000. Buena opción si te gusta la interfaz táctil y querés capacidad para familia.` },
+      { type: "p", content: `Tiene menos potencia que el Suono Pro (1000 vs 1700 W) y, al ser nuevo, todavía con pocas opiniones. Como alternativa de tamaño grande con buena interfaz, igual es válido; si querés más respaldo de ventas, el Suono lleva la delantera.` },
+
+      { type: "h3", title: `4. Atma Smart Mix 3L — el de marca conocida` },
+      { type: "product-card", productMlaId: "MLA57493542", label: "Marca conocida", labelColor: "amber", ranking: 4, description: `Bowl de 3 litros con pantalla táctil, de Atma, marca con service en el país. Pocas opiniones todavía (es nuevo).` },
+      { type: "p", content: `Si te da más tranquilidad una **marca conocida con service** que un genérico, el Atma Smart Mix es la opción: 3 litros, pantalla táctil y el respaldo de Atma en Argentina, a alrededor de $569.000. La ventaja no son las prestaciones (parecidas al resto) sino el respaldo de marca ante cualquier problema.` },
+      { type: "p", content: `Lo honesto: a ese precio, el Suono Pro ofrece más litros y más potencia con mejor valoración. El Atma se justifica si priorizás la marca y el service por sobre las prestaciones. Es nuevo, así que también tiene pocas opiniones.` },
+
+      { type: "h3", title: `5. Heybez PMIX08 — el premium` },
+      { type: "product-card", productMlaId: "MLA52092432", label: "El premium", labelColor: "purple", ranking: 5, description: `Robot premium con vaporera, cerca de la categoría Thermomix por prestaciones y precio (más de un millón de pesos). 4.6 estrellas.` },
+      { type: "p", content: `Para quien quiere lo más cerca de una Thermomix sin pagar lo de una Thermomix, el Heybez PMIX08 es el premium del nicho: muy completo, con vaporera incluida, a alrededor de $1.200.000. Es el salto de gama dentro de las alternativas económicas.` },
+      { type: "p", content: `A ese precio ya estás a mitad de camino de la Thermomix de verdad, así que conviene compararlo con ella si tu presupuesto da. Para la mayoría, el Suono Pro da una experiencia muy buena por bastante menos; el Heybez es para quien quiere el tope sin llegar a la Thermomix.` },
+
+      { type: "h2", title: `Tabla comparativa: por capacidad, potencia y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Bowl`, `Potencia`, `Ideal para`], rows: [
+        [`[Suono Neochef 3.3L](https://meli.la/22jNkj5)`, `$396.199`, `3.3 L`, `1700 W`, `Entrar gastando lo mínimo`],
+        [`[EasyCook Vonne 4.5L](https://meli.la/2A46PnW)`, `$488.139`, `4.5 L`, `1000 W`, `Pantalla táctil, tamaño grande`],
+        [`[Atma Smart Mix 3L](https://meli.la/2iWFvPW)`, `$568.999`, `3 L`, `—`, `Marca conocida con service`],
+        [`[Suono Neochef Pro 4.7L](https://meli.la/19nyfZ5)`, `$569.999`, `4.7 L`, `1700 W`, `El más completo y valorado`],
+        [`[Heybez PMIX08](https://meli.la/1DzAgtB)`, `$1.199.699`, `3 L`, `800 W`, `Premium, tope de gama`],
+      ] },
+
+      { type: "h2", title: `Qué mirar antes de comprar un robot de cocina`, id: "como-elegir" },
+      { type: "h3", title: `1. La capacidad del bowl` },
+      { type: "p", content: `Es lo primero. Bowls de 3 a 3.3 litros para una persona o pareja; de 4.5 a 4.7 litros si son familia o cocinás en cantidad. Pensá en cuánta comida hacés de una: un bowl chico te obliga a cocinar en tandas.` },
+      { type: "h3", title: `2. Potencia, temperatura y funciones` },
+      { type: "p", content: `Más potencia (1700 W vs 1000 W) significa que cocina y calienta más rápido y aguanta masas pesadas. Fijate hasta qué temperatura llega (para sofreír y cocinar de verdad, no solo entibiar) y cuántas funciones reales trae. Las buenas hacen amasar, cocinar al vapor, picar, batir y pesar.` },
+      { type: "h3", title: `3. Recetario, wifi y balanza` },
+      { type: "p", content: `Lo que hace fácil a un robot de cocina es el **recetario guiado**: la app que te dice paso a paso qué hacer. Mirá que tenga un buen recetario (idealmente con wifi para actualizarlo) y que **pese los ingredientes** integrados (balanza), que ahorra ensuciar y medir aparte. Esos detalles son los que más cambian la experiencia diaria.` },
+
+      { type: "h2", title: `Cuánto cuesta un robot de cocina en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$396.000 a $570.000:** las opciones económicas que hacen gran parte del trabajo. El [Suono 3.3L](https://meli.la/22jNkj5) (entrada), el [EasyCook Vonne](https://meli.la/2A46PnW) y el [Suono Pro 4.7L](https://meli.la/19nyfZ5) (el más completo).`,
+        `**Alrededor de $1.200.000:** el premium del nicho, el [Heybez PMIX08](https://meli.la/1DzAgtB), ya cerca de la categoría Thermomix.`,
+        `**Más de $1.500.000:** la Thermomix de verdad, la mejor de la categoría, para quien quiere lo máximo y lo usa todos los días.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál robot de cocina comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría que quiere entrar al robot de cocina, el **Suono Neochef Pro 4.7L**: el más completo y mejor valorado, con prestaciones que se comparan bien con la Thermomix por un tercio del precio. Si querés gastar lo mínimo, el **Suono 3.3L**; si te da más tranquilidad la marca, el **Atma**; y si querés el tope sin llegar a la Thermomix, el **Heybez**. Es un nicho nuevo, así que las opiniones todavía son pocas: entrar ahora, en una gama media, es la forma de probarlo sin arriesgar una fortuna.` },
+    ],
+    faq: [
+      { question: `¿Vale la pena un robot de cocina?`, answer: `Si cocinás seguido y variado, sí: te ahorra tiempo y pasos (pica, amasa, cocina y cocina al vapor solo, siguiendo recetas guiadas) y dejás menos cosas para lavar. Si cocinás poco o solo calentás, es gastar de más. No hace magia, pero para quien cocina a diario es una mano enorme. Para probar sin arriesgar mucho, una gama media como el [Suono Pro](https://meli.la/19nyfZ5) es la jugada.` },
+      { question: `¿Qué diferencia hay entre la Thermomix y un robot económico?`, answer: `La Thermomix es la mejor construida, con el mejor recetario y soporte, pero pasa largamente el millón y medio de pesos. Los económicos (como [Suono](https://meli.la/19nyfZ5)) hacen gran parte de lo mismo (picar, amasar, cocinar, vapor) por un tercio o menos, resignando algo de robustez y un recetario menos pulido. Para uso diario cumplen muy bien; la Thermomix se justifica si querés lo mejor de por vida.` },
+      { question: `¿Qué hace un robot de cocina?`, answer: `Reemplaza a varios aparatos: pica, amasa, bate, sofríe, cocina, cocina al vapor y muchas veces pesa los ingredientes, todo en el mismo bowl y controlando temperatura y tiempo. Con el recetario guiado seguís los pasos desde una app. Sirve para guisos, salsas, masas, purés, comida para bebés y repostería, dejando menos cacharros para lavar.` },
+      { question: `¿Qué capacidad de robot de cocina necesito?`, answer: `Bowls de 3 a 3.3 litros para una persona o pareja; de 4.5 a 4.7 litros si son familia o cocinás en cantidad. El [Suono Pro](https://meli.la/19nyfZ5) (4.7 L) es el más grande de esta guía; el [Suono 3.3L](https://meli.la/22jNkj5), más compacto y barato. Pensá en cuánta comida hacés de una sola vez: con un bowl chico vas a tener que cocinar en tandas.` },
+      { question: `¿Los robots de cocina económicos son buenos?`, answer: `Para empezar y para uso diario, sí: hacen gran parte de lo que hace una Thermomix por mucho menos, y los compradores que vienen de una Thermomix suelen decir que "no tienen nada que envidiar". La contra es que son más nuevos (pocas opiniones todavía) y algunos materiales se sienten menos robustos. Si querés respaldo de marca, el [Atma](https://meli.la/2iWFvPW) suma el service en el país.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
+      { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
+      { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
