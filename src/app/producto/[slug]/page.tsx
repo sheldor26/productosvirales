@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { curatedProducts } from "@/data/curated-products";
 import { getVisibleProducts } from "@/lib/products";
 import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "@/lib/product-url";
+import { analyzePriceHistory } from "@/lib/price-history";
 import { ProductDetail } from "@/components/products/ProductDetail";
 import { ProductGrid } from "@/components/products/ProductGrid";
 
@@ -272,7 +273,11 @@ export default async function ProductPage({ params }: Props) {
         }}
       />
 
-      <ProductDetail product={product} relatedProducts={explicitRelated} />
+      <ProductDetail
+        product={product}
+        relatedProducts={explicitRelated}
+        priceHistory={analyzePriceHistory(product.id, product.price, product.priceUpdated)}
+      />
 
       {related.length > 0 && (
         <ProductGrid

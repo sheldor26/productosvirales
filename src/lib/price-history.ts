@@ -1,0 +1,90 @@
+import historyData from "@/data/price-history.json";
+import { formatPrice } from "@/lib/utils";
+
+/** Un punto de la serie histórica de precio. `d` = fecha ISO (YYYY-MM-DD), `p` = precio en ARS. */
+export interface PricePoint {
+  d: string;
+  p: number;
+}
+
+const history = historyData as Record<string, PricePoint[]>;
+
+/** Historial crudo de un producto (vacío si no hay datos). */
+export function getPriceHistory(id: string): PricePoint[] {
+  return history[id] ?? [];
+}
+
+export type PriceVerdictTone = "good" | "neutral" | "wait";
+
+/** Datos listos para el gráfico + veredicto honesto de "¿buen momento?". */
+export interface PriceChartData {
+  points: PricePoint[];
+  min: number;
+  max: number;
+  minDate: string;
+  current: number;
+  /** Cuánto está el precio actual por encima del mínimo histórico, en %. */
+  pctFromMin: number;
+  verdict: { tone: PriceVerdictTone; text: string };
+}
+
+function shortDate(iso: string): string {
+  // "2026-06-06" -> "6 jun". Parseamos a mano para evitar corrimientos de zona horaria.
+  const [, m, d] = iso.split("-").map(Number);
+  const meses = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+  return `${d} ${meses[(m ?? 1) - 1]}`;
+}
+
+/**
+ * Construye los datos del gráfico para un producto. Devuelve null si no hay
+ * suficiente historial (necesitamos al menos 2 puntos para una curva honesta).
+ * Agrega el precio actual como último punto si difiere del último registrado,
+ * para que el gráfico siempre coincida con el precio que muestra la ficha.
+ */
+export function analyzePriceHistory(
+  id: string,
+  currentPrice?: number,
+  currentDate?: string,
+): PriceChartData | null {
+  const raw = getPriceHistory(id);
+  if (raw.length === 0) return null;
+
+  const points: PricePoint[] = raw.map((pt) => ({ d: pt.d, p: pt.p }));
+  const last = points[points.length - 1];
+  if (currentPrice && currentPrice > 0 && currentPrice !== last.p) {
+    points.push({ d: currentDate || last.d, p: currentPrice });
+  }
+  if (points.length < 2) return null;
+
+  const prices = points.map((pt) => pt.p);
+  const min = Math.min(...prices);
+  const max = Math.max(...prices);
+  const minPoint = points.find((pt) => pt.p === min) ?? points[0];
+  const current = points[points.length - 1].p;
+  const pctFromMin = min > 0 ? Math.round(((current - min) / min) * 100) : 0;
+
+  let verdict: PriceChartData["verdict"];
+  if (current <= min) {
+    verdict = {
+      tone: "good",
+      text: "Hoy está en su precio más bajo registrado. Buen momento para comprar.",
+    };
+  } else if (pctFromMin <= 5) {
+    verdict = {
+      tone: "good",
+      text: `Está a solo ${pctFromMin}% de su mínimo histórico (${formatPrice(min)}). Buen precio.`,
+    };
+  } else if (current >= max) {
+    verdict = {
+      tone: "wait",
+      text: "Hoy está en su precio más alto registrado. Si no es urgente, conviene esperar.",
+    };
+  } else {
+    verdict = {
+      tone: "neutral",
+      text: `Hoy está ${pctFromMin}% arriba de su mínimo (${formatPrice(min)} el ${shortDate(minPoint.d)}). Ni el mejor ni el peor momento.`,
+    };
+  }
+
+  return { points, min, max, minDate: minPoint.d, current, pctFromMin, verdict };
+}

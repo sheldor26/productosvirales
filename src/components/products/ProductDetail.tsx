@@ -21,11 +21,14 @@ import { formatPrice, formatDiscount } from "@/lib/utils";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { productHref } from "@/lib/product-url";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
+import { PriceHistoryChart } from "./PriceHistoryChart";
 import type { Product } from "@/lib/types";
+import type { PriceChartData } from "@/lib/price-history";
 
 interface ProductDetailProps {
   product: Product;
   relatedProducts?: Product[];
+  priceHistory?: PriceChartData | null;
 }
 
 /** Estrellas de calificación (ámbar). Rellenas según round(rating). */
@@ -161,7 +164,7 @@ function parseArticle(articleBody?: string): {
   return { blocks, paraYes, paraNo };
 }
 
-export function ProductDetail({ product, relatedProducts = [] }: ProductDetailProps) {
+export function ProductDetail({ product, relatedProducts = [], priceHistory }: ProductDetailProps) {
   const containerRef = useRef<HTMLDivElement>(null);
 
   const discount = product.originalPrice
@@ -176,7 +179,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
 
   useGSAP(() => {
     const selector =
-      ".detail-image, .detail-info, .detail-proscons, .detail-related, .detail-parawhom, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-cta-band";
+      ".detail-image, .detail-info, .detail-proscons, .detail-pricehistory, .detail-related, .detail-parawhom, .detail-article, .detail-reviews, .detail-specs, .detail-faq, .detail-cta-band";
 
     const mm = gsap.matchMedia();
 
@@ -187,6 +190,7 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
       tl.from(".detail-image", { x: -20, y: 0 })
         .from(".detail-info", { x: 20, y: 0 }, "<0.1")
         .from(".detail-proscons", {}, 0.3)
+        .from(".detail-pricehistory", {}, "-=0.05")
         .from(".detail-related", {}, "-=0.05")
         .from(".detail-parawhom", {}, "-=0.05")
         .from(".detail-article", {}, "-=0.05")
@@ -413,6 +417,21 @@ export function ProductDetail({ product, relatedProducts = [] }: ProductDetailPr
               ))}
             </div>
           )}
+        </SectionCard>
+      )}
+
+      {/* ─── Historial de precios (datos propios desde el seguimiento semanal) ─── */}
+      {priceHistory && (
+        <SectionCard
+          className="detail-pricehistory"
+          kicker="Seguimiento de precio"
+          title="¿Cómo viene el precio?"
+        >
+          <PriceHistoryChart data={priceHistory} />
+          <p className="mt-3 text-xs text-[var(--text-muted)] leading-relaxed">
+            Seguimos el precio de este producto en MercadoLibre y registramos cada
+            cambio. Es una referencia para ver si hoy conviene comprar o esperar.
+          </p>
         </SectionCard>
       )}
 
