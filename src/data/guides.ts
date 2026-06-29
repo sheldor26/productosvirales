@@ -837,6 +837,123 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
+  // SATÉLITE auriculares-gamer — silo gaming — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "auriculares-gamer",
+    category: "gaming",
+    silo: "gaming",
+    title: `Auriculares gamer: cuál comprar en Argentina [2026]`,
+    seoTitle: `Auriculares Gamer: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué auriculares gamer comprar en Argentina: con cable o inalámbricos, del económico al premium (Kotion, Razer, Logitech, HyperX) y cuál conviene.`,
+    ogTitle: `Auriculares gamer: cuál comprar en Argentina`,
+    ogDescription: `Del más vendido y barato al premium inalámbrico. Kotion, Razer, Logitech, HyperX y Redragon comparados por conexión, sonido y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_916852-MLA99954201709_112025-F.jpg`,
+    h1: `Auriculares gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Unos auriculares gamer van de $41.000 a más de $210.000, y la primera decisión es con cable o inalámbricos. Te mostramos cuál conviene según cómo y en qué jugás, comparando los más vendidos de Argentina (Kotion, Razer, Logitech, HyperX, Redragon) por conexión, sonido y precio real de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA9406415", label: "El más vendido", labelColor: "green", tagline: "Kotion Each G9000: con cable, micrófono y luz LED, más de 9.000 opiniones" },
+      { productMlaId: "MLA16280514", label: "Mejor sonido por el precio", labelColor: "purple", tagline: "Razer BlackShark V2 X: sonido posicional limpio para competitivo" },
+      { productMlaId: "MLA18651915", label: "Mejor inalámbrico accesible", labelColor: "blue", tagline: "Logitech G435: inalámbrico, livianísimo, de marca de primera" },
+      { productMlaId: "MLA8732921", label: "El clásico cómodo", labelColor: "amber", tagline: "HyperX Cloud: la comodidad de referencia para muchas horas" },
+    ],
+    intro: [
+      `Los auriculares gamer suman dos cosas sobre unos comunes: **micrófono** para hablar con el equipo y un **sonido pensado para juegos** (escuchar de dónde vienen los pasos o los disparos). La primera decisión, la que más cambia el precio y la experiencia, es **con cable o inalámbricos**: el cable es más barato, sin lag y sin batería; el inalámbrico te da libertad pero cuesta más y hay que cargarlo.`,
+      `En esta guía comparamos los más vendidos de Argentina por conexión, sonido y precio real de MercadoLibre, del económico que la rompe en ventas al premium inalámbrico. Si sabés en qué jugás y cuánto querés gastar, en dos minutos sabés cuál comprar. Si buscás auriculares para música (no gaming), mejor mirá la [guía de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_916852-MLA99954201709_112025-F.jpg", alt: `Auriculares gamer Kotion Each G9000, los más vendidos de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para empezar gastando poco, el **Kotion Each G9000** (con cable, el más vendido). Si querés **mejor sonido para competitivo**, el **Razer BlackShark V2 X**. Si querés **cortar el cable**, el **Logitech G435** (inalámbrico accesible) o el **Redragon Ire Pro** (más barato). Y el **HyperX Cloud** es el clásico cómodo para muchas horas. Regla: para jugar competitivo, cable; para comodidad y libertad, inalámbrico.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los auriculares gamer con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (Kotion, Razer, Logitech, HyperX, Redragon). Los ordenamos por lo que define la compra: la **conexión** (cable o inalámbrico), el **sonido** y el micrófono, la comodidad y el precio. Las calificaciones son de compradores reales. Precios de junio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Con cable o inalámbricos: por dónde empezar`, id: "tipos" },
+      { type: "p", content: `Los **con cable** son más baratos a igual calidad, no tienen lag (el sonido llega al instante, clave en juegos competitivos) y no dependés de batería: los enchufás y listo. La contra es el cable colgando. Los **inalámbricos** te dan libertad de movimiento y quedan más prolijos, a cambio de costar más, tener que cargarlos y, en los baratos, algo de latencia. Para shooters competitivos, el cable manda; para comodidad, ver series o moverte, el inalámbrico gana.` },
+      { type: "p", content: `Lo segundo: la **comodidad** (si jugás muchas horas, la vincha y las almohadillas importan más que cualquier otra cosa), el **micrófono** (para hablar por Discord o en el juego) y el **sonido posicional** (los buenos te dejan ubicar de dónde viene cada sonido). El "7.1 surround" de los baratos suele ser por software y no hace magia; el sonido posicional real de un Razer o HyperX se nota más.` },
+
+      { type: "h2", title: `Los mejores auriculares gamer 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Kotion Each G9000 — el más vendido` },
+      { type: "product-card", productMlaId: "MLA9406415", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, micrófono y luz LED, al precio más bajo. 4.6 estrellas en más de 9.000 calificaciones: los auriculares gamer más vendidos del país.` },
+      { type: "p", content: `Si querés entrar al gaming con micrófono y buen sonido sin gastar casi nada, son estos. Los Kotion Each G9000 son **los más vendidos del país por amplio margen** (más de 9.000 opiniones, un número que ninguno se acerca) y cuestan alrededor de $41.000, con cable, micrófono y luz LED. Para jugar en la PC o la consola y hablar con el equipo, cumplen de sobra.` },
+      { type: "p", content: `Lo honesto que sale en las reseñas: el **micrófono es regular** (te escuchan, pero no es de estudio) y son auriculares de entrada, no de competición seria. Pero por lo que salen y la montaña de gente conforme, son la compra más segura para arrancar.` },
+      { type: "pull-quote", content: `"Superó mis expectativas, muy cómodo y con buen sonido. Lo uso en la PS4 y en la PC y anda fenomenal."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Razer BlackShark V2 X — el mejor sonido por el precio` },
+      { type: "product-card", productMlaId: "MLA16280514", label: "Mejor sonido", labelColor: "purple", ranking: 2, description: `Con cable, micrófono desmontable y sonido posicional limpio para juego competitivo. 4.8 estrellas en más de 1.800 calificaciones.` },
+      { type: "p", content: `Si jugás shooters y querés escuchar de dónde vienen los pasos, el Razer BlackShark V2 X es el salto. Es **con cable** (cero lag), con un **sonido posicional limpio** que los compradores destacan para competitivo, micrófono desmontable y la calidad Razer, a alrededor de $100.000. El upgrade lógico desde los económicos cuando el sonido te importa.` },
+      { type: "p", content: `Cuesta más del doble que el Kotion, así que lo elegís si jugás en serio o valorás un audio más nítido y un micrófono mejor. Para uso casual, el Kotion alcanza; para competitivo, el BlackShark marca la diferencia.` },
+      { type: "pull-quote", content: `"Precio-calidad 10/10, audio y micrófono 10/10. Se diferencian mucho los bajos y se escucha todo muy limpio."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Logitech G435 — el mejor inalámbrico accesible` },
+      { type: "product-card", productMlaId: "MLA18651915", label: "Inalámbrico accesible", labelColor: "blue", ranking: 3, description: `Inalámbrico (Bluetooth y 2.4 GHz), livianísimo (165 g) y de marca de primera. 4.7 estrellas en más de 4.500 calificaciones.` },
+      { type: "p", content: `Si querés cortar el cable sin irte a precio premium, el Logitech G435 es el inalámbrico accesible más elegido (más de 4.500 opiniones). Es **muy liviano** (165 g, casi no lo sentís), se conecta por **Bluetooth y 2.4 GHz** (PC, consolas y celular) y trae la calidad de Logitech G, a alrededor de $150.000. La libertad del inalámbrico de una marca seria sin pagar de más.` },
+      { type: "p", content: `No tiene tantos graves ni la construcción de los premium, pero para la mayoría que quiere inalámbrico cómodo y de marca, es el punto justo. Si querés inalámbrico gastando menos, mirá el Redragon de abajo; si querés el premium, el G733.` },
+
+      { type: "h3", title: `4. HyperX Cloud — el clásico cómodo` },
+      { type: "product-card", productMlaId: "MLA8732921", label: "El clásico cómodo", labelColor: "amber", ranking: 4, description: `Con cable y micrófono desmontable, famoso por la comodidad para muchas horas. 4.8 estrellas. Una marca de referencia del gaming.` },
+      { type: "p", content: `Si pasás muchas horas con los auriculares puestos, el HyperX Cloud es el clásico por algo: su fama es la **comodidad** (vincha y almohadillas mullidas que no aprietan), con cable y micrófono desmontable, a alrededor de $83.000. HyperX es una de las marcas de referencia del gaming, y este modelo es el que la hizo famosa.` },
+      { type: "p", content: `Para quien prioriza la comodidad de largas sesiones por sobre el sonido competitivo, es la opción. Si tu prioridad es el audio posicional, el Razer; si es la comodidad para maratones, el HyperX.` },
+
+      { type: "h3", title: `5. Redragon Ire Pro H848 — el inalámbrico económico` },
+      { type: "product-card", productMlaId: "MLA58836044", label: "Inalámbrico económico", labelColor: "green", ranking: 5, description: `Inalámbrico (Bluetooth, recargable por USB) y con micrófono, de una marca gamer muy elegida. 4.7 estrellas en más de 1.400 calificaciones.` },
+      { type: "p", content: `Si querés inalámbrico gastando lo menos posible, el Redragon Ire Pro es la entrada: **Bluetooth, recargable por USB** y con micrófono, de una marca gamer muy popular en Argentina, a alrededor de $84.000. Casi la mitad que el Logitech G435 inalámbrico.` },
+      { type: "p", content: `Resignás algo de calidad de sonido y construcción frente al Logitech, pero para tener inalámbrico sin gastar de más, cumple. Es el equivalente inalámbrico del Kotion: la opción de valor para cortar el cable.` },
+
+      { type: "h3", title: `6. Logitech G733 — el inalámbrico premium` },
+      { type: "product-card", productMlaId: "MLA16269737", label: "Inalámbrico premium", labelColor: "purple", ranking: 6, description: `Inalámbrico 2.4 GHz, con luces RGB, liviano y diseño premium. 4.8 estrellas en más de 1.600 calificaciones.` },
+      { type: "p", content: `Si querés lo mejor sin cable, el Logitech G733 es el premium inalámbrico: 2.4 GHz de baja latencia, **luces RGB**, diseño liviano y el sonido de Logitech G, a alrededor de $210.000. El tope de gama dentro de lo que se vende fuerte, para quien arma un setup que se vea y suene de primera.` },
+      { type: "p", content: `Es el más caro de la guía, así que lo justificás si valorás el inalámbrico premium y la estética. Para la mayoría, el G435 da la experiencia inalámbrica por bastante menos.` },
+
+      { type: "h2", title: `Tabla comparativa: por conexión y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Ideal para`], rows: [
+        [`[Kotion Each G9000](https://meli.la/21XciT1)`, `$40.927`, `Con cable`, `El más vendido y barato`],
+        [`[Razer BlackShark V2 X](https://meli.la/1eMqyZ5)`, `$100.000`, `Con cable`, `Mejor sonido competitivo`],
+        [`[HyperX Cloud](https://meli.la/2E5hHez)`, `$82.646`, `Con cable`, `Comodidad para muchas horas`],
+        [`[Redragon Ire Pro](https://meli.la/1EmVgFD)`, `$83.999`, `Inalámbrico`, `Inalámbrico gastando poco`],
+        [`[Logitech G435](https://meli.la/1X17nvS)`, `$149.999`, `Inalámbrico`, `Inalámbrico accesible de marca`],
+        [`[Logitech G733](https://meli.la/1erBB4P)`, `$210.422`, `Inalámbrico`, `Premium inalámbrico`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tus auriculares gamer`, id: "como-elegir" },
+      { type: "h3", title: `1. Cable o inalámbrico` },
+      { type: "p", content: `Con cable: más barato, sin lag y sin batería, ideal para jugar competitivo o para gastar menos. Inalámbrico: libertad de movimiento y más prolijo, a cambio de más precio y de cargarlo. Si jugás shooters en serio, cable; si querés comodidad, ver series o no tener cables, inalámbrico.` },
+      { type: "h3", title: `2. Comodidad y micrófono` },
+      { type: "p", content: `Si jugás muchas horas, la comodidad es lo que más vas a sentir: fijate en la vincha y las almohadillas (el HyperX es el referente). Y si vas a hablar por Discord o en el juego, mirá el micrófono: en los económicos como el Kotion es "regular"; en un Razer o HyperX se te escucha mucho mejor.` },
+      { type: "h3", title: `3. ¿Hace falta el 7.1 / sonido posicional?` },
+      { type: "p", content: `Para shooters competitivos ayuda escuchar de dónde viene cada sonido. Ojo: el "7.1 surround" de los baratos suele ser un efecto por software que no hace tanta diferencia. El sonido posicional real y limpio de un Razer BlackShark o un HyperX se nota más que un número en la caja. Si no jugás competitivo, no te obsesiones con esto.` },
+
+      { type: "h2", title: `Cuánto cuestan unos auriculares gamer en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$41.000 a $84.000:** los de entrada. El [Kotion G9000](https://meli.la/21XciT1) (el más vendido, con cable), el [HyperX Cloud](https://meli.la/2E5hHez) (cable, cómodo) y el [Redragon Ire Pro](https://meli.la/1EmVgFD) (inalámbrico económico).`,
+        `**$100.000 a $150.000:** el salto de calidad. El [Razer BlackShark V2 X](https://meli.la/1eMqyZ5) (mejor sonido, cable) y el [Logitech G435](https://meli.la/1X17nvS) (inalámbrico de marca).`,
+        `**$210.000 o más:** el premium. El [Logitech G733](https://meli.la/1erBB4P), inalámbrico tope de gama con RGB.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuáles auriculares gamer comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para empezar gastando poco, el **Kotion Each G9000**: el más vendido, con cable y micrófono, imbatible por precio. Si querés **mejor sonido para competitivo**, el **Razer BlackShark V2 X**. Para **cortar el cable**, el **Logitech G435** (de marca) o el **Redragon Ire Pro** (más barato). Si priorizás la **comodidad** de muchas horas, el **HyperX Cloud**. Y para el **premium inalámbrico**, el **Logitech G733**. El error a evitar: pagar por inalámbrico o "7.1" que no vas a aprovechar, o quedarte con un micrófono malo si hablás mucho en el juego.` },
+    ],
+    faq: [
+      { question: `¿Cuáles son los mejores auriculares gamer en Argentina?`, answer: `Por ventas y relación precio, el [Kotion Each G9000](https://meli.la/21XciT1) (los más vendidos, con cable y baratos). Si querés mejor sonido, el [Razer BlackShark V2 X](https://meli.la/1eMqyZ5); para inalámbrico de marca, el [Logitech G435](https://meli.la/1X17nvS); para comodidad, el [HyperX Cloud](https://meli.la/2E5hHez); y premium inalámbrico, el [Logitech G733](https://meli.la/1erBB4P).` },
+      { question: `¿Auriculares gamer con cable o inalámbricos?`, answer: `Con cable son más baratos, sin lag y sin batería, ideales para juego competitivo o para gastar menos. Inalámbricos te dan libertad de movimiento y quedan más prolijos, pero cuestan más y hay que cargarlos. Para shooters en serio, cable ([Razer](https://meli.la/1eMqyZ5)); para comodidad y libertad, inalámbrico ([Logitech G435](https://meli.la/1X17nvS)).` },
+      { question: `¿Sirven los auriculares gamer para PS5 y Xbox?`, answer: `Los con cable (jack 3.5 mm) andan en PS5, Xbox, Switch, PC y celular sin problema, enchufando al joystick o al equipo. En los inalámbricos, fijate la compatibilidad: algunos van por receptor USB (PC y PS) y otros también por Bluetooth. Los de esta guía funcionan con PC y consolas; revisá el conector que usás antes de comprar.` },
+      { question: `¿Necesito sonido 7.1 surround en unos auriculares gamer?`, answer: `No es imprescindible. El "7.1" de los modelos económicos suele ser un efecto por software que no hace tanta diferencia real. Lo que importa para juego competitivo es un sonido posicional limpio (escuchar de dónde viene cada paso), que se logra mejor en modelos como el [Razer BlackShark](https://meli.la/1eMqyZ5) o el [HyperX Cloud](https://meli.la/2E5hHez) que con un número en la caja.` },
+      { question: `¿Qué diferencia hay entre auriculares gamer y comunes?`, answer: `Los gamer suman micrófono (para hablar con el equipo) y un sonido pensado para ubicar efectos en el juego, además de vinchas pensadas para muchas horas. Los auriculares comunes priorizan la música y la portabilidad. Si jugás y charlás online, andá a unos gamer; si es para música en la calle, mirá la [guía de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).` },
+    ],
+    internalLinks: [
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────
