@@ -1,3 +1,6 @@
+"use client";
+
+import { useRef, useState } from "react";
 import { formatPrice } from "@/lib/utils";
 import type { PriceChartData, PriceVerdictTone } from "@/lib/price-history";
 
@@ -13,18 +16,24 @@ const H = 260;
 const PAD = { l: 52, r: 16, t: 16, b: 30 };
 const PLOT_W = W - PAD.l - PAD.r;
 const PLOT_H = H - PAD.t - PAD.b;
+const MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
 
 function toMs(iso: string): number {
   return Date.parse(`${iso}T00:00:00Z`);
 }
-
 function compact(v: number): string {
   return `$${Math.round(v / 1000)}k`;
+}
+function fmtDate(ms: number): string {
+  const d = new Date(ms);
+  return `${d.getUTCDate()} ${MESES[d.getUTCMonth()]}`;
 }
 
 export function PriceHistoryChart({ data }: { data: PriceChartData }) {
   const { points, min, max, current, verdict } = data;
   const tone = TONE[verdict.tone];
+  const svgRef = useRef<SVGSVGElement>(null);
+  const [hover, setHover] = useState<{ vx: number; price: number; ms: number } | null>(null);
 
   // Escala Y con un margen del 15% arriba y abajo para que la línea no toque el borde.
   const range = max - min || max * 0.1 || 1;
@@ -48,7 +57,6 @@ export function PriceHistoryChart({ data }: { data: PriceChartData }) {
   const baseY = PAD.t + PLOT_H;
   const area = `${line} L ${x(points[points.length - 1].d).toFixed(1)} ${baseY} L ${x(points[0].d).toFixed(1)} ${baseY} Z`;
 
-  // Grilla horizontal + etiquetas tipo "$210k".
   const TICKS = 4;
   const ticks = Array.from({ length: TICKS + 1 }, (_, i) => {
     const val = yHi - (i / TICKS) * (yHi - yLo);
@@ -59,15 +67,35 @@ export function PriceHistoryChart({ data }: { data: PriceChartData }) {
   const cx = x(points[points.length - 1].d);
   const cy = y(current);
 
+  // ── Interacción: precio vigente en la fecha bajo el cursor ──
+  function moveTo(clientX: number) {
+    const svg = svgRef.current;
+    if (!svg) return;
+    const r = svg.getBoundingClientRect();
+    const vx = Math.max(PAD.l, Math.min(W - PAD.r, (clientX - r.left) * (W / r.width)));
+    const ms = t0 + ((vx - PAD.l) / PLOT_W) * tSpan;
+    let idx = 0;
+    for (let i = 0; i < points.length; i++) if (toMs(points[i].d) <= ms) idx = i;
+    setHover({ vx, price: points[idx].p, ms });
+  }
+
+  // Tooltip: posición acotada para que no se salga del gráfico.
+  const TW = 104;
+  const TH = 44;
+  const hoverY = hover ? y(hover.price) : 0;
+  const bx = hover ? Math.max(PAD.l, Math.min(W - PAD.r - TW, hover.vx - TW / 2)) : 0;
+  const by = hover ? Math.max(2, hoverY - TH - 12) : 0;
+
   return (
     <div>
       <svg
+        ref={svgRef}
         viewBox={`0 0 ${W} ${H}`}
         width="100%"
         preserveAspectRatio="xMidYMid meet"
         role="img"
         aria-label={`Evolución del precio. Mínimo ${formatPrice(min)}, máximo ${formatPrice(max)}, actual ${formatPrice(current)}.`}
-        style={{ display: "block" }}
+        style={{ display: "block", touchAction: "none" }}
       >
         <defs>
           <linearGradient id={gradId} x1="0" y1="0" x2="0" y2="1">
@@ -89,13 +117,7 @@ export function PriceHistoryChart({ data }: { data: PriceChartData }) {
               strokeDasharray={i === 0 || i === TICKS ? "0" : "3 4"}
               opacity="0.6"
             />
-            <text
-              x={PAD.l - 8}
-              y={t.yPos + 4}
-              textAnchor="end"
-              fontSize="12"
-              fill="var(--text-muted)"
-            >
+            <text x={PAD.l - 8} y={t.yPos + 4} textAnchor="end" fontSize="12" fill="var(--text-muted)">
               {compact(t.val)}
             </text>
           </g>
@@ -115,6 +137,34 @@ export function PriceHistoryChart({ data }: { data: PriceChartData }) {
         <text x={W - PAD.r} y={H - 8} textAnchor="end" fontSize="12" fill="var(--text-muted)">
           {points[points.length - 1].d.split("-").reverse().slice(0, 2).join("/")}
         </text>
+
+        {/* Hover: línea guía + punto + tooltip */}
+        {hover && (
+          <g pointerEvents="none">
+            <line x1={hover.vx} y1={PAD.t} x2={hover.vx} y2={baseY} stroke={tone.line} strokeWidth="1" strokeDasharray="3 3" opacity="0.5" />
+            <circle cx={hover.vx} cy={hoverY} r="4.5" fill={tone.line} stroke="var(--bg-primary)" strokeWidth="2" />
+            <g>
+              <rect x={bx} y={by} width={TW} height={TH} rx="6" fill="#1c1c1c" opacity="0.95" />
+              <text x={bx + 12} y={by + 18} fontSize="12" fill="#b9b9b9">{fmtDate(hover.ms)}</text>
+              <text x={bx + 12} y={by + 36} fontSize="15" fontWeight="600" fill="#ffffff">{formatPrice(hover.price)}</text>
+            </g>
+          </g>
+        )}
+
+        {/* Capa transparente que captura el mouse / touch */}
+        <rect
+          x={PAD.l}
+          y={PAD.t}
+          width={PLOT_W}
+          height={PLOT_H}
+          fill="transparent"
+          style={{ cursor: "crosshair" }}
+          onMouseMove={(e) => moveTo(e.clientX)}
+          onMouseLeave={() => setHover(null)}
+          onTouchStart={(e) => moveTo(e.touches[0].clientX)}
+          onTouchMove={(e) => moveTo(e.touches[0].clientX)}
+          onTouchEnd={() => setHover(null)}
+        />
       </svg>
 
       {/* Veredicto honesto + mínimo/máximo */}
