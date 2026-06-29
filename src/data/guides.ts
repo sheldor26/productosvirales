@@ -954,6 +954,123 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
+  // SATÉLITE teclado-gamer — silo gaming — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "teclado-gamer",
+    category: "gaming",
+    silo: "gaming",
+    title: `Teclado gamer: cuál comprar en Argentina [2026]`,
+    seoTitle: `Teclado Gamer: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Descubrí qué teclado gamer comprar en Argentina: mecánico o membrana, qué switch, qué tamaño y cuál conviene. Redragon, HyperX, Razer y más comparados.`,
+    ogTitle: `Teclado gamer: cuál comprar en Argentina`,
+    ogDescription: `Mecánico o membrana, switch ruidoso o silencioso, full o compacto. Redragon, HyperX, Logitech, Razer y Aula comparados por tipo, tamaño y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_649437-MLA99937224833_112025-F.jpg`,
+    h1: `Teclado gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Elegir un teclado gamer se reduce a tres preguntas: mecánico o membrana, qué tipo de switch y qué tamaño. Te las respondemos y te mostramos cuál conviene según cómo jugás y cuánto querés gastar, comparando los más vendidos de Argentina (Redragon, HyperX, Razer, Logitech, Aula) con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA16369071", label: "El más vendido", labelColor: "green", tagline: "Redragon Kumara K552: el mecánico más vendido, TKL y RGB, más de 15.000 opiniones" },
+      { productMlaId: "MLA14075573", label: "Membrana (silencioso)", labelColor: "blue", tagline: "HyperX Alloy Core: membrana, más silencioso y blando, en español" },
+      { productMlaId: "MLA19893399", label: "Mecánico silencioso", labelColor: "purple", tagline: "Redragon Horus K622: mecánico TKL con switches red, en español" },
+      { productMlaId: "MLA16085611", label: "Premium compacto", labelColor: "amber", tagline: "Razer Huntsman Mini: 60% óptico, respuesta rapidísima para competitivo" },
+    ],
+    intro: [
+      `El teclado es lo que más vas a tocar en tu setup, y la oferta marea. Pero la decisión se reduce a tres cosas: **mecánico o membrana** (cómo se siente al tipear), **qué switch** si es mecánico (define el ruido y el tacto) y **qué tamaño** (con o sin teclado numérico). Resolvé eso y el resto cae solo.`,
+      `En esta guía comparamos los más vendidos de Argentina por esos tres ejes, con precios reales de MercadoLibre y lo bueno y lo malo de cada uno. Un detalle clave para acá: el **layout en español** (con ñ) vs inglés, que muchos teclados gamer importados no tienen. Si te falta el resto del setup, mirá la [silla gamer](/guias/gaming/silla-gamer) y los [auriculares gamer](/guias/gaming/auriculares-gamer).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_649437-MLA99937224833_112025-F.jpg", alt: `Teclado gamer Redragon Kumara K552, el mecánico más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `El más vendido y seguro es el **Redragon Kumara K552** (mecánico, pero ruidoso). Si te molesta el ruido, andá a uno de **membrana** (HyperX Alloy) o a un **mecánico con switch red** (Redragon Horus, Aula F75), que son silenciosos. Para competitivo y espacio, un compacto **TKL o 60%**. Y si escribís mucho en español, fijate que tenga **ñ** (layout español), porque muchos importados no la traen.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los teclados gamer con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (Redragon, HyperX, Razer, Logitech, Aula). Los ordenamos por lo que define la compra: **mecánico vs membrana**, el tipo de **switch** (ruidoso o silencioso), el **tamaño**, el layout (español/inglés) y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+
+      { type: "h2", title: `Las 3 preguntas antes de comprar`, id: "que-mirar" },
+      { type: "p", content: `**1. ¿Mecánico o membrana?** El mecánico tiene un switch debajo de cada tecla: mejor respuesta, más durable y satisfactorio de tipear, pero más caro y (según el switch) ruidoso. La membrana usa una lámina de goma: más barata, más silenciosa y blanda, aunque menos precisa y durable. Para gaming serio, mecánico; para empezar o un ambiente silencioso, membrana cumple.` },
+      { type: "p", content: `**2. ¿Qué switch?** (solo en mecánicos). Los **blue** son clicky y ruidosos (lindos de tipear, molestos para los demás). Los **red** son lineales, suaves y silenciosos, los preferidos para gaming. Los **brown** están en el medio. Si compartís ambiente, evitá los blue. **3. ¿Qué tamaño?** El **full** trae teclado numérico; el **TKL** lo saca (más espacio para mover el mouse); el **75% y 60%** son aún más compactos (estética y espacio, a costa de teclas). Para shooters, cuanto más compacto, más lugar para el mouse.` },
+
+      { type: "h2", title: `Los mejores teclados gamer 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Redragon Kumara K552 — el más vendido` },
+      { type: "product-card", productMlaId: "MLA16369071", label: "El más vendido", labelColor: "green", ranking: 1, description: `Mecánico TKL con RGB y en español. 4.8 estrellas en más de 15.000 calificaciones: el teclado gamer más vendido del país, por lejos.` },
+      { type: "p", content: `Si querés un mecánico de verdad sin gastar mucho, es este. El Redragon Kumara K552 es **el más vendido del país por amplio margen** (más de 15.000 opiniones), mecánico, formato TKL (sin numérico, más espacio para el mouse), con RGB y layout en **español con ñ**, a alrededor de $63.000. La puerta de entrada al teclado mecánico, con un respaldo de ventas que ninguno tiene.` },
+      { type: "p", content: `La contra honesta, que sale en las reseñas: es **ruidoso** (switches clicky). Si tenés la compu en un ambiente compartido o grabás/llamás, el ruido molesta. Para eso, mirá los de switch red o membrana de abajo. Pero por precio, ventas y ser mecánico en español, es la compra más segura.` },
+      { type: "pull-quote", content: `"El teclado está buenísimo, pero es muy ruidoso: si tenés la compu en el comedor y querés un mecánico, este no sería el indicado."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. HyperX Alloy Core — el de membrana (silencioso)` },
+      { type: "product-card", productMlaId: "MLA14075573", label: "Membrana silenciosa", labelColor: "blue", ranking: 2, description: `Membrana full size con RGB, en español. 4.9 estrellas en más de 1.400 calificaciones. Más silencioso y blando que un mecánico.` },
+      { type: "p", content: `Si el ruido del mecánico no es para vos, el HyperX Alloy Core es el de membrana mejor valorado (**4.9 estrellas**): más silencioso y blando al tipear, full size, con RGB y en **español**, de una marca de referencia, a alrededor de $64.000. Cuesta casi lo mismo que el Kumara pero es silencioso: la opción para ambientes compartidos o si no te cierra el clic mecánico.` },
+      { type: "p", content: `Resignás la respuesta y la durabilidad de un mecánico, pero ganás silencio y comodidad por el mismo precio. Contra menor de las reseñas: el RGB se cambia con botones, no trae software.` },
+      { type: "pull-quote", content: `"Bastante cómodo, las teclas amoldadas para los dedos, y es pesadito así que no se mueve. Lo único malo: el RGB no tiene software, se cambia con botones."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Aula F75 — el mecánico del momento (75%)` },
+      { type: "product-card", productMlaId: "MLA57380272", label: "Mecánico 75%", labelColor: "purple", ranking: 3, description: `Mecánico 75% con switches red (silenciosos) y retroiluminado. 4.8 estrellas. Sensación de tipeo premium por su precio.` },
+      { type: "p", content: `El Aula F75 es el mecánico de moda: formato **75%** (compacto pero conserva las flechas), con **switches red** (lineales y silenciosos) y una sensación de tipeo que la gente destaca como superior a su precio, a alrededor de $62.000. Si querés algo mecánico, silencioso y con onda, es la apuesta del momento.` },
+      { type: "p", content: `El detalle a saber: viene en **layout inglés internacional (sin ñ)**, así que si escribís mucho en español, lo vas a notar. Para gaming no molesta; para escribir, sí. Si necesitás ñ, andá al Kumara o al Horus.` },
+
+      { type: "h3", title: `4. Logitech G213 Prodigy — membrana resistente a líquidos` },
+      { type: "product-card", productMlaId: "MLA8906508", label: "Membrana resistente", labelColor: "blue", ranking: 4, description: `Membrana full size de Logitech, con RGB por zonas y resistencia a salpicaduras. 4.7 estrellas en más de 800 calificaciones.` },
+      { type: "p", content: `Si querés una membrana de marca de primera y a prueba de accidentes, el Logitech G213 es resistente a **salpicaduras de líquido** (si se te vuelca el mate o la gaseosa, aguanta), full size, silencioso y robusto, a alrededor de $76.000. La opción durable y confiable dentro de las membranas.` },
+      { type: "p", content: `Es un poco más caro que el HyperX y viene en **inglés US (sin ñ)**. Lo elegís por la marca, la resistencia a líquidos y la durabilidad. Si priorizás el español o el precio, el HyperX Alloy conviene más.` },
+
+      { type: "h3", title: `5. Redragon K622 Horus TKL — mecánico silencioso en español` },
+      { type: "product-card", productMlaId: "MLA19893399", label: "Mecánico silencioso", labelColor: "green", ranking: 5, description: `Mecánico TKL con switches red (silenciosos), RGB y en español. 4.8 estrellas. Como el Kumara pero sin el ruido.` },
+      { type: "p", content: `Si te gusta el Kumara pero no el ruido, el Redragon Horus K622 es la respuesta: mismo formato TKL y en **español con ñ**, pero con **switches red** lineales y silenciosos, a alrededor de $88.000. Lo mejor de los dos mundos: mecánico de verdad, en castellano y sin el clic molesto.` },
+      { type: "p", content: `Cuesta algo más que el Kumara, y esa diferencia la pagás en silencio y en un tacto más suave. Para quien quiere mecánico en español sin molestar a nadie, es la mejor opción de la guía.` },
+
+      { type: "h3", title: `6. Razer Huntsman Mini — el premium compacto (60%)` },
+      { type: "product-card", productMlaId: "MLA16085611", label: "Premium compacto", labelColor: "purple", ranking: 6, description: `Mecánico óptico 60% (ultracompacto), respuesta rapidísima y RGB. 4.8 estrellas. Para competitivo serio.` },
+      { type: "p", content: `Si vas a competitivo en serio y querés lo mejor en chico, el Razer Huntsman Mini es el premium: formato **60%** (sin flechas ni numérico, máximo espacio para mover el mouse) con **switches ópticos** de respuesta rapidísima, RGB y la calidad Razer, a alrededor de $138.000. El teclado de los que juegan FPS en serio.` },
+      { type: "p", content: `Es el más caro y el más chico (hay que acostumbrarse a las funciones secundarias y viene en inglés US). Para la mayoría es más de lo necesario; para el competitivo que quiere cada centímetro de escritorio libre, es el indicado.` },
+
+      { type: "h2", title: `Tabla comparativa: por tipo, tamaño y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Tamaño`, `Ideal para`], rows: [
+        [`[Aula F75](https://meli.la/1MgoaV2)`, `$62.349`, `Mecánico (red)`, `75%`, `Mecánico silencioso del momento`],
+        [`[Redragon Kumara K552](https://meli.la/1WJcMxC)`, `$62.799`, `Mecánico (ruidoso)`, `TKL`, `El más vendido (en español)`],
+        [`[HyperX Alloy Core](https://meli.la/21e4ujZ)`, `$63.999`, `Membrana`, `Full`, `Silencioso y económico, en español`],
+        [`[Logitech G213](https://meli.la/11qvS6t)`, `$75.599`, `Membrana`, `Full`, `Resistente a líquidos`],
+        [`[Redragon Horus K622](https://meli.la/19edjTZ)`, `$87.990`, `Mecánico (red)`, `TKL`, `Mecánico silencioso en español`],
+        [`[Razer Huntsman Mini](https://meli.la/2cJvkJf)`, `$138.000`, `Mecánico óptico`, `60%`, `Premium competitivo`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu teclado gamer`, id: "como-elegir" },
+      { type: "h3", title: `1. Mecánico o membrana, según ruido y presupuesto` },
+      { type: "p", content: `Mecánico: mejor tacto, respuesta y durabilidad, ideal para gaming, pero más caro y (con switch blue) ruidoso. Membrana: más barata, silenciosa y blanda, perfecta para empezar o ambientes compartidos. Si querés mecánico sin ruido, elegí uno con switch red (Aula F75, Redragon Horus).` },
+      { type: "h3", title: `2. El tamaño, según tu escritorio y el mouse` },
+      { type: "p", content: `Full size si usás el teclado numérico (planillas, contabilidad). TKL si querés más espacio para mover el mouse (la elección gamer más común). 75% y 60% si priorizás un escritorio despejado o la estética, a costa de algunas teclas. Para shooters, cuanto más compacto, más lugar para el mouse.` },
+      { type: "h3", title: `3. Layout español (con ñ) o inglés` },
+      { type: "p", content: `Muchos teclados gamer importados vienen en inglés US o internacional, sin ñ y con los símbolos en otro lado. Para jugar da igual; para escribir en español, molesta. Si escribís bastante (chat, trabajo, estudio), buscá uno en español: el Kumara, el HyperX Alloy y el Horus de esta guía lo tienen.` },
+
+      { type: "h2", title: `Cuánto cuesta un teclado gamer en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$62.000 a $64.000:** la franja que conviene para la mayoría. El [Aula F75](https://meli.la/1MgoaV2) (mecánico 75%), el [Redragon Kumara](https://meli.la/1WJcMxC) (el más vendido) y el [HyperX Alloy](https://meli.la/21e4ujZ) (membrana).`,
+        `**$76.000 a $88.000:** un escalón de marca o silencio. El [Logitech G213](https://meli.la/11qvS6t) (membrana resistente) y el [Redragon Horus](https://meli.la/19edjTZ) (mecánico silencioso en español).`,
+        `**$138.000 o más:** el premium. El [Razer Huntsman Mini](https://meli.la/2cJvkJf), 60% óptico para competitivo.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál teclado gamer comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Redragon Kumara K552**: el mecánico más vendido, en español y barato (si no te molesta el ruido). Si querés **silencio**, el **HyperX Alloy** (membrana) o el **Redragon Horus** (mecánico red, en español). El **Aula F75** es el mecánico con mejor sensación de tipeo del momento (ojo, sin ñ). Y para **competitivo premium**, el **Razer Huntsman Mini** 60%. El error a evitar: comprar un switch blue ruidoso para un ambiente compartido, o uno sin ñ si escribís mucho en español.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor teclado gamer en Argentina?`, answer: `Por ventas, el [Redragon Kumara K552](https://meli.la/1WJcMxC): el mecánico más vendido (más de 15.000 opiniones), en español y barato, aunque ruidoso. Si querés silencio, el [HyperX Alloy](https://meli.la/21e4ujZ) (membrana) o el [Redragon Horus](https://meli.la/19edjTZ) (mecánico red); para competitivo premium, el [Razer Huntsman Mini](https://meli.la/2cJvkJf).` },
+      { question: `¿Teclado mecánico o de membrana para gaming?`, answer: `El mecánico tiene mejor respuesta, tacto y durabilidad (ideal para gaming serio), pero es más caro y, según el switch, ruidoso. La membrana es más barata, silenciosa y blanda, buena para empezar o ambientes compartidos. Si querés mecánico sin ruido, elegí uno con switch red como el [Aula F75](https://meli.la/1MgoaV2) o el [Redragon Horus](https://meli.la/19edjTZ).` },
+      { question: `¿Qué switch de teclado mecánico conviene?`, answer: `Los blue son clicky y ruidosos (satisfactorios pero molestos para los demás). Los red son lineales, suaves y silenciosos, los preferidos para gaming. Los brown están en el medio. Si compartís ambiente o llamás/grabás, evitá los blue y andá a switches red. El [Kumara](https://meli.la/1WJcMxC) es ruidoso; el [Horus](https://meli.la/19edjTZ) y el [Aula F75](https://meli.la/1MgoaV2) son red silenciosos.` },
+      { question: `¿Qué significa TKL, 75% y 60% en un teclado?`, answer: `Es el tamaño. Full size trae teclado numérico; TKL (tenkeyless) lo saca, dejando más espacio para mover el mouse; 75% es aún más compacto pero conserva las flechas; 60% saca flechas y numérico (máximo espacio, funciones secundarias). Para gaming, TKL o más chico dan más lugar al mouse; para planillas, full size con numérico.` },
+      { question: `¿Los teclados gamer vienen en español (con ñ)?`, answer: `Algunos sí y otros no: muchos importados vienen en inglés US o internacional, sin ñ. Para jugar da igual, pero para escribir en español molesta. De esta guía, el [Redragon Kumara](https://meli.la/1WJcMxC), el [HyperX Alloy](https://meli.la/21e4ujZ) y el [Redragon Horus](https://meli.la/19edjTZ) traen layout en español; el Aula F75, el Logitech G213 y el Razer vienen en inglés.` },
+    ],
+    internalLinks: [
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────

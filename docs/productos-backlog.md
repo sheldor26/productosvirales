@@ -48,6 +48,33 @@
 
 ---
 
+## Gaming — Teclados gamer
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Redragon Kumara K552 (mecánico TKL) | MLA16369071 | Redragon | 15395 | $62.799 | meli.la/1WJcMxC | **usado** en `teclado-gamer` (#1) |
+| HyperX Alloy Core (membrana) | MLA14075573 | HyperX | 1489 | $63.999 | meli.la/21e4ujZ | **usado** en `teclado-gamer` (#2) |
+| Logitech G213 Prodigy (membrana) | MLA8906508 | Logitech G | 869 | $75.599 | meli.la/11qvS6t | **usado** en `teclado-gamer` (#4) |
+| Aula F75 negro (mecánico 75% red) | MLA57380272 | Aula | 397 | $62.349 | meli.la/1MgoaV2 | **usado** en `teclado-gamer` (#3) |
+| Redragon Horus K622 (mecánico TKL red) | MLA19893399 | Redragon | 378 | $87.990 | meli.la/19edjTZ | **usado** en `teclado-gamer` (#5) |
+| Razer Huntsman Mini mercury (60% óptico) | MLA16085611 | Razer | 316 | $138.000 | meli.la/2cJvkJf | **usado** en `teclado-gamer` (#6) |
+| Teclado mecánico 60% genérico (switch blue) | MLA58811447 | (genérico) | 1240 | $41.974 | meli.la/1kKiztD | pendiente — 60% económico / "teclado mecánico barato" |
+| Redragon Ziggs K669 (mecánico) | MLA38834031 | Redragon | 417 | $63.001 | meli.la/1PfeDU9 | pendiente — marca Redragon |
+| Aula F75 blanco | MLA58573558 | Aula | 397 | $62.349 | meli.la/2VS9zQo | pendiente — variante color del #3 |
+| Razer Huntsman Mini negro | MLA16085609 | Razer | 316 | $189.699 | meli.la/2nuj7GH | pendiente — variante color del #6 (más caro) |
+| Corsair K65 Mini (60%) | MLA21361481 | Corsair | 23 | $154.514 | meli.la/2DMph9S | pendiente — premium 60% / marca Corsair (pocas reseñas) |
+| HyperX Alloy Origins 60 (MLAU) | MLAU121305368 | HyperX | 16 | $135.399 | meli.la/1yVuKEE | pendiente — premium 60% / HyperX (pocas reseñas) |
+
+## Gaming — Kits gamer (teclado + mouse)
+
+> Ángulo propio futuro: guía "kit gamer: cuál comprar" (combo teclado+mouse, conviene para armar el setup de una).
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Kit Gadnic teclado + mouse RGB | MLA19079378 | Gadnic | 1570 | $33.849 | meli.la/1FRwXdn | pendiente — **kit gamer económico** |
+| Kit Redragon S143 (K617 + M724) | MLA47333674 | Redragon | 809 | $74.999 | meli.la/1QjfBRL | pendiente — **kit gamer de marca** |
+| Kit Senon 4 en 1 (teclado+mouse+auri+pad) | MLA63650610 | Senon | 412 | $37.481 | meli.la/2Epam1y | pendiente — kit completo económico |
+
 ## Otros silos / categorías
 
 _(acá van los productos sobrantes de otras tandas que quieran guardarse para futuras guías)_
