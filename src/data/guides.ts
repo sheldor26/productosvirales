@@ -726,6 +726,117 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
+  // PILAR silla-gamer — silo gaming (/guias/gaming/...) — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "silla-gamer",
+    category: "gaming",
+    silo: "gaming",
+    pillar: true,
+    title: `Silla gamer: cuál comprar en Argentina [2026]`,
+    seoTitle: `Silla Gamer: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Descubrí qué silla gamer comprar en Argentina: Alpina, Cougar o Corsair, cuero o tela, cuál conviene según tu peso y presupuesto. Comparativa real.`,
+    ogTitle: `Silla gamer: cuál comprar en Argentina`,
+    ogDescription: `De la más vendida y barata a la premium que dura. Alpina, Cougar y Corsair comparadas por material, peso soportado y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_656227-MLA95633522918_102025-F.jpg`,
+    h1: `Silla gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-06-28",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una silla gamer va de $143.000 a más de $780.000, y la diferencia no es solo la marca: es el material, lo que soporta y cuánto te va a durar. Te mostramos cuál conviene según tu peso, tu presupuesto y cuántas horas te sentás, comparando las más vendidas de Argentina (Alpina, Cougar, Corsair) con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA47061669", label: "La más vendida", labelColor: "green", tagline: "Alpina FT-088: la más vendida y barata, más de 6.100 opiniones" },
+      { productMlaId: "MLA26019250", label: "La premium que dura", labelColor: "purple", tagline: "Cougar Armor Elite: calidad premium, soporta 120 kg, 4.9 estrellas" },
+      { productMlaId: "MLA69124616", label: "La más fresca (tela)", labelColor: "blue", tagline: "Cougar Fusion EX: tapizado de tela, no se calienta en verano" },
+      { productMlaId: "MLA47084299", label: "Alternativa de valor", labelColor: "amber", tagline: "Alpina PRE-FT055: la otra Alpina, un escalón sobre la más vendida" },
+    ],
+    intro: [
+      `La silla gamer dejó de ser solo para jugar: hoy la compra cualquiera que pase muchas horas sentado (laburo, estudio, streaming). El problema es el rango de precios enorme, de $143.000 a más de $780.000, y que casi todas se ven parecidas. Pero la diferencia real está en tres cosas: el **material** del tapizado, **cuánto peso soportan** y la **calidad de construcción** (que define cuánto te dura sin hundirse).`,
+      `En esta guía comparamos las más vendidas de Argentina (Alpina, Cougar, Corsair) por lo que de verdad importa, con precios reales de MercadoLibre y lo bueno y lo malo de cada una. Si sabés tu presupuesto y cuántas horas te vas a sentar, en dos minutos sabés cuál comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_656227-MLA95633522918_102025-F.jpg", alt: `Silla gamer Alpina FT-088, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **Alpina FT-088**: la más vendida y barata, cómoda para el día a día. Si querés **calidad premium que dure años**, la **Cougar Armor Elite** (soporta 120 kg). Y si te molesta el calor, una de **tela** (Cougar Fusion o Corsair) es más fresca que las de cuero sintético. Lo que más cambia el confort: el material y un buen respaldo reclinable.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las sillas gamer con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (Alpina, Cougar, Corsair). Las ordenamos por lo que define la compra: el **material** del tapizado (cuero sintético vs tela), el **peso que soportan**, la calidad de construcción y el precio. Las calificaciones son de compradores reales. Precios de junio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una silla gamer`, id: "que-mirar" },
+      { type: "p", content: `El **material del tapizado** es lo primero. El **cuero sintético** (la mayoría de las baratas, como Alpina) es fácil de limpiar y se ve prolijo, pero **se calienta y se pega** en verano y con los años puede descascararse. La **tela** (Cougar Fusion, Corsair) es **más fresca y transpirable**, ideal si pasás muchas horas o vivís en zona calurosa, a cambio de juntar un poco más de polvo. Es la decisión que más vas a sentir en el uso diario.` },
+      { type: "p", content: `Después, **cuánto peso soporta** (las buenas declaran hasta 120 kg o más; clave para que no se hunda ni se rompa el pistón) y la **calidad de construcción** (base metálica vs plástica, densidad de la gomaespuma). Y los **apoyabrazos**: los simples solo suben y bajan; los mejores se mueven en varias direcciones. Si te vas a sentar muchas horas, fijate también que tenga buen **respaldo reclinable** y soporte lumbar.` },
+
+      { type: "h2", title: `Las mejores sillas gamer 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Alpina FT-088 — la más vendida` },
+      { type: "product-card", productMlaId: "MLA47061669", label: "La más vendida", labelColor: "green", ranking: 1, description: `La silla gamer más vendida del país: ergonómica, reclinable, en cuero sintético. 4.7 estrellas en más de 6.100 calificaciones, al mejor precio.` },
+      { type: "p", content: `Si querés una silla gamer que cumpla sin gastar de más, es esta. La Alpina FT-088 es **la más vendida de Argentina por amplio margen** (más de 6.100 opiniones, un número que ninguna otra tiene), reclinable, giratoria y con apoyabrazos, a alrededor de $143.000. Para el día a día de laburo, estudio o jugar, es cómoda y el armado es fácil.` },
+      { type: "p", content: `Lo honesto, que sale en las reseñas: por el precio, **le falta un poco de gomaespuma** y las costuras no son de las más robustas, así que con uso intensivo de años puede ceder. No es una silla "de por vida", pero por lo que sale y la cantidad de gente conforme, es la compra más segura para empezar.` },
+      { type: "pull-quote", content: `"Por ahora muy buena compra debido al precio: es cómoda y el armado muy fácil. A mi gusto le falta un poco más de gomaespuma."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Cougar Armor Elite Royal — la premium que dura` },
+      { type: "product-card", productMlaId: "MLA26019250", label: "La premium que dura", labelColor: "purple", ranking: 2, description: `Premium robusta: soporta hasta 120 kg, cuero PVC transpirable, materiales de larga duración. 4.9 estrellas en más de 1.100 calificaciones.` },
+      { type: "p", content: `Si querés calidad que dure años y no te importa pagarla, la Cougar Armor Elite es la mejor valorada de la guía (**4.9 estrellas** en más de 1.100 opiniones). Soporta **hasta 120 kg**, usa cuero PVC transpirable (no se calienta tanto como el sintético común) y los compradores destacan la solidez de los materiales. A alrededor de $380.000, es la inversión de quien quiere una silla seria.` },
+      { type: "p", content: `Es más del doble que la Alpina, así que la elegís si valorás la durabilidad y el confort de una marca gamer de verdad, o si pesás más y necesitás una estructura robusta. Para uso liviano, la Alpina alcanza; para uso intensivo y que dure, esta los justifica.` },
+      { type: "pull-quote", content: `"Materiales de extrema calidad y súper cómoda. Es un precio elevado, pero cuando llega te das cuenta de que vale cada centavo: se nota que durará años."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Cougar Fusion EX — la más fresca (tela)` },
+      { type: "product-card", productMlaId: "MLA69124616", label: "La más fresca", labelColor: "blue", ranking: 3, description: `Tapizado de tela, más fresca y transpirable que las de cuero sintético. 4.9 estrellas. De una marca gamer reconocida.` },
+      { type: "p", content: `Si lo que te molesta es el calor (el cuero sintético se pega y transpira mal), la Cougar Fusion EX viene en **tela transpirable**: mucho más fresca para muchas horas sentado o para el verano argentino. Mantiene la calidad Cougar y 4.9 estrellas, a alrededor de $260.000. Es el punto medio entre la Alpina barata y la Armor premium.` },
+      { type: "p", content: `La contra de la tela: junta un poco más de polvo y es algo menos fácil de limpiar que el cuero (una mancha de líquido cuesta más). Pero si priorizás no transpirar, la diferencia se nota desde el primer día.` },
+
+      { type: "h3", title: `4. Alpina PRE-FT055 — alternativa de valor` },
+      { type: "product-card", productMlaId: "MLA47084299", label: "Alternativa de valor", labelColor: "amber", ranking: 4, description: `La otra Alpina: ergonómica y reclinable en cuero sintético, un escalón sobre la más vendida. 4.6 estrellas en más de 1.600 calificaciones.` },
+      { type: "p", content: `Si te gusta la relación precio de Alpina pero querés otra opción (o la FT-088 está sin stock en el color que querés), la PRE-FT055 es la alternativa: misma idea, ergonómica y reclinable en cuero sintético, a alrededor de $156.000, con más de 1.600 opiniones. Un escalón apenas por encima de la más vendida.` },
+
+      { type: "h3", title: `5. Corsair T3 Rush — la premium de marca top` },
+      { type: "product-card", productMlaId: "MLA16171813", label: "Premium de marca", labelColor: "purple", ranking: 5, description: `De Corsair, marca top del mundo gaming: tapizado de tela transpirable, construcción de primera. 4.9 estrellas.` },
+      { type: "p", content: `Si querés una marca de primerísima línea del gaming, la Corsair T3 Rush es la premium tope: **tela transpirable**, construcción de calidad y el respaldo de Corsair, con 4.9 estrellas. Es la más cara de la guía (alrededor de $786.000), así que la elegís si la marca y el acabado de gama alta te importan más que el precio.` },
+      { type: "p", content: `Para la mayoría es más de lo necesario: la Cougar Armor da calidad premium por la mitad. La Corsair tiene sentido si ya estás en el mundo Corsair o querés lo mejor sin mirar el precio.` },
+
+      { type: "h2", title: `Tabla comparativa: por material, peso y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Material`, `Soporta`, `Ideal para`], rows: [
+        [`[Alpina FT-088](https://meli.la/1t2j7zH)`, `$143.550`, `Cuero sintético`, `Uso normal`, `La más vendida y barata`],
+        [`[Alpina PRE-FT055](https://meli.la/2CJ8LqU)`, `$155.856`, `Cuero sintético`, `Uso normal`, `Alternativa de valor`],
+        [`[Cougar Fusion EX](https://meli.la/1drE2G6)`, `$259.999`, `Tela (fresca)`, `Uso intensivo`, `No transpirar / verano`],
+        [`[Cougar Armor Elite](https://meli.la/1Z2hdW6)`, `$379.999`, `Cuero PVC transpirable`, `Hasta 120 kg`, `Premium que dura`],
+        [`[Corsair T3 Rush](https://meli.la/1fUDsKj)`, `$786.110`, `Tela (transpirable)`, `Uso intensivo`, `Premium de marca top`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu silla gamer`, id: "como-elegir" },
+      { type: "h3", title: `1. Cuero sintético o tela` },
+      { type: "p", content: `Cuero sintético: más fácil de limpiar y más barato, pero se calienta y se pega en verano, y con los años puede descascararse. Tela: más fresca y transpirable (mejor para muchas horas o calor), a cambio de juntar más polvo y costar un poco más limpiarla. Si transpirás o vivís en zona calurosa, tela; si priorizás precio y limpieza fácil, cuero sintético.` },
+      { type: "h3", title: `2. Por tu peso y las horas de uso` },
+      { type: "p", content: `Si pesás bastante o la vas a usar muchas horas todos los días, mirá el peso que soporta (las buenas declaran 120 kg o más, como la Cougar Armor) y la solidez de la base. Una silla barata aguanta el uso liviano, pero con peso y uso intensivo conviene una premium robusta para que no se hunda ni se rompa el pistón al año.` },
+      { type: "h3", title: `3. ¿Silla gamer o silla ergonómica de oficina?` },
+      { type: "p", content: `Es la otra gran duda. La silla gamer tiene respaldo alto, reclinación amplia y estética deportiva; la ergonómica de oficina apunta a la postura pura (malla, soporte lumbar regulable) y suele ser más cara a igual calidad. Para jugar, estudiar y trabajar combinado, una buena silla gamer cumple las dos funciones. Si tu prioridad absoluta es la espalda y la postura para 8 horas de oficina, una ergonómica dedicada puede convenir más.` },
+
+      { type: "h2", title: `Cuánto cuesta una silla gamer en Argentina [junio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$143.000 a $156.000:** las de entrada, la franja que conviene para la mayoría. La [Alpina FT-088](https://meli.la/1t2j7zH) (la más vendida) y la [PRE-FT055](https://meli.la/2CJ8LqU), en cuero sintético.`,
+        `**$260.000 a $380.000:** las premium. La [Cougar Fusion EX](https://meli.la/1drE2G6) (tela, fresca) y la [Cougar Armor Elite](https://meli.la/1Z2hdW6) (robusta, 120 kg, la mejor valorada).`,
+        `**$786.000 o más:** la de marca tope. La [Corsair T3 Rush](https://meli.la/1fUDsKj), solo si querés lo mejor sin mirar el precio.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál silla gamer comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Alpina FT-088**: la más vendida y barata, cómoda para el día a día (sabiendo que no es de por vida). Si querés **calidad premium que dure y soporte más peso**, la **Cougar Armor Elite** (120 kg, la mejor valorada) es la inversión. Si te molesta el **calor**, una de **tela** como la **Cougar Fusion EX**. Y si vas por una **marca tope** sin mirar precio, la **Corsair T3 Rush**. El error a evitar: comprar la más barata para uso intensivo de muchas horas, o pagar una premium si solo la usás un rato.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor silla gamer en Argentina?`, answer: `Para la mayoría, la [Alpina FT-088](https://meli.la/1t2j7zH): la más vendida del país (más de 6.100 opiniones), cómoda y al mejor precio. Si querés calidad premium que dure y soporte hasta 120 kg, la [Cougar Armor Elite](https://meli.la/1Z2hdW6) es la mejor valorada (4.9). Para no transpirar, una de tela como la [Cougar Fusion EX](https://meli.la/1drE2G6).` },
+      { question: `¿Qué es mejor para una silla gamer, cuero sintético o tela?`, answer: `Depende de qué te moleste. El cuero sintético es más fácil de limpiar y más barato, pero se calienta y se pega en verano. La tela es más fresca y transpirable, ideal para muchas horas o zonas calurosas, a cambio de juntar más polvo. Si transpirás, andá a tela ([Cougar Fusion](https://meli.la/1drE2G6) o [Corsair](https://meli.la/1fUDsKj)); si priorizás precio y limpieza, cuero sintético ([Alpina](https://meli.la/1t2j7zH)).` },
+      { question: `¿Cuánto peso soporta una silla gamer?`, answer: `Las de entrada aguantan el uso normal, pero no siempre publican el máximo; las premium lo declaran: la [Cougar Armor Elite](https://meli.la/1Z2hdW6), por ejemplo, soporta hasta 120 kg. Si pesás bastante o la vas a usar muchas horas, conviene una con buen peso declarado y base sólida, para que no se hunda ni se rompa el pistón.` },
+      { question: `¿Vale la pena una silla gamer o conviene una silla de oficina?`, answer: `Para jugar, estudiar y trabajar combinado, una buena silla gamer cumple las dos funciones: respaldo alto, reclinación y comodidad para muchas horas. Una ergonómica de oficina apunta más a la postura pura (malla, lumbar regulable) y suele costar más a igual calidad. Si tu prioridad absoluta es la espalda para 8 horas de oficina, evaluá una ergonómica; si no, la gamer rinde.` },
+      { question: `¿Las sillas gamer son cómodas para trabajar muchas horas?`, answer: `Sí, sobre todo las de gama media para arriba, que traen mejor gomaespuma, respaldo reclinable y soporte lumbar. Las más baratas (como la Alpina) cumplen para uso normal, pero si te sentás 8 horas todos los días conviene una premium con tela transpirable o cuero de calidad y buen soporte lumbar, para no terminar con dolor de espalda.` },
+    ],
+    internalLinks: [
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────
