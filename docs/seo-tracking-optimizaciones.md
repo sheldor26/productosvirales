@@ -50,6 +50,9 @@ Estado **previo** a la primera tanda de optimización del 2026-06-26.
 | masajeador-donde-comprar-argentina | 11 | 1 | n/d | — | 2026-04-11 | 2026-06-26 |
 | pava-electrica-mercadolibre | 4 | 0 | n/d | 0% | 2026-05-02 | 2026-06-26 |
 | masajeador-gadnic | n/d | n/d | n/d | — | 2026-06-17 | revisada s/optimización (nueva, 11 días) |
+| perfumes-arabes-por-color | 296 | 0 | 8.90 | 0% | 2026-06-01 | 2026-06-29 |
+
+**perfumes-arabes-por-color (2026-06-29):** baseline del snapshot 2026-06-27 (primera optimización). Rankeaba 9º con 296 impresiones y **0 clicks** (CTR puro). Las queries reales son combinaciones de dos colores, sobre todo "[color] + dorado" ("perfume árabe azul y dorado", "celeste con dorado", "blanco con dorado", "azul con tapa dorada"). Cambios: seoTitle reordenado a colores de más demanda, metaDescription reescrita (estaba en 167 car., apuntada ahora a la intención real) y **sección nueva "frascos de dos colores (con dorado)"** que mapea cada combinación a su producto. Cambio de CTR + empuje de ranking. Re-medir ~2026-07-27.
 
 **masajeador-gadnic (2026-06-28):** guía nueva (11 días), sin baseline en GSC todavía. No se re-optimizó por ser muy nueva (mismo criterio que `mejor-aspiradora-robot`). Sí se hizo un cambio de contenido puntual: el asiento Sauce (MLA19712537) quedó discontinuado en ML, se reemplazó por el Gadnic Acacia (MLA21263803, shiatsu, 4.7, ~$438.000) y se pasaron los links de afiliado a meli.la propios. `updatedDate` → 2026-06-28. Medir en la próxima tanda.
 

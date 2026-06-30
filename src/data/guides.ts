@@ -12886,15 +12886,15 @@ export const guides: Guide[] = [
     slug: "perfumes-arabes-por-color",
     category: "perfumes-arabes",
     title: "Perfumes árabes por color del envase: rosa, dorado, azul, marrón y más",
-    seoTitle: "Perfumes árabes por color: rosa, dorado, azul y más (2026)",
+    seoTitle: "Perfumes árabes por color: azul, dorado, rosa y más (2026)",
     metaDescription:
-      "Identificá el perfume árabe que viste en TikTok por el color del envase: rosa, dorado, azul, marrón, rojo, blanco. Nombres exactos, precios y dónde comprar en Argentina.",
+      "¿Viste un perfume árabe azul, rosa o con tapa dorada y no sabés cuál es? Encontralo por el color del frasco: nombre exacto, perfil y precio en Argentina.",
     ogTitle: "El perfume árabe rosa que viste en TikTok: nombre exacto y dónde está",
     ogDescription:
       "Lo viste en un reel, no recordás cómo se llama, pero recordás el color. Esta guía lista los perfumes árabes más buscados de Argentina ordenados por color del envase — con nombre exacto, perfil olfativo y precio real.",
     h1: "Perfumes árabes por color del envase: encontrá el frasco viral por su color (2026)",
     publishedDate: "2026-06-01",
-    updatedDate: "2026-06-01",
+    updatedDate: "2026-06-29",
     hasDisclosure: true,
     intro: [
       "Pasa todo el tiempo: ves un perfume árabe en un reel de TikTok, te llama la atención, pero no escuchaste bien el nombre. Lo único que recordás es el color del envase. Rosa pastel, dorado intenso, azul cristal, marrón café. Esta guía resuelve exactamente ese problema.",
@@ -12915,6 +12915,14 @@ export const guides: Guide[] = [
       {
         type: "p",
         content: "Por color de envase, los más buscados en Argentina son: **rosa** → Lattafa Yara Tous, Yara Candy, Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
+      },
+      {
+        type: "h3",
+        title: "¿Y si el frasco tiene dos colores (con dorado)?"
+      },
+      {
+        type: "p",
+        content: "Muchos frascos combinan un color base con un dorado que casi siempre es la tapa o el líquido, no el color que define el aroma. Para identificarlo, fijate en el color que domina. Si viste **azul con dorado**, manda el azul: es un acuático fresco, casi seguro el Rasasi Hawas Ice (el clon del Invictus). **Rojo o bordó con dorado** apunta al Lattafa Asad Intense. **Rosa con dorado** es la línea Lattafa Yara. **Blanco con dorado** suele ser un dulce o floral suave. Y si el frasco es directamente **dorado**, mirá la sección de dorados más abajo (Yara Elixir, Fakhar Gold Extract, Maahir Legacy)."
       },
       {
         type: "trust-block",
