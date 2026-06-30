@@ -35,12 +35,99 @@ export const curatedProducts: Product[] = [
       { label: "Reclinable", value: "Sí, giratoria" },
       { label: "Apoyabrazos", value: "Sí" },
       { label: "Marca", value: "Alpina" },
+      { label: "Soporta hasta", value: "150 kg" },
+      { label: "Pistón", value: "Hidráulico clase III (ajuste 10 cm)" },
+      { label: "Reclinación", value: "90° a 180°" },
+      { label: "Tipo de apoyabrazos", value: "Fijos (no regulables)" },
+      { label: "Soporte lumbar", value: "Regulable + almohadas lumbar y cervical removibles" },
+      { label: "Base", value: "Estrella de PVC de alta resistencia" },
+      { label: "Ruedas", value: "Plásticas de PVC giratorias 360°" },
+      { label: "Estructura interna", value: "Acero + espuma de alta densidad" },
+      { label: "Regulación de altura", value: "106 a 116 cm (10 cm de rango)" },
+      { label: "Ancho de asiento", value: "50 cm" },
     ],
     relatedProducts: ["MLA26019250", "MLA47084299"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Silla gamer Alpina FT-088: la más vendida de Argentina por amplio margen (más de 6.100 calificaciones), ergonómica, reclinable y al mejor precio. Tapizado en cuero sintético. Armado fácil. Lo honesto de las reseñas: le falta un poco de gomaespuma y las costuras no son de las más robustas, normal para el precio.",
+    seoTitle: "Silla Gamer Alpina FT-088: la más vendida, ¿conviene?",
+    metaDescription: "Soporta 150 kg, trae lumbar regulable y cervical, pero los apoyabrazos son fijos y la base es de PVC. La más vendida de Argentina, mirá si te sirve.",
+    verdict: "Sirve si querés tu primera silla gamer barata para jugar o trabajar varias horas y no te molesta que los apoyabrazos sean fijos. Trae soporte lumbar regulable, almohada cervical y aguanta hasta 150 kg, que para el precio está muy bien. No la elijas si buscás apoyabrazos que se ajusten en alto o base de metal: para eso tenés que subir de gama.",
+    pros: [
+      "Aguanta hasta 150 kg, más que la mayoría de las sillas baratas de su rango",
+      "Trae soporte lumbar regulable y almohada cervical removible (no todas las económicas las incluyen)",
+      "Reclina de 90° a 180°, o sea que se acuesta casi del todo para descansar",
+      "Pistón hidráulico clase III, el estándar serio en sillas de oficina/gaming",
+      "Estructura interna de acero y espuma de alta densidad, no plástico puro",
+      "Es la más vendida de Argentina por amplio margen: 4.7 estrellas en más de 6.100 calificaciones",
+      "Tapizado de cuero sintético waterproof, fácil de limpiar con un trapo",
+    ],
+    cons: [
+      "Los apoyabrazos son fijos: no suben, bajan ni rotan (la publicación dice solo 'Sí', no aclara que no se ajustan)",
+      "La base es estrella de PVC, no de metal: más liviana y menos resistente a largo plazo",
+      "Las ruedas son de plástico PVC, pueden marcar o sonar en pisos duros sin alfombra",
+      "La regulación de altura es de solo 10 cm (de 106 a 116 cm), justa si sos muy alto",
+      "Tapizado de cuero sintético: en verano transpira poco y se pega más que la tela",
+      "Por el precio, la gomaespuma del asiento es justa y las costuras no son las más robustas",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Alpina FT-088 es una silla gamer económica pensada para quien quiere su primera silla decente sin gastar de más. Es la más vendida de Argentina por amplio margen: 4.7 estrellas en más de 6.100 calificaciones, números que ninguna otra silla gamer del país se acerca a tener. Es la opción típica del que arma su primer setup, del estudiante que pasa horas frente a la compu o del que necesita reemplazar una silla de oficina vieja sin irse a precios de gama alta. No es una silla premium ni pretende serlo: es la entrada honesta al mundo gamer.
+
+## Lo bueno
+
+Aguanta hasta 150 kg, que es más de lo que ofrecen casi todas las sillas baratas de su rango. El dato importa porque el peso máximo es lo primero que se exagera en este nicho, y acá Alpina lo declara en su propia página. Suma soporte lumbar regulable y una almohada cervical removible, dos cosas que muchas económicas no traen y que se notan después de la tercera hora sentado. Reclina de 90° a 180°, o sea que se acuesta casi del todo si querés tirarte un rato. Adentro tiene estructura de acero y espuma de alta densidad, no plástico puro, y monta un pistón hidráulico clase III, que es el estándar serio. El tapizado es cuero sintético waterproof, así que un derrame se limpia con un trapo.
+
+## La contra real
+
+Los apoyabrazos son fijos: no suben, no bajan, no rotan. La publicación de ML pone solo "Sí" en apoyabrazos y no aclara esto, pero la página de Alpina lo dice claro: son fijos y confortables, nada de 2D o 4D. Si venís de una silla con apoyabrazos regulables, lo vas a extrañar. La base es estrella de PVC, no de metal: funciona, pero es más liviana y a la larga aguanta menos castigo que una de aluminio. Las ruedas también son de plástico PVC, así que en piso duro sin alfombra pueden marcar o hacer ruido. Y la regulación de altura es de solo 10 cm (de 106 a 116 cm), justa si sos muy alto. Por último, lo que ya dicen las propias reseñas: por el precio, la gomaespuma es justa y las costuras no son las más robustas. Normal para lo que sale.
+
+## Cómo se compara con las otras de la guía
+
+Si te alcanza el presupuesto, las Cougar son otro nivel, pero cuestan más del doble. La Cougar Armor Elite Royal es la premium mejor valorada de la guía (4.9 estrellas), soporta 120 kg con materiales de larga duración y apoyabrazos de verdad, pero su precio es más del doble que la FT-088. La Cougar Fusion EX viene en tela en lugar de cuero sintético, así que es más fresca y no se pega en verano, ideal si el calor te molesta y pasás muchas horas sentado. Dentro de la misma marca, la Alpina PRE-FT055 es prácticamente la hermana de esta: mismo tapizado de cuero sintético, precio muy parecido y combinación negro/rojo, así que entre las dos Alpina la decisión es más de color que de specs. La FT-088 gana en una sola cosa, pero no es menor: es la que más gente compró y calificó.
+
+## Para quién sí y para quién no
+
+Comprala si querés una silla gamer barata, funcional y con lumbar regulable para tu primer setup o para trabajar. Es ideal si pesás hasta 150 kg, no te importa que los apoyabrazos sean fijos y valorás que sea la opción más probada del país. No la compres si necesitás apoyabrazos que se ajusten en alto, base de metal o un tapizado que no transpire en verano: para eso conviene estirarse a una Cougar de la misma guía. Para lo que sale, la FT-088 cumple lo que promete.`,
+    faq: [
+      {
+        question: "¿Cuánto peso soporta la Alpina FT-088?",
+        answer: "Soporta hasta 150 kg según la propia página de Alpina. Es de las más altas en sillas gamer económicas, donde lo común es 100 o 120 kg. El dato está confirmado por el fabricante, no inflado por la publicación.",
+      },
+      {
+        question: "¿Los apoyabrazos de la FT-088 son regulables?",
+        answer: "No, los apoyabrazos son fijos: no suben, bajan ni rotan. La publicación de ML solo dice 'Sí' en apoyabrazos sin aclararlo, pero Alpina confirma que son fijos. Si querés apoyabrazos 2D o 4D, tenés que subir de gama.",
+      },
+      {
+        question: "¿Cuánto reclina el respaldo?",
+        answer: "Reclina de 90° a 180°, o sea que se puede acostar casi del todo. Sirve para descansar o tirarte un rato sin levantarte. Es de las que más se abren en su rango de precio.",
+      },
+      {
+        question: "¿De qué material es la silla?",
+        answer: "El tapizado es cuero sintético waterproof, con estructura interna de acero y espuma de alta densidad. La base es estrella de PVC, no de metal, y las ruedas son de plástico PVC. Para el precio, los materiales son los justos pero correctos.",
+      },
+      {
+        question: "¿Trae soporte lumbar y cervical?",
+        answer: "Sí, trae soporte lumbar regulable más almohadas lumbar y cervical removibles. Es un punto a favor porque muchas sillas económicas no las incluyen. Se notan después de varias horas sentado.",
+      },
+      {
+        question: "¿Qué pistón usa, es seguro?",
+        answer: "Usa pistón hidráulico clase III, que es el estándar serio en sillas de oficina y gaming. La altura se regula 10 cm, de 106 a 116 cm. No es el dato que más se exagera acá, está dentro de lo esperable.",
+      },
+      {
+        question: "¿Es difícil de armar?",
+        answer: "Viene desarmada pero el armado es sencillo y trae instrucciones en español más la llave de ajuste. Es el armado típico de una silla gamer: respaldo, asiento, base, pistón y ruedas. Calculá entre 20 y 40 minutos.",
+      },
+      {
+        question: "¿Conviene la FT-088 o una Cougar?",
+        answer: "Depende del presupuesto: la FT-088 es la entrada económica y las Cougar de la guía cuestan más del doble. Las Cougar tienen mejores materiales y apoyabrazos regulables, pero la Alpina es la más vendida y probada del país. Si recién empezás, la FT-088 cumple.",
+      },
+      {
+        question: "¿Sirve para trabajar todo el día, no solo para jugar?",
+        answer: "Sí, sirve para jornadas largas gracias al lumbar regulable y la reclinación. La contra para uso de oficina es que los apoyabrazos fijos limitan el ajuste y el cuero sintético transpira poco en verano. Para teletrabajo económico es una opción válida.",
+      },
+    ],
   },
   {
     id: "MLA26019250",
@@ -69,12 +156,97 @@ export const curatedProducts: Product[] = [
       { label: "Reclinable", value: "Sí, giratoria" },
       { label: "Apoyabrazos", value: "Sí" },
       { label: "Marca", value: "Cougar" },
+      { label: "Pistón", value: "Clase 4 (gas, la más resistente)" },
+      { label: "Estructura", value: "Full de acero" },
+      { label: "Base", value: "Acero, 5 estrellas, ruedas de 2 pulgadas" },
+      { label: "Reclinación", value: "Hasta 160 grados" },
+      { label: "Apoyabrazos", value: "2D (altura y adelante/atrás)" },
+      { label: "Almohadones", value: "Cervical y lumbar incluidos" },
+      { label: "Medidas", value: "690 x 665 x 1260 mm" },
+      { label: "Peso de la silla", value: "20 kg" },
+      { label: "Tilt", value: "Tensión de inclinación regulable" },
     ],
     relatedProducts: ["MLA47061669", "MLA69124616"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Silla gamer Cougar Armor Elite Royal: la premium mejor valorada de la guía (4.9 estrellas en más de 1.100 calificaciones), robusta, soporta hasta 120 kg y con materiales que los compradores destacan como de larga duración. Para quien quiere calidad que dure y no le importa pagarla.",
+    seoTitle: "Cougar Armor Elite Royal: la silla con estructura de acero",
+    metaDescription: "Estructura full de acero, pistón clase 4 y respaldo a 160°. Pero los apoyabrazos son 2D, no 4D. Soporta 120 kg reales. 4.9 en 1.144 calificaciones.",
+    verdict: "Sirve si querés una silla que dure años y te banque tardes largas frente a la PC: estructura full de acero, base de acero de 5 estrellas, pistón clase 4 (el más seguro) y respaldo que baja a 160 grados. No es para vos si buscás apoyabrazos 4D que se muevan en todos los sentidos (estos son solo 2D) ni si te frena el precio: a 379.999 está en la franja premium del nicho de sillas gamer en ML.",
+    pros: [
+      "Estructura full de acero (no plástico) y base de acero de 5 estrellas, lo que más aguanta con el tiempo",
+      "Pistón clase 4, la categoría de gas más segura y resistente que existe",
+      "Respaldo reclinable hasta 160 grados, casi acostado para descansar entre partidas",
+      "Soporta 120 kg reales (264 lb), dato que coincide con el fabricante, sin inflar",
+      "Trae los dos almohadones (cervical y lumbar) incluidos de fábrica",
+      "Tapizado de cuero PVC transpirable, deja pasar aire mejor que el cuero sintético común",
+      "La mejor valorada de la guía: 4.9 estrellas en más de 1.100 calificaciones",
+    ],
+    cons: [
+      "Apoyabrazos solo 2D (suben/bajan y van adelante/atrás): no rotan ni se inclinan como los 4D de sillas más caras",
+      "Precio premium del nicho: a 379.999 cuesta más del doble que una Alpina FT-088",
+      "Tapizado de cuero PVC: transpira más que el sintético común, pero en pleno verano sigue dando más calor que una de tela",
+      "Pesa 20 kg armada, así que moverla seguido cuesta",
+      "Cougar es marca gamer reconocida pero no hay red de service amplia como con marcas más masivas",
+    ],
+    articleBody: `## Que es y para quien
+
+La Cougar Armor Elite Royal es una silla gamer premium pensada para aguantar años de uso diario. Lo que la separa del resto del nicho es la estructura: marco full de acero por dentro y base de acero de 5 estrellas, no el plástico reforzado que llevan las sillas más baratas. Si pasás muchas horas sentado (laburo, estudio, gaming) y querés algo que no se afloje a los seis meses, esta apunta a eso. Cougar es una marca gamer reconocida, no una genérica.
+
+## Lo bueno
+
+El pistón es clase 4, la categoría de gas más segura y resistente que se fabrica. Esto es lo que sostiene tu peso al subir y bajar el asiento, y la clase 4 es la que menos falla con el tiempo. Suma un respaldo que recina hasta 160 grados (casi acostado, ideal para descansar entre partidas), los dos almohadones incluidos de fábrica (cervical y lumbar) y un tapizado de cuero PVC transpirable que deja pasar más aire que el cuero sintético común. El fabricante confirma que soporta 120 kg (264 lb), el mismo número que figura en la publicación de ML, así que acá no hay exageración.
+
+## La contra real
+
+Los apoyabrazos son 2D, no 4D, y esto la publicación no lo aclara. Quiere decir que se ajustan en altura y adelante/atrás, pero no rotan hacia adentro ni se inclinan, como sí lo hacen los 4D de sillas de oficina premium. Para la mayoría alcanza, pero si venís de algo con apoyabrazos 4D lo vas a notar. La otra contra es el precio: a 379.999 está en la franja alta del nicho. Y aunque el cuero PVC transpira mejor que el sintético común, en pleno verano correntino una silla de tela sigue siendo más fresca. Pesa 20 kg armada, así que no es de las que movés todos los días.
+
+## Como se compara contra las otras de la guía
+
+Frente a la Alpina FT-088 (la más vendida de Argentina, más de 6.100 calificaciones) la diferencia es plata y materiales: la Alpina sale 143.550 y es cuero sintético con estructura más justa; la Cougar cuesta más del doble pero te da acero de verdad y pistón clase 4. Si tu prioridad es gastar poco, la Alpina rinde. Si querés que dure años, la Cougar lo justifica. Y si lo que te molesta es el calor más que la durabilidad, mirá la Cougar Fusion EX de tela (259.999): misma marca, tapizado más fresco, pero sin la estructura full de acero de la Elite Royal. Las tres tienen 4.9 o cerca en calificaciones, así que la decisión es por uso, no por reputación.
+
+## Para quien si y para quien no
+
+Comprá la Cougar Armor Elite Royal si querés una silla que te dure años, pasás muchas horas sentado y el presupuesto te da para la franja premium. La estructura de acero y el pistón clase 4 son lo que pagás, y los vas a aprovechar con el tiempo. No la compres si te frena el precio (la Alpina FT-088 hace el laburo básico por menos de la mitad), si necesitás apoyabrazos 4D para una postura muy específica, o si vivís donde hace mucho calor y preferís el tapizado de tela de la Fusion EX. Con 4.9 estrellas en más de 1.100 calificaciones es la mejor valorada de la guía, pero "mejor valorada" no significa "para todos": significa que cumple lo que promete para quien busca durabilidad.`,
+    faq: [
+      {
+        question: "¿Cuánto peso soporta la Cougar Armor Elite Royal?",
+        answer: "Soporta hasta 120 kg (264 lb), y este dato coincide con la ficha del fabricante, así que no está inflado. Es un límite real para uso diario, no un número de marketing.",
+      },
+      {
+        question: "¿Los apoyabrazos son 4D?",
+        answer: "No, son 2D. Se ajustan en altura y adelante/atrás, pero no rotan hacia adentro ni se inclinan como los 4D de sillas de oficina premium. La publicación de ML solo dice 'Sí' sin aclarar el tipo.",
+      },
+      {
+        question: "¿Qué clase de pistón tiene?",
+        answer: "Tiene pistón clase 4, la categoría de gas más segura y resistente que se fabrica. Es lo que sostiene tu peso al subir y bajar el asiento, y la clase 4 es la que menos falla con el tiempo.",
+      },
+      {
+        question: "¿Cuánto se reclina el respaldo?",
+        answer: "El respaldo reclina hasta 160 grados, casi totalmente acostado. Sirve para descansar o echarse una siesta entre partidas sin levantarse de la silla.",
+      },
+      {
+        question: "¿La estructura es de plástico o de metal?",
+        answer: "Es full de acero: marco interno de acero y base de 5 estrellas también de acero. Esto es lo que más aporta a la durabilidad y la diferencia de las sillas más baratas que usan plástico reforzado.",
+      },
+      {
+        question: "¿Trae almohadones incluidos?",
+        answer: "Sí, viene con dos almohadones de fábrica: uno cervical (para la cabeza) y uno lumbar (para la espalda baja). No hay que comprarlos aparte.",
+      },
+      {
+        question: "¿Da calor el tapizado en verano?",
+        answer: "El tapizado es cuero PVC transpirable, que deja pasar más aire que el cuero sintético común. Aun así, en pleno verano una silla de tela como la Cougar Fusion EX va a ser más fresca.",
+      },
+      {
+        question: "¿Vale la pena pagar más que una Alpina FT-088?",
+        answer: "Depende de tu prioridad. La Alpina sale menos de la mitad y hace el laburo básico; la Cougar te da estructura de acero y pistón clase 4, que se notan con los años. Si querés durabilidad de largo plazo, lo justifica.",
+      },
+      {
+        question: "¿Cuánto pesa la silla armada?",
+        answer: "Pesa 20 kg armada. Es robusta por la estructura de acero, pero eso también significa que moverla seguido de un lado a otro cuesta más que con una silla liviana.",
+      },
+    ],
   },
   {
     id: "MLA69124616",
@@ -102,12 +274,96 @@ export const curatedProducts: Product[] = [
       { label: "Reclinable", value: "Sí" },
       { label: "Apoyabrazos", value: "Sí" },
       { label: "Marca", value: "Cougar" },
+      { label: "Soporta hasta", value: "120 kg (según Cougar)" },
+      { label: "Pistón", value: "Clase 4 (gas lift)" },
+      { label: "Reclinación", value: "90° a 130°, continua" },
+      { label: "Tipo de apoyabrazos", value: "Linkage (sigue al respaldo, no se regula a mano)" },
+      { label: "Soporte lumbar", value: "Integrado al respaldo" },
+      { label: "Almohada cervical", value: "Incluida" },
+      { label: "Relleno del asiento", value: "Espuma multi-densidad" },
+      { label: "Peso de la silla", value: "16.2 kg" },
+      { label: "Ruedas", value: "5 cm, silenciosas" },
     ],
     relatedProducts: ["MLA26019250", "MLA47061669"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Silla gamer Cougar Fusion EX con tapizado de tela: más fresca y transpirable que las de cuero sintético (no se pega en verano), de una marca gamer reconocida, 4.9 estrellas. Ideal si pasás muchas horas sentado y el calor te molesta.",
+    seoTitle: "Silla Cougar Fusion EX: la de tela que no se pega",
+    metaDescription: "Cougar Fusion EX: tela tipo gamuza transpirable, pistón Clase 4 y soporta 120 kg (la publicación no lo dice). El detalle: el apoyabrazos no se ajusta.",
+    verdict: "Sirve si pasás muchas horas sentado y el cuero sintético te resulta caluroso: la tela tipo gamuza transpira y no se pega en verano, y por dentro trae lo bueno (pistón Clase 4, soporte lumbar y almohada cervical). No sirve si querés acomodar los apoyabrazos a tu gusto, porque son linkage (se mueven solos con el respaldo, no se regulan a mano) ni si pesás más de 120 kg, el límite real del fabricante.",
+    pros: [
+      "Tapizado de tela tipo gamuza: transpira y no se pega a la piel en verano, a diferencia del cuero sintético de la mayoría de las gamer",
+      "Pistón Clase 4, el más resistente de la escala que usa Cougar (mismo que sus modelos premium)",
+      "Soporta hasta 120 kg según Cougar, un dato que la publicación de ML no aclara",
+      "Reclina de 90 a 130 grados de forma continua, sin topes fijos, para acomodarte exacto",
+      "Trae soporte lumbar integrado al respaldo y almohada cervical incluida",
+      "Asiento con espuma multi-densidad (firme abajo, blando arriba), pensado para sesiones largas",
+    ],
+    cons: [
+      "El apoyabrazos es linkage: se mueve solo con el respaldo, no se regula en altura ni ángulo a mano (la publicación dice 'apoyabrazos' a secas)",
+      "La tela transpira mejor pero es más difícil de limpiar que el cuero sintético: una mancha no se borra con un trapo húmedo",
+      "El límite real es 120 kg; arriba de eso el fabricante no la garantiza",
+      "Es más cara que las gamer básicas de cuero sintético sin que cambie la estructura, pagás el tapizado y la marca",
+      "El soporte lumbar viene integrado al respaldo, no es un cojín que puedas sacar o reubicar",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Cougar Fusion EX es una silla gamer de tela pensada para quien se calienta con el cuero sintético. La diferencia que manda es el tapizado: tela tipo gamuza (suede) que transpira, mientras que casi todas las gamer del rango usan cuero PVC que en verano se pega a la piel y da calor. Si pasás seis, ocho horas sentado y vivís donde hace calor (en buena parte de Argentina, casi todo el año), esa es la razón concreta para mirarla. Adentro tiene lo de una silla seria: pistón Clase 4, soporte lumbar y espuma multi-densidad.
+
+## Lo bueno
+
+Por dentro la Fusion EX trae los componentes que importan, no es solo tapizado lindo. El pistón es Clase 4, el más resistente de la escala que usa Cougar (el mismo que ponen en modelos más caros), así que el levanta y baja no es el punto débil. Reclina de 90 a 130 grados de forma continua, sin topes fijos, o sea que la frenás donde quieras. El asiento usa espuma multi-densidad: firme abajo para que no te hundas, más blando arriba. Y dato que la publicación de ML no aclara: Cougar la homologa hasta 120 kg, el mismo límite que la premium de la marca.
+
+## La contra real
+
+El apoyabrazos es el detalle que la publicación esconde diciendo solo "apoyabrazos". Es tipo linkage: se mueve solo, acompañando el respaldo cuando reclinás, pero no lo regulás vos. No tiene ajuste de altura ni de ángulo a mano como un 2D o 4D. Si te gusta dejar los brazos a una altura exacta para teclear, esto te va a faltar. La otra contra honesta es el mantenimiento: la tela transpira mejor, sí, pero una mancha no la sacás con un trapo húmedo como en el cuero sintético. Es el costo de elegir tela. Y el límite de 120 kg es real, no lo fuerces.
+
+## Cómo se compara
+
+Frente a las otras gamer de la guía, la Fusion EX es la única apuesta clara a la tela. La Cougar Armor Elite Royal es la hermana premium: misma marca, mismos 120 kg y 4.9 estrellas, pero con cuero PVC transpirable y apoyabrazos ajustables, a un precio bastante más alto. Si querés ajustar los brazos y no te molesta el cuero, la Armor Elite te da más control. La Alpina FT-088, en cambio, es la más barata y la más vendida de Argentina por lejos (más de 6.100 calificaciones), también de cuero sintético: si el presupuesto manda y el calor no es tu problema, la Alpina cumple. La Fusion EX se queda en el medio: pagás la tela transpirable y la marca, no una estructura distinta.
+
+## Para quién sí y para quién no
+
+Comprala si tu problema número uno es el calor y la transpiración, no el ajuste fino. Tiene 4.9 estrellas en 345 calificaciones, que es una base sólida para una silla de este precio. Es ideal para sesiones largas en clima cálido, donde la tela hace la diferencia real frente al cuero. No la compres si querés apoyabrazos que se regulen a tu gusto (mirá la Armor Elite), si te molesta que la tela sea más complicada de limpiar, o si tu prioridad es el precio más bajo (ahí la Alpina FT-088 gana). Y si pesás más de 120 kg, esta no es para vos.`,
+    faq: [
+      {
+        question: "¿La Cougar Fusion EX es de tela o de cuero?",
+        answer: "Es de tela, tipo gamuza (suede). Esa es justamente su diferencia frente a la mayoría de las gamer del rango, que usan cuero sintético (PVC) y dan más calor. La tela transpira y no se pega a la piel en verano.",
+      },
+      {
+        question: "¿Cuánto peso soporta la Fusion EX?",
+        answer: "Cougar la homologa hasta 120 kg, el mismo límite que su modelo premium Armor Elite. Es un dato que la publicación de ML no aclara, pero figura en la ficha oficial del fabricante. Arriba de ese peso no está garantizada.",
+      },
+      {
+        question: "¿Los apoyabrazos se pueden regular?",
+        answer: "No a mano. Son tipo linkage: se mueven solos acompañando el respaldo cuando reclinás, pero no tienen ajuste de altura ni de ángulo manual. Si querés dejar los brazos a una altura fija para teclear, esto te va a faltar.",
+      },
+      {
+        question: "¿Qué tipo de pistón trae?",
+        answer: "Pistón Clase 4, el más resistente de la escala que usa Cougar. Es el mismo que la marca pone en sillas más caras, así que el levanta y baja no es el punto flojo de esta silla.",
+      },
+      {
+        question: "¿Cuánto reclina el respaldo?",
+        answer: "Reclina de 90 a 130 grados de forma continua, sin topes fijos. Eso quiere decir que la frenás en cualquier ángulo intermedio, no en posiciones predeterminadas.",
+      },
+      {
+        question: "¿Trae soporte lumbar y almohada?",
+        answer: "Sí. El soporte lumbar viene integrado al respaldo (no es un cojín que puedas sacar) y la almohada cervical viene incluida. Las dos cosas suman para las sesiones largas.",
+      },
+      {
+        question: "¿La tela es difícil de limpiar?",
+        answer: "Más que el cuero sintético, sí. La tela transpira mejor, pero una mancha no la sacás con un trapo húmedo como en el PVC. Es la contracara de elegir tela: ganás frescura, perdés facilidad de limpieza.",
+      },
+      {
+        question: "¿Conviene la Fusion EX o la Cougar Armor Elite Royal?",
+        answer: "Depende. La Fusion EX es de tela transpirable y más barata; la Armor Elite Royal es de cuero PVC, con apoyabrazos ajustables y más cara. Si tu problema es el calor, la Fusion EX; si querés ajustar los brazos, la Armor Elite.",
+      },
+      {
+        question: "¿Cuánto pesa la silla?",
+        answer: "Pesa 16.2 kg según el fabricante, sin contar el embalaje. Es un peso normal para una gamer con base de cinco patas y estructura completa.",
+      },
+    ],
   },
   {
     id: "MLA47084299",
@@ -135,12 +391,98 @@ export const curatedProducts: Product[] = [
       { label: "Reclinable", value: "Sí, giratoria" },
       { label: "Apoyabrazos", value: "Sí" },
       { label: "Marca", value: "Alpina" },
+      { label: "Soporta hasta", value: "150 kg" },
+      { label: "Reclinación", value: "90° a 180° con traba" },
+      { label: "Pistón", value: "Hidráulico clase III, ajuste 10 cm" },
+      { label: "Apoyabrazos", value: "Regulables en altura y ángulo" },
+      { label: "Base", value: "Estrella de PVC de alta resistencia" },
+      { label: "Estructura", value: "Acero" },
+      { label: "Incluye", value: "Almohada cervical y lumbar removibles" },
+      { label: "Ruedas", value: "PVC, giratorias 360°" },
+      { label: "Altura total", value: "114 a 124 cm" },
+      { label: "Ancho de asiento", value: "50 cm" },
     ],
     relatedProducts: ["MLA47061669", "MLA69124616"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Silla gamer Alpina PRE-FT055: la alternativa a la FT-088 dentro de Alpina, ergonómica y reclinable en cuero sintético (negro/rojo), con más de 1.600 calificaciones. Un escalón de precio sobre la más vendida, misma marca de valor.",
+    seoTitle: "Silla Gamer Alpina PRE-FT055: ¿vale el plus sobre la FT-088?",
+    metaDescription: "Soporta 150 kg, pistón clase III y apoyabrazos regulables en altura y ángulo (la publicación no lo dice). Base de PVC, no de metal. Lo que conviene saber.",
+    verdict: "Sirve si querés una silla gamer reclinable hasta 180°, con almohadas lumbar y cervical y apoyabrazos regulables, en negro/rojo y por menos de lo que cuestan las marcas gamer caras. No es para quien busca materiales de durar años: a este precio el tapizado es cuero sintético y la base es de PVC, no de metal. Es básicamente la FT-088 con un escalón de precio arriba y combinación de color distinta.",
+    pros: [
+      "Soporta hasta 150 kg (dato del fabricante), holgado para la mayoría de los cuerpos",
+      "Reclina de 90° a 180° con traba, podés tirarla casi plana para descansar",
+      "Apoyabrazos regulables en altura y ángulo, algo que la publicación de ML ni menciona",
+      "Pistón hidráulico clase III con ajuste de 10 cm de altura",
+      "Viene con almohada cervical y lumbar, ajustables y removibles",
+      "Tapizado de cuero sintético waterproof, fácil de limpiar de un pasada",
+      "Rating real de 4.6 sobre más de 1.600 calificaciones, marca conocida en Argentina",
+    ],
+    cons: [
+      "Base estrella de PVC, no de metal: a este precio es lo esperable, pero es menos robusta que una de aluminio",
+      "Tapizado de cuero sintético: en verano transpira poco y se pega, a diferencia de las de tela",
+      "Cuesta un escalón más que la FT-088 de la misma marca sin ser claramente mejor silla",
+      "Apoyabrazos regulables pero no son 4D completos como en sillas de gama alta",
+      "Las ruedas son de PVC: andan bien en alfombra, en piso duro pueden marcar con el tiempo",
+    ],
+    articleBody: `## Que es y para quien
+
+La Alpina PRE-FT055 es una silla gamer reclinable de cuero sintético en negro y rojo, pensada para quien pasa muchas horas frente a la compu y quiere ergonomía sin pagar lo de una marca gamer cara. Es la hermana "Premium" de la FT-088 de la misma marca, la más vendida de Argentina. Soporta hasta 150 kg, reclina de 90° a 180° y trae almohada lumbar y cervical. El público es claro: gamer o trabajo de escritorio con presupuesto medido que prioriza poder reclinar y regular antes que materiales de lujo.
+
+## Lo bueno
+
+Lo que más suma es lo que la publicación de ML ni aclara: los apoyabrazos son regulables en altura y posición angular. En muchas sillas de este rango son fijos, así que es un punto real a favor. La reclinación llega a 180° con traba, o sea que la podés dejar casi plana para una siesta entre partidas. El pistón es hidráulico clase III con 10 cm de ajuste, que es el estándar decente para sillas de oficina y gaming. Y trae las dos almohadas (cervical y lumbar) ajustables y removibles, no son un extra que pagás aparte. El tapizado de cuero sintético waterproof se limpia de una pasada con un trapo.
+
+## La contra real
+
+La base estrella es de PVC, no de metal, y eso es lo que justo a este precio no te van a dar. Una base de aluminio aguanta mejor el peso y el uso diario a largo plazo; la de PVC cumple, pero es la parte donde se nota el precio. El otro punto honesto es el cuero sintético: queda lindo y se limpia fácil, pero transpira poco. En verano correntino se pega y da calor, cosa que una silla de tela no hace. Las ruedas también son de PVC: andan bien sobre alfombra, en piso duro pueden ir marcando con los meses. Nada de esto la hace mala silla, son los límites lógicos de su rango de precio.
+
+## Como se compara contra las otras de la guía
+
+Acá está la pregunta que importa: contra la Alpina FT-088, que es la misma marca y la más vendida del país, la PRE-FT055 cuesta un escalón más sin ser claramente una mejor silla. La FT-088 tiene muchísimas más calificaciones (más de 6.100 contra 1.618 de esta) y un precio más bajo. La diferencia grande es la combinación negro/rojo y el rótulo "Premium", más que un salto real de calidad. Si te gusta el negro liso y querés gastar menos, la FT-088 es la elección obvia. La otra alternativa de la guía es la Cougar Fusion EX de tela: cuesta bastante más, pero el tapizado de tela es más fresco y no se pega en verano. Si el calor es tu problema, esa resuelve algo que ninguna Alpina de cuero sintético resuelve.
+
+## Para quien si y para quien no
+
+Comprala si querés una silla reclinable con apoyabrazos regulables, almohadas incluidas y soporte para 150 kg, y el negro/rojo te cierra. Para gaming y escritorio cumple sobrado por lo que sale. No la compres si tu prioridad es que dure años de uso intenso (ahí conviene una base de metal) o si vivís en zona calurosa y la transpiración te molesta (una de tela como la Cougar Fusion EX es mejor opción). Y si solo querés la Alpina más barata posible, la FT-088 te da prácticamente lo mismo por menos.`,
+    faq: [
+      {
+        question: "¿Cuánto peso soporta la Alpina PRE-FT055?",
+        answer: "Según el fabricante, soporta hasta 150 kg. Es un margen holgado para la mayoría de los cuerpos y bastante más de lo que indican varias sillas de su mismo rango de precio.",
+      },
+      {
+        question: "¿Los apoyabrazos son fijos o regulables?",
+        answer: "Son regulables en altura y posición angular, según la ficha del fabricante. La publicación de ML no lo aclara, pero es un punto a favor frente a sillas similares que los traen fijos.",
+      },
+      {
+        question: "¿Hasta cuánto reclina?",
+        answer: "Reclina de 90° a 180° con traba en el ángulo que elijas. O sea que la podés dejar sentada normal o casi totalmente plana para descansar.",
+      },
+      {
+        question: "¿Trae almohada lumbar y cervical?",
+        answer: "Sí, incluye ambas almohadas (cervical y lumbar), ajustables y removibles. No son un accesorio que tengas que comprar aparte.",
+      },
+      {
+        question: "¿La base es de metal o de plástico?",
+        answer: "La base estrella es de PVC de alta resistencia, no de metal. Cumple para uso normal, pero una base de aluminio aguanta mejor el uso diario a largo plazo. Es el límite lógico a este precio.",
+      },
+      {
+        question: "¿Qué diferencia hay con la Alpina FT-088?",
+        answer: "Son de la misma marca y muy parecidas. La PRE-FT055 cuesta un escalón más y viene en negro/rojo con rótulo Premium, pero la FT-088 es más barata, tiene muchísimas más calificaciones y prácticamente la misma silla. Si te gusta el negro liso, la FT-088 conviene.",
+      },
+      {
+        question: "¿El tapizado da calor en verano?",
+        answer: "Es cuero sintético, así que transpira poco y se puede pegar en días calurosos. Si el calor te molesta, una silla de tela como la Cougar Fusion EX es más fresca, aunque cuesta más.",
+      },
+      {
+        question: "¿Qué tipo de pistón tiene?",
+        answer: "Pistón hidráulico clase III con 10 cm de ajuste de altura, según el fabricante. Es el estándar decente para sillas de oficina y gaming de este rango.",
+      },
+      {
+        question: "¿Sirve para trabajar muchas horas, no solo para jugar?",
+        answer: "Sí. Con apoyabrazos regulables, almohadas lumbar y cervical y reclinación hasta 180°, funciona igual de bien para jornadas largas de trabajo de escritorio que para gaming.",
+      },
+    ],
   },
   {
     id: "MLA16171813",
@@ -168,12 +510,98 @@ export const curatedProducts: Product[] = [
       { label: "Reclinable", value: "Sí" },
       { label: "Apoyabrazos", value: "Sí" },
       { label: "Marca", value: "Corsair" },
+      { label: "Soporta hasta", value: "120 kg" },
+      { label: "Altura máx. usuario", value: "1,88 m" },
+      { label: "Reclinación", value: "90° a 160°" },
+      { label: "Apoyabrazos", value: "4D (altura, adelante/atrás, lados, giro)" },
+      { label: "Pistón a gas", value: "Clase 4 (el más resistente)" },
+      { label: "Estructura", value: "Acero, base de nylon" },
+      { label: "Soporte lumbar y cervical", value: "Almohadones ajustables con memory foam" },
+      { label: "Ruedas", value: "65 mm, doble rueda anti-roll" },
+      { label: "Garantía", value: "2 años (fabricante)" },
     ],
     relatedProducts: ["MLA26019250", "MLA69124616"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Silla gamer Corsair T3 Rush: la premium de marca top, con tapizado de tela transpirable y 4.9 estrellas. Es la más cara de la guía, para quien quiere una marca de primera línea del mundo gaming y la calidad que la respalda.",
+    seoTitle: "Silla Gamer Corsair T3 Rush: ¿la tela vale el precio?",
+    metaDescription: "Corsair T3 Rush en tela: apoyabrazos 4D, pistón Clase 4 y reclina 90-160°. Soporta 120 kg (no más) y es la más cara de la guía. Specs reales acá.",
+    verdict: "Sirve si querés una marca de primera línea, apoyabrazos 4D de verdad (ajustan en los cuatro sentidos) y tapizado de tela que no se pega en verano, y estás dispuesto a pagar lo que sale. No te sirve si pesás más de 120 kg, medís más de 1,88 m, o si lo único que buscás es una silla gamer barata: por mucho menos plata conseguís sillas que también soportan 120 kg. Pagás la marca, el armado 4D y los materiales, no un milagro de ergonomía.",
+    pros: [
+      "Apoyabrazos 4D reales: ajustan arriba/abajo, izquierda/derecha, adelante/atrás y giran. La mayoría de las gamer baratas traen 2D o fijos",
+      "Tapizado de tela transpirable: junta menos calor que el cuero sintético, no se te pega la espalda en verano",
+      "Pistón a gas Clase 4 (el grado más resistente) y estructura de acero con base de nylon",
+      "Reclina de 90 a 160 grados, casi acostada, para descansar entre partidas",
+      "Almohadón lumbar y cervical de memory foam ajustables, no de relleno básico",
+      "Marca Corsair, primera línea del mundo gaming, con respaldo y repuestos",
+      "Rating alto en ML: 4.9 estrellas sobre 839 calificaciones",
+    ],
+    cons: [
+      "Es la más cara de la guía. Hay sillas que soportan los mismos 120 kg por bastante menos plata",
+      "Soporta hasta 120 kg y hasta 1,88 m de altura. Si te pasás de ahí, no es para vos",
+      "La garantía de fábrica es de 2 años, corta para lo que cuesta una silla de este precio",
+      "La base es de nylon, no de aluminio. Cumple, pero no es el material más premium a este precio",
+      "La publicación la vende como premium pero no aclara los límites de peso ni altura. El dato fino hay que buscarlo (acá lo tenés)",
+      "Llega para armar: ensamblado por tu cuenta, como casi todas las gamer",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Corsair T3 Rush es una silla gamer de tela de una marca de primera línea, pensada para quien pasa muchas horas sentado y quiere ajuste fino. El diferencial real frente a las gamer comunes son los apoyabrazos 4D (se mueven en los cuatro sentidos y giran), el pistón a gas Clase 4 y el tapizado de tela transpirable en lugar de cuero sintético. La versión de esta ficha es la blanco y gris, la edición de tela 2023 del fabricante. En ML tiene 4.9 estrellas sobre 839 calificaciones, así que la gente que la compró la valora bien.
+
+## Lo bueno
+
+Lo que más se nota en el uso diario son los apoyabrazos 4D. La mayoría de las sillas gamer económicas traen apoyabrazos fijos o 2D (solo suben y bajan). Acá ajustás altura, los corrés adelante o atrás, izquierda o derecha y los girás, así que apoyás bien los brazos para teclado, mouse o joystick. Suma el almohadón lumbar y el cervical, ambos de memory foam y ajustables, no relleno duro. La tela transpira mejor que el cuero sintético: en verano no se te pega la espalda. Y por dentro tiene lo que tiene que tener: pistón a gas Clase 4 (el grado más resistente de la escala) y estructura de acero. Reclina de 90 a 160 grados, casi acostada.
+
+## La contra real
+
+Es la silla más cara de la guía y soporta lo mismo que varias mucho más baratas: 120 kg. Ese es el número del fabricante, no más. También está pensada para gente de hasta 1,88 m. Si pesás más de 120 kg o sos más alto, esta no es tu silla, y no porque sea mala sino porque la diseñaron para ese rango. La base es de nylon, no de aluminio: cumple sin problema, pero a este precio uno esperaría el material más premium. Y la garantía de fábrica es de 2 años, corta para lo que cuesta. La publicación de ML la presenta como premium pero no te dice ni el peso máximo ni la altura tope. Por eso conviene tener los números claros antes de pagar.
+
+## Cómo se compara
+
+Frente a las otras sillas de la guía, la T3 Rush gana en armado de apoyabrazos y marca, pero no en peso soportado. La Cougar Armor Elite Royal también soporta 120 kg, también es premium y está bastante por debajo en precio: si lo que buscás es robustez de marca gamer reconocida pagando menos, mirala primero. La Cougar Fusion EX en tela comparte la ventaja del tapizado fresco y transpirable de la Corsair, cuesta menos, y es la opción si lo que te importa es no pasar calor sin estirarte tanto con la plata. La T3 Rush se justifica cuando querés específicamente la marca Corsair y el ajuste 4D de los apoyabrazos; si esos dos puntos no te mueven la aguja, las Cougar te dan casi lo mismo por menos.
+
+## Para quién sí y para quién no
+
+Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tela transpirable, y el presupuesto no es el problema. Es una silla bien hecha, con buenos componentes internos y un rango de ajuste amplio. No la compres si tu límite es el precio: por menos plata tenés sillas que soportan los mismos 120 kg, incluso dentro de esta misma guía. Tampoco si pesás más de 120 kg o medís más de 1,88 m, porque te quedás afuera del rango para el que la diseñaron. Es buena silla, pero pagás la marca y el detalle de ajuste, no una capacidad mayor.`,
+    faq: [
+      {
+        question: "¿Cuánto peso soporta la Corsair T3 Rush?",
+        answer: "Soporta hasta 120 kg según Corsair. Está pensada además para personas de hasta 1,88 m de altura. Si te pasás de cualquiera de esos dos números, conviene buscar otra silla diseñada para más carga.",
+      },
+      {
+        question: "¿El tapizado es de tela o de cuero?",
+        answer: "Esta versión es de tela transpirable, no de cuero sintético. La ventaja es que junta menos calor y no se te pega la espalda en sesiones largas, sobre todo en verano. Como contra, la tela se ensucia un poco más fácil que el cuero sintético.",
+      },
+      {
+        question: "¿Qué tipo de apoyabrazos trae?",
+        answer: "Trae apoyabrazos 4D, que se ajustan en altura, hacia adelante y atrás, a los lados y giran. Es bastante más completo que los 2D o fijos de la mayoría de las sillas gamer económicas. Te deja apoyar bien los brazos para teclado, mouse o joystick.",
+      },
+      {
+        question: "¿Hasta cuánto reclina?",
+        answer: "Reclina de 90 a 160 grados, casi totalmente acostada. Sirve para descansar entre partidas o echar una siesta. El mecanismo va acompañado de un pistón a gas Clase 4, el grado más resistente de la escala.",
+      },
+      {
+        question: "¿Tiene soporte lumbar y cervical?",
+        answer: "Sí, trae un almohadón lumbar y uno cervical, ambos ajustables y con memory foam. No son de relleno básico, así que aguantan mejor la forma con el tiempo. Los podés acomodar a la altura de tu espalda y cuello.",
+      },
+      {
+        question: "¿Vale el precio frente a otras sillas?",
+        answer: "Es la más cara de la guía y soporta lo mismo que varias más baratas (120 kg). Se justifica si querés específicamente la marca Corsair y los apoyabrazos 4D. Si solo buscás robustez, la Cougar Armor Elite Royal soporta los mismos 120 kg por menos plata.",
+      },
+      {
+        question: "¿La base es de metal?",
+        answer: "La estructura interna es de acero, pero la base de las ruedas es de nylon, no de aluminio. El nylon cumple sin problemas para el uso normal. A este precio uno esperaría aluminio, pero no es un defecto de funcionamiento.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "La garantía de fábrica de Corsair para esta silla es de 2 años. Es una cobertura algo corta para lo que cuesta el modelo. Verificá siempre la garantía del vendedor en la publicación de MercadoLibre antes de comprar.",
+      },
+      {
+        question: "¿Viene armada?",
+        answer: "No, llega desarmada para que la ensambles vos, como casi todas las sillas gamer. El armado es sencillo y trae las instrucciones. Calculá un rato para montarla la primera vez.",
+      },
+    ],
   },
 
   // ─── Teclados gamer — importados via API oficial de ML (jun 2026). Silo gaming (STAGED) ───
@@ -204,12 +632,97 @@ export const curatedProducts: Product[] = [
       { label: "Idioma", value: "Español Latinoamérica (con ñ)" },
       { label: "Iluminación", value: "RGB" },
       { label: "Marca", value: "Redragon" },
+      { label: "Switch", value: "Outemu (versión clicky tipo blue)" },
+      { label: "Cantidad de teclas", value: "87 (TKL)" },
+      { label: "Anti-ghosting", value: "N-key rollover (100% anti-ghosting)" },
+      { label: "Frame", value: "Aleación de metal + ABS" },
+      { label: "Cable", value: "Fijo USB-A, 1.8 m" },
+      { label: "Software", value: "No requiere (plug and play)" },
+      { label: "Peso", value: "880 g aprox." },
+      { label: "Medidas", value: "354 x 123 x 37 mm aprox." },
     ],
     relatedProducts: ["MLA19893399", "MLA14075573"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Teclado gamer Redragon Kumara K552: el mecánico más vendido del país por lejos (más de 15.000 calificaciones), TKL (sin numérico, más espacio para el mouse), RGB y en español. Contra honesta de las reseñas: es ruidoso (switches clicky), así que para un ambiente compartido conviene uno más silencioso.",
+    seoTitle: "Redragon Kumara K552: el mecánico más vendido ¿conviene?",
+    metaDescription: "El K552 es mecánico de verdad con switch Outemu clicky: es ruidoso. TKL, en español con ñ, frame de metal. Lo bueno y la contra real, sin vueltas.",
+    verdict: "El Redragon Kumara K552 sirve si querés tu primer mecánico de verdad, con frame de metal y en español, gastando poco. No sirve si compartís ambiente o grabás con micrófono: el switch clicky hace ruido y eso no se arregla. Tampoco es para quien busca personalizar el RGB tecla por tecla con software, porque acá el RGB son modos prearmados.",
+    pros: [
+      "Mecánico de verdad con switch Outemu, no membrana disfrazada: tipeo con click marcado y respuesta clara",
+      "Frame superior de aleación de metal, le da rigidez y aguante que no esperás a este precio",
+      "Layout TKL (87 teclas, sin numérico): te deja más espacio libre para mover el mouse",
+      "En español Latinoamérica con ñ, algo que muchos mecánicos baratos no traen",
+      "Anti-ghosting con N-key rollover: registra varias teclas a la vez sin que se traben",
+      "Más de 15.000 calificaciones con 4.8 de promedio: es de lejos el más probado del país",
+      "Plug and play: no necesita instalar ningún software para funcionar ni para el RGB",
+    ],
+    cons: [
+      "Es ruidoso. El switch Outemu clicky (tipo blue) hace el típico click fuerte: molesto en oficina, casa compartida o si grabás con micrófono",
+      "El RGB son modos rainbow prearmados que se cambian con combinaciones de teclas, no es personalización tecla por tecla con software",
+      "Cable fijo USB-A: no es desmontable, si se daña el cable es un problema",
+      "El switch es Outemu, no Cherry MX: anda bien pero la sensación y durabilidad no son las de un switch premium",
+      "Sin reposamuñecas incluido ni patas regulables en varios ángulos, ergonomía básica",
+      "Keycaps de ABS comunes: con el uso intenso tienden a ponerse brillosas con el tiempo",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Redragon Kumara K552 es un teclado mecánico TKL pensado para quien quiere dar el salto de membrana a mecánico sin gastar mucho. Es el mecánico más vendido de MercadoLibre Argentina por lejos: más de 15.000 calificaciones con un promedio de 4.8 estrellas. Trae switch Outemu (la versión más común es la clicky, tipo blue), frame superior de metal, RGB y, dato importante, viene en español Latinoamérica con ñ. El formato TKL significa que no tiene el bloque numérico de la derecha, así que ocupa menos y te deja más lugar para el mouse.
+
+## Lo bueno
+
+Lo que más se valora es que es un mecánico de verdad, no una membrana maquillada. El switch Outemu te da ese click marcado y esa respuesta que no sentís en un teclado común. El frame superior es de aleación de metal, lo que le da una rigidez que no esperás a este precio: no flexiona ni se siente plástico barato. Suma anti-ghosting con N-key rollover, o sea que podés apretar varias teclas a la vez (clave en juegos) sin que se traben. Y es plug and play: lo enchufás y anda, no hace falta instalar nada, ni siquiera para cambiar el RGB.
+
+## La contra real
+
+Es ruidoso, y eso es lo primero que tenés que tener claro. El switch clicky hace el típico "clack" fuerte en cada tecla. Para jugar solo está buenísimo, pero en una oficina, una casa compartida o si grabás con micrófono, va a molestar (y a vos o a los de al lado). Eso no se arregla con configuración: es el switch. El otro punto honesto es el RGB: la publicación lo vende como RGB, y lo es, pero son modos rainbow prearmados que cambiás con combinaciones de teclas, no personalización tecla por tecla con software. Si querías pintar cada tecla de un color distinto desde una app, este no es. El cable además es fijo USB-A (no desmontable) y los keycaps son de ABS común, que con el tiempo y uso intenso se ponen brillosos.
+
+## Cómo se compara
+
+Si el ruido es tu problema, los dos modelos hermanos lo resuelven mejor que el Kumara. El Redragon K622 Horus TKL es básicamente "el Kumara pero silencioso": mismo formato TKL y en español, pero con switch red lineal, así que tipea mucho más callado (cuesta un poco más). El HyperX Alloy Core va por otro lado: es de membrana, todavía más silencioso y blando al tipear, también en español, pero no es mecánico, así que perdés esa sensación de click que es justo lo que mucha gente busca en el K552. En criollo: si querés mecánico y no te importa el ruido, el Kumara; si querés mecánico callado, el K622 Horus; si el ruido es deal-breaker y no te casás con lo mecánico, el HyperX.
+
+## Para quién sí y para quién no
+
+Comprá el K552 si querés tu primer mecánico de verdad, jugás solo o no te molesta el ruido, y valorás el frame de metal y el español con ñ a precio bajo. Es la opción más probada y segura del país en esa categoría. No lo compres si compartís ambiente, grabás contenido con micrófono, o si lo que querés es personalizar el RGB tecla por tecla: para eso conviene un teclado con switch silencioso o con software de iluminación dedicado.`,
+    faq: [
+      {
+        question: "¿El Redragon Kumara K552 es mecánico de verdad?",
+        answer: "Sí, es mecánico de verdad, no membrana. Usa switches Outemu, la versión más común es la clicky (tipo blue), que da ese click marcado y la respuesta táctil propia de un mecánico.",
+      },
+      {
+        question: "¿Hace mucho ruido el K552?",
+        answer: "Sí, es ruidoso. El switch clicky hace el típico click fuerte en cada tecla, lo que está bien para jugar solo pero molesta en oficina, casa compartida o si grabás con micrófono. Si querés algo más callado, mirá un modelo con switch red.",
+      },
+      {
+        question: "¿Viene en español con la ñ?",
+        answer: "Sí, viene en español Latinoamérica con tecla ñ. Es un punto a favor frente a muchos mecánicos económicos que vienen solo en layout inglés internacional sin ñ.",
+      },
+      {
+        question: "¿El RGB se puede personalizar tecla por tecla?",
+        answer: "No tecla por tecla con software. El RGB son modos rainbow prearmados que cambiás con combinaciones de teclas (brillo, velocidad y efectos), pero no hay app para pintar cada tecla de un color distinto.",
+      },
+      {
+        question: "¿Qué tamaño tiene? ¿Tiene teclado numérico?",
+        answer: "Es formato TKL (tenkeyless), 87 teclas, sin el bloque numérico de la derecha. Eso lo hace más compacto y te deja más espacio para mover el mouse, pero si usás mucho el numérico, lo vas a extrañar.",
+      },
+      {
+        question: "¿Necesita instalar algún programa para funcionar?",
+        answer: "No, es plug and play. Lo enchufás por USB y anda, incluso el RGB se controla desde el propio teclado sin instalar software.",
+      },
+      {
+        question: "¿El cable se puede desconectar?",
+        answer: "No, el cable es fijo USB-A de 1.8 metros, no es desmontable. Si el cable se daña, no podés cambiarlo fácil como en teclados con cable USB-C desconectable.",
+      },
+      {
+        question: "¿Sirve para PlayStation o Xbox?",
+        answer: "Está pensado para PC y conecta por USB. En consola el soporte de teclado depende de cada juego y sistema, así que para PS o Xbox conviene verificar la compatibilidad del juego puntual antes de comprarlo para eso.",
+      },
+      {
+        question: "¿Conviene el Kumara K552 o el Redragon K622 Horus?",
+        answer: "Depende del ruido. El K552 es clicky (ruidoso) y el K622 Horus es prácticamente el mismo teclado pero con switch red lineal, mucho más silencioso, aunque cuesta un poco más. Si el ruido te importa, el K622.",
+      },
+    ],
   },
   {
     id: "MLA14075573",
@@ -238,12 +751,98 @@ export const curatedProducts: Product[] = [
       { label: "Idioma", value: "Español Latinoamérica (con ñ)" },
       { label: "Iluminación", value: "RGB (se cambia con botones, sin software)" },
       { label: "Marca", value: "HyperX" },
+      { label: "Anti-ghosting", value: "Sí, de grado gaming (key rollover)" },
+      { label: "Zonas de luz", value: "5 zonas RGB (no por tecla), 6 efectos, 3 niveles de brillo" },
+      { label: "Recorrido de tecla", value: "2mm de actuación / 3.8mm total" },
+      { label: "Cable", value: "Fijo, trenzado, ~1.8m" },
+      { label: "Conexión", value: "USB, polling 1000Hz" },
+      { label: "Resistencia", value: "A salpicaduras, hasta 120ml de líquido" },
+      { label: "Teclas multimedia", value: "Dedicadas, más botones de luz y Game Mode" },
+      { label: "Peso", value: "~1.12 kg con cable" },
+      { label: "Compatibilidad", value: "PC, PS5, PS4, Xbox Series X|S, Xbox One" },
     ],
     relatedProducts: ["MLA16369071", "MLA8906508"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Teclado gamer HyperX Alloy Core RGB: el de membrana mejor valorado (4.9 estrellas), más silencioso y blando al tipear que un mecánico, en español y de una marca de referencia. Ideal si querés gamer sin el ruido del mecánico. Contra: el RGB se ajusta con botones, no trae software.",
+    seoTitle: "HyperX Alloy Core RGB: el membrana silencioso, ¿conviene?",
+    metaDescription: "HyperX Alloy Core RGB membrana, en español con ñ y full size. El detalle: el RGB es por 5 zonas, no por tecla, y se ajusta sin software.",
+    verdict: "Sirve si querés un teclado gamer silencioso, en español con ñ y de una marca seria sin pagar de más. No sirve si buscás la sensación de un mecánico o querés iluminación RGB tecla por tecla: acá es membrana y el RGB se reparte en 5 zonas, no por tecla. Es el de membrana mejor valorado del listado (4.9 con 1489 calificaciones) y la mejor puerta de entrada al gaming sin ruido.",
+    pros: [
+      "Membrana real: tipeo blando y silencioso, mucho más callado que un mecánico clicky",
+      "En español Latinoamérica con ñ (no todos los gamer lo traen)",
+      "Anti-ghosting de grado gaming: te registra varias teclas a la vez sin que se traben",
+      "Marca de referencia (HyperX) con garantía y cuerpo reforzado, resistente a salpicaduras hasta 120ml",
+      "Teclas de multimedia dedicadas y botones de acceso rápido para luz y Game Mode",
+      "Cable trenzado más resistente que el plástico común, y polling de 1000Hz",
+      "Full size: trae teclado numérico completo, cómodo para planillas y trabajo",
+    ],
+    cons: [
+      "El RGB es por 5 zonas, no por tecla: no podés pintar cada tecla de un color distinto como en la publicidad gamer",
+      "No trae software: la luz y los efectos se cambian solo con botones, sin configuración fina desde la PC",
+      "Es membrana, no mecánico: no vas a sentir el click ni la respuesta de un teclado mecánico",
+      "El cable es fijo, no desmontable USB-C: si se daña el cable, se complica",
+      "Full size ocupa más espacio en el escritorio y deja menos lugar para mover el mouse",
+      "Las teclas son menos duraderas en el largo plazo que un switch mecánico",
+    ],
+    articleBody: `## Qué es y para quién
+
+El HyperX Alloy Core RGB es un teclado gamer de membrana, full size, en español con ñ y de una marca seria. Está pensado para el que quiere entrar al gaming sin el ruido ni el precio de un mecánico. Es membrana, así que las teclas son blandas y silenciosas: ideal para un cuarto compartido, para jugar de noche o para alguien que viene de un teclado común y no quiere el golpe seco del mecánico. En el listado del sitio es el de membrana mejor valorado, con 4.9 estrellas sobre 1489 calificaciones.
+
+## Lo bueno
+
+Lo mejor de este teclado es que combina tipeo silencioso, español con ñ y respaldo de marca. La membrana tiene 2mm de actuación y 3.8mm de recorrido total, o sea teclas blandas y calladas. Trae anti-ghosting de grado gaming, así que si apretás varias teclas a la vez (típico en juegos) te las registra todas sin trabarse. El cuerpo es de plástico reforzado y aguanta salpicaduras de hasta 120ml de líquido, un seguro contra el accidente del mate o la gaseosa. Suma teclas de multimedia dedicadas, botones rápidos para la luz y el Game Mode, cable trenzado y polling de 1000Hz. Detalle no menor: viene en español Latinoamérica con ñ, cosa que muchos gamer no traen.
+
+## La contra real
+
+Acá está el dato que la publicación no te grita: el RGB es por 5 zonas, no por tecla. La foto gamer hace pensar que pintás cada tecla de un color, pero en realidad el teclado divide el tablero en 5 franjas y cada una toma un color. Sigue siendo RGB y se ve lindo, pero no es la iluminación por tecla de los teclados más caros. Sumado a eso, no trae software: los efectos (6 modos) y el brillo (3 niveles) se cambian solo con botones del teclado, no desde la PC. Y lo más importante de entender: es membrana, no mecánico. No vas a sentir el click ni la respuesta precisa de un switch mecánico. El cable además es fijo, no desmontable, así que si se daña, se complica.
+
+## Cómo se compara
+
+Frente a los mecánicos del listado, el HyperX gana en silencio pero pierde en sensación de tipeo. El Redragon Kumara K552 y el Aula F75 son mecánicos: se sienten mejor al tipear y al jugar, pero el Kumara es ruidoso (switches clicky) y el Aula viene en inglés sin ñ. Si lo que te importa es no hacer ruido y escribir en español, el HyperX les gana de entrada. El rival más directo es el Logitech G213 Prodigy, que también es membrana y full size, de marca seria: la diferencia clave es que el G213 viene en inglés US sin ñ, mientras el HyperX trae la ñ. Si querés membrana silencioso y escribir en español, el HyperX es la elección más cómoda; si no te molesta el inglés, el G213 es la otra opción válida.
+
+## Para quién sí y para quién no
+
+Comprá este teclado si querés gamer silencioso, en español con ñ y de marca, sin gastar en mecánico. Es perfecto para el que arranca, para ambientes compartidos y para el que usa el teclado tanto para jugar como para escribir o planillas (tiene numérico completo). No lo compres si buscás la sensación de un mecánico, si querés iluminación RGB tecla por tecla, o si necesitás configurar perfiles de luz desde un software: para eso conviene un mecánico con software o un modelo de gama más alta.`,
+    faq: [
+      {
+        question: "El HyperX Alloy Core RGB es mecánico o membrana?",
+        answer: "Es de membrana, no mecánico. Las teclas son blandas y silenciosas, con 2mm de actuación. Si buscás la sensación y el click de un mecánico, este no es.",
+      },
+      {
+        question: "El RGB se puede configurar por tecla?",
+        answer: "No, el RGB es por 5 zonas, no por tecla. El teclado divide el tablero en 5 franjas y cada una toma un color; no podés pintar cada tecla de un color distinto.",
+      },
+      {
+        question: "Trae software para configurar la iluminación?",
+        answer: "No trae software. Los 6 efectos de luz y los 3 niveles de brillo se cambian con botones del propio teclado, no desde la PC.",
+      },
+      {
+        question: "Viene en español con ñ?",
+        answer: "Sí, viene en español Latinoamérica con la tecla ñ. Es una ventaja sobre varios gamer que solo vienen en inglés.",
+      },
+      {
+        question: "Es silencioso para usar de noche o en un cuarto compartido?",
+        answer: "Sí, es bastante silencioso por ser de membrana. Hace mucho menos ruido que un teclado mecánico clicky, así que va bien para jugar de noche.",
+      },
+      {
+        question: "Sirve para PlayStation y Xbox?",
+        answer: "Sí, es compatible con PC, PS5, PS4, Xbox Series X|S y Xbox One. Se conecta por USB con el cable fijo.",
+      },
+      {
+        question: "El cable es desmontable?",
+        answer: "No, el cable es fijo y trenzado (más resistente que el plástico común). Al no ser desmontable, si se daña el cable se complica el arreglo.",
+      },
+      {
+        question: "Tiene teclado numérico?",
+        answer: "Sí, es full size, así que trae el teclado numérico completo. Es cómodo para planillas y trabajo además de jugar.",
+      },
+      {
+        question: "Aguanta si se me cae líquido encima?",
+        answer: "Está testeado para resistir salpicaduras de hasta 120ml de líquido. No es sumergible, pero te da un margen ante el accidente del mate o la gaseosa.",
+      },
+    ],
   },
   {
     id: "MLA57380272",
@@ -272,12 +871,100 @@ export const curatedProducts: Product[] = [
       { label: "Idioma", value: "Inglés internacional (sin ñ)" },
       { label: "Iluminación", value: "Retroiluminado" },
       { label: "Marca", value: "Aula" },
+      { label: "Montaje", value: "Gasket con cinco capas de amortiguación (Poron, IXPE, PET y silicona)" },
+      { label: "Hot-swap", value: "Sí, sockets de 3 y 5 pines (cambia switches sin soldar)" },
+      { label: "Keycaps", value: "PBT doble inyección" },
+      { label: "Switch de fábrica", value: "LEOBOG lineal (lubricado de fábrica)" },
+      { label: "Conectividad (modelo de fábrica)", value: "Bluetooth 5.0, 2.4G inalámbrico y USB-C" },
+      { label: "Batería (modelo de fábrica)", value: "4000 mAh" },
+      { label: "Perilla", value: "Control de volumen y multimedia integrado" },
+      { label: "Teclas", value: "80 (formato 75%)" },
+      { label: "Anti-ghosting", value: "N-key rollover en cable y 2.4G" },
+      { label: "Dimensiones", value: "322,7 x 143,2 x 43,1 mm" },
     ],
     relatedProducts: ["MLA16369071", "MLA19893399"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Teclado gamer Aula F75 mecánico: el modelo del momento, formato 75% (compacto pero con flechas) y switches red lineales y silenciosos, retroiluminado. Sensación premium de tipeo por su precio. Ojo: es layout inglés internacional, sin ñ.",
+    seoTitle: "Teclado Aula F75: el mecánico de moda, ¿conviene?",
+    metaDescription: "El Aula F75 viene listo para cambiar switches sin soldar y suena premium por su precio. La pega: la versión de esta publicación es sin ñ.",
+    verdict: "El Aula F75 es el mecánico que se puso de moda por una razón concreta: trae montaje gasket y cinco capas de espuma que le dan un sonido \"creamy\" que normalmente pagás el doble. Sirve si querés un teclado compacto 75% con buena sensación de tipeo y switches que podés cambiar sin soldar. No sirve si necesitás sí o sí la ñ física, porque la variante de esta publicación viene en layout inglés.",
+    pros: [
+      "Montaje gasket más cinco capas de espuma (dos de Poron, IXPE, PET y silicona): de ahí sale el sonido grave y sin eco que lo hizo famoso",
+      "Switches hot-swap de 3 y 5 pines: cambiás los switches a mano, sin soldador, si algún día querés otro tacto",
+      "Formato 75% (80 teclas): ocupa poco en el escritorio pero conserva las flechas y la fila de función",
+      "Switch red lineal y silencioso: sube y baja parejo, sin clic, bueno para gaming y para no molestar al lado",
+      "Keycaps de PBT doble inyección: no se borran las letras ni se ponen brillosos con el uso, a diferencia del ABS barato",
+      "Retroiluminado para ver las teclas de noche",
+      "Calificación alta en MercadoLibre: 4.8 estrellas sobre 397 opiniones",
+    ],
+    cons: [
+      "La variante de esta publicación es layout inglés internacional: no tiene la ñ ni los acentos en su lugar habitual. Para escribir en español es un bajón diario",
+      "El F75 de fábrica es tri-modo inalámbrico (Bluetooth, 2.4G y cable) con batería de 4000 mAh y perilla de volumen; la ficha de esta publicación solo menciona retroiluminado y cable, así que confirmá con el vendedor qué versión exacta te llega",
+      "Switch red es lineal: si te gusta el clic marcado de los azules, este no es",
+      "Precio justo igual significa materiales justos: el plástico y los estabilizadores no son de teclado de gama alta",
+      "Para sacarle el RGB completo y reconfigurar teclas suele hacer falta el software, que en estos modelos chinos puede ser tosco o estar solo en inglés",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Aula F75 es un teclado mecánico compacto formato 75% que se volvió el favorito de quienes buscan sonido premium sin pagar un teclado caro. Tiene 80 teclas (entran las flechas y la fila de función en menos espacio que uno completo) y trae switches red, que son lineales y silenciosos: la tecla baja pareja, sin clic. El gancho real es el armado interno. Usa montaje gasket y cinco capas de amortiguación (dos de espuma Poron, un pad IXPE, una capa PET y silicona en la base), y eso es lo que le da ese sonido grave y lleno que normalmente escuchás en teclados del doble de precio.
+
+Es para el que arma su primer mecánico "lindo" o el que viene de uno de membrana y quiere el salto de sensación sin gastar una fortuna. Tiene 4.8 estrellas sobre 397 calificaciones en MercadoLibre, así que la base de compradores es grande.
+
+## Lo bueno
+
+Lo mejor del F75 es que trae cosas de teclado caro a precio de teclado de entrada. Los switches son hot-swap de 3 y 5 pines, lo que significa que si algún día querés cambiar el tacto (más suave, más duro, otro sonido) tirás del switch viejo y enchufás el nuevo a mano, sin soldador. Eso solo ya te ahorra comprar otro teclado más adelante. Los keycaps son de PBT doble inyección: no se borran las letras ni se ponen brillosos con los meses, que es la falla típica del plástico ABS barato. Y el formato 75% libera escritorio sin sacarte las flechas, que es justo el punto dulce para la mayoría.
+
+## La contra real
+
+La pega seria es el idioma: la variante de esta publicación viene en layout inglés internacional, o sea sin ñ. Si escribís en español todo el día, lo vas a sufrir. Tenés que aprender combinaciones o mapear teclas por software, y nunca es tan cómodo como tener la ñ impresa donde va. Segundo punto a chequear: el F75 de fábrica es un teclado tri-modo inalámbrico (Bluetooth, 2.4G y cable), con batería de 4000 mAh y perilla de volumen. La ficha de esta publicación solo habla de retroiluminado y no aclara lo inalámbrico, así que antes de pagar conviene preguntarle al vendedor exactamente qué versión te manda, porque hay varias del F75 dando vueltas. Y el switch red es lineal: si te gusta el clic fuerte de los azules, este no te lo va a dar.
+
+## Cómo se compara con los Redragon
+
+Contra los Redragon que tenemos al lado, el F75 gana en sonido y en poder cambiar switches, pero pierde en idioma. El Redragon Kumara K552 y el Redragon K622 Horus TKL vienen los dos en español de Latinoamérica, con ñ, lo cual para un teclado de uso diario en Argentina es una ventaja grande. El K622 Horus es TKL (un poco más grande que el 75% del Aula, sin teclado numérico) y también trae switch red. Si tu prioridad número uno es escribir cómodo en español, cualquiera de los dos Redragon te resuelve mejor. Si lo que querés es la mejor sensación de tipeo y el sonido "creamy", y la ñ no te frena, el Aula F75 es el que más impresiona de los tres.
+
+## Para quién sí y para quién no
+
+Comprá el F75 si querés el mejor sonido y tacto por la plata, te copa la idea de poder cambiar switches sin soldar, y escribís más en inglés o no te molesta acomodarte a un teclado sin ñ. No lo compres si necesitás la ñ física para trabajar o estudiar en español todo el día, o si esperás un clic marcado al tipear: para eso andá a switches azules o a uno de los Redragon en español.`,
+    faq: [
+      {
+        question: "¿El Aula F75 tiene la ñ?",
+        answer: "La variante de esta publicación viene en layout inglés internacional, así que no trae la ñ ni los acentos en su lugar habitual. Existe una versión del F75 en español, pero no es la de esta ficha. Si la ñ es clave para vos, confirmá con el vendedor o mirá los Redragon en español.",
+      },
+      {
+        question: "¿Qué tipo de switch usa, hace ruido?",
+        answer: "Usa switch red, que es lineal y silencioso: la tecla baja pareja, sin clic ni resistencia marcada. Es de los más callados, bueno para gaming y para no molestar al de al lado. Si buscás el clic fuerte, el red no te lo da.",
+      },
+      {
+        question: "¿Se le pueden cambiar los switches?",
+        answer: "Sí, es hot-swap con sockets de 3 y 5 pines. Eso quiere decir que tirás del switch viejo y enchufás uno nuevo a mano, sin soldador. Es una de las razones por las que conviene a futuro: cambiás el tacto sin comprar otro teclado.",
+      },
+      {
+        question: "¿Es inalámbrico o va con cable?",
+        answer: "El F75 de fábrica es tri-modo: Bluetooth, 2.4G inalámbrico y cable USB-C, con batería de 4000 mAh. La ficha de esta publicación no lo aclara del todo, así que antes de comprar preguntale al vendedor qué versión exacta te manda, porque hay varias del F75.",
+      },
+      {
+        question: "¿Qué significa que sea 75%?",
+        answer: "Que tiene 80 teclas en un cuerpo compacto: entran las flechas y la fila de función, pero no el teclado numérico de la derecha. Te libera espacio en el escritorio sin perder las flechas, que es el punto justo para la mayoría.",
+      },
+      {
+        question: "¿Sirve para gaming?",
+        answer: "Sí, el switch red lineal y el N-key rollover (registra varias teclas a la vez) lo hacen apto para juegos. En modo cable y 2.4G la respuesta es prácticamente instantánea. El formato compacto también deja más lugar para el mouse.",
+      },
+      {
+        question: "¿Por qué suena distinto a un teclado barato?",
+        answer: "Por el montaje gasket y las cinco capas de espuma adentro (Poron, IXPE, PET y silicona). Eso amortigua el eco y deja un sonido grave y lleno que en otros teclados pagás el doble. Es el motivo principal por el que el F75 se hizo famoso.",
+      },
+      {
+        question: "¿Los keycaps se borran con el uso?",
+        answer: "No, son de PBT doble inyección: las letras vienen moldeadas, no impresas encima, así que no se borran ni se ponen brillosas con los meses. Es mejor que el plástico ABS barato que traen muchos teclados de entrada.",
+      },
+      {
+        question: "¿Conviene contra un Redragon?",
+        answer: "Depende de qué priorices. El Aula F75 suena mejor y te deja cambiar switches; los Redragon Kumara K552 y K622 Horus vienen en español con ñ. Si escribís en español todo el día, el Redragon es más cómodo; si querés el mejor tacto y sonido, el F75.",
+      },
+    ],
   },
   {
     id: "MLA8906508",
@@ -306,12 +993,97 @@ export const curatedProducts: Product[] = [
       { label: "Resistente", value: "A salpicaduras de líquido" },
       { label: "Idioma", value: "Inglés US (sin ñ)" },
       { label: "Marca", value: "Logitech G" },
+      { label: "Switches", value: "Mech-Dome (membrana), 50g de actuación, 4mm de recorrido" },
+      { label: "Iluminación", value: "RGB LIGHTSYNC por 5 zonas (no por tecla)" },
+      { label: "Anti-ghosting", value: "Sí (matriz anti-ghosting, sin N-key rollover completo)" },
+      { label: "Resistencia a líquidos", value: "Hasta 60ml (certificado Logitech)" },
+      { label: "Software", value: "Logitech G HUB (gratis)" },
+      { label: "Controles de multimedia", value: "Dedicados (play, pausa, volumen, mute)" },
+      { label: "Comodidad", value: "Apoyamanos integrado y patas con 2 niveles de inclinación" },
+      { label: "Conexión", value: "USB con cable (sin pilas)" },
     ],
     relatedProducts: ["MLA14075573", "MLA16369071"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Teclado gamer Logitech G213 Prodigy: membrana de marca de primera, full size con RGB por zonas y resistencia a salpicaduras de líquido (si se te vuelca algo, aguanta). Silencioso y robusto. Layout inglés US (sin ñ).",
+    seoTitle: "Logitech G213 Prodigy: gamer de marca, pero es membrana",
+    metaDescription: "El Logitech G213 es membrana (no mecánico), RGB por 5 zonas y sin ñ. Aguanta líquidos hasta 60ml. Para quién conviene y para quién no.",
+    verdict: "El Logitech G213 sirve si querés un teclado de marca, silencioso y robusto, que aguante una bebida volcada (resiste hasta 60ml). No es para el que busca la sensación de un mecánico de verdad ni para el que escribe mucho en español: es membrana y viene en layout inglés US, sin ñ. Buena opción para oficina con toque gamer y juego casual, no para competitivo exigente.",
+    pros: [
+      "Membrana de marca con switches Mech-Dome: 50g de actuación, 4mm de recorrido y sonido bajo",
+      "Resistente a salpicaduras hasta 60ml según Logitech",
+      "RGB LIGHTSYNC de 5 zonas configurable con el software G HUB",
+      "Full size con numérico y controles de multimedia dedicados",
+      "Apoyamanos integrado y patas con dos niveles de inclinación",
+      "Anti-ghosting: registra varias teclas a la vez",
+      "4.7 de calificación con 869 opiniones en MercadoLibre",
+    ],
+    cons: [
+      "Es membrana, no mecánico: la publicación lo vende como gamer pero el tacto es de domo de goma",
+      "El RGB es por 5 zonas, no por tecla: no podés iluminar una sola tecla de un color",
+      "Layout inglés US sin ñ: para escribir en español hay que usar combinación de teclas",
+      "Tiene anti-ghosting pero no N-key rollover completo: para competitivo de alto nivel se queda corto",
+      "Cable fijo (no desmontable)",
+      "A su precio hay mecánicos reales con ñ por menos plata",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Logitech G213 Prodigy es un teclado gamer de membrana, full size, de una marca seria. Membrana quiere decir que debajo de cada tecla hay un domo de goma, no un switch mecánico. Logitech lo llama Mech-Dome y le pone 50g de fuerza de actuación, 4mm de recorrido y sonido bajo. Es para el que quiere un teclado de marca, silencioso, robusto, con RGB y controles de multimedia, sin pagar lo de un mecánico premium. Para juego casual y trabajo va perfecto. Para competitivo exigente, no.
+
+## Lo bueno
+
+Lo más fuerte del G213 es que aguanta líquidos: Logitech lo certifica resistente a salpicaduras hasta 60ml. Si tenés la mala costumbre de tener el vaso al lado del teclado, este te cubre. Suma full size con numérico, controles de multimedia dedicados (play, pausa, volumen sin abrir nada), apoyamanos integrado y patas con dos alturas. El RGB es LIGHTSYNC, se configura con el software gratis G HUB y se puede sincronizar con lo que pasa en pantalla. Y trae anti-ghosting, así que si apretás varias teclas juntas no se pierden pulsaciones.
+
+## La contra real
+
+La trampa típica de este tipo de teclados es vender "gamer" cuando es membrana. El G213 es membrana, punto. Si venís de un mecánico o querés esa sensación de click definido, este no te la da. Segundo detalle que la publicación no aclara fuerte: el RGB es por 5 zonas, no por tecla. No podés pintar una sola tecla de un color distinto, va por bloques. Tercero: el layout es inglés US, sin ñ. Para jugar da igual, pero si escribís mucho en español es un fastidio constante. Y ojo, tiene anti-ghosting pero no N-key rollover completo, así que para competitivo de elite se queda corto. El cable es fijo, no desmontable.
+
+## Cómo se compara
+
+Frente al Redragon Kumara K552, el G213 pierde en lo importante para muchos: el Kumara es mecánico de verdad, trae ñ (español Latinoamérica) y cuesta menos (más de 15.000 calificaciones lo respaldan). La contra del Kumara es que es ruidoso. Si te molesta el ruido o compartís ambiente, ahí el G213 gana por silencioso. Contra el HyperX Alloy Core, la pelea es más pareja: los dos son membrana, los dos full size, pero el HyperX trae ñ y el G213 no. El G213 mete a favor la resistencia a líquidos certificada y el software G HUB para el RGB. Resumido: si querés mecánico con ñ y no te importa el ruido, Kumara. Si querés membrana con ñ y RGB simple, HyperX. El G213 conviene si lo que pesa es la marca Logitech, el silencio y la resistencia a derrames, y el inglés US no te frena.
+
+## Para quién sí y para quién no
+
+Comprá el G213 si querés un teclado de marca, silencioso, que aguante un líquido volcado y te alcanza con RGB por zonas. Es ideal para escritorio mixto de trabajo y juego casual. No lo compres si buscás la sensación de un mecánico, si escribís mucho en español y la ñ te importa, o si jugás competitivo de alto nivel donde el N-key rollover completo hace diferencia. Tiene 4.7 de calificación con 869 opiniones, así que cumple lo que promete: un membrana de marca bien hecho. El tema es saber que es membrana antes de comprarlo.`,
+    faq: [
+      {
+        question: "¿El Logitech G213 es mecánico o membrana?",
+        answer: "Es membrana, no mecánico. Logitech usa switches Mech-Dome (domo de goma) con 50g de actuación y 4mm de recorrido. La publicación lo vende como gamer, pero el tacto es de membrana, no de mecánico.",
+      },
+      {
+        question: "¿El G213 tiene ñ?",
+        answer: "No, viene en layout inglés US, sin ñ. Para escribir en español tenés que usar combinación de teclas. Si te importa la ñ, el Redragon Kumara o el HyperX Alloy Core sí la traen.",
+      },
+      {
+        question: "¿El RGB es por tecla o por zonas?",
+        answer: "Es por 5 zonas, no por tecla. No podés iluminar una sola tecla de un color distinto: la iluminación va por bloques. Se configura con el software gratis G HUB y permite hasta 16.8 millones de colores por zona.",
+      },
+      {
+        question: "¿Aguanta si se me vuelca líquido?",
+        answer: "Sí, Logitech lo certifica resistente a salpicaduras hasta 60ml. No es sumergible ni a prueba de un baldazo, pero un vaso volcado al lado lo aguanta sin problema.",
+      },
+      {
+        question: "¿Sirve para juegos competitivos?",
+        answer: "Para casual y la mayoría de los juegos sí, gracias al anti-ghosting. Pero no tiene N-key rollover completo, así que para competitivo de alto nivel donde se aprietan muchas teclas a la vez se queda corto frente a un mecánico.",
+      },
+      {
+        question: "¿Es silencioso?",
+        answer: "Sí, los switches Mech-Dome son de sonido bajo (whisper-quiet según Logitech). Es una ventaja clara frente a mecánicos ruidosos como el Redragon Kumara si compartís ambiente o no querés molestar.",
+      },
+      {
+        question: "¿Necesita software o pilas?",
+        answer: "Es con cable USB, no usa pilas. El RGB y los perfiles se configuran con el software G HUB de Logitech, que es gratis. Sin instalarlo el teclado funciona igual, solo que con menos opciones de personalización.",
+      },
+      {
+        question: "¿Tiene teclado numérico?",
+        answer: "Sí, es full size, así que trae el bloque numérico completo a la derecha. También suma controles de multimedia dedicados (play, pausa, volumen) y apoyamanos integrado.",
+      },
+      {
+        question: "¿Conviene el G213 frente al Redragon Kumara?",
+        answer: "Depende de qué priorices. El Kumara es mecánico de verdad, trae ñ y cuesta menos, pero es ruidoso. El G213 es membrana, silencioso, resistente a líquidos y de marca Logitech, pero sin ñ. Para silencio y derrames, G213; para sensación mecánica y español, Kumara.",
+      },
+    ],
   },
   {
     id: "MLA19893399",
@@ -340,12 +1112,99 @@ export const curatedProducts: Product[] = [
       { label: "Idioma", value: "Español Latinoamérica (con ñ)" },
       { label: "Iluminación", value: "RGB" },
       { label: "Marca", value: "Redragon" },
+      { label: "Perfil", value: "Low profile (teclas y switches bajos, tipo notebook)" },
+      { label: "Recorrido del switch", value: "3.0 mm total, 1.2 mm de actuación (dato del fabricante)" },
+      { label: "Material de la tapa", value: "Metal / aluminio (frosted metal cover)" },
+      { label: "Cable", value: "USB-C desmontable" },
+      { label: "Anti-ghosting", value: "Full rollover (las 87 teclas)" },
+      { label: "Controles de medios", value: "Rueda dedicada para volumen y brillo" },
+      { label: "Peso", value: "Aproximadamente 0,5 kg" },
+      { label: "Software", value: "Software de Redragon (RGB y macros)" },
     ],
     relatedProducts: ["MLA16369071", "MLA57380272"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Teclado gamer Redragon K622 Horus TKL: mecánico TKL con switches red (lineales y silenciosos), RGB y en español. Es como el Kumara pero más silencioso y en castellano: la opción si querés mecánico sin el ruido clicky.",
+    seoTitle: "Redragon K622 Horus TKL: el mecánico bajito y silencioso",
+    metaDescription: "Redragon K622 Horus TKL switch red en español. El dato que la publicación no dice: es low profile (teclas chatas), se tipea distinto a un mecánico normal.",
+    verdict: "Sirve si querés un mecánico silencioso, finito y prolijo para escritorio chico: switch red lineal, formato TKL y teclas low profile (bajitas, tipo notebook). No sirve si buscás la sensación de un mecánico clásico de teclas altas tipo Kumara, ni si te molesta que el recorrido sea cortito. Su gracia es ser fino y callado, no contundente.",
+    pros: [
+      "Switch red lineal y silencioso: no hace el clic-clic del mecánico clásico, va bien para casa o ambiente compartido",
+      "Formato TKL (sin teclado numérico): libera lugar a la derecha para mover el mouse",
+      "Diseño low profile con tapa de metal (aluminio): finito, firme y prolijo en el escritorio",
+      "Cable USB-C desmontable: si se rompe el cable lo cambiás, no tirás el teclado",
+      "Anti-ghosting de las 87 teclas (full rollover): registra todas las teclas que apretás juntas",
+      "RGB por tecla con rueda dedicada para volumen y brillo, configurable por software",
+      "En español con ñ según la publicación, dato clave para escribir en castellano sin renegar",
+    ],
+    cons: [
+      "Es low profile: las teclas son chatas (tipo notebook), el recorrido es cortísimo. Si venís de un mecánico normal, la sensación cambia bastante",
+      "No es la pegada contundente de un mecánico de teclas altas: prioriza ser fino, no firme",
+      "TKL: no tiene teclado numérico. Si laburás con planillas o números, lo vas a extrañar",
+      "El switch red es lineal: no tiene el feedback táctil del brown ni el clic del blue, a algunos les falta respuesta",
+      "Cable fijo no, pero el software es básico de marca económica: cumple, no esperes nivel Razer Synapse",
+      "Más caro que el Kumara K552, que es el Redragon más vendido del país",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Redragon K622 Horus es un teclado mecánico TKL low profile con switch red, pensado para quien quiere un mecánico silencioso y finito. Low profile quiere decir que las teclas son chatas y bajitas, parecido a un teclado de notebook, no las teclas altas del mecánico clásico. Eso es lo más importante y la publicación de MercadoLibre ni lo menciona: comprás esto y no se tipea como un Kumara, se tipea distinto. TKL significa que no trae el bloque numérico de la derecha, así que ocupa menos y te deja más espacio para el mouse.
+
+Tiene 4.8 de calificación con 378 opiniones en MercadoLibre, así que es un modelo conocido, no un desconocido. Pero el número no te dice lo que importa: si te gusta o no la sensación low profile. Esa es la decisión real.
+
+## Lo bueno
+
+El switch red lineal hace que sea silencioso de verdad, sin el clic-clic del mecánico típico. Es lineal: apretás y baja parejo, sin el escaloncito táctil del brown ni el clic del blue. Para casa, para una pieza compartida o para no volver loco al de al lado, va bien. La tapa es de metal (aluminio según el fabricante), así que se siente firme y no plástico barato pese al precio. El cable es USB-C desmontable, detalle que muchos en este rango no tienen: si se arruina el cable, lo cambiás y listo. Trae anti-ghosting de las 87 teclas (full rollover), o sea que registra todas las combinaciones que apretés a la vez, importante para jugar. El RGB es por tecla y tenés una rueda dedicada para volumen y brillo.
+
+## La contra real
+
+La contra de verdad es justamente que es low profile, y eso no está en la ficha de ML. Las teclas son bajas y el recorrido es cortísimo (el fabricante habla de 3 mm de recorrido total, contra los 4 mm de un mecánico normal). Si venís de un mecánico de teclas altas, la primera semana lo vas a sentir raro. No es peor, es distinto, pero conviene saberlo antes de comprar. Sumá que el switch red, al ser lineal, no le da feedback a quien le gusta sentir cuándo "clava" la tecla. Y el TKL no tiene numérico: si usás Excel o cargás números todo el día, lo vas a extrañar. El software es el genérico de Redragon: cumple para mapear el RGB y poco más.
+
+## Cómo se compara
+
+Contra el Redragon Kumara K552, el otro Redragon del catálogo, la diferencia es de filosofía: el Kumara es mecánico de teclas altas y ruidoso (switch clicky), el Horus K622 es finito, bajo y silencioso. El Kumara es además más barato y el más vendido del país por lejos (más de 15.000 calificaciones). Si querés la sensación mecánica clásica y ahorrar, el Kumara. Si querés algo fino y callado, el Horus. Contra el Aula F75, la cosa se pone pareja: el Aula también es switch red silencioso, formato 75% (compacto pero con flechas y teclas de altura normal, no low profile) y suele costar menos. La gran diferencia es que el Aula F75 viene en inglés internacional, sin ñ, y el K622 está en español. Si necesitás la ñ sí o sí, el Horus te la resuelve.
+
+## Para quién sí y para quién no
+
+Comprá el K622 Horus si querés un mecánico silencioso, fino y en español, y la sensación low profile (teclas chatas) no te molesta o directamente la buscás. Es ideal para escritorio chico o ambiente compartido. No lo compres si querés la pegada de un mecánico de teclas altas: ahí andá al Kumara o, si no te importa la ñ, al Aula F75 que te da altura normal más barato. Tampoco si necesitás teclado numérico, porque es TKL.`,
+    faq: [
+      {
+        question: "¿El Redragon K622 Horus es ruidoso?",
+        answer: "No, es de los silenciosos. Usa switch red, que es lineal y no hace el clic-clic del mecánico clásico. Sirve para una pieza compartida o para no molestar al de al lado.",
+      },
+      {
+        question: "¿Qué quiere decir que sea low profile?",
+        answer: "Que las teclas son chatas y bajitas, parecido a un teclado de notebook, con recorrido cortito (unos 3 mm). Se tipea distinto a un mecánico de teclas altas como el Kumara. Es lo principal a tener en cuenta antes de comprarlo.",
+      },
+      {
+        question: "¿Viene en español con ñ?",
+        answer: "Según la publicación de MercadoLibre, sí, viene en español con ñ. Es el dato que lo diferencia del Aula F75, que viene en inglés internacional sin ñ.",
+      },
+      {
+        question: "¿Tiene teclado numérico?",
+        answer: "No. Es formato TKL (tenkeyless), o sea sin el bloque numérico de la derecha. A favor te deja más lugar para el mouse, en contra lo vas a extrañar si laburás mucho con números.",
+      },
+      {
+        question: "¿El cable se puede cambiar?",
+        answer: "Sí, el cable es USB-C desmontable. Si se rompe o se arruina, lo reemplazás sin tirar el teclado, algo que muchos teclados de este precio no permiten.",
+      },
+      {
+        question: "¿El RGB es por tecla o por zonas?",
+        answer: "Es RGB por tecla según el fabricante, configurable por software de Redragon. Trae además una rueda dedicada para ajustar volumen y brillo al toque.",
+      },
+      {
+        question: "¿Conviene el K622 Horus o el Kumara K552?",
+        answer: "Depende de la sensación que quieras. El Kumara es mecánico de teclas altas, más ruidoso y más barato (el más vendido del país). El Horus es low profile, finito y silencioso. Distinta filosofía, no uno mejor que el otro.",
+      },
+      {
+        question: "¿Sirve para jugar?",
+        answer: "Sí. Tiene anti-ghosting de las 87 teclas (full rollover), así que registra todas las combinaciones que apretés juntas, que es lo que importa para gaming. El switch red lineal también es cómodo para apretar rápido.",
+      },
+      {
+        question: "¿Tiene software para configurarlo?",
+        answer: "Sí, Redragon ofrece software para mapear el RGB y configurar macros. Es funcional pero básico, no esperes el nivel de un Razer Synapse de gama alta.",
+      },
+    ],
   },
   {
     id: "MLA16085611",
@@ -374,12 +1233,97 @@ export const curatedProducts: Product[] = [
       { label: "Idioma", value: "Inglés US (sin ñ)" },
       { label: "Iluminación", value: "RGB" },
       { label: "Marca", value: "Razer" },
+      { label: "Keycaps", value: "Doubleshot PBT (leyenda que no se borra)" },
+      { label: "Top frame", value: "Aluminio" },
+      { label: "Cable", value: "USB-C desmontable con traba" },
+      { label: "Polling rate", value: "1000 Hz" },
+      { label: "Anti-ghosting", value: "N-key rollover (registra todas las teclas a la vez)" },
+      { label: "Memoria", value: "5 perfiles guardados en el teclado" },
+      { label: "Software", value: "Razer Synapse (solo Windows)" },
+      { label: "Switch", value: "Óptico Razer, versión clicky (morado) o lineal (rojo)" },
     ],
     relatedProducts: ["MLA57380272", "MLA16369071"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Teclado gamer Razer Huntsman Mini: el premium compacto, formato 60% (sin flechas ni numérico, máximo espacio para el mouse) con switches ópticos de respuesta rapidísima, ideal para competitivo. Layout inglés US. Para quien quiere lo mejor en chico y no le importa el precio.",
+    seoTitle: "Razer Huntsman Mini 60%: óptico premium, ¿vale los $138k?",
+    metaDescription: "Switches ópticos Razer, keycaps PBT y top de aluminio. Es 60% real: sin flechas ni numérico (se usan con FN) y layout inglés, sin ñ.",
+    verdict: "Sirve si querés un 60% premium para juego competitivo: switches ópticos rapidísimos, keycaps PBT que no se borran y top de aluminio, todo en un teclado que despeja el escritorio para el mouse. No sirve si escribís mucho en español (no tiene ñ ni acentos directos), si necesitás flechas o numérico a mano, o si buscás algo barato: por el mismo dinero hay mecánicos full size de marca.",
+    pros: [
+      "Switches ópticos Razer (la tecla activa por luz, no por contacto físico): respuesta más rápida que un mecánico común, pensado para competitivo",
+      "Keycaps de doubleshot PBT: la leyenda no se borra y el plástico no se pone brilloso con el uso, a diferencia del ABS de los teclados baratos",
+      "Top frame de aluminio: chasis rígido, no flexa ni cruje",
+      "Cable USB-C desmontable con traba: lo desenchufás para transportarlo y si se rompe lo cambiás por cualquier cable estándar",
+      "Chroma RGB por tecla (no por zona): cada tecla se ilumina y configura por separado",
+      "5 perfiles guardados en la memoria del teclado: lo llevás a otra PC y mantenés tu config sin instalar nada",
+      "Formato 60% real: libera todo el escritorio para mover el mouse, ideal para shooters con baja sensibilidad",
+    ],
+    cons: [
+      "Layout inglés US: no tiene ñ ni acentos en tecla propia, los hacés con combinaciones. Para escribir mucho en español es incómodo",
+      "Es 60% de verdad: no tiene flechas, ni F1-F12, ni numérico. Todo eso se usa con la tecla FN, y hay curva de adaptación",
+      "La publicación dice 'óptico RGB' pero no aclara el switch: el Huntsman Mini viene en clicky (morado, ruidoso) o lineal (rojo, suave). Conviene confirmar cuál mandan antes de comprar",
+      "Precio alto para un teclado chico: a $138.000 hay mecánicos full size de marca por menos plata",
+      "El software Razer Synapse es solo para Windows: en consola o Mac funciona, pero sin personalización completa",
+      "Sin apoyamuñecas incluido ni patas de altura tan generosas como un teclado grande",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Razer Huntsman Mini es un teclado gamer 60% óptico de gama premium, pensado para juego competitivo donde importa la velocidad y el espacio para el mouse. El 60% significa que tiene solo el bloque central: nada de flechas, ni fila de F1-F12, ni teclado numérico. Eso despeja todo el escritorio, algo que en shooters con sensibilidad baja se agradece porque movés el mouse sin chocar contra el teclado. La marca es Razer, una de las grandes en periféricos gamer, y se nota en los materiales.
+
+## Lo bueno
+
+Lo que justifica el precio son los materiales y los switches ópticos. El switch óptico activa la tecla con un haz de luz en vez del contacto físico de un mecánico común, así que la respuesta es más rápida y no hay rebote. Los keycaps son de doubleshot PBT: la letra está formada en dos capas de plástico, no impresa encima, así que nunca se borra, y el PBT no se pone brilloso con el uso como el ABS barato. El top frame es de aluminio, o sea que el teclado no flexa ni cruje. El cable es USB-C desmontable con traba: lo sacás para transportarlo y si se daña lo reemplazás por cualquier cable estándar. Y guarda hasta 5 perfiles en su propia memoria, así que lo enchufás en otra PC y mantenés tu configuración sin instalar nada.
+
+## La contra real
+
+La contra más importante es el layout: es inglés US, sin ñ ni acentos en tecla propia. Si jugás y nada más, no te va a molestar. Pero si además escribís mensajes, trabajás o estudiás en la misma compu, vas a extrañar la ñ todo el tiempo (la hacés con combinaciones). Sumá que es 60% de verdad: las flechas, las F y el numérico no existen como teclas físicas, los usás con la tecla FN, y eso tiene curva de adaptación. Otra cosa a tener clara: la publicación dice "óptico RGB" pero no aclara el switch, y el Huntsman Mini viene en dos versiones, clicky (morado, hace ruido) o lineal (rojo, suave). Antes de comprar conviene preguntar cuál mandan. Por último, el software Razer Synapse para personalizar a fondo es solo de Windows.
+
+## Cómo se compara con las otras opciones
+
+Frente a los mecánicos más baratos del sitio, el Huntsman Mini juega en otra liga de precio y de uso. El Redragon Kumara K552 es mecánico, full size y en español con ñ: cuesta bastante menos y es la opción obvia si querés numérico, flechas a mano y escribir cómodo en castellano. El Aula F75 es un 75%, o sea un punto intermedio: más compacto que un full size pero mantiene las flechas y la fila de F, también con switch red lineal y suele salir menos. El Huntsman Mini se elige por otra cosa: máxima compactación, switches ópticos y materiales premium. Si tu prioridad es competitivo puro y despejar el escritorio, este gana. Si querés un teclado para todo (juego más trabajo más español), el Kumara o el Aula tienen más sentido por la plata.
+
+## Para quién sí y para quién no
+
+Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado chico de buenos materiales que dure. El doubleshot PBT y el aluminio se sienten y se notan en el tiempo. También si te gusta el RGB por tecla y llevar tu config a varias PC. No, si escribís mucho en español (la falta de ñ molesta), si necesitás flechas o numérico físicos, o si el presupuesto manda: a $138.000 hay teclados full size de marca por menos. Tiene 4.8 de calificación con 316 opiniones en MercadoLibre, un puntaje alto, pero el dato que la ficha no grita es que ese 4.8 es de gente que ya sabía que compraba un 60% en inglés. Si eso te cierra, es un teclado excelente.`,
+    faq: [
+      {
+        question: "¿El Razer Huntsman Mini tiene ñ?",
+        answer: "No, viene con layout inglés US, así que no tiene tecla de ñ ni acentos directos. Los podés hacer con combinaciones de teclas, pero para escribir seguido en español es incómodo.",
+      },
+      {
+        question: "¿Qué switch trae, clicky o lineal?",
+        answer: "El Huntsman Mini se vende en dos versiones: clicky (switch morado, hace ruido y tiene click marcado) o lineal (switch rojo, suave y silencioso). La publicación de ML no aclara cuál es, así que conviene preguntarle al vendedor antes de comprar.",
+      },
+      {
+        question: "¿Tiene flechas y teclado numérico?",
+        answer: "No, es un teclado 60% y no tiene flechas, ni fila de F1-F12, ni numérico como teclas físicas. Todo eso se usa con la tecla FN combinada con otras, y lleva un tiempo acostumbrarse.",
+      },
+      {
+        question: "¿Los keycaps son de buena calidad?",
+        answer: "Sí, son de doubleshot PBT, que es lo mejor en teclas. La leyenda no se borra porque está formada en dos capas de plástico, y el material no se pone brilloso con el uso como el ABS de los teclados económicos.",
+      },
+      {
+        question: "¿El cable es desmontable?",
+        answer: "Sí, usa un cable USB-C desmontable con traba. Lo sacás para transportar el teclado y, si se daña, lo reemplazás por cualquier cable USB-C estándar.",
+      },
+      {
+        question: "¿Sirve para PlayStation o Xbox?",
+        answer: "Funciona como teclado USB en consolas que acepten teclado, pero la personalización completa (RGB por tecla, perfiles) se hace con el software Razer Synapse, que es solo para Windows. En consola lo usás con la configuración que tenga guardada.",
+      },
+      {
+        question: "¿El RGB es por tecla o por zona?",
+        answer: "Es Chroma RGB por tecla, así que cada tecla se ilumina y se configura por separado, no en bloques de zonas. Es el sistema de iluminación más completo de Razer.",
+      },
+      {
+        question: "¿Conviene a $138.000 o hay algo mejor por menos?",
+        answer: "Conviene si buscás específicamente un 60% premium con switches ópticos para competitivo. Si querés gastar menos o necesitás español y numérico, un mecánico full size como el Redragon Kumara K552 te rinde más por la plata.",
+      },
+      {
+        question: "¿Guarda la configuración si lo cambio de PC?",
+        answer: "Sí, tiene memoria interna para hasta 5 perfiles. Configurás tus perfiles una vez y los llevás en el propio teclado a cualquier PC sin tener que instalar software de nuevo.",
+      },
+    ],
   },
 
   // ─── Auriculares gamer — importados via API oficial de ML (jun 2026). Silo gaming (STAGED) ───
@@ -409,12 +1353,96 @@ export const curatedProducts: Product[] = [
       { label: "Micrófono", value: "Sí" },
       { label: "Compatibilidad", value: "PC, PS4/PS5, consolas" },
       { label: "Marca", value: "Kotion Each" },
+      { label: "Driver", value: "40mm" },
+      { label: "Respuesta de frecuencia", value: "15Hz - 20KHz" },
+      { label: "Sensibilidad", value: "108dB ± 3dB a 1KHz" },
+      { label: "Impedancia", value: "32Ω ± 15%" },
+      { label: "Micrófono", value: "Omnidireccional, fijo (no desmontable)" },
+      { label: "Largo del cable", value: "Aprox. 2.2 metros" },
+      { label: "Almohadillas", value: "Cuerina blanda over-ear" },
+      { label: "Surround 7.1", value: "Virtual por software, solo en PC (versión USB)" },
     ],
     relatedProducts: ["MLA16280514", "MLA8732921"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Auriculares gamer Kotion Each G9000: los más vendidos del país por lejos (más de 9.000 calificaciones), con cable, micrófono y luz LED, al precio más bajo. Para empezar a jugar con buen sonido sin gastar casi nada. Lo honesto de las reseñas: el micrófono es regular.",
+    seoTitle: "Kotion Each G9000: el gamer mas vendido, ¿sirve?",
+    metaDescription: "Driver de 40mm, microfono fijo y luz LED por USB. El 7.1 que prometen es virtual y solo en PC. Para que sirve a 40.927 y para que no.",
+    verdict: "Sirve para arrancar a jugar con sonido decente sin gastar casi nada: driver de 40mm, micrófono y luz LED, el más vendido del país por lejos. No sirve si buscás un micrófono limpio para stream o el \"surround 7.1 real\": ese 7.1 es virtual por software y solo funciona en PC, no en consola. Es el escalón de entrada, no el de calidad.",
+    pros: [
+      "Driver de 40mm: sonido amplio y con pegada para juego y música casual, más que suficiente para empezar",
+      "Es el más vendido del país por lejos, con 9.026 calificaciones y 4.6 estrellas (volumen de ventas real, no marketing)",
+      "Trae micrófono y luz LED en los auriculares al precio más bajo del segmento",
+      "Vincha y almohadillas de cuerina blanda over-ear, cómodas para sesiones largas",
+      "Conexión 3.5mm: andan plug and play en PC, notebook, PS4/PS5 y celular sin instalar nada",
+      "Cable largo (cerca de 2.2 metros) para jugar cómodo desde el escritorio",
+    ],
+    cons: [
+      "El micrófono es fijo (no se saca) y es omnidireccional: levanta bastante ruido de fondo, regular para stream o llamadas serias",
+      "El 7.1 surround que figura es virtual por software y solo en PC; en consola escuchás estéreo común",
+      "A este precio los materiales son justos: plástico y cuerina, no esperes el armado de una marca premium",
+      "La luz LED se alimenta por USB, así que necesitás un puerto USB libre solo para que prendan las luces",
+      "Sin cancelación de ruido activa ni aislamiento real: filtra el ruido del ambiente",
+      "No es inalámbrico: si querés cortar el cable, este no es",
+    ],
+    articleBody: `## Que es y para quien
+
+El Kotion Each G9000 es el auricular gamer más barato y más vendido para arrancar, con driver de 40mm, micrófono y luz LED. Es el típico primer headset: lo comprás cuando querés dejar los auriculares de celular y tener algo con vincha, almohadillas over-ear y micrófono para hablar con los amigos. Tiene 9.026 calificaciones y 4.6 estrellas en MercadoLibre, que es muchísimo volumen para un producto de este precio. No es un auricular de competición ni de estudio: es el escalón de entrada, y como tal cumple.
+
+## Lo bueno
+
+Por lo que sale, da mucho más de lo que esperás. El driver de 40mm entrega un sonido amplio y con cuerpo, suficiente para jugar, ver videos y escuchar música sin drama. La conexión es 3.5mm (jack), así que enchufás y andan en PC, notebook, PS4/PS5 y celular sin instalar nada. La vincha y las almohadillas de cuerina blanda over-ear aguantan sesiones largas sin que te molesten las orejas. Y el cable es largo (cerca de 2.2 metros), cómodo para jugar desde el escritorio. Sumá el micrófono y la luz LED, y por menos de lo que cuesta cualquier headset de marca tenés todo lo básico.
+
+## La contra real
+
+El micrófono es la pega más grande, y conviene saberlo antes de comprar. Es fijo (no se desmonta) y es omnidireccional, así que levanta bastante ruido de fondo: para hablar con amigos zafa, para stream o llamadas de trabajo es regular. La publicación a veces menciona "surround 7.1": ojo, ese 7.1 es virtual por software y solo funciona en PC con la versión USB; en consola y en la versión jack escuchás estéreo común, no sonido posicional real. Los materiales son los justos para el precio (plástico y cuerina), no esperes el armado de un Razer o un HyperX. Y la luz LED se alimenta por un cable USB aparte, o sea que ocupás un puerto USB solo para que prendan las luces.
+
+## Como se compara
+
+Contra los modelos de marca, el G9000 gana en precio y pierde en calidad fina, y está bien que así sea. El Razer BlackShark V2 X cuesta más del doble pero te da un micrófono desmontable y un sonido posicional limpio de verdad, ideal para shooters donde escuchar los pasos importa. El HyperX Cloud apunta a lo mismo: mejor armado, micrófono más claro y un sonido más prolijo. El G9000 no compite con ellos en calidad; compite en "cuánto gasto para empezar". Si tu prioridad es gastar lo mínimo y jugar ya, el Kotion gana. Si querés que el micrófono se escuche bien o sonido posicional real, el salto al Razer o al HyperX vale la pena.
+
+## Para quien si y para quien no
+
+Comprá el G9000 si es tu primer headset gamer y querés gastar lo mínimo. Para alguien que arranca, que juega casual con amigos y quiere algo cómodo con micrófono y luces, es la opción obvia: el volumen de ventas lo confirma. No lo compres si vas a streamear, si necesitás que tu voz se escuche limpia en llamadas, o si buscás sonido posicional real para juego competitivo. Para eso, poné un poco más y andá directo al Razer BlackShark V2 X o al HyperX Cloud.`,
+    faq: [
+      {
+        question: "¿El Kotion Each G9000 sirve para PS4 y PS5?",
+        answer: "Sí, la versión con conexión 3.5mm (jack) funciona en PS4 y PS5 enchufándola al control. Andan plug and play sin instalar nada. Eso sí, en consola escuchás estéreo normal, no el 7.1 virtual.",
+      },
+      {
+        question: "¿El micrófono se puede sacar?",
+        answer: "No, el micrófono es fijo, viene integrado al brazo del auricular y no se desmonta. Es omnidireccional, así que levanta ruido de fondo: zafa para hablar con amigos pero es regular para stream.",
+      },
+      {
+        question: "¿El sonido 7.1 surround es real?",
+        answer: "No, el 7.1 es virtual por software y solo funciona en la versión USB conectada a una PC. No hay parlantes físicos de 7.1; en consola o con la versión jack escuchás estéreo común.",
+      },
+      {
+        question: "¿Qué tamaño de driver tiene?",
+        answer: "Tiene driver de 40mm, que entrega un sonido amplio y con cuerpo para el precio. Es suficiente para jugar, ver videos y música casual, aunque no llega al detalle de un auricular de gama media.",
+      },
+      {
+        question: "¿Para qué es el cable USB si la conexión es jack?",
+        answer: "El cable USB sirve solo para alimentar la luz LED de los auriculares, no para el audio. El sonido entra por el jack de 3.5mm; si no enchufás el USB, los auriculares andan igual pero sin luces.",
+      },
+      {
+        question: "¿Es cómodo para jugar muchas horas?",
+        answer: "Sí, la vincha y las almohadillas son de cuerina blanda over-ear, cómodas para sesiones largas. El cable mide cerca de 2.2 metros, cómodo para jugar desde el escritorio.",
+      },
+      {
+        question: "¿Es inalámbrico?",
+        answer: "No, el G9000 es con cable. Si querés cortar el cable, mirá un modelo inalámbrico como el Logitech G435. El G9000 va conectado por jack siempre.",
+      },
+      {
+        question: "¿Vale la pena o conviene pagar más?",
+        answer: "Vale la pena si es tu primer headset y querés gastar lo mínimo: tiene 9.026 calificaciones y 4.6 estrellas. Si streameás o querés sonido posicional real, conviene saltar al Razer BlackShark V2 X o al HyperX Cloud.",
+      },
+      {
+        question: "¿Funciona en celular?",
+        answer: "Sí, la versión jack 3.5mm anda en celulares con entrada de auriculares o con adaptador. Tené en cuenta que algunos celulares necesitan un splitter si tienen una sola entrada combinada de audio y micrófono.",
+      },
+    ],
   },
   {
     id: "MLA16280514",
@@ -442,12 +1470,97 @@ export const curatedProducts: Product[] = [
       { label: "Micrófono", value: "Sí (desmontable)" },
       { label: "Fuerte", value: "Sonido posicional para juego competitivo" },
       { label: "Marca", value: "Razer" },
+      { label: "Driver", value: "Razer TriForce de 50mm" },
+      { label: "Respuesta de frecuencia", value: "12 Hz a 28 kHz" },
+      { label: "Impedancia", value: "32 ohm (1 kHz)" },
+      { label: "Sensibilidad", value: "100 dB SPL / mW (1 kHz)" },
+      { label: "Tipo de micrófono", value: "HyperClear cardioide, bendable (fijo, no desmontable)" },
+      { label: "Surround 7.1", value: "Virtual, solo en Windows 10 64-bit (vía Synapse)" },
+      { label: "Peso", value: "240 g" },
+      { label: "Almohadillas", value: "Tela transpirable + leatherette" },
+      { label: "Compatibilidad", value: "PC, Mac, PS4/PS5, Xbox, Switch y móviles con 3.5mm" },
     ],
     relatedProducts: ["MLA9406415", "MLA8732921"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Auriculares gamer Razer BlackShark V2 X: el mejor sonido por el precio según los compradores (4.8 estrellas), con cable, micrófono y un sonido posicional limpio ideal para shooters competitivos (escuchás de dónde vienen los pasos). El salto de calidad desde los económicos.",
+    seoTitle: "Razer BlackShark V2 X: el 7.1 anda solo en PC",
+    metaDescription: "Razer BlackShark V2 X: driver TriForce 50mm, 240g y micrófono nítido. Ojo: el micrófono es fijo (no se saca) y el 7.1 surround solo funciona en Windows.",
+    verdict: "Sirve si jugás shooters competitivos en PC y querés un auricular liviano (240g), cómodo y con sonido posicional limpio sin gastar en gama alta. No sirve si esperás un micrófono desmontable (es fijo) o si lo vas a usar en consola contando con el 7.1 surround, porque ese efecto solo funciona en Windows. En PS, Xbox, Switch o celular queda en estéreo común y corriente.",
+    pros: [
+      "Driver TriForce de 50mm: separa graves, medios y agudos, se nota en escuchar pasos y disparos",
+      "Liviano de verdad: 240g, se banca sesiones largas sin que pese en la cabeza",
+      "Almohadillas de tela transpirable y leatherette, no transpirás tanto como con cuero puro",
+      "Micrófono HyperClear cardioide: capta sobre todo tu voz de frente y deja afuera ruido de los costados",
+      "Conexión 3.5mm: lo enchufás a PC, PS4/PS5, Xbox, Switch o celular sin drivers ni adaptadores",
+      "Rango amplio de 12 Hz a 28 kHz e impedancia de 32 ohm, lo mueve cualquier placa o joystick",
+      "4.8 estrellas sobre 1.817 calificaciones en ML, no es un modelo nuevo sin rodaje",
+    ],
+    cons: [
+      "El micrófono es fijo (bendable, se dobla pero NO se saca). La publicación dice desmontable, y no lo es: ese es el BlackShark V2 normal, no el X",
+      "El 7.1 surround es virtual y solo anda en Windows 10 64-bit. En consola o celular escuchás estéreo, no surround",
+      "No es inalámbrico: vas atado al cable de 3.5mm",
+      "Sin software de ecualización propio en consola; el tuneo del sonido vive en Synapse, que es de PC",
+      "Es de gama de entrada-media: plástico justo en la diadema, no esperes el armado de un modelo premium",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Razer BlackShark V2 X es un auricular gamer con cable pensado para shooters competitivos en PC. Trae driver TriForce de 50mm, micrófono cardioide y conexión 3.5mm, y pesa solo 240 gramos. Es el escalón que separás de los auriculares de 15 lucas: misma idea (cable, micro, sonido posicional) pero con un driver mejor afinado y un armado más serio. Apunta al que juega Valorant, CS o Apex y quiere escuchar de dónde vienen los pasos sin irse a la gama alta.
+
+## Lo bueno
+
+Lo que más se nota es el sonido posicional limpio gracias al driver TriForce de 50mm. Razer lo afina como si fueran tres drivers en uno (graves, medios y agudos por separado), y en la práctica eso se traduce en ubicar pasos y disparos con más precisión. Suma que es liviano (240g) y que las almohadillas combinan tela transpirable con leatherette, así que en sesiones largas no te transpira tanto la oreja. El micrófono HyperClear es cardioide: capta sobre todo tu voz de frente y mete menos ruido del ambiente, que para hablar con el equipo es lo que importa. Y al ser 3.5mm, lo enchufás a lo que tengas a mano sin instalar nada.
+
+## La contra real
+
+Acá hay dos cosas que la publicación no te cuenta bien. Primero: el micrófono es fijo. La ficha de ML dice "desmontable" y es un error, ese es el BlackShark V2 común; el X tiene el micro bendable (se dobla) pero soldado, no lo sacás. Si querías usarlo en la calle sin el brazo del micro colgando, este no es. Segundo: el famoso 7.1 surround es virtual y solo funciona en Windows 10 de 64 bits. Si lo conectás a una PS5, una Xbox, una Switch o el celular, escuchás estéreo normal, no surround. El efecto vive en el software Synapse, que es de PC. Tampoco es inalámbrico: vas con cable siempre.
+
+## Cómo se compara
+
+Contra los Kotion Each G9000 que también tenemos, el BlackShark juega en otra liga de sonido y armado. El G9000 es el más vendido del país porque sale dos mangos, pero su driver y su micro son básicos; el Razer es el salto de calidad real cuando ya jugaste un tiempo y querés escuchar mejor. La pelea brava es contra los HyperX Cloud, el clásico del rubro. El Cloud tiene fama por la comodidad y un micro desmontable (eso el Razer no lo tiene), mientras que el BlackShark gana en peso (es más liviano) y en el tuneo del driver para competitivo. Si el micro removible es prioridad, mirá el HyperX; si buscás liviano y posicional para shooters, el Razer.
+
+## Para quién sí y para quién no
+
+Comprá el BlackShark V2 X si jugás competitivo en PC y querés sonido posicional liviano sin gastar de más. Es ideal para el que pasa de un auricular económico al primer "en serio" y juega sobre todo en computadora, donde el 7.1 y el ecualizador de Synapse sí funcionan. No lo compres si tu plan es usarlo principalmente en consola esperando surround (vas a tener estéreo), si necesitás sacar el micrófono para salir a la calle, o si querés algo inalámbrico. Para esos casos, hay otros modelos en el listado que te van a cerrar mejor. Con 4.8 estrellas sobre 1.817 calificaciones, el respaldo está; solo comprá sabiendo qué hace y qué no.`,
+    faq: [
+      {
+        question: "¿El micrófono del BlackShark V2 X se puede sacar?",
+        answer: "No, el micrófono es fijo. Es bendable (se dobla para acomodarlo) pero viene soldado al auricular, no se desmonta. El que tiene micro desmontable es el BlackShark V2 a secas, no la versión X.",
+      },
+      {
+        question: "¿El 7.1 surround funciona en PlayStation, Xbox o Switch?",
+        answer: "No, el 7.1 surround solo funciona en Windows 10 de 64 bits. Es un efecto virtual que vive en el software Razer Synapse, que es de PC. En consola o celular el auricular suena en estéreo normal.",
+      },
+      {
+        question: "¿Es inalámbrico?",
+        answer: "No, el BlackShark V2 X es con cable. Se conecta por plug 3.5mm, así que no usa receptor USB ni Bluetooth. Si buscás inalámbrico, este modelo no es.",
+      },
+      {
+        question: "¿Sirve para celular o solo para PC?",
+        answer: "Sirve para celular, siempre que el equipo tenga entrada de 3.5mm o uses un adaptador. Funciona en PC, Mac, PS4, PS5, Xbox, Switch y móviles. Eso sí, el 7.1 surround solo se activa en PC con Windows.",
+      },
+      {
+        question: "¿Qué tamaño de driver tiene?",
+        answer: "Trae drivers TriForce de 50mm. Es el diseño de Razer que afina graves, medios y agudos por separado, lo que ayuda a escuchar mejor la posición de los sonidos en juegos competitivos.",
+      },
+      {
+        question: "¿Cuánto pesa? ¿Es cómodo para jugar muchas horas?",
+        answer: "Pesa 240 gramos, que es liviano para un auricular gamer. Las almohadillas combinan tela transpirable y leatherette, pensadas para sesiones largas sin que se caliente tanto la oreja.",
+      },
+      {
+        question: "¿Necesito instalar algo para que ande?",
+        answer: "Para escuchar y hablar no necesitás instalar nada: lo enchufás por 3.5mm y listo. Solo si querés el 7.1 surround o ajustar el ecualizador tenés que instalar Razer Synapse en una PC con Windows.",
+      },
+      {
+        question: "¿Qué diferencia hay con los HyperX Cloud?",
+        answer: "El BlackShark es más liviano y su driver está afinado para sonido posicional competitivo. El HyperX Cloud tiene micrófono desmontable, cosa que el Razer no. Si priorizás sacar el micro, mirá el HyperX; si querés liviano y posicional, el Razer.",
+      },
+      {
+        question: "¿El micrófono se escucha bien para hablar con el equipo?",
+        answer: "Sí, el micrófono HyperClear es cardioide, lo que significa que capta sobre todo tu voz de frente y deja afuera buena parte del ruido de los costados. Para comunicarte en partida cumple bien.",
+      },
+    ],
   },
   {
     id: "MLA18651915",
@@ -476,12 +1589,91 @@ export const curatedProducts: Product[] = [
       { label: "Extra", value: "Muy liviano (165 g)" },
       { label: "Compatibilidad", value: "PC, PS, móvil" },
       { label: "Marca", value: "Logitech G" },
+      { label: "Drivers", value: "40 mm" },
+      { label: "Batería", value: "Hasta 18 horas" },
+      { label: "Carga", value: "Puerto USB-C" },
+      { label: "Alcance inalámbrico", value: "Hasta 10 metros (LIGHTSPEED 2.4 GHz)" },
+      { label: "Respuesta de frecuencia", value: "20 Hz - 20 kHz" },
+      { label: "Sonido envolvente", value: "Dolby Atmos / Windows Sonic / Tempest 3D (por software)" },
+      { label: "Micrófono", value: "Doble beamforming integrado (no desmontable)" },
+      { label: "Compatibilidad", value: "PC, PS4, PS5, Switch, celular (NO Xbox)" },
     ],
     relatedProducts: ["MLA16269737", "MLA58836044"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Auriculares gamer Logitech G435 inalámbricos: el mejor inalámbrico accesible, muy livianos y de marca de primera, con más de 4.500 calificaciones. Bluetooth y 2.4 GHz para PC, consolas y celular. Para cortar el cable sin irte a precio premium.",
+    seoTitle: "Logitech G435: el inalámbrico liviano, pero ojo con Xbox",
+    metaDescription: "Logitech G435: 165 g, 18 h de batería y doble micrófono integrado. El dato que la publicación no dice: no anda con Xbox y el surround es por software.",
+    verdict: "Sirve si querés cortar el cable sin gastar premium: pesa 165 g, dura 18 h de batería y es de marca de primera, con Bluetooth para el celular y dongle de 2.4 GHz para PC y PlayStation. No sirve si tenés Xbox (no lo soporta, solo USB y Bluetooth) ni si esperás un micrófono boom desmontable o surround real por hardware, porque el micro es integrado fijo y el sonido envolvente es por software.",
+    pros: [
+      "Muy liviano: 165 g, de los más cómodos de la franja para sesiones largas",
+      "Doble conexión: 2.4 GHz (LIGHTSPEED) para PC y PlayStation, más Bluetooth para celular",
+      "18 horas de batería por carga, con puerto USB-C para cargar",
+      "Drivers de 40 mm y de marca de primera (Logitech G), no un genérico",
+      "Doble micrófono beamforming integrado que reduce ruido de fondo",
+      "Más de 4.500 calificaciones con 4.7 de promedio, base enorme de compradores",
+    ],
+    cons: [
+      "No funciona con Xbox: solo dongle USB y Bluetooth, y Xbox no acepta ninguno de los dos",
+      "El micrófono es integrado y fijo, no es un boom desmontable ni se levanta para mutear",
+      "El surround (Dolby Atmos, Windows Sonic, Tempest 3D) es por software, no es 7.1 por hardware",
+      "No trae cable analógico de 3.5 mm: si te quedás sin batería, te quedás sin sonido",
+      "Sensibilidad de 83.1 dB: necesita un poco más de volumen que otros para sonar fuerte",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Logitech G435 es un auricular gamer inalámbrico liviano (165 g) pensado para PC, PlayStation y celular, no para Xbox. Es la opción de Logitech para cortar el cable sin pagar precio premium. Se conecta de dos formas: por un dongle USB de 2.4 GHz (lo que Logitech llama LIGHTSPEED) para jugar con baja latencia, y por Bluetooth para el celular o la tablet. Trae drivers de 40 mm, doble micrófono integrado y 18 horas de batería. Va apuntado a quien juega tranquilo en casa y quiere comodidad y libertad de movimiento más que sonido de competencia profesional.
+
+## Lo bueno
+
+Lo que más se nota es el peso: 165 g lo ponen entre los más cómodos de su rango. En sesiones largas eso se agradece, porque no aprieta la cabeza ni cansa las orejas como los modelos pesados. La doble conexión es el otro punto fuerte: tenés el dongle de 2.4 GHz para jugar y, al mismo tiempo, podés tener el Bluetooth para el celu. La batería rinde 18 horas reales por carga y se carga por USB-C, así que no dependés de un cable propietario raro. Y es Logitech G, no un genérico sin respaldo: con más de 4.500 calificaciones y 4.7 de promedio, hay un montón de gente que ya lo probó.
+
+## La contra real
+
+La contra más importante no aparece en la publicación: el G435 no anda con Xbox. Como solo se conecta por dongle USB de 2.4 GHz o por Bluetooth, y las consolas Xbox no aceptan ninguno de los dos, si tenés una Xbox este auricular no te sirve. Con PC, PS4, PS5, Switch y celular funciona bien, pero ojo con eso. Segundo: el micrófono es integrado y fijo. No es un boom que podés acercar a la boca ni levantar para mutear; son dos micrófonos chiquitos en la cara del auricular. Cumplen para hablar con amigos, pero no esperes calidad de streaming. Tercero: el "surround" es por software (Dolby Atmos, Windows Sonic, Tempest 3D en PS5), no es 7.1 por hardware. Y un detalle clave: no trae cable analógico de 3.5 mm, así que si se queda sin batería, te quedás sin sonido hasta que cargue.
+
+## Cómo se compara
+
+Dentro de los inalámbricos, el G435 queda justo en el medio entre el Redragon Ire Pro H848 y el Logitech G733. El Redragon Ire Pro H848 es la opción más barata para cortar el cable: cumple, pero no tiene el respaldo de marca ni el peso pluma del G435. Para arriba está el Logitech G733, el inalámbrico premium de la misma marca: trae micrófono boom desmontable de verdad, RGB y mejor micro, pero cuesta bastante más. Si lo único que querés es libertad de cable, comodidad y marca confiable sin pagar el G733, el G435 es el punto dulce. Si te importa el micrófono para stream o querés RGB, mirá el G733.
+
+## Para quién sí y para quién no
+
+Comprá el G435 si jugás en PC, PlayStation, Switch o celular y querés algo inalámbrico, liviano y de marca sin gastar premium. Es ideal para partidas largas y casuales, para quien valora la comodidad y la doble conexión por sobre el sonido de competencia. No lo compres si tenés Xbox (directamente no funciona), si necesitás un micrófono de calidad para stream o llamadas serias (el integrado es básico), o si querés un cable 3.5 mm de respaldo para cuando se descargue. Para esos casos hay otras opciones más adecuadas.`,
+    faq: [
+      {
+        question: "¿El Logitech G435 funciona con Xbox?",
+        answer: "No, el G435 no funciona con consolas Xbox. Solo se conecta por dongle USB de 2.4 GHz o por Bluetooth, y Xbox no acepta ninguna de las dos vías. Sí anda bien con PC, PS4, PS5, Nintendo Switch y celular.",
+      },
+      {
+        question: "¿Cuánto dura la batería del G435?",
+        answer: "La batería rinde hasta 18 horas por carga según Logitech. Se carga por puerto USB-C, así que usás un cable común y no uno propietario. No trae cable analógico, así que sin batería te quedás sin audio.",
+      },
+      {
+        question: "¿El micrófono se puede sacar o levantar?",
+        answer: "No, el micrófono es integrado y fijo, no es un boom desmontable. Son dos micrófonos beamforming en la cara del auricular que reducen ruido de fondo. Cumplen para hablar con amigos, pero no son para streaming serio.",
+      },
+      {
+        question: "¿Tiene sonido surround 7.1?",
+        answer: "El surround del G435 es por software, no es 7.1 por hardware. Soporta Dolby Atmos, Windows Sonic en PC y Tempest 3D AudioTech en PS5. Es sonido envolvente virtual, no canales físicos.",
+      },
+      {
+        question: "¿Cuánto pesa el Logitech G435?",
+        answer: "Pesa 165 gramos, uno de los más livianos de su franja. Ese peso bajo es lo que lo hace cómodo para sesiones largas sin que apriete la cabeza.",
+      },
+      {
+        question: "¿Sirve para celular además de la PC?",
+        answer: "Sí, se conecta al celular por Bluetooth sin problema. Para PC y PlayStation usás el dongle USB de 2.4 GHz que tiene menos latencia. Es de las ventajas del modelo: doble conexión.",
+      },
+      {
+        question: "¿Qué tamaño tienen los drivers?",
+        answer: "Los drivers son de 40 mm, un tamaño estándar para gaming. La respuesta de frecuencia va de 20 Hz a 20 kHz, el rango audible completo.",
+      },
+      {
+        question: "¿Conviene el G435 o el Logitech G733?",
+        answer: "Depende de qué priorices. El G733 cuesta más pero trae micrófono boom desmontable, RGB y mejor micro para stream. El G435 es más liviano y barato, ideal si solo querés inalámbrico cómodo de marca sin gastar de más.",
+      },
+    ],
   },
   {
     id: "MLA8732921",
@@ -509,12 +1701,100 @@ export const curatedProducts: Product[] = [
       { label: "Micrófono", value: "Sí (desmontable)" },
       { label: "Fuerte", value: "Comodidad para muchas horas (clásico HyperX)" },
       { label: "Marca", value: "HyperX" },
+      { label: "Modelo real", value: "Cloud Alpha (HX-HSCA)" },
+      { label: "Drivers", value: "Doble cámara 50mm" },
+      { label: "Sonido", value: "Estéreo (sin 7.1)" },
+      { label: "Respuesta de frecuencia", value: "13 Hz - 27 kHz" },
+      { label: "Impedancia", value: "65 Ohm" },
+      { label: "Conector", value: "3.5mm (analógico)" },
+      { label: "Cable", value: "Desmontable + extensión para PC" },
+      { label: "Estructura", value: "Marco de aluminio" },
+      { label: "Almohadillas", value: "Espuma con memoria y leatherette" },
+      { label: "Tipo de micrófono", value: "Condensador electret, bidireccional con cancelación de ruido" },
+      { label: "Peso aprox.", value: "298 g (sin cable)" },
+      { label: "Compatibilidad", value: "PC, PS5, PS4, Xbox Series, Xbox One, Switch, celular" },
     ],
     relatedProducts: ["MLA16280514", "MLA9406415"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Auriculares gamer HyperX Cloud: el clásico del gaming, famoso por la comodidad para sesiones largas (vincha y almohadillas mullidas), con cable y micrófono desmontable. 4.8 estrellas. La opción de una marca de referencia a precio razonable.",
+    seoTitle: "HyperX Cloud Alpha: el cómodo de siempre, ¿7.1 o no?",
+    metaDescription: "El código HX-HSCA es el Cloud Alpha: drivers de doble cámara y comodidad de marca, pero es estéreo analógico, no 7.1. Mirá para quién conviene.",
+    verdict: "Sirve si querés un auricular gamer con cable, cómodo para sesiones largas y de marca de referencia, que anda igual en PC, PS5, Xbox, Switch y celular por su jack de 3.5mm. No sirve si buscás surround 7.1 real o conexión inalámbrica: este es estéreo analógico puro, sin placa de sonido USB. Para escuchar bien los pasos en un shooter alcanza, pero no esperes el efecto envolvente de los modelos con caja de control USB.",
+    pros: [
+      "El código del modelo (HX-HSCA) confirma que es el Cloud Alpha, no un Cloud genérico: es la línea premium de comodidad de HyperX",
+      "Drivers de doble cámara de 50mm que separan los graves de medios y agudos, algo que en este rango de precio casi no se ve",
+      "Vincha de aluminio (no plástico puro) más almohadillas de espuma con memoria y leatherette: aguanta horas y resiste el maltrato",
+      "Micrófono desmontable con cancelación de ruido: lo sacás y queda como auricular normal para salir a la calle",
+      "Cable desmontable, así que si se daña el cable no tirás todo el auricular",
+      "Jack universal de 3.5mm: funciona en PC, PS5, PS4, Xbox Series, Xbox One, Switch y celular sin adaptadores raros",
+      "4.8 estrellas sobre 696 calificaciones, un volumen de ventas alto para la categoría",
+    ],
+    cons: [
+      "No tiene surround 7.1: es estéreo analógico. El sonido posicional es decente pero no es el efecto envolvente de los modelos con caja USB (como el Cloud II)",
+      "Es con cable. Si querés cortar el cable, este no es",
+      "La conexión analógica de 3.5mm no trae cancelación de ruido por hardware ni control de volumen con placa de sonido: dependés de los controles del dispositivo",
+      "Pesa cerca de 300 gramos, no es de los más livianos de la categoría",
+      "Las almohadillas son de leatherette (cuero sintético): en verano y sesiones muy largas dan más calor que las de tela",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es el HyperX Cloud Alpha, el auricular gamer con cable más conocido de la marca por su comodidad. La publicación lo lista como "HyperX Cloud" a secas, pero el código del modelo, HX-HSCA, lo delata: es el Cloud Alpha, la línea pensada para aguantar sesiones largas sin que te molesten las orejas. Apunta al que juega varias horas seguidas y prioriza comodidad y una marca seria por sobre los chiches.
+
+## Lo bueno
+
+El diferencial real son los drivers de doble cámara de 50mm. En criollo: HyperX separa físicamente la cámara de los graves de la de medios y agudos, así los bajos no se "ensucian" con el resto. En este rango de precio casi ningún auricular hace eso. La construcción acompaña: vincha de aluminio en vez de plástico puro, almohadillas de espuma con memoria y un micrófono que sacás y ponés. El cable también es desmontable, detalle que importa porque el cable es lo primero que se rompe en un auricular gamer. Y al ser jack de 3.5mm, lo enchufás en PC, PS5, PS4, Xbox Series, Xbox One, Switch o celular sin pensar.
+
+## La contra real
+
+No tiene surround 7.1, y esto es lo que la publicación no te aclara. El Cloud Alpha es estéreo analógico: se conecta por jack de 3.5mm y no trae la caja de control USB que arma el 7.1 virtual (esa la tiene el Cloud II, no este). En la práctica el sonido posicional alcanza para escuchar de dónde vienen los pasos en un shooter, pero no esperes el efecto envolvente de cine. Si lo que te vendieron fue "7.1", ojo: este modelo no lo hace. Tampoco es inalámbrico, y al ser conexión analógica el volumen y el micrófono los manejás desde el dispositivo, no desde una placa de sonido propia.
+
+## Cómo se compara
+
+Contra los otros gamer que tenemos, el Cloud Alpha juega la carta de la marca y la comodidad. El Razer BlackShark V2 X también es con cable y estéreo, en una liga parecida, pero más enfocado al sonido competitivo y menos al confort de almohadillas; es el rival directo y la elección se vuelve cuestión de gusto y precio del día. El Kotion Each G9000 es otra historia: es el auricular gamer barato con luz LED, pensado para gastar lo mínimo, con materiales mucho más plásticos y sin el respaldo de marca ni los drivers de doble cámara. Si el presupuesto manda, el Kotion entra; si querés algo que dure y se banque horas, el Alpha está un escalón arriba.
+
+## Para quién sí y para quién no
+
+Compralo si jugás muchas horas seguidas y la comodidad es tu prioridad número uno. Es para el que quiere un auricular de marca seria, con cable, que ande en cualquier consola y dure años. No lo compres si tu cabeza dice "necesito 7.1": este no lo tiene, y vas a quedar disconforme. Tampoco si querés cortar el cable, porque es alámbrico. Con 4.8 estrellas sobre 696 calificaciones es de los más validados de la categoría, pero esa nota es por comodidad y construcción, no por un surround que no existe en este modelo.`,
+    faq: [
+      {
+        question: "¿El HyperX Cloud Alpha tiene sonido surround 7.1?",
+        answer: "No, es estéreo analógico. El 7.1 virtual lo arma una caja de control USB que este modelo no incluye (esa la trae el Cloud II). El sonido posicional alcanza para ubicar pasos en juegos, pero no es envolvente real.",
+      },
+      {
+        question: "¿Es el mismo que el HyperX Cloud o el Cloud II?",
+        answer: "El código HX-HSCA corresponde al Cloud Alpha, la línea premium de comodidad de HyperX. No es el Cloud II, que se diferencia por traer la caja USB con 7.1 virtual. La publicación lo lista como 'Cloud' a secas, pero es el Alpha.",
+      },
+      {
+        question: "¿Sirve para PS5 y Xbox Series?",
+        answer: "Sí. Al usar jack de 3.5mm funciona en PS5, PS4, Xbox Series X|S, Xbox One, PC, Switch y celular. Lo enchufás al control o al dispositivo directamente, sin adaptadores raros.",
+      },
+      {
+        question: "¿El micrófono se puede sacar?",
+        answer: "Sí, el micrófono es desmontable y tiene cancelación de ruido. Lo sacás y el auricular queda como uno normal para usar en la calle o escuchar música.",
+      },
+      {
+        question: "¿Es inalámbrico?",
+        answer: "No, es con cable. Si buscás inalámbrico, este modelo no es. La ventaja del cable es que no te quedás sin batería y la latencia es cero.",
+      },
+      {
+        question: "¿Qué tamaño tienen los parlantes?",
+        answer: "Trae drivers de doble cámara de 50mm. La doble cámara separa físicamente los graves de los medios y agudos, algo poco común en este rango de precio.",
+      },
+      {
+        question: "¿Se puede cambiar el cable si se rompe?",
+        answer: "Sí, el cable es desmontable. Es un punto a favor porque el cable suele ser lo primero que falla en un auricular gamer, y acá lo reemplazás sin tirar todo.",
+      },
+      {
+        question: "¿Es cómodo para muchas horas?",
+        answer: "Sí, es justamente su punto fuerte. Trae vincha de aluminio, almohadillas de espuma con memoria y leatherette. Eso sí, el leatherette da algo más de calor que las almohadillas de tela en sesiones muy largas o en verano.",
+      },
+      {
+        question: "¿Necesita software o drivers para funcionar?",
+        answer: "No, al ser analógico por 3.5mm funciona apenas lo enchufás (plug and play). No depende de instalar programas ni de una placa de sonido especial.",
+      },
+    ],
   },
   {
     id: "MLA58836044",
@@ -542,12 +1822,102 @@ export const curatedProducts: Product[] = [
       { label: "Micrófono", value: "Sí" },
       { label: "Ideal para", value: "Inalámbrico gastando poco" },
       { label: "Marca", value: "Redragon" },
+      { label: "Conexión real", value: "Triple: receptor 2.4G, Bluetooth 5.0 y cable USB-C" },
+      { label: "Driver", value: "40mm dinámicos" },
+      { label: "Surround 7.1", value: "Virtual (software), solo en modo 2.4G" },
+      { label: "Micrófono", value: "Desmontable con cancelación de ruido" },
+      { label: "Batería", value: "20 a 25 horas según modo" },
+      { label: "Carga completa", value: "2.5 horas" },
+      { label: "Peso", value: "178 gramos" },
+      { label: "Almohadillas", value: "Tela con memory foam" },
+      { label: "Alcance inalámbrico", value: "Hasta 10 metros (33 pies)" },
+      { label: "Compatibilidad", value: "PC, PS4, Switch y celular" },
+      { label: "Iluminación", value: "Sin RGB" },
     ],
     relatedProducts: ["MLA18651915", "MLA9406415"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Auriculares gamer Redragon Ire Pro H848 inalámbricos: la opción para cortar el cable sin gastar mucho. Bluetooth, recargables por USB y con micrófono, de una marca gamer muy elegida en Argentina. Más de 1.400 calificaciones.",
+    seoTitle: "Redragon Ire Pro H848: el inalámbrico barato, ¿rinde?",
+    metaDescription: "Lo que la publicación no aclara: trae receptor 2.4G además de Bluetooth, y el 7.1 es virtual y solo anda por el dongle. 178g, batería 20-25h.",
+    verdict: "Sirve para cortar el cable sin gastar mucho: liviano (178g), batería de 20 a 25 horas y triple conexión (receptor 2.4G, Bluetooth y cable). No es para audiófilos ni para quien busque sonido posicional real: el 7.1 es virtual por software y solo funciona conectado por el dongle 2.4G. Para jugar relajado y escuchar música sin atarte al cable, cumple. Para competitivo serio donde el pasito importa, quedate con un cableado.",
+    pros: [
+      "Triple conexión real: receptor 2.4G de baja latencia, Bluetooth 5.0 y cable USB-C (la publicación solo menciona Bluetooth)",
+      "Liviano de verdad: 178 gramos, se nota en sesiones largas",
+      "Batería de 20 a 25 horas y carga completa en 2.5 horas",
+      "Drivers de 40mm, el estándar para gaming en este rango",
+      "Micrófono desmontable con cancelación de ruido: lo sacás y queda como auricular normal para la calle",
+      "Almohadillas de tela con memory foam, transpiran mejor que el cuerina en verano",
+      "Más de 1.400 calificaciones con 4.7 de promedio en MercadoLibre",
+    ],
+    cons: [
+      "El 7.1 surround es virtual (por software), no es sonido posicional real por hardware",
+      "Ese 7.1 solo funciona conectado por el receptor 2.4G; por Bluetooth te quedás en estéreo",
+      "La publicación dice solo 'Bluetooth, recargable USB' y omite que trae receptor 2.4G y cable: vende menos de lo que es",
+      "Sin RGB ni luces (si buscás el auricular que se ilumine, este no es)",
+      "Materiales justos para el precio: plástico liviano, no esperes una vincha de metal",
+      "Compatibilidad oficial PC/PS4/Switch/celular: Xbox no figura confirmada por el fabricante",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Redragon Ire Pro H848 es un auricular gamer inalámbrico de entrada de gama, pensado para cortar el cable sin gastar mucho. Pesa 178 gramos, así que entra en la categoría de los livianos, y su gracia es la triple conexión: trae un receptor 2.4G de baja latencia, Bluetooth 5.0 y también un cable USB-C por si te quedás sin batería. Es para el que juega varias horas, escucha música y quiere libertad de movimiento, no para el que busca el mejor sonido posible.
+
+Acá un detalle importante. La publicación de MercadoLibre lo lista como "Bluetooth, recargable USB" y nada más. En realidad, según Redragon, trae además un nano receptor 2.4G y cable. O sea, vende menos de lo que el producto ofrece. Eso juega a tu favor.
+
+## Lo bueno
+
+Lo mejor de este auricular es la combinación de peso bajo y autonomía. Con 178 gramos no te castiga el cuello en sesiones largas, y la batería va de 20 a 25 horas según el modo, con carga completa en 2.5 horas. Los drivers son de 40mm, que es lo estándar en gaming, y el micrófono es desmontable con cancelación de ruido: lo sacás y te queda un auricular normal para usar en la calle. Las almohadillas son de tela con memory foam, que transpiran mejor que la cuerina cuando hace calor. En MercadoLibre acumula más de 1.400 calificaciones con un promedio de 4.7, que para esta franja de precio es una buena señal de que no decepciona.
+
+## La contra real
+
+El "7.1 surround" que aparece en las cajas y publicaciones es virtual, no real. Es un efecto generado por software que simula posición, no un sistema de varios parlantes por oído. Y hay una letra chica más: ese 7.1 solo funciona si lo conectás por el receptor 2.4G. Si lo usás por Bluetooth, te quedás en estéreo común. Para jugar relajado da igual, pero si esperabas escuchar de dónde vienen los pasos con precisión de hardware, esto no lo hace. Sumale que no tiene RGB ni luces (si querías el auricular que brilla, buscá otro) y que los materiales son los justos para el precio: plástico liviano, no metal.
+
+## Cómo se compara
+
+Frente a los otros inalámbricos del catálogo, el Ire Pro H848 es el más barato con la jugada del precio bajo. El Logitech G435 inalámbrico es de una marca más reconocida y mejor terminación, pero suele costar bastante más y su micrófono es fijo (no desmontable como el del Redragon). En el otro extremo está el Kotion Each G9000, que es cableado y con luz LED: más barato todavía, pero te ata al cable y no te da la libertad inalámbrica. Si lo que valorás es cortar el cable gastando poco y poder usarlo también para música por Bluetooth, el Redragon es el punto medio lógico. Si te alcanza el presupuesto y querés marca y mejor armado, el G435 es el salto natural.
+
+## Para quién sí y para quién no
+
+Sí, si querés un auricular inalámbrico para jugar y escuchar música sin gastar de más y sin atarte al cable. La triple conexión, el peso bajo y la batería larga lo hacen versátil para PC, PlayStation, Switch y celular. No, si sos competitivo serio que necesita sonido posicional real por hardware, o si buscás materiales premium y RGB. En ese caso, conviene subir de categoría. Para el uso casual e híbrido (juego más música), cumple lo que promete, y un poco más de lo que la publicación dice.`,
+    faq: [
+      {
+        question: "¿El Redragon Ire Pro H848 es solo Bluetooth?",
+        answer: "No, trae tres modos de conexión. Según Redragon viene con un receptor 2.4G de baja latencia, Bluetooth 5.0 y un cable USB-C. La publicación de MercadoLibre solo menciona el Bluetooth, pero en realidad ofrece más.",
+      },
+      {
+        question: "¿El sonido 7.1 surround es real?",
+        answer: "No, es virtual (generado por software), no por hardware. Simula posición de sonido pero no equivale a varios parlantes por oído. Además, solo funciona conectado por el receptor 2.4G, no por Bluetooth.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Entre 20 y 25 horas según el modo de conexión, de acuerdo a Redragon. La carga completa tarda unas 2.5 horas. Si te quedás sin batería, podés seguir usándolo con el cable USB-C.",
+      },
+      {
+        question: "¿El micrófono se puede sacar?",
+        answer: "Sí, el micrófono es desmontable y tiene cancelación de ruido. Eso te deja usar el auricular como uno normal para la calle, sin el brazo del micro colgando.",
+      },
+      {
+        question: "¿Sirve para PS5 y Xbox?",
+        answer: "Redragon confirma compatibilidad con PC, PS4, Switch y celular. La PS5 suele andar con headsets así, pero Xbox no figura en la lista oficial del fabricante, así que conviene no darlo por seguro.",
+      },
+      {
+        question: "¿Tiene luces RGB?",
+        answer: "No, este modelo no trae RGB ni luces LED. Es un auricular sobrio. Si buscás el que se ilumina, este no es.",
+      },
+      {
+        question: "¿Cuánto pesa? ¿Es cómodo para horas?",
+        answer: "Pesa 178 gramos, que lo ubica entre los livianos. Eso ayuda en sesiones largas. Las almohadillas son de tela con memory foam, que transpiran mejor que la cuerina.",
+      },
+      {
+        question: "¿Qué tan grandes son los drivers?",
+        answer: "Trae drivers de 40mm, que es el tamaño estándar en auriculares gamer. Es lo esperable para esta franja de precio y rinde bien para juego y música casual.",
+      },
+      {
+        question: "¿Conviene frente al Logitech G435?",
+        answer: "Depende del presupuesto. El Redragon es más barato y su micrófono es desmontable; el Logitech G435 es de marca más reconocida y mejor terminación, pero cuesta más y tiene micrófono fijo. Para gastar poco e ir inalámbrico, el Redragon es la opción de entrada.",
+      },
+    ],
   },
   {
     id: "MLA16269737",
@@ -575,12 +1945,97 @@ export const curatedProducts: Product[] = [
       { label: "Micrófono", value: "Sí" },
       { label: "Extra", value: "Luces RGB, liviano, diseño premium" },
       { label: "Marca", value: "Logitech G" },
+      { label: "Driver", value: "PRO-G de 40 mm" },
+      { label: "Batería", value: "Hasta 29 h (20 h con RGB encendido)" },
+      { label: "Alcance inalámbrico", value: "Hasta 20 metros (LIGHTSPEED 2.4 GHz)" },
+      { label: "Peso", value: "278 g" },
+      { label: "Micrófono", value: "Desmontable, 6 mm, con filtros BLUE VO!CE" },
+      { label: "Surround", value: "DTS Headphone:X 2.0 (virtual, vía G HUB, sobre todo en PC)" },
+      { label: "Compatibilidad", value: "PC, PS5, PS4, Switch (no Xbox)" },
+      { label: "Software", value: "Logitech G HUB (RGB, ecualizador, mic)" },
     ],
     relatedProducts: ["MLA18651915", "MLA16280514"],
     priceUpdated: "2026-06-28",
     priceLastChecked: "2026-06-28",
     priceStatus: "fresh",
     description: "Auriculares gamer Logitech G733 inalámbricos: el premium inalámbrico de la guía, con luces RGB, diseño liviano y el sonido de Logitech G, 4.8 estrellas. Para quien quiere lo mejor sin cable y no le importa pagarlo.",
+    seoTitle: "Logitech G733: el inalámbrico cómodo, pero solo 2.4 GHz",
+    metaDescription: "Logitech G733: drivers PRO-G de 40 mm, 29 h de batería y micrófono desmontable. Lo que no dice la publicación: es solo 2.4 GHz, sin Bluetooth ni Xbox.",
+    verdict: "El G733 sirve si querés un inalámbrico liviano y cómodo para PC o PlayStation, con batería que aguanta una jornada entera (29 h sin RGB) y un micrófono desmontable de calidad decente. No sirve si tenés Xbox o querés conectarlo por Bluetooth al celular: es solo 2.4 GHz por receptor USB. El surround 7.1 (DTS Headphone:X 2.0) es virtual y depende del software G HUB, no de un hardware mágico.",
+    pros: [
+      "Drivers PRO-G de 40 mm, el mismo tipo que usan los modelos más caros de Logitech G",
+      "Hasta 29 horas de batería con las luces apagadas (20 h con RGB encendido)",
+      "Micrófono desmontable: lo sacás cuando no jugás y queda un auricular limpio",
+      "Diseño muy liviano (278 g) con vincha de suspensión, cómodo para sesiones largas",
+      "Inalámbrico LIGHTSPEED de baja latencia por receptor USB, sin lag perceptible para juego",
+      "Micrófono con filtros BLUE VO!CE para que la voz salga más limpia (se ajusta en G HUB)",
+      "Rating real de 4.8 estrellas sobre más de 1.600 calificaciones en MercadoLibre",
+    ],
+    cons: [
+      "Solo conexión 2.4 GHz por receptor USB: no tiene Bluetooth, así que no lo enchufás al celular sin el dongle",
+      "No es compatible con Xbox de fábrica (LIGHTSPEED no funciona en Xbox)",
+      "El surround 7.1 es virtual (DTS Headphone:X 2.0 por software) y rinde sobre todo en PC con G HUB",
+      "Las luces RGB se comen casi un tercio de la batería (de 29 h baja a 20 h)",
+      "Es de los más caros del nicho gaming del sitio, bastante arriba del Razer con cable",
+      "Construcción muy plástica para el precio: liviano sí, pero no se siente premium al tacto",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Logitech G733 es un auricular gamer inalámbrico que se conecta por un receptor USB de 2.4 GHz (LIGHTSPEED), pensado para jugar en PC o PlayStation sin cable y sin lag. Trae drivers PRO-G de 40 mm, micrófono desmontable y luces RGB, todo en un cuerpo muy liviano de 278 gramos. Es para el que quiere cortar el cable, valora la comodidad en sesiones largas y no le molesta pagar por la marca. Si tu prioridad es gastar poco o jugás en Xbox, este no es tu auricular.
+
+## Lo bueno
+
+Lo mejor del G733 es la combinación de batería larga, peso liviano y micrófono que se saca. Aguanta hasta 29 horas con las luces apagadas (20 horas si dejás el RGB encendido), así que tranquilamente te dura varias jornadas de juego entre cargas. La vincha de suspensión y los 278 gramos hacen que casi no lo sientas después de horas. El micrófono es desmontable: lo enganchás para jugar y lo sacás cuando solo querés escuchar música, y trae los filtros BLUE VO!CE de Logitech para que la voz salga más limpia en Discord. Los drivers son PRO-G de 40 mm, el mismo tipo que monta Logitech en modelos más caros. En MercadoLibre tiene 4.8 estrellas sobre más de 1.600 calificaciones, así que la gente que lo compró quedó conforme.
+
+## La contra real
+
+La contra grande es la conexión: el G733 es solo 2.4 GHz por receptor USB, no tiene Bluetooth. Eso significa que no lo conectás al celular o a una notebook sin el dongle, y que en Xbox no funciona (LIGHTSPEED no es compatible con esa consola). Si querés un inalámbrico que también ande por Bluetooth con el teléfono, mirá para otro lado. Otra cosa a tener clara: el "surround 7.1" es virtual. Es DTS Headphone:X 2.0, un procesamiento por software que se activa desde G HUB y rinde sobre todo en PC. No esperes un salto físico de calidad por eso. Y ojo con el RGB: se come casi un tercio de la batería, de 29 horas baja a 20. Para el precio, además, la construcción es bastante plástica; es liviano, sí, pero no se siente tan premium al tacto como sugiere la publicación.
+
+## Cómo se compara
+
+Frente a los otros gamer del sitio, el G733 es el inalámbrico cómodo pero el más caro. El Logitech G435 es el hermano más barato y liviano (165 gramos) y tiene una ventaja clave que al G733 le falta: suma Bluetooth además del 2.4 GHz, así que ese sí lo enchufás al celular. Si lo que querés es inalámbrico económico y versátil, el G435 te conviene más. El Razer BlackShark V2 X va por otro lado: es con cable, más barato, y su fuerte es el sonido posicional limpio para shooters competitivos (escuchás de dónde vienen los pasos). Si jugás competitivo y no te molesta el cable, el Razer te da más sonido por menos plata. El G733 gana cuando lo que pesa es no tener cable y la comodidad para horas largas.
+
+## Para quién sí y para quién no
+
+Comprá el G733 si jugás en PC o PlayStation, querés inalámbrico sin lag y valorás la comodidad y la batería larga por encima del precio. Es ideal para sesiones de muchas horas y para quien usa el micrófono para hablar en Discord y después lo saca. No lo compres si jugás en Xbox (no es compatible), si querés conectarlo por Bluetooth al celular (no tiene), o si tu presupuesto es ajustado: el G435 o el Razer BlackShark V2 X te dan más por menos según lo que priorices.`,
+    faq: [
+      {
+        question: "¿El Logitech G733 funciona en Xbox?",
+        answer: "No, el G733 no es compatible con Xbox de fábrica. Usa conexión LIGHTSPEED de 2.4 GHz por receptor USB, que funciona en PC y PlayStation pero no en consolas Xbox. Si tenés Xbox, vas a tener que buscar otro modelo.",
+      },
+      {
+        question: "¿El G733 tiene Bluetooth?",
+        answer: "No, el G733 solo se conecta por 2.4 GHz a través del receptor USB. No tiene Bluetooth, así que no lo podés enchufar directo al celular sin el dongle. Si querés Bluetooth, el Logitech G435 sí lo trae.",
+      },
+      {
+        question: "¿Cuánto dura la batería del G733?",
+        answer: "Dura hasta 29 horas con las luces RGB apagadas. Si dejás el RGB encendido, baja a unas 20 horas. En ambos casos te alcanza para varias jornadas de juego entre cargas.",
+      },
+      {
+        question: "¿El micrófono del G733 se puede sacar?",
+        answer: "Sí, el micrófono es desmontable. Lo enganchás cuando vas a jugar o hablar en Discord y lo sacás cuando solo querés escuchar música. Trae los filtros BLUE VO!CE de Logitech para mejorar la voz.",
+      },
+      {
+        question: "¿El surround 7.1 del G733 es real?",
+        answer: "Es virtual, no físico. Funciona con DTS Headphone:X 2.0, un procesamiento por software que activás desde G HUB y rinde sobre todo en PC. No es un sistema de varios parlantes por oído, es simulación por software.",
+      },
+      {
+        question: "¿Qué tamaño de driver tiene el G733?",
+        answer: "Tiene drivers PRO-G de 40 mm, el mismo tipo que Logitech usa en modelos más caros de su línea G. El rango de frecuencia va de 20 a 20.000 Hz.",
+      },
+      {
+        question: "¿El G733 sirve para PlayStation?",
+        answer: "Sí, funciona en PS5 y PS4 conectando el receptor USB de 2.4 GHz al puerto USB de la consola. Junto con PC, PlayStation es una de sus plataformas principales.",
+      },
+      {
+        question: "¿Vale la pena el G733 frente al G435?",
+        answer: "Depende. El G435 es más barato, más liviano (165 g) y suma Bluetooth, así que es más versátil. El G733 te da más batería, micrófono desmontable y vincha de suspensión más cómoda, pero cuesta bastante más.",
+      },
+      {
+        question: "¿Es cómodo para usar muchas horas?",
+        answer: "Sí, es uno de sus puntos fuertes. Pesa 278 gramos y usa una vincha de suspensión de tela que reparte el peso, así que casi no lo sentís en sesiones largas.",
+      },
+    ],
   },
 
   // ─── Microondas — importados via API oficial de ML (jun 2026). Silo cocina (STAGED) ───
