@@ -726,7 +726,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // PILAR silla-gamer — silo gaming (/guias/gaming/...) — STAGED
+  // PILAR silla-gamer — silo gaming (/guias/gaming/...)
   // ─────────────────────────────────────────────────────────
   {
     slug: "silla-gamer",
@@ -740,8 +740,8 @@ export const guides: Guide[] = [
     ogDescription: `De la más vendida y barata a la premium que dura. Alpina, Cougar y Corsair comparadas por material, peso soportado y precio real de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_656227-MLA95633522918_102025-F.jpg`,
     h1: `Silla gamer: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-28",
+    publishedDate: "2026-07-01",
+    updatedDate: "2026-07-01",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Una silla gamer va de $143.000 a más de $780.000, y la diferencia no es solo la marca: es el material, lo que soporta y cuánto te va a durar. Te mostramos cuál conviene según tu peso, tu presupuesto y cuántas horas te sentás, comparando las más vendidas de Argentina (Alpina, Cougar, Corsair) con precios reales de MercadoLibre.`,
@@ -828,12 +828,6 @@ export const guides: Guide[] = [
       { question: `¿Vale la pena una silla gamer o conviene una silla de oficina?`, answer: `Para jugar, estudiar y trabajar combinado, una buena silla gamer cumple las dos funciones: respaldo alto, reclinación y comodidad para muchas horas. Una ergonómica de oficina apunta más a la postura pura (malla, lumbar regulable) y suele costar más a igual calidad. Si tu prioridad absoluta es la espalda para 8 horas de oficina, evaluá una ergonómica; si no, la gamer rinde.` },
       { question: `¿Las sillas gamer son cómodas para trabajar muchas horas?`, answer: `Sí, sobre todo las de gama media para arriba, que traen mejor gomaespuma, respaldo reclinable y soporte lumbar. Las más baratas (como la Alpina) cumplen para uso normal, pero si te sentás 8 horas todos los días conviene una premium con tela transpirable o cuero de calidad y buen soporte lumbar, para no terminar con dolor de espalda.` },
     ],
-    internalLinks: [
-      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
-      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
-      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
-    ],
-    internalLinksTitle: "Más para tu setup gamer",
   },
 
   // ─────────────────────────────────────────────────────────
@@ -1859,7 +1853,6 @@ export const guides: Guide[] = [
 
   // ─────────────────────────────────────────────────────────
   // PILAR estufas-electricas — silo climatizacion (/guias/climatizacion/...)
-  // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────
   {
     slug: "estufas-electricas",
@@ -1872,8 +1865,8 @@ export const guides: Guide[] = [
     ogTitle: `Estufas eléctricas: cuál comprar en Argentina`,
     ogDescription: `Caloventor, cuarzo o halógena: qué calienta mejor, cuánto consume cada una y cuál conviene según tu ambiente. La guía honesta de estufas eléctricas, con precios reales.`,
     h1: `Estufas eléctricas: cuál comprar en Argentina y cuánto consumen [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-01",
+    updatedDate: "2026-07-01",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Las estufas eléctricas calientan al instante y no necesitan instalación, pero consumen, y mucho. Te mostramos los tres tipos (caloventor, cuarzo y halógena), cuál conviene según tu ambiente y cuánto gastan de verdad, con precios reales de MercadoLibre.`,
@@ -1970,7 +1963,7 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más guías para el hogar",
   },
 
-  // SATÉLITE estufa-electrica-bajo-consumo (silo climatizacion) — STAGED
+  // SATÉLITE estufa-electrica-bajo-consumo (silo climatizacion)
   {
     slug: "estufa-electrica-bajo-consumo",
     category: "climatizacion",
@@ -1981,8 +1974,8 @@ export const guides: Guide[] = [
     ogTitle: `Estufa eléctrica de bajo consumo: la verdad`,
     ogDescription: `Spoiler: ninguna estufa eléctrica es de bajo consumo de verdad. Te explicamos cuál gasta menos según cómo la uses, con la cuenta real de watts y precios de MercadoLibre.`,
     h1: `Estufa eléctrica de bajo consumo: cuál gasta menos de verdad [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-01",
+    updatedDate: "2026-07-01",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `"Bajo consumo" en una estufa eléctrica es, casi siempre, marketing: todas gastan parecido por watt. Pero algunas te hacen gastar menos por cómo calientan. Te mostramos cuál conviene si te importa la factura, con la cuenta real y precios de MercadoLibre.`,
@@ -2059,7 +2052,7 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre el hogar",
   },
 
-  // SATÉLITE caloventor (silo climatizacion) — STAGED
+  // SATÉLITE caloventor (silo climatizacion)
   {
     slug: "caloventor",
     category: "climatizacion",
@@ -2070,8 +2063,8 @@ export const guides: Guide[] = [
     ogTitle: `Caloventor: cuál comprar en Argentina`,
     ogDescription: `El termoventilador que calienta un ambiente rápido. Cuál conviene según el tamaño del cuarto, qué mirar (termostato, seguridad) y cuánto consume. Guía honesta con precios reales.`,
     h1: `Caloventor: cuál comprar en Argentina y qué mirar [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-01",
+    updatedDate: "2026-07-01",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `El caloventor es la forma más rápida de calentar un ambiente: lo enchufás y en minutos se siente. Te mostramos cuál conviene según el tamaño del cuarto, qué mirar antes de comprar (termostato, seguridad) y la pega del consumo, con los más vendidos de MercadoLibre.`,
