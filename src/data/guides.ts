@@ -1065,6 +1065,128 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
+  // SATÉLITE mouse-gamer — silo gaming — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "mouse-gamer",
+    category: "gaming",
+    silo: "gaming",
+    title: `Mouse gamer: cuál comprar en Argentina [2026]`,
+    seoTitle: `Mouse Gamer: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Descubrí qué mouse gamer comprar en Argentina: con cable o inalámbrico, cuántos DPI necesitás de verdad y cuál conviene. Logitech, Redragon y más.`,
+    ogTitle: `Mouse gamer: cuál comprar en Argentina`,
+    ogDescription: `Del más vendido y barato al ultraliviano de e-sports. Logitech y Redragon comparados por sensor, peso, batería y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_611122-MLA93494801285_092025-F.jpg`,
+    h1: `Mouse gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-01",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un mouse gamer va de $26.500 a casi $290.000, y el número de DPI que te venden en la caja no es lo que separa uno de otro. Te contamos qué importa de verdad (sensor, peso, conexión), comparando los más vendidos de Argentina con specs verificadas del fabricante y precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA44849297", label: "El más vendido", labelColor: "green", tagline: "Logitech G203: con cable, 16.000 opiniones, la compra segura" },
+      { productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", tagline: "Logitech G305: sensor HERO, 250 horas con una pila AA" },
+      { productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", tagline: "Redragon M601: con RGB y pesas regulables por $26.500" },
+      { productMlaId: "MLA28598537", label: "El de los profesionales", labelColor: "purple", tagline: "PRO X Superlight 2: 60 gramos, el tope de gama de e-sports" },
+    ],
+    intro: [
+      `El mouse es el periférico donde más se nota la diferencia entre jugar cómodo y pelearte con el juego, y también donde más humo de marketing hay: números de DPI gigantes, "grado militar", luces por todos lados. La verdad es más simple: lo que separa un buen mouse gamer de uno mediocre es el **sensor** (que no acelere ni suavice el movimiento), el **peso** y la **conexión**.`,
+      `En esta guía comparamos los más vendidos de Argentina con specs verificadas contra la página del fabricante, del económico con respaldo real al ultraliviano que usan los profesionales. Un dato honesto de entrada: en mouse, el mercado argentino lo domina **Logitech** por paliza (5 de los 6 más vendidos son de la marca), así que el ranking lo refleja. Si te falta el resto del setup, mirá la [silla gamer](/guias/gaming/silla-gamer), el [teclado gamer](/guias/gaming/teclado-gamer) y los [auriculares gamer](/guias/gaming/auriculares-gamer).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_611122-MLA93494801285_092025-F.jpg", alt: `Mouse gamer Logitech G203 Lightsync, el más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Un buen mouse gamer se define por la calidad del sensor, el peso y la conexión, no por el número de DPI de la caja. Para la mayoría, el **Logitech G203** (con cable, el más vendido) resuelve todo por poco. Si querés **inalámbrico**, el **G305** es el clásico indestructible y el **G309** su sucesor moderno. Con **poco presupuesto**, el **Redragon M601**. Y para **competitivo serio**, el **PRO X Superlight 2** de 60 gramos que usan los profesionales.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los mouse gamer con más ventas y opiniones reales en MercadoLibre Argentina y verificamos las especificaciones (sensor, DPI, peso, batería, botones) contra la página oficial del fabricante y reseñas técnicas especializadas. Los ordenamos por lo que define la compra: el **sensor**, el **peso**, la **conexión** (cable o inalámbrico) y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué importa de verdad en un mouse gamer (y qué es humo)`, id: "que-mirar" },
+      { type: "p", content: `Lo primero que hay que desarmar es el **mito del DPI**. Los DPI miden cuánto se mueve el cursor por cada centímetro que movés el mouse, y las marcas compiten a ver quién pone el número más grande: 8.000, 25.600, 44.000. La realidad: los jugadores profesionales usan entre **400 y 1.600 DPI**. Nadie juega a 44.000. Un DPI máximo alto no hace mejor a un mouse; lo que hace bueno a un sensor es que **no acelere, no suavice ni filtre** el movimiento, para que el cursor haga exactamente lo que hizo tu mano.` },
+      { type: "p", content: `Lo segundo es el **peso**: un mouse liviano (60 a 85 gramos) cansa menos y permite correcciones más rápidas en shooters; uno más pesado da sensación de control en juegos lentos o trabajo. Lo tercero, la **conexión**: el viejo miedo al lag inalámbrico murió hace años con tecnologías como Lightspeed de Logitech (1 milisegundo, igual que el cable). Hoy el cable se elige por precio, no por velocidad.` },
+      { type: "p", content: `Y un dato que sorprende: **los mouse tope de gama no tienen luces RGB**. El Superlight 2, el G309 y el G305 vienen sin iluminación a propósito, porque las luces suman peso y gastan batería. El RGB abunda en la gama de entrada, donde es un lindo extra; en la gama alta, se sacrifica por rendimiento. Si un vendedor te vende "más luces = más gamer", ya sabés que es al revés.` },
+
+      { type: "h2", title: `Los mejores mouse gamer 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Logitech G203 Lightsync — el más vendido` },
+      { type: "product-card", productMlaId: "MLA44849297", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, sensor de 8.000 DPI, 85 gramos y RGB. 4.9 estrellas en más de 16.000 calificaciones: el mouse gamer más vendido del país, por lejos.` },
+      { type: "p", content: `Si querés un solo dato para decidir, es este: el G203 tiene **más de 16.000 calificaciones con 4.9 estrellas**, el mejor respaldo de toda la categoría. Es con cable (2,1 metros), pesa 85 gramos, tiene 6 botones programables, RGB Lightsync y un sensor de 8.000 DPI que sobra para cualquier juego. Se consigue desde unos $38.600 (el precio varía bastante entre vendedores), con 2 años de garantía de Logitech.` },
+      { type: "p", content: `¿La contra? Casi ninguna a este precio: es un mouse de entrada, así que no tiene el sensor premium ni el peso pluma de los caros, y el formato es compacto (las manos muy grandes pueden preferir algo más alto). Pero para jugar, trabajar y todo lo del medio, es la compra más segura de la guía. Sirve igual de bien para diseño o para el uso diario.` },
+      { type: "pull-quote", content: `"No hay nada que se le acerque en relación calidad/precio. Si estás dudando, no dudes más y compralo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Logitech G305 Lightspeed — el mejor inalámbrico` },
+      { type: "product-card", productMlaId: "MLA11259955", label: "El mejor inalámbrico", labelColor: "blue", ranking: 2, description: `Inalámbrico Lightspeed con sensor HERO de 12.000 DPI y 250 horas de batería con una pila AA. 4.8 estrellas en más de 12.000 calificaciones.` },
+      { type: "p", content: `El G305 es el inalámbrico más vendido de Argentina y un clásico con fama de indestructible. Su conexión **Lightspeed** responde en 1 milisegundo (en la práctica, igual que un cable), el sensor **HERO** no acelera ni suaviza el movimiento, y la batería es de otra época: **una pila AA común que dura hasta 250 horas** de juego. Se te acaba, ponés otra y seguís; nada de andar enchufando cables a mitad de partida.` },
+      { type: "p", content: `Lo honesto: pesa 99 gramos (la pila suma), no tiene RGB (solo un LED de estado) y no tiene Bluetooth, solo el receptor USB. Se consigue desde unos $56.000 (mirá bien entre vendedores, los precios varían) y es el salto natural desde el G203 para quien quiere cortar el cable sin pagar precio premium.` },
+      { type: "pull-quote", content: `"Inalámbrico, excelente sensor, peso liviano, confiable. El mouse del pueblo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Redragon Centrophorus M601 RGB — el más barato con respaldo` },
+      { type: "product-card", productMlaId: "MLA17743447", label: "El más barato", labelColor: "amber", ranking: 3, description: `Con cable, sensor Pixart de 7.200 DPI, RGB configurable y kit de 8 pesas para regular el peso. 4.8 estrellas en más de 2.600 calificaciones.` },
+      { type: "p", content: `Si el presupuesto manda, el M601 es el más barato de la guía con ventas reales que lo respalden (más de 2.600 opiniones). Desde unos $26.500 trae un sensor Pixart 3317 de hasta 7.200 DPI, RGB configurable por software y algo que ni los Logitech de esta lista tienen: un **kit de 8 pesas de 2,4 gramos** para regular el peso a gusto, de 85 a 104 gramos. Los switches están certificados para 10 millones de clicks.` },
+      { type: "p", content: `Las contras honestas: **suele venir sin envío gratis** (sumalo a la cuenta al comparar), y con las pesas puestas es un mouse pesado, pensado más para control que para velocidad. Para empezar en el gaming o renovar un mouse de oficina gastando lo mínimo, cumple con creces.` },
+      { type: "pull-quote", content: `"Muy cómodo a la mano, y eso que tengo manos grandes. Viene con los pesitos abajo y podés controlar el RGB con el programa del mouse."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Logitech G309 Lightspeed — el sucesor moderno` },
+      { type: "product-card", productMlaId: "MLA40568693", label: "El sucesor del G305", labelColor: "blue", ranking: 4, description: `Inalámbrico dual (Lightspeed y Bluetooth), sensor HERO 25K y más de 300 horas con una pila AA. 4.9 estrellas. El G305 modernizado.` },
+      { type: "p", content: `El G309 es lo que Logitech aprendió del G305 en una versión moderna: sensor **HERO 25K** (el mismo de los modelos premium), conexión dual **Lightspeed y Bluetooth** (podés alternar entre la PC y una notebook o tablet), switches óptico-mecánicos que no desarrollan doble click con el desgaste, y más de **300 horas** de batería por Lightspeed (o 600 por Bluetooth), siempre con una pila AA. Además es más liviano que el G305: 86 gramos con la pila puesta.` },
+      { type: "p", content: `Las contras, directas de las reseñas: consume la pila algo más rápido que el G305 en uso real, y el formato es **más chico y chato**, así que si tenés manos grandes puede resultar poco anatómico. Se consigue desde unos $73.400, y es la mejor compra inalámbrica actual si tu mano es chica o mediana.` },
+      { type: "pull-quote", content: `"Vengo del G305 y la mejora es notable: más livianito y cómodo. Lo único malo es que consume más pila, pero aun así lo recomiendo totalmente."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `5. Logitech G Pro Wireless — el clásico de e-sports` },
+      { type: "product-card", productMlaId: "MLA14428767", label: "Clásico de e-sports", labelColor: "purple", ranking: 5, description: `Inalámbrico de 80 gramos con sensor HERO 25K, batería recargable de 60 horas y botones laterales intercambiables (apto zurdos). 4.8 estrellas.` },
+      { type: "p", content: `El G Pro Wireless fue diseñado junto a jugadores profesionales y envejeció como un clásico: 80 gramos, sensor HERO 25K, batería **recargable** de 60 horas (48 si prendés el RGB) y una rareza valiosa: los **botones laterales son intercambiables** entre ambos lados, así que es de los pocos mouse gamer serios **aptos para zurdos**.` },
+      { type: "p", content: `Desde unos $141.000, hoy queda en un lugar incómodo: cuesta el doble que el G309 (que tiene el mismo sensor) sin ser el tope de gama. Lo elegís si necesitás la forma ambidiestra, la batería recargable o lo encontrás en oferta. Si no, el G309 por abajo o el Superlight 2 por arriba tienen más sentido.` },
+
+      { type: "h3", title: `6. Logitech PRO X Superlight 2 — el de los profesionales` },
+      { type: "product-card", productMlaId: "MLA28598537", label: "Tope de gama", labelColor: "purple", ranking: 6, description: `Ultraliviano de 60 gramos con sensor HERO 2 de 44.000 DPI, polling de 8.000 Hz y batería recargable USB-C de unas 95 horas. El que usan los profesionales.` },
+      { type: "p", content: `El Superlight 2 es el mouse que domina los torneos de shooters, y el porqué se siente apenas lo agarrás: **60 gramos**, un tercio menos que un mouse común. Sensor HERO 2 (el mejor de Logitech), tasa de respuesta de hasta **8.000 Hz** (ocho veces la estándar), batería recargable por USB-C de unas 95 horas y switches ópticos. Sin RGB, a propósito: cada gramo cuenta.` },
+      { type: "p", content: `Se consigue desde unos $288.500, y esa es toda la discusión: para el jugador casual es plata tirada, porque la diferencia con un G305 no le va a cambiar ninguna partida. Para el competitivo que juega en serio todos los días, es de las pocas compras premium que se justifican de verdad. Vos sabés de qué lado estás.` },
+      { type: "pull-quote", content: `"El mejor mouse que tuve en mi vida. Si podés pagarlo, vale 100% la pena."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: sensor, peso, batería y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio desde`, `Conexión`, `Peso`, `Ideal para`], rows: [
+        [`[Redragon M601 RGB](https://meli.la/2rXZqbu)`, `$26.500`, `Cable`, `85-104 g (pesas)`, `El más barato con respaldo`],
+        [`[Logitech G203](https://meli.la/2EEbq8S)`, `$38.599`, `Cable`, `85 g`, `El más vendido, compra segura`],
+        [`[Logitech G305](https://meli.la/1dDyCA3)`, `$56.099`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
+        [`[Logitech G309](https://meli.la/26ynmBo)`, `$73.399`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
+        [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `$140.923`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
+        [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `$288.469`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu mouse gamer`, id: "como-elegir" },
+      { type: "h3", title: `1. Cable o inalámbrico (el lag ya no es excusa)` },
+      { type: "p", content: `Con cable es más barato y nunca te quedás sin batería: el G203 y el M601 resuelven así la gama de entrada. Inalámbrico te libera el escritorio, y con Lightspeed la respuesta es de 1 milisegundo, indistinguible del cable incluso en competitivo. La decisión hoy es de presupuesto y comodidad, no de rendimiento. Si vas inalámbrico, mirá la batería: pila AA que dura meses (G305, G309) o recargable que enchufás cada tanto (G Pro, Superlight).` },
+      { type: "h3", title: `2. El peso y el tamaño de tu mano` },
+      { type: "p", content: `Para shooters y juegos rápidos, cuanto más liviano mejor: 60 a 85 gramos permiten correcciones veloces y cansan menos la muñeca. Para estrategia, MMO o trabajo, un mouse con más cuerpo (como el M601 con pesas) da sensación de control. Y el tamaño importa: el G309 es chico y chato (ideal mano chica o agarre de dedos), el G203 compacto, el G Pro Wireless más universal. Si tenés manos grandes, evitá los formatos mini.` },
+      { type: "h3", title: `3. No pagues por DPI, pagá por sensor` },
+      { type: "p", content: `Regla del curador: entre dos mouse, no elijas el de más DPI, elegí el de mejor sensor. Un HERO o un Pixart moderno sin aceleración a 1.600 DPI le gana a un sensor genérico de "12.800 DPI" siempre. Los DPI gigantes (25.600, 44.000) existen porque el sensor es bueno, no al revés. Y las luces RGB: lindas en la gama de entrada, ausentes en la gama pro. Que no te las cobren como rendimiento.` },
+
+      { type: "h2", title: `Cuánto cuesta un mouse gamer en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$26.500 a $39.000:** la gama de entrada con respaldo real. El [Redragon M601](https://meli.la/2rXZqbu) (el más barato, con pesas regulables) y el [Logitech G203](https://meli.la/2EEbq8S) (el más vendido del país).`,
+        `**$56.000 a $74.000:** los inalámbricos que convienen. El [G305](https://meli.la/1dDyCA3) (el clásico) y el [G309](https://meli.la/26ynmBo) (el moderno con Bluetooth y sensor premium).`,
+        `**$140.000 o más:** la gama de e-sports. El [G Pro Wireless](https://meli.la/2HqvQqv) (apto zurdos) y el [PRO X Superlight 2](https://meli.la/2ZRDxvS) (60 gramos, el de los profesionales).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál mouse gamer comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Logitech G203**: el más vendido del país, con 2 años de garantía y un precio que no da lugar a dudas. Si querés **cortar el cable**, el **G305** es el clásico confiable y el **G309** su versión moderna (mejor sensor y Bluetooth, ideal mano chica). Con **presupuesto mínimo**, el **Redragon M601** cumple de sobra. Y si jugás **competitivo en serio**, el **PRO X Superlight 2** es el único de la lista donde pagar caro tiene sentido. El error a evitar: elegir por número de DPI o por luces RGB; eso es marketing, no rendimiento.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor mouse gamer en Argentina?`, answer: `Por ventas y respaldo, el [Logitech G203](https://meli.la/2EEbq8S): más de 16.000 calificaciones con 4.9 estrellas, con cable y a buen precio. En inalámbricos, el [G305](https://meli.la/1dDyCA3) es el más vendido y el [G309](https://meli.la/26ynmBo) el más moderno. Para competitivo profesional, el [PRO X Superlight 2](https://meli.la/2ZRDxvS); y con presupuesto mínimo, el [Redragon M601](https://meli.la/2rXZqbu).` },
+      { question: `¿Cuántos DPI necesita un mouse gamer?`, answer: `Muchos menos de los que venden: los jugadores profesionales usan entre 400 y 1.600 DPI, y casi nadie pasa de 3.200. Los números gigantes de la caja (25.600, 44.000) son capacidad máxima del sensor, no algo que vayas a usar. Lo que importa es que el sensor no acelere ni suavice el movimiento, como los HERO de Logitech o los Pixart modernos.` },
+      { question: `¿Mouse gamer con cable o inalámbrico?`, answer: `Hoy es cuestión de presupuesto, no de rendimiento: los inalámbricos con tecnología Lightspeed responden en 1 milisegundo, igual que un cable, incluso para competitivo. El cable sigue siendo más barato ([G203](https://meli.la/2EEbq8S)) y nunca se queda sin batería; el inalámbrico ([G305](https://meli.la/1dDyCA3), [G309](https://meli.la/26ynmBo)) te libera el escritorio. El viejo miedo al lag inalámbrico quedó obsoleto.` },
+      { question: `¿Cuánto dura la batería de un mouse gamer inalámbrico?`, answer: `Depende del sistema. Los de pila AA duran meses: el [G305](https://meli.la/1dDyCA3) declara 250 horas de uso y el [G309](https://meli.la/26ynmBo) más de 300 (hasta 600 por Bluetooth). Los recargables duran menos por carga pero no gastás en pilas: el G Pro Wireless ronda las 60 horas y el [Superlight 2](https://meli.la/2ZRDxvS) unas 95, cargando por USB-C.` },
+      { question: `¿Por qué los mouse gamer más caros no tienen luces RGB?`, answer: `Porque las luces suman peso y gastan batería, y en la gama alta cada gramo cuenta. El PRO X Superlight 2, el G309 y el G305 vienen sin RGB a propósito: priorizan sensor, peso y autonomía. El RGB abunda en la gama de entrada, donde es un lindo extra visual. Si un mouse se vende por sus luces, mirá dos veces el sensor.` },
+      { question: `¿Sirve un mouse gamer para trabajar y estudiar?`, answer: `Sí, y suele ser mejor que un mouse de oficina común: más precisión, mejor construcción y botones extra programables para atajos. Un [G203](https://meli.la/2EEbq8S) o un [G305](https://meli.la/1dDyCA3) rinden perfecto para diseño, planillas y uso diario. La única contra posible es el RGB en oficinas formales, y justamente varios modelos de esta guía no tienen luces.` },
+    ],
+    internalLinks: [
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────

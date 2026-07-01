@@ -68,6 +68,8 @@ Estado **previo** a la primera tanda de optimización del 2026-06-26.
 
 **Silo cocina (nuevo, STAGED — sin publicar, 2026-06-28):** 7 guías creadas y optimizadas el mismo día con investigación de fabricante (potencia de salida real vs consumo, garantías, convección confirmada, temperatura máx, dimensiones) ANTES de publicar: `microondas`, `horno-electrico`, `horno-electrico-vs-microondas`, `microondas-bgh`, `microondas-atma`, `horno-atma`, `robot-de-cocina`. Todas con `publishedDate: 2026-09-01` (ocultas hasta que Google procese las tandas anteriores). **Sin baseline GSC todavía** (nunca estuvieron en vivo). Optimización: seoTitles 52-54 car. con keyword al inicio, metas ≤155, fichas con datos técnicos verificados de fabricante y garantías. Correcciones factuales de la investigación: el BGH 65L NO pide toma de 20A (la ficha oficial dice 10A; el 20A era de otro modelo), el BGH 23L SÍ tiene grill, el "1500W" del BGH 28L es consumo (salida real 900W), Smartlife tiene 2 años de garantía (diferenciador), LG da 10 años al magnetrón. Medir una vez publicadas + crawleadas.
 
+**mouse-gamer (creada 2026-07-01, STAGED):** guía nueva del silo gaming, creada con la skill en modo CREAR y specs verificadas contra fabricante (Logitech/Redragon: sensor, DPI real, peso, batería, garantía). Sin baseline (nunca publicada); `publishedDate: 2026-09-01`. Keyword "mouse gamer" (4.400/mes, KD 19). Medir desde el día uno cuando se publique con el resto del silo gaming. Recordatorio al publicar: restaurar los internalLinks de `silla-gamer` hacia los satélites gaming.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---

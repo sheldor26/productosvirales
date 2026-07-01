@@ -65,6 +65,20 @@
 | Corsair K65 Mini (60%) | MLA21361481 | Corsair | 23 | $154.514 | meli.la/2DMph9S | pendiente — premium 60% / marca Corsair (pocas reseñas) |
 | HyperX Alloy Origins 60 (MLAU) | MLAU121305368 | HyperX | 16 | $135.399 | meli.la/1yVuKEE | pendiente — premium 60% / HyperX (pocas reseñas) |
 
+## Gaming — Mouse gamer
+
+> Guía `mouse-gamer` creada (STAGED 2026-09-01). Hallazgo del research: en mouse, Logitech domina las ventas reales de ML AR por paliza (Razer/Corsair/HyperX casi sin reseñas en catálogos activos). **Pendiente al publicar el resto del silo gaming: restaurar los internalLinks de `silla-gamer`** (se quitaron al publicarla el 2026-07-01 para no enlazar a guías ocultas).
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Logitech G203 Lightsync | MLA44849297 | Logitech G | 16416 | $38.599 | meli.la/2EEbq8S | **usado** en `mouse-gamer` (#1) |
+| Logitech G305 Lightspeed negro | MLA11259955 | Logitech G | 12362 | $56.099 | meli.la/1dDyCA3 | **usado** en `mouse-gamer` (#2) |
+| Redragon Centrophorus M601-RGB | MLA17743447 | Redragon | 2685 | $26.500 | meli.la/2rXZqbu | **usado** en `mouse-gamer` (#3) |
+| Logitech G309 Lightspeed | MLA40568693 | Logitech G | 263 | $73.399 | meli.la/26ynmBo | **usado** en `mouse-gamer` (#4) |
+| Logitech G Pro Wireless | MLA14428767 | Logitech G | 185 | $140.923 | meli.la/2HqvQqv | **usado** en `mouse-gamer` (#5) |
+| Logitech PRO X Superlight 2 | MLA28598537 | Logitech G | 101 | $288.469 | meli.la/2ZRDxvS | **usado** en `mouse-gamer` (#6) |
+| Logitech G305 menta (variante) | MLA35719376 | Logitech G | 640 | $60.493 | (sin link aún) | pendiente — variante color del #2 |
+
 ## Gaming — Kits gamer (teclado + mouse)
 
 > Ángulo propio futuro: guía "kit gamer: cuál comprar" (combo teclado+mouse, conviene para armar el setup de una).
