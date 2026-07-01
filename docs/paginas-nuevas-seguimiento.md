@@ -20,6 +20,10 @@ Las 14 de abajo ya están **en vivo** y listas para pedir indexación. Con DA ba
 12. [ ] `suono-airfryer-review` — 880/mes
 13. [ ] `que-cafetera-comprar` — 90/mes · pilar de decisión (poco volumen propio, mucho valor de enlazado)
 14. [ ] `freidora-de-aire-desventajas` — 10/mes · captura de cola larga
+15. [x] `climatizacion/estufas-electricas` — pilar, indexación pedida 2026-07-01
+16. [x] `climatizacion/estufa-electrica-bajo-consumo` — indexación pedida 2026-07-01
+17. [x] `climatizacion/caloventor` — indexación pedida 2026-07-01
+18. [x] `gaming/silla-gamer` — pilar, indexación pedida 2026-07-01
 
 > Regla práctica: una URL cada 1-2 días. Mandar todas juntas en un dominio con autoridad baja es la señal que hace que Google dude en indexar.
 
@@ -86,3 +90,21 @@ Keywords: cafetera italiana 27.100/mes (Volturno por pocillos, aluminio/inducci�
 | Keyword | Volumen/mes | Estado |
 |---|---|---|
 | cafetera philips | 2.400 | **No viable.** Philips no tiene cafeteras con ofertas activas en MercadoLibre Argentina (líneas Senseo / Comfort / Saeco discontinuadas, todas sin stock). Sin producto real para anclar, no se puede escribir con datos honestos. Revisar en el futuro por si reaparece stock. |
+
+## Silo: climatización
+
+| URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
+|---|---|---|---|---|---|---|
+| https://productosvirales.com.ar/guias/climatizacion/estufas-electricas | Alta | 2026-07-01 | 2026-07-01 | — | — | — |
+| https://productosvirales.com.ar/guias/climatizacion/estufa-electrica-bajo-consumo | Media | 2026-07-01 | 2026-07-01 | — | — | — |
+| https://productosvirales.com.ar/guias/climatizacion/caloventor | Media | 2026-07-01 | 2026-07-01 | — | — | — |
+
+Silo completo (pilar + 2 satélites), enlazado entre sí. Estado: **publicadas 2026-07-01**.
+
+## Silo: gaming
+
+| URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
+|---|---|---|---|---|---|---|
+| https://productosvirales.com.ar/guias/gaming/silla-gamer | Alta | 2026-07-01 | 2026-07-01 | — | — | — |
+
+Pilar publicado standalone (5 productos, ticket alto). Satélites `auriculares-gamer` y `teclado-gamer` ya están escritos pero siguen STAGED — al publicarlos, reponer los internalLinks cruzados en `silla-gamer`. Estado: **publicada 2026-07-01**.
