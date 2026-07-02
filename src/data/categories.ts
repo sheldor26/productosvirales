@@ -84,6 +84,52 @@ export const categories: Category[] = [
     `,
   },
   {
+    slug: "gaming",
+    name: "Gaming",
+    icon: "Gamepad2",
+    pastel: "var(--color-pastel-blue)",
+    h1: "Setup Gamer: lo mejor en MercadoLibre Argentina",
+    description: "Mouse, teclados, sillas, monitores y auriculares para armar tu setup",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Mouse y teclados gamer de Logitech, Redragon y Razer, monitores curvos de alta tasa de refresco (Samsung Odyssey, Xiaomi, Gigabyte), sillas ergonómicas (Alpina, Cougar, Corsair) y auriculares con sonido envolvente para competitivo. Es la categoría con más variedad de precio del sitio: desde un mouse de $26.000 hasta un monitor curvo de casi $1.000.000.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Tasa de refresco (monitores):</strong> para juegos competitivos (shooters) buscá mínimo 144Hz. Para uso general o juegos de historia, 100Hz alcanza y sobra.</li>
+        <li><strong>Sensor del mouse:</strong> los sensores ópticos de Logitech (HERO) y Razer son los más consistentes. Desconfiá de mouse "gamer" sin marca que prometen 16.000 DPI — casi nunca los usás realmente.</li>
+        <li><strong>Switch del teclado:</strong> mecánico rojo (lineal, silencioso) para juegos rápidos, azul (clicky) si te gusta el feedback pero es ruidoso para compartir ambiente.</li>
+        <li><strong>Sillas — capacidad de peso y garantía:</strong> fijate el peso máximo soportado (suele estar en la ficha) y si la garantía cubre el mecanismo de reclinado, que es lo primero que falla.</li>
+      </ul>
+
+      <h2>Rangos de precios típicos</h2>
+      <p>Mouse gamer: entrada <strong>$26.000-$40.000</strong>, gama media Logitech G <strong>$56.000-$140.000</strong>, alta gama (Pro X Superlight) <strong>$280.000+</strong>. Teclados mecánicos: <strong>$62.000-$140.000</strong>. Auriculares gamer: <strong>$40.000-$150.000</strong>, inalámbricos de gama alta <strong>$150.000-$210.000</strong>. Sillas gamer: entrada <strong>$140.000-$260.000</strong>, gama alta (Cougar, Corsair) <strong>$380.000-$790.000</strong>. Monitores curvos: <strong>$140.000-$365.000</strong> en FHD/QHD, ultrawide 34" desde <strong>$550.000</strong>. Si el presupuesto es ajustado, priorizá teclado y mouse antes que la silla — el impacto en cómo jugás es mayor.</p>
+    `,
+  },
+  {
+    slug: "audio",
+    name: "Audio",
+    icon: "Headphones",
+    pastel: "var(--color-pastel-blue)",
+    h1: "Parlantes y Auriculares Virales",
+    description: "Parlantes portátiles JBL, auriculares Sony, Xiaomi y de estudio Audio-Technica",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Parlantes portátiles JBL (Go, Flip, Charge, Boombox) y alternativas como Stromberg y Xiaomi, auriculares inalámbricos deportivos y de uso diario (Sony, Xiaomi Redmi Buds, Samsung Galaxy Buds), y auriculares de estudio para monitoreo (Audio-Technica ATH-M series, Sennheiser HD 280 Pro). Cubre desde el parlante de mesa de luz hasta el auricular cerrado que usa un editor de audio.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Resistencia al agua (parlantes):</strong> buscá el código IPX. IPX5 o más aguanta salpicaduras y lluvia liviana; para pileta directamente necesitás IPX7.</li>
+        <li><strong>Autonomía real:</strong> la batería declarada en la ficha suele ser con volumen medio. En uso real (volumen alto, afuera) calculá 20-30% menos horas.</li>
+        <li><strong>Auriculares de estudio vs consumo:</strong> los Audio-Technica M-series son "flat" (sonido neutro, sin graves exagerados) — ideales para mezclar audio, pero suenan "aburridos" si buscás algo bien bass-heavy para escuchar música.</li>
+        <li><strong>Bluetooth vs cable:</strong> para monitoreo profesional siempre cable (sin latencia). Para uso diario, Bluetooth 5.0+ ya anda bien sin cortes.</li>
+      </ul>
+
+      <h2>Rangos de precios típicos</h2>
+      <p>Parlantes portátiles chicos (JBL Go, Xiaomi Pocket): <strong>$33.000-$57.000</strong>. Gama media (JBL Flip, Stromberg): <strong>$80.000-$180.000</strong>. Gama alta (JBL Charge, Boombox): <strong>$250.000-$625.000</strong>. Auriculares inalámbricos de uso diario: <strong>$23.000-$80.000</strong>, gama alta (Galaxy Buds Pro) <strong>$330.000</strong>. Auriculares de estudio Audio-Technica: entrada <strong>$135.000-$157.000</strong>, gama alta (ATH-M50x) <strong>$317.000</strong>. Para uso diario no hace falta ir a gama de estudio — esa plata rinde más en un buen inalámbrico.</p>
+    `,
+  },
+  {
     slug: "belleza",
     name: "Belleza",
     icon: "Heart",

@@ -6,7 +6,8 @@ import {
   Smartphone,
   Home,
   ChefHat,
-  Zap,
+  Gamepad2,
+  Headphones,
   LayoutGrid,
   type LucideIcon,
 } from "lucide-react";
@@ -26,8 +27,9 @@ const tabs: CategoryTab[] = [
   { slug: "hogar", label: "Hogar", icon: Home },
   { slug: "cocina", label: "Cocina", icon: ChefHat },
   { slug: "tech", label: "Tech", icon: Smartphone },
+  { slug: "gaming", label: "Gaming", icon: Gamepad2 },
+  { slug: "audio", label: "Audio", icon: Headphones },
   { slug: "belleza", label: "Belleza", icon: Heart },
-  { slug: "gadgets", label: "Gadgets", icon: Zap },
 ];
 
 interface CategoryTabsProps {

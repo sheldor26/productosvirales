@@ -1,18 +1,17 @@
 "use client";
 
 import Link from "next/link";
-import { X, Flame, Heart, Smartphone, Home, Dumbbell, ShoppingBag, ChefHat, Zap } from "lucide-react";
+import { X, Flame, Heart, Smartphone, Home, Gamepad2, Headphones, ChefHat } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navCategories = [
   { slug: "viral", label: "Viral ahora", icon: Flame, color: "#ef4444" },
-  { slug: "belleza", label: "Belleza", icon: Heart },
-  { slug: "tech", label: "Tech", icon: Smartphone },
   { slug: "hogar", label: "Hogar", icon: Home },
-  { slug: "fitness", label: "Fitness", icon: Dumbbell },
-  { slug: "moda", label: "Moda", icon: ShoppingBag },
   { slug: "cocina", label: "Cocina", icon: ChefHat },
-  { slug: "gadgets", label: "Gadgets", icon: Zap },
+  { slug: "tech", label: "Tech", icon: Smartphone },
+  { slug: "gaming", label: "Gaming", icon: Gamepad2 },
+  { slug: "audio", label: "Audio", icon: Headphones },
+  { slug: "belleza", label: "Belleza", icon: Heart },
 ];
 
 interface MobileNavProps {

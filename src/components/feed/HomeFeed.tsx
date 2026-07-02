@@ -5,6 +5,8 @@ import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { getRotatedVisibleProducts } from "@/lib/products";
 
+const PAGE_SIZE = 12;
+
 function normalize(str: string): string {
   return str
     .toLowerCase()
@@ -27,6 +29,16 @@ export function HomeFeed({ seed, initialQuery = "" }: HomeFeedProps) {
   const searchQuery = initialQuery;
 
   const [activeCategory, setActiveCategory] = useState("todos");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+
+  // Volver a la primera página cuando cambia la categoría o la búsqueda,
+  // ajustando el estado durante el render en vez de un useEffect aparte.
+  const [pageResetKey, setPageResetKey] = useState(`${activeCategory}|${searchQuery}`);
+  const currentKey = `${activeCategory}|${searchQuery}`;
+  if (currentKey !== pageResetKey) {
+    setPageResetKey(currentKey);
+    setVisibleCount(PAGE_SIZE);
+  }
 
   const allVisible = useMemo(() => getRotatedVisibleProducts(seed), [seed]);
 
@@ -58,8 +70,9 @@ export function HomeFeed({ seed, initialQuery = "" }: HomeFeedProps) {
     hogar: "Hogar",
     cocina: "Cocina",
     tech: "Tech",
+    gaming: "Gaming",
+    audio: "Audio y Auriculares",
     belleza: "Belleza",
-    gadgets: "Gadgets",
   };
 
   const title = searchQuery.trim()
@@ -74,6 +87,9 @@ export function HomeFeed({ seed, initialQuery = "" }: HomeFeedProps) {
         ? "Los productos que están volando en MercadoLibre"
         : `Los mejores productos de ${titleMap[activeCategory] || activeCategory}`;
 
+  const pagedProducts = filteredProducts.slice(0, visibleCount);
+  const hasMore = visibleCount < filteredProducts.length;
+
   return (
     <>
       {!searchQuery.trim() && (
@@ -84,10 +100,22 @@ export function HomeFeed({ seed, initialQuery = "" }: HomeFeedProps) {
       )}
 
       <ProductGrid
-        products={filteredProducts}
+        products={pagedProducts}
         title={title}
         subtitle={subtitle}
       />
+
+      {hasMore && (
+        <div className="mt-6 flex justify-center">
+          <button
+            type="button"
+            onClick={() => setVisibleCount((c) => c + PAGE_SIZE)}
+            className="px-6 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--bg-secondary)] text-[var(--text-primary)] hover:bg-[var(--border)] transition-colors cursor-pointer"
+          >
+            Cargar más productos
+          </button>
+        </div>
+      )}
     </>
   );
 }
