@@ -8585,7 +8585,7 @@ El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de l
     id: "MLA47305608",
     title: "Parlante Portátil 2 en 1 Stromberg Mega Twin Ipx4 Bluetooth Verde lima Usb-c",
     canonicalName: "Parlante Stromberg Mega Twin",
-    price: 182650,
+    price: 167143,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_936673-MLA95680310974_102025-F.jpg",
     images: [
@@ -8594,14 +8594,19 @@ El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de l
     ],
     category: "Audio",
     categorySlug: "audio",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA47305608",
-    affiliateUrl: "https://meli.la/1ER2XeX",
+    // RESPALDO: el catalogo original /p/MLA47305608 murio (sin vendedores). Re-apuntado al
+    // catalogo alternativo /up/MLAU4175865451 (mismo producto, vivo). Links originales:
+    //   permalink original: https://www.mercadolibre.com.ar/p/MLA47305608
+    //   afiliado original:  https://meli.la/1ER2XeX
+    // Cuando el catalogo original se rehabilite, volver a esos dos y descartar el alternativo.
+    permalink: "https://www.mercadolibre.com.ar/parlante-stromberg-megatwin-2-en-1-20w-verde/up/MLAU4175865451",
+    affiliateUrl: "https://meli.la/32q5dMs",
     condition: "new",
     freeShipping: true,
     rating: 4.8,
     reviewCount: 239,
     pastelColor: "var(--pastel-azul)",
-    visibility: "deprioritized",
+    visibility: "normal",
     specs: [
       { label: "Tipo", value: "Parlante 2 en 1 grande (par que se separa)" },
       { label: "Resistencia", value: "IPX4 (salpicaduras)" },
@@ -8617,9 +8622,9 @@ El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de l
       { label: "Peso", value: "1,65 kg" },
     ],
     relatedProducts: ["MLA55886611", "MLA42652282"],
-    priceUpdated: "2026-06-26",
+    priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
-    priceStatus: "out_of_stock",
+    priceStatus: "fresh",
     description: "Parlante Stromberg Mega Twin: la versión grande del 2 en 1, más potencia para un ambiente, IPX4 y carga USB-C. Más de 200 calificaciones.",
     seoTitle: "Stromberg Mega Twin: opinión del parlante 2 en 1 de 20W",
     metaDescription: "Parlante Stromberg Mega Twin 2 en 1: 20W RMS, IPX4 y luces RGB. Para quien quiere sonido estéreo separable en casa o patio. Mirá la pega real antes de comprar.",
