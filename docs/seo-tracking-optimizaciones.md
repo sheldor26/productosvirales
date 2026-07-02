@@ -70,6 +70,8 @@ Estado **previo** a la primera tanda de optimización del 2026-06-26.
 
 **mouse-gamer (creada 2026-07-01, STAGED):** guía nueva del silo gaming, creada con la skill en modo CREAR y specs verificadas contra fabricante (Logitech/Redragon: sensor, DPI real, peso, batería, garantía). Sin baseline (nunca publicada); `publishedDate: 2026-09-01`. Keyword "mouse gamer" (4.400/mes, KD 19). Medir desde el día uno cuando se publique con el resto del silo gaming. Recordatorio al publicar: restaurar los internalLinks de `silla-gamer` hacia los satélites gaming.
 
+**monitor-gamer (creada 2026-07-01, STAGED):** guía nueva que cierra el contenido core del silo gaming (skill en modo CREAR, specs verificadas contra fabricante: panel, Hz reales, puertos, curvatura). Sin baseline (nunca publicada); `publishedDate: 2026-09-01`. Keyword "monitor gamer" (3.600/mes, KD 11). Correcciones del research: CRG5 es 4ms GtG y 1800R (no 1ms/1000R), G5 del catálogo ML = LS27AG550 (165Hz por DP confirmado), Gigabyte es "HDR Ready" (no HDR10 certificado), y el Philips más vendido es 75Hz de oficina (presentado honesto). Medir desde el día uno cuando se publique el silo.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---

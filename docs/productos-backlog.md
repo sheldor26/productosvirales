@@ -79,6 +79,21 @@
 | Logitech PRO X Superlight 2 | MLA28598537 | Logitech G | 101 | $288.469 | meli.la/2ZRDxvS | **usado** en `mouse-gamer` (#6) |
 | Logitech G305 menta (variante) | MLA35719376 | Logitech G | 640 | $60.493 | (sin link aún) | pendiente — variante color del #2 |
 
+## Gaming — Monitores gamer
+
+> Guía `monitor-gamer` creada (STAGED 2026-09-01), cierra el contenido core del silo gaming. Specs verificadas contra fabricante (Samsung/Noblex/Philips/Xiaomi/Gigabyte). Hallazgos: varios modelos dan sus Hz máximos SOLO por DisplayPort (HDMI topea); el G3 viene en 60 Hz de fábrica; el Philips 24 (el monitor más vendido del país) es 75 Hz de oficina, no gamer (presentado honesto en la guía).
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Philips 241V8L 24" 75Hz | MLA43960948 | Philips | 2546 | $159.099 | meli.la/2LPpSwK | **usado** en `monitor-gamer` (#4) |
+| Samsung Odyssey CRG5 24" curvo 144Hz | MLA43961816 | Samsung | 1557 | $365.999 | meli.la/21rUoNn | **usado** en `monitor-gamer` (#2) |
+| Noblex NXSM2200 22" 100Hz | MLA45717136 | Noblex | 842 | $141.899 | meli.la/2AMGgvB | **usado** en `monitor-gamer` (#5) |
+| Noblex NXSM2700 27" IPS 100Hz | MLA45717120 | Noblex | 739 | $223.199 | meli.la/17HaY3a | **usado** en `monitor-gamer` (#3) |
+| Gigabyte GS34WQC 34" UW curvo | MLA28853185 | Gigabyte | 127 | $919.599 | meli.la/2VotvC2 | **usado** en `monitor-gamer` (#8) |
+| Samsung Odyssey G3 G30D 24" 180Hz | MLA63267892 | Samsung | 107 | $244.361 | meli.la/2NmTqzr | **usado** en `monitor-gamer` (#1) |
+| Xiaomi G34WQi 34" UW curvo 180Hz | MLA43960787 | Xiaomi | 57 | $629.999 | meli.la/1MQkxTt | **usado** en `monitor-gamer` (#7) |
+| Samsung Odyssey G5 27" QHD 165Hz (G55A) | MLA43960827 | Samsung | 25 | $554.413 | meli.la/11Frg3T | **usado** en `monitor-gamer` (#6) |
+
 ## Gaming — Kits gamer (teclado + mouse)
 
 > Ángulo propio futuro: guía "kit gamer: cuál comprar" (combo teclado+mouse, conviene para armar el setup de una).

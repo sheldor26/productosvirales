@@ -1187,6 +1187,138 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
+  // SATÉLITE monitor-gamer — silo gaming — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "monitor-gamer",
+    category: "gaming",
+    silo: "gaming",
+    title: `Monitor gamer: cuál comprar en Argentina [2026]`,
+    seoTitle: `Monitor Gamer: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Descubrí qué monitor gamer comprar en Argentina: Hz reales, panel VA o IPS, de 22 a 34 pulgadas y cuál conviene. Samsung, Noblex, Xiaomi y más.`,
+    ogTitle: `Monitor gamer: cuál comprar en Argentina`,
+    ogDescription: `Del 24 más vendido al ultrawide de 34. Samsung, Noblex, Philips, Xiaomi y Gigabyte comparados por Hz reales, panel y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_651661-MLA101215783396_122025-F.jpg`,
+    h1: `Monitor gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-01",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Un monitor gamer va de $142.000 a más de $900.000, y la diferencia real está en tres cosas: los hercios (Hz), el panel y la resolución. Te contamos qué importa de verdad y el detalle que nadie avisa (varios solo dan sus Hz máximos por DisplayPort), comparando los más vendidos de Argentina con specs verificadas del fabricante.`,
+    quickPicks: [
+      { productMlaId: "MLA63267892", label: "El mejor gaming por el precio", labelColor: "green", tagline: "Samsung Odyssey G3: 180 Hz y altura regulable a precio de entrada" },
+      { productMlaId: "MLA43961816", label: "El más validado", labelColor: "blue", tagline: "Samsung CRG5 curvo 144 Hz: el gaming con más ventas reales del país" },
+      { productMlaId: "MLA45717120", label: "Grande y económico", labelColor: "amber", tagline: "Noblex 27 IPS 100 Hz: pantalla grande nacional sin gastar fortuna" },
+      { productMlaId: "MLA43960787", label: "El ultrawide", labelColor: "purple", tagline: "Xiaomi 34 curvo 180 Hz: la pantalla panorámica al precio más agresivo" },
+    ],
+    intro: [
+      `El monitor es la mitad de la experiencia de juego, y también donde más fácil es comprar mal: números de hercios que solo se alcanzan con el cable correcto, "1 ms" que no son comparables entre sí, y monitores de oficina vendidos como gamer. La decisión real pasa por tres cosas: los **Hz** (cuántas imágenes por segundo muestra), el **panel** (VA o IPS) y la **resolución** según el tamaño.`,
+      `En esta guía comparamos los más vendidos de Argentina con especificaciones verificadas contra la página del fabricante, del 24 pulgadas económico al ultrawide de 34. Y te avisamos lo que las publicaciones no aclaran: en varios modelos, los Hz máximos **solo salen por DisplayPort**. Si estás armando el escritorio completo, mirá también la [silla gamer](/guias/gaming/silla-gamer), el [teclado gamer](/guias/gaming/teclado-gamer) y el [mouse gamer](/guias/gaming/mouse-gamer).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_651661-MLA101215783396_122025-F.jpg", alt: `Monitor Samsung Odyssey G3 G30D de 24 pulgadas y 180 Hz, uno de los monitores gamer más elegidos de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Un buen monitor gamer se define por los Hz (100 o más), el panel y la resolución acorde al tamaño, no por el "1 ms" de la caja. Para la mayoría, el **Samsung Odyssey G3** (24", 180 Hz) es el mejor gaming por el precio. El **Samsung CRG5** curvo 144 Hz es el más validado por ventas. Para pantalla grande económica, el **Noblex 27 IPS** de 100 Hz. Y si querés el salto inmersivo, el **Xiaomi G34WQi** ultrawide de 34". Regla de oro: usá DisplayPort para los Hz máximos.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los monitores con más ventas y opiniones reales en MercadoLibre Argentina y verificamos las especificaciones (panel, Hz, resolución, tiempo de respuesta, puertos) contra la página oficial del fabricante y reseñas técnicas especializadas. Los ordenamos por lo que define la compra: los **Hz reales**, el **panel**, la **resolución** y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué importa de verdad en un monitor gamer (y qué es humo)`, id: "que-mirar" },
+      { type: "p", content: `Lo primero son los **Hz (hercios)**: cuántas imágenes por segundo muestra la pantalla. Un monitor común es de 60 o 75 Hz; uno gamer arranca en 100 y los buenos van de 144 a 180. El salto de 60 a 100 o más **se siente muchísimo** (los compradores lo describen como "un cambio abismal"), incluso fuera de los juegos: hasta mover el mouse por Windows se ve más fluido. Es la spec número uno.` },
+      { type: "p", content: `Lo segundo, el **panel**. Los **VA** dominan la gama gamer accesible: mejor contraste (negros más profundos), ideales para jugar. Los **IPS** muestran mejor el color y los ángulos de visión, preferidos para trabajo creativo y uso mixto. Ninguno es "malo": VA para jugar y mirar películas, IPS si también editás fotos o compartís pantalla. Y la **resolución** va atada al tamaño: Full HD está perfecto hasta 24-25 pulgadas; en 27 ya se notan los píxeles de cerca (ahí conviene QHD); y los ultrawide de 34 usan 3440x1440.` },
+      { type: "p", content: `Y el humo: el **"1 ms" de la caja** casi siempre es MPRT, una medición más generosa que el GtG real, así que no compares milisegundos entre marcas. Lo que sí tenés que mirar es el **puerto**: en varios modelos de esta guía, los Hz máximos **solo salen por DisplayPort**; conectado por HDMI, el monitor topea más abajo (el Xiaomi de 180 Hz, por ejemplo, queda en 100 por HDMI). Si tu PC no tiene DisplayPort, ese dato cambia la compra.` },
+
+      { type: "h2", title: `Los mejores monitores gamer 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Samsung Odyssey G3 (G30D) — el mejor gaming por el precio` },
+      { type: "product-card", productMlaId: "MLA63267892", label: "El mejor por el precio", labelColor: "green", ranking: 1, description: `24 pulgadas Full HD a 180 Hz con 1 ms MPRT, HDR10 y pie con altura regulable. 5.0 estrellas. El paquete gaming más completo de la gama accesible.` },
+      { type: "p", content: `Si querés un monitor gamer de verdad sin irte de precio, es este. El Odyssey G3 da **180 Hz** (más que monitores que cuestan el doble), 1 ms MPRT, FreeSync, HDR10 y algo rarísimo en la gama: **pie con altura regulable y rotación vertical**, más VESA 100x100. Todo con puntaje perfecto entre los compradores, desde unos $244.000.` },
+      { type: "p", content: `El dato que evita un mal rato, directo de las reseñas: **viene configurado en 60 Hz de fábrica**. Hay que entrar al menú con el botón de abajo y activar los 180 Hz (y en Windows, elegir la frecuencia en la configuración de pantalla). Muchos compradores creen que el monitor "no anda rápido" y es solo eso. Conectalo por DisplayPort y activalos: otra experiencia.` },
+      { type: "pull-quote", content: `"Es muy buen monitor; para configurarlo hay que subirle los Hz desde el botón que tiene debajo. Ahora los juegos corren de primera."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Samsung Odyssey CRG5 — el gaming más validado` },
+      { type: "product-card", productMlaId: "MLA43961816", label: "El más validado", labelColor: "blue", ranking: 2, description: `24 pulgadas curvo (1800R) a 144 Hz con FreeSync. 4.8 estrellas en más de 1.500 calificaciones: el monitor gaming con más ventas reales del país.` },
+      { type: "p", content: `El CRG5 es el monitor gaming con más respaldo de ventas de Argentina: más de 1.500 calificaciones con 4.8 estrellas. Es un 24 pulgadas **curvo** (curvatura suave 1800R) a **144 Hz** con panel VA y FreeSync, desde unos $366.000. Para quien viene de 60 Hz, el salto es el famoso "cambio abismal" que repiten las reseñas.` },
+      { type: "p", content: `Las contras honestas, verificadas contra la ficha técnica: la respuesta real es **4 ms GtG** (no el 1 ms de sus hermanos), los 144 Hz van asegurados **por DisplayPort** (los HDMI son 1.4), y el pie solo inclina, sin ajuste de altura. Sigue siendo una gran compra, pero el G3 de arriba da más specs por menos plata; al CRG5 lo elegís por la curva y el respaldo masivo de ventas.` },
+      { type: "pull-quote", content: `"De 60 Hz a 144 Hz, un cambio abismal. Compralo, no dudes."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Noblex 27" IPS 100 Hz — pantalla grande y económica` },
+      { type: "product-card", productMlaId: "MLA45717120", label: "Grande y económica", labelColor: "amber", ranking: 3, description: `27 pulgadas con panel IPS (el único de la guía), 100 Hz, 1 ms MPRT y antireflejo. 4.9 estrellas en más de 700 calificaciones.` },
+      { type: "p", content: `Si lo que querés es **pantalla grande sin gastar fortuna**, el Noblex de 27 pulgadas es la sorpresa nacional: panel **IPS** (el único de esta guía, con mejor color y ángulos que los VA), 100 Hz, 1 ms MPRT y tratamiento antireflejo, desde unos $223.000. Con 4.9 estrellas, los compradores que vienen de monitores viejos lo describen como un cambio enorme.` },
+      { type: "p", content: `Lo honesto: es Full HD en 27 pulgadas, así que si te sentás muy cerca vas a notar los píxeles más que en un 24 (a distancia normal de escritorio no molesta, y las reseñas lo confirman). Y no tiene DisplayPort: va por HDMI, que para sus 100 Hz alcanza. Para jugar tranquilo, trabajar y estudiar con pantalla grande, es la mejor relación tamaño-precio.` },
+      { type: "pull-quote", content: `"Vengo de un monitor de 19 pulgadas de 60 Hz y la diferencia se nota; y con el tema de los píxeles en este tamaño, ni se nota."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Philips 24" (241V8L) — el más vendido, para uso mixto` },
+      { type: "product-card", productMlaId: "MLA43960948", label: "El más vendido", labelColor: "blue", ranking: 4, description: `23,8 pulgadas Full HD a 75 Hz con antireflejo y filtro de luz azul. 4.8 estrellas en más de 2.500 calificaciones: el monitor más vendido del país.` },
+      { type: "p", content: `Acá va la honestidad de curador: el Philips 241V8L es **el monitor más vendido de Argentina** (más de 2.500 calificaciones), pero **no es un monitor gamer**: es de **75 Hz**, pensado para trabajar, estudiar y jugar casual. Lo incluimos porque es lo que muchísima gente termina comprando, y para ese uso mixto es excelente: imagen nítida, antireflejo, filtro de luz azul y precio imbatible de marca, desde unos $159.000.` },
+      { type: "p", content: `¿Cuándo conviene? Si el juego es secundario (jugás de vez en cuando, nada competitivo) y el monitor es principalmente para la facu o el trabajo. ¿Cuándo no? Si jugás en serio: por unos pesos más, el Noblex 22 de abajo ya te da 100 Hz, y el Odyssey G3 te da 180. El error sería comprarlo creyendo que es gamer; sabiendo lo que es, es una gran compra.` },
+
+      { type: "h3", title: `5. Noblex 22" 100 Hz — el más barato con specs gamer` },
+      { type: "product-card", productMlaId: "MLA45717136", label: "El más barato", labelColor: "green", ranking: 5, description: `21,45 pulgadas Full HD a 100 Hz con 1 ms MPRT. 4.9 estrellas en más de 800 calificaciones. El precio más bajo con frecuencia de juego real.` },
+      { type: "p", content: `Si el presupuesto manda, el Noblex de 22 es el hallazgo: es **el más barato de la guía** (desde unos $142.000) y aun así corre a **100 Hz con 1 ms MPRT**, cosa que el Philips de 75 Hz no da. Panel VA con buen contraste, Adaptive-Sync y soporte VESA, con 4.9 estrellas de más de 800 compradores.` },
+      { type: "p", content: `La contra es obvia: 21,45 pulgadas se queda chico si venís de algo más grande o querés inmersión. Pero para un primer monitor gamer, un espacio reducido o una segunda pantalla que también sirva para jugar, rinde más de lo que cuesta. Entre este y el Philips, para juego el Noblex gana por los 100 Hz.` },
+
+      { type: "h3", title: `6. Samsung Odyssey G5 27" QHD — el salto de nitidez` },
+      { type: "product-card", productMlaId: "MLA43960827", label: "El salto a QHD", labelColor: "purple", ranking: 6, description: `27 pulgadas curvo cerrado (1000R) con resolución QHD 2560x1440 a 165 Hz, 1 ms MPRT y HDR10. El premium clásico de Samsung.` },
+      { type: "p", content: `El G5 es el paso premium natural: **QHD (2560x1440)** en 27 pulgadas, que es el combo justo de tamaño y nitidez (todo se ve más fino que en Full HD), a **165 Hz** con 1 ms MPRT, HDR10 y la curvatura **1000R**, la más cerrada y envolvente del mercado. Desde unos $554.000.` },
+      { type: "p", content: `Dos cosas a saber: los 165 Hz salen **por DisplayPort** (trae DP 1.4 y HDMI 2.0), y tu placa de video tiene que poder mover juegos en 1440p, que exige más que 1080p. Si tu PC acompaña, la diferencia visual contra un Full HD es notable y no hay vuelta atrás. El pie solo inclina, sin altura (VESA 75x75 para colgarlo).` },
+
+      { type: "h3", title: `7. Xiaomi G34WQi 34" — el ultrawide al mejor precio` },
+      { type: "product-card", productMlaId: "MLA43960787", label: "El ultrawide", labelColor: "purple", ranking: 7, description: `34 pulgadas panorámico (21:9) curvo 1500R, 3440x1440 a 180 Hz con FreeSync Premium y muy buen color. 4.9 estrellas.` },
+      { type: "p", content: `El formato **ultrawide** (21:9) es otra experiencia: la pantalla envuelve el campo visual, en juegos inmersivos y simuladores es imbatible, y para trabajar reemplaza dos monitores. El Xiaomi G34WQi lo trae con **3440x1440 a 180 Hz**, curva 1500R, muy buen color (95% DCI-P3), altura regulable y FreeSync Premium, al precio más agresivo de la categoría: desde unos $630.000.` },
+      { type: "p", content: `El dato clave verificado: los **180 Hz salen solo por DisplayPort** (trae 2); por HDMI topea en 100 Hz. Y como todo 34 ultrawide, exige una placa de video que mueva 3440x1440. Si el presupuesto y la PC acompañan, es de las compras que más cambian la experiencia completa del escritorio.` },
+
+      { type: "h3", title: `8. Gigabyte GS34WQC 34" — el ultrawide de marca gamer` },
+      { type: "product-card", productMlaId: "MLA28853185", label: "Ultrawide de marca gamer", labelColor: "purple", ranking: 8, description: `34 pulgadas panorámico curvo 1500R, 3440x1440 a 120 Hz (135 con overclock), 1 ms MPRT y altura regulable. 4.9 estrellas, el mejor valorado de los grandes.` },
+      { type: "p", content: `La alternativa al Xiaomi es el Gigabyte GS34WQC, de una marca especializada en hardware gamer: mismo formato 34" 3440x1440 curvo 1500R, a **120 Hz nativos (135 con overclock)**, 1 ms MPRT, FreeSync Premium, compatible HDR y pie con altura regulable. Es el mejor valorado de los ultrawide (4.9 en más de 120 opiniones), desde unos $920.000.` },
+      { type: "p", content: `Contra el Xiaomi pierde en Hz (120-135 contra 180) y cuesta bastante más, así que en la comparación directa el Xiaomi da más por menos. Al Gigabyte lo elegís por la marca especializada y su reputación de calidad de panel. Mismo aviso: los Hz máximos, solo por DisplayPort (los HDMI topean en 100).` },
+
+      { type: "h2", title: `Tabla comparativa: Hz, panel, resolución y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio desde`, `Hz`, `Panel / tamaño`, `Ideal para`], rows: [
+        [`[Noblex 22"](https://meli.la/2AMGgvB)`, `$141.899`, `100`, `VA 22" FHD`, `El más barato con specs gamer`],
+        [`[Philips 24"](https://meli.la/2LPpSwK)`, `$159.099`, `75`, `VA 24" FHD`, `Uso mixto, el más vendido`],
+        [`[Noblex 27" IPS](https://meli.la/17HaY3a)`, `$223.199`, `100`, `IPS 27" FHD`, `Pantalla grande económica`],
+        [`[Samsung Odyssey G3](https://meli.la/2NmTqzr)`, `$244.361`, `180`, `VA 24" FHD`, `El mejor gaming por el precio`],
+        [`[Samsung CRG5 curvo](https://meli.la/21rUoNn)`, `$365.999`, `144`, `VA 24" FHD curvo`, `El gaming más validado`],
+        [`[Samsung G5 27" QHD](https://meli.la/11Frg3T)`, `$554.413`, `165`, `VA 27" QHD curvo`, `El salto de nitidez`],
+        [`[Xiaomi G34WQi 34"](https://meli.la/1MQkxTt)`, `$629.999`, `180`, `VA 34" UWQHD curvo`, `Ultrawide al mejor precio`],
+        [`[Gigabyte GS34WQC 34"](https://meli.la/2VotvC2)`, `$919.599`, `120-135`, `VA 34" UWQHD curvo`, `Ultrawide de marca gamer`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu monitor gamer`, id: "como-elegir" },
+      { type: "h3", title: `1. Los Hz según lo que jugás` },
+      { type: "p", content: `Para juego casual y uso mixto, 75-100 Hz alcanzan (Philips, Noblex). Para jugar en serio, 144 Hz o más es donde se siente la fluidez de verdad (G3, CRG5, G5). Más de 144, la diferencia es cada vez más fina: entre 144 y 180 hay mejora, pero nada como el salto desde 60. Y no te olvides de activarlos: varios monitores vienen configurados en 60 Hz de fábrica.` },
+      { type: "h3", title: `2. Tamaño y resolución van juntos` },
+      { type: "p", content: `Full HD rinde perfecto hasta 24-25 pulgadas. En 27, Full HD se banca a distancia normal (el Noblex lo demuestra) pero QHD es el combo ideal (G5). Y los 34 ultrawide usan 3440x1440, que piden placa de video acorde. No compres pulgadas sin subir resolución si te vas a sentar cerca.` },
+      { type: "h3", title: `3. El puerto: mirá qué salida tiene tu PC` },
+      { type: "p", content: `El consejo que evita decepciones: varios monitores dan sus Hz máximos **solo por DisplayPort** (Xiaomi y Gigabyte topean en 100 Hz por HDMI; el CRG5 asegura sus 144 por DP). Antes de comprar, fijate qué salida tiene tu placa de video y con qué cable vas a conectar. Si tu PC solo tiene HDMI, un monitor de 100 Hz como los Noblex te da todo lo que promete sin drama.` },
+
+      { type: "h2", title: `Cuánto cuesta un monitor gamer en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$142.000 a $225.000:** la gama accesible que rinde. El [Noblex 22" 100 Hz](https://meli.la/2AMGgvB) (el más barato), el [Philips 24"](https://meli.la/2LPpSwK) (uso mixto) y el [Noblex 27" IPS](https://meli.la/17HaY3a) (pantalla grande).`,
+        `**$244.000 a $370.000:** el gaming de verdad. El [Samsung Odyssey G3 180 Hz](https://meli.la/2NmTqzr) (la mejor compra) y el [CRG5 curvo 144 Hz](https://meli.la/21rUoNn) (el más validado).`,
+        `**$554.000 o más:** el nivel premium. El [G5 27" QHD 165 Hz](https://meli.la/11Frg3T), y los ultrawide de 34: [Xiaomi 180 Hz](https://meli.la/1MQkxTt) y [Gigabyte](https://meli.la/2VotvC2).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál monitor gamer comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría que juega en serio, el **Samsung Odyssey G3**: 180 Hz, altura regulable y HDR10 al precio más bajo de su clase (acordate de activar los Hz en el menú). Si querés el **más validado por ventas**, el **CRG5 curvo 144 Hz**. Para **pantalla grande económica**, el **Noblex 27 IPS**; con **presupuesto mínimo**, el **Noblex 22 de 100 Hz** le gana al Philips para juego. El salto premium es el **G5 QHD**, y la experiencia inmersiva total, el **Xiaomi ultrawide de 34**. El error a evitar: conectar un monitor de Hz altos por el cable equivocado, o comprar un 75 Hz creyendo que es gamer.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor monitor gamer en Argentina?`, answer: `Por relación specs-precio, el [Samsung Odyssey G3](https://meli.la/2NmTqzr): 24 pulgadas a 180 Hz con altura regulable, desde unos $244.000. El más validado por ventas es el [Samsung CRG5 curvo 144 Hz](https://meli.la/21rUoNn) (más de 1.500 calificaciones). Para pantalla grande económica, el [Noblex 27 IPS de 100 Hz](https://meli.la/17HaY3a); y en ultrawide, el [Xiaomi G34WQi](https://meli.la/1MQkxTt).` },
+      { question: `¿Cuántos Hz necesita un monitor para gaming?`, answer: `Depende de qué juegues: 100 Hz ya se siente muy fluido para juego general, y 144 a 180 Hz es el estándar para jugar en serio o competitivo. El salto grande es venir de 60 Hz: ahí cualquier monitor de 100 o más cambia la experiencia. Ojo con un detalle: varios monitores vienen configurados en 60 Hz de fábrica y hay que activar los Hz máximos en el menú y en Windows.` },
+      { question: `¿Qué es mejor para gaming, panel VA o IPS?`, answer: `Los dos sirven, con fuertes distintos. El VA tiene mejor contraste (negros más profundos) y domina la gama gamer accesible: ideal para jugar y mirar contenido. El IPS muestra mejor los colores y los ángulos de visión: preferido para trabajo creativo y uso mixto. De esta guía, el único IPS es el [Noblex 27](https://meli.la/17HaY3a); el resto es VA, que para puro gaming está perfecto.` },
+      { question: `¿Por qué mi monitor no llega a los Hz que promete?`, answer: `Casi siempre es el cable o la configuración. Varios modelos dan sus Hz máximos solo por DisplayPort: el [Xiaomi de 34](https://meli.la/1MQkxTt) hace 180 Hz por DP pero topea en 100 por HDMI, y al [Gigabyte](https://meli.la/2VotvC2) le pasa igual. Además, muchos vienen de fábrica en 60 Hz: hay que subirlos desde el menú del monitor y elegir la frecuencia en la configuración de pantalla de Windows.` },
+      { question: `¿Sirve un monitor de 75 Hz para jugar?`, answer: `Para juego casual, sí: un 75 Hz como el [Philips 24](https://meli.la/2LPpSwK) (el más vendido del país) va bien si el monitor es principalmente para trabajar o estudiar y jugás de vez en cuando. Para jugar en serio queda corto: por poco más, el [Noblex 22 de 100 Hz](https://meli.la/2AMGgvB) o el [Odyssey G3 de 180](https://meli.la/2NmTqzr) dan una fluidez muy superior.` },
+      { question: `¿Vale la pena un monitor ultrawide para gaming?`, answer: `Si tu placa de video puede mover 3440x1440, es de los saltos que más cambian la experiencia: el formato 21:9 envuelve el campo visual, en simuladores y juegos inmersivos es imbatible, y para trabajar reemplaza dos monitores. El [Xiaomi G34WQi](https://meli.la/1MQkxTt) es el de mejor precio con 180 Hz. La contra: exige más de la PC, y algunos juegos competitivos no aprovechan el formato completo.` },
+    ],
+    internalLinks: [
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────
