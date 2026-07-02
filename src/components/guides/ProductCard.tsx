@@ -182,6 +182,7 @@ export function ProductCard({ section }: ProductCardProps) {
               href={product.affiliateUrl}
               target="_blank"
               rel="sponsored nofollow noopener"
+              data-cta-location="card"
               className="self-start inline-flex items-center gap-1 mt-1 px-3 py-1.5 text-xs font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
               style={{
                 backgroundColor: "var(--cta-action)",
@@ -313,6 +314,7 @@ export function ProductCard({ section }: ProductCardProps) {
               href={product.affiliateUrl}
               target="_blank"
               rel="sponsored nofollow noopener"
+              data-cta-location="card"
               className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
               style={{
                 backgroundColor: "var(--cta-action)",

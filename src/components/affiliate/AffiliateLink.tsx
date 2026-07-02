@@ -6,6 +6,12 @@ interface AffiliateLinkProps {
   className?: string;
   onClick?: MouseEventHandler<HTMLAnchorElement>;
   ariaLabel?: string;
+  /**
+   * Posición del CTA en la página (above-fold, verdict, sticky, card, ficha…).
+   * Se emite como `data-cta-location` y lo leen los eventos de analítica
+   * (`cta_view` y `affiliate_click`) para saber qué botón trae los clicks.
+   */
+  ctaLocation?: string;
 }
 
 /**
@@ -22,6 +28,7 @@ export function AffiliateLink({
   className,
   onClick,
   ariaLabel,
+  ctaLocation,
 }: AffiliateLinkProps) {
   return (
     <a
@@ -31,6 +38,7 @@ export function AffiliateLink({
       className={className}
       onClick={onClick}
       aria-label={ariaLabel}
+      data-cta-location={ctaLocation}
     >
       {children}
     </a>

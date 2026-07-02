@@ -65,6 +65,7 @@ export function StickyBuyBar({ productMlaId }: StickyBuyBarProps) {
         href={product.affiliateUrl}
         target="_blank"
         rel="sponsored nofollow noopener"
+        data-cta-location="sticky"
         className="shrink-0 inline-flex items-center gap-1.5 px-4 text-[13.5px] font-extrabold rounded-[var(--radius-button)]"
         style={{
           minHeight: 44,

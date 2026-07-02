@@ -28,6 +28,7 @@ function renderLink(anchor: string, href: string, key: number): React.ReactNode 
       href={href}
       target="_blank"
       rel="nofollow sponsored noopener"
+      data-cta-location="inline"
       className={LINK_CLASS}
     >
       {anchor}

@@ -352,6 +352,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           <div id="product-main-cta" className="mt-6">
             <AffiliateLink
               href={product.affiliateUrl}
+              ctaLocation="ficha-top"
               ariaLabel="Ir a MercadoLibre (se abre en una pestaña nueva)"
               className="flex items-center justify-center gap-2 w-full px-6 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#3483fa] text-white hover:bg-[#2968c8] transition-colors"
             >
@@ -661,6 +662,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           </div>
           <AffiliateLink
             href={product.affiliateUrl}
+            ctaLocation="ficha-bottom"
             ariaLabel="Comprar en MercadoLibre (se abre en una pestaña nueva)"
             className="mt-4 inline-flex items-center justify-center gap-2 px-8 py-3.5 text-base font-bold rounded-[var(--radius-pill)] bg-[#ffe600] text-[#111111] hover:brightness-95 transition"
           >

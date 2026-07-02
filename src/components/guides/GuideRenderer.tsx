@@ -115,6 +115,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                   href={cta.href}
                   target="_blank"
                   rel="nofollow sponsored noopener"
+                  data-cta-location="section"
                   className="inline-flex items-center gap-1.5 px-5 py-2.5 text-sm font-semibold rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors"
                 >
                   {injectLivePrices(cta.label)}
@@ -437,6 +438,7 @@ function AboveFoldCta({ productMlaId }: { productMlaId: string }) {
         href={product.affiliateUrl}
         target="_blank"
         rel="sponsored nofollow noopener"
+        data-cta-location="above-fold"
         className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
         style={{
           backgroundColor: "var(--cta-action)",
@@ -465,6 +467,7 @@ function VerdictCta({ productMlaId }: { productMlaId: string }) {
         href={product.affiliateUrl}
         target="_blank"
         rel="sponsored nofollow noopener"
+        data-cta-location="verdict"
         className="inline-flex items-center gap-1.5 px-5 py-3 text-sm font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
         style={{
           backgroundColor: "var(--cta-action)",

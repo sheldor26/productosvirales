@@ -145,6 +145,7 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
 
           <AffiliateLink
             href={affiliateUrl}
+            ctaLocation="card"
             onClick={(e) => e.stopPropagation()}
             className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors shrink-0"
             ariaLabel="Ver en MercadoLibre"

@@ -118,6 +118,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                     href={p.product.affiliateUrl}
                     target="_blank"
                     rel="sponsored nofollow noopener"
+                    data-cta-location="quickpick"
                     className="inline-flex items-center gap-1.5 px-4 py-2.5 text-[13.5px] font-extrabold rounded-[var(--radius-button)] transition-transform hover:-translate-y-px"
                     style={{
                       backgroundColor: "var(--cta-action)",
@@ -134,6 +135,7 @@ export function QuickPicks({ picks }: QuickPicksProps) {
                     href={p.product.affiliateUrl}
                     target="_blank"
                     rel="sponsored nofollow noopener"
+                    data-cta-location="quickpick"
                     className="inline-flex items-center gap-1.5 px-3.5 py-2 text-[13px] font-bold rounded-[var(--radius-button)] bg-[var(--bg-primary)] text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors"
                     style={{ border: "1.5px solid var(--border)" }}
                   >

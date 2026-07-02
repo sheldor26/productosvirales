@@ -31,6 +31,9 @@ export function AffiliateTracker() {
       const payload = {
         link_url: link.href,
         link_text: (link.textContent || "").replace(/\s+/g, " ").trim().slice(0, 100),
+        // Qué botón se clickeó (above-fold, verdict, sticky, card, ficha…) para
+        // saber qué CTA convierte y cuál sobra. "otro" = link sin marcar (prosa).
+        cta_location: link.dataset.ctaLocation || "otro",
         page_path: window.location.pathname,
       };
 

@@ -7,6 +7,8 @@ import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { NewsletterBanner } from "@/components/widgets/NewsletterBanner";
 import { AffiliateTracker } from "@/components/analytics/AffiliateTracker";
+import { ScrollDepthTracker } from "@/components/analytics/ScrollDepthTracker";
+import { CtaTracker } from "@/components/analytics/CtaTracker";
 import "./globals.css";
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -80,6 +82,8 @@ export default function RootLayout({
         </ThemeProvider>
         <Analytics />
         <AffiliateTracker />
+        <ScrollDepthTracker />
+        <CtaTracker />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-7FJY0G4T9K"
           strategy="afterInteractive"
