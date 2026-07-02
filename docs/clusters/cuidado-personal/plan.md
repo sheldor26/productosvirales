@@ -47,6 +47,9 @@ Enlazado interno: cada satélite enlaza al pilar `secador-de-pelo` y a los herma
 
 Seguir la skill **`/optimizador-guias-pv`** (modo CREAR) + `docs/guias.md` (diseño obligatorio) + `docs/fichas.md` (proceso de fichas). Pasos:
 
+> **Nota para cowork / sesiones que no tienen la skill local:** la skill vive en `~/.claude/skills/` (máquina de Juan), no en el repo. Una copia espejo está en **`docs/skills/optimizador-guias-pv.md`** — leerla y seguirla como si fuera la skill.
+
+
 1. **Traer productos (Juan):** en ML, "{keyword}" → ordenar por **Más vendidos** → pasar 5-6 links `/p/` de arriba con sus `meli.la`. (La API no saca best-sellers de electro/belleza en nicho nuevo; ver memoria `ml-api-oficial-funciona`. Juan logueado los ve al toque.)
 2. **Rankear por reseñas:** correr el patrón de ranking por `reviewCount` (proxy de ventas) contra la API — el mismo script python que se usó en gaming (token client_credentials + `/products/{id}/items` + `/reviews/item/...`). Elegir 5-6 que cubran el abanico (económico → premium) + variedad de marca.
 3. **Verificar specs contra fabricante:** subagente (modelo Sonnet para ahorrar) que chequea specs contra la página oficial (Philips, Gama, Xiaomi, Braun, Wahl, etc.) y trae correcciones + datos que suman. NO inventar specs.
