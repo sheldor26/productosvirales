@@ -1326,6 +1326,459 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-pc — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "joystick-pc",
+    category: "gaming",
+    silo: "gaming",
+    title: `Joystick PC: cuál comprar en Argentina [2026]`,
+    seoTitle: `Joystick PC: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Descubrí qué joystick PC comprar en Argentina: XInput o DirectInput, con cable o inalámbrico, y cuál conviene de verdad. Redragon y Logitech comparados.`,
+    ogTitle: `Joystick PC: cuál comprar en Argentina`,
+    ogDescription: `Del más vendido y económico al inalámbrico de marca. Redragon y Logitech comparados por compatibilidad real, conexión y precio de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_794640-MLA99500561342_112025-F.jpg`,
+    h1: `Joystick PC: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-02",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Un joystick para PC puede ser plug-and-play total o darte dolores de cabeza con Steam, y la diferencia no está en el precio: está en si es XInput o DirectInput. Te contamos qué mirar de verdad, comparando los más vendidos de Argentina con specs verificadas contra el fabricante y precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA15152700", label: "El más vendido", labelColor: "green", tagline: "Redragon Saturn G807: con cable, más de 7.000 opiniones, el más barato" },
+      { productMlaId: "MLA27921678", label: "El mejor puntuado", labelColor: "purple", tagline: "Harrow Pro G808 Pro: inalámbrico o cable, 4.8 estrellas" },
+      { productMlaId: "MLA15152152", label: "La compra segura", labelColor: "amber", tagline: "Logitech F310: con cable, XInput documentado oficialmente" },
+      { productMlaId: "MLA34724207", label: "El más completo", labelColor: "blue", tagline: "Redragon Juno G818: Bluetooth, touchpad, altavoz, hasta 24h" },
+      { productMlaId: "MLA12384031", label: "El oficial", labelColor: "slate", tagline: "Control de Xbox: XInput nativo, sirve en consola y PC, el que nunca falla" },
+    ],
+    intro: [
+      `Antes de mirar precio o diseño, hay una sola pregunta que separa un joystick que "simplemente anda" de uno que te va a hacer perder una tarde configurando Steam: **¿es XInput o DirectInput?** XInput es el estándar que usa el control de Xbox: lo conectás y cualquier juego moderno lo reconoce solo. DirectInput es el modo genérico más viejo, y algunos juegos no lo detectan bien sin tocar configuraciones. Los joysticks buenos (todos los de esta guía) tienen switch para elegir entre los dos modos; el problema es cuando un vendedor no te lo aclara.`,
+      `En esta guía comparamos los más vendidos de Argentina (Redragon y Logitech) con specs verificadas contra el sitio del fabricante y reseñas técnicas, del más barato con cable al inalámbrico con más funciones. Sumamos también el **control oficial de Xbox**: cuesta más, pero al ser el propio estándar XInput, es la opción con menos dudas de compatibilidad de toda la guía. Si te falta el resto del setup, mirá la [silla gamer](/guias/gaming/silla-gamer), el [mouse gamer](/guias/gaming/mouse-gamer) y el [teclado gamer](/guias/gaming/teclado-gamer).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_794640-MLA99500561342_112025-F.jpg", alt: `Joystick Redragon Saturn G807, el joystick para PC más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Redragon Saturn G807** resuelve todo: con cable, switch XInput/DirectInput confirmado y el más barato de la guía. Si querés **inalámbrico**, el **Harrow G808** es el más vendido de esa categoría y el **Harrow Pro G808 Pro** el mejor puntuado (4.8 estrellas). Si preferís la marca con soporte técnico documentado, el **Logitech F310** (con cable) o el **F710** (inalámbrico). Y si querés el que más funciones trae (Bluetooth, touchpad, altavoz), el **Redragon Juno G818**. Si el presupuesto no es problema y querés cero dudas de compatibilidad, el **control oficial de Xbox** es literalmente el estándar XInput.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los joysticks para PC con más ventas y opiniones reales en MercadoLibre Argentina y verificamos las especificaciones (compatibilidad XInput/DirectInput, tipo de conexión, batería, alcance) contra la página oficial del fabricante y, cuando no había página oficial clara, contra manuales y reviews técnicas independientes. Cuando el fabricante no publica un dato con claridad (como la autonomía exacta de batería en varios modelos Redragon), lo decimos explícitamente en vez de inventar una cifra. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `XInput o DirectInput: la pregunta que importa de verdad`, id: "que-mirar" },
+      { type: "p", content: `El estándar de PC para gaming es **XInput**, el protocolo que usa el control de Xbox: cualquier juego moderno y Steam lo reconocen automáticamente, sin configurar nada. El modo alternativo, **DirectInput**, es más viejo y genérico; muchos juegos lo soportan bien, pero algunos (sobre todo los que solo programaron soporte para Xbox) no lo detectan correctamente o necesitan un paso extra de configuración en Steam. Todos los joysticks de esta guía tienen switch físico o de software para elegir entre los dos modos, verificado contra el fabricante.` },
+      { type: "p", content: `Lo segundo es **con cable o inalámbrico**. Con cable nunca te vas a quedar sin batería y suele ser más barato; inalámbrico por dongle 2,4 GHz no tiene lag perceptible (es la misma tecnología que usan los mouse gamer inalámbricos), mientras que Bluetooth es más cómodo para compartir el joystick entre PC y celular, pero de esta guía solo un modelo lo tiene de verdad.` },
+      { type: "p", content: `Un dato honesto: no todos los fabricantes documentan igual sus productos. Logitech publica fichas técnicas exactas y artículos de soporte paso a paso; varios modelos Redragon confirman lo esencial (compatibilidad XInput, tipo de conexión) pero **no publican una cifra oficial y consistente de autonomía de batería**. Preferimos decir "el fabricante no lo especifica con claridad" antes que inventar un número.` },
+
+      { type: "h2", title: `Los mejores joysticks para PC 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Redragon Saturn G807 — el más vendido` },
+      { type: "product-card", productMlaId: "MLA15152700", label: "El más vendido", labelColor: "green", ranking: 1, description: `Con cable, switch XInput/DirectInput confirmado por el fabricante, compatible con PS3. 4.5 estrellas en más de 7.000 calificaciones, el más vendido y barato de la guía.` },
+      { type: "p", content: `El Saturn G807 es, por lejos, el joystick con más ventas y reseñas de esta guía: más de 7.000 calificaciones. Tiene switch físico XInput/DirectInput confirmado en el sitio oficial de Redragon, así que Steam y los juegos modernos lo reconocen sin drama en modo XInput. Con cable, vibración y compatible con PS3 según el fabricante, ronda los $31.900.` },
+      { type: "p", content: `Lo honesto: Redragon lo sacó de su catálogo oficial vigente (no es un modelo "activo" de la marca, aunque funciona igual), y varios compradores reportan que a veces hay que habilitar manualmente la opción de joystick genérico en Steam la primera vez. Tampoco es compatible con PS4. Para el precio y el respaldo que tiene, sigue siendo la entrada más segura de la guía.` },
+      { type: "pull-quote", content: `"Muy cómodo, muy buena relación calidad precio. Estéticamente me parece horrible, pero en funcionamiento, comodidad y calidad es un 10/10."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Redragon Harrow G808 — el inalámbrico más vendido` },
+      { type: "product-card", productMlaId: "MLA15086696", label: "El inalámbrico más vendido", labelColor: "blue", ranking: 2, description: `Inalámbrico por dongle 2,4 GHz (sin Bluetooth), switch XInput/DirectInput y vibración. 4.4 estrellas en casi 7.000 calificaciones.` },
+      { type: "p", content: `Si querés cortar el cable, el Harrow G808 es el inalámbrico con más ventas de la guía: casi 7.000 calificaciones. Se conecta por un dongle USB de 2,4 GHz (no Bluetooth) con un alcance declarado de hasta 10 metros, y mantiene el mismo switch XInput/DirectInput confirmado del resto de la línea Redragon. Ronda los $59.012.` },
+      { type: "p", content: `La contra real: Redragon no publica una cifra oficial clara de cuántas horas dura la batería (distintas fuentes propias del fabricante van de 15 a 40 horas, sin un dato único confiable), y hay reportes de desconexiones inalámbricas ocasionales que se solucionan reiniciando el dongle. Se carga por micro-USB y podés seguir jugando mientras carga.` },
+      { type: "pull-quote", content: `"El joystick en general es espectacular, se nota muchísimo que es de buena calidad, el d-pad funciona muy bien, los sticks se sienten bien."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Redragon Harrow Pro G808 Pro — el mejor puntuado` },
+      { type: "product-card", productMlaId: "MLA27921678", label: "El mejor puntuado", labelColor: "purple", ranking: 3, description: `Inalámbrico o con cable, carga USB-C, switch XInput/DirectInput multi-modo. 4.8 estrellas, la mejor calificación de la guía.` },
+      { type: "p", content: `La evolución del Harrow suma algo importante: podés usarlo inalámbrico (dongle 2,4 GHz) o con cable, según lo necesites, y carga por USB-C en vez de micro-USB. Con 4.8 estrellas sobre más de 4.300 opiniones, es el joystick mejor puntuado de toda esta guía. Ronda los $54.990.` },
+      { type: "p", content: `Como el Harrow original, Redragon tampoco publica cuántas horas dura la batería jugando (solo confirma que carga en 2 a 3 horas), y el alcance inalámbrico declarado es algo menor (8 metros contra 10 del Harrow base). El manual oficial dedica una sección entera a solucionar problemas de conexión inalámbrica, señal de que no es tan raro que pase.` },
+
+      { type: "h3", title: `4. Logitech F310 — la compra segura con cable` },
+      { type: "product-card", productMlaId: "MLA15152152", label: "La compra segura", labelColor: "amber", ranking: 4, description: `Con cable, switch XInput/DirectInput documentado oficialmente por Logitech. Producto maduro con más de 10 años en el mercado. 4.7 estrellas.` },
+      { type: "p", content: `El F310 no gana por specs, gana por confianza: es de Logitech, con más de una década en el mercado y documentación oficial paso a paso de cómo funciona su switch XInput/DirectInput. Varias reseñas lo comparan directamente contra "joysticks genéricos" con los que tuvieron problemas de drift, y acá no reportan lo mismo. Con cable de 1,98 metros, ronda los $37.999.` },
+      { type: "p", content: `No tiene vibración (a diferencia de los Redragon de esta guía) y su punto débil documentado a largo plazo es el D-pad, que puede empezar a fallar con meses o años de uso intenso. Tampoco sirve para PlayStation, solo PC y Android. Si ya tuviste una mala experiencia con un joystick genérico, este es el que "simplemente anda".` },
+
+      { type: "h3", title: `5. Logitech F710 — el inalámbrico de marca` },
+      { type: "product-card", productMlaId: "MLA15108369", label: "Inalámbrico de marca", labelColor: "amber", ranking: 5, description: `Inalámbrico por mini receptor 2,4 GHz, 10 metros de alcance confirmado oficialmente, 2 pilas AA. 4.6 estrellas.` },
+      { type: "p", content: `La versión inalámbrica del F310, con el mismo nivel de documentación oficial de Logitech: es el único joystick de esta guía con un alcance inalámbrico (10 metros) confirmado en una ficha técnica 100% oficial, no una estimación de reventa. Usa 2 pilas AA reemplazables en cualquier lado, y suma vibración y sensor de movimiento, que el F310 no tiene. Ronda los $57.000.` },
+      { type: "p", content: `Logitech tampoco publica cuántas horas dura la batería (las estimaciones no oficiales varían de 30 a 200 horas), y existe un problema documentado de desconexiones intermitentes relacionado con el ahorro de energía USB de Windows (se soluciona desactivando esa opción en el Administrador de dispositivos). Tiene bastante menos reseñas que los inalámbricos Redragon de esta guía.` },
+
+      { type: "h3", title: `6. Redragon Juno G818 — el más completo en funciones` },
+      { type: "product-card", productMlaId: "MLA34724207", label: "El más completo", labelColor: "purple", ranking: 6, description: `Bluetooth real, touchpad, altavoz, botón compartir y hasta 24 horas de batería confirmadas. 4.7 estrellas, aunque con menos verificación independiente que el resto.` },
+      { type: "p", content: `El Juno G818 es el que más funciones extra trae: touchpad, altavoz integrado, botón de compartir, sensor de movimiento y, a diferencia del resto de la guía, **Bluetooth real** confirmado por el fabricante, útil para conectarlo también a un celular. La batería de 600 mAh declara hasta 24 horas en modo Bluetooth, la cifra más clara de autonomía de toda esta guía. Ronda los $69.950.` },
+      { type: "p", content: `Acá conviene leer la letra chica: el sitio oficial de Redragon dice que es compatible con PS4 "por cable y Bluetooth", pero varias publicaciones de ML solo confirman el cable, y no encontramos a nadie que haya probado y confirmado el Bluetooth funcionando en una PS4 real. Si tu plan es usarlo en PS4, andá por cable. Tampoco está documentado con claridad el mecanismo exacto de su switch XInput/DirectInput, a diferencia del resto de la línea Redragon.` },
+
+      { type: "h3", title: `7. Control oficial de Xbox — la opción premium que nunca falla` },
+      { type: "product-card", productMlaId: "MLA12384031", label: "El oficial", labelColor: "slate", ranking: 7, description: `XInput nativo (es literalmente el estándar), Xbox Wireless para consola y Bluetooth para PC/celular. 4.8 estrellas, aunque con menos reseñas por ser Xbox minoría en Argentina.` },
+      { type: "p", content: `Si el presupuesto no es el problema, esta es la opción con cero dudas de compatibilidad: es el propio control de Xbox, el estándar contra el que se mide el XInput de todos los demás joysticks de esta guía. Se conecta a la PC y al celular por Bluetooth y a la consola por Xbox Wireless (protocolo propio, no Bluetooth). Ronda los $120.000, más del triple que el Saturn G807.` },
+      { type: "p", content: `La contra real: usa 2 pilas AA de fábrica (el kit de batería recargable se compra aparte) y tiene 468 reseñas en MercadoLibre Argentina, bastante menos que los Redragon de esta guía porque Xbox es la consola minoritaria en el país. Microsoft tampoco publica una cifra de alcance inalámbrico. Para quien ya se peleó con un joystick genérico y quiere terminar con el tema, es la opción más segura que existe.` },
+
+      { type: "h2", title: `Tabla comparativa: conexión, compatibilidad y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `XInput/DirectInput`, `Ideal para`], rows: [
+        [`[Redragon Saturn G807](https://productosvirales.com.ar/producto/MLA15152700)`, `{{precio:MLA15152700}}`, `Cable`, `Confirmado`, `El más barato y vendido`],
+        [`[Redragon Harrow G808](https://productosvirales.com.ar/producto/MLA15086696)`, `{{precio:MLA15086696}}`, `Inalámbrico (dongle 2,4 GHz)`, `Confirmado`, `Inalámbrico más vendido`],
+        [`[Harrow Pro G808 Pro](https://productosvirales.com.ar/producto/MLA27921678)`, `{{precio:MLA27921678}}`, `Inalámbrico o cable`, `Confirmado`, `Mejor puntuado (4.8)`],
+        [`[Logitech F310](https://productosvirales.com.ar/producto/MLA15152152)`, `{{precio:MLA15152152}}`, `Cable`, `Confirmado (oficial)`, `Compra segura de marca`],
+        [`[Logitech F710](https://productosvirales.com.ar/producto/MLA15108369)`, `{{precio:MLA15108369}}`, `Inalámbrico (dongle 2,4 GHz)`, `Confirmado (oficial)`, `Inalámbrico de marca`],
+        [`[Redragon Juno G818](https://productosvirales.com.ar/producto/MLA34724207)`, `{{precio:MLA34724207}}`, `Bluetooth o cable`, `Sin documentar con claridad`, `Más funciones (touchpad, altavoz)`],
+        [`[Control oficial de Xbox](https://productosvirales.com.ar/producto/MLA12384031)`, `{{precio:MLA12384031}}`, `Xbox Wireless (consola) o Bluetooth (PC/celular)`, `XInput nativo`, `Cero dudas de compatibilidad`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu joystick para PC`, id: "como-elegir" },
+      { type: "h3", title: `1. XInput siempre que puedas elegir` },
+      { type: "p", content: `Si un juego o Steam no reconoce bien tu joystick, casi siempre es un problema de DirectInput. Todos los modelos de esta guía tienen switch para pasar a XInput, que es el modo que imita al control de Xbox y anda con prácticamente todo. Si comprás un joystick genérico sin esa opción, corrés el riesgo de tener que configurar cada juego a mano.` },
+      { type: "h3", title: `2. Cable, dongle 2,4 GHz o Bluetooth` },
+      { type: "p", content: `Con cable es más barato y no depende de batería. El dongle 2,4 GHz (el que usan los cuatro Redragon y el Logitech F710 de esta guía) no tiene lag perceptible para jugar, es la misma tecnología de los mouse gamer inalámbricos. Bluetooth es más cómodo si querés compartir el joystick entre la PC y el celular, pero de esta guía solo el Redragon Juno G818 lo tiene confirmado de verdad.` },
+      { type: "h3", title: `3. Marca chica con buenas specs vs. marca grande con soporte` },
+      { type: "p", content: `Los Redragon de esta guía tienen buenas specs confirmadas (switch XInput/DirectInput, conexión) pero varios puntos sin documentar del todo (sobre todo la autonomía de batería). Los Logitech tienen menos funciones extra pero documentación oficial completa y más de una década de historial. Ninguna opción es "mejor" en absoluto: depende de si preferís pagar por funciones o por certeza.` },
+      { type: "h3", title: `4. Compatibilidad con consola: cuidado con la letra chica` },
+      { type: "p", content: `Varios joysticks de esta guía se anuncian compatibles con PS3 o PS4, pero esa compatibilidad viene casi siempre del fabricante sin confirmación independiente de terceros, y en el caso del Juno G818 hay directamente una contradicción entre lo que dice Redragon y lo que aclaran las publicaciones de ML sobre PS4. Si tu plan principal es usarlo en consola, priorizá el cable sobre el Bluetooth y no des por sentada la compatibilidad sin chequearla.` },
+
+      { type: "h2", title: `Cuánto cuesta un joystick para PC en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA15152700:k}} a {{precio:MLA15152152:k}}:** la franja económica. El [Redragon Saturn G807](https://productosvirales.com.ar/producto/MLA15152700) (el más barato y vendido) y el [Logitech F310](https://productosvirales.com.ar/producto/MLA15152152) (la marca segura).`,
+        `**{{precio:MLA27921678:k}} a {{precio:MLA15108369:k}}:** los inalámbricos. El [Harrow Pro G808 Pro](https://productosvirales.com.ar/producto/MLA27921678) (mejor puntuado) y el [Harrow G808](https://productosvirales.com.ar/producto/MLA15086696) o el [Logitech F710](https://productosvirales.com.ar/producto/MLA15108369) según si preferís más ventas o más marca.`,
+        `**{{precio:MLA34724207:k}} o más:** el más completo en funciones. El [Redragon Juno G818](https://productosvirales.com.ar/producto/MLA34724207), con Bluetooth, touchpad y altavoz.`,
+        `**{{precio:MLA12384031:k}} o más:** la opción premium. El [control oficial de Xbox](https://productosvirales.com.ar/producto/MLA12384031), el propio estándar XInput, sin dudas de compatibilidad.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál joystick para PC comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Redragon Saturn G807**: el más vendido, el más barato y con XInput/DirectInput confirmado por el fabricante. Si querés cortar el cable, el **Harrow G808** (más vendido) o el **Harrow Pro G808 Pro** (mejor puntuado, 4.8 estrellas). Si preferís la marca con soporte técnico documentado, el **Logitech F310** con cable o el **F710** inalámbrico. Si buscás el que más funciones trae, el **Redragon Juno G818** (Bluetooth, touchpad, altavoz), sabiendo que su compatibilidad con PS4 por Bluetooth no está confirmada de forma independiente. Y si el presupuesto no es problema y querés cero dudas de compatibilidad, el **control oficial de Xbox**: es literalmente el estándar XInput. El error a evitar: comprar sin fijarte si tiene XInput, y para consola, no dar por sentada la compatibilidad que promete el título de la publicación.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor joystick para PC en Argentina?`, answer: `Para la mayoría, el [Redragon Saturn G807](https://productosvirales.com.ar/producto/MLA15152700): el más vendido de la categoría (más de 7.000 calificaciones), con cable y XInput/DirectInput confirmado. Si querés inalámbrico, el [Harrow Pro G808 Pro](https://productosvirales.com.ar/producto/MLA27921678) es el mejor puntuado (4.8 estrellas); si preferís marca con soporte oficial, el [Logitech F310](https://productosvirales.com.ar/producto/MLA15152152). Si el presupuesto no es problema, el [control oficial de Xbox](https://productosvirales.com.ar/producto/MLA12384031) elimina cualquier duda de compatibilidad.` },
+      { question: `¿Qué diferencia hay entre XInput y DirectInput?`, answer: `XInput es el estándar que usa el control de Xbox: cualquier juego moderno y Steam lo reconocen automáticamente. DirectInput es un modo más viejo y genérico que algunos juegos no detectan bien sin configurar. Todos los joysticks de esta guía permiten elegir entre los dos modos con un switch, y el control oficial de Xbox es directamente XInput nativo (el estándar en sí).` },
+      { question: `¿Conviene un joystick con cable o inalámbrico para PC?`, answer: `Con cable ([Redragon Saturn G807](https://productosvirales.com.ar/producto/MLA15152700), [Logitech F310](https://productosvirales.com.ar/producto/MLA15152152)) es más barato y nunca se queda sin batería. Inalámbrico por dongle 2,4 GHz ([Harrow G808](https://productosvirales.com.ar/producto/MLA15086696), [Logitech F710](https://productosvirales.com.ar/producto/MLA15108369)) no tiene lag perceptible. Bluetooth solo lo tiene confirmado el [Redragon Juno G818](https://productosvirales.com.ar/producto/MLA34724207) de esta guía y el [control oficial de Xbox](https://productosvirales.com.ar/producto/MLA12384031) (que además usa Xbox Wireless propio para la consola).` },
+      { question: `¿Por qué Steam no me reconoce el joystick?`, answer: `Casi siempre es un tema de modo DirectInput en vez de XInput. Revisá si tu joystick tiene switch físico para cambiar de modo (todos los de esta guía lo tienen) y probá en XInput primero. En Steam también podés habilitar manualmente la opción de joystick genérico desde la configuración de controles. El control oficial de Xbox no tiene este problema porque ya es XInput nativo.` },
+      { question: `¿Estos joysticks sirven para PS4 o PS5?`, answer: `Con matices. El [Saturn G807](https://productosvirales.com.ar/producto/MLA15152700) y el [Harrow G808](https://productosvirales.com.ar/producto/MLA15086696) son compatibles con PS3 según el fabricante, no PS4. El [Juno G818](https://productosvirales.com.ar/producto/MLA34724207) se anuncia compatible con PS4, pero solo el modo cable tiene respaldo confiable; el Bluetooth en PS4 no está confirmado de forma independiente. El [control oficial de Xbox](https://productosvirales.com.ar/producto/MLA12384031) no es compatible con ninguna consola PlayStation. Para PS5 específicamente el DualSense oficial sigue siendo la opción más segura; estamos preparando una guía dedicada a esa categoría.` },
+      { question: `¿Cuánto dura la batería de un joystick inalámbrico?`, answer: `Varía mucho según el modelo y no siempre hay una cifra oficial clara. El [Redragon Juno G818](https://productosvirales.com.ar/producto/MLA34724207) confirma hasta 24 horas en Bluetooth. Los demás Redragon inalámbricos y el [Logitech F710](https://productosvirales.com.ar/producto/MLA15108369) no publican una cifra oficial exacta, así que tratamos esos datos como aproximados. El [control oficial de Xbox](https://productosvirales.com.ar/producto/MLA12384031) usa pilas AA (hasta 40 horas según Microsoft), no batería recargable de fábrica.` },
+      { question: `¿Vale la pena pagar más por el control oficial de Xbox en vez de un joystick genérico?`, answer: `Depende de cuánto valorás no tener dudas de compatibilidad. El control oficial de Xbox es literalmente XInput nativo, así que elimina cualquier riesgo de configuración en Steam. Cuesta más del triple que el Saturn G807, pero si ya te peleaste antes con un joystick genérico, es la opción que "simplemente anda" sin excepciones.` },
+    ],
+    internalLinks: [
+      { label: "Joystick Xbox: cuál comprar", href: "/guias/gaming/joystick-xbox" },
+      { label: "Joystick para celular: cuál comprar", href: "/guias/gaming/joystick-para-celular" },
+      { label: "Joystick PS5: cuál comprar", href: "/guias/gaming/joystick-ps5" },
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-xbox — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "joystick-xbox",
+    category: "gaming",
+    silo: "gaming",
+    title: `Joystick Xbox: cuál comprar en Argentina [2026]`,
+    seoTitle: `Joystick Xbox: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Joystick Xbox en Argentina: control oficial Wireless vs Elite Series 2, precios reales de MercadoLibre y qué mirar antes de comprar. Guía honesta.`,
+    ogTitle: `Joystick Xbox: cuál comprar en Argentina`,
+    ogDescription: `El control oficial Xbox Wireless contra el Elite Series 2 premium, comparados por compatibilidad, batería y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_607987-MLA97215744455_112025-F.jpg`,
+    h1: `Joystick Xbox: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-02",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Xbox es la consola minoritaria en Argentina, así que esta guía tiene menos opciones que las de PC o PlayStation, y lo decimos de frente. Comparamos el control oficial Xbox Wireless contra el Elite Series 2 premium, con specs verificadas contra Microsoft y precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA12384031", label: "El estándar", labelColor: "green", tagline: "Xbox Wireless Controller: XInput nativo, sirve en consola, PC y celular" },
+      { productMlaId: "MLA19627127", label: "El premium", labelColor: "amber", tagline: "Xbox Elite Series 2: paletas traseras y gatillos ajustables (versión Core)" },
+    ],
+    intro: [
+      `Esta guía es distinta a las demás del sub-silo joystick, y conviene decirlo de entrada: Xbox es la consola minoritaria en Argentina frente a PlayStation, así que hay muchas menos opciones de terceros con reseñas confiables que en PC o PS5. Por eso, en vez de listar compatibles baratos sin respaldo, esta guía se concentra en los dos controles oficiales de Microsoft que sí tienen historial real de compra en MercadoLibre Argentina: el **Xbox Wireless Controller** (el estándar) y el **Xbox Elite Series 2** (el premium).`,
+      `La keyword "joystick xbox" tiene buen volumen de búsqueda, y hay una razón práctica para eso más allá de la consola: el control de Xbox es también **el estándar de PC** (XInput, plug-and-play), así que mucha gente lo busca para usarlo en su computadora. De hecho, este mismo control también aparece en nuestra guía de [joystick para PC](/guias/gaming/joystick-pc) como la opción premium que "simplemente anda". Si te falta el resto del setup, mirá también la [silla gamer](/guias/gaming/silla-gamer), el [mouse gamer](/guias/gaming/mouse-gamer) y el [teclado gamer](/guias/gaming/teclado-gamer).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_607987-MLA97215744455_112025-F.jpg", alt: `Control oficial Xbox Wireless Controller, el joystick de Xbox más vendido en Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Xbox Wireless Controller** (el control estándar que viene con la consola) es la compra correcta: XInput nativo, se conecta a la consola por Xbox Wireless y a PC/celular por Bluetooth, y no tiene ninguna duda de compatibilidad. El **Xbox Elite Series 2** solo vale la diferencia de precio (casi el triple) si vas a usar de verdad las paletas traseras intercambiables y los gatillos ajustables, por ejemplo en shooters competitivos. Un dato importante: la versión Elite que se consigue en esta guía es la "Core", sin estuche ni paletas extra en la caja.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos las especificaciones de los dos controles contra la página oficial de xbox.com (batería, conectividad, accesorios incluidos) y contra reseñas reales de compradores en MercadoLibre Argentina. No incluimos joysticks "compatibles con Xbox" de terceros: a diferencia de PC o PS5, el mercado argentino de compatibles para Xbox específicamente es muy chico y sin reseñas suficientes para verificar de forma confiable si funcionan bien; nos pareció más honesto no listar algo que no podemos respaldar. Tampoco usamos el catálogo de Xbox 360 (una publicación vieja y fuera del programa de afiliados). Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Por qué esta guía tiene menos opciones que las de PC o PS5`, id: "por-que-menos-opciones" },
+      { type: "p", content: `Xbox es la consola minoritaria en el mercado argentino frente a PlayStation. Esto se nota directo en las reseñas: mientras el DualSense oficial de PS5 acumula más de 18.000 calificaciones en MercadoLibre Argentina, el control oficial de Xbox tiene 468. Es un número sólido para un producto con licencia oficial, pero muy por debajo de su equivalente en PlayStation, y refleja que hay bastante menos gente comprando (y por lo tanto, menos terceros fabricando compatibles confiables) para esta consola en particular.` },
+      { type: "p", content: `Por eso esta guía no lista joysticks genéricos "tipo Xbox" como sí hacemos en la guía de [joystick PC](/guias/gaming/joystick-pc): no encontramos compatibles con volumen de reseñas suficiente como para verificar honestamente si funcionan bien en consola real. Preferimos mostrar solo las dos opciones oficiales de Microsoft, con specs 100% verificadas, antes que listar algo sin respaldo real de compradores.` },
+
+      { type: "h2", title: `Los joysticks de Xbox 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Xbox Wireless Controller — el estándar` },
+      { type: "product-card", productMlaId: "MLA12384031", label: "El estándar", labelColor: "green", ranking: 1, description: `XInput nativo, Xbox Wireless para consola y Bluetooth para PC/celular. Pilas AA, hasta 40 horas según Microsoft. 4.8 estrellas en 468 calificaciones.` },
+      { type: "p", content: `Es el control que viene con las consolas Xbox Series X/S y Xbox One, vendido también suelto. Se conecta a la consola por Xbox Wireless (protocolo propio, no Bluetooth) y a la PC, tablets o celulares por Bluetooth estándar, confirmado en la ficha oficial de xbox.com. Es XInput nativo: es literalmente el estándar de compatibilidad que imitan todos los joysticks "tipo Xbox" del mercado. Ronda los $120.000.` },
+      { type: "p", content: `La contra real: usa 2 pilas AA de fábrica (Microsoft declara hasta 40 horas), y si querés batería recargable hay que comprar aparte el kit oficial "Xbox Rechargeable Battery + USB-C". Microsoft tampoco publica una cifra de alcance inalámbrico en metros. Con 468 reseñas en Argentina, es bastante menos que su equivalente de PlayStation, reflejo directo de que Xbox es la consola minoritaria acá.` },
+      { type: "pull-quote", content: `"Buen producto :) trae bluetooth (porque mire post que decian que no) le di un uso bastante pesado y no falla ni se rompen ;)!."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Xbox Elite Series 2 — el premium (ojo con la versión)` },
+      { type: "product-card", productMlaId: "MLA19627127", label: "El premium", labelColor: "amber", ranking: 2, description: `4 paletas traseras intercambiables, gatillos con Hair Trigger Locks, batería recargable de hasta 40 h. Es la versión "Core": sin estuche ni paletas extra. 4.8 estrellas en 69 calificaciones.` },
+      { type: "p", content: `El control premium de Microsoft está pensado para quien va a usar personalización avanzada de verdad: 4 paletas traseras intercambiables para remapear botones, gatillos con recorrido ajustable en 3 posiciones (Hair Trigger Locks) y hasta 3 perfiles personalizados guardados en el propio control, todo confirmado en la ficha oficial de xbox.com. La batería recargable interna declara hasta 40 horas; un comprador real reporta que en su uso le está durando más de lo declarado. Ronda los $329.999.` },
+      { type: "p", content: `La contra real, y es importante: esta publicación es la versión "Core" (blanco y negro), no la versión completa (negra). Varios compradores lo confirman en sus propias reseñas: no trae estuche de transporte, paletas extra ni stand de carga, eso es exclusivo de la versión Elite completa. Tampoco tiene touchpad, a pesar de que algunas fichas de MercadoLibre lo mencionan (es un error: lo que tiene son las paletas traseras). Configurar perfiles y paletas requiere la app Xbox Accessories, disponible solo en consola Xbox y Windows 10/11, no en celular.` },
+      { type: "pull-quote", content: `"Vengo del primer elite, este es un poquito mas cómodo, tiene 3 puntos de regulación de los gatillos, el anterior eran solo dos, el mas cortito esta muy bueno para juegos de disparos y por ultimo que tenga batería recargable es lo mejor, siempre fui defensor de las pilas pero la batería recargable esta muy bueno."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: Wireless Controller vs Elite Series 2`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Batería`, `Personalización`, `Ideal para`], rows: [
+        [`[Xbox Wireless Controller](https://productosvirales.com.ar/producto/MLA12384031)`, `{{precio:MLA12384031}}`, `2 pilas AA (hasta 40 h)`, `Sin paletas ni gatillos ajustables`, `La compra correcta para la mayoría`],
+        [`[Xbox Elite Series 2 (Core)](https://productosvirales.com.ar/producto/MLA19627127)`, `{{precio:MLA19627127}}`, `Recargable interna (hasta 40 h)`, `4 paletas traseras + gatillos ajustables`, `Shooters competitivos y personalización`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu joystick de Xbox`, id: "como-elegir" },
+      { type: "h3", title: `1. Estándar vs Elite: ¿de verdad necesitás las paletas?` },
+      { type: "p", content: `Las paletas traseras y los gatillos ajustables del Elite Series 2 hacen diferencia real en géneros donde cada milisegundo cuenta, sobre todo shooters competitivos. Si jugás casual o no vas a tocar esa personalización, el control estándar cubre exactamente la misma compatibilidad (mismo XInput, mismo Bluetooth) a menos de un tercio del precio.` },
+      { type: "h3", title: `2. Pilas AA vs batería recargable` },
+      { type: "p", content: `El control estándar usa pilas AA de fábrica; el kit recargable oficial se compra aparte. El Elite Series 2 trae batería recargable interna de fábrica, sin necesidad de comprar nada extra. Si te molesta depender de pilas, esa es una razón real (más allá de las paletas) para pagar el premium.` },
+      { type: "h3", title: `3. El mismo control sirve para PC` },
+      { type: "p", content: `Los dos controles de esta guía se conectan a la PC por Bluetooth y son XInput nativo, así que Steam y Windows los reconocen sin configurar nada. Si buscás específicamente para PC (no para consola), tenés más variedad de precio en nuestra guía de [joystick PC](/guias/gaming/joystick-pc), donde también comparamos alternativas más económicas de Redragon y Logitech.` },
+      { type: "h3", title: `4. Por qué no listamos compatibles baratos "para Xbox"` },
+      { type: "p", content: `A diferencia de PS5 o PC, no encontramos en MercadoLibre Argentina joysticks de terceros "compatibles con Xbox" con volumen de reseñas suficiente como para verificar honestamente si funcionan bien en consola real. Preferimos no inventar una recomendación sin respaldo. Si en el futuro aparece una opción confiable, la sumamos a esta guía.` },
+
+      { type: "h2", title: `Cuánto cuesta un joystick de Xbox en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA12384031:k}}:** el control oficial Xbox Wireless, la compra correcta para la mayoría.`,
+        `**{{precio:MLA19627127:k}}:** el Xbox Elite Series 2 (versión Core), solo si vas a usar la personalización avanzada.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál joystick de Xbox comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la enorme mayoría, el **Xbox Wireless Controller**: es el estándar XInput, se conecta a la consola y a la PC sin ninguna duda de compatibilidad, y cuesta bastante menos que el premium. El **Xbox Elite Series 2** solo se justifica si vas a usar de verdad las paletas traseras y los gatillos ajustables, sabiendo que la versión disponible es la "Core" (sin estuche ni accesorios extra). El error a evitar: no confundir la versión Core con la Elite completa esperando que traiga estuche y paletas de fábrica.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor joystick de Xbox en Argentina?`, answer: `Para la mayoría, el [Xbox Wireless Controller](https://productosvirales.com.ar/producto/MLA12384031): es el control estándar, XInput nativo, y no tiene ninguna duda de compatibilidad con consola, PC o celular. El [Xbox Elite Series 2](https://productosvirales.com.ar/producto/MLA19627127) es mejor solo si vas a usar la personalización avanzada (paletas, gatillos ajustables).` },
+      { question: `¿Por qué esta guía tiene solo dos opciones?`, answer: `Porque Xbox es la consola minoritaria en Argentina y no encontramos joysticks de terceros "compatibles con Xbox" con reseñas suficientes como para verificar honestamente si funcionan bien. Preferimos mostrar solo las dos opciones oficiales de Microsoft, con specs 100% verificadas, antes que listar algo sin respaldo.` },
+      { question: `¿El Xbox Elite Series 2 trae estuche y paletas extra?`, answer: `No, la versión que se consigue en esta guía es la "Core": varios compradores confirman en sus reseñas que no trae estuche, paletas extra ni stand de carga. Eso es exclusivo de la versión Elite completa (negra), que cuesta más y no es la que aparece acá.` },
+      { question: `¿El control de Xbox sirve para jugar en PC?`, answer: `Sí, es el estándar: se conecta por Bluetooth y es XInput nativo, así que Steam y Windows lo reconocen sin configurar nada. De hecho, aparece también en nuestra guía de [joystick PC](/guias/gaming/joystick-pc) como la opción premium sin dudas de compatibilidad.` },
+      { question: `¿Usa pilas o batería recargable?`, answer: `El Xbox Wireless Controller estándar usa 2 pilas AA de fábrica (el kit recargable se compra aparte). El Xbox Elite Series 2 trae batería recargable interna de fábrica, sin nada que comprar extra.` },
+      { question: `¿Por qué tiene menos reseñas que el DualSense de PS5?`, answer: `Porque Xbox es la consola minoritaria en Argentina. El control oficial de Xbox tiene 468 reseñas en MercadoLibre, un número sólido para un producto con licencia oficial, pero muy por debajo de las más de 18.000 del DualSense de PS5, reflejo de cuánta gente compra cada consola en el país.` },
+    ],
+    internalLinks: [
+      { label: "Joystick PC: cuál comprar", href: "/guias/gaming/joystick-pc" },
+      { label: "Joystick para celular: cuál comprar", href: "/guias/gaming/joystick-para-celular" },
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-para-celular — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "joystick-para-celular",
+    category: "gaming",
+    silo: "gaming",
+    title: `Joystick para celular: cuál comprar en Argentina [2026]`,
+    seoTitle: `Joystick Para Celular: Cuál Comprar en Argentina 2026`,
+    metaDescription: `Joystick para celular en Argentina: cuál trae soporte incluido, cuál confirma Android/iOS de verdad y por qué uno de los más vendidos no lo garantiza.`,
+    ogTitle: `Joystick para celular: cuál comprar en Argentina`,
+    ogDescription: `GameSir, T-Dagger y un genérico con soporte incluido, comparados por compatibilidad real, latencia y precio de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_882042-MLA96730692439_102025-F.jpg`,
+    h1: `Joystick para celular: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-02",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `No todos los "joystick para celular" que se venden en Argentina confirman esa compatibilidad de verdad, y el más vendido de esta guía es justamente un buen ejemplo. Te contamos cuáles confirman Android/iOS de fábrica, cuál trae el soporte del teléfono incluido y qué tan real es el problema de la latencia Bluetooth.`,
+    quickPicks: [
+      { productMlaId: "MLA24044240", label: "El más barato, con soporte incluido", labelColor: "green", tagline: "Genérico X3: el único con clip de celular de fábrica, desde $18.999" },
+      { productMlaId: "MLA49838346", label: "La compra segura para celular", labelColor: "blue", tagline: "GameSir Nova 2 Lite: Android e iOS confirmados oficialmente, sticks Hall Effect" },
+      { productMlaId: "MLA52360869", label: "El más completo", labelColor: "purple", tagline: "GameSir Cyclone2 Bundle: Hall Effect, giroscopio, el premium de la guía" },
+      { productMlaId: "MLA23214606", label: "El más vendido (con matiz)", labelColor: "amber", tagline: "T-Dagger Scorpio: más reseñas de todos, pero sin compatibilidad celular confirmada" },
+    ],
+    intro: [
+      `Antes de comprar, hay una pregunta que muy pocas guías de "joystick para celular" se toman el trabajo de responder: ¿el fabricante confirma esa compatibilidad de verdad, o es una promesa del título de la publicación? En esta guía comparamos 4 opciones reales de MercadoLibre Argentina, y hacemos algo poco común: te decimos cuando el más vendido de todos **no tiene esa compatibilidad confirmada** por su fabricante, en vez de mirar para otro lado.`,
+      `También aclaramos algo que casi nadie explica: existen dos tipos de "joystick para celular" en el mercado. Uno es el gamepad tradicional (como los 4 de esta guía), que se usa con un soporte o clip para sostener el teléfono, incluido o comprado aparte. El otro es el control telescópico que se estira y abraza el celular directamente (tipo GameSir X2 o Razer Kishi), sin necesidad de un soporte separado; ese tipo no tiene todavía una opción con volumen de ventas confiable en MercadoLibre Argentina, así que no lo incluimos en esta guía por ahora. Si te falta el resto del setup, mirá también el [joystick para PC](/guias/gaming/joystick-pc), el [joystick de Xbox](/guias/gaming/joystick-xbox) y la [silla gamer](/guias/gaming/silla-gamer).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_882042-MLA96730692439_102025-F.jpg", alt: `Joystick T-Dagger Scorpio, el más vendido entre los joysticks para celular de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si querés la garantía oficial de que el joystick funciona con tu celular (Android o iOS), andá por el **GameSir Nova 2 Lite** o, si el presupuesto lo permite y querés giroscopio, el **GameSir Cyclone2 Bundle**; ninguno trae el soporte de celular incluido, se compra aparte. Si buscás la opción más barata con todo incluido de fábrica (soporte de celular incluido), el **genérico X3** cumple. El **T-Dagger Scorpio** es el más vendido de los cuatro, pero su fabricante solo confirma PS4 y PC, no celular: incluilo en tu decisión solo si estás dispuesto a probarlo sin garantía.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos la compatibilidad con celular de cada producto contra la página oficial del fabricante cuando existe (T-Dagger, GameSir); para el joystick genérico sin marca, la única fuente disponible es la propia publicación del vendedor en MercadoLibre, y lo decimos explícitamente en su ficha. Cuando un producto muy vendido no tenía esa compatibilidad confirmada por su fabricante (como el T-Dagger Scorpio), preferimos decirlo de frente antes que asumir que "probablemente funciona". Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Dos tipos de joystick para celular (y por qué esta guía cubre uno)`, id: "tipos" },
+      { type: "p", content: `Hay dos categorías bien distintas bajo el mismo nombre. La primera es el **gamepad tradicional con soporte de celular**: un control con la forma de siempre (dos sticks, D-pad, botones) que se usa junto a un soporte o clip que sostiene el teléfono al lado o arriba, incluido en la caja o comprado aparte. Los 4 productos de esta guía son de este tipo. La segunda es el **control telescópico que abraza el celular** directamente (como el GameSir X2 o el Razer Kishi), donde el teléfono se encastra en el medio del propio control, sin soporte separado.` },
+      { type: "p", content: `No encontramos todavía, en MercadoLibre Argentina, un control telescópico de este segundo tipo con volumen de ventas y reseñas suficiente como para recomendarlo con la misma confianza que el resto de esta guía. Si en el futuro aparece una opción confiable, la sumamos.` },
+
+      { type: "h2", title: `Los mejores joysticks para celular 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. T-Dagger Scorpio — el más vendido, con una letra chica` },
+      { type: "product-card", productMlaId: "MLA23214606", label: "El más vendido", labelColor: "amber", ranking: 1, description: `Diseño tipo DualShock 4 con touchpad, 24 h de batería confirmadas. El fabricante solo lista PS4 y PC: no confirma celular. Más de 1.500 calificaciones.` },
+      { type: "p", content: `Es, por lejos, el joystick con más reseñas de toda esta guía: más de 1.500 calificaciones y 4.6 estrellas. Tiene forma de control de PS4 (con touchpad), batería de hasta 24 horas confirmada oficialmente por T-Dagger, y se conecta por Bluetooth o cable USB.` },
+      { type: "p", content: `El punto que hay que aclarar de frente: la ficha oficial de T-Dagger dice literalmente "Plataformas soportadas: PlayStation 4, PC Xinput", sin ninguna mención de Android, iOS o celular. Las reseñas de compradores en MercadoLibre lo confirman de forma indirecta: casi todas hablan de usarlo en PS4 o PC (Warzone, por ejemplo), ninguna que revisamos menciona el celular. Puede funcionar como gamepad Bluetooth genérico en Android, pero sin garantía oficial del fabricante y sin ninguna mención de iOS.` },
+      { type: "pull-quote", content: `"Esta a un paso de ser a simple vista y al tacto como un liegitimo de ps4. Le meti 30 horas al warzone y pude juigar igual que uno original. Por el precio y calidad lo vuelvo a comprar."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Genérico X3 — el más barato, con soporte incluido` },
+      { type: "product-card", productMlaId: "MLA24044240", label: "El más barato con soporte incluido", labelColor: "green", ranking: 2, description: `El único con soporte de celular incluido de fábrica. Sin marca ni fabricante rastreable: los datos dependen del vendedor. Más de 1.400 calificaciones, desde $18.999.` },
+      { type: "p", content: `Es el más barato de la guía y el único de los 4 que trae el soporte de celular incluido en la caja, listo para usar sin comprar nada aparte. Según el propio vendedor, es compatible con Android e iOS, con Bluetooth versión 3.0 y hasta 10 metros de alcance. Con más de 1.400 calificaciones, tiene el segundo mejor respaldo de esta guía.` },
+      { type: "p", content: `La contra real: es un producto genérico, sin marca ni fabricante identificable, así que toda la información depende de lo que declara el vendedor en la publicación, sin nadie más que la confirme. La versión de Bluetooth declarada (3.0) es bastante más vieja que la de los GameSir de esta guía (que no publican versión exacta, pero en general usan hardware más moderno), lo que en teoría puede sumar algo de latencia en juegos rápidos.` },
+      { type: "pull-quote", content: `"10 puntos, los chicos lo usan en la tv, en la pc, en el celu, muy bueno!!! la bateria dura bastante, la sensibilidad de los botones excelente, para el mk11 en la pc una maravilla, nada que ver al joystick viejo que tenía. Los chicos lo usan en juegos de autos en la tv y en el celu en freefire y otros juegos q ni conosco."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. GameSir Cyclone2 Bundle — el más completo` },
+      { type: "product-card", productMlaId: "MLA52360869", label: "El más completo", labelColor: "purple", ranking: 3, description: `Sticks Hall Effect, giroscopio de 6 ejes, Android e iOS confirmados oficialmente. El soporte de celular no está incluido ni en la versión Bundle. 4.9 estrellas.` },
+      { type: "p", content: `El gamepad más avanzado de esta guía: sticks y gatillos Hall Effect (sin drift), sensor de movimiento de 6 ejes y compatibilidad oficial confirmada por GameSir con Android e iOS, además de PC, Steam y Nintendo Switch. La versión "Bundle" de esta publicación suma una base de carga. Ronda los $126.951.` },
+      { type: "p", content: `Ojo con una confusión común: a pesar del nombre "Bundle", el soporte de celular NO viene incluido, ni en esta versión; lo que suma es la base de carga. GameSir tampoco publica una cifra oficial de horas de batería, solo la capacidad (860 mAh); la cifra de "10 horas" que circula está citada por un medio especializado, no por el fabricante directamente.` },
+
+      { type: "h3", title: `4. GameSir Nova 2 Lite — la compra segura para celular` },
+      { type: "product-card", productMlaId: "MLA49838346", label: "La compra segura", labelColor: "blue", ranking: 4, description: `Android e iOS confirmados oficialmente, sticks Hall Effect, tri-modo de conexión. El soporte de celular se compra aparte. 4.9 estrellas.` },
+      { type: "p", content: `El gamepad de gama media de GameSir, con la misma compatibilidad oficial con Android e iOS que el Cyclone2, sticks Hall Effect (sin drift) y tri-modo de conexión (Bluetooth, dongle 2,4 GHz o cable), a bastante menos precio que el premium de esta guía. Ronda los $49.699.` },
+      { type: "p", content: `Como con el Cyclone2, el soporte de celular no viene en la caja: GameSir lo vende como accesorio aparte. Tampoco publica horas exactas de batería, solo la capacidad (600 mAh). Con 252 reseñas, es el que menos respaldo de compradores tiene de toda la guía, aunque su calificación (4.9) es de las más altas.` },
+
+      { type: "h2", title: `Tabla comparativa: compatibilidad, soporte y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Celular confirmado por fabricante`, `Soporte de celular`, `Ideal para`], rows: [
+        [`[T-Dagger Scorpio](https://productosvirales.com.ar/producto/MLA23214606)`, `{{precio:MLA23214606}}`, `No (solo PS4/PC)`, `No incluido`, `El más vendido, para PC/PS4 principalmente`],
+        [`[Genérico X3](https://productosvirales.com.ar/producto/MLA24044240)`, `{{precio:MLA24044240}}`, `Según el vendedor (sin fabricante)`, `Incluido de fábrica`, `El más barato, todo incluido`],
+        [`[GameSir Cyclone2 Bundle](https://productosvirales.com.ar/producto/MLA52360869)`, `{{precio:MLA52360869}}`, `Sí (oficial)`, `No incluido, se compra aparte`, `El más completo (Hall Effect, giroscopio)`],
+        [`[GameSir Nova 2 Lite](https://productosvirales.com.ar/producto/MLA49838346)`, `{{precio:MLA49838346}}`, `Sí (oficial)`, `No incluido, se compra aparte`, `Compatibilidad confirmada a buen precio`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu joystick para celular`, id: "como-elegir" },
+      { type: "h3", title: `1. Bluetooth y latencia: qué mirar` },
+      { type: "p", content: `Cuanto más vieja la versión de Bluetooth, más chances de tener latencia perceptible en juegos rápidos (shooters, sobre todo). El genérico X3 de esta guía declara Bluetooth 3.0, una versión bastante vieja; los GameSir no publican la versión exacta pero usan hardware más moderno en general. Si vas a jugar algo donde cada milisegundo importa, la conexión con dongle 2,4 GHz o cable (donde esté disponible) siempre va a ser más estable que Bluetooth puro.` },
+      { type: "h3", title: `2. ¿Soporte de celular incluido o aparte?` },
+      { type: "p", content: `Es el detalle que más sorprende a la hora de abrir la caja. De los 4 productos de esta guía, solo el genérico X3 trae el soporte de celular incluido de fábrica. Los GameSir (Nova 2 Lite y Cyclone2, incluida la versión "Bundle") lo venden como accesorio aparte, así que sumá ese gasto extra si lo necesitás. El T-Dagger no trae ninguno.` },
+      { type: "h3", title: `3. Android vs iOS: cuidado con las promesas` },
+      { type: "p", content: `No todos los "compatible con celular" que dice un título de MercadoLibre están confirmados por el fabricante. Los GameSir de esta guía sí lo confirman oficialmente para Android e iOS. El genérico lo declara el vendedor, sin forma de verificarlo de manera independiente. Y el T-Dagger directamente no lo menciona en ningún lado: su fabricante solo lista PS4 y PC.` },
+      { type: "h3", title: `4. ¿Se puede usar joystick en Free Fire y otros juegos móviles?` },
+      { type: "p", content: `No encontramos ninguna política oficial de Garena (la empresa detrás de Free Fire) que prohíba explícitamente el uso de un gamepad Bluetooth conectado como control estándar; sus políticas hablan de clientes modificados y apps de terceros que interactúan con el juego, no de controles físicos. De todos modos, algunos juegos limitan ciertas funciones si detectan un control externo, así que conviene probarlo antes de dar por sentado que todo va a andar igual que con la pantalla táctil.` },
+
+      { type: "h2", title: `Cuánto cuesta un joystick para celular en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA24044240:k}}:** el genérico X3, la opción más barata con soporte de celular incluido.`,
+        `**{{precio:MLA49838346:k}} a {{precio:MLA23214606:k}}:** el GameSir Nova 2 Lite (compatibilidad confirmada) y el T-Dagger Scorpio (el más vendido, sin esa confirmación).`,
+        `**{{precio:MLA52360869:k}} o más:** el GameSir Cyclone2 Bundle, el más completo con Hall Effect y giroscopio.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál joystick para celular comprar`, id: "veredicto" },
+      { type: "verdict", content: `Si tu prioridad es la certeza de que va a funcionar con tu celular, el **GameSir Nova 2 Lite** es la compra más segura: Android e iOS confirmados oficialmente, sticks Hall Effect, a un precio razonable (el soporte de celular se compra aparte). Si el presupuesto no es problema y querés lo más avanzado, el **GameSir Cyclone2 Bundle** suma giroscopio. Si buscás la opción más barata con todo incluido de fábrica, el **genérico X3** cumple, sabiendo que depende solo del vendedor. Y el **T-Dagger Scorpio**, aunque es el más vendido de los cuatro, solo lo recomendamos si tu uso principal es PC o PS4 y el celular es un extra que estás dispuesto a probar sin garantía del fabricante. El error a evitar: dar por sentado que "más vendido" significa "compatible con celular confirmado".` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor joystick para celular en Argentina?`, answer: `Depende de qué priorices. Si querés la garantía oficial de compatibilidad, el [GameSir Nova 2 Lite](https://productosvirales.com.ar/producto/MLA49838346) (Android e iOS confirmados) o el [Cyclone2 Bundle](https://productosvirales.com.ar/producto/MLA52360869) (más completo). Si buscás lo más barato con soporte incluido, el [genérico X3](https://productosvirales.com.ar/producto/MLA24044240). El [T-Dagger Scorpio](https://productosvirales.com.ar/producto/MLA23214606) es el más vendido, pero sin esa compatibilidad confirmada por el fabricante.` },
+      { question: `¿El T-Dagger Scorpio funciona con celular?`, answer: `El fabricante no lo confirma: su ficha oficial solo lista PS4 y PC. Puede funcionar como gamepad Bluetooth genérico en algunos Android, pero sin garantía oficial ni mención de iOS. Lo incluimos en esta guía porque es el más buscado con esa expectativa, pero preferimos avisarte la limitación real.` },
+      { question: `¿Todos estos joysticks traen soporte para el celular?`, answer: `No. Solo el [genérico X3](https://productosvirales.com.ar/producto/MLA24044240) lo trae incluido de fábrica. Los GameSir ([Nova 2 Lite](https://productosvirales.com.ar/producto/MLA49838346) y [Cyclone2](https://productosvirales.com.ar/producto/MLA52360869), incluida la versión "Bundle") lo venden aparte, y el T-Dagger no trae ninguno.` },
+      { question: `¿La latencia Bluetooth es un problema real para jugar en celular?`, answer: `Puede serlo en juegos rápidos (shooters), sobre todo con versiones de Bluetooth más viejas como la 3.0 del genérico de esta guía. Los GameSir usan hardware más moderno. Si te importa la respuesta inmediata, priorizá conexión por dongle 2,4 GHz o cable donde esté disponible.` },
+      { question: `¿Se puede usar joystick en Free Fire?`, answer: `No encontramos una política oficial de Garena que prohíba explícitamente los gamepads Bluetooth conectados como control estándar. Sus políticas apuntan a clientes modificados y apps de terceros, no a controles físicos. Igual, probalo antes de dar por sentado que todo funciona igual que con la pantalla.` },
+      { question: `¿Qué diferencia hay entre un gamepad con soporte y un control telescópico tipo Kishi?`, answer: `El gamepad con soporte (todos los de esta guía) tiene la forma tradicional de un control y usa un clip aparte o incluido para sostener el celular. El control telescópico (tipo GameSir X2 o Razer Kishi) se estira y encastra el celular directamente en el medio, sin soporte separado. Todavía no encontramos una opción de ese segundo tipo con ventas suficientes en MercadoLibre Argentina.` },
+    ],
+    internalLinks: [
+      { label: "Joystick PC: cuál comprar", href: "/guias/gaming/joystick-pc" },
+      { label: "Joystick Xbox: cuál comprar", href: "/guias/gaming/joystick-xbox" },
+      { label: "Joystick PS5: cuál comprar", href: "/guias/gaming/joystick-ps5" },
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-ps5 — STAGED (flagship)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "joystick-ps5",
+    category: "gaming",
+    silo: "gaming",
+    title: `Joystick PS5: cuál comprar en Argentina [2026]`,
+    seoTitle: `Joystick PS5: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Joystick PS5 en Argentina: DualSense oficial, DualSense Edge y la verdad sobre los compatibles baratos: cuáles andan de verdad y cuáles no. Guía honesta.`,
+    ogTitle: `Joystick PS5: cuál comprar en Argentina`,
+    ogDescription: `DualSense oficial vs DualSense Edge, y por qué casi ningún "compatible con PS5" barato funciona de verdad en la consola. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-F.jpg`,
+    h1: `Joystick PS5: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-02",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Antes de gastar en un "compatible con PS5" barato, hay algo que casi nadie te dice: la mayoría no funciona de verdad en la consola, y ninguno replica los gatillos adaptativos ni el feedback háptico del DualSense. Te contamos qué es real y qué no, comparando el DualSense oficial contra el Edge premium, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA18010994", label: "El oficial, para casi todos", labelColor: "green", tagline: "DualSense: gatillos adaptativos y haptics reales, más de 18.000 opiniones" },
+      { productMlaId: "MLA41152829", label: "El premium competitivo", labelColor: "purple", tagline: "DualSense Edge: paletas y gatillos ajustables, para quien juega en serio" },
+    ],
+    intro: [
+      `Esta es la guía más buscada de todo el sub-silo joystick, y también la que más honestidad necesita. La búsqueda "joystick ps5" está dominada por sitios que listan compatibles genéricos sin aclarar una cosa fundamental: **la gran mayoría de esos controles no funcionan de verdad conectados a la consola PS5**, y ninguno (ni siquiera los que sí tienen licencia oficial de Sony) replica los gatillos adaptativos ni el feedback háptico del DualSense. Esa es la tecnología central de la generación PS5, y es exclusiva de Sony.`,
+      `En vez de listarte compatibles baratos que probablemente te van a decepcionar, esta guía compara las dos opciones oficiales (DualSense y DualSense Edge) y te explica, con fuentes verificadas, por qué el resto del mercado "compatible con PS5" es un terreno mucho más resbaladizo de lo que sugiere el título de la publicación. Si te falta el resto del setup, mirá también el [joystick para PC](/guias/gaming/joystick-pc), el [joystick de Xbox](/guias/gaming/joystick-xbox), el [joystick para celular](/guias/gaming/joystick-para-celular) y la [silla gamer](/guias/gaming/silla-gamer).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-F.jpg", alt: `Control DualSense oficial de PS5, el joystick con más reseñas de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la enorme mayoría, el **DualSense oficial** es la compra correcta: es el único con gatillos adaptativos y haptics reales, con más de 18.000 calificaciones en MercadoLibre Argentina. El **DualSense Edge** solo se justifica si jugás de forma competitiva y vas a usar las paletas traseras y los gatillos ajustables; en gatillos adaptativos y haptics es exactamente igual al estándar, y su batería es más chica. **No recomendamos comprar compatibles baratos sin licencia oficial** esperando que funcionen igual en la consola: la mayoría no se conecta de verdad a la PS5, y ninguno tiene gatillos adaptativos reales.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos las especificaciones del DualSense y el DualSense Edge contra playstation.com y direct.playstation.com. Para la sección sobre compatibles de terceros, usamos fuentes serias: una multa de la Autoridad de Competencia francesa a Sony (diciembre 2023, 13,5 millones de euros) por bloquear controles no licenciados de PS4 vía firmware, reviews de medios reconocidos (TechRadar, Tom's Guide, GameSpot) sobre los pocos controles de terceros con licencia oficial que sí funcionan, y cobertura de la demanda colectiva activa en EE.UU. contra Sony por el problema de stick drift. Donde no encontramos una fuente sólida (como la cifra exacta de horas de batería, que Sony no publica), lo decimos explícitamente. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Gatillos adaptativos y haptics: lo que hace único al DualSense`, id: "que-lo-hace-unico" },
+      { type: "p", content: `Sony confirma oficialmente que los **gatillos adaptativos** (adaptive triggers) dan niveles variables de fuerza y tensión a los botones L2/R2 según lo que pasa en el juego: tensar la cuerda de un arco, sentir la resistencia de frenar un auto. El **feedback háptico** (haptic feedback) usa actuadores duales que reemplazan la vibración tradicional (rumble), generando sensaciones específicas por juego en vez de una vibración genérica uniforme.` },
+      { type: "p", content: `Es tecnología patentada por Sony. Y acá está el dato central de esta guía: **ningún control de terceros la replica**, ni siquiera los que tienen licencia oficial de Sony para vender accesorios de PS5. Revisamos dos ejemplos reales con licencia oficial (Razer Wolverine V2 Pro y Victrix Pro BFG, ambos revisados por medios como Tom's Guide y GameSpot): ninguno de los dos tiene haptics ni gatillos adaptativos, y el Victrix ni siquiera tiene vibración tradicional. Si lo que buscás es esa experiencia, el DualSense (estándar o Edge) es la única opción real.` },
+
+      { type: "h2", title: `Los joysticks de PS5 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. DualSense oficial — el que sirve para casi todos` },
+      { type: "product-card", productMlaId: "MLA18010994", label: "El oficial", labelColor: "green", ranking: 1, description: `Gatillos adaptativos y haptics reales, confirmados por Sony. Se conecta por Bluetooth o cable a PS5, PC, Mac, Android e iOS. Más de 18.000 calificaciones, 4.9 estrellas.` },
+      { type: "p", content: `Es el control que viene con la PS5, vendido también suelto en varios colores (esta guía tiene fichas de Cosmic Red, Galactic Purple y Sterling Silver, todas con la misma tecnología). Con más de 18.000 calificaciones en MercadoLibre Argentina, es por lejos el joystick con más respaldo de compra de todo el sub-silo del sitio. Se conecta por Bluetooth o cable USB-C, y además de la PS5 sirve en PC, Mac, Android e iOS.` },
+      { type: "p", content: `La contra real, y hay que decirla: existe una demanda colectiva activa en Estados Unidos contra Sony por el problema de "stick drift" (deriva de los sticks con el uso), sin acuerdo ni resolución confirmada a la fecha de este research. No es exclusivo de este control ni de esta marca, pero es un tema documentado. Sony tampoco publica una cifra oficial de horas de batería; las estimaciones de medios rondan 8 a 12 horas.` },
+      { type: "pull-quote", content: `"El problema de los dualsense es le drift. Compre este porque a mis otros 2 ya les agarró drift, uno de ellos me duró menos de un mes. Y no juego tanto, juego cuando puedo, asi que veremos que tal anda este modelo, por ahí como es de los ultimos dura mas, son bastante caros para que siempre se le rompan los sticks."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. DualSense Edge — el premium para jugar competitivo` },
+      { type: "product-card", productMlaId: "MLA41152829", label: "El premium", labelColor: "purple", ranking: 2, description: `Paletas traseras y stick caps intercambiables, gatillos con recorrido ajustable, hasta 4 perfiles guardados. Misma tecnología de gatillos adaptativos que el estándar. Batería más chica, reconocido por Sony.` },
+      { type: "p", content: `El control premium oficial de PS5: paletas traseras intercambiables, stick caps de 3 tipos, gatillos con recorrido ajustable y hasta 4 perfiles guardados, todo confirmado por Sony. Trae estuche de transporte que carga el control mientras está guardado y cable USB trenzado. En gatillos adaptativos y haptics es exactamente igual al DualSense estándar de esta guía: lo que suma es personalización física.` },
+      { type: "p", content: `La contra real, reconocida por el propio Sony: la batería es "moderadamente más corta" que la del DualSense estándar, y desarmes independientes confirman que la batería física es aproximadamente un tercio más chica. Cuesta más del triple que el estándar, y con 194 reseñas tiene bastante menos respaldo de compradores en MercadoLibre Argentina.` },
+      { type: "pull-quote", content: `"Exelentes terminaciones, punto débil la batería. Pero con su propio software super personalizable."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `La verdad sobre los compatibles baratos "para PS5"`, id: "compatibles-baratos" },
+      { type: "p", content: `Esta es la parte que las revistas de gaming españolas que dominan la búsqueda "joystick ps5" no suelen explicar, y es la razón por la que esta guía no lista ningún compatible barato con ficha propia: no encontramos ninguno con volumen de reseñas y respaldo confiable como para recomendarlo con la misma honestidad que el resto de esta guía. Pero sí podemos explicarte por qué.` },
+      { type: "p", content: `Sony exige licencia y certificación para que un control inalámbrico funcione de verdad con juegos de PS5. Hay precedente documentado y confirmado de que Sony hace cumplir esto vía actualizaciones de firmware: en diciembre de 2023, la Autoridad de Competencia francesa multó a Sony con 13,5 millones de euros por, entre otras cosas, desconectar mediante actualizaciones técnicas a los controles de PS4 sin un número de identificación de su programa de licencias. El mecanismo sigue vigente en PS5: controles inalámbricos sin licencia no funcionan de verdad con los juegos de la consola, más allá de lo que diga el título de la publicación.` },
+      { type: "p", content: `Muchos "compatibles con PS5" baratos que se venden en marketplaces son, en la práctica, controles pensados para PC (XInput/DirectInput genérico) con el nombre "PS5" agregado al título para vender más. Incluso los que sí tienen licencia oficial de Sony y funcionan de verdad (como el Razer Wolverine V2 Pro o el Victrix Pro BFG, ambos revisados por medios especializados) **no tienen gatillos adaptativos ni haptics**: esa tecnología está patentada por Sony y no se licencia a terceros. El Victrix ni siquiera tiene vibración tradicional.` },
+      { type: "p", content: `El consejo honesto: si vas a comprar para PS5, quedate con el DualSense oficial o el Edge de esta guía. Si por algún motivo particular preferís un control de terceros (por ejemplo, por ergonomía o botones remapeables), buscá uno con licencia oficial de Sony explícita, y aceptá de entrada que no vas a tener gatillos adaptativos ni haptics reales. Desconfiá de cualquier compatible genérico barato que prometa "todas las funciones del DualSense" a una fracción del precio: técnicamente, no puede.` },
+
+      { type: "h2", title: `Tabla comparativa: DualSense, Edge y compatibles`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Gatillos adaptativos y haptics`, `Personalización`, `Ideal para`], rows: [
+        [`[DualSense oficial](https://productosvirales.com.ar/producto/MLA18010994)`, `{{precio:MLA18010994}}`, `Sí`, `No`, `La compra correcta para casi todos`],
+        [`[DualSense Edge](https://productosvirales.com.ar/producto/MLA41152829)`, `{{precio:MLA41152829}}`, `Sí (igual que el estándar)`, `Paletas, gatillos y sticks intercambiables`, `Jugadores competitivos`],
+        [`Compatibles sin licencia oficial`, `Variable, suelen ser más baratos`, `No, ninguno`, `Variable`, `No recomendado: muchos no funcionan de verdad en la consola`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu joystick de PS5`, id: "como-elegir" },
+      { type: "h3", title: `1. DualSense estándar vs Edge: ¿necesitás personalización?` },
+      { type: "p", content: `En gatillos adaptativos y haptics, son exactamente iguales. La diferencia real del Edge son las paletas traseras, los gatillos con recorrido ajustable y los perfiles guardados, útiles sobre todo en shooters competitivos. Si jugás casual, el estándar te da la misma experiencia central a un tercio del precio.` },
+      { type: "h3", title: `2. Por qué no recomendamos compatibles baratos sin licencia` },
+      { type: "p", content: `Sony condiciona el funcionamiento real en consola a un programa de licencias, y hay precedente confirmado (la multa francesa de 2023) de que lo hace cumplir vía firmware. Un control sin licencia puede andar hoy y dejar de andar con la próxima actualización del sistema, o directamente no conectarse nunca de verdad a los juegos de PS5 más allá de encenderse.` },
+      { type: "h3", title: `3. Alternativas con licencia oficial que sí funcionan (sin haptics)` },
+      { type: "p", content: `Existen controles de terceros con licencia oficial de Sony que sí se conectan de verdad a la PS5, como el Razer Wolverine V2 Pro o el Victrix Pro BFG. Ninguno tiene gatillos adaptativos ni haptics (esa tecnología no se licencia), y en el caso del Victrix, ni siquiera vibración tradicional. Son una opción válida si buscás otra ergonomía o botones remapeables, sabiendo esa limitación de entrada.` },
+      { type: "h3", title: `4. Cuidado con el stick drift` },
+      { type: "p", content: `Hay una demanda colectiva activa en Estados Unidos contra Sony por el problema de stick drift en el DualSense estándar, sin resolución confirmada. No es un dato para asustarte, pero sí para cuidar el control (evitar movimientos forzados en los sticks) y saber que la garantía del vendedor es tu primer recurso si te pasa.` },
+
+      { type: "h2", title: `Cuánto cuesta un joystick de PS5 en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA18010994:k}}:** el DualSense oficial en Cosmic Red, la compra correcta para la enorme mayoría.`,
+        `**{{precio:MLA18917848:k}} a {{precio:MLA31472572:k}}:** las variantes de color Galactic Purple y Sterling Silver del mismo DualSense oficial.`,
+        `**{{precio:MLA41152829:k}} o más:** el DualSense Edge, el premium para jugadores competitivos.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál joystick de PS5 comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la enorme mayoría, el **DualSense oficial**: es el único con gatillos adaptativos y haptics reales, con el respaldo de compra más grande de todo el sub-silo joystick del sitio. El **DualSense Edge** solo se justifica si vas a usar de verdad las paletas traseras y los gatillos ajustables, sabiendo que su batería es más chica y que en la experiencia central (gatillos adaptativos, haptics) es idéntico al estándar. El error a evitar, y es el más importante de toda esta guía: no compres un "compatible con PS5" barato esperando que replique la experiencia del DualSense. La gran mayoría no se conecta de verdad a la consola, y ninguno (con o sin licencia) tiene gatillos adaptativos reales. Es tecnología exclusiva de Sony, y punto.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor joystick de PS5 en Argentina?`, answer: `Para la enorme mayoría, el [DualSense oficial](https://productosvirales.com.ar/producto/MLA18010994): es el único con gatillos adaptativos y haptics reales, con más de 18.000 calificaciones en MercadoLibre Argentina. El [DualSense Edge](https://productosvirales.com.ar/producto/MLA41152829) es mejor solo si vas a usar la personalización avanzada (paletas, gatillos ajustables).` },
+      { question: `¿Los joysticks "compatibles con PS5" baratos funcionan de verdad?`, answer: `La mayoría no funciona de verdad conectados a la consola PS5: Sony exige licencia y certificación, y hay precedente confirmado de que lo hace cumplir vía actualizaciones de firmware. Muchos "compatibles PS5" que se venden en marketplaces son en realidad controles pensados para PC con el nombre PS5 agregado al título.` },
+      { question: `¿Algún control de terceros tiene gatillos adaptativos como el DualSense?`, answer: `No, ninguno. Es tecnología patentada por Sony y no se licencia a terceros. Ni siquiera los controles con licencia oficial de Sony (como el Razer Wolverine V2 Pro o el Victrix Pro BFG) la tienen; el Victrix ni siquiera tiene vibración tradicional.` },
+      { question: `¿Vale la pena pagar el triple por el DualSense Edge?`, answer: `Solo si vas a usar de verdad las paletas traseras, los gatillos ajustables y los perfiles guardados, por ejemplo jugando de forma competitiva. En gatillos adaptativos y haptics, que es la tecnología central de PS5, el Edge y el estándar son exactamente iguales. Además, la batería del Edge es más chica, reconocido por el propio Sony.` },
+      { question: `¿Es cierto que los DualSense tienen problemas de stick drift?`, answer: `Hay una demanda colectiva activa en Estados Unidos contra Sony por este problema, sin acuerdo ni resolución confirmada a la fecha. No significa que todos los controles lo sufran, pero es un tema real y documentado, no un rumor de foro.` },
+      { question: `¿El DualSense sirve para jugar en PC?`, answer: `Sí, se conecta por Bluetooth o cable USB-C a PC, Mac, Android e iOS. Ojo: los gatillos adaptativos y el feedback háptico dependen de que el juego los soporte específicamente, y por ahora esa función está limitada casi siempre a juegos de PS5, según confirman reseñas de compradores que lo probaron en PC.` },
+      { question: `¿Hay alguna alternativa de terceros que valga la pena para PS5?`, answer: `Si buscás otra ergonomía o botones remapeables, existen opciones con licencia oficial de Sony que sí funcionan de verdad, como el Razer Wolverine V2 Pro o el Victrix Pro BFG. Ninguna tiene gatillos adaptativos ni haptics reales, así que son un complemento de nicho, no un reemplazo del DualSense.` },
+    ],
+    internalLinks: [
+      { label: "Joystick PC: cuál comprar", href: "/guias/gaming/joystick-pc" },
+      { label: "Joystick Xbox: cuál comprar", href: "/guias/gaming/joystick-xbox" },
+      { label: "Joystick para celular: cuál comprar", href: "/guias/gaming/joystick-para-celular" },
+      { label: "Joystick PS5: cuál comprar", href: "/guias/gaming/joystick-ps5" },
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
   // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────

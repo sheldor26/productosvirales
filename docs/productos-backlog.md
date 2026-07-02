@@ -103,6 +103,50 @@
 | Xiaomi G34WQi 34" UW curvo 180Hz | MLA43960787 | Xiaomi | 57 | $629.999 | meli.la/1MQkxTt | **usado** en `monitor-gamer` (#7) |
 | Samsung Odyssey G5 27" QHD 165Hz (G55A) | MLA43960827 | Samsung | 25 | $554.413 | meli.la/11Frg3T | **usado** en `monitor-gamer` (#6) |
 
+## Gaming — Joystick PC
+
+> Guía `joystick-pc` creada (STAGED 2026-09-01), primera del sub-silo `joystick` dentro de gaming (`docs/clusters/joystick/plan.md`). Eje editorial: XInput vs DirectInput (compatibilidad real con Steam/juegos) y cable vs inalámbrico. Todos los 6 links de afiliado ya generados por Juan desde el arranque.
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Redragon Saturn G807 negro | MLA15152700 | Redragon | 7016 | $31.900 | meli.la/1M6Lx4q | **usado** en `joystick-pc` (#1) |
+| Redragon Harrow G808 inalámbrico negro | MLA15086696 | Redragon | 6944 | $59.012 | meli.la/1MSzrYd | **usado** en `joystick-pc` (#2) |
+| Redragon Harrow Pro G808 Pro wireless | MLA27921678 | Redragon | 4394 | $54.990 | meli.la/2rjwF15 | **usado** en `joystick-pc` (#3) |
+| Logitech F310 | MLA15152152 | Logitech | 1623 | $37.999 | meli.la/2xNerho | **usado** en `joystick-pc` (#4) |
+| Logitech G F710 inalámbrico | MLA15108369 | Logitech | 1057 | $57.000 | meli.la/2NRYRqV | **usado** en `joystick-pc` (#5) |
+| Redragon Juno G818 wireless PS4/PC | MLA34724207 | Redragon | 1312 | $69.950 | meli.la/2Vg7eLP | **usado** en `joystick-pc` (#6) |
+
+## Gaming — Joystick Xbox
+
+> Guía `joystick-xbox` creada (STAGED 2026-09-01), 4ta guía del sub-silo joystick (plan.md actualizado por Juan). Solo 2 productos: Xbox es consola minoritaria en AR y no se encontraron compatibles de terceros con reseñas suficientes para verificar honestamente. El control oficial (MLA12384031) también se usa en `joystick-pc` como pick premium (doble uso, según el plan).
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Xbox Wireless Controller (oficial) | MLA12384031 | Microsoft | 468 | $120.000 | meli.la/2YMk7Ec | **usado** en `joystick-xbox` (#1) y en `joystick-pc` (#7, doble uso) |
+| Xbox Elite Series 2 (versión Core) | MLA19627127 | Microsoft | 69 | $329.999 | meli.la/1a7BDjN | **usado** en `joystick-xbox` (#2) |
+
+## Gaming — Joystick para celular
+
+> Guía `joystick-para-celular` creada (STAGED 2026-09-01), 3ra guía ejecutada del sub-silo joystick (orden real de ejecución: pc → xbox → celular; queda pendiente `joystick-xbox`→listo, y el flagship `joystick-ps5` al final). Ángulo honesto central: el producto más vendido de los 4 (T-Dagger Scorpio) NO tiene compatibilidad con celular confirmada por su fabricante (solo PS4/PC) — se decidió con Juan incluirlo igual, marcando el límite de frente en vez de sacarlo o inventar la compatibilidad.
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| T-Dagger Scorpio T-TGP802 | MLA23214606 | T-Dagger | 1594 | $55.444 | meli.la/1ymyheA | **usado** en `joystick-para-celular` (#1, sin compat. celular confirmada) |
+| Genérico X3 (soporte incluido) | MLA24044240 | Genérica | 1427 | $18.999 | meli.la/2oszMRd | **usado** en `joystick-para-celular` (#2, el más barato) |
+| GameSir Cyclone2 Bundle | MLA52360869 | GameSir | 270 | $126.951 | meli.la/1TsAU4M | **usado** en `joystick-para-celular` (#3, el premium) |
+| GameSir Nova 2 Lite | MLA49838346 | GameSir | 252 | $49.699 | meli.la/2u846su | **usado** en `joystick-para-celular` (#4, compra segura) |
+
+## Gaming — Joystick PS5
+
+> Guía `joystick-ps5` creada (STAGED 2026-09-01), 4ta y última guía del sub-silo joystick (flagship, cierra el sub-silo completo: pc, xbox, celular, ps5). Los 4 links de Juan eran todos Sony oficial (3 colores del mismo DualSense + Edge), sin ningún compatible de terceros — se consultó con Juan (`AskUserQuestion`) y decidió: DualSense + Edge como fichas rankeadas, y la sección de "compatibles baratos" en prosa educativa sin ficha de producto ("ese es el ángulo de oro de la guía, y no necesita un producto para venderlo").
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| DualSense Cosmic Red | MLA18010994 | Sony/PlayStation | 18415 | $113.853 | meli.la/1zovXV4 | **usado** en `joystick-ps5` (#1, pick principal) |
+| DualSense Galactic Purple | MLA18917848 | Sony/PlayStation | 18415 | $136.525 | meli.la/2Bpe8U9 | **usado** en `joystick-ps5` (variante de color, mencionada) |
+| DualSense Sterling Silver | MLA31472572 | Sony/PlayStation | 18415 | $140.000 | meli.la/2RSG38M | **usado** en `joystick-ps5` (variante de color, mencionada) |
+| DualSense Edge | MLA41152829 | Sony/PlayStation | 194 | $354.791 | meli.la/2RFmBSJ | **usado** en `joystick-ps5` (#2, premium) |
+
 ## Gaming — Kits gamer (teclado + mouse)
 
 > Ángulo propio futuro: guía "kit gamer: cuál comprar" (combo teclado+mouse, conviene para armar el setup de una).

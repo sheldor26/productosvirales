@@ -27810,13 +27810,12 @@ Un kit de descubrimiento bien armado: cuatro aromas árabes frescos, con atomiza
     priceStatus: "fresh",
     originalPrice: 79999,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_800488-MLA109603392430_042026-O.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_860217-MLA113009423663_062026-F.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_2X_800488-MLA109603392430_042026-F.webp",
-      "https://http2.mlstatic.com/D_Q_NP_2X_800488-MLA109603392430_042026-R.webp",
-      "https://http2.mlstatic.com/D_Q_NP_2X_962525-MLA100386680126_122025-R.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_962525-MLA100386680126_122025-F.webp",
-      "https://http2.mlstatic.com/D_Q_NP_2X_635907-MLA100386637754_122025-R.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_860217-MLA113009423663_062026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_629342-MLA113009393475_062026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_931672-MLA113009393725_062026-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_928211-MLA113010197763_062026-F.webp",
     ],
     category: "Belleza",
     categorySlug: "belleza",
@@ -42065,6 +42064,1203 @@ Para quien quiere algo más que un corte estándar, con la posibilidad de hacer 
         worstRating: '1',
       },
     },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-pc — fichas STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA15152700",
+    title: "Joystick Redragon Saturn G807 Negro",
+    canonicalName: "Joystick Redragon Saturn G807",
+    price: 31900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_794640-MLA99500561342_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_794640-MLA99500561342_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_878906-MLA112253422429_052026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_931806-MLA91874290571_092025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15152700",
+    affiliateUrl: "https://meli.la/1M6Lx4q",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 7016,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Con cable USB (1,5 m)" },
+      { label: "Compatibilidad de entrada", value: "XInput y DirectInput (switch físico)" },
+      { label: "Vibración", value: "Sí" },
+      { label: "Compatible con", value: "PC (Windows), PS3 según fabricante" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Tamaño", value: "16 x 10 x 5,5 cm" },
+    ],
+    relatedProducts: ["MLA15086696", "MLA15152152"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "Joystick Redragon Saturn G807: el más vendido de esta guía (más de 7.000 calificaciones), con cable, switch físico XInput/DirectInput confirmado por el fabricante y compatible con PS3. La entrada más económica y más probada.",
+    seoTitle: "Joystick Redragon Saturn G807: el más vendido y barato",
+    metaDescription: "Joystick Redragon Saturn G807 a $31.900: con cable, switch XInput/DirectInput. Más de 7.000 opiniones, el más vendido y económico de la guía.",
+    verdict: "Sirve si buscás el joystick con cable más probado y barato de la guía, con switch XInput/DirectInput para que lo reconozca cualquier juego de Steam. No sirve si buscás algo inalámbrico o si te importa que sea un modelo vigente en el catálogo oficial de Redragon, porque está discontinuado (aunque se sigue vendiendo y funciona igual).",
+    pros: [
+      "Con más de 7.000 calificaciones, el joystick con más respaldo de compradores de toda la guía",
+      "Switch físico XInput/DirectInput confirmado en el sitio oficial de Redragon",
+      "El más barato de la guía, a $31.900",
+      "Con cable: nunca se queda sin batería a mitad de partida",
+      "Compatible con PS3 según el fabricante, además de PC",
+    ],
+    cons: [
+      "Discontinuado del catálogo oficial vigente de Redragon (sigue vendiéndose y funcionando en ML, pero ya no es un modelo activo de la marca)",
+      "Varios compradores reportan que Windows o Steam no lo reconocen a la primera y hay que habilitar manualmente la opción de joystick genérico",
+      "Zona muerta grande en los sticks antes de que el movimiento se registre, según varias reseñas",
+      "Sin Bluetooth ni modo inalámbrico",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Redragon Saturn G807 es un joystick con cable pensado para PC, con switch físico para elegir entre modo XInput (el estándar tipo Xbox, plug-and-play) y DirectInput (modo genérico, para juegos más viejos). Es, por lejos, el joystick con más ventas y reseñas de esta guía: más de 7.000 calificaciones en MercadoLibre Argentina.
+
+## Lo bueno
+
+El dato más importante: el switch XInput/DirectInput está confirmado en el sitio oficial de Redragon, así que no es humo de la publicación. En modo XInput, Steam y la mayoría de los juegos modernos lo reconocen como si fuera un control de Xbox, sin configurar nada. Es compatible con PS3 según el fabricante (por cable), y a $31.900 es el más barato de toda la guía. Tiene vibración y un diseño ergonómico que las reseñas describen como cómodo.
+
+## La contra real
+
+Dos cosas para saber antes de comprar. Primero: Redragon lo sacó de su catálogo oficial vigente (no aparece en la tienda oficial actual de la marca), aunque eso no afecta su funcionamiento, solo significa que no es "el modelo del momento" de la marca. Segundo: hay un patrón real de compradores que reportan que Windows o Steam no lo detectan automáticamente la primera vez, y hay que habilitar manualmente la opción de joystick genérico en la configuración de Steam. No es un fallo grave, pero si esperás plug-and-play total sin tocar nada, sumá ese paso extra. También varias reseñas mencionan una zona muerta grande en los sticks antes de que el movimiento se registre.
+
+## Para quién sí y para quién no
+
+Comprálo si buscás la entrada más barata y más probada de esta guía, con cable (sin preocuparte por batería) y no te molesta configurar el modo de entrada en Steam si hace falta. No lo compres si buscás algo inalámbrico, si vas a jugar en PS4 (no es compatible según el fabricante) o si preferís un modelo vigente en el catálogo activo de la marca.`,
+    faq: [
+      { question: "¿El Redragon Saturn G807 funciona con Steam sin configurar nada?", answer: "En la mayoría de los casos sí, en modo XInput. Pero varios compradores reportan que a veces Windows o Steam no lo reconocen a la primera, y hay que habilitar manualmente la opción de joystick genérico en la configuración de Steam." },
+      { question: "¿Es compatible con PS4?", answer: "No. Según el fabricante, es compatible con PC y PS3, pero no con PS4." },
+      { question: "¿Tiene modo XInput y DirectInput?", answer: "Sí, tiene un switch físico para elegir entre los dos modos, confirmado en el sitio oficial de Redragon. XInput es el recomendado para la mayoría de los juegos modernos." },
+      { question: "¿Por qué está descontinuado si se sigue vendiendo?", answer: "Redragon ya no lo lista en su catálogo oficial vigente, pero eso no afecta su funcionamiento: sigue siendo un joystick con cable simple, sin firmware que requiera actualizaciones." },
+    ],
+  },
+
+  {
+    id: "MLA15086696",
+    title: "Joystick inalámbrico Redragon Harrow G808 negro",
+    canonicalName: "Joystick Redragon Harrow G808",
+    price: 59012,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_848542-MLA100073879033_122025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_848542-MLA100073879033_122025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_639053-MLA91894723067_092025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_786920-MLA91895755869_092025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15086696",
+    affiliateUrl: "https://meli.la/1MSzrYd",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 6944,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Inalámbrico 2,4 GHz (dongle USB), carga por micro-USB" },
+      { label: "Compatibilidad de entrada", value: "XInput y DirectInput" },
+      { label: "Vibración", value: "Sí" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Alcance declarado", value: "Hasta 10 m (fabricante)" },
+      { label: "Compatible con", value: "PC (Windows), PS3 según fabricante" },
+    ],
+    relatedProducts: ["MLA15152700", "MLA27921678"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "Joystick inalámbrico Redragon Harrow G808: dongle 2,4 GHz sin Bluetooth, switch XInput/DirectInput y vibración. El inalámbrico más vendido de la guía, con más de 6.900 calificaciones.",
+    seoTitle: "Joystick Redragon Harrow G808: el inalámbrico más vendido",
+    metaDescription: "Joystick Redragon Harrow G808 a $59.012: inalámbrico por dongle 2,4 GHz, XInput/DirectInput. Más de 6.900 opiniones, el inalámbrico más vendido.",
+    verdict: "Sirve si querés cortar el cable sin pagar de más: dongle 2,4 GHz, switch XInput/DirectInput y vibración, con el respaldo de ser el inalámbrico más vendido de la guía. No sirve si te importa una cifra exacta de autonomía de batería (el fabricante no la publica con claridad) o si preferís Bluetooth para conectarlo también al celular.",
+    pros: [
+      "El inalámbrico más vendido de la guía: más de 6.900 calificaciones",
+      "Switch XInput/DirectInput confirmado en el sitio oficial de Redragon",
+      "Dongle 2,4 GHz con alcance declarado de hasta 10 metros, sin depender de Bluetooth",
+      "Vibración incluida",
+      "Se carga por cable micro-USB sin dejar de usarse mientras carga",
+    ],
+    cons: [
+      "El fabricante no publica una cifra oficial y clara de autonomía de batería; las fuentes disponibles se contradicen entre 15 y 40 horas",
+      "Hay reportes de desconexiones inalámbricas ocasionales, solucionables reiniciando el dongle",
+      "Sin Bluetooth: no se puede usar con celular o tablet, solo con el dongle",
+      "No compatible con PS4, solo PC y PS3 según el fabricante",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Redragon Harrow G808 es la versión inalámbrica de la línea Harrow: se conecta por un dongle USB de 2,4 GHz (no por Bluetooth) y se carga con un cable micro-USB. Es el joystick inalámbrico con más ventas y reseñas de esta guía, con casi 7.000 calificaciones.
+
+## Lo bueno
+
+Como el Saturn, tiene switch físico XInput/DirectInput confirmado en el sitio oficial de Redragon, así que la compatibilidad con juegos modernos vía Steam está garantizada en modo XInput. El dongle 2,4 GHz declara un alcance de hasta 10 metros, más que suficiente para jugar desde el sillón. Trae vibración, algo que no todos los inalámbricos de esta gama incluyen, y se puede seguir usando mientras se carga por el cable micro-USB.
+
+## La contra real
+
+Acá hay algo que conviene saber antes de comprar: Redragon no publica una cifra oficial y consistente de cuántas horas dura la batería. Distintas fuentes del propio fabricante (según el país) dan números que van de 15 a 40 horas, sin un dato único confiable. En la práctica, varias reseñas de compradores mencionan que aguanta varias horas seguidas de juego, pero no hay una cifra exacta para prometer. También existen reportes de desconexiones inalámbricas ocasionales (se soluciona reiniciando el dongle con el botón de pinhole). No tiene Bluetooth, así que no sirve para conectarlo directo a un celular o tablet.
+
+## Para quién sí y para quién no
+
+Comprálo si querés cortar el cable sin pagar el precio de un inalámbrico premium, y no te molesta no tener una cifra exacta de autonomía. No lo compres si necesitás Bluetooth para celular, si buscás compatibilidad con PS4, o si las desconexiones ocasionales inalámbricas te generan más ruido que comodidad; en ese caso, el cable del Saturn G807 es más simple.`,
+    faq: [
+      { question: "¿El Redragon Harrow G808 tiene Bluetooth?", answer: "No. Se conecta únicamente por el dongle USB de 2,4 GHz incluido, confirmado en el sitio oficial de Redragon. No sirve para conectarlo directo a un celular por Bluetooth." },
+      { question: "¿Cuánto dura la batería?", answer: "El fabricante no publica una cifra oficial clara: distintas fuentes propias de Redragon mencionan entre 15 y 40 horas según el país. No hay un dato único confirmado, así que conviene tomarlo como aproximado." },
+      { question: "¿Se puede usar mientras se carga?", answer: "Sí, se carga por un cable micro-USB y se puede seguir jugando mientras carga, funcionando como un joystick con cable en ese momento." },
+      { question: "¿Es compatible con PS4?", answer: "No. Según el fabricante es compatible con PC y PS3, pero no con PS4." },
+    ],
+  },
+
+  {
+    id: "MLA27921678",
+    title: "Gamepad Redragon Harrow Pro Wireless G808pro Joystick Pc Ps3 Negro",
+    canonicalName: "Joystick Redragon Harrow Pro G808 Pro",
+    price: 54990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_769478-MLA99951904179_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_769478-MLA99951904179_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_748314-MLU76723525800_062024-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_939780-MLU76723351124_062024-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA27921678",
+    affiliateUrl: "https://meli.la/2rjwF15",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 4394,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Inalámbrico 2,4 GHz (dongle) o con cable" },
+      { label: "Compatibilidad de entrada", value: "XInput y DirectInput (multi-modo)" },
+      { label: "Carga", value: "USB-C, batería 600 mAh, ~2-3 h de carga" },
+      { label: "Alcance declarado", value: "8 m (fabricante)" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Compatible con", value: "PC (Windows), PS3 (sin verificación independiente)" },
+    ],
+    relatedProducts: ["MLA15086696", "MLA34724207"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "Joystick Redragon Harrow Pro G808 Pro: inalámbrico 2,4 GHz o con cable, carga USB-C y la mejor calificación de la guía (4.8 estrellas). La evolución del Harrow original.",
+    seoTitle: "Redragon Harrow Pro G808: el mejor puntuado de la guía",
+    metaDescription: "Redragon Harrow Pro G808 Pro a $54.990: inalámbrico o con cable, USB-C, XInput/DirectInput. 4.8 estrellas, la mejor calificación de la guía.",
+    verdict: "Sirve si querés el joystick mejor puntuado de la guía (4.8 estrellas), con la flexibilidad de usarlo inalámbrico o con cable y carga rápida por USB-C. No sirve si necesitás una cifra exacta de autonomía por carga (el fabricante no la publica) o si priorizás Bluetooth, porque este modelo tampoco lo tiene.",
+    pros: [
+      "La mejor calificación de toda la guía: 4.8 estrellas sobre más de 4.300 opiniones",
+      "Funciona inalámbrico (dongle 2,4 GHz) o con cable, según lo que necesites",
+      "Carga por USB-C, más rápido y moderno que el micro-USB del Harrow original",
+      "Switch multi-modo XInput/DirectInput confirmado por el fabricante",
+      "Grip de goma que las reseñas destacan como cómodo",
+    ],
+    cons: [
+      "El fabricante confirma la batería de 600 mAh y el tiempo de carga (2-3 h), pero no publica cuántas horas dura jugando: vendedores estiman 10-12 h, sin ser un dato oficial",
+      "El alcance inalámbrico declarado es de 8 metros, menos que el Harrow G808 original (10 m)",
+      "El manual oficial dedica una sección entera a solucionar problemas de conexión inalámbrica, señal de que no es un problema raro",
+      "Sin Bluetooth",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Harrow Pro G808 Pro es la evolución del Harrow original: mismo concepto de joystick inalámbrico por dongle 2,4 GHz, pero con carga USB-C (más moderna que el micro-USB del original) y la posibilidad de usarlo también con cable. Es el joystick mejor puntuado de toda esta guía, con 4.8 estrellas.
+
+## Lo bueno
+
+El salto de calificación frente al Harrow original (4.4 a 4.8 estrellas) se nota en las reseñas: compradores destacan el grip de goma, la sensación sólida de los materiales y una carga rápida gracias al USB-C. El fabricante confirma la batería de 600 mAh y un tiempo de carga de entre 2 y 3 horas. El switch XInput/DirectInput multi-modo está confirmado oficialmente, igual que en el resto de la línea Redragon de esta guía.
+
+## La contra real
+
+Acá también aparece el mismo punto ciego que en el Harrow original: Redragon no publica cuántas horas dura la batería jugando. Algunos vendedores estiman entre 10 y 12 horas, pero no es un dato que salga de una fuente oficial, así que conviene tomarlo como aproximado. El alcance inalámbrico declarado (8 metros) es menor que el del Harrow G808 base (10 metros). Y el manual oficial de Redragon incluye una sección específica de solución de problemas para cuando "el gamepad no conecta de forma inalámbrica", lo que sugiere que no es una situación tan rara. Como el resto de la línea, no tiene Bluetooth.
+
+## Para quién sí y para quién no
+
+Comprálo si buscás el joystick mejor puntuado de la guía y valorás la flexibilidad de usarlo con o sin cable, con carga rápida por USB-C. No lo compres si necesitás una promesa exacta de autonomía por carga, o si el alcance inalámbrico de más de 8 metros es importante para vos (en ese caso, el Harrow G808 original declara más alcance).`,
+    faq: [
+      { question: "¿El Harrow Pro G808 Pro es mejor que el Harrow G808 original?", answer: "Tiene mejor calificación (4.8 contra 4.4 estrellas) y carga por USB-C en vez de micro-USB, además de poder usarse con cable. A cambio, declara menos alcance inalámbrico (8 m contra 10 m) y tampoco publica una cifra oficial de autonomía." },
+      { question: "¿Cuánto dura la batería?", answer: "El fabricante confirma que carga en 2 a 3 horas, pero no publica una cifra oficial de cuánto dura jugando. Algunos vendedores estiman 10 a 12 horas, sin ser un dato confirmado por Redragon." },
+      { question: "¿Funciona con cable además de inalámbrico?", answer: "Sí, es uno de los pocos de esta guía que ofrece las dos opciones: dongle 2,4 GHz inalámbrico o cable USB-C conectado directo." },
+      { question: "¿Tiene Bluetooth?", answer: "No, ninguno de los modelos Redragon de esta guía tiene Bluetooth. Se conectan por dongle 2,4 GHz o cable." },
+    ],
+  },
+
+  {
+    id: "MLA15152152",
+    title: "Logitech Gamepad F310 Joystick Gaming Juegos Azul/Negro",
+    canonicalName: "Joystick Logitech F310",
+    price: 37999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_658046-MLA99984829457_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_658046-MLA99984829457_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_751079-MLA84537988250_052025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_776423-MLA91475995654_092025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15152152",
+    affiliateUrl: "https://meli.la/2xNerho",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1623,
+    pastelColor: "var(--pastel-ambar)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Con cable USB (1,98 m)" },
+      { label: "Compatibilidad de entrada", value: "XInput y DirectInput (switch físico)" },
+      { label: "Vibración", value: "No" },
+      { label: "Marca", value: "Logitech G, con soporte oficial documentado" },
+      { label: "Compatible con", value: "PC (Windows), Android" },
+      { label: "Garantía", value: "Soporte oficial Logitech" },
+    ],
+    relatedProducts: ["MLA15152700", "MLA15108369"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "Joystick Logitech F310: con cable, switch XInput/DirectInput documentado oficialmente por Logitech, marca de referencia con más de 10 años en el mercado. El que 'simplemente anda' de esta guía.",
+    seoTitle: "Logitech F310: el joystick con cable que simplemente anda",
+    metaDescription: "Logitech F310 a $37.999: con cable, switch XInput/DirectInput oficial, marca de referencia con soporte documentado. 4.7 estrellas, plug and play.",
+    verdict: "Sirve si buscás la opción más segura de la guía: es de Logitech, con el switch XInput/DirectInput documentado oficialmente y más de una década de historial probado. No sirve si buscás algo inalámbrico o con vibración, porque el F310 no tiene ninguna de las dos cosas.",
+    pros: [
+      "Marca Logitech, con documentación oficial y soporte técnico real (a diferencia de los Redragon de esta guía)",
+      "Switch físico XInput/DirectInput documentado paso a paso por Logitech, sin dudas de compatibilidad",
+      "Producto maduro con más de 10 años en el mercado: comportamiento predecible y muy probado",
+      "Con cable: sin batería, sin desconexiones inalámbricas",
+      "Varias reseñas lo destacan específicamente por no tener drift, a diferencia de joysticks genéricos",
+    ],
+    cons: [
+      "Sin vibración",
+      "El cable mide 1,98 m según la ficha técnica oficial de Logitech (no 1,8 m como a veces se anuncia)",
+      "El D-pad es el punto débil más señalado a largo plazo: existen guías de reparación dedicadas para cuando empieza a fallar",
+      "No es compatible con PlayStation, solo PC y Android",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Logitech F310 es un joystick con cable, sin vibración, con más de 10 años en el mercado. Es el único joystick "de marca grande" con cable de esta guía, y eso se nota en algo puntual: Logitech documenta oficialmente cómo cambiar entre modo XInput y DirectInput con el switch físico, con artículos de soporte técnico dedicados. Ningún otro modelo de esta guía tiene ese nivel de documentación oficial.
+
+## Lo bueno
+
+La ventaja del F310 no es de specs, es de confianza: es un producto maduro, con soporte oficial de Logitech y un historial de más de una década de uso real. Varios compradores lo comparan directamente con "otros joysticks genéricos chotos" que compraron antes y tuvieron drift; acá varias reseñas destacan justamente lo contrario. El switch XInput/DirectInput funciona exactamente como lo documenta Logitech, sin sorpresas.
+
+## La contra real
+
+No tiene vibración, algo que sí traen varios modelos Redragon de esta guía a precio similar o menor. El cable mide 1,98 metros según la especificación técnica oficial (una diferencia menor, pero vale la corrección frente a lo que a veces se anuncia como 1,8 m). El punto débil real, documentado con guías de reparación específicas, es el D-pad: con meses o años de uso intenso puede empezar a fallar o perder precisión diagonal. No es exclusivo del F310 (les pasa a la mayoría de los D-pad de este tipo), pero es lo primero que se gasta. Tampoco sirve para PlayStation: solo PC y Android.
+
+## Para quién sí y para quién no
+
+Comprálo si priorizás la marca más segura y probada de la guía, con cable y sin vueltas de configuración. Es la opción más recomendable si ya tuviste una mala experiencia con un joystick genérico. No lo compres si querés vibración, algo inalámbrico, o si necesitás compatibilidad con PlayStation.`,
+    faq: [
+      { question: "¿El Logitech F310 tiene vibración?", answer: "No, el F310 no tiene motor de vibración. Si eso es importante para vos, los Redragon de esta guía sí lo incluyen." },
+      { question: "¿Cómo cambio entre XInput y DirectInput en el F310?", answer: "Tiene un switch físico X/D en la parte inferior. Logitech documenta oficialmente el proceso en su sitio de soporte, y es el único modelo de esta guía con ese nivel de documentación oficial." },
+      { question: "¿Sirve para PlayStation?", answer: "No. Logitech lo lista como compatible con computadoras y Android, sin soporte para PlayStation." },
+      { question: "¿Es mejor que los joysticks Redragon de esta guía?", answer: "No necesariamente tiene mejores specs (no tiene vibración ni es inalámbrico), pero gana en confianza: es de una marca con soporte técnico oficial documentado y más de 10 años de historial probado en el mercado." },
+    ],
+  },
+
+  {
+    id: "MLA15108369",
+    title: "Joystick inalámbrico Logitech G F710 plata/negro",
+    canonicalName: "Joystick Logitech F710",
+    price: 57000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_709606-MLA99420408658_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_709606-MLA99420408658_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_780429-MLA91876964299_092025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_826546-MLA91877147461_092025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15108369",
+    affiliateUrl: "https://meli.la/2NRYRqV",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1057,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Inalámbrico 2,4 GHz (mini receptor USB)" },
+      { label: "Compatibilidad de entrada", value: "XInput y DirectInput (switch físico)" },
+      { label: "Batería", value: "2 pilas AA (sin cifra oficial de horas)" },
+      { label: "Alcance declarado", value: "10 m (ficha técnica oficial)" },
+      { label: "Vibración", value: "Sí, con sensor de movimiento" },
+      { label: "Compatible con", value: "PC (Windows)" },
+    ],
+    relatedProducts: ["MLA15152152", "MLA15086696"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "Joystick inalámbrico Logitech F710: mini receptor USB de 2,4 GHz, switch XInput/DirectInput oficial, 2 pilas AA y 10 metros de alcance confirmado. El inalámbrico de marca de esta guía.",
+    seoTitle: "Logitech F710: el joystick inalámbrico de marca segura",
+    metaDescription: "Logitech F710 a $57.000: inalámbrico 2,4 GHz, XInput/DirectInput oficial, 10 m de alcance confirmado. Marca con soporte técnico documentado.",
+    verdict: "Sirve si buscás la versión inalámbrica de la confianza Logitech, con switch XInput/DirectInput documentado oficialmente y 10 metros de alcance confirmado en la ficha técnica. No sirve si te molesta usar pilas AA en vez de batería recargable, o si buscás la opción con más reseñas de esta guía: los Redragon inalámbricos tienen bastante más volumen de ventas.",
+    pros: [
+      "Switch XInput/DirectInput documentado oficialmente por Logitech, con instrucciones claras de uso",
+      "Alcance inalámbrico de 10 metros confirmado en la ficha técnica oficial (no una estimación de reventa)",
+      "Usa 2 pilas AA comunes, reemplazables en cualquier kiosco (y funcionan pilas recargables NiMH según usuarios)",
+      "Tiene vibración y sensor de movimiento, algo que el F310 (con cable) no incluye",
+      "Marca con soporte técnico oficial real",
+    ],
+    cons: [
+      "Logitech no publica en ningún documento oficial cuántas horas dura la batería; las estimaciones no oficiales varían mucho (de 30 a 200 horas)",
+      "Tiene menos reseñas que los inalámbricos Redragon de esta guía (1.057 contra más de 4.000-6.900)",
+      "Hay un problema documentado de desconexiones intermitentes relacionado con la función de ahorro de energía USB de Windows, con solución conocida (desactivar el 'suspender selectivamente' del receptor en el Administrador de dispositivos)",
+      "Logitech advierte no cambiar entre XInput y DirectInput con un juego abierto: hay que hacerlo antes",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Logitech F710 es la versión inalámbrica del F310: mismo switch XInput/DirectInput documentado oficialmente, pero con un mini receptor USB de 2,4 GHz y funcionamiento a pilas AA en vez de cable. Logitech confirma oficialmente un alcance de 10 metros en su ficha técnica, el único dato de alcance de toda esta guía que viene de una fuente 100% oficial y exacta (no una estimación de reventa).
+
+## Lo bueno
+
+Como el F310, la ventaja es la documentación: Logitech explica oficialmente cómo funciona el switch de modo, e incluso advierte que no conviene cambiarlo con un juego abierto (hay que hacerlo antes de iniciar). Usa 2 pilas AA comunes, así que nunca te quedás varado sin poder reemplazarlas, y varios usuarios confirman que funciona bien con pilas recargables NiMH aunque Logitech no lo garantice oficialmente. A diferencia del F310, este sí tiene vibración y sensor de movimiento.
+
+## La contra real
+
+Acá aparece un vacío real en la documentación de Logitech: en ningún lugar oficial (ni ficha técnica, ni manual, ni página de producto) publican cuántas horas dura la batería. Las estimaciones no oficiales varían muchísimo, de 30 a 200 horas según la fuente, así que no hay una cifra confiable para prometer. También existe un problema bien documentado (con hilos largos en foros de Steam) de desconexiones intermitentes causadas por la función de suspensión selectiva de USB de Windows: se soluciona desactivándola para el receptor en el Administrador de dispositivos, pero es un paso extra que el F310 (con cable) no necesita. Tiene menos reseñas que los Redragon inalámbricos de esta guía, aunque el respaldo de marca compensa parte de esa diferencia.
+
+## Para quién sí y para quién no
+
+Comprálo si querés la confianza de Logitech en versión inalámbrica, con pilas AA reemplazables en cualquier lado y no te importa un eventual ajuste de configuración de Windows si aparecen desconexiones. No lo compres si buscás la opción con más volumen de ventas y reseñas (ahí los Redragon inalámbricos ganan), o si preferís batería recargable en vez de pilas.`,
+    faq: [
+      { question: "¿Cuánto dura la batería del Logitech F710?", answer: "Logitech no publica una cifra oficial. Usa 2 pilas AA reemplazables, y las estimaciones no oficiales varían mucho (de 30 a 200 horas) según la fuente, así que no hay un dato confiable para prometer." },
+      { question: "¿Por qué se desconecta a veces?", answer: "Es un problema documentado relacionado con la función de suspensión selectiva de USB de Windows, que apaga el receptor para ahorrar energía. Se soluciona desactivando esa opción para el receptor en el Administrador de dispositivos de Windows." },
+      { question: "¿Cuál es el alcance inalámbrico real?", answer: "10 metros, confirmado en la ficha técnica oficial de Logitech. Es el único dato de alcance de esta guía que viene de una fuente 100% oficial." },
+      { question: "¿Puedo cambiar de XInput a DirectInput mientras juego?", answer: "Logitech recomienda no hacerlo: hay que cambiar el switch de modo antes de abrir el juego, porque cambiarlo con el juego corriendo puede hacer que deje de reconocerlo." },
+    ],
+  },
+
+  {
+    id: "MLA34724207",
+    title: "Joystick Gamepad Redragon Juno G818 Usb Wireless PS4 PC",
+    canonicalName: "Joystick Redragon Juno G818",
+    price: 69950,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_628700-MLA99998989991_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_628700-MLA99998989991_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_979747-MLU75142594946_032024-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_656943-MLU75288302959_032024-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA34724207",
+    affiliateUrl: "https://meli.la/2Vg7eLP",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1312,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Bluetooth o cable USB-C (sin dongle 2,4 GHz confirmado)" },
+      { label: "Batería", value: "600 mAh, hasta 24 h en Bluetooth (fabricante)" },
+      { label: "Extras", value: "Touchpad, altavoz, botón compartir, sensor de movimiento" },
+      { label: "Compatible con", value: "PC (Windows), PS4 por cable (Bluetooth sin confirmar), Android/iOS" },
+      { label: "Vibración", value: "Sí" },
+      { label: "Compatibilidad de entrada", value: "XInput/DirectInput según fabricante, mecanismo no documentado con claridad" },
+    ],
+    relatedProducts: ["MLA27921678", "MLA15086696"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "Joystick Redragon Juno G818: el más completo en funciones de la guía (touchpad, altavoz, botón compartir, Bluetooth), con batería de hasta 24 horas. Algunas specs del fabricante tienen menos respaldo independiente que el resto de la guía.",
+    seoTitle: "Redragon Juno G818: el joystick con más funciones extra",
+    metaDescription: "Redragon Juno G818 a $69.950: Bluetooth, touchpad, altavoz, hasta 24 h de batería. El más completo en funciones, con algunas specs a confirmar.",
+    verdict: "Sirve si querés el joystick con más funciones extra de la guía (touchpad, altavoz, botón compartir, Bluetooth) y no te molesta que algunas specs del fabricante tengan menos verificación independiente que el resto. No sirve si necesitás confirmación 100% sólida de que el modo Bluetooth funciona en PS4: ahí conviene ir por cable, que es el modo mejor confirmado.",
+    pros: [
+      "El más completo en funciones de la guía: touchpad, altavoz integrado, botón compartir y sensor de movimiento",
+      "Batería de hasta 24 horas en modo Bluetooth, confirmada oficialmente por el fabricante",
+      "Conexión Bluetooth real (confirmada oficialmente), útil para celular y tablet además de PC",
+      "También funciona con cable USB-C",
+      "4.7 estrellas sobre más de 1.300 opiniones",
+    ],
+    cons: [
+      "El mecanismo exacto de cambio entre XInput y DirectInput no está documentado con claridad por el fabricante, a diferencia del resto de la guía",
+      "Hay una contradicción entre el sitio oficial de Redragon (que dice PS4 compatible por cable y Bluetooth) y varias publicaciones de ML (que solo confirman cable): por cable es el modo más confiable, Bluetooth en PS4 queda sin confirmar de forma independiente",
+      "Una reseña reporta problemas de conexión Bluetooth probándolo en varios dispositivos",
+      "Es el modelo con menos reseñas técnicas independientes de toda la guía: la mayoría de la información depende del fabricante, sin contraste de foros o reviews especializadas",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Redragon Juno G818 es el joystick más cargado de funciones de esta guía: además de lo básico, suma touchpad, altavoz integrado, botón de compartir y sensor de movimiento, además de conectividad Bluetooth real (no solo dongle). Apunta a quien quiere un solo joystick que sirva para PC, celular y, con matices, PS4.
+
+## Lo bueno
+
+El fabricante confirma oficialmente la batería de 600 mAh con hasta 24 horas de autonomía en modo Bluetooth, la cifra de batería más clara y generosa de toda esta guía. El Bluetooth está confirmado de verdad (a diferencia de lo que a veces se asume de los Redragon económicos), así que sirve para conectarlo a un celular Android o iOS además de la PC. Con 4.7 estrellas y más de 1.300 opiniones, tiene buen respaldo de compradores.
+
+## La contra real
+
+Este es el modelo donde más conviene leer la letra chica. Primero: a diferencia de los otros Redragon de esta guía, el mecanismo exacto para cambiar entre XInput y DirectInput no está documentado con claridad en ninguna fuente oficial encontrada. Segundo, y más importante: hay una contradicción real entre lo que dice el sitio oficial de Redragon (compatible con PS4 "por cable y Bluetooth") y lo que afirman varias publicaciones de MercadoLibre (solo por cable). Técnicamente, conectar un control por Bluetooth a una PS4 como si fuera un DualShock 4 es mucho más difícil de lograr que un simple cable USB, así que el modo más confiable para PS4 es el cable; el Bluetooth en PS4 específicamente no está confirmado de forma independiente por ningún tercero. Una reseña de comprador también menciona haber tenido problemas de conexión Bluetooth probándolo en varios dispositivos.
+
+## Para quién sí y para quién no
+
+Comprálo si valorás las funciones extra (touchpad, altavoz, botón compartir) y querés Bluetooth real para usarlo también en el celular, sabiendo que en PC es donde va a rendir de forma más predecible. Si tu plan específico es usarlo en PS4 por Bluetooth, no confíes en eso sin probarlo primero: andá por cable, que es el modo con más respaldo. Si buscás algo más simple y con specs 100% claras, el Harrow Pro G808 Pro de esta guía tiene mejor documentación técnica.`,
+    faq: [
+      { question: "¿El Redragon Juno G818 funciona con PS4?", answer: "El fabricante lo confirma por cable y por Bluetooth, pero solo el modo cable tiene respaldo confiable: no se encontró confirmación independiente de que el Bluetooth funcione en PS4 real, y varias publicaciones de ML solo mencionan compatibilidad por cable. Si vas a usarlo en PS4, priorizá el cable." },
+      { question: "¿Cuánto dura la batería?", answer: "El fabricante confirma oficialmente hasta 24 horas en modo Bluetooth, con una batería de 600 mAh. Es la cifra de batería más clara y respaldada de toda esta guía." },
+      { question: "¿Tiene touchpad como el DualSense?", answer: "Sí, según su ficha técnica trae touchpad, además de altavoz integrado y botón de compartir, funciones poco comunes en un joystick de esta gama." },
+      { question: "¿Se conecta por Bluetooth a un celular?", answer: "Sí, el Bluetooth está confirmado oficialmente por el fabricante, a diferencia de otros modelos de esta guía que solo tienen dongle 2,4 GHz. Sirve para celular y tablet además de PC." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-xbox — fichas STAGED
+  // (el control oficial Xbox Wireless también se usa en joystick-pc)
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA12384031",
+    title: "Joystick Inalambrico EX600001 Microsoft XBox Negro",
+    canonicalName: "Joystick Xbox Wireless Controller",
+    price: 120000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_607987-MLA97215744455_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_607987-MLA97215744455_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_602769-MLA97217165113_112025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA12384031",
+    affiliateUrl: "https://meli.la/2YMk7Ec",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 468,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Xbox Wireless (consola) o Bluetooth (PC, celular, tablet)" },
+      { label: "Batería", value: "2 pilas AA, hasta 40 h (fabricante)" },
+      { label: "Compatibilidad de entrada", value: "XInput nativo (estándar de Windows/Steam)" },
+      { label: "Compatible con", value: "Xbox Series S/X, Xbox One, PC, Android, iOS" },
+      { label: "Jack de auriculares", value: "3.5 mm integrado" },
+      { label: "Botón compartir", value: "No trae (según fotos del producto, es una revisión anterior al rediseño 2020 con Share button)" },
+    ],
+    relatedProducts: ["MLA19627127", "MLA15152700"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El control oficial de Xbox: XInput nativo, así que Windows y Steam lo reconocen sin configurar nada. Usa pilas AA (el kit recargable se compra aparte) y en Argentina tiene menos reseñas que los joysticks genéricos, pero es el que más veces \"simplemente anda\".",
+    seoTitle: "Joystick Xbox Wireless Controller: el oficial que no falla",
+    metaDescription: "Control oficial de Xbox a $120.000: XInput nativo, Bluetooth para PC y celular, pilas AA. El joystick que Windows y Steam reconocen sin configurar nada.",
+    verdict: "Sirve si querés la compatibilidad más segura de todas: es XInput nativo, así que ni Steam ni Windows te van a dar problemas, y funciona igual en la consola, la PC y el celular. No sirve si buscás el precio más bajo (hay joysticks genéricos considerablemente más baratos) o si te molesta depender de pilas AA en vez de batería recargable integrada.",
+    pros: [
+      "XInput nativo: es el estándar que usan Windows y Steam, cero configuración manual necesaria",
+      "Se conecta a la consola por Xbox Wireless (protocolo propio, no Bluetooth) y a PC/celular/tablet por Bluetooth: sirve para todo con el mismo control",
+      "Jack de 3.5 mm integrado para auriculares con cable",
+      "4.8 estrellas, la mejor calificación de todo el sub-silo joystick",
+      "Es el mismo control que se puede usar tanto en Xbox como en PC: no hace falta comprar dos joysticks distintos",
+    ],
+    cons: [
+      "Usa 2 pilas AA de fábrica, no batería recargable integrada; el kit oficial \"Xbox Rechargeable Battery + USB-C\" se compra aparte",
+      "Con 468 reseñas es menos revisado que los joysticks genéricos de esta guía (Xbox es una consola minoritaria en Argentina), aunque sigue siendo más que la mayoría de sus competidores directos con licencia oficial",
+      "Microsoft no publica una cifra oficial de alcance inalámbrico en metros",
+      "Según las fotos del producto en venta, este es un modelo sin el botón \"Share\" que sí traen las revisiones más nuevas del control (post-2020); si ese botón te importa, confirmá el modelo exacto antes de comprar",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es el control inalámbrico oficial de Microsoft, el mismo que viene con las consolas Xbox Series X/S y Xbox One, vendido suelto. Es la referencia de compatibilidad de todo el sub-silo: cuando se dice que un joystick genérico "es tipo Xbox", es a este control al que se refieren.
+
+## Lo bueno
+
+Es XInput nativo, confirmado por la documentación oficial de Xbox y por Steam/Windows: no hay switch que activar ni configuración que tocar, funciona directo. Para la consola usa el protocolo propietario Xbox Wireless (menor latencia, más ancho de banda, sirve también para audio de auriculares), y para PC, tablets y celulares usa Bluetooth estándar, confirmado en la ficha técnica oficial de xbox.com. Tiene jack de 3.5 mm integrado para conectar auriculares con cable sin adaptador. Con 4.8 estrellas, es la mejor calificación de todo el sub-silo joystick.
+
+## La contra real
+
+Viene con pilas AA de fábrica (Microsoft confirma "hasta 40 horas" con pilas AA estándar), no con batería recargable integrada; si querés recargable hay que comprar el kit oficial "Xbox Rechargeable Battery + USB-C" por separado. Tiene 468 reseñas en MercadoLibre Argentina: es un número sólido para un producto con licencia oficial, pero bastante menor a los joysticks genéricos de Redragon de esta guía (varios superan las 4.000), reflejo de que Xbox es la consola minoritaria en el mercado argentino. Microsoft tampoco publica una cifra de alcance inalámbrico en metros para este control, así que no hay un número oficial para comparar. Un detalle más para quien quiere el botón "Share" (captura rápida de clips): según las fotos de este listado, es el diseño sin ese botón, que se agregó en el rediseño de 2020; si te importa esa función puntual, conviene confirmar el modelo exacto con el vendedor antes de comprar.
+
+## Cómo se compara
+
+Frente a los joysticks genéricos de esta guía (Redragon, Logitech), este control cuesta más pero elimina cualquier duda de compatibilidad: es literalmente el estándar contra el que se miden todos los demás. Si tu prioridad es no perder tiempo configurando nada, es la opción más segura.
+
+## Para quién sí y para quién no
+
+Comprálo si querés la opción que "simplemente anda" en PC, consola y celular sin dudas de compatibilidad, y no te molesta usar pilas AA. No lo compres si buscás el precio más bajo posible (los genéricos de esta guía cuestan la mitad o menos) o si el botón Share es un requisito no negociable, en cuyo caso hay que buscar específicamente la revisión más nueva del control.`,
+    faq: [
+      { question: "¿El control oficial de Xbox funciona bien en PC con Steam?", answer: "Sí, sin ningún paso extra. Es XInput nativo, el estándar que usan Windows y Steam, así que lo conectás y cualquier juego moderno lo reconoce automáticamente." },
+      { question: "¿Usa pilas o batería recargable?", answer: "De fábrica usa 2 pilas AA (Microsoft declara hasta 40 horas de autonomía). Si querés batería recargable, hay que comprar aparte el kit oficial \"Xbox Rechargeable Battery + USB-C\"." },
+      { question: "¿Se puede usar el mismo control en la consola y en la PC?", answer: "Sí, ese es su principal valor: se conecta a la consola por Xbox Wireless y a la PC, tablets o celulares por Bluetooth. No hace falta comprar un joystick distinto para cada uno." },
+      { question: "¿Por qué tiene menos reseñas que los joysticks genéricos de esta guía?", answer: "Porque Xbox es una consola minoritaria en Argentina frente a PlayStation, y este control se usa sobre todo con esa consola (además de PC). 468 reseñas es un número sólido para un producto con licencia oficial, aunque menor al de los joysticks genéricos multiplataforma." },
+    ],
+  },
+
+  {
+    id: "MLA19627127",
+    title: "Joystick inalámbrico Microsoft Xbox Elite Series 2 blanco",
+    canonicalName: "Joystick Xbox Elite Series 2",
+    price: 329999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_972236-MLA99992931447_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_972236-MLA99992931447_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_825590-MLA51696724981_092022-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_768940-MLA51696743563_092022-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19627127",
+    affiliateUrl: "https://meli.la/1a7BDjN",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 69,
+    pastelColor: "var(--pastel-ambar)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Xbox Wireless (consola), Bluetooth o USB-C con cable" },
+      { label: "Batería", value: "Recargable interna, hasta 40 h (fabricante)" },
+      { label: "Personalización", value: "Paletas traseras intercambiables, gatillos ajustables (Hair Trigger Locks), tensión de sticks ajustable" },
+      { label: "Perfiles", value: "Hasta 3 perfiles personalizados + 1 default, guardados en el propio control" },
+      { label: "Compatible con", value: "Xbox Series S/X, Xbox One, PC (Windows 10/11)" },
+      { label: "App de configuración", value: "Xbox Accessories (solo Xbox y Windows 10/11, no iOS/Android)" },
+    ],
+    relatedProducts: ["MLA12384031", "MLA27921678"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El joystick premium oficial de Microsoft: paletas traseras intercambiables, gatillos ajustables y perfiles guardados en el propio control. No tiene touchpad (a pesar de lo que dice su ficha de ML) y, según confirman compradores reales, esta publicación es la versión \"Core\": sin estuche ni paletas extra en la caja.",
+    seoTitle: "Xbox Elite Series 2: el joystick premium, con qué cuidado",
+    metaDescription: "Xbox Elite Series 2 a $329.999: paletas intercambiables, gatillos ajustables, 40 h de batería. Ojo: es la versión Core, sin estuche ni paletas extra.",
+    verdict: "Sirve si jugás géneros donde las paletas traseras y los gatillos ajustables realmente aportan (shooters competitivos, juegos donde cada milisegundo cuenta) y estás dispuesto a pagar el precio premium sabiendo que es la versión Core. No sirve si esperás un touchpad tipo DualSense (no tiene) o si asumías que venía con estuche y paletas extra: para el resto, el control estándar de Xbox cuesta mucho menos y cubre lo esencial.",
+    pros: [
+      "4 paletas traseras intercambiables (medium y mini) para remapear botones sin sacar los pulgares de los sticks",
+      "Gatillos con Hair Trigger Locks: switch físico que acorta el recorrido para disparar más rápido, sin pasar por ninguna app",
+      "Hasta 3 perfiles personalizados guardados en el propio control (más 1 default), confirmado por Microsoft, así que se puede cambiar de perfil sin depender de la app en el momento",
+      "Batería recargable interna con hasta 40 horas de autonomía por carga, confirmado oficialmente; un comprador real reporta que en su uso le está durando más de lo declarado",
+      "4.8 estrellas de calificación, aunque con base de reseñas chica",
+    ],
+    cons: [
+      "No tiene touchpad: la ficha de MercadoLibre lo menciona, pero la página oficial de Microsoft no lo incluye en ningún lado; lo que sí tiene son las 4 paletas traseras, que es donde está el valor real de este control",
+      "Es la versión \"Core\" (blanco y negro): varios compradores confirman en sus reseñas que la caja NO trae estuche, paletas extra ni stand de carga (eso es exclusivo de la versión Elite completa, en negro). Las paletas del Elite Series 1 sí son compatibles si ya las tenías",
+      "Configurar perfiles y paletas requiere la app Xbox Accessories, disponible solo en consola Xbox y Windows 10/11, no en iOS ni Android",
+      "Con apenas 69 reseñas en MercadoLibre Argentina es, por lejos, el producto con menos respaldo de compradores de todo el sub-silo joystick",
+      "Es el joystick más caro de esta guía por lejos: casi el triple que el control estándar de Xbox",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es el control premium oficial de Microsoft, pensado para jugadores que quieren personalizar cómo responde el control: paletas traseras para remapear botones, gatillos de recorrido ajustable y tensión de sticks configurable. No es una versión "con más funciones para todos", es específicamente para quien va a usar esa personalización.
+
+## Lo bueno
+
+Microsoft confirma oficialmente 4 paletas traseras intercambiables (dos medium, dos mini), gatillos con "Hair Trigger Locks" (3 posiciones de recorrido corto ajustables con un switch físico, sin pasar por ninguna app) y sticks con tensión ajustable mediante una herramienta incluida. Un dato que suma de verdad: hasta 3 perfiles personalizados más 1 default se guardan en el propio control (no solo en la nube), así que se puede cambiar de perfil con el botón dedicado sin depender de tener la app abierta en ese momento. La batería recargable interna declara hasta 40 horas de autonomía, confirmado en la ficha oficial de xbox.com.
+
+## La contra real
+
+Hay que aclarar algo que la propia ficha de MercadoLibre tiene mal: dice que trae touchpad, y no es así. La página oficial de Microsoft no menciona touchpad en ningún lugar del Elite Series 2; lo que tiene son las paletas traseras, que es un tipo de personalización distinto (para remapear botones, no para gestos táctiles). Segundo, y más importante para decidir la compra: Microsoft vende este control en dos versiones con contenido muy distinto: la completa (negra, con estuche de transporte, paletas y sticks extra, stand de carga) y la versión "Core" (blanco y negro, solo el control, la herramienta de ajuste y un cable USB-C). Esta publicación es la versión Core: varios compradores lo confirman en sus reseñas ("esta versión no trae los accesorios", "sacaron una versión core... que no viene ni con funda ni accesorios intercambiables, se tienen que comprar aparte"). Si ya tenés paletas del Elite Series 1, buena noticia: son compatibles con este control. Tercero: la app Xbox Accessories, necesaria para configurar perfiles y remapear las paletas, solo funciona en consola Xbox y Windows 10/11, no en celular. Y con 69 reseñas en Argentina, es el producto con menos respaldo de todo el sub-silo joystick, algo esperable en un control premium de nicho.
+
+## Cómo se compara
+
+Frente al control estándar de Xbox de esta misma guía, cuesta casi el triple. La diferencia se justifica solo si vas a usar las paletas y los gatillos ajustables de verdad: para jugar de forma casual, el control estándar cubre exactamente lo mismo en compatibilidad (mismo XInput nativo, mismo Bluetooth) a una fracción del precio.
+
+## Para quién sí y para quién no
+
+Comprálo si jugás de forma competitiva géneros donde las paletas y los gatillos cortos hacen diferencia real (shooters, sobre todo) y vas a aprovechar los perfiles guardados en el control. No lo compres si buscás un touchpad (no tiene), si no vas a usar la personalización avanzada, o si el precio es un problema: en esos casos, el control estándar de Xbox de esta guía cubre lo esencial a mucho menor costo.`,
+    faq: [
+      { question: "¿El Xbox Elite Series 2 tiene touchpad?", answer: "No. A pesar de que algunas fichas de MercadoLibre lo mencionan, la página oficial de Microsoft no incluye touchpad en este control. Lo que sí tiene son 4 paletas traseras intercambiables para remapear botones." },
+      { question: "¿Viene con estuche y paletas extra?", answer: "No. Microsoft vende este control en dos versiones: la completa (negra, con estuche, paletas y sticks extra) y la \"Core\" (blanco y negro, solo el control, herramienta de ajuste y cable USB-C). Esta publicación es la versión Core, confirmado por varios compradores en sus reseñas." },
+      { question: "¿Se puede configurar sin usar el celular?", answer: "La app Xbox Accessories, necesaria para mapear botones y paletas, solo está disponible en consola Xbox y Windows 10/11: no funciona en iOS ni Android. Los perfiles guardados sí se pueden alternar directo desde el control una vez configurados." },
+      { question: "¿Vale la pena la diferencia de precio contra el control estándar de Xbox?", answer: "Solo si vas a usar las paletas traseras y los gatillos ajustables de verdad. En compatibilidad (XInput, Bluetooth) son iguales; la diferencia de casi el triple de precio se justifica por la personalización física, no por mejor conectividad." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-para-celular — fichas STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA23214606",
+    title: "Control Gamer T-dagger T-tgp802 Scorpio, Inalambrico",
+    canonicalName: "Joystick T-Dagger Scorpio T-TGP802",
+    price: 55444,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_882042-MLA96730692439_102025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_882042-MLA96730692439_102025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_856772-MLA100046600775_122025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_759568-MLA95958042036_102025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA23214606",
+    affiliateUrl: "https://meli.la/1ymyheA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1594,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Bluetooth o cable USB" },
+      { label: "Compatibilidad oficial", value: "PlayStation 4 y PC (XInput). El fabricante NO confirma celular" },
+      { label: "Batería", value: "Li-Ion interna, hasta 24 h (fabricante)" },
+      { label: "Diseño", value: "Tipo DualShock 4, con touchpad y 2 motores de vibración" },
+      { label: "Forma", value: "Gamepad tradicional, no telescópico" },
+    ],
+    relatedProducts: ["MLA24044240", "MLA49838346"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El más vendido de esta guía, con más de 1.500 calificaciones, pero con una letra chica importante: el fabricante solo confirma compatibilidad con PS4 y PC, no con celular. Puede funcionar como gamepad Bluetooth genérico en Android, sin garantía oficial.",
+    seoTitle: "T-Dagger Scorpio: el más vendido, con una letra chica",
+    metaDescription: "T-Dagger Scorpio a $55.444: el joystick con más reseñas de la guía, pero el fabricante solo confirma PS4 y PC, no celular. Te contamos qué esperar.",
+    verdict: "Sirve si buscás sobre todo un gamepad Bluetooth con touchpad y buen respaldo de compradores para PC o PS4, y estás dispuesto a probar si tu celular lo reconoce como gamepad genérico sin garantía del fabricante. No sirve si necesitás la certeza de compatibilidad con celular: para eso, el GameSir Nova 2 Lite o el genérico X3 de esta guía sí la confirman.",
+    pros: [
+      "El más vendido de esta guía: más de 1.500 calificaciones y 4.6 estrellas",
+      "Diseño tipo DualShock 4 con touchpad y 2 motores de vibración, confirmado por el fabricante",
+      "Batería de hasta 24 horas confirmada oficialmente por T-Dagger",
+      "Se conecta por Bluetooth o cable USB, sin depender solo de la batería",
+      "Precio intermedio dentro de esta guía",
+    ],
+    cons: [
+      "El fabricante NO confirma compatibilidad con celular en ningún lado de su ficha oficial: solo lista PS4 y PC. Puede funcionar como gamepad Bluetooth genérico en Android (muchos juegos lo detectan como HID estándar), pero sin garantía ni documentación oficial del fabricante",
+      "Sin mención de compatibilidad con iOS en ningún lado; en la práctica, los gamepads Bluetooth genéricos suelen tener más problemas para emparejar con iPhone que con Android",
+      "No trae soporte ni clip para sostener el celular",
+      "El fabricante no publica la versión de Bluetooth que usa",
+    ],
+    articleBody: `## Qué es y para quién
+
+El T-Dagger Scorpio es un gamepad con forma de control de PS4 (touchpad incluido), pensado originalmente para PS4 y PC. Es, por lejos, el joystick con más reseñas de toda esta guía. Pero hay algo importante que aclarar antes de seguir: lo incluimos acá porque muchos compradores lo buscan para usar con el celular, y queremos ser honestos sobre qué tan sólido es ese uso específico.
+
+## Lo bueno
+
+Con más de 1.500 calificaciones y 4.6 estrellas, es el joystick con más respaldo de compradores de esta guía. El fabricante confirma oficialmente una batería de hasta 24 horas (Li-Ion interna) y un diseño con touchpad y 2 motores de vibración, algo poco común en esta franja de precio. Se puede usar por Bluetooth o por cable USB, así que nunca te quedás sin opción si se descarga.
+
+## La contra real
+
+Acá está el dato que cambia la decisión: la ficha técnica oficial de T-Dagger dice literalmente "Plataformas soportadas: PlayStation 4, PC Xinput", sin ninguna mención de Android, iOS o celular en ningún lado del sitio del fabricante. No encontramos tampoco ningún manual, comunicado o review especializada que confirme un modo específico para celular. Eso no significa necesariamente que no funcione: muchos gamepads Bluetooth con forma de DualShock 4 son reconocidos como controles genéricos (HID estándar) por Android, y varios compradores en otros mercados reportan usarlos así. Pero es una compatibilidad no oficial y no garantizada, muy distinta a la de otros productos de esta guía que sí la confirman de fábrica. Tampoco trae ningún soporte para sostener el celular.
+
+## Cómo se compara
+
+Frente al GameSir Nova 2 Lite y al genérico X3 de esta guía (que sí confirman celular oficialmente), el Scorpio es una apuesta: más respaldo de compradores en general, pero sin la certeza de compatibilidad específica que buscás en un "joystick para celular".
+
+## Para quién sí y para quién no
+
+Comprálo si tu uso principal es PC o PS4 y el celular es un plus que estás dispuesto a probar sin garantías. No lo compres si tu prioridad es específicamente jugar en el celular con la seguridad de que va a funcionar: para eso, elegí uno de los otros productos de esta guía que sí confirman esa compatibilidad de fábrica.`,
+    faq: [
+      { question: "¿El T-Dagger Scorpio funciona con celular?", answer: "El fabricante no lo confirma: su ficha oficial solo lista PS4 y PC. Puede funcionar como gamepad Bluetooth genérico en algunos celulares Android (muchos juegos lo detectan como control estándar), pero no hay garantía ni documentación oficial de esa compatibilidad, y no hay ninguna mención de iOS." },
+      { question: "¿Por qué está en una guía de joystick para celular si no confirma esa compatibilidad?", answer: "Porque es el joystick más buscado y vendido con esa expectativa, y nos pareció más honesto explicarte la limitación real que no mencionarlo. Si tu prioridad es la certeza de que funcione en celular, elegí el GameSir Nova 2 Lite o el genérico X3 de esta guía." },
+      { question: "¿Trae soporte para el celular?", answer: "No, no incluye ningún clip ni soporte para sostener el celular. Es un gamepad tradicional pensado originalmente para PC y PS4." },
+      { question: "¿Cuánto dura la batería?", answer: "El fabricante confirma oficialmente hasta 24 horas de uso continuo, con batería interna de Li-Ion." },
+    ],
+  },
+
+  {
+    id: "MLA49838346",
+    title: "Control Inalambrico Gamesir Nova 2 Lite Blanco Compatible Pc Celular Consola Ergonomico",
+    canonicalName: "Joystick GameSir Nova 2 Lite",
+    price: 49699,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_901627-MLA99986209139_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_901627-MLA99986209139_112025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_695391-MLA91952649457_092025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_919132-MLA91952728191_092025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA49838346",
+    affiliateUrl: "https://meli.la/2u846su",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 252,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Bluetooth, dongle 2,4 GHz o cable USB-C (tri-modo)" },
+      { label: "Compatibilidad oficial", value: "PC, Nintendo Switch, Android e iOS (fabricante)" },
+      { label: "Sticks y gatillos", value: "Hall Effect (sin desgaste ni drift), polling rate 1000 Hz" },
+      { label: "Batería", value: "600 mAh; el fabricante no publica horas exactas" },
+      { label: "Soporte de celular", value: "No incluido; GameSir lo vende como accesorio aparte" },
+    ],
+    relatedProducts: ["MLA52360869", "MLA23214606"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El GameSir Nova 2 Lite confirma oficialmente compatibilidad con Android e iOS, con sticks Hall Effect (sin drift) y tri-modo de conexión. El soporte para el celular no viene incluido, se compra aparte.",
+    seoTitle: "GameSir Nova 2 Lite: compatibilidad celular confirmada",
+    metaDescription: "GameSir Nova 2 Lite a $49.699: Android e iOS confirmados oficialmente, sticks Hall Effect sin drift. El soporte de celular se compra aparte.",
+    verdict: "Sirve si querés la garantía oficial de compatibilidad con Android e iOS, sticks de tecnología Hall Effect (que no sufren drift con el tiempo) y versatilidad de conexión (Bluetooth, dongle o cable). No sirve si esperás que el soporte de celular venga incluido en la caja: hay que comprarlo aparte.",
+    pros: [
+      "Compatibilidad oficial confirmada por GameSir con Android e iOS, además de PC y Nintendo Switch",
+      "Sticks y gatillos Hall Effect: tecnología que no sufre desgaste ni drift con el uso, a diferencia de los potenciómetros tradicionales",
+      "Tri-modo de conexión: Bluetooth, dongle inalámbrico 2,4 GHz (incluido) o cable USB-C",
+      "4.9 estrellas de calificación, la más alta de toda esta guía junto al Cyclone2",
+      "Polling rate de 1000 Hz confirmado por el fabricante en conexión con cable o dongle, para respuesta más rápida",
+    ],
+    cons: [
+      "No trae ningún soporte ni clip para sostener el celular en la caja; GameSir lo vende como accesorio aparte",
+      "El fabricante no publica una cifra oficial de horas de batería, solo la capacidad (600 mAh); estimaciones de terceros hablan de entre 10 y 18 horas según el modo de conexión, pero no es un dato confirmado por GameSir",
+      "El fabricante tampoco publica la versión exacta de Bluetooth que usa",
+      "Con 252 reseñas, tiene bastante menos respaldo de compradores que el T-Dagger Scorpio o el genérico X3 de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Nova 2 Lite es el gamepad de gama media de GameSir, pensado para quien quiere confirmación oficial de que va a andar con el celular, sin pagar el precio del Cyclone2 premium de esta guía. Apunta a jugadores que valoran la precisión de los sticks tanto como la compatibilidad multiplataforma.
+
+## Lo bueno
+
+A diferencia del T-Dagger Scorpio de esta guía, GameSir confirma oficialmente en su sitio que este control funciona en "Switch, PC, Android e iOS". Los sticks y gatillos usan tecnología Hall Effect, que a diferencia de los potenciómetros tradicionales no sufre desgaste ni "drift" (el movimiento fantasma que aparece con el tiempo en sticks más baratos). El polling rate de 1000 Hz está confirmado por el fabricante para las conexiones con cable o dongle, útil en juegos que necesitan respuesta rápida. Tiene tri-modo de conexión: Bluetooth, un dongle inalámbrico de 2,4 GHz incluido, o cable USB-C.
+
+## La contra real
+
+El soporte para sostener el celular NO viene incluido en la caja: GameSir lo vende como un accesorio aparte para varios de sus modelos, así que si lo comprás pensando en usarlo pegado al teléfono, sumá ese gasto extra a la cuenta. Otro punto para tener claro: GameSir no publica una cifra oficial de horas de batería en su ficha técnica, solo la capacidad (600 mAh); las estimaciones de 10 a 18 horas que circulan en reviews de terceros no son un dato confirmado por el fabricante, así que las tratamos como aproximadas. Con 252 reseñas en MercadoLibre Argentina, tiene bastante menos respaldo de compradores que el T-Dagger o el genérico de esta guía, aunque su calificación (4.9) es la más alta.
+
+## Para quién sí y para quién no
+
+Comprálo si querés la garantía oficial de compatibilidad con tu celular (Android o iOS) y valorás sticks que no van a sufrir drift con el tiempo, y no te molesta comprar el soporte de celular por separado. No lo compres si buscás todo incluido en una sola caja: para eso, el genérico X3 de esta guía trae el soporte de fábrica, aunque con menos tecnología en los sticks.`,
+    faq: [
+      { question: "¿El GameSir Nova 2 Lite funciona con celular?", answer: "Sí, GameSir lo confirma oficialmente para Android e iOS, además de PC y Nintendo Switch. Es de los pocos productos de esta guía con esa compatibilidad garantizada por el fabricante." },
+      { question: "¿Trae soporte para el celular incluido?", answer: "No. El soporte o clip para sostener el celular se vende aparte como accesorio de GameSir, no viene en la caja del control." },
+      { question: "¿Qué es la tecnología Hall Effect en los sticks?", answer: "Es un sistema magnético que reemplaza a los potenciómetros tradicionales: no sufre desgaste por fricción, así que evita el \"drift\" (movimiento fantasma) que aparece con el tiempo en sticks más económicos." },
+      { question: "¿Cuánto dura la batería?", answer: "GameSir no publica una cifra oficial de horas, solo la capacidad (600 mAh). Estimaciones de terceros hablan de entre 10 y 18 horas según el modo de conexión, pero no es un dato confirmado por el fabricante." },
+    ],
+  },
+
+  {
+    id: "MLA52360869",
+    title: "Joystick inalámbrico GameSir Cyclone2 Bundle blanco",
+    canonicalName: "Joystick GameSir Cyclone2 Bundle",
+    price: 126951,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_835877-MLA87380531938_072025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_835877-MLA87380531938_072025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_708023-MLA87381056376_072025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_878548-MLA87380354474_072025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA52360869",
+    affiliateUrl: "https://meli.la/1TsAU4M",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 270,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Bluetooth, dongle 2,4 GHz o cable (tri-modo), polling rate 1000 Hz" },
+      { label: "Compatibilidad oficial", value: "Switch, Android, iOS, PC y Steam (fabricante)" },
+      { label: "Sticks y gatillos", value: "Hall Effect, sensor de movimiento de 6 ejes (giroscopio)" },
+      { label: "Batería", value: "860 mAh; ~10 h según GameSir (citado por prensa especializada)" },
+      { label: "Versión Bundle", value: "Suma base de carga; el soporte de celular NO está incluido, se compra aparte" },
+    ],
+    relatedProducts: ["MLA49838346", "MLA23214606"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El joystick más premium de esta guía: sticks Hall Effect, giroscopio de 6 ejes y compatibilidad oficial con Android e iOS. La versión \"Bundle\" suma la base de carga, pero ojo: el soporte de celular sigue sin estar incluido, se compra aparte.",
+    seoTitle: "GameSir Cyclone2: el joystick premium para celular",
+    metaDescription: "GameSir Cyclone2 Bundle a $126.951: Hall Effect, giroscopio, Android e iOS confirmados. La base de carga viene incluida, el soporte de celular no.",
+    verdict: "Sirve si querés lo más premium de esta guía: sticks Hall Effect, giroscopio y compatibilidad oficial multiplataforma, y no te importa pagar bastante más que el resto. No sirve si esperás que el \"Bundle\" incluya el soporte de celular (no lo trae, solo agrega la base de carga) o si el presupuesto es una limitación: el Nova 2 Lite de esta misma marca cubre la compatibilidad celular a menos de la mitad de precio.",
+    pros: [
+      "Compatibilidad oficial confirmada por GameSir con Android e iOS, además de Nintendo Switch, PC y Steam",
+      "Sticks y gatillos Hall Effect, sin drift, más sensor de movimiento de 6 ejes (giroscopio), poco común en esta categoría",
+      "Tri-modo de conexión (Bluetooth, dongle 2,4 GHz, cable) con polling rate de 1000 Hz confirmado",
+      "4.9 estrellas, la calificación más alta de esta guía junto al Nova 2 Lite",
+      "La versión \"Bundle\" suma una base de carga incluida, confirmado por el fabricante",
+    ],
+    cons: [
+      "Es, por lejos, el más caro de esta guía: más del doble que el Nova 2 Lite de la misma marca",
+      "A pesar del nombre \"Bundle\", el soporte para sostener el celular NO está incluido: la diferencia real de esta versión es que suma una base de carga, no un clip de celular. Hay que comprar el soporte aparte",
+      "GameSir no publica en su ficha oficial una cifra exacta de horas de batería; la cifra de \"10 horas\" que circula viene citada por un medio especializado (TechRadar), no de un texto oficial de GameSir",
+      "Con 270 reseñas, tiene la base de opiniones más chica de toda esta guía junto al Nova 2 Lite",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Cyclone2 es el gamepad más avanzado de GameSir de esta guía, con sticks Hall Effect y sensor de movimiento de 6 ejes. La versión "Bundle" que se vende en esta publicación suma una base de carga al pack estándar. Apunta a quien quiere lo más premium posible y no le importa pagar la diferencia.
+
+## Lo bueno
+
+Como el Nova 2 Lite, GameSir confirma oficialmente compatibilidad con "Switch, Android, iOS, PC y Steam". Suma sticks y gatillos Hall Effect (sin drift) más un sensor de movimiento de 6 ejes (giroscopio), una función que ni el Nova 2 Lite ni el resto de esta guía tienen. El tri-modo de conexión (Bluetooth, dongle 2,4 GHz o cable) con polling rate de 1000 Hz está confirmado por el fabricante. La versión "Bundle" de esta publicación suma una base de carga al pack, confirmado en la comparativa oficial de GameSir entre versiones.
+
+## La contra real
+
+Dos cosas importantes antes de pagar el precio premium. Primero: a pesar de llamarse "Bundle", esta versión NO incluye un soporte para sostener el celular; lo que suma respecto a la versión estándar es la base de carga, no un clip de celular (que GameSir vende aparte, igual que con el Nova 2 Lite). Si lo comprás esperando que venga listo para usar pegado al teléfono, te vas a llevar una sorpresa. Segundo: GameSir no publica en su página oficial una cifra exacta de horas de batería, solo la capacidad (860 mAh); la cifra de "10 horas" que circula en reviews viene citada por TechRadar como algo que GameSir declaró, pero no aparece de forma textual en la ficha oficial que revisamos, así que la tratamos como referencial. Con 270 reseñas, es de los productos con menos respaldo de esta guía, junto al Nova 2 Lite.
+
+## Cómo se compara
+
+Frente al Nova 2 Lite de la misma marca, cuesta más del doble para sumar giroscopio y la base de carga. Si no vas a usar el sensor de movimiento, el Nova 2 Lite cubre la misma compatibilidad oficial con celular a un precio mucho más accesible.
+
+## Para quién sí y para quién no
+
+Comprálo si querés lo más avanzado técnicamente de esta guía (Hall Effect, giroscopio) y el presupuesto no es un problema. No lo compres si buscás ahorrar: el Nova 2 Lite tiene la misma compatibilidad oficial con celular a bastante menos precio, y en ninguno de los dos casos el soporte de celular viene incluido.`,
+    faq: [
+      { question: "¿El GameSir Cyclone2 funciona con celular?", answer: "Sí, GameSir lo confirma oficialmente para Android e iOS, además de Nintendo Switch, PC y Steam." },
+      { question: "¿La versión \"Bundle\" incluye el soporte para el celular?", answer: "No. A pesar del nombre, el Bundle suma una base de carga al pack estándar, no un clip de celular. El soporte para sostener el teléfono se compra aparte, igual que con el resto de los GameSir de esta guía." },
+      { question: "¿Vale la pena pagar el precio premium contra el Nova 2 Lite?", answer: "Solo si te importa el sensor de movimiento de 6 ejes (giroscopio), que el Nova 2 Lite no tiene. En compatibilidad con celular, ambos están confirmados oficialmente por igual; el Nova 2 Lite cuesta bastante menos." },
+      { question: "¿Cuánto dura la batería?", answer: "GameSir no publica una cifra oficial exacta en su ficha técnica, solo la capacidad (860 mAh). Un medio especializado (TechRadar) cita una estimación de 10 horas atribuida al fabricante, pero no es un dato textual de la página oficial." },
+    ],
+  },
+
+  {
+    id: "MLA24044240",
+    title: "Joystick Bluetooth Inalambrico Celular Pc Tablet Android Ios Color Negro",
+    canonicalName: "Joystick genérico X3 con soporte de celular",
+    price: 18999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_763402-MLA103600225082_012026-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_763402-MLA103600225082_012026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_823317-MLA104125652923_012026-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_768808-MLA103599004110_012026-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA24044240",
+    affiliateUrl: "https://meli.la/2oszMRd",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.4,
+    reviewCount: 1427,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Conexión", value: "Bluetooth V3.0, hasta 10 m (según el vendedor)" },
+      { label: "Compatibilidad", value: "Android e iOS, según el vendedor (sin fabricante rastreable)" },
+      { label: "Soporte de celular", value: "Incluido, a presión, hasta 8,5 cm de ancho" },
+      { label: "Carga", value: "Micro-USB, cable incluido" },
+      { label: "Marca", value: "Genérica, sin fabricante identificable" },
+    ],
+    relatedProducts: ["MLA49838346", "MLA23214606"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El más barato de la guía y el único con soporte de celular incluido de fábrica. Es un producto genérico sin marca ni fabricante rastreable: toda la información depende de lo que declara el vendedor en MercadoLibre, sin forma de verificarla de manera independiente.",
+    seoTitle: "Joystick X3 genérico: el más barato, con soporte incluido",
+    metaDescription: "Joystick genérico X3 a $18.999: el más barato de la guía, con soporte de celular incluido. Sin marca ni fabricante rastreable, datos según el vendedor.",
+    verdict: "Sirve si buscás la opción más barata con todo incluido (soporte de celular de fábrica) para probar sin gastar mucho. No sirve si te importa la certeza de specs verificadas por un fabricante real: acá todo depende de lo que declara el vendedor, sin nadie más que lo confirme.",
+    pros: [
+      "El más barato de toda esta guía, por lejos",
+      "Es el único de los 4 que trae soporte de celular incluido de fábrica, listo para usar sin comprar nada aparte",
+      "Con más de 1.400 calificaciones, tiene el segundo mejor respaldo de compradores de la guía",
+      "Según el vendedor, compatible con Android e iOS, PC y tablets",
+    ],
+    cons: [
+      "Es un producto genérico sin marca ni fabricante identificable ('Genérica' según su propia ficha): todos los datos técnicos dependen únicamente de lo que declara el vendedor en MercadoLibre, sin ningún tercero que los confirme",
+      "El vendedor declara Bluetooth versión 3.0, una versión bastante más vieja que la de otros productos de esta guía (que suelen usar 5.0); en teoría, cuanto más vieja la versión, más chances de latencia perceptible en juegos rápidos",
+      "No se encontró una cifra de horas de batería en la publicación, solo datos de carga",
+      "El envío no es gratis, a diferencia del resto de los productos de esta guía",
+      "Sin tecnología Hall Effect ni ningún extra: es un gamepad básico",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es un gamepad Bluetooth genérico, sin marca reconocible, que viene con un soporte de celular a presión incluido en la caja. Apunta a quien quiere probar un joystick para el celular gastando lo mínimo posible, sin buscar tecnología avanzada.
+
+## Lo bueno
+
+Es el más barato de toda esta guía, y el único de los 4 que trae el soporte de celular incluido de fábrica: no hay que comprar nada aparte para usarlo pegado al teléfono. Con más de 1.400 calificaciones, tiene un respaldo de compradores considerable para un producto sin marca. Según su propia publicación, es compatible con Android, iOS, PC y tablets.
+
+## La contra real
+
+Acá hay que ser claros sobre algo importante: es un producto genérico, sin fabricante identificable ni sitio oficial que verificar (la propia ficha de MercadoLibre lo marca como "Genérica"). A diferencia de los otros tres productos de esta guía, donde pudimos contrastar las specs contra la página del fabricante, acá todos los datos (compatibilidad, alcance, versión de Bluetooth) dependen exclusivamente de lo que declara el vendedor, sin ningún tercero que lo confirme. Un dato puntual que vale la pena marcar: el vendedor declara Bluetooth versión 3.0, bastante más vieja que la de los otros productos de esta guía. En teoría, versiones de Bluetooth más viejas tienden a tener más latencia, aunque no hay una medición independiente de este modelo específico que lo confirme. Tampoco encontramos una cifra de autonomía de batería en la publicación.
+
+## Para quién sí y para quién no
+
+Comprálo si querés la opción más económica posible, con todo incluido, para probar si te gusta jugar con joystick en el celular sin comprometer mucha plata. No lo compres si buscás la certeza de specs verificadas por un fabricante real, o si vas a jugar shooters rápidos donde la latencia importa: para eso, el GameSir Nova 2 Lite de esta guía tiene mejor tecnología, aunque cuesta más.`,
+    faq: [
+      { question: "¿Este joystick genérico funciona bien con celular?", answer: "Según el vendedor, sí, es compatible con Android e iOS y trae soporte incluido. Pero al ser un producto sin marca ni fabricante identificable, no hay forma de verificar esa información de manera independiente, a diferencia de los otros productos de esta guía." },
+      { question: "¿Trae soporte para el celular?", answer: "Sí, es el único de los 4 productos de esta guía que trae el soporte de celular incluido de fábrica, a presión, con hasta 8,5 cm de ancho de agarre." },
+      { question: "¿Por qué es tan barato comparado con el resto de la guía?", answer: "Porque es un producto genérico sin marca, sin la tecnología (Hall Effect, polling rate alto) ni el respaldo de marca de los GameSir de esta guía. Es una opción de entrada para probar, no la más avanzada." },
+      { question: "¿Qué significa que use Bluetooth versión 3.0?", answer: "Es una versión más vieja que la que suelen usar los productos de marca de esta guía (Bluetooth 5.0). En teoría, cuanto más vieja la versión, más posibilidades de latencia perceptible en juegos rápidos, aunque no hay una medición independiente de este modelo puntual que lo confirme." },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Sub-silo Joystick (dentro de gaming) — joystick-ps5 — fichas STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA18010994",
+    title: "Joystick Inalámbrico Dualsense Ps5 Cosmic Red",
+    canonicalName: "Joystick DualSense PS5",
+    price: 113853,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA18010994",
+    affiliateUrl: "https://meli.la/1zovXV4",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 18415,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Compatibilidad", value: "PlayStation 5 (oficial), PC, Mac, Android e iOS" },
+      { label: "Gatillos adaptativos y haptics", value: "Sí, confirmado por Sony (playstation.com)" },
+      { label: "Conexión", value: "Bluetooth o cable USB-C" },
+      { label: "Batería", value: "Recargable interna; Sony no publica horas oficiales (estimaciones de medios: 8-12 h)" },
+      { label: "Extras", value: "Micrófono integrado, jack 3.5 mm, touchpad, botón crear/compartir" },
+      { label: "Color", value: "Cosmic Red; también disponible en Galactic Purple y Sterling Silver" },
+    ],
+    relatedProducts: ["MLA41152829", "MLA18917848"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El control oficial de PS5: gatillos adaptativos y haptics reales, confirmados por Sony, algo que ningún compatible barato replica. Con más de 18.000 reseñas, es por lejos el joystick con más respaldo de todo el sub-silo.",
+    seoTitle: "Joystick DualSense PS5: el oficial, más de 18.000 reseñas",
+    metaDescription: "DualSense PS5 Cosmic Red a $113.853: gatillos adaptativos y haptics reales, confirmados por Sony. Más de 18.000 reseñas, el más vendido de la guía.",
+    verdict: "Sirve para la enorme mayoría de quienes tienen PS5: es el único control con gatillos adaptativos y haptics reales, con el respaldo de compra más grande de todo el sub-silo joystick. No sirve si buscás personalización avanzada (paletas, gatillos ajustables): para eso está el DualSense Edge de esta misma guía.",
+    pros: [
+      "Único con gatillos adaptativos y feedback háptico real, confirmado por Sony: ningún compatible de terceros, con o sin licencia, replica esta tecnología",
+      "Con más de 18.000 calificaciones y 4.9 estrellas, es el joystick con más respaldo de compradores de todo el sub-silo joystick del sitio",
+      "Se conecta por Bluetooth o cable USB-C a PC, Mac, Android e iOS, además de la PS5",
+      "Micrófono integrado, jack de auriculares 3.5 mm y touchpad, confirmado oficialmente por Sony",
+      "Disponible en varios colores (Cosmic Red, Galactic Purple, Sterling Silver) al mismo nivel de specs",
+    ],
+    cons: [
+      "Sony no publica una cifra oficial de horas de batería; estimaciones de medios especializados hablan de 8 a 12 horas, pero no es un dato textual de Sony",
+      "Hay una demanda colectiva activa en EE.UU. contra Sony por el problema de \"stick drift\" en el DualSense estándar (sin resolución ni acuerdo confirmado hasta la fecha de este research)",
+      "Sin personalización física (paletas, gatillos ajustables): para eso hay que pagar el DualSense Edge",
+      "Es más caro que cualquier compatible genérico, aunque ninguno de esos compatibles ofrece gatillos adaptativos reales",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es el control inalámbrico oficial que viene con la PlayStation 5, vendido también suelto en varios colores. Es la referencia de todo el sub-silo joystick: cuando se habla de compatibles "para PS5", es contra este control que se los compara.
+
+## Lo bueno
+
+Sony confirma oficialmente que los gatillos adaptativos dan "niveles variables de fuerza y tensión" según lo que pasa en el juego (tensar un arco, frenar un auto), y que el feedback háptico usa actuadores duales que reemplazan la vibración tradicional, generando sensaciones específicas por juego. Es tecnología patentada por Sony: ningún control de terceros, ni siquiera los que tienen licencia oficial, la replica. Se conecta por Bluetooth o cable USB-C, y sirve además en PC, Mac, Android e iOS. Con más de 18.000 calificaciones en MercadoLibre Argentina, es el joystick con más respaldo de compra de todo el sub-silo del sitio.
+
+## La contra real
+
+Sony no publica en su ficha oficial una cifra de horas de batería; lo que circula (8 a 12 horas, hasta 15 horas en la revisión de hardware "V2" con batería más grande) son estimaciones de medios especializados, no una declaración directa del fabricante. Hay además una demanda colectiva activa en Estados Unidos contra Sony por el problema de "stick drift" (deriva de los sticks con el uso), que a la fecha de este research seguía en curso sin acuerdo. No es exclusivo de este control (afecta al diseño de stick en general), pero es honesto mencionarlo. Si buscás paletas traseras o gatillos con recorrido ajustable, este control no los tiene: para eso está el DualSense Edge.
+
+## Para quién sí y para quién no
+
+Comprálo si tenés PS5 y querés la experiencia completa de gatillos adaptativos y haptics, el estándar contra el que se mide cualquier alternativa. No lo compres si buscás personalización física avanzada: ahí conviene el DualSense Edge, sabiendo que cuesta bastante más.`,
+    faq: [
+      { question: "¿Qué son los gatillos adaptativos del DualSense?", answer: "Es tecnología patentada por Sony que da niveles variables de fuerza y tensión a los gatillos L2/R2 según lo que pasa en el juego, por ejemplo tensar un arco o frenar un auto. Ningún control de terceros, con o sin licencia oficial, la replica." },
+      { question: "¿El DualSense sirve para PC?", answer: "Sí, Sony confirma oficialmente que se conecta por Bluetooth o cable USB-C a PC, Mac, Android e iOS, además de la PS5. No vas a tener gatillos adaptativos en la mayoría de los juegos de PC (esa función depende de que el juego la soporte), pero funciona como control estándar." },
+      { question: "¿Cuánto dura la batería?", answer: "Sony no publica una cifra oficial en su ficha de producto. Estimaciones de medios especializados hablan de 8 a 12 horas de uso, según el juego y el uso de haptics." },
+      { question: "¿Es cierto que el DualSense tiene problemas de stick drift?", answer: "Hay una demanda colectiva activa en Estados Unidos contra Sony por este problema, que seguía en curso sin acuerdo confirmado a la fecha de este research. No significa que todos los controles lo sufran, pero es un tema documentado y real." },
+    ],
+  },
+
+  {
+    id: "MLA18917848",
+    title: "Joystick Inalámbrico Dualsense Ps5 Original Galactic Purple",
+    canonicalName: "Joystick DualSense PS5 (Galactic Purple)",
+    price: 136525,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_988275-MLA99995954413_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_988275-MLA99995954413_112025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA18917848",
+    affiliateUrl: "https://meli.la/2Bpe8U9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 18415,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Compatibilidad", value: "PlayStation 5 (oficial), PC, Mac, Android e iOS" },
+      { label: "Gatillos adaptativos y haptics", value: "Sí, confirmado por Sony (playstation.com)" },
+      { label: "Conexión", value: "Bluetooth o cable USB-C" },
+      { label: "Batería", value: "Recargable interna; Sony no publica horas oficiales" },
+      { label: "Color", value: "Galactic Purple" },
+    ],
+    relatedProducts: ["MLA18010994", "MLA31472572"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El mismo DualSense oficial de esta guía, en Galactic Purple. Misma tecnología (gatillos adaptativos, haptics, más de 18.000 reseñas compartidas con el resto de colores), a un precio algo más alto que la variante Cosmic Red.",
+    seoTitle: "DualSense PS5 Galactic Purple: el oficial en violeta",
+    metaDescription: "DualSense PS5 Galactic Purple a $136.525: mismo control oficial con gatillos adaptativos y haptics reales, en este color. Más de 18.000 reseñas.",
+    verdict: "Sirve si el color Galactic Purple es tu preferencia estética y no te importa pagar un poco más que la variante Cosmic Red de esta misma guía. No sirve si el precio es la prioridad: el Cosmic Red de esta guía es la misma tecnología a menor costo.",
+    pros: [
+      "Exactamente la misma tecnología que el DualSense Cosmic Red de esta guía: gatillos adaptativos y haptics reales, confirmados por Sony",
+      "Comparte las más de 18.000 calificaciones y 4.9 estrellas del resto de colores del DualSense en MercadoLibre Argentina",
+      "Color Galactic Purple, una de las variantes más buscadas de la línea",
+      "Se conecta por Bluetooth o cable USB-C a PC, Mac, Android e iOS además de la PS5",
+    ],
+    cons: [
+      "Más caro que la variante Cosmic Red de esta misma guía, siendo el mismo control por dentro",
+      "Sony no publica una cifra oficial de horas de batería",
+      "Misma demanda colectiva activa en EE.UU. por stick drift que afecta al DualSense estándar en general",
+      "Sin personalización física: para eso está el DualSense Edge de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es el mismo control DualSense oficial de PS5 de esta guía, en el color Galactic Purple. Por dentro es idéntico al Cosmic Red: mismos gatillos adaptativos, mismos haptics, misma conectividad.
+
+## Lo bueno
+
+Todo lo que aplica al DualSense Cosmic Red de esta guía aplica acá: gatillos adaptativos y feedback háptico confirmados por Sony, conectividad por Bluetooth o cable USB-C a PC, Mac, Android e iOS, y el respaldo de más de 18.000 calificaciones que comparten todos los colores oficiales del DualSense en MercadoLibre Argentina.
+
+## La contra real
+
+La única diferencia real con el Cosmic Red de esta guía es el precio: esta variante Galactic Purple ronda los $136.525, más cara que el Cosmic Red. No hay ninguna diferencia técnica entre colores, así que la decisión acá es puramente estética y de precio.
+
+## Para quién sí y para quién no
+
+Comprálo si Galactic Purple es el color que buscás específicamente. Si el precio es tu prioridad y el color no importa, el Cosmic Red de esta misma guía es la misma tecnología a menor costo.`,
+    faq: [
+      { question: "¿Hay alguna diferencia técnica con el DualSense Cosmic Red de esta guía?", answer: "No, es el mismo control por dentro: mismos gatillos adaptativos, mismos haptics, misma conectividad. La única diferencia es el color y, en MercadoLibre, el precio." },
+      { question: "¿Por qué cuesta más que el Cosmic Red?", answer: "Es una variación de precio entre vendedores y disponibilidad de stock por color, no una diferencia de especificaciones. Ambos son el mismo control DualSense oficial." },
+    ],
+  },
+
+  {
+    id: "MLA31472572",
+    title: "Joystick Inalámbrico Dualsense Ps5 Sterling Silver-FLEX",
+    canonicalName: "Joystick DualSense PS5 (Sterling Silver)",
+    price: 140000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_715920-MLA96137773555_102025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_715920-MLA96137773555_102025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA31472572",
+    affiliateUrl: "https://meli.la/2RSG38M",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 18415,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Compatibilidad", value: "PlayStation 5 (oficial), PC, Mac, Android e iOS" },
+      { label: "Gatillos adaptativos y haptics", value: "Sí, confirmado por Sony (playstation.com)" },
+      { label: "Conexión", value: "Bluetooth o cable USB-C" },
+      { label: "Batería", value: "Recargable interna; Sony no publica horas oficiales" },
+      { label: "Color", value: "Sterling Silver" },
+    ],
+    relatedProducts: ["MLA18010994", "MLA18917848"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El mismo DualSense oficial de esta guía, en Sterling Silver. Misma tecnología (gatillos adaptativos, haptics, más de 18.000 reseñas compartidas con el resto de colores), el más caro de las 3 variantes de color de esta guía.",
+    seoTitle: "DualSense PS5 Sterling Silver: el oficial en plateado",
+    metaDescription: "DualSense PS5 Sterling Silver a $140.000: mismo control oficial con gatillos adaptativos y haptics reales, en este color. Más de 18.000 reseñas.",
+    verdict: "Sirve si el color Sterling Silver es tu preferencia estética. No sirve si el precio es la prioridad: es la variante más cara de las 3 de esta guía, siendo el mismo control por dentro que el Cosmic Red.",
+    pros: [
+      "Exactamente la misma tecnología que el resto de colores del DualSense de esta guía: gatillos adaptativos y haptics reales, confirmados por Sony",
+      "Comparte las más de 18.000 calificaciones y 4.9 estrellas del resto de colores del DualSense en MercadoLibre Argentina",
+      "Color Sterling Silver, una variante metálica poco común en el catálogo",
+      "Se conecta por Bluetooth o cable USB-C a PC, Mac, Android e iOS además de la PS5",
+    ],
+    cons: [
+      "Es la variante más cara de las 3 de esta guía, siendo el mismo control por dentro que el Cosmic Red",
+      "Sony no publica una cifra oficial de horas de batería",
+      "Misma demanda colectiva activa en EE.UU. por stick drift que afecta al DualSense estándar en general",
+      "Sin personalización física: para eso está el DualSense Edge de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es el mismo control DualSense oficial de PS5 de esta guía, en el color Sterling Silver. Por dentro es idéntico al Cosmic Red y al Galactic Purple: mismos gatillos adaptativos, mismos haptics, misma conectividad.
+
+## Lo bueno
+
+Todo lo que aplica al DualSense Cosmic Red de esta guía aplica acá: gatillos adaptativos y feedback háptico confirmados por Sony, conectividad por Bluetooth o cable USB-C a PC, Mac, Android e iOS, y el respaldo de más de 18.000 calificaciones que comparten todos los colores oficiales del DualSense en MercadoLibre Argentina.
+
+## La contra real
+
+Es la variante más cara de las 3 de esta guía: ronda los $140.000, más que el Cosmic Red y el Galactic Purple. No hay ninguna diferencia técnica entre colores, así que pagar de más acá es una decisión puramente estética.
+
+## Para quién sí y para quién no
+
+Comprálo si Sterling Silver es el color que buscás específicamente. Si el precio es tu prioridad y el color no importa, el Cosmic Red de esta misma guía es la misma tecnología a menor costo.`,
+    faq: [
+      { question: "¿Hay alguna diferencia técnica con las otras variantes de color de esta guía?", answer: "No, es el mismo control por dentro: mismos gatillos adaptativos, mismos haptics, misma conectividad. La única diferencia es el color y el precio." },
+      { question: "¿Por qué es la variante más cara de la guía?", answer: "Es una variación de precio entre vendedores y disponibilidad de stock por color, no una diferencia de especificaciones. Las 3 variantes de color de esta guía son el mismo control DualSense oficial." },
+    ],
+  },
+
+  {
+    id: "MLA41152829",
+    title: "Joystick Ps5 Sony Playstation 5 Dualsense Edge Zcp1",
+    canonicalName: "Joystick DualSense Edge PS5",
+    price: 354791,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_915932-MLA99925683685_112025-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_915932-MLA99925683685_112025-F.jpg",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA41152829",
+    affiliateUrl: "https://meli.la/2RFmBSJ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 194,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Compatibilidad", value: "PC, PlayStation 4, PlayStation 5" },
+      { label: "Personalización", value: "Stick caps intercambiables (3 tipos), paletas traseras (2 tipos), gatillos con recorrido ajustable" },
+      { label: "Perfiles", value: "Hasta 4 (1 default + 3 personalizados)" },
+      { label: "Batería", value: "Recargable interna, más chica que el DualSense estándar (confirmado por Sony)" },
+      { label: "Incluye", value: "Estuche de transporte con carga, cable USB trenzado, stick caps y paletas extra" },
+      { label: "Gatillos adaptativos y haptics", value: "Sí, igual que el DualSense estándar" },
+    ],
+    relatedProducts: ["MLA18010994", "MLA18917848"],
+    priceUpdated: "2026-07-02",
+    priceLastChecked: "2026-07-02",
+    priceStatus: "fresh",
+    description: "El control premium oficial de PS5: paletas intercambiables, gatillos ajustables y hasta 4 perfiles guardados, con la misma tecnología de gatillos adaptativos y haptics del DualSense estándar. La batería es notablemente más chica, algo que el propio Sony reconoció.",
+    seoTitle: "DualSense Edge: el joystick PS5 premium, con qué cuidado",
+    metaDescription: "DualSense Edge a $354.791: paletas intercambiables, gatillos ajustables, mismos haptics que el DualSense. Batería más chica, reconocido por Sony.",
+    verdict: "Sirve si jugás de forma competitiva y vas a aprovechar las paletas intercambiables, los gatillos con recorrido ajustable y los perfiles guardados. No sirve si buscás una mejora general: la batería es notablemente más chica que la del DualSense estándar, y en gatillos adaptativos y haptics es exactamente lo mismo.",
+    pros: [
+      "Paletas traseras intercambiables (2 tipos) y stick caps intercambiables (3 tipos, 2 pares de cada uno), confirmado oficialmente por Sony",
+      "Gatillos con recorrido ajustable (trigger stops) y zonas muertas configurables, sin necesidad de una app externa una vez configurado",
+      "Hasta 4 perfiles personalizados guardados, confirmado por Sony",
+      "Incluye estuche de transporte que carga el control por USB mientras está guardado, más cable USB trenzado con traba",
+      "Misma tecnología de gatillos adaptativos y haptics que el DualSense estándar de esta guía",
+    ],
+    cons: [
+      "La batería es notablemente más chica que la del DualSense estándar: el propio Sony reconoció públicamente que dura \"moderadamente menos\", y desarmes independientes confirman que la batería física es aproximadamente un tercio más chica",
+      "Sony no publica una cifra oficial de horas para ninguno de los dos controles, así que la comparación exacta de autonomía queda en estimaciones de medios (5-7 h en el Edge contra 8-12 h en el estándar, según reviews, no cifras oficiales)",
+      "Cuesta más del triple que el DualSense estándar de esta guía, para sumar personalización física, no mejores gatillos adaptativos ni haptics (son los mismos)",
+      "Con 194 reseñas en MercadoLibre Argentina, tiene bastante menos respaldo de compradores que el DualSense estándar (más de 18.000)",
+    ],
+    articleBody: `## Qué es y para quién
+
+Es el control premium oficial de PS5, pensado para jugadores competitivos que quieren personalizar físicamente cómo responde el control: paletas traseras, gatillos de recorrido ajustable y sticks intercambiables. No mejora los gatillos adaptativos ni los haptics (son exactamente los mismos que el DualSense estándar): lo que suma es personalización.
+
+## Lo bueno
+
+Sony confirma oficialmente 3 tipos de stick caps intercambiables (standard, high dome, low dome, con 2 pares de cada uno incluidos) y 2 tipos de paletas traseras (half-dome, intercambiables entre sí, y tipo palanca, no intercambiables entre lados). Los gatillos tienen recorrido ajustable (trigger stops) y zonas muertas configurables. Se pueden guardar hasta 4 perfiles distintos, confirmado por Sony. La caja incluye un estuche de transporte que carga el control por USB mientras está guardado, y un cable USB trenzado con traba en el conector.
+
+## La contra real
+
+Hay un dato que Sony mismo reconoció públicamente y que conviene saber antes de pagar el precio premium: la batería del Edge es "moderadamente más corta" que la del DualSense estándar. Desarmes independientes (citados por medios especializados) confirman que la batería física ocupa aproximadamente un tercio menos de espacio, por el lugar que le ganan los componentes de personalización. Ni el DualSense estándar ni el Edge tienen una cifra oficial de horas publicada por Sony, así que las comparaciones (5 a 7 horas en el Edge contra 8 a 12 en el estándar) son estimaciones de reviews, no datos oficiales. Otro punto importante: en gatillos adaptativos y feedback háptico, el Edge es exactamente igual al DualSense estándar de esta guía, no mejor. Lo que estás pagando es la personalización física, no una mejor experiencia base.
+
+## Cómo se compara
+
+Frente al DualSense estándar de esta guía, cuesta más del triple. La diferencia se justifica solo si vas a usar de verdad las paletas, los gatillos ajustables y los perfiles guardados, por ejemplo en shooters competitivos. Para jugar casual, el DualSense estándar da exactamente la misma experiencia de gatillos adaptativos y haptics a un tercio del precio.
+
+## Para quién sí y para quién no
+
+Comprálo si jugás de forma competitiva y vas a aprovechar la personalización física real. No lo compres esperando una mejora en la experiencia base (gatillos adaptativos, haptics): ahí es idéntico al DualSense estándar, y encima con menos batería.`,
+    faq: [
+      { question: "¿El DualSense Edge tiene mejores gatillos adaptativos que el DualSense estándar?", answer: "No, es exactamente la misma tecnología de gatillos adaptativos y feedback háptico. Lo que suma el Edge es personalización física: paletas intercambiables, gatillos con recorrido ajustable y perfiles guardados, no una mejor experiencia base." },
+      { question: "¿Es cierto que la batería del Edge dura menos?", answer: "Sí, Sony lo reconoció públicamente: la batería del Edge es \"moderadamente más corta\" que la del DualSense estándar. Desarmes independientes confirman que la batería física es aproximadamente un tercio más chica, por el espacio que ocupan los componentes de personalización." },
+      { question: "¿Qué trae la caja del DualSense Edge?", answer: "Según Sony: el control, un cable USB trenzado con traba, 2 pares de stick caps adicionales (high dome y low dome, más el par standard ya puesto), 2 tipos de paletas traseras intercambiables, un estuche de transporte que carga el control, y el manual." },
+      { question: "¿Vale la pena pagar el triple contra el DualSense estándar?", answer: "Solo si vas a usar de verdad las paletas traseras, los gatillos ajustables y los perfiles guardados, por ejemplo jugando de forma competitiva. En gatillos adaptativos y haptics, que es la tecnología central de PS5, el Edge y el estándar son exactamente iguales." },
+    ],
   },
 ];
 
