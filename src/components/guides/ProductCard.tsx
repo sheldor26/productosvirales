@@ -41,6 +41,7 @@ function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
           "@type": "Product",
           name: product.canonicalName || product.title,
           image: product.image,
+          ...(product.description ? { description: product.description } : {}),
           ...(product.brand
             ? { brand: { "@type": "Brand", name: product.brand } }
             : {}),
@@ -72,6 +73,44 @@ function SchemaLd({ product }: { product: ReturnType<typeof getProductById> }) {
             seller: {
               "@type": "Organization",
               name: "MercadoLibre Argentina",
+            },
+            shippingDetails: {
+              "@type": "OfferShippingDetails",
+              shippingDestination: {
+                "@type": "DefinedRegion",
+                addressCountry: "AR",
+              },
+              deliveryTime: {
+                "@type": "ShippingDeliveryTime",
+                handlingTime: {
+                  "@type": "QuantitativeValue",
+                  minValue: 0,
+                  maxValue: 1,
+                  unitCode: "DAY",
+                },
+                transitTime: {
+                  "@type": "QuantitativeValue",
+                  minValue: 1,
+                  maxValue: 5,
+                  unitCode: "DAY",
+                },
+              },
+              ...(product.freeShipping && {
+                shippingRate: {
+                  "@type": "MonetaryAmount",
+                  value: "0",
+                  currency: "ARS",
+                },
+              }),
+            },
+            hasMerchantReturnPolicy: {
+              "@type": "MerchantReturnPolicy",
+              applicableCountry: "AR",
+              returnPolicyCategory:
+                "https://schema.org/MerchantReturnFiniteReturnWindow",
+              merchantReturnDays: 30,
+              returnMethod: "https://schema.org/ReturnByMail",
+              returnFees: "https://schema.org/FreeReturn",
             },
           },
         }),
