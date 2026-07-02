@@ -3,7 +3,7 @@
 ## ⚠️ Pendientes pre-publish (detectados por el vigía de stock, 2026-07-01)
 
 - **Stromberg Mega Twin (MLA47305608) MURIÓ en ML** (catálogo sin vendedores) y está en las guías STAGED `parlante-stromberg` y `parlantes`. Antes de publicar el silo audio: reemplazarlo por un modelo Stromberg vigente (pedirle a Juan el meli.la) o reescribir esas secciones. Ya quedó `deprioritized`.
-- **RESUELTOS por re-apunte a variante viva (2026-07-02):** la Smartlife SL-EC8501 (→ catálogo gris MLA22761858, 1.665 reseñas) y la pistola Femmto (→ variante MLA37705965, 6.927 reseñas). Las guías quedaron intactas. **Falta el meli.la nuevo de cada una** (interín: permalink plano, sin comisión).
+- **RESUELTOS por re-apunte a variante viva (2026-07-02):** la Smartlife SL-EC8501 (→ catálogo gris MLA22761858, 1.665 reseñas) y la pistola Femmto (→ variante MLA37705965, 6.927 reseñas). Las guías quedaron intactas. **Links de afiliado nuevos instalados (2026-07-02)**: Juan pasó los links extensos del panel (equivalentes al meli.la) y quedaron en las fichas. Comisión restaurada.
 - **Muertos REALES sin variante (reemplazo editorial pendiente):** perfume Asad Negro MLAU3562485598 (3 guías árabes) y cafetera Electrolux ECM25 MLA72187457 (cafetera-de-filtro). Correr `node scripts/stock-watchdog.cjs` para el estado actual.
 - **Protocolo aprendido:** ante un catálogo muerto, ANTES de cirugía editorial revisar `parent_id` → `children_ids` por variantes de color vivas: las reseñas viajan a nivel familia, así que el re-apunte conserva todo el social proof.
 
