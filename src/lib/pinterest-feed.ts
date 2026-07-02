@@ -1,9 +1,10 @@
 import { categories } from "@/data/categories";
-import { getVisibleProducts } from "@/lib/products";
+import { getVisibleProducts, getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { getPublishedGuides } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
 import { guideOgImage } from "@/lib/guide-image";
+import type { Guide } from "@/lib/types";
 
 // Lógica compartida para armar el CSV del importador "Cargá un CSV o TXT" de
 // Pinterest (Bulk Create Pins). La usan tanto la ruta `/api/pinterest-feed`
@@ -72,6 +73,15 @@ function usableMedia(url: string | undefined): url is string {
   return !!url && /\.(jpe?g|png|mp4)(\?|$)/i.test(url);
 }
 
+// Categoría "madre" de una guía para agrupar tableros: la del primer producto
+// destacado (las licuadoras caen en Cocina, los masajeadores en Belleza, etc.).
+// Así los silos chicos no arman un tablero suelto cada uno. Fallback: g.category.
+function guideCategorySlug(guide: Guide): string {
+  const mlaId = guide.quickPicks?.[0]?.productMlaId;
+  const prod = mlaId ? getProductById(mlaId) : undefined;
+  return prod?.categorySlug || guide.category;
+}
+
 /** Construye los Pins (fichas + guías visibles) según los filtros. */
 export function buildPins({ tipo, categoria, board }: FeedOptions = {}): Pin[] {
   const pins: Pin[] = [];
@@ -95,10 +105,11 @@ export function buildPins({ tipo, categoria, board }: FeedOptions = {}): Pin[] {
 
   if (tipo !== "productos") {
     for (const g of getPublishedGuides()) {
-      if (categoria && g.category !== categoria) continue;
+      const catSlug = guideCategorySlug(g);
+      if (categoria && catSlug !== categoria) continue;
       const media = normalizeMedia(guideOgImage(g));
       if (!usableMedia(media)) continue;
-      const cat = categoryName.get(g.category) || g.category;
+      const cat = categoryName.get(catSlug) || catSlug;
       pins.push({
         title: clamp(g.h1 || g.title, MAX_TITLE),
         media,

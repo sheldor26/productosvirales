@@ -14,7 +14,7 @@
  * Recordatorio: el nombre del tablero en Pinterest tiene que EXISTIR y coincidir
  * con el board de cada CSV (Gaming, Cocina, ...) o Pinterest descarta esas filas.
  */
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync, readdirSync, rmSync } from "node:fs";
 import path from "node:path";
 import os from "node:os";
 import { buildPins, pinsToCsv, type Pin } from "../src/lib/pinterest-feed";
@@ -39,6 +39,14 @@ function slugify(s: string): string {
 }
 
 mkdirSync(outDir, { recursive: true });
+
+// Limpiamos CSV de corridas anteriores (ej. tableros que se consolidaron) para
+// que la carpeta refleje siempre el estado actual, sin duplicados sueltos.
+if (!match) {
+  for (const f of readdirSync(outDir)) {
+    if (/^pinterest-.*\.csv$/.test(f)) rmSync(path.join(outDir, f));
+  }
+}
 
 // Un solo build; agrupamos por el tablero real de cada Pin (nada queda afuera).
 const pins = buildPins(match ? { categoria: match } : {});
