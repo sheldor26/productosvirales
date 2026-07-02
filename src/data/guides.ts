@@ -17237,4 +17237,14 @@ export const guideCategories: Record<string, { name: string; description: string
     description:
       "Cuál licúa hielo de verdad, cuál no le pasa gusto al agua y desde cuánto sale una que dure. Las más vendidas de MercadoLibre, comparadas.",
   },
+  climatizacion: {
+    name: "Guías de Climatización",
+    description:
+      "Caloventor, cuarzo o halógena: cuál calienta mejor, cuánto consume cada una y cuál conviene según tu ambiente y tu factura.",
+  },
+  gaming: {
+    name: "Guías de Gaming",
+    description:
+      "Mouse, teclado, silla, auriculares y monitor: qué elegir en cada uno según tu presupuesto y para qué jugás.",
+  },
 };
