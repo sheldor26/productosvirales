@@ -12,6 +12,7 @@ import { buildPins, pinsToCsv } from "@/lib/pinterest-feed";
 //   /api/pinterest-feed?categoria=cocina     -> solo esa categoría (por tandas)
 //   /api/pinterest-feed?board=Cocina         -> forzar un solo tablero para todo
 //   /api/pinterest-feed?porDia=10            -> escalona fechas: 10 Pins/día
+//   /api/pinterest-feed?imagenes=3           -> hasta 3 Pins por producto (1 foto c/u)
 //
 // Recordatorio: los tableros ("Pinterest board") tienen que EXISTIR en tu cuenta
 // o Pinterest descarta esa fila. Por defecto usa el nombre de la categoría.
@@ -22,6 +23,7 @@ export async function GET(request: Request) {
     tipo: searchParams.get("tipo"),
     categoria: searchParams.get("categoria"),
     board: searchParams.get("board"),
+    imagenes: Number(searchParams.get("imagenes")) || undefined,
   });
   const csv = pinsToCsv(pins, Number(searchParams.get("porDia")) || 0);
 

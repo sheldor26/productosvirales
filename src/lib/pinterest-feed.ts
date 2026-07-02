@@ -41,6 +41,13 @@ export interface FeedOptions {
   categoria?: string | null;
   /** Fuerza un único tablero para todas las filas. */
   board?: string | null;
+  /**
+   * Máximo de Pins por producto, uno por imagen (mismo link, distinta foto).
+   * Default 1. Cada Pin extra abre con una spec distinta para que Pinterest no
+   * lo suprima por descripción duplicada, así que el tope real por producto es
+   * 1 + (cantidad de specs).
+   */
+  imagenes?: number | null;
 }
 
 // Escapa un valor para CSV (comillas, comas, saltos de línea).
@@ -83,23 +90,48 @@ function guideCategorySlug(guide: Guide): string {
 }
 
 /** Construye los Pins (fichas + guías visibles) según los filtros. */
-export function buildPins({ tipo, categoria, board }: FeedOptions = {}): Pin[] {
+export function buildPins({ tipo, categoria, board, imagenes }: FeedOptions = {}): Pin[] {
   const pins: Pin[] = [];
+  const maxImgs = Math.max(1, imagenes || 1);
 
   if (tipo !== "guias") {
     for (const p of getVisibleProducts()) {
       if (categoria && p.categorySlug !== categoria) continue;
-      const media = normalizeMedia(p.image);
-      if (!usableMedia(media)) continue;
+
+      // Imágenes usables (normalizadas a jpg), sin repetidas.
+      const imgs = [
+        ...new Set(
+          (p.images?.length ? p.images : [p.image])
+            .map(normalizeMedia)
+            .filter(usableMedia)
+        ),
+      ];
+      if (imgs.length === 0) continue;
+
       const cat = categoryName.get(p.categorySlug) || p.category;
-      pins.push({
-        title: clamp(p.title, MAX_TITLE),
-        media,
-        board: board || cat,
-        description: clamp(p.description || p.title, MAX_DESC),
-        link: `${SITE_URL}${productHref(p)}`,
-        keywords: [cat, "MercadoLibre", "Argentina"].join(", "),
-      });
+      const link = `${SITE_URL}${productHref(p)}`;
+      const keywords = [cat, "MercadoLibre", "Argentina"].join(", ");
+      const baseDesc = p.description || p.title;
+      const specs = p.specs || [];
+
+      // Un Pin por imagen (mismo link). Cada Pin extra abre con una spec
+      // distinta para no repetir descripción (Pinterest suprime duplicados),
+      // así que el tope por producto es 1 + specs.length.
+      const limit = Math.min(maxImgs, imgs.length, 1 + specs.length);
+      for (let i = 0; i < limit; i++) {
+        const spec = i > 0 ? specs[i - 1] : undefined;
+        pins.push({
+          title: clamp(spec ? `${p.title} · ${spec.label} ${spec.value}` : p.title, MAX_TITLE),
+          media: imgs[i],
+          board: board || cat,
+          description: clamp(
+            spec ? `${spec.label}: ${spec.value}. ${baseDesc}` : baseDesc,
+            MAX_DESC
+          ),
+          link,
+          keywords,
+        });
+      }
     }
   }
 

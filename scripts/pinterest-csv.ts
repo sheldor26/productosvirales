@@ -10,6 +10,8 @@
  *   npx tsx scripts/pinterest-csv.ts --out ./pins    # carpeta destino
  *   npx tsx scripts/pinterest-csv.ts --porDia 5      # escalona 5 Pins/día
  *   npx tsx scripts/pinterest-csv.ts --match cocina  # solo esa categoría/silo
+ *   npx tsx scripts/pinterest-csv.ts --imagenes 3    # hasta 3 Pins por producto
+ *                                                    # (una foto distinta c/u, mismo link)
  *
  * Recordatorio: el nombre del tablero en Pinterest tiene que EXISTIR y coincidir
  * con el board de cada CSV (Gaming, Cocina, ...) o Pinterest descarta esas filas.
@@ -28,6 +30,7 @@ function flag(name: string): string | undefined {
 const outDir = path.resolve(flag("out") || path.join(os.homedir(), "Downloads", "pinterest"));
 const porDia = Number(flag("porDia")) || 0;
 const match = flag("match");
+const imagenes = Number(flag("imagenes")) || 1;
 
 function slugify(s: string): string {
   return s
@@ -49,7 +52,7 @@ if (!match) {
 }
 
 // Un solo build; agrupamos por el tablero real de cada Pin (nada queda afuera).
-const pins = buildPins(match ? { categoria: match } : {});
+const pins = buildPins({ categoria: match, imagenes });
 const groups = new Map<string, Pin[]>();
 for (const p of pins) {
   const arr = groups.get(p.board);
