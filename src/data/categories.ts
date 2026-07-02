@@ -153,4 +153,24 @@ export const categories: Category[] = [
       <p>Rodillos gua sha y jade: <strong>$3.000-$15.000</strong>. Masajeadores faciales eléctricos: <strong>$20.000-$80.000</strong>. Limpiadores faciales ultrasónicos: <strong>$15.000-$45.000</strong>. LED masks: <strong>$50.000-$200.000</strong> (las buenas arrancan en $120K). Depiladoras IPL caseras: <strong>$100.000-$400.000</strong>. Planchitas de alta gama: <strong>$80.000-$250.000</strong>. En belleza, el "dupe" barato muchas veces funciona — pero en devices eléctricos invertí en marcas con respaldo: la piel no se banca experimentos.</p>
     `,
   },
+  {
+    slug: "coleccionables",
+    name: "Coleccionables",
+    icon: "Trophy",
+    pastel: "var(--color-pastel-purple)",
+    h1: "Coleccionables Virales",
+    description: "Figuritas, álbumes y objetos de colección que son furor en Argentina",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Sobres y packs de figuritas oficiales (como los del álbum del Mundial), álbumes y accesorios para completarlos. Son productos de temporada: la demanda se dispara con cada evento grande y baja el resto del año.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Oficialidad:</strong> comprá siempre de la marca licenciataria (por ejemplo Panini para el Mundial); las versiones truchas no tienen el mismo papel ni terminación.</li>
+        <li><strong>Stock del vendedor:</strong> estos productos se agotan rápido en temporada alta; revisá que la publicación tenga stock real antes de pagar.</li>
+        <li><strong>Precio por sobre:</strong> comparalo contra comprar sobres sueltos — los packs grandes no siempre salen más baratos.</li>
+        <li><strong>Al azar:</strong> las figuritas vienen aleatorias, ningún pack garantiza cuáles te van a tocar.</li>
+      </ul>
+    `,
+  },
 ];

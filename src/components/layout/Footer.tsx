@@ -46,7 +46,7 @@ export function Footer() {
               Categorías
             </h4>
             <ul className="space-y-2">
-              {["Belleza", "Tech", "Hogar", "Fitness", "Moda", "Cocina"].map(
+              {["Belleza", "Tech", "Hogar", "Gaming", "Audio", "Cocina"].map(
                 (cat) => (
                   <li key={cat}>
                     <Link
@@ -120,6 +120,14 @@ export function Footer() {
                   className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
                 >
                   Términos
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/contacto"
+                  className="text-sm text-[var(--text-muted)] hover:text-[var(--text-primary)] transition-colors"
+                >
+                  Contacto
                 </Link>
               </li>
               <li>
