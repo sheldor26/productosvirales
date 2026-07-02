@@ -37212,7 +37212,9 @@ No es para vos si: buscás algo robusto que aguante trato descuidado, o te frust
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/p/MLA72187457',
-    affiliateUrl: 'https://meli.la/1y5nrwc',
+    // Link viejo (catálogo MLA72187457 quedó sin vendedores el 2026-07-01): https://meli.la/1y5nrwc
+    // Instrucción de Juan: si ese catálogo vuelve a tener stock, RESTAURAR el link viejo.
+    affiliateUrl: 'https://www.mercadolibre.com.ar/social/jm159?matt_word=productosvirales&matt_tool=12465328&forceInApp=true&ref=BNlmbjdcjXh1t8CMDy0BiuZ8ZQBBQwByUSbuY1qiEonKUlDeJUJJOo0fyXNnr046uYTYymPezCg8OEhDZPt1x9PA5xZ3C2UyAK5OM73jtEt%2FTirO2OCfXvwz2e0m4aMq9v449VTDYncU8eTIIDQf%2FEDvLDyWtUqvZMcTuYCS4LykcX9JA9nGfzOmy4cf8bS3y23feJv2Alz8LgGyqA%3D%3D',
     condition: 'new',
     freeShipping: true,
     brand: 'Electrolux',
