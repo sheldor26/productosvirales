@@ -49,3 +49,6 @@ yarn-error.log*
 next-env.d.ts
 /.claude/.session-state/
 .claude/settings.local.json
+
+# Backups viejos de build (rompen el scan de Tailwind v4)
+.next-old*

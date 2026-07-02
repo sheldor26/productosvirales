@@ -2,17 +2,18 @@
 
 import { useEffect, useState } from "react";
 
-// Popup de captación de emails. Aparece centrado en la pantalla (modal con
-// fondo oscurecido) apenas el visitante arranca a scrollear. Se cierra con la
-// ✕, con Esc o clickeando el fondo, y no vuelve a molestar (queda en
-// localStorage). Si se suscribe, tampoco reaparece. Reusa /api/subscribe.
+// Captación de emails. Banner NO bloqueante abajo a la derecha (mobile: barra
+// abajo, por encima de la sticky de compra). NO tapa el contenido ni los botones
+// de afiliado: aparece recién cuando el lector ya recorrió la mayor parte de la
+// guía (o sea, después de ver los productos, no antes de comprar). Se cierra con
+// ✕ o Esc y no vuelve a molestar (localStorage). Si se suscribe, tampoco.
 
 const STORAGE_KEY = "pv_newsletter_banner"; // valor: "dismissed" | "subscribed"
 
-// Aparece apenas empezó a scrollear. Distancia fija (no porcentaje) porque las
-// guías son muy largas. En páginas cortas que no llegan a este scroll, no se
-// dispara.
-const TRIGGER_PX = 400;
+// Fracción de la página que hay que recorrer para que aparezca. 0.6 = ya vio el
+// grueso del contenido y los product-cards. Antes saltaba a los 400px (arriba de
+// todo, tapando el CTA); eso mataba la conversión.
+const TRIGGER_SCROLL_RATIO = 0.6;
 
 export function NewsletterBanner() {
   const [show, setShow] = useState(false);
@@ -25,7 +26,10 @@ export function NewsletterBanner() {
     if (localStorage.getItem(STORAGE_KEY)) return;
 
     const onScroll = () => {
-      if (window.scrollY > TRIGGER_PX) {
+      const scrolled = window.scrollY + window.innerHeight;
+      const full = document.documentElement.scrollHeight;
+      // Necesita recorrido real (guías largas) Y haber pasado el umbral de ratio.
+      if (window.scrollY > 600 && full > 0 && scrolled / full >= TRIGGER_SCROLL_RATIO) {
         setShow(true);
         window.removeEventListener("scroll", onScroll);
       }
@@ -88,22 +92,16 @@ export function NewsletterBanner() {
 
   return (
     <div
-      className="newsletter-overlay fixed inset-0 z-50 flex items-center justify-center p-4"
-      onClick={dismiss}
-      style={{ background: "rgba(10,10,20,0.55)" }}
+      className="newsletter-banner fixed z-40 left-3 right-3 bottom-[84px] sm:left-auto sm:right-5 sm:bottom-5 sm:w-[380px]"
     >
       <div
         role="dialog"
-        aria-modal="true"
         aria-label="Suscripción al newsletter"
-        onClick={(e) => e.stopPropagation()}
-        className="newsletter-popup relative w-full max-w-md rounded-[24px] border p-6 sm:p-7"
+        className="newsletter-popup relative rounded-[18px] border p-5"
         style={{
-          background: "color-mix(in srgb, var(--bg-primary) 88%, transparent)",
+          background: "var(--bg-primary)",
           borderColor: "var(--border)",
-          boxShadow: "0 24px 70px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.5)",
-          backdropFilter: "blur(28px) saturate(160%)",
-          WebkitBackdropFilter: "blur(28px) saturate(160%)",
+          boxShadow: "0 12px 40px rgba(0,0,0,0.18)",
         }}
       >
         <button
