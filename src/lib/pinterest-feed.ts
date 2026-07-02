@@ -3,6 +3,7 @@ import { getVisibleProducts } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { getPublishedGuides } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
+import { guideOgImage } from "@/lib/guide-image";
 
 // Lógica compartida para armar el CSV del importador "Cargá un CSV o TXT" de
 // Pinterest (Bulk Create Pins). La usan tanto la ruta `/api/pinterest-feed`
@@ -95,7 +96,7 @@ export function buildPins({ tipo, categoria, board }: FeedOptions = {}): Pin[] {
   if (tipo !== "productos") {
     for (const g of getPublishedGuides()) {
       if (categoria && g.category !== categoria) continue;
-      const media = normalizeMedia(g.ogImage);
+      const media = normalizeMedia(guideOgImage(g));
       if (!usableMedia(media)) continue;
       const cat = categoryName.get(g.category) || g.category;
       pins.push({
