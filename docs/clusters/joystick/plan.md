@@ -15,10 +15,11 @@ Salió como hueco fuerte en el radar de tendencias de ML (`scripts/trends-radar.
 | Keyword | Volumen/mes | KD | Intención | SERP |
 | :-- | --: | --: | :-- | :-- |
 | joystick ps5 | **18.100** | 18 | Transaccional | guía-dominada; incumbentes ES grandes (más dura) + blog ML AR rankea |
+| joystick xbox | **5.400** | 21 | **Comercial** | 2da más grande del sub-silo; ML AR con reseñas modestas (Xbox es minoría en AR) |
 | joystick pc | 2.900 | 16 | Transaccional | guía-dominada; **sitios AR chicos rankean (DA 21-33)** = más fácil |
 | joystick para celular | 2.900 | 19 | **Comercial** | (misma familia, guía-dominada) |
 | joystick inalámbrico | 390 | 12 | Transaccional | cola larga, se cubre dentro de las otras |
-| control ps5 | 1.300 | 25 | Transaccional | NO usar como ancla (joystick ps5 es el término real) |
+| control ps5 / control xbox series | 1.300 / 110 | 25 / 34 | Transaccional | NO usar como ancla ("joystick" es el término real en AR) |
 
 Apuntar SIEMPRE al comparativo ("mejor joystick X" / "joystick X cuál comprar"), no al término pelado (que es listado de tienda).
 
@@ -29,10 +30,13 @@ Routing: usa el silo gaming existente → `/guias/gaming/[slug]`. Con `silo: "ga
 | Orden | Guía (slug) | Keyword objetivo | Rol | Dificultad |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 | `joystick-pc` | joystick pc (2.900) | **Quick win** (SERP más blanda) | fácil |
-| 2 | `joystick-para-celular` | joystick para celular (2.900, Comercial) | Satélite | media |
-| 3 | `joystick-ps5` | joystick ps5 (18.100) | **Flagship** (más volumen, SERP más dura, ángulo honestidad fuerte) | difícil, juego largo |
+| 2 | `joystick-xbox` | joystick xbox (5.400, Comercial) | Satélite de buen volumen | media |
+| 3 | `joystick-para-celular` | joystick para celular (2.900, Comercial) | Satélite | media |
+| 4 | `joystick-ps5` | joystick ps5 (18.100) | **Flagship** (más volumen, SERP más dura, ángulo honestidad fuerte) | difícil, juego largo |
 
-Recomendación de arranque: **joystick-pc primero** (se rankea más fácil, valida el sub-silo), después celular, y dejar el flagship joystick-ps5 para cuando los dos primeros estén asentados.
+Recomendación de arranque: **joystick-pc primero** (se rankea más fácil, valida el sub-silo). Después `joystick-xbox` (comparte ecosistema con PC, el control de Xbox es dual PC+consola), después celular, y dejar el flagship joystick-ps5 para cuando los otros estén asentados.
+
+**Nota Xbox (importante):** el control de Xbox es minoría en ventas en AR (menos reseñas que PS5/Redragon), pero la keyword tiene buen volumen. La guía se sostiene por la demanda de búsqueda + porque el control de Xbox es el **estándar de PC** (XInput, plug-and-play). Por eso **el control oficial de Xbox va TAMBIÉN en la guía `joystick-pc`** como la opción premium "simplemente anda", además de anclar su propia guía.
 
 Enlazado interno (hub-and-spoke, dentro de gaming): cada guía de joystick enlaza al pilar `silla-gamer` y a las hermanas de gaming relevantes (mouse, teclado, auriculares, monitor). Y entre las 3 de joystick.
 
@@ -60,12 +64,15 @@ Seguir `docs/skills/optimizador-guias-pv.md` (modo CREAR) + `docs/guias.md` (dis
 ## 5. Ángulos editoriales por guía (la columna vertebral honesta)
 
 ### Guía 1 — Joystick PC (quick win)
-Ejes: **compatibilidad** (el estándar de PC es el mando de Xbox / XInput, plug-and-play; los genéricos usan DirectInput y algunos juegos no los detectan bien), **con cable vs inalámbrico** (dongle 2.4GHz sin lag vs Bluetooth), **marcas** (Xbox controller, 8BitDo, GameSir, Redragon, Logitech F310/F710). Contra honesta: los joysticks genéricos baratos a veces no los reconoce Steam sin configurar; el mando de Xbox es el que "simplemente anda".
+Ejes: **compatibilidad** (el estándar de PC es el control de Xbox / XInput, plug-and-play; los genéricos usan DirectInput y algunos juegos no los detectan bien), **con cable vs inalámbrico** (dongle 2.4GHz sin lag vs Bluetooth), **marcas** (control de Xbox, 8BitDo, GameSir, Redragon, Logitech F310/F710). **Incluir el control oficial de Xbox** como la opción premium "simplemente anda" (es el mismo que ancla la guía joystick-xbox: dual PC+consola). Contra honesta: los joysticks genéricos baratos a veces no los reconoce Steam sin configurar; el de Xbox es el que no falla.
 
 ### Guía 2 — Joystick para celular
 Dos categorías, aclararlas: **(a) gamepad Bluetooth + soporte/clip** para el celular, y **(b) controles telescópicos que abrazan el celular** (tipo GameSir X2, Razer Kishi). Ejes: latencia Bluetooth (para juegos rápidos, mejor 2.4GHz o cable), compatibilidad Android vs iOS, para qué se usa (Free Fire, emuladores, cloud gaming). Contra honesta: muchos gamepads baratos tienen lag por Bluetooth que arruina los shooters; algunos juegos (Free Fire) limitan el uso de controles.
 
-### Guía 3 — Joystick PS5 (flagship, honestidad = el arma)
+### Guía — Joystick Xbox
+Ejes: el **control oficial de Xbox Wireless** es el estándar de PC y consola (XInput, plug-and-play, funciona en Xbox Series/One, PC, celular). El **Elite Series 2** es el premium (paletas, gatillos ajustables). Compatibles/third-party más baratos para quien no quiere pagar el oficial. Conexión (Bluetooth vs receptor), pilas AA vs recargable. Contra honesta: el oficial usa pilas AA (comprás aparte el kit recargable), y hay menos opciones third-party confiables que en PC genérico. Ojo: Xbox es minoría en AR, así que varios modelos tienen pocas reseñas (decirlo de frente). Cuña AR: precios reales de ML y qué se consigue acá; el control de Xbox sirve igual para PC, ese es su gran valor.
+
+### Guía — Joystick PS5 (flagship, honestidad = el arma)
 El ángulo que NADIE hace en AR y que es el más buscado: **cuáles joysticks "compatibles con PS5" baratos andan de verdad y cuáles no.** La verdad honesta: el **DualSense oficial** es el único con gatillos adaptativos y haptics reales; muchos third-party baratos "para PS5" en realidad **solo andan en PC**, o pierden funciones, o piden cable, o Sony los banea con updates. Estructura sugerida: DualSense oficial (el seguro) → DualSense Edge (premium, paletas) → alternativas con licencia que sí funcionan → advertencia sobre los clones baratos. Esta honestidad es exactamente lo que las revistas ES no dan y lo que el comprador argentino necesita antes de gastar. Es el diferencial.
 
 ## 6. Orden, ritmo y publicación
