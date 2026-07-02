@@ -1,5 +1,10 @@
 # Backlog de productos (inventario para guías futuras)
 
+## ⚠️ Pendientes pre-publish (detectados por el vigía de stock, 2026-07-01)
+
+- **Stromberg Mega Twin (MLA47305608) MURIÓ en ML** (catálogo sin vendedores) y está en las guías STAGED `parlante-stromberg` y `parlantes`. Antes de publicar el silo audio: reemplazarlo por un modelo Stromberg vigente (pedirle a Juan el meli.la) o reescribir esas secciones. Ya quedó `deprioritized`.
+- **Productos muertos en guías EN VIVO** (fuga activa, reemplazo editorial pendiente): pistola Femmto MLA37908577 (4 guías de masajeadores), perfume Asad Negro MLAU3562485598 (3 guías árabes), cafetera Electrolux ECM25 MLA72187457 (cafetera-de-filtro), cafetera Smartlife SL-EC8501 MLA18562154 (5 guías de cafeteras). Correr `node scripts/stock-watchdog.cjs` para el estado actual.
+
 > Holding de productos de MercadoLibre que Juan ya curó (con su `meli.la` de afiliado generado) pero que **todavía no están en una guía**. Sirve para no perder los links de afiliado y para tener munición lista cuando armemos guías o satélites nuevos.
 
 ## Reglas

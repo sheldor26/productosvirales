@@ -8559,7 +8559,7 @@ El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de l
     rating: 4.8,
     reviewCount: 239,
     pastelColor: "var(--pastel-azul)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Tipo", value: "Parlante 2 en 1 grande (par que se separa)" },
       { label: "Resistencia", value: "IPX4 (salpicaduras)" },
@@ -12021,6 +12021,7 @@ Lo que no hace: no es huevera de cerámica para mostrar en la mesada, no va al m
   },
   {
     id: 'MLA65102455',
+    visibility: 'deprioritized',
     title: 'Set Organizadores Acrílico Transparente x16 — Escritorio, Cajones, Placard',
     price: 28650,
     priceUpdated: "2026-06-21",
@@ -13641,6 +13642,7 @@ Si el rating de 2.8⭐ te genera dudas o no te hace falta el mecanismo de palanc
   },
   {
     id: 'MLA54423759',
+    visibility: 'deprioritized',
     title: 'Ventilador Retractil De Techo Novohome Luz Calida Fria Neutra 6 Velocidades 4 aspas Color Blanco',
     price: 159990,
     priceUpdated: "2026-06-21",
@@ -14418,6 +14420,7 @@ Sin Bluetooth ni bocina. Sin app. Sin control por voz. Sin funcionalidad smart h
   },
   {
     id: 'MLA45675149',
+    visibility: 'deprioritized',
     title: 'Proyector Astronauta Dakota | Parlante BT, 8 Modos y Timer',
     brand: "Dakota",
     badge: 'trending',
@@ -14585,6 +14588,7 @@ Dakota es una marca argentina (Selca). Incluye láser 532nm nítido, materiales 
   },
   {
     id: 'MLA2729985625',
+    visibility: 'deprioritized',
     title: 'Proyector Oso Astronauta MTI 730 — Galaxia y Estrellas BT',
     badge: 'trending',
     price: 33250,
@@ -16009,6 +16013,7 @@ Es un organizador giratorio transparente que cumple lo básico bien: todo a la v
   },
   {
     id: 'MLA3692700236',
+    visibility: 'deprioritized',
     title: 'Mesa Auxiliar con Ruedas — Tablero Madera y 2 Estantes Metal, Carrito 3 Niveles',
     price: 53144,
     priceUpdated: "2026-06-21",
@@ -17801,6 +17806,7 @@ Solidez razonable para un producto de esta categoría. No es el volumen de revie
   },
   {
     id: 'MLA57493486',
+    visibility: 'deprioritized',
     title: 'Velador Táctil LED Recargable Practiled USB Para Botella Mesa Luz Regulable',
     seoTitle: "Velador Táctil LED Practiled Recargable USB",
     price: 18899,
@@ -21216,7 +21222,7 @@ Un HY300 con Android 11 que cumple de sobra para su precio, sobre todo a oscuras
     ],
     category: 'Cocina',
     categorySlug: 'cocina',
-    visibility: 'deprioritized',
+    visibility: 'normal',
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-atma-18-l-interior-acero-inoxidable-negro/p/MLA49747515',
     affiliateUrl: 'https://meli.la/1TBSj3K',
     condition: 'new',
@@ -30668,7 +30674,7 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
     rating: 4.7,
     reviewCount: 82,
     soldQuantity: 1000,
-    visibility: "deprioritized",
+    visibility: "normal",
     seoTitle: "Afnan 9PM 100ml: listing alternativo",
     metaDescription: "Listing alternativo del Afnan 9PM EDP 100ml en MercadoLibre. La review editorial completa está en la ficha principal.",
     h1: "Afnan 9PM 100ml — listing alternativo",
