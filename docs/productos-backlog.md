@@ -113,6 +113,53 @@
 | Kit Redragon S143 (K617 + M724) | MLA47333674 | Redragon | 809 | $74.999 | meli.la/1QjfBRL | pendiente — **kit gamer de marca** |
 | Kit Senon 4 en 1 (teclado+mouse+auri+pad) | MLA63650610 | Senon | 412 | $37.481 | meli.la/2Epam1y | pendiente — kit completo económico |
 
+## Cuidado Personal — Secadores de pelo
+
+> Pilar `secador-de-pelo` (silo `cuidado-personal`, STAGED 2026-07-02). Traídos vía API oficial de ML (categoría MLA4597 "Secadores de Pelo"), rankeados por reviewCount. Los 6 links de afiliado ya están generados y aplicados en `curated-products.ts`.
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Daewoo DHD-7007 2100W frío/calor + difusor | MLA22138728 | Daewoo | 8633 | $35.599 | https://meli.la/2QkGnV2 | **usado** en `secador-de-pelo` (#1, el más vendido) |
+| Spica SP-1900 1800W iónico | MLA22934394 | Spica | 2067 | $16.599 | https://meli.la/1Y7ro1W | **usado** en `secador-de-pelo` (#2, el más económico) |
+| Silfab Heat Expert By-520S 1800W | MLA23558351 | Silfab | 433 | $31.000 | https://meli.la/1n3Ks3T | **usado** en `secador-de-pelo` (#3, el más liviano) |
+| Yelmo SC-3630 2200W Tourmaline Ion | MLA21813707 | Yelmo | 330 | $49.999 | https://meli.la/2TnTLcf | **usado** en `secador-de-pelo` (#4, motor AC verificado en yelmo.com.ar) |
+| Vanta 3800 Mini Compact 1800W | MLA7477377 | Vanta | 948 | $71.000 | https://meli.la/1ywK42U | **usado** en `secador-de-pelo` (#5, motor AC, 400g) |
+| GA.MA Italy Brilliant Blue Titanium 2200W | MLA24435487 | GA.MA Italy | 100 | $99.560 | https://meli.la/1hERTNt | **usado** en `secador-de-pelo` (#6, premium, motor DC verificado en gamaitalyonline.com.ar) |
+
+Candidatos que quedaron afuera (para satélites futuros del silo, ej. `maquina-de-afeitar` no aplica pero sí futuras guías de secadores por marca o económicos): Blaupunkt Diamond Salon 2400w (MLA24240755, 103 reseñas, $64.679), Belprof Ventus 5000 (MLA21813705, 18 reseñas, $79.999), Philips Thermoprotect HP8230 (MLA6357153, 38 reseñas, $109.500 — precio con pocas ofertas, revisar antes de usar), Teknikpro New Eco Ion 3200 (MLA19486991, 1051 reseñas, $135.600 — 1 sola oferta activa, revisar precio).
+
+## Cuidado Personal — Máquinas de afeitar
+
+> Satélite `maquina-de-afeitar` (silo `cuidado-personal`, STAGED 2026-07-02), enlazado con el pilar `secador-de-pelo`. Traídos vía API oficial de ML (categoría "Afeitadoras Eléctricas"), rankeados por reviewCount. "Máquina de afeitar" y "afeitadora eléctrica" son el mismo producto (una sola guía); `cortadora de pelo` es distinta (corta longitud, no afeita a ras) y no comparte productos con esta guía. Los 6 links de afiliado ya están generados y aplicados en `curated-products.ts`.
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| GA.MA Italy G-Blade Wet & Dry | MLA25586824 | GA.MA Italy | 1134 | $29.999 | https://meli.la/2jg77p9 | **usado** en `maquina-de-afeitar` (#1, la más vendida) |
+| Kemei KM-1102 | MLA44725486 | Kemei | 38 | $26.990 | https://meli.la/1nyvU2o | **usado** en `maquina-de-afeitar` (#2, la más económica) |
+| GA.MA Italy GSH700 Tracker USB | MLA45401467 | GA.MA Italy | 308 | $37.200 | https://meli.la/1gTg98c | **usado** en `maquina-de-afeitar` (#3, doble pista + trimmer retráctil) |
+| Wahl Travel Shaver 7 Piezas | MLA61642810 | Wahl | 181 | $42.000 | https://meli.la/2sEMMmK | **usado** en `maquina-de-afeitar` (#4, kit de viaje) |
+| Remington R31A Rotativo | MLA19769919 | Remington | 213 | $65.000 | https://meli.la/24WtnAA | **usado** en `maquina-de-afeitar` (#5, única rotativa) |
+| GA.MA Italy GSH987 Sport | MLA21346790 | GA.MA Italy | 142 | $68.999 | https://meli.la/2VNgUix | **usado** en `maquina-de-afeitar` (#6, premium, wet & dry verificada en gamaitalyonline.com.ar) |
+
+Candidatos que quedaron afuera: varios productos con más reseñas que estos 6 resultaron ser recortadoras de barba/pelo o repuestos de cabezal (mal categorizados como "afeitadora" en ML) — excluidos por no afeitar a ras de piel, para no listarlos junto a afeitadoras reales. Tampoco se encontró ningún Philips OneBlade ni híbrido trim/shave con ofertas activas al momento del research; se cubrió el concepto de forma educativa en la guía, sin inventar un pick.
+
+## Cuidado Personal — Cortadoras de pelo
+
+> Satélite `cortadora-de-pelo` (silo `cuidado-personal`, STAGED 2026-07-02), cierra el silo. Enlazado con el pilar `secador-de-pelo` y con `maquina-de-afeitar`. Traídos vía API oficial de ML (categoría "Cortadoras de Pelo" MLA5411), rankeados por reviewCount. Distinta de `maquina-de-afeitar`: corta longitud con peines guía, no afeita a ras, no comparte productos con esa guía. **Las 2 fichas Philco (HC9901PN, HC9902PN) no generan link de afiliado** (rechazadas por el programa de MercadoLibre) — se marcaron `visibility: 'deprioritized'` y se reemplazaron en el ranking por Kemei KM-1951 y Teknikpro Silver. 4 de 6 productos ya tienen meli.la real; faltan los 2 nuevos.
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Remington HC5850 Indestructible | MLA21820129 | Remington | 2338 | $61.080 | https://meli.la/2qnuJyn | **usado** en `cortadora-de-pelo` (#1, la más vendida, kit de 15 piezas) |
+| Kemei KM-1951 | MLA24162945 | Kemei | 21 | $24.240 | PEGAR_MELI_LA | **usado** en `cortadora-de-pelo` (#2, la más económica, reemplaza a Philco HC9901PN) |
+| Wahl Magic Clip | MLA22272888 | Wahl | 561 | $126.099 | https://meli.la/23AAFeN | **usado** en `cortadora-de-pelo` (#3, la profesional, motor rotativo, mejor puntuada 4.8) |
+| Gadnic CP140 Care | MLA19606324 | Gadnic | 475 | $36.632 | https://meli.la/1x7QKoj | **usado** en `cortadora-de-pelo` (#4, la inalámbrica, carga USB) |
+| Vanta Patillera 1100 | MLA19307536 | Vanta | 253 | $45.546 | https://meli.la/133hjdT | **usado** en `cortadora-de-pelo` (#5, única con pantalla digital) |
+| Teknikpro Silver | MLA23131521 | Teknikpro | 19 | $89.000 | PEGAR_MELI_LA | **usado** en `cortadora-de-pelo` (#6, multigroomer con o sin cable, reemplaza a Philco HC9902PN) |
+
+Candidatos que quedaron afuera: kits de navajas de afeitar manuales mal categorizados como "cortadora" en ML (ej. Gadnic Kit Barbería con porta-navajas, que en realidad es un porta-cuchillas de afeitar manual, no una máquina eléctrica), cortadoras para mascotas y trimmers exclusivos de barba (ya cubiertos o excluidos en la guía de `maquina-de-afeitar`).
+
+**Fichas deprioritizadas (no borradas, solo sacadas del ranking):** Philco HC9901PN (MLA16142518, $27.000, 89 reseñas) y Philco HC9902PN (MLA17922390, $139.999, 251 reseñas). Siguen existiendo como fichas de producto standalone (`visibility: 'deprioritized'`), por si el rechazo del programa de afiliados era puntual y se puede reintentar más adelante.
+
 ## Otros silos / categorías
 
 _(acá van los productos sobrantes de otras tandas que quieran guardarse para futuras guías)_

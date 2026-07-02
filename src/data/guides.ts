@@ -17199,6 +17199,362 @@ export const guides: Guide[] = [
     internalLinksTitle: "Guías relacionadas",
   },
 
+  // ─────────────────────────────────────────────────────────
+  // PILAR secador-de-pelo — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "secador-de-pelo",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    pillar: true,
+    title: `Secador de pelo: cuál comprar en Argentina [2026]`,
+    seoTitle: `Secador de Pelo: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Qué secador de pelo comprar en Argentina: potencia real, iónico, motor AC o DC, difusor. Comparamos los más vendidos con precios reales de MercadoLibre.`,
+    ogTitle: `Secador de pelo: cuál comprar en Argentina`,
+    ogDescription: `Del más vendido y barato al premium con motor DC. Comparados por potencia real, iónico, difusor y precio real de MercadoLibre. La guía honesta, con precios argentinos.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_872804-MLA99453742720_112025-F.jpg`,
+    h1: `Secador de pelo: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-02",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Las revistas de belleza hablan de secadores de 500 dólares que en Argentina casi no se consiguen o cuestan una fortuna. Te mostramos qué comprar de verdad en MercadoLibre Argentina, comparando potencia real, iónico, motor AC o DC y difusor, con precios reales y las contras que las fichas de venta no dicen.`,
+    quickPicks: [
+      { productMlaId: "MLA22138728", label: "El más vendido", labelColor: "green", tagline: "Daewoo DHD-7007 2100W: frío/calor y difusor incluido, más de 8.600 opiniones" },
+      { productMlaId: "MLA22934394", label: "El más económico", labelColor: "blue", tagline: "Spica SP-1900: iónico, difusor y boquilla incluidos, el más barato de la guía" },
+      { productMlaId: "MLA21813707", label: "Mejor iónico y profesional", labelColor: "purple", tagline: "Yelmo SC-3630: motor AC profesional verificado, Tourmaline Ion, 4.8 estrellas" },
+      { productMlaId: "MLA24435487", label: "El premium con motor DC", labelColor: "amber", tagline: "GA.MA Italy Brilliant Blue Titanium: motor DC real, la tecnología de gama alta" },
+    ],
+    intro: [
+      `"Secador de pelo" parece un electrodoméstico simple, pero hay varias decisiones que cambian el resultado y el precio: la **potencia real** (no siempre coincide con el número de la caja), si el motor es **AC o DC**, si tiene **tecnología iónica** contra el frizz, y si trae **difusor** para rulos. Las revistas de belleza y grooming hablan de Dyson o GHD a más de 500 dólares que en Argentina casi no se consiguen o salen una fortuna en dólar tarjeta.`,
+      `En esta guía comparamos los secadores con más ventas reales de Argentina (Daewoo, Spica, Silfab, Yelmo, Vanta y GA.MA Italy) con precios reales de MercadoLibre, specs verificadas contra el fabricante cuando existe, y las contras que las fichas de venta no cuentan. Si sabés qué necesitás, en dos minutos sabés cuál comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_872804-MLA99453742720_112025-F.jpg", alt: `Daewoo DHD-7007, el secador de pelo más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los secadores de pelo con más ventas y opiniones reales en MercadoLibre Argentina, rankeados por cantidad de calificaciones (el mejor proxy de ventas real que existe). Verificamos specs de fabricante cuando la marca tiene sitio oficial (GA.MA Italy, Yelmo); cuando no lo tiene (marcas chicas o genéricas), nos apoyamos en la ficha técnica de ML y en las reseñas de compradores. Los ordenamos por lo que define la compra: **potencia**, **tipo de motor**, si son **iónicos**, si traen **difusor** y el precio. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué secador necesitás según tu pelo`, id: "tipos" },
+      { type: "p", content: `Cuatro preguntas y listo. **Potencia:** un secador doméstico normal ronda 1800-2200W; más potencia seca más rápido, pero el número de la caja no siempre es el real (por eso comparamos con lo que dicen las reseñas, no solo la ficha). **Motor:** la mayoría de los secadores de este precio son **motor AC** (el estándar, robusto y probado); el **motor DC** es más chico, silencioso y es la tecnología de los secadores de gama alta, a un precio bastante más alto. **Iónico:** ayuda a reducir el frizz sellando la cutícula del pelo más rápido; se nota más en pelo grueso o rizado que en pelo lacio fino, y no todos los secadores lo traen (ni siquiera el más vendido de esta guía). **Difusor:** si tenés rulos u ondas, un difusor incluido te ahorra comprarlo aparte; si tu pelo es lacio, no lo vas a usar.` },
+      { type: "p", content: `La regla rápida: para uso diario sin pretensiones, cualquiera de esta guía con buena potencia alcanza. Si el frizz es tu problema real, priorizá iónico. Si tenés rulos, priorizá difusor incluido. Si el brazo se cansa en sesiones largas, priorizá peso liviano por sobre potencia extra.` },
+
+      { type: "h2", title: `Los mejores secadores de pelo 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Daewoo DHD-7007 2100W — el más vendido` },
+      { type: "product-card", productMlaId: "MLA22138728", label: "El más vendido", labelColor: "green", ranking: 1, description: `2100W reales, frío/calor y difusor incluido. 4.7 estrellas en más de 8.600 calificaciones, por lejos el más comprado de la categoría en Argentina.` },
+      { type: "p", content: `Si no querés pensar demasiado, es este. El Daewoo DHD-7007 combina **potencia real** (2100W, confirmada por las reseñas), **difusor incluido** (no hay que comprarlo aparte) y el volumen de ventas más grande de toda la categoría en Argentina, a alrededor de $35.599. Con más de 8.600 opiniones, es el que más compradores validaron.` },
+      { type: "p", content: `Lo honesto: **no es iónico** (la ficha técnica lo confirma), así que si tu prioridad es el frizz, no es la opción. El difusor incluido, además, es chico: con pelo largo y abundante hay que secarlo por partes a temperatura media para no quemar los rulos. Para el uso del 90%, sobra igual.` },
+      { type: "pull-quote", content: `"Es muy lindo, tiene 3 velocidades y 3 temperaturas, con difusor incluído para rulos. Lo único para objetar es que no se puede plegar, como para llevar de viaje."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Spica SP-1900 — el más económico` },
+      { type: "product-card", productMlaId: "MLA22934394", label: "El más económico", labelColor: "blue", ranking: 2, description: `1800W, iónico, con difusor y boquilla incluidos. El precio más bajo de la guía, con tecnología que ni el #1 en ventas trae.` },
+      { type: "p", content: `Si el presupuesto manda, el Spica SP-1900 es la sorpresa de esta guía: a menos de la mitad del segundo más barato, trae **tecnología iónica** (que ni el Daewoo #1 en ventas tiene) más **difusor y boquilla incluidos**, a alrededor de $16.599. Para pelo fino, medio o corto, alcanza de sobra.` },
+      { type: "p", content: `La contra honesta: tiene el **rating más bajo** de los seis modelos (4.3, contra 4.5 o más del resto), y varias reseñas con pelo abundante marcan que tarda más en secar. No es de uso profesional según su propia ficha. Para uso ocasional o pelo no muy abundante, es la mejor relación precio-equipamiento del catálogo.` },
+      { type: "pull-quote", content: `"Relación precio con el producto está perfecto. Creo que para una persona con abundante pelo le costaría secarse un poco más. Yo tengo el pelo largo pero finito y está perfecto."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Silfab By-520S 1800W — el liviano` },
+      { type: "product-card", productMlaId: "MLA23558351", label: "El más liviano", labelColor: "slate", ranking: 3, description: `483 gramos, función turbo y filtro removible. No es iónico ni cerámico, pero seca rápido sin cansar el brazo.` },
+      { type: "p", content: `Con **483 gramos**, el Silfab es de los más livianos del mercado, algo que se nota en sesiones largas de secado. Suma función turbo y filtro trasero removible (poco común en esta franja), a alrededor de $31.000. Es, junto al Yelmo, uno de los modelos con más ofertas activas de distintos vendedores, así que conviene comparar precio antes de comprar.` },
+      { type: "p", content: `No trae iónico ni cerámico según su ficha técnica: si buscás esas tecnologías, el Yelmo o el Vanta las tienen. Para quien prioriza velocidad y peso por sobre el cuidado antifrizz, cumple bien.` },
+
+      { type: "h3", title: `4. Yelmo SC-3630 2200W — mejor iónico y profesional` },
+      { type: "product-card", productMlaId: "MLA21813707", label: "Mejor iónico y profesional", labelColor: "purple", ranking: 4, description: `Motor AC profesional verificado en la web de Yelmo, Tourmaline Ion, temperatura constante de 60°C. 4.8 estrellas, el punto medio ideal de la guía.` },
+      { type: "p", content: `Es el que mejor equilibra las tres cosas que más importan: el sitio oficial de Yelmo confirma **motor AC profesional** de 2200W con temperatura constante de 60°C, suma tecnología **Tourmaline Ion** contra el frizz, y cuesta menos de la mitad del premium de esta guía, a alrededor de $49.999. Con 4.8 estrellas en 330 opiniones, es de los mejor calificados.` },
+      { type: "p", content: `El detalle que marcan las reseñas: el caudal de aire es fuerte incluso al mínimo ("despeina" bastante según algunos compradores), y con 1.2 kg es de los más pesados de la guía. No trae difusor, solo boquillas concentradoras. Si podés vivir con eso, es la compra más redonda del grupo.` },
+
+      { type: "h3", title: `5. Vanta 3800 Mini Compact 1800W — potente y de 400 gramos` },
+      { type: "product-card", productMlaId: "MLA7477377", label: "Potente y compacto", labelColor: "blue", ranking: 5, description: `Motor AC, iónico y cerámico a la vez, solo 400 gramos. 4.8 estrellas, elegido por peluqueras según las reseñas.` },
+      { type: "p", content: `Con solo **400 gramos**, es el más liviano de toda la guía, y según su ficha técnica combina motor AC, iónico y cerámico a la vez, una mezcla poco común en esta franja de precio. Varias reseñas mencionan que lo usan peluqueras y estilistas, justamente por el peso. Cuesta alrededor de $71.000.` },
+      { type: "p", content: `Una reseña detallada (con 13 votos de "útil") marca que en la función máxima el aire sale muy caliente en relación a la fuerza del caudal. No trae difusor. Si el peso es tu prioridad número uno y no te importa pagar más que el Yelmo por eso, es la opción.` },
+
+      { type: "h3", title: `6. GA.MA Italy Brilliant Blue Titanium 2200W — el premium con motor DC` },
+      { type: "product-card", productMlaId: "MLA24435487", label: "El premium con motor DC", labelColor: "amber", ranking: 6, description: `Motor DC real, verificado en el sitio oficial de GA.MA Italy. Titanio ion y nano silver. La tecnología de gama alta que sí se consigue en Argentina.` },
+      { type: "p", content: `Acá está la cuña real de esta guía: el sitio oficial de GA.MA Italy confirma que este modelo es **motor DC** (la tecnología de los secadores de gama alta que las revistas internacionales asocian a Dyson o GHD), con recubrimiento de titanio ion y tecnología nano silver, a alrededor de $99.560. No es un genérico con la palabra "profesional" en el título: es una marca italiana con línea propia de motor DC, verificable en su propia web.` },
+      { type: "p", content: `Es, honestamente, caro: casi el doble que el Yelmo (motor AC) sin ofrecer el doble de resultado, y con solo 100 calificaciones es la base de opiniones más chica del grupo. Para quien quiere motor DC real y no le importa pagar el salto, es la única opción de la guía que lo cumple.` },
+
+      { type: "h2", title: `Tabla comparativa: por potencia, motor y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Motor`, `Iónico`, `Ideal para`], rows: [
+        [`[Daewoo DHD-7007](https://productosvirales.com.ar/producto/MLA22138728)`, `{{precio:MLA22138728}}`, `2100 W`, `AC`, `No`, `El más vendido, con difusor incluido`],
+        [`[Spica SP-1900](https://productosvirales.com.ar/producto/MLA22934394)`, `{{precio:MLA22934394}}`, `1800 W`, `AC`, `Sí`, `El más económico`],
+        [`[Silfab By-520S](https://productosvirales.com.ar/producto/MLA23558351)`, `{{precio:MLA23558351}}`, `1800 W`, `AC`, `No`, `El más liviano (483 g)`],
+        [`[Yelmo SC-3630](https://productosvirales.com.ar/producto/MLA21813707)`, `{{precio:MLA21813707}}`, `2200 W`, `AC profesional`, `Sí`, `Mejor iónico y profesional`],
+        [`[Vanta 3800 Mini](https://productosvirales.com.ar/producto/MLA7477377)`, `{{precio:MLA7477377}}`, `1800 W`, `AC`, `Sí`, `Potente y de 400 g`],
+        [`[GA.MA Brilliant Blue Titanium](https://productosvirales.com.ar/producto/MLA24435487)`, `{{precio:MLA24435487}}`, `2200 W`, `DC`, `Sí`, `Premium con motor DC`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu secador de pelo`, id: "como-elegir" },
+      { type: "h3", title: `1. Potencia real, no solo el número de la caja` },
+      { type: "p", content: `1800 a 2200W es el rango normal para uso doméstico. La potencia declarada no siempre se traduce en velocidad de secado real: por eso en esta guía priorizamos lo que dicen las reseñas de compradores reales por sobre el número de la ficha. Un secador de 2400W mal armado puede secar más lento que uno de 1800W bien construido.` },
+      { type: "h3", title: `2. Motor AC o DC` },
+      { type: "p", content: `El **motor AC** es el estándar: robusto, probado, y el que usa la enorme mayoría de los secadores de este rango de precio (Daewoo, Spica, Silfab, Yelmo y Vanta de esta guía). El **motor DC** es más chico, silencioso y liviano en el motor, y es la tecnología detrás de los secadores de gama alta tipo Dyson o GHD; en esta guía, solo el GA.MA Italy la tiene, verificada en su sitio oficial, a un precio bastante más alto.` },
+      { type: "h3", title: `3. ¿Necesitás iónico?` },
+      { type: "p", content: `La tecnología iónica ayuda a reducir el frizz sellando la cutícula del pelo más rápido. Se nota más en pelo grueso, ondulado o rizado que en pelo lacio y fino. No es magia ni reemplaza una buena rutina de hidratación, pero si el frizz es tu problema principal, priorizalo: en esta guía lo tienen el Spica, el Yelmo, el Vanta y el GA.MA Italy, pero no el Daewoo (el más vendido) ni el Silfab.` },
+      { type: "h3", title: `4. Difusor y temperatura` },
+      { type: "p", content: `Si tenés rulos u ondas, un difusor te ayuda a definirlos sin encresparlos con el chorro directo. En esta guía, el Daewoo y el Spica lo traen incluido; el resto solo suma boquillas concentradoras (para pelo lacio). La función de aire frío (cool shot), presente en todos los modelos de esta guía, sirve para fijar el peinado al final.` },
+      { type: "h3", title: `5. Peso y ruido` },
+      { type: "p", content: `Para uso diario o sesiones largas, el peso se nota en el brazo. El Vanta (400 g) y el Silfab (483 g) son los más livianos de esta guía; el Yelmo (1.2 kg) es el más pesado. Ninguno de los seis se destaca especialmente por silencioso, así que si eso es prioridad, es un dato a chequear en las reseñas antes de comprar.` },
+
+      { type: "h2", title: `Cuánto cuesta un secador de pelo en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA22934394:k}} a {{precio:MLA23558351:k}}:** la franja económica. El [Spica SP-1900](https://productosvirales.com.ar/producto/MLA22934394) (el más barato, iónico) y el [Silfab By-520S](https://productosvirales.com.ar/producto/MLA23558351) (liviano, sin iónico).`,
+        `**{{precio:MLA22138728:k}} a {{precio:MLA21813707:k}}:** el punto justo para la mayoría. El [Daewoo DHD-7007](https://productosvirales.com.ar/producto/MLA22138728) (el más vendido, con difusor) y el [Yelmo SC-3630](https://productosvirales.com.ar/producto/MLA21813707) (motor AC profesional, iónico).`,
+        `**{{precio:MLA7477377:k}} o más:** gama alta. El [Vanta 3800 Mini](https://productosvirales.com.ar/producto/MLA7477377) (potente y liviano) y el [GA.MA Italy Brilliant Blue Titanium](https://productosvirales.com.ar/producto/MLA24435487) (motor DC real, el premium de la guía).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál secador de pelo comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Daewoo DHD-7007**: potente, con difusor incluido y la base de opiniones más grande de la categoría. Si el presupuesto es lo primero, el **Spica SP-1900** sorprende con iónico y difusor al precio más bajo. Si el **frizz** es tu problema real y querés algo profesional sin gastar de más, el **Yelmo SC-3630** es la compra más redonda. Si el **peso** te importa por sobre todo, el **Vanta** (400 g) o el **Silfab** (483 g). Y si querés la tecnología de gama alta (**motor DC**) que las revistas internacionales recomiendan a precios que en Argentina casi no se consiguen, el **GA.MA Italy Brilliant Blue Titanium** es la única opción real de esta guía. El error a evitar: pagar de más por "iónico" o "profesional" en la caja sin que la marca lo confirme en su propia ficha técnica.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor secador de pelo en Argentina?`, answer: `Para la mayoría, el [Daewoo DHD-7007](https://productosvirales.com.ar/producto/MLA22138728): es el más vendido de la categoría (más de 8.600 opiniones), con potencia real y difusor incluido. Si buscás el más económico, el [Spica SP-1900](https://productosvirales.com.ar/producto/MLA22934394); con tecnología iónica profesional, el [Yelmo SC-3630](https://productosvirales.com.ar/producto/MLA21813707); y premium, el [GA.MA Italy con motor DC](https://productosvirales.com.ar/producto/MLA24435487).` },
+      { question: `¿Qué diferencia hay entre un secador con motor AC y uno DC?`, answer: `El motor AC es el estándar, robusto y el más común en este rango de precio. El motor DC es más chico, silencioso y es la tecnología de los secadores de gama alta (tipo Dyson o GHD), a un precio bastante más alto. En esta guía, solo el [GA.MA Italy Brilliant Blue Titanium](https://productosvirales.com.ar/producto/MLA24435487) tiene motor DC verificado en su sitio oficial; el resto son motor AC.` },
+      { question: `¿Vale la pena un secador iónico?`, answer: `Si el frizz es tu problema principal, sí: la tecnología iónica ayuda a sellar la cutícula del pelo más rápido, y se nota más en pelo grueso, ondulado o rizado que en pelo lacio fino. En esta guía lo tienen el [Spica](https://productosvirales.com.ar/producto/MLA22934394), el [Yelmo](https://productosvirales.com.ar/producto/MLA21813707), el [Vanta](https://productosvirales.com.ar/producto/MLA7477377) y el [GA.MA Italy](https://productosvirales.com.ar/producto/MLA24435487), pero no el [Daewoo](https://productosvirales.com.ar/producto/MLA22138728) (el más vendido) ni el [Silfab](https://productosvirales.com.ar/producto/MLA23558351).` },
+      { question: `¿Qué secador de pelo conviene si tengo rulos?`, answer: `Uno con difusor incluido. En esta guía, el [Daewoo DHD-7007](https://productosvirales.com.ar/producto/MLA22138728) y el [Spica SP-1900](https://productosvirales.com.ar/producto/MLA22934394) lo traen de fábrica. El resto de los modelos solo incluyen boquillas concentradoras, pensadas para pelo lacio.` },
+      { question: `¿Los secadores de pelo "profesionales" que se venden en Argentina son realmente de uso profesional?`, answer: `No todos: es una palabra que se usa libremente en los títulos de las publicaciones. En esta guía verificamos contra la ficha técnica y, cuando existe, contra el sitio oficial del fabricante: el [Yelmo SC-3630](https://productosvirales.com.ar/producto/MLA21813707) confirma motor AC profesional en su propia web, mientras que otros modelos usan la palabra "profesional" en el título sin que la ficha técnica lo respalde con el mismo detalle.` },
+      { question: `¿Cuánto sale un secador de pelo bueno en Argentina?`, answer: `Entre {{precio:MLA22138728:k}} y {{precio:MLA21813707:k}} está el punto justo para la mayoría: potencia real, buena calificación y, en el caso del Yelmo, motor profesional e iónico verificados. Por debajo de eso se consigue algo funcional pero más limitado (como el Spica); por encima, empieza la gama alta con motor DC.` },
+    ],
+    internalLinks: [
+      { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+      { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+    ],
+    internalLinksTitle: "Más para grooming",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE maquina-de-afeitar — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "maquina-de-afeitar",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    title: `Máquina de afeitar: cuál comprar en Argentina [2026]`,
+    seoTitle: `Máquina de Afeitar: Cuál Comprar en Argentina 2026`,
+    metaDescription: `Qué máquina de afeitar comprar en Argentina: rotativa o láminas, wet&dry, autonomía. Comparamos las más vendidas con precios reales de MercadoLibre.`,
+    ogTitle: `Máquina de afeitar: cuál comprar en Argentina`,
+    ogDescription: `De la más económica a la premium wet&dry. Comparadas por sistema de corte, autonomía y precio real de MercadoLibre. La guía honesta de grooming.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_949420-MLA99576448404_122025-F.jpg`,
+    h1: `Máquina de afeitar: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-02",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `"Máquina de afeitar" y "afeitadora eléctrica" son lo mismo: acá comparamos las más elegidas de Argentina por rotativa o láminas, wet&dry o solo en seco, y autonomía real, con precios de MercadoLibre y las contras que las fichas de venta no cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA25586824", label: "La más vendida", labelColor: "green", tagline: "GA.MA G-Blade Wet & Dry: apta rostro y cuerpo, resistente al agua, 1.134 opiniones" },
+      { productMlaId: "MLA44725486", label: "La más económica", labelColor: "blue", tagline: "Kemei KM-1102: láminas de acero al precio más bajo de la guía" },
+      { productMlaId: "MLA19769919", label: "La única rotativa", labelColor: "purple", tagline: "Remington R31A: cabezales flexibles TwinTrack, mejor para piel sensible" },
+      { productMlaId: "MLA21346790", label: "La premium wet&dry", labelColor: "amber", tagline: "GA.MA GSH987 Sport: lavable en la ducha, 60 min de autonomía, verificada en fabricante" },
+    ],
+    intro: [
+      `"Máquina de afeitar" y "afeitadora eléctrica" son el mismo producto: acá van las dos búsquedas juntas para no duplicar contenido. La decisión pasa por tres cosas: el **sistema de corte** (rotativa o láminas), si es **wet&dry** (se puede usar con espuma en la ducha) y la **autonomía** de batería. Ojo con la palabra "profesional" en el título: no siempre significa lo mismo, y en esta guía la cruzamos contra la ficha técnica y, cuando existe, contra el sitio oficial del fabricante.`,
+      `Comparamos las más elegidas de Argentina (GA.MA Italy domina el catálogo con reseñas reales, más Remington, Wahl y Kemei) con precios reales de MercadoLibre y las contras honestas que aparecen en las opiniones de compradores. Si sabés qué necesitás, en dos minutos sabés cuál comprar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_949420-MLA99576448404_122025-F.jpg", alt: `GA.MA Italy G-Blade Wet & Dry, la máquina de afeitar más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las máquinas de afeitar / afeitadoras eléctricas con más ventas y opiniones reales en MercadoLibre Argentina, rankeadas por cantidad de calificaciones. Verificamos specs de fabricante cuando existe sitio oficial (GA.MA Italy, para 2 de los 6 modelos); el resto se sostiene con ficha técnica de ML + reseñas de compradores reales, caso normal en marcas sin fabricante rastreable online. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Rotativa o láminas: qué necesitás según tu piel`, id: "tipos" },
+      { type: "p", content: `Tres preguntas y listo. **Sistema de corte:** la **rotativa** (cabezales circulares) sigue mejor los contornos irregulares de cuello y mandíbula, y suele irritar menos la piel sensible; las **láminas** (foil) dan un corte más al ras y parejo en barba fina, pero exigen pasar la máquina más derecha. **Wet&dry:** si te gusta afeitarte en la ducha con espuma o gel, necesitás una resistente al agua; si siempre afeitás en seco, no hace falta pagar de más por eso. **Autonomía:** para viajes o si te olvidás de cargarla, más minutos de batería declarada es mejor, aunque la mayoría de esta guía anda entre 40 y 60 minutos.` },
+      { type: "p", content: `La regla rápida: piel sensible o cuello irregular, priorizá rotativa. Barba fina y querés al ras parejo, priorizá láminas. Te afeitás en la ducha, priorizá wet&dry verificado. El resto es cuestión de presupuesto.` },
+
+      { type: "h2", title: `Las mejores máquinas de afeitar 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. GA.MA Italy G-Blade Wet & Dry — la más vendida` },
+      { type: "product-card", productMlaId: "MLA25586824", label: "La más vendida", labelColor: "green", ranking: 1, description: `Apta para rostro y cuerpo, resistente al agua, cabezales lavables. 4.5 estrellas en más de 1.100 calificaciones, la base de opiniones más grande de la categoría.` },
+      { type: "p", content: `Es la más elegida de Argentina en esta categoría, con más de 1.100 opiniones. La G-Blade está pensada para **rostro y cuerpo**, resiste el agua (se puede usar en la ducha) y trae 3 peines guía, a alrededor de $29.999. Las reseñas muestran algo interesante: gran parte de los compradores la usan específicamente para **depilación corporal e íntima masculina**, no solo para la cara.` },
+      { type: "p", content: `Lo honesto: si tu uso es exclusivamente barba prolija, no es la más especializada de la guía (para eso, la Gama GSH700 o GSH987 con sistema de doble pista rinden mejor). Tampoco pudimos verificar sus specs contra el sitio oficial del fabricante (no está listada ahí). Para uso versátil de cuerpo completo, es la más validada del catálogo.` },
+      { type: "pull-quote", content: `"Es como una maquinita de afeitar común, esas descartables, pero la gran diferencia es que no te lastima. Me afeité barba, bigote, pecho, axilas y panza."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Kemei KM-1102 — la más económica` },
+      { type: "product-card", productMlaId: "MLA44725486", label: "La más económica", labelColor: "blue", ranking: 2, description: `Láminas de acero inoxidable, corte al ras. El precio más bajo de la guía, sin cabezales lavables ni accesorios.` },
+      { type: "p", content: `Si el presupuesto manda, la Kemei es la entrada: por lejos el precio más bajo de la guía (alrededor de $26.990), afeita al ras y la batería aguanta según confirman las reseñas. 4.7 estrellas, aunque con la base de opiniones (38) más chica del grupo.` },
+      { type: "p", content: `La contra típica de las Kemei económicas se cumple acá: **cabezales no lavables** y sin accesorios incluidos. Es lo básico sin vueltas, honesto en su limitación. Para empezar sin gastar de más, cumple; si terminás usándola seguido, vas a extrañar el lavado bajo el agua de las Gama.` },
+
+      { type: "h3", title: `3. GA.MA Italy GSH700 Tracker — enfocada en rostro` },
+      { type: "product-card", productMlaId: "MLA45401467", label: "Mejor para rostro", labelColor: "purple", ranking: 3, description: `Sistema Double Track con cuchillas flotantes, trimmer retráctil para patillas. Specs verificadas en el sitio oficial de GA.MA Italy. 4.6 estrellas.` },
+      { type: "p", content: `A diferencia de la G-Blade (versátil cuerpo+rostro), esta apunta directo a la **cara**, con sistema de doble pista de corte, cuchillas flotantes y un trimmer retráctil para perfilar patillas sin necesitar otra máquina. Verificamos estas specs palabra por palabra contra el sitio oficial de GA.MA Italy, a alrededor de $37.200.` },
+      { type: "p", content: `Detalle real de las reseñas: varios compradores marcan que no trae cargador y que usa un conector micro-USB de 1.000 mA cada vez más raro de conseguir. No afecta el uso, pero conviene consultarlo antes de comprar.` },
+
+      { type: "h3", title: `4. Wahl Travel Shaver 7 Piezas — para viajar` },
+      { type: "product-card", productMlaId: "MLA61642810", label: "Kit para viajar", labelColor: "blue", ranking: 4, description: `Kit de 7 piezas de una marca de barbería reconocida. 80 minutos de autonomía, la más larga declarada de la guía. 4.7 estrellas.` },
+      { type: "p", content: `Wahl tiene trayectoria real en herramientas de barbería, y esta versión viene en un **kit de 7 piezas** pensado para el viajero: máquina, cabezal removible y accesorios en un estuche. Con 80 minutos de autonomía declarada, es la mejor de la guía en ese aspecto, a alrededor de $42.000.` },
+      { type: "p", content: `No es resistente al agua ni tiene cabezales lavables. Si viajás seguido y valorás la marca, resuelve; si no viajás mucho, las Gama de esta guía cortan parecido a menor precio.` },
+
+      { type: "h3", title: `5. Remington R31A — la única rotativa` },
+      { type: "product-card", productMlaId: "MLA19769919", label: "La única rotativa", labelColor: "purple", ranking: 5, description: `Cabezales flexibles TwinTrack, corta patillas incluido. La única de sistema rotativo confirmado de la guía. 4.4 estrellas.` },
+      { type: "p", content: `De los seis modelos de esta guía, es la única con **sistema rotativo** confirmado en su ficha técnica: los cabezales circulares TwinTrack se adaptan mejor a cuellos y mandíbulas irregulares que un cabezal de láminas plano, y suelen irritar menos la piel sensible. Trae corta patillas de fábrica, a alrededor de $65.000.` },
+      { type: "p", content: `Tiene el rating más bajo del grupo (4.4), y una reseña detallada explica por qué: a batería, la potencia baja un poco frente a lo que ofrecían versiones a cable de la misma marca. No es una falla, es una característica de funcionar a batería. Si preferís rotativa por sobre láminas, sigue siendo la elegida de este catálogo.` },
+
+      { type: "h3", title: `6. GA.MA Italy GSH987 Sport — la premium` },
+      { type: "product-card", productMlaId: "MLA21346790", label: "La premium wet&dry", labelColor: "amber", ranking: 6, description: `Wet & dry real, cabezales flotantes, 60 minutos de autonomía verificados en el sitio oficial de GA.MA Italy. La más completa de la guía.` },
+      { type: "p", content: `Es la máquina con más specs verificadas palabra por palabra contra el fabricante: **wet & dry** real (apta para la ducha), cabezales flotantes, sistema Double Track y **60 minutos de autonomía** con carga rápida, la mejor de la guía. A alrededor de $68.999, es la más cara del grupo.` },
+      { type: "p", content: `El salto de precio frente a la GSH700 (misma marca) se explica por la resistencia al agua real y los 15 minutos extra de batería. Si esas dos cosas no son decisivas para vos, la GSH700 da un resultado similar a casi la mitad de precio.` },
+
+      { type: "h2", title: `Tabla comparativa: por sistema, wet&dry y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Sistema`, `Wet & dry`, `Autonomía`, `Ideal para`], rows: [
+        [`[GA.MA G-Blade](https://productosvirales.com.ar/producto/MLA25586824)`, `{{precio:MLA25586824}}`, `Láminas`, `Sí`, `No publicada`, `La más vendida, rostro y cuerpo`],
+        [`[Kemei KM-1102](https://productosvirales.com.ar/producto/MLA44725486)`, `{{precio:MLA44725486}}`, `Láminas`, `No`, `No publicada`, `La más económica`],
+        [`[GA.MA GSH700 Tracker](https://productosvirales.com.ar/producto/MLA45401467)`, `{{precio:MLA45401467}}`, `Láminas (Double Track)`, `No`, `45 min`, `Rostro, con trimmer de patillas`],
+        [`[Wahl Travel Shaver](https://productosvirales.com.ar/producto/MLA61642810)`, `{{precio:MLA61642810}}`, `Láminas`, `No`, `80 min`, `Kit de viaje, marca de barbería`],
+        [`[Remington R31A](https://productosvirales.com.ar/producto/MLA19769919)`, `{{precio:MLA19769919}}`, `Rotativo`, `No`, `40 min`, `Piel sensible, cuello irregular`],
+        [`[GA.MA GSH987 Sport](https://productosvirales.com.ar/producto/MLA21346790)`, `{{precio:MLA21346790}}`, `Láminas (Double Track)`, `Sí`, `60 min`, `Premium, uso en la ducha`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu máquina de afeitar`, id: "como-elegir" },
+      { type: "h3", title: `1. Rotativa o láminas` },
+      { type: "p", content: `La **rotativa** (Remington de esta guía) sigue mejor los contornos de cuello y mandíbula y suele irritar menos la piel sensible. Las **láminas** (el resto de la guía) dan un corte más parejo y al ras en barba fina, pero conviene pasarlas más derechas sobre la piel. No hay una mejor en absoluto: depende de tu piel y tu tipo de barba.` },
+      { type: "h3", title: `2. ¿Necesitás wet&dry?` },
+      { type: "p", content: `Solo dos modelos de esta guía (la G-Blade y la GSH987 Sport) confirman resistencia al agua real para uso en la ducha con espuma o gel. Si siempre te afeitás en seco frente al espejo, no hace falta pagar ese extra.` },
+      { type: "h3", title: `3. Al ras o tipo recortadora (OneBlade)` },
+      { type: "p", content: `Existe un tercer formato, popularizado por Philips OneBlade, que recorta y perfila sin afeitar al cero como una de láminas tradicional: sirve para dejar "sombra" de barba prolija sin piel expuesta. Al momento de esta guía no encontramos un modelo de ese formato con stock activo y buen volumen de reseñas en el catálogo argentino de MercadoLibre; si lo tuyo es específicamente perfilar sin afeitar al ras, buscalo por separado y comparalo contra las opciones de esta guía antes de decidir.` },
+      { type: "h3", title: `4. Batería y carga` },
+      { type: "p", content: `La autonomía declarada va de 40 minutos (Remington) a 80 minutos (Wahl) entre los modelos que publican el dato. Para uso diario normal, con 40-45 minutos alcanza de sobra; más autonomía importa si viajás seguido o te olvidás de cargarla.` },
+      { type: "h3", title: `5. Piel sensible` },
+      { type: "p", content: `Si tenés piel sensible o se te irrita fácil, la rotativa suele ser más suave (menos presión directa y constante que una lámina). Entre las de láminas, las que tienen cabezales flotantes (GSH700 y GSH987 de esta guía) se adaptan mejor a los contornos y reducen la irritación frente a un cabezal rígido.` },
+
+      { type: "h2", title: `Cuánto cuesta una máquina de afeitar en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA44725486:k}} a {{precio:MLA25586824:k}}:** la franja económica. La [Kemei KM-1102](https://productosvirales.com.ar/producto/MLA44725486) (la más barata) y la [GA.MA G-Blade](https://productosvirales.com.ar/producto/MLA25586824) (la más vendida, wet&dry).`,
+        `**{{precio:MLA45401467:k}} a {{precio:MLA61642810:k}}:** el punto medio. La [GA.MA GSH700](https://productosvirales.com.ar/producto/MLA45401467) (rostro, con trimmer) y la [Wahl Travel Shaver](https://productosvirales.com.ar/producto/MLA61642810) (kit de viaje).`,
+        `**{{precio:MLA19769919:k}} o más:** gama alta. La [Remington R31A](https://productosvirales.com.ar/producto/MLA19769919) (rotativa) y la [GA.MA GSH987 Sport](https://productosvirales.com.ar/producto/MLA21346790) (premium, wet&dry verificada).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál máquina de afeitar comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **GA.MA G-Blade Wet & Dry**: la más vendida, versátil para rostro y cuerpo, resistente al agua. Si el presupuesto es lo primero, la **Kemei KM-1102** cumple lo básico al precio más bajo. Si tenés **piel sensible** o cuello irregular, la **Remington R31A** (rotativa) es la única opción de ese sistema en la guía. Si buscás algo **enfocado en la cara** con trimmer de patillas, la **GA.MA GSH700**. Y si querés lo más completo, verificado contra el fabricante, la **GA.MA GSH987 Sport** (wet&dry real, mejor autonomía). El error a evitar: pagar de más por "profesional" en el título sin que la ficha técnica o el fabricante lo respalden.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor máquina de afeitar en Argentina?`, answer: `Para la mayoría, la [GA.MA G-Blade Wet & Dry](https://productosvirales.com.ar/producto/MLA25586824): es la más vendida de la categoría (más de 1.100 opiniones), versátil para rostro y cuerpo y resistente al agua. Si buscás la más económica, la [Kemei KM-1102](https://productosvirales.com.ar/producto/MLA44725486); para piel sensible, la [Remington R31A](https://productosvirales.com.ar/producto/MLA19769919) (rotativa); y premium, la [GA.MA GSH987 Sport](https://productosvirales.com.ar/producto/MLA21346790).` },
+      { question: `¿Rotativa o de láminas, cuál conviene?`, answer: `La rotativa (como la [Remington R31A](https://productosvirales.com.ar/producto/MLA19769919) de esta guía) sigue mejor los contornos de cuello y mandíbula y suele irritar menos la piel sensible. Las de láminas (el resto de esta guía) dan un corte más parejo y al ras en barba fina. No hay una mejor en absoluto, depende de tu piel.` },
+      { question: `¿Qué significa que una afeitadora sea wet&dry?`, answer: `Que es resistente al agua y se puede usar con espuma o gel directamente en la ducha, no solo en seco. En esta guía lo confirman la [GA.MA G-Blade](https://productosvirales.com.ar/producto/MLA25586824) y la [GA.MA GSH987 Sport](https://productosvirales.com.ar/producto/MLA21346790); el resto de los modelos son solo para uso en seco.` },
+      { question: `¿Las afeitadoras Kemei baratas valen la pena?`, answer: `Para empezar sin gastar de más, sí: la [Kemei KM-1102](https://productosvirales.com.ar/producto/MLA44725486) afeita al ras y tiene buen puntaje. La contra real es que no tiene cabezales lavables ni accesorios, algo que sí traen las opciones un escalón más arriba de precio.` },
+      { question: `¿Qué es una afeitadora tipo OneBlade y hay alguna en esta guía?`, answer: `Es un formato que recorta y perfila la barba sin afeitar al cero como una de láminas tradicional, ideal para dejar sombra prolija. Al momento de esta guía no encontramos un modelo de ese formato con stock activo y buen respaldo de reseñas en el catálogo argentino, así que no aparece rankeado acá; buscalo por separado si es específicamente lo que necesitás.` },
+      { question: `¿Cuánto dura la batería de una máquina de afeitar?`, answer: `Entre los modelos de esta guía que publican el dato, va de 40 minutos ([Remington R31A](https://productosvirales.com.ar/producto/MLA19769919)) a 80 minutos ([Wahl Travel Shaver](https://productosvirales.com.ar/producto/MLA61642810)). Para uso diario normal, con 40-45 minutos alcanza de sobra.` },
+    ],
+    internalLinks: [
+      { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+    ],
+    internalLinksTitle: "Más de cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE cortadora-de-pelo — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cortadora-de-pelo",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    title: `Cortadora de pelo: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cortadora de Pelo: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Qué cortadora de pelo comprar en Argentina: con o sin cable, cantidad de peines, motor. Comparamos las más vendidas con precios reales de MercadoLibre.`,
+    ogTitle: `Cortadora de pelo: cuál comprar en Argentina`,
+    ogDescription: `De la más económica a la que usan los barberos. Comparadas por motor, cantidad de peines y precio real de MercadoLibre. La guía honesta de grooming.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_625568-MLA100040412869_122025-F.jpg`,
+    h1: `Cortadora de pelo: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-02",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una cortadora de pelo corta longitud con peines guía, no afeita al ras como una máquina de afeitar. Acá comparamos las más elegidas de Argentina por motor, cantidad de peines y si van con cable o a batería, con precios de MercadoLibre y las contras que las fichas de venta no cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA21820129", label: "La más vendida", labelColor: "green", tagline: "Remington HC5850: kit de 15 piezas, 2.338 opiniones, 4.7 estrellas" },
+      { productMlaId: "MLA24162945", label: "La más económica", labelColor: "blue", tagline: "Kemei KM-1951: $24.240, inalámbrica, 4.9 estrellas" },
+      { productMlaId: "MLA22272888", label: "La profesional", labelColor: "purple", tagline: "Wahl Magic Clip: motor rotativo, la preferida de los barberos, 4.8 estrellas" },
+      { productMlaId: "MLA19606324", label: "La inalámbrica", labelColor: "amber", tagline: "Gadnic CP140: se carga por USB, cabezales lavables, 37 g" },
+    ],
+    intro: [
+      `Una cortadora de pelo y una máquina de afeitar no son lo mismo, aunque en MercadoLibre a veces se mezclan en las búsquedas: la cortadora corta **longitud** con peines guía intercambiables (3 mm, 6 mm, 1 cm, y así), mientras que la afeitadora rasura **al ras de la piel**. Si buscás pelar al cero o afeitar la cara, la guía que te sirve es la de [máquina de afeitar](https://productosvirales.com.ar/guias/cuidado-personal/maquina-de-afeitar). Si buscás cortar largo, degradar o mantener un corte entre visitas a la peluquería, seguí acá.`,
+      `Comparamos las más elegidas de Argentina por reseñas reales (Remington, Wahl, Gadnic, Vanta, Kemei y Teknikpro) con precios de MercadoLibre y las contras honestas que aparecen en las opiniones de compradores. La decisión pasa por tres cosas: si va **con cable o a batería**, cuántos **peines guía** trae, y si es para uso **doméstico ocasional o profesional intensivo**.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_625568-MLA100040412869_122025-F.jpg", alt: `Remington HC5850, la cortadora de pelo más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cortadoras de pelo con más ventas y opiniones reales en MercadoLibre Argentina, rankeadas por cantidad de calificaciones, excluyendo máquinas de afeitar, recortadoras de barba a ras y repuestos mal categorizados como "cortadora". Verificamos specs de fabricante cuando existe sitio oficial (Remington y Wahl tienen sitio regional o local verificable); Gadnic también tiene sitio oficial en gadnic.com.ar. Vanta y Teknikpro no tienen fabricante rastreable online, Kemei tampoco; en esos tres casos las specs se sostienen con ficha técnica de MercadoLibre y reseñas reales, caso normal en varias marcas de este catálogo. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Cortadora, afeitadora o trimmer: no son lo mismo`, id: "tipos" },
+      { type: "p", content: `Tres formatos que se confunden seguido. La **cortadora de pelo** (esta guía) usa peines guía intercambiables para dejar una longitud pareja, desde 1 mm hasta varios centímetros: es la herramienta para cortar el pelo de la cabeza, degradar o mantener un corte entre visitas a la peluquería. La **máquina de afeitar** (o afeitadora eléctrica) rasura al ras de la piel, para cara o cuerpo. El **trimmer** o recortadora de barba está en el medio: recorta y perfila sin afeitar al cero, pero tampoco corta pelo largo de cabeza. Si tu necesidad es específicamente esa última, no la vas a encontrar rankeada acá.` },
+      { type: "p", content: `La regla rápida: querés cortar el pelo de la cabeza o degradar, priorizá esta guía. Querés afeitar cara o cuerpo al ras, andá a la guía de [máquina de afeitar](https://productosvirales.com.ar/guias/cuidado-personal/maquina-de-afeitar). Solo perfilar barba sin afeitar al cero, buscá un trimmer específico.` },
+
+      { type: "h2", title: `Las mejores cortadoras de pelo 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Remington HC5850 Indestructible — la más vendida` },
+      { type: "product-card", productMlaId: "MLA21820129", label: "La más vendida", labelColor: "green", ranking: 1, description: `Motor magnético, 8 peines guía, kit de 15 piezas con tijera, capa y estuche. 4.7 estrellas en más de 2.300 calificaciones, la base de opiniones más grande de la categoría.` },
+      { type: "p", content: `Es, con enorme diferencia, la cortadora de pelo más comprada de Argentina en esta categoría: acumula más de 2.300 opiniones. El motor magnético mueve las cuchillas de acero inoxidable a máxima potencia y el kit de 15 piezas incluye 8 peines guía (de 3 mm a 2.5 cm), tijera, capa de peluquería, cepillo de limpieza, aceite lubricante y estuche, a alrededor de $61.080.` },
+      { type: "p", content: `La única concesión real: funciona con cable de 3 metros, no es inalámbrica. Para cortar en casa no suele ser un problema (incluso ayuda, nunca se queda sin batería a mitad de un corte), pero si necesitás algo portátil para viajar, otras opciones de esta guía rinden mejor.` },
+      { type: "pull-quote", content: `"Me corté y afeité solo, hace años que no lo hacía. Muy estable, calienta menos que una máquina barata y el corte es potente, y parejo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Kemei KM-1951 — la más económica` },
+      { type: "product-card", productMlaId: "MLA24162945", label: "La más económica", labelColor: "blue", ranking: 2, description: `Inalámbrica, batería recargable, 5 peines guía, cabezales lavables. La más barata de la guía, con 4.9 estrellas sobre 21 opiniones.` },
+      { type: "p", content: `Si el presupuesto manda, la Kemei KM-1951 es la entrada de precio: alrededor de $24.240, inalámbrica, con 5 peines guía y cabezales lavables bajo el agua, algo poco común en esta franja de precio. Es la mejor calificada de toda la guía (4.9 estrellas), aunque con la base de opiniones más chica del grupo (21).` },
+      { type: "p", content: `Kemei no tiene sitio de fabricante rastreable en Argentina, así que estas specs se sostienen con la ficha técnica de MercadoLibre y reseñas reales de compradores. Para uso doméstico ocasional o de mantenimiento, cumple sin sorpresas.` },
+
+      { type: "h3", title: `3. Wahl Magic Clip — la profesional` },
+      { type: "product-card", productMlaId: "MLA22272888", label: "La profesional", labelColor: "purple", ranking: 3, description: `Motor rotativo, cuchillas de acero quirúrgico, 8 peines guía. 4.8 estrellas, el puntaje más alto de la guía.` },
+      { type: "p", content: `Wahl es una de las marcas más reconocidas del mundo en máquinas de barbería profesional, y la Magic Clip es su modelo insignia: motor rotativo, acero quirúrgico y 8 peines guía pensados para trabajar horas seguidas. Con 4.8 estrellas sobre 561 opiniones, es la mejor puntuada de toda la guía.` },
+      { type: "p", content: `También es la más cara del grupo, a alrededor de $126.099, y funciona con cable (no la versión "Cordless" de la misma línea). Para peluqueros y barberos que cortan pelo todos los días es la referencia; para uso ocasional en casa, la Remington HC5850 cumple igual a la mitad del precio.` },
+
+      { type: "h3", title: `4. Gadnic CP140 — la inalámbrica` },
+      { type: "product-card", productMlaId: "MLA19606324", label: "La inalámbrica más práctica", labelColor: "amber", ranking: 4, description: `Se carga por USB, cabezales lavables, 37 g. 4.7 estrellas sobre 475 opiniones, la mejor puntuada entre las inalámbricas.` },
+      { type: "p", content: `La Gadnic CP140 (línea Care) es una patillera inalámbrica liviana (37 g) que se carga con un cable USB común, sin cargador propio. Trae 3 peines intercambiables y sus cabezales son lavables bajo el agua, a alrededor de $36.632.` },
+      { type: "p", content: `Ojo con las expectativas: corta como máximo 3 mm de altura, según su ficha técnica. Está pensada para contorno, patillas y mantenimiento entre cortes, no para cortar el pelo largo de raíz. Para eso, la Remington o la Wahl de esta guía rinden mejor.` },
+
+      { type: "h3", title: `5. Vanta Patillera 1100 — con pantalla digital` },
+      { type: "product-card", productMlaId: "MLA19307536", label: "Con pantalla digital", labelColor: "blue", ranking: 5, description: `La única de la guía con pantalla que muestra el nivel de batería. Inalámbrica, 4 h de autonomía declaradas. 4.6 estrellas.` },
+      { type: "p", content: `Entre las seis opciones de esta guía, la Vanta 1100 es la única que trae pantalla digital con el nivel de batería a la vista, algo que evita quedarte sin carga a mitad de un corte. Es inalámbrica, con 4 horas de autonomía declaradas, a alrededor de $45.546.` },
+      { type: "p", content: `Como pasa con varias marcas de este catálogo, Vanta no tiene un sitio oficial de fabricante verificable en Argentina: esta ficha se sostiene con la ficha técnica de MercadoLibre y reseñas reales de compradores. Solo trae 1 peine guía según su ficha, así que conviene consultar antes de comprar si necesitás varias alturas.` },
+
+      { type: "h3", title: `6. Teknikpro Silver — la multigroomer` },
+      { type: "product-card", productMlaId: "MLA23131521", label: "La multigroomer", labelColor: "purple", ranking: 6, description: `Funciona con o sin cable, motor magnético/vibratorio, cuchilla especial para hacer dibujos en el corte. 4.4 estrellas sobre 19 opiniones.` },
+      { type: "p", content: `La Teknikpro Silver es la opción distinta de esta guía: funciona tanto con cable como a batería, y trae una cuchilla especial para hacer dibujos y diseños en el corte, algo que ninguna otra opción de esta comparativa ofrece. Ronda los $89.000.` },
+      { type: "p", content: `Como pasa con otras marcas de este catálogo, Teknikpro no tiene un sitio de fabricante rastreable en Argentina: estas specs se sostienen con la ficha técnica de MercadoLibre y reseñas reales de compradores. Para un corte estándar sin diseños, otras opciones de esta guía rinden igual o mejor a menor precio.` },
+
+      { type: "h2", title: `Tabla comparativa: por motor, peines y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Alimentación`, `Peines guía`, `Altura de corte`, `Ideal para`], rows: [
+        [`[Remington HC5850](https://productosvirales.com.ar/producto/MLA21820129)`, `{{precio:MLA21820129}}`, `Con cable`, `8`, `3 mm a 2.5 cm`, `La más vendida, kit completo`],
+        [`[Kemei KM-1951](https://productosvirales.com.ar/producto/MLA24162945)`, `{{precio:MLA24162945}}`, `Batería`, `5`, `No publicada`, `La más económica`],
+        [`[Wahl Magic Clip](https://productosvirales.com.ar/producto/MLA22272888)`, `{{precio:MLA22272888}}`, `Con cable`, `8`, `0.7 mm a 2 cm`, `Uso profesional intensivo`],
+        [`[Gadnic CP140](https://productosvirales.com.ar/producto/MLA19606324)`, `{{precio:MLA19606324}}`, `Batería (USB)`, `3`, `1 mm a 3 mm`, `Patillas y contorno, portátil`],
+        [`[Vanta Patillera 1100](https://productosvirales.com.ar/producto/MLA19307536)`, `{{precio:MLA19307536}}`, `Batería`, `1`, `No publicada`, `Con pantalla de batería`],
+        [`[Teknikpro Silver](https://productosvirales.com.ar/producto/MLA23131521)`, `{{precio:MLA23131521}}`, `Con o sin cable`, `5`, `No publicada`, `Multigroomer, cuchilla de dibujo`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cortadora de pelo`, id: "como-elegir" },
+      { type: "h3", title: `1. Con cable o a batería` },
+      { type: "p", content: `Con cable (Remington y Wahl de esta guía) nunca se queda sin carga a mitad de un corte, ideal para uso frecuente en casa. A batería (Gadnic, Vanta y Kemei) es más cómoda para patillas rápidas y viajar, pero con menos potencia y autonomía limitada. La Teknikpro es la única que funciona de las dos formas, con o sin cable.` },
+      { type: "h3", title: `2. Cantidad de peines guía` },
+      { type: "p", content: `Más peines significa más alturas de corte para elegir sin comprar accesorios aparte. En esta guía va de 1 (Vanta, pensada solo para patillas) a 8 (Remington y Wahl). Para un corte completo de cabeza, conviene al menos 4 u 8 peines.` },
+      { type: "h3", title: `3. Uso doméstico o profesional` },
+      { type: "p", content: `Para cortes ocasionales en casa, cualquiera de esta guía cumple. Para uso profesional intensivo (peluquería o barbería todos los días), la Wahl Magic Clip tiene el motor y la calificación pensados para eso; la Remington HC5850 también aguanta bien el uso frecuente según sus reseñas.` },
+      { type: "h3", title: `4. Patillera o cortadora completa` },
+      { type: "p", content: `Las inalámbricas chicas (Gadnic y Vanta de esta guía) cortan como máximo 3 mm: sirven para patillas, contorno y mantenimiento entre cortes, no para cortar el pelo largo de raíz. Para un corte completo, priorizá una con cable y varios peines guía.` },
+      { type: "h3", title: `5. Marca con fabricante verificable` },
+      { type: "p", content: `Remington, Wahl y Gadnic tienen sitio oficial donde se pueden chequear las specs de esta guía. Vanta, Kemei y Teknikpro no tienen fabricante rastreable en Argentina: sus specs se sostienen con ficha técnica de MercadoLibre y reseñas reales, un caso normal en varias marcas de este catálogo.` },
+
+      { type: "h2", title: `Cuánto cuesta una cortadora de pelo en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA24162945:k}} a {{precio:MLA19606324:k}}:** la franja económica. La [Kemei KM-1951](https://productosvirales.com.ar/producto/MLA24162945) (la más barata) y la [Gadnic CP140](https://productosvirales.com.ar/producto/MLA19606324) (inalámbrica, USB).`,
+        `**{{precio:MLA21820129:k}} a {{precio:MLA19307536:k}}:** el punto medio. La [Remington HC5850](https://productosvirales.com.ar/producto/MLA21820129) (la más vendida, kit completo) y la [Vanta Patillera 1100](https://productosvirales.com.ar/producto/MLA19307536) (pantalla digital).`,
+        `**{{precio:MLA23131521:k}} o más:** gama alta. La [Teknikpro Silver](https://productosvirales.com.ar/producto/MLA23131521) (multigroomer, cuchilla de dibujo) y la [Wahl Magic Clip](https://productosvirales.com.ar/producto/MLA22272888) (uso intensivo de barbería).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál cortadora de pelo comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Remington HC5850 Indestructible**: la más vendida por lejos, kit completo de 15 piezas y calificación sólida. Si el presupuesto es lo primero, la **Kemei KM-1951** cumple lo básico al precio más bajo y con la mejor calificación de la guía. Si cortás pelo de forma profesional o querés la herramienta que usan los barberos, la **Wahl Magic Clip** (mejor puntuada entre las de cable, motor rotativo). Para patillas y contorno portátil, la **Gadnic CP140** (inalámbrica, carga USB). El error a evitar: comprar una patillera chica pensando que reemplaza a una cortadora completa, cuando en esta guía las inalámbricas apenas cortan 3 mm.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la diferencia entre una cortadora de pelo y una máquina de afeitar?`, answer: `La cortadora de pelo corta longitud con peines guía intercambiables (desde 1 mm hasta varios centímetros), pensada para el pelo de la cabeza. La máquina de afeitar rasura al ras de la piel, para cara o cuerpo. Son productos distintos: si buscás afeitar al ras, mirá la guía de [máquina de afeitar](https://productosvirales.com.ar/guias/cuidado-personal/maquina-de-afeitar).` },
+      { question: `¿Cuál es la mejor cortadora de pelo en Argentina?`, answer: `Para la mayoría, la [Remington HC5850](https://productosvirales.com.ar/producto/MLA21820129): es la más vendida de la categoría (más de 2.300 opiniones), con kit completo de 15 piezas. Si buscás la más económica, la [Kemei KM-1951](https://productosvirales.com.ar/producto/MLA24162945); para uso profesional, la [Wahl Magic Clip](https://productosvirales.com.ar/producto/MLA22272888) (mejor puntuada entre las de cable, motor rotativo).` },
+      { question: `¿Conviene una cortadora con cable o a batería?`, answer: `Con cable (como la [Remington HC5850](https://productosvirales.com.ar/producto/MLA21820129) o la [Wahl Magic Clip](https://productosvirales.com.ar/producto/MLA22272888) de esta guía) nunca se queda sin carga, ideal para uso frecuente. A batería (como la [Gadnic CP140](https://productosvirales.com.ar/producto/MLA19606324) o la [Kemei KM-1951](https://productosvirales.com.ar/producto/MLA24162945)) es más práctica para patillas rápidas y viajar. La [Teknikpro Silver](https://productosvirales.com.ar/producto/MLA23131521) es la única de esta guía que funciona de las dos formas.` },
+      { question: `¿Cuántos peines guía necesito?`, answer: `Depende del uso: para un corte completo de cabeza, conviene al menos 4 u 8 peines guía, como trae la [Remington HC5850](https://productosvirales.com.ar/producto/MLA21820129) o la [Wahl Magic Clip](https://productosvirales.com.ar/producto/MLA22272888). Para solo patillas y contorno, con 1 o 3 peines alcanza, como la [Vanta](https://productosvirales.com.ar/producto/MLA19307536) o la [Gadnic CP140](https://productosvirales.com.ar/producto/MLA19606324).` },
+      { question: `¿Las cortadoras inalámbricas cortan el pelo largo?`, answer: `Las patilleras chicas de esta guía (Gadnic y Vanta) cortan como máximo 3 mm, pensadas para contorno y mantenimiento, no para pelo largo de raíz. Para un corte completo, conviene una cortadora con cable y varios peines guía, como la Remington o la Wahl de esta guía.` },
+      { question: `¿Sirve una cortadora de pelo doméstica para uso profesional de barbería?`, answer: `Depende del modelo. La [Wahl Magic Clip](https://productosvirales.com.ar/producto/MLA22272888) está pensada específicamente para eso y tiene la mejor calificación entre las de cable de esta guía. Para trabajo profesional intensivo, priorizá una con cable y motor pensado para uso continuo, como la Wahl o la Remington de esta guía.` },
+    ],
+    internalLinks: [
+      { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+    ],
+    internalLinksTitle: "Más de cuidado personal",
+  },
+
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {

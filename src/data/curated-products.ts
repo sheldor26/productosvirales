@@ -39933,6 +39933,2139 @@ A $981.818 con 4.8 estrellas y solo 75 opiniones, es una buena máquina que pide
     },
     relatedProducts: ['MLA48828162', 'MLA47077888'],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Silo cuidado-personal — pilar secador-de-pelo — fichas STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    id: 'MLA22138728',
+    title: 'Secador pelo daewoo 2100w frio calor con difusor dhd7007 negro',
+    canonicalName: 'Daewoo Beauty DHD-7007 2100W',
+    brand: 'Daewoo',
+    price: 35599,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_872804-MLA99453742720_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_872804-MLA99453742720_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_962695-MLA107686387864_032026-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA22138728',
+    affiliateUrl: 'https://meli.la/2QkGnV2',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 8633,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'El secador de pelo más vendido en Mercado Libre Argentina en su categoría: 2100W reales, frío/calor y difusor incluido para rulos. No es iónico (pese a lo que muchos esperan de este precio), pero cumple sin vueltas para uso diario.',
+    seoTitle: 'Daewoo DHD-7007 2100W: el secador de pelo más vendido',
+    metaDescription: 'Análisis del Daewoo DHD-7007 2100W: frío/calor, difusor incluido, 8.633 calificaciones. Para quién sirve y para quién se queda corto el difusor.',
+    pros: [
+      '2100W reales de potencia, buena velocidad de secado para uso diario',
+      'Difusor incluido para definir rulos, sin comprarlo aparte',
+      '3 velocidades y 3 temperaturas, con función de aire frío para fijar el peinado',
+      'El más elegido de la categoría: 8.633 calificaciones y 4.7 estrellas',
+      'Envío gratis y buen respaldo por volumen de ventas',
+    ],
+    cons: [
+      'No es iónico (la ficha técnica lo confirma): no reduce frizz por sí solo',
+      'El difusor es chico; con pelo largo o muy rizado hay que ir por partes y a temperatura media para no quemar los rulos',
+      'No se pliega, así que no es el más práctico para viajar',
+    ],
+    verdict: 'Para la mayoría, es la compra segura: potencia real, difusor incluido y la base de opiniones más grande de la categoría. Si tenés pelo largo y rulado buscando reducir frizz en serio, el difusor se queda chico y conviene mirar una opción iónica como el Yelmo o el Spica.',
+    articleBody: `## Para quién es este secador
+
+El Daewoo DHD-7007 es la opción por defecto para quien quiere un secador que ande bien sin pensar demasiado: 2100W, frío/calor, difusor incluido. Es, por lejos, el más comprado de la categoría en Argentina, con más de 8.600 calificaciones, un volumen que ningún otro modelo de esta guía se acerca a igualar.
+
+## Potencia real, no solo el número de la caja
+
+2100W es una potencia media-alta para uso doméstico, y las reseñas confirman que el secado es rápido: varios compradores lo comparan favorablemente contra secadores más caros. No es de motor profesional de peluquería, pero para pelo corto o medio no hay demora.
+
+## El difusor, con matices
+
+El difusor viene incluido (no hay que comprarlo aparte, algo que en otros modelos de este precio sí hace falta), y sirve para definir rulos sin encresparlos con el chorro directo. La contra que marcan las reseñas con pelo largo y abundante es que el difusor es chico: hay que secar por partes y a temperatura media para no quemar los rulos.
+
+## Lo que NO tiene
+
+Un dato de ficha técnica que conviene saber antes de comprar: no es iónico. La tecnología iónica ayuda a reducir el frizz sellando la cutícula del pelo más rápido; este modelo no la trae, así que si tu prioridad es el frizz por sobre todo, no es la opción y conviene mirar el Yelmo Tourmaline Ion o el Spica (que sí son iónicos) en esta misma guía.
+
+## Lo que dice la gente que lo compró
+
+El patrón en las reseñas es consistente: "potente", "seca rápido", "cumple". Varios lo compraron como regalo. La objeción más repetida es específicamente sobre el tamaño del difusor con pelo largo y rulado, no sobre la potencia o la durabilidad.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Daewoo Beauty / DHD-7007' },
+      { label: 'Potencia', value: '2100 W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Velocidades', value: '2' },
+      { label: 'Frío / calor', value: 'Sí (cool shot)' },
+      { label: 'Iónico', value: 'No' },
+      { label: 'Cerámico', value: 'No' },
+      { label: 'Uso profesional', value: 'Sí, según ficha del fabricante' },
+      { label: 'Accesorios', value: 'Difusor incluido' },
+      { label: 'Color', value: 'Negro' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2024-11-11', text: 'Buenísimo. Se lo regalé a mi novia y quedó re conforme. Muy potente, seca el pelo enseguida.', useful: 960 },
+      { rating: 5, country: 'Argentina', date: '2025-01-02', text: 'Es muy lindo, tiene 3 velocidades y 3 temperaturas, con difusor incluído para rulos. Lo único para objetar es que no se puede plegar, como para llevar de viaje.', useful: 444 },
+      { rating: 4, country: 'Argentina', date: '2024-05-20', text: 'Si tenes mucho pelo o largo y con rulos como en mi caso, este difusor no te va a servir, es muy chico y estás media hora o más tratando de secarte el pelo a temperatura media, para no quemarte el casco.', useful: 116 },
+      { rating: 5, country: 'Argentina', date: '2023-08-13', text: 'Excelente secador, con sus accesorios para mis rulos, y varios niveles de secado y de calor. Muy conforme.', useful: 77 },
+    ],
+    faq: [
+      { question: '¿El Daewoo DHD-7007 es iónico?', answer: 'No. La ficha técnica del fabricante confirma que este modelo no tiene tecnología iónica. Si buscás específicamente reducir frizz con tecnología iónica, mirá el Yelmo SC-3630 o el Spica SP-1900 de esta misma guía.' },
+      { question: '¿Trae difusor incluido?', answer: 'Sí, viene con difusor para definir rulos sin costo aparte. Es chico, así que con pelo largo y abundante conviene secarlo por partes a temperatura media.' },
+      { question: '¿Cuántas velocidades y temperaturas tiene?', answer: 'Tiene 2 velocidades y función de aire frío (cool shot) para fijar el peinado al terminar.' },
+      { question: '¿Por qué es el secador más vendido de la categoría?', answer: 'Combina potencia real (2100W), difusor incluido y un precio competitivo. Con más de 8.600 calificaciones y 4.7 estrellas, es el que más compradores validaron en Argentina.' },
+    ],
+    relatedProducts: ['MLA22934394', 'MLA21813707', 'MLA23558351'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Daewoo Beauty DHD-7007 2100W',
+      description: 'Secador de pelo Daewoo DHD-7007, 2100W, frío/calor, difusor incluido, 2 velocidades.',
+      brand: { '@type': 'Brand', name: 'Daewoo' },
+      model: 'DHD-7007',
+      sku: 'MLA22138728',
+      category: 'Secadores de pelo',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_872804-MLA99453742720_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA22138728',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '35599',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '8633',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA22934394',
+    title: 'Secador Pelo Cabello Spica Sp-1900 2 Velocidades Color Verde claro',
+    canonicalName: 'Spica SP-1900 1800W',
+    brand: 'Spica',
+    price: 16599,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_877115-MLA105900302349_012026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_877115-MLA105900302349_012026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_684115-MLA82034328675_012025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_869622-MLA82034328685_012025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA22934394',
+    affiliateUrl: 'https://meli.la/1Y7ro1W',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.3,
+    reviewCount: 2067,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'El secador más económico de la guía: 1800W, iónico, con difusor y boquilla incluidos. La relación precio-equipamiento es la mejor del catálogo, aunque el rating (4.3) es el más bajo de los seis y con pelo abundante tarda más.',
+    seoTitle: 'Spica SP-1900: el secador de pelo más barato y iónico',
+    metaDescription: 'Spica SP-1900 1800W iónico a $16.599: difusor y boquilla incluidos, más de 2.000 opiniones. Para quién alcanza y para quién se queda corto.',
+    pros: [
+      'El precio más bajo de la guía, con tecnología iónica incluida',
+      'Trae difusor y boquilla de serie, no hay que comprarlos aparte',
+      'Liviano (400 g según fabricante) y cómodo para uso diario',
+      'Más de 2.000 opiniones reales lo validan como compra segura de entrada',
+      'Nivel de ruido bajo según varias reseñas',
+    ],
+    cons: [
+      'El rating (4.3) es el más bajo de los seis secadores de esta guía',
+      'Con pelo abundante o muy largo, varias reseñas marcan que tarda más en secar',
+      'No es de uso profesional según su propia ficha técnica: pensado para uso doméstico ocasional, no diario intensivo',
+    ],
+    verdict: 'Si el presupuesto es lo primero que mirás, el Spica es la puerta de entrada: por menos de la mitad del segundo más barato de la guía, trae iónico, difusor y boquilla. La contra es real: con pelo abundante tarda más y el rating es el más bajo del grupo. Para pelo fino o medio, cumple de sobra.',
+    articleBody: `## El más accesible, con tecnología iónica
+
+El Spica SP-1900 es el secador más barato de esta guía y, aun así, viene con tecnología iónica (algo que ni el Daewoo #1 en ventas ni el Silfab traen). Para quien recién arranca o busca un segundo secador de respaldo, es difícil encontrar mejor relación precio-equipamiento en el mercado argentino.
+
+## Cómo rinde en la práctica
+
+Las reseñas describen un secador "grande y potente" pero sin ruido molesto, algo valorado por quienes lo usan mientras miran TV o hablan por teléfono. Trae difusor amplio para rizos y boquilla para pelo lacio, cubriendo los dos usos más comunes sin gastar de más.
+
+## Dónde se nota el precio
+
+El rating de 4.3 estrellas es el más bajo de los seis modelos de esta guía (el resto está en 4.5 o más), y la objeción que se repite en las reseñas es la velocidad de secado con pelo abundante o muy largo: no es de uso profesional según su propia ficha técnica, así que no está pensado para secar cabelleras grandes todos los días a máxima exigencia.
+
+## Para quién conviene
+
+Para pelo fino, medio o corto, y para quien no necesita secar todos los días a alta exigencia, el Spica cumple y sobra por el precio. Si tenés pelo abundante y lo vas a usar a diario, el salto al Daewoo o al Silfab (ambos bastante más potentes en la práctica) se nota.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Spica / SP-1900' },
+      { label: 'Potencia', value: '1800 W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Velocidades', value: '2' },
+      { label: 'Niveles de temperatura', value: '2' },
+      { label: 'Iónico', value: 'Sí' },
+      { label: 'Frío / calor', value: 'Sí (cool shot)' },
+      { label: 'Uso profesional', value: 'No, según ficha del fabricante' },
+      { label: 'Accesorios', value: 'Difusor + boquilla de conducción' },
+      { label: 'Largo de cable', value: '1.1 m' },
+      { label: 'Aro para colgar', value: 'Sí' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2023-06-29', text: 'Me dejó súper contenta! es grande y muy potente pero al mismo tiempo no hace taaaanto ruido molesto, puedes hablar o ver la tele mientras te arreglas.', useful: 36 },
+      { rating: 5, country: 'Argentina', date: '2024-04-22', text: 'Relación precio con el producto esta perfecto. Creo que para una persona con abundante pelo le costaría secarse un poco más. Yo tengo el pelo largo pero finito y está perfecto.', useful: 13 },
+      { rating: 4, country: 'Argentina', date: '2024-11-20', text: 'El secador es muuuuy barato, lo necesitaba y me saco de apuros. No me esperaba que me dure tanto, yo tengo pelo lacio y me seca bastante rápido.', useful: 4 },
+      { rating: 5, country: 'Argentina', date: '2023-08-22', text: 'No esperaba un producto tan bueno a ese precio. Me sorprendió para bien.', useful: 6 },
+    ],
+    faq: [
+      { question: '¿El Spica SP-1900 es iónico?', answer: 'Sí, según su ficha técnica. Es uno de los tres secadores iónicos de esta guía (junto al Yelmo y el Vanta), y el más barato de los tres.' },
+      { question: '¿Trae difusor?', answer: 'Sí, viene con difusor amplio para rulos y una boquilla para pelo lacio, ambos incluidos en la caja.' },
+      { question: '¿Sirve para pelo abundante o muy largo?', answer: 'Varias reseñas de compradores con pelo abundante marcan que tarda más en secar. No es un secador de uso profesional según su propia ficha técnica. Para pelo fino, medio o corto rinde bien.' },
+      { question: '¿Por qué tiene el rating más bajo de esta guía?', answer: 'Con 4.3 estrellas es el más bajo de los seis modelos comparados (el resto está en 4.5 o más). La objeción más repetida es la velocidad de secado con pelo abundante, no fallas de durabilidad.' },
+    ],
+    relatedProducts: ['MLA22138728', 'MLA23558351', 'MLA21813707'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Spica SP-1900 1800W',
+      description: 'Secador de pelo Spica SP-1900, 1800W, iónico, con difusor y boquilla incluidos, 2 velocidades.',
+      brand: { '@type': 'Brand', name: 'Spica' },
+      model: 'SP-1900',
+      sku: 'MLA22934394',
+      category: 'Secadores de pelo',
+      color: 'Verde claro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_877115-MLA105900302349_012026-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA22934394',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '16599',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.3',
+        reviewCount: '2067',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA23558351',
+    title: 'Secador Pelo Silfab Heat Expert By 520 S Seca Rapido 1800w',
+    canonicalName: 'Silfab Heat Expert By-520S 1800W',
+    brand: 'Silfab',
+    price: 31000,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_954527-MLA99562822928_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_954527-MLA99562822928_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_819160-MLU74852630877_032024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_625519-MLA87102942892_072025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA23558351',
+    affiliateUrl: 'https://meli.la/1n3Ks3T',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 433,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'Un profesional liviano (483 g) de 1800W con filtro removible y función turbo. No es iónico ni cerámico, pero las reseñas coinciden en que seca rápido y sin cansar el brazo en sesiones largas.',
+    seoTitle: 'Silfab By-520S 1800W: el más liviano para secar rápido',
+    metaDescription: 'Silfab Heat Expert By-520S: 1800W, 483 g, filtro removible, función turbo. 433 opiniones y 4.7 estrellas. Análisis honesto de specs y reseñas reales.',
+    pros: [
+      'Muy liviano (483 g), no cansa el brazo en sesiones largas',
+      'Función turbo para secar más rápido cuando hace falta',
+      'Filtro trasero removible, más fácil de limpiar la pelusa',
+      '3 niveles de temperatura, más que el estándar de 2 de esta franja de precio',
+      '4.7 estrellas en 433 opiniones, buen respaldo para su antigüedad en el catálogo',
+    ],
+    cons: [
+      'No es iónico ni cerámico según su ficha técnica: si buscás esas tecnologías, mirá el Yelmo o el Vanta',
+      'Solo 2 velocidades (el resto de la potencia se ajusta por temperatura)',
+      'Cable relativamente corto según la ficha (16.5 cm de longitud declarada, revisar en la publicación antes de comprar)',
+    ],
+    verdict: 'Si el peso te importa (uso diario, brazo cansado) y no necesitás iónico ni cerámico, el Silfab es el punto justo entre precio y rendimiento: liviano, rápido y con más niveles de temperatura que la competencia directa. Para frizz, andá al Yelmo.',
+    articleBody: `## El liviano de la guía
+
+Con 483 gramos, el Silfab es notablemente más liviano que la mayoría de los secadores de esta comparativa. Para quien lo usa todos los días, el peso en la mano después de varios minutos de secado es una diferencia real, y varias reseñas lo destacan explícitamente.
+
+## Rinde rápido, sin vueltas
+
+Las 1800W y la función turbo hacen que el secado sea rápido según coinciden las reseñas: "me seco el pelo en 2 minutos" es una de las opiniones más útiles marcadas por otros compradores. El filtro trasero removible es un plus poco común en esta franja de precio: facilita sacar la pelusa acumulada sin desarmar el equipo.
+
+## Lo que no trae
+
+A diferencia del Spica (más barato) o el Yelmo y el Vanta (más caros), el Silfab no tiene tecnología iónica ni cerámica según su propia ficha técnica. Si tu prioridad es reducir el frizz, no es la opción de esta guía; si tu prioridad es velocidad y peso, sí lo es.
+
+## Cómo compite en precio
+
+Con 19 ofertas activas de distintos vendedores es, junto al Yelmo, uno de los modelos con más competencia de precio del catálogo, lo que en la práctica ayuda a encontrarlo más barato que el precio de lista en algún momento del año.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Silfab / By-520 S' },
+      { label: 'Potencia', value: '1800 W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Velocidades', value: '2' },
+      { label: 'Niveles de temperatura', value: '3' },
+      { label: 'Iónico', value: 'No' },
+      { label: 'Cerámico', value: 'No' },
+      { label: 'Función turbo', value: 'Sí' },
+      { label: 'Filtro removible', value: 'Sí' },
+      { label: 'Peso', value: '483 g' },
+      { label: 'Uso profesional', value: 'Sí, según ficha del fabricante' },
+      { label: 'Aro para colgar', value: 'Sí' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2024-05-03', text: 'Excelente producto. Me seco el pelo en 2 minutos, y ademas de eso tiene una funcion para tirar aire frio, excelente sin dudas.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2025-05-28', text: 'Es liviano, tiene varias velocidades y temperatura y funciona perfecto todo, es difícil conseguir eso en productos a este precio. Materiales de buena calidad.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2025-06-12', text: 'Fue el secador mejor calificado que encontré en mercado libre que no saliera una barbaridad y la verdad estoy muy conforme. Seca rápido, tiene tres velocidades y tres tipos de temperatura.', useful: 0 },
+      { rating: 4, country: 'Argentina', date: '2023-10-04', text: 'Es una buena marca, mi hermana tiene uno mas grande y seca el pelo rapido y lo deja lindo.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿El Silfab By-520S es iónico?', answer: 'No, según su ficha técnica. Es liviano y rápido, pero si buscás tecnología iónica para frizz, el Yelmo SC-3630 o el Spica SP-1900 de esta guía sí la tienen.' },
+      { question: '¿Cuánto pesa el Silfab?', answer: '483 gramos según el fabricante, uno de los más livianos de esta comparativa. Se nota en sesiones largas de secado.' },
+      { question: '¿Tiene filtro removible?', answer: 'Sí. El filtro trasero se puede sacar para limpiar la pelusa acumulada, algo que no todos los modelos de este precio incluyen.' },
+      { question: '¿Qué hace la función turbo?', answer: 'Suma un golpe extra de potencia para secar más rápido cuando hace falta, además de las 3 temperaturas y 2 velocidades estándar del equipo.' },
+    ],
+    relatedProducts: ['MLA22138728', 'MLA21813707', 'MLA7477377'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Silfab Heat Expert By-520S 1800W',
+      description: 'Secador de pelo Silfab By-520S, 1800W, liviano (483g), filtro removible, función turbo.',
+      brand: { '@type': 'Brand', name: 'Silfab' },
+      model: 'By-520 S',
+      sku: 'MLA23558351',
+      category: 'Secadores de pelo',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_954527-MLA99562822928_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA23558351',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '31000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '433',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA21813707',
+    title: 'Secador Pelo Profesional 2200w Tourmaline Ion Yelmo Sc-3630 Color Celeste',
+    canonicalName: 'Yelmo SC-3630 2200W Tourmaline Ion',
+    brand: 'Yelmo',
+    price: 49999,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_870415-MLA113773032153_062026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_870415-MLA113773032153_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_897401-MLA112594292054_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_692071-MLA99502170230_112025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA21813707',
+    affiliateUrl: 'https://meli.la/2TnTLcf',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 330,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'Motor AC profesional de 2200W verificado en el sitio del fabricante: tourmaline ion, temperatura constante de 60°C y 4.8 estrellas. La opción más redonda entre profesional, iónico y precio accesible de la guía.',
+    seoTitle: 'Yelmo SC-3630: profesional, iónico y motor AC a $49.999',
+    metaDescription: 'Yelmo SC-3630 2200W: motor AC profesional, tecnología Tourmaline Ion, 4.8 estrellas en 330 opiniones. Specs verificadas en el sitio oficial de Yelmo.',
+    pros: [
+      'Motor AC profesional de 2200W, verificado en el sitio oficial de Yelmo (marca argentina)',
+      'Tecnología Tourmaline Ion para reducir frizz y sumar brillo',
+      'Temperatura constante de 60°C, no fluctúa como los de resistencia simple',
+      '4.8 estrellas en 330 opiniones, el rating más alto junto al Vanta',
+      '2 boquillas concentradoras incluidas y filtro trasero removible',
+    ],
+    cons: [
+      'A potencia mínima, varias reseñas marcan que "despeina" bastante: el caudal de aire es fuerte incluso en el nivel más bajo',
+      'Con 1.2 kg es el más pesado de esta guía después del premium Gama',
+      'No incluye difusor para rulos (solo boquillas concentradoras)',
+    ],
+    verdict: 'Es el que mejor equilibra las tres cosas que más importan: motor profesional real (verificado en la web de Yelmo), tecnología iónica contra el frizz y un precio que no llega a la mitad del premium de esta guía. Si no te importa que sea algo pesado, es la compra más redonda.',
+    articleBody: `## Motor AC profesional, verificado
+
+A diferencia de varios modelos de esta guía que no informan tipo de motor, el sitio oficial de Yelmo confirma que el SC-3630 tiene motor AC profesional de 2200W, con temperatura constante de 60°C. Un motor AC profesional está pensado para uso intensivo sin perder potencia con el tiempo, la misma categoría de motor que usan los secadores de peluquería.
+
+## Tourmaline Ion: qué hace en la práctica
+
+La tecnología Tourmaline Ion (confirmada por el fabricante) libera iones negativos que ayudan a sellar la cutícula del pelo más rápido, reduciendo el frizz y sumando brillo. No es magia: en pelo muy lacio y fino el efecto se nota menos que en pelo grueso o rizado, pero es una tecnología real, no solo un nombre de marketing.
+
+## Cómo lo describen los compradores
+
+Las reseñas son consistentemente positivas en potencia ("la potencia es buena, el calor también, robusto de buena calidad") y en relación precio-calidad para un equipo "de uso profesional". La objeción más específica: el caudal de aire es fuerte incluso al mínimo, así que si buscás algo suave para peinados delicados, tenelo en cuenta.
+
+## Frente al resto de la guía
+
+Comparado con el [Daewoo](/producto/MLA22138728) (el más vendido pero sin iónico) y el [Gama Brilliant Blue Titanium](/producto/MLA24435487) (premium con motor DC), el Yelmo ocupa el punto medio: motor profesional real, iónico, a la mitad del precio del premium.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Yelmo / SC-3630' },
+      { label: 'Potencia', value: '2200 W' },
+      { label: 'Tipo de motor', value: 'AC profesional (verificado en yelmo.com.ar)' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Temperatura', value: 'Constante, 60°C' },
+      { label: 'Velocidades', value: '2' },
+      { label: 'Niveles de temperatura', value: '3' },
+      { label: 'Iónico', value: 'Sí (Tourmaline Ion)' },
+      { label: 'Cerámico', value: 'Sí' },
+      { label: 'Accesorios', value: '2 boquillas concentradoras' },
+      { label: 'Filtro removible', value: 'Sí (trasero)' },
+      { label: 'Peso', value: '1.2 kg' },
+      { label: 'Cable', value: 'Con gancho para colgar' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2025-12-04', text: 'Excelente, la potencia es buena, el calor también, robusto de buena calidad en el plástico y el cable. El mínimo es medio alto, a las mujeres les molesta un poco porque despeina mucho.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-02-25', text: 'Muy buen equipo! de uso profesional, muy buena relación precio calidad.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-05-29', text: 'Muy buena potencia, es súper cómodo y viene con accesorios.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2025-06-30', text: 'Excelente, muy bueno el producto.', useful: 1 },
+    ],
+    faq: [
+      { question: '¿El Yelmo SC-3630 tiene motor AC o DC?', answer: 'Motor AC profesional, confirmado en el sitio oficial de Yelmo (yelmo.com.ar). Es el tipo de motor que usan tradicionalmente los secadores de peluquería para uso intensivo.' },
+      { question: '¿Qué hace la tecnología Tourmaline Ion?', answer: 'Libera iones negativos que ayudan a sellar la cutícula del pelo más rápido, reduciendo el frizz y sumando brillo. El efecto se nota más en pelo grueso o rizado que en pelo lacio y fino.' },
+      { question: '¿Es muy pesado?', answer: 'Pesa 1.2 kg, más que el Daewoo, Spica, Silfab o Vanta de esta guía, aunque menos exigente que otros secadores profesionales de peluquería. Si el peso es un factor decisivo, mirá el Silfab (483g) o el Vanta (400g).' },
+      { question: '¿Trae difusor para rulos?', answer: 'No, incluye 2 boquillas concentradoras pero no difusor. Si necesitás difusor, el Daewoo o el Spica de esta guía sí lo traen.' },
+      { question: '¿Por qué "despeina" según algunas reseñas?', answer: 'El caudal de aire es fuerte incluso en la velocidad mínima, algo que varios compradores marcan como contra si buscás un secado suave para peinados delicados.' },
+    ],
+    relatedProducts: ['MLA22138728', 'MLA24435487', 'MLA7477377'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Yelmo SC-3630 2200W Tourmaline Ion',
+      description: 'Secador de pelo Yelmo SC-3630, motor AC profesional de 2200W, tecnología Tourmaline Ion, temperatura constante de 60°C.',
+      brand: { '@type': 'Brand', name: 'Yelmo' },
+      model: 'SC-3630',
+      sku: 'MLA21813707',
+      mpn: '02.08.24.000006',
+      category: 'Secadores de pelo',
+      color: 'Celeste',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_870415-MLA113773032153_062026-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA21813707',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '49999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '330',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA7477377',
+    title: 'Vanta 3800 Mini Compact Secador Pelo Profesional 1800w Rojo Color Negro',
+    canonicalName: 'Vanta 3800 Mini Compact 1800W',
+    brand: 'Vanta',
+    price: 71000,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_866995-MLA99951243973_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_866995-MLA99951243973_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_937917-MLA99951899317_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_723007-MLA99467986096_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_714185-MLA99951899325_112025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA7477377',
+    affiliateUrl: 'https://meli.la/1ywK42U',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 948,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'Motor AC (según su propia ficha técnica), iónico y cerámico en formato mini compacto de solo 400g. El favorito de peluqueras y estilistas que buscan potencia sin cargar peso, con 4.8 estrellas en casi 950 opiniones.',
+    seoTitle: 'Vanta 3800 Mini Compact: potente, iónico y de 400 gramos',
+    metaDescription: 'Vanta 3800 Mini Compact 1800W: motor AC, iónico, cerámico, solo 400g. 4.8 estrellas en 948 opiniones. La opción compacta y potente de la guía.',
+    pros: [
+      'Solo 400 gramos: el más liviano de toda la guía, ideal para uso profesional prolongado',
+      'Motor AC según ficha técnica, iónico y cerámico a la vez (combinación poco común en este rango)',
+      '4.8 estrellas en 948 opiniones, elegido por peluqueras y estilistas según las reseñas',
+      'Cable de 2.5 m, el más largo de la guía',
+      '13 ofertas activas de distintos vendedores, buena competencia de precio',
+    ],
+    cons: [
+      'En la función máxima, el aire sale muy caliente en relación al caudal, según una reseña detallada',
+      'A $71.000 es el segundo más caro de la guía, sin llegar a las prestaciones del premium Gama',
+      'No incluye difusor para rulos (solo 2 boquillas de conducción)',
+    ],
+    verdict: 'Si valorás el peso por sobre todo (uso prolongado, brazo cansado, uso semi-profesional) y no querés resignar potencia ni iónico, el Vanta es la mejor combinación de la guía. Cuesta más que el Yelmo sin ser tan completo en accesorios, así que el peso tiene que ser tu prioridad real.',
+    articleBody: `## El más liviano, pensado para uso intensivo
+
+Con apenas 400 gramos, el Vanta es notablemente más liviano que el resto de la guía, incluido el Silfab (483g). Varias reseñas mencionan explícitamente que lo usan peluqueras y estilistas, un contexto donde sostener el secador en alto durante horas hace que cada gramo cuente.
+
+## Motor AC, iónico y cerámico juntos
+
+Según su ficha técnica es de motor AC, con recubrimiento cerámico y tecnología iónica al mismo tiempo, una combinación que no se repite en ningún otro modelo de esta guía. En la práctica, varios compradores lo comparan favorablemente contra marcas premium reconocidas, incluso después de haber probado otras opciones "muy buenas" que no rindieron igual.
+
+## La contra que marcan las reseñas
+
+Una reseña detallada (con 13 "útiles" de otros compradores) señala que en la función máxima el aire sale "demasiado caliente" en relación a la fuerza del caudal, comparado con otros secadores. No es una falla, pero conviene saberlo si tenés cuero cabelludo sensible: probablemente no necesites usar la potencia máxima seguido.
+
+## Precio y competencia
+
+A $71.000 es el segundo más caro de la seis, por debajo del premium Gama Brilliant Blue Titanium mostrado más abajo. Con 13 ofertas activas de distintos vendedores, es de los que más margen de comparación de precio tiene dentro del catálogo.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Vanta / 3800 Mini Compact' },
+      { label: 'Potencia', value: '1800 W' },
+      { label: 'Tipo de motor', value: 'AC (según ficha técnica)' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Velocidades', value: '2' },
+      { label: 'Niveles de temperatura', value: '3' },
+      { label: 'Iónico', value: 'Sí' },
+      { label: 'Cerámico', value: 'Sí' },
+      { label: 'Uso profesional', value: 'Sí, según ficha del fabricante' },
+      { label: 'Accesorios', value: '2 boquillas de conducción' },
+      { label: 'Peso', value: '400 g' },
+      { label: 'Cable', value: '2.5 m, con aro para colgar' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2022-05-22', text: 'Excelente!! despues de comprar varias marcas de secador de pelo, y de tirar la plata xq no tenian buena potencia (aunque siempre compre marcas muy buenas) x fin hoy puedo decir que este secador vanta 3800 mini compac es lo mejor de lo mejor.', useful: 10 },
+      { rating: 4, country: 'Argentina', date: '2022-10-19', text: 'Es bueno, pero en la función máxima tira demasiado aire caliente (muy caliente) y poco "aire" en comparación con otros secadores, te seca el pelo pero claramente es más por el aire tan caliente que por la potencia del aire que sale.', useful: 13 },
+      { rating: 5, country: 'Argentina', date: '2025-12-05', text: 'Soy peinadora y es el secador que necesitaba, liviano pero potente, ocupa poco espacio y encima es excelente.', useful: 3 },
+      { rating: 5, country: 'Argentina', date: '2024-08-10', text: 'Muy liviano y potente, excelente producto.', useful: 4 },
+    ],
+    faq: [
+      { question: '¿Cuánto pesa el Vanta 3800 Mini Compact?', answer: 'Solo 400 gramos según el fabricante, el más liviano de esta guía de seis secadores. Por eso es una opción popular entre peluqueras y estilistas que lo sostienen en alto durante horas.' },
+      { question: '¿Es iónico y cerámico a la vez?', answer: 'Sí, según su ficha técnica combina ambas tecnologías, algo poco común en esta franja de precio dentro del catálogo.' },
+      { question: '¿Qué tan caliente sale el aire en la función máxima?', answer: 'Una reseña detallada (con varios "útiles" de otros compradores) marca que en la función máxima el aire sale muy caliente en relación al caudal. Si tenés cuero cabelludo sensible, probablemente no necesites usar siempre la potencia máxima.' },
+      { question: '¿Trae difusor?', answer: 'No, incluye 2 boquillas de conducción pero no difusor para rulos. Si necesitás difusor, mirá el Daewoo o el Spica de esta guía.' },
+    ],
+    relatedProducts: ['MLA21813707', 'MLA24435487', 'MLA22138728'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Vanta 3800 Mini Compact 1800W',
+      description: 'Secador de pelo Vanta 3800 Mini Compact, motor AC, iónico y cerámico, 400 gramos.',
+      brand: { '@type': 'Brand', name: 'Vanta' },
+      model: '3800 Mini Compact',
+      sku: 'MLA7477377',
+      category: 'Secadores de pelo',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_866995-MLA99951243973_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA7477377',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '71000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '948',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA24435487',
+    title: 'Secador Pelo Gama Brilliant Blue Titanium Profesional 2200w Color Azul',
+    canonicalName: 'GA.MA Italy Brilliant Blue Titanio 2200W (motor DC)',
+    brand: 'GA.MA Italy',
+    price: 99560,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_966813-MLA97509703940_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_966813-MLA97509703940_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_714092-MLA99946307665_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_976541-MLU78940126811_092024-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA24435487',
+    affiliateUrl: 'https://meli.la/1hERTNt',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 100,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'El premium de la guía: motor DC (verificado en el sitio oficial de GA.MA Italy), recubrimiento de titanio con tecnología iónica y nano silver. Es lo que en Argentina se consigue de la tecnología que las revistas internacionales asocian a los secadores de alta gama, a una fracción del precio de un Dyson.',
+    seoTitle: 'GA.MA Italy Brilliant Blue Titanium: el premium con motor DC',
+    metaDescription: 'GA.MA Italy Brilliant Blue Titanium 2200W, motor DC verificado en la web oficial, titanio ion y nano silver. El premium real que se consigue en Argentina.',
+    pros: [
+      'Motor DC verificado en el sitio oficial de GA.MA Italy: la tecnología de los secadores de gama alta',
+      'Recubrimiento de titanio con tecnología iónica (antifrizz, peinados más duraderos)',
+      'Tecnología nano silver con propiedad antibacteriana, según el fabricante',
+      'Muy liviano según las reseñas ("super liviano, buen diseño")',
+      'Marca italiana con desarrollo propio en secadores profesionales, no un genérico reetiquetado',
+    ],
+    cons: [
+      'Es el más caro de la guía, casi el triple que el Yelmo (motor AC) sin ofrecer el doble de resultado',
+      'Solo 100 calificaciones: la base de opiniones más chica de los seis modelos comparados',
+      'Una reseña marca que el cable es corto y la potencia "media" pese al precio; otra menciona una falla en un botón',
+      'No trae difusor, solo una boquilla',
+    ],
+    verdict: 'Es la cuña real de esta guía: mientras las revistas internacionales hablan de Dyson o GHD a más de 500 dólares (que en Argentina cuestan una fortuna o directamente no se consiguen), el GA.MA Italy Brilliant Blue Titanium es motor DC real, verificado en la web del fabricante, a un precio que sigue siendo alto pero que existe y se compra en Mercado Libre Argentina hoy. Es para quien quiere motor DC de verdad y no le importa pagar el salto; para el resto, el Yelmo cubre el 80% del resultado a la mitad del precio.',
+    articleBody: `## Por qué este es el "premium real" de la guía
+
+Cuando se habla de secadores de gama alta, la referencia suele ser el motor DC: motores más pequeños, silenciosos y eficientes que los AC tradicionales, la misma tecnología detrás de los secadores que las revistas de belleza internacionales recomiendan por miles de pesos que en Argentina casi no se consiguen o salen una fortuna. El sitio oficial de GA.MA Italy confirma que el Brilliant Blue Titanio es, efectivamente, motor DC, 2200W, con cable de 1.80 metros y recubrimiento de titanio ion. No es un genérico que dice "profesional" en el título: es una marca italiana con línea propia de motor DC, verificable en su propia web.
+
+## Titanio, ion y nano silver
+
+El recubrimiento de titanio con tecnología ion apunta directo al frizz y a peinados más duraderos, según describe el propio fabricante. Suma tecnología nano silver, que el fabricante describe con propiedades antibacterianas. Son claims de marca: no hay forma de verificarlos de forma independiente, pero sí son consistentes con lo que promocionan otras líneas de gama alta de la misma tecnología.
+
+## Lo que dicen los que lo compraron
+
+Con solo 100 calificaciones, es la base de opiniones más chica de los seis modelos de esta guía, algo esperable en un producto premium con menos volumen de venta que las opciones económicas. Las reseñas disponibles son mayormente positivas ("super liviano, buen diseño, seca perfecto"), aunque hay alguna voz distinta: una reseña marca cable corto y potencia "media" pese al precio, y otra menciona una falla en un botón poco después de la compra. Con una base de 100 opiniones, cada reseña pesa proporcionalmente más que en un producto con miles.
+
+## ¿Vale la diferencia de precio?
+
+Frente al [Yelmo SC-3630](/producto/MLA21813707) (motor AC, iónico, a $49.999), el Gama cuesta prácticamente el doble. Si tu criterio de compra es "quiero motor DC real, verificado, aunque cueste el doble", esta es la única opción de la guía que lo cumple. Si tu criterio es "quiero buen resultado sin pagar de más", el Yelmo sigue siendo la recomendación más razonable.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'GA.MA Italy / Brilliant Blue Titanio' },
+      { label: 'Potencia', value: '2200 W (verificado en gamaitalyonline.com.ar)' },
+      { label: 'Tipo de motor', value: 'DC (verificado en el sitio oficial)' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Cable', value: '1.80 m (según fabricante)' },
+      { label: 'Velocidades', value: '3' },
+      { label: 'Niveles de temperatura', value: '3, con cool shot' },
+      { label: 'Iónico', value: 'Sí (Titanio Ion)' },
+      { label: 'Recubrimiento', value: 'Titanio con tecnología nano silver' },
+      { label: 'Filtro removible', value: 'Sí (según fabricante)' },
+      { label: 'Accesorios', value: '1 boquilla' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2023-10-11', text: 'Super liviano. Buen diseño!! seca perfecto!!!.', useful: 2 },
+      { rating: 4, country: 'Argentina', date: '2026-02-14', text: 'El diseño es muy lindo, pero el cable es un poco corto y la potencia es media.', useful: 1 },
+      { rating: 4, country: 'Argentina', date: '2025-12-12', text: 'Tuve algunos inconvenientes y me fallo uno de los botones al poco tiempo de la compra. Pero gama es buena marca.', useful: 1 },
+      { rating: 4, country: 'Argentina', date: '2025-06-27', text: 'Es un producto que por el precio que tiene es muy bueno y tiene buena potencia, antes tenía uno de marca remington y no me duró nada. Este producto es ligero, y muy de alta calidad.', useful: 1 },
+    ],
+    faq: [
+      { question: '¿El GA.MA Italy Brilliant Blue Titanium tiene motor DC o AC?', answer: 'Motor DC, confirmado en el sitio oficial de GA.MA Italy (gamaitalyonline.com.ar), que lo lista bajo su categoría "Secadores Motor DC". Es la tecnología asociada a los secadores de gama alta.' },
+      { question: '¿Por qué es tan caro comparado con el resto de la guía?', answer: 'El motor DC, el recubrimiento de titanio ion y la marca italiana con desarrollo propio explican el salto de precio. Es, de los seis modelos de esta guía, el único con motor DC verificado.' },
+      { question: '¿Vale la pena frente al Yelmo (motor AC)?', answer: 'Si tu prioridad es tener motor DC real y no te importa pagar el doble, sí. Si buscás el mejor resultado por el precio, el Yelmo SC-3630 cubre gran parte del resultado a la mitad del costo.' },
+      { question: '¿Trae difusor?', answer: 'No, incluye una boquilla concentradora. Si necesitás difusor para rulos, mirá el Daewoo o el Spica de esta guía.' },
+      { question: '¿Qué es la tecnología nano silver?', answer: 'Según el fabricante, es un recubrimiento con propiedades antibacterianas. Es un claim de marca que no puede verificarse de forma independiente, pero es consistente con lo que promocionan otras líneas de secadores de gama alta con la misma tecnología.' },
+    ],
+    relatedProducts: ['MLA21813707', 'MLA7477377', 'MLA22138728'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'GA.MA Italy Brilliant Blue Titanio 2200W',
+      description: 'Secador de pelo GA.MA Italy Brilliant Blue Titanio, motor DC, 2200W, recubrimiento de titanio ion, tecnología nano silver.',
+      brand: { '@type': 'Brand', name: 'GA.MA Italy' },
+      model: 'Brilliant Blue Titanio',
+      sku: 'MLA24435487',
+      category: 'Secadores de pelo',
+      color: 'Azul',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_966813-MLA97509703940_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA24435487',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '99560',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '100',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Silo cuidado-personal — satélite maquina-de-afeitar — fichas STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    id: 'MLA44725486',
+    title: 'Afeitadora Kemei KM-1102',
+    canonicalName: 'Kemei KM-1102',
+    brand: 'Kemei',
+    price: 26990,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_964181-MCO74088144565_012024-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_964181-MCO74088144565_012024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_638089-MLA90572388619_082025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_840224-MLA91448876511_092025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA44725486',
+    affiliateUrl: 'https://meli.la/1nyvU2o',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 38,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La más económica de la guía: láminas de acero inoxidable, 2 cabezales, sin cabezales lavables ni accesorios. Para empezar sin gastar de más, sabiendo que es la más limitada del grupo.',
+    seoTitle: 'Kemei KM-1102: la máquina de afeitar más barata de la guía',
+    metaDescription: 'Kemei KM-1102 a $26.990: láminas de acero, corte al ras, sin cabezales lavables. 38 opiniones y 4.7 estrellas. Para quién alcanza y para quién no.',
+    pros: [
+      'El precio más bajo de la guía, por lejos',
+      'Corte al ras confirmado por las reseñas ("te deja bien pelado")',
+      'Batería que dura, según varios compradores',
+      '4.7 estrellas, buen puntaje pese al precio',
+    ],
+    cons: [
+      'Cabezales NO lavables (hay que limpiarla con cepillo, no bajo el agua)',
+      'No incluye accesorios ni peines guía según su ficha técnica',
+      'Solo 3W de potencia declarada, la más baja de la guía',
+      'La base de opiniones (38) es la más chica de los seis modelos comparados',
+    ],
+    verdict: 'Si el presupuesto es la prioridad número uno y solo necesitás algo que afeite al ras sin vueltas, la Kemei cumple. La contra real: no es lavable ni trae accesorios, así que si buscás algo más completo para cuidar en el tiempo, el salto a la Gama G-blade (apenas $3.000 más) trae mucho más equipamiento.',
+    articleBody: `## La entrada de precio de la guía
+
+La Kemei KM-1102 es, por lejos, la más barata de esta comparativa. Late 2 cabezales de láminas de acero inoxidable y cumple lo básico: afeitar al ras. Las reseñas confirman que corta bien y que la batería aguanta, aunque la base de opiniones (38) es chica comparada con el resto del catálogo.
+
+## Lo que no trae
+
+A diferencia de casi todos los demás modelos de esta guía, los cabezales de la Kemei **no son lavables**: hay que limpiarla con el cepillito que trae (si trae) y no meterla bajo el agua. Tampoco incluye accesorios según su ficha técnica. Es una máquina básica, sin vueltas, y eso se refleja en el precio.
+
+## Para quién sirve
+
+Si nunca usaste una afeitadora eléctrica y no querés invertir de entrada, es una entrada honesta: barata, corta al ras, la gente que la compró la recomienda. Si con el tiempo terminás usándola seguido, vas a notar la falta de lavado bajo el agua y de accesorios frente a las otras opciones de esta guía.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Kemei / KM-1102' },
+      { label: 'Sistema de corte', value: 'Láminas' },
+      { label: 'Material de cuchillas', value: 'Acero inoxidable' },
+      { label: 'Cabezales', value: '2' },
+      { label: 'Cabezales lavables', value: 'No' },
+      { label: 'Potencia', value: '3 W' },
+      { label: 'Batería recargable', value: 'Sí' },
+      { label: 'Inalámbrica', value: 'Sí' },
+      { label: 'Resistente al agua', value: 'No' },
+      { label: 'Apta para viaje', value: 'Sí' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-05-12', text: 'Batería: dura mucho. Corte: al ras. Gran producto, para empezar no tiene inconvenientes.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-04-07', text: 'Muy buena máquina por el valor que tiene, similar a la versión kemei de color blanca.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Kemei KM-1102 se puede lavar bajo el agua?', answer: 'No, según su ficha técnica los cabezales no son lavables. Hay que limpiarla en seco con el cepillito, no sumergirla ni usarla en la ducha.' },
+      { question: '¿Trae accesorios o peines guía?', answer: 'No, según su ficha técnica no incluye accesorios. Es una máquina básica pensada solo para afeitar al ras.' },
+      { question: '¿Cuánto dura la batería?', answer: 'La ficha no publica la autonomía exacta, pero varias reseñas de compradores destacan que "dura mucho" en uso normal.' },
+    ],
+    relatedProducts: ['MLA25586824', 'MLA45401467'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Kemei KM-1102',
+      description: 'Afeitadora eléctrica Kemei KM-1102, láminas de acero inoxidable, 2 cabezales, batería recargable.',
+      brand: { '@type': 'Brand', name: 'Kemei' },
+      model: 'KM-1102',
+      sku: 'MLA44725486',
+      category: 'Afeitadoras eléctricas',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_964181-MCO74088144565_012024-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA44725486',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '26990',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '38',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA25586824',
+    title: 'Afeitadora Gama G-blade Usb Wet&dry',
+    canonicalName: 'GA.MA Italy G-Blade Wet & Dry',
+    brand: 'GA.MA Italy',
+    price: 29999,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_949420-MLA99576448404_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_949420-MLA99576448404_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_785042-MLU74826590951_022024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_970534-MLA80785502599_112024-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA25586824',
+    affiliateUrl: 'https://meli.la/2jg77p9',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 1134,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La más vendida de la guía: apta para rostro Y cuerpo, resistente al agua, cabezales lavables. Las reseñas muestran que se usa muchísimo para depilación corporal masculina (no solo cara), un uso que sorprende pero que el producto respalda.',
+    seoTitle: 'GA.MA G-Blade Wet & Dry: la afeitadora más vendida',
+    metaDescription: 'GA.MA Italy G-Blade Wet & Dry a $29.999: apta cuerpo y rostro, resistente al agua, 1.134 opiniones. La más elegida para afeitado corporal e íntimo.',
+    pros: [
+      'La base de opiniones más grande de la guía (1.134), rating 4.5',
+      'Apta para rostro y cuerpo, resistente al agua (uso en la ducha)',
+      'Cabezales lavables y aptos para viaje',
+      'Múltiples reseñas destacan que no lastima ni corta, incluso en zonas sensibles',
+      '3 peines incluidos como accesorio',
+    ],
+    cons: [
+      'No es la opción para una afeitada al ras de barba prolija y pareja: varias reseñas la usan para cuerpo antes que para cara',
+      'No verificada contra sitio oficial del fabricante (modelo no listado en la web de GA.MA Italy)',
+      'No incluye información publicada de autonomía de batería',
+    ],
+    verdict: 'Si buscás una afeitadora versátil para rostro y cuerpo, resistente al agua y con la base de opiniones más grande del catálogo, es la elegida. Las reseñas muestran que gran parte de los compradores la usan para afeitado corporal e íntimo masculino más que para la cara, así que si tu uso es específicamente barba, la Gama GSH700 o la GSH987 Sport (pensadas para rostro) pueden convenir más.',
+    articleBody: `## La más vendida, y no solo para la cara
+
+Con más de 1.100 calificaciones, la G-Blade es la afeitadora más elegida de esta guía. Su ficha técnica confirma que está pensada para **rostro y cuerpo**, con cabezales de láminas planas, resistencia al agua y cabezales lavables, algo que le permite usarse en la ducha.
+
+## Un uso que las reseñas confirman
+
+Algo que llama la atención al leer las opiniones reales: una parte grande de los compradores la usan específicamente para depilación corporal e íntima masculina, no solo para la cara. Varias reseñas comparan el resultado con una Philips OneBlade y destacan, sobre todo, que "no lastima" en zonas sensibles. Es información útil para decidir: si buscás específicamente una afeitadora de cuerpo completo, esta es la más validada de la guía; si buscás pura y exclusivamente una de barba, las Gama GSH700 o GSH987 (con sistema de doble pista pensado para rostro) están más enfocadas en eso.
+
+## Lo que no se pudo verificar
+
+A diferencia de la GSH700 y la GSH987 Sport de esta misma guía, el modelo G-Blade no aparece listado en el sitio oficial de GA.MA Italy al momento de esta revisión, así que sus specs quedan sostenidas por la ficha técnica de MercadoLibre y por las reseñas, sin la capa extra de verificación del fabricante.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'GA.MA Italy / G-Blade' },
+      { label: 'Funciones', value: 'Afeitado de rostro y cuerpo' },
+      { label: 'Sistema de corte', value: 'Láminas planas' },
+      { label: 'Material de cuchillas', value: 'Acero inoxidable' },
+      { label: 'Cabezales lavables', value: 'Sí' },
+      { label: 'Resistente al agua', value: 'Sí (apta para ducha)' },
+      { label: 'Batería recargable', value: 'Sí' },
+      { label: 'Inalámbrica', value: 'Sí' },
+      { label: 'Apta para viaje', value: 'Sí' },
+      { label: 'Accesorios incluidos', value: '3 peines guía' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2024-01-29', text: 'Muy bueno, la verdad que me sorprendió gratamente. Vengo de una philips one y está no tiene nada q envidiarle. Una semana de uso, si algo cambia aviso.', useful: 0 },
+      { rating: 4, country: 'Argentina', date: '2024-03-01', text: 'Es como una maquinita de afeitar común, esas descartables, pero la gran diferencia es que no te lastima. Me afeité barba, bigote, pecho, axilas y panza.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2024-08-06', text: 'La verdad de 10. Y para las partes íntimas es genial. No hay riesgos de cortarse!', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La GA.MA G-Blade sirve para el cuerpo, no solo la cara?', answer: 'Sí, según su ficha técnica está diseñada para rostro y cuerpo. Las reseñas de compradores confirman que gran parte la usa específicamente para depilación corporal e íntima masculina.' },
+      { question: '¿Se puede usar en la ducha?', answer: 'Sí, es resistente al agua y los cabezales son lavables, así que se puede usar con espuma o gel en la ducha.' },
+      { question: '¿Es la mejor opción para afeitar barba prolija?', answer: 'Cumple, pero no es su fuerte según el patrón de reseñas. Si tu prioridad es específicamente la barba, la Gama GSH700 o la GSH987 Sport (con sistema de doble pista) están más enfocadas en rostro.' },
+    ],
+    relatedProducts: ['MLA44725486', 'MLA45401467', 'MLA21346790'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'GA.MA Italy G-Blade Wet & Dry',
+      description: 'Afeitadora eléctrica GA.MA Italy G-Blade, apta para rostro y cuerpo, resistente al agua, cabezales lavables.',
+      brand: { '@type': 'Brand', name: 'GA.MA Italy' },
+      model: 'G-Blade',
+      sku: 'MLA25586824',
+      category: 'Afeitadoras eléctricas',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_949420-MLA99576448404_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA25586824',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '29999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '1134',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA45401467',
+    title: 'Afeitadora Gama Italy Gsh 700 Negro Tracker Cordless Usb',
+    canonicalName: 'GA.MA Italy GSH 700 Tracker USB',
+    brand: 'GA.MA Italy',
+    price: 37200,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_887242-MLA99542647572_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_887242-MLA99542647572_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_998115-MLA91475547340_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_832475-MLA91475547348_092025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA45401467',
+    affiliateUrl: 'https://meli.la/1gTg98c',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 308,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'Specs verificadas en el sitio oficial de GA.MA Italy: sistema de doble pista de corte, cuchillas flotantes, trimmer retráctil para patillas, 45 minutos de autonomía. Enfocada en rostro, con detalle de patillas incluido.',
+    seoTitle: 'GA.MA GSH700 Tracker: doble pista y trimmer retráctil',
+    metaDescription: 'GA.MA GSH700 Tracker USB: sistema Double Track, cuchillas flotantes, trimmer para patillas, 45 min de autonomía. Specs verificadas en el sitio oficial.',
+    pros: [
+      'Sistema de doble pista de corte (Double Track), confirmado en la web oficial de GA.MA Italy',
+      'Cuchillas flotantes que se adaptan mejor a los contornos de la cara',
+      'Trimmer retráctil incluido para perfilar patillas',
+      'Funciona con y sin cable (Cord-Cordless), útil si te quedás sin batería',
+      'Voltaje automático (bivolt), sirve en cualquier enchufe sin adaptador',
+    ],
+    cons: [
+      'No trae cargador según reportan varias reseñas: usa un cargador micro-USB de 1.000 mA poco común, cada vez más difícil de conseguir',
+      'Autonomía de 45 minutos, la más corta declarada de la guía (contra los 60 de la GSH987 Sport)',
+    ],
+    verdict: 'Si buscás una afeitadora de rostro enfocada, con trimmer para patillas y specs que efectivamente coinciden con lo que dice el fabricante (verificado en gamaitalyonline.com.ar), es una compra segura y de precio medio. Fijate al comprarla si el vendedor incluye cargador, porque varias reseñas marcan que no viene de fábrica.',
+    articleBody: `## Specs que coinciden con el fabricante
+
+Es uno de los dos modelos de esta guía cuyas especificaciones pudimos verificar palabra por palabra contra el sitio oficial de GA.MA Italy (gamaitalyonline.com.ar): sistema de doble pista de corte (Double Track System), cuchillas flotantes que mejoran la adaptación a los contornos del rostro, trimmer retráctil (pop-up) para patillas y detalles, función con y sin cable, batería de litio con 45 minutos de autonomía y 90 minutos de carga por USB, y voltaje automático (bivolt).
+
+## Pensada para rostro, con trimmer incluido
+
+A diferencia de la G-Blade (más orientada a cuerpo completo), la GSH700 apunta directo a la cara, con el trimmer retráctil como diferencial para perfilar patillas sin necesitar una segunda máquina.
+
+## La contra que se repite en las reseñas
+
+Varios compradores marcan lo mismo: no trae cargador, y el que usa es un micro-USB de 1.000 mA que ya es difícil de conseguir sueltos. No afecta el funcionamiento de la máquina en sí, pero conviene saberlo antes de comprar (o verificar con el vendedor si el cargador viene incluido en esa publicación puntual).`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'GA.MA Italy / GSH 700 Tracker' },
+      { label: 'Sistema de corte', value: 'Double Track (doble pista), verificado en gamaitalyonline.com.ar' },
+      { label: 'Cuchillas', value: 'Flotantes (Floating Blades)' },
+      { label: 'Trimmer retráctil', value: 'Sí, para patillas y detalles' },
+      { label: 'Con/sin cable', value: 'Sí (Cord-Cordless)' },
+      { label: 'Batería', value: 'Litio recargable' },
+      { label: 'Autonomía', value: '45 minutos (verificado en fabricante)' },
+      { label: 'Tiempo de carga', value: '90 minutos, por USB' },
+      { label: 'Voltaje', value: 'Automático (Bivolt)' },
+      { label: 'Incluye', value: 'Protector de cuchilla' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2025-10-14', text: 'Necesitaba una afeitadora y por los comentarios la compré. Es buena, corta al ras lo que necesitaba, lo malo que no trae cargador y ya hay muy pocos de 1.000 ma.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-06-18', text: 'Excelente la recomiendo muchísimo!', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-02-23', text: 'Muy buen producto, cumple muy bien su función.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La GSH700 trae trimmer para patillas?', answer: 'Sí, tiene un trimmer retráctil (pop-up) confirmado en el sitio oficial de GA.MA Italy, pensado para perfilar patillas y detalles sin necesitar otra máquina.' },
+      { question: '¿Trae cargador incluido?', answer: 'Varias reseñas de compradores marcan que no viene con cargador, y que usa un conector micro-USB de 1.000 mA poco común. Conviene consultarlo con el vendedor antes de comprar.' },
+      { question: '¿Cuánto dura la batería?', answer: '45 minutos de autonomía con 90 minutos de carga, según el sitio oficial del fabricante. Es la autonomía más corta declarada de esta guía.' },
+    ],
+    relatedProducts: ['MLA25586824', 'MLA21346790', 'MLA61642810'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'GA.MA Italy GSH 700 Tracker USB',
+      description: 'Afeitadora eléctrica GA.MA Italy GSH700 Tracker, sistema de doble pista, cuchillas flotantes, trimmer retráctil, 45 min de autonomía.',
+      brand: { '@type': 'Brand', name: 'GA.MA Italy' },
+      model: 'GSH 700 Tracker',
+      sku: 'MLA45401467',
+      category: 'Afeitadoras eléctricas',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_887242-MLA99542647572_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA45401467',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '37200',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '308',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA61642810',
+    title: 'Afeitadora Wahl Travel Shaver de Láminas y 7 Piezas, Inalámbrica',
+    canonicalName: 'Wahl Travel Shaver 7 Piezas',
+    brand: 'Wahl',
+    price: 42000,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_695896-MLA99969952023_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_695896-MLA99969952023_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_888546-MLA96648287484_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_675088-MLA96647543942_112025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA61642810',
+    affiliateUrl: 'https://meli.la/2sEMMmK',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 181,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'Kit de viaje de Wahl con 7 piezas y sistema de láminas: 80 minutos de autonomía, carga en 2 horas. De una marca de barbería reconocida, pensada para llevarla de un lado a otro.',
+    seoTitle: 'Wahl Travel Shaver: el kit de 7 piezas para viajar',
+    metaDescription: 'Wahl Travel Shaver de láminas, 7 piezas, 80 minutos de autonomía. 181 opiniones y 4.7 estrellas. La opción de marca de barbería para viajar.',
+    pros: [
+      'Marca de barbería reconocida internacionalmente (Wahl)',
+      'Kit completo de 7 piezas, pensado específicamente para viajar',
+      '80 minutos de autonomía, la más larga declarada entre los modelos con este dato',
+      'Cuchillas de acero inoxidable, cabezal removible',
+      'Reseñas destacan precisión de corte y buena potencia para su tamaño',
+    ],
+    cons: [
+      'No es resistente al agua ni tiene cabezales lavables según su ficha técnica',
+      'Una reseña la marca como "no tan potente" comparada con lo esperado',
+      'Es más cara que las Gama de entrada (G-Blade, GSH700) sin sumar funciones extra de rostro',
+    ],
+    verdict: 'Si viajás seguido y valorás la marca (Wahl tiene trayectoria real en barbería), el kit de 7 piezas resuelve afeitado más accesorios en un solo estuche. Si no viajás mucho, las Gama de esta guía dan resultados similares en corte a menor precio.',
+    articleBody: `## El kit pensado para viajar
+
+La Wahl Travel Shaver se distingue del resto de la guía por venir en formato de **kit de 7 piezas**, diseñado explícitamente para el viajero: máquina, cabezal removible y accesorios en un mismo estuche. Es de sistema de láminas con cuchillas de acero inoxidable, y su ficha técnica declara 80 minutos de autonomía con 2 horas de carga, la mejor autonomía declarada de todos los modelos de esta guía que publican ese dato.
+
+## Lo que dicen las reseñas
+
+El patrón es consistente: "corta perfecto", "potente para su tamaño", "buena precisión". Una reseña puntual la marca como "no tan potente" en comparación con lo esperado, así que no es unánime, pero la mayoría confirma que cumple.
+
+## La marca importa acá
+
+Wahl es una marca con historia real en herramientas de barbería profesional, algo que pesa en la decisión de compra para quien ya conoce la marca por sus máquinas de cortar pelo. No es resistente al agua ni tiene cabezales lavables, así que si buscás algo para usar en la ducha, la Gama G-Blade de esta guía es la opción.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Wahl / Travel Shaver 7 Piezas' },
+      { label: 'Sistema de corte', value: 'Láminas' },
+      { label: 'Material de cuchillas', value: 'Acero inoxidable' },
+      { label: 'Cabezal', value: 'Removible' },
+      { label: 'Piezas incluidas', value: '7 (kit de viaje)' },
+      { label: 'Autonomía', value: '80 minutos' },
+      { label: 'Tiempo de carga', value: '2 horas' },
+      { label: 'Inalámbrica', value: 'Sí' },
+      { label: 'Resistente al agua', value: 'No' },
+      { label: 'Apta para viaje', value: 'Sí (diseño específico)' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-06-18', text: 'Corte: muy presisa, corta perfecto. Batería: dura mucho la batería. Muy buena, me sorprendió realmente, excelente producto. Profesional.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-05-20', text: 'Muy potente para su tamaño. Cumple totalmente su función.', useful: 0 },
+      { rating: 4, country: 'Argentina', date: '2025-12-16', text: 'Está bueno pero no es tan potente.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿Qué incluye el kit de 7 piezas de la Wahl Travel Shaver?', answer: 'La máquina con cabezal removible más accesorios de viaje en un mismo estuche, pensado para llevar todo junto sin piezas sueltas.' },
+      { question: '¿Se puede usar en la ducha?', answer: 'No, según su ficha técnica no es resistente al agua. Si buscás una para usar con espuma en la ducha, la Gama G-Blade de esta guía sí lo permite.' },
+      { question: '¿Cuánto dura la batería?', answer: '80 minutos de autonomía con 2 horas de carga, la más larga declarada entre los modelos de esta guía que publican ese dato.' },
+    ],
+    relatedProducts: ['MLA45401467', 'MLA21346790', 'MLA19769919'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Wahl Travel Shaver 7 Piezas',
+      description: 'Afeitadora eléctrica Wahl Travel Shaver, sistema de láminas, kit de 7 piezas para viaje, 80 minutos de autonomía.',
+      brand: { '@type': 'Brand', name: 'Wahl' },
+      model: 'Travel Shaver 7 Piezas',
+      sku: 'MLA61642810',
+      category: 'Afeitadoras eléctricas',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_695896-MLA99969952023_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA61642810',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '42000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '181',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA19769919',
+    title: 'Afeitadora Remington R31a Rotativo Recargable Usb Color Negro',
+    canonicalName: 'Remington R31A Rotativo',
+    brand: 'Remington',
+    price: 65000,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_789100-MLA99963695653_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_789100-MLA99963695653_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_748555-MLU78320674897_082024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_653848-MLU78320529641_082024-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA19769919',
+    affiliateUrl: 'https://meli.la/24WtnAA',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 213,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La única de sistema rotativo confirmado de la guía: cabezales flexibles TwinTrack, 40 minutos de autonomía, corta patillas incluido. De marca reconocida internacionalmente, con el rating más bajo del grupo por una razón concreta: la potencia a batería.',
+    seoTitle: 'Remington R31A: la rotativa de la guía, con matices',
+    metaDescription: 'Remington R31A rotativo recargable: cabezales flexibles TwinTrack, corta patillas incluido. 213 opiniones. La contra real: potencia a batería vs 220V.',
+    pros: [
+      'Sistema rotativo confirmado (a diferencia de la mayoría de esta guía, que es de láminas)',
+      'Cabezales flexibles TwinTrack que se adaptan a los contornos de la cara',
+      'Corta patillas incluido como accesorio',
+      'Cabezales lavables',
+      'Marca internacional con trayectoria en el rubro',
+    ],
+    cons: [
+      'El rating (4.4) es el más bajo de los seis modelos de esta guía',
+      'Una reseña detallada marca que la potencia a batería es menor a cuando funcionaba con cable directo a 220V (modelos anteriores de la marca)',
+      'Autonomía de 40 minutos, de las más cortas declaradas',
+    ],
+    verdict: 'Es la única opción rotativa verificada de la guía, con la ventaja de que los cabezales rotativos suelen adaptarse mejor a cuellos y mandíbulas irregulares que las láminas. La contra concreta que marcan las reseñas: a batería, la potencia baja un poco frente a lo que ofrecían versiones a cable de la misma marca. Si preferís rotativa por sobre láminas, es la elegida de este catálogo.',
+    articleBody: `## La rotativa de la guía
+
+De los seis modelos de esta comparativa, la Remington R31A es la única con **sistema rotativo confirmado** en su ficha técnica (el resto son de láminas). Las cabezas rotativas, con su sistema TwinTrack flexible, suelen seguir mejor los contornos irregulares de la cara y el cuello que un cabezal de láminas plano, algo a tener en cuenta si tu piel o tu mandíbula no son parejas.
+
+## La contra que marca una reseña detallada
+
+Una reseña específica señala algo interesante: "el producto sería excelente si fuera directa a 220V... o si las baterías brindaran mayor velocidad y fuerza de trabajo". Es una observación técnica válida: los modelos a batería, en general, sacrifican algo de potencia frente a los que funcionan enchufados en todo momento. No es un defecto de fabricación, es una característica del formato inalámbrico.
+
+## Accesorios y cuidado
+
+Incluye corta patillas de fábrica, algo que no todos los modelos de esta guía traen, y los cabezales son lavables. Con 40 minutos de autonomía, no es la más resistente de la guía en ese aspecto, pero alcanza para un uso normal.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Remington / R31A' },
+      { label: 'Sistema de corte', value: 'Rotativo (TwinTrack)' },
+      { label: 'Cabezales', value: 'Flexibles' },
+      { label: 'Cabezales lavables', value: 'Sí' },
+      { label: 'Accesorios incluidos', value: 'Corta patillas' },
+      { label: 'Batería recargable', value: 'Sí' },
+      { label: 'Autonomía', value: '40 minutos' },
+      { label: 'Inalámbrica', value: 'Sí' },
+      { label: 'Apta para viaje', value: 'Sí' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2023-10-04', text: 'El producto sería excelente si fuera directa a 220v. Como era antes o si las baterías brindaran mayor velocidad y fuerza de trabajo.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2026-03-25', text: 'Batería: dura bastante! yo la compré hace años!!.', useful: 0 },
+      { rating: 4, country: 'Argentina', date: '2024-07-31', text: 'Excelente producto, es el segundo que me compro.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Remington R31A es rotativa o de láminas?', answer: 'Es rotativa, con cabezales flexibles TwinTrack. Es la única opción de sistema rotativo confirmado entre los seis modelos de esta guía.' },
+      { question: '¿Por qué tiene el rating más bajo de la guía?', answer: 'Una reseña detallada explica que a batería la potencia es menor que si funcionara enchufada directo a 220V. No es una falla, es una característica de funcionar a batería en vez de a cable.' },
+      { question: '¿Trae corta patillas?', answer: 'Sí, viene incluido como accesorio de fábrica.' },
+    ],
+    relatedProducts: ['MLA21346790', 'MLA45401467', 'MLA61642810'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Remington R31A Rotativo',
+      description: 'Afeitadora eléctrica Remington R31A, sistema rotativo TwinTrack, cabezales flexibles y lavables, corta patillas incluido.',
+      brand: { '@type': 'Brand', name: 'Remington' },
+      model: 'R31A',
+      sku: 'MLA19769919',
+      category: 'Afeitadoras eléctricas',
+      color: 'Negro',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_789100-MLA99963695653_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA19769919',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '65000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.4',
+        reviewCount: '213',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA21346790',
+    title: 'Afeitadora Gama Gsh987s 150041 Sport Usb Color Celeste',
+    canonicalName: 'GA.MA Italy GSH 987 Sport',
+    brand: 'GA.MA Italy',
+    price: 68999,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_633243-MLA93082756514_092025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_633243-MLA93082756514_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_915321-MLA93498474137_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_838982-MLU75198057618_032024-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA21346790',
+    affiliateUrl: 'https://meli.la/2VNgUix',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 142,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La premium de la guía: specs verificadas en el sitio oficial de GA.MA Italy. Wet & dry, lavable en la ducha, cabezales flotantes, sistema Double Track, 60 minutos de autonomía y corta patillas desplegable.',
+    seoTitle: 'GA.MA GSH987 Sport: la premium, wet & dry verificada',
+    metaDescription: 'GA.MA Italy GSH987 Sport: wet & dry, lavable en la ducha, Double Track, 60 min de autonomía. Specs verificadas en el sitio oficial de GA.MA Italy.',
+    pros: [
+      'Wet & dry: lavable y apta para usar directamente en la ducha, confirmado por el fabricante',
+      'Cabezales flotantes con sistema Double Track para mejor adaptación al rostro',
+      'La autonomía más larga verificada de la guía: 60 minutos con carga rápida',
+      'Corta patillas desplegable incluido',
+      'Specs 100% verificadas contra el sitio oficial de GA.MA Italy (gamaitalyonline.com.ar)',
+    ],
+    cons: [
+      'Es la más cara de la guía',
+      'Solo 142 calificaciones, menos que la G-Blade o la GSH700 de la misma marca',
+      'Sin cable como alternativa (100% inalámbrica), a diferencia de la GSH700',
+    ],
+    verdict: 'Si el presupuesto no es el problema y querés la afeitadora más completa de la guía, verificada punto por punto contra el sitio del fabricante, es esta. Wet & dry real, la mejor autonomía y cabezales flotantes. Para la mayoría, la GSH700 (casi la mitad de precio) da un resultado similar en seco.',
+    articleBody: `## La más completa, verificada al detalle
+
+De las seis afeitadoras de esta guía, la GSH987 Sport es la que más specs pudimos cruzar palabra por palabra contra el sitio oficial de GA.MA Italy: **wet and dry** (lavable, apta para la ducha), cabezales flotantes, sistema Double Track, batería de litio con carga rápida, **60 minutos de autonomía** (la mejor de la guía) y corta patillas desplegable, cordless.
+
+## Por qué cuesta más
+
+El salto de precio frente a la GSH700 (misma marca, sistema similar) se explica por dos cosas concretas: la resistencia al agua real para uso en ducha y los 15 minutos extra de autonomía. Si esas dos cosas no son un factor decisivo para vos, la GSH700 da un resultado muy parecido a mitad de precio.
+
+## Pocas opiniones para el precio
+
+Con 142 calificaciones, tiene bastante menos volumen de reseñas que la G-Blade (1.134) o incluso la GSH700 (308) de la misma marca, algo esperable en un producto de precio más alto y menor rotación. Las que hay son mayormente positivas, sin quejas puntuales repetidas.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'GA.MA Italy / GSH 987 Sport' },
+      { label: 'Wet & dry', value: 'Sí, apta para la ducha (verificado en fabricante)' },
+      { label: 'Cabezales', value: 'Flotantes' },
+      { label: 'Sistema de corte', value: 'Double Track (doble pista)' },
+      { label: 'Batería', value: 'Litio, carga rápida' },
+      { label: 'Autonomía', value: '60 minutos (verificado en fabricante)' },
+      { label: 'Corta patillas', value: 'Desplegable, incluido' },
+      { label: 'Conexión', value: 'USB, 100% cordless' },
+      { label: 'Peso', value: '20 g' },
+      { label: 'Resistente al agua', value: 'Sí' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2025-05-19', text: 'Muy bien corta muy bien y es una buena máquina y el color es muy bonito y muy llamativo.', useful: 0 },
+      { rating: 4, country: 'Argentina', date: '2025-03-02', text: 'Cumple con su función. Excelente relación precio-calidad.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2024-12-05', text: 'Muy rico afeita.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La GSH987 Sport se puede usar en la ducha?', answer: 'Sí, es wet & dry y lavable, confirmado en el sitio oficial de GA.MA Italy. Se puede usar directamente en la ducha con espuma o gel.' },
+      { question: '¿Cuánto dura la batería?', answer: '60 minutos de autonomía con carga rápida por USB, la más larga verificada entre los seis modelos de esta guía.' },
+      { question: '¿Vale la pena frente a la GSH700, más barata?', answer: 'Si valorás el uso en la ducha (wet & dry real) y los minutos extra de autonomía, sí. Si vas a usarla siempre en seco, la GSH700 de esta misma guía da un resultado similar a menor precio.' },
+    ],
+    relatedProducts: ['MLA45401467', 'MLA25586824', 'MLA19769919'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'GA.MA Italy GSH 987 Sport',
+      description: 'Afeitadora eléctrica GA.MA Italy GSH987 Sport, wet & dry, cabezales flotantes, sistema Double Track, 60 minutos de autonomía.',
+      brand: { '@type': 'Brand', name: 'GA.MA Italy' },
+      model: 'GSH 987 Sport',
+      sku: 'MLA21346790',
+      category: 'Afeitadoras eléctricas',
+      color: 'Celeste',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_633243-MLA93082756514_092025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA21346790',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '68999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.5',
+        reviewCount: '142',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Silo cuidado-personal — satélite cortadora-de-pelo — fichas STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    id: 'MLA21820129',
+    title: 'Remington Cortadora De Cabello Indestructible Hc5850',
+    canonicalName: 'Remington HC5850 Indestructible',
+    brand: 'Remington',
+    price: 61080,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_625568-MLA100040412869_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_625568-MLA100040412869_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_669887-MLA91475728732_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_922947-MLA91873677605_092025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA21820129',
+    affiliateUrl: 'https://meli.la/2qnuJyn',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 2338,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La más vendida de la guía por lejos: motor magnético, 8 peines guía, cuchillas autoafilables y kit de 15 piezas con tijera, capa y estuche. Con cable, pensada para durar.',
+    seoTitle: 'Remington HC5850: la cortadora de pelo más vendida',
+    metaDescription: 'Remington HC5850 a $61.080: motor magnético, 8 peines guía, kit de 15 piezas. 2.338 opiniones y 4.7 estrellas, la más vendida de la guía.',
+    pros: [
+      'La más vendida por lejos: 2.338 opiniones y 4.7 estrellas',
+      'Kit completo de 15 piezas: 8 peines guía, tijera, capa, estuche y aceite',
+      'Cuchillas autoafilables de acero inoxidable',
+      'Motor magnético, corte parejo confirmado en las reseñas',
+    ],
+    cons: [
+      'Con cable de 3 m, no es inalámbrica',
+      'Corte máximo de 2.5 cm, no sirve para dejar el pelo muy largo',
+      'No es resistente al agua pese a tener cabezales lavables',
+    ],
+    verdict: 'Si buscás la opción más segura y probada, la Remington HC5850 es la elección obvia: es la más comprada de la guía y el kit de 15 piezas cubre desde el corte parejo hasta el afeitado de detalles. La única concesión real es que va con cable.',
+    articleBody: `## La más elegida, con motivo
+
+La Remington HC5850 "Indestructible" es, con enorme diferencia, la cortadora de pelo más comprada en esta comparativa: acumula más de 2.300 opiniones y 4.7 estrellas. El motor magnético mueve las cuchillas de acero inoxidable a máxima potencia y el kit incluye 8 peines guía (de 3 mm a 2.5 cm), tijera, capa de peluquería, cepillo de limpieza, aceite lubricante y un estuche para guardar todo.
+
+## Con cable, para uso continuo
+
+A diferencia de otras opciones de esta guía, la HC5850 funciona con cable de 3 metros. Para cortes en casa esto no es un problema (incluso ayuda, porque nunca se queda sin batería a mitad de un corte), pero si buscás algo más portátil para viajar, otras opciones de esta guía son mejores.
+
+## Para quién sirve
+
+Es la elección más segura si es tu primera cortadora o si cortás el pelo en casa con frecuencia: el kit trae todo lo necesario y las reseñas confirman que el corte es parejo y no tironea.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Remington / HC5850' },
+      { label: 'Tipo de alimentación', value: 'Corriente eléctrica (con cable)' },
+      { label: 'Tipos de motor', value: 'Magnético' },
+      { label: 'Cantidad de peines', value: '8' },
+      { label: 'Altura de corte', value: '3 mm a 2.5 cm' },
+      { label: 'Material de las cuchillas', value: 'Acero inoxidable, autoafilables' },
+      { label: 'Cabezales lavables', value: 'Sí' },
+      { label: 'Accesorios incluidos', value: 'Tijera, capa, aceite, cepillo, estuche' },
+      { label: 'Largo del cable', value: '3 m' },
+      { label: 'Peso', value: '840 g' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2023-12-06', text: 'Me corté y afeité solo, hace años que no lo hacía. Muy estable, calienta menos que una máquina barata y el corte es potente, y parejo.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2020-05-06', text: 'Primera vez que uso una de estas corta pelo. La usó mi señora conmigo y quedó muy bien.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Remington HC5850 es inalámbrica?', answer: 'No, funciona con cable de 3 metros. No tiene batería, así que nunca se queda sin carga a mitad de un corte.' },
+      { question: '¿Qué trae el kit de 15 piezas?', answer: '8 peines guía (de 3 mm a 2.5 cm), tijera, capa de peluquería, cepillo de limpieza, aceite lubricante, protector de cuchilla y estuche, según su ficha técnica.' },
+      { question: '¿Sirve para cortes profesionales de barbería?', answer: 'Está pensada sobre todo para uso doméstico frecuente. Para uso profesional intensivo, conviene mirar la Wahl Magic Clip de esta guía, con motor rotativo dedicado a ese uso.' },
+    ],
+    relatedProducts: ['MLA22272888', 'MLA19606324'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Remington HC5850 Indestructible',
+      description: 'Cortadora de cabello Remington HC5850, motor magnético, 8 peines guía, kit de 15 piezas, con cable.',
+      brand: { '@type': 'Brand', name: 'Remington' },
+      model: 'HC5850',
+      sku: 'MLA21820129',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_625568-MLA100040412869_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA21820129',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '61080',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '2338',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA22272888',
+    title: 'Maquina Cortar Pelo Magic Clip Wahl Profesional Clipper',
+    canonicalName: 'Wahl Magic Clip',
+    brand: 'Wahl',
+    price: 126099,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_970020-MLA100002960423_112025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_970020-MLA100002960423_112025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_950967-MLA91049090516_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_737341-MLA91049306022_092025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA22272888',
+    affiliateUrl: 'https://meli.la/23AAFeN',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 561,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La preferida de los barberos profesionales: motor rotativo, 8 peines guía y cuchillas de acero quirúrgico. La marca que más se repite entre peluqueros según las reseñas.',
+    seoTitle: 'Wahl Magic Clip: la cortadora que usan los barberos',
+    metaDescription: 'Wahl Magic Clip a $126.099: motor rotativo, acero quirúrgico, 8 peines guía. 561 opiniones y 4.8 estrellas, la preferida de los profesionales.',
+    pros: [
+      '4.8 estrellas, el puntaje más alto de la guía',
+      'Motor rotativo profesional, pensado para uso intensivo',
+      'Cuchillas de acero quirúrgico, corte muy parejo según las reseñas',
+      'Marca de referencia mundial en máquinas de barbería',
+    ],
+    cons: [
+      'La más cara de la guía',
+      'Con cable, no es inalámbrica en esta versión',
+      'No trae cabezales lavables según su ficha técnica',
+    ],
+    verdict: 'Si cortás pelo de forma profesional o simplemente querés la misma herramienta que usan los barberos, la Wahl Magic Clip es la referencia. Es la mejor puntuada de la guía, aunque también la más cara y sin la comodidad inalámbrica de otras opciones.',
+    articleBody: `## La marca que usan los barberos
+
+Wahl es una de las marcas más reconocidas del mundo en máquinas de cortar pelo profesionales, y la Magic Clip es su modelo insignia. Motor rotativo, cuchillas de acero quirúrgico y 8 peines guía (de 0.7 mm a 2 cm) hacen de esta versión una herramienta pensada para trabajar horas seguidas.
+
+## La mejor puntuada, con un precio acorde
+
+Con 4.8 estrellas sobre 561 opiniones, es la cortadora mejor puntuada de toda esta guía. El precio también es el más alto del grupo, acorde a una máquina de uso profesional.
+
+## Para quién sirve
+
+Para peluqueros y barberos que cortan pelo todos los días, o para cualquiera que quiera invertir en la misma herramienta que usa la profesión. Si el uso es ocasional en casa, la Remington HC5850 de esta guía cumple igual a una fracción del precio.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Wahl / Magic Clip 2191' },
+      { label: 'Tipo de alimentación', value: 'Corriente eléctrica (con cable)' },
+      { label: 'Sistema de corte', value: 'Rotativo' },
+      { label: 'Cantidad de peines', value: '8' },
+      { label: 'Altura de corte', value: '0.7 mm a 2 cm' },
+      { label: 'Material de las cuchillas', value: 'Acero quirúrgico, autoafilables' },
+      { label: 'Cabezales lavables', value: 'No' },
+      { label: 'Largo del cable', value: '2.4 m' },
+      { label: 'Accesorios incluidos', value: 'Aceite lubricante' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2025-03-19', text: 'Si quieren ser dignos de cortar cabello, esta es la opción que por mucho es superior a la competencia. La máquina es 100% original y viene con todos los accesorios.', useful: 0 },
+      { rating: 4, country: 'Argentina', date: '2024-10-31', text: 'Cumplió las expectativas. Es algo pesada pero solo es para uso familiar. Es silenciosa, buena potencia. Con todos los accesorios.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Wahl Magic Clip es inalámbrica?', answer: 'Esta versión funciona con cable, según su ficha técnica. Wahl también fabrica una versión "Cordless" con batería, pero no es el modelo con más reseñas disponible en Argentina al momento de esta guía.' },
+      { question: '¿Por qué es más cara que las demás cortadoras de esta guía?', answer: 'Es una máquina profesional de barbería, con motor rotativo y acero quirúrgico. El precio refleja el uso intensivo para el que está pensada.' },
+    ],
+    relatedProducts: ['MLA21820129', 'MLA19606324'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Wahl Magic Clip',
+      description: 'Máquina de cortar pelo Wahl Magic Clip, motor rotativo, cuchillas de acero quirúrgico, 8 peines guía, con cable.',
+      brand: { '@type': 'Brand', name: 'Wahl' },
+      model: 'Magic Clip 2191',
+      sku: 'MLA22272888',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_970020-MLA100002960423_112025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA22272888',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '126099',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '561',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA19606324',
+    title: 'Cortadora Pelo Gadnic Patillera Profesional Recargable Inalambrica',
+    canonicalName: 'Gadnic CP140 Care',
+    brand: 'Gadnic',
+    price: 36632,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_752884-MLA112260937792_062026-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_752884-MLA112260937792_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_907598-MLA113411727065_062026-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_835590-MLA112261702862_062026-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA19606324',
+    affiliateUrl: 'https://meli.la/1x7QKoj',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 475,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La inalámbrica más práctica de la guía: se carga por USB, cabezales lavables y 3 peines intercambiables. Liviana (37 g) y pensada para viajar.',
+    seoTitle: 'Gadnic CP140: la cortadora inalámbrica más práctica',
+    metaDescription: 'Gadnic CP140 a $36.632: carga USB, cabezales lavables, 37 g. 475 opiniones y 4.7 estrellas, la inalámbrica más práctica de la guía.',
+    pros: [
+      '475 opiniones y 4.7 estrellas, la mejor puntuada entre las inalámbricas',
+      'Se carga con cable USB común, no necesita cargador propio',
+      'Cabezales lavables bajo el agua',
+      'Muy liviana (37 g), apta para viaje',
+    ],
+    cons: [
+      'Solo 3 h de autonomía por carga, según su ficha técnica',
+      'Potencia declarada de 5 W, la más baja de las inalámbricas de la guía',
+      'Corte máximo de apenas 3 mm, no sirve para dejar largo el pelo',
+    ],
+    verdict: 'Para patillas, contorno y mantenimiento entre cortes, la Gadnic CP140 es la mejor relación precio-practicidad de la guía: liviana, se carga por USB y las reseñas confirman que la batería aguanta. No reemplaza a una cortadora de motor más potente para el pelo largo.',
+    articleBody: `## La inalámbrica más práctica
+
+La Gadnic CP140 (línea Care) es una patillera inalámbrica liviana (37 g) que se carga con un cable USB común, sin necesidad de un cargador propio. Trae 3 peines intercambiables (de 1 mm a 3 mm de altura de corte) y sus cabezales son lavables bajo el agua.
+
+## Lo que hay que saber antes de comprarla
+
+Con 5 W de potencia y una altura máxima de corte de apenas 3 mm, la CP140 está pensada para contorno, patillas y mantenimiento entre cortes, no para cortar el pelo largo de raíz. La autonomía declarada es de 3 horas por carga, con 2 horas para cargarla completa.
+
+## Para quién sirve
+
+Ideal como segunda máquina para retoques rápidos, o para quien recién arranca a cortarse el pelo en casa y quiere algo simple, liviano y barato de mantener.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Gadnic / CP140 (línea Care)' },
+      { label: 'Tipo de alimentación', value: 'Batería recargable' },
+      { label: 'Es inalámbrica', value: 'Sí' },
+      { label: 'Cantidad de peines', value: '3' },
+      { label: 'Altura de corte', value: '1 mm a 3 mm' },
+      { label: 'Cabezales lavables', value: 'Sí' },
+      { label: 'Tiempo de funcionamiento', value: '3 h' },
+      { label: 'Tiempo de carga', value: '2 h' },
+      { label: 'Peso', value: '37 g' },
+      { label: 'Potencia', value: '5 W' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2023-07-18', text: 'La uso para la barba. Anda flama y la batería se la re banca.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2023-01-26', text: 'Es una máquina pequeña y cómoda respecto a la portabilidad que tiene. No trae un cargador convencional, sino que viene con cable USB.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Gadnic CP140 sirve para cortar el pelo largo?', answer: 'No, según su ficha técnica corta como máximo 3 mm de altura. Está pensada para patillas, contorno y mantenimiento, no para cortes de raíz.' },
+      { question: '¿Cómo se carga?', answer: 'Con un cable USB común, según su ficha técnica: no necesita un cargador propio ni toma de pared exclusiva.' },
+    ],
+    relatedProducts: ['MLA21820129', 'MLA19307536'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Gadnic CP140 Care',
+      description: 'Cortadora de pelo patillera Gadnic CP140, inalámbrica, carga USB, cabezales lavables.',
+      brand: { '@type': 'Brand', name: 'Gadnic' },
+      model: 'CP140',
+      sku: 'MLA19606324',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_752884-MLA112260937792_062026-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA19606324',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '36632',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.7',
+        reviewCount: '475',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA19307536',
+    title: 'Cortadora Patillera Inalámbrica Vanta 1100 Pelo Barba',
+    canonicalName: 'Vanta Patillera 1100',
+    brand: 'Vanta',
+    price: 45546,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_824037-MLA100012230527_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_824037-MLA100012230527_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_914217-MLA91873126253_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_612898-MLA91475093830_092025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA19307536',
+    affiliateUrl: 'https://meli.la/133hjdT',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 253,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La única con pantalla digital de la guía: indicador de batería en tiempo real. Inalámbrica y pensada para patillas y barba.',
+    seoTitle: 'Vanta Patillera 1100: la única con pantalla digital',
+    metaDescription: 'Vanta Patillera 1100 a $45.546: inalámbrica, pantalla digital de batería, 4 h de autonomía. 253 opiniones y 4.6 estrellas.',
+    pros: [
+      '253 opiniones y 4.6 estrellas',
+      'Pantalla digital que muestra el nivel de batería, único caso de la guía',
+      '4 horas de autonomía declaradas',
+      'Apta para viaje y para bebés según su ficha técnica',
+    ],
+    cons: [
+      'Solo viene con 1 peine guía, según su ficha técnica',
+      'Marca sin sitio de fabricante rastreable en Argentina; specs sostenidas con ficha ML + reseñas',
+      'No se especifica si los cabezales son lavables',
+    ],
+    verdict: 'Si te importa saber cuánta batería queda antes de empezar a cortar, la Vanta 1100 es la única opción de esta guía con pantalla digital. Cumple bien para patillas y barba, aunque no es una cortadora pensada para cortes completos.',
+    articleBody: `## La única con pantalla
+
+Entre las seis opciones de esta guía, la Vanta 1100 es la única que trae pantalla digital con el nivel de batería a la vista, algo que evita quedarte sin carga a mitad de un corte. Es inalámbrica, con 4 horas de autonomía declaradas.
+
+## Una marca sin fabricante rastreable
+
+Como pasa con varias marcas de este catálogo, Vanta no tiene un sitio oficial de fabricante verificable en Argentina. Las especificaciones de esta ficha están sostenidas con la ficha técnica de MercadoLibre y las reseñas reales de compradores, no con una fuente de fabricante.
+
+## Para quién sirve
+
+Para patillas, contorno de barba y retoques, con la comodidad extra de ver la batería restante en la pantalla. No es la elección si buscás cortar el pelo completo: para eso, la Remington o la Wahl de esta guía rinden mejor.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Vanta / 1100' },
+      { label: 'Tipo de alimentación', value: 'Batería recargable' },
+      { label: 'Es inalámbrica', value: 'Sí' },
+      { label: 'Pantalla digital', value: 'Sí' },
+      { label: 'Cantidad de peines', value: '1' },
+      { label: 'Tiempo de funcionamiento', value: '4 h' },
+      { label: 'Potencia', value: '10 W' },
+      { label: 'Apta para viaje', value: 'Sí' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2022-11-06', text: 'Excelente producto, excelente corte, la batería impresionante, es una máquina que no hace ruido, súper cómoda el agarre.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2022-03-17', text: 'Me pareció buena calidad de máquina, corta al ras y me sirve para el salón de barbería. Recomendable.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Vanta 1100 tiene pantalla?', answer: 'Sí, según su ficha técnica muestra el nivel de batería en tiempo real, la única de esta guía con esa función.' },
+      { question: '¿Vanta tiene sitio oficial de fabricante?', answer: 'No se encontró un sitio de fabricante verificable en Argentina para Vanta. Esta ficha se sostiene con la ficha técnica de MercadoLibre y reseñas reales de compradores.' },
+    ],
+    relatedProducts: ['MLA19606324', 'MLA21820129'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Vanta Patillera 1100',
+      description: 'Cortadora patillera inalámbrica Vanta 1100, pantalla digital de batería, para pelo y barba.',
+      brand: { '@type': 'Brand', name: 'Vanta' },
+      model: '1100',
+      sku: 'MLA19307536',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_824037-MLA100012230527_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA19307536',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '45546',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.6',
+        reviewCount: '253',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA17922390',
+    title: 'Cortadora de pelo Philco HC9902PN black',
+    canonicalName: 'Philco HC9902PN',
+    brand: 'Philco',
+    price: 139999,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_855149-MLA95110289196_102025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_855149-MLA95110289196_102025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_679121-MLA91874677913_092025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA17922390',
+    affiliateUrl: 'PEGAR_MELI_LA',
+    condition: 'new',
+    freeShipping: true,
+    rating: 3.7,
+    reviewCount: 251,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'deprioritized',
+    description: '12 peines guía y motor de 10W, con cable. Buena para uso doméstico frecuente, con reseñas dispares para uso profesional.',
+    seoTitle: 'Philco HC9902PN: 12 peines guía, la más versátil de todas',
+    metaDescription: 'Philco HC9902PN a $139.999: 12 peines guía, motor 10W, con cable. 251 opiniones, 3.7 estrellas, con reseñas dispares para uso profesional.',
+    pros: [
+      '12 peines guía, buena variedad de alturas de corte',
+      'Marca argentina con sitio oficial verificable (philco.com.ar)',
+      'Corte de hasta 2.5 cm, sirve para dejar el pelo más largo',
+      'Incluye tijera, peine, aceite y cepillo de limpieza',
+    ],
+    cons: [
+      '3.7 estrellas, calificación algo baja',
+      'Varias reseñas negativas de uso profesional en peluquería',
+      'Con cable, no apta para viaje según su ficha técnica',
+    ],
+    verdict: 'La Philco HC9902PN tiene buena variedad de peines (12) y corte más largo (hasta 2.5 cm), pero su calificación (3.7 estrellas) es algo baja: varias reseñas de uso profesional se quejan de que no corta parejo. Para uso doméstico ocasional cumple; para trabajar todo el día, conviene priorizar una con mejor calificación.',
+    articleBody: `## La de más peines, con reseñas dispares
+
+La Philco HC9902PN se distingue por traer 12 peines guía (de 0.5 mm a 2.5 cm), la mayor variedad de esta comparativa, y un motor de 10 W con cable. Philco es una marca argentina con sitio oficial (philco.com.ar) donde se puede verificar esta ficha.
+
+## Lo que dicen las reseñas
+
+Con 3.7 estrellas sobre 251 opiniones, la calificación es algo baja. Varias reseñas de cinco estrellas destacan que es "súper fácil de usar", pero también hay reseñas de una estrella de gente que la usó para trabajo de peluquería y no quedó conforme con el corte.
+
+## Para quién sirve
+
+Para cortes ocasionales en casa, con la ventaja de tener muchas alturas de peine para elegir. Si el uso es profesional o diario, conviene priorizar un modelo con mejor calificación.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philco / HC9902PN' },
+      { label: 'Tipo de alimentación', value: 'Corriente eléctrica (con cable)' },
+      { label: 'Cantidad de peines', value: '12' },
+      { label: 'Altura de corte', value: '0.5 mm a 2.5 cm' },
+      { label: 'Material de las cuchillas', value: 'Acero inoxidable' },
+      { label: 'Potencia', value: '10 W' },
+      { label: 'Peso', value: '570 g' },
+      { label: 'Accesorios incluidos', value: 'Tijera, peine, aceite, cepillo de limpieza' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2024-10-15', text: 'Super fácil de usar. Mi hija lo maneja cantando.', useful: 0 },
+      { rating: 1, country: 'Argentina', date: '2021-09-30', text: 'Lo probé por primera vez para cortarle el pelo a mi hijo. No corta, ni siquiera sin el peine accesorio.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Philco HC9902PN sirve para uso profesional de peluquería?', answer: 'Las reseñas están divididas en ese uso: varios compradores domésticos están conformes, pero algunas reseñas de uso profesional reportan que no corta parejo. Con 3.7 estrellas la calificación es algo baja.' },
+      { question: '¿Cuántos peines guía trae?', answer: '12, según su ficha técnica, la mayor variedad entre las cortadoras de esta comparativa.' },
+    ],
+    relatedProducts: ['MLA16142518', 'MLA21820129'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Philco HC9902PN',
+      description: 'Cortadora de pelo Philco HC9902PN, 12 peines guía, motor 10W, con cable.',
+      brand: { '@type': 'Brand', name: 'Philco' },
+      model: 'HC9902PN',
+      sku: 'MLA17922390',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_855149-MLA95110289196_102025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA17922390',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '139999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '3.7',
+        reviewCount: '251',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA16142518',
+    title: 'Cortadora de pelo Philco HC9901PN blanca',
+    canonicalName: 'Philco HC9901PN',
+    brand: 'Philco',
+    price: 27000,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_930849-MLA99562193900_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_930849-MLA99562193900_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_628094-MLA79685129555_102024-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA16142518',
+    affiliateUrl: 'PEGAR_MELI_LA',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.1,
+    reviewCount: 89,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'deprioritized',
+    description: 'Motor magnético, 4 peines guía, con cable. Simple, silenciosa y con buena calificación para el precio.',
+    seoTitle: 'Philco HC9901PN: la cortadora de pelo más económica',
+    metaDescription: 'Philco HC9901PN a $27.000: motor magnético, 4 peines guía, con cable. 89 opiniones y 4.1 estrellas, precio accesible.',
+    pros: [
+      'Precio accesible para lo que ofrece',
+      '4.1 estrellas, buena calificación para el precio',
+      'Motor magnético, corte parejo y silencioso según las reseñas',
+      'Marca argentina con sitio oficial (philco.com.ar)',
+    ],
+    cons: [
+      'Solo 4 peines guía, variedad limitada',
+      'Con cable, no apta para viaje según su ficha técnica',
+      'Algunas reseñas mencionan que calienta en cortes largos (+20 minutos)',
+    ],
+    verdict: 'La Philco HC9901PN es una opción económica y las reseñas la respaldan: corta bien, no tironea y es silenciosa. Con solo 4 peines guía y sin batería, es una opción básica pero honesta para uso doméstico.',
+    articleBody: `## La entrada de precio
+
+La Philco HC9901PN es la cortadora más económica de esta comparativa, con motor magnético y 4 peines guía (de 0.5 mm a 1.2 cm). Funciona con cable, con sitio oficial verificable en philco.com.ar.
+
+## Lo que dicen las reseñas
+
+Con 4.1 estrellas sobre 89 opiniones, la calificación es sólida para el precio. Los compradores destacan que corta bien y que no tironea, aunque algunas reseñas mencionan que se calienta en cortes de más de 20 minutos, algo esperable en un motor de esta gama.
+
+## Para quién sirve
+
+Para quien busca lo más barato sin resignar demasiado: alcanza para cortes domésticos ocasionales, aunque con solo 4 peines guía tiene menos variedad que otras cortadoras del catálogo.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Philco / HC9901PN' },
+      { label: 'Tipo de alimentación', value: 'Corriente eléctrica (con cable)' },
+      { label: 'Tipos de motor', value: 'Magnético' },
+      { label: 'Cantidad de peines', value: '4' },
+      { label: 'Altura de corte', value: '0.5 mm a 1.2 cm' },
+      { label: 'Material de las cuchillas', value: 'Acero inoxidable' },
+      { label: 'Potencia', value: '10 W' },
+      { label: 'Peso', value: '570 g' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2020-09-17', text: 'Buen producto corta, no tironea es bastante silencioso. Conforme con mi compra.', useful: 0 },
+      { rating: 4, country: 'Argentina', date: '2020-08-29', text: 'Está perfecto, corta muy bien. Lo único malo es que calentó bastante en un corte de unos 20 minutos. Está bien ya que es para uso doméstico como dice el manual.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿Cuántos peines guía trae la Philco HC9901PN?', answer: '4, según su ficha técnica: variedad limitada, pero suficiente para cortes domésticos básicos.' },
+      { question: '¿Es una opción económica?', answer: 'Sí, con $27.000 es una de las cortadoras más accesibles del catálogo de MercadoLibre en esta categoría.' },
+    ],
+    relatedProducts: ['MLA17922390', 'MLA19606324'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Philco HC9901PN',
+      description: 'Cortadora de pelo Philco HC9901PN, motor magnético, 4 peines guía, con cable.',
+      brand: { '@type': 'Brand', name: 'Philco' },
+      model: 'HC9901PN',
+      sku: 'MLA16142518',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_930849-MLA99562193900_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA16142518',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '27000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.1',
+        reviewCount: '89',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Silo cuidado-personal — cortadora-de-pelo — reemplazos de las 2 Philco
+  // (Philco HC9902PN y HC9901PN no generan link de afiliado, ver docs/seo-tracking-optimizaciones.md)
+  // ─────────────────────────────────────────────────────────
+  {
+    id: 'MLA24162945',
+    title: 'Maquina Cortar Pelo Inalámbrica Kemei KM-1951 Profesional Negro',
+    canonicalName: 'Kemei KM-1951',
+    brand: 'Kemei',
+    price: 24240,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_708698-MLA100045856509_122025-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_708698-MLA100045856509_122025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_657208-MLA91874052729_092025-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_913208-MLA91874081033_092025-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA24162945',
+    affiliateUrl: 'https://meli.la/2xVdH9C',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.9,
+    reviewCount: 21,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La más económica de la guía: inalámbrica, con batería recargable, 5 peines y cabezales lavables. La mejor calificación del catálogo, aunque con pocas opiniones todavía.',
+    seoTitle: 'Kemei KM-1951: la cortadora de pelo más económica de todas',
+    metaDescription: 'Kemei KM-1951 a $24.240: inalámbrica, 5 peines, cabezales lavables. 21 opiniones y 4.9 estrellas, la más barata de la guía.',
+    pros: [
+      'La más económica de la guía',
+      '4.9 estrellas, la mejor calificación del grupo',
+      'Inalámbrica, con batería recargable',
+      'Cabezales lavables, algo que no todas las económicas ofrecen',
+    ],
+    cons: [
+      'Solo 21 opiniones, la base más chica de la guía',
+      'No especifica potencia ni autonomía exacta en su ficha técnica',
+      'Sin pantalla ni indicador de batería',
+    ],
+    verdict: 'Si el presupuesto es la prioridad número uno, la Kemei KM-1951 es la entrada de esta guía: inalámbrica, cabezales lavables y la mejor calificación de todas, aunque con una base de opiniones todavía chica. Para cortes domésticos ocasionales o de mantenimiento, cumple sin sorpresas.',
+    articleBody: `## La entrada de precio, con buena nota
+
+La Kemei KM-1951 es la cortadora más económica de esta comparativa, a alrededor de $24.240. Es inalámbrica, con batería recargable, 5 peines guía y cabezales lavables bajo el agua, algo que no todas las opciones de este precio ofrecen.
+
+## Pocas opiniones, pero muy buenas
+
+Con 4.9 estrellas, es la mejor calificación de toda la guía, aunque la base de 21 opiniones es la más chica del grupo. Los compradores destacan que el corte es "sutil y práctico" y que la batería dura bastante para uso doméstico.
+
+## Para quién sirve
+
+Para quien busca lo más barato sin resignar demasiado: cabezales lavables e inalámbrica, algo poco común en esta franja de precio. Si el uso es frecuente o profesional, conviene una opción con más historial de opiniones, como la Remington o la Wahl de esta guía.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Kemei / KM-1951' },
+      { label: 'Tipo de alimentación', value: 'Batería recargable' },
+      { label: 'Es inalámbrica', value: 'Sí' },
+      { label: 'Cantidad de peines', value: '5' },
+      { label: 'Cabezales lavables', value: 'Sí' },
+      { label: 'Material de las aspas', value: 'Acero inoxidable' },
+      { label: 'Accesorios incluidos', value: 'Peine' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-03-21', text: 'Batería: a veces hasta me olvido de cargarla. Corte: sutil y práctico. Lo recomiendo.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2025-12-30', text: 'Muy buena para la pelu, me re sirvió.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Kemei KM-1951 es inalámbrica?', answer: 'Sí, según su ficha técnica funciona a batería recargable, sin necesidad de cable durante el corte.' },
+      { question: '¿Es la opción más barata de la guía?', answer: 'Sí, con $24.240 es la cortadora más económica de esta comparativa.' },
+    ],
+    relatedProducts: ['MLA21820129', 'MLA19606324'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Kemei KM-1951',
+      description: 'Cortadora de pelo Kemei KM-1951, inalámbrica, 5 peines guía, cabezales lavables.',
+      brand: { '@type': 'Brand', name: 'Kemei' },
+      model: 'KM-1951',
+      sku: 'MLA24162945',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_708698-MLA100045856509_122025-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA24162945',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '24240',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '21',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
+
+  {
+    id: 'MLA23131521',
+    title: 'Maquina Cortadora Pelo Dibujo Profesional Teknikpro Silver',
+    canonicalName: 'Teknikpro Silver',
+    brand: 'Teknikpro',
+    price: 89000,
+    priceUpdated: '2026-07-02',
+    priceLastChecked: '2026-07-02',
+    priceStatus: 'fresh',
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_963110-MLU79073740061_092024-F.jpg',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_963110-MLU79073740061_092024-F.jpg',
+      'https://http2.mlstatic.com/D_NQ_NP_711773-MLU79073740067_092024-F.jpg',
+    ],
+    category: 'Cuidado Personal',
+    categorySlug: 'belleza',
+    permalink: 'https://www.mercadolibre.com.ar/p/MLA23131521',
+    affiliateUrl: 'https://meli.la/2NNGV1D',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 19,
+    reviewsSampledAt: '2026-07-02',
+    pastelColor: 'var(--pastel-pink)',
+    visibility: 'normal',
+    description: 'La "multigroomer" de la guía: motor magnético/vibratorio, funciona con o sin cable, cuchilla especial para hacer dibujos en el corte. Para quien busca algo distinto al resto del catálogo.',
+    seoTitle: 'Teknikpro Silver: cortadora multigroomer con o sin cable',
+    metaDescription: 'Teknikpro Silver a $89.000: motor magnético/vibratorio, con o sin cable, cuchilla para dibujos. 19 opiniones y 4.4 estrellas.',
+    pros: [
+      'Funciona con o sin cable, según su ficha técnica',
+      'Cuchilla especial para hacer dibujos y diseños en el corte',
+      '4.4 estrellas, buena calificación',
+      'Superficies pulidas e indicador de carga de batería',
+    ],
+    cons: [
+      'Solo 5 peines guía',
+      'Marca sin sitio de fabricante rastreable en Argentina; specs sostenidas con ficha ML + reseñas',
+      'Una reseña menciona que las cuchillas de dibujo vienen poco afiladas',
+    ],
+    verdict: 'La Teknikpro Silver es la opción distinta de esta guía: funciona con o sin cable y trae una cuchilla especial para hacer dibujos y diseños en el corte, algo que ninguna otra de esta comparativa ofrece. Para cortes estándar cualquiera de las otras opciones rinde igual o mejor.',
+    articleBody: `## La multigroomer del catálogo
+
+La Teknikpro Silver se distingue por funcionar tanto con cable como sin él (según su ficha técnica), con un motor magnético/vibratorio y una cuchilla especial pensada para hacer dibujos y diseños en el corte. Es una marca sin sitio de fabricante rastreable en Argentina, así que esta ficha se sostiene con la ficha técnica de MercadoLibre y reseñas reales de compradores.
+
+## Lo que dicen las reseñas
+
+Con 4.4 estrellas sobre 19 opiniones, la calificación es buena. Una reseña menciona que las cuchillas de dibujo específicamente vienen poco afiladas de fábrica, aunque el resto de las opiniones son positivas sobre el uso general.
+
+## Para quién sirve
+
+Para quien quiere algo más que un corte estándar, con la posibilidad de hacer diseños. Si tu necesidad es solo cortar el pelo sin vueltas, otras opciones de esta guía (como la Remington o la Gadnic) cumplen a menor precio o con más historial de opiniones.`,
+    specs: [
+      { label: 'Marca / Modelo', value: 'Teknikpro / Silver Black' },
+      { label: 'Tipo de alimentación', value: 'Batería (funciona con o sin cable)' },
+      { label: 'Es inalámbrica', value: 'Sí' },
+      { label: 'Cantidad de peines', value: '5' },
+      { label: 'Tipos de motor', value: 'Magnético/Vibratorio' },
+      { label: 'Accesorios incluidos', value: 'Sí, según ficha técnica' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: '2026-05-02', text: 'Uso: precio calidad. Corte: excelente uso para barba pelo.', useful: 0 },
+      { rating: 5, country: 'Argentina', date: '2023-09-20', text: 'Si se queda sin batería la enchufás y seguís usando.', useful: 0 },
+    ],
+    faq: [
+      { question: '¿La Teknikpro Silver funciona sin cable?', answer: 'Sí, según su ficha técnica funciona tanto conectada como a batería, y se puede seguir usando enchufada si se queda sin carga.' },
+      { question: '¿Para qué sirve la cuchilla de dibujo?', answer: 'Es una cuchilla especial incluida para hacer diseños y dibujos en el corte, además de cortar el pelo de forma estándar con los 5 peines guía.' },
+    ],
+    relatedProducts: ['MLA24162945', 'MLA22272888'],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Teknikpro Silver',
+      description: 'Cortadora de pelo Teknikpro Silver, funciona con o sin cable, cuchilla para dibujos, 5 peines guía.',
+      brand: { '@type': 'Brand', name: 'Teknikpro' },
+      model: 'Silver Black',
+      sku: 'MLA23131521',
+      category: 'Cortadoras de pelo',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_963110-MLU79073740061_092024-F.jpg',
+      url: 'https://productosvirales.com.ar/producto/MLA23131521',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '89000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.4',
+        reviewCount: '19',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
