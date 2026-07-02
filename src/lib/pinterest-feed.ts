@@ -59,7 +59,14 @@ function clamp(text: string, max: number): string {
   return (lastSpace > max * 0.6 ? cut.slice(0, lastSpace) : cut).replace(/[\s\-–—]+$/, "");
 }
 
-// Solo Pinterest acepta media URL que termine en jpg/jpeg/png/mp4.
+// Pinterest solo acepta media URL que termine en jpg/jpeg/png/mp4 (rechaza
+// webp). MercadoLibre sirve la MISMA imagen en jpg cambiando la extensión, así
+// que normalizamos los .webp de mlstatic a .jpg y no perdemos esos Pins.
+function normalizeMedia(url: string | undefined): string | undefined {
+  if (!url) return url;
+  return url.replace(/\.webp(\?|$)/i, ".jpg$1");
+}
+
 function usableMedia(url: string | undefined): url is string {
   return !!url && /\.(jpe?g|png|mp4)(\?|$)/i.test(url);
 }
@@ -71,11 +78,12 @@ export function buildPins({ tipo, categoria, board }: FeedOptions = {}): Pin[] {
   if (tipo !== "guias") {
     for (const p of getVisibleProducts()) {
       if (categoria && p.categorySlug !== categoria) continue;
-      if (!usableMedia(p.image)) continue;
+      const media = normalizeMedia(p.image);
+      if (!usableMedia(media)) continue;
       const cat = categoryName.get(p.categorySlug) || p.category;
       pins.push({
         title: clamp(p.title, MAX_TITLE),
-        media: p.image,
+        media,
         board: board || cat,
         description: clamp(p.description || p.title, MAX_DESC),
         link: `${SITE_URL}${productHref(p)}`,
@@ -87,11 +95,12 @@ export function buildPins({ tipo, categoria, board }: FeedOptions = {}): Pin[] {
   if (tipo !== "productos") {
     for (const g of getPublishedGuides()) {
       if (categoria && g.category !== categoria) continue;
-      if (!usableMedia(g.ogImage)) continue;
+      const media = normalizeMedia(g.ogImage);
+      if (!usableMedia(media)) continue;
       const cat = categoryName.get(g.category) || g.category;
       pins.push({
         title: clamp(g.h1 || g.title, MAX_TITLE),
-        media: g.ogImage,
+        media,
         board: board || cat,
         description: clamp(g.standfirst || g.metaDescription, MAX_DESC),
         link: `${SITE_URL}${guideHref(g)}`,
