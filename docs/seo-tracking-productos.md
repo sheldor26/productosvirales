@@ -61,6 +61,52 @@ Medir una vez publicadas + crawleadas.
 
 ---
 
+## Monitores gaming (STAGED, sin publicar — enriquecidos 2026-07-03/04)
+
+Las 7 fichas de monitores importadas de ML en jul 2026 estaban **peladas** (solo specs cortas + description, sin seoTitle/verdict/pros/cons/articleBody/faq/customerReviews). Se llevaron al estándar de oro de `/producto/` producto por producto, con la skill `optimizador-productos-pv`.
+
+**Bloqueo de API encontrado en el camino:** la API oficial de ML dejó de funcionar por completo durante esta sesión (401 `access not granted by applications` en todo, incluso endpoints públicos) — la app quedó **bloqueada** por MercadoLibre (hipótesis: `INTEGRATORS_DATA_INFRACTION`, ticket de soporte ODDS-20643 abierto, ver memoria `ml-api-401-access-not-granted`). Esto tumbó también `prices:check`/`update`. Se resolvió el enriquecido igual: specs y rating/reviewCount ya cargados (frescos, del 02-jul) + verificación de specs contra la página oficial del fabricante por web (Samsung, Noblex, Philips, Xiaomi, Gigabyte) + **reseñas reales pegadas a mano por Juan** desde MercadoLibre para cada uno de los 7 (a diferencia del silo gaming de sillas/teclados/auriculares, que no tuvo "Voz del comprador" por el bloqueo de la API de opiniones; acá sí hay reseñas reales citadas).
+
+Hallazgos de honestidad por ficha (marketing vs. realidad, cruzado contra reseñas + fabricante):
+
+| Ficha (id ML) | Modelo | Hallazgo principal |
+| :-- | :-- | :-- |
+| MLA63267892 | Samsung Odyssey G3 G30D 24 180Hz | Viene en 60Hz de fábrica, hay que activar los 180Hz desde el menú del monitor (no Windows); panel VA, no todas las unidades traen cable HDMI |
+| MLA43961816 | Samsung Odyssey CRG5 24 Curvo 144Hz | La ficha declara VESA 75x75; ≥5 reseñas independientes confirman que **no** trae los agujeros de fábrica. Ghosting real a 144Hz en oscuros, mitigable a 120Hz |
+| MLA45717120 | Noblex NXSM2700 27 IPS 100Hz | Único panel IPS de la selección; la versión actual trae **2 HDMI** (no 1 como en algunas fichas); sin G-Sync/FreeSync Premium |
+| MLA43960948 | Philips 241V8L 24 FHD | El más vendido del catálogo (2.468 calificaciones); honesto: **no sirve para gaming** (ghosting, contraste débil confirmado por review de 50 útiles); "75Hz" real ronda 74Hz sobre panel nativo de 60Hz |
+| MLA45717136 | Noblex NXSM2200 22 100Hz | Mismo truco del 60Hz de fábrica; el modo "1ms real" oscurece tanto la pantalla que casi nadie lo usa (confirmado por reseña); pie se inclina pero es fácil de romper si se ajusta con la pantalla montada |
+| MLA43960827 | Samsung Odyssey G5 27 QHD 165Hz | Pocas opiniones (26, declarado de frente en la ficha); mismo patrón de cable HDMI no incluido pese a figurar en la publicación |
+| MLA43960787 | Xiaomi G34WQi 34 Ultrawide 180Hz | La publicación dice panel **IPS**; es VA, confirmado por el fabricante y por reseñas independientes de Argentina, México y Colombia |
+| MLA28853185 | Gigabyte GS34WQC 34 Ultrawide | Mejor puntaje de los 7 (4.9); HDR "Ready" no certificado, reseñas lo confirman como básico; ángulos de visión limitados típicos de VA |
+
+Precio/rating/reviewCount actualizados a lo más fresco disponible (specs de fabricante + reseñas pegadas por Juan el 2026-07-03/04; reviewCount de algunos productos difiere del que trajo la API en jul porque se tomó el número visto en vivo en ML al momento de pegar las reseñas). Sin baseline GSC (nunca estuvieron en vivo).
+
+Medir una vez publicadas + crawleadas.
+
+---
+
+## Mouse gamer (STAGED, sin publicar — enriquecidos 2026-07-04)
+
+Las 6 fichas de mouse gamer importadas de ML en jul 2026 estaban **peladas** (mismo patrón que los monitores: solo specs cortas + description, sin seoTitle/verdict/pros/cons/articleBody/faq/customerReviews). Mismo método que los monitores: API de ML seguía bloqueada (ver [[ml-api-401-access-not-granted]]), así que specs/rating/reviewCount ya cargados + verificación de specs contra la página oficial del fabricante (Logitech G, Redragon) + **reseñas reales pegadas a mano por Juan** desde MercadoLibre para cada uno de los 6.
+
+Hallazgos de honestidad / técnicos por ficha:
+
+| Ficha (id ML) | Modelo | Hallazgo principal |
+| :-- | :-- | :-- |
+| MLA44849297 | Logitech G203 Lightsync | El más vendido del catálogo (52.576 calificaciones); preocupación recurrente por falsificaciones (cajas con sellos rotos, mayoría confirma original vía G HUB); switches Omron de 10M clics (vs 50M de gama alta) |
+| MLA11259955 | Logitech G305 Lightspeed | Viene en modo ahorro de fábrica (125Hz de polling, no 1.000Hz) hasta que se cambia en G HUB; receptor Lightspeed propietario, sin reposición oficial si se rompe |
+| MLA17743447 | Redragon Centrophorus M601 RGB | El más barato del catálogo; reseña técnica confirma que el sensor Pixart 3317 pierde precisión con DPI bajo y movimientos rápidos/bruscos, no recomendado para competitivo exigente |
+| MLA40568693 | Logitech G309 Lightspeed | Sucesor directo del G305: resuelve el problema de doble clic que ese modelo desarrolla a los 3-4 años, pero la batería dura bastante menos (~1 mes intensivo vs 3 del G305) |
+| MLA14428767 | Logitech G Pro Wireless | Mismo sensor HERO 25K que el PRO X Superlight 2 (10g más pesado, teflón común); de 7 ranuras de botones laterales, el software solo reconoce 5 simultáneas |
+| MLA28598537 | Logitech PRO X Superlight 2 | Tope de gama (60g); el modo 8.000Hz de polling baja la batería a ~20h (vs 95h estándar); varias reseñas de distintos países cuestionan si el precio se justifica |
+
+Precio/rating/reviewCount actualizados a lo más fresco disponible (mismo criterio que monitores: número visto en vivo en ML al pegar las reseñas, no el de la API). Sin baseline GSC (nunca estuvieron en vivo).
+
+Medir una vez publicadas + crawleadas.
+
+---
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

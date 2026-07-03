@@ -13,6 +13,7 @@ export const curatedProducts: Product[] = [
     id: "MLA63267892",
     title: "Monitor Samsung Odyssey G3 G30D 24 FHD 180Hz Plano Negro",
     canonicalName: "Monitor Samsung Odyssey G3 G30D 24 180Hz",
+    brand: "Samsung",
     price: 244361,
     originalPrice: 379999,
     currency: "ARS",
@@ -29,16 +30,120 @@ export const curatedProducts: Product[] = [
     freeShipping: true,
     rating: 5,
     reviewCount: 108,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-verde)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "24 pulgadas, panel VA plano, Full HD" },
-      { label: "Frecuencia", value: "180 Hz (viene en 60 Hz de fábrica: activalos en el menú)" },
-      { label: "Respuesta", value: "1 ms MPRT, FreeSync, HDR10" },
-      { label: "Puertos", value: "HDMI 2.0 + DisplayPort 1.4" },
-      { label: "Ergonomía", value: "Altura regulable, rota vertical, VESA 100x100" },
-      { label: "Marca", value: "Samsung" },
+    seoTitle: "Samsung Odyssey G30D 24: 180Hz reales, ¿cómo activarlos?",
+    metaDescription: "Monitor Samsung Odyssey G30D 24 FHD 180Hz: panel VA, HDR10 y pie con altura regulable. Viene en 60Hz de fábrica, cómo activar los 180 explicado acá.",
+    ogTitle: "Samsung Odyssey G30D 24: 180Hz reales por $244.361 (con el truco para activarlos)",
+    ogDescription: "108 calificaciones, 5 estrellas. Pie con altura y rotación vertical, algo raro en este precio. Pero ojo: no arranca en 180Hz, hay que activarlos a mano.",
+    h1: "Monitor Samsung Odyssey G3 G30D 24 pulgadas FHD 180Hz: hay que activarlo bien",
+    pros: [
+      "108 calificaciones con 5 estrellas, varias de compradores de la Tienda Oficial Samsung",
+      "180 Hz reales confirmados por compradores que vienen de 60 o 75 Hz: \"es una barbaridad\"",
+      "Pie con altura regulable (±120 mm) y rotación vertical (pivot -2° a 92°): ergonomía poco común en este precio",
+      "HDR10 integrado y Eye Saver Mode (filtro de luz azul) para sesiones largas",
+      "Construcción sólida y fácil de armar, según las reseñas",
+      "35% de descuento sobre el precio de lista ($379.999 a $244.361)",
     ],
+    cons: [
+      "Viene configurado en 60 Hz de fábrica: los 180 Hz se activan desde el menú del propio monitor (botón tipo joystick), no desde Windows. Varias reseñas lo confirman, pero es un paso extra que la publicación no aclara del todo",
+      "Panel VA, no IPS: una reseña de la Tienda Oficial Samsung avisa que \"la calidad de imagen deja algo que desear\" frente a monitores IPS del mismo rango, aunque igual lo recomienda para gaming",
+      "No todas las unidades traen cable HDMI en la caja, solo el de DisplayPort: revisá qué entrada tiene tu placa antes de comprar",
+      "FreeSync simple, sin certificación oficial G-Sync (aunque un comprador con placa Nvidia reporta buena sincronización igual)",
+      "Solo 1 puerto HDMI y 1 DisplayPort, sin hub USB: puede quedar corto para setups con varios dispositivos",
+    ],
+    verdict: "A $244.361 (35% off), es de los 180 Hz reales más baratos del catálogo: ergonomía completa (altura, giro, vertical) y HDR10 en un panel VA sólido. Compra con los ojos abiertos: hay que activar los 180 Hz a mano desde el menú del monitor, y no todas las cajas traen cable HDMI.",
+    articleBody: `## Qué es el Samsung Odyssey G3 G30D
+
+El G30D es la entrada de Samsung a los 180 Hz: un panel VA plano de 24 pulgadas, Full HD, con HDR10, FreeSync y un pie con ajuste de altura y rotación vertical, algo que casi ningún monitor de este precio ofrece. Cuesta $244.361 (35% menos que el precio de lista de $379.999) y junta 108 calificaciones de 5 estrellas en MercadoLibre Argentina.
+
+## El truco de los 180 Hz, confirmado por compradores
+
+La queja que más se repite no es del monitor, es del arranque: viene configurado en 60 Hz de fábrica, y Windows no alcanza para subirlo. Hay que entrar al menú del propio monitor con el botón tipo joystick que tiene debajo de la pantalla. Un comprador lo resume así: "no te dejará cambiarlo en la configuración de Windows, vas a tener que meterte a la config del monitor con el botón central". Otro, más simple: "hay que subirle los Hz desde el botón que tiene debajo como un joystick". Una vez activado, el salto se nota: "pasé de un 60Hz que ahora uso como secundario a este de 180Hz y es una barbaridad".
+
+## Panel VA: la única letra chica real
+
+Una reseña de un comprador de la Tienda Oficial Samsung es la más honesta del lote: "el producto en sí tiene muchos pro comparado al modelo LF 22/24 (por valor tan similar que manejan). Analicen bien la compra ya que si buscan calidad de imagen, deja algo que desear por su panel VA. Aunque dejando eso de lado, recomiendo sin dudas para gaming". Es la aclaración justa: para juego rápido el VA rinde bien, pero si el uso es mitad diseño o edición de foto/video con exigencia de color, un IPS como el Noblex NXSM2700 de la comparativa rinde mejor.
+
+## HDR10, vertical y ergonomía real
+
+El pie ajusta altura (±120 mm), inclinación, giro y rota hasta modo vertical (confirmado por una reseña: "se puede poner vertical"), algo que la mayoría de los monitores de esta gama resuelve con un pie fijo que solo inclina. Suma HDR10 integrado y el Eye Saver Mode de Samsung, el filtro de luz azul para sesiones largas. Un comprador que edita desde casa lo destaca para trabajo, no solo gaming: "trabajo desde casa editando y es una locura, excelente compra".
+
+## Qué trae la caja (y qué no)
+
+Dos reseñas coinciden en el mismo punto: no todas las unidades traen cable HDMI, solo el de DisplayPort. Si tu placa de video solo tiene salida HDMI, sumale ese cable a la compra. El resto del combo es completo: entrada para auriculares, adaptador externo de 25 W máximo y el pie ya armado, fácil de montar según varias reseñas.
+
+## Contra el Samsung CRG5 curvo y el Noblex NXSM2700 IPS
+
+Dentro de la misma marca, el [Samsung Odyssey CRG5 24 Curvo 144Hz](/producto/MLA43961816) ($365.999) es la opción curva: panel VA 1800R, pero 144 Hz reales (no 180), respuesta de 4 ms GtG y un pie que solo inclina, sin altura regulable. Si la curva y el mayor tamaño de imagen te importan más que los Hz, el CRG5 es la jugada; si preferís plano, más Hz y mejor ergonomía por menos plata, el G30D gana.
+
+Si lo que buscás es mejor calidad de imagen para trabajo mixto, el [Noblex NXSM2700 27 IPS 100Hz](/producto/MLA45717120) ($223.199) cambia panel VA por IPS y suma 3 pulgadas más, a cambio de bajar de 180 a 100 Hz. Para gaming competitivo puro, el G30D sigue siendo la opción de más Hz por menos plata.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: jugás competitivo y priorizás Hz por sobre todo, valorás poder ajustar altura y usar el monitor en vertical (segunda pantalla para código o redes), y no te molesta activar los 180 Hz una sola vez desde el menú. No es para vos si: tu prioridad es la calidad de color para diseño o edición fina (ahí el Noblex IPS rinde mejor), o si tu placa solo tiene HDMI y preferís no andar comprando cables extra.
+
+A $244.361 con 5 estrellas en 108 calificaciones, es de los 180 Hz reales más accesibles del catálogo, con una ergonomía que monitores más caros no ofrecen.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Samsung" },
+      { label: "Modelo", value: "G30D (línea Odyssey G3)" },
+      { label: "Pantalla", value: "24 pulgadas, panel VA plano, Full HD (1920x1080)" },
+      { label: "Frecuencia", value: "180 Hz máx. (viene en 60 Hz de fábrica: activalos desde el menú del monitor, no desde Windows)" },
+      { label: "Tiempo de respuesta", value: "1 ms (MPRT)" },
+      { label: "Brillo / Contraste", value: "250 cd/m² (mín. 200), 3.000:1 típico" },
+      { label: "Gama de color", value: "95% sRGB, 16,7 M de colores" },
+      { label: "Ángulos de visión", value: "178° horizontal / 178° vertical" },
+      { label: "HDR", value: "HDR10" },
+      { label: "Sincronización", value: "AMD FreeSync (sin certificación G-Sync oficial)" },
+      { label: "Puertos", value: "1x DisplayPort 1.4 (HDCP 1.3) + 1x HDMI 2.0 (HDCP 1.4), entrada para auriculares, sin hub USB" },
+      { label: "Ergonomía", value: "Altura ±120 mm, inclinación -5° a 20°, giro ±15°, rotación vertical -2° a 92°, VESA 100x100" },
+      { label: "Dimensiones con pie", value: "54,4 x 49,9 x 23,4 cm" },
+      { label: "Peso", value: "3,9 kg con pie / 2,4 kg sin pie" },
+      { label: "Consumo", value: "Máx. 25 W, adaptador externo" },
+      { label: "Extras", value: "Eye Saver Mode (filtro de luz azul), Flicker-Free certificado TÜV, Black Equalizer" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Por qué mi monitor no llega a los 180 Hz?", answer: "Viene configurado en 60 Hz de fábrica y Windows solo no alcanza para subirlo. Hay que entrar al menú del propio monitor con el botón tipo joystick que tiene debajo de la pantalla y activar los 180 Hz ahí. Varios compradores lo confirman: una vez activado, el salto es notorio." },
+      { question: "¿Tiene panel IPS o VA?", answer: "VA. Una reseña de la Tienda Oficial Samsung lo aclara sin vueltas: la calidad de imagen \"deja algo que desear\" frente a un IPS del mismo rango, aunque lo sigue recomendando para gaming. Si priorizás color y ángulos de visión para diseño o edición, el Noblex NXSM2700 (IPS) rinde mejor." },
+      { question: "¿Se puede usar en vertical?", answer: "Sí. El pie rota de -2° a 92° (pivot), y una reseña lo confirma en una sola línea: \"se puede poner vertical\". Además ajusta altura ±120 mm, algo que la mayoría de los monitores de este precio no ofrece." },
+      { question: "¿Tiene HDR?", answer: "Sí, HDR10 integrado. Sumado al Eye Saver Mode (filtro de luz azul) y certificación Flicker-Free de TÜV para sesiones largas frente a la pantalla." },
+      { question: "¿Trae cable HDMI en la caja?", answer: "No siempre. Dos reseñas señalan que la unidad les llegó solo con cable DisplayPort, sin el de HDMI. Si tu placa de video solo tiene salida HDMI, conviene sumar ese cable a la compra." },
+      { question: "¿Es compatible con G-Sync de Nvidia?", answer: "Está certificado oficialmente para AMD FreeSync, no para G-Sync. Un comprador con placa Nvidia reporta buena sincronización igual, pero no es una certificación oficial de Samsung: no lo des por garantizado si tu prioridad es el G-Sync certificado." },
+      { question: "¿Cuánto consume?", answer: "Máximo 25 W, con adaptador externo. Es un consumo bajo, típico de un panel VA de 24 pulgadas sin retroiluminación agresiva." },
+      { question: "¿Conviene este o el Samsung Odyssey CRG5 curvo?", answer: "El G30D ($244.361) da más Hz (180 vs 144), mejor ergonomía (altura regulable, el CRG5 solo inclina) y cuesta menos. El CRG5 ($365.999) suma la curva 1800R y 1 ms MPRT. Si los Hz y el ajuste de altura pesan más que la curva, el G30D gana." },
+      { question: "¿Conviene este o el Noblex NXSM2700 IPS?", answer: "Depende del uso: el G30D da más Hz (180 vs 100) en un panel VA de 24\", ideal para gaming competitivo. El Noblex ($223.199) es IPS de 27\", con mejor color y ángulos de visión, mejor para uso mixto con trabajo o diseño." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "abril 2026", useful: 3, text: "Diez de diez, lo tengo hace una semana y no me ha dado ningún fallo, la calidad es impresionante, pasé de un 60hz que ahora uso como secundario a este de 180hz y es una barbaridad, cualquier juego que estés jugando se va a ver de diez. Yo no uso el hdr, pero si te gusta, trae la función integrada en el monitor. Y si lo compraste, te va a venir por defecto en 60hz y no te dejará cambiarlo en la configuración de Windows, vas a tener que meterte a la config del monitor con el botón central. Excelente producto." },
+      { rating: 5, country: "Argentina", date: "abril 2026", useful: 1, text: "El producto en si, tiene muchos pro comparado al modelo lf 22/24\" (por valor tan similar que manejan). Analicen bien la compra ya que si buscan calidad de imagen, deja algo que desear por su panel va. Aunque dejando eso de lado, recomiendo sin dudas para gaming. Es cuestion de gustos y de acostumbrar el ojo." },
+      { rating: 5, country: "Argentina", date: "marzo 2026", useful: 1, text: "Es muy buen producto me sorprendió que tiene entrada para auriculares, lo unico a obserbar es que no trae cable hdmi, si trae cable display port." },
+      { rating: 5, country: "Argentina", date: "junio 2026", useful: 1, text: "El monitor es una locura. Le tuve que encontrar la vuelta para configurarle los 180hz pero no es mucho drama, se puede. No es como los monitores de otras marcas buenas que se ve todo negro o parece invertirse el color cuando lo miras desde un ángulo. Eso sumado al g-sync que tiene para placas de nvidia, que hace que se sincronicen los fps que produce la placa con los hz del monitor. Puedo jugar tranquilo al geometry dash y al rocket league porque se ve perfecto." },
+    ],
+    aiReviewSummary: "Las reseñas argentinas coinciden en calidad de imagen a 180 Hz, buena construcción y armado fácil. El punto que más se repite es el truco de activación: viene en 60 Hz de fábrica y hay que subir los Hz desde el botón tipo joystick del propio monitor, no desde Windows. Una reseña de la Tienda Oficial Samsung avisa con honestidad que el panel VA \"deja algo que desear\" en calidad de imagen frente a un IPS, aunque igual lo recomienda para gaming. Otro dato real: no todas las cajas traen cable HDMI, algunas solo el de DisplayPort.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Samsung Odyssey G3 G30D 24 FHD 180Hz",
+      image: "https://http2.mlstatic.com/D_NQ_NP_651661-MLA101215783396_122025-F.jpg",
+      description: "Monitor gamer Samsung Odyssey G3 G30D de 24 pulgadas: panel VA Full HD a 180 Hz, 1 ms MPRT, HDR10, FreeSync y pie con altura regulable y rotación vertical. 5 estrellas con 108 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Samsung" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2NmTqzr",
+        priceCurrency: "ARS",
+        price: 244361,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5",
+        reviewCount: "108",
+      },
+    },
     relatedProducts: ["MLA43961816", "MLA45717120"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -49,6 +154,7 @@ export const curatedProducts: Product[] = [
     id: "MLA43961816",
     title: "Monitor Samsung Odyssey CRG5 24 Curvo 144Hz Negro",
     canonicalName: "Monitor Samsung Odyssey CRG5 24 Curvo 144Hz",
+    brand: "Samsung",
     price: 365999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_648738-MLA99593277644_122025-F.jpg",
@@ -63,17 +169,118 @@ export const curatedProducts: Product[] = [
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 1557,
+    reviewCount: 1502,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "24 pulgadas, panel VA curvo (1800R), Full HD" },
-      { label: "Frecuencia", value: "144 Hz (asegurados por DisplayPort)" },
-      { label: "Respuesta", value: "4 ms GtG, FreeSync" },
-      { label: "Puertos", value: "2x HDMI 1.4 + DisplayPort 1.2" },
-      { label: "Soporte", value: "VESA 75x75; el pie solo inclina (sin altura)" },
-      { label: "Marca", value: "Samsung" },
+    seoTitle: "Samsung Odyssey CRG5 24 curvo: el más vendido, ¿tiene VESA?",
+    metaDescription: "Monitor Samsung Odyssey CRG5 24 curvo 144Hz: el gamer más vendido de Argentina con 4.8★ en 1.502 calificaciones. La ficha dice VESA 75x75, los compradores dicen que no. Lo aclaramos acá.",
+    ogTitle: "Samsung Odyssey CRG5 24 curvo: el monitor gamer más vendido de Argentina (con un dato que la ficha no dice)",
+    ogDescription: "1.502 calificaciones, 4.8★. Salto real a 144Hz curvo. Pero la ficha técnica dice VESA 75x75 y los compradores reales dicen que no hay agujeros. Todo el detalle acá.",
+    h1: "Monitor Samsung Odyssey CRG5 24 pulgadas curvo 144Hz: el más vendido, con un dato que la ficha calla",
+    pros: [
+      "4.8⭐ en 1.502 calificaciones: el monitor gaming más comprado y probado del catálogo",
+      "Salto real a 144Hz confirmado en cientos de reseñas: \"inexplicable la primera vez que ves los 144hz y los colores\"",
+      "Corre 144Hz hasta con gráficas integradas modestas (Vega 11 confirmado en reseñas) para juegos como Valorant",
+      "Trae cable HDMI que sostiene los 144Hz sin gastar en cables aparte",
+      "Menú intuitivo para personalizar imagen y color, fácil de armar según las reseñas",
+      "Precio agresivo para lo que ofrece: \"lo mejorcito que se consigue\" en su rango, según compradores",
     ],
+    cons: [
+      "La ficha técnica declara soporte VESA 75x75, pero varias reseñas reales confirman que las unidades NO traen los agujeros VESA de fábrica: para un brazo o soporte de pared hace falta conseguir (o imprimir en 3D) un adaptador aparte",
+      "Pie fijo: solo inclina, no regula altura ni gira, y varias reseñas se quejan de que es poco firme",
+      "Panel VA, no IPS: una reseña de 4 estrellas lo resume bien, \"si tuvieron un monitor IPS seguramente no estén muy convencidos con los negros de éste\", con algo de sangrado de luz en los bordes",
+      "Ghosting real a 144Hz en colores oscuros según varias reseñas (bajar a 120Hz y el brillo lo reduce bastante, y muchos compradores directamente no lo notan)",
+      "No es la mejor opción para edición de video de detalle fino: una reseña lo aclara sin vueltas, para eso conviene otro modelo",
+    ],
+    verdict: "A $365.999 con 4.8 estrellas en 1.502 calificaciones, es el monitor gaming más comprado y probado del catálogo: salto real a 144Hz, panel curvo cómodo y hasta gráficas integradas lo sostienen. Ojo con dos cosas que la ficha técnica no aclara bien: no viene con agujeros VESA de fábrica pese a lo que dice la publicación, y el pie solo inclina, sin altura.",
+    articleBody: `## El monitor gaming más vendido del catálogo
+
+El Samsung Odyssey CRG5 cuesta $365.999 y acumula 1.502 calificaciones con 4.8 estrellas, la publicación de monitores gaming con más ventas reales de Argentina dentro de este catálogo. Es un panel VA curvo (1800R) de 24 pulgadas, Full HD, a 144 Hz con 4 ms GtG y FreeSync. La cantidad de reseñas (453 con comentario escrito) lo vuelve el modelo con más data real disponible de los siete monitores de esta selección.
+
+## El salto de 60 a 144 Hz, contado por compradores
+
+El patrón se repite en decenas de reseñas: vienen de un monitor de 60 Hz y describen el cambio como algo notable. Una compra detallada del 2022 (a $64.000 en ese momento) lo resume con honestidad: "el monitor para el precio que es lo vale, no es 10/10 pero tranquilamente es 8/10. Fácil de armar... no noté ghosting así que debe ser diminuto si lo hay, y los colores son buenos pero hay que personalizarlo para sacarle provecho (es cuestión de tocar el menú del monitor, y tranquilos que es muy intuitivo)". Otro comprador con placa integrada Vega 11 confirma que corre 144 Hz sin problema en Valorant, aunque avisa: "no se olviden en configuración avanzada de pantalla activar la cantidad de Hz que quieran, porque en default tenía en 60".
+
+## El ghosting: la crítica más repetida, con matices
+
+Es el tema más debatido del panorama de opiniones. Una reseña de 4 estrellas, de las más completas del lote, lo explica bien: "tiene sangrado de luz en algunas zonas, pero en mi caso uso el monitor con el brillo en 0 y esto ayuda a mejorar los negros (tiene un ecualizador de negros que ayuda mucho)... el ghosting es real, está ahí, pero esto pasa solo en 144Hz y con ciertos tiempos de respuesta. Yo lo tengo a 120Hz, con brillo mínimo, y estoy muy conforme, no es perceptible". La mayoría de las reseñas de 5 estrellas, en cambio, dicen no notarlo en absoluto. Conclusión honesta: existe, es más visible en colores oscuros a los 144 Hz completos, y bajar a 120 Hz con brillo moderado lo reduce bastante.
+
+## El error de la ficha: dice VESA, los compradores dicen que no
+
+Acá está el dato que esta ficha corrige de verdad. La publicación declara soporte VESA 75x75, pero al menos cinco reseñas reales e independientes dicen lo contrario: "no cuenta con los agujeros para VESA, yo me compré un adaptador impreso en 3D porque es lo único que se consigue", "el único defecto es que no se le puede poner soporte", "no tiene soporte VESA (no se puede anclar a un soporte de monitor, y tampoco tiene altavoces incorporados)". Si tu plan es montarlo en un brazo articulado o colgarlo en la pared, no confíes en la ficha técnica: confirmá antes de comprar o buscá un adaptador de terceros.
+
+## Panel VA curvo: lo bueno y el límite
+
+La curva 1800R no estorba para nada según las reseñas ("ni se nota la curvatura", "no le tenía mucha fe al curvo, pero es excelente"), y hasta suma inmersión en shooters: "en shooters tipo Valorant te da una ventaja abismal, porque ves antes a los rivales". El límite real lo marca la misma reseña: "si sos muy detallista o querés usar el monitor para edición de videos quizás sí te convenga ir por otro modelo. Si solo lo querés para gaming, lo recomiendo 100%".
+
+## Contra el Samsung G30D plano y el Odyssey G5 27 QHD
+
+Frente al [Samsung Odyssey G3 G30D](/producto/MLA63267892) ($244.361), el CRG5 pierde en Hz (144 vs 180) y en ergonomía (el G30D ajusta altura y rota vertical, el CRG5 solo inclina), pero suma la curva y una base de reseñas mucho más grande para confiar en la compra. Si en cambio buscás el salto premium, el [Samsung Odyssey G5 27 QHD 165Hz](/producto/MLA43960827) ($554.413) da más pulgadas, más resolución (QHD) y HDR10, a más del doble de precio.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés el monitor gaming con más historial de compradores reales de la categoría, jugás shooters o competitivo y valorás el salto de Hz por sobre el ajuste fino de ergonomía, y no te importa resignar el montaje en brazo articulado. No es para vos si: necesitás montarlo en un soporte de pared o brazo (no trae los agujeros VESA pese a lo que dice la ficha), buscás altura regulable, o tu uso principal es edición de video con exigencia de color y detalle.
+
+A $365.999 con 4.8 estrellas en 1.502 calificaciones, sigue siendo la apuesta más segura del catálogo por volumen de gente que ya lo probó, siempre que sepas de antemano lo del VESA y lo del pie fijo.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Samsung" },
+      { label: "Modelo", value: "CRG5 (línea Odyssey, serie LC24RG5xx)" },
+      { label: "Pantalla", value: "23,5 pulgadas (24\" comercial), panel VA curvo 1800R, Full HD (1920x1080)" },
+      { label: "Frecuencia", value: "144 Hz máx." },
+      { label: "Tiempo de respuesta", value: "4 ms (GtG), no 1 ms pese a publicaciones que lo sugieren" },
+      { label: "Brillo / Contraste", value: "250 cd/m² típico, 3.000:1" },
+      { label: "HDR", value: "No trae HDR (a diferencia del G30D de la gama G3)" },
+      { label: "Sincronización", value: "AMD FreeSync" },
+      { label: "Puertos", value: "2x HDMI 1.4 + 1x DisplayPort 1.2. Trae cable HDMI (soporta 144Hz); el cable DisplayPort no siempre viene incluido" },
+      { label: "Soporte / VESA", value: "La ficha declara VESA 75x75, pero múltiples reseñas reales confirman que las unidades NO traen los agujeros de fábrica: hace falta adaptador aparte para brazo o pared" },
+      { label: "Ergonomía", value: "Pie fijo: solo inclina, sin ajuste de altura ni giro" },
+      { label: "Curvatura", value: "1800R" },
+      { label: "Parlantes", value: "No incluidos" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Se puede montar en un brazo articulado o soporte de pared (VESA)?", answer: "De fábrica, no: aunque la ficha técnica declara VESA 75x75, al menos cinco reseñas reales e independientes confirman que las unidades no traen los agujeros VESA. Una compradora se compró un adaptador impreso en 3D porque no encontró otra forma. Si necesitás montarlo, confirmá antes de comprar." },
+      { question: "¿Tiene ghosting?", answer: "Es la crítica más repetida del panorama, con matices reales: aparece sobre todo en colores oscuros a los 144 Hz completos. Bajarlo a 120 Hz con brillo moderado lo reduce bastante, según una reseña detallada de 4 estrellas. La mayoría de las reseñas de 5 estrellas dicen directamente no notarlo." },
+      { question: "¿Corre 144 Hz con cualquier PC?", answer: "Sí, incluso con gráficas integradas modestas: una reseña confirma que con una Vega 11 corre 144 Hz en Valorant sin drama. Ojo con un detalle: si Windows no lo detecta solo, hay que activar los 144 Hz a mano en la configuración avanzada de pantalla, porque por defecto puede quedar en 60." },
+      { question: "¿Trae cable HDMI o DisplayPort?", answer: "Trae cable HDMI capaz de sostener los 144 Hz sin comprar nada extra. El cable DisplayPort no siempre viene incluido, según reportan algunas reseñas." },
+      { question: "¿El pie regula altura?", answer: "No. El pie es fijo y solo inclina: no ajusta altura ni gira. Varias reseñas también señalan que la base es poco firme. Si la ergonomía es prioridad, el Samsung G30D plano sí regula altura y rota vertical." },
+      { question: "¿Tiene HDR?", answer: "No. A diferencia del Samsung Odyssey G3 G30D (que sí trae HDR10), el CRG5 no incluye HDR según sus especificaciones publicadas." },
+      { question: "¿Sirve para trabajar o editar video?", answer: "Para multitarea de oficina funciona bien (una reseña lo usa para comparar dos hojas de Word en simultáneo). Para edición de video con exigencia de detalle y color, una reseña honesta aconseja otro modelo: el panel VA curvo no es lo ideal para ese uso." },
+      { question: "¿Conviene este o el Samsung Odyssey G3 G30D?", answer: "El G30D ($244.361) da más Hz (180 vs 144) y mejor ergonomía (altura regulable y rotación vertical, el CRG5 solo inclina). El CRG5 ($365.999) suma la curva 1800R y una base de reseñas mucho más grande (1.502 vs 108). Para gaming puro con presupuesto ajustado, el G30D rinde más por menos; para confiar en el historial de compradores, el CRG5 gana." },
+      { question: "¿Conviene este o el Samsung Odyssey G5 27 QHD?", answer: "El G5 27\" ($554.413) es el salto premium: más pulgadas, resolución QHD (más nítida que Full HD), 165 Hz y HDR10, a más del doble de precio. Si el presupuesto no es problema y buscás más resolución, el G5 es la mejora real; si priorizás el precio y el historial de reseñas, el CRG5 sigue siendo la apuesta segura." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2022", useful: 73, text: "(lo compre un 10/10/22, para que dimensionen los precios y saquen cuentas con la inflación. Me salió 64 mil). El monitor para el precio que es lo vale, no es 10/10 pero tranquilamente es 8/10. Facil de armar y desarmarlo, no es que fue dificil sino duro xq se ensamblan bien sus piezas por lo que recomiendo que lo armen y lo dejen en el lugar que va a quedar para siempre. No note el ghosting asi que debe ser diminuto si lo hay y los colores son buenos pero hay que personalizarlo con el menu del monitor y tranquilos que es muy intuitivo. La desventaja es que no se le puede cambiar el soporte/base en caso de querer agregarle un brazo o algun artefacto para manipularlo." },
+      { rating: 5, country: "Argentina", date: "2023", useful: 35, text: "Pasar de un generico 60 hz a esto es una locura, inexplicable la primera vez que ves los 144 hz y los colores, en mi caso tengo una grafica integrada (vega 11) y se la banca para jugar valorant, viene con un cable hdmi groso que soporta los 144hz pero no se olviden en configuracion avanzada de pantalla activar la cantidad de hz's que quieran, porque en default tenia en 60 y casi me vuelvo loco por esa boludes." },
+      { rating: 5, country: "Argentina", date: "2023", useful: 29, text: "Pase de un monitor viejo de 60hz a este y se nota muchisimo la diferencia tanto en la calidad de la imagen como en el rendimiento en los juegos. En shooters tipo valorant te da una ventaja abismal, porque ves antes a los rivales. Si sos muy detallista o queres usar el monitor para edicion de videos quizas si te convenga ir por otro modelo. Si solo lo queres para gaming lo recomiendo 100%." },
+      { rating: 4, country: "Argentina", date: "2024", useful: 8, text: "Está perfecto por el precio, si tuvieron un monitor ips seguramente no estén muy convencidos con los negros de éste. Tiene sangrado de luz en algunas zonas, pero en mi caso yo uso el monitor con el brillo en 0 y esto ayuda a mejorar los negros (tiene también un ecualizador de negros que ayuda mucho). Respecto al ghosting, es real, está ahi y al menos para mí es muy evidente, pero esto pasa solo en 144hz y con ciertos tiempos de respuesta. Yo lo tengo a 120hz, con brillo mínimo, y estoy muy conforme, no es perceptible el ghosting. Por el precio es lo mejorcito que se consigue acá." },
+      { rating: 5, country: "Argentina", date: "2023", useful: 4, text: "Es excelente. El panel va es muy parecido al del ips de samsung. Nada que envidiar en ese sentido. Es una compra totalmente recomendable si no tenes pensado ponerlo en un soporte visa que no trae. Solo para escritorios." },
+      { rating: 4, country: "Argentina", date: "abril 2026", useful: 0, text: "El monitor llegó de 10 sin problemas. La pantalla tiene buena calidad pero el freesync no me funciona bien en 144 conectado por hdmi." },
+    ],
+    aiReviewSummary: "Con más de 450 reseñas escritas, el CRG5 es el monitor con más data real del catálogo. El tema más repetido es el ghosting: existe, es más visible en colores oscuros a los 144 Hz completos, y bajar a 120 Hz con brillo moderado lo reduce bastante para la mayoría. El hallazgo más importante para esta ficha: la publicación declara soporte VESA 75x75, pero al menos cinco reseñas reales e independientes confirman que las unidades no traen los agujeros de fábrica. También hay coincidencia en que el pie es fijo (solo inclina) y en que el panel VA queda atrás de un IPS en negros y sangrado de luz, aunque la mayoría igual lo recomienda sin dudar para gaming.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Samsung Odyssey CRG5 24 Curvo 144Hz",
+      image: "https://http2.mlstatic.com/D_NQ_NP_648738-MLA99593277644_122025-F.jpg",
+      description: "Monitor gamer Samsung Odyssey CRG5 de 24 pulgadas curvo (1800R): panel VA Full HD a 144 Hz, 4 ms GtG, FreeSync. 4.8 estrellas con 1.502 calificaciones en MercadoLibre Argentina. Ojo: la ficha declara VESA 75x75 pero las unidades no traen los agujeros de fábrica.",
+      brand: { "@type": "Brand", name: "Samsung" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/21rUoNn",
+        priceCurrency: "ARS",
+        price: 365999,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "1502",
+      },
+    },
     relatedProducts: ["MLA63267892", "MLA43960827"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -84,6 +291,7 @@ export const curatedProducts: Product[] = [
     id: "MLA45717120",
     title: "Monitor Noblex NXSM2700 27 IPS FHD 100Hz 1ms Antireflejo",
     canonicalName: "Monitor Noblex 27 IPS 100Hz NXSM2700",
+    brand: "Noblex",
     price: 223199,
     originalPrice: 255747,
     currency: "ARS",
@@ -100,16 +308,115 @@ export const curatedProducts: Product[] = [
     freeShipping: true,
     rating: 4.9,
     reviewCount: 739,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-verde)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "27 pulgadas, panel IPS (mejor color y ángulos), Full HD" },
-      { label: "Frecuencia", value: "100 Hz, Adaptive-Sync" },
-      { label: "Respuesta", value: "1 ms MPRT (4 ms GtG), antireflejo" },
-      { label: "Puertos", value: "HDMI + VGA (sin DisplayPort)" },
-      { label: "Soporte", value: "VESA sí, sin altura regulable" },
-      { label: "Marca", value: "Noblex" },
+    seoTitle: "Noblex NXSM2700 27 IPS 100Hz: el único IPS de la gama",
+    metaDescription: "Monitor Noblex NXSM2700 27 IPS 100Hz: 4.9★ en 739 calificaciones. Panel grande con brazo VESA, 2 HDMI reales y sin FreeSync Premium. La ficha honesta acá.",
+    ogTitle: "Noblex NXSM2700 27 IPS: el único panel IPS de la selección, con brazo VESA incluido",
+    ogDescription: "739 calificaciones, 4.9★. Colores y ángulos IPS, 100Hz y antireflejo. Pero sin G-Sync ni FreeSync Premium: para gaming casual y trabajo, no para competitivo exigente.",
+    h1: "Monitor Noblex NXSM2700 27 pulgadas IPS 100Hz: pantalla grande, color real",
+    pros: [
+      "4.9⭐ en 739 calificaciones: el mejor puntaje de toda la selección de monitores",
+      "Único panel IPS de la selección: mejor color y ángulos de visión que los VA de la competencia",
+      "Base VESA de fábrica, se puede sacar las patas y montarlo en un brazo (confirmado por reseñas, a diferencia del Samsung CRG5)",
+      "2 entradas HDMI reales (la versión actual, no 1 como figura en algunas fichas): permite alternar dos PCs o PC + consola",
+      "Antireflejo que las reseñas destacan como muy efectivo",
+      "100 Hz con 1 ms MPRT: fluido para gaming casual sin gastar en un panel VA más caro",
     ],
+    cons: [
+      "Sin G-Sync ni FreeSync Premium: solo Adaptive-Sync genérico, algo que una reseña técnica detallada marca como límite para \"gamers más exigentes\"",
+      "Full HD en 27 pulgadas: para edición de imagen o gaming profesional, una reseña avisa que \"la resolución podría quedarse algo corta\" frente a un panel 2K",
+      "Sin DisplayPort: solo HDMI y VGA",
+      "Al menos una reseña reporta un recuadro/sangrado de luz en una esquina que no se corrige por configuración",
+      "El botón trasero (joystick) se siente frágil según una reseña",
+      "Sin salida de audio dedicada según algunas reseñas: si necesitás audio, sumá parlantes o auriculares aparte",
+    ],
+    verdict: "A $223.199 (13% off) con el mejor puntaje de la selección (4.9⭐ en 739 calificaciones), es el único panel IPS del catálogo: mejor color y ángulos que los VA de Samsung, y con base VESA real para montar en brazo. El límite es claro: sin G-Sync ni FreeSync Premium, sirve para gaming casual y trabajo con pantalla grande, no para competitivo exigente.",
+    articleBody: `## El único IPS de la selección de monitores
+
+El Noblex NXSM2700 cuesta $223.199 (13% menos que el precio de lista de $255.747) y tiene el mejor puntaje de los siete monitores de esta selección: 4.9 estrellas en 739 calificaciones. Es un panel IPS de 27 pulgadas Full HD a 100 Hz con 1 ms MPRT y antireflejo, y a diferencia de los otros monitores Samsung de la gama (paneles VA), acá el color y los ángulos de visión son el diferencial real.
+
+## Pantalla grande, fácil de armar, con opción de brazo
+
+Una reseña detallada lo resume así: "el panel es muy grande y nunca sentís que te falta espacio, los colores son óptimos... el soporte es muy fácil de armar, todo encastrable y en menos de 10 minutos lo tenés, también está la opción de dejarlo sin las patitas y usar un brazo". Es un dato importante frente al Samsung CRG5 de esta misma selección, que según sus propias reseñas no trae los agujeros VESA pese a que la ficha lo promete: acá sí está confirmado. Eso sí, la misma reseña avisa que el pie de fábrica ocupa bastante lugar en el escritorio: "si tenés una mesa chica tendrías que pensar cómo acomodarlo".
+
+## La reseña técnica más completa: IPS sí, G-Sync no
+
+Una reseña de 14 votos útiles hace el análisis más ordenado del panorama: "con una pantalla Full HD y panel IPS, la calidad de imagen es nítida y con colores precisos, los ángulos de visión amplios aseguran que la imagen no se distorsione... sin embargo, para usuarios exigentes en edición de imagen o gaming profesional, la resolución podría quedarse algo corta en comparación con monitores 2K o 4K". Sobre la fluidez: "su frecuencia de 100 Hz y 1 ms MPRT lo hacen una excelente opción para gaming... sin embargo, no cuenta con tecnologías avanzadas como G-Sync o FreeSync Premium, lo que podría ser una desventaja para gamers más exigentes". Concluye: "un monitor equilibrado y accesible, ideal para trabajo, estudio, gaming casual y consumo de contenido multimedia" — no para competitivo de alto nivel.
+
+## Dos HDMI reales, no uno
+
+Varias reseñas recientes lo confirman: "la versión actual tiene dos HDMI y un VGA, así que de 10", y otra que lo usa para trabajo: "que tenga dos HDMI es sumamente útil porque puedo tener dos PC conectadas a la vez y simplemente alternar de HDMI". No trae DisplayPort (una reseña lo lamenta: "lastima que no tiene DP"), pero para uso mixto de PC + consola, las dos entradas HDMI resuelven bien.
+
+## Las críticas honestas: recuadro de luz, botón y audio
+
+No todo es perfecto. Una reseña de 4 estrellas señala "ese recuadro negro que se ve en la foto" en una esquina, algo que "no se corrige ni con configuración ni con cables". Otra menciona que el botón trasero tipo joystick "parece algo frágil y delicado". Y sobre el audio, las reseñas se contradicen un poco: alguna dice que el volumen integrado es bajo pero está, otra que directamente "le falta la salida aux para el audio". Si el sonido te importa, no confíes en el monitor: sumá parlantes o auriculares aparte.
+
+## Contra el Noblex NXSM2200 chico y el Samsung G30D
+
+Dentro de la misma marca, el [Noblex NXSM2200 22 100Hz](/producto/MLA45717136) ($141.899) es la versión chica: mismo espíritu de imagen honesta, pero con panel VA de 22 pulgadas en vez de IPS de 27. Si el presupuesto manda y no necesitás la pantalla grande, el NXSM2200 rinde más por menos. Frente al [Samsung Odyssey G3 G30D](/producto/MLA63267892) ($244.361), la pelea es Hz contra color: el G30D da 180 Hz reales en un panel VA de 24", el Noblex da mejor color e imagen en 27" IPS mientras se conforma con 100 Hz. Para shooters competitivos, el Samsung; para pantalla grande, trabajo y gaming casual, el Noblex.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés la pantalla más grande de la selección con el mejor color (diseño, estudio, trabajo de oficina o consumo de contenido), valorás poder montarlo en un brazo articulado, y tu gaming es casual, no competitivo de torneo. No es para vos si: necesitás G-Sync o FreeSync Premium certificado para gaming exigente, o buscás resolución 2K/4K para edición de imagen profesional.
+
+A $223.199 con el mejor puntaje de la selección (4.9⭐ en 739 calificaciones), es la opción más redonda para quien prioriza pantalla grande y buen color por sobre los Hz.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Noblex" },
+      { label: "Modelo", value: "NXSM2700" },
+      { label: "Pantalla", value: "27 pulgadas, panel IPS (mejor color y ángulos de visión que los VA), Full HD (1920x1080)" },
+      { label: "Frecuencia", value: "100 Hz" },
+      { label: "Tiempo de respuesta", value: "1 ms MPRT (4 ms GtG), antireflejo" },
+      { label: "Sincronización", value: "Adaptive-Sync genérico (sin G-Sync ni FreeSync Premium certificado)" },
+      { label: "Puertos", value: "2x HDMI + VGA (la versión actual trae 2 HDMI, no 1; sin DisplayPort)" },
+      { label: "Soporte / VESA", value: "Sí, de fábrica: se pueden sacar las patas y montarlo en un brazo articulado. Sin ajuste de altura en el pie de base" },
+      { label: "Audio", value: "Reportes mixtos en reseñas: volumen integrado bajo, sin salida de audio (aux) dedicada según algunos compradores" },
+      { label: "Extras", value: "Botón de navegación tipo joystick en la parte trasera del monitor" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Es panel IPS o VA?", answer: "IPS, el único de esta selección de monitores. Da mejor color y ángulos de visión más amplios que los paneles VA de la competencia (Samsung, Gigabyte). El límite está en la resolución: Full HD, no 2K/4K." },
+      { question: "¿Se puede montar en un brazo articulado?", answer: "Sí, y está confirmado por reseñas reales: trae base VESA de fábrica, se pueden sacar las patas de apoyo y usar un brazo. A diferencia del Samsung CRG5 de esta misma selección, cuyas reseñas reportan que no trae los agujeros pese a lo que dice la ficha." },
+      { question: "¿Es compatible con G-Sync o FreeSync Premium?", answer: "No. Trae Adaptive-Sync genérico, sin certificación G-Sync ni FreeSync Premium. Una reseña técnica lo marca directo: es una desventaja para \"gamers más exigentes\", aunque para gaming casual el salto de 60 a 100 Hz igual se nota." },
+      { question: "¿Cuántas entradas HDMI tiene?", answer: "Dos, en la versión actual (varias reseñas recientes lo confirman: \"la versión actual tiene dos HDMI y un VGA\"). Sirve para tener dos PC conectadas o PC + consola y alternar sin desenchufar cables. No trae DisplayPort." },
+      { question: "¿Sirve para diseño o edición de imagen?", answer: "Para uso general sí, y hasta hay una reseña de una diseñadora que lo usa para trabajar y quedó conforme. Pero una reseña técnica avisa que para edición de imagen exigente o gaming profesional, la resolución Full HD \"podría quedarse algo corta\" frente a un panel 2K o 4K." },
+      { question: "¿Tiene parlantes o salida de audio?", answer: "Las reseñas se contradicen: alguna menciona un volumen integrado bajo pero presente, otra dice directamente que le falta la salida de audio (aux). Si el sonido te importa, no lo des por garantizado: sumá parlantes o auriculares aparte." },
+      { question: "¿Qué tan grande se siente en el escritorio?", answer: "Es el más grande de la selección (27\"). Las reseñas avisan que el panel \"nunca hace sentir que falta espacio\", pero el pie de apoyo ocupa lugar: si tenés un escritorio chico, conviene medir antes o directamente usar la opción de brazo articulado." },
+      { question: "¿Conviene este o el Samsung Odyssey G3 G30D?", answer: "Depende de la prioridad: el G30D ($244.361) da 180 Hz reales en un panel VA de 24\", ideal para shooters competitivos. El Noblex ($223.199) da mejor color e imagen en un IPS de 27\", pero se queda en 100 Hz sin FreeSync Premium. Para competitivo, Samsung; para pantalla grande y trabajo, Noblex." },
+      { question: "¿Conviene este o el Noblex NXSM2200 más chico?", answer: "El NXSM2200 ($141.899) es la versión económica: panel VA de 22\", mismo espíritu de marca honesta pero más chico y más barato. El NXSM2700 justifica su precio extra con el panel IPS de 27\" y mejor color. Si el presupuesto es ajustado y no necesitás pantalla grande, el NXSM2200 alcanza." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "agosto 2025", useful: 28, text: "Es un mil, no tiene nada que envidiarle a otras marcas \"gamers\". El panel es muy grande y nunca sentís que te falta espacio, los colores son óptimos, y si como yo venís de usar 60hz, esto es un cambio muy grande, más que suficiente para juegos o videos. El soporte es muy fácil de armar, todo encastrable y en menos de 10 minutos lo tenés, también está la opción de dejarlo sin las patitas y usar un brazo, que calculo sería más cómodo porque ocupa mucho espacio (como se ve tengo un teclado 110%) así que si tenés una mesa chica tendrías que pensar cómo acomodarlo." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 14, text: "Calidad de imagen: con una pantalla full hd (1920x1080) y panel IPS, la calidad de imagen es nítida y con colores precisos. Los ángulos de visión amplios aseguran que la imagen no se distorsione si mirás la pantalla desde los costados. Sin embargo, para usuarios exigentes en edición de imagen o gaming profesional, la resolución podría quedarse algo corta en comparación con monitores 2K o 4K. Fluidez y rendimiento: su frecuencia de 100 hz y su tiempo de respuesta de 1 ms MPRT lo hacen una excelente opción para gaming y tareas que requieren velocidad. Sin embargo, no cuenta con tecnologías avanzadas como G-Sync o FreeSync Premium, lo que podría ser una desventaja para gamers más exigentes. Un monitor equilibrado y accesible. Ideal para trabajo, estudio, gaming casual y consumo de contenido multimedia." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 18, text: "Vengo de un monitor de toda la vida de 19 pulgadas de 60hz y pasar a este se nota la diferencia, y con el tema de los pixeles por este tamaño de pulgadas ni se nota." },
+      { rating: 4, country: "Argentina", date: "septiembre 2025", useful: 4, text: "La verdad que el monitor todo perfecto, el único detalle que tiene, que es incorregible sea con config o cables etc, es ese recuadro negro que se ve en la segunda foto, pero todo lo demás es muy bueno." },
+      { rating: 5, country: "Argentina", date: "junio 2026", useful: 0, text: "La version actual tiene dos hdmi y un vga asi que de 10." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 0, text: "Muy bueno eeeehhhh excelente opción económica para 27 pulgadas, lastima que no tiene dp y ojalá hicieran el botón sin luz." },
+    ],
+    aiReviewSummary: "El Noblex NXSM2700 tiene el mejor puntaje de la selección (4.9 estrellas) y su panel IPS es lo que más se elogia: color preciso y ángulos de visión amplios, algo que ningún otro monitor VA de esta selección ofrece. La reseña técnica más votada es honesta sobre el límite: sin G-Sync ni FreeSync Premium, no es para gaming competitivo exigente, y la resolución Full HD se queda corta si el uso es edición de imagen profesional. Reseñas recientes confirman que la versión actual trae 2 entradas HDMI (no 1) y base compatible con brazo articulado, algo que el Samsung CRG5 de esta misma selección no cumple pese a su propia ficha. Puntos menores: una reseña reporta un recuadro de luz en una esquina, y hay reportes mixtos sobre si tiene o no salida de audio dedicada.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Noblex NXSM2700 27 IPS FHD 100Hz",
+      image: "https://http2.mlstatic.com/D_NQ_NP_728527-MLA99914838207_112025-F.jpg",
+      description: "Monitor Noblex NXSM2700 de 27 pulgadas: panel IPS Full HD a 100 Hz, 1 ms MPRT, antireflejo, base compatible con brazo articulado y 2 entradas HDMI. 4.9 estrellas con 739 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Noblex" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/17HaY3a",
+        priceCurrency: "ARS",
+        price: 223199,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "739",
+      },
+    },
     relatedProducts: ["MLA45717136", "MLA63267892"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -120,6 +427,7 @@ export const curatedProducts: Product[] = [
     id: "MLA43960948",
     title: "Monitor Philips 241V8L/77 24 Full HD Negro",
     canonicalName: "Monitor Philips 24 Full HD 241V8L",
+    brand: "Philips",
     price: 159099,
     originalPrice: 211250,
     currency: "ARS",
@@ -134,17 +442,121 @@ export const curatedProducts: Product[] = [
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 2546,
+    reviewCount: 2468,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "23,8 pulgadas, panel VA, Full HD" },
-      { label: "Frecuencia", value: "75 Hz, Adaptive-Sync" },
-      { label: "Extras", value: "Antireflejo, filtro de luz azul, flicker-free" },
-      { label: "Puertos", value: "HDMI + VGA (sin DisplayPort)" },
-      { label: "Ideal para", value: "Uso mixto: trabajo, estudio y juego casual" },
-      { label: "Marca", value: "Philips" },
+    seoTitle: "Philips 241V8L 24: el más vendido, ¿sirve para gaming?",
+    metaDescription: "Monitor Philips 241V8L 24 Full HD: el monitor más vendido de Argentina, 4.8★ en 2.468 calificaciones. Para trabajo va de diez, para gaming la ficha honesta acá.",
+    ogTitle: "Philips 241V8L 24: el monitor más vendido de Argentina (con la letra chica del gaming)",
+    ogDescription: "2.468 calificaciones, 4.8★. Ideal para trabajo, estudio y películas. Para jugar, varias reseñas avisan: hay ghosting real. Te contamos cuándo conviene y cuándo no.",
+    h1: "Monitor Philips 241V8L 24 pulgadas Full HD: el más vendido, pensado para trabajar",
+    pros: [
+      "4.8⭐ en 2.468 calificaciones: el monitor más vendido de toda la selección, con 755 reseñas escritas",
+      "Excelente para oficina, estudio y multitarea: una reseña técnica confirma que respeta el gamma sin necesitar ajustes y cumple bien las pruebas de imagen estándar",
+      "Modo LowBlue (filtro de luz azul) y Easy Read real: varias reseñas lo usan para trabajar horas sin cansancio visual",
+      "178° de ángulo de visión horizontal y vertical, y antireflejo efectivo, confirmados por el fabricante",
+      "Precio agresivo: una reseña que lo comparó directo contra un Samsung de 24\" dice que \"le pasa el trapo\" en relación precio-calidad",
+      "37% de descuento sobre el precio de lista ($211.250 a $159.099)",
     ],
+    cons: [
+      "El contraste es el punto débil real: una reseña detallada de 4 estrellas midió \"calidad de imagen 6/10\", con el contraste inferior incluso a monitores más baratos de la competencia, sobre todo a 60 Hz",
+      "No es un monitor para gaming: varias reseñas coinciden en que tiene ghosting real y los negros se deforman en escenas con sombras (\"para jugar es muy malo\", dice una). El FreeSync activado puede generar sombras blancas incómodas al moverte",
+      "El refresco de 75 Hz es más bien ~74 Hz según mediciones de compradores, y el panel es nativo de 60 Hz: los 75 Hz son una extensión con algo de pérdida de calidad, no el estándar de fábrica",
+      "Pie redondo poco práctico y algunas unidades llegan con una leve inclinación de fábrica",
+      "No trae parlantes (aunque sí tiene salida de audio mini plug para conectar unos aparte), y el cable HDMI que trae es corto",
+    ],
+    verdict: "A $159.099 (37% off), es el monitor más vendido y probado del catálogo: perfecto para trabajo, estudio y películas, con LowBlue real y buen ángulo de visión. La honestidad manda decirlo claro: no es un monitor para gaming. El contraste es limitado y varias reseñas confirman ghosting real en juegos con sombras.",
+    articleBody: `## El monitor más vendido del catálogo
+
+El Philips 241V8L cuesta $159.099 (37% menos que el precio de lista de $211.250) y es el monitor con más calificaciones de todo el catálogo: 2.468, con 4.8 estrellas y 755 reseñas escritas. Es un panel VA de 23,8 pulgadas Full HD, 75 Hz (variable entre 48 y 75 Hz según el fabricante), 4 ms GtG, con antireflejo, modo LowBlue y certificación flicker-free.
+
+## Para trabajar, es de lo mejor de su precio
+
+La reseña técnica más completa del panorama (37 votos útiles) hace un análisis serio: "las especificaciones las cumple como dice (170° de visión, relación de contraste 3000:1 típica). Tiene buen contraste, eso es cierto y se nota en la práctica. Sobretodo a destacar es que respeta el gamma... no tuve que hacer ningún ajuste". Concluye: "es un poquito mejor que el promedio de monitores en su gama... para su gama creo que es el top de monitor". El modo LowBlue (filtro de luz azul) y el modo Easy Read se ganan elogios de gente que lo usa para trabajar horas seguidas: "puedo laburar horas enteras sin molestias".
+
+## El contraste, la crítica más honesta del panorama
+
+No todo es perfecto, y la reseña más votada de todas (50 útiles) lo dice sin filtro: "calidad de materiales 9/10, calidad de imagen 6/10... a 74Hz la imagen no es mala, pero el contraste se mantiene muy inferior aún ante los más bajos de la competencia. A 60Hz el contraste empeora aún más". Su conclusión es la más honesta de todas: "el monitor es bueno para leer y ver videos... lo recomiendo si lo vas a usar como segundo monitor. Si no, jugate por LG, Samsung o Asus". Es exactamente el tipo de crítica que esta ficha no esconde.
+
+## ¿Sirve para gaming? La respuesta honesta es no
+
+Varias reseñas de compradores que sí lo probaron para jugar coinciden: "para jugar es muy malo... tiene mucho ghosting, los colores sobre el negro se deforman mucho y esto se nota muchísimo en juegos que usan muchas sombras". Otra reseña compara la experiencia con "ese amigo que siempre dice que va a ir al asado y aparece, pero no trae la carne: cumple, pero hasta ahí... si buscás algo para gaming, este no es para vos". Un dato técnico adicional que reportan algunos compradores: con FreeSync activado aparecen sombras blancas molestas al mover la imagen. Para trabajo y películas, en cambio, nadie se queja.
+
+## 74 Hz, no 75: la letra chica del refresco
+
+El fabricante declara un rango de 48 a 75 Hz, pero varias mediciones de compradores hablan de 74,078 Hz reales ("no se si 078, pero extremadamente cerca de los 75"). Otro comprador aporta el dato clave: "la resolución nativa 1080 del monitor es 60hz, no 75hz, pero funciona a 75hz en 1080 igual, perdiendo un poco la calidad de imagen". No es un engaño grave (la diferencia entre 60 y 75 Hz sigue siendo real y se nota), pero conviene saber que no es un 75 Hz nativo de fábrica.
+
+## Contra el Noblex NXSM2200 y el NXSM2700 IPS
+
+El [Noblex NXSM2200 22" 100Hz](/producto/MLA45717136) ($141.899) cuesta menos y da más Hz (100 vs 75), aunque en una pantalla más chica y sin el modo LowBlue del Philips. El [Noblex NXSM2700 27" IPS](/producto/MLA45717120) ($223.199) da mejor color (panel IPS) y pantalla más grande, a cambio de pagar más. Si tu uso es 100% oficina y valorás la marca con más historial de compradores, el Philips gana; si sumás algo de gaming casual, cualquiera de los dos Noblex rinde mejor.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: lo vas a usar para trabajar, estudiar, mirar películas o como segundo monitor de oficina, y valorás la protección visual real (LowBlue, Easy Read, flicker-free). No es para vos si: tu uso principal es gaming, incluso casual: el ghosting y el contraste limitado se notan, y ahí un Noblex con más Hz rinde mejor por precio similar o menor.
+
+A $159.099 con 4.8 estrellas en 2.468 calificaciones, es la entrada más segura y más comprada del catálogo, siempre que sepas para qué sirve y para qué no.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Philips" },
+      { label: "Modelo", value: "241V8L" },
+      { label: "Pantalla", value: "23,8 pulgadas, panel VA, Full HD (1920x1080)" },
+      { label: "Frecuencia", value: "75 Hz máx. (rango 48-75 Hz según fabricante; panel nativo de 60 Hz, mediciones de compradores dan ~74 Hz reales)" },
+      { label: "Tiempo de respuesta", value: "4 ms (GtG)" },
+      { label: "Brillo / Contraste", value: "250 cd/m², 3.000:1 típico (varias reseñas señalan contraste algo débil frente a la competencia)" },
+      { label: "Ángulos de visión", value: "178° horizontal / 178° vertical" },
+      { label: "Sincronización", value: "Adaptive-Sync (algunas reseñas reportan artefactos con FreeSync activado)" },
+      { label: "Puertos", value: "1x HDMI + 1x VGA, sin DisplayPort. Trae cable HDMI (corto según reseñas), no incluye cable VGA" },
+      { label: "Audio", value: "Sin parlantes integrados; sí trae salida de audio mini plug para conectar parlantes o auriculares" },
+      { label: "Extras", value: "Antireflejo, modo LowBlue (filtro de luz azul), modo Easy Read, flicker-free, sin bordes (diseño casi sin marco)" },
+      { label: "Ergonomía", value: "Pie redondo, solo inclinación (sin ajuste de altura). Compatible con brazo VESA (varias reseñas lo montan en pared)" },
+      { label: "Dimensiones", value: "54 x 32,2 x 5,1 cm (sin pie)" },
+      { label: "Peso", value: "2,64 kg" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Sirve para gaming?", answer: "No es lo suyo, y varias reseñas lo confirman sin vueltas: tiene ghosting real y los negros se deforman en escenas con sombras. Con FreeSync activado, algunos compradores reportan sombras blancas molestas al mover la imagen. Para trabajo, estudio y películas rinde muy bien; para gaming, incluso casual, un Noblex de esta selección da mejor experiencia." },
+      { question: "¿Es realmente 75 Hz?", answer: "El fabricante declara un rango de 48 a 75 Hz, pero el panel es nativo de 60 Hz. Varios compradores miden el máximo real en 74 Hz (\"74,078\", dice uno). La diferencia contra 60 Hz sigue siendo perceptible, pero no es un 75 Hz nativo de fábrica: es una extensión con algo de pérdida de calidad." },
+      { question: "¿Cómo es el contraste y la calidad de imagen?", answer: "Es el punto más débil según la reseña más votada del panorama (50 útiles): \"calidad de imagen 6/10... el contraste se mantiene muy inferior aún ante los más bajos de la competencia\". El fabricante declara 3.000:1 típico. Para leer, trabajar y ver videos no es un problema; para contenido exigente en negros y sombras, se nota." },
+      { question: "¿Tiene parlantes?", answer: "No trae parlantes integrados. Sí tiene una salida de audio mini plug (3.5mm) para conectar parlantes externos o auriculares." },
+      { question: "¿Se puede montar en la pared con un brazo?", answer: "Sí, es compatible con soporte VESA y varias reseñas lo confirman montándolo en pared o en un brazo articulado, sacando la base redonda de fábrica (que varias reseñas describen como poco práctica)." },
+      { question: "¿Qué es el modo LowBlue y Easy Read?", answer: "LowBlue reduce la emisión de luz azul para cuidar la vista en sesiones largas frente a la pantalla; Easy Read ajusta el contraste para simular una lectura tipo papel. Varias reseñas los usan a diario para trabajar u leer sin cansancio visual: \"puedo laburar horas enteras sin molestias\"." },
+      { question: "¿Trae todos los cables?", answer: "Trae cable HDMI (aunque algunas reseñas lo describen como corto), pero no incluye cable VGA pese a tener ese puerto. No tiene DisplayPort ni entrada USB." },
+      { question: "¿Conviene este o el Noblex NXSM2200?", answer: "El NXSM2200 ($141.899) cuesta menos y da más Hz (100 vs 75) en una pantalla más chica (22\"), sin el modo LowBlue del Philips. Para trabajo puro con protección visual, el Philips gana; para algo de gaming casual sin gastar de más, el Noblex." },
+      { question: "¿Conviene este o el Noblex NXSM2700 IPS?", answer: "El NXSM2700 ($223.199) es panel IPS de 27\", mejor color y pantalla más grande, a un precio más alto. El Philips ($159.099) es la opción más económica y con más historial de compradores (2.468 vs 739 calificaciones) para quien solo necesita trabajar, estudiar o ver contenido." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "2025", useful: 50, text: "Calidad de materiales 9/10. Calidad de imagen 6/10. La imagen no es mala a 74hz. Pero el contraste se mantiene muy inferior aun ante los más bajos de la competencia. A 60hz el contraste empeora aun mucho más. El monitor es bueno para leer y ver videos. Relación de precio calidad excelente, pero soy realista con respecto a la imagen. A final de cuentas, lo recomiendo si lo vas a usar como segundo monitor. Sino jugate por LG, Samsung o Asus." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 37, text: "Las especificaciones las cumple como dice (170° de visión, relación de contraste 3000:1 típica). Tiene buen contraste, eso es cierto y se nota en la práctica. Sobretodo a destacar es que respeta el gamma (en la prueba de gamma salió correcto, no tuve que hacer ningún ajuste). Con respecto a mi monitor anterior es mejor, un poquito más rápido y sobretodo mejor contraste. En resumen es muy buen monitor dentro de la gama media y yo diría que es un poquito mejor que el promedio de monitores en su gama. No le doy las cinco estrellas porque soy exigente pero para su gama creo que es el top de monitor." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 58, text: "Excelente monitor con relación precio vs calidad. Lo uso para diseño 3D, CAD, y anda muy bien." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 9, text: "24 pulgadas, 1920x1080 a máximo 74,078hz (no se si 078, pero extremadamente cerca de los 75 jaja). Estéticamente me parece perfecto, con bordes finos, logo de la marca muy minimalista. La base es muy estética, pero la quité para colocarle un brazo hacia la pared y usarlo como monitor principal. Sinceramente un monitor que es muchísima calidad por su precio." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 7, text: "Tremendo la verdad, muy buena la calidad, muchísimas configuraciones preseteadas y bastante buena calidad de construcción, lo único como para decir que tiene algo malo es que cuando se lo toca un poco tiembla como si hubiera habido un terremoto." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 5, text: "El monitor es un 10 pero ojo porque no trae altavoces. Acostumbrado a usar TV olvidé ese detalle. Igual puede conectarse parlantes con un auxiliar." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 5, text: "El panel está bien, es un VA de regla, si estás buscando colores muy vívidos tirate por un IPS, de lo contrario esta opción es excelente. Lo único \"malo\" que encontré es la base redonda, que simplemente me parece poco práctica y estética. Pero el producto cumple con todo. Cómpralo sin miedo." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 1, text: "La verdad para jugar es muy malo, para cosas de trabajo como programación, edición 3D u otros es muy bueno ya que no te cansa la vista, pero para jugar olvidate: es imposible, tiene mucho ghosting, los colores sobre el negro se deforman mucho y esto se nota muchísimo en juegos que usan muchas sombras." },
+    ],
+    aiReviewSummary: "Con 755 reseñas escritas, es el monitor con más data real del catálogo. La reseña técnica más votada (50 útiles) es la más honesta: la calidad de imagen es 6/10, con contraste inferior al de la competencia, aunque recomienda comprarlo igual si es para segundo monitor o trabajo. Otra reseña técnica de 37 votos confirma que cumple lo que promete el fabricante (178° de ángulo, contraste 3.000:1, buen gamma). El consenso es claro: excelente para trabajo, estudio y películas gracias al modo LowBlue; débil para gaming, con ghosting real reportado por varios compradores. También se confirma que el refresco real ronda los 74 Hz (no 75 Hz clavados) sobre un panel nativo de 60 Hz.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Philips 241V8L 24 Full HD",
+      image: "https://http2.mlstatic.com/D_NQ_NP_609186-MLA104902495948_012026-F.jpg",
+      description: "Monitor Philips 241V8L de 23,8 pulgadas: panel VA Full HD hasta 75 Hz, antireflejo, modo LowBlue y flicker-free. 4.8 estrellas con 2.468 calificaciones en MercadoLibre Argentina, el monitor más vendido del catálogo.",
+      brand: { "@type": "Brand", name: "Philips" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2LPpSwK",
+        priceCurrency: "ARS",
+        price: 159099,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "2468",
+      },
+    },
     relatedProducts: ["MLA45717136", "MLA45717120"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -155,6 +567,7 @@ export const curatedProducts: Product[] = [
     id: "MLA45717136",
     title: "Monitor Noblex NXSM2200 22 LED FHD 100Hz",
     canonicalName: "Monitor Noblex 22 FHD 100Hz NXSM2200",
+    brand: "Noblex",
     price: 141899,
     originalPrice: 165000,
     currency: "ARS",
@@ -170,17 +583,115 @@ export const curatedProducts: Product[] = [
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 842,
+    reviewCount: 845,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-verde)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "21,45 pulgadas, panel VA, Full HD" },
-      { label: "Frecuencia", value: "100 Hz, Adaptive-Sync" },
-      { label: "Respuesta", value: "1 ms MPRT (4 ms GtG)" },
-      { label: "Puertos", value: "HDMI + VGA (sin DisplayPort)" },
-      { label: "Soporte", value: "VESA sí" },
-      { label: "Marca", value: "Noblex" },
+    seoTitle: "Noblex NXSM2200 22 100Hz: el más barato con respaldo real",
+    metaDescription: "Monitor Noblex NXSM2200 22 100Hz: 4.9★ en 845 calificaciones, el más barato de la selección. Cómo activar los 100Hz, el ghosting real y la letra chica del 1ms.",
+    ogTitle: "Noblex NXSM2200 22 100Hz: el monitor gamer más barato con respaldo real de Argentina",
+    ogDescription: "845 calificaciones, 4.9★. 100Hz por menos de $150.000. Pero viene en 60Hz de fábrica y el modo 1ms real oscurece la pantalla: te contamos todo antes de comprar.",
+    h1: "Monitor Noblex NXSM2200 22 pulgadas 100Hz: el más barato con respaldo real",
+    pros: [
+      "4.9⭐ en 845 calificaciones: el monitor más barato de la selección con el mejor respaldo de compradores",
+      "100 Hz confirmados con UFO Test por una reseña técnica: \"100fps y 100Hz clavados\"",
+      "Corre bien hasta con notebooks livianas (una reseña lo usa con una MacBook Air M1 sin problemas)",
+      "Trae cable HDMI en la caja, según confirman varias reseñas",
+      "Botón multifunción único, que varias reseñas describen como innovador y sólido para el precio",
+      "14% de descuento sobre el precio de lista ($165.000 a $141.899)",
     ],
+    cons: [
+      "Viene configurado en 60 Hz (más precisamente 59,99 Hz) de fábrica: hay que activar los 100 Hz a mano desde la configuración avanzada de pantalla de Windows. Varias reseñas avisan que perdieron tiempo buscando cómo hacerlo",
+      "El modo de 1 ms de respuesta real es engañoso: una reseña detallada explica que hay que activarlo especialmente en el menú del monitor, y al hacerlo \"se baja el brillo a un nivel que queda muy oscura la pantalla\", así que en la práctica casi nadie lo usa",
+      "Ghosting real reportado por varias reseñas, sobre todo en juegos con movimientos rápidos: \"abarataron costos en el panel\", dice una. No es grave para uso casual, pero está",
+      "El mecanismo de inclinación existe pero es muy duro: hay que ajustarlo con la pantalla desmontada (con un destornillador o mucha fuerza) para no arriesgarse a romper el encastre",
+      "No sirve para juegos AAA muy exigentes: una reseña avisa que con Warzone o Battlefield \"se cae a pedazos\"",
+      "Sin ajuste de altura y con inclinación fija de fábrica que varias reseñas describen como \"mirando hacia abajo\", por lo que algunos compradores le suman una base o libro debajo",
+    ],
+    verdict: "A $141.899 (14% off), es el monitor gamer más barato del catálogo con respaldo real: 4.9 estrellas en 845 calificaciones y 100 Hz confirmados con test técnico. Para entrar al gaming con presupuesto ajustado o un segundo monitor, rinde de sobra. Eso sí: viene en 60 Hz de fábrica (hay que activarlo a mano), el modo 1ms real oscurece la pantalla, y el ghosting está presente en juegos rápidos.",
+    articleBody: `## El más barato de la selección, con el respaldo más grande por peso
+
+El Noblex NXSM2200 cuesta $141.899 (14% menos que el precio de lista de $165.000) y es el monitor más económico de esta selección, con 4.9 estrellas en 845 calificaciones. Es un panel VA de 21,45 pulgadas Full HD a 100 Hz, con respuesta de 1 ms MPRT (4 ms GtG) y Adaptive-Sync. Para el precio, es de lejos la opción con más gente que ya lo probó.
+
+## Viene en 60 Hz: el mismo truco de siempre
+
+Como pasa con casi todos los monitores Samsung y Noblex de esta selección, este también viene configurado en 60 Hz de fábrica. Una reseña de 54 votos útiles lo cuenta con humor: "para que no sean gorreados y pierdan tiempo como lo hice porque no encontraba los botones... por si se asustan de ver que anda a 60hz, deben ir a configuración de pantalla, configuración de pantalla avanzada, y poner 100.000 Hz". Otra reseña más técnica confirma el detalle exacto: "por defecto viene en 59,99hz, tienen que ir a personalizar pantalla y ahí lo cambian a 100hz". Una vez activado, un comprador que lo probó con el UFO Test (una prueba técnica estándar para medir Hz y fps reales) confirma que "los 100hz son 100hz reales... 100fps y 100hz clavados".
+
+## El modo 1 ms, la letra chica que nadie lee
+
+Acá hay un dato que la ficha no aclara y que vale la pena saber antes de comprar. Una reseña detallada lo explica así: "lo de 1ms de respuesta es engañoso, tenés que activarlo especialmente en el menú del monitor y cuando lo activas se baja el brillo a un nivel que queda muy oscura la pantalla, así que en la práctica no lo vas a usar nunca porque es incómodo". En el uso normal (sin ese modo activado), la respuesta real es de 4 ms GtG, que sigue siendo un salto grande desde un monitor de 60 Hz genérico.
+
+## El pie: se inclina, pero con mucha fuerza
+
+Varias reseñas se contradicen sobre si el pie es reclinable o no, y la explicación más completa aclara el malentendido: "sí la tiene, el problema es que es durísimo, lo tiene justo en la base... recomiendo mucho tratar de reclinarlo sin montar la pantalla y con los dedos, porque si llegás a intentar reclinarlo con la pantalla puesta, vas a terminar jodiendo y rompiendo toda la pantalla". Otra reseña confirma el mismo consejo con un destornillador. Sin la pantalla montada, ajustarlo es simple; con la pantalla puesta, es fácil de romper. No tiene ajuste de altura, y algunas unidades llegan con una inclinación de fábrica hacia abajo que resuelven poniéndole algo debajo.
+
+## Ghosting real, pero manejable para uso casual
+
+Varias reseñas a los 8-10 meses de uso coinciden en el mismo punto: "tiene bastante ghosting, si no te molesta no es importante, pero si jugás a juegos que requieran movimientos rápidos se nota mucho, abarataron costos en el panel". Otra reseña, más específica sobre el límite real: "no te recomiendo jugar juegos demasiado demandantes como Warzone o Battlefield, ya que ahí se cae a pedazos". Para shooters livianos o juegos casuales, en cambio, las reseñas son mayoritariamente positivas.
+
+## Contra el Philips 241V8L y el Noblex NXSM2700
+
+Frente al [Philips 241V8L](/producto/MLA43960948) ($159.099), el NXSM2200 cuesta menos y da más Hz (100 vs 75), aunque en una pantalla más chica (21,45" vs 23,8") y sin el modo LowBlue del Philips. Frente al [Noblex NXSM2700 27" IPS](/producto/MLA45717120) ($223.199), la diferencia es de gama: el NXSM2700 suma pantalla más grande y panel IPS con mejor color, a un 57% más de precio. El NXSM2200 tiene sentido claro como primer monitor gamer o segunda pantalla sin gastar de más.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: buscás el 100 Hz más barato del catálogo con respaldo real de compradores, es tu primer monitor gamer o lo querés como segunda pantalla, y no te importa activar los 100 Hz a mano una sola vez. No es para vos si: jugás títulos AAA muy exigentes (ahí el ghosting se nota), necesitás ajuste de altura, o priorizás el modo 1 ms real (viene con el costo de una pantalla mucho más oscura).
+
+A $141.899 con 4.9 estrellas en 845 calificaciones, es la entrada al gaming con más respaldo por menos plata de todo el catálogo.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Noblex" },
+      { label: "Modelo", value: "NXSM2200" },
+      { label: "Pantalla", value: "21,45 pulgadas, panel VA, Full HD (1920x1080)" },
+      { label: "Frecuencia", value: "100 Hz máx. (viene en 59,99 Hz de fábrica: activalos desde la configuración avanzada de pantalla de Windows)" },
+      { label: "Tiempo de respuesta", value: "4 ms GtG en uso normal. El modo 1 ms MPRT hay que activarlo aparte en el menú del monitor y oscurece bastante la pantalla" },
+      { label: "Sincronización", value: "Adaptive-Sync" },
+      { label: "Puertos", value: "2x HDMI + VGA (sin DisplayPort). Trae cable HDMI en la caja" },
+      { label: "Ergonomía", value: "Se inclina, pero el mecanismo es muy duro: ajustarlo con la pantalla ya montada tiene riesgo de romper el encastre. Sin ajuste de altura, VESA sí" },
+      { label: "Nota de calidad de imagen", value: "Ghosting real reportado en varias reseñas, sobre todo en juegos con movimientos rápidos y títulos AAA exigentes" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Por qué mi monitor no llega a los 100 Hz?", answer: "Viene configurado en 59,99 Hz de fábrica. Hay que entrar a la configuración avanzada de pantalla de Windows y cambiarlo a 100 Hz a mano. Varias reseñas avisan que perdieron tiempo hasta encontrar dónde hacerlo, pero una vez activado, un comprador lo confirmó con UFO Test: \"100fps y 100Hz clavados\"." },
+      { question: "¿El modo de 1 ms de respuesta funciona bien?", answer: "Funciona, pero con un costo que la ficha no aclara: hay que activarlo especialmente en el menú del monitor, y al hacerlo el brillo baja tanto que la pantalla queda muy oscura. En la práctica, la mayoría de los compradores no lo usa y se queda con los 4 ms GtG del modo normal." },
+      { question: "¿Se puede inclinar el monitor?", answer: "Sí, pero el mecanismo es muy duro. La recomendación de varias reseñas es ajustarlo ANTES de montar la pantalla sobre la base (con los dedos o un destornillador), porque si intentás inclinarlo con la pantalla ya puesta, hay riesgo real de romper el encastre." },
+      { question: "¿Tiene ghosting?", answer: "Sí, según reportan varias reseñas, sobre todo en juegos con movimientos rápidos: \"abarataron costos en el panel\", dice una. No es grave para uso casual, pero para títulos AAA muy exigentes como Warzone o Battlefield, una reseña avisa que el rendimiento se resiente." },
+      { question: "¿Trae cable HDMI?", answer: "Sí, varias reseñas confirman que viene con cable HDMI en la caja, algo que no todos los monitores de este rango incluyen." },
+      { question: "¿Cuántas entradas HDMI tiene?", answer: "Dos, más una entrada VGA. No trae DisplayPort." },
+      { question: "¿Sirve como primer monitor gamer?", answer: "Sí, es el uso para el que mejor rinde: 100 Hz reales por menos de $150.000, con el mejor respaldo de compradores de la selección en su rango de precio. Para juegos casuales y competitivos livianos funciona bien; para AAA muy exigente, ya empieza a notarse el límite del panel." },
+      { question: "¿Conviene este o el Philips 241V8L?", answer: "El Philips ($159.099) tiene pantalla más grande (23,8\" vs 21,45\") y modo LowBlue para trabajar, pero se queda en 75 Hz. El Noblex ($141.899) es más barato y da más Hz (100 vs 75). Para gaming con presupuesto ajustado, el Noblex; para trabajo y estudio, el Philips." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 54, text: "Una bomba, literalmente. Para el precio y todo lo que te ofrece. Eso sí, para que no pierdan tiempo como me pasó a mí porque no encontraba los botones: con el único botón cambiás las configuraciones, es el mismo con el que se prende. Y por si se asustan de ver que anda a 60hz: deben ir a configuración de pantalla, configuración de pantalla avanzada, y poner 100hz. Es hermoso. Recomendado 100%." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 16, text: "Ojo, vi que dicen que no tiene reclinación. La realidad es que sí la tiene, el \"problema\" es que es durísimo, lo tiene justo en la base. La forma en que lo recliné fue: antes de montar la pantalla sobre la base, con los dedos usando una fuerza descomunal, moví la chapa de reclinación, y ya luego monté la pantalla y salió todo perfecto. Recomiendo mucho tratar de reclinarlo sin montar la pantalla y con los dedos, porque si llegás a intentar reclinarlo con la pantalla puesta, vas a terminar rompiendo toda la pantalla. El monitor es excelente para el precio que tiene, y que sea 100hz es un lujo." },
+      { rating: 5, country: "Argentina", date: "diciembre 2025", useful: 3, text: "Tremendo, lo uso junto con una MacBook Air M1 y va como piña, bastante piola la imagen, no queda atrás al lado de la Mac. Los 100hz son 100hz reales, bastante fluido, le hice el UFO test para testear los fps y los hz y va re bien, 100fps y 100hz clavados. Recomendable, sobretodo si está con descuento." },
+      { rating: 4, country: "Argentina", date: "mayo 2026", useful: 2, text: "Muy bueno el monitor para el precio que tiene. Lo que sí, lo de 1ms de respuesta es engañoso: tenés que activarlo especialmente en el menú del monitor, y cuando lo activás se baja el brillo a un nivel que queda muy oscura la pantalla, así que en la práctica no lo vas a usar nunca porque es incómodo. Dejando eso de lado, está bueno. Me gusta el sistema del botón multifunción, me parece muy innovador. Se lo ve más sólido que otros monitores en este rango de precio." },
+      { rating: 4, country: "Argentina", date: "diciembre 2025", useful: 8, text: "Si no tenés mucho presupuesto para un ultra gamer, este monitor es lo que buscás: pasé de 60hz en 1366x768 a este de 100hz en 1920x1080, una locura. Todo lo que hace falta para empezar." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 0, text: "Tiene bastante ghosting, si no te molesta no es importante, pero si jugás a juegos que requieran movimientos rápidos se nota mucho, abarataron costos en el panel. Se puede usar para otras cosas sin problemas, tiene un tamaño aceptable y estoy conforme, lo único negativo es el ghosting, a la larga molesta mucho." },
+      { rating: 5, country: "Argentina", date: "abril 2026", useful: 0, text: "Muy buen producto precio calidad. 2 HDMI y un VGA. En mi caso no usé la base pero también era muy buena." },
+    ],
+    aiReviewSummary: "El punto que más se repite es idéntico al de los otros monitores Samsung/Noblex de esta selección: viene en 60 Hz (59,99 Hz exactos) de fábrica y hay que activar los 100 Hz a mano en Windows. Una reseña técnica confirmó con UFO Test que, una vez activado, el refresco es real. El hallazgo más útil de esta ficha es el modo 1 ms MPRT: una reseña detallada avisa que activarlo oscurece tanto la pantalla que en la práctica casi nadie lo usa. También hay consenso en que el pie sí se inclina pero con un mecanismo muy duro (mejor ajustarlo antes de montar la pantalla, para no romperla), y en que existe ghosting real en juegos de movimientos rápidos o títulos AAA exigentes, aunque para uso casual no es un problema grave.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Noblex NXSM2200 22 LED FHD 100Hz",
+      image: "https://http2.mlstatic.com/D_NQ_NP_656487-MLA99941666533_112025-F.jpg",
+      description: "Monitor Noblex NXSM2200 de 21,45 pulgadas: panel VA Full HD a 100 Hz, 4 ms GtG (1 ms MPRT opcional), Adaptive-Sync, 2 entradas HDMI. 4.9 estrellas con 845 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Noblex" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2AMGgvB",
+        priceCurrency: "ARS",
+        price: 141899,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "845",
+      },
+    },
     relatedProducts: ["MLA45717120", "MLA43960948"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -191,6 +702,7 @@ export const curatedProducts: Product[] = [
     id: "MLA43960827",
     title: "Monitor Samsung Odyssey G5 27 Curvo 1000R QHD 165Hz",
     canonicalName: "Monitor Samsung Odyssey G5 27 Curvo QHD 165Hz",
+    brand: "Samsung",
     price: 554413,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_882277-MLA99523958022_122025-F.jpg",
@@ -204,17 +716,107 @@ export const curatedProducts: Product[] = [
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 25,
+    reviewCount: 26,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-violeta)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "27 pulgadas, panel VA curvo (1000R), QHD 2560x1440" },
-      { label: "Frecuencia", value: "165 Hz (por DisplayPort)" },
-      { label: "Respuesta", value: "1 ms MPRT, FreeSync Premium, HDR10" },
-      { label: "Puertos", value: "HDMI 2.0 + DisplayPort 1.4" },
-      { label: "Modelo", value: "LS27AG550 (G55A)" },
-      { label: "Marca", value: "Samsung" },
+    seoTitle: "Samsung Odyssey G5 27 QHD 165Hz: el salto premium, ¿vale?",
+    metaDescription: "Monitor Samsung Odyssey G5 27 curvo QHD 165Hz: 4.7★, pocas opiniones (26) pero consistentes. Ojo: no siempre trae cable HDMI. La ficha honesta acá.",
+    ogTitle: "Samsung Odyssey G5 27 QHD 165Hz: el paso premium desde un 24 Full HD",
+    ogDescription: "QHD, 165Hz, curva 1000R y HDR10. Todavía con pocas opiniones (26), pero consistentes. Y un detalle que hay que saber: no siempre viene con cable HDMI.",
+    h1: "Monitor Samsung Odyssey G5 27 pulgadas curvo QHD 165Hz: el salto premium",
+    pros: [
+      "4.7⭐ en 26 calificaciones: pocas, pero consistentes y sin quejas graves sobre la imagen",
+      "Salto real de resolución: QHD (2560x1440) es mucho más nítido que el Full HD de los otros monitores de la selección",
+      "165 Hz con 1 ms MPRT, FreeSync Premium y HDR10: la ficha técnica más completa de los monitores de 27\" del catálogo",
+      "Curva 1000R, la más cerrada y envolvente del mercado, según el fabricante",
+      "Confirmado por un comprador que usa dos unidades juntas: \"realmente me encantan y excelente imagen\"",
+      "Eye Saver Mode y certificación flicker-free para sesiones largas",
     ],
+    cons: [
+      "Pocas opiniones todavía (26 calificaciones, apenas 5 con comentario escrito): lo decimos de frente, hay menos data real que en los otros monitores de esta selección",
+      "No siempre viene con cable HDMI en la caja: la reseña más útil del panorama avisa que \"solo trajo el cable DP, no trajo el HDMI y tuve que comprar otro\", aunque la publicación lo lista como incluido",
+      "Los 165 Hz van seguros por DisplayPort; por HDMI 2.0 el ancho de banda puede quedar corto según la resolución y la placa",
+      "Solo tilt (inclinación) según el fabricante, sin ajuste de altura ni rotación, a diferencia del Samsung G30D más barato de esta misma selección",
+      "Es el segundo monitor más caro de la selección: el salto de precio contra el CRG5 Full HD es grande para quien no necesita QHD",
+    ],
+    verdict: "A $554.413, es el paso premium real dentro de la selección: QHD, 165 Hz, HDR10 y la curva más cerrada del mercado. Todavía tiene pocas opiniones (26, lo decimos de frente), y al menos una reseña avisa que la caja no siempre trae el cable HDMI pese a figurar incluido. Si el presupuesto da y buscás más nitidez que un Full HD, es la mejora lógica.",
+    articleBody: `## El salto de resolución dentro de la selección
+
+El Samsung Odyssey G5 cuesta $554.413 y es el paso premium de esta selección de monitores: en vez de Full HD, salta a QHD (2560x1440), una resolución bastante más nítida, sumado a 165 Hz, 1 ms MPRT, FreeSync Premium y HDR10 en un panel VA curvo 1000R, la curvatura más cerrada del mercado. Tiene 4.7 estrellas en 26 calificaciones.
+
+## Pocas opiniones, lo decimos de frente
+
+A diferencia de los otros monitores de esta selección (varios superan las 700 o 1.000 calificaciones), el G5 todavía tiene poca data real: 26 calificaciones y apenas 5 reseñas con comentario escrito. Es un modelo más caro y de nicho, así que tiene sentido que rote menos. Lo que sí hay es consistente: sin quejas de calidad de imagen, y un comprador que usa dos unidades juntas como setup doble lo resume corto: "realmente me encantan y excelente imagen".
+
+## El cable HDMI, otra vez el mismo problema
+
+La reseña más útil del panorama (8 votos) marca un problema que se repite en otros monitores Samsung de esta selección: "funciona excelente, la calidad es 10 puntos, sin embargo solo trajo el cable DP, no trajo el HDMI y tuve que comprar otro... un cable HDMI es muy económico y figura como incluido, podrían enviarlo". No le resta puntos a la experiencia general (calidad de imagen), pero es la aclaración que esta ficha no puede omitir: no des por hecho el cable HDMI en la caja.
+
+## QHD y 165 Hz: por dónde conectarlo importa
+
+Para aprovechar los 165 Hz completos en QHD, el camino seguro es DisplayPort 1.4. Por HDMI 2.0 el ancho de banda puede quedar justo según la placa y la resolución, un patrón que se repite en varios monitores Samsung de gama media de esta selección (el CRG5 tiene la misma advertencia). Si tu placa de video es más vieja o tiene solo HDMI, confirmá que sostenga los 165 Hz en QHD antes de comprar.
+
+## Contra el CRG5 Full HD y el Xiaomi ultrawide
+
+Frente al [Samsung Odyssey CRG5 24 curvo](/producto/MLA43961816) ($365.999), el G5 cuesta más pero da un salto real: QHD en vez de Full HD, 165 Hz en vez de 144, y suma HDR10. Es la mejora lógica para quien ya tiene un CRG5 y quiere subir de gama sin cambiar de marca. Frente al [Xiaomi G34WQi 34" ultrawide](/producto/MLA43960787) ($629.999), la pelea es formato: el G5 da más Hz (165 vs 180 real por DisplayPort, empatados) en una pantalla más chica y curva cerrada 1000R; el Xiaomi da formato panorámico 21:9 con más inmersión lateral, a un precio similar.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: ya tenés una placa de video que aprovecha QHD a 165 Hz, buscás más nitidez que un Full HD sin saltar a ultrawide, y no te importa comprar el cable HDMI aparte si tu unidad no lo trae. No es para vos si: tu placa no sostiene QHD a buena tasa de cuadros (ahí un CRG5 Full HD rinde más parejo), o el presupuesto es ajustado, porque es de los monitores más caros de esta selección.
+
+A $554.413 con 4.7 estrellas, es el salto premium correcto dentro del catálogo, aunque conviene comprarlo sabiendo que la muestra de opiniones todavía es chica y que el cable HDMI no siempre viene en la caja.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Samsung" },
+      { label: "Modelo", value: "LS27AG550 (G55A)" },
+      { label: "Pantalla", value: "27 pulgadas, panel VA curvo (1000R), QHD 2560x1440" },
+      { label: "Frecuencia", value: "165 Hz máx. (seguros por DisplayPort; por HDMI 2.0 puede quedar corto según la placa)" },
+      { label: "Tiempo de respuesta", value: "1 ms (MPRT)" },
+      { label: "Brillo / Contraste", value: "300 cd/m², 2.500:1 (según fabricante)" },
+      { label: "Ángulos de visión", value: "178° horizontal / 178° vertical" },
+      { label: "HDR", value: "HDR10" },
+      { label: "Sincronización", value: "AMD FreeSync Premium" },
+      { label: "Puertos", value: "HDMI 2.0 + DisplayPort 1.4. Al menos una unidad reportada llegó sin el cable HDMI pese a figurar incluido, solo con el de DisplayPort" },
+      { label: "Ergonomía", value: "Solo inclinación (tilt), sin ajuste de altura ni rotación según el fabricante. VESA 75x75" },
+      { label: "Extras", value: "Eye Saver Mode (filtro de luz azul), flicker-free" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Trae cable HDMI en la caja?", answer: "No siempre: la reseña más útil del panorama de opiniones (26 calificaciones) avisa que su unidad solo trajo el cable DisplayPort, y tuvo que comprar el HDMI aparte, pese a que la publicación lo lista como incluido. Confirmá antes de comprar si necesitás específicamente ese cable." },
+      { question: "¿Los 165 Hz andan por HDMI o hace falta DisplayPort?", answer: "Van seguros por DisplayPort 1.4. Por HDMI 2.0 el ancho de banda puede quedar justo para sostener QHD a 165 Hz, dependiendo de la placa de video. Si tu GPU es más vieja o solo tiene HDMI, confirmá la compatibilidad antes de comprar." },
+      { question: "¿Por qué tiene tan pocas opiniones comparado con los otros monitores?", answer: "Es un modelo más caro y de nicho dentro del catálogo (QHD curvo premium), así que rota menos que los Full HD de entrada. Con 26 calificaciones hay menos data que en otros monitores de esta selección, pero lo que existe es consistente: sin quejas de calidad de imagen." },
+      { question: "¿Tiene ajuste de altura?", answer: "No, según el fabricante solo tiene ajuste de inclinación (tilt), sin altura regulable ni rotación. Si la ergonomía completa es prioridad, el Samsung Odyssey G3 G30D de esta misma selección sí ajusta altura y rota vertical." },
+      { question: "¿Vale la pena el salto desde un Full HD como el CRG5?", answer: "Si tu placa de video sostiene QHD a buena tasa de cuadros, sí: ganás resolución (QHD vs Full HD), más Hz (165 vs 144) y HDR10. Si tu placa es más limitada, el salto de resolución puede no notarse tanto y el CRG5 Full HD rinde más parejo por menos plata." },
+      { question: "¿Conviene este o el Xiaomi G34WQi ultrawide?", answer: "Son formatos distintos a precio similar: el G5 ($554.413) da 165 Hz en un panel curvo 1000R de 27\" QHD; el Xiaomi ($629.999) da formato panorámico 21:9 de 34\" con más inmersión lateral. Para shooters competitivos con curva cerrada, el G5; para simulación, RPG o multitarea con más espacio horizontal, el Xiaomi." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 8, text: "Funciona excelente, la calidad es 10 puntos, sin embargo solo trajo el cable DP, no trajo el HDMI y tuve que comprar otro. No les resto puntos porque la relación precio calidad es excelente, sin embargo un cable HDMI es muy económico y figura como incluido, podrían enviarlo." },
+      { rating: 5, country: "Argentina", date: "abril 2026", useful: 1, text: "El mejor." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 0, text: "Tengo dos en mi PC, realmente me encantan y excelente imagen." },
+    ],
+    aiReviewSummary: "Con solo 26 calificaciones y 5 reseñas escritas, es el monitor con menos data real de la selección: lo decimos de frente. Lo que existe es consistente y sin quejas de calidad de imagen. El hallazgo más útil es el mismo problema que aparece en otros monitores Samsung de este catálogo: al menos una unidad llegó sin el cable HDMI pese a figurar incluido, solo con el de DisplayPort. Un comprador que usa dos unidades como setup doble confirma la calidad de imagen sin reservas.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Samsung Odyssey G5 27 Curvo 1000R QHD 165Hz",
+      image: "https://http2.mlstatic.com/D_NQ_NP_882277-MLA99523958022_122025-F.jpg",
+      description: "Monitor gamer Samsung Odyssey G5 de 27 pulgadas curvo (1000R): panel VA QHD (2560x1440) a 165 Hz, 1 ms MPRT, FreeSync Premium y HDR10. 4.7 estrellas con 26 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Samsung" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/11Frg3T",
+        priceCurrency: "ARS",
+        price: 554413,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "26",
+      },
+    },
     relatedProducts: ["MLA43961816", "MLA43960787"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -225,6 +827,7 @@ export const curatedProducts: Product[] = [
     id: "MLA43960787",
     title: "Monitor Gamer Curvo Xiaomi G34WQi 34 UWQHD 180Hz",
     canonicalName: "Monitor Xiaomi G34WQi 34 Ultrawide Curvo 180Hz",
+    brand: "Xiaomi",
     price: 629999,
     originalPrice: 774999,
     currency: "ARS",
@@ -239,19 +842,120 @@ export const curatedProducts: Product[] = [
     affiliateUrl: "https://meli.la/1MQkxTt",
     condition: "new",
     freeShipping: true,
-    rating: 4.9,
-    reviewCount: 57,
+    rating: 4.8,
+    reviewCount: 1250,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-violeta)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "34 pulgadas ultrawide (21:9), panel VA curvo (1500R)" },
-      { label: "Resolución", value: "UWQHD 3440x1440" },
-      { label: "Frecuencia", value: "180 Hz solo por DisplayPort (por HDMI topea en 100)" },
-      { label: "Color", value: "100% sRGB, 95% DCI-P3, FreeSync Premium" },
-      { label: "Puertos", value: "2x DisplayPort + 2x HDMI" },
-      { label: "Ergonomía", value: "Altura regulable (120 mm), VESA 75x75" },
-      { label: "Marca", value: "Xiaomi" },
+    seoTitle: "Xiaomi G34WQi 34 180Hz: ojo, no es IPS pese a la ficha",
+    metaDescription: "Monitor Xiaomi G34WQi 34 ultrawide 180Hz: 4.8★ en 1.250 calificaciones. La publicación dice panel IPS; compradores y fabricante confirman que es VA. Todo el detalle acá.",
+    ogTitle: "Xiaomi G34WQi 34 ultrawide 180Hz: el más agresivo en precio (con un dato que la ficha no dice bien)",
+    ogDescription: "1.250 calificaciones, 4.8★. 3440x1440, 180Hz, curva 1500R. Pero la publicación dice panel IPS y en realidad es VA: te contamos qué cambia eso en la práctica.",
+    h1: "Monitor Xiaomi G34WQi 34 pulgadas ultrawide curvo 180Hz: el más agresivo en precio",
+    pros: [
+      "4.8⭐ en 1.250 calificaciones: el ultrawide con más respaldo y el más agresivo en precio de la selección",
+      "3440x1440 (UWQHD) a 180 Hz reales por DisplayPort, con buen color (100% sRGB, 95% DCI-P3) confirmado por el fabricante",
+      "Pie con altura, inclinación y giro (\"elevación bastante generosa\", dice una reseña argentina), no solo inclinación como otros monitores de esta selección",
+      "Excelente para multitarea y trabajo: varias reseñas lo usan para tener 3-4 ventanas abiertas a la vez o reemplazar dos monitores",
+      "18% de descuento sobre el precio de lista ($774.999 a $629.999)",
+      "Buen resultado en negros incluso viniendo de un panel mini-LED, según una reseña argentina, siempre que no se use a brillo máximo",
     ],
+    cons: [
+      "La publicación dice panel IPS, pero NO lo es: es VA, y lo confirman tanto el fabricante como compradores de Argentina y Colombia por separado (\"no es IPS la pantalla\", avisa una reseña; \"la descripción dice que es IPS, no es IPS\", confirma otra)",
+      "Ghosting real a 180 Hz, sobre todo notorio en juegos rápidos: varias reseñas recomiendan bajar a 120 Hz para competitivo, donde se nota mucho menos",
+      "Fugas de luz en las esquinas a brillo máximo, según múltiples reseñas: se corrige casi por completo bajando el brillo",
+      "No siempre trae cable HDMI en la caja (solo DisplayPort), y para aprovechar los 180 Hz hay que usar sí o sí DisplayPort: por HDMI queda en 100-120 Hz según la reseña",
+      "Sin parlantes integrados, según confirman varias reseñas",
+      "No recomendado para shooters competitivos como CS, avisa una reseña argentina que sí lo recomienda para sim racing y trabajo",
+    ],
+    verdict: "A $629.999 (18% off), es el ultrawide más agresivo en precio de la selección: 3440x1440 a 180 Hz reales, con el pie más completo (altura, inclinación y giro) y el mejor respaldo de compradores del formato. La corrección honesta más importante: la publicación dice IPS y es VA, confirmado por el fabricante y por reseñas de varios países. Para shooters muy competitivos, mejor bajar a 120 Hz.",
+    articleBody: `## El ultrawide más agresivo en precio
+
+El Xiaomi G34WQi cuesta $629.999 (18% menos que el precio de lista de $774.999) y es el ultrawide 34" más vendido y mejor puntuado de esta selección: 4.8 estrellas en 1.250 calificaciones (con reseñas de Argentina y de otros países de Latinoamérica, algo habitual en publicaciones de catálogo). Es un panel curvo (1500R) 21:9 con resolución UWQHD (3440x1440), 180 Hz por DisplayPort, 1 ms GtG y FreeSync Premium.
+
+## El error de la ficha: dice IPS, es VA
+
+Acá está la corrección más importante de esta ficha. La publicación de MercadoLibre describe el panel como IPS, pero no lo es: tanto el fabricante como reseñas independientes de distintos países lo confirman como panel VA. Una reseña de Colombia lo dice sin vueltas: "la descripción dice que el monitor es IPS, no es IPS... en este rango de precio, los paneles casi siempre son VA". Una reseña de Argentina coincide: "muy satisfecho, solo tengan en cuenta que no es IPS la pantalla". No es necesariamente un problema (varias reseñas destacan que el VA de este modelo rinde muy bien), pero es un dato que cambia expectativas: los ángulos de visión y la consistencia de color de un VA no son los de un IPS real.
+
+## 180 Hz reales, con matices sobre el ghosting
+
+Una reseña extensa y muy votada (178 útiles) hace el análisis más completo del panorama: "el ghosthing es notable pero solo si se usan los 180hz, yo recomiendo que si vas a jugar competitivo lo uses abajo de 120 [Hz] ya que ahí no se nota mucho, y activando el freesync todavía reduce eso". La misma reseña destaca que las fugas de luz solo se notan a brillo máximo: "si no lo vas a usar al brillo máximo no te preocupes por nada de fugas de luz". Sobre el color, es contundente: con una buena calibración en el panel de control de Nvidia, "supera por mucho a mi IPS anterior".
+
+## El cable DisplayPort importa (más de lo que parece)
+
+Una reseña de Colombia (87 votos útiles) resolvió un problema de parpadeo intermitente que parecía una falla del monitor: "descubrí que la falla no era del monitor, sino del cable DisplayPort 1.4 que venía en la caja. Al cambiarlo por un cable DisplayPort 2.1, el problema desapareció por completo". Es un dato valioso: si te llega con parpadeos, probá cambiar el cable antes de pensar en una devolución. Además, varias reseñas confirman que no todas las unidades traen cable HDMI, solo el de DisplayPort, y que los 180 Hz completos necesitan sí o sí ese puerto (por HDMI el tope ronda 100-120 Hz según el equipo).
+
+## Ergonomía completa, uso real en Argentina
+
+Una reseña argentina lo resume bien: "el pie que tiene es cómodo, ya que al ser plano se pueden poner cosas sobre este y no te 'roba' espacio en el escritorio. Las regulaciones son muy buenas, ya que cuenta con inclinación hacia arriba y abajo y a los costados, como también con la elevación que es bastante generosa". La misma reseña lo usa para trabajo y sim racing, pero aclara un límite honesto: "no recomiendo para shooters como CS", coincidiendo con la advertencia del ghosting a 180 Hz completos.
+
+## Contra el Gigabyte GS34WQC y el Samsung G5 27 QHD
+
+Dentro del mismo formato ultrawide, el [Gigabyte GS34WQC](/producto/MLA28853185) ($919.599) es la alternativa de marca gamer especializada: mismo tamaño y resolución, pero con 120 Hz (135 con overclock) en vez de 180, a un precio bastante más alto. El Xiaomi gana en Hz y precio; el Gigabyte, en respaldo de marca dedicada a gaming. Frente al [Samsung Odyssey G5 27" QHD](/producto/MLA43960827) ($554.413), la elección es de formato: pantalla más chica y curva más cerrada versus panorámica de 34" con más espacio de trabajo.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: buscás el ultrawide más grande y barato de la selección para trabajo con múltiples ventanas, sim racing o juegos de mundo abierto, y no te molesta jugar por debajo de 180 Hz en títulos competitivos. No es para vos si: dabas por sentado un panel IPS (no lo es), jugás shooters competitivos exigentes al máximo de Hz, o necesitás parlantes integrados.
+
+A $629.999 con 4.8 estrellas en 1.250 calificaciones, es la puerta de entrada más accesible al formato ultrawide de 34", siempre que entres sabiendo que el panel es VA, no IPS.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Xiaomi" },
+      { label: "Modelo", value: "G34WQi" },
+      { label: "Pantalla", value: "34 pulgadas ultrawide (21:9), panel VA curvo (1500R). La publicación dice IPS: es un error, confirmado por el fabricante y por reseñas independientes" },
+      { label: "Resolución", value: "UWQHD 3440x1440" },
+      { label: "Frecuencia", value: "180 Hz máx., solo por DisplayPort (por HDMI topea entre 100 y 120 Hz según el equipo)" },
+      { label: "Tiempo de respuesta", value: "1 ms (GtG)" },
+      { label: "Brillo / Contraste", value: "400 cd/m² (según fabricante), 3.500:1" },
+      { label: "Color", value: "100% sRGB, 95% DCI-P3" },
+      { label: "Sincronización", value: "AMD FreeSync Premium" },
+      { label: "Puertos", value: "2x DisplayPort + 2x HDMI. No todas las unidades traen cable HDMI en la caja" },
+      { label: "Ergonomía", value: "Altura regulable (120 mm), inclinación y giro, VESA 75x75" },
+      { label: "Audio", value: "Sin parlantes integrados" },
+      { label: "Color (gabinete)", value: "Negro, con iluminación ambiental (Ambilight) en la parte trasera" },
+    ],
+    faq: [
+      { question: "¿El panel es IPS o VA?", answer: "Es VA, no IPS pese a lo que dice la publicación de MercadoLibre. Lo confirman tanto el fabricante como reseñas de compradores de distintos países (Argentina y Colombia entre otras). No es necesariamente un problema: varias reseñas destacan que el color y el contraste de este VA en particular rinden muy bien, pero conviene saberlo antes de comprar si esperabas específicamente un panel IPS." },
+      { question: "¿Tiene ghosting?", answer: "A 180 Hz completos, sí, y varias reseñas lo confirman como notorio en juegos rápidos. La recomendación de una reseña muy votada es bajar a 120 Hz para gaming competitivo, donde el ghosting baja mucho, y activar FreeSync para reducirlo más." },
+      { question: "¿Tiene fugas de luz?", answer: "Sí, en las esquinas, pero según varias reseñas solo se nota a brillo máximo. Bajando el brillo (algo que la mayoría hace igual, sobre todo en habitaciones oscuras), el problema prácticamente desaparece." },
+      { question: "¿Por qué me parpadea la pantalla?", answer: "Antes de pensar en una falla del monitor, revisá el cable DisplayPort: una reseña de Colombia resolvió un parpadeo intermitente cambiando el cable DP 1.4 que trae la caja por uno DP 2.1. También puede pasar si conectás por HDMI a más de 100-120 Hz sin que el equipo lo soporte bien." },
+      { question: "¿Trae cable HDMI?", answer: "No siempre: varias reseñas confirman que la caja solo trae cable DisplayPort en muchas unidades. Y aunque tuvieras HDMI, los 180 Hz completos necesitan sí o sí DisplayPort; por HDMI el tope ronda 100-120 Hz según el equipo." },
+      { question: "¿Tiene parlantes?", answer: "No, no trae parlantes integrados, según confirman varias reseñas. Hay que sumar parlantes externos o auriculares." },
+      { question: "¿Sirve para trabajar con varias ventanas?", answer: "Es uno de sus puntos más fuertes: varias reseñas lo usan específicamente para eso, con 3 o 4 ventanas abiertas a la vez, o como reemplazo de un setup de dos monitores." },
+      { question: "¿Conviene este o el Gigabyte GS34WQC?", answer: "Mismo tamaño y resolución, pero distinta propuesta: el Xiaomi ($629.999) da más Hz (180 vs 120, 135 con overclock) a menor precio. El Gigabyte ($919.599) es de una marca gamer especializada, con la mejor valoración de los ultrawide de esta selección. Para Hz y precio, el Xiaomi; para respaldo de marca dedicada, el Gigabyte." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "diciembre 2025", useful: 5, text: "Muy satisfecho, solo tengan en cuenta que no es IPS la pantalla." },
+      { rating: 5, country: "México", date: "septiembre 2025", useful: 178, text: "Pasé de uno IPS 1440p a este y en verdad superó mis expectativas ya que no le tenía mucha fe en cuanto los colores por ser VA, pero vaya que me equivoqué. Si bien es cierto que tiene ciertas fugas de luz, es a brillo máximo; como mi habitación es relativamente oscura lo uso en brillos mínimos, ahí cambia la cosa, es brutal cómo los negros son más profundos que el IPS que tengo al lado. Otra cosa que noté es que el ghosting es notable pero solo si se usan los 180hz; yo recomiendo que si vas a jugar competitivo lo uses abajo de 120, ahí no se nota mucho, y activando el FreeSync todavía reduce eso. Los colores para nada me defraudaron: una buena calibración en el panel de control de Nvidia y supera por mucho a mi IPS anterior." },
+      { rating: 5, country: "Colombia", date: "2025", useful: 87, text: "Compré el Xiaomi Curved Gaming Monitor G34WQi para trabajo y entretenimiento. Inicialmente tuve un problema de parpadeo intermitente, lo cual me preocupó. Sin embargo, tras algunas pruebas descubrí que la falla no era del monitor, sino del cable DisplayPort 1.4 que venía en la caja. Al cambiarlo por un cable DisplayPort 2.1, el problema desapareció por completo. Si notás parpadeos, te recomiendo cambiar el cable DP antes de pensar en una falla del equipo. Fuera de ese detalle, el monitor ha funcionado perfectamente tanto para trabajar como para jugar." },
+      { rating: 5, country: "Colombia", date: "2025", useful: 45, text: "Apenas llevo unos días con el monitor y me ha ido muy bueno, cero quejas o comentarios negativos, lo único es que no traía cable HDMI incluido, solo cable DP, así que tuve que comprar uno. Por lo demás estoy muy satisfecho." },
+      { rating: 4, country: "Colombia", date: "enero 2026", useful: 3, text: "Funciona bien, viene bien protegido, no hay quejas en absoluto. Solamente tengan en cuenta dos cosas: la descripción dice que el monitor es IPS, no es IPS; si buscan excelentes colores, posiblemente les toque gastar más, ya que en este rango de precio los paneles casi siempre son VA. Segundo, si van a usar una conexión HDMI, no van a poder aprovechar los 180hz del monitor." },
+      { rating: 5, country: "Argentina", date: "marzo 2026", useful: 0, text: "Muy buen monitor, una calidad excelente, nada raro. El pie que tiene es cómodo, ya que al ser plano se pueden poner cosas sobre este y no te \"roba\" espacio en el escritorio. Las regulaciones son muy buenas, ya que cuenta con inclinación hacia arriba y abajo y a los costados, como también con la elevación que es bastante generosa. Yo lo utilizo para trabajar y para sim racing principalmente, donde se destaca por el tamaño y la comodidad. No recomiendo para shooters como CS." },
+      { rating: 5, country: "Argentina", date: "diciembre 2025", useful: 8, text: "Superó cualquier expectativa, no le tengas temor al panel VA: vengo de mini-LED y en este no sentí el bajón. Tengo que bajarle el brillo." },
+      { rating: 5, country: "México", date: "2025", useful: 16, text: "Buena calidad, buena tasa de refresco, estoy satisfecho. Una cosa que no me gustó fue que no tiene bocinas integradas, se las tenés que comprar aparte." },
+    ],
+    aiReviewSummary: "El hallazgo más importante de esta ficha: la publicación describe el panel como IPS, pero es VA, confirmado tanto por el fabricante como por reseñas independientes de Argentina, México y Colombia. No es necesariamente un defecto (varias reseñas destacan que el color y los negros de este VA en particular superan a paneles IPS que tenían antes), pero cambia la expectativa de compra. El segundo tema recurrente es el ghosting a 180 Hz, manejable bajando a 120 Hz para gaming competitivo. También hay coincidencia en que las fugas de luz solo se notan a brillo máximo, y en que conviene revisar el cable DisplayPort si aparecen parpadeos (una reseña resolvió el problema cambiando el cable, no era falla del monitor). La ergonomía (altura, inclinación, giro) recibe elogios consistentes en reseñas argentinas.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Gamer Curvo Xiaomi G34WQi 34 UWQHD 180Hz",
+      image: "https://http2.mlstatic.com/D_NQ_NP_689871-MLA99407869728_112025-F.jpg",
+      description: "Monitor gamer Xiaomi G34WQi de 34 pulgadas ultrawide curvo (1500R): panel VA UWQHD (3440x1440) a 180 Hz, 1 ms GtG, FreeSync Premium, 100% sRGB y 95% DCI-P3. 4.8 estrellas con 1.250 calificaciones en MercadoLibre.",
+      brand: { "@type": "Brand", name: "Xiaomi" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1MQkxTt",
+        priceCurrency: "ARS",
+        price: 629999,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "1250",
+      },
+    },
     relatedProducts: ["MLA28853185", "MLA43960827"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -262,6 +966,7 @@ export const curatedProducts: Product[] = [
     id: "MLA28853185",
     title: "Monitor Gamer Gigabyte GS34WQC 34 Curvo UWQHD",
     canonicalName: "Monitor Gigabyte GS34WQC 34 Ultrawide Curvo",
+    brand: "Gigabyte",
     price: 919599,
     originalPrice: 1099999,
     currency: "ARS",
@@ -277,17 +982,114 @@ export const curatedProducts: Product[] = [
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 128,
+    reviewCount: 234,
+    reviewsSampledAt: "2026-07-03",
     pastelColor: "var(--pastel-violeta)",
     visibility: "normal",
-    specs: [
-      { label: "Pantalla", value: "34 pulgadas ultrawide (21:9), panel VA curvo (1500R)" },
-      { label: "Resolución", value: "UWQHD 3440x1440, compatible HDR" },
-      { label: "Frecuencia", value: "120 Hz (135 con overclock, por DisplayPort)" },
-      { label: "Respuesta", value: "1 ms MPRT, FreeSync Premium" },
-      { label: "Ergonomía", value: "Altura regulable, VESA 100x100" },
-      { label: "Marca", value: "Gigabyte" },
+    seoTitle: "Gigabyte GS34WQC 34: el ultrawide de marca gamer, ¿vale?",
+    metaDescription: "Monitor Gigabyte GS34WQC 34 curvo UWQHD 120Hz: 4.9★ en 234 calificaciones, el mejor puntaje de los ultrawide. Panel VA con negros grisáceos y HDR básico, honesto acá.",
+    ogTitle: "Gigabyte GS34WQC 34: el ultrawide con mejor puntaje de la selección",
+    ogDescription: "234 calificaciones, 4.9★. 3440x1440, 120Hz (135 con OC), contraste 4.000:1. Pero el HDR es básico y el panel VA se resiente en ángulos: la ficha honesta acá.",
+    h1: "Monitor Gigabyte GS34WQC 34 pulgadas curvo UWQHD: el ultrawide de marca gamer",
+    pros: [
+      "4.9⭐ en 234 calificaciones: el mejor puntaje de los tres ultrawide y de toda la selección de monitores",
+      "Contraste 4.000:1 (según fabricante), de los más altos en un panel VA: varias reseñas destacan negros profundos y buen brillo",
+      "Palanca de cambio de entrada para alternar entre dos PCs sin tocar cables, confirmado por una reseña que la usa a diario",
+      "Ergonomía completa: altura regulable, y varias reseñas la destacan como \"un espectáculo\" frente a monitores fijos",
+      "Buen resultado en edición profesional de video, según una reseña que lo compara sin problemas contra monitores de gama alta",
+      "16% de descuento sobre el precio de lista ($1.099.999 a $919.599)",
     ],
+    cons: [
+      "El panel VA tiene un límite real de ángulos: una reseña de 3 estrellas lo marca sin vueltas, \"los ángulos de visión son muy pobres... al mínimo movimiento, los tonos se distorsionan notablemente\"",
+      "HDR básico, no una implementación completa: varias reseñas coinciden en que \"el HDR no resuelve bien la exposición\" y que los negros pueden verse grisáceos en vez de profundos",
+      "Solo 120 Hz nativos (135 con overclock), menos que los 180 Hz del Xiaomi G34WQi de esta misma selección, a más del 45% de precio extra",
+      "Al menos una reseña reporta que no trajo el cable HDMI que la publicación lista como incluido, y otra que ningún cable de la caja le sirvió",
+      "Hay reportes puntuales de defectos de unidad: pie roto en el traslado, audio que no funciona, algún píxel atascado (no muerto)",
+      "El VESA 100x100 encaja, pero al menos una reseña tuvo que conseguir tornillos más largos que los incluidos para montarlo en un brazo",
+    ],
+    verdict: "A $919.599 (16% off), es el ultrawide con mejor puntaje de la selección (4.9⭐ en 234 calificaciones) y el de mayor contraste real (4.000:1). El límite honesto: panel VA con ángulos de visión limitados y HDR básico que varias reseñas describen como flojo. Frente al Xiaomi G34WQi más barato, la pregunta es si el salto de calidad de imagen justifica pagar más por 60 Hz menos.",
+    articleBody: `## El ultrawide con mejor puntaje de la selección
+
+El Gigabyte GS34WQC cuesta $919.599 (16% menos que el precio de lista de $1.099.999) y tiene el mejor puntaje de los tres monitores ultrawide de esta selección: 4.9 estrellas en 234 calificaciones. Es un panel VA curvo (1500R) de 34 pulgadas UWQHD (3440x1440), 120 Hz (135 con overclock por DisplayPort), 1 ms MPRT, FreeSync Premium y contraste de 4.000:1 según el fabricante, de los más altos en un panel VA.
+
+## El contraste es real, según las reseñas
+
+Varias reseñas destacan específicamente los negros y el brillo: "colores vividos, excelente calidad por su precio", "los colores, los negros y la calidad excelente". Una reseña que edita video profesionalmente lo compara sin complejos contra equipos de gama alta: "tengo monitores de alta gama, nada que envidiarles; este monitor funciona a la perfección tanto en juegos como en edición profesional de video". El contraste de 4.000:1 que declara el fabricante está por encima del promedio de los paneles VA de esta selección (los Samsung declaran 2.500-3.000:1).
+
+## El límite real: ángulos de visión y HDR básico
+
+No todas las reseñas son igual de entusiastas. La más crítica, de 3 estrellas, señala el límite típico de un panel VA sin vueltas: "el panel deja mucho que desear. Los ángulos de visión son muy pobres y presenta fugas de luz excesivas. Los colores son buenos, pero solo cuando se observa desde el centro; al mínimo movimiento, los tonos se distorsionan notablemente". Sobre el HDR, el consenso es parecido: "su HDR es básico", dice una reseña; otra es más dura: "el HDR por lo menos a mí no me gusta, no resuelve bien la exposición de las imágenes... el panel VA deja mucho que desear con los negros siendo grises". El fabricante lo etiqueta como "HDR Ready", no una certificación DisplayHDR completa, y las reseñas confirman esa letra chica.
+
+## La palanca de cambio de entrada, un plus real
+
+Un detalle que no está en la ficha técnica pero que varias reseñas destacan: trae un selector físico (palanca) para alternar entre dos PCs conectadas sin desenchufar cables. Una reseña lo confirma con uso diario: "lo tengo hace más de 6 meses conectado a dos computadoras, así que con la palanquita elijo si la PC de juego o la de trabajo, es un golazo de monitor". Es una comodidad que ni el Xiaomi ni el Samsung de esta selección ofrecen de fábrica.
+
+## Contra el Xiaomi G34WQi: ¿vale la diferencia de precio?
+
+Es la comparación obligada dentro de esta selección. El [Xiaomi G34WQi](/producto/MLA43960787) ($629.999) da 60 Hz más (180 vs 120) a un 32% menos de precio, aunque con una publicación que confunde el tipo de panel (dice IPS y es VA, como el Gigabyte). El Gigabyte compensa con mejor contraste declarado (4.000:1 vs 3.500:1) y la palanca de cambio de entrada. Si los Hz son tu prioridad, el Xiaomi rinde más por menos; si el contraste y la practicidad de dos PCs pesan más, el Gigabyte justifica la diferencia.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: valorás el mejor contraste de la selección para edición de video o gaming con buenos negros, usás dos PCs y querés cambiar de entrada sin enchufar cables, y no te importan 60 Hz menos que el Xiaomi. No es para vos si: priorizás HDR real (acá es básico), vas a usar el monitor desde ángulos laterales con frecuencia, o el presupuesto es ajustado, porque es el ultrawide más caro de la selección.
+
+A $919.599 con 4.9 estrellas en 234 calificaciones, es el ultrawide con mejor respaldo de compradores, siempre que entres sabiendo que el HDR es básico y los ángulos de visión, típicos de un VA.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Gigabyte" },
+      { label: "Modelo", value: "GS34WQC" },
+      { label: "Pantalla", value: "34 pulgadas ultrawide (21:9), panel VA curvo (1500R)" },
+      { label: "Resolución", value: "UWQHD 3440x1440, HDR Ready (no es una certificación DisplayHDR completa; varias reseñas describen el HDR como básico)" },
+      { label: "Frecuencia", value: "120 Hz nativos (135 Hz con overclock activado desde el menú, por DisplayPort)" },
+      { label: "Tiempo de respuesta", value: "1 ms (MPRT)" },
+      { label: "Brillo / Contraste", value: "300 cd/m², 4.000:1 típico (según fabricante, de los más altos en un panel VA)" },
+      { label: "Ángulos de visión", value: "178° según fabricante; reseñas reportan distorsión de color notoria al moverse del centro, típico de un panel VA" },
+      { label: "Sincronización", value: "AMD FreeSync Premium" },
+      { label: "Puertos", value: "1x DisplayPort 1.4 + 2x HDMI 2.0. Al menos una reseña reporta no haber recibido el cable HDMI listado como incluido" },
+      { label: "Extras", value: "Palanca física para alternar entre dos PCs conectadas, sin desenchufar cables" },
+      { label: "Ergonomía", value: "Altura regulable (100 mm), inclinación -5° a 20°, VESA 100x100 (una reseña necesitó tornillos más largos que los incluidos)" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Vale la pena pagar más que el Xiaomi G34WQi?", answer: "Depende de la prioridad. El Xiaomi ($629.999) da más Hz (180 vs 120) a menor precio. El Gigabyte ($919.599) tiene mejor contraste declarado (4.000:1 vs 3.500:1), la palanca de cambio de entrada para dos PCs, y el mejor puntaje de la selección (4.9 vs 4.8). Si los Hz importan más, el Xiaomi; si el contraste y la practicidad pesan más, el Gigabyte." },
+      { question: "¿El HDR es bueno?", answer: "Es básico. El fabricante lo etiqueta como \"HDR Ready\", no una certificación DisplayHDR completa, y varias reseñas lo confirman: \"el HDR por lo menos a mí no me gusta, no resuelve bien la exposición de las imágenes\". Para HDR real de alto nivel, hay que buscar en una gama de precio bastante más alta." },
+      { question: "¿Tiene buenos ángulos de visión?", answer: "Es el punto más débil según la reseña más crítica del panorama: \"los ángulos de visión son muy pobres... al mínimo movimiento, los tonos se distorsionan notablemente\". Es una limitación típica de los paneles VA, y en este modelo se nota más que en otros VA de esta selección." },
+      { question: "¿Sirve para conectar dos PCs?", answer: "Sí, y es uno de sus diferenciales reales: trae una palanca física para alternar entre dos computadoras sin desenchufar cables, algo que ni el Xiaomi ni el Samsung de esta selección ofrecen de fábrica." },
+      { question: "¿Trae cable HDMI?", answer: "No siempre: al menos una reseña reporta no haber recibido el cable HDMI pese a figurar como incluido en la publicación. Confirmá antes de comprar si lo necesitás específicamente." },
+      { question: "¿Cuál es el contraste real?", answer: "El fabricante declara 4.000:1 típico, de los más altos entre los paneles VA de esta selección (los Samsung rondan 2.500-3.000:1). Varias reseñas confirman negros profundos y buen brillo en la práctica." },
+      { question: "¿Conviene para edición de video profesional?", answer: "Varias reseñas lo usan para eso con buenos resultados, incluyendo una que lo compara sin complejos contra monitores de gama alta que ya tenía. El límite es el HDR básico: para color crítico de alta gama, no es la herramienta ideal, pero para edición general rinde muy bien." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Uruguay", date: "2025", useful: 10, text: "Vale muchísimo la pena, principalmente porque no existe otro ultrawide 1440p a este precio. Muy cómodo tanto para jugar como para trabajar. Buena calidad de imagen, lo único que me hizo falta fue un poco más de brillo porque en mi habitación me da el sol contra la pantalla, pero nada que no se solucione cerrando un poco las cortinas." },
+      { rating: 3, country: "Argentina", date: "2025", useful: 0, text: "El producto me parece revolucionario para mi trabajo. Poder dividir la pantalla en tres o dos secciones es una funcionalidad excelente que ha mejorado significativamente mi productividad. Sin embargo, el panel deja mucho que desear. Los ángulos de visión son muy pobres y presenta fugas de luz excesivas. Los colores son buenos, pero solo cuando se observa desde el centro; al mínimo movimiento, los tonos se distorsionan notablemente." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 1, text: "La verdad que el monitor tiene una calidad más que decente. Calibrando el HDR podés sacarle bastante jugo. Como todo lo tecnológico en este país lo pagamos mucho más caro de lo que tendría que salir, pero no me arrepiento de la compra, 21:9 es un antes y un después. Lo único malo es que a las 2 semanas se quedó un píxel atascado, no muerto. Al ser un panel VA se sabe que tiene fugas de luz; este por suerte no son tan notorias, no con un brillo decente." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 1, text: "Bueno, el precio caro para lo que es, pero está bastante ok. Los 10 bits se aprecian mucho, el panel VA deja mucho que desear con los negros siendo grises. El HDR por lo menos a mí no me gusta, no resuelve bien la exposición de las imágenes." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 4, text: "Excelente monitor y con buenas prestaciones. Se ancló bien al soporte, solo tuve que conseguir unos tornillos un poco más largos que los que trae." },
+      { rating: 5, country: "Argentina", date: "diciembre 2025", useful: 0, text: "Lo tengo hace más de 6 meses conectado a dos computadoras, así que con la palanquita elijo si la PC de juego o la de trabajo, es un golazo de monitor." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 0, text: "Excelente monitor, trabajo en edición profesional y es un viaje de ida. No me animaba a monitor curvo, pero este en relación precio calidad es excelente, y tengo monitores de alta gama, nada que envidiarles. Funciona a la perfección tanto en juegos como en edición profesional de video." },
+      { rating: 4, country: "Uruguay", date: "2025", useful: 3, text: "Muy buena, una lástima que vino con el pie quebrado, me imagino que fue el traslado." },
+    ],
+    aiReviewSummary: "Con 234 calificaciones, es el ultrawide con mejor puntaje de la selección. El punto fuerte confirmado por varias reseñas es el contraste: negros profundos y buen brillo, coherente con el 4.000:1 que declara el fabricante. El límite honesto aparece en dos temas recurrentes: los ángulos de visión (una reseña de 3 estrellas los describe como \"muy pobres\", con distorsión de color al moverse del centro) y el HDR, que varias reseñas coinciden en calificar de básico o directamente decepcionante. La palanca física para alternar entre dos PCs aparece como un diferencial real que ni el Xiaomi ni el Samsung de esta selección ofrecen. Hay reportes puntuales de defectos de unidad (pie roto, audio dañado, píxel atascado) que parecen aislados, no un patrón sistemático.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monitor Gamer Gigabyte GS34WQC 34 Curvo UWQHD",
+      image: "https://http2.mlstatic.com/D_NQ_NP_699006-MLA99442569860_112025-F.jpg",
+      description: "Monitor gamer Gigabyte GS34WQC de 34 pulgadas ultrawide curvo (1500R): panel VA UWQHD (3440x1440) a 120 Hz (135 con overclock), 1 ms MPRT, FreeSync Premium y contraste 4.000:1. 4.9 estrellas con 234 calificaciones en MercadoLibre Argentina.",
+      brand: { "@type": "Brand", name: "Gigabyte" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2VotvC2",
+        priceCurrency: "ARS",
+        price: 919599,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "234",
+      },
+    },
     relatedProducts: ["MLA43960787", "MLA43960827"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -900,6 +1702,7 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     id: "MLA44849297",
     title: "Mouse Gamer Logitech G203 Lightsync White",
     canonicalName: "Mouse Gamer Logitech G203 Lightsync",
+    brand: "Logitech",
     price: 34799,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_611122-MLA93494801285_092025-F.jpg",
@@ -914,17 +1717,122 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 16419,
+    reviewCount: 52576,
+    reviewsSampledAt: "2026-07-04",
     pastelColor: "var(--pastel-verde)",
     visibility: "normal",
-    specs: [
-      { label: "Conexión", value: "Con cable (2,1 m)" },
-      { label: "Sensor", value: "Óptico, hasta 8.000 DPI" },
-      { label: "Peso", value: "85 g" },
-      { label: "Botones", value: "6 programables" },
-      { label: "Iluminación", value: "RGB Lightsync" },
-      { label: "Garantía", value: "2 años (Logitech)" },
+    seoTitle: "Logitech G203 Lightsync: el mouse gamer más vendido de AR",
+    metaDescription: "Mouse Logitech G203 Lightsync: 4.9★ en 52.576 calificaciones, el más vendido de Argentina. Switches Omron de 10M clicks, cable delicado y chico para manos grandes.",
+    ogTitle: "Logitech G203 Lightsync: el mouse gamer que casi todo el mundo tiene",
+    ogDescription: "52.576 calificaciones, 4.9★. Sensor de 8.000 DPI, RGB y 2 años de garantía por $34.799. La letra chica: switches de 10M clicks y un cable que hay que cuidar.",
+    h1: "Mouse Gamer Logitech G203 Lightsync: el más vendido de Argentina",
+    pros: [
+      "4.9⭐ en 52.576 calificaciones: por lejos el producto con más reseñas de todo el catálogo",
+      "Sensor óptico preciso de hasta 8.000 DPI, elogiado en decenas de reseñas técnicas por su exactitud",
+      "6 botones programables y RGB Lightsync personalizable vía software Logitech G HUB",
+      "Livianito (85 g) y cómodo para sesiones largas, según reseñas de manos grandes y chicas por igual",
+      "2 años de garantía Logitech, y varias reseñas confirman 4-6 años de uso real sin fallas",
+      "El más barato de la línea Logitech gamer y con la relación precio-calidad más citada del catálogo",
     ],
+    cons: [
+      "Preocupación recurrente por falsificaciones: varias reseñas reportan cajas con sellos rotos o ya abiertas, aunque la mayoría confirma que el producto es original y que G HUB lo reconoce sin problema",
+      "Los switches Omron están calculados para 10 millones de clics según una reseña técnica detallada, contra los 50 millones de los mouse más caros: no es para durar toda la vida",
+      "El cable es delicado: varias reseñas reportan que se raja en el punto donde se dobla, cerca del cuerpo o del conector USB, tras varios meses de uso",
+      "Es chico: varias reseñas de manos grandes lo recomiendan solo para agarre fingertip o claw, no para palm grip completo",
+      "El clic derecho es muy sensible para quienes apoyan el dedo sobre el mouse, según una reseña: puede activarse sin querer",
+      "Sin memoria de perfiles múltiples ni doble clic dedicado, a diferencia de mouse más caros de la misma marca",
+    ],
+    verdict: "A $34.799, es el mouse gamer más vendido de Argentina (52.576 calificaciones, 4.9⭐) y con motivo: sensor de 8.000 DPI preciso, RGB personalizable y 2 años de garantía por muy poca plata. Los límites reales están en la durabilidad de los switches (10 millones de clics) y en el cable, que hay que cuidar. Para el 90% de los usuarios, sigue siendo la compra segura de entrada.",
+    articleBody: `## El mouse gamer más vendido de Argentina, por lejos
+
+El Logitech G203 Lightsync cuesta $34.799 y es el producto con más reseñas de todo el catálogo de ProductosVirales: 52.576 calificaciones con 4.9 estrellas, más de 20.800 con comentario escrito. Es un mouse con cable, sensor óptico de hasta 8.000 DPI, 6 botones programables, 85 gramos y RGB Lightsync personalizable por software. A este volumen de reseñas, el patrón que se repite es más confiable que cualquier ficha técnica.
+
+## Sensor preciso, el punto que nadie discute
+
+La coincidencia entre miles de reseñas es total: el sensor es el punto fuerte. Una reseña técnica muy detallada de Argentina lo resume así: "no vale nada y tiene un sensor buenísimo, una forma sobria, bastante adaptable para los diferentes agarres... los topes de abajo permiten que deslice bien". Otra, de México, hace un análisis punto por punto: "si quieres un mouse preciso y económico este es una gran opción... los botones son suaves, cómodos y de presión ligera... la posición de cada botón es correcta, la rueda está centrada". El consenso: para el precio, no hay sensor comparable.
+
+## La preocupación por falsificaciones (y por qué no hay que asustarse tanto)
+
+Al ser el mouse más vendido, también es uno de los más falsificados del mercado, y eso aparece reflejado en las reseñas. Una de las más votadas de todo el panorama lo aclara: "hay muchos comentarios que dicen que es pirata y la app LGHUB no lo reconoce. El producto es original y la app sí lo reconoce, yo mismo estaba dudando por tantos comentarios negativos, pero se los recomiendo totalmente". Aun así, hay reportes puntuales de cajas con sellos rotos o "ya destapadas previamente", y hasta una reseña que compara un clon con el original. La recomendación honesta: comprá de un vendedor con buena reputación, y si dudás, la app G HUB oficial de Logitech es la forma más fácil de confirmar que es original (reconoce el mouse y permite configurar DPI, botones y RGB).
+
+## Los switches, el límite de durabilidad real
+
+Una reseña técnica de México, con años de experiencia reparando mouse, da el dato más preciso que hay sobre la vida útil real: "los switches Omron de este mouse son de 10 millones de clics, razón por la cual duraran poco tiempo... los mouse más caros traen de 50 millones de clic". No es una falla, es una decisión de diseño para llegar a este precio. Varias reseñas confirman igual 4 a 6 años de uso diario sin problemas ("tuve el mismo 4 años, hasta que empezó a fallar la ruedita. Volví a comprar el mismo porque es alto mouse"), así que en la práctica, para la mayoría alcanza y sobra.
+
+## El cable, el otro punto débil según varias reseñas
+
+Es la segunda queja más repetida después de las falsificaciones: el cable es de goma simple, no trenzado, y varias reseñas (de Brasil, Argentina y otros países) reportan que se raja en el punto de dobles cerca del cuerpo del mouse o del conector USB después de varios meses de uso diario. Ninguna reseña reporta que esto afecte el funcionamiento a corto plazo, pero es un punto a cuidar: evitar tirones y no enrollarlo muy ajustado cuando se guarda.
+
+## Tamaño chico: bueno para fingertip, ajustado para manos grandes
+
+Es una queja consistente de usuarios de manos grandes: el G203 es un mouse compacto. Una reseña de Chile lo resume con honestidad: "me gustaría que fuera unos 5 mm más alto, porque me veo tomándolo como 'garra' para moverlo con más comodidad y después de unas horas me molesta la mano" — el problema se resolvió con un apoyamuñecas. Para agarre fingertip o claw funciona perfecto en cualquier tamaño de mano; para palm grip completo, conviene probarlo antes o mirar un modelo más grande.
+
+## Contra el resto de la línea Logitech de esta selección
+
+Dentro del mismo catálogo, el [Logitech G305 Lightspeed](/producto/MLA11259955) es el salto a inalámbrico con sensor HERO de 12.000 DPI. El [Logitech G Pro Wireless](/producto/MLA14428767) y el [PRO X Superlight 2](/producto/MLA28598537) son el salto a competitivo profesional, mucho más livianos y caros. El G203 sigue siendo la puerta de entrada más razonable: con cable, sensor probado y el precio más bajo de la línea.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: buscás tu primer mouse gamer o uno confiable sin gastar de más, tenés mano chica o mediana (o agarre fingertip/claw con mano grande), y no te molesta un cable. No es para vos si: necesitás inalámbrico, tenés mano grande y preferís palm grip completo, o buscás switches de máxima durabilidad para uso profesional intensivo.
+
+A $34.799 con 4.9 estrellas en 52.576 calificaciones, sigue siendo la compra segura para la enorme mayoría de los que arrancan en gaming.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Logitech" },
+      { label: "Modelo", value: "G203 Lightsync" },
+      { label: "Conexión", value: "Con cable, USB (2,1 m)" },
+      { label: "Sensor", value: "Óptico, ajustable de 200 a 8.000 DPI" },
+      { label: "Polling rate", value: "1.000 Hz (1 ms de respuesta)" },
+      { label: "Peso", value: "85 g" },
+      { label: "Botones", value: "6 programables (sin doble clic dedicado)" },
+      { label: "Switches", value: "Omron, calculados para 10 millones de clics (según fuentes técnicas de terceros; los mouse premium usan switches de 50 millones)" },
+      { label: "Iluminación", value: "RGB Lightsync, 3 zonas configurables vía Logitech G HUB" },
+      { label: "Memoria", value: "Configuración se guarda en el propio mouse una vez activada desde G HUB (útil para usar en otro equipo sin instalar el software)" },
+      { label: "Software", value: "Logitech G HUB (asignación de botones, DPI, perfiles por juego, RGB)" },
+      { label: "Garantía", value: "2 años (Logitech)" },
+      { label: "Color", value: "Blanco (también disponible en negro y otros colores según variante)" },
+    ],
+    faq: [
+      { question: "¿Cómo sé si es original y no una falsificación?", answer: "La forma más simple es instalar Logitech G HUB: si el software reconoce el mouse y permite configurar DPI, botones y RGB, es original. Varias reseñas confirmaron dudas similares (\"pensaba que era pirata\") y terminaron comprobando que sí era genuino. Comprá igual de vendedores con buena reputación y calificaciones altas." },
+      { question: "¿Cuánto dura este mouse?", answer: "Los switches Omron están calculados para 10 millones de clics según fuentes técnicas (contra 50 millones de mouse más caros), pero en la práctica varias reseñas reportan 4 a 6 años de uso diario intensivo sin fallas. El punto que más suele fallar primero es la ruedita del scroll." },
+      { question: "¿Es bueno para manos grandes?", answer: "Es un mouse compacto. Para agarre fingertip o claw funciona bien con cualquier tamaño de mano; para palm grip completo con mano grande, varias reseñas reportan algo de incomodidad después de horas de uso, resuelto con un apoyamuñecas. Si tenés mano grande y preferís palm grip, puede convenir buscar un modelo más grande." },
+      { question: "¿El cable es de buena calidad?", answer: "Es el segundo punto débil más mencionado en las reseñas: es un cable de goma simple, no trenzado, y varias reseñas reportan que se raja en los puntos de doblez (cerca del mouse o del conector USB) después de varios meses. No afecta el funcionamiento en el corto plazo, pero conviene cuidarlo." },
+      { question: "¿Cuántos DPI tiene y cómo se cambian?", answer: "Va de 200 a 8.000 DPI. Con el botón de arriba del scroll se cicla entre presets predefinidos (por ejemplo 400-800-1600-3200); para valores exactos y personalizados hay que usar el software Logitech G HUB." },
+      { question: "¿Necesito el software G HUB para usarlo?", answer: "No es obligatorio: el mouse funciona apenas lo conectás. Pero G HUB permite configurar RGB, asignar funciones a los 6 botones y ajustar DPI con precisión, y guarda esa configuración en la memoria del propio mouse para que se mantenga aunque lo uses en otra PC sin el software instalado." },
+      { question: "¿Conviene este o el Logitech G305 inalámbrico?", answer: "El G203 ($34.799) es con cable, más barato, y su sensor óptico ya es muy preciso. El [G305 Lightspeed](/producto/MLA11259955) suma inalámbrico con sensor HERO de 12.000 DPI a mayor precio. Si el cable no te molesta, el G203 rinde igual de bien para la enorme mayoría de usos." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "México", date: "2025", useful: 171, text: "Hay muchos comentarios que dicen que es pirata y la app LGHUB no lo reconoce. El producto es original y la app sí lo reconoce, yo mismo estaba dudando por tantos comentarios negativos, pero se los recomiendo totalmente." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 320, text: "Parece ilógico que un mouse sea tan bueno en términos generales, siendo objetivo, con un precio tan bajo. No vale nada y tiene un sensor buenísimo, una forma sobria, que es bastante adaptable para los diferentes agarres y RGB para aquel que lo prefiera. No es pesado, los topes de abajo permiten que deslice bien. Lo único que tengo para aconsejar es: usarlo con pad, porque los topes se rayan y eso genera fricción. Cuidar el cable, que es de una goma muy fácil de cortar al rozarlo tanto con el filo posterior de la mesa, donde se usa." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 273, text: "Excelente mouse, lo mejor para gaming de entrada de una marca excelente. Lo único que el click derecho para los que suelen descansar el dedo en el mouse, hace click muy muy fácilmente. Escuché de gente que los pide y los devuelve hasta encontrar un mouse que tenga los dos switches de los clicks de igual dureza. Pero la verdad nada más que recalcar de este hermoso mouse." },
+      { rating: 5, country: "México", date: "2025", useful: 130, text: "Los switches Omron de este mouse son de 10 millones de clics, razón por la cual duraran poco tiempo, yo después de 5 años cambié los del mouse negro por unos de 50 millones de click. Las gomas de la parte baja no deslizan tan bien como se quisiera, recomiendo cambiar por teflón. El texturizado del plástico durará poco y se pondrá liso rápidamente, por suerte hay pads. Claramente recomiendo el mouse si buscas algo económico para trabajos de precisión o juegos." },
+      { rating: 4, country: "Brasil", date: "2025", useful: 92, text: "Mi impresión después de 10 meses usándolo a diario: el ratón en sí está bien acabado y el material de excelente calidad, se nota claramente su precisión y comodidad para la mano. No es completamente silencioso. Solo un problema, el cable: tanto la doblez con el cuerpo del ratón como en la entrada USB se abrieron, lo cual refleja la calidad del cable, que lamentablemente dejó mucho que desear." },
+      { rating: 4, country: "Colombia", date: "2025", useful: 85, text: "Buen producto, sin embargo la caja venía muy maltratada, si bien esto puede ser por la transportadora, los sellos de la caja también venían rotos demostrando que el producto fue destapado previamente." },
+      { rating: 4, country: "Chile", date: "2025", useful: 17, text: "Bueno bonito y barato. A mí en lo personal que venía de un mouse súper pequeño sí se me hizo algo molesto a mi mano el cambio, tuve adormecimientos en el meñique y anular y dolor al final de los días después de usarlo, pero con un apoyamuñecas desapareció mi dolor. Fuera de eso, el mouse es de una notable calidad, es suave, robusto y el sensor es impecable. Otra cosa: cuando lo tengo con Logitech Hub abierto en segundo plano el brillo de la luz se baja muchísimo, quitando ese programa de segundo plano vuelve al brillo máximo." },
+      { rating: 4, country: "Argentina", date: "mayo 2026", useful: 0, text: "Uso: jugar y estudiar. El Logitech G203 es una excelente opción si buscás un mouse gamer bueno, confiable y a un precio accesible. Pros: muy buena relación precio-calidad, preciso y rápido, cómodo y liviano, RGB personalizable. Contras: no es inalámbrico, puede quedar chico para manos grandes. Conclusión: es un mouse ideal para quienes quieren iniciarse en el gaming o buscan algo económico pero de buena calidad." },
+    ],
+    aiReviewSummary: "Con 52.576 calificaciones, es el producto con más data real de todo el catálogo. El sensor es el punto que nadie discute: preciso, adaptable a distintos agarres, elogiado en cientos de reseñas técnicas. Los dos temas que más se repiten como límite real: la preocupación por falsificaciones (varias reseñas reportan cajas con sellos rotos, aunque la inmensa mayoría confirma originalidad vía G HUB) y la durabilidad de los switches Omron, calculados en 10 millones de clics según una reseña técnica (contra 50 millones de mouse premium), aunque en la práctica muchos compradores reportan 4-6 años de uso sin fallas. El cable de goma simple es otro punto débil recurrente (se raja en los dobleces tras varios meses), y el tamaño compacto genera alguna queja de usuarios de manos grandes con agarre palm, resuelta en general con un apoyamuñecas.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mouse Gamer Logitech G203 Lightsync",
+      image: "https://http2.mlstatic.com/D_NQ_NP_611122-MLA93494801285_092025-F.jpg",
+      description: "Mouse gamer Logitech G203 Lightsync: sensor óptico de hasta 8.000 DPI, 1000 Hz de polling, 6 botones programables, RGB Lightsync y 85 gramos. 4.9 estrellas con 52.576 calificaciones en MercadoLibre, el mouse gamer más vendido de Argentina.",
+      brand: { "@type": "Brand", name: "Logitech" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2EEbq8S",
+        priceCurrency: "ARS",
+        price: 34799,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "52576",
+      },
+    },
     relatedProducts: ["MLA11259955", "MLA17743447"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -935,13 +1843,14 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     id: "MLA11259955",
     title: "Mouse Gamer Inalámbrico Logitech G305 Lightspeed Black",
     canonicalName: "Mouse Gamer Logitech G305 Lightspeed",
+    brand: "Logitech",
     price: 56099,
     originalPrice: 62000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_900015-MLA100030243005_122025-F.jpg",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_900015-MLA100030243005_122025-F.jpg",
       "https://http2.mlstatic.com/D_NQ_NP_829576-MLA91929832243_092025-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_900015-MLA100030243005_122025-F.jpg",
     ],
     category: "Gaming",
     categorySlug: "gaming",
@@ -949,18 +1858,122 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     affiliateUrl: "https://meli.la/1dDyCA3",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 12364,
+    rating: 4.9,
+    reviewCount: 27331,
+    reviewsSampledAt: "2026-07-04",
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
-    specs: [
-      { label: "Conexión", value: "Inalámbrico Lightspeed (receptor USB, 1 ms)" },
-      { label: "Sensor", value: "HERO, hasta 12.000 DPI" },
-      { label: "Peso", value: "99 g" },
-      { label: "Batería", value: "1 pila AA, hasta 250 horas" },
-      { label: "Botones", value: "6 programables" },
-      { label: "Iluminación", value: "Sin RGB (solo LED de estado)" },
+    seoTitle: "Logitech G305 Lightspeed: el inalámbrico más vendido de AR",
+    metaDescription: "Mouse Logitech G305 Lightspeed: 4.9★ en 27.331 calificaciones. Sensor HERO de 12.000 DPI, sin RGB, con pila AA. El modo ahorro que limita el polling rate, explicado.",
+    ogTitle: "Logitech G305 Lightspeed: el mouse inalámbrico que casi no tiene competencia en su precio",
+    ogDescription: "27.331 calificaciones, 4.9★. Sensor HERO, sin lag y sin RGB (para que dure la pila). Ojo con la configuración de fábrica: viene en modo ahorro y no rinde al máximo hasta que la cambiás.",
+    h1: "Mouse Gamer Inalámbrico Logitech G305 Lightspeed: el más vendido de Argentina",
+    pros: [
+      "4.9⭐ en 27.331 calificaciones: el inalámbrico más elegido de la categoría por lejos",
+      "Mismo sensor HERO que usan los mouse premium de la marca, con precisión que decenas de reseñas confirman idéntica a un mouse con cable",
+      "Funciona con 1 pila AA (incluida) con autonomía de hasta 250 horas: varias reseñas reportan 3-4 meses de uso diario sin cambiarla",
+      "Sin RGB: una decisión de diseño que las reseñas valoran, porque estira mucho la batería y guarda la configuración en la memoria del propio mouse",
+      "Trae extensor USB para acercar el receptor y reducir aún más la latencia",
+      "9% de descuento sobre el precio de lista ($62.000 a $56.099)",
     ],
+    cons: [
+      "Viene configurado de fábrica en modo ahorro de energía: el polling rate queda limitado a 125 Hz en vez de los 1.000 Hz que puede dar, hay que cambiarlo a mano en Logitech G HUB (a costa de algo de batería)",
+      "El receptor Lightspeed es propietario, no es el adaptador Unifying estándar de Logitech: si se pierde o rompe, no hay reposición oficial y las alternativas de terceros son caras y poco confiables",
+      "El software G HUB es pesado según varias reseñas (consume CPU/RAM en segundo plano); alternativa más liviana: Logitech Onboard Memory Manager, que solo hace falta abrir una vez para configurar",
+      "Si el receptor queda lejos o sin el extensor USB en algunos setups, el cursor puede parpadear o volverse errático, según una reseña detallada",
+      "Reportes puntuales de falla del clic izquierdo después de 1 año de uso, y de unidades con botones laterales de recorrido inconsistente que ameritaron un cambio",
+      "Es 61% más caro que el G203 con cable de esta misma selección: pagás la libertad del cable, no un salto de sensor",
+    ],
+    verdict: "A $56.099, es el mouse inalámbrico más elegido de Argentina (27.331 calificaciones, 4.9⭐): mismo sensor de gama alta, batería que dura meses y sin RGB para estirarla más. El detalle que la ficha no aclara: viene en modo ahorro de fábrica, limitado a 125 Hz, hay que subirlo a 1.000 Hz desde G HUB. El receptor es propietario: cuidalo, porque no se repone oficial si se rompe.",
+    articleBody: `## El inalámbrico más elegido de Argentina
+
+El Logitech G305 Lightspeed cuesta $56.099 y es el mouse inalámbrico con más reseñas de la categoría: 27.331 calificaciones con 4.9 estrellas, más de 10.200 con comentario escrito. Funciona con conexión Lightspeed (receptor USB) y el mismo sensor HERO que usan mouse mucho más caros de la marca, hasta 12.000 DPI, con 1 pila AA incluida.
+
+## El mismo sensor de los mouse premium, sin el cable
+
+La coincidencia entre reseñas es total: el sensor no se siente diferente a uno con cable. Una reseña de Argentina lo confirma con contexto: "es exactamente igual al G203 pero inalámbrico. Soy jugador profesional de FPS y lo recomiendo completamente". Otra, de Brasil, agrega detalle técnico: "cuenta con el mismo sensor que usan mouse mucho más caros de la marca, sin que el precio sea exorbitante". Sobre la batería, el mismo comprador argentino aporta un dato concreto: "con software Logitech podés ver la batería, en 1 semana intensa de uso solo bajó un 2%".
+
+## El detalle que la ficha no aclara: viene en modo ahorro
+
+Acá está el hallazgo más útil para quien recién lo compra. Una reseña de México lo explica con precisión: "cuando instalé el mouse y el software de Logitech, la configuración por defecto estaba en ahorro de energía, lo que hace que el mouse no tenga el 100% de su rendimiento (el polling rate queda en 125), hace falta cambiar la configuración a alto rendimiento para que el polling rate suba a 1000, pero esto reduce la vida de la batería". Es una decisión de fábrica, no una falla: para gaming competitivo conviene subirlo a 1.000 Hz sabiendo que vas a cambiar la pila más seguido.
+
+## El receptor: la pieza que hay que cuidar
+
+Una reseña técnica de Brasil marca un riesgo real que no está en ninguna ficha: "el adaptador Lightning [Lightspeed] es diferente de otros dispositivos de Logitech que usan el adaptador Unifying (que permite emparejar varios mouse y teclados y es barato en caso de pérdida). Este adaptador no tiene reposición oficial y las alternativas que hay son caras y dudosas, así que si tu adaptador se rompe, también se rompe tu mouse". Guardalo con cuidado: es la pieza más difícil de reponer de todo el producto.
+
+## Sin RGB: elogiado, no criticado
+
+A diferencia de lo que se podría esperar, la ausencia de luces RGB aparece como un punto a favor en decenas de reseñas. Una de Argentina lo resume con humor pero con razón: "no tiene luces gueis... mouse del pueblo confirmed". Otra explica el motivo técnico: sin LEDs, la batería rinde mucho más, y la configuración se guarda directamente en la memoria del mouse, así que funciona en cualquier PC sin depender del software instalado.
+
+## Los problemas puntuales: clic izquierdo y consistencia de botones
+
+No todo es perfecto. Una reseña de México reporta que "es bueno, pero al cabo de un año la verdad empezó a fallar y el click izquierdo dejo de funcionar bien" — un caso aislado, pero real. Otra, también de México, tuvo que devolver una unidad por inconsistencia en los clics: "los clicks principales no se sentían similares, tenían diferente sensación táctil, y uno de los laterales tenía mucho recorrido antes de poder hacer clic". Son reportes puntuales, no un patrón masivo dado el volumen de reseñas positivas, pero vale la pena saber que existen.
+
+## Contra el resto de la línea Logitech de esta selección
+
+Frente al [Logitech G203 Lightsync](/producto/MLA44849297) con cable de esta misma selección, el G305 cuesta 61% más y te da la libertad inalámbrica con el mismo nivel de sensor: no es un salto de precisión, es un salto de comodidad. Frente al [Logitech G Pro Wireless](/producto/MLA14428767) y el [PRO X Superlight 2](/producto/MLA28598537), el G305 es más pesado (99g vs los ~63-80g de los modelos competitivos) pero mucho más barato, con batería de pila AA en vez de batería recargable que se degrada con los años.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: querés dejar el cable atrás sin pagar el precio de un mouse profesional, no te importa el RGB, y preferís una pila AA reemplazable a una batería recargable que pierde capacidad con el tiempo. No es para vos si: buscás el mouse más liviano posible para competitivo de alto nivel (ahí conviene el PRO X Superlight 2), o te preocupa depender de un receptor propietario sin reposición oficial.
+
+A $56.099 con 4.9 estrellas en 27.331 calificaciones, es la forma más segura de pasarse a inalámbrico sin gastar en la gama profesional.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Logitech" },
+      { label: "Modelo", value: "G305 Lightspeed" },
+      { label: "Conexión", value: "Inalámbrico Lightspeed (receptor USB propietario, no es el adaptador Unifying estándar; sin reposición oficial si se rompe)" },
+      { label: "Sensor", value: "HERO, hasta 12.000 DPI (por defecto el mouse no usa todo el rango; se configura desde G HUB)" },
+      { label: "Polling rate", value: "Hasta 1.000 Hz (1 ms), pero viene configurado de fábrica en modo ahorro a 125 Hz: hay que subirlo a mano en G HUB" },
+      { label: "Peso", value: "99 g (con la pila puesta)" },
+      { label: "Batería", value: "1 pila AA incluida, hasta 250 horas según fabricante; varias reseñas reportan 3-4 meses de uso diario real" },
+      { label: "Botones", value: "6 programables" },
+      { label: "Iluminación", value: "Sin RGB (solo un LED de estado detrás del botón de DPI)" },
+      { label: "Software", value: "Logitech G HUB (recomendado por varias reseñas cambiar a Logitech Onboard Memory Manager, más liviano)" },
+      { label: "Accesorios", value: "Extensor USB para acercar el receptor, pila AA incluida" },
+      { label: "Color", value: "Negro (también disponible en otros colores según variante)" },
+    ],
+    faq: [
+      { question: "¿Por qué no rinde al máximo apenas lo conecto?", answer: "Viene configurado de fábrica en modo ahorro de energía, con el polling rate limitado a 125 Hz. Hay que abrir Logitech G HUB y cambiarlo a modo de alto rendimiento para llegar a los 1.000 Hz (1 ms), sabiendo que eso consume la pila más rápido." },
+      { question: "¿Cuánto dura la pila?", answer: "El fabricante declara hasta 250 horas. En la práctica, varias reseñas reportan entre 3 y 4 meses de uso diario intensivo con una sola pila AA, más si usás modo ahorro o pilas recargables de buena calidad." },
+      { question: "¿Qué pasa si pierdo o rompo el receptor USB?", answer: "Es el punto débil real de este mouse: el receptor Lightspeed es propietario (no es el adaptador Unifying que usan otros Logitech), no tiene reposición oficial, y las alternativas de terceros son caras y poco confiables. Sin el receptor, el mouse queda inutilizable. Guardalo con cuidado." },
+      { question: "¿Por qué no tiene RGB?", answer: "Es una decisión de diseño, no una carencia: sin LEDs, la batería rinde mucho más y varias reseñas lo destacan como punto a favor, no en contra. La configuración de botones y DPI se guarda en la memoria del propio mouse, independiente del software instalado." },
+      { question: "¿Es tan preciso como uno con cable?", answer: "Sí, según el consenso de cientos de reseñas: usa el mismo sensor HERO que mouse Logitech mucho más caros, y varios compradores (incluido uno que se identifica como jugador profesional de FPS) confirman que no notan diferencia con un mouse cableado." },
+      { question: "¿Sirve para manos grandes?", answer: "Es de tamaño mediano-grande, similar al G Pro según una reseña. Para manos grandes funciona bien en agarre palm o claw; algunas reseñas de manos muy grandes prefieren un mouse todavía más grande, pero no es un problema generalizado." },
+      { question: "¿Conviene este o el Logitech G203 con cable?", answer: "El G203 ($34.799) es 61% más barato y usa un sensor similar, pero con cable. El G305 ($56.099) suma la libertad inalámbrica sin sacrificar precisión. Si el cable no te molesta, el G203 rinde prácticamente igual por menos plata; si querés dejarlo atrás, el G305 es la opción probada." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 136, text: "Mucho más lindo de lo que se ve en fotos y lo que muestran los videos. Se nota el sensor espectacular que tiene, y con software Logitech podés ver la batería, en 1 semana intensa de uso sólo bajó un 2%. Soy jugador profesional de FPS y lo recomiendo completamente. Es exactamente igual al G203 pero inalámbrico." },
+      { rating: 5, country: "México", date: "2025", useful: 64, text: "Uno de los mejores mouse gaming inalámbricos actualmente. Solo hay que recordar que, al menos en mi caso, cuando instalé el mouse y el software de Logitech, la configuración por defecto estaba en ahorro de energía, lo que hace que el mouse no tenga el 100% de su rendimiento (el polling rate queda en 125). Hace falta cambiar la configuración a alto rendimiento para que el polling rate suba a 1000, pero esto reduce la vida de la batería." },
+      { rating: 5, country: "Brasil", date: "2025", useful: 46, text: "Ratón con un agarre muy cómodo, switches ruidosos pero precisos. Sin duda uno de los mejores ratones inalámbricos en relación calidad-precio. El único punto negativo es el adaptador Lightning, diferente de otros dispositivos de Logitech que usan el adaptador Unifying (que permite emparejar varios ratones y teclados y es barato en caso de pérdida). Este adaptador no tiene reposición oficial y las alternativas que hay son caras y dudosas, así que si tu adaptador se rompe, también se rompe tu ratón. Cuídalo tanto como el ratón mismo." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 12, text: "Por el precio es el mejor mouse de todos, por lejos. Ahora, tiene un problema con dos cosas: la primera es que si no usas el extensor, o lo tenés un poco lejos, el mouse no anda directamente, empieza a parpadear el cursor y es inmanejable. El segundo problema es que se come las pilas rápido, te recomiendo encarecidamente que te bajes el software para configurarlo y ponerlo en modo duradero, porque si lo ponés en modo rendimiento vas a gastar una pila por semana." },
+      { rating: 5, country: "México", date: "2025", useful: 18, text: "Es bueno pero al cabo de un año la verdad empezó a fallar y el click izquierdo dejó de funcionar bien." },
+      { rating: 4, country: "México", date: "2025", useful: 30, text: "No les voy a mentir, el G305 es excelente, aunque yo tuve que devolver el que pedí ya que los clicks de los botones vinieron raros, los clicks principales no se sentían similares, tenían diferente sensación táctil, y uno de los laterales tenía mucho recorrido antes de poder hacer click. En la oficina un amigo tiene uno, y todos suenan y se sienten exactamente iguales, algo que para el precio del mouse no debería pasar desapercibido." },
+      { rating: 4, country: "Chile", date: "2025", useful: 69, text: "Excelente mouse, trae surfers (pies) al parecer de teflón, sobre una alfombrilla va súper bien, respuesta sin lag y eso que no tengo conectado el alargador para la señal. He escuchado que puede dar problemas de doble click pero a mí me va perfecto, no tener cable es lo mejor sin duda." },
+      { rating: 5, country: "Colombia", date: "2025", useful: 31, text: "Su rueda y clics han durado bastante pese a que soy estudiante que viaja bastante, pese a algunos golpes, no se han resentido los botones principales, eso sí los botones laterales son más débiles en mi opinión. La ventaja de ser inalámbrico es de mucha importancia, igualmente la batería dura cerca de 4 meses de uso continuo. Además de jugar shooters es recomendable para ciertas tareas de ofimática pues tiene varios modos de DPI." },
+    ],
+    aiReviewSummary: "Con 27.331 calificaciones, es el mouse inalámbrico con más data real del catálogo. La coincidencia entre reseñas es total sobre el sensor: mismo nivel que mouse premium de la marca, sin diferencia perceptible contra uno con cable. El hallazgo más útil para comprador nuevo: el mouse viene configurado de fábrica en modo ahorro de energía (125 Hz de polling rate en vez de 1.000), hay que cambiarlo a mano en G HUB. El riesgo real y poco conocido: el receptor Lightspeed es propietario, sin reposición oficial si se pierde o rompe. La falta de RGB aparece consistentemente como ventaja (batería + memoria en el propio mouse), no como carencia. Hay reportes puntuales de falla del clic izquierdo tras un año de uso y de unidades con botones de sensación inconsistente, pero son minoría frente al volumen de reseñas positivas.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mouse Gamer Inalámbrico Logitech G305 Lightspeed",
+      image: "https://http2.mlstatic.com/D_NQ_NP_829576-MLA91929832243_092025-F.jpg",
+      description: "Mouse gamer inalámbrico Logitech G305 Lightspeed: sensor HERO de hasta 12.000 DPI, conexión Lightspeed de 1 ms, 6 botones programables, sin RGB y 1 pila AA con hasta 250 horas de autonomía. 4.9 estrellas con 27.331 calificaciones en MercadoLibre.",
+      brand: { "@type": "Brand", name: "Logitech" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1dDyCA3",
+        priceCurrency: "ARS",
+        price: 56099,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "27331",
+      },
+    },
     relatedProducts: ["MLA44849297", "MLA40568693"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -971,6 +1984,7 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     id: "MLA17743447",
     title: "Mouse Gamer Redragon Centrophorus2 M601-RGB Black",
     canonicalName: "Mouse Gamer Redragon Centrophorus M601 RGB",
+    brand: "Redragon",
     price: 26500,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_836066-MLA99527452578_122025-F.jpg",
@@ -985,17 +1999,115 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     condition: "new",
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 2686,
+    reviewCount: 6005,
+    reviewsSampledAt: "2026-07-04",
     pastelColor: "var(--pastel-verde)",
     visibility: "normal",
-    specs: [
-      { label: "Conexión", value: "Con cable USB mallado (1,8 m)" },
-      { label: "Sensor", value: "Pixart 3317, hasta 7.200 DPI" },
-      { label: "Peso", value: "85 g (104 g con las 8 pesas puestas)" },
-      { label: "Extra", value: "Kit de 8 pesas para regular el peso" },
-      { label: "Botones", value: "6 programables (switches de 10 millones de clicks)" },
-      { label: "Iluminación", value: "RGB configurable por software" },
+    seoTitle: "Redragon Centrophorus M601: el más barato con pesas ajustables",
+    metaDescription: "Mouse Redragon Centrophorus M601 RGB: 4.8★ en 6.005 calificaciones. Pesas ajustables, cable mallado y RGB. La ficha honesta: no es para gaming muy exigente.",
+    ogTitle: "Redragon Centrophorus M601: el mouse más barato con pesas ajustables de la selección",
+    ogDescription: "6.005 calificaciones, 4.8★. Cable mallado, RGB configurable y un kit de pesas que pocos dan a este precio. El límite real: gaming casual sí, competitivo de alta exigencia no tanto.",
+    h1: "Mouse Gamer Redragon Centrophorus M601 RGB: el más barato con pesas ajustables",
+    pros: [
+      "4.8⭐ en 6.005 calificaciones: el mouse más barato de esta selección con respaldo real",
+      "Kit de 8 pesas para ajustar el peso a gusto, algo que pocos mouse de este precio ofrecen",
+      "RGB totalmente configurable por software (colores, intensidad, velocidad, efectos) y DPI hasta 7.200 en varios perfiles",
+      "Cable mallado, resistente y flexible, elogiado en decenas de reseñas",
+      "Cómodo para manos grandes según la mayoría de las reseñas, con buen agarre en el pulgar",
+      "El más económico de los tres mouse Redragon/Logitech de esta selección",
     ],
+    cons: [
+      "El sensor tiene un límite real: una reseña técnica de 4 estrellas avisa que con DPI bajo y movimientos rápidos y bruscos \"el sensor ya no lo lee correctamente\", algo molesto para gaming competitivo exigente. Para uso casual o DPI alto sin moverlo muy rápido, va bien",
+      "No es unánime en cuanto a manos grandes: mientras varias reseñas lo recomiendan para mano grande, al menos una lo describe como \"super incómodo\" para gaming de precisión con mano grande",
+      "Hay reportes de clics rápidos alternados (izquierdo-derecho) que a veces no se reconocen bien, un problema puntual en juegos de recarga rápida",
+      "Una reseña de 2 años de uso lo describe como incómodo al tacto, con dolor de mano las primeras veces, y no lo recomienda para gaming online exigente",
+      "El software a veces no reconoce el mouse tras suspender y reactivar la notebook, según una reseña",
+      "Hay que encenderlo y apagarlo manualmente con un botón trasero, algo que una reseña describe como tedioso",
+    ],
+    verdict: "A $26.500, es el mouse más barato de esta selección con respaldo real (6.005 calificaciones, 4.8⭐): pesas ajustables, cable mallado y RGB configurable que no todos dan a este precio. El límite honesto está en el sensor: para gaming casual y trabajo rinde bien, pero una reseña técnica avisa que con DPI bajo y movimientos rápidos pierde precisión. Para competitivo exigente, Redragon tiene modelos con sensor superior a más precio.",
+    articleBody: `## El mouse más barato de la selección, con extras que sorprenden
+
+El Redragon Centrophorus M601 RGB cuesta $26.500 y es el mouse más económico de los tres de esta selección, con 4.8 estrellas en 6.005 calificaciones (2.607 con comentario escrito). Trae sensor Pixart 3317 de hasta 7.200 DPI, cable mallado de 1,8 m, 6 botones programables y un extra poco común a este precio: un kit de 8 pesas para ajustar el peso de 85 a 104 gramos.
+
+## Lo que más se repite: construcción sólida y personalización completa
+
+Una reseña muy detallada de Argentina (248 votos útiles) hace el análisis más completo del panorama: "tiene materiales de muy buena calidad, plásticos resistentes... es muy cómodo en la mano para aquellas personas que tienen manos grandes y además permite regular el peso, y su cable está mallado. Los 6 botones son configurables mediante el software... podés modificar las luces, intensidad/velocidad/efectos. Y además regular los DPI hasta 7200 incluso en distintos perfiles". La misma reseña lo compara con el Redragon Griffin, otro modelo de la marca, y concluye que la diferencia es de gusto personal.
+
+## El límite real: el sensor a DPI bajo y movimiento rápido
+
+Acá está la crítica más técnica y honesta del panorama. Una reseña de 4 estrellas lo explica con precisión: "si es para uso casual, haciendo movimientos lentos va sobrado, si es para gaming usando DPI alto, sin moverlo muy rápido va bien, ya si usás DPI bajo y hacés movimientos muy bruscos el sensor ya no lo lee correctamente, lo que puede llegar a ser muy molesto". Su recomendación es concreta: si necesitás precisión en movimientos rápidos, mejor invertir un poco más en un mouse con sensor superior (menciona el Redragon Dagger, de 10.000 DPI, dentro de la misma marca).
+
+## Manos grandes: mayoría a favor, pero no es unánime
+
+La mayoría de las reseñas confirma comodidad para manos grandes ("muy cómodo a la mano, y eso que tengo manos grandes"), pero al menos una lo contradice con fuerza: "este review es para mis amigos de manos grandes... la verdad no se los recomiendo, es súper incómodo, perdí varias partidas de LoL porque el mouse no se ajustaba a mi mano". La diferencia parece estar en el tipo de agarre: para agarre palm completo con mano muy grande, puede quedar corto; para claw o fingertip, la mayoría lo recomienda sin problema.
+
+## Detalles de uso: clics rápidos y encendido manual
+
+Una reseña de México reporta un problema puntual: "haciendo clic derecho e izquierdo súper rápido a veces no reconoce", algo que notó específicamente al recargar armas en Left 4 Dead 2. Otro detalle que varias reseñas mencionan: el mouse se enciende y apaga con un botón físico en la parte trasera (no automático), lo que alguna reseña describe como tedioso pero que también evita que gaste batería... aunque este modelo es con cable, así que el ahorro es de otro tipo (vida útil de LEDs y componentes).
+
+## Contra los Logitech de esta selección
+
+Frente al [Logitech G203 Lightsync](/producto/MLA44849297) ($34.799), el Redragon es 24% más barato y suma pesas ajustables y RGB más completo, pero el sensor Pixart 3317 no llega al nivel del sensor Logitech en movimientos rápidos según la reseña técnica citada arriba. Frente al [Logitech G305 Lightspeed](/producto/MLA11259955) inalámbrico, la Redragon es la opción con cable y mucho más económica para quien no necesita salir del cable.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: buscás el mouse gamer más barato con extras reales (pesas, RGB completo, cable mallado), tu uso es casual o con DPI alto sin movimientos muy bruscos, y valorás poder personalizarlo por software. No es para vos si: jugás competitivo de alta exigencia con DPI bajo y flicks rápidos (ahí el sensor se queda corto), o tenés manos muy grandes con agarre palm completo.
+
+A $26.500 con 4.8 estrellas en 6.005 calificaciones, es la entrada más barata al gaming con personalización real, sabiendo cuál es su techo.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Redragon" },
+      { label: "Modelo", value: "Centrophorus2 M601-RGB" },
+      { label: "Conexión", value: "Con cable USB mallado (1,8 m)" },
+      { label: "Sensor", value: "Pixart 3317, hasta 7.200 DPI (según reseñas, pierde precisión con DPI bajo y movimientos muy rápidos)" },
+      { label: "Peso", value: "85 g de base, hasta 104 g con las 8 pesas puestas" },
+      { label: "Extra", value: "Kit de 8 pesas removibles para ajustar el peso" },
+      { label: "Botones", value: "6 programables (switches calculados para 10 millones de clics)" },
+      { label: "Iluminación", value: "RGB configurable por software (colores, intensidad, velocidad, efectos)" },
+      { label: "Software", value: "Redragon (se descarga desde la página oficial de la marca; también permite reasignar botones y perfiles de DPI)" },
+      { label: "Encendido", value: "Botón físico de encendido/apagado en la parte trasera (manual, no automático)" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Es bueno para gaming competitivo?", answer: "Para gaming casual y con DPI alto sin movimientos muy bruscos rinde bien. Una reseña técnica avisa que con DPI bajo y movimientos rápidos y bruscos, el sensor pierde precisión. Para competitivo muy exigente, Redragon tiene modelos con sensor superior (como el Dagger, de 10.000 DPI) a un precio un poco más alto." },
+      { question: "¿Sirve para manos grandes?", answer: "La mayoría de las reseñas lo recomienda para manos grandes, sobre todo en agarre claw o fingertip. Al menos una reseña lo describe como incómodo para agarre palm completo con mano muy grande. Si tenés dudas, priorizá reseñas de tu mismo estilo de agarre." },
+      { question: "¿Cómo se ajusta el peso?", answer: "Trae un kit de 8 pesas que se colocan o retiran desde una tapa en la base del mouse (girar hasta la marca \"open\"; algunas unidades necesitan ayuda de un destornillador para levantar la tapa). El peso va de 85 g sin pesas a 104 g con todas puestas." },
+      { question: "¿Trae software para personalizarlo?", answer: "Sí, hay que descargarlo desde la página oficial de Redragon buscando el modelo del mouse. Permite configurar los 6 botones, los colores y efectos RGB, y hasta 7.200 DPI en distintos perfiles." },
+      { question: "¿Tiene algún problema conocido?", answer: "Algunas reseñas reportan que los clics rápidos alternados (izquierdo-derecho) a veces no se reconocen bien, útil saberlo si jugás algo que requiera esa mecánica. También hay reportes de que el software a veces no reconoce el mouse después de que la notebook sale de suspensión, aunque esté conectado." },
+      { question: "¿Conviene este o el Logitech G203?", answer: "El Redragon ($26.500) es más barato y suma pesas ajustables + RGB más completo. El [G203](/producto/MLA44849297) ($34.799) tiene un sensor más consistente en movimientos rápidos según las reseñas técnicas de ambos productos. Para presupuesto ajustado y uso casual, el Redragon; para gaming más exigente, el G203." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 248, text: "El mouse viene en su caja con su manual y una pegatina de la marca, a mi parecer viene muy bien presentado. Tiene materiales de muy buena calidad, plásticos resistentes, es muy cómodo en la mano para aquellas personas que tienen manos grandes y además permite regular el peso, y su cable está mallado. Los 6 botones son configurables mediante el software que está bastante bien porque podés modificar las luces, intensidad/velocidad/efectos, y además regular los DPI hasta 7200 incluso en distintos perfiles. Este mouse suele compararse mucho con el Griffin, y más allá de las especificaciones de ambos creo que la decisión va por gusto personal." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 10, text: "Dependiendo del uso que le des te va a servir o no. Dentro de lo bueno está la construcción general y la iluminación, todos los botones se notan de calidad. Yendo al sensor: si es para uso casual, haciendo movimientos lentos va sobrado; si es para gaming usando DPI alto, sin moverlo muy rápido va bien; ya si usás DPI bajo y hacés movimientos muy bruscos el sensor ya no lo lee correctamente, lo que puede llegar a ser muy molesto. Por el precio está bien, a mí no me sirve pero es para alguien que no juega. Si lo necesitás para jugar con movimientos rápidos y precisos no te lo recomiendo, mejor poné un poco más y buscá un mouse con 10000 DPI de la misma marca, yo tengo el Dagger, van perfectos." },
+      { rating: 4, country: "Colombia", date: "2025", useful: 2, text: "Este review es para mis amigos de manos grandes como yo y que lo quieran comprar para videojuegos que requieran precisión y no se puedan dar el lujo de hacer miss click: la verdad no se los recomiendo, es súper incómodo, perdí varias partidas de LoL porque el mouse no se ajustaba a mi mano así que no alcanzaba a dar click. Si es para cosas simples como diseñar en la compu y demás sí está bien. Otra cosa que puede resultar incómoda es que se debe apagar y encender manualmente con un botón atrás." },
+      { rating: 4, country: "México", date: "2025", useful: 6, text: "El producto es de muy buena calidad, el único pego que tiene es que haciendo clic derecho e izquierdo súper rápido a veces no reconoce, esto me pasa usando escopetas en Left 4 Dead 2, pero es el único escenario donde he tenido un problemita. Muy buen producto." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 3, text: "Lo he tenido durante casi 2 años y debo decir que es muy bueno. Responde con bastante rapidez y las opciones de DPI son bastante buenas si solo jugás de forma casual. Claro, si lo tuyo es el juego en línea, no te lo recomiendo. La forma del mouse no es nada cómoda, y es horrible al tacto. Las primeras veces que lo uses, es posible que sientas dolor en la mano. Yo lo compré porque se veía bonito, pero no recomendaría comprarlo. Por un poco más de dinero, podés encontrar mejores mouse con un diseño infinitamente mejor." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 9, text: "Muy buen producto, la verdad ninguna queja, hay un pequeño detalle: el primer día el mouse andaba un poco raro, como que no deslizaba muy bien, se arregló al siguiente día de uso. No reclamar el mismo día, eso es lo que me pasó a mí. Pero como dije se arregló en un día de uso. Muy cómodo y buen precio." },
+      { rating: 5, country: "Colombia", date: "2025", useful: 6, text: "El mouse me parece tener una forma bastante cómoda para sostener en la mano. El detalle de las pesas me parece excelente. Que tenga un software para controlar los botones del mouse y que se le puedan configurar las luces me parece maravilloso, aunque tiene un pequeño error: cuando suspendo mi laptop con el dispositivo conectado y la vuelvo a prender, el software no reconoce el mouse aunque esté conectado a mi dispositivo." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 1, text: "Para agarre de palma no va, en la parte que apoya la palma es muy plano. La ruedita del medio es falopa al tacto, el resto está bien." },
+    ],
+    aiReviewSummary: "Con 6.005 calificaciones, es el mouse más barato de la selección con data real suficiente para confiar. La reseña técnica más votada elogia la construcción, el software y las pesas ajustables (algo poco común a este precio). El hallazgo más importante para gaming exigente: una reseña técnica de 4 estrellas identifica el límite real del sensor Pixart 3317, que pierde precisión con DPI bajo y movimientos rápidos y bruscos, recomendando un modelo superior de la misma marca para ese uso. Sobre manos grandes hay opiniones divididas: la mayoría lo recomienda, pero al menos una reseña lo describe como incómodo para gaming de precisión con agarre palm. Hay reportes puntuales de clics rápidos alternados que no siempre se reconocen y de un bug de reconexión del software tras suspender la notebook.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mouse Gamer Redragon Centrophorus M601 RGB",
+      image: "https://http2.mlstatic.com/D_NQ_NP_836066-MLA99527452578_122025-F.jpg",
+      description: "Mouse gamer Redragon Centrophorus M601 RGB: sensor Pixart 3317 de hasta 7.200 DPI, cable mallado, kit de 8 pesas ajustables y RGB configurable por software. 4.8 estrellas con 6.005 calificaciones en MercadoLibre.",
+      brand: { "@type": "Brand", name: "Redragon" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2rXZqbu",
+        priceCurrency: "ARS",
+        price: 26500,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "6005",
+      },
+    },
     relatedProducts: ["MLA44849297", "MLA11259955"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -1006,6 +2118,7 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     id: "MLA40568693",
     title: "Mouse Gamer Logitech G309 Lightspeed Blanco Inalámbrico",
     canonicalName: "Mouse Gamer Logitech G309 Lightspeed",
+    brand: "Logitech",
     price: 73399,
     originalPrice: 95500,
     currency: "ARS",
@@ -1021,17 +2134,115 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 263,
+    reviewCount: 692,
+    reviewsSampledAt: "2026-07-04",
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
-    specs: [
-      { label: "Conexión", value: "Dual: Lightspeed y Bluetooth" },
-      { label: "Sensor", value: "HERO 25K, hasta 25.600 DPI" },
-      { label: "Peso", value: "86 g (con la pila puesta)" },
-      { label: "Batería", value: "1 pila AA: 300+ horas por Lightspeed, 600 por Bluetooth" },
-      { label: "Botones", value: "6 (switches óptico-mecánicos Lightforce)" },
-      { label: "Iluminación", value: "Sin RGB (solo LED de DPI)" },
+    seoTitle: "Logitech G309 Lightspeed: el sucesor del G305, ¿vale el salto?",
+    metaDescription: "Mouse Logitech G309 Lightspeed: 4.9★ en 692 calificaciones. Sensor HERO 25K, dual Lightspeed+Bluetooth, sin el doble clic del G305. La batería dura menos, honesto acá.",
+    ogTitle: "Logitech G309 Lightspeed: el sucesor del G305 que resuelve su problema conocido",
+    ogDescription: "692 calificaciones, 4.9★. Sensor HERO 25K, conexión dual y sin el doble clic que sufre el G305 con los años. A cambio, la pila dura menos: te contamos cuánto en la práctica.",
+    h1: "Mouse Gamer Logitech G309 Lightspeed: el sucesor directo del G305",
+    pros: [
+      "4.9⭐ en 692 calificaciones: el mejor puntaje de los mouse Logitech de esta selección",
+      "Sensor HERO 25K, el mismo de los modelos premium de la marca, con salto de precisión confirmado por varias reseñas que vienen del G305",
+      "Resuelve el problema de doble clic que aparece en el G305 después de 3-4 años de uso, según reseñas que compararon ambos",
+      "Conexión dual: Lightspeed (dongle 2,4 GHz) y Bluetooth, algo que el G305 no ofrece",
+      "Más liviano y cómodo que el G305 según casi todas las reseñas que hacen la comparación directa",
+      "Trae stickers de agarre antideslizante que varias reseñas destacan como mejora sobre el G305",
     ],
+    cons: [
+      "La batería dura menos que el G305: varias reseñas coinciden en que ronda 1 mes de uso diario intensivo (contra 3 meses del G305), aunque compensa con el sensor superior",
+      "El clic es más ruidoso que el del G305 según una reseña detallada, que prefería el sonido del modelo anterior",
+      "El clic derecho se puede activar por accidente al apoyar la mano, según una reseña, algo que puede mejorar con la costumbre",
+      "El PowerPlay (carga por inducción) necesita el mousepad específico de Logitech, que no viene incluido: sin él, es un mouse a pila común",
+      "El agarre es chico para algunas manos: una reseña lo describe como \"bastante chiquito y poco anatómico\", aunque la mayoría lo encuentra cómodo incluso con mano grande",
+      "Es 111% más caro que el G203 con cable y 31% más caro que el G305 de esta misma selección",
+    ],
+    verdict: "A $73.399 (23% off), es el sucesor directo del G305 y resuelve su problema más conocido: el doble clic que aparece con los años. Suma sensor HERO 25K, conexión dual Lightspeed + Bluetooth y mejor agarre. El costo real: la batería dura bastante menos (alrededor de un mes de uso intensivo contra los tres del G305). Para quien nunca usó un sensor HERO, varias reseñas recomiendan arrancar por el G305 y subir a este después.",
+    articleBody: `## El sucesor que corrige el problema conocido del G305
+
+El Logitech G309 Lightspeed cuesta $73.399 (23% menos que el precio de lista de $95.500) y tiene el mejor puntaje de los mouse Logitech de esta selección: 4.9 estrellas en 692 calificaciones. Es la evolución directa del G305: mismo espíritu (pila AA, sin RGB), pero con sensor HERO 25K (el de los modelos premium de la marca) y conexión dual Lightspeed + Bluetooth.
+
+## El problema del G305 que este resuelve
+
+Una reseña de Argentina lo dice de entrada: "si estás buscando exactamente el reemplazo del G305 es el indicado, mejora un poco el sensor, no vas a tener el problema del doble click que lo tiene el G305 después de 3 o 4 años de uso, y además se siente más liviano y cómodo". Es un dato importante para quien ya conoce el catálogo de esta selección: el G305 es excelente, pero varias reseñas de ese producto reportan fallas de clic tras años de uso intensivo. El G309 llega como la respuesta directa a ese problema.
+
+## El salto de sensor, contado por quien vino del G305
+
+Una reseña extensa hace la comparación técnica más completa: "excelente aumento de precisión vs el G305. Vengo de ese modelo y los 12k DPI me quedaban cortos... al no tener que mover tanto la muñeca no me genera dolor después de muchas horas". Sobre la batería, el mismo comprador es honesto: "dato a tener en cuenta que la batería dura menos que la serie G305... como mucho terminará durando un mes con uso diario. El G305 dura 3 meses con esa batería, pero su sensor es menor". Su recomendación, útil para quien no conoce el sensor HERO: "si nunca se usó, recomiendo primero empezar con un G305 y si gusta, al G309".
+
+## Conexión dual: la ventaja que el G305 no tiene
+
+A diferencia del G305 (solo dongle Lightspeed), el G309 suma Bluetooth. Varias reseñas lo usan activamente para alternar entre PC y notebook, o directamente prefieren Bluetooth para no tener el conector USB colgando. Una reseña de Brasil lo eligió específicamente por esto: "reacciona más rápido que mi antiguo ratón con cable... latencia Bluetooth muy baja, bueno para juegos, excelente con Windows, Mac y tablet".
+
+## Los detalles menos entusiastas
+
+No todo es mejora sin matices. Una reseña con pros y contras bien organizados señala: "a veces se me presiona accidentalmente el clic derecho al reposar la mano" y "el clic es algo ruidoso, al menos el sonido del clic del G305 me gustaba más". Sobre el tamaño, hay opiniones cruzadas: la mayoría lo encuentra cómodo hasta para manos grandes, pero al menos una reseña de un mes de uso lo describe como "bastante chiquito y poco anatómico". Y sobre el PowerPlay (carga inalámbrica por inducción): funciona, pero necesita el mousepad específico de Logitech que no viene incluido, así que sin esa compra extra es un mouse a pila común.
+
+## Contra el resto de la línea Logitech de esta selección
+
+Frente al [G305 Lightspeed](/producto/MLA11259955) ($56.099), el G309 cuesta 31% más pero suma el sensor premium, Bluetooth y arregla el problema de doble clic a largo plazo. Frente al [Logitech G Pro Wireless](/producto/MLA14428767) y el [PRO X Superlight 2](/producto/MLA28598537), el G309 es la opción intermedia: mejor sensor que el G305, pero todavía con pila AA en vez de batería recargable de los modelos tope de gama.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: ya tenés o tuviste un G305 y buscás el salto de sensor sin pagar la gama profesional, valorás la conexión dual Bluetooth + dongle, y no te molesta cambiar la pila con más frecuencia. No es para vos si: nunca usaste un mouse con sensor HERO (ahí conviene arrancar por el G305, más barato, y subir después si te convence), o priorizás la máxima duración de batería posible.
+
+A $73.399 con 4.9 estrellas en 692 calificaciones, es el upgrade lógico dentro de la línea Logitech de esta selección para quien ya sabe que quiere quedarse con la marca.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Logitech" },
+      { label: "Modelo", value: "G309 Lightspeed" },
+      { label: "Conexión", value: "Dual: Lightspeed (dongle 2,4 GHz) y Bluetooth" },
+      { label: "Sensor", value: "HERO 25K, hasta 25.600 DPI (el mismo de los modelos premium de la marca)" },
+      { label: "Peso", value: "86 g (con la pila puesta), más liviano que el G305" },
+      { label: "Batería", value: "1 pila AA: 300+ horas por Lightspeed, 600+ por Bluetooth (según fabricante; varias reseñas reportan ~1 mes de uso diario intensivo, menos que el G305)" },
+      { label: "Botones", value: "6 (switches óptico-mecánicos Lightforce)" },
+      { label: "Iluminación", value: "Sin RGB (solo un LED indicador de DPI)" },
+      { label: "Carga inalámbrica", value: "Compatible con PowerPlay por inducción, requiere el mousepad específico de Logitech (no incluido)" },
+      { label: "Extras", value: "Stickers de agarre antideslizante incluidos, guardado del dongle dentro del mouse" },
+      { label: "Color", value: "Blanco (también disponible en negro según variante)" },
+    ],
+    faq: [
+      { question: "¿Soluciona el problema de doble clic del G305?", answer: "Sí, según reseñas que compararon ambos modelos: el G309 no presenta el problema de doble clic que aparece en el G305 después de 3-4 años de uso intensivo. Usa switches óptico-mecánicos Lightforce distintos a los del G305." },
+      { question: "¿Cuánto dura la batería comparada con el G305?", answer: "Menos: el fabricante declara 300+ horas por Lightspeed (600+ por Bluetooth), pero varias reseñas reportan alrededor de 1 mes de uso diario intensivo, contra los 3 meses típicos del G305. Es el costo de tener el sensor HERO 25K más potente." },
+      { question: "¿Tiene Bluetooth además del dongle?", answer: "Sí, es dual: Lightspeed (dongle 2,4 GHz, mejor para gaming competitivo) y Bluetooth (útil para notebooks o para alternar entre dos equipos sin cambiar el dongle de lugar). El G305 de esta misma selección solo tiene dongle." },
+      { question: "¿Vale la pena si nunca usé un mouse con sensor HERO?", answer: "Una reseña detallada lo recomienda con honestidad: si nunca probaste el sensor HERO, arrancá primero por el G305 (más barato) y si te convence, subí al G309 después. Si ya sabés que querés lo mejor de entrada, el salto directo también tiene sentido." },
+      { question: "¿Necesito el mousepad PowerPlay para que funcione?", answer: "No, funciona perfectamente con la pila AA sola. El PowerPlay es una opción adicional de carga por inducción que requiere comprar el mousepad específico de Logitech por separado; sin él, simplemente usás y cambiás la pila como cualquier mouse inalámbrico." },
+      { question: "¿Conviene este o el G305?", answer: "El G305 ($56.099) es más barato y la batería dura más (hasta 3 meses), pero puede desarrollar el problema de doble clic con los años y solo tiene dongle. El G309 ($73.399) suma sensor superior, Bluetooth y arregla ese problema, a cambio de una batería que dura menos. Para presupuesto ajustado, G305; para el mejor sensor y sin el riesgo del doble clic a largo plazo, G309." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 23, text: "Si estás buscando exactamente el reemplazo del G305 es el indicado, mejora un poco el sensor, no vas a tener el problema del doble click que lo tiene el G305 después de 3 o 4 años de uso, y además se siente más liviano y cómodo ya que es algo más grande. Si lo encontrás solo al precio correcto es muy recomendable." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 15, text: "Excelente aumento de precisión vs el G305. Vengo de ese modelo y los 12k DPI me quedaban cortos, a pesar de que su uso es de oficina. Al no tener que mover tanto la muñeca no me genera dolor después de muchas horas. Dato a tener en cuenta: la batería dura menos que la serie G305, pero uso pilas recargables así que no me genera problemas. Como mucho terminará durando un mes con uso diario. El G305 dura 3 meses con esa batería, pero es sensor es menor. Si nunca se usó un sensor HERO, recomiendo primero empezar con un G305 y si gusta, al G309." },
+      { rating: 4, country: "Argentina", date: "abril 2026", useful: 2, text: "Muy buen mouse relación precio calidad, buena evolución del G305 aunque con algunos detalles. Lo que más me gusta: desliza muy fácil por el mousepad, tiene una forma cómoda un poco más grande que el G305, están buenos los antideslizantes, el software de Logitech te permite personalizar varias cosas. Lo que no me gusta tanto: a veces se me presiona accidentalmente el clic derecho al reposar la mano, a la ruedita se le podrían marcar más los pasos, y el clic es algo ruidoso, al menos el sonido del clic del G305 me gustaba más." },
+      { rating: 5, country: "Brasil", date: "2025", useful: 1, text: "Ergonomía excelente. Incluso para manos grandes, aunque es de tamaño medio. Extremadamente ligero, lo cual me sorprendió al principio, pero en una semana ya me acostumbré. El clic es óptico, con un sensor de altísima calidad, acepta inducción (con alfombrilla PowerPlay) o pilas AA. Las pilas AA me parecen excelentes, mejor que una batería: si se acaba, basta con poner otra. Creo que mi única queja es que el sonido del clic es muy alto." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 4, text: "Muy bueno, vengo del G305 y la mejora es notable, me encantó por todos lados, mucho más livianito y cómodo, lo único malo es que consume más pila, pero aun así recomiendo totalmente." },
+      { rating: 4, country: "Argentina", date: "junio 2026", useful: 1, text: "Fluye bien pero no me gustaba el agarre, es bastante chiquito y poco anatómico." },
+      { rating: 4, country: "Brasil", date: "2025", useful: 0, text: "Rendimiento: buena respuesta, buen desempeño. Ergonomía: agarre correcto, sentí que era más pequeño de lo habitual. Lamentablemente, preferiría que fuera batería en vez de pila. Tiene PowerPlay por inducción, pero necesita la alfombrilla específica para ello. Precio correcto, aunque hay mejores opciones en relación costo-beneficio." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 2, text: "Elegí este mouse justamente porque funciona a pilas doble A. Lejos de ser una desventaja, para mí prácticamente lo hace inmortal: las baterías integradas si bien funcionan bien por mucho tiempo, tarde o temprano las tenés que cambiar y a veces no conseguís repuestos. Al ser inalámbrico con un dongle de 2,4GHz prácticamente ni noto la diferencia con un mouse con cable." },
+    ],
+    aiReviewSummary: "Con 692 calificaciones, es el mouse Logitech mejor puntuado de esta selección. El hallazgo central es claro en varias reseñas que compararon ambos productos: el G309 resuelve el problema de doble clic que el G305 desarrolla después de 3-4 años de uso, gracias a switches Lightforce distintos, y suma el sensor HERO 25K de los modelos premium. El costo de esa mejora es consistente en varias reseñas: la batería dura considerablemente menos que el G305 (cerca de 1 mes de uso intensivo contra 3 meses), aunque la conexión dual Lightspeed + Bluetooth es un diferencial real que el G305 no tiene. Puntos menores pero repetidos: el clic es más ruidoso que el del G305, el clic derecho puede activarse por accidente al apoyar la mano, y el PowerPlay de carga por inducción requiere un mousepad específico no incluido.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mouse Gamer Logitech G309 Lightspeed",
+      image: "https://http2.mlstatic.com/D_NQ_NP_677609-MLA99974285303_112025-F.jpg",
+      description: "Mouse gamer Logitech G309 Lightspeed: sensor HERO 25K de hasta 25.600 DPI, conexión dual Lightspeed y Bluetooth, 6 botones con switches Lightforce y 1 pila AA con hasta 300+ horas de autonomía. 4.9 estrellas con 692 calificaciones en MercadoLibre.",
+      brand: { "@type": "Brand", name: "Logitech" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/26ynmBo",
+        priceCurrency: "ARS",
+        price: 73399,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "692",
+      },
+    },
     relatedProducts: ["MLA11259955", "MLA14428767"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -1042,6 +2253,7 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     id: "MLA14428767",
     title: "Mouse Gamer Logitech G Pro Wireless Black",
     canonicalName: "Mouse Gamer Logitech G Pro Wireless",
+    brand: "Logitech",
     price: 140923,
     originalPrice: 219246,
     currency: "ARS",
@@ -1056,18 +2268,116 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     affiliateUrl: "https://meli.la/2HqvQqv",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 185,
+    rating: 4.9,
+    reviewCount: 934,
+    reviewsSampledAt: "2026-07-04",
     pastelColor: "var(--pastel-violeta)",
     visibility: "normal",
-    specs: [
-      { label: "Conexión", value: "Inalámbrico Lightspeed" },
-      { label: "Sensor", value: "HERO 25K, hasta 25.600 DPI" },
-      { label: "Peso", value: "80 g" },
-      { label: "Batería", value: "Recargable: 60 horas (48 con RGB prendido)" },
-      { label: "Botones", value: "Laterales intercambiables (apto zurdos)" },
-      { label: "Iluminación", value: "RGB (1 zona)" },
+    seoTitle: "Logitech G Pro Wireless: el mouse de e-sports, ¿vale $141K?",
+    metaDescription: "Mouse Logitech G Pro Wireless: 4.9★ en 934 calificaciones. Mismo sensor que el Superlight pero 10g más pesado y con teflón común. Micro-USB, no USB-C. Todo el detalle acá.",
+    ogTitle: "Logitech G Pro Wireless: el mouse de los profesionales de e-sports, a examen",
+    ogDescription: "934 calificaciones, 4.9★. Sensor HERO 25K, 80g, batería que dura días. Es el hermano menor del Superlight: mismo sensor, un poco más pesado. Te contamos si vale la diferencia.",
+    h1: "Mouse Gamer Logitech G Pro Wireless: el clásico de los e-sports",
+    pros: [
+      "4.9⭐ en 934 calificaciones: el mouse gamer premium mejor puntuado de esta selección",
+      "Mismo sensor HERO 25K que el PRO X Superlight 2, según una reseña técnica que lo compara punto por punto",
+      "Salto enorme frente a mouse más pesados: una reseña que viene del G603 (casi 50 g más) lo describe como \"un cambio del cielo a la tierra\"",
+      "Botones laterales intercambiables: es de los pocos mouse gamer premium aptos para zurdos",
+      "Batería que dura días de uso intensivo: una reseña reporta 6 días con ~7 horas diarias de juego constante",
+      "36% de descuento sobre el precio de lista ($219.246 a $140.923)",
     ],
+    cons: [
+      "Es el \"hermano menor\" del PRO X Superlight 2: mismo sensor, pero 10 g más pesado (80 g vs 63 g) y con patines de teflón común, no el PTFE premium del Superlight, según una reseña técnica detallada",
+      "Trae 7 ranuras para botones laterales, pero el software solo reconoce 5: si configurás los botones 6 y 7, el sistema los detecta como 4 y 5, así que en la práctica solo 2 de los 4 laterales sirven",
+      "Carga por micro-USB, no USB-C, algo que varias reseñas señalan como un detalle desactualizado para un mouse de este precio",
+      "Una reseña reporta distancia de despegue (lift-off) muy baja: cualquier levantamiento del mouse hace que el cursor deje de moverse, algo a tener en cuenta si jugás con sensibilidad baja y levantás mucho el mouse",
+      "La base puede generar fricción en mousepads híbridos (tela + superficie dura), según una reseña",
+      "Reportes aislados de unidades con fallas de fábrica o llegadas ya abiertas, aunque son minoría frente al volumen de reseñas positivas",
+    ],
+    verdict: "A $140.923 (36% off), es el mouse premium mejor puntuado de esta selección (934 calificaciones, 4.9⭐): mismo sensor que el PRO X Superlight 2, batería para días de uso y la rareza de ser apto para zurdos. Es honestamente el escalón intermedio: 10 gramos más pesado que el Superlight y con patines de calidad inferior, a cambio de un precio más accesible dentro de la gama profesional.",
+    articleBody: `## El clásico de los e-sports, ahora con mejor precio
+
+El Logitech G Pro Wireless cuesta $140.923 (36% menos que el precio de lista de $219.246) y es el mouse gamer premium mejor puntuado de esta selección: 4.9 estrellas en 934 calificaciones. Es el modelo diseñado originalmente con jugadores profesionales de e-sports, con sensor HERO 25K, 80 gramos, batería recargable y botones laterales intercambiables.
+
+## El hermano menor del Superlight, explicado con precisión
+
+Una reseña de Argentina hace la comparación técnica más clara de todo el panorama: "este mouse sería el hermano menor de un PRO X Super[light], tiene el mismo sensor, 10 gr más de peso y su teflón es común. Pero en cuanto a prestaciones hablamos de prácticamente el mismo mouse". El mismo comprador lo compara con el G603, un mouse mucho más pesado: "es un cambio del cielo a la tierra, además la lectura de movimientos milimétricos es perfecta... es un mouse digno de una final de un mundial de cualquier juego de alta calidad". Su dato de batería: "su carga máxima dura 6 días de uso constante de 7hs más o menos".
+
+## El límite real: solo 5 de 7 ranuras de botones funcionan
+
+Acá está un hallazgo técnico que no está en ninguna ficha oficial. Una reseña de Chile lo detalla: "pese a tener 7 ranuras con sus botones laterales extraíbles, solo he podido configurar hasta 5. Si pongo los botones 6 y 7, estos son reconocidos por el software como 4 y 5. O sea que solo es útil tener 2 de los 4 botones laterales que trae". Si tu plan es usar los 4 botones laterales simultáneamente para macros complejas, conviene saber esta limitación antes de comprar.
+
+## Micro-USB, no USB-C: la letra chica de un diseño de 2018
+
+Varias reseñas señalan lo mismo: el mouse carga por micro-USB, no por USB-C. Es porque el diseño original data de 2018, y aunque sigue siendo plenamente funcional, no es el estándar que uno esperaría en un mouse premium actual. No afecta el rendimiento, pero es una molestia menor si ya no tenés cables micro-USB sueltos por casa.
+
+## Lift-off distance: un detalle técnico a considerar
+
+Una reseña de 3 estrellas de Brasil marca un problema técnico específico: "la distancia de despegue es muy baja. Cualquier levantamiento hace que deje de moverse". Es una característica más notable para jugadores de sensibilidad baja que levantan el mouse con frecuencia para reposicionar la mano; para la mayoría de los usos, no es un problema, pero vale la pena saberlo si tu estilo de juego depende de eso.
+
+## Contra el PRO X Superlight 2 y el G309
+
+Frente al [Logitech PRO X Superlight 2](/producto/MLA28598537), la diferencia real (según la reseña técnica citada arriba) es 10 gramos de peso y la calidad de los patines: mismo sensor, prestaciones prácticamente iguales, pero el Superlight es más liviano y con mejor deslizamiento de fábrica. Frente al [G309 Lightspeed](/producto/MLA40568693), el G Pro Wireless suma RGB y botones laterales intercambiables (apto zurdos), pero con batería recargable en vez de pila AA reemplazable.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: buscás el sensor de gama profesional a un precio más accesible que el Superlight, sos zurdo (los botones intercambiables son una rareza en esta gama), o valorás el RGB que el Superlight no tiene. No es para vos si: te importa cada gramo de peso al máximo nivel competitivo (ahí el Superlight gana), o necesitás carga USB-C moderna.
+
+A $140.923 con 4.9 estrellas en 934 calificaciones, es la puerta de entrada más razonable a la gama profesional de Logitech, con la honestidad de que el Superlight sigue siendo un escalón por encima en peso y patines.`,
+    specs: [
+      { label: "Marca / Fabricante", value: "Logitech" },
+      { label: "Modelo", value: "G Pro Wireless" },
+      { label: "Conexión", value: "Inalámbrico Lightspeed (dongle 2,4 GHz)" },
+      { label: "Sensor", value: "HERO 25K, hasta 25.600 DPI (el mismo sensor que el PRO X Superlight 2, según reseñas técnicas)" },
+      { label: "Peso", value: "80 g (10 g más que el PRO X Superlight 2)" },
+      { label: "Patines / Skates", value: "Teflón estándar, no el PTFE premium del Superlight, según reseñas" },
+      { label: "Batería", value: "Recargable: hasta 60 horas (48 con RGB prendido). Carga por micro-USB, no USB-C" },
+      { label: "Botones", value: "Laterales intercambiables (apto zurdos). Trae 7 ranuras físicas, pero el software solo reconoce 5 simultáneas" },
+      { label: "Iluminación", value: "RGB (1 zona)" },
+      { label: "Software", value: "Logitech G HUB" },
+      { label: "Color", value: "Negro" },
+    ],
+    faq: [
+      { question: "¿Qué diferencia real tiene con el PRO X Superlight 2?", answer: "Según una reseña técnica detallada: el mismo sensor HERO 25K, pero el G Pro Wireless pesa 10 gramos más (80 g vs 63 g) y usa patines de teflón estándar en vez del PTFE premium del Superlight. En prestaciones de sensor son prácticamente el mismo mouse." },
+      { question: "¿Es cierto que solo se pueden usar algunos de los botones laterales?", answer: "Sí, es una limitación real reportada por una reseña: el mouse tiene 7 ranuras físicas para botones intercambiables, pero el software solo reconoce 5 configuraciones simultáneas. Si configurás los botones 6 y 7, el sistema los detecta como 4 y 5, duplicando la función en vez de sumar." },
+      { question: "¿Carga por USB-C?", answer: "No, carga por micro-USB. Es un diseño de 2018 y varias reseñas lo señalan como desactualizado para el precio, aunque no afecta el rendimiento del mouse." },
+      { question: "¿Sirve para zurdos?", answer: "Sí, es uno de los pocos mouse gamer premium con botones laterales intercambiables para ambas manos, algo poco común en esta gama de precio." },
+      { question: "¿Cuánto dura la batería?", answer: "El fabricante declara hasta 60 horas (48 con RGB encendido). En uso real, una reseña reporta 6 días de autonomía con unas 7 horas diarias de juego constante." },
+      { question: "¿Conviene este o el PRO X Superlight 2?", answer: "Si el peso al mínimo posible es tu prioridad para competitivo de alto nivel, el [Superlight 2](/producto/MLA28598537) gana por 10 gramos y mejores patines. Si preferís RGB, botones intercambiables para zurdos, o pagar menos por prácticamente el mismo sensor, el G Pro Wireless es la opción más razonable." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", useful: 6, text: "Es el mejor! A ver, para los quisquillosos: este mouse sería el hermano menor de un PRO X Superlight, tiene el mismo sensor, 10gr más de peso y su teflón es común. Pero en cuanto a prestaciones hablamos de prácticamente el mismo mouse. Vengo de usar el Logitech G603 el cual pesa casi 50 gramos más y es un cambio del cielo a la tierra, además la lectura de movimientos milimétricos es perfecta. Si querés un mouse competitivo y no gastar más, este es digno de una final de un mundial de cualquier juego de alta calidad. Su carga máxima dura 6 días de uso constante de 7hs más o menos." },
+      { rating: 5, country: "Chile", date: "2025", useful: 3, text: "Es la raja este mouse. Súper rápido en la respuesta y sus botones son suaves, pero con una retroalimentación mecánica y sonora impecable. Lo cargo unas dos veces al mes y se recarga en algo así como media hora. Los materiales son de primera, vale su precio. Lo único que no me gusta tanto es que pese a tener 7 ranuras con sus botones laterales extraíbles, solo he podido configurar hasta 5. Si pongo los botones 6 y 7, estos son reconocidos por el software como 4 y 5. O sea que solo es útil tener 2 de los 4 botones laterales que trae." },
+      { rating: 5, country: "Brasil", date: "2025", useful: 3, text: "Excelente ratón. Ya he tenido otros Logitech y Razer, pero este es sin duda el mejor de todos. Extremadamente ligero, eso ayuda mucho a quienes trabajan todo el día en la PC. Recomiendo mucho comprar el charging dock para recargarlo, así no tenés que lidiar con el cable colgando. También recomiendo comprar grip tape para quienes sudan mucho las manos. El botón de desplazamiento es muy fácil de clicar, muy diferente de otras marcas donde es muy duro." },
+      { rating: 3, country: "Brasil", date: "2025", useful: 4, text: "La distancia de despegue es muy baja. Cualquier levantamiento hace que deje de moverse." },
+      { rating: 2, country: "Argentina", date: "2025", useful: 0, text: "Me pareció muy pesado, tengo mano mediana tirando a pequeña pero es muy pesado el mouse." },
+      { rating: 1, country: "Brasil", date: "2025", useful: 0, text: "Tuve 3 ratones de esta marca, todos presentaron problemas." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 1, text: "Los materiales son muy buenos, el sensor es excelente, el único punto negativo que le encuentro es el patrón de la base del mouse: en mi mousepad híbrido genera un poco de fricción, pero más allá de eso está bien." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 0, text: "Excelente, lo único malo sería que no usa USB tipo C para cargarse sino el micro USB original. El resto 10 puntos." },
+    ],
+    aiReviewSummary: "Con 934 calificaciones, es el mouse premium mejor puntuado de esta selección. El hallazgo técnico más valioso viene de una reseña que lo compara punto por punto con el PRO X Superlight 2: mismo sensor HERO 25K, pero 10 gramos más pesado y con patines de teflón estándar en vez del PTFE premium. Otro hallazgo poco conocido: aunque tiene 7 ranuras físicas para botones laterales, el software solo reconoce 5 configuraciones simultáneas, así que 2 de los 4 botones laterales quedan efectivamente inutilizables si se configuran todos. Varias reseñas señalan la carga por micro-USB (no USB-C) como un detalle desactualizado. Hay reportes aislados de baja distancia de despegue (lift-off) y de unidades con fallas de fábrica, minoritarios frente al volumen de reseñas muy positivas.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mouse Gamer Logitech G Pro Wireless",
+      image: "https://http2.mlstatic.com/D_NQ_NP_962667-MLA95086798608_102025-F.jpg",
+      description: "Mouse gamer Logitech G Pro Wireless: sensor HERO 25K de hasta 25.600 DPI, 80 gramos, batería recargable de hasta 60 horas y botones laterales intercambiables aptos para zurdos. 4.9 estrellas con 934 calificaciones en MercadoLibre.",
+      brand: { "@type": "Brand", name: "Logitech" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2HqvQqv",
+        priceCurrency: "ARS",
+        price: 140923,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "934",
+      },
+    },
     relatedProducts: ["MLA28598537", "MLA40568693"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
@@ -1078,6 +2388,7 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     id: "MLA28598537",
     title: "Mouse Gamer Logitech PRO X Superlight 2 Blanco",
     canonicalName: "Mouse Gamer Logitech PRO X Superlight 2",
+    brand: "Logitech",
     price: 288469,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_742556-MLA99590549150_122025-F.jpg",
@@ -1092,17 +2403,119 @@ Comprala si querés una silla de marca top, valorás los apoyabrazos 4D y la tel
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 101,
+    reviewCount: 170,
+    reviewsSampledAt: "2026-07-04",
     pastelColor: "var(--pastel-violeta)",
     visibility: "normal",
+    seoTitle: "Logitech PRO X Superlight 2: el tope de gama, ¿lo vale?",
+    metaDescription: "Mouse Logitech PRO X Superlight 2: 4.8★ en 170 calificaciones. 60g, HERO 2, hasta 8.000Hz de polling (batería a 20h en ese modo). El precio, ¿lo justifica? Acá.",
+    ogTitle: "Logitech PRO X Superlight 2: el mouse de e-sports más liviano, a examen real",
+    ogDescription: "170 calificaciones, 4.8★. 60 gramos, sensor HERO 2, hasta 8.000Hz de polling. Pero a 8K la batería cae a 20 horas. Y no todos coinciden en que valga el precio.",
+    h1: "Mouse Gamer Logitech PRO X Superlight 2: el tope de gama ultraliviano",
+    pros: [
+      "4.8⭐ en 170 calificaciones, con mejoras confirmadas sobre la versión 1: mejor sensor y mejor calidad de botones según una reseña que comparó ambos",
+      "60 gramos: el más liviano de los mouse Logitech de esta selección, ideal para reducir la fatiga en sesiones largas",
+      "Sensor HERO 2 con polling de hasta 8.000 Hz (con actualización de firmware), la tasa de respuesta más alta de la línea",
+      "Batería que rinde: una reseña midió apenas 4% de consumo en 4 horas de juego (con polling estándar, no 8K)",
+      "Salto de precisión confirmado por reseñas que vienen de mouse más pesados como el G903",
+      "Sin RGB a propósito: cada gramo cuenta para el nicho competitivo al que apunta",
+    ],
+    cons: [
+      "El polling de 8.000 Hz consume batería mucho más rápido: una reseña detallada avisa que en ese modo la autonomía cae a solo 20 horas, contra las ~95 horas en el modo estándar (4.000 Hz)",
+      "No es unánime que el precio se justifique: varias reseñas (de países distintos) coinciden en la misma objeción, \"el precio lo vale poco\" o \"es muy costoso\", aunque igual lo recomiendan",
+      "Es ultraliviano, lo cual no le cae bien a todos: una reseña de mano pesada lo describe como demasiado liviano para su gusto",
+      "Hay reportes de la ruedita de scroll fallando y dando falsos clics a partir de los 6 meses de uso en algunas unidades",
+      "Un caso reportado de los DPI reconfigurándose solos sin causa aparente, sin solución encontrada",
+      "No es para productividad: una reseña detallada recomienda otro modelo (G903 o MX Master 3S) si el uso no es 100% gaming competitivo, porque le faltan botones extra y autonomía frente a esos modelos",
+    ],
+    verdict: "A $288.469, es el mouse gamer más liviano de esta selección (60 g) y el tope de gama de e-sports: sensor HERO 2, hasta 8.000 Hz de polling y mejoras confirmadas sobre la versión 1. La objeción más repetida en las reseñas no es de calidad, es de precio: varios compradores lo recomiendan igual, pero avisan que cuesta bastante para lo que ofrece frente a alternativas más accesibles. Y ojo con el modo 8.000 Hz: la batería cae a 20 horas ahí.",
+    articleBody: `## El más liviano de la selección, con mejoras reales sobre la v1
+
+El Logitech PRO X Superlight 2 cuesta $288.469 y es el mouse más liviano de todos los de esta selección: 60 gramos, con sensor HERO 2 y polling de hasta 8.000 Hz (con actualización de firmware). Tiene 4.8 estrellas en 170 calificaciones. Una reseña que compara directamente con la primera versión lo confirma: "es la versión 2 del Superlight, se siente el mejor sensor y la mejor calidad de los botones".
+
+## El salto de peso, contado por quien viene de un mouse pesado
+
+Una reseña muy detallada de Argentina hace la transición más honesta: "vengo del G903 y la verdad que se nota la diferencia. El sensor se siente distinto al movimiento del mouse, además es muuucho más liviano por lo que tengo que reacostumbrar mi memoria muscular (tuve que cambiar la sensibilidad y todavía no le pego), de todas maneras el poco tiempo que lo vengo usando, se notan algunas precisiones en los movimientos que no podía obtener antes". Es una advertencia útil: el salto de peso es real y necesita un período de readaptación, no es plug-and-play instantáneo para memoria muscular entrenada en mouse más pesados.
+
+## El modo 8.000 Hz: precisión a costa de batería
+
+Acá está el dato técnico más importante que la ficha no explica bien. Una reseña lo detalla con precisión: "si se actualiza el firmware llega a 8k Hz de polling rate, lo que hace que sea muy preciso, pero si se pone 8k Hz la batería solo dura 20 horas". Es decir: el modo de máxima respuesta existe, pero tiene un costo real de autonomía. Otra reseña que también actualizó y cambió los glides confirma la mejora de fluidez, aunque tuvo que "bajar la sensibilidad en el juego" para adaptarse al salto.
+
+## La objeción más repetida: el precio
+
+No es un problema de calidad, es de percepción de valor. Varias reseñas de distintos países coinciden casi con las mismas palabras: "es un buen mouse, cumple con lo que promete, pero el precio lo vale poco" (Perú), "el único que sigo pensando es que es muy costoso" (Colombia, tras 6 meses de uso conforme). Ninguna de estas reseñas se arrepiente de la compra, pero todas dejan la misma advertencia: es caro, y hay que entrar sabiendo eso.
+
+## Fallas puntuales a tener en cuenta
+
+No todo son elogios. Una reseña de 3 estrellas de Chile avisa: "en algunos casos a los 6 meses empieza a fallar la ruedita y a dar falsos ticks". Otra, de 1 estrella, reporta un problema de software: "se me bajan solos los dpi, ya los configuré y todo pero no hay solución". Y una reseña dura compara negativamente con la versión anterior: "en comparación del 1, este es una basura" — una opinión aislada, pero real, en un panorama mayormente positivo.
+
+## No es para todos los usos: la aclaración más honesta
+
+La misma reseña que compara con el G903 lo dice sin filtro: "lo recomiendo como mouse solo si se va a usar para esports. Si lo que querés es para productividad te recomiendo por sus botones adicionales y larga autonomía el G903 o el MX Master 3S. Éste se queda corto (obvio, no está pensado para eso)". Es la aclaración de uso más importante de esta ficha: es una herramienta de nicho, no un mouse de uso general.
+
+## Contra el G Pro Wireless y el G309
+
+Frente al [Logitech G Pro Wireless](/producto/MLA14428767) ($140.923), el Superlight 2 pesa 20 gramos menos, usa patines de mejor calidad y llega a 8.000 Hz de polling, pero cuesta el doble y no tiene RGB ni botones intercambiables para zurdos. Frente al [G309 Lightspeed](/producto/MLA40568693) ($73.399), la diferencia es de categoría completa: el Superlight 2 es la gama profesional pura, mientras el G309 es la opción de entrada con pila AA.
+
+## ¿Para quién es (y para quién no)?
+
+Es para vos si: jugás competitivo en serio (FPS, MOBA de alta exigencia) y cada gramo y cada Hz de polling importan para tu rendimiento, y el presupuesto no es la principal limitante. No es para vos si: tu uso es mixto (trabajo + gaming casual) — ahí un mouse con más botones y mejor autonomía general rinde mejor — o si el precio es un factor decisivo, porque varias reseñas coinciden en que no es una relación precio-calidad evidente frente a alternativas más accesibles de esta misma selección.
+
+A $288.469 con 4.8 estrellas en 170 calificaciones, es el tope de gama honesto: cumple lo que promete para e-sports, pero no es la compra lógica si tu uso no es 100% competitivo.`,
     specs: [
-      { label: "Conexión", value: "Inalámbrico Lightspeed (polling hasta 8.000 Hz)" },
+      { label: "Marca / Fabricante", value: "Logitech" },
+      { label: "Modelo", value: "PRO X Superlight 2" },
+      { label: "Conexión", value: "Inalámbrico Lightspeed" },
       { label: "Sensor", value: "HERO 2, hasta 44.000 DPI" },
-      { label: "Peso", value: "60 g (ultraliviano)" },
-      { label: "Batería", value: "Recargable USB-C, unas 95 horas" },
+      { label: "Polling rate", value: "8.000 Hz máx. con actualización de firmware (4.000 Hz por defecto)" },
+      { label: "Peso", value: "60 g (el más liviano de los Logitech de esta selección)" },
+      { label: "Batería", value: "Recargable USB-C, ~95 horas en modo estándar; en modo 8.000 Hz cae a ~20 horas según reseñas" },
       { label: "Botones", value: "5 (switches óptico-mecánicos Lightforce)" },
       { label: "Iluminación", value: "Sin RGB (prioriza el peso)" },
+      { label: "Software", value: "Logitech G HUB (necesario para actualizar firmware y activar 8.000 Hz)" },
+      { label: "Color", value: "Blanco (también disponible en negro según variante)" },
     ],
+    faq: [
+      { question: "¿Vale la pena el precio?", answer: "Es la objeción más repetida en las reseñas, y no es unánime: varias, de distintos países, dicen literalmente que \"el precio lo vale poco\" o que \"es muy costoso\", aunque casi todas terminan recomendándolo igual por la calidad del sensor y el peso. Es una compra de nicho para quien prioriza rendimiento competitivo por sobre el precio." },
+      { question: "¿Cómo funciona el modo de 8.000 Hz?", answer: "Se activa actualizando el firmware desde Logitech G HUB. Da la máxima precisión y respuesta de la línea, pero tiene un costo real: una reseña detallada confirma que en ese modo la batería cae a solo 20 horas, contra las ~95 horas del modo estándar de 4.000 Hz." },
+      { question: "¿Es difícil adaptarse al peso tan liviano?", answer: "Si venís de un mouse pesado, sí hay una curva de adaptación real. Una reseña que pasó de un G903 (mucho más pesado) cuenta que tuvo que recalibrar su sensibilidad y memoria muscular, aunque después de adaptarse notó mejoras de precisión que no tenía antes." },
+      { question: "¿Sirve para trabajo y uso mixto, no solo gaming?", answer: "No es lo suyo. Una reseña lo dice de frente: para productividad (botones extra, autonomía larga) recomienda directamente el G903 o el MX Master 3S. El Superlight 2 está diseñado exclusivamente para e-sports, sin concesiones en esa dirección." },
+      { question: "¿Tiene fallas conocidas?", answer: "Hay reportes puntuales, no masivos: una reseña de 3 estrellas reporta que en algunas unidades la ruedita de scroll empieza a fallar y dar falsos clics a partir de los 6 meses. Otra reporta que los DPI se reconfiguran solos sin causa aparente. Son casos aislados frente al volumen de reseñas positivas." },
+      { question: "¿Conviene este o el G Pro Wireless?", answer: "El [G Pro Wireless](/producto/MLA14428767) ($140.923) cuesta la mitad y usa prácticamente el mismo sensor de generación anterior, con 10 gramos más de peso. El Superlight 2 ($288.469) da el salto final en peso, sensor HERO 2 y polling de 8.000 Hz, pero a un precio que varias reseñas cuestionan. Para competitivo de máximo nivel con presupuesto disponible, el Superlight 2; para la mayoría, el G Pro Wireless rinde casi igual por menos plata." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "enero 2026", useful: 2, text: "Vengo del G903 y la verdad que se nota la diferencia. El sensor se siente distinto al movimiento del mouse, además es muuucho más liviano por lo que tengo que reacostumbrar mi memoria muscular (tuve que cambiar la sensibilidad y todavía no le pego), de todas maneras el poco tiempo que lo vengo usando, se notan algunas precisiones en los movimientos que no podía obtener antes. La batería también dura menos, aunque va sobrado para el uso: dura unos cuantos días, debe ser una semana aproximadamente con un uso intermedio. Lo recomiendo como mouse solo si se va a usar para esports. Si lo que querés es para productividad te recomiendo por sus botones adicionales y larga autonomía el G903 o el MX Master 3S. Éste se queda corto, obvio, no está pensado para eso." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 1, text: "Es la versión 2 del Superlight, se siente el mejor sensor y la mejor calidad de los botones." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 0, text: "Excelente mouse para jugar FPS. Si se actualiza el firmware llega a 8k Hz de polling rate, lo que hace que sea muy preciso, pero si se pone 8k Hz la batería solo dura 20 horas." },
+      { rating: 5, country: "Chile", date: "2025", useful: 0, text: "Contento con la compra, solo cambié los glides y el mouse es mejor que la versión anterior, cuenta con 4k Hz, se siente mayor fluidez, tuve que bajar la sensibilidad en el juego." },
+      { rating: 3, country: "Chile", date: "mayo 2026", useful: 0, text: "Lo recomiendo, pero en algunos casos a los 6 meses empieza a fallar la ruedita y a dar falsos ticks." },
+      { rating: 1, country: "Argentina", date: "agosto 2025", useful: 0, text: "Buenas, tengo problemas con mi mouse: se me bajan solos los dpi, ya los configuré y todo pero no hay solución." },
+      { rating: 1, country: "Argentina", date: "2025", useful: 0, text: "La verdad una decepción, en comparación del 1, este es una basura." },
+      { rating: 1, country: "Perú", date: "2025", useful: 1, text: "Es un buen mouse, cumple con lo que promete, pero el precio lo vale poco." },
+    ],
+    aiReviewSummary: "Con 170 calificaciones, es el mouse gamer premium más liviano de esta selección y muestra mejoras confirmadas sobre la versión 1 en sensor y calidad de botones. El hallazgo técnico central: el modo de 8.000 Hz de polling (activado por firmware) da máxima precisión pero reduce la batería a solo 20 horas, muy por debajo de las ~95 horas del modo estándar. La objeción más repetida y transversal a varios países es el precio: varias reseñas independientes usan casi las mismas palabras (\"cuesta mucho\", \"el precio lo vale poco\") aunque casi todas terminan recomendándolo. Hay reportes minoritarios de fallas de scroll a los 6 meses y de reconfiguración espontánea de DPI. Una reseña detallada aclara que no es apto para uso mixto de productividad, solo para gaming competitivo puro.",
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mouse Gamer Logitech PRO X Superlight 2",
+      image: "https://http2.mlstatic.com/D_NQ_NP_742556-MLA99590549150_122025-F.jpg",
+      description: "Mouse gamer Logitech PRO X Superlight 2: sensor HERO 2 de hasta 44.000 DPI, 60 gramos, polling de hasta 8.000 Hz y batería recargable USB-C de hasta 95 horas. 4.8 estrellas con 170 calificaciones en MercadoLibre.",
+      brand: { "@type": "Brand", name: "Logitech" },
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2ZRDxvS",
+        priceCurrency: "ARS",
+        price: 288469,
+        availability: "https://schema.org/InStock",
+        itemCondition: "https://schema.org/NewCondition",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "170",
+      },
+    },
     relatedProducts: ["MLA14428767", "MLA40568693"],
     priceUpdated: "2026-07-02",
     priceLastChecked: "2026-07-02",
