@@ -13905,13 +13905,13 @@ export const guides: Guide[] = [
     title: "Perfumes árabes y sus dupes: qué fragancia cara imita cada uno",
     seoTitle: "Perfumes árabes dupes: qué imita cada uno (2026)",
     metaDescription:
-      "Los mejores dupes árabes en Argentina 2026: Asad vs Sauvage, Club de Nuit vs Aventus, Hawas Ice vs Invictus. Tabla completa con originales, precios y a quién le sirve.",
+      "Descubrí la tabla de equivalencias de perfumes árabes: Asad vs Sauvage, Club de Nuit vs Aventus, Hawas Ice vs Invictus. Precios reales y cuál conviene.",
     ogTitle: "Perfumes árabes y sus clones: la lista de dupes que ahorra hasta 90%",
     ogDescription:
-      "Aventus, Sauvage, Invictus, Tobacco Vanille — los perfumes occidentales más caros tienen su dupe árabe a 1/4 o 1/10 del precio. Cuáles cumplen, cuáles no, y qué mirar antes de comprar.",
+      "Aventus, Sauvage, Invictus, Tobacco Vanille: los perfumes occidentales más caros tienen su dupe árabe a 1/4 o 1/10 del precio. Cuáles cumplen, cuáles no, y qué mirar antes de comprar.",
     h1: "Perfumes árabes y sus dupes: la lista completa de clones para Argentina (2026)",
     publishedDate: "2026-06-04",
-    updatedDate: "2026-06-04",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     intro: [
       "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta $130.000. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
@@ -13931,17 +13931,17 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Un dupe es una fragancia inspirada en otra más cara, pero **no es una falsificación**: tiene su propia marca, su propio frasco y su propio nombre. Es legal, es legítimo, y para la mayoría de los compradores cumple el 80-90% de la experiencia del original a un cuarto o un décimo del precio. Los cinco dupes árabes más fuertes en Argentina son: **[Armaf Club de Nuit Intense Man](https://meli.la/1BzsFJE)** (clon de Creed Aventus), **[Lattafa Asad Intense](https://meli.la/26owfqo)** (clon de Dior Sauvage Elixir), **[Rasasi Hawas Ice](https://meli.la/24kQeRc)** (clon de Paco Rabanne Invictus), **[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)** (clon de Tom Ford Tobacco Vanille) y **Lattafa Her Confession** (clon de Mugler Alien). Cada uno con su propia historia de qué tan cerca llega al original."
+        content: "Un dupe es una fragancia inspirada en otra más cara, pero **no es una falsificación**: tiene su propia marca, su propio frasco y su propio nombre. En Argentina también se los llama equivalencias, clones o perfumes similares: es lo mismo con otro nombre. Es legal, es legítimo, y para la mayoría de los compradores cumple el 80-90% de la experiencia del original a un cuarto o un décimo del precio. Los cinco dupes árabes más fuertes en Argentina son: **[Armaf Club de Nuit Intense Man](https://meli.la/1BzsFJE)** (clon de Creed Aventus), **[Lattafa Asad Intense](https://meli.la/26owfqo)** (clon de Dior Sauvage Elixir), **[Rasasi Hawas Ice](https://meli.la/24kQeRc)** (clon de Paco Rabanne Invictus), **[Lattafa Khamrah Qahwa](https://meli.la/1B8Vwwf)** (clon de Tom Ford Tobacco Vanille) y **Lattafa Her Confession** (clon de Mugler Alien). Cada uno con su propia historia de qué tan cerca llega al original."
       },
       {
         type: "trust-block",
         trustVariant: "methodology",
         title: "Cómo armamos esta comparativa",
-        content: "Cruzamos los dupes árabes más buscados en Argentina (queries tipo \"perfume árabe similar a X\", \"clon de Y\", \"parecido a Z\") con los productos reales del catálogo y con reseñas de compradores que tienen ambos perfumes — el original y el dupe. Reportamos qué tan cerca llega cada uno honestamente: cuál cumple, cuál tiene diferencias claras, cuál es estrictamente \"inspirado\" sin pretender ser idéntico."
+        content: "Cruzamos los dupes árabes más buscados en Argentina (queries tipo \"perfume árabe similar a X\", \"clon de Y\", \"parecido a Z\") con los productos reales del catálogo y con reseñas de compradores que tienen ambos perfumes (el original y el dupe). Reportamos qué tan cerca llega cada uno honestamente: cuál cumple, cuál tiene diferencias claras, cuál es estrictamente \"inspirado\" sin pretender ser idéntico."
       },
       {
         type: "h2",
-        title: "Tabla maestra: dupes árabes vs originales occidentales"
+        title: "Tabla de equivalencias: dupes árabes vs originales occidentales"
       },
       {
         type: "table",
@@ -13982,7 +13982,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA19715215",
-        description: "El masculino árabe más vendido de Argentina. 7.245 reseñas con rating 4.6. Comparado constantemente con Dior Sauvage Elixir — comparten la especia, el ámbar y la base avainillada. Pero Asad tiene apertura más frutal (piña) y un fondo más dulce. El Sauvage Elixir es más \"masculino árido\"; el Asad es más \"masculino dulce\".",
+        description: "El masculino árabe más vendido de Argentina. 7.245 reseñas con rating 4.6. Comparado constantemente con Dior Sauvage Elixir: comparten la especia, el ámbar y la base avainillada. Pero Asad tiene apertura más frutal (piña) y un fondo más dulce. El Sauvage Elixir es más \"masculino árido\"; el Asad es más \"masculino dulce\".",
         ranking: 2
       },
       {
@@ -13997,7 +13997,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA29780185",
-        description: "El árabe fresco-frutal por excelencia. Comparte con Invictus el perfil acuático-amaderado, el público target (hombre joven-medio) y la versatilidad para oficina y gym. La diferencia distintiva: Hawas Ice tiene una nota de manzana congelada que el Invictus no tiene. 9.144 reseñas con rating 4.8 — uno de los productos mejor validados del catálogo árabe en AR.",
+        description: "El árabe fresco-frutal por excelencia. Comparte con Invictus el perfil acuático-amaderado, el público target (hombre joven-medio) y la versatilidad para oficina y gym. La diferencia distintiva: Hawas Ice tiene una nota de manzana congelada que el Invictus no tiene. 9.144 reseñas con rating 4.8, uno de los productos mejor validados del catálogo árabe en AR.",
         ranking: 3
       },
       {
@@ -14021,7 +14021,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA41304983",
-        description: "Praliné, vainilla y fondo oriental dulce-resinoso. Apunta al perfil del Mugler Alien (jazmín dulce con resinas) pero más \"gourmand\" y menos floral. Para mujer que busca un perfume de noche intenso sin pagar Mugler. Proyecta muy fuerte — no es para oficina diurna.",
+        description: "Praliné, vainilla y fondo oriental dulce-resinoso. Apunta al perfil del Mugler Alien (jazmín dulce con resinas) pero más \"gourmand\" y menos floral. Para mujer que busca un perfume de noche intenso sin pagar Mugler. Proyecta muy fuerte: no es para oficina diurna.",
         ranking: 5
       },
       {
@@ -14031,7 +14031,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA25883660",
-        description: "Mayar apunta al perfil del Xerjoff Erba Pura — cítricos frutales con base avainillada. Erba Pura es uno de los nichos más copiados del mundo, y Mayar es la versión Lattafa más accesible. La similitud no es perfecta pero el perfil está. Unisex, 100ml.",
+        description: "Mayar apunta al perfil del Xerjoff Erba Pura: cítricos frutales con base avainillada. Erba Pura es uno de los nichos más copiados del mundo, y Mayar es la versión Lattafa más accesible. La similitud no es perfecta pero el perfil está. Unisex, 100ml.",
         ranking: 6
       },
       {
@@ -14055,7 +14055,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA41306043",
-        description: "La versión más oscura del Hawas. Toma elementos del Aventus (frutal-ahumado) pero los lleva a un terreno más nocturno-oriental. No es un clon literal — es \"inspirado en\". Para hombre que tiene Hawas Ice y quiere algo más intenso para noche, o que probó Club de Nuit y busca alternativa.",
+        description: "La versión más oscura del Hawas. Toma elementos del Aventus (frutal-ahumado) pero los lleva a un terreno más nocturno-oriental. No es un clon literal: es \"inspirado en\". Para hombre que tiene Hawas Ice y quiere algo más intenso para noche, o que probó Club de Nuit y busca alternativa.",
         ranking: 8
       },
       {
@@ -14064,7 +14064,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Depende de tres factores. **El primero**: tu nariz. Si nunca usaste el original, no vas a notar que el dupe es \"distinto\" — vas a juzgar al dupe por sí mismo, y la mayoría cumple bien. Si tenés el original guardado, vas a notar diferencias en la salida, en la transición y en la longevidad."
+        content: "Depende de tres factores. **El primero**: tu nariz. Si nunca usaste el original, no vas a notar que el dupe es \"distinto\": vas a juzgar al dupe por sí mismo, y la mayoría cumple bien. Si tenés el original guardado, vas a notar diferencias en la salida, en la transición y en la longevidad."
       },
       {
         type: "p",
@@ -14072,7 +14072,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "**El tercero**: el dupe en sí. [Club de Nuit Intense Man](https://meli.la/1BzsFJE) y [Hawas Ice](https://meli.la/24kQeRc) son los dupes más logrados — varios usuarios serios dicen que son indistinguibles del original en el secado. [Asad Intense](https://meli.la/26owfqo) vs Sauvage Elixir tiene más diferencias notorias. [Khamrah Qahwa](https://meli.la/1B8Vwwf) vs Tobacco Vanille comparte familia olfativa pero no es \"el mismo perfume\"."
+        content: "**El tercero**: el dupe en sí. [Club de Nuit Intense Man](https://meli.la/1BzsFJE) y [Hawas Ice](https://meli.la/24kQeRc) son los dupes más logrados: varios usuarios serios dicen que son indistinguibles del original en el secado. [Asad Intense](https://meli.la/26owfqo) vs Sauvage Elixir tiene más diferencias notorias. [Khamrah Qahwa](https://meli.la/1B8Vwwf) vs Tobacco Vanille comparte familia olfativa pero no es \"el mismo perfume\"."
       },
       {
         type: "h2",
@@ -14083,8 +14083,8 @@ export const guides: Guide[] = [
         items: [
           "**Para regalar a un perfumista experimentado**: si la persona conoce el original y es coleccionista, el regalo \"correcto\" es el original o un perfume distinto, no el dupe.",
           "**Si lo querés como inversión coleccionable**: los dupes no aumentan de valor con el tiempo; los nichos premium (Creed, Xerjoff) sí.",
-          "**Si la similitud no es alta**: algunos \"dupes\" del mercado solo comparten una nota con el original. Eso no es un dupe — es un perfume distinto que se vende como dupe. Verificá similitud real antes de comprar.",
-          "**Si estás buscando una firma única**: los dupes están \"prestados\" del original. Si querés un perfume que sea solo tuyo, conviene explorar el nicho árabe sin la lógica de imitación (Khamrah, Mayar, Asad — los que tienen identidad propia)."
+          "**Si la similitud no es alta**: algunos \"dupes\" del mercado solo comparten una nota con el original. Eso no es un dupe: es un perfume distinto que se vende como dupe. Verificá similitud real antes de comprar.",
+          "**Si estás buscando una firma única**: los dupes están \"prestados\" del original. Si querés un perfume que sea solo tuyo, conviene explorar el nicho árabe sin la lógica de imitación (Khamrah, Mayar, Asad: los que tienen identidad propia)."
         ]
       },
       {
@@ -14104,7 +14104,7 @@ export const guides: Guide[] = [
           "**Mirá las notas oficiales declaradas por la marca árabe**: si el original tiene piña-bergamota-pachulí-musk y el dupe tiene piña-bergamota-pachulí-musk, comparten ADN. Si las notas son muy distintas, no es dupe.",
           "**Considerá la familia olfativa primero**: un dupe debe estar en la misma familia (oriental amaderado, fresco cítrico, gourmand) que el original. Si no comparten familia, no es dupe.",
           "**Probá con un decant primero**: si el dupe es caro o nunca lo oliste, un decant de 5-10ml te permite probar sin comprometerte al frasco grande.",
-          "**Comprá a vendedor confiable**: las falsificaciones del dupe son frecuentes — especialmente Club de Nuit y Asad Intense. Las señales completas para identificar productos auténticos están en [perfumes árabes originales](/guias/perfumes-arabes-originales)."
+          "**Comprá a vendedor confiable**: las falsificaciones del dupe son frecuentes: especialmente Club de Nuit y Asad Intense. Las señales completas para identificar productos auténticos están en [perfumes árabes originales](/guias/perfumes-arabes-originales)."
         ]
       },
       {
@@ -14139,7 +14139,7 @@ export const guides: Guide[] = [
       },
       {
         question: "¿Los dupes árabes duran tanto como los originales?",
-        answer: "Sí, en general. Los perfumes árabes tienen alta concentración de aceites perfumados, lo que se traduce en 6-10 horas de duración real en piel — comparable o superior a muchos originales occidentales (que rondan 4-8 horas). Algunos dupes (Hawas Ice especialmente) son reconocidos por durar incluso más que el original."
+        answer: "Sí, en general. Los perfumes árabes tienen alta concentración de aceites perfumados, lo que se traduce en 6-10 horas de duración real en piel, comparable o superior a muchos originales occidentales (que rondan 4-8 horas). Algunos dupes (Hawas Ice especialmente) son reconocidos por durar incluso más que el original."
       },
       {
         question: "¿Vale la pena comprar el original si tengo el dupe?",
