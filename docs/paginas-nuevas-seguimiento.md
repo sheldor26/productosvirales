@@ -95,16 +95,16 @@ Keywords: cafetera italiana 27.100/mes (Volturno por pocillos, aluminio/inducci�
 
 | URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
 |---|---|---|---|---|---|---|
-| https://productosvirales.com.ar/guias/climatizacion/estufas-electricas | Alta | 2026-07-01 | 2026-07-01 | — | — | — |
-| https://productosvirales.com.ar/guias/climatizacion/estufa-electrica-bajo-consumo | Media | 2026-07-01 | 2026-07-01 | — | — | — |
-| https://productosvirales.com.ar/guias/climatizacion/caloventor | Media | 2026-07-01 | 2026-07-01 | — | — | — |
+| https://productosvirales.com.ar/guias/climatizacion/estufas-electricas | Alta | 2026-07-01 | 2026-07-01 | 9 | 0 | 2026-08-26 |
+| https://productosvirales.com.ar/guias/climatizacion/estufa-electrica-bajo-consumo | Media | 2026-07-01 | 2026-07-01 | 13 | 0 | 2026-08-26 |
+| https://productosvirales.com.ar/guias/climatizacion/caloventor | Media | 2026-07-01 | 2026-07-01 | 1 | 0 | 2026-08-26 |
 
-Silo completo (pilar + 2 satélites), enlazado entre sí. Estado: **publicadas 2026-07-01**.
+Silo completo (pilar + 2 satélites), enlazado entre sí. Estado: **publicadas 2026-07-01, indexadas** (impresiones confirmadas por GSC al 2026-07-01: posiciones 7-16, todavía sin clicks).
 
 ## Silo: gaming
 
 | URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
 |---|---|---|---|---|---|---|
-| https://productosvirales.com.ar/guias/gaming/silla-gamer | Alta | 2026-07-01 | 2026-07-01 | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/silla-gamer | Alta | 2026-07-01 | 2026-07-01 | 7 | 0 | 2026-08-26 |
 
-Pilar publicado standalone (5 productos, ticket alto). Satélites `auriculares-gamer` y `teclado-gamer` ya están escritos pero siguen STAGED — al publicarlos, reponer los internalLinks cruzados en `silla-gamer`. Estado: **publicada 2026-07-01**.
+Pilar publicado standalone (5 productos, ticket alto). Satélites `auriculares-gamer` y `teclado-gamer` ya están escritos pero siguen STAGED — al publicarlos, reponer los internalLinks cruzados en `silla-gamer`. Estado: **publicada 2026-07-01, indexada** (7 impresiones en GSC al 2026-07-01, posición prom. 8.3, sin clicks todavía).
