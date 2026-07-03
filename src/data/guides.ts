@@ -15284,16 +15284,16 @@ export const guides: Guide[] = [
     category: "aspiradoras-robot",
     title: `Robot aspiradora Xiaomi [2026]: toda la línea S40, X20 y S20 comparada`,
     seoTitle: `Robot aspiradora Xiaomi: cuál comprar (5 modelos)`,
-    metaDescription: `Comparamos toda la línea de robot aspiradora Xiaomi en Argentina: S40 Pro 15.000 Pa, S40c, X20 Pro, X20 Max y S20. Mi Home, succión, mapeo y garantía oficial.`,
+    metaDescription: `Comparamos toda la línea de robot aspiradora Xiaomi en Argentina: S40 Pro 15.000 Pa, S40c, X20 Pro y X20 Max. Mi Home, succión, mapeo y garantía oficial.`,
     ogTitle: `Xiaomi tiene 5 robots distintos: este es el que te conviene`,
     ogDescription: `Del S40c entry-level al X20 Max premium, te explicamos cuál Xiaomi comprar según tu casa, sin chamuyo y con la verdad sobre la garantía en Argentina.`,
     h1: `Robot aspiradora Xiaomi en Argentina 2026: cuál comprar, modelo por modelo`,
     publishedDate: "2026-06-06",
-    updatedDate: "2026-06-06",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     standfirst: `Xiaomi es la marca que más robots vende en Argentina, pero tiene cinco modelos que van de $317.000 a más de $1.500.000 y se solapan en el nombre. Acá ordenamos cuál es cuál, qué cambia de verdad entre ellos y dónde está la trampa de la importación gris.`,
     intro: [
-      `Si entraste a MercadoLibre a buscar un robot aspiradora, lo más probable es que te haya aparecido un Xiaomi arriba de todo. Es la marca que más vende en Argentina en esta categoría, y por buenas razones: la app **Mi Home** funciona en serio, los precios bajaron mucho en los últimos dos años y la oferta arranca en menos de $350.000. El problema es otro: Xiaomi tiene tantos modelos —y con nombres tan parecidos (S40, S40c, S40 Pro, X20, X20 Pro, X20 Max)— que es muy fácil pagar de más por features que no vas a usar, o pagar de menos y quedarte sin mapeo.`,
+      `Si entraste a MercadoLibre a buscar un robot aspiradora, lo más probable es que te haya aparecido un Xiaomi arriba de todo. Es la marca que más vende en Argentina en esta categoría, y por buenas razones: la app **Mi Home** funciona en serio, los precios bajaron mucho en los últimos dos años y la oferta arranca en menos de $350.000. El problema es otro: Xiaomi tiene tantos modelos, y con nombres tan parecidos (S40, S40c, S40 Pro, X20, X20 Pro, X20 Max), que es muy fácil pagar de más por features que no vas a usar, o pagar de menos y quedarte sin mapeo.`,
       `En esta guía no te vamos a vender humo. Vamos a poner los cinco robots Xiaomi que se consiguen hoy en Argentina, ordenarlos de menos a más, y decirte para qué casa rinde cada uno. Spoiler: el más caro NO es el que le conviene a la mayoría, y hay un detalle de garantía que casi nadie te cuenta y que puede transformar una buena compra en un dolor de cabeza.`,
       `Si querés la versión corta sin leer todo: andá al "Resumen rápido" acá abajo. Si querés entender por qué, seguí leyendo.`,
     ],
@@ -15301,10 +15301,11 @@ export const guides: Guide[] = [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_920318-MLA107531899968_032026-F.jpg", alt: `Robot aspiradora Xiaomi S40 Pro con 15.000 Pa de succión`, imageSize: "hero" },
   
       { type: "h2", id: "resumen", title: `Resumen rápido: cuál Xiaomi comprar según tu caso` },
+      { type: "p", content: `El mejor robot aspiradora Xiaomi en Argentina hoy es el S40 Pro 15.000 Pa: la succión más alta de toda la línea a precio de gama media. Si tu casa es chica, con el S40c alcanza y sobra; si querés el tope de gama sin discutir, el X20 Max. El detalle por caso:` },
       { type: "list", items: [
-        `**Mejor relación precio-calidad:** [Xiaomi S40 Pro 15.000 Pa](https://meli.la/117oW5y) — la succión más alta de la línea sin pagar precio de tope de gama.`,
-        `**Para empezar barato con app y mapeo:** [Xiaomi S40c E101](https://meli.la/16WtjsG) — la puerta de entrada al ecosistema Mi Home.`,
-        `**Si querés tope de gama sin discutir:** [Xiaomi X20 Max](https://meli.la/1Jsg7hm) — todo lo que Xiaomi pone arriba de la mesa.`,
+        `**Mejor relación precio-calidad:** [Xiaomi S40 Pro 15.000 Pa](https://meli.la/117oW5y): la succión más alta de la línea sin pagar precio de tope de gama.`,
+        `**Para empezar barato con app y mapeo:** [Xiaomi S40c E101](https://meli.la/16WtjsG): la puerta de entrada al ecosistema Mi Home.`,
+        `**Si querés tope de gama sin discutir:** [Xiaomi X20 Max](https://meli.la/1Jsg7hm): todo lo que Xiaomi pone arriba de la mesa.`,
         `**Si vivís en departamento chico:** el [S40c](https://meli.la/16WtjsG) te sobra; no gastes en el X20.`,
         `**Si tenés alfombras y mascotas:** [S40 Pro](https://meli.la/117oW5y) o [X20 Pro](https://meli.la/2ViGUz3) por la succión alta.`,
       ]},
@@ -15326,13 +15327,13 @@ export const guides: Guide[] = [
   
       { type: "h3", title: `2. Xiaomi Robot Vacuum S20 — el del comando de voz` },
       { type: "product-card", productMlaId: "MLA44714806", label: "Aspira alfombras", labelColor: "blue", ranking: 2, description: `Sube la apuesta sobre el S40c con mapeo, comando de voz y mejor desempeño en alfombras. Buen punto medio si querés algo más que lo básico pero no estás dispuesto a saltar a los casi {{precio:MLA66281403:k}} del S40 Pro.` },
-      { type: "p", content: `El [S20](https://meli.la/18CB1Wa) se ubica un escalón arriba del S40c en prestaciones: mantiene el mapeo, suma comando de voz y trabaja mejor sobre alfombras. Está pensado para quien quiere comodidad extra —pedirle por voz que arranque— sin irse al precio del tope de gama.` },
+      { type: "p", content: `El [S20](https://meli.la/18CB1Wa) se ubica un escalón arriba del S40c en prestaciones: mantiene el mapeo, suma comando de voz y trabaja mejor sobre alfombras. Está pensado para quien quiere comodidad extra (pedirle por voz que arranque) sin irse al precio del tope de gama.` },
       { type: "callout", calloutVariant: "note", calloutTitle: `Ojo con el nombre`, content: `El "S20" robot aspirador NO es lo mismo que las aspiradoras de mano que aparecen en las mismas búsquedas. Si lo que querés es un robot que ande solo por el piso, este es el correcto; las de mano son otra categoría.` },
   
       { type: "h3", title: `3. Xiaomi S40 Pro 15.000 Pa — el punto justo de la marca` },
-      { type: "product-card", productMlaId: "MLA66281403", label: "Mejor relación precio-calidad", labelColor: "green", ranking: 3, description: `15.000 Pa de succión —el número más alto de toda la línea Xiaomi— y brazos extensibles que llegan a los rincones, por menos de lo que sale el X20 Pro. Si tenés alfombras, mascotas o una casa mediana, este es el que recomendamos para la mayoría.` },
+      { type: "product-card", productMlaId: "MLA66281403", label: "Mejor relación precio-calidad", labelColor: "green", ranking: 3, description: `15.000 Pa de succión, el número más alto de toda la línea Xiaomi, y brazos extensibles que llegan a los rincones, por menos de lo que sale el X20 Pro. Si tenés alfombras, mascotas o una casa mediana, este es el que recomendamos para la mayoría.` },
       { type: "p", content: `Acá está, para nosotros, el mejor robot Xiaomi para la mayoría de la gente. El [S40 Pro](https://meli.la/117oW5y) declara **15.000 Pa de succión**, que es el número más alto de toda la línea, incluso por encima de modelos que cuestan el doble. Esa potencia es la que hace que levante pelo de mascota incrustado en alfombras y migas en las uniones del piso, no solo el polvo de superficie.` },
-      { type: "p", content: `Sumale los brazos extensibles, que se estiran para barrer los rincones y los bordes contra la pared —el punto débil clásico de los robots redondos—, y tenés un equipo que limpia de verdad. Cuesta bastante menos que el X20 Pro y el X20 Max, y para el 90% de las casas argentinas no vas a notar lo que te perdés de los premium.` },
+      { type: "p", content: `Sumale los brazos extensibles, que se estiran para barrer los rincones y los bordes contra la pared (el punto débil clásico de los robots redondos), y tenés un equipo que limpia de verdad. Cuesta bastante menos que el X20 Pro y el X20 Max, y para el 90% de las casas argentinas no vas a notar lo que te perdés de los premium.` },
       { type: "pull-quote", content: `Pensé que 15.000 Pa era marketing, pero la diferencia con mi robot viejo es brutal. Levanta el pelo del gato de la alfombra, cosa que el anterior dejaba ahí.`, attribution: `— Comprador en Argentina, 2025` },
   
       { type: "h3", title: `4. Xiaomi X20 Pro D102GL — el premium "accesible"` },
@@ -15342,7 +15343,7 @@ export const guides: Guide[] = [
   
       { type: "h3", title: `5. Xiaomi X20 Max — el tope de gama` },
       { type: "product-card", productMlaId: "MLA44235159", label: "Tope de gama", labelColor: "purple", ranking: 5, description: `Lo máximo que ofrece Xiaomi en Argentina: mapeo, WiFi, sensor de obstáculos y anticaída para casas con escaleras. Es para quien quiere lo mejor de la marca sin discutir presupuesto. Para la mayoría es más robot del que necesita.` },
-      { type: "p", content: `El [X20 Max](https://meli.la/1Jsg7hm) es el techo de la línea Xiaomi en Argentina. Suma sensor anticaída —clave si tenés escaleras o un palier abierto— al paquete completo de mapeo, WiFi y detección de obstáculos. Es un robot excelente, sin asteriscos.` },
+      { type: "p", content: `El [X20 Max](https://meli.la/1Jsg7hm) es el techo de la línea Xiaomi en Argentina. Suma sensor anticaída (clave si tenés escaleras o un palier abierto) al paquete completo de mapeo, WiFi y detección de obstáculos. Es un robot excelente, sin asteriscos.` },
       { type: "p", content: `Ahora la honestidad de comparador: salvo que tengas una casa grande, de dos plantas, con escaleras y quieras directamente lo mejor sin pensarlo, el X20 Max es **más robot del que necesitás**. La mayoría de las casas argentinas quedan perfectas con el S40 Pro a una fracción del precio. Lo decimos para que no pagues de más: si igual querés el tope de gama porque te lo podés dar y te gusta tener lo mejor, es una compra impecable.` },
   
       { type: "h2", id: "tabla", title: `Tabla comparativa: los 5 Xiaomi de un vistazo` },
@@ -15358,7 +15359,7 @@ export const guides: Guide[] = [
       { type: "h2", id: "garantia", title: `La verdad sobre la garantía: oficial vs. importación gris` },
       { type: "p", content: `Esta es la sección que casi nadie te cuenta y que puede ahorrarte un disgusto. Xiaomi vende un montón de modelos en el mundo, y muchos entran a Argentina por **importación gris**: equipos traídos por revendedores, no por la distribución oficial. Funcionan igual de bien el día que los enchufás. El problema aparece después.` },
       { type: "list", items: [
-        `**Garantía y service técnico:** un equipo oficial tiene respaldo de service en Argentina. Uno gris, si se rompe, dependés de la buena voluntad del vendedor —que muchas veces ya no está—.`,
+        `**Garantía y service técnico:** un equipo oficial tiene respaldo de service en Argentina. Uno gris, si se rompe, dependés de la buena voluntad del vendedor, que muchas veces ya no está.`,
         `**Repuestos:** los robots gastan **cepillos, filtros y batería** con el uso. En un modelo oficial conseguís repuestos; en uno gris o de modelo no comercializado acá, podés quedarte sin nada y tener un robot perfecto que no podés mantener.`,
         `**App y firmware en español:** los modelos pensados para Latinoamérica tienen Mi Home en español y actualizaciones. Algunos modelos importados de otra región pueden pedirte cuenta regional o quedar en inglés/chino.`,
       ]},
@@ -15366,7 +15367,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Para que quede claro porque a veces se mezcla: la distribución oficial en Argentina es **dispar entre marcas**. Xiaomi tiene buena presencia, Samsung también con service propio, mientras que Roborock, Ecovacs o iRobot llegan de forma más irregular. Por eso un Xiaomi oficial suele ser una apuesta más segura en cuanto a repuestos y soporte que un robot importado de una marca sin representación local.` },
   
       { type: "h2", id: "contexto", title: `Una buena noticia: lo premium bajó de precio` },
-      { type: "p", content: `Si venís de mirar robots hace dos o tres años, te vas a llevar una sorpresa agradable. Entre 2024 y 2025, dos tecnologías que eran exclusivas de la gama premium —el **mapeo LIDAR/láser** y el **autovaciado**— bajaron a la gama media. Eso significa que hoy conseguís mapeo de verdad en modelos que antes eran impensables a ese precio, y que toda la línea Xiaomi (incluido el S40c de entrada) ya viene con navegación inteligente.` },
+      { type: "p", content: `Si venís de mirar robots hace dos o tres años, te vas a llevar una sorpresa agradable. Entre 2024 y 2025, dos tecnologías que eran exclusivas de la gama premium (el **mapeo LIDAR/láser** y el **autovaciado**) bajaron a la gama media. Eso significa que hoy conseguís mapeo de verdad en modelos que antes eran impensables a ese precio, y que toda la línea Xiaomi (incluido el S40c de entrada) ya viene con navegación inteligente.` },
       { type: "p", content: `La contracara: como ahora el mapeo es estándar, pagar de más por un modelo "porque tiene mapeo" ya no tiene sentido. Lo que diferencia a los modelos caros hoy es succión, batería, sensores y autovaciado, no el mapeo en sí. Tenelo en cuenta cuando compares publicaciones.` },
   
       { type: "h2", id: "cual-elegir", title: `Entonces, ¿cuál Xiaomi comprás?` },
