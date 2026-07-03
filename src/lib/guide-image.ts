@@ -27,3 +27,28 @@ export function guideOgImage(guide: Guide): string | undefined {
   const url = guide.ogImage ?? guideProductImage(guide);
   return url ? toJpg(url) : undefined;
 }
+
+/**
+ * Imagen para el Pin de Pinterest de una guía. Igual que `guideOgImage`, pero
+ * cuando cae en la foto del primer producto elige una DISTINTA a la principal
+ * (la última del carrusel). Así el Pin de la guía no colisiona con el Pin de la
+ * ficha de ese producto —que usa la principal— y Pinterest no lo fusiona por
+ * imagen duplicada. Si la guía tiene `ogImage` propio o el producto tiene una
+ * sola foto, usa esa.
+ */
+export function guideFeedImage(guide: Guide): string | undefined {
+  if (guide.ogImage) return toJpg(guide.ogImage);
+  const picks = guide.quickPicks ?? [];
+  // Buscamos una foto SECUNDARIA (la 2da del carrusel) entre los productos
+  // destacados de la guía. La principal (imgs[0]) ya es el Pin de la ficha, así
+  // que una secundaria evita que Pinterest fusione el Pin de la guía por imagen
+  // repetida, y la 2da foto suele ser una toma buena (no la placa de specs).
+  for (const qp of picks) {
+    const p = qp.productMlaId ? getProductById(qp.productMlaId) : undefined;
+    if (p?.images && p.images.length >= 2) return toJpg(p.images[1]);
+  }
+  // Ningún destacado tiene 2da foto: usamos la principal del primero (va a
+  // colisionar, pero es mejor tener el Pin que no tenerlo).
+  const first = picks[0]?.productMlaId ? getProductById(picks[0].productMlaId) : undefined;
+  return first?.image ? toJpg(first.image) : undefined;
+}

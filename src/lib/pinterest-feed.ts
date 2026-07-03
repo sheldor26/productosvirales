@@ -3,7 +3,7 @@ import { getVisibleProducts, getProductById } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { getPublishedGuides } from "@/data/guides";
 import { guideHref } from "@/lib/guide-url";
-import { guideOgImage } from "@/lib/guide-image";
+import { guideFeedImage } from "@/lib/guide-image";
 import type { Guide } from "@/lib/types";
 
 // Lógica compartida para armar el CSV del importador "Cargá un CSV o TXT" de
@@ -139,7 +139,7 @@ export function buildPins({ tipo, categoria, board, imagenes }: FeedOptions = {}
     for (const g of getPublishedGuides()) {
       const catSlug = guideCategorySlug(g);
       if (categoria && catSlug !== categoria) continue;
-      const media = normalizeMedia(guideOgImage(g));
+      const media = normalizeMedia(guideFeedImage(g));
       if (!usableMedia(media)) continue;
       const cat = categoryName.get(catSlug) || catSlug;
       pins.push({
