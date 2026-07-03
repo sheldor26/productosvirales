@@ -44680,6 +44680,454 @@ Comprálo si jugás de forma competitiva y vas a aprovechar la personalización 
       { question: "¿Vale la pena pagar el triple contra el DualSense estándar?", answer: "Solo si vas a usar de verdad las paletas traseras, los gatillos ajustables y los perfiles guardados, por ejemplo jugando de forma competitiva. En gatillos adaptativos y haptics, que es la tecnología central de PS5, el Edge y el estándar son exactamente iguales." },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Silo Cuidado Personal — depiladora-electrica — fichas STAGED
+  // (2 fichas mas, laser/IPL, reservadas para guia depiladora-laser futura)
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA47224040",
+    title: "Depiladora De Pinzas Usb Inalámbrica Color Blanco Con Rosado Color Rosa",
+    canonicalName: "Daling DL-6032",
+    price: 23996,
+    originalPrice: 29995,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_860339-MLA107008139959_022026-O.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_860339-MLA107008139959_022026-O.jpg",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA47224040",
+    affiliateUrl: "https://meli.la/2fzm9p6",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 217,
+    ratingBreakdown: { five: "77%", four: "11%", three: "4%", two: "1%", one: "6%" },
+    pastelColor: "var(--pastel-pink)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca / modelo", value: "Daling DL-6032 (sin fabricante rastreable con página oficial propia)" },
+      { label: "Conexión", value: "Inalámbrica, se carga por cable USB" },
+      { label: "Cabezales", value: "1 removible" },
+      { label: "Velocidades", value: "3" },
+      { label: "Autonomía", value: "Hasta 1 hora de uso por carga (según ficha del vendedor)" },
+      { label: "Uso mojado / lavable", value: "No" },
+    ],
+    relatedProducts: ["MLA21032480", "MLA19111424", "MLA19590135"],
+    priceUpdated: "2026-07-03",
+    priceLastChecked: "2026-07-03",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-03",
+    description: "La depiladora de pinzas más barata del grupo: inalámbrica, se carga por USB y cumple lo básico. Es de una marca sin página oficial rastreable, así que las specs salen de la ficha de MercadoLibre y las reseñas, no de un fabricante que las respalde.",
+    seoTitle: "Daling DL-6032: la depiladora de pinzas más barata",
+    metaDescription: "Daling DL-6032 a $23.996: depiladora de pinzas inalámbrica, carga USB, 3 velocidades. La más barata del grupo, con reseñas reales de MercadoLibre.",
+    verdict: "Sirve si querés la entrada más barata para probar si te acostumbrás a depilarte con pinza eléctrica, sin gastar de más. No sirve si buscás autonomía larga o resistencia al agua: no es lavable ni apta para ducha, y la batería rinde para sesiones cortas.",
+    pros: [
+      "La más barata de las depiladoras de pinza de esta guía",
+      "Inalámbrica, se carga por cable USB común (no necesita pilas)",
+      "3 velocidades para ajustar según la zona",
+      "4.5 estrellas en 217 calificaciones, una calificación sólida para el precio",
+    ],
+    cons: [
+      "Marca sin página oficial rastreable: las specs dependen de la ficha del vendedor en MercadoLibre, no de un fabricante que las confirme de forma independiente",
+      "No es apta para uso mojado ni lavable, a diferencia de otras de esta guía",
+      "Autonomía declarada de solo 1 hora por carga, la más corta del grupo junto con la Gama Velvet",
+      "Un solo cabezal, sin accesorios extra (sin estuche, sin cepillo de limpieza)",
+    ],
+    articleBody: `## Qué es y para quién
+
+Una depiladora de pinzas inalámbrica genérica, pensada para quien quiere probar el sistema de depilación por pinza (arranca el vello de raíz, dura semanas) sin pagar el precio de una marca reconocida.
+
+## Lo bueno
+
+Es la más barata de las 4 depiladoras de pinza de esta guía, con carga por USB (no depende de pilas) y 3 velocidades para ajustar la intensidad según la zona del cuerpo. Con 217 calificaciones y 4.5 estrellas, tiene un respaldo razonable para el precio.
+
+## La contra real
+
+Daling no tiene una página oficial de fabricante rastreable en Argentina, así que todo lo que sabemos del producto sale de la ficha que carga el vendedor en MercadoLibre y de las reseñas de compradores, no de una fuente independiente que confirme los datos. Tampoco es apta para uso mojado ni lavable, y la autonomía declarada (1 hora por carga) es la más corta del grupo.
+
+## Cómo se compara
+
+Frente a la GA.MA Italy Velvet (la más vendida de esta guía, a un precio similar), esta tiene menos respaldo de marca y de reseñas (217 contra casi 7.000). Frente a la Gadnic Care D12 o la Philips Satinelle, es bastante más simple: un solo cabezal, sin funciones extra.
+
+## Para quién sí y para quién no
+
+Comprala si querés la entrada más barata para probar la depilación con pinza eléctrica. Si ya sabés que te vas a depilar seguido o buscás más respaldo de marca, la GA.MA Italy Velvet cuesta parecido y tiene muchas más reseñas.`,
+    faq: [
+      { question: "¿Daling es una marca confiable?", answer: "No tiene página oficial de fabricante rastreable en Argentina, así que no hay forma de verificar las specs de forma independiente más allá de la ficha del vendedor y las reseñas de compradores en MercadoLibre. Con 217 calificaciones y 4.5 estrellas, el respaldo de compradores es razonable para el precio." },
+      { question: "¿Es resistente al agua?", answer: "No. La ficha del vendedor la marca como no apta para uso mojado y no lavable, así que conviene usarla en seco, no en la ducha." },
+      { question: "¿Cuánto dura la batería?", answer: "Hasta 1 hora de uso por carga completa, según la ficha del vendedor. Es la autonomía más corta de las 4 depiladoras de pinza de esta guía, junto con la GA.MA Italy Velvet." },
+      { question: "¿Trae accesorios?", answer: "Según la ficha, solo el cable de carga USB. No incluye estuche ni cepillo de limpieza, a diferencia de otras depiladoras de esta guía." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "junio 2026", useful: 3, text: "Me llegó hoy la depi, ya la use y súper bien. Tenía miedito porque leí unos comentarios de que por la forma del cabezal no agarraba bien los bellos, pero nada que ver!!! Toca seguir probando y ver durabilidad de batería. Hasta ahora muy bien!!" },
+      { rating: 5, country: "Argentina", date: "junio 2026", useful: 3, text: "La súper recomiendo, la cargas y usas, depila re bien y el precio muy bueno." },
+      { rating: 4, country: "Argentina", date: "diciembre 2025", useful: 9, text: "La uso para sacar los pelos que crecen fuera de la zona de barba y bigote. Soy varón." },
+      { rating: 5, country: "Argentina", date: "junio 2026", useful: 2, text: "Le pongo 5 estrellas porque vino con la batería cargada, así que pude probarla y está muy bien. Ya tuve otras y esta es más pesada, no es plástico que lo mirás y se rompe. Y tiene mucha potencia, más que la anterior que tuve. Relación precio-calidad, la recomiendo. Veremos con el uso cuánto dura la batería." },
+    ],
+  },
+
+  {
+    id: "MLA19111424",
+    title: "Maquina Depiladora Care by Gadnic D12 Electrica Corporal 2 Velocidades Recargable LED Silenciosa",
+    canonicalName: "Gadnic Care D12",
+    price: 90699,
+    originalPrice: 151149,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_738903-MLA97019239613_112025-O.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_738903-MLA97019239613_112025-O.jpg",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19111424",
+    affiliateUrl: "https://meli.la/2mAHAfC",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1890,
+    ratingBreakdown: { five: "77%", four: "13%", three: "5%", two: "3%", one: "3%" },
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca / modelo", value: "Gadnic Care D12 (DEPI0012), verificado en gadnic.com.ar" },
+      { label: "Cabezales incluidos", value: "4: afeitador, exfoliante, masajeador, rasurador/recortador" },
+      { label: "Velocidades", value: "2" },
+      { label: "Batería", value: "Recargable, hasta 45 min de uso por carga completa de 8 h (confirmado en la página oficial de Gadnic)" },
+      { label: "Resistencia al agua", value: "IPX4, apta para uso mojado / ducha (confirmado en gadnic.com.ar)" },
+      { label: "Voltaje", value: "100-240V (confirmado en gadnic.com.ar)" },
+    ],
+    relatedProducts: ["MLA21032480", "MLA19590135", "MLA47224040"],
+    priceUpdated: "2026-07-03",
+    priceLastChecked: "2026-07-03",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-03",
+    description: "La opción multifunción del grupo: 4 cabezales intercambiables (afeitadora, exfoliante, masajeador, recortadora) en un solo aparato recargable, apto para ducha (IPX4, confirmado por el fabricante). No es la más barata, pero cubre varias funciones que en otras depiladoras vendrían por separado.",
+    seoTitle: "Gadnic Care D12: la depiladora 4 en 1 multifunción",
+    metaDescription: "Gadnic Care D12 a $90.699: depiladora + afeitadora + exfoliante + masajeador, apta ducha, recargable. 4.6 estrellas en 1.890 opiniones.",
+    verdict: "Sirve si querés un solo aparato que cubra depilación, afeitado, exfoliación y masaje, y no te importa pagar más por esa versatilidad. No sirve si solo buscás depilar: pagás de más por funciones que quizás no uses, y hay opciones más baratas y enfocadas en esta misma guía.",
+    pros: [
+      "4 cabezales intercambiables: depilación, afeitado, exfoliación y masaje en un solo aparato",
+      "Apta para uso mojado, se puede usar en la ducha",
+      "Recargable, sin depender de pilas descartables",
+      "1.890 calificaciones y 4.6 estrellas, el segundo mejor respaldo de compradores de esta guía",
+      "Lavable, fácil de higienizar entre usos",
+    ],
+    cons: [
+      "Casi el doble de precio que la GA.MA Italy Velvet (la más vendida de esta guía), pagando por funciones extra que no todos van a usar",
+      "Autonomía de 45 minutos por carga completa, que tarda 8 horas (confirmado por el fabricante): conviene planificar la carga con anticipación, no sirve para una recarga rápida entre usos",
+      "Solo 2 velocidades, menos opciones de ajuste que otras de esta guía",
+      "Al ser multifunción, cada cabezal individual puede rendir menos que un producto dedicado exclusivamente a esa tarea (por ejemplo, una afeitadora dedicada)",
+    ],
+    articleBody: `## Qué es y para quién
+
+Un aparato 4 en 1: depiladora, afeitadora, exfoliante y masajeador en un solo cuerpo recargable, con cabezales intercambiables. Pensado para quien prefiere un solo producto multifunción en vez de comprar varios aparatos dedicados.
+
+## Lo bueno
+
+Los 4 cabezales (depilación, afeitado, exfoliación, masaje) cubren varias rutinas de cuidado personal sin comprar productos separados. Es apta para uso mojado (se puede usar en la ducha) y es lavable, algo que no todas las depiladoras de esta guía ofrecen. Con casi 1.900 calificaciones y 4.6 estrellas, tiene un respaldo de compra sólido.
+
+## La contra real
+
+Pagás casi el doble que la GA.MA Italy Velvet (la más vendida de este grupo) por funciones extra que quizás no todos vayan a usar. La página oficial de Gadnic confirma una autonomía de 45 minutos por carga completa, que tarda 8 horas: es un tiempo de carga largo para un aparato pensado para varias rutinas distintas, así que conviene cargarla la noche anterior, no antes de usarla. Con solo 2 velocidades, también tiene menos ajuste fino que otras de esta guía. Al ser multifunción, cada cabezal individual compite con productos dedicados exclusivamente a esa tarea.
+
+## Cómo se compara
+
+Frente a la Daling DL-6032 y la GA.MA Italy Velvet (depiladoras de pinza puras, más baratas), esta suma funciones pero cuesta más. Frente a la Philips Satinelle (marca reconocida, también premium), la Gadnic D12 gana en versatilidad (4 en 1) pero pierde en respaldo de marca internacional.
+
+## Para quién sí y para quién no
+
+Comprala si te sirve tener depilación, afeitado, exfoliación y masaje en un solo aparato apto para ducha. Si solo buscás depilar y nada más, la GA.MA Italy Velvet hace lo mismo por bastante menos plata.`,
+    faq: [
+      { question: "¿Sirve para depilar y afeitar con el mismo aparato?", answer: "Sí, trae 4 cabezales intercambiables: uno para depilar (arranca el vello de raíz), uno para afeitar al ras, uno exfoliante y uno masajeador. Se cambian según lo que necesites." },
+      { question: "¿Se puede usar en la ducha?", answer: "Sí, según la ficha es apta para uso mojado, a diferencia de la Daling DL-6032 y la GA.MA Italy Velvet de esta guía, que no lo son." },
+      { question: "¿Cuánto dura la batería?", answer: "45 minutos de uso por carga completa, que tarda 8 horas, confirmado en la página oficial de Gadnic. Conviene cargarla la noche anterior a una sesión larga que combine varios cabezales." },
+      { question: "¿Vale la pena pagar más que por una depiladora simple?", answer: "Depende de si vas a usar las otras funciones (afeitado, exfoliación, masaje). Si solo querés depilar, la GA.MA Italy Velvet cumple lo mismo por bastante menos precio." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "julio 2025", useful: 35, text: "Muy bueno el producto, me encantó todo vino muy bien, pero tendrían que poner más protección porque vino golpeado y solo venía en una bolsita, ni siquiera unas film de burbujas para proteger o algo. No podés contar con que el transporte cuide las cosas porque nunca lo van a hacer." },
+      { rating: 5, country: "Argentina", date: "julio 2025", useful: 33, text: "Creo que va bastante bien, por ahora no se quejó la doña." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 27, text: "Muy buena, excelente. Le faltaría un manual de instrucciones ya que tuve que buscar videos en YouTube para ver el funcionamiento, ya que es mi primera depiladora." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 24, text: "La verdad que le compré a mi novia y 10 puntos, muy recomendable, ninguna queja." },
+    ],
+  },
+
+  {
+    id: "MLA21032480",
+    title: "Depiladora De Pinzas Gama Velvet Usb Inalámbrica Color Blanco con rosado",
+    canonicalName: "GA.MA Italy Velvet",
+    price: 42899,
+    originalPrice: 49999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_794711-MLC74113872991_012024-O.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_794711-MLC74113872991_012024-O.jpg",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA21032480",
+    affiliateUrl: "https://meli.la/1P2sxjQ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 6957,
+    ratingBreakdown: { five: "77%", four: "14%", three: "4%", two: "1%", one: "3%" },
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca / modelo", value: "GA.MA Italy Velvet (\"E Velvet Bat\"), verificado en gamaitalyonline.com.ar" },
+      { label: "Conexión", value: "Inalámbrica, con cable de carga USB incluido" },
+      { label: "Cabezales", value: "1 ergonómico, elimina vello desde 0,5 mm (confirmado por el fabricante)" },
+      { label: "Velocidades", value: "2 (confirmado en gamaitalyonline.com.ar)" },
+      { label: "Autonomía", value: "Hasta 45 minutos de uso por carga (confirmado en la página oficial de GA.MA Italy; la ficha técnica de ML declara 27 minutos, un dato menor al del fabricante)" },
+      { label: "Accesorios", value: "Cable de carga USB, cepillo limpiador, tapa de protección (confirmado por el fabricante)" },
+    ],
+    relatedProducts: ["MLA47224040", "MLA19111424", "MLA19590135"],
+    priceUpdated: "2026-07-03",
+    priceLastChecked: "2026-07-03",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-03",
+    description: "La depiladora de pinzas más vendida de Argentina en MercadoLibre por lejos: casi 7.000 calificaciones. Marca de origen italiano con presencia local (GA.MA Italy), diseño ergonómico y precio de entrada.",
+    seoTitle: "GA.MA Italy Velvet: la depiladora de pinzas más vendida",
+    metaDescription: "GA.MA Italy Velvet a $42.899: la depiladora de pinzas más vendida de MercadoLibre Argentina, casi 7.000 opiniones y 4.6 estrellas. La guía honesta.",
+    verdict: "Sirve para la enorme mayoría: es la más vendida por lejos, de una marca con presencia real en Argentina, a un precio accesible. No sirve si buscás la autonomía más larga del grupo: con 45 minutos por carga, rinde para sesiones normales pero no para maratones de depilación.",
+    pros: [
+      "La más vendida de esta guía por lejos: casi 7.000 calificaciones, más de 30 veces las de la Daling",
+      "Marca GA.MA Italy, con presencia real en el mercado argentino (no es un genérico sin respaldo) y specs confirmadas en su página oficial",
+      "Precio accesible dentro de las de pinza (segunda más barata del grupo)",
+      "Incluye cepillo de limpieza y tapa de protección, algo que no todas traen",
+      "4.6 estrellas, calificación sólida sostenida en un volumen enorme de reseñas",
+    ],
+    cons: [
+      "No es apta para uso mojado ni lavable, a diferencia de la Gadnic D12",
+      "Un solo cabezal, sin funciones extra (no afeita, no exfolia, no masajea)",
+      "No es recargable con batería de litio removible: depende de la carga por USB integrada, así que si la batería se degrada con los años no se puede reemplazar por separado",
+      "La ficha técnica de ML declara solo 27 minutos de autonomía, bastante menos que los 45 minutos que confirma el fabricante: si comprás guiándote solo por la ficha de la publicación, podés subestimar la duración real",
+    ],
+    articleBody: `## Qué es y para quién
+
+La depiladora de pinzas más vendida de MercadoLibre Argentina en su categoría, de GA.MA Italy, una marca de origen italiano con presencia real en el país (no un genérico sin respaldo). Pensada para quien quiere la opción más probada, con el respaldo de casi 7.000 compradores.
+
+## Lo bueno
+
+El número de reseñas habla solo: casi 7.000 calificaciones y 4.6 estrellas, muy por encima de cualquier otra depiladora de pinza de esta guía. Es de una marca con presencia real en Argentina, confirmada en su página oficial (gamaitalyonline.com.ar, donde figura como "E Velvet Bat"), tiene un diseño ergonómico, e incluye cepillo de limpieza y tapa de protección. El precio, dentro de las de pinza, es accesible. El fabricante confirma una autonomía de 45 minutos por carga, un dato mejor al que declara la ficha técnica de MercadoLibre (27 minutos); varias reseñas de compradores ("duró unos 50 minutos", "la usé 30 minutos sin problema") van en línea con la cifra oficial, no con la de la ficha.
+
+## La contra real
+
+No es apta para uso mojado ni lavable, así que no sirve para depilarte en la ducha (a diferencia de la Gadnic D12 de esta guía). Tampoco tiene batería de litio removible según la ficha: depende de la carga por USB integrada al cuerpo del aparato, algo a tener en cuenta a largo plazo si la batería pierde capacidad con los años. Un punto a aclarar: la ficha técnica que carga MercadoLibre declara solo 27 minutos de autonomía, un dato que no coincide con los 45 minutos que confirma GA.MA Italy en su propia página; nos quedamos con el dato del fabricante por ser la fuente más confiable, pero vale la pena saber que existe esa discrepancia entre publicaciones.
+
+## Cómo se compara
+
+Frente a la Daling DL-6032 (precio similar), esta tiene muchísimo más respaldo de reseñas y una marca real detrás. Frente a la Gadnic D12 (multifunción) y la Philips Satinelle (premium), es más simple y bastante más barata, pero cumple lo esencial: depilar de raíz.
+
+## Para quién sí y para quién no
+
+Es la recomendación por defecto para la mayoría: la más vendida, de marca conocida, a buen precio. Si necesitás sesiones largas sin interrupciones para recargar, considerá la Philips Satinelle, con más cabezales y mejor autonomía relativa.`,
+    faq: [
+      { question: "¿Por qué la GA.MA Italy Velvet es la más vendida?", answer: "Combina una marca con presencia real en Argentina, precio accesible dentro de las depiladoras de pinza, y casi 7.000 calificaciones que respaldan la decisión de compra. Es la opción de menor riesgo para la mayoría." },
+      { question: "¿Cuánto dura la batería?", answer: "GA.MA Italy confirma 45 minutos de uso por carga completa en su página oficial. La ficha técnica de MercadoLibre declara una cifra menor (27 minutos); nos quedamos con el dato del fabricante, y varias reseñas de compradores (30 a 50 minutos de uso real) van en línea con esa cifra." },
+      { question: "¿Se puede usar en la ducha?", answer: "No, la ficha la marca como no apta para uso mojado y no lavable. Para depilar en la ducha, la Gadnic Care D12 de esta guía sí es apta." },
+      { question: "¿Qué trae la caja?", answer: "Cable de carga USB, cepillo limpiador y tapa de protección, confirmado tanto en la ficha de MercadoLibre como en la página oficial de GA.MA Italy." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "julio 2026", useful: 0, text: "La depiladora gama es excelente, súper cómoda, tiene dos velocidades. La usé solamente con la velocidad 1 y me resultó muy buena. No duele al utilizarla y arranca el vello de raíz y lo bueno es que la podés usar de forma inalámbrica. De esta forma la batería dura una hora aproximadamente. Muy recomendable." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 266, text: "Si estás cansada de la Gillette, es por acá. Durará unos 50 minutos continuo la batería. Te deja todo impecable. Axilas: duele poco y nada. Las piernas ya duele un poquito más, sobre todo los vellos finitos, pero es tolerable y cómo quedan las piernas." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 183, text: "GA.MA te dice que no la uses si tenés los pelos largos porque te va a doler. Este aparato se bancó todo." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 128, text: "Mi producto saca bien el vello, inclusive el muy finito del rostro. Es suave al pasarlo, lógico que se siente una molestia pequeña porque arranca y así debe ser. Estoy muy conforme con la compra. Muy buena relación precio-calidad. La usé 30 minutos y sin ningún problema, podría haber seguido." },
+    ],
+  },
+
+  {
+    id: "MLA19590135",
+    title: "Depiladora Bre285/00 Satinelle Philips Color Rosa",
+    canonicalName: "Philips Satinelle BRE285/00",
+    price: 139999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_836816-MLA74113015276_012024-O.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_836816-MLA74113015276_012024-O.jpg",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19590135",
+    affiliateUrl: "https://meli.la/268sFcY",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1041,
+    ratingBreakdown: { five: "81%", four: "14%", three: "3%", two: "1%", one: "1%" },
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca / modelo", value: "Philips Satinelle Essential BRE285/00" },
+      { label: "Conexión", value: "Con cable (confirmado en philips.com.ar)" },
+      { label: "Cabezales", value: "3 removibles" },
+      { label: "Velocidades", value: "2" },
+      { label: "Sistema Opti-Light", value: "Sí, ilumina la zona para no dejar vellos" },
+      { label: "Uso", value: "Piernas y zonas sensibles. Lavable, incluye estuche" },
+    ],
+    relatedProducts: ["MLA21032480", "MLA19111424", "MLA47224040"],
+    priceUpdated: "2026-07-03",
+    priceLastChecked: "2026-07-03",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-03",
+    description: "La opción premium de marca reconocida: Philips Satinelle, con 3 cabezales, sistema Opti-Light y estuche incluido. Es con cable (no inalámbrica), a diferencia del resto de esta guía, y la más cara de las depiladoras de pinza comparadas.",
+    seoTitle: "Philips Satinelle BRE285/00: la premium de marca",
+    metaDescription: "Philips Satinelle BRE285/00 a $139.999: 3 cabezales, sistema Opti-Light, estuche incluido. 4.7 estrellas en 1.041 opiniones. La más cara del grupo.",
+    verdict: "Sirve si priorizás una marca internacional reconocida, con estuche y varios cabezales, y no te molesta que sea con cable. No sirve si buscás algo inalámbrico para llevar de viaje o usar donde no hay enchufe cerca: a diferencia del resto de esta guía, se usa conectada.",
+    pros: [
+      "Marca Philips, con confirmación oficial de specs en philips.com.ar",
+      "3 cabezales removibles, más que cualquier otra depiladora de pinza de esta guía salvo la Gadnic multifunción",
+      "Sistema Opti-Light: ilumina la zona para no dejar vellos sin ver",
+      "Lavable, con estuche de guardado incluido",
+      "4.7 estrellas, la mejor calificación de todo el grupo de pinza",
+    ],
+    cons: [
+      "Es con cable, no inalámbrica: a diferencia de las otras 3 depiladoras de pinza de esta guía, necesita estar enchufada para usarse",
+      "La más cara del grupo de pinza, más de 3 veces el precio de la GA.MA Italy Velvet",
+      "Con 1.041 calificaciones tiene bastante menos volumen de reseñas que la GA.MA Italy Velvet (casi 7.000), aunque su calificación promedio es más alta",
+      "Pensada específicamente para piernas y zonas sensibles según la ficha, no se promociona para todo el cuerpo como otras de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La depiladora de pinza de Philips, marca internacional con página oficial que confirma sus specs. Pensada para quien prioriza el respaldo de una marca reconocida y no le molesta usarla conectada al enchufe.
+
+## Lo bueno
+
+Es la única de esta guía con specs confirmadas de forma independiente en la página oficial de Philips Argentina (philips.com.ar), que confirma que es "con cable". Trae 3 cabezales removibles, sistema Opti-Light (ilumina la zona para no dejar vellos), es lavable y viene con estuche de guardado. Con 4.7 estrellas es la mejor calificación de todo el grupo de depiladoras de pinza.
+
+## La contra real
+
+A diferencia de las otras 3 depiladoras de pinza de esta guía (todas inalámbricas), la Satinelle se usa conectada al tomacorriente: no es para llevar de viaje ni usar donde no hay enchufe cerca. Es también, por lejos, la más cara del grupo: más de 3 veces el precio de la GA.MA Italy Velvet. Y aunque su calificación promedio es la más alta, tiene bastante menos reseñas que la Velvet (1.041 contra casi 7.000).
+
+## Cómo se compara
+
+Frente a la GA.MA Italy Velvet (la más vendida), la Satinelle suma respaldo de marca internacional, más cabezales y mejor calificación promedio, pero pierde en portabilidad (con cable) y cuesta mucho más. Frente a la Gadnic D12 (multifunción, también premium), la Satinelle se enfoca solo en depilar pero con mejor respaldo de marca.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás la marca Philips, varios cabezales y no te importa depilarte enchufada. Si buscás portabilidad para viajar o usar sin cable cerca, cualquiera de las otras 3 de esta guía es mejor opción.`,
+    faq: [
+      { question: "¿La Philips Satinelle es inalámbrica?", answer: "No, es con cable, confirmado en la página oficial de Philips Argentina. A diferencia de las otras 3 depiladoras de pinza de esta guía (todas inalámbricas), necesita estar enchufada para usarse." },
+      { question: "¿Qué es el sistema Opti-Light?", answer: "Es una luz integrada que ilumina la zona que estás depilando, para que no se te pase ningún vello por no verlo bien. Según la ficha, esta es la única depiladora de pinza de esta guía que lo tiene." },
+      { question: "¿Por qué es tan cara comparada con las demás?", answer: "Es de una marca internacional reconocida (Philips), trae 3 cabezales removibles (más que la mayoría), sistema Opti-Light y estuche incluido. Ese combo de marca y funciones explica el precio, más de 3 veces la GA.MA Italy Velvet." },
+      { question: "¿Es lavable?", answer: "Sí, según la ficha es lavable y apta para piernas y zonas sensibles, además de venir con estuche para guardarla." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "agosto 2025", useful: 1, text: "Es hermosa y funciona muy bien. Yo tuve una Satinelle que me duró más de 20 años, y ahora decidí volver a comprarla. Feliz con la adquisición. Muy funcional y práctica." },
+      { rating: 5, country: "Argentina", date: "2025", useful: 24, text: "La mejor compra que he hecho, buena calidad. Nunca había probado una de estas y me sorprendí. Nada malo que decir, no se van a arrepentir." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 19, text: "No le doy 5 estrellas porque el diseño y traba de los cabezales no es tan bueno como el del modelo Satinelle Soft. Pero sí destaco que cumple con todas las funciones que dice y es muy fácil de manipular, y el accesorio de la luz es increíble." },
+      { rating: 5, country: "Uruguay", date: "2025", useful: 0, text: "Viene con un montón de cabezales, sirve para básicamente todo el cuerpo. Trae un guante para exfoliar la piel. Depila muy bien, deja la piel suave. Soy propensa a la foliculitis y no he tenido ningún problema. No duele para nada, es súper suave." },
+    ],
+  },
+
+  {
+    id: "MLA46258064",
+    title: "Depiladora Laser Gadnic Luz Pulsada 36w 5 Intensidades Display Led",
+    canonicalName: "Gadnic Ipl990kp",
+    price: 74449,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_667552-MLA94373276267_102025-O.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_667552-MLA94373276267_102025-O.jpg",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA46258064",
+    affiliateUrl: "https://meli.la/2yTgEFJ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 907,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca / modelo", value: "Gadnic Ipl990kp" },
+      { label: "Tipo de depiladora", value: "Láser / luz pulsada (IPL), no de pinza" },
+      { label: "Potencia", value: "36 W" },
+      { label: "Intensidades", value: "5" },
+      { label: "Pulsos de luz", value: "500.000, según ficha del fabricante" },
+      { label: "Uso", value: "Corporal y facial, uso doméstico" },
+    ],
+    relatedProducts: ["MLA25818307", "MLA21032480"],
+    priceUpdated: "2026-07-03",
+    priceLastChecked: "2026-07-03",
+    priceStatus: "fresh",
+    description: "Ficha reservada para una guía dedicada a depiladoras láser/IPL (categoría distinta a la depilación por pinza, ticket más alto y criterios de compra diferentes). No está incluida en el ranking de la guía de depiladora eléctrica de pinza.",
+    seoTitle: "Gadnic Ipl990kp: depiladora láser de luz pulsada",
+    metaDescription: "Gadnic Ipl990kp a $74.449: depiladora láser IPL, 36W, 5 intensidades, 500.000 pulsos. 4.6 estrellas en 907 opiniones.",
+    verdict: "Pendiente de desarrollar en la guía dedicada a depiladoras láser/IPL.",
+    pros: [
+      "500.000 pulsos de luz declarados, según ficha del fabricante",
+      "5 niveles de intensidad ajustables",
+      "Apta para uso corporal y facial",
+      "4.6 estrellas en 907 calificaciones",
+    ],
+    cons: [
+      "Es tecnología láser/IPL, no depilación por pinza: criterio de compra distinto (resultado gradual, no instantáneo)",
+      "Organismo de certificación no especificado en la ficha",
+      "Todavía sin guía propia en el sitio",
+    ],
+    articleBody: `## Nota interna
+
+Ficha creada para la futura guía \`depiladora-laser\`. No está referenciada todavía en ninguna guía publicada del sitio.`,
+    faq: [],
+  },
+
+  {
+    id: "MLA25818307",
+    title: "Depiladora Philips Bri 920/00 Ipl Lumea Advance Para Cuerpo Y Rostro Con Cable + Recortador Philips Hp6389/00",
+    canonicalName: "Philips Lumea BRI920",
+    price: 415005,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_620298-MLU72831497533_112023-O.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_620298-MLU72831497533_112023-O.jpg",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA25818307",
+    affiliateUrl: "https://meli.la/26L6hKL",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 936,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca / modelo", value: "Philips Lumea Advance BRI920/00" },
+      { label: "Tipo de depiladora", value: "IPL (luz pulsada intensa), no de pinza" },
+      { label: "Conexión", value: "Con cable" },
+      { label: "Intensidades", value: "5" },
+      { label: "Pulsos de luz", value: "250.000, según ficha" },
+      { label: "Incluye", value: "Recortador Philips HP6389/00" },
+    ],
+    relatedProducts: ["MLA46258064", "MLA19590135"],
+    priceUpdated: "2026-07-03",
+    priceLastChecked: "2026-07-03",
+    priceStatus: "fresh",
+    description: "Ficha reservada para una guía dedicada a depiladoras láser/IPL. Es la opción premium de marca (Philips Lumea), con recortador incluido. No está incluida en el ranking de la guía de depiladora eléctrica de pinza.",
+    seoTitle: "Philips Lumea BRI920: IPL premium con recortador",
+    metaDescription: "Philips Lumea BRI920 a $415.005: depiladora IPL premium de Philips, con recortador incluido. 4.7 estrellas en 936 opiniones.",
+    verdict: "Pendiente de desarrollar en la guía dedicada a depiladoras láser/IPL.",
+    pros: [
+      "Marca Philips, con página oficial que respalda el producto",
+      "Incluye recortador Philips HP6389/00",
+      "4.7 estrellas en 936 calificaciones",
+      "250.000 pulsos de luz declarados",
+    ],
+    cons: [
+      "La más cara de todo el catálogo de depilación del sitio, por lejos",
+      "Es con cable, no apta para uso facial según la ficha (solo corporal)",
+      "Todavía sin guía propia en el sitio",
+    ],
+    articleBody: `## Nota interna
+
+Ficha creada para la futura guía \`depiladora-laser\`. No está referenciada todavía en ninguna guía publicada del sitio.`,
+    faq: [],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

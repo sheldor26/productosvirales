@@ -17807,6 +17807,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más para grooming",
   },
@@ -17925,6 +17926,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
@@ -17955,7 +17957,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLA19606324", label: "La inalámbrica", labelColor: "amber", tagline: "Gadnic CP140: se carga por USB, cabezales lavables, 37 g" },
     ],
     intro: [
-      `Una cortadora de pelo y una máquina de afeitar no son lo mismo, aunque en MercadoLibre a veces se mezclan en las búsquedas: la cortadora corta **longitud** con peines guía intercambiables (3 mm, 6 mm, 1 cm, y así), mientras que la afeitadora rasura **al ras de la piel**. Si buscás pelar al cero o afeitar la cara, la guía que te sirve es la de [máquina de afeitar](https://productosvirales.com.ar/guias/cuidado-personal/maquina-de-afeitar). Si buscás cortar largo, degradar o mantener un corte entre visitas a la peluquería, seguí acá.`,
+      `Una cortadora de pelo y una máquina de afeitar no son lo mismo, aunque en MercadoLibre a veces se mezclan en las búsquedas: la cortadora corta **longitud** con peines guía intercambiables (3 mm, 6 mm, 1 cm, y así), mientras que la afeitadora rasura **al ras de la piel**. Si buscás pelar al cero o afeitar la cara, la guía que te sirve es la de [máquina de afeitar](/guias/cuidado-personal/maquina-de-afeitar). Si buscás cortar largo, degradar o mantener un corte entre visitas a la peluquería, seguí acá.`,
       `Comparamos las más elegidas de Argentina por reseñas reales (Remington, Wahl, Gadnic, Vanta, Kemei y Teknikpro) con precios de MercadoLibre y las contras honestas que aparecen en las opiniones de compradores. La decisión pasa por tres cosas: si va **con cable o a batería**, cuántos **peines guía** trae, y si es para uso **doméstico ocasional o profesional intensivo**.`,
     ],
     sections: [
@@ -17965,7 +17967,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cortadora, afeitadora o trimmer: no son lo mismo`, id: "tipos" },
       { type: "p", content: `Tres formatos que se confunden seguido. La **cortadora de pelo** (esta guía) usa peines guía intercambiables para dejar una longitud pareja, desde 1 mm hasta varios centímetros: es la herramienta para cortar el pelo de la cabeza, degradar o mantener un corte entre visitas a la peluquería. La **máquina de afeitar** (o afeitadora eléctrica) rasura al ras de la piel, para cara o cuerpo. El **trimmer** o recortadora de barba está en el medio: recorta y perfila sin afeitar al cero, pero tampoco corta pelo largo de cabeza. Si tu necesidad es específicamente esa última, no la vas a encontrar rankeada acá.` },
-      { type: "p", content: `La regla rápida: querés cortar el pelo de la cabeza o degradar, priorizá esta guía. Querés afeitar cara o cuerpo al ras, andá a la guía de [máquina de afeitar](https://productosvirales.com.ar/guias/cuidado-personal/maquina-de-afeitar). Solo perfilar barba sin afeitar al cero, buscá un trimmer específico.` },
+      { type: "p", content: `La regla rápida: querés cortar el pelo de la cabeza o degradar, priorizá esta guía. Querés afeitar cara o cuerpo al ras, andá a la guía de [máquina de afeitar](/guias/cuidado-personal/maquina-de-afeitar). Solo perfilar barba sin afeitar al cero, buscá un trimmer específico.` },
 
       { type: "h2", title: `Las mejores cortadoras de pelo 2026`, id: "ranking" },
 
@@ -18033,7 +18035,7 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Para la mayoría, la **Remington HC5850 Indestructible**: la más vendida por lejos, kit completo de 15 piezas y calificación sólida. Si el presupuesto es lo primero, la **Kemei KM-1951** cumple lo básico al precio más bajo y con la mejor calificación de la guía. Si cortás pelo de forma profesional o querés la herramienta que usan los barberos, la **Wahl Magic Clip** (mejor puntuada entre las de cable, motor rotativo). Para patillas y contorno portátil, la **Gadnic CP140** (inalámbrica, carga USB). El error a evitar: comprar una patillera chica pensando que reemplaza a una cortadora completa, cuando en esta guía las inalámbricas apenas cortan 3 mm.` },
     ],
     faq: [
-      { question: `¿Cuál es la diferencia entre una cortadora de pelo y una máquina de afeitar?`, answer: `La cortadora de pelo corta longitud con peines guía intercambiables (desde 1 mm hasta varios centímetros), pensada para el pelo de la cabeza. La máquina de afeitar rasura al ras de la piel, para cara o cuerpo. Son productos distintos: si buscás afeitar al ras, mirá la guía de [máquina de afeitar](https://productosvirales.com.ar/guias/cuidado-personal/maquina-de-afeitar).` },
+      { question: `¿Cuál es la diferencia entre una cortadora de pelo y una máquina de afeitar?`, answer: `La cortadora de pelo corta longitud con peines guía intercambiables (desde 1 mm hasta varios centímetros), pensada para el pelo de la cabeza. La máquina de afeitar rasura al ras de la piel, para cara o cuerpo. Son productos distintos: si buscás afeitar al ras, mirá la guía de [máquina de afeitar](/guias/cuidado-personal/maquina-de-afeitar).` },
       { question: `¿Cuál es la mejor cortadora de pelo en Argentina?`, answer: `Para la mayoría, la [Remington HC5850](/producto/remington-cortadora-de-cabello-indestructible-hc5850-mla21820129): es la más vendida de la categoría (más de 2.300 opiniones), con kit completo de 15 piezas. Si buscás la más económica, la [Kemei KM-1951](/producto/maquina-cortar-pelo-inalambrica-kemei-km-1951-profesional-negro-mla24162945); para uso profesional, la [Wahl Magic Clip](/producto/maquina-cortar-pelo-magic-clip-wahl-profesional-clipper-mla22272888) (mejor puntuada entre las de cable, motor rotativo).` },
       { question: `¿Conviene una cortadora con cable o a batería?`, answer: `Con cable (como la [Remington HC5850](/producto/remington-cortadora-de-cabello-indestructible-hc5850-mla21820129) o la [Wahl Magic Clip](/producto/maquina-cortar-pelo-magic-clip-wahl-profesional-clipper-mla22272888) de esta guía) nunca se queda sin carga, ideal para uso frecuente. A batería (como la [Gadnic CP140](/producto/cortadora-pelo-gadnic-patillera-profesional-recargable-inalambrica-mla19606324) o la [Kemei KM-1951](/producto/maquina-cortar-pelo-inalambrica-kemei-km-1951-profesional-negro-mla24162945)) es más práctica para patillas rápidas y viajar. La [Teknikpro Silver](/producto/maquina-cortadora-pelo-dibujo-profesional-teknikpro-silver-mla23131521) es la única de esta guía que funciona de las dos formas.` },
       { question: `¿Cuántos peines guía necesito?`, answer: `Depende del uso: para un corte completo de cabeza, conviene al menos 4 u 8 peines guía, como trae la [Remington HC5850](/producto/remington-cortadora-de-cabello-indestructible-hc5850-mla21820129) o la [Wahl Magic Clip](/producto/maquina-cortar-pelo-magic-clip-wahl-profesional-clipper-mla22272888). Para solo patillas y contorno, con 1 o 3 peines alcanza, como la [Vanta](/producto/cortadora-patillera-inalambrica-vanta-1100-pelo-barba-mla19307536) o la [Gadnic CP140](/producto/cortadora-pelo-gadnic-patillera-profesional-recargable-inalambrica-mla19606324).` },
@@ -18043,6 +18045,114 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+    ],
+    internalLinksTitle: "Más de cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE depiladora-electrica — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "depiladora-electrica",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    title: `Depiladora eléctrica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Depiladora Eléctrica: Cuál Comprar en Argentina 2026`,
+    metaDescription: `Descubrí qué depiladora eléctrica de pinzas comprar en Argentina: GA.MA, Philips o genéricas, cuál conviene y precios reales de MercadoLibre. Guía honesta.`,
+    ogTitle: `Depiladora eléctrica: cuál comprar en Argentina`,
+    ogDescription: `De la más vendida a la premium de marca. GA.MA Italy, Philips y Gadnic comparadas por autonomía, cabezales y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_794711-MLC74113872991_012024-O.jpg`,
+    h1: `Depiladora eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-03",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una depiladora eléctrica de pinzas arranca el vello de raíz y el efecto dura semanas, pero no todas rinden igual: la autonomía por carga varía de 45 minutos a 1 hora, y hay diferencias reales entre una genérica y una de marca. Te mostramos cuál conviene según tu prioridad (precio, autonomía o marca), comparando las más vendidas de Argentina con precios reales de MercadoLibre y specs verificadas contra la página oficial del fabricante.`,
+    quickPicks: [
+      { productMlaId: "MLA21032480", label: "La más vendida", labelColor: "green", tagline: "GA.MA Italy Velvet: casi 7.000 opiniones, precio accesible" },
+      { productMlaId: "MLA47224040", label: "La más barata", labelColor: "blue", tagline: "Daling DL-6032: entrada económica, inalámbrica USB" },
+      { productMlaId: "MLA19590135", label: "La premium de marca", labelColor: "purple", tagline: "Philips Satinelle: 3 cabezales, sistema Opti-Light, con estuche" },
+      { productMlaId: "MLA19111424", label: "La multifunción", labelColor: "amber", tagline: "Gadnic Care D12: depila, afeita, exfolia y masajea, apta ducha" },
+    ],
+    intro: [
+      `La depiladora eléctrica de pinzas funciona distinto a una afeitadora: en vez de cortar el vello al ras, lo **arranca de raíz**, así que el resultado dura semanas en vez de días. La contra es que duele más las primeras veces (se siente menos con el uso frecuente, cuando el vello sale más fino) y no es instantánea como afeitar.`,
+      `En esta guía comparamos las depiladoras de pinza más vendidas de Argentina en MercadoLibre: de la más económica a la premium de marca reconocida, con specs verificadas contra la ficha oficial y, cuando existe, la página del fabricante. Dejamos afuera a propósito las depiladoras láser/IPL (luz pulsada): son otra categoría de producto, con otro ticket y otro criterio de compra, y van a tener su propia guía. Si te falta el resto de tu rutina, mirá también [máquina de afeitar](/guias/cuidado-personal/maquina-de-afeitar) y [secador de pelo](/guias/cuidado-personal/secador-de-pelo).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_794711-MLC74113872991_012024-O.jpg", alt: `GA.MA Italy Velvet, la depiladora eléctrica de pinzas más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **GA.MA Italy Velvet** es la compra correcta: la más vendida por lejos (casi 7.000 opiniones), de una marca con presencia real en Argentina, a precio accesible. Si buscás la entrada más barata, la **Daling DL-6032** cumple lo básico. Si priorizás una marca internacional con más cabezales y estuche, y no te molesta usarla enchufada, la **Philips Satinelle**. Y si querés un solo aparato que también afeite, exfolie y masajee (apto ducha), la **Gadnic Care D12**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las depiladoras de pinza con más ventas y opiniones reales en MercadoLibre Argentina, verificando specs contra la ficha oficial de cada publicación y, cuando existe, contra la página del fabricante (confirmamos la Philips Satinelle en philips.com.ar). Para la Daling, sin página oficial de fabricante rastreable en Argentina, lo decimos explícitamente en vez de inventar un respaldo que no existe. Dejamos afuera las depiladoras láser/IPL: son otra tecnología, con otro criterio de compra. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Pinza o láser: por qué esta guía compara solo depiladoras de pinza`, id: "tipos" },
+      { type: "p", content: `Hay dos tecnologías distintas bajo el nombre "depiladora": la de **pinza** (esta guía), que arranca mecánicamente el vello de raíz con un cabezal giratorio, y la **láser o IPL** (luz pulsada), que apunta a reducir el vello con el tiempo mediante flashes de luz sobre el folículo. Son productos distintos, con precios distintos (la de pinza arranca en $24.000, la láser en $70.000 y sube fuerte) y criterios de compra distintos (resultado inmediato pero temporal contra resultado gradual y más permanente). Mezclarlas en una sola guía confunde más de lo que ayuda, así que esta se enfoca solo en pinza; la de láser va a tener su propio análisis.` },
+      { type: "p", content: `Dentro de las de pinza, la diferencia principal entre modelos es la **autonomía por carga** (de 45 minutos a 1 hora entre las de esta guía), si son **aptas para uso mojado** (para depilarte en la ducha) y la **cantidad de cabezales** o funciones extra. El precio sube con la marca y las funciones, no necesariamente con la efectividad para arrancar vello: las 4 de esta guía cumplen esa función básica.` },
+
+      { type: "h2", title: `Las mejores depiladoras eléctricas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. GA.MA Italy Velvet — la más vendida` },
+      { type: "product-card", productMlaId: "MLA21032480", label: "La más vendida", labelColor: "green", ranking: 1, description: `Inalámbrica, cabezal ergonómico, incluye cepillo de limpieza y tapa de protección. 4.6 estrellas en casi 7.000 calificaciones, la más vendida por lejos.` },
+      { type: "p", content: `La GA.MA Italy Velvet es, sin comparación, la depiladora de pinza con más ventas y reseñas de esta guía: casi 7.000 calificaciones, más de 30 veces las de la Daling. Es de una marca con presencia real en Argentina (no un genérico sin respaldo), tiene diseño ergonómico e incluye cepillo de limpieza y tapa de protección. Ronda los $42.899.` },
+      { type: "p", content: `Lo honesto: no es apta para uso mojado ni lavable, y no tiene batería de litio removible según la ficha, así que si pierde capacidad con los años no se puede reemplazar por separado. Un dato para aclarar: la ficha técnica de MercadoLibre declara solo 27 minutos de autonomía, pero la página oficial de GA.MA Italy confirma 45 minutos; nos quedamos con el dato del fabricante, respaldado además por varias reseñas de compradores que reportan 30 a 50 minutos de uso real. Para la mayoría, sigue siendo la opción de menor riesgo: es la más probada del mercado argentino.` },
+      { type: "pull-quote", content: `"Mi producto saca bien el vello, inclusive el muy finito del rostro. Es suave al pasarlo... Estoy muy conforme con la compra. Muy buena relación precio-calidad."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Daling DL-6032 — la más barata` },
+      { type: "product-card", productMlaId: "MLA47224040", label: "La más barata", labelColor: "blue", ranking: 2, description: `Inalámbrica, carga por USB, 3 velocidades. 4.5 estrellas en 217 calificaciones, la entrada más económica.` },
+      { type: "p", content: `La Daling DL-6032 es la depiladora de pinza más barata de esta guía: ronda los $23.996, inalámbrica y con carga por USB común. Tiene 3 velocidades para ajustar según la zona y, con 217 calificaciones y 4.5 estrellas, cumple para quien quiere probar el sistema de pinza sin gastar de más.` },
+      { type: "p", content: `Lo honesto: Daling no tiene página oficial de fabricante rastreable en Argentina, así que las specs dependen de la ficha del vendedor y las reseñas, no de una fuente independiente. Tampoco es apta para uso mojado, no es lavable, y trae un solo cabezal sin accesorios extra.` },
+      { type: "pull-quote", content: `"Le pongo 5 estrellas porque vino con la batería cargada, así que pude probarla y está muy bien. Ya tuve otras y esta es más pesada, no es plástico que lo mirás y se rompe. Y tiene mucha potencia, más que la anterior que tuve. Relación precio-calidad, la recomiendo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Philips Satinelle BRE285/00 — la premium de marca` },
+      { type: "product-card", productMlaId: "MLA19590135", label: "La premium de marca", labelColor: "purple", ranking: 3, description: `Con cable, 3 cabezales removibles, sistema Opti-Light, incluye estuche. 4.7 estrellas en 1.041 calificaciones, la mejor puntuada de la guía.` },
+      { type: "p", content: `La Philips Satinelle es la única de esta guía con specs confirmadas de forma independiente en la página oficial de Philips Argentina. Trae 3 cabezales removibles, sistema Opti-Light (ilumina la zona para no dejar vellos), es lavable y viene con estuche. Con 4.7 estrellas, es la mejor calificación de todo el grupo. Ronda los $139.999.` },
+      { type: "p", content: `Lo honesto: a diferencia de las otras 3 de esta guía, es con cable, no inalámbrica, así que no sirve para llevar de viaje o usar sin enchufe cerca. Es también, por lejos, la más cara: más de 3 veces el precio de la GA.MA Velvet, con bastante menos volumen de reseñas (1.041 contra casi 7.000), aunque con mejor calificación promedio.` },
+
+      { type: "h3", title: `4. Gadnic Care D12 — la multifunción` },
+      { type: "product-card", productMlaId: "MLA19111424", label: "La multifunción", labelColor: "amber", ranking: 4, description: `4 cabezales (depila, afeita, exfolia, masajea), recargable, apta para ducha. 4.6 estrellas en 1.890 calificaciones.` },
+      { type: "p", content: `La Gadnic Care D12 suma 4 cabezales intercambiables: depilación, afeitado, exfoliación y masaje en un solo aparato recargable. Es apta para uso mojado (se puede usar en la ducha) y es lavable, algo que ninguna otra depiladora de pinza de esta guía ofrece. Con casi 1.900 calificaciones y 4.6 estrellas, tiene buen respaldo. Ronda los $90.699.` },
+      { type: "p", content: `Lo honesto: pagás casi el doble que la GA.MA Velvet por funciones que quizás no uses todas. La página oficial de Gadnic confirma 45 minutos de uso por carga completa, que tarda 8 horas: es un tiempo de carga largo, así que conviene cargarla la noche anterior. Solo tiene 2 velocidades. Si solo buscás depilar, hay opciones más simples y baratas en esta misma guía.` },
+
+      { type: "h2", title: `Tabla comparativa: autonomía, cabezales y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Autonomía`, `Ideal para`], rows: [
+        [`[GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480)`, `{{precio:MLA21032480}}`, `Inalámbrica (USB)`, `45 min`, `La más vendida, para la mayoría`],
+        [`[Daling DL-6032](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040)`, `{{precio:MLA47224040}}`, `Inalámbrica (USB)`, `1 h`, `La entrada más barata`],
+        [`[Philips Satinelle](/producto/depiladora-bre28500-satinelle-philips-color-rosa-mla19590135)`, `{{precio:MLA19590135}}`, `Con cable`, `No aplica (enchufada)`, `Marca, más cabezales, con estuche`],
+        [`[Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424)`, `{{precio:MLA19111424}}`, `Inalámbrica (recargable)`, `45 min`, `Multifunción, apta ducha`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu depiladora eléctrica`, id: "como-elegir" },
+      { type: "h3", title: `1. Autonomía por carga` },
+      { type: "p", content: `Entre las de esta guía va de 45 minutos (GA.MA Velvet y Gadnic Care D12) a 1 hora (Daling). Para depilar piernas enteras, conviene la de mayor autonomía o tenerla cargada de antemano; para retoques rápidos (axilas, bigote), 45 minutos alcanzan de sobra.` },
+      { type: "h3", title: `2. ¿La vas a usar en la ducha?` },
+      { type: "p", content: `Solo la Gadnic Care D12 de esta guía es apta para uso mojado y lavable. Las otras 3 (GA.MA, Daling y Philips) se usan en seco. Si preferís depilarte en la ducha (menos dolor con la piel húmeda, según reportan varias usuarias), esa es tu única opción acá.` },
+      { type: "h3", title: `3. Con cable o inalámbrica` },
+      { type: "p", content: `Inalámbrica (GA.MA, Daling, Gadnic) es más práctica para moverte por el cuerpo sin el cable estorbando. Con cable (Philips) nunca se queda sin batería, pero te limita a estar cerca de un enchufe.` },
+      { type: "h3", title: `4. Un solo cabezal o multifunción` },
+      { type: "p", content: `Si solo querés depilar, la GA.MA Velvet o la Daling cumplen sin pagar de más. Si además querés afeitar, exfoliar o masajear con el mismo aparato, la Gadnic D12 suma esas funciones en un solo producto, a cambio de más precio.` },
+
+      { type: "h2", title: `Cuánto cuesta una depiladora eléctrica en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**{{precio:MLA47224040:k}} a {{precio:MLA21032480:k}}:** la franja de entrada. La [Daling DL-6032](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040) (la más barata) y la [GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480) (la más vendida, precio similar).`,
+        `**{{precio:MLA19111424:k}} o más:** la multifunción. La [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424), que también afeita, exfolia y masajea.`,
+        `**{{precio:MLA19590135:k}} o más:** la premium de marca. La [Philips Satinelle](/producto/depiladora-bre28500-satinelle-philips-color-rosa-mla19590135), con estuche y 3 cabezales.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál depiladora eléctrica comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **GA.MA Italy Velvet**: la más vendida por lejos, de marca con presencia real en Argentina, a precio accesible. Si buscás la entrada más barata para probar, la **Daling DL-6032**. Si priorizás marca internacional, más cabezales y estuche (y no te molesta usarla enchufada), la **Philips Satinelle**. Y si querés un solo aparato multifunción apto para ducha, la **Gadnic Care D12**. El error a evitar: confundir esta categoría con las depiladoras láser/IPL, que son otra tecnología con otro precio y otro resultado (gradual, no instantáneo).` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor depiladora eléctrica en Argentina?`, answer: `Para la mayoría, la [GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480): la más vendida de la categoría, con casi 7.000 calificaciones, de una marca con presencia real en Argentina. Si buscás la más barata, la [Daling DL-6032](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040); si priorizás marca internacional, la [Philips Satinelle](/producto/depiladora-bre28500-satinelle-philips-color-rosa-mla19590135).` },
+      { question: `¿Depiladora eléctrica o láser, cuál conviene?`, answer: `Son categorías distintas. La de pinza (esta guía) arranca el vello de raíz al instante, con efecto que dura semanas, y cuesta desde $24.000. La láser/IPL apunta a reducir el vello gradualmente con el tiempo, cuesta bastante más (desde $70.000 en esta categoría) y necesita varias sesiones para ver resultado. Si querés algo inmediato y accesible, pinza; si buscás un efecto más duradero a largo plazo y podés pagar más, láser.` },
+      { question: `¿Duele depilarse con pinza eléctrica?`, answer: `Sí, sobre todo las primeras veces: arranca el vello de raíz, así que se siente una molestia real. Con el uso frecuente duele menos, porque el vello sale más fino. Es la contra esperable de este tipo de depilación, no un defecto de un modelo en particular.` },
+      { question: `¿Todas estas depiladoras se pueden usar en la ducha?`, answer: `No. Solo la [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424) de esta guía es apta para uso mojado y lavable. Las otras 3 (GA.MA, Daling y Philips) se usan en seco.` },
+      { question: `¿Cuánto dura la batería de una depiladora eléctrica inalámbrica?`, answer: `Entre las de esta guía, va de 45 minutos ([GA.MA Italy Velvet](/producto/depiladora-de-pinzas-gama-velvet-usb-inalambrica-color-blanco-con-rosado-mla21032480) y [Gadnic Care D12](/producto/maquina-depiladora-care-by-gadnic-d12-electrica-corporal-2-velocidades-recargable-led-silenciosa-mla19111424)) a 1 hora ([Daling](/producto/depiladora-de-pinzas-usb-inalambrica-color-blanco-con-rosado-color-rosa-mla47224040)). La Philips Satinelle es con cable, así que no depende de batería.` },
+      { question: `¿Vale la pena pagar más por la Philips en vez de la GA.MA Velvet?`, answer: `Depende de qué priorices. La Philips suma marca internacional confirmada, un cabezal más, sistema Opti-Light y estuche, pero es con cable y cuesta más de 3 veces la GA.MA Velvet. Para la mayoría, la GA.MA Velvet (inalámbrica, muchísimas más reseñas) cumple igual de bien a menor precio.` },
+    ],
+    internalLinks: [
+      { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+      { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
