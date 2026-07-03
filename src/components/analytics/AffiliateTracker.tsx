@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
+import { track } from "@vercel/analytics";
 
 declare global {
   interface Window {
@@ -39,6 +40,14 @@ export function AffiliateTracker() {
 
       window.gtag?.("event", "affiliate_click", payload);
       window.clarity?.("event", "affiliate_click");
+      // Vercel Web Analytics: pipe first-party e imposible de bloquear, así el
+      // evento que vale plata queda medido aunque GA lo bloquee un adblocker o
+      // la red. En dev es no-op; solo cuenta en producción.
+      track("affiliate_click", {
+        cta_location: payload.cta_location,
+        page_path: payload.page_path,
+        link_url: payload.link_url,
+      });
     }
 
     document.addEventListener("click", handleClick, { capture: true });
