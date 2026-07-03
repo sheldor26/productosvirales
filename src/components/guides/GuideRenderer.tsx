@@ -11,6 +11,8 @@ import { TableOfContents } from "./TableOfContents";
 import { ProductCard } from "./ProductCard";
 import { QuickPicks } from "./QuickPicks";
 import { StickyBuyBar } from "./StickyBuyBar";
+import { RelatedGuides } from "./RelatedGuides";
+import { nextStepLinksForGuide, categoryLabel } from "@/lib/related-guides";
 import { ensureSectionIds, getTocItems } from "@/lib/slug";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
@@ -598,6 +600,13 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           </div>
         </aside>
       )}
+
+      <RelatedGuides
+        className="mt-10"
+        heading={`Más sobre ${categoryLabel(guide.category)}`}
+        subtitle="Seguí explorando esta categoría"
+        links={nextStepLinksForGuide(guide)}
+      />
 
       <ArticleFooter guide={guide} />
         </article>

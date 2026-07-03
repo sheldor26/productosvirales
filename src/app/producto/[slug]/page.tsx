@@ -6,6 +6,8 @@ import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "
 import { analyzePriceHistory } from "@/lib/price-history";
 import { ProductDetail } from "@/components/products/ProductDetail";
 import { ProductGrid } from "@/components/products/ProductGrid";
+import { RelatedGuides } from "@/components/guides/RelatedGuides";
+import { nextStepLinksForProduct } from "@/lib/related-guides";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -277,6 +279,12 @@ export default async function ProductPage({ params }: Props) {
         product={product}
         relatedProducts={explicitRelated}
         priceHistory={analyzePriceHistory(product.id, product.price, product.priceUpdated)}
+      />
+
+      <RelatedGuides
+        heading="Seguí con la guía completa"
+        subtitle="Comparamos este modelo con las mejores alternativas"
+        links={nextStepLinksForProduct(product)}
       />
 
       {related.length > 0 && (
