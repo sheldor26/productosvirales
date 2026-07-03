@@ -14163,13 +14163,13 @@ export const guides: Guide[] = [
     title: "Los perfumes árabes más vendidos en Argentina",
     seoTitle: "Perfumes árabes más vendidos en Argentina (2026)",
     metaDescription:
-      "Ranking 2026 de los perfumes árabes más vendidos en Argentina por cantidad de reseñas reales en MercadoLibre: Hawas Ice, Asad Intense, Khamrah Qahwa, Yara Candy y más.",
+      "Descubrí los perfumes árabes más vendidos en Argentina por reseñas reales de MercadoLibre: Hawas Ice, Asad Intense, Khamrah Qahwa y Yara Candy.",
     ogTitle: "Los perfumes árabes que todos están comprando en Argentina",
     ogDescription:
-      "Hawas Ice, Asad Intense, Khamrah Qahwa, Yara Candy. El ranking honesto basado en cantidad real de reseñas de compradores argentinos — no opinión nuestra, son datos.",
+      "Hawas Ice, Asad Intense, Khamrah Qahwa, Yara Candy. El ranking honesto basado en cantidad real de reseñas de compradores argentinos: no es opinión nuestra, son datos.",
     h1: "Los 10 perfumes árabes más vendidos en Argentina (2026)",
     publishedDate: "2026-06-07",
-    updatedDate: "2026-06-07",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA29780185", label: "El más vendido", labelColor: "green", tagline: "Rasasi Hawas Ice: 9.144 reseñas, 4.8⭐. El árabe más vendido del catálogo argentino." },
@@ -14178,7 +14178,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLA39865991", label: "Top femenino", labelColor: "blue", tagline: "Yara Candy: 6.632 reseñas, 4.7⭐. El gourmand dulce más comprado por mujeres." }
     ],
     intro: [
-      "Hay muchas formas de armar un ranking de perfumes árabes. Por aroma, por marca, por temporada, por precio. Esta guía elige la más directa: ordenarlos por cuántos argentinos los compraron y los calificaron en MercadoLibre. No es nuestra opinión — son los números reales del catálogo.",
+      "Hay muchas formas de armar un ranking de perfumes árabes. Por aroma, por marca, por temporada, por precio. Esta guía elige la más directa: ordenarlos por cuántos argentinos los compraron y los calificaron en MercadoLibre. No es nuestra opinión: son los números reales del catálogo.",
       "Los 10 perfumes árabes más vendidos en Argentina concentran más de 34.500 reseñas reales entre todos. Cada uno con su nicho, su perfil olfativo y su público. Si querés saber qué compra realmente la gente antes de comprometerte vos, este ranking responde la pregunta sin vueltas."
     ],
     sections: [
@@ -14198,10 +14198,29 @@ export const guides: Guide[] = [
         content: "Según las reseñas verificadas de compradores en MercadoLibre Argentina, los tres más vendidos del nicho árabe son: **Rasasi Hawas Ice** (9.144 reseñas, 4.8⭐), **Lattafa Asad Intense** (7.245 reseñas, 4.6⭐) y **Lattafa Khamrah Qahwa** (7.137 reseñas, 4.8⭐). Los tres superan ampliamente al resto del catálogo en volumen de validación comunitaria. Para mujer, el más vendido es **Lattafa Yara Candy** (6.632 reseñas, 4.7⭐). Si tenés que elegir uno solo basándote en lo que compra el mercado, esos cuatro son las apuestas más seguras."
       },
       {
+        type: "p",
+        content: "El top 10 completo, ordenado por cantidad de reseñas verificadas:"
+      },
+      {
+        type: "list",
+        items: [
+          "1. Rasasi Hawas Ice (9.144 reseñas, 4.8⭐)",
+          "2. Lattafa Asad Intense (7.245 reseñas, 4.6⭐)",
+          "3. Lattafa Khamrah Qahwa (7.137 reseñas, 4.8⭐)",
+          "4. Lattafa Yara Candy (6.632 reseñas, 4.7⭐)",
+          "5. Afnan 9PM Elixir Parfum Intense (1.060 reseñas, 4.8⭐)",
+          "6. Set Lattafa Yara + Yara Candy 5th Anniversary (811 reseñas, 4.8⭐)",
+          "7. Lattafa Khamrah Parfum (749 reseñas)",
+          "8. Set Lattafa My Yara Collection (720 reseñas, 4.8⭐)",
+          "9. Lattafa Yara Elixir (572 reseñas, 4.8⭐)",
+          "10. Lattafa Yara Tous (471 reseñas, 4.7⭐)"
+        ]
+      },
+      {
         type: "trust-block",
         trustVariant: "methodology",
         title: "Cómo armamos este ranking",
-        content: "El criterio es uno solo: cantidad de reseñas verificadas en MercadoLibre Argentina al cierre de mayo 2026. No usamos nuestra opinión, no usamos comisión de afiliado para decidir el orden, no usamos relaciones con marcas. Los números salen del catálogo de productos visibles en el sitio y se actualizan cuando hay cambios significativos. El rating se incluye como contexto pero el orden está determinado por volumen, no por estrellas — un perfume con 9.000 reseñas a 4.6⭐ tiene más validación que uno con 100 reseñas a 5.0⭐."
+        content: "El criterio es uno solo: cantidad de reseñas verificadas en MercadoLibre Argentina al cierre de mayo 2026. No usamos nuestra opinión, no usamos comisión de afiliado para decidir el orden, no usamos relaciones con marcas. Los números salen del catálogo de productos visibles en el sitio y se actualizan cuando hay cambios significativos. El rating se incluye como contexto pero el orden está determinado por volumen, no por estrellas: un perfume con 9.000 reseñas a 4.6⭐ tiene más validación que uno con 100 reseñas a 5.0⭐."
       },
       {
         type: "h2",
@@ -14214,7 +14233,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA29780185",
-        description: "El más vendido del catálogo árabe argentino. 9.144 reseñas con rating 4.8 — números que muchas marcas occidentales premium no consiguen. Apertura cítrica con bergamota, lima y menta; corazón con manzana congelada, ciruela y grosellas; base de pachulí, ámbar, tonka y sándalo. El dupe declarado del Paco Rabanne Invictus. Para hombre joven-medio, gym, oficina, citas casuales.",
+        description: "El más vendido del catálogo árabe argentino. 9.144 reseñas con rating 4.8, números que muchas marcas occidentales premium no consiguen. Apertura cítrica con bergamota, lima y menta; corazón con manzana congelada, ciruela y grosellas; base de pachulí, ámbar, tonka y sándalo. El dupe declarado del Paco Rabanne Invictus. Para hombre joven-medio, gym, oficina, citas casuales.",
         ranking: 1
       },
       {
@@ -14224,7 +14243,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA19715215",
-        description: "El masculino árabe más vendido del país. Pimienta negra, piña y tabaco en apertura; pachulí, café e iris en corazón; vainilla, ámbar y maderas en la base. Comparado constantemente con Dior Sauvage Elixir. Otoño-invierno, noche y eventos elegantes. 4.6⭐ con 7.245 calificaciones — el más validado entre todos los Lattafa para hombre.",
+        description: "El masculino árabe más vendido del país. Pimienta negra, piña y tabaco en apertura; pachulí, café e iris en corazón; vainilla, ámbar y maderas en la base. Comparado constantemente con Dior Sauvage Elixir. Otoño-invierno, noche y eventos elegantes. 4.6⭐ con 7.245 calificaciones: el más validado entre todos los Lattafa para hombre.",
         ranking: 2
       },
       {
@@ -14234,12 +14253,12 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA31178643",
-        description: "Café tostado, canela, vainilla y dátiles. El gourmand árabe más viral de TikTok argentino. Unisex, intenso, perfecto para otoño-invierno. Frasco marrón café con detalles dorados, difícil de imitar por la terminación pesada de la tapa. 4.8⭐ con 7.137 reseñas — el más validado de toda la línea Khamrah.",
+        description: "Café tostado, canela, vainilla y dátiles. El gourmand árabe más viral de TikTok argentino. Unisex, intenso, perfecto para otoño-invierno. Frasco marrón café con detalles dorados, difícil de imitar por la terminación pesada de la tapa. 4.8⭐ con 7.137 reseñas: el más validado de toda la línea Khamrah.",
         ranking: 3
       },
       {
         type: "pull-quote",
-        content: "Es el gourmand árabe definitivo. Una vez que lo probás, todo lo demás te parece tibio. No es para verano, eso sí — en enero es exceso. Pero de abril a septiembre, no falla.",
+        content: "Es el gourmand árabe definitivo. Una vez que lo probás, todo lo demás te parece tibio. No es para verano, eso sí: en enero es exceso. Pero de abril a septiembre, no falla.",
         attribution: "— Comprador en Argentina sobre Khamrah Qahwa, julio 2024 · 142 personas lo encontraron útil"
       },
       {
@@ -14249,7 +14268,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA39865991",
-        description: "El femenino árabe más vendido del país. Gourmand-floral con notas de caramelo, vainilla y frutos rojos. Frasco rosa intenso con dorado, parte de la línea Yara que se volvió fenómeno cultural en TikTok argentino. 4.7⭐ con 6.632 reseñas — más comprado que cualquier perfume occidental femenino en su rango de precio en el catálogo.",
+        description: "El femenino árabe más vendido del país. Gourmand-floral con notas de caramelo, vainilla y frutos rojos. Frasco rosa intenso con dorado, parte de la línea Yara que se volvió fenómeno cultural en TikTok argentino. 4.7⭐ con 6.632 reseñas: más comprado que cualquier perfume occidental femenino en su rango de precio en el catálogo.",
         ranking: 4
       },
       {
@@ -14269,7 +14288,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA45984979",
-        description: "Edición aniversario de la línea Yara: dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Ideal para regalar o para fans de la línea que quieren ambos sin pagar por separado. 4.8⭐ con 811 reseñas — el set más vendido del catálogo árabe.",
+        description: "Edición aniversario de la línea Yara: dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Ideal para regalar o para fans de la línea que quieren ambos sin pagar por separado. 4.8⭐ con 811 reseñas: el set más vendido del catálogo árabe.",
         ranking: 6
       },
       {
@@ -14289,7 +14308,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA51612102",
-        description: "Set de 4 miniaturas de 25ml de la línea Yara. La puerta de entrada inteligente al nicho árabe femenino — probás cuatro perfiles distintos sin comprometerte al frasco grande. Ideal para regalo o para quien arranca. 4.8⭐ con 720 reseñas.",
+        description: "Set de 4 miniaturas de 25ml de la línea Yara. La puerta de entrada inteligente al nicho árabe femenino: probás cuatro perfiles distintos sin comprometerte al frasco grande. Ideal para regalo o para quien arranca. 4.8⭐ con 720 reseñas.",
         ranking: 8
       },
       {
@@ -14299,7 +14318,7 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLA60836327",
-        description: "La versión más intensa de toda la línea Yara, lanzada en 2025. Dulce-cítrico con vainilla, ámbar y notas resinosas. 8 horas de duración con buen anclaje. Las reseñas crecen rápido por ser el lanzamiento más reciente — proyectan que va a entrar al top 5 en 2026. 4.8⭐ con 572 reseñas.",
+        description: "La versión más intensa de toda la línea Yara, lanzada en 2025. Dulce-cítrico con vainilla, ámbar y notas resinosas. 8 horas de duración con buen anclaje. Las reseñas crecen rápido por ser el lanzamiento más reciente: proyectan que va a entrar al top 5 en 2026. 4.8⭐ con 572 reseñas.",
         ranking: 9
       },
       {
@@ -14318,7 +14337,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Si solo te interesan los femeninos, el orden cambia. Los más vendidos para mujer son: **Yara Candy** (6.632 reseñas, 4.7⭐), **Yara Elixir** (572, 4.8⭐), **Yara Tous** (471, 4.7⭐) y el **Set My Yara Collection** (720, 4.8⭐). Tres de los cuatro son de la línea Yara — la línea femenina más fuerte del nicho árabe en Argentina por mucho. La cuarta opción más vendida fuera de Yara es **Her Confession**, gourmand nocturno tipo praliné-vainilla. El detalle completo está en [mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer)."
+        content: "El perfume árabe de mujer más vendido en Argentina es el Lattafa Yara Candy, con 6.632 reseñas verificadas y 4.7⭐. Le siguen: **Yara Elixir** (572, 4.8⭐), **Yara Tous** (471, 4.7⭐) y el **Set My Yara Collection** (720, 4.8⭐). Tres de los cuatro son de la línea Yara: la línea femenina más fuerte del nicho árabe en Argentina por mucho. La cuarta opción más vendida fuera de Yara es **Her Confession**, gourmand nocturno tipo praliné-vainilla. El detalle completo está en [mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer)."
       },
       {
         type: "h2",
@@ -14326,7 +14345,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Para masculinos, el orden es: **Hawas Ice** (9.144 reseñas, 4.8⭐), **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas — Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
+        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
       },
       {
         type: "h2",
@@ -14351,17 +14370,17 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Cantidad de reseñas no es lo mismo que calidad olfativa, pero sí es un indicador de validación comunitaria. Un perfume con 7.000 reseñas y 4.6⭐ ya pasó por suficientes narices distintas como para que el promedio sea representativo. Un perfume con 100 reseñas y 4.9⭐ puede ser realmente excelente, o puede tener un sesgo de comprador entusiasta inicial — los próximos 5.000 compradores pueden bajar el promedio."
+        content: "Cantidad de reseñas no es lo mismo que calidad olfativa, pero sí es un indicador de validación comunitaria. Un perfume con 7.000 reseñas y 4.6⭐ ya pasó por suficientes narices distintas como para que el promedio sea representativo. Un perfume con 100 reseñas y 4.9⭐ puede ser realmente excelente, o puede tener un sesgo de comprador entusiasta inicial: los próximos 5.000 compradores pueden bajar el promedio."
       },
       {
         type: "p",
-        content: "El ranking no significa que los menos vendidos sean peores. Significa que los más vendidos son los más seguros para comprar a ciegas — la chance de que te decepciones con un perfume que vendió 7.000 unidades con rating 4.6 es baja. Para alguien que arranca en el nicho, este es el ranking más útil. Para alguien que ya conoce el perfil árabe y busca algo único, mejor explorar perfiles específicos (amaderados, gourmands, frescos) que cantidad de reseñas."
+        content: "El ranking no significa que los menos vendidos sean peores. Significa que los más vendidos son los más seguros para comprar a ciegas: la chance de que te decepciones con un perfume que vendió 7.000 unidades con rating 4.6 es baja. Para alguien que arranca en el nicho, este es el ranking más útil. Para alguien que ya conoce el perfil árabe y busca algo único, mejor explorar perfiles específicos (amaderados, gourmands, frescos) que cantidad de reseñas."
       },
       {
         type: "callout",
         calloutVariant: "tip",
         calloutTitle: "El método de compra inteligente",
-        content: "Si nunca compraste un árabe, no compres el más vendido sin probar — comprá el [Set My Yara Collection](https://meli.la/2jd7cJf) (femenino) o un decant del más vendido masculino primero. Una vez que sabés qué perfil te gusta, ahí sí comprás el 100ml del top. Es la manera de no equivocarte con $50.000 a ciegas."
+        content: "Si nunca compraste un árabe, no compres el más vendido sin probar: comprá el [Set My Yara Collection](https://meli.la/2jd7cJf) (femenino) o un decant del más vendido masculino primero. Una vez que sabés qué perfil te gusta, ahí sí comprás el 100ml del top. Es la manera de no equivocarte con $50.000 a ciegas."
       },
       {
         type: "h2",
@@ -14369,7 +14388,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Los cuatro perfumes árabes más vendidos en Argentina son **Hawas Ice**, **Asad Intense**, **Khamrah Qahwa** y **Yara Candy**. Cubren cuatro perfiles olfativos completamente distintos — fresco-frutal, especiado-amaderado, gourmand-café, dulce-floral — y entre los cuatro acumulan más de 30.000 reseñas verificadas. Para alguien que arranca y quiere ir sobre seguro, cualquiera de esos cuatro según su perfil olfativo preferido es la apuesta de menor riesgo en el mercado árabe argentino."
+        content: "Los cuatro perfumes árabes más vendidos en Argentina son **Hawas Ice**, **Asad Intense**, **Khamrah Qahwa** y **Yara Candy**. Cubren cuatro perfiles olfativos completamente distintos (fresco-frutal, especiado-amaderado, gourmand-café, dulce-floral) y entre los cuatro acumulan más de 30.000 reseñas verificadas. Para alguien que arranca y quiere ir sobre seguro, cualquiera de esos cuatro según su perfil olfativo preferido es la apuesta de menor riesgo en el mercado árabe argentino."
       },
       {
         type: "p",
@@ -14391,15 +14410,15 @@ export const guides: Guide[] = [
       },
       {
         question: "¿Por qué Lattafa aparece en 7 de los 10 más vendidos?",
-        answer: "Por dos razones: la marca tiene la línea femenina más fuerte del nicho árabe (Yara) y la masculina con mayor volumen (Asad). Además, Lattafa fue la marca árabe que más invirtió en presencia en MercadoLibre Argentina temprano — eso le dio ventaja en validación comunitaria. Las otras marcas árabes (Afnan, Rasasi, Armaf) son fuertes pero en categorías más específicas."
+        answer: "Por dos razones: la marca tiene la línea femenina más fuerte del nicho árabe (Yara) y la masculina con mayor volumen (Asad). Además, Lattafa fue la marca árabe que más invirtió en presencia en MercadoLibre Argentina temprano: eso le dio ventaja en validación comunitaria. Las otras marcas árabes (Afnan, Rasasi, Armaf) son fuertes pero en categorías más específicas."
       },
       {
         question: "¿Vale la pena comprar el más vendido o uno menos popular?",
-        answer: "Depende del nivel de experiencia. Si nunca probaste un árabe, comprar el más vendido es la apuesta más segura — la chance de decepcionarte con un producto que vendió 7.000+ unidades es muy baja. Si ya conocés el perfil árabe y querés algo más único, explorar productos con menos reseñas pero ratings altos puede ser más interesante. El ranking no determina calidad — determina validación."
+        answer: "Depende del nivel de experiencia. Si nunca probaste un árabe, comprar el más vendido es la apuesta más segura: la chance de decepcionarte con un producto que vendió 7.000+ unidades es muy baja. Si ya conocés el perfil árabe y querés algo más único, explorar productos con menos reseñas pero ratings altos puede ser más interesante. El ranking no determina calidad: determina validación."
       },
       {
         question: "¿Cuál es el set más vendido?",
-        answer: "El Set Lattafa Yara + Yara Candy 5th Anniversary, con 811 reseñas y rating 4.8⭐. Trae dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Le sigue el Set My Yara Collection con 720 reseñas — 4 miniaturas de 25ml de la línea Yara, ideal para probar antes de comprar un frasco grande."
+        answer: "El Set Lattafa Yara + Yara Candy 5th Anniversary, con 811 reseñas y rating 4.8⭐. Trae dos frascos de 100ml (Yara original + Yara Candy) por el precio combinado. Le sigue el Set My Yara Collection con 720 reseñas: 4 miniaturas de 25ml de la línea Yara, ideal para probar antes de comprar un frasco grande."
       }
     ],
     internalLinks: [
