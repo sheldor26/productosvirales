@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-07-02 — Microsoft Clarity nunca grabó una sesión: faltaba en el CSP
+
+**Qué pasó:** el tag de Microsoft Clarity estaba bien instalado en `layout.tsx` (ID `xgasuwpism`, script válido, evento `affiliate_click` cableado), pero el dashboard mostraba cero datos. La causa: el `Content-Security-Policy` en `next.config.ts` no incluía ningún dominio de `clarity.ms`, así que el navegador de TODOS los visitantes bloqueaba el script antes de cargarlo. Prueba limpia: en el navegador GA cargaba (estaba en el CSP) y Clarity daba `Failed to fetch` (no estaba).
+
+**Por qué:** cuando se agregó Clarity, se sumó el `<Script>` pero no se actualizó la lista blanca del CSP. GA sí estaba en el CSP de antes, entonces el bug pasó desapercibido: parecía que "el tracking andaba".
+
+**Cómo evitarlo:** cada vez que se agrega un tracker/script de un dominio externo nuevo, actualizar el CSP en `next.config.ts` en la MISMA tanda: `script-src` (cargar el JS), `connect-src` (mandar los datos) y a veces `img-src` (beacons tipo `c.gif`). Verificar en el navegador que el request al dominio del tracker da 200, no `Failed to fetch`/`Refused to load`.
+
+**Archivos involucrados:** `next.config.ts` (CSP), `src/app/layout.tsx`.
+
 ## 2026-06-09 — 19 fichas con el prefijo del ID mal guardado (MLA en vez de MLAU)
 
 **Qué pasó:** la auditoría completa del catálogo encontró 19 fichas cuyo `id` dice `MLA...` pero el permalink real es `/up/MLAU...` (user-products). Consultar la API con ese ID da 404 falso — al principio parecían 10 productos muertos que en realidad estaban vivos.
