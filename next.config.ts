@@ -13,6 +13,19 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  async rewrites() {
+    return [
+      // Proxy first-party del ENVÍO de Google Analytics. El navegador manda el
+      // hit a nuestro propio dominio (/_ga/...) y Vercel lo reenvía a Google
+      // desde su servidor. Esquiva el 503/bloqueo que sufre google-analytics.com
+      // pegado directo (redes que interfieren, adblockers). La librería gtag.js
+      // sigue cargando normal de googletagmanager; esto solo mueve el /g/collect.
+      {
+        source: "/_ga/:path*",
+        destination: "https://www.google-analytics.com/:path*",
+      },
+    ];
+  },
   async headers() {
     return [
       {

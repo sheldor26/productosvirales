@@ -93,7 +93,10 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-7FJY0G4T9K');
+            // transport_url: manda el /g/collect a nuestro propio dominio (/_ga),
+            // que el rewrite de next.config reenvía a Google. Evita que el hit se
+            // pierda cuando la red o un adblocker bloquea google-analytics.com directo.
+            gtag('config', 'G-7FJY0G4T9K', { transport_url: window.location.origin + '/_ga' });
           `}
         </Script>
         <Script id="microsoft-clarity" strategy="afterInteractive">

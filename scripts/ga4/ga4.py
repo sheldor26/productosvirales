@@ -135,10 +135,69 @@ def cmd_overview(creds):
         print(f"  {int(mets[0]):>7} {int(mets[1]):>6} {float(mets[2]):>8.0f}  {dims[0]}")
 
 
+def cmd_hostname(creds):
+    """Trafico por hostName en dos ventanas: el pico vs despues del quiebre.
+
+    Sirve para confirmar si el pico de principios de junio era trafico de
+    desarrollo (localhost / preview de Vercel) y no usuarios reales.
+    """
+    ventanas = [
+        ("PICO (8-20 jun)", "2026-06-08", "2026-06-20"),
+        ("POST-QUIEBRE (23 jun - 1 jul)", "2026-06-23", "2026-07-01"),
+    ]
+    for etiqueta, start, end in ventanas:
+        print(f"\n=== {etiqueta} — usuarios por hostname ===")
+        resp = run_report(creds, {
+            "dateRanges": [{"startDate": start, "endDate": end}],
+            "dimensions": [{"name": "hostName"}],
+            "metrics": [{"name": "activeUsers"}, {"name": "screenPageViews"}],
+            "orderBys": [{"metric": {"metricName": "activeUsers"}, "desc": True}],
+            "limit": 25,
+        })
+        rows = rows_of(resp)
+        if not rows:
+            print("  (sin datos)")
+            continue
+        print(f"  {'users':>6} {'vistas':>7}  hostname")
+        for (dims, mets) in rows:
+            host = dims[0] or "(not set)"
+            print(f"  {int(mets[0]):>6} {int(mets[1]):>7}  {host}")
+
+
+def cmd_daily(creds):
+    """Serie diaria de usuarios activos, para clavar la fecha del quiebre."""
+    days = arg_days(45)
+    print(f"=== Usuarios activos por dia (ultimos {days} dias) ===")
+    resp = run_report(creds, {
+        "dateRanges": [{"startDate": f"{days}daysAgo", "endDate": "today"}],
+        "dimensions": [{"name": "date"}],
+        "metrics": [{"name": "activeUsers"}, {"name": "screenPageViews"}],
+        "orderBys": [{"dimension": {"dimensionName": "date"}}],
+        "limit": 60,
+    })
+    rows = rows_of(resp)
+    if not rows:
+        print("  (sin datos)")
+        return
+    print(f"  {'fecha':>10} {'users':>6} {'vistas':>7}  grafico")
+    for (dims, mets) in rows:
+        d = dims[0]
+        fecha = f"{d[0:4]}-{d[4:6]}-{d[6:8]}"
+        u = int(mets[0])
+        bar = "#" * min(u, 50)
+        print(f"  {fecha:>10} {u:>6} {int(mets[1]):>7}  {bar}")
+
+
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "setup"
     creds = get_creds()
-    {"setup": cmd_setup, "affiliates": cmd_affiliates, "overview": cmd_overview}.get(cmd, cmd_setup)(creds)
+    {
+        "setup": cmd_setup,
+        "affiliates": cmd_affiliates,
+        "overview": cmd_overview,
+        "hostname": cmd_hostname,
+        "daily": cmd_daily,
+    }.get(cmd, cmd_setup)(creds)
 
 
 if __name__ == "__main__":
