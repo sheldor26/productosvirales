@@ -14650,13 +14650,13 @@ export const guides: Guide[] = [
     title: "Dónde comprar perfumes árabes en Buenos Aires: opciones físicas y online en CABA y GBA",
     seoTitle: "Dónde comprar perfumes árabes en Buenos Aires (2026)",
     metaDescription:
-      "Dónde comprar perfumes árabes en Buenos Aires en 2026: perfumerías físicas en CABA, locales por zona, importadores con domicilio AMBA y entrega Full en 24hs.",
+      "Dónde comprar perfumes árabes en Buenos Aires: perfumerías físicas en CABA, locales por zona, importadores con domicilio AMBA y entrega Full en 24hs.",
     ogTitle: "Buenos Aires: dónde están los perfumes árabes que viste en TikTok",
     ogDescription:
       "Locales físicos en CABA, importadores AMBA y entrega exprés. La guía local de Buenos Aires para conseguir Lattafa, Afnan y Rasasi sin esperar envíos del interior.",
     h1: "Dónde comprar perfumes árabes en Buenos Aires: guía local CABA y GBA (2026)",
     publishedDate: "2026-06-13",
-    updatedDate: "2026-06-13",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     intro: [
       "Vivir en Buenos Aires tiene una ventaja concreta para comprar perfumes árabes: tenés acceso a los cuatro canales del mercado al mismo tiempo, y todos te entregan en 24-72 horas. Eso no se replica en Mendoza, Salta o Misiones. Pero también significa que conviene saber qué canal usar según lo que querés hacer: probar antes de comprar, conseguir el mejor precio, recibir el frasco hoy, o conseguir un perfume específico que no se ve en MercadoLibre.",
@@ -14676,13 +14676,13 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "En Buenos Aires tenés cuatro opciones reales: **(1) Cadenas de perfumería con sección árabe** en CABA y centros comerciales del GBA (acceso fácil, precio premium, te dejan oler antes); **(2) Locales especializados independientes** en Palermo, Recoleta y zonas comerciales (más variedad, importadores propios); **(3) Importadores con domicilio AMBA en Instagram** que envían en CABA-GBA en 24-48 horas; **(4) MercadoLibre con envío Full** que llega al día siguiente en zonas amplias del AMBA. La ventaja de Buenos Aires sobre el resto del país es que cualquiera de las cuatro opciones funciona, sin diferencia significativa en tiempo de entrega."
+        content: "En Buenos Aires tenés cuatro opciones reales: **(1) Cadenas de perfumería con sección árabe** en CABA y centros comerciales del GBA (la opción más cerca de casa: acceso fácil, precio premium, te dejan oler antes); **(2) Locales especializados independientes** en Palermo, Recoleta y zonas comerciales (más variedad, importadores propios); **(3) Importadores con domicilio AMBA en Instagram** que envían en CABA-GBA en 24-48 horas; **(4) MercadoLibre con envío Full** que llega al día siguiente en zonas amplias del AMBA. La ventaja de Buenos Aires sobre el resto del país es que cualquiera de las cuatro opciones funciona, sin diferencia significativa en tiempo de entrega."
       },
       {
         type: "trust-block",
         trustVariant: "methodology",
         title: "Cómo armamos esta guía local",
-        content: "Mapeamos los cuatro canales por los que circulan perfumes árabes en CABA y GBA, con sus tiempos de entrega reales, rangos de precio y características distintivas. No nombramos locales específicos porque la oferta cambia mes a mes — un local puede tener sección árabe hoy y dejar de tenerla en seis meses. Lo que sí permanece son los patrones por zona y por tipo de canal, que es lo que esta guía documenta."
+        content: "Mapeamos los cuatro canales por los que circulan perfumes árabes en CABA y GBA, con sus tiempos de entrega reales, rangos de precio y características distintivas. No nombramos locales específicos porque la oferta cambia mes a mes: un local puede tener sección árabe hoy y dejar de tenerla en seis meses. Lo que sí permanece son los patrones por zona y por tipo de canal, que es lo que esta guía documenta."
       },
       {
         type: "h2",
@@ -14690,11 +14690,11 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Las cadenas de perfumería grandes incorporaron progresivamente sección árabe entre 2023 y 2025. En 2026, la mayoría de los locales de cadenas con presencia en CABA y centros comerciales del GBA tienen al menos los top 5 más vendidos: Lattafa Yara (línea completa), Lattafa Asad Intense, Afnan 9PM, Khamrah Qahwa y algún Hawas o Club de Nuit. El stock varía por sucursal — los locales más grandes (shoppings, microcentro, Palermo) suelen tener más variedad que los de barrio."
+        content: "Las cadenas de perfumería grandes incorporaron progresivamente sección árabe entre 2023 y 2025. En 2026, la mayoría de los locales de cadenas con presencia en CABA y centros comerciales del GBA tienen al menos los top 5 más vendidos: Lattafa Yara (línea completa), Lattafa Asad Intense, Afnan 9PM, Khamrah Qahwa y algún Hawas o Club de Nuit. El stock varía por sucursal: los locales más grandes (shoppings como Alto Palermo o Abasto, microcentro, Palermo) suelen tener más variedad que los de barrio."
       },
       {
         type: "p",
-        content: "**Lo que ofrecen**: posibilidad de oler antes de comprar (la ventaja real), atención presencial, factura con marca, devolución por defecto bajo condiciones de la cadena. **Lo que cobran**: entre 10% y 30% más que MercadoLibre por el mismo producto. **A quién le conviene**: primera compra del nicho árabe, cuando querés probar 2-3 antes de decidir, o cuando lo necesitás hoy mismo."
+        content: "**Lo que ofrecen**: posibilidad de oler antes de comprar con los testers del mostrador (la ventaja real), atención presencial, factura con marca, devolución por defecto bajo condiciones de la cadena. **Lo que cobran**: entre 10% y 30% más que MercadoLibre por el mismo producto. **A quién le conviene**: primera compra del nicho árabe, cuando querés probar 2-3 antes de decidir, o cuando lo necesitás hoy mismo."
       },
       {
         type: "h2",
@@ -14740,7 +14740,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "La opción que más se usa en Buenos Aires por una razón simple: te llega al día siguiente en la mayor parte de CABA-GBA, sin moverte de casa. Para los productos más vendidos del nicho árabe — [Lattafa Yara Elixir](https://meli.la/2NrY6fF), [Asad Intense](https://meli.la/26owfqo), [Khamrah Qahwa](https://meli.la/1B8Vwwf), [Hawas Ice](https://meli.la/24kQeRc) — el envío Full está disponible en la mayoría de los listings de vendedores MercadoLíder."
+        content: "La opción que más se usa en Buenos Aires por una razón simple: te llega al día siguiente en la mayor parte de CABA-GBA, sin moverte de casa. Para los productos más vendidos del nicho árabe: [Lattafa Yara Elixir](https://meli.la/2NrY6fF), [Asad Intense](https://meli.la/26owfqo), [Khamrah Qahwa](https://meli.la/1B8Vwwf), [Hawas Ice](https://meli.la/24kQeRc): el envío Full está disponible en la mayoría de los listings de vendedores MercadoLíder."
       },
       {
         type: "p",
@@ -14789,7 +14789,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Si vas a perfumería física en Buenos Aires, estos son los que conviene oler primero — son los que tienen mayor variabilidad de \"me gusta o no me gusta\" en piel, y por eso vale la pena probar antes de comprar el frasco grande:"
+        content: "Si vas a perfumería física en Buenos Aires, estos son los que conviene oler primero: son los que tienen mayor variabilidad de \"me gusta o no me gusta\" en piel, y por eso vale la pena probar antes de comprar el frasco grande:"
       },
       {
         type: "product-card",
@@ -14803,7 +14803,7 @@ export const guides: Guide[] = [
         type: "product-card",
         productMlaId: "MLA31178643",
         variant: "compact",
-        description: "Khamrah Qahwa: café-canela-vainilla-dátiles. Perfil muy específico — funciona muy bien o no funciona. Oler antes evita decepción de $55.000.",
+        description: "Khamrah Qahwa: café-canela-vainilla-dátiles. Perfil muy específico: funciona muy bien o no funciona. Oler antes evita decepción de $55.000.",
         label: "Probar antes",
         labelColor: "amber"
       },
@@ -14831,7 +14831,7 @@ export const guides: Guide[] = [
     faq: [
       {
         question: "¿Dónde puedo oler perfumes árabes antes de comprar en Buenos Aires?",
-        answer: "En cualquier sucursal grande de cadenas de perfumería con sección árabe en CABA o en shoppings del GBA (Unicenter, Alto Avellaneda, Pilar). También en locales especializados de Palermo, Recoleta, Belgrano y zonas comerciales. La mayoría tiene los top 5 más vendidos disponibles para probar."
+        answer: "En cualquier sucursal grande de cadenas de perfumería con sección árabe en CABA (incluidos los shoppings como Alto Palermo y Abasto) o en shoppings del GBA (Unicenter, Alto Avellaneda, Pilar). También en locales especializados de Palermo, Recoleta, Belgrano y zonas comerciales. Pedí los testers: la mayoría tiene los top 5 más vendidos disponibles para probar."
       },
       {
         question: "¿Es más barato comprar perfumes árabes en CABA físicamente que online?",
@@ -14851,7 +14851,7 @@ export const guides: Guide[] = [
       },
       {
         question: "¿Qué pasa con los perfumes árabes en el GBA fuera de Capital?",
-        answer: "Los shoppings grandes del GBA Norte (Unicenter, Alto Avellaneda, Pilar) tienen sección árabe consolidada. En GBA Sur y Oeste la oferta física es más limitada — la mejor opción ahí es MercadoLibre Full con vendedor MercadoLíder, que llega en 24-72 horas a la mayoría del conurbano."
+        answer: "Los shoppings grandes del GBA Norte (Unicenter, Alto Avellaneda, Pilar) tienen sección árabe consolidada. En GBA Sur y Oeste la oferta física es más limitada: la mejor opción ahí es MercadoLibre Full con vendedor MercadoLíder, que llega en 24-72 horas a la mayoría del conurbano."
       }
     ],
     internalLinks: [
