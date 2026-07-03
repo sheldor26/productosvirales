@@ -22,7 +22,7 @@
 
 **Por qué:** cuando se agregó Clarity, se sumó el `<Script>` pero no se actualizó la lista blanca del CSP. GA sí estaba en el CSP de antes, entonces el bug pasó desapercibido: parecía que "el tracking andaba".
 
-**Cómo evitarlo:** cada vez que se agrega un tracker/script de un dominio externo nuevo, actualizar el CSP en `next.config.ts` en la MISMA tanda: `script-src` (cargar el JS), `connect-src` (mandar los datos) y a veces `img-src` (beacons tipo `c.gif`). Verificar en el navegador que el request al dominio del tracker da 200, no `Failed to fetch`/`Refused to load`.
+**Cómo evitarlo:** cada vez que se agrega un tracker/script de un dominio externo nuevo, actualizar el CSP en `next.config.ts` en la MISMA tanda: `script-src` (cargar el JS), `connect-src` (mandar los datos) y a veces `img-src` (beacons tipo `c.gif`). OJO con los sub-dominios: Clarity carga el tag desde `www.clarity.ms` pero la librería real desde `scripts.clarity.ms` y colecta en `l.clarity.ms`, así que hace falta el comodín `https://*.clarity.ms` en `script-src` y `connect-src`, no solo `www`. Verificar SIEMPRE en el navegador (no solo leyendo el config): `window.clarity.v === true` y cookie `_clck` seteada. Que el tag dé 200 no alcanza — el bundle de segunda etapa puede seguir bloqueado.
 
 **Archivos involucrados:** `next.config.ts` (CSP), `src/app/layout.tsx`.
 
