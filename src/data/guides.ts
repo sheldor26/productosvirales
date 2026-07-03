@@ -16702,7 +16702,7 @@ export const guides: Guide[] = [
     ogDescription: `Qué cafetera express conviene de verdad en Argentina: la diferencia real entre 15 y 20 bares, cuáles espuman bien la leche y dónde poner la plata.`,
     h1: `Cafetera express en Argentina: guía completa y mejores modelos [2026]`,
     publishedDate: "2026-06-09",
-    updatedDate: "2026-06-09",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     readingTime: 12,
     standfirst: `Todo para elegir una cafetera express en Argentina sin gastar de más: ranking con precios reales de MercadoLibre, tabla comparativa, qué significan los bares de presión y cuál conviene según cuánto café tomás.`,
@@ -16728,6 +16728,16 @@ export const guides: Guide[] = [
       { type: "callout", calloutVariant: "tip", calloutTitle: "El mito de los bares", content: `Más bares no significa mejor café a partir de cierto punto: el espresso se extrae entre 9 y 15 bares. Cuando una publicación dice 19 o 20 bares, es la presión máxima de la bomba, no la de extracción. Lo importante es que la máquina tenga bomba real (15 bares o más de pico) y no un sistema de vapor sin presión, como las "express" de menos de $100.000 que no figuran en este ranking.` },
 
       { type: "h2", title: `El ranking: mejores cafeteras express 2026`, id: "ranking" },
+
+      { type: "p", content: `La mejor cafetera express para casa en Argentina hoy es la Smartlife SL-EC8501: bomba de 20 bares, espumador y doble portafiltro (molido o cápsulas) por menos de $200.000. Si buscás una máquina de café doméstica con otra prioridad, el ranking completo:` },
+      { type: "list", items: [
+        `1. Smartlife SL-EC8501: mejor elección general`,
+        `2. Oster BVSTEM5501B: mejor marca-precio`,
+        `3. Ultracomb CE-6108: la más barata con bomba real`,
+        `4. Liliana AC985 2 en 1: la nacional con respaldo`,
+        `5. Peabody PE-CE5010N: mejor con molinillo integrado`,
+        `6. Oster Perfect Brew EM7301: el tope de gama que vale la pena`,
+      ]},
 
       { type: "h3", title: `1. Smartlife SL-EC8501 — mejor elección general` },
       { type: "product-card", productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Bomba de 20 bares, espumador a vapor y dos portafiltros: café molido o cápsulas Nespresso. 4.6 estrellas con 1.656 calificaciones, la express económica más probada del país.` },
@@ -16785,10 +16795,11 @@ export const guides: Guide[] = [
       ] },
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría: la **Smartlife SL-EC8501** ($194.111) — 20 bares, cápsulas Nespresso de respaldo y 1.656 compradores que ya pasaron por los tres avisos del estreno. Si tomás capuchino todos los días y querés cero maniobra, sumale $96.000 y llevate la **Oster BVSTEM5501B** con su espumador con depósito. Y si el café recién molido es tu placer, la **Peabody PE-CE5010N** es el molinillo integrado más accesible del país. El error a evitar: las "express" de menos de $100.000 sin bomba real.` },
+      { type: "verdict", content: `Para la mayoría: la **Smartlife SL-EC8501** ($194.111): 20 bares, cápsulas Nespresso de respaldo y 1.656 compradores que ya pasaron por los tres avisos del estreno. Si tomás capuchino todos los días y querés cero maniobra, sumale $96.000 y llevate la **Oster BVSTEM5501B** con su espumador con depósito. Y si el café recién molido es tu placer, la **Peabody PE-CE5010N** es el molinillo integrado más accesible del país. El error a evitar: las "express" de menos de $100.000 sin bomba real.` },
     ],
     faq: [
       { question: `¿Qué significa que una cafetera express tenga 15 o 20 bares?`, answer: `Es la presión máxima de la bomba. El espresso se extrae entre 9 y 15 bares, así que cualquier máquina con bomba real de 15 o más hace café con crema. Los 19 o 20 bares de algunas publicaciones son presión de pico, no de extracción: no hacen mejor café por sí solos. Lo que sí importa es que tenga bomba y no un sistema de vapor sin presión.` },
+      { question: `¿Cuál es la mejor marca de cafetera express?`, answer: `Depende de qué priorices. Oster es la marca consagrada del rubro: la BVSTEM5501B es el clásico probado y la Perfect Brew EM7301 el tope de gama. Smartlife es la sorpresa en precio-prestaciones con la SL-EC8501, la más calificada del país. Y si te importa el service local, Liliana y Peabody son las nacionales con respaldo en Argentina.` },
       { question: `¿Cuál es la mejor cafetera express calidad-precio en Argentina?`, answer: `Por datos, la [Smartlife SL-EC8501](https://meli.la/1QMpWAw): {{precio:MLA18562154}}, 20 bares, acepta café molido y cápsulas Nespresso, y junta 4.6 estrellas en 1.656 calificaciones, la base de opiniones más grande de su rango. Su único costo oculto es el estreno: manual flojo y un tapón de transporte escondido en el depósito que hay que sacar.` },
       { question: `¿Conviene una cafetera express o una de cápsulas?`, answer: `Depende del ritual. La express da el mejor café y el costo por taza más bajo (café molido), a cambio de preparar y limpiar. Las cápsulas ganan en velocidad y cero limpieza, pero cada taza cuesta más. Camino del medio: las duales como la Smartlife SL-EC8501 aceptan ambos sistemas, o una [Dolce Gusto Piccolo XS](https://meli.la/1f93McA) si la comodidad gana siempre.` },
       { question: `¿Las cafeteras express cortan solas el café?`, answer: `Las económicas no: vos frenás la extracción, y se aprende en dos o tres cafés. El corte automático de dosis aparece recién en la gama del molinillo integrado, como la [Oster Perfect Brew EM7301](https://meli.la/2amGBqP) o la [Peabody PE-CE5023IX](https://meli.la/1n158eE) totalmente automática.` },
