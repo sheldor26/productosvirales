@@ -24,6 +24,14 @@ Las 14 de abajo ya están **en vivo** y listas para pedir indexación. Con DA ba
 16. [x] `climatizacion/estufa-electrica-bajo-consumo` — indexación pedida 2026-07-01
 17. [x] `climatizacion/caloventor` — indexación pedida 2026-07-01
 18. [x] `gaming/silla-gamer` — pilar, indexación pedida 2026-07-01
+19. [ ] `gaming/auriculares-gamer` — publicada 2026-07-02
+20. [ ] `gaming/teclado-gamer` — publicada 2026-07-02
+21. [ ] `gaming/mouse-gamer` — publicada 2026-07-02
+22. [ ] `gaming/monitor-gamer` — publicada 2026-07-02
+23. [ ] `gaming/joystick-ps5` — publicada 2026-07-03 · flagship del sub-silo
+24. [ ] `gaming/joystick-pc` — publicada 2026-07-03
+25. [ ] `gaming/joystick-xbox` — publicada 2026-07-03
+26. [ ] `gaming/joystick-para-celular` — publicada 2026-07-03
 
 > Regla práctica: una URL cada 1-2 días. Mandar todas juntas en un dominio con autoridad baja es la señal que hace que Google dude en indexar.
 
@@ -106,5 +114,13 @@ Silo completo (pilar + 2 satélites), enlazado entre sí. Estado: **publicadas 2
 | URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
 |---|---|---|---|---|---|---|
 | https://productosvirales.com.ar/guias/gaming/silla-gamer | Alta | 2026-07-01 | 2026-07-01 | 7 | 0 | 2026-08-26 |
+| https://productosvirales.com.ar/guias/gaming/auriculares-gamer | Media | 2026-07-02 | — | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/teclado-gamer | Media | 2026-07-02 | — | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/mouse-gamer | Media | 2026-07-02 | — | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/monitor-gamer | Media | 2026-07-02 | — | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/joystick-pc | Media | 2026-07-03 | — | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/joystick-xbox | Media | 2026-07-03 | — | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/joystick-para-celular | Media | 2026-07-03 | — | — | — | — |
+| https://productosvirales.com.ar/guias/gaming/joystick-ps5 | Alta | 2026-07-03 | — | — | — | — |
 
-Pilar publicado standalone (5 productos, ticket alto). Satélites `auriculares-gamer` y `teclado-gamer` ya están escritos pero siguen STAGED — al publicarlos, reponer los internalLinks cruzados en `silla-gamer`. Estado: **publicada 2026-07-01, indexada** (7 impresiones en GSC al 2026-07-01, posición prom. 8.3, sin clicks todavía).
+Pilar `silla-gamer` publicado el 2026-07-01. `auriculares-gamer`, `teclado-gamer`, `mouse-gamer` y `monitor-gamer` se publicaron el 2026-07-02 (fuera de esta sesión), ya enlazados desde `silla-gamer`. El 2026-07-03 se sumó el sub-silo de joystick (PC, Xbox, PS5, celular): las 4 guías se enlazan entre sí y con el resto de gaming, sin dependencias pendientes. Silo gaming completo. Falta pedir indexación en GSC para las 8 guías nuevas (todo salvo `silla-gamer`).
