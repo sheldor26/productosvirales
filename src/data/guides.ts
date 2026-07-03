@@ -1326,7 +1326,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // Sub-silo Joystick (dentro de gaming) — joystick-pc — STAGED
+  // Sub-silo Joystick (dentro de gaming) — joystick-pc
   // ─────────────────────────────────────────────────────────
   {
     slug: "joystick-pc",
@@ -1339,8 +1339,8 @@ export const guides: Guide[] = [
     ogDescription: `Del más vendido y económico al inalámbrico de marca. Redragon y Logitech comparados por compatibilidad real, conexión y precio de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_794640-MLA99500561342_112025-F.jpg`,
     h1: `Joystick PC: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-07-03",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     readingTime: 10,
     standfirst: `Un joystick para PC puede ser plug-and-play total o darte dolores de cabeza con Steam, y la diferencia no está en el precio: está en si es XInput o DirectInput. Te contamos qué mirar de verdad, comparando los más vendidos de Argentina con specs verificadas contra el fabricante y precios reales de MercadoLibre.`,
@@ -1461,7 +1461,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // Sub-silo Joystick (dentro de gaming) — joystick-xbox — STAGED
+  // Sub-silo Joystick (dentro de gaming) — joystick-xbox
   // ─────────────────────────────────────────────────────────
   {
     slug: "joystick-xbox",
@@ -1474,8 +1474,8 @@ export const guides: Guide[] = [
     ogDescription: `El control oficial Xbox Wireless contra el Elite Series 2 premium, comparados por compatibilidad, batería y precio real de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_607987-MLA97215744455_112025-F.jpg`,
     h1: `Joystick Xbox: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-07-03",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Xbox es la consola minoritaria en Argentina, así que esta guía tiene menos opciones que las de PC o PlayStation, y lo decimos de frente. Comparamos el control oficial Xbox Wireless contra el Elite Series 2 premium, con specs verificadas contra Microsoft y precios reales de MercadoLibre.`,
@@ -1558,7 +1558,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // Sub-silo Joystick (dentro de gaming) — joystick-para-celular — STAGED
+  // Sub-silo Joystick (dentro de gaming) — joystick-para-celular
   // ─────────────────────────────────────────────────────────
   {
     slug: "joystick-para-celular",
@@ -1571,8 +1571,8 @@ export const guides: Guide[] = [
     ogDescription: `GameSir, T-Dagger y un genérico con soporte incluido, comparados por compatibilidad real, latencia y precio de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_882042-MLA96730692439_102025-F.jpg`,
     h1: `Joystick para celular: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-07-03",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `No todos los "joystick para celular" que se venden en Argentina confirman esa compatibilidad de verdad, y el más vendido de esta guía es justamente un buen ejemplo. Te contamos cuáles confirman Android/iOS de fábrica, cuál trae el soporte del teléfono incluido y qué tan real es el problema de la latencia Bluetooth.`,
@@ -1671,7 +1671,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // Sub-silo Joystick (dentro de gaming) — joystick-ps5 — STAGED (flagship)
+  // Sub-silo Joystick (dentro de gaming) — joystick-ps5 (flagship)
   // ─────────────────────────────────────────────────────────
   {
     slug: "joystick-ps5",
@@ -1684,8 +1684,8 @@ export const guides: Guide[] = [
     ogDescription: `DualSense oficial vs DualSense Edge, y por qué casi ningún "compatible con PS5" barato funciona de verdad en la consola. Precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_984099-MLA99993479459_112025-F.jpg`,
     h1: `Joystick PS5: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-07-03",
+    updatedDate: "2026-07-03",
     hasDisclosure: true,
     readingTime: 10,
     standfirst: `Antes de gastar en un "compatible con PS5" barato, hay algo que casi nadie te dice: la mayoría no funciona de verdad en la consola, y ninguno replica los gatillos adaptativos ni el feedback háptico del DualSense. Te contamos qué es real y qué no, comparando el DualSense oficial contra el Edge premium, con precios reales de MercadoLibre.`,
