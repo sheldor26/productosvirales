@@ -15777,12 +15777,12 @@ export const guides: Guide[] = [
       category: `aspiradoras-robot`,
       title: `Mejor aspiradora robot: cuál comprar según tu caso`,
       seoTitle: `Mejor aspiradora robot 2026: cuál comprar en Argentina`,
-      metaDescription: `Te decimos cuál es la mejor aspiradora robot según tu caso: presupuesto, tamaño de casa y mascotas. Seis elegidas sin vueltas, con precios reales.`,
+      metaDescription: `Descubrí cuál es la mejor aspiradora robot en Argentina según tu caso: presupuesto, casa y mascotas. Seis elegidas sin vueltas, con precios reales.`,
       ogTitle: `Mejor aspiradora robot: la elegimos por vos (2026)`,
       ogDescription: `Guía de decisión rápida: cuál aspiradora robot comprar según tu presupuesto, tu casa y si tenés mascotas. Seis modelos concretos de Mercado Libre Argentina.`,
       h1: `Mejor aspiradora robot: cuál comprar según tu caso`,
       publishedDate: `2026-06-08`,
-      updatedDate: `2026-06-08`,
+      updatedDate: `2026-07-02`,
       hasDisclosure: true,
       standfirst: `Esta no es la guía enciclopédica. Es la guía de decisión: ya querés comprar y solo necesitás que te digan cuál. Te elegimos seis aspiradoras robot por caso (presupuesto, tipo de casa, mascotas) y te mandamos al hub si querés el detalle largo.`,
       intro: [
@@ -15802,11 +15802,11 @@ export const guides: Guide[] = [
         {
           type: `trust-block`,
           trustVariant: `methodology`,
-          content: `Elegimos cada modelo mirando tres cosas: rating real en Mercado Libre Argentina (todas arriba de 4.4), cantidad de calificaciones y ventas, y qué te da el robot por lo que pagás. No featureamos lo más caro porque sí: si una de $190.000 resuelve tu caso, esa va. Los precios son de junio 2026 y se mueven con las ofertas, así que confirmá en el link antes de comprar. El detalle técnico completo de cada categoría está en la [guía hub de robots aspiradora](/guias/robot-aspiradora).`,
+          content: `Elegimos cada modelo mirando tres cosas: rating real en Mercado Libre Argentina (todas arriba de 4.4), opiniones de compradores y cantidad de ventas, y qué te da el robot por lo que pagás. No featureamos lo más caro porque sí: si una de $190.000 resuelve tu caso, esa va. Los precios son de junio 2026 y se mueven con las ofertas, así que confirmá en el link antes de comprar. El detalle técnico completo de cada categoría está en la [guía hub de robots aspiradora](/guias/robot-aspiradora).`,
         },
   
         { type: `h2`, title: `La respuesta corta`, id: `respuesta-corta` },
-        { type: `p`, content: `Si no querés leer nada más: la Gadnic AC800 es la que yo le recomendaría a la mayoría. Tiene navegación LiDAR (mapea la casa con láser, no anda chocando al azar) y base de autovaciado, dos cosas que normalmente vienen solo en robots de más de un millón de pesos, y acá las tenés a precio de gama media. Para una casa promedio, con o sin mascotas, es la compra más sólida.` },
+        { type: `p`, content: `La mejor aspiradora robot para la mayoría de las casas en Argentina es una con navegación láser (LiDAR) y base de autovaciado a precio de gama media: limpia por recorridos ordenados en vez de chocar al azar, y no la tocás por semanas porque se vacía sola. Con ese criterio, hoy el puesto se lo lleva la Gadnic AC800: trae las dos cosas que normalmente vienen solo en robots de más de un millón de pesos, por bastante menos. Para una casa promedio, con o sin mascotas, es la compra más sólida.` },
         { type: `p`, content: `Ahora, "la mejor en general" no es la mejor para vos si tu caso es particular. Acá va el atajo:` },
         {
           type: `list`,
@@ -15908,10 +15908,11 @@ export const guides: Guide[] = [
         { type: `verdict`, content: `Para la mayoría, la Gadnic AC800 es la mejor aspiradora robot que conviene hoy en Argentina: LiDAR y autovaciado a precio de gama media, con rating sólido y miles de ventas. Si es tu primer robot, arrancá con la Xiaomi S40c. Si el presupuesto manda o tenés mascotas, la Fika Nexos es lo más vendido y no te va a fallar. Y si querés potencia bruta para alfombras, la Xiaomi S40 Pro de 15.000 Pa. Elegí por tu caso, no por el precio, y vas a comprar bien.` },
       ],
       faq: [
-        { question: `¿Cuál es la aspiradora robot más recomendada?`, answer: `Para la mayoría, la [Gadnic AC800](https://meli.la/2UjN3FV): trae navegación LiDAR y base de autovaciado a precio de gama media, dos cosas que normalmente solo vienen en robots de más de un millón de pesos. Tiene 4.8 de rating sobre 548 calificaciones y más de mil vendidas, así que es una compra segura para una casa promedio.` },
+        { question: `¿Cuál es la mejor aspiradora robot en Argentina?`, answer: `Para la mayoría, la [Gadnic AC800](https://meli.la/2UjN3FV): trae navegación LiDAR y base de autovaciado a precio de gama media, dos cosas que normalmente solo vienen en robots de más de un millón de pesos. Tiene 4.8 de rating sobre 548 calificaciones y más de mil vendidas, así que es una compra segura para una casa promedio.` },
         { question: `¿Qué aspiradora robot comprar si es la primera?`, answer: `La [Xiaomi S40c](https://meli.la/16WtjsG). Es accesible, trae mapeo y la app Mi Home está en español y es fácil de configurar. Te deja armar mapas y zonas prohibidas sin volverte loco. Es la mejor entrada al mundo de los robots sin gastar de más ni terminar con algo que choca todo el día.` },
         { question: `¿Cuál es la mejor aspiradora robot calidad precio?`, answer: `Depende del presupuesto. Si querés gastar poco, la [Fika Nexos](https://meli.la/2P2DXaC) a unos {{precio:MLA63784269:k}} es la más vendida y rinde muy bien. Si podés estirarte, la [Gadnic AC800](https://meli.la/2UjN3FV) da LiDAR y autovaciado por bastante menos de lo que cuestan esas funciones en otras marcas. Esas dos son las que mejor relación precio-calidad tienen.` },
         { question: `¿Cuál es la mejor aspiradora robot para mascotas?`, answer: `Si el presupuesto es justo, la [Fika Nexos](https://meli.la/2P2DXaC) levanta bien el pelo y es lo más vendido. Si querés lo más potente para un perro que larga mucho o alfombras de pelo largo, la [Xiaomi S40 Pro](https://meli.la/117oW5y) con 15.000 Pa de succión y brazo extensible es la que más junta.` },
+        { question: `¿Cuál es el mejor robot aspiradora y trapeadora en Argentina?`, answer: `De las seis de esta guía, la única que además de aspirar pasa el trapo es la [Atma ATAR21C1DH](https://meli.la/1TWykcE), un 3 en 1 simple ideal si querés las dos cosas sin gastar de más. Ahora, si el trapeado es tu prioridad (cerámica o porcelanato en toda la casa), conviene un robot pensado para eso: los comparamos en la [guía de robots aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
         { question: `¿Qué robot aspiradora conviene en Argentina con marca local?`, answer: `La [Atma ATAR21C1DH](https://meli.la/1TWykcE). Es marca nacional con service en el país, un 3 en 1 simple que aspira, barre y pasa el trapo, sin app ni mapeo. Si te importa la posventa local y no querés pelear con tecnología, es la opción más tranquila.` },
         { question: `¿Hay aspiradoras robot sin wifi ni app?`, answer: `Sí. La [Kärcher RCV 1](https://meli.la/12hGhQB) se maneja con control remoto, sin teléfono ni configuración de wifi. Es de marca alemana conocida en limpieza, simple de usar. No tiene mapas ni funciones inteligentes, pero si lo que querés es apretar un botón y que limpie, es la indicada.` },
         { question: `¿Vale la pena gastar en un Roomba o un Samsung?`, answer: `Solo si querés marca premium y tenés el presupuesto. El Samsung Jet Bot+ y los Roomba de iRobot juegan en gama alta. Para la mayoría no se justifica el salto frente a la Gadnic o la Xiaomi S40 Pro. Si igual querés ese nivel, mirá nuestra [guía de Roomba](/guias/robot-aspiradora-roomba).` },
