@@ -5,6 +5,18 @@ export default function robots(): MetadataRoute.Robots {
 
   return {
     rules: [
+      // Bots de búsqueda de IA: permitidos explícitamente (nos citan y traen tráfico).
+      {
+        userAgent: ["GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "PerplexityBot"],
+        allow: "/",
+        disallow: ["/api/"],
+      },
+      // Bots de entrenamiento: bloqueados (usan el contenido para entrenar modelos,
+      // no generan citas ni tráfico). No afecta a Googlebot ni a los AI Overviews.
+      {
+        userAgent: ["CCBot", "Google-Extended"],
+        disallow: "/",
+      },
       {
         userAgent: "*",
         allow: "/",

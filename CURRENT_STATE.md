@@ -1,7 +1,21 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-02 (Silo Cuidado Personal completo: pilar secador-de-pelo + satélites maquina-de-afeitar y cortadora-de-pelo, STAGED).
+> Última actualización: 2026-07-04 (GEO: análisis + estrategia + Fase 1 implementada — robots explícito y llms.txt autogenerado. SIN COMMIT).
+
+## Sesión 04-jul — GEO (posicionamiento en ChatGPT/Perplexity/AI Overviews): análisis, estrategia y Fase 1
+
+Disparador: Juan quiere posicionar el sitio en GEO además de SEO. **NO se commiteó: diff mostrado, a la espera de OK.**
+
+1. **Análisis GEO completo** en `docs/GEO-ANALYSIS.md`: score 78/100. Fortalezas: SSR/SSG (los bots de IA leen todo sin JS), JSON-LD completo, fechas reales. Debilidades: llms.txt manual desincronizado, headings poco conversacionales, cero presencia YouTube/Reddit (la señal que más correlaciona con citas de IA). Verificado contra producción con fetch en vivo de robots.txt y llms.txt.
+
+2. **Estrategia en 3 fases** en `docs/GEO-STRATEGY.md` (código → contenido → marca externa), con contras honestas (la principal: canibalización de clics de afiliado si la IA responde sin que el usuario entre). Decisiones de Juan: bloquear solo bots de entrenamiento; autor queda "Equipo ProductosVirales" (sin nombre real).
+
+3. **Fase 1 implementada:** (a) `src/app/robots.ts` con reglas explícitas — allow a GPTBot/OAI-SearchBot/ChatGPT-User/ClaudeBot/PerplexityBot, disallow total a CCBot y Google-Extended; (b) `src/app/llms.txt/route.ts` nuevo — genera llms.txt en build desde `getPublishedGuides()` agrupado por cluster (pilar primero, con metaDescription), formato estándar; (c) borrado `public/llms.txt` manual (conflicto con la ruta; listaba ~67 de 120 guías y le faltaban 6 clusters enteros).
+
+4. **Verificación:** `npx tsc --noEmit` verde, `eslint` limpio en los 2 archivos tocados. `npm run build` completo no corre en este sandbox (limitación conocida, ver sesión 02-jul): **Juan debe correr `npm run build` local como gate final** y verificar `/llms.txt` en dev.
+
+5. **Pendiente (Fase 1):** verificar el sitio en Bing Webmaster Tools (lo hace Juan, 15 min — Copilot cita desde el índice de Bing). Fase 2 (headings-pregunta en pillars) y Fase 3 (YouTube/Reddit) sin arrancar.
 
 ## Sesión 02-jul — Silo Cuidado Personal completo: pilar `secador-de-pelo` + satélites `maquina-de-afeitar` y `cortadora-de-pelo` (STAGED)
 
