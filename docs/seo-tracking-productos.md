@@ -107,6 +107,24 @@ Medir una vez publicadas + crawleadas.
 
 ---
 
+## Fix masivo: metaDescription faltante (2026-07-04)
+
+Un audit de Ahrefs detectó que 38 fichas del cluster "bazar" (limpieza de vidrios, mopas, veladores/tiras LED, freidoras de aire, pavas eléctricas, mini-proyectores) mostraban en `<meta name="description">` el texto **crudo scrapeado del vendedor de ML** (mayúsculas sostenidas, cortado a mitad de frase a los 300 caracteres). Causa raíz: `generateMetadata` en `src/app/producto/[slug]/page.tsx` cae a `product.description` (el campo crudo) cuando `product.metaDescription` está vacío — y en estas 38 fichas estaba vacío. El resto del contenido editorial (`verdict`/`pros`/`cons`/`articleBody`) ya estaba bien curado en cada una; el problema era puntual a ese campo.
+
+Se completó `metaDescription` en las 38, derivada del `verdict` ya existente (sin reescribir la ficha). Verificado en build + HTML servido en vivo.
+
+**Nota:** 6 de estas 38 (MLA38663195, MLA1454279831, MLA43928643, MLA24692647, MLA42113760, MLA38719920) ya figuraban en el baseline del 2026-06-28 arriba como "metaDescription nueva" — pero el campo estaba vacío en el código antes de este fix. Posible pérdida de un cambio no commiteado en esa sesión. No investigado a fondo, queda anotado por si se repite.
+
+| id ML | Categoría |
+| :-- | :-- |
+| MLA62915210, MLA214572440, MLA65086798, MLA24824959, MLA33974728, MLA23485318, MLA38663276, MLA156843560, MLA57493486, MLA52016063, MLA24314471, MLA22894851, MLA45107869, MLA23571779, MLA3514734808, MLA1360766060, MLA20032873, MLA3372015976, MLA44863825, MLA23532244 | Hogar (vidrios, mopas, veladores/tiras LED, cepillos, aspiradora) |
+| MLA2351761364, MLA62559448, MLA1100090508, MLA19589524, MLA15276005, MLA27849823, MLA11145437, MLA8993736, MLA28709303, MLA41041543, MLA36974228, MLA44142280, MLA54106293 | Cocina (organizadores, pavas, freidoras) |
+| MLA52364259, MLA42238146, MLA43932163, MLA22975097, MLA42796008 | Tech (mini-proyectores) |
+
+Sin baseline GSC propio (ninguna de estas 38 tenía fila en este archivo antes). Medir en ~4 semanas si Google actualiza el snippet en SERP.
+
+---
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).
