@@ -6,6 +6,13 @@
       "runtimeExecutable": "npx",
       "runtimeArgs": ["serve", "/Users/juan/revista-literaria/dist", "-l", "4399"],
       "port": 4399
+    },
+    {
+      "name": "productosvirales",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 3000,
+      "autoPort": true
     }
   ]
 }

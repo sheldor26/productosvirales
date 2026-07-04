@@ -5,6 +5,7 @@ import { categories } from "@/data/categories";
 import { getVisibleProducts } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { ProductGrid } from "@/components/products/ProductGrid";
+import { baseOpenGraph } from "@/lib/site-og";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -31,6 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical: `https://productosvirales.com.ar/categoria/${slug}`,
     },
     openGraph: {
+      ...baseOpenGraph,
       title: `${title} | ProductosVirales`,
       description,
       url: `https://productosvirales.com.ar/categoria/${slug}`,

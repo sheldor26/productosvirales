@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getVisibleProducts } from "@/lib/products";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { TrendingBar } from "@/components/feed/TrendingBar";
+import { baseOpenGraph } from "@/lib/site-og";
 
 export const metadata: Metadata = {
   title: "Trending — Lo más buscado en MercadoLibre",
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
     canonical: "https://productosvirales.com.ar/trending",
   },
   openGraph: {
+    ...baseOpenGraph,
     title: "Productos Trending en MercadoLibre Argentina",
     description: "Los productos más buscados y comprados ahora mismo.",
     url: "https://productosvirales.com.ar/trending",

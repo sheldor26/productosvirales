@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { baseOpenGraph } from "@/lib/site-og";
 
 export const metadata: Metadata = {
   title: "Sobre nosotros",
@@ -8,6 +9,7 @@ export const metadata: Metadata = {
     canonical: "https://productosvirales.com.ar/sobre-nosotros",
   },
   openGraph: {
+    ...baseOpenGraph,
     title: "Sobre ProductosVirales — El curador independiente de MercadoLibre",
     description:
       "Conocé quiénes estamos detrás del sitio, nuestra metodología y cómo funcionamos.",

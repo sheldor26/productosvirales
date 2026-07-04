@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { baseOpenGraph } from "@/lib/site-og";
 
 export const metadata: Metadata = {
   title: "Contacto",
@@ -8,6 +9,7 @@ export const metadata: Metadata = {
     canonical: "https://productosvirales.com.ar/contacto",
   },
   openGraph: {
+    ...baseOpenGraph,
     title: "Contacto — ProductosVirales",
     description:
       "Escribinos a hola@productosvirales.com.ar. Sugerencias, errores o pedidos de productos para revisar.",

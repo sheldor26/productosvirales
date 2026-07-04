@@ -5,6 +5,7 @@ import { getPublishedGuides, guideCategories } from "@/data/guides";
 import { guideHref, guideUrl } from "@/lib/guide-url";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
 import { getGuideCardSignals } from "@/lib/guide-card-signals";
+import { baseOpenGraph } from "@/lib/site-og";
 import type { Guide } from "@/lib/types";
 
 // Revalidate daily so scheduled guides appear on their publishedDate
@@ -19,6 +20,7 @@ export const metadata: Metadata = {
     canonical: "https://productosvirales.com.ar/guias",
   },
   openGraph: {
+    ...baseOpenGraph,
     title:
       "Guías de compra 2026: mejores productos en MercadoLibre Argentina",
     description:
