@@ -17692,7 +17692,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // PILAR secador-de-pelo — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // PILAR secador-de-pelo — silo cuidado-personal (/guias/cuidado-personal/...)
   // ─────────────────────────────────────────────────────────
   {
     slug: "secador-de-pelo",
@@ -17706,8 +17706,8 @@ export const guides: Guide[] = [
     ogDescription: `Del más vendido y barato al premium con motor DC. Comparados por potencia real, iónico, difusor y precio real de MercadoLibre. La guía honesta, con precios argentinos.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_872804-MLA99453742720_112025-F.jpg`,
     h1: `Secador de pelo: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-07-04",
+    updatedDate: "2026-07-04",
     hasDisclosure: true,
     readingTime: 10,
     standfirst: `Las revistas de belleza hablan de secadores de 500 dólares que en Argentina casi no se consiguen o cuestan una fortuna. Te mostramos qué comprar de verdad en MercadoLibre Argentina, comparando potencia real, iónico, motor AC o DC y difusor, con precios reales y las contras que las fichas de venta no dicen.`,
@@ -17813,7 +17813,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // SATÉLITE maquina-de-afeitar — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // SATÉLITE maquina-de-afeitar — silo cuidado-personal (/guias/cuidado-personal/...)
   // ─────────────────────────────────────────────────────────
   {
     slug: "maquina-de-afeitar",
@@ -17826,8 +17826,8 @@ export const guides: Guide[] = [
     ogDescription: `De la más económica a la premium wet&dry. Comparadas por sistema de corte, autonomía y precio real de MercadoLibre. La guía honesta de grooming.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_949420-MLA99576448404_122025-F.jpg`,
     h1: `Máquina de afeitar: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-07-04",
+    updatedDate: "2026-07-04",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `"Máquina de afeitar" y "afeitadora eléctrica" son lo mismo: acá comparamos las más elegidas de Argentina por rotativa o láminas, wet&dry o solo en seco, y autonomía real, con precios de MercadoLibre y las contras que las fichas de venta no cuentan.`,
@@ -17932,7 +17932,7 @@ export const guides: Guide[] = [
   },
 
   // ─────────────────────────────────────────────────────────
-  // SATÉLITE cortadora-de-pelo — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // SATÉLITE cortadora-de-pelo — silo cuidado-personal (/guias/cuidado-personal/...)
   // ─────────────────────────────────────────────────────────
   {
     slug: "cortadora-de-pelo",
@@ -17945,8 +17945,8 @@ export const guides: Guide[] = [
     ogDescription: `De la más económica a la que usan los barberos. Comparadas por motor, cantidad de peines y precio real de MercadoLibre. La guía honesta de grooming.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_625568-MLA100040412869_122025-F.jpg`,
     h1: `Cortadora de pelo: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-02",
+    publishedDate: "2026-07-04",
+    updatedDate: "2026-07-04",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Una cortadora de pelo corta longitud con peines guía, no afeita al ras como una máquina de afeitar. Acá comparamos las más elegidas de Argentina por motor, cantidad de peines y si van con cable o a batería, con precios de MercadoLibre y las contras que las fichas de venta no cuentan.`,
@@ -18045,12 +18045,13 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },
 
   // ─────────────────────────────────────────────────────────
-  // SATÉLITE depiladora-electrica — silo cuidado-personal (/guias/cuidado-personal/...) — STAGED
+  // SATÉLITE depiladora-electrica — silo cuidado-personal (/guias/cuidado-personal/...)
   // ─────────────────────────────────────────────────────────
   {
     slug: "depiladora-electrica",
@@ -18063,8 +18064,8 @@ export const guides: Guide[] = [
     ogDescription: `De la más vendida a la premium de marca. GA.MA Italy, Philips y Gadnic comparadas por autonomía, cabezales y precio real de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_794711-MLC74113872991_012024-O.jpg`,
     h1: `Depiladora eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-03",
+    publishedDate: "2026-07-04",
+    updatedDate: "2026-07-04",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Una depiladora eléctrica de pinzas arranca el vello de raíz y el efecto dura semanas, pero no todas rinden igual: la autonomía por carga varía de 45 minutos a 1 hora, y hay diferencias reales entre una genérica y una de marca. Te mostramos cuál conviene según tu prioridad (precio, autonomía o marca), comparando las más vendidas de Argentina con precios reales de MercadoLibre y specs verificadas contra la página oficial del fabricante.`,
