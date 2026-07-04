@@ -32,6 +32,10 @@ Las 14 de abajo ya están **en vivo** y listas para pedir indexación. Con DA ba
 24. [ ] `gaming/joystick-pc` — publicada 2026-07-03
 25. [ ] `gaming/joystick-xbox` — publicada 2026-07-03
 26. [ ] `gaming/joystick-para-celular` — publicada 2026-07-03
+27. [x] `cuidado-personal/secador-de-pelo` — pilar, publicada e indexación pedida 2026-07-04
+28. [x] `cuidado-personal/maquina-de-afeitar` — publicada e indexación pedida 2026-07-04
+29. [x] `cuidado-personal/cortadora-de-pelo` — publicada e indexación pedida 2026-07-04
+30. [x] `cuidado-personal/depiladora-electrica` — publicada e indexación pedida 2026-07-04
 
 > Regla práctica: una URL cada 1-2 días. Mandar todas juntas en un dominio con autoridad baja es la señal que hace que Google dude en indexar.
 
@@ -124,3 +128,14 @@ Silo completo (pilar + 2 satélites), enlazado entre sí. Estado: **publicadas 2
 | https://productosvirales.com.ar/guias/gaming/joystick-ps5 | Alta | 2026-07-03 | — | — | — | — |
 
 Pilar `silla-gamer` publicado el 2026-07-01. `auriculares-gamer`, `teclado-gamer`, `mouse-gamer` y `monitor-gamer` se publicaron el 2026-07-02 (fuera de esta sesión), ya enlazados desde `silla-gamer`. El 2026-07-03 se sumó el sub-silo de joystick (PC, Xbox, PS5, celular): las 4 guías se enlazan entre sí y con el resto de gaming, sin dependencias pendientes. Silo gaming completo. Falta pedir indexación en GSC para las 8 guías nuevas (todo salvo `silla-gamer`).
+
+## Silo: cuidado personal
+
+| URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
+|---|---|---|---|---|---|---|
+| https://productosvirales.com.ar/guias/cuidado-personal/secador-de-pelo | Alta | 2026-07-04 | 2026-07-04 | — | — | 2026-08-29 |
+| https://productosvirales.com.ar/guias/cuidado-personal/maquina-de-afeitar | Alta | 2026-07-04 | 2026-07-04 | — | — | 2026-08-29 |
+| https://productosvirales.com.ar/guias/cuidado-personal/cortadora-de-pelo | Media | 2026-07-04 | 2026-07-04 | — | — | 2026-08-29 |
+| https://productosvirales.com.ar/guias/cuidado-personal/depiladora-electrica | Alta | 2026-07-04 | 2026-07-04 | — | — | 2026-08-29 |
+
+Silo completo (pilar `secador-de-pelo` + 3 satélites), enlazado hub-and-spoke entre las 4. Auditoría final con `optimizador-guias-pv` antes de publicar: specs contrastadas contra fabricante (Wahl Pro, remingtonlatam.com, GA.MA Italy, Yelmo, Gadnic, Philips), sin links absolutos, 22 fichas de producto verificadas. Keywords: secador de pelo (27.100/mes), máquina de afeitar + afeitadora eléctrica (8.100 + 4.400/mes), depiladora eléctrica (12.100/mes), cortadora de pelo (2.900/mes). Estado: **publicadas e indexación pedida 2026-07-04**.
