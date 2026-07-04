@@ -7408,7 +7408,7 @@ export const guides: Guide[] = [
         `Cocinás para 4-5 personas (los 6-6.5L alcanzan)`,
       ]},
       { type: "h2", title: `Alternativas a tener en mente` },
-      { type: "p", content: `Si querés explorar más allá de estos dos, revisá nuestra [comparativa de mejores freidoras de aire en Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina). Y si andás por modelos específicos de cada marca, tenemos análisis a fondo de [Atma freidoras](https://productosvirales.com.ar/guias/atma-freidoras-de-aire-review) y [Peabody freidoras](https://productosvirales.com.ar/guias/peabody-freidoras-de-aire-review).` },
+      { type: "p", content: `Si querés explorar más allá de estos dos, revisá nuestra [comparativa de mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina). Y si andás por modelos específicos de cada marca, tenemos análisis a fondo de [Atma freidoras](/guias/atma-freidoras-de-aire-review) y [Peabody freidoras](/guias/peabody-freidoras-de-aire-review).` },
     ],
     faq: [
       {
@@ -7590,7 +7590,7 @@ export const guides: Guide[] = [
       },
     ],
     internalLinks: [
-      { label: `Atma freidoras`, href: "https://productosvirales.com.ar/guias/atma-freidoras-de-aire-review" },
+      { label: `Atma freidoras`, href: "/guias/atma-freidoras-de-aire-review" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -7864,7 +7864,7 @@ export const guides: Guide[] = [
       },
     ],
     internalLinks: [
-      { label: `Atma vs Peabody`, href: "https://productosvirales.com.ar/guias/atma-vs-peabody-freidora-de-aire" },
+      { label: `Atma vs Peabody`, href: "/guias/atma-vs-peabody-freidora-de-aire" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -7988,8 +7988,8 @@ export const guides: Guide[] = [
         `Diseño y pantalla táctil no son prioritarios`,
       ]},
       { type: "h2", title: `Alternativas: Pensar fuera de la caja` },
-      { type: "p", content: `Si realmente necesitás capacidad pero no doble canasta, revisá nuestro artículo sobre [freidoras gran capacidad](https://productosvirales.com.ar/guias/freidoras-de-aire-gran-capacidad). Una Atma FR248ABP de 8 litros simple a veces es mejor que una doble más cara.` },
-      { type: "p", content: `Y si buscas comparar con otras opciones, revisá [mejores freidoras Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina) y [Atma vs Peabody](https://productosvirales.com.ar/guias/atma-vs-peabody-freidora-de-aire).` },
+      { type: "p", content: `Si realmente necesitás capacidad pero no doble canasta, revisá nuestro artículo sobre [freidoras gran capacidad](/guias/freidoras-de-aire-gran-capacidad). Una Atma FR248ABP de 8 litros simple a veces es mejor que una doble más cara.` },
+      { type: "p", content: `Y si buscas comparar con otras opciones, revisá [mejores freidoras Argentina](/guias/mejores-freidoras-de-aire-argentina) y [Atma vs Peabody](/guias/atma-vs-peabody-freidora-de-aire).` },
     ],
     faq: [
       {
@@ -8155,7 +8155,7 @@ export const guides: Guide[] = [
       },
     ],
     internalLinks: [
-      { label: `comparativa de mejores freidoras en Argentina`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina" },
+      { label: `comparativa de mejores freidoras en Argentina`, href: "/guias/mejores-freidoras-de-aire-argentina" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -8274,8 +8274,8 @@ export const guides: Guide[] = [
         `Les interesa experimentar con recetas vía app`,
       ]},
       { type: "h2", title: `Comparación con otras marcas` },
-      { type: "p", content: `Si querés ver alternativas económicas, tenemos artículos sobre [freidoras económicas en Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-economicas-argentina). Y si te interesa analizar marcas más, revisá nuestra [comparativa de mejores freidoras](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina).` },
-      { type: "p", content: `Para reviews específicos, consultá nuestro análisis de [Ninja Crispi](https://productosvirales.com.ar/guias/ninja-crispi-review) y [Philips freidoras](https://productosvirales.com.ar/guias/philips-freidoras-de-aire-review).` },
+      { type: "p", content: `Si querés ver alternativas económicas, tenemos artículos sobre [freidoras económicas en Argentina](/guias/mejores-freidoras-de-aire-economicas-argentina). Y si te interesa analizar marcas más, revisá nuestra [comparativa de mejores freidoras](/guias/mejores-freidoras-de-aire-argentina).` },
+      { type: "p", content: `Para reviews específicos, consultá nuestro análisis de [Ninja Crispi](/guias/ninja-crispi-review) y [Philips freidoras](/guias/philips-freidoras-de-aire-review).` },
     ],
     faq: [
       {
@@ -9943,7 +9943,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Si cocinás solo o para 2 personas, el tamaño es óptimo. Si somos más en casa, considerá algo con 7-8 litros.` },
       { type: "h2", title: `Recomendación final` },
       { type: "p", content: `La Ninja Crispi es sólida, hace lo que promete, y durá. Pero acá el mercado es diferente al de Estados Unidos. Los precios de importación la ponen en una zona incómoda donde no tiene rival natural (porque la Philips que sería su comparador directo es más barata) y no ofrece tanto como las freidoras grandes locales.` },
-      { type: "p", content: `Si ya decidiste que querés Ninja, es una compra segura. Si andás evaluando qué freidora comprar, primero mirá nuestro [análisis comparativo de mejores freidoras de aire en Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina) y después decidí si el premium tiene sentido para vos.` },
+      { type: "p", content: `Si ya decidiste que querés Ninja, es una compra segura. Si andás evaluando qué freidora comprar, primero mirá nuestro [análisis comparativo de mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina) y después decidí si el premium tiene sentido para vos.` },
       { type: "p", content: `Para comprarla, acá está el link a Mercado Libre con los vendedores más confiables:` },
     ],
     faq: [
@@ -10065,7 +10065,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Es recomendable para usarla a diario?`,
-        answer: `Claro. La Oster está pensada para uso frecuente. No es un electrodoméstico de ocasión. Si la usás todos los días, la durabilidad es uno de los puntos donde Oster sobresale. Relacionados que te pueden interesar: - [Mejores freidoras de aire en Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina) - [Mejores freidoras de aire doble canasta](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-doble-canasta) - [Cómo usar una freidora de aire correctamente](https://productosvirales.com.ar/guias/como-usar-una-freidora-de-aire)`,
+        answer: `Claro. La Oster está pensada para uso frecuente. No es un electrodoméstico de ocasión. Si la usás todos los días, la durabilidad es uno de los puntos donde Oster sobresale. Relacionados que te pueden interesar: - [Mejores freidoras de aire en Argentina](/guias/mejores-freidoras-de-aire-argentina) - [Mejores freidoras de aire doble canasta](/guias/mejores-freidoras-de-aire-doble-canasta) - [Cómo usar una freidora de aire correctamente](/guias/como-usar-una-freidora-de-aire)`,
       },
     ],
   },
