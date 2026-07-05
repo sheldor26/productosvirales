@@ -139,7 +139,12 @@ export function ProductCard({ section }: ProductCardProps) {
       >
         <div className="flex items-stretch">
           {/* Image */}
-          <div
+          <a
+            href={product.affiliateUrl}
+            target="_blank"
+            rel="sponsored nofollow noopener"
+            data-cta-location="card-image"
+            aria-label={`Ver ${product.title} en MercadoLibre`}
             className="shrink-0 w-[100px] sm:w-[120px] flex items-center justify-center p-3"
             style={{ backgroundColor: "var(--bg-secondary)" }}
           >
@@ -150,7 +155,7 @@ export function ProductCard({ section }: ProductCardProps) {
               className="w-full h-full max-h-[100px] object-contain"
               loading="lazy"
             />
-          </div>
+          </a>
 
           {/* Content */}
           <div className="flex-1 min-w-0 p-3 sm:p-4 flex flex-col gap-1.5 justify-center">
@@ -166,7 +171,15 @@ export function ProductCard({ section }: ProductCardProps) {
               className="text-[15px] sm:text-base font-semibold text-[var(--text-primary)] leading-tight truncate"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              {product.title}
+              <a
+                href={product.affiliateUrl}
+                target="_blank"
+                rel="sponsored nofollow noopener"
+                data-cta-location="card-title"
+                className="hover:underline underline-offset-2"
+              >
+                {product.title}
+              </a>
             </h4>
             {section.description && (
               <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
@@ -226,7 +239,12 @@ export function ProductCard({ section }: ProductCardProps) {
         </div>
       )}
       <div className="flex flex-col md:flex-row">
-        <div
+        <a
+          href={product.affiliateUrl}
+          target="_blank"
+          rel="sponsored nofollow noopener"
+          data-cta-location="card-image"
+          aria-label={`Ver ${product.title} en MercadoLibre`}
           className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-5"
           style={{ backgroundColor: "var(--bg-secondary)" }}
         >
@@ -237,14 +255,22 @@ export function ProductCard({ section }: ProductCardProps) {
             className="w-full h-full max-h-[180px] object-contain"
             loading="lazy"
           />
-        </div>
+        </a>
 
         <div className="flex-1 p-5 md:p-6 flex flex-col gap-3">
           <h4
             className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)] leading-tight"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            {product.title}
+            <a
+              href={product.affiliateUrl}
+              target="_blank"
+              rel="sponsored nofollow noopener"
+              data-cta-location="card-title"
+              className="hover:underline underline-offset-2"
+            >
+              {product.title}
+            </a>
           </h4>
 
           {rating && (

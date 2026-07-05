@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-07-05 — Clarity (clics fallidos) + código = diagnóstico UX en minutos
+
+**Qué funcionó:** cruzar el mapa de calor de Clarity filtrado por "clics fallidos" con la lectura del componente. El heatmap mostró clics sobre nombres de producto ("Suono Digital 10L", "Philips HD9270") y sobre la foto grande; `ProductCard.tsx` confirmó que ni el título ni la imagen eran links. Diagnóstico cerrado sin adivinar: la gente toca foto/nombre esperando abrir el producto (hábito de ML/Instagram) y no pasaba nada — 11,7% de las sesiones con al menos un clic fallido.
+
+**Por qué:** el heatmap solo dice *dónde* tocan; el código dice *qué* es clickeable. Juntos convierten un número abstracto ("11,7% dead clicks") en un fix concreto de una tarjeta.
+
+**Cuándo aplicarlo:** cada vez que Clarity muestre clics fallidos, retrocesos rápidos o clics continuos altos: filtrar grabaciones/heatmap por esa métrica, identificar el elemento, y verificar en el componente si es interactivo antes de tocar nada.
+
+**Archivos involucrados:** `src/components/guides/ProductCard.tsx`
+
 ## 2026-06-09 — Actualización de precios migrada a la API: 195 productos en segundos
 
 **Qué funcionó:** `npm run prices:check/update` ahora va API-first: los productos de catálogo y MLAU se chequean contra `/products/{id}/items` de a 8 en paralelo (195 productos, 0 fallos, segundos), y Puppeteer queda solo para las ~13 publicaciones individuales. El flag `--api-only` permite corridas sin navegador. Bonus: un 404 en `/items` significa "sin vendedores activos" (no "producto eliminado") — verificado porque el producto sigue saliendo en `/products/search`; el script lo marca `out_of_stock` automáticamente.

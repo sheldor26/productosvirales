@@ -92,6 +92,7 @@ Salen de la auditoría CRO/UX/copy de jun 2026. Son obligatorias.
 - **Índice scroll-spy:** barra "En esta guía" fija izquierda (≥1040px), resalta la sección activa. (Acento del activo en gris/neutro, no amarillo.)
 - **quickPicks:** 1 card "win" (borde negro 2px + botón amarillo) + 3 cards con botón `.ghost`. Badges desaturados. Estrellas apagadas.
 - **product-card:** cinta de premio full-width (pastel desaturado) + estrellas apagadas + descripción **beneficio-first** + línea de prueba social `✓` + unidad `.buy` (precio grande + botón amarillo aislados) + "ver ficha y opiniones" debajo, gris.
+- **NORMA (Clarity 05-jul): la imagen y el título del producto SIEMPRE son links al `affiliateUrl`** (`rel="sponsored nofollow noopener"`, `target="_blank"`, `data-cta-location="card-image"` / `"card-title"`). Motivo: 11,7% de clics fallidos porque la gente toca foto/nombre esperando abrir el producto (hábito MercadoLibre/Instagram). Ya implementado en `ProductCard.tsx` (variantes default y compact); cualquier componente nuevo que muestre un producto con foto o nombre debe cumplirla.
 - **Estrellas:** fraccionadas, color `--star` (apagado). Relleno **`--p = rating/5×100%`** (4.6→92%, 4.9→98%). Siempre con el número al lado.
 - **Botón:** amarillo `#FFE600` + texto negro + sombra (`0 3px 10px rgba(180,150,0,.30)`) + borde sutil para recortar sobre blanco. Pill 24px. Flecha `→`.
 - **Botón secundario `.ghost`:** blanco, borde gris, texto negro. Sin amarillo.

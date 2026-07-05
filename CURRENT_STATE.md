@@ -1,7 +1,21 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-04 (GEO: análisis + estrategia + Fase 1 implementada — robots explícito y llms.txt autogenerado. SIN COMMIT).
+> Última actualización: 2026-07-05 (Clarity: análisis de clics fallidos → imagen y título de ProductCard ahora linkean al afiliado. SIN COMMIT).
+
+## Sesión 05-jul — Análisis Microsoft Clarity + fix de clics fallidos en ProductCard
+
+Disparador: primeros datos reales de Clarity (~3 días de tracking, 195 sesiones). **NO se commiteó: diff mostrado, a la espera de OK.**
+
+1. **Lectura del dashboard (últimos 30 días ≈ últimos 3 días de tracking):** 195 sesiones / 169 usuarios únicos (97% nuevos), 1,67 páginas por sesión, scroll promedio 41%, tiempo activo 1,9 min. Fuentes: Google 122, ChatGPT 3, Claude 1, Bing/Yahoo ~7 → GEO ya trae visitas. `affiliate_click` en 10 sesiones (~5%). Mobile ~64%. Rendimiento 84/100: LCP 1,8s bueno, CLS 0, INP 200ms "necesita mejoras" (pendiente menor). 0 errores JS. Top página: guía freidoras (23 vistas), después home, estufa-electrica-bajo-consumo, pava-electrica, perfumes-arabes-mujer, cafetera-express. Nota: "https://Electron" en páginas top = Juan probando el sitio en app de escritorio, ruido.
+
+2. **Diagnóstico del 11,7% de clics fallidos (22 sesiones):** con grabaciones + mapa de calor de la guía de freidoras + lectura de `ProductCard.tsx` se confirmó que la gente toca **el título y la foto del producto en las product-cards**, que no eran links (clics sobre "Suono Digital 10L", "Atma FR248ABP 8L", "Philips HD9270" y sobre la foto grande de la Estufa Cuarzo). Solo el botón amarillo y "Ver ficha y opiniones" eran clickeables. El popup del newsletter aparece en varios momentos de clic fallido pero ya dispara al 60% de scroll y no bloquea → se deja como está y se re-mide.
+
+3. **Fix aplicado en `ProductCard.tsx` (ambas variantes, default y compact):** imagen y título envueltos en `<a>` al `affiliateUrl` (decisión de Juan: directo a MercadoLibre, no a la ficha), con `rel="sponsored nofollow noopener"`, `target="_blank"` y `data-cta-location="card-image"` / `"card-title"` nuevos para poder medir en analítica qué gesto convierte.
+
+4. **Verificación:** `npx tsc --noEmit` verde, `eslint` limpio en el archivo tocado. `npm run build` completo no corre en este sandbox (limitación conocida): **Juan corre `npm run build` local como gate final** + prueba visual en dev (tocar foto/título en mobile).
+
+5. **Re-medición:** en ~2 semanas volver a Clarity y comparar % de clics fallidos y sesiones con `affiliate_click` (baseline: 11,7% fallidos, ~5% affiliate_click). Pendientes que dejó la lectura: links internos entre guías relacionadas (páginas/sesión 1,67) y revisar INP.
 
 ## Sesión 04-jul — GEO (posicionamiento en ChatGPT/Perplexity/AI Overviews): análisis, estrategia y Fase 1
 
