@@ -1780,7 +1780,6 @@ export const guides: Guide[] = [
 
   // ─────────────────────────────────────────────────────────
   // PILAR parlantes — silo audio (/guias/audio/...)
-  // STAGED: publishedDate futura + afiliado placeholder (swap por meli.la de Juan antes de publicar)
   // ─────────────────────────────────────────────────────────
   {
     slug: "parlantes",
@@ -1793,8 +1792,8 @@ export const guides: Guide[] = [
     ogTitle: `Parlantes bluetooth: cuál comprar en Argentina`,
     ogDescription: `Del mini para llevar al de fiesta. JBL, Xiaomi y torres de sonido comparados por tamaño, potencia y precio real de MercadoLibre. La guía honesta de parlantes.`,
     h1: `Parlantes bluetooth: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-05",
+    updatedDate: "2026-07-05",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Un parlante bluetooth puede ser un mini para la mochila o un equipo de fiesta de medio metro. Te mostramos cuál conviene según para qué lo querés, comparando los más vendidos de Argentina (JBL, Xiaomi, Noblex) por tamaño, potencia y precio real de MercadoLibre.`,
@@ -1821,7 +1820,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Xiaomi Sound Pocket — el más vendido` },
       { type: "product-card", productMlaId: "MLA44740757", label: "El más vendido", labelColor: "green", ranking: 1, description: `Mini bluetooth de 5 W, ultraportátil y el más barato de la guía. 4.8 estrellas en más de 6.200 calificaciones: el parlante más vendido del catálogo.` },
-      { type: "p", content: `Si querés un parlante para llevar a cualquier lado sin gastar mucho, es este. El Xiaomi Sound Pocket es **mini, liviano y barato** (alrededor de $33.600), con la mayor base de opiniones de todos (más de 6.200). No va a llenar una fiesta, pero para la mochila, el viaje, el baño o el escritorio cumple de sobra y suena mejor de lo que su tamaño sugiere.` },
+      { type: "p", content: `Si querés un parlante para llevar a cualquier lado sin gastar mucho, es este. El Xiaomi Sound Pocket es **mini, liviano y barato** (alrededor de $37.200), con la mayor base de opiniones de todos (más de 6.200). No va a llenar una fiesta, pero para la mochila, el viaje, el baño o el escritorio cumple de sobra y suena mejor de lo que su tamaño sugiere.` },
       { type: "p", content: `Lo honesto: son 5 W, así que es sonido personal, no para ambientar un patio. Para eso mirá los de abajo. Pero trae IP67 (lo bancás bajo agua un rato), batería de unas 10 horas y Bluetooth 5.4: como primer parlante o como el "para llevar", por precio, prestaciones y ventas no tiene con qué competir.` },
 
       { type: "pull-quote", content: `"Probé la JBL Go 4 y la Soundcore Pyro Mini y me quedo con esta por lejos: en materiales, sonido y prestaciones es el mejor parlante de la categoría por su precio."`, attribution: `Opinión verificada en MercadoLibre` },
@@ -1829,25 +1828,25 @@ export const guides: Guide[] = [
       { type: "h3", title: `2. JBL Flip 7 — el todoterreno` },
       { type: "product-card", productMlaId: "MLA48958711", label: "El todoterreno", labelColor: "blue", ranking: 2, description: `Portátil mediano de 35 W, 14 horas de batería (16 con Playtime Boost) e IP68 (resiste agua y polvo, sumergible). Bluetooth 5.4. 4.8 estrellas en 482 calificaciones. El equilibrio de la gama JBL.` },
       { type: "p", content: `Si querés calidad JBL en un tamaño que sirve para casi todo, el Flip 7 es la elección. Es el **todoterreno**: lo bastante chico para llevar, lo bastante potente para una juntada, y resistente al agua y al polvo para usarlo afuera o en la pileta. Es el punto justo de la gama JBL entre los mini y los grandes, y por eso el más recomendado para la mayoría que quiere un solo parlante para todo.` },
-      { type: "p", content: `Cuesta bastante más que el Xiaomi (alrededor de $167.000), así que la diferencia la pagás en sonido, marca y resistencia. Si tu uso es solo personal, el Xiaomi alcanza; si querés un parlante que rinda en más situaciones y dure, el Flip 7 los justifica.` },
+      { type: "p", content: `Cuesta bastante más que el Xiaomi (alrededor de $154.000), así que la diferencia la pagás en sonido, marca y resistencia. Si tu uso es solo personal, el Xiaomi alcanza; si querés un parlante que rinda en más situaciones y dure, el Flip 7 los justifica.` },
 
       { type: "pull-quote", content: `"El sonido es excelente, no tiene comparación con otros parlantes. La batería podría durar un poco más: si lo usás a un volumen no tan alto dura bastante, de lo contrario no aguanta tanto."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. JBL Go Essential — el JBL chico` },
       { type: "product-card", productMlaId: "MLA44711946", label: "JBL económico", labelColor: "blue", ranking: 3, description: `El JBL más accesible: chico (180 g), waterproof (IPX7) y con la firma de sonido de la marca. 4.8 estrellas en más de 2.100 calificaciones.` },
-      { type: "p", content: `Es la puerta de entrada a JBL. El Go Essential es **chico (180 g) y waterproof (IPX7, lo bancás sumergido, aunque no es antipolvo)**, con el sonido de la marca por mucho menos que el Flip (alrededor de $57.000). Lo honesto: son 3,1 W y unas 5 horas de batería con Bluetooth 4.2, así que es sonido personal. Compite en tamaño con el Xiaomi Pocket: el Xiaomi es más barato y con más opiniones; el Go Essential suma la marca JBL. Para quien quiere un JBL sin gastar tanto, es la opción.` },
+      { type: "p", content: `Es la puerta de entrada a JBL. El Go Essential es **chico (180 g) y waterproof (IPX7, lo bancás sumergido, aunque no es antipolvo)**, con el sonido de la marca por mucho menos que el Flip (alrededor de $63.000). Lo honesto: son 3,1 W y unas 5 horas de batería con Bluetooth 4.2, así que es sonido personal. Compite en tamaño con el Xiaomi Pocket: el Xiaomi es más barato y con más opiniones; el Go Essential suma la marca JBL. Para quien quiere un JBL sin gastar tanto, es la opción.` },
 
       { type: "h3", title: `4. JBL Charge 5 — potencia y batería` },
       { type: "product-card", productMlaId: "MLA44709426", label: "Potencia + batería", labelColor: "purple", ranking: 4, description: `Parlante grande de 30 W con 20 horas de batería que además carga el celular (power bank). IP67, Bluetooth 5.1. 4.9 estrellas en 216 calificaciones.` },
-      { type: "p", content: `Cuando querés sonido fuerte y autonomía, el Charge 5 es el salto. Suena más alto y con más graves que el Flip, tiene **batería grande** (aguanta una previa entera) y un extra útil: **carga el celular** como un power bank. Es resistente al agua y pensado para exteriores y juntadas más grandes, a cambio de más tamaño y precio (alrededor de $250.000).` },
+      { type: "p", content: `Cuando querés sonido fuerte y autonomía, el Charge 5 es el salto. Suena más alto y con más graves que el Flip, tiene **batería grande** (aguanta una previa entera) y un extra útil: **carga el celular** como un power bank. Es resistente al agua y pensado para exteriores y juntadas más grandes, a cambio de más tamaño y precio (alrededor de $300.000).` },
 
       { type: "h3", title: `5. JBL Boombox 3 — el de fiesta` },
       { type: "product-card", productMlaId: "MLA45498184", label: "El de fiesta", labelColor: "purple", ranking: 5, description: `El más potente de la gama portátil: 180 W enchufado (136 W a batería), 24 horas de autonomía y graves de fiesta. IP67, pesa 6,7 kg. 4.9 estrellas en 232 calificaciones.` },
-      { type: "p", content: `Es el JBL más grande de la gama. El Boombox 3 tiene **volumen y graves de fiesta** (180 W enchufado), se escucha en un patio o una terraza sin esfuerzo, y la batería aguanta hasta 24 horas. Pesa 6,7 kg y es caro (alrededor de $625.000), así que lo elegís solo si de verdad vas a ambientar reuniones o exteriores. Para uso doméstico es más de lo que necesitás; para fiestas, es el rey portátil.` },
+      { type: "p", content: `Es el JBL más grande de la gama. El Boombox 3 tiene **volumen y graves de fiesta** (180 W enchufado), se escucha en un patio o una terraza sin esfuerzo, y la batería aguanta hasta 24 horas. Pesa 6,7 kg y es caro (alrededor de $745.000), así que lo elegís solo si de verdad vas a ambientar reuniones o exteriores. Para uso doméstico es más de lo que necesitás; para fiestas, es el rey portátil.` },
 
       { type: "h3", title: `6. Noblex MNT290 — torre para el hogar` },
       { type: "product-card", productMlaId: "MLA15733030", label: "Torre para el hogar", labelColor: "amber", ranking: 6, description: `Torre de sonido fija para casa, con bluetooth, luces LED y efectos. 4.6 estrellas en más de 3.000 calificaciones.` },
-      { type: "p", content: `Si lo que querés es un **equipo de sonido fijo en casa** y no un portátil, la torre Noblex es la opción más vendida. Da volumen potente para ambientar el living o una reunión, suma luces LED y efectos, y cuesta menos que un JBL grande (alrededor de $166.500). No es para llevar (es un mueble), pero como equipo de hogar con bluetooth y mucho respaldo de opiniones, es difícil de igualar por el precio.` },
+      { type: "p", content: `Si lo que querés es un **equipo de sonido fijo en casa** y no un portátil, la torre Noblex es la opción más vendida. Da volumen potente para ambientar el living o una reunión, suma luces LED y efectos, y cuesta menos que un JBL grande (alrededor de $232.000). No es para llevar (es un mueble), pero como equipo de hogar con bluetooth y mucho respaldo de opiniones, es difícil de igualar por el precio.` },
 
       { type: "h2", title: `Tabla comparativa: por tamaño y uso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
@@ -1869,8 +1868,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un parlante bluetooth en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$33.000 a $60.000:** los chicos. El [Xiaomi Sound Pocket](https://meli.la/2aD2P7V) (el más vendido) y el [JBL Go Essential](https://meli.la/1M5XMiQ).`,
-        `**$160.000 a $250.000:** los medianos y grandes. El [JBL Flip 7](https://meli.la/1NBXkt8) (todoterreno), el [JBL Charge 5](https://meli.la/2rdrXGv) (potencia) y la torre [Noblex MNT290](https://meli.la/2XUcqza) para el hogar.`,
+        `**$37.000 a $63.000:** los chicos. El [Xiaomi Sound Pocket](https://meli.la/2aD2P7V) (el más vendido) y el [JBL Go Essential](https://meli.la/1M5XMiQ).`,
+        `**$150.000 a $300.000:** los medianos y grandes. El [JBL Flip 7](https://meli.la/1NBXkt8) (todoterreno), el [JBL Charge 5](https://meli.la/2rdrXGv) (potencia) y la torre [Noblex MNT290](https://meli.la/2XUcqza) para el hogar.`,
         `**{{precio:MLA45498184}} o más:** el de fiesta. El [JBL Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar reuniones o exteriores.`,
       ] },
 
@@ -1894,7 +1893,7 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
-  // SATÉLITE parlante-jbl (silo audio) — STAGED
+  // SATÉLITE parlante-jbl (silo audio)
   {
     slug: "parlante-jbl",
     category: "audio",
@@ -1905,8 +1904,8 @@ export const guides: Guide[] = [
     ogTitle: `Parlante JBL: cuál comprar en Argentina`,
     ogDescription: `Go Essential, Flip 7, Charge 5 o Boombox 3: la gama JBL comparada por tamaño, potencia y precio real de MercadoLibre. Cuál conviene según para qué lo querés.`,
     h1: `Parlante JBL: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-05",
+    updatedDate: "2026-07-05",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `JBL tiene un parlante para cada uso, del Go que entra en el bolsillo al Boombox de fiesta. Te mostramos la gama ordenada por tamaño y potencia, qué resignás en cada uno y cuál conviene según para qué lo querés, con precios reales de MercadoLibre.`,
@@ -1934,23 +1933,23 @@ export const guides: Guide[] = [
       { type: "h3", title: `1. JBL Flip 7 — el mejor para la mayoría` },
       { type: "product-card", productMlaId: "MLA48958711", label: "El mejor para la mayoría", labelColor: "green", ranking: 1, description: `El portátil mediano todoterreno: 35 W, 14 horas de batería (16 con Playtime Boost) e IP68 (agua y polvo, sumergible). Bluetooth 5.4. 4.8 estrellas en 482 calificaciones. El equilibrio de la gama.` },
       { type: "p", content: `Si querés un solo JBL para todo, es el Flip 7. Es lo bastante chico para llevar y lo bastante potente para una juntada, resistente al agua y al polvo para usarlo en la pileta o afuera. Está justo en el medio de la gama: más sonido que el Go, más portátil que el Charge. Por eso es el más recomendado para la mayoría que quiere un parlante que rinda en casi cualquier situación.` },
-      { type: "p", content: `Ronda los $167.000. Si tu uso es solo personal (escritorio, mochila), el Go Essential alcanza por mucho menos; si querés sonido de fiesta, mirá el Charge o el Boombox. Pero como punto justo entre tamaño, sonido y precio, el Flip 7 es la elección segura.` },
+      { type: "p", content: `Ronda los $154.000. Si tu uso es solo personal (escritorio, mochila), el Go Essential alcanza por mucho menos; si querés sonido de fiesta, mirá el Charge o el Boombox. Pero como punto justo entre tamaño, sonido y precio, el Flip 7 es la elección segura.` },
 
       { type: "pull-quote", content: `"Compré el más chico y cuando lo puse, la vecina vino a golpearme la puerta diciéndome que si la invitaba a la fiesta. Muy bueno, se escucha lindo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. JBL Go Essential — el más accesible` },
       { type: "product-card", productMlaId: "MLA44711946", label: "El más accesible", labelColor: "blue", ranking: 2, description: `El JBL más chico y barato (180 g), waterproof (IPX7), con la firma de sonido de la marca. 4.8 estrellas en más de 2.100 calificaciones.` },
-      { type: "p", content: `Es la puerta de entrada a JBL. Chico (180 g) y resistente al agua (IPX7, lo bancás sumergido, aunque no es antipolvo), con el sonido de la marca por mucho menos que el Flip (alrededor de $57.000). Lo honesto: son 3,1 W y unas 5 horas de batería con Bluetooth 4.2, así que es sonido personal, no para llenar un ambiente. Pero para llevar a todos lados con calidad JBL no tiene rival dentro de la marca, y tiene la mayor base de opiniones de la gama (más de 2.100).` },
+      { type: "p", content: `Es la puerta de entrada a JBL. Chico (180 g) y resistente al agua (IPX7, lo bancás sumergido, aunque no es antipolvo), con el sonido de la marca por mucho menos que el Flip (alrededor de $63.000). Lo honesto: son 3,1 W y unas 5 horas de batería con Bluetooth 4.2, así que es sonido personal, no para llenar un ambiente. Pero para llevar a todos lados con calidad JBL no tiene rival dentro de la marca, y tiene la mayor base de opiniones de la gama (más de 2.100).` },
 
       { type: "pull-quote", content: `"Justo no estaba en casa, el cartero lo tiró entre las rejas y el vecino me lo tiró por la ventana de la cocina, así que aguantó varios golpes. Y suena muy bien."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. JBL Charge 5 — potencia y batería` },
       { type: "product-card", productMlaId: "MLA44709426", label: "Potencia + batería", labelColor: "purple", ranking: 3, description: `Grande, de 30 W, con 20 horas de batería y que además carga el celular (power bank). IP67, Bluetooth 5.1. 4.9 estrellas en 216 calificaciones.` },
-      { type: "p", content: `Cuando querés más volumen y autonomía, el Charge 5 es el salto. Suena más alto y con más graves que el Flip, la batería aguanta una previa entera y, de yapa, **carga el celular** como power bank. Es resistente al agua y pensado para exteriores y juntadas más grandes. Cuesta alrededor de $250.000: lo elegís si el sonido fuerte y la batería te importan más que la portabilidad.` },
+      { type: "p", content: `Cuando querés más volumen y autonomía, el Charge 5 es el salto. Suena más alto y con más graves que el Flip, la batería aguanta una previa entera y, de yapa, **carga el celular** como power bank. Es resistente al agua y pensado para exteriores y juntadas más grandes. Cuesta alrededor de $300.000: lo elegís si el sonido fuerte y la batería te importan más que la portabilidad.` },
 
       { type: "h3", title: `4. JBL Boombox 3 — el de fiesta` },
       { type: "product-card", productMlaId: "MLA45498184", label: "El de fiesta", labelColor: "amber", ranking: 4, description: `El más potente de la gama portátil: 180 W enchufado (136 W a batería), 24 horas de autonomía y graves de fiesta. IP67, pesa 6,7 kg. 4.9 estrellas en 232 calificaciones.` },
-      { type: "p", content: `Es el JBL más grande de la gama. El Boombox 3 tiene volumen y graves de fiesta (180 W enchufado), se escucha en un patio o una terraza sin esfuerzo, y la batería aguanta hasta 24 horas. Pesa 6,7 kg y es caro (alrededor de $625.000), así que lo elegís solo si de verdad vas a ambientar reuniones o exteriores. Para uso doméstico es más de lo que necesitás; para fiestas, es el rey portátil de JBL.` },
+      { type: "p", content: `Es el JBL más grande de la gama. El Boombox 3 tiene volumen y graves de fiesta (180 W enchufado), se escucha en un patio o una terraza sin esfuerzo, y la batería aguanta hasta 24 horas. Pesa 6,7 kg y es caro (alrededor de $745.000), así que lo elegís solo si de verdad vas a ambientar reuniones o exteriores. Para uso doméstico es más de lo que necesitás; para fiestas, es el rey portátil de JBL.` },
 
       { type: "h2", title: `Tabla comparativa: la gama JBL`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
@@ -1971,7 +1970,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta un parlante JBL en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA44711946:k}}:** el [JBL Go Essential](https://meli.la/1M5XMiQ), la entrada a la marca.`,
-        `**$167.000 a $250.000:** el [Flip 7](https://meli.la/1NBXkt8) (todoterreno) y el [Charge 5](https://meli.la/2rdrXGv) (potencia y batería). La franja que conviene para la mayoría.`,
+        `**$154.000 a $300.000:** el [Flip 7](https://meli.la/1NBXkt8) (todoterreno) y el [Charge 5](https://meli.la/2rdrXGv) (potencia y batería). La franja que conviene para la mayoría.`,
         `**{{precio:MLA45498184}} o más:** el [Boombox 3](https://meli.la/2wwPi19), solo si vas a ambientar fiestas o exteriores.`,
       ] },
 
@@ -1990,11 +1989,12 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
       { label: "Torre de sonido: cuál comprar para el hogar", href: "/guias/audio/torre-de-sonido" },
+      { label: "Parlantes Stromberg: la marca del 2 en 1", href: "/guias/audio/parlante-stromberg" },
     ],
     internalLinksTitle: "Más sobre audio",
   },
 
-  // SATÉLITE torre-de-sonido (silo audio) — STAGED
+  // SATÉLITE torre-de-sonido (silo audio)
   {
     slug: "torre-de-sonido",
     category: "audio",
@@ -2005,8 +2005,8 @@ export const guides: Guide[] = [
     ogTitle: `Torre de sonido: cuál comprar en Argentina`,
     ogDescription: `El equipo de sonido fijo para llenar la casa. Noblex, JVC y Aiwa comparadas por potencia, prestaciones (karaoke, luces) y precio real de MercadoLibre.`,
     h1: `Torre de sonido: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-05",
+    updatedDate: "2026-07-05",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `La torre de sonido es el equipo fijo para llenar la casa de música, con más potencia que un portátil por menos plata. Te mostramos cuál conviene según prestaciones y precio, comparando las más vendidas (Noblex, JVC, Aiwa) con datos reales de MercadoLibre.`,
@@ -2028,20 +2028,20 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Noblex MNT290 — la más vendida` },
       { type: "product-card", productMlaId: "MLA15733030", label: "La más vendida", labelColor: "green", ranking: 1, description: `La torre más elegida: bluetooth, luces LED y efectos, a la mejor relación precio. 4.6 estrellas en más de 3.000 calificaciones.` },
-      { type: "p", content: `Es la que recomendamos para la mayoría. La Noblex MNT290 da **volumen potente para el living** con bluetooth y luces LED, y es la más vendida del segmento (más de 3.000 opiniones) a un precio menor que las otras (alrededor de $166.500). Para ambientar una reunión en casa o escuchar música fuerte sin gastar de más, es la opción sensata y la más probada.` },
+      { type: "p", content: `Es la que recomendamos para la mayoría. La Noblex MNT290 da **volumen potente para el living** con bluetooth y luces LED, y es la más vendida del segmento (más de 3.000 opiniones) a un precio menor que las otras (alrededor de $232.000). Para ambientar una reunión en casa o escuchar música fuerte sin gastar de más, es la opción sensata y la más probada.` },
       { type: "p", content: `Trae lo que importa: unos 30 W RMS de potencia real (los "3200W" del título son potencia pico de marketing, no la de uso), micrófono incluido para karaoke y puerto USB. No tiene la marca ni el acabado de una Aiwa, pero cumple de sobra: sonido potente, bluetooth, luces y un precio que ninguna iguala con tanto respaldo. Si querés una torre que ande bien sin pagar de más, es esta.` },
 
       { type: "pull-quote", content: `"Muy bueno a pesar de su tamaño. La duración de la batería depende del volumen. El sonido de la voz con el micrófono se escucha muy bien y clara. Una buena compra sin lugar a dudas."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. JVC XS-LA5214 — potencia y karaoke` },
       { type: "product-card", productMlaId: "MLA45615651", label: "Potencia + karaoke", labelColor: "blue", ranking: 2, description: `Más potencia y un micrófono incluido para karaoke. 4.7 estrellas en más de 1.700 calificaciones.` },
-      { type: "p", content: `Si querés más potencia y más opciones para cantar, la JVC es el escalón de arriba. Viene con micrófono incluido y entradas pensadas para karaoke, y apunta a más volumen que la Noblex. Cuesta algo más (alrededor de $202.000), con muy buen respaldo de opiniones (más de 1.700) y el mejor rating del grupo. La Noblex también trae micrófono; la JVC suma potencia y el mejor puntaje. Para fiestas en casa con canto fuerte, es la indicada.` },
+      { type: "p", content: `Si querés más potencia y más opciones para cantar, la JVC es el escalón de arriba. Viene con micrófono incluido y entradas pensadas para karaoke, y apunta a más volumen que la Noblex. Cuesta algo más (alrededor de $220.000), con muy buen respaldo de opiniones (más de 1.700) y el mejor rating del grupo. La Noblex también trae micrófono; la JVC suma potencia y el mejor puntaje. Para fiestas en casa con canto fuerte, es la indicada.` },
 
       { type: "pull-quote", content: `"Por el precio, excelente. Vinculando dos, se obtiene una calidad superior. Y para los que se quejan: comparen el precio con la marca de primera. Si pretenden más, paguen más."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Aiwa AW-T2018R — la premium` },
       { type: "product-card", productMlaId: "MLA20012498", label: "La premium", labelColor: "purple", ranking: 3, description: `Torre con más prestaciones: bluetooth, entrada auxiliar y función power bank. 4.7 estrellas en 332 calificaciones.` },
-      { type: "p", content: `Es la opción con más prestaciones del grupo. La Aiwa suma sobre las otras la función **power bank** (carga el celular) y la marca, a un precio más alto (alrededor de $288.000). Tiene menos opiniones que la Noblex y la JVC (332), así que la base de validación es más chica, pero positivas. La elegís si valorás la marca Aiwa y los extras; si no, la Noblex da casi lo mismo por menos.` },
+      { type: "p", content: `Es la opción con más prestaciones del grupo. La Aiwa suma sobre las otras la función **power bank** (carga el celular) y la marca, a un precio más alto (alrededor de $291.000). Tiene menos opiniones que la Noblex y la JVC (332), así que la base de validación es más chica, pero positivas. La elegís si valorás la marca Aiwa y los extras; si no, la Noblex da casi lo mismo por menos.` },
 
       { type: "h2", title: `Tabla comparativa: las tres torres`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Extra`, `Ideal para`], rows: [
@@ -2059,7 +2059,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta una torre de sonido en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA15733030:k}}:** la [Noblex MNT290](https://meli.la/2XUcqza), la más vendida y la mejor relación precio.`,
-        `**$200.000 a $290.000:** las de más prestaciones. La [JVC XS-LA5214](https://meli.la/2AFiBZG) (karaoke) y la [Aiwa AW-T2018R](https://meli.la/1FFKAw8) (premium con power bank).`,
+        `**$220.000 a $291.000:** las de más prestaciones. La [JVC XS-LA5214](https://meli.la/2AFiBZG) (karaoke) y la [Aiwa AW-T2018R](https://meli.la/1FFKAw8) (premium con power bank).`,
         `**Si necesitás llevarlo:** una torre no sirve (es fija). Mirá un parlante portátil potente en la [guía de parlantes](/guias/audio/parlantes).`,
       ] },
 
@@ -2071,16 +2071,17 @@ export const guides: Guide[] = [
       { question: `¿Torre de sonido o parlante portátil?`, answer: `Depende de si lo vas a mover. La torre es un equipo fijo de hogar: más potencia por el precio para llenar el living, pero no se transporta. Un parlante portátil (como un JBL Charge o Boombox) lo llevás a todos lados y resiste el agua, a cambio de menos volumen por peso. Para casa, torre; para llevar, portátil.` },
       { question: `¿Las torres de sonido sirven para karaoke?`, answer: `Sí, las que traen micrófono incluido. La [JVC XS-LA5214](https://meli.la/2AFiBZG) y la [Noblex MNT290](https://meli.la/2XUcqza) vienen con micrófono y entradas para cantar, así que las dos sirven para karaoke en casa. La JVC suma más potencia; la Aiwa apunta más a música. Si el karaoke es prioridad, fijate que el modelo incluya micrófono y entrada de eco.` },
       { question: `¿Qué significan los "3200W" o "4800W" de las torres?`, answer: `Es potencia PMPO (pico), un número de marketing, no la potencia real de uso. La que importa es la RMS: la [Noblex MNT290](https://meli.la/2XUcqza), por ejemplo, son unos 30 W RMS. Cuando compares, mirá la RMS si está publicada; si solo ves un número gigante en watts, es PMPO y conviene tomarlo con pinzas.` },
-      { question: `¿Cuánto cuesta una torre de sonido?`, answer: `En junio 2026, desde unos $166.500 la [Noblex MNT290](https://meli.la/2XUcqza) (la más vendida), alrededor de $202.000 la [JVC](https://meli.la/2AFiBZG) con karaoke, y unos $288.000 la [Aiwa](https://meli.la/1FFKAw8) premium. Por ese precio dan más potencia que un parlante portátil del mismo valor, a cambio de no ser transportables.` },
+      { question: `¿Cuánto cuesta una torre de sonido?`, answer: `Desde unos $232.000 la [Noblex MNT290](https://meli.la/2XUcqza) (la más vendida), alrededor de $220.000 la [JVC](https://meli.la/2AFiBZG) con karaoke, y unos $291.000 la [Aiwa](https://meli.la/1FFKAw8) premium. Por ese precio dan más potencia que un parlante portátil del mismo valor, a cambio de no ser transportables.` },
     ],
     internalLinks: [
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
       { label: "Parlantes JBL: cuál comprar", href: "/guias/audio/parlante-jbl" },
+      { label: "Parlantes Stromberg: la marca del 2 en 1", href: "/guias/audio/parlante-stromberg" },
     ],
     internalLinksTitle: "Más sobre audio",
   },
 
-  // SATÉLITE parlante-stromberg (silo audio) — STAGED
+  // SATÉLITE parlante-stromberg (silo audio)
   {
     slug: "parlante-stromberg",
     category: "audio",
@@ -2091,14 +2092,14 @@ export const guides: Guide[] = [
     ogTitle: `Parlante Stromberg: cuál comprar en Argentina`,
     ogDescription: `La marca argentina del parlante "2 en 1" que se separa en dos. Twin 2, Mega Twin y Burst comparados por tamaño, resistencia y precio real de MercadoLibre.`,
     h1: `Parlante Stromberg: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-05",
+    updatedDate: "2026-07-05",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `Stromberg se hizo conocida por el parlante "2 en 1": un par que se separa para sonido estéreo, resistente al agua y a buen precio. Te mostramos cuál de sus modelos conviene según el uso, comparando los más vendidos con datos reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA55886611", label: "El más vendido", labelColor: "green", tagline: "Stromberg Twin 2: el 2 en 1 que se separa en dos, IPX4, con más de 400 opiniones" },
-      { productMlaId: "MLA42652282", label: "El más accesible", labelColor: "blue", tagline: "Stromberg Burst 2: portátil compacto resistente al agua, el más barato" },
+      { productMlaId: "MLA42652282", label: "El más simple", labelColor: "blue", tagline: "Stromberg Burst 2: portátil compacto de un solo cuerpo, resistente al agua" },
       { productMlaId: "MLA47305608", label: "El más potente", labelColor: "purple", tagline: "Stromberg Mega Twin: la versión grande del 2 en 1, más sonido" },
     ],
     intro: [
@@ -2123,28 +2124,28 @@ export const guides: Guide[] = [
 
       { type: "pull-quote", content: `"Hasta ahora cumple con su función y tiene un sonido bastante bueno. Lo mejor de todo es que pensaron hasta en el cargador: trae dos fichas para cargar los dos parlantes al mismo tiempo."`, attribution: `Opinión verificada en MercadoLibre` },
 
-      { type: "h3", title: `2. Stromberg Burst 2 — el más accesible` },
-      { type: "product-card", productMlaId: "MLA42652282", label: "El más accesible", labelColor: "blue", ranking: 2, description: `Portátil compacto, resistente al agua (IPX5) y con radio FM. 4.7 estrellas en más de 100 calificaciones. El Stromberg más barato.` },
-      { type: "p", content: `Si querés gastar lo mínimo, el Burst 2 es la entrada a la marca. Es un **portátil compacto** de un solo cuerpo (no es 2 en 1), resistente al agua IPX5 y con radio FM, a alrededor de $80.000. Para uso personal, llevar a todos lados y mojarse sin drama, cumple bien por poca plata.` },
-      { type: "p", content: `Frente al Twin 2 resignás el truco del estéreo separable por un precio apenas menor, así que para la mayoría el Twin 2 conviene más. El Burst 2 tiene sentido si querés el formato compacto de un solo parlante y el precio más bajo.` },
+      { type: "h3", title: `2. Stromberg Burst 2 — el más simple` },
+      { type: "product-card", productMlaId: "MLA42652282", label: "El más simple", labelColor: "blue", ranking: 2, description: `Portátil compacto de un solo cuerpo, resistente al agua (IPX5) y con radio FM. 4.7 estrellas en más de 100 calificaciones.` },
+      { type: "p", content: `Si preferís el formato más simple, el Burst 2 es la entrada a la marca. Es un **portátil compacto** de un solo cuerpo (no es 2 en 1), resistente al agua IPX5 y con radio FM, a alrededor de $92.000. Ojo con un dato honesto: al momento de esta revisión, cuesta un poco más que el Twin 2 (que además es 2 en 1), así que ya no es la opción más barata de la marca, aunque sigue siendo la más simple de usar.` },
+      { type: "p", content: `Frente al Twin 2 resignás el truco del estéreo separable y, con los precios actuales, ni siquiera pagás menos: el Twin 2 cuesta un poco menos. El Burst 2 tiene sentido si preferís el formato más simple de un solo parlante, no por ahorrar.` },
 
       { type: "pull-quote", content: `"Muy buena calidad de sonido, y soy muy exigente. No se distorsiona a alto volumen, calidad de construcción espectacular. Por el precio, es superior a los JBL mini que valen lo mismo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Stromberg Mega Twin — el más potente` },
       { type: "product-card", productMlaId: "MLA47305608", label: "El más potente", labelColor: "purple", ranking: 3, description: `La versión grande del 2 en 1: más potencia para un ambiente, resistente al agua (IPX4) y carga USB-C. 4.8 estrellas en más de 200 calificaciones.` },
-      { type: "p", content: `Es el 2 en 1 grande, para quien quiere más volumen. El Mega Twin toma la idea del Twin 2 (dos parlantes que se separan para estéreo) y la sube de tamaño y potencia, con carga USB-C y resistencia IPX4. A alrededor de $182.650, es bastante más caro que el Twin 2, así que lo elegís si necesitás llenar un ambiente más grande o querés más sonido.` },
+      { type: "p", content: `Es el 2 en 1 grande, para quien quiere más volumen. El Mega Twin toma la idea del Twin 2 (dos parlantes que se separan para estéreo) y la sube de tamaño y potencia, con carga USB-C y resistencia IPX4. A alrededor de $188.000, es bastante más caro que el Twin 2, así que lo elegís si necesitás llenar un ambiente más grande o querés más sonido.` },
       { type: "p", content: `Para uso normal, el Twin 2 alcanza y cuesta menos de la mitad. El Mega Twin es para quien valora el estéreo separable con más potencia, en reuniones o ambientes grandes. Mismo concepto, más músculo.` },
 
       { type: "h2", title: `Tabla comparativa: la línea Stromberg`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Ideal para`], rows: [
-        [`[Stromberg Burst 2](https://meli.la/1vRTkEr)`, `{{precio:MLA42652282}}`, `Compacto`, `El más barato, para llevar`],
+        [`[Stromberg Burst 2](https://meli.la/1vRTkEr)`, `{{precio:MLA42652282}}`, `Compacto`, `El más simple, un solo cuerpo`],
         [`[Stromberg Twin 2](https://meli.la/1dxJi26)`, `{{precio:MLA55886611}}`, `2 en 1 (estéreo)`, `El más vendido, mejor relación`],
         [`[Stromberg Mega Twin](https://meli.la/1ER2XeX)`, `{{precio:MLA47305608}}`, `2 en 1 grande`, `Más potencia para ambientes grandes`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu Stromberg`, id: "como-elegir" },
       { type: "h3", title: `1. ¿Querés el estéreo separable?` },
-      { type: "p", content: `Es la decisión clave de la marca. Si te seduce el "2 en 1" (dos parlantes que se separan para sonido estéreo que llena mejor un ambiente), andá al Twin 2 o, si querés más potencia, al Mega Twin. Si te alcanza con un solo parlante compacto y el precio más bajo, el Burst 2.` },
+      { type: "p", content: `Es la decisión clave de la marca. Si te seduce el "2 en 1" (dos parlantes que se separan para sonido estéreo que llena mejor un ambiente), andá al Twin 2 o, si querés más potencia, al Mega Twin. Si preferís un solo parlante compacto sin el truco del 2 en 1, el Burst 2.` },
       { type: "h3", title: `2. Por el tamaño del ambiente` },
       { type: "p", content: `Para uso personal y ambientes chicos, el Burst 2 o el Twin 2 sobran. Para llenar un ambiente más grande o una reunión, el Mega Twin tiene más potencia. No pagues por el grande si lo vas a usar en el escritorio: el Twin 2 es el equilibrio para la mayoría.` },
       { type: "h3", title: `3. Resistencia al agua, si lo sacás afuera` },
@@ -2152,16 +2153,16 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un parlante Stromberg en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$80.000 a $86.000:** los chicos. El [Burst 2](https://meli.la/1vRTkEr) (compacto) y el [Twin 2](https://meli.la/1dxJi26) (el 2 en 1 más vendido). La franja que conviene para la mayoría.`,
+        `**$86.000 a $92.000:** los chicos. El [Twin 2](https://meli.la/1dxJi26) (el 2 en 1 más vendido, y el más barato de los dos) y el [Burst 2](https://meli.la/1vRTkEr) (compacto, un solo cuerpo).`,
         `**Alrededor de {{precio:MLA47305608:k}}:** el [Mega Twin](https://meli.la/1ER2XeX), la versión grande del 2 en 1 para más potencia.`,
         `**Frente a las marcas grandes:** Stromberg cuesta bastante menos que un JBL de tamaño similar; resignás algo de sonido y marca, ganás el truco del 2 en 1 y el precio.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál Stromberg comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, el **Stromberg Twin 2**: el "2 en 1" que se separa en dos para estéreo real, resistente al agua y con la mejor relación precio-prestaciones de la marca (más de 400 opiniones). Si querés gastar lo mínimo y te alcanza un solo parlante compacto, el **Burst 2**. Y si necesitás más potencia para un ambiente grande, el **Mega Twin**. Stromberg no compite en sonido con un JBL premium, pero por precio y el truco del estéreo separable, es una de las marcas de valor más elegidas. Si querés ver otras opciones, mirá la [guía de parlantes](/guias/audio/parlantes).` },
+      { type: "verdict", content: `Para la mayoría, el **Stromberg Twin 2**: el "2 en 1" que se separa en dos para estéreo real, resistente al agua y con la mejor relación precio-prestaciones de la marca (más de 400 opiniones). Si preferís un solo cuerpo simple sin el truco del 2 en 1, el **Burst 2** (aunque, con los precios actuales, ya no es el más barato de los tres). Y si necesitás más potencia para un ambiente grande, el **Mega Twin**. Stromberg no compite en sonido con un JBL premium, pero por precio y el truco del estéreo separable, es una de las marcas de valor más elegidas. Si querés ver otras opciones, mirá la [guía de parlantes](/guias/audio/parlantes).` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor parlante Stromberg?`, answer: `Para la mayoría, el [Stromberg Twin 2](https://meli.la/1dxJi26): el "2 en 1" más vendido, que se separa en dos parlantes para sonido estéreo, resistente al agua y con buena relación precio. Si querés el más barato, el [Burst 2](https://meli.la/1vRTkEr); si buscás más potencia, el [Mega Twin](https://meli.la/1ER2XeX).` },
+      { question: `¿Cuál es el mejor parlante Stromberg?`, answer: `Para la mayoría, el [Stromberg Twin 2](https://meli.la/1dxJi26): el "2 en 1" más vendido, que se separa en dos parlantes para sonido estéreo, resistente al agua y con buena relación precio. Si preferís un solo cuerpo simple, el [Burst 2](https://meli.la/1vRTkEr); si buscás más potencia, el [Mega Twin](https://meli.la/1ER2XeX).` },
       { question: `¿Qué es el parlante "2 en 1" de Stromberg?`, answer: `Es un parlante que en realidad son dos: vienen juntos como una unidad y se separan en dos que se conectan por bluetooth, uno a cada lado, para tener sonido estéreo real que llena mejor un ambiente. Modelos como el [Twin 2](https://meli.la/1dxJi26) y el [Mega Twin](https://meli.la/1ER2XeX) lo traen. Es el sello de la marca y pocas ofrecen eso a ese precio.` },
       { question: `¿Los parlantes Stromberg son resistentes al agua?`, answer: `Sí, toda la línea resiste el agua: el [Burst 2](https://meli.la/1vRTkEr) es IPX5 (aguanta chorros de agua), y el [Twin 2](https://meli.la/1dxJi26) y el [Mega Twin](https://meli.la/1ER2XeX) son IPX4 (salpicaduras y lluvia, no sumergir). Para la pileta o la lluvia van bien; para meterlos bajo agua, ninguno está pensado.` },
       { question: `¿Stromberg o JBL, cuál conviene?`, answer: `Depende del presupuesto. JBL da mejor sonido, marca y resistencia, pero cuesta bastante más. Stromberg ofrece el truco del "2 en 1" estéreo y resistencia al agua por menos plata, a cambio de un sonido menos refinado. Si priorizás precio y la prestación del estéreo separable, Stromberg; si priorizás sonido y marca, mirá la [guía de JBL](/guias/audio/parlante-jbl).` },
@@ -2169,6 +2170,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
       { label: "Parlantes JBL: cuál comprar", href: "/guias/audio/parlante-jbl" },
+      { label: "Torre de sonido: cuál comprar para el hogar", href: "/guias/audio/torre-de-sonido" },
     ],
     internalLinksTitle: "Más sobre audio",
   },

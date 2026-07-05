@@ -8842,7 +8842,8 @@ Para calor inmediato y barato a una persona, la Winco W173 cumple y cuesta poco.
     id: "MLA44740757",
     title: "Parlante Xiaomi Sound Pocket 5w Color Negro",
     canonicalName: "Parlante Xiaomi Sound Pocket",
-    price: 33599,
+    price: 37217,
+    originalPrice: 52000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_852978-MLA99477668022_112025-F.jpg",
     images: [
@@ -8876,8 +8877,8 @@ Para calor inmediato y barato a una persona, la Winco W173 cumple y cuesta poco.
       { label: "Estéreo", value: "Emparejamiento TWS con dos unidades" },
     ],
     relatedProducts: ["MLA44711946", "MLA48958711"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Parlante Xiaomi Sound Pocket: mini bluetooth de 5 W con IP67 y batería de hasta 10 horas, el más vendido y barato. Para llevar a cualquier lado. Más de 6.200 calificaciones.",
     seoTitle: "Xiaomi Sound Pocket 5W: el mini bluetooth barato y resistente",
@@ -8973,7 +8974,7 @@ El Sound Pocket es el parlante de "lo quiero barato, resistente y para llevar". 
     id: "MLA44711946",
     title: "Parlante JBL Go Essential portátil con bluetooth waterproof negro",
     canonicalName: "Parlante JBL Go Essential",
-    price: 62000,
+    price: 63000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_670410-MLA99473454708_112025-F.jpg",
     images: [
@@ -9007,8 +9008,8 @@ El Sound Pocket es el parlante de "lo quiero barato, resistente y para llevar". 
       { label: "Entrada auxiliar", value: "No tiene (solo bluetooth)" },
     ],
     relatedProducts: ["MLA44740757", "MLA48958711"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Parlante JBL Go Essential: el JBL chico waterproof, la entrada a la marca al mejor precio. Más de 2.100 calificaciones.",
     seoTitle: "JBL Go Essential: el JBL chico más barato (review)",
@@ -9098,7 +9099,8 @@ El JBL Go Essential hace una cosa y la hace bien: ser un JBL chico, sumergible y
     id: "MLA48958711",
     title: "Parlante Portatil Jbl Flip 7 Rojo",
     canonicalName: "Parlante JBL Flip 7",
-    price: 167466,
+    price: 154320,
+    originalPrice: 167466,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_929987-MLA88350056799_072025-F.jpg",
     images: [
@@ -9129,8 +9131,8 @@ El JBL Go Essential hace una cosa y la hace bien: ser un JBL chico, sumergible y
       { label: "Respuesta de frecuencia", value: "60 Hz - 20 kHz" },
     ],
     relatedProducts: ["MLA44709426", "MLA44711946"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Parlante JBL Flip 7: el portátil mediano todoterreno, sonido potente y resistente al agua. El equilibrio de la gama JBL.",
     seoTitle: "JBL Flip 7 rojo: review honesta del portátil mediano",
@@ -9227,7 +9229,7 @@ El Flip 7 es el medio de la gama JBL bien resuelto: potente para su tamaño, res
     id: "MLA44709426",
     title: "Parlante JBL Charge 5 portátil con bluetooth waterproof blue",
     canonicalName: "Parlante JBL Charge 5",
-    price: 250000,
+    price: 300000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_886635-MLA100077802831_122025-F.jpg",
     images: [
@@ -9261,13 +9263,13 @@ El Flip 7 es el medio de la gama JBL bien resuelto: potente para su tamaño, res
       { label: "Peso", value: "Aproximadamente 960 g" },
     ],
     relatedProducts: ["MLA48958711", "MLA45498184"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Parlante JBL Charge 5: potencia y batería grande que además carga el celular. El JBL para sonido fuerte con autonomía.",
     seoTitle: "JBL Charge 5: review honesta, batería y carga de celu",
     metaDescription: "JBL Charge 5: 40W, 20 horas de batería, IP67 y carga el celular. Para quien quiere sonido fuerte y autonomía. No tiene aux ni micrófono. Análisis honesto.",
-    verdict: "Para quien quiere sonido fuerte con mucha autonomía y poder cargar el celular en una salida larga, el Charge 5 cumple: 40W, 20 horas de batería, IP67 y 4.9 estrellas en 216 opiniones. Si solo escuchás música en casa, querés entrada auxiliar o atender llamadas por el parlante, no es para vos: a 250.000 pesos pagás de más por funciones que no vas a usar, y ya salió el Charge 6.",
+    verdict: "Para quien quiere sonido fuerte con mucha autonomía y poder cargar el celular en una salida larga, el Charge 5 cumple: 40W, 20 horas de batería, IP67 y 4.9 estrellas en 216 opiniones. Si solo escuchás música en casa, querés entrada auxiliar o atender llamadas por el parlante, no es para vos: a 300.000 pesos pagás de más por funciones que no vas a usar, y ya salió el Charge 6.",
     pros: [
       "40W de potencia (woofer de 30W + tweeter de 10W): suena fuerte y con graves para patio, pileta o juntada",
       "20 horas de batería con una carga, de las más altas en parlantes portátiles de este tamaño",
@@ -9280,7 +9282,7 @@ El Flip 7 es el medio de la gama JBL bien resuelto: potente para su tamaño, res
       "No tiene entrada auxiliar (3.5mm): soló conectás por Bluetooth, no por cable",
       "No tiene micrófono: no podés atender llamadas ni usarlo de manos libres",
       "Tarda unas 4 horas en cargar del todo por USB-C",
-      "A 250.000 pesos es caro: hay parlantes que suenan parecido por menos plata",
+      "A 300.000 pesos es caro: hay parlantes que suenan parecido por menos plata",
       "Ya existe el Charge 6, así que estás comprando la generación anterior",
     ],
     articleBody: `## Para quién es y para quién no
@@ -9313,7 +9315,7 @@ La app JBL Portable trae un ecualizador, pero es básico: tres bandas (graves, m
 
 ## La contra real
 
-El precio. A 250.000 pesos, el Charge 5 está caro para lo que ofrece. Hay parlantes que suenan parecido por bastante menos plata. Lo que pagás de más es la marca, el service oficial y la función power bank.
+El precio. A 300.000 pesos, el Charge 5 está caro para lo que ofrece. Hay parlantes que suenan parecido por bastante menos plata. Lo que pagás de más es la marca, el service oficial y la función power bank.
 
 Y un dato que conviene saber: ya salió el JBL Charge 6. El Charge 5 sigue siendo bueno, pero estás comprando la generación anterior. Si la diferencia de precio entre uno y otro es chica, mirá el 6 antes de decidir.
 
@@ -9323,7 +9325,7 @@ La carga completa tarda unas 4 horas por USB-C. No es rápido, así que conviene
 
 Si lo que buscás es sonido fuerte, batería que aguante todo el día y poder cargar el celular afuera, el Charge 5 lo hace bien: 40W, 20 horas, IP67 y 4.9 estrellas en 216 opiniones lo respaldan. Es un parlante para salir, no para el living.
 
-Si solo escuchás en casa, querés entrada auxiliar o usarlo de manos libres, no es para vos. Y antes de pagar 250.000 pesos, fijate cuánto sale el Charge 6: capaz por poca diferencia te llevás la versión nueva.`,
+Si solo escuchás en casa, querés entrada auxiliar o usarlo de manos libres, no es para vos. Y antes de pagar 300.000 pesos, fijate cuánto sale el Charge 6: capaz por poca diferencia te llevás la versión nueva.`,
     faq: [
       {
         question: "¿El JBL Charge 5 carga el celular?",
@@ -9359,7 +9361,7 @@ Si solo escuchás en casa, querés entrada auxiliar o usarlo de manos libres, no
     id: "MLA45498184",
     title: "Jbl Boombox 3 Color Negro",
     canonicalName: "Parlante JBL Boombox 3",
-    price: 625000,
+    price: 744999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_955498-MLA99948623081_112025-F.jpg",
     images: [
@@ -9390,8 +9392,8 @@ Si solo escuchás en casa, querés entrada auxiliar o usarlo de manos libres, no
       { label: "Extra", value: "Power bank USB para cargar el celular" },
     ],
     relatedProducts: ["MLA44709426", "MLA15733030"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Parlante JBL Boombox 3: el más potente de la gama portátil, para fiestas y exteriores. Graves fuertes y mucha batería.",
     seoTitle: "JBL Boombox 3: análisis del parlante de fiesta más potente",
@@ -9487,8 +9489,8 @@ No: si lo querés para el escritorio, para llevarlo en mochila a diario, o si bu
     id: "MLA15733030",
     title: "Torre de Sonido Noblex MNT290 Bluetooth Efectos de Voz y Luces LED Negro",
     canonicalName: "Torre de Sonido Noblex MNT290",
-    price: 164399,
-    originalPrice: 267409,
+    price: 231994,
+    originalPrice: 317800,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_657368-MLA99938070613_112025-F.jpg",
     images: [
@@ -9521,8 +9523,8 @@ No: si lo querés para el escritorio, para llevarlo en mochila a diario, o si bu
       { label: "Medidas y peso", value: "50 x 22 x 22 cm aprox., 5.2 kg" },
     ],
     relatedProducts: ["MLA45498184", "MLA44709426"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Torre de Sonido Noblex MNT290: equipo de audio para el hogar con bluetooth, luces LED y efectos. Sonido potente fijo, con más de 3.000 calificaciones.",
     seoTitle: "Noblex MNT290: torre de sonido con karaoke y LED",
@@ -9615,7 +9617,7 @@ Por el precio, la MNT290 hace lo que promete para uso hogareño: sonido fuerte e
     id: "MLA45615651",
     title: "Torre De Sonido Jvc Xs-la5214pb Bluetooth 4800w Con Micrófono",
     canonicalName: "Torre de Sonido JVC XS-LA5214",
-    price: 199599,
+    price: 219999,
     originalPrice: 358159,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_989009-MLA99508545586_112025-F.jpg",
@@ -9648,8 +9650,8 @@ Por el precio, la MNT290 hace lo que promete para uso hogareño: sonido fuerte e
       { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA15733030", "MLA20012498"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Torre de Sonido JVC XS-LA5214: equipo de hogar potente con bluetooth y micrófono incluido para karaoke. Más de 1.700 calificaciones.",
     seoTitle: "Torre JVC XS-LA5214PB: karaoke y batería 9h | Review",
@@ -9739,7 +9741,7 @@ Cumple lo que promete para fiesta y karaoke: micrófono incluido, 9 horas de bat
     id: "MLA20012498",
     title: "Parlante Torre Bluetooth Aux Power Bank AW-T2018R Aiwa Color Negro",
     canonicalName: "Torre de Sonido Aiwa AW-T2018R",
-    price: 288099,
+    price: 290999,
     originalPrice: 588899,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_712241-MLA100474754548_122025-F.jpg",
@@ -9772,8 +9774,8 @@ Cumple lo que promete para fiesta y karaoke: micrófono incluido, 9 horas de bat
       { label: "Medidas / peso", value: "32 x 56,5 x 32 cm, 5,95 kg" },
     ],
     relatedProducts: ["MLA15733030", "MLA45615651"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Torre de Sonido Aiwa AW-T2018R: equipo de hogar con bluetooth, entrada auxiliar y función power bank. La opción premium entre las torres.",
     seoTitle: "Torre Aiwa AW-T2018R: review, potencia y power bank",
@@ -9998,7 +10000,8 @@ El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de l
     id: "MLA47305608",
     title: "Parlante Portátil 2 en 1 Stromberg Mega Twin Ipx4 Bluetooth Verde lima Usb-c",
     canonicalName: "Parlante Stromberg Mega Twin",
-    price: 167143,
+    price: 188367,
+    originalPrice: 339558,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_936673-MLA95680310974_102025-F.jpg",
     images: [
@@ -10035,8 +10038,8 @@ El Twin 2 es un parlante honesto en su lugar: chico, prolijo, con la gracia de l
       { label: "Peso", value: "1,65 kg" },
     ],
     relatedProducts: ["MLA55886611", "MLA42652282"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Parlante Stromberg Mega Twin: la versión grande del 2 en 1, más potencia para un ambiente, IPX4 y carga USB-C. Más de 200 calificaciones.",
     seoTitle: "Stromberg Mega Twin: opinión del parlante 2 en 1 de 20W",

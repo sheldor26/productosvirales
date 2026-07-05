@@ -84,19 +84,35 @@ export function QuickPicks({ picks }: QuickPicksProps) {
               >
                 {p.label}
               </span>
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={p.product.image}
-                alt={p.product.title}
-                className="w-full h-[92px] object-contain rounded-[9px] p-1"
-                style={{ backgroundColor: "var(--bg-secondary)" }}
-                loading="lazy"
-              />
+              <a
+                href={p.product.affiliateUrl}
+                target="_blank"
+                rel="sponsored nofollow noopener"
+                data-cta-location="quickpick-image"
+                aria-label={`Ver ${p.product.title} en MercadoLibre`}
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={p.product.image}
+                  alt={p.product.title}
+                  className="w-full h-[92px] object-contain rounded-[9px] p-1"
+                  style={{ backgroundColor: "var(--bg-secondary)" }}
+                  loading="lazy"
+                />
+              </a>
               <h4
                 className="text-[14px] font-semibold text-[var(--text-primary)] leading-tight line-clamp-2"
                 style={{ fontFamily: "var(--font-display)" }}
               >
-                {p.product.title}
+                <a
+                  href={p.product.affiliateUrl}
+                  target="_blank"
+                  rel="sponsored nofollow noopener"
+                  data-cta-location="quickpick-title"
+                  className="hover:underline underline-offset-2"
+                >
+                  {p.product.title}
+                </a>
               </h4>
               {p.product.rating ? (
                 <div className="flex items-center gap-1.5 text-[11px] text-[var(--text-muted)]">
