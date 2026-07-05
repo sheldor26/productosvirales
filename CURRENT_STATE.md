@@ -17,6 +17,13 @@ Disparador: primeros datos reales de Clarity (~3 días de tracking, 195 sesiones
 
 5. **Re-medición:** en ~2 semanas volver a Clarity y comparar % de clics fallidos y sesiones con `affiliate_click` (baseline: 11,7% fallidos, ~5% affiliate_click). Pendientes que dejó la lectura: links internos entre guías relacionadas (páginas/sesión 1,67) y revisar INP.
 
+6. **"Visibilidad de AI" de Clarity activada (panel "Cita") — BASELINE GEO al 05-jul, últimos 7 días, fuente Microsoft Copilot y socios (NO incluye ChatGPT/Perplexity, o sea es piso, no techo):**
+   - **256 citas totales** en respuestas de IA · **Share of Authority 31,07%** (256 de 824 citas en las consultas donde aparecemos) · **AI referral traffic <1%** de las sesiones (nos citan mucho, clickean poco — el riesgo de canibalización anotado en `docs/GEO-STRATEGY.md` es real).
+   - **Consultas con 100% SoA:** "pava electrica con control de temperatura digital cual es la mejor", "mejor masajeador de asiento disponible en argentina 2026", "atma electrodomésticos argentina opiniones confiabilidad". Con ~60%: "mejores marcas de cafetera expreso y capuchino en argentina 2026", "mejores estufas eléctricas bajo consumo argentina 2026", "mejores marcas de pava eléctrica duraderas argentina 2026".
+   - **Páginas más citadas:** mejores-freidoras-de-aire-argentina (91), **mejores-robot-aspiradora-trapeadora (37 — #2 en citas de IA pese a traer poco tráfico humano de Google: a las IAs les rinde ese formato, dato para elegir temas futuros)**, mejores-perfumes-arabes-hombre (21), perfumes-arabes-mujer (12), cafetera-express (10).
+   - **"Actividad de bot" NO se puede activar:** requiere CDN Fastly/CloudFront/Cloudflare/Azure Front Door/Akamai — Vercel no está soportado. Descartado.
+   - **Re-medición GEO:** comparar citas totales, SoA y AI referral % contra este baseline en la próxima revisión de Clarity (~2 semanas). El panel está en Visibilidad de AI → Citation.
+
 ## Sesión 04-jul — GEO (posicionamiento en ChatGPT/Perplexity/AI Overviews): análisis, estrategia y Fase 1
 
 Disparador: Juan quiere posicionar el sitio en GEO además de SEO. **NO se commiteó: diff mostrado, a la espera de OK.**
