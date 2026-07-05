@@ -130,6 +130,15 @@ export interface Product {
   longDescription?: string;
 }
 
+export interface Coupon {
+  code: string;
+  discountAmount: number;
+  minPurchase: number;
+  /** ISO datetime. `null`/omitido = sin vencimiento confirmado por MELI. */
+  validUntil?: string | null;
+  active: boolean;
+}
+
 export interface TrendingKeyword {
   keyword: string;
   url: string;

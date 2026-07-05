@@ -22,6 +22,7 @@ import { parseInlineLinks } from "@/lib/parse-inline-links";
 import { productHref } from "@/lib/product-url";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { PriceHistoryChart } from "./PriceHistoryChart";
+import { CouponBadge } from "./CouponBadge";
 import type { Product } from "@/lib/types";
 import type { PriceChartData } from "@/lib/price-history";
 
@@ -304,6 +305,8 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
               </>
             )}
           </div>
+
+          <CouponBadge price={product.price} className="self-start mt-2" />
 
           {/* Cuotas / price honesty */}
           <p className="mt-1 text-[13px] text-[var(--text-secondary)]">

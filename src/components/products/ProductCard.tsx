@@ -5,6 +5,7 @@ import Image from "next/image";
 import { ArrowRight, Sparkles, TrendingUp, Flame, Award, Sun, Gift } from "lucide-react";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { Badge } from "@/components/ui/Badge";
+import { CouponBadge } from "@/components/products/CouponBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
 import type { Product } from "@/lib/types";
@@ -153,6 +154,8 @@ export function ProductCard({ product, index = 0, priority = false }: ProductCar
             <ArrowRight size={14} />
           </AffiliateLink>
         </div>
+
+        <CouponBadge price={price} className="mt-1.5" />
       </div>
     </div>
   );

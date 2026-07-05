@@ -10,9 +10,14 @@
     {
       "name": "productosvirales",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev"],
-      "port": 3000,
-      "autoPort": true
+      "runtimeArgs": ["run", "dev", "--prefix", "/Users/juan/Proyectos web/productosvirales", "--", "-p", "3100"],
+      "port": 3100
+    },
+    {
+      "name": "usatoydeals",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "/Users/juan/Proyectos web/usatoydeals", "--", "-p", "4311"],
+      "port": 4311
     }
   ]
 }

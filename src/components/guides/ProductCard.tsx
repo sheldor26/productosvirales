@@ -3,6 +3,7 @@ import { Package } from "lucide-react";
 import type { GuideSection, LabelColor } from "@/lib/types";
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
+import { CouponBadge } from "@/components/products/CouponBadge";
 import { injectLivePrices } from "@/lib/price-token";
 import { getPriceValidUntil, productHref } from "@/lib/product-url";
 import { Stars } from "./Stars";
@@ -178,6 +179,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 <span>Incluye estuche</span>
               </p>
             )}
+            <CouponBadge price={product.price} className="self-start" />
             <a
               href={product.affiliateUrl}
               target="_blank"
@@ -310,6 +312,7 @@ export function ProductCard({ section }: ProductCardProps) {
                 </span>
               </div>
             )}
+            <CouponBadge price={product.price} />
             <a
               href={product.affiliateUrl}
               target="_blank"
