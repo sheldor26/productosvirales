@@ -1,7 +1,19 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-06 (guías nuevas `camara-de-seguridad` [commiteada, push pendiente] y `cargador-portatil` [sin commit]).
+> Última actualización: 2026-07-06 (guías nuevas: `camara-de-seguridad` [commiteada, push pendiente], `cargador-portatil` y `planchita-de-pelo` [sin commit]).
+
+## Sesión 06-jul (4) — Research de keywords 2da tanda + guía nueva: `planchita-de-pelo` (satélite cuidado-personal, STAGED)
+
+Disparador: con el research del xlsx agotado, Juan pidió validar keywords nuevas. **SIN COMMIT: diff a la espera de OK.**
+
+1. **Research Ubersuggest (12 keywords, AR):** guardado completo en `docs/productos-backlog.md` sección "Keywords validadas en reserva". Mejores: ventilador de techo (33.100/SD 13, estacional pico 74k nov-dic), termo (27.100/SD 19), smartwatch (40.500/SD 31), tostadora (12.100/SD 12), parrilla eléctrica (6.600/SD 11), alarma para casa (4.400/SD 20, CPC $8,83). Descartadas: tensiómetro (SD 66) y auriculares bluetooth (canibaliza `auriculares-inalambricos`). Juan eligió ejecutar primero **planchita de pelo** (18.100/mes, SD 11).
+2. **SERP analizado antes de crear:** top 15 todo tiendas (cero editorial), People Also Ask en pos 4 → hueco claro.
+3. **6 fichas nuevas** (categoría "Cuidado Personal"/belleza): GA.MA Bella Tourmaline (10.974 reseñas, la más vendida, patines verificados en fabricante), Remington Wet2Straight S27A (8.417, alisa en húmedo), BaByliss PRO Nano Titanium (8.042, la profesional), Philips 5000 (1.184, ThermoShield verificado en philips.com.ar), Revlon placas anchas 5,08cm (528) y Allure PL1010AP (1.026, la económica). Contras honestas en todas (calienta por fuera, se despinta, glitter sorpresa, sin regulador, etc.).
+4. **Guía satélite `planchita-de-pelo`** (silo `cuidado-personal`, STAGED 2026-09-01): 5ta guía del silo, diseño oficial completo. Ángulos: jerarquía de placas, temperatura según tipo de pelo, mito del pelo mojado, apagado automático. Enlazado bidireccional con el pilar y los 3 satélites (las 4 guías existentes actualizadas).
+5. **Links de afiliado (cerrado):** los 6 aplicados el mismo día, sin rechazos (`27kZKkr` GA.MA, `2NwKJ1Z` Remington, `1yDCaxv` BaByliss, `32mFdup` Philips, `2Ld32AW` Revlon, `1KsUjCz` Allure). Guía 100% lista para publicar.
+6. **Verificación:** `tsc --noEmit`, `eslint` y `check-price-tokens.cjs` (607 tokens, 225 productos) limpios. Build local de Juan como gate final (caveat sandbox).
+7. **Documentado** en `docs/seo-tracking-optimizaciones.md` y `docs/productos-backlog.md` (sección nueva "Cuidado Personal — Planchitas de pelo" + tabla de keywords en reserva).
 
 ## Sesión 06-jul (3) — Guía nueva: `cargador-portatil` (pilar, silo tech, STAGED)
 

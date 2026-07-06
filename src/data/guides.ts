@@ -18400,6 +18400,7 @@ export const guides: Guide[] = [
       { question: `¿Cuánto sale un secador de pelo bueno en Argentina?`, answer: `Entre {{precio:MLA22138728:k}} y {{precio:MLA21813707:k}} está el punto justo para la mayoría: potencia real, buena calificación y, en el caso del Yelmo, motor profesional e iónico verificados. Por debajo de eso se consigue algo funcional pero más limitado (como el Spica); por encima, empieza la gama alta con motor DC.` },
     ],
     internalLinks: [
+      { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
@@ -18520,6 +18521,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
@@ -18639,6 +18641,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
@@ -18747,8 +18750,133 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+    ],
+    internalLinksTitle: "Más de cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE planchita-de-pelo — silo cuidado-personal (/guias/cuidado-personal/...)
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "planchita-de-pelo",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    title: `Planchita de pelo: cuál comprar en Argentina [2026]`,
+    seoTitle: `Planchita de Pelo: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué planchita de pelo comprar en Argentina: turmalina, titanio o cerámica, y cuál conviene según tu pelo. Compará precios reales.`,
+    ogTitle: `Planchita de pelo: cuál comprar en Argentina`,
+    ogDescription: `De la más vendida del país a la profesional de peluquería. GA.MA, Remington, BaByliss, Philips y Revlon comparadas por placas, temperatura y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_938261-MLA100008493439_122025-O.webp`,
+    h1: `Planchita de pelo: cuál comprar en Argentina y cuál conviene según tu pelo [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-06",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Una planchita de pelo va de $22.000 (la económica funcional) a $225.000 (la profesional de peluquería). La diferencia real está en las placas y el control de temperatura, no en el marketing. Te mostramos cuál conviene según tu tipo de pelo, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA44129880", label: "La más vendida", labelColor: "green", tagline: "GA.MA Bella Tourmaline: turmalina, iones y casi 11.000 opiniones" },
+      { productMlaId: "MLA44139566", label: "Alisa en húmedo", labelColor: "blue", tagline: "Remington Wet2Straight: del lavado a la planchita, sin secador" },
+      { productMlaId: "MLA6079020", label: "La profesional", labelColor: "purple", tagline: "BaByliss Nano Titanium: la de las peluquerías, una sola pasada" },
+      { productMlaId: "MLA24043222", label: "La más económica", labelColor: "slate", tagline: "Allure PL1010AP: cumple para uso hogareño por menos de la mitad" },
+    ],
+    intro: [
+      `Todas las planchitas alisan; la diferencia está en cuánto castigan el pelo mientras lo hacen. Eso lo definen dos cosas que casi ningún título de MercadoLibre te explica: el **material de las placas** (metal, cerámica, turmalina o titanio) y si podés **regular la temperatura** o trabaja siempre al máximo.`,
+      `En esta guía comparamos las planchitas más vendidas de Argentina por placas, control de temperatura, seguridad y precio real. Las specs de GA.MA y Philips las verificamos contra las páginas oficiales de cada fabricante; las contras salen de reseñas reales de compradores.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_938261-MLA100008493439_122025-O.webp", alt: `Planchita de pelo GA.MA Italy Bella Tourmaline, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **GA.MA Bella Tourmaline**: turmalina con iones y la base de opiniones más grande del país. Si querés alisar **sin pasar por el secador**, la **Remington Wet2Straight**. Para **pelo grueso y uso intensivo**, la **BaByliss Nano Titanium** (la de las peluquerías). Si te preocupa el **daño por calor**, la **Philips 5000**. Y para gastar lo mínimo, la **Allure**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las planchitas con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: el **material de las placas** (metal, cerámica, turmalina o titanio), si tienen **regulador de temperatura** y **apagado automático**, y el precio. Las specs de GA.MA Italy y Philips las verificamos además contra el sitio oficial de cada fabricante. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una planchita de pelo`, id: "que-mirar" },
+      { type: "p", content: `Primero, las **placas**: el metal pelado es el escalón más básico (castiga más el pelo), la **cerámica** reparte mejor el calor, la **turmalina** suma iones contra el frizz y el **titanio** es el material de las profesionales, que alisan en una pasada. Segundo, el **regulador de temperatura**: si tu pelo es fino, teñido o dañado, necesitás poder trabajar a 140-160 °C; una planchita de temperatura única siempre pega en los 200 °C o más.` },
+      { type: "p", content: `Tercero, la **seguridad**: el apagado automático (por si te la olvidás enchufada) no viene en todas, y varias reseñas de distintos modelos avisan que la carcasa calienta por fuera. Y un mito para descartar de entrada: **el pelo mojado no se plancha** con una planchita común; el agua hierve contra la placa y quema el pelo. Solo los modelos diseñados para húmedo, como la Remington de esta guía, lo contemplan.` },
+
+      { type: "h2", title: `Las mejores planchitas de pelo 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. GA.MA Bella Tourmaline Ion — la más vendida` },
+      { type: "product-card", productMlaId: "MLA44129880", label: "La más vendida", labelColor: "green", ranking: 1, description: `Turmalina con iones, patines extra largos y la base de opiniones más grande del país: 4.7 en casi 11.000 calificaciones.` },
+      { type: "p", content: `Si querés la opción probada por más gente, es esta. La GA.MA combina **placas de turmalina con emisión de iones** (el combo anti-frizz) con patines extra largos de 120 x 25 mm que verificamos en el sitio del fabricante: agarran más mechón por pasada, a alrededor de $48.000. Las reseñas la recomiendan especialmente para pelo grueso y rebelde.` },
+      { type: "p", content: `Lo honesto: no tiene regulador de temperatura (trabaja siempre a su única temperatura alta) ni apagado automático, y la reseña crítica más votada avisa que la carcasa calienta por fuera.` },
+      { type: "pull-quote", content: `"Mi señora y mis hijas no se quejan, agradecidas. Yo soy pelado, no puedo decir nada."`, attribution: `Opinión verificada en MercadoLibre, con 2.010 votos útiles` },
+
+      { type: "h3", title: `2. Remington Wet2Straight S27A — alisa con el pelo húmedo` },
+      { type: "product-card", productMlaId: "MLA44139566", label: "Alisa en húmedo", labelColor: "blue", ranking: 2, description: `La única de la guía diseñada para planchar el pelo húmedo, con LCD, temperatura regulable y apagado automático. 4.8 en más de 8.400 calificaciones.` },
+      { type: "p", content: `Su modo húmedo resuelve lo que ninguna otra: alisar **directo después del lavado, sin secador**, algo que con una planchita común quema el pelo. Suma pantalla LCD con temperatura regulable (reseñas con pelo fino la usan a 140-160 °C), aviso sonoro, bloqueo de temperatura y apagado automático, a alrededor de $84.000.` },
+      { type: "p", content: `Lo honesto: si nunca vas a usar el modo húmedo, estás pagando un diferencial que no aprovechás; una reseña sincera cuenta que aun teniéndolo prefiere usarla en seco.` },
+      { type: "pull-quote", content: `"La compré porque venía usando otra marca y se me quemaban muy rápido. Calienta al instante y tiene un sonido que te avisa cuando ya la podés usar."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. BaByliss PRO Nano Titanium 9559 — la profesional` },
+      { type: "product-card", productMlaId: "MLA6079020", label: "La profesional", labelColor: "purple", ranking: 3, description: `La de las peluquerías: nano titanio, placas de 3,81 cm, 5 niveles hasta 232 °C y cable de 3 metros. 4.8 en más de 8.000 calificaciones.` },
+      { type: "p", content: `La planchita que ves en las peluquerías argentinas. El **nano titanio** y las placas anchas alisan en una sola pasada hasta el pelo más grueso y abundante, con 5 niveles de temperatura (150 a 232 °C), punta fría y cable de 3 metros. El 89% de sus más de 8.000 calificaciones son de 5 estrellas.` },
+      { type: "p", content: `Lo honesto: a alrededor de $225.000 cuesta 4 a 5 veces una hogareña, una reseña detallada reporta que la pintura de la placa se puede despintar levemente donde roza el pelo, y la superficie externa calienta. Para planchado ocasional de pelo normal, no se amortiza.` },
+
+      { type: "h3", title: `4. Philips 5000 Series — la que menos daña` },
+      { type: "product-card", productMlaId: "MLA44124334", label: "Menos daño", labelColor: "amber", ranking: 4, description: `Sensor ThermoShield que mantiene la temperatura constante y placas con aceite de argán, verificados en philips.com.ar. 4.8 en más de 1.100 calificaciones.` },
+      { type: "p", content: `La apuesta de Philips no es más calor sino mejor control: su sensor **ThermoShield** mantiene la temperatura constante de raíz a punta para reducir el daño, y las placas van infundidas con **aceite de argán**; ambas cosas verificadas en la página de Philips Argentina. El elogio que repiten las reseñas: se desliza suave y no tira el pelo. Alrededor de $100.000, con apagado automático y funda térmica.` },
+      { type: "p", content: `Lo honesto: cuesta el doble que la GA.MA con una base de opiniones mucho más chica, y el "alisado 50% más rápido" del marketing es contra un modelo Philips viejo, como aclara la letra chica del propio fabricante.` },
+
+      { type: "h3", title: `5. Revlon placas anchas — para pelo largo o grueso` },
+      { type: "product-card", productMlaId: "MLA47856504", label: "Placas anchas", labelColor: "green", ranking: 5, description: `Placas de titanio de 5,08 cm (un tercio más anchas), 230 °C regulables y apagado automático. 4.8, con el menor porcentaje de 1 estrella de la guía.` },
+      { type: "p", content: `Para pelo largo, grueso o con mucho volumen, la geometría manda: sus placas de **5,08 cm** cubren más mechón por pasada, y una reseña reporta el planchado en la mitad de tiempo. Titanio y 230 °C (la receta de la BaByliss) por alrededor de $54.000, con apagado automático incluido.` },
+      { type: "p", content: `Dos avisos: es plateada **con glitter** aunque en las fotos parezca gris lisa (varias reseñas se sorprendieron al abrir la caja), y las placas anchas son poco prácticas para flequillos o pelo corto.` },
+      { type: "pull-quote", content: `"Calienta súper rápido y me planché en la mitad de tiempo de lo que suelo tardar. Tiene brillos, yo pensé que era solo gris, y me dejó el pelo increíble."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `6. Allure PL1010AP — la más económica` },
+      { type: "product-card", productMlaId: "MLA24043222", label: "La más económica", labelColor: "slate", ranking: 6, description: `Funcional por menos de la mitad que las de marca: calienta rápido y no tira el pelo. 4.7 en más de 1.000 calificaciones. Placas metálicas, sin regulador.` },
+      { type: "p", content: `La puerta de entrada: a alrededor de $22.000, la Allure calienta rápido, plancha bien y no tira el pelo, según más de 1.000 calificaciones. Para planchados ocasionales o un primer aparato, cumple.` },
+      { type: "p", content: `Los recortes que explican el precio los detalla una reseña de 4 estrellas admirable de honesta: placas metálicas (el escalón más básico), materiales que se sienten simples, tironea un poco, sin regulador de temperatura y sin corte automático de calor. Su conclusión es el veredicto justo: para uso hogareño muy buena, para uso intensivo no.` },
+
+      { type: "h2", title: `Tabla comparativa: placas, temperatura y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Placas`, `Temperatura`, `Ideal para`], rows: [
+        [`[GA.MA Bella Tourmaline](https://meli.la/27kZKkr)`, `{{precio:MLA44129880}}`, `Turmalina + iones`, `Única`, `La más probada, pelo grueso`],
+        [`[Allure PL1010AP](https://meli.la/1KsUjCz)`, `{{precio:MLA24043222}}`, `Metal`, `Única`, `Gastar lo mínimo`],
+        [`[Revlon placas anchas](https://meli.la/2Ld32AW)`, `{{precio:MLA47856504}}`, `Titanio, 5,08 cm`, `Regulable, 230 °C`, `Pelo largo o con volumen`],
+        [`[Remington Wet2Straight](https://meli.la/2NwKJ1Z)`, `{{precio:MLA44139566}}`, `Cerámica`, `Regulable, LCD, 230 °C`, `Alisar el pelo húmedo`],
+        [`[Philips 5000 Series](https://meli.la/32mFdup)`, `{{precio:MLA44124334}}`, `Con aceite de argán`, `Regulable, sensor`, `Minimizar el daño por calor`],
+        [`[BaByliss Nano Titanium](https://meli.la/1yDCaxv)`, `{{precio:MLA6079020}}`, `Nano titanio, 3,81 cm`, `5 niveles, 232 °C`, `Uso intensivo o profesional`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu planchita de pelo`, id: "como-elegir" },
+      { type: "h3", title: `1. Las placas: metal, cerámica, turmalina o titanio` },
+      { type: "p", content: `Es la jerarquía de la categoría. El **metal** (Allure) es lo más básico y lo que más castiga con el uso frecuente. La **cerámica** (Remington) reparte el calor parejo. La **turmalina** (GA.MA) suma iones que bajan el frizz. Y el **titanio** (BaByliss, Revlon) es el material profesional: calienta más parejo y alisa en menos pasadas, ideal para pelo grueso.` },
+      { type: "h3", title: `2. La temperatura: regulable si tu pelo es fino o teñido` },
+      { type: "p", content: `El pelo fino, teñido o dañado se plancha a **140-160 °C**; el grueso y virgen aguanta 200 °C o más. Las planchitas de temperatura única (GA.MA, Allure) trabajan siempre en el rango alto: si tu pelo pide menos, necesitás una regulable (Remington, Philips, Revlon, BaByliss).` },
+      { type: "h3", title: `3. La seguridad: apagado automático y carcasa` },
+      { type: "p", content: `El apagado automático te salva de la duda de si la dejaste enchufada: lo traen la Remington, la Philips y la Revlon; la GA.MA, la Allure y la BaByliss no lo declaran. Y un aviso transversal de las reseñas de varios modelos: la carcasa calienta por fuera, así que agarrala siempre del mango.` },
+      { type: "h3", title: `4. El mito del pelo mojado` },
+      { type: "p", content: `Plancharse el pelo mojado con una planchita común lo quema: el agua hierve contra la placa. Si tu rutina es lavar y alisar, la única de esta guía diseñada para eso es la **Remington Wet2Straight**, con su modo húmedo dedicado. Con cualquier otra: secador primero, planchita después.` },
+
+      { type: "h2", title: `Cuánto cuesta una planchita de pelo en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA24043222:k}}:** la económica funcional, la [Allure PL1010AP](https://meli.la/1KsUjCz). Cumple para uso ocasional.`,
+        `**Alrededor de {{precio:MLA44129880:k}} a {{precio:MLA47856504:k}}:** el punto justo para la mayoría: la [GA.MA Bella Tourmaline](https://meli.la/27kZKkr) (la más vendida) y la [Revlon de placas anchas](https://meli.la/2Ld32AW) (pelo largo).`,
+        `**Alrededor de {{precio:MLA44139566:k}} a {{precio:MLA44124334:k}}:** la gama con extras: la [Remington Wet2Straight](https://meli.la/2NwKJ1Z) (modo húmedo) y la [Philips 5000](https://meli.la/32mFdup) (control de daño).`,
+        `**Alrededor de {{precio:MLA6079020:k}}:** la profesional, la [BaByliss Nano Titanium](https://meli.la/1yDCaxv). Solo se justifica con uso intensivo.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál planchita de pelo comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **GA.MA Bella Tourmaline**: turmalina con iones, patines largos y casi 11.000 calificaciones al precio del punto medio. Si alisás **recién lavado**, la **Remington Wet2Straight** es la única pensada para eso. Con **pelo fino, teñido o dañado**, priorizá temperatura regulable: la **Philips 5000** es la que más lo cuida. Para **pelo largo o con volumen**, la **Revlon de placas anchas**. Para **uso intensivo o profesional**, la **BaByliss Nano Titanium**. Y para gastar lo mínimo, la **Allure**. El error a evitar: plancharte el pelo mojado con una planchita común, o comprarte una de temperatura única si tu pelo pide 140-160 °C.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor planchita de pelo en Argentina?`, answer: `Por ventas, la [GA.MA Bella Tourmaline](https://meli.la/27kZKkr): turmalina con iones y casi 11.000 calificaciones. Para uso profesional o pelo muy grueso, la [BaByliss Nano Titanium](https://meli.la/1yDCaxv); si querés cuidar al máximo el pelo, la [Philips 5000](https://meli.la/32mFdup) con sensor de temperatura.` },
+      { question: `¿Se puede planchar el pelo mojado o húmedo?`, answer: `Con una planchita común, no: el agua hierve contra la placa y quema el pelo. La única de esta guía diseñada para pelo húmedo es la [Remington Wet2Straight](https://meli.la/2NwKJ1Z), que tiene un modo dedicado para alisar sin pasar por el secador.` },
+      { question: `¿Qué placas son mejores: cerámica, turmalina o titanio?`, answer: `Depende del pelo. La cerámica reparte el calor parejo y alcanza para pelo fino o normal. La turmalina suma iones contra el frizz, ideal para pelo grueso o rebelde. El titanio es el material profesional: alisa en menos pasadas, pero castiga más si se usa a máxima temperatura en pelo fino. El metal pelado, como el de las económicas, es el escalón más básico.` },
+      { question: `¿A qué temperatura conviene planchar el pelo?`, answer: `Pelo fino, teñido o dañado: 140-160 °C. Pelo normal: 170-190 °C. Pelo grueso o muy rebelde: 200-230 °C. Si tu pelo pide temperaturas bajas, necesitás una planchita con regulador: las de temperatura única (como la GA.MA o la Allure) trabajan siempre en el rango alto.` },
+      { question: `¿Qué planchitas tienen apagado automático?`, answer: `De esta guía: la [Remington Wet2Straight](https://meli.la/2NwKJ1Z), la [Philips 5000](https://meli.la/32mFdup) y la [Revlon de placas anchas](https://meli.la/2Ld32AW). La GA.MA, la Allure y la BaByliss no lo declaran en su ficha.` },
+      { question: `¿Vale la pena una planchita profesional como la BaByliss?`, answer: `Solo si planchás muy seguido pelo grueso, largo o abundante, o trabajás de esto: el titanio y las placas anchas alisan en una sola pasada. Para planchado ocasional de pelo normal, cuesta 4 a 5 veces más que una [GA.MA](https://meli.la/27kZKkr) sin que esa diferencia se note en el resultado.` },
+      { question: `¿Por qué mi planchita me tira o me quema el pelo?`, answer: `Las causas típicas: placas metálicas básicas que enganchan el pelo, temperatura demasiado alta para tu tipo de pelo (el fino se plancha a 140-160 °C) o plancharlo húmedo con una planchita común. Si te pasa seguido, conviene una con placas de cerámica o turmalina y regulador de temperatura.` },
+    ],
+    internalLinks: [
+      { label: "Secador de pelo: cuál comprar (pilar del silo)", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+      { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más de cuidado personal",
   },

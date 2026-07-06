@@ -260,6 +260,39 @@ Candidatos que quedaron afuera (munición para satélites futuros del silo: cám
 
 Candidatos que quedaron afuera (munición para satélites futuros: powerbank solar / por marca / con display): Xiaomi 30.000 mAh 18W (MLA46347401, 188 reseñas, $99.317, 4.9 — ojo: la ficha ML declara 18 Ah, inconsistente con el título), Baseus Bipow 2 Pro display (MLA63803789, 23 reseñas, título 30.000 vs ficha 10 Ah, flojo), Soul 10.000 22W (MLA70029369, 128 reseñas, $33.900), Ugreen MagSafe 5.000 (MLA50200639, 6 reseñas), Alpina 10.000 c/cables (MLA65258195).
 
+## Cuidado Personal — Planchitas de pelo
+
+> Satélite `planchita-de-pelo` (silo `cuidado-personal`, STAGED 2026-07-06), 5ta guía del silo. Keyword del research nuevo: 18.100/mes, SD 11, SERP 100% tiendas sin editorial (hueco claro). Productos vía Chrome, rankeados por reviewCount. GA.MA verificada en gamaitalyonline.com.ar (patines 120x25mm) y Philips en philips.com.ar (ThermoShield, argán); Remington LATAM inaccesible, BaByliss/Revlon/Allure sin verificar (caso normal). Enlazado bidireccional con las 4 guías del silo. **Los 6 links de afiliado aplicados (2026-07-06), sin rechazos.**
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| GA.MA Italy Bella Tourmaline Ion | MLA44129880 | GA.MA Italy | 10974 | $48.009 | meli.la/27kZKkr | **usado** en `planchita-de-pelo` (#1, la más vendida) |
+| Remington Wet2Straight S27A | MLA44139566 | Remington | 8417 | $83.990 | meli.la/2NwKJ1Z | **usado** en `planchita-de-pelo` (#2, alisa en húmedo) |
+| BaByliss PRO Nano Titanium 9559 | MLA6079020 | BaBylissPRO | 8042 | $224.990 | meli.la/1yDCaxv | **usado** en `planchita-de-pelo` (#3, la profesional) |
+| Philips 5000 Series BHS515/00 | MLA44124334 | Philips | 1184 | $99.999 | meli.la/32mFdup | **usado** en `planchita-de-pelo` (#4, menos daño, ThermoShield verificado) |
+| Revlon RVST2182GT placas anchas | MLA47856504 | Revlon | 528 | $54.099 | meli.la/2Ld32AW | **usado** en `planchita-de-pelo` (#5, pelo largo/grueso) |
+| Allure PL1010AP | MLA24043222 | Allure | 1026 | $22.199 | meli.la/1KsUjCz | **usado** en `planchita-de-pelo` (#6, la más económica) |
+
+Candidatos que quedaron afuera (munición para satélites futuros: por marca GA.MA / mini de viaje / con vapor): GA.MA Bella Delicate Tourmaline (MLA50368716, 1.293 reseñas, $41.298, 4.6 con 4,41% de 1★, redundante con la Red Ion), GA.MA Elegance Keration rosa (MLA44127060), GA.MA Elegance Chia (MLA44119727), BaByliss PRO 4083 (MLA44129826), Bellissima B26 100 placas anchas (MLA44868110, 4.9), minis de viaje para flequillo (MLA37692030/MLA20902827), Lizze Extreme brasilera (MLA61795408, 4.9, premium).
+
+## Keywords validadas en reserva (research Ubersuggest 2026-07-06, AR)
+
+> Segunda tanda de research (la primera fue el xlsx de Juan, ya ejecutada completa). Validadas con `keyword_overview` (locId 2032 Argentina, es). Canibalización ya chequeada contra los slugs del sitio. **Elegida para ejecutar primero: `planchita de pelo`** (SERP hecho: 100% tiendas, cero editorial, hueco claro).
+
+| Keyword | Vol/mes | SD | Intención | Nota |
+| :-- | --: | --: | :-- | :-- |
+| planchita de pelo | 18.100 | 11 | Comercial | **EJECUTADA 2026-07-06** (guía `planchita-de-pelo`, ver sección Cuidado Personal) |
+| ventilador de techo | 33.100 | 13 | Transaccional | Estacional (pico 74.000 nov-dic); staged temprano tipo aire portátil |
+| termo | 27.100 | 19 | Transaccional | Estable, categoría argentina pura; abre ecosistema mate (puente con `pava-electrica`) |
+| smartwatch | 40.500 | 31 | Transaccional | Mayor volumen; hermana del silo tech ("reloj inteligente" 14.800/SD 38 = variante, misma guía) |
+| tostadora | 12.100 | 12 | Transaccional | Cocina, fácil |
+| parrilla eléctrica | 6.600 | 11 | Transaccional | Cocina, estable |
+| alarma para casa | 4.400 | 20 | Comercial | Hermana del silo seguridad; CPC $8,83 (intención de compra altísima) |
+| cerradura inteligente | 1.900 | 10 | Transaccional | Satélite chico de seguridad |
+| aspiradora | 33.100 | 20 | Transaccional | ⚠️ Riesgo medio: solapa en SERP con el cluster robot (manejable delegando al hub) |
+| ~~tensiómetro~~ | 14.800 | 66 | — | Descartada: SERP médica durísima |
+| ~~auriculares bluetooth~~ | 14.800 | 19 | Comercial | Descartada: canibaliza `auriculares-inalambricos` existente |
+
 ## Otros silos / categorías
 
 _(acá van los productos sobrantes de otras tandas que quieran guardarse para futuras guías)_

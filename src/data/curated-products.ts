@@ -47429,6 +47429,470 @@ Compralo si trabajás en movilidad con notebook o querés un único cargador par
       { question: "¿Vale la diferencia de precio?", answer: "Solo si vas a usar los 65 W (notebook o celular de carga ultra rápida) o necesitás la capacidad máxima. Para cargar solo el celular, un 10.000 o 20.000 mAh de marca cuesta la mitad o menos." },
     ],
   },
+
+  // ─── Planchitas de pelo — importadas via Chrome (jul 2026, API ML caída). Silo cuidado-personal (STAGED) ───
+  {
+    id: "MLA44129880",
+    title: "Planchita de pelo GA.MA Italy Bella Tourmaline Red Ion negra y roja",
+    canonicalName: "Planchita GA.MA Italy Elegance Bella Tourmaline Ion",
+    price: 48009,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_938261-MLA100008493439_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_938261-MLA100008493439_122025-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA44129880",
+    affiliateUrl: "https://meli.la/27kZKkr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 10974,
+    ratingBreakdown: { five: "82.64%", four: "12.36%", three: "2.87%", two: "0.7%", one: "1.43%" },
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "GA.MA Italy" },
+      { label: "Línea", value: "Elegance" },
+      { label: "Modelo", value: "Bella Tourmaline Ion" },
+      { label: "Placas", value: "Turmalina con emisión de iones" },
+      { label: "Patines", value: "Extra largos, 120 x 25 mm (verificado en fabricante)" },
+      { label: "Diseño", value: "Ultra slim (verificado en fabricante)" },
+      { label: "Calentamiento", value: "Quick Heat" },
+      { label: "Regulador de temperatura", value: "No (temperatura única)" },
+      { label: "Apagado automático", value: "No" },
+      { label: "Cable", value: "Giratorio" },
+      { label: "Extras", value: "Bloqueo de placas, resistente a los golpes, Auto Bi-Volt" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA44139566", "MLA24043222", "MLA6079020"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Planchita GA.MA Italy Bella Tourmaline Ion: placas de turmalina con iones, patines extra largos y la base de opiniones más grande de la categoría (casi 11.000). Contras honestas de reseñas: calienta por fuera y no tiene regulador de temperatura.",
+    seoTitle: "Planchita GA.MA Bella Tourmaline: la más vendida",
+    metaDescription: "Planchita GA.MA Italy Bella Tourmaline Ion: turmalina, iones y casi 11.000 calificaciones. Precio real en Argentina, pros, contras y veredicto.",
+    verdict: "La GA.MA Bella Tourmaline sirve si querés la planchita más probada del país al precio del punto medio: turmalina con iones para el frizz, patines extra largos que agarran más mechón, y casi 11.000 calificaciones que la respaldan. No sirve si necesitás regular la temperatura (es de temperatura única) o si buscás apagado automático: no tiene ninguna de las dos cosas.",
+    pros: [
+      "La más vendida de la categoría por lejos: casi 11.000 calificaciones con 4.7",
+      "Placas de turmalina con emisión de iones para reducir el frizz",
+      "Patines extra largos (120 x 25 mm, verificados en el sitio del fabricante): agarran más pelo por pasada",
+      "Marca con presencia y service real en Argentina",
+      "Bloqueo de placas y cable giratorio",
+    ],
+    cons: [
+      "Sin regulador de temperatura: trabaja a una única temperatura alta, un límite si tenés pelo fino o dañado",
+      "Calienta por fuera: la reseña crítica más completa avisa que hay que manejarla con cuidado para no quemarse",
+      "Sin apagado automático",
+      "Es más larga que lo habitual, detalle que la misma reseña marca (consecuencia de los patines extra largos)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Bella Tourmaline Ion de la línea Elegance es la planchita más vendida de MercadoLibre Argentina, con casi 11.000 calificaciones. Placas de turmalina con emisión de iones, diseño ultra slim y patines extra largos de 120 x 25 mm, verificados contra la página oficial de GA.MA Italy.
+
+## Lo bueno
+
+Los patines largos son su ventaja práctica: agarran más mechón por pasada, así que el planchado completo lleva menos tiempo. La turmalina con iones apunta al frizz, el punto que más valoran las reseñas en pelo grueso y rebelde ("si tenés los pelos duros, secos y chuncos, invertí tranquila en esta planchita", dice una opinión con 234 votos útiles). Detrás hay una marca con service real en el país y la base de opiniones más grande de la categoría.
+
+## La contra real
+
+Una reseña de 4 estrellas, escrita para ayudar a los que leen antes de comprar, resume los dos puntos: la carcasa calienta por fuera (hay que manejarla con cuidado) y es más larga de lo habitual. A eso se suma el límite técnico: no tiene regulador de temperatura, trabaja siempre a su única temperatura alta. Para pelo grueso es lo que se busca; para pelo fino o dañado, conviene una con regulador para trabajar a 140-160 °C. Tampoco tiene apagado automático.
+
+## Para quién sí y para quién no
+
+Comprala si querés la planchita probada por más gente del país, con turmalina e iones, especialmente si tu pelo es grueso o difícil. No la compres si tenés pelo fino o teñido que pide temperatura regulable: ahí la Remington o la Philips de nuestra guía la superan.`,
+    faq: [
+      { question: "¿La GA.MA Bella Tourmaline tiene regulador de temperatura?", answer: "No, trabaja a una única temperatura alta. Si necesitás regular (pelo fino, dañado o teñido), conviene un modelo con niveles de temperatura como la Remington S27a o la Philips 5000." },
+      { question: "¿Por qué es la más vendida?", answer: "Combina marca con service en Argentina, placas de turmalina con iones y precio de punto medio. Sus casi 11.000 calificaciones con 4.7 son la base de opiniones más grande de la categoría." },
+      { question: "¿Es verdad que calienta por fuera?", answer: "Sí, es la contra más señalada en las reseñas: la carcasa toma temperatura y hay que manejarla con cuidado para no rozarse la piel." },
+      { question: "¿Sirve para pelo grueso y con frizz?", answer: "Es su punto fuerte según las reseñas: la turmalina con iones y los patines extra largos rinden especialmente en pelo grueso, seco o rebelde." },
+    ],
+  },
+  {
+    id: "MLA44139566",
+    title: "Planchita Remington S27a Cabello Húmedo Seco 230ºc",
+    canonicalName: "Planchita Remington Wet2Straight S27A (húmedo y seco)",
+    price: 83990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_829292-MLA99506435884_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_829292-MLA99506435884_112025-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA44139566",
+    affiliateUrl: "https://meli.la/2NwKJ1Z",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 8417,
+    ratingBreakdown: { five: "84.5%", four: "10.79%", three: "2.8%", two: "0.59%", one: "1.32%" },
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Remington" },
+      { label: "Línea", value: "Wet2Straight" },
+      { label: "Modelo", value: "S27A" },
+      { label: "Placas", value: "Cerámica" },
+      { label: "Apta cabello húmedo y seco", value: "Sí (modo húmedo dedicado)" },
+      { label: "Temperatura máxima", value: "230 °C" },
+      { label: "Pantalla", value: "LCD" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Funciones", value: "Bloqueo de temperatura, bloqueo de placas, sensor inteligente, cuidado iónico" },
+      { label: "Cable", value: "Giratorio, 1,8 m" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA44129880", "MLA44124334", "MLA47856504"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Planchita Remington Wet2Straight S27A: la única de la guía diseñada para alisar con el pelo húmedo, con pantalla LCD, apagado automático y aviso sonoro. Más de 8.400 calificaciones con 4.8. Página del fabricante para la región inaccesible al momento del research.",
+    seoTitle: "Remington S27A: ¿alisar el pelo húmedo funciona?",
+    metaDescription: "Planchita Remington Wet2Straight S27A: alisa con pelo húmedo, LCD, apagado automático y 4.8 en más de 8.400 calificaciones. Pros y contras.",
+    verdict: "La Remington S27A sirve si querés saltarte el secador: su modo húmedo está diseñado para alisar el pelo sin secarlo antes, algo que con una planchita común daña el pelo. Suma pantalla LCD, temperatura regulable, aviso sonoro y apagado automático. No sirve si nunca vas a usar el modo húmedo: pagás ese diferencial, y una reseña honesta reconoce que aun teniéndolo prefiere usarla en seco.",
+    pros: [
+      "Modo húmedo dedicado: alisa el pelo sin pasar por el secador, la función que la distingue de todas",
+      "Pantalla LCD con temperatura regulable: reseñas con pelo fino la usan a 140-160 °C",
+      "Apagado automático y aviso sonoro cuando alcanza la temperatura",
+      "4.8 en más de 8.400 calificaciones, con bloqueo de temperatura para no moverla sin querer",
+      "Una reseña la eligió después de quemar planchitas de otra marca y destaca la durabilidad",
+    ],
+    cons: [
+      "Más cara que las planchitas comunes de su mismo rango de reseñas",
+      "El modo húmedo genera vapor al evaporar el agua, algo que puede impresionar la primera vez; una reseña prefiere seguir usándola en seco",
+      "Página del fabricante para la región inaccesible al momento del research (specs sostenidas con ficha ML y reseñas)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Remington S27A pertenece a la línea Wet2Straight: planchitas diseñadas para alisar el pelo húmedo, directo después del lavado, sin pasar por el secador. Con más de 8.400 calificaciones y 4.8, es la segunda planchita con más respaldo del catálogo argentino.
+
+## Lo bueno
+
+El modo húmedo es la diferencia real: con una planchita común, plancharse el pelo mojado lo quema (el agua hierve contra la placa); esta tiene un modo dedicado que lo contempla, activable manteniendo presionado el botón de encendido. Fuera de eso, es una planchita completa: pantalla LCD, temperatura regulable (las reseñas con pelo fino la usan a 140-160 °C), aviso sonoro cuando está lista, bloqueo de temperatura para no cambiarla sin querer y apagado automático por seguridad.
+
+## La contra real
+
+El precio: cuesta bastante más que la GA.MA más vendida, y ese diferencial paga sobre todo el modo húmedo. Si no lo vas a usar, hay opciones más baratas que cumplen igual. Una reseña sincera lo dice: aun con la función, en lo personal prefiere usarla en seco. Y la página regional de Remington no estuvo accesible durante el research, así que las specs se sostienen con la ficha técnica de ML y las reseñas.
+
+## Para quién sí y para quién no
+
+Comprala si tu rutina es lavar y planchar, y querés ahorrarte el paso del secador sin quemar el pelo. No la compres si siempre planchás en seco: la GA.MA te da la base de opiniones más grande por menos plata.`,
+    faq: [
+      { question: "¿Se puede alisar el pelo mojado con la Remington S27A?", answer: "Húmedo, sí: tiene un modo dedicado (manteniendo presionado el botón de encendido) diseñado para eso. Con una planchita común nunca hay que plancharse el pelo mojado: lo quema." },
+      { question: "¿Tiene apagado automático?", answer: "Sí, además de bloqueo de temperatura, bloqueo de placas y aviso sonoro cuando llega a la temperatura elegida." },
+      { question: "¿Qué temperatura conviene usar?", answer: "Depende del pelo: reseñas con pelo fino la usan a 140-160 °C con buen resultado. El máximo es 230 °C, pensado para pelo muy grueso o rebelde." },
+      { question: "¿Vale la diferencia de precio contra una planchita común?", answer: "Solo si vas a usar el modo húmedo o valorás los extras de seguridad (LCD, apagado automático, bloqueos). Si planchás siempre en seco, una GA.MA cumple por menos." },
+    ],
+  },
+  {
+    id: "MLA6079020",
+    title: "Planchita de pelo BaBylissPRO Nano Titanium 9559",
+    canonicalName: "Planchita BaBylissPRO Nano Titanium 9559",
+    price: 224990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_857948-MLA99963813379_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_857948-MLA99963813379_112025-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA6079020",
+    affiliateUrl: "https://meli.la/1yDCaxv",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 8042,
+    ratingBreakdown: { five: "89.03%", four: "6.98%", three: "1.74%", two: "0.55%", one: "1.7%" },
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "BaBylissPRO" },
+      { label: "Línea", value: "Nano Titanium" },
+      { label: "Modelo", value: "9559 (BABNT9559)" },
+      { label: "Placas", value: "Nano titanio, 3,81 cm de ancho" },
+      { label: "Temperatura", value: "Regulable, 150 °C a 232 °C" },
+      { label: "Niveles de temperatura", value: "5" },
+      { label: "Velocidad de calentamiento", value: "10 segundos" },
+      { label: "Punta fría", value: "Sí" },
+      { label: "Cable", value: "Giratorio, 3 m" },
+      { label: "Apagado automático", value: "Sin dato en ficha" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA44129880", "MLA47856504", "MLA44124334"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Planchita BaBylissPRO Nano Titanium 9559: la profesional de las peluquerías, con placas de titanio de 3,81 cm, 232 °C y cable de 3 metros. Más de 8.000 calificaciones. Contra real de reseñas: la pintura de las placas se puede desgastar con el uso.",
+    seoTitle: "BaByliss Nano Titanium: ¿vale lo que sale?",
+    metaDescription: "Planchita BaBylissPRO Nano Titanium 9559: titanio, 232 °C, placas anchas y 4.8 en más de 8.000 calificaciones. Precio real, pros y contras.",
+    verdict: "La BaByliss Nano Titanium sirve si querés la planchita de las peluquerías: titanio que alisa en una sola pasada hasta el pelo más grueso y abundante, con 5 niveles de temperatura y cable de 3 metros. No sirve si tu presupuesto es el de una planchita hogareña: cuesta 4 a 5 veces más que la GA.MA más vendida, y para pelo normal esa diferencia es difícil de justificar.",
+    pros: [
+      "Placas de nano titanio de 3,81 cm: alisa en una sola pasada incluso pelo muy grueso y largo, según reseñas",
+      "5 niveles de temperatura (150 °C a 232 °C) y calentamiento en 10 segundos",
+      "4.8 en más de 8.000 calificaciones, con 89% de 5 estrellas",
+      "Punta fría para maniobrar y cable giratorio de 3 metros, comodidad de uso profesional",
+      "La marca estándar de las peluquerías",
+    ],
+    cons: [
+      "El precio: 4 a 5 veces una planchita hogareña de marca",
+      "Una reseña detallada reporta que la pintura de la placa se despintó levemente donde más roza el pelo, con poco uso",
+      "La superficie externa también calienta: riesgo de rozarse la piel, avisan reseñas",
+      "La ficha no declara apagado automático",
+    ],
+    articleBody: `## Qué es y para quién
+
+La 9559 de BaBylissPRO es la planchita que ves en las peluquerías argentinas: placas de nano titanio de 3,81 cm (más anchas que la mayoría), temperatura regulable en 5 niveles hasta 232 °C y cable de 3 metros. Es para quien plancha mucho pelo, muy seguido, o directamente trabaja de esto.
+
+## Lo bueno
+
+El titanio transfiere calor de manera más pareja y agresiva que la cerámica, y las placas anchas cubren más mechón: el resultado que repiten las reseñas es el alisado en una sola pasada, incluso con mucha cantidad de cabello y bastante largo. Calienta en 10 segundos, la punta fría permite maniobrar sin quemarse y el cable de 3 metros da libertad de trabajo. Con 89% de calificaciones de 5 estrellas sobre más de 8.000, su reputación está a la altura del precio.
+
+## La contra real
+
+El precio es la obvia: alrededor de 4 a 5 veces una GA.MA. Pero hay dos más finas, salidas de una reseña comparativa muy útil: la pintura de la placa puede despintarse levemente donde más roza el pelo (con poco uso, reporta el comprador) y la superficie externa calienta, con riesgo de quemarse si la tocás sin querer. El mismo comprador, que también tiene una GA.MA, concluye que las ventajas reales de la BaByliss son el ancho de placa y los 230 grados.
+
+## Para quién sí y para quién no
+
+Comprala si planchás a diario pelo grueso, largo o abundante, o si trabajás de peluquería: la única pasada por mechón compensa el precio en tiempo y en salud del pelo. No la compres para uso ocasional en pelo normal: la diferencia con una buena planchita hogareña no la vas a amortizar.`,
+    faq: [
+      { question: "¿Qué diferencia al titanio de la cerámica en una planchita?", answer: "El titanio calienta más rápido y transfiere el calor de forma más pareja y agresiva: alisa en menos pasadas, ideal para pelo grueso o rebelde. La cerámica es más gentil y suele bastar para pelo fino o normal." },
+      { question: "¿Por qué la BaByliss cuesta tanto más que otras planchitas?", answer: "Es un equipo de línea profesional: placas de nano titanio más anchas (3,81 cm), 5 niveles de temperatura hasta 232 °C, punta fría y cable de 3 metros. Pagás rendimiento de peluquería; para uso hogareño ocasional es más de lo necesario." },
+      { question: "¿Tiene alguna contra documentada?", answer: "Una reseña detallada reporta que la pintura de la placa se despintó levemente donde más roza el pelo, y que la superficie externa calienta. Ninguna de las dos le impidió recomendarla, pero conviene saberlo a este precio." },
+      { question: "¿Sirve para pelo fino?", answer: "Sí, usándola en los niveles bajos (arranca en 150 °C). Pero su punto fuerte es el pelo grueso y abundante; para pelo fino, una planchita con cerámica y regulador cuesta mucho menos y alcanza." },
+    ],
+  },
+  {
+    id: "MLA44124334",
+    title: "Planchita de pelo Philips 5000 Series BHS515/00 blanca",
+    canonicalName: "Planchita Philips 5000 Series BHS515/00",
+    price: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_778161-MLA99587841318_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_778161-MLA99587841318_122025-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA44124334",
+    affiliateUrl: "https://meli.la/32mFdup",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1184,
+    ratingBreakdown: { five: "88.68%", four: "7.26%", three: "1.86%", two: "0.68%", one: "1.52%" },
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Philips" },
+      { label: "Línea", value: "5000 Series" },
+      { label: "Modelo", value: "BHS515/00" },
+      { label: "Tecnología", value: "ThermoShield: sensor que mantiene temperatura constante (verificado en philips.com.ar)" },
+      { label: "Placas", value: "Suaves, con infusión de aceite de argán (verificado en fabricante)" },
+      { label: "Cuidado iónico", value: "Sí, para brillo y menos frizz" },
+      { label: "Regulador de temperatura", value: "Sí" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Funciones extra", value: "Onduladora, bloqueo de placas, sensor inteligente" },
+      { label: "Incluye", value: "Funda térmica" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA44139566", "MLA44129880", "MLA6079020"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Planchita Philips 5000 Series: tecnología ThermoShield con sensor de temperatura constante para reducir el daño por calor, placas con aceite de argán y apagado automático. Specs verificadas en philips.com.ar. 4.8 en más de 1.100 calificaciones.",
+    seoTitle: "Philips 5000 Series: ¿la planchita que menos daña?",
+    metaDescription: "Planchita Philips 5000 BHS515: ThermoShield contra el daño por calor, aceite de argán y apagado automático. Precio real, pros, contras y veredicto.",
+    verdict: "La Philips 5000 sirve si tu prioridad es dañar lo menos posible el pelo: su sensor ThermoShield mantiene la temperatura constante de raíz a punta (verificado en la página de Philips Argentina) y las reseñas repiten que no tira el pelo. No sirve si buscás precio: cuesta el doble que la GA.MA más vendida, con una base de opiniones mucho más chica.",
+    pros: [
+      "ThermoShield verificado en philips.com.ar: un sensor regula la temperatura para reducir el daño por calor",
+      "Las reseñas repiten el mismo elogio: se desliza suave y no tira el pelo",
+      "Placas con infusión de aceite de argán y cuidado iónico para el brillo",
+      "Apagado automático, regulador de temperatura y funda térmica incluida",
+      "Puntas redondeadas que también permiten ondular",
+    ],
+    cons: [
+      "El doble de precio que la GA.MA más vendida",
+      "Base de calificaciones más chica que las líderes (1.184 contra miles)",
+      "El claim de Philips de alisado 50% más rápido es contra un modelo propio viejo (HP8361), según la letra chica del propio fabricante",
+    ],
+    articleBody: `## Qué es y para quién
+
+La BHS515/00 de la 5000 Series es la apuesta de Philips al cuidado del pelo: en vez de más temperatura, un sensor (ThermoShield) que la mantiene constante de raíz a punta para reducir el daño por calor. Lo verificamos contra la página oficial de Philips Argentina, junto con las placas con aceite de argán y el cuidado iónico.
+
+## Lo bueno
+
+Las reseñas coinciden en el punto que la define: se desliza suave y no tira el pelo. Una compradora con pelo largo cuenta que pasó de 20 minutos por planchado a 5. Suma detalles de uso diario que las económicas no tienen: apagado automático, bloqueo de placas, funda térmica para guardarla caliente y puntas redondeadas que permiten ondular además de alisar.
+
+## La contra real
+
+El precio, alrededor del doble que la GA.MA más vendida, con una base de opiniones bastante más chica (1.184). Y una nota de honestidad sobre el marketing: el "alisado 50% más rápido" que promete Philips es contra un modelo propio anterior (HP8361), como aclara la letra chica del propio fabricante; no significa que sea 50% más rápida que cualquier otra planchita del mercado.
+
+## Para quién sí y para quién no
+
+Comprala si planchás seguido y te preocupa el daño acumulado: el control de temperatura y las placas suaves son de lo mejor de la categoría en ese frente. No la compres si planchás cada tanto y el precio manda: la GA.MA hace el trabajo por la mitad.`,
+    faq: [
+      { question: "¿Qué es la tecnología ThermoShield de Philips?", answer: "Un sensor que regula la temperatura para mantenerla constante de la raíz a la punta, reduciendo el daño por calor. Está verificado en la página oficial de Philips Argentina." },
+      { question: "¿Es verdad que alisa 50% más rápido?", answer: "El claim es real pero con letra chica del propio fabricante: es contra un modelo Philips anterior (HP8361), no contra cualquier planchita del mercado." },
+      { question: "¿Sirve para ondular además de alisar?", answer: "Sí, sus puntas redondeadas lo permiten, y la ficha la lista también como onduladora. Varias reseñas la usan para las dos cosas." },
+      { question: "¿Qué trae en la caja?", answer: "La planchita y una funda térmica que permite guardarla aunque siga caliente, útil para viajes." },
+    ],
+  },
+  {
+    id: "MLA47856504",
+    title: "Plancha De Pelo Revlon 230° Placas 5.08Cm. Recubrimiento Titanio - plateada glitter",
+    canonicalName: "Plancha Revlon RVST2182GT de placas anchas (5 cm)",
+    price: 54099,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_933763-MLA99447946362_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_933763-MLA99447946362_112025-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA47856504",
+    affiliateUrl: "https://meli.la/2Ld32AW",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 528,
+    ratingBreakdown: { five: "88.26%", four: "7.95%", three: "2.08%", two: "0.95%", one: "0.76%" },
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Revlon" },
+      { label: "Modelo", value: "RVST2182GT" },
+      { label: "Placas", value: "Recubrimiento de titanio, 5,08 cm de ancho (las más anchas de la guía)" },
+      { label: "Temperatura máxima", value: "230 °C, regulable" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Funciones extra", value: "Onduladora, buclera" },
+      { label: "Cable", value: "Giratorio" },
+      { label: "Color", value: "Plateado con glitter" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA6079020", "MLA44129880", "MLA24043222"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Plancha Revlon de placas extra anchas (5,08 cm) con titanio y 230 °C: la especialista en pelo largo, grueso o mucho volumen, a una fracción del precio de la BaByliss. Dato de reseñas: es plateada con glitter, aunque en las fotos parezca gris lisa.",
+    seoTitle: "Plancha Revlon placas anchas: ¿la mejor para pelo largo?",
+    metaDescription: "Plancha Revlon RVST2182GT: placas de titanio de 5 cm, 230 °C y apagado automático. La opción para pelo largo o grueso. Precio real, pros y contras.",
+    verdict: "La Revlon de placas anchas sirve si tenés mucho pelo: sus 5,08 cm de placa (un tercio más anchas que las comunes) cubren más mechón por pasada, y una reseña reporta planchado en la mitad de tiempo. Titanio y 230 °C como la BaByliss, a una fracción del precio. No sirve si buscás discreción estética: es plateada con brillos, aunque en las fotos parezca gris lisa, como avisan las reseñas.",
+    pros: [
+      "Placas extra anchas de 5,08 cm: menos pasadas y menos tiempo en pelo largo, grueso o con volumen",
+      "Recubrimiento de titanio y 230 °C regulables, la receta de la BaByliss a fracción del precio",
+      "Apagado automático de serie",
+      "4.8 con el porcentaje de 1 estrella más bajo de la guía (0,76%)",
+      "También sirve para ondular, según ficha y reseñas",
+    ],
+    cons: [
+      "Es plateada con glitter aunque en fotos parezca gris lisa: más de una reseña se sorprendió al recibirla",
+      "Base de calificaciones más chica de la guía (528)",
+      "Las placas anchas son menos prácticas para flequillos, pelo corto o retoques finos",
+      "Modelo sin página verificable del fabricante al momento del research",
+    ],
+    articleBody: `## Qué es y para quién
+
+La RVST2182GT de Revlon es una plancha de placas extra anchas: 5,08 cm contra los 2,5-3 cm de una planchita común. Esa diferencia geométrica es toda su propuesta: más pelo por pasada, menos pasadas totales. Con titanio y 230 °C regulables, es la especialista en pelo largo, grueso o con mucho volumen.
+
+## Lo bueno
+
+La matemática funciona, y una reseña la confirma: "calienta súper rápido y me planché en la mitad de tiempo de lo que suelo planchar". Repite la receta técnica de la BaByliss profesional (titanio + 230 °C) por una fracción del precio, y suma apagado automático, algo que la BaByliss no declara. Su desglose de calificaciones es notable: solo 0,76% de 1 estrella, el más bajo de nuestra guía.
+
+## La contra real
+
+La más divertida de toda la categoría: es plateada con glitter, aunque en las fotos del listado parezca gris lisa. Más de una compradora se sorprendió al abrir la caja ("me llegó con glitter cual piel de Edward Cullen", dice una reseña que igual le puso 5 estrellas). Fuera de la estética: las placas anchas son incómodas para flequillos, pelo corto y retoques finos, y su base de 528 calificaciones es la más chica de la guía.
+
+## Para quién sí y para quién no
+
+Comprala si tenés pelo largo, grueso o abundante y el planchado te lleva una eternidad: es el formato pensado exactamente para eso. No la compres si tenés pelo corto o planchás por zonas chicas: una placa común es más maniobrable.`,
+    faq: [
+      { question: "¿Para qué sirve que las placas sean más anchas?", answer: "Cubren más mechón por pasada: en pelo largo, grueso o con volumen, el planchado completo lleva menos pasadas y menos tiempo. Una reseña reporta la mitad de tiempo que con su planchita anterior." },
+      { question: "¿Es gris o con brillos?", answer: "Plateada con glitter, aunque en las fotos parezca gris lisa. Varias reseñas lo señalan con humor; si la estética te importa, tenelo en cuenta." },
+      { question: "¿Sirve para pelo corto o flequillo?", answer: "No es lo ideal: las placas de 5 cm son poco maniobrables para zonas chicas. Para eso conviene una planchita común o angosta." },
+      { question: "¿Tiene apagado automático?", answer: "Sí, de serie, un plus de seguridad que en esta categoría no todas traen." },
+    ],
+  },
+  {
+    id: "MLA24043222",
+    title: "Planchita De Cabello Profesional Allure PL1010AP Color Azul",
+    canonicalName: "Planchita Allure PL1010AP",
+    price: 22199,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_984916-MLA107652957347_022026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_984916-MLA107652957347_022026-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA24043222",
+    affiliateUrl: "https://meli.la/1KsUjCz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1026,
+    ratingBreakdown: { five: "83.04%", four: "11.6%", three: "2.73%", two: "0.68%", one: "1.95%" },
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Allure" },
+      { label: "Modelo", value: "PL1010AP" },
+      { label: "Placas", value: "Metálicas" },
+      { label: "Iónica", value: "Sí, según ficha" },
+      { label: "Regulador de temperatura", value: "No" },
+      { label: "Apagado automático", value: "No" },
+      { label: "Cable", value: "Giratorio" },
+      { label: "Aro para colgar", value: "Sí" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA44129880", "MLA47856504", "MLA44139566"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Planchita Allure PL1010AP: la económica de la categoría, a menos de la mitad que las de marca. Cumple para uso hogareño según más de 1.000 calificaciones, con contras claras: placas metálicas, sin regulador y sin corte automático de calor.",
+    seoTitle: "Planchita Allure: la barata, ¿cumple?",
+    metaDescription: "Planchita Allure PL1010AP: la económica con más de 1.000 calificaciones. Qué esperar por este precio, pros, contras reales y veredicto honesto.",
+    verdict: "La Allure PL1010AP sirve si querés una planchita funcional gastando lo mínimo: calienta rápido, plancha bien y no tira el pelo, según más de 1.000 calificaciones. No sirve para uso intensivo o profesional: una reseña honesta lo delimita bien, con placas metálicas, materiales que se sienten básicos, sin regulador de temperatura y sin corte automático de calor.",
+    pros: [
+      "El precio: menos de la mitad que las planchitas de marca",
+      "Más de 1.000 calificaciones con 4.7: la económica más probada",
+      "Calienta rápido y no tira el pelo, los dos elogios que más se repiten",
+      "Cable giratorio y aro para colgar",
+    ],
+    cons: [
+      "Placas metálicas: el escalón más básico, menos gentil con el pelo que cerámica o turmalina",
+      "Sin regulador de temperatura y sin corte automático: calienta siempre al máximo hasta que la desenchufás",
+      "Los materiales se sienten básicos (una reseña de 4 estrellas: da la sensación de que se podría derretir, aunque cumple)",
+      "Tironea un poco en algunas pasadas, según la misma reseña crítica",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Allure PL1010AP es la puerta de entrada a las planchitas: menos de la mitad de precio que las de marca, con lo esencial para un planchado hogareño. Más de 1.000 calificaciones con 4.7 dicen que, para ese rol, cumple.
+
+## Lo bueno
+
+Hace el trabajo: calienta rápido (unos 3 minutos hasta su máximo, según una reseña), plancha bien y el elogio más repetido es que no tira el pelo, dejándolo suave y brilloso. Para planchados ocasionales o para un primer aparato, la relación precio-resultado es difícil de discutir.
+
+## La contra real
+
+Una reseña de 4 estrellas la radiografía completa y con honestidad: el material no es el mejor (da la sensación de que se podría derretir, aunque no pasa), tironea un poco en algunas pasadas, no tiene regulador de temperatura y no corta el calor sola, hay que desenchufarla. Su conclusión es el veredicto justo: para uso hogareño muy buena, para uso profesional no la recomienda. Las placas metálicas son también el escalón más básico de la categoría, menos gentil que cerámica o turmalina para planchado frecuente.
+
+## Para quién sí y para quién no
+
+Comprala si planchás cada tanto y querés gastar lo mínimo, o como primera planchita. No la compres si planchás todos los días (el metal castiga más el pelo con el uso frecuente) ni si necesitás regular temperatura para pelo fino o dañado.`,
+    faq: [
+      { question: "¿La planchita Allure es buena?", answer: "Para uso hogareño ocasional, sí: calienta rápido, plancha bien y no tira el pelo, con 4.7 en más de 1.000 calificaciones. Para uso intensivo o profesional, una reseña honesta no la recomienda, y coincidimos: ahí conviene invertir más." },
+      { question: "¿Tiene regulador de temperatura?", answer: "No, calienta siempre a su temperatura máxima y no corta el calor sola: hay que desenchufarla al terminar. Es parte de lo que explica el precio." },
+      { question: "¿Qué diferencia hay con una planchita de marca?", answer: "Las placas (metálicas contra cerámica o turmalina, que cuidan más el pelo), el regulador de temperatura, el apagado automático y la durabilidad esperable. Para planchado ocasional la diferencia se nota poco; para uso diario, bastante." },
+      { question: "¿Por qué tiene tantas opiniones si es tan barata?", answer: "Justamente por el precio: es la económica más elegida de la categoría, y su 4.7 sostenido en más de 1.000 calificaciones muestra que para su rol cumple." },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
