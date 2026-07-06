@@ -6737,19 +6737,19 @@ export const guides: Guide[] = [
   {
     slug: "masajeador-pies",
     category: "masajeadores",
-    title: "Masajeador de pies: cuál comprar si estás mucho de pie",
-    seoTitle: "Masajeador de pies: cuál comprar en Argentina (2026)",
+    title: "Mejores masajeadores de pies con calor en Argentina (2026)",
+    seoTitle: "Mejores masajeadores de pies con calor en Argentina (2026)",
     metaDescription:
-      "Comparativa de masajeadores de pies en MercadoLibre Argentina. Con calor, compresión y rodillos: cuáles funcionan según cuánto estás de pie.",
+      "Los mejores masajeadores de pies con calor y vibración en Argentina. Van de $15.000 a $80.000: cuál conviene según cuánto estás de pie.",
     ogTitle: "Masajeador de pies: cuál comprar si estás mucho de pie (2026)",
     ogDescription:
       "Probé masajeadores de pies con calor, compresión y rodillos. Cuál comprar si trabajás parado todo el día.",
     h1: "Masajeador de pies: cuál comprar si estás mucho de pie",
     publishedDate: "2026-05-01",
-    updatedDate: "2026-05-01",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
-      "Si trabajás de pie todo el día, esto te va a interesar. Hay masajeadores de pies desde $15.000 hasta $80.000. No necesitás el más caro para que funcione bien.",
+      "Si trabajás de pie todo el día, esto te va a interesar. Los mejores masajeadores de pies vienen con calor y van de $15.000 a $80.000. No necesitás el más caro para que funcione bien.",
       "Lo que sí necesitás es uno con calor. Los probé con y sin calor, y la diferencia es enorme. Con calor, el alivio se siente en los primeros 5 minutos. Sin calor, es como meter los pies en algo que vibra un poco. Funciona, pero mucho menos.",
     ],
     sections: [
@@ -7774,16 +7774,16 @@ export const guides: Guide[] = [
   {
     slug: "pava-electrica-acero-inoxidable",
     category: "pavas-electricas",
-    title: "Pava eléctrica acero inoxidable: ¿cuál comprar en 2026?",
-    seoTitle: "Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?",
+    title: "Pava eléctrica acero inoxidable: cuál es la mejor (2026)",
+    seoTitle: "Pava eléctrica acero inoxidable: cuál es la mejor (2026)",
     metaDescription:
-      "Comparé 9 pavas de acero desde $17.340. El acero dura 3-4 años sin tomar olor. Kanji a $17K y Peabody DK1850 a $56K son las mejores opciones.",
+      "La mejor pava eléctrica de acero inoxidable es la Peabody DK1850 ($55.999): acero completo y 4 preset. La Kanji a $17.340, la más barata. Comparé 9 pavas.",
     ogTitle: "Pava de Acero Inoxidable — Comparativa Durabilidad 2026",
     ogDescription:
       "9 pavas de acero probadas. El acero no toma olor después de 2 años. Kanji $17K (budget) y Peabody DK1850 $56K (premium) son las mejores compras.",
     h1: "Pava Eléctrica Acero Inoxidable: ¿Cuál Comprar en 2026?",
     publishedDate: "2026-06-13",
-    updatedDate: "2026-06-13",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
       "Usé nueve pavas de acero durante un mes. Los precios van de $17.340 a $93.600. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años.",
@@ -7792,6 +7792,7 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp", alt: "Pava eléctrica Philips HD9350 de acero inoxidable SUS304, 1.7 litros", imageSize: "hero" },
+      { type: "p", content: "La mejor pava eléctrica de acero inoxidable en 2026 es la Peabody PE-DK1850: acero completo, 4 preset de temperatura y precio medio ($55.999). Si el presupuesto es la prioridad, la Kanji KJH-PE15002M a $17.340 es la más barata con interior de acero. La Oster 8970 hace lo mismo que la Peabody y cuesta $37.601 más." },
       { type: "h2", title: "Las nueve pavas de acero" },
       {
         type: "table",
@@ -7946,19 +7947,20 @@ export const guides: Guide[] = [
     slug: "atma-vs-peabody-freidora-de-aire",
     category: "freidoras-de-aire",
     title: `Atma vs Peabody: ¿Cuál freidora de aire elegir en 2026?`,
-    seoTitle: `Atma vs Peabody: cuál freidora de aire conviene en Argentina`,
-    metaDescription: `Atma vs Peabody freidora de aire: comparativa de 6 modelos, potencia, servicio técnico y precios en Argentina 2026. Cuál conviene según dónde vivís.`,
-    ogTitle: `Atma vs Peabody freidora de aire: la comparativa completa para 2026`,
-    ogDescription: `Las dos marcas nacionales más vendidas, comparadas modelo por modelo: potencia, servicio técnico, garantía y precios reales en MercadoLibre Argentina 2026.`,
-    h1: `Atma vs Peabody: ¿cuál freidora de aire conviene comprar en Argentina?`,
+    seoTitle: `¿Atma o Peabody? Cuál freidora de aire es mejor en Argentina`,
+    metaDescription: `Freidora de aire: ¿Atma o Peabody? Comparamos 6 modelos por potencia, servicio técnico y precios 2026. La respuesta corta: depende de dónde vivís.`,
+    ogTitle: `¿Atma o Peabody? La comparación de freidoras de aire, modelo por modelo`,
+    ogDescription: `Las dos marcas nacionales, comparadas con datos: 6 modelos, potencia, red de service, garantía de 2 años y precios reales en MercadoLibre. Cuál conviene según dónde vivís.`,
+    h1: `¿Atma o Peabody? Cuál freidora de aire conviene comprar en Argentina`,
     publishedDate: "2026-05-09",
-    updatedDate: "2026-05-26",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
       `Cuando te ponés a buscar freidora de aire en Argentina, rápido aparecen Atma y Peabody. Las dos son marcas nacionales, las dos tienen garantía que podés reclamar en el país, y las dos metieron buena plata en investigación. Pero no son iguales, y dependiendo de dónde vivís, una puede convenirte mucho más que la otra.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_785037-MLA99555415684_122025-F.webp", alt: `Comparativa freidora de aire Atma vs Peabody Argentina`, imageSize: "hero" },
+      { type: "p", content: `Entre Atma y Peabody, la mejor freidora de aire depende de dónde vivís. Si estás en el interior, conviene Atma: tiene red de service en casi todo el país. Si estás en AMBA y priorizás diseño, pantalla táctil y visor 360°, conviene Peabody. Las dos son marcas nacionales, con 2 años de garantía y precios parecidos ($45.000–$70.000 según modelo). Hay otras marcas que compiten bien; el panorama completo está en nuestra [guía de mejores freidoras de aire en Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina). Acá comparamos estas dos a fondo, modelo por modelo.` },
       { type: "h2", title: `¿Cuál conviene comprar, Atma o Peabody?` },
       { type: "p", content: `Si vivís en el interior del país y priorizás servicio técnico cercano, Atma. Si estás en AMBA y te importa más el diseño y las funciones (pantalla táctil, visor 360°), Peabody. Las dos tienen 2 años de garantía y precios similares ($45.000–$70.000 según modelo). Las dos cocinan bien. La diferencia real está en dónde vivís y qué priorizás.` },
       { type: "h2", title: `Tabla comparativa: Atma vs Peabody` },
@@ -8468,18 +8470,19 @@ export const guides: Guide[] = [
   {
     slug: "mejores-freidoras-de-aire-doble-canasta",
     category: "freidoras-de-aire",
-    title: `Freidoras con doble canasta: ¿Realmente necesitás dos cestas?`,
-    seoTitle: `Freidoras con doble canasta: ¿Realmente necesitás dos cestas?`,
-    metaDescription: `Freidoras de aire con doble canasta en Argentina 2026: Atma, Peabody, Philips y Oster comparadas. Cuándo conviene tener dos cestas y cuándo no vale la pena.`,
+    title: `Freidora de aire doble canasta: ¿vale la pena? (2026)`,
+    seoTitle: `Freidora de aire doble canasta: ¿vale la pena? (2026)`,
+    metaDescription: `Vale la pena si cocinás para 5 o más o querés dos platos a la vez; para 2-3 personas alcanza una simple. Atma, Peabody, Philips y Oster comparadas.`,
     h1: `Freidoras con doble canasta: ¿Vale la pena o es marketing?`,
     publishedDate: "2026-05-30",
-    updatedDate: "2026-05-30",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
       `Cuando empezaron a salir freidoras con doble canasta, la propaganda fue obvia: "Cocina dos cosas a la vez". Suena genial. Carne en una, papas en la otra. Fin de historia, todos felices. Pero la realidad es un poco más complicada. Hay doble canasta y hay doble piso, y no es lo mismo. Y no siempre necesitás una.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_991646-MLA100053575793_122025-F.webp", alt: `Mejores freidoras de aire con doble canasta Argentina`, imageSize: "hero" },
+      { type: "p", content: `Una freidora de aire con doble canasta vale la pena si cocinás para 5 o más personas, o si querés dos platos distintos listos al mismo tiempo. Para hogares de 2-3 personas, o con presupuesto ajustado, una freidora simple de 5-6 litros cumple igual por menos plata. Lo que sí cambia la experiencia es el tipo (canastas laterales o pisos apilados) y si el aire se regula de forma independiente. Eso es lo que vemos abajo, modelo por modelo.` },
       { type: "h2", title: `Diferencia crucial: Doble canasta vs doble piso` },
       { type: "p", content: `Esto es lo primero que tenés que entender.` },
       { type: "p", content: `Doble canasta (Atma, Oster): Dos cestas colocadas una al lado de la otra, lateralmente. Ocupan espacio horizontal. Cada una recibe aire directo del ventilador, pero compiten por distribución. Los modelos mejores tienen dos sistemas de aire independientes.` },
@@ -9153,22 +9156,24 @@ export const guides: Guide[] = [
   {
     slug: "cuanto-consume-freidora-de-aire",
     category: "freidoras-de-aire",
-    title: `Cuánto consume una freidora de aire: cálculo real`,
-    seoTitle: `Cuánto consume una freidora de aire: cálculo real`,
-    metaDescription: `Consumo eléctrico de freidoras de aire en Argentina: fórmula de cálculo, comparativa con otros electrodomésticos y cuánto impacta en tu factura mensual.`,
+    title: `Cuánto consume una freidora de aire: kWh y costo mensual`,
+    seoTitle: `Cuánto consume una freidora de aire: kWh y costo mensual`,
+    metaDescription: `Una freidora de 1.500W gasta unos 20 kWh al mes con uso moderado: entre $3.600 y $4.600 sin subsidio en Argentina. Fórmula, ejemplos y comparativa.`,
     h1: `Cuánto consume una freidora de aire: análisis del gasto real`,
     publishedDate: "2026-06-14",
-    updatedDate: "2026-06-14",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
       `Compraste freidora y de repente pensás: ¿cuánto me va a costar usarla? Es una pregunta legítima. A diferencia del gas (donde calcular es complicado), la electricidad es medible. Acá te muestro exactamente cómo se calcula el consumo y qué significa en tu factura.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_788252-MLA99975580653_112025-F.webp", alt: `Cuánto consume una freidora de aire electricidad Argentina`, imageSize: "hero" },
+      { type: "p", content: `Una freidora de aire típica (1.400 a 1.700 watts) consume alrededor de 20 kWh al mes con uso moderado: 40 minutos por día, 5 días a la semana. Con las tarifas de Edenor y Edesur de julio 2026, eso equivale a entre $3.600 y $4.600 mensuales sin subsidio, o entre $1.100 y $1.400 con subsidio dentro del bloque. Abajo tenés la fórmula para ajustar la cuenta a tu modelo y a tu tarifa.` },
       { type: "h2", title: `La fórmula básica que necesitás` },
       { type: "p", content: `Todo aparato eléctrico consume según su potencia. La fórmula es simple:` },
       { type: "p", content: `Consumo en kWh = Potencia en watts × Tiempo en horas` },
       { type: "p", content: `Una freidora típica en Argentina tiene potencia entre 1.400W y 1.700W. Pero casi siempre usás menos tiempo del que crees.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Cuánto sale el kWh en Argentina (julio 2026)", content: `Acá está el dato que cambia toda la cuenta. Según los cuadros tarifarios oficiales de Edenor y Edesur vigentes en julio 2026, el cargo variable **sin subsidio** ronda los **$154 a $155 por kWh antes de impuestos**; con IVA (21%) y demás cargos de la factura, el kWh final queda entre **$180 y $230**. Si tenés subsidio y estás dentro del bloque de consumo base del mes (300 kWh en julio, que es mes frío; 150 kWh en meses templados), el kWh te sale bastante menos, entre **$55 y $70 todo incluido**. Fuera de ese bloque, pagás la tarifa plena aunque tengas subsidio. Y esto es AMBA (Edenor/Edesur): en otras provincias puede variar hasta 146% para arriba o para abajo. La cuenta más precisa la sacás de tu propia factura, pero para calcular acá usamos $180-230/kWh (sin subsidio) y $55-70/kWh (con subsidio, dentro del bloque).` },
       { type: "h2", title: `Ejemplo práctico con números argentinos` },
       { type: "p", content: `Compraste una freidora de 1.500W (potencia típica). Un día normal:` },
       { type: "list", items: [
@@ -9178,7 +9183,7 @@ export const guides: Guide[] = [
       ]},
       { type: "p", content: `Total del día: 40 minutos = 0,67 horas` },
       { type: "p", content: `Consumo de esa sesión: 1.500W × 0,67h = 1 kWh` },
-      { type: "p", content: `En términos de factura, 1 kWh en Argentina cuesta entre $0,30 y $0,50 según tu zona y categoría de consumo. Esa sesión de 40 minutos te salió entre $0,30 y $0,50.` },
+      { type: "p", content: `En términos de factura, esa sesión de 40 minutos te sale entre $180 y $230 sin subsidio, o entre $55 y $70 si tenés subsidio y estás dentro del bloque.` },
       { type: "h2", title: `Proyecta a un mes completo` },
       { type: "p", content: `Si cocinás con freidora 5 días a la semana, 40 minutos por día:` },
       { type: "list", items: [
@@ -9187,8 +9192,8 @@ export const guides: Guide[] = [
         `800 minutos ÷ 60 = 13,3 horas mensuales`,
       ]},
       { type: "p", content: `Consumo mensual: 1.500W × 13,3 horas = 20 kWh` },
-      { type: "p", content: `En dinero: 20 kWh × $0,40 = $8 al mes` },
-      { type: "p", content: `No es nada. Menos de lo que gastás en una salida al cine.` },
+      { type: "p", content: `En dinero: sin subsidio, entre $3.600 y $4.600 al mes. Con subsidio (dentro del bloque), entre $1.100 y $1.400 al mes.` },
+      { type: "p", content: `No es gratis, pero tampoco pesa mucho al lado de otros consumos de la casa (lo comparamos abajo con la heladera y el aire acondicionado).` },
       { type: "h2", title: `¿Qué pasa si cocinás más seguido?` },
       { type: "p", content: `Si cocinás todos los días con freidora, 50 minutos diarios:` },
       { type: "list", items: [
@@ -9197,8 +9202,8 @@ export const guides: Guide[] = [
         `1.400 ÷ 60 = 23,3 horas mensuales`,
       ]},
       { type: "p", content: `Consumo mensual: 1.500W × 23,3 horas = 35 kWh` },
-      { type: "p", content: `En dinero: 35 kWh × $0,40 = $14 al mes` },
-      { type: "p", content: `Todavía es mínimo. Para contexto: una heladera cuesta $80-100 al mes en consumo. Una freidora de aire es 6 veces más barata.` },
+      { type: "p", content: `En dinero: sin subsidio, entre $6.300 y $8.050 al mes. Con subsidio, entre $1.925 y $2.450 al mes.` },
+      { type: "p", content: `Sigue siendo bajo comparado con una heladera (que consume las 24 horas del día, todos los días): a estas tarifas, una heladera típica de 32 kWh/mes ronda los $5.760 a $7.360 sin subsidio. La freidora, aunque ya no sea "gratis", es varias veces más barata que tener la heladera prendida.` },
       { type: "h2", title: `Potencias de freidoras que vas a encontrar en el mercado argentino` },
       { type: "list", items: [
         `Gadnic modelos básicos: 1.400W`,
@@ -9208,77 +9213,79 @@ export const guides: Guide[] = [
         `LG: 1.500W`,
         `Marcas genéricas chinas: 1.400-1.500W`,
       ]},
-      { type: "p", content: `La diferencia entre 1.400W y 1.700W en consumo es mínima. Si cocinás 20 minutos diarios:` },
+      { type: "p", content: `La diferencia entre 1.400W y 1.700W sí se nota en la factura, aunque no cambie la decisión de compra. Si cocinás 20 minutos diarios, 30 días:` },
       { type: "list", items: [
-        `Freidora 1.400W: 1.400 × 0,33h = 0,46 kWh`,
-        `Freidora 1.700W: 1.700 × 0,33h = 0,56 kWh`,
+        `Freidora 1.400W: 14 kWh al mes`,
+        `Freidora 1.700W: 17 kWh al mes`,
       ]},
-      { type: "p", content: `Diferencia: 0,1 kWh = $0,04 al mes. Irrelevante.` },
+      { type: "p", content: `Diferencia: 3 kWh al mes, entre $540 y $690 sin subsidio (o $165-210 con subsidio). No es el factor que debería decidir tu compra (las otras diferencias entre modelos pesan más), pero tampoco es un número para ignorar del todo.` },
       { type: "h2", title: `Comparación con otros electrodomésticos` },
-      { type: "p", content: `Para que entiendas el contexto, acá está lo que consumen otros aparatos en 30 minutos de uso:` },
-      { type: "table", headers: [`Electrodoméstico`, `Potencia`, `30 min`, `Costo/mes`], rows: [
-        [`Freidora de aire`, `1.500W`, `0,75 kWh`, `$8-10`],
-        [`Horno eléctrico`, `2.500W`, `1,25 kWh`, `$30-50`],
-        [`Microondas`, `1.100W`, `0,55 kWh`, `$6-8`],
-        [`Heladera`, `400W (promedio)`, `12 kWh`, `$80-100`],
-        [`Lavarropas`, `2.000W`, `1 kWh`, `$4-6 (por lavada)`],
-        [`Aire acondicionado`, `2.200W`, `1,1 kWh`, `$150-200`],
-        [`Hornalla eléctrica`, `2.500W`, `1,25 kWh`, `$15-20`],
-        [`Secador de pelo`, `1.800W`, `0,9 kWh`, `$1 (por uso)`],
+      { type: "p", content: `Para que entiendas el contexto, acá está lo que consumen otros aparatos y cuánto salen con la tarifa sin subsidio ($180-230/kWh) de julio 2026:` },
+      { type: "table", headers: [`Electrodoméstico`, `Potencia`, `Uso`, `Consumo`, `Costo (sin subsidio)`], rows: [
+        [`Freidora de aire`, `1.500W`, `30 min`, `0,75 kWh`, `$135-172`],
+        [`Horno eléctrico`, `2.500W`, `30 min`, `1,25 kWh`, `$225-288`],
+        [`Microondas`, `1.100W`, `30 min`, `0,55 kWh`, `$99-127`],
+        [`Heladera`, `~130W promedio`, `todo el mes (24hs)`, `~32 kWh/mes`, `$5.760-7.360/mes`],
+        [`Lavarropas`, `2.000W`, `1 lavado (1h)`, `2 kWh`, `$360-460 (por lavado)`],
+        [`Aire acondicionado`, `2.200W`, `1 hora`, `2,2 kWh`, `$396-506`],
+        [`Hornalla eléctrica`, `2.500W`, `30 min`, `1,25 kWh`, `$225-288`],
+        [`Secador de pelo`, `1.800W`, `10 min`, `0,3 kWh`, `$54-69 (por uso)`],
       ]},
+      { type: "p", content: `Con subsidio y dentro del bloque, todos estos números bajan a aproximadamente un tercio.` },
       { type: "h2", title: `Ahora viene lo importante: cómo se ve en tu factura` },
       { type: "p", content: `Tu factura de luz llega con muchos conceptos. El consumo de una freidora casi no se nota entre todo lo demás.` },
       { type: "p", content: `Si tu consumo típico es de 300 kWh/mes (promedio de un hogar argentino de 4 personas), agregar una freidora que consume 20 kWh más te lleva a 320 kWh/mes.` },
-      { type: "p", content: `En términos porcentuales: eso es un aumento del 6,6%. En pesos, con tarifa promedio, unos $15-20 al mes.` },
-      { type: "p", content: `¿Es mucho? Para la mayoría de la gente, no. Para alguien que monitorea cada peso, puede serlo.` },
+      { type: "p", content: `En términos porcentuales: eso es un aumento del 6,6%. En pesos, entre $3.600 y $4.600 más al mes sin subsidio, o entre $1.100 y $1.400 si tenés subsidio y seguís dentro del bloque.` },
+      { type: "p", content: `¿Es mucho? Comparado con lo que ya pagás por el resto de la casa, no debería ser el gasto que te preocupe. Comparado con no tener freidora, es una suma real que vale la pena tener presente, sobre todo si la usás todos los días.` },
       { type: "h2", title: `El mito del ahorro energético` },
       { type: "p", content: `Mucha gente compra freidora porque "consume menos que el horno". Es verdad técnicamente, pero hay un matiz importante.` },
       { type: "p", content: `Una freidora consume menos mientras está prendida. Pero:` },
       { type: "p", content: `1. Cocina más rápido: 18 minutos vs 25 minutos. Consume menos tiempo total. 2. Pero cocina porciones pequeñas: Si tu horno cocina para 6 personas, la freidora cocina para 2-3.` },
       { type: "p", content: `Si necesitás cocinar para 6 personas:` },
       { type: "list", items: [
-        `Horno: 25 minutos = 2.500W × 0,42h = 1,05 kWh`,
-        `Freidora: 3 tandas de 18 minutos = 1.500W × 0,9h = 1,35 kWh`,
+        `Horno: 25 minutos = 2.500W × 0,42h = 1,05 kWh (entre $189 y $242 sin subsidio)`,
+        `Freidora: 3 tandas de 18 minutos = 1.500W × 0,9h = 1,35 kWh (entre $243 y $310 sin subsidio)`,
       ]},
       { type: "p", content: `La freidora gasta más porque necesita 3 tandas.` },
-      { type: "p", content: `Para realmente ahorrar con freidora: tenés que cocinar porciones pequeñas regularmente. Si no, el ahorro es marginal.` },
+      { type: "p", content: `Para realmente ahorrar con freidora: tenés que cocinar porciones pequeñas regularmente. Si no, el ahorro es marginal o directamente no existe.` },
       { type: "h2", title: `Cuando la freidora sí ahorra: el caso real` },
       { type: "p", content: `El ahorro existe en un caso específico:` },
       { type: "p", content: `Vos y tu pareja cocinan porciones chicas diarios, sin horno a gas (viven en departamento, por ejemplo). Usaban microondas para todo antes.` },
       { type: "p", content: `Antes: microondas 30 min diarios = 1.100W × 0,5h = 0,55 kWh/día` },
       { type: "p", content: `Ahora: freidora 20 min diarios = 1.500W × 0,33h = 0,5 kWh/día` },
-      { type: "p", content: `Ahorro: 0,05 kWh/día = 1,5 kWh/mes = $0,60/mes` },
-      { type: "p", content: `No es el "ahorro enorme" que prometen. Pero bueno, 7 pesos al año es mejor que nada. Y la freidora calienta más rápido, así que realmente ahorras tiempo.` },
+      { type: "p", content: `Ahorro: 0,05 kWh/día = 1,5 kWh/mes, entre $270 y $345 al mes sin subsidio (entre $82 y $105 con subsidio).` },
+      { type: "p", content: `No es el "ahorro enorme" que prometen, pero tampoco es despreciable si lo sostenés doce meses. Y la freidora calienta más rápido, así que además ahorrás tiempo.` },
       { type: "h2", title: `Truco para minimizar consumo` },
-      { type: "p", content: `Apaga apenas termina la cocción. Parecer obvio, pero mucha gente deja la freidora prendida "por si acaso" después que terminó.` },
+      { type: "p", content: `Apaga apenas termina la cocción. Parece obvio, pero mucha gente deja la freidora prendida "por si acaso" después que terminó.` },
       { type: "p", content: `Si dejas una freidora prendida 5 minutos más después que terminó:` },
       { type: "list", items: [
         `1.500W × 0,083h = 0,125 kWh`,
         `0,125 kWh × 30 días = 3,75 kWh/mes extra`,
-        `3,75 kWh × $0,40 = $1,50/mes`,
+        `Sin subsidio, entre $675 y $862 al mes extra. Con subsidio, entre $206 y $262.`,
       ]},
-      { type: "p", content: `Pequeño, pero suma. Apaga cuando termina.` },
+      { type: "p", content: `No es "pequeño": es de los hábitos que más rápido se nota en la factura. Apagá apenas termina.` },
       { type: "h2", title: `¿Qué pasa en invierno vs verano?` },
       { type: "p", content: `Si tenés aire acondicionado prendido, tu consumo base es mucho más alto en verano. Una freidora es porcentualmente menos relevante.` },
       { type: "p", content: `Si tenés calefactor eléctrico en invierno (cosa rara en Argentina, pero existe), el impacto de la freidora es todavía menos relevante porque el calefactor consume 2.000-3.000W constantemente.` },
       { type: "h2", title: `Tarifa de electricidad en Argentina: varía mucho` },
-      { type: "p", content: `Este es el punto donde cambia todo. No es lo mismo vivir en:` },
+      { type: "p", content: `Este es el punto donde cambia todo, y tiene tres capas, no una sola:` },
       { type: "list", items: [
-        `CABA o alrededores: tarifas más bajas (subsidiadas parcialmente)`,
-        `Interior (Córdoba, Rosario, etc.): tarifas más altas`,
-        `Categoría de consumo: si consumís menos de 150 kWh, pagas menos por kWh`,
+        `**Subsidio o no:** con subsidio pagás bastante menos por kWh que sin él.`,
+        `**Dentro o fuera del bloque:** cada mes tiene un "bloque" de consumo base con precio más bajo (300 kWh en meses fríos como julio, 150 kWh en meses templados). Una vez que lo superás, ese excedente se paga a tarifa plena aunque tengas subsidio.`,
+        `**Provincia y distribuidora:** Edenor y Edesur cubren AMBA, pero EPEC (Córdoba), EDEMSA (Mendoza), EPESF (Santa Fe) y otras distribuidoras del interior tienen sus propios cuadros. La diferencia entre provincias puede llegar al 146%.`,
       ]},
-      { type: "p", content: `Una freidora que te cuesta $8 en CABA capaz te cuesta $12 en el interior.` },
-      { type: "p", content: `Chequeá tu última factura de luz y mirá el precio por kWh. Multiplicá eso por 20-35 kWh/mes y tenés el costo aproximado.` },
+      { type: "p", content: `Con estas tres capas, la misma freidora puede costarte entre $55 y $70 el kWh (con subsidio, dentro del bloque) o entre $180 y $230 (sin subsidio, o pasado el bloque) — y eso sin contar que en el interior el número de base ya puede ser distinto.` },
+      { type: "p", content: `La forma más precisa de saber tu caso: chequeá tu última factura de luz, buscá el "cargo variable" o precio por kWh que te están cobrando, y multiplicalo por 20-35 kWh/mes (el rango típico de una freidora de uso moderado a frecuente).` },
       { type: "h2", title: `Consumo en stand-by (apagada)` },
       { type: "p", content: `Las freidoras modernas no consumen nada en stand-by. Desenchúfala si querés ahorro de verdad, pero no es necesario.` },
       { type: "p", content: `Consumo stand-by típico: menos de 1 watt. Irrelevante.` },
       { type: "h2", title: `Durabilidad vs costo: el verdadero cálculo` },
       { type: "p", content: `Una freidora buena cuesta entre $50.000 y $80.000 en Argentina. Si dura 5 años y la usás 300 días al año:` },
-      { type: "p", content: `Costo total de 5 años = Freidora ($60.000) + Consumo (5 años × 12 meses × $12/mes = $720)` },
-      { type: "p", content: `Total: $60.720` },
-      { type: "p", content: `Costo diario: $60.720 ÷ (5 años × 365 días) = $33/día` },
-      { type: "p", content: `¿Vale la pena? Depende de si la usás. Si usás 300 días al año y cocinas rápido cada día, sí. Si compras y después queda en la caja, no.` },
+      { type: "p", content: `Costo total de 5 años = Freidora ($60.000) + Consumo (uso moderado, ~13,3 h/mes, sin subsidio: 5 años × 12 meses × ~$4.100 promedio/mes = $246.000)` },
+      { type: "p", content: `Total: $306.000` },
+      { type: "p", content: `Costo diario: $306.000 ÷ (5 años × 365 días) = $168/día` },
+      { type: "p", content: `Con subsidio y dentro del bloque, el consumo pesa mucho menos: el total de 5 años baja a unos $138.000 ($60.000 de freidora + $78.000 de consumo), o $76/día.` },
+      { type: "p", content: `¿Vale la pena? Depende de si la usás. Si usás 300 días al año y cocinás rápido cada día, sí, sale bien parada frente a cocinar con horno para las mismas porciones. Si la comprás y después queda en la caja, no.` },
     ],
     faq: [
       {
@@ -9295,7 +9302,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Cuánto cuesta al mes si cocino todos los días?`,
-        answer: `Entre $12 y $18 al mes, según potencia y tiempo. Es lo más barato de tu cocina.`,
+        answer: `Con uso diario (50 minutos), entre $6.300 y $8.050 al mes sin subsidio, o entre $1.925 y $2.450 con subsidio dentro del bloque (tarifas de Edenor/Edesur, julio 2026). Sigue siendo bajo comparado con la heladera o el aire acondicionado, pero ya no es un número para ignorar.`,
       },
       {
         question: `¿El consumo indicado en la caja es real?`,
@@ -10269,12 +10276,12 @@ export const guides: Guide[] = [
   {
     slug: "gadnic-freidora-review",
     category: "freidoras-de-aire",
-    title: `Gadnic Airfryer 6.5L: review completa para Argentina 2026`,
-    seoTitle: `Gadnic freidora de aire 6.5L: ¿vale la pena?`,
-    metaDescription: `Probé la Gadnic 6.5L 1400W: qué cocina bien, qué no, y si conviene frente a una Atma de precio similar. Freidora de aire de marca local, con pros y contras honestos.`,
+    title: `Gadnic freidora de aire 6.5L: review y opiniones [2026]`,
+    seoTitle: `Gadnic freidora de aire 6.5L: opiniones y ¿vale la pena?`,
+    metaDescription: `Opiniones reales de la Gadnic freidora de aire 6.5L 1400W: qué cocina bien, qué no, y si vale la pena frente a una Atma de precio parecido.`,
     h1: `Gadnic freidora de aire 6.5L 1400W: ¿vale la pena en Argentina?`,
     publishedDate: "2026-05-16",
-    updatedDate: "2026-05-16",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
       `Gadnic es una marca argentina con fuerte presencia en Mercado Libre. Tiene tecnología de consumo, pequeños electrodomésticos, y mucho tráfico de compras. Su airfryer de 6.5 litros está en el catálogo desde hace un tiempo y aparece constantemente en búsquedas.`,
@@ -11233,14 +11240,14 @@ export const guides: Guide[] = [
   {
     slug: "yara-lattafa-guia-completa",
     category: "perfumes-arabes",
-    title: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
-    seoTitle: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
-    metaDescription: "Yara Lattafa, el perfume árabe más viral de TikTok. Comparamos Elixir vs Tous: notas, duración, precio real en Argentina y cuál conviene.",
+    title: "Yara Lattafa: cuántos hay y diferencia con Elixir (2026)",
+    seoTitle: "Yara Lattafa: cuántos hay y diferencia con Elixir (2026)",
+    metaDescription: "Hay 5 versiones de Yara Lattafa: original, Elixir, Tous, Moi y Candy. Diferencia entre el original y el Elixir, precios en Argentina y cuál conviene.",
     ogTitle: "Yara Lattafa: Elixir, Tous y cuál comprar (2026)",
     ogDescription: "Yara Lattafa, el perfume árabe más viral de TikTok. Comparamos Elixir vs Tous: notas, duración, precio real en Argentina y cuál conviene.",
     h1: "Yara Lattafa: guía honesta del perfume árabe viral (y cuál comprar)",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-04-17",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
       "Si abrís TikTok con cierta frecuencia, es casi seguro que te cruzaste con Yara. Lattafa lo lanzó en 2020 como una fragancia femenina dulce y accesible, y en los últimos dos años se convirtió en el perfume árabe más buscado de Argentina. No es exageración: las búsquedas mensuales en Google vienen creciendo mes a mes.",
@@ -11252,6 +11259,10 @@ export const guides: Guide[] = [
         src: "/images/perfumes-imagenes/13-Lattafa-YaraElixir-100ml.webp",
         alt: "Lattafa Yara Elixir EDP 100ml, perfume árabe femenino viral 2026",
         imageSize: "hero"
+      },
+      {
+        type: "p",
+        content: "Hoy existen cinco versiones de Yara Lattafa: original, Elixir, Tous, Moi y Candy. La diferencia central está entre el Yara original (2020), la fórmula dulce oriental de orquídea y vainilla que se hizo viral, y Yara Elixir (2025), la versión más concentrada e intensa de la familia. El resto son variantes del mismo perfil dulce, con precios de entre $25.000 y $40.000 en Argentina."
       },
       {
         type: "h2",
@@ -15032,15 +15043,15 @@ export const guides: Guide[] = [
     slug: "lattafa-asad-comparativa",
     category: "perfumes-arabes",
     title: "Lattafa Asad Intense vs Asad Bourbon vs Asad Negro: cuál es cuál y cuál comprar",
-    seoTitle: "Lattafa Asad: Intense vs Bourbon vs Negro (2026)",
+    seoTitle: "Lattafa Asad: Intense vs Bourbon vs Negro y a qué se parece",
     metaDescription:
-      "Lattafa Asad Intense vs versiones genéricas Asad Bourbon y Asad Negro: cuál es el oficial, qué son las imitaciones y cuál comprar según perfil olfativo y presupuesto.",
+      "Asad Intense es el único Lattafa oficial; Bourbon y Negro son genéricos. La comunidad compara el Asad Bourbon con Azzaro The Most Wanted. Cuál comprar.",
     ogTitle: "Lattafa Asad: el oficial, los genéricos y cuál vale la pena",
     ogDescription:
-      "Asad Intense es Lattafa oficial. Bourbon y Negro del catálogo argentino son inspiraciones \"genéricas\". Te contamos qué es cada uno, qué esperar de cada uno y cuál comprar.",
+      "Asad Intense es Lattafa oficial. Bourbon y Negro del catálogo argentino son inspiraciones \"genéricas\". Qué es cada uno, a qué se parecen según la comunidad y cuál comprar.",
     h1: "Lattafa Asad: Intense vs Bourbon vs Negro — qué es oficial, qué es genérico y cuál comprar (2026)",
     publishedDate: "2026-06-10",
-    updatedDate: "2026-06-10",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     intro: [
       "Si buscaste \"Asad\" en MercadoLibre Argentina, te aparecieron tres opciones con nombres parecidos: Lattafa Asad Intense, Asad Bourbon y Asad Negro. Parecen tres versiones de la misma línea. No lo son. Solo una es Lattafa oficial — las otras dos son perfumes \"genéricos\" inspirados en variantes de Asad que existen en otros mercados pero no se importan oficialmente a Argentina.",
@@ -15117,6 +15128,10 @@ export const guides: Guide[] = [
       {
         type: "p",
         content: "**¿Vale la pena?** Depende de tu objetivo. Si querés el perfil olfativo del Asad Bourbon (que existe como producto Lattafa oficial en otros mercados pero no se importa a Argentina), este genérico es la única opción disponible. El precio más bajo refleja la ausencia de respaldo de marca. Si tu prioridad es tener un Lattafa real, esta no es la opción."
+      },
+      {
+        type: "p",
+        content: "**¿A qué se parece?** Según reseñas y la comunidad de fragancias, el Asad Bourbon se compara sobre todo con **Azzaro The Most Wanted**, por su perfil cálido de vainilla y cacao. Es consenso de terceros, no verificación nuestra: no olimos los dos frascos lado a lado. Y ojo con el matiz: esas comparaciones hablan del Asad Bourbon de Lattafa internacional; qué tan cerca queda el genérico argentino de ese perfil depende de la tanda."
       },
       {
         type: "p",
@@ -15207,6 +15222,10 @@ export const guides: Guide[] = [
       {
         question: "¿Cuál es la diferencia entre Lattafa Asad Intense y Asad Bourbon?",
         answer: "Asad Intense es el único producto Lattafa oficial de los tres listados en el catálogo argentino. Asad Bourbon (al menos en las versiones disponibles en MercadoLibre AR) es un perfume genérico inspirado, sin marca fabricante declarada. Olfativamente, el Intense es más equilibrado dulce-especiado-amaderado; el Bourbon genérico es más alcohólico-tabacalero-cuero."
+      },
+      {
+        question: "¿A qué perfume se parece el Asad Bourbon de Lattafa?",
+        answer: "El consenso de reseñas y de la comunidad de fragancias lo compara con Azzaro The Most Wanted, por su perfil cálido de vainilla y cacao. Es una comparación de terceros, no una verificación propia de esta guía. Además, aplica al Asad Bourbon de Lattafa internacional; el \"Asad Bourbon\" genérico del catálogo argentino puede acercarse más o menos a ese perfil según la tanda."
       },
       {
         question: "¿Asad Negro es un perfume Lattafa oficial?",
@@ -16002,14 +16021,14 @@ export const guides: Guide[] = [
   {
     slug: "robot-aspiradora-gadnic",
     category: "aspiradoras-robot",
-    title: `Robot aspiradora Gadnic [2026]: review de la línea por modos`,
-    seoTitle: `Robot aspiradora Gadnic en Argentina: review [2026]`,
-    metaDescription: `Review de la línea de robots aspiradora Gadnic en Argentina: del AC800 5000 Pa con LIDAR y base autolimpiante al 3 Modos de entrada. Cuál conviene y por qué.`,
+    title: `Robot aspiradora Gadnic: opiniones y review de la línea`,
+    seoTitle: `Robot aspiradora Gadnic: opiniones y review [2026]`,
+    metaDescription: `¿Vale la pena un robot aspiradora Gadnic? Opiniones y review de la línea: el AC800 con LIDAR y base autolimpiante compite bien; el 3 Modos queda corto.`,
     ogTitle: `Robot aspiradora Gadnic: ¿conviene la marca argentina barata?`,
     ogDescription: `Probamos la lógica de la línea Gadnic, de "3 modos" al tope con base autolimpiante. Te decimos cuál vale la pena y cuál mejor saltear.`,
     h1: `Robot aspiradora Gadnic [2026]: review de toda la línea, modo por modo`,
     publishedDate: "2026-06-06",
-    updatedDate: "2026-06-06",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     standfirst: `Gadnic es la marca argentina que más vende robots aspiradora en Mercado Libre. Su catálogo va desde un equipo básico de tres modos hasta uno con LIDAR y base autolimpiante. Acá te ordenamos cuál es cuál y para quién conviene cada uno.`,
     intro: [
@@ -16019,7 +16038,9 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_757562-MLA98254774359_112025-F.webp", alt: `Robot aspiradora Gadnic AC800 con LIDAR y base autolimpiante sobre piso de departamento argentino`, imageSize: "hero" },
-  
+
+      { type: "p", content: `Un robot aspiradora Gadnic vale la pena según el modelo que elijas. El tope de gama, con LIDAR y base autolimpiante, compite bien contra marcas globales de precio parecido. El de entrada, sin app ni mapeo, solo rinde en departamentos chicos.` },
+
       { type: "h2", title: `Resumen rápido: cuál Gadnic comprar según tu caso`, id: "resumen" },
       { type: "list", items: [
         `**Mejor de la línea (con LIDAR + autovaciado):** [Gadnic 5000 Pa LIDAR AC800](https://meli.la/2UjN3FV) — el único que mapea con láser y se vacía solo.`,
@@ -16896,14 +16917,14 @@ export const guides: Guide[] = [
   {
       slug: "robot-aspiradora-atma",
       category: `aspiradoras-robot`,
-      title: `Robot aspiradora Atma: cuál comprar en Argentina`,
-      seoTitle: `Robot aspiradora Atma: los 3 modelos comparados (2026)`,
-      metaDescription: `Robot aspiradora Atma en Argentina: comparamos los 3 modelos, precios reales, mapeo láser y service nacional. Cuál conviene según tu casa y tu presupuesto.`,
+      title: `Robot aspiradora Atma: opiniones y los 3 modelos (2026)`,
+      seoTitle: `Robot aspiradora Atma: opiniones y los 3 modelos (2026)`,
+      metaDescription: `Robot aspiradora Atma: opiniones reales de los 3 modelos, precios y service nacional. Qué dicen los compradores y cuál conviene según tu casa.`,
       ogTitle: `Robot aspiradora Atma: cuál conviene en Argentina`,
       ogDescription: `Los tres robots Atma comparados sin vueltas: marca nacional con service local, qué hace bien cada uno y dónde se queda corto.`,
       h1: `Robot aspiradora Atma: los tres modelos, comparados`,
       publishedDate: `2026-06-08`,
-      updatedDate: `2026-06-08`,
+      updatedDate: `2026-07-06`,
       hasDisclosure: true,
       standfirst: `Atma es de las pocas marcas de robot aspiradora que es nacional, con service y repuestos en Argentina. Tiene tres modelos: dos básicos sin app y uno con mapeo láser. Acá te cuento qué hace bien cada uno, dónde se queda corto y cuál te conviene según tu casa.`,
       intro: [
@@ -16918,7 +16939,9 @@ export const guides: Guide[] = [
       ],
       sections: [
         { type: `image`, src: `https://http2.mlstatic.com/D_NQ_NP_608905-MLA99516871408_112025-F.jpg`, alt: `Robot aspiradora Atma ATAR21C1DH 3 en 1 con sensor antichoque y tanque de agua`, imageSize: `hero` },
-  
+
+        { type: `p`, content: `Según las opiniones reales, un robot Atma vale la pena si priorizás respaldo antes que tecnología: no es la marca que mejor limpia, pero es de las pocas con service, repuestos y garantía 100% nacional. El más vendido, el ATAR21C1PI, promedia 4.5 estrellas sobre 904 opiniones en Mercado Libre. Si buscás mapeo láser y app, el único que lo trae es el modelo Smart.` },
+
         { type: `trust-block`, trustVariant: `methodology`, content: `Esta comparativa se arma con los datos publicados de cada modelo en Mercado Libre Argentina, los ratings y la cantidad de opiniones reales de compradores a junio 2026. No probamos los tres robots en un laboratorio: leemos las reseñas verificadas, cruzamos las fichas técnicas y marcamos con claridad qué dato es sólido (un rating sobre 900 opiniones) y cuál hay que tomar con pinzas (un modelo nuevo con tres reseñas). Cuando un contra aparece repetido en las opiniones, lo decimos.` },
   
         { type: `h2`, title: `Por qué mirar un Atma: marca nacional con service`, id: `por-que-atma` },
@@ -17774,14 +17797,14 @@ export const guides: Guide[] = [
   {
     slug: "cafetera-dolce-gusto",
     category: "cafeteras",
-    title: `Cafetera Dolce Gusto: cuál comprar en Argentina [2026]`,
-    seoTitle: `Cafetera Dolce Gusto: Cuál Comprar en Argentina [2026]`,
-    metaDescription: `Las cafeteras Dolce Gusto que se consiguen hoy en Argentina: la Piccolo XS con 8.392 opiniones y la Smartlife 3 en 1. Precios de junio 2026 y análisis honesto.`,
+    title: `Cafetera Dolce Gusto: cuánto cuesta y cuál comprar [2026]`,
+    seoTitle: `Cafetera Dolce Gusto: precio en Argentina y cuál comprar`,
+    metaDescription: `La cafetera Dolce Gusto más barata en Argentina es la Piccolo XS: $155.132 y 8.392 opiniones. Precios de junio 2026 y cuál conviene según tu caso.`,
     ogTitle: `Dolce Gusto en Argentina: la cafetera que compró todo el mundo (y su secreto)`,
     ogDescription: `La Piccolo XS junta 8.392 opiniones y cuesta $155.132, pero tiene un detalle que nadie te cuenta antes de comprar: es 100% manual. Te explicamos si te conviene.`,
     h1: `Cafetera Dolce Gusto en Argentina: cuál comprar y cuánto cuesta [2026]`,
     publishedDate: "2026-06-15",
-    updatedDate: "2026-06-15",
+    updatedDate: "2026-07-06",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Dolce Gusto es el sistema de cápsulas más vendido de Argentina, y la Piccolo XS es su máquina estrella: 8.392 calificaciones, más que cualquier otra cafetera del país. Comparamos las dos opciones con stock y garantía hoy, con precios de junio 2026 y los datos que la publicación no te cuenta.`,
@@ -17792,6 +17815,8 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_994334-MLA100010184303_122025-F.jpg", alt: `Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS roja, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "p", content: `Una cafetera Dolce Gusto cuesta desde $155.132 en Argentina (precio de junio 2026 en MercadoLibre). Ese valor corresponde a la Piccolo XS, la única máquina oficial de la marca con stock y garantía hoy. La alternativa compatible, la Smartlife 3 en 1, sube a $528.131 porque también acepta cápsulas Nespresso y café molido.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** verificamos precio, ficha técnica y calificaciones públicas de cada máquina compatible con cápsulas Dolce Gusto activa en MercadoLibre Argentina (junio 2026). Las citas de compradores son textuales de las reseñas. No incluimos modelos sin stock ni publicaciones sin garantía oficial, aunque sean conocidos.` },
 

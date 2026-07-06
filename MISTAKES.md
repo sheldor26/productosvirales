@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-07-06 — Guía de consumo eléctrico calculaba con tarifa 400 veces menor a la real
+
+**Qué pasó:** la guía `cuanto-consume-freidora-de-aire` (publicada 2026-06-14) calculaba todos sus ejemplos con electricidad a $0,30-$0,50 por kWh. La tarifa real de Edenor/Edesur en julio 2026 es de ~$154-155/kWh antes de impuestos (~$180-230 con IVA y cargos, sin subsidio; ~$55-70 con subsidio dentro del bloque). Toda la guía decía que usar la freidora costaba "$8-14 al mes"; el número real (uso moderado, sin subsidio) es más cercano a $3.600-4.600 al mes. Se detectó al hacer una auditoría de candidatas a re-optimizar por SEO (el error no lo encontró ningún chequeo técnico, sino comparar esta guía contra otra del sitio, `estufa-electrica-bajo-consumo`, que sí tenía la tarifa correcta).
+
+**Por qué:** el número de tarifa no se validó contra una fuente real al escribir la guía (parece un valor inventado o de un contexto/moneda distinto, nunca corregido). Al no haber un chequeo cruzado entre guías del mismo sitio que citan el mismo dato (precio del kWh), la inconsistencia quedó invisible durante 3 semanas.
+
+**Cómo evitarlo:** cualquier guía que cite un precio de servicio público (luz, gas, agua) tiene que sacar el número de una fuente oficial citable (ENRE, cuadro tarifario de la distribuidora) en el momento de escribirla, no de memoria. Si dos guías del sitio citan el mismo tipo de dato (ej. precio del kWh), deberían coincidir en orden de magnitud — vale la pena un grep rápido de "kWh" en `guides.ts` antes de cerrar una guía nueva sobre consumo eléctrico, para detectar justamente este tipo de contradicción interna.
+
+**Archivos involucrados:** `src/data/guides.ts` (guía `cuanto-consume-freidora-de-aire`)
+
 ## 2026-07-02 — Microsoft Clarity nunca grabó una sesión: faltaba en el CSP
 
 **Qué pasó:** el tag de Microsoft Clarity estaba bien instalado en `layout.tsx` (ID `xgasuwpism`, script válido, evento `affiliate_click` cableado), pero el dashboard mostraba cero datos. La causa: el `Content-Security-Policy` en `next.config.ts` no incluía ningún dominio de `clarity.ms`, así que el navegador de TODOS los visitantes bloqueaba el script antes de cargarlo. Prueba limpia: en el navegador GA cargaba (estaba en el CSP) y Clarity daba `Failed to fetch` (no estaba).
