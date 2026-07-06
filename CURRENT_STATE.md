@@ -1,7 +1,19 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-06 (guía nueva `camara-de-seguridad`, pilar del silo `seguridad`. SIN COMMIT).
+> Última actualización: 2026-07-06 (guías nuevas `camara-de-seguridad` [commiteada, push pendiente] y `cargador-portatil` [sin commit]).
+
+## Sesión 06-jul (3) — Guía nueva: `cargador-portatil` (pilar, silo tech, STAGED)
+
+Disparador: última candidata validada del research de Juan (xlsx): "cargador portátil / powerbank" (12.100/mes, SD 13). Con esta guía el research queda ejecutado completo. **SIN COMMIT: diff a la espera de OK.**
+
+1. **Sourcing con obstáculo:** a mitad de sesión el listado de ML dejó de renderizar (spinner infinito). Se extrajeron los candidatos del JSON embebido del HTML y se verificó cada producto en su propia página (el mapeo id→título del JSON viene corrido, no confiar).
+2. **6 fichas nuevas en `curated-products.ts`** (`category: "Tech"`, `categorySlug: "tech"`): Gadnic 20.000 (2.643 reseñas, el más vendido, 4.6 el rating más bajo del grupo), Ugreen PB561 magnético MagSafe (1.542, para iPhone), Xiaomi 10.000 22,5W (1.105, mejor precio-marca), Energizer 10.000 visor LCD (455), Xiaomi 20.000 (427, mejor calificado 4.9/93% de 5★) y Energizer 27.000 65W (156, carga notebooks, ~99,9 Wh apto avión).
+3. **Guía pilar `cargador-portatil`** en `guides.ts` (silo `tech`, `pillar: true`, STAGED 2026-09-01). Ángulo central: la regla de la **capacidad útil real (60-70% de la declarada)**, documentada por una reseña con datos del fabricante. Otras contras: Gadnic pesado y sin turbo, Ugreen lento por inducción, cables cortos.
+4. **Links de afiliado (cerrado):** Juan pasó los 6; **el Xiaomi 20.000 fue rechazado por el programa** y se reemplazó (elección de Juan vía consulta) por el **Mcdodo MC-3891 20.000 display** (MLA29504563, 4.9★/46 reseñas, base chica declarada en la guía). El Xiaomi 20K quedó `deprioritized`. Los 6 links aplicados (`2qTtSTX`, `1AdEkV3`, `25Btfk1`, `1fkgcJy`, `197mZCN` Mcdodo, `32wksAD`). Guía 100% lista para publicar.
+5. **Verificación:** `tsc --noEmit`, `eslint` y `check-price-tokens.cjs` (595 tokens, 219 productos) limpios. Build local de Juan como gate final (caveat sandbox).
+6. **Documentado** en `docs/seo-tracking-optimizaciones.md` y `docs/productos-backlog.md` (sección "Tech — Cargadores portátiles", con descartados como munición: Xiaomi 30.000, Baseus, Mcdodo, Alpina, Soul).
+7. **Pendiente de la sesión anterior:** push de `2099a46` desde la Mac de Juan (el sandbox no tiene credenciales) + limpiar locks de `.git`.
 
 ## Sesión 06-jul (2) — Guía nueva: `camara-de-seguridad` (pilar, silo seguridad, STAGED)
 

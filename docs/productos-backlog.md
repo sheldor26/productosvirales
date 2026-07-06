@@ -244,6 +244,22 @@ Candidatos descartados de la misma sesión de research (xlsx de Juan), por canni
 
 Candidatos que quedaron afuera (munición para satélites futuros del silo: cámara exterior / kits / solares): Imou Cue 2 IPC-C32EP (MLA65475381, 313 reseñas, $38.000, fija interior de marca, perdió contra la H1C por reseñas), Kit x2 Noax A7 motorizada (MLA54104115, 4.6★), Ezviz C8c domo exterior (MLA51032804), cámaras con panel solar (varias en el listado, sin verificar), Kit 2 Geotek 2mp (MLA49375475) y Kit 2 Geotek 3mp (MLA50438970).
 
+## Tech — Cargadores portátiles (power banks)
+
+> Guía `cargador-portatil` (nuevo PILAR, primera guía del silo `tech`, STAGED 2026-07-06). Última candidata validada del research de Juan (xlsx): "cargador portátil" 12.100/mes, SD 13. Productos vía Chrome (el listado de ML dejó de renderizar resultados a mitad de sesión; se extrajeron los candidatos del JSON embebido de la página y se verificó cada uno en su página de producto). Rankeados por reviewCount. Ugreen sin resultados en el buscador del fabricante (sin verificar, caso normal). **El Xiaomi 20.000 (MLA60527825) fue rechazado por el Programa de Afiliados** ("Esta URL no está permitida"); Juan eligió como reemplazo el Mcdodo MC-3891 20.000 display. **Los 6 links de afiliado aplicados (2026-07-06, Mcdodo meli.la/197mZCN incluido).**
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Gadnic Energy Power 20.000 mAh | MLA21235471 | Gadnic | 2643 | $35.999 | meli.la/2qTtSTX | **usado** en `cargador-portatil` (#1, el más vendido) |
+| Ugreen PB561 Magnético 10.000 MagSafe | MLA41677171 | Ugreen | 1542 | $66.953 | meli.la/1AdEkV3 | **usado** en `cargador-portatil` (#2, para iPhone) |
+| Xiaomi P16ZM 10.000 mAh 22,5W | MLA40654567 | Xiaomi | 1105 | $38.238 | meli.la/25Btfk1 | **usado** en `cargador-portatil` (#3, mejor precio-marca) |
+| Energizer Ultimate UE10073PQ 10.000 LCD | MLA47759077 | Energizer | 455 | $48.640 | meli.la/1fkgcJy | **usado** en `cargador-portatil` (#4, visor con porcentaje) |
+| Mcdodo MC-3891 20.000 display 22,5W | MLA29504563 | Mcdodo | 46 | $51.889 | meli.la/197mZCN | **usado** en `cargador-portatil` (#5, capacidad + display; reemplaza al Xiaomi 20K rechazado) |
+| Energizer Ultimate XP27001PD 27.000 65W | MLA51985227 | Energizer | 156 | $120.901 | meli.la/32wksAD | **usado** en `cargador-portatil` (#6, notebook, ~99,9 Wh apto avión) |
+| ~~Xiaomi 20.000 mAh 22,5W~~ | MLA60527825 | Xiaomi | 427 | $64.200 | ❌ rechazado | descartado, ficha `deprioritized` conservada (4.9★, reintentarlo si el rechazo era puntual) |
+
+Candidatos que quedaron afuera (munición para satélites futuros: powerbank solar / por marca / con display): Xiaomi 30.000 mAh 18W (MLA46347401, 188 reseñas, $99.317, 4.9 — ojo: la ficha ML declara 18 Ah, inconsistente con el título), Baseus Bipow 2 Pro display (MLA63803789, 23 reseñas, título 30.000 vs ficha 10 Ah, flojo), Soul 10.000 22W (MLA70029369, 128 reseñas, $33.900), Ugreen MagSafe 5.000 (MLA50200639, 6 reseñas), Alpina 10.000 c/cables (MLA65258195).
+
 ## Otros silos / categorías
 
 _(acá van los productos sobrantes de otras tandas que quieran guardarse para futuras guías)_
