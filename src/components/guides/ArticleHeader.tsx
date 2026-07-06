@@ -3,6 +3,7 @@ import Image from "next/image";
 import type { Guide, GuideSection } from "@/lib/types";
 import { calcReadingTime } from "@/lib/reading-time";
 import { parseInlineLinks } from "@/lib/parse-inline-links";
+import { ShareButtons } from "@/components/widgets/ShareButtons";
 
 interface ArticleHeaderProps {
   guide: Guide;
@@ -103,6 +104,9 @@ export function ArticleHeader({ guide }: ArticleHeaderProps) {
             ·
           </span>
           <span>{readingTime} min de lectura</span>
+        </div>
+        <div className="ml-auto">
+          <ShareButtons title={guide.h1} />
         </div>
       </div>
 

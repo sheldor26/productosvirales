@@ -23,6 +23,7 @@ import { productHref } from "@/lib/product-url";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { PriceHistoryChart } from "./PriceHistoryChart";
 import { CouponBadge } from "./CouponBadge";
+import { ShareButtons } from "@/components/widgets/ShareButtons";
 import type { Product } from "@/lib/types";
 import type { PriceChartData } from "@/lib/price-history";
 
@@ -250,10 +251,13 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
           </h1>
 
           {/* Byline / E-E-A-T */}
-          <p className="mt-2 text-xs text-[var(--text-muted)]">
-            Por <span className="font-semibold text-[var(--text-secondary)]">ProductosVirales</span>
-            {updated && <> · Actualizado {updated}</>}
-          </p>
+          <div className="mt-2 flex flex-wrap items-center justify-between gap-2">
+            <p className="text-xs text-[var(--text-muted)]">
+              Por <span className="font-semibold text-[var(--text-secondary)]">ProductosVirales</span>
+              {updated && <> · Actualizado {updated}</>}
+            </p>
+            <ShareButtons title={product.title} />
+          </div>
 
           {product.badge && (
             <div className="mt-3">
