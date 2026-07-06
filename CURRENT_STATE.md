@@ -1,7 +1,18 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-05 (Clarity: análisis de clics fallidos → imagen y título de ProductCard ahora linkean al afiliado. SIN COMMIT).
+> Última actualización: 2026-07-06 (guía nueva `camara-de-seguridad`, pilar del silo `seguridad`. SIN COMMIT).
+
+## Sesión 06-jul (2) — Guía nueva: `camara-de-seguridad` (pilar, silo seguridad, STAGED)
+
+Disparador: continuar la tanda de guías del research de Juan (xlsx). De las 2 candidatas validadas que quedaban, Juan eligió **cámaras de seguridad** (49.500/mes, SD 24); queda **cargador portátil/powerbank** (12.100/mes, SD 13) para la próxima. **NO se commiteó (regla de Juan): diff a la espera de OK.**
+
+1. **Canibalización chequeada** contra `CURRENT_STATE.md` y todos los slugs de `guides.ts`: limpia (las menciones de "power bank"/"seguridad" en el sitio son incidentales, atributos de parlantes/torres y de electrodomésticos).
+2. **6 fichas nuevas en `curated-products.ts`** (`category: "Seguridad"`, `categorySlug: "seguridad"`), sourced en vivo por Chrome (API ML caída), rankeadas por reviewCount: Gadnic SX39 (21.177 reseñas, la más vendida), Geotek GT-A33BN doble lente (10.242, exterior), TP-Link Tapo C210 (5.641, 4.9, la mejor calificada, **specs verificadas en tp-link.com/ar**), Ezviz H1C (5.782, la económica), Kit 3 Geotek GT-N3 (6.272, para toda la casa) y Ezviz TY1 (1.898, detección de figura humana, base chica declarada). Contras honestas: ninguna trae micro-SD; el IP67 de la ficha ML de la Tapo contradice al fabricante (se declaró interior-only); el "6 MP" de la Geotek es la suma de dos lentes de 3 MP; tornillos malos (Geotek); las mascotas disparan la detección (kit).
+3. **Guía pilar `camara-de-seguridad`** en `guides.ts` (silo `seguridad` nuevo, `pillar: true`, `publishedDate: "2026-09-01"` STAGED), diseño oficial de `docs/guias.md`: quickPicks 4, trust-block, ranking de 6 con product-cards + 4 pull-quotes reales, tabla con tokens `{{precio:...}}`, cómo elegir (5 h3), precios, veredicto, FAQ 7. Ángulos: sin mensualidad (grabación local vs. abono de alarma), la memoria como gasto oculto, Wi-Fi 2.4 GHz, movimiento vs. figura humana. `internalLinks: []` (primera del silo).
+4. **Links de afiliado aplicados el mismo día:** Juan pasó los 6 meli.la reales (Gadnic `2Kod5MG`, Geotek A33 `1GQsniy`, TP-Link `2XP2zp1`, Ezviz H1C `1fGvF6y`, Kit Geotek `1Ctzici`, Ezviz TY1 `11ACYPJ`), reemplazados en fichas, guía y backlog. Sin rechazos del programa.
+5. **Verificación:** `tsc --noEmit` limpio, `eslint` limpio, `check-price-tokens.cjs` OK (584 tokens, 213 productos), re-corridos tras aplicar los links. **`npm run build` NO corrió en este sandbox** (quedó colgado en copia limpia, caveat conocido; el `.next` del working tree además es read-only): **Juan corre `npm run build` local como gate final.**
+6. **Documentado** en `docs/seo-tracking-optimizaciones.md` y `docs/productos-backlog.md` (sección nueva "Seguridad — Cámaras de seguridad", con los candidatos descartados como munición para satélites futuros del silo).
 
 ## Sesión 05-jul — Análisis Microsoft Clarity + fix de clics fallidos en ProductCard
 

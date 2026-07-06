@@ -149,13 +149,16 @@
 
 ## Gaming — Kits gamer (teclado + mouse)
 
-> Ángulo propio futuro: guía "kit gamer: cuál comprar" (combo teclado+mouse, conviene para armar el setup de una).
+> Guía `kit-gamer` (silo gaming, STAGED 2026-07-05): "kit gamer: cuál comprar". Precios re-verificados en vivo el 05-jul (API oficial de ML caída, se usó Chrome).
+>
+> **El Redragon S143 (MLA47333674) fue rechazado por el Programa de Afiliados** ("Esta URL no está permitida en el Programa") al pasarlo Juan. Se reemplazó por el Level Up Pegasus (MLA22297233), mecánico con Outemu Blue y reposamuñecas incluido, elegido por Juan entre 2 alternativas. El Redragon queda marcado `visibility: 'deprioritized'` (ficha completa conservada) por si el rechazo era puntual y se puede reintentar más adelante. **Falta el link `meli.la` real del Level Up Pegasus** (afiliado placeholder `PEGAR_MELI_LA` en `curated-products.ts` y en la prosa de la guía).
 
 | Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
 | :-- | :-- | :-- | --: | --: | :-- | :-- |
-| Kit Gadnic teclado + mouse RGB | MLA19079378 | Gadnic | 1570 | $33.849 | meli.la/1FRwXdn | pendiente — **kit gamer económico** |
-| Kit Redragon S143 (K617 + M724) | MLA47333674 | Redragon | 809 | $74.999 | meli.la/1QjfBRL | pendiente — **kit gamer de marca** |
-| Kit Senon 4 en 1 (teclado+mouse+auri+pad) | MLA63650610 | Senon | 412 | $37.481 | meli.la/2Epam1y | pendiente — kit completo económico |
+| Kit Gadnic K4 Move teclado + mouse RGB | MLA19079378 | Gadnic | 1475 | $35.518 | meli.la/1FRwXdn | **usado** en `kit-gamer` (#1, el más vendido) |
+| Kit Level Up Pegasus mecánico + mouse | MLA22297233 | Level Up | 88 | $94.839 | PEGAR_MELI_LA | **usado** en `kit-gamer` (#3, el mecánico; reemplaza al Redragon S143, rechazado por el programa) |
+| Kit Senon 4 en 1 (teclado+mouse+auri+pad) | MLA63650610 | Senon | 413 | $37.481 | meli.la/2Epam1y | **usado** en `kit-gamer` (#2, el combo completo) |
+| ~~Kit Redragon S143 (K617 + M724)~~ | MLA47333674 | Redragon | 818 | $105.299 | ❌ rechazado | descartado, ficha `deprioritized` conservada |
 
 ## Cuidado Personal — Secadores de pelo
 
@@ -203,6 +206,43 @@ Candidatos que quedaron afuera: varios productos con más reseñas que estos 6 r
 Candidatos que quedaron afuera: kits de navajas de afeitar manuales mal categorizados como "cortadora" en ML (ej. Gadnic Kit Barbería con porta-navajas, que en realidad es un porta-cuchillas de afeitar manual, no una máquina eléctrica), cortadoras para mascotas y trimmers exclusivos de barba (ya cubiertos o excluidos en la guía de `maquina-de-afeitar`).
 
 **Fichas deprioritizadas (no borradas, solo sacadas del ranking):** Philco HC9901PN (MLA16142518, $27.000, 89 reseñas) y Philco HC9902PN (MLA17922390, $139.999, 251 reseñas). Siguen existiendo como fichas de producto standalone (`visibility: 'deprioritized'`), por si el rechazo del programa de afiliados era puntual y se puede reintentar más adelante.
+
+## Climatización — Aires acondicionados portátiles
+
+> Guía `aire-acondicionado-portatil` (nuevo PILAR del silo climatización, hermano de `estufas-electricas`, STAGED 2026-07-05). Categoría de producto nueva para el sitio, sourced desde `~/Downloads/Clusters Productosvirales (1).xlsx` (research de keywords de Juan). Productos vía Chrome, API oficial de ML caída. Los 3 links `meli.la` ya aplicados.
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Philco PHP35HC7API frío/calor 3.010 fg | MLA45423359 | Philco | 1244 | $629.999 | meli.la/1M4kNgw | **usado** en `aire-acondicionado-portatil` (#1, el más vendido) |
+| BGH BP35WCEW frío/calor | MLA61656125 | BGH | 137 | $759.999 | meli.la/1qEuMix | **usado** en `aire-acondicionado-portatil` (#2, marca con garantía) |
+| Surrey Smart Wi-Fi frío/calor 3.010 kcal/h | MLA54689994 | Surrey | 49 | $935.999 | meli.la/2uLXmbD | **usado** en `aire-acondicionado-portatil` (#3, el único con Wi-Fi, base de reseñas chica) |
+
+Candidatos descartados de la misma sesión de research (xlsx de Juan), por cannibalización con contenido ya publicado: **auriculares gamer inalámbricos** (880-1000/mes, ya cubierto a fondo en `auriculares-gamer`) y **estufa de cuarzo** (1.300-5.400/mes, ya es el producto ancla de `estufa-electrica-bajo-consumo`). De las 2 categorías validadas restantes, **cámaras de seguridad (49.500/mes, SD 24) se usó el 2026-07-06** (guía `camara-de-seguridad`, ver sección Seguridad); queda disponible para la próxima tanda: **cargador portátil/powerbank (12.100/mes, SD 13)**.
+
+## Salud y Bienestar — Balanzas digitales
+
+> Guía `balanza-digital` (nuevo PILAR, primera guía del silo `salud-bienestar`, STAGED 2026-07-06). Categoría de producto nueva para el sitio, misma sesión de research que `aire-acondicionado-portatil`. Productos vía Chrome, API oficial de ML caída. **Faltan los 3 links `meli.la` reales.**
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Femmto BWS11, solo pesa | MLA15503957 | Femmto | 72042 | $12.699 | PEGAR_MELI_LA_BWS11 | **usado** en `balanza-digital` (#1, la más vendida del catálogo) |
+| Femmto BCS13, grasa corporal + IMC + app | MLA19147005 | Femmto | 41368 | $39.999 | PEGAR_MELI_LA_BCS13 | **usado** en `balanza-digital` (#2, análisis corporal) |
+| Xiaomi Mi Body Composition Scale S400 | MLA38252447 | Xiaomi | 1701 | $169.000 | PEGAR_MELI_LA_XIAOMI | **usado** en `balanza-digital` (#3, marca reconocida, 36 memorias) |
+
+## Seguridad — Cámaras de seguridad
+
+> Guía `camara-de-seguridad` (nuevo PILAR, primera guía del silo `seguridad`, STAGED 2026-07-06). Categoría de producto nueva para el sitio, candidata validada del research de Juan (xlsx). Productos vía Chrome, API oficial de ML caída. Rankeados por reviewCount. Specs de la Tapo C210 verificadas contra tp-link.com/ar; Ezviz LATAM 404 y Gadnic sin el SX39 en su web (sin verificar en fabricante, caso normal). **Los 6 links de afiliado ya generados por Juan y aplicados (2026-07-06).**
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Gadnic SX39 motorizada IP66 | MLA18711640 | Gadnic | 21177 | $42.149 | meli.la/2Kod5MG | **usado** en `camara-de-seguridad` (#1, la más vendida) |
+| Geotek GT-A33BN domo doble lente | MLA43877246 | Geotek | 10242 | $53.301 | meli.la/1GQsniy | **usado** en `camara-de-seguridad` (#2, exterior) |
+| TP-Link Tapo C210 2K | MLA19663400 | TP-Link | 5641 | $50.109 | meli.la/2XP2zp1 | **usado** en `camara-de-seguridad` (#3, mejor calificada 4.9, interior) |
+| Ezviz H1C mini interior | MLA26988384 | Ezviz | 5782 | $38.840 | meli.la/1fGvF6y | **usado** en `camara-de-seguridad` (#4, la más económica) |
+| Kit 3 Geotek GT-N3 exterior | MLA48013621 | Geotek | 6272 | $110.490 | meli.la/1Ctzici | **usado** en `camara-de-seguridad` (#5, kit para toda la casa) |
+| Ezviz TY1 motorizada interior | MLA37794717 | Ezviz | 1898 | $42.087 | meli.la/11ACYPJ | **usado** en `camara-de-seguridad` (#6, detección de figura humana, 4.9) |
+
+Candidatos que quedaron afuera (munición para satélites futuros del silo: cámara exterior / kits / solares): Imou Cue 2 IPC-C32EP (MLA65475381, 313 reseñas, $38.000, fija interior de marca, perdió contra la H1C por reseñas), Kit x2 Noax A7 motorizada (MLA54104115, 4.6★), Ezviz C8c domo exterior (MLA51032804), cámaras con panel solar (varias en el listado, sin verificar), Kit 2 Geotek 2mp (MLA49375475) y Kit 2 Geotek 3mp (MLA50438970).
 
 ## Otros silos / categorías
 

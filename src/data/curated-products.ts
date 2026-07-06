@@ -3248,6 +3248,280 @@ Sí, si jugás competitivo, valorás los switches ópticos y querés un teclado 
     ],
   },
 
+  // ─── Kits gamer (teclado + mouse) — importados via Chrome (jul 2026, API ML caída). Silo gaming (STAGED) ───
+  {
+    id: "MLA19079378",
+    title: "Kit Gaming Teclado y Mouse Gadnic Iluminación LED RGB Alta Precisión",
+    canonicalName: "Kit Gamer Gadnic K4 Move",
+    price: 35518,
+    originalPrice: 61649,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_714621-MLA99498663894_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_714621-MLA99498663894_112025-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19079378",
+    affiliateUrl: "https://meli.la/1FRwXdn",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1475,
+    ratingBreakdown: { five: "79.59%", four: "12.68%", three: "3.66%", two: "1.63%", one: "2.44%" },
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "K4 Move (teclado K4 Move + mouse M3 Shoot)" },
+      { label: "Tipo de teclado", value: "Membrana" },
+      { label: "Cantidad de teclas", value: "104" },
+      { label: "Iluminación del teclado", value: "RGB" },
+      { label: "Conexión del teclado", value: "USB 3.0, cable 1,5 m" },
+      { label: "Idioma", value: "Español latinoamericano" },
+      { label: "Tipo de sensor del mouse", value: "Óptico, 2.400 dpi" },
+      { label: "Botones del mouse", value: "4, con selector de sensibilidad" },
+      { label: "Iluminación del mouse", value: "RGB" },
+      { label: "Conexión del mouse", value: "USB 3.0, cable 1,8 m" },
+      { label: "Peso del mouse", value: "90 g" },
+      { label: "Resistencia", value: "A salpicaduras" },
+      { label: "Garantía", value: "12 meses" },
+    ],
+    relatedProducts: ["MLA63650610", "MLA22297233"],
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-05",
+    description: "Kit gamer Gadnic K4 Move: teclado de membrana RGB de 104 teclas + mouse óptico de 2.400 dpi con 3 sensibilidades. El kit gamer más vendido y con más respaldo de opiniones del catálogo, a precio de entrada. Contra honesta: alguna tecla puede empezar a sentirse floja con uso muy intenso.",
+    seoTitle: "Kit Gamer Gadnic K4 Move: el más vendido, ¿conviene?",
+    metaDescription: "Kit gamer Gadnic teclado + mouse RGB: 104 teclas, mouse óptico 2.400 dpi con 3 sensibilidades. Precio, pros y la contra real antes de comprar.",
+    verdict: "El Gadnic K4 Move sirve si querés armar un setup gamer básico completo (teclado + mouse) gastando lo mínimo, con el respaldo de ser el kit más elegido del catálogo. No sirve si buscás un teclado mecánico o un mouse de alta gama para competitivo: acá todo es de entrada, pensado para uso cotidiano y no para exigir al límite.",
+    pros: [
+      "El kit con más calificaciones de esta comparativa (más de 1.400), con 4.7 de promedio",
+      "Precio de entrada: arma teclado + mouse gamer en un solo pago, sin gastar de más",
+      "RGB en ambos periféricos, con posibilidad de apagar la luz si no la querés",
+      "Mouse con selector de 3 sensibilidades (hasta 2.400 dpi) y buena precisión según las reseñas",
+      "Conexión USB 3.0 en los dos y resistencia a salpicaduras",
+      "104 teclas completas (con numérico), en español latinoamericano",
+    ],
+    cons: [
+      "Es membrana, no mecánico: no da la respuesta ni la durabilidad de un switch mecánico",
+      "Alguna reseña marca que ciertas teclas de uso frecuente empiezan a sentirse flojas después de pocos días de uso intensivo",
+      "La luz del teclado es estática (se prende o apaga), no cambia de color ni de efecto como sí hace el mouse",
+      "El cable del mouse es más corto que el del teclado, incómodo si la PC no está cerca",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Gadnic K4 Move es un kit gamer de entrada: un teclado de membrana con 104 teclas e iluminación RGB, más un mouse óptico de 2.400 dpi con selector de sensibilidad. Es, por lejos, el kit gamer con más opiniones de esta comparativa (más de 1.400, con 4.7 de promedio), lo que lo convierte en la opción más probada para quien arma un setup básico completo sin gastar mucho.
+
+## Lo bueno
+
+El combo resuelve dos compras en una: teclado y mouse gamer, ambos con RGB y a precio de entrada. El mouse se destaca en las reseñas por su precisión y el botón para cambiar entre 3 sensibilidades, útil para pasar de navegar a jugar sin reconfigurar nada. Los dos periféricos conectan por USB 3.0 y resisten salpicaduras, y el teclado viene completo con las 104 teclas (incluido el numérico) en español.
+
+## La contra real
+
+No es un kit para competitivo serio: el teclado es de membrana (no mecánico) y el mouse, aunque preciso para su categoría, no compite con sensores de alta gama. Una reseña detallada marca que algunas teclas de uso frecuente empezaron a sentirse "flojas" después de pocos días de uso intensivo (jugando y trabajando 24/7), algo a tener en cuenta si le vas a dar un uso muy exigente. También se nota que la luz del teclado es estática (se apaga o se prende, sin cambiar de color), a diferencia del mouse que sí cambia.
+
+## Para quién sí y para quién no
+
+Comprá el K4 Move si querés armar tu primer setup gamer completo (teclado + mouse) sin gastar de más, y no necesitás mecánico ni un sensor de mouse de alta gama. No lo compres si buscás la sensación y durabilidad de un teclado mecánico, o si tu uso va a ser muy intensivo y exigente: para eso conviene subir a un kit con teclado mecánico, como el Redragon S143 de esta misma guía.`,
+    faq: [
+      { question: "¿El teclado del kit Gadnic es mecánico o de membrana?", answer: "Es de membrana. Da un tipeo más blando y silencioso que un mecánico, pero no tiene la respuesta ni la durabilidad de un switch mecánico real." },
+      { question: "¿Cuántos dpi tiene el mouse del kit Gadnic?", answer: "Hasta 2.400 dpi, con un botón para cambiar entre 3 niveles de sensibilidad sin tener que reconfigurar nada desde la PC." },
+      { question: "¿El kit viene en español con la ñ?", answer: "Sí, el teclado viene en español latinoamericano completo, con las 104 teclas incluido el bloque numérico." },
+      { question: "¿Se puede apagar la luz RGB?", answer: "Sí, tanto el teclado como el mouse permiten apagar la iluminación. La luz del teclado es estática (prendida o apagada); la del mouse sí cambia de color." },
+      { question: "¿Vale la pena para gaming competitivo?", answer: "No es lo ideal. Es un kit de entrada pensado para uso cotidiano y gaming casual. Para competitivo serio conviene un teclado mecánico y un mouse con sensor de mayor gama." },
+    ],
+  },
+  {
+    id: "MLA63650610",
+    title: "Kit Gamer Senon 4 en 1 para PC con Teclado, Mouse, Auriculares y Pad",
+    canonicalName: "Kit Gamer Senon 4 en 1 CGS902",
+    price: 37481,
+    originalPrice: 53544,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_767878-MLA102991515581_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_767878-MLA102991515581_122025-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA63650610",
+    affiliateUrl: "https://meli.la/2Epam1y",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 413,
+    ratingBreakdown: { five: "74.33%", four: "13.08%", three: "5.08%", two: "2.42%", one: "5.08%" },
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Senon" },
+      { label: "Modelo", value: "CGS902" },
+      { label: "Incluye", value: "Teclado, mouse, auriculares y mousepad" },
+      { label: "Tipo de teclado", value: "Membrana" },
+      { label: "Iluminación del teclado", value: "RGB (rojo, verde, azul)" },
+      { label: "Idioma", value: "Español latinoamericano" },
+      { label: "Tipo de sensor del mouse", value: "Óptico, 1.500 dpi" },
+      { label: "Iluminación del mouse", value: "Azul" },
+      { label: "Conexión (teclado y mouse)", value: "USB 2.0" },
+      { label: "Anti-ghosting", value: "Sí" },
+      { label: "Compatibilidad", value: "PlayStation 4, Xbox One, Windows" },
+      { label: "Garantía", value: "12 meses" },
+    ],
+    relatedProducts: ["MLA19079378", "MLA22297233"],
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-05",
+    description: "Kit gamer Senon 4 en 1: teclado de membrana RGB, mouse óptico de 1.500 dpi, auriculares y mousepad, todo en una sola compra. Ideal para armar un setup completo desde cero al precio de un kit chico. El sensor del mouse (1.500 dpi) queda algo básico frente a los otros kits de esta guía.",
+    seoTitle: "Kit Gamer Senon 4 en 1: teclado, mouse y auriculares",
+    metaDescription: "Kit gamer Senon 4 en 1: teclado RGB, mouse, auriculares y mousepad en una sola compra. Precio, specs reales y para quién conviene.",
+    verdict: "El Senon 4 en 1 sirve si estás armando un setup gamer desde cero y querés resolver teclado, mouse, auriculares y mousepad en una sola compra, sin comparar cuatro productos distintos. No sirve si ya tenés auriculares o mousepad propios (pagás por algo que no vas a usar) o si buscás un mouse de sensor más preciso: acá los 1.500 dpi son básicos frente al resto de esta guía.",
+    pros: [
+      "Resuelve cuatro productos en una sola compra: teclado, mouse, auriculares y mousepad",
+      "Precio similar al de un kit de solo teclado + mouse de otras marcas",
+      "Teclado silencioso según las reseñas, con iluminación RGB en tres colores",
+      "Los auriculares incluidos suenan mejor de lo esperado para el precio, según compradores",
+      "Compatible con PC, PS4 y Xbox One",
+    ],
+    cons: [
+      "El sensor del mouse es de 1.500 dpi, más bajo que los otros kits de esta guía (Gadnic llega a 2.400, Redragon a 12.400)",
+      "Es membrana, no mecánico, y conexión USB 2.0 (no 3.0)",
+      "El rating (4.5) y la base de opiniones (413) son los más chicos de los tres kits comparados",
+      "No incluye parlantes ni batería inalámbrica: todo es con cable",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Senon 4 en 1 es un kit gamer pensado para armar un setup completo de una sola vez: incluye teclado de membrana RGB, mouse óptico, auriculares y mousepad. Es la opción para quien no tiene nada todavía y no quiere comparar y comprar cuatro productos por separado.
+
+## Lo bueno
+
+La gracia del combo es justamente eso: resolvés cuatro compras en una, a un precio parecido al de un kit de solo teclado y mouse de otras marcas. Las reseñas destacan que el teclado es silencioso y que los auriculares incluidos suenan mejor de lo que esperaban para el precio. El teclado ilumina en tres colores (rojo, verde, azul) y es compatible además de con PC, con PlayStation 4 y Xbox One.
+
+## La contra real
+
+El mouse tiene un sensor óptico de 1.500 dpi, la especificación más baja de los tres kits que comparamos en esta guía (el Gadnic llega a 2.400 y el Redragon a 12.400): para uso cotidiano no se nota, pero para juegos que exigen precisión de puntería es una limitación real. También es el kit con menos respaldo de opiniones (413, frente a más de 800 y más de 1.400 de los otros dos) y el rating más bajo (4.5). Todo es de membrana y conexión USB 2.0, sin extras como batería inalámbrica o parlantes.
+
+## Para quién sí y para quién no
+
+Comprá el Senon 4 en 1 si estás armando tu setup gamer de cero y preferís resolver teclado, mouse, auriculares y mousepad en una sola compra sencilla. No lo compres si ya tenés auriculares o mousepad (pagás de más por algo que no vas a usar) o si tu prioridad es la precisión del mouse: para eso, el Gadnic K4 Move o el Redragon S143 de esta guía rinden mejor.`,
+    faq: [
+      { question: "¿Qué incluye el kit Senon 4 en 1?", answer: "Teclado de membrana RGB, mouse óptico, auriculares y mousepad, todo en una sola compra." },
+      { question: "¿Cuántos dpi tiene el mouse del Senon?", answer: "1.500 dpi. Es el más bajo de los kits comparados en esta guía (el Gadnic llega a 2.400 y el Redragon a 12.400), suficiente para uso cotidiano pero básico para juegos que exigen precisión." },
+      { question: "¿Los auriculares del kit son buenos?", answer: "Según las reseñas, sí para el precio: se destacan como mejores de lo esperado dentro de un combo económico." },
+      { question: "¿Sirve para consola o solo para PC?", answer: "Es compatible con PC, PlayStation 4 y Xbox One." },
+      { question: "¿Conviene el kit 4 en 1 o comprar teclado y mouse por separado?", answer: "Si ya tenés auriculares o mousepad, conviene comprar teclado y mouse por separado (como el Gadnic K4 Move) para no pagar de más. Si arrancás de cero, el 4 en 1 resuelve todo junto a buen precio." },
+    ],
+  },
+  {
+    id: "MLA22297233",
+    title: "Combo Kit Gamer Teclado Mecanico + Mouse Optico Level Up Negro",
+    canonicalName: "Kit Gamer Level Up Pegasus",
+    price: 94839,
+    originalPrice: 108281,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_881192-MLA99451391438_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_881192-MLA99451391438_112025-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA22297233",
+    affiliateUrl: "https://meli.la/1ZW994A",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 88,
+    ratingBreakdown: { five: "82.95%", four: "12.5%", three: "4.55%", two: "0%", one: "0%" },
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Level Up" },
+      { label: "Modelo", value: "Pegasus" },
+      { label: "Tipo de teclado", value: "Mecánico" },
+      { label: "Switch", value: "Outemu Blue (clicky)" },
+      { label: "Idioma", value: "Español latinoamericano" },
+      { label: "Iluminación del teclado", value: "LED de color, se puede apagar" },
+      { label: "Anti-ghosting", value: "Sí" },
+      { label: "Reposamuñecas", value: "Incluido" },
+      { label: "Conexión del teclado", value: "USB 2.0" },
+      { label: "Tipo de sensor del mouse", value: "Óptico A804, 4.800 dpi" },
+      { label: "Iluminación del mouse", value: "LED de color, se puede apagar" },
+      { label: "Conexión del mouse", value: "USB 2.0" },
+      { label: "Garantía", value: "12 meses" },
+    ],
+    relatedProducts: ["MLA19079378", "MLA63650610"],
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-05",
+    description: "Kit gamer Level Up Pegasus: teclado mecánico con switches Outemu Blue y reposamuñecas incluido, más mouse óptico de 4.800 dpi. El kit mecánico de esta comparativa, en español con ñ. Contra honesta: el switch clicky hace ruido, aunque las reseñas dicen que uno se acostumbra rápido.",
+    seoTitle: "Kit Gamer Level Up Pegasus: mecánico, ¿vale la pena?",
+    metaDescription: "Kit gamer Level Up Pegasus: teclado mecánico Outemu Blue + mouse 4.800 dpi. Precio real, pros, contras y para quién conviene.",
+    verdict: "El Level Up Pegasus sirve si querés dar el salto a un teclado mecánico de verdad, en español con ñ y con reposamuñecas incluido, sin pagar tanto como otros kits mecánicos. No sirve si te molesta el ruido de un switch clicky o si preferís un sensor de mouse más alto: para eso hay que subir de gama.",
+    pros: [
+      "Teclado mecánico de verdad con switches Outemu Blue, no membrana",
+      "Viene en español latinoamericano con ñ",
+      "Incluye reposamuñecas, algo que no todos los kits de esta franja traen",
+      "Se puede apagar la luz LED del teclado y del mouse si molesta",
+      "4.8 de rating en 88 calificaciones, sin ninguna reseña de 1 o 2 estrellas al momento de esta revisión",
+      "Anti-ghosting para gaming",
+    ],
+    cons: [
+      "El switch Outemu Blue es clicky: hace ruido, aunque varias reseñas dicen que te acostumbrás rápido",
+      "El sensor del mouse es de 4.800 dpi, más bajo que otros kits mecánicos de gama alta",
+      "Base de opiniones más chica (88) que los otros dos kits económicos de esta guía",
+      "Conexión USB 2.0 en los dos periféricos, no 3.0",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Level Up Pegasus es el kit gamer mecánico de esta comparativa: un teclado con switches Outemu Blue (mecánicos de verdad) y reposamuñecas incluido, más un mouse óptico de 4.800 dpi. Es para quien ya sabe que quiere mecánico, en español con ñ, sin pagar el precio de un kit de sensor de gama alta.
+
+## Lo bueno
+
+El salto a mecánico se siente: switch Outemu Blue con el click y la respuesta característicos, algo que ningún kit de membrana da. Suma reposamuñecas (no todos los kits de esta franja lo incluyen) y viene completo en español latinoamericano. Las reseñas destacan la relación precio-calidad y que se puede apagar la luz del teclado y del mouse si no la querés. Tiene 4.8 de rating en 88 calificaciones, sin ninguna reseña negativa de 1 o 2 estrellas al momento de esta revisión.
+
+## La contra real
+
+El switch Outemu Blue es clicky, así que hace ruido: varias reseñas lo mencionan, aunque coinciden en que uno se acostumbra en poco tiempo y hasta "tiene su encanto". El sensor del mouse (4.800 dpi) es más básico que el de kits mecánicos de gama más alta, y la base de opiniones (88) es más chica que la de los kits económicos de membrana de esta guía. La conexión es USB 2.0 en ambos periféricos.
+
+## Para quién sí y para quién no
+
+Comprá el Level Up Pegasus si ya decidiste que querés un teclado mecánico de verdad, en español, con reposamuñecas incluido, y no te importa el ruido del switch clicky. No lo compres si compartís ambiente y el ruido es un problema, o si buscás el sensor de mouse más preciso posible: para eso hace falta subir de gama.`,
+    faq: [
+      { question: "¿El teclado del Level Up Pegasus es mecánico?", answer: "Sí, mecánico con switches Outemu Blue, que son clicky (con click marcado) y dan mejor respuesta y durabilidad que un teclado de membrana." },
+      { question: "¿Hace ruido el teclado?", answer: "Sí, el switch Outemu Blue es clicky y hace ruido al tipear. Las reseñas coinciden en que uno se acostumbra rápido, pero si compartís ambiente puede molestar." },
+      { question: "¿Viene con reposamuñecas?", answer: "Sí, lo incluye, algo que no todos los kits gamer de esta franja de precio traen." },
+      { question: "¿Se puede apagar la luz del teclado y el mouse?", answer: "Sí, la iluminación LED de color se puede apagar en los dos periféricos si no la querés." },
+      { question: "¿Cuántos dpi tiene el mouse?", answer: "4.800 dpi con sensor óptico A804, suficiente para uso gamer general aunque no es el sensor más alto del mercado." },
+    ],
+  },
+  {
+    // Rechazado por el Programa de Afiliados de ML el 05-jul-2026 ("Esta URL no está permitida en el Programa").
+    // Reemplazado por MLA22297233 (Level Up Pegasus) en la guía kit-gamer. Ficha conservada por si el rechazo
+    // era puntual y se puede reintentar el link de afiliado más adelante.
+    id: "MLA47333674",
+    title: "Kit Gamer Redragon S143 Teclado Y Mouse K617RGB SP + M724 Negro",
+    canonicalName: "Kit Gamer Redragon S143 (K617RGB + M724)",
+    price: 105299,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_803756-MLA111518174498-F.webp",
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA47333674",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 818,
+    visibility: "deprioritized",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
+    priceStatus: "fresh",
+    description: "Kit gamer Redragon S143: teclado mecánico Cherry MX Red + mouse óptico de 12.400 dpi. Rechazado por el Programa de Afiliados de MercadoLibre (05-jul-2026); reemplazado por el Level Up Pegasus en la guía kit-gamer.",
+  },
+
   // ─── Auriculares gamer — importados via API oficial de ML (jun 2026). Silo gaming (STAGED) ───
   {
     id: "MLA9406415",
@@ -3967,8 +4241,7 @@ Comprá el G733 si jugás en PC o PlayStation, querés inalámbrico sin lag y va
     id: "MLA18193159",
     title: "Microondas Bgh Quick Chef 20 Litros B120m20",
     canonicalName: "Microondas BGH Quick Chef 20L B120M20",
-    price: 155999,
-    originalPrice: 187999,
+    price: 179900,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg",
     images: [
@@ -4002,8 +4275,8 @@ Comprá el G733 si jugás en PC o PlayStation, querés inalámbrico sin lag y va
       { label: "Garantía", value: "12 meses (BGH)" },
     ],
     relatedProducts: ["MLA17695389", "MLA17484012"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas BGH Quick Chef de 20 litros y 700 W con control a perillas: el más vendido del país, simple y al mejor precio. Más de 4.100 calificaciones. Para descongelar y calentar sin renegar con menús digitales.",
     seoTitle: "BGH B120M20: el microondas más vendido, ¿conviene?",
@@ -4098,7 +4371,7 @@ Es un microondas honesto: hace lo básico bien, es barato y tiene respaldo de ma
     id: "MLA17695389",
     title: "Microondas Bgh Digital Quick Chef Eco 20 Litros B120ds20",
     canonicalName: "Microondas BGH Quick Chef Eco Digital 20L B120DS20",
-    price: 221999,
+    price: 202099,
     originalPrice: 309999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_837381-MLA112536805479_052026-F.jpg",
@@ -4134,8 +4407,8 @@ Es un microondas honesto: hace lo básico bien, es barato y tiene respaldo de ma
       { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA18193159", "MLA17484012"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas BGH Quick Chef Eco de 20 litros y 700 W con control digital y menús automáticos. El BGH digital más elegido, con más de 3.700 calificaciones. Mismo tamaño que el de perillas, con panel para programar.",
     seoTitle: "Microondas BGH B120DS20 Eco 20L: ¿conviene? Análisis",
@@ -4221,8 +4494,7 @@ Es una compra sensata si tu uso es el común. BGH digital, descongelado por peso
     id: "MLA10531383",
     title: "Microondas Grill Samsung De Interior Cerámico Mg23f3k3tak 23L Negro",
     canonicalName: "Microondas Samsung con Grill 23L MG23F3K3TAK",
-    price: 261199,
-    originalPrice: 326499,
+    price: 326499,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_874785-MLA99495727344_112025-F.jpg",
     images: [
@@ -4254,8 +4526,8 @@ Es una compra sensata si tu uso es el común. BGH digital, descongelado por peso
       { label: "Peso", value: "13 kg" },
     ],
     relatedProducts: ["MLA17484012", "MLA62204337"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas Samsung de 23 litros con grill e interior cerámico (más fácil de limpiar y resistente). Dora y gratina además de calentar. Importante: pide un toma de 20 A, así que puede que tengas que cambiar el enchufe. Más de 3.600 calificaciones.",
     seoTitle: "Samsung MG23F3K3TAK: microondas con grill cerámico 23L",
@@ -4355,8 +4627,8 @@ Buen microondas con grill, con la marca y el service de Samsung detrás, y 4.7 e
     id: "MLA17484012",
     title: "Microondas Bgh 28 Litros 1500w Digital Eco B228ds20",
     canonicalName: "Microondas BGH 28L Digital Eco B228DS20",
-    price: 330200,
-    originalPrice: 448999,
+    price: 309399,
+    originalPrice: 419999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_694473-MLA98765323775_112025-F.jpg",
     images: [
@@ -4388,8 +4660,8 @@ Buen microondas con grill, con la marca y el service de Samsung detrás, y 4.7 e
       { label: "Funciones", value: "Descongelado automático, cocción por etapas, plato giratorio" },
     ],
     relatedProducts: ["MLA18193159", "MLA10531383"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas BGH de 28 litros (de los más grandes: entra una fuente o una pizza), 900 W de potencia, control digital y grill. Para familia o quien cocina en serio. Más de 2.800 calificaciones y diseño espejado.",
     seoTitle: "Microondas BGH 28L B228DS20: ¿conviene? Grill y digital",
@@ -4714,8 +4986,8 @@ El LG MH6535GIS es el microondas premium de la categoría y se justifica para qu
     id: "MLA19079384",
     title: "Microondas Bgh Eco Negro Digital 23 Litros 800w Negro",
     canonicalName: "Microondas BGH Eco Digital 23L B223DN20",
-    price: 255999,
-    originalPrice: 349999,
+    price: 264999,
+    originalPrice: 353333,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_624996-MLA98764824879_112025-F.jpg",
     images: [
@@ -4751,8 +5023,8 @@ El LG MH6535GIS es el microondas premium de la categoría y se justifica para qu
       { label: "Modelo", value: "B223DN20I" },
     ],
     relatedProducts: ["MLA18193159", "MLA17484012"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas BGH Eco de 23 litros, 800 W y con grill (1000 W) para dorar: un escalón de tamaño y de funciones sobre los de 20 litros, sin saltar al de 28. Control digital. Más de 2.000 calificaciones.",
     seoTitle: "Microondas BGH Eco 23L 800W con Grill: review honesta",
@@ -4852,7 +5124,8 @@ El BGH Eco 23L es un microondas de gama media bien resuelto para el uso de todos
     id: "MLA8891728",
     title: "Microondas Grill Atma Easy Cook Md1723gn Blanco 23l",
     canonicalName: "Microondas Atma Easy Cook 23L Grill MD1723GN",
-    price: 260000,
+    price: 266023,
+    originalPrice: 296999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_962709-MLA99968478571_112025-F.jpg",
     images: [
@@ -4884,8 +5157,8 @@ El BGH Eco 23L es un microondas de gama media bien resuelto para el uso de todos
       { label: "Color", value: "Blanco" },
     ],
     relatedProducts: ["MLA41009857", "MLA56215513"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas Atma Easy Cook de 23 litros con grill (incluye parrilla) y descongelado por peso. Más de 1.500 calificaciones. Contra honesta de las reseñas: es liviano, así que al tirar de la manija se mueve hacia adelante.",
     seoTitle: "Atma MD1723GN 23L: microondas con grill, review honesta",
@@ -4978,7 +5251,8 @@ Por casi 1.600 opiniones y 4.7 estrellas, el Atma MD1723GN es un microondas con 
     id: "MLA28645101",
     title: "Microondas Rotativo Matrb20an 20lts 700w Negro Atma",
     canonicalName: "Microondas Atma 20L MATRB20AN",
-    price: 186279,
+    price: 208990,
+    originalPrice: 325690,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_676003-MLA99944707903_112025-F.jpg",
     images: [
@@ -5010,8 +5284,8 @@ Por casi 1.600 opiniones y 4.7 estrellas, el Atma MD1723GN es un microondas con 
       { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA41009857", "MLA8891728"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas Atma de 20 litros y 700 W con plato giratorio, en negro: la opción más económica de Atma para calentar y descongelar. Más de 800 calificaciones.",
     seoTitle: "Microondas Atma MATRB20AN 20L: ¿conviene? Review",
@@ -5106,8 +5380,7 @@ El Atma MATRB20AN hace una cosa y la hace bien: calentar y descongelar para una 
     id: "MLA56215513",
     title: "Microondas Atma 25l Full Screen Con Grill Digital Negro",
     canonicalName: "Microondas Atma 25L Full Screen Grill WATDGB25UAP",
-    price: 233494,
-    originalPrice: 325000,
+    price: 251999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_808546-MLA92497413759_092025-F.jpg",
     images: [
@@ -5140,8 +5413,8 @@ El Atma MATRB20AN hace una cosa y la hace bien: calentar y descongelar para una 
       { label: "Origen", value: "China" },
     ],
     relatedProducts: ["MLA41009857", "MLA8891728"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Microondas Atma de 25 litros con grill y panel digital full screen: el más grande y completo de la gama Atma, para quien quiere espacio y dorar. 4.8 estrellas.",
     seoTitle: "Microondas Atma 25L con Grill Digital: review honesta",
@@ -5752,7 +6025,7 @@ Es de los hornos de mesa más completos para cocinar en serio sin horno de cocin
     id: "MLA23364885",
     title: "Horno Electrico Bgh 45litros Conveccion Grill Bhe45s22 Plateado",
     canonicalName: "Horno Eléctrico BGH 45L Convección Grill BHE45S22",
-    price: 196527,
+    price: 268000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_996685-MLA108918631068_032026-F.jpg",
     images: [
@@ -5788,8 +6061,8 @@ Es de los hornos de mesa más completos para cocinar en serio sin horno de cocin
       { label: "Garantía", value: "12 meses de fábrica" },
     ],
     relatedProducts: ["MLA27167036", "MLA15545846"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa BGH de 45 litros con convección y grill, de una marca con service en el país. Calienta rápido y cocina parejo, elegido hasta para emprendimientos de pastelería. 2000 W. Más de 1.100 calificaciones.",
     seoTitle: "Horno BGH BHE45S22 45L: convección, grill y service AR",
@@ -6017,7 +6290,7 @@ Para sumar horno y dos hornallas sin instalar gas, el Atma HG4022API cumple: 40 
     id: "MLA20010900",
     title: "Horno Electrico Atma 91HGA5021N Grill 50lts 200°C Negro",
     canonicalName: "Horno Eléctrico Atma 50L Grill HGA5021N",
-    price: 200000,
+    price: 499999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_909832-MLA99931136005_112025-F.jpg",
     images: [
@@ -6050,8 +6323,8 @@ Para sumar horno y dos hornallas sin instalar gas, el Atma HG4022API cumple: 40 
       { label: "Incluye", value: "Bandeja y rejilla" },
     ],
     relatedProducts: ["MLA27167036", "MLA21789761"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Horno eléctrico de sobremesa Atma de 50 litros con grill: calienta rápido y podés elegir dónde dorar (arriba, abajo o ambos), con timer e intensidad. Más de 1.500 calificaciones, a buen precio frente a las marcas más conocidas.",
     seoTitle: "Horno Atma HGA5021N 50L Grill: review honesta y para quién",
@@ -6273,7 +6546,7 @@ El Atma HGA3022 es una compra sensata para una pareja o familia chica que quiere
     id: "MLA29108606",
     title: "Horno Grill Con Freidora De Aire Atma Hgfa2323pi 23l Plateado",
     canonicalName: "Horno Eléctrico Atma 23L con Freidora de Aire HGFA2323PI",
-    price: 203457,
+    price: 191809,
     originalPrice: 299999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_998215-MLA99999752085_112025-F.jpg",
@@ -6308,8 +6581,8 @@ El Atma HGA3022 es una compra sensata para una pareja o familia chica que quiere
       { label: "Voltaje", value: "220 V" },
     ],
     relatedProducts: ["MLA27167036", "MLA20010900"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Horno eléctrico Atma de 23 litros (1800 W) que además es freidora de aire: la función air fryer es convección forzada con canasta perforada incluida, integrada como un modo más. Horneás y freís con aire (más sano, sin tanto aceite) en el mismo equipo. Más de 590 calificaciones.",
     seoTitle: "Horno Atma HGFA2323PI 23L con Freidora de Aire: review",
@@ -6399,7 +6672,7 @@ Es un dos en uno honesto para uso de a poco. 1800 W, grill completo, convección
     id: "MLA58514868",
     title: "Robot De Cocina Suono Neochef Pro Digital y Accesorios 4.7l Negro",
     canonicalName: "Robot de Cocina Suono Neochef Pro 4.7L",
-    price: 599999,
+    price: 569999,
     originalPrice: 850999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_631696-MLA99413419718_112025-F.jpg",
@@ -6435,8 +6708,8 @@ Es un dos en uno honesto para uso de a poco. 1800 W, grill completo, convección
       { label: "Garantía", value: "12 meses" },
     ],
     relatedProducts: ["MLA51527087", "MLA62799773"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Robot de cocina Suono Neochef Pro: bowl de 4.7 litros, 1700 W y más de 20 funciones (amasa, cocina, cocina al vapor, pica, pesa, sofríe). El más completo y mejor valorado del nicho en MercadoLibre, una alternativa económica a la Thermomix.",
     seoTitle: "Suono Neochef Pro 4.7L: la alternativa a la Thermomix",
@@ -10280,7 +10553,7 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
     id: "MLA39962085",
     title: "Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro",
     canonicalName: "Auriculares Xiaomi Redmi Buds 6 Play",
-    price: 19800,
+    price: 33000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_802305-MLA95679505222_102025-F.jpg",
     images: [
@@ -10314,8 +10587,8 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
       { label: "Modo baja latencia", value: "~80 ms (pleno en Android/Xiaomi)" },
     ],
     relatedProducts: ["MLA28026305", "MLA23138487"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Auriculares Xiaomi Redmi Buds 6 Play: in-ear inalámbricos, los más vendidos de Argentina (más de 85.000 calificaciones) a precio bajísimo. La compra segura para uso diario.",
     seoTitle: "Xiaomi Redmi Buds 6 Play: el TWS barato más vendido",
@@ -10408,7 +10681,7 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
     id: "MLA23138487",
     title: "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro",
     canonicalName: "Auriculares Sony WH-CH520",
-    price: 80000,
+    price: 84999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_932176-MLA99502277578_112025-F.jpg",
     images: [
@@ -10440,8 +10713,8 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
       { label: "Multipoint", value: "Sí, 2 equipos a la vez" },
     ],
     relatedProducts: ["MLA53285777", "MLA39962085"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Auriculares Sony WH-CH520: vincha inalámbrica con hasta 50 horas de batería, la más vendida del segmento (más de 13.000 calificaciones). Comodidad y autonomía por buen precio.",
     seoTitle: "Sony WH-CH520: la vincha barata de 50 horas, ¿conviene?",
@@ -10535,7 +10808,7 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
     id: "MLA38451794",
     title: "Samsung Galaxy Buds3 Pro Color Grafito",
     canonicalName: "Auriculares Samsung Galaxy Buds3 Pro",
-    price: 329999,
+    price: 354999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_652688-MLA96099645533_102025-F.jpg",
     images: [
@@ -10565,8 +10838,8 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
       { label: "Compatibilidad plena", value: "Funciones avanzadas requieren celular Samsung Galaxy reciente" },
     ],
     relatedProducts: ["MLA39962085", "MLA53285777"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Auriculares Samsung Galaxy Buds3 Pro: in-ear premium con cancelación activa de ruido y sonido de alta calidad. La opción de gama alta para quien busca lo mejor.",
     seoTitle: "Samsung Galaxy Buds3 Pro: review honesto y para quién",
@@ -10666,7 +10939,7 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
     id: "MLA53285777",
     title: "Auriculares Inalambricos Jbl Tune 770nc Over Ear Color Negro",
     canonicalName: "Auriculares JBL Tune 770NC",
-    price: 149999,
+    price: 158751,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_797671-MLA88854192736_082025-F.jpg",
     images: [
@@ -10702,8 +10975,8 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
       { label: "Resistencia al agua", value: "No tiene" },
     ],
     relatedProducts: ["MLA23138487", "MLA38451794"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Auriculares JBL Tune 770NC: vincha over-ear con cancelación activa de ruido, ideal para viajes y oficina. Sonido JBL y buen aislamiento por precio medio.",
     seoTitle: "JBL Tune 770NC: ANC y 70h de batería, ¿conviene?",
@@ -10926,7 +11199,7 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
     id: "MLA28026305",
     title: "Auriculares Inalámbricos Lenovo Livepod Lp75 Bluetooth Negro",
     canonicalName: "Auriculares Lenovo LivePod LP75",
-    price: 31681,
+    price: 44000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_765001-MLA99968188569_112025-F.jpg",
     images: [
@@ -10958,8 +11231,8 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
       { label: "Resistencia al agua (IP)", value: "No declarada" },
     ],
     relatedProducts: ["MLA39962085", "MLA41255867"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Auriculares Lenovo LivePod LP75: in-ear inalámbricos súper baratos con más de 7.400 calificaciones. La opción más económica con respaldo real de ventas.",
     seoTitle: "Lenovo LivePod LP75: los más baratos con gancho deportivo",
@@ -11053,7 +11326,7 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
     id: "MLA53657592",
     title: "Auriculares Jbl Wave Beam 2 Tws In-ear Negro",
     canonicalName: "Auriculares JBL Wave Beam 2",
-    price: 99990,
+    price: 108099,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_826282-MLA99972049705_112025-F.jpg",
     images: [
@@ -11086,8 +11359,8 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
       { label: "App", value: "JBL Headphones (ecualizador y control de ANC)" },
     ],
     relatedProducts: ["MLA23997257", "MLA53285777"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Auriculares JBL Wave Beam 2: in-ear inalámbricos con sonido JBL, para uso diario y llamadas. La entrada in-ear de la marca.",
     seoTitle: "JBL Wave Beam 2: review honesta del in-ear con ANC",
@@ -11440,8 +11713,7 @@ La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, mu
     id: "MLA43473453",
     title: "Auriculares Inalámbricos Bluetooth Lenovo XT80 para Deporte con Cancelación de Ruido",
     canonicalName: "Auriculares Deportivos Lenovo XT80",
-    price: 27053,
-    originalPrice: 30209,
+    price: 33050,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_651594-MLA80833632193_112024-F.jpg",
     images: [
@@ -11472,8 +11744,8 @@ La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, mu
       { label: "Controles", value: "Botones físicos" },
     ],
     relatedProducts: ["MLA41255867", "MLA41013705"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Auriculares deportivos Lenovo XT80: in-ear para deporte, inalámbricos y económicos, con buen respaldo de ventas. La opción barata para entrenar.",
     seoTitle: "Lenovo XT80: review honesta de los auriculares deportivos",
@@ -11677,8 +11949,8 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
     id: "MLA6343490",
     title: "Auriculares Audio-Technica M-Series ATH-M20x Negro",
     canonicalName: "Audio-Technica ATH-M20x",
-    price: 150965,
-    originalPrice: 158910,
+    price: 149999,
+    originalPrice: 169900,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_674344-MLA99851589465_112025-F.jpg",
     images: [
@@ -11711,8 +11983,8 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
       { label: "Peso", value: "Aprox. 190 g (sin cable)" },
     ],
     relatedProducts: ["MLA6344268", "MLA24560880"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Audio-Technica ATH-M20x: la entrada a los auriculares de estudio, cerrados y con cable, para monitoreo y edición. El estudio más vendido, con más de 2.200 calificaciones.",
     seoTitle: "Audio-Technica ATH-M20x: el estudio de entrada (review)",
@@ -11949,7 +12221,7 @@ El ATH-M30x es la opción correcta para producir en casa con presupuesto medido:
     id: "MLA6337847",
     title: "Audio Technica M40x Auriculares Cerrados Negro",
     canonicalName: "Audio-Technica ATH-M40x",
-    price: 308000,
+    price: 337443,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_645445-MLA99479736888_112025-F.jpg",
     images: [
@@ -11979,8 +12251,8 @@ El ATH-M30x es la opción correcta para producir en casa con presupuesto medido:
       { label: "Cápsulas", value: "Rotan 90° para monitoreo mono" },
     ],
     relatedProducts: ["MLA24560880", "MLA6344268"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Audio-Technica ATH-M40x: monitor de estudio con respuesta de sonido plana, ideal para mezclar con referencia neutra. Cable desmontable, gama profesional.",
     seoTitle: "Audio-Technica ATH-M40x: el monitor plano para mezclar",
@@ -12193,7 +12465,7 @@ No: si necesitás referencia 100% plana para masterización profesional, si quer
     id: "MLA6072318",
     title: "Auriculares Sennheiser HD 280 Pro Black",
     canonicalName: "Sennheiser HD 280 Pro",
-    price: 280000,
+    price: 324558,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_725683-MLA99456727358_112025-F.jpg",
     images: [
@@ -12226,8 +12498,8 @@ No: si necesitás referencia 100% plana para masterización profesional, si quer
       { label: "Diseño", value: "Plegable, almohadillas y vincha reemplazables" },
     ],
     relatedProducts: ["MLA24560880", "MLA6343490"],
-    priceUpdated: "2026-07-02",
-    priceLastChecked: "2026-07-02",
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
     description: "Sennheiser HD 280 Pro: monitor de estudio cerrado con gran aislamiento pasivo del ruido, un clásico para grabación. Con cable, la alternativa Sennheiser a la línea M.",
     seoTitle: "Sennheiser HD 280 Pro: aislamiento de estudio con cable",
@@ -45249,6 +45521,1370 @@ Ficha creada para la futura guía \`depiladora-laser\`. No está referenciada to
 
 Ficha creada para la futura guía \`depiladora-laser\`. No está referenciada todavía en ninguna guía publicada del sitio.`,
     faq: [],
+  },
+
+  // ─── Aires acondicionados portátiles — importados via Chrome (jul 2026, API ML caída). Silo climatizacion (STAGED) ───
+  {
+    id: "MLA45423359",
+    title: "Aire Acondicionado PHP35HC7API Philco Portátil Frío/calor 3010 Frigorías Color Blanco",
+    canonicalName: "Aire Acondicionado Portátil Philco PHP35HC7API",
+    price: 629999,
+    originalPrice: 720299,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA45423359",
+    affiliateUrl: "https://meli.la/1M4kNgw",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1244,
+    ratingBreakdown: { five: "81.75%", four: "13.18%", three: "2.89%", two: "0.64%", one: "1.53%" },
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Philco" },
+      { label: "Modelo", value: "PHP35HC7API" },
+      { label: "Tipo de climatización", value: "Frío/Calor" },
+      { label: "Frigorías", value: "3.010 fg" },
+      { label: "Potencia de refrigeración", value: "1,75 kW" },
+      { label: "Potencia de calefacción", value: "1,4 kW" },
+      { label: "Tecnología inverter", value: "No" },
+      { label: "Wi-Fi", value: "No" },
+      { label: "Panel de control", value: "Electrónico, con pantalla digital" },
+      { label: "Temporizador", value: "Sí" },
+      { label: "Función sueño", value: "Sí" },
+      { label: "Filtro", value: "Lavable" },
+      { label: "Gas refrigerante", value: "R-32" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA61656125", "MLA54689994"],
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-05",
+    description: "Aire acondicionado portátil Philco PHP35HC7API: 3.010 frigorías, frío/calor, con temporizador y filtro lavable. El más vendido y con más opiniones de esta comparativa (más de 1.200). Contra honesta: el sistema para fijarlo a la ventana no queda del todo firme según varios compradores.",
+    seoTitle: "Aire Acondicionado Philco PHP35HC7API: ¿vale la pena?",
+    metaDescription: "Aire acondicionado portátil Philco PHP35HC7API: 3.010 frigorías, frío/calor, filtro lavable. Precio real, pros, contras y para quién conviene.",
+    verdict: "El Philco PHP35HC7API sirve si querés un portátil frío/calor confiable, con el respaldo de ser el más vendido y valorado de esta comparativa, para un ambiente de tamaño medio. No sirve si tenés una instalación eléctrica vieja sin cables gruesos (varias reseñas piden reforzarla) o si buscás Wi-Fi: no lo tiene.",
+    pros: [
+      "El más vendido y con más opiniones de esta comparativa (más de 1.200 calificaciones, 4.7 de promedio)",
+      "Frío y calor en un solo equipo, con 3.010 frigorías",
+      "Filtro lavable y función sueño para uso nocturno",
+      "Panel electrónico con pantalla digital y temporizador",
+      "Buena relación precio-prestaciones dentro de la marca",
+    ],
+    cons: [
+      "El sistema para fijarlo a la ventana no queda del todo estable, según varias reseñas",
+      "En instalaciones eléctricas viejas, puede hacer falta reforzar el cableado (mismo caso que un split, según compradores)",
+      "No tiene Wi-Fi ni tecnología inverter",
+      "El plástico de adaptación a la ventana es corto, según algunas reseñas (algo común a todos los portátiles, no exclusivo de este)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Philco PHP35HC7API es un aire acondicionado portátil frío/calor de 3.010 frigorías: un equipo con ruedas que enfría o calienta un ambiente sin instalación fija, solo con una manguera que sale por una ventana. Es el más vendido y mejor valorado de esta comparativa, con más de 1.200 calificaciones.
+
+## Lo bueno
+
+Cubre las dos estaciones en un solo aparato (frío en verano, calor en invierno), con panel electrónico, pantalla digital, temporizador y función sueño para dejarlo andando de noche sin que el ruido moleste tanto. El filtro es lavable, así que el mantenimiento no exige comprar repuestos. Por precio y respaldo de opiniones, es la entrada más segura a la categoría.
+
+## La contra real
+
+El punto que más se repite en las reseñas es el kit para fijarlo a la ventana: varios compradores dicen que no queda del todo estable. También hay un aviso técnico importante de un comprador con casa vieja: si tu instalación eléctrica es antigua, puede hacer falta reforzar el cableado, igual que pasaría instalando un split. No tiene Wi-Fi ni inverter, así que no se controla de forma remota ni regula la potencia de forma continua.
+
+## Para quién sí y para quién no
+
+Comprá el Philco PHP35HC7API si querés un portátil frío/calor confiable para un ambiente de tamaño medio, con el respaldo de ser el más elegido del mercado. No lo compres si tu instalación eléctrica es vieja y no la vas a revisar antes, o si te interesa controlarlo por Wi-Fi: para eso, mirá una opción con conectividad smart.`,
+    faq: [
+      { question: "¿Cuántos metros cuadrados enfría el Philco PHP35HC7API?", answer: "Con 3.010 frigorías, rinde bien en ambientes medianos (un dormitorio o living chico). Para espacios más grandes, puede quedar corto." },
+      { question: "¿Necesita instalación fija?", answer: "No, es portátil: se mueve con ruedas y solo requiere sacar una manguera de evacuación por una ventana con el kit que incluye." },
+      { question: "¿Sirve para calefaccionar en invierno?", answer: "Sí, es frío/calor: el mismo equipo calienta en invierno y enfría en verano, con hasta 1,4 kW de potencia de calefacción." },
+      { question: "¿Hace falta revisar la instalación eléctrica de casa?", answer: "En casas o instalaciones eléctricas viejas, sí puede hacer falta reforzar el cableado, según reportan compradores con ese caso. En instalaciones modernas no suele ser un problema." },
+      { question: "¿Tiene Wi-Fi para controlarlo desde el celular?", answer: "No, este modelo no tiene Wi-Fi. Si buscás control remoto por app, hay que ir a un modelo smart, como otras opciones de esta guía." },
+    ],
+  },
+  {
+    id: "MLA61656125",
+    title: "Aire Acondicionado Bgh Bp35wcew Portátil Frío/calor",
+    canonicalName: "Aire Acondicionado Portátil BGH BP35WCEW",
+    price: 759999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_940182-MLA99498239310_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_940182-MLA99498239310_112025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA61656125",
+    affiliateUrl: "https://meli.la/1qEuMix",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 137,
+    ratingBreakdown: { five: "83.21%", four: "12.41%", three: "2.19%", two: "1.46%", one: "0.73%" },
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "BGH" },
+      { label: "Modelo", value: "BP35WCEW" },
+      { label: "Tipo de climatización", value: "Frío/Calor" },
+      { label: "Potencia", value: "3.500 W" },
+      { label: "Peso", value: "28,3 kg" },
+      { label: "Dimensiones", value: "41 x 30 x 69,5 cm (ancho x prof. x alto)" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Garantía", value: "Oficial BGH en el país" },
+    ],
+    relatedProducts: ["MLA45423359", "MLA54689994"],
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-05",
+    description: "Aire acondicionado portátil BGH BP35WCEW: frío/calor, marca con garantía y service en el país. 4.8 de rating en 137 calificaciones. Contra honesta: como todo portátil, es ruidoso y el frío no alcanza para ambientes grandes.",
+    seoTitle: "Aire Acondicionado BGH BP35WCEW: opinión honesta",
+    metaDescription: "Aire acondicionado portátil BGH BP35WCEW frío/calor: marca con garantía en el país. Precio real, pros, contras y para quién conviene.",
+    verdict: "El BGH BP35WCEW sirve si preferís una marca con garantía y service reconocido en el país, para climatizar una habitación de tamaño chico a mediano. No sirve si necesitás enfriar un ambiente grande: varias reseñas coinciden en que el frío alcanza bien para un cuarto, no para un living amplio.",
+    pros: [
+      "Marca BGH con garantía y service en el país",
+      "4.8 de rating, el más alto de esta comparativa",
+      "Instalación simple, según las reseñas (fácil de conectar)",
+      "Frío/calor en un solo equipo",
+      "Enfría rápido un ambiente chico o mediano (una reseña reporta media hora para un cuarto de 6x3,5)",
+    ],
+    cons: [
+      "Es ruidoso, como la mayoría de los portátiles de este tipo (varias reseñas lo marcan)",
+      "El frío no alcanza para espacios grandes, solo para una habitación",
+      "Base de opiniones más chica (137) que el Philco de esta guía",
+      "Ficha sin frigorías publicadas: guiate por la potencia (3.500 W) y las reseñas de uso real",
+    ],
+    articleBody: `## Qué es y para quién
+
+El BGH BP35WCEW es un aire acondicionado portátil frío/calor de una marca con garantía y service reconocido en Argentina. Es la opción para quien prioriza el respaldo de marca por sobre buscar la ficha técnica más completa.
+
+## Lo bueno
+
+Las reseñas destacan lo simple de la instalación y lo rápido que enfría un ambiente chico: un comprador reporta que en media hora bajó la temperatura de un cuarto de 6x3,5 metros. Tiene el rating más alto de esta comparativa (4.8) y el respaldo de garantía oficial de BGH en el país, algo que pesa si buscás tranquilidad ante cualquier problema.
+
+## La contra real
+
+Como pasa con la mayoría de los portátiles, hace bastante ruido, algo que varias reseñas mencionan (incluso que asusta a las mascotas). El frío rinde bien para una habitación, pero no da abasto para un espacio grande: una reseña es clara en que "el frío que larga no alcanza más que para un espacio chico". La ficha de MercadoLibre tampoco publica las frigorías, así que hay que guiarse por la potencia (3.500 W) y la experiencia real de los compradores más que por un número de catálogo.
+
+## Para quién sí y para quién no
+
+Comprá el BGH BP35WCEW si valorás la garantía y el service de una marca reconocida, y tu uso es para una habitación de tamaño chico a mediano. No lo compres si necesitás climatizar un ambiente grande, o si el ruido nocturno es un problema para vos: en ese caso, revisá bien el nivel de decibeles antes de comprar cualquier portátil, no solo este.`,
+    faq: [
+      { question: "¿El BGH BP35WCEW hace mucho ruido?", answer: "Sí, como la mayoría de los aires acondicionados portátiles. Varias reseñas lo mencionan como un punto a tener en cuenta, sobre todo para dormir." },
+      { question: "¿Para qué tamaño de ambiente rinde?", answer: "Para una habitación de tamaño chico a mediano. Las reseñas coinciden en que el frío no alcanza para espacios grandes tipo living amplio." },
+      { question: "¿Tiene garantía en Argentina?", answer: "Sí, BGH es una marca con garantía y service oficial en el país, un plus frente a marcas sin respaldo local." },
+      { question: "¿Es fácil de instalar?", answer: "Sí, según las reseñas es sencillo de conectar: solo hay que sacar la manguera de evacuación por una ventana." },
+    ],
+  },
+  {
+    id: "MLA54689994",
+    title: "Aire Acondicionado Portátil Smart Wi-Fi Surrey Frío Calor 3010 kcal/h",
+    canonicalName: "Aire Acondicionado Portátil Smart Surrey Wi-Fi",
+    price: 935999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_982437-MLA99572210036_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_982437-MLA99572210036_122025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA54689994",
+    affiliateUrl: "https://meli.la/2uLXmbD",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 49,
+    ratingBreakdown: { five: "75.51%", four: "16.33%", three: "2.04%", two: "0%", one: "6.12%" },
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Surrey" },
+      { label: "Tipo de climatización", value: "Frío/Calor" },
+      { label: "Frigorías", value: "3.010 kcal/h" },
+      { label: "Potencia de refrigeración", value: "3,5 kW" },
+      { label: "Potencia de calefacción", value: "3,5 kW" },
+      { label: "Wi-Fi", value: "Sí, control por app" },
+      { label: "Gas refrigerante", value: "R-32" },
+      { label: "Control remoto", value: "Incluido" },
+      { label: "Dimensiones", value: "41 x 30 x 69,5 cm (ancho x prof. x alto)" },
+    ],
+    relatedProducts: ["MLA45423359", "MLA61656125"],
+    priceUpdated: "2026-07-05",
+    priceLastChecked: "2026-07-05",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-05",
+    description: "Aire acondicionado portátil Surrey Smart Wi-Fi: frío/calor 3.010 kcal/h con control por app. El único con Wi-Fi de esta comparativa. Contra honesta: la base de opiniones todavía es chica (49) y el kit de ventana es, según una reseña, incómodo de instalar.",
+    seoTitle: "Aire Acondicionado Surrey Smart Wi-Fi: ¿vale la pena?",
+    metaDescription: "Aire acondicionado portátil Surrey Smart Wi-Fi: frío/calor con control por app. Precio real, pros, contras y para quién conviene.",
+    verdict: "El Surrey Smart Wi-Fi sirve si querés controlar el equipo por app (prenderlo antes de llegar a casa, programarlo) y no te importa que sea una marca con menos historial de opiniones. No sirve si preferís la mayor base de reseñas posible antes de comprar: tiene bastantes menos calificaciones que el Philco o el BGH de esta guía.",
+    pros: [
+      "El único con Wi-Fi y control por app de esta comparativa",
+      "Frío/calor con buena potencia (3,5 kW en ambos modos)",
+      "Práctico y fácil de mover, según las reseñas (útil todo el año, frío en verano y calor en invierno)",
+      "Control remoto físico incluido además del control por app",
+    ],
+    cons: [
+      "Base de opiniones bastante más chica (49) que el Philco o el BGH de esta guía",
+      "El kit de instalación en la ventana resulta incómodo según una reseña ('un garrón la parte del tubo')",
+      "Es más caro que las otras dos opciones de esta guía",
+      "Al ser una marca con menos historial en el sitio, conviene confirmar el service disponible antes de comprar",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Surrey Smart Wi-Fi es un aire acondicionado portátil frío/calor con una diferencia clave frente al resto de esta guía: se controla por app de celular, además del control remoto físico incluido. Es para quien valora poder prender el equipo antes de llegar a casa o programarlo a distancia.
+
+## Lo bueno
+
+Las reseñas lo describen como práctico y fácil de mover, y destacan que sirve todo el año: frío en verano, calor en invierno, en un galpón o en una habitación. La potencia (3,5 kW en frío y en calor) es de las más altas de esta comparativa. El Wi-Fi con control por app es el diferencial real frente al Philco y al BGH, que no lo tienen.
+
+## La contra real
+
+Es un producto más nuevo en el catálogo, con una base de opiniones bastante más chica (49) que el Philco (más de 1.200) o el BGH (137): el respaldo de ventas todavía se está construyendo. Una reseña detallada marca que el kit para instalar el tubo en la ventana es "un garrón", así que la instalación puede requerir más paciencia que en otros modelos. También es el más caro de los tres.
+
+## Para quién sí y para quién no
+
+Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (programar horarios, prenderlo a distancia) y no te molesta que tenga menos historial de opiniones que las otras dos marcas. No lo compres si preferís ir a lo más probado: para eso, el Philco PHP35HC7API de esta guía tiene muchas más calificaciones acumuladas.`,
+    faq: [
+      { question: "¿Cómo funciona el control por Wi-Fi del Surrey Smart?", answer: "Se maneja desde una app en el celular, además del control remoto físico que incluye. Podés prenderlo o programarlo a distancia, algo que el Philco y el BGH de esta guía no ofrecen." },
+      { question: "¿Es difícil de instalar?", answer: "La instalación general es como la de cualquier portátil (manguera por la ventana), pero una reseña puntual marca que el kit de fijación en la ventana resulta incómodo de ajustar." },
+      { question: "¿Sirve para calefaccionar en invierno?", answer: "Sí, es frío/calor con 3,5 kW de potencia de calefacción, y las reseñas confirman que lo usan todo el año." },
+      { question: "¿Por qué tiene menos calificaciones que otras marcas?", answer: "Es un producto más nuevo en el catálogo dentro de esta categoría, así que su base de opiniones (49) todavía es chica comparada con marcas más establecidas como Philco o BGH. Eso no significa que sea peor, pero conviene saberlo antes de comprar." },
+    ],
+  },
+
+  // ─── Balanzas digitales — importadas via Chrome (jul 2026, API ML caída). Silo salud-bienestar (STAGED) ───
+  {
+    id: "MLA15503957",
+    title: "Balanza Digital Con Bluetooth Personal De Baño Peso Corporal 180 Kg Diseño Minimalista Femmto",
+    canonicalName: "Balanza Digital Femmto BWS11",
+    price: 12699,
+    originalPrice: 27999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15503957",
+    affiliateUrl: "https://meli.la/2uS8m62",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 72042,
+    ratingBreakdown: { five: "86.26%", four: "9.64%", three: "2.29%", two: "0.67%", one: "1.14%" },
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Femmto" },
+      { label: "Modelo", value: "BWS11" },
+      { label: "Plataforma", value: "Vidrio templado antideslizante" },
+      { label: "Capacidad máxima", value: "180 kg" },
+      { label: "Peso mínimo", value: "5 kg" },
+      { label: "Con Bluetooth", value: "Sí" },
+      { label: "Medidor de grasa corporal", value: "No" },
+      { label: "Medidor de IMC", value: "No" },
+      { label: "Pantalla digital", value: "Sí" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Indicador de batería baja", value: "Sí" },
+      { label: "Alimentación", value: "2 x pilas AAA (incluidas)" },
+      { label: "Dimensiones", value: "26 x 26 x 2,2 cm" },
+    ],
+    relatedProducts: ["MLA19147005", "MLA38252447"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Balanza digital Femmto BWS11: plataforma de vidrio, hasta 180 kg, diseño minimalista. La más vendida del catálogo por lejos, con más de 72.000 calificaciones. Solo mide peso (sin grasa corporal ni IMC), para quien busca lo esencial al mejor precio.",
+    seoTitle: "Balanza Digital Femmto: la más vendida, ¿conviene?",
+    metaDescription: "Balanza digital Femmto BWS11: vidrio templado, hasta 180 kg, más de 72.000 calificaciones. Precio real, pros, contras y para quién conviene.",
+    verdict: "La Femmto BWS11 sirve si solo querés saber tu peso de forma precisa y barata, sin vueltas: es la más vendida del catálogo por lejos. No sirve si buscás grasa corporal, IMC o sincronización con una app: para eso, mirá un modelo con análisis corporal, como otras opciones de esta guía.",
+    pros: [
+      "La más vendida del catálogo, con más de 72.000 calificaciones y 4.8 de promedio",
+      "Plataforma de vidrio templado antideslizante, capacidad de hasta 180 kg",
+      "Precio muy accesible frente al resto de la categoría",
+      "Apagado automático e indicador de batería baja",
+      "Pilas incluidas, lista para usar apenas llega",
+    ],
+    cons: [
+      "Solo mide peso: no tiene medidor de grasa corporal ni de IMC",
+      "No sincroniza con una app pese a tener Bluetooth en la ficha (no trae funciones de análisis para aprovecharlo)",
+      "Sin memorias programables ni función tara",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Femmto BWS11 es una balanza digital de baño: plataforma de vidrio templado, hasta 180 kg de capacidad y diseño minimalista. Es, por lejos, la balanza más vendida y con más opiniones del catálogo de MercadoLibre Argentina, con más de 72.000 calificaciones.
+
+## Lo bueno
+
+Hace lo esencial (pesar) de forma precisa y a un precio muy accesible. Tiene apagado automático, indicador de batería baja y viene con las pilas incluidas, así que se usa apenas llega. La base de opiniones es la más grande de toda la categoría, un respaldo que ninguna otra balanza de esta comparativa se acerca a igualar.
+
+## La contra real
+
+Solo mide peso: no tiene medidor de grasa corporal, IMC ni memorias para varios usuarios. Aunque la ficha menciona Bluetooth, no hay sincronización con ninguna app, así que en la práctica funciona como una balanza tradicional con pantalla digital. Si buscás un seguimiento más completo de tu composición corporal, hace falta subir a un modelo con análisis corporal.
+
+## Para quién sí y para quién no
+
+Comprá la Femmto BWS11 si lo único que necesitás es saber tu peso de forma precisa, simple y barata. No la compres si querés medir grasa corporal, IMC o llevar un registro por app: para eso, otro modelo de esta guía con análisis corporal te va a servir mucho más.`,
+    faq: [
+      { question: "¿La Femmto BWS11 mide grasa corporal o IMC?", answer: "No, solo mide peso. Para grasa corporal e IMC hace falta un modelo con análisis corporal y sincronización con app." },
+      { question: "¿Por qué es la más vendida si no tiene tantas funciones?", answer: "Justamente por eso: hace lo esencial (pesar con precisión) a un precio muy accesible, sin las complicaciones de configurar una app. Para la mayoría de la gente, es lo que necesita." },
+      { question: "¿Viene con pilas?", answer: "Sí, incluye las 2 pilas AAA necesarias para funcionar." },
+      { question: "¿Es precisa?", answer: "Las reseñas la valoran bien en ese sentido, con 4.8 de promedio en más de 72.000 calificaciones." },
+    ],
+  },
+  {
+    id: "MLA19147005",
+    title: "Balanza Digital con Bluetooth Femmto BCS13 para Baño Medidor de Grasa Corporal y Masa Muscular",
+    canonicalName: "Balanza Digital Femmto BCS13 (análisis corporal)",
+    price: 39999,
+    originalPrice: 60000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_894046-MLA112729941096_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_894046-MLA112729941096_062026-O.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-femmto-bcs13-para-bano-medidor-de-grasa-corporal-y-masa-muscular/p/MLA19147005",
+    affiliateUrl: "https://meli.la/1JsFuZh",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 41368,
+    ratingBreakdown: { five: "84.9%", four: "10.39%", three: "2.57%", two: "0.71%", one: "1.43%" },
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Femmto" },
+      { label: "Plataforma", value: "Vidrio templado antideslizante" },
+      { label: "Capacidad máxima", value: "180 kg" },
+      { label: "Con Bluetooth", value: "Sí, con sincronización de app" },
+      { label: "Sistemas operativos compatibles", value: "iOS, Android" },
+      { label: "Medidor de grasa corporal", value: "Sí" },
+      { label: "Medidor de IMC", value: "Sí" },
+      { label: "Indicador de sobrepeso", value: "Sí" },
+      { label: "Pantalla digital", value: "Sí" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Alimentación", value: "3 x pilas AAA (no incluidas)" },
+      { label: "Dimensiones", value: "26 x 26 x 2,2 cm" },
+    ],
+    relatedProducts: ["MLA15503957", "MLA38252447"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Balanza digital Femmto con Bluetooth: mide grasa corporal, IMC y sincroniza con app (iOS/Android). Más de 41.000 calificaciones. Contra honesta: hay que retirar una cinta plástica de los sensores antes del primer uso, o solo muestra el peso.",
+    seoTitle: "Balanza Femmto con Grasa Corporal: ¿vale la pena?",
+    metaDescription: "Balanza digital Femmto con Bluetooth: grasa corporal, IMC y app. Más de 41.000 calificaciones. Precio real, pros, contras y para quién conviene.",
+    verdict: "Esta Femmto sirve si querés más que el peso: grasa corporal, IMC y un registro por app, con un respaldo de opiniones enorme (más de 41.000). No sirve si vas a ignorar el detalle de sacar la cinta plástica protectora de los sensores antes de usarla por primera vez: sin eso, solo muestra el peso.",
+    pros: [
+      "Mide grasa corporal e IMC además del peso, con sincronización a una app (iOS y Android)",
+      "Más de 41.000 calificaciones con 4.8 de promedio: segundo respaldo más grande de la categoría",
+      "Reseñas confirman consistencia: pesándose varias veces seguidas, marca siempre el mismo valor",
+      "La app permite hacer seguimiento de varios parámetros a lo largo del tiempo",
+    ],
+    cons: [
+      "Hay que retirar una cinta plástica de protección de los sensores antes del primer uso; si no, solo muestra el peso (no viene aclarado en ningún lado según una reseña)",
+      "Las pilas no vienen incluidas",
+      "Es más cara que la versión básica de la misma marca en esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+Esta Femmto es la versión con análisis corporal de la marca: además de pesar, mide grasa corporal e IMC y sincroniza los datos con una app de celular (iOS y Android). Es para quien quiere hacer seguimiento de su composición corporal, no solo del peso.
+
+## Lo bueno
+
+Las reseñas destacan la consistencia: pesándose varias veces seguidas en cualquier posición, siempre marca el mismo valor, algo que no siempre pasa con balanzas genéricas. La app muestra varios parámetros y permite llevar un registro en el tiempo. Con más de 41.000 calificaciones, es la segunda balanza con más respaldo de esta comparativa.
+
+## La contra real
+
+Hay un detalle práctico que una reseña salva a los demás compradores: los sensores traen una cinta plástica de protección que hay que retirar antes del primer uso. Si no lo hacés, la balanza solo muestra el peso y no el resto de los parámetros, y en ningún lado de la ficha o el manual queda claro. Las pilas tampoco vienen incluidas, así que hay que comprarlas aparte.
+
+## Para quién sí y para quién no
+
+Comprá esta Femmto si querés más que el número del peso: grasa corporal, IMC y un registro por app. No la compres si solo te interesa pesarte sin vueltas: para eso, la versión básica de la misma marca en esta guía sale menos y cumple igual de bien esa única función.`,
+    faq: [
+      { question: "¿Por qué solo muestra el peso y no la grasa corporal?", answer: "Es probable que no hayas retirado la cinta plástica de protección que traen los sensores de fábrica. Sin sacarla, la balanza solo pesa; con los sensores libres, mide el resto de los parámetros y los envía a la app." },
+      { question: "¿Con qué apps sincroniza?", answer: "Se conecta por Bluetooth a una app compatible con iOS y Android, donde podés ver el historial de peso, grasa corporal e IMC a lo largo del tiempo." },
+      { question: "¿Es precisa?", answer: "Las reseñas destacan la consistencia: pesándose varias veces seguidas, marca siempre el mismo valor, algo que no todas las balanzas genéricas logran." },
+      { question: "¿Viene con pilas?", answer: "No, las pilas (3 x AAA) no vienen incluidas, hay que comprarlas aparte." },
+    ],
+  },
+  {
+    // Rechazado por el Programa de Afiliados de ML el 06-jul-2026 ("Esta URL no está permitida en el Programa").
+    // Sacado del ranking de la guía balanza-digital, reemplazado por Omron HN-289, Utile UT-1108 y Noga NG-B01.
+    // Ficha conservada por si el rechazo era puntual y se puede reintentar el link de afiliado más adelante.
+    id: "MLA38252447",
+    title: "Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg",
+    canonicalName: "Balanza Xiaomi Mi Body Composition Scale S400",
+    price: 169000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_631454-MLU77460358988_072024-O.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA38252447",
+    affiliateUrl: "PEGAR_MELI_LA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1701,
+    visibility: "deprioritized",
+    description: "Rechazada por el Programa de Afiliados de MercadoLibre (06-jul-2026); reemplazada por Omron, Utile y Noga en la guía balanza-digital.",
+  },
+  {
+    id: "MLA15286360",
+    title: "Balanza digital Omron Premium HN-289 silky grey, hasta 150 kg",
+    canonicalName: "Balanza Digital Omron Premium HN-289",
+    price: 79999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_959353-MLA40287511478_122019-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_959353-MLA40287511478_122019-O.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/balanza-digital-omron-premium-hn-289-silky-grey-hasta-150-kg/p/MLA15286360",
+    affiliateUrl: "https://meli.la/1cAwWN4",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 14161,
+    ratingBreakdown: { five: "88.62%", four: "7.53%", three: "1.8%", two: "0.54%", one: "1.51%" },
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Omron" },
+      { label: "Línea", value: "Premium" },
+      { label: "Modelo", value: "HN-289" },
+      { label: "Plataforma", value: "Vidrio" },
+      { label: "Capacidad máxima", value: "150 kg" },
+      { label: "Medidor de grasa corporal", value: "No" },
+      { label: "Medidor de IMC", value: "No" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Certificado INMETRO", value: "Sí" },
+      { label: "Batería", value: "1 pila de litio 3V (incluida)" },
+    ],
+    relatedProducts: ["MLA15503957", "MLA19147005"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Balanza digital Omron Premium HN-289: marca médica reconocida globalmente, con certificado INMETRO y más de 14.000 calificaciones. Solo pesa (sin grasa corporal ni IMC), pero con la precisión y durabilidad que respalda la marca Omron.",
+    seoTitle: "Balanza Omron Premium HN-289: opinión honesta",
+    metaDescription: "Balanza digital Omron Premium HN-289: marca médica reconocida, certificado INMETRO. Precio real, pros, contras y para quién conviene.",
+    verdict: "La Omron HN-289 sirve si preferís una marca médica reconocida globalmente por sobre las funciones de análisis corporal, con un respaldo de más de 14.000 calificaciones. No sirve si buscás grasa corporal o IMC: esta balanza solo pesa, aunque lo hace con la precisión que la marca garantiza.",
+    pros: [
+      "Marca Omron, reconocida mundialmente en dispositivos médicos (tensiómetros, termómetros)",
+      "Más de 14.000 calificaciones con 4.8 de promedio, el segundo mayor respaldo de esta comparativa",
+      "Certificado INMETRO, un respaldo de calidad que no todas las balanzas tienen",
+      "Reseñas confirman precisión: una comparó el peso exacto de un paquete de 500 g y coincidió",
+      "Batería de litio incluida, de mayor duración que las pilas comunes",
+    ],
+    cons: [
+      "No mide grasa corporal ni IMC: solo pesa",
+      "Es más cara que las opciones básicas de esta guía",
+      "Sin indicador de batería baja en la ficha",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Omron HN-289 es la opción de marca médica reconocida de esta comparativa: Omron es conocida mundialmente por tensiómetros y termómetros, y esta balanza hereda esa reputación de precisión, aunque sin funciones de análisis corporal.
+
+## Lo bueno
+
+Con más de 14.000 calificaciones y certificado INMETRO, es de las balanzas con más respaldo de calidad de esta guía. Una reseña hizo una prueba concreta: se pesó, agregó un paquete de 500 gramos y la balanza marcó exactamente esa diferencia. Otra destaca que, pesándose varias veces seguidas, siempre dio el mismo valor. Viene con batería de litio incluida, que dura más que las pilas comunes.
+
+## La contra real
+
+No mide grasa corporal ni IMC: es una balanza de pesada pura, así que si buscás ese tipo de análisis, no es la indicada. Es también más cara que las opciones básicas de esta guía, aunque el respaldo de marca y calificaciones justifica buena parte de esa diferencia.
+
+## Para quién sí y para quién no
+
+Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca médica reconocida, y no te interesa el análisis corporal. No la compres si lo que buscás es grasa corporal, IMC o sincronización con una app: para eso, la Femmto BCS13 de esta guía es la opción.`,
+    faq: [
+      { question: "¿La Omron HN-289 mide grasa corporal?", answer: "No, solo mide peso. Para grasa corporal e IMC, otra opción de esta guía como la Femmto BCS13 es más indicada." },
+      { question: "¿Por qué confiar en la marca Omron para una balanza?", answer: "Omron es una marca médica reconocida mundialmente por tensiómetros y termómetros, con estándares de precisión que se trasladan a sus balanzas. Tiene certificado INMETRO y más de 14.000 calificaciones respaldándola." },
+      { question: "¿Es precisa?", answer: "Sí, las reseñas confirman precisión exacta (una prueba con un paquete de 500 g coincidió al gramo) y consistencia pesándose varias veces seguidas." },
+      { question: "¿Con qué pila funciona?", answer: "Con una pila de litio de 3V, que ya viene incluida y dura más que las pilas comunes." },
+    ],
+  },
+  {
+    id: "MLA65535495",
+    title: "Balanza De Baño Personal Inteligente Bluetooth 200 Kg Utile Azul",
+    canonicalName: "Balanza Digital Utile UT-1108",
+    price: 50025,
+    originalPrice: 60985,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_959353-MLA40287511478_122019-O.webp",
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul/p/MLA65535495",
+    affiliateUrl: "https://meli.la/2GzBmsp",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 17,
+    ratingBreakdown: { five: "94.12%", four: "0%", three: "5.88%", two: "0%", one: "0%" },
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Utile" },
+      { label: "Modelo", value: "UT-1108" },
+      { label: "Plataforma", value: "Vidrio" },
+      { label: "Capacidad máxima", value: "200 kg" },
+      { label: "Medidor de grasa corporal", value: "Sí" },
+      { label: "Medidor de indicador de sobrepeso", value: "Sí" },
+      { label: "Otros indicadores", value: "Agua corporal, masa muscular, masa ósea, grasa visceral" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "App", value: "iMon (Android)" },
+      { label: "Alimentación", value: "Pilas (no incluidas)" },
+    ],
+    relatedProducts: ["MLA15503957", "MLA19147005"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Balanza digital Utile UT-1108: 200 kg de capacidad (la mayor de esta comparativa) y análisis completo (grasa corporal, agua, masa muscular, masa ósea, grasa visceral) con app iMon. Contra honesta: todavía tiene pocas calificaciones (17).",
+    seoTitle: "Balanza Utile UT-1108: 200 kg y análisis completo",
+    metaDescription: "Balanza digital Utile UT-1108: hasta 200 kg, grasa corporal, agua y masa muscular con app. Precio real, pros, contras y para quién conviene.",
+    verdict: "La Utile UT-1108 sirve si necesitás una balanza de mayor capacidad (200 kg) con el análisis corporal más completo de esta comparativa (grasa, agua, masa muscular y ósea). No sirve si preferís ir a lo más probado: todavía tiene pocas calificaciones (17), aunque todas muy positivas.",
+    pros: [
+      "La mayor capacidad de peso de esta comparativa: 200 kg",
+      "El análisis más completo: grasa corporal, agua, masa muscular, masa ósea y grasa visceral",
+      "Se conecta fácil por Bluetooth con la app iMon (gratuita, Android)",
+      "4.9 de rating, aunque con pocas calificaciones todavía",
+    ],
+    cons: [
+      "Base de opiniones chica (17 calificaciones) frente a las Femmto de esta guía",
+      "No incluye las pilas",
+      "Usa 4 pilas AAA, un consumo mayor que otras balanzas de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Utile UT-1108 es la balanza de mayor capacidad de esta comparativa (200 kg) y la de análisis corporal más completo: además de grasa corporal, mide agua, masa muscular, masa ósea y grasa visceral, todo sincronizado con la app iMon.
+
+## Lo bueno
+
+Es la opción indicada si necesitás una capacidad de peso mayor a la de las otras balanzas de esta guía. Una reseña destaca que se conecta fácil por Bluetooth con la app gratuita y recomienda usar pilas recargables de buena calidad (usa 4 pilas AAA). El análisis que ofrece es el más completo de la comparativa.
+
+## La contra real
+
+Es un producto con menos historial: solo 17 calificaciones, aunque todas muy positivas (94% con 5 estrellas). Si preferís ir a lo más probado del mercado, las Femmto de esta guía tienen una base de opiniones mucho más grande. Tampoco incluye las pilas.
+
+## Para quién sí y para quién no
+
+Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el análisis corporal más completo de esta guía. No la compres si preferís el respaldo de miles de calificaciones: para eso, la Femmto BCS13 de esta guía tiene mucho más historial.`,
+    faq: [
+      { question: "¿Cuál es la capacidad máxima de la Utile UT-1108?", answer: "200 kg, la mayor de esta comparativa." },
+      { question: "¿Qué mide además del peso?", answer: "Grasa corporal, agua corporal, masa muscular, masa ósea y grasa visceral, todo sincronizado con la app iMon por Bluetooth." },
+      { question: "¿Por qué tiene pocas calificaciones?", answer: "Es un producto más nuevo en el catálogo, así que su base de opiniones (17) todavía es chica, aunque todas muy positivas hasta ahora." },
+      { question: "¿Incluye las pilas?", answer: "No, usa 4 pilas AAA que no vienen incluidas en la compra." },
+    ],
+  },
+  {
+    id: "MLA60038492",
+    title: "Balanza Digital Smart Fitness Med Corp App Recargable Noga Blanco",
+    canonicalName: "Balanza Digital Noga NG-B01 (recargable)",
+    price: 18185,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_775610-MLA94481919788_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_775610-MLA94481919788_102025-O.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco/p/MLA60038492",
+    affiliateUrl: "https://meli.la/1xGT4Bq",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 381,
+    ratingBreakdown: { five: "89.24%", four: "8.66%", three: "1.31%", two: "0.26%", one: "0.52%" },
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Noga" },
+      { label: "Modelo", value: "NG-B01" },
+      { label: "Plataforma", value: "Vidrio templado" },
+      { label: "Capacidad máxima", value: "180 kg" },
+      { label: "Alimentación", value: "Recargable por cable USB (sin pilas)" },
+      { label: "Medidor de grasa corporal", value: "No confirmado en ficha (reseñas mencionan app con datos adicionales)" },
+      { label: "Dimensiones", value: "26 x 26 x 2 cm" },
+    ],
+    relatedProducts: ["MLA15503957", "MLA15286360"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Balanza digital Noga NG-B01: se recarga por cable USB, sin pilas. 4.9 de rating en 381 calificaciones. La ficha no confirma grasa corporal, aunque varias reseñas mencionan que la app muestra datos adicionales.",
+    seoTitle: "Balanza Noga recargable: ¿vale la pena?",
+    metaDescription: "Balanza digital Noga NG-B01: recargable por USB, sin pilas. Precio real, pros, contras y para quién conviene según las reseñas.",
+    verdict: "La Noga NG-B01 sirve si no querés depender de pilas: se recarga por cable USB, es precisa según las reseñas y tiene buen respaldo de opiniones (381) por poca plata. No sirve si buscás grasa corporal confirmada oficialmente en la ficha: la especificación no lo confirma, aunque la app muestra otros datos según compradores.",
+    pros: [
+      "Se recarga por cable USB: no necesita comprar pilas nunca",
+      "4.9 de rating en 381 calificaciones, con reseñas que confirman precisión probándola con varias personas",
+      "Precio accesible dentro de las opciones con conexión a app",
+      "Buenos materiales según las reseñas, pese a verse chica",
+    ],
+    cons: [
+      "La ficha técnica no confirma medidor de grasa corporal, aunque reseñas mencionan que la app muestra datos adicionales",
+      "Una reseña marca que la lectura de decimales en la pantalla puede confundir al principio (ej. 56,67 kg se lee como \"56. 67\")",
+      "La app tiene algunas funciones pagas, según una reseña (no interfiere en el uso general)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Noga NG-B01 es una balanza digital que se recarga por cable USB en vez de usar pilas, algo que la diferencia del resto de esta comparativa. Es para quien no quiere depender de comprar pilas y valora un precio accesible con conexión a app.
+
+## Lo bueno
+
+Las reseñas confirman precisión: una compradora pesó a 4 personas distintas varias veces y la balanza no se equivocó. Otra destaca que, pese a verse "chica e insegura", los materiales son resistentes. El precio es de los más accesibles entre las opciones con app de esta guía, y no depender de pilas es un plus real a largo plazo.
+
+## La contra real
+
+La ficha técnica de MercadoLibre no confirma un medidor de grasa corporal oficial, aunque varias reseñas mencionan que la app muestra "datos interesantes" más allá del peso. Una reseña también señala que la forma de mostrar los decimales en pantalla puede confundir al principio (56,67 kg se lee como "56. 67"). La app tiene algunas funciones pagas, aunque no impiden el uso general.
+
+## Para quién sí y para quién no
+
+Comprá la Noga NG-B01 si querés evitar las pilas y buscás un precio accesible con conexión a app. No la compres si necesitás grasa corporal confirmada oficialmente en la ficha técnica: para eso, la Femmto BCS13 de esta guía lo tiene documentado.`,
+    faq: [
+      { question: "¿La Noga NG-B01 usa pilas?", answer: "No, se recarga por cable USB, así que no hace falta comprar pilas nunca." },
+      { question: "¿Mide grasa corporal?", answer: "La ficha técnica no lo confirma oficialmente, aunque varias reseñas mencionan que la app conectada muestra datos adicionales más allá del peso." },
+      { question: "¿Es precisa?", answer: "Sí, según las reseñas: una compradora la probó con 4 personas de pesos distintos y siempre marcó el valor correcto." },
+      { question: "¿La app tiene costo?", answer: "Según una reseña, tiene algunas funciones pagas, pero eso no impide usar la balanza y la app en su función general." },
+    ],
+  },
+  {
+    id: "MLA18611221",
+    title: "Kit de teclado y mouse inalámbrico Logitech MK470 Español de color negro",
+    canonicalName: "Kit Logitech MK470 (inalámbrico)",
+    price: 68650,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_681155-MLA99483856244_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_681155-MLA99483856244_112025-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/kit-de-teclado-y-mouse-inalambrico-logitech-mk470-espanol-de-color-negro/p/MLA18611221",
+    affiliateUrl: "https://meli.la/1krBBBV",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 6936,
+    ratingBreakdown: { five: "89.75%", four: "7.35%", three: "1.49%", two: "0.55%", one: "0.87%" },
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Logitech" },
+      { label: "Modelo", value: "MK470" },
+      { label: "Idioma del teclado", value: "Español" },
+      { label: "Perfil del teclado", value: "Bajo perfil (slim), teclas de tijera" },
+      { label: "Iluminación", value: "No (sin RGB)" },
+      { label: "Es inalámbrico", value: "Sí (receptor USB)" },
+      { label: "Incluye teclado numérico", value: "Sí" },
+      { label: "Tipo de sensor del mouse", value: "Óptico" },
+      { label: "Resolución del sensor del mouse", value: "1.000 dpi" },
+      { label: "Incluye batería", value: "Sí" },
+    ],
+    relatedProducts: ["MLA19079378", "MLA22297233"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Kit Logitech MK470: teclado y mouse inalámbricos de bajo perfil, sin RGB, con más de 6.900 calificaciones. El más silencioso y compacto de esta comparativa, ideal para quien también usa el setup para trabajar o estudiar.",
+    seoTitle: "Kit Logitech MK470: inalámbrico, ¿vale la pena?",
+    metaDescription: "Kit Logitech MK470 inalámbrico: teclado slim + mouse, sin RGB, silencioso. Precio real, pros, contras y para quién conviene.",
+    verdict: "El Logitech MK470 sirve si querés un kit inalámbrico silencioso, compacto y de marca confiable, sobre todo si el setup también se usa para trabajar o estudiar. No sirve si buscás estética RGB gamer o un mouse de sensor alto: es un combo pensado para silencio y practicidad, no para competitivo.",
+    pros: [
+      "Marca Logitech con más de 6.900 calificaciones y 4.8 de promedio, el mayor respaldo de esta comparativa",
+      "Inalámbrico con receptor USB, sin cables sobre el escritorio",
+      "Muy silencioso y de bajo perfil, ocupa poco espacio",
+      "Teclado completo con numérico, en español",
+      "Reseñas destacan la calidad frente a alternativas económicas sin marca",
+    ],
+    cons: [
+      "Sin RGB ni estética gamer: es un combo de oficina que también sirve para gaming casual",
+      "Sensor del mouse de 1.000 dpi, más bajo que los kits mecánicos de esta guía",
+      "Es más caro que el Gadnic o el Senon de membrana",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Logitech MK470 es un kit inalámbrico de teclado y mouse, de bajo perfil y sin RGB. No está pensado como un combo "gamer" estético, sino como una alternativa silenciosa y de marca confiable para quien también usa el escritorio para trabajar o estudiar, además de jugar.
+
+## Lo bueno
+
+Con más de 6.900 calificaciones, es el kit con más respaldo de esta comparativa. Las reseñas destacan lo silencioso y cómodo que es, y varios compradores cuentan que probaron antes una alternativa económica sin marca y volvieron a Logitech por la sensación de calidad y durabilidad. Es inalámbrico con receptor USB, así que no hay cables sobre el escritorio, y el teclado incluye numérico completo en español.
+
+## La contra real
+
+No tiene RGB ni busca la estética gamer: es un combo pensado para silencio y practicidad. El sensor del mouse es de 1.000 dpi, más básico que el de los kits mecánicos de esta guía. Y cuesta más que los kits de membrana económicos como el Gadnic o el Senon.
+
+## Para quién sí y para quién no
+
+Comprá el Logitech MK470 si valorás el silencio, la marca y usar el mismo setup para trabajar o estudiar además de jugar. No lo compres si buscás estética RGB o un mouse de alta precisión para competitivo: para eso, el Level Up Pegasus (mecánico) de esta guía es mejor opción.`,
+    faq: [
+      { question: "¿El Logitech MK470 tiene RGB?", answer: "No, es un kit sin iluminación, pensado para silencio y practicidad, no para estética gamer." },
+      { question: "¿Es realmente inalámbrico?", answer: "Sí, se conecta por un receptor USB incluido, sin necesidad de cables sobre el escritorio." },
+      { question: "¿Sirve para gaming competitivo?", answer: "No es lo ideal: el sensor del mouse es de 1.000 dpi, más básico que otros kits de esta guía. Es mejor para uso general, trabajo y gaming casual." },
+      { question: "¿Por qué tiene tantas más calificaciones que los otros kits?", answer: "Es de una marca muy establecida (Logitech) con mucho tiempo en el mercado, lo que explica el respaldo de más de 6.900 calificaciones." },
+    ],
+  },
+  {
+    id: "MLA61382173",
+    title: "Aire Acondicionado Portátil Sansei Frío/calor 2650w / 2279fg con Compresor",
+    canonicalName: "Aire Acondicionado Portátil Sansei SAP26HC9AN",
+    price: 579999,
+    originalPrice: 762299,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp",
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA61382173",
+    affiliateUrl: "https://meli.la/2cghgHg",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 792,
+    ratingBreakdown: { five: "77.4%", four: "14.52%", three: "4.92%", two: "1.14%", one: "2.02%" },
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Sansei" },
+      { label: "Modelo", value: "SAP26HC9AN" },
+      { label: "Tipo de climatización", value: "Frío/Calor" },
+      { label: "Frigorías", value: "2.279 fg" },
+      { label: "Gas refrigerante", value: "R290" },
+      { label: "Nivel de ruido", value: "65 dB (declarado en ficha)" },
+      { label: "Panel de control", value: "Electrónico, con pantalla digital" },
+      { label: "Temporizador", value: "Sí" },
+      { label: "Wi-Fi", value: "No" },
+      { label: "Peso", value: "23 kg" },
+      { label: "Dimensiones", value: "36,9 x 35,8 x 71,3 cm" },
+    ],
+    relatedProducts: ["MLA45423359", "MLA61656125"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Aire acondicionado portátil Sansei SAP26HC9AN: el más económico de esta comparativa, frío/calor con 2.279 frigorías. Contra honesta: es de los más ruidosos según las reseñas (65 dB declarados en ficha), y la función swing de las rejillas no siempre funciona sola.",
+    seoTitle: "Aire Acondicionado Sansei: el más barato, ¿rinde?",
+    metaDescription: "Aire acondicionado portátil Sansei SAP26HC9AN: el más económico, frío/calor. Precio real, pros, contras y para quién conviene.",
+    verdict: "El Sansei SAP26HC9AN sirve si tu prioridad es el precio más bajo de esta comparativa, para un ambiente chico a mediano. No sirve si el ruido es un problema para vos: varias reseñas lo describen como notablemente ruidoso, incluso en la velocidad mínima.",
+    pros: [
+      "El más económico de esta comparativa por bastante margen",
+      "Enfría bien la zona frente a la salida de aire, según las reseñas",
+      "Frío/calor con más de 790 calificaciones de respaldo",
+      "Fácil de instalar, con control remoto incluido",
+    ],
+    cons: [
+      "Es ruidoso: una reseña lo compara con \"un jumbo jet aterrizando\", incluso en la velocidad mínima, y la ficha declara 65 dB",
+      "Le cuesta más enfriar ambientes de varios metros, mejor pensado para espacios chicos frente a la salida de aire",
+      "La función swing de las rejillas no siempre abre sola pese a tenerla, según una reseña; hay que abrirlas a mano",
+      "No tiene Wi-Fi",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Sansei SAP26HC9AN es el aire acondicionado portátil más económico de esta comparativa: frío/calor con 2.279 frigorías, pensado para quien prioriza el precio sobre el resto de las prestaciones.
+
+## Lo bueno
+
+Por lejos, es la opción más barata de esta guía. Las reseñas confirman que enfría bien la zona directamente frente a la salida de aire, y viene con control remoto y panel digital con temporizador. Con más de 790 calificaciones, tiene un respaldo sólido pese a ser el más económico.
+
+## La contra real
+
+El punto más repetido en las reseñas es el ruido: un comprador lo describe sin filtro como "un jumbo jet aterrizando", incluso en la velocidad mínima, y la ficha técnica declara 65 dB. También le cuesta más enfriar ambientes de varios metros cuadrados (rinde mejor justo frente a la salida de aire), y una reseña detallada marca que la función swing de las rejillas no siempre se abre sola pese a tenerla, así que hay que abrirlas manualmente.
+
+## Para quién sí y para quién no
+
+Comprá el Sansei SAP26HC9AN si tu prioridad es el precio más bajo y vas a usarlo en un ambiente chico, cerca de donde te sentás. No lo compres si el ruido te va a molestar (para dormir, por ejemplo) o si necesitás climatizar un ambiente grande: para eso, el Philco o el RCA de esta guía rinden mejor.`,
+    faq: [
+      { question: "¿El Sansei SAP26HC9AN es ruidoso?", answer: "Sí, es de los más ruidosos de esta comparativa según las reseñas, con 65 dB declarados en la ficha técnica. Si el ruido te preocupa, considerá otra opción de esta guía." },
+      { question: "¿Por qué es tan barato?", answer: "Tiene menos frigorías (2.279) que otros modelos de esta guía y no suma extras como Wi-Fi, lo que explica el precio más bajo." },
+      { question: "¿La función swing funciona automáticamente?", answer: "Según una reseña detallada, no siempre: el botón se ilumina pero las rejillas no siempre se abren solas, hay que abrirlas manualmente. El manual indica que debería ser automático." },
+      { question: "¿Para qué tamaño de ambiente rinde?", answer: "Rinde bien en la zona directamente frente a la salida de aire, en un espacio chico. Para ambientes de varios metros cuadrados, le cuesta más y conviene un modelo con más frigorías." },
+    ],
+  },
+  {
+    id: "MLA15183460",
+    title: "Aire acondicionado RCA portátil frío/calor 3200 frigorías blanco AAPR12XP",
+    canonicalName: "Aire Acondicionado Portátil RCA AAPR12XP",
+    price: 871220,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_661243-MLA99944866105_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_661243-MLA99944866105_112025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15183460",
+    affiliateUrl: "https://meli.la/1GTgrki",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 45,
+    ratingBreakdown: { five: "68.89%", four: "20%", three: "6.67%", two: "0%", one: "4.44%" },
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "RCA" },
+      { label: "Modelo", value: "AAPR12XP" },
+      { label: "Tipo de climatización", value: "Frío/Calor" },
+      { label: "Frigorías", value: "3.010 fg (ficha técnica; el título del vendedor menciona 3.200)" },
+      { label: "Potencia de refrigeración", value: "3,5 kW" },
+      { label: "Potencia de calefacción", value: "3,3 kW" },
+      { label: "Función deshumidificación", value: "Sí" },
+      { label: "Función ventilación", value: "Sí" },
+      { label: "Función sueño", value: "Sí" },
+      { label: "Wi-Fi", value: "No" },
+      { label: "Panel de control", value: "Electrónico, con pantalla digital" },
+    ],
+    relatedProducts: ["MLA45423359", "MLA61382173"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Aire acondicionado portátil RCA AAPR12XP: frío/calor con función deshumidificación y ventilación además de climatizar. Una reseña detallada da la regla práctica de 100 frigorías por m² para calcular qué necesitás. Contra honesta: todavía con pocas calificaciones (45).",
+    seoTitle: "Aire Acondicionado RCA AAPR12XP: opinión honesta",
+    metaDescription: "Aire acondicionado portátil RCA AAPR12XP: frío/calor, deshumidificación y ventilación. Precio real, pros, contras y para quién conviene.",
+    verdict: "El RCA AAPR12XP sirve si además de frío/calor querés funciones de deshumidificación y ventilación en el mismo equipo, con una potencia sólida (3,5 kW). No sirve si preferís ir a lo más probado: todavía tiene pocas calificaciones (45) frente al Philco de esta guía.",
+    pros: [
+      "Suma funciones de deshumidificación y ventilación, además de frío y calor",
+      "Una reseña detallada explica el ciclo del compresor (5 min comprimiendo, 10 min solo ventilador silencioso) y da una regla práctica: 100 frigorías por m² de ambiente",
+      "Buena potencia (3,5 kW refrigeración, 3,3 kW calefacción)",
+      "Fácil de instalar, según las reseñas",
+    ],
+    cons: [
+      "Base de opiniones chica (45 calificaciones) frente al Philco de esta guía (más de 1.200)",
+      "Necesita la ventana a no más de 1 metro de distancia para enganchar la manguera",
+      "Para ambientes más grandes que lo recomendado, una reseña avisa que puede quedar corto",
+      "El título del vendedor dice 3.200 frigorías, pero la ficha técnica declara 3.010",
+    ],
+    articleBody: `## Qué es y para quién
+
+El RCA AAPR12XP es un aire acondicionado portátil frío/calor que además suma funciones de deshumidificación y ventilación independientes, para quien busca un equipo más versátil que solo climatizar.
+
+## Lo bueno
+
+Una reseña muy detallada explica el funcionamiento real: el compresor trabaja unos 5 minutos, después el ventilador sigue solo (muy silencioso) por 10 minutos, y vuelve a arrancar el compresor. La misma reseña da una regla práctica útil para calcular qué necesitás: unas 100 frigorías por metro cuadrado de ambiente. Con 3,5 kW de refrigeración y 3,3 kW de calefacción, tiene buena potencia, y suma deshumidificación y ventilación como funciones aparte.
+
+## La contra real
+
+Es un producto con menos historial en esta categoría: solo 45 calificaciones, bastante menos que el Philco de esta guía. La instalación necesita que la ventana esté a un metro o menos de distancia para enganchar la manguera. Y hay una pequeña inconsistencia entre el título de venta (3.200 frigorías) y la ficha técnica (3.010 fg), así que guiate por el dato de la ficha.
+
+## Para quién sí y para quién no
+
+Comprá el RCA AAPR12XP si valorás las funciones extra de deshumidificación y ventilación, y no te importa que tenga menos historial de calificaciones. No lo compres si preferís ir a lo más probado del mercado: para eso, el Philco de esta guía tiene mucho más respaldo.`,
+    faq: [
+      { question: "¿Cuántas frigorías tiene realmente el RCA AAPR12XP?", answer: "La ficha técnica declara 3.010 frigorías, aunque el título de venta menciona 3.200. Guiate por el dato de la ficha técnica." },
+      { question: "¿Cómo sé cuántas frigorías necesito para mi ambiente?", answer: "Una regla práctica que comparte una reseña: calculá unas 100 frigorías por metro cuadrado de tu ambiente. Para un cuarto de 20 m², por ejemplo, buscarías unas 2.000 frigorías como mínimo." },
+      { question: "¿Tiene función de deshumidificación?", answer: "Sí, además de frío y calor, tiene función de deshumidificación y de ventilación independientes." },
+      { question: "¿Es ruidoso?", answer: "Según una reseña, el compresor hace un ruido moderado y tolerable, con ciclos de unos 5 minutos comprimiendo y 10 minutos de ventilador solo, que es muy silencioso." },
+    ],
+  },
+
+  // ─── Cámaras de seguridad — importadas via Chrome (jul 2026, API ML caída). Silo seguridad (STAGED) ───
+  {
+    id: "MLA18711640",
+    title: "Cámara de Seguridad Wifi IP Gadnic SX39 FHD Motorizada 1080P Audio Bidireccional Conexión Inalámbrica",
+    canonicalName: "Cámara de Seguridad Gadnic SX39",
+    price: 42149,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_782305-MLA111600184461_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_782305-MLA111600184461_052026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA18711640",
+    affiliateUrl: "https://meli.la/2Kod5MG",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 21177,
+    ratingBreakdown: { five: "84.2%", four: "11.63%", three: "2.44%", two: "0.6%", one: "1.14%" },
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Security" },
+      { label: "Modelo", value: "SX39" },
+      { label: "Tipo", value: "IP Wi-Fi motorizada (domo)" },
+      { label: "Resolución", value: "Full HD 1080p" },
+      { label: "Compresión de video", value: "H.264" },
+      { label: "Zoom", value: "Óptico 3x, digital 4x" },
+      { label: "Sensor de imagen", value: "CMOS de 1/2.7 pulgadas" },
+      { label: "Sensor de movimiento", value: "Sí, con seguimiento" },
+      { label: "Alarma y alerta al celular", value: "Sí" },
+      { label: "Audio bidireccional", value: "Sí (micrófono y parlante)" },
+      { label: "Resistencia al agua", value: "IP66" },
+      { label: "Asistentes compatibles", value: "Alexa" },
+      { label: "Sistemas compatibles", value: "Android, iOS" },
+      { label: "Almacenamiento", value: "Micro-SD (no incluida)" },
+      { label: "Accesorios incluidos", value: "Cargador, manual, set de montaje" },
+    ],
+    relatedProducts: ["MLA43877246", "MLA19663400", "MLA26988384"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Cámara de seguridad Gadnic SX39: motorizada con seguimiento de personas, Full HD, audio bidireccional e IP66. La más vendida del catálogo por lejos, con más de 21.000 calificaciones. La memoria micro-SD se compra aparte.",
+    seoTitle: "Cámara Gadnic SX39: la más vendida, ¿conviene?",
+    metaDescription: "Cámara de seguridad Gadnic SX39: motorizada, Full HD, IP66 y más de 21.000 calificaciones. Precio real, pros, contras y para quién conviene.",
+    verdict: "La Gadnic SX39 sirve si querés la cámara con más respaldo de compradores del país: motorizada con seguimiento, audio en ambos sentidos y apta exterior por IP66, a precio accesible. No sirve si tu Wi-Fi es flojo donde la vas a colgar (las reseñas reportan que ahí se puede tildar) o si esperás que venga con la memoria incluida: la micro-SD se compra aparte.",
+    pros: [
+      "La más vendida del catálogo, con más de 21.000 calificaciones y 4.8 de promedio",
+      "Motorizada: gira y hace seguimiento de personas en movimiento, y las reseñas destacan lo silencioso del domo",
+      "Micrófono y parlante: escuchás y hablás desde el celular, útil como disuasivo",
+      "Resistencia IP66: sirve para exterior bajo techo o interior",
+      "Zoom óptico 3x real, además del digital",
+    ],
+    cons: [
+      "La memoria micro-SD no viene incluida: sin ella no graba, solo muestra en vivo",
+      "Con Wi-Fi débil se puede tildar, según reseñas (un comprador con 4 estrellas lo reporta y lo atribuye a su conexión)",
+      "Una reseña recomienda sellar la tapita de la ranura SD si va a la intemperie",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Gadnic SX39 es una cámara de seguridad Wi-Fi motorizada: un domo que gira, sigue a las personas en movimiento y avisa al celular. Es, por lejos, la cámara de seguridad más vendida del catálogo de MercadoLibre Argentina, con más de 21.000 calificaciones y 4.8 de promedio.
+
+## Lo bueno
+
+El seguimiento motorizado funciona y es silencioso, algo que las reseñas destacan con sorpresa. Tiene micrófono y parlante, así que además de ver podés hablar: varios compradores lo usan como disuasivo. La resolución Full HD cumple de día y de noche, y la certificación IP66 le permite vivir afuera bajo techo. Todo se maneja desde una app para Android o iOS, con alertas de movimiento que las reseñas describen como rápidas.
+
+## La contra real
+
+No viene con memoria: sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba. Es el reclamo más votado entre las reseñas ("debería venir con la memoria", dice una opinión con 246 votos útiles). El otro punto es la dependencia del Wi-Fi: un comprador que la puntúa con 4 estrellas cuenta que a veces se tilda, aunque lo atribuye a su propia conexión. Y un instalador que puso varias recomienda sellar la tapita de la ranura SD si la cámara queda expuesta.
+
+## Para quién sí y para quién no
+
+Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor respaldo de compradores del país, a precio accesible. No la compres si donde la vas a instalar la señal de Wi-Fi es mala, o si necesitás visión doble o resolución mayor a Full HD: para eso, mirá la Geotek de doble lente o la TP-Link Tapo C210 con 2K.`,
+    faq: [
+      { question: "¿La Gadnic SX39 graba sin memoria?", answer: "No. Sin una micro-SD (se compra aparte) solo muestra la imagen en vivo desde la app. Con memoria, graba cuando detecta movimiento." },
+      { question: "¿Sirve para exterior?", answer: "Sí, tiene certificación IP66, apta para intemperie. Una reseña de un instalador recomienda igualmente sellar la tapita de la ranura de la memoria si queda muy expuesta." },
+      { question: "¿Hace seguimiento de personas?", answer: "Sí, el domo motorizado gira y sigue a la persona en movimiento. Las reseñas destacan que el movimiento es silencioso." },
+      { question: "¿Necesita buen Wi-Fi?", answer: "Sí, como toda cámara Wi-Fi. Un comprador reporta que con conexión floja se puede tildar. Antes de instalarla, verificá que la señal llegue bien al punto donde va." },
+      { question: "¿Se puede hablar a través de la cámara?", answer: "Sí, tiene micrófono y parlante: escuchás lo que pasa y podés hablar desde el celular." },
+    ],
+  },
+  {
+    id: "MLA43877246",
+    title: "Camara Seguridad Geotek Ip Wifi Domo Doble Lente 6mp Exterior Vision Nocturna Deteccion Movimiento Color Blanco",
+    canonicalName: "Cámara de Seguridad Geotek GT-A33BN (doble lente)",
+    price: 53301,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_939925-MLA105817158098_022026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_939925-MLA105817158098_022026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA43877246",
+    affiliateUrl: "https://meli.la/1GQsniy",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 10242,
+    ratingBreakdown: { five: "84.83%", four: "10.91%", three: "2.34%", two: "0.72%", one: "1.2%" },
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Geotek" },
+      { label: "Línea", value: "Domo doble lente" },
+      { label: "Modelo", value: "GT-A33BN" },
+      { label: "Tipo", value: "IP Wi-Fi motorizada, doble lente" },
+      { label: "Resolución", value: "6 MP entre los dos lentes (ficha ML: 4K)" },
+      { label: "Conectividad", value: "Wi-Fi, Bluetooth, LAN" },
+      { label: "Zoom digital", value: "5x" },
+      { label: "Visión nocturna", value: "A color, alcance 20 m" },
+      { label: "Sensor de movimiento", value: "Sí, con seguimiento de personas" },
+      { label: "Alarma y alerta al celular", value: "Sí, con luces disuasivas" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Resistencia al agua", value: "IP66 (exterior)" },
+      { label: "Sensor de imagen", value: "CMOS" },
+      { label: "App", value: "iCSee" },
+      { label: "Almacenamiento", value: "Micro-SD (no incluida)" },
+    ],
+    relatedProducts: ["MLA18711640", "MLA48013621", "MLA19663400"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Cámara de seguridad Geotek de doble lente para exterior: dos vistas en una misma cámara, visión nocturna a color de 20 m, IP66 y más de 10.000 calificaciones. Contra honesta: los tornillos incluidos son flojos, según reseñas.",
+    seoTitle: "Cámara Geotek Doble Lente: ¿vale la pena para exterior?",
+    metaDescription: "Cámara Geotek GT-A33BN doble lente: exterior IP66, visión nocturna color 20 m, más de 10.000 calificaciones. Precio real, pros y contras.",
+    verdict: "La Geotek doble lente sirve si querés cubrir el frente o el patio con una sola cámara que muestra dos vistas a la vez, con visión nocturna a color y resistencia real a la intemperie (una reseña cuenta que aguantó una tormenta que voló el techo de la cochera). No sirve si esperás que el 6 MP sea de un solo lente (es la suma de los dos) o si vas a usar los tornillos que vienen en la caja: comprá tornillos decentes.",
+    pros: [
+      "Doble lente: una vista fija panorámica y una motorizada con seguimiento, en la misma cámara",
+      "Más de 10.000 calificaciones con 4.8 de promedio",
+      "Visión nocturna a color con alcance declarado de 20 m",
+      "Aguante real a la intemperie: IP66, y reseñas que reportan tormentas sin drama",
+      "La app iCSee no mete publicidad, según reseñas de compradores con varias cámaras",
+    ],
+    cons: [
+      "Los tornillos de montaje incluidos son de mala calidad (reseña de 4 estrellas con 142 votos útiles; el comprador los reemplazó)",
+      "El 6 MP es la suma de los dos lentes, no la resolución de una sola imagen",
+      "La memoria micro-SD no viene incluida",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Geotek GT-A33BN es una cámara de exterior con dos lentes: uno fijo que ve panorámico y uno motorizado que gira y sigue el movimiento. En la app ves las dos tomas a la vez. Con más de 10.000 calificaciones, es la segunda cámara con más respaldo del catálogo argentino.
+
+## Lo bueno
+
+La doble vista resuelve el problema clásico de elegir entre panorámica o detalle: tenés las dos. La visión nocturna a color con 20 m declarados y las luces disuasivas que se activan con movimiento suman para exterior. Y el aguante está probado por los compradores: una reseña con 149 votos útiles cuenta que la cámara se bancó una tormenta que voló el techo de la cochera donde estaba instalada. Compradores con varias unidades destacan que la transmisión no se corta y que la app iCSee no tiene publicidad.
+
+## La contra real
+
+La más votada es sencilla: los tornillos que vienen en la caja son malos. El comprador que le puso 4 estrellas por eso (142 votos útiles) los cambió por otros y listo, pero conviene saberlo antes de subir a la escalera. La otra es de marketing: el "6 MP" del título sale de sumar los dos lentes; cada vista es de 3 MP, no hay una sola imagen de 6 MP. Y como en casi toda esta categoría, la memoria va aparte.
+
+## Para quién sí y para quién no
+
+Comprala si querés vigilar un frente, patio o cochera con una sola cámara que cubra el plano general y el detalle en movimiento. No la compres si buscás algo simple para interior: para eso hay opciones más chicas y baratas, como la Ezviz H1C o la Gadnic SX39.`,
+    faq: [
+      { question: "¿Qué significa doble lente en esta cámara?", answer: "Tiene dos cámaras en un cuerpo: una fija con vista panorámica y una motorizada que gira y sigue el movimiento. En la app ves ambas tomas a la vez. El 6 MP del título es la suma de los dos lentes de 3 MP." },
+      { question: "¿Aguanta la lluvia?", answer: "Sí, es IP66, pensada para exterior. Una reseña cuenta que sobrevivió a una tormenta que voló el techo de la cochera donde estaba instalada." },
+      { question: "¿La visión nocturna es a color?", answer: "Sí, la ficha declara visión nocturna a color con alcance de 20 metros." },
+      { question: "¿Viene con memoria?", answer: "No, la micro-SD se compra aparte. Sin memoria muestra en vivo pero no graba." },
+      { question: "¿Qué contra tiene?", answer: "Según las reseñas, los tornillos de montaje incluidos son de mala calidad. La recomendación de un comprador: usar tornillos y tarugos propios." },
+    ],
+  },
+  {
+    id: "MLA19663400",
+    title: "Cámara de seguridad WIFI IP TP-Link Tapo C210 Tapo con Vista 2K 3MP y Detección IA de 360 Grados",
+    canonicalName: "Cámara de Seguridad TP-Link Tapo C210",
+    price: 50109,
+    originalPrice: 71476,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_725717-MLA99943629485_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_725717-MLA99943629485_112025-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19663400",
+    affiliateUrl: "https://meli.la/2XP2zp1",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 5641,
+    ratingBreakdown: { five: "90.64%", four: "7.36%", three: "0.98%", two: "0.32%", one: "0.71%" },
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "TP-Link" },
+      { label: "Línea", value: "Tapo Smart" },
+      { label: "Modelo", value: "Tapo C210" },
+      { label: "Tipo", value: "Wi-Fi motorizada de interior (pan/tilt)" },
+      { label: "Resolución", value: "2K 3 MP (2304 x 1296)" },
+      { label: "Rango de giro", value: "360° horizontal, 114° vertical" },
+      { label: "Visión nocturna", value: "Infrarroja 850 nm, hasta 9 m" },
+      { label: "Cuadros por segundo", value: "15 fps" },
+      { label: "Compresión de video", value: "H.264" },
+      { label: "Wi-Fi", value: "Solo 2.4 GHz (802.11 b/g/n)" },
+      { label: "Audio bidireccional", value: "Sí (micrófono y parlante)" },
+      { label: "Alarma", value: "Sí, de luz y sonido" },
+      { label: "Almacenamiento", value: "Micro-SD hasta 256 GB (no incluida)" },
+      { label: "Asistentes compatibles", value: "Alexa y Asistente de Google" },
+      { label: "Alimentación", value: "Adaptador 9 V con cable de 3 m" },
+      { label: "Dimensiones", value: "86,6 x 85 x 117,7 mm" },
+    ],
+    relatedProducts: ["MLA37794717", "MLA26988384", "MLA18711640"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Cámara TP-Link Tapo C210: 2K 3 MP con giro de 360°, marca global de redes y la mejor calificación de la categoría (4.9 en más de 5.600 opiniones). Specs verificadas en tp-link.com/ar. Solo interior y solo Wi-Fi de 2.4 GHz.",
+    seoTitle: "TP-Link Tapo C210: ¿la mejor cámara de interior?",
+    metaDescription: "Cámara TP-Link Tapo C210: 2K, giro 360°, 4.9 estrellas en más de 5.600 calificaciones. Precio real en Argentina, pros, contras y para quién es.",
+    verdict: "La Tapo C210 sirve si querés la mejor combinación de imagen (2K real de 3 MP), app y respaldo de marca global para vigilar el interior de tu casa: es la mejor calificada de la categoría, con 4.9. No sirve para exterior (el fabricante la lista como cámara de interior) ni si tu router solo emite en 5 GHz: se conecta únicamente a redes de 2.4 GHz.",
+    pros: [
+      "La mejor calificada de la categoría: 4.9 en más de 5.600 opiniones, con 90% de 5 estrellas",
+      "Resolución 2K de 3 MP real (2304 x 1296), verificada en la página de TP-Link Argentina",
+      "Gira 360° en horizontal y 114° en vertical, con seguimiento de movimiento",
+      "App Tapo muy bien valorada: hasta 32 cámaras, sin depender de suscripción para grabar en la micro-SD",
+      "Marca global con soporte local y modo privacidad (apagás la vigilancia cuando estás en casa)",
+    ],
+    cons: [
+      "Solo interior: el fabricante no la lista como resistente al agua (la mención de IP67 en la ficha de ML contradice al fabricante y a la propia ficha, que dice que no es resistente al agua)",
+      "Solo Wi-Fi de 2.4 GHz: no se conecta a redes de 5 GHz",
+      "La micro-SD va aparte, y una reseña avisa que las tarjetas grandes cuestan casi la mitad de lo que sale la cámara",
+      "Graba a 15 cuadros por segundo: suficiente para vigilancia, pero no es video fluido de 30 fps",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Tapo C210 es la cámara de interior de TP-Link, la marca global de routers y redes. Filma en 2K (3 MP reales, 2304 x 1296), gira 360° en horizontal y es la cámara mejor calificada de toda la categoría en MercadoLibre Argentina: 4.9 de promedio en más de 5.600 opiniones, con 90% de compradores poniéndole 5 estrellas.
+
+## Lo bueno
+
+La imagen 2K se nota: "por poca diferencia los 2K se ven", resume una reseña argentina. La app Tapo es de lo más elogiado, con soporte para hasta 32 cámaras y sin necesidad de pagar suscripción: todo graba en una micro-SD local de hasta 256 GB. Un comprador detalla que con una tarjeta de 64 GB graba unos 4 días en Full HD continuo, o 7 bajando la calidad. Suma seguimiento de movimiento, alarma de luz y sonido, audio en ambos sentidos y modo privacidad. Las specs las verificamos contra la página oficial de TP-Link Argentina.
+
+## La contra real
+
+Es de interior: el fabricante no la declara resistente al agua (la ficha de MercadoLibre menciona un IP67 que contradice tanto al fabricante como a otra línea de la misma ficha, así que no lo tomes en cuenta). Solo se conecta a Wi-Fi de 2.4 GHz, un límite si tu router es moderno y emite solo en 5 GHz. La memoria va aparte, y el dato honesto de una reseña: una micro-SD grande puede costar casi la mitad de la cámara. Y graba a 15 cuadros por segundo, suficiente para vigilancia pero menos fluido que un video normal.
+
+## Para quién sí y para quién no
+
+Comprala si querés la mejor cámara de interior del catálogo, con marca reconocida, imagen 2K y una app que no te empuja a pagar mensualidad. No la compres para exterior (mirá la Geotek doble lente o el kit Geotek) ni si no tenés red de 2.4 GHz disponible.`,
+    faq: [
+      { question: "¿La Tapo C210 sirve para exterior?", answer: "No. TP-Link la lista como cámara de interior y no declara resistencia al agua. Para exterior conviene una IP66 real, como la Geotek doble lente o el kit Geotek de esta guía." },
+      { question: "¿Necesita suscripción para grabar?", answer: "No. Graba en una micro-SD local de hasta 256 GB (se compra aparte). Con 64 GB, una reseña reporta unos 4 días de grabación continua en Full HD." },
+      { question: "¿Funciona con Wi-Fi de 5 GHz?", answer: "No, solo se conecta a redes de 2.4 GHz (802.11 b/g/n). Verificá que tu router tenga esa banda activa." },
+      { question: "¿Qué resolución tiene realmente?", answer: "3 MP reales: 2304 x 1296, lo que se comercializa como 2K. Lo verificamos en la página oficial de TP-Link Argentina." },
+      { question: "¿Se puede apagar cuando estoy en casa?", answer: "Sí, tiene modo privacidad que desactiva la vigilancia desde la app, sin desenchufarla." },
+      { question: "¿Cuántas cámaras maneja la app?", answer: "La app Tapo admite hasta 32 cámaras, con vista simultánea de varias." },
+    ],
+  },
+  {
+    id: "MLA26988384",
+    title: "Mini Camara De Seguridad Wifi Vision Full Hd Ezviz Audio Color Blanco",
+    canonicalName: "Cámara de Seguridad Ezviz H1C (mini interior)",
+    price: 38840,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_631403-MLA112500730672_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_631403-MLA112500730672_062026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA26988384",
+    affiliateUrl: "https://meli.la/1fGvF6y",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 5782,
+    ratingBreakdown: { five: "89%", four: "8.46%", three: "1.54%", two: "0.47%", one: "0.54%" },
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ezviz" },
+      { label: "Modelo", value: "H1C" },
+      { label: "Tipo", value: "Mini cámara Wi-Fi de interior" },
+      { label: "Resolución", value: "Full HD 1080p" },
+      { label: "Compresión de video", value: "H.265 (archivos más livianos)" },
+      { label: "Zoom digital", value: "8x" },
+      { label: "Visión nocturna", value: "Alcance 12 m" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Alarma y alerta al celular", value: "Sí" },
+      { label: "Alimentación", value: "Cable USB con cargador incluido" },
+      { label: "Resistente al agua", value: "No (interior)" },
+      { label: "Montaje", value: "Se pega o se atornilla (placa metálica incluida)" },
+      { label: "Dimensiones", value: "10,33 x 9,03 cm" },
+      { label: "Almacenamiento", value: "Micro-SD (no incluida)" },
+    ],
+    relatedProducts: ["MLA37794717", "MLA19663400", "MLA18711640"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Mini cámara Ezviz H1C para interior: Full HD, audio bidireccional, visión nocturna de 12 m y montaje con cinta o tornillos. La más barata de la guía, con más de 5.700 calificaciones. Sin verificar en fabricante (página LATAM inaccesible).",
+    seoTitle: "Ezviz H1C: la mini cámara barata, ¿cumple?",
+    metaDescription: "Mini cámara Ezviz H1C: Full HD, visión nocturna, más de 5.700 calificaciones y el precio más bajo de su categoría. Pros, contras y veredicto.",
+    verdict: "La Ezviz H1C sirve si querés empezar a vigilar el interior de tu casa gastando lo menos posible sin caer en marcas genéricas: es la más barata de la guía, de marca especialista, y con más de 5.700 calificaciones que la respaldan. No sirve si necesitás que gire o siga el movimiento (es fija) ni para exterior.",
+    pros: [
+      "El precio más bajo de la guía, con marca especialista en cámaras y 4.8 de promedio",
+      "Chica y fácil de instalar: se pega o se atornilla, y las reseñas destacan la conexión simple",
+      "Compresión H.265: los videos ocupan menos memoria que en cámaras H.264",
+      "Audio bidireccional que las reseñas describen como muy bueno",
+      "Funciona bien con poca luz, según compradores",
+    ],
+    cons: [
+      "Es fija: no gira ni hace seguimiento (para eso, la Ezviz TY1 o la Gadnic SX39)",
+      "Solo interior, no resiste agua",
+      "La micro-SD para grabar se compra aparte",
+      "Specs sin verificar en la página del fabricante (inaccesible al momento del research); sostenidas con ficha técnica de ML y reseñas",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Ezviz H1C es una mini cámara Wi-Fi de interior: Full HD, visión nocturna de 12 metros y audio en ambos sentidos, en un cuerpo chico que se pega o se atornilla donde lo necesites. Es la opción más barata de nuestra guía de cámaras de seguridad, con más de 5.700 calificaciones.
+
+## Lo bueno
+
+Hace lo esencial bien y barato. Las reseñas repiten dos elogios: la facilidad de conexión y la calidad de imagen y sonido para el precio ("sorprendido: imagen, sonido, conexión, velocidad, estética", arranca una opinión). Comprime en H.265, así que los videos ocupan menos memoria que en la mayoría de las cámaras económicas. Un comprador da un consejo práctico: configurala y probala en cada ambiente antes de fijarla, para verificar que la señal de Wi-Fi llegue bien.
+
+## La contra real
+
+Es fija: apunta a donde la instalaste y listo, sin giro ni seguimiento. Para grabar hay que sumarle una micro-SD aparte, como avisa la reseña crítica más concreta ("para poder grabar hay que comprar una tarjeta micro SD aparte"). Y es estrictamente de interior. Un detalle de transparencia: la página de Ezviz para Latinoamérica no estuvo accesible durante el research, así que las specs se sostienen con la ficha técnica de MercadoLibre y las reseñas, no con el fabricante.
+
+## Para quién sí y para quién no
+
+Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia gastando poco, con una marca especialista. No la compres si necesitás seguimiento de movimiento o vigilar exterior: para eso están la TY1 de la misma marca, la Gadnic SX39 o las Geotek de esta guía.`,
+    faq: [
+      { question: "¿La Ezviz H1C gira o sigue el movimiento?", answer: "No, es una cámara fija. Si querés giro y seguimiento, la Ezviz TY1 o la Gadnic SX39 lo tienen por un poco más." },
+      { question: "¿Sirve para exterior?", answer: "No, es de interior y no resiste agua." },
+      { question: "¿Cómo se instala?", answer: "Se pega con el adhesivo incluido o se atornilla con la placa metálica. Las reseñas la describen como muy fácil de conectar al Wi-Fi." },
+      { question: "¿Graba sin memoria?", answer: "No, para grabar necesita una micro-SD que se compra aparte. Sin memoria solo muestra en vivo desde la app." },
+      { question: "¿Por qué es tan barata siendo de marca?", answer: "Porque es el modelo de entrada de Ezviz: fija, de interior y sin motorización. Lo esencial (imagen Full HD, visión nocturna, audio) lo cumple bien según más de 5.700 calificaciones." },
+    ],
+  },
+  {
+    id: "MLA48013621",
+    title: "Kit 3 Camaras Seguridad Geotek 3mp Ip Wifi Exterior Full Hd Domo Vision Nocturna Inteligente Deteccion Movimiento",
+    canonicalName: "Kit 3 Cámaras de Seguridad Geotek GT-N3",
+    price: 110490,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_942777-MLA107470687085_022026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_942777-MLA107470687085_022026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA48013621",
+    affiliateUrl: "https://meli.la/1Ctzici",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 6272,
+    ratingBreakdown: { five: "84.98%", four: "10.75%", three: "2.09%", two: "0.64%", one: "1.55%" },
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Geotek" },
+      { label: "Línea", value: "Domo 360" },
+      { label: "Modelo", value: "GT-N3 (kit x3)" },
+      { label: "Contenido", value: "3 cámaras domo motorizadas" },
+      { label: "Resolución", value: "Full HD 3 MP por cámara" },
+      { label: "Conectividad", value: "Wi-Fi" },
+      { label: "Zoom digital", value: "4x" },
+      { label: "Visión nocturna", value: "A color, alcance 20 m" },
+      { label: "Sensor de movimiento", value: "Sí, con detección de personas" },
+      { label: "Alarma y alerta al celular", value: "Sí" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Resistencia al agua", value: "IP66 (exterior)" },
+      { label: "App", value: "iCSee (según reseñas de compradores)" },
+      { label: "Almacenamiento", value: "Micro-SD por cámara (no incluidas)" },
+    ],
+    relatedProducts: ["MLA43877246", "MLA18711640", "MLA19663400"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Kit de 3 cámaras Geotek para exterior: domos motorizados Full HD con visión nocturna a color e IP66. Sale menos que comprar 3 cámaras sueltas y evita la mensualidad de las alarmas con abono. Cada cámara necesita corriente y su propia micro-SD.",
+    seoTitle: "Kit 3 Cámaras Geotek: ¿conviene para toda la casa?",
+    metaDescription: "Kit de 3 cámaras de seguridad Geotek: exterior IP66, visión nocturna color, más de 6.200 calificaciones. Precio real, pros, contras y veredicto.",
+    verdict: "El kit Geotek sirve si querés cubrir varios frentes de la casa de una vez pagando menos que por 3 cámaras sueltas, sin mensualidad de por medio: la frase de una reseña lo resume, invertís una vez y listo. No sirve si no tenés cómo llevar corriente a cada punto de instalación o si tenés mascotas que van a disparar la detección de personas todo el día, un límite que una reseña honesta marca.",
+    pros: [
+      "Tres cámaras exterior IP66 por menos de lo que salen sueltas",
+      "Más de 6.200 calificaciones con 4.8 de promedio",
+      "Sin mensualidad: graba local en micro-SD, sin abono de monitoreo",
+      "Visión nocturna a color de 20 m y detección de personas en las tres cámaras",
+      "Instalación descripta como sencilla por las reseñas (llevar corriente y sincronizar por app)",
+    ],
+    cons: [
+      "Cada cámara necesita alimentación eléctrica: hay que llevar cable a cada punto",
+      "La detección de personas se puede disparar con mascotas, según una reseña de 4 estrellas con perros y gatos",
+      "Las micro-SD no vienen incluidas, y acá son tres",
+    ],
+    articleBody: `## Qué es y para quién
+
+El kit GT-N3 de Geotek trae tres cámaras domo motorizadas de exterior (IP66, Full HD, visión nocturna a color) para cubrir varios frentes de una casa de una vez: entrada, patio, cochera. Con más de 6.200 calificaciones, es la forma más elegida de armar un sistema de varias cámaras sin abono en MercadoLibre Argentina.
+
+## Lo bueno
+
+La cuenta que hacen los compradores es simple y una reseña con 196 votos útiles la dice textual: valió la pena la inversión, invertís una vez y te ahorrás la mensualidad de un servicio de alarma. La instalación, según otra reseña detallada, es una papa si tenés algo de idea: llevás corriente a cada punto, sincronizás con la app por Wi-Fi y listo, con buenas antenas incluso a distancia. Las tres cámaras graban local en micro-SD, sin depender de nube paga.
+
+## La contra real
+
+Cada cámara necesita su cable de corriente, así que el trabajo real de la instalación es llevar electricidad a tres puntos de la casa. La detección de personas convive mal con las mascotas: un comprador con 3 gatos y 2 perros cuenta que le disparan las alertas. Y a las tres hay que sumarles una micro-SD cada una, un costo extra que no está en el precio del kit.
+
+## Para quién sí y para quién no
+
+Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen para instalarlo vos. No lo compres si solo necesitás vigilar un punto (una cámara suelta sale menos de la mitad) o si no tenés forma práctica de llevar corriente a cada esquina.`,
+    faq: [
+      { question: "¿El kit necesita abono mensual?", answer: "No. Graba local en micro-SD (una por cámara, se compran aparte) y se ve desde la app, sin servicio de monitoreo pago." },
+      { question: "¿Las cámaras son inalámbricas?", answer: "El video va por Wi-Fi, pero cada cámara necesita alimentación eléctrica: hay que llevar cable de corriente a cada punto de instalación." },
+      { question: "¿Sirven para exterior?", answer: "Sí, las tres son IP66 con visión nocturna a color de 20 metros declarados." },
+      { question: "¿La detección de personas funciona con mascotas?", answer: "Es el punto flojo: una reseña de un comprador con perros y gatos reporta que las mascotas disparan las alertas de movimiento." },
+      { question: "¿Es difícil de instalar?", answer: "Las reseñas dicen que no: llevar positivo y negativo a una caja por cámara, enchufar y sincronizar con la app por Wi-Fi. Lo laborioso es el cableado eléctrico, no la configuración." },
+    ],
+  },
+  {
+    id: "MLA37794717",
+    title: "Cámara De Seguridad Ezviz Ty1 Wifi Interior Motorizada",
+    canonicalName: "Cámara de Seguridad Ezviz TY1 (interior motorizada)",
+    price: 42087,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_699996-MLA109861512780_042026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_699996-MLA109861512780_042026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA37794717",
+    affiliateUrl: "https://meli.la/11ACYPJ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 1898,
+    ratingBreakdown: { five: "91.2%", four: "7.06%", three: "1.11%", two: "0.32%", one: "0.32%" },
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ezviz" },
+      { label: "Modelo", value: "CS-TY1-R105-1L2WF" },
+      { label: "Tipo", value: "Wi-Fi motorizada de interior" },
+      { label: "Resolución", value: "Full HD 1080p" },
+      { label: "Compresión de video", value: "H.264" },
+      { label: "Zoom digital", value: "8x" },
+      { label: "Sensor de imagen", value: "BSI de 1/2.7 pulgadas" },
+      { label: "Lente", value: "4 mm" },
+      { label: "Detección", value: "Figura humana, con seguimiento" },
+      { label: "Alarma y alerta al celular", value: "Sí, detecta también ruidos anormales" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Visión nocturna a color", value: "Sí (según ficha ML)" },
+      { label: "Alimentación", value: "Corriente eléctrica" },
+      { label: "Asistentes compatibles", value: "Alexa y Asistente de Google" },
+      { label: "Almacenamiento", value: "Micro-SD (no incluida)" },
+    ],
+    relatedProducts: ["MLA26988384", "MLA19663400", "MLA18711640"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Cámara Ezviz TY1: motorizada de interior con detección de figura humana y seguimiento, Full HD, 4.9 de promedio. Sin suscripción obligatoria para las funciones básicas. Base de calificaciones más chica que el resto de la guía (1.898).",
+    seoTitle: "Ezviz TY1: motorizada de interior, ¿conviene?",
+    metaDescription: "Cámara Ezviz TY1 motorizada: detección humana, seguimiento y 4.9 estrellas. Precio real en Argentina, pros, contras y para quién conviene.",
+    verdict: "La Ezviz TY1 sirve si querés una motorizada de interior con detección de figura humana y seguimiento, de marca especialista y sin pagar suscripción para lo esencial: tiene 4.9, la mejor calificación de la guía junto a la Tapo. No sirve si te pesa que la base de opiniones sea la más chica del grupo (1.898) o si buscás resolución 2K: es Full HD.",
+    pros: [
+      "4.9 de promedio, con 91% de calificaciones de 5 estrellas",
+      "Detección de figura humana con seguimiento motorizado, y detección de ruidos anormales",
+      "Las funciones esenciales no requieren suscripción, según reseñas",
+      "Marca especialista en cámaras, compatible con Alexa y Asistente de Google",
+      "Zoom digital 8x",
+    ],
+    cons: [
+      "La base de calificaciones más chica de la guía (1.898 frente a las más de 5.000 del resto)",
+      "Resolución Full HD, contra el 2K de la Tapo C210 a precio parecido",
+      "Solo interior, y necesita un enchufe cerca",
+      "Specs sin verificar en la página del fabricante (inaccesible al momento del research)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Ezviz TY1 es una cámara motorizada de interior: gira, detecta figuras humanas (no cualquier movimiento) y las sigue, con alerta al celular y detección de ruidos anormales. Es de las dos mejor calificadas de nuestra guía, con 4.9 de promedio.
+
+## Lo bueno
+
+La detección de figura humana reduce las falsas alarmas típicas de los sensores de movimiento comunes, y el seguimiento motorizado hace que no pierdas a la persona del cuadro. Una reseña destaca lo que más importa en esta gama: la app tiene las funciones justas sin exigir suscripción para el uso básico. Compradores con varias unidades resaltan la facilidad de manejo y que el equipo se actualiza solo.
+
+## La contra real
+
+Su base de opiniones es la más chica de la guía: 1.898 calificaciones, contra las más de 5.000 de las demás. Sigue siendo una muestra grande, pero es justo decirlo. La resolución es Full HD, un escalón abajo del 2K de la Tapo C210 que sale parecido. Es solo de interior, necesita enchufe cerca, y la página del fabricante para la región no estuvo accesible durante el research, así que las specs se sostienen con la ficha de ML y las reseñas.
+
+## Para quién sí y para quién no
+
+Comprala si querés detección de personas de verdad (no alertas por cada cortina que se mueve) en una motorizada de interior de marca especialista. No la compres si preferís la máxima base de opiniones o la mejor resolución: ahí la Tapo C210 le gana en 2K y en historial.`,
+    faq: [
+      { question: "¿La Ezviz TY1 necesita suscripción?", answer: "Para lo esencial, no: una reseña destaca que la app tiene las funciones justas para un usuario que no requiere suscripción. Graba local en micro-SD (se compra aparte)." },
+      { question: "¿Qué diferencia hay entre detección de movimiento y de figura humana?", answer: "La detección de movimiento se dispara con cualquier cambio en la imagen (mascotas, cortinas, luces). La TY1 detecta específicamente figuras humanas y las sigue con el motor, lo que reduce las falsas alarmas." },
+      { question: "¿Sirve para exterior?", answer: "No, es de interior y se alimenta de corriente eléctrica, sin resistencia al agua declarada." },
+      { question: "¿Por qué tiene menos calificaciones que las otras?", answer: "Es un modelo con menos rotación en el catálogo argentino: 1.898 calificaciones, contra más de 5.000 del resto de la guía. La muestra igual es amplia y el promedio (4.9) es el más alto junto a la Tapo C210." },
+      { question: "¿Detecta sonidos?", answer: "Sí, además del movimiento detecta ruidos anormales y avisa al celular, según la ficha y las reseñas." },
+    ],
   },
 ];
 

@@ -46,7 +46,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-06-28",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `Un microondas para calentar la comida lo resolvés con $150.000; uno con grill, inverter o 28 litros sale el doble. Te mostramos cuál conviene según para qué lo querés, comparando los más vendidos de Argentina (BGH, Samsung, Atma, LG) por litros, potencia, grill y precio real de MercadoLibre.`,
+    standfirst: `Un microondas para calentar la comida lo resolvés con $180.000; uno con grill, inverter o 28 litros sale el doble. Te mostramos cuál conviene según para qué lo querés, comparando los más vendidos de Argentina (BGH, Samsung, Atma, LG) por litros, potencia, grill y precio real de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", tagline: "BGH Quick Chef 20L: el más vendido y barato, a perilla, más de 4.100 opiniones" },
       { productMlaId: "MLA17695389", label: "El digital más elegido", labelColor: "blue", tagline: "BGH Quick Chef Eco 20L: mismo tamaño con control digital y menús" },
@@ -70,7 +70,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. BGH Quick Chef 20L (B120M20) — el más vendido` },
       { type: "product-card", productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", ranking: 1, description: `El microondas más vendido del país: 20 litros, 700 W, control a perilla. 4.6 estrellas en más de 4.100 calificaciones. Simple, confiable y al mejor precio.` },
-      { type: "p", content: `Si solo querés calentar, descongelar y no renegar, es este. El BGH Quick Chef de 20 litros funciona **a perilla** (girás el tiempo y la potencia, sin menús), es el **más barato** de la guía (alrededor de $149.000) y, por lejos, el más vendido de Argentina con más de 4.100 opiniones. Para el uso que el 90% le da a un microondas, sobra.` },
+      { type: "p", content: `Si solo querés calentar, descongelar y no renegar, es este. El BGH Quick Chef de 20 litros funciona **a perilla** (girás el tiempo y la potencia, sin menús), es el **más barato** de la guía (alrededor de $180.000) y, por lejos, el más vendido de Argentina con más de 4.100 opiniones. Para el uso que el 90% le da a un microondas, sobra.` },
       { type: "p", content: `Lo honesto: a perilla el timer no es preciso al segundo, y es de 700 W (potencia estándar, no la más alta). Pero esa simpleza es justamente su gracia: no hay nada que se rompa ni que aprender. Si querés control digital, mirá el de abajo; si te alcanza con girar una perilla, no hay con qué darle por el precio.` },
       { type: "pull-quote", content: `"Es un producto estándar. Simple, lo justo y necesario para no renegar con problemas tecnológicos ni digitales: potencia, tiempo, descongela, calienta, más que suficiente."`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -82,7 +82,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `3. Samsung 23L con grill (MG23F3K3TAK) — para dorar y gratinar` },
       { type: "product-card", productMlaId: "MLA10531383", label: "Con grill", labelColor: "purple", ranking: 3, description: `23 litros con grill e interior cerámico (más fácil de limpiar). 4.7 estrellas en más de 3.600 calificaciones. Para los que además quieren dorar.` },
-      { type: "p", content: `Si querés que el microondas **además dore o gratine** (no solo caliente), el Samsung con grill es la opción más vendida. Suma 23 litros, 800 W e **interior cerámico** (más resistente y fácil de limpiar que el esmaltado común), a alrededor de $258.000. Con el grill hacés tostadas, gratinás una pasta o dorás pollo, cosa que un microondas pelado no hace.` },
+      { type: "p", content: `Si querés que el microondas **además dore o gratine** (no solo caliente), el Samsung con grill es la opción más vendida. Suma 23 litros, 800 W e **interior cerámico** (más resistente y fácil de limpiar que el esmaltado común), a alrededor de $326.000. Con el grill hacés tostadas, gratinás una pasta o dorás pollo, cosa que un microondas pelado no hace.` },
       { type: "p", content: `**Ojo con un detalle importante:** necesita un **toma de 20 amperes**, así que es muy probable que tengas que cambiar el enchufe de la pared (varias reseñas lo marcan). Tenelo en cuenta antes de comprarlo. Salvado eso, es un equipo que cumple de sobra y la marca respalda.` },
 
       { type: "h3", title: `4. BGH 28L (B228DS20) — el grande para familia` },
@@ -122,8 +122,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un microondas en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$149.000 a $215.000:** los de 20 litros. El [BGH Quick Chef](https://meli.la/27RQQKV) a perilla (el más vendido), el [BGH Eco digital](https://meli.la/2jy5EDC) y el [Atma](https://meli.la/2Gh5aGU). La franja que resuelve para la mayoría.`,
-        `**$258.000 a $310.000:** los de 23-28 litros con grill. El [Samsung 23L](https://meli.la/2TU2ytf) (dorar y gratinar) y el [BGH 28L](https://meli.la/322XwMY) (grande para familia).`,
+        `**$180.000 a $215.000:** los de 20 litros. El [BGH Quick Chef](https://meli.la/27RQQKV) a perilla (el más vendido), el [BGH Eco digital](https://meli.la/2jy5EDC) y el [Atma](https://meli.la/2Gh5aGU). La franja que resuelve para la mayoría.`,
+        `**$309.000 a $326.000:** los de 23-28 litros con grill. El [BGH 28L](https://meli.la/322XwMY) (grande para familia) y el [Samsung 23L](https://meli.la/2TU2ytf) (dorar y gratinar).`,
         `**{{precio:MLA62204337:k}} o más:** el premium. El [LG 25L Smart Inverter](https://meli.la/2pLfJd8), solo si valorás el inverter y la marca.`,
       ] },
 
@@ -143,6 +143,7 @@ export const guides: Guide[] = [
       { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
       { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
+      { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -212,7 +213,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `5. BGH 45L con convección y grill (BHE45S22) — convección de marca` },
       { type: "product-card", productMlaId: "MLA23364885", label: "Convección de marca", labelColor: "amber", ranking: 5, description: `45 litros con convección y grill, marca con service en el país. 4.7 estrellas en más de 1.100 calificaciones. Cocina parejo y rápido.` },
-      { type: "p", content: `Si querés convección en el tamaño familiar de 45 litros y con una marca de respaldo, el BGH es la opción. Trae **convección y grill**, calienta rápido y cocina parejo, tanto que hay quien lo usa para emprendimientos de pastelería. A alrededor de $196.000, con el service de BGH en el país.` },
+      { type: "p", content: `Si querés convección en el tamaño familiar de 45 litros y con una marca de respaldo, el BGH es la opción. Trae **convección y grill**, calienta rápido y cocina parejo, tanto que hay quien lo usa para emprendimientos de pastelería. A alrededor de $268.000, con el service de BGH en el país.` },
       { type: "p", content: `Frente al Atma #1 (que es el más vendido y un toque más barato), este suma la **convección** y es de BGH. Frente al Smartlife, es más chico (45 vs 50 litros) y sin spiedo, pero de marca más conocida. Buena opción de convección de tamaño medio.` },
 
       { type: "h3", title: `6. Atma 40L con 2 anafes (HG4022API) — horno + hornallas` },
@@ -241,8 +242,8 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta un horno eléctrico en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**$89.000 a $130.000:** los chicos. El [Ultracomb 17L](https://meli.la/275n9Me) (el más barato), para una persona o poco espacio.`,
-        `**$185.000 a $206.000:** los medianos de 40-45 litros, la franja que conviene para la mayoría. El [Atma 45L](https://meli.la/14iWweG) (el más vendido), el [BGH 45L convección](https://meli.la/2yH1PUv) y el [Atma 40L con anafes](https://meli.la/1z6gciA).`,
-        `**$205.000 a $225.000:** los grandes y completos. El [BGH 65L](https://meli.la/1xFm6vK) (familia) y el [Smartlife 50L](https://meli.la/25fVep5) con convección y spiedo.`,
+        `**$185.000 a $207.000:** los medianos de 40-45 litros sin convección, la franja que conviene para la mayoría. El [Atma 45L](https://meli.la/14iWweG) (el más vendido) y el [Atma 40L con anafes](https://meli.la/1z6gciA).`,
+        `**$205.000 a $268.000:** los grandes o con convección. El [BGH 65L](https://meli.la/1xFm6vK) (familia), el [Smartlife 50L](https://meli.la/25fVep5) con convección y spiedo, y el [BGH 45L convección](https://meli.la/2yH1PUv), el más caro de la franja media por sumar convección.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál horno eléctrico comprar`, id: "veredicto" },
@@ -261,6 +262,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Horno eléctrico Atma: cuál comprar (la marca más vendida)", href: "/guias/cocina/horno-atma" },
       { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
+      { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
       { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
     ],
@@ -324,7 +326,7 @@ export const guides: Guide[] = [
         [`¿Dora / gratina?`, `No (salvo con grill)`, `Sí`],
         [`Consumo por uso`, `Muy bajo (centavos)`, `Alto (cocina = más energía)`],
         [`Espacio`, `Compacto`, `Más grande`],
-        [`Precio desde`, `~$149.000`, `~$89.000 (chico) a $225.000`],
+        [`Precio desde`, `~$180.000`, `~$89.000 (chico) a $268.000`],
       ] },
 
       { type: "h2", title: `Veredicto`, id: "veredicto" },
@@ -386,7 +388,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. BGH Quick Chef 20L a perilla (B120M20) — el más vendido` },
       { type: "product-card", productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", ranking: 1, description: `20 litros, 700 W, control a perilla. 4.6 estrellas en más de 4.100 calificaciones. El microondas más vendido del país, simple y al mejor precio.` },
-      { type: "p", content: `Es el BGH (y el microondas) más vendido de Argentina. El Quick Chef de **20 litros a perilla** hace lo esencial (calentar, descongelar) sin menús ni complicaciones, y es el **más barato** de la gama, a alrededor de $149.000. Con más de 4.100 opiniones, es la compra segura para el uso de todos los días.` },
+      { type: "p", content: `Es el BGH (y el microondas) más vendido de Argentina. El Quick Chef de **20 litros a perilla** hace lo esencial (calentar, descongelar) sin menús ni complicaciones, y es el **más barato** de la gama, a alrededor de $180.000. Con más de 4.100 opiniones, es la compra segura para el uso de todos los días.` },
       { type: "p", content: `Lo honesto: la perilla no es precisa al segundo y son 700 W (potencia estándar). Pero esa simpleza es su gracia: no hay nada que aprender ni que se complique. Si querés botones y menús, mirá el digital de abajo.` },
       { type: "pull-quote", content: `"Lo tengo hace dos años y sigue funcionando joya. Lo recomiendo una banda."`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -398,7 +400,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `3. BGH Eco 23L digital (B223DN20) — un poco más grande` },
       { type: "product-card", productMlaId: "MLA19079384", label: "Un poco más grande y con grill", labelColor: "purple", ranking: 3, description: `23 litros, 800 W, digital y con grill (1000 W) para dorar. 4.7 estrellas en más de 2.000 calificaciones. Un escalón de tamaño y de funciones sobre los de 20 litros.` },
-      { type: "p", content: `Si el de 20 litros te queda justo pero el de 28 te parece demasiado, el de **23 litros** es el punto medio, y suma algo que los de 20 no tienen: **grill** (1000 W) para dorar y gratinar. Un poco más de espacio, 800 W y control digital, a alrededor de $243.000. Es el único BGH chico-mediano que además dora, así que para una pareja que cocina algo más es un buen equilibrio.` },
+      { type: "p", content: `Si el de 20 litros te queda justo pero el de 28 te parece demasiado, el de **23 litros** es el punto medio, y suma algo que los de 20 no tienen: **grill** (1000 W) para dorar y gratinar. Un poco más de espacio, 800 W y control digital, a alrededor de $265.000. Es el único BGH chico-mediano que además dora, así que para una pareja que cocina algo más es un buen equilibrio.` },
 
       { type: "h3", title: `4. BGH 28L con grill (B228DS20) — el grande` },
       { type: "product-card", productMlaId: "MLA17484012", label: "El grande", labelColor: "amber", ranking: 4, description: `28 litros (de los más grandes), 900 W, digital y con grill. 4.8 estrellas en más de 2.800 calificaciones. Entra una fuente grande o una pizza.` },
@@ -422,7 +424,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta un microondas BGH en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA18193159:k}}:** el [Quick Chef 20L a perilla](https://meli.la/27RQQKV), el más vendido y la entrada a la marca.`,
-        `**$200.000 a $243.000:** los digitales de 20 y 23 litros. El [Eco 20L](https://meli.la/2jy5EDC) y el [Eco 23L](https://meli.la/17cw2wE).`,
+        `**$202.000 a $265.000:** los digitales de 20 y 23 litros. El [Eco 20L](https://meli.la/2jy5EDC) y el [Eco 23L](https://meli.la/17cw2wE).`,
         `**Alrededor de {{precio:MLA17484012:k}}:** el [28L con grill](https://meli.la/322XwMY), el grande para familia.`,
       ] },
 
@@ -438,6 +440,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
+      { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
     ],
@@ -603,17 +606,17 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `2. Atma Easy Cook 23L con grill (MD1723GN) — para dorar` },
       { type: "product-card", productMlaId: "MLA8891728", label: "Con grill", labelColor: "purple", ranking: 2, description: `23 litros, 800 W, con grill (incluye parrilla) y descongelado por peso. 4.7 estrellas en más de 1.500 calificaciones.` },
-      { type: "p", content: `Si querés que el Atma además **dore**, el Easy Cook de 23 litros suma grill (viene con parrilla) y un práctico **descongelado por peso**, a alrededor de $260.000. Un poco más grande que el de 20 litros y con la función para gratinar o calentar dos platos juntos.` },
+      { type: "p", content: `Si querés que el Atma además **dore**, el Easy Cook de 23 litros suma grill (viene con parrilla) y un práctico **descongelado por peso**, a alrededor de $266.000. Un poco más grande que el de 20 litros y con la función para gratinar o calentar dos platos juntos.` },
       { type: "p", content: `Contra de las reseñas: es **liviano**, así que al tirar de la manija para abrirlo se mueve hacia adelante, un poco incómodo. Por lo demás, suma el grill por una diferencia razonable.` },
       { type: "pull-quote", content: `"El descongelado por peso es un golazo. Lo único malo es que sea tan liviano: al tirar de la manija se mueve hacia adelante."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Atma 20L rotativo (MATRB20AN) — el más barato` },
       { type: "product-card", productMlaId: "MLA28645101", label: "El más barato", labelColor: "blue", ranking: 3, description: `20 litros, 700 W, con plato giratorio. 4.7 estrellas en más de 800 calificaciones. La opción más económica de Atma.` },
-      { type: "p", content: `Si querés un Atma gastando lo mínimo, el de 20 litros con plato giratorio es el más barato de la marca, a alrededor de $186.000. Hace lo esencial (calentar, descongelar) con el respaldo de Atma, sin pagar de más.` },
+      { type: "p", content: `Si querés un Atma gastando lo mínimo, el de 20 litros con plato giratorio es el más barato de la marca, a alrededor de $209.000. Hace lo esencial (calentar, descongelar) con el respaldo de Atma, sin pagar de más.` },
 
       { type: "h3", title: `4. Atma 25L full screen con grill — el más grande` },
       { type: "product-card", productMlaId: "MLA56215513", label: "El más grande", labelColor: "amber", ranking: 4, description: `25 litros, 850 W, con grill y panel digital full screen. 4.8 estrellas. El más grande y completo de la gama Atma.` },
-      { type: "p", content: `Si querés el Atma más grande y completo, el de 25 litros suma capacidad (entra una fuente más holgada), grill para dorar y un panel digital full screen, a alrededor de $233.000. Para quien quiere espacio y la función de gratinar dentro de la marca.` },
+      { type: "p", content: `Si querés el Atma más grande y completo, el de 25 litros suma capacidad (entra una fuente más holgada), grill para dorar y un panel digital full screen, a alrededor de $252.000. Para quien quiere espacio y la función de gratinar dentro de la marca.` },
 
       { type: "h2", title: `Tabla comparativa: la gama Atma`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Grill`, `Ideal para`], rows: [
@@ -663,7 +666,7 @@ export const guides: Guide[] = [
     standfirst: `Atma es la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina. Te mostramos su gama (de 23 a 50 litros, con grill, anafes o hasta freidora de aire) y cuál conviene según cuántos sean en casa, con precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA27167036", label: "El más vendido", labelColor: "green", tagline: "Atma 45L con grill: el horno más vendido del país, entra un pollo entero" },
-      { productMlaId: "MLA20010900", label: "El grande", labelColor: "amber", tagline: "Atma 50L: más espacio, elegís dorar arriba o abajo" },
+      { productMlaId: "MLA20010900", label: "El premium", labelColor: "amber", tagline: "Atma 50L: el tope de la gama, con salto de precio importante" },
       { productMlaId: "MLA29108606", label: "Horno + freidora", labelColor: "purple", tagline: "Atma 23L 2 en 1: horno y freidora de aire en un solo aparato" },
       { productMlaId: "MLA21789761", label: "El más chico", labelColor: "blue", tagline: "Atma 30L con grill: el tamaño intermedio, para pareja" },
     ],
@@ -684,14 +687,14 @@ export const guides: Guide[] = [
       { type: "p", content: `Contra honesta de las reseñas: **no tiene luz interior** (tenés que abrir para ver la comida). Nada que arruine la compra; sigue siendo el más recomendado de la marca.` },
       { type: "pull-quote", content: `"Muy lindo, la verdad me encantó. Es súper amplio, te entran las dos bandejas redondas pizzeras grandes."`, attribution: `Opinión verificada en MercadoLibre` },
 
-      { type: "h3", title: `2. Atma 50L con grill (HGA5021N) — el grande` },
-      { type: "product-card", productMlaId: "MLA20010900", label: "El grande", labelColor: "amber", ranking: 2, description: `50 litros, 1400 W, con grill y temperatura hasta 200 °C. 4.7 estrellas en más de 1.500 calificaciones. Elegís dorar arriba, abajo o ambos.` },
-      { type: "p", content: `Si querés más espacio que el de 45, el Atma de **50 litros** suma capacidad y la opción de **elegir dónde dorar** (resistencia de arriba, de abajo o ambas), con timer e intensidad, a alrededor de $200.000. Calienta rápido y parejo, con muy buen respaldo de opiniones.` },
+      { type: "h3", title: `2. Atma 50L con grill (HGA5021N) — el premium` },
+      { type: "product-card", productMlaId: "MLA20010900", label: "El premium", labelColor: "amber", ranking: 2, description: `50 litros, 1400 W, con grill y temperatura hasta 200 °C. 4.7 estrellas en más de 1.500 calificaciones. Elegís dorar arriba, abajo o ambos.` },
+      { type: "p", content: `Si buscás más espacio que el de 45, el Atma de **50 litros** suma capacidad y la opción de **elegir dónde dorar** (resistencia de arriba, de abajo o ambas), con timer e intensidad. Ojo con un dato honesto: al momento de esta revisión cuesta alrededor de $500.000, bastante más que el resto de la gama Atma (el 45L ronda los $185.000), así que dejó de ser "un escalón más" para pasar a ser el modelo premium de la marca. Calienta rápido y parejo, con muy buen respaldo de opiniones, pero conviene comparar precio antes de asumir que es solo "un poco más grande".` },
       { type: "pull-quote", content: `"Calienta híper bien y rápido. Podés elegir dónde dorar, arriba o abajo, timer e intensidad. Diez mil menos que en una cadena súper conocida."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Atma 23L con freidora de aire (HGFA2323PI) — 2 en 1` },
       { type: "product-card", productMlaId: "MLA29108606", label: "Horno + freidora", labelColor: "purple", ranking: 3, description: `23 litros que además es freidora de aire: dos aparatos en uno, con grill. 4.6 estrellas en más de 590 calificaciones.` },
-      { type: "p", content: `Si te tienta tener **horno y freidora de aire en un solo aparato**, este Atma de 23 litros lo resuelve: horneás como en cualquier horno chico y además freís con aire (más sano, sin tanto aceite), a alrededor de $203.000. Ideal si querés las dos cosas sin ocupar dos lugares en la mesada.` },
+      { type: "p", content: `Si te tienta tener **horno y freidora de aire en un solo aparato**, este Atma de 23 litros lo resuelve: horneás como en cualquier horno chico y además freís con aire (más sano, sin tanto aceite), a alrededor de $192.000. Ideal si querés las dos cosas sin ocupar dos lugares en la mesada.` },
       { type: "p", content: `Es más chico (23 litros), así que para una familia grande queda corto; pero como combo horno + freidora para una pareja o cocina chica, es una solución práctica que pocos ofrecen.` },
 
       { type: "h3", title: `4. Atma 30L con grill (HGA3022) — el más chico` },
@@ -701,19 +704,19 @@ export const guides: Guide[] = [
       { type: "h2", title: `Tabla comparativa: la gama Atma`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Extra`, `Ideal para`], rows: [
         [`[Atma 45L grill](https://meli.la/14iWweG)`, `{{precio:MLA27167036}}`, `45 L`, `Grill`, `El más vendido, familia`],
-        [`[Atma 50L grill](https://meli.la/2gXMCyC)`, `{{precio:MLA20010900}}`, `50 L`, `Dorar arriba/abajo`, `El grande`],
+        [`[Atma 50L grill](https://meli.la/2gXMCyC)`, `{{precio:MLA20010900}}`, `50 L`, `Dorar arriba/abajo`, `El premium de la gama`],
         [`[Atma 30L grill](https://meli.la/1fbEnsF)`, `{{precio:MLA21789761}}`, `30 L`, `Hasta 250 °C`, `Pareja, tamaño intermedio`],
         [`[Atma 23L + freidora](https://meli.la/1HfsMm2)`, `{{precio:MLA29108606}}`, `23 L`, `Freidora de aire`, `Horno y freidora en uno`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu horno Atma`, id: "como-elegir" },
-      { type: "p", content: `Definí el **tamaño** según cuántos son: 23 a 30 litros para una pareja o cosas chicas; 45 a 50 si sos familia o cocinás en cantidad. Y mirá las **funciones**: el de 23 suma freidora de aire (dos en uno), el de 50 te deja elegir dónde dorar. El más vendido (45L) es el equilibrio para la mayoría. Si dudás entre Atma y otra marca, en la [guía general](/guias/cocina/horno-electrico) está la comparación con BGH, Ultracomb y Smartlife.` },
+      { type: "p", content: `Definí el **tamaño** según cuántos son: 23 a 30 litros para una pareja o cosas chicas; 45 a 50 si sos familia o cocinás en cantidad. Y mirá las **funciones**: el de 23 suma freidora de aire (dos en uno), el de 50 te deja elegir dónde dorar. El más vendido (45L) es el equilibrio para la mayoría; el 50L es el salto premium, con un precio bastante más alto. Si dudás entre Atma y otra marca, en la [guía general](/guias/cocina/horno-electrico) está la comparación con BGH, Ultracomb y Smartlife.` },
 
       { type: "h2", title: `Veredicto: cuál horno Atma comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, el **Atma 45L con grill**: el más vendido, tamaño justo para familia y al mejor precio. Si querés **más espacio**, el **50L**; si te tienta **horno + freidora de aire** en uno, el **23L 2 en 1**; y para una pareja, el **30L** intermedio. Toda la gama tiene el service de Atma en el país. Para comparar con otras marcas, mirá la [guía general de hornos eléctricos](/guias/cocina/horno-electrico).` },
+      { type: "verdict", content: `Para la mayoría, el **Atma 45L con grill**: el más vendido, tamaño justo para familia y al mejor precio. Si querés **más espacio y no te importa pagarlo**, el **50L** (hoy el más caro de la gama por bastante margen); si te tienta **horno + freidora de aire** en uno, el **23L 2 en 1**; y para una pareja, el **30L** intermedio. Toda la gama tiene el service de Atma en el país. Para comparar con otras marcas, mirá la [guía general de hornos eléctricos](/guias/cocina/horno-electrico).` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor horno eléctrico Atma?`, answer: `Para la mayoría, el [Atma 45L con grill](https://meli.la/14iWweG): el más vendido del país, tamaño justo para familia y buen precio. Si querés más espacio, el [50L](https://meli.la/2gXMCyC); si querés horno y freidora de aire en uno, el [23L 2 en 1](https://meli.la/1HfsMm2); y para una pareja, el [30L](https://meli.la/1fbEnsF).` },
+      { question: `¿Cuál es el mejor horno eléctrico Atma?`, answer: `Para la mayoría, el [Atma 45L con grill](https://meli.la/14iWweG): el más vendido del país, tamaño justo para familia y buen precio. Si querés más espacio y el precio no es problema, el [50L](https://meli.la/2gXMCyC) (hoy bastante más caro que el resto de la gama); si querés horno y freidora de aire en uno, el [23L 2 en 1](https://meli.la/1HfsMm2); y para una pareja, el [30L](https://meli.la/1fbEnsF).` },
       { question: `¿Atma es buena marca de hornos eléctricos?`, answer: `Sí, es la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina, con service en el país y precios accesibles. Es la opción confiable para la mayoría. En la [guía general de hornos eléctricos](/guias/cocina/horno-electrico) la comparamos con BGH, Ultracomb y Smartlife.` },
       { question: `¿Hay un horno Atma que sea también freidora de aire?`, answer: `Sí, el [Atma 23L HGFA2323PI](https://meli.la/1HfsMm2) es horno y freidora de aire en un solo aparato: horneás y además freís con aire (más sano, sin tanto aceite). Es de 23 litros, así que para familia grande queda chico, pero como dos en uno para una pareja o cocina chica es muy práctico.` },
     ],
@@ -833,6 +836,7 @@ export const guides: Guide[] = [
       { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
       { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
       { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
+      { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
   },
@@ -950,6 +954,7 @@ export const guides: Guide[] = [
       { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
       { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
       { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+      { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
   },
@@ -1067,6 +1072,7 @@ export const guides: Guide[] = [
       { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
       { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
       { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
+      { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
   },
@@ -1188,6 +1194,118 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
       { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
+      { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
+    ],
+    internalLinksTitle: "Más para tu setup gamer",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE kit-gamer — silo gaming — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "kit-gamer",
+    category: "gaming",
+    silo: "gaming",
+    title: `Kit gamer: cuál comprar en Argentina [2026]`,
+    seoTitle: `Kit Gamer: Cuál Comprar en Argentina | Guía 2026`,
+    metaDescription: `Descubrí qué kit gamer (teclado + mouse) comprar en Argentina: económico, mecánico o con auriculares. Compará precios reales y elegí el tuyo.`,
+    ogTitle: `Kit gamer: cuál comprar en Argentina`,
+    ogDescription: `Teclado + mouse en una sola compra: económico, mecánico o combo 4 en 1 con auriculares. Comparados por precio real de MercadoLibre y para quién conviene cada uno.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_714621-MLA99498663894_112025-O.webp`,
+    h1: `Kit gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-05",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un kit gamer resuelve teclado y mouse en una sola compra, desde $35.000. Te mostramos cuál conviene según si querés lo más barato, el combo completo con auriculares o el salto a mecánico, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA19079378", label: "El más vendido", labelColor: "green", tagline: "Gadnic K4 Move: teclado + mouse RGB, el más elegido y con buen precio" },
+      { productMlaId: "MLA63650610", label: "El combo completo", labelColor: "blue", tagline: "Senon 4 en 1: suma auriculares y mousepad al teclado y mouse" },
+      { productMlaId: "MLA22297233", label: "El mecánico", labelColor: "purple", tagline: "Level Up Pegasus: teclado mecánico Outemu Blue, en español y con reposamuñecas" },
+      { productMlaId: "MLA18611221", label: "El inalámbrico", labelColor: "amber", tagline: "Logitech MK470: sin cables, silencioso y de marca, más de 6.900 opiniones" },
+    ],
+    intro: [
+      `Si estás armando tu setup gamer y necesitás teclado y mouse, un **kit** resuelve las dos cosas en una sola compra, casi siempre más barato que comprarlos por separado. La decisión pasa por cuatro preguntas: ¿querés el más **económico**, uno que sume **auriculares y mousepad**, el salto a un teclado **mecánico**, o preferís cortar el cable con uno **inalámbrico**?`,
+      `En esta guía comparamos los kits gamer más vendidos de Argentina por esos tres ejes, con precios reales de MercadoLibre y la contra honesta de cada uno. Si ya tenés uno de los dos periféricos y te falta el otro, mirá el [teclado gamer](/guias/gaming/teclado-gamer) o el [mouse gamer](/guias/gaming/mouse-gamer) por separado.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_714621-MLA99498663894_112025-O.webp", alt: `Kit gamer Gadnic K4 Move, teclado y mouse RGB, uno de los kits más vendidos de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el kit **Gadnic K4 Move** (teclado + mouse RGB) es el más elegido y el de mejor precio. Si arrancás de cero y no tenés auriculares ni mousepad, el **Senon 4 en 1** suma esos dos extras por poca diferencia. Si ya sabés que querés un teclado **mecánico** de verdad, el **Level Up Pegasus** es el salto. Y si preferís cortar el cable con el mayor respaldo de marca, el **Logitech MK470** inalámbrico.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los kits gamer de teclado + mouse con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la elección: si el teclado es **mecánico o de membrana**, si el kit suma **extras** (auriculares, mousepad), la precisión del **sensor del mouse** y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Las 4 preguntas antes de comprar un kit gamer`, id: "que-mirar" },
+      { type: "p", content: `**1. ¿Mecánico o membrana?** La mayoría de los kits económicos traen teclado de membrana: más silencioso y barato, pero sin la respuesta ni la durabilidad de un mecánico. Si ya sabés que querés switches mecánicos de verdad, hay que subir de precio. **2. ¿Necesitás los extras?** Algunos kits suman auriculares y mousepad (4 en 1); si ya los tenés, pagás de más por algo que no vas a usar. **3. ¿Con cable o inalámbrico?** Con cable es más barato y sin lag; inalámbrico da libertad de movimiento y un escritorio más limpio, a cambio de más precio. **4. ¿Qué tan preciso necesitás el mouse?** Los kits económicos rondan 1.000 a 2.400 dpi (de sobra para uso normal); si jugás shooters competitivos, un sensor de mayor resolución se nota.` },
+      { type: "p", content: `Resolvé esas cuatro y el resto se ordena solo: el precio sube de membrana básico a mecánico o inalámbrico de marca.` },
+
+      { type: "h2", title: `Los mejores kits gamer 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic K4 Move — el más vendido` },
+      { type: "product-card", productMlaId: "MLA19079378", label: "El más vendido", labelColor: "green", ranking: 1, description: `Teclado de membrana RGB de 104 teclas + mouse óptico de 2.400 dpi. 4.7 estrellas en más de 1.400 calificaciones: el kit con más respaldo de esta comparativa.` },
+      { type: "p", content: `Si querés armar tu setup gamer básico sin gastar de más, es este. El Gadnic K4 Move es el kit con **más opiniones** de esta guía (más de 1.400, 4.7 estrellas), con teclado de membrana RGB de 104 teclas y mouse óptico de hasta 2.400 dpi con selector de sensibilidad, a alrededor de $35.500. Para uso cotidiano y gaming casual, cumple de sobra.` },
+      { type: "p", content: `Lo honesto: una reseña detallada marca que algunas teclas de uso muy frecuente empiezan a sentirse flojas después de pocos días de uso intensivo. No es lo que reportan la mayoría, pero conviene saberlo. Por precio y respaldo, sigue siendo la compra más segura de la comparativa.` },
+
+      { type: "pull-quote", content: `"Hermoso teclado y mouse, buena calidad de los materiales, resultó como lo esperaba, muy buena iluminación, producto muy recomendable."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Senon 4 en 1 — el combo completo` },
+      { type: "product-card", productMlaId: "MLA63650610", label: "El combo completo", labelColor: "blue", ranking: 2, description: `Teclado, mouse, auriculares y mousepad en una sola compra. 4.5 estrellas en más de 400 calificaciones.` },
+      { type: "p", content: `Si estás armando el setup desde cero y no tenés nada todavía, el Senon 4 en 1 resuelve **cuatro cosas en una compra**: teclado de membrana RGB, mouse, auriculares y mousepad, a alrededor de $37.500. Las reseñas destacan que los auriculares suenan mejor de lo esperado para el precio, y que el teclado es silencioso.` },
+      { type: "p", content: `El sensor del mouse es de 1.500 dpi, el más bajo de esta comparativa, y el rating y la base de opiniones son los más chicos de los tres. Si ya tenés auriculares o mousepad, pagás por algo que no vas a usar: en ese caso, el Gadnic K4 Move rinde mejor solo con teclado y mouse.` },
+
+      { type: "pull-quote", content: `"Teclado silencioso, los auriculares suenan bastante bien, la calidad creo que supera el precio. Muy conforme con la compra."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Level Up Pegasus — el mecánico` },
+      { type: "product-card", productMlaId: "MLA22297233", label: "El mecánico", labelColor: "purple", ranking: 3, description: `Teclado mecánico con switches Outemu Blue y reposamuñecas + mouse óptico de 4.800 dpi. 4.8 estrellas en 88 calificaciones, en español con ñ.` },
+      { type: "p", content: `Si ya decidiste que querés un teclado **mecánico** de verdad, el Level Up Pegasus es el salto: switches Outemu Blue, reposamuñecas incluido y un mouse óptico de 4.800 dpi, en español latinoamericano. A alrededor de $94.800, es algo más caro que los kits de membrana, pero suma la respuesta y durabilidad de un mecánico real.` },
+      { type: "p", content: `El switch Outemu Blue es clicky, así que hace ruido: varias reseñas lo mencionan, aunque coinciden en que uno se acostumbra rápido. La base de opiniones (88) es más chica que la de los kits económicos de esta guía. Para quien quiere mecánico sin gastar en un sensor de mouse de alta gama, es la opción.` },
+
+      { type: "pull-quote", content: `"Excelente compra, muy conforme. Sobre todo por el precio. Cómodo, confiable, buenos materiales, y tiene un plus el teclado de efectos de luces. Se pueden apagar las luces del teclado y del mouse si molestan. Quizá resulte extraño el ruido al principio, pero te acostumbrás y hasta tiene su encanto."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Logitech MK470 — el inalámbrico` },
+      { type: "product-card", productMlaId: "MLA18611221", label: "El inalámbrico", labelColor: "amber", ranking: 4, description: `Teclado y mouse inalámbricos de bajo perfil, sin RGB. 4.8 estrellas en más de 6.900 calificaciones: el mayor respaldo de esta comparativa.` },
+      { type: "p", content: `Si preferís cortar el cable y valorás la marca por sobre la estética RGB, el Logitech MK470 es el kit **inalámbrico** de esta guía: teclado de bajo perfil con numérico completo en español y mouse óptico, con receptor USB, a alrededor de $68.700. Con más de 6.900 opiniones, es el kit con más respaldo de todos.` },
+      { type: "p", content: `No tiene luces ni busca la estética gamer: es un combo pensado para silencio y practicidad, ideal si el mismo escritorio también se usa para trabajar o estudiar. El sensor del mouse es más básico (1.000 dpi) que el de los kits mecánicos de esta guía.` },
+
+      { type: "h2", title: `Tabla comparativa: por tipo, extras y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Teclado`, `Mouse`, `Ideal para`], rows: [
+        [`[Gadnic K4 Move](https://meli.la/1FRwXdn)`, `{{precio:MLA19079378}}`, `Membrana`, `2.400 dpi`, `El más vendido y económico`],
+        [`[Senon 4 en 1](https://meli.la/2Epam1y)`, `{{precio:MLA63650610}}`, `Membrana`, `1.500 dpi`, `Combo con auriculares y mousepad`],
+        [`[Logitech MK470](https://meli.la/1krBBBV)`, `{{precio:MLA18611221}}`, `Membrana slim (sin RGB)`, `1.000 dpi`, `Inalámbrico, marca reconocida`],
+        [`[Level Up Pegasus](https://meli.la/1ZW994A)`, `{{precio:MLA22297233}}`, `Mecánico (Outemu Blue)`, `4.800 dpi`, `El mecánico, con reposamuñecas`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu kit gamer`, id: "como-elegir" },
+      { type: "h3", title: `1. Kit o periféricos por separado` },
+      { type: "p", content: `Un kit sale más barato que comprar teclado y mouse por separado, siempre que los dos productos incluidos te sirvan. Si ya tenés uno de los dos (o preferís elegir cada uno según sus propios criterios), puede convenir más armarlo por separado: mirá el [teclado gamer](/guias/gaming/teclado-gamer) y el [mouse gamer](/guias/gaming/mouse-gamer) de forma individual.` },
+      { type: "h3", title: `2. ¿Necesitás los extras del 4 en 1?` },
+      { type: "p", content: `Si te falta todo (teclado, mouse, auriculares, mousepad), el combo 4 en 1 como el Senon sale más a cuenta que comprar cada cosa suelta. Si ya tenés auriculares o mousepad, no pagues de más por un combo: un kit de solo teclado + mouse como el Gadnic te alcanza.` },
+      { type: "h3", title: `3. Membrana, mecánico o inalámbrico` },
+      { type: "p", content: `Para uso cotidiano y gaming casual, un kit de membrana como el Gadnic o el Senon cumple de sobra y sale mucho más barato. Si vas a usarlo muchas horas por día o competís en serio, un teclado mecánico como el del Level Up Pegasus se nota en la respuesta y la durabilidad. Y si preferís cortar el cable y no te importa resignar RGB, el Logitech MK470 inalámbrico es la opción de marca.` },
+
+      { type: "h2", title: `Cuánto cuesta un kit gamer en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**$35.000 a $38.000:** los kits económicos de membrana. El [Gadnic K4 Move](https://meli.la/1FRwXdn) (el más vendido) y el [Senon 4 en 1](https://meli.la/2Epam1y) (con auriculares y mousepad).`,
+        `**Alrededor de {{precio:MLA18611221:k}}:** el inalámbrico de marca, el [Logitech MK470](https://meli.la/1krBBBV).`,
+        `**Alrededor de {{precio:MLA22297233:k}}:** el mecánico. El [Level Up Pegasus](https://meli.la/1ZW994A), con switches Outemu Blue y reposamuñecas incluido.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál kit gamer comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Gadnic K4 Move**: el kit con más opiniones y el mejor precio, de sobra para uso cotidiano. Si arrancás de cero y te falta todo, el **Senon 4 en 1** suma auriculares y mousepad por poca diferencia. Si preferís cortar el cable con el mayor respaldo de marca, el **Logitech MK470**. Y si ya sabés que querés **mecánico**, el **Level Up Pegasus** es el salto. El error a evitar: pagar un combo 4 en 1 si ya tenés auriculares o mousepad propios.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor kit gamer en Argentina?`, answer: `Por ventas y precio, el [Gadnic K4 Move](https://meli.la/1FRwXdn): el kit con más opiniones y el más económico. Si te falta todo el setup, el [Senon 4 en 1](https://meli.la/2Epam1y) suma auriculares y mousepad; si ya sabés que querés mecánico, el [Level Up Pegasus](https://meli.la/1ZW994A); si preferís inalámbrico de marca, el [Logitech MK470](https://meli.la/1krBBBV).` },
+      { question: `¿Conviene comprar un kit gamer o teclado y mouse por separado?`, answer: `Un kit sale más barato si los dos productos incluidos te sirven tal cual vienen. Si ya tenés uno de los dos, o preferís elegir cada periférico según sus propios criterios (formato, switch, dpi), puede convenir más comprarlos por separado: mirá el [teclado gamer](/guias/gaming/teclado-gamer) y el [mouse gamer](/guias/gaming/mouse-gamer).` },
+      { question: `¿Qué diferencia hay entre un kit de membrana y uno mecánico?`, answer: `La membrana (como el [Gadnic](https://meli.la/1FRwXdn) o el [Senon](https://meli.la/2Epam1y)) es más barata y silenciosa, ideal para uso cotidiano. El mecánico (como el [Level Up Pegasus](https://meli.la/1ZW994A)) tiene switches individuales debajo de cada tecla: mejor respuesta y durabilidad, aunque el switch clicky hace ruido.` },
+      { question: `¿Los kits gamer traen auriculares?`, answer: `No todos. El [Senon 4 en 1](https://meli.la/2Epam1y) sí incluye auriculares y mousepad además de teclado y mouse; el resto de esta guía son solo teclado y mouse.` },
+      { question: `¿Vale la pena el kit gamer 4 en 1?`, answer: `Sí, si estás armando el setup desde cero y necesitás las cuatro cosas (teclado, mouse, auriculares, mousepad): sale más a cuenta que comprarlas sueltas. Si ya tenés auriculares o mousepad propios, no te conviene: pagás por algo que no vas a usar.` },
+      { question: `¿Hay algún kit gamer inalámbrico?`, answer: `Sí, el [Logitech MK470](https://meli.la/1krBBBV) es inalámbrico, aunque no busca la estética RGB gamer: es un combo silencioso y de bajo perfil, ideal si también usás el setup para trabajar o estudiar.` },
+    ],
+    internalLinks: [
+      { label: "Silla gamer: cuál comprar (la guía completa)", href: "/guias/gaming/silla-gamer" },
+      { label: "Teclado gamer: cuál comprar", href: "/guias/gaming/teclado-gamer" },
+      { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
       { label: "Auriculares gamer: cuál comprar", href: "/guias/gaming/auriculares-gamer" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
@@ -2191,7 +2309,7 @@ export const guides: Guide[] = [
     updatedDate: "2026-06-26",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `Hay auriculares inalámbricos para cada uso y bolsillo: del in-ear de $23.000 a la vincha con cancelación de ruido. Te mostramos los más vendidos de Argentina ordenados por tipo, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
+    standfirst: `Hay auriculares inalámbricos para cada uso y bolsillo: del in-ear de $33.000 a la vincha con cancelación de ruido. Te mostramos los más vendidos de Argentina ordenados por tipo, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", tagline: "Xiaomi Redmi Buds 6 Play: in-ear baratísimos, más de 85.000 opiniones" },
       { productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", tagline: "Sony WH-CH520: hasta 50 horas de batería, la vincha más vendida" },
@@ -2215,26 +2333,26 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Xiaomi Redmi Buds 6 Play — el más vendido` },
       { type: "product-card", productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", ranking: 1, description: `In-ear inalámbricos baratísimos, con bluetooth 5.4. 4.8 estrellas en más de 85.000 calificaciones: los auriculares más vendidos de Argentina, por lejos.` },
-      { type: "p", content: `Si querés in-ear que anden bien sin gastar casi nada, son estos. Los Redmi Buds 6 Play son **los más vendidos del país por amplio margen** (más de 85.000 opiniones, un número que no tiene ningún otro) y cuestan alrededor de $23.000. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra. La compra más segura y económica de la categoría.` },
+      { type: "p", content: `Si querés in-ear que anden bien sin gastar casi nada, son estos. Los Redmi Buds 6 Play son **los más vendidos del país por amplio margen** (más de 85.000 opiniones, un número que no tiene ningún otro) y cuestan alrededor de $33.000. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra. La compra más segura y económica de la categoría.` },
       { type: "p", content: `No esperes el sonido ni la cancelación de unos premium, pero por lo que salen, la relación es imbatible. Si es tu primer par de inalámbricos o querés un repuesto barato y confiable, empezá por acá.` },
 
       { type: "pull-quote", content: `"Excelente en precio/calidad, creo que es lo mejor. Y eso que vengo de usar los AirPods Pro 2: estos buds no tienen nada que envidiarles en calidad de sonido, sinceramente."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Sony WH-CH520 — la mejor vincha` },
       { type: "product-card", productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", ranking: 2, description: `Vincha inalámbrica con hasta 50 horas de batería. 4.8 estrellas en más de 13.000 calificaciones: la vincha más vendida del segmento.` },
-      { type: "p", content: `Si preferís el formato de vincha (más cómodo para muchas horas y con más batería), la Sony WH-CH520 es la elección. Da **hasta 50 horas de batería** (semanas de uso sin cargar), buen sonido para el precio y la comodidad de apoyar sobre la oreja, a alrededor de $80.000. Es la vincha más vendida, con más de 13.000 opiniones, y el respaldo de Sony en audio.` },
+      { type: "p", content: `Si preferís el formato de vincha (más cómodo para muchas horas y con más batería), la Sony WH-CH520 es la elección. Da **hasta 50 horas de batería** (semanas de uso sin cargar), buen sonido para el precio y la comodidad de apoyar sobre la oreja, a alrededor de $85.000. Es la vincha más vendida, con más de 13.000 opiniones, y el respaldo de Sony en audio.` },
       { type: "p", content: `No tiene cancelación de ruido activa (para eso, mirá la JBL de abajo o la Sony WH-CH720N), pero para escuchar música y trabajar en casa con autonomía enorme, es difícil de superar por el precio. La vincha sensata para la mayoría.` },
 
       { type: "pull-quote", content: `"Lo usé en varias ocasiones por lapsos de 2 a 4 horas y la batería sigue en 70%. Es bastante cómodo y se escucha bien. Cumple."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Samsung Galaxy Buds3 Pro — los premium` },
       { type: "product-card", productMlaId: "MLA38451794", label: "Los premium", labelColor: "purple", ranking: 3, description: `In-ear premium con cancelación activa de ruido y sonido de alta calidad. 4.8 estrellas en más de 800 calificaciones.` },
-      { type: "p", content: `Si querés in-ear premium y no te importa pagarlo, los Galaxy Buds3 Pro son el salto de gama. Suman **cancelación activa de ruido**, mejor sonido y se integran fino con celulares Samsung, a alrededor de $330.000. Ojo: tienen muchas menos opiniones que los baratos de arriba (son más nuevos y caros), así que el respaldo de ventas todavía es chico. Son para quien valora la calidad de audio y la cancelación en un formato chico y discreto.` },
+      { type: "p", content: `Si querés in-ear premium y no te importa pagarlo, los Galaxy Buds3 Pro son el salto de gama. Suman **cancelación activa de ruido**, mejor sonido y se integran fino con celulares Samsung, a alrededor de $355.000. Ojo: tienen muchas menos opiniones que los baratos de arriba (son más nuevos y caros), así que el respaldo de ventas todavía es chico. Son para quien valora la calidad de audio y la cancelación en un formato chico y discreto.` },
       { type: "p", content: `Es bastante más caro que el resto, así que solo lo justificás si el sonido premium y la cancelación en formato in-ear son prioridad. Para uso normal, los Redmi Buds dan el 80% por una fracción; los Galaxy Buds3 Pro son el salto a la gama alta.` },
 
       { type: "h3", title: `4. JBL Tune 770NC — con cancelación de ruido` },
       { type: "product-card", productMlaId: "MLA53285777", label: "Cancelación de ruido", labelColor: "purple", ranking: 4, description: `Vincha over-ear con cancelación activa de ruido. 4.8 estrellas en más de 1.000 calificaciones. Para aislarte en viajes y oficina.` },
-      { type: "p", content: `Si querés cancelación de ruido en formato vincha y a precio razonable, la JBL Tune 770NC es la opción. La **cancelación activa** te aísla del ruido del colectivo, la oficina o el avión, con el sonido JBL y buena batería, a alrededor de $163.000. Es el punto medio entre la Sony WH-CH520 (sin cancelación, más barata) y los premium.` },
+      { type: "p", content: `Si querés cancelación de ruido en formato vincha y a precio razonable, la JBL Tune 770NC es la opción. La **cancelación activa** te aísla del ruido del colectivo, la oficina o el avión, con el sonido JBL y buena batería, a alrededor de $159.000. Es el punto medio entre la Sony WH-CH520 (sin cancelación, más barata) y los premium.` },
       { type: "p", content: `Para quien viaja, trabaja en lugares ruidosos o simplemente quiere silencio para concentrarse, la cancelación cambia la experiencia. Si no la necesitás, la Sony WH-CH520 te ahorra plata; si la querés en vincha sin irte a premium, esta es la indicada.` },
 
       { type: "h3", title: `5. Alpina F50 Pro — para deporte` },
@@ -2244,7 +2362,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `6. Lenovo LivePod LP75 — los más baratos` },
       { type: "product-card", productMlaId: "MLA28026305", label: "Los más baratos", labelColor: "green", ranking: 6, description: `In-ear inalámbricos súper económicos, con más de 7.400 calificaciones. La opción más barata con respaldo real de ventas.` },
-      { type: "p", content: `Si lo único que importa es el precio, los Lenovo LivePod LP75 son de los más baratos con respaldo serio: más de 7.400 opiniones por alrededor de $31.700. Para un primer par, un repuesto o regalar, cumplen con lo básico. Frente a los Redmi Buds 6 Play, estos suelen ser apenas más caros y con muchas menos opiniones, así que en general el Xiaomi conviene más; pero si los conseguís mejor de precio, son una alternativa válida.` },
+      { type: "p", content: `Si lo único que importa es el precio, los Lenovo LivePod LP75 son de los más baratos con respaldo serio: más de 7.400 opiniones por alrededor de $44.000. Para un primer par, un repuesto o regalar, cumplen con lo básico. Frente a los Redmi Buds 6 Play, estos suelen ser apenas más caros y con muchas menos opiniones, así que en general el Xiaomi conviene más; pero si los conseguís mejor de precio, son una alternativa válida.` },
 
       { type: "h2", title: `Tabla comparativa: por tipo y uso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Ideal para`], rows: [
@@ -2266,8 +2384,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuestan unos auriculares inalámbricos en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$23.000 a $32.000:** los in-ear más vendidos. Los [Redmi Buds 6 Play](https://meli.la/1LqPkFR), los [Lenovo LivePod](https://meli.la/1S7f74t) y los deportivos [Alpina F50 Pro](https://meli.la/2UAS5x1).`,
-        `**$80.000 a $163.000:** las vinchas. La [Sony WH-CH520](https://meli.la/2t24mSB) (50 h de batería) y la [JBL Tune 770NC](https://meli.la/1mR75zc) con cancelación.`,
+        `**$23.000 a $44.000:** los in-ear más vendidos. Los [Redmi Buds 6 Play](https://meli.la/1LqPkFR), los [Lenovo LivePod](https://meli.la/1S7f74t) y los deportivos [Alpina F50 Pro](https://meli.la/2UAS5x1).`,
+        `**$85.000 a $159.000:** las vinchas. La [Sony WH-CH520](https://meli.la/2t24mSB) (50 h de batería) y la [JBL Tune 770NC](https://meli.la/1mR75zc) con cancelación.`,
         `**{{precio:MLA38451794:k}} o más:** los premium. Los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6), gama alta con cancelación.`,
       ] },
 
@@ -2279,7 +2397,7 @@ export const guides: Guide[] = [
       { question: `¿Qué diferencia hay entre auriculares in-ear y de vincha?`, answer: `Los in-ear (earbuds) se meten en la oreja, son chicos, discretos y portátiles, ideales para uso diario y la calle. Las vinchas apoyan sobre o alrededor de la oreja: más cómodas para muchas horas, con más batería y mejor sonido por el precio, pero abultan más. Para llevar siempre, in-ear; para comodidad y autonomía, vincha.` },
       { question: `¿Vale la pena la cancelación de ruido?`, answer: `Si viajás, usás colectivo o trabajás en lugares ruidosos, sí: la cancelación activa te aísla del ruido y mejora mucho la experiencia. La traen la [JBL Tune 770NC](https://meli.la/1mR75zc) y los [Galaxy Buds3 Pro](https://meli.la/1REUKv6). Si es para casa o la calle tranquila, podés ahorrártela y elegir algo más barato como la [Sony WH-CH520](https://meli.la/2t24mSB) o los Redmi Buds.` },
       { question: `¿Cuáles auriculares conviene para hacer deporte?`, answer: `Los que tienen gancho de oreja, que los sujetan firme y no se caen al correr. Los [Alpina F50 Pro](https://meli.la/2UAS5x1) son de los más vendidos en ese formato, inalámbricos y baratos. Los in-ear comunes pueden caerse durante el ejercicio, así que para el gimnasio o salir a correr, el gancho hace la diferencia.` },
-      { question: `¿Cuáles son los auriculares inalámbricos más baratos que valen la pena?`, answer: `Los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) (alrededor de $23.000): son los más vendidos del país y cumplen muy bien para uso diario. Los [Lenovo LivePod LP75](https://meli.la/1S7f74t) son otra opción económica con buen respaldo. Por poca plata dan lo necesario; no hace falta gastar mucho para tener inalámbricos que anden bien.` },
+      { question: `¿Cuáles son los auriculares inalámbricos más baratos que valen la pena?`, answer: `Los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) (alrededor de $33.000): son los más vendidos del país y cumplen muy bien para uso diario. Los [Lenovo LivePod LP75](https://meli.la/1S7f74t) son otra opción económica con buen respaldo. Por poca plata dan lo necesario; no hace falta gastar mucho para tener inalámbricos que anden bien.` },
       { question: `¿El bluetooth pierde calidad de sonido frente al cable?`, answer: `En la práctica, para la gran mayoría no se nota. Los códecs actuales (AAC, y en gama media SBC) dan un sonido más que bueno para música, llamadas y videos. La diferencia con el cable existe en equipos de audiófilo y oídos entrenados, pero para uso diario es mínima. Si te preocupa la latencia (que el audio llegue justo con el video o en juegos), ahí sí el cable gana; para escuchar música, el bluetooth está más que bien.` },
       { question: `¿Los in-ear hacen mal al oído o molestan con el uso prolongado?`, answer: `Los in-ear se meten en el canal del oído, así que algunas personas los sienten incómodos en sesiones largas o si el almohadón no es del tamaño justo (casi todos vienen con varios tamaños para probar). Las vinchas reparten la presión sobre o alrededor de la oreja y suelen ser más cómodas para muchas horas. Si vas a usarlos jornadas enteras, una vincha como la [Sony WH-CH520](https://meli.la/2t24mSB) cansa menos; para ratos cortos y portabilidad, los in-ear van bien.` },
     ],
@@ -2329,25 +2447,25 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los mejores auriculares JBL 2026`, id: "ranking" },
 
       { type: "h3", title: `1. JBL Tune 520BT — la vincha más vendida` },
-      { type: "product-card", productMlaId: "MLA23997257", label: "La vincha más vendida", labelColor: "green", ranking: 1, description: `La vincha de entrada de JBL: más de 50 horas de batería y sonido de la marca, a buen precio. 4.8 estrellas en más de 1.600 calificaciones.` },
-      { type: "p", content: `Es el JBL que recomendamos para la mayoría que quiere una vincha. La Tune 520BT da **más de 50 horas de batería**, el sonido JBL y la comodidad del formato de vincha, a alrededor de $80.000. Sin cancelación de ruido, pero para escuchar música y hablar con autonomía enorme, cumple de sobra y es la más accesible de la línea.` },
+      { type: "product-card", productMlaId: "MLA23997257", label: "La vincha más vendida", labelColor: "green", ranking: 1, description: `La vincha de entrada de JBL: más de 50 horas de batería y sonido de la marca, a buen precio. 4.8 estrellas en más de 1.500 calificaciones.` },
+      { type: "p", content: `Es el JBL que recomendamos para la mayoría que quiere una vincha. La Tune 520BT da **más de 50 horas de batería**, el sonido JBL y la comodidad del formato de vincha, a alrededor de $77.000. Sin cancelación de ruido, pero para escuchar música y hablar con autonomía enorme, cumple de sobra y es la más accesible de la línea.` },
       { type: "p", content: `Si no necesitás cancelación, es la compra lógica: das con lo esencial de JBL en vincha por el menor precio. Para subir un escalón de sonido, la 720BT; para cancelación, la 770NC.` },
 
       { type: "pull-quote", content: `"Se escucha muy bien, lo uso para ir al gimnasio y no se caen ni escucho el ruido de fondo. Tenía los 510 antes y la batería duraba un montón, espero lo mismo de estos."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. JBL Tune 720BT — la vincha mejorada` },
       { type: "product-card", productMlaId: "MLA24519483", label: "Vincha mejorada", labelColor: "blue", ranking: 2, description: `Mejor sonido que la 520BT, la vincha Tune más elegida. 4.8 estrellas en más de 2.400 calificaciones.` },
-      { type: "p", content: `Si querés un paso más de calidad sin irte a la cancelación, la 720BT es el punto dulce. Mejora el sonido respecto de la 520BT, pasa a formato over-ear (envuelve la oreja, no apoya encima) y trae hasta 76 horas de batería, de las más altas del segmento, a alrededor de $108.000. Es la Tune con más opiniones de todas (más de 2.400). Para quien escucha bastante música y nota la diferencia de audio, vale la diferencia.` },
+      { type: "p", content: `Si querés un paso más de calidad sin irte a la cancelación, la 720BT es el punto dulce. Mejora el sonido respecto de la 520BT, pasa a formato over-ear (envuelve la oreja, no apoya encima) y trae hasta 76 horas de batería, de las más altas del segmento, a alrededor de $106.000. Es la Tune con más opiniones de todas (más de 2.400). Para quien escucha bastante música y nota la diferencia de audio, vale la diferencia.` },
 
       { type: "pull-quote", content: `"Me duró tres semanas la batería, una maravilla, y si llevo el cable ni me haría falta cargarlo. Además viene con la app de JBL donde podés configurar el sonido. Los disfruto mucho."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. JBL Tune 770NC — con cancelación de ruido` },
       { type: "product-card", productMlaId: "MLA53285777", label: "Con cancelación", labelColor: "purple", ranking: 3, description: `Vincha over-ear con cancelación activa de ruido. 4.8 estrellas en más de 1.000 calificaciones. Para aislarte en viajes y oficina.` },
-      { type: "p", content: `Si querés cancelación de ruido en JBL, esta es. La **cancelación activa adaptativa** te aísla del colectivo, la oficina o el avión, con el sonido JBL, a alrededor de $163.000. La batería rinde hasta 44 horas con la cancelación encendida (y hasta 70 si la apagás), así que autonomía no le falta, y se conecta a dos dispositivos a la vez. Es el salto desde las Tune comunes: si viajás o trabajás en lugares ruidosos, la cancelación cambia la experiencia. Si no la necesitás, la 520BT o 720BT te ahorran plata.` },
+      { type: "p", content: `Si querés cancelación de ruido en JBL, esta es. La **cancelación activa adaptativa** te aísla del colectivo, la oficina o el avión, con el sonido JBL, a alrededor de $159.000. La batería rinde hasta 44 horas con la cancelación encendida (y hasta 70 si la apagás), así que autonomía no le falta, y se conecta a dos dispositivos a la vez. Es el salto desde las Tune comunes: si viajás o trabajás en lugares ruidosos, la cancelación cambia la experiencia. Si no la necesitás, la 520BT o 720BT te ahorran plata.` },
 
       { type: "h3", title: `4. JBL Wave Beam 2 — el in-ear` },
       { type: "product-card", productMlaId: "MLA53657592", label: "El in-ear", labelColor: "amber", ranking: 4, description: `Los earbuds in-ear de JBL, con estuche para llevar. 4.8 estrellas en más de 600 calificaciones.` },
-      { type: "p", content: `Si preferís el formato in-ear (earbuds chicos en vez de vincha), el Wave Beam 2 es el JBL para eso. Más portátil y discreto, con el sonido de la marca, a alrededor de $99.000. Para uso diario, la calle y llamadas, sin el volumen de una vincha. Si querés in-ear más baratos, mirá la [guía general de auriculares](/guias/audio/auriculares-inalambricos) (los Xiaomi Redmi Buds salen mucho menos).` },
+      { type: "p", content: `Si preferís el formato in-ear (earbuds chicos en vez de vincha), el Wave Beam 2 es el JBL para eso. Más portátil y discreto, con el sonido de la marca, a alrededor de $108.000. Para uso diario, la calle y llamadas, sin el volumen de una vincha. Si querés in-ear más baratos, mirá la [guía general de auriculares](/guias/audio/auriculares-inalambricos) (los Xiaomi Redmi Buds salen mucho menos).` },
 
       { type: "h2", title: `Tabla comparativa: la gama JBL`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Ideal para`], rows: [
@@ -2375,6 +2493,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
       { label: "Auriculares deportivos: cuál comprar", href: "/guias/audio/auriculares-deportivos" },
+      { label: "Auriculares profesionales de estudio: cuál comprar", href: "/guias/audio/auriculares-profesionales" },
     ],
     internalLinksTitle: "Más sobre audio",
   },
@@ -2430,7 +2549,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `3. Lenovo XT80 — in-ear económico` },
       { type: "product-card", productMlaId: "MLA43473453", label: "In-ear económico", labelColor: "purple", ranking: 3, description: `In-ear deportivos con buen agarre, inalámbricos y muy baratos. 4.6 estrellas en más de 650 calificaciones.` },
-      { type: "p", content: `Si preferís el formato in-ear clásico para entrenar y gastar lo mínimo, los Lenovo XT80 son la opción. Son earbuds deportivos a alrededor de $27.000, más discretos que el gancho o el open ear, con buen respaldo de ventas. Para uso mixto (deporte y diario) y presupuesto ajustado, cumplen.` },
+      { type: "p", content: `Si preferís el formato in-ear clásico para entrenar y gastar lo mínimo, los Lenovo XT80 son la opción. Son earbuds deportivos a alrededor de $33.000, más discretos que el gancho o el open ear, con buen respaldo de ventas. Para uso mixto (deporte y diario) y presupuesto ajustado, cumplen.` },
       { type: "p", content: `Al ser in-ear, se sujetan menos que los de gancho en movimiento intenso, así que para entrenamiento fuerte la Alpina es más segura. Pero como opción barata y versátil, los XT80 rinden bien.` },
 
       { type: "h2", title: `Tabla comparativa: por tipo de sujeción`, id: "tabla-comparativa" },
@@ -2460,6 +2579,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
       { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+      { label: "Auriculares profesionales de estudio: cuál comprar", href: "/guias/audio/auriculares-profesionales" },
     ],
     internalLinksTitle: "Más sobre audio",
   },
@@ -2503,26 +2623,26 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Audio-Technica ATH-M20x — la mejor entrada` },
       { type: "product-card", productMlaId: "MLA6343490", label: "La mejor entrada", labelColor: "green", ranking: 1, description: `El monitor de estudio más vendido: cerrado, con cable, sonido honesto para monitoreo. 4.9 estrellas en más de 2.200 calificaciones. La entrada ideal al estudio.` },
-      { type: "p", content: `Si empezás en producción, grabación o edición, es el que recomendamos. El ATH-M20x da el **sonido neutro y la construcción de Audio-Technica** al precio más accesible de la línea (alrededor de $135.900), con la mayor base de opiniones del segmento (más de 2.200). Para monitorear, grabar voces o editar video con audio confiable, cumple de sobra sin gastar de más.` },
+      { type: "p", content: `Si empezás en producción, grabación o edición, es el que recomendamos. El ATH-M20x da el **sonido neutro y la construcción de Audio-Technica** al precio más accesible de la línea (alrededor de $150.000), con la mayor base de opiniones del segmento (más de 2.200). Para monitorear, grabar voces o editar video con audio confiable, cumple de sobra sin gastar de más.` },
       { type: "p", content: `No es para escuchar música por placer (suena plano a propósito), pero como primera herramienta de estudio es imbatible. Cuando quieras más detalle o respuesta más neutra para mezcla, subís a los de abajo.` },
 
       { type: "pull-quote", content: `"Excelente relación calidad-precio, tiene una respuesta en frecuencia casi plana. La recomiendo si quieren dejar la respuesta lo más plana posible para producción musical."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Audio-Technica ATH-M50x — el estándar de la industria` },
       { type: "product-card", productMlaId: "MLA24560880", label: "El estándar", labelColor: "blue", ranking: 2, description: `El monitor de estudio más famoso, un estándar de la industria: detallado, con cable desmontable. 4.9 estrellas. La referencia de la marca.` },
-      { type: "p", content: `Es el clásico que vas a ver en cualquier estudio. El ATH-M50x ofrece **más detalle y mejor construcción** que los de entrada, con un sonido algo más marcado en graves que lo hace también disfrutable, y cable desmontable. A alrededor de $316.900, es la inversión de quien se toma en serio la producción o quiere "el bueno" de una. Es, literalmente, un estándar de la industria.` },
+      { type: "p", content: `Es el clásico que vas a ver en cualquier estudio. El ATH-M50x ofrece **más detalle y mejor construcción** que los de entrada, con un sonido algo más marcado en graves que lo hace también disfrutable, y cable desmontable. A alrededor de $321.000, es la inversión de quien se toma en serio la producción o quiere "el bueno" de una. Es, literalmente, un estándar de la industria.` },
       { type: "p", content: `Frente al M40x, el M50x tiene los graves un poco más realzados (algunos lo prefieren por eso, otros buscan algo más plano). Si querés la referencia más reconocida y versátil, es este.` },
 
       { type: "pull-quote", content: `"La calidad de audio es fabulosa. Estoy volviendo a escuchar todos mis discos preferidos y descubro detalles como si fuera la primera vez. Una excelente inversión para estudiar y producir."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Audio-Technica ATH-M40x — el más neutro` },
       { type: "product-card", productMlaId: "MLA6337847", label: "El más neutro", labelColor: "purple", ranking: 3, description: `Respuesta de sonido plana, ideal para mezclar con referencia neutra. Cable desmontable. 4.9 estrellas en más de 1.000 calificaciones.` },
-      { type: "p", content: `Si tu prioridad es **mezclar con la referencia más honesta**, el M40x es la elección. Su respuesta es más plana que la del M50x (no realza graves), lo que para mezcla es una ventaja: escuchás el audio sin maquillaje y tomás mejores decisiones. A alrededor de $303.700, es el favorito de muchos para producción seria por esa neutralidad.` },
+      { type: "p", content: `Si tu prioridad es **mezclar con la referencia más honesta**, el M40x es la elección. Su respuesta es más plana que la del M50x (no realza graves), lo que para mezcla es una ventaja: escuchás el audio sin maquillaje y tomás mejores decisiones. A alrededor de $337.000, es el favorito de muchos para producción seria por esa neutralidad.` },
       { type: "p", content: `Entre el M40x y el M50x no hay uno "mejor": el M40x es más neutro (mejor para mezclar), el M50x más versátil y con más pegada. Elegís según si priorizás la precisión de mezcla o un sonido más completo.` },
 
       { type: "h3", title: `4. Sennheiser HD 280 Pro — máximo aislamiento` },
       { type: "product-card", productMlaId: "MLA6072318", label: "Máximo aislamiento", labelColor: "amber", ranking: 4, description: `Monitor de estudio cerrado con gran aislamiento pasivo del ruido externo, un clásico para grabación. 4.8 estrellas, la alternativa Sennheiser.` },
-      { type: "p", content: `Si grabás en ambientes con ruido o querés el mayor aislamiento, el Sennheiser HD 280 Pro es la opción. Su fuerte es el **aislamiento pasivo**: hasta 32 dB de atenuación solo por diseño (sin batería ni electrónica), ideal para tracking y grabación donde no querés que se filtre nada. Es de 64 ohms y baja hasta los 8 Hz. A alrededor de $280.000, es el clásico de Sennheiser para estudio y la alternativa a la línea M.` },
+      { type: "p", content: `Si grabás en ambientes con ruido o querés el mayor aislamiento, el Sennheiser HD 280 Pro es la opción. Su fuerte es el **aislamiento pasivo**: hasta 32 dB de atenuación solo por diseño (sin batería ni electrónica), ideal para tracking y grabación donde no querés que se filtre nada. Es de 64 ohms y baja hasta los 8 Hz. A alrededor de $325.000, es el clásico de Sennheiser para estudio y la alternativa a la línea M.` },
       { type: "p", content: `Tiene menos opiniones que los Audio-Technica en Argentina, pero es un referente histórico del rubro. Lo elegís si el aislamiento es tu prioridad o si preferís la firma de sonido Sennheiser.` },
 
       { type: "callout", calloutVariant: "note", calloutTitle: "¿Querés premium pero para escuchar, no para producir?", content: `Si en realidad buscás auriculares premium para **disfrutar música** con cancelación de ruido (no monitores de estudio), el [Sony WH-1000XM5](https://meli.la/1JwhrZT) es la referencia: inalámbricos, con la mejor cancelación del mercado. Es otra cosa que los de estudio: estos suenan neutros para trabajar, el Sony suena "lindo" para escuchar.` },
@@ -2544,8 +2664,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuestan unos auriculares de estudio en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$135.000 a $157.000:** la entrada. El [ATH-M20x](https://meli.la/1UEeYbH) (el más vendido) y el [M30x](https://meli.la/2eP7p8D).`,
-        `**$280.000 a $317.000:** la gama de producción seria. El [Sennheiser HD 280 Pro](https://meli.la/2QKcvdu) (aislamiento), el [M40x](https://meli.la/29PkMPt) (neutro) y el [M50x](https://meli.la/13WhHKh) (el estándar).`,
+        `**$150.000 a $159.000:** la entrada. El [ATH-M20x](https://meli.la/1UEeYbH) (el más vendido) y el [M30x](https://meli.la/2eP7p8D).`,
+        `**$321.000 a $337.000:** la gama de producción seria. El [Sennheiser HD 280 Pro](https://meli.la/2QKcvdu) (aislamiento), el [M40x](https://meli.la/29PkMPt) (neutro) y el [M50x](https://meli.la/13WhHKh) (el estándar).`,
         `**Si querés premium para escuchar (no estudio):** el [Sony WH-1000XM5](https://meli.la/1JwhrZT), inalámbrico con cancelación tope de gama. Otra categoría.`,
       ] },
 
@@ -2563,6 +2683,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
       { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+      { label: "Auriculares deportivos: cuál comprar para entrenar", href: "/guias/audio/auriculares-deportivos" },
     ],
     internalLinksTitle: "Más sobre audio",
   },
@@ -2673,6 +2794,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Caloventor: cuál comprar y qué mirar", href: "/guias/climatizacion/caloventor" },
       { label: "Estufa eléctrica de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
       { label: "Mejores licuadoras: cuál comprar en Argentina", href: "/guias/licuadora" },
       { label: "Cafetera express y cápsulas: cuál comprar", href: "/guias/cafetera-express" },
     ],
@@ -2763,6 +2885,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
+      { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
       { label: "Mejores licuadoras: cuál comprar en Argentina", href: "/guias/licuadora" },
     ],
     internalLinksTitle: "Más sobre el hogar",
@@ -2866,8 +2989,356 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
     ],
     internalLinksTitle: "Más sobre calefacción",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR aire-acondicionado-portatil — silo climatizacion — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "aire-acondicionado-portatil",
+    category: "climatizacion",
+    silo: "climatizacion",
+    pillar: true,
+    title: `Aire acondicionado portátil: cuál comprar en Argentina [2026]`,
+    seoTitle: `Aire Acondicionado Portátil: Cuál Comprar en 2026`,
+    metaDescription: `Descubrí qué aire acondicionado portátil comprar en Argentina: frigorías, frío/calor o Wi-Fi, cuál conviene según tu ambiente. Compará precios reales.`,
+    ogTitle: `Aire acondicionado portátil: cuál comprar en Argentina`,
+    ogDescription: `Sin instalación fija, con ruedas y frío/calor en un solo equipo. Philco, BGH, Sansei, RCA y Surrey comparados por frigorías, ruido y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp`,
+    h1: `Aire acondicionado portátil: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-06",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un aire acondicionado portátil enfría o calienta sin instalación fija: lo movés con ruedas y sacás una manguera por la ventana. Te mostramos cuál conviene según tu ambiente, comparando los más vendidos de Argentina (Philco, BGH, Sansei, RCA, Surrey) por frigorías, ruido y precio real de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA45423359", label: "El más vendido", labelColor: "green", tagline: "Philco PHP35HC7API: frío/calor, 3.010 frigorías, más de 1.200 opiniones" },
+      { productMlaId: "MLA61656125", label: "Marca con garantía", labelColor: "blue", tagline: "BGH BP35WCEW: frío/calor, service oficial y garantía en el país" },
+      { productMlaId: "MLA61382173", label: "El más económico", labelColor: "amber", tagline: "Sansei SAP26HC9AN: el precio más bajo de esta comparativa" },
+      { productMlaId: "MLA54689994", label: "El inteligente", labelColor: "purple", tagline: "Surrey Smart Wi-Fi: el único con control por app de esta comparativa" },
+    ],
+    intro: [
+      `Un aire acondicionado portátil resuelve el calor (y en los frío/calor, también el frío del invierno) sin la obra de un split: es un equipo con ruedas que enfriás o calentás sacando una manguera de evacuación por una ventana. La primera decisión es cuántas **frigorías** necesitás según tu ambiente; la segunda, si querés **frío/calor** o solo frío, y si te interesa el control por **Wi-Fi**.`,
+      `En esta guía comparamos los portátiles más vendidos de Argentina por esos ejes, con precios reales de MercadoLibre y la contra honesta de cada uno (todos hacen ruido, en mayor o menor medida, y todos piden algo de paciencia al instalar el kit de ventana). Si buscás calefacción sin la parte de enfriar, mirá la [guía de estufas eléctricas](/guias/climatizacion/estufas-electricas).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp", alt: `Aire acondicionado portátil Philco PHP35HC7API, el más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Philco PHP35HC7API** es la compra más segura: frío/calor, 3.010 frigorías y el más probado del mercado. Si preferís una marca con garantía y service reconocido en el país, el **BGH BP35WCEW**. Si el precio es tu prioridad, el **Sansei SAP26HC9AN** es el más barato (aunque ruidoso). Y si querés controlarlo por **Wi-Fi** desde el celular, el **Surrey Smart**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los aires acondicionados portátiles con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (Philco, BGH, Sansei, RCA, Surrey). Los ordenamos por lo que define la compra: las **frigorías**, si es **frío/calor o solo frío**, el **ruido**, si tiene **Wi-Fi** y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un aire acondicionado portátil`, id: "que-mirar" },
+      { type: "p", content: `Las **frigorías** (o kcal/h) definen para qué tamaño de ambiente alcanza: una regla práctica que confirman las reseñas es calcular unas **100 frigorías por metro cuadrado**. Los modelos de esta guía van de 2.279 a 3.010 frigorías, pensados para una habitación o un living chico a mediano; para un espacio grande, un solo portátil suele quedar corto. Después, definí si querés **frío/calor** (un equipo para todo el año) o solo frío (más barato, pero solo sirve en verano). Los cinco de esta guía son frío/calor.` },
+      { type: "p", content: `Un punto que casi nadie pregunta pero todos notan al usarlo: el **ruido**. Ningún portátil es silencioso (llevan compresor y ventilador adentro del mismo mueble), y varía bastante entre modelos: algunos son tolerables, otros bastante más ruidosos, así que si vas a dormir con él prendido, revisá la contra de cada uno. Y la instalación: todos necesitan sacar una manguera por una ventana con un kit incluido; varias reseñas de esta guía coinciden en que ese kit no siempre queda perfecto a la primera, así que no esperes una instalación 100% prolija de fábrica.` },
+
+      { type: "h2", title: `Los mejores aires acondicionados portátiles 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Philco PHP35HC7API — el más vendido` },
+      { type: "product-card", productMlaId: "MLA45423359", label: "El más vendido", labelColor: "green", ranking: 1, description: `Frío/calor, 3.010 frigorías, con temporizador y filtro lavable. 4.7 estrellas en más de 1.200 calificaciones: el más elegido de esta comparativa.` },
+      { type: "p", content: `Si querés la opción más probada, es esta. El Philco PHP35HC7API es **frío/calor** con 3.010 frigorías, panel electrónico con pantalla digital, temporizador y filtro lavable, a alrededor de $630.000. Con más de 1.200 opiniones, es por lejos el que más respaldo de ventas tiene de esta comparativa.` },
+      { type: "p", content: `Lo honesto: el kit para fijarlo a la ventana no siempre queda del todo estable, según varias reseñas, y en instalaciones eléctricas viejas puede hacer falta reforzar el cableado (un comprador lo compara con instalar un split). Por precio y ventas, sigue siendo el punto de partida lógico.` },
+      { type: "pull-quote", content: `"Es excelente! hace poco ruido, casi no molesta. Yo lo uso en calefacción y deshumidificador. Anda super bien. Muy recomendable."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. BGH BP35WCEW — la marca con garantía` },
+      { type: "product-card", productMlaId: "MLA61656125", label: "Marca con garantía", labelColor: "blue", ranking: 2, description: `Frío/calor de BGH, con garantía y service oficial en el país. 4.8 estrellas, el rating más alto de la comparativa.` },
+      { type: "p", content: `Si preferís una marca con garantía y service reconocido en Argentina, el BGH BP35WCEW es la opción. Es **frío/calor**, de instalación simple según las reseñas, y tiene el **rating más alto** de esta guía (4.8), a alrededor de $760.000. Un comprador reporta que enfrió un cuarto de 6x3,5 metros en media hora.` },
+      { type: "p", content: `Contra honesta: como todo portátil, hace ruido, y varias reseñas coinciden en que el frío rinde bien para una habitación, no para un ambiente grande. La base de opiniones (137) es más chica que la del Philco, aunque sólida.` },
+
+      { type: "h3", title: `3. Sansei SAP26HC9AN — el más económico` },
+      { type: "product-card", productMlaId: "MLA61382173", label: "El más económico", labelColor: "amber", ranking: 3, description: `El precio más bajo de esta comparativa, frío/calor con 2.279 frigorías. 4.6 estrellas en más de 790 calificaciones.` },
+      { type: "p", content: `Si tu prioridad es el precio, el Sansei SAP26HC9AN es el más barato de esta guía por bastante margen, frío/calor con 2.279 frigorías, a alrededor de $580.000. Enfría bien la zona frente a la salida de aire y tiene más de 790 opiniones de respaldo.` },
+      { type: "p", content: `Lo honesto: es de los más ruidosos de esta comparativa (una reseña lo compara con "un jumbo jet aterrizando"), la ficha declara 65 dB, y una reseña detallada marca que la función swing de las rejillas no siempre se abre sola pese a tenerla. Si el ruido no te importa demasiado y buscás el precio más bajo, cumple.` },
+
+      { type: "h3", title: `4. RCA AAPR12XP — con deshumidificación` },
+      { type: "product-card", productMlaId: "MLA15183460", label: "Con deshumidificación", labelColor: "blue", ranking: 4, description: `Frío/calor con funciones de deshumidificación y ventilación aparte. 4.5 estrellas en 45 calificaciones, aunque con base de opiniones chica.` },
+      { type: "p", content: `Si además de climatizar querés deshumidificar o solo ventilar sin enfriar, el RCA AAPR12XP suma esas funciones aparte, con 3,5 kW de refrigeración y 3,3 kW de calefacción, a alrededor de $871.000. Una reseña detallada da una regla práctica útil: calculá unas **100 frigorías por metro cuadrado** de tu ambiente.` },
+      { type: "p", content: `Es un producto con menos historial (45 calificaciones) frente al Philco de esta guía. Necesita la ventana a un metro o menos de distancia para la manguera. Si valorás las funciones extra y no te importa el respaldo menor, es una buena opción.` },
+
+      { type: "h3", title: `5. Surrey Smart Wi-Fi — el inteligente` },
+      { type: "product-card", productMlaId: "MLA54689994", label: "El inteligente", labelColor: "purple", ranking: 5, description: `Frío/calor con control por app de celular, el único Wi-Fi de esta comparativa. 4.6 estrellas en 49 calificaciones.` },
+      { type: "p", content: `Si te interesa prender el equipo antes de llegar a casa o programarlo a distancia, el Surrey Smart es el único de esta guía con **Wi-Fi y control por app**, además del control remoto físico. Es frío/calor con buena potencia (3,5 kW en ambos modos), a alrededor de $936.000.` },
+      { type: "p", content: `Es un producto más nuevo en el catálogo: su base de opiniones (49) es bastante más chica que la del Philco o el BGH, y una reseña detallada marca que el kit de instalación en la ventana es incómodo. Si el control por Wi-Fi te importa de verdad, vale la diferencia; si no, el Philco o el BGH tienen más historial.` },
+
+      { type: "h2", title: `Tabla comparativa: por frigorías, extras y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Wi-Fi`, `Ideal para`], rows: [
+        [`[Sansei SAP26HC9AN](https://meli.la/2cghgHg)`, `{{precio:MLA61382173}}`, `Frío/Calor, 2.279 fg`, `No`, `El más económico`],
+        [`[Philco PHP35HC7API](https://meli.la/1M4kNgw)`, `{{precio:MLA45423359}}`, `Frío/Calor, 3.010 fg`, `No`, `El más vendido y probado`],
+        [`[BGH BP35WCEW](https://meli.la/1qEuMix)`, `{{precio:MLA61656125}}`, `Frío/Calor`, `No`, `Marca con garantía en el país`],
+        [`[RCA AAPR12XP](https://meli.la/1GTgrki)`, `{{precio:MLA15183460}}`, `Frío/Calor, 3.010 fg`, `No`, `Con deshumidificación y ventilación`],
+        [`[Surrey Smart](https://meli.la/2uLXmbD)`, `{{precio:MLA54689994}}`, `Frío/Calor, 3.010 kcal/h`, `Sí`, `Control por app`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu aire acondicionado portátil`, id: "como-elegir" },
+      { type: "h3", title: `1. Las frigorías, según tu ambiente` },
+      { type: "p", content: `Los modelos de esta guía van de 2.279 a 3.010 frigorías, pensados para una habitación o un living chico a mediano. Una regla práctica: calculá unas 100 frigorías por metro cuadrado de tu ambiente. Para un espacio grande, un solo portátil suele quedar corto: en ese caso, conviene un split fijo. Medí el tamaño real de tu ambiente antes de comprar, no te guíes solo por el precio.` },
+      { type: "h3", title: `2. Frío/calor o solo frío` },
+      { type: "p", content: `Los cinco modelos de esta guía son frío/calor, así que sirven todo el año: enfrían en verano y calientan en invierno con el mismo equipo. Un solo-frío suele salir más barato, pero en invierno queda guardado sin uso. Si tu presupuesto da, frío/calor es la mejor relación de uso anual.` },
+      { type: "h3", title: `3. Ruido, instalación y Wi-Fi` },
+      { type: "p", content: `Ningún portátil es silencioso, pero el nivel varía: el Sansei es de los más ruidosos según las reseñas (65 dB declarados), mientras que otros modelos de esta guía tienen quejas menores. Si vas a dormir con él prendido, priorizá ese dato. La instalación es con manguera por una ventana, con un kit que en general funciona pero no siempre queda perfecto a la primera. Y el Wi-Fi (solo en el Surrey de esta guía) suma control por app.` },
+
+      { type: "h2", title: `Cuánto cuesta un aire acondicionado portátil en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA61382173:k}}:** el [Sansei SAP26HC9AN](https://meli.la/2cghgHg), el más económico (aunque ruidoso).`,
+        `**Alrededor de {{precio:MLA45423359:k}}:** el [Philco PHP35HC7API](https://meli.la/1M4kNgw), el más vendido y con más respaldo de opiniones.`,
+        `**Alrededor de {{precio:MLA61656125:k}}:** el [BGH BP35WCEW](https://meli.la/1qEuMix), con garantía y service oficial en el país.`,
+        `**Alrededor de {{precio:MLA15183460:k}}:** el [RCA AAPR12XP](https://meli.la/1GTgrki), con deshumidificación y ventilación aparte.`,
+        `**Alrededor de {{precio:MLA54689994:k}}:** el [Surrey Smart](https://meli.la/2uLXmbD), el más caro por sumar Wi-Fi y control por app.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál aire acondicionado portátil comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Philco PHP35HC7API**: frío/calor, 3.010 frigorías y el más probado del mercado, con más de 1.200 opiniones. Si preferís una **marca con garantía** reconocida en el país, el **BGH BP35WCEW**. Si el **precio** es lo que más pesa, el **Sansei SAP26HC9AN**, aunque es de los más ruidosos. Si querés **deshumidificación y ventilación** extra, el **RCA AAPR12XP**. Y si te importa el **control por Wi-Fi**, el **Surrey Smart**. El error a evitar: comprar un portátil de pocas frigorías para un ambiente grande, o esperar que sea silencioso: ninguno lo es.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor aire acondicionado portátil en Argentina?`, answer: `Por ventas y opiniones, el [Philco PHP35HC7API](https://meli.la/1M4kNgw): frío/calor, 3.010 frigorías y el más probado, con más de 1.200 calificaciones. Si preferís una marca con garantía en el país, el [BGH BP35WCEW](https://meli.la/1qEuMix); si el precio es tu prioridad, el [Sansei SAP26HC9AN](https://meli.la/2cghgHg).` },
+      { question: `¿Cuántas frigorías necesito para mi ambiente?`, answer: `Una regla práctica: calculá unas 100 frigorías por metro cuadrado. Los modelos de esta guía van de 2.279 a 3.010 frigorías, buenos para una habitación o un living chico a mediano. Para un ambiente grande, un solo portátil suele quedar corto.` },
+      { question: `¿Un aire acondicionado portátil hace mucho ruido?`, answer: `Sí, todos hacen ruido: llevan el compresor adentro del mismo mueble, a diferencia de un split que lo tiene afuera. El nivel varía bastante entre modelos: el Sansei de esta guía es de los más ruidosos (65 dB declarados), mientras que otros tienen quejas menores.` },
+      { question: `¿Necesita instalación fija como un split?`, answer: `No, es su ventaja principal: se mueve con ruedas y solo necesita sacar una manguera de evacuación por una ventana con el kit que incluye. No hace falta perforar paredes ni instalar una unidad externa.` },
+      { question: `¿Conviene frío/calor o solo frío?`, answer: `Frío/calor sirve todo el año (enfría en verano, calienta en invierno) con el mismo equipo; solo frío suele ser más barato pero queda sin uso en invierno. Los cinco de esta guía son frío/calor, la opción que mejor aprovecha la inversión.` },
+      { question: `¿Cuál tiene control por Wi-Fi o app?`, answer: `De esta guía, solo el [Surrey Smart](https://meli.la/2uLXmbD) tiene Wi-Fi y se controla desde una app de celular, además del control remoto físico. El resto se maneja con control remoto o panel del equipo, sin conexión a Wi-Fi.` },
+      { question: `¿Cuál conviene si quiero deshumidificar además de enfriar?`, answer: `El [RCA AAPR12XP](https://meli.la/1GTgrki) suma funciones de deshumidificación y ventilación aparte del frío/calor, ideal si buscás un equipo más versátil.` },
+    ],
+    internalLinks: [
+      { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
+      { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Caloventor: cuál comprar y qué mirar", href: "/guias/climatizacion/caloventor" },
+    ],
+    internalLinksTitle: "Más sobre climatización",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR balanza-digital — silo salud-bienestar — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "balanza-digital",
+    category: "salud-bienestar",
+    silo: "salud-bienestar",
+    pillar: true,
+    title: `Balanza digital: cuál comprar en Argentina [2026]`,
+    seoTitle: `Balanza Digital: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué balanza digital comprar en Argentina: básica, con grasa corporal o de marca reconocida. Compará precios reales y elegí la tuya.`,
+    ogTitle: `Balanza digital: cuál comprar en Argentina`,
+    ogDescription: `Del básico que solo pesa al que mide grasa corporal por Bluetooth. Femmto, Omron, Utile y Noga comparados por precisión, funciones y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp`,
+    h1: `Balanza digital: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-06",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una balanza digital va de $12.000 (solo pesa) a $80.000 (marca médica reconocida) o con análisis corporal completo. Te mostramos cuál conviene según qué necesitás, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA15503957", label: "La más vendida", labelColor: "green", tagline: "Femmto BWS11: solo pesa, precisa y con más de 72.000 opiniones" },
+      { productMlaId: "MLA19147005", label: "Con análisis corporal", labelColor: "blue", tagline: "Femmto BCS13: grasa corporal, IMC y app, más de 41.000 opiniones" },
+      { productMlaId: "MLA15286360", label: "Marca reconocida", labelColor: "amber", tagline: "Omron HN-289: marca médica global, certificado INMETRO, más de 14.000 opiniones" },
+      { productMlaId: "MLA60038492", label: "Sin pilas", labelColor: "purple", tagline: "Noga NG-B01: se recarga por USB, nunca compras pilas" },
+    ],
+    intro: [
+      `Una balanza digital de baño puede ser tan simple como pesar, o sumar **grasa corporal, IMC y sincronización con una app** para llevar un registro en el tiempo. La decisión pasa por eso: ¿te alcanza con el número del peso, o querés el resto de los datos?`,
+      `En esta guía comparamos las balanzas digitales más vendidas de Argentina por precisión, funciones y precio real de MercadoLibre, de la más básica a la de mayor capacidad. Todas tienen Bluetooth en la ficha, pero no todas lo aprovechan para algo más que pesar.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp", alt: `Balanza digital Femmto, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si solo querés saber tu peso, la **Femmto BWS11** es la más vendida y la más barata. Si además querés **grasa corporal, IMC y una app**, la **Femmto BCS13** suma eso por poco más. Si preferís una **marca médica reconocida**, la **Omron HN-289**. Y si no querés depender nunca de pilas, la **Noga NG-B01** se recarga por USB.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las balanzas digitales con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si **solo pesan** o suman **grasa corporal e IMC**, si sincronizan con una **app**, la precisión según las reseñas y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una balanza digital`, id: "que-mirar" },
+      { type: "p", content: `Primero, definí si te alcanza con el **peso** o querés **análisis corporal** (grasa, IMC, masa muscular). Las básicas son más baratas y no dependen de ninguna app; las de análisis corporal sincronizan por Bluetooth y guardan un historial, pero hay que instalar la app del fabricante y, en algunos casos, retirar una cinta de protección de los sensores antes del primer uso.` },
+      { type: "p", content: `Segundo: si sos varios en casa, fijate cuántas **memorias o perfiles** admite la balanza. Y un dato honesto sobre el IMC: el cálculo depende de qué tabla de referencia usa cada marca, así que no te alarmes por una sola etiqueta de "sobrepeso" en la app: no es un diagnóstico médico.` },
+
+      { type: "h2", title: `Las mejores balanzas digitales 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Femmto BWS11 — la más vendida` },
+      { type: "product-card", productMlaId: "MLA15503957", label: "La más vendida", labelColor: "green", ranking: 1, description: `Solo pesa, plataforma de vidrio templado, hasta 180 kg. 4.8 estrellas en más de 72.000 calificaciones: la balanza más vendida del país.` },
+      { type: "p", content: `Si lo único que querés es saber tu peso, es esta. La Femmto BWS11 es **por lejos la más vendida** de Argentina (más de 72.000 opiniones), con plataforma de vidrio templado antideslizante y capacidad de hasta 180 kg, a alrededor de $12.700. Hace lo esencial de forma precisa y al mejor precio.` },
+      { type: "p", content: `Lo honesto: no mide grasa corporal ni IMC, y aunque tiene Bluetooth en la ficha, no sincroniza con ninguna app en la práctica. Para eso, mirá la versión con análisis corporal de abajo.` },
+      { type: "pull-quote", content: `"Me pareció perfecto el precio en cuanto a calidad y lo práctico que es. La volvería a comprar sin dudarlo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Femmto BCS13 — con análisis corporal` },
+      { type: "product-card", productMlaId: "MLA19147005", label: "Con análisis corporal", labelColor: "blue", ranking: 2, description: `Grasa corporal, IMC y sincronización con app (iOS/Android). 4.8 estrellas en más de 41.000 calificaciones.` },
+      { type: "p", content: `Si querés más que el peso, esta Femmto suma **grasa corporal, IMC y sincronización por Bluetooth** con una app para iOS y Android, a alrededor de $40.000. Con más de 41.000 opiniones, tiene el segundo mayor respaldo de esta comparativa, y las reseñas destacan lo consistente que es pesándose varias veces seguidas.` },
+      { type: "p", content: `Un dato práctico que casi nadie avisa: los sensores traen una **cinta plástica de protección** que hay que retirar antes del primer uso, o la balanza solo va a mostrar el peso. Sacándola, funciona como corresponde.` },
+      { type: "pull-quote", content: `"Junto a la aplicación muestra muchos parámetros y es posible hacer un seguimiento de los mismos. Lo único malo es que en ningún lugar te dice que hay que retirar una cinta plástica que viene en los sensores."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Omron HN-289 — marca reconocida` },
+      { type: "product-card", productMlaId: "MLA15286360", label: "Marca reconocida", labelColor: "amber", ranking: 3, description: `Marca médica global, certificado INMETRO. 4.8 estrellas en más de 14.000 calificaciones. Solo pesa, pero con la precisión que respalda Omron.` },
+      { type: "p", content: `Si preferís el respaldo de una marca médica reconocida mundialmente, la Omron HN-289 es la opción: Omron es conocida por tensiómetros y termómetros, y esta balanza hereda esa reputación de precisión, con certificado INMETRO y más de 14.000 calificaciones, a alrededor de $80.000.` },
+      { type: "p", content: `Es solo de pesada (sin grasa corporal ni IMC), pero una reseña la puso a prueba con un paquete de 500 gramos y marcó la diferencia exacta. Viene con batería de litio incluida, que dura más que las pilas comunes.` },
+
+      { type: "h3", title: `4. Utile UT-1108 — la de mayor capacidad` },
+      { type: "product-card", productMlaId: "MLA65535495", label: "Mayor capacidad", labelColor: "purple", ranking: 4, description: `Hasta 200 kg y el análisis más completo (grasa, agua, masa muscular y ósea) con app iMon. 4.9 estrellas, aunque con pocas calificaciones todavía.` },
+      { type: "p", content: `Si necesitás más capacidad que el resto de esta guía, la Utile UT-1108 llega a **200 kg** y mide grasa corporal, agua, masa muscular, masa ósea y grasa visceral con la app iMon (Android), a alrededor de $50.000.` },
+      { type: "p", content: `Lo honesto: todavía tiene pocas calificaciones (17), aunque todas muy positivas. Si preferís ir a lo más probado, la Femmto BCS13 tiene mucho más historial; si necesitás la capacidad o el análisis más completo, esta es la única que lo ofrece.` },
+
+      { type: "h3", title: `5. Noga NG-B01 — la que no usa pilas` },
+      { type: "product-card", productMlaId: "MLA60038492", label: "Sin pilas", labelColor: "green", ranking: 5, description: `Se recarga por cable USB, sin pilas. 4.9 estrellas en 381 calificaciones.` },
+      { type: "p", content: `Si no querés depender de comprar pilas, la Noga NG-B01 se **recarga por cable USB**, a alrededor de $18.000. Una reseña la probó pesando a 4 personas distintas y siempre marcó el valor correcto.` },
+      { type: "p", content: `La ficha técnica no confirma oficialmente un medidor de grasa corporal, aunque varias reseñas mencionan que la app conectada muestra datos adicionales. Para grasa corporal confirmada en la ficha, la Femmto BCS13 es más segura.` },
+
+      { type: "h2", title: `Tabla comparativa: por funciones y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Grasa corporal / IMC`, `App`, `Ideal para`], rows: [
+        [`[Femmto BWS11](https://meli.la/2uS8m62)`, `{{precio:MLA15503957}}`, `No`, `No`, `Solo pesar, la más vendida`],
+        [`[Noga NG-B01](https://meli.la/1xGT4Bq)`, `{{precio:MLA60038492}}`, `No confirmado`, `Sí (según reseñas)`, `No usa pilas, se recarga por USB`],
+        [`[Femmto BCS13](https://meli.la/1JsFuZh)`, `{{precio:MLA19147005}}`, `Sí`, `Sí (iOS/Android)`, `Análisis corporal accesible`],
+        [`[Utile UT-1108](https://meli.la/2GzBmsp)`, `{{precio:MLA65535495}}`, `Sí (el más completo)`, `Sí (iMon, Android)`, `Mayor capacidad (200 kg)`],
+        [`[Omron HN-289](https://meli.la/1cAwWN4)`, `{{precio:MLA15286360}}`, `No`, `No`, `Marca médica reconocida`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu balanza digital`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Solo peso o análisis corporal?` },
+      { type: "p", content: `Si te alcanza con saber cuánto pesás, una básica como la Femmto BWS11 o la Omron cumplen de sobra. Si querés grasa corporal, IMC y un historial en el tiempo, necesitás una con Bluetooth y app de verdad, como la Femmto BCS13 o la Utile.` },
+      { type: "h3", title: `2. Capacidad de peso y pilas` },
+      { type: "p", content: `La mayoría de esta guía llega a 150-180 kg; si necesitás más, la Utile llega a 200 kg. Y si te cansa comprar pilas, la Noga se recarga por USB, la única de esta guía con esa opción.` },
+      { type: "h3", title: `3. El IMC no es una sentencia` },
+      { type: "p", content: `Cada marca calcula el IMC con su propia tabla de referencia. Si una app te clasifica distinto de lo que esperabas, no te alarmes de entrada: es una guía general, no un diagnóstico médico. Ante cualquier duda de salud real, consultá a un profesional.` },
+
+      { type: "h2", title: `Cuánto cuesta una balanza digital en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA15503957:k}}:** la básica que solo pesa, la [Femmto BWS11](https://meli.la/2uS8m62), la más vendida.`,
+        `**Alrededor de {{precio:MLA60038492:k}}:** la que se recarga por USB, la [Noga NG-B01](https://meli.la/1xGT4Bq).`,
+        `**Alrededor de {{precio:MLA19147005:k}} a {{precio:MLA65535495:k}}:** con análisis corporal, la [Femmto BCS13](https://meli.la/1JsFuZh) y la [Utile UT-1108](https://meli.la/2GzBmsp) (mayor capacidad).`,
+        `**Alrededor de {{precio:MLA15286360:k}}:** la marca médica reconocida, la [Omron HN-289](https://meli.la/1cAwWN4).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál balanza digital comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Femmto BWS11**: la más vendida, precisa y la más barata, si solo te interesa el peso. Si querés **grasa corporal, IMC y app**, la **Femmto BCS13** (acordate de sacar la cinta de los sensores). Si preferís una **marca médica reconocida**, la **Omron HN-289**. Si necesitás **más capacidad** o el análisis más completo, la **Utile UT-1108**. Y si no querés depender de pilas, la **Noga NG-B01**. El error a evitar: alarmarte por una clasificación de IMC sin consultar a un profesional si te preocupa de verdad.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor balanza digital en Argentina?`, answer: `Por ventas, la [Femmto BWS11](https://meli.la/2uS8m62): la más vendida y barata, aunque solo pesa. Si querés grasa corporal e IMC, la [Femmto BCS13](https://meli.la/1JsFuZh); si preferís una marca médica reconocida, la [Omron HN-289](https://meli.la/1cAwWN4).` },
+      { question: `¿Qué diferencia hay entre una balanza digital básica y una con análisis corporal?`, answer: `La básica solo mide peso. La de análisis corporal se conecta por Bluetooth a una app y suma grasa corporal, IMC y a veces masa muscular, con historial en el tiempo. La básica es más barata y no depende de ninguna app.` },
+      { question: `¿Por qué mi balanza con Bluetooth solo muestra el peso?`, answer: `En algunos modelos, los sensores traen una cinta plástica de protección que hay que retirar antes del primer uso. Sin sacarla, la balanza solo pesa. Revisá ese detalle antes de asumir que el resto de las funciones no anda.` },
+      { question: `¿Es confiable el cálculo de IMC de estas balanzas?`, answer: `Sirve como referencia general, pero cada marca usa su propia tabla, así que pueden marcar "sobrepeso" con un peso que otras tablas consideran normal. No lo tomes como diagnóstico médico; ante cualquier duda de salud, consultá a un profesional.` },
+      { question: `¿Qué balanza conviene si no quiero comprar pilas nunca?`, answer: `La [Noga NG-B01](https://meli.la/1xGT4Bq) se recarga por cable USB, la única de esta guía que no usa pilas.` },
+      { question: `¿Cuál tiene más capacidad de peso?`, answer: `La [Utile UT-1108](https://meli.la/2GzBmsp), con hasta 200 kg. El resto de esta guía ronda los 150-180 kg.` },
+    ],
+    internalLinks: [],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR camara-de-seguridad — silo seguridad — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "camara-de-seguridad",
+    category: "seguridad",
+    silo: "seguridad",
+    pillar: true,
+    title: `Cámaras de seguridad: cuáles comprar en Argentina [2026]`,
+    seoTitle: `Cámaras de Seguridad: Cuáles Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué cámara de seguridad comprar en Argentina: interior, exterior o kit de 3, sin mensualidad. Compará precios reales y elegí la tuya.`,
+    ogTitle: `Cámaras de seguridad: cuáles comprar en Argentina`,
+    ogDescription: `De la motorizada más vendida al kit de 3 para toda la casa, sin abono mensual. Gadnic, Geotek, TP-Link y Ezviz comparadas con precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_782305-MLA111600184461_052026-O.webp`,
+    h1: `Cámaras de seguridad: cuáles comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-06",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Una cámara de seguridad Wi-Fi va de $39.000 (mini de interior) a $110.000 (kit de 3 para toda la casa), sin pagar mensualidad. Te mostramos cuál conviene según qué querés vigilar, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA18711640", label: "La más vendida", labelColor: "green", tagline: "Gadnic SX39: motorizada con seguimiento, más de 21.000 opiniones" },
+      { productMlaId: "MLA43877246", label: "Mejor para exterior", labelColor: "blue", tagline: "Geotek doble lente: dos vistas en una, IP66 y visión nocturna a color" },
+      { productMlaId: "MLA19663400", label: "Mejor calificada", labelColor: "purple", tagline: "TP-Link Tapo C210: 2K real y 4.9 estrellas, la mejor app del grupo" },
+      { productMlaId: "MLA48013621", label: "Para toda la casa", labelColor: "amber", tagline: "Kit 3 Geotek: cubrís entrada, patio y cochera sin mensualidad" },
+    ],
+    intro: [
+      `Una cámara de seguridad Wi-Fi resuelve hoy lo que antes pedía una empresa de alarmas con abono: ves tu casa desde el celular, recibís alertas de movimiento y todo queda grabado en una memoria local, **sin mensualidad**. La decisión pasa por tres cosas: interior o exterior, fija o motorizada, y una cámara o un kit.`,
+      `En esta guía comparamos las cámaras de seguridad más vendidas de Argentina por imagen real, funciones y precio de MercadoLibre, de la mini económica al kit de 3 para cubrir toda la casa. Un aviso que vale para todas: la memoria micro-SD para grabar se compra aparte.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_782305-MLA111600184461_052026-O.webp", alt: `Cámara de seguridad Gadnic SX39, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **Gadnic SX39**: motorizada con seguimiento, apta exterior y la más vendida del país por lejos. Para **exterior exigente**, la **Geotek doble lente** (dos vistas en una). Si querés la **mejor imagen y app**, la **TP-Link Tapo C210** con 2K. Y para cubrir **toda la casa de una vez**, el **kit de 3 Geotek**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cámaras de seguridad con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: **interior o exterior** (resistencia al agua real), si son **fijas o motorizadas** con seguimiento, la **resolución verdadera** (sin marketing de megapíxeles) y si exigen suscripción o graban local. Las calificaciones son de compradores reales; las specs de la Tapo C210 las verificamos además contra la página oficial de TP-Link Argentina. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una cámara de seguridad`, id: "que-mirar" },
+      { type: "p", content: `Primero, **dónde va**: una cámara de interior no sobrevive a la intemperie. Para afuera buscá certificación **IP66**; "resistente al agua" en el título no alcanza si la ficha técnica no lo confirma. Segundo, **fija o motorizada**: la fija es más barata y apunta a un solo lugar; la motorizada gira desde la app y las mejores siguen solas a la persona en movimiento.` },
+      { type: "p", content: `Tercero, el detalle que nadie cuenta en el título: **ninguna trae memoria**. Sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba. Presupuestá la tarjeta (y una por cámara si es un kit). La buena noticia: todas las de esta guía graban local y funcionan **sin abono mensual**.` },
+
+      { type: "h2", title: `Las mejores cámaras de seguridad 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic SX39 — la más vendida` },
+      { type: "product-card", productMlaId: "MLA18711640", label: "La más vendida", labelColor: "green", ranking: 1, description: `Motorizada con seguimiento de personas, Full HD, audio bidireccional e IP66. 4.8 estrellas en más de 21.000 calificaciones: la cámara más vendida del país.` },
+      { type: "p", content: `Si querés una sola cámara que haga de todo, es esta. La Gadnic SX39 es **por lejos la más vendida** de Argentina (más de 21.000 opiniones): el domo gira y sigue a la persona en movimiento con un motor que las reseñas describen como sorprendentemente silencioso, tiene micrófono y parlante para hablar desde el celular, y su IP66 le permite vivir afuera bajo techo, a alrededor de $42.000.` },
+      { type: "p", content: `Lo honesto: la memoria para grabar va aparte (el reclamo más votado de sus reseñas) y con Wi-Fi flojo se puede tildar, según un comprador de 4 estrellas que igual la recomienda.` },
+      { type: "pull-quote", content: `"La cámara junto con el software para el celular superaron con creces mis expectativas. Lo mejor de todo es que tiene micrófono y parlante, por lo que es una medida disuasiva extraordinaria."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Geotek GT-A33BN — la mejor para exterior` },
+      { type: "product-card", productMlaId: "MLA43877246", label: "Mejor para exterior", labelColor: "blue", ranking: 2, description: `Doble lente: vista panorámica fija + vista motorizada con seguimiento. Visión nocturna a color de 20 m, IP66. 4.8 estrellas en más de 10.000 calificaciones.` },
+      { type: "p", content: `Para el frente, el patio o la cochera, la Geotek de **doble lente** resuelve lo que una cámara común no puede: ves el plano general y el detalle en movimiento a la vez, porque son dos cámaras en un cuerpo. Suma visión nocturna a color de 20 metros declarados y luces disuasivas, a alrededor de $53.000. El aguante está probado por los compradores.` },
+      { type: "p", content: `Dos avisos honestos: el "6 MP" del título es la suma de los dos lentes de 3 MP, y los tornillos que vienen en la caja son malos según la reseña crítica más votada. Compradores con varias unidades destacan que la app iCSee no mete publicidad.` },
+      { type: "pull-quote", content: `"Fácil de instalar. Cumple las especificaciones, hace bien el seguimiento de personas y se bancó bien una tormenta que voló el techo de la cochera donde está instalada, así que conforme."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. TP-Link Tapo C210 — la mejor calificada` },
+      { type: "product-card", productMlaId: "MLA19663400", label: "Mejor calificada", labelColor: "purple", ranking: 3, description: `2K real de 3 MP, giro de 360° y la mejor app del grupo. 4.9 estrellas en más de 5.600 calificaciones, con 90% de 5 estrellas. Solo interior.` },
+      { type: "p", content: `Si la vigilancia es adentro (living, entrada interna, bebé, mascotas), la Tapo C210 es la compra más segura del catálogo: **4.9 de promedio**, resolución **2K de 3 MP real** que verificamos contra la página de TP-Link Argentina, giro de 360° y una app que maneja hasta 32 cámaras sin pedirte suscripción, a alrededor de $50.000.` },
+      { type: "p", content: `Sus límites son claros: es **solo de interior** (ignorá el IP67 que aparece en la ficha de MercadoLibre: el fabricante no lo respalda) y solo se conecta a Wi-Fi de **2.4 GHz**. El gasto oculto lo avisa una reseña: las micro-SD grandes cuestan casi la mitad de la cámara.` },
+      { type: "pull-quote", content: `"Por poca diferencia los 2K se ven. Dato de color: las tarjetas micro SD cuestan casi la mitad de la cámara."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Ezviz H1C — la económica de interior` },
+      { type: "product-card", productMlaId: "MLA26988384", label: "La más económica", labelColor: "slate", ranking: 4, description: `Mini fija de interior: Full HD, visión nocturna de 12 m y audio bidireccional. 4.8 estrellas en más de 5.700 calificaciones, al precio más bajo de la guía.` },
+      { type: "p", content: `La puerta de entrada a la categoría: a alrededor de $39.000, la mini de Ezviz hace lo esencial (Full HD, visión nocturna, hablar y escuchar desde el celular) con marca especialista y más de 5.700 calificaciones. Se pega o se atornilla, y comprime en H.265, así que la memoria rinde más horas que en otras cámaras.` },
+      { type: "p", content: `Es **fija**: apunta a donde la pusiste, sin giro ni seguimiento. Si querés que siga el movimiento, la Gadnic o la TY1 de abajo; si es para afuera, no sirve.` },
+
+      { type: "h3", title: `5. Kit 3 Geotek GT-N3 — para toda la casa` },
+      { type: "product-card", productMlaId: "MLA48013621", label: "Para toda la casa", labelColor: "amber", ranking: 5, description: `3 domos motorizados de exterior IP66 con visión nocturna a color. 4.8 estrellas en más de 6.200 calificaciones. Sale menos que 3 cámaras sueltas.` },
+      { type: "p", content: `Si el plan es cubrir entrada, patio y cochera, el kit de 3 Geotek sale alrededor de $110.000: menos que comprar tres cámaras sueltas, y sin mensualidad de monitoreo. Las reseñas describen la instalación como sencilla si sabés llevar corriente a cada punto, y la sincronización con la app es directa.` },
+      { type: "p", content: `Lo que tenés que saber: cada cámara necesita su **cable de corriente** y su **propia micro-SD**, y la detección de personas se puede disparar con mascotas, según un comprador con 3 gatos y 2 perros.` },
+      { type: "pull-quote", content: `"La verdad que valió la pena la inversión. Es un sistema de seguridad muy completo. Invertís una vez y listo, te ahorrás la mensualidad."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `6. Ezviz TY1 — detección de personas de verdad` },
+      { type: "product-card", productMlaId: "MLA37794717", label: "Detección humana", labelColor: "green", ranking: 6, description: `Motorizada de interior que detecta figuras humanas (no cualquier movimiento) y las sigue. 4.9 estrellas, aunque con la base de opiniones más chica del grupo.` },
+      { type: "p", content: `La TY1 ataca el problema más molesto de estas cámaras: las falsas alarmas. En vez de dispararse con cualquier movimiento, detecta **figuras humanas** y las sigue con el motor, y suma detección de ruidos anormales, a alrededor de $42.000. Una reseña destaca que la app tiene las funciones justas sin exigir suscripción.` },
+      { type: "p", content: `Lo honesto: su base de opiniones es la más chica de la guía (1.898, contra más de 5.000 del resto) y es Full HD, un escalón abajo del 2K de la Tapo a precio parecido. La elegís por la detección humana; si preferís historial y resolución, la Tapo.` },
+
+      { type: "h2", title: `Tabla comparativa: por uso y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Interior / exterior`, `Movimiento`, `Ideal para`], rows: [
+        [`[Gadnic SX39](https://meli.la/2Kod5MG)`, `{{precio:MLA18711640}}`, `Ambos (IP66)`, `Motorizada con seguimiento`, `La todoterreno más vendida`],
+        [`[Geotek doble lente](https://meli.la/1GQsniy)`, `{{precio:MLA43877246}}`, `Exterior (IP66)`, `Doble vista, seguimiento`, `Frente, patio y cochera`],
+        [`[TP-Link Tapo C210](https://meli.la/2XP2zp1)`, `{{precio:MLA19663400}}`, `Interior`, `Motorizada 360°`, `La mejor imagen y app`],
+        [`[Ezviz H1C](https://meli.la/1fGvF6y)`, `{{precio:MLA26988384}}`, `Interior`, `Fija`, `Empezar gastando poco`],
+        [`[Kit 3 Geotek](https://meli.la/1Ctzici)`, `{{precio:MLA48013621}}`, `Exterior (IP66)`, `Motorizadas`, `Toda la casa sin mensualidad`],
+        [`[Ezviz TY1](https://meli.la/11ACYPJ)`, `{{precio:MLA37794717}}`, `Interior`, `Motorizada, detección humana`, `Menos falsas alarmas`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cámara de seguridad`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Interior o exterior?` },
+      { type: "p", content: `Es la primera decisión y la que no admite error: una cámara de interior a la intemperie se arruina. Para afuera, exigí **IP66 confirmado en la ficha técnica** (Gadnic SX39, Geotek doble lente, kit Geotek). Para adentro, las de interior dan más calidad por el mismo precio (Tapo C210, Ezviz H1C, TY1).` },
+      { type: "h3", title: `2. ¿Fija o motorizada?` },
+      { type: "p", content: `La fija cuesta menos y sirve si tenés claro qué punto vigilar (una puerta, un pasillo). La motorizada gira desde la app y las mejores siguen solas a la persona: cubre un ambiente entero con una sola cámara. Y si las falsas alarmas te van a volver loco, buscá **detección de figura humana** como la de la TY1, no simple detección de movimiento.` },
+      { type: "h3", title: `3. La memoria: el gasto que no está en el precio` },
+      { type: "p", content: `Ninguna cámara de esta guía trae micro-SD, y sin memoria no graban: solo muestran en vivo. Sumá al presupuesto una tarjeta clase 10 por cámara. Referencia real de una reseña de la Tapo: con 64 GB, unos 4 días de grabación continua en Full HD (más si graba solo con movimiento).` },
+      { type: "h3", title: `4. Wi-Fi y corriente: revisá antes de comprar` },
+      { type: "p", content: `Estas cámaras dependen del Wi-Fi: si la señal no llega bien al punto de instalación, se tildan o se desconectan (es el reclamo típico en las reseñas de todas las marcas). Ojo también con la banda: la Tapo C210 solo se conecta a redes de **2.4 GHz**. Y todas necesitan corriente: en kits de exterior, llevar cable a cada punto es el verdadero trabajo de la instalación.` },
+      { type: "h3", title: `5. Sin mensualidad: grabación local` },
+      { type: "p", content: `Las seis graban en memoria local y se ven desde la app gratis: no necesitás pagar ningún abono. Es la diferencia de fondo con los servicios de alarma tradicionales, y la razón que más se repite en las reseñas para elegir kit propio: "invertís una vez y listo, te ahorrás la mensualidad".` },
+
+      { type: "h2", title: `Cuánto cuesta una cámara de seguridad en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA26988384:k}}:** la mini de interior, la [Ezviz H1C](https://meli.la/1fGvF6y), la forma más barata de empezar.`,
+        `**Alrededor de {{precio:MLA18711640:k}} a {{precio:MLA37794717:k}}:** las motorizadas, la [Gadnic SX39](https://meli.la/2Kod5MG) (la más vendida, apta exterior) y la [Ezviz TY1](https://meli.la/11ACYPJ) (detección humana).`,
+        `**Alrededor de {{precio:MLA19663400:k}} a {{precio:MLA43877246:k}}:** la gama alta de a una: la [Tapo C210](https://meli.la/2XP2zp1) (2K, interior) y la [Geotek doble lente](https://meli.la/1GQsniy) (exterior).`,
+        `**Alrededor de {{precio:MLA48013621:k}}:** el [kit de 3 Geotek](https://meli.la/1Ctzici) para toda la casa, menos que 3 sueltas.`,
+        `**No olvides la memoria:** una micro-SD clase 10 por cámara, que no viene incluida en ninguna.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál cámara de seguridad comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **Gadnic SX39**: motorizada con seguimiento, apta interior y exterior, y el respaldo de más de 21.000 compradores. Para **exterior**, la **Geotek doble lente** (dos vistas y aguante probado). Para **interior con la mejor imagen y app**, la **TP-Link Tapo C210** (4.9, 2K real). Para **empezar barato**, la **Ezviz H1C**. Para **toda la casa sin mensualidad**, el **kit de 3 Geotek**. Y si tu problema son las falsas alarmas, la **Ezviz TY1** con detección de figura humana. El error a evitar: olvidarte de comprar la micro-SD, sin la cual ninguna graba.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cámara de seguridad en Argentina?`, answer: `Por ventas, la [Gadnic SX39](https://meli.la/2Kod5MG): motorizada con seguimiento, apta exterior (IP66) y más de 21.000 calificaciones. Por calificación, la [TP-Link Tapo C210](https://meli.la/2XP2zp1) (4.9, 2K real) para interior. Para exterior exigente, la [Geotek doble lente](https://meli.la/1GQsniy).` },
+      { question: `¿Las cámaras de seguridad Wi-Fi necesitan abono mensual?`, answer: `Las de esta guía, no: graban en una memoria micro-SD local y se ven desde la app gratis. Es la gran diferencia con los servicios de alarma con monitoreo, que cobran mensualidad.` },
+      { question: `¿Las cámaras vienen con memoria para grabar?`, answer: `No, ninguna. Sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba. Presupuestá una tarjeta clase 10 por cámara; con 64 GB tenés unos 4 días de grabación continua en Full HD, según una reseña de la Tapo C210.` },
+      { question: `¿Qué cámara sirve para exterior?`, answer: `Las que tienen IP66 confirmado en la ficha: la [Gadnic SX39](https://meli.la/2Kod5MG), la [Geotek doble lente](https://meli.la/1GQsniy) y el [kit de 3 Geotek](https://meli.la/1Ctzici). Las de interior (Tapo C210, Ezviz H1C y TY1) no resisten la intemperie.` },
+      { question: `¿Funcionan sin internet?`, answer: `Necesitan Wi-Fi para configurarse, avisarte al celular y mostrarte la imagen a distancia. Sin internet, las que tienen micro-SD suelen seguir grabando localmente, pero perdés las alertas y la vista en vivo desde afuera de tu casa.` },
+      { question: `¿Qué significa que una cámara sea motorizada?`, answer: `Que gira desde la app (y las mejores siguen solas a la persona en movimiento), cubriendo un ambiente entero. Las fijas, como la [Ezviz H1C](https://meli.la/1fGvF6y), apuntan a un solo lugar pero cuestan menos.` },
+      { question: `¿Cómo evito las falsas alarmas por mascotas?`, answer: `Buscá detección de figura humana en vez de detección de movimiento simple: la [Ezviz TY1](https://meli.la/11ACYPJ) la tiene. En kits con detección de movimiento común, los compradores con perros y gatos reportan alertas frecuentes disparadas por sus mascotas.` },
+    ],
+    internalLinks: [],
   },
 
   // ─────────────────────────────────────────────────────────
