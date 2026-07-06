@@ -90,6 +90,10 @@ export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
     navigator.clipboard.writeText(window.location.href).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
+      window.gtag?.("event", "share_click", {
+        network: "Copiar link",
+        page_path: window.location.pathname,
+      });
     });
   };
 
@@ -106,6 +110,10 @@ export function ShareButtons({ title, className = "" }: ShareButtonsProps) {
           className={btnClass}
           onClick={() => {
             const url = window.location.href;
+            window.gtag?.("event", "share_click", {
+              network: name,
+              page_path: window.location.pathname,
+            });
             window.open(buildUrl(url, title), "_blank", "noopener,noreferrer");
           }}
         >
