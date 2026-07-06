@@ -12,6 +12,10 @@ const nextConfig: NextConfig = {
         hostname: "*.mlstatic.com",
       },
     ],
+    // Las fotos de ML casi no cambian de URL una vez importadas: cache largo
+    // evita que las páginas de cola larga (poco tráfico) repaguen el costo de
+    // re-optimizar la imagen cada vez que expira el cache (default: 4h).
+    minimumCacheTTL: 2678400, // 31 días
   },
   async rewrites() {
     return [
