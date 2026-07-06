@@ -15933,7 +15933,6 @@ Para un dormitorio de matrimonio o un espacio de hasta 18–20m², el diámetro 
 Con 4 calificaciones, hay cosas que no se pueden confirmar con datos de la comunidad: nivel de ruido real en operación, durabilidad a mediano plazo del mecanismo retráctil, uniformidad de la luz LED en toda la superficie del plafón, temperatura real de los presets de color. Esto no invalida el producto, pero hay que nombrarlo.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Iluma / Zenith ZENITH40W' },
-      { label: 'Precio', value: '$90.000 ARS' },
       { label: 'Diámetro aspas extendidas', value: '1,07 m' },
       { label: 'Peso', value: '6 kg' },
       { label: 'Aspas', value: '4 acrílico transparente' },
@@ -47891,6 +47890,238 @@ Comprala si planchás cada tanto y querés gastar lo mínimo, o como primera pla
       { question: "¿Tiene regulador de temperatura?", answer: "No, calienta siempre a su temperatura máxima y no corta el calor sola: hay que desenchufarla al terminar. Es parte de lo que explica el precio." },
       { question: "¿Qué diferencia hay con una planchita de marca?", answer: "Las placas (metálicas contra cerámica o turmalina, que cuidan más el pelo), el regulador de temperatura, el apagado automático y la durabilidad esperable. Para planchado ocasional la diferencia se nota poco; para uso diario, bastante." },
       { question: "¿Por qué tiene tantas opiniones si es tan barata?", answer: "Justamente por el precio: es la económica más elegida de la categoría, y su 4.7 sostenido en más de 1.000 calificaciones muestra que para su rol cumple." },
+    ],
+  },
+
+  // ─── Ventiladores de techo clásicos — importados via Chrome (jul 2026, API ML caída). Completan la guía ventilador-de-techo junto a las 3 fichas retráctiles existentes ───
+  {
+    id: "MLA17380375",
+    title: "Ventilador De Techo Liliana Vthi513 Blanco Con 3 Palas Metal Diámetro 1.4 m",
+    canonicalName: "Ventilador de Techo Liliana VTHI513 (3 palas metal, con luz)",
+    price: 91990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA17380375",
+    affiliateUrl: "https://meli.la/1KwoBQf",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 2056,
+    ratingBreakdown: { five: "75%", four: "16.49%", three: "5.11%", two: "1.56%", one: "1.85%" },
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Liliana" },
+      { label: "Modelo", value: "VTHI513" },
+      { label: "Tipo", value: "Clásico de palas metálicas" },
+      { label: "Palas", value: "3, de metal" },
+      { label: "Diámetro", value: "1,4 m (el más grande de nuestra guía)" },
+      { label: "Con luz", value: "Sí, 1 lámpara con interruptor" },
+      { label: "Peso", value: "5 kg" },
+      { label: "Altura", value: "40 cm" },
+      { label: "Voltaje", value: "220 V" },
+      { label: "Control remoto", value: "No (llave de pared)" },
+    ],
+    relatedProducts: ["MLA11828901", "MLA44033885", "MLA57107638"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Ventilador de techo Liliana VTHI513: el clásico argentino de 3 palas metálicas con luz, 1,4 m de diámetro (el más grande de la guía) y más de 2.000 calificaciones. Contra honesta repetida en reseñas: el soporte de techo incluido es malo, conviene comprar uno aparte.",
+    seoTitle: "Ventilador de Techo Liliana: el clásico, ¿conviene?",
+    metaDescription: "Ventilador de techo Liliana VTHI513: 3 palas de metal, luz, 1,4 m de diámetro y más de 2.000 calificaciones. Precio real, pros y contras.",
+    verdict: "El Liliana VTHI513 sirve si querés el ventilador de techo de siempre: palas metálicas, mucho caudal de aire (funciona bien incluso con techos de 5 metros, reporta una reseña), luz incluida y marca nacional con service, al menor precio de nuestra guía. No sirve si esperás silencio absoluto o un soporte de techo decente: las reseñas coinciden en comprar el soporte aparte (sale unos pocos miles de pesos) y en que se escucha el viento.",
+    pros: [
+      "El precio más bajo de nuestra guía de ventiladores de techo, con marca nacional",
+      "Palas metálicas de 1,4 m de diámetro: gran caudal de aire, probado en techos altos según reseñas",
+      "Luz incluida con interruptor independiente",
+      "Más de 2.000 calificaciones: el clásico más probado del catálogo",
+    ],
+    cons: [
+      "El soporte de techo incluido es malo: la recomendación repetida en reseñas es comprar uno aparte",
+      "No es silencioso: se escucha el flujo de aire (el motor no, aclaran las reseñas)",
+      "El repuesto de la luz que trae no es fácil de conseguir, según una reseña",
+      "Su desglose de calificaciones (75% de 5 estrellas) es el más flojo de nuestra guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Liliana VTHI513 es el ventilador de techo argentino de toda la vida: 3 palas de metal, 1,4 metros de diámetro (el más grande de nuestra guía), luz con interruptor y llave de pared. Sin control remoto ni luces de colores: caudal de aire puro al menor precio.
+
+## Lo bueno
+
+Mueve mucho aire: una reseña lo tiene instalado en un ambiente con 5 metros de techo a piso y reporta gran caudal igual. Las palas metálicas y el diámetro grande son la receta clásica para ambientes amplios. Es la marca nacional de los ventiladores (la misma Liliana de los caloventores que ya cubrimos) con service real, y sus más de 2.000 calificaciones lo hacen el clásico más probado del catálogo.
+
+## La contra real
+
+La más repetida y la más útil: el soporte de techo que viene en la caja es malo. Una reseña con 33 votos útiles lo dice sin filtro y recomienda comprar un soporte aparte, que sale unos pocos miles de pesos. Sumale que no es un equipo silencioso (se escucha el viento, no el motor) y que el repuesto de su luz no es fácil de conseguir. Su 75% de 5 estrellas es el desglose más flojo de la guía: bueno, pero con más peros que los retráctiles modernos.
+
+## Para quién sí y para quién no
+
+Compralo si querés el máximo caudal de aire por la menor plata y no te molesta el formato clásico con llave de pared. No lo compres si buscás silencio para dormir o estética moderna: ahí los retráctiles con motor DC de nuestra guía juegan otro partido.`,
+    faq: [
+      { question: "¿El ventilador Liliana viene con luz?", answer: "Sí, trae 1 lámpara con interruptor independiente. Una advertencia de reseña: el repuesto de esa luz no es fácil de conseguir; un comprador le instaló directamente otra que ya tenía." },
+      { question: "¿Es verdad que hay que cambiar el soporte?", answer: "Es la recomendación más repetida en las reseñas: el soporte incluido es de mala calidad y uno aparte sale unos pocos miles de pesos. El ventilador en sí funciona muy bien." },
+      { question: "¿Es silencioso?", answer: "No del todo: las reseñas aclaran que el motor no se escucha, pero el flujo de aire sí. Para dormir con él en velocidad baja no suele molestar, pero no es un DC silencioso." },
+      { question: "¿Sirve para ambientes grandes o techos altos?", answer: "Sí, es su punto fuerte: 1,4 m de diámetro y palas metálicas. Una reseña lo usa con techo de 5 metros y reporta gran caudal de aire." },
+    ],
+  },
+  {
+    id: "MLA11828901",
+    title: "Ventilador Techo Axel Blanco 1 Luz 4 Palas Metal 5 Vel Diámetro 120 cm Frecuencia 50",
+    canonicalName: "Ventilador de Techo Axel AX-VT4PL (4 palas, con luz)",
+    price: 103999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_758507-MLA95710204038_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_758507-MLA95710204038_102025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA11828901",
+    affiliateUrl: "https://meli.la/19LHBrY",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 924,
+    ratingBreakdown: { five: "81.06%", four: "13.74%", three: "3.35%", two: "0.76%", one: "1.08%" },
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Axel" },
+      { label: "Modelo", value: "AX-VT4PL" },
+      { label: "Tipo", value: "Clásico de palas metálicas" },
+      { label: "Palas", value: "4, de metal" },
+      { label: "Velocidades", value: "5" },
+      { label: "Diámetro", value: "1,2 m" },
+      { label: "Con luz", value: "Sí, 1 lámpara con interruptor" },
+      { label: "Peso", value: "6,1 kg" },
+      { label: "Altura", value: "58 cm" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA17380375", "MLA44033885", "MLA57107638"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Ventilador de techo Axel de 4 palas metálicas con luz y 5 velocidades: el clásico silencioso en velocidades bajas, con casi 1.000 calificaciones. Dato útil de una reseña: la luz necesita un cable extra (3 cables en total, no 2) desde la llave de pared.",
+    seoTitle: "Ventilador de Techo Axel 4 Palas: ¿vale la pena?",
+    metaDescription: "Ventilador de techo Axel AX-VT4PL: 4 palas de metal, luz, 5 velocidades y casi 1.000 calificaciones. Precio real, pros, contras y veredicto.",
+    verdict: "El Axel de 4 palas sirve si querés un clásico con un escalón más de refinamiento que el Liliana: 4 palas, 5 velocidades para regular fino y reseñas que lo describen silencioso en velocidades bajas (\"un verdadero golazo, lo uso en velocidad 1-2 y es más que suficiente\"). No sirve si tu instalación eléctrica tiene solo 2 cables hasta el techo y no querés obra: la luz necesita un cable propio, avisa una reseña detallada.",
+    pros: [
+      "4 palas metálicas y 5 velocidades: más regulación fina que los clásicos de 3 velocidades",
+      "Silencioso en velocidades bajas, según reseñas (\"lo uso en velocidad 1-2 y es más que suficiente\")",
+      "Casi 1.000 calificaciones con 4.7",
+      "Luz incluida con interruptor independiente",
+    ],
+    cons: [
+      "La luz requiere un cable aparte: desde la llave de pared hasta el ventilador hacen falta 3 cables, no 2 (dato de una reseña de instalación)",
+      "Sin control remoto: se maneja con llave de pared",
+      "Diámetro de 1,2 m, más chico que el Liliana de 1,4 m",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Axel AX-VT4PL es un ventilador de techo clásico con mejoras puntuales: 4 palas metálicas en vez de 3, 5 velocidades para regular fino y luz con interruptor. Es el escalón intermedio entre el clásico básico y los retráctiles modernos.
+
+## Lo bueno
+
+Las 5 velocidades cambian el uso diario: las reseñas cuentan que en velocidad 1 o 2 alcanza para una habitación y el equipo trabaja casi en silencio ("un verdadero golazo, buen caudal de aire, silencioso"). Varias reseñas lo instalaron por su cuenta sin drama, y una de ellas dejó el dato que vale oro para cualquiera que compre un ventilador de techo con luz (ver abajo). Casi 1.000 calificaciones con 4.7 lo respaldan.
+
+## La contra real
+
+El dato eléctrico que casi nadie avisa: para que la luz funcione de forma independiente hacen falta 3 cables entre la llave de pared y el ventilador, no los 2 habituales. Si tu instalación vieja tiene solo 2, vas a necesitar pasar un cable extra o resignarte a manejar luz y ventilador juntos. Fuera de eso, no tiene control remoto y su diámetro de 1,2 m mueve algo menos de aire que el Liliana de 1,4 m.
+
+## Para quién sí y para quién no
+
+Compralo si querés un clásico serio para dormitorio o living, con regulación fina y funcionamiento silencioso en velocidades bajas. No lo compres si querés control remoto y luz regulable desde el sillón: eso es terreno de los retráctiles con LED.`,
+    faq: [
+      { question: "¿Qué necesito para instalar el Axel con luz independiente?", answer: "Tres cables entre la llave de pared y el ventilador (fase para el motor, fase para la luz y neutro), no los 2 habituales. Es el dato clave de una reseña de instalación: si tu pared tiene solo 2 cables, la luz y el motor van a prender juntos, o necesitás pasar un cable más." },
+      { question: "¿Es silencioso?", answer: "En velocidades bajas sí, según las reseñas: en velocidad 1-2 alcanza para una habitación y casi no se escucha. A velocidad máxima, como todo clásico de palas metálicas, se hace notar." },
+      { question: "¿Se puede instalar sin un electricista?", answer: "Varias reseñas lo instalaron por su cuenta \"con un poquito de maña\". Si no estás cómodo con electricidad, un instalador lo resuelve rápido; el punto de atención es el tercer cable para la luz." },
+      { question: "¿Qué diferencia tiene con el Liliana?", answer: "El Axel tiene 4 palas y 5 velocidades (regulación más fina, más silencioso en bajas); el Liliana tiene mayor diámetro (1,4 m contra 1,2 m) y precio menor. Para dormitorio, el Axel; para mover el máximo aire en ambientes grandes, el Liliana." },
+    ],
+  },
+  {
+    id: "MLA57107638",
+    title: "Ventilador De Techo Kent K3001 Industrial 1.2m Negro 3 Aspas Metal",
+    canonicalName: "Ventilador de Techo Industrial Kent K3001",
+    price: 112895,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_616295-MLA96099188159_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_616295-MLA96099188159_102025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA57107638",
+    affiliateUrl: "https://meli.la/2y2Eh9k",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 51,
+    ratingBreakdown: { five: "92.16%", four: "3.92%", three: "3.92%", two: "0%", one: "0%" },
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Kent" },
+      { label: "Línea", value: "Industrial" },
+      { label: "Modelo", value: "K3001" },
+      { label: "Tipo", value: "Industrial de aspas metálicas" },
+      { label: "Aspas", value: "3, de metal" },
+      { label: "Diámetro", value: "1,2 m" },
+      { label: "Velocidades", value: "3" },
+      { label: "Con luz", value: "No" },
+      { label: "Certificación eléctrica", value: "IQC S.A. (OCP)" },
+      { label: "Peso", value: "5 kg" },
+      { label: "Color", value: "Negro" },
+      { label: "Voltaje", value: "220 V" },
+    ],
+    relatedProducts: ["MLA17380375", "MLA11828901", "MLA43536904"],
+    priceUpdated: "2026-07-06",
+    priceLastChecked: "2026-07-06",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-06",
+    description: "Ventilador de techo industrial Kent K3001: aspas metálicas negras, certificación eléctrica argentina (IQC) y 4.9 sin ninguna calificación de 1 o 2 estrellas. Para galpones, quinchos y ambientes abiertos. Contra de reseña: no incluye el soporte para colgar.",
+    seoTitle: "Ventilador Industrial Kent K3001: ¿el del quincho?",
+    metaDescription: "Ventilador de techo industrial Kent K3001: aspas de metal, certificación IQC y 4.9 de calificación. Para galpón, quincho o taller. Pros y contras.",
+    verdict: "El Kent K3001 sirve si el destino es un quincho, galpón, taller o ambiente abierto: es el formato industrial (potencia y aspas de metal, sin luz ni adornos), con certificación eléctrica argentina y 4.9 sin ninguna calificación por debajo de 3 estrellas. No sirve si esperás que venga listo para colgar: una reseña avisa que el soporte se compra aparte, y su base de opiniones (51) es chica.",
+    pros: [
+      "Formato industrial: mueve aire en serio en ambientes abiertos, quinchos y galpones",
+      "Certificación de seguridad eléctrica argentina (IQC S.A.), poco común en esta categoría",
+      "4.9 de calificación, sin ninguna reseña de 1 o 2 estrellas",
+      "Estética negra sobria que las reseñas destacan (\"estética un 10\")",
+      "Útil contra insectos en espacios abiertos, según el uso real de una reseña",
+    ],
+    cons: [
+      "No incluye el soporte para colgar: hay que comprarlo aparte, avisa una reseña",
+      "Sin luz: es ventilación pura",
+      "Base de calificaciones chica (51), aunque impecable",
+      "Sin control remoto (llave de pared)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Kent K3001 es un ventilador de techo industrial: 3 aspas metálicas negras de 1,2 m, 3 velocidades y nada más. Sin luz, sin control remoto, sin plástico. Es el formato para quinchos, galpones, talleres y ambientes abiertos donde lo único que importa es mover mucho aire.
+
+## Lo bueno
+
+Hace una cosa y la hace bien: caudal. Una reseña lo usa en un ambiente abierto justamente para mover el aire y ahuyentar insectos, y le pone 10 a la estética y 10 a la velocidad. Tiene certificación de seguridad eléctrica argentina (IQC S.A.), un respaldo que pocos equipos de esta categoría declaran, y su desglose de calificaciones es impecable: 4.9, sin una sola opinión de 1 o 2 estrellas.
+
+## La contra real
+
+No viene con el soporte para colgar: el mismo comprador de la reseña tuvo que comprarlo aparte. Es un detalle menor en precio pero molesto si no lo sabés antes de la instalación. Su base de 51 calificaciones es chica comparada con los clásicos hogareños (aunque perfecta en calidad), y al ser ventilación pura, no esperes luz ni control remoto.
+
+## Para quién sí y para quién no
+
+Compralo para el quincho, el galpón o el taller: potencia bruta con certificación y estética sobria. No lo compres para un dormitorio o living donde quieras luz y silencio fino: para eso están los clásicos con luz o los retráctiles de nuestra guía.`,
+    faq: [
+      { question: "¿El Kent K3001 viene con soporte para colgar?", answer: "No, según una reseña hay que comprarlo aparte. Tenelo en cuenta antes del día de la instalación." },
+      { question: "¿Sirve para un dormitorio?", answer: "Puede, pero no es su rol: es un industrial sin luz pensado para quinchos, galpones y ambientes abiertos. Para dormitorio conviene un clásico con luz o un retráctil silencioso." },
+      { question: "¿Qué significa la certificación IQC?", answer: "Que pasó por un organismo de certificación de seguridad eléctrica argentino (IQC S.A.), un respaldo formal que pocos ventiladores de esta categoría declaran en su ficha." },
+      { question: "¿Por qué tiene pocas calificaciones?", answer: "Es un producto de nicho (industrial) con menos rotación que los hogareños. Su calidad de calificación compensa: 4.9 sin ninguna reseña de 1 o 2 estrellas." },
     ],
   },
 ];

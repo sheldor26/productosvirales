@@ -3,6 +3,17 @@
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
 > Última actualización: 2026-07-06 (guías nuevas: `camara-de-seguridad` [commiteada, push pendiente], `cargador-portatil` y `planchita-de-pelo` [sin commit]).
 
+## Sesión 06-jul (5) — Guía nueva: `ventilador-de-techo` (pilar climatización, STAGED)
+
+Disparador: siguiente keyword del research (33.100/mes, SD 13, estacional pico 74k nov-dic). Juan avisó que ya había fichas de ventiladores importadas y pidió SERP antes de arrancar. **SIN COMMIT: diff a la espera de OK.**
+
+1. **SERP validado:** 100% tiendas, DA 13-17 en posiciones 2-6, cero editorial → muy ganable.
+2. **Guía mixta (primera del tipo):** reutiliza 3 fichas retráctiles existentes con afiliado real (Etheos 2.052 reseñas, Peabody DC 4.9, Iluma DC) + 3 fichas nuevas por Chrome (Liliana VTHI513 clásico 2.056 reseñas, Axel 4 palas 924, Kent K3001 industrial 4.9 cert. IQC). El Novohome sin stock quedó afuera.
+3. **Eje editorial:** retráctil vs clásico vs industrial + motor AC vs DC. Contras de reseñas: soporte incluido malo, 3 cables para luz independiente, Liliana no silencioso. Enlazado con las 4 guías de climatización (`aire-acondicionado-portatil` staged linkea de vuelta; las publicadas no se tocaron para no enlazar a oculta).
+4. **Links de afiliado (cerrado):** los 3 nuevos aplicados el mismo día, sin rechazos (`1KwoBQf` Liliana, `19LHBrY` Axel, `2y2Eh9k` Kent). Los 6 picks con afiliado real. Guía 100% lista para publicar.
+5. **Verificación:** `tsc`, `eslint` y `check-price-tokens.cjs` (619 tokens, 231 productos) limpios. Build local de Juan como gate final.
+6. **Documentado** en seo-tracking y backlog (sección "Climatización — Ventiladores de techo").
+
 ## Sesión 06-jul (4) — Research de keywords 2da tanda + guía nueva: `planchita-de-pelo` (satélite cuidado-personal, STAGED)
 
 Disparador: con el research del xlsx agotado, Juan pidió validar keywords nuevas. **SIN COMMIT: diff a la espera de OK.**

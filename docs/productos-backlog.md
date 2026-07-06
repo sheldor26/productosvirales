@@ -275,6 +275,21 @@ Candidatos que quedaron afuera (munición para satélites futuros: powerbank sol
 
 Candidatos que quedaron afuera (munición para satélites futuros: por marca GA.MA / mini de viaje / con vapor): GA.MA Bella Delicate Tourmaline (MLA50368716, 1.293 reseñas, $41.298, 4.6 con 4,41% de 1★, redundante con la Red Ion), GA.MA Elegance Keration rosa (MLA44127060), GA.MA Elegance Chia (MLA44119727), BaByliss PRO 4083 (MLA44129826), Bellissima B26 100 placas anchas (MLA44868110, 4.9), minis de viaje para flequillo (MLA37692030/MLA20902827), Lizze Extreme brasilera (MLA61795408, 4.9, premium).
 
+## Climatización — Ventiladores de techo
+
+> Guía `ventilador-de-techo` (nuevo PILAR del silo `climatizacion`, STAGED 2026-07-06). Keyword del research nuevo: 33.100/mes, SD 13, estacional (pico 74.000 nov-dic; staged temprano para llegar indexada). SERP: 100% tiendas, con DA 13-17 rankeando en posiciones 2-6 (muy ganable). **Guía mixta:** reutiliza 3 fichas retráctiles ya existentes con afiliado real + 3 fichas nuevas de clásicos/industrial sourced por Chrome. Enlazado bidireccional con `aire-acondicionado-portatil` (staged). **Los 6 picks con afiliado real (los 3 nuevos aplicados 2026-07-06, sin rechazos).**
+
+| Producto | MLA ID | Marca | Reseñas | Precio | meli.la | Estado / ángulo futuro |
+| :-- | :-- | :-- | --: | --: | :-- | :-- |
+| Etheos retráctil 100W LED (ficha existente) | MLA44033885 | Etheos | 2052 | $158.559 | meli.la/2qxbftx | **usado** en `ventilador-de-techo` (#1, mejor elección general) |
+| Liliana VTHI513 3 palas metal | MLA17380375 | Liliana | 2056 | $91.990 | meli.la/1KwoBQf | **usado** en `ventilador-de-techo` (#2, el clásico económico) — NUEVA |
+| Axel AX-VT4PL 4 palas c/luz | MLA11828901 | Axel | 924 | $103.999 | meli.la/19LHBrY | **usado** en `ventilador-de-techo` (#3, clásico dormitorio) — NUEVA |
+| Peabody PE-VTRDC425B DC (ficha existente) | MLA43536904 | Peabody | 1160 | $599.999 | meli.la/1FFciXt | **usado** en `ventilador-de-techo` (#4, premium DC) |
+| Iluma Zenith DC (ficha existente) | MLA66266614 | Iluma | 58 | $164.116 | meli.la/2j5EPn1 | **usado** en `ventilador-de-techo` (#5, DC accesible) |
+| Kent K3001 industrial | MLA57107638 | Kent | 51 | $112.895 | meli.la/2y2Eh9k | **usado** en `ventilador-de-techo` (#6, quincho/galpón, cert. IQC) — NUEVA |
+
+Candidatos que quedaron afuera: Novohome NH-VTR (MLA54423759, ficha existente `deprioritized` sin stock, 1.548 reseñas — no se encontró variante viva confirmada), Martin & Martin Galponero B-52 (MLA27906784, 45 reseñas, $161.645, perdió contra el Kent por precio y certificación), Windstyle Aruba ABS (MLA64499841, 63 reseñas), Kanji retráctil (MLA40006222), Ambi O VR-03MB (MLA40006255) y demás retráctiles del listado (munición para satélite futuro "ventilador de techo retráctil" si la keyword lo amerita).
+
 ## Keywords validadas en reserva (research Ubersuggest 2026-07-06, AR)
 
 > Segunda tanda de research (la primera fue el xlsx de Juan, ya ejecutada completa). Validadas con `keyword_overview` (locId 2032 Argentina, es). Canibalización ya chequeada contra los slugs del sitio. **Elegida para ejecutar primero: `planchita de pelo`** (SERP hecho: 100% tiendas, cero editorial, hueco claro).
@@ -282,7 +297,7 @@ Candidatos que quedaron afuera (munición para satélites futuros: por marca GA.
 | Keyword | Vol/mes | SD | Intención | Nota |
 | :-- | --: | --: | :-- | :-- |
 | planchita de pelo | 18.100 | 11 | Comercial | **EJECUTADA 2026-07-06** (guía `planchita-de-pelo`, ver sección Cuidado Personal) |
-| ventilador de techo | 33.100 | 13 | Transaccional | Estacional (pico 74.000 nov-dic); staged temprano tipo aire portátil |
+| ventilador de techo | 33.100 | 13 | Transaccional | **EJECUTADA 2026-07-06** (guía `ventilador-de-techo`, ver sección Climatización) |
 | termo | 27.100 | 19 | Transaccional | Estable, categoría argentina pura; abre ecosistema mate (puente con `pava-electrica`) |
 | smartwatch | 40.500 | 31 | Transaccional | Mayor volumen; hermana del silo tech ("reloj inteligente" 14.800/SD 38 = variante, misma guía) |
 | tostadora | 12.100 | 12 | Transaccional | Cocina, fácil |

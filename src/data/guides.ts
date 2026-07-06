@@ -3102,6 +3102,7 @@ export const guides: Guide[] = [
       { question: `¿Cuál conviene si quiero deshumidificar además de enfriar?`, answer: `El [RCA AAPR12XP](https://meli.la/1GTgrki) suma funciones de deshumidificación y ventilación aparte del frío/calor, ideal si buscás un equipo más versátil.` },
     ],
     internalLinks: [
+      { label: "Ventilador de techo: cuál comprar", href: "/guias/climatizacion/ventilador-de-techo" },
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Caloventor: cuál comprar y qué mirar", href: "/guias/climatizacion/caloventor" },
@@ -18879,6 +18880,133 @@ export const guides: Guide[] = [
       { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
     ],
     internalLinksTitle: "Más de cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR ventilador-de-techo — silo climatizacion — STAGED
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "ventilador-de-techo",
+    category: "climatizacion",
+    silo: "climatizacion",
+    pillar: true,
+    title: `Ventilador de techo: cuál comprar en Argentina [2026]`,
+    seoTitle: `Ventilador de Techo: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué ventilador de techo comprar en Argentina: retráctil con luz, clásico de palas o industrial. Compará precios reales y elegí el tuyo.`,
+    ogTitle: `Ventilador de techo: cuál comprar en Argentina`,
+    ogDescription: `Retráctil con luz LED, clásico de palas metálicas o industrial para el quincho. Etheos, Liliana, Peabody, Axel y Kent comparados con precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp`,
+    h1: `Ventilador de techo: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-06",
+    hasDisclosure: true,
+    readingTime: 10,
+    standfirst: `Un ventilador de techo va de $92.000 (el clásico de palas metálicas) a $600.000 (el retráctil premium con motor DC). La decisión real es el formato: retráctil moderno con luz, clásico de caudal bruto o industrial para el quincho. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA44033885", label: "Mejor elección general", labelColor: "green", tagline: "Etheos retráctil: luz LED 3 tonos, control remoto y más de 2.000 opiniones" },
+      { productMlaId: "MLA17380375", label: "El clásico económico", labelColor: "slate", tagline: "Liliana VTHI513: palas de metal, 1,4 m de caudal bruto, el precio más bajo" },
+      { productMlaId: "MLA43536904", label: "Premium motor DC", labelColor: "purple", tagline: "Peabody DC: silencioso, bajo consumo y dimmer con memoria, 4.9 estrellas" },
+      { productMlaId: "MLA57107638", label: "Para quincho o galpón", labelColor: "amber", tagline: "Kent industrial: aspas de metal y certificación eléctrica, 4.9" },
+    ],
+    intro: [
+      `El ventilador de techo vive un renacimiento en Argentina: enfría un ambiente completo consumiendo **una fracción de lo que gasta un aire acondicionado**, y la generación nueva (retráctiles con luz LED y control remoto) ya no se parece en nada al de palas de la abuela. La decisión pasa por el formato: retráctil moderno, clásico de palas o industrial.`,
+      `En esta guía comparamos los ventiladores de techo más vendidos de MercadoLibre Argentina en los tres formatos, con las contras reales que cuentan los compradores: desde el soporte que conviene cambiar hasta el cable extra que necesita la luz.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp", alt: `Ventilador de techo Liliana de palas metálicas, el clásico argentino`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Etheos retráctil**: luz LED de 3 tonos, control remoto, 6 velocidades y el mayor respaldo de compradores entre los modernos. Si querés **caudal bruto al menor precio**, el clásico **Liliana VTHI513**. Para **dormitorio silencioso y bajo consumo**, el **Peabody con motor DC**. Y para el **quincho o galpón**, el **Kent industrial**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los ventiladores de techo con más ventas y opiniones reales en MercadoLibre Argentina, cubriendo los tres formatos del mercado: **retráctiles con luz** (la generación nueva), **clásicos de palas metálicas** y **industriales**. Los ordenamos por lo que define la compra: caudal, motor (AC o DC), luz, ruido y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un ventilador de techo`, id: "que-mirar" },
+      { type: "p", content: `Primero, el **formato**. El retráctil moderno esconde las aspas en un plafón con luz LED: estética de lámpara, control remoto y luz regulable, ideal para living y dormitorio. El clásico de **palas metálicas** mueve más aire por menos plata, con la estética de siempre. Y el **industrial** es caudal puro sin luz, para quinchos y galpones.` },
+      { type: "p", content: `Segundo, el **motor**: los AC clásicos son robustos y baratos; los **DC** (Peabody, Iluma) consumen menos de la mitad, son casi inaudibles en velocidades bajas y suelen sumar más velocidades. Tercero, dos detalles eléctricos que las reseñas repiten: el **soporte de techo** incluido suele ser flojo (comprar uno bueno sale monedas) y para manejar la **luz por separado** necesitás 3 cables hasta la llave de pared, no 2.` },
+
+      { type: "h2", title: `Los mejores ventiladores de techo 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Etheos retráctil 100W — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA44033885", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Retráctil con luz LED de 3 tonos, control remoto, 6 velocidades y aspas reversibles para invierno. 4.7 estrellas en más de 2.000 calificaciones.` },
+      { type: "p", content: `El retráctil con más respaldo del catálogo: las aspas acrílicas se despliegan al encenderlo y se esconden en el plafón al apagarlo, dejando una lámpara de techo prolija. Luz LED en 3 tonos (frío, cálido, neutro), control remoto, 6 velocidades y **aspas reversibles** para redistribuir el calor en invierno, a alrededor de $159.000.` },
+      { type: "p", content: `Con motor de bobinado de cobre y 100 W, es la síntesis de lo que el mercado argentino más compra hoy: luz + ventilación en un solo aparato de estética moderna.` },
+
+      { type: "h3", title: `2. Liliana VTHI513 — el clásico al mejor precio` },
+      { type: "product-card", productMlaId: "MLA17380375", label: "El clásico económico", labelColor: "slate", ranking: 2, description: `3 palas de metal, 1,4 m de diámetro (el mayor caudal de la guía) y luz, al precio más bajo. 4.6 estrellas en más de 2.000 calificaciones.` },
+      { type: "p", content: `El ventilador de techo argentino de toda la vida, de la marca nacional de siempre: palas metálicas de **1,4 metros** (el diámetro más grande de esta guía), luz con interruptor y caudal probado hasta en techos de 5 metros, según una reseña. A alrededor de $92.000, es la mayor cantidad de aire por peso invertido.` },
+      { type: "p", content: `Las contras honestas: el **soporte incluido es malo** (la recomendación repetida es comprar uno aparte, sale monedas), no es silencioso del todo y su desglose de calificaciones es el más flojo de la guía (75% de 5 estrellas).` },
+      { type: "pull-quote", content: `"Anda perfecto. Tira mucho aire y luz. Lo que sí: compren el soporte, el que viene con el ventilador no sirve. Pero es bueno el ventilador, no hace casi nada de ruido."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Axel 4 palas — el clásico para dormitorio` },
+      { type: "product-card", productMlaId: "MLA11828901", label: "Clásico con 5 velocidades", labelColor: "blue", ranking: 3, description: `4 palas de metal, 5 velocidades y luz. Silencioso en velocidades bajas, según reseñas. 4.7 estrellas en más de 900 calificaciones.` },
+      { type: "p", content: `El escalón intermedio entre el clásico básico y los retráctiles: sus **5 velocidades** permiten regular fino, y las reseñas coinciden en que en velocidad 1-2 alcanza para una habitación trabajando casi en silencio, a alrededor de $104.000.` },
+      { type: "p", content: `El dato que vale oro de una reseña de instalación: para manejar la luz por separado necesitás **3 cables** entre la llave de pared y el ventilador, no los 2 habituales. Vale para casi todo ventilador con luz de esta guía.` },
+      { type: "pull-quote", content: `"Un verdadero golazo: buen caudal de aire, silencioso. Lo uso en velocidad 1-2 y es más que suficiente para la habitación. Lo instalé yo mismo con un poquito de maña."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Peabody retráctil DC — el premium silencioso` },
+      { type: "product-card", productMlaId: "MLA43536904", label: "Premium motor DC", labelColor: "purple", ranking: 4, description: `Motor DC de 36 W (consume menos de la mitad que un AC), dimmer con memoria y modo convección para invierno. 4.9 estrellas en más de 1.100 calificaciones.` },
+      { type: "p", content: `El premium de la guía y el mejor calificado entre los grandes: su **motor DC de 36 W** consume una fracción de un ventilador común y es casi inaudible, con luz LED de 3 tonos con **dimmer y memoria**, 6 velocidades y modo convección electrónico para invierno. 4.9 en más de 1.100 calificaciones.` },
+      { type: "p", content: `Lo honesto: a alrededor de $600.000 cuesta como cuatro Liliana. Se justifica en dormitorios donde el silencio absoluto y el consumo mínimo importan, o si querés el equipo definitivo; para el resto, el Etheos da la experiencia retráctil por un cuarto del precio.` },
+
+      { type: "h3", title: `5. Iluma Zenith DC — motor DC accesible` },
+      { type: "product-card", productMlaId: "MLA66266614", label: "DC accesible", labelColor: "green", ranking: 5, description: `Motor DC silencioso y luz LED de 3 temperaturas por la mitad que el Peabody. 4.8 estrellas, aunque con base de opiniones chica (58).` },
+      { type: "p", content: `La forma accesible de tener **motor DC**: retráctil con 6 velocidades, aspas reversibles y LED en 3 temperaturas, a alrededor de $164.000, la mitad o menos que el Peabody. Para dormitorios, el DC marca la diferencia en ruido nocturno.` },
+      { type: "p", content: `Lo honesto: su base de 58 calificaciones es la más chica entre los retráctiles de la guía. Si preferís historial masivo, el Etheos; si querés DC probado, el Peabody.` },
+
+      { type: "h3", title: `6. Kent K3001 industrial — para el quincho` },
+      { type: "product-card", productMlaId: "MLA57107638", label: "Para quincho o galpón", labelColor: "amber", ranking: 6, description: `Industrial de aspas metálicas negras con certificación eléctrica IQC. 4.9 sin ninguna calificación de 1 o 2 estrellas, base chica (51).` },
+      { type: "p", content: `Para quinchos, galpones y talleres: aspas de metal, 3 velocidades, cero adornos y **certificación de seguridad eléctrica argentina** (IQC), algo que pocos declaran. Una reseña lo usa en un ambiente abierto para mover aire y ahuyentar insectos: 10 a la estética, 10 a la velocidad. Alrededor de $113.000.` },
+      { type: "p", content: `Avisos: **no incluye el soporte** para colgar (se compra aparte) y su base de 51 calificaciones es chica, aunque impecable: ni una sola opinión de 1 o 2 estrellas.` },
+
+      { type: "h2", title: `Tabla comparativa: formato, motor y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Luz`, `Ideal para`], rows: [
+        [`[Etheos retráctil](https://meli.la/2qxbftx)`, `{{precio:MLA44033885}}`, `Retráctil, motor AC`, `LED 3 tonos + remoto`, `Living y dormitorio, la compra segura`],
+        [`[Liliana VTHI513](https://meli.la/1KwoBQf)`, `{{precio:MLA17380375}}`, `Clásico 3 palas, 1,4 m`, `Sí, 1 lámpara`, `Máximo caudal, mínimo precio`],
+        [`[Axel 4 palas](https://meli.la/19LHBrY)`, `{{precio:MLA11828901}}`, `Clásico 4 palas, 5 vel.`, `Sí, 1 lámpara`, `Dormitorio en velocidades bajas`],
+        [`[Kent K3001](https://meli.la/2y2Eh9k)`, `{{precio:MLA57107638}}`, `Industrial`, `No`, `Quincho, galpón, taller`],
+        [`[Iluma Zenith DC](https://meli.la/2j5EPn1)`, `{{precio:MLA66266614}}`, `Retráctil, motor DC`, `LED 3 tonos + remoto`, `DC silencioso accesible`],
+        [`[Peabody DC](https://meli.la/1FFciXt)`, `{{precio:MLA43536904}}`, `Retráctil, motor DC`, `LED dimmer + memoria`, `El premium silencioso definitivo`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu ventilador de techo`, id: "como-elegir" },
+      { type: "h3", title: `1. El formato: retráctil, clásico o industrial` },
+      { type: "p", content: `El **retráctil** es lámpara y ventilador a la vez: estética moderna, luz LED regulable y control remoto, para living y dormitorio. El **clásico de palas metálicas** mueve más aire por menos plata (el Liliana de 1,4 m es imbatible en caudal por peso). El **industrial** es para espacios abiertos: quincho, galpón, taller.` },
+      { type: "h3", title: `2. El motor: AC o DC` },
+      { type: "p", content: `Los motores **AC** son el estándar: robustos y baratos. Los **DC** (Peabody, Iluma) consumen menos de la mitad, son casi inaudibles en velocidades bajas y suman más control fino. Si el ventilador va a un dormitorio y sos sensible al ruido, el DC vale la diferencia.` },
+      { type: "h3", title: `3. Los dos detalles eléctricos que nadie avisa` },
+      { type: "p", content: `Salen de las reseñas y se repiten entre marcas: primero, el **soporte de techo** incluido suele ser flojo (en el Liliana lo dicen sin filtro, y el Kent directamente no lo trae); comprar un soporte bueno sale monedas y evita sustos. Segundo, para prender la **luz por separado** del motor necesitás **3 cables** hasta la llave de pared; si tu instalación tiene 2, la luz y el ventilador van a encender juntos.` },
+      { type: "h3", title: `4. El consumo: la mitad de la historia` },
+      { type: "p", content: `Un ventilador de techo consume entre 35 W (motor DC) y 100 W: una fracción de lo que gasta cualquier aire acondicionado. Para noches de calor moderado alcanza solo; en olas de calor, combinarlo con el aire a temperatura más alta ahorra en serio. Si evaluás las dos cosas, mirá también nuestra guía de [aire acondicionado portátil](/guias/climatizacion/aire-acondicionado-portatil).` },
+      { type: "h3", title: `5. El modo invierno que casi nadie usa` },
+      { type: "p", content: `Los retráctiles de esta guía tienen **aspas reversibles**: girando al revés en velocidad baja, empujan hacia abajo el aire caliente que se acumula en el techo, repartiendo mejor la calefacción. Es gratis, viene en el control remoto y hace que el ventilador sirva todo el año.` },
+
+      { type: "h2", title: `Cuánto cuesta un ventilador de techo en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA17380375:k}} a {{precio:MLA11828901:k}}:** los clásicos de palas metálicas: el [Liliana](https://meli.la/1KwoBQf) (máximo caudal) y el [Axel](https://meli.la/19LHBrY) (5 velocidades, dormitorio).`,
+        `**Alrededor de {{precio:MLA57107638:k}}:** el [industrial Kent](https://meli.la/2y2Eh9k) para quincho o galpón, con certificación eléctrica.`,
+        `**Alrededor de {{precio:MLA44033885:k}} a {{precio:MLA66266614:k}}:** los retráctiles con luz LED: el [Etheos](https://meli.la/2qxbftx) (el más probado) y el [Iluma DC](https://meli.la/2j5EPn1) (motor silencioso).`,
+        `**Alrededor de {{precio:MLA43536904:k}}:** el premium: [Peabody retráctil DC](https://meli.la/1FFciXt) con dimmer, memoria y el mejor puntaje (4.9).`,
+        `**Sumá al presupuesto:** un soporte de techo decente (el incluido suele ser flojo) y, si querés luz independiente, verificá que lleguen 3 cables a la llave de pared.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál ventilador de techo comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Etheos retráctil**: luz LED de 3 tonos, control remoto y el mayor respaldo entre los modernos, a precio razonable. Si mandan el **caudal y el precio**, el clásico **Liliana VTHI513** (comprale un soporte decente). Para **dormitorio**, el **Axel** en velocidades bajas o, si podés invertir, los **DC silenciosos** (Iluma accesible, **Peabody** definitivo). Para el **quincho o galpón**, el **Kent industrial** certificado. Los errores a evitar: instalar con el soporte flojo que viene en la caja, y descubrir tarde que la luz independiente necesita un tercer cable.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor ventilador de techo en Argentina?`, answer: `Para la mayoría, el [Etheos retráctil](https://meli.la/2qxbftx): luz LED de 3 tonos, control remoto y más de 2.000 calificaciones. Si buscás caudal bruto al menor precio, el clásico [Liliana VTHI513](https://meli.la/1KwoBQf); el premium silencioso es el [Peabody con motor DC](https://meli.la/1FFciXt) (4.9 estrellas).` },
+      { question: `¿Qué es un ventilador de techo retráctil?`, answer: `Un ventilador cuyas aspas acrílicas se despliegan al encenderlo y se esconden dentro del plafón al apagarlo: apagado parece una lámpara de techo moderna. Suman luz LED regulable en tonos y control remoto. Son el formato que más creció en Argentina.` },
+      { question: `¿Cuánto consume un ventilador de techo?`, answer: `Entre 35 W (motor DC, como el Peabody) y unos 100 W (motor AC): una fracción de lo que consume un aire acondicionado. Es el electrodoméstico más barato de usar para refrescar un ambiente completo.` },
+      { question: `¿Qué diferencia hay entre motor AC y DC?`, answer: `El AC es el estándar: robusto y más barato. El DC consume menos de la mitad, es casi inaudible en velocidades bajas y permite más niveles de velocidad. Para dormitorios, el DC (como el [Iluma](https://meli.la/2j5EPn1) o el [Peabody](https://meli.la/1FFciXt)) vale la diferencia.` },
+      { question: `¿Sirve un ventilador de techo en invierno?`, answer: `Sí, si tiene aspas reversibles como los retráctiles de esta guía: girando al revés en velocidad baja, bajan el aire caliente acumulado en el techo y reparten mejor la calefacción. Combina bien con una [estufa eléctrica](/guias/climatizacion/estufas-electricas).` },
+      { question: `¿Necesito un electricista para instalarlo?`, answer: `Varias reseñas lo instalan por su cuenta "con un poquito de maña". Los dos puntos de atención: usar un soporte de techo firme (el incluido suele ser flojo) y, si querés manejar la luz por separado, que lleguen 3 cables a la llave de pared, no 2.` },
+      { question: `¿Ventilador de techo o aire acondicionado?`, answer: `No compiten: el ventilador consume 10 a 20 veces menos y alcanza para calor moderado; el aire enfría de verdad en olas de calor. La jugada eficiente es combinarlos: el aire a 25-26 grados y el ventilador repartiendo. Mirá también nuestra guía de [aire acondicionado portátil](/guias/climatizacion/aire-acondicionado-portatil).` },
+    ],
+    internalLinks: [
+      { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
+      { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
+      { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Caloventor: cuál comprar y qué mirar", href: "/guias/climatizacion/caloventor" },
+    ],
+    internalLinksTitle: "Más sobre climatización",
   },
 
 ];
