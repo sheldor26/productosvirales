@@ -145,14 +145,14 @@ export function ProductCard({ section }: ProductCardProps) {
             rel="sponsored nofollow noopener"
             data-cta-location="card-image"
             aria-label={`Ver ${product.title} en MercadoLibre`}
-            className="shrink-0 w-[100px] sm:w-[120px] flex items-center justify-center p-3"
+            className="shrink-0 w-[100px] sm:w-[120px] flex items-center justify-center p-2"
             style={{ backgroundColor: "var(--bg-secondary)" }}
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={product.image}
               alt={product.title}
-              className="w-full h-full max-h-[100px] object-contain"
+              className="w-full h-full object-contain"
               loading="lazy"
             />
           </a>
@@ -245,14 +245,14 @@ export function ProductCard({ section }: ProductCardProps) {
           rel="sponsored nofollow noopener"
           data-cta-location="card-image"
           aria-label={`Ver ${product.title} en MercadoLibre`}
-          className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-5"
+          className="shrink-0 md:w-[200px] aspect-square md:aspect-auto md:h-auto flex items-center justify-center p-3 md:p-5"
           style={{ backgroundColor: "var(--bg-secondary)" }}
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={product.image}
             alt={product.title}
-            className="w-full h-full max-h-[180px] object-contain"
+            className="w-full h-full object-contain md:max-h-[180px]"
             loading="lazy"
           />
         </a>
