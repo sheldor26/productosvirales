@@ -210,6 +210,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **mejores-freidoras-de-aire-argentina (2026-07-08):** primer paso del sprint de migración del cluster `freidoras-de-aire` (23 guías, 15 sin monetización detectadas en la auditoría original del 2026-07-07) al mismo template "embudo de conversión". El pillar ya tenía `product-card` y una lista de resumen rápido; se agregó `standfirst`, `quickPicks` (4, reusando los 3 productos ya rankeados como "las 3 que más recomiendo" + Gadnic como opción económica), `trust-block` de metodología, un `pull-quote` real (reseña verificada de MercadoLibre para la Atma FR248ABP, 3.224 calificaciones) y un `callout` con el tip de comprar 1L más de lo necesario. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**atma-vs-peabody-freidora-de-aire (2026-07-08):** segunda guía del sprint de freidoras. Tenía el bug de monetización más grave del sitio: 0 product-card/quickPick/link de afiliado en toda la guía, solo texto plano con precios muy desactualizados ($45.000-$70.000 escrito vs $137K-$290K real). Migrada al template completo (standfirst, quickPicks, resumen rápido, trust-block, 6 product-card reales en 3 pares Atma/Peabody, pull-quote, callout, tabla con "Ideal para"). `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
