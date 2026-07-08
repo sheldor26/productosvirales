@@ -7648,6 +7648,13 @@ export const guides: Guide[] = [
     publishedDate: "2026-05-30",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Comparamos las pavas con control de temperatura que se consiguen hoy en Argentina: quién tiene niveles mecánicos, quién preset digital y quién control continuo, con precios reales y cuál es la mejor compra.",
+    quickPicks: [
+      { productMlaId: "MLA19589519", label: "Mejor relación control-precio", labelColor: "green", tagline: "6 niveles de temperatura al mejor precio de la comparativa" },
+      { productMlaId: "MLA8933826", label: "Más económica", labelColor: "amber", tagline: "Función mate por menos de {{precio:MLA8933826:k}}" },
+      { productMlaId: "MLA47275624", label: "Mejor para mate exigente", labelColor: "blue", tagline: "Control continuo 40-100°, el rating más alto (4.9)" },
+      { productMlaId: "MLA14263533", label: "Mejor acero", labelColor: "purple", tagline: "Acero completo y 4 niveles de temperatura" },
+    ],
     intro: [
       "Comparamos siete pavas eléctricas con control de temperatura disponibles en Argentina. Los precios van de {{precio:MLA8933826}} a {{precio:MLA8993736}}. Algunas valen cada peso. Otras son caras sin razón.",
       "La [Atma PE1821NAP](https://meli.la/2uprqZS) a {{precio:MLA19589519}} sorprende: tiene 6 niveles de temperatura cuando los modelos de acero tienen solo 3 o 4. La [Peabody PE-DK1850](https://meli.la/2T7Y1zd), con 4 preset, sale {{preciodif:MLA14263533:MLA19589519}} más. Atma es la mejor compra si no te molesta el plástico.",
@@ -7655,40 +7662,72 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_651832-MLA99906441677_112025-F.webp", alt: "Atma PE1821NAP, la pava eléctrica con más niveles de temperatura por menos plata en Argentina", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**Mejor relación control-precio:** [Atma PE1821NAP](https://meli.la/2uprqZS) — 6 niveles de temperatura al mejor precio de la comparativa.",
+        "**Más económica:** [Liliana AP175B Mateando](https://meli.la/2qM28cx) — función mate por menos de {{precio:MLA8933826:k}}.",
+        "**Mejor para mate exigente:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, el rating más alto de la comparativa (4.9).",
+        "**Mejor acero:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — acero completo y 4 niveles de temperatura.",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos las pavas con control de temperatura disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos cuántos niveles de control real tiene cada una (no el marketing), si el material es plástico o acero, y qué dicen las calificaciones públicas de compradores reales. Los precios se revisan periódicamente." },
+
       { type: "h2", title: "Las siete opciones" },
       { type: "p", content: "Encontré siete modelos con control de temperatura en Argentina. Peabody y Liliana tienen dos cada una, Oster también dos, y hay uno de Atma. Cuatro son plástico, dos acero, y una híbrida. Los precios van de {{precio:MLA8933826}} a {{precio:MLA8993736}}." },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "¿Cuántos niveles necesitás en realidad?", content: "La mayoría usa 3-4 temperaturas: 50-60° para té blanco, 70° para té verde, 80° para mate, 100° para hervir. Más niveles que eso son un extra, no una necesidad — salvo que prepares infusiones muy específicas." },
+
+      { type: "h2", title: "El ranking: mejores pavas con control de temperatura", id: "ranking" },
+
+      { type: "h3", title: "1. Atma PE1821NAP — mejor relación control-precio" },
+      { type: "product-card", productMlaId: "MLA19589519", label: "Mejor relación control-precio", labelColor: "green", ranking: 1, description: "6 niveles de temperatura (50° a 100°), selector mecánico, 1.7L. Más control que ninguna otra pava de esta lista, con la base de opiniones más grande de la comparativa: 4.6 estrellas y 14.262 calificaciones." },
+      { type: "p", content: "Es la mejor compra para la mayoría. Tiene 6 niveles de temperatura: más que la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) con 4 preset, más que la [Oster 8970](https://meli.la/1jdC3sW) con 4 niveles, más que el [Oster 4970B](https://meli.la/31ihPzQ) con 3 niveles, y mucho más que la [Liliana AP175B](https://meli.la/2qM28cx) con 2 niveles. Y cuesta {{preciodif:MLA14263533:MLA19589519}} menos que la Peabody de acero." },
+      { type: "p", content: "Usé la Atma durante dos semanas. Los 6 niveles cubren prácticamente todo: té blanco a 50-60 grados, té verde a 70, mate a 80, té negro a 90, hervir a 100. No extrañé tener control digital o continuo. El selector mecánico funciona bien. Lo único que resigna frente a la Peabody: es plástico, no acero, y no tiene pantalla." },
+      { type: "pull-quote", content: "La pava está buena, lo que tiene que hacer es calentar el agua y eso es lo que hace calentar el agua [...] Se habla de que la perilla no funciona pero en realidad yo la probé y sí funciona, solo la están usando mal [...] Está buena la opción de que incluya filtro. Está buena la pava!", attribution: "— Comprador verificado en MercadoLibre, hace 1 año · 20 personas lo encontraron útil" },
+
+      { type: "h3", title: "2. Liliana AP175B Mateando — más económica" },
+      { type: "product-card", productMlaId: "MLA8933826", label: "Más económica", labelColor: "amber", ranking: 2, description: "Función mate con 2 niveles (80° mate / 100° hervir), 1.7L, filtro anti-sarro. La más barata de la lista con control real de temperatura: 4.6 estrellas y 5.489 calificaciones." },
+      { type: "p", content: "Si el presupuesto manda y solo necesitás la función mate básica (80° para cebar, 100° para hervir), la AP175B te ahorra {{preciodif:MLA8933826:MLA19589519}} frente a la Atma. Lo que resignás: solo 2 niveles, no 6 — no hay puntos intermedios para té verde o blanco." },
+
+      { type: "h3", title: "3. Peabody PE-DK2200N — control continuo" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Mejor para mate exigente", labelColor: "blue", ranking: 3, description: "Control continuo de 40 a 100°, elegís el grado exacto. 1.5L, mantiene el calor. El rating más alto de toda la comparativa: 4.9 estrellas." },
+      { type: "p", content: "Tiene control continuo de temperatura entre 40 y 100 grados: elegís cualquier número, no estás limitado a preset. ¿Querés 67 grados? Seleccionás 67. Esto tiene sentido si preparás infusiones muy específicas — té blanco japonés a 67°, oolong a 85°, café pour-over a 93°. Para la mayoría que toma mate a 80° y té verde a 70°, los niveles de la Atma o los preset de la Peabody DK1850 alcanzan igual." },
+
+      { type: "h3", title: "4. Peabody PE-DK1850 — mejor acero" },
+      { type: "product-card", productMlaId: "MLA14263533", label: "Mejor acero", labelColor: "purple", ranking: 4, description: "Acero inoxidable completo, 4 preset de temperatura (50°/70°/80°/100°), 1.7L, pantalla digital. 4.7 estrellas en 1.554 calificaciones." },
+      { type: "p", content: "Vale la pena si querés acero inoxidable completo en vez de plástico: son {{preciodif:MLA14263533:MLA19589519}} más que la Atma, pero tenés acero interior y exterior sin plástico en contacto con el agua. Si los 4 preset (50/70/80/100°) cubren tus necesidades, no necesitás los 6 niveles de la Atma." },
+
+      { type: "h3", title: "5. Liliana Safeheat AAP992N — la premium híbrida" },
+      { type: "product-card", productMlaId: "MLA54676373", label: "Premium", labelColor: "purple", ranking: 5, description: "7 niveles de temperatura, doble pared (interior acero, exterior plástico), mantiene caliente, pantalla digital. 4.8 estrellas, aunque con base de opiniones más chica (204)." },
+      { type: "p", content: "Es la que más niveles ofrece (7) y la única con doble pared de esta lista, así que se mantiene tibia por fuera aunque hierva adentro. Cuesta {{preciodif:MLA54676373:MLA19589519}} más que la Atma — se justifica si te importa la doble pared o si necesitás mantener el agua caliente por más tiempo sin volver a hervir." },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Las dos que no conviene comprar", content: "El [Oster 4970B](https://meli.la/31ihPzQ) ({{precio:MLA11145437}}) es plástico con solo 3 niveles; la Atma tiene 6 por bastante menos. El [Oster 8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}) hace básicamente lo mismo que la Peabody DK1850 por {{preciodif:MLA8993736:MLA14263533}} más: la diferencia es pura marca." },
+
+      { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["Modelo", "Precio", "Niveles", "Material", "Capacidad"],
+        headers: ["Modelo", "Precio", "Niveles", "Material", "Ideal para"],
         rows: [
-          ["[Liliana AP175B Mateando](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "2", "Plástico", "1.7 L"],
-          ["[Atma PE1821NAP](https://meli.la/2uprqZS)", "{{precio:MLA19589519}}", "6", "Plástico", "1.7 L"],
-          ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "4 preset", "Acero", "1.7 L"],
-          ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7", "Híbrida", "1.5 L"],
-          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Continuo", "Acero", "1.5 L"],
-          ["[Oster 4970B](https://meli.la/31ihPzQ)", "{{precio:MLA11145437}}", "3", "Plástico", "1.7 L"],
-          ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4", "Acero", "1.7 L"],
+          ["[Atma PE1821NAP](https://meli.la/2uprqZS)", "{{precio:MLA19589519}}", "6", "Plástico", "La mejor relación control-precio"],
+          ["[Liliana AP175B Mateando](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "2", "Plástico", "Empezar con mate sin gastar de más"],
+          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Continuo", "Acero", "Infusiones exactas (té/café de especialidad)"],
+          ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "4 preset", "Acero", "Acero sin pagar premium"],
+          ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7", "Híbrida", "Máximo control + mantener caliente"],
+          ["[Oster 4970B](https://meli.la/31ihPzQ)", "{{precio:MLA11145437}}", "3", "Plástico", "No recomendado: menos niveles que la Atma por más plata"],
+          ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4", "Acero", "No recomendado: igual que la Peabody DK1850 por más"],
         ],
       },
-      { type: "h2", title: "Por qué Atma PE1821NAP es la mejor compra" },
-      { type: "p", content: "La [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}} es la mejor compra para la mayoría. Tiene 6 niveles de temperatura: más que la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) con 4 preset, más que la [Oster 8970](https://meli.la/1jdC3sW) con 4 niveles, más que el [Oster 4970B](https://meli.la/31ihPzQ) con 3 niveles, y mucho más que la [Liliana AP175B](https://meli.la/2qM28cx) con 2 niveles." },
-      { type: "p", content: "Cuesta {{precio:MLA19589519}}, bastante menos que la [Peabody](https://meli.la/2T7Y1zd) de acero: {{preciodif:MLA14263533:MLA19589519}} menos por pasar de 4 preset a 6 niveles. Peabody tiene acero y pantalla digital, pero [Atma](https://meli.la/2uprqZS) da más control de temperatura por menos plata. Para mucha gente, eso importa más que el material." },
-      { type: "p", content: "Usé la [Atma](https://meli.la/2uprqZS) durante dos semanas. Los 6 niveles cubren prácticamente todo. Té blanco a 50-60 grados, té verde a 70 grados, mate a 80 grados, té negro a 90 grados, hervir a 100 grados. No extrañé tener control digital o continuo. El selector mecánico funciona bien." },
-      { type: "h2", title: "Peabody DK1850: cuándo vale la pena" },
-      { type: "p", content: "La [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} vale la pena en casos específicos. Si querés acero inoxidable completo en vez de plástico, son {{preciodif:MLA14263533:MLA19589519}} más que la Atma. Por esa diferencia tenés acero interior y exterior, sin plástico en contacto con agua." },
-      { type: "p", content: "Si los 4 preset de Peabody (50/70/80/100 grados) cubren tus necesidades, no necesitás los 6 niveles de Atma. La Peabody DK1850 sale {{preciodif:MLA14263533:MLA8993736}} menos que la [Oster 8970](https://meli.la/1jdC3sW): ambas tienen acero, varios niveles de temperatura y pantalla digital, así que hacen básicamente lo mismo por menos plata con Peabody." },
-      { type: "h2", title: "Peabody DK2200N: control continuo" },
-      { type: "p", content: "La [Peabody PE-DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}} tiene control continuo de temperatura entre 40 y 100 grados. Significa que elegís cualquier número. No estás limitado a preset. Querés 67 grados? Seleccionás 67. Querés 83 grados? Seleccionás 83." },
-      { type: "p", content: "Esto tiene sentido solo si preparás infusiones muy específicas. Té blanco japonés a 67 grados. Oolong taiwanés a 85 grados. Café pour-over a 93 grados. Para la mayoría que toma mate a 80 grados, té verde a 70 grados, y té blanco a 50 grados, los preset de [Atma](https://meli.la/2uprqZS) (6 niveles) o [Peabody DK1850](https://meli.la/2T7Y1zd) (4 preset) alcanzan. Tiene 1.5L vs 1.7L y función mantener caliente 2 horas (que gasta entre $180 y $240 por mes)." },
-      { type: "bad", content: "El [Oster 4970B](https://meli.la/31ihPzQ) ({{precio:MLA11145437}}) es plástico con solo 3 niveles; la [Atma](https://meli.la/2uprqZS) tiene 6 por bastante menos. La [Oster 8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}) hace básicamente lo mismo que la [Peabody DK1850](https://meli.la/2T7Y1zd) por {{preciodif:MLA8993736:MLA14263533}} más: la diferencia es pura marca." },
+
       { type: "h2", title: "Preset vs niveles vs continuo" },
       { type: "p", content: "Preset digital es lo que tiene la [Peabody DK1850](https://meli.la/2T7Y1zd): 4 botones (50°, 70°, 80°, 100°), apretás y el agua llega a esa temperatura exacta. Niveles mecánicos es lo que tiene la [Atma](https://meli.la/2uprqZS): dial con 6 posiciones, cada una corresponde a una temperatura aproximada, sin pantalla. Control continuo es lo que tiene la [Peabody DK2200N](https://meli.la/2cyQgD2): elegís cualquier número entre 40 y 100." },
       { type: "p", content: "Para la mayoría, preset digital o niveles mecánicos alcanzan. Las temperaturas estándar (50°/70°/80°/90°/100°) están en los preset de Peabody o niveles de Atma. Control continuo tiene sentido solo si preparás infusiones muy específicas." },
+
       { type: "h2", title: "Plástico vs acero: qué importa más" },
       { type: "p", content: "Cuatro modelos son plástico, dos acero, uno híbrido. La diferencia de precio entre plástico y acero ronda los $10.000 a $20.000. Acero dura más (3-4 años vs 2-3 años). Plástico no se rompe, pero toma olor después de 1-2 años. Podés limpiarlo con vinagre pero no desaparece completamente." },
       { type: "p", content: "La matemática, con los precios de hoy: plástico ({{precio:MLA8933826:k}}) dura 2-3 años, entre $15.300 y $22.950 por año. Acero ({{precio:MLA14263533:k}}) dura 3-4 años, entre $16.475 y $21.967 por año. La diferencia anual es chica, no se define solo por plata. Si tu presupuesto es ajustado, plástico funciona bien. Si querés algo que dure más y no tome olor, vale la pena el extra de acero." },
-      { type: "h2", title: "Recomendación final" },
-      { type: "p", content: "Comprá la [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}}. Tiene 6 niveles cuando la mayoría de las de acero tienen 3 o 4. ¿Querés acero? La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}}. ¿Necesitás control continuo? La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. No compres la [Oster 8970](https://meli.la/1jdC3sW): a {{precio:MLA8993736}} no da nada que las otras no den por menos." },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Para la mayoría, la [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}}: 6 niveles cuando la mayoría de las de acero tienen 3 o 4. ¿Presupuesto ajustado? La [Liliana AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. ¿Necesitás control continuo? La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. ¿Querés acero? La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}}. No compres ninguna de las dos Oster: a igual o más precio, no dan nada que las otras no den por menos." },
       { type: "p", content: "Si solo hervís agua sin control de temperatura, mirá la [guía de pava Atma](/guias/pava-electrica-atma): la [PEAT1351](https://meli.la/1TBSj3K) sale {{precio:MLA49747515}} y hace el mismo trabajo. Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
     ],
     faq: [
