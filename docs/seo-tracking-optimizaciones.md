@@ -234,6 +234,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **Auditoría de links/productos faltantes (2026-07-08):** a pedido de Juan, se cruzaron los 21 productos de freidora del catálogo contra los links `meli.la` usados en las 23 guías de la categoría (no solo las 15 del sprint). Resultado: cero links rotos (todos los `affiliateUrl` matchean). Se encontraron 2 guías fuera del alcance original que seguían en template viejo con un link plano (no las marcaba `guides:check` porque sí tenían camino de compra, solo que no era `product-card`): `atma-freidoras-de-aire-review` y `kanji-home-freidora-review`. Agregadas a la cola del sprint.
 
+**vale-la-pena-comprar-freidora-de-aire (2026-07-08):** duodécima guía del sprint de freidoras. Guía de decisión de compra sin producto a rankear. Hallazgo importante: precios hardcodeados muy por debajo del valor real ($50-80k, $60k, $45-55k vs. $65k-$290k reales) y 3 menciones a "Tefal", marca que no está en el catálogo. Precios pasados a tokens, Tefal reemplazado por marcas reales (Atma, Peabody, Gadnic). Migrada con quickPicks + trust-block de pricing + callout. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
