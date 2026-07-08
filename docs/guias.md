@@ -93,6 +93,7 @@ Salen de la auditoría CRO/UX/copy de jun 2026. Son obligatorias.
 - **quickPicks:** 1 card "win" (borde negro 2px + botón amarillo) + 3 cards con botón `.ghost`. Badges desaturados. Estrellas apagadas.
 - **product-card:** cinta de premio full-width (pastel desaturado) + estrellas apagadas + descripción **beneficio-first** + línea de prueba social `✓` + unidad `.buy` (precio grande + botón amarillo aislados) + "ver ficha y opiniones" debajo, gris.
 - **NORMA (Clarity 05-jul): la imagen y el título del producto SIEMPRE son links al `affiliateUrl`** (`rel="sponsored nofollow noopener"`, `target="_blank"`, `data-cta-location="card-image"` / `"card-title"`). Motivo: 11,7% de clics fallidos porque la gente toca foto/nombre esperando abrir el producto (hábito MercadoLibre/Instagram). Ya implementado en `ProductCard.tsx` (variantes default y compact); cualquier componente nuevo que muestre un producto con foto o nombre debe cumplirla.
+- **NORMA (auditoría 2026-07): en toda tabla comparativa (`type: "table"`) cuya primera columna sea un producto (header "Modelo"/"Producto"), el nombre en cada fila TIENE que ser un link markdown al afiliado** — `[Nombre del modelo](https://meli.la/...)`, nunca texto plano. La tabla ya soporta esto (`parseInlineLinks` en cada celda, agrega `rel="sponsored"` solo); es un problema de contenido, no de código. Motivo: se encontraron 18 guías con tablas de puro texto, sin un solo link — el lector no puede hacer clic en ningún lado. Lo valida `scripts/check-table-product-links.cjs` (parte de `npm run guides:check`).
 - **Estrellas:** fraccionadas, color `--star` (apagado). Relleno **`--p = rating/5×100%`** (4.6→92%, 4.9→98%). Siempre con el número al lado.
 - **Botón:** amarillo `#FFE600` + texto negro + sombra (`0 3px 10px rgba(180,150,0,.30)`) + borde sutil para recortar sobre blanco. Pill 24px. Flecha `→`.
 - **Botón secundario `.ghost`:** blanco, borde gris, texto negro. Sin amarillo.
@@ -106,6 +107,39 @@ Salen de la auditoría CRO/UX/copy de jun 2026. Son obligatorias.
 - Sin fotos de compradores.
 - **Pilares (anti-canibalización):** el pilar explica breve y delega a las hijas con ancla = keyword exacta; canónico self-referencing; `seoTitle` del pilar diferenciado.
 - **Productos:** solo en stock (no `deprioritized`). Si falta uno, importarlo (ver `fichas.md`), no inventarlo.
+
+### 6.1 Reglas OBLIGATORIAS (bloquean la publicación) — auditoría 2026-07
+
+Nacieron de una auditoría que encontró 18 guías publicadas sin ningún botón de
+compra (1.521 impresiones / 23 clicks en 28 días sin poder convertir un peso) y
+24 precios tipeados a mano ya desactualizados (hasta 35% por debajo del precio
+real). Antes de publicar o mergear cualquier guía nueva u optimizada, correr:
+
+```bash
+npm run guides:check
+```
+
+Este comando corre, en orden, y para en el primero que falle:
+
+1. **`check-price-tokens.cjs`** — todo `{{precio:ID}}` y `{{preciodif:A:B}}` tiene
+   que apuntar a un producto real con precio en `curated-products.ts`.
+2. **`check-stale-prose-prices.cjs`** — ningún precio tipeado a mano en la prosa
+   puede estar más de 3% desviado del precio actual del producto que menciona.
+   **Regla de escritura:** nunca tipear un precio absoluto a mano si el producto
+   tiene ficha — usar `{{precio:ID}}` (exacto, ideal en tablas/product-cards) o
+   `{{precio:ID:k}}` (redondeado, para prosa tipo "alrededor de $X"). Para
+   **claims comparativos** ("es $X más cara que...", "$X más barata") usar
+   `{{preciodif:ID_A:ID_B}}` (ver `src/lib/price-token.ts`) — nunca tipear la
+   diferencia a mano, se desactualiza en cuanto cambia CUALQUIERA de los dos
+   precios. Si el producto de comparación no tiene ficha propia en el catálogo
+   (una marca competidora solo mencionada, no vendida), no inventar un precio
+   exacto: usar un marco aproximado y no numérico ("bastante más cara", "en un
+   rango similar") en vez de un monto que nadie va a actualizar nunca.
+3. **`check-guide-monetization.cjs`** — toda guía tiene que tener al menos un
+   `product-card`, un `quickPicks`, o un link de afiliado/ficha real. Sin
+   excepciones: incluso una guía informativa ("cómo funciona", "ventajas y
+   desventajas") tiene que enlazar a la guía pilar o a una ficha concreta. Una
+   guía que rankea pero no tiene nada clickeable no genera ni un peso.
 
 ---
 
@@ -170,3 +204,4 @@ Salen de la auditoría CRO/UX/copy de jun 2026. Son obligatorias.
 - [ ] Pilar: anti-canibalización (delegar a hijas).
 - [ ] Solo productos en stock; si falta, importar (ver `fichas.md`).
 - [ ] `rel="sponsored nofollow noopener"` en afiliados; `npm run lint && npm run build` en verde.
+- [ ] **`npm run guides:check` en verde** (ver §6.1): tokens de precio válidos, sin precios hardcodeados stale, y al menos un camino de compra real. No negociable.

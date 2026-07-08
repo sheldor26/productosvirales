@@ -9,7 +9,8 @@
     "lint": "eslint",
     "prices:check": "node scripts/update-prices-from-ml.cjs --dry-run",
     "prices:update": "node scripts/update-prices-from-ml.cjs --apply",
-    "indexnow": "node scripts/indexnow.mjs"
+    "indexnow": "node scripts/indexnow.mjs",
+    "guides:check": "node scripts/check-price-tokens.cjs && node scripts/check-stale-prose-prices.cjs && node scripts/check-guide-monetization.cjs && node scripts/check-table-product-links.cjs"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
@@ -24,6 +25,8 @@
     "next": "16.2.3",
     "next-themes": "^0.4.6",
     "puppeteer": "^24.40.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "sharp": "^0.34.5"

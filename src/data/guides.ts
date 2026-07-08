@@ -32,7 +32,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "microondas",
-    category: "cocina",
+    category: "microondas",
     silo: "cocina",
     pillar: true,
     title: `Microondas: cuál comprar en Argentina [2026]`,
@@ -153,7 +153,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "horno-electrico",
-    category: "cocina",
+    category: "horno-electrico",
     silo: "cocina",
     pillar: true,
     title: `Horno eléctrico: cuál comprar en Argentina [2026]`,
@@ -274,7 +274,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "horno-electrico-vs-microondas",
-    category: "cocina",
+    category: "microondas",
     silo: "cocina",
     title: `Horno eléctrico vs microondas: cuál conviene [2026]`,
     seoTitle: `Horno Eléctrico vs Microondas: Cuál Conviene en 2026`,
@@ -352,7 +352,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "microondas-bgh",
-    category: "cocina",
+    category: "microondas",
     silo: "cocina",
     title: `Microondas BGH: cuál comprar en Argentina [2026]`,
     seoTitle: `Microondas BGH: Cuál Comprar en Argentina | Guía 2026`,
@@ -567,7 +567,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "microondas-atma",
-    category: "cocina",
+    category: "microondas",
     silo: "cocina",
     title: `Microondas Atma: cuál comprar en Argentina [2026]`,
     seoTitle: `Microondas Atma: Cuál Comprar en Argentina | Guía 2026`,
@@ -650,7 +650,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "horno-atma",
-    category: "cocina",
+    category: "horno-electrico",
     silo: "cocina",
     title: `Horno eléctrico Atma: cuál comprar en Argentina [2026]`,
     seoTitle: `Horno Eléctrico Atma: Cuál Comprar en Argentina 2026`,
@@ -800,7 +800,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Tabla comparativa: por material, peso y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Material`, `Soporta`, `Ideal para`], rows: [
         [`[Alpina FT-088](https://meli.la/1t2j7zH)`, `$143.550`, `Cuero sintético`, `Uso normal`, `La más vendida y barata`],
-        [`[Alpina PRE-FT055](https://meli.la/2CJ8LqU)`, `$155.856`, `Cuero sintético`, `Uso normal`, `Alternativa de valor`],
+        [`[Alpina PRE-FT055](https://meli.la/2CJ8LqU)`, `{{precio:MLA47084299}}`, `Cuero sintético`, `Uso normal`, `Alternativa de valor`],
         [`[Cougar Fusion EX](https://meli.la/1drE2G6)`, `$259.999`, `Tela (fresca)`, `Uso intensivo`, `No transpirar / verano`],
         [`[Cougar Armor Elite](https://meli.la/1Z2hdW6)`, `$379.999`, `Cuero PVC transpirable`, `Hasta 120 kg`, `Premium que dura`],
         [`[Corsair T3 Rush](https://meli.la/1fUDsKj)`, `$786.110`, `Tela (transpirable)`, `Uso intensivo`, `Premium de marca top`],
@@ -917,11 +917,11 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por conexión y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Ideal para`], rows: [
-        [`[Kotion Each G9000](https://meli.la/21XciT1)`, `$40.927`, `Con cable`, `El más vendido y barato`],
+        [`[Kotion Each G9000](https://meli.la/21XciT1)`, `{{precio:MLA9406415}}`, `Con cable`, `El más vendido y barato`],
         [`[Razer BlackShark V2 X](https://meli.la/1eMqyZ5)`, `$100.000`, `Con cable`, `Mejor sonido competitivo`],
         [`[HyperX Cloud](https://meli.la/2E5hHez)`, `$82.646`, `Con cable`, `Comodidad para muchas horas`],
         [`[Redragon Ire Pro](https://meli.la/1EmVgFD)`, `$83.999`, `Inalámbrico`, `Inalámbrico gastando poco`],
-        [`[Logitech G435](https://meli.la/1X17nvS)`, `$149.999`, `Inalámbrico`, `Inalámbrico accesible de marca`],
+        [`[Logitech G435](https://meli.la/1X17nvS)`, `{{precio:MLA18651915}}`, `Inalámbrico`, `Inalámbrico accesible de marca`],
         [`[Logitech G733](https://meli.la/1erBB4P)`, `$210.422`, `Inalámbrico`, `Premium inalámbrico`],
       ] },
 
@@ -1037,7 +1037,7 @@ export const guides: Guide[] = [
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Tamaño`, `Ideal para`], rows: [
         [`[Aula F75](https://meli.la/1MgoaV2)`, `$62.349`, `Mecánico (red)`, `75%`, `Mecánico silencioso del momento`],
         [`[Redragon Kumara K552](https://meli.la/1WJcMxC)`, `$62.799`, `Mecánico (ruidoso)`, `TKL`, `El más vendido (en español)`],
-        [`[HyperX Alloy Core](https://meli.la/21e4ujZ)`, `$63.999`, `Membrana`, `Full`, `Silencioso y económico, en español`],
+        [`[HyperX Alloy Core](https://meli.la/21e4ujZ)`, `{{precio:MLA14075573}}`, `Membrana`, `Full`, `Silencioso y económico, en español`],
         [`[Logitech G213](https://meli.la/11qvS6t)`, `$75.599`, `Membrana`, `Full`, `Resistente a líquidos`],
         [`[Redragon Horus K622](https://meli.la/19edjTZ)`, `$87.990`, `Mecánico (red)`, `TKL`, `Mecánico silencioso en español`],
         [`[Razer Huntsman Mini](https://meli.la/2cJvkJf)`, `$138.000`, `Mecánico óptico`, `60%`, `Premium competitivo`],
@@ -1158,9 +1158,9 @@ export const guides: Guide[] = [
       { type: "h2", title: `Tabla comparativa: sensor, peso, batería y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio desde`, `Conexión`, `Peso`, `Ideal para`], rows: [
         [`[Redragon M601 RGB](https://meli.la/2rXZqbu)`, `$26.500`, `Cable`, `85-104 g (pesas)`, `El más barato con respaldo`],
-        [`[Logitech G203](https://meli.la/2EEbq8S)`, `$38.599`, `Cable`, `85 g`, `El más vendido, compra segura`],
+        [`[Logitech G203](https://meli.la/2EEbq8S)`, `{{precio:MLA44849297}}`, `Cable`, `85 g`, `El más vendido, compra segura`],
         [`[Logitech G305](https://meli.la/1dDyCA3)`, `$56.099`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
-        [`[Logitech G309](https://meli.la/26ynmBo)`, `$73.399`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
+        [`[Logitech G309](https://meli.la/26ynmBo)`, `{{precio:MLA40568693}}`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
         [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `$140.923`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
         [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `$288.469`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
       ] },
@@ -1400,12 +1400,12 @@ export const guides: Guide[] = [
       { type: "h2", title: `Tabla comparativa: Hz, panel, resolución y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio desde`, `Hz`, `Panel / tamaño`, `Ideal para`], rows: [
         [`[Noblex 22"](https://meli.la/2AMGgvB)`, `$141.899`, `100`, `VA 22" FHD`, `El más barato con specs gamer`],
-        [`[Philips 24"](https://meli.la/2LPpSwK)`, `$159.099`, `75`, `VA 24" FHD`, `Uso mixto, el más vendido`],
-        [`[Noblex 27" IPS](https://meli.la/17HaY3a)`, `$223.199`, `100`, `IPS 27" FHD`, `Pantalla grande económica`],
+        [`[Philips 24"](https://meli.la/2LPpSwK)`, `{{precio:MLA43960948}}`, `75`, `VA 24" FHD`, `Uso mixto, el más vendido`],
+        [`[Noblex 27" IPS](https://meli.la/17HaY3a)`, `{{precio:MLA45717120}}`, `100`, `IPS 27" FHD`, `Pantalla grande económica`],
         [`[Samsung Odyssey G3](https://meli.la/2NmTqzr)`, `$244.361`, `180`, `VA 24" FHD`, `El mejor gaming por el precio`],
         [`[Samsung CRG5 curvo](https://meli.la/21rUoNn)`, `$365.999`, `144`, `VA 24" FHD curvo`, `El gaming más validado`],
         [`[Samsung G5 27" QHD](https://meli.la/11Frg3T)`, `$554.413`, `165`, `VA 27" QHD curvo`, `El salto de nitidez`],
-        [`[Xiaomi G34WQi 34"](https://meli.la/1MQkxTt)`, `$629.999`, `180`, `VA 34" UWQHD curvo`, `Ultrawide al mejor precio`],
+        [`[Xiaomi G34WQi 34"](https://meli.la/1MQkxTt)`, `{{precio:MLA43960787}}`, `180`, `VA 34" UWQHD curvo`, `Ultrawide al mejor precio`],
         [`[Gigabyte GS34WQC 34"](https://meli.la/2VotvC2)`, `$919.599`, `120-135`, `VA 34" UWQHD curvo`, `Ultrawide de marca gamer`],
       ] },
 
@@ -1901,7 +1901,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "parlantes",
-    category: "audio",
+    category: "parlantes",
     silo: "audio",
     pillar: true,
     title: `Parlantes bluetooth: cuál comprar en Argentina [2026]`,
@@ -2014,7 +2014,7 @@ export const guides: Guide[] = [
   // SATÉLITE parlante-jbl (silo audio)
   {
     slug: "parlante-jbl",
-    category: "audio",
+    category: "parlantes",
     silo: "audio",
     title: `Parlante JBL: cuál comprar en Argentina [2026]`,
     seoTitle: `Parlante JBL 2026: Cuál Comprar en Argentina`,
@@ -2115,7 +2115,7 @@ export const guides: Guide[] = [
   // SATÉLITE torre-de-sonido (silo audio)
   {
     slug: "torre-de-sonido",
-    category: "audio",
+    category: "parlantes",
     silo: "audio",
     title: `Torre de sonido: cuál comprar en Argentina [2026]`,
     seoTitle: `Torre de Sonido 2026: Cuál Comprar en Argentina`,
@@ -2202,7 +2202,7 @@ export const guides: Guide[] = [
   // SATÉLITE parlante-stromberg (silo audio)
   {
     slug: "parlante-stromberg",
-    category: "audio",
+    category: "parlantes",
     silo: "audio",
     title: `Parlante Stromberg: cuál comprar en Argentina [2026]`,
     seoTitle: `Parlante Stromberg 2026: Cuál Comprar en Argentina`,
@@ -2296,7 +2296,7 @@ export const guides: Guide[] = [
   // PILAR auriculares-inalambricos — silo audio (/guias/audio/...) — STAGED
   {
     slug: "auriculares-inalambricos",
-    category: "audio",
+    category: "auriculares",
     silo: "audio",
     pillar: true,
     title: `Auriculares inalámbricos: cuál comprar en Argentina [2026]`,
@@ -2413,7 +2413,7 @@ export const guides: Guide[] = [
   // SATÉLITE auriculares-jbl (silo audio) — STAGED
   {
     slug: "auriculares-jbl",
-    category: "audio",
+    category: "auriculares",
     silo: "audio",
     title: `Auriculares JBL: cuál comprar en Argentina [2026]`,
     seoTitle: `Auriculares JBL 2026: Cuál Comprar en Argentina`,
@@ -2501,7 +2501,7 @@ export const guides: Guide[] = [
   // SATÉLITE auriculares-deportivos (silo audio) — STAGED
   {
     slug: "auriculares-deportivos",
-    category: "audio",
+    category: "auriculares",
     silo: "audio",
     title: `Auriculares deportivos: cuál comprar en Argentina [2026]`,
     seoTitle: `Auriculares Deportivos 2026: Cuál Comprar Argentina`,
@@ -2587,7 +2587,7 @@ export const guides: Guide[] = [
   // SATÉLITE auriculares-profesionales (silo audio) — STAGED
   {
     slug: "auriculares-profesionales",
-    category: "audio",
+    category: "auriculares",
     silo: "audio",
     title: `Auriculares profesionales de estudio: cuál comprar [2026]`,
     seoTitle: `Auriculares Profesionales 2026: Cuál Comprar Argentina`,
@@ -2693,7 +2693,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "estufas-electricas",
-    category: "climatizacion",
+    category: "estufas-electricas",
     silo: "climatizacion",
     pillar: true,
     title: `Estufas eléctricas: cuál comprar en Argentina [2026]`,
@@ -2804,7 +2804,7 @@ export const guides: Guide[] = [
   // SATÉLITE estufa-electrica-bajo-consumo (silo climatizacion)
   {
     slug: "estufa-electrica-bajo-consumo",
-    category: "climatizacion",
+    category: "estufas-electricas",
     silo: "climatizacion",
     title: `Estufa eléctrica de bajo consumo: cuál gasta menos [2026]`,
     seoTitle: `Estufa Eléctrica Bajo Consumo: Cuál Gasta Menos`,
@@ -2894,7 +2894,7 @@ export const guides: Guide[] = [
   // SATÉLITE caloventor (silo climatizacion)
   {
     slug: "caloventor",
-    category: "climatizacion",
+    category: "estufas-electricas",
     silo: "climatizacion",
     title: `Caloventor: cuál comprar en Argentina [2026]`,
     seoTitle: `Caloventor 2026: Cuál Comprar en Argentina`,
@@ -2999,7 +2999,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "aire-acondicionado-portatil",
-    category: "climatizacion",
+    category: "aire-acondicionado",
     silo: "climatizacion",
     pillar: true,
     title: `Aire acondicionado portátil: cuál comprar en Argentina [2026]`,
@@ -3558,7 +3558,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$55.000 a $75.000:** la franja del mejor valor. Acá viven la [Atma Pro](https://meli.la/1s19WgR) (vidrio, ~$75.000) y la [Liliana AL310](https://meli.la/12cS1LU) con molinillo. La Atma es la compra inteligente.`,
         `**$100.000 a $150.000:** gama media-alta. La [Oster Classic](https://meli.la/1UhsB6r) de vidrio (durabilidad), la [Philips Pro Blend](https://meli.la/116UsZh) de 1.000 W (potencia) y la [Ninja Blast](https://meli.la/1CTc5Xx) portátil.`,
-        `**$300.000 o más:** premium. La [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W. Solo si la potencia máxima es prioridad y aceptás los contras reportados.`,
+        `**{{precio:MLA59377328}} o más:** premium. La [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W. Solo si la potencia máxima es prioridad y aceptás los contras reportados.`,
         `**Ojo con las de plástico muy baratas:** se manchan, toman olor y la jarra se raja. La Liliana AL310 lo muestra: motor bueno, pero reviews con jarras rotas al mes.`,
       ] },
 
@@ -3737,8 +3737,8 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una licuadora Oster en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $148.000:** la [Oster Classic](https://meli.la/1UhsB6r) de vidrio, la gama media-alta que recomendamos para la mayoría. Durabilidad sin sobreprecio.`,
-        `**$300.000 o más:** la [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W, premium. Solo si la potencia máxima es prioridad y aceptás los contras reportados.`,
+        `**Alrededor de {{precio:MLA17734241:k}}:** la [Oster Classic](https://meli.la/1UhsB6r) de vidrio, la gama media-alta que recomendamos para la mayoría. Durabilidad sin sobreprecio.`,
+        `**{{precio:MLA59377328}} o más:** la [Oster Xtreme](https://meli.la/1f25iob) de 1.500 W, premium. Solo si la potencia máxima es prioridad y aceptás los contras reportados.`,
         `**Si buscás vidrio más barato:** la [Atma Pro](https://meli.la/1s19WgR) a ~{{precio:MLA19693634:k}} da jarra de vidrio y 4.980 opiniones por la mitad de lo que sale una Oster de vidrio.`,
       ] },
 
@@ -3818,9 +3818,9 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta una licuadora Philips en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de $120.000:** la [Philips Pro Blend HR2260/90](https://meli.la/116UsZh) de 1.000 W, gama media-alta. Da casi todo lo de una premium por mucho menos.`,
+        `**Alrededor de {{precio:MLA50527370:k}}:** la [Philips Pro Blend HR2260/90](https://meli.la/116UsZh) de 1.000 W, gama media-alta. Da casi todo lo de una premium por mucho menos.`,
         `**Si querés gastar menos con vidrio:** la [Atma Pro](https://meli.la/1s19WgR) a ~{{precio:MLA19693634:k}}, menos potencia pero jarra de vidrio y la mayor base de opiniones.`,
-        `**Si priorizás durabilidad:** la [Oster Classic](https://meli.la/1UhsB6r) (~$148.000), encastre de metal y vidrio para que dure años.`,
+        `**Si priorizás durabilidad:** la [Oster Classic](https://meli.la/1UhsB6r) (~{{precio:MLA17734241:k}}), encastre de metal y vidrio para que dure años.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál licuadora Philips comprar`, id: "veredicto" },
@@ -3984,8 +3984,8 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuánto cuesta una licuadora Atma en Argentina [junio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA19693634:k}}:** la [Atma Pro LI8450AP](https://meli.la/1s19WgR) de vidrio, la mejor relación precio del catálogo. Es la franja del mejor valor.`,
-        `**Alrededor de $120.000:** si querés más potencia, la [Philips Pro Blend](https://meli.la/116UsZh) de 1.000 W con jarra grande.`,
-        `**Alrededor de $148.000:** si querés máxima durabilidad, la [Oster Classic](https://meli.la/1UhsB6r) de vidrio y encastre de metal para años.`,
+        `**Alrededor de {{precio:MLA50527370:k}}:** si querés más potencia, la [Philips Pro Blend](https://meli.la/116UsZh) de 1.000 W con jarra grande.`,
+        `**Alrededor de {{precio:MLA17734241:k}}:** si querés máxima durabilidad, la [Oster Classic](https://meli.la/1UhsB6r) de vidrio y encastre de metal para años.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál licuadora Atma comprar`, id: "veredicto" },
@@ -6217,7 +6217,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "[Philips](https://meli.la/2kpg1Zr) es $13.702 más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
+          "[Philips](https://meli.la/2kpg1Zr) es {{preciodif:MLA24601443:MLA8933826}} más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
       },
       { type: "h3", title: "vs Peabody PE-DK2200N ($69.433)" },
       {
@@ -6276,7 +6276,7 @@ export const guides: Guide[] = [
       {
         question: "¿Liliana es mejor que Atma?",
         answer:
-          "AP175B por $45.900 tiene función mate que [Atma](https://meli.la/1TBSj3K) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
+          "[AP175B](https://meli.la/2qM28cx) por $45.900 tiene función mate que [Atma](https://meli.la/1TBSj3K) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
       },
       {
         question: "¿Vale la pena la AP992B premium?",
@@ -6373,13 +6373,13 @@ export const guides: Guide[] = [
           ["Control", "4 preset (75/80/90/100°)", "Continuo 40-100°"],
           ["Mantener caliente", "30 minutos", "2 horas"],
           ["Potencia", "1850W", "2200W"],
-          ["Diferencia", "+$24.167", "—"],
+          ["Diferencia", "+{{preciodif:MLA8993736:MLA47275624}}", "—"],
         ],
       },
       {
         type: "p",
         content:
-          "[Peabody DK2200N](https://meli.la/2cyQgD2) tiene control continuo (elegís cualquier temperatura vs 4 preset limitados), mantiene caliente 4x más tiempo, hierve más rápido, y cuesta $24.167 menos. Oster 8970 no tiene ninguna ventaja.",
+          "[Peabody DK2200N](https://meli.la/2cyQgD2) tiene control continuo (elegís cualquier temperatura vs 4 preset limitados), mantiene caliente 4x más tiempo, hierve más rápido, y cuesta {{preciodif:MLA8993736:MLA47275624}} menos. Oster 8970 no tiene ninguna ventaja.",
       },
       { type: "h2", title: "Oster vs Liliana: diferencia de $17K" },
       {
@@ -7567,7 +7567,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Lo honesto: cuesta $20.000 más que el Cedro y tiene bastantes menos reseñas (1.320 contra 9.455), aunque su 4.7 sigue siendo muy bueno. Si tu molestia es puramente de cuello, el Cedro te ahorra plata y tiene más respaldo de opiniones. Pagás la diferencia solo si querés la cobertura lumbar.` },
 
       { type: "h3", title: `4. Gadnic Acacia — el asiento con shiatsu para toda la espalda` },
-      { type: "product-card", productMlaId: "MLA21263803", label: "Espalda completa", labelColor: "purple", ranking: 4, description: `Asiento premium con masaje shiatsu (nodos rotatorios), vibración y calor, del cuello a los glúteos. Sirve en auto, oficina y sofá. 4.7 estrellas en 282 calificaciones, ~$438.000.` },
+      { type: "product-card", productMlaId: "MLA21263803", label: "Espalda completa", labelColor: "purple", ranking: 4, description: `Asiento premium con masaje shiatsu (nodos rotatorios), vibración y calor, del cuello a los glúteos. Sirve en auto, oficina y sofá. 4.7 estrellas en 282 calificaciones, ~{{precio:MLA21263803:k}}.` },
       { type: "p", content: `El asiento premium de la línea, para quien quiere cubrir **toda la espalda de una vez** con presión real en lugar de apuntar solo al cuello. A diferencia del resto de la marca, no trabaja por simple vibración: suma **masaje shiatsu de nodos rotatorios**, más vibración localizada y calor, y va del cuello a los glúteos. Es ajustable y se adapta al auto, la oficina o el sofá.` },
       { type: "p", content: `Lo honesto, y por eso no está más arriba: es **con diferencia el más caro de la guía** (ronda los $438.000, más de 3x un cervical Gadnic). El 4.7 sobre 282 calificaciones lo respalda y el shiatsu lo justifica si querés cubrir toda la espalda, pero si tu molestia es puntual —cuello u hombros— un cervical de la misma marca resuelve por una fracción. Comparativa de asientos en la [guía de masajeador de espalda y cuello](/guias/masajeador-espalda-cuello).` },
 
@@ -7581,7 +7581,7 @@ export const guides: Guide[] = [
         [`[Gadnic Cedro](https://meli.la/21bCTeS)`, `{{precio:MLA18961711}}`, `Shiatsu + calor`, `Cuello, espalda alta`, `4.8 (9.455)`],
         [`[Gadnic Gunax](https://meli.la/16Cf8XR)`, `{{precio:MLA22138401}}`, `Pistola percusión`, `Músculos grandes`, `4.6 (187)`],
         [`[Gadnic 8 nodos lumbar](https://meli.la/1KvJsz4)`, `{{precio:MLA19043353}}`, `Shiatsu + vibración`, `Cuello y lumbar`, `4.7 (1.320)`],
-        [`[Gadnic Acacia asiento](https://meli.la/26bbbro)`, `~$438.000`, `Shiatsu + calor`, `Espalda completa`, `4.7 (282)`],
+        [`[Gadnic Acacia asiento](https://meli.la/26bbbro)`, `~{{precio:MLA21263803:k}}`, `Shiatsu + calor`, `Espalda completa`, `4.7 (282)`],
         [`[Gadnic Healthy Leg](https://meli.la/2J1FnpN)`, `{{precio:MLA24043083}}`, `Ejercitador piernas`, `Piernas, circulación`, `4.6 (689)`],
       ] },
 
@@ -7631,65 +7631,64 @@ export const guides: Guide[] = [
     title: "Pava eléctrica con control de temperatura: ¿cuál comprar en 2026?",
     seoTitle: "Pava Eléctrica con Control de Temperatura: ¿Cuál Comprar en 2026?",
     metaDescription:
-      "Comparamos 8 pavas con control de temperatura desde $45.900. Atma PE1821NAP con 6 niveles sale $45.904 y es mejor que modelos de $70K.",
+      "Comparamos 7 pavas con control de temperatura desde {{precio:MLA8933826:k}}. La Atma PE1821NAP con 6 niveles es la mejor compra calidad-precio.",
     ogTitle: "Pava Eléctrica con Control de Temperatura — Comparativa 2026",
     ogDescription:
-      "8 pavas con control de temperatura desde $45.900. Preset vs niveles vs continuo. La Atma PE1821NAP tiene 6 niveles y cuesta menos que modelos con 3.",
+      "7 pavas con control de temperatura, de plástico a acero. Preset vs niveles vs continuo. La Atma PE1821NAP tiene 6 niveles al mejor precio de la comparativa.",
     h1: "Pava Eléctrica con Control de Temperatura: ¿Cuál Comprar en 2026?",
     publishedDate: "2026-05-30",
-    updatedDate: "2026-05-30",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
     intro: [
-      "Pasé un mes probando ocho pavas eléctricas con control de temperatura. Los precios van de $45.900 a $93.600. Algunas valen cada peso. Otras son caras sin razón.",
-      "La Atma PE1821NAP a $45.904 me sorprendió. Tiene 6 niveles de temperatura cuando modelos de $70.000 tienen solo 3 o 4. Peabody PE-DK1850 con solo 4 preset sale $10.000 más. Atma es la mejor compra si no te molesta el plástico.",
-      "Los modelos arriba de $90.000 no los compres. Philips HD9368 a $92.878 y Oster 8970 a $93.600 no hacen nada que justifique el precio. Hay mejores opciones entre $45.000 y $70.000.",
+      "Comparamos siete pavas eléctricas con control de temperatura disponibles en Argentina. Los precios van de {{precio:MLA8933826}} a {{precio:MLA8993736}}. Algunas valen cada peso. Otras son caras sin razón.",
+      "La [Atma PE1821NAP](https://meli.la/2uprqZS) a {{precio:MLA19589519}} sorprende: tiene 6 niveles de temperatura cuando los modelos de acero tienen solo 3 o 4. La [Peabody PE-DK1850](https://meli.la/2T7Y1zd), con 4 preset, sale {{preciodif:MLA14263533:MLA19589519}} más. Atma es la mejor compra si no te molesta el plástico.",
+      "El modelo más caro de la comparativa es la [Oster 8970](https://meli.la/1jdC3sW), a {{precio:MLA8993736}}, y no hace nada que justifique el precio frente a las opciones de acero más baratas.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_608755-MLA99457405666_112025-F.webp", alt: "Philips HD9396 pava eléctrica con doble pared y control de temperatura", imageSize: "hero" },
-      { type: "h2", title: "Las ocho opciones" },
-      { type: "p", content: "Encontré ocho modelos con control de temperatura en Argentina. Peabody tiene tres, Liliana y Oster tienen dos cada una, y hay uno de Atma y uno de Philips. Cuatro son plástico, tres acero, y una híbrida. Los precios van de $44.599 hasta casi $100.000." },
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_651832-MLA99906441677_112025-R.webp", alt: "Atma PE1821NAP, la pava eléctrica con más niveles de temperatura por menos plata en Argentina", imageSize: "hero" },
+      { type: "h2", title: "Las siete opciones" },
+      { type: "p", content: "Encontré siete modelos con control de temperatura en Argentina. Peabody y Liliana tienen dos cada una, Oster también dos, y hay uno de Atma. Cuatro son plástico, dos acero, y una híbrida. Los precios van de {{precio:MLA8933826}} a {{precio:MLA8993736}}." },
       {
         type: "table",
         headers: ["Modelo", "Precio", "Niveles", "Material", "Capacidad"],
         rows: [
-          ["Liliana AP175B Mateando", "$45.900", "2", "Plástico", "1.7 L"],
-          ["Atma PE1821NAP", "$45.904", "6", "Plástico", "1.7 L"],
-          ["Peabody PE-DK1850", "$55.999", "4 preset", "Acero", "1.7 L"],
-          ["Liliana AP992B Safeheat", "$82.899", "7", "Híbrida", "1.5 L"],
-          ["Peabody PE-DK2200N", "$69.433", "Continuo", "Acero", "1.5 L"],
-          ["Oster 4970B", "$63.121", "3", "Plástico", "1.7 L"],
-          ["Philips HD9368/00", "$92.878", "No claro", "Plástico", "1.7 L"],
-          ["Oster 8970", "$93.600", "4", "Acero", "1.7 L"],
+          ["[Liliana AP175B Mateando](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "2", "Plástico", "1.7 L"],
+          ["[Atma PE1821NAP](https://meli.la/2uprqZS)", "{{precio:MLA19589519}}", "6", "Plástico", "1.7 L"],
+          ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "4 preset", "Acero", "1.7 L"],
+          ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7", "Híbrida", "1.5 L"],
+          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Continuo", "Acero", "1.5 L"],
+          ["[Oster 4970B](https://meli.la/31ihPzQ)", "{{precio:MLA11145437}}", "3", "Plástico", "1.7 L"],
+          ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4", "Acero", "1.7 L"],
         ],
       },
       { type: "h2", title: "Por qué Atma PE1821NAP es la mejor compra" },
-      { type: "p", content: "La Atma PE1821NAP por $45.904 es la mejor compra para la mayoría. Tiene 6 niveles de temperatura. Eso es más que Peabody DK1850 con 4 preset, más que Oster 8970 con 4 niveles, más que Oster 4970B con 3 niveles, y mucho más que Liliana AP175B con 2 niveles." },
-      { type: "p", content: "Cuesta $45.904. Es prácticamente el mismo precio que Liliana AP175B que tiene 2 niveles. Por la misma plata pasás de 2 niveles a 6 niveles. Obviamente vale la pena. Es $10.000 más barata que Peabody DK1850 — Peabody tiene acero y pantalla digital, pero Atma tiene 6 niveles vs 4 preset. Para mucha gente, tener más control de temperatura importa más que tener acero." },
+      { type: "p", content: "La [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}} es la mejor compra para la mayoría. Tiene 6 niveles de temperatura: más que la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) con 4 preset, más que la [Oster 8970](https://meli.la/1jdC3sW) con 4 niveles, más que el [Oster 4970B](https://meli.la/31ihPzQ) con 3 niveles, y mucho más que la [Liliana AP175B](https://meli.la/2qM28cx) con 2 niveles." },
+      { type: "p", content: "Cuesta {{precio:MLA19589519}}, bastante menos que la Peabody de acero: {{preciodif:MLA14263533:MLA19589519}} menos por pasar de 4 preset a 6 niveles. Peabody tiene acero y pantalla digital, pero Atma da más control de temperatura por menos plata. Para mucha gente, eso importa más que el material." },
       { type: "p", content: "Usé la Atma durante dos semanas. Los 6 niveles cubren prácticamente todo. Té blanco a 50-60 grados, té verde a 70 grados, mate a 80 grados, té negro a 90 grados, hervir a 100 grados. No extrañé tener control digital o continuo. El selector mecánico funciona bien." },
       { type: "h2", title: "Peabody DK1850: cuándo vale la pena" },
-      { type: "p", content: "Peabody PE-DK1850 por $55.999 vale la pena en casos específicos. Si querés acero inoxidable completo en vez de plástico, son $10.000 más que Atma. Por esa diferencia tenés acero interior y exterior, sin plástico en contacto con agua." },
-      { type: "p", content: "Si los 4 preset de Peabody (50/70/80/100 grados) cubren tus necesidades, no necesitás los 6 niveles de Atma. Los 4 preset están bien elegidos para las temperaturas más comunes. Peabody DK1850 es $37.601 más barata que Oster 8970 — ambas tienen acero, 4 niveles de temperatura, pantalla digital. Hacen exactamente lo mismo. Peabody cuesta $37.601 menos." },
+      { type: "p", content: "La [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} vale la pena en casos específicos. Si querés acero inoxidable completo en vez de plástico, son {{preciodif:MLA14263533:MLA19589519}} más que la Atma. Por esa diferencia tenés acero interior y exterior, sin plástico en contacto con agua." },
+      { type: "p", content: "Si los 4 preset de Peabody (50/70/80/100 grados) cubren tus necesidades, no necesitás los 6 niveles de Atma. La Peabody DK1850 sale {{preciodif:MLA14263533:MLA8993736}} menos que la [Oster 8970](https://meli.la/1jdC3sW): ambas tienen acero, varios niveles de temperatura y pantalla digital, así que hacen básicamente lo mismo por menos plata con Peabody." },
       { type: "h2", title: "Peabody DK2200N: control continuo" },
-      { type: "p", content: "Peabody PE-DK2200N por $69.433 tiene control continuo de temperatura entre 40 y 100 grados. Significa que elegís cualquier número. No estás limitado a preset. Querés 67 grados? Seleccionás 67. Querés 83 grados? Seleccionás 83." },
+      { type: "p", content: "La [Peabody PE-DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}} tiene control continuo de temperatura entre 40 y 100 grados. Significa que elegís cualquier número. No estás limitado a preset. Querés 67 grados? Seleccionás 67. Querés 83 grados? Seleccionás 83." },
       { type: "p", content: "Esto tiene sentido solo si preparás infusiones muy específicas. Té blanco japonés a 67 grados. Oolong taiwanés a 85 grados. Café pour-over a 93 grados. Para la mayoría que toma mate a 80 grados, té verde a 70 grados, y té blanco a 50 grados, los preset de Atma (6 niveles) o Peabody DK1850 (4 preset) alcanzan. Tiene 1.5L vs 1.7L y función mantener caliente 2 horas (que gasta entre $180 y $240 por mes)." },
-      { type: "bad", content: "Oster 4970B ($63.121) es plástico con solo 3 niveles. Atma tiene 6 por $45.904. No tiene sentido. Oster 8970 ($93.600) hace exactamente lo mismo que Peabody DK1850 por $37.601 más — diferencia pura marca. Philips HD9368 ($92.878) es $47.000 más cara que Atma con 6 niveles." },
+      { type: "bad", content: "El [Oster 4970B](https://meli.la/31ihPzQ) ({{precio:MLA11145437}}) es plástico con solo 3 niveles; la Atma tiene 6 por bastante menos. La [Oster 8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}) hace básicamente lo mismo que la Peabody DK1850 por {{preciodif:MLA8993736:MLA14263533}} más: la diferencia es pura marca." },
       { type: "h2", title: "Preset vs niveles vs continuo" },
-      { type: "p", content: "Preset digital es lo que tiene Peabody DK1850: 4 botones (50°, 70°, 80°, 100°), apretás y el agua llega a esa temperatura exacta. Niveles mecánicos es lo que tiene Atma: dial con 6 posiciones, cada una corresponde a una temperatura aproximada, sin pantalla. Control continuo es lo que tiene Peabody DK2200N: elegís cualquier número entre 40 y 100." },
+      { type: "p", content: "Preset digital es lo que tiene la [Peabody DK1850](https://meli.la/2T7Y1zd): 4 botones (50°, 70°, 80°, 100°), apretás y el agua llega a esa temperatura exacta. Niveles mecánicos es lo que tiene la [Atma](https://meli.la/2uprqZS): dial con 6 posiciones, cada una corresponde a una temperatura aproximada, sin pantalla. Control continuo es lo que tiene la [Peabody DK2200N](https://meli.la/2cyQgD2): elegís cualquier número entre 40 y 100." },
       { type: "p", content: "Para la mayoría, preset digital o niveles mecánicos alcanzan. Las temperaturas estándar (50°/70°/80°/90°/100°) están en los preset de Peabody o niveles de Atma. Control continuo tiene sentido solo si preparás infusiones muy específicas." },
       { type: "h2", title: "Plástico vs acero: qué importa más" },
-      { type: "p", content: "Cuatro modelos son plástico, tres acero, una híbrida. La diferencia de precio entre plástico y acero es entre $10.000 y $25.000 aproximadamente. Acero dura más (3-4 años vs 2-3 años). Plástico no se rompe, pero toma olor después de 1-2 años. Podés limpiarlo con vinagre pero no desaparece completamente." },
-      { type: "p", content: "La matemática es: plástico $45.000 dura 2-3 años = $15.000 a $22.500 por año. Acero $55.999 dura 3-4 años = $14.000 a $18.600 por año. Acero es un poco más económico a largo plazo pero no dramáticamente. Si tu presupuesto es ajustado, plástico funciona bien. Si querés algo que dure más y no tome olor, acero vale los $10.000 extra." },
+      { type: "p", content: "Cuatro modelos son plástico, dos acero, uno híbrido. La diferencia de precio entre plástico y acero ronda los $10.000 a $20.000. Acero dura más (3-4 años vs 2-3 años). Plástico no se rompe, pero toma olor después de 1-2 años. Podés limpiarlo con vinagre pero no desaparece completamente." },
+      { type: "p", content: "La matemática, con los precios de hoy: plástico ({{precio:MLA8933826:k}}) dura 2-3 años, entre $15.300 y $22.950 por año. Acero ({{precio:MLA14263533:k}}) dura 3-4 años, entre $16.475 y $21.967 por año. La diferencia anual es chica, no se define solo por plata. Si tu presupuesto es ajustado, plástico funciona bien. Si querés algo que dure más y no tome olor, vale la pena el extra de acero." },
       { type: "h2", title: "Recomendación final" },
-      { type: "p", content: "Comprá Atma PE1821NAP por $45.904. Tiene 6 niveles cuando modelos de $70.000 tienen 3. Funciona perfecto durante un mes de prueba. ¿Querés acero? Peabody DK1850 por $55.999. ¿Necesitás control continuo? Peabody DK2200N por $69.433. No compres nada arriba de $70.000 — Philips y Oster son ridículamente caras." },
-      { type: "p", content: "Si solo hervís agua sin control de temperatura, mirá la [guía de pava Atma](/guias/pava-electrica-atma) — la PEAT1351 sale $41.999 y hace el mismo trabajo. Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
+      { type: "p", content: "Comprá la [Atma PE1821NAP](https://meli.la/2uprqZS) por {{precio:MLA19589519}}. Tiene 6 niveles cuando la mayoría de las de acero tienen 3 o 4. ¿Querés acero? La [Peabody DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}}. ¿Necesitás control continuo? La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. No compres la [Oster 8970](https://meli.la/1jdC3sW): a {{precio:MLA8993736}} no da nada que las otras no den por menos." },
+      { type: "p", content: "Si solo hervís agua sin control de temperatura, mirá la [guía de pava Atma](/guias/pava-electrica-atma): la [PEAT1351](https://meli.la/1TBSj3K) sale {{precio:MLA49747515}} y hace el mismo trabajo. Si priorizás durabilidad sobre control, mirá la [guía de pava Philips](/guias/pava-electrica-philips). Y si querés una pava de [acero inoxidable sin control](/guias/pava-electrica-acero-inoxidable), esa es otra categoría." },
     ],
     faq: [
-      { question: "¿Por qué Atma es mejor que modelos más caros?", answer: "Atma tiene 6 niveles de temperatura por $45.904. Oster 4970B tiene 3 niveles por $63.121. Peabody DK1850 tiene 4 preset por $55.999. Atma tiene más control por menos plata. La única desventaja es material: plástico vs acero." },
-      { question: "¿Vale la pena pagar $10.000 más por acero?", answer: "Depende. Acero dura 3-4 años vs 2-3 años de plástico. Acero no toma olor. Pero plástico funciona bien durante 2-3 años. Si tu presupuesto es ajustado, plástico es buena opción. Si querés algo que dure más, acero vale los $10.000 extra." },
-      { question: "¿Cuántos niveles de temperatura necesito?", answer: "La mayoría usa 3-4 temperaturas: 50-60 grados para té blanco, 70 grados para té verde, 80 grados para mate, 100 grados para hervir. Seis niveles como Atma cubren todo. Dos niveles como Liliana AP175B son muy básicos. Control continuo como Peabody DK2200N es innecesario salvo que prepares infusiones muy específicas." },
-      { question: "¿Preset digital vs selector mecánico?", answer: "Preset digital (Peabody DK1850) muestra temperatura en pantalla y tenés botones para cada preset. Selector mecánico (Atma) girás un dial hasta la posición que querés sin pantalla. Ambos funcionan bien. Digital es más fancy pero mecánico es más simple y no falla." },
-      { question: "¿Control continuo es mejor que preset?", answer: "Solo si necesitás temperaturas muy específicas. Control continuo (Peabody DK2200N) te deja elegir cualquier número entre 40 y 100. Preset te limita a 4-6 temperaturas fijas. Para la mayoría, preset alcanza porque las temperaturas estándar (50/70/80/100) están incluidas." },
-      { question: "¿Por qué Oster es tan cara?", answer: "Marca. Oster cobra más por el nombre. Oster 8970 a $93.600 tiene lo mismo que Peabody DK1850 a $55.999: acero, 4 niveles, pantalla digital. La diferencia de $37.601 es solo marca." },
+      { question: "¿Por qué Atma es mejor que modelos más caros?", answer: "La [Atma](https://meli.la/2uprqZS) tiene 6 niveles de temperatura por {{precio:MLA19589519}}. El [Oster 4970B](https://meli.la/31ihPzQ) tiene 3 niveles por {{precio:MLA11145437}}. La [Peabody DK1850](https://meli.la/2T7Y1zd) tiene 4 preset por {{precio:MLA14263533}}. Atma tiene más control por menos plata. La única desventaja es material: plástico vs acero." },
+      { question: "¿Vale la pena pagar más por acero?", answer: "Depende. Acero dura 3-4 años vs 2-3 años de plástico y no toma olor. Pero el plástico funciona bien durante 2-3 años. Si tu presupuesto es ajustado, plástico es buena opción; si querés algo que dure más, el extra de acero se justifica." },
+      { question: "¿Cuántos niveles de temperatura necesito?", answer: "La mayoría usa 3-4 temperaturas: 50-60 grados para té blanco, 70 grados para té verde, 80 grados para mate, 100 grados para hervir. Seis niveles como la Atma cubren todo. Dos niveles como la [Liliana AP175B](https://meli.la/2qM28cx) son muy básicos. Control continuo como la [Peabody DK2200N](https://meli.la/2cyQgD2) es innecesario salvo que prepares infusiones muy específicas." },
+      { question: "¿Preset digital vs selector mecánico?", answer: "Preset digital ([Peabody DK1850](https://meli.la/2T7Y1zd)) muestra temperatura en pantalla y tenés botones para cada preset. Selector mecánico ([Atma](https://meli.la/2uprqZS)) girás un dial hasta la posición que querés sin pantalla. Ambos funcionan bien. Digital es más fancy pero mecánico es más simple y no falla." },
+      { question: "¿Control continuo es mejor que preset?", answer: "Solo si necesitás temperaturas muy específicas. Control continuo ([Peabody DK2200N](https://meli.la/2cyQgD2)) te deja elegir cualquier número entre 40 y 100. Preset te limita a 4-6 temperaturas fijas. Para la mayoría, preset alcanza porque las temperaturas estándar (50/70/80/100) están incluidas." },
+      { question: "¿Por qué Oster es tan cara?", answer: "Marca. La [Oster 8970](https://meli.la/1jdC3sW) a {{precio:MLA8993736}} tiene lo mismo que la [Peabody DK1850](https://meli.la/2T7Y1zd) a {{precio:MLA14263533}}: acero, varios niveles de temperatura, pantalla digital. La diferencia de {{preciodif:MLA8993736:MLA14263533}} es solo marca." },
       { question: "¿Cuánto dura una pava con control de temperatura?", answer: "Plástico: 2-3 años. Acero: 3-4 años. El control de temperatura puede fallar después de 2 años (termostato descalibrado, pantalla digital rota). Pero en general duran lo mismo que pavas sin control." },
     ],
     internalLinksTitle: "Relacionado",
@@ -14454,7 +14453,7 @@ export const guides: Guide[] = [
         type: "callout",
         calloutVariant: "tip",
         calloutTitle: "Truco para encontrar el perfume exacto que viste en TikTok",
-        content: "Si recordás el color y un detalle más (forma del frasco, edición especial, el creator que lo mostró, una nota olfativa que mencionó), googleá \"perfume árabe [color] [detalle]\" o buscá ese combo en MercadoLibre. Casi siempre aparece en los primeros resultados. Si no, las cuatro guías de nuestro cluster (mujer, hombre, amaderados, Yara) cubren entre los cuatro a los 50+ árabes más populares del país."
+        content: "Si recordás el color y un detalle más (forma del frasco, edición especial, el creator que lo mostró, una nota olfativa que mencionó), googleá \"perfume árabe [color] [detalle]\" o buscá ese combo en MercadoLibre. Casi siempre aparece en los primeros resultados. Si no, las cuatro guías de este grupo (mujer, hombre, amaderados, Yara) cubren entre los cuatro a los 50+ árabes más populares del país."
       },
       {
         type: "h2",
@@ -17180,7 +17179,7 @@ export const guides: Guide[] = [
         { question: `¿Cuál conviene si tengo mascotas que sueltan pelo?`, answer: `Para mascotas manda la succión y el cepillo. El [Xiaomi S40 Pro](https://meli.la/117oW5y) con 15.000 Pa es el más potente de las dos marcas. Ojo con el [Xiaomi S20](https://meli.la/18CB1Wa): su cepillo no tiene sistema anti-enredo, así que con pelo largo se enrosca y hay que limpiarlo seguido. Del lado Gadnic, el [AC800](https://meli.la/2UjN3FV) con 5.000 Pa y autovaciado también rinde bien.` },
         { question: `¿Cuál es más barata, Gadnic o Xiaomi?`, answer: `La entrada más barata es Gadnic con el [5 Modos](https://meli.la/2kRauwY) a {{precio:MLA45951645}}, pero navega por giroscopio sin guardar mapa. Si querés mapeo láser barato, el [Xiaomi S40c](https://meli.la/16WtjsG) a {{precio:MLA61420449}} es la opción más accesible con app en español. Y el [Gadnic AC800](https://meli.la/2UjN3FV) a {{precio:MLA62126950}} es el que más función te da por peso, sumando autovaciado.` },
         { question: `¿Tienen garantía y service en Argentina?`, answer: `Las dos las comprás por MercadoLibre, así que tu primera protección es la garantía de la plataforma y la reputación del vendedor. Xiaomi tiene además distribución de marca creciente en el país; Gadnic depende más del vendedor ante una falla. En cualquier caso, fijate que el vendedor tenga buena reputación y muchas ventas: ese dato te cubre más que el logo.` },
-        { question: `¿Vale la pena pagar el autovaciado del Gadnic AC800?`, answer: `Si te molesta vaciar el depósito a mano cada par de días, sí. La base del [AC800](https://meli.la/2UjN3FV) aspira sola el polvo del robot a una bolsa de 3.2 litros, así que no la tocás por semanas. Es una función que en Xiaomi no aparece en el S40c, S20 ni S40 Pro, y que en otras marcas se paga mucho más caro. Por unos $60.000 más que el S20, es un salto de comodidad real.` },
+        { question: `¿Vale la pena pagar el autovaciado del Gadnic AC800?`, answer: `Si te molesta vaciar el depósito a mano cada par de días, sí. La base del [AC800](https://meli.la/2UjN3FV) aspira sola el polvo del robot a una bolsa de 3.2 litros, así que no la tocás por semanas. Es una función que en Xiaomi no aparece en el S40c, S20 ni S40 Pro, y que en otras marcas se paga mucho más caro. Por unos {{preciodif:MLA62126950:MLA44714806}} más que el S20, es un salto de comodidad real.` },
       ],
       internalLinks: [
         { label: "Robot aspiradora: guía completa", href: "/guias/robot-aspiradora" },
@@ -17334,7 +17333,7 @@ export const guides: Guide[] = [
     readingTime: 12,
     standfirst: `Todo para elegir una cafetera express en Argentina sin gastar de más: ranking con precios reales de MercadoLibre, tabla comparativa, qué significan los bares de presión y cuál conviene según cuánto café tomás.`,
     quickPicks: [
-      { productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por menos de $200.000" },
+      { productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", tagline: "20 bares + cápsulas Nespresso por menos de {{precio:MLA18562154:k}}" },
       { productMlaId: "MLA23909880", label: "Mejor marca-precio", labelColor: "blue", tagline: "La Oster de entrada: espumador de leche con depósito" },
       { productMlaId: "MLA47077888", label: "Mejor con molinillo", labelColor: "purple", tagline: "Café recién molido sin pagar tope de gama" },
       { productMlaId: "MLA36409137", label: "Más barata", labelColor: "amber", tagline: "Espresso de 15 bares por {{precio:MLA36409137}}" },
@@ -17517,7 +17516,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**Alrededor de {{precio:MLA47077888:k}}:** la franja de entrada al molinillo integrado. La [Peabody PE-CE5010N](https://meli.la/2uKu8pv) semiautomática es la mejor relación precio de la categoría.`,
         `**$900.000 a $1.000.000:** automatización seria. La [Oster Perfect Brew](https://meli.la/2amGBqP) con corte automático y el mejor rating del catálogo (4.9).`,
-        `**Más de $1.000.000:** totalmente automática. La [Peabody PE-CE5023IX](https://meli.la/1n158eE) del grano a la taza, con tanque grande y doble termoblock.`,
+        `**Más de {{precio:MLA53370426}}:** totalmente automática. La [Peabody PE-CE5023IX](https://meli.la/1n158eE) del grano a la taza, con tanque grande y doble termoblock.`,
         `**Ojo con las "automáticas" muy baratas:** por debajo de los $300.000 casi ninguna trae molinillo de muelas real. Suele ser café molido con nombre rimbombante.`,
       ] },
 
@@ -17957,7 +17956,7 @@ export const guides: Guide[] = [
     faq: [
       { question: `¿Cuánto cuesta una cafetera Peabody en Argentina?`, answer: `En junio 2026, la [PE-CE5010N](https://meli.la/2uKu8pv) con molinillo integrado cuesta $520.336 y la [PE-CE5023IX](https://meli.la/1n158eE) totalmente automática, $981.818. Son los dos modelos express de la marca con stock y garantía en MercadoLibre Argentina.` },
       { question: `¿La Peabody PE-CE5010N hace buen espresso?`, answer: `Sí, con una condición: aprender a calibrar la molienda. Las reseñas coinciden en que los primeros cafés salen flojos hasta encontrar el punto (una compradora lo resume: "tengan paciencia al principio"), y de ahí en más la extracción sale bien. La bomba ULKA de 19 bares y el portafiltro de 58 mm son componentes de máquina seria, no de juguete.` },
-      { question: `¿Qué significa que la PE-CE5023IX sea totalmente automática?`, answer: `Que hace el ciclo completo sola: muele el grano, dosifica, extrae y corta sin que intervengas. En las semiautomáticas como la [PE-CE5010N](https://meli.la/2uKu8pv) vos cargás el portafiltro y manejás la extracción. Es la única totalmente automática de todo el catálogo que analizamos, y esa comodidad explica buena parte de sus $981.818.` },
+      { question: `¿Qué significa que la PE-CE5023IX sea totalmente automática?`, answer: `Que hace el ciclo completo sola: muele el grano, dosifica, extrae y corta sin que intervengas. En las semiautomáticas como la [PE-CE5010N](https://meli.la/2uKu8pv) vos cargás el portafiltro y manejás la extracción. Es la única totalmente automática de todo el catálogo que analizamos, y esa comodidad explica buena parte de sus {{precio:MLA47077888}}.` },
       { question: `¿La PE-CE5023IX necesita instalación eléctrica especial?`, answer: `Puede que sí. Usa ficha de alto amperaje y al menos una reseña verificada cuenta que tuvo que instalar una térmica dedicada y cableado exclusivo para usarla. Antes de comprarla, revisá que tu instalación soporte el consumo o sumá el costo del electricista a la cuenta.` },
       { question: `¿Conviene una Peabody o una Oster con molinillo?`, answer: `Si el presupuesto manda, la [Peabody PE-CE5010N](https://meli.la/2uKu8pv) a $520.336 es el molinillo integrado más barato. La [Oster Perfect Brew](https://meli.la/2amGBqP) a $838.899 suma corte automático de dosis, mejor rating (4.9 contra 4.6) y reputación de marca. Para el primer equipo con molinillo, la Peabody alcanza; para no pensar nunca más en la máquina, la Oster.` },
       { question: `¿Las cafeteras Peabody tienen respaldo en Argentina?`, answer: `Sí, Peabody es una marca de larga presencia local con service y repuestos en el país. Entre las reseñas de la [PE-CE5023IX](https://meli.la/1n158eE) hay incluso una que destaca el servicio postventa como "súper atento". Como siempre, comprá publicaciones nuevas con garantía oficial.` },
@@ -18271,7 +18270,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cafetera express: para quien disfruta el ritual`, id: "express" },
       { type: "p", content: `La express empuja agua a presión a través de café molido compactado: es el único de los tres sistemas que hace espresso de verdad, con crema, y el que logra el costo por taza más bajo usando café molido. A cambio pide aprendizaje y limpieza diaria. En la [guía completa de cafeteras express](/guias/cafetera-express) está el ranking entero; acá va la que recomendamos a la mayoría.` },
       { type: "product-card", productMlaId: "MLA18562154", label: "El mejor espresso económico", labelColor: "green", description: `Smartlife SL-EC8501: bomba de 20 bares, espumador a vapor y dos portafiltros (café molido o cápsulas Nespresso). 4.6 estrellas en 1.656 calificaciones por {{precio:MLA18562154}}.` },
-      { type: "p", content: `La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) resume por qué la express dejó de ser un lujo: 20 bares, espumador de leche y hasta cápsulas Nespresso de respaldo por menos de $200.000, con la base de opiniones más grande de la gama económica. Sus defectos están documentados y son de estreno: manual malo, un tapón de silicona escondido en el depósito y primeros cafés flojos hasta purgarla. Todo se resuelve el primer día.` },
+      { type: "p", content: `La [Smartlife SL-EC8501](https://meli.la/1QMpWAw) resume por qué la express dejó de ser un lujo: 20 bares, espumador de leche y hasta cápsulas Nespresso de respaldo por menos de {{precio:MLA18562154:k}}, con la base de opiniones más grande de la gama económica. Sus defectos están documentados y son de estreno: manual malo, un tapón de silicona escondido en el depósito y primeros cafés flojos hasta purgarla. Todo se resuelve el primer día.` },
       { type: "pull-quote", content: `"La compré para mi madre y no le tenía fe. Me sorprendió para bien. Es sencilla pero tiene todo."`, attribution: `Comprador verificado en MercadoLibre, febrero 2022` },
 
       { type: "h2", title: `Cafetera de cápsulas: para quien quiere café rico sin pensar`, id: "capsulas" },
@@ -18583,7 +18582,7 @@ export const guides: Guide[] = [
     standfirst: `Una cortadora de pelo corta longitud con peines guía, no afeita al ras como una máquina de afeitar. Acá comparamos las más elegidas de Argentina por motor, cantidad de peines y si van con cable o a batería, con precios de MercadoLibre y las contras que las fichas de venta no cuentan.`,
     quickPicks: [
       { productMlaId: "MLA21820129", label: "La más vendida", labelColor: "green", tagline: "Remington HC5850: kit de 15 piezas, 2.338 opiniones, 4.7 estrellas" },
-      { productMlaId: "MLA24162945", label: "La más económica", labelColor: "blue", tagline: "Kemei KM-1951: $24.240, inalámbrica, 4.9 estrellas" },
+      { productMlaId: "MLA24162945", label: "La más económica", labelColor: "blue", tagline: "Kemei KM-1951: {{precio:MLA24162945}}, inalámbrica, 4.9 estrellas" },
       { productMlaId: "MLA22272888", label: "La profesional", labelColor: "purple", tagline: "Wahl Magic Clip: motor rotativo, la preferida de los barberos, 4.8 estrellas" },
       { productMlaId: "MLA19606324", label: "La inalámbrica", labelColor: "amber", tagline: "Gadnic CP140: se carga por USB, cabezales lavables, 37 g" },
     ],
@@ -18920,7 +18919,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "ventilador-de-techo",
-    category: "climatizacion",
+    category: "ventiladores-de-techo",
     silo: "climatizacion",
     pillar: true,
     title: `Ventilador de techo: cuál comprar en Argentina [2026]`,

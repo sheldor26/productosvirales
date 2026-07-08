@@ -2,9 +2,10 @@
 /**
  * check-price-tokens.cjs
  *
- * Valida los tokens de precio en vivo ({{precio:MLA…}}) de las guías:
- * cada token tiene que apuntar a un producto que exista en curated-products.ts
- * y tenga precio. Si alguno está roto, sale con código 1 (para CI / pre-publish).
+ * Valida los tokens de precio en vivo ({{precio:MLA…}} y {{preciodif:A:B}}) de
+ * las guías: cada token tiene que apuntar a producto(s) que existan en
+ * curated-products.ts y tengan precio. Si alguno está roto, sale con código 1
+ * (para CI / pre-publish).
  *
  * Uso:  node scripts/check-price-tokens.cjs
  */
@@ -34,14 +35,30 @@ while ((tm = tokenRe.exec(guidesSrc)) !== null) {
   used.push(tm[1]);
 }
 
+// Tokens de diferencia {{preciodif:A:B}} — los dos IDs tienen que tener precio.
+const diffRe = /\{\{\s*preciodif:([A-Za-z0-9]+):([A-Za-z0-9]+)\s*\}\}/g;
+const usedPairs = [];
+let dm;
+while ((dm = diffRe.exec(guidesSrc)) !== null) {
+  usedPairs.push([dm[1], dm[2]]);
+}
+
 const broken = [...new Set(used)].filter((id) => !priced.has(id));
+const brokenPairs = usedPairs.filter(([a, b]) => !priced.has(a) || !priced.has(b));
 
 console.log(`Tokens de precio encontrados: ${used.length} (${new Set(used).size} productos distintos)`);
+console.log(`Tokens de diferencia encontrados: ${usedPairs.length}`);
 
-if (broken.length > 0) {
-  console.error(`\n✖ ${broken.length} token(s) apuntan a productos inexistentes o sin precio:`);
-  for (const id of broken) console.error(`   {{precio:${id}}}`);
-  console.error(`\nRevisá el ID o el producto en curated-products.ts.`);
+if (broken.length > 0 || brokenPairs.length > 0) {
+  if (broken.length > 0) {
+    console.error(`\n✖ ${broken.length} token(s) {{precio:ID}} apuntan a productos inexistentes o sin precio:`);
+    for (const id of broken) console.error(`   {{precio:${id}}}`);
+  }
+  if (brokenPairs.length > 0) {
+    console.error(`\n✖ ${brokenPairs.length} token(s) {{preciodif:A:B}} con algún ID inexistente o sin precio:`);
+    for (const [a, b] of brokenPairs) console.error(`   {{preciodif:${a}:${b}}}`);
+  }
+  console.error(`\nRevisá el/los ID en curated-products.ts.`);
   process.exit(1);
 }
 

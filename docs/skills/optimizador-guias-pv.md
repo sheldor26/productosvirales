@@ -144,6 +144,12 @@ Antes de entregar, auditar generando una lista de control interactiva con casill
 - [ ] Imágenes optimizadas (peso, alt, foto principal única)
 - [ ] Schema estructurado correcto: usar el tipo MÁS específico que aplique (Product, AggregateRating, Review, Offer; FAQPage para la FAQ; BreadcrumbList para la jerarquía del silo). Marcar solo contenido VISIBLE y relevante, sin spamear tipos. Habilita rich snippets y elegibilidad para citas en AIO.
 - [ ] Schema validado (validator.schema.org y Rich Results Test de Google) antes de publicar
+
+## Fase 3.5: guides:check (OBLIGATORIO, no negociable — ver docs/guias.md §6.1)
+- [ ] `npm run guides:check` corre en verde antes de publicar/mergear. Chequea:
+  - Todo `{{precio:ID}}` / `{{preciodif:A:B}}` apunta a un producto real con precio.
+  - Ningún precio hardcodeado en la prosa (tablas, product-cards, texto) está a más de 3% del precio actual. Escribir SIEMPRE `{{precio:ID}}` (o `:k` redondeado) en vez de tipear un monto; para claims comparativos ("$X más cara que...") usar `{{preciodif:ID_A:ID_B}}`, nunca un número a mano.
+  - La guía tiene al menos un `product-card`, `quickPicks`, o link de afiliado/ficha real — nació de encontrar 18 guías publicadas (1.521 impresiones/28 días) sin ningún botón de compra.
 ```
 
 **Advertencia explícita:** señalar cualquier riesgo crítico (ej.: necesidad de **redirección 301** por cambio de slug). Si hubo 301, sumar dos pasos de limpieza: actualizar los links internos que apuntaban al slug viejo para que apunten directo al nuevo (el 301 funciona igual, pero evita la latencia extra del salto), y sacar la URL vieja del sitemap reemplazándola por la nueva para que Google entienda la jerarquía actualizada.
