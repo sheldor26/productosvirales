@@ -224,6 +224,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **accesorios-para-freidora-de-aire (2026-07-08):** séptima guía del sprint de freidoras. Guía informativa (papel perforado, moldes, pinzas) sin producto propio a rankear. Migrada con quickPicks de cross-sell (Atma FR248ABP, Gadnic) + trust-block + callout. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**como-usar-una-freidora-de-aire (2026-07-08):** octava guía del sprint de freidoras. Guía de uso para principiantes, sin producto propio. Migrada con quickPicks de cross-sell + trust-block + callout. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
