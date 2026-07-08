@@ -51,12 +51,6 @@ jobs:
             exit 1
           fi
 
-          echo "--- DEBUG: lineas y primeros 3000 caracteres ---"
-          wc -l /tmp/trends.md
-          head -c 3000 /tmp/trends.md
-          echo ""
-          echo "--- DEBUG: fin ---"
-
           node scripts/detect-general-trends.cjs /tmp/trends.md
 
       - name: Abrir Pull Request si hubo reporte nuevo
