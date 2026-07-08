@@ -240,6 +240,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **gadnic-freidora-review (2026-07-08):** decimotercera guía del sprint. Review dedicada al producto confirmado sin stock (ver hallazgo arriba). Reescrita con callout prominente arriba, quickPicks apuntando a Philips NA120/00 (disponible) y Atma (más capacidad), precios pasados a tokens, cierre y FAQ ajustados para no decir "comprala ya". `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**oster-freidoras-de-aire-review (2026-07-08):** decimocuarta guía del sprint. Cero monetización previa (sin product-card ni link de afiliado, aunque el contenido cualitativo ya era sólido). Agregado standfirst + quickPicks (Oster Dual DiamondForce, Oster Digital con Ventana, ambos en stock) + trust-block + product-card + pull-quote real (verificada en vivo junto con el precio) + tabla "Ideal para" + veredicto + internalLinks (antes amontonados dentro de una respuesta de FAQ). `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
