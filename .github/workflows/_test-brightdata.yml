@@ -7,40 +7,42 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Probar endpoint legacy con el ID de run real (j_...)
+      - name: Disparar corrida chica (2 URLs) via /dca/trigger
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
         run: |
-          echo "--- Legacy: /dca/dataset?id=j_mrbd5syz2b3x4f4la2 ---"
-          curl -s -o /tmp/legacy.json -w "HTTP_STATUS:%{http_code}\n" \
-            "https://api.brightdata.com/dca/dataset?id=j_mrbd5syz2b3x4f4la2" \
-            -H "Authorization: Bearer $TOKEN"
-          echo "--- primeras 500 chars ---"
-          head -c 500 /tmp/legacy.json
+          echo "--- POST /dca/trigger?collector=c_mrbcvyc91n9lmqv6dt ---"
+          curl -s -o /tmp/trigger.json -w "HTTP_STATUS:%{http_code}\n" \
+            -X POST \
+            "https://api.brightdata.com/dca/trigger?collector=c_mrbcvyc91n9lmqv6dt" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '[{"url":"https://www.mercadolibre.com.ar/p/MLA63267892"},{"url":"https://www.mercadolibre.com.ar/p/MLA43961816"}]'
+          echo "--- respuesta ---"
+          cat /tmp/trigger.json
           echo ""
+          echo "collection_id=$(node -pe "JSON.parse(require('fs').readFileSync('/tmp/trigger.json','utf8')).collection_id || ''")" >> "$GITHUB_ENV"
 
-      - name: Probar listado de corridas del collector
+      - name: Poll /dca/dataset hasta que este listo (maximo ~3 min)
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
         run: |
-          for path in \
-            "https://api.brightdata.com/dca/get_collections?collector=c_mrbcvyc91n9lmqv6dt" \
-            "https://api.brightdata.com/dca/collections?collector=c_mrbcvyc91n9lmqv6dt" \
-            "https://api.brightdata.com/datasets/list"; do
-            echo "--- $path ---"
-            curl -s -o /tmp/x.json -w "HTTP_STATUS:%{http_code}\n" "$path" -H "Authorization: Bearer $TOKEN"
-            head -c 500 /tmp/x.json
+          echo "collection_id capturado: $collection_id"
+          if [ -z "$collection_id" ]; then
+            echo "No se obtuvo collection_id, no se puede pollear."
+            exit 0
+          fi
+          for i in $(seq 1 18); do
+            echo "--- intento $i ---"
+            status=$(curl -s -o /tmp/poll.json -w "%{http_code}" \
+              "https://api.brightdata.com/dca/dataset?id=$collection_id" \
+              -H "Authorization: Bearer $TOKEN")
+            echo "HTTP_STATUS:$status"
+            head -c 1000 /tmp/poll.json
             echo ""
+            if [ "$status" = "200" ]; then
+              echo "LISTO"
+              break
+            fi
+            sleep 10
           done
-
-      - name: Probar endpoint nuevo - snapshots por dataset_id
-        env:
-          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
-        run: |
-          echo "--- Nuevo: /datasets/v3/snapshots?dataset_id=c_mrbcvyc91n9lmqv6dt ---"
-          curl -s -o /tmp/v3.json -w "HTTP_STATUS:%{http_code}\n" \
-            "https://api.brightdata.com/datasets/v3/snapshots?dataset_id=c_mrbcvyc91n9lmqv6dt&status=ready&limit=5" \
-            -H "Authorization: Bearer $TOKEN"
-          echo "--- primeras 800 chars ---"
-          head -c 800 /tmp/v3.json
-          echo ""
