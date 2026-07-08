@@ -1,0 +1,44 @@
+name: TEMP - test Bright Data API
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probar endpoint legacy (dca/dataset)
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          echo "--- Legacy: /dca/dataset?id=c_mrbcvyc91n9lmqv6dt ---"
+          curl -s -o /tmp/legacy.json -w "HTTP_STATUS:%{http_code}\n" \
+            "https://api.brightdata.com/dca/dataset?id=c_mrbcvyc91n9lmqv6dt" \
+            -H "Authorization: Bearer $TOKEN"
+          echo "--- primeras 500 chars ---"
+          head -c 500 /tmp/legacy.json
+          echo ""
+
+      - name: Probar endpoint legacy - lista de collectors
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          echo "--- Legacy: /dca/datasets (lista) ---"
+          curl -s -o /tmp/list.json -w "HTTP_STATUS:%{http_code}\n" \
+            "https://api.brightdata.com/dca/datasets" \
+            -H "Authorization: Bearer $TOKEN"
+          echo "--- primeras 800 chars ---"
+          head -c 800 /tmp/list.json
+          echo ""
+
+      - name: Probar endpoint nuevo - snapshots por dataset_id
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          echo "--- Nuevo: /datasets/v3/snapshots?dataset_id=c_mrbcvyc91n9lmqv6dt ---"
+          curl -s -o /tmp/v3.json -w "HTTP_STATUS:%{http_code}\n" \
+            "https://api.brightdata.com/datasets/v3/snapshots?dataset_id=c_mrbcvyc91n9lmqv6dt&status=ready&limit=5" \
+            -H "Authorization: Bearer $TOKEN"
+          echo "--- primeras 800 chars ---"
+          head -c 800 /tmp/v3.json
+          echo ""
