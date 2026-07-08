@@ -228,6 +228,12 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **cuanto-consume-freidora-de-aire (2026-07-08):** novena guía del sprint de freidoras. Guía de cálculo de consumo eléctrico, contenido matemático ya sólido (tarifas Edenor/Edesur julio 2026). Solo faltaba standfirst + quickPicks + trust-block. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**freidora-de-aire-desventajas (2026-07-08):** décima guía del sprint de freidoras. Guía informativa (desventajas reales), sin producto propio. Migrada con quickPicks de cross-sell (Atma FR248ABP, Gadnic) + trust-block + callout nuevo en la sección de curva de aprendizaje. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
+**freidora-de-aire-vs-horno (2026-07-08):** undécima guía del sprint de freidoras. Guía comparativa (freidora vs horno), sin producto propio. Migrada con quickPicks de cross-sell + trust-block (citando la nota de consumo) + callout de decisión rápida. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
+**Auditoría de links/productos faltantes (2026-07-08):** a pedido de Juan, se cruzaron los 21 productos de freidora del catálogo contra los links `meli.la` usados en las 23 guías de la categoría (no solo las 15 del sprint). Resultado: cero links rotos (todos los `affiliateUrl` matchean). Se encontraron 2 guías fuera del alcance original que seguían en template viejo con un link plano (no las marcaba `guides:check` porque sí tenían camino de compra, solo que no era `product-card`): `atma-freidoras-de-aire-review` y `kanji-home-freidora-review`. Agregadas a la cola del sprint.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
