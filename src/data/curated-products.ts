@@ -23281,9 +23281,10 @@ Un HY300 con Android 11 que cumple de sobra para su precio, sobre todo a oscuras
     condition: 'new',
     freeShipping: false,
     rating: 4.7,
+    reviewCount: 3612,
     soldQuantity: 500,
     pastelColor: 'var(--pastel-coral)',
-    description: 'Pava eléctrica ATMA 1.8L con interior de acero inoxidable. Exterior plástico negro. 1500W, corte automático a 100°C, filtro extraíble, base giratoria 360°. Sin control de temperatura variable. Con indicador de agua iluminado LED azul. 4.7⭐ con 2.368 calificaciones.',
+    description: 'Pava eléctrica ATMA 1.8L con interior de acero inoxidable. Exterior plástico negro. 1500W, corte automático a 100°C, filtro extraíble, base giratoria 360°. Sin control de temperatura variable. Con indicador de agua iluminado LED azul. 4.7⭐ con 3.612 calificaciones.',
     pros: [
       '4.7⭐ con 2.368 calificaciones — el mayor volumen de reseñas del sitio',
       'Interior de acero inoxidable — agua sin sabor a plástico',
@@ -23910,7 +23911,7 @@ La [HD9350/90](/producto/MLA24601443) también es Philips y también tiene acero
     title: "Pava Eléctrica Atma Pe0821ap 1.7lts Blanco",
     metaDescription: "Pava eléctrica Atma simple y barata que hierve rápido y corta sola. No tiene función mate por temperatura: es solo para agua hervida.",
     brand: "Atma",
-    visibility: 'deprioritized',
+    visibility: 'normal',
     price: 34569,
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
@@ -46517,6 +46518,124 @@ Comprá el Logitech MK470 si valorás el silencio, la marca y usar el mismo setu
       { question: "¿Sirve para gaming competitivo?", answer: "No es lo ideal: el sensor del mouse es de 1.000 dpi, más básico que otros kits de esta guía. Es mejor para uso general, trabajo y gaming casual." },
       { question: "¿Por qué tiene tantas más calificaciones que los otros kits?", answer: "Es de una marca muy establecida (Logitech) con mucho tiempo en el mercado, lo que explica el respaldo de más de 6.900 calificaciones." },
     ],
+  },
+  {
+    id: "MLA74108173",
+    title: "Grand Theft Auto VI GTA VI Caja Física con Código de Descarga para PS5",
+    brand: "Rockstar Games",
+    price: 218847.09,
+    priceUpdated: "2026-07-08",
+    priceLastChecked: "2026-07-08",
+    priceStatus: "fresh",
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_673686-MLA112576921980_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_673686-MLA112576921980_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_874009-MLA113754417247_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_728152-MLA112576628674_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_935750-MLA113754447211_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_910319-MLA112576951752_062026-O.webp",
+    ],
+    category: "Gaming",
+    categorySlug: "gaming",
+    permalink: "https://www.mercadolibre.com.ar/grand-theft-auto-vi-gta-vi-caja-fisica-con-codigo-de-descarga-para-ps5/p/MLA74108173",
+    affiliateUrl: "https://meli.la/2pq9z3u",
+    condition: "new",
+    freeShipping: true,
+    badge: "trending",
+    seoTitle: "GTA VI edición física PS5: precio y qué trae la caja en Argentina",
+    metaDescription: "GTA VI edición física para PS5 en preventa: $218.847. Ojo, no trae disco: es un código de descarga. Fecha, bonus de preventa y todo lo que hay que saber.",
+    ogTitle: "GTA VI física para PS5: la caja no trae disco (y hay que saberlo antes de comprar)",
+    ogDescription: "Preventa oficial en MercadoLibre, vendida por la tienda oficial. Te explicamos qué es lo que realmente comprás, la polémica del disco, y si conviene reservarlo ya.",
+    h1: "GTA VI edición física para PS5: precio, fecha y qué trae realmente la caja",
+    articleBody: `## Qué es esta "edición física" (y qué NO es)
+
+Ojo con esto antes de gastar: la caja de esta edición **no trae un disco**. Rockstar confirmó que la versión física de GTA VI viene con un papel con un código para canjear y descargar el juego completo, igual que si lo comprases digital. No hay nada que instalar desde un disco.
+
+No es un detalle de esta publicación puntual: es así en todo el mundo, y generó bastante quilombo en la industria — cadenas como Video Game Plus y Loot Box Gaming en EE.UU. directamente se negaron a vender la "edición física" por no considerarla un juego físico de verdad. Rockstar lo hizo así por dos motivos: evitar que el disco se filtre antes del lanzamiento (pasó con entregas anteriores de la saga) y cortar la reventa de usados, que no le deja nada a la compañía.
+
+## Entonces, ¿para qué comprar la física?
+
+Tiene sentido en un solo caso: querés la caja de colección (la portada, el estuche, tenerlo en la estantería) y no te molesta que el juego en sí sea digital. Si lo que buscás es un disco que puedas prestar, revender de verdad o jugar sin depender de una cuenta, esta no es esa opción. Según cobertura de prensa especializada, **una versión con disco real llegaría recién después del lanzamiento**, no el día uno.
+
+## Fecha real: 12 de noviembre, pero el código se activa el 19
+
+Rockstar confirmó el lanzamiento para el 12 de noviembre de 2026. Pero atención al detalle que casi nadie lee: el código de descarga anticipada se activa desde el 12, y recién es **válido para jugar a partir del 19 de noviembre**. Es decir, podés precargar el juego una semana antes, pero no arranca antes que la fecha real de lanzamiento del contenido.
+
+## El bonus de preventa: Pack Vintage Vice City
+
+Reservando antes del 20 de noviembre de 2026 sumás el Pack Vintage Vice City, un set de objetos con estética retro dentro del juego. Viene incluido tanto en la Standard Edition como en la Ultimate, sin costo extra por reservar temprano.
+
+## De qué trata (sin spoilers)
+
+Es la primera entrega de GTA ambientada de nuevo en Vice City, ahora dentro del estado ficticio de Leonida. Los protagonistas son Jason y Lucía, atrapados en una conspiración criminal que se extiende por todo el estado. Es, según la propia Rockstar, "una experiencia de juego individual": no tiene modo multijugador integrado en esta edición.
+
+## Vendedor y confianza
+
+La publicación la vende la Tienda oficial de Mercado Libre (+100 mil ventas, MercadoLíder Platinum), no un revendedor: para un producto de este precio y en preventa, es la garantía más fuerte que vas a conseguir. Tenés devolución gratis 30 días y Compra Protegida si algo sale mal con la reserva.
+
+## Qué incluye la caja
+
+Estuche físico coleccionable con la portada oficial, un código para canjear la descarga completa del juego (válido desde el 19 de noviembre), y el Pack Vintage Vice City si reservás antes del 20 de noviembre. No incluye disco.`,
+    faq: [
+      { question: "¿GTA VI edición física trae disco?", answer: "No. La caja trae un código para canjear y descargar el juego completo, no un disco. Rockstar lo confirmó oficialmente para todas las regiones. Es la misma polémica que se dio a nivel mundial con esta edición." },
+      { question: "¿Por qué Rockstar no incluye disco?", answer: "Según cobertura de prensa especializada, para evitar filtraciones del juego antes del lanzamiento (pasó con entregas anteriores de la saga) y para no perder ventas frente al mercado de usados, que no le genera ingresos a la compañía." },
+      { question: "¿Cuándo puedo jugarlo si lo compro ahora?", answer: "El código permite precargar el juego desde el 12 de noviembre de 2026, pero recién se activa para jugar a partir del 19 de noviembre." },
+      { question: "¿Qué es el Pack Vintage Vice City?", answer: "Es el bonus de preventa: un set de objetos con estética retro dentro del juego, incluido sin costo extra si reservás antes del 20 de noviembre de 2026." },
+      { question: "¿GTA VI tiene multijugador?", answer: "Esta edición es, según Rockstar, una experiencia de juego individual. No tiene modo multijugador integrado." },
+      { question: "¿Va a salir una versión con disco de verdad?", answer: "Según prensa especializada, Rockstar tendría planeada una versión con disco físico más adelante, pero no para el lanzamiento del 12 de noviembre." },
+      { question: "¿Vale la pena reservarlo ya?", answer: "Si lo comprás para tener la caja de colección y no te molesta que el juego sea digital, sí: lo vende la tienda oficial de Mercado Libre, con devolución gratis y el bonus de preventa incluido. Si buscás un disco físico tradicional, convendría esperar." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Grand Theft Auto VI - Edición Física (PS5)",
+      description: "Edición física de Grand Theft Auto VI para PlayStation 5. La caja incluye un código de descarga (no un disco), válido para jugar desde el 19 de noviembre de 2026. Lanzamiento oficial: 12 de noviembre de 2026. Incluye el Pack Vintage Vice City si se reserva antes del 20 de noviembre.",
+      brand: { "@type": "Brand", name: "Rockstar Games" },
+      sku: "MLA74108173",
+      category: "Videojuegos",
+      image: "https://http2.mlstatic.com/D_NQ_NP_673686-MLA112576921980_062026-O.webp",
+      url: "https://productosvirales.com.ar/producto/MLA74108173",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "ARS",
+        price: "218847.09",
+        availability: "https://schema.org/PreOrder",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+        url: "https://meli.la/2pq9z3u",
+      },
+    },
+    specs: [
+      { label: "Plataforma", value: "PlayStation 5 (PS5)" },
+      { label: "Formato", value: "Caja física con código de descarga (sin disco)" },
+      { label: "Edición", value: "Standard Edition" },
+      { label: "Región", value: "LATAM" },
+      { label: "Clasificación", value: "US 17 (contenido para adultos)" },
+      { label: "Modo de juego", value: "Un solo jugador (sin multijugador integrado)" },
+      { label: "Lanzamiento", value: "12 de noviembre de 2026" },
+      { label: "Código válido para jugar desde", value: "19 de noviembre de 2026" },
+      { label: "Bonus de preventa", value: "Pack Vintage Vice City (reservando antes del 20 de noviembre de 2026)" },
+      { label: "Vendedor", value: "Tienda oficial de Mercado Libre (+100 mil ventas)" },
+      { label: "Cuotas", value: "Hasta 12 cuotas sin recargo" },
+      { label: "Garantía", value: "12 meses de fábrica + devolución gratis 30 días" },
+    ],
+    pros: [
+      "Vendido por la Tienda oficial de Mercado Libre (+100 mil ventas): máxima confianza para una preventa de este precio",
+      "Reservando antes del 20/11/2026 sumás gratis el Pack Vintage Vice City",
+      "Hasta 12 cuotas sin recargo con tarjetas seleccionadas",
+      "Devolución gratis 30 días y Compra Protegida si algo sale mal con la reserva",
+      "Fecha de lanzamiento (12 de noviembre) confirmada oficialmente por Rockstar",
+    ],
+    cons: [
+      "No trae disco: es un código de descarga, aunque la publicación diga 'formato físico' — la misma polémica que tuvo el lanzamiento a nivel mundial",
+      "El código recién funciona para jugar desde el 19 de noviembre, aunque el 'lanzamiento' sea el 12",
+      "Sin multijugador integrado en esta edición",
+      "Todavía no hay opiniones de compradores reales: es 100% preventa, nadie lo jugó aún",
+    ],
+    verdict: "Comprar esta 'edición física' es, en la práctica, comprar el juego digital con una caja de colección de regalo: no hay disco. Tiene sentido reservarlo si querés asegurar el precio y el Pack Vintage Vice City de un vendedor 100% confiable (la tienda oficial de Mercado Libre). Si lo que buscás es un disco físico tradicional para prestar o revender, esta no es esa edición — según la prensa especializada, esa versión llegaría recién después del lanzamiento del 12 de noviembre.",
+    bestOccasion: ["Fanáticos que quieren asegurar el pre-order con el bonus Vintage Vice City", "Coleccionistas que solo quieren la caja física, sabiendo que el juego es digital", "Compradores que prefieren pagar en cuotas antes que todo junto en la PS Store"],
+    notRecommendedFor: ["Quien busca un disco físico tradicional para prestar o revender", "Quien no reserva antes del 20 de noviembre y solo le interesa el bonus", "Quien prefiere esperar reseñas reales antes de gastar en preventa"],
+    description: "Grand Theft Auto VI es una experiencia de juego individual. Vice City, EE. UU. Jason y Lucía siempre han sabido que tienen todas las de perder, pero, cuando un golpe que parecía fácil sale mal, se ven atrapados en el lado más oscuro del lugar más soleado de EE. UU., en medio de una conspiración criminal que se extiende por todo el estado de Leonida. Este producto contendrá en la caja únicamente un código de descarga anticipada desde el 12 de noviembre. No se incluirá ningún disco. Código válido a partir del 19 de noviembre. Reserva para recibir el Pack Vintage Vice City.",
   },
   {
     id: "MLA61382173",

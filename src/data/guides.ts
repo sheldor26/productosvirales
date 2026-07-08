@@ -5267,136 +5267,102 @@ export const guides: Guide[] = [
     title: "Pava Atma: la mejor opción argentina calidad-precio",
     seoTitle: "Pava eléctrica Atma: guía completa y cuál modelo comprar",
     metaDescription:
-      "Atma tiene 15 modelos de pava. Uno solo tiene interior de acero ($42K), los demás son plástico. Cuál comprar, cuál evitar y por qué importa la diferencia.",
+      "Atma tiene varios modelos de pava. Uno solo tiene interior de acero, el resto son plástico completo. Cuál comprar, cuál evitar y por qué importa la diferencia.",
     ogTitle: "Pava eléctrica Atma: la mejor opción argentina calidad-precio",
     ogDescription:
-      "El modelo PEAT1351 es el que vale la pena. El PE0821AP no. Acá te explico por qué.",
+      "El modelo PEAT1351 es el que vale la pena. El PE0821AP no. Acá te explicamos por qué.",
     h1: "Pava eléctrica Atma: la mejor opción argentina calidad-precio",
     publishedDate: "2026-04-20",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Atma es la marca argentina más vendida de pavas eléctricas: service en todo el país y precio accesible. Te contamos cuál modelo vale la pena y cuál evitar.",
+    quickPicks: [
+      { productMlaId: "MLA49747515", label: "El modelo Atma recomendado", labelColor: "green", tagline: "Interior de acero, 1.8L, la más grande del catálogo" },
+      { productMlaId: "MLA24601443", label: "Si querés acero completo", labelColor: "blue", tagline: "Interior y exterior de acero, dura más" },
+      { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "purple", tagline: "Control continuo 40-100°" },
+      { productMlaId: "MLA61505857", label: "Alternativa económica con acero", labelColor: "amber", tagline: "Acero completo por menos" },
+    ],
     intro: [
       "Atma es argentina. Tiene servicio técnico en todo el país. Y cuesta bastante menos que una Philips.",
       "La pregunta que todos se hacen es: ¿será buena o es \"barata y mala\"?",
-      "Usé una Atma PEAT1351 durante dos meses. La llené de sarro a propósito para ver cómo aguantaba. La golpeé sin querer. Sigue funcionando. No es perfecta. Tiene sus problemas. Pero por $42.000 hace lo que tiene que hacer: hierve agua y el interior de acero no altera el sabor.",
+      "Usamos una Atma PEAT1351 durante dos meses. La llenamos de sarro a propósito para ver cómo aguantaba. Sigue funcionando. No es perfecta. Tiene sus problemas. Pero por {{precio:MLA49747515}} hace lo que tiene que hacer: hierve agua y el interior de acero no altera el sabor.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp", alt: "Atma PEAT1351, interior de acero inoxidable, el modelo Atma recomendado", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**El modelo Atma recomendado:** [Atma PEAT1351](https://meli.la/1TBSj3K) — interior de acero, 1.8L, la más grande del catálogo.",
+        "**Si querés acero completo:** [Philips HD9350](https://meli.la/2kpg1Zr) — interior y exterior de acero, dura más.",
+        "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo de 40 a 100°.",
+        "**Alternativa económica con acero:** [Liliana AP152](https://meli.la/1QMfKob) — acero completo por menos plata.",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos los modelos Atma disponibles hoy en MercadoLibre Argentina y los enfrentamos contra sus alternativas de otras marcas. Miramos si el interior es de acero o plástico (afecta directamente el sabor del agua), qué dicen las calificaciones públicas de compradores reales, y descartamos los modelos sin vendedores activos. Los precios se revisan periódicamente." },
+
       { type: "h2", title: "Por qué Atma es tan popular en Argentina" },
-      {
-        type: "p",
-        content:
-          "Atma vende más pavas eléctricas que cualquier otra marca argentina. Las razones: precio accesible (desde $25.000 hasta $45.000), servicio técnico local en casi todas las provincias, disponibilidad constante en cualquier casa de electrodomésticos, y conocimiento de marca — todo el mundo conoce Atma.",
-      },
-      { type: "h2", title: "El modelo que SÍ vale la pena: PEAT1351" },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-peat1351-principal.png",
-        alt: "Atma PEAT1351 — producto principal, exterior blanco con detalles turquesa",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Atma PEAT1351 (~$42.000) — MODELO RECOMENDADO",
-          paragraphs: [
-            "Interior acero inoxidable (no altera sabor del agua), exterior plástico negro, 1.8 litros (más que Philips), 1500W. Rating 4.7⭐ en MercadoLibre.",
-            "Lo bueno: agua sin sabor a plástico, 1.8L llenan dos termos, negra (no se nota suciedad), $17.603 más barata que Philips.",
-            "Lo malo: 1500W hierve un poco más lento (5-6 min vs 3-4), exterior sigue siendo plástico, no tiene control de temperatura.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
-        },
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-lifestyle-infusiones.png",
-        alt: "Atma PEAT1351 sirviendo agua para infusiones — capacidad 1.7 litros",
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-detalles-componentes.png",
-        alt: "Atma PEAT1351 detalles: filtro removible, interruptor, conector 360°",
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-mate-uso.png",
-        alt: "Atma PEAT1351 con mate — el agua caliente siempre lista para cebar",
-      },
-      { type: "h2", title: "Modelos Atma que NO recomiendo" },
-      {
-        type: "image",
-        src: "/guias/pavas/comparacion-atma-pe0821.png",
-        alt: "Atma PE0821AP — modelo de plástico completo que NO recomendamos",
-      },
-      {
-        type: "bad",
-        title: "Atma PE0821AP (~$33.000) — NO COMPRAR",
-        content:
-          "Plástico completo (interior y exterior). Toma olor y sabor con el tiempo. El agua hervida tiene gusto raro después de 6 meses. Por $9.000 más tenés interior de acero (PEAT1351). Único caso donde comprarla: si realmente no tenés más de $32.000 y necesitás una YA.",
-      },
-      {
-        type: "warning",
-        content:
-          "NUNCA recomendamos el modelo PE0821AP (plástico completo). SIEMPRE recomendamos el PEAT1351 (interior acero). La diferencia de $9.000 vale cada peso.",
-      },
-      { type: "h2", title: "Atma vs. Philips: ¿cuál comprar?" },
+      { type: "p", content: "Atma vende más pavas eléctricas que cualquier otra marca argentina. Las razones: precio accesible, servicio técnico local en casi todas las provincias, disponibilidad constante en cualquier casa de electrodomésticos, y conocimiento de marca — todo el mundo conoce Atma." },
+
+      { type: "h2", title: "El ranking: el modelo Atma y sus alternativas", id: "ranking" },
+
+      { type: "h3", title: "1. Atma PEAT1351 — el modelo Atma recomendado" },
+      { type: "product-card", productMlaId: "MLA49747515", label: "El modelo Atma recomendado", labelColor: "green", ranking: 1, description: "Interior acero inoxidable (no altera sabor del agua), exterior plástico negro, 1.8 litros, 1500W. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande del catálogo de pavas." },
+      { type: "p", content: "Lo bueno: agua sin sabor a plástico, 1.8L llenan dos termos, negra (no se nota suciedad), y cuesta {{preciodif:MLA24601443:MLA49747515}} menos que la Philips HD9350. Lo malo: 1500W hierve un poco más lento que las de 2200W, el exterior sigue siendo plástico, y no tiene control de temperatura." },
+      { type: "pull-quote", content: "El producto es muy bueno!! es una opción a buen precio que te ofrece otro material mejor que el plástico! lo único que le agregaria es corte para mate pero vas viendo y te das cuenta!! [...] pruebenlo y tomense unos ricos mates.", attribution: "— Compradora verificada en MercadoLibre, hace 7 meses · 155 personas lo encontraron útil" },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El modelo Atma que no recomendamos", content: "No compres el [Atma PE0821AP](https://meli.la/27qLeLL) ({{precio:MLA19589524}}): es de plástico completo (interior y exterior), así que después de 6-12 meses el agua hervida empieza a tener sabor raro. La PEAT1351 tiene interior de acero por apenas {{preciodif:MLA49747515:MLA19589524}} más." },
+
+      { type: "h3", title: "2. Philips HD9350 — si querés acero completo" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Acero completo", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo (interior y exterior), 1.7L, 2200W. 4.7 estrellas en 230 calificaciones." },
+      { type: "p", content: "Gana en velocidad de hervor (2200W vs 1500W) y durabilidad estimada (4-5 años vs 2-3), con construcción completamente de acero. Cuesta {{preciodif:MLA24601443:MLA49747515}} más que la Atma — vale la pena si priorizás que dure más años y no te importa pagar el extra." },
+
+      { type: "h3", title: "3. Peabody PE-DK2200N — si necesitás control de temperatura" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "purple", ranking: 3, description: "Acero completo, control continuo de temperatura de 40 a 100°, mantiene el calor. 4.9 estrellas, el rating más alto de la comparativa." },
+      { type: "p", content: "Ninguna Atma tiene control de temperatura real. Si necesitás elegir el grado exacto para mate, té verde o café de especialidad, esta es la opción — no una Atma." },
+
+      { type: "h3", title: "4. Liliana AP152 — alternativa económica con acero" },
+      { type: "product-card", productMlaId: "MLA61505857", label: "Acero económico", labelColor: "amber", ranking: 4, description: "Acero inoxidable completo, 1.7L, selector mate fijo, base giratoria 360°. 4.7 estrellas en 529 calificaciones." },
+      { type: "p", content: "Es acero completo (no solo interior, como la Atma) por {{preciodif:MLA49747515:MLA61505857}} menos. Tiene menos capacidad (1.7L vs 1.8L) y un selector mate fijo en vez de niveles, pero si el presupuesto manda, es la de acero más barata del mercado." },
+
+      { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["Característica", "Atma PEAT1351", "Philips HD9350"],
+        headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
-          ["Precio", "$41.999", "$59.602"],
-          ["Capacidad", "1.8L", "1.7L"],
-          ["Material interior", "Acero inox", "Acero inox"],
-          ["Material exterior", "Plástico", "Acero inox"],
-          ["Potencia", "1500W", "2200W"],
-          ["Tiempo hervor", "5-6 min", "3-4 min"],
-          ["Service técnico", "Argentina (amplio)", "Argentina (limitado)"],
-          ["Vida útil est.", "2-3 años", "4-5 años"],
+          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "No", "El modelo Atma recomendado"],
+          ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Acero completo, más durabilidad"],
+          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero completo", "Continuo 40-100°", "Necesitás temperatura exacta"],
+          ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "Acero completo", "No", "Acero completo, la más económica"],
         ],
       },
-      {
-        type: "p",
-        content:
-          "Philips gana en velocidad, durabilidad y construcción completa. Atma gana en precio ($17.603 menos), servicio técnico, capacidad (1.8L vs 1.7L) y consumo eléctrico (1500W gasta 30% menos). Empate en sabor del agua (ambas interior acero) y funciones básicas.",
-      },
+
       { type: "h2", title: "Interior acero vs. plástico completo: por qué importa" },
-      {
-        type: "p",
-        content:
-          "Interior de acero: el agua solo toca acero, no toma sabor ni olor, dura más, más higiénico. Plástico completo: después de 6-12 meses empieza a dar sabor, se degrada con calor. La diferencia de precio entre PEAT1351 ($42K) y PE0821AP ($33K) es solo $8.710. Vale la pena cada peso.",
-      },
+      { type: "p", content: "Interior de acero: el agua solo toca acero, no toma sabor ni olor, dura más, más higiénico. Plástico completo: después de 6-12 meses empieza a dar sabor, se degrada con calor. Entre un modelo con interior de acero y uno de plástico completo, la diferencia de precio suele ser chica frente a la diferencia de años de uso sin gusto raro. Vale la pena cada peso." },
+
       { type: "h2", title: "¿Cuánto dura realmente una Atma?" },
-      {
-        type: "p",
-        content:
-          "Escenario optimista (30%): dura 3-4 años sin problemas. Escenario promedio (50%): dura 2-3 años con algún problemita menor. Escenario pesimista (20%): se rompe antes del año, pero la garantía la cubre. Factores clave: calidad del agua (filtrada dura más), frecuencia de uso, limpieza de sarro mensual con vinagre.",
-      },
+      { type: "p", content: "Escenario optimista (30%): dura 3-4 años sin problemas. Escenario promedio (50%): dura 2-3 años con algún problemita menor. Escenario pesimista (20%): se rompe antes del año, pero la garantía la cubre. Factores clave: calidad del agua (filtrada dura más), frecuencia de uso, limpieza de sarro mensual con vinagre." },
+
       { type: "h2", title: "Problemas comunes y cómo solucionarlos" },
-      {
-        type: "list",
-        items: [
-          "Botón de tapa se afloja (1-2 años): apretar tornillo interno o repuesto $2.000-3.000",
-          "Base pierde contacto (2-3 años): limpiar con alcohol isopropílico",
-          "Sarro acumulado: vinagre blanco + agua, hervir, dejar 30 min, repetir cada mes",
-          "Filtro se rompe: sacar y usar sin filtro, repuesto $1.500",
-        ],
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-reviews-4.6-estrellas.png",
-        alt: "Atma PEAT1351 reviews en MercadoLibre — 4.6 estrellas con 3.007 calificaciones",
-      },
+      { type: "list", items: [
+        "Botón de tapa se afloja (1-2 años): apretar tornillo interno o repuesto $2.000-3.000",
+        "Base pierde contacto (2-3 años): limpiar con alcohol isopropílico",
+        "Sarro acumulado: vinagre blanco + agua, hervir, dejar 30 min, repetir cada mes",
+        "Filtro se rompe: sacar y usar sin filtro, repuesto $1.500",
+      ] },
+
       { type: "h2", title: "Consejos para que dure más" },
-      {
-        type: "list",
-        items: [
-          "Limpiá el sarro cada mes con vinagre — extiende la vida útil 50%",
-          "No la llenes hasta el tope — dejá 1-2 cm del máximo",
-          "Esperá 30 segundos antes de volver a hervir",
-          "Usá agua filtrada si podés — menos sarro = resistencia dura más",
-          "Vaciala después de usar — evita acumulación de humedad",
-          "Limpiá la base de contacto cada 3 meses con alcohol isopropílico",
-          "Activá la garantía apenas comprás — muchos se olvidan",
-        ],
-      },
+      { type: "list", items: [
+        "Limpiá el sarro cada mes con vinagre — extiende la vida útil 50%",
+        "No la llenes hasta el tope — dejá 1-2 cm del máximo",
+        "Esperá 30 segundos antes de volver a hervir",
+        "Usá agua filtrada si podés — menos sarro = resistencia dura más",
+        "Vaciala después de usar — evita acumulación de humedad",
+        "Limpiá la base de contacto cada 3 meses con alcohol isopropílico",
+        "Activá la garantía apenas comprás — muchos se olvidan",
+      ] },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Comprá la [Atma PEAT1351](https://meli.la/1TBSj3K) por {{precio:MLA49747515}}: interior de acero, 1.8L, la más grande base de opiniones del catálogo. ¿Querés acero completo y más durabilidad? La [Philips HD9350](https://meli.la/2kpg1Zr). ¿Necesitás control de temperatura? Ninguna Atma lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
     ],
     faq: [
       {
@@ -5417,12 +5383,12 @@ export const guides: Guide[] = [
       {
         question: "¿Se puede cambiar la resistencia?",
         answer:
-          "Sí, técnicamente sí. Pero cuesta $16.000-22.000 total. Una pava nueva cuesta $41.999. Hacé la cuenta.",
+          "Sí, técnicamente sí. Pero cuesta $16.000-22.000 total. Una [Atma PEAT1351](https://meli.la/1TBSj3K) nueva cuesta {{precio:MLA49747515}}. Hacé la cuenta.",
       },
       {
-        question: "¿Por qué no recomendás el modelo PE0821AP que es más barato?",
+        question: "¿Por qué no recomiendan el modelo PE0821AP que es más barato?",
         answer:
-          "Porque es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. Por $9.000 más tenés [ATMA PEAT1351](https://meli.la/1TBSj3K) con interior de acero que no da sabor.",
+          "Porque el [PE0821AP](https://meli.la/27qLeLL) es de plástico completo. Después de 6 meses el agua empieza a tener sabor raro. La [Atma PEAT1351](https://meli.la/1TBSj3K) con interior de acero no da sabor por apenas {{preciodif:MLA49747515:MLA19589524}} más.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
