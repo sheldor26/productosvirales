@@ -8678,19 +8678,28 @@ export const guides: Guide[] = [
     metaDescription: `Moldes, papel, bandejas y silicona para freidora de aire: qué comprar, qué tamaño, y qué accesorios realmente mejoran los resultados. Guía para Argentina.`,
     h1: `Accesorios para freidora de aire: qué necesitás y cuáles valen la pena`,
     publishedDate: "2026-05-02",
-    updatedDate: "2026-05-02",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: `Moldes, papel perforado, bandejas y pinzas de silicona: te contamos qué accesorios realmente mejoran los resultados de tu freidora de aire y cuáles son gadgets que terminan en un cajón.`,
+    quickPicks: [
+      { productMlaId: "MLA39861162", label: "Si todavía no tenés freidora", labelColor: "green", tagline: "La más recomendada del catálogo, 8L" },
+      { productMlaId: "MLA44142280", label: "Opción económica", labelColor: "blue", tagline: "6.5L a precio de entrada" },
+    ],
     intro: [
       `Si acabás de traer una freidora de aire a casa, probablemente ya viste que hay un arsenal de accesorios dando vuelta en Mercado Libre. Moldes, papelería especial, bandejas con patas, pinzas de silicona... La pregunta es: ¿realmente necesitás todo eso o son gadgets que terminan arrumbados en un cajón?`,
-      `La respuesta no es un sí o un no rotundo. Algunos accesorios mejoran mucho cómo cocinas y cómo sale la comida. Otros son directamente chamuyo. Te cuento qué funciona y qué es al pedo.`,
+      `La respuesta no es un sí o un no rotundo. Algunos accesorios mejoran mucho cómo cocinas y cómo sale la comida. Otros son directamente chamuyo. Te contamos qué funciona y qué es al pedo.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_749040-MLA99953958559_112025-F.webp", alt: `Freidora de aire Peabody con grill, lista para usar con sus accesorios`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo armamos esta guía:** evaluamos cada accesorio según si realmente cambia el resultado de la cocción (textura, humedad, circulación de aire) o si es marketing. No recomendamos kits genéricos sin evaluar qué piezas se usan de verdad.` },
+
       { type: "h2", title: `Papel para freidora de aire: la arma de doble filo` },
       { type: "p", content: `Mucha gente lo ve como solución milagrosa. Lo cierto es que el papel ayuda, pero solo si lo usás bien.` },
       { type: "p", content: `Cuándo funciona: el papel para freidora (que es perforado, no cualquier papel) evita que la comida se pegue en la canasta. Si cocinas algo húmedo o con salsa, el papel atrapa la grasa y los derrames no se van directo al fondo de la máquina. También sirve cuando hacés algo empanado y no querés que los pequeños trozos se caigan por los costados.` },
       { type: "p", content: `El problema: el papel bloquea la circulación de aire. Si lo usás de forma incorrecta —tapando demasiada superficie— los alimentos no quedan crujientes, solo cocidos. Vos querés que el aire caliente rodee todo. Si el papel ocupa toda la base, fracasás.` },
       { type: "p", content: `Cómo hacerlo bien: comprá papel perforado específico para freidora de aire. El papel de horno común no sirve porque no tiene hoyitos, y además se quema. El perforado sí está hecho para esto. Cortá trozos que cubran máximo el 60-70% del fondo de la canasta. Dejá los costados libres para que circule el aire.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "La regla del 60-70%", content: `Nunca cubras más del 60-70% del fondo de la canasta con papel. Si tapás todo, el aire no circula y la comida se cocina pero no queda crocante — perdés la razón principal por la que compraste una freidora de aire.` },
       { type: "p", content: `¿Vale la pena? Depende de qué cocines. Si hacés muchos pasteles, budines, cosas con salsa o empanadas, sí. Si solo hacés milanesas y papas, no lo necesitás.` },
       { type: "h2", title: `Moldes de silicona: para cocción controlada` },
       { type: "p", content: `Acá la cosa cambia. Los moldes de silicona son útiles, pero no cualquier molde sirve.` },
