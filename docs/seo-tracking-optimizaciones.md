@@ -216,6 +216,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **freidoras-de-aire-gran-capacidad (2026-07-08):** cuarta guía del sprint de freidoras. Precios muy desactualizados en los 6 modelos ($35K-$100K escrito vs $137K-$291K real). Giro de dirección: la Kanji Home KJH-1700DC pasó de ser "la económica" a costar más que la Atma simple y casi todas las dobles canasta — se reescribió con un callout explicando el giro. Migrada al template completo. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**mejores-freidoras-de-aire-doble-canasta (2026-07-08):** quinta guía del sprint de freidoras. Mismos 4 productos que `freidoras-de-aire-gran-capacidad`, mismo problema de precios desactualizados. Migrada al template completo (standfirst, quickPicks, resumen rápido, trust-block, 4 product-card, tabla con "Ideal para", veredicto). `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
