@@ -14971,7 +14971,7 @@ export const guides: Guide[] = [
         rows: [
           ["Asad Intense", "Lattafa (oficial)", "$45.000-$62.000", "7.245 (4.6⭐)", "El oficial. La compra segura."],
           ["Asad Bourbon", "Genérico (sin marca declarada)", "$30.000-$45.000", "Pocas", "Inspirado, no oficial. Más barato."],
-          ["Asad Negro", "Genérico (sin marca declarada)", "$35.000-$48.000", "112 (4.3⭐)", "Inspirado, no oficial. Perfil distinto."]
+          ["Asad Negro", "Genérico (sin marca declarada)", "$35.000-$48.000", "126 (4.4⭐)", "Inspirado, no oficial. Perfil distinto."]
         ]
       },
       {
@@ -15026,14 +15026,14 @@ export const guides: Guide[] = [
       {
         type: "product-card",
         productMlaId: "MLAU3562485598",
-        description: "Listado como \"Perfume Asad Negro 100ml Estilo Árabe Exquisito Genérico\" — también declara ser genérico en el título. Perfil más oscuro y resinoso que el Bourbon o el Intense. 112 reseñas con rating 4.3⭐ en el catálogo. Precio intermedio entre Bourbon y Intense oficial. Sin marca fabricante declarada.",
+        description: "Listado como \"Perfume Asad Negro 100ml Estilo Árabe Exquisito Genérico\" — también declara ser genérico en el título. Perfil más oscuro y resinoso que el Bourbon o el Intense. 126 reseñas con rating 4.4⭐ en el catálogo. Precio intermedio entre Bourbon y Intense oficial. Sin marca fabricante declarada.",
         label: "Genérico — no es Lattafa oficial",
         labelColor: "amber",
         ranking: 3
       },
       {
         type: "p",
-        content: "**¿Vale la pena?** Las 112 reseñas con rating 4.3⭐ sugieren que como perfume tiene cumplidores — la calificación no es alta como la del Intense oficial pero tampoco es mala. Si querés un perfil oscuro-resinoso con el nombre \"Asad\" pero no necesitás que sea Lattafa, puede funcionar. Si querés algo similar al Asad Intense pero más oscuro y oficial, mejor mirar otras opciones Lattafa (Maahir Legacy, The Kingdom Man, Fakhar Gold)."
+        content: "**¿Vale la pena?** Las 126 reseñas con rating 4.4⭐ sugieren que como perfume tiene cumplidores — la calificación no es alta como la del Intense oficial pero tampoco es mala. Si querés un perfil oscuro-resinoso con el nombre \"Asad\" pero no necesitás que sea Lattafa, puede funcionar. Si querés algo similar al Asad Intense pero más oscuro y oficial, mejor mirar otras opciones Lattafa (Maahir Legacy, The Kingdom Man, Fakhar Gold)."
       },
       {
         type: "h2",

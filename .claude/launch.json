@@ -15,6 +15,13 @@
       "autoPort": true
     },
     {
+      "name": "productosvirales-worktree",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "/Users/juan/Proyectos web/productosvirales/.claude/worktrees/funny-blackburn-448adb"],
+      "port": 3101,
+      "autoPort": true
+    },
+    {
       "name": "usatoydeals",
       "runtimeExecutable": "npm",
       "runtimeArgs": ["run", "dev", "--prefix", "/Users/juan/Proyectos web/usatoydeals", "--", "-p", "4311"],

@@ -32108,10 +32108,10 @@ Por ARS 40.999 con envío gratis, el Sabah Al Ward es un floral dulce honesto: h
   {
     id: "MLAU3562485598",
     title: "Perfume Asad Negro 100ml Estilo Árabe Exquisito Genérico",
-    price: 35968,
-    priceUpdated: "2026-06-21",
-    priceLastChecked: "2026-07-02",
-    priceStatus: "out_of_stock",
+    price: 39900,
+    priceUpdated: "2026-07-08",
+    priceLastChecked: "2026-07-08",
+    priceStatus: "fresh",
     originalPrice: 42000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_606369-MLA98146914305_112025-O.webp",
@@ -32125,23 +32125,21 @@ Por ARS 40.999 con envío gratis, el Sabah Al Ward es un floral dulce honesto: h
     category: "Belleza",
     categorySlug: "belleza",
     permalink: "https://www.mercadolibre.com.ar/perfume-asad-negro-100ml-estilo-arabe-exquisito-generico/up/MLAU3562485598",
-    // Link viejo (catálogo MLAU3562485598 quedó sin vendedores el 2026-07-01): https://meli.la/2t9EpWq
-    // Instrucción de Juan: si ese catálogo vuelve a tener stock, RESTAURAR el link viejo.
-    affiliateUrl: "https://www.mercadolibre.com.ar/social/jm159?matt_word=productosvirales&matt_tool=12465328&forceInApp=true&ref=BBpg7XJ6v9IWSYlvVEjI305i%2Feljr3SqbFH333dlxpwgH9RBybu0aXuEB2TXlSnmxSYp4LJfEIkf6UiNZ3gk9DT7PekvFO40mWRJhV72GEkFZ8%2FpDVZtm3xIXIGMf5sg8iAeojiTaY26Q61aJrYsbv%2FhKzRe4CHhMtCir8i21GiIJ5LMv3mil4cfgh%2F4tPeM%2BF1YgrIbAH%2FT30xTBw%3D%3D",
+    affiliateUrl: "https://meli.la/2t9EpWq",
     condition: "new",
     freeShipping: true,
     rating: 4.4,
-    reviewCount: 119,
-    soldQuantity: 100,
+    reviewCount: 126,
+    soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
     seoTitle: "Asad Negro genérico 100ml: clon de Asad, opiniones",
     metaDescription: "Perfume Asad Negro genérico 100ml: clon del perfil de Lattafa Asad (pimienta, piña, vainilla). Para quién sirve, qué resignás contra el original y la contra real.",
-    verdict: "Si querés el perfil del Asad (especiado-dulce, dupe del Dior Sauvage Elixir) y te importa más el aroma que la marca en el frasco, este genérico de 100ml a 35.968 cumple: 4.4 estrellas en 119 opiniones y envío gratis. No es para vos si buscás el Lattafa original (este es genérico, no de Lattafa) ni si esperás la duración y proyección del de marca: en un clon eso varía lote a lote y no está garantizado.",
+    verdict: "Si querés el perfil del Asad (especiado-dulce, dupe del Dior Sauvage Elixir) y te importa más el aroma que la marca en el frasco, este genérico de 100ml a 39.900 cumple: 4.4 estrellas en 126 opiniones y envío gratis. No es para vos si buscás el Lattafa original (este es genérico, no de Lattafa) ni si esperás la duración y proyección del de marca: en un clon eso varía lote a lote y no está garantizado.",
     pros: [
-      "100 ml de Eau de Parfum a 35.968: cuesta menos de la mitad que el Lattafa Asad original",
+      "100 ml de Eau de Parfum a 39.900: cuesta menos de la mitad que el Lattafa Asad original",
       "Perfil especiado-dulce muy reconocido: piña y pimienta arriba, vainilla y ámbar abajo (el clon más conocido del Dior Sauvage Elixir)",
       "Unisex con tendencia masculina: sirve para diario y salida de noche, sobre todo en otoño-invierno",
-      "4.4 estrellas en 119 opiniones y más de 100 vendidos: base de compradores real para un genérico",
+      "4.4 estrellas en 126 opiniones y más de 500 vendidos: base de compradores real para un genérico",
       "Envío gratis",
     ],
     cons: [
@@ -32173,17 +32171,17 @@ Si nunca oliste el Asad de Lattafa, probablemente no notes la diferencia y lo di
 
 No hay fabricante verificable detrás de esta botella puntual. Las notas que describimos son las del perfil Asad que imita, no specs confirmadas de este genérico. Por eso no podemos prometerte una duración exacta: en clones eso depende del lote.
 
-El respaldo concreto que sí tenés son los números de la propia publicación: 4.4 estrellas en 119 opiniones y más de 100 unidades vendidas. Para un genérico, es una base de compradores razonable.
+El respaldo concreto que sí tenés son los números de la propia publicación: 4.4 estrellas en 126 opiniones y más de 500 unidades vendidas. Para un genérico, es una base de compradores razonable.
 
 ## Genérico vs original: cuándo conviene cada uno
 
-Conviene el genérico si tu prioridad es gastar poco y tener el aroma puesto, sin pretensiones. A 35.968 los 100 ml, es menos de la mitad de lo que sale el Lattafa Asad Intense.
+Conviene el genérico si tu prioridad es gastar poco y tener el aroma puesto, sin pretensiones. A 39.900 los 100 ml, es menos de la mitad de lo que sale el Lattafa Asad Intense.
 
 Conviene ir al original si el perfume es para regalo, si te importa la marca, o si querés asegurarte la duración y proyección que tiene fama de tener el Asad de Lattafa.
 
 ## Veredicto
 
-Un clon honesto a buen precio. Cumple para quien quiere el perfil del Asad sin pagar la marca, y los 4.4 con 119 opiniones lo respaldan. Si buscás el Lattafa original o el rendimiento garantizado del de marca, este no es ese producto: es genérico y la performance varía.`,
+Un clon honesto a buen precio. Cumple para quien quiere el perfil del Asad sin pagar la marca, y los 4.4 con 126 opiniones lo respaldan. Si buscás el Lattafa original o el rendimiento garantizado del de marca, este no es ese producto: es genérico y la performance varía.`,
     faq: [
       {
         question: "¿El Asad Negro genérico es Lattafa?",
@@ -32203,7 +32201,7 @@ Un clon honesto a buen precio. Cumple para quien quiere el perfil del Asad sin p
       },
       {
         question: "¿Cuántos ml trae y cuánto sale?",
-        answer: "Son 100 ml de Eau de Parfum a 35.968 (precio de junio 2026), con envío gratis. Es menos de la mitad de lo que cuesta el Lattafa Asad original.",
+        answer: "Son 100 ml de Eau de Parfum a 39.900 (precio de julio 2026), con envío gratis. Es menos de la mitad de lo que cuesta el Lattafa Asad original.",
       },
       {
         question: "¿Conviene este genérico o el Lattafa Asad original?",
@@ -32211,7 +32209,7 @@ Un clon honesto a buen precio. Cumple para quien quiere el perfil del Asad sin p
       },
       {
         question: "¿Tiene buenas opiniones?",
-        answer: "Tiene 4.4 estrellas en 119 opiniones y más de 100 unidades vendidas en la publicación. Es una base de compradores real para un perfume genérico.",
+        answer: "Tiene 4.4 estrellas en 126 opiniones y más de 500 unidades vendidas en la publicación. Es una base de compradores real para un perfume genérico.",
       },
     ],
   },
