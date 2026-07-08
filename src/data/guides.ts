@@ -8949,14 +8949,22 @@ export const guides: Guide[] = [
     metaDescription: `Una freidora de 1.500W gasta unos 20 kWh al mes con uso moderado: entre $3.600 y $4.600 sin subsidio en Argentina. Fórmula, ejemplos y comparativa.`,
     h1: `Cuánto consume una freidora de aire: análisis del gasto real`,
     publishedDate: "2026-06-14",
-    updatedDate: "2026-07-06",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: `Calculamos cuánto consume realmente una freidora de aire en pesos argentinos, con y sin subsidio, y la comparamos contra otros electrodomésticos para que sepas si el gasto eléctrico te preocupa o no.`,
+    quickPicks: [
+      { productMlaId: "MLA39861162", label: "Si todavía no tenés freidora", labelColor: "green", tagline: "2000W, la más recomendada del catálogo" },
+      { productMlaId: "MLA44142280", label: "Menor consumo", labelColor: "blue", tagline: "1600W, opción económica" },
+    ],
     intro: [
-      `Compraste freidora y de repente pensás: ¿cuánto me va a costar usarla? Es una pregunta legítima. A diferencia del gas (donde calcular es complicado), la electricidad es medible. Acá te muestro exactamente cómo se calcula el consumo y qué significa en tu factura.`,
+      `Compraste freidora y de repente pensás: ¿cuánto me va a costar usarla? Es una pregunta legítima. A diferencia del gas (donde calcular es complicado), la electricidad es medible. Acá te mostramos exactamente cómo se calcula el consumo y qué significa en tu factura.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_788252-MLA99975580653_112025-F.webp", alt: `Cuánto consume una freidora de aire electricidad Argentina`, imageSize: "hero" },
       { type: "p", content: `Una freidora de aire típica (1.400 a 1.700 watts) consume alrededor de 20 kWh al mes con uso moderado: 40 minutos por día, 5 días a la semana. Con las tarifas de Edenor y Edesur de julio 2026, eso equivale a entre $3.600 y $4.600 mensuales sin subsidio, o entre $1.100 y $1.400 con subsidio dentro del bloque. Abajo tenés la fórmula para ajustar la cuenta a tu modelo y a tu tarifa.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo calculamos:** usamos los cuadros tarifarios oficiales de Edenor y Edesur vigentes en julio 2026 (AMBA), con y sin subsidio, y la potencia real declarada de los modelos más vendidos en Argentina. Los valores se revisan cuando cambian las tarifas.` },
+
       { type: "h2", title: `La fórmula básica que necesitás` },
       { type: "p", content: `Todo aparato eléctrico consume según su potencia. La fórmula es simple:` },
       { type: "p", content: `Consumo en kWh = Potencia en watts × Tiempo en horas` },
