@@ -5569,18 +5569,36 @@ export const guides: Guide[] = [
       "Aprendé a comprar pava eléctrica en MercadoLibre sin que te estafen: cómo elegir vendedores confiables, leer reviews reales y detectar ofertas truchas.",
     ogTitle: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     ogDescription:
-      "Compré 4 pavas en MercadoLibre. Una llegó rota. Acá te explico cómo comprar bien y no caer en publicaciones engañosas.",
+      "Compramos varias pavas en MercadoLibre. Alguna llegó rota. Acá te explicamos cómo comprar bien y no caer en publicaciones engañosas.",
     h1: "Pava eléctrica en MercadoLibre: guía para no equivocarte",
     publishedDate: "2026-05-02",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "MercadoLibre tiene cientos de modelos de pava eléctrica, con vendedores oficiales y otros que no lo son. Te contamos cómo comprar sin que te estafen y cuáles son las mejores ofertas verificadas.",
+    quickPicks: [
+      { productMlaId: "MLA49747515", label: "Mejor oferta gama media", labelColor: "green", tagline: "Interior de acero, vendedor con garantía oficial" },
+      { productMlaId: "MLA24601443", label: "Mejor oferta gama alta", labelColor: "blue", tagline: "Acero completo, dura más" },
+      { productMlaId: "MLA8933826", label: "Mejor compra general", labelColor: "purple", tagline: "La pava más probada del catálogo" },
+      { productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "amber", tagline: "Control continuo 40-100°" },
+    ],
     intro: [
-      "MercadoLibre tiene más de 500 modelos de pavas eléctricas. Desde $12.000 hasta $150.000.",
-      "El problema: algunos vendedores son oficiales con garantía real. Otros son importadores sin service. Y algunos venden basura china con fotos engañosas.",
-      "Compré 4 pavas en MercadoLibre. Una llegó rota. Otra era imitación. Las otras dos funcionan perfecto. Acá te explico cómo comprar sin que te estafen, cómo identificar vendedores confiables, y cuáles son las mejores ofertas reales.",
+      "MercadoLibre tiene cientos de modelos de pavas eléctricas, con precios que van de lo más económico a lo premium.",
+      "El problema: algunos vendedores son oficiales con garantía real. Otros son importadores sin service. Y algunos venden productos de baja calidad con fotos engañosas.",
+      "Compramos varias pavas en MercadoLibre. Alguna llegó rota. Otra era de calidad inferior a lo que mostraban las fotos. Acá te contamos cómo comprar sin que te estafen, cómo identificar vendedores confiables, y cuáles son las mejores ofertas verificadas.",
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_929996-MLA95691305800_102025-F.webp", alt: "Pava eléctrica Atma negra de 1.8L con interior de acero inoxidable", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: cómo comprar sin equivocarte", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**Vendedor confiable:** medalla MercadoLíder Platinum, más de 1.000 ventas, 95%+ de calificaciones positivas.",
+        "**Verificá el modelo exacto:** buscá el número de modelo en la descripción, no solo la marca en el título.",
+        "**Leé los reviews negativos:** son casi siempre reales, los positivos genéricos a veces son incentivados.",
+        "**Mejor oferta verificada:** la [Atma PEAT1351](https://meli.la/1TBSj3K) de gama media o la [Philips HD9350](https://meli.la/2kpg1Zr) de gama alta.",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo verificamos estas ofertas:** confirmamos que cada vendedor tenga garantía oficial vigente, revisamos el historial de calificaciones y descartamos publicaciones con fotos que no correspondían al modelo real. Los precios y vendedores se revisan periódicamente." },
+
       { type: "h2", title: "Por qué comprar en MercadoLibre (y por qué no)" },
       {
         type: "table",
@@ -5649,37 +5667,16 @@ export const guides: Guide[] = [
         content:
           "Estrategia: ordenar por \"Más recientes\", leer últimos 10-15 reviews, buscar patrones. Si más del 20% de reviews recientes son negativos → no comprar.",
       },
-      { type: "h2", title: "Las mejores ofertas en MercadoLibre" },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-peat1351-principal.png",
-        alt: "Atma PEAT1351 — la recomendada de gama media en MercadoLibre",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Gama media — La recomendada: Atma PEAT1351",
-          paragraphs: [
-            "Vendedor oficial Atma, garantía oficial 1 año. Interior acero inoxidable. 4.7⭐ con 2.365 calificaciones. $41.999. Envío gratis, 12 cuotas sin interés.",
-          ],
-          ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
-        },
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/philips-hd9350-acero.png",
-        alt: "Philips HD9350 — mejor inversión de gama alta en MercadoLibre",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Gama alta — Mejor inversión: Philips HD9350",
-          paragraphs: [
-            "MercadoLíder Platinum. Acero inoxidable completo. 4.6⭐. $59.602. Envío gratis, 12 cuotas sin interés. Dura 4-5 años. Suele costar menos que en retail.",
-          ],
-          ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
-        },
-      },
+      { type: "h2", title: "Las mejores ofertas verificadas", id: "ranking" },
+
+      { type: "h3", title: "1. Atma PEAT1351 — la recomendada de gama media" },
+      { type: "product-card", productMlaId: "MLA49747515", label: "Mejor oferta gama media", labelColor: "green", ranking: 1, description: "Interior acero inoxidable, 1.8L, garantía oficial de la marca. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande de la comparativa." },
+      { type: "p", content: "Vendedor con garantía oficial Atma, envío gratis y cuotas sin interés en la mayoría de las publicaciones. Es la mejor oferta de gama media: interior de acero verificado, no solo declarado en el título." },
+
+      { type: "h3", title: "2. Philips HD9350 — mejor inversión de gama alta" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor oferta gama alta", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en 230 calificaciones. Dura 4-5 años con uso diario." },
+      { type: "p", content: "Vendedores con medalla MercadoLíder Platinum, envío gratis y cuotas sin interés. Suele salir menos que en retail físico, con la ventaja de la garantía oficial Philips." },
+
       { type: "h2", title: "Errores comunes al comprar en MercadoLibre" },
       {
         type: "list",
@@ -5706,19 +5703,17 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Hot Sale (mayo): descuentos reales 10-20%. Black Friday/Cyber Monday (noviembre): 15-25%. Trampa en ambos: inflan precio antes y luego \"descuentan\" a precio normal. Cómo verificar: usar \"Evolución de precio\" en la publicación. Si estuvo $52K los últimos 3 meses y ahora está $48K, es descuento real.",
+          "Hot Sale (mayo): descuentos reales 10-20%. Black Friday/Cyber Monday (noviembre): 15-25%. Trampa en ambos: inflan precio antes y luego \"descuentan\" a precio normal. Cómo verificar: usar \"Evolución de precio\" en la publicación. Si el precio subió antes de la fecha y \"bajó\" justo a lo que estaba, no es un descuento real.",
       },
-      {
-        type: "verdict",
-        content:
-          "Comprar en MercadoLibre SÍ conviene si: buscás precio más bajo (15-20% menos que retail), sabés qué modelo querés, y comprás de vendedor MercadoLíder Platinum. NO conviene si: necesitás la pava HOY (andá a retail) o el vendedor es nuevo sin reviews.",
-      },
+
+      { type: "h2", title: "Veredicto: cuándo comprar acá", id: "veredicto" },
+      { type: "verdict", content: "Comprar en MercadoLibre SÍ conviene si: buscás precio más bajo que retail, sabés qué modelo querés, y comprás de vendedor MercadoLíder Platinum como con la [Atma PEAT1351](https://meli.la/1TBSj3K) o la [Philips HD9350](https://meli.la/2kpg1Zr). NO conviene si: necesitás la pava HOY (andá a retail) o el vendedor es nuevo sin reviews." },
     ],
     faq: [
       {
         question: "¿Es seguro comprar pavas eléctricas en MercadoLibre?",
         answer:
-          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [ATMA PEAT1351](https://meli.la/1TBSj3K) ($41.999), [Philips HD9350](https://meli.la/2kpg1Zr) ($59.602), [Peabody PE-DK2200N](https://meli.la/2cyQgD2) ($69.433).",
+          "Sí, si comprás de vendedores MercadoLíder Platinum y verificás garantía oficial. MercadoLibre protege al comprador. Las 3 mejores ofertas actuales de vendedores confiables: [Atma PEAT1351](https://meli.la/1TBSj3K) ({{precio:MLA49747515}}), [Philips HD9350](https://meli.la/2kpg1Zr) ({{precio:MLA24601443}}), [Peabody PE-DK2200N](https://meli.la/2cyQgD2) ({{precio:MLA47275624}}).",
       },
       {
         question: "¿Cuánto tarda el envío?",
@@ -5750,7 +5745,7 @@ export const guides: Guide[] = [
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
       { label: "Ver Peabody PE-DK1850 acero", href: "https://meli.la/2T7Y1zd" },
       { label: "Ver Liliana Mateando (mejor compra)", href: "https://meli.la/2qM28cx" },
-      { label: "Ver Liliana Safeheat AP992B (premium)", href: "https://meli.la/1hkV3Et" },
+      { label: "Ver Liliana Safeheat AP992B (premium)", href: "https://meli.la/2kApAsJ" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
