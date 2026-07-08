@@ -6139,17 +6139,17 @@ export const guides: Guide[] = [
     title: "Pava Liliana: ¿cuál de las 4 comprar en 2026?",
     seoTitle: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar? (2026)",
     metaDescription:
-      "Comparamos 4 pavas Liliana (AP152, AP175B, AP175, AP992B). Precios desde $29.999. La AP175B Mateando por $45.900 es mejor compra.",
+      "Comparamos 4 pavas Liliana desde {{precio:MLA61505857:k}}. La AP175B Mateando es la mejor compra: función mate al mejor precio del grupo.",
     ogTitle: "Pava Eléctrica Liliana: ¿Cuál de las 4 Comprar en 2026?",
     ogDescription:
-      "4 modelos entre $29.999 y $82.899. La AP175B Mateando por $45.900 es la mejor compra. Comparativa completa.",
+      "4 modelos Liliana comparados. La AP175B Mateando es la mejor compra: función mate al mejor precio del grupo.",
     h1: "Pava eléctrica Liliana — ¿cuál de las 4 comprar?",
     publishedDate: "2026-05-16",
-    updatedDate: "2026-05-16",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
     intro: [
-      "Liliana vende cuatro pavas eléctricas entre $29.999 y $82.899. La AP152 de acero sale $29.999, la AP175B Mateando sale $45.900, la AP175 Tempomate sale $43.999, y la AP992B Safeheat sale $82.899.",
-      "Probé los cuatro modelos. La AP175B Mateando por $45.900 es la mejor compra. Función mate con 2 niveles de temperatura, 1.7 litros, y la alternativa más accesible con mate activo del catálogo.",
+      "Liliana vende cuatro pavas eléctricas, entre {{precio:MLA61505857}} y {{precio:MLA54676373}}. La AP152 de acero es la más barata, la AP175B Mateando y la AP175 Tempomate tienen función mate, y la AP992B Safeheat es la premium.",
+      "Probamos los cuatro modelos. La [AP175B Mateando](https://meli.la/2qM28cx) por {{precio:MLA8933826}} es la mejor compra: función mate con 2 niveles de temperatura, 1.7 litros, y la alternativa más accesible con mate activo del catálogo.",
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_819670-MLA100005503771_122025-F.webp", alt: "Pava eléctrica Liliana AP152 de acero con selector mate", imageSize: "hero" },
@@ -6159,71 +6159,71 @@ export const guides: Guide[] = [
         content:
           "Liliana tiene cuatro opciones. Dos son acero, dos son plástico. Dos tienen función mate, dos no.",
       },
-      { type: "h3", title: "AP152 — La más barata ($29.999)" },
+      { type: "h3", title: "AP152 — La más barata ({{precio:MLA61505857}})" },
       {
         type: "p",
         content:
-          "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado — [Atma](https://meli.la/1TBSj3K) con acero sale $41.999. Ahorrás $12.000 por el mismo material. Pero no tiene función mate ni control de temperatura.",
+          "Acero inoxidable, 1.7L, 1500W, corte automático, base giratoria 360°, filtro removible. Es la pava de acero más barata del mercado: la [Atma](https://meli.la/1TBSj3K) con acero sale {{preciodif:MLA49747515:MLA61505857}} más. Pero no tiene función mate ni control de temperatura.",
       },
-      { type: "h3", title: "AP175B Mateando — MEJOR COMPRA ($45.900)" },
+      { type: "h3", title: "AP175B Mateando — MEJOR COMPRA ({{precio:MLA8933826}})" },
       {
         type: "card",
         card: {
-          heading: "Liliana AP175B Mateando — $45.900",
+          heading: "Liliana AP175B Mateando — {{precio:MLA8933826}}",
           paragraphs: [
             "Plástico, 1.7L, 2000W, función mate con 2 niveles (80°C mate / 100°C hervir), corte automático, doble visor de agua, filtro extraíble, sistema de apertura con traba.",
-            "Seleccionás mate y el agua llega a 80° exactos y se mantiene ahí. No tenés que hervir y esperar. $23.533 más barata que [Peabody](https://meli.la/2cyQgD2) que también tiene función mate.",
+            "Seleccionás mate y el agua llega a 80° exactos y se mantiene ahí. No tenés que hervir y esperar. {{preciodif:MLA47275624:MLA8933826}} más barata que la [Peabody](https://meli.la/2cyQgD2), que también tiene función mate.",
           ],
           ctas: [{ label: "Ver en MercadoLibre", href: "https://meli.la/2qM28cx" }],
         },
       },
-      { type: "h3", title: "AP175 Tempomate — NO la compres ($43.999)" },
+      { type: "h3", title: "AP175 Tempomate — NO la compres ({{precio:MLA27849823}})" },
       {
         type: "bad",
-        title: "AP175 Tempomate — $43.999",
+        title: "AP175 Tempomate",
         content:
-          "Exactamente igual que la AP175B. Misma función mate, misma capacidad, mismas características. Solo cambia el color (negra vs blanca) y suele estar sin stock. Comprá la AP175B blanca, que está disponible.",
+          "Prácticamente igual que la AP175B: misma función mate, misma capacidad. Solo cambia el color (negra vs blanca), y encima cuesta {{preciodif:MLA27849823:MLA8933826}} más y suele estar sin stock. Comprá la AP175B blanca: es más barata y está disponible.",
       },
-      { type: "h3", title: "AP992B Safeheat — Premium innecesaria ($82.899)" },
+      { type: "h3", title: "AP992B Safeheat — Premium innecesaria ({{precio:MLA54676373}})" },
       {
         type: "p",
         content:
-          "1.5L, doble pared (interior acero, exterior plástico), pantalla digital, 7 niveles de temperatura, mantener caliente, 1500W. Los 7 niveles suenan útiles pero son demasiados para uso real — la mayoría solo usa 80° y 100°. Y 1.5L es 200ml menos que la AP175B. La AP175B por $45.900 hace lo necesario por $36.999 menos.",
+          "1.5L, doble pared (interior acero, exterior plástico), pantalla digital, 7 niveles de temperatura, mantener caliente, 1500W. Los 7 niveles suenan útiles pero son demasiados para uso real: la mayoría solo usa 80° y 100°. Y 1.5L es 200ml menos que la AP175B. La AP175B por {{precio:MLA8933826}} hace lo necesario por {{preciodif:MLA54676373:MLA8933826}} menos.",
       },
       { type: "h2", title: "AP175B: por qué es la mejor compra" },
       {
         type: "p",
         content:
-          "La AP175B Mateando por $45.900 es mejor compra que los otros tres modelos Liliana y que la competencia.",
+          "La AP175B Mateando por {{precio:MLA8933826}} es mejor compra que los otros tres modelos Liliana y que la competencia.",
       },
       {
         type: "table",
         headers: ["Modelo", "Precio", "Material", "Función mate", "Diferencia vs AP175B"],
         rows: [
-          ["AP152", "$29.999", "Acero", "No", "$15.901 menos, sin mate"],
-          ["AP175B Mateando", "$45.900", "Plástico", "Sí (2 niveles)", "—"],
-          ["AP175 Tempomate", "$43.999", "Plástico", "Sí (2 niveles)", "$1.901 menos — solo el color, sin stock"],
-          ["AP992B Safeheat", "$82.899", "Interior acero", "Sí (7 niveles)", "$36.999 más, 1.5L"],
+          ["[AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "Acero", "No", "{{preciodif:MLA8933826:MLA61505857}} menos, sin mate"],
+          ["[AP175B Mateando](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "Plástico", "Sí (2 niveles)", "—"],
+          ["[AP175 Tempomate](https://meli.la/2GFun2e)", "{{precio:MLA27849823}}", "Plástico", "Sí (2 niveles)", "{{preciodif:MLA27849823:MLA8933826}} más, solo el color, sin stock"],
+          ["[AP992B Safeheat](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "Interior acero", "Sí (7 niveles)", "{{preciodif:MLA54676373:MLA8933826}} más, 1.5L"],
         ],
       },
       { type: "h2", title: "AP175B vs competencia" },
-      { type: "h3", title: "vs Atma PEAT1351 ($41.999)" },
+      { type: "h3", title: "vs Atma PEAT1351 ({{precio:MLA49747515}})" },
       {
         type: "p",
         content:
-          "[Atma](https://meli.la/1TBSj3K) es $3.901 más barata, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, pagar $3.901 extra por función mate vale la pena.",
+          "La [Atma](https://meli.la/1TBSj3K) cuesta {{preciodif:MLA49747515:MLA8933826}} más, tiene 1.8L vs 1.7L (100ml más = medio mate extra) e interior acero vs plástico de Liliana. Pero NO tiene función mate. Si tomás mate regularmente, la AP175B es la mejor opción; si preferís acero y no te importa el mate, la Atma.",
       },
-      { type: "h3", title: "vs Philips HD9350 ($59.602)" },
+      { type: "h3", title: "vs Philips HD9350 ({{precio:MLA24601443}})" },
       {
         type: "p",
         content:
           "[Philips](https://meli.la/2kpg1Zr) es {{preciodif:MLA24601443:MLA8933826}} más cara, tiene acero completo y dura 4-5 años (vs 2-3 años Liliana). Pero NO tiene función mate. Si querés función mate: Liliana. Si querés durabilidad: Philips.",
       },
-      { type: "h3", title: "vs Peabody PE-DK2200N ($69.433)" },
+      { type: "h3", title: "vs Peabody PE-DK2200N ({{precio:MLA47275624}})" },
       {
         type: "p",
         content:
-          "[Peabody](https://meli.la/2cyQgD2) es $23.533 más cara, tiene control continuo 40-100° y pantalla digital. Si tomás té verde a 70° o blanco a 60°: Peabody vale los $24K extra. Si solo tomás mate a 80° y agua a 100°: los 2 niveles de Liliana alcanzan.",
+          "[Peabody](https://meli.la/2cyQgD2) es {{preciodif:MLA47275624:MLA8933826}} más cara, tiene control continuo 40-100° y pantalla digital. Si tomás té verde a 70° o blanco a 60°: Peabody vale el extra. Si solo tomás mate a 80° y agua a 100°: los 2 niveles de Liliana alcanzan.",
       },
       { type: "h2", title: "Función mate: ¿realmente la usás?" },
       {
@@ -6234,7 +6234,7 @@ export const guides: Guide[] = [
       {
         type: "p",
         content:
-          "Usé la AP175B durante un mes. La función mate a 80° la usé todos los días. Si tomás mate al menos 3 veces por semana, la función mate vale los $15.901 extra vs la AP152.",
+          "Usamos la AP175B durante un mes. La función mate a 80° se usó todos los días. Si tomás mate al menos 3 veces por semana, la función mate vale el extra de {{preciodif:MLA8933826:MLA61505857}} vs la AP152.",
       },
       { type: "h2", title: "Problemas comunes Liliana" },
       {
@@ -6249,14 +6249,14 @@ export const guides: Guide[] = [
       {
         type: "verdict",
         content:
-          "Para la mayoría, comprá AP175B Mateando por $45.900. Si solo hervís a 100° sin función mate: AP152 por $29.999. Si querés acero completo con durabilidad: [Philips HD9350](https://meli.la/2kpg1Zr). Si presupuesto ajustado: [Atma PEAT1351](https://meli.la/1TBSj3K).",
+          "Para la mayoría, comprá la [AP175B Mateando](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. Si solo hervís a 100° sin función mate: la [AP152](https://meli.la/1QMfKob) por {{precio:MLA61505857}}. Si querés acero completo con durabilidad: la [Philips HD9350](https://meli.la/2kpg1Zr). Si preferís acero interior a buen precio: la [Atma PEAT1351](https://meli.la/1TBSj3K).",
       },
     ],
     faq: [
       {
         question: "¿Por qué la AP175B es mejor que la AP152?",
         answer:
-          "AP152 es más barata ($29.999) y tiene acero. Pero no tiene función mate. AP175B por $45.900 agrega función mate con 2 niveles. Si tomás mate regularmente, los $15.901 extra se justifican.",
+          "La AP152 es más barata ({{precio:MLA61505857}}) y tiene acero. Pero no tiene función mate. La AP175B por {{precio:MLA8933826}} agrega función mate con 2 niveles. Si tomás mate regularmente, el extra de {{preciodif:MLA8933826:MLA61505857}} se justifica.",
       },
       {
         question: "¿La función mate es precisa?",
@@ -6266,7 +6266,7 @@ export const guides: Guide[] = [
       {
         question: "¿AP175 negra o AP175B blanca?",
         answer:
-          "Son exactamente iguales, solo cambia el color. La AP175 negra suele estar sin stock, así que comprá la AP175B blanca por $45.900, que está disponible.",
+          "Son básicamente iguales, solo cambia el color. La AP175 Tempomate (negra) suele estar sin stock y encima cuesta {{preciodif:MLA27849823:MLA8933826}} más. Comprá la AP175B blanca: es más barata y está disponible.",
       },
       {
         question: "¿Cuánto dura una Liliana?",
@@ -6276,19 +6276,19 @@ export const guides: Guide[] = [
       {
         question: "¿Liliana es mejor que Atma?",
         answer:
-          "[AP175B](https://meli.la/2qM28cx) por $45.900 tiene función mate que [Atma](https://meli.la/1TBSj3K) no tiene. Pero Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no: Atma.",
+          "La [AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}} tiene función mate que la [Atma](https://meli.la/1TBSj3K) no tiene, y ahora también sale más barata. Atma tiene más capacidad (1.8L vs 1.7L) y acero interior. Si tomás mate: Liliana. Si no, y preferís acero: Atma.",
       },
       {
         question: "¿Vale la pena la AP992B premium?",
         answer:
-          "Solo si realmente necesitás 7 niveles de temperatura y mantener caliente. Para la mayoría, la AP175B por $45.900 hace lo necesario por $36.999 menos.",
+          "Solo si realmente necesitás 7 niveles de temperatura y mantener caliente. Para la mayoría, la AP175B por {{precio:MLA8933826}} hace lo necesario por {{preciodif:MLA54676373:MLA8933826}} menos.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
     internalLinks: [
       { label: "Ver Liliana AP175B (MEJOR COMPRA)", href: "https://meli.la/2qM28cx" },
       { label: "Ver Liliana AP152 (acero más barata)", href: "https://meli.la/1QMfKob" },
-      { label: "Ver Liliana AP992B Safeheat", href: "https://meli.la/1hkV3Et" },
+      { label: "Ver Liliana AP992B Safeheat", href: "/producto/pava-electrica-liliana-aap992n-safeheat-negro-mla54676373" },
       { label: "Ver Atma PEAT1351 (interior acero)", href: "https://meli.la/1TBSj3K" },
       { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Peabody PE-DK2200N (digital)", href: "https://meli.la/2cyQgD2" },
@@ -7645,7 +7645,7 @@ export const guides: Guide[] = [
       "El modelo más caro de la comparativa es la [Oster 8970](https://meli.la/1jdC3sW), a {{precio:MLA8993736}}, y no hace nada que justifique el precio frente a las opciones de acero más baratas.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_651832-MLA99906441677_112025-R.webp", alt: "Atma PE1821NAP, la pava eléctrica con más niveles de temperatura por menos plata en Argentina", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_651832-MLA99906441677_112025-F.webp", alt: "Atma PE1821NAP, la pava eléctrica con más niveles de temperatura por menos plata en Argentina", imageSize: "hero" },
       { type: "h2", title: "Las siete opciones" },
       { type: "p", content: "Encontré siete modelos con control de temperatura en Argentina. Peabody y Liliana tienen dos cada una, Oster también dos, y hay uno de Atma. Cuatro son plástico, dos acero, y una híbrida. Los precios van de {{precio:MLA8933826}} a {{precio:MLA8993736}}." },
       {
@@ -7721,7 +7721,7 @@ export const guides: Guide[] = [
       "El vidrio se ve lindo pero tiene un problema: el sarro es visible. Con acero o plástico no ves la suciedad. Con vidrio tenés que limpiar con vinagre cada 2-3 semanas. No es difícil pero hay que hacerlo.",
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_708449-MLA108642108384_032026-R.webp", alt: "Pava eléctrica de vidrio Winco W1719, la mejor compra de la comparativa", imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_708449-MLA108642108384_032026-F.webp", alt: "Pava eléctrica de vidrio Winco W1719, la mejor compra de la comparativa", imageSize: "hero" },
       { type: "h2", title: "Las seis pavas de vidrio" },
       {
         type: "table",
