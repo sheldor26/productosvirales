@@ -5421,21 +5421,39 @@ export const guides: Guide[] = [
     title: "Pava eléctrica precio Argentina 2026: guía completa por rango",
     seoTitle: "Pava eléctrica precio Argentina 2026: guía por rango",
     metaDescription:
-      "Precios de pavas eléctricas desde $30K hasta $90K. Qué esperás en cada rango, las mejores opciones y cuándo vale o no vale gastar más. Guía honesta 2026.",
+      "Precios de pavas eléctricas desde {{precio:MLA20027329:k}} hasta {{precio:MLA47275624:k}}. Qué esperás en cada rango, las mejores opciones y cuándo vale o no vale gastar más.",
     ogTitle: "Pava eléctrica precio Argentina 2026: guía por rango",
     ogDescription:
-      "La guía de precios de pavas eléctricas en Argentina. Qué comprás por $30K, $42K y $60K.",
+      "La guía de precios de pavas eléctricas en Argentina. Qué comprás en cada rango de presupuesto.",
     h1: "Pava eléctrica precio Argentina 2026: guía completa por rango",
     publishedDate: "2026-04-25",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Comparamos las pavas eléctricas en Argentina por rango de precio: qué obtenés en cada escalón y cuál es la mejor compra dentro de cada presupuesto.",
+    quickPicks: [
+      { productMlaId: "MLA20027329", label: "Rango económico", labelColor: "amber", tagline: "Lo mejor por menos de {{precio:MLA20027329:k}}" },
+      { productMlaId: "MLA49747515", label: "Rango gama media", labelColor: "green", tagline: "Interior de acero, el punto justo del mercado" },
+      { productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", tagline: "Acero completo, dura el doble" },
+      { productMlaId: "MLA47275624", label: "Rango premium", labelColor: "purple", tagline: "Solo si necesitás control de temperatura" },
+    ],
     intro: [
-      "Las pavas eléctricas en Argentina van desde $30.000 hasta $90.000.",
+      "Las pavas eléctricas en Argentina van desde {{precio:MLA20027329}} hasta {{precio:MLA47275624}}.",
       "La pregunta que todos se hacen es: ¿cuánto tengo que gastar para que funcione bien?",
-      "Compré y probé pavas de todos los rangos de precio. Algunas baratas funcionan bien. Otras caras son un desperdicio de plata. Acá te explico qué obtenés por cada rango y cuáles son las mejores opciones en cada uno.",
+      "Comparamos pavas de todos los rangos de precio. Algunas baratas funcionan bien. Otras caras son un desperdicio de plata. Acá te explicamos qué obtenés por cada rango y cuáles son las mejores opciones en cada uno.",
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_652957-MLA99453012994_112025-F.webp", alt: "Peabody PE-DK1850 pava eléctrica de acero como referencia de precio en Argentina", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: cuál comprar según tu presupuesto", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**Rango económico:** [Kanji KJH-PE15002M](https://meli.la/1f9jqdT) — lo mejor por menos de {{precio:MLA20027329:k}}.",
+        "**Rango gama media (el punto justo):** [Atma PEAT1351](https://meli.la/1TBSj3K) — interior de acero, la mejor relación precio-calidad.",
+        "**Rango gama alta:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura el doble.",
+        "**Rango premium:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — solo si necesitás control de temperatura.",
+      ] },
+
+      { type: "trust-block", trustVariant: "pricing", content: "**Cómo verificamos los precios:** chequeamos cada modelo directamente en su publicación de MercadoLibre Argentina y tomamos el precio del vendedor con mejor reputación y stock. Cuando un producto sube o baja de forma sostenida, actualizamos la guía. No mostramos \"precios tachados\" inflados: el número que ves es el que pagás hoy." },
+
       { type: "h2", title: "Rangos de precio: la realidad del mercado argentino" },
       {
         type: "table",
@@ -5447,133 +5465,64 @@ export const guides: Guide[] = [
           ["Premium", "$70.000+", "Acero + digital", "Similar a gama alta"],
         ],
       },
-      { type: "h2", title: "Rango económico: $15.000 - $30.000" },
-      {
-        type: "p",
-        content:
-          "Materiales: plástico completo. Potencia: 1500W-2000W, hierven en 5-8 minutos. Durabilidad: 1-2 años promedio. Marcas comunes: Liliana, Yelmo, Atma modelos básicos.",
-      },
-      {
-        type: "warning",
-        content:
-          "Las más baratas ($12.000-15.000) son basura china. Se rompen en 3-6 meses. Filtrar desde $20.000 mínimo.",
-      },
-      {
-        type: "p",
-        content:
-          "Honestidad brutal: las pavas de menos de $30.000 son todas de plástico completo. Después de 6-12 meses el agua empieza a tener un gustito raro. Si podés, estirá el presupuesto a gama media.",
-      },
-      { type: "h2", title: "Rango gama media: $30.000 - $50.000 — El punto justo" },
-      {
-        type: "p",
-        content:
-          "Este es el punto justo del mercado. Acá encontrás la mejor relación precio-calidad. Interior acero inoxidable + exterior plástico, o plástico de muy buena calidad. Potencia 1500W-2200W, hierven en 3-6 min. Duración 2-4 años promedio.",
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-peat1351-principal.png",
-        alt: "Atma PEAT1351 — la mejor compra de gama media, interior acero inoxidable",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Atma PEAT1351 ($41.999) — LA RECOMENDADA de gama media",
-          paragraphs: [
-            "Interior acero inoxidable, 1.8L, marca argentina con service, rating 4.7⭐ con 2.365 calificaciones. 1500W hierve en 5-6 min, gasta menos luz.",
-            "Es la mejor compra del rango: interior acero (crítico para el sabor), service local, precio justo, dura 2-3 años.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
-        },
-      },
-      { type: "product-card", productMlaId: "MLA49747515", label: "Mejor gama media", labelColor: "green" },
-      { type: "h2", title: "Rango gama alta: $50.000 - $70.000" },
-      {
-        type: "p",
-        content:
-          "Acero inoxidable completo (interior y exterior), plásticos premium en mangos, 2200W, durabilidad 4-6 años. Acá están Philips y Oster altos.",
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/philips-hd9350-acero.png",
-        alt: "Philips HD9350 — acero inoxidable completo, la mejor inversión a largo plazo",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Philips HD9350 ($59.602) — LA RECOMENDADA de gama alta",
-          paragraphs: [
-            "Acero completo, 1.7L, 2200W, dura 4-5 años. La mejor inversión a largo plazo.",
-            "Costo por año: $59.602 ÷ 5 años = $11.920/año vs Atma $41.999 ÷ 2.5 años = $16.800/año. Philips sale más barata a largo plazo.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
-        },
-      },
-      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor inversión", labelColor: "amber" },
-      { type: "h2", title: "Rango premium: $70.000+" },
-      {
-        type: "p",
-        content:
-          "Solo comprá en este rango si: necesitás control de temperatura (Peabody $70K) o es un regalo muy especial (Philips $90K). Para todos los demás: Philips HD9350 por $60K hace lo mismo. El resto es marketing y diseño.",
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/comparacion-peabody-dk2200n.png",
-        alt: "Peabody PE-DK2200N — pava eléctrica digital con control de temperatura, pantalla LED",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Peabody PE-DK2200N ($69.433) — Solo si necesitás control de temperatura",
-          paragraphs: [
-            "Pantalla digital, control de temperatura (70°-100°), función mantener caliente. Ideal para té verde/blanco. Pero solo 1.5L y dura lo mismo que Philips.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
-        },
-      },
-      { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "purple" },
-      { type: "h2", title: "Mejor de cada rango: tabla resumen" },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Cuidado con lo más barato", content: "Las pavas de $12.000-15.000 suelen romperse en 3-6 meses. Filtrá desde $20.000 como mínimo. Y honestidad brutal: las de menos de $30.000 son todas de plástico completo — después de 6-12 meses el agua empieza a tener un gustito raro." },
+
+      { type: "h2", title: "El ranking: la mejor compra en cada rango", id: "ranking" },
+
+      { type: "h3", title: "1. Kanji KJH-PE15002M — rango económico" },
+      { type: "product-card", productMlaId: "MLA20027329", label: "Rango económico", labelColor: "amber", ranking: 1, description: "Interior de acero, 1.8L, 1500W, 2 niveles de control mecánico. 4.5 estrellas en 3.793 calificaciones, la más barata con algo de acero del catálogo." },
+      { type: "p", content: "Materiales: interior acero, exterior plástico. Potencia 1500W. Durabilidad estimada 2-3 años. Es la mejor compra si tu presupuesto es realmente ajustado — por debajo de este rango la mayoría de las opciones son plástico completo y el agua toma sabor después de un año." },
+
+      { type: "h3", title: "2. Atma PEAT1351 — rango gama media, el punto justo" },
+      { type: "product-card", productMlaId: "MLA49747515", label: "Rango gama media", labelColor: "green", ranking: 2, description: "Interior acero inoxidable, 1.8L, marca argentina con service. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande de la comparativa." },
+      { type: "p", content: "Este es el punto justo del mercado: la mejor relación precio-calidad. Interior de acero (crítico para el sabor), service local, precio justo. 1500W hierve un poco más lento que las de 2200W, pero gasta menos luz." },
+
+      { type: "h3", title: "3. Philips HD9350 — rango gama alta" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Rango gama alta", labelColor: "blue", ranking: 3, description: "Acero inoxidable completo, 1.7L, 2200W. Dura 4-5 años, la mejor inversión a largo plazo. 4.7 estrellas en 230 calificaciones." },
+      { type: "p", content: "Acero completo (interior y exterior), 2200W, hierve más rápido y dura más que la gama media. Cuesta {{preciodif:MLA24601443:MLA49747515}} más que la Atma, pero si hacés la cuenta por año de uso, la diferencia se reduce bastante frente a comprar una gama media cada 2-3 años." },
+
+      { type: "h3", title: "4. Peabody PE-DK2200N — rango premium" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Rango premium", labelColor: "purple", ranking: 4, description: "Pantalla digital, control continuo de temperatura (40°-100°), función mantener caliente. 4.9 estrellas, el rating más alto de la comparativa." },
+      { type: "p", content: "Solo compres en este rango si necesitás control de temperatura real (té verde, té blanco, café de especialidad) o querés hacer un regalo especial. Para todos los demás casos, la Philips HD9350 de gama alta hace lo mismo por menos plata — acá pagás por la pantalla digital y el control continuo, no por durar más." },
+
+      { type: "h2", title: "Tabla comparativa: la mejor de cada rango", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["Rango", "Modelo", "Precio", "Material", "Potencia", "Duración"],
+        headers: ["Rango", "Modelo", "Precio", "Material", "Ideal para"],
         rows: [
-          ["Económica", "Liliana Matera", "~$22.000", "Plástico", "2000W", "2-3 años"],
-          ["Gama media", "Atma PEAT1351", "$41.999", "Interior acero", "1500W", "2-3 años"],
-          ["Gama alta", "Philips HD9350", "$59.602", "Acero completo", "2200W", "4-5 años"],
-          ["Premium", "Peabody Digital", "$69.433", "Acero + digital", "2200W", "3-4 años"],
+          ["Económico", "[Kanji KJH-PE15002M](https://meli.la/1f9jqdT)", "{{precio:MLA20027329}}", "Interior acero", "Presupuesto muy ajustado"],
+          ["Gama media", "[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "El punto justo del mercado"],
+          ["Gama alta", "[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "Mejor inversión a largo plazo"],
+          ["Premium", "[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero + digital", "Necesitás control de temperatura"],
         ],
       },
-      { type: "h2", title: "Mi recomendación por presupuesto" },
-      {
-        type: "list",
-        items: [
-          "Tenés $20-25K → Liliana Matera. Lo mejor por ese precio. Ahorrá para algo mejor después.",
-          "Tenés $30-45K → Atma PEAT1351. Mejor relación precio-calidad del mercado.",
-          "Tenés $55-65K → Philips HD9350. La mejor inversión a largo plazo.",
-          "Tenés $65-75K → ¿Solo hervir agua? Philips por $60K y ahorrás $15K. ¿Control temp? Peabody $70K.",
-          "Tenés $80K+ → Philips HD9350 ($60K) y ahorrás $30K. Las de $90K hierven igual.",
-        ],
-      },
-      {
-        type: "verdict",
-        content:
-          "El \"precio justo\" está en el rango $42.000-60.000. Atma para presupuesto ajustado, Philips para inversión a largo plazo. Todo lo de menos de $25K es plástico que da sabor. Todo lo de más de $70K es marketing.",
-      },
+
+      { type: "h2", title: "Nuestra recomendación por presupuesto" },
+      { type: "list", items: [
+        "**Presupuesto muy ajustado:** la [Kanji](https://meli.la/1f9jqdT). Lo mejor por ese precio. Ahorrá para algo mejor después si podés.",
+        "**Presupuesto medio:** la [Atma PEAT1351](https://meli.la/1TBSj3K). Mejor relación precio-calidad del mercado.",
+        "**Podés estirarte un poco más:** la [Philips HD9350](https://meli.la/2kpg1Zr). La mejor inversión a largo plazo.",
+        "**Necesitás control de temperatura:** la [Peabody PE-DK2200N](https://meli.la/2cyQgD2), sin importar el rango.",
+      ] },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "El \"precio justo\" está en la gama media: la [Atma PEAT1351](https://meli.la/1TBSj3K) para presupuesto ajustado, la [Philips HD9350](https://meli.la/2kpg1Zr) para inversión a largo plazo. Todo lo que esté muy por debajo de la Kanji es plástico que da sabor. Pagar mucho más que la Peabody Digital, salvo que necesites control de temperatura, suele ser marketing." },
     ],
     faq: [
       {
         question: "¿Cuál es el precio justo para una buena pava?",
         answer:
-          "$42.000-60.000. En este rango conseguís interior de acero y durabilidad decente. Las 3 mejores opciones: [ATMA PEAT1351](https://meli.la/1TBSj3K) ($41.999, interior acero), [Liliana Mateando](https://meli.la/2qM28cx) ($45.900, función mate), [Philips HD9350](https://meli.la/2kpg1Zr) ($59.602, acero completo 5 años).",
+          "El rango entre la [Atma PEAT1351](https://meli.la/1TBSj3K) y la [Philips HD9350](https://meli.la/2kpg1Zr). En esa franja conseguís interior de acero y durabilidad decente. Las 3 mejores opciones: [Atma PEAT1351](https://meli.la/1TBSj3K) (interior acero), [Liliana Mateando](https://meli.la/2qM28cx) (función mate), [Philips HD9350](https://meli.la/2kpg1Zr) (acero completo, dura más).",
       },
       {
-        question: "¿Valen la pena las de menos de $25.000?",
+        question: "¿Valen la pena las más económicas?",
         answer:
           "Solo si realmente no tenés más presupuesto. La opción más accesible del catálogo con acero es la [Liliana AP152](https://meli.la/1QMfKob) a {{precio:MLA61505857}}. Por debajo de eso son todas de plástico y el agua toma sabor después de 1 año.",
       },
       {
-        question: "¿Por qué Philips cuesta el doble que Atma?",
+        question: "¿Por qué Philips cuesta bastante más que Atma?",
         answer:
-          "Porque la [Philips HD9350](https://meli.la/2kpg1Zr) es acero completo, dura el doble que la [ATMA PEAT1351](https://meli.la/1TBSj3K), y tiene mejor construcción. A largo plazo sale más barata.",
+          "Porque la [Philips HD9350](https://meli.la/2kpg1Zr) es acero completo, dura más que la [Atma PEAT1351](https://meli.la/1TBSj3K), y tiene mejor construcción. A largo plazo la diferencia por año de uso se reduce.",
       },
       {
         question: "¿Las ofertas de Hot Sale son reales?",
@@ -5593,9 +5542,9 @@ export const guides: Guide[] = [
       { label: "Ver Philips HD9396 (premium)", href: "https://meli.la/1nfm8ft" },
       { label: "Ver Peabody digital (control temp)", href: "https://meli.la/2cyQgD2" },
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
-      { label: "Ver Peabody PE-DK1850 acero (\{{precio:MLA14263533}})", href: "https://meli.la/2T7Y1zd" },
-      { label: "Ver Liliana Mateando (\{{precio:MLA8933826}} mejor compra)", href: "https://meli.la/2qM28cx" },
-      { label: "Ver Liliana AP152 (\{{precio:MLA61505857}} más barata)", href: "https://meli.la/1QMfKob" },
+      { label: "Ver Peabody PE-DK1850 acero ({{precio:MLA14263533}})", href: "https://meli.la/2T7Y1zd" },
+      { label: "Ver Liliana Mateando ({{precio:MLA8933826}} mejor compra)", href: "https://meli.la/2qM28cx" },
+      { label: "Ver Liliana AP152 ({{precio:MLA61505857}} más barata)", href: "https://meli.la/1QMfKob" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
