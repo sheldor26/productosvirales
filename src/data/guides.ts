@@ -7763,6 +7763,13 @@ export const guides: Guide[] = [
     publishedDate: "2026-06-06",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Comparamos las pavas de vidrio que se consiguen hoy en Argentina: cuáles tienen control de temperatura o infusor de verdad, qué tan visible queda el sarro, y cuál es la mejor compra.",
+    quickPicks: [
+      { productMlaId: "MLA51108369", label: "Mejor elección general", labelColor: "green", tagline: "Control de temperatura, función mate y LED al mejor precio del grupo" },
+      { productMlaId: "MLA37777896", label: "Más económica", labelColor: "amber", tagline: "Vidrio a {{precio:MLA37777896}}, sin extras" },
+      { productMlaId: "MLA46312287", label: "Mejor con termómetro", labelColor: "blue", tagline: "Control de temperatura y termómetro visible" },
+      { productMlaId: "MLA50312411", label: "Mejor infusor", labelColor: "purple", tagline: "8 preset e infusor profesional para té en hebras" },
+    ],
     intro: [
       "Comparamos seis pavas de vidrio disponibles en Argentina. Los precios van de {{precio:MLA37777896}} a {{precio:MLA19788587}}. Algunas se justifican, otras no.",
       "La [Winco W1719](https://meli.la/1iLQBmH) por {{precio:MLA51108369}} sorprende: tiene control de temperatura, función mate, y LED azul. Cuesta apenas {{preciodif:MLA51108369:MLA37777896}} más que la [Kanji](https://meli.la/2daT4MX), que no tiene nada de eso. Es la mejor compra de vidrio, por lejos.",
@@ -7770,34 +7777,69 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_708449-MLA108642108384_032026-F.webp", alt: "Pava eléctrica de vidrio Winco W1719, la mejor compra de la comparativa", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**Mejor elección general:** [Winco W1719](https://meli.la/1iLQBmH) — control de temperatura, función mate y LED azul al mejor precio del grupo.",
+        "**Más económica:** [Kanji KJH-PE15004S](https://meli.la/2daT4MX) — vidrio simple a {{precio:MLA37777896}}, sin extras.",
+        "**Mejor con termómetro:** [Ultracomb PE-4915](https://meli.la/1eKmhyf) — control de temperatura con termómetro visible.",
+        "**Mejor infusor:** [Daewoo Infussia](https://meli.la/1zCrT9u) — 8 preset e infusor profesional para té en hebras sueltas.",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos las pavas de vidrio disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos si tienen control de temperatura real (no solo LED decorativo), si el infusor es de verdad útil, y qué dicen las calificaciones públicas de compradores reales. Los precios se revisan periódicamente." },
+
       { type: "h2", title: "Las seis pavas de vidrio" },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El problema del vidrio", content: "El sarro (calcio del agua) queda visible en el fondo después de 1-2 semanas, algo que con acero o plástico no se nota. No es peligroso, pero hay que limpiar con vinagre cada 2-3 semanas." },
+
+      { type: "h2", title: "El ranking: mejores pavas de vidrio", id: "ranking" },
+
+      { type: "h3", title: "1. Winco W1719 — mejor elección general" },
+      { type: "product-card", productMlaId: "MLA51108369", label: "Mejor elección general", labelColor: "green", ranking: 1, description: "Vidrio transparente, 1.8L, control de temperatura, función mate, LED azul, 2200W. 4.8 estrellas en 1.447 calificaciones, la más alta de la comparativa." },
+      { type: "p", content: "Tiene todo lo importante: vidrio transparente, 1.8 litros, control de temperatura, función mate, LED azul, 2200W. Cuesta apenas {{preciodif:MLA51108369:MLA37777896}} más que la [Kanji](https://meli.la/2daT4MX), que solo tiene LED — por esa diferencia ganás control de temperatura y función mate. Cuesta {{preciodif:MLA51108369:MLA46312287}} menos que la [Ultracomb PE-4915](https://meli.la/1eKmhyf), que suma termómetro pero no tiene función mate ni infusor." },
+      { type: "pull-quote", content: "Es un producto recomendable, lo compre por los materiales ya que cuando calienta el agua no está en contacto con plástico. El diseño es muy lindo. Cuando funciona se prende la luz led, tiene el corte intermedio para el agua del mate. Funciona bien.", attribution: "— Comprador verificado en MercadoLibre, hace 9 meses · 9 personas lo encontraron útil" },
+
+      { type: "h3", title: "2. Kanji KJH-PE15004S — más económica" },
+      { type: "product-card", productMlaId: "MLA37777896", label: "Más económica", labelColor: "amber", ranking: 2, description: "Vidrio transparente, 1.8L, LED, sin control de temperatura ni infusor. La más básica y barata del vidrio del catálogo: 4.3 estrellas en 123 calificaciones." },
+      { type: "p", content: "Si solo querés hervir agua y que se vea bien en la mesada, la Kanji cumple. No tiene control de temperatura ni función mate — para eso hace falta subir a la Winco, que cuesta apenas {{preciodif:MLA51108369:MLA37777896}} más." },
+
+      { type: "h3", title: "3. Ultracomb PE-4915 — mejor con termómetro" },
+      { type: "product-card", productMlaId: "MLA46312287", label: "Mejor con termómetro", labelColor: "blue", ranking: 3, description: "Vidrio, 1.8L, control de temperatura con termómetro visible en la jarra, sin infusor. 4.8 estrellas en 1.520 calificaciones." },
+      { type: "p", content: "Suma un termómetro visible en la jarra además del control de temperatura, algo que ni la Winco ni la Kanji tienen. Si no tomás té en hebras, te da control de temperatura y termómetro sin pagar el extra del infusor: {{preciodif:MLA46312287:MLA24556041}} menos que la Telefunken." },
+
+      { type: "h3", title: "4. Daewoo Infussia — mejor infusor" },
+      { type: "product-card", productMlaId: "MLA50312411", label: "Mejor infusor", labelColor: "purple", ranking: 4, description: "Vidrio, 1.5L, 8 preset de temperatura, infusor profesional de acero. 4.6 estrellas en 574 calificaciones." },
+      { type: "p", content: "El infusor es una canasta de acero con agujeros: ponés té en hebras adentro, el agua hierve y pasa por las hebras haciendo la infusión directa. Con 8 preset de temperatura es la más completa para quien realmente toma té en hebras sueltas — no sirve para mate ni café, esos se hacen distinto." },
+
+      { type: "h3", title: "5. Telefunken TF-PE800 — infusor con control" },
+      { type: "product-card", productMlaId: "MLA24556041", label: "Alternativa con infusor", labelColor: "blue", ranking: 5, description: "Vidrio, 1.8L, control de temperatura, infusor. 4.7 estrellas en 630 calificaciones." },
+      { type: "p", content: "Combina control de temperatura e infusor en 1.8 litros, más capacidad que la Daewoo. Cuesta {{preciodif:MLA46312287:MLA24556041}} más que la Ultracomb PE-4915, que no trae infusor — pagás ese extra únicamente si tomás té en hebras." },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La que no conviene comprar", content: "No compres la [Ultracomb PE-4910](https://meli.la/1Q6affo) ({{precio:MLA19788587}}): es la más cara de toda la comparativa y no da nada que la Telefunken no dé por {{preciodif:MLA19788587:MLA24556041}} menos." },
+
+      { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["Modelo", "Precio", "Capacidad", "Control temp", "Infusor"],
+        headers: ["Modelo", "Precio", "Capacidad", "Control temp", "Ideal para"],
         rows: [
-          ["[Kanji KJH-PE15004S](https://meli.la/2daT4MX)", "{{precio:MLA37777896}}", "1.8 L", "No", "No"],
-          ["[Winco W1719](https://meli.la/1iLQBmH)", "{{precio:MLA51108369}}", "1.8 L", "Sí", "No"],
-          ["[Daewoo Infussia](https://meli.la/1zCrT9u)", "{{precio:MLA50312411}}", "1.5 L", "Sí (8 preset)", "Profesional"],
-          ["[Ultracomb PE-4915](https://meli.la/1eKmhyf)", "{{precio:MLA46312287}}", "1.8 L", "Sí (con termómetro)", "No"],
-          ["[Telefunken TF-PE800](https://meli.la/287M2Vk)", "{{precio:MLA24556041}}", "1.8 L", "Sí", "Sí"],
-          ["[Ultracomb PE-4910](https://meli.la/1Q6affo)", "{{precio:MLA19788587}}", "1.8 L", "Sí", "Sí"],
+          ["[Winco W1719](https://meli.la/1iLQBmH)", "{{precio:MLA51108369}}", "1.8 L", "Sí", "La mejor compra de vidrio"],
+          ["[Kanji KJH-PE15004S](https://meli.la/2daT4MX)", "{{precio:MLA37777896}}", "1.8 L", "No", "Solo hervir, sin gastar de más"],
+          ["[Ultracomb PE-4915](https://meli.la/1eKmhyf)", "{{precio:MLA46312287}}", "1.8 L", "Sí (con termómetro)", "Ver la temperatura exacta"],
+          ["[Daewoo Infussia](https://meli.la/1zCrT9u)", "{{precio:MLA50312411}}", "1.5 L", "Sí (8 preset)", "Té en hebras sueltas"],
+          ["[Telefunken TF-PE800](https://meli.la/287M2Vk)", "{{precio:MLA24556041}}", "1.8 L", "Sí", "Infusor con más capacidad"],
+          ["[Ultracomb PE-4910](https://meli.la/1Q6affo)", "{{precio:MLA19788587}}", "1.8 L", "Sí", "No recomendada: igual que la Telefunken por más"],
         ],
       },
-      { type: "h2", title: "Por qué Winco es la mejor compra" },
-      { type: "p", content: "La [Winco W1719](https://meli.la/1iLQBmH) por {{precio:MLA51108369}} tiene todo lo importante: vidrio transparente, 1.8 litros, control de temperatura, función mate, LED azul, 2200W. Cuesta apenas {{preciodif:MLA51108369:MLA37777896}} más que la [Kanji](https://meli.la/2daT4MX), que solo tiene LED. Por esa diferencia ganás control de temperatura y función mate." },
-      { type: "p", content: "Cuesta {{preciodif:MLA51108369:MLA46312287}} menos que la [Ultracomb PE-4915](https://meli.la/1eKmhyf), que suma termómetro pero no tiene función mate ni infusor. Cuesta {{preciodif:MLA51108369:MLA24556041}} menos que la [Telefunken](https://meli.la/287M2Vk), que agrega infusor. Si no tomás té en hebras, el infusor no sirve. Probé la Winco durante dos semanas y nunca falló." },
+
       { type: "h2", title: "Vidrio vs acero vs plástico: la verdad" },
       { type: "p", content: "El vidrio se ve bonito. Ves el agua hirviendo, las burbujas, la luz LED atravesando. Queda bien en cocina moderna. Pero el vidrio tiene un problema real: el sarro es visible. Con agua dura (común en Argentina) se forma depósito blanco en el fondo después de 1-2 semanas. Es calcio del agua. No es peligroso pero se ve feo." },
       { type: "p", content: "Con acero no ves el sarro porque es opaco. Con plástico tampoco. Con vidrio transparente lo ves todo. Limpiás con vinagre blanco cada 2-3 semanas. ¿El vidrio cambia el sabor del agua? No. Probé agua hervida en vidrio, acero, y plástico. Todas saben igual. ¿El vidrio es frágil? No tanto como pensás. Es vidrio borosilicato resistente al calor." },
       { type: "p", content: "El acero dura más: entre 3 y 4 años con uso diario. Vidrio dura 2-3 años — después de 2 años empiezan las manchas permanentes que no salen ni con vinagre. Si te importa la estética y no te molesta limpiar sarro cada 2-3 semanas, el vidrio va. Si solo querés funcionalidad sin mantenimiento, mirá la [guía de pava de acero inoxidable](/guias/pava-electrica-acero-inoxidable)." },
-      { type: "h2", title: "Infusor: ¿lo necesitás?" },
-      { type: "p", content: "Tres modelos tienen infusor: [Telefunken](https://meli.la/287M2Vk), [Daewoo](https://meli.la/1zCrT9u), [Ultracomb PE-4910](https://meli.la/1Q6affo). Es canasta de acero con agujeros. Ponés té en hebras adentro, el agua hierve y pasa por las hebras haciendo la infusión directa. Útil para té verde, té negro, té blanco, té de hierbas en hebras sueltas. No sirve para té en saquitos (los saquitos ya son infusores), no sirve para mate (mate se hace en el mate), no sirve para café (café se hace en cafetera)." },
-      { type: "p", content: "¿Necesitás infusor? Solo si tomás té en hebras sueltas regularmente. Si no, la [Ultracomb PE-4915](https://meli.la/1eKmhyf) por {{precio:MLA46312287}} te da control de temperatura y termómetro sin pagar el extra del infusor: {{preciodif:MLA46312287:MLA24556041}} menos que la Telefunken." },
+
       { type: "h2", title: "Mantenimiento: limpieza de sarro" },
       { type: "p", content: "El vidrio transparente muestra todo el sarro. Después de 1-2 semanas ves depósito blanco en el fondo. Es calcio del agua. Limpieza con vinagre blanco: llenás la pava hasta la mitad con vinagre, agregás agua hasta el tope, hervís, dejás reposar 30 minutos, tirás el líquido, enjuagás 2-3 veces con agua limpia. Hacés esto cada 2-3 semanas. Tarda 45 minutos total (30 minutos de reposo)." },
-      { type: "bad", content: "No compres la [Kanji](https://meli.la/2daT4MX) ({{precio:MLA37777896}}) si querés funcionalidad, solo tiene LED. Por apenas {{preciodif:MLA51108369:MLA37777896}} más, la [Winco](https://meli.la/1iLQBmH) tiene control de temperatura y mate. No compres la [Ultracomb PE-4910](https://meli.la/1Q6affo) ({{precio:MLA19788587}}): es la más cara de la comparativa y no da nada que la [Telefunken](https://meli.la/287M2Vk) no dé por {{preciodif:MLA19788587:MLA24556041}} menos." },
-      { type: "h2", title: "Recomendación final" },
-      { type: "p", content: "Comprá la [Winco W1719](https://meli.la/1iLQBmH) por {{precio:MLA51108369}}. Vidrio transparente, LED azul, control de temperatura, función mate, 1.8 litros, 2200W. ¿Tomás té en hebras sueltas? La [Daewoo Infussia](https://meli.la/1zCrT9u) por {{precio:MLA50312411}} con infusor profesional, o la [Telefunken](https://meli.la/287M2Vk) por {{precio:MLA24556041}}." },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Comprá la [Winco W1719](https://meli.la/1iLQBmH) por {{precio:MLA51108369}}. Vidrio transparente, LED azul, control de temperatura, función mate, 1.8 litros, 2200W. ¿Tomás té en hebras sueltas? La [Daewoo Infussia](https://meli.la/1zCrT9u) por {{precio:MLA50312411}} con infusor profesional, o la [Telefunken](https://meli.la/287M2Vk) por {{precio:MLA24556041}}." },
       { type: "p", content: "El vidrio se ve lindo pero necesita mantenimiento. Si no querés limpieza con vinagre cada 2-3 semanas, comprá pava de acero inoxidable. Mirá también la [guía de pava con control de temperatura](/guias/pava-electrica-control-temperatura) y la [guía por rango de precio](/guias/pava-electrica-precio)." },
     ],
     faq: [
