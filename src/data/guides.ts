@@ -9644,13 +9644,19 @@ export const guides: Guide[] = [
     metaDescription: `Análisis honesto de la freidora de aire en Argentina 2026: para quién funciona, para quién no, y cuánto tarda en amortizarse la inversión inicial.`,
     h1: `¿Vale la pena comprar una freidora de aire? La verdad`,
     publishedDate: "2026-06-21",
-    updatedDate: "2026-06-21",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: `¿Vale la pena gastar en una freidora de aire? Respuesta honesta con el cálculo real de amortización: para quién sí, para quién no, y por qué casi nunca se justifica por plata.`,
+    quickPicks: [
+      { productMlaId: "MLA44142280", label: "Opción de entrada", labelColor: "blue", tagline: "para probar sin gastar de más" },
+      { productMlaId: "MLA39861162", label: "Si ya decidiste", labelColor: "green", tagline: "2000W, la más recomendada del catálogo" },
+    ],
     intro: [
-      `Estás a punto de gastar entre $50.000 y $80.000 en una freidora de aire. Es plata. Necesitás saber si realmente vale. Acá va la respuesta honesta, sin maña de vendedor.`,
+      `Estás a punto de gastar entre {{precio:MLA44142280:k}} y {{precio:MLA39861162:k}} en una freidora de aire, según el modelo. Es plata real. Necesitás saber si vale, sin maña de vendedor.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_981648-MLA99506816420_112025-F.webp", alt: `Vale la pena comprar freidora de aire Argentina 2026`, imageSize: "hero" },
+      { type: "trust-block", trustVariant: "pricing", content: `**Sobre los precios de esta nota:** usamos los precios en vivo del catálogo (se actualizan solos) para los ejemplos concretos. Los cálculos de ahorro por tiempo/energía son estimaciones razonables, no mediciones exactas: van a variar según cuánto cocinás y tu tarifa eléctrica.` },
       { type: "h2", title: `Para quién SÍ vale la pena` },
       { type: "h3", title: `Cocinás seguido (4+ veces a la semana)` },
       { type: "p", content: `Si tu rutina es: llegas a casa de laburo, necesitás cenar en 25-30 minutos, y hoy son papas con pollo. La freidora te resuelve eso. Papas en 18 minutos. Pollo en 15. Listo.` },
@@ -9683,7 +9689,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `Tu categoría de consumo eléctrico ya es alta` },
       { type: "p", content: `Si tu factura de luz ya está en "consumidor elevado", agregar una freidora te baja aún más el precio por kWh... no. Te la suben más. Algunos casos de dificultad económica no justifican la compra.` },
       { type: "h2", title: `El cálculo real de amortización` },
-      { type: "p", content: `Una freidora decente cuesta $60.000 en Argentina (2026).` },
+      { type: "p", content: `Una freidora de gama media como la Atma FR248ABP cuesta {{precio:MLA39861162}} hoy.` },
       { type: "p", content: `Escenario 1: cocinás 4 veces a la semana` },
       { type: "p", content: `Ahorros mensuales por:` },
       { type: "list", items: [
@@ -9692,8 +9698,7 @@ export const guides: Guide[] = [
         `Aceite (menos cantidad) = $15`,
       ]},
       { type: "p", content: `Total ahorros/mes: $225` },
-      { type: "p", content: `Tiempo para amortizar: $60.000 ÷ $225/mes = 267 meses = 22 años` },
-      { type: "p", content: `Espera. Eso no se amortiza en tu vida útil de la freidora.` },
+      { type: "p", content: `A ese ritmo, amortizarla por plata sola tardaría muchísimo más que su vida útil (5-7 años). No hay forma de que se pague sola en ese tiempo.` },
       { type: "p", content: `¿Por qué entonces la comprás?` },
       { type: "p", content: `Porque no es un cálculo de dinero. Es un cálculo de calidad de vida. Llega cansado del laburo, come 25 minutos antes. Eso no tiene precio en pesos. Es simplemente "es mejor y punto".` },
       { type: "p", content: `Entonces la real es: la comprás porque simplifica tu vida diaria, no porque la amortices financieramente. Si eso no te importa, no la compres.` },
@@ -9704,8 +9709,7 @@ export const guides: Guide[] = [
         `Tiempo = $200-300`,
       ]},
       { type: "p", content: `Total: $250-350` },
-      { type: "p", content: `Tiempo para amortizar: $60.000 ÷ $300/mes = 200 meses = 17 años` },
-      { type: "p", content: `Igual no se amortiza. Pero acá sí hay un ahorro energético real. Si además el horno eléctrico está por fallar, conviene la freidora.` },
+      { type: "p", content: `Igual no se amortiza en la vida útil del aparato. Pero acá sí hay un ahorro energético real. Si además el horno eléctrico está por fallar, conviene la freidora.` },
       { type: "h2", title: `Conclusión honesta: para la mayoría de hogares argentinos` },
       { type: "p", content: `Si cocinás 4-5 veces a la semana y tenés entre 3 y 5 personas en casa, vale la pena. No por dinero. Por tiempo y comodidad.` },
       { type: "p", content: `Si cocinás 1-2 veces a la semana, no compres.` },
@@ -9715,12 +9719,13 @@ export const guides: Guide[] = [
       { type: "p", content: `Si tu presupuesto es ajustado y querés "ahorrar dinero", no compres. No vas a ahorrar dinero. Vas a gastar dinero para ahorrar tiempo.` },
       { type: "h2", title: `El riesgo de comprar` },
       { type: "p", content: `Comprar freidora es relativamente bajo riesgo porque:` },
-      { type: "p", content: `1. La usas 2 semanas. Si no te cae bien, vendes a $40.000. Pérdida: $20.000. 2. Dura 5-7 años normalmente. Es difícil que te deje en la mano rápido. 3. Hay tantas marcas que si una sale mal, cambiás de marca.` },
+      { type: "p", content: `1. La usas 2 semanas. Si no te cae bien, la vendés usada y recuperás buena parte de lo que pagaste. 2. Dura 5-7 años normalmente. Es difícil que te deje en la mano rápido. 3. Hay tantas marcas que si una sale mal, cambiás de marca.` },
       { type: "p", content: `El riesgo real es: desperdiciás dinero en algo que no usas. No es que explote y casi mata a alguien (cosa que sí pasaría con un aire acondicionado fake).` },
-      { type: "p", content: `Entonces: si dudás, comprá una de entrada (Gadnic, Tefal básico, algo de $45.000-55.000). Probá una o dos semanas. Si no la usás, vendés y recuperás $35.000-40.000. Si la usás, después invertís en un modelo mejor.` },
+      { type: "p", content: `Entonces: si dudás, comprá una de entrada, como la [Gadnic de 6.5L](https://meli.la/1AMQ3m9) ({{precio:MLA44142280}}). Probá una o dos semanas. Si no la usás, podés revenderla usada y recuperar buena parte de lo que pagaste. Si la usás, después invertís en un modelo mejor.` },
       { type: "h2", title: `Alternativa: pedir prestada antes de comprar` },
       { type: "p", content: `¿Conocés a alguien con freidora? Pídele una semana. Cocinás todos los días con ella. Si después de esa semana pensás "esto cambió mi cocina", comprá. Si pensás "fue novelería", no gastes.` },
       { type: "p", content: `Es el mejor test de compra que existe.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Si no tenés a quién pedirle prestada", content: `Comprá la opción de entrada del catálogo (Gadnic, {{precio:MLA44142280}}) y tratala como tu "prueba". Es el modelo más fácil de revender si decidís que no es para vos, y si te convence, después subís a un modelo con más capacidad o funciones.` },
       { type: "h2", title: `Versión tldr (muy resumida)` },
       { type: "p", content: `Compra si:` },
       { type: "list", items: [
@@ -9752,7 +9757,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Qué marca comprá?`,
-        answer: `Philips es la mejor. Gadnic y Tefal son entrada con buen balance calidad-precio. Las marcas chinas desconocidas pueden fallar.`,
+        answer: `Philips es la de gama alta. Atma y Peabody son el escalón medio con buena terminación y service en Argentina. Gadnic es la opción de entrada con buen balance calidad-precio. Las marcas sin distribución local (aunque figuren baratas) suelen fallar en garantía y repuestos.`,
       },
       {
         question: `¿Qué tamaño?`,
@@ -9764,7 +9769,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Hay freidoras muy baratas que funcionen?`,
-        answer: `Gadnic a $45.000-50.000 funciona. No esperes experiencia premium, pero cocina.`,
+        answer: `Sí. La Gadnic de 6.5L, la más económica del catálogo ({{precio:MLA44142280}}), funciona bien. No esperes experiencia premium, pero cocina.`,
       },
       {
         question: `¿Hay que descartarla después de años?`,
@@ -9784,7 +9789,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Y si compro y en 3 meses falla?`,
-        answer: `Las Philips y Tefal tienen garantía 2 años. Gadnic tiene un año pero típicamente no falla. Lee las condiciones de garantía antes de comprar.`,
+        answer: `Philips tiene garantía de 2 años. Atma, Peabody y Gadnic manejan un año, y en la práctica no suelen fallar antes. Lee las condiciones de garantía antes de comprar.`,
       },
     ],
     internalLinks: [
