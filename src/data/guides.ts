@@ -7847,7 +7847,7 @@ export const guides: Guide[] = [
       { productMlaId: "MLA39861162", label: "Mejor para el interior", labelColor: "green", tagline: "8L, red de service nacional" },
       { productMlaId: "MLA44703897", label: "Mejor diseño y funciones", labelColor: "blue", tagline: "Visor 360°, pantalla táctil" },
       { productMlaId: "MLA37004216", label: "Mejor grill", labelColor: "amber", tagline: "Más potencia, resultado más parejo" },
-      { productMlaId: "MLA53776810", label: "Mayor capacidad", labelColor: "purple", tagline: "10L en doble piso" },
+      { productMlaId: "MLA40161710", label: "Mayor capacidad disponible", labelColor: "purple", tagline: "8.5L en doble canasta, Atma" },
     ],
     intro: [
       `Cuando te ponés a buscar freidora de aire en Argentina, rápido aparecen Atma y Peabody. Las dos son marcas nacionales, las dos tienen garantía que podés reclamar en el país, y las dos metieron buena plata en investigación. Pero no son iguales, y dependiendo de dónde vivís, una puede convenirte mucho más que la otra.`,
@@ -7860,7 +7860,7 @@ export const guides: Guide[] = [
         `**Vivís en el interior:** [Atma FR248ABP](https://meli.la/2UfmcVY) — red de service nacional, no solo AMBA.`,
         `**Te importa el diseño:** [Peabody PE-AFD650N](https://meli.la/2zaHWZ2) — visor 360°, pantalla táctil.`,
         `**Querés grill:** [Atma FR901DP](https://meli.la/1gGXWsc) — más potencia (1800W vs 1500W), resultado más parejo.`,
-        `**Familia numerosa:** [Peabody PE-AFDL102N](https://meli.la/2vwo31u) — 10 litros en doble piso, la mayor capacidad de las dos marcas.`,
+        `**Familia numerosa:** [Atma FRD248AP Doble](https://meli.la/2aw3uVJ) — 8.5 litros en doble canasta. La Peabody PE-AFDL102N (10L) es la de mayor capacidad de las dos marcas pero está sin stock por ahora.`,
       ] },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** enfrentamos los 6 modelos equivalentes de Atma y Peabody disponibles hoy en MercadoLibre Argentina, mirando potencia, capacidad, red de service (clave si vivís fuera de AMBA) y qué dicen las calificaciones públicas de compradores reales. Los precios se revisan periódicamente.` },
@@ -7881,8 +7881,8 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `Atma FRD248AP vs Peabody PE-AFDL102N — doble canasta` },
       { type: "product-card", productMlaId: "MLA40161710", label: "Doble canasta", labelColor: "purple", ranking: 5, description: `8.5 litros en dos canastas independientes, 2200W. 4.9 estrellas en 730 calificaciones.` },
-      { type: "product-card", productMlaId: "MLA53776810", label: "Mayor capacidad", labelColor: "purple", ranking: 6, description: `10 litros en doble piso, la mayor capacidad de las dos marcas. 4.9 estrellas.` },
-      { type: "p", content: `Ambas te dejan cocinar dos preparaciones distintas al mismo tiempo, a temperaturas diferentes. La Peabody tiene medio litro más de capacidad total; la Atma tiene más potencia (2200W). Para familias grandes o quien cocina para varios platos a la vez, cualquiera de las dos cambia la dinámica de la cocina.` },
+      { type: "p", content: `La Peabody PE-AFDL102N (10 litros en doble piso, la mayor capacidad de las dos marcas) está sin stock en Mercado Libre por el momento. Con la Peabody agotada, la Atma FRD248AP de arriba pasa a ser la opción de mayor capacidad disponible entre las dos marcas.` },
+      { type: "p", content: `Ambas te dejan cocinar dos preparaciones distintas al mismo tiempo, a temperaturas diferentes. La Peabody tenía medio litro más de capacidad total; la Atma tiene más potencia (2200W). Para familias grandes o quien cocina para varios platos a la vez, cualquiera de las dos cambia la dinámica de la cocina.` },
 
       { type: "h2", title: `Tabla comparativa: Atma vs Peabody`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Potencia`, `Ideal para`], rows: [
@@ -7891,7 +7891,7 @@ export const guides: Guide[] = [
         [`[Atma FR901DP Grill](https://meli.la/1gGXWsc)`, `{{precio:MLA37004216}}`, `6.3 L`, `1800W`, `Más potencia con grill`],
         [`[Peabody PE-AFG01IX Grill](https://meli.la/1afZm1r)`, `{{precio:MLA23318618}}`, `6 L`, `1500W`, `Grill con pantalla táctil`],
         [`[Atma FRD248AP Doble](https://meli.la/2aw3uVJ)`, `{{precio:MLA40161710}}`, `8.5 L`, `2200W`, `Doble canasta, más potencia`],
-        [`[Peabody PE-AFDL102N Doble](https://meli.la/2vwo31u)`, `{{precio:MLA53776810}}`, `10 L`, `2000W`, `Máxima capacidad`],
+        [`[Peabody PE-AFDL102N Doble (sin stock)](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810)`, `—`, `10 L`, `2000W`, `Máxima capacidad, cuando repongan`],
       ]},
 
       { type: "h2", title: `La red de service: donde Atma gana terreno` },
@@ -7917,7 +7917,7 @@ export const guides: Guide[] = [
       ]},
 
       { type: "h2", title: `Veredicto: cuál elegir`, id: "veredicto" },
-      { type: "verdict", content: `Si vivís en el interior del país y priorizás servicio técnico cercano, la [Atma FR248ABP](https://meli.la/2UfmcVY). Si estás en AMBA y te importa el diseño (pantalla táctil, visor 360°), la [Peabody PE-AFD650N](https://meli.la/2zaHWZ2). Para familia numerosa, la [Peabody PE-AFDL102N](https://meli.la/2vwo31u) con 10 litros. Ambas marcas son opciones serias, no hay riesgo de perder plata con ninguna.` },
+      { type: "verdict", content: `Si vivís en el interior del país y priorizás servicio técnico cercano, la [Atma FR248ABP](https://meli.la/2UfmcVY). Si estás en AMBA y te importa el diseño (pantalla táctil, visor 360°), la [Peabody PE-AFD650N](https://meli.la/2zaHWZ2). Para familia numerosa, la [Atma FRD248AP](https://meli.la/2aw3uVJ) con 8.5 litros en doble canasta (la Peabody PE-AFDL102N de 10L está sin stock). Ambas marcas son opciones serias, no hay riesgo de perder plata con ninguna.` },
       { type: "p", content: `Si querés explorar más allá de estos dos, revisá nuestra [comparativa de mejores freidoras de aire en Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina). Y si andás por modelos específicos de cada marca, tenemos análisis a fondo de [Atma freidoras](https://productosvirales.com.ar/guias/atma-freidoras-de-aire-review) y [Peabody freidoras](https://productosvirales.com.ar/guias/peabody-freidoras-de-aire-review).` },
     ],
     faq: [
@@ -8125,7 +8125,7 @@ export const guides: Guide[] = [
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Mejor precio, 8L simple", labelColor: "green", tagline: "Volumen real para 5-6 personas sin pagar el extra de doble canasta" },
       { productMlaId: "MLA28709303", label: "Mejor doble canasta económica", labelColor: "blue", tagline: "7.6L en dos cestas al precio más accesible del segmento doble" },
-      { productMlaId: "MLA53776810", label: "Máxima capacidad", labelColor: "purple", tagline: "10L en doble piso, la más grande del catálogo" },
+      { productMlaId: "MLA54106293", label: "Máxima capacidad", labelColor: "purple", tagline: "10L, la más grande disponible ahora" },
       { productMlaId: "MLA55779230", label: "Premium", labelColor: "amber", tagline: "9L, mejor distribución de aire, pantalla táctil y app" },
     ],
     intro: [
@@ -8138,7 +8138,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**Mejor precio, simple:** [Atma FR248ABP](https://meli.la/2UfmcVY) — 8L, volumen real para 5-6 personas sin pagar el extra de doble canasta.`,
         `**Mejor doble canasta económica:** [Oster Dual DiamondForce](https://meli.la/1rwaoYB) — 7.6L en dos cestas al precio más accesible del segmento.`,
-        `**Máxima capacidad:** [Peabody PE-AFDL102N](https://meli.la/2vwo31u) — 10L en doble piso, la más grande del catálogo.`,
+        `**Máxima capacidad:** [Suono Airfryer 10L](https://meli.la/1hCBwJ3) — 10L, la más grande disponible ahora (la Peabody PE-AFDL102N de igual capacidad está sin stock).`,
         `**Premium:** [Philips PHNA35100](https://meli.la/15VAU5a) — 9L, mejor distribución de aire, pantalla táctil y app.`,
       ] },
 
@@ -8161,13 +8161,12 @@ export const guides: Guide[] = [
       { type: "product-card", productMlaId: "MLA40161710", label: "Doble canasta nacional", labelColor: "blue", ranking: 3, description: `8.5 litros en dos canastas de 2200W, más potencia que la Oster. 4.9 estrellas en 730 calificaciones.` },
       { type: "p", content: `Más potencia (2200W) que la Oster, y la ventaja de la red de service de Atma en todo el país. Las cestas no tienen divisores de aire independientes, así que la distribución no siempre es perfectamente pareja entre las dos.` },
 
-      { type: "h3", title: `4. Suono Airfryer — capacidad máxima a precio medio` },
-      { type: "product-card", productMlaId: "MLA54106293", label: "Capacidad a precio medio", labelColor: "purple", ranking: 4, description: `10 litros, doble resistencia, 12 programas. 4.8 estrellas en 1.946 calificaciones.` },
-      { type: "p", content: `Cuesta {{preciodif:MLA54106293:MLA53776810}} menos que la Peabody de igual capacidad. La contra: service técnico menos consolidado que Atma o Peabody si algo falla fuera de garantía.` },
+      { type: "h3", title: `4. Suono Airfryer — máxima capacidad disponible` },
+      { type: "product-card", productMlaId: "MLA54106293", label: "Máxima capacidad disponible", labelColor: "purple", ranking: 4, description: `10 litros, doble resistencia, 12 programas. 4.8 estrellas en 1.946 calificaciones.` },
+      { type: "p", content: `Es una sola canasta grande (no doble piso), así que no tiene el problema de distribución desigual entre niveles. La contra: service técnico menos consolidado que Atma o Peabody si algo falla fuera de garantía. Con la Peabody de igual capacidad sin stock, esta pasa a ser la opción de 10 litros disponible ahora.` },
 
-      { type: "h3", title: `5. Peabody PE-AFDL102N — máxima capacidad` },
-      { type: "product-card", productMlaId: "MLA53776810", label: "Máxima capacidad", labelColor: "purple", ranking: 5, description: `10 litros en doble piso, la mayor capacidad del catálogo. 4.9 estrellas.` },
-      { type: "p", content: `Si cocinás para 6-8 personas, esto funciona. La contra real del doble piso: el de arriba nunca queda tan crocante como el de abajo, porque el aire ya pasó por el piso inferior. No sirve bien para dos preparaciones con tiempos distintos.` },
+      { type: "h3", title: `5. Peabody PE-AFDL102N — 10L en doble piso (sin stock)` },
+      { type: "p", content: `10 litros en doble piso, la mayor capacidad del catálogo, 4.9 estrellas. Está sin stock en Mercado Libre por el momento; la dejamos documentada porque suele reponerse. Si cocinás para 6-8 personas y aparece disponible, funciona bien. La contra real del doble piso: el de arriba nunca queda tan crocante como el de abajo, porque el aire ya pasó por el piso inferior. No sirve bien para dos preparaciones con tiempos distintos. [Ver ficha](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810) para chequear disponibilidad.` },
 
       { type: "h3", title: `6. Philips PHNA35100 — premium` },
       { type: "product-card", productMlaId: "MLA55779230", label: "Premium", labelColor: "amber", ranking: 6, description: `9 litros en doble canasta, pantalla táctil, app móvil, mejor distribución de aire de la categoría. 4.9 estrellas en 597 calificaciones.` },
@@ -8250,8 +8249,7 @@ export const guides: Guide[] = [
         `**Presupuesto ajustado, 4-6 personas:** [Atma FR248ABP](https://meli.la/2UfmcVY) — garantía y service nacional, sin lujos.`,
         `**Doble canasta sin gastar de más:** [Oster Dual DiamondForce](https://meli.la/1rwaoYB) — dos cestas al precio más accesible del segmento doble.`,
         `**Versatilidad y potencia (5-6 personas):** [Atma FRD248AP](https://meli.la/2aw3uVJ) — doble canasta con 2200W y service nacional.`,
-        `**Máxima capacidad para reuniones (6-8 personas):** [Peabody PE-AFDL102N](https://meli.la/2vwo31u) — 10L en doble piso.`,
-        `**Capacidad similar, precio medio:** [Suono Airfryer](https://meli.la/1hCBwJ3) — 10L, algo más barata que la Peabody.`,
+        `**Máxima capacidad para reuniones (6-8 personas):** [Suono Airfryer](https://meli.la/1hCBwJ3) — 10L, la disponible ahora (la Peabody PE-AFDL102N de igual capacidad está sin stock).`,
         `**Tecnología y mejor distribución de aire:** [Philips PHNA35100](https://meli.la/15VAU5a) — la premium del grupo, para quien puede pagarla.`,
       ]},
 
@@ -8260,13 +8258,13 @@ export const guides: Guide[] = [
         [`[Atma FR248ABP](https://meli.la/2UfmcVY)`, `{{precio:MLA39861162}}`, `8 L`, `Simple`, `Mejor precio del segmento grande`],
         [`[Oster Dual DiamondForce](https://meli.la/1rwaoYB)`, `{{precio:MLA28709303}}`, `7.6 L`, `Doble canasta`, `Doble canasta económica`],
         [`[Atma FRD248AP](https://meli.la/2aw3uVJ)`, `{{precio:MLA40161710}}`, `8.5 L`, `Doble canasta`, `Más potencia, service nacional`],
-        [`[Suono Airfryer](https://meli.la/1hCBwJ3)`, `{{precio:MLA54106293}}`, `10 L`, `Doble piso`, `Capacidad máxima a precio medio`],
-        [`[Peabody PE-AFDL102N](https://meli.la/2vwo31u)`, `{{precio:MLA53776810}}`, `10 L`, `Doble piso`, `Máxima capacidad`],
+        [`[Suono Airfryer](https://meli.la/1hCBwJ3)`, `{{precio:MLA54106293}}`, `10 L`, `Canasta única`, `Máxima capacidad disponible`],
+        [`[Peabody PE-AFDL102N (sin stock)](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810)`, `—`, `10 L`, `Doble piso`, `Máxima capacidad, cuando repongan`],
         [`[Philips PHNA35100](https://meli.la/15VAU5a)`, `{{precio:MLA55779230}}`, `9 L`, `Doble canasta`, `Premium, mejor distribución de aire`],
       ]},
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
-      { type: "verdict", content: `Si el presupuesto manda y no necesitás doble canasta, la [Atma FR248ABP](https://meli.la/2UfmcVY). Si querés cocinar dos cosas a la vez sin gastar de más, la [Oster Dual DiamondForce](https://meli.la/1rwaoYB). Para reuniones o familias de 6-8, la [Peabody PE-AFDL102N](https://meli.la/2vwo31u) con 10 litros. Si podés pagarla, la [Philips PHNA35100](https://meli.la/15VAU5a) tiene la mejor distribución de aire del grupo.` },
+      { type: "verdict", content: `Si el presupuesto manda y no necesitás doble canasta, la [Atma FR248ABP](https://meli.la/2UfmcVY). Si querés cocinar dos cosas a la vez sin gastar de más, la [Oster Dual DiamondForce](https://meli.la/1rwaoYB). Para reuniones o familias de 6-8, la [Suono Airfryer](https://meli.la/1hCBwJ3) con 10 litros (la Peabody PE-AFDL102N de igual capacidad está sin stock). Si podés pagarla, la [Philips PHNA35100](https://meli.la/15VAU5a) tiene la mejor distribución de aire del grupo.` },
     ],
     faq: [
       {
@@ -8312,8 +8310,7 @@ export const guides: Guide[] = [
     quickPicks: [
       { productMlaId: "MLA28709303", label: "Doble canasta económica", labelColor: "green", tagline: "7.6L, la más accesible del segmento doble" },
       { productMlaId: "MLA40161710", label: "Doble canasta nacional", labelColor: "blue", tagline: "8.5L, más potencia, service en todo el país" },
-      { productMlaId: "MLA53776810", label: "Máxima capacidad", labelColor: "purple", tagline: "10L en doble piso" },
-      { productMlaId: "MLA55779230", label: "Premium", labelColor: "amber", tagline: "Regulación de aire independiente por cesta" },
+      { productMlaId: "MLA55779230", label: "Máxima capacidad disponible", labelColor: "purple", tagline: "9L, regulación de aire independiente por cesta" },
     ],
     intro: [
       `Cuando empezaron a salir freidoras con doble canasta, la propaganda fue obvia: "Cocina dos cosas a la vez". Suena genial. Carne en una, papas en la otra. Pero la realidad es un poco más complicada. Hay doble canasta y hay doble piso, y no es lo mismo. Y no siempre necesitás una.`,
@@ -8325,8 +8322,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**Doble canasta económica:** [Oster Dual DiamondForce](https://meli.la/1rwaoYB) — 7.6L, la más accesible del segmento.`,
         `**Doble canasta nacional:** [Atma FRD248AP](https://meli.la/2aw3uVJ) — 8.5L, más potencia, service en todo el país.`,
-        `**Máxima capacidad:** [Peabody PE-AFDL102N](https://meli.la/2vwo31u) — 10L en doble piso.`,
-        `**Premium:** [Philips PHNA35100](https://meli.la/15VAU5a) — regulación de aire independiente por cesta.`,
+        `**Premium y mayor capacidad disponible:** [Philips PHNA35100](https://meli.la/15VAU5a) — 9L, regulación de aire independiente por cesta (la Peabody PE-AFDL102N de 10L en doble piso está sin stock).`,
       ] },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las freidoras de doble canasta y doble piso disponibles hoy en MercadoLibre Argentina, mirando si la distribución de aire es realmente independiente entre compartimentos o si es marketing, y comparando el costo extra contra comprar dos freidoras simples. Los precios se revisan periódicamente.` },
@@ -8346,9 +8342,8 @@ export const guides: Guide[] = [
       { type: "product-card", productMlaId: "MLA40161710", label: "Doble canasta nacional", labelColor: "blue", ranking: 2, description: `8.5 litros en dos cestas de 4.2L cada una, 2200W. 4.9 estrellas en 730 calificaciones.` },
       { type: "p", content: `Cuesta {{preciodif:MLA28709303:MLA40161710}} más que la Oster, pero suma más potencia y la red de service de Atma en todo el país. Las cestas no tienen divisores de aire independientes, así que la distribución no siempre es perfectamente pareja.` },
 
-      { type: "h3", title: `3. Peabody PE-AFDL102N — máxima capacidad` },
-      { type: "product-card", productMlaId: "MLA53776810", label: "Máxima capacidad", labelColor: "purple", ranking: 3, description: `10 litros en doble piso, la freidora que más comida lleva en Argentina. 4.9 estrellas.` },
-      { type: "p", content: `Si cocinás para 6-8 personas, esto funciona. La contra real: el piso de arriba nunca queda tan crocante como el de abajo, y si querés dos cosas con tiempos distintos (una cruda, otra más hecha), es complicado — el tiempo es el mismo para ambos pisos. Mejor para cocinar grandes cantidades de lo mismo, no platos distintos.` },
+      { type: "h3", title: `3. Peabody PE-AFDL102N — máxima capacidad (sin stock)` },
+      { type: "p", content: `10 litros en doble piso, la freidora que más comida lleva en Argentina, 4.9 estrellas. Está sin stock en Mercado Libre por el momento — la dejamos documentada porque suele reponerse. Si cocinás para 6-8 personas y aparece disponible, funciona bien. La contra real: el piso de arriba nunca queda tan crocante como el de abajo, y si querés dos cosas con tiempos distintos (una cruda, otra más hecha), es complicado — el tiempo es el mismo para ambos pisos. Mejor para cocinar grandes cantidades de lo mismo, no platos distintos. [Ver ficha](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810) para chequear disponibilidad.` },
 
       { type: "h3", title: `4. Philips PHNA35100 — premium` },
       { type: "product-card", productMlaId: "MLA55779230", label: "Premium", labelColor: "amber", ranking: 4, description: `9 litros en dos cestas de 4.5L, regulación de aire independiente, pantalla táctil + app. 4.9 estrellas en 597 calificaciones.` },
@@ -8385,12 +8380,12 @@ export const guides: Guide[] = [
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Capacidad`, `Ideal para`], rows: [
         [`[Oster Dual DiamondForce](https://meli.la/1rwaoYB)`, `{{precio:MLA28709303}}`, `Doble canasta`, `7.6 L`, `Doble a precio más bajo`],
         [`[Atma FRD248AP](https://meli.la/2aw3uVJ)`, `{{precio:MLA40161710}}`, `Doble canasta`, `8.5 L`, `Más potencia, service nacional`],
-        [`[Peabody PE-AFDL102N](https://meli.la/2vwo31u)`, `{{precio:MLA53776810}}`, `Doble piso`, `10 L`, `Máxima capacidad`],
+        [`[Peabody PE-AFDL102N (sin stock)](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810)`, `—`, `Doble piso`, `10 L`, `Máxima capacidad, cuando repongan`],
         [`[Philips PHNA35100](https://meli.la/15VAU5a)`, `{{precio:MLA55779230}}`, `Doble canasta`, `9 L`, `Regulación de aire independiente`],
       ]},
 
       { type: "h2", title: `Veredicto: ¿vale la pena la doble canasta?`, id: "veredicto" },
-      { type: "verdict", content: `Vale la pena si cocinás para 5 o más personas o necesitás dos platos listos al mismo tiempo con frecuencia. La [Oster Dual DiamondForce](https://meli.la/1rwaoYB) es la entrada más accesible; la [Atma FRD248AP](https://meli.la/2aw3uVJ) suma potencia y service nacional; la [Peabody PE-AFDL102N](https://meli.la/2vwo31u) da la mayor capacidad; y la [Philips PHNA35100](https://meli.la/15VAU5a) es la única con regulación de aire realmente independiente entre cestas. Para 2-3 personas, una freidora simple alcanza y sobra.` },
+      { type: "verdict", content: `Vale la pena si cocinás para 5 o más personas o necesitás dos platos listos al mismo tiempo con frecuencia. La [Oster Dual DiamondForce](https://meli.la/1rwaoYB) es la entrada más accesible; la [Atma FRD248AP](https://meli.la/2aw3uVJ) suma potencia y service nacional; la [Philips PHNA35100](https://meli.la/15VAU5a) es la de mayor capacidad disponible ahora y la única con regulación de aire realmente independiente entre cestas (la Peabody PE-AFDL102N de 10L está sin stock). Para 2-3 personas, una freidora simple alcanza y sobra.` },
       { type: "h2", title: `Alternativas: Pensar fuera de la caja` },
       { type: "p", content: `Si realmente necesitás capacidad pero no doble canasta, revisá nuestro artículo sobre [freidoras gran capacidad](https://productosvirales.com.ar/guias/freidoras-de-aire-gran-capacidad). Una Atma FR248ABP de 8 litros simple a veces es mejor que una doble más cara.` },
       { type: "p", content: `Y si buscas comparar con otras opciones, revisá [mejores freidoras Argentina](https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina) y [Atma vs Peabody](https://productosvirales.com.ar/guias/atma-vs-peabody-freidora-de-aire).` },
@@ -8424,16 +8419,16 @@ export const guides: Guide[] = [
     category: "freidoras-de-aire",
     title: `Freidoras de aire económicas: ¿Se puede gastar poco y no arrepentirse?`,
     seoTitle: `Freidoras de aire económicas Argentina 2026: ¿valen la pena?`,
-    metaDescription: `Freidoras de aire económicas en Argentina 2026: PowerXL 3.8L, Kanji Home 8L y Gadnic 6.5L comparadas. Qué ganás y qué perdés al elegir precio bajo.`,
+    metaDescription: `Freidoras de aire económicas en Argentina 2026: PowerXL 3.8L, Philips NA120/00 4.2L y Atma 8L comparadas. Qué ganás y qué perdés al elegir precio bajo.`,
     ogTitle: `Freidoras de aire económicas Argentina: ¿se puede gastar poco sin arrepentirse?`,
-    ogDescription: `PowerXL, Kanji Home y Gadnic — las opciones económicas de freidora de aire. Cuánto se ahorra, qué se pierde y para quién sí o sí conviene la económica.`,
+    ogDescription: `PowerXL, Philips NA120/00 y Atma — las opciones económicas de freidora de aire. Cuánto se ahorra, qué se pierde y para quién sí o sí conviene la económica.`,
     h1: `Freidoras de aire económicas: El dulce entre gastar poco y no llorar después`,
     publishedDate: "2026-06-07",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
     standfirst: `Comparamos las opciones más accesibles de freidora de aire en Argentina hoy: qué ganás y qué perdés al elegir precio bajo, y cuál realmente sigue siendo la económica.`,
     quickPicks: [
-      { productMlaId: "MLA44142280", label: "La más económica", labelColor: "green", tagline: "6.5L a precio de entrada" },
+      { productMlaId: "MLA61393261", label: "La más económica", labelColor: "green", tagline: "4.2L a precio de entrada" },
       { productMlaId: "MLA36974228", label: "Compacta y accesible", labelColor: "blue", tagline: "3.8L para 1-2 personas" },
       { productMlaId: "MLA39861162", label: "El extra que vale la pena", labelColor: "purple", tagline: "8L, acero inoxidable, service nacional" },
     ],
@@ -8446,7 +8441,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Resumen rápido: cuál es realmente la económica hoy`, id: "resumen-rapido" },
       { type: "list", items: [
-        `**La más económica:** [Gadnic 6.5L](https://meli.la/1AMQ3m9) — marca nacional, precio de entrada.`,
+        `**La más económica:** [Philips NA120/00 4.2L](https://meli.la/2gU6JZ1) — marca internacional, precio de entrada, la Gadnic 6.5L que ocupaba este lugar está sin stock.`,
         `**Compacta y accesible:** [PowerXL AF-E4001-AR](https://meli.la/1Z6YNuK) — 3.8L, para 1-2 personas.`,
         `**El extra que vale la pena:** [Atma FR248ABP](https://meli.la/2UfmcVY) — acero inoxidable, 8L, service nacional, por no mucho más.`,
       ] },
@@ -8454,12 +8449,13 @@ export const guides: Guide[] = [
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las freidoras más accesibles disponibles hoy en MercadoLibre Argentina, mirando qué se pierde realmente al bajar de precio (potencia, material, garantía, service) frente a lo que se ahorra. Los precios se revisan periódicamente — este segmento se mueve rápido.` },
 
       { type: "callout", calloutVariant: "warning", calloutTitle: "La Kanji Home KJH-1700DC ya no es la económica", content: `Esta guía la recomendaba como "el justo medio barato" por sus 8 litros a precio bajo. Hoy cuesta {{precio:MLA42113760}}, más cara que la Atma FR248ABP de acero inoxidable con service nacional. Si la ves a ese precio, no es la opción económica que solía ser — comparala primero contra la Atma antes de elegirla por precio.` },
+      { type: "callout", calloutVariant: "update", calloutTitle: "La Gadnic 6.5L está sin stock", content: `Hasta hace poco era la más económica del catálogo. Mientras no repongan, la Philips NA120/00 de 4.2L pasa a ocupar ese lugar: es más chica y con controles analógicos en vez de digitales, pero es de marca internacional con 2 años de garantía formal.` },
 
       { type: "h2", title: `El ranking: las económicas que siguen siéndolo`, id: "ranking" },
 
-      { type: "h3", title: `1. Gadnic — la más económica` },
-      { type: "product-card", productMlaId: "MLA44142280", label: "La más económica", labelColor: "green", ranking: 1, description: `6.5 litros, 1600W, marca nacional. 4.8 estrellas.` },
-      { type: "p", content: `Gadnic es argentino: garantía y service se gestionan localmente, aunque sin la red de Atma. No destaca en nada puntual, pero tampoco flojea — precio local, distribuidor cercano, terminación prolija. La potencia es media y el precalentamiento es lento si cocinás seguido.` },
+      { type: "h3", title: `1. Philips NA120/00 — la más económica` },
+      { type: "product-card", productMlaId: "MLA61393261", label: "La más económica", labelColor: "green", ranking: 1, description: `4.2 litros, control analógico por perillas, tecnología RapidAir. 4.9 estrellas en 454 calificaciones.` },
+      { type: "p", content: `Philips es una marca internacional con 2 años de garantía formal, algo que ninguna otra opción de este segmento ofrece. La contra es la capacidad: 4.2 litros queda ajustado para más de 2-3 personas, y no tiene pantalla ni presets — son dos perillas, sin curva de aprendizaje pero sin programas tampoco.` },
 
       { type: "h3", title: `2. PowerXL AF-E4001-AR — compacta y accesible` },
       { type: "product-card", productMlaId: "MLA36974228", label: "Compacta y accesible", labelColor: "blue", ranking: 2, description: `3.8 litros, 10 funciones. 4.8 estrellas en 3.248 calificaciones.` },
@@ -8467,18 +8463,18 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `3. Atma FR248ABP — el extra que vale la pena` },
       { type: "product-card", productMlaId: "MLA39861162", label: "El extra que vale la pena", labelColor: "purple", ranking: 3, description: `8 litros, 2000W, acero inoxidable, red de service nacional. 4.8 estrellas en 3.224 calificaciones.` },
-      { type: "p", content: `Cuesta {{preciodif:MLA44142280:MLA39861162}} más que la Gadnic, pero suma casi el doble de capacidad, acero inoxidable en vez de aluminio, y la red de service más grande del país. Para la mayoría, ese extra se paga solo con la durabilidad.` },
+      { type: "p", content: `Cuesta {{preciodif:MLA61393261:MLA39861162}} más que la Philips NA120/00, pero suma casi el doble de capacidad, acero inoxidable y la red de service más grande del país. Para la mayoría, ese extra se paga solo con la durabilidad.` },
 
       { type: "h2", title: `Lo que realmente cambia: Durabilidad` },
-      { type: "p", content: `Esto es lo importante. Una freidora de $25.000 dura, promedio, tres años con uso normal. Una de $50.000 dura cinco. Es verdad.` },
+      { type: "p", content: `Esto es lo importante. Una freidora de entrada dura, promedio, tres años con uso normal. Una de gama media dura cinco. Es verdad.` },
       { type: "p", content: `¿Por qué? Componentes: resistencia más robusta, ventilador mejor diseñado, circuitería más sólida. Las marcas baratas (PowerXL, marcas sin presencia) usan componentes genéricos. Funcionan, pero se cansa de acelerar.` },
-      { type: "p", content: `Kanji y Gadnic están en el medio: mejor que PowerXL, pero no Atma.` },
+      { type: "p", content: `Kanji está en el medio: mejor que PowerXL, pero no Atma.` },
       { type: "h2", title: `Acceso a piezas de reemplazo` },
       { type: "p", content: `Punto crucial que nadie menciona. Una resistencia quemada en año tres.` },
       { type: "p", content: `Con Atma: Hay repuestos. Distribuidor te lo vende o te contacta con servicio.` },
       { type: "p", content: `Con PowerXL: Buena suerte. Tenés que buscar en Mercado Libre o comprar otra.` },
       { type: "p", content: `Con Kanji: Está mejorando, pero aún es complicado.` },
-      { type: "p", content: `Con Gadnic: Distribuidor puede conseguir, pero no es garantizado.` },
+      { type: "p", content: `Con Philips: garantía formal de 2 años, y al ser marca internacional el service es más fácil de conseguir que con marcas sin presencia local.` },
       { type: "h2", title: `Qué sacrificás por cada peso ahorrado` },
       { type: "p", content: `Bajando de gama en general perdés: garantía (de 2 años a 1), facilidad de service, potencia (200-500W menos), y el precalentamiento suma 1-2 minutos. En el escalón más bajo, además, la capacidad se reduce a 3.8-4L y el servicio técnico casi no existe.` },
 
@@ -8487,7 +8483,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Potencia`, `Ideal para`], rows: [
-        [`[Gadnic](https://meli.la/1AMQ3m9)`, `{{precio:MLA44142280}}`, `6.5 L`, `1600W`, `La más económica`],
+        [`[Philips NA120/00](https://meli.la/2gU6JZ1)`, `{{precio:MLA61393261}}`, `4.2 L`, `—`, `La más económica`],
         [`[PowerXL AF-E4001-AR](https://meli.la/1Z6YNuK)`, `{{precio:MLA36974228}}`, `3.8 L`, `1500W`, `1-2 personas, compacta`],
         [`[Atma FR248ABP](https://meli.la/2UfmcVY)`, `{{precio:MLA39861162}}`, `8 L`, `2000W`, `El extra que vale la pena`],
       ]},
@@ -8495,10 +8491,10 @@ export const guides: Guide[] = [
       { type: "h2", title: `Cuándo no ahorrar en freidora` },
       { type: "p", content: `Si cocinás 4+ veces por semana, no elijas la más barata. La durabilidad caerá rápido y en dos años estarás buscando otra — la inversión en calidad paga dividendos.` },
       { type: "p", content: `Si vivís lejos de centros urbanos, una freidora sin service local es una máquina de una sola dirección: hacia la basura si algo falla.` },
-      { type: "p", content: `Si el espacio es tema y necesitás capacidad real, la PowerXL de 3.8L queda chica. Mejor invertir un poco más en la Atma o la Gadnic.` },
+      { type: "p", content: `Si el espacio es tema y necesitás capacidad real, la PowerXL de 3.8L (o la Philips de 4.2L) quedan chicas. Mejor invertir un poco más en la Atma.` },
 
       { type: "h2", title: `Veredicto: cuál elegir`, id: "veredicto" },
-      { type: "verdict", content: `Para uso ocasional y presupuesto ajustado, la [Gadnic](https://meli.la/1AMQ3m9) es la más económica hoy. Si sos 1-2 personas y el espacio es limitado, la [PowerXL](https://meli.la/1Z6YNuK). Si cocinás seguido, el extra por la [Atma FR248ABP](https://meli.la/2UfmcVY) se paga solo en durabilidad y service. La Kanji Home ya no es la alternativa económica que era — comparala por precio antes de elegirla solo por capacidad.` },
+      { type: "verdict", content: `Para uso ocasional y presupuesto ajustado, la [Philips NA120/00](https://meli.la/2gU6JZ1) es la más económica disponible hoy (la Gadnic 6.5L está sin stock). Si sos 1-2 personas y el espacio es limitado, la [PowerXL](https://meli.la/1Z6YNuK). Si cocinás seguido, el extra por la [Atma FR248ABP](https://meli.la/2UfmcVY) se paga solo en durabilidad y service. La Kanji Home ya no es la alternativa económica que era — comparala por precio antes de elegirla solo por capacidad.` },
     ],
     faq: [
       {
@@ -8511,7 +8507,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Qué hago si se daña después de garantía?`,
-        answer: `Depende la marca. Atma tiene service donde arregla. PowerXL: hay que ingeniárselas. Gadnic: depende del distribuidor local.`,
+        answer: `Depende la marca. Atma tiene service donde arregla. PowerXL: hay que ingeniárselas. Philips: garantía formal de 2 años, más fácil de reclamar al ser marca internacional.`,
       },
       {
         question: `¿Qué comidas se cocinan mejor en freidora barata?`,
@@ -8519,7 +8515,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Recomendás ahorrar en freidora?`,
-        answer: `Depende. Si es tu primera y no sabés si la vas a usar seguido, adelante con la [Gadnic](https://meli.la/1AMQ3m9) o la [PowerXL](https://meli.la/1Z6YNuK). Si ya sabés que cocinás seguido, invertí en la [Atma](https://meli.la/2UfmcVY). Es más inteligente a largo plazo.`,
+        answer: `Depende. Si es tu primera y no sabés si la vas a usar seguido, adelante con la [Philips NA120/00](https://meli.la/2gU6JZ1) o la [PowerXL](https://meli.la/1Z6YNuK). Si ya sabés que cocinás seguido, invertí en la [Atma](https://meli.la/2UfmcVY). Es más inteligente a largo plazo.`,
       },
     ],
     internalLinks: [
@@ -8683,7 +8679,7 @@ export const guides: Guide[] = [
     standfirst: `Moldes, papel perforado, bandejas y pinzas de silicona: te contamos qué accesorios realmente mejoran los resultados de tu freidora de aire y cuáles son gadgets que terminan en un cajón.`,
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Si todavía no tenés freidora", labelColor: "green", tagline: "La más recomendada del catálogo, 8L" },
-      { productMlaId: "MLA44142280", label: "Opción económica", labelColor: "blue", tagline: "6.5L a precio de entrada" },
+      { productMlaId: "MLA61393261", label: "Opción económica", labelColor: "blue", tagline: "4.2L a precio de entrada" },
     ],
     intro: [
       `Si acabás de traer una freidora de aire a casa, probablemente ya viste que hay un arsenal de accesorios dando vuelta en Mercado Libre. Moldes, papelería especial, bandejas con patas, pinzas de silicona... La pregunta es: ¿realmente necesitás todo eso o son gadgets que terminan arrumbados en un cajón?`,
@@ -8798,7 +8794,7 @@ export const guides: Guide[] = [
     standfirst: `Los pasos básicos para usar bien tu freidora de aire desde el primer día: precalentamiento, distribución de alimentos, tiempos de cocción y limpieza, para evitar los errores más comunes de los principiantes.`,
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Si todavía no tenés freidora", labelColor: "green", tagline: "La más recomendada del catálogo, 8L" },
-      { productMlaId: "MLA44142280", label: "Opción económica", labelColor: "blue", tagline: "6.5L a precio de entrada" },
+      { productMlaId: "MLA61393261", label: "Opción económica", labelColor: "blue", tagline: "4.2L a precio de entrada" },
     ],
     intro: [
       `Compraste tu freidora de aire y no sabés por dónde empezar. Es normal. A pesar de que el aparato es relativamente simple, los primeros intentos pueden traer sorpresas desagradables: comida quemada, cruda, o con ese olor a plástico quemado que genera dudas. Con estos pasos básicos evitarás errores comunes y sacarás el máximo provecho de tu compra.`,
@@ -8954,7 +8950,7 @@ export const guides: Guide[] = [
     standfirst: `Calculamos cuánto consume realmente una freidora de aire en pesos argentinos, con y sin subsidio, y la comparamos contra otros electrodomésticos para que sepas si el gasto eléctrico te preocupa o no.`,
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Si todavía no tenés freidora", labelColor: "green", tagline: "2000W, la más recomendada del catálogo" },
-      { productMlaId: "MLA44142280", label: "Menor consumo", labelColor: "blue", tagline: "1600W, opción económica" },
+      { productMlaId: "MLA61393261", label: "Menor consumo", labelColor: "blue", tagline: "4.2L, la más chica y económica" },
     ],
     intro: [
       `Compraste freidora y de repente pensás: ¿cuánto me va a costar usarla? Es una pregunta legítima. A diferencia del gas (donde calcular es complicado), la electricidad es medible. Acá te mostramos exactamente cómo se calcula el consumo y qué significa en tu factura.`,
@@ -9137,7 +9133,7 @@ export const guides: Guide[] = [
     standfirst: `Las desventajas reales de la freidora de aire, sin vender humo: capacidad menor a la que promete, ruido del ventilador, sabor distinto al frito y otros puntos que conviene conocer antes de gastar la plata.`,
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Si igual te convence", labelColor: "green", tagline: "2000W, la más recomendada del catálogo" },
-      { productMlaId: "MLA44142280", label: "Opción más chica", labelColor: "blue", tagline: "6.5L, menor consumo y menos espacio" },
+      { productMlaId: "MLA61393261", label: "Opción más chica", labelColor: "blue", tagline: "4.2L, menor consumo y menos espacio" },
     ],
     intro: [
       `Las freidoras de aire están en todos lados. Las ves en casas de amigos, las publicitan como si fueran magia, y por supuesto hay ofertas en Mercado Libre cada tanto. Pero nadie te cuenta los problemas reales. Acá vamos a hacerlo.`,
@@ -9260,7 +9256,7 @@ export const guides: Guide[] = [
     standfirst: `Comparamos freidora de aire y horno en tiempo de cocción, consumo eléctrico, capacidad y resultado, para que sepas cuál conviene según cómo cocinás y qué tipo de horno tenés en tu cocina.`,
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Si te convence la freidora", labelColor: "green", tagline: "2000W, la más recomendada del catálogo" },
-      { productMlaId: "MLA44142280", label: "Opción más chica", labelColor: "blue", tagline: "6.5L, para complementar el horno" },
+      { productMlaId: "MLA61393261", label: "Opción más chica", labelColor: "blue", tagline: "4.2L, para complementar el horno" },
     ],
     intro: [
       `La pregunta aparece en todos lados: ¿compro freidora de aire o qué hago con el horno que tengo? La respuesta depende de lo que cocinás, cuánto cocinás y qué tipo de horno tenés en casa. No es que una sea mejor que la otra. Son aparatos distintos para situaciones distintas.`,
@@ -9648,11 +9644,11 @@ export const guides: Guide[] = [
     hasDisclosure: true,
     standfirst: `¿Vale la pena gastar en una freidora de aire? Respuesta honesta con el cálculo real de amortización: para quién sí, para quién no, y por qué casi nunca se justifica por plata.`,
     quickPicks: [
-      { productMlaId: "MLA44142280", label: "Opción de entrada", labelColor: "blue", tagline: "para probar sin gastar de más" },
+      { productMlaId: "MLA61393261", label: "Opción de entrada", labelColor: "blue", tagline: "para probar sin gastar de más" },
       { productMlaId: "MLA39861162", label: "Si ya decidiste", labelColor: "green", tagline: "2000W, la más recomendada del catálogo" },
     ],
     intro: [
-      `Estás a punto de gastar entre {{precio:MLA44142280:k}} y {{precio:MLA39861162:k}} en una freidora de aire, según el modelo. Es plata real. Necesitás saber si vale, sin maña de vendedor.`,
+      `Estás a punto de gastar entre {{precio:MLA61393261:k}} y {{precio:MLA39861162:k}} en una freidora de aire, según el modelo. Es plata real. Necesitás saber si vale, sin maña de vendedor.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_981648-MLA99506816420_112025-F.webp", alt: `Vale la pena comprar freidora de aire Argentina 2026`, imageSize: "hero" },
@@ -9721,11 +9717,11 @@ export const guides: Guide[] = [
       { type: "p", content: `Comprar freidora es relativamente bajo riesgo porque:` },
       { type: "p", content: `1. La usas 2 semanas. Si no te cae bien, la vendés usada y recuperás buena parte de lo que pagaste. 2. Dura 5-7 años normalmente. Es difícil que te deje en la mano rápido. 3. Hay tantas marcas que si una sale mal, cambiás de marca.` },
       { type: "p", content: `El riesgo real es: desperdiciás dinero en algo que no usas. No es que explote y casi mata a alguien (cosa que sí pasaría con un aire acondicionado fake).` },
-      { type: "p", content: `Entonces: si dudás, comprá una de entrada, como la [Gadnic de 6.5L](https://meli.la/1AMQ3m9) ({{precio:MLA44142280}}). Probá una o dos semanas. Si no la usás, podés revenderla usada y recuperar buena parte de lo que pagaste. Si la usás, después invertís en un modelo mejor.` },
+      { type: "p", content: `Entonces: si dudás, comprá una de entrada, como la [Philips NA120/00 de 4.2L](https://meli.la/2gU6JZ1) ({{precio:MLA61393261}}). Probá una o dos semanas. Si no la usás, podés revenderla usada y recuperar buena parte de lo que pagaste. Si la usás, después invertís en un modelo mejor.` },
       { type: "h2", title: `Alternativa: pedir prestada antes de comprar` },
       { type: "p", content: `¿Conocés a alguien con freidora? Pídele una semana. Cocinás todos los días con ella. Si después de esa semana pensás "esto cambió mi cocina", comprá. Si pensás "fue novelería", no gastes.` },
       { type: "p", content: `Es el mejor test de compra que existe.` },
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Si no tenés a quién pedirle prestada", content: `Comprá la opción de entrada del catálogo (Gadnic, {{precio:MLA44142280}}) y tratala como tu "prueba". Es el modelo más fácil de revender si decidís que no es para vos, y si te convence, después subís a un modelo con más capacidad o funciones.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Si no tenés a quién pedirle prestada", content: `Comprá la opción de entrada del catálogo (Philips NA120/00, {{precio:MLA61393261}}) y tratala como tu "prueba". Es el modelo más fácil de revender si decidís que no es para vos, y si te convence, después subís a un modelo con más capacidad o funciones.` },
       { type: "h2", title: `Versión tldr (muy resumida)` },
       { type: "p", content: `Compra si:` },
       { type: "list", items: [
@@ -9769,7 +9765,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Hay freidoras muy baratas que funcionen?`,
-        answer: `Sí. La Gadnic de 6.5L, la más económica del catálogo ({{precio:MLA44142280}}), funciona bien. No esperes experiencia premium, pero cocina.`,
+        answer: `Sí. La Philips NA120/00 de 4.2L, la más económica disponible ahora ({{precio:MLA61393261}}), funciona bien. No esperes experiencia premium, pero cocina.`,
       },
       {
         question: `¿Hay que descartarla después de años?`,
@@ -9816,25 +9812,25 @@ export const guides: Guide[] = [
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Mejor para la mayoría", labelColor: "green", tagline: "8 litros, control táctil, garantía local" },
       { productMlaId: "MLA19630911", label: "Mejor cocción", labelColor: "blue", tagline: "Tecnología Rapid Air, cocción más pareja" },
-      { productMlaId: "MLA53776810", label: "Familia numerosa", labelColor: "purple", tagline: "10 litros en doble piso, la mayor capacidad del catálogo" },
-      { productMlaId: "MLA44142280", label: "Mejor precio accesible", labelColor: "amber", tagline: "6.5 litros a precio de entrada" },
+      { productMlaId: "MLA42113760", label: "Familia numerosa", labelColor: "purple", tagline: "8 litros, la más grande disponible ahora" },
+      { productMlaId: "MLA61393261", label: "Mejor precio accesible", labelColor: "amber", tagline: "4.2 litros a precio de entrada" },
     ],
     intro: [
       `En los últimos tres años, la freidora de aire pasó de ser un electrodoméstico de nicho a uno de los más buscados en Mercado Libre Argentina. El salto tiene lógica: consume menos luz que el horno, cocina más rápido, y el crocante que da sin aceite convirtió a mucha gente.`,
-      `El problema ahora es elegir. Hay freidoras desde 4.000 pesos hasta más de 100.000, con capacidades que van de 3.8 a 10 litros, con grill, doble canasta, visor de 360°. Una cantidad de opciones que marea.`,
+      `El problema ahora es elegir. Hay freidoras desde {{precio:MLA61393261:k}} hasta más de {{precio:MLA19630911:k}}, con capacidades que van de 3.8 a 10 litros, con grill, doble canasta, visor de 360°. Una cantidad de opciones que marea.`,
       `Esta guía cubre los 20 modelos disponibles en el sitio con links a Mercado Libre, organizados por marca y uso. Si querés ir directo, acá va la versión corta.`,
     ],
     sections: [
       { type: "image", src: "/images/freidoras/peabody-pe-afd650n.webp", alt: `Peabody PE-AFD650N, una de las mejores freidoras de aire en Argentina` },
       { type: "h2", title: `Resumen rápido: cuál comprar según tu caso` },
-      { type: "p", content: `La mejor freidora de aire para la mayoría de los hogares en Argentina es la Atma FR248ABP de 8 litros: la mejor relación capacidad, precio y garantía local. Si cocinás todos los días y el presupuesto da, la Philips HD9270 cocina más parejo. Para familia numerosa, la Peabody PE-AFDL102N de 10 litros con doble piso. Abajo, el detalle según tu caso.` },
+      { type: "p", content: `La mejor freidora de aire para la mayoría de los hogares en Argentina es la Atma FR248ABP de 8 litros: la mejor relación capacidad, precio y garantía local. Si cocinás todos los días y el presupuesto da, la Philips HD9270 cocina más parejo. Para familia numerosa, la Kanji Home de 8 litros. Abajo, el detalle según tu caso.` },
       { type: "list", items: [
         `Mejor relación precio/calidad para 2-4 personas: [Atma FR248ABP 8L](/guias/atma-freidoras-de-aire-review)`,
         `Mejor opción con doble canasta: [Atma Pro Doble FRD248AP](/guias/atma-freidoras-de-aire-review) o [Philips PHNA35100](/guias/philips-freidoras-de-aire-review)`,
         `Mejor freidora con función grill: [Atma FR901DP Grill](/guias/atma-freidoras-de-aire-review) o [Peabody PE-AFG01IX](/guias/peabody-freidoras-de-aire-review)`,
-        `Mejor freidora grande (familia numerosa): [Suono Digital 10L](/guias/suono-airfryer-review) o [Peabody PE-AFDL102N Doble Piso](/guias/peabody-freidoras-de-aire-review)`,
+        `Mejor freidora grande (familia numerosa): [Suono Digital 10L](/guias/suono-airfryer-review) o [Kanji Home 8L](/guias/kanji-home-freidora-review)`,
         `Mejor marca premium: [Philips HD9270](/guias/philips-freidoras-de-aire-review) o [Ninja Crispi 5.2L](/guias/ninja-crispi-review)`,
-        `Mejor precio accesible: [PowerXL 3.8L](/guias/powerxl-freidora-review) o [Gadnic 6.5L](/guias/gadnic-freidora-review)`,
+        `Mejor precio accesible: [PowerXL 3.8L](/guias/powerxl-freidora-review) o [Philips NA120/00 4.2L](/guias/gadnic-freidora-review)`,
       ]},
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos los 20 modelos de freidora de aire disponibles hoy en MercadoLibre Argentina y los ordenamos por relación capacidad-precio-service. Priorizamos garantía y repuestos locales, capacidad útil real (no solo la nominal) y qué dicen las calificaciones públicas de compradores reales. Los precios se revisan periódicamente.` },
@@ -9843,7 +9839,7 @@ export const guides: Guide[] = [
       { type: "product-card", productMlaId: "MLA39861162", label: "Mejor para la mayoría", labelColor: "green", ranking: 1, description: `8 litros para familia de 4 a 6, control táctil y garantía local. La mejor relación capacidad, precio y service en Argentina. Si dudás, es esta.` },
       { type: "pull-quote", content: `Excelente!. Es una opción muy práctica para cocinar. Entran 4 milanesas medianas de pollo, 4 rodajas de pan lactal para tostar. Hasta ahora probé con milanesa, para muslo deshuesada, papas noise y pan para tostar. Hice muffins y salieron muy bien!.`, attribution: `— Comprador verificado en MercadoLibre, hace 11 meses · 43 personas lo encontraron útil` },
       { type: "product-card", productMlaId: "MLA19630911", label: "Mejor cocción", labelColor: "blue", ranking: 2, description: `El Philips que más se vende acá. La tecnología Rapid Air cocina más parejo que las marcas nacionales. Cuesta más, pero si la usás a diario se nota. 6.2 litros para 3 a 5 personas.` },
-      { type: "product-card", productMlaId: "MLA53776810", label: "Familia numerosa", labelColor: "purple", ranking: 3, description: `10 litros en doble piso para cocinar para 6 o más sin hacer tandas. La de mayor capacidad del catálogo. La contra: ocupa bastante lugar en la mesada.` },
+      { type: "product-card", productMlaId: "MLA42113760", label: "Familia numerosa", labelColor: "purple", ranking: 3, description: `8 litros, la mayor capacidad disponible ahora en una sola cesta. Cocina para 6 personas sin hacer tandas. La contra: menos historial de service que Atma o Peabody.` },
       { type: "h2", title: `Los 20 modelos disponibles` },
       { type: "h3", title: `Atma — 4 modelos` },
       { type: "p", content: `Atma es la marca de electrodomésticos nacional con mayor presencia en Argentina. Sus freidoras de aire tienen buena relación precio/calidad, garantía local y amplia red de service en todo el país.` },
@@ -9856,7 +9852,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Peabody tiene presencia fuerte en el mercado argentino de electrodomésticos. Sus freidoras tienen diseños más modernos que las Atma y algunos modelos con características que pocas marcas ofrecen a ese precio.` },
       { type: "p", content: `Peabody PE-AFD650N — 6.5 litros La entrada a la gama Peabody. Pantalla digital, diseño negro compacto, buen acceso al cajón de la canasta. Rendimiento parejo para uso cotidiano. [Ver en Mercado Libre](https://meli.la/2zaHWZ2)` },
       { type: "p", content: `Peabody PE-AFD720N — 7.2L con Visor 360° El visor de 360° permite ver la cocción sin abrir la freidora, lo que ayuda a no perder temperatura y a controlar el proceso sin interrumpirlo. No es algo que muchos modelos tengan a este precio. [Ver en Mercado Libre](https://meli.la/1tZqZqD)` },
-      { type: "p", content: `Peabody PE-AFDL102N Doble Piso — 10 litros El modelo de mayor capacidad de todo el sitio. Con dos niveles de cocción independientes y 10 litros totales, es para cocinar para 6 personas o más sin hacer tandas. Ocupa bastante espacio en la mesada. [Ver en Mercado Libre](https://meli.la/2vwo31u)` },
+      { type: "p", content: `Peabody PE-AFDL102N Doble Piso — 10 litros El modelo de mayor capacidad de todo el sitio. Con dos niveles de cocción independientes y 10 litros totales, es para cocinar para 6 personas o más sin hacer tandas. Ocupa bastante espacio en la mesada. Actualmente sin stock en Mercado Libre; mientras tanto, la [Kanji Home de 8L](/producto/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700-mla42113760) es la de mayor capacidad disponible.` },
       { type: "p", content: `Peabody PE-AFG01IX Grill — 6 litros La versión con función grill de Peabody. Acabado inox, placa grill incluida, 6 litros de capacidad. Compite directamente con la Atma FR901DP en funcionalidad y precio. [Ver en Mercado Libre](https://meli.la/1afZm1r)` },
       { type: "p", content: `→ Análisis completo: [Freidoras de aire Peabody: todos los modelos](/guias/peabody-freidoras-de-aire-review)` },
       { type: "h3", title: `Philips — 5 modelos` },
@@ -9882,7 +9878,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Kanji Home es una marca de electrodomésticos de precio accesible con distribución en Argentina. Los 8 litros a su precio la hacen competitiva para familias grandes con presupuesto ajustado. Control digital, pantalla táctil. [Ver en Mercado Libre](https://meli.la/2pFTX5c)` },
       { type: "p", content: `→ Análisis completo: [Kanji Home freidora de aire: review](/guias/kanji-home-freidora-review)` },
       { type: "h3", title: `Gadnic 6.5L — 1.400W` },
-      { type: "p", content: `Gadnic es una marca de tecnología y electrodomésticos con fuerte presencia en el mercado argentino online. La freidora de 6.5 litros a 1.400W es una opción de precio intermedio-bajo para familias de 3 a 5 personas. [Ver en Mercado Libre](https://meli.la/1AMQ3m9)` },
+      { type: "p", content: `Gadnic es una marca de tecnología y electrodomésticos con fuerte presencia en el mercado argentino online. La freidora de 6.5 litros a 1.400W es una opción de precio intermedio-bajo para familias de 3 a 5 personas. Actualmente sin stock en Mercado Libre; mientras tanto, la [Philips NA120/00 de 4.2L](https://meli.la/2gU6JZ1) es la opción de entrada disponible.` },
       { type: "p", content: `→ Análisis completo: [Gadnic freidora de aire: review](/guias/gadnic-freidora-review)` },
       { type: "h3", title: `Suono Airfryer Digital — 10 litros` },
       { type: "p", content: `La de mayor capacidad del catálogo. 10 litros digitales para cocinar en volumen sin compromisos. Si la familia son 5 o 6 personas o recibís seguido, es la más práctica. Suono es una marca de electrodomésticos con presencia en el mercado argentino de audio y pequeños electrodomésticos. [Ver en Mercado Libre](https://meli.la/1hCBwJ3)` },
@@ -10546,7 +10542,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Limpieza: cada bandeja sale independiente, lo que facilita bastante el laburo. No es el paraíso, pero es más manejable que parece.` },
       { type: "p", content: `El factor que sorprende es la resistencia. Peabody no cortó camino acá. Los materiales se ven de buena calidad, especialmente en las bisagras y los clips de sujeción.` },
       { type: "p", content: `Mejor para: Familias grandes (más de 5 personas), negocios pequeños de comida, quien cocina a diario para muchos.` },
-      { type: "product-card", productMlaId: "MLA53776810", label: "Para familias grandes", labelColor: "amber" },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Actualmente sin stock", content: `La PE-AFDL102N Doble Piso está sin stock en Mercado Libre por el momento. La dejamos documentada porque suele reponerse. [Ver ficha](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810) para chequear disponibilidad, o mirá la [Suono Airfryer 10L](/guias/suono-airfryer-review) como alternativa de igual capacidad.` },
       { type: "h2", title: `Peabody PE-AFG01IX Grill 6L: la menos convencional` },
       { type: "p", content: `Este modelo es raro. No es una freidora de aire pura, es un híbrido con superficie de grill.` },
       { type: "p", content: `La capacidad es de 6 litros, la más pequeña de la línea. Pero la idea no es que sea la más grande, es que sea versátil. Mitad aire caliente, mitad grill.` },
@@ -10566,11 +10562,11 @@ export const guides: Guide[] = [
         [`[PE-AFG01IX](/guias/peabody-freidoras-de-aire-review)`, `6L + grill`, `No`, `Versátiles`, `Medio`, `Medio-alto`],
       ]},
       { type: "h2", title: `Dónde encontrar cada modelo y precios` },
-      { type: "p", content: `Los modelos de Peabody en Mercado Libre tiene buena disponibilidad. Los precios fluctúan bastante, así que chequea frecuente. Acá te dejo los links para que veas el precio del día:` },
+      { type: "p", content: `Los precios fluctúan bastante, así que chequea frecuente. Acá te dejo los links para que veas el precio del día (la PE-AFDL102N está sin stock por el momento, el link va a la ficha para que confirmes cuándo repone):` },
       { type: "list", items: [
         `[Peabody PE-AFD650N 6.5L en Mercado Libre](https://meli.la/2zaHWZ2)`,
         `[Peabody PE-AFD720N 7.2L con visor 360° en Mercado Libre](https://meli.la/1tZqZqD)`,
-        `[Peabody PE-AFDL102N Doble Piso 10L en Mercado Libre](https://meli.la/2vwo31u)`,
+        `[Peabody PE-AFDL102N Doble Piso 10L, ficha con disponibilidad](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810)`,
         `[Peabody PE-AFG01IX Grill 6L en Mercado Libre](https://meli.la/1afZm1r)`,
       ]},
       { type: "p", content: `A diferencia de otras marcas, Peabody tiene promociones inteligentes. Busca ofertas de vendedor autorizado, que a veces meten descuentos puntuales.` },
