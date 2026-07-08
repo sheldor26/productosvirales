@@ -7,29 +7,31 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Probar endpoint legacy (dca/dataset)
+      - name: Probar endpoint legacy con el ID de run real (j_...)
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
         run: |
-          echo "--- Legacy: /dca/dataset?id=c_mrbcvyc91n9lmqv6dt ---"
+          echo "--- Legacy: /dca/dataset?id=j_mrbd5syz2b3x4f4la2 ---"
           curl -s -o /tmp/legacy.json -w "HTTP_STATUS:%{http_code}\n" \
-            "https://api.brightdata.com/dca/dataset?id=c_mrbcvyc91n9lmqv6dt" \
+            "https://api.brightdata.com/dca/dataset?id=j_mrbd5syz2b3x4f4la2" \
             -H "Authorization: Bearer $TOKEN"
           echo "--- primeras 500 chars ---"
           head -c 500 /tmp/legacy.json
           echo ""
 
-      - name: Probar endpoint legacy - lista de collectors
+      - name: Probar listado de corridas del collector
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
         run: |
-          echo "--- Legacy: /dca/datasets (lista) ---"
-          curl -s -o /tmp/list.json -w "HTTP_STATUS:%{http_code}\n" \
-            "https://api.brightdata.com/dca/datasets" \
-            -H "Authorization: Bearer $TOKEN"
-          echo "--- primeras 800 chars ---"
-          head -c 800 /tmp/list.json
-          echo ""
+          for path in \
+            "https://api.brightdata.com/dca/get_collections?collector=c_mrbcvyc91n9lmqv6dt" \
+            "https://api.brightdata.com/dca/collections?collector=c_mrbcvyc91n9lmqv6dt" \
+            "https://api.brightdata.com/datasets/list"; do
+            echo "--- $path ---"
+            curl -s -o /tmp/x.json -w "HTTP_STATUS:%{http_code}\n" "$path" -H "Authorization: Bearer $TOKEN"
+            head -c 500 /tmp/x.json
+            echo ""
+          done
 
       - name: Probar endpoint nuevo - snapshots por dataset_id
         env:
