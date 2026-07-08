@@ -10797,16 +10797,24 @@ export const guides: Guide[] = [
     seoTitle: `PowerXL AF-E4001-AR 3.8L: review Argentina (2026)`,
     metaDescription: `Review del PowerXL AF-E4001-AR 3.8 litros en Argentina. La freidora más compacta y económica del mercado: para quién sirve y sus limitaciones reales.`,
     ogTitle: `PowerXL AF-E4001-AR 3.8L: la freidora más barata del mercado, ¿vale la pena?`,
-    ogDescription: `Compacta, económica y básica. Probamos el PowerXL AF-E4001-AR de 3.8L (rango $12.000-15.000): qué cocina bien, qué no, y para quién es la opción correcta en Argentina.`,
+    ogDescription: `Compacta, económica y básica. Probamos el PowerXL AF-E4001-AR de 3.8L: qué cocina bien, qué no, y para quién es la opción correcta en Argentina.`,
     h1: `PowerXL AF-E4001-AR 3.8L: Freidora Económica para Espacios Ajustados`,
     publishedDate: "2026-06-25",
-    updatedDate: "2026-06-25",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: `Probamos la PowerXL 3.8L, la más compacta del catálogo: qué cocina bien, dónde se nota el precio, y para quién tiene sentido frente a una freidora más grande.`,
+    quickPicks: [
+      { productMlaId: "MLA36974228", label: "Compacta y accesible", labelColor: "green", tagline: "3.8L para 1-2 personas" },
+      { productMlaId: "MLA39861162", label: "Si necesitás más capacidad", labelColor: "purple", tagline: "8L, acero inoxidable, service nacional" },
+    ],
     intro: [
-      `Si vivís en un departamento con cocina chica, tenés presupuesto limitado, o cocinás solo para voz y otro, la PowerXL aparece como opción. Es de las opciones más baratas del mercado (ronda $12.000-15.000 en Mercado Libre) y ocupa muy poco en la mesada. La pregunta es si el precio bajo viene con sacrificios reales en el rendimiento.`,
+      `Si vivís en un departamento con cocina chica, tenés presupuesto limitado, o cocinás solo para vos y otro, la PowerXL aparece como opción. Es de las más compactas del mercado y ocupa muy poco en la mesada. La pregunta es si el tamaño chico viene con sacrificios reales en el rendimiento.`,
     ],
     sections: [
       { type: "image", src: "/images/freidoras/powerxl-af-e4001-ar-3-8l.webp", alt: `PowerXL AF-E4001-AR freidora de aire 3.8 litros Argentina` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo evaluamos:** verificamos specs (potencia, capacidad) directamente en la ficha de Mercado Libre y comparamos contra las opciones de mayor capacidad del catálogo. Los precios se revisan periódicamente.` },
+      { type: "product-card", productMlaId: "MLA36974228", label: "Compacta y accesible", labelColor: "green", ranking: 1, description: `3.8 litros, 1200W, tecnología Vortex con 10 funciones. 4.8 estrellas en 3.248 calificaciones.` },
+      { type: "pull-quote", content: `Es muy práctico y paso medidas exactas porque no las tiene: 24cm alto, 24cm profundidad, 24 cm ancho.`, attribution: `— Comprador verificado en MercadoLibre, hace 1 año · 148 personas lo encontraron útil` },
       { type: "h2", title: `Tamaño y diseño: compacta, pero justa` },
       { type: "p", content: `La PowerXL mide 30 cm de frente por 25 cm de profundidad. En la mesada ocupa menos espacio que una tostadora grande. El diseño es básico pero funcional: cuerpo de plástico negro, perillas de control mecánicas (nada de pantalla digital), y un cestillo de 3.8 litros que podés ver a través de una pequeña ventana.` },
       { type: "p", content: `Eso de 3.8 litros es importante de entender. Para una persona, es perfecto. Para dos personas comiendo algo ligero, va bien. Para una pareja con cena completa, vas a necesitar hacer dos tandas.` },
@@ -10825,8 +10833,8 @@ export const guides: Guide[] = [
       { type: "p", content: `El revestimiento antiadherente del cestillo es básico pero funciona. Se limpia con agua y un cepillo suave. La zona alrededor del resistor acumula un poco de grasa si cocinás regularmente, pero es fácil de limpiar.` },
       { type: "p", content: `PowerXL como marca no tiene mucha presencia de servicio técnico en Argentina. Si algo se rompe, es complicado. Pero también es un aparato simple: si falla, generalmente es el resistor o el ventilador, que son piezas baratas que podés cambiar en un taller genérico.` },
       { type: "h2", title: `Precio: acá está lo de verdad` },
-      { type: "p", content: `Estamos hablando de $12.000-15.000. A ese precio, la PowerXL no tiene rival. La Kanji Home de 8 litros sale el doble. La Atma más barata está en $18.000. La Ninja ni hablar.` },
-      { type: "p", content: `Por eso mismo, si pasás presupuesto, hay que evaluar bien. ¿Necesitás 3.8 litros o preferís gastar un poco más y tener 6-8 litros que te sirvan para toda la familia?` },
+      { type: "p", content: `La PowerXL cuesta {{precio:MLA36974228}}. Cuesta {{preciodif:MLA36974228:MLA39861162}} menos que la Atma FR248ABP de 8 litros, que es más del doble de capacidad.` },
+      { type: "p", content: `Por eso mismo, hay que evaluar bien antes de pagar de más por capacidad que no vas a usar. ¿Necesitás 3.8 litros o preferís gastar un poco más y tener 8 litros que te sirvan para toda la familia?` },
       { type: "h2", title: `Pros que notás` },
       { type: "list", items: [
         `Precio muy accesible, la más barata del mercado`,
@@ -10848,11 +10856,16 @@ export const guides: Guide[] = [
       { type: "p", content: `No es para familias numerosas. No es para quien quiere una freidora robusta que aguante uso intenso.` },
       { type: "p", content: `Si cocinás ocasionalmente y querés probar si te gusta el sistema antes de invertir más, es un buen punto de entrada.` },
       { type: "h2", title: `Comparación rápida` },
-      { type: "p", content: `Si el presupuesto es el factor crítico, PowerXL gana. Si podés estirar $5.000-7.000 más, la Kanji Home de 8 litros o la Atma de 6 litros te dan triple capacidad y mejor potencia. No es lo mismo cocinar para uno que para una familia.` },
-      { type: "h2", title: `Recomendación final` },
-      { type: "p", content: `La PowerXL es honesta en lo que promete: freidora pequeña, económica, que funciona bien para volúmenes bajos. No es mala, simplemente tiene límites claros.` },
-      { type: "p", content: `Si ese es tu caso de uso (solo, departamento chico, presupuesto reducido), es compra segura. Si te preocupa quedarte chico rápido, mirá antes:` },
-      { type: "p", content: `Para comprarla:` },
+      { type: "p", content: `Si el tamaño compacto es el factor crítico, PowerXL gana. Si podés pagar más, la [Atma FR248ABP](https://meli.la/2UfmcVY) de 8 litros da más del doble de capacidad y mejor potencia. No es lo mismo cocinar para uno que para una familia.` },
+
+      { type: "h2", title: `Tabla comparativa`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Potencia`, `Ideal para`], rows: [
+        [`[PowerXL AF-E4001-AR](https://meli.la/1Z6YNuK)`, `{{precio:MLA36974228}}`, `3.8 L`, `1200W`, `1-2 personas, espacio chico`],
+        [`[Atma FR248ABP](https://meli.la/2UfmcVY)`, `{{precio:MLA39861162}}`, `8 L`, `2000W`, `Familia, uso diario`],
+      ]},
+
+      { type: "h2", title: `Veredicto: cuál elegir`, id: "veredicto" },
+      { type: "verdict", content: `La [PowerXL](https://meli.la/1Z6YNuK) es honesta en lo que promete: freidora pequeña, compacta, que funciona bien para volúmenes bajos. No es mala, simplemente tiene límites claros. Si vivís solo o en pareja y el espacio es premium, es compra segura. Si te preocupa quedarte chico rápido o cocinás para más de 2 personas seguido, la [Atma FR248ABP](https://meli.la/2UfmcVY) es la mejor inversión.` },
     ],
     faq: [
       {
@@ -10877,7 +10890,7 @@ export const guides: Guide[] = [
       },
       {
         question: `¿Conviene esta o una más cara?`,
-        answer: `Si el dinero no es problema, sí. Una Atma de $18.000-20.000 te da triple capacidad y potencia mejor. Pero si el presupuesto es apretado y cocinás solo, PowerXL resuelve.`,
+        answer: `Si el dinero no es problema, sí. Una Atma FR248ABP te da más del doble de capacidad y mejor potencia. Pero si el presupuesto es apretado y cocinás solo, PowerXL resuelve.`,
       },
     ],
     internalLinks: [
