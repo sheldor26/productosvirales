@@ -58,7 +58,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if git diff --quiet -- docs/radar-tendencias-argentina.md; then
+          if [ -z "$(git status --porcelain -- docs/radar-tendencias-argentina.md)" ]; then
             echo "Sin novedades. No se abre PR."
             exit 0
           fi

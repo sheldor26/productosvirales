@@ -37,7 +37,8 @@ function usage() {
 function parseTrends(text) {
   const lines = text.split("\n").map((l) => l.trim()).filter(Boolean);
   const items = [];
-  const volumeRe = /^([\d.,]+\s*[kKmM]?\+?)\s*recherches?$/;
+  // Pagina en espanol (hl=es): "1 M+ búsquedas", "200 mil+ búsquedas".
+  const volumeRe = /^([\d.,]+\s*(?:mil|M)?\+?)\s*b[uú]squedas$/i;
 
   for (let i = 1; i < lines.length; i++) {
     const volMatch = lines[i].match(volumeRe);
@@ -53,7 +54,7 @@ function parseTrends(text) {
         if (g) growth = g[1].replace(/\s+/g, "");
       }
       if (!ago) {
-        const a = lines[j].match(/^il y a (.+)$/) || lines[j].match(/^hier$|^avant-hier$/);
+        const a = lines[j].match(/^hace (.+)$/) || lines[j].match(/^ayer$|^anteayer$/);
         if (a) ago = a[1] || lines[j];
       }
       if (growth && ago) break;
@@ -74,12 +75,12 @@ function dedupe(items) {
 }
 
 function volumeToNumber(v) {
-  const m = v.match(/([\d.,]+)\s*([kKmM]?)/);
+  const m = v.match(/([\d.,]+)\s*(mil|M)?/i);
   if (!m) return 0;
   const n = parseFloat(m[1].replace(/[.,]/g, ""));
-  const unit = m[2].toLowerCase();
+  const unit = (m[2] || "").toLowerCase();
   if (unit === "m") return n * 1_000_000;
-  if (unit === "k") return n * 1_000;
+  if (unit === "mil") return n * 1_000;
   return n;
 }
 

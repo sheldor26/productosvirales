@@ -197,7 +197,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if git diff --quiet -- src/data/curated-products.ts docs/precios-sospechosos.md; then
+          if [ -z "$(git status --porcelain -- src/data/curated-products.ts docs/precios-sospechosos.md)" ]; then
             echo "Sin cambios de precio ni casos sospechosos nuevos. No se abre PR."
             exit 0
           fi

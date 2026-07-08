@@ -72,7 +72,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if git diff --quiet -- docs/ideas-productos-nuevos.md; then
+          if [ -z "$(git status --porcelain -- docs/ideas-productos-nuevos.md)" ]; then
             echo "Sin novedades. No se abre PR."
             exit 0
           fi
