@@ -71,3 +71,15 @@ export function parseInlineLinks(text: string): React.ReactNode[] {
   const out = renderText(resolved, { k: 0 });
   return out.length > 0 ? out : [resolved];
 }
+
+/**
+ * Para campos de texto plano (JSON-LD, meta tags) que no pueden llevar
+ * markup: resuelve precios y despoja `**bold**` / `[texto](url)` a texto
+ * plano, sin generar nodos React.
+ */
+export function toPlainText(text: string): string {
+  const resolved = injectLivePrices(text);
+  return resolved
+    .replace(/\*\*([\s\S]+?)\*\*/g, "$1")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+}

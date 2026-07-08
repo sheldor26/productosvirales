@@ -99,14 +99,14 @@ function SectionRenderer({ section }: { section: GuideSection }) {
             className="text-lg md:text-xl font-bold text-[var(--text-primary)] mb-3"
             style={{ fontFamily: "var(--font-display)" }}
           >
-            {injectLivePrices(section.card.heading)}
+            {parseInlineLinks(section.card.heading)}
           </h3>
           {section.card.paragraphs.map((p, i) => (
             <p
               key={i}
               className="text-[15px] leading-relaxed text-[var(--text-secondary)] mb-3"
             >
-              {injectLivePrices(p)}
+              {parseInlineLinks(p)}
             </p>
           ))}
           {section.card.ctas && section.card.ctas.length > 0 && (
@@ -171,7 +171,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
             </p>
           )}
           <p className="text-[15px] leading-relaxed text-[var(--text-primary)]">
-            {section.content ? injectLivePrices(section.content) : null}
+            {section.content ? parseInlineLinks(section.content) : null}
           </p>
         </div>
       );

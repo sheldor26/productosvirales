@@ -1,6 +1,7 @@
 import { GuideRenderer } from "./GuideRenderer";
 import { guideUrl } from "@/lib/guide-url";
 import { injectLivePrices } from "@/lib/price-token";
+import { toPlainText } from "@/lib/parse-inline-links";
 import type { Guide } from "@/lib/types";
 
 /**
@@ -61,7 +62,7 @@ export function GuidePageView({ guide }: { guide: Guide }) {
             name: item.question,
             acceptedAnswer: {
               "@type": "Answer",
-              text: injectLivePrices(item.answer),
+              text: toPlainText(item.answer),
             },
           })),
         }
