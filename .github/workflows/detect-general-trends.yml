@@ -1,0 +1,86 @@
+name: Radar de tendencias Argentina
+
+# Baja el top de tendencias de busqueda en Argentina (Google Trends, ultimos
+# 7 dias) con Web Unlocker y arma docs/radar-tendencias-argentina.md. Sin
+# filtrar por nicho ni categoria a proposito — la idea es detectar algo
+# nuevo que no esta en el catalogo (ej. el furor de figuritas Panini antes
+# de un Mundial), no solo confirmar lo que ya sabemos. No toca el catalogo.
+#
+# Requisito: secret BRIGHTDATA_API_TOKEN (el mismo que usan los otros
+# workflows de Bright Data). Costo: 1 credito, mismo pool compartido.
+
+on:
+  schedule:
+    # Miercoles 13:00 UTC = 10:00 hora Argentina (dia distinto a los otros
+    # dos workflows de Bright Data, para no juntar todo el mismo dia).
+    - cron: "0 13 * * 3"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  detect-general-trends:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el código
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Scrapear Google Trends Argentina
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          set -e
+          status=$(curl -s -o /tmp/trends.md -w "%{http_code}" \
+            -X POST "https://api.brightdata.com/request" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"zone":"mcp_unlocker","url":"https://trends.google.com/trending?geo=AR&hours=168&hl=es","format":"raw","data_format":"markdown"}')
+
+          if [ "$status" != "200" ]; then
+            echo "Scrape fallo (HTTP $status)."
+            cat /tmp/trends.md
+            exit 1
+          fi
+
+          node scripts/detect-general-trends.cjs /tmp/trends.md
+
+      - name: Abrir Pull Request si hubo reporte nuevo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if git diff --quiet -- docs/radar-tendencias-argentina.md; then
+            echo "Sin novedades. No se abre PR."
+            exit 0
+          fi
+
+          DATE=$(date +%Y-%m-%d)
+          BRANCH="radar-tendencias/${DATE}-${{ github.run_id }}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add docs/radar-tendencias-argentina.md
+          git commit -m "chore(radar-tendencias): reporte semanal ${DATE}"
+          git push origin "$BRANCH"
+
+          gh pr create \
+            --base master \
+            --head "$BRANCH" \
+            --title "Radar de tendencias Argentina — ${DATE}" \
+            --body "Top de búsquedas en Argentina (Google Trends, 7 días), sin filtrar.
+
+          Va a tener deportes/política mezclado — la idea es no perderse algo
+          como Panini antes de un Mundial por filtrar de más. Revisá
+          \`docs/radar-tendencias-argentina.md\` con tu propio criterio.
+
+          Generado por el workflow .github/workflows/detect-general-trends.yml"
