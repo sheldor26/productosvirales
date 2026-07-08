@@ -1,0 +1,99 @@
+name: Descubrir productos (Amazon + ML)
+
+# Scrapea paginas de categoria/bestsellers de Amazon y de busqueda de ML con
+# Web Unlocker (Bright Data, zone mcp_unlocker) y arma un reporte de ideas
+# de producto (docs/ideas-productos-nuevos.md). No toca el catalogo.
+#
+# Costo: 1 credito por pagina (mismo pool compartido de 5.000/mes que usan
+# los otros workflows de Bright Data — ver memoria del proyecto).
+#
+# Requisito: secret BRIGHTDATA_API_TOKEN (el mismo que usan los otros
+# workflows de Bright Data).
+
+on:
+  schedule:
+    # Martes 13:00 UTC = 10:00 hora Argentina (dia distinto al de tendencias
+    # TikTok, para no juntar todo el mismo dia).
+    - cron: "0 13 * * 2"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  # source|label|url — agregar/sacar paginas aca.
+  PAGES: |
+    amazon|Amazon Home & Kitchen bestsellers|https://www.amazon.com/Best-Sellers-Home-Kitchen/zgbs/home-garden
+    amazon|Amazon Kitchen & Dining bestsellers|https://www.amazon.com/Best-Sellers-Kitchen-Dining/zgbs/kitchen/284507
+    ml|Aspiradora robot (ML)|https://listado.mercadolibre.com.ar/aspiradora-robot
+    ml|Freidora de aire (ML)|https://listado.mercadolibre.com.ar/freidora-de-aire
+
+jobs:
+  discover-products:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el código
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Scrapear cada pagina y armar el reporte
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          set -e
+          while IFS='|' read -r source label url; do
+            [ -z "$source" ] && continue
+            echo "=== $label ($source) ==="
+
+            status=$(curl -s -o /tmp/page.md -w "%{http_code}" \
+              -X POST "https://api.brightdata.com/request" \
+              -H "Authorization: Bearer $TOKEN" \
+              -H "Content-Type: application/json" \
+              -d "{\"zone\":\"mcp_unlocker\",\"url\":\"$url\",\"format\":\"raw\",\"data_format\":\"markdown\"}")
+
+            if [ "$status" != "200" ]; then
+              echo "Scrape fallo (HTTP $status) para '$label', se saltea."
+              cat /tmp/page.md
+              continue
+            fi
+
+            node scripts/discover-products.cjs "$source" "$label" /tmp/page.md
+          done <<< "$PAGES"
+
+      - name: Abrir Pull Request si hubo reporte nuevo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if git diff --quiet -- docs/ideas-productos-nuevos.md; then
+            echo "Sin novedades. No se abre PR."
+            exit 0
+          fi
+
+          DATE=$(date +%Y-%m-%d)
+          BRANCH="ideas-producto/${DATE}-${{ github.run_id }}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add docs/ideas-productos-nuevos.md
+          git commit -m "chore(ideas-producto): reporte semanal ${DATE}"
+          git push origin "$BRANCH"
+
+          gh pr create \
+            --base master \
+            --head "$BRANCH" \
+            --title "Ideas de producto (Amazon + ML) — ${DATE}" \
+            --body "Reporte semanal de bestsellers de Amazon y categorías de ML.
+
+          Generador de ideas de producto/contenido, no toca el catálogo.
+          Revisá \`docs/ideas-productos-nuevos.md\`.
+
+          Generado por el workflow .github/workflows/discover-products.yml"

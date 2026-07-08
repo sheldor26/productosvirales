@@ -1,0 +1,133 @@
+name: Detectar tendencias TikTok
+
+# Busca posts de TikTok para nichos activos del sitio y arma un reporte de
+# ideas de contenido (docs/tendencias-detectadas.md). No toca el catalogo ni
+# publica nada solo — es un generador de ideas para revisar a mano.
+#
+# Usa el scraper pre-armado "TikTok - Posts by Search URL Fast API"
+# (dataset_id gd_m7n5ixlw1gc4no56kx) de Bright Data, con country=AR para
+# orientar los resultados a contenido en español/regional en vez de lo mas
+# viral global. Cada busqueda tiene un tope duro de 5 minutos: si no termino
+# en ese tiempo, se saltea esa busqueda esta semana (no se espera indefinido
+# ni se gastan creditos de mas — ver docs/rastreador-precios-plan.md y
+# memoria del proyecto sobre el pool de creditos compartido de Bright Data).
+#
+# Requisito: secret BRIGHTDATA_API_TOKEN (el mismo que usa update-prices-brightdata.yml).
+
+on:
+  schedule:
+    # Lunes 13:00 UTC = 10:00 hora Argentina.
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  DATASET_ID: gd_m7n5ixlw1gc4no56kx
+  # Nichos activos del sitio (ver CURRENT_STATE.md). Agregar/sacar aca.
+  NICHES: |
+    Aspiradora robot|robot aspiradora
+    Freidora de aire|freidora de aire
+    Perfumes árabes|perfume arabe
+
+jobs:
+  detect-trends:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bajar el código
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Buscar tendencias por nicho (tope 5 min c/u)
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          set -e
+          while IFS='|' read -r label query; do
+            [ -z "$label" ] && continue
+            echo "=== $label ($query) ==="
+
+            encoded=$(node -pe "encodeURIComponent(process.argv[1])" "$query")
+            url="https://www.tiktok.com/search?q=${encoded}&lang=es"
+
+            status=$(curl -s -o /tmp/trigger.json -w "%{http_code}" \
+              -X POST "https://api.brightdata.com/datasets/v3/trigger?dataset_id=$DATASET_ID" \
+              -H "Authorization: Bearer $TOKEN" \
+              -H "Content-Type: application/json" \
+              -d "[{\"url\":\"$url\",\"num_of_posts\":25,\"country\":\"AR\"}]")
+
+            if [ "$status" != "200" ]; then
+              echo "Trigger fallo (HTTP $status) para '$label', se saltea."
+              cat /tmp/trigger.json
+              continue
+            fi
+
+            snapshot_id=$(node -pe "JSON.parse(require('fs').readFileSync('/tmp/trigger.json','utf8')).snapshot_id || ''")
+            if [ -z "$snapshot_id" ]; then
+              echo "Sin snapshot_id para '$label', se saltea."
+              continue
+            fi
+
+            # Tope duro de 5 minutos (20 intentos x 15s).
+            ready=false
+            for i in $(seq 1 20); do
+              prog_status=$(curl -s "https://api.brightdata.com/datasets/v3/progress/$snapshot_id" \
+                -H "Authorization: Bearer $TOKEN" | node -pe "JSON.parse(require('fs').readFileSync(0,'utf8')).status || ''")
+              if [ "$prog_status" = "ready" ]; then
+                ready=true
+                break
+              fi
+              sleep 15
+            done
+
+            slug=$(echo "$label" | tr -cd '[:alnum:]')
+            if [ "$ready" = "true" ]; then
+              curl -s "https://api.brightdata.com/datasets/v3/snapshot/$snapshot_id?format=json" \
+                -H "Authorization: Bearer $TOKEN" -o "/tmp/dataset-$slug.json"
+              node scripts/detect-tiktok-trends.cjs "$label" "/tmp/dataset-$slug.json"
+            else
+              echo "'$label' no termino en 5 min, se saltea esta semana."
+              echo "[]" > "/tmp/dataset-$slug.json"
+              node scripts/detect-tiktok-trends.cjs "$label" "/tmp/dataset-$slug.json" --timeout
+            fi
+          done <<< "$NICHES"
+
+      - name: Abrir Pull Request si hubo reporte nuevo
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if git diff --quiet -- docs/tendencias-detectadas.md; then
+            echo "Sin novedades. No se abre PR."
+            exit 0
+          fi
+
+          DATE=$(date +%Y-%m-%d)
+          BRANCH="tendencias/${DATE}-${{ github.run_id }}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add docs/tendencias-detectadas.md
+          git commit -m "chore(tendencias): reporte semanal ${DATE}"
+          git push origin "$BRANCH"
+
+          gh pr create \
+            --base master \
+            --head "$BRANCH" \
+            --title "Tendencias TikTok — ${DATE}" \
+            --body "Reporte semanal de tendencias por nicho (TikTok, orientado a Argentina).
+
+          Es un generador de ideas de contenido, no toca el catálogo. Revisá
+          \`docs/tendencias-detectadas.md\` y si algo vale la pena, armá la guía
+          o ficha correspondiente.
+
+          Generado por el workflow .github/workflows/detect-trends.yml"
