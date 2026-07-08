@@ -1,7 +1,17 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-06 (guías nuevas: `camara-de-seguridad` [commiteada, push pendiente], `cargador-portatil` y `planchita-de-pelo` [sin commit]).
+> Última actualización: 2026-07-08 (sprint completo del cluster `pava-electrica`: 12/12 guías reconstruidas, todas commiteadas y pusheadas).
+
+## Sesión 08-jul — Sprint completo: cluster `pava-electrica` (12 guías) reconstruido y migrado al template "embudo de conversión"
+
+Disparador inicial: auditoría pedida por Juan sobre todas las guías (publicadas y staged), enfocada en precios hardcodeados en prosa. Escaló en varias etapas dentro de la misma sesión, todas commiteadas y pusheadas:
+
+1. **Sistema permanente de auditoría** (`npm run guides:check`, 4 scripts encadenados: tokens de precio, staleness de precio en prosa >3%, monetización mínima por guía, links de producto en tablas) + token `{{preciodif:A:B}}` para deltas comparativos en vivo.
+2. **4 guías reconstruidas por precios/links** (`control-temperatura`, `vidrio`, `acero-inoxidable`, `liliana`): bug crítico encontrado y corregido en el método de scraping de precios (se leía el precio tachado "antes", no el real con descuento).
+3. **Fix de sitio completo:** `GuideRenderer.tsx` usaba `injectLivePrices()` en vez de `parseInlineLinks()` para los tipos `bad`/`card` — cualquier link markdown ahí se mostraba como texto crudo `[Producto](url)`. Afectaba 6 guías ya en producción. Corregido a nivel de componente.
+4. **Migración completa al template "embudo de conversión"** (estándar fijado por Juan: `robot-aspiradora`): las 12 guías del cluster `pava-electrica` llevadas a `standfirst` + `quickPicks` + resumen rápido + `trust-block` + `product-card` real + `pull-quote` (reseñas reales de ML buscadas a mano, nunca inventadas) + `callout` + tabla con columna "Ideal para". Detalle completo y hallazgos (productos `deprioritized` que en realidad seguían vigentes, productos mencionados que no existían en catálogo, links muertos) en `docs/seo-tracking-optimizaciones.md`.
+5. **Pendiente:** el mismo tratamiento para el cluster de freidoras de aire (15 guías detectadas sin monetización en la auditoría original, todavía sin tocar). Correr `gsc.py fetch`+`report` para las 12 guías de pavas y registrar baseline real la próxima vez que se optimice contenido en alguna.
 
 ## Sesión 06-jul (5) — Guía nueva: `ventilador-de-techo` (pilar climatización, STAGED)
 
