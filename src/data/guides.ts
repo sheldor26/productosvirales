@@ -4039,6 +4039,14 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp", alt: `Pava eléctrica Liliana Mateando AP975B con función mate, una de las más vendidas de Argentina`, imageSize: "hero" },
 
+      { type: "h2", title: `Resumen rápido: cuál comprar según tu caso`, id: "resumen-rapido" },
+      { type: "list", items: [
+        `**Mejor elección general:** [Liliana Mateando AP975B](https://meli.la/2qM28cx) — función mate y la pava más probada del país, con 5.454 calificaciones.`,
+        `**Mejor para mate:** [Peabody Digital 40-100°](https://meli.la/2cyQgD2) — temperatura exacta para no quemar la yerba, con el rating más alto de la categoría (4.9).`,
+        `**Mejor acero calidad-precio:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — interior de acero y 4 niveles de temperatura por menos de {{precio:MLA14263533:k}}.`,
+        `**Más económica:** [Liliana AP152](https://meli.la/1QMfKob) — pava de acero con selector mate a {{precio:MLA61505857}}.`,
+      ] },
+
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las pavas eléctricas disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos cuatro cosas que cambian el uso real: si tiene control de temperatura o función mate (clave para el mate, que se ceba a 70-80° y no a 100°), el material del interior (acero no toma gusto, el plástico barato sí), la seguridad y comodidad (doble pared, corte automático, base giratoria) y qué dicen las calificaciones públicas de compradores reales. Los precios son de junio 2026 y los revisamos periódicamente.` },
 
       { type: "h2", title: `Antes de comprar: mate sí o mate no`, id: "antes-de-comprar" },
@@ -4108,6 +4116,7 @@ export const guides: Guide[] = [
         `**Menos de $20.000:** cuidado. Casi todo es plástico de baja calidad que da gusto al agua y dura poco.`,
       ] },
       { type: "p", content: `Para el desglose completo por presupuesto, ver la [guía de precios de pavas eléctricas](/guias/pava-electrica-precio).` },
+      { type: "trust-block", trustVariant: "pricing", content: `**Cómo verificamos los precios:** chequeamos cada modelo directamente en su publicación de MercadoLibre Argentina y tomamos el precio del vendedor con mejor reputación y stock. Cuando un producto sube o baja de forma sostenida, actualizamos la guía. No mostramos "precios tachados" inflados: el número que ves es el que pagás hoy.` },
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
       { type: "verdict", content: `Para la mayoría, la **Liliana Mateando AP975B** ($45.900): función mate, marca nacional y 5.454 compradores que la avalan. Si el mate es serio y querés temperatura exacta, la **Peabody Digital 40-100°** tiene el rating más alto de la categoría (4.9). ¿Acero sin pagar premium? La **Peabody PE-DK1850** a $55.999. ¿Presupuesto ajustado? La **Liliana AP152** de acero a $29.999. Y si querés la mejor sin mirar el precio, la **Philips HD9396** con doble pared. El único error a evitar: las pavas de plástico de menos de $20.000.` },
