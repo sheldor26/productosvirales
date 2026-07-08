@@ -4021,7 +4021,7 @@ export const guides: Guide[] = [
     ogDescription: `Mate sin quemar la yerba, agua sin gusto a plástico y cuánto conviene gastar realmente. La guía honesta de pavas eléctricas en Argentina.`,
     h1: `Mejores pavas eléctricas en Argentina: cuál comprar y cuánto cuesta [2026]`,
     publishedDate: "2026-06-21",
-    updatedDate: "2026-06-21",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Todo para elegir una pava eléctrica en Argentina sin gastar de más: ranking con precios reales de MercadoLibre, tabla comparativa, por qué el control de temperatura cambia el mate y cuál conviene según tu caso.`,
