@@ -222,6 +222,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **Nota al margen:** de paso se encontró que `ninja-vs-philips-freidora-de-aire` (guía vecina, no estaba en la lista original de 15 sin monetización porque ya tenía 2 product-card) también tiene precios hardcodeados desactualizados ("$65.000-$95.000" en varios lugares). No está en el alcance de este sprint (no era parte del hallazgo original); marcarla para una revisión de precios aparte.
 
+**accesorios-para-freidora-de-aire (2026-07-08):** séptima guía del sprint de freidoras. Guía informativa (papel perforado, moldes, pinzas) sin producto propio a rankear. Migrada con quickPicks de cross-sell (Atma FR248ABP, Gadnic) + trust-block + callout. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
