@@ -9,11 +9,16 @@ name: Actualizar precios de MercadoLibre
 #     "Allow GitHub Actions to create and approve pull requests"
 
 on:
-  schedule:
-    # Lunes, miércoles y viernes 11:00 UTC = 08:00 hora Argentina (UTC-3).
-    # El último campo es el día de la semana, y acepta lista: 1=lun, 3=mié, 5=vie.
-    # Cambiar a gusto: "0 11 * * 1,2,3,4,5" sería de lunes a viernes.
-    - cron: "0 11 * * 1,3,5"
+  # Pausado 2026-07-06: la app de ML sigue bloqueada (401 en toda la API) y el
+  # scraper de respaldo tampoco sirve (ML le sirve una pantalla degradada al
+  # navegador automatizado). Sin datos reales, cada corrida solo marcaba todo
+  # "stale" y abría un PR vacío. Reactivar el cron de abajo cuando se resuelva
+  # alguna de las dos vías.
+  # schedule:
+  #   # Lunes, miércoles y viernes 11:00 UTC = 08:00 hora Argentina (UTC-3).
+  #   # El último campo es el día de la semana, y acepta lista: 1=lun, 3=mié, 5=vie.
+  #   # Cambiar a gusto: "0 11 * * 1,2,3,4,5" sería de lunes a viernes.
+  #   - cron: "0 11 * * 1,3,5"
   workflow_dispatch: {} # botón para correrlo a mano desde la pestaña Actions
 
 permissions:
