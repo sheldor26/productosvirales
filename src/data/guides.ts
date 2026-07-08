@@ -5846,7 +5846,7 @@ export const guides: Guide[] = [
       { type: "p", content: "Peabody mantiene la temperatura por 2 horas. Útil si tomás varias tazas de té en esas 2 horas, si hacés café de filtro para varias personas, o si trabajás desde casa y tomás infusiones cada hora." },
       { type: "p", content: "Mantener 1.5L de agua a 80°C por 2 horas gasta aproximadamente $8-$10 de luz a precios actuales. Por mes de uso diario son $240-$300 extra." },
 
-      { type: "callout", calloutVariant: "warning", calloutTitle: "La que no conviene comprar", content: "No compres la [Peabody PE-KV8215R vintage](https://meli.la/2E5nXaB) ({{precio:MLA15276005}}): diseño lindo pero cuesta {{preciodif:MLA15276005:MLA24601443}} más que la Philips HD9350 con acero completo y solo tiene un termómetro analógico con una marca a 80°. Si querés acero, la Philips hace lo mismo con mejor durabilidad por menos plata." },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La que no conviene comprar", content: "No compres la [Peabody PE-KV8215R vintage](https://meli.la/2LMPxvo) ({{precio:MLA15276005}}): diseño lindo pero cuesta {{preciodif:MLA15276005:MLA24601443}} más que la Philips HD9350 con acero completo y solo tiene un termómetro analógico con una marca a 80°. Si querés acero, la Philips hace lo mismo con mejor durabilidad por menos plata." },
 
       { type: "h2", title: "Problemas comunes" },
       { type: "list", items: [
@@ -5891,7 +5891,7 @@ export const guides: Guide[] = [
       {
         question: "¿Vale la pena el modelo vintage PE-KV8215R?",
         answer:
-          "No. La [vintage](https://meli.la/2E5nXaB) cuesta {{precio:MLA15276005}}, más que la [Philips HD9350](https://meli.la/2kpg1Zr) que sale {{precio:MLA24601443}} con acero completo y durabilidad superior. El diseño vintage no justifica pagar {{preciodif:MLA15276005:MLA24601443}} extra.",
+          "No. La [vintage](https://meli.la/2LMPxvo) cuesta {{precio:MLA15276005}}, más que la [Philips HD9350](https://meli.la/2kpg1Zr) que sale {{precio:MLA24601443}} con acero completo y durabilidad superior. El diseño vintage no justifica pagar {{preciodif:MLA15276005:MLA24601443}} extra.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",

@@ -24341,7 +24341,7 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/pava-electrica-vintage-peabody-pe-kv8215r-color-rojo-2200-w/p/MLA15276005',
-    affiliateUrl: 'https://meli.la/2E5nXaB',
+    affiliateUrl: 'https://meli.la/2LMPxvo',
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
