@@ -21493,6 +21493,293 @@ Ideal para departamentos y casas medianas, mantenimiento diario y hogares con ma
     description: 'La aspiradora robot Xiaomi S40c usa navegación láser LDS para mapear la casa con precisión, recorrer ordenado y dejar que elijas habitaciones y zonas desde la app Xiaomi Home. Con 5.000 Pa y cuatro modos de succión aspira muy bien el pelo de mascota, y trapea con tanque de agua de 260 mL para el mantenimiento diario. Es el Xiaomi con mapeo láser más accesible del catálogo.',
   },
   {
+    id: 'MLA59149674',
+    title: 'Robot Aspirador Xiaomi Vacuum H40 Bhr07xbeu Blanco',
+    brand: 'Xiaomi',
+    price: 579999,
+    priceUpdated: '2026-07-08',
+    priceLastChecked: '2026-07-08',
+    priceStatus: 'fresh',
+    originalPrice: 749999,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_686132-MLA99453318576_112025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_686132-MLA99453318576_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_862394-MLA93937299748_102025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_956523-MLA93937084704_102025-O.webp',
+    ],
+    category: 'Electrodomésticos y Aires Ac.',
+    categorySlug: 'hogar',
+    permalink: 'https://www.mercadolibre.com.ar/robot-aspirador-xiaomi-vacuum-h40-bhr07xbeu-blanco/p/MLA59149674',
+    affiliateUrl: 'https://meli.la/1G3s36X',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 446,
+    reviewsWithPhotos: 4,
+    reviewsSampledAt: '2026-07-08',
+    soldQuantity: 500,
+    color: 'Blanco',
+    pastelColor: 'var(--pastel-blue)',
+    aiReviewSummary: 'Destaca por su excelente rendimiento y facilidad de uso, superando las expectativas en la limpieza del hogar. Su base autolimpiante y el cepillo anti enredos son características muy valoradas. Además, realiza un buen mapeo de la casa y es eficaz tanto en aspirar como en trapear, facilitando significativamente las tareas domésticas.',
+    seoTitle: 'Xiaomi Vacuum H40: aspiradora robot con autovaciado y tanque',
+    metaDescription: 'Xiaomi Vacuum H40: 10.000 Pa, base de autovaciado (bolsa de 4L) y tanque de agua real de 210 mL. 4.9★ con 446 opiniones. Analizamos para quién rinde.',
+    ogTitle: 'Xiaomi Vacuum H40: el primer Xiaomi accesible con autovaciado',
+    ogDescription: '4.9★ con 446 opiniones. 10.000 Pa, mapeo láser LDS 360°, base que se vacía sola y tanque de agua real. Vemos para quién conviene y qué avisan los compradores.',
+    h1: 'Xiaomi Vacuum H40: aspiradora robot con autovaciado, 10.000 Pa y tanque de agua real',
+    articleBody: `## El primer salto de Xiaomi: base de autovaciado
+
+Dentro del catálogo de Xiaomi, esto es lo que más cambia respecto a la [S40c](/producto/MLA61420449) y la [S40 Pro](/producto/MLA66281403): ninguna de esas dos tiene base de autovaciado, y el H40 sí. Trae una bolsa de polvo de 4 litros en la base: el robot vuelve, se vacía solo, y según la ficha aguanta hasta 90 días sin que la toques. Es el punto de entrada de Xiaomi a la automatización total, algo que antes solo tenían los modelos tope como el [X20 Pro](/producto/MLA44240016).
+
+## 10.000 Pa y tanque de agua real, no un paño mojado
+
+Aspira con 10.000 Pa en 4 niveles (Silencioso, Estándar, Turbo, Fuerte), bastante por encima de los 5.000 Pa de la S40c. Para el trapeado tiene un depósito de agua de 210 mL con 3 niveles de flujo controlados desde la app: dosifica el agua mientras avanza, así que no es un paño que se moja una vez y se seca solo. Es de mantenimiento diario, no reemplaza una fregada a fondo de manchas pegadas.
+
+## Navegación LDS láser 360°: mapea antes de moverse
+
+Usa navegación láser LDS de 360° con visualización 3D en la app Xiaomi Home: arma el mapa de la casa, deja elegir habitaciones, crear paredes virtuales y zonas restringidas, y hasta bloquear el control a los chicos. El sistema antienredos multidimensional está pensado para pelo de mascota largo y corto, para que no bloquee los cepillos.
+
+## Lo que avisan los que ya lo tienen: enchufe europeo y sin jabón
+
+Las opiniones son mayoritariamente muy buenas (4.9 con 446 calificaciones), pero hay dos avisos honestos que se repiten. El primero: el cable que trae termina en **enchufe tipo europeo** (dos clavijas redondas finas), así que conviene tener un adaptador a mano antes de enchufarlo. El segundo: al depósito de agua **no se le puede poner jabón ni detergente**, solo agua; una compradora comenta que en su casa quedaba olor si no pasaba después un paño con desinfectante. Ninguno de los dos es grave, pero conviene saberlo antes de comprar.
+
+## Compatible con Alexa y Google Assistant
+
+Se controla por la app Xiaomi Home (WiFi) y responde a comandos de voz de Alexa y Google Assistant: programar horarios, elegir zonas o mandarlo a la base se puede hacer sin tocar el celular. Trae control remoto físico como alternativa a la app.
+
+## En qué se diferencia del resto del catálogo
+
+Frente al [Gadnic AC800 LiDAR](/producto/MLA62126950), que ronda un precio parecido, el H40 gana en succión (10.000 vs 5.000 Pa) y en tamaño de tanque de agua (210 vs 250 mL, similar), y ambos tienen base de autovaciado. La diferencia real está en la marca: Gadnic tiene service local, Xiaomi tiene el ecosistema de la app más pulido. Frente a la [Roborock Q7 L5](/producto/MLA62694483), que no trae autovaciado, el H40 juega en otra liga de comodidad diaria por una diferencia de precio moderada.
+
+## Qué incluye la caja
+
+Robot Xiaomi Vacuum H40, base de autovaciado con bolsa de polvo de 4 L, control remoto, cepillo de repuesto, cable de carga y manual de usuario.`,
+    faq: [
+      { question: '¿Tiene base de autovaciado?', answer: 'Sí. Es la diferencia principal frente a la S40c y la S40 Pro de Xiaomi, que no la tienen. La base trae una bolsa de polvo de 4 litros: el robot vuelve solo y se vacía, y aguanta hasta 90 días sin que la cambies.' },
+      { question: '¿Trapea de verdad o es un paño mojado?', answer: 'Tiene depósito de agua real de 210 mL con 3 niveles de flujo controlados desde la app, así que dosifica el agua mientras avanza en vez de arrastrar un paño que se moja una sola vez. Es un trapeado de mantenimiento diario, no reemplaza fregar manchas pegadas a mano.' },
+      { question: '¿Qué enchufe trae?', answer: 'Varios compradores avisan que el cargador viene con enchufe tipo europeo (dos clavijas redondas finas), no el argentino. Conviene tener un adaptador a mano para no quedarte sin poder cargarlo el primer día.' },
+      { question: '¿Se le puede poner jabón o detergente al agua?', answer: 'No, el depósito es solo para agua. Una compradora comenta que si no pasás después un paño con desinfectante, la casa puede quedar con olor. No afecta el aspirado ni el trapeado en sí, pero conviene saberlo.' },
+      { question: '¿Cómo es la navegación?', answer: 'Usa láser LDS de 360° con mapeo y visualización 3D en la app Xiaomi Home. Desde ahí elegís habitaciones, marcás zonas restringidas o paredes virtuales, y podés bloquear el control para que los chicos no lo manejen.' },
+      { question: '¿Es compatible con Alexa o Google Assistant?', answer: 'Sí, además de la app Xiaomi Home podés controlarlo por voz con Alexa o Google Assistant, y también trae un control remoto físico como alternativa.' },
+      { question: '¿En qué se diferencia del Gadnic AC800 o la Roborock Q7 L5?', answer: 'Frente al Gadnic AC800 (precio parecido), el H40 aspira más fuerte (10.000 vs 5.000 Pa) y ambos tienen autovaciado; la diferencia es marca y ecosistema de app. Frente a la Roborock Q7 L5, que no tiene base de autovaciado, el H40 gana en comodidad del día a día.' },
+      { question: '¿Qué incluye la caja?', answer: 'El robot, la base de autovaciado con bolsa de 4 litros, control remoto, un cepillo de repuesto, cable de carga y el manual de usuario.' },
+    ],
+    customerReviews: [
+      { rating: 5, date: '2026-03-08', country: 'Brasil', text: 'Muy bueno, cumple bien el papel de aspirador. Y pasa bien el paño. Lo que no me gustó es que no se puede poner jabón o detergente, así que la casa queda con olor a huevo, y tienes que pasar un paño con desinfectante, pero es mejor pasar un paño con desinfectante que tener que lavar toda la casa. Mi casa ahora está siempre limpia porque todos los días se aspira y se pasa el paño, y lo bueno es que puedo programar para hacerlo tantas veces como quiera en el día sin preocuparme. Lo único que tengo que cuidar es lavar el Mop y poner agua en el depósito. Y una vez a la semana limpio el compartimento de polvo y aprovecho para limpiar todo el robot.', useful: 27 },
+      { rating: 4, date: '2026-04-08', country: 'Uruguay', text: 'Mi esposa me pidió que me encargue de la limpieza de los pisos. No se diga más! ahora está muy contenta con el robot, yo tomo mate mientras limpio! que no me toque limpiar la vajilla, no va a aguantar la tarjeta de crédito!.', useful: 42 },
+      { rating: 5, date: '2026-03-08', country: 'Brasil', text: 'Bueno, solo hay que tener cuidado con el enchufe tipo europeo al comprar.', useful: 45 },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Robot Aspirador Xiaomi Vacuum H40',
+      description: 'Robot aspirador y trapeador Xiaomi Vacuum H40 con navegación láser LDS 360°, succión de 10.000 Pa en 4 niveles, base de autovaciado con bolsa de 4 litros, depósito de agua de 210 mL con 3 niveles de flujo, filtro HEPA, control por app Xiaomi Home y compatibilidad con Alexa y Google Assistant.',
+      brand: { '@type': 'Brand', name: 'Xiaomi' },
+      model: 'H40 (OV51JCZ)',
+      sku: 'MLA59149674',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_686132-MLA99453318576_112025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA59149674',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '579999',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1G3s36X',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.9',
+        reviewCount: '446',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    specs: [
+      { label: 'Marca / Modelo', value: 'Xiaomi / H40 (OV51 · OV51JCZ)' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador con base de autovaciado' },
+      { label: 'Succión', value: '10.000 Pa · 4 niveles (Silencioso, Estándar, Turbo, Fuerte)' },
+      { label: 'Navegación', value: 'Láser LDS 360° con mapeo y visualización 3D' },
+      { label: 'Base de autovaciado', value: 'Sí · bolsa de polvo de 4 L (hasta 90 días)' },
+      { label: 'Modos de limpieza', value: 'Auto, Zigzag' },
+      { label: 'Control', value: 'App Xiaomi Home (WiFi) + voz (Alexa, Google Assistant) + control remoto' },
+      { label: 'Fregado', value: 'Depósito de agua de 210 mL · 3 niveles de flujo' },
+      { label: 'Filtro', value: 'HEPA' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí (detección automática) / Sí (sistema antienredos)' },
+      { label: 'Batería', value: '5.200 mAh · hasta 180 min · carga automática' },
+      { label: 'Funciones adicionales', value: 'Paredes virtuales, zonas restringidas, bloqueo para niños, historial de limpieza' },
+      { label: 'Potencia', value: '70 W' },
+      { label: 'Dimensiones', value: '34 x 34 cm · 9,7 cm de alto' },
+      { label: 'Peso', value: '3,64 kg' },
+      { label: 'Color', value: 'Blanco' },
+    ],
+    pros: [
+      '4.9⭐ con 446 calificaciones: de las mejor puntuadas del catálogo',
+      'Base de autovaciado con bolsa de 4 L: es el Xiaomi accesible que se olvida del polvo hasta 90 días',
+      '10.000 Pa en 4 niveles: aspira fuerte, apto alfombras y pelo de mascota',
+      'Tanque de agua real de 210 mL con 3 niveles de flujo: no es un paño de inercia',
+      'Navegación láser LDS 360° con mapeo 3D, zonas y paredes virtuales desde la app',
+      'Compatible con Alexa y Google Assistant, con control remoto físico de respaldo',
+    ],
+    cons: [
+      'El cargador trae enchufe tipo europeo: conviene tener un adaptador a mano',
+      'El depósito de agua es solo para agua, sin jabón ni detergente',
+      'El circuito de agua es manual: hay que lavar la mopa y cargar el depósito en cada limpieza',
+      'Reseñas disponibles son de compradores de Brasil y Uruguay, no de Argentina',
+    ],
+    verdict: 'Con base de autovaciado, tanque de agua real y 10.000 Pa, el H40 es la entrada de Xiaomi a la automatización total: te olvidás del polvo por meses y el trapeado ya no es de mentira. El límite real es el enchufe europeo (llevá un adaptador) y que el circuito de agua sigue siendo manual. Para quien ya conoce la línea S40 y quiere dar el salto al autovaciado sin pagar los modelos tope, es la opción más lógica del catálogo.',
+    bestOccasion: ['Quien quiere autovaciado sin pagar el precio de los modelos tope', 'Hogares con mascotas que buscan aspirado fuerte y trapeado real', 'Casas medianas con varios ambientes para mapear'],
+    notRecommendedFor: ['Quien no quiera lidiar con un adaptador de enchufe', 'Limpieza profunda de manchas pegadas (el trapeado es de mantenimiento)', 'Quien busque repuestos/service 100% locales de la marca'],
+    relatedProducts: ['MLA61420449', 'MLA66281403', 'MLA62694483'],
+    description: 'Transforma tu rutina de limpieza con el robot aspirador Xiaomi Robot Vacuum H40. Diseñado para quienes buscan tecnología de vanguardia y practicidad para el día a día, combina una succión ultrapotente de 10.000 Pa, un sistema de mopa inteligente y una navegación LDS precisa de 360°. Con el Xiaomi H40, no solo aspiras el polvo, sino que también eliminas el pelo de las mascotas gracias a la función 2 en 1 (aspiradora y trapeadora).',
+  },
+  {
+    id: 'MLA62694483',
+    title: 'Aspiradora Trapeadora Robot Roborock Q7 L5 Blanca',
+    brand: 'Roborock',
+    price: 475000,
+    priceUpdated: '2026-07-08',
+    priceLastChecked: '2026-07-08',
+    priceStatus: 'fresh',
+    originalPrice: undefined,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_791889-MLA99507901502_112025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_791889-MLA99507901502_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_864724-MLA99991962635_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_934805-MLA99991982087_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_667841-MLA99991982095_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_726710-MLA99992011463_112025-O.webp',
+    ],
+    category: 'Electrodomésticos y Aires Ac.',
+    categorySlug: 'hogar',
+    permalink: 'https://www.mercadolibre.com.ar/aspiradora-trapeadora-robot-roborock-q7-l5-blanca/p/MLA62694483',
+    affiliateUrl: 'https://meli.la/1E4qB2m',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 154,
+    reviewsWithPhotos: 4,
+    reviewsSampledAt: '2026-07-08',
+    soldQuantity: 100,
+    color: 'Blanco',
+    pastelColor: 'var(--pastel-green)',
+    seoTitle: 'Roborock Q7 L5: la entrada a la marca N°1 del mundo',
+    metaDescription: 'Roborock Q7 L5: 8.000 Pa, tanque de agua real de 300 mL y hasta 250 m² por carga. 4.8★ con 154 opiniones. La Roborock más accesible del catálogo.',
+    ogTitle: 'Roborock Q7 L5: la puerta de entrada a la marca N°1 del mundo',
+    ogDescription: '4.8★ con 154 opiniones. 8.000 Pa, tanque de agua electrónico y hasta 250 m² por carga. Vemos qué avisan los compradores antes de sumarla al carrito.',
+    h1: 'Roborock Q7 L5: la aspiradora robot de entrada a la marca N°1 del mundo',
+    articleBody: `## Roborock, la marca N°1 del mundo en aspiradoras robot
+
+Roborock es la marca líder mundial en aspiradoras robot según el IDC Quarterly Smart Home Device Tracker de 2024, y hasta ahora no tenía ningún modelo en este catálogo. El Q7 L5 es la puerta de entrada: no trae las funciones premium de los modelos tope de la marca, pero sí la base (succión fuerte, tanque de agua real y buena cobertura) a un precio de gama media.
+
+## 8.000 Pa y doble cepillo antienredos
+
+Aspira con 8.000 Pa en tres niveles (Max, Normal, Turbo), con un sistema de doble cepillo antienredos pensado para pelo de mascota. Cubre hasta 250 m² por carga, con batería de 5,2 Ah que se recarga en unas 3 horas. Es apto para alfombras y detecta obstáculos y desniveles con sus sensores.
+
+## Tanque de agua electrónico: dosifica, no arrastra
+
+Para el trapeado tiene un depósito de agua de 300 mL de tipo electrónico: dosifica el líquido mientras avanza en vez de arrastrar un paño mojado a mano. Es trapeado de mantenimiento diario. El depósito de polvo, en cambio, es chico (470 mL) y **no tiene base de autovaciado**: hay que vaciarlo a mano, algo a tener en cuenta si buscás automatización total (para eso, en este catálogo está el [Xiaomi H40](/producto/MLA59149674) o el [Gadnic AC800](/producto/MLA62126950)).
+
+## Lo que avisan los que ya lo tienen
+
+Las opiniones (4.8 con 154 calificaciones) son mayoritariamente buenas, con algunos avisos honestos que conviene conocer. Una compradora de México cuenta que "tiene una base pequeña por lo que su autonomía no es muy buena" y que "para ciertas manchas en el piso ocupas si o si limpiar a mano". Otro comprador, que ya tenía un segundo robot de comparación, avisa que "hace un poco más de ruido y choca más seguido en lo que está aprendiendo el espacio", aunque aclara que "no es nada que moleste" y que recoge muy bien el pelo de sus tres gatos y dos perros.
+
+## Compatible con Alexa y Google Assistant
+
+Se controla por app (WiFi), responde a comandos de voz de Alexa y Google Assistant, y trae control remoto físico. El mapeo permite elegir zonas de limpieza, aunque a diferencia de los Roborock de gama alta no está confirmado que use navegación láser LIDAR: la ficha técnica solo detalla mapeo y modos Auto/Zigzag.
+
+## En qué se diferencia del resto del catálogo
+
+Frente al [Gadnic AC800 LiDAR](/producto/MLA62126950), que cuesta parecido y sí tiene base autolimpiante, el Q7 L5 se queda atrás en automatización pero suma el respaldo de ser la marca N°1 mundial. Frente al [Xiaomi H40](/producto/MLA59149674), que también ronda este precio y sí se vacía solo, el Q7 L5 compite en succión (8.000 vs 10.000 Pa) pero pierde en comodidad diaria. Se elige por entrar a Roborock por primera vez sin pagar los modelos tope de la marca.
+
+## Qué incluye la caja
+
+Robot Roborock Q7 L5, base de carga, control remoto, cepillo de repuesto, paño de mopa, cable de carga y manual de usuario.`,
+    faq: [
+      { question: '¿Por qué elegir Roborock si es un modelo de entrada?', answer: 'Porque Roborock es la marca N°1 del mundo en ventas de aspiradoras robot (IDC Quarterly Smart Home Device Tracker, 2024), y el Q7 L5 es la forma más accesible de entrar a la marca en este catálogo. No tiene las funciones premium de los modelos tope, pero sí la base: succión fuerte y tanque de agua real.' },
+      { question: '¿Tiene base de autovaciado?', answer: 'No. El depósito de polvo es de 470 mL y hay que vaciarlo a mano. Si buscás que se vacíe solo, en este catálogo están el Xiaomi H40 o el Gadnic AC800 LiDAR, que sí tienen base de autovaciado.' },
+      { question: '¿Trapea de verdad?', answer: 'Sí, tiene un depósito de agua electrónico de 300 mL que dosifica el líquido mientras el robot avanza, en vez de arrastrar un paño mojado a mano. Es un trapeado de mantenimiento: una compradora avisa que para ciertas manchas en el piso igual hay que limpiar a mano.' },
+      { question: '¿Hace mucho ruido o choca seguido?', answer: 'Un comprador que ya tenía otro robot de comparación cuenta que "hace un poco más de ruido y choca más seguido" mientras aprende el espacio de la casa las primeras veces, aunque aclara que no es nada molesto una vez que termina de mapear.' },
+      { question: '¿Sirve para casas con mascotas?', answer: 'Sí. Trae doble cepillo antienredos pensado para pelo de mascota, y una reseña de un comprador con tres gatos y dos perros confirma que "recoge muy bien todos los pelos y arenilla".' },
+      { question: '¿Es compatible con Alexa o Google Assistant?', answer: 'Sí, se controla por app (WiFi) y por voz con Alexa o Google Assistant, y trae control remoto físico como alternativa.' },
+      { question: '¿En qué se diferencia del Xiaomi H40 o el Gadnic AC800?', answer: 'El Xiaomi H40 y el Gadnic AC800 tienen base de autovaciado y el Q7 L5 no, así que en comodidad diaria pierden. A cambio, el Q7 L5 suma el respaldo de ser Roborock, la marca N°1 mundial del rubro, a un precio de entrada.' },
+      { question: '¿Qué incluye la caja?', answer: 'El robot, la base de carga, control remoto, un cepillo de repuesto, un paño de mopa, cable de carga y el manual de usuario.' },
+    ],
+    customerReviews: [
+      { rating: 4, date: '2025-12-08', country: 'México', text: 'Es buen producto, pero tiene una base pequeña por lo que su autonomía no es muy buena. Aspira y lava bien, pero para ciertas manchas en el piso ocupas si o si limpiar a mano.', useful: 9 },
+      { rating: 5, date: '2026-01-08', country: 'México', text: 'Es el segundo aspirador y trapeador que tengo, la verdad es que aspira y limpia muy bien. Es más rápido que el otro que tengo, sin embargo no tengo queja alguna. Tengo tres gatos y dos perros y recoge muy bien todos los pelos y arenilla. El único comentario que podría hacer es que hace un poco más de ruido y choca más seguido en lo que está aprendiendo el espacio en el que se desenvuelve a diferencia de la otra que tengo que es más sensible a los objetos para evitar el choque y un poco menos ruidosa. Sin embargo no es nada que moleste. Yo si la recomiendo para departamento pequeño o mediano con animales de compañía.', useful: 8 },
+      { rating: 5, date: '2026-02-08', country: 'México', text: 'Que buen producto; estoy impactado con el polvo y pelusa que puede recolectar incluso después de que uno haga limpieza; es fácil de usar, de dar mantenimiento y la aplicación es super cómoda e intuitiva. Volvería a comprar de esta marca sin duda.' },
+    ],
+    structuredData: {
+      '@context': 'https://schema.org',
+      '@type': 'Product',
+      name: 'Aspiradora Trapeadora Robot Roborock Q7 L5',
+      description: 'Robot aspirador y trapeador Roborock Q7 L5 con succión de 8.000 Pa, doble cepillo antienredos, depósito de agua electrónico de 300 mL, depósito de polvo de 470 mL, filtro HEPA, cobertura de hasta 250 m² por carga, control por app y compatibilidad con Alexa y Google Assistant.',
+      brand: { '@type': 'Brand', name: 'Roborock' },
+      model: 'Q7 L5',
+      sku: 'MLA62694483',
+      category: 'Aspiradoras robot',
+      color: 'Blanco',
+      image: 'https://http2.mlstatic.com/D_NQ_NP_791889-MLA99507901502_112025-O.webp',
+      url: 'https://productosvirales.com.ar/producto/MLA62694483',
+      offers: {
+        '@type': 'Offer',
+        priceCurrency: 'ARS',
+        price: '475000',
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
+        url: 'https://meli.la/1E4qB2m',
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: '4.8',
+        reviewCount: '154',
+        bestRating: '5',
+        worstRating: '1',
+      },
+    },
+    specs: [
+      { label: 'Marca / Modelo', value: 'Roborock / Q7 L5' },
+      { label: 'Tipo', value: 'Robot aspirador y trapeador, sin base de autovaciado' },
+      { label: 'Succión', value: '8.000 Pa · niveles Max, Normal, Turbo' },
+      { label: 'Navegación', value: 'Con mapeo (tecnología de sensor no especificada por el fabricante)' },
+      { label: 'Modos de limpieza', value: 'Auto, Zigzag' },
+      { label: 'Control', value: 'App (WiFi) + voz (Alexa, Google Assistant) + control remoto' },
+      { label: 'Fregado', value: 'Depósito de agua electrónico de 300 mL' },
+      { label: 'Depósito de polvo', value: '470 mL (sin autovaciado)' },
+      { label: 'Filtro', value: 'HEPA' },
+      { label: 'Apto alfombras / pelo de mascota', value: 'Sí / Sí (doble cepillo antienredos)' },
+      { label: 'Batería', value: '5,2 Ah · 14V · carga automática · hasta 3 h de carga' },
+      { label: 'Área máxima de limpieza', value: 'Hasta 250 m² por carga' },
+      { label: 'Nivel de ruido', value: '67 dB' },
+      { label: 'Dimensiones', value: '35 x 35 cm · 9,6 cm de alto' },
+      { label: 'Peso', value: '4,7 kg' },
+      { label: 'Color', value: 'Blanco' },
+    ],
+    pros: [
+      '4.8⭐ con 154 calificaciones: de Roborock, la marca N°1 del mundo en ventas (IDC, 2024)',
+      '8.000 Pa con doble cepillo antienredos, pensado para pelo de mascota',
+      'Tanque de agua electrónico de 300 mL: dosifica el agua, no arrastra un paño mojado',
+      'Cubre hasta 250 m² por carga, apto alfombras',
+      'Compatible con Alexa y Google Assistant, con control remoto físico',
+      'La Roborock más accesible del catálogo: entra a la marca sin pagar los modelos tope',
+    ],
+    cons: [
+      'Sin base de autovaciado: el depósito de polvo (470 mL) se vacía a mano',
+      'Reseñas avisan que hace algo más de ruido y choca más seguido mientras aprende el espacio',
+      'No saca manchas pegadas del piso: para eso hay que limpiar a mano',
+      'Es la línea de entrada de Roborock, sin el mapeo LIDAR de los modelos superiores de la marca',
+    ],
+    verdict: 'El Q7 L5 es la puerta de entrada a Roborock, la marca N°1 del mundo en aspiradoras robot: aspira fuerte (8.000 Pa), trapea con tanque de agua real y cubre casas de hasta 250 m². Le falta la base de autovaciado y el mapeo de los modelos superiores, así que hay que vaciar el depósito a mano y tolerar que choque un poco mientras aprende el espacio. Para quien quiere entrar a la marca sin pagar los modelos tope, es la opción más lógica del catálogo.',
+    bestOccasion: ['Primera Roborock sin pagar los modelos tope', 'Departamento pequeño o mediano con mascotas', 'Quien prioriza succión fuerte sobre automatización total'],
+    notRecommendedFor: ['Quien busca base de autovaciado (ver Xiaomi H40 o Gadnic AC800)', 'Limpieza profunda de manchas pegadas', 'Quien necesita mapeo LIDAR confirmado'],
+    relatedProducts: ['MLA62126950', 'MLA59149674', 'MLA26504431'],
+    description: 'La Aspiradora Robot Inteligente Roborock Q7 es la solución perfecta para mantener tu hogar limpio sin esfuerzo. Con una potente succión de 8000 Pa, este dispositivo es capaz de barrer y fregar, adaptándose a diferentes superficies, incluidas alfombras y suelos duros. Su capacidad de limpieza abarca hasta 250 m², lo que la convierte en una opción ideal para espacios amplios. Equipado con un depósito de polvo de 470 mL y un depósito de líquidos de 300 mL, el Roborock Q7 asegura una limpieza eficiente y prolongada.',
+  },
+  {
     id: 'MLA3372015976',
     title: 'Cepillo Electrico Limpieza Piso Pared Recargable Usb 8 En 1',
     metaDescription: "Cepillo eléctrico con varios cabezales para la suciedad diaria de baño, cocina y auto. No hace magia con sarro de años, pero saca el refregado pesado.",
