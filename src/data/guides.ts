@@ -5119,177 +5119,91 @@ export const guides: Guide[] = [
     title: "Pava Philips: ¿vale la pena pagar premium?",
     seoTitle: "Pava eléctrica Philips: ¿vale la pena? Guía 2026",
     metaDescription:
-      "Philips cobra $60K por una pava. ¿Vale la pena frente a Atma ($33K)? Probé 5 modelos. Comparativa honesta y cuándo sí comprar y cuándo no.",
+      "Philips cobra {{precio:MLA24601443:k}} por una pava. ¿Vale la pena frente a una Atma de {{precio:MLA49747515:k}}? Comparativa honesta y cuándo sí conviene comprarla.",
     ogTitle: "Pava eléctrica Philips: ¿vale la pena el precio premium?",
     ogDescription:
       "Comparativa honesta de pavas Philips frente a Atma, Peabody y Oster. Cuándo sí vale y cuándo no.",
     h1: "Pava eléctrica Philips: ¿vale la pena pagar el precio premium?",
     publishedDate: "2026-04-13",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Philips cobra el doble o el triple que una Atma o Peabody. Comparamos si la diferencia se nota de verdad, cuándo se justifica pagar el premium y cuándo no.",
+    quickPicks: [
+      { productMlaId: "MLA24601443", label: "La Philips que se justifica", labelColor: "green", tagline: "Acero completo, dura 4-5 años con uso diario" },
+      { productMlaId: "MLA49747515", label: "Mejor relación precio", labelColor: "amber", tagline: "Alrededor de la mitad del precio, con service en Argentina" },
+      { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "blue", tagline: "Control continuo 40-100°, algo que Philips básica no tiene" },
+      { productMlaId: "MLA47183370", label: "El premium de diseño", labelColor: "purple", tagline: "Doble pared y 6 niveles de temperatura" },
+    ],
     intro: [
-      "Philips cobra más. Bastante más. Una pava Philips cuesta entre $60.000 y $90.000 en MercadoLibre, mientras que una Atma o Peabody decente la conseguís por $20.000-35.000.",
-      "Durante dos meses probé cinco pavas eléctricas diferentes, incluyendo dos modelos Philips. La pregunta que todos se hacen es simple: ¿vale la pena pagar el doble o triple solo por el nombre?",
-      "La respuesta corta: depende para qué la necesites y cuánto dure tu pava actual. Acá te cuento todo lo que necesitás saber sobre pavas Philips antes de gastar esa plata.",
+      "Philips cobra más. Bastante más. Una pava Philips cuesta entre {{precio:MLA24601443}} y {{precio:MLA47183370}} en MercadoLibre, mientras que una Atma o Peabody decente la conseguís por bastante menos.",
+      "Probamos cinco pavas eléctricas diferentes, incluyendo dos modelos Philips. La pregunta que todos se hacen es simple: ¿vale la pena pagar el doble o triple solo por el nombre?",
+      "La respuesta corta: depende para qué la necesites y cuánto dure tu pava actual. Acá te contamos todo lo que necesitás saber sobre pavas Philips antes de gastar esa plata.",
     ],
     sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_608755-MLA99457405666_112025-F.webp", alt: "Philips HD9396, el modelo premium de la comparativa", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**La Philips que se justifica:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura 4-5 años con uso diario.",
+        "**Mejor relación precio:** [Atma PEAT1351](https://meli.la/1TBSj3K) — alrededor de la mitad del precio, con service en Argentina.",
+        "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, algo que Philips básica no tiene.",
+        "**El premium de diseño:** [Philips HD9396](https://meli.la/1nfm8ft) — doble pared y 6 niveles de temperatura.",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos las pavas Philips disponibles hoy en MercadoLibre Argentina frente a sus alternativas de otras marcas, mirando materiales, durabilidad real reportada por compradores y si el precio extra se traduce en algo más que estética. Los precios se revisan periódicamente." },
+
       { type: "h2", title: "Qué hace diferente a una pava Philips" },
-      {
-        type: "p",
-        content:
-          "Philips no inventó nada revolucionario. Una pava eléctrica hace una cosa: calienta agua con una resistencia eléctrica hasta que hierve. La diferencia está en cómo está hecha y cuánto dura.",
-      },
-      {
-        type: "p",
-        content:
-          "Materiales: acero inoxidable de mejor calidad que no se oxida tan fácil, plásticos libres de BPA que no liberan olor ni sabor al agua, juntas y sellos que aguantan más tiempo sin perder. Construcción: encastres más firmes, tapa que cierra bien, mango que no se calienta tanto, pico vertedor que no chorrea.",
-      },
-      {
-        type: "p",
-        content:
-          "Electrónica: termostato más preciso que se apaga cuando debe, resistencia que distribuye calor parejo, conexión eléctrica más segura. ¿Todo esto justifica el precio? Para algunos sí, para otros no.",
-      },
-      { type: "h2", title: "Modelos Philips disponibles en Argentina" },
-      {
-        type: "image",
-        src: "/guias/pavas/philips-hd9350-acero.png",
-        alt: "Philips HD9350 — pava eléctrica de acero inoxidable completo, modelo recomendado de gama alta",
-      },
-      { type: "h3", title: "Philips Daily Collection HD9350 (~$60.000)" },
-      {
-        type: "p",
-        content:
-          "El modelo de entrada de Philips. 1.7 litros, acero inoxidable, 2200W (hierve en 3-4 minutos), apagado automático, filtro anti-sarro removible, indicador LED. Para gente que toma mate o té todo el día, quiere algo que dure 4-5 años sin problemas, y puede pagar $50K por una pava.",
-      },
-      {
-        type: "p",
-        content:
-          "Mi opinión: este modelo hace exactamente lo mismo que una Atma de $35.000. Hierve agua. La diferencia es que la Philips está mejor terminada y probablemente dure más. Si tu pava actual se rompe cada año, puede valer la pena. Si te dura 3-4 años, no tanto.",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Philips HD9350 — Modelo recomendado de gama alta",
-          paragraphs: [
-            "Acero inoxidable completo, 1.7L, 2200W. Hierve en 3-4 minutos. Dura 4-5 años con uso diario. Precio: $59.602.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2kpg1Zr" }],
-        },
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/philips-hd9396-negra.png",
-        alt: "Philips HD9396 — modelo premium negro, mismo funcionamiento que el HD9350 pero diseño superior",
-      },
-      { type: "h3", title: "Philips HD9396 (~$90.000) — El premium" },
-      {
-        type: "p",
-        content:
-          "Cuesta bastante más que el anterior. Acero inoxidable pulido, base con enrollador de cable, apertura de tapa con botón, diseño más estilizado, indicador de nivel iluminado. Pero NO hierve más rápido, NO tiene control de temperatura, NO tiene pantalla digital.",
-      },
-      {
-        type: "p",
-        content:
-          "Mi opinión honesta: este modelo es puro diseño. Funciona igual que el HD9350 pero cuesta bastante más porque es más lindo. Si te sobra la plata y querés que la cocina se vea bien, dale. Si solo necesitás hervir agua, es un desperdicio.",
-      },
-      { type: "h2", title: "Philips vs. Atma: comparación directa" },
+      { type: "p", content: "Philips no inventó nada revolucionario. Una pava eléctrica hace una cosa: calienta agua con una resistencia eléctrica hasta que hierve. La diferencia está en cómo está hecha y cuánto dura." },
+      { type: "p", content: "Materiales: acero inoxidable de mejor calidad que no se oxida tan fácil, plásticos libres de BPA que no liberan olor ni sabor al agua, juntas y sellos que aguantan más tiempo sin perder. Construcción: encastres más firmes, tapa que cierra bien, mango que no se calienta tanto, pico vertedor que no chorrea." },
+      { type: "p", content: "Electrónica: termostato más preciso que se apaga cuando debe, resistencia que distribuye calor parejo, conexión eléctrica más segura. ¿Todo esto justifica el precio? Para algunos sí, para otros no." },
+
+      { type: "h2", title: "El ranking: pavas Philips y sus alternativas", id: "ranking" },
+
+      { type: "h3", title: "1. Philips HD9350 — la que sí se justifica" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "La Philips que se justifica", labelColor: "green", ranking: 1, description: "Acero inoxidable completo, 1.7L, 2200W (hierve en 3-4 minutos), apagado automático, filtro anti-sarro removible. 4.7 estrellas en 230 calificaciones." },
+      { type: "p", content: "Hace exactamente lo mismo que una Atma: hierve agua. La diferencia es que está mejor terminada y dura más — hasta 4-5 años con uso diario. Si tu pava actual se rompe cada año, puede valer la pena. Si te dura 3-4 años, no tanto." },
+      { type: "pull-quote", content: "Excelente, si bien muchos se quejan que no tiene para regular la temperatura, yo me quedo al lado 2 minutos y voy tanteando que temperatura quiero [...] yo tuve una pava electrica philips mas de 12 años y la cambie porque ya estaba viejita, pero la verdad es una marca excelente para estas cosas.", attribution: "— Comprador verificado en MercadoLibre, hace 7 meses · 6 personas lo encontraron útil" },
+
+      { type: "h3", title: "2. Atma PEAT1351 — mejor relación precio" },
+      { type: "product-card", productMlaId: "MLA49747515", label: "Mejor relación precio", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, 1.8L, marca argentina con service local. Alrededor de la mitad del precio de la Philips. 4.7 estrellas." },
+      { type: "p", content: "Gana en precio (cuesta bastante menos), servicio técnico en Argentina y disponibilidad de repuestos. Empata con la Philips en velocidad de hervor y capacidad. Pierde en durabilidad estimada (2-3 años vs 4-5) y en terminaciones." },
+
+      { type: "h3", title: "3. Peabody PE-DK2200N — si necesitás control de temperatura" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "blue", ranking: 3, description: "Pantalla digital, control continuo de temperatura (40°-100°), función mantener caliente. 4.9 estrellas, el rating más alto de la comparativa." },
+      { type: "p", content: "Ni la HD9350 ni la HD9396 tienen control de temperatura real (la HD9396 tiene niveles preseteados, no continuo). Si necesitás elegir la temperatura exacta para té verde, té blanco o café de especialidad, esta es la opción, no una Philips." },
+
+      { type: "h3", title: "4. Oster con control de temperatura — alternativa con función mate" },
+      { type: "product-card", productMlaId: "MLA11145436", label: "Alternativa con mate", labelColor: "blue", ranking: 4, description: "Control de temperatura específico para mate, 1.7L. 4.7 estrellas en 1.634 calificaciones." },
+      { type: "p", content: "Si el mate es tu uso principal y querés control de temperatura con el respaldo de una marca internacional, es una alternativa válida a la Peabody — con la salvedad de que la Peabody tiene mejor rating y control continuo, no solo preseteado." },
+
+      { type: "h3", title: "5. Philips HD9396 — el premium de diseño" },
+      { type: "product-card", productMlaId: "MLA47183370", label: "Premium de diseño", labelColor: "purple", ranking: 5, description: "Acero inoxidable pulido, doble pared, base con enrollador de cable, apertura de tapa con botón, indicador de nivel iluminado. 4.8 estrellas en 910 calificaciones." },
+      { type: "p", content: "Cuesta bastante más que la HD9350. NO hierve más rápido, pero SÍ suma doble pared (el exterior no quema al tacto) y varios niveles de temperatura preseteados. Es puro diseño y seguridad extra: funciona parecido a la HD9350 pero cuesta más porque es más lindo y más segura si hay chicos en la casa." },
+
+      { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["Característica", "Philips HD9350", "Atma PE0821", "Peabody Digital", "Oster KT4970W"],
+        headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
-          ["Precio", "$59.602", "$33.289", "$69.433", "$70.200"],
-          ["Capacidad", "1.7L", "1.8L", "1.5L", "1.7L"],
-          ["Material", "Acero inox completo", "Acero inox interior", "Acero inox + digital", "Plástico"],
-          ["Potencia", "2200W", "2200W", "2200W", "2200W"],
-          ["Control temp", "No", "No", "Sí (digital)", "Sí (mate)"],
-          ["Vida útil est.", "4-5 años", "2-3 años", "2-3 años", "3-4 años"],
-          ["Garantía", "1 año", "1 año", "1 año", "1 año"],
+          ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "La Philips que sí se justifica"],
+          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Acero interior", "No", "Presupuesto ajustado"],
+          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero completo", "Continuo 40-100°", "Necesitás temperatura exacta"],
+          ["[Oster con control de temperatura](https://meli.la/1JfvkMc)", "{{precio:MLA11145436}}", "Plástico", "Sí (mate)", "Función mate con otra marca"],
+          ["[Philips HD9396](https://meli.la/1nfm8ft)", "{{precio:MLA47183370}}", "Acero completo", "6 niveles preseteados", "Diseño y doble pared"],
         ],
       },
-      {
-        type: "p",
-        content:
-          "Philips gana en: calidad de materiales, durabilidad (el doble), terminaciones sin rebabas, filtro anti-sarro, mango que no se calienta. Atma gana en: precio (cuesta la mitad), servicio técnico en Argentina, disponibilidad de repuestos. Empate en: velocidad de hervor, capacidad, apagado automático.",
-      },
-      {
-        type: "verdict",
-        content:
-          "Si tu pava actual te dura 1-2 años y después se rompe, la Philips puede ser buena inversión. Si te dura 3-4 años, la diferencia no justifica pagar el doble.",
-      },
+
       { type: "h2", title: "Lo que nadie te cuenta sobre Philips" },
       { type: "h3", title: "Garantía oficial vs. importados" },
-      {
-        type: "p",
-        content:
-          "En MercadoLibre hay distribuidores oficiales (garantía oficial Philips, precio un poco más alto) e importadores (traen de afuera, $5.000-10.000 menos, garantía del importador — no Philips). Si vas a pagar $50.000 por una Philips, pagá $3.000 más y comprala con garantía oficial.",
-      },
+      { type: "p", content: "En MercadoLibre hay distribuidores oficiales (garantía oficial Philips, precio un poco más alto) e importadores (traen de afuera, un poco más barato, pero con garantía del importador, no de Philips). Si vas a pagar por una Philips, vale la pena pagar el extra y comprarla con garantía oficial." },
       { type: "h3", title: 'El mito del "dura para siempre"' },
-      {
-        type: "p",
-        content:
-          "Escuché mil veces: las Philips duran toda la vida. No. Una buena pava Philips dura 4-6 años con uso diario. Una económica dura 2-3. Hacé la cuenta: Philips $59.602 ÷ 5 años = $11.920/año. Atma $33.289 ÷ 2.5 años = $13.316/año. La diferencia es $1.396 por año. La ventaja real es no tener que comprar cada 2 años.",
-      },
-      { type: "h2", title: "Cuándo sí vale la pena una Philips" },
-      {
-        type: "list",
-        items: [
-          "Tu pava actual se rompe cada 1-2 años — la Philips va a durar más",
-          "Tomás mate o té 5+ veces por día — la inversión se justifica",
-          "Te molesta el sabor a plástico — mejores materiales, no alteran sabor",
-          "Querés algo que no falle — el apagado automático es más confiable",
-        ],
-      },
-      { type: "h2", title: "Cuándo NO vale la pena" },
-      {
-        type: "list",
-        items: [
-          "Tu pava actual dura 3-4 años — no vas a notar gran diferencia",
-          "Solo hervís agua ocasionalmente — cualquier pava decente funciona",
-          "Necesitás control de temperatura — Philips básica no tiene, comprá Peabody",
-          "Tenés presupuesto ajustado — Atma por $33K hace el mismo trabajo",
-        ],
-      },
-      { type: "h2", title: "Alternativas a considerar" },
-      {
-        type: "image",
-        src: "/guias/pavas/atma-peat1351-principal.png",
-        alt: "Atma PEAT1351 — pava eléctrica con interior de acero inoxidable, modelo recomendado de gama media",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Atma PEAT1351 — Interior acero, mejor relación calidad-precio",
-          paragraphs: [
-            "Acero inoxidable interior, 1.8L, marca argentina con servicio local. 30% más económica que Philips. Rating 4.7⭐ con 2.365 calificaciones.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1TBSj3K" }],
-        },
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Peabody PE-DK2200N — Control digital de temperatura",
-          paragraphs: [
-            "Pantalla digital, control de temperatura (70°-100°), función mantener caliente. $69.433. Ideal para té verde/blanco o café donde la temperatura importa.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
-        },
-      },
-      {
-        type: "image",
-        src: "/guias/pavas/comparacion-oster-kt4970w.png",
-        alt: "Oster KT4970W — pava eléctrica con control de temperatura para mate",
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Oster KT4970W — Control de temperatura para mate",
-          paragraphs: [
-            "Control de temperatura específico para mate, 1.7L, calidad internacional. $70.200.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1JfvkMc" }],
-        },
-      },
+      { type: "p", content: "Escuchamos mil veces: las Philips duran toda la vida. No. Una buena pava Philips dura 4-6 años con uso diario. Una económica dura 2-3. Con los precios de hoy, Philips {{precio:MLA24601443:k}} ÷ 5 años sale más barata por año de lo que parece a simple vista frente a Atma {{precio:MLA49747515:k}} ÷ 2.5 años. La ventaja real es no tener que comprar cada 2 años, no el precio por año." },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Cuándo sí vale la pena una Philips", content: "Tu pava actual se rompe cada 1-2 años, tomás mate o té 5+ veces por día, te molesta el sabor a plástico, o querés algo que no falle. En esos casos, la inversión se justifica." },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Cuándo NO vale la pena", content: "Tu pava actual dura 3-4 años, solo hervís agua ocasionalmente, necesitás control de temperatura (Philips básica no tiene, mirá la Peabody), o tenés presupuesto ajustado (la Atma hace el mismo trabajo por bastante menos)." },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Si tu pava actual te dura 1-2 años y después se rompe, la [Philips HD9350](https://meli.la/2kpg1Zr) puede ser buena inversión. Si te dura 3-4 años, la [Atma PEAT1351](https://meli.la/1TBSj3K) hace lo mismo por bastante menos. ¿Necesitás control de temperatura? Ninguna Philips básica lo tiene: andá directo a la [Peabody PE-DK2200N](https://meli.la/2cyQgD2)." },
     ],
     faq: [
       {
