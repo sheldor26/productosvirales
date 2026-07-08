@@ -208,6 +208,8 @@ Hallazgos de esta migración (más allá de la estructura):
 
 Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `oster`, `pequena`) no tenían baseline registrado antes de esta sesión; no se corrió un `fetch` de GSC dedicado para cada una en este sprint (foco puesto en cerrar la migración estructural). Pendiente: correr `gsc.py fetch` + `report` para las 12 guías del cluster y registrar baseline real. Próxima revisión para las 12 guías del cluster (pillar + 11 spokes): ~2026-08-01.
 
+**mejores-freidoras-de-aire-argentina (2026-07-08):** primer paso del sprint de migración del cluster `freidoras-de-aire` (23 guías, 15 sin monetización detectadas en la auditoría original del 2026-07-07) al mismo template "embudo de conversión". El pillar ya tenía `product-card` y una lista de resumen rápido; se agregó `standfirst`, `quickPicks` (4, reusando los 3 productos ya rankeados como "las 3 que más recomiendo" + Gadnic como opción económica), `trust-block` de metodología, un `pull-quote` real (reseña verificada de MercadoLibre para la Atma FR248ABP, 3.224 calificaciones) y un `callout` con el tip de comprar 1L más de lo necesario. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
