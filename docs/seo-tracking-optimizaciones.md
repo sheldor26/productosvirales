@@ -226,6 +226,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **como-usar-una-freidora-de-aire (2026-07-08):** octava guía del sprint de freidoras. Guía de uso para principiantes, sin producto propio. Migrada con quickPicks de cross-sell + trust-block + callout. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**cuanto-consume-freidora-de-aire (2026-07-08):** novena guía del sprint de freidoras. Guía de cálculo de consumo eléctrico, contenido matemático ya sólido (tarifas Edenor/Edesur julio 2026). Solo faltaba standfirst + quickPicks + trust-block. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
