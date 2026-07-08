@@ -105,6 +105,7 @@ Salen de la auditoría CRO/UX/copy de jun 2026. Son obligatorias.
 
 - Precios/ratings de la API, frescos. Citas textuales con fuente y fecha; nunca inventadas.
 - Sin fotos de compradores.
+- **Imagen hero: nunca `-R.webp`.** Ese sufijo del CDN de ML es una miniatura (a veces <1 KB) y se ve borrosa/pixelada ampliada a hero. Usar `-F.webp` u `-O.webp` (foto completa). Antes de guardar la URL, verificar con un `HEAD` que el tamaño real sea bastante mayor al de `-R` (ver detalle y el gotcha del prefijo `D_Q_NP_` vs `D_NQ_NP_` en `docs/fichas.md`).
 - **Pilares (anti-canibalización):** el pilar explica breve y delega a las hijas con ancla = keyword exacta; canónico self-referencing; `seoTitle` del pilar diferenciado.
 - **Productos:** solo en stock (no `deprioritized`). Si falta uno, importarlo (ver `fichas.md`), no inventarlo.
 
@@ -203,5 +204,6 @@ Este comando corre, en orden, y para en el primero que falle:
 - [ ] FAQ (5-7, 1ª abierta) + veredicto (primario+secundario) + firma + internalLinks.
 - [ ] Pilar: anti-canibalización (delegar a hijas).
 - [ ] Solo productos en stock; si falta, importar (ver `fichas.md`).
+- [ ] Imagen hero verificada en `-F`/`-O` (nunca `-R.webp`; ver regla en §6).
 - [ ] `rel="sponsored nofollow noopener"` en afiliados; `npm run lint && npm run build` en verde.
 - [ ] **`npm run guides:check` en verde** (ver §6.1): tokens de precio válidos, sin precios hardcodeados stale, y al menos un camino de compra real. No negociable.

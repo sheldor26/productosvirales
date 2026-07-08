@@ -43,6 +43,14 @@ Se usan hasta 4 fuentes. Cuando una contradice a otra, gana la de más abajo:
 - `priceUpdated` / `priceLastChecked` / `priceStatus: "fresh"` · `affiliateUrl` (meli.la, verificado)
 - `relatedProducts` (links internos cruzados)
 
+## Resolución de imágenes (regla no negociable)
+
+El CDN de MercadoLibre (`http2.mlstatic.com`) sirve la misma foto en varios tamaños, codificados en el nombre de archivo. **Nunca usar el sufijo `-R.webp`** (miniatura de resultado de búsqueda, a veces menos de 1 KB — se ve borrosa/pixelada en el hero o en la card). Usar siempre `-F.webp` o `-O.webp` (foto completa).
+
+- **Antes de guardar cualquier URL de imagen** (campo `image`, array `images`, o `src` de un hero de guía), verificar con un `HEAD` que el sufijo `-F` (o `-O`) devuelve un `content-length` bastante mayor que el de `-R` (varias veces más pesado). Si devuelve 404 o un tamaño parecido o menor, no lo uses.
+- **Gotcha real (encontrado 2026-07-08):** a veces cambiar solo el sufijo no alcanza porque el prefijo también cambia: `D_Q_NP_...` (reducida) vs `D_NQ_NP_...` (completa) son *rutas distintas* en el CDN, no solo un sufijo distinto. Si `D_Q_NP_<id>-F.webp` da 404, probar `D_NQ_NP_<id>-O.webp` (o `-F.webp`) antes de descartar la imagen como irrecuperable.
+- Si después de probar `-F` y `-O` con ambos prefijos ninguno mejora sobre `-R`, es porque ML solo generó una miniatura para esa foto (listing viejo/dado de baja): dejar la que hay, no bloquea la ficha, pero **avisar** en el mensaje de cierre que esa imagen quedó en baja resolución.
+
 ## Reglas de honestidad (no negociables)
 
 - Si un dato no se conoce con certeza → **se omite**, no se inventa (vale para specs, mpn, soldQuantity, duración, etc.).
