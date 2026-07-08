@@ -9255,13 +9255,19 @@ export const guides: Guide[] = [
     metaDescription: `Comparación real entre freidora de aire y horno eléctrico en Argentina: velocidad, consumo, capacidad y resultados. Cuál necesitás según tu cocina.`,
     h1: `Freidora de aire vs horno: comparación real para tu cocina argentina`,
     publishedDate: "2026-06-18",
-    updatedDate: "2026-06-18",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: `Comparamos freidora de aire y horno en tiempo de cocción, consumo eléctrico, capacidad y resultado, para que sepas cuál conviene según cómo cocinás y qué tipo de horno tenés en tu cocina.`,
+    quickPicks: [
+      { productMlaId: "MLA39861162", label: "Si te convence la freidora", labelColor: "green", tagline: "2000W, la más recomendada del catálogo" },
+      { productMlaId: "MLA44142280", label: "Opción más chica", labelColor: "blue", tagline: "6.5L, para complementar el horno" },
+    ],
     intro: [
       `La pregunta aparece en todos lados: ¿compro freidora de aire o qué hago con el horno que tengo? La respuesta depende de lo que cocinás, cuánto cocinás y qué tipo de horno tenés en casa. No es que una sea mejor que la otra. Son aparatos distintos para situaciones distintas.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_738568-MLA99494938658_112025-F.webp", alt: `Freidora de aire Oster Dual, comparada frente al horno tradicional`, imageSize: "hero" },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** usamos potencias reales declaradas por los fabricantes, tiempos de cocción medidos con los modelos del catálogo y las tarifas eléctricas vigentes de Edenor/Edesur (ver el detalle en nuestra [nota de consumo](/guias/cuanto-consume-freidora-de-aire)). El costo del horno a gas es una referencia general, no medición propia: varía según la distribuidora.` },
       { type: "h2", title: `El factor tiempo: freidora gana fácil` },
       { type: "p", content: `Esta es la ventaja más evidente. Una freidora de aire se calienta en 3-5 minutos. Un horno eléctrico tarda 10-15 minutos. Un horno a gas, si está en buenas condiciones, tarda 8-10 minutos.` },
       { type: "p", content: `Si cocinás por las noches cuando recién llegas del laburo, esos 10 minutos de espera son molestosos. Con freidora es: enchufás, esperás 3-4 minutos, metés la comida.` },
@@ -9321,6 +9327,7 @@ export const guides: Guide[] = [
       ]},
       { type: "p", content: `Esto funciona especialmente si tenés horno a gas. La freidora le "roba" trabajos específicos donde brilla, pero el horno sigue siendo útil para lo que la freidora no puede hacer.` },
       { type: "p", content: `Si tu presupuesto es limitado y tenés un horno a gas funcional, la freidora no es imprescindible. Si cocinás mucho y el horno es eléctrico, la freidora vale más la pena.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Regla rápida para decidir", content: `Horno a gas + cocinás poco seguido: no te apures, la freidora suma poco. Horno eléctrico + cocinás casi a diario: la freidora se paga sola en tiempo y algo de consumo. Familia grande que necesita volumen: el horno sigue siendo insustituible, pensá la freidora como complemento, no reemplazo.` },
       { type: "h2", title: `¿Cuándo la freidora reemplaza al horno?` },
       { type: "p", content: `Honestamente, casi nunca completamente. Hay casos donde podría ser:` },
       { type: "list", items: [
