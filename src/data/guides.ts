@@ -6090,124 +6090,99 @@ export const guides: Guide[] = [
     title: "Pava Oster: ¿vale pagar más por la marca?",
     seoTitle: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
     metaDescription:
-      "Análisis honesto: Oster 8970 ($93.600) y 4970B ($63.121). ¿Vale la pena vs Peabody? Comparamos precios, características y alternativas.",
+      "Análisis honesto: Oster 8970 y 4970B, dos de las pavas más caras del mercado. ¿Vale la pena vs Peabody? Comparamos precios, características y alternativas.",
     ogTitle: "Pava Eléctrica Oster: ¿Vale Pagar Más Por La Marca?",
     ogDescription:
-      "Oster es más cara sin ventaja real. Peabody por $55.999 con acero hace lo mismo. Análisis honesto.",
+      "Oster es más cara sin ventaja real. Peabody hace lo mismo por menos. Análisis honesto.",
     h1: "Pava eléctrica Oster — ¿vale pagar más por la marca?",
     publishedDate: "2026-05-23",
-    updatedDate: "2026-05-23",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Oster vende dos pavas eléctricas en Argentina, entre las más caras del mercado. Comparamos si esa marca justifica el precio frente a Peabody, Liliana y Philips.",
+    quickPicks: [
+      { productMlaId: "MLA14263533", label: "Mejor alternativa a la 4970B", labelColor: "green", tagline: "Acero completo y pantalla digital por menos" },
+      { productMlaId: "MLA47275624", label: "Mejor alternativa a la 8970", labelColor: "blue", tagline: "Control continuo, mantiene caliente 4x más tiempo" },
+      { productMlaId: "MLA8933826", label: "La más económica", labelColor: "amber", tagline: "Función mate por bastante menos" },
+      { productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", tagline: "Acero completo, dura 4-5 años" },
+    ],
     intro: [
-      "Oster vende dos pavas eléctricas en Argentina. La 4970B de plástico sale $63.121 y la 8970 de acero sale $93.600.",
-      "La pregunta directa: ¿vale la pena pagar entre $63.121 y $93.600 por una Oster cuando hay alternativas más baratas que hacen lo mismo?",
-      "La respuesta corta: no. Oster es más cara sin ventaja real. Peabody PE-DK1850 sale $55.999 con acero inoxidable y 4 preset de temperatura. Liliana AP175B sale $45.900 con función mate. Ambas hacen lo mismo que Oster por menos plata.",
+      "Oster vende dos pavas eléctricas en Argentina: la 4970B de plástico y la 8970 de acero, ambas entre las más caras de la comparativa.",
+      "La pregunta directa: ¿vale la pena pagar ese extra por una Oster cuando hay alternativas más baratas que hacen lo mismo?",
+      "La respuesta corta: no. Oster es más cara sin ventaja real. La Peabody PE-DK1850 tiene acero inoxidable y 4 preset de temperatura por menos. La Liliana AP175B tiene función mate por bastante menos. Ambas hacen lo mismo que Oster por menos plata.",
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_941485-MLA99549727582_122025-F.webp", alt: "Pava eléctrica Oster con control de temperatura y función mate", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: las mejores alternativas a Oster", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**Mejor alternativa a la 4970B:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — acero completo y pantalla digital por menos.",
+        "**Mejor alternativa a la 8970:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo, mantiene caliente 4x más tiempo.",
+        "**La más económica:** [Liliana AP175B](https://meli.la/2qM28cx) — función mate por bastante menos.",
+        "**Mejor durabilidad:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, dura 4-5 años.",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos las dos pavas Oster disponibles hoy en MercadoLibre Argentina frente a sus alternativas directas de otras marcas, mirando si el precio extra se traduce en alguna ventaja real de material, control de temperatura o durabilidad. Los precios se revisan periódicamente." },
+
       { type: "h2", title: "Las dos Oster: qué ofrecen" },
-      { type: "h3", title: "Oster 4970B — Plástico ($63.121)" },
-      {
-        type: "p",
-        content:
-          "Plástico, 1.7L, 1850W, 3 niveles de temperatura (mate, té, hervir), corte automático, filtro removible, control variable con botón selector. No tiene pantalla digital.",
-      },
-      {
-        type: "p",
-        content:
-          "Cuesta $63.121. [Peabody](https://meli.la/2cyQgD2) de acero con 4 preset y pantalla digital sale $55.999. Son $7.122 menos. No tiene sentido pagar extra por plástico.",
-      },
-      { type: "h3", title: "Oster 8970 — Acero ($93.600) — La más cara del mercado" },
-      {
-        type: "p",
-        content:
-          "Acero inoxidable, 1.7L, 1850W, 4 niveles de temperatura, pantalla digital LED, función mantener caliente (mantener caliente 30 min). Se ve premium con acabado cromado brillante.",
-      },
-      {
-        type: "bad",
-        title: "Oster 8970 — $93.600",
-        content:
-          "Es la pava eléctrica más cara del mercado argentino. [Peabody PE-DK2200N](https://meli.la/2cyQgD2) con control preciso 40-100° y mantener caliente 2 horas sale $69.433. Son $24.167 menos. No tiene sentido pagar $93.600 por Oster cuando Peabody hace lo mismo por menos.",
-      },
-      { type: "h2", title: "Oster vs Peabody: comparación directa" },
-      {
-        type: "table",
-        headers: ["", "Oster 4970B", "Peabody DK1850"],
-        rows: [
-          ["Precio", "$63.121", "$55.999"],
-          ["Material", "Plástico", "Acero inoxidable"],
-          ["Niveles", "3 (selector mecánico)", "4 preset (táctil)"],
-          ["Pantalla digital", "No", "Sí"],
-          ["Diferencia", "+$7.122", "—"],
-        ],
-      },
-      {
-        type: "p",
-        content:
-          "Peabody tiene un preset más, pantalla digital, acero vs plástico, y cuesta $7.122 menos. Oster 4970B no tiene ventaja excepto la marca.",
-      },
+      { type: "h3", title: "Oster 4970B — plástico" },
+      { type: "p", content: "Plástico, 1.7L, 1850W, 3 niveles de temperatura (mate, té, hervir), corte automático, filtro removible, control variable con botón selector. No tiene pantalla digital." },
+      { type: "h3", title: "Oster 8970 — acero, la más cara del mercado" },
+      { type: "p", content: "Acero inoxidable, 1.7L, 1850W, 4 niveles de temperatura, pantalla digital LED, función mantener caliente (30 min). Se ve premium con acabado cromado brillante." },
+
+      { type: "h2", title: "El ranking: mejores alternativas a Oster", id: "ranking" },
+
+      { type: "h3", title: "1. Peabody PE-DK1850 — mejor alternativa a la 4970B" },
+      { type: "product-card", productMlaId: "MLA14263533", label: "Mejor alternativa a la 4970B", labelColor: "green", ranking: 1, description: "Acero inoxidable completo, 1.7L, 4 preset de temperatura, pantalla digital. 4.7 estrellas en 1.554 calificaciones." },
+      { type: "p", content: "Tiene un preset más, pantalla digital, acero en vez de plástico, y cuesta {{preciodif:MLA11145437:MLA14263533}} menos que la Oster 4970B. La 4970B no tiene ninguna ventaja real más que la marca." },
+
+      { type: "h3", title: "2. Peabody PE-DK2200N — mejor alternativa a la 8970" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Mejor alternativa a la 8970", labelColor: "blue", ranking: 2, description: "Acero completo, control continuo de temperatura de 40 a 100°, mantiene el calor 2 horas. 4.9 estrellas, el rating más alto de la comparativa." },
+      { type: "p", content: "Tiene control continuo (elegís cualquier temperatura, no 4 niveles fijos), mantiene caliente 4 veces más tiempo (2 horas vs 30 minutos), hierve más rápido, y cuesta {{preciodif:MLA8993736:MLA47275624}} menos que la Oster 8970. La 8970 no tiene ninguna ventaja." },
+
+      { type: "h3", title: "3. Liliana AP175B — la más económica" },
+      { type: "product-card", productMlaId: "MLA8933826", label: "La más económica", labelColor: "amber", ranking: 3, description: "Función mate con 2 niveles, 1.7L, filtro anti-sarro. 4.6 estrellas en 5.489 calificaciones, la base de opiniones más grande de la comparativa." },
+      { type: "p", content: "Cuesta {{preciodif:MLA8933826:MLA11145437}} menos que la Oster 4970B. Ambas son plástico, ambas tienen función mate, ambas 1.7L. Oster tiene un nivel más y ventana iluminada, pero eso no justifica la diferencia de precio." },
+
+      { type: "h3", title: "4. Philips HD9350 — mejor durabilidad" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 4, description: "Acero inoxidable completo, 1.7L, 2200W. Dura 4-5 años con uso diario. 4.7 estrellas en 230 calificaciones." },
+      { type: "p", content: "Si priorizás durabilidad por sobre todo, la Philips dura bastante más que cualquiera de las dos Oster (que rondan 2-3 años) por un precio similar o menor." },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Las dos Oster: por qué no las recomendamos", content: "La [Oster 4970B](https://meli.la/31ihPzQ) ({{precio:MLA11145437}}) es plástico con solo 3 niveles; la Peabody DK1850 tiene acero y pantalla digital por menos. La [Oster 8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}) es la pava más cara de toda la comparativa y hace lo mismo que la Peabody DK2200N por {{preciodif:MLA8993736:MLA47275624}} más." },
+
+      { type: "h2", title: "Tabla comparativa: todo el mercado", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["", "Oster 8970", "Peabody DK2200N"],
+        headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
-          ["Precio", "$93.600", "$69.433"],
-          ["Control", "4 preset (75/80/90/100°)", "Continuo 40-100°"],
-          ["Mantener caliente", "30 minutos", "2 horas"],
-          ["Potencia", "1850W", "2200W"],
-          ["Diferencia", "+{{preciodif:MLA8993736:MLA47275624}}", "—"],
+          ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "Acero", "No", "La más económica con acero"],
+          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "No", "Presupuesto ajustado"],
+          ["[Liliana AP175B](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "Plástico", "Sí (2 niveles)", "Mejor compra con función mate"],
+          ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "Acero completo", "4 preset", "Mejor alternativa a la 4970B"],
+          ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Mejor durabilidad"],
+          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Acero completo", "Continuo", "Mejor alternativa a la 8970"],
+          ["[Oster 4970B](https://meli.la/31ihPzQ)", "{{precio:MLA11145437}}", "Plástico", "3 niveles", "No recomendada: cara sin justificación"],
+          ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "Acero completo", "4 niveles", "No recomendada: la más cara del mercado"],
         ],
       },
-      {
-        type: "p",
-        content:
-          "[Peabody DK2200N](https://meli.la/2cyQgD2) tiene control continuo (elegís cualquier temperatura vs 4 preset limitados), mantiene caliente 4x más tiempo, hierve más rápido, y cuesta {{preciodif:MLA8993736:MLA47275624}} menos. Oster 8970 no tiene ninguna ventaja.",
-      },
-      { type: "h2", title: "Oster vs Liliana: diferencia de $17K" },
-      {
-        type: "p",
-        content:
-          "Liliana AP175B Mateando sale $45.900. Oster 4970B sale $63.121. Diferencia: $17.221. Ambas son plástico, ambas tienen función mate, ambas 1.7L. Oster tiene un nivel más (3 vs 2) y ventana iluminada con cambio de color. Pero no justifica $17.221. Liliana hace lo mismo por bastante menos.",
-      },
-      { type: "h2", title: "Oster 4970B: cuándo tiene sentido" },
-      {
-        type: "list",
-        items: [
-          "Querés Oster específicamente porque te gusta la marca",
-          "Ya tenés otros electrodomésticos Oster (coherencia estética)",
-          "Vivís en ciudad mediana/pueblo donde Oster tiene service y Peabody/Liliana no",
-        ],
-      },
-      { type: "h2", title: "Comparación precio total del mercado" },
-      {
-        type: "table",
-        headers: ["Precio", "Modelo", "Nota"],
-        rows: [
-          ["$29.999", "Liliana AP152", "Acero, sin función mate"],
-          ["$41.999", "Atma PEAT1351", "Acero interior, sin función mate"],
-          ["$45.900", "Liliana AP175B", "Plástico, función mate 2 niveles ← MEJOR COMPRA"],
-          ["$59.602", "Philips HD9350", "Acero completo, dura 5 años"],
-          ["$55.999", "Peabody PE-DK1850", "Acero, 4 preset, pantalla"],
-          ["$69.433", "Peabody PE-DK2200N", "Acero, control 40-100°, mantener caliente 2hr"],
-          ["$63.121", "Oster 4970B", "Plástico, 3 niveles ← CARA SIN JUSTIFICACIÓN"],
-          ["$93.600", "Oster 8970", "Acero, 4 preset ← MÁS CARA DEL MERCADO"],
-        ],
-      },
-      {
-        type: "verdict",
-        content:
-          "Oster es más cara sin ventaja real sobre la competencia. Si tenés $63K: mejor [Peabody PE-DK1850](https://meli.la/2cyQgD2) por $55.999 (ahorrás $7.122, acero en vez de plástico). Si tenés $94K: mejor Peabody PE-DK2200N por $69.433 (ahorrás $24.167). O comprá [Philips HD9350](https://meli.la/2kpg1Zr) por $59.602 y ahorrás $33.998 con durabilidad 5 años.",
-      },
+
+      { type: "h2", title: "Oster: cuándo tiene sentido igual" },
+      { type: "list", items: [
+        "Querés Oster específicamente porque te gusta la marca",
+        "Ya tenés otros electrodomésticos Oster (coherencia estética)",
+        "Vivís en ciudad mediana/pueblo donde Oster tiene service y Peabody/Liliana no",
+      ] },
+
       { type: "h2", title: "Si querés Oster igual" },
-      {
-        type: "list",
-        items: [
-          "Comprá la 4970B por $63.121, no la 8970 por $93.600",
-          "Usala solo para mate (75°) y hervir (100°) — el nivel de té a 85° casi no se usa",
-          "No uses mantener caliente constantemente porque gasta luz",
-          "Limpiá con vinagre cada 2-3 meses para prevenir olor a plástico",
-          "Esperá que dure 2-3 años (no 5 como Philips)",
-        ],
-      },
+      { type: "list", items: [
+        "Comprá la 4970B, no la 8970 (mucho más cara sin ventaja adicional)",
+        "Usala solo para mate (75°) y hervir (100°) — el nivel de té a 85° casi no se usa",
+        "No uses mantener caliente constantemente porque gasta luz",
+        "Limpiá con vinagre cada 2-3 meses para prevenir olor a plástico",
+        "Esperá que dure 2-3 años (no 4-5 como Philips)",
+      ] },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Oster es más cara sin ventaja real sobre la competencia. En vez de la 4970B, mejor la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) (acero en vez de plástico, por menos). En vez de la 8970, mejor la [Peabody PE-DK2200N](https://meli.la/2cyQgD2) (control continuo, mantiene caliente 4x más). O comprá la [Philips HD9350](https://meli.la/2kpg1Zr) y priorizá durabilidad." },
     ],
     faq: [
       {
@@ -6233,17 +6208,17 @@ export const guides: Guide[] = [
       {
         question: "¿Qué modelo Oster es mejor compra?",
         answer:
-          "Ninguno realmente. Pero si querés Oster específicamente, comprá la 4970B por $63.121. No compres la 8970 por $93.600.",
+          "Ninguno realmente. Pero si querés Oster específicamente, comprá la [4970B](https://meli.la/31ihPzQ) ({{precio:MLA11145437}}). No compres la [8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}).",
       },
       {
         question: "¿Oster 4970B o Liliana AP175B?",
         answer:
-          "Liliana AP175B por $45.900. Mismo plástico, misma función mate, $17.221 más barata. Oster solo tiene ventaja en service técnico.",
+          "La [Liliana AP175B](https://meli.la/2qM28cx) por {{precio:MLA8933826}}. Mismo plástico, misma función mate, {{preciodif:MLA8933826:MLA11145437}} más barata. Oster solo tiene ventaja en service técnico.",
       },
       {
         question: "¿Oster 8970 o Peabody DK2200N?",
         answer:
-          "[Peabody DK2200N](https://meli.la/2cyQgD2) por $69.433. Control continuo vs 4 preset, mantiene 2hr vs 30min, $24.167 más barata. Peabody es mejor en todo.",
+          "La [Peabody DK2200N](https://meli.la/2cyQgD2) por {{precio:MLA47275624}}. Control continuo vs 4 niveles, mantiene 2hr vs 30min, {{preciodif:MLA8993736:MLA47275624}} más barata. Peabody es mejor en todo.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
