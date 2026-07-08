@@ -8125,8 +8125,7 @@ export const guides: Guide[] = [
     quickPicks: [
       { productMlaId: "MLA39861162", label: "Mejor precio, 8L simple", labelColor: "green", tagline: "Volumen real para 5-6 personas sin pagar el extra de doble canasta" },
       { productMlaId: "MLA28709303", label: "Mejor doble canasta económica", labelColor: "blue", tagline: "7.6L en dos cestas al precio más accesible del segmento doble" },
-      { productMlaId: "MLA54106293", label: "Máxima capacidad", labelColor: "purple", tagline: "10L, la más grande disponible ahora" },
-      { productMlaId: "MLA55779230", label: "Premium", labelColor: "amber", tagline: "9L, mejor distribución de aire, pantalla táctil y app" },
+      { productMlaId: "MLA55779230", label: "Premium y máxima capacidad disponible", labelColor: "amber", tagline: "9L, mejor distribución de aire, pantalla táctil y app" },
     ],
     intro: [
       `Cuando la familia es grande, o cocinás para reuniones, freidora de 5-6 litros es tortura. Haces una tanda, esperas, haces otra, esperas. Acá entran las freidoras de 8-10 litros. Una sola tanda y alimentás a todo el mundo. Pero hay detalles importantes que no son solo "litros". Espacio, potencia, distribución de aire. Todo suma.`,
@@ -8138,8 +8137,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**Mejor precio, simple:** [Atma FR248ABP](https://meli.la/2UfmcVY) — 8L, volumen real para 5-6 personas sin pagar el extra de doble canasta.`,
         `**Mejor doble canasta económica:** [Oster Dual DiamondForce](https://meli.la/1rwaoYB) — 7.6L en dos cestas al precio más accesible del segmento.`,
-        `**Máxima capacidad:** [Suono Airfryer 10L](https://meli.la/1hCBwJ3) — 10L, la más grande disponible ahora (la Peabody PE-AFDL102N de igual capacidad está sin stock).`,
-        `**Premium:** [Philips PHNA35100](https://meli.la/15VAU5a) — 9L, mejor distribución de aire, pantalla táctil y app.`,
+        `**Premium y máxima capacidad disponible:** [Philips PHNA35100](https://meli.la/15VAU5a) — 9L, mejor distribución de aire, pantalla táctil y app (la Peabody 10L y la Suono 10L están sin stock).`,
       ] },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las freidoras de gran capacidad (7.6L en adelante) disponibles hoy en MercadoLibre Argentina, mirando volumen útil real, potencia, distribución de aire (clave en modelos grandes) y espacio que ocupan en la mesada. Los precios se revisan periódicamente.` },
@@ -8161,16 +8159,15 @@ export const guides: Guide[] = [
       { type: "product-card", productMlaId: "MLA40161710", label: "Doble canasta nacional", labelColor: "blue", ranking: 3, description: `8.5 litros en dos canastas de 2200W, más potencia que la Oster. 4.9 estrellas en 730 calificaciones.` },
       { type: "p", content: `Más potencia (2200W) que la Oster, y la ventaja de la red de service de Atma en todo el país. Las cestas no tienen divisores de aire independientes, así que la distribución no siempre es perfectamente pareja entre las dos.` },
 
-      { type: "h3", title: `4. Suono Airfryer — máxima capacidad disponible` },
-      { type: "product-card", productMlaId: "MLA54106293", label: "Máxima capacidad disponible", labelColor: "purple", ranking: 4, description: `10 litros, doble resistencia, 12 programas. 4.8 estrellas en 1.946 calificaciones.` },
-      { type: "p", content: `Es una sola canasta grande (no doble piso), así que no tiene el problema de distribución desigual entre niveles. La contra: service técnico menos consolidado que Atma o Peabody si algo falla fuera de garantía. Con la Peabody de igual capacidad sin stock, esta pasa a ser la opción de 10 litros disponible ahora.` },
+      { type: "h3", title: `4. Suono Airfryer 10L — sin stock` },
+      { type: "p", content: `10 litros, doble resistencia, 12 programas, 4.8 estrellas en 1.946 calificaciones. Es una sola canasta grande (no doble piso), así que no tiene el problema de distribución desigual entre niveles. La contra: service técnico menos consolidado que Atma o Peabody si algo falla fuera de garantía. Está sin stock en Mercado Libre por el momento — la dejamos documentada porque suele reponerse. [Ver ficha](/producto/airfryer-suono-digital-y-doble-resistencia-12-programas-10l-negro-mla54106293) para chequear disponibilidad.` },
 
       { type: "h3", title: `5. Peabody PE-AFDL102N — 10L en doble piso (sin stock)` },
       { type: "p", content: `10 litros en doble piso, la mayor capacidad del catálogo, 4.9 estrellas. Está sin stock en Mercado Libre por el momento; la dejamos documentada porque suele reponerse. Si cocinás para 6-8 personas y aparece disponible, funciona bien. La contra real del doble piso: el de arriba nunca queda tan crocante como el de abajo, porque el aire ya pasó por el piso inferior. No sirve bien para dos preparaciones con tiempos distintos. [Ver ficha](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810) para chequear disponibilidad.` },
 
-      { type: "h3", title: `6. Philips PHNA35100 — premium` },
-      { type: "product-card", productMlaId: "MLA55779230", label: "Premium", labelColor: "amber", ranking: 6, description: `9 litros en doble canasta, pantalla táctil, app móvil, mejor distribución de aire de la categoría. 4.9 estrellas en 597 calificaciones.` },
-      { type: "p", content: `Es la más cara de la lista, pero también la única con regulación de aire independiente entre canastas — la distribución más pareja del grupo. Para la mayoría, la app y los accesorios extra no justifican {{preciodif:MLA55779230:MLA39861162}} más que la Atma simple. Tiene sentido si valorás la tecnología y podés pagarla.` },
+      { type: "h3", title: `6. Philips PHNA35100 — premium y máxima capacidad disponible` },
+      { type: "product-card", productMlaId: "MLA55779230", label: "Premium y máxima capacidad disponible", labelColor: "amber", ranking: 6, description: `9 litros en doble canasta, pantalla táctil, app móvil, mejor distribución de aire de la categoría. 4.9 estrellas en 597 calificaciones.` },
+      { type: "p", content: `Es la más cara de la lista, pero también la única con regulación de aire independiente entre canastas — la distribución más pareja del grupo. Con la Peabody 10L y la Suono 10L sin stock, esta pasa a ser la de mayor capacidad realmente disponible hoy. Para la mayoría, la app y los accesorios extra no justifican {{preciodif:MLA55779230:MLA39861162}} más que la Atma simple. Tiene sentido si valorás la tecnología, la capacidad y podés pagarla.` },
 
       { type: "callout", calloutVariant: "warning", calloutTitle: "Ojo con la Kanji Home KJH-1700DC", content: `Esta guía la recomendaba antes como la opción económica de 8L. Ya no lo es: hoy cuesta {{preciodif:MLA39861162:MLA42113760}} más que la Atma FR248ABP simple, y más que casi todas las dobles canastas de esta lista. Si la ves ofertada bien por debajo de su precio de lista puede seguir teniendo sentido, pero al precio de catálogo actual no es la alternativa económica que solía ser.` },
 
@@ -8249,8 +8246,7 @@ export const guides: Guide[] = [
         `**Presupuesto ajustado, 4-6 personas:** [Atma FR248ABP](https://meli.la/2UfmcVY) — garantía y service nacional, sin lujos.`,
         `**Doble canasta sin gastar de más:** [Oster Dual DiamondForce](https://meli.la/1rwaoYB) — dos cestas al precio más accesible del segmento doble.`,
         `**Versatilidad y potencia (5-6 personas):** [Atma FRD248AP](https://meli.la/2aw3uVJ) — doble canasta con 2200W y service nacional.`,
-        `**Máxima capacidad para reuniones (6-8 personas):** [Suono Airfryer](https://meli.la/1hCBwJ3) — 10L, la disponible ahora (la Peabody PE-AFDL102N de igual capacidad está sin stock).`,
-        `**Tecnología y mejor distribución de aire:** [Philips PHNA35100](https://meli.la/15VAU5a) — la premium del grupo, para quien puede pagarla.`,
+        `**Máxima capacidad para reuniones (6-8 personas):** [Philips PHNA35100](https://meli.la/15VAU5a) — 9L, la de mayor capacidad disponible hoy (la Peabody PE-AFDL102N y la Suono, ambas de 10L, están sin stock).`,
       ]},
 
       { type: "h2", title: `Tabla comparativa`, id: "tabla-comparativa" },
@@ -8258,13 +8254,13 @@ export const guides: Guide[] = [
         [`[Atma FR248ABP](https://meli.la/2UfmcVY)`, `{{precio:MLA39861162}}`, `8 L`, `Simple`, `Mejor precio del segmento grande`],
         [`[Oster Dual DiamondForce](https://meli.la/1rwaoYB)`, `{{precio:MLA28709303}}`, `7.6 L`, `Doble canasta`, `Doble canasta económica`],
         [`[Atma FRD248AP](https://meli.la/2aw3uVJ)`, `{{precio:MLA40161710}}`, `8.5 L`, `Doble canasta`, `Más potencia, service nacional`],
-        [`[Suono Airfryer](https://meli.la/1hCBwJ3)`, `{{precio:MLA54106293}}`, `10 L`, `Canasta única`, `Máxima capacidad disponible`],
+        [`[Suono Airfryer (sin stock)](/producto/airfryer-suono-digital-y-doble-resistencia-12-programas-10l-negro-mla54106293)`, `—`, `10 L`, `Canasta única`, `Máxima capacidad, cuando repongan`],
         [`[Peabody PE-AFDL102N (sin stock)](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810)`, `—`, `10 L`, `Doble piso`, `Máxima capacidad, cuando repongan`],
-        [`[Philips PHNA35100](https://meli.la/15VAU5a)`, `{{precio:MLA55779230}}`, `9 L`, `Doble canasta`, `Premium, mejor distribución de aire`],
+        [`[Philips PHNA35100](https://meli.la/15VAU5a)`, `{{precio:MLA55779230}}`, `9 L`, `Doble canasta`, `Premium y máxima capacidad disponible`],
       ]},
 
       { type: "h2", title: `Veredicto: cuál comprar`, id: "veredicto" },
-      { type: "verdict", content: `Si el presupuesto manda y no necesitás doble canasta, la [Atma FR248ABP](https://meli.la/2UfmcVY). Si querés cocinar dos cosas a la vez sin gastar de más, la [Oster Dual DiamondForce](https://meli.la/1rwaoYB). Para reuniones o familias de 6-8, la [Suono Airfryer](https://meli.la/1hCBwJ3) con 10 litros (la Peabody PE-AFDL102N de igual capacidad está sin stock). Si podés pagarla, la [Philips PHNA35100](https://meli.la/15VAU5a) tiene la mejor distribución de aire del grupo.` },
+      { type: "verdict", content: `Si el presupuesto manda y no necesitás doble canasta, la [Atma FR248ABP](https://meli.la/2UfmcVY). Si querés cocinar dos cosas a la vez sin gastar de más, la [Oster Dual DiamondForce](https://meli.la/1rwaoYB). Para reuniones o familias de 6-8, la [Philips PHNA35100](https://meli.la/15VAU5a) de 9 litros es la de mayor capacidad disponible hoy (la Peabody PE-AFDL102N y la Suono, ambas de 10L, están sin stock) y además tiene la mejor distribución de aire del grupo.` },
     ],
     faq: [
       {
@@ -9828,7 +9824,7 @@ export const guides: Guide[] = [
         `Mejor relación precio/calidad para 2-4 personas: [Atma FR248ABP 8L](/guias/atma-freidoras-de-aire-review)`,
         `Mejor opción con doble canasta: [Atma Pro Doble FRD248AP](/guias/atma-freidoras-de-aire-review) o [Philips PHNA35100](/guias/philips-freidoras-de-aire-review)`,
         `Mejor freidora con función grill: [Atma FR901DP Grill](/guias/atma-freidoras-de-aire-review) o [Peabody PE-AFG01IX](/guias/peabody-freidoras-de-aire-review)`,
-        `Mejor freidora grande (familia numerosa): [Suono Digital 10L](/guias/suono-airfryer-review) o [Kanji Home 8L](/guias/kanji-home-freidora-review)`,
+        `Mejor freidora grande (familia numerosa): [Kanji Home 8L](/guias/kanji-home-freidora-review) o [Philips PHNA35100 9L](/guias/philips-freidoras-de-aire-review) (la Suono Digital 10L está sin stock)`,
         `Mejor marca premium: [Philips HD9270](/guias/philips-freidoras-de-aire-review) o [Ninja Crispi 5.2L](/guias/ninja-crispi-review)`,
         `Mejor precio accesible: [PowerXL 3.8L](/guias/powerxl-freidora-review) o [Philips NA120/00 4.2L](/guias/gadnic-freidora-review)`,
       ]},
@@ -10572,7 +10568,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Limpieza: cada bandeja sale independiente, lo que facilita bastante el laburo. No es el paraíso, pero es más manejable que parece.` },
       { type: "p", content: `El factor que sorprende es la resistencia. Peabody no cortó camino acá. Los materiales se ven de buena calidad, especialmente en las bisagras y los clips de sujeción.` },
       { type: "p", content: `Mejor para: Familias grandes (más de 5 personas), negocios pequeños de comida, quien cocina a diario para muchos.` },
-      { type: "callout", calloutVariant: "note", calloutTitle: "Actualmente sin stock", content: `La PE-AFDL102N Doble Piso está sin stock en Mercado Libre por el momento. La dejamos documentada porque suele reponerse. [Ver ficha](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810) para chequear disponibilidad, o mirá la [Suono Airfryer 10L](/guias/suono-airfryer-review) como alternativa de igual capacidad.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Actualmente sin stock", content: `La PE-AFDL102N Doble Piso está sin stock en Mercado Libre por el momento (la Suono de igual capacidad también está agotada). La dejamos documentada porque suele reponerse. [Ver ficha](/producto/freidora-doble-piso-pe-afdl102n-capacidad-10-l-peabody-negro-mla53776810) para chequear disponibilidad, o mirá la [Philips PHNA35100 de 9L](/guias/philips-freidoras-de-aire-review) como alternativa de mayor capacidad disponible ahora.` },
       { type: "h2", title: `Peabody PE-AFG01IX Grill 6L: la menos convencional` },
       { type: "p", content: `Este modelo es raro. No es una freidora de aire pura, es un híbrido con superficie de grill.` },
       { type: "p", content: `La capacidad es de 6 litros, la más pequeña de la línea. Pero la idea no es que sea la más grande, es que sea versátil. Mitad aire caliente, mitad grill.` },
