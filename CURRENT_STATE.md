@@ -1,17 +1,21 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-08 (sprint completo del cluster `pava-electrica`: 12/12 guías reconstruidas, todas commiteadas y pusheadas).
+> Última actualización: 2026-07-08 (sprint completo de los clusters `pava-electrica` Y `freidoras-de-aire`: 12 + 23 guías migradas al template embudo, todas commiteadas y pusheadas).
 
-## Sesión 08-jul — Sprint completo: cluster `pava-electrica` (12 guías) reconstruido y migrado al template "embudo de conversión"
+## Sesión 08-jul — Sprint completo: clusters `pava-electrica` (12) y `freidoras-de-aire` (23) migrados al template "embudo de conversión"
 
 Disparador inicial: auditoría pedida por Juan sobre todas las guías (publicadas y staged), enfocada en precios hardcodeados en prosa. Escaló en varias etapas dentro de la misma sesión, todas commiteadas y pusheadas:
 
 1. **Sistema permanente de auditoría** (`npm run guides:check`, 4 scripts encadenados: tokens de precio, staleness de precio en prosa >3%, monetización mínima por guía, links de producto en tablas) + token `{{preciodif:A:B}}` para deltas comparativos en vivo.
 2. **4 guías reconstruidas por precios/links** (`control-temperatura`, `vidrio`, `acero-inoxidable`, `liliana`): bug crítico encontrado y corregido en el método de scraping de precios (se leía el precio tachado "antes", no el real con descuento).
 3. **Fix de sitio completo:** `GuideRenderer.tsx` usaba `injectLivePrices()` en vez de `parseInlineLinks()` para los tipos `bad`/`card` — cualquier link markdown ahí se mostraba como texto crudo `[Producto](url)`. Afectaba 6 guías ya en producción. Corregido a nivel de componente.
-4. **Migración completa al template "embudo de conversión"** (estándar fijado por Juan: `robot-aspiradora`): las 12 guías del cluster `pava-electrica` llevadas a `standfirst` + `quickPicks` + resumen rápido + `trust-block` + `product-card` real + `pull-quote` (reseñas reales de ML buscadas a mano, nunca inventadas) + `callout` + tabla con columna "Ideal para". Detalle completo y hallazgos (productos `deprioritized` que en realidad seguían vigentes, productos mencionados que no existían en catálogo, links muertos) en `docs/seo-tracking-optimizaciones.md`.
-5. **Pendiente:** el mismo tratamiento para el cluster de freidoras de aire (15 guías detectadas sin monetización en la auditoría original, todavía sin tocar). Correr `gsc.py fetch`+`report` para las 12 guías de pavas y registrar baseline real la próxima vez que se optimice contenido en alguna.
+4. **Cluster `pava-electrica` (12 guías) migrado** al template "embudo de conversión" (estándar fijado por Juan: `robot-aspiradora`): `standfirst` + `quickPicks` + resumen rápido + `trust-block` + `product-card` real + `pull-quote` (reseñas reales de ML) + `callout` + tabla "Ideal para".
+5. **Cluster `freidoras-de-aire` (23 guías, incluido el pillar) migrado completo** con el mismo tratamiento. Hallazgos del camino:
+   - **3 productos "pick" resultaron sin stock real** (verificado en vivo, no solo `priceStatus` del catálogo): Gadnic 6.5L, Peabody Doble Piso 10L y Suono Airfryer 10L. Reemplazados por alternativas confirmadas en stock (Philips NA120/00, Atma FRD248AP, Kanji Home, Philips PHNA35100 según el contexto de cada guía) y documentados en su sección original con nota "sin stock" + link a ficha, no un botón de compra activo.
+   - **Invenciones encontradas y corregidas:** 3 quotes de "comprador" 100% inventadas en `freidoras-de-aire-con-grill-argentina` (reemplazadas por 2 reseñas reales); marca "Tefal" mencionada en `vale-la-pena-comprar-freidora-de-aire` pese a no estar en el catálogo.
+   - **Hallazgo sistémico grande:** `check-table-product-links.cjs` (el último de los 4 scripts de `guides:check`, encadenados con `&&`) llevaba probablemente meses sin poder ejecutarse porque `check-guide-monetization` fallaba antes y cortaba la cadena. Al completarse la migración (todas las guías con monetización), la cadena corrió completa por primera vez y reveló 47 filas de tabla en 9 guías con links rotos/faltantes — 4 del cluster de freidoras (ya arregladas: pillar, `atma-freidoras-de-aire-review`, `peabody-freidoras-de-aire-review`, `philips-freidoras-de-aire-review`), 5 de categorías sin relación (`joystick-ps5`, `masajeador-cervical`, `lattafa-asad-comparativa`, `robot-aspiradora-roomba`) delegadas a una tarea aparte.
+6. **Pendiente:** correr `gsc.py fetch`+`report` para ambos clusters (24 + 23 guías) y registrar baseline real la próxima vez que se optimice contenido en alguna. Arreglar la tarea delegada de las 4 guías fuera de freidoras con links de tabla rotos.
 
 ## Sesión 06-jul (5) — Guía nueva: `ventilador-de-techo` (pilar climatización, STAGED)
 
