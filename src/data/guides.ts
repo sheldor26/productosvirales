@@ -9882,8 +9882,15 @@ export const guides: Guide[] = [
     metaDescription: `Comparamos 20 freidoras de aire en Argentina: Atma, Peabody, Philips, Ninja y más. Precio, capacidad y cuál comprar según tu hogar.`,
     h1: `Las mejores freidoras de aire en Argentina [2026]`,
     publishedDate: "2026-04-15",
-    updatedDate: "2026-06-28",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: `Comparamos los 20 modelos de freidora de aire disponibles hoy en Argentina, de Atma a Philips, para que elijas según tu presupuesto y cuántas personas cocinás.`,
+    quickPicks: [
+      { productMlaId: "MLA39861162", label: "Mejor para la mayoría", labelColor: "green", tagline: "8 litros, control táctil, garantía local" },
+      { productMlaId: "MLA19630911", label: "Mejor cocción", labelColor: "blue", tagline: "Tecnología Rapid Air, cocción más pareja" },
+      { productMlaId: "MLA53776810", label: "Familia numerosa", labelColor: "purple", tagline: "10 litros en doble piso, la mayor capacidad del catálogo" },
+      { productMlaId: "MLA44142280", label: "Mejor precio accesible", labelColor: "amber", tagline: "6.5 litros a precio de entrada" },
+    ],
     intro: [
       `En los últimos tres años, la freidora de aire pasó de ser un electrodoméstico de nicho a uno de los más buscados en Mercado Libre Argentina. El salto tiene lógica: consume menos luz que el horno, cocina más rápido, y el crocante que da sin aceite convirtió a mucha gente.`,
       `El problema ahora es elegir. Hay freidoras desde 4.000 pesos hasta más de 100.000, con capacidades que van de 3.8 a 10 litros, con grill, doble canasta, visor de 360°. Una cantidad de opciones que marea.`,
@@ -9901,8 +9908,12 @@ export const guides: Guide[] = [
         `Mejor marca premium: [Philips HD9270](/guias/philips-freidoras-de-aire-review) o [Ninja Crispi 5.2L](/guias/ninja-crispi-review)`,
         `Mejor precio accesible: [PowerXL 3.8L](/guias/powerxl-freidora-review) o [Gadnic 6.5L](/guias/gadnic-freidora-review)`,
       ]},
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos los 20 modelos de freidora de aire disponibles hoy en MercadoLibre Argentina y los ordenamos por relación capacidad-precio-service. Priorizamos garantía y repuestos locales, capacidad útil real (no solo la nominal) y qué dicen las calificaciones públicas de compradores reales. Los precios se revisan periódicamente.` },
+
       { type: "h3", title: `Las 3 que más recomiendo` },
       { type: "product-card", productMlaId: "MLA39861162", label: "Mejor para la mayoría", labelColor: "green", ranking: 1, description: `8 litros para familia de 4 a 6, control táctil y garantía local. La mejor relación capacidad, precio y service en Argentina. Si dudás, es esta.` },
+      { type: "pull-quote", content: `Excelente!. Es una opción muy práctica para cocinar. Entran 4 milanesas medianas de pollo, 4 rodajas de pan lactal para tostar. Hasta ahora probé con milanesa, para muslo deshuesada, papas noise y pan para tostar. Hice muffins y salieron muy bien!.`, attribution: `— Comprador verificado en MercadoLibre, hace 11 meses · 43 personas lo encontraron útil` },
       { type: "product-card", productMlaId: "MLA19630911", label: "Mejor cocción", labelColor: "blue", ranking: 2, description: `El Philips que más se vende acá. La tecnología Rapid Air cocina más parejo que las marcas nacionales. Cuesta más, pero si la usás a diario se nota. 6.2 litros para 3 a 5 personas.` },
       { type: "product-card", productMlaId: "MLA53776810", label: "Familia numerosa", labelColor: "purple", ranking: 3, description: `10 litros en doble piso para cocinar para 6 o más sin hacer tandas. La de mayor capacidad del catálogo. La contra: ocupa bastante lugar en la mesada.` },
       { type: "h2", title: `Los 20 modelos disponibles` },
@@ -9975,6 +9986,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `¿Cuánta capacidad necesitás?` },
       { type: "p", content: `Este es el error más común al comprar: elegir una freidora demasiado pequeña porque parece suficiente para lo que uno cocina habitualmente.` },
       { type: "p", content: `El volumen nominal (el que figura en la caja) no es el volumen útil. En una freidora de 5 litros, lo que entra sin amontonar la comida para que el aire circule bien es más cerca de 3 a 3.5 litros reales. Si apilas demasiado, la cocción sale pareja solo arriba y cruda abajo.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Comprá un litro más de lo que creés necesitar", content: `Como el volumen útil es menor al nominal, conviene redondear para arriba: si calculás 5 litros de necesidad real, buscá un modelo de 6 a 6.5 litros. Te da margen para no amontonar la comida.` },
       { type: "p", content: `Guía práctica:` },
       { type: "list", items: [
         `1-2 personas: 3.8 a 4.2 litros (PowerXL, Philips NA12000, Oster con Ventana)`,
