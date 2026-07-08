@@ -7874,6 +7874,13 @@ export const guides: Guide[] = [
     publishedDate: "2026-06-13",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Comparamos las pavas de acero inoxidable que se consiguen hoy en Argentina: acero completo vs interior, control de temperatura o no, y por qué el acero no toma olor como el plástico.",
+    quickPicks: [
+      { productMlaId: "MLA14263533", label: "Mejor acero completo", labelColor: "green", tagline: "4 preset de temperatura y pantalla digital" },
+      { productMlaId: "MLA20027329", label: "Más económica", labelColor: "amber", tagline: "La más barata con acero por {{precio:MLA20027329}}" },
+      { productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "blue", tagline: "Acero SUS304, hasta 4-5 años de uso diario" },
+      { productMlaId: "MLA47275624", label: "Control continuo", labelColor: "purple", tagline: "Temperatura exacta de 40 a 100°, el rating más alto (4.9)" },
+    ],
     intro: [
       "Comparamos ocho pavas de acero disponibles en Argentina. Los precios van de {{precio:MLA20027329}} a {{precio:MLA8993736}}. El acero tiene una ventaja real sobre plástico y vidrio: no toma olor después de dos años.",
       "Las pavas de plástico que después de año y medio empiezan a oler raro no se arreglan limpiando con vinagre o detergente: el olor persiste. Con acero nunca pasa eso. Después de tres años el agua sigue sabiendo igual que el primer día.",
@@ -7881,37 +7888,79 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_883402-MLA99440961426_112025-F.webp", alt: "Pava eléctrica Philips HD9350 de acero inoxidable SUS304, 1.7 litros", imageSize: "hero" },
-      { type: "p", content: "La mejor pava eléctrica de acero inoxidable en 2026 es la [Peabody PE-DK1850](https://meli.la/2T7Y1zd): acero completo, 4 preset de temperatura y precio medio ({{precio:MLA14263533}}). Si el presupuesto es la prioridad, la [Kanji KJH-PE15002M](https://meli.la/1f9jqdT) a {{precio:MLA20027329}} es la más barata con acero (interior). La [Oster 8970](https://meli.la/1jdC3sW) hace lo mismo que la Peabody y cuesta {{preciodif:MLA8993736:MLA14263533}} más." },
+
+      { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**Mejor acero completo:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — 4 preset de temperatura y pantalla digital, precio medio.",
+        "**Más económica:** [Kanji KJH-PE15002M](https://meli.la/1f9jqdT) — la más barata con algo de acero, por {{precio:MLA20027329}}.",
+        "**Mejor durabilidad:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero SUS304, hasta 4-5 años de uso diario.",
+        "**Control continuo:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — temperatura exacta de 40 a 100°, el rating más alto de la comparativa (4.9).",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos las pavas de acero disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos si el acero es completo o solo interior, si tienen control de temperatura real, y qué dicen las calificaciones públicas de compradores reales. Los precios se revisan periódicamente." },
+
       { type: "h2", title: "Las ocho pavas de acero" },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Por qué el acero no toma olor", content: "El plástico absorbe minerales del agua con el uso y después de 500-1.000 hervidas empieza a oler, algo que ni el vinagre ni el bicarbonato sacan del todo. El acero no absorbe nada: el agua del hervido 2.000 sabe igual que la del primero." },
+
+      { type: "h2", title: "El ranking: mejores pavas de acero inoxidable", id: "ranking" },
+
+      { type: "h3", title: "1. Peabody PE-DK1850 — mejor acero completo" },
+      { type: "product-card", productMlaId: "MLA14263533", label: "Mejor acero completo", labelColor: "green", ranking: 1, description: "Acero inoxidable completo, 1.7L, 2200W, 4 preset de temperatura (50°/70°/80°/100°), pantalla digital. 4.7 estrellas en 1.554 calificaciones." },
+      { type: "p", content: "Tiene todo lo importante: acero completo, 4 preset que cubren té blanco, té verde, mate y hervir, y pantalla digital. Cuesta {{preciodif:MLA14263533:MLA20027329}} más que la Kanji (acero completo vs básico, 4 preset vs 2 niveles) y {{preciodif:MLA8993736:MLA14263533}} menos que la Oster 8970, que hace exactamente lo mismo." },
+      { type: "pull-quote", content: "Si estás leyendo opiniones para decidirte, no leas más, comprá de una. La pava es excelente [...] La temperatura de 80°c para mí es la ideal para el mate [...] Yo volvería a comprar y definitivamente la recomiendo.", attribution: "— Comprador verificado en MercadoLibre, hace más de 1 año · 33 personas lo encontraron útil" },
+
+      { type: "h3", title: "2. Kanji KJH-PE15002M — más económica" },
+      { type: "product-card", productMlaId: "MLA20027329", label: "Más económica", labelColor: "amber", ranking: 2, description: "Interior de acero inoxidable, 1.8L, 1500W, 2 niveles de control con selector mecánico. La más barata de la lista con algo de acero: 4.5 estrellas en 3.793 calificaciones." },
+      { type: "p", content: "Para presupuesto muy ajustado, es la entrada más sensata: acero (interior) y 2 niveles de control por menos que cualquier otra de la lista. Es más barata que la Liliana AP152, que ni siquiera tiene control de temperatura." },
+
+      { type: "h3", title: "3. Atma PEAT1351 — solo hervir, sin vueltas" },
+      { type: "product-card", productMlaId: "MLA49747515", label: "Rápida y simple", labelColor: "blue", ranking: 3, description: "Interior de acero inoxidable, 1.8L, 1500W, sin control de temperatura. 4.7 estrellas." },
+      { type: "p", content: "Si solo hervís agua sin necesitar control de temperatura, esta es la opción directa: interior de acero, 1.8 litros y rápida. No trae mapeo de temperaturas ni pantalla, pero tampoco lo necesitás si tu uso es simple." },
+
+      { type: "h3", title: "4. Philips HD9350 — mejor durabilidad" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Mejor durabilidad", labelColor: "purple", ranking: 4, description: "Acero SUS304 de grado alimentario, 1.7L, sin control de temperatura. La que más dura de la comparativa: hasta 4 años y medio con uso diario. 4.7 estrellas en 230 calificaciones." },
+      { type: "p", content: "No tiene ningún control de temperatura, así que cuesta {{preciodif:MLA14263533:MLA24601443}} menos que la Peabody DK1850. La ventaja real es la durabilidad: acero SUS304 de grado alimentario que aguantó 4 años y medio de uso diario en nuestra prueba, más que cualquier otro modelo de esta lista." },
+
+      { type: "h3", title: "5. Liliana AP152 — acero completo económico" },
+      { type: "product-card", productMlaId: "MLA61505857", label: "Acero barato", labelColor: "amber", ranking: 5, description: "Acero inoxidable completo, 1.7L, 1500W, selector mate fijo, base giratoria 360°, filtro removible. 4.7 estrellas en 529 calificaciones." },
+      { type: "p", content: "Es la pava de acero completo más barata del catálogo, con selector mate fijo y base giratoria. No tiene niveles de temperatura como la Kanji, pero sí acero por dentro y por fuera — la ventaja estética se nota con los años." },
+
+      { type: "h3", title: "6. Liliana Safeheat AAP992N — premium híbrida" },
+      { type: "product-card", productMlaId: "MLA54676373", label: "Premium", labelColor: "purple", ranking: 6, description: "Doble pared (interior acero, exterior plástico), 7 niveles de temperatura, mantiene caliente, pantalla digital. 4.8 estrellas." },
+      { type: "p", content: "Es la que más niveles ofrece (7) y la única con doble pared: se mantiene tibia por fuera aunque hierva adentro. Cuesta {{preciodif:MLA54676373:MLA14263533}} más que la Peabody DK1850, que tiene más capacidad (1.7L vs 1.5L) y más potencia (2200W vs 1500W) por menos plata." },
+
+      { type: "h3", title: "7. Peabody PE-DK2200N — control continuo" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Control continuo", labelColor: "blue", ranking: 7, description: "Acero completo, control continuo de temperatura de 40 a 100°, mantiene el calor. El rating más alto de la comparativa: 4.9 estrellas." },
+      { type: "p", content: "Elegís cualquier grado entre 40 y 100°, no estás limitado a preset. Tiene sentido si preparás infusiones muy específicas (té blanco a 67°, café pour-over a 93°); para mate a 80° y té verde a 70°, los preset de la Peabody DK1850 alcanzan igual y cuesta menos." },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La que no conviene comprar", content: "No compres la [Oster 8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}): hace exactamente lo mismo que la Peabody DK1850 (acero completo, 4 niveles, pantalla digital) por {{preciodif:MLA8993736:MLA14263533}} más. La diferencia es pura marca." },
+
+      { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["Modelo", "Precio", "Control temp", "Tipo acero", "Capacidad"],
+        headers: ["Modelo", "Precio", "Control temp", "Tipo acero", "Ideal para"],
         rows: [
-          ["[Kanji KJH-PE15002M](https://meli.la/1f9jqdT)", "{{precio:MLA20027329}}", "2 niveles", "Interior", "1.8 L"],
-          ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "No", "Completo", "1.7 L"],
-          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "No", "Interior", "1.8 L"],
-          ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "No", "Completo", "1.7 L"],
-          ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "4 preset", "Completo", "1.7 L"],
-          ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7 niveles", "Híbrida", "1.5 L"],
-          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Continuo", "Completo", "1.5 L"],
-          ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4 niveles", "Completo", "1.7 L"],
+          ["[Peabody PE-DK1850](https://meli.la/2T7Y1zd)", "{{precio:MLA14263533}}", "4 preset", "Completo", "Acero completo sin pagar premium"],
+          ["[Kanji KJH-PE15002M](https://meli.la/1f9jqdT)", "{{precio:MLA20027329}}", "2 niveles", "Interior", "Presupuesto muy ajustado"],
+          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "No", "Interior", "Solo hervir, sin vueltas"],
+          ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "No", "Completo", "Máxima durabilidad"],
+          ["[Liliana AP152](https://meli.la/1QMfKob)", "{{precio:MLA61505857}}", "No", "Completo", "Acero barato con selector mate"],
+          ["[Liliana Safeheat AAP992N](https://meli.la/2kApAsJ)", "{{precio:MLA54676373}}", "7 niveles", "Híbrida", "Máximo control + mantener caliente"],
+          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Continuo", "Completo", "Infusiones exactas"],
+          ["[Oster 8970](https://meli.la/1jdC3sW)", "{{precio:MLA8993736}}", "4 niveles", "Completo", "No recomendada: igual que la Peabody DK1850 por más"],
         ],
       },
-      { type: "h2", title: "Por qué el acero no toma olor" },
-      { type: "p", content: "Probé pavas de plástico durante tres años. Después de año y medio empiezan a oler raro. No es olor fuerte. Es olor sutil a plástico viejo. Se nota cuando tomás mate. Limpiás con vinagre blanco hirviendo. El olor desaparece por una semana. Después vuelve. Limpiás con bicarbonato. El olor vuelve. Limpiás con limón. El olor vuelve." },
-      { type: "p", content: "El problema es que el plástico absorbe minerales del agua. Después de 500-1000 hervidas, esos minerales se acumulan en el plástico. No podés sacarlos completamente. Con acero no pasa eso. El acero no absorbe nada. Probé [Philips HD9350](https://meli.la/2kpg1Zr) durante dos años con uso diario — tres veces por día, aproximadamente 2.190 hervidas totales. El agua del día 2.190 sabe igual que el agua del día 1." },
+
       { type: "h2", title: "Acero completo vs interior acero" },
       { type: "p", content: "Acero completo significa que interior y exterior son acero. No tiene plástico en ningún lado. Dura más: entre 3 y 4 años con uso diario. Interior acero significa que solo el interior (donde está el agua) es acero. El exterior es plástico. Dura un poco menos: entre 2.5 y 3.5 años. La diferencia de durabilidad es aproximadamente 6 meses." },
       { type: "p", content: "El sabor del agua es igual en ambos casos. Si el interior es acero, no importa si el exterior es acero o plástico. La ventaja real de acero completo es estética — el plástico exterior después de 2 años se ve gastado." },
-      { type: "h2", title: "Por qué Peabody DK1850 es la mejor compra" },
-      { type: "p", content: "La [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} tiene todo lo importante: acero completo, 1.7 litros, 2200W, 4 preset de temperatura (50°/70°/80°/100°), pantalla digital. Los preset cubren todo: té blanco, té verde, mate, hervir. No necesitás más temperaturas que esas." },
-      { type: "p", content: "Cuesta {{preciodif:MLA14263533:MLA20027329}} más que la [Kanji](https://meli.la/1f9jqdT). Por esa diferencia tenés acero completo vs básico, 4 preset vs 2 niveles, y pantalla digital vs selector mecánico. También cuesta {{preciodif:MLA14263533:MLA24601443}} más que la [Philips HD9350](https://meli.la/2kpg1Zr), pero Philips no tiene ningún control de temperatura mientras Peabody suma 4 preset: el extra se justifica. Y cuesta {{preciodif:MLA8993736:MLA14263533}} menos que la [Oster 8970](https://meli.la/1jdC3sW) — ambas tienen acero completo, 4 niveles, pantalla digital. Hacen lo mismo." },
+
       { type: "h2", title: "Durabilidad real: 3-4 años" },
       { type: "p", content: "Usé pavas de acero durante cuatro años. [Philips HD9350](https://meli.la/2kpg1Zr): 4 años y medio (murió por termostato). [Peabody PE-DK1850](https://meli.la/2T7Y1zd): 3 años y 8 meses (resistencia eléctrica). [Atma PEAT1351](https://meli.la/1TBSj3K): 3 años y 2 meses (la base dejó de calentar). Promedio: 3 años y 9 meses. Lo que falla es termostato, resistencia, o base — no el material." },
       { type: "p", content: "Pavas de plástico duran aproximadamente 2.5 años antes que el olor sea molesto. Pavas de vidrio duran 2.5 años antes que las manchas de sarro sean permanentes. Matemática del precio por año, con los precios de hoy: [Kanji](https://meli.la/1f9jqdT) {{precio:MLA20027329:k}} ÷ 3 años ≈ $6.100 por año. [Peabody DK1850](https://meli.la/2T7Y1zd) {{precio:MLA14263533:k}} ÷ 3.5 años ≈ $18.800 por año. [Oster 8970](https://meli.la/1jdC3sW) {{precio:MLA8993736:k}} ÷ 3.5 años ≈ $28.600 por año — la más cara por año sin justificación." },
-      { type: "bad", content: "No compres la [Liliana AP152](https://meli.la/1QMfKob) ({{precio:MLA61505857}}) — la [Kanji](https://meli.la/1f9jqdT) tiene acero + 2 niveles de control por {{preciodif:MLA61505857:MLA20027329}} menos. No compres la [Liliana Safeheat AAP992N](https://meli.la/2kApAsJ) ({{precio:MLA54676373}}) si buscás lo más barato — la Peabody DK1850 por {{preciodif:MLA54676373:MLA14263533}} menos tiene 4 preset, más capacidad (1.7L vs 1.5L) y más potencia (2200W vs 1500W). No compres la [Oster 8970](https://meli.la/1jdC3sW) ({{precio:MLA8993736}}) — es cara sin justificación frente a la Peabody." },
-      { type: "h2", title: "Recomendación final" },
-      { type: "p", content: "Comprá la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} si tu presupuesto es medio. Acero completo, 4 preset, pantalla digital, dura 3-4 años. ¿Presupuesto muy ajustado? La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}} — más barata con acero. ¿Solo hervís agua sin control? La [Atma](https://meli.la/1TBSj3K) por {{precio:MLA49747515}} — interior acero, rápida." },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Comprá la [Peabody PE-DK1850](https://meli.la/2T7Y1zd) por {{precio:MLA14263533}} si tu presupuesto es medio: acero completo, 4 preset, pantalla digital, dura 3-4 años. ¿Presupuesto muy ajustado? La [Kanji](https://meli.la/1f9jqdT) por {{precio:MLA20027329}}. ¿Solo hervís agua sin control? La [Atma](https://meli.la/1TBSj3K) por {{precio:MLA49747515}}." },
       { type: "p", content: "Para más opciones con control de temperatura mirá la [guía de pava con control](/guias/pava-electrica-control-temperatura). Para una pava pequeña (1.2L) mirá la [guía de pava pequeña](/guias/pava-electrica-pequena). O si preferís ver el agua, la [guía de pava de vidrio](/guias/pava-electrica-vidrio)." },
     ],
     faq: [
