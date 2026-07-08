@@ -48453,6 +48453,27 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     reviewCount: 204,
     description: 'Pava eléctrica Liliana Safeheat AAP992N de doble pared (exterior no se calienta al tacto), 7 niveles de temperatura y función mantener caliente. 4.8⭐ con 204 calificaciones. Reemplaza al listado AP992B, que MercadoLibre no permite usar en el programa de afiliados; mismo producto, publicación distinta.',
   },
+  {
+    id: 'MLA20027329',
+    title: 'Pava Eléctrica Matera Kanji Home Kjh-pe15002m 1500w 1.8 Mate',
+    brand: "Kanji",
+    price: 18299,
+    priceLastChecked: "2026-07-08",
+    priceUpdated: "2026-07-08",
+    priceStatus: "fresh",
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_Q_NP_835793-MLA99371079764_112025-R.webp',
+    category: 'Cocina',
+    categorySlug: 'cocina',
+    visibility: 'normal',
+    permalink: 'https://www.mercadolibre.com.ar/pava-electrica-matera-kanji-home-kjh-pe15002m-1500w-18-mate/p/MLA20027329',
+    affiliateUrl: 'https://meli.la/1f9jqdT',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 3793,
+    description: 'Pava eléctrica Kanji Home KJH-PE15002M de 1.8L, interior de acero inoxidable, 1500W, corte automático y función mate (2 niveles de temperatura). Base giratoria 360°. 4.5⭐ con 3.793 calificaciones, la más barata con acero del catálogo.',
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
