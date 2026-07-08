@@ -23,6 +23,7 @@ const fs = require("fs");
 const path = require("path");
 
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
+const SUSPICIOUS_DOC_PATH = path.resolve("docs/precios-sospechosos.md");
 const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
 
@@ -75,7 +76,13 @@ function compare(catalog, report) {
     if (typeof scraped !== "number") { errored++; continue; }
     matched++;
     if (scraped === product.price) { unchanged++; continue; }
-    changes.push({ id: product.id, title: product.title, stored: product.price, scraped });
+    changes.push({
+      id: product.id,
+      title: product.title,
+      stored: product.price,
+      scraped,
+      permalink: product.permalink,
+    });
   }
   return { matched, unmatched, errored, unchanged, changes };
 }
@@ -125,6 +132,41 @@ function applyChanges(src, changes, today) {
   return { next, applied, metaUpdated, missed };
 }
 
+const SUSPICIOUS_DOC_INTRO = `# Precios sospechosos
+
+> Cambios de precio que el cruce automático con Bright Data descartó por
+> parecer un error (el precio se duplicó o cayó a menos de la mitad). El
+> workflow los deja afuera del PR de precios a propósito — hay que
+> chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
+> Entradas nuevas arriba.
+
+`;
+
+function appendSuspiciousDoc(suspicious, today) {
+  if (suspicious.length === 0) return false;
+  const existing = fs.existsSync(SUSPICIOUS_DOC_PATH)
+    ? fs.readFileSync(SUSPICIOUS_DOC_PATH, "utf8")
+    : SUSPICIOUS_DOC_INTRO;
+
+  const entries = suspicious
+    .map((c) => {
+      const pct = Math.round(((c.scraped - c.stored) / c.stored) * 100);
+      const sign = pct > 0 ? "+" : "";
+      return `- **${c.id}** — ${c.title}: $${c.stored.toLocaleString("es-AR")} → $${c.scraped.toLocaleString("es-AR")} (${sign}${pct}%)\n  - ML: ${c.permalink}\n  - Sitio: https://productosvirales.com.ar/producto/${c.id}`;
+    })
+    .join("\n");
+  const section = `## ${today}\n\n${entries}\n\n`;
+
+  const firstSectionIdx = existing.indexOf("\n## ");
+  const next =
+    firstSectionIdx === -1
+      ? existing.trimEnd() + "\n\n" + section
+      : existing.slice(0, firstSectionIdx + 1) + section + existing.slice(firstSectionIdx + 1);
+
+  fs.writeFileSync(SUSPICIOUS_DOC_PATH, next);
+  return true;
+}
+
 function main() {
   const args = process.argv.slice(2);
   if (args.length === 0 || args.includes("--help") || args.includes("-h")) {
@@ -160,12 +202,18 @@ function main() {
     console.log("\nDry run - no se escribio nada. Correr con --apply para aplicar.");
     return;
   }
+
+  const today = new Date().toISOString().slice(0, 10);
+
+  if (appendSuspiciousDoc(suspicious, today)) {
+    console.log(`\nAgregados ${suspicious.length} caso(s) sospechoso(s) a docs/precios-sospechosos.md`);
+  }
+
   if (reasonable.length === 0) {
-    console.log("\nNada para aplicar.");
+    console.log("\nNada para aplicar en el catalogo.");
     return;
   }
 
-  const today = new Date().toISOString().slice(0, 10);
   const { next, applied, metaUpdated, missed } = applyChanges(src, reasonable, today);
   console.log(`\nReemplazados (precio): ${applied}`);
   console.log(`Con metadata actualizada: ${metaUpdated}`);

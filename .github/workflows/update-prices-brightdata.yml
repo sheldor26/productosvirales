@@ -197,8 +197,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if git diff --quiet -- src/data/curated-products.ts; then
-            echo "Sin cambios de precio. No se abre PR."
+          if git diff --quiet -- src/data/curated-products.ts docs/precios-sospechosos.md; then
+            echo "Sin cambios de precio ni casos sospechosos nuevos. No se abre PR."
             exit 0
           fi
 
@@ -208,7 +208,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH"
-          git add src/data/curated-products.ts
+          git add src/data/curated-products.ts docs/precios-sospechosos.md
           git commit -m "chore(precios): actualizacion via Bright Data ${DATE}"
           git push origin "$BRANCH"
 
@@ -219,8 +219,9 @@ jobs:
             --body "Actualización automática de precios desde MercadoLibre (via Bright Data).
 
           Revisá el diff de \`src/data/curated-products.ts\`. Los cambios sospechosos
-          (precio se duplicó o cayó a menos de la mitad) quedaron afuera a propósito,
-          ver el log del job \"Aplicar precios al catalogo\" para esos casos.
+          (precio se duplicó o cayó a menos de la mitad) quedaron afuera del catálogo a
+          propósito y se listaron en \`docs/precios-sospechosos.md\` con el link a
+          MercadoLibre — chequealos ahí y avisá si hay que aplicarlos a mano.
           Si el resto tiene sentido, hacé merge y Vercel publica solo.
 
           Generado por el workflow .github/workflows/update-prices-brightdata.yml"
