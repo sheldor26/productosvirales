@@ -24322,7 +24322,7 @@ Con 1.318 calificaciones y 826 comentarios, el PE-DK1850 tiene el mayor volumen 
     title: "Pava Eléctrica Vintage Peabody PE-KV8215R Color Rojo 2200 W",
     metaDescription: "Pava vintage Peabody de acero con termómetro analógico, para controlar la temperatura del mate a ojo. Linda y bien valorada, pero grande y lenta.",
     brand: "Peabody",
-    visibility: 'deprioritized',
+    visibility: 'normal',
     relatedProducts: ['MLA47275624', 'MLA14263533', 'MLA24601443'],
     price: 85999,
     priceUpdated: "2026-07-08",
@@ -46543,8 +46543,8 @@ Comprá el Logitech MK470 si valorás el silencio, la marca y usar el mismo setu
     condition: "new",
     freeShipping: true,
     badge: "trending",
-    seoTitle: "GTA VI edición física PS5: precio y qué trae la caja en Argentina",
-    metaDescription: "GTA VI edición física para PS5 en preventa: $218.847. Ojo, no trae disco: es un código de descarga. Fecha, bonus de preventa y todo lo que hay que saber.",
+    seoTitle: "GTA 6: cuándo sale y precio en Argentina (edición física PS5)",
+    metaDescription: "GTA 6 sale el 12 de noviembre. Precio en Argentina: $218.847. Ojo, la edición física no trae disco: es un código de descarga. Te contamos todo antes de reservar.",
     ogTitle: "GTA VI física para PS5: la caja no trae disco (y hay que saberlo antes de comprar)",
     ogDescription: "Preventa oficial en MercadoLibre, vendida por la tienda oficial. Te explicamos qué es lo que realmente comprás, la polémica del disco, y si conviene reservarlo ya.",
     h1: "GTA VI edición física para PS5: precio, fecha y qué trae realmente la caja",
@@ -46554,9 +46554,9 @@ Ojo con esto antes de gastar: la caja de esta edición **no trae un disco**. Roc
 
 No es un detalle de esta publicación puntual: es así en todo el mundo, y generó bastante quilombo en la industria — cadenas como Video Game Plus y Loot Box Gaming en EE.UU. directamente se negaron a vender la "edición física" por no considerarla un juego físico de verdad. Rockstar lo hizo así por dos motivos: evitar que el disco se filtre antes del lanzamiento (pasó con entregas anteriores de la saga) y cortar la reventa de usados, que no le deja nada a la compañía.
 
-## Entonces, ¿para qué comprar la física?
+## Para quién sí y para quién no
 
-Tiene sentido en un solo caso: querés la caja de colección (la portada, el estuche, tenerlo en la estantería) y no te molesta que el juego en sí sea digital. Si lo que buscás es un disco que puedas prestar, revender de verdad o jugar sin depender de una cuenta, esta no es esa opción. Según cobertura de prensa especializada, **una versión con disco real llegaría recién después del lanzamiento**, no el día uno.
+Es para vos si querés la caja de colección (la portada, el estuche, tenerlo en la estantería) y no te molesta que el juego en sí sea digital, si ya decidiste comprarlo y preferís asegurar el precio de hoy y el Pack Vintage Vice City, o si preferís pagar en cuotas antes que todo junto en la PlayStation Store. No es para vos si buscás un disco físico tradicional que puedas prestar, revender de verdad o jugar sin depender de una cuenta, si te importa arrancar a jugar justo el 12 de noviembre sin esperar al 19, o si preferís esperar reseñas reales antes de gastar en algo que todavía nadie probó. Según cobertura de prensa especializada, una versión con disco real llegaría recién después del lanzamiento, no el día uno.
 
 ## Fecha real: 12 de noviembre, pero el código se activa el 19
 
@@ -46585,6 +46585,7 @@ Estuche físico coleccionable con la portada oficial, un código para canjear la
       { question: "¿GTA VI tiene multijugador?", answer: "Esta edición es, según Rockstar, una experiencia de juego individual. No tiene modo multijugador integrado." },
       { question: "¿Va a salir una versión con disco de verdad?", answer: "Según prensa especializada, Rockstar tendría planeada una versión con disco físico más adelante, pero no para el lanzamiento del 12 de noviembre." },
       { question: "¿Vale la pena reservarlo ya?", answer: "Si lo comprás para tener la caja de colección y no te molesta que el juego sea digital, sí: lo vende la tienda oficial de Mercado Libre, con devolución gratis y el bonus de preventa incluido. Si buscás un disco físico tradicional, convendría esperar." },
+      { question: "¿Por qué en Argentina sale tanto más caro que en dólares?", answer: "Rockstar confirmó un precio oficial de USD 79,99 para la Standard Edition. Acá sale $218.847 con impuestos nacionales incluidos: la diferencia responde a impuestos de importación e IVA, no a un sobreprecio del vendedor (que es la tienda oficial de Mercado Libre, no un revendedor)." },
     ],
     structuredData: {
       "@context": "https://schema.org",

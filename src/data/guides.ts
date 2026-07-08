@@ -5772,147 +5772,95 @@ export const guides: Guide[] = [
     title: "Pava Peabody: ¿vale la pena el control de temperatura digital?",
     seoTitle: "Pava eléctrica Peabody: ¿vale el control digital?",
     metaDescription:
-      "Probé la Peabody digital un mes: cuándo el control de temperatura vale la pena y cuándo conviene una Philips de acero o una Atma más barata.",
+      "Probamos la Peabody digital un mes: cuándo el control de temperatura vale la pena y cuándo conviene una Philips de acero o una Atma más barata.",
     ogTitle: "Pava eléctrica Peabody: ¿vale el control digital de temperatura?",
     ogDescription:
       "Si solo tomás mate a 100°, pagás de más por una pantalla que no vas a usar. Análisis honesto de la Peabody digital.",
     h1: "Pava eléctrica Peabody: ¿vale el control digital de temperatura?",
     publishedDate: "2026-05-09",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: "Peabody apuesta al control de temperatura digital en vez de solo hervir. Te contamos cuándo esa diferencia se justifica y cuándo estás pagando de más por una pantalla que no vas a usar.",
+    quickPicks: [
+      { productMlaId: "MLA47275624", label: "Si necesitás control de temperatura", labelColor: "green", tagline: "Control continuo 40-100°, el rating más alto de la comparativa (4.9)" },
+      { productMlaId: "MLA24601443", label: "Si solo tomás mate a 100°", labelColor: "blue", tagline: "Acero completo, más durabilidad, sin pagar por la pantalla" },
+      { productMlaId: "MLA49747515", label: "Presupuesto ajustado", labelColor: "amber", tagline: "Interior de acero por bastante menos" },
+      { productMlaId: "MLA14263533", label: "Alternativa Peabody con acero", labelColor: "purple", tagline: "4 preset y acero completo, sin pantalla digital" },
+    ],
     intro: [
-      "Peabody vende pavas eléctricas con control de temperatura. La pregunta es si eso justifica pagar $70.000 cuando Philips con acero completo cuesta $60.000 y Atma con interior acero cuesta $42.000.",
-      "Probé la Peabody digital durante un mes. El control de temperatura funciona bien, pero si solo tomás mate a 100°, estás pagando $27.000 por una pantalla que no vas a usar.",
+      "Peabody vende pavas eléctricas con control de temperatura. La pregunta es si eso justifica pagar bastante más que una Philips con acero completo o una Atma con interior acero.",
+      "Probamos la Peabody digital durante un mes. El control de temperatura funciona bien, pero si solo tomás mate a 100°, estás pagando extra por una pantalla que no vas a usar.",
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_739806-MLA99584711790_122025-F.webp", alt: "Pava eléctrica Peabody PE-DK2200N digital con función mate", imageSize: "hero" },
+
+      { type: "h2", title: "Resumen rápido: cuál comprar según tu caso", id: "resumen-rapido" },
+      { type: "list", items: [
+        "**Si necesitás control de temperatura:** [Peabody PE-DK2200N](https://meli.la/2cyQgD2) — control continuo 40-100°, el rating más alto de la comparativa.",
+        "**Si solo tomás mate a 100°:** [Philips HD9350](https://meli.la/2kpg1Zr) — acero completo, más durabilidad, sin pagar por la pantalla.",
+        "**Presupuesto ajustado:** [Atma PEAT1351](https://meli.la/1TBSj3K) — interior de acero por bastante menos.",
+        "**Alternativa Peabody con acero:** [Peabody PE-DK1850](https://meli.la/2T7Y1zd) — 4 preset y acero completo, sin pantalla digital.",
+      ] },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** analizamos las pavas Peabody disponibles hoy en MercadoLibre Argentina frente a sus alternativas de otras marcas, mirando si el control de temperatura se traduce en un beneficio real para el uso diario o si es una función que la mayoría no termina usando. Los precios se revisan periódicamente." },
+
       { type: "h2", title: "Por qué Peabody cobra más" },
-      {
-        type: "p",
-        content:
-          "La mayoría de las pavas hierven agua a 100°C y listo. Peabody apuesta por algo distinto: control digital de temperatura entre 40° y 100°, mantener esa temperatura por hasta 2 horas, y una pantalla LED touch para controlar todo. El interior es acero inoxidable, que está bien, pero el exterior es plástico.",
-      },
-      {
-        type: "p",
-        content:
-          "La pregunta honesta es si vas a usar esas temperaturas específicas o solo hervís agua a 100° como todo el mundo.",
-      },
-      { type: "h2", title: "Peabody PE-DK2200N — La digital de $70.000" },
-      {
-        type: "card",
-        card: {
-          heading: "Peabody PE-DK2200N — Control digital 40-100°C",
-          paragraphs: [
-            "1.5 litros, control digital 40-100°, pantalla LED touch, doble pared (interior acero, exterior plástico), 2200W. El control funciona bien y la pantalla es clara.",
-            "Pero $70.000 es caro. Son 1.5L (menos que Atma 1.8L o Philips 1.7L), el exterior es plástico, y la función mantener caliente gasta luz constantemente.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/2cyQgD2" }],
-        },
-      },
-      {
-        type: "verdict",
-        content:
-          "Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°). No tiene sentido si solo tomás mate a 100° o querés acero completo — en esos casos mirá [Philips HD9350](https://meli.la/2kpg1Zr) o [Atma PEAT1351](https://meli.la/1TBSj3K).",
-      },
-      { type: "h2", title: "Peabody vs Philips: la comparación real" },
-      {
-        type: "p",
-        content:
-          "Peabody PE-DK2200N sale $69.433. [Philips HD9350](https://meli.la/2kpg1Zr) sale $59.602. Esa diferencia de $9.831 alcanza para unos meses de mate.",
-      },
+      { type: "p", content: "La mayoría de las pavas hierven agua a 100°C y listo. Peabody apuesta por algo distinto: control digital de temperatura entre 40° y 100°, mantener esa temperatura por hasta 2 horas, y una pantalla LED touch para controlar todo. El interior es acero inoxidable, que está bien, pero el exterior es plástico." },
+      { type: "p", content: "La pregunta honesta es si vas a usar esas temperaturas específicas o solo hervís agua a 100° como todo el mundo." },
+
+      { type: "h2", title: "El ranking: Peabody y sus alternativas", id: "ranking" },
+
+      { type: "h3", title: "1. Peabody PE-DK2200N — la digital" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Control de temperatura", labelColor: "green", ranking: 1, description: "1.5 litros, control digital 40-100°, pantalla LED touch, doble pared (interior acero, exterior plástico), 2200W. 4.9 estrellas, el rating más alto de la comparativa." },
+      { type: "p", content: "El control funciona bien y la pantalla es clara. Pero cuesta {{preciodif:MLA47275624:MLA24601443}} más que la Philips HD9350: son 1.5L (menos que Atma 1.8L o Philips 1.7L), el exterior es plástico, y la función mantener caliente gasta luz constantemente. Tiene sentido si tomás té verde (70-80°), té blanco (60-70°) o café de filtro (92-96°)." },
+
+      { type: "h3", title: "2. Philips HD9350 — si no usás el control" },
+      { type: "product-card", productMlaId: "MLA24601443", label: "Sin control, más acero", labelColor: "blue", ranking: 2, description: "Acero inoxidable completo, 1.7L, 2200W. 4.7 estrellas en 230 calificaciones. Dura 4-5 años con uso diario." },
+      { type: "p", content: "Si tomás té verde/blanco o café de filtro con temperatura específica, la Peabody tiene sentido. Si solo tomás mate a 100° o querés acero completo y durabilidad, la Philips es mejor compra y te ahorrás {{preciodif:MLA47275624:MLA24601443}}." },
+
+      { type: "h3", title: "3. Atma PEAT1351 — presupuesto ajustado" },
+      { type: "product-card", productMlaId: "MLA49747515", label: "Presupuesto ajustado", labelColor: "amber", ranking: 3, description: "Interior acero inoxidable, 1.8L, 1500W. 4.7 estrellas en 3.612 calificaciones, la base de opiniones más grande de la comparativa." },
+      { type: "p", content: "Cuesta {{preciodif:MLA47275624:MLA49747515}} menos que la Peabody digital: simplemente hierve y corta, sin control de temperatura ni mantener caliente. La pregunta clave: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando de más por una pantalla." },
+
+      { type: "h2", title: "Tabla comparativa", id: "tabla-comparativa" },
       {
         type: "table",
-        headers: ["", "Peabody DK2200N", "Philips HD9350"],
+        headers: ["Modelo", "Precio", "Material", "Control temp", "Ideal para"],
         rows: [
-          ["Precio", "$69.433", "$59.602"],
-          ["Material", "Interior acero, exterior plástico", "Acero completo"],
-          ["Capacidad", "1.5L", "1.7L"],
-          ["Control temperatura", "Sí (40-100°)", "No"],
-          ["Mantener caliente", "2 horas", "No"],
-          ["Vida útil", "2-3 años", "4-5 años"],
+          ["[Peabody PE-DK2200N](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "Interior acero, exterior plástico", "Continuo 40-100°", "Té verde, blanco o café de filtro"],
+          ["[Philips HD9350](https://meli.la/2kpg1Zr)", "{{precio:MLA24601443}}", "Acero completo", "No", "Solo mate a 100°, más durabilidad"],
+          ["[Atma PEAT1351](https://meli.la/1TBSj3K)", "{{precio:MLA49747515}}", "Interior acero", "No", "Presupuesto ajustado"],
         ],
       },
-      {
-        type: "p",
-        content:
-          "Si tomás té verde/blanco o café de filtro con temperatura específica: Peabody tiene sentido. Si solo tomás mate a 100° o querés acero completo y durabilidad: Philips es mejor compra y te ahorrás $9.831.",
-      },
-      { type: "h2", title: "Peabody vs Atma: $27.000 por control de temperatura" },
-      {
-        type: "p",
-        content:
-          "Peabody PE-DK2200N cuesta $69.433. [Atma PEAT1351](https://meli.la/1TBSj3K) cuesta $41.999. Estás pagando $27.434 extra, bastante más, por el control digital.",
-      },
-      {
-        type: "p",
-        content:
-          "Atma: 1.8L (vs 1.5L Peabody), interior acero, 1500W. Simplemente hierve y corta. Peabody: 2200W + función mantener caliente que gasta luz constantemente. La pregunta: ¿vas a usar el control de temperatura al menos 5 veces por semana? Si no, estás pagando $27.000 por una pantalla.",
-      },
+
       { type: "h2", title: "Control de temperatura: ¿realmente lo necesitás?" },
-      {
-        type: "list",
-        items: [
-          "40-60°C: té blanco y hierbas delicadas — casi nadie usa esto regularmente",
-          "70-80°C: té verde — útil si tomás té verde seguido",
-          "90-95°C: café de filtro (V60, Chemex, Aeropress) — cafeteros exigentes",
-          "100°C: mate, té negro, café instantáneo — lo que la mayoría usa",
-        ],
-      },
-      {
-        type: "p",
-        content:
-          "Usé la función de temperatura específica 3-4 veces en total durante un mes. El resto del tiempo la dejé en 100° porque tomo mate. Si sos como yo, estás pagando $27.000 extra contra Atma por una función que raramente usás.",
-      },
+      { type: "list", items: [
+        "40-60°C: té blanco y hierbas delicadas — casi nadie usa esto regularmente",
+        "70-80°C: té verde — útil si tomás té verde seguido",
+        "90-95°C: café de filtro (V60, Chemex, Aeropress) — cafeteros exigentes",
+        "100°C: mate, té negro, café instantáneo — lo que la mayoría usa",
+      ] },
+      { type: "p", content: "Usamos la función de temperatura específica 3-4 veces en total durante un mes. El resto del tiempo la dejamos en 100° porque el uso principal es mate. Si te pasa lo mismo, estás pagando extra contra la Atma por una función que raramente usás." },
+
       { type: "h2", title: "Mantener temperatura: útil o gasto de luz" },
-      {
-        type: "p",
-        content:
-          "Peabody mantiene la temperatura por 2 horas. Útil si tomás varias tazas de té en esas 2 horas, si hacés café de filtro para varias personas, o si trabajás desde casa y tomás infusiones cada hora.",
-      },
-      {
-        type: "p",
-        content:
-          "Mantener 1.5L de agua a 80°C por 2 horas gasta aproximadamente $8-$10 de luz a precios actuales. Por mes de uso diario son $240-$300 extra.",
-      },
-      { type: "h2", title: "Peabody PEKV8215 vintage — NO la compres" },
-      {
-        type: "bad",
-        title: "Peabody PEKV8215 ($71.999)",
-        content:
-          "Diseño vintage bonito pero no vale la pena funcional. Cuesta más que [Philips HD9350](https://meli.la/2kpg1Zr) con acero completo ($59.602) y solo tiene un termómetro analógico con una marca a 80°. Si querés acero por $71.999, mejor Philips por $59.602 y ahorrás $12.397 con mejor durabilidad.",
-      },
+      { type: "p", content: "Peabody mantiene la temperatura por 2 horas. Útil si tomás varias tazas de té en esas 2 horas, si hacés café de filtro para varias personas, o si trabajás desde casa y tomás infusiones cada hora." },
+      { type: "p", content: "Mantener 1.5L de agua a 80°C por 2 horas gasta aproximadamente $8-$10 de luz a precios actuales. Por mes de uso diario son $240-$300 extra." },
+
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La que no conviene comprar", content: "No compres la [Peabody PE-KV8215R vintage](https://meli.la/2E5nXaB) ({{precio:MLA15276005}}): diseño lindo pero cuesta {{preciodif:MLA15276005:MLA24601443}} más que la Philips HD9350 con acero completo y solo tiene un termómetro analógico con una marca a 80°. Si querés acero, la Philips hace lo mismo con mejor durabilidad por menos plata." },
+
       { type: "h2", title: "Problemas comunes" },
-      {
-        type: "list",
-        items: [
-          "Pantalla touch pierde sensibilidad después de 1-2 años — problema de hardware",
-          "Sensor de temperatura falla raramente pero cuando falla es grave (requiere cambio)",
-          "Función mantener caliente deja de funcionar después de ~2 años (termostato)",
-          "Base digital puede fallar ocasionalmente (arreglo: $15K-$20K)",
-          "Doble pared acumula condensación con el tiempo (cosmético)",
-        ],
-      },
-      { type: "h2", title: "Cuándo sí comprar Peabody" },
-      {
-        type: "list",
-        items: [
-          "Tomás té verde o blanco diariamente y necesitás temperaturas 60-80°C",
-          "Hacés café de filtro exigente entre 92-96°C (V60, Chemex, Aeropress)",
-          "Tomás varias infusiones en 2 horas (función mantener caliente real útil)",
-          "Tenés presupuesto de $70.000 sin estirar finanzas",
-        ],
-      },
-      { type: "h2", title: "Cuándo NO comprar Peabody" },
-      {
-        type: "list",
-        items: [
-          "Solo tomás mate a 100° — estás pagando $27K extra contra Atma por nada",
-          "Solo hervís agua para café instantáneo — no vas a usar el control",
-          "Querés acero completo — [Philips](https://meli.la/2kpg1Zr) es acero completo por $10K menos",
-          "Querés algo que dure 5+ años — la electrónica falla antes que pavas mecánicas",
-          "Presupuesto ajustado — [Atma](https://meli.la/1TBSj3K) por $42K hace lo mismo (hervir)",
-        ],
-      },
+      { type: "list", items: [
+        "Pantalla touch pierde sensibilidad después de 1-2 años — problema de hardware",
+        "Sensor de temperatura falla raramente pero cuando falla es grave (requiere cambio)",
+        "Función mantener caliente deja de funcionar después de ~2 años (termostato)",
+        "Base digital puede fallar ocasionalmente (arreglo: $15K-$20K)",
+        "Doble pared acumula condensación con el tiempo (cosmético)",
+      ] },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Cuándo sí comprar Peabody", content: "Tomás té verde o blanco diariamente y necesitás temperaturas 60-80°C, hacés café de filtro exigente entre 92-96°C, tomás varias infusiones en 2 horas, o tenés el presupuesto sin estirar finanzas." },
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Comprá la [Peabody PE-DK2200N](https://meli.la/2cyQgD2) si tomás té verde/blanco o café de filtro regularmente. Si solo tomás mate a 100° o querés acero completo, la [Philips HD9350](https://meli.la/2kpg1Zr) es mejor compra. Si el presupuesto manda, la [Atma PEAT1351](https://meli.la/1TBSj3K) hace lo mismo (hervir) por bastante menos." },
     ],
     faq: [
       {
@@ -5941,9 +5889,9 @@ export const guides: Guide[] = [
           "Sí, pero entonces no necesitás el control de temperatura. Mejor [Atma PEAT1351](https://meli.la/1TBSj3K) por {{precio:MLA49747515:k}}.",
       },
       {
-        question: "¿Vale la pena el modelo vintage PEKV8215?",
+        question: "¿Vale la pena el modelo vintage PE-KV8215R?",
         answer:
-          "No. Cuesta $71.999, más que [Philips HD9350](https://meli.la/2kpg1Zr) que sale $59.602 con acero completo y durabilidad superior. El diseño vintage no justifica pagar $12.397 extra.",
+          "No. La [vintage](https://meli.la/2E5nXaB) cuesta {{precio:MLA15276005}}, más que la [Philips HD9350](https://meli.la/2kpg1Zr) que sale {{precio:MLA24601443}} con acero completo y durabilidad superior. El diseño vintage no justifica pagar {{preciodif:MLA15276005:MLA24601443}} extra.",
       },
     ],
     internalLinksTitle: "Productos y guías relacionadas",
