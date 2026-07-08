@@ -5,12 +5,14 @@ name: Detectar tendencias TikTok
 # publica nada solo — es un generador de ideas para revisar a mano.
 #
 # Usa el scraper pre-armado "TikTok - Posts by Search URL Fast API"
-# (dataset_id gd_m7n5ixlw1gc4no56kx) de Bright Data, con country=AR para
-# orientar los resultados a contenido en español/regional en vez de lo mas
-# viral global. Cada busqueda tiene un tope duro de 5 minutos: si no termino
-# en ese tiempo, se saltea esa busqueda esta semana (no se espera indefinido
-# ni se gastan creditos de mas — ver docs/rastreador-precios-plan.md y
-# memoria del proyecto sobre el pool de creditos compartido de Bright Data).
+# (dataset_id gd_m7n5ixlw1gc4no56kx) de Bright Data. La URL de busqueda lleva
+# lang=es para orientar a contenido en espanol. Se probo con country=AR
+# tambien, pero soporte de Bright Data confirmo que ese filtro angosta tanto
+# el pool de busqueda que nunca termina a tiempo (10+ min); se saco. Cada
+# busqueda tiene un tope duro de 8 minutos: si no termino en ese tiempo, se
+# saltea esa busqueda esta semana (no se espera indefinido ni se gastan
+# creditos de mas — ver memoria del proyecto sobre el pool de creditos
+# compartido de Bright Data).
 #
 # Requisito: secret BRIGHTDATA_API_TOKEN (el mismo que usa update-prices-brightdata.yml).
 
@@ -46,7 +48,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Buscar tendencias por nicho (tope 5 min c/u)
+      - name: Buscar tendencias por nicho (tope 8 min c/u)
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
         run: |
@@ -62,7 +64,7 @@ jobs:
               -X POST "https://api.brightdata.com/datasets/v3/trigger?dataset_id=$DATASET_ID" \
               -H "Authorization: Bearer $TOKEN" \
               -H "Content-Type: application/json" \
-              -d "[{\"url\":\"$url\",\"num_of_posts\":25,\"country\":\"AR\"}]")
+              -d "[{\"url\":\"$url\",\"num_of_posts\":15}]")
 
             if [ "$status" != "200" ]; then
               echo "Trigger fallo (HTTP $status) para '$label', se saltea."
@@ -76,9 +78,9 @@ jobs:
               continue
             fi
 
-            # Tope duro de 5 minutos (20 intentos x 15s).
+            # Tope duro de 8 minutos (32 intentos x 15s).
             ready=false
-            for i in $(seq 1 20); do
+            for i in $(seq 1 32); do
               prog_status=$(curl -s "https://api.brightdata.com/datasets/v3/progress/$snapshot_id" \
                 -H "Authorization: Bearer $TOKEN" | node -pe "JSON.parse(require('fs').readFileSync(0,'utf8')).status || ''")
               if [ "$prog_status" = "ready" ]; then
@@ -94,7 +96,7 @@ jobs:
                 -H "Authorization: Bearer $TOKEN" -o "/tmp/dataset-$slug.json"
               node scripts/detect-tiktok-trends.cjs "$label" "/tmp/dataset-$slug.json"
             else
-              echo "'$label' no termino en 5 min, se saltea esta semana."
+              echo "'$label' no termino en 8 min, se saltea esta semana."
               echo "[]" > "/tmp/dataset-$slug.json"
               node scripts/detect-tiktok-trends.cjs "$label" "/tmp/dataset-$slug.json" --timeout
             fi
