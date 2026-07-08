@@ -13,9 +13,9 @@ name: Actualizar precios via Bright Data
 on:
   schedule:
     # Lunes, miércoles y viernes 12:00 UTC = 09:00 hora Argentina (UTC-3),
-    # una hora despues de que corre el collector propio en Bright Data
-    # (lun/mie/vie 09:00 ART) para no pisarle la corrida con un trigger
-    # nuestro al mismo tiempo.
+    # una hora despues de que corria el collector propio en Bright Data
+    # (esa suscripcion se cancelo el 2026-07-08: este workflow es ahora el
+    # unico que dispara corridas).
     - cron: "0 12 * * 1,3,5"
   workflow_dispatch: {} # botón para correrlo a mano desde la pestaña Actions
 
@@ -32,16 +32,35 @@ jobs:
         with:
           ref: master
 
+      # Salteo de una sola vez: el 2026-07-07 ya se disparo una corrida
+      # completa a mano, asi que la del miercoles 2026-07-08 se saltea para
+      # no gastar creditos de mas. Despues de esa fecha esta condicion nunca
+      # vuelve a matchear - se puede borrar este paso (y el "if" de los
+      # pasos de abajo) sin que afecte nada.
+      - name: Chequear si hoy toca saltear (una vez, 2026-07-08)
+        id: gate
+        run: |
+          today=$(date -u +%Y-%m-%d)
+          if [ "$today" = "2026-07-08" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Saltando esta corrida (ya se disparo una hoy a mano, para no gastar creditos de mas)."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Instalar Node
+        if: steps.gate.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
 
       - name: Instalar dependencias
+        if: steps.gate.outputs.skip != 'true'
         run: npm ci
 
       - name: Armar la lista de URLs desde el catalogo
+        if: steps.gate.outputs.skip != 'true'
         run: |
           node -e "
           const fs = require('fs');
@@ -57,6 +76,7 @@ jobs:
           "
 
       - name: Disparar el collector en Bright Data
+        if: steps.gate.outputs.skip != 'true'
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
         run: |
@@ -81,6 +101,7 @@ jobs:
           echo "Disparado: $collection_id"
 
       - name: Esperar el dataset (hasta ~25 min)
+        if: steps.gate.outputs.skip != 'true'
         env:
           TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
         run: |
@@ -97,10 +118,81 @@ jobs:
           echo "Se agoto la espera del dataset."
           exit 1
 
+      # Cada corrida deja algunos productos sin datos (ni error ni precio -
+      # Bright Data simplemente no los devuelve). En vez de esperar al
+      # proximo lun/mie/vie, se dispara un segundo batch chico solo con esos
+      # y se combina con el resultado principal antes de aplicar precios.
+      # Tolerante a fallas: si el reintento no sale bien, sigue con lo que
+      # ya se tiene (no aborta el job).
+      - name: Detectar productos sin datos y reintentar
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          node -e "
+          const fs = require('fs');
+          const all = JSON.parse(fs.readFileSync('/tmp/trigger-body.json', 'utf8')).map((x) => x.url);
+          const got = JSON.parse(fs.readFileSync('/tmp/dataset.json', 'utf8'));
+          const ok = new Set(got.filter((r) => !r.error && r.current_price?.value).map((r) => r.input?.url));
+          const missing = all.filter((u) => !ok.has(u));
+          fs.writeFileSync('/tmp/missing.json', JSON.stringify(missing));
+          console.log(missing.length + ' productos sin datos.');
+          if (missing.length) console.log(missing.slice(0, 20).join('\n'));
+          "
+          missing_count=$(node -pe "JSON.parse(require('fs').readFileSync('/tmp/missing.json','utf8')).length")
+          echo "missing_count=$missing_count" >> "$GITHUB_ENV"
+          if [ "$missing_count" = "0" ]; then
+            echo "Nada para reintentar."
+            exit 0
+          fi
+          node -e "
+          const fs = require('fs');
+          const missing = JSON.parse(fs.readFileSync('/tmp/missing.json', 'utf8'));
+          fs.writeFileSync('/tmp/retry-body.json', JSON.stringify(missing.map((url) => ({ url }))));
+          "
+          status=$(curl -s -o /tmp/retry-trigger.json -w "%{http_code}" \
+            -X POST "https://api.brightdata.com/dca/trigger?collector=c_mrbcvyc91n9lmqv6dt" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            --data-binary @/tmp/retry-body.json)
+          if [ "$status" != "200" ]; then
+            echo "Reintento no se pudo disparar (HTTP $status), sigo sin el."
+            exit 0
+          fi
+          retry_id=$(node -pe "JSON.parse(require('fs').readFileSync('/tmp/retry-trigger.json','utf8')).collection_id || ''")
+          echo "retry_id=$retry_id" >> "$GITHUB_ENV"
+          echo "Reintentando $missing_count productos, collection_id=$retry_id"
+
+      - name: Esperar el reintento (hasta ~6 min)
+        if: steps.gate.outputs.skip != 'true' && env.retry_id != ''
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          for i in $(seq 1 24); do
+            status=$(curl -s -o /tmp/retry-dataset.json -w "%{http_code}" \
+              "https://api.brightdata.com/dca/dataset?id=$retry_id" \
+              -H "Authorization: Bearer $TOKEN")
+            if [ "$status" = "200" ]; then
+              echo "Reintento listo despues de $((i * 15))s aprox."
+              node -e "
+              const fs = require('fs');
+              const main = JSON.parse(fs.readFileSync('/tmp/dataset.json', 'utf8'));
+              const retry = JSON.parse(fs.readFileSync('/tmp/retry-dataset.json', 'utf8'));
+              fs.writeFileSync('/tmp/dataset.json', JSON.stringify(main.concat(retry)));
+              console.log('Combinados: ' + main.length + ' + ' + retry.length + ' = ' + (main.length + retry.length));
+              "
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "El reintento no termino a tiempo, sigo con lo que ya tenia de la corrida principal."
+
       - name: Aplicar precios al catalogo
+        if: steps.gate.outputs.skip != 'true'
         run: node scripts/apply-brightdata-prices.cjs /tmp/dataset.json --apply
 
       - name: Abrir Pull Request si hubo cambios
+        if: steps.gate.outputs.skip != 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
