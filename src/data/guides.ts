@@ -8793,13 +8793,21 @@ export const guides: Guide[] = [
     metaDescription: `Aprende los pasos básicos para usar correctamente tu freidora de aire: precalentamiento, tiempos de cocción, distribución de alimentos y limpieza`,
     h1: `Cómo usar una freidora de aire: guía práctica paso a paso`,
     publishedDate: "2026-05-13",
-    updatedDate: "2026-05-13",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
+    standfirst: `Los pasos básicos para usar bien tu freidora de aire desde el primer día: precalentamiento, distribución de alimentos, tiempos de cocción y limpieza, para evitar los errores más comunes de los principiantes.`,
+    quickPicks: [
+      { productMlaId: "MLA39861162", label: "Si todavía no tenés freidora", labelColor: "green", tagline: "La más recomendada del catálogo, 8L" },
+      { productMlaId: "MLA44142280", label: "Opción económica", labelColor: "blue", tagline: "6.5L a precio de entrada" },
+    ],
     intro: [
       `Compraste tu freidora de aire y no sabés por dónde empezar. Es normal. A pesar de que el aparato es relativamente simple, los primeros intentos pueden traer sorpresas desagradables: comida quemada, cruda, o con ese olor a plástico quemado que genera dudas. Con estos pasos básicos evitarás errores comunes y sacarás el máximo provecho de tu compra.`,
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_661695-MLA99473383512_112025-F.webp", alt: `Cómo usar una freidora de aire guía paso a paso`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo armamos esta guía:** los tiempos y temperaturas están probados sobre los modelos más vendidos en Argentina (1400-2000W). Si tu freidora es de gama de entrada, sumale 1-2 minutos a los tiempos indicados.` },
+
       { type: "h2", title: `Preparación inicial: antes del primer uso` },
       { type: "h3", title: `Lavar la canasta y el interior` },
       { type: "p", content: `Saca todo el material de empaque. La canasta y la bandeja inferior tienen polvo de fábrica y restos de fabricación que necesitan desaparecer. Usa agua tibia con un poco de detergente suave, una esponja blanda y sécalo todo bien. Algunos modelos tienen partes que no son desmontables; en ese caso, pasa un paño húmedo por el interior con cuidado.` },
@@ -8824,6 +8832,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Distribución de alimentos: la clave está en el espacio` },
       { type: "p", content: `La circulación de aire es lo que hace que una freidora funcione. Si apilás la comida, algunos trozos quedarán cocidos y otros crudos.` },
       { type: "p", content: `La regla de oro: usa una sola capa de comida. Cuando digo una sola capa, hablo en serio. Si el trozo de pollo toca a otro trozo de pollo, estás apilando. Si los bastones de papa están casi pegados, estás apilando.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "El error número uno de los principiantes", content: `Apilar comida es la causa más común de resultados parejos-por-fuera-crudos-por-dentro. Si tenés mucha cantidad, mejor hacer dos tandas cortas que una sola apretada.` },
       { type: "p", content: `En freidoras grandes (6+ litros) podés cocinar un poco más denso en la parte frontal y un poco más separado en la parte trasera. Así aprovechás mejor el espacio sin comprometer la cocción.` },
       { type: "p", content: `Con alimentos delgados (chips, aros de cebolla), podés ser menos estricto. Con piezas grandes o medianas (muslos, pechuga, berenjenas), respetá el espaciado.` },
       { type: "h2", title: `Cantidades de aceite: menos es más` },
