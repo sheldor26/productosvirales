@@ -242,6 +242,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **oster-freidoras-de-aire-review (2026-07-08):** decimocuarta guía del sprint. Cero monetización previa (sin product-card ni link de afiliado, aunque el contenido cualitativo ya era sólido). Agregado standfirst + quickPicks (Oster Dual DiamondForce, Oster Digital con Ventana, ambos en stock) + trust-block + product-card + pull-quote real (verificada en vivo junto con el precio) + tabla "Ideal para" + veredicto + internalLinks (antes amontonados dentro de una respuesta de FAQ). `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**powerxl-freidora-review (2026-07-08):** decimoquinta guía del sprint. Precios muy desactualizados (PowerXL "$12-15k" vs real $100.000; Kanji Home "el doble" vs real $249.999; Atma "$18-20k" vs real $137.181) y el contenido terminaba cortado en "Para comprarla:" sin CTA ni FAQ de cierre coherente. Verificado en vivo: potencia 1200W confirmada correcta en la ficha ML, pull-quote real sacada de una reseña con 148 votos útiles. Agregado standfirst + quickPicks + trust-block + product-card + tabla "Ideal para" + veredicto. `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
