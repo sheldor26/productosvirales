@@ -212,6 +212,8 @@ Las 7 guías nuevas (`philips`, `atma`, `precio`, `mercadolibre`, `peabody`, `os
 
 **atma-vs-peabody-freidora-de-aire (2026-07-08):** segunda guía del sprint de freidoras. Tenía el bug de monetización más grave del sitio: 0 product-card/quickPick/link de afiliado en toda la guía, solo texto plano con precios muy desactualizados ($45.000-$70.000 escrito vs $137K-$290K real). Migrada al template completo (standfirst, quickPicks, resumen rápido, trust-block, 6 product-card reales en 3 pares Atma/Peabody, pull-quote, callout, tabla con "Ideal para"). `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
 
+**freidoras-de-aire-con-grill-argentina (2026-07-08):** tercera guía del sprint de freidoras. **Hallazgo serio:** tenía una sección "Qué recomiendan los que compraron" con 3 citas de "clientes" completamente inventadas (sin fuente, con inglés mezclado tipo "maybe once a month" — claramente texto generado, no una reseña real). Reemplazadas por 2 pull-quote reales buscados a mano en MercadoLibre. Dado este hallazgo, revisar el resto de las guías de freidoras (mismo lote original) por el mismo patrón de citas inventadas al migrarlas. Migrada al template completo (standfirst, quickPicks, resumen rápido, trust-block, 2 product-card, callout, tabla con "Ideal para"). `updatedDate` → 2026-07-08. Pasa los 4 chequeos de `guides:check`. Próxima revisión: ~2026-08-01.
+
 > Las fichas de producto (`/producto/`) se trackean aparte en [`seo-tracking-productos.md`](seo-tracking-productos.md).
 
 ---
