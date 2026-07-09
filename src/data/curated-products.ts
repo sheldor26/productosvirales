@@ -16972,7 +16972,6 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_961870-MLA108019348809_032026-F.webp',
     images: [
       'https://http2.mlstatic.com/D_NQ_NP_2X_961870-MLA108019348809_032026-F.webp',
-      'https://http2.mlstatic.com/D_NQ_NP_671033-MLA108017269179_032026-O.jpg',
       'https://http2.mlstatic.com/D_NQ_NP_2X_657858-MLA108019498273_032026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_806841-MLA108019438557_032026-F.webp',
       'https://http2.mlstatic.com/D_NQ_NP_2X_625737-MLA107309559036_032026-F.webp',
