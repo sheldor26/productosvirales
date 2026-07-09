@@ -24,6 +24,7 @@ const path = require("path");
 
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const SUSPICIOUS_DOC_PATH = path.resolve("docs/precios-sospechosos.md");
+const HISTORY_PATH = path.resolve("src/data/price-history.json");
 const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
 
@@ -64,8 +65,9 @@ function loadCatalog(src) {
 
 function compare(catalog, report) {
   const byUrl = new Map(catalog.map((p) => [p.permalink, p]));
-  let matched = 0, unmatched = 0, errored = 0, unchanged = 0;
+  let matched = 0, unmatched = 0, errored = 0;
   const changes = [];
+  const unchangedList = [];
 
   for (const r of report) {
     const url = r.input?.url;
@@ -75,7 +77,10 @@ function compare(catalog, report) {
     const scraped = r.current_price?.value;
     if (typeof scraped !== "number") { errored++; continue; }
     matched++;
-    if (scraped === product.price) { unchanged++; continue; }
+    if (scraped === product.price) {
+      unchangedList.push({ id: product.id, price: product.price });
+      continue;
+    }
     changes.push({
       id: product.id,
       title: product.title,
@@ -84,7 +89,34 @@ function compare(catalog, report) {
       permalink: product.permalink,
     });
   }
-  return { matched, unmatched, errored, unchanged, changes };
+  return { matched, unmatched, errored, unchanged: unchangedList.length, unchangedList, changes };
+}
+
+// Un punto por dia por producto, para poder armar series de tiempo (indice de
+// precios) mas adelante. Solo se appendean precios en los que confiamos: los
+// que no cambiaron y los cambios razonables, nunca los sospechosos (podrian
+// ser un error de scraping, no un precio real).
+function appendPriceHistory(points, today) {
+  if (points.length === 0) return 0;
+  let history = {};
+  try {
+    history = JSON.parse(fs.readFileSync(HISTORY_PATH, "utf8"));
+  } catch { /* primera vez, arranca vacio */ }
+
+  let added = 0;
+  for (const { id, price } of points) {
+    if (!Number.isFinite(price)) continue;
+    const series = history[id] || (history[id] = []);
+    const last = series[series.length - 1];
+    if (last && last.d === today) {
+      last.p = price; // ya se corrio hoy (ej. reintento): pisa el punto, no duplica
+    } else {
+      series.push({ d: today, p: price });
+      added++;
+    }
+  }
+  fs.writeFileSync(HISTORY_PATH, JSON.stringify(history, null, 2) + "\n");
+  return added;
 }
 
 function applyChanges(src, changes, today) {
@@ -130,6 +162,45 @@ function applyChanges(src, changes, today) {
     if (touched) metaUpdated++;
   }
   return { next, applied, metaUpdated, missed };
+}
+
+// Los productos sin cambio de precio tambien fueron re-verificados hoy, pero
+// como no pasan por applyChanges (no hay precio nuevo que escribir), su
+// priceLastChecked quedaba viejo para siempre aunque Bright Data los chequee
+// 3 veces por semana. Eso rompe priceValidUntil del JSON-LD (30 dias desde
+// priceLastChecked): una oferta que nunca cambia de precio terminaria
+// marcada como "vencida" pese a estar activamente confirmada. Solo se toca
+// priceLastChecked/priceStatus, nunca price ni priceUpdated (ese campo
+// significa "cuando cambio el valor", no "cuando se confirmo").
+function refreshCheckedMetadata(src, ids, today) {
+  let next = src;
+  let touched = 0;
+  for (const id of ids) {
+    let idPos = next.indexOf(`id: "${id}",`);
+    if (idPos === -1) idPos = next.indexOf(`id: '${id}',`);
+    if (idPos === -1) continue;
+    let blockEndCursor = next.indexOf("\n  {", idPos);
+    if (blockEndCursor === -1) blockEndCursor = next.length;
+    let touchedThis = false;
+    for (const [field, value] of [
+      ["priceLastChecked", today],
+      ["priceStatus", "fresh"],
+    ]) {
+      const re = new RegExp(`(\\n\\s*${field}:\\s*)['"\`][^'"\`]*['"\`]`);
+      const slice = next.slice(idPos, blockEndCursor);
+      const fm = re.exec(slice);
+      if (fm) {
+        const fieldAbsStart = idPos + fm.index;
+        const oldLen = fm[0].length;
+        const newText = `${fm[1]}"${value}"`;
+        next = next.slice(0, fieldAbsStart) + newText + next.slice(fieldAbsStart + oldLen);
+        blockEndCursor += newText.length - oldLen;
+        touchedThis = true;
+      }
+    }
+    if (touchedThis) touched++;
+  }
+  return { next, touched };
 }
 
 const SUSPICIOUS_DOC_INTRO = `# Precios sospechosos
@@ -179,7 +250,7 @@ function main() {
   const report = JSON.parse(fs.readFileSync(datasetPath, "utf8"));
   const src = fs.readFileSync(CATALOG_PATH, "utf8");
   const catalog = loadCatalog(src);
-  const { matched, unmatched, errored, unchanged, changes } = compare(catalog, report);
+  const { matched, unmatched, errored, unchanged, unchangedList, changes } = compare(catalog, report);
 
   const suspicious = changes.filter((c) => {
     const ratio = c.scraped / c.stored;
@@ -209,12 +280,29 @@ function main() {
     console.log(`\nAgregados ${suspicious.length} caso(s) sospechoso(s) a docs/precios-sospechosos.md`);
   }
 
+  const historyPoints = unchangedList
+    .concat(reasonable.map((c) => ({ id: c.id, price: c.scraped })));
+  const historyAdded = appendPriceHistory(historyPoints, today);
+  console.log(`\nPuntos nuevos en price-history.json: ${historyAdded} (de ${historyPoints.length} precios confiables)`);
+
+  const { next: afterRefresh, touched: refreshed } = refreshCheckedMetadata(
+    src,
+    unchangedList.map((u) => u.id),
+    today
+  );
+  console.log(`priceLastChecked refrescado (sin cambio de precio): ${refreshed}`);
+
   if (reasonable.length === 0) {
-    console.log("\nNada para aplicar en el catalogo.");
+    if (refreshed > 0) {
+      fs.writeFileSync(CATALOG_PATH, afterRefresh);
+      console.log("Escrito en curated-products.ts (solo priceLastChecked)");
+    } else {
+      console.log("\nNada para aplicar en el catalogo.");
+    }
     return;
   }
 
-  const { next, applied, metaUpdated, missed } = applyChanges(src, reasonable, today);
+  const { next, applied, metaUpdated, missed } = applyChanges(afterRefresh, reasonable, today);
   console.log(`\nReemplazados (precio): ${applied}`);
   console.log(`Con metadata actualizada: ${metaUpdated}`);
   if (missed.length) console.log(`Sin match al escribir (revisar a mano): ${missed.join(", ")}`);

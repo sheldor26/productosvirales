@@ -197,7 +197,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if [ -z "$(git status --porcelain -- src/data/curated-products.ts docs/precios-sospechosos.md)" ]; then
+          if [ -z "$(git status --porcelain -- src/data/curated-products.ts docs/precios-sospechosos.md src/data/price-history.json)" ]; then
             echo "Sin cambios de precio ni casos sospechosos nuevos. No se abre PR."
             exit 0
           fi
@@ -208,7 +208,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH"
-          git add src/data/curated-products.ts docs/precios-sospechosos.md
+          git add src/data/curated-products.ts docs/precios-sospechosos.md src/data/price-history.json
           git commit -m "chore(precios): actualizacion via Bright Data ${DATE}"
           git push origin "$BRANCH"
 
@@ -222,6 +222,12 @@ jobs:
           (precio se duplicó o cayó a menos de la mitad) quedaron afuera del catálogo a
           propósito y se listaron en \`docs/precios-sospechosos.md\` con el link a
           MercadoLibre — chequealos ahí y avisá si hay que aplicarlos a mano.
+
+          \`src/data/price-history.json\` suma un punto por producto chequeado hoy
+          (precios sospechosos no se registran ahí). Si en este PR no cambió ningún
+          precio real, es probable que el único diff sea ese archivo — es esperable,
+          es la serie de tiempo para el futuro índice de precios.
+
           Si el resto tiene sentido, hacé merge y Vercel publica solo.
 
           Generado por el workflow .github/workflows/update-prices-brightdata.yml"
