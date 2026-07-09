@@ -3498,15 +3498,24 @@ Comprá el Level Up Pegasus si ya decidiste que querés un teclado mecánico de 
     ],
   },
   {
-    // Rechazado por el Programa de Afiliados de ML el 05-jul-2026 ("Esta URL no está permitida en el Programa").
-    // Reemplazado por MLA22297233 (Level Up Pegasus) en la guía kit-gamer. Ficha conservada por si el rechazo
-    // era puntual y se puede reintentar el link de afiliado más adelante.
+    // ADVERTENCIA: Rechazado por el Programa de Afiliados de ML el 05-jul-2026 ("Esta URL no está permitida
+    // en el Programa"). affiliateUrl sigue siendo el placeholder "PEGAR_MELI_LA": esta ficha NO tiene forma de
+    // monetizar hasta que Juan consiga un link real o el programa la re-apruebe. NO tocar affiliateUrl.
+    // Reemplazado por MLA22297233 (Level Up Pegasus) en la guía kit-gamer. Ficha conservada y enriquecida por si
+    // el rechazo era puntual y se puede reintentar el link de afiliado más adelante. No debería linkearse
+    // activamente desde ninguna guía mientras el afiliado siga roto.
     id: "MLA47333674",
     title: "Kit Gamer Redragon S143 Teclado Y Mouse K617RGB SP + M724 Negro",
     canonicalName: "Kit Gamer Redragon S143 (K617RGB + M724)",
     price: 105299,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_803756-MLA111518174498-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_803756-MLA111518174498-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_749517-MLA111518955688_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_823134-MLA112578828883_062026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_877743-MLA112579507203_062026-O.webp",
+    ],
     category: "Gaming",
     categorySlug: "gaming",
     permalink: "https://www.mercadolibre.com.ar/p/MLA47333674",
@@ -3514,12 +3523,96 @@ Comprá el Level Up Pegasus si ya decidiste que querés un teclado mecánico de 
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 818,
+    reviewCount: 1071,
+    pastelColor: "var(--pastel-verde)",
     visibility: "deprioritized",
+    specs: [
+      { label: "Marca", value: "Redragon" },
+      { label: "Modelo del kit", value: "S143 (teclado K617RGB SP + mouse M724)" },
+      { label: "Tipo de teclado", value: "Mecánico, hot-swap (switches intercambiables)" },
+      { label: "Switch del teclado", value: "Redragon Red, lineal sin click, 45 gr (la ficha de ML lo lista como \"Cherry MX Red\": no lo es, es un switch propio Redragon)" },
+      { label: "Formato del teclado", value: "60% compacto, 61 teclas, full N-key rollover" },
+      { label: "Iluminación del teclado", value: "RGB por tecla, 16,8 millones de colores, 20 efectos" },
+      { label: "Idioma / layout", value: "Español latinoamericano, con ñ" },
+      { label: "Conexión del teclado", value: "USB tipo C desmontable, cable de 1,8 m" },
+      { label: "Repuestos incluidos", value: "Switches extra y herramienta extractora" },
+      { label: "Peso del teclado", value: "432 g" },
+      { label: "Sensor del mouse", value: "Óptico Pixart PAW3327" },
+      { label: "DPI del mouse", value: "De 100 a 12.400, ajustable" },
+      { label: "Botones del mouse", value: "5 programables" },
+      { label: "Switch del mouse (clics)", value: "Huano, 20 millones de clics" },
+      { label: "Conexión del mouse", value: "USB con cable" },
+      { label: "Iluminación del mouse", value: "No tiene (solo el teclado tiene RGB)" },
+      { label: "Garantía", value: "12 meses" },
+    ],
+    relatedProducts: ["MLA22297233", "MLA63650610", "MLA19079378", "MLA16369071"],
     priceUpdated: "2026-07-05",
     priceLastChecked: "2026-07-05",
     priceStatus: "fresh",
-    description: "Kit gamer Redragon S143: teclado mecánico Cherry MX Red + mouse óptico de 12.400 dpi. Rechazado por el Programa de Afiliados de MercadoLibre (05-jul-2026); reemplazado por el Level Up Pegasus en la guía kit-gamer.",
+    reviewsSampledAt: "2026-07-09",
+    description: "Kit gamer Redragon S143: teclado mecánico hot-swap 60% (switches Redragon Red, no Cherry MX pese a lo que dice la ficha de ML) + mouse óptico Pixart de hasta 12.400 dpi. ADVERTENCIA: rechazado por el Programa de Afiliados de MercadoLibre (05-jul-2026) y reemplazado por el Level Up Pegasus en la guía kit-gamer; esta ficha no tiene link de compra activo.",
+    seoTitle: "Kit Gamer Redragon S143: mecánico 60%, ¿vale la pena?",
+    metaDescription: "Kit gamer Redragon S143: teclado mecánico hot-swap 60% + mouse de hasta 12.400 dpi. Precio, specs reales, pros y contras honestos.",
+    ogTitle: "Redragon S143: el kit mecánico 60% con switches intercambiables",
+    ogDescription: "Teclado mecánico hot-swap de 61 teclas en español con ñ, más un mouse Pixart de hasta 12.400 dpi. Specs reales, la contra honesta y cómo se compara con otros kits gamer.",
+    h1: "Kit Gamer Redragon S143: teclado mecánico 60% y mouse de 12.400 dpi",
+    verdict: "El Redragon S143 sirve si ya decidiste que querés un teclado mecánico compacto de verdad, con switches hot-swap que podés cambiar vos mismo, y un mouse con muchísimo más dpi que otros kits económicos. No sirve si necesitás numérico o flechas dedicadas sin combinaciones de teclas, ni si buscás comprarlo ya: hoy esta ficha no tiene link de compra activo en el sitio.",
+    pros: [
+      "Teclado mecánico de verdad, no membrana ni \"mecánico simulado\": switches Redragon Red lineales, hot-swap (se cambian sin soldar)",
+      "Trae switches de repuesto y herramienta extractora de fábrica, útil según confirman varias reseñas",
+      "Formato 60% compacto: libera espacio de escritorio para mover el mouse con comodidad",
+      "RGB por tecla configurable, 16,8 millones de colores y 20 efectos",
+      "En español latinoamericano con ñ",
+      "Mouse con sensor Pixart PAW3327 de hasta 12.400 dpi, muy por encima de los 2.400-4.800 dpi de otros kits económicos",
+      "4.8 de rating en más de 1.000 calificaciones",
+    ],
+    cons: [
+      "La ficha técnica de MercadoLibre lista el switch como \"Cherry MX Red\": no lo es, es un switch propio de Redragon (no cambia la experiencia de uso, pero conviene saberlo)",
+      "El formato 60% no tiene fila de función, flechas ni numérico dedicados: todo vive en combinaciones Fn + tecla, con curva de adaptación real según las reseñas",
+      "Al menos una reseña reporta fallos en un par de teclas en la primera semana de uso (se resolvió con los switches de repuesto incluidos)",
+      "El mouse es bastante liviano: a varios les encanta, a otros no, es cuestión de gustos, y no trae sistema de pesas",
+      "Los dos periféricos van con cable, no hay versión inalámbrica",
+      "ADVERTENCIA: esta ficha no tiene hoy un link de compra activo en el sitio (afiliado rechazado por ML)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Redragon S143 es un kit gamer de teclado y mouse pensado para quien quiere dar el salto a un teclado mecánico compacto sin hacer dos compras separadas. El teclado K617RGB SP es un 60% de 61 teclas con switches intercambiables (hot-swap), y el mouse M724 suma un sensor óptico Pixart PAW3327 de hasta 12.400 dpi. Tiene 4.8 de rating en más de 1.000 calificaciones en MercadoLibre. Es para alguien que ya sabe que quiere mecánico, le copa el formato compacto y no le asusta perder las teclas de función y el numérico dedicado.
+
+## Lo bueno
+
+El salto a mecánico acá es real: switches Redragon Red lineales (sin click audible, 45 gr de fuerza) que además son hot-swap, es decir, se sacan y se cambian sin soldar nada, algo que muy pocos kits de esta franja de precio ofrecen. El kit trae de fábrica switches de repuesto y una herramienta extractora, y varias reseñas cuentan haberlos usado sin drama cuando alguna tecla empezó a fallar. El formato 60% libera espacio de escritorio para mover el mouse con comodidad, algo que valoran los gamers de sensibilidad baja. El RGB es por tecla, con 16,8 millones de colores y 20 efectos configurables por software. Viene en español latinoamericano con ñ, y el mouse llega a 12.400 dpi con sensor Pixart PAW3327, muy por encima de los 2.400 a 4.800 dpi que traen otros kits económicos de esta categoría, como el [Gadnic K4 Move](/producto/MLA19079378) o el [Level Up Pegasus](/producto/MLA22297233).
+
+## Ojo con la ficha de ML
+
+Un dato para aclarar antes de comprar: la ficha técnica de MercadoLibre lista el switch del teclado como "Cherry MX Red", pero no lo es. Es un switch propio de Redragon (Red lineal en esta variante), no un Cherry MX original. No cambia la experiencia de uso real (el Redragon Red también es lineal y liviano), pero si comprás pensando que llevás un switch Cherry, no es el caso.
+
+## La contra real
+
+El formato 60% no tiene fila de función, flechas dedicadas ni numérico: todo eso vive en combinaciones de teclas (Fn + algo), y las reseñas coinciden en que hay una curva de adaptación real, sobre todo las primeras semanas. Al menos una reseña reporta fallos en un par de teclas en la primera semana de uso, aunque se resolvió con los switches de repuesto incluidos. El mouse es bastante liviano, algo que a varios usuarios les encanta y a otros no: si preferís un mouse con más peso en la mano, este no es, y no trae sistema de pesas ajustables. Los dos periféricos van con cable, no hay versión inalámbrica.
+
+## Cómo se compara
+
+Frente al [Level Up Pegasus](/producto/MLA22297233), que hoy ocupa el lugar de kit mecánico en nuestra guía de [kit gamer](/guias/gaming/kit-gamer), el Redragon S143 suma formato compacto 60% y switches hot-swap intercambiables, algo que el Pegasus no ofrece, además de mucho más dpi en el mouse (12.400 contra 4.800). El Pegasus en cambio viene con reposamuñecas incluido y un tamaño más tradicional, más cómodo si no te copa el formato compacto. Frente a los kits de membrana como el [Gadnic K4 Move](/producto/MLA19079378) o el [Senon 4 en 1](/producto/MLA63650610), la diferencia es de categoría completa: acá hay switches mecánicos de verdad, y esos dos son membrana. Si buscás otro teclado mecánico Redragon con formato más tradicional (TKL, con numérico), el [Kumara K552](/producto/MLA16369071) es la alternativa dentro de la misma marca.
+
+## Para quién sí y para quién no
+
+Es para vos si: ya decidiste que querés un teclado mecánico de verdad, te copa el formato compacto 60% y valorás poder cambiar los switches vos mismo si alguno falla. No es para vos si: necesitás numérico dedicado o flechas físicas sin combinaciones, preferís un mouse con más peso en la mano, o buscás comprarlo ya: hoy esta ficha no tiene un link de compra activo en el sitio.`,
+    faq: [
+      { question: "¿El teclado es mecánico de verdad o \"mecánico simulado\"?", answer: "Es mecánico de verdad, con switches Redragon Red hot-swap (se pueden sacar y cambiar sin soldar). La ficha de ML lo lista como \"Cherry MX Red\", pero no lo es: es un switch propio de Redragon, aunque con un comportamiento (lineal, liviano) similar." },
+      { question: "¿Trae ñ y acentos?", answer: "Sí, es layout español latinoamericano completo, con ñ y acentos." },
+      { question: "¿El mouse es liviano?", answer: "Sí, según las reseñas es bastante liviano. A varios usuarios les encanta así; si preferís un mouse con más peso en la mano, no trae sistema de pesas ajustables para sumar gramos." },
+      { question: "¿Qué pasa si falla un switch del teclado?", answer: "El kit trae switches de repuesto y una herramienta extractora de fábrica. Al menos una reseña reporta fallos en un par de teclas en la primera semana y los solucionó con esos repuestos, aunque advierte que cuesta un poco sacar los switches viejos." },
+      { question: "¿Cuántos dpi tiene el mouse?", answer: "Hasta 12.400 dpi con sensor óptico Pixart PAW3327, ajustable desde 100. Es bastante más que los 2.400-4.800 dpi de otros kits económicos de esta categoría." },
+      { question: "¿Es inalámbrico?", answer: "No, los dos periféricos van con cable: el teclado con USB tipo C desmontable y el mouse con USB fijo." },
+      { question: "¿El formato 60% tiene flechas y teclas de función?", answer: "No de forma dedicada: viven en combinaciones Fn + tecla. Las reseñas coinciden en que hay una curva de adaptación real, sobre todo las primeras semanas de uso." },
+      { question: "¿Dónde se compra?", answer: "Al momento de esta ficha (09-jul-2026), esta publicación no tiene link de compra activo en el sitio: fue rechazada por el Programa de Afiliados de MercadoLibre y reemplazada en el ranking de kit gamer por el Level Up Pegasus." },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "julio 2025", useful: 2, text: "El teclado muy lindo, cómodo. El mouse igual, aparte de ser muy ligero, es un lindo combo (lo único que aún no me acostumbro es a lo chiquito que es el teclado, jaja) pero es cuestión de usarlo. Único detalle en contra: en menos de una semana el teclado me generó fallos en un par de teclas y tuve que usar 2 de los 4 switches de repuesto que incluye. Después de eso, nada más. No es ruidoso y tiene buen tiempo de respuesta, lo recomiendo." },
+      { rating: 5, country: "México", date: "agosto 2025", useful: 1, text: "Muy bueno, como esperaba. Lo único es que el mouse está muy ligero, a mí me gusta así pero es cuestión de gustos, si querés un mouse pesado no te lo recomiendo. El teclado muy bueno, los switches te tocan muy rico." },
+      { rating: 5, country: "Argentina", date: "julio 2025", useful: 3, text: "Muy bueno, todavía no estoy acostumbrado al formato 60% ni a sus funciones agrupadas en las teclas. El switch de la tecla R no me funcionaba al 100%, pero lo cambié gracias a los repuestos que trae con su herramienta, un poco duro para sacarlas o yo no me animaba a hacerle mucha fuerza por precaución. El mouse muy liviano. Combo 9/10 por su calidad precio." },
+      { rating: 5, country: "Chile", date: "julio 2025", useful: 1, text: "El teclado y su RGB están buenísimos." },
+    ],
   },
 
   // ─── Auriculares gamer — importados via API oficial de ML (jun 2026). Silo gaming (STAGED) ───
@@ -16962,6 +17055,7 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
   {
     id: 'MLA46931846',
     title: 'Robot Limpia Vidrios Gadnic Con 3 Modos de Limpieza Super Succión Pulverización',
+    canonicalName: "Robot Limpia Vidrios Gadnic VID1",
     brand: "Gadnic",
     price: 291299,
     priceUpdated: "2026-07-08",
@@ -16983,47 +17077,95 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
     condition: 'new',
     freeShipping: false,
     rating: 4.5,
-    reviewCount: 175,
+    reviewCount: 162,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 100,
     pastelColor: 'var(--pastel-amber)',
     seoTitle: "Robot Limpia Vidrios Gadnic 3 Modos: review con succión",
     metaDescription: "Análisis del Robot Limpia Vidrios Gadnic: 3 modos de limpieza automática, succión potente y pulverización. Comparación con el Atma y precio en MercadoLibre.",
-    ogTitle: "Robot Limpia Vidrios Gadnic — el Gadnic que limpia ventanas solo",
+    ogTitle: "Robot Limpia Vidrios Gadnic: el que limpia ventanas solo",
     ogDescription: "3 modos automáticos, succión potente, pulverización integrada. Para hogares, oficinas y locales comerciales con muchas superficies de vidrio.",
     h1: "Robot Limpia Vidrios Gadnic: el limpiavidrios automático del catálogo Gadnic",
     specs: [
       { label: "Marca", value: "Gadnic" },
-      { label: "Tipo", value: "Robot limpiavidrios (succión + sensores de borde)" },
-      { label: "Modos", value: "3 patrones automáticos" },
-      { label: "Pulverización", value: "Sí — integrada" },
-      { label: "Control", value: "Control remoto" },
-      { label: "Voltaje", value: "220V (mercado argentino)" },
+      { label: "Modelo", value: "VID1" },
+      { label: "Tipo", value: "Robot limpiavidrios por succión, con IA que detecta bordes" },
+      { label: "Modos de limpieza", value: "3 patrones automáticos + modo manual por control remoto" },
+      { label: "Fuerza de succión", value: "2800 Pa" },
+      { label: "Alimentación", value: "Cable con adaptador, 100-240V 50/60Hz, 80W (no funciona a batería sola)" },
+      { label: "Batería de respaldo (UPS)", value: "Hasta 20 minutos ante corte de luz" },
+      { label: "Cuerda de seguridad", value: "Incluida, de uso obligatorio según el fabricante" },
+      { label: "Apto para vidrios con marco", value: "Sí" },
+      { label: "Apto para vidrios sin marco", value: "No, según el manual del fabricante" },
+      { label: "Control", value: "Remoto por infrarrojos, con modo manual" },
+      { label: "Pulverización de agua", value: "Manual y automática (según manual del fabricante)" },
+      { label: "Dimensiones", value: "29,5 x 14,5 x 10,8 cm" },
+      { label: "Peso", value: "1.095 g" },
+      { label: "Ruido", value: "65 dB (según fabricante)" },
+      { label: "Color", value: "Blanco" },
+      { label: "Incluye", value: "Robot, control remoto, cable y adaptador, botella pulverizadora, 2 anillos de limpieza, set de paños y cuerda de seguridad" },
     ],
     pros: [
-      "3 modos de limpieza automática para distintos tipos de superficie",
-      "Pulverización integrada — no requiere humedecer el vidrio manualmente",
-      "Rating 4.6 — más alto que el Atma equivalente",
-      "Apto para uso doméstico, oficinas y locales",
-      "Descuento del 49% sobre precio de lista",
+      "3 modos de limpieza automática (arriba, izquierda y derecha) más modo manual por control remoto",
+      "Succión de 2800 Pa: fabricante y reseñas coinciden en que sostiene el robot con firmeza incluso en vidrios altos",
+      "Batería de respaldo (UPS) de hasta 20 minutos si se corta la luz, para bajarlo con la cuerda de seguridad sin apuro",
+      "Rating 4.5 con 162 reseñas, la base de opiniones más grande de este bloque de limpiavidrios robot (el Atma tiene 3.8 con 49)",
+      "Descuento real del 29% sobre el precio de lista ($411.349 a $291.299)",
     ],
     cons: [
-      "Solo 100 unidades vendidas — comunidad de reviews chica",
-      "Sin envío gratis",
-      "Sin app — solo control remoto",
-      "Categoría limpiavidrios robot tiene más fallas que aspiradoras robot — verificar garantía",
+      "El manual del fabricante dice explícitamente que no es apto para vidrios sin marco, a diferencia del Atma que sí promete esa compatibilidad",
+      "Funciona enchufado todo el tiempo (80W): la batería interna es solo de respaldo ante cortes de luz, no reemplaza el cable",
+      "65 dB de ruido según el fabricante, y más de una reseña real confirma que se escucha bastante",
+      "Viene con un solo repuesto de paño de limpieza, y una reseña real dice que el service oficial no respondió bien ante esa consulta",
+      "Sin envío gratis y sin control por app, solo control remoto por infrarrojos",
     ],
-    verdict: "Vs el Atma equivalente, el Gadnic limpiavidrios tiene mejor rating (4.6 vs 3.9) por menos precio. Si pesa la marca con service oficial argentino, Atma; si pesa el rating de comunidad, Gadnic. Para casa con muchas ventanas grandes, este Gadnic es la opción de mejor relación rating-precio.",
-    bestOccasion: ["Casas con muchas ventanas", "Oficinas y locales", "Quien busca el mejor rating en limpiavidrios"],
-    notRecommendedFor: ["Casas con pocas ventanas", "Quien necesita app de control"],
-    relatedProducts: ["MLA51170872"],
+    verdict: "A $291.299 (29% menos que el precio de lista), el Gadnic tiene mejor rating que el Atma (4.5 con 162 reseñas contra 3.8 con 49) y una batería de respaldo de 20 minutos si se corta la luz. Ojo con la letra chica: el manual del fabricante dice que no es apto para vidrios sin marco, así que si tu prioridad es limpiar ventanas de balcón sin marco, conviene mirar antes el Atma, que sí promete esa compatibilidad.",
+    bestOccasion: ["Casas y oficinas con varias ventanas o vidrios grandes con marco", "Quien busca el mejor rating y la base de opiniones más grande del bloque", "Quien quiere batería de respaldo ante cortes de luz"],
+    notRecommendedFor: ["Vidrios sin marco o de balcón inaccesible (el fabricante no lo recomienda)", "Quien necesita control por app en vez de control remoto", "Quien no quiere tenerlo enchufado todo el rato de limpieza"],
+    relatedProducts: ["MLA51170872", "MLA214572440"],
     comparedTo: [
-      { name: "Robot Limpia Ventanas Atma", similarity: "Misma categoría; Gadnic con mejor rating (4.6 vs 3.9), Atma con service oficial argentino" },
+      { name: "Robot Limpia Ventanas Atma", similarity: "Misma categoría; Gadnic con mejor rating (4.5 vs 3.8) y más reseñas (162 vs 49), Atma con compatibilidad declarada para vidrios con y sin marco" },
     ],
-    description: 'Limpieza impecable sin esfuerzo El Robot Limpia Vidrios Gadnic ofrece 3 modos de limpieza automática para mantener ventanas y superficies de vidrio impecables sin trabajo manual, ideal para hogares, oficinas y locales comerciales.  Control total y práctico Podés manejarlo fácilmente con su control r',
+    description: "Robot limpiavidrios de succión con 3 modos de limpieza automática y modo manual por control remoto. Succión de 2800 Pa, batería de respaldo (UPS) de 20 minutos ante cortes de luz y cuerda de seguridad incluida. Según el manual del fabricante, solo es apto para vidrios con marco.",
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "diciembre 2025", text: "Me gustó mucho. Hay que tirarle unos chorritos de limpiador al vidrio y después el robot limpia y deja prolijo. Al retirarlo conviene pasar un trapito seco porque deja marcado el círculo de la ventosa. Lo usé también en los vidrios del balcón, que no tienen marco, guiándolo con el control remoto para que no se cayera al vacío, siempre con la cuerda de seguridad puesta." },
+      { rating: 5, country: "Argentina", date: "julio 2025", text: "Me encanta. Hace mucho ruido, pero la verdad es que deja los vidrios impecables. No le tenía fe y es más que recomendable." },
+      { rating: 5, country: "Argentina", date: "julio 2025", text: "Lo compré con dudas pero me encantó. Lo único malo es que viene con un solo paño de repuesto, y cuando quise comunicarme con el service oficial no me dieron mucha bola. Aun así, el robot lo recomiendo, es genial." },
+    ],
+    faq: [
+      { question: "¿Sirve para vidrios sin marco, como los de un balcón?", answer: "El fabricante dice explícitamente en el manual que no es apto para vidrios sin marco, solo para vidrios y ventanas con marco. Igual, una reseña real cuenta que lo usaron en un balcón sin marco guiándolo a mano con el control remoto y la cuerda de seguridad puesta, sin problemas, aunque es un uso no recomendado por Gadnic. Si tu prioridad es ese uso, el [Atma](/producto/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-mla51170872) sí lo promete de fábrica." },
+      { question: "¿Qué pasa si se corta la luz mientras está limpiando?", answer: "Tiene una batería de respaldo (UPS) que lo mantiene pegado al vidrio hasta 20 minutos sin corriente, tiempo para que lo alcances y lo bajes tirando de la cuerda de seguridad." },
+      { question: "¿Funciona a batería o necesita estar siempre enchufado?", answer: "Necesita estar enchufado durante toda la limpieza (80W, 100-240V). La batería interna es solo de respaldo para cortes de luz, no te permite usarlo de forma inalámbrica." },
+      { question: "¿Hace mucho ruido?", answer: "Sí. El manual del fabricante declara 65 dB, y más de una reseña real lo confirma (\"mucho ruido\"), aunque coinciden en que no afecta el resultado de la limpieza." },
+      { question: "¿Es obligatorio usar la cuerda de seguridad?", answer: "Sí, el fabricante la exige como parte del uso seguro, atada a un objeto fijo dentro de la habitación, además de la batería de respaldo (UPS)." },
+      { question: "¿Cuántos paños de repuesto trae?", answer: "Según una reseña real, viene con un solo set de paño de repuesto. Si necesitás más o se gasta rápido, hay que comprarlos aparte; la misma reseña dice que el service oficial no respondió bien ante esa consulta." },
+      { question: "¿Deja marcas en el vidrio?", answer: "Puede dejar marcado el círculo de la ventosa al retirarlo. Una reseña real recomienda pasar un trapo seco en esa zona apenas termina la limpieza." },
+      { question: "¿Cómo se compara con el Atma del mismo catálogo?", answer: "El Gadnic tiene mejor rating (4.5 contra 3.8) y más reseñas (162 contra 49), pero según su manual solo sirve para vidrios con marco. El [Atma](/producto/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-mla51170872) promete explícitamente compatibilidad con vidrios con y sin marco." },
+    ],
+    articleBody: `## Qué es y cómo funciona
+
+El Robot Limpia Vidrios Gadnic es un limpiavidrios automático por succión, distinto de los limpiavidrios magnéticos que también vendemos en la [categoría hogar](/categoria/hogar). Se pega al vidrio con un motor de vacío, camina solo sobre la superficie vertical y limpia con dos ruedas cubiertas de paño de microfibra. Trae 3 modos de limpieza automática (hacia arriba, hacia la izquierda y hacia la derecha) más un modo manual que manejás vos con el control remoto por infrarrojos.
+
+## Succión, batería de respaldo y qué pasa si se corta la luz
+
+La succión es de 2800 Pa, la misma cifra que declara tanto la publicación de MercadoLibre como el manual oficial de Gadnic, sin contradicciones entre ambas fuentes. Alcanza para sostener el robot con seguridad incluso en vidrios altos, según coinciden fabricante y compradores. Además tiene una batería de respaldo (UPS) que, si se corta la luz, mantiene al robot pegado al vidrio hasta 20 minutos: tiempo de sobra para acercarte y bajarlo con la cuerda de seguridad, que el fabricante exige usar siempre, no es un accesorio opcional.
+
+## Lo que el manual dice y el título de ML no aclara
+
+Acá aparece la letra chica que conviene leer antes de comprar: el manual oficial de Gadnic dice, en dos lugares distintos, que el producto "sólo puede utilizarse para limpiar ventanas y cristales con marco" y que "no se debe utilizar para limpiar ventanas o cristales sin marco". El título y la descripción de la publicación de ML no mencionan esta restricción. En la práctica, una reseña real de un comprador cuenta que lo usó igual en los vidrios de un balcón sin marco, guiándolo a mano con el control remoto y siempre con la cuerda de seguridad puesta, sin problemas. Pero es un uso no recomendado por el fabricante, no una función confirmada del producto.
+
+## Gadnic vs Atma: cuál conviene
+
+Dentro del mismo catálogo, el [Robot Limpia Ventanas Atma](/producto/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-mla51170872) ($399.999) hace la promesa contraria: dice explícitamente ser apto para vidrios con y sin marco. Tiene menos reseñas (49 contra 162) y un rating más bajo (3.8 contra 4.5 del Gadnic), pero si tu prioridad es ese uso sin marco, es la opción que lo respalda por escrito. El Gadnic gana en rating, en cantidad de opiniones y en precio ($291.299, un 29% menos que su lista), pero solo para vidrios con marco según su propio manual. Si tu ventana no tiene marco ni balcón y preferís no arriesgar, un [limpiavidrios magnético manual](/producto/limpia-vidrio-magnetico-profesional-triangular-y-respuestos-mla214572440) ($11.999) es la alternativa clásica y mucho más barata para ese caso puntual, aunque exige más trabajo de tu parte que un robot.
+
+## Para quién sí y para quién no
+
+Es para vos si: tenés varias ventanas o vidrios grandes con marco (casa, oficina o local), te interesa el rating más alto y la comunidad de opiniones más grande de este bloque, y no te molesta que el aparato haga bastante ruido mientras trabaja. No es para vos si: tu prioridad es limpiar vidrios sin marco o de balcón inaccesible (ahí el Atma lo promete de fábrica), buscás control por app en vez de control remoto, o preferís no depender de tenerlo enchufado todo el tiempo.`,
   },
   {
     id: 'MLA51170872',
     title: 'Robot Limpia Ventanas Atma + 3 Patrones De Limpieza + Doble Spray + Apto Vidrios Con Y Sin Marco',
+    canonicalName: "Robot Limpia Ventanas Atma ARLV306",
     brand: "Atma",
     price: 399999,
     priceUpdated: "2026-07-08",
@@ -17047,39 +17189,85 @@ Es el repuesto que evita tirar un limpiavidrios magnético triangular que sigue 
     freeShipping: false,
     rating: 3.8,
     reviewCount: 49,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 100,
     pastelColor: 'var(--pastel-amber)',
     seoTitle: "Robot Limpia Ventanas Atma: review con doble spray",
-    metaDescription: "Análisis del Robot Limpia Ventanas Atma: 3 patrones de limpieza, doble spray automático y compatibilidad con vidrios con o sin marco. Precio en MercadoLibre.",
-    ogTitle: "Robot Limpia Ventanas Atma — el limpiavidrios automático con marca local",
-    ogDescription: "Doble spray automático, 3 patrones, apto para vidrios con o sin marco. Marca Atma con service oficial en Argentina.",
+    metaDescription: "Análisis del Robot Limpia Ventanas Atma: 3 patrones de limpieza, doble spray automático y la promesa de vidrios con o sin marco puesta a prueba contra reseñas reales.",
+    ogTitle: "Robot Limpia Ventanas Atma: el limpiavidrios automático con marca local",
+    ogDescription: "Doble spray automático, 3 patrones, promete vidrios con o sin marco. Revisamos si esa promesa se sostiene contra el fabricante y las reseñas reales.",
     h1: "Robot Limpia Ventanas Atma: el limpiavidrios automático para casas con muchos vidrios",
     specs: [
       { label: "Marca", value: "Atma" },
-      { label: "Tipo", value: "Robot limpiavidrios (succión + sensores de borde)" },
-      { label: "Patrones de limpieza", value: "3 modos" },
-      { label: "Spray", value: "Doble spray automático" },
-      { label: "Compatibilidad", value: "Vidrios con o sin marco" },
-      { label: "Voltaje", value: "220V (mercado argentino)" },
+      { label: "Modelo", value: "ARLV306" },
+      { label: "Tipo", value: "Robot limpiavidrios automático por succión" },
+      { label: "Patrones de limpieza", value: "3 modos, según la publicación de ML" },
+      { label: "Spray", value: "Doble spray automático, según ML (sin manual oficial que lo detalle)" },
+      { label: "Peso", value: "1,35 kg, según la descripción del vendedor" },
+      { label: "Compatibilidad con marco", value: "El título de ML promete \"con y sin marco\", pero no hay manual ni ficha técnica oficial de Atma/Newsan que lo confirme (verificado, ver análisis)" },
+      { label: "Alimentación", value: "No especificada en la publicación (se asume 220V, estándar del mercado argentino)" },
+      { label: "Color", value: "Blanco" },
+      { label: "Formato de venta", value: "Unidad" },
+      { label: "Rating y reseñas en ML", value: "3,8 sobre 5 con 49 reseñas" },
+      { label: "Stock al momento de esta revisión", value: "5 unidades disponibles" },
     ],
     pros: [
-      "Doble spray automático — no tenés que pulverizar el vidrio antes",
-      "Compatible con vidrios con o sin marco — algunas alternativas solo van con marco",
-      "Marca Atma con service oficial en Argentina",
+      "Doble spray automático: no tenés que rociar el vidrio a mano antes de cada pasada, según describe ML",
       "3 patrones de limpieza programables",
-      "Descuento del 36% sobre precio de lista",
+      "Diseño compacto y liviano (1,35 kg), fácil de guardar",
+      "Marca Atma, respaldada por Grupo Newsan en Argentina, aunque no hay manual público de este modelo puntual",
     ],
     cons: [
-      "Rating 3.9 — algunos compradores reportan inconsistencia entre lotes o problemas de succión en vidrios muy viejos",
-      "Solo 100 unidades vendidas — comunidad de reviews chica para validar durabilidad",
+      "Las 5 reseñas reales disponibles al momento de esta revisión son todas de 1 estrella: varios compradores cuentan que el robot da la limpieza por terminada cubriendo apenas un 20% del vidrio, y que el modo de bordes se traba y deja hasta 10 cm sucios cerca del marco",
+      "La promesa \"apto vidrios con y sin marco\" del título de ML no tiene respaldo en ningún manual o ficha técnica oficial de Atma/Newsan que hayamos encontrado; es una afirmación comercial no verificada, y justo cerca del marco es donde las reseñas reportan más fallas",
+      "Rating 3.8 con apenas 49 reseñas, la base más chica de este bloque de robots limpiavidrios (el Gadnic tiene 4.5 con 162)",
+      "Sin precio de lista cargado en esta ficha: no hay forma de verificar ningún porcentaje de descuento sobre el precio actual",
       "Sin envío gratis",
-      "Categoría limpiavidrios robot todavía en evolución técnica — fallas son más comunes que en aspiradoras robot",
+      "Stock bajo al momento de esta revisión (5 unidades)",
     ],
-    verdict: "Si tenés ventanas grandes (PHs con vidriado, oficinas en torre, ventanales) y limpiarlas a mano te toma horas, este robot Atma se justifica. Para vidrios chicos o casa con poca superficie vidriada, no rinde el ticket. El rating 3.9 (más bajo que las aspiradoras robot del catálogo) sugiere chequear la garantía oficial Atma antes de comprar.",
-    bestOccasion: ["Casas con muchas ventanas grandes", "PHs con vidriado", "Quien valora marca con service local"],
-    notRecommendedFor: ["Vidrios chicos o pocas ventanas", "Vidrios muy viejos o sucios persistentes", "Quien busca rating alto consistente"],
+    verdict: "A $399.999 y sin descuento verificable sobre precio de lista, el Atma promete en el título ser apto para vidrios con y sin marco, pero no encontramos manual oficial de Atma ni de Newsan que lo respalde. Las 5 reseñas reales que pudimos revisar son todas de 1 estrella: varios compradores dicen que da la limpieza por terminada cubriendo apenas un 20% del vidrio y que se traba cerca del marco, justo donde promete ser bueno. Con un rating de 3.8 sobre 49 reseñas, la base más chica de este bloque, conviene comprarlo con expectativas bajas o mirar antes el Gadnic, que tiene mejor rating aunque su manual reconoce no ser apto para vidrios sin marco.",
+    bestOccasion: ["Quien quiere probar específicamente la promesa de compatibilidad sin marco bajo reserva, sabiendo que no está confirmada por el fabricante", "Quien prioriza una marca argentina (Atma/Newsan) por sobre marcas genéricas importadas"],
+    notRecommendedFor: ["Quien busca el robot con mejor respaldo de reseñas del bloque (ver Gadnic)", "Vidrios sin marco donde no se pueda supervisar de cerca la limpieza", "Quien no quiere arriesgar con un producto de solo 49 reseñas, todas negativas en la muestra que pudimos revisar"],
     relatedProducts: ["MLA46931846"],
-    description: '¡Simplificá tu vida con el innovador Robot Limpiavidrios ATMA!   Este pequeño pero poderoso ayudante es ideal para mantener tus ventanas relucientes sin esfuerzo. Con tecnología de vanguardia, adapta su limpieza a diferentes tipos de superficies, garantizando un acabado impecable. Y todo sin levanta',
+    comparedTo: [
+      { name: "Robot Limpia Vidrios Gadnic", similarity: "Misma categoría; Gadnic con mejor rating (4.5 vs 3.8) y más reseñas (162 vs 49); el manual de Gadnic desmiente que sirva para vidrios sin marco, mientras que la promesa del Atma sin marco no tiene respaldo oficial verificado" },
+    ],
+    description: "Robot limpiavidrios automático por succión, con 3 patrones de limpieza y doble spray según la publicación de ML. Pesa 1,35 kg y promete compatibilidad con vidrios con y sin marco, aunque no encontramos manual oficial de Atma o Newsan que lo confirme. Las reseñas reales disponibles son negativas: varios compradores reportan que corta la limpieza antes de cubrir todo el vidrio y que deja zonas sin limpiar cerca del marco.",
+    customerReviews: [
+      { rating: 1, country: "Argentina", date: "octubre 2025", text: "Realmente no sé si vino fallado o es muy malo, no limpia bien y no alcanza a cubrir ni el 20% del paño cuando me dice tarea finalizada. Me siento totalmente decepcionado, realmente pensé que era otra cosa." },
+      { rating: 1, country: "Argentina", date: "octubre 2025", text: "Lo probé y no limpia ni la mitad del ventanal cuando marca programa terminado. Hay un programa de limpieza de bordes, pero se traba. Deja unos 10cm hasta el marco sucios, nunca pasa por ahí. No es lo que esperaba." },
+      { rating: 1, country: "Argentina", date: "agosto 2025", text: "Pésimo, deja todo con marcas, ya no sé cómo probarlo. No lo recomiendo, no sé si otra marca será mejor." },
+      { rating: 1, country: "Argentina", date: "octubre 2025", text: "No limpia más del 20% del vidrio, es como dicen los otros comentarios. No limpia parejo, el vidrio queda sucio. Me arrepiento de haber comprado este robot, realmente no sirve y me generó más problemas." },
+    ],
+    faq: [
+      { question: "¿De verdad limpia los vidrios sin marco, como promete el título?", answer: "No encontramos manual ni ficha técnica oficial de Atma o de Newsan (su empresa matriz en Argentina) que confirme esa compatibilidad para este modelo. Es una afirmación comercial que repiten la publicación de ML y algún revendedor, pero sin respaldo del fabricante. Además, las reseñas reales disponibles hablan justo de fallas cerca del marco: el modo de bordes se traba y deja hasta 10cm sin limpiar." },
+      { question: "¿Qué dicen las reseñas reales de los compradores?", answer: "Las 5 reseñas que pudimos revisar al momento de esta nota son todas de 1 estrella. Coinciden en que el robot da la limpieza por terminada cubriendo apenas un 20% del vidrio, que el modo de bordes se traba y que puede dejar marcas. Es una muestra chica (49 reseñas en total), pero el patrón se repite entre varios compradores distintos." },
+      { question: "¿Por qué tiene un rating más bajo que el Gadnic del mismo catálogo?", answer: "El Atma tiene 3.8 sobre 49 reseñas contra el 4.5 sobre 162 del Gadnic. Las reseñas reales del Atma que pudimos revisar reportan fallas de cobertura y de trabado en bordes, mientras que el Gadnic tiene mejor recepción aunque su propio manual reconoce no ser apto para vidrios sin marco." },
+      { question: "¿Tiene control remoto o cuerda de seguridad?", answer: "La publicación de ML no lo detalla para este modelo, a diferencia del Gadnic, cuyo manual sí especifica control remoto por infrarrojos y cuerda de seguridad obligatoria. No podemos confirmar este dato para el Atma sin inventar." },
+      { question: "¿Qué pasa si se corta la luz mientras está limpiando?", answer: "No hay información pública sobre batería de respaldo (UPS) para este modelo Atma, a diferencia del Gadnic, que sí documenta 20 minutos de respaldo en su manual. No lo damos por hecho sin una fuente que lo confirme." },
+      { question: "¿Hace mucho ruido?", answer: "Ni la publicación de ML ni un manual oficial publican un dato de decibeles para este modelo, así que no podemos confirmarlo. Ninguna de las 5 reseñas reales disponibles menciona el ruido." },
+      { question: "¿Tiene descuento sobre el precio de lista?", answer: "No: esta ficha no tiene un precio de lista (originalPrice) cargado, se vende a precio fijo de $399.999. No hay forma de calcular ni verificar ningún porcentaje de descuento." },
+      { question: "¿Conviene este Atma o el Gadnic del mismo catálogo?", answer: "Con la información disponible hoy, el Gadnic tiene mejor rating y muchas más reseñas, aunque su manual reconoce no ser apto para vidrios sin marco. El Atma promete esa compatibilidad, pero sin respaldo del fabricante y con reseñas reales que reportan justo fallas cerca del marco. Si tu prioridad es limpiar vidrios sin marco, ninguno de los dos lo garantiza de forma confiable hoy." },
+    ],
+    articleBody: `## Qué es y cómo funciona
+
+El Robot Limpia Ventanas Atma es un limpiavidrios automático por succión: se pega al vidrio con un motor de vacío y se desplaza solo sobre la superficie limpiando con paños de microfibra, según la publicación de ML. Pesa 1,35 kg y trae 3 patrones de limpieza y doble spray automático, que en teoría evita tener que rociar el vidrio a mano antes de cada pasada. Es la segunda opción de este tipo dentro de la [categoría hogar](/categoria/hogar), junto al [Robot Limpia Vidrios Gadnic](/producto/robot-limpia-vidrios-gadnic-con-3-modos-de-limpieza-super-succion-pulverizacion-mla46931846).
+
+## La pregunta clave: ¿es de verdad apto para vidrios sin marco?
+
+El título de la publicación promete "apto vidrios con y sin marco", una compatibilidad más amplia que la del Gadnic, cuyo manual oficial dice explícitamente que no sirve para vidrios sin marco. Buscamos el sitio oficial de Atma y la base de manuales de Newsan (su empresa matriz en Argentina) y no encontramos el modelo ARLV306 publicado en ninguno de los dos. La frase "con y sin marco" aparece también en la ficha de un revendedor, pero repite el mismo texto comercial de ML, sin ficha técnica propia ni manual que la respalde. En la práctica, los robots de succión suelen tener problemas justo cerca de marcos y molduras porque ahí se corta el vacío, así que esta es la clase de promesa que conviene poner en duda hasta ver un manual oficial.
+
+## Lo que dicen las reseñas reales (todas de 1 estrella)
+
+Acá está el dato más importante de esta ficha: de las reseñas que pudimos revisar, las 5 disponibles son de 1 estrella. Varios compradores cuentan que el robot da la limpieza por terminada cubriendo apenas un 20% del vidrio, que el programa de limpieza de bordes se traba y deja hasta 10cm sin limpiar cerca del marco, y que en algún caso deja marcas en el vidrio. Es justo el punto que la publicación promociona (compatibilidad con y sin marco) el que aparece señalado como problema en las reseñas reales. Con 49 reseñas en total y un rating de 3.8, es la base de opiniones más chica de este bloque de limpiavidrios robot.
+
+## Atma vs Gadnic: cuál conviene
+
+Dentro del mismo catálogo, el [Robot Limpia Vidrios Gadnic](/producto/robot-limpia-vidrios-gadnic-con-3-modos-de-limpieza-super-succion-pulverizacion-mla46931846) ($291.299) tiene mejor rating (4.5 contra 3.8) y una base de reseñas mucho más grande (162 contra 49). Su manual reconoce por escrito que no sirve para vidrios sin marco, algo que el Atma promete cubrir pero sin respaldo verificable. En otras palabras: ninguno de los dos te garantiza hoy, con fuentes confiables, un limpiavidrios robot que funcione bien en vidrios sin marco. Si ese es tu caso puntual, un [limpiavidrios magnético manual](/producto/limpia-vidrio-magnetico-profesional-triangular-y-respuestos-mla214572440) ($11.999) sigue siendo la alternativa más barata y probada, aunque te exige hacer vos el trabajo.
+
+## Para quién sí y para quién no
+
+Es para vos si: te interesa específicamente probar la promesa de compatibilidad sin marco bajo reserva, sabiendo que no está confirmada por el fabricante, o si preferís una marca argentina (Atma/Newsan) por sobre alternativas genéricas importadas. No es para vos si: buscás el robot con mejor respaldo de reseñas de este bloque (ahí el Gadnic gana en cantidad y en rating), tenés vidrios sin marco que no podés supervisar de cerca mientras limpia, o no querés arriesgar con un producto de apenas 49 reseñas, todas negativas en la muestra que pudimos revisar.`,
   },
   {
     id: 'MLA24824959',
@@ -29984,6 +30172,8 @@ El Erba Pura es de los que entran por la presentación y se quedan por el aroma 
   {
     id: "MLA22234109",
     title: "Lattafa Qaed Al Fursan Eau De Parfum 90ml",
+    canonicalName: "Lattafa Qaed Al Fursan EDP 90ml",
+    reviewsSampledAt: "2026-07-09",
     brand: "Lattafa",
     price: 41183,
     priceUpdated: "2026-07-08",
@@ -30005,46 +30195,131 @@ El Erba Pura es de los que entran por la presentación y se quedan por el aroma 
     affiliateUrl: "https://meli.la/2TnKuGC",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 879,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.8,
+    reviewCount: 8704,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Oriental ahumado especiado"],
+    olfactiveFamily: ["Oriental amaderado"],
     notes: {
-      top: ["Cardamomo", "Azafrán", "Bergamota"],
-      heart: ["Oud", "Rosa", "Pachulí"],
-      base: ["Almizcle", "Cuero", "Ámbar gris"],
+      top: ["Piña", "Azafrán"],
+      heart: ["Abeto balsámico", "Jazmín"],
+      base: ["Cedro", "Ámbar", "Oud"],
     },
-    gender: "Hombre",
+    notesDisclaimer: "Esta pirámide surge de cruzar la descripción del propio vendedor (\"apertura con ananá, acordes cálidos y amaderados\") con Fragrantica, que coincide nota por nota. La ficha de especificaciones de Mercado Libre trae otro dato (almizcle, musgo de roble, vainilla, ámbar gris, familia \"Frutales\") que no coincide y parece un template genérico de categoría, no un análisis de este perfume puntual.",
+    gender: "Unisex",
     concentration: "EDP",
     volume: 90,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Qaed Al Fursan EDP 90ml: review del oriental con oud",
-    metaDescription: "Análisis del Lattafa Qaed Al Fursan EDP 90ml: oriental ahumado con cardamomo, oud y cuero. Longevidad muy alta. Precio sub-$32.000 en MercadoLibre.",
-    ogTitle: "Lattafa Qaed Al Fursan 90ml — el oud-cardamomo a precio increíble",
-    ogDescription: "Oriental ahumado con cardamomo y azafrán arriba, corazón de oud y rosa, fondo de cuero y ámbar. Sub-$32.000 — uno de los más rendidores de Lattafa.",
-    h1: "Lattafa Qaed Al Fursan: el oud-cuero más accesible del catálogo árabe",
-    description: "Eau de parfum oriental ahumado especiado para hombre con apertura de cardamomo, azafrán y bergamota, corazón intenso de oud, rosa y pachulí, y fondo de almizcle, cuero y ámbar gris.",
+    seoTitle: "Lattafa Qaed Al Fursan EDP 90ml: review con las notas reales",
+    metaDescription: "Review honesta del Lattafa Qaed Al Fursan EDP 90ml: notas reales de piña, azafrán y oud (no las de la ficha de ML), duración reportada por compradores y precio en Argentina.",
+    ogTitle: "Lattafa Qaed Al Fursan 90ml: la review que corrige la ficha de ML",
+    ogDescription: "Piña y azafrán arriba, abeto balsámico y jazmín en el corazón, cedro, ámbar y oud de fondo. Con 8.704 calificaciones y 4.8 de rating, de los más validados de Lattafa en Argentina.",
+    h1: "Lattafa Qaed Al Fursan EDP 90ml: review honesta de notas y duración",
+    description: "Eau de parfum unisex de Lattafa con apertura frutal de piña y azafrán, corazón de abeto balsámico y jazmín, y fondo amaderado de cedro, ámbar y oud. En Mercado Libre Argentina se vende catalogado como perfume de hombre.",
     pros: [
-      "Combinación oud + cardamomo + cuero a precio sub-$32.000",
-      "Longevidad muy alta — 10+ horas reportadas por compradores",
-      "Sillage alto las primeras horas",
-      "Mejor relación precio-presencia del catálogo Lattafa hombre",
-      "Frasco 90ml (no 100ml) pero rinde el doble que un EDT comercial",
+      "Apertura de piña y azafrán bien reconocible, confirmada por el vendedor, por Fragrantica y por decenas de reseñas reales",
+      "Rating 4.8 con 8.704 calificaciones, uno de los perfumes árabes más validados del catálogo Lattafa en el sitio",
+      "Proyección alta: con 1 a 2 sprays alcanza según la mayoría de los compradores",
+      "Incluye estuche",
+      "Precio accesible dentro del segmento Lattafa ($41.183 los 90 mL)",
     ],
     cons: [
-      "Volumen 90ml en lugar de 100ml — diferencia menor pero existe",
-      "Nada amable como primer perfume árabe — el oud necesita tolerancia",
-      "Para nada de oficina formal — proyecta mucho",
+      "La ficha de Mercado Libre lo etiqueta como \"versión Nicho\", una clasificación que no aplica: Lattafa es una casa comercial grande, no un perfumista de nicho",
+      "Duración real inconsistente entre compradores: la mayoría reporta buena persistencia, pero dos reseñas (Argentina y Chile) hablan de un aroma final a alcohol y una duración de apenas minutos",
+      "No es libre de crueldad, ni vegano, ni libre de alcohol según su propia ficha técnica",
+      "En Mercado Libre Argentina se vende catalogado como perfume de hombre aunque Lattafa lo lanzó y lo sigue vendiendo como fragancia unisex",
     ],
-    verdict: "Si querés probar oud sin gastar arriba de $50.000, este es la entrada. La combinación con cardamomo y rosa lo hace menos animal que un oud puro. Es de los pocos sub-$35.000 con esa firma. Para tarde-noche en otoño-invierno, comprado seguro.",
-    bestSeason: ["Otoño", "Invierno"],
-    bestOccasion: ["Salidas nocturnas", "Eventos", "Cenas formales"],
-    notRecommendedFor: ["Verano", "Oficinas formales", "Primer perfume árabe"],
-    duration: "10-12 horas",
-    durationHours: 11,
+    verdict: "A $41.183 los 90 mL, el Qaed Al Fursan es una de las entradas más frutales del catálogo Lattafa: piña y azafrán arriba, oud solo de fondo. Compra con los ojos abiertos: la ficha de Mercado Libre trae notas genéricas que no son las reales, y al menos dos compradores reportan una unidad con olor a alcohol y duración muy corta.",
+    bestSeason: ["Primavera", "Verano"],
+    bestOccasion: ["Uso diario", "Salidas informales de tarde"],
+    notRecommendedFor: ["Oficina muy formal por la proyección alta", "Buscás un oud protagonista y serio (acá es solo nota de fondo)"],
+    duration: "6 a 8 horas",
+    durationHours: 7,
+    durationOfficial: 8,
+    durationDisclaimer: "Dos reseñas negativas (Argentina y Chile) reportan una duración de apenas minutos con un aroma final sintético a alcohol. No se puede confirmar si fue una unidad con problema de calidad o no original, pero conviene saber que ese riesgo existe en un producto con este volumen de ventas.",
     projection: "Alta",
-    projectionNote: "1-2 sprays alcanza. Más de eso satura.",
+    projectionNote: "Con 1 a 2 sprays alcanza. Varias reseñas lo describen como muy potente incluso en poca cantidad.",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2016,
+    crueltyFree: false,
+    vegan: false,
+    alcoholFree: false,
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: true,
+    isSet: false,
+    articleBody: `Es un eau de parfum oriental amaderado con apertura frutal de piña, lanzado por Lattafa en 2016 y vendido en Argentina a $41.183 los 90 mL. El frasco negro con el caballo dorado ilustra el nombre, que remite a un jinete al mando. Acumula 8.704 calificaciones en Mercado Libre con un rating de 4.8, uno de los volúmenes más altos entre los perfumes árabes del sitio.
+
+## Las notas reales (y por qué no coinciden con la ficha de Mercado Libre)
+
+La apertura es de piña y azafrán, el corazón trae abeto balsámico y jazmín, y el fondo cierra con cedro, ámbar y oud. Esta pirámide surge de cruzar la propia descripción del vendedor, que dice textual que "su apertura se caracteriza por la presencia de ananá (piña), acompañada por acordes cálidos y amaderados", con la base de datos de Fragrantica, que coincide nota por nota y también confirma el año de lanzamiento (2016).
+
+La tabla de especificaciones técnicas del mismo listado de Mercado Libre, en cambio, trae otro dato distinto: "Notas olfativas: almizcle, musgo de roble, vainilla, ámbar gris" y clasifica la familia olfativa como "Frutales" a secas. Ninguna de esas dos cosas es del todo falsa (hay dulzor y hay un tirón afrutado real), pero tampoco describe bien a este perfume puntual. Parece una ficha de especificaciones genérica que Mercado Libre completa por categoría de producto, no un análisis propio de este perfume.
+
+## Duración real: lo que declara el vendedor y lo que reportan los compradores
+
+El vendedor declara 8 horas de duración aproximada en la ficha técnica. La mayoría de las reseñas con más votos útiles confirman una experiencia buena: una compradora mexicana cuenta que a su esposo "el aroma le dura casi todo el día", y varias reseñas argentinas lo describen como una fragancia con mucha proyección desde el primer momento.
+
+No es unánime. Dos reseñas, una de Argentina y otra de Chile, describen lo contrario. La argentina dice que "después de usarlo una semana empezó a salir mucho olor a alcohol" y que se desilusionó. La chilena es más dura: "duración aproximado 10 minutos. Después se torna un aroma sintético con destellos de alcohol". Con casi 9.000 calificaciones y siendo uno de los perfumes árabes más vendidos de Lattafa en el país, también es un blanco frecuente de falsificaciones, así que conviene comprarle a un vendedor con buena reputación y prestar atención a la tapa, el color del líquido y el acabado del frasco al recibirlo.
+
+## ¿Es una versión nicho? ¿Es unisex o de hombre?
+
+No es un perfume nicho. La ficha de Mercado Libre lo etiqueta así en sus características generales ("Versión: Nicho"), pero Lattafa es una casa comercial grande de Emiratos Árabes Unidos con cientos de referencias en catálogo, no un perfumista de nicho en el sentido real del término (producción chica, distribución limitada). Es probable que el vendedor haya completado ese campo del formulario de Mercado Libre sin pensarlo demasiado.
+
+Tampoco es exclusivamente de hombre. Lattafa lo lanzó y lo sigue vendiendo como fragancia unisex, "para hombres y mujeres" tanto en su propia clasificación como en la de Fragrantica, aunque en Mercado Libre Argentina la ficha lo cataloga como perfume de hombre. La apertura dulce de piña lo hace perfectamente usable por cualquier género.
+
+## Qaed Al Fursan frente a otros perfumes árabes del catálogo
+
+Frente al [Al Wataniah Bareeq Al Dhahab](/producto/al-wataniah-bareeq-al-dhahad-edp-100-ml-para-hombre-mla24605489), el Qaed Al Fursan es más frutal y menos dulce-ambarino: acá la piña domina la salida en lugar del caramelo. Contra el [Lattafa The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086), es una fragancia bastante más liviana y diurna, sin la seriedad del oud marcado que tiene ese perfume. Comparado con el [Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215), el más vendido de la marca en el país, el Qaed Al Fursan resulta más versátil para primavera-verano por su apertura frutal, mientras que Asad Intense rinde mejor en otoño-invierno por su perfil gourmand-amaderado.
+
+Una compradora mexicana lo comparó directamente con un perfume de nicho bastante más caro, el Hasibak de Nishane: dice que es "una versión a hasibak de nishane pero en menor costo". No es una comparación que declare Lattafa ni algo verificable con una fuente técnica, pero aparece repetida entre compradores del nicho árabe.
+
+## ¿Para quién es este perfume (y para quién no)?
+
+Es para vos si: buscás una entrada dulce y frutal al catálogo árabe con apertura de piña y fondo amaderado, no te importa que el listado use la palabra "nicho" de forma incorrecta, y preferís algo versátil para el día antes que un oud pesado de noche. No es para vos si: buscás específicamente un oud protagonista y serio (acá es solo nota de fondo), te preocupa el riesgo de recibir una unidad con problema de calidad o falsificada, o necesitás que el listado lo declare oficialmente como fragancia unisex sin matices.
+
+## En resumen
+
+El Qaed Al Fursan cumple bien lo que promete el propio vendedor: una fragancia frutal-amaderada con piña de apertura y buena proyección, a $41.183 los 90 mL. Lo flojo no es el perfume en sí sino la ficha de datos de Mercado Libre, que trae notas genéricas que no son las reales. Si te interesa el perfil pero preferís algo más ambarino y menos frutal, la alternativa dentro del catálogo es el [Al Wataniah Bareeq Al Dhahab](/producto/al-wataniah-bareeq-al-dhahad-edp-100-ml-para-hombre-mla24605489), o revisá el resto de la [guía completa de perfumes árabes en Argentina](/guias/perfumes-arabes).`,
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Private" },
+      { label: "Nombre del perfume", value: "Qaed Al Fursan" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "90 mL" },
+      { label: "Género", value: "Unisex (lanzado por Lattafa para hombre y mujer; en Mercado Libre Argentina figura catalogado como perfume de hombre)" },
+      { label: "Familia olfativa", value: "Oriental amaderado con apertura frutal (piña)" },
+      { label: "Notas de salida", value: "Piña, azafrán" },
+      { label: "Notas de corazón", value: "Abeto balsámico, jazmín" },
+      { label: "Notas de fondo", value: "Cedro, ámbar, oud" },
+      { label: "Duración declarada por el vendedor", value: "8 horas" },
+      { label: "Duración real reportada por compradores", value: "Mayoría reporta buena persistencia; 2 reseñas negativas reportan minutos con olor a alcohol" },
+      { label: "Proyección", value: "Alta (1 a 2 sprays alcanzan)" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2016" },
+      { label: "Es recargable", value: "No" },
+      { label: "Incluye estuche", value: "Sí" },
+      { label: "Libre de crueldad", value: "No" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+    faq: [
+      { question: "¿A qué huele el Lattafa Qaed Al Fursan?", answer: "Abre con piña y azafrán, sigue con abeto balsámico y jazmín en el corazón, y cierra con cedro, ámbar y oud de fondo. Esta pirámide coincide entre la descripción del propio vendedor y Fragrantica; la ficha de especificaciones técnicas de Mercado Libre trae notas distintas (almizcle, musgo de roble, vainilla) que parecen un dato genérico, no específico de este perfume." },
+      { question: "¿Cuánto dura en la piel?", answer: "El vendedor declara 8 horas aproximadas. La mayoría de las reseñas confirma buena duración y proyección, pero dos compradores (uno de Argentina y uno de Chile) reportaron apenas minutos de duración con un aroma final a alcohol, posible señal de una unidad con problema de calidad." },
+      { question: "¿Es un perfume de hombre o unisex?", answer: "Lattafa lo lanzó y lo comercializa como fragancia unisex, para hombres y mujeres, tanto en su propia clasificación como en Fragrantica. En Mercado Libre Argentina, sin embargo, la ficha lo cataloga como perfume de hombre." },
+      { question: "¿Es cierto que es una 'versión nicho'?", answer: "No. La ficha de características de Mercado Libre lo etiqueta como 'Versión: Nicho', pero Lattafa es una casa comercial grande de Emiratos Árabes Unidos con cientos de referencias, no un perfumista de nicho en el sentido real del término. Parece un dato de formulario mal completado por el vendedor." },
+      { question: "¿A qué perfume se parece o imita?", answer: "No hay una declaración oficial de Lattafa sobre un perfume que imite. Entre las reseñas de compradores aparece la comparación con Hasibak de Nishane, un perfume de nicho bastante más caro, aunque es una opinión de comprador y no algo verificable con una fuente técnica." },
+      { question: "¿Con cuántos sprays alcanza?", answer: "Con 1 a 2 pulverizaciones alcanza, según la mayoría de las reseñas, que describen una proyección alta incluso con poca cantidad aplicada." },
+      { question: "¿Qué dicen las reseñas negativas?", answer: "Las dos reseñas más críticas hablan de un aroma que se vuelve sintético y a alcohol después de poco tiempo de uso, con una duración mucho menor a la esperada. Es una minoría frente al total de calificaciones (rating 4.8 sobre 8.704), pero conviene saberlo antes de comprar, sobre todo por el riesgo de falsificaciones en un producto tan vendido." },
+      { question: "¿Con qué otro perfume del catálogo se compara?", answer: "El comparable más cercano es el Al Wataniah Bareeq Al Dhahab, más dulce-ambarino y menos frutal. Para un perfil más serio con oud protagonista, Lattafa The Kingdom Man va un escalón más arriba, y para el más vendido de la marca en el país, Lattafa Asad Intense es la referencia en otoño-invierno." },
+      { question: "¿El precio incluye envío gratis?", answer: "Sí, el listado con mejor precio en Mercado Libre incluye envío gratis. El precio fluctúa según el vendedor, así que conviene revisar el valor actual antes de comprar." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "México", date: "2024", useful: 189, text: "Me encantó este perfume árabe una versión a hasibak de nishane pero en menor costo muy rica. No debe faltar en su colección. Si les gusta la piña este es una piña madura dulce con ese asafran huele maderoso algo como nota madera de oud ligero, woooow la verdad 10 de 10 calidad precio calenlo yo lo pediré otra vez para tener uno allí este perfume podría ser mi perfume firma." },
+      { rating: 5, country: "México", date: "2025", useful: 185, text: "Lo compré practicamente a ciegas basándome en las opiniones. Y fue una buena decisión. Muy satisfecha con mi compra. Fue un regalo para mi esposo y desde que lo olí el aroma me encantó en efecto es un olor a piña y madera, pero que resulta, o al menos para mí, muy masculino, por fortuna a mi esposo también le gustó, no ha dejado de ponérselo y, en su caso, el aroma le dura casi todo el día. Al final queda un aroma tenue pero aún perceptible y no es desagradable. Dice mi esposo que se siente un galán barbón árabe, jajaja. Lo recomiendo, incluso la presentación está muy linda, me sumo a las buenas opiniones vertidas aquí." },
+      { rating: 4, country: "Argentina", date: "2025", useful: 154, text: "Es rico, a mi mujer le encantó. Se le cae sola la tanga." },
+      { rating: 1, country: "Argentina", date: "2025", useful: 6, text: "No es feo. Pero después de usarlo una semana empezó a salir mucho olor a alcohol. Me desilusiono." },
+    ],
+    relatedProducts: ["MLA24605489", "MLA41178086", "MLA19715215"],
   },
   {
     id: "MLA19715215",
@@ -30806,7 +31081,7 @@ Si el atomizador no es plateado, la tapa es liviana o el batch code no se puede 
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 69,
+    reviewCount: 253,
     reviewsSampledAt: "2026-06-10",
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
@@ -30814,22 +31089,242 @@ Si el atomizador no es plateado, la tapa es liviana o el batch code no se puede 
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Habik For Men EDP 100ml: precio y review",
-    metaDescription: "Lattafa Habik For Men EDP 100ml: oriental masculino del catálogo Lattafa. Precio en MercadoLibre Argentina, envío gratis y rating 5/5.",
-    ogTitle: "Lattafa Habik For Men 100ml — del catálogo Lattafa",
-    ogDescription: "Eau de parfum masculino del catálogo Lattafa con rating 5/5 en MercadoLibre Argentina.",
-    h1: "Lattafa Habik For Men: oriental masculino del catálogo Lattafa",
-    description: "Eau de parfum masculino del catálogo Lattafa, vendido a través de MercadoLibre Argentina con envío gratis y rating 5/5. Lanzamiento relativamente reciente — perfil olfativo aún en construcción en la comunidad.",
+
+    seoTitle: "Lattafa Habik For Men EDP 100ml: review y 253 reseñas reales",
+    metaDescription:
+      "Lattafa Habik For Men EDP 100ml: pirámide olfativa (cardamomo, canela, sándalo, ámbar), duración real vs oficial y análisis de 253 reseñas. Precio en MercadoLibre Argentina con envío gratis.",
+    ogTitle: "Lattafa Habik For Men — amaderado especiado con reseñas divididas",
+    ogDescription:
+      "Cardamomo, pimienta, canela, salvia, sándalo y ámbar. Rating 4.8 con 253 reseñas. Duración real: entre 2 y 8 horas según la piel.",
+    h1: "Lattafa Habik For Men — el amaderado especiado que divide opiniones",
+
+    description:
+      "Lattafa Habik For Men es un Eau de Parfum amaderado aromático especiado lanzado en 2025 (existe también una versión mujer de la misma línea). Salida de cardamomo, pimienta, abrótano y bergamota; corazón de lavanda, canela y salvia; fondo de haba tonka, sándalo, pachulí, almizcle y madera de ámbar. 253 reseñas en MercadoLibre con rating 4.8, aunque la duración reportada varía mucho de una piel a otra.",
+
     pros: [
-      "Envío gratis a todo el país",
-      "Rating 5/5 en MercadoLibre",
-      "Catálogo Lattafa — control de calidad consistente entre lotes",
+      "253 reseñas con rating 4.8: ya tiene volumen suficiente para confiar en el patrón, no es un lanzamiento sin datos",
+      "Perfil amaderado especiado (cardamomo, canela, salvia, pachulí, ámbar) poco común frente a los Lattafa más dulces o frutales del catálogo",
+      "El frasco y la caja se destacan en varias reseñas, incluso en la más tibia: un comprador mexicano que no amó el aroma igual dice \"la botella es muy linda\"",
+      "Testimonios de piel normal y clima fresco reportan más de 8 horas de fijación (reseña de Brasil)",
+      "Stock disponible (+50 unidades) y envío gratis a todo el país",
     ],
     cons: [
-      "Solo 100 unidades vendidas — comunidad de reviews chica para validar longevidad y sillage",
-      "Lanzamiento reciente — menos información pública que otros Lattafa más establecidos",
+      "La duración real varía muchísimo entre compradores: de 2-6 horas para algunos hasta 8+ horas para otros, contra las 12 horas que declara la ficha técnica de Lattafa",
+      "No es unánime: hay quien lo describe directamente como \"no muy bien\", comparándolo con un aroma de disfraz de Halloween",
+      "No es vegano, no es libre de crueldad y no es libre de alcohol según la ficha técnica de MercadoLibre",
+      "Mejor pensado para climas fríos, noches frescas o ambientes con aire acondicionado: en calor puede sentirse pesado",
     ],
-    verdict: "Si ya conocés el catálogo Lattafa y querés probar un lanzamiento más nuevo, este Habik puede ser interesante. Para un primer perfume árabe hombre, los referentes con más historia (Qaed Al Fursan, Emeer, Kingdom Man) tienen más reviews para confiarse.",
+    verdict:
+      "Un amaderado especiado con personalidad, no un fresco para todos los días. Si te gustan el cardamomo, la canela y el ámbar y usás perfume sobre todo de noche o en clima frío, Habik For Men cumple y las 253 reseñas con 4.8 respaldan la decisión. Si buscás algo más unánime o para clima cálido, conviene mirar otros Lattafa del catálogo con perfil más fresco.",
+
+    articleBody: `Lattafa Habik For Men es un lanzamiento de 2025 dentro del catálogo Lattafa, con una versión femenina hermana de la misma línea. A diferencia de los frescos-frutales o los orientales dulces que dominan el catálogo de la marca, Habik apuesta por un perfil amaderado aromático especiado: cardamomo y pimienta en la salida, canela y salvia en el corazón, sándalo y ámbar en el fondo. Con 253 calificaciones en Mercado Libre y rating 4.8, ya tiene volumen suficiente para sacar conclusiones reales, aunque sigue siendo un lote más chico que los grandes vendedores de Lattafa (Kingdom Man, Qaed Al Fursan, Emeer).
+
+## Pirámide olfativa: qué dice la ficha técnica y qué dice el fabricante
+
+La ficha técnica de MercadoLibre describe la salida como "fresca y vibrante con cardamomo, pimienta, abrótano y bergamota", el corazón como "aromático y especiado gracias a la lavanda, la canela y la salvia" y el fondo como "profundo y cálido con haba tonka, sándalo, pachulí, almizcle y amberwood". Esta pirámide coincide con la que publica Fragrantica para Habik For Men (cardamomo, pimienta, artemisia y bergamota en salida; lavanda, canela y salvia en corazón; haba tonka, sándalo, pachulí, almizcle y madera de ámbar en fondo), así que no hay discrepancia entre fuentes: es un amaderado aromático especiado, no un gourmand dulce.
+
+## Qué dicen las reseñas reales
+
+Las 253 reseñas no son unánimes, y eso es parte de la información útil. Del lado crítico, un comprador mexicano lo resume así: "huele bien pero no muy bien, huele a halloween man (morado) y la duración está entre 2 y 6 hrs en piel". Del lado positivo, un comprador argentino responde casi en la misma semana: "no entiendo la gente que dice que no huele bien, esto es una locura, es un asado pero dulzón y más especiado, un equilibrio perfecto". Otro comprador argentino lo describe como "muy masculino y rico, para noches de invierno u otoño", y agrega que a su entender se parece al ya discontinuado Jean Paul Gaultier Le Male Essence de Parfum. Un comprador brasileño con la reseña más detallada lo describe como "una fragancia de cuero, aterciopelada, dulce en su justa medida y bastante intensa, con una fijación de más de 8 horas y una proyección de 2 horas sin problemas", y recomienda usarla en climas suaves, nocturnos o con aire acondicionado.
+
+## Duración y proyección: la gran discrepancia
+
+Lattafa declara 12 horas de duración en la ficha técnica. Las reseñas reales muestran un rango mucho más amplio: desde 2-6 horas en piel seca y clima cálido hasta más de 8 horas de fijación en piel normal y clima fresco. Es una de las brechas más grandes entre dato oficial y experiencia real de todo el catálogo de perfumes árabes del sitio. La proyección, según el único dato concreto disponible (la reseña brasileña), es fuerte durante las primeras 2 horas y después se vuelve más íntima.
+
+## Cuándo usarlo
+
+El consenso de las reseñas apunta a otoño e invierno, o climas templados con aire acondicionado. Nadie lo recomienda para calor fuerte: la base especiada y ambarina se siente pesada en esas condiciones. Para uso nocturno y climas fríos, es donde mejor rinde según quienes lo valoraron con 5 estrellas.
+
+## Frasco y presentación
+
+El envase es uno de los puntos donde coinciden hasta las reseñas más críticas. El comprador mexicano que no quedó convencido con el aroma igual señala "la botella es muy linda, 10/10 en ese aspecto". El comprador brasileño más detallado suma: "el envase externo y el frasco son una verdadera maravilla". No incluye estuche según la ficha técnica.
+
+## Para quién es y para quién no
+
+**Es para vos si:** te gustan los amaderados especiados (cardamomo, canela, pachulí, ámbar) y no buscás algo dulce o frutal; usás perfume sobre todo de noche o en clima frío/otoño-invierno; te importa más el frasco y la presentación que tener un estuche; no te molesta que la duración real varíe según tu piel. **No es para vos si:** buscás algo unánime que le guste a todo el mundo (hay reseñas que lo describen como fuerte o poco agradable); vivís en clima cálido todo el año sin aire acondicionado; necesitás una fijación garantizada de más de 8 horas (la ficha promete 12h pero las reseñas reportan bastante menos en varios casos); buscás un perfume vegano o libre de alcohol.`,
+
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Habik" },
+      { label: "Versión", value: "For Men" },
+      { label: "Género", value: "Hombre" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Notas olfativas", value: "Abrótano, almizcle, bergamota, canela, cardamomo, haba tonka, lavanda, madera de ámbar, pachulí, pimienta, salvia, sándalo" },
+      { label: "Familia olfativa", value: "Aromático amaderado especiado" },
+      { label: "Duración aproximada (fabricante)", value: "12 horas" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2025" },
+      { label: "Libre de crueldad", value: "No" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
+    line: "Habik",
+    version: "For Men",
+    perfumeType: "Eau de Parfum",
+
+    olfactiveFamily: ["Aromático", "Amaderado", "Especiado"],
+    notes: {
+      top: ["Cardamomo", "Pimienta", "Abrótano", "Bergamota"],
+      heart: ["Lavanda", "Canela", "Salvia"],
+      base: ["Haba tonka", "Sándalo", "Pachulí", "Almizcle", "Madera de ámbar"],
+    },
+    notesDisclaimer:
+      "Pirámide confirmada de forma cruzada entre la ficha técnica de MercadoLibre y Fragrantica: ambas fuentes coinciden nota por nota, sin discrepancias.",
+
+    duration: "2 a 8 horas en piel según el tipo de piel de cada persona (rango amplio reportado en las reseñas)",
+    durationHours: 5,
+    durationOfficial: 12,
+    durationDisclaimer:
+      "Lattafa declara 12 horas de duración en la ficha técnica de MercadoLibre. Las reseñas reales muestran un rango mucho más amplio: desde 2-6 horas (piel seca, clima cálido) hasta más de 8 horas de fijación (piel normal, clima fresco). Es una de las brechas más grandes entre dato oficial y experiencia real del catálogo.",
+
+    projection: "Media",
+    projectionNote:
+      "Único dato concreto disponible en las reseñas: un comprador brasileño reporta 'una fijación de más de 8 horas y una proyección de 2 horas sin problemas', recomendando climas suaves, nocturnos o con aire acondicionado.",
+
+    bestSeason: ["Otoño", "Invierno", "Noches frescas"],
+    bestOccasion: ["Uso nocturno", "Climas fríos o con aire acondicionado", "Salidas de otoño-invierno"],
+    notRecommendedFor: ["Climas cálidos o tropicales sin aire acondicionado (según reseñas)", "Quien busca un aroma unánime y suave (el perfil es fuerte y divide opiniones)", "Quien necesita certeza de fijación superior a 8 horas"],
+
+    crueltyFree: false,
+    vegan: false,
+    alcoholFree: false,
+    includesCase: false,
+
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2025,
+
+    aiReviewSummary:
+      "Las reseñas están divididas de forma honesta: para una parte de los compradores es un amaderado especiado equilibrado, con buena fijación y un frasco muy valorado; para otra parte el aroma resulta fuerte o poco agradable, y la duración en piel queda muy por debajo de las 12 horas que promete la marca. El punto de acuerdo entre las reseñas positivas y las más críticas es el envase: hasta quien no amó el perfume elogia la botella.",
+
+    comparedTo: [
+      {
+        name: "Jean Paul Gaultier Le Male Essence de Parfum (discontinuado)",
+        similarity:
+          "Un comprador argentino lo describe como parecido al ya discontinuado Le Male Essence de Parfum de JPG. Es la única comparación con fundamento en las reseñas disponibles: se menciona una sola vez, no es un consenso mayoritario.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 4,
+        country: "México",
+        date: "2026-02-10",
+        text: "Duración: huele bien pero no muy bien, huele a halloween man (morado) y la duración está entre 2 y 6 hrs en piel, en ropa dura más. Envase: la botella es muy linda, pero en mi opinión no lo volvería a comprar. No es la gran cosa.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2026-02-20",
+        text: "Duración: normal. Envase: 10/10. No entiendo la gente que dice que no huele bien, esto es una locura. Para resumir es un asado pero dulzón y más especiado, un equilibrio perfecto.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025-12-15",
+        text: "Muy masculino y rico. Para noches de invierno otoño, aunque primaveras frescas va como trompada. Dicen que se parece al discontinuado Le Male Essence de Parfum de JPG.",
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "2026-05-05",
+        text: "Producto original. Es una fragancia de cuero, aterciopelada, dulce en su justa medida y bastante intensa, con una fijación de más de 8 horas y una proyección de 2 horas sin problemas. Recomiendo usarla en climas más suaves, nocturnos o con aire acondicionado. El envase externo y el frasco son una verdadera maravilla.",
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Cuál es la pirámide olfativa real de Lattafa Habik For Men?",
+        answer:
+          "Salida de cardamomo, pimienta, abrótano y bergamota; corazón de lavanda, canela y salvia; fondo de haba tonka, sándalo, pachulí, almizcle y madera de ámbar. Esta pirámide coincide entre la ficha técnica de MercadoLibre y Fragrantica, sin discrepancias entre fuentes.",
+      },
+      {
+        question: "¿Cuánto dura realmente en piel?",
+        answer:
+          "Lattafa declara 12 horas en la ficha técnica, pero las reseñas reales muestran un rango mucho más amplio: desde 2-6 horas en piel seca y clima cálido hasta más de 8 horas de fijación en piel normal y clima fresco. Es de los perfumes del catálogo con mayor variación reportada entre compradores.",
+      },
+      {
+        question: "¿Es vegano o libre de crueldad?",
+        answer: "No a ambos. Tampoco es libre de alcohol, según la ficha técnica de MercadoLibre.",
+      },
+      {
+        question: "¿Para qué clima y ocasión conviene usarlo?",
+        answer:
+          "El consenso de las reseñas apunta a otoño, invierno y noches frescas, o climas templados con aire acondicionado. En calor fuerte la base especiada y ambarina puede sentirse pesada.",
+      },
+      {
+        question: "¿Se parece a algún perfume conocido?",
+        answer:
+          "Un comprador argentino lo compara con el ya discontinuado Jean Paul Gaultier Le Male Essence de Parfum. Es una sola mención en las reseñas disponibles, no un consenso mayoritario, así que conviene tomarlo como una opinión más que como un dupe confirmado.",
+      },
+      {
+        question: "¿Vale la pena con 253 reseñas?",
+        answer:
+          "253 reseñas es un volumen razonable para sacar conclusiones (y el rating de 4.8 se mantiene estable), aunque sigue siendo una muestra más chica que la de los grandes vendedores de Lattafa como Kingdom Man o Qaed Al Fursan, que tienen miles. Al ser un lanzamiento de 2025, es esperable que la comunidad de reseñas siga creciendo.",
+      },
+      {
+        question: "¿Incluye estuche o es recargable?",
+        answer: "No a ambos, según la ficha técnica de MercadoLibre.",
+      },
+      {
+        question: "¿Hay stock disponible?",
+        answer: "Sí, más de 50 unidades disponibles al momento de la consulta, con envío gratis a todo el país.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Lattafa Habik For Men EDP 100ml",
+      description:
+        "Eau de Parfum amaderado aromático especiado masculino. Salida de cardamomo, pimienta, abrótano y bergamota; corazón de lavanda, canela y salvia; fondo de haba tonka, sándalo, pachulí, almizcle y madera de ámbar. Lanzamiento 2025 del catálogo Lattafa. 253 reseñas con rating 4.8.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2025",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "253",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "4", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en México" },
+          datePublished: "2026-02-10",
+          reviewBody:
+            "Huele bien pero no muy bien, la duración está entre 2 y 6 hrs en piel. La botella es muy linda.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en Brasil" },
+          datePublished: "2026-05-05",
+          reviewBody:
+            "Fragancia de cuero, aterciopelada, dulce en su justa medida y bastante intensa, con fijación de más de 8 horas.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/1qWX1xU",
+        priceCurrency: "ARS",
+        price: "59999",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA22234109", "MLA41178086", "MLA28754461", "MLA16122300"],
   },
   {
     id: "MLA29077943",
@@ -30855,46 +31350,237 @@ Si el atomizador no es plateado, la tapa es liviana o el batch code no se puede 
     affiliateUrl: "https://meli.la/2Vzf4eN",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 170,
+    rating: 4.8,
+    reviewCount: 1531,
     reviewsSampledAt: "2026-06-10",
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Oriental especiado amaderado"],
+    olfactiveFamily: ["Amaderado oriental"],
     notes: {
-      top: ["Cardamomo", "Salvia", "Bergamota"],
-      heart: ["Rosa", "Ámbar gris", "Cuero"],
-      base: ["Oud", "Almizcle", "Sándalo"],
+      top: ["Lavanda", "Salvia", "Bergamota"],
+      heart: ["Ciruela", "Palo santo", "Pimienta negra"],
+      base: ["Sándalo", "Oud"],
     },
-    gender: "Hombre",
+    notesDisclaimer:
+      "La ficha técnica de MercadoLibre lista las notas de forma plana (limón, bergamota, lavanda, salvia, pimienta, sándalo) y la familia 'Amaderado'. Fragrantica publica la pirámide completa del lanzamiento 2023 (tope: lavanda, salvia, bergamota; corazón: ciruela, palo santo, pimienta negra; fondo: sándalo, oud), consistente con la lista de ML salvo por el oud y el palo santo, que ML no menciona. Usamos la pirámide de Fragrantica por ser la más completa y corregimos el intento anterior, que tenía cardamomo, rosa y cuero, notas que no aparecen en ninguna fuente para este perfume (parecen mezcladas de otra ficha).",
+    gender: "Unisex",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
     seoTitle: "Lattafa Pride Vintage Radio EDP 100ml: review collector",
-    metaDescription: "Análisis del Lattafa Pride Vintage Radio EDP 100ml: oriental con cardamomo y oud en frasco con forma de radio vintage. Edición distintiva del catálogo Pride.",
+    metaDescription: "Análisis del Lattafa Pride Vintage Radio EDP 100ml: amaderado oriental unisex con lavanda, palo santo y oud, en frasco con forma de radio vintage. Rating 4.8 con 1.531 reseñas.",
     ogTitle: "Lattafa Pride Vintage Radio 100ml — el oriental con frasco de radio vintage",
-    ogDescription: "Cardamomo y salvia arriba, corazón de rosa y cuero, fondo de oud y sándalo. Frasco con forma de radio vintage — pieza distintiva del catálogo Pride.",
+    ogDescription: "Lavanda, salvia y bergamota arriba; ciruela, palo santo y pimienta negra en el corazón; sándalo y oud de fondo. Frasco con forma de radio vintage, pieza distintiva del catálogo Pride. Ficha técnica: sin género.",
     h1: "Lattafa Pride Vintage Radio: el oriental en frasco de radio vintage",
-    description: "Eau de parfum oriental especiado amaderado para hombre con apertura de cardamomo, salvia y bergamota, corazón floral-cuero de rosa y ámbar gris, y fondo amaderado de oud, almizcle y sándalo. Presentación con frasco en forma de radio vintage.",
+    description: "Eau de parfum amaderado oriental, catalogado como sin género en la ficha técnica de MercadoLibre, con apertura de lavanda, salvia y bergamota, corazón de ciruela, palo santo y pimienta negra, y fondo de sándalo y oud. Presentación con frasco en forma de radio vintage, coleccionable.",
     pros: [
-      "Frasco con forma de radio vintage — pieza distintiva, buena para regalo o colección",
-      "Combinación cardamomo + oud + cuero al precio sub-$70.000",
-      "Posicionamiento collector — diferencia visualmente del resto del catálogo árabe",
-      "Longevidad de 8-10 horas",
+      "Frasco con forma de radio vintage, pieza distintiva, buena para regalo o colección",
+      "1.531 reseñas con rating 4.8 en MercadoLibre, buen volumen de validación real",
+      "Combinación lavanda + palo santo + oud + sándalo a precio sub-$70.000",
+      "Libre de crueldad",
       "Envío gratis",
     ],
     cons: [
-      "Lo distintivo está más en el frasco que en la fragancia — el contenido es similar a otros oud-cardamomo del catálogo Lattafa",
-      "El frasco ocupa más espacio que un EDP convencional",
-      "500 unidades vendidas — comunidad de reviews más chica",
+      "Duración real de 5 a 6 horas según reseñas y ficha técnica, no las 8-10 horas que se estimaban antes",
+      "Proyección fuerte que puede resultar invasiva en espacios cerrados (una reseña lo desaconseja para el gimnasio)",
+      "Catalogado 'sin género' en la ficha, pero el carácter dulce del corazón hace que algunos compradores lo perciban como más femenino que lo que promete la venta como perfume de hombre",
+      "El frasco ocupa más espacio y es más frágil que un EDP convencional",
+      "No es vegano ni libre de alcohol",
     ],
-    verdict: "Si te interesan los frascos de colección o querés un perfume árabe distintivo en presentación, el Vintage Radio es el más visualmente memorable del catálogo. Para uso diario es overkill por el frasco; para colección o regalo, es la elección obvia. Fragancia: oriental amaderado convencional, sin sorpresas para quien ya conoce la línea Pride.",
+    verdict: "Si te interesan los frascos de colección o querés un perfume árabe distintivo en presentación, el Vintage Radio es de los más memorables visualmente del catálogo Lattafa Pride. La ficha técnica de MercadoLibre lo cataloga como sin género: se suele vender como masculino, pero el corazón dulce (ciruela, palo santo) hace que varios compradores lo sientan más femenino. La duración real ronda las 5-6 horas según reseñas y ficha técnica, no las 8-10 horas que se estimaban antes. Para colección o regalo funciona bien; si buscás la mejor relación duración-precio en amaderado oriental, el Qaed Al Fursan sigue siendo mejor opción.",
     bestSeason: ["Otoño", "Invierno"],
     bestOccasion: ["Salidas nocturnas", "Cenas", "Regalo"],
-    notRecommendedFor: ["Verano", "Quien busca el mejor precio-fragancia (mejor el Qaed Al Fursan)"],
-    duration: "8-10 horas",
-    durationHours: 9,
+    notRecommendedFor: [
+      "Verano",
+      "Espacios cerrados como el gimnasio (proyección fuerte, según reseñas)",
+      "Quien busca un perfume marcadamente masculino (es unisex y el corazón dulce se percibe como femenino en varias reseñas)",
+      "Quien busca el mejor precio-fragancia (mejor el Qaed Al Fursan)",
+    ],
+    duration: "5-6 horas",
+    durationHours: 6,
+    durationOfficial: 6,
+    durationDisclaimer:
+      "La ficha técnica de MercadoLibre indica 6 horas de duración aproximada. Las reseñas reales coinciden: una compradora reporta '5 o 6 horas', otra dice que 'dura bastante' sin precisar. Esto corrige la estimación previa de 8-10 horas, que no tenía respaldo en datos reales.",
     projection: "Media-alta",
+    projectionNote:
+      "Una reseña describe que 'olía mucho y a distancia' y no lo recomienda para espacios cerrados como el gimnasio. Proyección fuerte durante las primeras horas, acorde a una duración corta en piel.",
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    refillable: false,
+    includesCase: false,
+    isSet: false,
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2023,
+    line: "Pride",
+    perfumeType: "Eau de Parfum",
+
+    aiReviewSummary:
+      "Las reseñas coinciden en una duración de 5 a 6 horas y una proyección fuerte al aplicarlo, con recomendaciones de usarlo en climas fríos y ocasiones formales antes que en espacios cerrados o de entrenamiento. Al menos una reseña describe el aroma como dulce y con un carácter que percibe como femenino, pese a que suele venderse como perfume de hombre. La ficha técnica de MercadoLibre lo cataloga oficialmente como sin género.",
+
+    articleBody: `Vintage Radio es una de las piezas más reconocibles del catálogo Lattafa Pride, la línea de la marca que apuesta a frascos con formas poco convencionales antes que a fórmulas exclusivas. Con 1.531 reseñas y rating 4.8 en MercadoLibre, tiene volumen real de validación, algo que no todos los lanzamientos Pride logran.
+
+La ficha técnica de MercadoLibre lo cataloga como amaderado oriental, "sin género", lanzado en 2023. Fragrantica confirma esos mismos datos con una pirámide más completa: tope de lavanda, salvia y bergamota; corazón de ciruela, palo santo y pimienta negra; fondo de sándalo y oud.
+
+## El frasco: la verdadera estrella de Vintage Radio
+
+El diferencial de este perfume no está en la fórmula, está en la presentación. El frasco tiene forma de radio vintage, con perillas y detalles que simulan un aparato antiguo. Es la razón por la que se vende como pieza de colección o de regalo más que como perfume de uso diario: ocupa más espacio que un EDP convencional y, por el diseño con partes salientes, es más frágil de transportar o guardar.
+
+## ¿Es realmente unisex?
+
+La ficha técnica de MercadoLibre dice explícitamente "Género: sin género". Fragrantica lo lista igual, como fragancia para mujeres y hombres. En la práctica se vende y se regala mayormente como perfume de hombre, pero al menos una reseña marca la contradicción: "el aroma es algo femenino y muy dulce a mi parecer, pero en duración dura bastante" (4 de 5, México). Vale tenerlo en cuenta antes de regalarlo dando por sentado que es "de hombre": el corazón dulce (ciruela, palo santo) puede leerse distinto según quien lo use.
+
+## Duración y proyección real
+
+La ficha de MercadoLibre indica 6 horas de duración aproximada. Las reseñas van en la misma línea: "tiene una duración como de unas 5 o 6 horas" (5 de 5, México), y agrega un dato importante sobre la proyección: "mi familia me dijo que olía mucho y a distancia, este perfume no es fresco, de hecho no lo recomiendo para usar en espacios cerrados como el gimnasio". Esto corrige la estimación previa de 8-10 horas que tenía esta ficha, que no estaba respaldada por datos reales.
+
+En resumen: proyección fuerte en las primeras horas, duración corta (5-6 horas), mejor pensado para climas fríos y ocasiones puntuales que para el uso diario en oficina o gimnasio.
+
+## Cuándo usarlo
+
+Las reseñas coinciden en que rinde mejor en climas fríos: "el olor es muy rico justo para climas fríos, citas, eventos, es algo formal, pero que puedes llevar al diario con sus excepciones" y "una buena presentación y un buen aroma, ideal para temporada de invierno". Otoño e invierno son las estaciones donde mejor funciona; salidas nocturnas, cenas y ocasiones semi-formales son el terreno donde más rinde.
+
+## Para quién es y para quién no
+
+**Es para vos si:** te interesan los frascos de colección o buscás un regalo distintivo dentro del catálogo árabe; usás perfume sobre todo en otoño e invierno; no te molesta un perfil dulce-amaderado que algunos describen como más femenino que masculino; tu presupuesto está debajo de los $70.000.
+
+**No es para vos si:** buscás la mejor relación duración-precio en amaderado oriental (mejor el Qaed Al Fursan); necesitás un perfume de larga duración para el día completo; lo vas a usar en espacios cerrados como gimnasio u oficina chica, donde la proyección fuerte puede resultar invasiva; buscás algo marcadamente masculino sin ambigüedad de género.`,
+
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Pride" },
+      { label: "Nombre del perfume", value: "Vintage Radio" },
+      { label: "Tipo", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género", value: "Sin género (unisex)" },
+      { label: "Familia olfativa", value: "Amaderado oriental" },
+      { label: "Duración aproximada", value: "6 horas (ficha ML); 5-6 horas según reseñas" },
+      { label: "Proyección", value: "Media-alta, fuerte en espacios cerrados según reseñas" },
+      { label: "Estación ideal", value: "Otoño, invierno" },
+      { label: "Ocasión recomendada", value: "Salidas nocturnas, cenas, regalo, colección" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2023" },
+      { label: "Es recargable", value: "No" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Formato de aplicación", value: "Spray" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Es set", value: "No" },
+    ],
+
+    faq: [
+      {
+        question: "¿Vintage Radio de Lattafa Pride es para hombre o para mujer?",
+        answer:
+          "La ficha técnica de MercadoLibre lo cataloga oficialmente como 'sin género' (unisex), y Fragrantica lo confirma como fragancia para hombres y mujeres. En la práctica se vende mayormente como perfume de hombre, pero al menos una reseña señala que el aroma le resulta 'algo femenino y muy dulce'. Si es un regalo, vale la pena tener en cuenta esa ambigüedad.",
+      },
+      {
+        question: "¿Cuánto dura realmente?",
+        answer:
+          "La ficha técnica de MercadoLibre indica 6 horas aproximadas, y las reseñas coinciden: una compradora reporta '5 o 6 horas'. Esto corrige una estimación previa de 8-10 horas que no tenía respaldo real. Es un perfume de duración corta comparado con otros del catálogo Lattafa.",
+      },
+      {
+        question: "¿Por qué el frasco tiene forma de radio?",
+        answer:
+          "Es parte de la estrategia de la línea Lattafa Pride, que suele presentar sus lanzamientos en frascos con formas poco convencionales para diferenciarse visualmente del resto del catálogo árabe. No hay información oficial que explique el porqué específico del diseño 'radio vintage', pero es consistente con esa lógica de coleccionable.",
+      },
+      {
+        question: "¿Cuáles son las notas reales de este perfume?",
+        answer:
+          "Según Fragrantica: tope de lavanda, salvia y bergamota; corazón de ciruela, palo santo y pimienta negra; fondo de sándalo y oud. La ficha técnica de MercadoLibre lista una versión simplificada (limón, bergamota, lavanda, salvia, pimienta, sándalo) que coincide en casi todo salvo el oud y el palo santo. La familia olfativa es amaderado oriental.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad?",
+        answer:
+          "Es libre de crueldad según la ficha técnica de MercadoLibre, pero no es vegano ni libre de alcohol. Tampoco es recargable ni viene con estuche.",
+      },
+      {
+        question: "¿Para qué estación funciona mejor?",
+        answer:
+          "Otoño e invierno, según el consenso de las reseñas: 'ideal para temporada de invierno' y 'muy rico justo para climas fríos'. No es un perfume fresco, por lo que en verano o espacios cerrados como el gimnasio puede resultar invasivo.",
+      },
+      {
+        question: "¿Se puede confiar en el rating?",
+        answer:
+          "Tiene 1.531 reseñas con rating 4.8 en MercadoLibre, un volumen sólido para un lanzamiento Pride de 2023. Es mayor validación que la de otros lanzamientos recientes de Lattafa que todavía están construyendo su historial de reseñas.",
+      },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-08-15",
+        text: "Wow con este perfume, por el precio global tiene una duración como de unas 5 o 6 horas, por ahí poco más poco menos. El olor es riquísimo, la estela es buena. Mi familia me dijo que olía mucho y a distancia. Este perfume no es fresco, no lo recomiendo para espacios cerrados como el gimnasio. El olor es rico justo para climas fríos, citas, eventos, algo formal, pero que se puede llevar al diario con sus excepciones.",
+      },
+      {
+        rating: 4,
+        country: "México",
+        date: "2025-07-05",
+        text: "El aroma es algo femenino y muy dulce a mi parecer, pero en duración dura bastante.",
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2025-06-20",
+        text: "Perfecto. Huele igual que el decant que compré. Todo parece original.",
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "2025-04-01",
+        text: "Perfume de excelente calidad, duración y proyección. Vale cada rocío.",
+      },
+    ],
+
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Perfume Vintage Radio Lattafa Pride 100 Ml",
+      description:
+        "Eau de Parfum amaderado oriental, catalogado como sin género. Apertura de lavanda, salvia y bergamota; corazón de ciruela, palo santo y pimienta negra; fondo de sándalo y oud. Frasco con forma de radio vintage, pieza coleccionable de la línea Lattafa Pride. 1.531 reseñas con rating 4.8.",
+      brand: { "@type": "Brand", name: "Lattafa" },
+      category: "Perfume / Eau de Parfum",
+      countryOfOrigin: "Emiratos Árabes Unidos",
+      releaseDate: "2023",
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "1531",
+        bestRating: "5",
+        worstRating: "1",
+      },
+      review: [
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "5", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en México" },
+          datePublished: "2025-08-15",
+          reviewBody:
+            "Duración de 5 o 6 horas, olor riquísimo y buena estela. No recomendado para espacios cerrados como el gimnasio.",
+        },
+        {
+          "@type": "Review",
+          reviewRating: { "@type": "Rating", ratingValue: "4", bestRating: "5" },
+          author: { "@type": "Person", name: "Comprador en México" },
+          datePublished: "2025-07-05",
+          reviewBody: "El aroma es algo femenino y muy dulce a mi parecer, pero en duración dura bastante.",
+        },
+      ],
+      offers: {
+        "@type": "Offer",
+        url: "https://meli.la/2Vzf4eN",
+        priceCurrency: "ARS",
+        price: "61700",
+        priceValidUntil: "2026-12-31",
+        availability: "https://schema.org/InStock",
+        seller: { "@type": "Organization", name: "MercadoLibre Argentina" },
+      },
+    },
+
+    relatedProducts: ["MLA22234109", "MLA25883660", "MLA32488004", "MLA41178086"],
   },
   {
     id: "MLA60836327",
@@ -31143,6 +31829,7 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
   {
     id: "MLA41306043",
     title: "Perfume Rasasi Hawas Black 100ml Eau De Parfum Aromático Frutal Unisex",
+    canonicalName: "Rasasi Hawas Black EDP 100ml",
     brand: "Rasasi",
     price: 76433,
     priceUpdated: "2026-07-08",
@@ -31164,50 +31851,215 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     affiliateUrl: "https://meli.la/2T9ofP2",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 230,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.8,
+    reviewCount: 3464,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Aromática frutal amaderada"],
+    olfactiveFamily: ["Aromática frutal", "Amaderada"],
     notes: {
-      top: ["Bergamota", "Manzana", "Naranja amarga"],
-      heart: ["Pimienta rosa", "Jengibre", "Ámbar gris"],
-      base: ["Pachulí", "Almizcle", "Maderas oscuras"],
+      top: ["Piña", "Bergamota", "Toronja"],
+      heart: ["Pachulí", "Cedro", "Jazmín"],
+      base: ["Musgo de roble", "Maderas", "Ámbar"],
     },
+    notesDisclaimer:
+      "Pirámide confirmada por Fragrantica y por la ficha técnica de Rasasi en Mercado Libre, que coinciden nota por nota. La ficha de ML clasifica además la familia olfativa como 'aromático, frutal, oriental, cítrico', más amplia que la etiqueta 'aromática frutal' de Fragrantica, pero sin contradecirla.",
     gender: "Unisex",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
     seoTitle: "Rasasi Hawas Black 100ml: review y precio Argentina",
-    metaDescription: "Análisis del Rasasi Hawas Black EDP 100ml: la versión más oscura del Hawas clásico. Notas, longevidad, sillage y precio actualizado en MercadoLibre Argentina.",
-    ogTitle: "Rasasi Hawas Black 100ml — el Hawas con más profundidad y menos azul",
-    ogDescription: "Frutal-amaderado con manzana y bergamota arriba, fondo de pachulí y maderas. Para quien quiere la firma Hawas pero más serio.",
-    h1: "Rasasi Hawas Black: la variante más oscura del Hawas que se animó al pachulí",
-    description: "Eau de parfum aromático-frutal unisex con notas de manzana, bergamota y naranja amarga en la salida, especiado de pimienta rosa y jengibre, y un fondo amaderado de pachulí y almizcle.",
+    metaDescription: "Análisis del Rasasi Hawas Black EDP 100ml con datos reales: notas confirmadas, rating 4,8 en 3.464 reseñas y si es unisex de verdad. Precio actualizado en Argentina.",
+    ogTitle: "Rasasi Hawas Black 100ml: aromático frutal con fondo de pachulí y maderas",
+    ogDescription: "Piña, bergamota y toronja arriba; pachulí, cedro y jazmín en el medio; musgo de roble y ámbar de fondo. Rating 4,8 en más de 3.400 reseñas, aunque no es tan unisex como dice el título.",
+    h1: "Rasasi Hawas Black 100ml: review con datos reales y reseñas",
+    description: "Eau de parfum aromático frutal con apertura de piña, bergamota y toronja, corazón de pachulí, cedro y jazmín, y fondo de musgo de roble y ámbar. Se vende como unisex, aunque la ficha técnica de Mercado Libre lo clasifica como perfume de hombre y las reseñas lo describen como un aroma maduro.",
     pros: [
-      "Más serio y nocturno que el Hawas original — menos cítrico, más profundo",
-      "Longevidad de 7-9 horas reportada por compradores",
-      "Versátil para hombre y mujer — la firma frutal-amaderada es unisex real",
-      "Sillage moderado-alto las primeras horas",
-      "Envío gratis y rating 5/5 con +1.000 unidades vendidas",
+      "Notas confirmadas por Fragrantica y por la ficha técnica de Rasasi en Mercado Libre: piña, bergamota y toronja arriba, pachulí, cedro y jazmín en el medio, musgo de roble y ámbar de fondo.",
+      "Rating muy alto con volumen real: 4,8 sobre 3.464 reseñas, de los más consistentes del catálogo de perfumes árabes.",
+      "Proyección fuerte, se nota en la ropa y en quien tenés cerca según varias reseñas.",
+      "Varios compradores lo comparan directo con Club de Nuit Intense de Armaf y con Hacivat, y lo encuentran muy similar en el registro cítrico-amaderado.",
+      "Incluye estuche y trae un sello con código para verificar autenticidad en el sitio de Rasasi.",
     ],
     cons: [
-      "El parecido con Aventus que tiene el Hawas clásico se nota menos acá",
-      "Pachulí y maderas oscuras pueden resultar fuertes para piel sensible",
-      "Frasco de 100ml sin opciones de tamaño menor — compra de compromiso",
+      "Se vende como unisex, pero la propia ficha de Mercado Libre lo clasifica como Género: Hombre y las reseñas lo describen como un perfume de hombre maduro. No es el unisex parejo que promete el título.",
+      "La duración real es más variable que la declarada: la ficha indica 8 horas, pero al menos una reseña detallada reporta unas 5 horas de percepción propia en piel.",
+      "Reseñas advierten que puede sentirse demasiado maduro para menores de 30 años. Conviene probarlo antes si es tu primer perfume árabe.",
+      "Solo viene en 100ml, sin opción de frasco chico para probar antes de comprar el tamaño completo.",
     ],
-    verdict: "Si ya conocés y te gusta el Hawas pero querés algo con más cuerpo para tarde-noche, este Black es la elección obvia. Para alguien que arranca con perfumes árabes, el Hawas original o un Lattafa son más amables — el Black requiere algo de tolerancia al pachulí.",
-    bestSeason: ["Otoño", "Invierno"],
-    bestOccasion: ["Salidas nocturnas", "Reuniones formales", "Citas"],
-    notRecommendedFor: ["Verano caluroso", "Oficinas con código olfativo restrictivo"],
-    duration: "7-9 horas",
-    durationHours: 8,
-    projection: "Media-alta",
+    verdict: "A $76.433 por 100ml, con 4,8 de rating en 3.464 reseñas, Hawas Black es de los perfumes árabes con más volumen de opiniones reales del catálogo. Cumple si buscás un aromático frutal con fondo serio de pachulí, parecido al Club de Nuit Intense o al Hacivat. Ojo con el rótulo unisex: la propia ficha de Mercado Libre lo marca como perfume de hombre y las reseñas lo describen como un aroma de hombre maduro, así que si buscás algo realmente parejo para cualquier género, conviene probarlo antes.",
+    bestSeason: ["Otoño", "Invierno", "Noches de verano"],
+    bestOccasion: ["Salidas nocturnas", "Citas", "Eventos formales"],
+    notRecommendedFor: ["Uso diurno de oficina", "Primer perfume árabe sin probarlo antes", "Menores de 30 según varias reseñas"],
+    duration: "5 a 8 horas en piel, según cada persona",
+    durationHours: 6,
+    durationOfficial: 8,
+    durationDisclaimer:
+      "La ficha indica 8 horas oficiales. Las reseñas reales muestran más variación: un comprador detalla unas 5 horas de percepción propia en piel, aunque aclara que el aroma se sigue notando más tiempo para quien está cerca o lo abraza. No hay suficientes reportes de duración exacta como para asumir que las 8 horas son el estándar para todos.",
+    projection: "Alta",
+    projectionNote:
+      "Varias reseñas describen una proyección fuerte desde la primera aplicación. Con el perfil pachulí-amaderado maduro, conviene arrancar con 1-2 sprays si no estás acostumbrado a perfumes árabes intensos.",
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    includesCase: true,
+    isSet: false,
+    refillable: false,
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2024,
+    comparedTo: [
+      {
+        name: "Armaf Club de Nuit Intense Man (MLA16122300)",
+        similarity:
+          "Comparten el arranque cítrico con piña. Una reseña que probó ambos dice que Hawas Black arranca parecido pero evoluciona hacia un fondo más amaderado y con más pachulí que el Club de Nuit.",
+      },
+      {
+        name: "Hacivat (no está en el catálogo)",
+        similarity:
+          "Una reseña que tiene ambos frascos los describe como muy confundibles, con una diferencia leve: Hawas Black es más herbáceo y Hacivat más musgoso.",
+      },
+    ],
+    aiReviewSummary:
+      "Los compradores destacan la proyección fuerte y el fondo amaderado-pachulí, y lo comparan seguido con Club de Nuit Intense y con Hacivat. El punto de fricción es el género: se vende como unisex pero varias reseñas y la propia ficha técnica lo describen como un perfume de hombre maduro, no recomendado para menores de 30.",
+
+    articleBody: `Hawas Black es la versión 2024 de la línea Hawas de Rasasi, la casa emiratí conocida por perfumes árabes que buscan parecerse a fragancias caras a una fracción del precio. Esta variante suma pachulí y musgo de roble al ADN cítrico-frutal de la línea, apuntando a un perfil más serio para la noche. En Mercado Libre Argentina acumula 4,8 de rating sobre 3.464 reseñas, uno de los volúmenes de opiniones más altos de todo el catálogo de perfumes árabes.
+
+## ¿Es tan unisex como dice el título?
+
+No del todo. La publicación lo vende como unisex, pero la propia ficha técnica de Mercado Libre lo clasifica en el campo Género como Hombre. Las reseñas confirman esa lectura: varios compradores lo describen directamente como perfume de hombre maduro y remarcan que no es para menores de 30.
+
+Eso no significa que las mujeres lo rechacen. Una reseña de Argentina cuenta que su pareja reaccionó fuerte apenas se lo puso, pidiéndole que se lo aplicara de nuevo. Pero es una reacción a olerlo en un hombre, no un reporte de mujeres usándolo ellas mismas. Si buscás un unisex parejo, en el sentido de que lo usen indistintamente hombres y mujeres, este no es el caso más claro del catálogo.
+
+## Las notas reales: qué dice Rasasi (y qué dice Mercado Libre)
+
+Fragrantica y la ficha técnica de ML coinciden en la misma pirámide:
+
+- **Salida:** piña, bergamota y toronja.
+- **Corazón:** pachulí, cedro y jazmín.
+- **Fondo:** musgo de roble, maderas y ámbar.
+
+La familia olfativa es aromática frutal con fondo amaderado, lo que en la práctica se traduce en un perfume que arranca fresco y cítrico y termina serio y terroso. La ficha de ML también lo etiqueta como oriental y cítrico en la lista de familias, algo más amplio que la clasificación de Fragrantica, pero no contradictorio.
+
+## Duración y proyección: lo que dicen los compradores (no solo la ficha)
+
+La ficha declara 8 horas de duración. Las reseñas muestran más variación que eso. Una reseña detallada cuenta que en su propia piel el aroma le dura en promedio unas 5 horas, aunque aclara que otras personas lo siguen percibiendo más tiempo cuando lo abrazan o están cerca. Esa diferencia entre lo que sentís vos mismo y lo que perciben los demás es normal en perfumería, no un defecto del producto.
+
+La proyección, en cambio, aparece consistentemente fuerte en varias reseñas: desde la reacción inmediata de la pareja de un comprador hasta descripciones de que proyecta mucho y es bastante fuerte. Con ese perfil, conviene arrancar con 1-2 sprays si no estás acostumbrado a perfumes árabes intensos.
+
+## ¿Se parece a Club de Nuit o a Hacivat?
+
+Son las dos comparaciones que más se repiten entre compradores que ya tienen otros perfumes árabes. Una reseña que probó ambos frascos describe a Hawas Black y a Hacivat como muy confundibles, con una diferencia leve en los tonos: Hawas más herbáceo, Hacivat más musgoso.
+
+Otro comprador lo compara con [Armaf Club de Nuit Intense Man](/producto/armaf-club-de-nuit-intense-man-edp-200ml-mla16122300): al principio recuerda al Club de Nuit, cítrico con piña, pero evoluciona hacia algo amaderado. Si ya tenés el Club de Nuit y buscás algo con la misma base pero más volcado al pachulí, Hawas Black cubre ese hueco. Si preferís quedarte en un registro más cítrico sin tanto pachulí, otras opciones de Rasasi como [Hawas Ice](/producto/rasasi-hawas-ice-edp-100ml-hombre-mla29780185) o alternativas más especiadas como [Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215) están en la misma repisa del catálogo. Para un panorama más amplio de la categoría, la [guía de perfumes árabes en Argentina](/guias/perfumes-arabes) compara precios y familias olfativas entre marcas.
+
+## Cómo verificar que sea original
+
+Una reseña detallada describe el proceso: la caja trae un sello que se raspa con la uña, revela un código, y ese código se carga en el sitio oficial de Rasasi (accesible también vía QR) para confirmar autenticidad. Si tu unidad no trae ese sello o el código no valida en el sitio de Rasasi, es una señal de alerta.
+
+## Para quién es y para quién no
+
+Es para vos si: ya usás perfumes árabes y buscás algo con fondo serio de pachulí y maderas para la noche; te gusta el registro de Club de Nuit pero querés variar; tenés más de 30 años o no te molesta un perfume que se lee maduro; buscás volumen real de opiniones antes de comprar, con 3.464 reseñas y 4,8 de rating. No es para vos si: buscás un unisex parejo en el sentido literal, ya que la propia ficha lo marca como perfume de hombre; es tu primer perfume árabe y preferís algo más amable para arrancar; necesitás una duración de 8 horas garantizada en piel sin variación; querés probar un frasco chico antes de comprometerte con 100ml.`,
+
+    specs: [
+      { label: "Marca", value: "Rasasi" },
+      { label: "Línea", value: "Hawas" },
+      { label: "Versión", value: "Black" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Género (ficha ML)", value: "Hombre (se vende como unisex en el título)" },
+      { label: "Familia olfativa", value: "Aromática frutal amaderada (ML suma oriental y cítrica)" },
+      { label: "Notas de salida", value: "Piña, bergamota, toronja" },
+      { label: "Notas de corazón", value: "Pachulí, cedro, jazmín" },
+      { label: "Notas de fondo", value: "Musgo de roble, maderas, ámbar" },
+      { label: "Duración declarada", value: "8 horas" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2024" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "Sí" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Legajo (Res. 155/98)", value: "354678" },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "enero 2026",
+        text: "Impresionante: apenas lo sintió mi mujer, no paraba de pedirme que me lo pusiera de nuevo.",
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "septiembre 2025",
+        text: "Es un perfume con aroma intenso, no es fácil de agradar con la primera rociada, pero tiene complejidad y elegancia. Se parece bastante al Hacivat, los comparé y son muy confundibles, con una diferencia leve: Hawas es más herbáceo y Hacivat más musgoso. Buena compra, pero recomiendo probarlo antes ya que puede resultar un aroma demasiado maduro para algunos.",
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "diciembre 2025",
+        text: "Mi segundo perfume árabe de la colección. Al principio recuerda al Club de Nuit, cítrico con piña, pero evoluciona hacia algo amaderado, como dicen otras reseñas. Aroma a tronco, a rama mojada después de la lluvia. Me encantó.",
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "abril 2026",
+        text: "Proyecta mucho, es bastante fuerte. A mí me dura en promedio unas 5 horas, aunque quien me abraza lo sigue sintiendo más tiempo. En la caja venía un sello que raspé con la uña: el código cargado en el sitio de Rasasi confirmó que era original. En la piel queda medio oleoso al principio, pero se seca con el tiempo. Es un perfume de hombre maduro, no lo veo para menores de 30.",
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Rasasi Hawas Black es unisex de verdad?",
+        answer:
+          "No del todo. Se vende como unisex en el título, pero la ficha técnica de Mercado Libre lo clasifica en el campo Género como Hombre, y varias reseñas lo describen como un perfume de hombre maduro. Si buscás algo realmente parejo para cualquier género, conviene probarlo antes de comprar.",
+      },
+      {
+        question: "¿Cuánto dura Hawas Black en la piel?",
+        answer:
+          "La ficha declara 8 horas oficiales. Las reseñas reales muestran variación: un comprador detalla unas 5 horas de percepción propia en piel, aunque el aroma se sigue notando más tiempo para quien está cerca. No hay volumen de reportes suficiente como para garantizar 8 horas parejas para todos.",
+      },
+      {
+        question: "¿Se parece a otro perfume que ya tenga?",
+        answer:
+          "Las dos comparaciones que más se repiten entre compradores son Club de Nuit Intense de Armaf y Hacivat. Con Club de Nuit comparte el arranque cítrico con piña pero evoluciona más amaderado. Con Hacivat, una reseña que probó ambos los describe como muy confundibles, con Hawas más herbáceo.",
+      },
+      {
+        question: "¿Cuántos sprays se recomiendan?",
+        answer:
+          "Empezá con 1-2 sprays. Varias reseñas describen una proyección fuerte desde la primera aplicación, y el perfil pachulí-amaderado maduro puede resultar invasivo si te pasás de cantidad.",
+      },
+      {
+        question: "¿Cómo verifico que sea original?",
+        answer:
+          "La caja trae un sello que se raspa con la uña y revela un código. Ese código se carga en el sitio oficial de Rasasi (también accesible por QR) para confirmar autenticidad. Si tu unidad no trae ese sello o el código no valida, es señal de alerta.",
+      },
+      {
+        question: "¿Es un perfume para cualquier edad?",
+        answer:
+          "Según las reseñas, no tanto. Varios compradores lo describen como un aroma de hombre maduro y explícitamente lo desaconsejan para menores de 30. Si buscás algo más joven o versátil, conviene mirar otras opciones del catálogo antes de decidirte por este.",
+      },
+      {
+        question: "¿En qué época del año conviene usarlo?",
+        answer:
+          "Otoño e invierno son las estaciones donde más rinde el fondo amaderado-pachulí, ideal para salidas nocturnas y eventos formales. Una reseña también lo recomienda para noches calurosas de verano, así que no es estrictamente de clima frío.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad?",
+        answer:
+          "Sí, la ficha técnica de Rasasi lo certifica como vegano y libre de crueldad animal. No es libre de alcohol, algo esperable en un Eau de Parfum tradicional.",
+      },
+    ],
+
+    relatedProducts: ["MLA16122300", "MLA19715215", "MLA29780185"],
   },
   {
     id: "MLA25883660",
     title: "Lattafa - Mayar Edp X100ml",
+    canonicalName: "Lattafa Mayar EDP 100ml",
     brand: "Lattafa",
     price: 54799,
     priceUpdated: "2026-07-08",
@@ -31229,45 +32081,204 @@ Comprar a vendedores con reputación verificada en Mercado Libre y desconfiar de
     affiliateUrl: "https://meli.la/1qrqLzC",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 777,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.8,
+    reviewCount: 3557,
+    reviewsSampledAt: "2026-07-09",
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Floral oriental dulce"],
-    notes: {
-      top: ["Pera", "Frutos rojos", "Bergamota"],
-      heart: ["Rosa", "Jazmín", "Vainilla"],
-      base: ["Ámbar", "Almizcle", "Sándalo"],
-    },
+
+    // ── Pros / Cons / Verdict (visible en página individual) ──
+    pros: [
+      "Perfil frutal dulce muy marcado: frambuesa y lichi son las notas que más repiten las compradoras",
+      "Varias reseñas lo describen con mejor duración y proyección que el Yara, la referencia más viral de Lattafa",
+      "Buscado como alternativa económica al Angel Nova de Mugler, con aire de familia según quienes probaron ambos",
+      "Vegano y libre de crueldad animal según ficha técnica",
+      "Incluye estuche y envío gratis",
+    ],
+    cons: [
+      "No es libre de alcohol",
+      "No es recargable",
+      "Una compradora recibió el frasco con el relleno protector corrido y el perfume levemente derramado; conviene revisar el embalaje al recibirlo",
+      "La duración varía bastante según la piel: de 6 horas hasta más de 8, no es pareja para todo el mundo",
+      "El sample de reseñas que pudimos revisar es 100% positivo (todas de 5 estrellas); no hay testimonios negativos publicados, aunque el producto ya acumula miles de calificaciones",
+    ],
+    verdict:
+      "A $54.799, el Mayar es la jugada de Lattafa para quien ya tiene el Yara y quiere rotar sin repetir: varias compradoras dicen que dura y proyecta más. Compra con los ojos abiertos: la duración real varía según la piel, y el sample de reseñas que encontramos es 100% positivo, sin ningún testimonio negativo publicado.",
+
+    // ── Article body (mini-review editorial) ────────────
+    articleBody: `Lattafa Mayar es un eau de parfum floral frutal para mujer, de 100 mL en formato spray. Lo lanzó Lattafa en 2022 (la ficha de Mercado Libre indica 2023, un año de diferencia que no cambia nada del producto en sí). En Mercado Libre Argentina tiene rating 4.8 sobre 3.557 calificaciones, un volumen alto para un perfume árabe de esta franja de precio.
+
+Lattafa es una de las perfumerías más grandes de Emiratos Árabes Unidos, conocida por producir versiones accesibles de perfumes de nicho o de diseñador. El Mayar sigue esa lógica: apunta directo a compradoras que ya tienen (o quieren) el Yara, el perfume más viral de la marca, sin pagar de más.
+
+## Las notas reales: frambuesa y lichi, no pera
+
+La ficha técnica de Mercado Libre solo dice "floral, frutal", sin desglosar qué notas exactas trae. El sitio oficial de Lattafa sí lo hace: salida de frambuesa, lichi y grosella negra; corazón de rosa, magnolia y benjuí; fondo de ámbar y pachulí. Es la misma pirámide que confirman las reseñas reales, donde la frambuesa aparece mencionada una y otra vez como la nota dominante.
+
+Dato curioso: la propia página de Lattafa repite, en otro bloque de texto, una pirámide distinta (lichi, frambuesa y hoja de violeta arriba; peonía, rosa blanca y jazmín en el medio; almizcle y vainilla de fondo). Las dos versiones coinciden en frambuesa y lichi como notas de salida, que es justo lo que describen las compradoras, así que ese dato queda confirmado por partida triple.
+
+## ¿Es un dupe del Angel Nova de Mugler?
+
+Varias reseñas lo comparan directamente con el Angel Nova de Mugler, un perfume bastante más caro. Una compradora lo describe como "un excelente dupe", y otra que también tuvo el original dice que es "muy similar, solo que un poco más ácido". No es una réplica exacta, ningún dupe lo es, pero el aire de familia frutal-dulce con frambuesa está confirmado por gente que probó los dos.
+
+## ¿Dura más que el Yara?
+
+La comparación más repetida en las reseñas no es con un perfume de diseñador, es con el propio Yara de Lattafa. Una compradora que ya tenía el Yara asegura que "la proyección y duración es muchísimo mejor" con el Mayar. Es un solo testimonio, no una garantía, pero es una señal fuerte para quien ya conoce el Yara y busca algo parecido sin repetir.
+
+Sobre la duración concreta: la ficha técnica de Mercado Libre declara 8 horas aproximadas. Las reseñas reales van de un extremo a otro: una compradora le calcula 6 horas, otra dice que a las 19hs todavía lo sentía después de aplicárselo a media mañana. Con eso, calculá entre 6 y 8-9 horas según tu piel, sin prometerte más de lo que el propio producto puede dar.
+
+Si buscás algo con perfil parecido dentro del catálogo de Lattafa, podés comparar con [Yara Elixir](/producto/lattafa-yara-elixir-edp-100ml-mla60836327), la versión más concentrada y oriental de la línea; con [Yara Candy](/producto/lattafa-yara-candy-mujer-edp-100ml-mla39865991), la más golosa y con más volumen de reseñas; o con [Yara Tous](/producto/lattafa-yara-tous-mujer-edp-100ml-mla40521028), la opción más económica de la familia.
+
+## Lo que hay que saber antes de comprar
+
+Es vegano y libre de crueldad animal, según la ficha técnica. No es libre de alcohol ni recargable. Incluye estuche. Una compradora recibió el frasco con el relleno protector corrido y el perfume levemente derramado, así que conviene revisar el embalaje apenas llega.
+
+Un detalle a tener en cuenta: el sample de reseñas que pudimos revisar es 100% positivo, todas de 5 estrellas. Eso no significa que no existan quejas entre las miles de calificaciones que acumula el producto, solo que no aparecieron en esta muestra puntual.
+
+## Para quién es y para quién no
+
+**Es para vos si:** ya tenés o conocés el Yara y buscás algo parecido sin repetir; te gustan los perfumes frutales dulces con frambuesa y lichi como protagonistas; buscás una alternativa económica al estilo Angel Nova de Mugler.
+
+**No es para vos si:** buscás un floral seco o amaderado, sin dulzor frutal; necesitás una fórmula libre de alcohol; te importa mucho la certeza de la duración, acá varía bastante según la piel. Para otras opciones de la misma familia, la [guía completa de perfumes árabes en Argentina](/guias/perfumes-arabes) compara precios y perfiles entre marcas.`,
+
+    // ── Specs (tabla técnica visible) ───────────────────
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Nombre del perfume", value: "Mayar" },
+      { label: "Género", value: "Mujer" },
+      { label: "Tipo de perfume", value: "Eau de Parfum" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2022 (Lattafa/Fragrantica); la ficha de ML indica 2023" },
+      { label: "Libre de crueldad animal", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "Sí" },
+      { label: "Familia olfativa", value: "Floral frutal" },
+      { label: "Duración aproximada", value: "8 horas (ML); 6 a 9 horas según reseñas reales" },
+      { label: "Formato de aplicación", value: "Spray" },
+    ],
+
+    // ── Brand metadata ──────────────────────────────────
     gender: "Mujer",
+    perfumeType: "Eau de Parfum",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Mayar EDP 100ml: review femenino",
-    metaDescription: "Análisis del Lattafa Mayar EDP 100ml: floral oriental dulce con pera, rosa y vainilla. Una alternativa al Yara con menor saturación. Precio en Argentina.",
-    ogTitle: "Lattafa Mayar 100ml — el floral dulce que no es Yara",
-    ogDescription: "Floral oriental con apertura frutal de pera, corazón de rosa y jazmín, fondo dulce de vainilla y ámbar. Para quien busca un floral dulce sin la saturación del Yara.",
-    h1: "Lattafa Mayar: el floral dulce alternativo al Yara",
-    description: "Eau de parfum floral oriental dulce para mujer con apertura de pera, frutos rojos y bergamota, corazón floral de rosa, jazmín y vainilla, y fondo cálido de ámbar, almizcle y sándalo.",
-    pros: [
-      "Floral dulce con menor saturación de mercado que el Yara",
-      "Pera + rosa + vainilla — combinación segura sin ser repetitiva",
-      "Longevidad de 7-9 horas reportada",
-      "Sillage moderado — para uso diario sin invadir",
-      "Envío gratis y rating 5/5",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2022,
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    refillable: false,
+    includesCase: true,
+    isSet: false,
+    applicationFormat: "Spray",
+
+    // ── SEO ──────────────────────────────────────────────
+    seoTitle: "Lattafa Mayar EDP 100ml: review honesta, notas reales y precio",
+    metaDescription: "Análisis del Lattafa Mayar EDP 100ml: floral frutal con frambuesa, lichi y grosella negra. Reseñas reales, comparación con el Yara y precio en Argentina.",
+    ogTitle: "Lattafa Mayar 100ml: la alternativa frutal al Yara",
+    ogDescription: "Floral frutal con salida de frambuesa y lichi, corazón de rosa y magnolia, fondo de ámbar y pachulí. Reseñas reales dicen que dura y proyecta más que el Yara.",
+    h1: "Lattafa Mayar EDP 100ml: review honesta del floral frutal alternativo al Yara",
+    description: "Eau de parfum floral frutal para mujer con apertura dulce de frambuesa, lichi y grosella negra, corazón de rosa, magnolia y benjuí, y fondo cálido de ámbar y pachulí.",
+
+    // ── Olfactive (fuente: sitio oficial Lattafa + reseñas reales) ──
+    olfactiveFamily: ["Floral frutal"],
+    notes: {
+      top: ["Frambuesa", "Lichi", "Grosella negra"],
+      heart: ["Rosa", "Magnolia", "Benjuí"],
+      base: ["Ámbar", "Pachulí"],
+    },
+    notesDisclaimer:
+      "El sitio oficial de Lattafa muestra dos pirámides distintas en la misma ficha: la de su tabla de datos (frambuesa, lichi, grosella negra / rosa, magnolia, benjuí / ámbar, pachulí) y otra en el texto descriptivo, calcada de Fragrantica (lichi, frambuesa, hoja de violeta / peonía, rosa blanca, jazmín / almizcle, vainilla). Elegimos la de la tabla de datos. Lo que sí coincide en ambas y en las reseñas reales es que la frambuesa y el lichi dominan la salida, no la pera ni la bergamota que traía esta ficha antes.",
+
+    comparedTo: [
+      { name: "Mugler Angel Nova", similarity: "Varias reseñas reales lo señalan como un dupe fiel, con más frambuesa y menos golosina que el original importado" },
+      { name: "Lattafa Yara", similarity: "Comprado como alternativa directa: compradoras que ya tenían el Yara reportan mejor proyección y duración con este" },
     ],
-    cons: [
-      "Si esperás algo radicalmente distinto al Yara, este se mantiene cerca de la familia floral-dulce",
-      "Menor proyección que el Yara original",
-      "Quien busca un floral seco va a quedar afuera",
-    ],
-    verdict: "Si ya tenés el Yara y querés rotar a algo similar pero menos viral, el Mayar cumple. La firma se siente más íntima — bueno para quien quiere dulzor floral sin que se note demasiado en una habitación.",
+
+    // ── Performance ─────────────────────────────────────
     bestSeason: ["Primavera", "Otoño", "Invierno"],
     bestOccasion: ["Uso diario", "Oficina", "Salidas casuales"],
-    notRecommendedFor: ["Verano caluroso", "Quien busca un floral fresco-cítrico"],
-    duration: "7-9 horas",
+    notRecommendedFor: ["Quien busca un perfil floral seco o amaderado, sin dulzor frutal", "Verano muy caluroso, por el dulzor concentrado"],
+    duration: "6 a 9 horas según la piel",
     durationHours: 8,
-    projection: "Media",
+    durationOfficial: 8,
+    projection: "Media-alta",
+    projectionNote: "Una reseña real la describe con mejor proyección que el Yara original; al ser un solo testimonio, tomalo como señal fuerte y no como garantía absoluta.",
+
+    // ── Voz del comprador (reseñas reales, MLA25883660) ──
+    customerReviews: [
+      {
+        rating: 5,
+        country: "México",
+        date: "2024",
+        text: "Es original: el olor es maravilloso, una frambuesa muy dulce y alegre. La proyección y la duración me parecieron muchísimo mejor que en el Yara. El envase es lindo, trae el sello y el QR que lleva a la página oficial. Sí llegó con el relleno protector un poco corrido y el frasco algo derramado, pero fuera de eso, encantada.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "agosto 2025",
+        text: "Es muy similar al Angel Nova que tuve, solo que un poco más ácido. Los perfumes Lattafa no me están defraudando, y eso que compro a ciegas la mayoría de las veces. Amo la frambuesa y el toque de lichi: me lo puse a las 10:30 de la mañana y a las 19hs todavía lo sentía.",
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2024",
+        text: "El perfume es original y las notas son sutiles pero potentes. Le calculo una duración de unas 6 horas, no más.",
+      },
+      {
+        rating: 5,
+        country: "Chile",
+        date: "2024",
+        text: "Es exquisito, con un aroma intenso a maracuyá que me tiene enamorada. Dejé de usar mis otros perfumes por este, es adictivo.",
+      },
+    ],
+
+    // ── FAQ ──────────────────────────────────────────────
+    faq: [
+      {
+        question: "¿El Lattafa Mayar es un dupe del Angel Nova de Mugler?",
+        answer:
+          "Varias compradoras que probaron ambos lo describen como un dupe fiel, con la frambuesa como protagonista y más dulzor. No es una réplica exacta, pero el aire de familia es real según las reseñas.",
+      },
+      {
+        question: "¿Se parece al Lattafa Yara?",
+        answer:
+          "Comparten el perfil frutal dulce y el precio accesible, pero no son el mismo perfume. Compradoras que ya tenían el Yara reportan mejor proyección y duración con el Mayar, aunque es un dato de pocas reseñas, no una regla general.",
+      },
+      {
+        question: "¿Cuánto dura en la piel?",
+        answer:
+          "Varía bastante: una compradora habla de unas 6 horas, otra lo sintió desde media mañana hasta la noche. La ficha técnica de Mercado Libre declara 8 horas aproximadas, un número razonable dentro de ese rango.",
+      },
+      {
+        question: "¿Es para hombre, mujer o unisex?",
+        answer: "Mujer. Así lo clasifica tanto Mercado Libre como el sitio oficial de Lattafa, que lo lista dentro de su línea femenina.",
+      },
+      {
+        question: "¿Viene con estuche?",
+        answer:
+          "Sí, la ficha técnica confirma que incluye estuche. No es recargable ni libre de alcohol, dos datos a tener en cuenta si buscás esas características puntuales.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad animal?",
+        answer: "Sí a ambos, según la ficha técnica de Mercado Libre. No es libre de alcohol, algo esperable en un Eau de Parfum tradicional.",
+      },
+      {
+        question: "¿Cuándo se lanzó este perfume?",
+        answer:
+          "El sitio oficial de Lattafa y Fragrantica coinciden en 2022. La ficha de Mercado Libre indica 2023, una diferencia menor que no cambia nada del producto en sí.",
+      },
+      {
+        question: "¿Qué notas tiene realmente?",
+        answer:
+          "La ficha de Mercado Libre solo dice 'floral, frutal', sin desglose. Según el fabricante y las reseñas reales, la salida es de frambuesa, lichi y grosella negra, con rosa y magnolia en el medio y ámbar-pachulí de fondo. La frambuesa es la nota que más repiten las compradoras.",
+      },
+    ],
+
+    relatedProducts: ["MLA60836327", "MLA39865991", "MLA40521028"],
   },
   {
     id: "MLA31178643",
@@ -31959,6 +32970,7 @@ Si el precio es muy por debajo de $90.000, desconfiar. Bharara King se mantiene 
   {
     id: "MLA27855490",
     title: "Perfume Arabe Maison Alhambra Sceptre Malachite Edp 100 Ml",
+    canonicalName: "Maison Alhambra Sceptre Malachite EDP 100ml",
     brand: "Maison Alhambra",
     price: 54161,
     priceUpdated: "2026-07-08",
@@ -31980,50 +32992,212 @@ Si el precio es muy por debajo de $90.000, desconfiar. Bharara King se mantiene 
     affiliateUrl: "https://meli.la/2x5L5Ei",
     condition: "new",
     freeShipping: true,
-    rating: 4.7,
-    reviewCount: 398,
+    rating: 4.8,
+    reviewCount: 3407,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Frutal amaderada"],
+    olfactiveFamily: ["Amaderada oriental"],
     notes: {
-      top: ["Piña", "Bergamota", "Manzana"],
-      heart: ["Abedul", "Jazmín", "Pimienta rosa"],
-      base: ["Almizcle", "Pachulí", "Ambroxan"],
+      top: ["Mandarina verde", "Bergamota", "Grosella negra"],
+      heart: ["Lavanda", "Pimienta rosa", "Jazmín", "Notas especiadas"],
+      base: ["Ámbar", "Almizcle", "Notas amaderadas", "Vetiver"],
     },
-    gender: "Hombre",
+    notesDisclaimer:
+      "Pirámide confirmada por Fragrantica y por el sitio oficial de Maison Alhambra, que coinciden nota por nota. La ficha técnica de Mercado Libre es mucho más escueta: solo lista 'Bergamota' en notas olfativas y clasifica la familia como 'Especiados', una etiqueta genérica que no contradice la pirámide completa, apenas la resume.",
+    gender: "Unisex",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
     seoTitle: "Maison Alhambra Sceptre Malachite EDP 100ml: review y precio",
-    metaDescription: "Análisis del Maison Alhambra Sceptre Malachite EDP 100ml: el dupe menos conocido del Aventus. Notas, longevidad, comparación con el Armaf y precio en Argentina.",
-    ogTitle: "Sceptre Malachite — el otro dupe de Aventus que casi nadie conoce",
-    ogDescription: "Frutal-amaderado con piña y bergamota arriba, fondo de pachulí y ambroxan. Maison Alhambra (sub-marca de Lattafa) por menos de $60.000.",
-    h1: "Maison Alhambra Sceptre Malachite: el dupe de Aventus que casi nadie menciona",
-    description: "Eau de parfum frutal-amaderado para hombre con notas de piña y bergamota en la salida, corazón de abedul y jazmín, y un fondo de almizcle, pachulí y ambroxan. Producido por Maison Alhambra, sub-marca de Lattafa.",
+    metaDescription: "Análisis del Maison Alhambra Sceptre Malachite EDP 100ml: el dupe unisex de God of Fire con nota de mango. Notas reales, duración y precio en Argentina.",
+    ogTitle: "Sceptre Malachite: el dupe de God of Fire con nota de mango",
+    ogDescription: "Mandarina verde, bergamota y grosella negra arriba; lavanda y pimienta rosa en el medio; ámbar y almizcle de fondo. Maison Alhambra (fabricado por Lattafa) por menos de $55.000.",
+    h1: "Maison Alhambra Sceptre Malachite: review real del dupe de God of Fire",
+    description: "Eau de parfum unisex con apertura de mandarina verde, bergamota y grosella negra, corazón de lavanda, pimienta rosa y jazmín, y fondo de ámbar, almizcle y maderas. Producido por Maison Alhambra, la línea de dupes de Lattafa, esta vez inspirada en God of Fire de Stéphane Humbert Lucas 777.",
     pros: [
-      "Inspirado en Creed Aventus desde otra marca — alternativa al Armaf Club de Nuit",
-      "Maison Alhambra es la sub-marca premium de Lattafa — control de calidad consistente",
-      "Longevidad de 6-8 horas con piel media",
-      "Frasco con presentación cuidada, mejor que muchos perfumes árabes en el mismo rango",
-      "Envío gratis y rating 5/5",
+      "Confirmado por el propio sitio de la marca y por Fragrantica: es un dupe declarado de God of Fire, de Stéphane Humbert Lucas 777, con la misma base cítrica-ámbar.",
+      "Rating muy alto con volumen real: 4,8 sobre 3.407 reseñas.",
+      "Reseñas reales confirman el rasgo más particular del perfume, la 'ilusión a mango': un comprador describe una combinación de mango y maracuyá con jengibre.",
+      "Es unisex de verdad: la ficha técnica de ML lo clasifica como 'Sin género' y una reseña que lo usa en pareja lo confirma.",
+      "Vegano, libre de crueldad animal y, algo poco común en la categoría, libre de alcohol.",
+      "Frasco pesado y con buena presentación según reseñas, acorde a la idea 'premium' que vende la marca.",
     ],
     cons: [
-      "Sillage menor que el Armaf Club de Nuit Intense — proyecta menos las primeras 2 horas",
-      "Apertura frutal-amaderada puede sentirse más sintética que el Aventus original",
-      "Menos vendido que sus pares directos (Armaf, Lattafa) — comunidad de reviews más chica",
+      "La duración real es más corta que la promesa de marketing: el sitio oficial habla de 7 a 9 horas, la ficha técnica de ML declara 6 horas, y una reseña real reporta 4 a 6 horas.",
+      "La ficha técnica de ML dice que no incluye estuche, pero una reseña real menciona 'excelente presentación en el estuche'. Puede variar entre lotes o vendedores; no lo des por garantizado al comprar.",
+      "No es recargable.",
+      "Solo viene en 100ml, sin opción de frasco chico para probarlo antes de comprometerte con el tamaño completo.",
     ],
-    verdict: "Si ya tenés el Armaf Club de Nuit Intense y querés probar otro acercamiento al Aventus, este es el segundo en la lista. Si arrancás de cero, el Armaf rinde más por el sillage. Sceptre Malachite tiene mejor frasco pero menos presencia en piel.",
-    bestSeason: ["Primavera", "Otoño"],
-    bestOccasion: ["Oficina", "Salidas diurnas", "Reuniones casuales"],
-    notRecommendedFor: ["Eventos donde necesités proyección máxima", "Piel muy seca (rinde menos)"],
-    duration: "6-8 horas",
-    durationHours: 7,
+    verdict: "A $54.161 por 100ml, Sceptre Malachite es la entrada más barata al perfil de God of Fire, un perfume de nicho bastante más caro. El rating de 4,8 sobre 3.407 reseñas respalda que el dupe funciona: compradores confirman la nota de mango que promociona la marca. Comprá con los ojos abiertos: la duración real ronda las 4 a 6 horas, bastante menos que las 7-9 horas que promete el sitio oficial.",
+    bestSeason: ["Primavera", "Verano"],
+    bestOccasion: ["Uso diario", "Salidas de tarde", "Eventos de verano"],
+    notRecommendedFor: [
+      "Quien busca una réplica exacta del God of Fire original",
+      "Climas fríos, donde el perfil cítrico rinde menos",
+      "Quien necesita una duración de 7-9 horas garantizada",
+    ],
+    duration: "4 a 6 horas según la piel",
+    durationHours: 5,
+    durationOfficial: 6,
+    durationDisclaimer:
+      "La ficha técnica de Mercado Libre declara 6 horas de duración aproximada. El sitio oficial de la marca promete bastante más: 7 a 9 horas ('8+ horas' en la descripción corta). Una reseña real de comprador reporta 4 a 6 horas de percepción propia en piel, el número más conservador de los tres, así que conviene calcular hacia ese rango antes de comprar.",
     projection: "Media",
+    projectionNote:
+      "El sitio de la marca promete 'proyección fuerte'. Ninguna reseña de la muestra confirma sillage a distancia; lo que sí describen los compradores es que el aroma es intenso de cerca, del tipo que 'no podés dejar de oler'.",
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: true,
+    includesCase: false,
+    isSet: false,
+    refillable: false,
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2022,
+    comparedTo: [
+      {
+        name: "Stéphane Humbert Lucas 777 God of Fire (no está en el catálogo)",
+        similarity:
+          "El propio sitio de Maison Alhambra lo vende como un tributo directo a este perfume de nicho, con 'más del 90% del ADN del original' según su propia descripción. Es la comparación oficial de la marca, no una confirmada por reseñas de compradores en Argentina.",
+      },
+    ],
+    aiReviewSummary:
+      "Las reseñas confirman el rasgo más particular del perfume: la combinación de mango y maracuyá que promociona la marca como su 'ilusión a mango'. También coinciden en el frasco pesado y bien presentado, y en que funciona bien como fragancia unisex de primavera-verano. El punto flojo es la duración: ronda las 4 a 6 horas, bastante menos que las 7-9 horas que promete el sitio oficial.",
+
+    articleBody: `Sceptre Malachite es uno de los perfumes de Maison Alhambra, la línea de dupes premium de Lattafa que replica perfumes de nicho caros a una fracción del precio. En este caso, el propio sitio de la marca lo presenta sin vueltas como un tributo a God of Fire de Stéphane Humbert Lucas 777, un perfume de nicho bastante más caro y poco conocido en Argentina. En Mercado Libre acumula 4,8 de rating sobre 3.407 reseñas, un volumen alto para un perfume árabe de esta franja de precio.
+
+## ¿Es realmente un dupe de God of Fire?
+
+Según la propia descripción de Maison Alhambra, sí: la marca asegura que Sceptre Malachite captura "más del 90% del ADN" del original, con el mismo perfil cítrico-tropical y la misma base de ámbar suave. Es un dato que viene directo del fabricante, no algo que confirmen reseñas argentinas (God of Fire casi no se conoce por acá), así que tomalo como la comparación oficial de la marca, no como un veredicto verificado calle por calle.
+
+## Las notas reales: mandarina verde, bergamota y ese toque a mango
+
+Fragrantica y el sitio oficial de Maison Alhambra coinciden nota por nota:
+
+- **Salida:** mandarina verde, bergamota y grosella negra.
+- **Corazón:** lavanda, pimienta rosa, jazmín y notas especiadas.
+- **Fondo:** ámbar, almizcle, maderas y vetiver.
+
+La ficha técnica de Mercado Libre es mucho más escueta: solo menciona "Bergamota" en notas olfativas y clasifica la familia como "Especiados", una etiqueta genérica que no contradice la pirámide completa, apenas la resume.
+
+Un detalle que sí confirman las reseñas: la marca promociona una "ilusión a mango" generada por la mezcla de cítricos y frutos rojos, y una reseña real describe el aroma como "una combinación entre mango y maracuyá con un jengibre presente". Coincide de forma bastante directa con lo que promete el fabricante.
+
+## ¿Dura las 7-9 horas que promete la marca?
+
+No. El sitio oficial de Maison Alhambra promete 7 a 9 horas de duración ("8+ horas" en la descripción corta). La ficha técnica de Mercado Libre ya es más conservadora: declara 6 horas aproximadas. Y una reseña real que probó el perfume en pareja lo deja todavía más abajo: "su duración está bien para ser un perfume fresco, unas 4-6 horas". Con esos tres números sobre la mesa, conviene calcular hacia el rango bajo (4 a 6 horas) y no hacia la promesa de marketing.
+
+Sobre proyección, el sitio de la marca habla de "proyección fuerte". No hay reseñas en la muestra que confirmen sillage a distancia, pero sí describen que el aroma es intenso de cerca, del tipo que "no podés dejar de oler".
+
+## Frasco y presentación
+
+Una reseña de Argentina describe el frasco como "pesadito y muy fachero", con una tapa que hace un clic satisfactorio al destaparla. Coincide con lo que promociona la marca: un frasco color malaquita, pensado para transmitir la idea de "fuego y piedra" detrás del concepto God of Fire. Ojo con un dato: la ficha técnica de ML aclara que no incluye estuche, aunque una reseña real menciona justamente "excelente presentación en el estuche". Puede haber variado entre lotes o vendedores, así que no lo des por garantizado si buscás algo para regalar.
+
+## ¿Es unisex de verdad?
+
+Sí. La ficha técnica de ML lo clasifica directamente como "Sin género", y una reseña que lo usó junto con su pareja lo confirma: "es un perfume que utilizo junto con mi pareja ya que se siente un olor unisex". A diferencia de otros perfumes árabes del catálogo que se venden como unisex pero terminan leyéndose como masculinos, como [Rasasi Hawas Black](/producto/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex-mla41306043), acá el perfil cítrico-floral-ámbar sí funciona parejo para cualquier persona.
+
+Si buscás algo parecido dentro del catálogo, [Lattafa Khamrah](/producto/perfume-unisex-lattafa-khamrah-edp-100-ml-mla22845568) es otra opción unisex, aunque con un perfil más dulce y especiado (canela, dátil, vainilla) que cítrico. Para una alternativa unisex más fresca y menos amaderada, [Vintage Radio de Lattafa Pride](/producto/perfume-vintage-radio-lattafa-pride-100-ml-mla29077943) es otra opción del catálogo. Para comparar precios y familias olfativas entre marcas, la [guía de perfumes árabes en Argentina](/guias/perfumes-arabes) tiene el panorama completo.
+
+## Para quién es y para quién no
+
+Es para vos si: buscás una alternativa barata a un perfume de nicho caro y no te molesta que sea un dupe declarado por la propia marca; te gustan los perfumes cítrico-amaderados con un toque dulce a mango; buscás algo realmente unisex, no solo de nombre. No es para vos si: esperás que replique exactamente el original (ningún dupe lo hace); necesitás una duración de 7-9 horas garantizada, la real ronda las 4-6; buscás un perfume con estuche asegurado para regalar.`,
+
+    specs: [
+      { label: "Marca", value: "Maison Alhambra" },
+      { label: "Línea", value: "Alhambra" },
+      { label: "Nombre del perfume", value: "Sceptre Malachite" },
+      { label: "Inspirado en", value: "God of Fire, de Stéphane Humbert Lucas 777 (según el propio sitio de la marca)" },
+      { label: "Género", value: "Unisex (Sin género, según ficha ML)" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Familia olfativa", value: "Amaderada oriental (ML la etiqueta como Especiados)" },
+      { label: "Notas de salida", value: "Mandarina verde, bergamota, grosella negra" },
+      { label: "Notas de corazón", value: "Lavanda, pimienta rosa, jazmín, notas especiadas" },
+      { label: "Notas de fondo", value: "Ámbar, almizcle, maderas, vetiver" },
+      { label: "Duración declarada", value: "6 horas (ML); la marca promete 7-9 horas; reseñas reales reportan 4-6 horas" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2022" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "No (una reseña real menciona lo contrario, ver nota arriba)" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "Sí" },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "México",
+        date: "julio 2025",
+        text: "Chulada de monada, es un perfume muy dulce pero no empalagoso. Está rico y es muy agradable de usar, muy recomendable. Huele a esos perfumes que no podés dejar de oler, no se van a arrepentir.",
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "diciembre 2025",
+        text: "Muy buen producto, llegó bien protegido y el olor está de diez: una combinación entre mango y maracuyá con un jengibre presente que le da un toque más fresco. Es un perfume que uso junto con mi pareja porque se siente unisex. La duración está bien para ser un perfume fresco, unas 4-6 horas. Recomendado.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "diciembre 2025",
+        text: "Excelente presentación en el estuche, el aroma es ideal para primavera-verano (todavía me falta probarlo en días de mucho calor). El frasco es pesadito y muy fachero, la tapa es un espectáculo: se escucha bien el clic al destaparla.",
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "julio 2025",
+        text: "Lo acabo de recibir y quedé súper fascinado, es un aroma exquisito. Lo compré a ciegas por los excelentes comentarios y no me arrepiento.",
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿Sceptre Malachite es un dupe de qué perfume?",
+        answer:
+          "El propio sitio de Maison Alhambra lo presenta como un tributo a God of Fire, de Stéphane Humbert Lucas 777, y asegura que captura 'más del 90% del ADN' del original. Es la comparación que hace la marca, no algo confirmado por reseñas de compradores en Argentina.",
+      },
+      {
+        question: "¿Es unisex de verdad?",
+        answer:
+          "Sí. La ficha técnica de Mercado Libre lo clasifica como 'Sin género', y una reseña real de una compradora que lo usa junto con su pareja confirma que se siente unisex.",
+      },
+      {
+        question: "¿Cuánto dura Sceptre Malachite en la piel?",
+        answer:
+          "Hay tres números distintos: la marca promete 7-9 horas, la ficha técnica de ML declara 6 horas, y una reseña real reporta 4-6 horas de percepción propia. Conviene calcular hacia el rango bajo antes de comprar.",
+      },
+      {
+        question: "¿Por qué huele a mango si no tiene esa nota en la pirámide?",
+        answer:
+          "Es un efecto buscado por la marca, que lo llama la 'ilusión a mango': la combinación de mandarina verde y grosella negra genera esa sensación sin que el mango sea una nota real de la fórmula. Una reseña confirma justamente esa percepción, describiendo el aroma como mango con maracuyá.",
+      },
+      {
+        question: "¿Incluye estuche?",
+        answer:
+          "Según la ficha técnica de Mercado Libre, no. Sin embargo, una reseña real menciona 'excelente presentación en el estuche', lo que sugiere que puede variar entre lotes o vendedores. Si buscás un perfume para regalar, confirmalo con el vendedor antes de comprar.",
+      },
+      {
+        question: "¿Es vegano y libre de alcohol?",
+        answer:
+          "Sí a ambas. Es vegano, libre de crueldad animal y, algo poco común en perfumes árabes de esta categoría, también libre de alcohol.",
+      },
+      {
+        question: "¿En qué época del año conviene usarlo?",
+        answer:
+          "Primavera y verano son las estaciones donde mejor rinde el perfil cítrico, tanto según la marca como según una reseña real que lo recomienda para esa temporada.",
+      },
+    ],
+
+    relatedProducts: ["MLA41306043", "MLA22845568", "MLA29077943"],
   },
   {
     id: "MLA41304983",
     title: "Lattafa Her Confession Eau De Parfum 100ml Volumen de la unidad 100 mL",
+    canonicalName: "Lattafa Her Confession EDP 100ml",
     brand: "Lattafa",
+    line: "Pride",
     price: 72500,
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
@@ -32045,44 +33219,163 @@ Si el precio es muy por debajo de $90.000, desconfiar. Bharara King se mantiene 
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 267,
+    reviewCount: 1214,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Floral oriental"],
+    olfactiveFamily: ["Floral gourmand"],
     notes: {
-      top: ["Bergamota", "Frambuesa", "Pera"],
-      heart: ["Rosa", "Jazmín", "Magnolia"],
-      base: ["Pachulí", "Almizcle blanco", "Vainilla"],
+      top: ["Canela", "Acorde místico"],
+      heart: ["Jazmín", "Nardo (tuberosa)", "Incienso", "Mahanial"],
+      base: ["Haba tonka", "Almizcle", "Vainilla"],
     },
+    notesDisclaimer: "La ficha corta de Mercado Libre solo declara 'vainilla, canela' (familia Gourmand). La pirámide completa (canela y acorde místico arriba, jazmín, nardo e incienso en el medio, haba tonka, almizcle y vainilla de fondo) surge del propio sitio de Lattafa y coincide con Fragrantica. No es un perfume frutal ni de rosas, aunque a veces circula esa confusión por el nombre.",
     gender: "Mujer",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2024,
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    refillable: false,
+    isSet: false,
+    includesCase: false,
+    applicationFormat: "Spray",
     seoTitle: "Lattafa Her Confession EDP 100ml: review y precio Argentina",
-    metaDescription: "Análisis del Lattafa Her Confession EDP 100ml: floral oriental con frambuesa y rosa, fondo de vainilla y pachulí. Notas, longevidad y precio en MercadoLibre.",
-    ogTitle: "Lattafa Her Confession 100ml — la confesión floral con fondo de vainilla",
-    ogDescription: "Floral oriental femenino con apertura de frambuesa y bergamota, corazón de rosa y jazmín, fondo dulce de vainilla. Una de las opciones más versátiles de Lattafa.",
-    h1: "Lattafa Her Confession: el floral-vainilla que se usa todo el año",
-    description: "Eau de parfum floral oriental para mujer con notas de frambuesa, pera y bergamota en la salida, corazón floral de rosa, jazmín y magnolia, y un fondo dulce de vainilla, pachulí y almizcle.",
+    metaDescription: "Análisis del Lattafa Her Confession EDP 100ml: floral gourmand con canela, jazmín y vainilla. Notas reales, duración según reseñas y precio en MercadoLibre.",
+    ogTitle: "Lattafa Her Confession 100ml: el floral gourmand con vainilla y canela",
+    ogDescription: "Floral gourmand femenino con canela arriba, corazón de jazmín y nardo, fondo de vainilla y haba tonka. Una de las fichas de mujer con más reseñas del catálogo Lattafa.",
+    h1: "Lattafa Her Confession: canela, jazmín y vainilla para las noches frías",
+    description: "Eau de parfum floral gourmand para mujer, línea Lattafa Pride, con canela especiada en la salida, corazón de jazmín, nardo e incienso, y un fondo cálido de vainilla, haba tonka y almizcle.",
     pros: [
-      "Floral con dulzor controlado — vainilla presente pero no empalagosa",
-      "Versátil para uso diario y eventos",
-      "Longevidad de 7-9 horas en piel de hidratación normal",
-      "Sillage moderado — se nota cerca sin invadir",
-      "Envío gratis y rating 5/5 con +1.000 unidades vendidas",
+      "Floral gourmand cálido: canela y acorde místico arriba, jazmín, nardo e incienso en el corazón, vainilla y haba tonka de fondo (perfil dulce y especiado, no frutal)",
+      "4.8 estrellas con más de 1.200 opiniones en Mercado Libre: uno de los perfumes árabes de mujer con más respaldo del catálogo",
+      "Reseñas reales confirman buena fijación: una compradora seguía sintiéndolo, incluso más suave, pasadas las 5 horas",
+      "Envío gratis y stock disponible",
+      "Libre de crueldad animal",
     ],
     cons: [
-      "El componente afrutado puede recordar a perfumes juveniles para algunos",
-      "Si buscás un floral seco o más serio (rosa centifolia pura), no es esto",
-      "No tiene notas inusuales — es buena pero no diferente",
+      "La propia ficha de Mercado Libre declara solo 5 horas de duración oficial, menos que el promedio de otros Lattafa; Fragrantica sube esa cifra a 7-9 horas, así que lo realista está en el medio",
+      "No es vegano según la ficha técnica (sí es libre de crueldad animal, que no es lo mismo)",
+      "No incluye estuche",
+      "Es un dulce especiado, no un floral seco ni cítrico: si buscás algo fresco o austero, no es este",
+      "Las propias reseñas mencionan una ola de falsificaciones en perfumes árabes: conviene comprarlo a un vendedor con buena reputación",
     ],
-    verdict: "Si querés un perfume femenino que cumpla todo el año sin ser comprometido — oficina, salidas, fines de semana — este Lattafa es de los más equilibrados del catálogo. No te va a sorprender pero tampoco te va a fallar. Para cuello, escote y muñecas a la mañana, dura hasta la tarde.",
-    bestSeason: ["Primavera", "Otoño", "Invierno"],
-    bestOccasion: ["Uso diario", "Oficina", "Salidas casuales", "Cenas"],
-    notRecommendedFor: ["Verano muy caluroso (puede saturar la dulzura)", "Quien busca florales secos o austeros"],
-    duration: "7-9 horas",
-    durationHours: 8,
-    projection: "Media",
+    verdict: "Con más de 1.200 opiniones y 4.8 estrellas, el Her Confession es de los perfumes árabes de mujer con más respaldo del catálogo: un floral gourmand cálido de canela, jazmín y vainilla que rinde mejor de noche y en clima fresco. Compra con los ojos abiertos: la propia ficha de Mercado Libre declara solo 5 horas de duración, no es vegano y no incluye estuche.",
+    bestSeason: ["Otoño", "Invierno", "Primavera"],
+    bestOccasion: ["Noches y salidas", "Cenas y eventos especiales", "Uso en clima fresco"],
+    notRecommendedFor: ["Verano muy caluroso (el perfil dulce-especiado empalaga con calor)", "Oficina o ambientes cerrados de día (proyecta fuerte)", "Quien busca un floral seco o cítrico"],
+    duration: "5 a 8 horas según la piel",
+    durationHours: 6,
+    durationOfficial: 5,
+    durationDisclaimer: "Mercado Libre declara 5 horas oficiales en la ficha técnica. Fragrantica, con su comunidad internacional, promedia 7-9 horas. Una reseña real de Chile confirma que a las 5 horas el aroma todavía se sentía, incluso más suave: el rango realista está entre esos dos datos, más corto si tenés la piel seca.",
+    projection: "Media-alta",
+    projectionNote: "Las reseñas describen buena fijación y un chorro de spray parejo. En ambientes cerrados de día puede notarse fuerte: mejor dosificar 2-3 aplicaciones.",
+    comparedTo: [
+      { name: "Lattafa Yara", similarity: "Una compradora de México lo compara directo: 'si les gustó el Yara de Lattafa, este les va a encantar'. Comparten el ADN dulce de la casa, aunque el Yara es más cítrico y este es más especiado-gourmand." },
+      { name: "Blanche Bête (nicho)", similarity: "Es la comparación que más circula en foros internacionales y Fragrantica por el perfil lácteo-cremoso de vainilla. Ninguna reseña argentina la confirma: tomala como referencia externa, no como garantía." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Brasil", date: "marzo 2026", text: "Con esta ola de falsificación de perfumes árabes compré con mucho miedo, pero qué bueno que lo hice. Ya tenía el decant del original y este proyecta y fija incluso mejor, quizás por el tiempo de maceración. El spray tiene el mejor chorro que vi. Tip: dejalo guardado 12 horas antes de abrirlo y esperá 20-30 minutos después de la ducha o la crema antes de aplicarlo, ayuda mucho a la fijación." },
+      { rating: 5, country: "Chile", date: "julio 2025", text: "No sé cómo expresar todo lo que provoca. Primero siento la vainilla, después la canela, y a la media hora aparece el nardo, una nota delicada y sensual. A las 5 horas todavía percibo el aroma, incluso más tierno." },
+      { rating: 5, country: "Argentina", date: "agosto 2025", text: "En mi piel se siente mucho el coco. Al principio, en la salida, tiene un olor raro como a plástico quemado, pero cuando seca es muy rico: dulce y cálido. Es puro coco en mi piel y lo amo." },
+      { rating: 5, country: "México", date: "julio 2025", text: "Es un perfume muy agradable. Si les gustó el Yara de Lattafa, este les va a encantar." },
+    ],
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Pride" },
+      { label: "Nombre del perfume", value: "Her Confession" },
+      { label: "Versión", value: "EDP" },
+      { label: "Género", value: "Mujer" },
+      { label: "Tipo de perfume", value: "Eau de parfum" },
+      { label: "Es recargable", value: "No" },
+      { label: "Número de legajo", value: "Resolución 155/98, 8967576890" },
+      { label: "Volumen de la unidad", value: "100 mL" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Notas olfativas (ficha ML)", value: "Vainilla, Canela" },
+      { label: "Duración aproximada (declarada por el vendedor)", value: "5 h" },
+      { label: "Familia olfativa", value: "Gourmand" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2024" },
+      { label: "Es libre de crueldad", value: "Sí" },
+      { label: "Es vegano", value: "No" },
+      { label: "Es libre de alcohol", value: "No" },
+    ],
+    articleBody: `## Qué es y de qué casa viene
+
+Lattafa Her Confession es un eau de parfum floral gourmand para mujer, dentro de la línea Lattafa Pride. Lo lanzó en 2024 Lattafa Perfumes, la casa de perfumería árabe (Emiratos Árabes Unidos) más grande y con más presencia en el catálogo de Mercado Libre Argentina. Con 4.8 estrellas y más de 1.200 opiniones, es una de las fichas de mujer con más respaldo real dentro del catálogo de perfumes árabes.
+
+## Cómo huele de verdad
+
+La ficha técnica corta de Mercado Libre solo dice "vainilla, canela" y familia gourmand, un dato genérico. El propio sitio de Lattafa (y Fragrantica, que coincide nota por nota) da la pirámide completa: arriba canela y un acorde místico, en el corazón jazmín, nardo (tuberosa) e incienso, y de fondo haba tonka, almizcle y vainilla. Es un gourmand floral cálido, no un frutal ni un perfume de rosas, aunque el nombre y algunas descripciones genéricas generan esa confusión.
+
+Las reseñas reales confirman ese perfil dulce: una compradora de Chile describe sentir primero la vainilla, después la canela, y a la media hora el nardo. Otra, de Argentina, nota un arranque raro (algo así como plástico quemado) que después seca en un aroma a coco cálido y dulce, un matiz honesto que no aparece en ninguna descripción de venta.
+
+## Duración: lo que dice Mercado Libre contra lo que reportan las compradoras
+
+Acá hay una diferencia real entre fuentes. La ficha técnica en Mercado Libre declara apenas 5 horas de duración, bastante menos que el promedio de otros perfumes Lattafa. Fragrantica, con su comunidad internacional, promedia entre 7 y 9 horas. Ninguna reseña de las que leímos contradice esto: la compradora de Chile todavía sentía el perfume, incluso más suave, pasadas las 5 horas. Con esos dos datos cruzados, lo razonable es esperar entre 5 y 8 horas según tu piel, más corto si la tenés seca.
+
+## Falsificaciones: un riesgo real que las propias reseñas mencionan
+
+Una de las reseñas más útiles no habla del aroma sino de un riesgo concreto: la compradora de Brasil cuenta que compró "con mucho miedo" por la ola de falsificaciones de perfumes árabes, y aclara dos tips prácticos que ayudan a que el perfume fije mejor: dejar el frasco guardado 12 horas antes de abrirlo, y esperar 20 a 30 minutos después de la ducha o la crema hidratante antes de aplicarlo. Vale la pena comprarlo a un vendedor con buena reputación y envío verificado.
+
+## ¿Es un dupe del Mugler Alien?
+
+Circula esa comparación en distintos lados, pero no encontramos evidencia sólida que la sostenga: ni Fragrantica ni las reseñas que revisamos mencionan a Alien. La comparación internacional que sí aparece con frecuencia es con el nicho Blanche Bête, por el perfil lácteo-cremoso de la vainilla, aunque tampoco hay reseñas argentinas que la confirmen. Lo más honesto es tomarlo por lo que es: un gourmand floral propio de Lattafa, no la copia de un perfume puntual.
+
+## Para quién sí y para quién no
+
+Es para vos si: buscás un floral gourmand cálido de mujer, con canela, jazmín y vainilla, para usar de noche o en clima fresco, y no te importa que la duración ronde las 5 a 8 horas según la piel. No es para vos si: buscás un floral seco o cítrico, necesitás que aguante más de 8 horas sin retocar, o te importa que sea 100% vegano.
+
+## Otras opciones del catálogo
+
+Si el regalo (o la compra) es para una piel que prefiere algo unisex y más especiado, el [Lattafa Khamrah](/producto/perfume-unisex-lattafa-khamrah-edp-100-ml-mla22845568) apunta al mismo lado dulce de la casa pero con un perfil "whisky con canela", más amaderado que floral. Si buscás algo más frutal y menos gourmand dentro de la misma línea Pride, el [Vintage Radio Lattafa Pride](/producto/perfume-vintage-radio-lattafa-pride-100-ml-mla29077943) es unisex y más versátil para el día. Y si el perfume es para él, el [Rasasi Hawas Black](/producto/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex-mla41306043) cubre el lado masculino-nocturno del catálogo. Para entender el resto del mapa (marcas, precios y qué duplica a qué), la [guía de perfumes árabes en Argentina](/guias/perfumes-arabes) tiene el panorama completo.
+
+## Veredicto
+
+Por $72.500 con envío gratis, el Her Confession es de los perfumes árabes de mujer con más respaldo del catálogo: 4.8 estrellas en más de 1.200 opiniones no es un dato menor. Es un gourmand floral cálido de canela y vainilla que rinde mejor de noche y en climas frescos, con una duración real de entre 5 y 8 horas según tu piel. No es vegano, no incluye estuche y no es la opción si buscás algo fresco para el verano, pero para quien quiere ese perfil dulce-especiado con respaldo de miles de compradoras, es una compra segura.`,
+    faq: [
+      {
+        question: "¿A qué huele realmente el Lattafa Her Confession?",
+        answer: "Es un floral gourmand cálido. Arriba tiene canela y un acorde místico, en el corazón jazmín, nardo e incienso, y de fondo haba tonka, almizcle y vainilla. La ficha corta de Mercado Libre solo dice 'vainilla, canela', pero esa es apenas una parte de la pirámide completa que confirman el propio sitio de Lattafa y Fragrantica.",
+      },
+      {
+        question: "¿Cuánto dura puesto?",
+        answer: "Mercado Libre declara 5 horas oficiales, Fragrantica (comunidad internacional) promedia 7-9. Una reseña real confirma que a las 5 horas todavía se sentía, incluso más suave. Lo realista para la mayoría de las pieles está entre 5 y 8 horas.",
+      },
+      {
+        question: "¿Es para mujer o unisex?",
+        answer: "Es un perfume de mujer, tanto en la ficha de Mercado Libre como en el sitio oficial de Lattafa. No está pensado ni vendido como unisex.",
+      },
+      {
+        question: "¿Es un dupe del Mugler Alien?",
+        answer: "Circula esa comparación, pero no encontramos evidencia sólida: ni Fragrantica ni las reseñas que revisamos mencionan a Alien. La comparación que sí aparece en fuentes internacionales es con el nicho Blanche Bête, aunque tampoco hay reseñas argentinas que la confirmen. Tomalo como un gourmand floral propio, no como la copia de un perfume puntual.",
+      },
+      {
+        question: "¿Se parece al Lattafa Yara?",
+        answer: "Según una compradora real de México, sí: 'si les gustó el Yara, este les va a encantar'. Comparten el ADN dulce de la casa Lattafa, aunque el Yara es más cítrico y este es más especiado-gourmand.",
+      },
+      {
+        question: "¿Es vegano?",
+        answer: "No, según su propia ficha técnica. Sí es libre de crueldad animal, que es un dato distinto: no se testeó en animales, aunque puede contener algún ingrediente de origen animal.",
+      },
+      {
+        question: "¿Incluye estuche?",
+        answer: "No. La ficha técnica de Mercado Libre lo aclara de manera explícita.",
+      },
+      {
+        question: "¿Hay riesgo de comprar un perfume falsificado?",
+        answer: "Las propias reseñas mencionan la ola de falsificaciones de perfumes árabes como una preocupación real. Conviene comprarlo a un vendedor con buena reputación y envío verificado, y dejar el frasco guardado 12 horas antes de abrirlo, según el tip de una compradora.",
+      },
+      {
+        question: "¿Cuántas opiniones tiene en Mercado Libre?",
+        answer: "4.8 estrellas en más de 1.200 opiniones, uno de los perfumes árabes de mujer con más respaldo del catálogo.",
+      },
+    ],
+    relatedProducts: ["MLA41306043", "MLA22845568", "MLA29077943"],
   },
   {
     id: "MLA49628348",
@@ -32677,6 +33970,8 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
   {
     id: "MLA19846768",
     title: "Perfume Afnan 9pm 100 ml Eau de Parfum Para Caballero",
+    canonicalName: "Afnan 9PM EDP 100ml",
+    reviewsSampledAt: "2026-07-09",
     brand: "Afnan",
     price: 55199,
     priceUpdated: "2026-07-08",
@@ -32698,49 +33993,161 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
     affiliateUrl: "https://meli.la/2WWHx34",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 1887,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.8,
+    reviewCount: 26901,
     pastelColor: "var(--pastel-pink)",
     olfactiveFamily: ["Oriental gourmand"],
     notes: {
-      top: ["Cardamomo", "Lavanda", "Bergamota"],
-      heart: ["Café", "Canela", "Praline"],
-      base: ["Vainilla", "Ámbar", "Sándalo"],
+      top: ["Manzana", "Canela", "Lavanda", "Bergamota"],
+      heart: ["Azahar", "Lirio de los valles"],
+      base: ["Vainilla", "Haba tonka", "Ámbar", "Pachulí"],
     },
+    notesDisclaimer: "La ficha técnica de ML solo declara \"Notas olfativas: Naranja\", una simplificación genérica que no representa el perfume real. La pirámide completa surge del sitio oficial de Afnan y coincide nota por nota con Fragrantica: manzana, canela, lavanda y bergamota arriba, azahar y lirio de los valles en el corazón, vainilla, haba tonka, ámbar y pachulí de fondo.",
     gender: "Hombre",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Afnan 9PM EDP 100ml: review del oriental con café y vainilla",
-    metaDescription: "Análisis del Afnan 9PM EDP 100ml: el oriental gourmand con café y vainilla más conocido del catálogo árabe. Longevidad, sillage y precio en Argentina.",
-    ogTitle: "Afnan 9PM 100ml — el oriental con café y vainilla que se hizo standard",
-    ogDescription: "Apertura especiada con cardamomo y lavanda, corazón de café y praline, fondo dulce de vainilla y ámbar. Uno de los perfumes árabes masculinos más vendidos.",
-    h1: "Afnan 9PM: el oriental gourmand que se volvió referencia masculina",
-    description: "Eau de parfum oriental gourmand para hombre con apertura de cardamomo, lavanda y bergamota, corazón intenso de café, canela y praline, y fondo dulce de vainilla, ámbar y sándalo. Una de las fragancias árabes masculinas más conocidas.",
+    seoTitle: "Afnan 9PM EDP 100ml: review honesta y si es dupe del Ultra Male",
+    metaDescription: "Análisis del Afnan 9PM EDP 100ml: manzana, canela y vainilla, el dupe más conocido del Jean Paul Gaultier Ultra Male. Duración real, notas y precio en Argentina.",
+    ogTitle: "Afnan 9PM 100ml: el dulce oriental que se volvió el más vendido",
+    ogDescription: "Apertura de manzana y canela, corazón de azahar y lirio de los valles, fondo dulce de vainilla y haba tonka. El dupe más conocido del Jean Paul Gaultier Ultra Male, a una fracción del precio.",
+    h1: "Afnan 9PM: el dupe del Ultra Male que se volvió un clásico árabe",
+    description: "Eau de parfum oriental dulce para hombre con apertura de manzana, canela, lavanda y bergamota, corazón floral de azahar y lirio de los valles, y fondo de vainilla, haba tonka, ámbar y pachulí. El dupe más conocido del Jean Paul Gaultier Ultra Male y uno de los perfumes árabes masculinos más vendidos en Argentina.",
     pros: [
-      "El gourmand masculino con café más reconocido del catálogo árabe",
-      "Posicionamiento similar a YSL Y o Dior Sauvage Elixir a un sexto del precio",
-      "Longevidad de 8-10 horas reportada por compradores",
-      "Sillage alto las primeras 3-4 horas",
-      "Envío gratis y muy alta circulación",
+      "El dupe más conocido del Jean Paul Gaultier Ultra Male, a una fracción del precio",
+      "Apertura reconocible de manzana y canela sobre un fondo dulce de vainilla y haba tonka",
+      "Uno de los perfumes árabes masculinos más vendidos: casi 27.000 opiniones acumuladas",
+      "Compradores reportan sellos y tapa de metal pesada como señales de que el frasco es original",
+      "Envío gratis y stock disponible",
     ],
     cons: [
-      "Por su popularidad ya no diferencia tanto — vas a cruzar gente con el mismo perfume",
-      "El café y la vainilla pueden saturar en climas calurosos",
-      "Rating 4 (no 5) — algunos reportan inconsistencia entre lotes",
+      "Es tan vendido que vas a cruzar gente con el mismo perfume",
+      "El dulzor de manzana y vainilla empalaga en climas calurosos",
+      "La duración real reportada (6 a 8 horas) queda por debajo de las 8 horas que declara la ficha técnica",
+      "La apertura puede sentirse un poco sintética los primeros minutos, según una reseña detallada",
     ],
-    verdict: "Si nunca probaste un oriental gourmand masculino y querés entender el género, el Afnan 9PM es el punto de entrada estándar. Es el referente. Para un primer perfume árabe hombre con café-vainilla, comprado seguro. Si ya lo conocés, el Lattafa Emeer o el Fakhar Gold Extract son alternativas con personalidad propia.",
+    verdict: "El Afnan 9PM es el dupe más conocido del Jean Paul Gaultier Ultra Male: manzana y canela arriba, vainilla y haba tonka de fondo, con 6 a 8 horas de duración reportadas por compradores reales. Es la puerta de entrada más segura al oriental dulce árabe. Comprá con los ojos abiertos: es tan vendido que vas a cruzar gente con el mismo frasco, y en verano el dulzor satura.",
     bestSeason: ["Otoño", "Invierno"],
     bestOccasion: ["Salidas nocturnas", "Citas", "Cenas casuales"],
     notRecommendedFor: ["Verano caluroso", "Oficinas formales", "Quien busca diferenciarse"],
-    duration: "8-10 horas",
-    durationHours: 9,
+    duration: "6 a 8 horas según la piel",
+    durationHours: 7,
+    durationOfficial: 8,
+    durationDisclaimer: "Afnan declara 8 horas en la ficha técnica. Un comprador de México cuenta que la primera vez le duró apenas 4 horas, y que recién prestando atención a la cantidad de aplicaciones llegó a las 6 u 8 horas reales.",
     projection: "Alta",
+    relatedProducts: ["MLA22234109", "MLA41178086", "MLA19715215", "MLA41306043"],
+    articleBody: `## Qué es y quién lo hizo famoso
+
+El Afnan 9PM es un eau de parfum oriental dulce para hombre, en frasco de 100 ml, edición limitada. Es uno de los perfumes árabes masculinos más vendidos en Argentina, con casi 27.000 opiniones acumuladas en Mercado Libre. La fama viene de algo concreto: se lo conoce como el dupe más logrado del Jean Paul Gaultier Ultra Male, a una fracción del precio de ese nicho.
+
+## Cómo huele en realidad
+
+La ficha técnica de ML es escueta: solo dice "Notas olfativas: Naranja", un dato genérico que no representa el perfume. La pirámide real, confirmada tanto por el sitio oficial de Afnan como por Fragrantica, es otra: arriba manzana, canela, lavanda y bergamota; en el corazón azahar y lirio de los valles; de fondo vainilla, haba tonka, ámbar y pachulí.
+
+En la práctica abre frutal y especiado, con esa combinación de manzana y canela que lo hace fácil de reconocer, y se asienta en un fondo dulce y cálido de vainilla y haba tonka. Es un gourmand claro: dulce, directo, sin vueltas. Quien conozca el Ultra Male lo reconoce enseguida; la diferencia es que el 9PM cambia la menta fría de apertura del Gaultier por manzana y canela, así que se siente más cálido y frutal desde el arranque.
+
+## Cuánto dura y cómo proyecta
+
+Afnan declara 8 horas de duración en la ficha técnica. Las reseñas reales matizan ese número: un comprador de México cuenta que la primera vez que lo usó le duró apenas 4 horas, y que recién después de prestar atención a la cantidad de aplicaciones llegó a las 6 u 8 horas. Otro comprador, de Argentina, lo describe con muy buenas prestaciones en proyección y duración para salidas nocturnas.
+
+Traducido: con dos o tres aplicaciones rinde una salida completa, pero no es un perfume que se aplique una vez y se olvide. La proyección es alta las primeras horas, algo que confirman varias reseñas.
+
+## Señales de que es original
+
+Una reseña detallada de un comprador mexicano describe lo que buscó antes de animarse a comprar: la caja trae varios sellos que, según investigó, confirman que el producto es original, y la tapa del frasco es pesada, de metal. Son señales útiles si dudás de la autenticidad de tu unidad, aunque no reemplazan un canal de verificación oficial del fabricante.
+
+## Afnan 9PM vs otros perfumes árabes del catálogo
+
+Si el gancho es el lado dulce-ambarino pero buscás cruzarte con menos gente que use el mismo frasco, [Lattafa Qaed Al Fursan](/producto/lattafa-qaed-al-fursan-eau-de-parfum-90ml-mla22234109) ocupa un lugar parecido con un perfil más seco y de oficina. Para subir un escalón hacia el oud serio, [Lattafa The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086) es la opción más adulta del catálogo. Y si preferís algo bien distinto al gourmand del 9PM, el amaderado especiado [Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215) o el cítrico-amaderado [Rasasi Hawas Black](/producto/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex-mla41306043) están en la misma repisa de precio. Para un panorama completo de la categoría, la guía de [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) compara duración, notas y precios entre marcas.
+
+## Para quién es (y para quién no)
+
+Es para vos si: querés un dulce reconocible para salidas nocturnas de otoño o invierno, buscás la entrada más segura al mundo de los orientales gourmand árabes, o simplemente querés el efecto Ultra Male sin pagarlo. No es para vos si: necesitás algo discreto para la oficina, lo vas a usar en pleno verano (el dulzor empalaga con calor), o te molesta cruzarte gente con el mismo perfume, porque es de los árabes más vendidos del país.
+
+## Veredicto
+
+El Afnan 9PM hace bien una sola cosa: ser un dulce masculino potente y reconocible para la noche fría, al precio de un árabe y no de un nicho. Si eso es lo que buscás, es de las compras más probadas del catálogo, con casi 27.000 opiniones respaldándolo. Si ya lo tenés o buscás algo menos común, [Lattafa The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086) o el [Rasasi Hawas Black](/producto/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex-mla41306043) tienen más personalidad en la misma franja de precio.`,
+    customerReviews: [
+      {
+        rating: 5,
+        country: "México",
+        date: "julio 2025",
+        text: "Cuando no conocés un producto, no sabés si es de buena calidad. Dudé varios días, subieron el precio y aun así me arriesgué y lo compré. No sé si es 100% original, pero se siente de buena calidad y trae varios sellos que, según investigué antes de comprar, confirman que es original. La tapa es pesada, de metal. La primera vez que lo usé me duró como 4 horas; después, prestando más atención, calculo que ronda las 6 a 8 horas. Por el precio, la relación calidad-precio me pareció buena.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "julio 2025",
+        text: "Según lo que había leído en otros comentarios, es un perfume que llama la atención en la noche. Lo uso para salidas y para reconciliarme con mi novia. Muy buenas prestaciones en proyección y duración, aroma exquisito.",
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2024",
+        text: "La paquetería dejó bastante que desear: llegó el paquete tirado, sin ningún cuidado.",
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2024",
+        text: "El aroma está bueno, pero es dulce y fuerte: con 4 atomizadas alcanza para destacar y hacerte notar. Lo recomiendo, pero tenés que ser de los que les gustan los perfumes dulces sí o sí.",
+      },
+    ],
+    specs: [
+      { label: "Marca", value: "Afnan" },
+      { label: "Nombre del perfume", value: "9 PM" },
+      { label: "Versión", value: "Limited Edition" },
+      { label: "Género", value: "Hombre" },
+      { label: "Tipo de perfume", value: "Eau de Parfum" },
+      { label: "Es recargable", value: "No" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2020" },
+      { label: "Es libre de crueldad", value: "Sí" },
+      { label: "Es vegano", value: "Sí" },
+      { label: "Es libre de alcohol", value: "No" },
+      { label: "Volumen de la unidad", value: "100 mL" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Notas olfativas (ficha técnica ML)", value: "Naranja" },
+      { label: "Duración aproximada declarada", value: "8 h" },
+      { label: "Familia olfativa", value: "Orientales" },
+      { label: "Número de legajo (resolución 155/98)", value: "2500" },
+    ],
+    faq: [
+      {
+        question: "¿El Afnan 9PM es dupe de qué perfume?",
+        answer: "Se lo considera el clon económico del Jean Paul Gaultier Ultra Male: comparten el ADN dulce, especiado y con base de vainilla. La diferencia es que el 9PM abre con manzana y canela en vez de la menta fría del Ultra Male, así que se siente más cálido y frutal.",
+      },
+      {
+        question: "¿Cuánto dura el Afnan 9PM en la piel?",
+        answer: "Afnan declara 8 horas en la ficha técnica. Las reseñas reales lo matizan: un comprador cuenta que la primera vez le duró 4 horas, y que ajustando la cantidad de aplicaciones llegó a las 6 u 8 horas.",
+      },
+      {
+        question: "¿Qué notas tiene realmente el Afnan 9PM?",
+        answer: "La ficha técnica de ML solo dice \"Naranja\", un dato genérico. La pirámide real, confirmada por Afnan y por Fragrantica, es manzana, canela, lavanda y bergamota arriba, azahar y lirio de los valles en el corazón, y vainilla, haba tonka, ámbar y pachulí de fondo.",
+      },
+      {
+        question: "¿Sirve para usar en verano?",
+        answer: "No es lo ideal. El perfil dulce con vainilla y manzana empalaga y satura con calor. Rinde mejor en otoño e invierno, para la noche.",
+      },
+      {
+        question: "¿Cómo saber si el frasco es original?",
+        answer: "Compradores reportan que la caja trae varios sellos y que la tapa es pesada, de metal, como señales de un producto original. No reemplazan un canal de verificación oficial, pero sirven de referencia.",
+      },
+      {
+        question: "¿Es solo para hombre?",
+        answer: "Esta versión EDP de 100 ml es pour homme. Afnan tiene otras variantes de la línea 9PM (Elixir, Night Out, Rebel) con composiciones y públicos distintos.",
+      },
+      {
+        question: "¿Sirve para la oficina?",
+        answer: "No conviene para un ambiente formal: proyecta fuerte las primeras horas. Rinde mejor en salidas nocturnas, cenas y citas.",
+      },
+    ],
   },
   {
     id: "MLAU3452900219",
     title: "Perfume Armaf Odyssey Mandarin Sky Limited Edition Edp 100 M",
+    canonicalName: "Armaf Odyssey Mandarin Sky Limited Edition EDP 100ml",
     brand: "Armaf",
     price: 115533,
     priceUpdated: "2026-07-08",
@@ -32763,45 +34170,191 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 15,
+    reviewCount: 17,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Cítrica frutal aromática"],
+    olfactiveFamily: ["Cítrica gourmand amaderada"],
     notes: {
-      top: ["Mandarina", "Bergamota", "Pera"],
-      heart: ["Jazmín", "Orquídea", "Notas marinas"],
-      base: ["Almizcle blanco", "Madera clara", "Ámbar"],
+      top: ["Mandarina", "Naranja", "Azafrán", "Salvia"],
+      heart: ["Caramelo", "Haba tonka", "Caléndula"],
+      base: ["Ambroxan", "Cedro", "Vetiver"],
     },
+    notesDisclaimer:
+      "Pirámide confirmada por el sitio oficial de Armaf y por Fragrantica, que coinciden nota por nota (lanzamiento 2023). La ficha técnica de Mercado Libre solo dice 'Haba tonka' y clasifica la familia como 'Cítrica Gurmet' (cítrica gourmand), un dato parcial pero no contradictorio. Las notas que traía antes esta ficha (bergamota, pera, jazmín, orquídea, notas marinas, almizcle blanco, madera clara) no corresponden a ninguna fuente verificable y fueron reemplazadas.",
     gender: "Hombre",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Armaf Odyssey Mandarin Sky EDP 100ml: review limited edition",
-    metaDescription: "Análisis del Armaf Odyssey Mandarin Sky Limited Edition EDP 100ml: cítrico fresco con mandarina, jazmín y notas marinas. Para primavera-verano. Precio en Argentina.",
-    ogTitle: "Armaf Odyssey Mandarin Sky 100ml — el Armaf más fresco para verano",
-    ogDescription: "Cítrico-frutal con apertura de mandarina y bergamota, corazón floral con notas marinas, fondo de almizcle y maderas claras. Versión Limited Edition.",
+    seoTitle: "Armaf Odyssey Mandarin Sky EDP 100ml: review con notas reales",
+    metaDescription: "Análisis del Armaf Odyssey Mandarin Sky EDP 100ml: notas reales de mandarina, naranja y caramelo, duración real según reseñas y precio en Argentina.",
+    ogTitle: "Armaf Odyssey Mandarin Sky 100ml: el cítrico-gourmand del catálogo Armaf",
+    ogDescription: "Apertura de mandarina, naranja y azafrán, corazón de caramelo y haba tonka, fondo de ambroxan y cedro. Rating 4,9 pero con muestra chica de reseñas.",
     h1: "Armaf Odyssey Mandarin Sky: el cítrico fresco del catálogo Armaf",
-    description: "Eau de parfum cítrico-frutal aromático para hombre con apertura de mandarina, bergamota y pera, corazón floral de jazmín, orquídea y notas marinas, y fondo limpio de almizcle blanco, madera clara y ámbar. Versión Limited Edition de la línea Odyssey.",
+    description: "Eau de parfum cítrico-gourmand para hombre con apertura de mandarina, naranja, azafrán y salvia, corazón de caramelo, haba tonka y caléndula, y fondo amaderado de ambroxan, cedro y vetiver. Se vende como 'Limited Edition', aunque es el nombre permanente de esta variante dentro de la línea Odyssey de Armaf desde 2023.",
     pros: [
-      "El Armaf más fresco — para primavera-verano sin saturación",
-      "Apertura cítrica brillante con mandarina y bergamota",
-      "Versión Limited Edition con presentación cuidada",
-      "Sillage moderado — no satura ambientes cerrados",
-      "Envío gratis",
+      "Notas reales confirmadas por Armaf y Fragrantica: mandarina, naranja, azafrán y salvia arriba, caramelo y haba tonka en el corazón, ambroxan, cedro y vetiver de fondo. Un cítrico-gourmand bien distinto del perfil floral marino que traía antes esta ficha.",
+      "Rating 4,9, con una reseña que confirma directamente que el frasco recibido era original.",
+      "Perfil fresco descrito por una compradora como 'fresco, interesante, huele a hombre limpio'.",
+      "Vegano y libre de crueldad animal según ficha técnica.",
+      "Envío gratis.",
     ],
     cons: [
-      "Longevidad menor que el Club de Nuit Intense (5-7 horas vs 8-10)",
-      "Menor sillage — proyecta menos en piel cálida",
-      "Para clima frío o eventos nocturnos, hay opciones más adecuadas en el catálogo",
-      "Solo 100 unidades vendidas — comunidad de reviews chica para validar",
+      "Muestra de reseñas chica: apenas 17 calificaciones, insuficiente para sacar conclusiones firmes sobre duración o autenticidad.",
+      "Duración dispar según la piel: la ficha declara 10 horas, pero una reseña dice 'duradero no' mientras otra reporta 'duración muy buena' en verano.",
+      "No incluye estuche ni es recargable.",
+      "El 'Limited Edition' del nombre es la variante permanente de esta línea dentro del catálogo Odyssey de Armaf desde 2023, no un lanzamiento realmente acotado.",
+      "Para ser un Armaf, marca conocida por precios accesibles, este no es de los más baratos del catálogo.",
     ],
-    verdict: "Si ya tenés el Armaf Club de Nuit Intense Man y querés del mismo catálogo algo más fresco para el día y los meses cálidos, este Odyssey Mandarin Sky es el complemento. No reemplaza al Intense para tarde-noche; es una alternativa diurna.",
+    verdict: "A $115.533, el Armaf Odyssey Mandarin Sky EDP 100ml es el cítrico-gourmand del catálogo Armaf para primavera-verano: mandarina y naranja arriba, caramelo y haba tonka en el corazón. Las reseñas confirman que el frasco es original, pero la duración es dispar según la piel, y el 'Limited Edition' del nombre no es un drop realmente limitado, es el nombre permanente de esta variante desde 2023. Si ya tenés el Club de Nuit Intense de la misma marca y buscás algo más liviano para el día, cumple; si necesitás una duración pareja garantizada, no es la mejor apuesta.",
     bestSeason: ["Primavera", "Verano"],
     bestOccasion: ["Uso diario", "Oficina", "Salidas diurnas", "Vacaciones"],
     notRecommendedFor: ["Otoño-invierno frío", "Eventos nocturnos donde necesités proyección"],
-    duration: "5-7 horas",
-    durationHours: 6,
+    duration: "Dispar según la piel: de floja a 6-8 horas",
+    durationHours: 7,
+    durationOfficial: 10,
+    durationDisclaimer:
+      "La ficha técnica declara 10 horas aproximadas. La propia descripción del vendedor, al advertir sobre las réplicas que circulan en el sitio, aclara que el original (15-20% de aceites esenciales) dura de 6 a 8 horas, y que una réplica con menor concentración apenas llega a 2-5. Las reseñas reales están divididas: una compradora resume 'rico, sí, duradero no', mientras otra reporta 'duración muy buena' para uso en verano. Con esa dispersión, no conviene esperar las 10 horas parejas todo el año.",
     projection: "Media",
+    projectionNote:
+      "Ninguna reseña reporta una proyección invasiva; el perfil se describe como fresco y limpio ('huele a hombre limpio'), no una bomba de sillage como el Club de Nuit Intense de la misma marca.",
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    includesCase: false,
+    isSet: false,
+    refillable: false,
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2023,
+    comparedTo: [
+      {
+        name: "Armaf Club de Nuit Intense Man (MLA16122300)",
+        similarity:
+          "Mismo fabricante. El Club de Nuit es el dupe de Aventus para tarde-noche con fondo amaderado-especiado; el Odyssey Mandarin Sky es la opción diurna, mucho más liviana y cítrica, sin overlap real de notas.",
+      },
+      {
+        name: "Lattafa The Kingdom Man (MLA41178086)",
+        similarity:
+          "Va al extremo opuesto: cuero, oud y vetiver serio para la noche, mientras el Odyssey Mandarin Sky es fresco y cítrico para el día.",
+      },
+    ],
+    aiReviewSummary:
+      "Con solo 17 reseñas la muestra es chica pero consistente: confirman que el frasco es original y que el perfil es fresco y cítrico ('huele a hombre limpio'). El punto de fricción es la duración: una reseña la describe como floja, otra como muy buena para el verano, sin consenso claro.",
+
+    articleBody: `Odyssey Mandarin Sky es una de las variantes de la línea Odyssey de Armaf, la misma casa emiratí detrás del Club de Nuit Intense Man. Salió en 2023 y sigue en catálogo bajo el nombre "Limited Edition", aunque no se trata de un lanzamiento acotado en el tiempo: es la variante permanente de esta versión dentro de la colección Odyssey. En Mercado Libre Argentina tiene 4,9 de rating, aunque sobre una base chica de 17 reseñas.
+
+## Las notas reales: cítrico y caramelo, no floral marino
+
+La ficha técnica de Mercado Libre solo menciona "Haba tonka" como nota y clasifica la familia olfativa como "Cítrica Gurmet" (cítrica gourmand). El sitio oficial de Armaf y Fragrantica coinciden en una pirámide más completa: arriba, mandarina, naranja, azafrán y salvia; en el corazón, caramelo, haba tonka y caléndula; de fondo, ambroxan, cedro y vetiver. Es un cítrico-gourmand con toque amaderado, bien distinto de la combinación floral marina (jazmín, orquídea, notas marinas) que describía antes esta misma ficha, un dato que no aparece en ninguna fuente verificable.
+
+## ¿Es un "Limited Edition" de verdad?
+
+No en el sentido estricto. El nombre "Limited Edition" identifica esta variante dentro de la colección Odyssey de Armaf desde su lanzamiento en 2023, y sigue vendiéndose sin cambios tres años después. No hay indicios de que sea un drop de cantidad limitada o que vaya a discontinuarse pronto. Tomalo como parte del nombre comercial, no como una promesa de exclusividad.
+
+## Duración: lo que dicen las reseñas, no solo la ficha
+
+La ficha declara 10 horas de duración aproximada. La propia descripción del vendedor, al advertir sobre las réplicas que circulan en el sitio, aclara que el original (Eau de Parfum, 15-20% de aceites esenciales) dura de 6 a 8 horas, mientras que una réplica con menor concentración apenas llega a 2-5. Las reseñas reales están divididas: una compradora resume "rico, sí, duradero no", mientras otra reporta "duración muy buena" para uso en verano. Con esa dispersión, no conviene esperar las 10 horas parejas todo el año; calculá algo más cerca de las 6-8 horas que promete la propia descripción del vendedor.
+
+## Cómo saber si es original
+
+La propia publicación advierte, en mayúsculas, que existen réplicas con holograma, batch-code y frasco casi idénticos al original, pero con menor concentración de aceites esenciales. Una reseña confirma en pocas palabras que el suyo era genuino ("efectivamente, es original"), y otra agrega que "si sabés cómo es y por eso lo comprás, excepto que venga relleno con agua, va a estar bien", en referencia al mismo riesgo de falsificación que menciona el vendedor.
+
+## ¿Con qué compararlo dentro del catálogo Armaf?
+
+Si ya tenés o querés el [Armaf Club de Nuit Intense Man](/producto/armaf-club-de-nuit-intense-man-edp-200ml-mla16122300), el dupe de Aventus que es la referencia de la marca para tarde-noche, el Odyssey Mandarin Sky es su contraparte diurna: mucho más liviano, cítrico y sin el fondo amaderado-especiado del Club de Nuit. Para un registro más serio de cuero y oud, [Lattafa The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086) va al otro extremo. Y si buscás algo aromático-frutal con más cuerpo pero de otra marca, [Rasasi Hawas Black](/producto/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex-mla41306043) es otra opción del catálogo. Para comparar precios y perfiles entre marcas, la [guía de mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) reúne varias alternativas.
+
+## Para quién es y para quién no
+
+Es para vos si: buscás un cítrico-gourmand liviano para primavera-verano o uso diario; ya tenés un Armaf más pesado (como el Club de Nuit Intense) y querés algo distinto para el día; no te importa que la muestra de reseñas sea chica. No es para vos si: necesitás una duración de 10 horas garantizada, porque las reseñas reales no la confirman pareja; buscás algo para otoño-invierno o eventos nocturnos con proyección fuerte; te preocupa el riesgo de réplicas, en cuyo caso conviene comprar solo a vendedores que se identifiquen como tienda oficial.`,
+
+    specs: [
+      { label: "Marca", value: "Armaf" },
+      { label: "Línea", value: "Odyssey" },
+      { label: "Nombre del perfume", value: "Odyssey Mandarin Sky" },
+      { label: "Versión", value: "Limited Edition (nombre permanente de la variante, no un drop limitado real)" },
+      { label: "Género", value: "Hombre" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Es recargable", value: "No" },
+      { label: "Volumen de la unidad", value: "100 mL" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Notas olfativas verificadas", value: "Mandarina, naranja, azafrán y salvia (salida); caramelo, haba tonka y caléndula (corazón); ambroxan, cedro y vetiver (fondo)" },
+      { label: "Duración aproximada", value: "10 h según la ficha; el vendedor describe 6-8 h para el original en su propia descripción" },
+      { label: "Familias olfativas", value: "Cítrica gourmand amaderada (ML la resume como \"Cítrica Gurmet\")" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2023" },
+      { label: "Es libre de crueldad", value: "Sí" },
+      { label: "Es vegano", value: "Sí" },
+      { label: "Es libre de alcohol", value: "No" },
+    ],
+
+    customerReviews: [
+      {
+        rating: 5,
+        date: "marzo 2026",
+        text: "Efectivamente, es original.",
+      },
+      {
+        rating: 4,
+        date: "marzo 2026",
+        text: "Rico, sí. Duradero no. Pero en relación calidad-precio, para mí está bastante bien.",
+      },
+      {
+        rating: 5,
+        date: "mayo 2026",
+        text: "Aroma cítrico y muy buena duración. Ideal para el verano.",
+      },
+      {
+        rating: 5,
+        date: "junio 2026",
+        text: "Espectacular perfume, fresco e interesante. Huele a hombre limpio.",
+      },
+    ],
+
+    faq: [
+      {
+        question: "¿El 'Limited Edition' es un lanzamiento realmente limitado?",
+        answer:
+          "No. Es el nombre de esta variante dentro de la línea Odyssey de Armaf, que salió en 2023 y sigue vendiéndose sin cambios. No hay indicios de que sea una edición acotada en cantidad o en el tiempo.",
+      },
+      {
+        question: "¿Cuánto dura en la piel?",
+        answer:
+          "La ficha declara 10 horas, un número optimista. El propio vendedor, al advertir sobre las réplicas, dice que el original dura de 6 a 8 horas. Las reseñas reales están divididas: una dice 'duradero no', otra reporta 'duración muy buena' en verano.",
+      },
+      {
+        question: "¿Cómo sé si el frasco que compro es original?",
+        answer:
+          "La misma publicación advierte que circulan réplicas con holograma y batch-code casi idénticos al original, pero con menor concentración de aceites esenciales (equivalente a un Eau de Toilette, no a un EDP real). Comprá solo a vendedores identificados como tienda oficial y revisá que el sello y el código coincidan.",
+      },
+      {
+        question: "¿Sirve para usar en verano?",
+        answer:
+          "Sí, es su mejor estación. El perfil cítrico con mandarina y naranja, sin fondo amaderado pesado, lo hace liviano para el calor. Una reseña lo confirma directamente: 'aroma cítrico, duración muy buena, para verano'.",
+      },
+      {
+        question: "¿Se parece a otro Armaf del catálogo?",
+        answer:
+          "Es la contracara del Club de Nuit Intense Man, el dupe de Aventus de la misma marca: mucho más liviano, cítrico y sin el fondo amaderado-especiado. Para la noche, el Club de Nuit sigue siendo la opción; para el día, este Odyssey Mandarin Sky.",
+      },
+      {
+        question: "¿Es para hombre o unisex?",
+        answer:
+          "La ficha técnica de Mercado Libre y Fragrantica lo catalogan como fragancia para hombre. No hay reseñas ni fuentes que lo describan como unisex.",
+      },
+      {
+        question: "¿Es vegano y libre de crueldad animal?",
+        answer:
+          "Sí, según la ficha técnica es vegano y libre de crueldad animal. No es libre de alcohol, algo esperable en un Eau de Parfum tradicional.",
+      },
+      {
+        question: "¿Incluye estuche?",
+        answer: "No, según la ficha técnica no incluye estuche ni es recargable.",
+      },
+    ],
+
+    relatedProducts: ["MLA16122300", "MLA41178086", "MLA41306043"],
   },
   {
     id: "MLA47054851",
@@ -33674,7 +35227,11 @@ Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le M
   {
     id: "MLA28060225",
     title: "Edp Lattafa Fakhar Woman X 100 Ml",
+    canonicalName: "Lattafa Fakhar Woman Rose EDP 100ml",
+    reviewsSampledAt: "2026-07-09",
     brand: "Lattafa",
+    line: "Fakhar",
+    version: "Rose",
     price: 71150,
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
@@ -33695,50 +35252,200 @@ Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le M
     affiliateUrl: "https://meli.la/2U3GQy8",
     condition: "new",
     freeShipping: true,
-    rating: 4.7,
-    reviewCount: 617,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.8,
+    reviewCount: 3759,
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Floral chypre frutal"],
+    olfactiveFamily: ["Floral afrutado"],
     notes: {
-      top: ["Frutos rojos", "Pera", "Bergamota"],
-      heart: ["Peonia", "Rosa", "Jazmín"],
-      base: ["Pachulí", "Ámbar", "Almizcle"],
+      top: ["Azahar", "Aldehídos", "Granada", "Frutas"],
+      heart: ["Nardo", "Jazmín", "Gardenia"],
+      base: ["Vetiver", "Pachulí", "Vainilla", "Sándalo", "Almizcle blanco"],
     },
+    notesDisclaimer:
+      "La pirámide oficial que publica Lattafa en su sitio (lattafa.com) es más corta: azahar arriba, nardo y jazmín en el corazón, vetiver y pachulí de fondo. La descripción ampliada del propio fabricante, que reproduce Mercado Libre y confirma Fragrantica, suma aldehídos, granada y frutas en la salida, gardenia en el corazón, y vainilla, sándalo y almizcle blanco en el fondo. La ficha técnica corta de ML solo menciona \"Pachulí, Vetiver\" con familia \"Frutales\", que es apenas el cierre de la pirámide completa, no toda la fragancia.",
     gender: "Mujer",
+    perfumeType: "Eau de Parfum",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Fakhar Woman EDP 100ml: review femenino",
-    metaDescription: "Análisis del Lattafa Fakhar Woman EDP 100ml: floral chypre con peonia y rosa, fondo de pachulí y ámbar. Versión femenina del Fakhar. Precio en Argentina.",
-    ogTitle: "Lattafa Fakhar Woman 100ml — la versión femenina del Fakhar",
-    ogDescription: "Floral chypre con apertura frutal de pera y bergamota, corazón de peonia y rosa, fondo de pachulí y ámbar. Versátil para uso diario.",
-    h1: "Lattafa Fakhar Woman: el floral chypre versátil del catálogo Lattafa",
-    description: "Eau de parfum floral chypre frutal para mujer con apertura frutal de frutos rojos y pera, corazón floral de peonia, rosa y jazmín, y fondo de pachulí, ámbar y almizcle.",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2022,
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: true,
+    isSet: false,
+    seoTitle: "Lattafa Fakhar Woman Rose EDP 100ml: review y opiniones",
+    metaDescription:
+      "Fakhar Woman Rose de Lattafa: floral afrutado con azahar, nardo y jazmín según el propio fabricante. Rating 4.8 con 3.759 reseñas reales. Duración, autenticidad y precio en Argentina.",
+    ogTitle: "Lattafa Fakhar Woman Rose 100ml: el floral afrutado con 3.759 reseñas",
+    ogDescription:
+      "Azahar, nardo y jazmín en la apertura, vetiver y pachulí de fondo. Rating 4.8 en Mercado Libre. Cómo distinguirlo de una réplica y a qué perfume caro se parece.",
+    h1: "Lattafa Fakhar Woman Rose EDP 100ml: review floral afrutado con reseñas reales",
+    description:
+      "Eau de parfum floral afrutado para mujer, versión Rose del Fakhar de Lattafa. Apertura de azahar, corazón de nardo y jazmín, fondo de vetiver y pachulí según la pirámide oficial del fabricante.",
     pros: [
-      "Floral chypre — categoría menos saturada que los gourmand dulces",
-      "Versátil entre día y noche, primavera y otoño",
-      "Precio sub-$45.000 con buena longevidad",
-      "Sillage moderado — no invade",
-      "Envío gratis y +1.000 unidades vendidas",
+      "Rating 4.8 con 3.759 reseñas, de las fichas femeninas de Lattafa con más volumen de opiniones",
+      "Pirámide floral afrutada (azahar, nardo, jazmín, vetiver, pachulí) confirmada por el sitio oficial de Lattafa, no solo por ML",
+      "Compradoras lo comparan con el Maria Cher Onyx, a una fracción del precio",
+      "Envío gratis, incluye estuche y es libre de crueldad animal según el fabricante",
+      "Versátil para el uso diario, sin ser un aroma invasivo",
     ],
     cons: [
-      "Rating 4 (no 5) — algunos reviews bajan por inconsistencia entre lotes",
-      "Si esperás algo viral como el Yara, este es más conservador",
-      "El pachulí en el fondo puede sentirse pesado en piel cálida",
+      "Fijación despareja: una reseña marca que \"no tiene buena fijación\" pese a que le gustó el aroma",
+      "Duración real reportada de 5 a 6 horas en piel, con proyección fuerte solo las primeras 3 horas",
+      "No es vegano ni libre de alcohol",
+      "Hay réplicas en circulación: conviene revisar holograma, código QR y de barras al recibirlo",
     ],
-    verdict: "Si querés salir del territorio Yara/Confession y probar un floral chypre con personalidad propia, el Fakhar Woman es buena opción. No es viral pero rinde para uso diario. La nota de pachulí lo diferencia del resto del catálogo Lattafa femenino.",
-    bestSeason: ["Primavera", "Otoño", "Invierno"],
-    bestOccasion: ["Uso diario", "Oficina", "Cenas casuales"],
-    notRecommendedFor: ["Verano caluroso (pachulí puede saturar)", "Quien busca un floral fresco y cítrico"],
-    duration: "7-9 horas",
-    durationHours: 8,
+    verdict:
+      "Con 4.8 de rating y 3.759 reseñas, Fakhar Woman Rose es una de las fichas femeninas más validadas del catálogo Lattafa a $71.150. La pirámide floral afrutada (azahar, nardo, jazmín, vetiver, pachulí) la hace versátil para el día a día, y varias compradoras la comparan con el Maria Cher Onyx, bastante más caro. Ojo con la fijación: no es de las de mayor duración del catálogo (5 a 6 horas reales en piel) y conviene verificar el holograma y el QR al recibirla para descartar réplicas.",
+    bestSeason: ["Primavera", "Verano"],
+    bestOccasion: ["Uso diario", "Oficina"],
+    notRecommendedFor: ["Quien busca fijación de más de 8 horas", "Quien ya tiene un Maria Cher Onyx"],
+    duration: "5 a 6 horas en piel",
+    durationHours: 6,
+    durationDisclaimer:
+      "Lattafa no declara una duración oficial en horas para este perfume. Las reseñas reales reportan entre 5 y 6 horas en piel, con proyección fuerte solo las primeras 3 horas.",
     projection: "Media",
+    projectionNote:
+      "Proyección fuerte durante las primeras 3 horas según las compradoras; después queda más pegada a la piel.",
+    comparedTo: [
+      {
+        name: "Maria Cher Onyx",
+        similarity:
+          "Percepción de una compradora real (\"es muy parecido al cher onyx... casi no hay diferencia\"). Ambos comparten notas de azahar, nardo, pachulí, vainilla y sándalo, pero no es una confirmación oficial de ninguna de las dos marcas.",
+      },
+    ],
+
+    articleBody: `Fakhar Woman Rose es una de las fichas femeninas de Lattafa con más reseñas en Mercado Libre Argentina: 3.759 calificaciones y un rating de 4.8. Es volumen suficiente para sacar conclusiones más allá del típico "lo compré a ciegas y me gustó".
+
+## A qué huele
+
+La pirámide oficial que publica Lattafa en su sitio es simple: salida de azahar, corazón de nardo y jazmín, fondo de vetiver y pachulí. La descripción ampliada, la misma que usa Mercado Libre y que confirma Fragrantica, suma matices: en la apertura aparecen también aldehídos, granada y frutas; en el corazón, gardenia junto al jazmín y el nardo; y en el fondo, vainilla, sándalo, ambroxan y almizcle blanco.
+
+En la práctica es un floral afrutado, más aldehídico y menos "dulce empalagoso" que buena parte del catálogo femenino de Lattafa. La ficha técnica corta de ML lo resume como "Pachulí, Vetiver" con familia "Frutales", que es la parte final de la pirámide, no toda la historia.
+
+## Cuánto dura en piel
+
+Acá conviene ser directos porque no todas las reseñas coinciden en lo mismo, pero tampoco se contradicen demasiado. Una compradora argentina detalla que la proyección es fuerte durante las primeras 3 horas y que la duración en piel ronda las 5 a 6 horas, según su tipo de piel. Otra compradora lo resume distinto: "es muy dulce, bastante fuerte, pero en la piel resulta agradable, no tiene buena fijación". Ninguna reseña revisada reporta más de 6 horas reales en piel.
+
+Lattafa no declara una cifra oficial de duración para este perfume puntual, así que acá no hay un "prometido vs. real" para comparar. Lo que sí hay es consenso entre compradoras: no es de las fragancias de mayor fijación del catálogo Lattafa.
+
+## Se parece al Maria Cher Onyx?
+
+Una compradora lo compara sin vueltas: "es muy parecido al cher onyx, es un aroma muy lindo pero si tenés el cher onyx no hace falta comprarlo porque casi no hay diferencia". No es una comparación al azar: Onyx, de la marca argentina Maria Cher, comparte varias notas con Fakhar Woman Rose, como azahar, nardo, pachulí, vainilla y sándalo.
+
+Dicho esto, es la percepción de una sola compradora, no una confirmación de ninguna de las dos marcas. Tomalo como una pista de a qué familia olfativa pertenece, no como garantía de que son intercambiables.
+
+## Cómo identificar el original
+
+Con este volumen de ventas también circulan réplicas. Una reseña detallada explica qué revisar al recibirlo: el holograma de Lattafa en 3D, el código QR que lleva a la página oficial del perfume, el código de barras y la fecha de vencimiento. La misma compradora, que ya tiene varios perfumes Lattafa y menciona Leen y Gharam como sus favoritos, confirmó que el suyo cumplía con esas señales. Su único problema fue que la caja llegó abollada, algo de logística del envío, no del producto en sí.
+
+## Para quién es y para quién no
+
+**Es para vos si:** buscás un floral afrutado versátil para el día a día, no necesitás una fijación de 8 o 10 horas, y te interesa algo distinto a los gourmand dulces que dominan el catálogo femenino de Lattafa, como [Her Confession](/producto/lattafa-her-confession-eau-de-parfum-100ml-volumen-de-la-unidad-100-ml-mla41304983) o [Yara Tous](/producto/lattafa-yara-tous-mujer-edp-100ml-mla40521028).
+
+**No es para vos si:** priorizás la duración por sobre todo (para eso rinde más el [Bade'e Al Oud Noble Blush](/producto/perfume-mujer-lattafa-bade-e-al-oud-noble-blush-edp-100ml-mla43643712), con base de oud más persistente), o si ya tenés un Maria Cher Onyx y buscás algo claramente distinto.
+
+Para ver cómo se ubica frente al resto de las fragancias femeninas de Lattafa, están todas comparadas en la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer).`,
+
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Nombre del perfume", value: "Fakhar" },
+      { label: "Versión", value: "Rose" },
+      { label: "Género", value: "Mujer" },
+      { label: "Tipo de perfume", value: "Eau de Parfum" },
+      { label: "Volumen de la unidad", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "Sí" },
+      { label: "Notas olfativas (ficha corta de ML)", value: "Pachulí, Vetiver" },
+      { label: "Familia olfativa (ficha corta de ML)", value: "Frutales" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2022" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+
+    relatedProducts: ["MLA41304983", "MLA43643712", "MLA40521028", "MLA53013853"],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "2025",
+        text: "Realmente muy bueno, fui a regalarle a mi ex y ella reconsideró, una segunda oportunidad. 10/10",
+        useful: 0,
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        date: "2025",
+        text: "Lattafa es una marca que me fascina, sus fragancias son verdaderamente increíbles, y ni hablar de los packagings que tiene, uno más lindo que el otro. Tengo varias de Lattafa, una de mis favoritas es Leen y le sigue Gharam. Ya conocía la fragancia de este perfume, pero no me animaba a comprarlo por acá, por el tema de la originalidad. Pero decidí arriesgarme, y tuve suerte, porque cumple con los requisitos a tener en cuenta para identificar su originalidad de una réplica (holograma de Lattafa en forma 3D, el código de QR que te lleva a la página del perfume, el código de barras, fecha de vencimiento, etc). Me agrada la intensidad que tiene, que a su vez es suave, delicado, es una fragancia que no invade de forma empalagosa, con notas dulces y florales, predominando al final el almizcle blanco, la vainilla y el sándalo. Tiene una proyección de 3 horas, y durabilidad entre 5 y 6 horas en piel, según mi ph. La presentación es muy bella. El único inconveniente que tuve fue que la caja estaba un poco abollada.",
+        useful: 0,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025",
+        text: "Es muy parecido al Cher Onyx. Es un aroma muy lindo, pero si tenés el Cher Onyx no hace falta comprarlo porque casi no hay diferencia.",
+        useful: 0,
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "2025",
+        text: "Compré el perfume a ciegas, no conocía la fragancia, es muy dulce, bastante fuerte, pero en la piel resulta agradable, no tiene buena fijación. Pero me gustó, los detalles son impecables.",
+        useful: 0,
+      },
+    ],
+
+    faq: [
+      {
+        question: "A qué huele Fakhar Woman Rose?",
+        answer:
+          "Según el sitio oficial de Lattafa, arranca con azahar, sigue con nardo y jazmín en el corazón y cierra con vetiver y pachulí. La descripción ampliada del fabricante (y Fragrantica) agregan aldehídos, granada y frutas en la salida, gardenia en el corazón, y vainilla, sándalo, ambroxan y almizcle blanco en el fondo. Es un floral afrutado, no un gourmand dulce como buena parte del catálogo Lattafa.",
+      },
+      {
+        question: "Cuánto dura en la piel?",
+        answer:
+          "Según las reseñas reales, entre 5 y 6 horas en piel, con proyección fuerte solo las primeras 3 horas. Lattafa no publica una cifra oficial de duración para este perfume, así que este dato sale directamente de las compradoras, no de una promesa de marca.",
+      },
+      {
+        question: "Se parece a algún perfume caro, como el Maria Cher Onyx?",
+        answer:
+          "Una compradora real lo compara directo con el Maria Cher Onyx y dice que \"casi no hay diferencia\". Ambos comparten notas de azahar, nardo, pachulí, vainilla y sándalo, lo que hace plausible el parecido. Pero es la percepción de una sola reseña, no algo confirmado por ninguna de las dos marcas, así que conviene tomarlo como orientación y no como garantía.",
+      },
+      {
+        question: "Cómo sé si el que compro es original y no una réplica?",
+        answer:
+          "Revisá el holograma de Lattafa en relieve 3D, el código QR (tiene que llevarte a la página oficial del perfume), el código de barras y la fecha de vencimiento impresa en el envase. Una compradora que ya tiene varios perfumes Lattafa confirmó que el suyo cumplía con todas esas señales.",
+      },
+      {
+        question: "Viene con estuche?",
+        answer:
+          "Sí, según la ficha técnica de Mercado Libre incluye estuche. Una compradora recibió el suyo con la caja abollada por el transporte, un problema de logística del envío y no del producto en sí.",
+      },
+      {
+        question: "Para qué ocasión o época del año conviene?",
+        answer:
+          "Por su perfil floral afrutado y aldehídico, rinde mejor en primavera y verano, para uso diario u oficina. No es una fragancia pesada ni invasiva, así que no hace falta reservarla para la noche.",
+      },
+      {
+        question: "Vale la pena a $71.150 frente a otras opciones de Lattafa para mujer?",
+        answer:
+          "Depende de qué perfil busques. Si querés algo dulce y gourmand, Her Confession o Yara Tous rinden más para ese lado. Si preferís algo con base de oud más persistente, Bade'e Al Oud Noble Blush dura más. Fakhar Woman Rose se diferencia por ser floral afrutado y menos dulce, con un rating (4.8) y volumen de reseñas (3.759) entre los más altos del catálogo femenino.",
+      },
+    ],
   },
   {
     id: "MLA37755803",
     title: "Lattafa Maahir Legacy Eau De Parfum 100ml Premium",
+    canonicalName: "Lattafa Maahir Legacy EDP 100ml",
     brand: "Lattafa",
     price: 56019,
     priceUpdated: "2026-07-08",
@@ -33760,50 +35467,195 @@ Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le M
     affiliateUrl: "https://meli.la/25mgKqX",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 326,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.7,
+    reviewCount: 1492,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Oriental especiado cuero"],
+    olfactiveFamily: ["Aromático fresco"],
     notes: {
-      top: ["Azafrán", "Pera", "Notas verdes"],
-      heart: ["Rosa", "Cardamomo", "Cuero"],
-      base: ["Oud", "Almizcle", "Vainilla"],
+      top: ["Lima", "Pomelo", "Menta", "Piña"],
+      heart: ["Pimienta negra", "Romero", "Incienso", "Enebro"],
+      base: ["Vetiver", "Ambroxan", "Musgo de roble", "Haba tonka"],
     },
+    notesDisclaimer:
+      "La ficha técnica corta de Mercado Libre solo lista las notas de fondo (ambroxan, musgo de roble, vetiver, haba tonka, cachemira) bajo la familia \"Aromático\". La pirámide completa, confirmada por el sitio oficial de Lattafa (lattafa.com) y por Fragrantica, es más larga: lima, pomelo, lavanda, menta y piña en la salida; enebro, romero, incienso y pimienta negra en el corazón; vetiver, ambroxan, musgo de roble, cachemira y haba tonka de fondo. El perfil real es un aromático fresco y cítrico, no un oriental especiado con oud pese a lo que puede sugerir el nombre \"Legacy\".",
     gender: "Hombre",
+    perfumeType: "Eau de Parfum",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Maahir Legacy EDP 100ml: review premium",
-    metaDescription: "Análisis del Lattafa Maahir Legacy 100ml: la versión premium del Maahir con azafrán, oud y cuero. Comparación con el Maahir original y precio en Argentina.",
-    ogTitle: "Lattafa Maahir Legacy 100ml — la versión más densa del Maahir",
-    ogDescription: "Oriental especiado con apertura de azafrán y pera, corazón de rosa y cardamomo, fondo de oud y vainilla. Versión Legacy más concentrada que el Maahir original.",
-    h1: "Lattafa Maahir Legacy: el oriental con azafrán y oud para clima frío",
-    description: "Eau de parfum oriental especiado para hombre con apertura de azafrán, pera y notas verdes, corazón floral-especiado de rosa, cardamomo y cuero, y fondo amaderado de oud, almizcle y vainilla. Versión Legacy del Maahir.",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2023,
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    refillable: false,
+    includesCase: true,
+    isSet: false,
+    seoTitle: "Lattafa Maahir Legacy EDP 100ml: review y notas reales",
+    metaDescription:
+      "Lattafa Maahir Legacy 100ml: aromático fresco con lima, pomelo, pimienta negra y vetiver, según el sitio oficial de Lattafa. Rating 4.7 con 1.492 reseñas. Duración real y precio en Argentina.",
+    ogTitle: "Lattafa Maahir Legacy 100ml: el aromático fresco con 1.492 reseñas reales",
+    ogDescription:
+      "Lima, pomelo, menta y piña en la apertura, pimienta negra e incienso en el corazón, vetiver y ambroxan de fondo. Rating 4.7 en Mercado Libre. Por qué el \"Premium\" del título es del vendedor, no de Lattafa.",
+    h1: "Lattafa Maahir Legacy EDP 100ml: review del aromático fresco con reseñas reales",
+    description:
+      "Eau de parfum aromático fresco para hombre, con apertura de lima, pomelo, menta y piña, corazón herbal-especiado de pimienta negra, romero e incienso, y fondo amaderado de vetiver, ambroxan y musgo de roble, según la pirámide oficial de Lattafa.",
     pros: [
-      "Azafrán + oud + cuero a un precio sub-$60.000 — combo difícil de encontrar",
-      "Versión Legacy es más concentrada y dura más que el Maahir original",
-      "Para alguien que ya conoce perfumes y quiere algo distintivo",
-      "Frasco premium con buena presentación",
-      "Envío gratis y +1.000 unidades vendidas",
+      "Rating 4.7 con 1.492 reseñas, volumen sólido dentro del catálogo masculino de Lattafa",
+      "Perfil aromático fresco y cítrico, distinto a los orientales con oud que dominan buena parte del catálogo Lattafa",
+      "Pirámide confirmada por el sitio oficial de Lattafa y por Fragrantica, no solo por la ficha corta de ML",
+      "Incluye estuche y envío gratis",
+      "Buena opción para quien recién arranca con perfumes árabes y no quiere algo pesado",
     ],
     cons: [
-      "Rating 4 (no 5) — algunos compradores reportan que la apertura no abre uniforme",
-      "El azafrán puede sentirse muy 'gourmet' para quien busca un masculino tradicional",
-      "No es la mejor opción si nunca probaste oud — puede resultar fuerte",
+      "Duración real reportada de 5 a 6 horas en piel, bastante menos que las 8 horas que declara la ficha técnica",
+      "El \"Premium\" del título es un agregado del vendedor, no una edición especial de Lattafa",
+      "Percepción muy dispar entre compradores: para algunos es dulce, para otros puramente cítrico",
+      "No es vegano ni libre de alcohol según la ficha técnica",
     ],
-    verdict: "Si ya tenés varios perfumes árabes y querés meterte en territorio más especiado, el Maahir Legacy es buen escalón. La salida con azafrán es lo distintivo — el resto del fondo es similar a otros oud-cuero del catálogo. Para tarde-noche en otoño-invierno.",
-    bestSeason: ["Otoño", "Invierno"],
-    bestOccasion: ["Salidas nocturnas", "Cenas", "Eventos casuales-formales"],
-    notRecommendedFor: ["Verano", "Quien busca un masculino simple", "Oficinas formales"],
-    duration: "8-10 horas",
-    durationHours: 9,
-    projection: "Media-alta",
+    verdict:
+      "Con 4.7 estrellas y 1.492 reseñas, Maahir Legacy es de los aromáticos frescos más probados del catálogo Lattafa para hombre: lima, pomelo y menta arriba, pimienta negra e incienso en el corazón, vetiver y ambroxan de fondo. No tiene nada de oud pese a lo que sugiere el nombre \"Legacy\": es fresco, cítrico y versátil, más cerca de un aromático tipo barbershop que de un oriental especiado. El \"Premium\" del título es un agregado del vendedor, no aparece en la ficha oficial de Lattafa, así que no esperes una versión distinta al Maahir Legacy estándar. Buena entrada para quien recién arranca con perfumes árabes.",
+    bestSeason: ["Primavera", "Verano"],
+    bestOccasion: ["Uso diario", "Oficina", "Gimnasio"],
+    notRecommendedFor: ["Quien busca oud y cuero", "Quien prioriza fijación de 8 horas o más", "Salidas nocturnas de invierno"],
+    duration: "5 a 6 horas en piel",
+    durationHours: 6,
+    durationOfficial: 8,
+    durationDisclaimer:
+      "La ficha técnica de Mercado Libre declara una duración aproximada de 8 horas. Las reseñas reales bajan esa cifra: un comprador que trabaja al aire libre y se mueve todo el día calcula 6 horas en piel, con estela y proyección \"aceptable\"; otro la marca en 5 horas. Ninguna reseña revisada reporta las 8 horas oficiales.",
+    projection: "Media",
+    projectionNote: "Proyección aceptable según las reseñas, no de las más fuertes del catálogo Lattafa.",
+
+    articleBody: `Maahir Legacy es uno de los aromáticos frescos del catálogo Lattafa para hombre, con 1.492 calificaciones y un rating de 4.7 en Mercado Libre Argentina. Volumen suficiente para sacar conclusiones reales, no solo de la ficha técnica.
+
+## A qué huele
+
+La pirámide oficial que publica Lattafa en su sitio es clara: salida de lima, pomelo, lavanda, menta y piña; corazón de enebro, romero, incienso (olíbano) y pimienta negra; fondo de vetiver, ambroxan, musgo de roble, cachemira y haba tonka. Fragrantica confirma la misma estructura casi nota por nota. Es un aromático fresco y cítrico, con un toque herbal-especiado en el corazón, más cerca de un "barbershop" moderno que de un oriental especiado con oud.
+
+La ficha técnica corta de Mercado Libre solo lista las notas de fondo (ambroxan, musgo de roble, vetiver, haba tonka, cachemira) bajo la familia "Aromático", que es apenas el cierre de la pirámide completa, no toda la fragancia.
+
+Vale aclararlo directo: el nombre "Legacy" no tiene relación con oud, cuero ni especias orientales pesadas. Si buscás ese perfil, [The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086) del mismo Lattafa va por ese lado.
+
+## Cuánto dura en la piel
+
+La ficha técnica de ML declara una duración aproximada de 8 horas, pero las reseñas reales bajan esa cifra. Un comprador que trabaja al aire libre y está en movimiento constante calcula 6 horas de duración en piel, con estela y proyección "aceptable". Otro comprador la marca en 5 horas, aunque aclara que el código de lote de su unidad no coincidía exactamente, algo que según él le pasa "a la mayoría de los perfumes árabes". Ninguna reseña revisada reporta las 8 horas oficiales.
+
+En resumen: esperá 5 a 6 horas reales en piel, no las 8 de la ficha.
+
+## El "Premium" del título, ¿es real?
+
+El título de la publicación le agrega "Premium" al nombre, pero esa palabra no aparece ni en el sitio oficial de Lattafa (lattafa.com) ni en Fragrantica: es un agregado del vendedor de la publicación, no una versión o edición especial declarada por la marca. Comprás el mismo Maahir Legacy estándar de 100ml, con el mismo frasco y las mismas notas. No existe una versión "no premium" con la que compararlo.
+
+## Original o réplica
+
+Con el volumen de ventas de perfumes árabes en general también circulan réplicas. Una reseña lo resume así: "aparentemente original con sello antiguo, el código de lote no coincide, pero la mayoría de los perfumes árabes no coinciden". No es una alerta puntual de este producto, es un comentario habitual del rubro. Ninguna de las reseñas revisadas reporta un producto claramente falso.
+
+## Para quién es y para quién no
+
+**Es para vos si:** buscás un aromático fresco y versátil para el día a día, no priorizás una fijación de 8 horas o más, y querés algo distinto a los orientales especiados con oud que dominan buena parte del catálogo masculino de Lattafa, como [Asad Intense](/producto/asad-lattafa-intense-hombre-edp-arabe-elegante-sexy-mla19715215).
+
+**No es para vos si:** buscás justamente ese perfil oriental con oud y cuero (ahí rinde más [The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086)), o si priorizás la duración por sobre todo, en cuyo caso el [Rasasi Hawas Ice](/producto/rasasi-hawas-ice-edp-100ml-hombre-mla29780185) reporta mejor persistencia con un perfil fresco similar.
+
+Para ver cómo se ubica frente al resto de las fragancias masculinas de Lattafa, están todas comparadas en la [guía de los mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).`,
+
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Maahir" },
+      { label: "Nombre del perfume", value: "Maahir Legacy" },
+      { label: "Versión", value: "EDP" },
+      { label: "Género", value: "Hombre" },
+      { label: "Tipo de perfume", value: "Eau de Parfum" },
+      { label: "Volumen de la unidad", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "Sí" },
+      { label: "Notas olfativas (ficha corta de ML)", value: "Ambroxan, musgo de roble, vetiver, haba tonka, cachemira" },
+      { label: "Familia olfativa (ficha corta de ML)", value: "Aromático" },
+      { label: "Duración aproximada (declarada)", value: "8 horas" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2023" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+
+    relatedProducts: ["MLA29780185", "MLA41178086", "MLA19715215"],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "enero 2026",
+        text: "Me encantó el perfume. Me parece fresco, acuático. Notas suaves, ideales para el calor y temperaturas más altas. La fragancia me sorprendió, ya que no me había gustado mucho el Maahir Black Edition, que es el caballo negro, lo encontré muy fuerte. El Legacy, por el contrario, es suave, agradable. Me encantó. Súper satisfecho. La colección sigue creciendo.",
+        useful: 0,
+      },
+      {
+        rating: 4,
+        country: "México",
+        date: "julio 2025",
+        text: "Honestamente y personalmente no es mi línea de fragancias pero necesitaba un aroma para el calor. Con 6 atomizaciones puedo decir que tengo una estela y proyección aceptable, para la gente tenía diferentes perspectivas, para unos era dulce, para otros cítrico, pero en lo personal predominan las notas cítricas y la menta. Calculo unas 6 horas de duración en la piel, yo trabajo en exterior por lo que estoy en movimiento constante y tal vez eso hace que se reactive la fragancia. Al parecer es original, no he investigado mucho al respecto pero en términos generales es un buen perfume.",
+        useful: 0,
+      },
+      {
+        rating: 4,
+        country: "Brasil",
+        date: "noviembre 2025",
+        text: "Aparentemente original con sello antiguo, el código de lote no coincide, pero la mayoría de los perfumes árabes no coinciden, olor muy bueno y duración aceptable de 5 horas. Comprado en la tienda DFF_cosmesticos.",
+        useful: 0,
+      },
+      {
+        rating: 4,
+        country: "Argentina",
+        date: "julio 2025",
+        text: "Muy rico, en la salida es demasiado cítrico pero en el secado resalta más lo frutal dulce. Buena duración y proyección para ser un perfume fresco.",
+        useful: 0,
+      },
+    ],
+
+    faq: [
+      {
+        question: "A qué huele el Maahir Legacy?",
+        answer:
+          "Según el sitio oficial de Lattafa, arranca con lima, pomelo, lavanda, menta y piña, sigue con enebro, romero, incienso y pimienta negra en el corazón, y cierra con vetiver, ambroxan, musgo de roble, cachemira y haba tonka. Es un aromático fresco y cítrico, no un oriental especiado con oud pese a lo que puede sugerir el nombre \"Legacy\".",
+      },
+      {
+        question: "Cuánto dura en la piel?",
+        answer:
+          "La ficha técnica de Mercado Libre declara 8 horas aproximadas, pero las reseñas reales bajan esa cifra a 5-6 horas en piel, con proyección aceptable las primeras horas. Ningún comprador de la muestra revisada reporta las 8 horas oficiales.",
+      },
+      {
+        question: "Es una versión \"premium\" real o es solo el título del vendedor?",
+        answer:
+          "Es el título del vendedor de la publicación. Ni el sitio oficial de Lattafa ni Fragrantica usan la palabra \"Premium\" para este perfume: es el mismo Maahir Legacy estándar de 100ml, sin una edición especial detrás.",
+      },
+      {
+        question: "Se parece a algún otro perfume?",
+        answer:
+          "Una compradora lo compara con el Maahir Black Edition, otro perfume de la misma línea Lattafa, y dice que este es \"suave y agradable\" frente al Black Edition, que le pareció \"muy fuerte\". No hay comparaciones con marcas de perfumería fina en las reseñas revisadas.",
+      },
+      {
+        question: "Cómo sé si el que compro es original?",
+        answer:
+          "Una reseña señala que el código de lote de su unidad no coincidía exactamente, pero aclara que le pasa \"a la mayoría de los perfumes árabes\" y no lo interpreta como señal de réplica. Ninguna de las reseñas revisadas reporta un producto claramente falso.",
+      },
+      {
+        question: "Para qué ocasión o época del año conviene?",
+        answer:
+          "Por ser un aromático fresco y cítrico, rinde mejor en primavera-verano y para uso diario, gimnasio u oficina. No es un perfume pesado para salidas nocturnas de invierno.",
+      },
+      {
+        question: "Vale la pena frente al Rasasi Hawas Ice, que es otro fresco del catálogo?",
+        answer:
+          "Depende de la prioridad. Hawas Ice tiene más volumen de reseñas y los compradores lo describen con mejor persistencia en piel. Maahir Legacy se diferencia por su corazón herbal-especiado (romero, incienso, pimienta negra), más \"barbershop\" que frutal. Si la duración es lo que más te importa, Hawas Ice rinde más; si buscás ese toque herbal, Maahir Legacy cumple.",
+      },
+    ],
   },
   {
     id: "MLA41178086",
     title: "Perfume Hombre Lattafa The Kingdom Man 100 Ml",
+    canonicalName: "Lattafa The Kingdom Man EDP 100ml",
     brand: "Lattafa",
     price: 62375,
     priceUpdated: "2026-07-08",
@@ -33826,49 +35678,186 @@ Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le M
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 731,
-    reviewsSampledAt: "2026-06-10",
+    reviewCount: 4092,
+    reviewsSampledAt: "2026-07-09",
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Amaderada oriental cuero"],
+    olfactiveFamily: ["Aromático ambarado"],
     notes: {
-      top: ["Bergamota", "Nuez moscada", "Pimienta negra"],
-      heart: ["Cuero", "Oud", "Pachulí"],
-      base: ["Ámbar", "Vetiver", "Almizcle blanco"],
+      top: ["Salvia", "Lavanda", "Menta"],
+      heart: ["Tabaco", "Vainilla", "Flor de naranja"],
+      base: ["Benjuí", "Haba tonka", "Ládano"],
     },
+    notesDisclaimer:
+      "La ficha técnica corta de Mercado Libre lista la nota olfativa como \"Amaderado\" y la familia como \"Orientales\", una etiqueta genérica que no coincide con la pirámide real. El sitio oficial de Lattafa (lattafa.com/product/kingdom-men) y Fragrantica coinciden nota por nota en una pirámide aromática-ambarada: salvia, lavanda y menta en la salida; tabaco, vainilla y flor de naranja en el corazón; benjuí, haba tonka y ládano de fondo. No hay cuero, oud ni vetiver en esta fragancia, pese a que una versión anterior de esta misma ficha los mencionaba.",
     gender: "Hombre",
+    perfumeType: "Eau de Parfum",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa The Kingdom Man EDP 100ml: review masculino",
-    metaDescription: "Análisis del Lattafa The Kingdom Man 100ml: amaderado oriental con cuero, oud y vetiver. Longevidad alta para tarde-noche. Precio en MercadoLibre Argentina.",
-    ogTitle: "Lattafa The Kingdom Man 100ml — el oriental con cuero y oud para impactar",
-    ogDescription: "Apertura especiada con bergamota y pimienta, corazón de cuero y oud, fondo de ámbar y vetiver. Longevidad de 9-11 horas reportada por compradores.",
-    h1: "Lattafa The Kingdom Man: el amaderado con cuero que se hace notar",
-    description: "Eau de parfum amaderado oriental para hombre con apertura especiada de bergamota, nuez moscada y pimienta negra, corazón intenso de cuero, oud y pachulí, y fondo de ámbar, vetiver y almizcle blanco.",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2024,
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    refillable: false,
+    includesCase: true,
+    isSet: false,
+    seoTitle: "Lattafa The Kingdom Man EDP 100ml: review con las notas reales",
+    metaDescription:
+      "Lattafa The Kingdom Man 100ml: aromático ambarado con salvia, tabaco y vainilla, según Lattafa y Fragrantica (no el \"amaderado con cuero y oud\" que decía esta ficha antes). Rating 4.8 con 4.092 reseñas. Precio en Argentina.",
+    ogTitle: "Lattafa The Kingdom Man 100ml: el aromático con tabaco y vainilla, no el oud que decía la ficha vieja",
+    ogDescription:
+      "Salvia, lavanda y menta en la apertura, tabaco, vainilla y flor de naranja en el corazón, benjuí, haba tonka y ládano de fondo. Rating 4.8 con 4.092 reseñas reales en Mercado Libre.",
+    h1: "Lattafa The Kingdom Man EDP 100ml: review del aromático con tabaco y vainilla",
+    description:
+      "Eau de parfum aromático ambarado para hombre, con apertura fresca de salvia, lavanda y menta, corazón cálido de tabaco, vainilla y flor de naranja, y fondo de benjuí, haba tonka y ládano, según la pirámide oficial de Lattafa.",
     pros: [
-      "Combinación cuero + oud + vetiver inusual al precio (sub-$80.000)",
-      "Longevidad muy alta — 9-11 horas reportadas",
-      "Sillage fuerte las primeras 3-4 horas",
-      "Posicionamiento masculino sin caer en el dulce-gourmand del catálogo Lattafa",
-      "Envío gratis y rating 5/5",
+      "Rating 4.8 con 4.092 reseñas, uno de los volúmenes más altos del catálogo Lattafa hombre",
+      "Perfil aromático ambarado con tabaco y vainilla, verificado contra el sitio oficial de Lattafa y Fragrantica",
+      "Varias compradoras describen reacciones fuertes de la gente alrededor, según las reseñas",
+      "Incluye estuche y envío gratis",
+      "Libre de crueldad y vegano según la ficha técnica",
     ],
     cons: [
-      "Para nada de oficinas formales conservadoras — es muy presente",
-      "El cuero y el oud pueden ser muy intensos para piel sensible",
-      "Si nunca usaste un oud, este no es el lugar para arrancar — buscá uno más suave",
+      "No es libre de alcohol",
+      "Proyecta fuerte: conviene arrancar con pocas atomizaciones y evitar el contacto con ojos y zonas íntimas, según advierte una reseña",
+      "La ficha técnica declara 8 horas de duración, pero ninguna reseña de la muestra confirma un número exacto de horas",
+      "La comparación con el Jean Paul Gaultier Le Male Elixir sale de una sola reseña, no de una fuente verificable",
     ],
-    verdict: "Si querés salir del territorio de los gourmand dulces (Emeer, Fakhar, 9PM) y meterte en cuero-oud serio sin pagar Tom Ford, el Kingdom Man cumple. Reservalo para tarde-noche en otoño-invierno; en primavera-verano puede ser demasiado.",
+    verdict:
+      "Con 4.8 estrellas y 4.092 reseñas, Kingdom Man es de los perfumes más probados del catálogo Lattafa hombre: salvia, lavanda y menta arriba, tabaco, vainilla y flor de naranja en el corazón, benjuí, haba tonka y ládano de fondo. Es un aromático ambarado con tabaco y vainilla, no el amaderado con cuero y oud que describía antes esta misma ficha. Si buscás ese perfil cálido y versátil para tarde-noche, cumple; si específicamente buscás oud o cuero protagonista, otros del catálogo Lattafa rinden más ese lado.",
     bestSeason: ["Otoño", "Invierno"],
-    bestOccasion: ["Salidas nocturnas", "Cenas formales", "Eventos"],
-    notRecommendedFor: ["Oficinas formales", "Verano", "Primer perfume árabe"],
-    duration: "9-11 horas",
-    durationHours: 10,
+    bestOccasion: ["Salidas nocturnas", "Citas", "Eventos"],
+    notRecommendedFor: ["Oficinas muy conservadoras", "Verano o climas muy calurosos", "Quien busca oud o cuero protagonista"],
+    duration: "8 horas según la ficha técnica",
+    durationHours: 8,
     projection: "Alta",
-    projectionNote: "Empezá con 1-2 sprays máximo. Proyecta más de lo que parece.",
+    projectionNote:
+      "Una reseña lo compara con un Jean Paul Gaultier y dice que proyecta menos, pero igual se hace notar fuerte. Otra directamente advierte con moderar la cantidad de atomizaciones y no aplicarlo cerca de los ojos ni de zonas íntimas.",
+
+    articleBody: `Lattafa The Kingdom Man tiene 4.092 calificaciones y un rating de 4.8 en Mercado Libre Argentina, uno de los volúmenes de reseñas más altos del catálogo masculino de Lattafa. Volumen suficiente para corregir varios datos que traía esta misma ficha.
+
+## A qué huele (y por qué la ficha vieja se equivocaba)
+
+El sitio oficial de Lattafa (lattafa.com/product/kingdom-men) publica una pirámide clara: salida de salvia, lavanda y menta; corazón cálido de tabaco, vainilla y flor de naranja; fondo de benjuí, haba tonka y ládano. Fragrantica confirma la misma estructura nota por nota y clasifica la fragancia como aromática, con acordes principales de ámbar, vainilla, dulce, tabaco, verde y especiado fresco.
+
+La ficha técnica corta de Mercado Libre solo dice "Amaderado" como nota olfativa y "Orientales" como familia, una etiqueta genérica que no describe bien el perfil real. Y una versión anterior de esta misma ficha llegaba a hablar de cuero, oud y vetiver, notas que no aparecen en ninguna fuente verificable para este perfume. Es un aromático ambarado con tabaco y vainilla, no un oriental con oud.
+
+## Se parece al Jean Paul Gaultier Le Male Elixir?
+
+Una compradora de Chile lo describe como "un 80% parecido" al Le Male Elixir de Jean Paul Gaultier, aunque aclara que proyecta menos que un JPG. Es una percepción de una sola reseña, no algo confirmado por Fragrantica ni por el fabricante, pero tiene sentido con la pirámide real: la combinación de lavanda-menta arriba con vainilla y haba tonka de fondo es un terreno cercano al de los "elixir" gourmand de JPG. Dentro del propio catálogo Lattafa, [Habik For Men](/producto/lattafa-habik-for-men-eau-de-parfum-100-ml-mla54145870) recibe una comparación parecida pero con el Le Male original (no el Elixir), así que si te gusta ese territorio "gourmand-aromático" inspirado en JPG, tenés dos puntos de entrada distintos dentro de Lattafa.
+
+## Cuánto dura y cómo proyecta
+
+La ficha técnica de Mercado Libre declara 8 horas aproximadas. Ninguna reseña de la muestra da un número exacto de horas, pero varias describen una fragancia que se hace notar con fuerza: una reseña bromea con que gasta plata en remeras nuevas porque la gente le toca el brazo al pasar cerca, y otra advierte directamente con moderar la cantidad de atomizaciones y no aplicarlo cerca de los ojos ni de zonas íntimas. Es una fragancia de sillage alto, sobre todo en las primeras horas.
+
+## Vegano y libre de crueldad, pero no libre de alcohol
+
+Según la ficha técnica, Kingdom Man es libre de crueldad y vegano, algo que no todos los perfumes del catálogo Lattafa declaran (por ejemplo, [Maahir Legacy](/producto/lattafa-maahir-legacy-eau-de-parfum-100ml-premium-mla37755803) no es vegano). No es libre de alcohol, así que no es la opción si buscás específicamente esa variante.
+
+## Para quién es y para quién no
+
+**Es para vos si:** buscás un aromático ambarado con tabaco y vainilla para tarde-noche en otoño-invierno, no te molesta un perfume con proyección alta, y ya conocés el catálogo Lattafa lo suficiente como para animarte a uno de los más votados, como el bestseller [Asad Intense](/producto/asad-lattafa-intense-hombre-edp-arabe-elegante-sexy-mla19715215).
+
+**No es para vos si:** buscás específicamente oud o cuero protagonista (esta ficha los mencionaba antes, pero no están en la pirámide real), preferís algo fresco y liviano para el día a día (ahí rinde más el aromático fresco y cítrico [Maahir Legacy](/producto/lattafa-maahir-legacy-eau-de-parfum-100ml-premium-mla37755803)), o trabajás en un ambiente muy formal donde un perfume de proyección alta no es bienvenido.
+
+Para ver cómo se ubica frente al resto de las fragancias masculinas de Lattafa, están todas comparadas en la [guía de los mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).`,
+
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Nombre del perfume", value: "The Kingdom" },
+      { label: "Versión", value: "Tradicional" },
+      { label: "Género", value: "Hombre" },
+      { label: "Tipo de perfume", value: "Eau de Parfum" },
+      { label: "Volumen de la unidad", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "Sí" },
+      { label: "Notas olfativas (ficha corta de ML)", value: "Amaderado" },
+      { label: "Familia olfativa (ficha corta de ML)", value: "Orientales" },
+      { label: "Duración aproximada (declarada)", value: "8 h" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2024" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+
+    relatedProducts: ["MLA54145870", "MLA19715215", "MLA37755803"],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025",
+        text: "Lo único malo de este perfume es que termino gastando en remeras nuevas: las chicas te agarran del brazo todo el tiempo cuando pasás cerca.",
+      },
+      {
+        rating: 5,
+        country: "Chile",
+        date: "2025",
+        text: "Se parece en un 80% al Jean Paul Gaultier Le Male Elixir, ideal para una cita. No proyecta tanto como un JPG, pero la presentación del frasco se siente mucho más cara de lo que es.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025",
+        text: "Con pocas atomizaciones alcanza y de sobra: me lo puse para ir al trabajo y tuve gente comentándomelo todo el día. Ojo con la cantidad que te ponés, que proyecta fuerte, y nunca lo apliques cerca de los ojos ni en zonas íntimas.",
+      },
+      {
+        rating: 5,
+        country: "Chile",
+        date: "2025",
+        text: "Delicioso. Se lo probé primero a mi hermano y después terminé usándolo yo, una fragancia hermosa.",
+      },
+    ],
+
+    faq: [
+      {
+        question: "A qué huele el Lattafa The Kingdom Man?",
+        answer:
+          "Según el sitio oficial de Lattafa y Fragrantica, arranca con salvia, lavanda y menta, sigue con tabaco, vainilla y flor de naranja en el corazón, y cierra con benjuí, haba tonka y ládano. Es un aromático ambarado con tabaco y vainilla, no el amaderado con cuero y oud que llegó a describir una versión anterior de esta ficha, ni el genérico \"Amaderado\" que dice la ficha corta de Mercado Libre.",
+      },
+      {
+        question: "Es parecido al Jean Paul Gaultier Le Male Elixir?",
+        answer:
+          "Una compradora de Chile lo describe como \"un 80% parecido\", aunque aclara que proyecta menos que un JPG. Es la percepción de una sola reseña, no algo confirmado por el fabricante ni por Fragrantica.",
+      },
+      {
+        question: "Cuánto dura en la piel?",
+        answer:
+          "La ficha técnica de Mercado Libre declara 8 horas aproximadas. Ninguna reseña de la muestra da un número exacto de horas, pero varias describen una fragancia de sillage fuerte que se nota en el entorno.",
+      },
+      {
+        question: "Es vegano y libre de crueldad?",
+        answer:
+          "Sí a ambas, según la ficha técnica. No es libre de alcohol, así que no es la opción si buscás específicamente esa variante.",
+      },
+      {
+        question: "Incluye estuche?",
+        answer: "Sí, según la ficha técnica de Mercado Libre.",
+      },
+      {
+        question: "Con cuántas atomizaciones alcanza?",
+        answer:
+          "Con pocas alcanza. Una reseña recomienda directamente moderar la cantidad y no aplicarlo cerca de los ojos ni de zonas íntimas, porque proyecta fuerte.",
+      },
+      {
+        question: "Para qué ocasión o época del año conviene?",
+        answer:
+          "Por su perfil cálido de tabaco y vainilla, rinde mejor en otoño-invierno y para salidas nocturnas o citas. En climas muy calurosos o ambientes de oficina muy formales puede resultar demasiado presente.",
+      },
+      {
+        question: "Con qué otro perfume del catálogo Lattafa se compara?",
+        answer:
+          "Dentro del catálogo masculino de Lattafa, Habik For Men recibe una comparación similar pero con el Le Male original de Jean Paul Gaultier (no el Elixir). Si preferís algo fresco y cítrico para el día a día en vez de este perfil cálido, Maahir Legacy va por ese lado. Y si querés el más vendido de la marca en el país como referencia, Asad Intense es el bestseller del catálogo.",
+      },
+    ],
   },
   {
     id: "MLA16122300",
     title: "Armaf Club de Nuit Intense Man EDP 200ml",
+    canonicalName: "Armaf Club de Nuit Intense Man EDP 200ml",
     brand: "Armaf",
     price: 101768,
     priceUpdated: "2026-07-08",
@@ -33890,51 +35879,207 @@ Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le M
     affiliateUrl: "https://meli.la/1BzsFJE",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 514,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.7,
+    reviewCount: 4547,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Amaderada aromática"],
+    olfactiveFamily: ["Amaderada especiada"],
     notes: {
-      top: ["Bergamota", "Limón negro", "Manzana"],
-      heart: ["Canela", "Cardamomo", "Rosa"],
-      base: ["Ámbar", "Pachulí", "Almizcle blanco"],
+      top: ["Piña", "Limón", "Grosella negra", "Bergamota", "Manzana"],
+      heart: ["Rosa", "Jazmín", "Abedul"],
+      base: ["Vainilla", "Ámbar gris", "Almizcle", "Pachulí"],
     },
+    notesDisclaimer:
+      "La ficha técnica corta de Mercado Libre resume las notas como \"Almizcle, Ámbar gris, Pachuli, Vainilla\" y la familia como \"Especiados\", que es solo el fondo. La descripción completa del vendedor en Mercado Libre, el sitio oficial de Armaf (armaf.com) y Fragrantica coinciden nota por nota en la pirámide completa: piña, limón, grosella negra, bergamota y manzana en la salida; rosa, jazmín y abedul en el corazón; vainilla, ámbar gris, almizcle y pachulí de fondo. Una versión anterior de esta ficha tenía canela y cardamomo en el corazón, notas que no aparecen en ninguna fuente verificable para este perfume.",
     gender: "Hombre",
+    perfumeType: "Eau de Parfum",
     concentration: "EDP",
     volume: 200,
     volumeUnit: "mL",
-    seoTitle: "Armaf Club de Nuit Intense Man EDP 200ml: review",
-    metaDescription: "Análisis honesto del Armaf Club de Nuit Intense Man EDP 200ml: el clon de Aventus a un cuarto del precio. Notas, longevidad real, a quién le queda y precio en MercadoLibre.",
-    ogTitle: "Armaf Club de Nuit Intense Man 200ml — el dupe de Aventus que se compra solo",
-    ogDescription: "Notas amaderado-frutales, longevidad de 8-10 horas, sillage fuerte. Por qué este flacon de 200ml es la opción obvia para quien quiere oler a Creed sin pagar Creed.",
-    h1: "Armaf Club de Nuit Intense Man: el dupe de Aventus que cumple lo que promete",
-    description: "Eau de parfum amaderado-aromático para hombre con notas de bergamota, manzana y limón negro en la salida, corazón especiado de canela y cardamomo, y un fondo de ámbar y pachulí. Versión 200ml.",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2015,
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    refillable: false,
+    includesCase: true,
+    isSet: false,
+    comparedTo: [
+      {
+        name: "Creed Aventus",
+        similarity:
+          "Fama extendida en la comunidad de fragancias como una de las alternativas económicas más conocidas al perfil de Aventus (piña, abedul, ámbar gris, almizcle). Armaf no lo promociona así de manera oficial, y ninguna de las 5 reseñas reales de la muestra de Mercado Libre lo menciona por nombre.",
+      },
+    ],
+    seoTitle: "Armaf Club de Nuit Intense Man EDP 200ml: review con notas reales",
+    metaDescription:
+      "Armaf Club de Nuit Intense Man EDP 200ml: notas reales de piña, abedul y ámbar gris (según Armaf y Fragrantica), duración real de 8 a 12 horas y por qué se lo conoce como alternativa a Creed Aventus. Rating 4.7 con 4.547 reseñas. Precio en Argentina.",
+    ogTitle: "Armaf Club de Nuit Intense Man 200ml: la alternativa a Aventus con más reseñas reales",
+    ogDescription:
+      "Piña, abedul, ámbar gris y almizcle según Armaf y Fragrantica. Duración real de 8 a 12 horas en piel, más en la ropa. Rating 4.7 con 4.547 reseñas en Mercado Libre.",
+    h1: "Armaf Club de Nuit Intense Man: el dupe de Aventus que cumple",
+    description:
+      "Eau de parfum amaderado especiado para hombre, con apertura frutal de piña, limón, grosella negra, manzana y bergamota, corazón floral de rosa, jazmín y abedul, y fondo de vainilla, ámbar gris, almizcle y pachulí, según la pirámide confirmada por Armaf y Fragrantica. Versión de 200ml.",
     pros: [
-      "Inspirado abiertamente en Creed Aventus a una fracción del precio",
-      "Longevidad de 8-10 horas reportada por la mayoría de compradores",
-      "Sillage alto las primeras 2-3 horas — se nota en una habitación",
-      "Frasco de 200ml — uno de los formatos más rendidores de la categoría",
-      "Envío gratis y rating 5/5 con +1.000 unidades vendidas",
+      "4.7 estrellas con 4.547 reseñas en Mercado Libre Argentina, uno de los perfumes árabes con más volumen de opiniones del catálogo",
+      "Conocido en la comunidad de fragancias como una de las alternativas más accesibles al perfil de Creed Aventus, aunque Armaf no lo promociona así de manera oficial",
+      "Duración real reportada por compradores de 8 a 12 horas en piel y hasta 24-48 horas en la ropa, por encima de las 8 horas que declara la ficha técnica",
+      "Frasco de 200ml, uno de los formatos más rendidores para el precio dentro de la categoría",
+      "Libre de crueldad y vegano según la ficha técnica",
+      "Incluye estuche y envío gratis",
     ],
     cons: [
-      "Apertura algo alcohólica los primeros 5-10 minutos hasta que abre",
-      "El parecido con Aventus se nota más en el corazón que en la salida",
-      "Para climas muy calurosos puede resultar invasivo — guardalo para tarde/noche",
+      "La apertura es intensa y algo alcohólica los primeros minutos, según describen dos reseñas antes de que asiente",
+      "No es libre de alcohol",
+      "Una reseña de México reporta cansancio olfativo (deja de sentirse en la piel propia) pasadas unas horas, aunque el aroma sigue presente en la ropa",
+      "Esa misma reseña cuestiona el batch por no encontrarlo en checkfresh pese a que el código coincidía entre frasco y caja; otra reseña de Chile sí confirma batch original. Conviene revisar el propio lote al recibirlo",
+      "La comparación con Creed Aventus circula mucho fuera de Mercado Libre, pero ninguna reseña de esta muestra la menciona por nombre",
     ],
-    verdict: "Si buscás una alternativa a Creed Aventus por menos de $150.000 y un frasco que te dure años, este es el comprado seguro. No es idéntico al original — la salida frutal de Aventus tiene un perfil más limpio — pero el corazón amaderado y la longevidad están a la altura. Para uso de oficina y eventos, cumple.",
+    verdict:
+      "Con 4.547 reseñas y 4.7 estrellas, Club de Nuit Intense Man es de los perfumes árabes con más volumen de opiniones reales del catálogo. Es fama extendida (no un reclamo oficial de Armaf) que funciona como alternativa económica a Creed Aventus por la combinación de piña, abedul, ámbar gris y almizcle. La apertura puede resultar fuerte los primeros minutos, pero la duración real (8 a 12 horas en piel, más en la ropa) suele superar lo que promete la ficha técnica. Conviene revisar el código de lote al recibirlo: no todas las reseñas coinciden en la verificación de originalidad.",
     bestSeason: ["Otoño", "Invierno", "Primavera"],
     bestOccasion: ["Oficina", "Reuniones de trabajo", "Salidas nocturnas", "Citas"],
-    notRecommendedFor: ["Verano caluroso (puede saturar)", "Ambientes muy formales conservadores"],
-    duration: "8-10 horas",
-    durationHours: 9,
+    notRecommendedFor: ["Verano muy caluroso (puede saturar)", "Ambientes muy formales conservadores"],
+    duration: "8 a 12 horas según la piel",
+    durationHours: 10,
+    durationOfficial: 8,
+    durationDisclaimer:
+      "La ficha técnica declara 8 horas aproximadas, pero varias reseñas reales reportan hasta 12 horas en piel y de 24 a 48 horas en la ropa, un caso donde el dato oficial queda por debajo de lo que reportan los compradores.",
     projection: "Alta",
-    projectionNote: "Las primeras 2-3 horas proyecta fuerte; después se acerca más a la piel.",
+    projectionNote:
+      "Las primeras 2-3 horas la salida es fuerte y puede sentirse algo alcohólica antes de asentar. Después se acerca más a la piel, aunque sigue siendo notable según las reseñas.",
+
+    articleBody: `Armaf Club de Nuit Intense Man tiene 4.547 calificaciones y un rating de 4.7 en Mercado Libre Argentina, uno de los volúmenes de reseñas más altos de todo el catálogo de perfumes árabes del sitio. Es, además, el perfume que más se repite como referencia cruzada en las demás fichas de la categoría.
+
+## A qué huele (y por qué la ficha corta de ML se queda corta)
+
+El sitio oficial de Armaf (armaf.com) y Fragrantica coinciden nota por nota en la misma pirámide: salida de piña, limón, grosella negra, bergamota y manzana; corazón de rosa, jazmín y abedul; fondo de vainilla, ámbar gris, almizcle y pachulí. La descripción larga del propio vendedor en Mercado Libre repite exactamente esas notas.
+
+La ficha técnica corta de ML, en cambio, solo lista "Almizcle, Ámbar gris, Pachuli, Vainilla" bajo la familia "Especiados", que es apenas el fondo de la fragancia. Es Amaderada Especiada completa, con una apertura frutal muy marcada por la piña, no un especiado plano.
+
+## Es en serio un dupe de Creed Aventus?
+
+Es la reputación que arrastra este perfume desde hace años en la comunidad de fragancias: por la combinación de piña, abedul, ámbar gris y almizcle, se lo menciona todo el tiempo como una de las alternativas económicas más conocidas al Aventus de Creed. Armaf nunca lo vendió así de manera oficial, y en la muestra de 5 reseñas reales de esta ficha ninguna lo nombra directamente. Vale como dato honesto: la fama es real y masiva fuera de Mercado Libre, pero acá no hay un comprador diciendo "huele a Aventus", sino elogios directos al aroma y a la duración.
+
+## Cuánto dura y cómo abre
+
+La ficha técnica declara 8 horas aproximadas. Las reseñas reales van más allá: una compradora de México reporta hasta 12 horas en piel y 24 horas en la ropa; otra de Argentina habla de mínimo 8 horas y "todo el día" si te aplicás bien. Es uno de los pocos casos donde el dato oficial queda corto frente a lo que reportan los compradores.
+
+Eso sí, la apertura no es para todos: dos reseñas la describen como fuerte, casi desagradable, en los primeros minutos, antes de asentar en el fondo amaderado y dulce. Una de ellas incluso menciona cansancio olfativo (dejar de sentir el propio perfume en la piel) pasadas unas horas, aunque aclara que el aroma se sigue percibiendo en la ropa.
+
+## Cómo saber si es original
+
+Una reseña de México plantea una duda real: el código de lote coincidía entre el frasco, la caja y el código QR, pero no lo encontró al buscarlo en checkfresh, lo que le generó cierta intriga sobre la autenticidad. Otra reseña, de Chile, revisó el batch por su cuenta y lo confirma como original. No hay una respuesta única en esta muestra: conviene revisar el propio código de lote al recibirlo antes de sacar conclusiones.
+
+## Para quién es y para quién no
+
+**Es para vos si:** buscás un amaderado especiado con apertura frutal fuerte y fondo dulce-ambarado, no te molesta una salida intensa los primeros minutos, y te interesa probar el perfume que más se menciona como alternativa a Creed Aventus dentro del catálogo de perfumes árabes, junto al bestseller [Asad Intense](/producto/asad-lattafa-intense-hombre-edp-arabe-elegante-sexy-mla19715215).
+
+**No es para vos si:** te molesta una apertura alcohólica antes de que asiente, buscás algo libre de alcohol, o preferís perfiles más cálidos y ambarados sin protagonismo frutal, como [The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086) o [Rasasi Hawas Black](/producto/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex-mla41306043).
+
+Para ver cómo se ubica frente al resto de las fragancias masculinas de la categoría, están todas comparadas en la [guía de los mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre).`,
+
+    specs: [
+      { label: "Marca", value: "Armaf" },
+      { label: "Línea", value: "Club de Nuit" },
+      { label: "Nombre del perfume", value: "Intense Man" },
+      { label: "Género", value: "Hombre" },
+      { label: "Tipo de perfume", value: "Eau de Parfum" },
+      { label: "Volumen de la unidad", value: "200 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "Sí" },
+      { label: "Notas olfativas (ficha corta de ML)", value: "Almizcle, Ámbar gris, Pachulí, Vainilla" },
+      { label: "Familia olfativa (ficha corta de ML)", value: "Especiados" },
+      { label: "Duración aproximada (declarada)", value: "8 h" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2015" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+
+    relatedProducts: ["MLA41306043", "MLA19715215", "MLA41178086"],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "2025",
+        text: "La apertura no es la mejor, pero después mejora muchísimo. Dura mínimo 8 horas y si te aplicás bien te aguanta todo el día. Mi calificación: 9 de 10.",
+      },
+      {
+        rating: 5,
+        country: "México",
+        date: "2024",
+        text: "Excelente perfume, huele riquísimo, no es fuerte, dura en la piel hasta 12 horas y en la ropa las 24 horas. Especial para conservadores, lo recomiendo.",
+      },
+      {
+        rating: 4,
+        country: "México",
+        date: "2025",
+        text: "Es un perfume que huele muy rico, la salida es un poco amarga e incómoda, al secar se hace muy agradable. A mí me provocó cansancio olfativo, no sentía el olor pero de vez en cuando lo podía notar. Me duró en piel entre 8 y 10 horas, en ropa fácil 48 horas. El código de lote coincide entre botella y caja, pero al buscarlo en checkfresh no aparece y eso me generó cierta intriga. Aparte la tapa cierra de lado, no cierra 100% vertical.",
+        useful: 0,
+      },
+      {
+        rating: 5,
+        country: "Chile",
+        date: "2024",
+        text: "El aroma es increíble. Si bien las notas de salida son potentes, luego queda un aroma tremendo, me encantó. Y revisando el batch y todo, es original.",
+      },
+    ],
+
+    faq: [
+      {
+        question: "A qué huele el Armaf Club de Nuit Intense Man?",
+        answer:
+          "Según Armaf y Fragrantica, arranca con piña, limón, grosella negra, bergamota y manzana, sigue con rosa, jazmín y abedul en el corazón, y cierra con vainilla, ámbar gris, almizcle y pachulí. Es amaderado especiado, no el genérico \"Especiados\" que dice la ficha corta de Mercado Libre.",
+      },
+      {
+        question: "Es realmente un dupe de Creed Aventus?",
+        answer:
+          "Es la fama que arrastra en la comunidad de fragancias por su combinación de piña, abedul, ámbar gris y almizcle, similar a la de Aventus. Armaf no lo promociona así de manera oficial, y ninguna de las 5 reseñas reales revisadas para esta ficha lo menciona por nombre.",
+      },
+      {
+        question: "Cuánto dura en la piel?",
+        answer:
+          "La ficha técnica declara 8 horas, pero las reseñas reales reportan hasta 12 horas en piel y de 24 a 48 horas en la ropa. Es uno de los casos donde el dato oficial queda por debajo de lo que reportan los compradores.",
+      },
+      {
+        question: "La apertura es fuerte?",
+        answer:
+          "Sí. Dos reseñas describen la salida como intensa y algo alcohólica los primeros minutos, antes de asentar en el fondo amaderado y dulce. Una de ellas menciona cansancio olfativo pasadas unas horas, aunque el aroma sigue presente en la ropa.",
+      },
+      {
+        question: "Cómo sé si el frasco que me llegó es original?",
+        answer:
+          "Revisá que el código de lote coincida entre el frasco, la caja y el código QR. Una reseña de México tuvo ese código coincidente pero no lo encontró en checkfresh, lo que le generó dudas; otra de Chile sí lo confirmó como original revisando el batch. No hay una respuesta única, conviene chequear el propio lote al recibirlo.",
+      },
+      {
+        question: "Es vegano y libre de crueldad?",
+        answer: "Sí a ambas, según la ficha técnica. No es libre de alcohol.",
+      },
+      {
+        question: "Incluye estuche?",
+        answer: "Sí, según la ficha técnica de Mercado Libre.",
+      },
+      {
+        question: "Para qué ocasión o época del año conviene?",
+        answer:
+          "Por su apertura frutal intensa y fondo amaderado, rinde mejor en otoño-invierno-primavera para oficina, reuniones de trabajo, salidas nocturnas y citas. En climas muy calurosos puede resultar invasivo.",
+      },
+      {
+        question: "Con qué otro perfume del catálogo se compara?",
+        answer:
+          "Dentro de la categoría, Asad Intense es el bestseller de referencia. Si preferís un perfil más cálido y ambarado sin tanto protagonismo frutal en la apertura, The Kingdom Man o Rasasi Hawas Black van por ese lado.",
+      },
+    ],
   },
   {
     id: "MLA32488004",
     title: "Perfume Unisex Fakhar Lattafa Pride Gold Extract Edp 100 Ml",
+    canonicalName: "Lattafa Fakhar Gold Extrait EDP 100ml",
     brand: "Lattafa",
     price: 45405,
     priceUpdated: "2026-07-08",
@@ -33956,51 +36101,196 @@ Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le M
     affiliateUrl: "https://meli.la/2RmHufc",
     condition: "new",
     freeShipping: true,
-    rating: 4.7,
-    reviewCount: 438,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.8,
+    reviewCount: 5242,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Oriental gourmand"],
+    olfactiveFamily: ["Floral", "Amaderado", "Ambarado"],
     notes: {
-      top: ["Frambuesa", "Pera", "Ron"],
-      heart: ["Café", "Ámbar", "Praline"],
-      base: ["Vainilla", "Tabaco", "Caramelo"],
+      top: ["Pimienta rosa", "Pomelo", "Cardamomo"],
+      heart: ["Acorde solar", "Artemisia", "Nardo"],
+      base: ["Cachemira", "Cuero", "Jara (láudano)", "Ámbar"],
     },
+    notesDisclaimer:
+      "La ficha técnica corta de Mercado Libre solo lista las notas de fondo (cachemira, cuero, jara y ámbar) bajo la familia genérica \"Floral\". La pirámide completa, confirmada por el sitio oficial de Lattafa (lattafa.com/product/fakhar-lattafa-gold), agrega una apertura fresca-especiada de pimienta rosa, pomelo y cardamomo, y un corazón floral-verde de acorde solar, artemisia y nardo.",
     gender: "Unisex",
+    line: "Fakhar",
+    version: "Intense",
+    perfumeType: "Eau de Parfum",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Fakhar Pride Gold Extract EDP 100ml: review unisex",
-    metaDescription: "Análisis del Lattafa Fakhar Pride Gold Extract EDP 100ml: oriental gourmand con café, vainilla y tabaco. Longevidad alta, sillage notable. Precio en Argentina.",
-    ogTitle: "Lattafa Fakhar Gold Extract — el oriental con café y vainilla que dura el día",
-    ogDescription: "Gourmand unisex con apertura frutal de frambuesa y pera, corazón de café y ámbar, base de vainilla y tabaco. Longevidad de 10+ horas reportada por compradores.",
-    h1: "Lattafa Fakhar Gold Extract: el oriental dulce-amargo que dura todo el día",
-    description: "Eau de parfum oriental gourmand unisex con notas de frambuesa, pera y ron en la salida, corazón intenso de café, ámbar y praline, y fondo dulce-amargo de vainilla, tabaco y caramelo.",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2023,
+    crueltyFree: true,
+    vegan: false,
+    alcoholFree: false,
+    refillable: false,
+    includesCase: false,
+    isSet: false,
+    seoTitle: "Lattafa Fakhar Gold Extrait EDP 100ml: review real",
+    metaDescription:
+      "Fakhar Gold Extrait de Lattafa: notas reales de pimienta rosa, cachemira, cuero, jara y ámbar según el fabricante. Aclaramos la confusión con la línea Pride del título. Rating 4.8 con 5.242 reseñas.",
+    ogTitle: "Lattafa Fakhar Gold Extrait 100ml: el unisex que ML vende mezclado con la línea Pride",
+    ogDescription:
+      "Pimienta rosa, pomelo y cardamomo arriba, nardo y artemisia en el corazón, cachemira, cuero y ámbar de fondo. Es el Fakhar Extrait real de Lattafa, no la colección Pride. Rating 4.8 con 5.242 reseñas.",
+    h1: "Lattafa Fakhar Gold Extrait EDP 100ml: review del unisex real",
+    description:
+      "Eau de parfum unisex de Lattafa con apertura fresca de pimienta rosa, pomelo y cardamomo, corazón floral-verde de acorde solar, artemisia y nardo, y fondo amaderado-ambarado de cachemira, cuero, jara y ámbar, según la pirámide oficial de Lattafa.",
     pros: [
-      "Longevidad muy alta — 10+ horas reportadas por la mayoría de compradores",
-      "Combinación café + vainilla + tabaco poco común a este precio",
-      "Versión 'Gold Extract' es más concentrada que el Fakhar tradicional",
-      "Frasco con presentación dorada premium",
-      "Envío gratis y rating 5/5 con +1.000 unidades vendidas",
+      "Rating 4.8 con 5.242 reseñas, uno de los volúmenes más altos de todo el catálogo Lattafa",
+      "Fondo amaderado-ambarado real (cachemira, cuero, jara, ámbar) que las reseñas confirman: fija bien y proyecta",
+      "Es unisex de verdad: así lo vende el propio fabricante en lattafa.com, no un maquillaje de marketing del vendedor",
+      "Con pocas rociadas alcanza para perfumar un ambiente entero, según más de una reseña",
+      "Envío gratis y stock disponible al momento de esta revisión",
     ],
     cons: [
-      "Demasiado dulce-pesado para ambientes formales o conservadores",
-      "El café y la vainilla pueden saturar en climas muy calurosos",
-      "Para piel cálida proyecta mucho — controlar dosis los primeros usos",
+      "El título de Mercado Libre mezcla dos líneas distintas de Lattafa (Fakhar y Pride), una confusión real que puede llevar a esperar otro perfume",
+      "La ficha técnica de ML lo clasifica como \"Género: Mujer\", pero el fabricante lo vende como unisex: dato contradictorio sin resolver",
+      "No incluye estuche según la ficha técnica",
+      "No es vegano ni libre de alcohol, aunque sí es libre de crueldad",
     ],
-    verdict: "Si te gustan los gourmand con café (Tom Ford Café Rose, Mancera Cedrat Boise) y querés algo en el rango sub-$50.000, el Fakhar Gold Extract es de los mejores aciertos del catálogo Lattafa. Para tarde/noche en otoño-invierno, es difícil que falle. Una sola dosis puede ser suficiente.",
+    verdict:
+      "A $45.405, el Fakhar Gold Extrait es de los Lattafa con más reseñas reales de toda la categoría: 5.242 opiniones y 4.8 de rating. El \"Pride\" que le agregó el vendedor al título es un error de nombre, no un cambio de producto: es el Fakhar Extrait que el propio Lattafa vende como unisex en su sitio oficial, con un fondo de cachemira, cuero, jara y ámbar que las reseñas confirman que fija y proyecta bien. Comprá por lo que es, no por lo que promete el título.",
     bestSeason: ["Otoño", "Invierno"],
-    bestOccasion: ["Salidas nocturnas", "Citas", "Eventos casuales-formales"],
-    notRecommendedFor: ["Oficinas formales conservadoras", "Verano (puede saturar)", "Climas muy húmedos"],
-    duration: "10-12 horas",
-    durationHours: 11,
+    bestOccasion: ["Salidas nocturnas", "Citas", "Eventos"],
+    notRecommendedFor: ["Climas muy calurosos", "Oficinas muy formales"],
+    duration: "8 horas según la ficha técnica",
+    durationHours: 8,
+    durationDisclaimer:
+      "La ficha técnica declara 8 horas aproximadas. Ninguna reseña de la muestra da un número exacto de horas, pero varias describen buena fijación y proyección: una compradora de Brasil cuenta que con solo dos rociadas el aroma se sentía en toda la casa.",
     projection: "Alta",
-    projectionNote: "Empezá con 2 sprays para calibrar — proyecta más de lo que parece.",
+    projectionNote:
+      "Más de una reseña describe una estela fuerte, incluso una compradora de Argentina que lo usó de noche y llamó la atención sin buscarlo.",
+
+    articleBody: `Fakhar Gold Extrait acumula 5.242 calificaciones y un rating de 4.8 en Mercado Libre Argentina, uno de los volúmenes más altos de toda la categoría de perfumes árabes del sitio. Volumen de sobra para sacar conclusiones reales, aunque primero hay que resolver un problema con el propio nombre de la publicación.
+
+## Fakhar o Pride: cuál es el perfume real
+
+El título de esta ficha dice "Fakhar Lattafa Pride Gold Extract", y ahí está el problema: Fakhar y Pride son dos líneas completamente distintas de Lattafa. Pride es una colección aparte, con perfumes como Afaq Gold, Tharwah Gold o Al Qiam Gold, que no tienen nada que ver con este. El producto real, confirmado en el sitio oficial de Lattafa (lattafa.com/product/fakhar-lattafa-gold), es el "Fakhar Extrait" (también llamado Fakhar Gold Extrait), lanzado en 2023 dentro de la línea Fakhar. El "Pride" que aparece en el título parece un error de quien armó la publicación, probablemente por copiar texto de otra ficha de la misma marca. No cambia el producto que vas a recibir, pero sí puede llevarte a esperar otra cosa si buscabas específicamente algo de la colección Pride, como [Vintage Radio](/producto/perfume-vintage-radio-lattafa-pride-100-ml-mla29077943), que sí pertenece a esa línea.
+
+## A qué huele
+
+La pirámide oficial de Lattafa es: salida de pimienta rosa, pomelo y cardamomo; corazón de acorde solar, artemisia y nardo; fondo de cachemira, cuero, jara (o láudano) y ámbar. La ficha técnica corta de Mercado Libre solo menciona las notas de fondo (cachemira, cuero, jara y ámbar) bajo una familia genérica "Floral", que describe apenas el cierre de la fragancia, no la apertura fresca-especiada ni el corazón floral-verde.
+
+En las reseñas reales, lo que más se repite es la parte amaderada-cálida del fondo: una compradora de Brasil lo describe como "amaderado intenso, fija muy bien, proyecta bien"; otra lo define como "dulce, cálido, rústico y un poco amaderado". Una tercera reseña, más crítica en el buen sentido, cuenta que esperaba algo más cítrico para el calor (por la apertura de pomelo) y no le pareció nada especial en ese aspecto, aunque igual quedó conforme con la compra.
+
+## Cuánto dura y cómo proyecta
+
+La ficha técnica declara una duración aproximada de 8 horas. Ninguna reseña de la muestra da un número exacto en horas, pero varias describen buena fijación y una estela que se nota: una compradora asegura que con dos rociadas el aroma "se siente en toda la casa", y otra, desde Argentina, cuenta que lo usó para salir de noche y no dejaron de acercarse a preguntarle qué perfume tenía puesto. Es consistente con un fondo de cuero, jara y ámbar, notas que suelen fijar bien y proyectar con el correr de las horas.
+
+## Mujer, hombre o unisex: qué dice cada fuente
+
+Acá hay otra contradicción que vale la pena aclarar. El título de la publicación dice "Unisex". El propio Lattafa, en su sitio oficial, también lo vende como "Unisex". Pero la ficha técnica de características de Mercado Libre lo clasifica como "Género: Mujer". Tres fuentes, dos versiones distintas. Una reseña real de Brasil confirma que lo compró específicamente por ser "Fakhar unisex", así que en la práctica se usa y se vende como tal. Si buscás algo pensado 100% para mujer dentro del mismo catálogo, [Fakhar Woman Rose](/producto/edp-lattafa-fakhar-woman-x-100-ml-mla28060225) es la variante que sí está declarada así de origen, y si preferís un perfil más dulce-gourmand, [Mayar](/producto/lattafa-mayar-edp-x100ml-mla25883660) va por ese lado.
+
+## Para quién es y para quién no
+
+**Es para vos si:** buscás un perfume unisex real (así lo vende el propio Lattafa), te gusta un fondo amaderado-ambarado con cuero y jara que las reseñas confirman que fija bien, y no te complica que el título de la publicación mezcle el nombre con otra línea de la marca.
+
+**No es para vos si:** buscás específicamente algo de la colección Lattafa Pride (ahí la opción real dentro del catálogo es Vintage Radio, no esta ficha), o preferís que la ficha técnica del vendedor no tenga contradicciones antes de comprar.
+
+Para ver otras fragancias de mujer y unisex de Lattafa comparadas una por una, la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer) reúne las más vendidas, y la [guía completa de perfumes árabes](/guias/perfumes-arabes) es el punto de partida si recién estás por comprar el primero.`,
+
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Fakhar" },
+      { label: "Nombre del perfume", value: "Fakhar Gold Extrait" },
+      { label: "Versión", value: "Intense" },
+      { label: "Género (declarado por ML)", value: "Mujer" },
+      { label: "Tipo de perfume", value: "Eau de Parfum" },
+      { label: "Volumen de la unidad", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Notas olfativas (ficha corta de ML)", value: "Cachemira, cuero, jara y ámbar" },
+      { label: "Familia olfativa (ficha corta de ML)", value: "Floral" },
+      { label: "Duración aproximada (declarada)", value: "8 h" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2023" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+
+    relatedProducts: ["MLA28060225", "MLA29077943", "MLA25883660", "MLA41304983"],
+
+    customerReviews: [
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "julio 2025",
+        text: "Nunca había usado un perfume árabe. Empecé por el más conocido, el Khamrah, y me encantó tanto que ya pienso comprar otro. Después quise probar este Fakhar unisex, buscando algo más cítrico para el calor, muy elogiado en internet. No le encontré nada especial, pero tampoco es que buscaba otra cosa. En general, muy conforme.",
+        useful: 0,
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "julio 2025",
+        text: "Perfume sensacional, amaderado intenso, fija muy bien, proyecta bien, olor sofisticado. Lo recomiendo muchísimo.",
+        useful: 0,
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "julio 2025",
+        text: "Mucho cuidado con esta fragancia. Lo usé para salir de noche y la gente no paraba de acercarse a preguntarme qué perfume tenía puesto.",
+        useful: 0,
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "agosto 2025",
+        text: "Fragancia increíble. Investigué bastante antes de comprar un perfume árabe y este me convenció por el precio, imbatible frente a otras tiendas. Aroma con toques dulces, cálido, rústico y un poco amaderado. Con solo dos rociadas ya se siente en toda la casa.",
+        useful: 0,
+      },
+    ],
+
+    faq: [
+      {
+        question: "Es un perfume de hombre, de mujer o unisex?",
+        answer:
+          "Hay tres versiones según la fuente. El título de la publicación y el propio sitio oficial de Lattafa (lattafa.com) lo venden como unisex. La ficha técnica de características de Mercado Libre, en cambio, lo clasifica como \"Género: Mujer\". Una reseña real de Brasil confirma que lo compró específicamente por ser \"Fakhar unisex\", así que en la práctica se usa y se vende como tal.",
+      },
+      {
+        question: "Por qué el título dice Fakhar y Pride al mismo tiempo?",
+        answer:
+          "Es un error de nombre del vendedor, no una característica real del producto. Fakhar y Pride son dos líneas distintas de Lattafa: esta fragancia es el Fakhar Gold Extrait (también llamado Fakhar Extrait), confirmado por el sitio oficial de Lattafa. La colección Pride es otra completamente distinta (Afaq Gold, Tharwah Gold, Al Qiam Gold), sin relación con este perfume.",
+      },
+      {
+        question: "A qué huele en realidad?",
+        answer:
+          "Según la pirámide oficial de Lattafa: pimienta rosa, pomelo y cardamomo en la apertura, acorde solar, artemisia y nardo en el corazón, cachemira, cuero, jara y ámbar de fondo. La ficha técnica corta de Mercado Libre solo menciona las notas de fondo bajo la familia \"Floral\".",
+      },
+      {
+        question: "Cuánto dura en la piel?",
+        answer:
+          "La ficha técnica declara 8 horas aproximadas. Ninguna reseña de la muestra da un número exacto, pero varias describen buena fijación: una compradora cuenta que con dos rociadas el perfume se sentía en toda la casa.",
+      },
+      {
+        question: "Se parece al Khamrah, el perfume árabe más conocido de Lattafa?",
+        answer:
+          "No según las reseñas revisadas. Una compradora que ya tenía el Khamrah compró después este Fakhar buscando algo más cítrico para el calor, pero aclara que no le pareció ni muy parecido ni especialmente distinto: son dos perfumes independientes dentro del mismo catálogo Lattafa.",
+      },
+      {
+        question: "Es vegano o libre de alcohol?",
+        answer: "Es libre de crueldad según la ficha técnica, pero no es vegano ni libre de alcohol.",
+      },
+      {
+        question: "Incluye estuche?",
+        answer: "No, según la ficha técnica de Mercado Libre.",
+      },
+      {
+        question: "Con qué otro perfume del catálogo Lattafa se compara?",
+        answer:
+          "Si buscás algo pensado específicamente para mujer, Fakhar Woman Rose es la variante declarada así de origen. Si preferís un perfil más dulce-gourmand, Mayar es otra opción del catálogo femenino. Y si lo que buscás es realmente la línea Pride que menciona el título, Vintage Radio sí pertenece a esa colección.",
+      },
+    ],
   },
   {
     id: "MLA28754461",
     title: "Lattafa Emeer Eau De Parfum Arabe Caja Con Luces De 100 Ml",
+    canonicalName: "Lattafa Emeer EDP 100ml",
     brand: "Lattafa",
     price: 81999,
     priceUpdated: "2026-07-08",
@@ -34022,45 +36312,181 @@ Para noche, invierno y el que busca un dulce-especiado con cuerpo al estilo Le M
     affiliateUrl: "https://meli.la/21q6DEg",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 323,
+    rating: 4.7,
+    reviewCount: 1347,
+    reviewsSampledAt: "2026-07-09",
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Oriental especiado"],
+    olfactiveFamily: ["Amaderado aromático"],
     notes: {
-      top: ["Pera", "Manzana", "Laurel"],
-      heart: ["Praline", "Canela", "Rosa"],
-      base: ["Tonka", "Sándalo", "Ámbar"],
+      top: ["Limón", "Bergamota", "Bayas de enebro", "Esclarea"],
+      heart: ["Cardamomo", "Té blanco", "Sándalo", "Incienso (olíbano)"],
+      base: ["Ámbar gris", "Cashmeran", "Pachulí", "Cedro"],
     },
-    gender: "Hombre",
+    notesDisclaimer:
+      "La ficha técnica corta de Mercado Libre resume las notas como 'Bergamota, Limón' y la familia como 'Cítricos', una etiqueta genérica que se queda corta. La pirámide completa está confirmada nota por nota entre el sitio oficial de Lattafa (lattafa.com/product/emeer) y Fragrantica, que clasifican el perfil como amaderado aromático, no solo cítrico.",
+    gender: "Unisex",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Emeer EDP 100ml: review y precio Argentina",
-    metaDescription: "Análisis del Lattafa Emeer EDP 100ml: oriental masculino con tonka, canela y sándalo. Longevidad, sillage y precio en MercadoLibre. Caja con luces incluida.",
-    ogTitle: "Lattafa Emeer 100ml — el oriental masculino con caja iluminada",
-    ogDescription: "Apertura frutal-laurel, corazón de praline y canela, fondo de tonka y sándalo. Caja con luces para regalo. Una de las opciones más solidas del catálogo Lattafa hombre.",
-    h1: "Lattafa Emeer: el oriental masculino con tonka que se nota",
-    description: "Eau de parfum oriental especiado para hombre con apertura frutal de pera y manzana acentuada con laurel, corazón especiado-dulce de praline, canela y rosa, y fondo amaderado de tonka, sándalo y ámbar. Presentación con caja iluminada.",
+    seoTitle: "Lattafa Emeer EDP 100ml: review, precio y caja con luces",
+    metaDescription: "Análisis del Lattafa Emeer EDP 100ml: amaderado aromático con limón, cardamomo y ámbar gris. Rating 4,7 en 1.347 reseñas, duración muy dispar y la caja con luces real.",
+    ogTitle: "Lattafa Emeer 100ml: la caja con luces que sí sorprende",
+    ogDescription: "Apertura cítrica de limón y enebro, corazón de cardamomo y té blanco, fondo de ámbar gris y pachulí. Rating 4,7 en más de 1.300 reseñas, aunque la duración divide aguas entre compradores.",
+    h1: "Lattafa Emeer EDP 100ml: amaderado cítrico con caja de luces",
+    description: "Eau de parfum amaderado aromático con apertura cítrica de limón, bergamota y bayas de enebro, corazón especiado de cardamomo, té blanco y sándalo, y fondo de ámbar gris, cashmeran y pachulí. Se vende como unisex, con una caja que se ilumina al abrirse.",
     pros: [
-      "Combinación tonka + canela + sándalo poco común en el rango de precio",
-      "Caja con luces — buena presentación si lo regalás",
-      "Longevidad de 8-10 horas reportada por compradores",
-      "Sillage moderado-alto las primeras horas, después se acerca a la piel",
-      "Envío gratis y rating 5/5 con +1.000 unidades vendidas",
+      "Pirámide amaderada aromática menos dulzona que el resto del catálogo Lattafa: limón, bergamota y enebro arriba, cardamomo, té blanco y sándalo en el medio, ámbar gris y pachulí de fondo",
+      "Caja con luces led real, confirmada por reseñas como sorpresa positiva para regalo, no solo una foto de la publicación",
+      "Proyección alta reportada de forma consistente: más de una reseña lo describe entre los perfumes más fuertes que probó",
+      "Rating 4,7 con 1.347 reseñas, volumen alto para evaluar antes de comprar",
+      "Libre de crueldad y vegano según ficha técnica, con stock disponible y envío gratis",
     ],
     cons: [
-      "Para alguien que no le gustan los orientales dulces, va a ser demasiado",
-      "Apertura frutal puede sentirse breve antes de pasar al especiado",
-      "No es para uso de oficina muy formal — proyecta",
+      "Duración muy dispareja entre reseñas: de 18 horas según un comprador de Brasil a 'no me dura mucho' según una compradora de Argentina, sin un número confiable único",
+      "Se vende como unisex (ficha de ML y sitio oficial de Lattafa), pero las reseñas lo describen como masculino: una aclara directamente que 'no es unisex, esto es para hombres'",
+      "Una compradora reporta que el precio de la publicación cambió de un día para el otro de forma abrupta: conviene comparar antes de asumir que el precio que ves es fijo",
     ],
-    verdict: "Si querés un oriental masculino sub-$80.000 con personalidad y no buscás copiar a otro perfume conocido, el Emeer es de los más distintivos del catálogo Lattafa. Funciona mejor en otoño-invierno; en primavera-verano puede ser demasiado.",
+    verdict: "A $81.999, Emeer es de los perfiles más frescos y menos dulzones del catálogo Lattafa: cítrico-herbal arriba, especiado-amaderado de fondo, sin el gourmand pesado que domina buena parte de la marca. La caja con luces es un plus real para regalo, confirmado por reseñas. Comprá con los ojos abiertos: la duración varía mucho de una piel a otra, y aunque se vende como unisex, las reseñas lo describen como un perfume que se percibe masculino.",
     bestSeason: ["Otoño", "Invierno"],
-    bestOccasion: ["Salidas nocturnas", "Cenas", "Citas", "Reuniones casuales-formales"],
-    notRecommendedFor: ["Oficinas con código olfativo restrictivo", "Verano caluroso"],
-    duration: "8-10 horas",
+    bestOccasion: ["Uso diario", "Salidas nocturnas", "Reuniones casuales"],
+    notRecommendedFor: ["Quien busca duración garantizada de muchas horas", "Quien busca un unisex parejo en el sentido literal"],
+    duration: "Entre pocas horas y 18 horas según la piel: la percepción varía mucho entre reseñas",
     durationHours: 9,
-    projection: "Media-alta",
+    durationOfficial: 9,
+    durationDisclaimer:
+      "La ficha técnica declara 9 horas. Las reseñas reales se reparten entre extremos: un comprador de Brasil asegura que dura unas 18 horas con 8 de proyección fuerte ('el perfume más fuerte que he sentido'), mientras que una compradora de Argentina cuenta que en su piel no le dura mucho, algo que le extrañó porque el resto de sus perfumes sí le perduran. No hay un número único confiable: conviene probar una muestra chica antes de confiar en cualquiera de los dos extremos.",
+    projection: "Alta",
+    projectionNote:
+      "Varias reseñas coinciden en una proyección fuerte desde la aplicación: una la describe como 'una estrella grande' que 'de verdad proyecta', y otra lo llama directamente 'el perfume más fuerte que he sentido'.",
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    includesCase: true,
+    isSet: false,
+    refillable: false,
+    applicationFormat: "Spray",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2024,
+    aiReviewSummary:
+      "Las reseñas coinciden en una apertura cítrica-herbal fuerte y buena proyección, pero se dividen fuerte en duración (de pocas horas a 18 según quien escriba) y en si el perfume es realmente unisex o se percibe como masculino. La caja con luces aparece mencionada de forma positiva como sorpresa de regalo.",
+    articleBody: `Emeer es la apuesta de Lattafa por un amaderado aromático más fresco y menos dulzón que el resto del catálogo de la marca, donde predominan los gourmands con vainilla y caramelo. Sale a $81.999 en Mercado Libre Argentina, con 4,7 de rating sobre 1.347 reseñas y el gancho de venta más particular del catálogo: una caja que se ilumina sola al abrirse.
+
+## La pirámide real: cítrico-herbal arriba, amaderado-ambarado de fondo
+
+La ficha técnica corta de Mercado Libre resume las notas como "Bergamota, Limón" y clasifica la familia como "Cítricos", una descripción genérica que se queda corta. La pirámide completa, confirmada nota por nota entre el sitio oficial de Lattafa (lattafa.com) y Fragrantica, es: salida de limón, bergamota, bayas de enebro y esclarea; corazón de cardamomo, té blanco, sándalo e incienso (olíbano); fondo de ámbar gris, cashmeran, pachulí y cedro.
+
+Fragrantica lo clasifica como amaderado aromático, más cercano a lo que describen las reseñas reales: una apertura cítrica y herbal marcada, seguida de un fondo especiado-amaderado que aparece después de la primera hora.
+
+## La caja con luces: el gancho real del listado
+
+El título del producto le da tanto protagonismo a la caja iluminada como al perfume, y no es exageración de marketing: al menos dos reseñas confirman que la caja se enciende sola apenas la abrís. Es un detalle del packaging pensado para regalo, no una característica técnica de la fragancia en sí (no figura en las especificaciones de Lattafa, es un agregado del vendedor en Mercado Libre). Si buscás el perfume por su fórmula y no te importa la presentación, no cambia nada; si es para regalar, es un plus real.
+
+## Duración y proyección: reseñas muy divididas
+
+La ficha declara 9 horas de duración. Ahí es donde más se dispersan las reseñas: un comprador de Brasil asegura que "dura unas 18 horas y proyecta unas 8, el perfume más fuerte que he sentido", mientras que una compradora de Argentina cuenta que en su piel "no me dura mucho", algo que le llamó la atención porque el resto de sus perfumes sí le duran. Ninguno de los dos extremos parece ser la norma: son percepciones de piel muy distintas para el mismo frasco, así que no conviene comprar esperando garantizado ni lo uno ni lo otro. La proyección, en cambio, aparece consistentemente alta en las reseñas: más de una la describe como "una estrella grande" que "de verdad proyecta".
+
+## Unisex según la ficha, masculino según quien lo usa
+
+Tanto Mercado Libre (campo Género: Sin género) como el sitio oficial de Lattafa (que lo cataloga "a fragrance for women and men") lo venden como unisex. Las reseñas no acompañan del todo esa lectura: una compradora lo aclara de forma explícita, "no es unisex, esto es para hombres", y otro comprador lo resume en una línea, "es más para hombre". Si buscás un unisex parejo en el sentido literal, este no es el caso más claro del catálogo; si te gusta un amaderado aromático con apertura cítrica fuerte, funciona bien pensado como masculino aunque la ficha diga otra cosa.
+
+## Contra el Asad Intense y el Kingdom Man
+
+Dentro del catálogo Lattafa para hombre, el bestseller [Asad Intense](/producto/asad-lattafa-intense-hombre-edp-arabe-elegante-sexy-mla19715215) es más gourmand y especiado, con un fondo dulce-amaderado más marcado; Emeer es la opción más fresca y menos dulzona de las dos. Contra [The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086), que es aromático-ambarado con tabaco y vainilla, Emeer vuelve a ser la variante más cítrica y menos cálida. Si el perfil aromático fresco te convence pero preferís algo aún más liviano para el día, [Maahir Legacy](/producto/lattafa-maahir-legacy-eau-de-parfum-100ml-premium-mla37755803) va por ese lado, sin el fondo ambarado de Emeer. Para un panorama completo de precios y familias olfativas, la [guía de mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre) compara varias opciones del catálogo.
+
+## Para quién es y para quién no
+
+Es para vos si: buscás un amaderado aromático menos dulce que el resto del catálogo Lattafa, con apertura cítrica-herbal marcada y fondo especiado-amaderado; te interesa la caja con luces como plus para regalo; no te molesta que la duración en tu piel sea una incógnita hasta probarlo. No es para vos si: buscás específicamente un unisex parejo, ya que las reseñas lo perciben como masculino pese a la ficha; necesitás una duración garantizada de muchas horas, porque las reseñas están muy divididas; preferís perfiles gourmand dulces como los que domina el resto del catálogo de la marca, ahí rinde mejor el [Asad Intense](/producto/asad-lattafa-intense-hombre-edp-arabe-elegante-sexy-mla19715215).`,
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Nombre del perfume", value: "Emeer" },
+      { label: "Versión", value: "Original" },
+      { label: "Género (ficha ML)", value: "Sin género (unisex, aunque las reseñas lo perciben como masculino)" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Familia olfativa (ficha ML)", value: "Cítricos (la pirámide completa confirmada es amaderada aromática)" },
+      { label: "Notas de salida", value: "Limón, bergamota, bayas de enebro, esclarea" },
+      { label: "Notas de corazón", value: "Cardamomo, té blanco, sándalo, incienso (olíbano)" },
+      { label: "Notas de fondo", value: "Ámbar gris, cashmeran, pachulí, cedro" },
+      { label: "Duración declarada", value: "9 horas (las reseñas van de pocas horas a 18)" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2024 según Lattafa y Fragrantica (la ficha de ML dice 2019)" },
+      { label: "Es recargable", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Incluye estuche", value: "Sí (el mismo con luces led del listado)" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+    customerReviews: [
+      {
+        rating: 5,
+        country: "México",
+        date: "julio 2025",
+        text: "Que maravilla de perfume, es algo increíble el olor, el olor se compone de tres etapas a mi parecer, la primer etapa es cuando lo rocías y tiene un olor fuerte a limón y una nota herbal, pasando los primeros 20 o 30 minutos pasa a la segunda etapa, aquí los olores se asientan y huele herbal y frutal a la vez. Cuando pasa el tiempo comienza la tercer y última etapa, donde el olor a madera comienza a salir, combinado con la nota herbal, una madera fresca y muy vibrante. Me encantó, lo voy a volver a comprar. Posdata: el perfume es varonil, yo tenía desconfianza porque decían que era unisex pero esto no es unisex, esto es para hombres.",
+      },
+      {
+        rating: 5,
+        country: "Brasil",
+        date: "2024",
+        text: "El mejor perfume árabe de la actualidad, tanto en fragancia como en rendimiento, es cítrico y floral, dura unas 18 horas y proyecta unas 8, el perfume más fuerte que he sentido.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "julio 2025",
+        text: "Lo compré en julio de 2024. El perfume es delicioso. A mí personalmente no me dura mucho, cosa que me parece muy extraña ya que tengo una piel donde todos los olores de los perfumes me perduran por mucho tiempo. La caja es algo impensado: cuando la abrís se prende una luz. Es un perfume realmente maravilloso para tener arriba de la cómoda o lucirlo. Lo único que me pareció mal de este lugar donde compré es que el precio cambió abismalmente de un día para el otro. Me pareció muy extraño.",
+      },
+      {
+        rating: 5,
+        country: "Argentina",
+        date: "julio 2025",
+        text: "La presentación es lo mejor, pero al probar el perfume tiene un aroma alimonado que perdura y queda exquisito en mi piel. Totalmente distinto a otras fragancias árabes. Muy recomendable, y más con semejante presentación y precio.",
+      },
+    ],
+    faq: [
+      {
+        question: "¿La caja con luces funciona a pilas o USB? ¿Viene incluida?",
+        answer:
+          "Viene incluida en la compra, no hay que comprarla aparte: es el mismo paquete del producto. Según reseñas reales, se enciende sola al abrir la tapa. Ni la publicación ni la ficha de Lattafa aclaran si son pilas reemplazables o una batería sellada, así que no des por hecho que dura para siempre.",
+      },
+      {
+        question: "¿Cuánto dura Emeer en la piel?",
+        answer:
+          "La ficha declara 9 horas oficiales. Las reseñas reales están muy divididas: un comprador de Brasil dice que le dura 18 horas con proyección fuerte, mientras una compradora de Argentina cuenta que en su piel casi no le dura. No hay un número confiable único, conviene probarlo antes de asumir cualquiera de los dos extremos.",
+      },
+      {
+        question: "¿Es un perfume para hombre o unisex?",
+        answer:
+          "Se vende como unisex: la ficha técnica de Mercado Libre lo marca 'Sin género' y el sitio oficial de Lattafa lo describe como fragancia para mujeres y hombres. Las reseñas no acompañan del todo esa lectura: una compradora aclara directamente que 'no es unisex, esto es para hombres', y otro comprador lo describe como 'más para hombre'.",
+      },
+      {
+        question: "¿Es libre de crueldad y vegano?",
+        answer:
+          "Sí a ambos, según la ficha técnica de Lattafa en Mercado Libre. No es libre de alcohol, algo esperable en un Eau de Parfum tradicional.",
+      },
+      {
+        question: "¿Incluye estuche?",
+        answer:
+          "Sí, la ficha lo confirma. Es el mismo estuche con luces led que se muestra en las imágenes de la publicación, no un accesorio aparte.",
+      },
+      {
+        question: "¿Cuál es el año de lanzamiento real?",
+        answer:
+          "Hay una discrepancia sin resolver: la ficha técnica de Mercado Libre indica 2019, pero tanto el sitio oficial de Lattafa como Fragrantica ubican el lanzamiento en 2024. No se fuerza un solo dato: es más probable que el de ML sea un valor genérico mal cargado, dado que las fotos del producto en Mercado Libre son de 2024 en adelante.",
+      },
+      {
+        question: "¿Por qué el precio de esta publicación cambia tanto?",
+        answer:
+          "Una reseña real señala que el precio le cambió de un día para el otro de forma abrupta. Es un comportamiento habitual en publicaciones de Mercado Libre con ofertas rotativas: conviene revisar el precio actual antes de comprar en vez de guiarte por lo que viste ayer.",
+      },
+      {
+        question: "¿Con qué otro perfume del catálogo Lattafa se compara?",
+        answer:
+          "El bestseller Asad Intense es más gourmand y especiado, con fondo dulce-amaderado marcado. The Kingdom Man es aromático-ambarado con tabaco y vainilla. Emeer es la opción más fresca y cítrica de las tres, sin el perfil dulce que domina buena parte del catálogo Lattafa.",
+      },
+    ],
+    relatedProducts: ["MLA19715215", "MLA41178086", "MLA37755803"],
   },
   {
     id: "MLA39865991",
@@ -35106,7 +37532,11 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
   {
     id: "MLA32288168",
     title: "Lattafa Yara Moi Eau de parfum Spray 100mL Mujer",
+    canonicalName: "Lattafa Yara Moi EDP 100ml",
     brand: "Lattafa",
+    line: "Yara",
+    version: "Moi",
+    perfumeType: "Eau de Parfum",
     price: 40720,
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
@@ -35127,53 +37557,141 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     affiliateUrl: "https://meli.la/1qBuAFB",
     condition: "new",
     freeShipping: true,
-    rating: 4.6,
-    reviewCount: 971,
-    reviewsSampledAt: "2026-06-10",
+    rating: 4.7,
+    reviewCount: 4952,
+    reviewsSampledAt: "2026-07-09",
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Floral oriental cítrico"],
+    olfactiveFamily: ["Floral", "Frutal", "Gourmand"],
     notes: {
-      top: ["Tangerina", "Mandarina", "Frutos rojos"],
-      heart: ["Gardenia", "Jazmín", "Orquídea"],
-      base: ["Ámbar", "Vainilla", "Almizcle"],
+      top: ["Pera", "Pimienta rosa", "Grosella negra"],
+      heart: ["Nardo (tuberosa)", "Jazmín", "Almendra"],
+      base: ["Vainilla", "Cashmeran", "Pachulí"],
     },
+    notesDisclaimer: "El sitio oficial de Lattafa (lattafa-usa.com) declara esta pirámide. Difiere de la propia descripción del vendedor en Mercado Libre (que habla de durazno y jazmín arriba, caramelo y ámbar de corazón, pachulí y sándalo de fondo, un perfil parecido pero no idéntico) y todavía más de la tabla de especificaciones de ML, que solo declara \"almizcle, sándalo, vainilla\" con familia \"Floral\", un dato genérico que no distingue a este perfume de otros de la línea. Usamos la pirámide del fabricante por ser la fuente más confiable.",
     gender: "Mujer",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
-    seoTitle: "Lattafa Yara Moi EDP 100ml: la versión más fresca del Yara",
-    metaDescription: "Análisis del Lattafa Yara Moi 100ml: la variante más cítrica y floral del Yara original. Comparación con Yara y Yara Tasmeem, longevidad y precio en Argentina.",
-    ogTitle: "Lattafa Yara Moi 100ml — el Yara más fresco para clima cálido",
-    ogDescription: "Floral oriental con apertura cítrica fuerte, corazón floral blanco y fondo de ámbar. La versión del Yara que sí funciona en primavera-verano.",
-    h1: "Lattafa Yara Moi: la versión cítrica del Yara para climas cálidos",
-    description: "Eau de parfum floral oriental cítrico para mujer con apertura intensa de tangerina y mandarina, corazón floral blanco de gardenia, jazmín y orquídea, y fondo más liviano de ámbar, vainilla y almizcle. Variante más fresca del Yara original.",
+    originCountry: "Arabia Saudita",
+    launchYear: 2022,
+    crueltyFree: false,
+    vegan: false,
+    alcoholFree: false,
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: false,
+    isSet: false,
+    duration: "6-8 horas según reseñas y fuentes independientes (una compradora reporta solo 2-3h)",
+    durationHours: 7,
+    durationOfficial: 12,
+    durationDisclaimer: "El vendedor en Mercado Libre declara 12 horas de duración aproximada. Una reseña real de Argentina lo contradice: \"tampoco dura tanto tanto, máximo 2 o 3 hs\" (aclara que retocando dura más). Blogs especializados en la línea Yara ubican al Moi en 6-8 horas con proyección media-baja, la variante de menor rendimiento de toda la familia Yara.",
+    projection: "Baja-Media",
+    projectionNote: "Es la variante de menor proyección de toda la línea Yara: perfil más pegado a la piel. Si buscás que se note en el ambiente, el Yara original o el Tous rinden más.",
+    seoTitle: "Lattafa Yara Moi EDP 100ml: review de la versión más suave",
+    metaDescription: "Análisis del Lattafa Yara Moi 100ml: la variante más suave y de menor proyección de la línea Yara. Notas del fabricante, duración real y precio en Argentina.",
+    ogTitle: "Lattafa Yara Moi 100ml: el Yara más suave de la línea",
+    ogDescription: "Floral-frutal-gourmand con pera, nardo, jazmín y fondo de vainilla y cashmeran. La versión más suave y discreta de la línea Yara, no la más fresca como sugiere el marketing genérico del nicho.",
+    h1: "Lattafa Yara Moi EDP 100ml: la versión más suave de la línea Yara",
+    description: "Eau de parfum floral-frutal-gourmand para mujer con apertura de pera, pimienta rosa y grosella negra, corazón de nardo, jazmín y almendra, y fondo cálido de vainilla, cashmeran y pachulí. La variante más suave y de menor proyección de toda la línea Yara de Lattafa.",
     pros: [
-      "Más versátil que el Yara original — funciona también en primavera-verano",
-      "Apertura cítrica que abre más rápido que el Yara clásico",
-      "Más liviano en el fondo — saturación menor",
-      "Precio sensiblemente menor al Yara original",
-      "Longevidad de 7-9 horas reportada por compradores",
+      "La variante más suave y discreta de toda la línea Yara: perfil floral-frutal-gourmand confirmado por el sitio oficial de Lattafa",
+      "4.7 estrellas en 4.952 calificaciones: volumen real, no una variante de nicho dentro de la familia",
+      "Precio bastante menor al Yara original (menos de la mitad en la publicación más vendida)",
+      "Buena opción para uso diario en oficina o estudio, donde una proyección alta molesta",
     ],
     cons: [
-      "Si esperás la firma exacta del Yara original, este se siente más ligero",
-      "Sillage menor que el Yara clásico — proyecta menos las primeras horas",
-      "Quien busca el dulzor de gourmand fuerte va a preferir el Yara original",
+      "Proyección baja-media: no es la opción si buscás que se note en el ambiente",
+      "El vendedor declara 12 horas de duración; reseñas reales y fuentes independientes hablan de 6-8 horas, con al menos un caso de 2-3 horas",
+      "No es vegano ni libre de crueldad, según la propia ficha",
+      "No incluye estuche ni es recargable",
     ],
-    verdict: "Si te gustó el Yara original pero te resulta pesado para el día o el verano, el Yara Moi es la respuesta. Mantiene la firma floral con un fondo más respirable. Para uso diurno todo el año, este rinde mejor que el original.",
-    bestSeason: ["Primavera", "Verano", "Otoño"],
-    bestOccasion: ["Uso diario", "Oficina", "Salidas diurnas"],
-    notRecommendedFor: ["Quien busca un Yara con más cuerpo (mejor el original)", "Eventos nocturnos donde necesités proyección"],
-    duration: "7-9 horas",
-    durationHours: 8,
-    projection: "Media",
+    verdict: "A $40.720, el Yara Moi es la versión más suave y discreta de toda la línea Yara: floral-frutal-gourmand con pera, nardo, jazmín, vainilla y cashmeran, confirmado por el sitio oficial de Lattafa. No es el cítrico fresco de verano que sugiere cierto marketing genérico del nicho, y la duración de 12 horas que declara el vendedor no se sostiene con las reseñas reales (6-8 horas es lo más realista). Buena elección para uso diario si el Yara original te resulta pesado; mala elección si necesitás proyección.",
+    bestSeason: ["Otoño", "Invierno", "Primavera"],
+    bestOccasion: ["Uso diario", "Oficina", "Estudio"],
+    notRecommendedFor: [
+      "Buscás alta proyección para la noche (mejor el Yara original o el Tous)",
+      "Buscás algo cítrico y fresco para el verano (esto es floral-gourmand, no cítrico)",
+      "Te importa que sea vegano o libre de crueldad (no lo es)",
+    ],
     comparedTo: [
-      { name: "Lattafa Yara EDP original", similarity: "Misma familia, Moi es más cítrico y liviano" },
+      { name: "Lattafa Yara EDP original", similarity: "Misma línea; el Moi es más suave y de menor proyección, no necesariamente más fresco" },
+      { name: "Lattafa Yara Tous EDP", similarity: "El Tous es la variante tropical-frutal con más rendimiento en calor; el Moi es más floral-gourmand y discreto" },
     ],
+    articleBody: `Yara Moi es la variante más suave y discreta de toda la línea Yara de Lattafa, lanzada en 2022. En Mercado Libre Argentina se vende con envío gratis a $40.720, bastante menos que el Yara original en su publicación más vendida. Tiene 4.7 estrellas en 4.952 calificaciones, un volumen alto que confirma que no es una variante de nicho dentro de la familia.
+
+## Notas y perfil olfativo
+
+El sitio oficial de Lattafa (lattafa-usa.com) declara la pirámide del Yara Moi: pera, pimienta rosa y grosella negra de salida; nardo (tuberosa), jazmín y almendra de corazón; vainilla, cashmeran y pachulí de fondo. Es un perfil floral-frutal-gourmand, no un cítrico fresco como sugieren algunas descripciones genéricas del nicho.
+
+Esto difiere de la propia descripción del vendedor en Mercado Libre, que habla de durazno y jazmín arriba, caramelo y ámbar en el corazón, y pachulí y sándalo de fondo (un perfil parecido pero no idéntico), y todavía más de la tabla de especificaciones de ML, que solo declara "almizcle, sándalo, vainilla" con familia "Floral", un dato genérico de categoría que no distingue a este perfume de ningún otro de la línea. Usamos acá la pirámide del fabricante por ser la fuente más confiable, aunque el perfil general (fruta más floral blanco más fondo dulce-amaderado) coincide entre las tres fuentes.
+
+## Qué exagera (y qué no) la publicación de Mercado Libre
+
+La ficha del vendedor declara una duración aproximada de 12 horas. Es un número alto incluso para el estándar del nicho árabe, y no se sostiene con lo que cuentan las propias compradoras: una reseña real de Argentina dice textual "tampoco dura tanto tanto, máximo 2 o 3 hs. Aunque unos retoques y dura más", y agrega que la variante de envase rosa de la línea (Yara Candy) dura bastante más. Blogs especializados en la línea Yara ubican al Moi en 6-8 horas con proyección media-baja, la variante más floja de la familia en ese aspecto, no las 12 horas que promete el listado. Es consistente con el carácter del perfume: no busca imponerse, es un perfil más pegado a la piel.
+
+Otro punto real: varias compradoras coinciden en que el fondo se percibe con una nota ambarina marcada, algo que no aparece de forma literal en la pirámide del fabricante (que declara cashmeran, no ámbar). No es una contradicción: el cashmeran suele leerse en la piel como una nota cálida y ambarina, así que la percepción de las compradoras es coherente con la composición real.
+
+## Yara Moi vs Yara original vs Yara Tous: cuál elegir
+
+El [Yara original](/producto/perfume-de-mujer-lattafa-yara-edp-100-ml-arabe-original-mlau2983186467) es la referencia de la línea: más proyección, perfil más dulce y presente, pensado para que se note. El Yara Moi es la contracara: mismo ADN floral-gourmand pero mucho más suave y de menor duración, pensado para uso diario en ambientes cerrados (oficina, estudio) donde no conviene saturar. Si el Yara original te resulta pesado o exagerado, el Moi es la alternativa lógica, no porque sea "más fresco" sino porque proyecta menos.
+
+Si en cambio buscás una Yara para primavera-verano con más punch frutal, el [Yara Tous](/producto/lattafa-yara-tous-mujer-edp-100ml-mla40521028) (mango, coco, maracuyá) rinde mejor en exteriores y calor. Y si el gancho es el lado más dulce y golosina, el [Yara Candy](/producto/lattafa-yara-candy-mujer-edp-100ml-mla39865991) va en esa dirección, aunque es un perfil polarizante según sus propias compradoras.
+
+## ¿Para quién es este perfume (y para quién no)?
+
+Es para vos si: ya probaste el Yara original y te resultó pesado o demasiado presente, buscás un floral-gourmand suave para uso diario en oficina o estudio, y no te importa pagar menos que por el Yara original a cambio de menor proyección. No es para vos si: necesitás que el perfume se note en el ambiente durante horas, buscás específicamente algo cítrico y fresco para el verano, o te importa que sea vegano y libre de crueldad (no lo es, según la propia ficha).
+
+## En resumen
+
+El Yara Moi es la versión más suave y de menor proyección de toda la línea Yara de Lattafa, con una pirámide floral-frutal-gourmand (pera, nardo, jazmín, vainilla, cashmeran) confirmada por el sitio oficial de la marca. La publicación de Mercado Libre exagera la duración (declara 12 horas; reseñas reales y fuentes independientes hablan de 6-8 horas, con al menos un caso de 2-3 horas). Con 4.7 estrellas en 4.952 calificaciones y precio bastante menor al Yara original, es una buena opción para quien busca un Yara de uso diario y no para quien busca proyección. Para ver el resto de la familia comparada en detalle, está la [guía completa de la línea Yara Lattafa](/guias/yara-lattafa-guia-completa) o el ranking completo de la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer).`,
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Yara" },
+      { label: "Versión", value: "Moi" },
+      { label: "Género", value: "Mujer" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Notas de salida", value: "Pera, pimienta rosa, grosella negra" },
+      { label: "Notas de corazón", value: "Nardo (tuberosa), jazmín, almendra" },
+      { label: "Notas de fondo", value: "Vainilla, cashmeran, pachulí" },
+      { label: "Familia olfativa (declarada por ML)", value: "Floral (dato genérico, ver análisis para la pirámide completa)" },
+      { label: "Duración declarada", value: "12 horas (dato del vendedor; reseñas reales reportan menos)" },
+      { label: "País de origen", value: "Arabia Saudita" },
+      { label: "Año de lanzamiento", value: "2022" },
+      { label: "Libre de crueldad", value: "No" },
+      { label: "Vegano", value: "No" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+    faq: [
+      { question: "¿En qué se diferencia el Yara Moi del Yara original?", answer: "El Yara original apunta a más proyección y un perfil más dulce y presente. El Yara Moi comparte el ADN floral-gourmand de la línea pero es mucho más suave y de menor duración, pensado para uso diario y no para que se note en el ambiente. No es que sea más fresco o cítrico, es que proyecta menos." },
+      { question: "¿Cuánto dura el Yara Moi en la piel?", answer: "El vendedor en Mercado Libre declara 12 horas, pero no se sostiene con las reseñas reales: una compradora de Argentina reporta apenas 2-3 horas antes de necesitar retocar. Blogs especializados en la línea Yara ubican al Moi en 6-8 horas con proyección media-baja, la variante de menor rendimiento de toda la familia." },
+      { question: "¿Es más fresco o cítrico que el Yara original?", answer: "No. Según el sitio oficial de Lattafa, la pirámide del Yara Moi es pera, pimienta rosa y grosella negra de salida, nardo y jazmín de corazón, y vainilla, cashmeran y pachulí de fondo: floral-frutal-gourmand, no un cítrico fresco de verano." },
+      { question: "¿Es original o una imitación?", answer: "Es un perfume original de Lattafa, con notas confirmadas en el sitio oficial de la marca (lattafa-usa.com). La ficha en Mercado Libre indica stock disponible al momento de esta revisión." },
+      { question: "¿Es vegano o libre de crueldad?", answer: "No. La propia ficha de especificaciones del producto declara que no es vegano ni libre de crueldad, algo que conviene aclarar porque otros productos de la línea Yara (como el set My Yara Collection) sí lo son." },
+      { question: "¿Para qué clima o estación conviene usarlo?", answer: "Varias reseñas reales lo describen como ideal para invierno o clima frío, por el fondo cálido de vainilla y cashmeran (percibido como ámbar). No es la opción pensada para el verano dentro de la línea Yara; para eso rinde mejor el Yara Tous." },
+      { question: "¿Con qué otro Yara se compara mejor?", answer: "El Yara Tous (mango, coco, maracuyá) es la opción con más punch frutal y mejor rendimiento en calor. El Yara Candy es la variante más dulce y golosina, pero un perfil polarizante según sus propias compradoras." },
+      { question: "¿Trae estuche o es recargable?", answer: "No a las dos cosas: según la ficha del producto, no incluye estuche y el frasco no es recargable." },
+      { question: "¿Vale la pena el precio comparado con el Yara original?", answer: "El Yara Moi cuesta bastante menos que el Yara original en su publicación más vendida. Si buscás el perfil clásico de la línea con más proyección, el original justifica la diferencia; si preferís algo suave para uso diario, el Moi rinde bien por menos plata." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "México", date: "2025", text: "Punto no. 1: es 100% original, huele fuerte e impone poder, teniendo como punto importante el hecho de que el perfume dura bastantes horas (recomiendo aplicar poco, ya que es fuerte y te puedes llegar a marear, pero es a criterio personal). Recomiendo totalmente la compra." },
+      { rating: 5, country: "Argentina", date: "2025", text: "Es exquisito pero tampoco dura tanto tanto, máximo 2 o 3 hs. Aunque unos retoques y dura más. El que más dura de lattafa es el de envase rosa, ese si como 6 8 hs o más. Y es más rico todavía." },
+      { rating: 4, country: "México", date: "septiembre 2025", text: "Es un perfume con un olor interesante diferente a todos los que he olido. Cierto es que tiene una nota de salida que al olerse se percibe un tanto como olor a viejita, supongo que es el jazmín, una nota fuerte y profunda, pero al mezclarse con las notas dulces y acarameladas lo hace ser un perfume único, elegante y sobrio pero no aburrido." },
+      { rating: 5, country: "México", date: "2024", text: "Delicioso. Muy elegante! ideal para invierno o clima frío! se nota bastante la nota de ámbar." },
+    ],
+    relatedProducts: ["MLAU2983186467", "MLA40521028", "MLA39865991"],
   },
   {
     id: "MLAU2983186467",
     title: "Perfume De Mujer Lattafa Yara Edp 100 Ml Arabe Original",
+    canonicalName: "Lattafa Yara EDP 100ml (original)",
     brand: "Lattafa",
+    line: "Yara",
+    version: "Original",
+    perfumeType: "Eau de Parfum",
     price: 95939,
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
@@ -35183,10 +37701,10 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     image: "https://http2.mlstatic.com/D_NQ_NP_931959-MLA91967799189_092025-O.webp",
     images: [
       "https://http2.mlstatic.com/D_NQ_NP_2X_931959-MLA91967799189_092025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_931959-MLA91967799189_092025-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_772717-MLA93314723531_092025-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_772717-MLA93314723531_092025-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_843284-MLA83600671659_042025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_664582-MLA100106171664_122025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_877879-MLA83309427672_042025-F.webp",
     ],
     category: "Belleza",
     categorySlug: "belleza",
@@ -35194,43 +37712,130 @@ Una compradora colombiana comparte un dato útil: "recomiendo dejar macerar por 
     affiliateUrl: "https://meli.la/2nDMa11",
     condition: "new",
     freeShipping: true,
+    rating: 4.6,
+    reviewCount: 348,
+    reviewsSampledAt: "2026-07-09",
     pastelColor: "var(--pastel-pink)",
-    olfactiveFamily: ["Oriental gourmand floral"],
+    olfactiveFamily: ["Oriental", "Ámbar-vainilla", "Floral gourmand"],
     notes: {
-      top: ["Tangerina", "Naranja", "Almendra"],
-      heart: ["Gardenia", "Orquídea", "Heliotropo"],
-      base: ["Almizcle", "Ámbar", "Sándalo"],
+      top: ["Mandarina", "Heliotropo", "Orquídea"],
+      heart: ["Notas tropicales", "Acorde gourmand"],
+      base: ["Vainilla", "Almizcle", "Sándalo"],
     },
+    notesDisclaimer: "La tabla de especificaciones de Mercado Libre trae una versión genérica de las notas ('Almizcle sándalo vainilla', familia 'Orientales'), pero la descripción completa del propio vendedor coincide nota por nota con la pirámide que publica Lattafa en su sitio oficial (lattafa.com/product/yara): salida de mandarina, heliotropo y orquídea, corazón de notas tropicales y acorde gourmand, fondo de vainilla, almizcle y sándalo. Usamos acá la pirámide completa por estar confirmada por dos fuentes independientes.",
     gender: "Mujer",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2020,
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: false,
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: false,
+    isSet: false,
     seoTitle: "Lattafa Yara EDP 100ml: review del perfume árabe más viral",
-    metaDescription: "Análisis del Lattafa Yara EDP 100ml: el perfume árabe femenino más viral de la categoría. Notas, longevidad real y precio actualizado en MercadoLibre Argentina.",
-    ogTitle: "Lattafa Yara 100ml — el perfume viral que rompió TikTok",
-    ogDescription: "Oriental gourmand-floral con tangerina, almendra y gardenia arriba, fondo de ámbar y sándalo. La fragancia que se agotó en TikTok y todavía rompe.",
+    metaDescription: "Análisis del Lattafa Yara EDP 100ml: el perfume árabe femenino más viral de la categoría. Notas confirmadas por Lattafa, duración real y precio actualizado en MercadoLibre Argentina.",
+    ogTitle: "Lattafa Yara 100ml: el perfume viral que rompió TikTok",
+    ogDescription: "Ámbar-vainilla dulce con mandarina, heliotropo y orquídea arriba, fondo de vainilla, almizcle y sándalo. El punto de entrada más clásico a la línea más viral de Lattafa.",
     h1: "Lattafa Yara: el perfume árabe femenino que se volvió obligatorio",
-    description: "Eau de parfum oriental gourmand floral para mujer con apertura de tangerina, naranja y almendra dulce, corazón de gardenia, orquídea y heliotropo, y fondo cálido de almizcle, ámbar y sándalo. La versión 100ml original.",
+    description: "Eau de parfum oriental ámbar-vainilla para mujer con apertura de mandarina, heliotropo y orquídea, corazón de notas tropicales y acorde gourmand, y fondo cálido de vainilla, almizcle y sándalo. La versión 100ml original de la línea Yara de Lattafa, la más viral de la marca.",
     pros: [
-      "El perfume árabe femenino más viral de los últimos 2 años — es viral por algo",
-      "Longevidad de 8-10 horas reportada por la mayoría de compradores",
-      "Sillage alto — proyecta varias horas sin que tengas que reaplicar",
-      "Combinación tangerina-almendra-gardenia poco común al precio",
-      "Envío gratis y rating muy alto en MercadoLibre",
+      "Rating 4.6 con 348 calificaciones en esta publicación; las 5 reseñas reales disponibles coinciden en describirlo como dulce, elegante y duradero",
+      "Pirámide ámbar-vainilla confirmada por el sitio oficial de Lattafa, coincidente con la descripción completa del propio vendedor",
+      "Es vegano y libre de crueldad animal según la ficha, algo que no comparten todas las variantes de la línea Yara (el Yara Moi, por ejemplo, no lo es)",
+      "El vendedor advierte de forma explícita sobre réplicas y explica cómo verificar el holograma y el QR del original",
+      "Envío gratis y +25 unidades disponibles al momento de esta revisión",
     ],
     cons: [
-      "Por viral está en todos lados — si te molesta cruzarlo, considerá la variante Moi o Tasmeem",
-      "Dulzor pronunciado — para climas muy calurosos puede saturar",
-      "Quien busque florales secos o cítricos limpios va a quedar afuera",
+      "Esta publicación puntual tiene bastantes menos reseñas (348) que otras variantes de la línea, como el Yara Moi (casi 5.000); puede deberse a la antigüedad del listado, no a la calidad del producto",
+      "La propia ficha es contradictoria en la duración: la tabla de características declara '1 días' (dato confuso), mientras la descripción del vendedor aclara 6-8 horas para la versión original",
+      "No es libre de alcohol",
+      "El propio vendedor dedica un párrafo entero a explicar cómo distinguir el original de una réplica, señal de que las falsificaciones de este perfume circulan con frecuencia",
+      "No es un clon exacto de ningún diseñador: las comparaciones con Lancôme La Vie Est Belle o Dior Poison Girl que circulan son percepciones de compradores y tiendas, no una fórmula idéntica",
     ],
-    verdict: "Si nunca probaste un perfume árabe y querés entender por qué tantas chicas se pasaron al género, este es el punto de entrada. Antes de meterte en versiones más exóticas (Yara Moi, Yara Tasmeem, Yara Candy), el Yara original es la referencia. Comprado seguro, no te va a fallar.",
+    verdict: "A $95.939, el Yara original es la puerta de entrada más lógica a la línea más viral de Lattafa: ámbar-vainilla dulce con mandarina, heliotropo y orquídea arriba, y fondo de vainilla, almizcle y sándalo, confirmado por el propio sitio de Lattafa. Es vegano y libre de crueldad, algo que no todas las variantes de la línea comparten. Compra con los ojos abiertos: la ficha de ML es contradictoria en la duración (la tabla dice '1 días', la descripción del vendedor aclara 6-8 horas) y el propio vendedor advierte que circulan réplicas con holograma idéntico, así que conviene verificar el QR al recibirlo.",
     bestSeason: ["Otoño", "Invierno", "Primavera"],
     bestOccasion: ["Uso diario", "Salidas", "Cenas", "Citas"],
-    notRecommendedFor: ["Verano muy caluroso (puede saturar)", "Quien busca florales austeros o cítricos limpios"],
-    duration: "8-10 horas",
-    durationHours: 9,
+    notRecommendedFor: ["Verano muy caluroso (puede saturar)", "Quien busca florales austeros o cítricos limpios", "Quien busca un clon exacto de un perfume de diseñador puntual"],
+    comparedTo: [
+      { name: "Lancôme La Vie Est Belle", similarity: "Comparación externa citada por tiendas y reseñas internacionales por el fondo praliné-vainilla dulce; no es un clon exacto ni una declaración oficial de Lattafa." },
+      { name: "Dior Poison Girl", similarity: "Comparación de un comprador real de esta publicación ('imita al Poison Girl de un tal Dior, que sale 5 veces más'), percepción individual, no verificada por una fuente técnica." },
+    ],
+    duration: "6-8 horas según la descripción del vendedor",
+    durationHours: 7,
+    durationDisclaimer: "La tabla de características de Mercado Libre declara una 'Duración aproximada' de '1 días', un dato confuso que probablemente sea un error de carga (quiso decir 'dura todo el día'). La descripción completa del vendedor es más clara: aclara que la versión original, con 15% a 20% de aceites esenciales (concentración de Eau de Parfum), dura de 6 a 8 horas, mientras que las réplicas que circulan con el mismo frasco bajan a la concentración de una Eau de Toilette o Eau de Cologne (2% a 5% de aceites), con mucha menos duración. Ninguna de las 5 reseñas reales disponibles da un número exacto de horas, pero todas coinciden en describirlo como duradero, sin contradecir el rango de 6-8 horas.",
     projection: "Alta",
-    projectionNote: "Las primeras 2 horas proyecta fuerte; controlar dosis los primeros usos.",
+    projectionNote: "Varias reseñas describen que proyecta bastante; controlar dosis los primeros usos.",
+    articleBody: `El Yara original de Lattafa es el eau de parfum femenino que la casa emiratí lanzó en 2020 y que terminó siendo el punto de partida de toda una categoría: perfumes árabes virales de nicho accesible. En Mercado Libre Argentina esta publicación puntual tiene 4.6 estrellas en 348 calificaciones y se vende a $95.939 con envío gratis.
+
+## Qué dice el fabricante sobre las notas
+
+Lattafa declara en su sitio oficial (lattafa.com/product/yara) una pirámide de mandarina, heliotropo y orquídea de salida, notas tropicales y acorde gourmand en el corazón, y vainilla, sándalo y almizcle de fondo. La descripción larga del propio vendedor en Mercado Libre coincide nota por nota con esa pirámide. El problema está en la tabla de especificaciones técnicas de la ficha, que resume todo eso en una sola línea genérica: "almizcle, sándalo, vainilla", familia "Orientales". Es un dato real pero incompleto, solo describe el fondo. Acá usamos la pirámide completa, confirmada por dos fuentes independientes (Lattafa y el propio vendedor).
+
+## ¿Es un dupe de La Vie Est Belle?
+
+Es la pregunta que más se repite sobre este perfume. La respuesta corta: no es un clon exacto de nada, pero sí comparte familia con perfumes de nicho más caros. Varias tiendas y reseñas externas lo describen como una alternativa accesible a Lancôme La Vie Est Belle, por el fondo praliné-vainilla dulce que ambos comparten, aunque la salida frutal del Yara es más liviana y su base menos pesada en almizcle blanco. Entre las reseñas reales de esta publicación aparece otra comparación distinta: un comprador que lo regaló describe que "imita al poison girl de un tal dior, que sale 5 veces más". Ninguna de las dos comparaciones es una declaración oficial de Lattafa, son percepciones de compradores y de terceros, no una fórmula idéntica confirmada.
+
+## Duración: la ficha se contradice a sí misma
+
+Acá hay algo raro que vale la pena marcar. La tabla de características del producto declara una "Duración aproximada" de "1 días", un dato que no tiene mucho sentido tal cual está escrito (probablemente un error de carga que quiso decir "dura todo el día"). La descripción completa del vendedor es mucho más clara: explica que la versión original, con 15% a 20% de aceites esenciales, dura de 6 a 8 horas, mientras que las réplicas que circulan con el mismo frasco y holograma bajan a la concentración de una Eau de Toilette o Eau de Cologne (2% a 5% de aceites), con mucha menos duración. Ninguna de las 5 reseñas reales disponibles da un número exacto de horas, pero todas coinciden en describirlo como duradero, sin contradecir el rango de 6-8 horas que declara el propio vendedor.
+
+## Cómo distinguir el original de una réplica
+
+El propio vendedor dedica buena parte de la descripción a advertir sobre esto: dice textual que "actualmente se ofrecen en el sitio réplicas con holograma, batch-code y contenedor idéntico al original". La señal de autenticidad que reportan las compradoras reales es el holograma 3D en la caja y el código QR, que redirige a una página de verificación (en inglés, según cuenta una compradora que no llegó a entenderla del todo). Si el frasco que llega no tiene holograma ni QR, o el aroma se siente mucho más liviano que lo descripto acá, es señal de que puede tratarse de una réplica y no del original con 15-20% de concentración.
+
+## Yara original vs Moi, Tous, Candy y Elixir: cuál elegir
+
+Dentro de la misma línea de Lattafa hay varias variantes que conviene no confundir. El [Yara Moi](/producto/lattafa-yara-moi-eau-de-parfum-spray-100ml-mujer-mla32288168) es la versión más suave y de menor proyección de toda la familia, pensada para uso diario en ambientes cerrados. El [Yara Tous](/producto/lattafa-yara-tous-mujer-edp-100ml-mla40521028) es la variante tropical-frutal (mango, coco, maracuyá), mejor pensada para el verano. El [Yara Candy](/producto/lattafa-yara-candy-mujer-edp-100ml-mla39865991) profundiza el lado dulce-golosina, un perfil bastante más polarizante según sus propias compradoras. Y el [Yara Elixir](/producto/perfume-lattafa-yara-elixir-edp-100ml-mla60836327) es la versión más concentrada y oriental de todas, con más proyección incluso que este original. Si nunca probaste la línea, este Yara original sigue siendo la referencia: el punto medio entre todas las variantes, ni el más suave ni el más intenso.
+
+## ¿Para quién es este perfume?
+
+Es para vos si: nunca probaste un perfume árabe y querés el punto de entrada más representativo de la línea Yara, buscás algo dulce y con proyección alta para salidas o citas, y te importa que sea vegano y libre de crueldad animal. No es para vos si: buscás un clon exacto de un perfume de diseñador puntual (no lo es, aunque comparte familia con varios), preferís perfiles cítricos o florales secos sin dulzor, o vas a usarlo en climas muy calurosos donde el fondo denso puede saturar.
+
+## En resumen
+
+El Yara original de Lattafa es un ámbar-vainilla dulce y con proyección alta, con una pirámide confirmada por el propio fabricante (mandarina, heliotropo, orquídea arriba; vainilla, almizcle, sándalo de fondo). Es vegano y libre de crueldad, un dato que no comparten todas las variantes de la línea. La ficha de Mercado Libre tiene una contradicción real en la duración (la tabla dice "1 días", la descripción aclara 6-8 horas) y el propio vendedor advierte sobre réplicas que circulan con holograma idéntico. No es un clon exacto de La Vie Est Belle ni del Poison Girl con los que lo comparan compradores y tiendas externas, pero para quien busca el ingreso más clásico a la línea más viral de Lattafa, sigue siendo la referencia. Para ver el resto de la familia comparada en detalle, está la [guía completa de la línea Yara Lattafa](/guias/yara-lattafa-guia-completa) o el ranking completo de la [guía de perfumes árabes para mujer](/guias/perfumes-arabes-mujer).`,
+    specs: [
+      { label: "Marca", value: "Lattafa" },
+      { label: "Línea", value: "Yara" },
+      { label: "Versión", value: "Original (tradicional, para distinguirla de Moi, Tous, Candy y Elixir)" },
+      { label: "Género", value: "Mujer" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (la ficha de ML lo etiqueta 'Parfum'; el vendedor especifica 15-20% de aceites esenciales)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Es set", value: "No" },
+      { label: "Notas de salida", value: "Mandarina, heliotropo, orquídea" },
+      { label: "Notas de corazón", value: "Notas tropicales, acorde gourmand" },
+      { label: "Notas de fondo", value: "Vainilla, almizcle, sándalo" },
+      { label: "Familia olfativa (declarada por ML)", value: "Orientales (dato genérico, ver análisis para la pirámide completa)" },
+      { label: "Duración declarada", value: "Dato contradictorio: la tabla dice '1 días'; el vendedor aclara 6-8 horas para el original" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2020" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "No" },
+    ],
+    faq: [
+      { question: "¿El Yara de Lattafa es un dupe de La Vie Est Belle?", answer: "No es un clon exacto. Varias tiendas y reseñas internacionales lo describen como una alternativa accesible a Lancôme La Vie Est Belle por el fondo praliné-vainilla dulce que comparten, aunque el Yara tiene una salida frutal más liviana. No es una declaración oficial de Lattafa, es una percepción externa." },
+      { question: "¿Cuánto dura el Yara original en la piel?", answer: "La ficha de ML es contradictoria: la tabla de características declara '1 días' (dato confuso, probablemente un error de carga), mientras que la descripción del vendedor aclara que la versión original, con 15-20% de aceites esenciales, dura de 6 a 8 horas. Las reseñas reales no dan un número exacto pero todas lo describen como duradero." },
+      { question: "¿En qué se diferencia del Yara Moi?", answer: "El Yara Moi es la variante más suave y de menor proyección de toda la línea, pensada para uso diario en ambientes cerrados. Este Yara original tiene más presencia y proyección." },
+      { question: "¿En qué se diferencia del Yara Tous y el Yara Candy?", answer: "El Yara Tous es la variante tropical-frutal (mango, coco, maracuyá), mejor para el verano. El Yara Candy profundiza el lado dulce-golosina, un perfil más polarizante según sus propias compradoras. El original es más equilibrado entre ambos." },
+      { question: "¿Es vegano y libre de crueldad animal?", answer: "Sí, según la propia ficha del producto. Vale aclarar porque no todas las variantes de la línea Yara comparten esa certificación (el Yara Moi, por ejemplo, no es vegano ni libre de crueldad)." },
+      { question: "¿Cómo sé si el que compré es original y no una réplica?", answer: "El propio vendedor advierte que circulan réplicas con holograma, batch-code y frasco idénticos. La señal que reportan las compradoras reales es el holograma 3D en la caja y un código QR que lleva a una página de verificación. Si el frasco no trae ninguno de los dos, o el aroma se siente muy liviano, puede tratarse de una réplica." },
+      { question: "¿Cuántas reseñas tiene esta publicación?", answer: "348 calificaciones con 4.6 de rating al momento de esta revisión. Es un número bastante menor al de otras variantes de la línea (el Yara Moi acumula casi 5.000), lo que puede deberse a la antigüedad del listado y no necesariamente a la calidad del producto." },
+      { question: "¿Es libre de alcohol?", answer: "No, según la propia ficha de especificaciones del producto." },
+    ],
+    customerReviews: [
+      { rating: 5, date: "2025", text: "No soy mujer, lo compré para regalo. Lattafa rara vez decepciona. Es dulce y elegante. Duradero. Proyecta bastante. Vas a oler como la reina de arabia. Este en particular imita al poison girl de un tal dior, que sale 5 veces más. Excelente alternativa." },
+      { rating: 5, date: "2025", text: "Es original. Tiene buen duración en piel. Excelente." },
+      { rating: 5, date: "agosto 2025", text: "Producto original. Tiene holograma en su caja y por su duración en piel y ropa se nota original. Sexi y dulce. Vuelvo a comprar." },
+      { rating: 5, date: "noviembre 2025", text: "Morí de amor! me fascina su aroma, no entiendo mucho de perfumes pero les aseguro que es hermoso! es perdurable, hasta en la almohada quedó impregnado el olor, sin dudas es original, tiene el holograma y el qr te lleva a la página que por cierto está en ingles y no entendí nada. Excelente, es la primera vez que compro y estoy feliz con el yara." },
+    ],
+    relatedProducts: ["MLA32288168", "MLA40521028", "MLA39865991", "MLA60836327"],
   },
 
   // ─── Coleccionables · Mundial 2026 Panini ───
@@ -46295,15 +48900,29 @@ Comprá esta Femmto si querés más que el número del peso: grasa corporal, IMC
     ],
   },
   {
-    // Rechazado por el Programa de Afiliados de ML el 06-jul-2026 ("Esta URL no está permitida en el Programa").
+    // ADVERTENCIA (sin resolver): rechazada por el Programa de Afiliados de ML el 06-jul-2026
+    // ("Esta URL no está permitida en el Programa"). affiliateUrl sigue en "PEGAR_MELI_LA": NO tiene
+    // forma de monetizar hasta que Juan consiga un link real o el programa la re-apruebe.
     // Sacado del ranking de la guía balanza-digital, reemplazado por Omron HN-289, Utile UT-1108 y Noga NG-B01.
-    // Ficha conservada por si el rechazo era puntual y se puede reintentar el link de afiliado más adelante.
+    // Ficha conservada y enriquecida por si el rechazo era puntual y se puede reintentar el link más adelante.
+    // NO linkear activamente desde guias.ts ni desde otras fichas mientras el afiliado esté roto.
     id: "MLA38252447",
     title: "Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg",
     canonicalName: "Balanza Xiaomi Mi Body Composition Scale S400",
+    mpn: "MJTZC01YM",
+    reviewsSampledAt: "2026-07-09",
     price: 169000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_631454-MLU77460358988_072024-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_631454-MLU77460358988_072024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_728622-MLA80300686351_102024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_992060-MLA80300656497_102024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_753606-MLA80300193163_102024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_727336-MLA80441087316_112024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_729120-MLA80440512346_112024-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_839320-MLA80441116968_112024-O.webp",
+    ],
     category: "Salud y Bienestar",
     categorySlug: "salud-bienestar",
     permalink: "https://www.mercadolibre.com.ar/p/MLA38252447",
@@ -46311,9 +48930,89 @@ Comprá esta Femmto si querés más que el número del peso: grasa corporal, IMC
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 1701,
+    reviewCount: 1705,
+    pastelColor: "var(--pastel-purple)",
     visibility: "deprioritized",
-    description: "Rechazada por el Programa de Afiliados de MercadoLibre (06-jul-2026); reemplazada por Omron, Utile y Noga en la guía balanza-digital.",
+    specs: [
+      { label: "Marca y modelo", value: "Xiaomi Mi S400 (MJTZC01YM)" },
+      { label: "Tipo de medición", value: "Bioimpedancia eléctrica de doble frecuencia (50 kHz y 250 kHz)" },
+      { label: "Indicadores que analiza", value: "25: peso, % grasa corporal, IMC, masa muscular, agua corporal, masa ósea, grasa visceral, proteína y frecuencia cardíaca estática, entre otros" },
+      { label: "Capacidad máxima", value: "150 kg" },
+      { label: "Peso mínimo detectado", value: "100 g" },
+      { label: "Plataforma", value: "Vidrio templado + plástico técnico, antideslizante" },
+      { label: "Conectividad", value: "Bluetooth Low Energy 5.0 (sin Wi-Fi propio)" },
+      { label: "App requerida", value: "Mi Home / Xiaomi Home (no sincroniza el peso con Mi Fitness)" },
+      { label: "Sistemas operativos compatibles", value: "Android 8.0 o superior, iOS 12.0 o superior" },
+      { label: "Usuarios", value: "Hasta 36 perfiles guardados en el dispositivo; se puede compartir con hasta 5 cuentas Xiaomi desde la app" },
+      { label: "Es pediátrica", value: "Sí, con algoritmo calibrable para menores" },
+      { label: "Alimentación", value: "3 pilas AAA, 4,5V (no incluidas)" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Indicador de batería baja", value: "Sí" },
+      { label: "Certificado INMETRO", value: "No" },
+      { label: "Dimensiones", value: "30 x 30 x 2,4 cm" },
+    ],
+    relatedProducts: ["MLA19147005", "MLA65535495", "MLA60038492"],
+    description: "Balanza Xiaomi Mi S400: bioimpedancia de doble frecuencia y 25 indicadores de salud (grasa corporal, IMC, masa muscular, agua corporal y más) en una sola pesada, hasta 150 kg. Necesita la app Mi Home para ver todo el análisis, y como toda balanza de consumo, el % de grasa corporal varía según hidratación y hora del día.",
+    seoTitle: "Balanza Xiaomi Mi S400: análisis honesto 2026",
+    metaDescription: "Balanza Xiaomi Mi Body Composition Scale S400: doble frecuencia, 25 indicadores y hasta 150 kg. Qué mide de verdad, sus límites de precisión y para quién conviene.",
+    ogTitle: "Balanza Xiaomi Mi S400: ¿vale la pena?",
+    ogDescription: "Doble frecuencia, 25 indicadores de salud, hasta 150 kg. Te contamos qué mide de verdad, sus límites de precisión y qué dicen las reseñas reales.",
+    h1: "Balanza Xiaomi Mi S400 con doble frecuencia: análisis completo y honesto",
+    verdict: "A $169.000, es la balanza con más indicadores de esta categoría: 25 parámetros de composición corporal con medición de doble frecuencia, la tecnología que más se acerca al patrón DEXA en el mercado de consumo. Compra con los ojos abiertos: necesita la app Mi Home (no Mi Fitness) para sincronizar cada pesada, y como toda balanza de bioimpedancia, el porcentaje de grasa corporal varía según la hidratación y la hora del día, no es un diagnóstico médico.",
+    pros: [
+      "Medición de bioimpedancia de doble frecuencia (50 kHz y 250 kHz), con una correlación declarada por Xiaomi de 0,93 frente al estándar DEXA",
+      "25 indicadores en una sola pesada: grasa corporal, IMC, masa muscular, agua corporal, masa ósea, grasa visceral y frecuencia cardíaca estática, entre otros",
+      "Capacidad de hasta 150 kg y calibración pediátrica, para usar con toda la familia",
+      "Reseñas confirman consistencia real en el peso: pesándose 20 veces seguidas, siempre marcó el mismo valor",
+      "Hasta 36 perfiles guardados en el dispositivo y posibilidad de compartirlo con hasta 5 cuentas Xiaomi desde la app",
+    ],
+    cons: [
+      "Depende de la app Mi Home/Xiaomi Home por Bluetooth para ver grasa corporal, IMC y el resto de los indicadores; sin conectarla, solo pesa",
+      "La app Mi Fitness (la de las pulseras Xiaomi) no sincroniza el peso de esta balanza, solo comparte la lista de usuarios: hay que usar Mi Home o Xiaomi Home",
+      "El IMC se calcula con una tabla de referencia fija: más de una reseña se quejó de que la clasificó como \"obeso\" con un peso y altura que otras tablas consideran normal",
+      "No tiene certificado INMETRO ni Wi-Fi propio, y las pilas (3 x AAA) no vienen incluidas",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Xiaomi Mi Body Composition Scale S400 es la balanza de análisis corporal más completa de esta categoría: mide bioimpedancia de doble frecuencia y calcula 25 indicadores de salud en una sola pesada. Es para quien quiere ir más allá de la grasa corporal básica que ofrecen otras balanzas y le interesa un seguimiento detallado (masa muscular, agua corporal, grasa visceral) sincronizado con el celular.
+
+## Qué mide la doble frecuencia (y sus límites reales)
+
+A diferencia de las balanzas de bioimpedancia simple, la S400 usa dos corrientes alternas: una de 50 kHz, que mide el agua fuera de las células, y otra de 250 kHz, que atraviesa la membrana celular y mide músculo, grasa, hueso y órganos. Xiaomi declara una correlación de 0,93 frente al DEXA (el estándar médico de referencia) para grasa corporal y masa grasa: un número alto, pero igual lejos de reemplazar un estudio médico real.
+
+Ojo con lo que esto significa en la práctica: como toda balanza de bioimpedancia de consumo, el resultado varía según cuánta agua tenés en el cuerpo en ese momento, si comiste, si hiciste ejercicio o la hora del día. Pesarte siempre en las mismas condiciones (por ejemplo, en ayunas y a la mañana) da resultados más comparables entre sí, pero ningún número de estos reemplaza un diagnóstico clínico.
+
+## Lo bueno
+
+Con 25 indicadores por pesada, es la balanza con el análisis más completo de esta categoría, por encima incluso de la Utile UT-1108. Las reseñas confirman que, al menos en el peso, es muy consistente: una compradora se pesó 20 veces seguidas y siempre marcó el mismo valor. La calibración pediátrica permite usarla con chicos, y hasta 36 perfiles quedan guardados en el propio dispositivo, compartible además con hasta 5 cuentas Xiaomi desde la app.
+
+## La contra real
+
+Necesita la app Mi Home (o Xiaomi Home) para aprovechar el resto de los datos: sin conectarla por Bluetooth, la balanza igual pesa, pero se pierde todo el análisis de composición corporal. Un detalle que confunde: la app Mi Fitness (la que usan las pulseras Xiaomi) no sincroniza el peso de esta balanza, solo comparte la lista de usuarios; para ver las mediciones hace falta Mi Home o Xiaomi Home. El IMC se calcula con una tabla de referencia fija, y más de una reseña se quejó de que la clasificó como "obeso" con un peso y altura que otras tablas no consideran así, algo que conviene tomar como referencia y no como un diagnóstico. Tampoco trae certificado INMETRO ni pilas incluidas.
+
+## Cómo se compara con las otras balanzas de la guía
+
+Frente a la [Femmto BCS13](/producto/MLA19147005), que también mide grasa corporal e IMC por bastante menos plata, la Xiaomi suma muchos más indicadores (25 contra un puñado) y una tecnología de medición más avanzada (doble frecuencia contra bioimpedancia simple), a cambio de un precio bastante mayor. Frente a la [Utile UT-1108](/producto/MLA65535495), que también ofrece un análisis amplio (grasa, agua, masa muscular y ósea) y llega a 200 kg de capacidad, la Xiaomi agrega todavía más indicadores y el respaldo de marca, aunque la Utile gana en capacidad máxima de peso. Podés ver el resto de las opciones en la [guía de balanzas digitales](/guias/salud-bienestar/balanza-digital).
+
+## Para quién sí y para quién no
+
+Es para vos si: querés el análisis de composición corporal más completo de esta categoría, no te molesta instalar la app Mi Home para ver los datos, y entendés que el porcentaje de grasa corporal de cualquier balanza de consumo es una referencia y no un diagnóstico médico. No es para vos si: solo te interesa el número del peso sin vueltas, ahí una balanza básica como la [Femmto BWS11](/producto/MLA15503957) te ahorra plata, o si preferís no depender de ninguna app para nada.`,
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "julio 2025", text: "Muy buena la balanza: conectada al celular brinda mucha información. Lo que no está bueno es mi peso, jaja.", useful: 3 },
+      { rating: 4, country: "Argentina", date: "agosto 2025", text: "El producto está bien, es muy preciso, pero lo malo es que compara los pesos con un patrón de referencia y con 75 kg y 1,75 m de altura me clasificó como obeso." },
+      { rating: 5, country: "Argentina", date: "octubre 2025", text: "Me dijo cosas crueles con muchos datos que la respaldan. Irrefutable. Excelente compra." },
+      { rating: 5, country: "Argentina", date: "julio 2025", text: "Tenía una balanza genérica digital que cada vez que me pesaba medía un valor diferente. La Xiaomi, al menos en cuanto al peso, es muy precisa y consistente: te pesás 20 veces seguidas y siempre da el mismo valor." },
+    ],
+    faq: [
+      { question: "¿Es precisa la medición de grasa corporal de esta balanza?", answer: "Es de las más avanzadas del mercado de consumo (doble frecuencia, correlación de 0,93 con DEXA según Xiaomi), pero sigue siendo bioimpedancia: el resultado varía según hidratación, comida reciente o la hora del día. Sirve como referencia y seguimiento, no como diagnóstico médico." },
+      { question: "¿Funciona sin la app?", answer: "Para pesarte sola, sí. Para ver grasa corporal, IMC, masa muscular y el resto de los 25 indicadores, necesitás conectarla por Bluetooth a la app Mi Home o Xiaomi Home." },
+      { question: "¿Con qué app sincroniza?", answer: "Con Mi Home o Xiaomi Home. La app Mi Fitness, la que usan las pulseras y relojes Xiaomi, no sincroniza el peso de esta balanza, solo comparte la lista de usuarios entre ambas apps." },
+      { question: "¿Sirve para varias personas de la familia?", answer: "Sí, guarda hasta 36 perfiles en el propio dispositivo y se puede compartir con hasta 5 cuentas Xiaomi desde la app. También tiene calibración pediátrica para medir a los más chicos." },
+      { question: "¿Necesita Wi-Fi para funcionar?", answer: "No, se conecta solo por Bluetooth Low Energy 5.0 al celular con la app instalada." },
+      { question: "¿Viene con pilas?", answer: "No, usa 3 pilas AAA que hay que comprar aparte." },
+      { question: "¿Por qué a veces clasifica como \"sobrepeso\" u \"obeso\" con un peso que no parece tanto?", answer: "El cálculo de IMC usa una tabla de referencia fija, la misma limitación que tienen todas las balanzas de este tipo. Varias reseñas señalan resultados que no coinciden con lo esperado: tomalo como una guía general y no como un diagnóstico, sobre todo si te genera dudas de salud reales." },
+      { question: "¿Tiene certificado INMETRO?", answer: "No, según la ficha técnica de MercadoLibre." },
+    ],
   },
   {
     id: "MLA15286360",
@@ -48624,6 +51323,8 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
   {
     id: 'MLA19589519',
     title: 'Pava Eléctrica Atma Pe1821nap 1.7lts Selector De Temperatura Negro',
+    canonicalName: 'Pava eléctrica Atma PE1821NAP 1.7L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Atma",
     price: 55290,
     priceLastChecked: "2026-07-08",
@@ -48639,12 +51340,130 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 14262,
-    description: 'Pava eléctrica Atma PE1821NAP de 1.7L con selector de temperatura (6 niveles) y corte automático. Exterior plástico negro, base giratoria 360°, tanque transparente con visor de nivel. 4.6⭐ con 14.262 calificaciones, el mayor volumen de todo el catálogo de pavas.',
+    reviewCount: 14738,
+    description: 'Pava eléctrica Atma PE1821NAP de 1.7L con selector de temperatura y 2200W de potencia. Corte automático al llegar a la temperatura elegida, base giratoria 360°, filtro de doble acción y tanque transparente con indicador de nivel. 4.6⭐ con 14.738 calificaciones, el mayor volumen de todo el catálogo de pavas.',
+    pros: [
+      '4.6⭐ con 14.738 calificaciones: la pava con más volumen de reseñas de todo el catálogo',
+      'El selector de temperatura funciona de verdad: una reseña lo probó al mínimo y confirmó que corta con el agua tibia, no hirviendo',
+      'Filtro de doble acción, indicador de nivel con tanque transparente y base giratoria 360°',
+      'Calienta rápido según varias reseñas, algo esperable con sus 2200W (más potencia que el estándar de 1500W del catálogo)',
+      'A $55.290, sale menos que el Peabody Digital ($69.433) y la Oster con función mate ($68.764)',
+    ],
+    cons: [
+      'El interruptor no se apaga solo al cortar: si dejás agua adentro, una reseña advierte que la pava puede volver a encenderse sola cuando se enfría. Conviene apagarla o desenchufarla vos.',
+      'Sin función mate dedicada: el selector regula la temperatura general, no hay un modo específico etiquetado para cebar',
+      'Ni ML ni Atma publican cuántas posiciones tiene el selector ni el rango exacto en grados',
+      'Los 2200W se notan en el consumo: una reseña dice que baja la luz de la casa al enchufarla',
+    ],
+    verdict: 'A $55.290, es la pava con más calificaciones de todo el catálogo (14.738) y el selector de temperatura cumple lo que promete: una reseña lo probó a fondo y confirmó que corta con el agua tibia cuando lo pones al mínimo. La letra chica: el interruptor no se apaga solo, así que si dejás agua adentro después del corte, puede volver a prender sola al enfriarse.',
+    seoTitle: 'Pava Eléctrica Atma PE1821NAP 1.7L con Selector de Temperatura',
+    metaDescription: 'Pava eléctrica Atma PE1821NAP de 1.7L, selector de temperatura y 2200W. Corte automático, filtro doble acción. 4.6⭐ con 14.738 calificaciones en ML.',
+    ogTitle: 'Pava eléctrica Atma PE1821NAP: selector de temperatura, 1.7L, 4.6⭐/14.738',
+    ogDescription: 'Selector de temperatura, corte automático, filtro de doble acción y base giratoria 360°. 2200W, 1.7L. La pava con más calificaciones del catálogo. Ver precio →',
+    h1: 'Pava eléctrica Atma PE1821NAP: 1.7 litros con selector de temperatura, ¿rinde?',
+    articleBody: `## Qué es y qué trae
+
+Es una pava eléctrica negra de 1.7 litros con un selector de temperatura en la base: girás la perilla, elegís el punto de calor y la pava corta sola cuando lo alcanza. Tiene 2200W de potencia (más que el estándar de 1500W de otras pavas del catálogo), placa calentadora de acero inoxidable, tanque transparente con indicador de nivel, filtro de doble acción en el pico, base giratoria 360° y enrolla cable integrado. El interruptor de encendido es manual.
+
+Con 14.738 calificaciones y 4.6 estrellas, es la pava con más volumen de reseñas de todo el catálogo. Eso le da un peso distinto a lo que dicen los compradores: no son 50 opiniones, son miles.
+
+## El selector de temperatura: ¿funciona de verdad?
+
+Sí, según las reseñas que lo probaron en serio. Hay compradores que dudan de la perilla y dicen que "no funciona", pero una reseña detallada la puso al mínimo, esperó, y confirmó que la pava cortó con el agua todavía tibia, no hirviendo. Su conclusión: el selector hace lo que dice, el problema es que mucha gente lo usa mal o espera que sea un botón específico de "mate" en vez de un control de temperatura general.
+
+Ahí está el punto flojo de la publicación de ML: promete "elegir la temperatura exacta para diferentes infusiones", pero ni ML ni Atma detallan cuántas posiciones tiene la perilla ni el rango en grados. Es un control real, pero sin una tabla de referencia (tipo "70°C para mate, 90°C para café"). Vas a tener que calibrar a ojo las primeras veces.
+
+## La contra de seguridad que avisa una reseña
+
+Una reseña con 4 estrellas señala algo puntual: cuando la pava corta, el interruptor no vuelve a su posición de apagado. Si dejás agua adentro y se enfría, puede volver a encenderse sola. La recomendación de ese mismo comprador es simple: apagala o desenchufala vos apenas corta, no confíes en que se queda apagada sola. No es un defecto que invalide la pava, pero es el tipo de detalle que conviene saber antes de dejarla enchufada toda la tarde.
+
+## Potencia y consumo: 2200W
+
+Con 2200W, calienta más rápido que la mayoría de las pavas del catálogo (que suelen andar en 1500W). Una reseña lo confirma: "calienta muy rápido", aunque también nota que "cuando la enchufo baja la luz", una forma casera de decir que el consumo instantáneo es alto. Es lo esperable de una potencia mayor, no un defecto de fabricación, pero si tu instalación eléctrica es vieja o ya tenés varios electrodomésticos grandes en el mismo circuito, es un dato a tener en cuenta.
+
+## Comparada con otras pavas del catálogo
+
+Si el control de temperatura es tu prioridad número uno y no te importa pagar más, la [Peabody Digital PE-DK2200N](/producto/MLA47275624) tiene control continuo de 40 a 100°C con pantalla y función mate explícita, a $69.433. La [Oster BVSTKT4970W](/producto/MLA11145436) también suma función mate marcada, con selector analógico, a $68.764. Ambas cuestan más que esta Atma.
+
+Si buscás una pava que directamente mantenga el agua caliente por horas, la [Liliana Safeheat AAP992N](/producto/MLA54676373) tiene 7 niveles de temperatura fijos y doble pared (el exterior no se calienta al tacto), a $67.609.
+
+Y si el control de temperatura no te importa y preferís que el agua no tenga ningún contacto con plástico, la [Atma PEAT1351 de acero inoxidable](/producto/MLA49747515) (la misma marca, sin selector de temperatura) sale más barata, a $52.799.
+
+Para el panorama completo de pavas eléctricas y cómo elegir, está la [guía de pavas eléctricas](/guias/pava-electrica), y si querés profundizar en cómo funcionan los distintos sistemas de control de temperatura, la [guía dedicada a ese tema](/guias/pava-electrica-control-temperatura).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: querés una pava con selector de temperatura real a un precio más bajo que las opciones digitales, no te importa acordarte de desenchufarla después de que corta, y valorás tener el respaldo de miles de calificaciones reales. No es para vos si: buscás una función mate específica y etiquetada, necesitás una pantalla con grados exactos, o preferís no lidiar con un interruptor que no se apaga solo.`,
+    specs: [
+      { label: 'Marca', value: 'Atma' },
+      { label: 'Modelo', value: 'PE1821NAP' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Capacidad', value: '1.7 litros' },
+      { label: 'Potencia', value: '2200W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Selector de temperatura', value: 'Sí (perilla continua, sin cantidad de posiciones publicada)' },
+      { label: 'Función mate dedicada', value: 'No (corte por temperatura elegida, sin modo etiquetado)' },
+      { label: 'Corte automático', value: 'Sí, al llegar a la temperatura seleccionada' },
+      { label: 'Placa calentadora', value: 'Acero inoxidable' },
+      { label: 'Material exterior', value: 'Plástico' },
+      { label: 'Indicador de nivel de agua', value: 'Sí, tanque transparente' },
+      { label: 'Filtro', value: 'Doble acción (antisarro)' },
+      { label: 'Base giratoria', value: 'Sí, 360°' },
+      { label: 'Enrolla cable', value: 'Sí, integrado en la base' },
+      { label: 'Interruptor', value: 'Manual, encendido/apagado' },
+      { label: 'Rating', value: '4.6⭐ (14.738 calificaciones en ML)' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'junio 2026', useful: 0, text: 'Muy conforme. Corta sola. Es re práctica. La pava es un 10.' },
+      { rating: 4, country: 'Argentina', date: 'mayo 2026', useful: 0, text: 'Buen producto. Solo como detalle: cuando corta no apaga el interruptor, y si la dejás con agua cuando se enfría vuelve a prender. El miedo es que se encienda sin agua. Es un detalle a tener en cuenta: apagarla o desenchufarla antes de sacar el agua de la pava.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2026', useful: 0, text: 'Es hermosa, anda re bien y calienta muy rápido. Lo único que cuando la enchufo baja la luz, se ve que consume mucha energía.' },
+      { rating: 5, country: 'Argentina', date: 'marzo 2026', useful: 0, text: 'La probé poniéndola al mínimo y se apagó sola y el agua quedó tibia, no caliente. Confirmé que la perilla funciona, solo la están usando mal. Está buena la opción de que incluya filtro. Está buena la pava.' },
+    ],
+    faq: [
+      {
+        question: '¿El selector de temperatura funciona de verdad o solo apaga sola?',
+        answer: 'Funciona de verdad, según una reseña que lo probó a fondo: lo puso al mínimo y la pava cortó con el agua todavía tibia, no hirviendo. El malentendido más común es esperar un botón específico de "mate" en vez de un control de temperatura general.',
+      },
+      {
+        question: '¿Tiene función específica para mate?',
+        answer: 'No hay un modo etiquetado "mate". El selector regula la temperatura general del agua, así que podés acercarte a los 70-80°C ideales para cebar, pero calibrando la perilla a ojo, sin una marca exacta para esa temperatura.',
+      },
+      {
+        question: '¿Es peligroso dejarla enchufada con agua después de que corta?',
+        answer: 'Una reseña avisa que el interruptor no vuelve a su posición de apagado al cortar, y que si dejás agua adentro puede volver a encenderse sola cuando se enfría. La recomendación de ese comprador es apagarla o desenchufarla apenas termina, no confiar en que se queda apagada.',
+      },
+      {
+        question: '¿Cuánto consume y qué tan rápido calienta?',
+        answer: 'Tiene 2200W, más potencia que el estándar de 1500W de otras pavas del catálogo, así que calienta rápido. Una reseña nota que baja la luz de la casa al enchufarla, algo esperable con esa potencia si tu instalación es vieja o ya tiene varios electrodomésticos en el mismo circuito.',
+      },
+      {
+        question: '¿Cuántas tazas rinde con 1.7 litros?',
+        answer: 'Aproximadamente 6 a 7 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Trae filtro?',
+        answer: 'Sí, filtro de doble acción en el pico. Una reseña lo confirma como un punto a favor del producto.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'La ficha de ML no especifica el período exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía; conviene confirmar el plazo puntual con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿En qué se diferencia de la Atma de acero inoxidable (PEAT1351)?',
+        answer: 'La [Atma PEAT1351](/producto/MLA49747515) tiene interior de acero inoxidable pero sin selector de temperatura (solo hierve a 100°C) y sale más barata, a $52.799. Esta PE1821NAP suma el selector de temperatura pero el interior no es de acero.',
+      },
+      {
+        question: '¿Vale la pena pagar más por la Liliana Safeheat o el Peabody Digital?',
+        answer: 'Depende de cuánto control necesités. La [Liliana Safeheat AAP992N](/producto/MLA54676373) suma 7 niveles fijos y doble pared que no se calienta al tacto. El [Peabody Digital](/producto/MLA47275624) tiene control continuo de 40 a 100°C con pantalla y función mate explícita. Ambas cuestan más de $12.000 extra sobre esta Atma.',
+      },
+    ],
+    relatedProducts: ['MLA47275624', 'MLA11145436', 'MLA54676373', 'MLA49747515'],
   },
   {
     id: 'MLA54676373',
     title: 'Pava Eléctrica Liliana Aap992n Safeheat Negro',
+    canonicalName: 'Pava eléctrica Liliana Safeheat AP992N 1.5L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Liliana",
     price: 67609,
     priceLastChecked: "2026-07-08",
@@ -48652,6 +51471,10 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_627842-MLA99993060575_112025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_627842-MLA99993060575_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_641628-MLA99508814062_112025-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48660,12 +51483,126 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 204,
-    description: 'Pava eléctrica Liliana Safeheat AAP992N de doble pared (exterior no se calienta al tacto), 7 niveles de temperatura y función mantener caliente. 4.8⭐ con 204 calificaciones. Reemplaza al listado AP992B, que MercadoLibre no permite usar en el programa de afiliados; mismo producto, publicación distinta.',
+    reviewCount: 211,
+    description: 'Pava eléctrica Liliana Safeheat AP992N de 1,5 litros: doble pared que no se calienta al tacto por fuera, 7 niveles de temperatura con pantalla digital y función Keep Warm. Interior 100% acero inoxidable. 4.8⭐ con 211 calificaciones. Reemplaza al listado AP992B, que MercadoLibre no permite usar en el programa de afiliados; mismo producto, publicación distinta.',
+    seoTitle: 'Pava Eléctrica Liliana Safeheat AP992N 1.5L: 7 Niveles de Temperatura',
+    metaDescription: 'Pava eléctrica Liliana Safeheat AP992N de 1.5L: doble pared que no se calienta, 7 niveles de temperatura y función Keep Warm. 4.8⭐ con 211 calificaciones en ML.',
+    ogTitle: 'Pava eléctrica Liliana Safeheat AP992N: doble pared, 7 niveles, 4.8⭐/211',
+    ogDescription: 'Doble pared que no se calienta al tacto, 7 niveles de temperatura con pantalla digital y función Keep Warm. Interior de acero inoxidable, 1.5L. Ver precio →',
+    h1: 'Pava eléctrica Liliana Safeheat AP992N: 7 niveles de temperatura, ¿vale la pena?',
+    verdict: 'A $67.609, es la pava con más niveles de temperatura del catálogo (7, de aproximadamente 45°C a 100°C según una reseña) y la única con doble pared Safeheat que no se calienta al tacto por fuera. El costado flojo: la propia ficha de ML carga mal el atributo "control de temperatura" (dice que no tiene, cuando sí tiene), y su base de 211 calificaciones es chica al lado de las 14.738 de la Atma PE1821NAP.',
+    pros: [
+      '7 niveles de temperatura reales: una reseña detallada confirma que van de aproximadamente 45°C a 100°C y que la pava avisa al llegar al nivel elegido',
+      'Doble pared protectora Safeheat: el exterior no se calienta al tacto aunque el agua esté hirviendo adentro, confirmado por Liliana y Frávega',
+      'Interior 100% acero inoxidable: una reseña lo compara directamente con pavas de plástico que con el tiempo pierden agua por el visor de nivel',
+      'Función Keep Warm real: mantiene la temperatura elegida en vez de dejar que el agua se enfríe sola',
+      '4.8⭐ con 211 calificaciones, todas las reseñas muestreadas fueron de 5 estrellas',
+    ],
+    cons: [
+      'Cerca de la temperatura elegida, la pava pausa el calentamiento para medir y después retoma: una reseña que venía de una pava analógica lo encontró molesto al principio (no es una falla, es el sensor trabajando)',
+      'La ficha de ML dice "Con control de temperatura: No" en sus atributos, un dato mal cargado: el propio producto se llama Safeheat justamente por sus 7 niveles de temperatura',
+      'Base de 211 calificaciones, chica comparada con las 14.738 de la Atma PE1821NAP o las 3.793 de la Kanji Home',
+      'Ni ML ni la ficha oficial publican el plazo exacto de garantía de este modelo',
+    ],
+    articleBody: `## Qué es y qué significa Safeheat
+
+Es una pava eléctrica negra de 1,5 litros con pantalla digital y 7 niveles de temperatura seleccionables. "Safeheat" no es solo un nombre de fantasía: es el sistema de doble pared protectora de Liliana, confirmado tanto en la ficha oficial del fabricante como en Frávega, que hace que el exterior de la pava no se caliente al tacto aunque el agua esté hirviendo adentro. Se suma un corte automático por sobrecalentamiento como respaldo de seguridad. El interior es 100% acero inoxidable, tiene base giratoria de 360°, enrolla cable y función Keep Warm para mantener la temperatura elegida sin recalentar todo el tiempo.
+
+## Los 7 niveles de temperatura: ¿funcionan como dicen?
+
+Sí, según la reseña más detallada que dejaron los compradores: confirma que los niveles van de aproximadamente 45°C a 100°C, que la pava avisa cuando se alcanza el nivel elegido y que después mantiene el agua caliente. Otra reseña, que venía de usar una pava analógica de hervor directo, notó que cerca del punto elegido la pava deja de calentar, mide, y recién ahí sigue si hace falta. Le pareció "un poco molesto" al principio, pero no es un defecto: es el sensor de temperatura haciendo su trabajo antes de pasarse del nivel pedido.
+
+## Lo que la ficha de ML carga mal
+
+Acá hay un error concreto en los atributos estructurados de Mercado Libre: la tabla de características dice "Con control de temperatura: No". Es un dato incorrecto. La descripción del mismo listado, el fabricante y las reseñas reales coinciden en que la pava tiene 7 niveles de temperatura con pantalla digital, que es justamente lo que da nombre a la línea Safeheat. Si estabas dudando por ese atributo, no lo tomes literal.
+
+También vale aclarar: el "termómetro" que marca ML como ausente se refiere a que la pantalla muestra el nivel elegido (1 a 7), no una lectura continua en grados de la temperatura real del agua en todo momento.
+
+## Comparada con otras pavas del catálogo
+
+Si preferís un selector de temperatura continuo en vez de niveles fijos, y no te importa pagar un poco menos, la [Atma PE1821NAP](/producto/MLA19589519) tiene perilla continua y 2200W, a $55.290, aunque su exterior sí se calienta y el interruptor no se apaga solo al cortar.
+
+Si buscás control de temperatura con pantalla y función mate explícita, la [Peabody Digital PE-DK2200N](/producto/MLA47275624) ofrece un rango continuo de 40 a 100°C, aunque sin la doble pared Safeheat.
+
+Y si el control de temperatura no te importa y preferís pagar menos por un interior 100% acero sin niveles ni pantalla, la [Atma PEAT1351](/producto/MLA49747515) sale más barata, a $52.799.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica), y si querés entender a fondo los distintos sistemas de control de temperatura (perilla continua, niveles fijos, botón único), la [guía dedicada a ese tema](/guias/pava-electrica-control-temperatura).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: querés niveles de temperatura reales para distintas infusiones, valorás que el exterior no se caliente al tacto (útil si hay chicos en la casa) y preferís el interior 100% acero inoxidable. No es para vos si: te molesta que la pava pause un momento antes de llegar al nivel elegido, buscás un control continuo en grados en vez de 7 niveles fijos, o necesitás la base de reseñas más grande posible antes de comprar.`,
+    specs: [
+      { label: 'Marca', value: 'Liliana' },
+      { label: 'Modelo', value: 'Safeheat AP992N' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Capacidad', value: '1,5 litros' },
+      { label: 'Potencia', value: '1500W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Niveles de temperatura', value: '7 (aproximadamente 45°C a 100°C, según reseña de compradores)' },
+      { label: 'Pantalla', value: 'Digital, muestra el nivel elegido (no es un termómetro de lectura continua)' },
+      { label: 'Función Keep Warm', value: 'Sí, mantiene la temperatura elegida' },
+      { label: 'Doble pared protectora Safeheat', value: 'Sí, el exterior no se calienta al tacto' },
+      { label: 'Corte por sobrecalentamiento', value: 'Sí' },
+      { label: 'Apagado automático', value: 'Sí' },
+      { label: 'Material interior', value: 'Acero inoxidable' },
+      { label: 'Material exterior', value: 'Plástico' },
+      { label: 'Base giratoria', value: 'Sí, 360°' },
+      { label: 'Enrolla cable', value: 'Sí' },
+      { label: 'Función mate', value: 'Sí, según ficha de ML (ajustando uno de los 7 niveles, sin botón dedicado)' },
+      { label: 'Origen', value: 'Argentina' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'noviembre 2025', useful: 0, text: 'Excelente, tiene 7 temperaturas diferentes, desde 45 a 100. Te avisa cuando llega a la temperatura seleccionada, conserva el agua caliente. Es de acero por dentro y estéticamente hermosa por fuera. Muy bueno.' },
+      { rating: 5, country: 'Argentina', date: 'octubre 2025', useful: 0, text: 'Calienta bien, cuando está alcanzando la temperatura pedida deja de calentar y mide para luego seguir calentando. Eso me pareció un poco molesto porque venía de una analógica, pero es de buenos materiales y lo mejor es que todo el interior es de acero inoxidable. Me pasó con otras pavas de plástico que luego de un tiempo comienzan con fugas de agua en el visor plástico del nivel.' },
+      { rating: 5, country: 'Argentina', date: 'abril 2026', useful: 0, text: 'Es muy linda! además, funciona muy bien.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2026', useful: 0, text: 'Diseño: muy buena. Funcionamiento: excelente. Es una pava muy linda, es estética y cumple su función. La recomiendo.' },
+    ],
+    faq: [
+      {
+        question: '¿Qué significa "Safeheat"?',
+        answer: 'Es el nombre del sistema de doble pared protectora de Liliana: el exterior de la pava no se calienta al tacto aunque el agua esté hirviendo adentro, sumado a un corte automático por sobrecalentamiento. Lo confirman tanto la ficha oficial del fabricante como Frávega.',
+      },
+      {
+        question: '¿Los 7 niveles de temperatura funcionan de verdad?',
+        answer: 'Sí. Una reseña detallada confirma que van de aproximadamente 45°C a 100°C, que la pava avisa al llegar al nivel elegido y que después mantiene el agua caliente con la función Keep Warm.',
+      },
+      {
+        question: '¿Por qué la ficha de ML dice que no tiene control de temperatura si tiene 7 niveles?',
+        answer: 'Es un dato mal cargado en los atributos estructurados de Mercado Libre. La descripción del mismo listado, el fabricante y las reseñas confirman 7 niveles de temperatura reales con pantalla digital, que es justamente lo que le da nombre a la línea Safeheat. No lo tomes literal.',
+      },
+      {
+        question: '¿El exterior se calienta al tacto?',
+        answer: 'No debería: la doble pared Safeheat está diseñada justo para eso, según el fabricante y los retailers oficiales.',
+      },
+      {
+        question: '¿Es un problema que la pava pause antes de llegar a la temperatura elegida?',
+        answer: 'No es una falla. Una reseña lo describe: cerca del nivel elegido, la pava deja de calentar, mide, y retoma si hace falta. A quien viene de una pava analógica de hervor directo le puede resultar raro al principio, pero es el sensor de temperatura evitando pasarse del punto pedido.',
+      },
+      {
+        question: '¿Trae función mate?',
+        answer: 'Sí, según la ficha de ML, aunque no hay un botón etiquetado "mate": se logra ajustando uno de los 7 niveles a la temperatura que buscás cebar.',
+      },
+      {
+        question: '¿Cuántas tazas rinde con 1,5 litros?',
+        answer: 'Aproximadamente 5 a 6 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'Ni la ficha de ML ni la publicación oficial especifican el plazo exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía; conviene confirmar el plazo puntual con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿En qué se diferencia de la Atma PE1821NAP?',
+        answer: 'La [Atma PE1821NAP](/producto/MLA19589519) tiene un selector de temperatura continuo (perilla, sin cantidad de niveles publicada) y más potencia (2200W), a $55.290, pero su exterior sí se calienta y el interruptor no se apaga solo al cortar. Esta Liliana suma niveles fijos, doble pared que no se calienta y función Keep Warm, a $67.609.',
+      },
+    ],
+    relatedProducts: ['MLA19589519', 'MLA47275624', 'MLA11145436', 'MLA49747515'],
   },
   {
     id: 'MLA20027329',
     title: 'Pava Eléctrica Matera Kanji Home Kjh-pe15002m 1500w 1.8 Mate',
+    canonicalName: 'Pava eléctrica matera Kanji Home KJH-PE15002M 1.8L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Kanji",
     price: 18299,
     priceLastChecked: "2026-07-08",
@@ -48673,6 +51610,11 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_835793-MLA99371079764_112025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_835793-MLA99371079764_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_937532-MLA99370823696_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_940770-MLA99854283835_112025-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48681,12 +51623,135 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     condition: 'new',
     freeShipping: false,
     rating: 4.5,
-    reviewCount: 3793,
-    description: 'Pava eléctrica Kanji Home KJH-PE15002M de 1.8L, interior de acero inoxidable, 1500W, corte automático y función mate (2 niveles de temperatura). Base giratoria 360°. 4.5⭐ con 3.793 calificaciones, la más barata con acero del catálogo.',
+    reviewCount: 3837,
+    description: 'Pava eléctrica matera Kanji Home KJH-PE15002M de 1,8L, con función mate de 2 niveles (cebar y hervir), corte automático y base giratoria 360°. Interior de acero. 4.5⭐ con 3.837 calificaciones, la pava más barata del catálogo.',
+    pros: [
+      'A $18.299, es la pava más barata de todo el catálogo, y ya viene con función mate (2 niveles de temperatura)',
+      'El corte automático funciona de verdad: una reseña lo describe con precisión, "un botón para indicar que caliente para mate o que hierva el agua, para esto último tiene corte automático"',
+      'Base giratoria 360° y luz indicadora de encendido',
+      '4.5⭐ con 3.837 calificaciones, un volumen alto para el precio que tiene',
+      'Varias reseñas la usan puntualmente para mate, que es justo el uso que promete el nombre',
+    ],
+    cons: [
+      'La diferencia entre el nivel "mate" y el nivel "hervir" es sutil: una reseña con una semana de uso dice que "no se marca mucha diferencia entre mate y café"',
+      'No es rápida calentando: una reseña la resume como "no es súper rápida para calentar el agua, pero cumple"',
+      'La ficha de ML carga mal el atributo "función mate": dice que No la tiene, cuando el propio nombre del producto y las reseñas confirman que sí, mediante los 2 niveles de temperatura',
+      'Sin indicador de nivel de agua, sin pantalla digital, sin filtro ni infusor: solo un led que avisa que está encendida',
+      'Una reseña con 5 estrellas avisa que "son descartables": la suya dejó de funcionar a los 2 años exactos, aunque agrega que "está bien en relación precio calidad"',
+    ],
+    verdict: 'A $18.299, es la pava más barata de todo el catálogo y la única en ese rango de precio con función mate incorporada: un botón alterna entre calentar para cebar y hervir a fondo, con corte automático real. La letra chica: una reseña dice que casi no se nota la diferencia entre los dos niveles, y otra advierte que a los 2 años suele dejar de funcionar. Para lo que cuesta, sigue siendo un trato razonable, no la que compres esperando que dure una década.',
+    seoTitle: 'Pava Eléctrica Matera Kanji Home KJH-PE15002M 1.8L: Precio y Reseñas',
+    metaDescription: 'Pava eléctrica matera Kanji Home KJH-PE15002M de 1.8L, función mate de 2 niveles y corte automático. 4.5⭐ con 3.837 calificaciones. La más barata del catálogo.',
+    ogTitle: 'Pava eléctrica matera Kanji Home KJH-PE15002M: la más barata del catálogo, 4.5⭐/3.837',
+    ogDescription: 'Función mate de 2 niveles, corte automático y base giratoria 360°. 1,8L, 1500W, $18.299. Mirá lo que dicen las reseñas reales antes de comprar →',
+    h1: 'Pava eléctrica matera Kanji Home KJH-PE15002M: la más barata, ¿aguanta?',
+    articleBody: `## Qué es y qué trae
+
+Es una pava eléctrica matera de 1,8 litros, con acabado mate y 1500W de potencia. "Matera" acá no significa un pico especial para cebar sin salpicar, sino que tiene 2 niveles de temperatura seleccionables con un solo botón: uno pensado para calentar agua para mate (sin llegar a hervor) y otro para hervir a fondo (café, té, sopas instantáneas). Cuando el agua llega al punto elegido, corta sola. Suma base giratoria 360°, luz indicadora de encendido y el interior es de acero, según la ficha de ML (que no aclara si es inoxidable).
+
+Con 3.837 calificaciones y 4.5 estrellas, tiene un volumen de reseñas alto para ser la pava más barata del catálogo.
+
+## La función mate: ¿marca diferencia de verdad?
+
+Sí, funciona, pero con matices. Una reseña la resume con precisión: "solo tiene un led que indica que está prendida, y un botón para indicar que caliente para mate o que hierva el agua. Para esto último tiene corte automático. En resumen cumple su propósito." Es exactamente lo que promete: un control simple de 2 niveles, no una pantalla con grados exactos.
+
+El problema lo marca otra reseña, con una semana de uso: "el único detalle es que no se marca mucha diferencia entre mate y café, pero está muy bien por ahora". Es decir, el botón cambia el punto de corte, pero la diferencia de temperatura entre ambos niveles es más chica de lo que uno esperaría. Si buscás un salto grande entre "temperatura de mate" y "hervor", contá con que acá es sutil.
+
+## Lo que la ficha de ML carga mal
+
+Los atributos estructurados de la publicación dicen "Con función mate: No". Es un dato incorrecto: el propio nombre del producto es "Pava Eléctrica Matera" y las reseñas confirman que sí tiene un modo pensado para cebar, mediante sus 2 niveles de temperatura. Es el mismo tipo de error que aparece en otras fichas de pavas de este catálogo, donde un atributo mal cargado en ML no coincide con lo que el producto realmente hace. No lo tomes literal.
+
+## Velocidad y durabilidad: lo que dicen las reseñas
+
+En velocidad, no es la más rápida: una reseña la describe como "no súper rápida para calentar el agua, pero cumple". No es un defecto grave, solo un dato a tener en cuenta si buscás algo veloz para las mañanas apuradas.
+
+En durabilidad, hay una advertencia concreta de una reseña de 5 estrellas: "funciona bien pero son descartables, dejan de funcionar luego de 2 años exactamente. Tuve la misma anteriormente y es lo que duró." El mismo comprador aclara que, aun así, "está bien en relación precio calidad". Es el trade-off esperable al ser la opción más barata del catálogo: cumple, pero no esperes que dure una década.
+
+## Comparada con otras pavas del catálogo
+
+Si preferís pagar un poco más por una pava con selector de temperatura continuo y muchas más reseñas detrás, la [Atma PE1821NAP](/producto/MLA19589519) tiene 2200W y 14.738 calificaciones, a $55.290, aunque sin función mate etiquetada y con un interruptor que no se apaga solo.
+
+Si buscás control de temperatura con pantalla digital y función mate explícita, la [Peabody Digital PE-DK2200N](/producto/MLA47275624) ofrece un rango continuo de 40 a 100°C, a $69.433, casi cuatro veces el precio de esta Kanji.
+
+Y si preferís una pava de vidrio con corte pensado para mate y LED, a un precio intermedio, la [Winco W1719](/producto/MLA51108369) sale $32.465 con 4.8⭐ y 1.447 calificaciones.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica), y si querés entender los distintos sistemas de control de temperatura (selector continuo, niveles fijos, botón único como el de esta Kanji), la [guía dedicada a ese tema](/guias/pava-electrica-control-temperatura).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: buscás la opción más barata del catálogo para cebar mate sin pretensiones, te alcanza con un botón de 2 niveles en vez de una pantalla con grados exactos, y no te molesta que no dure más de un par de años. No es para vos si: necesitás que la diferencia entre mate y hervor sea marcada, buscás velocidad de calentamiento como prioridad, o preferís pagar más por un producto pensado para durar mucho más tiempo.`,
+    specs: [
+      { label: 'Marca', value: 'Kanji' },
+      { label: 'Modelo', value: 'KJH-PE15002M' },
+      { label: 'Capacidad', value: '1,8 litros' },
+      { label: 'Potencia', value: '1500W' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Material', value: 'Acero (la ficha de ML no especifica si es inoxidable)' },
+      { label: 'Niveles de temperatura', value: '2 (mate y hervor), con un solo botón selector' },
+      { label: 'Función mate', value: 'Sí, mediante los 2 niveles de temperatura (la ficha de ML lo carga como "No", dato mal cargado)' },
+      { label: 'Corte automático', value: 'Sí, al llegar al nivel elegido' },
+      { label: 'Base giratoria', value: 'Sí, 360°' },
+      { label: 'Luz indicadora de funcionamiento', value: 'Sí' },
+      { label: 'Pantalla digital', value: 'No' },
+      { label: 'Indicador de nivel de agua', value: 'No' },
+      { label: 'Filtro', value: 'No' },
+      { label: 'Infusor', value: 'No' },
+      { label: 'Termómetro', value: 'No' },
+      { label: 'Eficiencia energética', value: 'A' },
+      { label: 'Acabado', value: 'Mate' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'mayo 2025', useful: 0, text: 'Me encanta, tiene la función de calentar el agua para el mate. Que es lo que más uso.' },
+      { rating: 4, country: 'Argentina', date: 'febrero 2025', useful: 0, text: 'El producto está muy bien en relación a lo que es precio. El único detalle es que no se marca mucha diferencia entre mate y café pero esta muy bien por ahora. Una semana de uso.' },
+      { rating: 4, country: 'Argentina', date: 'noviembre 2024', useful: 0, text: 'Precio calidad. No es súper rápida para calentar el agua, pero cumple. Solo tiene un led que indica que está prendida, y un botón para indicar que caliente para mate o que hierva el agua. Para esto último tiene corte automático. En resumen cumple su propósito.' },
+      { rating: 5, country: 'Argentina', date: 'agosto 2024', useful: 0, text: 'Funciona bien pero son descartables, dejan de funcionar luego de 2 años exactamente. Tuve la misma anteriormente y es lo que duró. Igualmente esta bien en relación precio calidad.' },
+    ],
+    faq: [
+      {
+        question: '¿La función mate marca diferencia de verdad respecto a hervir?',
+        answer: 'Funciona, pero la diferencia es sutil. Una reseña con una semana de uso lo resume así: "no se marca mucha diferencia entre mate y café, pero está muy bien por ahora". No esperes un salto grande de temperatura entre los 2 niveles.',
+      },
+      {
+        question: '¿Corta sola cuando termina de calentar?',
+        answer: 'Sí. Una reseña lo confirma con precisión: hay un botón para elegir entre calentar para mate o hervir el agua, y "para esto último tiene corte automático". El nivel mate no llega a hervor, así que el corte ahí es distinto al del nivel hervir.',
+      },
+      {
+        question: '¿Por qué la ficha de ML dice que no tiene función mate si el nombre del producto la incluye?',
+        answer: 'Es un dato mal cargado en los atributos estructurados de Mercado Libre. El nombre del producto, la descripción y las reseñas confirman que sí tiene un modo pensado para cebar mate, mediante sus 2 niveles de temperatura con un solo botón selector. No lo tomes literal.',
+      },
+      {
+        question: '¿Calienta rápido?',
+        answer: 'No es la más rápida del catálogo. Una reseña la describe como "no súper rápida para calentar el agua, pero cumple". Para uso cotidiano funciona bien, pero no es su punto fuerte.',
+      },
+      {
+        question: '¿Cuánto dura esta pava?',
+        answer: 'Una reseña de 5 estrellas advierte que "son descartables": la suya dejó de funcionar a los 2 años exactos, aunque aclara que "está bien en relación precio calidad". Es el trade-off esperable al ser la opción más económica del catálogo.',
+      },
+      {
+        question: '¿Tiene indicador de nivel de agua o pantalla digital?',
+        answer: 'No. Solo tiene un led que indica que está encendida y el botón selector de 2 niveles. Sin pantalla, sin indicador de nivel de agua, sin filtro ni infusor.',
+      },
+      {
+        question: '¿Cuántas tazas rinde con 1,8 litros?',
+        answer: 'Aproximadamente 6 a 7 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'La ficha de ML no especifica el plazo exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía; conviene confirmar el plazo puntual con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿En qué se diferencia de la Atma PE1821NAP o la Winco W1719?',
+        answer: 'La [Atma PE1821NAP](/producto/MLA19589519) tiene selector de temperatura continuo y 2200W, a $55.290, con muchas más calificaciones (14.738) pero sin función mate etiquetada. La [Winco W1719](/producto/MLA51108369) es de vidrio, con LED y corte pensado para mate, a $32.465. Esta Kanji es la más barata de las tres, con 2 niveles fijos en vez de un selector continuo.',
+      },
+    ],
+    relatedProducts: ['MLA19589519', 'MLA51108369', 'MLA47275624', 'MLA54676373'],
   },
   {
     id: 'MLA37777896',
     title: 'Pava Vidrio Hervidora Kanji Home Kjh-pe15004s Color Negro',
+    canonicalName: 'Pava eléctrica de vidrio Kanji Home KJH-PE15004S 1.8L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Kanji",
     price: 30500,
     priceLastChecked: "2026-07-08",
@@ -48694,6 +51759,10 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_935384-MLA99533258566_122025-O.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_935384-MLA99533258566_122025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_737397-MLA97505888780_112025-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48703,11 +51772,129 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     freeShipping: false,
     rating: 4.3,
     reviewCount: 123,
-    description: 'Pava eléctrica de vidrio Kanji Home KJH-PE15004S, 1.8L, 1500W, sin control de temperatura ni infusor. La más básica y barata del vidrio del catálogo. 4.3⭐ con 123 calificaciones.',
+    description: 'Pava eléctrica de vidrio Kanji Home KJH-PE15004S de 1.8L, con luz LED, base de acero inoxidable y corte automático. Sin control de temperatura ni termómetro. 4.3⭐ con 123 calificaciones, la opción más simple y económica de vidrio en el catálogo.',
+    pros: [
+      'A $30.500, es de las pavas de vidrio más baratas del catálogo, por debajo de la Winco W1719 ($32.465) y lejos de la Telefunken PE800 ($125.549) o la Daewoo Infussia ($67.035)',
+      'Tiene luz LED que se ve al hervir: una reseña lo remarca puntualmente, "excelente precio y excelente calidad!! y tiene luz!!!"',
+      'El corte automático funciona: lo confirma tanto Mercado Libre como las fichas técnicas de otros retailers (Frávega, Garbarino) que venden el mismo modelo',
+      'Cuerpo de vidrio templado con base de acero inoxidable, según la descripción de los retailers que lo detallan (Frávega, Garbarino)',
+      '4.3⭐ con 123 calificaciones, un volumen razonable para ser la opción más económica del vidrio en el catálogo',
+    ],
+    cons: [
+      'No tiene control de temperatura ni termómetro: calienta a fondo y corta sola, sin niveles intermedios ni función mate',
+      'La ficha de ML carga el atributo "Materiales" como "Plástico", pero el propio nombre del producto, la descripción de otros retailers (Frávega, Garbarino) y las fotos coinciden en que el cuerpo es de vidrio con base de acero inoxidable. Dato mal cargado, no lo tomes literal',
+      'Las reseñas del JSON son mayormente cortas ("Me encantó!", "Muy linda para recomendar"): hay poco detalle de uso a mediano o largo plazo más allá de la que menciona la luz',
+      'Sin indicador de nivel de agua, filtro ni infusor: es la versión más básica de vidrio del catálogo, sin las prestaciones extra de la Daewoo o la Telefunken',
+      'Ninguna fuente consultada menciona base giratoria, a diferencia de otras pavas del mismo catálogo que sí la tienen',
+    ],
+    verdict: 'A $30.500, es la pava de vidrio más simple y barata del catálogo: cuerpo de vidrio templado con luz LED que se ve linda de noche, base de acero inoxidable y corte automático real. Compra con los ojos abiertos: no tiene control de temperatura ni termómetro, y la ficha de ML contradice su propio nombre al cargar el material como "Plástico" en vez de vidrio.',
+    seoTitle: 'Pava de Vidrio Kanji Home KJH-PE15004S Negro: Precio y Reseñas',
+    metaDescription: 'Pava eléctrica de vidrio Kanji Home KJH-PE15004S de 1.8L, negra, con luz LED y corte automático, sin control de temperatura. 4.3⭐ con 123 calificaciones.',
+    ogTitle: 'Pava de vidrio Kanji Home KJH-PE15004S: la más simple del catálogo, 4.3⭐/123',
+    ogDescription: 'Cuerpo de vidrio templado con luz LED, base de acero inoxidable y corte automático. 1.8L, $30.500. Mirá lo que dicen las reseñas reales antes de comprar →',
+    h1: 'Pava eléctrica de vidrio Kanji Home KJH-PE15004S negro: la más simple, ¿rinde?',
+    articleBody: `## Qué es y qué trae
+
+Es una pava eléctrica de vidrio templado de 1.8 litros, con base de acero inoxidable y 1500W de potencia según los retailers que la venden. No tiene control de temperatura ni termómetro: apretás el botón, hierve a fondo y corta sola por seguridad. Es la versión más básica de la línea de vidrio de Kanji Home, sin función mate, sin niveles de temperatura y sin infusor.
+
+Lo que sí trae, aunque la ficha de ML no lo detalla en su tabla de specs, es una luz LED interior que se enciende al hervir. Con 123 calificaciones y 4.3 estrellas, tiene un volumen de reseñas moderado para una pava de vidrio de entrada de precio.
+
+## La luz LED y el vidrio: lo que dicen las reseñas
+
+El dato que más repiten las reseñas reales es la luz. Una la resume así: "hierve bien hervida el agua para el té!!! hermosa!!! good value for the money!!! excelente precio y excelente calidad!! y tiene luz!!!". Es el mismo tipo de detalle que buscan los compradores de pavas de vidrio: ver el agua hirviendo con la luz interior encendida, algo que una pava de plástico opaco no ofrece.
+
+Sobre el vidrio en sí (si se raya, si mancha, si aguanta el uso diario) las reseñas del JSON no traen detalle: son en su mayoría comentarios cortos y positivos ("Me encantó!", "Muy linda para recomendar"), sin quejas puntuales sobre el material ni sobre golpes o manchas. No hay una advertencia negativa de peso en la muestra, pero tampoco hay testimonios de uso a largo plazo que confirmen durabilidad.
+
+## Lo que la ficha de ML carga mal
+
+Los atributos estructurados de la publicación de Mercado Libre dicen "Materiales: Plástico". Es un dato que no cierra: el propio nombre del producto es "Pava Vidrio Hervidora", y las fichas técnicas de otros retailers que venden el mismo modelo (Frávega, Garbarino) describen explícitamente un "elegante cuerpo de vidrio" con "base de acero inoxidable". Lo más probable es que el atributo "Materiales" de ML esté mal cargado o se refiera solo a alguna pieza plástica secundaria (como la tapa o el mango), no al cuerpo principal. No lo tomes como que compraste una pava de plástico disfrazada de vidrio: las fotos y las descripciones de los retailers coinciden en que el cuerpo es vidrio templado.
+
+## Comparada con otras pavas de vidrio del catálogo
+
+Si preferís pagar apenas un poco más y sumar control de temperatura y función mate, la [Winco W1719](/producto/MLA51108369) cuesta $32.465, tiene 4.8⭐ con 1.447 calificaciones, LED azul y base giratoria 360°: probablemente la mejor relación precio-prestaciones del segmento de vidrio.
+
+Si buscás selector de temperatura y un filtro o infusor removible para té en hebras, la [Telefunken PE800](/producto/MLA24556041) suma esas funciones a $125.549, más de cuatro veces el precio de esta Kanji.
+
+Y si tu prioridad es el control digital con presets exactos, la [Daewoo Infussia](/producto/MLA50312411) tiene pantalla táctil con 8 niveles de temperatura e infusor profesional de acero, a $67.035.
+
+Dentro de la propia marca, la [Kanji Home KJH-PE15002M](/producto/MLA20027329) es la matera con función de 2 niveles (cebar y hervir), más barata ($18.299) pero sin el atractivo visual del vidrio.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: buscás la opción más económica dentro de las pavas de vidrio del catálogo, te alcanza con hervir a fondo sin niveles de temperatura, y te importa el detalle estético de ver el agua hirviendo con la luz LED encendida. No es para vos si: necesitás control de temperatura, función mate o un infusor para té en hebras, o preferís pagar un poco más por una pava de vidrio con más prestaciones (como la Winco W1719, apenas $1.965 más cara).`,
+    specs: [
+      { label: 'Marca', value: 'Kanji' },
+      { label: 'Modelo', value: 'KJH-PE15004S' },
+      { label: 'Capacidad', value: '1,8 litros' },
+      { label: 'Potencia', value: '1500W (según ficha técnica de retailers, no incluida en los atributos de ML)' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Material del cuerpo', value: 'Vidrio templado, confirmado por el nombre del producto y por otros retailers (Frávega, Garbarino); la ficha de ML dice "Plástico" en su atributo "Materiales", dato mal cargado' },
+      { label: 'Base', value: 'Acero inoxidable, según la descripción de los retailers' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Luz interior', value: 'Sí, LED, confirmada por reseñas reales de compradores' },
+      { label: 'Corte automático', value: 'Sí' },
+      { label: 'Control de temperatura', value: 'No' },
+      { label: 'Termómetro', value: 'No' },
+      { label: 'Función mate', value: 'No' },
+      { label: 'Indicador de nivel de agua', value: 'No' },
+      { label: 'Filtro', value: 'No' },
+      { label: 'Infusor', value: 'No' },
+      { label: 'Base giratoria', value: 'No mencionada en ninguna fuente consultada' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Hermosa, me encanta!!! hierve bien hervida el agua para el té!!! hermosa!!! good value for the money!!! excelente precio y excelente calidad!! y tiene luz!!!.' },
+      { rating: 5, country: 'Argentina', date: 'junio 2026', useful: 0, text: 'Excelente.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Muy linda para recomendar.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Me encantó!.' },
+    ],
+    faq: [
+      {
+        question: '¿La luz LED se ve linda de noche?',
+        answer: 'Sí, es el detalle que más destacan las reseñas reales. Una la describe así: "hierve bien hervida el agua para el té!!! hermosa!!! y tiene luz!!!". Se enciende al hervir y es uno de los puntos fuertes de elegir esta versión de vidrio en vez de una pava de plástico opaco.',
+      },
+      {
+        question: '¿El vidrio se raya o se mancha con el uso?',
+        answer: 'Las reseñas del JSON no traen detalle sobre esto: son en su mayoría comentarios cortos y positivos, sin quejas puntuales sobre el vidrio ni testimonios de uso a largo plazo. No hay una advertencia negativa de peso, pero tampoco hay confirmación de durabilidad a varios años.',
+      },
+      {
+        question: '¿Cuánto tarda en hervir?',
+        answer: 'Ninguna reseña ni ficha técnica confirmada da un tiempo exacto. Con 1500W y 1.8 litros, el rango esperable para un ciclo completo de hervor está en línea con el resto de pavas eléctricas de potencia similar del catálogo, aproximadamente 4 a 6 minutos con la jarra llena.',
+      },
+      {
+        question: '¿Tiene control de temperatura o función mate?',
+        answer: 'No. Es la versión más básica de la línea de vidrio: apretás el botón, hierve a fondo y corta sola. Si necesitás niveles de temperatura o función mate, la Winco W1719 o la Kanji Home KJH-PE15002M (matera) son mejores opciones.',
+      },
+      {
+        question: '¿Por qué la ficha de ML dice que el material es "Plástico" si el producto se llama "Pava Vidrio"?',
+        answer: 'Es un dato mal cargado en los atributos estructurados de Mercado Libre. El propio nombre del producto y las fichas técnicas de otros retailers (Frávega, Garbarino) describen un cuerpo de vidrio con base de acero inoxidable. No lo tomes literal: probablemente el atributo se refiere a alguna pieza secundaria, no al cuerpo principal.',
+      },
+      {
+        question: '¿Corta sola cuando termina de hervir?',
+        answer: 'Sí, tiene corte automático confirmado tanto por Mercado Libre como por las fichas técnicas de los retailers que venden el mismo modelo.',
+      },
+      {
+        question: '¿Cuántas tazas rinde con 1.8 litros?',
+        answer: 'Aproximadamente 6 a 7 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'La ficha de ML no especifica el plazo exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía; conviene confirmar el plazo puntual con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿En qué se diferencia de la Winco W1719 o la Telefunken PE800?',
+        answer: 'La [Winco W1719](/producto/MLA51108369) suma control de temperatura, función mate y LED azul a $32.465, apenas más cara. La [Telefunken PE800](/producto/MLA24556041) tiene selector de temperatura e infusor removible, pero a $125.549. Esta Kanji es la opción sin extras: solo hervir, con luz LED y corte automático, al precio más bajo del segmento de vidrio.',
+      },
+    ],
+    relatedProducts: ['MLA51108369', 'MLA24556041', 'MLA50312411', 'MLA20027329'],
   },
   {
     id: 'MLA51108369',
     title: 'Pava Jarra Electrica Corte Mate Vidrio Led Winco W1719 Color Transparente',
+    canonicalName: 'Pava eléctrica de vidrio Winco W1719 1.8L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Winco",
     price: 32465,
     priceLastChecked: "2026-07-08",
@@ -48715,6 +51902,12 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_708449-MLA108642108384_032026-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_708449-MLA108642108384_032026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_745076-MLA108641722166_032026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_706263-MLA109447429903_032026-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_845986-MLA108642138434_032026-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48723,12 +51916,124 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 1447,
-    description: 'Pava eléctrica de vidrio Winco W1719, 1.8L, 2200W, control de temperatura, función mate, LED azul, base giratoria 360°. 4.8⭐ con 1.447 calificaciones, la mejor relación precio-prestaciones del vidrio.',
+    reviewCount: 1438,
+    description: 'Pava eléctrica de vidrio templado Winco W1719, 1,8L, 1850W, con corte automático independiente para mate y para hervor, luz LED y base giratoria 360° inalámbrica. 4.8⭐ con 1.438 calificaciones; varias reseñas marcan detalles de terminación (pintura, tapones) que no afectan el uso.',
+    pros: [
+      'A $32.465, con 4.8⭐ y 1.438 calificaciones, probablemente la mejor relación precio-prestaciones del segmento de vidrio del catálogo: muy por debajo de la Telefunken PE800 ($125.549) o la Daewoo Infussia ($67.035)',
+      'El corte para mate funciona de verdad: dos reseñas lo confirman de forma independiente ("tiene el corte intermedio para el agua del mate. Funciona bien" y "lo mejor: trae corte para mate")',
+      'Jarra de vidrio templado: un comprador la eligió justamente porque el agua no toca plástico mientras hierve',
+      'Base giratoria 360° inalámbrica con guardacable, más luz LED y luz indicadora de encendido',
+      'Corte automático al hervir independiente del corte para mate, con termostato de seguridad y protección por falta de agua, según la ficha técnica de retailers que venden el mismo modelo (Leguisa Hogar)',
+    ],
+    cons: [
+      'Calidad de terminación inconsistente según varias reseñas: tapones que no coinciden hasta sacarles un protector plástico, pintura descascarada o sin terminar en los bordes, y en un caso el embellecedor de la manija se salió apenas sacada de la caja. Ningún caso afecta el funcionamiento, pero sí la primera impresión',
+      'No tiene termómetro, a diferencia de la Ultracomb PE-4915 (precio similar en la franja alta del catálogo) que sí lo incluye',
+      'La muestra de reseñas verificadas es chica (5) aunque el total de calificaciones es alto (1.438): no hay testimonios de uso a mediano o largo plazo en la muestra disponible',
+      'La ficha de ML no especifica el voltaje del equipo (Argentina funciona en 220V, pero no está confirmado explícitamente en la publicación)',
+    ],
+    verdict: 'A $32.465, es de las pavas de vidrio con mejor relación precio-prestaciones del catálogo: corte automático real tanto para mate como para hervor, base giratoria 360° y luz LED, con 4.8⭐ en 1.438 calificaciones. Compra con los ojos abiertos: varias reseñas señalan detalles de terminación (pintura descascarada, tapones distintos, embellecedores sueltos) que no afectan el uso pero sí la primera impresión.',
+    seoTitle: 'Pava de Vidrio Winco W1719 Corte Mate: Precio y Reseñas',
+    metaDescription: 'Pava eléctrica de vidrio Winco W1719, 1.8L, con corte automático para mate y para hervor, luz LED y base giratoria 360°. 4.8⭐ con 1.438 calificaciones.',
+    ogTitle: 'Pava de vidrio Winco W1719: corte para mate real, 4.8⭐ con 1.438 calificaciones',
+    ogDescription: 'Corte automático para mate y para hervor, jarra de vidrio templado, base giratoria 360° y luz LED. 1.8L, $32.465. Mirá lo que dicen las reseñas reales antes de comprar →',
+    h1: 'Pava eléctrica de vidrio Winco W1719 con corte mate: ¿vale la pena?',
+    articleBody: `## Qué es y qué trae
+
+Es una pava jarra eléctrica de vidrio templado, con 1,8 litros de capacidad y 1850W de potencia, según coinciden varios retailers que la venden (Leguisa Hogar, Witech, Aurora Store). A diferencia de otras pavas de vidrio del catálogo con un solo punto de corte, esta Winco W1719 tiene dos cortes automáticos independientes: uno al hervir y otro pensado específicamente para la temperatura de mate. Suma termostato de seguridad, protección por falta de agua, base giratoria 360° inalámbrica con guardacable, luz indicadora de encendido y luz LED.
+
+Con 1.438 calificaciones y 4.8 estrellas, tiene el volumen de reseñas más alto entre las pavas de vidrio del catálogo.
+
+## El corte para mate: ¿funciona de verdad?
+
+Sí, y dos reseñas lo confirman de forma independiente. Una describe: "cuando funciona se prende la luz led, tiene el corte intermedio para el agua del mate. Funciona bien". Otra, más escueta, va directo al punto: "lo mejor: trae corte para mate. Recomendadísima". No es un dato aislado de la ficha de ML: la ficha técnica de retailers que venden el mismo modelo (Leguisa Hogar) separa explícitamente "corte automático al hervir" de "corte para mate" como dos funciones distintas, no una sola.
+
+Uno de los compradores también valora el material: la eligió justamente porque, al ser de vidrio, el agua no toca plástico mientras hierve.
+
+## Terminación: el detalle que más se repite en las reseñas
+
+Acá aparece el problema real de esta pava, y se repite en varias reseñas independientes. Una compradora cuenta: "paso a contar que nos encantó! y vi que muchos se quejaban por el tema de que no eran iguales los tapones, y es que uno viene con un protector, lo sacás y queda todo plateado" (el tapón parece distinto hasta que se le saca un protector plástico y queda parejo). Otra reseña es más dura: "vino con unos detalles estéticos espantosos. Una de las terminaciones sin pintar, otra con la pintura descascarada. No afecta el uso pero queda feo". Y una tercera suma: "al sacarla de la caja se le salió el embellecedor de la manija, pero para el precio cumple las expectativas de algo barato".
+
+El patrón es consistente: son defectos de terminación (pintura, tapones, embellecedores), no de funcionamiento. Ninguna reseña de la muestra reporta que la pava haya dejado de hervir, cortar o andar bien. Pero si te importa mucho la prolijidad estética de fábrica, es un dato a tener en cuenta antes de comprar.
+
+## Comparada con otras pavas del catálogo
+
+Si buscás la opción más económica de vidrio, sin control de temperatura ni función mate diferenciada, la [Kanji Home KJH-PE15004S](/producto/MLA37777896) cuesta $30.500, apenas $1.965 menos, pero sin el corte diferenciado para mate de esta Winco.
+
+Si preferís selector de temperatura continuo y muchas más calificaciones detrás (aunque sin vidrio ni función mate etiquetada), la [Atma PE1821NAP](/producto/MLA19589519) tiene 2200W y 14.738 calificaciones, a $55.290.
+
+Y si tu prioridad es el termómetro incorporado además del corte automático, la [Ultracomb PE-4915](/producto/MLA46312287) lo suma a $119.395, casi cuatro veces el precio de esta Winco.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: buscás una pava de vidrio con corte real y diferenciado para mate y para hervor, a un precio intermedio, y no te importan pequeños detalles estéticos de fábrica que no afectan el uso. No es para vos si: necesitás una terminación prolija desde la caja sin ningún defecto cosmético, buscás termómetro incorporado, o preferís gastar menos en una pava de vidrio más básica sin el corte diferenciado para mate.`,
+    specs: [
+      { label: 'Marca', value: 'Winco' },
+      { label: 'Modelo', value: 'W1719' },
+      { label: 'Color', value: 'Transparente' },
+      { label: 'Capacidad', value: '1,8 litros' },
+      { label: 'Potencia', value: '1850W (confirmado por retailers Leguisa Hogar, Witech y Aurora Store; no incluida en los atributos de ML)' },
+      { label: 'Material', value: 'Vidrio templado' },
+      { label: 'Corte automático al hervir', value: 'Sí' },
+      { label: 'Corte para mate', value: 'Sí, corte independiente del hervor, confirmado por ficha técnica de retailer (Leguisa Hogar) y por reseñas de compradores' },
+      { label: 'Termostato de seguridad', value: 'Sí' },
+      { label: 'Protección por falta de agua', value: 'Sí' },
+      { label: 'Base giratoria', value: 'Sí, 360°, inalámbrica con guardacable' },
+      { label: 'Luz indicadora de encendido', value: 'Sí' },
+      { label: 'Luz LED', value: 'Sí' },
+      { label: 'Indicador de nivel de agua', value: 'Sí' },
+      { label: 'Termómetro', value: 'No' },
+      { label: 'Voltaje', value: '220V (estándar argentino; no viene explícito en la ficha de ML)' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'noviembre 2025', useful: 0, text: 'Paso a contar que nos encantó! Y vi que muchos se quejaban por el tema de que no eran iguales los tapones: es que uno viene con un protector, lo sacás y queda todo plateado.' },
+      { rating: 4, country: 'Argentina', date: 'septiembre 2025', useful: 0, text: 'La pava la amé. Pero vino con unos detalles estéticos espantosos: una de las terminaciones sin pintar, otra con la pintura descascarada. No afecta el uso pero queda feo.' },
+      { rating: 4, country: 'Argentina', date: 'diciembre 2025', useful: 0, text: 'Al sacarla de la caja se le salió el embellecedor de la manija, pero para el precio cumple las expectativas de algo barato.' },
+      { rating: 5, country: 'Argentina', date: 'octubre 2025', useful: 0, text: 'Es un producto recomendable, lo compré por los materiales ya que cuando calienta el agua no está en contacto con plástico. El diseño es muy lindo. Cuando funciona se prende la luz led, tiene el corte intermedio para el agua del mate. Funciona bien.' },
+    ],
+    faq: [
+      {
+        question: '¿El corte para mate funciona de verdad o es solo un botón más?',
+        answer: 'Sí, y dos reseñas lo confirman de forma independiente. Una dice: "tiene el corte intermedio para el agua del mate. Funciona bien." Otra resume: "lo mejor: trae corte para mate. Recomendadísima." La ficha técnica de retailers que venden el mismo modelo (Leguisa Hogar) también separa "corte automático al hervir" de "corte para mate" como dos funciones distintas.',
+      },
+      {
+        question: '¿Por qué algunas reseñas se quejan de los tapones o la pintura?',
+        answer: 'Son defectos de terminación de fábrica, no de funcionamiento. Una reseña cuenta que los tapones parecen distintos hasta sacarles un protector plástico ("lo sacás y queda todo plateado"), y otra reporta bordes sin pintar o con la pintura descascarada. Es un detalle a tener en cuenta si te importa mucho la prolijidad estética.',
+      },
+      {
+        question: '¿Estos defectos de terminación afectan el uso?',
+        answer: 'No, según la muestra de reseñas disponible. Ninguna reporta que la pava haya dejado de hervir, cortar o andar bien; los reclamos son puntualmente estéticos (pintura, tapones, un embellecedor de manija que se salió apenas sacada de la caja).',
+      },
+      {
+        question: '¿Cuánto tarda en hervir?',
+        answer: 'Ninguna reseña ni ficha técnica confirmada da un tiempo exacto. Con 1850W y 1,8 litros, el rango esperable para un ciclo completo de hervor está en línea con el resto de pavas eléctricas de potencia similar del catálogo, aproximadamente 3 a 5 minutos con la jarra llena.',
+      },
+      {
+        question: '¿Tiene termómetro?',
+        answer: 'No. Si necesitás ver la temperatura exacta durante el calentamiento, la Ultracomb PE-4915 (con termómetro) es mejor opción, aunque a un precio bastante más alto ($119.395).',
+      },
+      {
+        question: '¿Cuántas tazas rinde con 1,8 litros?',
+        answer: 'Aproximadamente 6 a 7 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'La ficha de ML no especifica el plazo exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía; conviene confirmar el plazo puntual con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿En qué se diferencia de la Kanji Home KJH-PE15004S o la Atma PE1821NAP?',
+        answer: 'La [Kanji Home KJH-PE15004S](/producto/MLA37777896) es más barata ($30.500) pero sin corte diferenciado para mate. La [Atma PE1821NAP](/producto/MLA19589519) tiene selector de temperatura continuo y 14.738 calificaciones, a $55.290, pero no es de vidrio ni tiene función mate etiquetada. Esta Winco es la única con corte automático separado para mate y para hervor en el segmento de vidrio del catálogo.',
+      },
+    ],
+    relatedProducts: ['MLA37777896', 'MLA19589519', 'MLA46312287', 'MLA24556041'],
   },
   {
     id: 'MLA24556041',
     title: 'Pava Eléctrica Telefunken Pe800 Jarra Vidrio 1.8lt Mate Cafe',
+    canonicalName: 'Pava eléctrica de vidrio Telefunken TF-PE800 1.8L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Telefunken",
     price: 125549,
     priceLastChecked: "2026-07-08",
@@ -48736,6 +52041,15 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_882395-MLA99471288790_112025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_882395-MLA99471288790_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_734235-MLA99955288373_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_733111-MLA99471180154_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_611843-MLA96076055141_102025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_719992-MLA95634490734_102025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_914076-MLA96076025417_102025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_846573-MLA99471062068_112025-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48746,10 +52060,130 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     rating: 4.7,
     reviewCount: 630,
     description: 'Pava eléctrica de vidrio Telefunken TF-PE800, 1.8L, 1850-2200W, selector de temperatura, filtro/infusor removible, base giratoria 360°. 4.7⭐ con 630 calificaciones.',
+    pros: [
+      'La única del catálogo de vidrio con selector de temperatura E infusor removible para té en hebras en el mismo equipo, según confirma el sitio oficial de Telefunken Argentina (Someco)',
+      'Base giratoria 360° con conexión central, tapa y manija frías al tacto y sistema de protección contra ebullición, confirmado por el sitio oficial del fabricante',
+      '4.7⭐ con 630 calificaciones, buen volumen de reseñas para el segmento alto del catálogo',
+      'Reseñas reales confirman buena terminación y limpieza fácil: la tapa grande permite meter la mano para lavarla por dentro',
+      'Una reseña usa el truco de hervir cáscara de limón para sacar el sarro y dice que "queda como nueva", además de destacar que mantiene bien la temperatura',
+    ],
+    cons: [
+      'A $125.549 es la pava más cara del segmento de vidrio del catálogo, más de cuatro veces el precio de la Winco W1719 ($32.465) o la Kanji Home KJH-PE15004S ($30.500)',
+      'El propio sitio oficial de Telefunken Argentina (Someco) se contradice: la descripción del producto dice "selector digital de temperatura", pero la lista de características de esa misma página lo llama "selector rotativo de temperatura". No hay pantalla: es una perilla analógica',
+      'Una reseña real lo confirma: "si bien tiene selector de temperatura, es difícil buscar el punto deseado"',
+      'Otra reseña avisa que si no le movés el interruptor manualmente, la pava sigue prendiéndose y apagándose sola, con el riesgo de dejarla así sin supervisión y que se evapore el agua',
+      'Una reseña la describe como "un poco ruidosa en estos últimos días" después de un tiempo de uso, aunque la sigue recomendando',
+      'Al momento de este chequeo, ML mostraba solo 5 unidades disponibles: conviene confirmar el stock antes de decidir la compra',
+    ],
+    verdict: 'A $125.549, es la pava más cara del segmento de vidrio del catálogo, pero también la única con selector de temperatura e infusor removible para té en hebras en el mismo equipo, con 4.7⭐ en 630 calificaciones. Compra con los ojos abiertos: ni el propio sitio oficial de Telefunken en Argentina se pone de acuerdo con el selector (lo llama "digital" en la descripción y "rotativo" en las características), y una reseña real confirma que cuesta encontrar el punto exacto de temperatura.',
+    seoTitle: 'Pava Telefunken PE800: Selector de Temperatura y Precio',
+    metaDescription: 'Pava eléctrica de vidrio Telefunken TF-PE800, 1.8L, selector de temperatura, infusor removible y base giratoria 360°. 4.7⭐ con 630 calificaciones. Análisis honesto.',
+    ogTitle: 'Pava Telefunken TF-PE800: selector de temperatura, 4.7⭐ con 630 calificaciones',
+    ogDescription: 'Selector de temperatura, infusor removible para té, base giratoria 360° y protección contra ebullición. 1.8L, $125.549. Mirá lo que dicen las reseñas reales antes de comprar →',
+    h1: 'Pava eléctrica Telefunken PE800 de vidrio con selector de temperatura: ¿vale $125.549?',
+    articleBody: `## Qué es y qué trae
+
+Es una pava eléctrica de vidrio de 1.8 litros, con selector de temperatura y un filtro/infusor removible pensado para té en hebras, además de la función mate habitual del catálogo. Según confirma el sitio oficial de Telefunken en Argentina (operado por Someco Electronics), tiene 1850-2200W de potencia (la ficha de ML solo carga el tope, "2.200 W"), base giratoria 360° con conexión central, tapa y manija frías al tacto, indicador de nivel de agua, luz indicadora de funcionamiento y un sistema de protección contra ebullición además del corte automático al hervir.
+
+Con 630 calificaciones y 4.7 estrellas, tiene un volumen de reseñas sólido para ser la pava más cara del segmento de vidrio del catálogo.
+
+## El selector de temperatura: ¿digital o una perilla?
+
+Acá aparece la contradicción más concreta de esta ficha, y no viene de Mercado Libre: viene del propio sitio oficial de Telefunken Argentina. En la descripción del producto, el fabricante escribe que el TF-PE800 "cuenta con un selector digital de temperatura que permite seleccionar de forma precisa la temperatura ideal para mate, café y té". Pero en la lista de características, la misma página lo llama "selector rotativo de temperatura". No es lo mismo: rotativo es una perilla analógica, digital sería una pantalla con valores exactos en grados.
+
+Una reseña real de comprador confirma cuál de las dos versiones es la correcta: "si bien tiene selector de temperatura, es difícil buscar el punto deseado". Eso describe una perilla continua, no un selector digital con marcas precisas. Si buscás de verdad un control con pantalla y presets exactos, la [Daewoo Infussia](/producto/MLA50312411) tiene control táctil digital con 8 niveles de temperatura, a $67.035, casi la mitad de precio.
+
+## Lo que dicen las reseñas reales
+
+Además del selector, las reseñas confirman otros puntos. Sobre la limpieza, una compradora destaca que la tapa es grande y permite meter la mano fácilmente para lavarla por dentro, algo que valora frente a pavas con boca más chica. Otra reseña recomienda un truco casero contra el sarro: hervir la cáscara de limón adentro, y dice que la pava "queda como nueva", además de elogiar que mantiene bien la temperatura elegida.
+
+No todo es color de rosa. Una reseña la describe como "un poco ruidosa en estos últimos días" después de unos días de uso, aunque la sigue recomendando. Y otra plantea una advertencia de seguridad real, no un capricho: si no le movés el interruptor manualmente después de que corta, la pava puede seguir prendiéndose y apagándose sola, con el riesgo de que, si te olvidás con ella puesta, el agua termine evaporándose. Vale la pena apagarla o desenchufarla vos mismo apenas termina de hervir, en vez de confiar en que el corte automático es la única palabra final.
+
+## Comparada con otras pavas del catálogo
+
+Si tu prioridad es gastar lo menos posible en una pava de vidrio, sin selector de temperatura ni infusor, la [Kanji Home KJH-PE15004S](/producto/MLA37777896) cuesta $30.500, menos de un cuarto del precio de esta Telefunken.
+
+Si buscás corte automático real tanto para mate como para hervor, con mejor relación precio-prestaciones, la [Winco W1719](/producto/MLA51108369) tiene 4.8⭐ con 1.438 calificaciones a $32.465.
+
+Si el control de temperatura exacto es lo que más te importa, la [Daewoo Infussia](/producto/MLA50312411) suma pantalla táctil con 8 presets y un infusor de acero profesional, a $67.035, con más precisión que la perilla rotativa de esta Telefunken.
+
+Y si preferís un selector analógico pero con muchísimo más respaldo de reseñas (aunque sin infusor para té), la [Atma PE1821NAP](/producto/MLA19589519) tiene 14.738 calificaciones a $55.290.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: tomás té en hebras además de mate o café, y querés un infusor removible y un selector de temperatura en el mismo equipo, sin que te importe pagar el precio más alto del segmento de vidrio del catálogo. No es para vos si: buscás un control de temperatura con pantalla digital y presets exactos (ahí la Daewoo Infussia rinde mejor y cuesta menos), o si preferís gastar bastante menos en una pava de vidrio sin extras, como la Winco o la Kanji Home.`,
+    specs: [
+      { label: 'Marca', value: 'Telefunken' },
+      { label: 'Modelo', value: 'TF-PE800' },
+      { label: 'Color', value: 'Transparente/Negro/Plateado' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Potencia', value: '1850-2200W (la ficha de ML solo carga el tope, "2.200 W"; el rango completo lo confirma el sitio oficial de Telefunken Argentina)' },
+      { label: 'Capacidad', value: '1,8 litros' },
+      { label: 'Material', value: 'Vidrio' },
+      { label: 'Selector de temperatura', value: 'Sí, rotativo/analógico (el sitio oficial de Telefunken Argentina lo llama "digital" en la descripción pero "rotativo" en las características; una reseña real confirma que es una perilla y que cuesta encontrar el punto exacto)' },
+      { label: 'Función mate', value: 'Sí' },
+      { label: 'Filtro/infusor removible', value: 'Sí, para té en hebras, confirmado por ML y por el sitio oficial del fabricante' },
+      { label: 'Corte automático al hervir', value: 'Sí' },
+      { label: 'Sistema de protección contra ebullición', value: 'Sí (confirmado por el sitio oficial de Telefunken Argentina, no está en los atributos de ML)' },
+      { label: 'Indicador de nivel de agua', value: 'Sí' },
+      { label: 'Luz indicadora de funcionamiento', value: 'Sí' },
+      { label: 'Base giratoria', value: 'Sí, 360° con conexión central' },
+      { label: 'Tapa y manija', value: 'Frías al tacto (confirmado por el sitio oficial de Telefunken Argentina, no está en los atributos de ML)' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'abril 2025', useful: 0, text: 'Es súper vistosa, quedé muy bien con el regalo. Por ahora, solo tengo para decir que si no le movés el interruptor, sigue prendiéndose y apagándose sola. Me da miedo que salga apurada un día, me la olvide así puesta y se evapore el agua y pase algo. Me gustó mucho, mucho, y a los invitados también.' },
+      { rating: 4, country: 'Argentina', date: 'marzo 2025', useful: 0, text: 'Fue la que menos comentarios negativos tenía, muy linda y vistosa cuando enciende. Hace pocos días que la estoy usando. Un poco ruidosa en estos últimos días, pero parece recomendable. Si bien tiene selector de temperatura, es difícil buscar el punto deseado. Pero excelente y fácil de limpiar. Muy linda la luz azul mientras calienta.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Está linda, vistosa, buenos materiales. Con la tapa grande se puede meter la mano fácilmente para lavarla por dentro.' },
+      { rating: 5, country: 'Argentina', date: 'enero 2026', useful: 0, text: 'Excelente la función de mantener temperatura y el infusor central. Para evitar el sarro se pone a hervir la cáscara del limón y queda como nueva.' },
+    ],
+    faq: [
+      {
+        question: '¿Corta sola cuando hierve el agua?',
+        answer: 'Sí. Tiene corte automático al hervir y, según confirma el sitio oficial de Telefunken Argentina, además un sistema de protección contra ebullición como respaldo. De todas formas, una reseña real recomienda no confiarse del todo: avisa que si no movés el interruptor manualmente, la pava puede seguir prendiéndose y apagándose sola.',
+      },
+      {
+        question: '¿El vidrio aguanta el uso diario?',
+        answer: 'Ninguna reseña de la muestra reporta roturas o rajaduras. Al contrario, destacan buenos materiales y una tapa grande que facilita lavar por dentro. No hay testimonios de uso a varios años en la muestra disponible, así que no hay confirmación de durabilidad a largo plazo.',
+      },
+      {
+        question: '¿Cuánto tarda en hervir?',
+        answer: 'Ni ML ni el sitio oficial dan un tiempo exacto. Con 1850-2200W y 1.8 litros, el rango esperable está en línea con el resto de pavas de potencia similar del catálogo, aproximadamente 3 a 5 minutos con la jarra llena.',
+      },
+      {
+        question: '¿El selector de temperatura es digital o una perilla?',
+        answer: 'Es una perilla rotativa, no una pantalla digital. El propio sitio oficial de Telefunken en Argentina se contradice: la descripción del producto dice "selector digital de temperatura", pero la lista de características de la misma página lo llama "selector rotativo de temperatura". Una reseña real lo confirma: "si bien tiene selector de temperatura, es difícil buscar el punto deseado".',
+      },
+      {
+        question: '¿Es ruidosa?',
+        answer: 'Una reseña la describe como "un poco ruidosa en estos últimos días" después de un tiempo de uso, aunque la sigue recomendando en general.',
+      },
+      {
+        question: '¿Qué pasa si no apago el interruptor manualmente?',
+        answer: 'Una reseña real advierte que, si no le movés el interruptor, la pava puede seguir prendiéndose y apagándose sola. Recomienda apagarla o desenchufarla vos mismo apenas termina de hervir, en vez de dejarla sin supervisión.',
+      },
+      {
+        question: '¿Trae infusor para té en hebras?',
+        answer: 'Sí, un filtro/infusor removible, confirmado tanto por la ficha de ML como por el sitio oficial de Telefunken Argentina. Es uno de los pocos modelos del catálogo con esta función además de la función mate.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'La ficha de ML no especifica el plazo exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía; conviene confirmar el plazo puntual con el vendedor antes de comprar.',
+      },
+      {
+        question: '¿En qué se diferencia de la Winco W1719 o la Daewoo Infussia?',
+        answer: 'La [Winco W1719](/producto/MLA51108369) tiene corte automático diferenciado para mate y para hervor, pero sin selector de temperatura ni infusor, a $32.465. La [Daewoo Infussia](/producto/MLA50312411) suma control táctil digital con 8 presets de temperatura e infusor de acero profesional, a $67.035, con más precisión que la perilla rotativa de esta Telefunken. Esta PE800 es la única que combina selector de temperatura (aunque analógico) con infusor removible, al precio más alto del segmento.',
+      },
+    ],
+    relatedProducts: ['MLA51108369', 'MLA37777896', 'MLA50312411', 'MLA19589519'],
   },
   {
     id: 'MLA50312411',
     title: 'Pava Electrica Digital Infussia 1.5l Infusor Vidrio Daewoo Color Blanco',
+    canonicalName: 'Pava eléctrica digital Daewoo Infussia DEK-1293 1.5L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Daewoo",
     price: 67035,
     priceLastChecked: "2026-07-08",
@@ -48757,6 +52191,17 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_613588-MLA99518099576_112025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_613588-MLA99518099576_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_855960-MLA91874112307_092025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_761569-MLA91874159465_092025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_902328-MLA99014447048_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_875126-MLA99494239375_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_641298-MLA99014704940_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_872154-MLA99494199685_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_641437-MLA99014506482_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_848487-MLA99494457785_112025-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48766,11 +52211,120 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     freeShipping: false,
     rating: 4.6,
     reviewCount: 574,
-    description: 'Pava eléctrica Daewoo Infussia, 1.5L, digital, control táctil de 8 preset de temperatura, infusor profesional de acero para té en hebras, jarra de vidrio borosilicato. 4.6⭐ con 574 calificaciones.',
+    description: 'Pava eléctrica digital Daewoo Infussia DEK-1293, 1.5L, 800W, panel táctil con 8 niveles de temperatura, infusor de acero inoxidable para té en hebras y jarra de vidrio de borosilicato. 4.6⭐ con 574 calificaciones; varias reseñas confirman que tarda unos 10 minutos en hervir a fondo.',
+    pros: [
+      'Es la única pava del catálogo con panel digital táctil y varios niveles de temperatura programables, además de infusor de acero inoxidable extraíble para té en hebras o hierbas sueltas',
+      'Jarra de vidrio de borosilicato, el mismo material que se usa en laboratorios e insumos médicos según confirma el sitio oficial de Daewoo Argentina (daewooshop.com.ar), resistente a altas temperaturas',
+      'Apagado automático más protección contra hervir en seco y sobrecalentamiento, confirmado tanto por Mercado Libre como por el sitio oficial del fabricante',
+      'Base giratoria 360° inalámbrica, para ubicarla como más cómoda quede en la mesada',
+      '4.6⭐ con 574 calificaciones y stock amplio (+50 unidades disponibles al momento de este chequeo), un volumen alto y saludable para el segmento de pavas digitales del catálogo',
+    ],
+    cons: [
+      'Varias reseñas independientes confirman que tarda alrededor de 10 minutos en hervir a fondo los 1,5 litros completos: rápido para calentar agua de mate según algunas, lento incluso para eso según otra',
+      'Hay que acordarte de cancelar el programa elegido (hervir, té, 85 grados, etc.) después de usarla: si no, el equipo intenta seguir con ese programa',
+      'Una reseña señala que los presets del panel incluyen nombres genéricos como "guiso, sopa, caldo", que no coinciden con lo que uno espera de una pava pensada para té e infusiones',
+      'La ficha de ML tiene un error de tipeo en el atributo "Modelo" (dice "Infusita" en vez de "Infussia", el nombre real confirmado por el título del producto y por el sitio oficial de Daewoo Argentina)',
+      'No hay consenso total en las reseñas sobre la detección de falta de agua: el sitio oficial confirma protección contra hervir en seco, pero un comprador la puso en duda en la práctica',
+    ],
+    verdict: 'A $67.035, es la única pava del catálogo con panel digital táctil e infusor de acero inoxidable en una jarra de vidrio de borosilicato (el mismo material que se usa en laboratorios). Compra con los ojos abiertos: varias reseñas confirman que tarda cerca de 10 minutos en hervir a fondo los 1,5 litros completos, y al menos un comprador dice que ni siquiera para mate es rápida.',
+    seoTitle: 'Pava Daewoo Infussia Digital DEK-1293: Precio y Reseñas',
+    metaDescription: 'Pava eléctrica digital Daewoo Infussia DEK-1293, 1.5L, con infusor de acero inoxidable y jarra de vidrio de borosilicato. 4.6⭐ con 574 calificaciones. Análisis honesto.',
+    ogTitle: 'Pava Daewoo Infussia digital: infusor de acero y 4.6⭐ con 574 calificaciones',
+    ogDescription: 'Panel táctil con 8 niveles de temperatura, infusor de acero inoxidable y jarra de vidrio de borosilicato. 1.5L, $67.035. Mirá lo que dicen las reseñas reales antes de comprar →',
+    h1: 'Pava eléctrica digital Daewoo Infussia con infusor de acero: ¿vale la pena?',
+    articleBody: `## Qué es y qué trae
+
+Es una pava eléctrica digital de 1,5 litros, con jarra de vidrio de borosilicato (el mismo material que se usa en laboratorios e insumos médicos, según confirma el sitio oficial de Daewoo Argentina, daewooshop.com.ar) e infusor de acero inoxidable extraíble para té en hebras o hierbas sueltas. El control es un panel táctil digital con pantalla, que permite elegir entre distintos niveles de temperatura programados en vez de solo prender y apagar. Suma apagado automático, protección contra hervir en seco y sobrecalentamiento, y base giratoria 360° inalámbrica. Con 800W de potencia y 574 calificaciones a 4.6 estrellas, es la pava con más funciones digitales del catálogo.
+
+## Lo que dicen las reseñas sobre el tiempo de hervor
+
+Acá aparece la tensión más real de esta pava: cuánto tarda en calentar. Una reseña que cronometró el tiempo es contundente: "para que hierva de verdad hay que esperar 10 minutos, los cronometré por eso lo digo". Otra compradora, con la misma espera de 10 minutos, la toma con calma porque le alcanza el tiempo para hacer otra cosa mientras tanto: "es suficiente para poner a calentar y mientras te cambiás o hacés otra cosa ya está lista". Pero no hay consenso total: mientras esa misma reseña dice que para la temperatura de mate "no se espera tanto", otra calificación (4 de 5) resume en una sola frase que "es muy lenta para calentar el agua para el mate". Con eso en la mano, lo más honesto es asumir que hervir a fondo los 1,5 litros completos toma varios minutos, y que la sensación de lentitud varía según qué tan llena la uses y para qué la necesites.
+
+## El infusor de acero y los presets del panel: lo bueno y lo raro
+
+El infusor genera una duda típica de compra online: ¿es acero inoxidable de verdad? Una compradora lo resume así: "el vendedor no me sabía decir [si el acero es 304], cuando la abrí lo primero que me fijé fue eso, y sí es acero inoxidable 304". Es una confirmación de comprador, no un dato oficial del fabricante (ni ML ni el sitio de Daewoo especifican el grado exacto del acero), pero es la evidencia más concreta disponible.
+
+El panel digital, en cambio, tiene un costado inesperado. Un comprador lo cuenta con humor: "el regulador de temperatura dice guiso, sopa, caldo, ahí le sacaron todo lo bonito que tenía la pava". Los presets no llevan nombres pensados para té o infusiones, sino etiquetas genéricas que parecen reutilizadas de otro electrodoméstico de la misma marca. No afecta que la pava caliente al grado que corresponda, pero sí le resta algo de la experiencia "premium" que promete el panel táctil. Otra reseña suma un detalle práctico: hay que acordarte de cancelar el programa elegido después de usar el agua, porque si no la pava intenta seguir manteniendo esa temperatura.
+
+## Comparada con otras pavas del catálogo
+
+Si el panel digital y el infusor no son prioridad y buscás algo más simple, la [Kanji Home KJH-PE15004S](/producto/MLA37777896) cuesta $30.500, menos de la mitad, aunque sin control de temperatura ni infusor.
+
+Si preferís un corte automático diferenciado específicamente para mate, la [Winco W1719](/producto/MLA51108369) lo tiene a $32.465, con jarra de vidrio también, aunque sin pantalla digital ni infusor removible.
+
+Si buscás selector de temperatura físico e infusor, pero no te hace falta panel digital, la [Telefunken PE800](/producto/MLA24556041) suma esas funciones a $125.549, casi el doble de esta Daewoo.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: querés la pava con más control digital del catálogo, con presets de temperatura e infusor de acero inoxidable para té en hebras, y no te molesta esperar unos minutos más para que hierva a fondo. No es para vos si: necesitás que el agua esté lista lo más rápido posible, te importa que los nombres de los programas del panel estén pensados específicamente para té (acá dicen "guiso, sopa, caldo"), o preferís una pava más simple y barata como la Kanji Home KJH-PE15004S.`,
+    specs: [
+      { label: 'Marca', value: 'Daewoo' },
+      { label: 'Modelo', value: 'Infussia DEK-1293 (la ficha de ML carga el atributo "Modelo" como "Infusita", un error de tipeo; el nombre real, confirmado por el título del producto y por el sitio oficial de Daewoo Argentina, es "Infussia")' },
+      { label: 'Color', value: 'Blanco' },
+      { label: 'Capacidad', value: '1,5 litros' },
+      { label: 'Potencia', value: '800W (según la descripción original de la publicación, confirmado por el sitio oficial de Daewoo Argentina)' },
+      { label: 'Material de la jarra', value: 'Vidrio de borosilicato, resistente a altas temperaturas (el mismo material que se usa en laboratorios e insumos médicos, según el sitio oficial de Daewoo Argentina); detalles en plástico' },
+      { label: 'Infusor', value: 'Sí, de acero inoxidable, extraíble, para té en hebras o hierbas sueltas' },
+      { label: 'Panel de control', value: 'Digital táctil, con pantalla y sensor de temperatura' },
+      { label: 'Niveles de temperatura programables', value: '8 presets, según la ficha de la publicación' },
+      { label: 'Apagado automático', value: 'Sí' },
+      { label: 'Protección contra hervir en seco y sobrecalentamiento', value: 'Sí, según Mercado Libre y el sitio oficial del fabricante (al menos una reseña duda de esto en la práctica)' },
+      { label: 'Base giratoria', value: 'Sí, 360°, inalámbrica' },
+      { label: 'Indicador de nivel de agua', value: 'Sí, según la ficha de ML' },
+      { label: 'Luz indicadora de funcionamiento', value: 'Sí' },
+      { label: 'Filtro', value: 'No (usa infusor en vez de filtro)' },
+      { label: 'Voltaje', value: '220V (estándar argentino; no viene explícito en la ficha de ML)' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'febrero 2026', useful: 0, text: 'Es hermosa, estaba con dudas porque vi comentarios sobre el tiempo de hervor: tarda 10 minutos, pero es suficiente para poner a calentar y mientras te cambiás o hacés otra cosa ya está lista. Otra duda que tenía era si el acero es 304, cosa que el vendedor no sabía decirme. Cuando la abrí, lo primero que miré fue eso, y sí es acero inoxidable 304. Con una semana de uso, todo perfecto.' },
+      { rating: 5, country: 'Argentina', date: 'septiembre 2025', useful: 0, text: 'Como leí en algunos comentarios, uno de los puntos más flojos es la extrema lentitud para calentar el agua. Si es para mate no se espera tanto, pero para que hierva de verdad hay que esperar 10 minutos, los cronometré. Otro punto en contra: una vez que usaste el agua, tenés que acordarte de cancelar el programa (hervir, té, 85 grados, etc.), porque si no intenta seguir con el programa. Para mí no tiene detector de falta de líquido, y eso no me gusta.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Una opción muy nueva. Como pava eléctrica, excelente. Pero tiene un detalle: el regulador de temperatura dice guiso, sopa, caldo. Ahí le sacaron todo lo bonito que tenía la pava. Una pena.' },
+      { rating: 4, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Es muy lenta para calentar el agua para el mate.' },
+    ],
+    faq: [
+      {
+        question: '¿Cuánto tarda en hervir?',
+        answer: 'Varias reseñas coinciden en unos 10 minutos para hervir a fondo los 1,5 litros completos (una compradora lo cronometró explícitamente). Para la temperatura de mate, algunas dicen que alcanza el tiempo justo para hacer otra cosa mientras tanto; otra reseña, en cambio, la califica de "muy lenta" incluso para eso. No hay consenso total en la muestra.',
+      },
+      {
+        question: '¿El infusor es de acero inoxidable de verdad?',
+        answer: 'Una compradora lo verificó al abrir la caja y confirma que es acero inoxidable 304, aunque el vendedor no se lo supo confirmar antes de la compra. Ni Mercado Libre ni el sitio oficial de Daewoo Argentina especifican el grado exacto del acero en su ficha técnica, así que esta es la evidencia más concreta disponible, no un dato oficial del fabricante.',
+      },
+      {
+        question: '¿Hay que cancelar el programa después de usarla?',
+        answer: 'Sí, según una reseña real: si elegiste un programa (hervir, té, 85 grados, etc.) y no lo cancelás manualmente después de usar el agua, el equipo intenta seguir manteniendo esa temperatura.',
+      },
+      {
+        question: '¿Qué significan los nombres "guiso, sopa, caldo" en el panel?',
+        answer: 'Son los nombres de algunos de los presets de temperatura del panel táctil, según reporta una reseña con sorpresa. Parecen etiquetas genéricas reutilizadas de otro electrodoméstico de la marca, no nombres pensados específicamente para té o infusiones. No afecta que la pava caliente al grado correspondiente, pero sí resta algo de la experiencia esperada del panel digital.',
+      },
+      {
+        question: '¿Tiene protección contra hervir en seco?',
+        answer: 'El sitio oficial de Daewoo Argentina confirma "sistema contra hervir en seco y sobrecalentamiento" como una de sus funciones. Sin embargo, al menos una reseña dice no haber notado un detector de falta de líquido en la práctica, así que igual conviene no dejarla hervir sin agua por las dudas.',
+      },
+      {
+        question: '¿Cuántas tazas rinde con 1,5 litros?',
+        answer: 'Aproximadamente 5 a 6 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'La ficha de ML no especifica el plazo exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía. Daewoo Argentina (daewooshop.com.ar) es importador oficial de la marca y vende repuestos originales para este modelo, lo que da respaldo extra post-venta.',
+      },
+      {
+        question: '¿En qué se diferencia de la Winco W1719, la Telefunken PE800 o la Kanji Home KJH-PE15004S?',
+        answer: 'La [Kanji Home KJH-PE15004S](/producto/MLA37777896) cuesta $30.500, menos de la mitad, pero sin control de temperatura ni infusor. La [Winco W1719](/producto/MLA51108369) suma corte diferenciado para mate a $32.465, sin pantalla digital ni infusor removible. La [Telefunken PE800](/producto/MLA24556041) tiene selector de temperatura físico e infusor a $125.549, casi el doble. Esta Daewoo es la única con panel digital táctil, presets de temperatura e infusor de acero en el mismo equipo.',
+      },
+    ],
+    relatedProducts: ['MLA51108369', 'MLA24556041', 'MLA37777896', 'MLA20027329'],
   },
   {
     id: 'MLA19788587',
     title: 'Ultracomb Pe4910 Pava Electrica Con Infusor De Te Func. Mate',
+    canonicalName: 'Pava eléctrica Ultracomb PE-4910 1.8L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Ultracomb",
     price: 199999,
     priceLastChecked: "2026-07-08",
@@ -48778,6 +52332,10 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_851110-MLA99511067872_112025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_851110-MLA99511067872_112025-O.webp',
+      'https://http2.mlstatic.com/D_NQ_NP_768043-MLA79474081917_092024-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48786,12 +52344,128 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     condition: 'new',
     freeShipping: false,
     rating: 4.6,
-    reviewCount: 1716,
-    description: 'Pava eléctrica de vidrio Ultracomb PE-4910, 1.8L, 2200W, infusor de té removible, función mate, base giratoria 360° con luz LED azul. 4.6⭐ con 1.716 calificaciones.',
+    reviewCount: 1717,
+    description: 'Pava eléctrica de vidrio Ultracomb PE-4910, 1.8L, 2200W, infusor removible y función mate que recalienta el agua sola si se enfría. 4.6⭐ con 1.717 calificaciones; varias reseñas confirman que la base se mancha y oxida con el uso.',
+    pros: [
+      'La función mate hace más de lo que dice la ficha de ML: un comprador confirma que recalienta el agua sola si se enfría, así que se la puede usar como pava cebadora',
+      'El infusor removible funciona bien para infusiones en hoja suelta y estevia, según una reseña de 5 estrellas que lo usa así habitualmente',
+      'Base giratoria 360° con luz LED azul y selector para elegir entre hervir a fondo o calentar a temperatura de mate, confirmado por el sitio oficial de Ultracomb (ultracomb.com.ar)',
+      '4.6⭐ con 1.717 calificaciones, un volumen alto para el segmento de pavas con infusor del catálogo',
+      'Calienta rápido según más de una reseña, aunque hace bastante ruido mientras hierve',
+    ],
+    cons: [
+      'La contra que más se repite en las reseñas: la base "inoxidable" se mancha y oxida con el uso. Una compradora lo detalla a fondo ("se llenó de óxido al toque") y otras dos lo confirman de forma independiente y más breve',
+      'El infusor "se nota más de lata" según la misma reseña detallada, que recomienda usarlo solo cuando hace falta para que no se oxide también',
+      'El agua queda con un poco de gusto a plástico porque el pico vertedor y la tapa son de ese material, según reporta una reseña',
+      'No tiene termómetro, a diferencia de la Ultracomb PE-4915 (misma marca) que sí lo incluye',
+      'Al revisar el sitio oficial de Ultracomb (ultracomb.com.ar) para verificar specs, la PE-4910 ya no aparece entre los modelos activos: el catálogo actual lista otras pavas de la marca (PE-4911, PE-4916, PE-4907, PE-4902, PE-4909, PE-4920) pero no esta, lo que sugiere que es un modelo de una generación anterior o descontinuado, aunque sigue a la venta en Mercado Libre',
+      'El relevamiento de este producto no pudo confirmar stock disponible al momento del chequeo: conviene verificar disponibilidad real antes de comprar',
+    ],
+    verdict: 'A $199.999, es una de las pavas con más calificaciones del catálogo (4.6⭐ en 1.717 reseñas) y la función mate cumple de verdad: recalienta el agua sola si se enfría, como una pava cebadora. Compra con los ojos abiertos: varias reseñas independientes confirman que la base "inoxidable" se mancha y oxida con el uso, y ya no figura entre los modelos activos del sitio oficial de Ultracomb.',
+    seoTitle: 'Ultracomb PE-4910: Pava con Infusor y Función Mate',
+    metaDescription: 'Pava eléctrica Ultracomb PE-4910, 1.8L de vidrio, infusor removible y función mate que recalienta el agua sola. 4.6⭐ con 1.717 calificaciones. Análisis honesto con reseñas reales.',
+    ogTitle: 'Pava Ultracomb PE-4910: función mate real, 4.6⭐ con 1.717 calificaciones',
+    ogDescription: 'Infusor removible para té en hoja, control de temperatura y base giratoria con luz LED. 1.8L, $199.999. Pero la base se oxida: mirá las reseñas reales antes de comprar →',
+    h1: 'Pava eléctrica Ultracomb PE-4910 con infusor y función mate: ¿vale la pena?',
+    articleBody: `## Qué es y qué trae
+
+Es una pava eléctrica de vidrio con infusor removible y función mate, 1,8 litros de capacidad y 2.200W de potencia, según confirman tanto Mercado Libre como el sitio oficial de Ultracomb (ultracomb.com.ar). Tiene un selector para elegir entre hervir a fondo (café, sopas instantáneas) o calentar a la temperatura de cebado para mate, más control de temperatura, corte automático al terminar y base giratoria 360° con luz LED azul, según describe el fabricante. Con 4.6 estrellas en 1.717 calificaciones, es una de las pavas con más volumen de reseñas del catálogo.
+
+## El infusor y la función mate: ¿sirven de verdad?
+
+Sí, y hay casos de uso concretos en las reseñas. Una compradora de 5 estrellas lo resume así: "puedo hacer infusiones en hoja, poner estevia en hoja, eso sí, calienta solo en opción mate, es suficiente, no hace falta que hierva el agua". Sobre la función mate hay un detalle que no aparece en la ficha de ML: otro comprador cuenta que "la función mate se vuelve a calentar el agua automáticamente si se enfría, así que se lo podría usar de pava cebadora", algo útil para una ronda de mate larga sin tener que prender y apagar el equipo cada rato.
+
+## El problema real: la base se mancha y se oxida
+
+Acá aparece la contra que más se repite en la muestra, y no es un caso aislado: al menos 3 de las 5 reseñas mencionan manchas o decoloración en la base. La más detallada dice: "la calidad del acero 'inoxidable' de la base donde calienta no es buena, ya que se llenó de óxido al toque... requeriría secarla siempre con algo luego de su uso para alargar su vida útil, porque si no se va a oxidar toda". Otras dos lo confirman de forma más breve: "en la parte de abajo le agarra un color raro después de un tiempo de uso" y "se mancha la pava abajo". La misma reseña detallada también advierte sobre el infusor: "se nota más de lata, así que conviene usarlo solo cuando se lo requiera para que no se termine oxidando también". Y hay otro detalle que ninguna ficha menciona: el agua queda con un poco de gusto a plástico porque el pico vertedor y la tapa son de ese material.
+
+## Disponibilidad: ya no está en el catálogo oficial de Ultracomb
+
+Al revisar el sitio oficial del fabricante (ultracomb.com.ar) para verificar specs, la PE-4910 no aparece entre los modelos activos de pavas eléctricas: el catálogo actual lista la PE-4911, la PE-4916, la PE-4907, la PE-4902, la PE-4909 y las PE-4920 (cobre y roja), pero no esta. Eso sugiere que es un modelo de una generación anterior o directamente descontinuado por Ultracomb, aunque sigue a la venta en Mercado Libre y otros retailers. A eso se suma que el relevamiento de este producto no pudo confirmar stock disponible al momento del chequeo, así que conviene verificar disponibilidad real antes de comprar.
+
+## Comparada con otras pavas del catálogo
+
+Si buscás una pava de la misma marca pero con termómetro incorporado, la [Ultracomb PE-4915](/producto/MLA46312287) lo suma y cuesta $119.395, bastante menos que esta PE-4910, aunque no tiene infusor.
+
+Si preferís panel digital táctil con presets de temperatura, la [Daewoo Infussia](/producto/MLA50312411) suma esa función junto con infusor de acero inoxidable, a $67.035.
+
+Si el corte diferenciado para mate es lo que buscás sin gastar tanto, la [Winco W1719](/producto/MLA51108369) lo tiene a $32.465, aunque sin infusor removible.
+
+Y si preferís selector de temperatura físico e infusor sin necesidad de panel digital, la [Telefunken PE800](/producto/MLA24556041) cuesta $125.549, en un rango de precio similar al de esta Ultracomb.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: cebás mate seguido y te sirve que el agua se recaliente sola cuando se enfría, o si preparás infusiones en hoja suelta o estevia y valorás el infusor removible. No es para vos si: te preocupa la durabilidad de la base (varias reseñas confirman óxido y manchas con el uso) o preferís comprar un modelo que el fabricante siga vendiendo activamente en su sitio oficial, como la Ultracomb PE-4915 o la Daewoo Infussia.`,
+    specs: [
+      { label: 'Marca', value: 'Ultracomb' },
+      { label: 'Modelo', value: 'PE-4910' },
+      { label: 'Color', value: 'Rojo' },
+      { label: 'Capacidad', value: '1,8 litros' },
+      { label: 'Potencia', value: '2.200W' },
+      { label: 'Material de la jarra', value: 'Vidrio; pico vertedor y tapa de plástico (una reseña reporta un leve gusto a plástico en el agua por estas piezas)' },
+      { label: 'Infusor', value: 'Sí, removible, para té en hoja o infusiones sueltas (confirmado por reseñas de uso real con hojas y estevia)' },
+      { label: 'Función mate', value: 'Sí; según una reseña, recalienta el agua automáticamente si se enfría, lo que permite usarla como pava cebadora' },
+      { label: 'Control de temperatura', value: 'Sí, selector para hervir a fondo o calentar a temperatura de mate, según Mercado Libre y el sitio oficial de Ultracomb' },
+      { label: 'Corte automático', value: 'Sí' },
+      { label: 'Termómetro', value: 'No' },
+      { label: 'Base giratoria', value: 'Sí, 360°, con luz LED azul, según el sitio oficial de Ultracomb' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+      { label: 'Disponibilidad en el sitio oficial de Ultracomb', value: 'No figura entre los modelos activos del catálogo actual (ultracomb.com.ar) al momento de este chequeo, lo que sugiere un modelo de generación anterior o descontinuado; sigue a la venta en Mercado Libre' },
+    ],
+    customerReviews: [
+      { rating: 4, country: 'Argentina', date: '2024', useful: 0, text: 'Es hermosa estéticamente, pero la calidad del acero "inoxidable" de la base donde calienta no es buena, se llenó de óxido al toque (puliendo con una esponja del lado verde más abrasivo seguro sale). Requeriría secarla siempre luego de su uso para alargar su vida útil, porque si no se va a oxidar toda. El infusor se nota más de lata, así que trato de usarlo solo cuando lo necesito. El agua queda un poquito con gusto a plástico porque el pico vertedor y la tapa son de plástico. Lo bueno: la función mate se vuelve a calentar el agua automáticamente si se enfría, así que se la puede usar de pava cebadora.' },
+      { rating: 5, country: 'Argentina', date: '2024', useful: 0, text: 'Hermosa, puedo hacer infusiones en hoja, poner estevia en hoja. Eso sí, calienta solo en opción mate, es suficiente, no hace falta que hierva el agua. Y esa luz led en la base más linda todavía. Calienta rápido, lo único, hace mucho ruido, pero como la saco rápido no molesta. Una de las mejores compras que hice.' },
+      { rating: 4, country: 'Argentina', date: '2024', useful: 0, text: 'Muy buena pava, hermosa, lo único para criticar es que en la parte de abajo le agarra un color raro después de un tiempo de uso.' },
+      { rating: 4, country: 'Argentina', date: '2024', useful: 0, text: 'Lo único malo es que se mancha la pava abajo, y para infusiones tenés que poner menos agua porque rebalsa al hervir.' },
+    ],
+    faq: [
+      {
+        question: '¿El infusor sirve para cebar mate o solo para té?',
+        answer: 'Sirve para las dos cosas. Una reseña real confirma que lo usa para "infusiones en hoja" y estevia suelta, y que para la temperatura de mate no hace falta que el agua llegue a hervir a fondo.',
+      },
+      {
+        question: '¿Corta sola al hervir o hay que estar pendiente?',
+        answer: 'Corta sola. La ficha de Mercado Libre confirma corte automático, y además la función mate tiene un extra que ninguna ficha menciona: según una reseña, si el agua se enfría, la pava la vuelve a calentar automáticamente, por lo que se la puede usar como pava cebadora.',
+      },
+      {
+        question: '¿Es cierto que la base se oxida o mancha?',
+        answer: 'Sí. Al menos 3 de las 5 reseñas de la muestra lo confirman de forma independiente, desde manchas leves ("un color raro después de un tiempo de uso") hasta óxido visible. Una compradora recomienda secar la base siempre después de usarla para alargar su vida útil.',
+      },
+      {
+        question: '¿El agua queda con gusto a plástico?',
+        answer: 'Una reseña lo reporta: dice que queda "un poquito con gusto a plástico" porque el pico vertedor y la tapa son de ese material. No es un dato que confirme la ficha de ML ni el fabricante, pero vale tenerlo en cuenta.',
+      },
+      {
+        question: '¿Por qué no aparece en el sitio oficial de Ultracomb?',
+        answer: 'Al revisar ultracomb.com.ar para verificar las specs de esta ficha, la PE-4910 no figuraba entre los modelos activos del catálogo (sí aparecen la PE-4911, PE-4916, PE-4907, PE-4902, PE-4909 y las PE-4920). Esto sugiere que es un modelo de una generación anterior o descontinuado por el fabricante, aunque sigue a la venta en Mercado Libre y otros retailers. También por eso conviene confirmar el stock disponible antes de comprar.',
+      },
+      {
+        question: '¿Cuánto tarda en hervir?',
+        answer: 'Ninguna reseña de la muestra da un tiempo exacto cronometrado. Más de una coincide en que "calienta rápido", aunque hace bastante ruido mientras hierve.',
+      },
+      {
+        question: '¿Cuántas tazas rinde con 1,8 litros?',
+        answer: 'Aproximadamente 6 a 7 tazas estándar por ciclo de hervor.',
+      },
+      {
+        question: '¿Qué garantía tiene?',
+        answer: 'La ficha de ML no especifica el plazo exacto de garantía de este modelo. Como mínimo legal en Argentina, los electrodomésticos nuevos tienen 6 meses de garantía.',
+      },
+      {
+        question: '¿En qué se diferencia de la PE-4915, la Daewoo Infussia, la Telefunken PE800 o la Winco W1719?',
+        answer: 'La [Ultracomb PE-4915](/producto/MLA46312287), de la misma marca, suma termómetro y cuesta $119.395, pero no tiene infusor. La [Daewoo Infussia](/producto/MLA50312411) suma panel digital táctil e infusor de acero inoxidable a $67.035. La [Winco W1719](/producto/MLA51108369) tiene corte diferenciado para mate a $32.465, sin infusor. La [Telefunken PE800](/producto/MLA24556041) suma selector físico de temperatura e infusor a $125.549. Esta PE-4910 es la única de las cinco con función mate que recalienta el agua sola si se enfría, según confirma una reseña.',
+      },
+    ],
+    relatedProducts: ['MLA46312287', 'MLA50312411', 'MLA24556041', 'MLA51108369'],
   },
   {
     id: 'MLA46312287',
     title: 'Pava Eléctrica Ultracomb Pe-4915 1.8l Negra Negro',
+    canonicalName: 'Pava eléctrica Ultracomb PE-4915 1.8L',
+    reviewsSampledAt: '2026-07-09',
     brand: "Ultracomb",
     price: 119395,
     priceLastChecked: "2026-07-08",
@@ -48799,6 +52473,9 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     priceStatus: "fresh",
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_Q_NP_982447-MLA100085054753_122025-F.webp',
+    images: [
+      'https://http2.mlstatic.com/D_NQ_NP_982447-MLA100085054753_122025-O.webp',
+    ],
     category: 'Cocina',
     categorySlug: 'cocina',
     visibility: 'normal',
@@ -48807,8 +52484,128 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     condition: 'new',
     freeShipping: false,
     rating: 4.8,
-    reviewCount: 1520,
-    description: 'Pava eléctrica de vidrio Ultracomb PE-4915, 1.8L, control de temperatura con termómetro, corte automático, base giratoria 360°. Sin infusor (distinta de la PE-4910, que sí tiene). 4.8⭐ con 1.520 calificaciones.',
+    reviewCount: 1549,
+    description: 'Pava eléctrica de vidrio Ultracomb PE-4915, 1.8L, con infusor removible para té y mate, selector para hervir a fondo o calentar a 85° y corte automático. 4.8⭐ con 1.549 calificaciones; no tiene termómetro digital, pese a lo que sugiere el nombre de ese atributo en la ficha.',
+    seoTitle: 'Ultracomb PE-4915: Pava con Infusor, ¿Vale la Pena?',
+    metaDescription: 'Pava eléctrica Ultracomb PE-4915, 1.8L de vidrio con infusor removible y selector para mate a 85°. 4.8⭐ con 1.549 calificaciones. Análisis honesto: sin termómetro digital y ya no está en el catálogo oficial de Ultracomb.',
+    ogTitle: 'Pava Ultracomb PE-4915: infusor real, 4.8⭐ con 1.549 calificaciones',
+    ogDescription: 'Vidrio templado 1.8L, selector para hervir o calentar a 85° para mate, base giratoria con luz LED. $119.395. Pero ojo: sin termómetro digital y descontinuada por el fabricante →',
+    h1: 'Pava eléctrica Ultracomb PE-4915 con infusor: análisis honesto de vidrio y mate',
+    verdict: 'A $119.395, la PE-4915 es de las pavas mejor calificadas de todo el catálogo (4.8⭐ en 1.549 reseñas) y el infusor removible funciona de verdad para té, mate y hasta café molido, según confirma una reseña real. Compra con los ojos abiertos: el "control de temperatura" de la ficha es un selector de dos posiciones, no un termómetro digital, y el sitio oficial de Ultracomb ya no la lista entre sus modelos activos.',
+    pros: [
+      '4.8⭐ con 1.549 calificaciones, de las mejor puntuadas de todo el catálogo de pavas eléctricas de este sitio',
+      'El infusor removible sirve para más que mate: una reseña real confirma que también funciona para preparar café con molido ("le pones café al infusor y tenés una cafetera")',
+      'Selector para elegir entre hervir a fondo o calentar a 85° para mate, sin necesidad de pantalla digital',
+      'Tapa y mango fríos al tacto: una reseña lo destaca en comparación directa con su pava anterior, que sí quemaba',
+      'Jarra de vidrio templado desmontable con base giratoria 360°, luz LED e indicador de nivel de agua',
+      'Doble traba de seguridad en la tapa y sistema de corte ante ausencia de agua, según la ficha técnica',
+    ],
+    cons: [
+      'No tiene termómetro digital pese al atributo "control de temperatura" de la ficha: es un selector de dos posiciones (hervir o 85° para mate), no una lectura numérica en pantalla',
+      'El metalizado del mango "se ve muy ordinario" según una reseña de 4 estrellas, aunque no reporta problemas funcionales',
+      'Con aguas duras deposita sarro en el fondo rápido: la misma reseña, con apenas 1 mes de uso, ya lo advierte',
+      'Una reseña real avisa que si no la apagás manualmente, sigue manteniendo el agua caliente "ad eternum", así que no conviene dejarla desatendida',
+      'Al revisar el sitio oficial de Ultracomb (ultracomb.com.ar), la PE-4915 no aparece entre los 7 modelos activos del catálogo actual (PE-4911, PE-4920C, PE-4920R, PE-4907, PE-4902, PE-4909, TE-4000R), lo que sugiere que está descontinuada, aunque sigue a la venta en Mercado Libre con stock disponible',
+      'La publicación de Mercado Libre trae una sola imagen del producto, menos que otras pavas de este catálogo',
+    ],
+    articleBody: `## Qué es y qué trae
+
+Es una pava eléctrica de jarra de vidrio templado desmontable, 1,8 litros de capacidad y 2.200W de potencia, con infusor removible para preparar té, mate u otras hierbas directo en la jarra. Tiene un selector para elegir entre hervir el agua a fondo (café, sopas instantáneas) o calentarla hasta 85° para mate, corte automático, sistema de seguridad ante ausencia de agua, doble traba en la tapa y base giratoria 360° de acero inoxidable con luz LED, según la descripción del vendedor en Mercado Libre. Con 4.8 estrellas en 1.549 calificaciones, es una de las pavas mejor puntuadas de todo el catálogo.
+
+## El infusor: funciona para más que mate
+
+A diferencia de lo que sugiere el título del producto (que no menciona el infusor), la descripción completa y varias reseñas confirman que sí lo trae, removible, para té, mate y otras hierbas. Y hay un uso extra que ninguna ficha menciona: una compradora de 5 estrellas cuenta "le pones café al infusor y tenés una cafetera", es decir, sirve también para café molido en lugar de filtro de papel. Otra reseña de 5 estrellas resume el conjunto como "completísima", destacando la jarra de vidrio ("es higiénica por el vidrio") y la luz LED de la base.
+
+## El "control de temperatura" no es un termómetro digital
+
+Ojo con esta confusión, porque la ficha técnica de Mercado Libre puede llevar a pensar lo contrario: el atributo "con control de temperatura: sí" no significa que haya una pantalla con el número de grados. Es un selector de dos posiciones, hervir a fondo o calentar a 85° para mate, sin lectura digital ni termómetro incorporado (la propia ficha lo confirma: "con termómetro: no"). Para quien busque de verdad un panel con presets numéricos, [la Daewoo Infussia](/producto/MLA50312411) tiene pantalla táctil con 8 niveles de temperatura.
+
+## La contra real
+
+Una reseña de 4 estrellas, con apenas 1 mes de uso, reporta dos problemas concretos: "el metalizado del asa de la pava se ve muy ordinario" (un detalle estético, no funcional) y que con aguas duras "se deposita sarro en el fondo", así que conviene usar agua filtrada o descalcificar seguido si el agua de tu zona es dura. Otra reseña, más larga, avisa algo que vale tomarse en serio: "hay que tener la precaución de apagarla siempre ya que sino sigue manteniendo el agua caliente ad eternum con el peligro que eso conlleva". Es decir, el corte automático corta el hervor, pero no hay que dejarla enchufada y desatendida dando por hecho que se apaga sola del todo.
+
+## Disponibilidad: tampoco está en el catálogo oficial de Ultracomb
+
+Al revisar el sitio oficial del fabricante (ultracomb.com.ar) para verificar specs, la PE-4915 no aparece entre los modelos activos de pavas eléctricas: el catálogo actual lista 7 productos (PE-4911, PE-4920 color cobre, PE-4920 color rojo, PE-4907, PE-4902, PE-4909 y el termo eléctrico TE-4000R), pero no esta. Es el mismo hallazgo que ya se documentó en la ficha de [la Ultracomb PE-4910](/producto/MLA19788587), la otra pava de esta marca en el catálogo: ambas parecen modelos de una generación anterior, discontinuados por el fabricante pero todavía a la venta en Mercado Libre. En este caso sí hay stock confirmado al momento del relevamiento.
+
+## Cómo se compara con las otras pavas del catálogo
+
+Frente a [la Ultracomb PE-4910](/producto/MLA19788587), de la misma marca: son muy parecidas en specs (vidrio, 1,8L, infusor, selector de temperatura, corte automático), la diferencia principal es el color (negro acá, rojo en la PE-4910), el precio (bastante menor en esta PE-4915) y que esta tiene mejor calificación (4.8⭐ contra 4.6⭐). Ninguna de las dos tiene termómetro digital real, así que no elijas una por sobre la otra pensando que alguna lo trae.
+
+Si preferís un panel digital táctil con presets de temperatura, [la Daewoo Infussia](/producto/MLA50312411) lo suma junto con infusor de acero inoxidable, a $67.035.
+
+Y si buscás selector físico de temperatura combinado con infusor pero no te hace falta panel digital, [la Telefunken PE800](/producto/MLA24556041) cuesta $125.549, en un rango de precio similar al de esta Ultracomb.
+
+Para el panorama completo de pavas eléctricas está la [guía de pavas eléctricas](/guias/pava-electrica).
+
+## ¿Para quién es esta pava (y para quién no)?
+
+Es para vos si: querés una pava con infusor de verdad (para té, mate o hasta café molido) de una de las marcas con más calificaciones del catálogo, y no te importa que el control de temperatura sea un selector simple y no un termómetro digital. No es para vos si: buscás una pantalla con el número exacto de grados (para eso, la Daewoo Infussia rinde mejor) o preferís comprar un modelo que el fabricante siga vendiendo activamente en su sitio oficial, ya que tanto esta PE-4915 como la PE-4910 quedaron fuera del catálogo actual de Ultracomb.`,
+    specs: [
+      { label: 'Marca', value: 'Ultracomb' },
+      { label: 'Modelo', value: 'PE-4915' },
+      { label: 'Color', value: 'Negro' },
+      { label: 'Voltaje', value: '220V' },
+      { label: 'Capacidad', value: '1,8 litros' },
+      { label: 'Potencia', value: '2.200W (según la descripción del vendedor en Mercado Libre)' },
+      { label: 'Material de la jarra', value: 'Vidrio templado, desmontable' },
+      { label: 'Infusor', value: 'Sí, removible, para té, mate u otras hierbas; una reseña confirma que también sirve para café molido' },
+      { label: 'Control de temperatura', value: 'Sí, selector de dos posiciones: hervir a fondo o calentar a 85° para mate' },
+      { label: 'Termómetro', value: 'No (confirmado por la propia ficha técnica de Mercado Libre)' },
+      { label: 'Corte automático', value: 'Sí' },
+      { label: 'Sistema de seguridad ante ausencia de agua', value: 'Sí, según la descripción del vendedor' },
+      { label: 'Base giratoria', value: 'Sí, 360° con conexión central, acero inoxidable con iluminación LED' },
+      { label: 'Traba de tapa', value: 'Doble traba para la apertura' },
+      { label: 'Tapa y asa', value: 'Frías al tacto, según la descripción y una reseña real' },
+      { label: 'Alojamiento para el cable', value: 'Sí' },
+      { label: 'Garantía', value: 'No especificada en la ficha de ML; mínimo legal en Argentina de 6 meses' },
+      { label: 'Disponibilidad en el sitio oficial de Ultracomb', value: 'No figura entre los 7 modelos activos del catálogo actual (ultracomb.com.ar) al momento de este chequeo, lo que sugiere un modelo de generación anterior o descontinuado; sigue a la venta en Mercado Libre con stock disponible' },
+    ],
+    customerReviews: [
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Excelente producto por dónde la mires, es bella, es higiénica por el vidrio, tiene luz, corte de mate y para infusiones, completísima, estoy chochaza, no dejo de mirarla con amor.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Muy buena. Le pones café al infusor y tenés una cafetera.' },
+      { rating: 4, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Hasta ahora (1 mes de comprado) funciona perfecto. Una sola vez hirvió y se derramó. El metalizado del asa de la pava se ve muy ordinario. Pero todo lo demás muy bueno. No usen aguas duras porque se deposita sarro en el fondo. Le doy 9/10.' },
+      { rating: 5, country: 'Argentina', date: 'julio 2025', useful: 0, text: 'Excelente producto y calidad. Es estéticamente muy atractivo y calienta a la perfección. No te quemas porque no se sobre calienta el mango y la tapa. Me pasaba con mi antigua pava. Super recomendado.' },
+    ],
+    faq: [
+      {
+        question: '¿La PE-4915 tiene termómetro digital?',
+        answer: 'No. La propia ficha técnica de Mercado Libre lo confirma ("con termómetro: no"). Lo que sí tiene es un selector de dos posiciones para elegir entre hervir a fondo o calentar a 85° para mate, que en la ficha figura como "control de temperatura", pero no es una pantalla con el número de grados.',
+      },
+      {
+        question: '¿Corta sola al hervir o hay que estar pendiente?',
+        answer: 'Tiene corte automático, pero una reseña real avisa que si no la apagás manualmente, "sigue manteniendo el agua caliente ad eternum", así que no conviene dejarla enchufada y desatendida dando por hecho que se apaga sola del todo.',
+      },
+      {
+        question: '¿El infusor sirve para café o solo para mate?',
+        answer: 'Sirve para las dos cosas. Una reseña real lo confirma: "le pones café al infusor y tenés una cafetera", además de funcionar para té en hebras, yerba y otras hierbas.',
+      },
+      {
+        question: '¿Es resistente con el uso diario?',
+        answer: 'Las reseñas disponibles son de compradores recientes (con hasta 1 mes de uso al momento de escribir), así que no hay datos de durabilidad a largo plazo. Un comprador de 4 estrellas sí avisa que el metalizado del mango "se ve muy ordinario" desde el principio, aunque sin fallas funcionales.',
+      },
+      {
+        question: '¿Hay que usar agua filtrada?',
+        answer: 'Conviene. Una reseña con 1 mes de uso confirma que con aguas duras "se deposita sarro en el fondo" rápido, así que si el agua de tu zona es dura, vas a necesitar descalcificarla seguido.',
+      },
+      {
+        question: '¿Cuánto tarda en hervir?',
+        answer: 'Ninguna reseña de la muestra da un tiempo exacto cronometrado para esta pava en particular.',
+      },
+      {
+        question: '¿Sigue vendiéndose en el sitio oficial de Ultracomb?',
+        answer: 'No aparece entre los modelos activos. Al revisar ultracomb.com.ar, el catálogo actual de pavas eléctricas lista 7 productos (PE-4911, PE-4920 cobre, PE-4920 rojo, PE-4907, PE-4902, PE-4909 y el termo TE-4000R), pero no esta. Sigue a la venta en Mercado Libre con stock disponible.',
+      },
+      {
+        question: '¿En qué se diferencia de la Ultracomb PE-4910?',
+        answer: 'Son muy parecidas: ambas de vidrio, 1,8L, con infusor removible y selector de temperatura. La diferencia está en el color (negro acá, rojo en la PE-4910), el precio (bastante menor en esta PE-4915) y la calificación (4.8⭐ contra 4.6⭐ de la PE-4910). Ninguna de las dos tiene termómetro digital real, pese a que alguna ficha del sitio lo haya sugerido antes.',
+      },
+      {
+        question: '¿Y frente a la Daewoo Infussia o la Telefunken PE800?',
+        answer: 'La [Daewoo Infussia](/producto/MLA50312411) suma panel digital táctil con 8 presets de temperatura e infusor de acero inoxidable, a $67.035. La [Telefunken PE800](/producto/MLA24556041) tiene selector físico de temperatura e infusor, a $125.549. Esta PE-4915 es la mejor calificada de las tres (4.8⭐), pero sin pantalla digital.',
+      },
+    ],
+    relatedProducts: ['MLA19788587', 'MLA50312411', 'MLA24556041', 'MLA51108369'],
   },
 
   // ─── Termotanques eléctricos — importados vía research manual en ML (jul 2026). Silo agua-caliente (STAGED) ───
