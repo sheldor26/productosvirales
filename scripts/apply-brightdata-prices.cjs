@@ -16,7 +16,17 @@
  *
  * El dataset.json es el array crudo que devuelve Bright Data (schema:
  * product_title, current_price, installment_price, installment_text,
- * price_without_taxes, input, warning, warning_code, error).
+ * price_without_taxes, specs, rating, review_count, stock_available, images,
+ * review_headers, review_contents, input, warning, warning_code, error).
+ *
+ * rating/review_count se aplican al catalogo igual que el precio (mismo
+ * cruce + guarda contra bajas sospechosas). specs/images/review_headers/
+ * review_contents NO se escriben solos en curated-products.ts: una ficha
+ * de ProductosVirales no copia texto crudo del vendedor (ver docs/fichas.md),
+ * necesitan la curaduria editorial (elegir 3-4 reseñas reales, cruzar specs
+ * contra el fabricante, etc). En cambio quedan cacheados en
+ * .cache/brightdata-enrichment.json para usarlos a mano cuando se arma o
+ * actualiza una ficha, sin tener que volver a scrapear.
  */
 
 const fs = require("fs");
@@ -25,8 +35,10 @@ const path = require("path");
 const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const SUSPICIOUS_DOC_PATH = path.resolve("docs/precios-sospechosos.md");
 const HISTORY_PATH = path.resolve("src/data/price-history.json");
+const ENRICHMENT_CACHE_PATH = path.resolve(".cache/brightdata-enrichment.json");
 const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
+const REVIEW_COUNT_MIN_RATIO = 0.5; // igual criterio que precios: una caida a menos de la mitad es sospechosa, no una baja real
 
 function usage() {
   console.log(`Uso:
@@ -53,6 +65,11 @@ function getPrice(block) {
   return Number(m[1] ?? m[2]);
 }
 
+function numProp(block, prop) {
+  const m = block.match(new RegExp(`(?:^|\\n)\\s*${prop}:\\s*(\\d+(?:\\.\\d+)?)`));
+  return m ? Number(m[1]) : undefined;
+}
+
 function loadCatalog(src) {
   const blocks = src.split(/\n  \{\n/).slice(1);
   return blocks.map((b) => ({
@@ -60,7 +77,22 @@ function loadCatalog(src) {
     title: get(b, "title"),
     price: getPrice(b),
     permalink: get(b, "permalink"),
+    rating: numProp(b, "rating"),
+    reviewCount: numProp(b, "reviewCount"),
   }));
+}
+
+// "4,7" -> 4.7 (ML a veces usa coma decimal)
+function parseRating(text) {
+  if (!text) return NaN;
+  return parseFloat(String(text).replace(",", "."));
+}
+
+// "(3.106)" -> 3106
+function parseReviewCount(text) {
+  if (!text) return NaN;
+  const digits = String(text).replace(/[^\d]/g, "");
+  return digits ? Number(digits) : NaN;
 }
 
 function compare(catalog, report) {
@@ -68,6 +100,8 @@ function compare(catalog, report) {
   let matched = 0, unmatched = 0, errored = 0;
   const changes = [];
   const unchangedList = [];
+  const ratingReviewChanges = [];
+  const stockMissing = [];
 
   for (const r of report) {
     const url = r.input?.url;
@@ -79,17 +113,38 @@ function compare(catalog, report) {
     matched++;
     if (scraped === product.price) {
       unchangedList.push({ id: product.id, price: product.price });
-      continue;
+    } else {
+      changes.push({
+        id: product.id,
+        title: product.title,
+        stored: product.price,
+        scraped,
+        permalink: product.permalink,
+      });
     }
-    changes.push({
-      id: product.id,
-      title: product.title,
-      stored: product.price,
-      scraped,
-      permalink: product.permalink,
-    });
+
+    const scrapedRating = parseRating(r.rating);
+    const scrapedReviewCount = parseReviewCount(r.review_count);
+    if (Number.isFinite(scrapedRating) || Number.isFinite(scrapedReviewCount)) {
+      ratingReviewChanges.push({
+        id: product.id,
+        title: product.title,
+        storedRating: product.rating,
+        scrapedRating: Number.isFinite(scrapedRating) ? scrapedRating : product.rating,
+        storedReviewCount: product.reviewCount,
+        scrapedReviewCount: Number.isFinite(scrapedReviewCount) ? scrapedReviewCount : product.reviewCount,
+      });
+    }
+
+    if (!r.stock_available) {
+      stockMissing.push({ id: product.id, title: product.title, permalink: product.permalink });
+    }
   }
-  return { matched, unmatched, errored, unchanged: unchangedList.length, unchangedList, changes };
+  return {
+    matched, unmatched, errored,
+    unchanged: unchangedList.length, unchangedList, changes,
+    ratingReviewChanges, stockMissing,
+  };
 }
 
 // Un punto por dia por producto, para poder armar series de tiempo (indice de
@@ -162,6 +217,91 @@ function applyChanges(src, changes, today) {
     if (touched) metaUpdated++;
   }
   return { next, applied, metaUpdated, missed };
+}
+
+// Escribe rating/reviewCount reales en el catalogo, mismo mecanismo que el
+// precio. reviewCount nunca deberia bajar salvo error de scraping (ML no
+// borra calificaciones), asi que una caida a menos de la mitad se descarta
+// como sospechosa igual que un precio que se duplica.
+function applyRatingReviewChanges(src, changes, today) {
+  let next = src;
+  let applied = 0;
+  const skipped = [];
+
+  for (const c of changes) {
+    const ratingChanged = Number.isFinite(c.scrapedRating) && c.scrapedRating !== c.storedRating;
+    const reviewCountChanged = Number.isFinite(c.scrapedReviewCount) && c.scrapedReviewCount !== c.storedReviewCount;
+    if (!ratingChanged && !reviewCountChanged) continue;
+
+    if (Number.isFinite(c.storedReviewCount) && c.storedReviewCount > 0 && Number.isFinite(c.scrapedReviewCount)) {
+      const ratio = c.scrapedReviewCount / c.storedReviewCount;
+      if (ratio < REVIEW_COUNT_MIN_RATIO) {
+        skipped.push(c);
+        continue;
+      }
+    }
+
+    let idPos = next.indexOf(`id: "${c.id}",`);
+    if (idPos === -1) idPos = next.indexOf(`id: '${c.id}',`);
+    if (idPos === -1) continue;
+    let blockEndCursor = next.indexOf("\n  {", idPos);
+    if (blockEndCursor === -1) blockEndCursor = next.length;
+
+    let touchedThis = false;
+    const fields = [];
+    if (ratingChanged) fields.push(["rating", c.scrapedRating]);
+    if (reviewCountChanged) fields.push(["reviewCount", c.scrapedReviewCount]);
+    for (const [field, value] of fields) {
+      const re = new RegExp(`(\\n\\s*${field}:\\s*)\\d+(?:\\.\\d+)?`);
+      const slice = next.slice(idPos, blockEndCursor);
+      const fm = re.exec(slice);
+      if (fm) {
+        const fieldAbsStart = idPos + fm.index;
+        const oldLen = fm[0].length;
+        const newText = `${fm[1]}${value}`;
+        next = next.slice(0, fieldAbsStart) + newText + next.slice(fieldAbsStart + oldLen);
+        blockEndCursor += newText.length - oldLen;
+        touchedThis = true;
+      }
+    }
+    if (touchedThis) applied++;
+  }
+  return { next, applied, skipped };
+}
+
+// specs/images/review_headers/review_contents quedan cacheados aca, uno por
+// producto, para usarlos a mano al armar o actualizar una ficha (docs/fichas.md
+// sigue mandando: cruzar contra fabricante, elegir reseñas reales, nunca
+// copiar crudo). No se auto-escriben en curated-products.ts.
+function saveEnrichmentCache(report, today) {
+  let cache = {};
+  try {
+    cache = JSON.parse(fs.readFileSync(ENRICHMENT_CACHE_PATH, "utf8"));
+  } catch { /* primera vez */ }
+
+  let saved = 0;
+  for (const r of report) {
+    if (r.error || !r.input?.url) continue;
+    const hasEnrichment = r.specs?.length || r.images?.length || r.review_headers?.length || r.review_contents?.length;
+    if (!hasEnrichment) continue;
+    cache[r.input.url] = {
+      fetchedAt: today,
+      product_title: r.product_title,
+      specs: r.specs || [],
+      images: r.images || [],
+      review_headers: r.review_headers || [],
+      review_contents: r.review_contents || [],
+      rating: r.rating,
+      review_count: r.review_count,
+      stock_available: r.stock_available,
+    };
+    saved++;
+  }
+  if (saved > 0) {
+    fs.mkdirSync(path.dirname(ENRICHMENT_CACHE_PATH), { recursive: true });
+    fs.writeFileSync(ENRICHMENT_CACHE_PATH, JSON.stringify(cache, null, 2) + "\n");
+  }
+  return saved;
 }
 
 // Los productos sin cambio de precio tambien fueron re-verificados hoy, pero
@@ -250,7 +390,10 @@ function main() {
   const report = JSON.parse(fs.readFileSync(datasetPath, "utf8"));
   const src = fs.readFileSync(CATALOG_PATH, "utf8");
   const catalog = loadCatalog(src);
-  const { matched, unmatched, errored, unchanged, unchangedList, changes } = compare(catalog, report);
+  const {
+    matched, unmatched, errored, unchanged, unchangedList, changes,
+    ratingReviewChanges, stockMissing,
+  } = compare(catalog, report);
 
   const suspicious = changes.filter((c) => {
     const ratio = c.scraped / c.stored;
@@ -267,6 +410,11 @@ function main() {
   console.log(`Sospechosos (precio se duplico o cayo a menos de la mitad, sin tocar): ${suspicious.length}`);
   for (const c of suspicious) {
     console.log(`  SOSPECHOSO ${c.id}  ${c.stored} -> ${c.scraped}  ${c.title}`);
+  }
+  console.log(`Con rating/reviewCount para actualizar: ${ratingReviewChanges.length}`);
+  if (stockMissing.length) {
+    console.log(`Sin "unidades disponibles" detectado (revisar si sigue en stock): ${stockMissing.length}`);
+    for (const s of stockMissing) console.log(`  ${s.id}  ${s.title}  ${s.permalink}`);
   }
 
   if (!doApply) {
@@ -285,28 +433,47 @@ function main() {
   const historyAdded = appendPriceHistory(historyPoints, today);
   console.log(`\nPuntos nuevos en price-history.json: ${historyAdded} (de ${historyPoints.length} precios confiables)`);
 
+  const enrichmentSaved = saveEnrichmentCache(report, today);
+  console.log(`Productos con specs/imagenes/reseñas cacheados en .cache/brightdata-enrichment.json: ${enrichmentSaved}`);
+
+  let working = src;
+  let totalTouched = 0;
+
   const { next: afterRefresh, touched: refreshed } = refreshCheckedMetadata(
-    src,
+    working,
     unchangedList.map((u) => u.id),
     today
   );
+  working = afterRefresh;
+  totalTouched += refreshed;
   console.log(`priceLastChecked refrescado (sin cambio de precio): ${refreshed}`);
 
-  if (reasonable.length === 0) {
-    if (refreshed > 0) {
-      fs.writeFileSync(CATALOG_PATH, afterRefresh);
-      console.log("Escrito en curated-products.ts (solo priceLastChecked)");
-    } else {
-      console.log("\nNada para aplicar en el catalogo.");
-    }
-    return;
+  if (reasonable.length > 0) {
+    const { next, applied, metaUpdated, missed } = applyChanges(working, reasonable, today);
+    working = next;
+    totalTouched += applied;
+    console.log(`Reemplazados (precio): ${applied}`);
+    console.log(`Con metadata actualizada: ${metaUpdated}`);
+    if (missed.length) console.log(`Sin match al escribir (revisar a mano): ${missed.join(", ")}`);
   }
 
-  const { next, applied, metaUpdated, missed } = applyChanges(afterRefresh, reasonable, today);
-  console.log(`\nReemplazados (precio): ${applied}`);
-  console.log(`Con metadata actualizada: ${metaUpdated}`);
-  if (missed.length) console.log(`Sin match al escribir (revisar a mano): ${missed.join(", ")}`);
-  fs.writeFileSync(CATALOG_PATH, next);
+  const { next: afterRatingReview, applied: ratingReviewApplied, skipped: ratingReviewSkipped } =
+    applyRatingReviewChanges(working, ratingReviewChanges, today);
+  working = afterRatingReview;
+  totalTouched += ratingReviewApplied;
+  console.log(`Rating/reviewCount actualizados: ${ratingReviewApplied}`);
+  if (ratingReviewSkipped.length) {
+    console.log(`Rating/reviewCount sospechosos (reviewCount cayo a menos de la mitad, sin tocar): ${ratingReviewSkipped.length}`);
+    for (const s of ratingReviewSkipped) {
+      console.log(`  SOSPECHOSO ${s.id}  reviewCount ${s.storedReviewCount} -> ${s.scrapedReviewCount}  ${s.title}`);
+    }
+  }
+
+  if (totalTouched === 0) {
+    console.log("\nNada para aplicar en el catalogo.");
+    return;
+  }
+  fs.writeFileSync(CATALOG_PATH, working);
   console.log("Escrito en curated-products.ts");
 }
 
