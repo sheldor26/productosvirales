@@ -1,0 +1,120 @@
+name: Scraper puntual Bright Data (URLs a mano)
+
+# Corrida manual, disparada a mano, para traer el dataset COMPLETO de Bright
+# Data (specs, imagenes, reseñas, description, rating, stock) de una lista
+# puntual de productos, sin esperar a la corrida programada de todo el
+# catalogo. NO toca curated-products.ts ni price-history.json: solo dispara
+# el collector y sube el dataset crudo como artifact para procesarlo aparte.
+#
+# Uso: Actions > Scraper puntual Bright Data > Run workflow, opcionalmente
+# pegando otra lista de URLs en el input (una por linea). Si se deja vacio,
+# usa el default: las 31 fichas /producto/ que hoy estan "peladas" (solo
+# specs, sin verdict/pros/cons/reviews).
+#
+# Requisito: secret BRIGHTDATA_API_TOKEN (el mismo que usa
+# update-prices-brightdata.yml).
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: "URLs de MercadoLibre a scrapear, una por linea (vacio = usa el default de 31 fichas peladas)"
+        required: false
+        type: string
+        default: |
+          https://www.mercadolibre.com.ar/p/MLA47333674
+          https://www.mercadolibre.com.ar/robot-limpia-vidrios-gadnic-con-3-modos-de-limpieza-super-succion-pulverizacion/p/MLA46931846
+          https://www.mercadolibre.com.ar/robot-limpia-ventanas-atma-3-patrones-de-limpieza-doble-spray-apto-vidrios-con-y-sin-marco/p/MLA51170872
+          https://www.mercadolibre.com.ar/al-wataniah-bareeq-al-dhahad-edp-100ml-para-hombre/p/MLA24605489
+          https://www.mercadolibre.com.ar/lattafa-qaed-al-fursan-eau-de-parfum-90ml/p/MLA22234109
+          https://www.mercadolibre.com.ar/lattafa-habik-for-men-eau-de-parfum-100-ml/p/MLA54145870
+          https://www.mercadolibre.com.ar/perfume-vintage-radio-lattafa-pride-100-ml/p/MLA29077943
+          https://www.mercadolibre.com.ar/perfume-rasasi-hawas-black-100ml-eau-de-parfum-aromatico-frutal-unisex/p/MLA41306043
+          https://www.mercadolibre.com.ar/lattafa-mayar-edp-x100ml/p/MLA25883660
+          https://www.mercadolibre.com.ar/perfume-arabe-maison-alhambra-sceptre-malachite-edp-100-ml/p/MLA27855490
+          https://www.mercadolibre.com.ar/lattafa-her-confession-eau-de-parfum-100ml-volumen-de-la-unidad-100-ml/p/MLA41304983
+          https://www.mercadolibre.com.ar/perfume-afnan-9pm-100-ml-eau-de-parfum-para-caballero/p/MLA19846768
+          https://www.mercadolibre.com.ar/perfume-armaf-odyssey-mandarin-sky-limited-edition-edp-100-m/up/MLAU3452900219
+          https://www.mercadolibre.com.ar/edp-lattafa-fakhar-woman-x-100-ml/p/MLA28060225
+          https://www.mercadolibre.com.ar/lattafa-maahir-legacy-eau-de-parfum-100ml-premium/p/MLA37755803
+          https://www.mercadolibre.com.ar/perfume-hombre-lattafa-the-kingdom-man-100-ml/p/MLA41178086
+          https://www.mercadolibre.com.ar/armaf-club-de-nuit-intense-man-edp-200ml/p/MLA16122300
+          https://www.mercadolibre.com.ar/perfume-unisex-fakhar-lattafa-pride-gold-extract-edp-100-ml/p/MLA32488004
+          https://www.mercadolibre.com.ar/lattafa-emeer-eau-de-parfum-arabe-caja-con-luces-de-100-ml/p/MLA28754461
+          https://www.mercadolibre.com.ar/lattafa-yara-moi-eau-de-parfum-spray-100ml-mujer/p/MLA32288168
+          https://www.mercadolibre.com.ar/perfume-de-mujer-lattafa-yara-edp-100-ml-arabe-original/up/MLAU2983186467
+          https://www.mercadolibre.com.ar/p/MLA38252447
+          https://www.mercadolibre.com.ar/pava-electrica-atma-pe1821nap-17lts-selector-de-temperatura/p/MLA19589519
+          https://www.mercadolibre.com.ar/pava-electrica-liliana-aap992n-safeheat-negro/p/MLA54676373
+          https://www.mercadolibre.com.ar/pava-electrica-matera-kanji-home-kjh-pe15002m-1500w-18-mate/p/MLA20027329
+          https://www.mercadolibre.com.ar/pava-vidrio-hervidora-kanji-home-kjh-pe15004s-color-negro/p/MLA37777896
+          https://www.mercadolibre.com.ar/pava-jarra-electrica-corte-mate-vidrio-led-winco-w1719-color-transparente/p/MLA51108369
+          https://www.mercadolibre.com.ar/pava-electrica-telefunken-pe800-jarra-vidrio-18lt-mate-cafe-color-transparentenegroplateado/p/MLA24556041
+          https://www.mercadolibre.com.ar/pava-electrica-digital-infussia-15l-infusor-vidrio-daewoo-color-blanco/p/MLA50312411
+          https://www.mercadolibre.com.ar/ultracomb-pe4910-pava-electrica-con-infusor-de-te-func-mate/p/MLA19788587
+          https://www.mercadolibre.com.ar/pava-electrica-ultracomb-pe-4915-18l-negra-negro/p/MLA46312287
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Armar el body del trigger
+        run: |
+          cat > /tmp/trigger-body.json << 'BODYEOF'
+          ${{ toJson(github.event.inputs.urls) }}
+          BODYEOF
+          node -e "
+          const fs = require('fs');
+          const raw = JSON.parse(fs.readFileSync('/tmp/trigger-body.json', 'utf8'));
+          const urls = raw.split('\n').map((s) => s.trim()).filter(Boolean);
+          fs.writeFileSync('/tmp/trigger-body.json', JSON.stringify(urls.map((url) => ({ url }))));
+          console.log(urls.length + ' URLs');
+          "
+
+      - name: Disparar el collector en Bright Data
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          set -e
+          status=$(curl -s -o /tmp/trigger.json -w "%{http_code}" \
+            -X POST "https://api.brightdata.com/dca/trigger?collector=c_mrbcvyc91n9lmqv6dt" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            --data-binary @/tmp/trigger-body.json)
+          if [ "$status" != "200" ]; then
+            echo "Trigger fallo (HTTP $status):"
+            cat /tmp/trigger.json
+            exit 1
+          fi
+          collection_id=$(node -pe "JSON.parse(require('fs').readFileSync('/tmp/trigger.json','utf8')).collection_id || ''")
+          if [ -z "$collection_id" ]; then
+            echo "Sin collection_id en la respuesta:"
+            cat /tmp/trigger.json
+            exit 1
+          fi
+          echo "collection_id=$collection_id" >> "$GITHUB_ENV"
+          echo "Disparado: $collection_id"
+
+      - name: Esperar el dataset (hasta ~10 min)
+        env:
+          TOKEN: ${{ secrets.BRIGHTDATA_API_TOKEN }}
+        run: |
+          for i in $(seq 1 40); do
+            status=$(curl -s -o /tmp/dataset.json -w "%{http_code}" \
+              "https://api.brightdata.com/dca/dataset?id=$collection_id" \
+              -H "Authorization: Bearer $TOKEN")
+            if [ "$status" = "200" ]; then
+              echo "Listo despues de $((i * 15))s aprox."
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "Se agoto la espera del dataset."
+          exit 1
+
+      - name: Subir el dataset crudo como artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: brightdata-dataset
+          path: /tmp/dataset.json
+          retention-days: 7

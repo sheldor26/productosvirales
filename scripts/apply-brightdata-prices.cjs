@@ -15,7 +15,7 @@
  *   node scripts/apply-brightdata-prices.cjs <dataset.json> --apply    # escribe
  *
  * El dataset.json es el array crudo que devuelve Bright Data (schema:
- * product_title, current_price, installment_price, installment_text,
+ * product_title, description, current_price, installment_price, installment_text,
  * price_without_taxes, specs, rating, review_count, stock_available, images,
  * review_headers, review_contents, input, warning, warning_code, error).
  *
@@ -282,11 +282,12 @@ function saveEnrichmentCache(report, today) {
   let saved = 0;
   for (const r of report) {
     if (r.error || !r.input?.url) continue;
-    const hasEnrichment = r.specs?.length || r.images?.length || r.review_headers?.length || r.review_contents?.length;
+    const hasEnrichment = r.specs?.length || r.images?.length || r.review_headers?.length || r.review_contents?.length || r.description;
     if (!hasEnrichment) continue;
     cache[r.input.url] = {
       fetchedAt: today,
       product_title: r.product_title,
+      description: r.description || "",
       specs: r.specs || [],
       images: r.images || [],
       review_headers: r.review_headers || [],
