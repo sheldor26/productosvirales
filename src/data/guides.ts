@@ -18924,6 +18924,104 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre climatización",
   },
 
+  // PILAR termotanque-electrico — silo agua-caliente (/guias/agua-caliente/...) — STAGED
+  {
+    slug: "termotanque-electrico",
+    category: "termotanques",
+    silo: "agua-caliente",
+    pillar: true,
+    title: `Termotanque eléctrico: cuál comprar en Argentina [2026]`,
+    seoTitle: `Termotanque Eléctrico 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Comparamos los termotanques eléctricos más vendidos de Argentina: Señorial, Sherman, Exahome y Rheem. Precio, litros y eficiencia real. Compará.`,
+    ogTitle: `Termotanque eléctrico: cuál comprar en Argentina`,
+    ogDescription: `De 40 a 85 litros: comparamos los termotanques eléctricos más vendidos de Argentina por capacidad, eficiencia energética y precio real de MercadoLibre.`,
+    h1: `Termotanque eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-09",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Hay termotanques eléctricos desde {{precio:MLA45424072:k}} hasta más de {{precio:MLA15733526:k}}, con capacidades de 40 a 85 litros y diferencias reales en eficiencia energética. Te mostramos los más vendidos de Argentina, qué resignás en cada uno y cuál conviene según cuánta agua caliente necesitás, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA15585571", label: "El más vendido", labelColor: "green", tagline: "Señorial Zafiro: por lejos el más comprado y calificado, 3.106 opiniones" },
+      { productMlaId: "MLA19904759", label: "El mejor calificado", labelColor: "blue", tagline: "Sherman 85L: aislamiento y anticorrosivo, 4.8 estrellas" },
+      { productMlaId: "MLA45424072", label: "El más económico", labelColor: "amber", tagline: "Exahome 40L: el más barato, ideal para una persona" },
+      { productMlaId: "MLA15733526", label: "Mejor eficiencia", labelColor: "purple", tagline: "Rheem 85L: categoría A, doble aislación" },
+    ],
+    intro: [
+      `Cambiar el calefón a gas por un termotanque eléctrico dejó de ser una rareza en Argentina: varios compradores en las reseñas lo eligen justamente por eso, y reportan pagar menos de luz que lo que pagaban antes de gas. El termotanque eléctrico calienta y guarda una reserva de agua caliente en un tanque aislado, a diferencia del calefón que la calienta al instante y no la almacena.`,
+      `El problema es que no todos los termotanques eléctricos son iguales, aunque los precios se parezcan. Hay modelos sin aislamiento térmico ni protección anticorrosiva vendiendo casi lo mismo que otros que sí los traen, y la eficiencia energética real (una categoría de A a G, como en los aires acondicionados) varía bastante entre marcas.`,
+      `Esta guía compara los 4 termotanques eléctricos con mejor respaldo de compradores reales en MercadoLibre Argentina, de 40 a 85 litros, para que elijas según cuánta agua caliente necesitás y qué estás dispuesto a resignar por precio.`,
+    ],
+    sections: [
+      { type: "h2", title: `Resumen rápido: cuál comprar según tu caso` },
+      { type: "p", content: `El termotanque eléctrico más vendido de Argentina es el Señorial Zafiro de 50 litros, por lejos: tiene casi seis veces más calificaciones que el segundo de esta lista. Pero no trae aislamiento térmico ni protección anticorrosiva, dos características que si te importan a mediano plazo, encontrás en el Sherman o el Rheem. Para una persona sola, el Exahome de 40 litros es el más barato y aun así trae ambas.` },
+      { type: "list", items: [
+        `Más vendido y calificado: [Señorial Zafiro 50L](/producto/termotanque-electrico-senorial-tesz-65-zafiro-blanco-50-litros-superior-mla15585571)`,
+        `Mejor calificado y con aislamiento + anticorrosivo: [Sherman 85L](/producto/termotanque-electrico-sherman-tepc085eshk2-blanco-85l-mla19904759)`,
+        `Más económico (ideal 1 persona): [Exahome 40L](/producto/termotanque-exahome-electrico-40-litros-carga-inferior-1500w-color-blanco-mla45424072)`,
+        `Mejor eficiencia energética (categoría A): [Rheem 85L](/producto/termotanque-electrico-rheem-aee-tep085rh-negro-85l-mm-mla15733526)`,
+      ]},
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los termotanques eléctricos con más ventas y calificaciones reales en MercadoLibre Argentina, de marcas específicas del rubro (Señorial, Sherman, Rheem) y de precio accesible (Exahome). Evaluamos lo que más importa al elegir uno: la **capacidad** en litros, si trae **aislamiento térmico** y **protección anticorrosiva**, la **eficiencia energética** declarada (categoría A a G) y el precio real. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h3", title: `Los 4 que comparamos` },
+      { type: "product-card", productMlaId: "MLA15585571", label: "El más vendido", labelColor: "green", ranking: 1, description: `50 litros, liviano, se cuelga o apoya. 4.7 estrellas en 3.106 calificaciones, ninguna otra marca de esta guía se acerca. No trae aislamiento ni anticorrosivo.` },
+      { type: "pull-quote", content: `Anda perfecto. Se puede apoyar y colgar, y regular la temperatura fácilmente. Para dos duchas seguidas va bien, aunque prefiero esperar un poco. Respecto al consumo por ahora pago menos de luz que lo que antes pagaba de gas.`, attribution: `— Comprador verificado en MercadoLibre, 2025 · 38 personas lo encontraron útil` },
+      { type: "product-card", productMlaId: "MLA19904759", label: "El mejor calificado", labelColor: "blue", ranking: 2, description: `85 litros, supervisado por Rheem. Trae aislamiento térmico y protección anticorrosiva. Recupera 86 litros por hora. 4.8 estrellas en 514 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA45424072", label: "El más económico", labelColor: "amber", ranking: 3, description: `40 litros, el más barato de esta guía y aun así trae aislamiento y anticorrosivo. Incluye soporte para colgar. Ideal para una persona o departamento chico.` },
+      { type: "product-card", productMlaId: "MLA15733526", label: "Mejor eficiencia", labelColor: "purple", ranking: 4, description: `85 litros, eficiencia energética categoría A (la más alta comparada acá) gracias a doble aislación. El más caro de los 4, pero con marca de trayectoria internacional en termotanques.` },
+      { type: "pull-quote", content: `Cambié de un saiar a este rheem, y se nota la diferencia de calidad. Tip: recuerden nunca conectar piezas de bronce directo al hierro del termo, e intercalen algo aislante como plástico, para evitar la corrosión (por corriente galvánica) y que se dañe el termo mucho antes de lo esperado.`, attribution: `— Comprador verificado en MercadoLibre, 2025 · 74 personas lo encontraron útil` },
+
+      { type: "h2", title: `Tabla comparativa: termotanques eléctricos`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Aislamiento / Anticorrosivo`, `Eficiencia`], rows: [
+        [`[Señorial Zafiro](https://meli.la/3188Pdf)`, `{{precio:MLA15585571}}`, `50 L`, `No / No`, `E`],
+        [`[Sherman TEPC085ESHK2](https://meli.la/1UARDT7)`, `{{precio:MLA19904759}}`, `85 L`, `Sí / Sí`, `C`],
+        [`[Exahome](https://meli.la/1iYQuEF)`, `{{precio:MLA45424072}}`, `40 L`, `Sí / Sí`, `No especifica`],
+        [`[Rheem AEE TEP085RH](https://meli.la/296jEZK)`, `{{precio:MLA15733526}}`, `85 L`, `Sí / Sí (doble aislación)`, `A`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu termotanque eléctrico`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Cuánta capacidad necesitás?` },
+      { type: "p", content: `El error más común es elegir por el precio más bajo sin mirar cuánta gente vive en la casa. Un termotanque de 40 litros alcanza bien para una persona sola, pero con dos o más duchas seguidas en una familia, el agua caliente se corta antes.` },
+      { type: "list", items: [
+        `1 persona o departamento chico: 40 litros (el Exahome de esta guía)`,
+        `2-3 personas: 50 litros (el Señorial Zafiro de esta guía)`,
+        `Familia de 3 o más, con duchas seguidas: 85 litros o más (el Sherman o el Rheem de esta guía)`,
+      ]},
+      { type: "h3", title: `2. Eficiencia energética: la letra que casi nadie mira` },
+      { type: "p", content: `Los termotanques eléctricos en Argentina llevan una etiqueta de eficiencia energética de la A (la más eficiente) a la G (la menos eficiente), igual que un aire acondicionado o una heladera. De los 4 de esta guía, el Rheem es categoría A gracias a una doble aislación térmica, el Sherman es C, y el Señorial (el más vendido) es E, la más baja del grupo.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Por qué la eficiencia importa más en un termotanque que en otros electrodomésticos", content: `A diferencia de un ventilador o una heladera, el termotanque mantiene agua caliente durante horas sin usarla. Sin buen aislamiento térmico, pierde temperatura seguido y el resistor eléctrico vuelve a prenderse para recalentarla, lo que se nota directo en la factura de luz.` },
+      { type: "h3", title: `3. Aislamiento térmico y protección anticorrosiva` },
+      { type: "p", content: `Son las dos características técnicas que más diferencia el precio de este grupo, y no siempre las declara el título de la publicación. El Sherman, el Exahome y el Rheem traen las dos; el Señorial (el más vendido) no trae ninguna. Sin protección anticorrosiva, el tanque interno es más vulnerable a la oxidación con los años, algo que en un equipo en contacto constante con agua pesa más que en otros electrodomésticos.` },
+      { type: "h3", title: `4. Colgar o de pie` },
+      { type: "p", content: `No todos los termotanques admiten las dos instalaciones. El Señorial y el Exahome se pueden colgar o apoyar; el Sherman y el Rheem de esta guía son solo de instalación de pie. Si el espacio disponible es una pared angosta sin lugar en el piso, conviene confirmar esto antes de comprar.` },
+
+      { type: "h2", title: `Termotanque eléctrico vs. calefón: la diferencia real` },
+      { type: "p", content: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado, lista para usar. El calefón (a gas o eléctrico) calienta el agua al instante, a medida que la usás, sin almacenarla. El termotanque conviene si querés varias duchas seguidas sin esperar; el calefón, si el espacio es limitado y no querés instalar un tanque grande. Vamos a comparar los calefones eléctricos en detalle en una guía aparte de este mismo sitio.` },
+
+      { type: "h2", title: `Cuánto cuesta un termotanque eléctrico en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA45424072:k}}:** el más económico, el [Exahome de 40 litros](https://meli.la/1iYQuEF), ideal para una persona.`,
+        `**Alrededor de {{precio:MLA15585571:k}}:** el más vendido, el [Señorial Zafiro de 50 litros](https://meli.la/3188Pdf), sin aislamiento ni anticorrosivo.`,
+        `**Alrededor de {{precio:MLA19904759:k}}:** el [Sherman de 85 litros](https://meli.la/1UARDT7), con aislamiento y anticorrosivo de fábrica.`,
+        `**Alrededor de {{precio:MLA15733526:k}}:** el premium, el [Rheem de 85 litros](https://meli.la/296jEZK), con la mejor eficiencia energética del grupo.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál termotanque eléctrico comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **Señorial Zafiro** de 50 litros: es el más vendido y calificado por lejos, liviano y de los más baratos, aunque resigna aislamiento y anticorrosivo. Si tu familia usa mucha agua caliente seguida y querés esas dos características, el **Sherman** de 85 litros suma aislamiento, anticorrosivo y la mejor calificación promedio del grupo. Para una persona sola o un departamento chico, el **Exahome** de 40 litros es el más barato sin resignar aislamiento ni anticorrosivo. Y si priorizás la eficiencia energética a largo plazo por sobre el desembolso inicial, el **Rheem** de 85 litros es categoría A, la más alta comparada acá.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor termotanque eléctrico en Argentina?`, answer: `El Señorial Zafiro de 50 litros es el más vendido y calificado por lejos (3.106 calificaciones). Si priorizás aislamiento térmico y protección anticorrosiva, el Sherman de 85 litros tiene la mejor calificación promedio (4.8). Para la mejor eficiencia energética, el Rheem de 85 litros es categoría A.` },
+      { question: `¿Cuántos litros de termotanque necesito?`, answer: `Para una persona sola o un departamento chico, 40 litros alcanzan. Para 2-3 personas, 50 litros. Para una familia de 3 o más con duchas seguidas, conviene 85 litros o más, para no quedarte sin agua caliente a mitad de ducha.` },
+      { question: `¿Qué diferencia hay entre un termotanque eléctrico y un calefón?`, answer: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado, lista para usar en cualquier momento. El calefón la calienta al instante mientras la usás, sin almacenarla. El termotanque conviene para varias duchas seguidas sin esperar; el calefón, cuando el espacio de instalación es limitado.` },
+      { question: `¿Cuánto consume un termotanque eléctrico por mes?`, answer: `Depende de la potencia (1.5 a 2 kW en los de esta guía), el aislamiento térmico y el uso: si lo dejás siempre enchufado mantiene la temperatura todo el día, mientras que si lo encendés solo antes de bañarte, el consumo baja. Los modelos con mejor eficiencia energética (categoría A, como el Rheem) consumen menos para mantener la misma temperatura.` },
+      { question: `¿Qué significa la letra de eficiencia energética en un termotanque?`, answer: `Es una categoría de la A (más eficiente) a la G (menos eficiente), igual que en aires acondicionados o heladeras. En un termotanque importa especialmente porque el agua se mantiene caliente durante horas sin usarse: cuanto mejor el aislamiento, menos veces se prende el resistor para recalentarla.` },
+      { question: `¿Se puede colgar cualquier termotanque eléctrico?`, answer: `No. El Señorial y el Exahome de esta guía admiten instalación colgada o apoyada; el Sherman y el Rheem son solo de pie. Conviene confirmar el tipo de montaje antes de comprar si el espacio disponible es una pared sin lugar en el piso.` },
+      { question: `¿Por qué algunos termotanques no traen protección anticorrosiva?`, answer: `Es una característica que encarece el producto, así que las marcas más económicas o las más vendidas por precio (como el Señorial de esta guía) suelen resignarla. Sin ella, el tanque interno es más vulnerable a la oxidación con los años, algo que pesa más en un equipo en contacto constante con agua.` },
+      { question: `¿Necesito un electricista o gasista para instalarlo?`, answer: `Varios compradores en las reseñas lo instalan por su cuenta sin ser plomeros, pero para la conexión eléctrica y de agua conviene siempre la revisión de un instalador matriculado, sobre todo para confirmar el tipo de conexión (superior o inferior) y evitar problemas de corrosión galvánica entre metales distintos.` },
+    ],
+  },
+
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {

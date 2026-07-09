@@ -48721,6 +48721,441 @@ Compralo para el quincho, el galpón o el taller: potencia bruta con certificaci
     reviewCount: 1520,
     description: 'Pava eléctrica de vidrio Ultracomb PE-4915, 1.8L, control de temperatura con termómetro, corte automático, base giratoria 360°. Sin infusor (distinta de la PE-4910, que sí tiene). 4.8⭐ con 1.520 calificaciones.',
   },
+
+  // ─── Termotanques eléctricos — importados vía research manual en ML (jul 2026). Silo agua-caliente (STAGED) ───
+  {
+    id: "MLA15585571",
+    title: "Termotanque Eléctrico Señorial TESZ-65 Zafiro Blanco 50 Litros Superior",
+    canonicalName: "Termotanque Eléctrico Señorial Zafiro 50L",
+    price: 353725,
+    originalPrice: 481773,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_672433-MLA99496742056_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_672433-MLA99496742056_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_860783-MLA91937026591_092025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15585571",
+    affiliateUrl: "https://meli.la/3188Pdf",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3106,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Señorial" },
+      { label: "Línea", value: "Zafiro" },
+      { label: "Modelo", value: "TESZP-65" },
+      { label: "Capacidad", value: "50 litros" },
+      { label: "Potencia", value: "1.5 kW (220V, 6,8 amp)" },
+      { label: "Conexión de agua", value: "Superior" },
+      { label: "Tipo de montaje", value: "Para colgar o apoyar" },
+      { label: "Aislamiento térmico", value: "No incluye" },
+      { label: "Protección anticorrosiva", value: "No incluye" },
+      { label: "Eficiencia energética (Argentina)", value: "E" },
+      { label: "Válvula de seguridad", value: "Sí, por sobrepresión" },
+      { label: "Válvula de desagüe", value: "Sí" },
+      { label: "Corte de energía", value: "Por sobrecalentamiento" },
+      { label: "Certificación", value: "LENOR" },
+      { label: "Dimensiones", value: "41 cm de ancho x 64,5 cm de alto, diámetro 41 cm" },
+      { label: "Peso", value: "16,9 kg" },
+      { label: "Garantía de fábrica", value: "2 años" },
+    ],
+    relatedProducts: ["MLA19904759", "MLA45424072", "MLA15733526"],
+    priceUpdated: "2026-07-09",
+    priceLastChecked: "2026-07-09",
+    priceStatus: "fresh",
+    description: "Termotanque eléctrico Señorial Zafiro 50L: el más vendido de Argentina por lejos (4.7⭐ en 3.106 calificaciones), liviano y de los más baratos. No trae aislamiento térmico ni protección anticorrosiva, a diferencia de otros de esta guía.",
+    seoTitle: "Señorial Zafiro 50L: el termotanque más vendido, ¿conviene?",
+    metaDescription: "El termotanque eléctrico más vendido de Argentina (3.106 calificaciones). Liviano y barato, pero sin aislamiento térmico ni anticorrosivo. Mirá si te sirve.",
+    verdict: "Sirve si buscás el termotanque eléctrico más probado del país y priorizás el precio: es de los más baratos de su capacidad, liviano (16,9 kg) y se puede colgar o apoyar. No es para vos si te importa el aislamiento térmico (no trae, así que el agua se enfría más rápido sin uso) o la protección anticorrosiva (tampoco trae): para eso, el Sherman o el Rheem de esta misma guía rinden mejor a mediano plazo.",
+    pros: [
+      "El más vendido de Argentina por lejos: 4.7 estrellas en 3.106 calificaciones, ninguna otra marca de esta guía se acerca",
+      "De los más baratos de su capacidad (50 litros) entre las marcas reconocidas",
+      "Liviano (16,9 kg) y se puede colgar o apoyar, dos formas de instalación en un mismo equipo",
+      "Certificado por LENOR (organismo de certificación eléctrica argentino)",
+      "Corte automático por sobrecalentamiento y válvula de seguridad por sobrepresión",
+      "Consumo bajo confirmado por compradores: varios reportan pagar menos que con el gas anterior",
+    ],
+    cons: [
+      "No incluye aislamiento térmico (la ficha técnica lo confirma): pierde temperatura más rápido que uno aislado si no lo usás seguido",
+      "No incluye protección anticorrosiva, a diferencia del Sherman, el Exahome y el Rheem de esta guía",
+      "Eficiencia energética E (la más baja de los 4 termotanques comparados acá)",
+      "La garantía de fábrica real es de 2 años, no los 3 que sugiere el cartel impreso en el propio producto",
+      "Hay que escanear un código y registrar el equipo para activar la garantía (según reportan compradores)",
+      "El modelo se llama '65' pero la capacidad real es de 50 litros: la cifra del nombre no son los litros",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Señorial Zafiro TESZP-65 es el termotanque eléctrico más vendido de Argentina en MercadoLibre, con una diferencia grande sobre el resto: 4.7 estrellas en 3.106 calificaciones, casi el triple que cualquier otro modelo de esta guía. A pesar del "65" en el nombre, la capacidad real es de 50 litros (el número del modelo responde a la línea, no a los litros). Es la opción típica de quien reemplaza un calefón a gas por uno eléctrico y quiere el modelo con más respaldo de compradores reales, priorizando precio por sobre extras.
+
+## Lo bueno
+
+Es liviano (16,9 kg) y admite dos formas de instalación, colgado o apoyado, algo que no todos los modelos de esta guía permiten. Trae los dos elementos de seguridad básicos que tiene que tener cualquier termotanque: válvula de seguridad por sobrepresión y corte automático si el agua se sobrecalienta. Está certificado por LENOR, el organismo argentino que audita seguridad eléctrica. Y varios compradores confirman en sus reseñas que el consumo bajó frente al gas que tenían antes, aunque uno de ellos duda si "bajo consumo" es un dato real o solo cartel: la respuesta corta es que si lo dejás siempre enchufado en vez de prenderlo solo antes de bañarte, consume más de lo necesario, porque mantiene la temperatura todo el tiempo.
+
+## La contra real
+
+La ficha técnica de MercadoLibre confirma dos ausencias que la publicación no destaca: no trae aislamiento térmico ni protección anticorrosiva. Sin aislamiento, el agua pierde temperatura más rápido cuando no se usa el termotanque por varias horas, así que vas a notar más arranques del calentador. Sin protección anticorrosiva, el tanque interno es más vulnerable a la oxidación con los años, algo que en termotanques (que están en contacto constante con agua) importa más que en otros electrodomésticos. También hay una diferencia entre el cartel impreso en el propio producto (que dice "3 años") y el dato de garantía que declara la publicación: 2 años. Vale confirmar con el vendedor antes de comprar. Por último, un comprador reporta que hay que escanear un código y registrar el equipo para activar la garantía, un paso extra que otros termotanques no piden.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Sherman TEPC085ESHK2 (85 litros), el Señorial es más chico, más barato y sin aislamiento ni anticorrosivo, pero tiene muchísimas más calificaciones reales (3.106 contra 514). Frente al Exahome de 40 litros, el Exahome sí trae aislamiento y protección anticorrosiva a un precio menor, pero para una capacidad más chica (ideal para una sola persona). Frente al Rheem AEE TEP085RH, la diferencia es de gama completa: el Rheem tiene la mejor eficiencia energética (A) y doble aislación, pero cuesta casi el doble. El Señorial gana en una sola cosa, y no es menor: es, por lejos, el más comprado y calificado de la categoría en Argentina.
+
+## Para quién sí y para quién no
+
+Comprá el Señorial Zafiro si tu prioridad es el precio y querés el modelo que más gente ya probó y calificó en Argentina, y no te importa resignar aislamiento térmico ni protección anticorrosiva. No es para vos si vivís en una zona con agua dura o salitrosa (ahí la falta de anticorrosivo pesa más) o si buscás la mejor eficiencia energética posible: para eso, el Sherman o el Rheem de esta misma guía rinden mejor con los años.`,
+    faq: [
+      {
+        question: "¿El Señorial Zafiro tiene 50 o 65 litros?",
+        answer: "Tiene 50 litros reales. El '65' del nombre del modelo (TESZP-65) corresponde a la línea del producto, no a la capacidad, algo que confunde a varios compradores al leer solo el título.",
+      },
+      {
+        question: "¿Trae aislamiento térmico?",
+        answer: "No. La ficha técnica de MercadoLibre lo confirma explícitamente. Sin aislamiento, el agua se enfría más rápido cuando el termotanque no se usa por varias horas, a diferencia del Sherman o el Rheem de esta guía, que sí lo traen.",
+      },
+      {
+        question: "¿Es de bajo consumo en serio?",
+        answer: "Varios compradores confirman que pagan menos de luz que lo que pagaban de gas. Pero el consumo real depende del uso: si lo dejás siempre enchufado mantiene la temperatura todo el día, mientras que si lo encendés solo antes de bañarte, el consumo baja más.",
+      },
+      {
+        question: "¿La garantía es de 2 o 3 años?",
+        answer: "El dato oficial de la publicación de MercadoLibre dice 2 años. El cartel impreso en el propio producto muestra '3 años', una inconsistencia que conviene confirmar con el vendedor antes de comprar.",
+      },
+      {
+        question: "¿Se puede colgar o solo apoyar?",
+        answer: "Las dos formas: el Señorial Zafiro admite instalación colgada o apoyada en el mismo equipo, algo que no todos los modelos de esta guía permiten (el Sherman y el Rheem, por ejemplo, son solo de pie).",
+      },
+      {
+        question: "¿Por qué tiene tantas más calificaciones que los otros termotanques?",
+        answer: "Con 3.106 calificaciones es, por lejos, el más vendido de la categoría en Argentina. Suele ser la opción de entrada que recomiendan gasistas y plomeros para reemplazar un calefón a gas, lo que explica el volumen de ventas.",
+      },
+      {
+        question: "¿Necesito registrar el producto para la garantía?",
+        answer: "Según reportan compradores en sus reseñas, sí: hay que escanear un código y registrar el termotanque para acceder a la garantía completa. Conviene hacerlo apenas se instala, antes de perder la caja o el comprobante.",
+      },
+    ],
+  },
+  {
+    id: "MLA19904759",
+    title: "Termotanque Eléctrico Sherman TEPC085ESHK2 Blanco 85L",
+    canonicalName: "Termotanque Eléctrico Sherman 85L",
+    price: 420483,
+    originalPrice: 506607,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_792678-MLA99992709639_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_792678-MLA99992709639_112025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_846443-MLA108298203851_032026-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19904759",
+    affiliateUrl: "https://meli.la/1UARDT7",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 514,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Sherman (supervisada por Rheem)" },
+      { label: "Modelo", value: "TEPC085ESHK2" },
+      { label: "Capacidad", value: "85 litros" },
+      { label: "Potencia", value: "2 kW (220V)" },
+      { label: "Recuperación eléctrica", value: "86 litros por hora" },
+      { label: "Conexión de agua", value: "Superior" },
+      { label: "Tipo de montaje", value: "De pie" },
+      { label: "Aislamiento térmico", value: "Sí" },
+      { label: "Protección anticorrosiva", value: "Sí" },
+      { label: "Eficiencia energética (Argentina)", value: "C" },
+      { label: "Válvula de seguridad", value: "Sí" },
+      { label: "Válvula de desagüe", value: "Sí" },
+      { label: "Dimensiones", value: "45 cm de ancho x 79 cm de alto, diámetro 45,1 cm" },
+      { label: "Peso", value: "23 kg" },
+    ],
+    relatedProducts: ["MLA15585571", "MLA15733526", "MLA45424072"],
+    priceUpdated: "2026-07-09",
+    priceLastChecked: "2026-07-09",
+    priceStatus: "fresh",
+    description: "Termotanque eléctrico Sherman 85L, supervisado por Rheem: aislamiento térmico y protección anticorrosiva incluidos, 4.8⭐ en 514 calificaciones. Recupera 86 litros de agua caliente por hora, de los más rápidos de esta guía.",
+    seoTitle: "Sherman 85L: termotanque supervisado por Rheem, ¿vale la pena?",
+    metaDescription: "Aislamiento térmico, anticorrosivo y recuperación de 86L/hora. 4.8⭐ en 514 calificaciones. La válvula de desagüe es floja: mirá qué dicen los compradores.",
+    verdict: "Sirve para una familia que usa bastante agua caliente seguida: recupera 86 litros por hora, trae aislamiento térmico y protección anticorrosiva, y es supervisado por Rheem (una de las marcas más reconocidas del rubro). No es para vos si necesitás colgarlo (es solo de pie) o si te molesta que la válvula de desagüe pierda un poco de agua, una queja que se repite en varias reseñas.",
+    pros: [
+      "Trae aislamiento térmico y protección anticorrosiva, a diferencia del Señorial de esta misma guía",
+      "Recupera 86 litros de agua caliente por hora, de los más rápidos comparados acá",
+      "Eficiencia energética C, mejor que la E del Señorial",
+      "Supervisado por la marca Rheem, reconocida internacionalmente en termotanques",
+      "El termostato se puede regular manualmente (viene al máximo de fábrica, se ajusta con un destornillador)",
+      "4.8 estrellas en 514 calificaciones: la mejor puntuación promedio de los 4 termotanques de esta guía",
+    ],
+    cons: [
+      "Solo se instala de pie, no se puede colgar (a diferencia del Señorial y el Exahome de esta guía)",
+      "Varios compradores reportan que la válvula de desagote pierde agua, algo que describen como común en la categoría",
+      "Hay que escanear un código y registrar el equipo para activar la garantía completa",
+      "Es más pesado (23 kg) que el Señorial (16,9 kg), lo que complica un poco más la instalación",
+      "El termostato viene al máximo de fábrica: para bajarlo hay que abrir la carcasa donde están las luces indicadoras",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Sherman TEPC085ESHK2 es un termotanque eléctrico de 85 litros de una marca supervisada por Rheem, uno de los fabricantes más reconocidos del rubro a nivel internacional. Con 4.8 estrellas en 514 calificaciones, es el mejor puntuado de los cuatro termotanques de esta guía. Apunta a una familia que necesita agua caliente para dos duchas seguidas o más, sin perder recuperación entre uso y uso.
+
+## Lo bueno
+
+Recupera 86 litros de agua caliente por hora, de los valores más altos comparados en esta guía, así que el corte entre duchas es corto. Trae los dos extras que le faltan al Señorial: aislamiento térmico (mantiene la temperatura por más tiempo sin gastar de más) y protección anticorrosiva (el tanque interno dura más contra la oxidación). Un comprador que instaló el mismo modelo en varias propiedades que alquila lo recomienda puntualmente porque "es el que mejor resultado dio y se consiguen repuestos fácilmente", un dato de durabilidad real que pesa más que cualquier folleto. El termostato se puede regular (viene al máximo de fábrica, pensado para invierno), así que en verano se puede bajar la temperatura y ahorrar consumo.
+
+## La contra real
+
+La queja que más se repite en las reseñas es la válvula de desagote: pierde agua, y un comprador con experiencia en el rubro dice textualmente que le pasa "como al 90% de los termotanques" de este tipo, no un defecto puntual de este modelo. Aun así, sugiere que una canilla en vez de la válvula estándar sería más práctico. También hay que escanear un código y registrar el equipo para activar la garantía completa, un paso extra que algunos compradores descubren tarde. Y el termostato para bajar la temperatura no es accesible a simple vista: hay que remover la carcasa donde están las luces indicadoras y girar una perilla con un destornillador, no es un dial visible.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Señorial Zafiro (el más vendido, 3.106 calificaciones), el Sherman cuesta más pero suma lo que al Señorial le falta: aislamiento y anticorrosivo. Frente al Rheem AEE TEP085RH (misma capacidad, 85 litros), el Rheem tiene mejor eficiencia energética (A contra C) y doble aislación, pero cuesta considerablemente más; ambos comparten fabricante de fondo, así que la decisión pasa por cuánto querés pagar de más por la eficiencia. Frente al Exahome de 40 litros, la diferencia es directamente de capacidad: el Sherman es para una familia, el Exahome para una persona sola.
+
+## Para quién sí y para quién no
+
+Comprá el Sherman si tu casa usa bastante agua caliente seguida (dos duchas o más) y valorás que traiga aislamiento y anticorrosivo de fábrica, sin pagar el extra de la eficiencia A del Rheem. No es para vos si necesitás colgarlo en vez de apoyarlo de pie, o si una pérdida menor en la válvula de desagote (común en casi toda la categoría) te resulta inaceptable: en ese caso, consultá con el instalador sobre un accesorio de descarga alternativo antes de comprar cualquier termotanque.`,
+    faq: [
+      {
+        question: "¿El Sherman se puede colgar en la pared?",
+        answer: "No, este modelo (TEPC085ESHK2) es solo de instalación de pie. Si necesitás colgarlo, el Señorial Zafiro o el Exahome de esta misma guía sí lo permiten.",
+      },
+      {
+        question: "¿Es verdad que pierde agua por la válvula de desagote?",
+        answer: "Varios compradores lo reportan, y uno con experiencia en instalaciones aclara que le pasa a la gran mayoría de los termotanques de este tipo, no es un defecto exclusivo del Sherman. Reemplazar la válvula por una canilla es la solución que proponen algunos usuarios.",
+      },
+      {
+        question: "¿Trae protección anticorrosiva?",
+        answer: "Sí, la ficha técnica lo confirma, junto con aislamiento térmico. Son las dos características que el Señorial de esta guía no incluye.",
+      },
+      {
+        question: "¿Cuánta agua recupera por hora?",
+        answer: "86 litros por hora en modo eléctrico, uno de los valores más altos comparados en esta guía, lo que reduce la espera entre duchas seguidas.",
+      },
+      {
+        question: "¿Se puede bajar la temperatura?",
+        answer: "Sí, pero no con un dial visible: hay que remover la carcasa donde están las luces indicadoras y girar una perilla con un destornillador. De fábrica viene al máximo, pensado para invierno.",
+      },
+      {
+        question: "¿Sherman y Rheem son la misma marca?",
+        answer: "Sherman está supervisada por Rheem, uno de los fabricantes de termotanques más reconocidos internacionalmente, aunque son líneas de producto distintas con precios diferentes.",
+      },
+      {
+        question: "¿Hay que registrar el producto para la garantía?",
+        answer: "Sí, según reportan compradores hay que escanear un código y registrar el termotanque para acceder a la garantía completa. Conviene hacerlo apenas se instala.",
+      },
+    ],
+  },
+  {
+    id: "MLA45424072",
+    title: "Termotanque Exahome Eléctrico 40 Litros Carga Inferior 1500W Color Blanco",
+    canonicalName: "Termotanque Eléctrico Exahome 40L",
+    price: 276189,
+    originalPrice: 429990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_800051-MLA91930187017_092025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_800051-MLA91930187017_092025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_968780-MLA91930226695_092025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA45424072",
+    affiliateUrl: "https://meli.la/1iYQuEF",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 324,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Exahome" },
+      { label: "Modelo", value: "TTQE40" },
+      { label: "Capacidad", value: "40 litros" },
+      { label: "Potencia", value: "1.5 kW (220V)" },
+      { label: "Conexión de agua", value: "Inferior" },
+      { label: "Tipo de montaje", value: "Para colgar" },
+      { label: "Incluye soporte", value: "Sí" },
+      { label: "Aislamiento térmico", value: "Sí" },
+      { label: "Protección anticorrosiva", value: "Sí" },
+      { label: "Dimensiones", value: "43 cm de ancho x 47 cm de alto, diámetro 43 cm" },
+      { label: "Peso", value: "19 kg" },
+    ],
+    relatedProducts: ["MLA15585571", "MLA19904759", "MLA15733526"],
+    priceUpdated: "2026-07-09",
+    priceLastChecked: "2026-07-09",
+    priceStatus: "fresh",
+    description: "Termotanque eléctrico Exahome 40L: el más económico de esta guía, con aislamiento térmico y protección anticorrosiva incluidos pese al precio. 4.6⭐ en 324 calificaciones, ideal para una persona o un espacio chico.",
+    seoTitle: "Exahome 40L: el termotanque eléctrico más barato, ¿rinde?",
+    metaDescription: "El termotanque eléctrico más económico con aislamiento y anticorrosivo incluidos. 4.6⭐ en 324 calificaciones. Ideal para una persona. Mirá si te alcanza.",
+    verdict: "Sirve para una persona sola o un departamento chico: es el más barato de esta guía y aun así trae aislamiento térmico y protección anticorrosiva, algo que el Señorial (más caro) no incluye. No es para vos si sos una familia de tres personas o más: con 40 litros, la segunda ducha seguida ya se siente más fría.",
+    pros: [
+      "El más económico de los 4 termotanques comparados en esta guía",
+      "Trae aislamiento térmico y protección anticorrosiva pese a ser el más barato",
+      "Se puede colgar e incluye el soporte para hacerlo, sin comprarlo aparte",
+      "Marcado 'MÁS VENDIDO' en su categoría, con más de 1.000 ventas",
+      "El termostato se puede regular si el agua sale demasiado caliente",
+      "Instalación reportada como sencilla por varios compradores",
+    ],
+    cons: [
+      "40 litros alcanza bien para una persona; para una familia de 3 o más, la segunda ducha seguida sale más fría",
+      "La ficha técnica de MercadoLibre trae datos de un termotanque a gas mezclados por error (encendido piezoeléctrico, recuperación en gas natural): son atributos que no aplican a este modelo, que es 100% eléctrico",
+      "No especifica eficiencia energética en la ficha técnica, a diferencia del Señorial, el Sherman y el Rheem de esta guía",
+      "Las reseñas son en su mayoría cortas, con menos detalle técnico que las de otras marcas de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Exahome de 40 litros es el termotanque eléctrico más económico de esta guía, pensado para una persona que vive sola o un departamento chico. Una reseña lo resume bien: "los litros del calefón dependen de la cantidad de personas en la familia; para uno solo, el de 40 litros de diez". Con 4.6 estrellas en 324 calificaciones y la etiqueta "MÁS VENDIDO" de MercadoLibre, es la entrada más barata para pasar del gas a la electricidad sin resignar demasiado.
+
+## Lo bueno
+
+A pesar de ser el más barato de los cuatro, trae aislamiento térmico y protección anticorrosiva, dos características que el Señorial (más caro) no incluye. Se cuelga en la pared e incluye el soporte para hacerlo, así que no hay que comprar nada aparte para la instalación. Varios compradores confirman que es fácil de instalar y que el agua sale muy caliente de fábrica, al punto de que conviene regular el termostato para no quemarse, sobre todo en verano.
+
+## La contra real
+
+La ficha técnica que carga MercadoLibre para este modelo tiene un error de plantilla: incluye atributos de un termotanque a gas (encendido piezoeléctrico, recuperación en gas natural por hora) que no tienen sentido en un equipo 100% eléctrico como este. Son datos que hay que ignorar: la publicación y la descripción del producto confirman "Eléctrico" y "1500W" sin ambigüedad. Aparte de esa confusión de ficha, la limitación real es la capacidad: 40 litros rinden bien para una persona, pero si sos una familia de tres o más, la segunda ducha seguida ya sale con menos agua caliente. Tampoco se especifica la eficiencia energética en la ficha, algo que los otros tres termotanques de esta guía sí declaran.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Señorial Zafiro (el más vendido de la categoría, con más capacidad y sin aislamiento ni anticorrosivo), el Exahome es más chico pero técnicamente mejor equipado para el precio que cuesta. Frente al Sherman y el Rheem, ambos de 85 litros, la diferencia es directamente de capacidad: esos dos apuntan a familias, el Exahome a una persona o pareja con uso moderado.
+
+## Para quién sí y para quién no
+
+Comprá el Exahome si vivís solo, en pareja con uso moderado, o necesitás equipar un departamento chico o un monoambiente, y priorizás el precio sin resignar aislamiento ni anticorrosivo. No es para vos si sos una familia de tres personas o más que necesita varias duchas seguidas: ahí conviene subir a 85 litros con el Sherman o el Rheem de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Alcanzan los 40 litros del Exahome para una familia?",
+        answer: "Alcanza bien para una persona sola. Para una familia de tres o más, con duchas seguidas, 40 litros quedan justos: conviene subir a un modelo de 85 litros como el Sherman o el Rheem de esta guía.",
+      },
+      {
+        question: "¿Por qué la ficha técnica menciona gas si es eléctrico?",
+        answer: "Es un error de plantilla de MercadoLibre: la ficha técnica de este modelo trae mezclados atributos de un termotanque a gas (encendido piezoeléctrico, recuperación en gas natural) que no aplican acá. La publicación y la descripción confirman que es 100% eléctrico, de 1500W.",
+      },
+      {
+        question: "¿Trae aislamiento térmico y anticorrosivo?",
+        answer: "Sí a los dos, algo que sorprende siendo el más económico de esta guía: el Señorial, que cuesta más, no incluye ninguna de las dos características.",
+      },
+      {
+        question: "¿Incluye el soporte para colgarlo?",
+        answer: "Sí, el soporte para instalación colgada viene incluido, no hay que comprarlo aparte.",
+      },
+      {
+        question: "¿Se puede regular la temperatura?",
+        answer: "Sí. Varios compradores recomiendan bajarla apenas se instala, porque de fábrica el agua sale muy caliente, más de lo necesario para uso diario fuera del invierno.",
+      },
+      {
+        question: "¿Es difícil de instalar?",
+        answer: "Varios compradores lo describen como fácil de instalar, incluso sin ser plomero, aunque para la conexión de gas y agua conviene siempre la revisión de un instalador matriculado.",
+      },
+    ],
+  },
+  {
+    id: "MLA15733526",
+    title: "Termotanque Eléctrico Rheem AEE TEP085RH Negro 85L MM",
+    canonicalName: "Termotanque Eléctrico Rheem 85L",
+    price: 635300,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_842458-MLA71097934137_082023-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_842458-MLA71097934137_082023-F.jpg",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15733526",
+    affiliateUrl: "https://meli.la/296jEZK",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 540,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Rheem" },
+      { label: "Línea", value: "AEE" },
+      { label: "Modelo", value: "TEP085RH" },
+      { label: "Capacidad", value: "85 litros" },
+      { label: "Potencia", value: "2 kW (220V)" },
+      { label: "Recuperación eléctrica", value: "86 litros por hora" },
+      { label: "Conexión de agua", value: "Superior" },
+      { label: "Tipo de montaje", value: "De pie" },
+      { label: "Aislamiento térmico", value: "Sí (doble aislación)" },
+      { label: "Protección anticorrosiva", value: "Sí" },
+      { label: "Eficiencia energética (Argentina)", value: "A (la más alta de esta guía)" },
+      { label: "Válvula de seguridad", value: "Sí" },
+      { label: "Dimensiones", value: "51 cm de ancho x 91 cm de alto, diámetro 51 cm" },
+      { label: "Peso", value: "26 kg" },
+    ],
+    relatedProducts: ["MLA19904759", "MLA15585571", "MLA45424072"],
+    priceUpdated: "2026-07-09",
+    priceLastChecked: "2026-07-09",
+    priceStatus: "fresh",
+    description: "Termotanque eléctrico Rheem AEE TEP085RH: la mejor eficiencia energética de esta guía (categoría A) gracias a su doble aislación. 4.7⭐ en 540 calificaciones. El más caro, pero de una marca con trayectoria internacional en el rubro.",
+    seoTitle: "Rheem TEP085RH: el termotanque con mejor eficiencia, ¿vale?",
+    metaDescription: "Eficiencia energética A (la más alta comparada), doble aislación y 86L/hora de recuperación. 4.7⭐ en 540 calificaciones. Es el más caro: mirá si se justifica.",
+    verdict: "Sirve si buscás la mejor eficiencia energética posible y no te importa pagar el precio más alto de esta guía: tiene categoría A (contra C del Sherman y E del Señorial) gracias a una doble aislación que también lo hace más grande y pesado. No es para vos si el presupuesto es la prioridad número uno: el Sherman ofrece capacidad y calidad similar por bastante menos.",
+    pros: [
+      "Eficiencia energética categoría A, la más alta de los 4 termotanques comparados en esta guía",
+      "Doble aislación térmica, que explica tanto la mejor eficiencia como las dimensiones más grandes",
+      "Trae protección anticorrosiva y válvula de seguridad de fábrica",
+      "Recupera 86 litros de agua caliente por hora, igual que el Sherman",
+      "Marca con trayectoria internacional reconocida específicamente en termotanques",
+      "Comprador que cambió de otra marca reporta diferencia de calidad notoria",
+    ],
+    cons: [
+      "El más caro de los 4 termotanques de esta guía, por márgen considerable",
+      "Es el más grande (51 x 91 cm) y pesado (26 kg) de los comparados, por la doble aislación",
+      "Solo se instala de pie, no se puede colgar",
+      "Las conexiones a las cañerías son macho, distinto a lo que suelen traer estos equipos: conviene confirmarlo con el instalador antes de comprar",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Rheem AEE TEP085RH es el termotanque eléctrico de mayor gama comparado en esta guía, con la mejor eficiencia energética (categoría A) gracias a una doble aislación térmica. Rheem es una marca con trayectoria internacional específicamente en termotanques, y ese enfoque se nota en los detalles técnicos. Apunta a quien prioriza eficiencia y durabilidad por sobre el precio de compra inicial.
+
+## Lo bueno
+
+La eficiencia energética A es el diferencial más claro frente a los otros tres termotanques de esta guía (el Sherman tiene C, el Señorial E). Esa eficiencia viene de la doble aislación térmica, que también explica por qué este modelo es más grande y pesado que el resto. Un comprador que cambió de una marca más económica lo resume así: "se nota la diferencia de calidad" y suma un dato técnico útil de instalación: las conexiones son de bronce, y recomienda no conectarlas directo al hierro del termotanque sin un aislante plástico intermedio, para evitar corrosión por corriente galvánica, un problema que puede dañar el equipo antes de tiempo si se instala mal. Otro comprador destaca que es más barato en el uso diario que el gas y que la instalación resultó más simple de lo esperado.
+
+## La contra real
+
+Es, por márgen considerable, el más caro de los cuatro termotanques de esta guía. También es el más grande y pesado (51 x 91 cm, 26 kg), consecuencia directa de la doble aislación: si el espacio de instalación es reducido, conviene medir antes de comprar. Solo se instala de pie, igual que el Sherman. Y un comprador señala que las conexiones a las cañerías son de tipo macho, distinto a lo que suelen traer estos equipos y a lo que trae, según su comparación, otra marca de esta misma guía: vale confirmarlo con el instalador antes de la compra para no llevarse una sorpresa con los caños existentes.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Sherman (misma capacidad, 85 litros, y misma recuperación de 86L/hora), la diferencia es pura eficiencia y aislación: el Rheem gana en ambas, pero cuesta considerablemente más. Frente al Señorial (el más vendido) y el Exahome (el más económico), el Rheem está en otra categoría de precio directamente, pensado para quien ve el termotanque como una inversión a largo plazo y no solo como el gasto más barato posible hoy.
+
+## Para quién sí y para quién no
+
+Comprá el Rheem si el consumo eléctrico a largo plazo te importa más que el desembolso inicial, y tenés el espacio para un equipo más grande instalado de pie. No es para vos si el presupuesto es la prioridad número uno: en ese caso, el Sherman da capacidad y calidad de fabricación similar (misma recuperación de 86L/hora) a un precio bastante más accesible.`,
+    faq: [
+      {
+        question: "¿Por qué el Rheem es tanto más caro que el Sherman si comparten capacidad?",
+        answer: "La diferencia principal es la eficiencia energética: el Rheem tiene categoría A gracias a una doble aislación térmica, contra la categoría C del Sherman. Esa doble aislación también lo hace más grande y pesado.",
+      },
+      {
+        question: "¿Qué cuidado hay que tener con las conexiones de agua?",
+        answer: "Un comprador reporta que las conexiones son de tipo macho (de bronce) y recomienda no conectarlas directo al hierro del termotanque sin un aislante plástico intermedio, para evitar corrosión por corriente galvánica que puede dañar el equipo antes de tiempo.",
+      },
+      {
+        question: "¿Se puede colgar en la pared?",
+        answer: "No, este modelo es solo de instalación de pie, igual que el Sherman de esta guía. Si necesitás colgarlo, el Señorial o el Exahome sí lo permiten.",
+      },
+      {
+        question: "¿Cuánta agua recupera por hora?",
+        answer: "86 litros por hora, el mismo valor que el Sherman y el más alto comparado en esta guía junto a él.",
+      },
+      {
+        question: "¿Vale la pena pagar más por el Rheem en vez del Sherman?",
+        answer: "Depende de qué priorices: si querés la mejor eficiencia energética posible y planeás usarlo muchos años, el Rheem se justifica. Si el presupuesto es lo primero, el Sherman da una capacidad y calidad similar por bastante menos.",
+      },
+      {
+        question: "¿Trae protección anticorrosiva?",
+        answer: "Sí, la ficha técnica lo confirma, igual que el Sherman y el Exahome de esta guía. El único de los cuatro sin protección anticorrosiva es el Señorial Zafiro.",
+      },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
