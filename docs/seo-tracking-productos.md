@@ -125,6 +125,16 @@ Sin baseline GSC propio (ninguna de estas 38 tenía fila en este archivo antes).
 
 ---
 
+## Lote perfumes árabes: 31 fichas (skill `optimizador-productos-pv`, arranca 2026-07-09)
+
+Lote de 31 fichas de perfumes árabes procesadas una por una (modo OPTIMIZAR sobre fichas ya existentes en `curated-products.ts`). Se agrega una fila por ficha a medida que se procesan.
+
+| Ficha (id ML) | Producto | Qué se hizo | Optimizada |
+| :-- | :-- | :-- | :-- |
+| MLA24605489 | Al Wataniah Bareeq Al Dhahab EDP 100ml (hombre) | Ficha estaba pelada (solo pros/cons/verdict cortos, sin articleBody/specs/faq/customerReviews/relatedProducts). Se completaron las 11 secciones del estándar de oro. Research en vivo por Chrome: `reviewCount` real es **6.075** (la ficha tenía 1.946 desactualizado) con rating 4.6; se corrigió también un pro falso ("Rating 5/5") y un con obsoleto ("comunidad de reviews chica", ya no aplica con ese volumen). Al Wataniah **sí tiene sitio oficial verificable** (alwataniah.com), caso no tan común en perfumes árabes de casas chicas: notas cruzadas y coincidentes entre ML y el fabricante (salida azafrán/pimienta/rosa, corazón oud/pachulí/caramelo, fondo almizcle/incienso/ámbar). 4 `customerReviews` reales citadas (3 positivas + 1 de 4 estrellas con matices reales, no hay reseñas negativas de peso en el desglose de estrellas del producto). `relatedProducts`: Qaed Al Fursan (MLA22234109), Kingdom Man (MLA41178086), Afnan 9PM (MLA19846768). Enlazado interno: guía pilar `perfumes-arabes` (sin mención previa a esta ficha) recibió un nuevo product-card compacto enlazando a `/producto/al-wataniah-bareeq-al-dhahad-edp-100-ml-para-hombre-mla24605489`; ya estaba mencionada en `perfumes-arabes-amaderados` y `perfumes-arabes-precio-argentina`. Se limpiaron guiones largos y se ajustó el precio hardcodeado de la copy SEO (sub-$33.000 → sub-$35.000, el precio real subió). Verificación: `npx tsc --noEmit` limpio. | 2026-07-09 |
+
+---
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

@@ -29417,7 +29417,8 @@ La Suono de 10 litros es una freidora de aire pensada para volumen, con doble re
   },
   {
     id: "MLA24605489",
-    title: "Al wataniah Bareeq Al Dhahad EDP 100 ml para hombre",
+    title: "Al wataniah Bareeq Al Dhahad EDP 100 ml para hombre",
+    canonicalName: "Al Wataniah Bareeq Al Dhahab EDP 100ml",
     brand: "Al Wataniah",
     price: 34649,
     priceUpdated: "2026-07-08",
@@ -29440,30 +29441,119 @@ La Suono de 10 litros es una freidora de aire pensada para volumen, con doble re
     condition: "new",
     freeShipping: true,
     rating: 4.6,
-    reviewCount: 1946,
+    reviewCount: 6075,
+    reviewsSampledAt: "2026-07-09",
     pastelColor: "var(--pastel-pink)",
     gender: "Hombre",
+    line: "Bareeq",
+    version: "Intense",
+    perfumeType: "Eau de Parfum",
     concentration: "EDP",
     volume: 100,
     volumeUnit: "mL",
+    color: "Ámbar, con caja negra y dorada",
+    olfactiveFamily: ["Oriental", "Amaderado", "Ambarado"],
+    notes: {
+      top: ["Azafrán", "Pimienta", "Rosa"],
+      heart: ["Oud (madera de agar)", "Pachulí", "Caramelo", "Notas florales"],
+      base: ["Almizcle", "Incienso", "Ámbar", "Notas amaderadas"],
+    },
+    notesDisclaimer: "Notas confirmadas tanto en la ficha de Mercado Libre como en el sitio oficial de Al Wataniah (alwataniah.com): coinciden en la salida de azafrán, pimienta y rosa, el corazón de oud y caramelo, y el fondo de almizcle, incienso y ámbar.",
+    duration: "10 horas (dato declarado por el vendedor)",
+    durationHours: 10,
+    durationDisclaimer: "El vendedor en Mercado Libre declara una duración aproximada de 10 horas. No hay suficientes reseñas de fuentes independientes (tipo Fragrantica) para confirmar ese número con otro dato cruzado, algo más común en Lattafa o Rasasi.",
+    projection: "Alta",
+    projectionNote: "Varios compradores coinciden en que con 3 o 4 pulverizaciones alcanza, y que aplicar de más lo vuelve empalagoso.",
+    originCountry: "Emiratos Árabes Unidos",
+    launchYear: 2022,
+    crueltyFree: true,
+    vegan: true,
+    alcoholFree: true,
+    applicationFormat: "Spray",
+    refillable: false,
+    includesCase: false,
+    isSet: false,
     seoTitle: "Al Wataniah Bareeq Al Dhahab EDP 100ml: review hombre",
-    metaDescription: "Al Wataniah Bareeq Al Dhahab EDP 100ml para hombre. Casa emiratí Al Wataniah. Precio sub-$33.000 en MercadoLibre Argentina con envío gratis.",
-    ogTitle: "Al Wataniah Bareeq Al Dhahab 100ml — el oriental emiratí sub-$33.000",
-    ogDescription: "Eau de parfum masculino de la casa Al Wataniah, una de las casas emiratíes históricas. Sub-$33.000 con envío gratis.",
-    h1: "Al Wataniah Bareeq Al Dhahab: el oriental masculino sub-$33.000",
+    metaDescription: "Al Wataniah Bareeq Al Dhahab EDP 100ml para hombre. Casa emiratí Al Wataniah. Precio sub-$35.000 en MercadoLibre Argentina con envío gratis.",
+    ogTitle: "Al Wataniah Bareeq Al Dhahab 100ml: el oriental emiratí sub-$35.000",
+    ogDescription: "Eau de parfum masculino de la casa Al Wataniah, una de las casas emiratíes históricas. Sub-$35.000 con envío gratis y 6.075 calificaciones.",
+    h1: "Al Wataniah Bareeq Al Dhahab: el oriental masculino sub-$35.000",
     description: "Eau de parfum masculino de la casa emiratí Al Wataniah. \"Bareeq Al Dhahab\" se traduce como \"el brillo del oro\" y la firma se posiciona en territorio oriental cálido. Una de las opciones más accesibles del catálogo árabe en Argentina.",
     pros: [
-      "Precio muy accesible — sub-$33.000 con envío gratis",
-      "Casa Al Wataniah es una de las marcas emiratíes históricas — calidad consistente",
-      "Para alguien que arranca con perfumes árabes y no quiere gastar mucho",
-      "Rating 5/5 en MercadoLibre",
+      "Uno de los perfumes árabes masculinos más baratos del catálogo, con envío gratis",
+      "6.075 calificaciones y 4.6 estrellas: volumen de reseñas real, no una marca sin respaldo",
+      "Notas confirmadas en el sitio oficial de Al Wataniah (azafrán, oud, caramelo, ámbar), no solo en la publicación del vendedor",
+      "Buena puerta de entrada al nicho árabe antes de pagar los $45.000 o más de un Lattafa Asad o un Khamrah",
     ],
     cons: [
-      "Comunidad de reviews más chica que las marcas top (Lattafa, Afnan, Armaf)",
-      "Información olfativa pública limitada para validar longevidad y sillage exactos",
-      "Si después querés escalar, el siguiente paso lógico es Lattafa o Armaf — Al Wataniah tiene catálogo más reducido en Argentina",
+      "Catálogo de la marca mucho más chico en Argentina que Lattafa, Afnan o Armaf: si te gusta el perfil, hay menos variantes para seguir",
+      "La duración de 10 horas es el dato que declara el vendedor: no hay tantas fuentes independientes que la confirmen como sí pasa con las marcas grandes",
+      "No incluye estuche ni frasco recargable",
+      "Es la versión \"Intense\": Mercado Libre no vende por separado una versión estándar para comparar precio y rendimiento",
     ],
-    verdict: "Si querés probar un perfume árabe sin gastar arriba de $35.000, el Bareeq Al Dhahab es punto de entrada. Para review editorial completa hace falta más data de comunidad. Si te interesan los orientales pero querés referentes con más historia, mirá los Lattafa y Afnan del catálogo.",
+    verdict: "A precios que rondan los $34.000-37.000 con envío gratis, el Bareeq Al Dhahab es de los perfumes árabes masculinos más baratos del catálogo, y tiene 6.075 calificaciones con 4.6 estrellas detrás: no es una marca sin respaldo. El perfil azafrán-oud-caramelo-ámbar está confirmado en el sitio oficial de Al Wataniah, no es solo marketing del vendedor. La contra real es el catálogo chico de la marca en el país: si te engancha el perfil oriental-amaderado, para seguir vas a terminar mirando Lattafa o Afnan.",
+    articleBody: `Bareeq Al Dhahab es un eau de parfum masculino de la casa emiratí Al Wataniah, lanzado en 2022, que en Mercado Libre Argentina se consigue con envío gratis a precios que rondan los $34.000-37.000. El nombre significa "el brillo del oro" en árabe, y el frasco ámbar con caja negra y dorada sigue esa estética. Tiene 4.6 estrellas en 6.075 calificaciones, un volumen alto para una casa que no está entre las cinco marcas más conocidas del nicho (Lattafa, Afnan, Rasasi, Armaf y Maison Alhambra).
+
+## Notas y perfil olfativo
+
+El perfil es oriental amaderado: azafrán, pimienta y rosa de salida; oud, pachulí y caramelo de corazón; almizcle, incienso, ámbar y maderas de fondo. Estos datos no salen solo de la publicación en Mercado Libre: coinciden con los que publica el sitio oficial de Al Wataniah (alwataniah.com), algo que no siempre se puede confirmar en perfumes árabes de casas chicas. El vendedor declara una duración aproximada de 10 horas, aunque, como con la mayoría de los árabes de marcas menores, no hay tantas reseñas de sitios especializados que confirmen ese número de forma independiente.
+
+Los compradores describen el corazón dulce con oud como el rasgo más marcado. "3 sprays y proyecta" es el tipo de comentario habitual en el nicho, y en este perfume en particular varios compradores insisten en lo mismo: con 3 o 4 pulverizaciones alcanza, aplicar de más lo vuelve empalagoso.
+
+## Qué exagera (y qué no) la publicación de Mercado Libre
+
+La descripción del vendedor usa adjetivos fuertes ("fragancia sensual, profunda y adictiva"), pero acá las notas que declara coinciden con las del sitio oficial de la marca, así que no hay una exageración de composición como sí pasa con otros perfumes árabes del catálogo. Lo que sí conviene aclarar es la categoría: la ficha indica versión "Intense", pero eso no se desglosa en el título ni en el precio, así que si buscás puntualmente la versión estándar (no Intense) del Bareeq Al Dhahab, este listado no te lo confirma.
+
+## Bareeq Al Dhahab vs Lattafa Qaed Al Fursan: los dos entry-level del catálogo
+
+El [Lattafa Qaed Al Fursan](/producto/lattafa-qaed-al-fursan-eau-de-parfum-90ml-mla22234109) es la otra opción de entrada del segmento masculino, a $41.183, unos $5.000-7.000 más caro que el Bareeq Al Dhahab. Comparten el terreno amaderado-especiado, pero el Qaed Al Fursan suma cuero y sándalo con un perfil más seco y de oficina, mientras que el Bareeq Al Dhahab es más dulce por el caramelo y el ámbar. Para arrancar en perfumes árabes por el precio más bajo, el Bareeq Al Dhahab gana por unos pesos; para algo más formal y menos dulce, el Qaed Al Fursan es la alternativa.
+
+Para quien ya probó este perfil y quiere subir un escalón, [Lattafa The Kingdom Man](/producto/perfume-hombre-lattafa-the-kingdom-man-100-ml-mla41178086) profundiza en oud con un perfil más serio y adulto, a $62.375. Si en cambio el gancho es el lado dulce-ambarino, [Afnan 9PM](/producto/perfume-afnan-9pm-100-ml-eau-de-parfum-para-caballero-mla19846768) ocupa un lugar parecido, aunque proyecta bastante más y no conviene para uso diurno.
+
+## ¿Para quién es este perfume (y para quién no)?
+
+Es para vos si: buscás un primer contacto con perfumes árabes sin pagar los $45.000 o más de un Lattafa Asad o un Khamrah, te gusta el perfil dulce-ambarino con oud, y no te importa que sea de una marca con menos historia que las cinco casas grandes. No es para vos si: querés la marca más reconocible para regalar, necesitás datos de duración verificados por fuentes independientes, o preferís perfiles frescos y cítricos para uso de oficina en verano.
+
+## En resumen
+
+El Bareeq Al Dhahab de Al Wataniah es el punto de entrada más barato con volumen real de reseñas (6.075) del catálogo árabe masculino en Mercado Libre Argentina. El perfil dulce-ambarino con oud está confirmado por el propio fabricante, no es solo la publicación del vendedor. La contra real es el catálogo chico de la marca en el país: si te engancha el perfil, el siguiente paso lógico es mirar [Lattafa Asad Intense](/producto/lattafa-asad-intense-hombre-edp-100ml-mla19715215) o revisar el resto de la [guía completa de perfumes árabes en Argentina](/guias/perfumes-arabes).`,
+    specs: [
+      { label: "Marca", value: "Al Wataniah" },
+      { label: "Línea", value: "Bareeq" },
+      { label: "Versión", value: "Intense" },
+      { label: "Género", value: "Hombre" },
+      { label: "Tipo de perfume", value: "Eau de Parfum (EDP)" },
+      { label: "Volumen", value: "100 mL" },
+      { label: "Es recargable", value: "No" },
+      { label: "Incluye estuche", value: "No" },
+      { label: "Notas de salida", value: "Azafrán, pimienta, rosa" },
+      { label: "Notas de corazón", value: "Oud (madera de agar), pachulí, caramelo, notas florales" },
+      { label: "Notas de fondo", value: "Almizcle, incienso, ámbar, notas amaderadas" },
+      { label: "Familia olfativa", value: "Oriental amaderado" },
+      { label: "Duración declarada", value: "10 horas (dato del vendedor)" },
+      { label: "País de origen", value: "Emiratos Árabes Unidos" },
+      { label: "Año de lanzamiento", value: "2022" },
+      { label: "Libre de crueldad", value: "Sí" },
+      { label: "Vegano", value: "Sí" },
+      { label: "Libre de alcohol", value: "Sí" },
+    ],
+    faq: [
+      { question: "¿El Al Wataniah Bareeq Al Dhahab es original o una copia?", answer: "Es un producto original de Al Wataniah, una casa emiratí con sitio oficial propio (alwataniah.com), no una falsificación de otra marca. Es un perfume árabe con perfil propio, no un dupe declarado de un perfume occidental puntual." },
+      { question: "¿Cuánto dura el Bareeq Al Dhahab en la piel?", answer: "El vendedor en Mercado Libre declara una duración aproximada de 10 horas. Es el dato oficial del listado, pero no hay tantas reseñas de sitios especializados que lo confirmen de forma independiente como sí pasa con Lattafa o Rasasi. Las reseñas de compradores hablan de proyección fuerte con pocas pulverizaciones." },
+      { question: "¿Es unisex o solo para hombre?", answer: "Está catalogado como perfume para hombre tanto en Mercado Libre como en el sitio oficial de Al Wataniah, con un perfil oriental-amaderado-dulce típico del segmento masculino del nicho árabe. No se presenta como unisex." },
+      { question: "¿Qué significa que sea la versión \"Intense\"?", answer: "En la ficha de Mercado Libre figura como versión Intense del Bareeq Al Dhahab. Suele indicar mayor concentración de aceite perfumado que una versión estándar, aunque Mercado Libre no vende por separado una versión no Intense para comparar precio y rendimiento." },
+      { question: "¿Con cuántas pulverizaciones alcanza?", answer: "Según las reseñas, con 3 o 4 pulverizaciones es suficiente: varios compradores remarcan que el spray sale en dosis chicas y que aplicar de más lo vuelve empalagoso. Es un patrón típico de los orientales dulces del catálogo árabe." },
+      { question: "¿Con qué otro perfume árabe se compara el Bareeq Al Dhahab?", answer: "El comparable directo dentro del catálogo es el Lattafa Qaed Al Fursan, la otra opción de entrada del segmento masculino: precio parecido, pero más seco y con menos dulzor. Si buscás un perfil dulce-ambarino con más presupuesto, Afnan 9PM ocupa un lugar similar." },
+      { question: "¿Por qué Al Wataniah tiene menos reconocimiento que Lattafa o Afnan?", answer: "Es una casa emiratí más chica, con catálogo reducido en Argentina frente a Lattafa, Afnan, Rasasi o Armaf. Aun así, este perfume puntual acumula 6.075 calificaciones, un volumen alto para la marca y comparable al de varios best sellers de casas más grandes." },
+      { question: "¿El precio incluye envío gratis?", answer: "Sí, el listado con mejor precio en Mercado Libre incluye envío gratis. El precio de venta fluctúa (hay otros vendedores del mismo producto por encima y por debajo de ese valor), así que conviene revisar el precio actual antes de comprar." },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "julio 2025", useful: 204, text: "Me siento el dueño del PSG cuando me lo pongo." },
+      { rating: 5, country: "Brasil", date: "2025", useful: 188, text: "¡Debería haber conocido antes la perfumería árabe! La relación calidad-precio es impresionante. La proyección es excelente y la fijación ni se diga, dura más de 24 horas en mi piel; en cuanto a la ropa, será necesario lavarla, ya que parece que el perfume se ha convertido en parte de ella. Tal vez al principio el aroma sea extraño, pero cuando entran las notas intermedias y las de fondo, el perfume se vuelve una mezcla deliciosa, con las notas de caramelo apareciendo. Es dulce, pero no demasiado. El spray sale muy poco, y ahora sé por qué: ¡no son necesarias más de tres o cuatro pulverizaciones!" },
+      { rating: 4, country: "Brasil", date: "2025", useful: 162, text: "¡Perfume con aroma masculino! Proyecta incluso hasta el alma. Se puede usar en días más frescos. Pero por la noche proyecta muy bien. Y dura hasta el hueso. Solo no hay que exagerar. Es mejor dejarlo unos minutos antes de usarlo. No me gustan los perfumes amaderados. Pero su nota de vainilla al final es lo que hace que este perfume sea único. No hay nada parecido. Y no es una copia de ningún otro." },
+      { rating: 5, country: "Argentina", date: "julio 2025", useful: 77, text: "Impresionante. Ni bien lo probé me sentía el dueño del Al Nassr." },
+    ],
+    relatedProducts: ["MLA22234109", "MLA41178086", "MLA19846768"],
   },
   {
     id: "MLAU3812360798",
