@@ -2293,7 +2293,7 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
-  // PILAR auriculares-inalambricos — silo audio (/guias/audio/...) — STAGED
+  // PILAR auriculares-inalambricos — silo audio (/guias/audio/...)
   {
     slug: "auriculares-inalambricos",
     category: "auriculares",
@@ -2305,13 +2305,13 @@ export const guides: Guide[] = [
     ogTitle: `Auriculares inalámbricos: cuál comprar en Argentina`,
     ogDescription: `In-ear baratos, de vincha o con cancelación de ruido. Los auriculares bluetooth más vendidos de Argentina comparados por tipo, uso y precio real de MercadoLibre.`,
     h1: `Auriculares inalámbricos: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-08",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Hay auriculares inalámbricos para cada uso y bolsillo: del in-ear de $33.000 a la vincha con cancelación de ruido. Te mostramos los más vendidos de Argentina ordenados por tipo, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", tagline: "Xiaomi Redmi Buds 6 Play: in-ear baratísimos, más de 85.000 opiniones" },
+      { productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", tagline: "Xiaomi Redmi Buds 6 Play: in-ear baratísimos, más de 195.000 opiniones" },
       { productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", tagline: "Sony WH-CH520: hasta 50 horas de batería, la vincha más vendida" },
       { productMlaId: "MLA53285777", label: "Cancelación de ruido", labelColor: "purple", tagline: "JBL Tune 770NC: over-ear con cancelación activa, para aislarte" },
       { productMlaId: "MLA41255867", label: "Para deporte", labelColor: "amber", tagline: "Alpina F50 Pro: con gancho, no se caen al correr, y baratos" },
@@ -2332,21 +2332,21 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los mejores auriculares inalámbricos 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Xiaomi Redmi Buds 6 Play — el más vendido` },
-      { type: "product-card", productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", ranking: 1, description: `In-ear inalámbricos baratísimos, con bluetooth 5.4. 4.8 estrellas en más de 85.000 calificaciones: los auriculares más vendidos de Argentina, por lejos.` },
-      { type: "p", content: `Si querés in-ear que anden bien sin gastar casi nada, son estos. Los Redmi Buds 6 Play son **los más vendidos del país por amplio margen** (más de 85.000 opiniones, un número que no tiene ningún otro) y cuestan alrededor de $33.000. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra. La compra más segura y económica de la categoría.` },
+      { type: "product-card", productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", ranking: 1, description: `In-ear inalámbricos baratísimos, con bluetooth 5.4. 4.8 estrellas en más de 195.000 calificaciones: los auriculares más vendidos de Argentina, por lejos.` },
+      { type: "p", content: `Si querés in-ear que anden bien sin gastar casi nada, son estos. Los Redmi Buds 6 Play son **los más vendidos del país por amplio margen** (más de 195.000 opiniones, un número que no tiene ningún otro) y cuestan alrededor de $33.000. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra. La compra más segura y económica de la categoría.` },
       { type: "p", content: `No esperes el sonido ni la cancelación de unos premium, pero por lo que salen, la relación es imbatible. Si es tu primer par de inalámbricos o querés un repuesto barato y confiable, empezá por acá.` },
 
       { type: "pull-quote", content: `"Excelente en precio/calidad, creo que es lo mejor. Y eso que vengo de usar los AirPods Pro 2: estos buds no tienen nada que envidiarles en calidad de sonido, sinceramente."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Sony WH-CH520 — la mejor vincha` },
-      { type: "product-card", productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", ranking: 2, description: `Vincha inalámbrica con hasta 50 horas de batería. 4.8 estrellas en más de 13.000 calificaciones: la vincha más vendida del segmento.` },
-      { type: "p", content: `Si preferís el formato de vincha (más cómodo para muchas horas y con más batería), la Sony WH-CH520 es la elección. Da **hasta 50 horas de batería** (semanas de uso sin cargar), buen sonido para el precio y la comodidad de apoyar sobre la oreja, a alrededor de $85.000. Es la vincha más vendida, con más de 13.000 opiniones, y el respaldo de Sony en audio.` },
+      { type: "product-card", productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", ranking: 2, description: `Vincha inalámbrica con hasta 50 horas de batería. 4.9 estrellas en más de 56.000 calificaciones: la vincha más vendida del segmento.` },
+      { type: "p", content: `Si preferís el formato de vincha (más cómodo para muchas horas y con más batería), la Sony WH-CH520 es la elección. Da **hasta 50 horas de batería** (semanas de uso sin cargar), buen sonido para el precio y la comodidad de apoyar sobre la oreja, a alrededor de $85.000. Es la vincha más vendida, con más de 56.000 opiniones, y el respaldo de Sony en audio.` },
       { type: "p", content: `No tiene cancelación de ruido activa (para eso, mirá la JBL de abajo o la Sony WH-CH720N), pero para escuchar música y trabajar en casa con autonomía enorme, es difícil de superar por el precio. La vincha sensata para la mayoría.` },
 
       { type: "pull-quote", content: `"Lo usé en varias ocasiones por lapsos de 2 a 4 horas y la batería sigue en 70%. Es bastante cómodo y se escucha bien. Cumple."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Samsung Galaxy Buds3 Pro — los premium` },
-      { type: "product-card", productMlaId: "MLA38451794", label: "Los premium", labelColor: "purple", ranking: 3, description: `In-ear premium con cancelación activa de ruido y sonido de alta calidad. 4.8 estrellas en más de 800 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA38451794", label: "Los premium", labelColor: "purple", ranking: 3, description: `In-ear premium con cancelación activa de ruido y sonido de alta calidad. 4.8 estrellas en más de 7.600 calificaciones.` },
       { type: "p", content: `Si querés in-ear premium y no te importa pagarlo, los Galaxy Buds3 Pro son el salto de gama. Suman **cancelación activa de ruido**, mejor sonido y se integran fino con celulares Samsung, a alrededor de $355.000. Ojo: tienen muchas menos opiniones que los baratos de arriba (son más nuevos y caros), así que el respaldo de ventas todavía es chico. Son para quien valora la calidad de audio y la cancelación en un formato chico y discreto.` },
       { type: "p", content: `Es bastante más caro que el resto, así que solo lo justificás si el sonido premium y la cancelación en formato in-ear son prioridad. Para uso normal, los Redmi Buds dan el 80% por una fracción; los Galaxy Buds3 Pro son el salto a la gama alta.` },
 
@@ -2361,8 +2361,8 @@ export const guides: Guide[] = [
       { type: "p", content: `No compiten en sonido con los premium, pero para el gimnasio y salir a correr, la sujeción y el precio los hacen la opción lógica. Un par dedicado al deporte que no se te cae a mitad de serie.` },
 
       { type: "h3", title: `6. Lenovo LivePod LP75 — los más baratos` },
-      { type: "product-card", productMlaId: "MLA28026305", label: "Los más baratos", labelColor: "green", ranking: 6, description: `In-ear inalámbricos súper económicos, con más de 7.400 calificaciones. La opción más barata con respaldo real de ventas.` },
-      { type: "p", content: `Si lo único que importa es el precio, los Lenovo LivePod LP75 son de los más baratos con respaldo serio: más de 7.400 opiniones por alrededor de $44.000. Para un primer par, un repuesto o regalar, cumplen con lo básico. Frente a los Redmi Buds 6 Play, estos suelen ser apenas más caros y con muchas menos opiniones, así que en general el Xiaomi conviene más; pero si los conseguís mejor de precio, son una alternativa válida.` },
+      { type: "product-card", productMlaId: "MLA28026305", label: "Los más baratos", labelColor: "green", ranking: 6, description: `In-ear inalámbricos súper económicos, con más de 10.500 calificaciones. La opción más barata con respaldo real de ventas.` },
+      { type: "p", content: `Si lo único que importa es el precio, los Lenovo LivePod LP75 son de los más baratos con respaldo serio: más de 10.500 opiniones por alrededor de $44.000. Para un primer par, un repuesto o regalar, cumplen con lo básico. Frente a los Redmi Buds 6 Play, estos suelen ser apenas más caros y con muchas menos opiniones, así que en general el Xiaomi conviene más; pero si los conseguís mejor de precio, son una alternativa válida.` },
 
       { type: "h2", title: `Tabla comparativa: por tipo y uso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Ideal para`], rows: [
@@ -2393,7 +2393,7 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Depende del uso. Para **in-ear que anden bien sin gastar**, los **Xiaomi Redmi Buds 6 Play**: los más vendidos del país por lejos, imbatibles por precio. Si preferís **vincha cómoda con mucha batería**, la **Sony WH-CH520**. Si querés **cancelación de ruido** para aislarte, la **JBL Tune 770NC** (vincha) o los **Galaxy Buds3 Pro** (premium in-ear). Y para **deporte**, los **Alpina F50 Pro** con gancho no se caen al correr. El error a evitar: comprar el formato equivocado o pagar cancelación que no vas a usar. Para la mayoría, los Redmi Buds o la Sony WH-CH520 resuelven todo por poca plata.` },
     ],
     faq: [
-      { question: `¿Cuáles son los mejores auriculares inalámbricos en Argentina?`, answer: `Por ventas y relación precio, los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) en in-ear (más de 85.000 opiniones) y la [Sony WH-CH520](https://meli.la/2t24mSB) en vincha. Si querés cancelación de ruido, la [JBL Tune 770NC](https://meli.la/1mR75zc); para deporte, los [Alpina F50 Pro](https://meli.la/2UAS5x1); y en premium, los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6).` },
+      { question: `¿Cuáles son los mejores auriculares inalámbricos en Argentina?`, answer: `Por ventas y relación precio, los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) en in-ear (más de 195.000 opiniones) y la [Sony WH-CH520](https://meli.la/2t24mSB) en vincha. Si querés cancelación de ruido, la [JBL Tune 770NC](https://meli.la/1mR75zc); para deporte, los [Alpina F50 Pro](https://meli.la/2UAS5x1); y en premium, los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6).` },
       { question: `¿Qué diferencia hay entre auriculares in-ear y de vincha?`, answer: `Los in-ear (earbuds) se meten en la oreja, son chicos, discretos y portátiles, ideales para uso diario y la calle. Las vinchas apoyan sobre o alrededor de la oreja: más cómodas para muchas horas, con más batería y mejor sonido por el precio, pero abultan más. Para llevar siempre, in-ear; para comodidad y autonomía, vincha.` },
       { question: `¿Vale la pena la cancelación de ruido?`, answer: `Si viajás, usás colectivo o trabajás en lugares ruidosos, sí: la cancelación activa te aísla del ruido y mejora mucho la experiencia. La traen la [JBL Tune 770NC](https://meli.la/1mR75zc) y los [Galaxy Buds3 Pro](https://meli.la/1REUKv6). Si es para casa o la calle tranquila, podés ahorrártela y elegir algo más barato como la [Sony WH-CH520](https://meli.la/2t24mSB) o los Redmi Buds.` },
       { question: `¿Cuáles auriculares conviene para hacer deporte?`, answer: `Los que tienen gancho de oreja, que los sujetan firme y no se caen al correr. Los [Alpina F50 Pro](https://meli.la/2UAS5x1) son de los más vendidos en ese formato, inalámbricos y baratos. Los in-ear comunes pueden caerse durante el ejercicio, así que para el gimnasio o salir a correr, el gancho hace la diferencia.` },
@@ -2410,7 +2410,7 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
-  // SATÉLITE auriculares-jbl (silo audio) — STAGED
+  // SATÉLITE auriculares-jbl (silo audio)
   {
     slug: "auriculares-jbl",
     category: "auriculares",
@@ -2421,8 +2421,8 @@ export const guides: Guide[] = [
     ogTitle: `Auriculares JBL: cuál comprar en Argentina`,
     ogDescription: `In-ear Wave o vinchas Tune 520, 720 y 770NC. La gama de auriculares JBL comparada por tipo, cancelación de ruido y precio real de MercadoLibre.`,
     h1: `Auriculares JBL: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-08",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `JBL tiene auriculares para cada uso: in-ear para llevar y vinchas Tune con o sin cancelación de ruido. Te mostramos la gama ordenada, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
@@ -2447,15 +2447,15 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los mejores auriculares JBL 2026`, id: "ranking" },
 
       { type: "h3", title: `1. JBL Tune 520BT — la vincha más vendida` },
-      { type: "product-card", productMlaId: "MLA23997257", label: "La vincha más vendida", labelColor: "green", ranking: 1, description: `La vincha de entrada de JBL: más de 50 horas de batería y sonido de la marca, a buen precio. 4.8 estrellas en más de 1.500 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA23997257", label: "La vincha más vendida", labelColor: "green", ranking: 1, description: `La vincha de entrada de JBL: más de 50 horas de batería y sonido de la marca, a buen precio. 4.9 estrellas en más de 38.000 calificaciones.` },
       { type: "p", content: `Es el JBL que recomendamos para la mayoría que quiere una vincha. La Tune 520BT da **más de 50 horas de batería**, el sonido JBL y la comodidad del formato de vincha, a alrededor de $77.000. Sin cancelación de ruido, pero para escuchar música y hablar con autonomía enorme, cumple de sobra y es la más accesible de la línea.` },
       { type: "p", content: `Si no necesitás cancelación, es la compra lógica: das con lo esencial de JBL en vincha por el menor precio. Para subir un escalón de sonido, la 720BT; para cancelación, la 770NC.` },
 
       { type: "pull-quote", content: `"Se escucha muy bien, lo uso para ir al gimnasio y no se caen ni escucho el ruido de fondo. Tenía los 510 antes y la batería duraba un montón, espero lo mismo de estos."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. JBL Tune 720BT — la vincha mejorada` },
-      { type: "product-card", productMlaId: "MLA24519483", label: "Vincha mejorada", labelColor: "blue", ranking: 2, description: `Mejor sonido que la 520BT, la vincha Tune más elegida. 4.8 estrellas en más de 2.400 calificaciones.` },
-      { type: "p", content: `Si querés un paso más de calidad sin irte a la cancelación, la 720BT es el punto dulce. Mejora el sonido respecto de la 520BT, pasa a formato over-ear (envuelve la oreja, no apoya encima) y trae hasta 76 horas de batería, de las más altas del segmento, a alrededor de $106.000. Es la Tune con más opiniones de todas (más de 2.400). Para quien escucha bastante música y nota la diferencia de audio, vale la diferencia.` },
+      { type: "product-card", productMlaId: "MLA24519483", label: "Vincha mejorada", labelColor: "blue", ranking: 2, description: `Mejor sonido que la 520BT, la vincha Tune más elegida. 4.8 estrellas en más de 27.000 calificaciones.` },
+      { type: "p", content: `Si querés un paso más de calidad sin irte a la cancelación, la 720BT es el punto dulce. Mejora el sonido respecto de la 520BT, pasa a formato over-ear (envuelve la oreja, no apoya encima) y trae hasta 76 horas de batería, de las más altas del segmento, a alrededor de $106.000. Es la Tune con más opiniones de todas (más de 27.000). Para quien escucha bastante música y nota la diferencia de audio, vale la diferencia.` },
 
       { type: "pull-quote", content: `"Me duró tres semanas la batería, una maravilla, y si llevo el cable ni me haría falta cargarlo. Además viene con la app de JBL donde podés configurar el sonido. Los disfruto mucho."`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -2498,7 +2498,7 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
-  // SATÉLITE auriculares-deportivos (silo audio) — STAGED
+  // SATÉLITE auriculares-deportivos (silo audio)
   {
     slug: "auriculares-deportivos",
     category: "auriculares",
@@ -2509,8 +2509,8 @@ export const guides: Guide[] = [
     ogTitle: `Auriculares deportivos: cuál comprar para entrenar`,
     ogDescription: `Con gancho, open ear o in-ear: los auriculares para correr que no se caen, resistentes al agua. Comparados por tipo de sujeción y precio real de MercadoLibre.`,
     h1: `Auriculares deportivos: cuál comprar en Argentina para entrenar [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-08",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `Los auriculares comunes se caen al correr; los deportivos no. Te mostramos los tres formatos (con gancho, open ear e in-ear deportivo), cuál conviene según cómo entrenás y cuáles resisten el sudor y el agua, con precios reales de MercadoLibre.`,
@@ -2541,14 +2541,14 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"Son geniales y súper cómodos: para correr ni los sentís. La batería es muy duradera y recarga rápido. Cargué la caja una sola vez en la semana y dura. La mejor compra."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Vention Open Ear — para correr al aire libre` },
-      { type: "product-card", productMlaId: "MLA41013705", label: "Para correr al aire libre", labelColor: "blue", ranking: 2, description: `Formato open ear que no tapa el oído, IPX5 y hasta 35 horas de batería. 4.7 estrellas en 400 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA41013705", label: "Para correr al aire libre", labelColor: "blue", ranking: 2, description: `Formato open ear que no tapa el oído, IPX5 y hasta 35 horas de batería. 4.7 estrellas en 426 calificaciones.` },
       { type: "p", content: `Si corrés en la calle, estos son los más seguros. El formato **open ear** se apoya sin meterse en el oído, así que **escuchás el entorno** (autos, bocinas, gente) mientras entrenás, algo clave para correr en la vía pública. Suman resistencia al agua IPX5 (sudor y lluvia) y hasta 35 horas de batería, a alrededor de $26.000.` },
       { type: "p", content: `El compromiso es el aislamiento: al no tapar el oído, en lugares ruidosos se escuchan menos y pierden algo de graves. Pero para correr afuera con seguridad, es justamente lo que querés. Para gimnasio cerrado, el gancho de la Alpina aísla más.` },
 
       { type: "pull-quote", content: `"No hace falta subirle tanto el volumen, en nivel medio ya se escuchan espectaculares. Y lo mejor es que no van incrustados en la oreja, que es lo más molesto de algunos auriculares."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Lenovo XT80 — in-ear económico` },
-      { type: "product-card", productMlaId: "MLA43473453", label: "In-ear económico", labelColor: "purple", ranking: 3, description: `In-ear deportivos con buen agarre, inalámbricos y muy baratos. 4.6 estrellas en más de 650 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA43473453", label: "In-ear económico", labelColor: "purple", ranking: 3, description: `In-ear deportivos con buen agarre, inalámbricos y muy baratos. 4.6 estrellas en más de 2.500 calificaciones.` },
       { type: "p", content: `Si preferís el formato in-ear clásico para entrenar y gastar lo mínimo, los Lenovo XT80 son la opción. Son earbuds deportivos a alrededor de $33.000, más discretos que el gancho o el open ear, con buen respaldo de ventas. Para uso mixto (deporte y diario) y presupuesto ajustado, cumplen.` },
       { type: "p", content: `Al ser in-ear, se sujetan menos que los de gancho en movimiento intenso, así que para entrenamiento fuerte la Alpina es más segura. Pero como opción barata y versátil, los XT80 rinden bien.` },
 
@@ -2584,7 +2584,7 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más sobre audio",
   },
 
-  // SATÉLITE auriculares-profesionales (silo audio) — STAGED
+  // SATÉLITE auriculares-profesionales (silo audio)
   {
     slug: "auriculares-profesionales",
     category: "auriculares",
@@ -2595,8 +2595,8 @@ export const guides: Guide[] = [
     ogTitle: `Auriculares profesionales de estudio: cuál comprar`,
     ogDescription: `Para producir, grabar y mezclar: Audio-Technica ATH-M20x, M40x, M50x y Sennheiser HD 280 Pro comparados por uso y precio real de MercadoLibre. La guía honesta.`,
     h1: `Auriculares profesionales de estudio: cuál comprar en Argentina [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-26",
+    publishedDate: "2026-07-08",
+    updatedDate: "2026-07-08",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Los auriculares de estudio son herramientas para producir, grabar y mezclar, no para escuchar música por placer: suenan neutros a propósito. Te mostramos cuál conviene según tu uso, comparando los clásicos del rubro (Audio-Technica, Sennheiser) con precios reales de MercadoLibre.`,
@@ -2622,8 +2622,8 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los mejores auriculares de estudio 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Audio-Technica ATH-M20x — la mejor entrada` },
-      { type: "product-card", productMlaId: "MLA6343490", label: "La mejor entrada", labelColor: "green", ranking: 1, description: `El monitor de estudio más vendido: cerrado, con cable, sonido honesto para monitoreo. 4.9 estrellas en más de 2.200 calificaciones. La entrada ideal al estudio.` },
-      { type: "p", content: `Si empezás en producción, grabación o edición, es el que recomendamos. El ATH-M20x da el **sonido neutro y la construcción de Audio-Technica** al precio más accesible de la línea (alrededor de $150.000), con la mayor base de opiniones del segmento (más de 2.200). Para monitorear, grabar voces o editar video con audio confiable, cumple de sobra sin gastar de más.` },
+      { type: "product-card", productMlaId: "MLA6343490", label: "La mejor entrada", labelColor: "green", ranking: 1, description: `El monitor de estudio más vendido: cerrado, con cable, sonido honesto para monitoreo. 4.9 estrellas en más de 5.500 calificaciones. La entrada ideal al estudio.` },
+      { type: "p", content: `Si empezás en producción, grabación o edición, es el que recomendamos. El ATH-M20x da el **sonido neutro y la construcción de Audio-Technica** al precio más accesible de la línea (alrededor de $150.000), con la mayor base de opiniones del segmento (más de 5.500). Para monitorear, grabar voces o editar video con audio confiable, cumple de sobra sin gastar de más.` },
       { type: "p", content: `No es para escuchar música por placer (suena plano a propósito), pero como primera herramienta de estudio es imbatible. Cuando quieras más detalle o respuesta más neutra para mezcla, subís a los de abajo.` },
 
       { type: "pull-quote", content: `"Excelente relación calidad-precio, tiene una respuesta en frecuencia casi plana. La recomiendo si quieren dejar la respuesta lo más plana posible para producción musical."`, attribution: `Opinión verificada en MercadoLibre` },
@@ -2636,7 +2636,7 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"La calidad de audio es fabulosa. Estoy volviendo a escuchar todos mis discos preferidos y descubro detalles como si fuera la primera vez. Una excelente inversión para estudiar y producir."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Audio-Technica ATH-M40x — el más neutro` },
-      { type: "product-card", productMlaId: "MLA6337847", label: "El más neutro", labelColor: "purple", ranking: 3, description: `Respuesta de sonido plana, ideal para mezclar con referencia neutra. Cable desmontable. 4.9 estrellas en más de 1.000 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA6337847", label: "El más neutro", labelColor: "purple", ranking: 3, description: `Respuesta de sonido plana, ideal para mezclar con referencia neutra. Cable desmontable. 4.9 estrellas en más de 2.700 calificaciones.` },
       { type: "p", content: `Si tu prioridad es **mezclar con la referencia más honesta**, el M40x es la elección. Su respuesta es más plana que la del M50x (no realza graves), lo que para mezcla es una ventaja: escuchás el audio sin maquillaje y tomás mejores decisiones. A alrededor de $337.000, es el favorito de muchos para producción seria por esa neutralidad.` },
       { type: "p", content: `Entre el M40x y el M50x no hay uno "mejor": el M40x es más neutro (mejor para mezclar), el M50x más versátil y con más pegada. Elegís según si priorizás la precisión de mezcla o un sonido más completo.` },
 
@@ -2645,7 +2645,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Si grabás en ambientes con ruido o querés el mayor aislamiento, el Sennheiser HD 280 Pro es la opción. Su fuerte es el **aislamiento pasivo**: hasta 32 dB de atenuación solo por diseño (sin batería ni electrónica), ideal para tracking y grabación donde no querés que se filtre nada. Es de 64 ohms y baja hasta los 8 Hz. A alrededor de $325.000, es el clásico de Sennheiser para estudio y la alternativa a la línea M.` },
       { type: "p", content: `Tiene menos opiniones que los Audio-Technica en Argentina, pero es un referente histórico del rubro. Lo elegís si el aislamiento es tu prioridad o si preferís la firma de sonido Sennheiser.` },
 
-      { type: "callout", calloutVariant: "note", calloutTitle: "¿Querés premium pero para escuchar, no para producir?", content: `Si en realidad buscás auriculares premium para **disfrutar música** con cancelación de ruido (no monitores de estudio), el [Sony WH-1000XM5](https://meli.la/1JwhrZT) es la referencia: inalámbricos, con la mejor cancelación del mercado. Es otra cosa que los de estudio: estos suenan neutros para trabajar, el Sony suena "lindo" para escuchar.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "¿Querés premium pero para escuchar, no para producir?", content: `Si en realidad buscás auriculares premium para **disfrutar música** con cancelación de ruido (no monitores de estudio), esta no es tu guía: son otra categoría. Mirá la [guía general de auriculares inalámbricos](/guias/audio/auriculares-inalambricos). Los de estudio suenan neutros para trabajar; los de consumo con ANC suenan "lindo" para escuchar.` },
 
       { type: "h2", title: `Tabla comparativa: auriculares de estudio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Fuerte`, `Ideal para`], rows: [
@@ -2666,17 +2666,17 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**$150.000 a $159.000:** la entrada. El [ATH-M20x](https://meli.la/1UEeYbH) (el más vendido) y el [M30x](https://meli.la/2eP7p8D).`,
         `**$321.000 a $337.000:** la gama de producción seria. El [Sennheiser HD 280 Pro](https://meli.la/2QKcvdu) (aislamiento), el [M40x](https://meli.la/29PkMPt) (neutro) y el [M50x](https://meli.la/13WhHKh) (el estándar).`,
-        `**Si querés premium para escuchar (no estudio):** el [Sony WH-1000XM5](https://meli.la/1JwhrZT), inalámbrico con cancelación tope de gama. Otra categoría.`,
+        `**Si querés premium para escuchar (no estudio):** son otra categoría, con inalámbricos y cancelación de ruido. Mirá la [guía general de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).`,
       ] },
 
       { type: "h2", title: `Veredicto: cuáles auriculares de estudio comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para empezar, el **Audio-Technica ATH-M20x**: el monitor de estudio más vendido, con el sonido honesto de la marca al mejor precio. Para producción seria, el **ATH-M50x** (el estándar de la industria) o el **M40x** si priorizás la neutralidad para mezclar. Para máximo aislamiento en grabación, el **Sennheiser HD 280 Pro**. Lo clave: estos son herramientas para trabajar con audio, suenan neutros a propósito. Si lo que querés es disfrutar música con cancelación, el [Sony WH-1000XM5](https://meli.la/1JwhrZT) u otros de la [guía general](/guias/audio/auriculares-inalambricos) son lo tuyo.` },
+      { type: "verdict", content: `Para empezar, el **Audio-Technica ATH-M20x**: el monitor de estudio más vendido, con el sonido honesto de la marca al mejor precio. Para producción seria, el **ATH-M50x** (el estándar de la industria) o el **M40x** si priorizás la neutralidad para mezclar. Para máximo aislamiento en grabación, el **Sennheiser HD 280 Pro**. Lo clave: estos son herramientas para trabajar con audio, suenan neutros a propósito. Si lo que querés es disfrutar música con cancelación de ruido, los de la [guía general](/guias/audio/auriculares-inalambricos) son lo tuyo.` },
     ],
     faq: [
       { question: `¿Cuáles son los mejores auriculares de estudio en Argentina?`, answer: `Por ventas y reputación, la línea Audio-Technica M: el [ATH-M20x](https://meli.la/1UEeYbH) para empezar (el más vendido), el [ATH-M50x](https://meli.la/13WhHKh) como estándar de la industria, y el [M40x](https://meli.la/29PkMPt) por su neutralidad para mezcla. El [Sennheiser HD 280 Pro](https://meli.la/2QKcvdu) es la alternativa con más aislamiento.` },
       { question: `¿Sirven los auriculares de estudio para escuchar música?`, answer: `Se puede, pero no es para lo que están hechos: suenan neutros y planos a propósito, sin realzar graves como los de consumo, así que la música suena "menos emocionante". Para producir, grabar y mezclar son ideales; para disfrutar música por placer, conviene un auricular de consumo, como los de la [guía general](/guias/audio/auriculares-inalambricos).` },
       { question: `¿Qué diferencia hay entre el ATH-M40x y el M50x?`, answer: `El [M40x](https://meli.la/29PkMPt) tiene una respuesta más plana y neutra, ideal para mezclar con referencia honesta. El [M50x](https://meli.la/13WhHKh) realza un poco más los graves, lo que lo hace más versátil y disfrutable, además de ser el estándar más reconocido. Para mezcla pura, el M40x; para una herramienta versátil y famosa, el M50x.` },
-      { question: `¿Los auriculares de estudio son con cable o inalámbricos?`, answer: `Casi todos son con cable, y es lo que conviene en estudio: cero latencia (el audio llega sin retraso, clave para grabar y monitorear) y sin depender de batería. Los de esta guía son con cable, varios con cable desmontable y reemplazable. Si querés inalámbricos premium para escuchar, esa es otra categoría (como el [Sony WH-1000XM5](https://meli.la/1JwhrZT)).` },
+      { question: `¿Los auriculares de estudio son con cable o inalámbricos?`, answer: `Casi todos son con cable, y es lo que conviene en estudio: cero latencia (el audio llega sin retraso, clave para grabar y monitorear) y sin depender de batería. Los de esta guía son con cable, varios con cable desmontable y reemplazable. Si querés inalámbricos premium para escuchar, esa es otra categoría: mirá la [guía general de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).` },
       { question: `¿Necesito una placa o interfaz de audio para usarlos?`, answer: `Para la mayoría, no. Estos auriculares tienen impedancia baja (el [ATH-M20x](https://meli.la/1UEeYbH) 47 ohms, el [M40x](https://meli.la/29PkMPt) 35, el [M50x](https://meli.la/13WhHKh) 38), así que andan bien directo del celular, la notebook o una consola sin amplificar. El [Sennheiser HD 280 Pro](https://meli.la/2QKcvdu) es de 64 ohms: también funciona sin interfaz, aunque con un poco menos de volumen en equipos flojos. Si ya tenés una placa o interfaz para grabar, mejor todavía; pero no es un requisito para que suenen bien.` },
       { question: `¿Conviene abierto o cerrado para grabar?`, answer: `Para grabar (tracking), cerrado. Los cerrados, como todos los de esta guía, tapan el oído y no dejan que el sonido del auricular se filtre al micrófono ni que entre ruido de afuera, justo lo que querés al grabar voces o instrumentos. Los abiertos suenan más natural y amplio, pero filtran sonido en las dos direcciones, así que sirven para mezclar en un cuarto silencioso, no para grabar con micrófono al lado.` },
     ],

@@ -10553,7 +10553,7 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
     id: "MLA39962085",
     title: "Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro",
     canonicalName: "Auriculares Xiaomi Redmi Buds 6 Play",
-    price: 25500,
+    price: 33000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_802305-MLA95679505222_102025-F.jpg",
     images: [
@@ -10567,7 +10567,7 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 85626,
+    reviewCount: 197882,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -10590,12 +10590,12 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
     priceStatus: "fresh",
-    description: "Auriculares Xiaomi Redmi Buds 6 Play: in-ear inalámbricos, los más vendidos de Argentina (más de 85.000 calificaciones) a precio bajísimo. La compra segura para uso diario.",
+    description: "Auriculares Xiaomi Redmi Buds 6 Play: in-ear inalámbricos, los más vendidos de Argentina (más de 195.000 calificaciones) a precio bajísimo. La compra segura para uso diario.",
     seoTitle: "Xiaomi Redmi Buds 6 Play: el TWS barato más vendido",
-    metaDescription: "Análisis honesto de los Xiaomi Redmi Buds 6 Play: para quien quiere auriculares inalámbricos baratos para el día a día. Sin cancelación de ruido. 4.8 en 85.000 opiniones.",
-    verdict: "Para quien quiere auriculares inalámbricos baratos, sin complicarse: los Redmi Buds 6 Play son el TWS más vendido de Argentina (4.8 en más de 85.000 opiniones) por poco más de 23 lucas. Conexión Bluetooth 5.4, 36 horas de batería con el estuche y resistencia al sudor. Si buscás cancelación de ruido para el colectivo o el subte, no es para vos: no tienen ANC, solo reducción de ruido en las llamadas. Y si tenés iPhone, perdés el modo de baja latencia para jugar.",
+    metaDescription: "Análisis honesto de los Xiaomi Redmi Buds 6 Play: para quien quiere auriculares inalámbricos baratos para el día a día. Sin cancelación de ruido. 4.8 en 195.000 opiniones.",
+    verdict: "Para quien quiere auriculares inalámbricos baratos, sin complicarse: los Redmi Buds 6 Play son el TWS más vendido de Argentina (4.8 en más de 195.000 opiniones) por poco más de 23 lucas. Conexión Bluetooth 5.4, 36 horas de batería con el estuche y resistencia al sudor. Si buscás cancelación de ruido para el colectivo o el subte, no es para vos: no tienen ANC, solo reducción de ruido en las llamadas. Y si tenés iPhone, perdés el modo de baja latencia para jugar.",
     pros: [
-      "El TWS más vendido de Argentina: 4.8 estrellas en más de 85.000 opiniones",
+      "El TWS más vendido de Argentina: 4.8 estrellas en más de 195.000 opiniones",
       "Precio bajísimo para auriculares inalámbricos de marca conocida",
       "Hasta 36 horas de batería sumando el estuche (7,5 horas los auriculares solos)",
       "Bluetooth 5.4: conexión estable y carga por USB-C (10 minutos dan unas 2 horas)",
@@ -10611,7 +10611,7 @@ Las pegas son claras: 20W para un ambiente, carga lenta 5V 1A y sonido de fiesta
     ],
     articleBody: `## Qué son y para quién alcanzan
 
-Los Redmi Buds 6 Play son los auriculares inalámbricos más vendidos de Argentina: 4.8 estrellas en más de 85.000 opiniones, por poco más de 23 lucas. Son in-ear TWS (cada auricular suelto, con estuche de carga) de la línea más económica de Xiaomi.
+Los Redmi Buds 6 Play son los auriculares inalámbricos más vendidos de Argentina: 4.8 estrellas en más de 195.000 opiniones, por poco más de 23 lucas. Son in-ear TWS (cada auricular suelto, con estuche de carga) de la línea más económica de Xiaomi.
 
 Son para uso diario: escuchar música en el celular, atender llamadas, ver videos, salir a caminar. Si nunca tuviste inalámbricos y querés probar sin gastar, son la entrada lógica. Marca conocida, precio de los más bajos del mercado.
 
@@ -10639,7 +10639,7 @@ Tienen certificación IPX4. Aguantan sudor y lluvia liviana, así que para entre
 
 ## Para quién sí y para quién no
 
-Sí: si querés tus primeros inalámbricos, gastar poco, y los vas a usar para el día a día (música, llamadas, caminar, entrenar liviano). Por el precio y con 85.000 opiniones de respaldo, es la compra segura.
+Sí: si querés tus primeros inalámbricos, gastar poco, y los vas a usar para el día a día (música, llamadas, caminar, entrenar liviano). Por el precio y con 195.000 opiniones de respaldo, es la compra segura.
 
 No: si buscás cancelación de ruido para viajar, si sos exigente con el sonido, o si tenés iPhone y querés el modo de baja latencia para jugar. En esos casos conviene subir a un modelo con ANC.
 
@@ -10673,7 +10673,7 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
       },
       {
         question: "¿Son buenos por el precio?",
-        answer: "Son los más vendidos de Argentina con 4.8 estrellas en más de 85.000 opiniones, a poco más de 23 lucas. Para uso diario (música, llamadas, caminar) cumplen y la marca responde. No esperes calidad de sonido de gama alta ni aislamiento del ruido.",
+        answer: "Son los más vendidos de Argentina con 4.8 estrellas en más de 195.000 opiniones, a poco más de 23 lucas. Para uso diario (música, llamadas, caminar) cumplen y la marca responde. No esperes calidad de sonido de gama alta ni aislamiento del ruido.",
       },
     ],
   },
@@ -10682,6 +10682,7 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
     title: "Auriculares Inalámbricos Bluetooth Sony WH-CH520 Negro",
     canonicalName: "Auriculares Sony WH-CH520",
     price: 78999,
+    originalPrice: 109999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_932176-MLA99502277578_112025-F.jpg",
     images: [
@@ -10694,8 +10695,8 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
     affiliateUrl: "https://meli.la/2t24mSB",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 13754,
+    rating: 4.9,
+    reviewCount: 56817,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -10716,17 +10717,17 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
     priceStatus: "fresh",
-    description: "Auriculares Sony WH-CH520: vincha inalámbrica con hasta 50 horas de batería, la más vendida del segmento (más de 13.000 calificaciones). Comodidad y autonomía por buen precio.",
+    description: "Auriculares Sony WH-CH520: vincha inalámbrica con hasta 50 horas de batería, la más vendida del segmento (más de 56.000 calificaciones). Comodidad y autonomía por buen precio.",
     seoTitle: "Sony WH-CH520: la vincha barata de 50 horas, ¿conviene?",
     metaDescription: "Sony WH-CH520: vincha Bluetooth con 50 horas de batería y app con ecualizador. Buena para uso diario sin gastar de más. No tiene cancelación de ruido ni cable.",
-    verdict: "Para quien quiere una vincha Sony barata para el día a día, escuchar música, podcasts y atender llamadas, la WH-CH520 cumple: 50 horas de batería reales, 147 gramos, app con ecualizador y 4.8 estrellas en más de 13.000 opiniones. Si buscás cancelación activa de ruido para el colectivo o la oficina, o querés conectarla por cable, no es para vos: no tiene ninguna de las dos cosas.",
+    verdict: "Para quien quiere una vincha Sony barata para el día a día, escuchar música, podcasts y atender llamadas, la WH-CH520 cumple: 50 horas de batería reales, 147 gramos, app con ecualizador y 4.9 estrellas en más de 56.000 opiniones. Si buscás cancelación activa de ruido para el colectivo o la oficina, o querés conectarla por cable, no es para vos: no tiene ninguna de las dos cosas.",
     pros: [
       "50 horas de batería con una carga, de lo mejor del segmento; con 3 minutos de carga rinde 90 minutos",
       "Liviana: 147 gramos, se banca usarla varias horas seguidas",
       "App Sony Headphones Connect con ecualizador y presets para ajustar graves y agudos",
       "Multipoint: se conecta a dos equipos a la vez (celu y compu) y cambia entre ellos",
       "Bluetooth 5.2 con códecs SBC y AAC, conexión estable",
-      "Respaldo de marca con service local y 4.8 estrellas en más de 13.000 opiniones",
+      "Respaldo de marca con service local y 4.9 estrellas en más de 56.000 opiniones",
     ],
     cons: [
       "No tiene cancelación activa de ruido: solo aísla por las almohadillas, poco en ambientes ruidosos",
@@ -10772,7 +10773,7 @@ No, si necesitás cancelación de ruido para aislarte en transporte o oficina, s
 
 ## Veredicto
 
-La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería brutal y app de Sony. El respaldo de 4.8 estrellas en más de 13.000 opiniones lo confirma. Entrás sabiendo que resignás cancelación de ruido y cable, y a ese precio el trato es justo.`,
+La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería brutal y app de Sony. El respaldo de 4.9 estrellas en más de 56.000 opiniones lo confirma. Entrás sabiendo que resignás cancelación de ruido y cable, y a ese precio el trato es justo.`,
     faq: [
       {
         question: "¿La Sony WH-CH520 tiene cancelación de ruido?",
@@ -10809,6 +10810,7 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
     title: "Samsung Galaxy Buds3 Pro Color Grafito",
     canonicalName: "Auriculares Samsung Galaxy Buds3 Pro",
     price: 354999,
+    originalPrice: 499000,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_652688-MLA96099645533_102025-F.jpg",
     images: [
@@ -10822,7 +10824,7 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 828,
+    reviewCount: 7619,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -10838,19 +10840,19 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
       { label: "Compatibilidad plena", value: "Funciones avanzadas requieren celular Samsung Galaxy reciente" },
     ],
     relatedProducts: ["MLA39962085", "MLA53285777"],
-    priceUpdated: "2026-07-05",
-    priceLastChecked: "2026-07-05",
+    priceUpdated: "2026-07-08",
+    priceLastChecked: "2026-07-08",
     priceStatus: "fresh",
     description: "Auriculares Samsung Galaxy Buds3 Pro: in-ear premium con cancelación activa de ruido y sonido de alta calidad. La opción de gama alta para quien busca lo mejor.",
     seoTitle: "Samsung Galaxy Buds3 Pro: review honesto y para quién",
     metaDescription: "Samsung Galaxy Buds3 Pro grafito: in-ear premium con ANC adaptativo e IP57. Brillan con celular Galaxy; en iPhone perdés funciones. Para quién sí y para quién no.",
-    verdict: "Para quien tiene un celular Samsung Galaxy y quiere lo mejor en in-ear: doble driver (10,5 mm dinámico + 6,1 mm planar), cancelación de ruido adaptativa, IP57 y 4,8 estrellas en 827 opiniones. Si usás iPhone o un Android de otra marca, no es para vos: la mitad de la gracia (traducción en vivo, ajustes con IA, audio de alta calidad) queda atada al ecosistema Galaxy y la perdés.",
+    verdict: "Para quien tiene un celular Samsung Galaxy y quiere lo mejor en in-ear: doble driver (10,5 mm dinámico + 6,1 mm planar), cancelación de ruido adaptativa, IP57 y 4,8 estrellas en más de 7.600 opiniones. Si usás iPhone o un Android de otra marca, no es para vos: la mitad de la gracia (traducción en vivo, ajustes con IA, audio de alta calidad) queda atada al ecosistema Galaxy y la perdés.",
     pros: [
       "Doble driver por auricular (10,5 mm dinámico + 6,1 mm planar) con amplificador independiente: más detalle que un in-ear de un solo driver",
       "Cancelación de ruido adaptativa que ajusta sola según el ambiente, más sonido ambiente y 360 audio",
       "IP57: aguanta sudor, lluvia y hasta una mojada corta, sirve para entrenar",
       "Bluetooth 5.4 y estuche con carga total de hasta 26 horas con ANC encendido",
-      "Respaldo de marca con service en Argentina y 4,8 estrellas en 827 opiniones",
+      "Respaldo de marca con service en Argentina y 4,8 estrellas en más de 7.600 opiniones",
     ],
     cons: [
       "Las funciones que lo hacen Pro (traducción en vivo, ajustes con IA, códec de alta calidad) requieren un celular Samsung Galaxy reciente; en iPhone o en otro Android quedan capadas",
@@ -10863,7 +10865,7 @@ La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería bruta
 
 Los Samsung Galaxy Buds3 Pro son el in-ear de gama alta de Samsung. Auriculares true wireless con cancelación activa de ruido, doble driver por oído y certificación IP57. La versión de esta publicación es la grafito.
 
-Tienen 4,8 estrellas en 827 opiniones. Son para quien ya está en el mundo Samsung y quiere el tope de gama en auriculares chicos.
+Tienen 4,8 estrellas en más de 7.600 opiniones. Son para quien ya está en el mundo Samsung y quiere el tope de gama en auriculares chicos.
 
 Si usás iPhone o un Android que no sea Galaxy, frená. Funcionan, pero perdés buena parte de lo que pagás.
 
@@ -10939,7 +10941,7 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
     id: "MLA53285777",
     title: "Auriculares Inalambricos Jbl Tune 770nc Over Ear Color Negro",
     canonicalName: "Auriculares JBL Tune 770NC",
-    price: 159952,
+    price: 159218,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_797671-MLA88854192736_082025-F.jpg",
     images: [
@@ -10953,7 +10955,7 @@ Buen auricular, condicionado. Suena muy bien, está bien construido y resiste el
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 1034,
+    reviewCount: 1096,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11084,7 +11086,7 @@ Un auricular de gama media honesto. La batería y el precio son lo más fuerte; 
     condition: "new",
     freeShipping: true,
     rating: 4.6,
-    reviewCount: 3040,
+    reviewCount: 3075,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11187,7 +11189,7 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
       },
       {
         question: "¿Conviene los Alpina F50 Pro o unos Lenovo LivePod LP75?",
-        answer: "Si lo que querés es que no se caigan al correr, los Alpina ganan por el gancho de oreja. Los Lenovo LP75 son in-ear comunes, más económicos y con más calificaciones (más de 7.400), pero sin sujeción deportiva. Para deporte, gancho; para uso diario barato, los Lenovo.",
+        answer: "Si lo que querés es que no se caigan al correr, los Alpina ganan por el gancho de oreja. Los Lenovo LP75 son in-ear comunes, más económicos y con más calificaciones (más de 10.500), pero sin sujeción deportiva. Para deporte, gancho; para uso diario barato, los Lenovo.",
       },
       {
         question: "¿Cómo se cargan?",
@@ -11199,7 +11201,7 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
     id: "MLA28026305",
     title: "Auriculares Inalámbricos Lenovo Livepod Lp75 Bluetooth Negro",
     canonicalName: "Auriculares Lenovo LivePod LP75",
-    price: 46285,
+    price: 32572,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_765001-MLA99968188569_112025-F.jpg",
     images: [
@@ -11213,7 +11215,7 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 7468,
+    reviewCount: 10531,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11234,17 +11236,17 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
     priceStatus: "fresh",
-    description: "Auriculares Lenovo LivePod LP75: in-ear inalámbricos súper baratos con más de 7.400 calificaciones. La opción más económica con respaldo real de ventas.",
+    description: "Auriculares Lenovo LivePod LP75: in-ear inalámbricos súper baratos con más de 10.500 calificaciones. La opción más económica con respaldo real de ventas.",
     seoTitle: "Lenovo LivePod LP75: los más baratos con gancho deportivo",
     metaDescription: "Auriculares Lenovo LivePod LP75: in-ear con gancho de oreja para correr y entrenar, Bluetooth 5.3 y estuche con pantalla. Para quién sirven y para quién no.",
-    verdict: "Para quien quiere auriculares baratos que no se le caigan corriendo o en el gym, el LP75 cumple: gancho de oreja, Bluetooth 5.3, estuche con pantalla de batería y 4.6 estrellas en más de 7.400 opiniones. Si querés algo discreto para usar todo el día, sonido cuidado o resistencia al agua certificada, no es para vos: es un deportivo voluminoso, de audio básico y sin grado IP declarado.",
+    verdict: "Para quien quiere auriculares baratos que no se le caigan corriendo o en el gym, el LP75 cumple: gancho de oreja, Bluetooth 5.3, estuche con pantalla de batería y 4.6 estrellas en más de 10.500 opiniones. Si querés algo discreto para usar todo el día, sonido cuidado o resistencia al agua certificada, no es para vos: es un deportivo voluminoso, de audio básico y sin grado IP declarado.",
     pros: [
       "Gancho de oreja: quedan firmes corriendo, saltando o en la cinta, no se caen",
       "Bluetooth 5.3, más estable y de menor latencia que versiones viejas",
       "Estuche con pantalla LED que muestra el porcentaje de batería",
       "Carga por USB-C, el conector que ya usás en casi todo",
       "Autonomía cómoda: unas 6 horas por carga y cerca de 28 con el estuche",
-      "4.6 estrellas en más de 7.400 opiniones: respaldo de ventas real para el precio",
+      "4.6 estrellas en más de 10.500 opiniones: respaldo de ventas real para el precio",
     ],
     cons: [
       "No declara grado de resistencia al agua (IP): para sudor zafa, pero no es para lluvia ni agua",
@@ -11255,7 +11257,7 @@ A 24.875 pesos, con gancho de oreja, Bluetooth 5.3 y 4.7 estrellas en más de 3.
     ],
     articleBody: `## Para quién es (y para quién no)
 
-El Lenovo LivePod LP75 es para quien entrena y se cansó de que los auriculares se le caigan. El gancho de oreja los traba y no se mueven aunque corras o saltes. Son de los más baratos de su tipo y tienen respaldo de ventas: 4.6 estrellas en más de 7.400 opiniones.
+El Lenovo LivePod LP75 es para quien entrena y se cansó de que los auriculares se le caigan. El gancho de oreja los traba y no se mueven aunque corras o saltes. Son de los más baratos de su tipo y tienen respaldo de ventas: 4.6 estrellas en más de 10.500 opiniones.
 
 No son para todos. Si buscás algo discreto para usar en la oficina o abajo de un gorro, el gancho molesta y se nota. Si querés sonido cuidado o cancelación de ruido, este no es. Y si pensás usarlos bajo lluvia, ojo: no declaran grado de resistencia al agua.
 
@@ -11317,7 +11319,7 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
       },
       {
         question: "¿Vale la pena el Lenovo LP75 o conviene gastar más?",
-        answer: "Conviene si tu prioridad es que no se caigan entrenando y gastar poco: tienen 4.6 estrellas en más de 7.400 opiniones. Si te importa el sonido, querés cancelación de ruido o resistencia al agua certificada, conviene subir de presupuesto a una marca como JBL.",
+        answer: "Conviene si tu prioridad es que no se caigan entrenando y gastar poco: tienen 4.6 estrellas en más de 10.500 opiniones. Si te importa el sonido, querés cancelación de ruido o resistencia al agua certificada, conviene subir de presupuesto a una marca como JBL.",
       },
     ],
   },
@@ -11340,7 +11342,7 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 661,
+    reviewCount: 687,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11365,14 +11367,14 @@ Si en cambio buscás algo discreto, sonido cuidado, cancelación de ruido o resi
     description: "Auriculares JBL Wave Beam 2: in-ear inalámbricos con sonido JBL, para uso diario y llamadas. La entrada in-ear de la marca.",
     seoTitle: "JBL Wave Beam 2: review honesta del in-ear con ANC",
     metaDescription: "In-ear JBL con cancelación de ruido, 40 horas de batería y USB-C. Para uso diario y llamadas. Lo bueno, la contra real y para quién conviene.",
-    verdict: "Para uso diario, llamadas y algo de cancelación de ruido sin gastar de más, el Wave Beam 2 cumple: 40 horas de batería con el estuche, ANC, USB-C y 4.8 estrellas en 638 opiniones. Si buscás audio de alta fidelidad (aptX o LDAC) o que la cancelación te tape el subte entero, no es para vos: usa solo códecs estándar SBC y AAC y su ANC es de gama de entrada.",
+    verdict: "Para uso diario, llamadas y algo de cancelación de ruido sin gastar de más, el Wave Beam 2 cumple: 40 horas de batería con el estuche, ANC, USB-C y 4.8 estrellas en 687 opiniones. Si buscás audio de alta fidelidad (aptX o LDAC) o que la cancelación te tape el subte entero, no es para vos: usa solo códecs estándar SBC y AAC y su ANC es de gama de entrada.",
     pros: [
       "Cancelación de ruido activa más modo Smart Ambient en un in-ear de precio accesible",
       "Batería real: 10 horas por carga y hasta 40 horas con el estuche (ANC apagado)",
       "Carga rápida por USB-C: 10 minutos te dan 3 horas de reproducción",
       "IP54: aguanta sudor y salpicaduras, sirve para entrenar o caminar bajo llovizna",
       "Multipunto: se conecta a dos dispositivos a la vez (ej celular y notebook)",
-      "JBL con service local, 4.8 estrellas en 638 opiniones y app para ecualizar",
+      "JBL con service local, 4.8 estrellas en 687 opiniones y app para ecualizar",
     ],
     cons: [
       "Solo códecs SBC y AAC: no hay aptX ni LDAC, así que no es para quien busca alta fidelidad",
@@ -11419,7 +11421,7 @@ No, si sos exigente con el audio (aptX/LDAC), querés aislarte por completo en l
 
 ## Veredicto
 
-El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería, USB-C, IP54 y multipunto, con el respaldo de JBL y 4.8 estrellas en 638 opiniones. La contra es clara y esperable al precio: códecs básicos, ANC moderado y sin extras premium. Si entendés que es un auricular de uso diario y no un equipo audiófilo, cumple lo que promete.`,
+El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería, USB-C, IP54 y multipunto, con el respaldo de JBL y 4.8 estrellas en 687 opiniones. La contra es clara y esperable al precio: códecs básicos, ANC moderado y sin extras premium. Si entendés que es un auricular de uso diario y no un equipo audiófilo, cumple lo que promete.`,
     faq: [
       {
         question: "¿El JBL Wave Beam 2 tiene cancelación de ruido?",
@@ -11469,7 +11471,7 @@ El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería,
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 1595,
+    reviewCount: 38017,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11494,14 +11496,14 @@ El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería,
     description: "Auriculares JBL Tune 520BT: vincha on-ear con más de 50 horas de batería y sonido JBL, a buen precio. La entrada a las vinchas de la marca.",
     seoTitle: "JBL Tune 520BT: ficha honesta, batería y contras",
     metaDescription: "JBL Tune 520BT: vincha on-ear con 57 h de batería y Bluetooth 5.3, sin cancelación de ruido. Para quién conviene y para quién no. Specs reales y la pega.",
-    verdict: "Para quien quiere entrar a las vinchas JBL gastando poco y le importa la autonomía, la Tune 520BT cumple: 57 horas de batería, Bluetooth 5.3 con conexión a dos dispositivos y 4.8 estrellas en más de 1.600 opiniones. Si buscás cancelación de ruido para el colectivo o el avión, o te molesta la presión de una vincha on-ear, no es para vos: no tiene ANC, aísla poco y aprieta sobre la oreja.",
+    verdict: "Para quien quiere entrar a las vinchas JBL gastando poco y le importa la autonomía, la Tune 520BT cumple: 57 horas de batería, Bluetooth 5.3 con conexión a dos dispositivos y 4.8 estrellas en más de 38.000 opiniones. Si buscás cancelación de ruido para el colectivo o el avión, o te molesta la presión de una vincha on-ear, no es para vos: no tiene ANC, aísla poco y aprieta sobre la oreja.",
     pros: [
       "57 horas de batería reales y carga rápida: 5 minutos enchufada dan 3 horas de uso",
       "Bluetooth 5.3 con multipunto: se conecta al celular y a la notebook al mismo tiempo",
       "Liviana (cerca de 160 g) y plegable, entra en cualquier mochila",
       "Tiene micrófono para llamadas con manos libres",
       "App JBL gratis para ajustar el ecualizador a tu gusto",
-      "4.8 estrellas en más de 1.600 opiniones, con service oficial de la marca en el país",
+      "4.8 estrellas en más de 38.000 opiniones, con service oficial de la marca en el país",
     ],
     cons: [
       "No tiene cancelación de ruido activa (ANC) y el aislamiento pasivo es flojo: no sirve para avión ni para la calle ruidosa",
@@ -11514,7 +11516,7 @@ El Wave Beam 2 es un in-ear de entrada bien resuelto: ANC, 40 horas de batería,
 
 La JBL Tune 520BT es la vincha on-ear más barata de JBL. On-ear quiere decir que el almohadón apoya sobre la oreja, no la rodea entera como las grandes. Es para uso diario: música, videos, llamadas, estudiar. Liviana, plegable y con una batería que dura muchísimo.
 
-No es una vincha para audiófilos ni para silenciar el mundo. Es la puerta de entrada a la marca a buen precio, con 4.8 estrellas en más de 1.600 opiniones.
+No es una vincha para audiófilos ni para silenciar el mundo. Es la puerta de entrada a la marca a buen precio, con 4.8 estrellas en más de 38.000 opiniones.
 
 ## La batería es lo más fuerte
 
@@ -11592,7 +11594,7 @@ La Tune 520BT hace bien lo básico: suena correcta, dura muchísimo y cuesta poc
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 2498,
+    reviewCount: 27666,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11620,14 +11622,14 @@ La Tune 520BT hace bien lo básico: suena correcta, dura muchísimo y cuesta poc
     description: "Auriculares JBL Tune 720BT: vincha on-ear con mejor sonido que la 520BT, sin cancelación. El punto medio de las vinchas JBL.",
     seoTitle: "JBL Tune 720BT: vincha Bluetooth sin ANC, 76h batería",
     metaDescription: "JBL Tune 720BT: vincha over-ear Bluetooth con 76 horas de batería y graves Pure Bass, sin cancelación activa. Para quién conviene y para quién no, con datos reales.",
-    verdict: "Para quien quiere una vincha JBL con mucha batería, graves marcados y multipoint para saltar del celu a la notebook, la 720BT cumple: 76 horas, Bluetooth 5.3, app con ecualizador y 4.8 estrellas en más de 2.400 opiniones. Si buscás cancelación activa de ruido para el bondi o el avión, no es para vos: la 720BT no trae ANC, solo aísla por las almohadillas.",
+    verdict: "Para quien quiere una vincha JBL con mucha batería, graves marcados y multipoint para saltar del celu a la notebook, la 720BT cumple: 76 horas, Bluetooth 5.3, app con ecualizador y 4.8 estrellas en más de 27.000 opiniones. Si buscás cancelación activa de ruido para el bondi o el avión, no es para vos: la 720BT no trae ANC, solo aísla por las almohadillas.",
     pros: [
       "76 horas de batería declaradas: la cargás una vez por semana y olvidate",
       "Carga rápida USB-C: 5 minutos te dan 3 horas más de música",
       "Multipoint: conectada al celu y a la notebook al mismo tiempo, sin desemparejar",
       "App JBL con ecualizador para ajustar los graves a tu gusto",
       "Plegable y liviana (unos 220 g), entra en la mochila sin ocupar lugar",
-      "4.8 estrellas en más de 2.400 opiniones: respaldo de ventas alto en ML",
+      "4.8 estrellas en más de 27.000 opiniones: respaldo de ventas alto en ML",
     ],
     cons: [
       "No tiene cancelación activa de ruido (ANC): solo aísla por las almohadillas, en colectivo o avión vas a escuchar el ambiente",
@@ -11641,7 +11643,7 @@ La JBL Tune 720BT es una vincha over-ear inalámbrica de gama de entrada. Apunta
 
 Está en el punto medio de la línea Tune. Mejora a la 520BT en sonido y batería, pero no llega a las vinchas con ANC. Si tu uso es escuchar música, ver videos y atender llamadas en casa, en la oficina o caminando, alcanza de sobra.
 
-Cuesta 107.999 pesos y tiene envío gratis. En ML lleva 4.8 estrellas sobre más de 2.400 opiniones, así que el respaldo de ventas es alto.
+Cuesta 107.999 pesos y tiene envío gratis. En ML lleva 4.8 estrellas sobre más de 27.000 opiniones, así que el respaldo de ventas es alto.
 
 ## Las funciones clave
 
@@ -11677,7 +11679,7 @@ No, si lo que buscás es cancelación activa de ruido para viajes, o sonido neut
 
 ## Veredicto
 
-La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, multipoint y app con ecualizador, respaldada por 4.8 estrellas en más de 2.400 opiniones. El techo es claro: sin ANC y sin resistencia al agua. Si eso no te hace falta, es de las JBL inalámbricas más equilibradas en su precio.`,
+La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, multipoint y app con ecualizador, respaldada por 4.8 estrellas en más de 27.000 opiniones. El techo es claro: sin ANC y sin resistencia al agua. Si eso no te hace falta, es de las JBL inalámbricas más equilibradas en su precio.`,
     faq: [
       {
         question: "¿La JBL Tune 720BT tiene cancelación de ruido?",
@@ -11727,7 +11729,7 @@ La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, mu
     condition: "new",
     freeShipping: true,
     rating: 4.7,
-    reviewCount: 662,
+    reviewCount: 2506,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11744,13 +11746,13 @@ La 720BT es una vincha honesta de entrada: batería enorme, graves Pure Bass, mu
       { label: "Controles", value: "Botones físicos" },
     ],
     relatedProducts: ["MLA41255867", "MLA41013705"],
-    priceUpdated: "2026-07-05",
-    priceLastChecked: "2026-07-05",
+    priceUpdated: "2026-07-08",
+    priceLastChecked: "2026-07-08",
     priceStatus: "fresh",
     description: "Auriculares deportivos Lenovo XT80: in-ear para deporte, inalámbricos y económicos, con buen respaldo de ventas. La opción barata para entrenar.",
     seoTitle: "Lenovo XT80: review honesta de los auriculares deportivos",
     metaDescription: "Lenovo XT80: in-ear deportivos baratos con Bluetooth 5.3, IPX5 y gancho. Para entrenar sin gastar. Ojo: la \"cancelación de ruido\" es para llamadas, no ANC real.",
-    verdict: "Para quien entrena y quiere auriculares baratos que no se caigan ni se arruinen con el sudor, el Lenovo XT80 cumple: gancho de oreja, IPX5, Bluetooth 5.3 y 4.6 estrellas en más de 650 opiniones. Para quien busca cancelación de ruido de verdad (esa que tapa el ruido del colectivo mientras escuchás música), no es: el XT80 reduce ruido solo en llamadas, no en lo que oís.",
+    verdict: "Para quien entrena y quiere auriculares baratos que no se caigan ni se arruinen con el sudor, el Lenovo XT80 cumple: gancho de oreja, IPX5, Bluetooth 5.3 y 4.7 estrellas en más de 2.500 opiniones. Para quien busca cancelación de ruido de verdad (esa que tapa el ruido del colectivo mientras escuchás música), no es: el XT80 reduce ruido solo en llamadas, no en lo que oís.",
     pros: [
       "Gancho de oreja: se quedan puestos corriendo o en el gimnasio, no se caen",
       "IPX5: aguantan sudor y salpicaduras, pensados para entrenar",
@@ -11828,7 +11830,7 @@ El Lenovo XT80 es una compra honesta si sabés qué estás comprando: auriculare
     id: "MLA41013705",
     title: "Auriculares Bluetooth Vention Open Ear Ipx5 Deportivo 35 Hs Negro",
     canonicalName: "Auriculares Deportivos Vention Open Ear",
-    price: 29152,
+    price: 29129,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_847250-MLA99998945373_112025-F.jpg",
     images: [
@@ -11842,7 +11844,7 @@ El Lenovo XT80 es una compra honesta si sabés qué estás comprando: auriculare
     condition: "new",
     freeShipping: true,
     rating: 4.6,
-    reviewCount: 408,
+    reviewCount: 426,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11864,14 +11866,14 @@ El Lenovo XT80 es una compra honesta si sabés qué estás comprando: auriculare
     description: "Auriculares Vention Open Ear: formato abierto que no tapa el oído, ideal para correr al aire libre oyendo el entorno. IPX5 y 35 horas de batería.",
     seoTitle: "Vention OpenBeat O11 Open Ear: para correr seguro",
     metaDescription: "Los Vention OpenBeat O11 son open ear para correr al aire libre oyendo el entorno: IPX5 y 35 hs con estuche. No aíslan ni dan graves. Para quién sí y para quién no.",
-    verdict: "Para quien corre o anda en bici al aire libre y necesita escuchar el tránsito mientras escucha música, los Vention OpenBeat O11 cumplen: open ear que no tapa el oído, IPX5 contra sudor y lluvia, y 35 horas con el estuche. 4.7 estrellas en 400 opiniones. Si querés aislarte del ruido en el colectivo, sentir graves o cancelación de ruido, no son para vos: el formato abierto deja entrar el sonido de afuera y deja salir algo del tuyo.",
+    verdict: "Para quien corre o anda en bici al aire libre y necesita escuchar el tránsito mientras escucha música, los Vention OpenBeat O11 cumplen: open ear que no tapa el oído, IPX5 contra sudor y lluvia, y 35 horas con el estuche. 4.7 estrellas en 426 opiniones. Si querés aislarte del ruido en el colectivo, sentir graves o cancelación de ruido, no son para vos: el formato abierto deja entrar el sonido de afuera y deja salir algo del tuyo.",
     pros: [
       "Open ear: no tapan el oido, escuchas el transito y el entorno mientras corres",
       "IPX5 contra sudor y lluvia, sirve para entrenar afuera",
       "Hasta 35 horas de bateria sumando el estuche de carga",
       "Bluetooth 5.3 y carga por USB-C",
       "Controles tactiles y microfono para atender llamadas",
-      "4.7 estrellas en 400 opiniones, precio de gama de entrada",
+      "4.7 estrellas en 426 opiniones, precio de gama de entrada",
     ],
     cons: [
       "Al ser open ear el sonido se escapa: en lugares silenciosos los de al lado te escuchan algo",
@@ -11912,7 +11914,7 @@ Y un punto de honestidad: Vention es una marca económica sin un service oficial
 
 ## Veredicto
 
-Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del tránsito, los OpenBeat O11 hacen bien ese trabajo a precio de entrada: IPX5, livianos y con buena autonomía sumando el estuche. El respaldo de 4.7 estrellas en 400 opiniones acompaña. Si tu prioridad es aislarte, sentir graves o tener cancelación de ruido, pasá a un in-ear cerrado: para eso el open ear no está pensado.`,
+Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del tránsito, los OpenBeat O11 hacen bien ese trabajo a precio de entrada: IPX5, livianos y con buena autonomía sumando el estuche. El respaldo de 4.7 estrellas en 426 opiniones acompaña. Si tu prioridad es aislarte, sentir graves o tener cancelación de ruido, pasá a un in-ear cerrado: para eso el open ear no está pensado.`,
     faq: [
       {
         question: "¿Los Vention OpenBeat O11 son de conduccion osea?",
@@ -11949,8 +11951,8 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
     id: "MLA6343490",
     title: "Auriculares Audio-Technica M-Series ATH-M20x Negro",
     canonicalName: "Audio-Technica ATH-M20x",
-    price: 151000,
-    originalPrice: 169900,
+    price: 147312,
+    originalPrice: 163680,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_674344-MLA99851589465_112025-F.jpg",
     images: [
@@ -11963,8 +11965,8 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
     affiliateUrl: "https://meli.la/1UEeYbH",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 2307,
+    rating: 4.9,
+    reviewCount: 5543,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -11986,17 +11988,17 @@ Si corrés o pedaleás afuera y querés escuchar música sin desconectarte del t
     priceUpdated: "2026-07-08",
     priceLastChecked: "2026-07-08",
     priceStatus: "fresh",
-    description: "Audio-Technica ATH-M20x: la entrada a los auriculares de estudio, cerrados y con cable, para monitoreo y edición. El estudio más vendido, con más de 2.200 calificaciones.",
+    description: "Audio-Technica ATH-M20x: la entrada a los auriculares de estudio, cerrados y con cable, para monitoreo y edición. El estudio más vendido, con más de 5.500 calificaciones.",
     seoTitle: "Audio-Technica ATH-M20x: el estudio de entrada (review)",
     metaDescription: "Review honesta del Audio-Technica ATH-M20x: para quien arranca a grabar, editar o monitorear con cable. Specs reales, contras y para quien no es.",
-    verdict: "Para quien arranca a grabar, editar video o monitorear y quiere un auricular de estudio con cable sin gastar de más, el ATH-M20x es la puerta de entrada: cerrado, sonido parejo, marca seria y 4.9 estrellas en más de 2.200 opiniones. Si querés graves marcados para escuchar música, llevarlos a entrenar o un cable que puedas reemplazar, este no es: el cable viene fijo, los graves son flacos y el formato es para estar sentado, no en movimiento.",
+    verdict: "Para quien arranca a grabar, editar video o monitorear y quiere un auricular de estudio con cable sin gastar de más, el ATH-M20x es la puerta de entrada: cerrado, sonido parejo, marca seria y 4.9 estrellas en más de 5.500 opiniones. Si querés graves marcados para escuchar música, llevarlos a entrenar o un cable que puedas reemplazar, este no es: el cable viene fijo, los graves son flacos y el formato es para estar sentado, no en movimiento.",
     pros: [
       "Sonido parejo y honesto: mids planos que sirven para monitorear y editar sin que el auricular te 'maquille' la mezcla",
       "Cerrados y circumaurales: tapan el oido y dejan algo de aislamiento para grabar voz o instrumento",
       "Driver de 40 mm con impedancia baja (47 ohm): suenan fuerte directo del celular o la placa, sin amplificador aparte",
       "Livianos (unos 190 g sin cable): aguantan sesiones largas sentado sin que te pese la cabeza",
       "Marca seria (Audio-Technica) con la M-Series como estandar de estudio barato",
-      "Respaldo real: 4.9 estrellas en mas de 2.200 opiniones en MercadoLibre",
+      "Respaldo real: 4.9 estrellas en mas de 5.500 opiniones en MercadoLibre",
     ],
     cons: [
       "El cable viene fijo (3 metros, no se desenchufa): si se corta o se pela, no lo cambias, cambias el auricular",
@@ -12055,7 +12057,7 @@ No: queres graves para escuchar musica, los vas a llevar a entrenar (se zafan co
 
 ## Veredicto
 
-El ATH-M20x hace una cosa y la hace bien: ser el monitor de estudio mas barato de una marca seria, con sonido parejo para empezar. Lo respaldan 4.9 estrellas en mas de 2.200 opiniones. Las pegas son claras y consistentes: cable fijo, graves flacos, sin Bluetooth. Si tu uso es grabar y editar, es la entrada logica. Si tu uso es escuchar musica con pegada o moverte, mira otra cosa.`,
+El ATH-M20x hace una cosa y la hace bien: ser el monitor de estudio mas barato de una marca seria, con sonido parejo para empezar. Lo respaldan 4.9 estrellas en mas de 5.500 opiniones. Las pegas son claras y consistentes: cable fijo, graves flacos, sin Bluetooth. Si tu uso es grabar y editar, es la entrada logica. Si tu uso es escuchar musica con pegada o moverte, mira otra cosa.`,
     faq: [
       {
         question: "El cable del ATH-M20x es desmontable?",
@@ -12104,8 +12106,8 @@ El ATH-M20x hace una cosa y la hace bien: ser el monitor de estudio mas barato d
     affiliateUrl: "https://meli.la/2eP7p8D",
     condition: "new",
     freeShipping: true,
-    rating: 4.8,
-    reviewCount: 1029,
+    rating: 4.9,
+    reviewCount: 2402,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -12130,13 +12132,13 @@ El ATH-M20x hace una cosa y la hace bien: ser el monitor de estudio mas barato d
     description: "Audio-Technica ATH-M30x: monitor de estudio cerrado, un escalón de detalle sobre el M20x. Con cable, para monitoreo y edición.",
     seoTitle: "Audio-Technica ATH-M30x: para quién sí y para quién no",
     metaDescription: "Auricular cerrado de monitoreo Audio-Technica ATH-M30x: 40mm, 47 ohms, cable fijo de 3m. Para grabar y editar en casa. Lo bueno, la contra y si conviene el M40x.",
-    verdict: "Para quien graba o edita en casa y quiere un cerrado honesto con más detalle que el de entrada, el ATH-M30x cumple: 40mm, 47 ohms (anda sin amplificador), aísla bien y tiene 4.9 estrellas en más de 1.000 opiniones. No es para vos si vas a mezclar en serio (la respuesta no es del todo plana) o si te molesta el cable fijo de 3 metros: por poco más, el M40x trae sonido más neutro y cable desmontable.",
+    verdict: "Para quien graba o edita en casa y quiere un cerrado honesto con más detalle que el de entrada, el ATH-M30x cumple: 40mm, 47 ohms (anda sin amplificador), aísla bien y tiene 4.9 estrellas en más de 2.400 opiniones. No es para vos si vas a mezclar en serio (la respuesta no es del todo plana) o si te molesta el cable fijo de 3 metros: por poco más, el M40x trae sonido más neutro y cable desmontable.",
     pros: [
       "Driver de 40mm con 47 ohms y 96 dB de sensibilidad: suena fuerte y claro directo del celular, la notebook o una placa, sin amplificador",
       "Diseño cerrado over-ear que aísla del ruido de afuera: sirve para grabar voz sin que se filtre el sonido del auricular al micrófono",
       "Más detalle en agudos y medios-altos que el M20x de entrada (llega a 22.000 Hz): cymbals, voces y guitarra acústica con más definición",
       "Vincha plegable con cápsulas que giran 90 grados para monitorear con un oído, más estuche y adaptador de 6.3mm incluidos",
-      "Marca con trayectoria en monitoreo de estudio y respaldo real: 4.9 estrellas en más de 1.000 opiniones en MercadoLibre",
+      "Marca con trayectoria en monitoreo de estudio y respaldo real: 4.9 estrellas en más de 2.400 opiniones en MercadoLibre",
     ],
     cons: [
       "Cable fijo de 3 metros, no desmontable: si se daña hay que repararlo, no se reemplaza enchufando otro como en el M40x",
@@ -12185,7 +12187,7 @@ No, si vas a mezclar en serio y necesitás respuesta plana: ahí mirá el M40x. 
 
 ## Veredicto
 
-El ATH-M30x es la opción correcta para producir en casa con presupuesto medido: 40mm, 47 ohms que andan sin amplificador, buena aislación y 4.9 estrellas en más de 1.000 opiniones. La contra es el cable fijo de 3 metros y que no es del todo plano. Si esos dos puntos te importan, sumá un poco más y andá por el M40x. Si no, este cumple sin vueltas.`,
+El ATH-M30x es la opción correcta para producir en casa con presupuesto medido: 40mm, 47 ohms que andan sin amplificador, buena aislación y 4.9 estrellas en más de 2.400 opiniones. La contra es el cable fijo de 3 metros y que no es del todo plano. Si esos dos puntos te importan, sumá un poco más y andá por el M40x. Si no, este cumple sin vueltas.`,
     faq: [
       {
         question: "¿El cable del ATH-M30x es desmontable?",
@@ -12221,7 +12223,8 @@ El ATH-M30x es la opción correcta para producir en casa con presupuesto medido:
     id: "MLA6337847",
     title: "Audio Technica M40x Auriculares Cerrados Negro",
     canonicalName: "Audio-Technica ATH-M40x",
-    price: 327513,
+    price: 295431,
+    originalPrice: 347566,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_645445-MLA99479736888_112025-F.jpg",
     images: [
@@ -12235,7 +12238,7 @@ El ATH-M30x es la opción correcta para producir en casa con presupuesto medido:
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 1047,
+    reviewCount: 2794,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -12257,14 +12260,14 @@ El ATH-M30x es la opción correcta para producir en casa con presupuesto medido:
     description: "Audio-Technica ATH-M40x: monitor de estudio con respuesta de sonido plana, ideal para mezclar con referencia neutra. Cable desmontable, gama profesional.",
     seoTitle: "Audio-Technica ATH-M40x: el monitor plano para mezclar",
     metaDescription: "El ATH-M40x es para quien mezcla o edita y quiere sonido neutro de referencia. Con cable, sin micrófono. Para escuchar música con graves, mirá el M50x.",
-    verdict: "Para quien produce, mezcla o edita audio y necesita una referencia neutra y honesta, el ATH-M40x es de lo más recomendado del mercado: respuesta plana, 40 mm, cable desmontable y 4.9 estrellas en más de 1.000 opiniones. Si lo querés para escuchar música con graves potentes, llevártelo a la calle o usarlo en llamadas, no es para vos: es con cable, no trae micrófono y suena chato a propósito.",
+    verdict: "Para quien produce, mezcla o edita audio y necesita una referencia neutra y honesta, el ATH-M40x es de lo más recomendado del mercado: respuesta plana, 40 mm, cable desmontable y 4.9 estrellas en más de 2.700 opiniones. Si lo querés para escuchar música con graves potentes, llevártelo a la calle o usarlo en llamadas, no es para vos: es con cable, no trae micrófono y suena chato a propósito.",
     pros: [
       "Respuesta de sonido plana: muestra el audio como es, sin maquillarlo, ideal para mezclar con referencia neutra",
       "Cable desmontable: si se rompe o engancha, lo cambiás sin tirar el auricular",
       "Trae dos cables de 3 metros (recto y enrollado) más adaptador a plug grande (6,3 mm)",
       "Cápsulas que rotan 90 grados, sirve para monitorear con un solo oído",
       "Liviano (240 g) y con presión de vincha moderada: se banca sesiones largas",
-      "Respaldo real: 4.9 estrellas en más de 1.000 opiniones y marca con peso en estudio",
+      "Respaldo real: 4.9 estrellas en más de 2.700 opiniones y marca con peso en estudio",
     ],
     cons: [
       "Es con cable y no trae micrófono ni Bluetooth: no sirve para llamadas, gaming con chat ni para usarlo en la calle",
@@ -12305,7 +12308,7 @@ Dos: la aislación es apenas correcta para ser cerrado. Aísla algo, pero no es 
 
 ## Veredicto
 
-Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las referencias más sólidas y honestas en su precio: plano, liviano, con cable que cambiás y respaldo de 4.9 estrellas en más de 1.000 opiniones. Si querés graves, llamadas o usarlo en la calle, mirá otra cosa. Y si dudás entre este y el M50x: M40x para trabajar con referencia neutra, M50x si además querés disfrutar la música.`,
+Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las referencias más sólidas y honestas en su precio: plano, liviano, con cable que cambiás y respaldo de 4.9 estrellas en más de 2.700 opiniones. Si querés graves, llamadas o usarlo en la calle, mirá otra cosa. Y si dudás entre este y el M50x: M40x para trabajar con referencia neutra, M50x si además querés disfrutar la música.`,
     faq: [
       {
         question: "¿El Audio-Technica M40x trae micrófono?",
@@ -12341,7 +12344,7 @@ Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las refer
     id: "MLA24560880",
     title: "Audio-Technica ATH-M50x Auriculares Black",
     canonicalName: "Audio-Technica ATH-M50x",
-    price: 320664,
+    price: 334390,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_693288-MLA99932434053_112025-F.jpg",
     images: [
@@ -12355,7 +12358,7 @@ Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las refer
     condition: "new",
     freeShipping: true,
     rating: 4.9,
-    reviewCount: 414,
+    reviewCount: 1684,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -12379,14 +12382,14 @@ Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las refer
     description: "Audio-Technica ATH-M50x: el monitor de estudio más famoso, un estándar de la industria. Sonido detallado con graves marcados, cable desmontable. La referencia de la marca.",
     seoTitle: "Audio-Technica ATH-M50x: el clásico de estudio que rinde",
     metaDescription: "Para quien quiere unos auriculares de estudio cerrados con graves marcados y aislamiento. Specs reales, las tres mechas incluidas y la pega del M50x antes de comprar.",
-    verdict: "Para quien graba, edita video o escucha música con detalle y quiere unos cerrados que aíslen, el ATH-M50x es la apuesta segura: 45mm, cable desmontable, aislamiento pasivo bueno y 4.9 estrellas en 414 opiniones. Si buscás referencia 100% plana para masterizar, querés micrófono para llamadas, o pretendés inalámbrico, no es para vos: tiene los graves marcados, va siempre con cable y no trae mic.",
+    verdict: "Para quien graba, edita video o escucha música con detalle y quiere unos cerrados que aíslen, el ATH-M50x es la apuesta segura: 45mm, cable desmontable, aislamiento pasivo bueno y 4.9 estrellas en más de 1.600 opiniones. Si buscás referencia 100% plana para masterizar, querés micrófono para llamadas, o pretendés inalámbrico, no es para vos: tiene los graves marcados, va siempre con cable y no trae mic.",
     pros: [
       "Driver de 45mm con sonido detallado y graves contundentes, sin que el bajo se coma los medios",
       "Tres mechas desmontables incluidas (1,2m recta, 3m recta y 1,2-3m rulo): si se rompe el cable, lo cambiás y no tirás el auricular",
       "Aislamiento pasivo bueno por ser cerrado over-ear: tapa bastante del ruido de afuera sin cancelación activa",
       "Auriculares rotan 90 grados y se pliegan: monitoreás con una oreja y entran en su funda para llevar",
       "Impedancia de 38 ohms: suena fuerte directo del celular o la notebook, sin amplificador aparte",
-      "4.9 estrellas en 414 opiniones, un estándar de estudio que se vende hace años",
+      "4.9 estrellas en más de 1.600 opiniones, un estándar de estudio que se vende hace años",
     ],
     cons: [
       "No es de respuesta plana de referencia: trae los graves arriba de neutro y un realce en los agudos, así que para masterizar fino conviene compensar o ir a un monitor más neutro",
@@ -12397,7 +12400,7 @@ Si tu uso es producir, mezclar, editar o monitorear, el M40x es una de las refer
     ],
     articleBody: `## Qué es y para quién alcanza
 
-El Audio-Technica ATH-M50x es un auricular de estudio cerrado, over-ear, con cable. Apunta a quien graba, edita audio o video, mezcla o simplemente escucha música con atención y quiere aislarse del ruido de afuera. Es uno de los modelos más vendidos de su tipo hace años, con 4.9 estrellas en 414 opiniones en MercadoLibre.
+El Audio-Technica ATH-M50x es un auricular de estudio cerrado, over-ear, con cable. Apunta a quien graba, edita audio o video, mezcla o simplemente escucha música con atención y quiere aislarse del ruido de afuera. Es uno de los modelos más vendidos de su tipo hace años, con 4.9 estrellas en más de 1.600 opiniones en MercadoLibre.
 
 No es un auricular para salir a la calle con el celular y olvidarte del cable. Es para sentarte a escuchar o trabajar.
 
@@ -12465,7 +12468,8 @@ No: si necesitás referencia 100% plana para masterización profesional, si quer
     id: "MLA6072318",
     title: "Auriculares Sennheiser HD 280 Pro Black",
     canonicalName: "Sennheiser HD 280 Pro",
-    price: 324471,
+    price: 282385,
+    originalPrice: 332218,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_725683-MLA99456727358_112025-F.jpg",
     images: [
@@ -12478,8 +12482,8 @@ No: si necesitás referencia 100% plana para masterización profesional, si quer
     affiliateUrl: "https://meli.la/2QKcvdu",
     condition: "new",
     freeShipping: true,
-    rating: 4.9,
-    reviewCount: 138,
+    rating: 4.8,
+    reviewCount: 239,
     pastelColor: "var(--pastel-azul)",
     visibility: "normal",
     specs: [
@@ -12504,14 +12508,14 @@ No: si necesitás referencia 100% plana para masterización profesional, si quer
     description: "Sennheiser HD 280 Pro: monitor de estudio cerrado con gran aislamiento pasivo del ruido, un clásico para grabación. Con cable, la alternativa Sennheiser a la línea M.",
     seoTitle: "Sennheiser HD 280 Pro: aislamiento de estudio con cable",
     metaDescription: "Sennheiser HD 280 Pro: auricular cerrado de estudio con hasta 32 dB de aislamiento pasivo. Para grabar y mezclar, no para salir a la calle. Specs reales y la contra.",
-    verdict: "Si grabás, mezclás o monitoreás audio y necesitás que no se filtre sonido al micrófono, el HD 280 Pro es un clásico que cumple: hasta 32 dB de aislamiento pasivo, respuesta plana de estudio y repuestos que conseguís suelto. 4.8 estrellas en 138 opiniones. Si querés auriculares para la calle, para escuchar música con graves marcados o para sesiones de muchas horas seguidas, no es para vos: aprietan fuerte, el cable es enrulado y fijo, y suenan neutros a propósito.",
+    verdict: "Si grabás, mezclás o monitoreás audio y necesitás que no se filtre sonido al micrófono, el HD 280 Pro es un clásico que cumple: hasta 32 dB de aislamiento pasivo, respuesta plana de estudio y repuestos que conseguís suelto. 4.8 estrellas en 239 opiniones. Si querés auriculares para la calle, para escuchar música con graves marcados o para sesiones de muchas horas seguidas, no es para vos: aprietan fuerte, el cable es enrulado y fijo, y suenan neutros a propósito.",
     pros: [
       "Aislamiento pasivo de hasta 32 dB: tapa el ruido externo y evita que se filtre sonido al micrófono al grabar",
       "Respuesta plana de estudio (8 a 25.000 Hz): suena neutro, ideal para mezclar y monitorear sin colorear el audio",
       "64 Ω: lo manejás directo de una interfaz o consola sin necesitar amplificador aparte",
       "Almohadillas y vincha reemplazables: si se gastan, comprás el repuesto en vez de tirar el auricular",
       "Diseño plegable: se compacta para guardar o llevar al estudio",
-      "4.8 estrellas en 138 opiniones en MercadoLibre",
+      "4.8 estrellas en 239 opiniones en MercadoLibre",
     ],
     cons: [
       "Aprieta fuerte la cabeza (clamping alto): es lo que da el aislamiento, pero cansa en sesiones largas, sobre todo las primeras semanas",
