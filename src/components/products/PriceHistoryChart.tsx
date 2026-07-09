@@ -151,12 +151,16 @@ export function PriceHistoryChart({ data }: { data: PriceChartData }) {
           </g>
         )}
 
-        {/* Capa transparente que captura el mouse / touch */}
+        {/* Capa transparente que captura el mouse / touch (todo el SVG, no
+            solo el área del gráfico: si termina justo en el punto del precio
+            actual, mover el mouse un poco de más hacia el borde derecho -lo
+            más natural al apuntar al precio de hoy- sale del área y el hover
+            deja de dispararse). */}
         <rect
-          x={PAD.l}
-          y={PAD.t}
-          width={PLOT_W}
-          height={PLOT_H}
+          x={0}
+          y={0}
+          width={W}
+          height={H}
           fill="transparent"
           style={{ cursor: "crosshair" }}
           onMouseMove={(e) => moveTo(e.clientX)}
