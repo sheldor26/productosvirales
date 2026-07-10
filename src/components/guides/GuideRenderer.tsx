@@ -571,6 +571,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
                 href="https://t.me/productosvirales_argentina"
                 target="_blank"
                 rel="noopener"
+                data-channel-location="inline"
                 className="font-semibold underline underline-offset-2"
                 style={{ color: "var(--editorial-accent)" }}
               >
@@ -581,6 +582,7 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
                 href="https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t"
                 target="_blank"
                 rel="noopener"
+                data-channel-location="inline"
                 className="font-semibold underline underline-offset-2"
                 style={{ color: "var(--editorial-accent)" }}
               >

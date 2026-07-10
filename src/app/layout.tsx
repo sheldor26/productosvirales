@@ -9,6 +9,7 @@ import { NewsletterBanner } from "@/components/widgets/NewsletterBanner";
 import { AffiliateTracker } from "@/components/analytics/AffiliateTracker";
 import { ScrollDepthTracker } from "@/components/analytics/ScrollDepthTracker";
 import { CtaTracker } from "@/components/analytics/CtaTracker";
+import { ChannelTracker } from "@/components/analytics/ChannelTracker";
 import "./globals.css";
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -84,6 +85,7 @@ export default function RootLayout({
         <AffiliateTracker />
         <ScrollDepthTracker />
         <CtaTracker />
+        <ChannelTracker />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-7FJY0G4T9K"
           strategy="afterInteractive"

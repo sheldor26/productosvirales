@@ -96,6 +96,7 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
             href="https://t.me/productosvirales_argentina"
             target="_blank"
             rel="noopener"
+            data-channel-location="footer"
             className="not-prose inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-[6px] text-white transition-opacity hover:opacity-90"
             style={{ backgroundColor: "var(--editorial-accent)" }}
           >
@@ -105,6 +106,7 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
             href="https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t"
             target="_blank"
             rel="noopener"
+            data-channel-location="footer"
             className="not-prose inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-[6px] text-white transition-opacity hover:opacity-90"
             style={{ backgroundColor: "var(--editorial-accent)" }}
           >
