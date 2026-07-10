@@ -36,6 +36,7 @@ const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const SUSPICIOUS_DOC_PATH = path.resolve("docs/precios-sospechosos.md");
 const HISTORY_PATH = path.resolve("src/data/price-history.json");
 const ENRICHMENT_CACHE_PATH = path.resolve(".cache/brightdata-enrichment.json");
+const PENDING_DROPS_PATH = path.resolve(".cache/pending-price-drops.json");
 const MIN_RATIO = 0.5;
 const MAX_RATIO = 2;
 const REVIEW_COUNT_MIN_RATIO = 0.5; // igual criterio que precios: una caida a menos de la mitad es sospechosa, no una baja real
@@ -305,6 +306,25 @@ function saveEnrichmentCache(report, today) {
   return saved;
 }
 
+// Bajas reales (precio nuevo menor al guardado) de esta corrida, para que
+// scripts/notify-price-drops-telegram.cjs las mande al chat privado de Juan
+// sin intervencion manual. Se pisa en cada corrida (no acumula entre dias):
+// el notificador corre siempre a continuacion, en el mismo workflow.
+function savePendingDrops(reasonable, today) {
+  const drops = reasonable
+    .filter((c) => c.scraped < c.stored)
+    .map((c) => ({
+      id: c.id,
+      title: c.title,
+      stored: c.stored,
+      scraped: c.scraped,
+      pct: Math.round(((c.scraped - c.stored) / c.stored) * 100),
+    }));
+  fs.mkdirSync(path.dirname(PENDING_DROPS_PATH), { recursive: true });
+  fs.writeFileSync(PENDING_DROPS_PATH, JSON.stringify({ date: today, drops }, null, 2) + "\n");
+  return drops.length;
+}
+
 // Los productos sin cambio de precio tambien fueron re-verificados hoy, pero
 // como no pasan por applyChanges (no hay precio nuevo que escribir), su
 // priceLastChecked quedaba viejo para siempre aunque Bright Data los chequee
@@ -433,6 +453,9 @@ function main() {
     .concat(reasonable.map((c) => ({ id: c.id, price: c.scraped })));
   const historyAdded = appendPriceHistory(historyPoints, today);
   console.log(`\nPuntos nuevos en price-history.json: ${historyAdded} (de ${historyPoints.length} precios confiables)`);
+
+  const pendingDrops = savePendingDrops(reasonable, today);
+  console.log(`Bajas de precio de esta corrida guardadas en .cache/pending-price-drops.json: ${pendingDrops}`);
 
   const enrichmentSaved = saveEnrichmentCache(report, today);
   console.log(`Productos con specs/imagenes/reseñas cacheados en .cache/brightdata-enrichment.json: ${enrichmentSaved}`);

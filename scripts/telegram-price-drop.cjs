@@ -193,6 +193,8 @@ async function main() {
   const description = prop(block, "description");
   const cons = firstConsItem(block);
   const affiliateUrl = prop(block, "affiliateUrl");
+  const permalink = prop(block, "permalink");
+  const mlLink = affiliateUrl || permalink;
 
   if (!oldPrice) {
     console.error("No encontré el precio guardado del producto.");
@@ -236,6 +238,19 @@ async function main() {
     if (!data.ok) throw new Error(`Telegram API error: ${JSON.stringify(data)}`);
   } else {
     await sendToTelegram(token, chatId, image, caption);
+  }
+
+  // Segundo mensaje aparte con el link de MercadoLibre, para chequear el
+  // precio desde el celular con un solo tap (adentro del caption de la
+  // foto el link queda mezclado con el resto del texto).
+  if (mlLink) {
+    const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ chat_id: chatId, text: mlLink }),
+    });
+    const data = await res.json();
+    if (!data.ok) throw new Error(`Telegram API error (2do mensaje): ${JSON.stringify(data)}`);
   }
 
   console.log(

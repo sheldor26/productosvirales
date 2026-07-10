@@ -198,6 +198,17 @@ jobs:
         if: steps.gate.outputs.skip != 'true'
         run: node scripts/apply-brightdata-prices.cjs /tmp/dataset.json --apply
 
+      # Solo al chat PRIVADO de Juan, nunca al canal publico (eso sigue
+      # siendo siempre a mano, ver scripts/telegram-price-drop.cjs). Si
+      # faltan los secrets todavia, cada notificacion individual falla
+      # pero el paso no rompe el job (ver notify-price-drops-telegram.cjs).
+      - name: Avisar bajas de precio por Telegram (chat privado)
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/notify-price-drops-telegram.cjs
+
       - name: Abrir Pull Request si hubo cambios
         if: steps.gate.outputs.skip != 'true'
         env:
