@@ -3,6 +3,9 @@
 import Link from "next/link";
 import { X, Flame, Heart, Smartphone, Home, Gamepad2, Headphones, ChefHat } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
+
+const WHATSAPP_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t";
 
 const navCategories = [
   { slug: "viral", label: "Viral ahora", icon: Flame, color: "#ef4444" },
@@ -52,6 +55,18 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
         </div>
 
         <nav className="p-4 space-y-1">
+          <a
+            href={WHATSAPP_CHANNEL_URL}
+            target="_blank"
+            rel="noopener"
+            data-channel-location="header"
+            className="flex items-center justify-center gap-2 mb-3 px-3 py-2.5 rounded-full text-sm font-semibold transition-opacity hover:opacity-90"
+            style={{ backgroundColor: "var(--cta-bg)", color: "var(--cta-text)" }}
+          >
+            <WhatsAppIcon size={16} />
+            Sumate a nuestro canal de WhatsApp
+          </a>
+
           <Link
             href="/"
             onClick={onClose}

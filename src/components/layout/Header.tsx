@@ -7,7 +7,10 @@ import { Menu, X, Sun, Moon, Search } from "lucide-react";
 import { useTheme } from "next-themes";
 import { cn } from "@/lib/utils";
 import { SearchInput } from "@/components/ui/SearchInput";
+import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
 import { MobileNav } from "./MobileNav";
+
+const WHATSAPP_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t";
 
 export function Header() {
   const [scrolled, setScrolled] = useState(false);
@@ -118,6 +121,19 @@ export function Header() {
 
             {/* Right actions */}
             <div className="flex items-center gap-1">
+              {/* Canal de WhatsApp (solo desktop; en mobile vive en el menú) */}
+              <a
+                href={WHATSAPP_CHANNEL_URL}
+                target="_blank"
+                rel="noopener"
+                data-channel-location="header"
+                className="hidden md:inline-flex items-center gap-1.5 mr-1 px-3.5 py-2 rounded-full text-sm font-semibold transition-opacity hover:opacity-90"
+                style={{ backgroundColor: "var(--cta-bg)", color: "var(--cta-text)" }}
+              >
+                <WhatsAppIcon size={15} />
+                Sumate a WhatsApp
+              </a>
+
               {/* Desktop search */}
               <div className="hidden md:block">
                 {searchOpen ? (
