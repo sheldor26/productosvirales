@@ -194,7 +194,10 @@ async function main() {
   const cons = firstConsItem(block);
   const affiliateUrl = prop(block, "affiliateUrl");
   const permalink = prop(block, "permalink");
-  const mlLink = affiliateUrl || permalink;
+  // El link real de ML, no el de afiliado: este segundo mensaje es para que
+  // Juan chequee el precio desde el celular, y clickear su propio link de
+  // afiliado le infla los clicks en las métricas sin ser una visita real.
+  const mlLink = permalink || affiliateUrl;
 
   if (!oldPrice) {
     console.error("No encontré el precio guardado del producto.");
