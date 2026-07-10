@@ -48986,8 +48986,8 @@ Comprá la Femmto BWS11 si lo único que necesitás es saber tu peso de forma pr
   },
   {
     id: "MLA19147005",
-    title: "Balanza Digital con Bluetooth Femmto BCS13 para Baño Medidor de Grasa Corporal y Masa Muscular",
-    canonicalName: "Balanza Digital Femmto BCS13 (análisis corporal)",
+    title: "Balanza Digital con Bluetooth Femmto BCS15 para Baño Medidor de Grasa Corporal y Masa Muscular",
+    canonicalName: "Balanza Digital Femmto BCS15 (análisis corporal)",
     price: 39999,
     originalPrice: 60000,
     currency: "ARS",
@@ -48997,7 +48997,7 @@ Comprá la Femmto BWS11 si lo único que necesitás es saber tu peso de forma pr
     ],
     category: "Salud y Bienestar",
     categorySlug: "salud-bienestar",
-    permalink: "https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-femmto-bcs13-para-bano-medidor-de-grasa-corporal-y-masa-muscular/p/MLA19147005",
+    permalink: "https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-masa-muscular/p/MLA19147005",
     affiliateUrl: "https://meli.la/1JsFuZh",
     condition: "new",
     freeShipping: true,
@@ -49068,7 +49068,7 @@ Comprá esta Femmto si querés más que el número del peso: grasa corporal, IMC
     // del mismo producto (MLA45283782, mismo modelo MJTZC01YM) con un link de
     // afiliado que sí funciona. Se mantiene el `id` interno MLA38252447 (no se
     // toca la URL/slug del sitio ni las referencias cruzadas de otras fichas:
-    // Femmto BWS11 y BCS13 la mencionan en su `relatedProducts`); permalink y
+    // Femmto BWS11 y BCS15 la mencionan en su `relatedProducts`); permalink y
     // affiliateUrl pasan a apuntar a la publicación nueva. Precio verificado en
     // vivo: $220.000, 4.8★, 1.997 reseñas (antes $169.000, 4.7★, 1.705).
     id: "MLA38252447",
@@ -49160,7 +49160,7 @@ Necesita la app Mi Home (o Xiaomi Home) para aprovechar el resto de los datos: s
 
 ## Cómo se compara con las otras balanzas de la guía
 
-Frente a la [Femmto BCS13](/producto/MLA19147005), que también mide grasa corporal e IMC por bastante menos plata, la Xiaomi suma muchos más indicadores (25 contra un puñado) y una tecnología de medición más avanzada (doble frecuencia contra bioimpedancia simple), a cambio de un precio bastante mayor. Frente a la [Utile UT-1108](/producto/MLA65535495), que también ofrece un análisis amplio (grasa, agua, masa muscular y ósea) y llega a 200 kg de capacidad, la Xiaomi agrega todavía más indicadores y el respaldo de marca, aunque la Utile gana en capacidad máxima de peso. Podés ver el resto de las opciones en la [guía de balanzas digitales](/guias/salud-bienestar/balanza-digital).
+Frente a la [Femmto BCS15](/producto/MLA19147005), que también mide grasa corporal e IMC por bastante menos plata, la Xiaomi suma muchos más indicadores (25 contra un puñado) y una tecnología de medición más avanzada (doble frecuencia contra bioimpedancia simple), a cambio de un precio bastante mayor. Frente a la [Utile UT-1108](/producto/MLA65535495), que también ofrece un análisis amplio (grasa, agua, masa muscular y ósea) y llega a 200 kg de capacidad, la Xiaomi agrega todavía más indicadores y el respaldo de marca, aunque la Utile gana en capacidad máxima de peso. Podés ver el resto de las opciones en la [guía de balanzas digitales](/guias/salud-bienestar/balanza-digital).
 
 ## Para quién sí y para quién no
 
@@ -49255,9 +49255,9 @@ No mide grasa corporal ni IMC: es una balanza de pesada pura, así que si buscá
 
 ## Para quién sí y para quién no
 
-Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca médica reconocida, y no te interesa el análisis corporal. No la compres si lo que buscás es grasa corporal, IMC o sincronización con una app: para eso, la Femmto BCS13 de esta guía es la opción.`,
+Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca médica reconocida, y no te interesa el análisis corporal. No la compres si lo que buscás es grasa corporal, IMC o sincronización con una app: para eso, la Femmto BCS15 de esta guía es la opción.`,
     faq: [
-      { question: "¿La Omron HN-289 mide grasa corporal?", answer: "No, solo mide peso. Para grasa corporal e IMC, otra opción de esta guía como la Femmto BCS13 es más indicada." },
+      { question: "¿La Omron HN-289 mide grasa corporal?", answer: "No, solo mide peso. Para grasa corporal e IMC, otra opción de esta guía como la Femmto BCS15 es más indicada." },
       { question: "¿Por qué confiar en la marca Omron para una balanza?", answer: "Omron es una marca médica reconocida mundialmente por tensiómetros y termómetros, con estándares de precisión que se trasladan a sus balanzas. Tiene certificado INMETRO respaldándola." },
       { question: "¿Es precisa?", answer: "Sí, las reseñas confirman precisión exacta (una prueba con un paquete de 500 g coincidió al gramo) y consistencia pesándose varias veces seguidas." },
       { question: "¿Con qué pila funciona?", answer: "Con una pila de litio de 3V, que ya viene incluida y dura más que las pilas comunes." },
@@ -49328,7 +49328,7 @@ Es un producto con menos historial: solo 17 calificaciones, aunque todas muy pos
 
 ## Para quién sí y para quién no
 
-Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el análisis corporal más completo de esta guía. No la compres si preferís el respaldo de miles de calificaciones: para eso, la Femmto BCS13 de esta guía tiene mucho más historial.`,
+Comprá la Utile UT-1108 si necesitás mayor capacidad de peso (200 kg) o el análisis corporal más completo de esta guía. No la compres si preferís el respaldo de miles de calificaciones: para eso, la Femmto BCS15 de esta guía tiene mucho más historial.`,
     faq: [
       { question: "¿Cuál es la capacidad máxima de la Utile UT-1108?", answer: "200 kg, la mayor de esta comparativa." },
       { question: "¿Qué mide además del peso?", answer: "Grasa corporal, agua corporal, masa muscular, masa ósea y grasa visceral, todo sincronizado con la app iMon por Bluetooth." },
@@ -49400,7 +49400,7 @@ La ficha técnica de MercadoLibre no confirma un medidor de grasa corporal ofici
 
 ## Para quién sí y para quién no
 
-Comprá la Noga NG-B01 si querés evitar las pilas y buscás un precio accesible con conexión a app. No la compres si necesitás grasa corporal confirmada oficialmente en la ficha técnica: para eso, la Femmto BCS13 de esta guía lo tiene documentado.`,
+Comprá la Noga NG-B01 si querés evitar las pilas y buscás un precio accesible con conexión a app. No la compres si necesitás grasa corporal confirmada oficialmente en la ficha técnica: para eso, la Femmto BCS15 de esta guía lo tiene documentado.`,
     faq: [
       { question: "¿La Noga NG-B01 usa pilas?", answer: "No, se recarga por cable USB, así que no hace falta comprar pilas nunca." },
       { question: "¿Mide grasa corporal?", answer: "La ficha técnica no lo confirma oficialmente, aunque varias reseñas mencionan que la app conectada muestra datos adicionales más allá del peso." },
