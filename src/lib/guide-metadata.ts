@@ -28,7 +28,7 @@ export function buildGuideMetadata(guide: Guide | undefined): Metadata {
       locale: "es_AR",
       publishedTime: guide.publishedDate,
       modifiedTime: guide.updatedDate,
-      images: [{ url: ogImage, width: 1200, height: 630 }],
+      images: [{ url: ogImage, width: 1200, height: 630, alt: guide.h1 || guide.title }],
     },
     twitter: {
       card: "summary_large_image",

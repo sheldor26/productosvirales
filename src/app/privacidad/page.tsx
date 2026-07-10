@@ -1,11 +1,17 @@
 import type { Metadata } from "next";
+import { baseOpenGraph } from "@/lib/site-og";
+
+const title = "Política de privacidad";
+const description =
+  "Política de privacidad de ProductosVirales.com.ar. Qué datos recolectamos, cómo los usamos, y cuáles son tus derechos.";
+const canonical = "https://productosvirales.com.ar/privacidad";
 
 export const metadata: Metadata = {
-  title: "Política de privacidad",
-  description:
-    "Política de privacidad de ProductosVirales.com.ar. Qué datos recolectamos, cómo los usamos, y cuáles son tus derechos.",
-  alternates: { canonical: "https://productosvirales.com.ar/privacidad" },
+  title,
+  description,
+  alternates: { canonical },
   robots: { index: true, follow: true },
+  openGraph: { ...baseOpenGraph, title, description, url: canonical },
 };
 
 export default function PrivacidadPage() {

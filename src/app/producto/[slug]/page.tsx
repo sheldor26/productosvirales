@@ -8,6 +8,7 @@ import { ProductDetail } from "@/components/products/ProductDetail";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { RelatedGuides } from "@/components/guides/RelatedGuides";
 import { nextStepLinksForProduct } from "@/lib/related-guides";
+import { baseOpenGraph } from "@/lib/site-og";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -32,17 +33,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     product.description ||
     `Comprá ${product.title} al mejor precio en MercadoLibre Argentina.`;
 
+  const canonical = `https://productosvirales.com.ar${productHref(product)}`;
+
   return {
     title: { absolute: title },
     description,
     alternates: {
-      canonical: `https://productosvirales.com.ar${productHref(product)}`,
+      canonical,
     },
     openGraph: {
+      ...baseOpenGraph,
       title: product.ogTitle || title,
       description: product.ogDescription || description,
-      images: [product.image],
-      type: "website",
+      url: canonical,
+      images: [{ url: product.image, alt: product.title }],
     },
     twitter: {
       card: "summary_large_image",

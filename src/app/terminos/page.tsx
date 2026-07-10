@@ -1,11 +1,17 @@
 import type { Metadata } from "next";
+import { baseOpenGraph } from "@/lib/site-og";
+
+const title = "Términos y condiciones";
+const description =
+  "Términos de uso de ProductosVirales.com.ar. Condiciones bajo las cuales podés usar el sitio.";
+const canonical = "https://productosvirales.com.ar/terminos";
 
 export const metadata: Metadata = {
-  title: "Términos y condiciones",
-  description:
-    "Términos de uso de ProductosVirales.com.ar. Condiciones bajo las cuales podés usar el sitio.",
-  alternates: { canonical: "https://productosvirales.com.ar/terminos" },
+  title,
+  description,
+  alternates: { canonical },
   robots: { index: true, follow: true },
+  openGraph: { ...baseOpenGraph, title, description, url: canonical },
 };
 
 export default function TerminosPage() {

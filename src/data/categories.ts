@@ -154,6 +154,75 @@ export const categories: Category[] = [
     `,
   },
   {
+    slug: "climatizacion",
+    name: "Climatización",
+    icon: "Thermometer",
+    pastel: "var(--color-pastel-green)",
+    h1: "Climatización Viral",
+    description: "Aires acondicionados, ventiladores de techo, estufas y termotanques",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Aires acondicionados portátiles para cuartos sin salida de aire fijo, ventiladores de techo de 3 y 4 palas, estufas eléctricas de bajo consumo, caloventores y termotanques eléctricos. Productos de temporada: la demanda de aires se dispara en verano y la de estufas y termotanques en invierno, así que los precios se mueven bastante según la época.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Frigorías/BTU reales (aires):</strong> calculá 100 frigorías por m² como mínimo. Un aire de 2650 frigorías rinde en un cuarto de hasta 20-25 m², no más.</li>
+        <li><strong>Potencia real (estufas y caloventores):</strong> las de bajo consumo rondan 400-1200W; las convencionales, 1500-2200W. Más potencia calienta más rápido pero pesa más en la factura.</li>
+        <li><strong>Instalación (termotanques):</strong> los eléctricos de más de 60 litros suelen pedir circuito dedicado. Confirmá tu instalación antes de comprar uno grande.</li>
+        <li><strong>Garantía en Argentina:</strong> marcas como BGH, Philco, Liliana, Atma y Rheem tienen service oficial. Es un plus real en un electrodoméstico que se usa temporada tras temporada.</li>
+      </ul>
+
+      <h2>Rangos de precios típicos</h2>
+      <p>Aires acondicionados portátiles: <strong>$400.000-$700.000</strong> según frigorías y si tienen función frío/calor. Ventiladores de techo: <strong>$60.000-$180.000</strong>. Estufas eléctricas de bajo consumo: <strong>$40.000-$90.000</strong>. Caloventores: <strong>$25.000-$60.000</strong>. Termotanques eléctricos: <strong>$150.000-$300.000</strong> según litros. Comparar la misma marca y modelo en varias publicaciones sirve, porque en esta categoría el precio varía bastante según la temporada.</p>
+    `,
+  },
+  {
+    slug: "salud-bienestar",
+    name: "Salud y Bienestar",
+    icon: "HeartPulse",
+    pastel: "var(--color-pastel-purple)",
+    h1: "Salud y Bienestar Viral",
+    description: "Balanzas digitales, masajeadores y productos para cuidar tu salud en casa",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Balanzas digitales de baño (simples y con análisis de composición corporal por Bluetooth), masajeadores cervicales, de pies y de cuerpo completo. Son productos que se compran una vez y se usan durante años, así que vale la pena elegir bien desde el principio.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Capacidad de peso (balanzas):</strong> la mayoría soporta 150-200 kg. Confirmá que alcance para todos los que la van a usar en casa.</li>
+        <li><strong>Bluetooth y app (balanzas de composición corporal):</strong> las que miden grasa, músculo y agua corporal necesitan una app para ver el detalle. Fijate que la app tenga soporte en español y no pida datos de más.</li>
+        <li><strong>Intensidad ajustable (masajeadores):</strong> los buenos tienen 3 o más niveles. Uno solo suele quedar demasiado suave o demasiado fuerte.</li>
+        <li><strong>Garantía:</strong> marcas con presencia en Argentina (Omron, Xiaomi, Gadnic, Femmto) tienen más respaldo si falla algo pasado el primer año.</li>
+      </ul>
+
+      <h2>Rangos de precios típicos</h2>
+      <p>Balanzas digitales simples: <strong>$15.000-$35.000</strong>. Balanzas con Bluetooth y análisis corporal: <strong>$35.000-$70.000</strong>. Masajeadores cervicales: <strong>$25.000-$60.000</strong>. Masajeadores de pies: <strong>$40.000-$90.000</strong>. Si el precio de una balanza "inteligente" es igual al de una simple, desconfiá — probablemente el Bluetooth sea decorativo.</p>
+    `,
+  },
+  {
+    slug: "seguridad",
+    name: "Seguridad",
+    icon: "Shield",
+    pastel: "var(--color-pastel-blue)",
+    h1: "Seguridad para el Hogar Viral",
+    description: "Cámaras de seguridad WiFi, interior y exterior, con y sin mensualidad",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Cámaras de seguridad WiFi para interior y exterior, motorizadas (con seguimiento de movimiento) y fijas, individuales o en kits de varias unidades para cubrir toda la casa. La ventaja de esta generación es que graban en la nube o en microSD sin depender de una alarma con abono mensual.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Interior vs exterior:</strong> las de interior no tienen la certificación IP para lluvia o sol directo. Para el patio o la entrada, elegí específicamente un modelo de exterior (IP65 o más).</li>
+        <li><strong>Almacenamiento:</strong> la mayoría no incluye microSD ni tiene grabación en la nube gratis ilimitada — es un gasto aparte que conviene calcular antes de comprar.</li>
+        <li><strong>WiFi de 2.4 GHz:</strong> casi todas las cámaras hogareñas solo se conectan a la banda de 2.4 GHz, no a la de 5 GHz. Confirmá que tu router tenga esa red separada o combinada.</li>
+        <li><strong>Detección de movimiento vs de figura humana:</strong> la detección de movimiento simple salta con cualquier cosa (mascotas, sombras). La detección de figura humana da muchas menos falsas alarmas.</li>
+      </ul>
+
+      <h2>Rangos de precios típicos</h2>
+      <p>Cámaras WiFi de interior básicas: <strong>$40.000-$70.000</strong>. Cámaras motorizadas con seguimiento: <strong>$70.000-$120.000</strong>. Cámaras de exterior: <strong>$90.000-$160.000</strong>. Kits de 3 cámaras: <strong>$180.000-$280.000</strong>. Ojo con las marcas sin presencia en Argentina: si falla la app o el servidor de la nube, no tenés a quién reclamarle.</p>
+    `,
+  },
+  {
     slug: "coleccionables",
     name: "Coleccionables",
     icon: "Trophy",

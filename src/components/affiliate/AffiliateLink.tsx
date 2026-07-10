@@ -30,6 +30,22 @@ export function AffiliateLink({
   ariaLabel,
   ctaLocation,
 }: AffiliateLinkProps) {
+  // Algunas fichas quedan con el placeholder sin completar porque MercadoLibre
+  // rechazó ese link de afiliado puntual (ver comentarios en curated-products.ts).
+  // Sin este guard, el placeholder se renderiza como link relativo roto
+  // (ej. /producto/PEGAR_MELI_LA) en vez de avisar que no hay compra disponible.
+  if (!href || href === "PEGAR_MELI_LA") {
+    return (
+      <span
+        className={className}
+        aria-disabled="true"
+        style={{ opacity: 0.5, cursor: "not-allowed", pointerEvents: "none" }}
+      >
+        No disponible por ahora
+      </span>
+    );
+  }
+
   return (
     <a
       href={href}
