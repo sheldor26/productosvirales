@@ -48908,7 +48908,7 @@ Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (pro
     id: "MLA15503957",
     title: "Balanza Digital Con Bluetooth Personal De Baño Peso Corporal 180 Kg Diseño Minimalista Femmto",
     canonicalName: "Balanza Digital Femmto BWS11",
-    price: 12499,
+    price: 12999,
     originalPrice: 27999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp",
@@ -48942,8 +48942,8 @@ Comprá el Surrey Smart Wi-Fi si el control por app te resulta un plus real (pro
       { label: "Dimensiones", value: "26 x 26 x 2,2 cm" },
     ],
     relatedProducts: ["MLA19147005", "MLA38252447"],
-    priceUpdated: "2026-07-08",
-    priceLastChecked: "2026-07-08",
+    priceUpdated: "2026-07-10",
+    priceLastChecked: "2026-07-10",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-06",
     description: "Balanza digital Femmto BWS11: plataforma de vidrio, hasta 180 kg, diseño minimalista. La más vendida del catálogo por lejos, con más de 72.000 calificaciones. Solo mide peso (sin grasa corporal ni IMC), para quien busca lo esencial al mejor precio.",
@@ -49184,6 +49184,11 @@ Es para vos si: querés el análisis de composición corporal más completo de e
   },
   {
     id: "MLA15286360",
+    // Sin stock confirmado en vivo el 2026-07-10 ("Este producto no está disponible").
+    // Sacado del ranking activo de la guía balanza-digital (reemplazada por Utile
+    // UT-1108 en quickPicks), pero se mantiene documentada con nota de sin stock
+    // por si repone. Reviews reales en vivo: 140 (no 14.161 como decía una nota
+    // vieja de tracking, que estaba mal).
     title: "Balanza digital Omron Premium HN-289 silky grey, hasta 150 kg",
     canonicalName: "Balanza Digital Omron Premium HN-289",
     price: 79999,
@@ -49199,7 +49204,7 @@ Es para vos si: querés el análisis de composición corporal más completo de e
     condition: "new",
     freeShipping: true,
     rating: 4.8,
-    reviewCount: 14161,
+    reviewCount: 140,
     ratingBreakdown: { five: "88.62%", four: "7.53%", three: "1.8%", two: "0.54%", one: "1.51%" },
     pastelColor: "var(--pastel-amber)",
     visibility: "normal",
@@ -49217,16 +49222,16 @@ Es para vos si: querés el análisis de composición corporal más completo de e
     ],
     relatedProducts: ["MLA15503957", "MLA19147005"],
     priceUpdated: "2026-07-06",
-    priceLastChecked: "2026-07-06",
-    priceStatus: "fresh",
+    priceLastChecked: "2026-07-10",
+    priceStatus: "out_of_stock",
     reviewsSampledAt: "2026-07-06",
-    description: "Balanza digital Omron Premium HN-289: marca médica reconocida globalmente, con certificado INMETRO y más de 14.000 calificaciones. Solo pesa (sin grasa corporal ni IMC), pero con la precisión y durabilidad que respalda la marca Omron.",
+    description: "Balanza digital Omron Premium HN-289: marca médica reconocida globalmente, con certificado INMETRO. Solo pesa (sin grasa corporal ni IMC), pero con la precisión y durabilidad que respalda la marca Omron. Sin stock por el momento.",
     seoTitle: "Balanza Omron Premium HN-289: opinión honesta",
     metaDescription: "Balanza digital Omron Premium HN-289: marca médica reconocida, certificado INMETRO. Precio real, pros, contras y para quién conviene.",
-    verdict: "La Omron HN-289 sirve si preferís una marca médica reconocida globalmente por sobre las funciones de análisis corporal, con un respaldo de más de 14.000 calificaciones. No sirve si buscás grasa corporal o IMC: esta balanza solo pesa, aunque lo hace con la precisión que la marca garantiza.",
+    verdict: "La Omron HN-289 sirve si preferís una marca médica reconocida globalmente por sobre las funciones de análisis corporal. No sirve si buscás grasa corporal o IMC: esta balanza solo pesa, aunque lo hace con la precisión que la marca garantiza. Actualmente sin stock en Mercado Libre.",
     pros: [
       "Marca Omron, reconocida mundialmente en dispositivos médicos (tensiómetros, termómetros)",
-      "Más de 14.000 calificaciones con 4.8 de promedio, el segundo mayor respaldo de esta comparativa",
+      "4.8 de promedio en sus calificaciones",
       "Certificado INMETRO, un respaldo de calidad que no todas las balanzas tienen",
       "Reseñas confirman precisión: una comparó el peso exacto de un paquete de 500 g y coincidió",
       "Batería de litio incluida, de mayor duración que las pilas comunes",
@@ -49242,7 +49247,7 @@ La Omron HN-289 es la opción de marca médica reconocida de esta comparativa: O
 
 ## Lo bueno
 
-Con más de 14.000 calificaciones y certificado INMETRO, es de las balanzas con más respaldo de calidad de esta guía. Una reseña hizo una prueba concreta: se pesó, agregó un paquete de 500 gramos y la balanza marcó exactamente esa diferencia. Otra destaca que, pesándose varias veces seguidas, siempre dio el mismo valor. Viene con batería de litio incluida, que dura más que las pilas comunes.
+Con certificado INMETRO y el respaldo de la marca Omron, es de las balanzas con más garantía de calidad de esta guía. Una reseña hizo una prueba concreta: se pesó, agregó un paquete de 500 gramos y la balanza marcó exactamente esa diferencia. Otra destaca que, pesándose varias veces seguidas, siempre dio el mismo valor. Viene con batería de litio incluida, que dura más que las pilas comunes.
 
 ## La contra real
 
@@ -49253,7 +49258,7 @@ No mide grasa corporal ni IMC: es una balanza de pesada pura, así que si buscá
 Comprá la Omron HN-289 si valorás la precisión y el respaldo de una marca médica reconocida, y no te interesa el análisis corporal. No la compres si lo que buscás es grasa corporal, IMC o sincronización con una app: para eso, la Femmto BCS13 de esta guía es la opción.`,
     faq: [
       { question: "¿La Omron HN-289 mide grasa corporal?", answer: "No, solo mide peso. Para grasa corporal e IMC, otra opción de esta guía como la Femmto BCS13 es más indicada." },
-      { question: "¿Por qué confiar en la marca Omron para una balanza?", answer: "Omron es una marca médica reconocida mundialmente por tensiómetros y termómetros, con estándares de precisión que se trasladan a sus balanzas. Tiene certificado INMETRO y más de 14.000 calificaciones respaldándola." },
+      { question: "¿Por qué confiar en la marca Omron para una balanza?", answer: "Omron es una marca médica reconocida mundialmente por tensiómetros y termómetros, con estándares de precisión que se trasladan a sus balanzas. Tiene certificado INMETRO respaldándola." },
       { question: "¿Es precisa?", answer: "Sí, las reseñas confirman precisión exacta (una prueba con un paquete de 500 g coincidió al gramo) y consistencia pesándose varias veces seguidas." },
       { question: "¿Con qué pila funciona?", answer: "Con una pila de litio de 3V, que ya viene incluida y dura más que las pilas comunes." },
     ],

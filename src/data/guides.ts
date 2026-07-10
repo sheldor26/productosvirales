@@ -3133,7 +3133,7 @@ export const guides: Guide[] = [
     ogDescription: `Del básico que solo pesa al que mide grasa corporal por Bluetooth. Femmto, Omron, Utile y Noga comparados por precisión, funciones y precio real de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp`,
     h1: `Balanza digital: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Si solo querés pesarte, la **Femmto BWS11** (alrededor de {{precio:MLA15503957:k}}) alcanza y sobra: es la más vendida, con más de 72.000 opiniones. Para grasa corporal, IMC y app, la Femmto BCS13; y si preferís una marca médica reconocida, la Omron HN-289, más cara pero con certificación.`,
+    directAnswer: `Si solo querés pesarte, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** (alrededor de {{precio:MLA15503957:k}}) alcanza y sobra: es la más vendida, con más de 72.000 opiniones. Para grasa corporal, IMC y app, la [Femmto BCS13](/producto/balanza-digital-con-bluetooth-femmto-bcs13-para-bano-medidor-de-grasa-corporal-y-mla19147005); y si necesitás más capacidad, la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495), que llega a 200 kg.`,
     publishedDate: "2026-07-10",
     updatedDate: "2026-07-10",
     hasDisclosure: true,
@@ -3142,7 +3142,7 @@ export const guides: Guide[] = [
     quickPicks: [
       { productMlaId: "MLA15503957", label: "La más vendida", labelColor: "green", tagline: "Femmto BWS11: solo pesa, precisa y con más de 72.000 opiniones" },
       { productMlaId: "MLA19147005", label: "Con análisis corporal", labelColor: "blue", tagline: "Femmto BCS13: grasa corporal, IMC y app, más de 41.000 opiniones" },
-      { productMlaId: "MLA15286360", label: "Marca reconocida", labelColor: "amber", tagline: "Omron HN-289: marca médica global, certificado INMETRO, más de 14.000 opiniones" },
+      { productMlaId: "MLA65535495", label: "Mayor capacidad", labelColor: "amber", tagline: "Utile UT-1108: hasta 200 kg, el análisis más completo" },
       { productMlaId: "MLA60038492", label: "Sin pilas", labelColor: "purple", tagline: "Noga NG-B01: se recarga por USB, nunca compras pilas" },
     ],
     intro: [
@@ -3152,7 +3152,7 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp", alt: `Balanza digital Femmto, la más vendida de Argentina`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si solo querés saber tu peso, la **Femmto BWS11** es la más vendida y la más barata. Si además querés **grasa corporal, IMC y una app**, la **Femmto BCS13** suma eso por poco más. Si preferís una **marca médica reconocida**, la **Omron HN-289**. Y si no querés depender nunca de pilas, la **Noga NG-B01** se recarga por USB.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Si solo querés saber tu peso, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)** es la más vendida y la más barata. Si además querés **grasa corporal, IMC y una app**, la **[Femmto BCS13](/producto/balanza-digital-con-bluetooth-femmto-bcs13-para-bano-medidor-de-grasa-corporal-y-mla19147005)** suma eso por poco más. Si necesitás **más capacidad**, la **[Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495)** llega a 200 kg. Y si no querés depender nunca de pilas, la **[Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492)** se recarga por USB.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las balanzas digitales con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si **solo pesan** o suman **grasa corporal e IMC**, si sincronizan con una **app**, la precisión según las reseñas y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
 
@@ -3164,29 +3164,28 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Femmto BWS11 — la más vendida` },
       { type: "product-card", productMlaId: "MLA15503957", label: "La más vendida", labelColor: "green", ranking: 1, description: `Solo pesa, plataforma de vidrio templado, hasta 180 kg. 4.8 estrellas en más de 72.000 calificaciones: la balanza más vendida del país.` },
-      { type: "p", content: `Si lo único que querés es saber tu peso, es esta. La Femmto BWS11 es **por lejos la más vendida** de Argentina (más de 72.000 opiniones), con plataforma de vidrio templado antideslizante y capacidad de hasta 180 kg, a alrededor de $12.700. Hace lo esencial de forma precisa y al mejor precio.` },
+      { type: "p", content: `Si lo único que querés es saber tu peso, es esta. La Femmto BWS11 es **por lejos la más vendida** de Argentina (más de 72.000 opiniones), con plataforma de vidrio templado antideslizante y capacidad de hasta 180 kg, a alrededor de {{precio:MLA15503957:k}}. Hace lo esencial de forma precisa y al mejor precio.` },
       { type: "p", content: `Lo honesto: no mide grasa corporal ni IMC, y aunque tiene Bluetooth en la ficha, no sincroniza con ninguna app en la práctica. Para eso, mirá la versión con análisis corporal de abajo.` },
       { type: "pull-quote", content: `"Me pareció perfecto el precio en cuanto a calidad y lo práctico que es. La volvería a comprar sin dudarlo."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Femmto BCS13 — con análisis corporal` },
       { type: "product-card", productMlaId: "MLA19147005", label: "Con análisis corporal", labelColor: "blue", ranking: 2, description: `Grasa corporal, IMC y sincronización con app (iOS/Android). 4.8 estrellas en más de 41.000 calificaciones.` },
-      { type: "p", content: `Si querés más que el peso, esta Femmto suma **grasa corporal, IMC y sincronización por Bluetooth** con una app para iOS y Android, a alrededor de $40.000. Con más de 41.000 opiniones, tiene el segundo mayor respaldo de esta comparativa, y las reseñas destacan lo consistente que es pesándose varias veces seguidas.` },
+      { type: "p", content: `Si querés más que el peso, esta Femmto suma **grasa corporal, IMC y sincronización por Bluetooth** con una app para iOS y Android, a alrededor de {{precio:MLA19147005:k}}. Con más de 41.000 opiniones, tiene el segundo mayor respaldo de esta comparativa, y las reseñas destacan lo consistente que es pesándose varias veces seguidas.` },
       { type: "p", content: `Un dato práctico que casi nadie avisa: los sensores traen una **cinta plástica de protección** que hay que retirar antes del primer uso, o la balanza solo va a mostrar el peso. Sacándola, funciona como corresponde.` },
       { type: "pull-quote", content: `"Junto a la aplicación muestra muchos parámetros y es posible hacer un seguimiento de los mismos. Lo único malo es que en ningún lugar te dice que hay que retirar una cinta plástica que viene en los sensores."`, attribution: `Opinión verificada en MercadoLibre` },
 
-      { type: "h3", title: `3. Omron HN-289 — marca reconocida` },
-      { type: "product-card", productMlaId: "MLA15286360", label: "Marca reconocida", labelColor: "amber", ranking: 3, description: `Marca médica global, certificado INMETRO. 4.8 estrellas en más de 14.000 calificaciones. Solo pesa, pero con la precisión que respalda Omron.` },
-      { type: "p", content: `Si preferís el respaldo de una marca médica reconocida mundialmente, la Omron HN-289 es la opción: Omron es conocida por tensiómetros y termómetros, y esta balanza hereda esa reputación de precisión, con certificado INMETRO y más de 14.000 calificaciones, a alrededor de $80.000.` },
-      { type: "p", content: `Es solo de pesada (sin grasa corporal ni IMC), pero una reseña la puso a prueba con un paquete de 500 gramos y marcó la diferencia exacta. Viene con batería de litio incluida, que dura más que las pilas comunes.` },
+      { type: "h3", title: `3. Omron HN-289 — marca reconocida (sin stock)` },
+      { type: "p", content: `Si preferís el respaldo de una marca médica reconocida mundialmente, la Omron HN-289 es la opción: Omron es conocida por tensiómetros y termómetros, y esta balanza hereda esa reputación de precisión, con certificado INMETRO, a alrededor de {{precio:MLA15286360}}. Es solo de pesada (sin grasa corporal ni IMC), pero una reseña la puso a prueba con un paquete de 500 gramos y marcó la diferencia exacta. Viene con batería de litio incluida, que dura más que las pilas comunes.` },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Actualmente sin stock", content: `Confirmamos en vivo que esta Omron está agotada por el momento. La dejamos documentada porque suele reponerse. [Ver ficha](/producto/balanza-digital-omron-premium-hn-289-silky-grey-hasta-150-kg-mla15286360) para chequear disponibilidad, o mirá la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495) como alternativa disponible ahora.` },
 
       { type: "h3", title: `4. Utile UT-1108 — la de mayor capacidad` },
       { type: "product-card", productMlaId: "MLA65535495", label: "Mayor capacidad", labelColor: "purple", ranking: 4, description: `Hasta 200 kg y el análisis más completo (grasa, agua, masa muscular y ósea) con app iMon. 4.9 estrellas, aunque con pocas calificaciones todavía.` },
-      { type: "p", content: `Si necesitás más capacidad que el resto de esta guía, la Utile UT-1108 llega a **200 kg** y mide grasa corporal, agua, masa muscular, masa ósea y grasa visceral con la app iMon (Android), a alrededor de $50.000.` },
+      { type: "p", content: `Si necesitás más capacidad que el resto de esta guía, la Utile UT-1108 llega a **200 kg** y mide grasa corporal, agua, masa muscular, masa ósea y grasa visceral con la app iMon (Android), a alrededor de {{precio:MLA65535495:k}}.` },
       { type: "p", content: `Lo honesto: todavía tiene pocas calificaciones (17), aunque todas muy positivas. Si preferís ir a lo más probado, la Femmto BCS13 tiene mucho más historial; si necesitás la capacidad o el análisis más completo, esta es la única que lo ofrece.` },
 
       { type: "h3", title: `5. Noga NG-B01 — la que no usa pilas` },
       { type: "product-card", productMlaId: "MLA60038492", label: "Sin pilas", labelColor: "green", ranking: 5, description: `Se recarga por cable USB, sin pilas. 4.9 estrellas en 381 calificaciones.` },
-      { type: "p", content: `Si no querés depender de comprar pilas, la Noga NG-B01 se **recarga por cable USB**, a alrededor de $18.000. Una reseña la probó pesando a 4 personas distintas y siempre marcó el valor correcto.` },
+      { type: "p", content: `Si no querés depender de comprar pilas, la Noga NG-B01 se **recarga por cable USB**, a alrededor de {{precio:MLA60038492:k}}. Una reseña la probó pesando a 4 personas distintas y siempre marcó el valor correcto.` },
       { type: "p", content: `La ficha técnica no confirma oficialmente un medidor de grasa corporal, aunque varias reseñas mencionan que la app conectada muestra datos adicionales. Para grasa corporal confirmada en la ficha, la Femmto BCS13 es más segura.` },
 
       { type: "h2", title: `Tabla comparativa: por funciones y precio`, id: "tabla-comparativa" },
@@ -3195,14 +3194,14 @@ export const guides: Guide[] = [
         [`[Noga NG-B01](https://meli.la/1xGT4Bq)`, `{{precio:MLA60038492}}`, `No confirmado`, `Sí (según reseñas)`, `No usa pilas, se recarga por USB`],
         [`[Femmto BCS13](https://meli.la/1JsFuZh)`, `{{precio:MLA19147005}}`, `Sí`, `Sí (iOS/Android)`, `Análisis corporal accesible`],
         [`[Utile UT-1108](https://meli.la/2GzBmsp)`, `{{precio:MLA65535495}}`, `Sí (el más completo)`, `Sí (iMon, Android)`, `Mayor capacidad (200 kg)`],
-        [`[Omron HN-289](https://meli.la/1cAwWN4)`, `{{precio:MLA15286360}}`, `No`, `No`, `Marca médica reconocida`],
+        [`[Omron HN-289 (sin stock)](/producto/balanza-digital-omron-premium-hn-289-silky-grey-hasta-150-kg-mla15286360)`, `—`, `No`, `No`, `Marca médica, cuando repongan`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu balanza digital`, id: "como-elegir" },
       { type: "h3", title: `1. ¿Solo peso o análisis corporal?` },
-      { type: "p", content: `Si te alcanza con saber cuánto pesás, una básica como la Femmto BWS11 o la Omron cumplen de sobra. Si querés grasa corporal, IMC y un historial en el tiempo, necesitás una con Bluetooth y app de verdad, como la Femmto BCS13 o la Utile.` },
+      { type: "p", content: `Si te alcanza con saber cuánto pesás, una básica como la [Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957) cumple de sobra. Si querés grasa corporal, IMC y un historial en el tiempo, necesitás una con Bluetooth y app de verdad, como la [Femmto BCS13](/producto/balanza-digital-con-bluetooth-femmto-bcs13-para-bano-medidor-de-grasa-corporal-y-mla19147005) o la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495).` },
       { type: "h3", title: `2. Capacidad de peso y pilas` },
-      { type: "p", content: `La mayoría de esta guía llega a 150-180 kg; si necesitás más, la Utile llega a 200 kg. Y si te cansa comprar pilas, la Noga se recarga por USB, la única de esta guía con esa opción.` },
+      { type: "p", content: `La mayoría de esta guía llega a 150-180 kg; si necesitás más, la [Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495) llega a 200 kg. Y si te cansa comprar pilas, la [Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492) se recarga por USB, la única de esta guía con esa opción.` },
       { type: "h3", title: `3. El IMC no es una sentencia` },
       { type: "p", content: `Cada marca calcula el IMC con su propia tabla de referencia. Si una app te clasifica distinto de lo que esperabas, no te alarmes de entrada: es una guía general, no un diagnóstico médico. Ante cualquier duda de salud real, consultá a un profesional.` },
 
@@ -3211,14 +3210,14 @@ export const guides: Guide[] = [
         `**Alrededor de {{precio:MLA15503957:k}}:** la básica que solo pesa, la [Femmto BWS11](https://meli.la/2uS8m62), la más vendida.`,
         `**Alrededor de {{precio:MLA60038492:k}}:** la que se recarga por USB, la [Noga NG-B01](https://meli.la/1xGT4Bq).`,
         `**Alrededor de {{precio:MLA19147005:k}} a {{precio:MLA65535495:k}}:** con análisis corporal, la [Femmto BCS13](https://meli.la/1JsFuZh) y la [Utile UT-1108](https://meli.la/2GzBmsp) (mayor capacidad).`,
-        `**Alrededor de {{precio:MLA15286360:k}}:** la marca médica reconocida, la [Omron HN-289](https://meli.la/1cAwWN4).`,
+        `**Alrededor de {{precio:MLA15286360:k}}:** la marca médica reconocida, la [Omron HN-289](/producto/balanza-digital-omron-premium-hn-289-silky-grey-hasta-150-kg-mla15286360) (sin stock por el momento).`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál balanza digital comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, la **Femmto BWS11**: la más vendida, precisa y la más barata, si solo te interesa el peso. Si querés **grasa corporal, IMC y app**, la **Femmto BCS13** (acordate de sacar la cinta de los sensores). Si preferís una **marca médica reconocida**, la **Omron HN-289**. Si necesitás **más capacidad** o el análisis más completo, la **Utile UT-1108**. Y si no querés depender de pilas, la **Noga NG-B01**. El error a evitar: alarmarte por una clasificación de IMC sin consultar a un profesional si te preocupa de verdad.` },
+      { type: "verdict", content: `Para la mayoría, la **[Femmto BWS11](/producto/balanza-digital-con-bluetooth-personal-de-bano-peso-corporal-180-kg-diseno-minim-mla15503957)**: la más vendida, precisa y la más barata, si solo te interesa el peso. Si querés **grasa corporal, IMC y app**, la **[Femmto BCS13](/producto/balanza-digital-con-bluetooth-femmto-bcs13-para-bano-medidor-de-grasa-corporal-y-mla19147005)** (acordate de sacar la cinta de los sensores). Si necesitás **más capacidad** o el análisis más completo, la **[Utile UT-1108](/producto/balanza-de-bano-personal-inteligente-bluetooth-200-kg-utile-azul-mla65535495)**. Y si no querés depender de pilas, la **[Noga NG-B01](/producto/balanza-digital-smart-fitness-med-corp-app-recargable-noga-blanco-mla60038492)**. La **Omron HN-289**, marca médica reconocida, está sin stock por el momento. El error a evitar: alarmarte por una clasificación de IMC sin consultar a un profesional si te preocupa de verdad.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor balanza digital en Argentina?`, answer: `Por ventas, la [Femmto BWS11](https://meli.la/2uS8m62): la más vendida y barata, aunque solo pesa. Si querés grasa corporal e IMC, la [Femmto BCS13](https://meli.la/1JsFuZh); si preferís una marca médica reconocida, la [Omron HN-289](https://meli.la/1cAwWN4).` },
+      { question: `¿Cuál es la mejor balanza digital en Argentina?`, answer: `Por ventas, la [Femmto BWS11](https://meli.la/2uS8m62): la más vendida y barata, aunque solo pesa. Si querés grasa corporal e IMC, la [Femmto BCS13](https://meli.la/1JsFuZh); si necesitás más capacidad, la [Utile UT-1108](https://meli.la/2GzBmsp) llega a 200 kg.` },
       { question: `¿Qué diferencia hay entre una balanza digital básica y una con análisis corporal?`, answer: `La básica solo mide peso. La de análisis corporal se conecta por Bluetooth a una app y suma grasa corporal, IMC y a veces masa muscular, con historial en el tiempo. La básica es más barata y no depende de ninguna app.` },
       { question: `¿Por qué mi balanza con Bluetooth solo muestra el peso?`, answer: `En algunos modelos, los sensores traen una cinta plástica de protección que hay que retirar antes del primer uso. Sin sacarla, la balanza solo pesa. Revisá ese detalle antes de asumir que el resto de las funciones no anda.` },
       { question: `¿Es confiable el cálculo de IMC de estas balanzas?`, answer: `Sirve como referencia general, pero cada marca usa su propia tabla, así que pueden marcar "sobrepeso" con un peso que otras tablas consideran normal. No lo tomes como diagnóstico médico; ante cualquier duda de salud, consultá a un profesional.` },
