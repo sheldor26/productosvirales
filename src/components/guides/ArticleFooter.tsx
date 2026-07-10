@@ -70,6 +70,49 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
         </div>
       </section>
 
+      {/* Canal de Telegram + WhatsApp: bajas de precio verificadas */}
+      <section
+        aria-label="Canales de bajas de precio"
+        className="pt-8 border-t"
+        style={{ borderTopColor: "var(--border)" }}
+      >
+        <p
+          className="text-[11px] font-semibold tracking-[0.14em] mb-3"
+          style={{ color: "var(--editorial-accent)" }}
+        >
+          BAJAS DE PRECIO
+        </p>
+        <h3
+          className="text-xl md:text-2xl font-semibold text-[var(--text-primary)] leading-tight mb-2"
+          style={{ fontFamily: "var(--font-display)" }}
+        >
+          Te aviso yo cuando baja de precio de verdad
+        </h3>
+        <p className="text-sm text-[var(--text-secondary)] mb-4 max-w-md">
+          Chequeo los precios a mano antes de avisar. Nada de &ldquo;ofertas&rdquo; infladas ni urgencia falsa.
+        </p>
+        <div className="flex flex-wrap gap-3">
+          <a
+            href="https://t.me/productosvirales_argentina"
+            target="_blank"
+            rel="noopener"
+            className="not-prose inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-[6px] text-white transition-opacity hover:opacity-90"
+            style={{ backgroundColor: "var(--editorial-accent)" }}
+          >
+            Sumarme al canal de Telegram
+          </a>
+          <a
+            href="https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t"
+            target="_blank"
+            rel="noopener"
+            className="not-prose inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-[6px] text-white transition-opacity hover:opacity-90"
+            style={{ backgroundColor: "var(--editorial-accent)" }}
+          >
+            Sumarme al canal de WhatsApp
+          </a>
+        </div>
+      </section>
+
       {/* Related guides */}
       {related.length > 0 && (
         <section
@@ -128,49 +171,6 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
           Sin spam. Solo cuando publicamos contenido nuevo.
         </p>
         <NewsletterForm source={guideHref(guide)} />
-      </section>
-
-      {/* Canal de Telegram: bajas de precio verificadas */}
-      <section
-        aria-label="Canal de Telegram"
-        className="pt-8 border-t"
-        style={{ borderTopColor: "var(--border)" }}
-      >
-        <p
-          className="text-[11px] font-semibold tracking-[0.14em] mb-3"
-          style={{ color: "var(--editorial-accent)" }}
-        >
-          BAJAS DE PRECIO
-        </p>
-        <h3
-          className="text-xl md:text-2xl font-semibold text-[var(--text-primary)] leading-tight mb-2"
-          style={{ fontFamily: "var(--font-display)" }}
-        >
-          Te aviso yo cuando baja de precio de verdad
-        </h3>
-        <p className="text-sm text-[var(--text-secondary)] mb-4 max-w-md">
-          Chequeo los precios a mano antes de avisar. Nada de &ldquo;ofertas&rdquo; infladas ni urgencia falsa.
-        </p>
-        <div className="flex flex-wrap gap-3">
-          <a
-            href="https://t.me/productosvirales_argentina"
-            target="_blank"
-            rel="noopener"
-            className="not-prose inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-[6px] text-white transition-opacity hover:opacity-90"
-            style={{ backgroundColor: "var(--editorial-accent)" }}
-          >
-            Sumarme al canal de Telegram
-          </a>
-          <a
-            href="https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t"
-            target="_blank"
-            rel="noopener"
-            className="not-prose inline-flex items-center gap-2 px-5 py-2.5 text-sm font-semibold rounded-[6px] text-white transition-opacity hover:opacity-90"
-            style={{ backgroundColor: "var(--editorial-accent)" }}
-          >
-            Sumarme al canal de WhatsApp
-          </a>
-        </div>
       </section>
     </footer>
   );

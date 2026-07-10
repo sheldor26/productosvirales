@@ -558,6 +558,38 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
             <QuickPicks picks={guide.quickPicks} />
           )}
 
+          {/* Mención inline a los canales, temprano en el cuerpo (no solo al pie):
+              un CTA de bajo compromiso rinde mejor metido en el contenido, cerca
+              del inicio, que esperando a que el lector llegue al final. */}
+          <aside
+            className="not-prose mb-8 p-4 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
+            style={{ borderLeftColor: "var(--editorial-accent)" }}
+          >
+            <p className="text-sm text-[var(--text-secondary)] m-0">
+              ¿Te sirve esto? Te aviso cuando un producto baja de precio de verdad, por{" "}
+              <a
+                href="https://t.me/productosvirales_argentina"
+                target="_blank"
+                rel="noopener"
+                className="font-semibold underline underline-offset-2"
+                style={{ color: "var(--editorial-accent)" }}
+              >
+                Telegram
+              </a>{" "}
+              o{" "}
+              <a
+                href="https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t"
+                target="_blank"
+                rel="noopener"
+                className="font-semibold underline underline-offset-2"
+                style={{ color: "var(--editorial-accent)" }}
+              >
+                WhatsApp
+              </a>
+              .
+            </p>
+          </aside>
+
           {/* Sections */}
           {bodySections.map((section, i) => (
             <Fragment key={i}>
