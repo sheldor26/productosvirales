@@ -49063,19 +49063,23 @@ Comprá esta Femmto si querés más que el número del peso: grasa corporal, IMC
     ],
   },
   {
-    // ADVERTENCIA (sin resolver): rechazada por el Programa de Afiliados de ML el 06-jul-2026
-    // ("Esta URL no está permitida en el Programa"). Reintentado el 2026-07-10 con un link nuevo:
-    // sigue rechazado. affiliateUrl sigue en "PEGAR_MELI_LA": NO tiene forma de monetizar hasta que
-    // Juan consiga un link real o el programa la re-apruebe. AffiliateLink.tsx detecta el placeholder
-    // y muestra "No disponible por ahora" en vez de un link roto.
-    // Sacado del ranking de la guía balanza-digital, reemplazado por Omron HN-289, Utile UT-1108 y Noga NG-B01.
-    // NO linkear activamente desde guias.ts ni desde otras fichas mientras el afiliado esté roto.
+    // RESUELTO 2026-07-10: la publicación original (MLA38252447) seguía rechazada
+    // por el Programa de Afiliados de ML. Juan encontró otra publicación activa
+    // del mismo producto (MLA45283782, mismo modelo MJTZC01YM) con un link de
+    // afiliado que sí funciona. Se mantiene el `id` interno MLA38252447 (no se
+    // toca la URL/slug del sitio ni las referencias cruzadas de otras fichas:
+    // Femmto BWS11 y BCS13 la mencionan en su `relatedProducts`); permalink y
+    // affiliateUrl pasan a apuntar a la publicación nueva. Precio verificado en
+    // vivo: $220.000, 4.8★, 1.997 reseñas (antes $169.000, 4.7★, 1.705).
     id: "MLA38252447",
     title: "Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg",
     canonicalName: "Balanza Xiaomi Mi Body Composition Scale S400",
     mpn: "MJTZC01YM",
     reviewsSampledAt: "2026-07-09",
-    price: 169000,
+    price: 220000,
+    priceUpdated: "2026-07-10",
+    priceLastChecked: "2026-07-10",
+    priceStatus: "fresh",
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_631454-MLU77460358988_072024-O.webp",
     images: [
@@ -49089,14 +49093,14 @@ Comprá esta Femmto si querés más que el número del peso: grasa corporal, IMC
     ],
     category: "Salud y Bienestar",
     categorySlug: "salud-bienestar",
-    permalink: "https://www.mercadolibre.com.ar/p/MLA38252447",
-    affiliateUrl: "PEGAR_MELI_LA",
+    permalink: "https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782",
+    affiliateUrl: "https://meli.la/1zntVSd",
     condition: "new",
     freeShipping: true,
-    rating: 4.7,
-    reviewCount: 1705,
+    rating: 4.8,
+    reviewCount: 1997,
     pastelColor: "var(--pastel-purple)",
-    visibility: "deprioritized",
+    visibility: "normal",
     specs: [
       { label: "Marca y modelo", value: "Xiaomi Mi S400 (MJTZC01YM)" },
       { label: "Tipo de medición", value: "Bioimpedancia eléctrica de doble frecuencia (50 kHz y 250 kHz)" },
