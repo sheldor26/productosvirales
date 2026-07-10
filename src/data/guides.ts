@@ -4097,7 +4097,7 @@ export const guides: Guide[] = [
         [`[Liliana AP152](https://meli.la/1QMfKob)`, `{{precio:MLA61505857}}`, `Selector mate (fijo)`, `Acero`, `La más económica de acero`],
         [`[Philips HD9396](https://meli.la/1nfm8ft)`, `{{precio:MLA47183370}}`, `6 temperaturas + doble pared`, `Acero SUS304`, `Premium sin compromisos`],
         [`[Oster control temp.](https://meli.la/1JfvkMc)`, `{{precio:MLA11145436}}`, `Control de temperatura + mate`, `Acero`, `Quien prioriza marca/service`],
-        [`[Philips HD9350](https://meli.la/2kpg1Zr)`, `{{precio:MLA24601443}}`, `Solo hierve`, `Acero SUS304`, `Acero Philips sin temperatura`],
+        [`[Philips HD9350](https://meli.la/2kpg1Zr) ([ficha](/producto/pava-electrica-philips-hd9350-acero-sus304-1-7l-mla24601443))`, `{{precio:MLA24601443}}`, `Solo hierve`, `Acero SUS304`, `Acero Philips sin temperatura`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu pava eléctrica`, id: "como-elegir" },
@@ -4837,7 +4837,7 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840012-MLA108256179513_032026-F.webp", alt: "Masajeador cervical eléctrico inalámbrico recomendado en Argentina", imageSize: "hero" },
       { type: "h2", title: "¿Cuál es el mejor masajeador cervical en Argentina?" },
-      { type: "p", content: "Después de probar cinco modelos vendidos en MercadoLibre, el que más me sirvió fue el Gadnic Yapeyú: tipo U con 8 nodos shiatsu rotativos y calor infrarrojo, batería de 3 horas y precio razonable. Para contracturas medias a fuertes y uso diario, es el más completo. Si necesitás cervical más lumbar en el mismo aparato, el Wolke Multiuso. Si querés algo portátil sin calor, el Femmto cumple por lo que cuesta. Abajo está el detalle de cada uno." },
+      { type: "p", content: "Después de probar cinco modelos vendidos en MercadoLibre, el que más me sirvió fue el Gadnic Yapeyú: tipo U con 8 nodos shiatsu rotativos y calor infrarrojo, batería de 3 horas y precio razonable. Para contracturas medias a fuertes y uso diario, es el más completo. Si necesitás cervical más lumbar en el mismo aparato, el Wolke Multiuso. Si querés algo portátil sin calor, [el Femmto](/producto/masajeador-cervical-electrico-portatil-inalambrico-bateria-recargable-usb-femmto-mla24127896) cumple por lo que cuesta. Abajo está el detalle de cada uno." },
       { type: "h2", title: "Tabla comparativa" },
       {
         type: "table",
@@ -9854,7 +9854,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `Philips — 5 modelos` },
       { type: "p", content: `Philips inventó la freidora de aire con tecnología Rapid Air en 2010. Sus modelos siguen siendo referencia en calidad de cocción, aunque el precio es notablemente más alto que las marcas nacionales.` },
       { type: "p", content: `Philips NA12000 — 4.2 litros El modelo de entrada de la línea actual. Compacto, ideal para 1 a 3 personas. Sin tantas funciones pero con la calidad de cocción característica de Philips. [Ver en Mercado Libre](https://meli.la/2gU6JZ1)` },
-      { type: "p", content: `Philips PHNA35100 — Doble Canasta 9 litros Doble canasta con función Sync para terminar ambas preparaciones al mismo tiempo. 9 litros totales divididos en dos compartimentos independientes. Una de las mejores opciones disponibles para cocinar en volumen con precisión. [Ver en Mercado Libre](https://meli.la/15VAU5a)` },
+      { type: "p", content: `[Philips PHNA35100](/producto/freidora-de-aire-philips-canasta-doble-9-litros-phna35100-negro-mla55779230) — Doble Canasta 9 litros Doble canasta con función Sync para terminar ambas preparaciones al mismo tiempo. 9 litros totales divididos en dos compartimentos independientes. Una de las mejores opciones disponibles para cocinar en volumen con precisión. [Ver en Mercado Libre](https://meli.la/15VAU5a)` },
       { type: "p", content: `Philips PHNA23100 — 13-en-1, 6.2 litros 13 funciones preconfiguradas cubren preparaciones que van de papas fritas hasta deshidratar alimentos. La versatilidad es genuina, no de marketing: las temperaturas bajas de deshidratación funcionan bien para frutas y verduras. [Ver en Mercado Libre](https://meli.la/2LJBpLs)` },
       { type: "p", content: `Philips HD9280 Essential XL La versión XL de la línea Essential. Formato grande para hogares de 4 a 6 personas, con la sencillez de controles que caracteriza a la línea HD9000. [Ver en Mercado Libre](https://meli.la/15xe1UZ)` },
       { type: "p", content: `Philips HD9270 Essential — 6.2 litros El modelo que más se vende de Philips en Argentina. Equilibrio entre funciones, capacidad y precio dentro de la marca. Si querés Philips sin pagar el precio de los modelos top, este es el punto de entrada razonable. [Ver en Mercado Libre](https://meli.la/2q6aiV8)` },
@@ -10056,7 +10056,7 @@ export const guides: Guide[] = [
         `Algunos accesorios que prometen no funcionan tan bien como lo publicitado`,
       ]},
       { type: "h2", title: `Veredicto: cuál elegir`, id: "veredicto" },
-      { type: "verdict", content: `Si tenés presupuesto ajustado y querés algo que funcione, la [FR248ABP](https://meli.la/2UfmcVY) es la opción obvia. Si cocinás para muchos y tenés dónde ponerla, la [FRD248AP doble canasta](https://meli.la/2aw3uVJ) te ahorra un montón de tiempo. La [FR60AR](https://meli.la/2H5RRoD) es interesante si tenés poco espacio o querés gastar menos en luz. El [grill FR901DP](https://meli.la/1gGXWsc) es más para experimentar que para necesidad real, pero si te atrae la idea, dale. Cualquiera que elijas va a durar: Atma no es lo más moderno del mercado, pero es confiable.` },
+      { type: "verdict", content: `Si tenés presupuesto ajustado y querés algo que funcione, la [FR248ABP](https://meli.la/2UfmcVY) es la opción obvia. Si cocinás para muchos y tenés dónde ponerla, la [FRD248AP doble canasta](https://meli.la/2aw3uVJ) te ahorra un montón de tiempo. La [FR60AR](https://meli.la/2H5RRoD) es interesante si tenés poco espacio o querés gastar menos en luz. El [grill FR901DP](https://meli.la/1gGXWsc) es más para experimentar que para necesidad real, pero si te atrae la idea, dale. Cualquiera que elijas va a durar: Atma no es lo más moderno del mercado, pero es confiable. Si en cambio priorizás la mayor capacidad posible por sobre el precio, la [Philips PHNA35100](/producto/freidora-de-aire-philips-canasta-doble-9-litros-phna35100-negro-mla55779230) de 9 litros con doble canasta independiente rinde mejor que cualquier Atma de esta lista.` },
     ],
     faq: [
       {
@@ -10755,7 +10755,7 @@ export const guides: Guide[] = [
         `En general no van al lavavajillas: lavado a mano`,
       ]},
       { type: "h2", title: `Veredicto: cuál elegir`, id: "veredicto" },
-      { type: "verdict", content: `Vivís solo o en pareja sin cocinar mucho: [NA120/00](https://meli.la/2gU6JZ1) 4.2L, suficiente capacidad, precio más bajo, menos espacio ocupado. Familia de cuatro con cocina regular: [HD9270 Essential](https://meli.la/2q6aiV8) 6.2L, el balance entre precio y capacidad. Necesitás máxima capacidad o cocinás para más gente: [PHNA35100 Doble Canasta](https://meli.la/15VAU5a) 9L, doble freidora en una. Querés funciones preestablecidas: [PHNA23100 13-en-1](https://meli.la/2LJBpLs). Simplicidad máxima sin botoneras: [HD9280 Essential XL](https://meli.la/15xe1UZ).` },
+      { type: "verdict", content: `Vivís solo o en pareja sin cocinar mucho: [NA120/00](https://meli.la/2gU6JZ1) 4.2L, suficiente capacidad, precio más bajo, menos espacio ocupado. Familia de cuatro con cocina regular: [HD9270 Essential](https://meli.la/2q6aiV8) 6.2L, el balance entre precio y capacidad. Necesitás máxima capacidad o cocinás para más gente: [PHNA35100 Doble Canasta](https://meli.la/15VAU5a) 9L, doble freidora en una. Querés funciones preestablecidas: [PHNA23100 13-en-1](https://meli.la/2LJBpLs). Simplicidad máxima sin botoneras: [HD9280 Essential XL](https://meli.la/15xe1UZ). Si en cambio priorizás el precio por sobre la marca, la [Atma FR248ABP](/producto/freidora-de-aire-atma-fr248ap-1750w-8l-y-control-tactil-mla39861162) da 8 litros y control táctil por bastante menos que cualquier Philips de esta lista.` },
       { type: "h2", title: `Comparación con otras marcas` },
       { type: "p", content: `Philips es más cara que Ninja en muchos casos. Ninja cocina muy bien también, especialmente sus modelos doble canasta. Pero Philips tiene más años de refinamiento. La diferencia de precio se justifica para muchos, para otros no.` },
       { type: "p", content: `Frente a Oster, Philips gana en consistencia de cocción. Oster tiene mejor presencia de servicio técnico en todo el país y precios más accesibles.` },
@@ -11947,6 +11947,10 @@ export const guides: Guide[] = [
       {
         type: "p",
         content: "La [guía completa de perfumes árabes](/guias/perfumes-arabes) te arma el panorama completo del nicho en Argentina."
+      },
+      {
+        type: "p",
+        content: "Fuera de este top 15, otra opción masculina a tener en cuenta es el [Al Wataniah Bareeq Al Dhahad](/producto/al-wataniah-bareeq-al-dhahad-edp-100-ml-para-hombre-mla24605489), de una marca menos conocida en Argentina pero con buena relación precio-calidad dentro del género."
       }
     ],
     faq: [
@@ -12778,7 +12782,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "El más popular es el **Set My Yara Collection** ($64.508), con 4 fragancias × 25ml. Incluye Yara, Yara Moi, Yara Tous y Yara Candy en formato spray. Es vegano, libre de crueldad e incluye estuche elegante. Ideal para descubrir cuál Yara es tu favorita o para regalar a alguien que no conoce la línea."
+        content: "El más popular es el **Set My Yara Collection** ($64.508), con 4 fragancias × 25ml. Incluye el [Yara original](/producto/perfume-de-mujer-lattafa-yara-edp-100-ml-arabe-original-mlau2983186467), Yara Moi, Yara Tous y Yara Candy en formato spray. Es vegano, libre de crueldad e incluye estuche elegante. Ideal para descubrir cuál Yara es tu favorita o para regalar a alguien que no conoce la línea."
       },
       {
         type: "product-card",
@@ -14821,6 +14825,10 @@ export const guides: Guide[] = [
         ranking: 10
       },
       {
+        type: "p",
+        content: "Fuera de este top 10 por reseñas, otro clásico que se vende muchísimo es el [Armaf Club de Nuit Intense Man](/producto/armaf-club-de-nuit-intense-man-edp-200ml-mla16122300): es de los perfumes árabes masculinos más reconocidos a nivel mundial, aunque en nuestro catálogo todavía no acumula el volumen de reseñas de los diez de arriba."
+      },
+      {
         type: "h2",
         title: "Para mujer: ranking específico"
       },
@@ -16383,7 +16391,7 @@ export const guides: Guide[] = [
           type: `callout`,
           calloutVariant: `note`,
           calloutTitle: `¿Y los Roomba y Samsung?`,
-          content: `Si buscás marca premium, los iRobot Roomba y el Samsung Jet Bot+ (premium oficial, arriba del millón) son otra liga de precio. No los pusimos acá porque para la mayoría no se justifica el salto, pero si querés ese nivel, tenemos guía aparte de [robots Roomba](/guias/robot-aspiradora-roomba).`,
+          content: `Si buscás marca premium, los iRobot Roomba y el [Samsung Jet Bot+](/producto/aspiradora-robot-samsung-jetbot-lidar-mapping-dig-inverter-mla26504431) (premium oficial, arriba del millón) son otra liga de precio. No los pusimos acá porque para la mayoría no se justifica el salto, pero si querés ese nivel, tenemos guía aparte de [robots Roomba](/guias/robot-aspiradora-roomba).`,
         },
   
         { type: `h2`, title: `Tabla rápida: cuál según tu caso`, id: `tabla` },
@@ -17250,7 +17258,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Smartlife SL-EC8501 — mejor elección general` },
       { type: "product-card", productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Bomba de 20 bares, espumador a vapor y dos portafiltros: café molido o cápsulas Nespresso. 4.6 estrellas con 1.656 calificaciones, la express económica más probada del país.` },
-      { type: "p", content: `Es la que recomendamos a la mayoría, y las 1.656 calificaciones explican por qué: por menos de $200.000 te da **20 bares de presión**, espumador de leche con perilla para vapor o agua caliente, calentador de tazas y un diferencial que a este precio no ofrece casi nadie: viene con **dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso**. Un comprador hizo la cuenta en su reseña: comprar espresso, espumador y máquina de cápsulas por separado salía mucho más caro.` },
+      { type: "p", content: `Es la que recomendamos a la mayoría, y las 1.656 calificaciones explican por qué: por menos de $200.000 te da **20 bares de presión**, espumador de leche con perilla para vapor o agua caliente, calentador de tazas y un diferencial que a este precio no ofrece casi nadie: viene con **dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso**. Un comprador hizo la cuenta en su reseña: comprar espresso, espumador y máquina de cápsulas por separado salía mucho más caro. Si además querés compatibilidad con cápsulas Dolce Gusto, Smartlife tiene una [versión 3 en 1](/producto/cafetera-smartlife-3-en-1-capsulas-nespresso-dolce-gusto-y-cafe-molido-mla28314113) que suma ese tercer sistema.` },
       { type: "p", content: `Lo honesto: el manual es malo (mirá un tutorial de cinco minutos antes de estrenarla), trae un tapón de silicona escondido dentro del depósito que tenés que sacar o la máquina no toma agua, y los primeros cafés salen flojos hasta que se purga el circuito. Los tres avisos salen de las propias reseñas y los tres se resuelven el primer día. Después queda lo que escribió un comprador: "nada que envidiar a un resto bar".` },
 
       { type: "h3", title: `2. Oster BVSTEM5501B — mejor marca-precio` },
