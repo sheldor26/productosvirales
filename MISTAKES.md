@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-07-09 — `git stash` sobre un árbol con trabajo sin commitear de Juan
+
+**Qué pasó:** para verificar si un check fallaba antes de mis cambios, se intentó `git stash` en un working tree que tenía trabajo previo de Juan sin commitear (ArticleFooter, curated-products, scripts). Falló por un `.git/index.lock` viejo que el sandbox no puede borrar — de pura suerte, porque si funcionaba habría stasheado el trabajo de Juan mezclado con el de la sesión.
+
+**Por qué:** se asumió que el árbol solo tenía los cambios de la sesión, sin correr `git status` antes.
+
+**Cómo evitarlo:** nunca usar `git stash` en este repo. Para aislar cambios propios, comparar con `git diff` de archivos puntuales o leer el archivo en HEAD con `git show HEAD:path`. Siempre `git status` antes de cualquier operación de git que mueva estado.
+
+**Archivos involucrados:** ninguno dañado; `.git/index.lock` sigue pendiente de borrar a mano (el sandbox no tiene permiso de unlink).
+
 ## 2026-07-06 — Guía de consumo eléctrico calculaba con tarifa 400 veces menor a la real
 
 **Qué pasó:** la guía `cuanto-consume-freidora-de-aire` (publicada 2026-06-14) calculaba todos sus ejemplos con electricidad a $0,30-$0,50 por kWh. La tarifa real de Edenor/Edesur en julio 2026 es de ~$154-155/kWh antes de impuestos (~$180-230 con IVA y cargos, sin subsidio; ~$55-70 con subsidio dentro del bloque). Toda la guía decía que usar la freidora costaba "$8-14 al mes"; el número real (uso moderado, sin subsidio) es más cercano a $3.600-4.600 al mes. Se detectó al hacer una auditoría de candidatas a re-optimizar por SEO (el error no lo encontró ningún chequeo técnico, sino comparar esta guía contra otra del sitio, `estufa-electrica-bajo-consumo`, que sí tenía la tarifa correcta).

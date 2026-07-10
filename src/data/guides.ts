@@ -42,6 +42,7 @@ export const guides: Guide[] = [
     ogDescription: `Del más vendido y barato al premium con inverter. BGH, Samsung, Atma y LG comparados por litros, potencia, grill y precio real de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg`,
     h1: `Microondas: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría, el mejor microondas es el **BGH Quick Chef 20L** (alrededor de {{precio:MLA18193159:k}}): el más vendido de Argentina, a perilla y con más de 4.100 opiniones. Si preferís control digital, el BGH Quick Chef Eco; para dorar y gratinar, el Samsung 23L con grill; y para una familia, el BGH de 28 litros.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-06-28",
     hasDisclosure: true,
@@ -163,6 +164,7 @@ export const guides: Guide[] = [
     ogDescription: `Del chico de 17 litros al grande de 65. Atma, BGH, Ultracomb y Smartlife comparados por capacidad, convección, grill y precio real de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg`,
     h1: `Horno eléctrico de sobremesa: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **Atma 45L con grill** (alrededor de {{precio:MLA27167036:k}}): amplio, entra un pollo entero y es el más vendido, con más de 2.300 opiniones. Para una persona sola, el Ultracomb 17L es el más barato; para familia grande, el BGH 65L; y para cocción precisa, el Smartlife 50L con convección.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-06-28",
     hasDisclosure: true,
@@ -743,6 +745,7 @@ export const guides: Guide[] = [
     ogDescription: `De la más vendida y barata a la premium que dura. Alpina, Cougar y Corsair comparadas por material, peso soportado y precio real de MercadoLibre. La guía honesta.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_656227-MLA95633522918_102025-F.jpg`,
     h1: `Silla gamer: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría, la mejor silla gamer es la **Alpina FT-088** (alrededor de {{precio:MLA47061669:k}}): la más vendida y barata de Argentina, con más de 6.100 opiniones. Si pesás cerca de 100 kg o pasás muchas horas sentado, conviene la Cougar Armor Elite; y si el cuero sintético te da calor, la Cougar Fusion EX de tela.`,
     publishedDate: "2026-07-01",
     updatedDate: "2026-07-01",
     hasDisclosure: true,
@@ -837,6 +840,7 @@ export const guides: Guide[] = [
       { label: "Mouse gamer: cuál comprar", href: "/guias/gaming/mouse-gamer" },
       { label: "Monitor gamer: cuál comprar", href: "/guias/gaming/monitor-gamer" },
       { label: "Kit gamer: teclado + mouse en una compra", href: "/guias/gaming/kit-gamer" },
+      { label: "Proyector portátil para jugar en pantalla grande", href: "/guias/tech/proyector-portatil" },
     ],
     internalLinksTitle: "Más para tu setup gamer",
   },
@@ -1910,6 +1914,7 @@ export const guides: Guide[] = [
     ogTitle: `Parlantes bluetooth: cuál comprar en Argentina`,
     ogDescription: `Del mini para llevar al de fiesta. JBL, Xiaomi y torres de sonido comparados por tamaño, potencia y precio real de MercadoLibre. La guía honesta de parlantes.`,
     h1: `Parlantes bluetooth: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Depende del uso: para llevar a todos lados, el **Xiaomi Sound Pocket** (alrededor de {{precio:MLA44740757:k}}) es el más vendido y el más barato. El mejor equilibrio entre sonido, tamaño y resistencia es el **JBL Flip 7**; para más potencia y batería, el JBL Charge 5; y para el hogar, la torre Noblex MNT290.`,
     publishedDate: "2026-07-05",
     updatedDate: "2026-07-05",
     hasDisclosure: true,
@@ -1964,7 +1969,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `6. Noblex MNT290 — torre para el hogar` },
       { type: "product-card", productMlaId: "MLA15733030", label: "Torre para el hogar", labelColor: "amber", ranking: 6, description: `Torre de sonido fija para casa, con bluetooth, luces LED y efectos. 4.6 estrellas en más de 3.000 calificaciones.` },
-      { type: "p", content: `Si lo que querés es un **equipo de sonido fijo en casa** y no un portátil, la torre Noblex es la opción más vendida. Da volumen potente para ambientar el living o una reunión, suma luces LED y efectos, y cuesta menos que un JBL grande (alrededor de $232.000). No es para llevar (es un mueble), pero como equipo de hogar con bluetooth y mucho respaldo de opiniones, es difícil de igualar por el precio.` },
+      { type: "p", content: `Si lo que querés es un **equipo de sonido fijo en casa** y no un portátil, la torre Noblex es la opción más vendida. Da volumen potente para ambientar el living o una reunión, suma luces LED y efectos, y cuesta menos que un JBL grande (alrededor de $232.000). No es para llevar (es un mueble), pero como equipo de hogar con bluetooth y mucho respaldo de opiniones, es difícil de igualar por el precio. Y si la idea es armar un cine en casa completo, la combinación clásica es una torre o un portátil grande más un [proyector portátil](/guias/tech/proyector-portatil).` },
 
       { type: "h2", title: `Tabla comparativa: por tamaño y uso`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tamaño`, `Ideal para`], rows: [
@@ -2305,6 +2310,7 @@ export const guides: Guide[] = [
     ogTitle: `Auriculares inalámbricos: cuál comprar en Argentina`,
     ogDescription: `In-ear baratos, de vincha o con cancelación de ruido. Los auriculares bluetooth más vendidos de Argentina comparados por tipo, uso y precio real de MercadoLibre.`,
     h1: `Auriculares inalámbricos: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría convienen los **Xiaomi Redmi Buds 6 Play** (alrededor de {{precio:MLA39962085:k}}): baratísimos y con más de 195.000 opiniones. Si preferís vincha, la Sony WH-CH520 con hasta 50 horas de batería; para aislarte del ruido, los JBL Tune 770NC con cancelación activa; y para correr, los Alpina F50 Pro con gancho.`,
     publishedDate: "2026-07-08",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
@@ -2352,7 +2358,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `4. JBL Tune 770NC — con cancelación de ruido` },
       { type: "product-card", productMlaId: "MLA53285777", label: "Cancelación de ruido", labelColor: "purple", ranking: 4, description: `Vincha over-ear con cancelación activa de ruido. 4.8 estrellas en más de 1.000 calificaciones. Para aislarte en viajes y oficina.` },
-      { type: "p", content: `Si querés cancelación de ruido en formato vincha y a precio razonable, la JBL Tune 770NC es la opción. La **cancelación activa** te aísla del ruido del colectivo, la oficina o el avión, con el sonido JBL y buena batería, a alrededor de $159.000. Es el punto medio entre la Sony WH-CH520 (sin cancelación, más barata) y los premium.` },
+      { type: "p", content: `Si querés cancelación de ruido en formato vincha y a precio razonable, la JBL Tune 770NC es la opción. La **cancelación activa** te aísla del ruido del colectivo, la oficina o el avión, con el sonido JBL y buena batería, a alrededor de $159.000. Es el punto medio entre la Sony WH-CH520 (sin cancelación, más barata) y los premium. Es también el formato ideal para ver pelis de noche en un [proyector portátil](/guias/tech/proyector-portatil) sin molestar a nadie: se conectan por bluetooth directo.` },
       { type: "p", content: `Para quien viaja, trabaja en lugares ruidosos o simplemente quiere silencio para concentrarse, la cancelación cambia la experiencia. Si no la necesitás, la Sony WH-CH520 te ahorra plata; si la querés en vincha sin irte a premium, esta es la indicada.` },
 
       { type: "h3", title: `5. Alpina F50 Pro — para deporte` },
@@ -2702,6 +2708,7 @@ export const guides: Guide[] = [
     ogTitle: `Estufas eléctricas: cuál comprar en Argentina`,
     ogDescription: `Caloventor, cuarzo o halógena: qué calienta mejor, cuánto consume cada una y cuál conviene según tu ambiente. La guía honesta de estufas eléctricas, con precios reales.`,
     h1: `Estufas eléctricas: cuál comprar en Argentina y cuánto consumen [2026]`,
+    directAnswer: `Para calentar rápido un ambiente chico, el **caloventor Liliana** (alrededor de {{precio:MLA34782966:k}}) es el más vendido y la opción más pareja. Para calor radiante directo por poca plata, la estufa de cuarzo de dos niveles; y para calor instantáneo sobre una persona, la halógena Winco. Ojo: todas consumen bastante electricidad; abajo te mostramos cuánto.`,
     publishedDate: "2026-07-01",
     updatedDate: "2026-07-01",
     hasDisclosure: true,
@@ -3009,6 +3016,7 @@ export const guides: Guide[] = [
     ogDescription: `Sin instalación fija, con ruedas y frío/calor en un solo equipo. Philco, BGH, Sansei, RCA y Surrey comparados por frigorías, ruido y precio real de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp`,
     h1: `Aire acondicionado portátil: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **Philco PHP35HC7API** (alrededor de {{precio:MLA45423359:k}}): frío/calor, 3.010 frigorías y más de 1.200 opiniones, el más vendido del país. Si priorizás service oficial y garantía, el BGH BP35WCEW; para gastar lo menos posible, el Sansei SAP26HC9AN; y para manejarlo por app, el Surrey Smart Wi-Fi.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-07-06",
     hasDisclosure: true,
@@ -3125,6 +3133,7 @@ export const guides: Guide[] = [
     ogDescription: `Del básico que solo pesa al que mide grasa corporal por Bluetooth. Femmto, Omron, Utile y Noga comparados por precisión, funciones y precio real de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_845343-MLA114064454295_072026-O.webp`,
     h1: `Balanza digital: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Si solo querés pesarte, la **Femmto BWS11** (alrededor de {{precio:MLA15503957:k}}) alcanza y sobra: es la más vendida, con más de 72.000 opiniones. Para grasa corporal, IMC y app, la Femmto BCS13; y si preferís una marca médica reconocida, la Omron HN-289, más cara pero con certificación.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-07-06",
     hasDisclosure: true,
@@ -3234,6 +3243,7 @@ export const guides: Guide[] = [
     ogDescription: `De la motorizada más vendida al kit de 3 para toda la casa, sin abono mensual. Gadnic, Geotek, TP-Link y Ezviz comparadas con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_782305-MLA111600184461_052026-O.webp`,
     h1: `Cámaras de seguridad: cuáles comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **Gadnic SX39** (alrededor de {{precio:MLA18711640:k}}): motorizada, con seguimiento y más de 21.000 opiniones, sin pagar mensualidad. Para exterior, la Geotek de doble lente con IP66; si priorizás imagen y app, la TP-Link Tapo C210 (2K y 4.9 estrellas); y para cubrir toda la casa, el kit de 3 Geotek.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-07-06",
     hasDisclosure: true,
@@ -3357,6 +3367,7 @@ export const guides: Guide[] = [
     ogDescription: `Del power bank más vendido al que carga notebooks. Gadnic, Xiaomi, Energizer y Ugreen comparados por capacidad real, velocidad y precio de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_604358-MLA99985510449_112025-O.webp`,
     h1: `Cargador portátil (power bank): cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **Gadnic de 20.000 mAh** (alrededor de {{precio:MLA21235471:k}}): la mayor capacidad por la menor plata. Si preferís marca, el Xiaomi de 10.000 mAh tiene carga turbo a precio de genérico; y para notebook, el Energizer de 27.000 mAh y 65 W. Dato clave: la capacidad útil real es un 60-70% de la que dice el envase.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-07-06",
     hasDisclosure: true,
@@ -3477,6 +3488,7 @@ export const guides: Guide[] = [
     ogTitle: `Licuadora 2026: cuál comprar de verdad (sin pagar de más)`,
     ogDescription: `De vaso, de mano o portátil; vidrio o plástico; Oster o Atma. La guía honesta de licuadoras en Argentina, con precios reales de MercadoLibre y contras incluidos.`,
     h1: `Mejores licuadoras en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    directAnswer: `Para la mayoría conviene la **Oster Classic con jarra de vidrio** (alrededor de {{precio:MLA17734241:k}}): encastre de metal, 4.8 estrellas en más de 2.300 opiniones y la durabilidad clásica de la marca. Para gastar menos, hay una de jarra de vidrio muy probada a ~{{precio:MLA19693634:k}}; para más potencia, la Philips de 1.000 W; y para batidos individuales, la Ninja Blast portátil.`,
     publishedDate: "2026-06-21",
     updatedDate: "2026-06-21",
     hasDisclosure: true,
@@ -4020,6 +4032,7 @@ export const guides: Guide[] = [
     ogTitle: `Pava eléctrica 2026: cuál comprar de verdad (sin pagar de más)`,
     ogDescription: `Mate sin quemar la yerba, agua sin gusto a plástico y cuánto conviene gastar realmente. La guía honesta de pavas eléctricas en Argentina.`,
     h1: `Mejores pavas eléctricas en Argentina: cuál comprar y cuánto cuesta [2026]`,
+    directAnswer: `Para la mayoría conviene la **Liliana Mateando AP975B** (alrededor de {{precio:MLA8933826:k}}): función mate, filtro y 5.454 calificaciones, la más probada del país. Si sos fanático del mate, la de temperatura exacta evita quemar la yerba; y si querés interior de acero gastando poco, hay una con 4 niveles por menos de {{precio:MLA14263533:k}}.`,
     publishedDate: "2026-06-21",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
@@ -4141,6 +4154,7 @@ export const guides: Guide[] = [
       { label: "Pavas eléctricas Liliana", href: "/guias/pava-electrica-liliana" },
       { label: "Pavas eléctricas Oster", href: "/guias/pava-electrica-oster" },
       { label: "Pavas eléctricas Atma", href: "/guias/pava-electrica-atma" },
+      { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
     ],
     internalLinksTitle: "Guías de pavas eléctricas",
   },
@@ -5906,6 +5920,108 @@ export const guides: Guide[] = [
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
+      { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
+      { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // DEMO — Liliana vs Peabody (comparativa, ejemplo pedido por Juan)
+  // Keyword: pava liliana o peabody / liliana vs peabody pava
+  // STAGED — publishedDate futura, sin commit hasta que Juan la revise
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "liliana-vs-peabody-pava-electrica",
+    category: "pavas-electricas",
+    title: "Liliana Mateando vs Peabody Digital: ¿cuál pava eléctrica comprar?",
+    seoTitle: "Liliana vs Peabody: qué pava eléctrica conviene comprar",
+    metaDescription:
+      "Comparamos la Liliana Mateando y la Peabody Digital 40-100°C: precio, función mate, acero y calificaciones reales para elegir sin dudar.",
+    ogTitle: "Liliana vs Peabody: la más vendida contra la de mejor rating",
+    ogDescription:
+      "Función mate confirmada contra control digital de temperatura. Comparamos precio, material y calificaciones reales de las dos pavas más elegidas del catálogo.",
+    h1: "Liliana Mateando vs Peabody Digital: cuál pava eléctrica conviene en 2026",
+    publishedDate: "2026-07-09",
+    updatedDate: "2026-07-09",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst:
+      "Son las dos pavas que más recomendamos en la guía general de pavas eléctricas, pero por razones distintas. Comparamos la Liliana Mateando, la más elegida, contra la Peabody Digital, la de mejor rating del catálogo, para que sepas cuál te conviene.",
+    quickPicks: [
+      { productMlaId: "MLA8933826", label: "Elección general", labelColor: "green", tagline: "Función mate confirmada y 5.489 calificaciones, la base más grande del catálogo" },
+      { productMlaId: "MLA47275624", label: "Mejor para mate en serio", labelColor: "blue", tagline: "Control digital 40-100°C y el rating más alto del sitio: 4.9 estrellas" },
+    ],
+    intro: [
+      "Si ya leíste la guía general de pavas eléctricas, sabés que la Liliana Mateando y la Peabody Digital son las dos primeras opciones del ranking, pero no compiten por lo mismo. La Liliana gana por volumen de compradores y precio; la Peabody gana por precisión de temperatura y rating.",
+      "Acá las ponemos una al lado de la otra, con specs reales y precios actuales, para que la elijas según lo que de verdad usás: si tomás mate todos los días y te importa el grado exacto, o si buscás algo simple que funcione bien y ya está probado por miles de personas.",
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_888950-MLA99507243556_112025-F.webp", alt: "Pava eléctrica Liliana Mateando AP975B con función mate, comparada con la Peabody Digital", imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta corta", content: "Para la mayoría, la **Liliana Mateando** alcanza y sobra: función mate confirmada, precio más bajo y la base de opiniones más grande del catálogo. Si tomás mate en serio y querés elegir el grado exacto (70°, 75°, 80°), la **Peabody Digital** vale el extra." },
+
+      { type: "trust-block", trustVariant: "methodology", content: "**Cómo comparamos:** enfrentamos las dos pavas cruzando ficha técnica oficial, precio actual en MercadoLibre y las calificaciones públicas de compradores reales. No son de la misma categoría de precio ni de funciones, así que en vez de elegir una sola ganadora, mostramos para qué caso conviene cada una." },
+
+      { type: "h2", title: "Liliana Mateando: la más elegida", id: "liliana" },
+      { type: "product-card", productMlaId: "MLA8933826", label: "Elección general", labelColor: "green", ranking: 1, description: "Función mate confirmada en ficha oficial, 2 niveles (mate/hervir), filtro extraíble, 1.7L y doble visor de agua. 4.6 estrellas en 5.489 calificaciones, la base más grande de todo el catálogo de pavas." },
+      { type: "p", content: "A {{precio:MLA8933826}} es la opción de sentido común. La función mate está confirmada en la ficha técnica (no todos los modelos económicos la tienen documentada), y con casi 5.500 calificaciones es, con diferencia, la pava con más compradores reales detrás. El selector es una perilla física con dos posiciones, mate o hervir, sin pantalla ni lectura en grados." },
+      { type: "pull-quote", content: "Funciona muy bien. Si bien tiene un par de contras, en relación precio-calidad estoy bastante satisfecho. En primer lugar, el plástico: parece mucho más resistente en las fotos de lo que en realidad es.", attribution: "Comprador verificado en MercadoLibre, noviembre 2022 · 24 personas lo encontraron útil" },
+
+      { type: "h2", title: "Peabody Digital: la de mejor rating", id: "peabody" },
+      { type: "product-card", productMlaId: "MLA47275624", label: "Mejor para mate en serio", labelColor: "blue", ranking: 2, description: "Display LED touch con temperatura continua de 40° a 100°C, interior de acero, keep warm 2 horas y función memoria para cortes de luz. 4.9 estrellas, el rating más alto de todo el sitio." },
+      { type: "p", content: "A {{precio:MLA47275624}}, {{preciodif:MLA47275624:MLA8933826}} más que la Liliana, no compite en precio: compite en precisión. Elegís la temperatura exacta desde el panel táctil (70° para mate, 75° si te gusta más suave, 100° para hervir) y la pava la sostiene hasta 2 horas sin que hagas nada. El interior es de acero inoxidable, no plástico." },
+      { type: "pull-quote", content: "Tuve una Peabody 10 años y quería conseguir la misma marca. Todas tienen preseteadas las temperaturas, pero esta logra calentar a 75 grados para el mate. Muy fácil manejo y súper canchera.", attribution: "Compradora verificada en MercadoLibre, abril 2025 · 21 personas lo encontraron útil" },
+
+      { type: "h2", title: "Tabla comparativa: Liliana vs Peabody", id: "tabla-comparativa" },
+      { type: "table", headers: ["Modelo", "Precio", "Rating", "Temperatura", "Material", "Ideal para"], rows: [
+        ["[Liliana Mateando](https://meli.la/2qM28cx)", "{{precio:MLA8933826}}", "4.6★ (5.489 cal.)", "2 niveles fijos", "Plástico", "Elección general, mejor precio"],
+        ["[Peabody Digital](https://meli.la/2cyQgD2)", "{{precio:MLA47275624}}", "4.9★ (897 cal.)", "Continua 40° a 100°", "Acero inoxidable", "Mate en serio, temperatura exacta"],
+      ]},
+
+      { type: "h2", title: "Las diferencias que realmente importan", id: "diferencias" },
+      { type: "h3", title: "Temperatura: preset contra control real" },
+      { type: "p", content: "Esta es la diferencia central. La Liliana tiene un preset de mate que, según las reseñas, calienta a la temperatura justa, pero no te deja elegir el grado. La Peabody te da el número exacto en pantalla y lo mantiene. Si tomás mate todos los días y notás la diferencia entre 70° y 80°, la Peabody se justifica. Si con que no esté hirviendo te alcanza, el preset de la Liliana funciona igual de bien para el uso diario. El detalle completo de cómo funcionan los distintos sistemas de temperatura está en la [guía de pavas con control de temperatura](/guias/pava-electrica-control-temperatura)." },
+      { type: "h3", title: "Material: plástico contra acero" },
+      { type: "p", content: "La Liliana es plástico por fuera y por dentro; la Peabody tiene interior de acero inoxidable con doble pared, así que el exterior no quema aunque el agua esté caliente. El acero no le pasa gusto al agua y suele durar más años. Si sos sensible al sabor o buscás algo que dure, la Peabody tiene ventaja acá, más allá de la temperatura." },
+      { type: "h3", title: "Capacidad y potencia" },
+      { type: "p", content: "La Liliana tiene más capacidad, 1.7L contra 1.5L de la Peabody, así que llena un termo más con la misma carga. La Peabody es más potente, 2.200W contra 2.000W, y calienta más rápido pese a ser más chica. Ninguna gana claro acá: depende de si preferís menos vueltas a la pava o llenar más termos de una vez." },
+      { type: "callout", calloutVariant: "note", calloutTitle: "Un detalle del cable", content: "La Peabody tiene el cable más corto del catálogo (0.75m). Si tu tomacorriente está lejos de la mesada, medilo antes de comprar." },
+
+      { type: "h2", title: "¿A quién le recomiendo la Liliana Mateando?", id: "recomendada-liliana" },
+      { type: "list", items: [
+        "Tomás mate pero no sos exigente con el grado exacto",
+        "Preferís pagar menos y confiar en el modelo con más compradores del catálogo",
+        "No te importa que el cuerpo sea plástico en vez de acero",
+        "Buscás algo simple: una perilla, dos posiciones, sin pantalla",
+      ]},
+      { type: "h2", title: "¿A quién le recomiendo la Peabody Digital?", id: "recomendada-peabody" },
+      { type: "list", items: [
+        "Tomás mate en serio y notás si el agua está a 70° o a 85°",
+        "Preferís interior de acero antes que plástico",
+        "Te sirve el keep warm para no recalentar cada rato",
+        "Te preocupan los cortes de luz y querés que la pava retome sola",
+      ]},
+
+      { type: "h2", title: "Veredicto: cuál comprar", id: "veredicto" },
+      { type: "verdict", content: "Para la mayoría, la **Liliana Mateando** a {{precio:MLA8933826}}: función mate confirmada, precio más bajo y la base de opiniones más grande del catálogo. Si el mate es serio en tu casa y querés elegir el grado exacto con acero inoxidable y keep warm, la **Peabody Digital** a {{precio:MLA47275624}} es la mejor pava del sitio para eso, avalada por el rating más alto de todo el catálogo (4.9★)." },
+      { type: "p", content: "¿Ninguna de las dos te convence del todo? En la [guía completa de pavas eléctricas](/guias/pava-electrica) están las siete opciones que comparamos, incluida una de acero a mejor precio y una premium con doble pared." },
+    ],
+    faq: [
+      { question: "¿La Liliana Mateando tiene función mate de verdad?", answer: "Sí, está confirmada en la ficha técnica oficial, a diferencia de otros modelos económicos donde hay inconsistencia entre ficha y manual. Tiene 2 niveles: uno para mate y otro para hervir, sin lectura en grados." },
+      { question: "¿Vale la pena pagar más por la Peabody Digital?", answer: "Depende de cuánto te importe el grado exacto. La Peabody deja elegir la temperatura entre 40° y 100° y la mantiene hasta 2 horas; la Liliana tiene un preset fijo. Si tomás mate a diario y notás la diferencia, sí vale el extra." },
+      { question: "¿Cuál dura más, la Liliana o la Peabody?", answer: "La Peabody tiene interior de acero inoxidable, que suele durar más que el plástico de la Liliana y no le pasa gusto al agua. Ninguna de las dos tiene garantía extendida más allá de la estándar del vendedor." },
+      { question: "¿Cuál tiene mejor rating, Liliana o Peabody?", answer: "La Peabody Digital tiene 4.9 estrellas, el rating más alto del catálogo de pavas. La Liliana Mateando tiene 4.6 estrellas, pero sobre una base mucho más grande: 5.489 calificaciones contra 897." },
+      { question: "¿Alguna de las dos tiene keep warm?", answer: "Solo la Peabody Digital, hasta 2 horas. La Liliana no mantiene la temperatura: una vez que corta, tenés que volver a calentar si pasó mucho tiempo." },
+      { question: "¿Cuál conviene si tengo cortes de luz frecuentes?", answer: "La Peabody tiene función memoria: si se va la luz o levantás la jarra, recuerda tu configuración durante 30 minutos. La Liliana no tiene esa función." },
+    ],
+    internalLinksTitle: "Pavas eléctricas relacionadas",
+    internalLinks: [
+      { label: "Ver Liliana Mateando en MercadoLibre", href: "https://meli.la/2qM28cx" },
+      { label: "Ver Peabody Digital en MercadoLibre", href: "https://meli.la/2cyQgD2" },
+      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
+      { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
+      { label: "Pava Peabody: ¿vale la pena el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
   },
@@ -6075,6 +6191,7 @@ export const guides: Guide[] = [
       { label: "Ver Peabody PE-DK2200N (digital)", href: "https://meli.la/2cyQgD2" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
@@ -7034,6 +7151,7 @@ export const guides: Guide[] = [
     ogDescription:
       "La guía completa de masajeadores: tipos, beneficios reales, mitos, cómo elegir y cuándo no usarlos. Con precios reales del mercado argentino.",
     h1: "Masajeador: qué tipo necesitás y cómo elegir bien",
+    directAnswer: `Depende del dolor: para cuello y hombros —el más común— conviene el **masajeador cervical portátil** (alrededor de {{precio:MLA24127896:k}}), el más vendido. Para contracturas en músculos grandes como espalda y piernas, una pistola de percusión con presión profunda. Abajo te mostramos cuál conviene según la zona, el tipo de dolor y el presupuesto.`,
     publishedDate: "2026-06-08",
     updatedDate: "2026-06-08",
     hasDisclosure: true,
@@ -9801,6 +9919,7 @@ export const guides: Guide[] = [
     seoTitle: `Mejores freidoras de aire en Argentina 2026: cuál comprar`,
     metaDescription: `Comparamos 20 freidoras de aire en Argentina: Atma, Peabody, Philips, Ninja y más. Precio, capacidad y cuál comprar según tu hogar.`,
     h1: `Las mejores freidoras de aire en Argentina [2026]`,
+    directAnswer: `Para la mayoría conviene la **Atma FR248AP de 8 litros** (alrededor de {{precio:MLA39861162:k}}): control táctil, garantía local y tamaño que alcanza para una familia. Si priorizás cocción pareja, la Philips con tecnología Rapid Air; y si querés la entrada más barata a la categoría, la de 4,2 litros a precio de entrada.`,
     publishedDate: "2026-04-15",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
@@ -12921,6 +13040,7 @@ export const guides: Guide[] = [
     ogTitle: "Perfumes árabes en Argentina: lo que nadie te dice antes de empezar",
     ogDescription: "Marcas, precios, dupes y trampas. Lo que aprendí después de probar el nicho durante 2 años en Argentina.",
     h1: "Perfumes árabes en Argentina: la guía honesta para empezar (2026)",
+    directAnswer: `Para empezar con perfumes árabes en Argentina conviene arrancar por las marcas grandes (Lattafa, Armaf, Al Haramain) compradas a vendedores con buena reputación en MercadoLibre: son la vía más barata a fragancias intensas y duraderas. Desconfiá de precios demasiado bajos, porque en el nicho circulan falsificaciones. En esta guía: marcas, precios reales y las trampas más comunes.`,
     publishedDate: "2026-04-27",
     updatedDate: "2026-06-26",
     hasDisclosure: true,
@@ -15380,6 +15500,7 @@ export const guides: Guide[] = [
     ogTitle: `Robot aspiradora 2026: la guía honesta para no comprar mal`,
     ogDescription: `Cuál robot aspiradora conviene de verdad en Argentina, sin chamuyo: lo que cambia entre un LIDAR oficial y un modelo de entrada, y dónde poner la plata.`,
     h1: `Robot aspiradora en Argentina: guía completa y mejores modelos [2026]`,
+    directAnswer: `Para la mayoría conviene el **Gadnic AC800 LiDAR** (alrededor de {{precio:MLA62126950:k}}): mapeo láser y base autolimpiante a precio de gama media. Si querés marca premium con service oficial, la Samsung; para alfombras y mascotas, la de 15.000 Pa de succión; y la más accesible es la nacional que aspira y trapea por menos de {{precio:MLA18642318:k}}.`,
     publishedDate: "2026-06-06",
     updatedDate: "2026-06-06",
     hasDisclosure: true,
@@ -17218,6 +17339,7 @@ export const guides: Guide[] = [
     ogTitle: `Cafetera express 2026: la guía honesta para no pagar de más`,
     ogDescription: `Qué cafetera express conviene de verdad en Argentina: la diferencia real entre 15 y 20 bares, cuáles espuman bien la leche y dónde poner la plata.`,
     h1: `Cafetera express en Argentina: guía completa y mejores modelos [2026]`,
+    directAnswer: `Para la mayoría conviene la **Smartlife SL-EC8501** (alrededor de {{precio:MLA18562154:k}}): 20 bares y compatible con cápsulas Nespresso. Si buscás marca a buen precio, la Oster de entrada con espumador; para café recién molido, la que trae molinillo integrado; y la más barata es la express de 15 bares a {{precio:MLA36409137}}.`,
     publishedDate: "2026-06-09",
     updatedDate: "2026-07-03",
     hasDisclosure: true,
@@ -17258,7 +17380,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Smartlife SL-EC8501 — mejor elección general` },
       { type: "product-card", productMlaId: "MLA18562154", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Bomba de 20 bares, espumador a vapor y dos portafiltros: café molido o cápsulas Nespresso. 4.6 estrellas con 1.656 calificaciones, la express económica más probada del país.` },
-      { type: "p", content: `Es la que recomendamos a la mayoría, y las 1.656 calificaciones explican por qué: por menos de $200.000 te da **20 bares de presión**, espumador de leche con perilla para vapor o agua caliente, calentador de tazas y un diferencial que a este precio no ofrece casi nadie: viene con **dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso**. Un comprador hizo la cuenta en su reseña: comprar espresso, espumador y máquina de cápsulas por separado salía mucho más caro. Si además querés compatibilidad con cápsulas Dolce Gusto, Smartlife tiene una [versión 3 en 1](/producto/cafetera-smartlife-3-en-1-capsulas-nespresso-dolce-gusto-y-cafe-molido-mla28314113) que suma ese tercer sistema.` },
+      { type: "p", content: `Es la que recomendamos a la mayoría, y las 1.656 calificaciones explican por qué: por alrededor de {{precio:MLA18562154:k}} te da **20 bares de presión**, espumador de leche con perilla para vapor o agua caliente, calentador de tazas y un diferencial que a este precio no ofrece casi nadie: viene con **dos portafiltros, uno para café molido y otro para cápsulas compatibles Nespresso**. Un comprador hizo la cuenta en su reseña: comprar espresso, espumador y máquina de cápsulas por separado salía mucho más caro. Si además querés compatibilidad con cápsulas Dolce Gusto, Smartlife tiene una [versión 3 en 1](/producto/cafetera-smartlife-3-en-1-capsulas-nespresso-dolce-gusto-y-cafe-molido-mla28314113) que suma ese tercer sistema.` },
       { type: "p", content: `Lo honesto: el manual es malo (mirá un tutorial de cinco minutos antes de estrenarla), trae un tapón de silicona escondido dentro del depósito que tenés que sacar o la máquina no toma agua, y los primeros cafés salen flojos hasta que se purga el circuito. Los tres avisos salen de las propias reseñas y los tres se resuelven el primer día. Después queda lo que escribió un comprador: "nada que envidiar a un resto bar".` },
 
       { type: "h3", title: `2. Oster BVSTEM5501B — mejor marca-precio` },
@@ -18225,6 +18347,7 @@ export const guides: Guide[] = [
     ogDescription: `Del más vendido y barato al premium con motor DC. Comparados por potencia real, iónico, difusor y precio real de MercadoLibre. La guía honesta, con precios argentinos.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_872804-MLA99453742720_112025-F.jpg`,
     h1: `Secador de pelo: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **Daewoo DHD-7007 de 2100 W** (alrededor de {{precio:MLA22138728:k}}): frío/calor, difusor incluido y más de 8.600 opiniones. El más barato es el Spica SP-1900 iónico; para uso intensivo, el Yelmo SC-3630 con motor AC profesional; y en gama alta, el GA.MA Brilliant Blue Titanium con motor DC.`,
     publishedDate: "2026-07-04",
     updatedDate: "2026-07-04",
     hasDisclosure: true,
@@ -18820,6 +18943,7 @@ export const guides: Guide[] = [
     ogDescription: `Retráctil con luz LED, clásico de palas metálicas o industrial para el quincho. Etheos, Liliana, Peabody, Axel y Kent comparados con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp`,
     h1: `Ventilador de techo: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **Etheos retráctil** (alrededor de {{precio:MLA44033885:k}}): luz LED de 3 tonos, control remoto y más de 2.000 opiniones. Si buscás caudal bruto al menor precio, el clásico Liliana VTHI513 de palas metálicas; para dormitorio, el Peabody con motor DC silencioso; y para quincho o galpón, el Kent industrial.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-07-06",
     hasDisclosure: true,
@@ -18944,6 +19068,7 @@ export const guides: Guide[] = [
     ogTitle: `Termotanque eléctrico: cuál comprar en Argentina`,
     ogDescription: `De 40 a 85 litros: comparamos los termotanques eléctricos más vendidos de Argentina por capacidad, eficiencia energética y precio real de MercadoLibre.`,
     h1: `Termotanque eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **Señorial Zafiro** (alrededor de {{precio:MLA15585571:k}}): por lejos el más comprado del país, con más de 3.100 opiniones. Para una persona sola, el Exahome de 40 litros es el más barato; para familia y mejor aislamiento, el Sherman de 85 litros; y si priorizás eficiencia energética, el Rheem categoría A.`,
     publishedDate: "2026-09-01",
     updatedDate: "2026-07-09",
     hasDisclosure: true,
@@ -19027,6 +19152,135 @@ export const guides: Guide[] = [
       { question: `¿Se puede colgar cualquier termotanque eléctrico?`, answer: `No. El Señorial y el Exahome de esta guía admiten instalación colgada o apoyada; el Sherman y el Rheem son solo de pie. Conviene confirmar el tipo de montaje antes de comprar si el espacio disponible es una pared sin lugar en el piso.` },
       { question: `¿Por qué algunos termotanques no traen protección anticorrosiva?`, answer: `Es una característica que encarece el producto, así que las marcas más económicas o las más vendidas por precio (como el Señorial de esta guía) suelen resignarla. Sin ella, el tanque interno es más vulnerable a la oxidación con los años, algo que pesa más en un equipo en contacto constante con agua.` },
       { question: `¿Necesito un electricista o gasista para instalarlo?`, answer: `Varios compradores en las reseñas lo instalan por su cuenta sin ser plomeros, pero para la conexión eléctrica y de agua conviene siempre la revisión de un instalador matriculado, sobre todo para confirmar el tipo de conexión (superior o inferior) y evitar problemas de corrosión galvánica entre metales distintos.` },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR proyector-portatil — silo tech (/guias/tech/...)
+  // Origen: cluster GSC 130 impr/0 clicks + keyword validada
+  // "proyector portatil" 14.800/mes SD 13 (Ubersuggest 2026-07-09).
+  // Pico estacional: julio. SERP sin editorial.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "proyector-portatil",
+    category: "proyectores",
+    silo: "tech",
+    pillar: true,
+    title: `Proyector portátil: cuál comprar en Argentina [2026]`,
+    seoTitle: `¿Qué Proyector Portátil Conviene? Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Descubrí qué proyector portátil comprar en Argentina: HY300, HY320 o Gadnic, cuántos lúmenes son reales y cuál conviene según el uso. Compará los más vendidos.`,
+    ogTitle: `Proyector portátil: cuál comprar en Argentina`,
+    ogDescription: `Del HY300 más vendido al Gadnic con lúmenes ANSI reales. Los proyectores más comprados de Argentina comparados por brillo real, resolución nativa y precio de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_907176-MLA96142511857_102025-F.webp`,
+    h1: `Proyector portátil: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **HY300** (alrededor de {{precio:MLA42238146:k}}): el proyector más vendido de Argentina, con Android 11 y más de 6.000 opiniones. Si querés apps integradas más probadas, el LED Smart 4500 (casi 10.000 opiniones); para más brillo e imagen de hasta 150 pulgadas, el Maxnova HY320; y el escalón serio es el Gadnic HY-500 Pro, el único que declara lúmenes ANSI reales.`,
+    publishedDate: "2026-07-10",
+    updatedDate: "2026-07-10",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un proyector portátil te arma un cine de 100 pulgadas por el precio de un monitor chico: los más vendidos van de {{precio:MLA42238146:k}} a {{precio:MLA54267098:k}}. La trampa de la categoría son los lúmenes de marketing ("9.000", "12.000") que no existen. Te mostramos los más vendidos de Argentina con precios reales de MercadoLibre, qué brillo esperar de verdad y cuál conviene según el uso.`,
+    quickPicks: [
+      { productMlaId: "MLA42238146", label: "El más vendido", labelColor: "green", tagline: "HY300: el 1º en ventas del país, Android 11, más de 6.000 opiniones" },
+      { productMlaId: "MLA28251222", label: "El smart más probado", labelColor: "blue", tagline: "LED Smart 4500: Android con apps y casi 10.000 opiniones" },
+      { productMlaId: "MLA43929348", label: "Más brillo y tamaño", labelColor: "amber", tagline: "Maxnova HY320: más brillo que los de entrada, proyecta hasta 150 pulgadas" },
+      { productMlaId: "MLA54267098", label: "Brillo real (ANSI)", labelColor: "purple", tagline: "Gadnic HY-500 Pro: 200 ANSI declarados, enfoque automático, garantía local" },
+    ],
+    intro: [
+      `Todos los proyectores baratos gritan miles de lúmenes, pero ese número es marketing: el dato que importa (los lúmenes **ANSI**, el brillo real) casi nunca aparece. Por eso esta guía compara lo que sí se puede verificar: qué dicen las miles de reseñas reales, qué resolución nativa declara cada ficha técnica y cuánto salen hoy en MercadoLibre.`,
+      `La buena noticia: para ver pelis de noche en una pared, hasta el más barato sorprende. La decisión real es cuánto brillo y tamaño de imagen necesitás, y si querés apps integradas o vas a enchufar un TV Stick.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_907176-MLA96142511857_102025-F.webp", alt: `Proyector portátil HY300, el proyector más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los proyectores portátiles con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: el **brillo real** (no el de marketing), la **resolución nativa** declarada en la ficha técnica, el sistema smart y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `¿Qué proyector portátil necesitás según el uso?`, id: "tipos" },
+      { type: "p", content: `Tres preguntas y listo. **¿Dónde lo vas a usar?** A oscuras (dormitorio, cine en casa de noche) cualquiera de esta guía rinde; con algo de luz (quincho al atardecer, aula) necesitás el escalón del [Gadnic con ANSI declarados](/producto/MLA54267098). **¿Qué tan grande querés la imagen?** Los de entrada llegan bien a 100-120 pulgadas; el Maxnova HY320 declara hasta 150. **¿Smart o con TV Stick?** Todos traen Android, pero en esta gama Netflix oficial suele no funcionar directo: si eso te importa, sumá un TV Stick por HDMI y resolvés.` },
+      { type: "p", content: `La regla rápida: para empezar o para uso ocasional, el HY300 más vendido sobra. Para más tamaño de imagen, subí al Maxnova HY320; para ambientes con algo de luz, al Gadnic con ANSI reales.` },
+
+      { type: "h2", title: `Los mejores proyectores portátiles 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. HY300 Android 11 — el más vendido del país` },
+      { type: "product-card", productMlaId: "MLA42238146", label: "El más vendido", labelColor: "green", ranking: 1, description: `El proyector más vendido de Argentina: 1º en su categoría en MercadoLibre, con más de 10 mil vendidos. Android 11, WiFi, Bluetooth 5.0 y HDMI por el precio más bajo de la guía.` },
+      { type: "p", content: `Si querés probar qué es tener un cine en la pared gastando lo mínimo, es este. El HY300 es un fenómeno de ventas por una razón simple: por alrededor de {{precio:MLA42238146:k}} tenés Android 11, WiFi, Bluetooth y una imagen que de noche sorprende a cualquiera. Es chico, liviano y se acomoda en cualquier estante.` },
+      { type: "p", content: `Lo honesto: el "4K" del título es señal que acepta, no resolución real (proyecta en HD), el parlante interno pide ayuda de uno externo por Bluetooth, y con luz ambiente la imagen se lava. Nada de eso lo baja del podio: al precio que tiene, es la puerta de entrada perfecta a la categoría.` },
+
+      { type: "h3", title: `2. LED Smart Android 4500 lúmenes — el smart más probado` },
+      { type: "product-card", productMlaId: "MLA28251222", label: "El smart más probado", labelColor: "blue", ranking: 2, description: `Casi 10.000 calificaciones, top 10 de ventas de la categoría. Android 11 con apps integradas, WiFi y Bluetooth, decodifica Full HD.` },
+      { type: "p", content: `Es la alternativa directa al HY300, con la base de opiniones más grande de la guía: casi 10.000 calificaciones con 4.4 de promedio. La propuesta es la misma (Android 11, WiFi, Bluetooth, precio de entrada) y la elección entre uno y otro suele definirse por el precio del día y el stock. Liviano y compacto, pensado para moverlo entre el living, el dormitorio y la casa de un amigo.` },
+      { type: "p", content: `Las contras son las de toda la gama de entrada: los 4500 lúmenes son de marketing, rinde a oscuras y pierde con luz, y algunas apps populares pueden pedir instalarse desde tiendas alternativas. Si ya te convenció la categoría y este está más barato que el HY300, es compra segura por el volumen de opiniones que lo respalda.` },
+
+      { type: "h3", title: `3. Maxnova HY320 — más brillo e imagen de hasta 150 pulgadas` },
+      { type: "product-card", productMlaId: "MLA43929348", label: "Más brillo y tamaño", labelColor: "amber", ranking: 3, description: `El hermano mayor del HY300: más brillo declarado y proyección de 35 a 150 pulgadas. 4.4 estrellas en más de 300 opiniones, con stock.` },
+      { type: "p", content: `El paso natural cuando el HY300 te queda chico. Mismo ecosistema (WiFi, Bluetooth, Android, HDMI, USB) con más brillo declarado y proyección de hasta 150 pulgadas. Las reseñas acompañan: la más votada destaca que \"conecta bien con PS4\" y varias coinciden en que la imagen sorprende para el precio.` },
+      { type: "p", content: `Lo honesto: los "12.000 lúmenes" siguen siendo marketing — "se ve muy bien, claro, con poca o nada de luz exterior", aclara una reseña —, Netflix pide la vuelta de siempre y el parlante interno conviene reemplazarlo por uno externo. A alrededor de {{precio:MLA43929348:k}}, es el mejor equilibrio imagen-precio de la guía.` },
+      { type: "pull-quote", content: `"Producto excelente, imagen muy buena, conecta bien con PS4. La mejor adquisición."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `4. Gadnic HY-500 Pro — el único con lúmenes ANSI declarados` },
+      { type: "product-card", productMlaId: "MLA54267098", label: "Brillo real (ANSI)", labelColor: "purple", ranking: 4, description: `200 lúmenes ANSI declarados (el dato real), enfoque automático, rotación 270° y garantía local. 4.5 estrellas, top 15 de ventas.` },
+      { type: "p", content: `El único de la guía que publica el número que todos esconden: 200 lúmenes ANSI. Puede sonar poco al lado de los "9.000" del título (que son marketing), pero es un dato honesto y se nota en el uso: los compradores lo usan hasta en aulas con luz. Suma enfoque automático, rotación de 270° para proyectar al techo, y el respaldo de una marca local con service.` },
+      { type: "p", content: `Lo honesto: el título dice "FHD" pero la resolución nativa declarada es 720p, y Netflix oficial no funciona directo (el Android que trae no está certificado: se resuelve con una app alternativa o un TV Stick). Si querés el escalón serio sin irte de la gama accesible, es este.` },
+      { type: "pull-quote", content: `"No entiendo por qué nunca antes fue una necesidad en mi vida este artefacto. Muy buena definición y sonido. Completamente puede reemplazar a una tv a mucho menor costo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `5. Genérico Android 9000lm — el otro masivo` },
+      { type: "product-card", productMlaId: "MLA43926951", label: "Alternativa masiva", labelColor: "slate", ranking: 5, description: `Top 10 de ventas con más de 10 mil vendidos y casi 6.000 opiniones. Android, WiFi y la misma propuesta de entrada que el HY300.` },
+      { type: "p", content: `Otro superventas de la gama de entrada, con casi 6.000 calificaciones. Juega el mismo partido que el HY300 y el LED Smart 4500: Android, WiFi, precio bajo y rendimiento nocturno. Con 4.3 es el de calificación más justa del ranking, así que entra como alternativa cuando los dos primeros suben de precio o se quedan sin stock.` },
+
+      { type: "h3", title: `6. Mini proyector 1200 lúmenes — el más barato, con reservas` },
+      { type: "product-card", productMlaId: "MLA22975097", label: "El más barato", labelColor: "slate", ranking: 6, description: `El piso de precio de la categoría. 3.9 estrellas: entra solo si las expectativas acompañan al precio.` },
+      { type: "p", content: `Lo incluimos porque la pregunta "¿cuál es el proyector más barato?" existe, y la respuesta honesta es esta: a alrededor de {{precio:MLA22975097:k}} tenés proyector, pero con la calificación más floja de la guía (3.9). Sirve para dibujitos en la pared del cuarto de los chicos o para probar la categoría gastando lo mínimo, siempre a oscuras. Si podés estirarte a un [HY300](/producto/MLA42238146), la diferencia de imagen y de opiniones la vale con creces.` },
+
+      { type: "h2", title: `Tabla comparativa`, id: "comparativa" },
+      { type: "table", headers: ["Modelo", "Brillo declarado", "Resolución nativa", "Smart", "Opiniones", "Ideal para", "Precio"], rows: [
+        ["[HY300](https://meli.la/1MtgG5J)", "Marketing (sin ANSI)", "HD", "Android 11", "4.4 ★ · 6.000+", "Empezar gastando lo mínimo", "{{precio:MLA42238146}}"],
+        ["[LED Smart 4500](https://meli.la/13EBUyg)", "Marketing (sin ANSI)", "HD (decodifica FHD)", "Android 11", "4.4 ★ · 9.400+", "Compra segura por volumen de opiniones", "{{precio:MLA28251222}}"],
+        ["[Maxnova HY320](/producto/MLA43929348)", "Marketing (sin ANSI)", "HD", "Android", "4.4 ★ · 300+", "Más brillo y hasta 150 pulgadas", "{{precio:MLA43929348}}"],
+        ["[Gadnic HY-500 Pro](/producto/MLA54267098)", "**200 ANSI declarados**", "720p (acepta FHD)", "Android TV (no certificado)", "4.5 ★ · 395", "Brillo real, aulas y quincho", "{{precio:MLA54267098}}"],
+        ["[Genérico 9000lm](https://meli.la/1rYKE5Q)", "Marketing (sin ANSI)", "HD", "Android", "4.3 ★ · 5.900+", "Alternativa si suben los otros", "{{precio:MLA43926951}}"],
+        ["[Mini 1200 lúmenes](https://meli.la/2UNEksE)", "Marketing (sin ANSI)", "HD básica", "No", "3.9 ★ · 390+", "El más barato, expectativas bajas", "{{precio:MLA22975097}}"],
+      ] },
+
+      { type: "h2", title: `¿Los lúmenes del anuncio son reales?`, id: "lumenes" },
+      { type: "p", content: `No. Es el secreto a voces de la categoría: los "4.500", "9.000" o "12.000 lúmenes" de los títulos son **lúmenes LED de marketing**, una medida inflada que no describe el brillo en la pared. La unidad seria son los **lúmenes ANSI**, y la diferencia es brutal: un proyector de "9.000 lúmenes" de marketing suele declarar 150-250 ANSI cuando la marca se anima a publicarlo. Para comparar: un proyector de cine hogareño de marca global arranca en 1.000-2.000 ANSI, y cuesta varias veces más.` },
+      { type: "p", content: `¿Significa que son malos? No: significa que rinden **a oscuras o con poca luz**, que es como el 90% de la gente los usa. La regla práctica: desconfiá del número grande, buscá si la ficha declara ANSI (el [Gadnic](/producto/MLA54267098) es el único de esta guía que lo hace) y leé qué dicen las reseñas sobre el uso con luz.` },
+
+      { type: "h2", title: `¿Qué mirar antes de comprar un proyector portátil?`, id: "como-elegir" },
+      { type: "h3", title: `Resolución nativa vs. "soporta 4K"` },
+      { type: "p", content: `Otro clásico del marketing: "soporta 4K" significa que **acepta** una señal 4K, no que la proyecte. Todos los de esta gama proyectan en HD (1280x720). Para pelis y series en una pared de 100 pulgadas se ve muy bien; solo importa saberlo para no esperar nitidez de TV nueva.` },
+      { type: "h3", title: `Netflix y las apps: el asterisco de Android` },
+      { type: "p", content: `Los proyectores baratos traen Android sin certificar por Google, así que Netflix oficial suele no andar directo. Soluciones de los propios compradores: apps alternativas, o conectar un **TV Stick** por HDMI (la más limpia). YouTube y el espejado del celular en general funcionan sin drama.` },
+      { type: "h3", title: `Sonido: casi siempre vas a querer un parlante` },
+      { type: "p", content: `El parlante integrado de esta gama cumple para una pieza, no para una sala o el patio. Todos traen Bluetooth: un [parlante portátil](/guias/audio/parlantes) resuelve el cine completo por poca plata más.` },
+      { type: "h3", title: `Distancia de proyección y tamaño real` },
+      { type: "p", content: `La imagen crece con la distancia: a 2-3 metros de la pared tenés 80-120 pulgadas, que es el punto dulce. Medí el ambiente antes de soñar con el máximo del folleto — para las 150 pulgadas del HY320 necesitás mucho más lugar (y mucha más oscuridad) del que parece.` },
+      { type: "h3", title: `Enfoque y keystone (que la imagen no salga torcida)` },
+      { type: "p", content: `Si el proyector no queda perfectamente perpendicular a la pared, la imagen sale trapezoidal. Todos traen corrección (keystone), pero en los de entrada es manual y se pelea un rato; el [Gadnic HY-500 Pro](/producto/MLA54267098) trae **enfoque automático**, que en el uso diario se agradece cada vez que lo movés.` },
+
+      { type: "h2", title: `¿Cuánto cuesta un proyector portátil? [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Piso absoluto (alrededor de {{precio:MLA22975097:k}}):** minis de 1200 lúmenes sin Android. Funcionan, pero con la calificación más floja de la categoría — solo con expectativas bajas.`,
+        `**Entrada (alrededor de {{precio:MLA42238146:k}} a {{precio:MLA43926951:k}}):** HY300, LED Smart 4500 y similares. Android, WiFi, rendimiento nocturno. Acá está el grueso de las ventas del país.`,
+        `**Gama media (alrededor de {{precio:MLA43929348:k}}):** HY320 y familia. Más brillo declarado y proyección más grande (hasta 150 pulgadas).`,
+        `**Gama media-alta (alrededor de {{precio:MLA54267098:k}}):** Gadnic y marcas locales con ANSI declarados, enfoque automático y garantía. Es el techo de lo "accesible": el salto siguiente son las marcas globales tipo Epson, que cuestan varias veces más.`,
+      ] },
+
+      { type: "verdict", content: `**Veredicto:** para el 90%, el **HY300** ({{precio:MLA42238146:k}}): es el más vendido del país por algo — cine nocturno de 100 pulgadas por el precio de un monitor usado. Si querés más tamaño de imagen, el salto natural es el **Maxnova HY320**; y si necesitás datos honestos de brillo, enfoque automático y garantía local, el **Gadnic HY-500 Pro**.` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor proyector portátil en Argentina?`, answer: `El más vendido y mejor punto de partida es el HY300 (alrededor de {{precio:MLA42238146:k}}): Android 11, WiFi, Bluetooth y más de 6.000 opiniones con 4.4 estrellas. Para más brillo conviene el HY320, y el escalón con datos honestos (200 lúmenes ANSI declarados) es el Gadnic HY-500 Pro.` },
+      { question: `¿Sirve un proyector barato para ver fútbol o pelis con luz?`, answer: `Con luz de día plena, no: los lúmenes de los títulos son de marketing y la imagen se lava. Con penumbra o de noche se ven muy bien. Si necesitás usarlo con algo de luz (quincho al atardecer, aula), el Gadnic HY-500 Pro es el que mejor se defiende según las reseñas.` },
+      { question: `¿Puedo ver Netflix directo en estos proyectores?`, answer: `En general no de forma oficial: el Android que traen no está certificado por Google. Los compradores lo resuelven con apps alternativas o conectando un TV Stick por HDMI, que es la solución más limpia y suma Netflix, Disney+ y todo lo demás con sus apps oficiales.` },
+      { question: `¿"Soporta 4K" significa que es 4K?`, answer: `No. Significa que acepta una señal 4K de entrada, pero la resolución que proyecta es la nativa del panel, que en toda esta gama es HD (1280x720). Para una pared de 80-120 pulgadas de noche se ve muy bien igual.` },
+      { question: `¿Proyector o smart TV usada al mismo precio?`, answer: `Depende del uso. La TV gana en brillo (se ve de día), nitidez y practicidad diaria. El proyector gana en tamaño de imagen (100+ pulgadas), portabilidad y la experiencia cine. Si es para el uso principal del living, TV; si es para pelis de noche, el patio o mover por la casa, proyector.` },
+      { question: `¿Cómo conecto el sonido a un parlante?`, answer: `Todos los de esta guía traen Bluetooth: se empareja igual que con el celular. El parlante interno cumple para una pieza chica, pero para una sala o el patio un parlante bluetooth mejora la experiencia por completo.` },
+    ],
+    internalLinksTitle: "Para armar el combo cine completo",
+    internalLinks: [
+      { label: "Parlantes bluetooth: cuál comprar", href: "/guias/audio/parlantes" },
+      { label: "Auriculares inalámbricos para ver pelis de noche", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "Cargador portátil (power bank): cuál comprar", href: "/guias/tech/cargador-portatil" },
     ],
   },
 

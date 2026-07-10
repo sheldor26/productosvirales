@@ -3509,9 +3509,8 @@ Comprá el Level Up Pegasus si ya decidiste que querés un teclado mecánico de 
     canonicalName: "Kit Gamer Redragon S143 (K617RGB + M724)",
     price: 105299,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_803756-MLA111518174498-F.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_749517-MLA111518955688_062026-O.webp",
     images: [
-      "https://http2.mlstatic.com/D_NQ_NP_803756-MLA111518174498-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_749517-MLA111518955688_062026-O.webp",
       "https://http2.mlstatic.com/D_NQ_NP_823134-MLA112578828883_062026-O.webp",
       "https://http2.mlstatic.com/D_NQ_NP_877743-MLA112579507203_062026-O.webp",
@@ -22671,7 +22670,7 @@ Sí, si querés el HY300 de siempre, con Android, WiFi y Bluetooth, para cine en
 
 ## En resumen
 
-El mini proyector HY300 de referencia, con specs honestas y precio bajo. Cumple muy bien a oscuras y rinde poco con luz, como toda la categoría. Para comparar con otras opciones, mirá [más productos](/categoria/tech).`,
+El mini proyector HY300 de referencia, con specs honestas y precio bajo. Cumple muy bien a oscuras y rinde poco con luz, como toda la categoría. Antes de decidir, compará los más vendidos en la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
     pros: [
       "Ficha honesta: 1280x720 y 2600 lúmenes reales, sin inflar",
       "Android 11, WiFi y Bluetooth 5.0",
@@ -22971,7 +22970,7 @@ Sí, si buscás un mini proyector barato para usar de noche y no te molesta pele
 
 ## En resumen
 
-Un proyector para celular o casa correcto para su precio, siempre que entres sabiendo que el brillo real es modesto y el software pide paciencia. Si querés ver más opciones, mirá [más productos](/categoria/tech).`,
+Un proyector para celular o casa correcto para su precio, siempre que entres sabiendo que el brillo real es modesto y el software pide paciencia. Antes de decidir, compará los más vendidos en la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
     pros: [
       "Imagen linda a oscuras para el precio que sale",
       "Liviano, no se calienta y el ventilador casi no se escucha",
@@ -23182,7 +23181,7 @@ Sí, si querés gastar lo mínimo y entendés que es un proyector de juguete par
 
 ## En resumen
 
-El más barato de la lista, y se nota. Solo tiene sentido si tus expectativas son bajas y lo vas a usar a oscuras. Si querés algo más serio, mirá [más productos](/categoria/tech).`,
+El más barato de la lista, y se nota. Solo tiene sentido si tus expectativas son bajas y lo vas a usar a oscuras. Si querés algo más serio, compará los más vendidos en la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
     pros: [
       "El más barato de la categoría",
       "Compacto y fácil de manejar",
@@ -23325,6 +23324,168 @@ Un proyector portátil Android correcto y muy vendido, con la ventaja de las app
     ],
   },
   {
+    id: 'MLA43929348',
+    title: "Mini Proyector Maxnova HY320 12000lm LED Wi-Fi Bluetooth HDMI Android",
+    canonicalName: "Proyector Maxnova HY320 Mini 12.000 lúmenes",
+    seoTitle: "Proyector Maxnova HY320: análisis honesto y precio",
+    metaDescription: "Proyector HY320 de Maxnova con WiFi, Bluetooth, Android y proyección de 35 a 150 pulgadas. 4.4 estrellas en más de 300 opiniones. Lo bueno y lo malo, con precio real.",
+    ogTitle: "Maxnova HY320 — el paso arriba del HY300",
+    ogDescription: "WiFi, Bluetooth, Android, imagen de hasta 150 pulgadas y 4.4 estrellas. Análisis honesto: qué esperar de los 12.000 lúmenes declarados.",
+    price: 160630,
+    priceUpdated: "2026-07-10",
+    priceLastChecked: "2026-07-10",
+    priceStatus: "fresh",
+    originalPrice: undefined,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_665927-MLA96870819013_102025-F.webp',
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_665927-MLA96870819013_102025-F.webp",
+    ],
+    category: "Electrónica, Audio y Video",
+    categorySlug: 'tech',
+    permalink: 'https://www.mercadolibre.com.ar/mini-proyector-maxnova-hy320-12000lm-led-wi-fi-bluetooth-hdmi-android/p/MLA43929348',
+    affiliateUrl: 'https://meli.la/2NJmzTQ',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 318,
+    soldQuantity: 100,
+    pastelColor: 'var(--pastel-blue)',
+    description: "Marca: Maxnova\nLínea: HY320 MINI\nModelo: NHY320\nBrillo de la imagen: 12.000 lm (declarados)\nTamaño de la imagen: 35\" - 150\"\nConsumo: 50 W\nPeso: 820 g\nCon Wi-Fi: Sí\nCon Bluetooth: Sí\nConexiones de entrada: HDMI, USB, P2\nFuente de luz: LED\nCon Android: Sí",
+    articleBody: `El Maxnova HY320 es el hermano mayor del HY300, el proyector más vendido de Argentina: misma familia, más brillo declarado y proyección de hasta 150 pulgadas. Tiene 4.4 estrellas en más de 300 calificaciones (68% de 5 estrellas) y es de las publicaciones del HY320 con más prueba social en stock.
+
+## Qué resolución y brillo esperar
+
+La ficha declara 12.000 lúmenes. Vale la advertencia de siempre en esta gama: son lúmenes de marketing, no ANSI, y el brillo real en la pared es menor. Las reseñas ponen el límite donde corresponde: "Esperaba menos calidad por el precio pero me sorprendió lo bien que se ve, claro, con poca o nada de luz exterior", resume un comprador. Es decir: a oscuras o con muy poca luz se luce; de día no hay milagro.
+
+## Para qué sirve (y para qué no)
+
+Pelis, series y consola en pantalla grande: la reseña más votada (29 útiles) destaca que "conecta bien con PS4, la mejor adquisición". Con 820 gramos y formato parado, se acomoda en cualquier estante y se lleva fácil. No sirve como pantalla principal en un ambiente luminoso ni para quien espere nitidez de televisor.
+
+## Conectividad y sonido
+
+WiFi, Bluetooth, Android, HDMI y USB. El parlante interno divide opiniones: un comprador destaca que "tiene bastante potencia en el altavoz", otro lo liquida ("las bocinas muy malas") y coincide la mayoría en que con un parlante externo por Bluetooth mejora mucho. Sobre las apps, el clásico de la gama: "Netflix no funciona, tenés que bajarlo por fuera", cuenta una reseña — se resuelve con app alternativa o TV Stick.
+
+## Los contras que cuentan los compradores
+
+Netflix oficial no anda directo, el parlante interno es lo más flojo del equipo y con luz de día la imagen se lava. El desglose igual acompaña: 68% de 5 estrellas y 17% de 4.
+
+## Para quién sí y para quién no
+
+Sí, si querés más brillo y tamaño de imagen que un HY300 gastando el escalón intermedio, y no te molesta sumar un parlante. No, si buscás verlo con luz de día o Netflix oficial sin vueltas.
+
+## En resumen
+
+El paso natural arriba del HY300: más brillo declarado, hasta 150 pulgadas y las mismas comodidades smart, con la advertencia honesta de que rinde a oscuras. Antes de decidir, mirá la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
+    pros: [
+      "Más brillo declarado que los HY300 de entrada",
+      "Proyección de 35 a 150 pulgadas",
+      "WiFi, Bluetooth, Android, HDMI y USB",
+      "4.4 estrellas en más de 300 calificaciones (68% de 5 estrellas)",
+    ],
+    cons: [
+      "Los 12.000 lúmenes son de marketing, no ANSI: rinde a oscuras",
+      "Netflix oficial no funciona directo: app alternativa o TV Stick",
+      "El parlante interno es el punto flojo: conviene sumar uno externo",
+    ],
+    verdict: "El escalón intermedio de la familia HY con stock y prueba social: más brillo y tamaño que un HY300 sin llegar al precio de la gama con ANSI. Con parlante externo y a oscuras, rinde muy por encima de su precio.",
+    faq: [
+      {
+        question: "¿Se ve con luz de día?",
+        answer: "No: los 12.000 lúmenes declarados son de marketing y el brillo real es menor. Las reseñas lo dicen claro: se ve muy bien con poca o nada de luz exterior. Para uso con luz ambiente hay que ir a la gama con lúmenes ANSI declarados, como el Gadnic HY-500 Pro.",
+      },
+      {
+        question: "¿En qué se diferencia del HY300?",
+        answer: "Es de la misma familia pero un escalón arriba: más brillo declarado y proyección de hasta 150 pulgadas (el HY300 ronda las 120-130). La decisión es si ese salto de imagen justifica la diferencia de precio para tu uso.",
+      },
+      {
+        question: "¿Funciona Netflix?",
+        answer: "No de forma oficial: como en casi toda la gama, el Android que trae no está certificado. Los compradores lo resuelven bajando la app por fuera o conectando un TV Stick por HDMI, que es la solución más limpia.",
+      },
+    ],
+  },
+  {
+    id: 'MLA54267098',
+    title: "Proyector Portátil Gadnic FHD ATV 9000 Lúmenes Screen Mirroring 200 ANSI Enfoque Automático Rotación 270",
+    canonicalName: "Gadnic HY-500 Pro (PROJ097W) 200 ANSI con Android TV",
+    seoTitle: "Proyector Gadnic HY-500 Pro 200 ANSI: análisis honesto",
+    metaDescription: "Proyector Gadnic con 200 lúmenes ANSI declarados (dato real, no marketing), Android TV, enfoque automático y rotación 270°. 4.5 estrellas. Precio y contras.",
+    ogTitle: "Gadnic HY-500 Pro — el único que declara lúmenes ANSI",
+    ogDescription: "200 ANSI declarados, enfoque automático, rotación 270° y marca local con garantía. El análisis honesto: resolución nativa 720p y Netflix con vueltas.",
+    price: 264949,
+    priceUpdated: "2026-07-10",
+    priceLastChecked: "2026-07-10",
+    priceStatus: "fresh",
+    originalPrice: undefined,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_664448-MLA101666539436_122025-F.webp',
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_664448-MLA101666539436_122025-F.webp",
+    ],
+    category: "Electrónica, Audio y Video",
+    categorySlug: 'tech',
+    permalink: 'https://www.mercadolibre.com.ar/proyector-portatil-gadnic-fhd-atv-9000-lumenes-screen-mirroring-200-ansi-enfoque-automatico-rotacion-270/p/MLA54267098',
+    affiliateUrl: 'https://meli.la/1fkGb7J',
+    condition: 'new',
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 395,
+    soldQuantity: 1000,
+    pastelColor: 'var(--pastel-violet)',
+    description: "Marca: Gadnic\nModelo: HY-500 Pro (PROJ097W)\nBrillo: 200 ANSI declarados (9.000/10.000 lm de marketing)\nResolución nativa: 1280 x 720 px\nTamaño de la imagen: 40\" - 120\"\nContraste: 2000:1\nDistancia de proyección: 1 a 3 m\nCon Wi-Fi: Sí\nScreen mirroring: Sí\nEnfoque automático y rotación 270°\nCon control remoto: Sí\nCon parlante: Sí\nVoltaje: 220V",
+    articleBody: `El Gadnic HY-500 Pro es el proyector con el que la marca local apunta a la gama media, y tiene una particularidad que lo separa del resto: además de los "9.000 lúmenes" de marketing del título, la ficha declara **200 lúmenes ANSI** — el dato real que casi ningún proyector económico se anima a publicar. Tiene 4.5 estrellas en 395 calificaciones y está entre los 15 más vendidos de la categoría.
+
+## Qué resolución y brillo esperar
+
+Dos aclaraciones honestas. Primera: el título dice "FHD", pero la resolución nativa declarada en la ficha técnica es 1280x720 (HD). Acepta señal Full HD, la proyecta en 720p. Segunda: 200 ANSI es un brillo real modesto — pero como es un número honesto, sirve para comparar de verdad. Las reseñas acompañan: "Excelente definición. Lo compré con intención de usarlo en un aula escolar, y funciona perfecto, incluso con luz del día", cuenta un comprador. Otro lo resume: "Muy buena definición y sonido. Completamente puede reemplazar a una tv a mucho menor costo".
+
+## Para qué sirve (y para qué no)
+
+Cine en casa, aulas, quincho: con penumbra rinde muy bien y con algo de luz se defiende mejor que los genéricos de entrada. El enfoque automático y la rotación de 270° (podés proyectar al techo) son comodidades que en esta gama no abundan. No es para quien espere 1080p nativo real ni brillo de TV en un living soleado.
+
+## El tema Netflix, sin vueltas
+
+Es el reclamo más repetido: el sistema Android TV que trae no es el certificado por Google, así que Netflix oficial no funciona directo. Un comprador lo dice sin filtro: "te dicen que el sistema operativo es original y se puede usar Netflix, y en realidad es una copia". La solución que usan los propios compradores: "no funciona Netflix pero sí Amazon, y descargué una app para ver Netflix y todos los canales". Si Netflix nativo es innegociable, conectale un TV Stick por HDMI y listo.
+
+## Conectividad y extras
+
+WiFi, screen mirroring desde el celular, HDMI y USB. El parlante integrado es de los que mejor comentarios tiene en la gama, y por Bluetooth podés sumar uno externo. La terminación también aparece elogiada: "Muy buena calidad de sus terminaciones".
+
+## Para quién sí y para quién no
+
+Sí, si querés el escalón de imagen y brillo real arriba de los genéricos, con marca local, garantía y enfoque automático. No, si esperás Netflix oficial sin adaptador o resolución 1080p nativa.
+
+## En resumen
+
+El proyector "sincero" de la gama media: declara sus 200 ANSI, rinde incluso con algo de luz y suma enfoque automático y rotación 270°. El asterisco es Netflix, que se resuelve con una app alternativa o un TV Stick. Antes de decidir, mirá la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
+    pros: [
+      "Declara 200 lúmenes ANSI: el dato de brillo real, no solo marketing",
+      "Rinde con algo de luz ambiente según las reseñas (aula, media tarde)",
+      "Enfoque automático y rotación 270° (proyecta hasta el techo)",
+      "Marca local con garantía y service en Argentina",
+    ],
+    cons: [
+      "El título dice FHD pero la resolución nativa es 720p",
+      "Netflix oficial no funciona directo: requiere app alternativa o TV Stick",
+      "Proyección máxima declarada de 120 pulgadas, menor que otros de su precio",
+    ],
+    verdict: "La opción de gama media con datos honestos: 200 ANSI reales, enfoque automático y garantía local. Sabiendo que la nativa es 720p y que Netflix pide una vuelta extra, es de lo más sólido antes de los $300.000.",
+    faq: [
+      {
+        question: "¿Los 9.000 lúmenes son reales?",
+        answer: "Los 9.000/10.000 lúmenes del título son de marketing. El dato real está en la ficha: 200 lúmenes ANSI, que es un brillo modesto pero honesto — la mayoría de los proyectores económicos ni siquiera lo publica. En la práctica rinde bien con penumbra y se defiende con algo de luz.",
+      },
+      {
+        question: "¿Funciona Netflix?",
+        answer: "No de forma oficial: el Android que trae no está certificado por Google. Los compradores lo resuelven con apps alternativas o conectando un TV Stick por HDMI, que es la solución más limpia si Netflix nativo es innegociable.",
+      },
+      {
+        question: "¿Es Full HD de verdad?",
+        answer: "Acepta señal Full HD pero la resolución nativa declarada es 1280x720 (HD). Para pelis y series en pantalla de 80-100 pulgadas se ve muy bien según las reseñas; para nitidez 1080p real hay que irse a otra gama de precio.",
+      },
+    ],
+  },
+  {
     id: 'MLA42796008',
     title: "Proyector Portátil Long Xing Mini HY300 Android 11 Wi-Fi Bluetooth 4K Blanco",
     seoTitle: "Proyector Mini HY300 Android 11 WiFi BT - Blanco",
@@ -23393,7 +23554,7 @@ Sí, si querés un mini proyector barato con Android, MagisTV y buena imagen par
 
 ## En resumen
 
-Un HY300 con Android 11 que cumple de sobra para su precio, sobre todo a oscuras y con un parlante aparte. El 4K es soportado y no nativo. Para ver otras opciones, mirá [más productos](/categoria/tech).`,
+Un HY300 con Android 11 que cumple de sobra para su precio, sobre todo a oscuras y con un parlante aparte. El 4K es soportado y no nativo. Antes de decidir, compará los más vendidos en la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).`,
     pros: [
       "Buena relación precio-calidad, imagen mejor de lo esperado",
       "Android 11, WiFi, Bluetooth y MagisTV preinstalado",

@@ -1,7 +1,35 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-08 (sprint completo de los clusters `pava-electrica` Y `freidoras-de-aire`: 12 + 23 guías migradas al template embudo, todas commiteadas y pusheadas).
+> Última actualización: 2026-07-10 (guía nueva `proyector-portatil` + 2 fichas, desde cluster GSC validado).
+
+## Sesión 10-jul — Guía nueva: `proyector-portatil` (pilar, silo tech) + 2 fichas
+
+Disparador: análisis de clusters GSC con impresiones/0 clicks sin página dedicada (5 detectados, ver `docs/clusters/proyectores/borrador-proyector-portatil.md`). Keyword validada: "proyector portatil" 14.800/mes, SD 13, pico estacional en julio, SERP sin editorial. **SIN COMMIT: diff a la espera de OK.**
+
+1. **Sourcing sin Brightdata ni API** (no hay token de Brightdata en el repo; API ML sigue 403 incluso desde browser): listado + páginas de producto vía Chrome. Hallazgo: las 3 fichas existentes de proyectores son el 1º (HY300, +10 mil vendidos), 6º (LED Smart 4500, 10.010 reseñas) y 10º más vendidos de la categoría.
+2. **2 fichas nuevas en `curated-products.ts`**: Maxnova HY320 (MLA43929348, 4.4★/318, gama media, $160.630) y Gadnic HY-500 Pro (MLA54267098, 4.5★/395, único con 200 ANSI declarados; título dice FHD pero nativa 720p; Netflix no certificado — todo declarado honesto). Imágenes verificadas en `D_NQ_NP_2X_...-F.webp`. **Nota:** el primer HY320 elegido (MLA47077152, 1.739 reseñas) resultó **sin stock** al generar el afiliado — Juan lo detectó — y se reemplazó ficha + guía completa por el Maxnova, reescribiendo citas y claims con las reseñas propias del nuevo listing (150 pulgadas máx., no 300). **PENDIENTE: Juan debe pasar los 2 links meli.la** (MLA43929348 y MLA54267098; hoy tienen el permalink de ML con TODO).
+2b. **Mini 1200lm (MLA22975097, ya con afiliado) sumado como puesto #6** "el más barato, con reservas" (3.9★ declarado al frente), + fila en tabla y franja "piso absoluto" en precios. La guía monetiza con 6 productos.
+3. **Guía pilar `proyector-portatil`** (silo tech, categoría nueva "proyectores", publishedDate 2026-07-11): ranking de 5 con fichas reales, 2 pull-quotes textuales, ángulo editorial "lúmenes de marketing vs ANSI", directAnswer, H2s en pregunta, tabla con links en cada fila, FAQ 6.
+4. **Links entrantes (5+)**: parlantes (torre Noblex → combo cine), auriculares-inalambricos (770NC → pelis de noche), silla-gamer (internalLinks), y las 4 fichas de proyectores existentes apuntan a la guía desde "En resumen".
+5. **Fix colateral**: precio hardcodeado "$200.000" en `cafetera-express` tokenizado a `{{precio:MLA18562154:k}}` (el chequeo lo atribuía a la Smartlife 3-en-1, que hoy vale $506.488, y bloqueaba `guides:check`).
+6. **Verificación:** `guides:check` en verde salvo las 14 filas preexistentes de la tarea delegada 08-jul; `tsc --noEmit` y `eslint` limpios. Gate final: `npm run build` local de Juan.
+7. **Links de afiliado (cerrado):** Juan pasó los 2 el mismo día y quedaron aplicados: `2NJmzTQ` (Maxnova HY320) y `1fkGb7J` (Gadnic HY-500 Pro). Verificados contra el comportamiento del link viejo del HY300 (idéntico redirect al perfil social desde browser logueado-fuera; es lo normal de meli.la hoy). Los 6 productos de la guía monetizan. **Guía 100% lista para publicar.**
+8. **Pendientes:** `npm run build` local + commit + deploy (publishedDate 2026-07-11: sale sola con el próximo deploy); `npm run indexnow` post-deploy; los otros 4 clusters del análisis (perfumes por nota ~42 impr, masajeador lumbar ~40, Caliber ~38; Electroland descartado por intención navegacional).
+
+## Sesión 09-jul — AEO: Respuesta rápida en las 20 pilares + loop semanal automático de GSC
+
+Disparador: Juan trajo un post sobre AEO (optimizar para que AI Overviews/ChatGPT/Perplexity te citen) y pidió aplicar lo que faltara. Auditoría previa: **gran parte ya estaba hecho** (llms.txt dinámico, IndexNow con key en public/, robots.ts permitiendo bots de IA, FAQ/Product/Article/Organization schema). **SIN COMMIT: diff a la espera de OK.**
+
+1. **Campo `directAnswer` nuevo en `Guide`** (`src/lib/types.ts`) + caja "Respuesta rápida" en `GuideRenderer.tsx` (entre el CTA above-the-fold y la intro, formato "Para la mayoría conviene X; si [caso], Y"). Es el bloque que extraen AI Overviews y los LLMs — era el ítem "respuesta directa" pendiente del paquete CRO v3 (`docs/guias.md` §7, actualizado).
+2. **Redactado y cargado en las 20 guías pilares** (40-60 palabras cada una, con tokens `{{precio:ID:k}}` y el pick #1 en negrita). Las ~112 satélite quedan para redactar por tandas, priorizando por datos de GSC.
+3. **Tarea programada `weekly-seo-aeo-loop`** (lunes 9:00, app Claude): analiza GSC (API o CSVs en `gsc-exports/`, fallback a datos de terceros), busca striking distance (pos 5-15), CTR bajo, canibalización y gaps, y deja reporte en `docs/seo-reports/YYYY-MM-DD.md`. Juan debe tocar "Run now" una vez para pre-aprobar permisos.
+4. **Auditoría H2s:** 794 H2s, 227 ya interrogativos. Decisión: NO convertir en masa (los estructurales como "Tabla comparativa"/"Veredicto" no deben ser preguntas; el resto se convierte guiado por queries reales de GSC, acción ya incluida en el loop de los lunes).
+5. **Verificación:** `eslint` (archivos tocados) y `tsc --noEmit` limpios. `npm run build` completo no entra en la ventana del sandbox → **gate final: build local de Juan**. `guides:check` falla solo por las 14 filas de tabla preexistentes de la tarea delegada de la sesión 08-jul (`joystick-ps5`, `masajeador-cervical`, `lattafa-asad-comparativa`, `robot-aspiradora-roomba`) — no relacionado con esta sesión.
+6. **APIs verificadas en vivo** (Juan confirmó configuración): `scripts/gsc/gsc.py setup-check` OK (OAuth, propiedad productosvirales.com.ar) y `scripts/ga4/ga4.py setup-check` OK (541 usuarios últimos 7 días). La tarea de los lunes quedó actualizada para usar estos scripts con el Python del sistema + `pip install --break-system-packages` (los `.venv` del repo quedan atados a rutas de sesiones viejas del sandbox y NO sirven entre sesiones).
+7. **Corrida de prueba del loop completada:** primer reporte real en `docs/seo-reports/2026-07-09.md` (top oportunidad: pilar freidoras pos 7,7 / 4.682 impr; ~350 impr/mes en "qué estufa gasta menos" con 0 clicks). Workaround SQLite documentado en el prompt de la tarea (la DB no escribe sobre el mount del sandbox: copiar a /tmp, correr, sincronizar). Inventario de fechas de las 132 guías en `docs/seo-reports/guias-fechas-2026-07-09.md`.
+8. **Cadencia de re-optimización acordada** y escrita en `docs/guias.md` §6.0 (pilares/monetizadoras 45 días, con tráfico 90, cola larga 150 + disparadores estacionales y refresh de `[año]` en enero); el loop de los lunes lista las vencidas. Primera vencida: `recetas-freidora-de-aire` (sin tocar desde 25-abr, cluster que más monetiza).
+9. **Pendientes:** correr `npm run build` local (gate final del diff de hoy, sin commitear); borrar `.git/index.lock` a mano (sandbox sin permiso); redactar `directAnswer` de las satélite por tandas guiado por GSC; ejecutar las 5 oportunidades del reporte 2026-07-09.
 
 ## Sesión 08-jul — Sprint completo: clusters `pava-electrica` (12) y `freidoras-de-aire` (23) migrados al template "embudo de conversión"
 

@@ -109,6 +109,18 @@ Salen de la auditoría CRO/UX/copy de jun 2026. Son obligatorias.
 - **Pilares (anti-canibalización):** el pilar explica breve y delega a las hijas con ancla = keyword exacta; canónico self-referencing; `seoTitle` del pilar diferenciado.
 - **Productos:** solo en stock (no `deprioritized`). Si falta uno, importarlo (ver `fichas.md`), no inventarlo.
 
+### 6.0 Cadencia de re-optimización (acordada con Juan, 2026-07-09)
+
+El disparador principal es el dato (reporte de los lunes en `docs/seo-reports/`), el calendario es la red de seguridad:
+
+| Tier | Revisar cada |
+|---|---|
+| Pilares y top de clicks de afiliado (GA4) | 45 días |
+| Publicadas con impresiones significativas | 90 días |
+| Satélites de cola larga | 150 días |
+
+Disparadores que pisan el calendario: caída fuerte en `alerts`, pick sin stock, ventana estacional próxima (estufas abr-may, ventiladores/aires sep-oct — siempre ANTES del pico) y el refresh de títulos `[año]` en enero. Al re-optimizar: los precios ya se actualizan solos por tokens — lo que envejece es stock, modelos nuevos y contras de reseñas. **Nunca tocar `updatedDate` sin un cambio real de contenido.**
+
 ### 6.1 Reglas OBLIGATORIAS (bloquean la publicación) — auditoría 2026-07
 
 Nacieron de una auditoría que encontró 18 guías publicadas sin ningún botón de
@@ -153,7 +165,7 @@ Este comando corre, en orden, y para en el primero que falle:
 - [ ] **Amarillo exclusivo:** estrellas a `--star`; badges "económica"/chip fuera del ámbar; links de tabla a neutro.
 - [ ] **Un CTA dominante por bloque:** quickPicks #1 amarillo, resto `.ghost`; veredicto primario+secundario.
 - [ ] **Unidad precio→botón** aislada + "ver ficha" degradado a link gris debajo.
-- [ ] **CTA above-the-fold** + **respuesta directa** + **sticky de compra mobile** (hoy el sticky mobile lo ocupa el índice).
+- [x] **CTA above-the-fold** (`AboveFoldCta`) + **respuesta directa** (campo `directAnswer` del `Guide`, caja "Respuesta rápida" antes de la intro — implementado 2026-07-09, cargado en las 20 pilares; falta redactarlo en las satélite, priorizando por datos de GSC) + **sticky de compra mobile** (`StickyBuyBar`).
 - [ ] **Precio dentro del botón** + verbo "Comprar" + microcopy "MercadoLibre" completo unificado.
 - [ ] Prueba social "calificaciones" (no "compras"); `rel="sponsored"`; hero `next/image`; FAQ 1ª abierta.
 

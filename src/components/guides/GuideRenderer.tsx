@@ -524,6 +524,25 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
           {/* CTA above-the-fold: recomendación #1 antes de la intro larga */}
           {topPickId && <AboveFoldCta productMlaId={topPickId} />}
 
+          {/* Respuesta directa: la recomendación en 1-2 frases, antes de la intro.
+              Es el bloque que AI Overviews y los LLMs extraen para citarnos. */}
+          {guide.directAnswer && (
+            <aside
+              className="not-prose mb-8 p-5 rounded-[var(--radius-card)] border-l-[3px] bg-[var(--bg-secondary)]"
+              style={{ borderLeftColor: "var(--editorial-accent)" }}
+            >
+              <p
+                className="text-[11px] font-semibold tracking-[0.14em] uppercase mb-2"
+                style={{ color: "var(--editorial-accent)" }}
+              >
+                Respuesta rápida
+              </p>
+              <p className="text-[16px] md:text-[17px] leading-[1.65] font-medium text-[var(--text-primary)]">
+                {parseInlineLinks(guide.directAnswer)}
+              </p>
+            </aside>
+          )}
+
           {/* Remaining intro paragraphs */}
           {introRest.map((p, i) => (
             <p
