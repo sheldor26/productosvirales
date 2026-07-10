@@ -8,7 +8,7 @@ import { Badge } from "@/components/ui/Badge";
 import { CouponBadge } from "@/components/products/CouponBadge";
 import { formatPrice, formatDiscount } from "@/lib/utils";
 import { productHref } from "@/lib/product-url";
-import type { Product } from "@/lib/types";
+import type { CardProduct } from "@/lib/types";
 
 function TikTokIcon({ size = 12 }: { size?: number }) {
   return (
@@ -29,7 +29,7 @@ const badgeConfig = {
 } as const;
 
 interface ProductCardProps {
-  product: Product;
+  product: CardProduct;
   index?: number;
   /** Mark the card's image as LCP candidate (priority + fetchpriority=high). */
   priority?: boolean;

@@ -1,4 +1,4 @@
-import type { Product } from "./types";
+import type { CardProduct, Product } from "./types";
 import { curatedProducts } from "@/data/curated-products";
 
 /**
@@ -23,6 +23,26 @@ export function isFeatured(product: Product): boolean {
 /** All products that should appear in feeds, grids and relateds. */
 export function getVisibleProducts(): Product[] {
   return curatedProducts.filter(isVisible);
+}
+
+/** Recorta un Product a los campos que usa la tarjeta de grilla. Usar SIEMPRE
+ * en páginas server antes de pasar productos a ProductGrid: evita serializar
+ * articleBody/faq/reviews de cada producto en el payload RSC del HTML. */
+export function toCardProduct(p: Product): CardProduct {
+  return {
+    id: p.id,
+    title: p.title,
+    price: p.price,
+    originalPrice: p.originalPrice,
+    image: p.image,
+    category: p.category,
+    categorySlug: p.categorySlug,
+    affiliateUrl: p.affiliateUrl,
+    tiktokViews: p.tiktokViews,
+    badge: p.badge,
+    pastelColor: p.pastelColor,
+    priceStatus: p.priceStatus,
+  };
 }
 
 /**

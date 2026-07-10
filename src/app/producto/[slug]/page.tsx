@@ -1,7 +1,7 @@
 import { notFound, permanentRedirect } from "next/navigation";
 import type { Metadata } from "next";
 import { curatedProducts } from "@/data/curated-products";
-import { getVisibleProducts } from "@/lib/products";
+import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "@/lib/product-url";
 import { analyzePriceHistory } from "@/lib/price-history";
 import { ProductDetail } from "@/components/products/ProductDetail";
@@ -289,7 +289,7 @@ export default async function ProductPage({ params }: Props) {
 
       {related.length > 0 && (
         <ProductGrid
-          products={related}
+          products={related.map(toCardProduct)}
           title="Productos similares"
           subtitle={`Más productos de ${product.category}`}
         />
@@ -297,7 +297,7 @@ export default async function ProductPage({ params }: Props) {
 
       {otherCategories.length > 0 && (
         <ProductGrid
-          products={otherCategories}
+          products={otherCategories.map(toCardProduct)}
           title="Popular en otras categorías"
         />
       )}

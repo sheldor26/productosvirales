@@ -1,3 +1,23 @@
+/** Subconjunto de Product que necesita la tarjeta de la grilla. Las páginas
+ * server-side mapean a esto antes de pasarle productos a ProductGrid (client):
+ * pasar el Product completo serializa articleBody/faq/reviews de cada producto
+ * en el payload RSC del HTML (~1 MB extra por página de categoría). */
+export type CardProduct = Pick<
+  Product,
+  | "id"
+  | "title"
+  | "price"
+  | "originalPrice"
+  | "image"
+  | "category"
+  | "categorySlug"
+  | "affiliateUrl"
+  | "tiktokViews"
+  | "badge"
+  | "pastelColor"
+  | "priceStatus"
+>;
+
 export interface Product {
   id: string;
   title: string;
@@ -261,6 +281,11 @@ export interface Guide {
   hasDisclosure?: boolean;
   /** Standfirst / dek shown under the H1. If absent, first intro paragraph is used. */
   standfirst?: string;
+  /** Respuesta directa (caja "Respuesta rápida" antes de la intro): 40-60 palabras que
+   * responden la pregunta principal de la guía. Es el bloque que extraen AI Overviews
+   * y los LLMs para citarnos. Formato: "Para la mayoría conviene X; si [caso], Y."
+   * Soporta **negrita**, [links](...) y tokens {{precio:ID:k}}. */
+  directAnswer?: string;
   /** Override the auto-computed reading time in minutes. */
   readingTime?: number;
   /** Optional curated shortcuts shown right after intro (Wirecutter "Our picks" style). */

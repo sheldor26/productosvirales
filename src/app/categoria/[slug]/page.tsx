@@ -2,7 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { categories } from "@/data/categories";
-import { getVisibleProducts } from "@/lib/products";
+import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { productHref } from "@/lib/product-url";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { baseOpenGraph } from "@/lib/site-og";
@@ -137,7 +137,7 @@ export default async function CategoryPage({ params }: Props) {
       )}
 
       <ProductGrid
-        products={products.length > 0 ? products : visibleProducts.slice(0, 8)}
+        products={(products.length > 0 ? products : visibleProducts.slice(0, 8)).map(toCardProduct)}
         title={products.length > 0 ? undefined : "Productos destacados"}
         subtitle={products.length === 0 ? "Todavía no hay productos en esta categoría. Mirá estos:" : undefined}
       />

@@ -3,10 +3,10 @@
 import { useEffect, useRef } from "react";
 import { ProductCard } from "./ProductCard";
 import { ProductCardSkeleton } from "@/components/ui/Skeleton";
-import type { Product } from "@/lib/types";
+import type { CardProduct } from "@/lib/types";
 
 interface ProductGridProps {
-  products: Product[];
+  products: CardProduct[];
   loading?: boolean;
   title?: string;
   subtitle?: string;

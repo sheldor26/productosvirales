@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getVisibleProducts } from "@/lib/products";
+import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { TrendingBar } from "@/components/feed/TrendingBar";
 import { baseOpenGraph } from "@/lib/site-og";
@@ -75,7 +75,7 @@ export default function TrendingPage() {
 
       <TrendingBar />
 
-      <ProductGrid products={trendingProducts} />
+      <ProductGrid products={trendingProducts.map(toCardProduct)} />
     </div>
   );
 }
