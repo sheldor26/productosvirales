@@ -38,21 +38,27 @@ function shortDate(iso: string): string {
 /**
  * Construye los datos del gráfico para un producto. Devuelve null si no hay
  * suficiente historial (necesitamos al menos 2 puntos para una curva honesta).
- * Agrega el precio actual como último punto si difiere del último registrado,
- * para que el gráfico siempre coincida con el precio que muestra la ficha.
+ * Siempre agrega (o corrige) un punto en la fecha de hoy con el precio actual,
+ * aunque no haya cambiado desde el último chequeo registrado: sin esto, la
+ * línea se cortaba en la fecha del último chequeo real (ej. el último
+ * lunes/miércoles/viernes que corrió Bright Data) en vez de llegar hasta hoy,
+ * dando la impresión de que el seguimiento estaba muerto.
  */
 export function analyzePriceHistory(
   id: string,
   currentPrice?: number,
-  currentDate?: string,
 ): PriceChartData | null {
   const raw = getPriceHistory(id);
   if (raw.length === 0) return null;
 
   const points: PricePoint[] = raw.map((pt) => ({ d: pt.d, p: pt.p }));
   const last = points[points.length - 1];
-  if (currentPrice && currentPrice > 0 && currentPrice !== last.p) {
-    points.push({ d: currentDate || last.d, p: currentPrice });
+  const today = new Date().toISOString().slice(0, 10);
+  const price = currentPrice && currentPrice > 0 ? currentPrice : last.p;
+  if (last.d !== today) {
+    points.push({ d: today, p: price });
+  } else if (price !== last.p) {
+    points[points.length - 1] = { d: today, p: price };
   }
   if (points.length < 2) return null;
 

@@ -282,7 +282,7 @@ export default async function ProductPage({ params }: Props) {
       <ProductDetail
         product={product}
         relatedProducts={explicitRelated}
-        priceHistory={analyzePriceHistory(product.id, product.price, product.priceUpdated)}
+        priceHistory={analyzePriceHistory(product.id, product.price)}
       />
 
       <RelatedGuides
