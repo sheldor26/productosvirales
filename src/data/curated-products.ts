@@ -3498,12 +3498,9 @@ Comprá el Level Up Pegasus si ya decidiste que querés un teclado mecánico de 
     ],
   },
   {
-    // ADVERTENCIA: Rechazado por el Programa de Afiliados de ML el 05-jul-2026 ("Esta URL no está permitida
-    // en el Programa"). affiliateUrl sigue siendo el placeholder "PEGAR_MELI_LA": esta ficha NO tiene forma de
-    // monetizar hasta que Juan consiga un link real o el programa la re-apruebe. NO tocar affiliateUrl.
-    // Reemplazado por MLA22297233 (Level Up Pegasus) en la guía kit-gamer. Ficha conservada y enriquecida por si
-    // el rechazo era puntual y se puede reintentar el link de afiliado más adelante. No debería linkearse
-    // activamente desde ninguna guía mientras el afiliado siga roto.
+    // Rechazado por el Programa de Afiliados de ML el 05-jul-2026, pero el
+    // 2026-07-10 Juan consiguió un link de afiliado nuevo que sí funciona.
+    // Reactivada: visibility "normal" + affiliateUrl real.
     id: "MLA47333674",
     title: "Kit Gamer Redragon S143 Teclado Y Mouse K617RGB SP + M724 Negro",
     canonicalName: "Kit Gamer Redragon S143 (K617RGB + M724)",
@@ -3518,13 +3515,13 @@ Comprá el Level Up Pegasus si ya decidiste que querés un teclado mecánico de 
     category: "Gaming",
     categorySlug: "gaming",
     permalink: "https://www.mercadolibre.com.ar/p/MLA47333674",
-    affiliateUrl: "PEGAR_MELI_LA",
+    affiliateUrl: "https://meli.la/1QjfBRL",
     condition: "new",
     freeShipping: true,
     rating: 4.8,
     reviewCount: 1071,
     pastelColor: "var(--pastel-verde)",
-    visibility: "deprioritized",
+    visibility: "normal",
     specs: [
       { label: "Marca", value: "Redragon" },
       { label: "Modelo del kit", value: "S143 (teclado K617RGB SP + mouse M724)" },
@@ -46642,6 +46639,11 @@ Para cortes ocasionales en casa, con la ventaja de tener muchas alturas de peine
   },
 
   {
+    // Rechazado por el Programa de Afiliados de ML. Reintentado el 2026-07-10
+    // con un link nuevo: sigue rechazado ("Esta URL no está permitida en el
+    // Programa"). affiliateUrl queda en el placeholder "PEGAR_MELI_LA" a
+    // propósito; AffiliateLink.tsx lo detecta y muestra "No disponible por
+    // ahora" en vez de un link roto. NO tocar hasta conseguir un link que ande.
     id: 'MLA16142518',
     title: 'Cortadora de pelo Philco HC9901PN blanca',
     canonicalName: 'Philco HC9901PN',
@@ -49062,10 +49064,11 @@ Comprá esta Femmto si querés más que el número del peso: grasa corporal, IMC
   },
   {
     // ADVERTENCIA (sin resolver): rechazada por el Programa de Afiliados de ML el 06-jul-2026
-    // ("Esta URL no está permitida en el Programa"). affiliateUrl sigue en "PEGAR_MELI_LA": NO tiene
-    // forma de monetizar hasta que Juan consiga un link real o el programa la re-apruebe.
+    // ("Esta URL no está permitida en el Programa"). Reintentado el 2026-07-10 con un link nuevo:
+    // sigue rechazado. affiliateUrl sigue en "PEGAR_MELI_LA": NO tiene forma de monetizar hasta que
+    // Juan consiga un link real o el programa la re-apruebe. AffiliateLink.tsx detecta el placeholder
+    // y muestra "No disponible por ahora" en vez de un link roto.
     // Sacado del ranking de la guía balanza-digital, reemplazado por Omron HN-289, Utile UT-1108 y Noga NG-B01.
-    // Ficha conservada y enriquecida por si el rechazo era puntual y se puede reintentar el link más adelante.
     // NO linkear activamente desde guias.ts ni desde otras fichas mientras el afiliado esté roto.
     id: "MLA38252447",
     title: "Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg",
@@ -50551,9 +50554,11 @@ Compralo si el porcentaje exacto en pantalla te resuelve una ansiedad real y pre
     ],
   },
   {
-    // Rechazado por el Programa de Afiliados de ML el 06-jul-2026 ("Esta URL no está permitida en el Programa").
-    // Sacado del ranking de la guía cargador-portatil, reemplazado por el Mcdodo MC-3891 20.000 display (MLA29504563).
-    // Ficha conservada por si el rechazo era puntual y se puede reintentar el link de afiliado más adelante.
+    // Rechazado por el Programa de Afiliados de ML el 06-jul-2026, pero el
+    // 2026-07-10 Juan consiguió un link de afiliado nuevo que sí funciona.
+    // Reactivada: visibility "normal" + affiliateUrl real. Sigue existiendo
+    // el Mcdodo MC-3891 (MLA29504563) como otra opción en cargador-portatil;
+    // no se sacó de ese ranking, esta ficha vuelve a estar disponible aparte.
     id: "MLA60527825",
     title: "Cargador Xiaomi Power Bank 20000mah Cable Usb-c Carga Rapida Negro",
     canonicalName: "Cargador Portátil Xiaomi 20.000 mAh 22,5 W",
@@ -50566,14 +50571,14 @@ Compralo si el porcentaje exacto en pantalla te resuelve una ansiedad real y pre
     category: "Tech",
     categorySlug: "tech",
     permalink: "https://www.mercadolibre.com.ar/p/MLA60527825",
-    affiliateUrl: "PEGAR_MELI_LA",
+    affiliateUrl: "https://meli.la/2pMpSuF",
     condition: "new",
     freeShipping: true,
     rating: 4.9,
     reviewCount: 427,
     ratingBreakdown: { five: "93.44%", four: "4.68%", three: "0.47%", two: "0.47%", one: "0.94%" },
     pastelColor: "var(--pastel-lila)",
-    visibility: "deprioritized",
+    visibility: "normal",
     specs: [
       { label: "Marca", value: "Xiaomi" },
       { label: "Capacidad", value: "20.000 mAh" },
