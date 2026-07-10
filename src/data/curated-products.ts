@@ -26850,7 +26850,7 @@ Femmto ya tiene presencia en el catálogo con el [modelo MP](/producto/MLA379085
   {
     id: 'MLA22138401',
     title: "Pistola Masajeadora Gadnic Gunax Alta Intensidad Recargable",
-    price: 69999,
+    price: 82149,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_781455-MLU76151002922_052024-F.jpg',
     images: [
