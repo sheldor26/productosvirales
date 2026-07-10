@@ -222,19 +222,23 @@ jobs:
           gh pr create \
             --base master \
             --head "$BRANCH" \
-            --title "Precios ML (Bright Data) — ${DATE} (revisar antes de publicar)" \
+            --title "Precios ML (Bright Data) — ${DATE}" \
             --body "Actualización automática de precios desde MercadoLibre (via Bright Data).
+          Se auto-mergea sola apenas se abre (ver paso siguiente del workflow); queda
+          este PR solo como registro del diff, no hace falta revisarlo antes.
 
-          Revisá el diff de \`src/data/curated-products.ts\`. Los cambios sospechosos
-          (precio se duplicó o cayó a menos de la mitad) quedaron afuera del catálogo a
-          propósito y se listaron en \`docs/precios-sospechosos.md\` con el link a
-          MercadoLibre — chequealos ahí y avisá si hay que aplicarlos a mano.
+          Los cambios sospechosos (precio se duplicó o cayó a menos de la mitad)
+          quedaron afuera del catálogo a propósito y se listaron en
+          \`docs/precios-sospechosos.md\` con el link a MercadoLibre — esos SÍ conviene
+          chequearlos a mano de tanto en tanto.
 
           \`src/data/price-history.json\` suma un punto por producto chequeado hoy
           (precios sospechosos no se registran ahí). Si en este PR no cambió ningún
           precio real, es probable que el único diff sea ese archivo — es esperable,
           es la serie de tiempo para el futuro índice de precios.
 
-          Si el resto tiene sentido, hacé merge y Vercel publica solo.
-
           Generado por el workflow .github/workflows/update-prices-brightdata.yml"
+
+          echo "Auto-mergeando el PR..."
+          gh pr merge "$BRANCH" --merge --delete-branch || \
+            echo "No se pudo auto-mergear (revisar permisos/protecciones de rama); el PR queda abierto para mergear a mano."
