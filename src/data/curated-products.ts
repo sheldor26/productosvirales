@@ -34131,7 +34131,7 @@ Una usuaria argentina lo confirma: "es el original ya que trae su código QR que
     canonicalName: "Afnan 9PM EDP 100ml",
     reviewsSampledAt: "2026-07-09",
     brand: "Afnan",
-    price: 46918,
+    price: 47011,
     priceUpdated: "2026-07-10",
     priceLastChecked: "2026-07-10",
     priceStatus: "fresh",
