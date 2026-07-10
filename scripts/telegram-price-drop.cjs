@@ -70,17 +70,45 @@ function extractProductBlock(src, id) {
   }
   return null;
 }
+// Lee un string entre comillas (', " o `) respetando barras de escape, para
+// no cortar el valor en la primera comilla escapada que encuentre adentro
+// (ej. cons: ["...marca que \"no tiene buena fijación\"..."] se cortaba en
+// esa comilla escapada). `start` es el indice del caracter de apertura.
+function readQuotedString(text, start) {
+  const quote = text[start];
+  if (quote !== "'" && quote !== '"' && quote !== "`") return null;
+  let value = "";
+  let i = start + 1;
+  while (i < text.length) {
+    const ch = text[i];
+    if (ch === "\\") {
+      value += text[i + 1] ?? "";
+      i += 2;
+      continue;
+    }
+    if (ch === quote) return { value, end: i + 1 };
+    value += ch;
+    i++;
+  }
+  return null;
+}
 function prop(block, p) {
-  const m = block.match(new RegExp(`(?:^|\\n)\\s*${p}:\\s*['"\`]([^'"\`]*)['"\`]`));
-  return m ? m[1] : "";
+  const m = block.match(new RegExp(`(?:^|\\n)\\s*${p}:\\s*['"\`]`));
+  if (!m) return "";
+  const quoteIdx = m.index + m[0].length - 1;
+  const result = readQuotedString(block, quoteIdx);
+  return result ? result.value : "";
 }
 function numProp(block, p) {
   const m = block.match(new RegExp(`(?:^|\\n)\\s*${p}:\\s*(\\d+(?:\\.\\d+)?)`));
   return m ? Number(m[1]) : undefined;
 }
 function firstConsItem(block) {
-  const m = block.match(/cons:\s*\[\s*['"`]([^'"`]+)['"`]/);
-  return m ? m[1] : null;
+  const m = block.match(/cons:\s*\[\s*['"`]/);
+  if (!m) return null;
+  const quoteIdx = m.index + m[0].length - 1;
+  const result = readQuotedString(block, quoteIdx);
+  return result ? result.value : null;
 }
 
 // ─── Cupón aplicable (mismo cálculo que src/lib/coupons.ts) ───
