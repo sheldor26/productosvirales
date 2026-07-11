@@ -191,8 +191,8 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
       const tl = gsap.timeline({ defaults: { opacity: 0, y: 20, duration: 0.4, ease: "power2.out" } });
       tl.from(".detail-image", { x: -20, y: 0 })
         .from(".detail-info", { x: 20, y: 0 }, "<0.1")
-        .from(".detail-proscons", {}, 0.3)
-        .from(".detail-pricehistory", {}, "-=0.05")
+        .from(".detail-pricehistory", {}, 0.3)
+        .from(".detail-proscons", {}, "-=0.05")
         .from(".detail-related", {}, "-=0.05")
         .from(".detail-parawhom", {}, "-=0.05")
         .from(".detail-article", {}, "-=0.05")
@@ -375,6 +375,21 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
         </div>
       </div>
 
+      {/* ─── Historial de precios (prueba social, arriba de todo) ─── */}
+      {priceHistory && (
+        <SectionCard
+          className="detail-pricehistory"
+          kicker="Seguimiento de precio"
+          title="¿Cómo viene el precio?"
+        >
+          <PriceHistoryChart data={priceHistory} />
+          <p className="mt-3 text-xs text-[var(--text-muted)] leading-relaxed">
+            Seguimos el precio de este producto en MercadoLibre y registramos cada
+            cambio. Es una referencia para ver si hoy conviene comprar o esperar.
+          </p>
+        </SectionCard>
+      )}
+
       {/* ─── Pros / Cons + mosaicos de specs ─── */}
       {(product.pros || product.cons) && (
         <SectionCard className="detail-proscons" kicker="El resumen honesto" title="A favor y en contra">
@@ -425,21 +440,6 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
               ))}
             </div>
           )}
-        </SectionCard>
-      )}
-
-      {/* ─── Historial de precios (datos propios desde el seguimiento semanal) ─── */}
-      {priceHistory && (
-        <SectionCard
-          className="detail-pricehistory"
-          kicker="Seguimiento de precio"
-          title="¿Cómo viene el precio?"
-        >
-          <PriceHistoryChart data={priceHistory} />
-          <p className="mt-3 text-xs text-[var(--text-muted)] leading-relaxed">
-            Seguimos el precio de este producto en MercadoLibre y registramos cada
-            cambio. Es una referencia para ver si hoy conviene comprar o esperar.
-          </p>
         </SectionCard>
       )}
 
