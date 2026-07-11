@@ -80,6 +80,14 @@ export async function POST(request: Request) {
       ? rawRef.trim().slice(0, 200)
       : null;
 
+  // Fuente de la suscripción (whitelist). Sirve para segmentar después:
+  // "price-alert" = pidió alerta de bajas de precio; "newsletter" = genérico.
+  const rawSource =
+    typeof body === "object" && body !== null && "source" in body
+      ? (body as { source: unknown }).source
+      : undefined;
+  const source = rawSource === "price-alert" ? "price-alert" : "newsletter";
+
   const sql = getSql();
   if (!sql) {
     // Sin DB configurada: dejamos rastro y seguimos sin romper.
@@ -96,7 +104,7 @@ export async function POST(request: Request) {
     // ON CONFLICT DO NOTHING: si el mail ya existe, no es error (idempotente).
     await sql`
       INSERT INTO subscribers (email, source, ip, source_detail)
-      VALUES (${normalized}, ${"newsletter"}, ${ip}, ${sourceDetail})
+      VALUES (${normalized}, ${source}, ${ip}, ${sourceDetail})
       ON CONFLICT (email) DO NOTHING
     `;
   } catch (err) {

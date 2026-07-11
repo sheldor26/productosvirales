@@ -5,12 +5,30 @@ import { Bell, ArrowRight } from "lucide-react";
 
 export function PriceAlert() {
   const [email, setEmail] = useState("");
-  const [submitted, setSubmitted] = useState(false);
+  const [status, setStatus] = useState<"idle" | "loading" | "done" | "error">("idle");
+  const [errorMsg, setErrorMsg] = useState("");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (email.trim()) {
-      setSubmitted(true);
+    if (!email.trim() || status === "loading") return;
+    setStatus("loading");
+    setErrorMsg("");
+    try {
+      const res = await fetch("/api/subscribe", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: email.trim(), source: "price-alert" }),
+      });
+      if (!res.ok) {
+        const data = (await res.json().catch(() => ({}))) as { error?: string };
+        setErrorMsg(data.error || "No pudimos guardar tu email. Probá de nuevo.");
+        setStatus("error");
+        return;
+      }
+      setStatus("done");
+    } catch {
+      setErrorMsg("No pudimos guardar tu email. Probá de nuevo en un rato.");
+      setStatus("error");
     }
   };
 
@@ -40,28 +58,35 @@ export function PriceAlert() {
           </div>
         </div>
 
-        {submitted ? (
+        {status === "done" ? (
           <p className="text-sm font-medium text-[var(--color-trending-up)]">
             ¡Listo! Te vamos a avisar cuando haya ofertas imperdibles.
           </p>
         ) : (
-          <form onSubmit={handleSubmit} className="flex gap-2">
-            <input
-              type="email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              placeholder="tu@email.com"
-              required
-              className="flex-1 px-4 py-2.5 text-sm bg-[var(--bg-primary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)]"
-            />
-            <button
-              type="submit"
-              className="flex items-center gap-1.5 px-5 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors shrink-0 cursor-pointer"
-            >
-              Suscribirme
-              <ArrowRight size={14} />
-            </button>
-          </form>
+          <>
+            <form onSubmit={handleSubmit} className="flex gap-2">
+              <input
+                type="email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                placeholder="tu@email.com"
+                required
+                disabled={status === "loading"}
+                className="flex-1 px-4 py-2.5 text-sm bg-[var(--bg-primary)] text-[var(--text-primary)] rounded-[var(--radius-pill)] border border-[var(--border)] outline-none focus:border-[var(--text-muted)] transition-colors placeholder:text-[var(--text-muted)] disabled:opacity-60"
+              />
+              <button
+                type="submit"
+                disabled={status === "loading"}
+                className="flex items-center gap-1.5 px-5 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors shrink-0 cursor-pointer disabled:opacity-70 disabled:cursor-default"
+              >
+                {status === "loading" ? "Enviando…" : "Suscribirme"}
+                {status !== "loading" && <ArrowRight size={14} />}
+              </button>
+            </form>
+            {status === "error" && (
+              <p className="mt-2 text-xs text-[#ef4444]">{errorMsg}</p>
+            )}
+          </>
         )}
       </div>
     </div>

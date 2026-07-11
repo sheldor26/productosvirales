@@ -20,7 +20,7 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
   - Pasos: reposicionar el chart; estado vacío elegante cuando hay <2 puntos.
   - Riesgo: **bajo**. Ojo: `price-history.json` empezó a alimentarse el 2026-07-09 (Bright Data 3x/semana), todavía hay poca densidad por producto → priorizar productos con historial.
 
-- [ ] **1.3 PriceAlert real (guardar email + producto)**
+- [~] **1.3 PriceAlert real (guardar email + producto)** — 🟡 Parcial 2026-07-11: el widget YA guarda el lead (POST a `/api/subscribe` con `source: "price-alert"`, con loading/error/success). Antes era fachada (tiraba el email). **Falta** (próxima tanda): tabla `price_watches` por producto + cron que compara precio (Bright Data) y dispara el email/Telegram con el link de afiliado.
   - Por qué: la feature más alineada con recurrencia y afiliados; máquina de plata en Hot Sale / Black Friday. Hoy `PriceAlert` solo setea estado local, no guarda nada.
   - Archivos: `src/components/widgets/PriceAlert.tsx`, `src/app/api/subscribe/` (YA existe), Neon (`subscribers` ya existe; falta `price_watches`).
   - Pasos: (a) form que postee a `/api/subscribe` con `source: "price-alert"` + `productId`; (b) tabla `price_watches` en Neon; (c) enganchar al pipeline de precios que YA corre (Bright Data 3x/semana) para disparar la alerta con el link de afiliado por email (Resend) o Telegram.
