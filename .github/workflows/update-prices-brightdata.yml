@@ -209,6 +209,20 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: node scripts/notify-price-drops-telegram.cjs
 
+      # Manda las bajas por EMAIL a los suscriptores con source='price-alert'.
+      # Si faltan los secrets (RESEND_API_KEY / DATABASE_URL / UNSUBSCRIBE_SECRET),
+      # el script no-opea sin romper (ver notify-price-drops-email.cjs).
+      - name: Avisar bajas de precio por email (suscriptores)
+        if: steps.gate.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          UNSUBSCRIBE_SECRET: ${{ secrets.UNSUBSCRIBE_SECRET }}
+          SITE_URL: https://productosvirales.com.ar
+        run: node scripts/notify-price-drops-email.cjs --send
+
       - name: Abrir Pull Request si hubo cambios
         if: steps.gate.outputs.skip != 'true'
         env:
