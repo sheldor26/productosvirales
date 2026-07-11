@@ -111,6 +111,12 @@ export async function POST(request: Request) {
         SET source = CASE
           WHEN EXCLUDED.source = 'price-alert' THEN 'price-alert'
           ELSE subscribers.source
+        END,
+        -- Re-suscribirse reactiva: si se había dado de baja y vuelve a pedir
+        -- alertas, lo volvemos a incluir en los envíos.
+        unsubscribed = CASE
+          WHEN EXCLUDED.source = 'price-alert' THEN false
+          ELSE subscribers.unsubscribed
         END
     `;
   } catch (err) {
