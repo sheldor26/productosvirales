@@ -28,7 +28,7 @@ if [[ -z "$GUIDE_LINE" ]]; then
 fi
 
 START=$(( GUIDE_LINE > 60 ? GUIDE_LINE - 60 : 1 ))
-END=$(( GUIDE_LINE + 320 ))
+END=$(( GUIDE_LINE + 220 ))
 sed -n "${START},${END}p" src/data/guides.ts > "$OUT_DIR/guide-excerpt.ts"
 
 git diff -- src/data/guides.ts src/data/curated-products.ts docs/ARTICLE_CREATION_WORKFLOW.md docs/guias.md > "$OUT_DIR/diff.patch" || true
@@ -44,7 +44,7 @@ while IFS= read -r product_id; do
   product_line="$(rg -n "id: ['\"]${product_id}['\"]" src/data/curated-products.ts | head -n 1 | cut -d: -f1 || true)"
   if [[ -n "$product_line" ]]; then
     product_start=$(( product_line > 20 ? product_line - 20 : 1 ))
-    product_end=$(( product_line + 120 ))
+    product_end=$(( product_line + 80 ))
     {
       echo
       echo "// ===== ${product_id} ====="
@@ -53,29 +53,33 @@ while IFS= read -r product_id; do
   fi
 done <<< "$PRODUCT_IDS"
 
-cat > "$OUT_DIR/claude-prompt.txt" <<PROMPT
-Actua como Claude/Kogod, auditor tecnico-editorial de ProductosVirales.
+cat > "$OUT_DIR/review-context.md" <<EOF
+# Contexto compacto para revisar ${SLUG}
 
-Revisa la guia '${SLUG}' en modo solo lectura. No edites archivos.
+## Extracto de guia
 
-Tu foco:
-- bugs de implementacion, metadata, OG/Pinterest, rendering o links rotos;
-- consistencia con fichas reales y regla de honestidad;
-- SEO, conversion, enlaces internos, monetizacion y canibalizacion;
-- si hay bloqueantes antes de publicar/pushear.
+\`\`\`ts
+$(cat "$OUT_DIR/guide-excerpt.ts")
+\`\`\`
 
-Contexto disponible:
-- Extracto de guia: ${OUT_DIR}/guide-excerpt.ts
-- Extractos de fichas: ${OUT_DIR}/products-excerpts.ts
-- Diff actual: ${OUT_DIR}/diff.patch
-- Estado git: ${OUT_DIR}/git-status.txt
-- Reglas: docs/guias.md y docs/ARTICLE_CREATION_WORKFLOW.md
+## Extractos de fichas
 
-Responde en espanol rioplatense, claro y accionable.
-Termina con una de estas lineas exactas:
-GO: listo para publicar
-NO-GO: hay bloqueantes
-PROMPT
+\`\`\`ts
+$(cat "$OUT_DIR/products-excerpts.ts")
+\`\`\`
+
+## Diff actual
+
+\`\`\`diff
+$(cat "$OUT_DIR/diff.patch")
+\`\`\`
+
+## Estado git
+
+\`\`\`
+$(cat "$OUT_DIR/git-status.txt")
+\`\`\`
+EOF
 
 cat > "$OUT_DIR/gemini-prompt.txt" <<PROMPT
 Actua como Gemini, tercer auditor orientado a Google/SERP/AIO para ProductosVirales.
@@ -87,14 +91,12 @@ Tu foco diferencial:
 - cobertura semantica y preguntas que faltan;
 - riesgo de canibalizacion;
 - probabilidad de ser util para AI Overviews/Gemini;
+- multimedia: hero, imagenes, manuales, screenshots, alt text, OG/Pinterest, assets visuales y oportunidades para mejorar comprension/conversion;
 - claridad para el usuario comprador y oportunidades de conversion sin humo.
 
-Contexto disponible:
-- Extracto de guia: ${OUT_DIR}/guide-excerpt.ts
-- Extractos de fichas: ${OUT_DIR}/products-excerpts.ts
-- Diff actual: ${OUT_DIR}/diff.patch
-- Estado git: ${OUT_DIR}/git-status.txt
-- Reglas: docs/guias.md y docs/ARTICLE_CREATION_WORKFLOW.md
+Usa solo este contexto compacto, sin abrir archivos adicionales:
+
+$(cat "$OUT_DIR/review-context.md")
 
 Responde en espanol rioplatense, claro y accionable.
 Termina con una de estas lineas exactas:
@@ -102,29 +104,20 @@ GO: listo para publicar
 NO-GO: hay bloqueantes
 PROMPT
 
-run_claude() {
-  if ! command -v claude >/dev/null 2>&1; then
-    echo "Claude CLI no instalado." > "$OUT_DIR/claude-review.md"
-    return 0
-  fi
-
-  local claude_stdout="$OUT_DIR/claude-stdout.txt"
-  claude -p --output-format text --permission-mode auto --no-session-persistence \
-    --allowedTools "Read,Grep,Glob,Bash(git diff *),Bash(git status *),Bash(rg *),Bash(sed *)" \
-    < "$OUT_DIR/claude-prompt.txt" > "$claude_stdout" 2> "$OUT_DIR/claude-stderr.txt" || {
-      {
-        echo "Claude fallo. Revisar ${OUT_DIR}/claude-stderr.txt"
-        echo
-        echo "STDOUT:"
-        cat "$claude_stdout"
-        echo
-        echo "STDERR:"
-        cat "$OUT_DIR/claude-stderr.txt"
-      } > "$OUT_DIR/claude-review.md"
-      return 0
-    }
-
-  mv "$claude_stdout" "$OUT_DIR/claude-review.md"
+run_with_timeout() {
+  local seconds="$1"
+  shift
+  "$@" &
+  local cmd_pid=$!
+  (
+    sleep "$seconds"
+    kill -TERM "$cmd_pid" 2>/dev/null || true
+  ) &
+  local watchdog_pid=$!
+  wait "$cmd_pid"
+  local status=$?
+  kill "$watchdog_pid" 2>/dev/null || true
+  return "$status"
 }
 
 run_gemini() {
@@ -142,8 +135,10 @@ run_gemini() {
   fi
 
   local gemini_stdout="$OUT_DIR/gemini-stdout.txt"
-  gemini -p "$(cat "$OUT_DIR/gemini-prompt.txt")" \
-    --approval-mode plan --output-format text --skip-trust \
+  local gemini_model="${GEMINI_MODEL:-gemini-2.5-flash}"
+  run_with_timeout "${AI_OS_AGENT_TIMEOUT_SECONDS:-90}" \
+    gemini -p "$(cat "$OUT_DIR/gemini-prompt.txt")" \
+    --model "$gemini_model" --approval-mode plan --output-format text --skip-trust \
     > "$gemini_stdout" 2> "$OUT_DIR/gemini-stderr.txt" || {
       {
         echo "Gemini fallo. Revisar ${OUT_DIR}/gemini-stderr.txt"
@@ -160,30 +155,28 @@ run_gemini() {
   mv "$gemini_stdout" "$OUT_DIR/gemini-review.md"
 }
 
-run_claude
 run_gemini
 
 cat > "$OUT_DIR/CONSENSUS.md" <<EOF
-# Revision tri-IA: ${SLUG}
+# Revision AI-OS: ${SLUG}
 
 Fecha: ${STAMP}
 
 ## Resultado rapido
 
-- Claude: $(tail -n 20 "$OUT_DIR/claude-review.md" | rg -i "^(GO|NO-GO):" || echo "sin veredicto")
 - Gemini: $(tail -n 20 "$OUT_DIR/gemini-review.md" | rg -i "^(GO|NO-GO):" || echo "sin veredicto")
+- Codex: pendiente de auditoria en la conversacion
 
 ## Regla de publicacion
 
 Solo publicar/pushear si:
 
-1. Claude no marca bloqueantes.
+1. Claude escribio/aplico los cambios pedidos.
 2. Gemini no marca bloqueantes.
-3. Codex revisa ambas respuestas y coincide con el GO.
+3. Codex revisa el diff, valida build/checks y coincide con el GO.
 
 ## Archivos
 
-- claude-review.md
 - gemini-review.md
 - guide-excerpt.ts
 - products-excerpts.ts

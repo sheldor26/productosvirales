@@ -62,23 +62,25 @@ Este proyecto publica artículos desde `src/data/guides.ts`. Los Markdown en `do
 - `pull-quote`: cita destacada.
 - `verdict`: conclusion editorial.
 
+## Roles AI-OS para guias
+
+- **Claude/Kogod = cerebro principal y redactor/implementador.** Por costo y capacidad disponible en el plan Max, Claude debe escribir, reescribir y aplicar la mayor parte de los cambios largos de una guia.
+- **Codex/GPT = orquestador y auditor editorial/SEO.** Codex no debe gastar tokens escribiendo guias largas salvo emergencia: revisa estrategia, detecta riesgos, cruza opiniones, decide si las mejoras son sensatas, ejecuta verificaciones, integra y pushea.
+- **Gemini = auditor Google/SERP/AIO y multimedia.** Gemini revisa intencion de busqueda, cobertura semantica, canibalizacion, utilidad para AI Overviews/Gemini, hero, imagenes, manuales, screenshots, alt text, OG/Pinterest y oportunidades visuales.
+
 ## Flujo recomendado para un articulo nuevo
 
 1. Crear el borrador en `docs/clusters/<cluster>/`.
 2. Usar el formato del convertidor existente si el cluster ya tiene script.
 3. Confirmar que el slug no exista en `src/data/guides.ts`.
-4. Agregar imagenes en `public/images/...` si corresponde.
-5. Convertir o copiar el articulo a un objeto `Guide`.
-6. Revisar enlaces internos: todo `/guias/...` debe apuntar a un slug existente o a un articulo planificado.
-7. Pasar la guia por consenso Codex-Claude-Gemini antes de publicar:
-   - Codex termina de escribir u optimizar la guia y hace una primera auditoria propia.
-   - Codex consulta a Claude/Kogod en modo solo lectura, con el diff, el slug, las fichas y las reglas editoriales relevantes.
-   - Codex consulta a Gemini en modo solo lectura como auditor Google/SERP/AIO: intencion de busqueda, cobertura semantica, preguntas faltantes, canibalizacion y utilidad para AI Overviews.
-   - Si Claude o Gemini proponen mejoras sensatas de SEO, conversion, datos, enlaces internos, imagenes, OG/Pinterest o canibalizacion, Codex las aplica.
-   - Codex vuelve a consultar a Claude y Gemini despues del ajuste.
-   - Solo se puede pushear/publicar cuando Codex, Claude y Gemini coinciden en que no quedan bloqueantes y la guia esta lista para indexar.
-   - Comando operativo: `scripts/ai-os/review-guide.sh <slug>`. Guarda la trazabilidad en `docs/ai/reviews/<fecha>-<slug>/`.
-8. Ejecutar:
+4. Delegar a Claude la escritura/optimizacion pesada con `scripts/ai-os/claude-guide-task.sh <slug> <brief.md>`.
+5. Claude agrega imagenes en `public/images/...` o `public/guias/...` si corresponde, convierte/carga el articulo en `src/data/guides.ts` y respeta `docs/guias.md`, `docs/fichas.md` y la regla de honestidad.
+6. Codex revisa el diff de Claude y hace una primera auditoria propia: enlaces internos, monetizacion, metadata, tokens de precio, voz, canibalizacion y riesgos de implementacion.
+7. Codex consulta a Gemini con `scripts/ai-os/review-guide.sh <slug>` como auditor externo Google/SERP/AIO/multimedia.
+8. Si Codex o Gemini proponen mejoras sensatas de SEO, conversion, datos, enlaces internos, multimedia, imagenes, OG/Pinterest o canibalizacion, Codex se las devuelve a Claude para que las aplique.
+9. Codex vuelve a correr `scripts/ai-os/review-guide.sh <slug>` despues del ajuste.
+10. Solo se puede pushear/publicar cuando Claude aplico los cambios, Gemini no marca bloqueantes y Codex coincide en que la guia esta lista para indexar.
+11. Ejecutar:
 
 ```bash
 npm run lint
