@@ -37,7 +37,7 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
   - Pasos: (a) tabs → `<Link href="/categoria/[slug]">` o que actualicen `?cat=slug`; (b) Header: dropdown "Categorías" con TODOS los hubs (pasa link juice desde el header a todo el sitio).
   - Riesgo: **medio** — toca navegación/home. Mantener el filtrado actual funcionando (pasar a URL-driven sin romper la UX).
 
-- [ ] **2.2 Trending pills al buscador interno (frenar fuga de link juice)**
+- [x] **2.2 Trending pills al buscador interno (frenar fuga de link juice)** ✅ 2026-07-11 (pills → `/?q=` interno con `<Link>`; términos curados a nuestro catálogo; ya no van a mercadolibre.com.ar)
   - Por qué: `TrendingBar`/`TrendingPills` linkean directo a `listado.mercadolibre.com.ar` → echás al usuario y a Google fuera del sitio en el primer pantallazo, sin pasar por el embudo.
   - Archivos: `src/components/.../TrendingBar.tsx`, `TrendingPills.tsx`.
   - Pasos: apuntar a `/buscar?q=...` interno (depende de 2.3).

@@ -7,18 +7,25 @@ interface MLTrend {
   url: string;
 }
 
-const fallbackTrends = [
-  { keyword: "zapatillas hombre", url: "https://listado.mercadolibre.com.ar/zapatillas-hombre" },
-  { keyword: "freidora de aire", url: "https://listado.mercadolibre.com.ar/freidora-de-aire" },
-  { keyword: "auriculares inalambricos", url: "https://listado.mercadolibre.com.ar/auriculares-inalambricos" },
-  { keyword: "notebook", url: "https://listado.mercadolibre.com.ar/notebook" },
-  { keyword: "silla gamer", url: "https://listado.mercadolibre.com.ar/silla-gamer" },
-  { keyword: "aire acondicionado", url: "https://listado.mercadolibre.com.ar/aire-acondicionado" },
-  { keyword: "termo stanley", url: "https://listado.mercadolibre.com.ar/termo-stanley" },
-  { keyword: "celulares", url: "https://listado.mercadolibre.com.ar/celulares" },
-  { keyword: "cortinas blackout", url: "https://listado.mercadolibre.com.ar/cortinas-blackout" },
-  { keyword: "pava electrica", url: "https://listado.mercadolibre.com.ar/pava-electrica" },
-];
+// Las pills buscan en NUESTRO catálogo (retención + no fuga de link juice a ML).
+// La home ya filtra por ?q= (ver src/app/page.tsx). Antes apuntaban directo a
+// listado.mercadolibre.com.ar, sacando al usuario y a Google del sitio.
+const toInternal = (keyword: string) => `/?q=${encodeURIComponent(keyword)}`;
+
+// Términos curados que mapean a productos reales de nuestros nichos (para que la
+// búsqueda interna no caiga vacía como pasaría con "notebook" o "celulares").
+const fallbackTrends: MLTrend[] = [
+  "freidora de aire",
+  "robot aspiradora",
+  "pava electrica",
+  "cafetera italiana",
+  "perfume arabe",
+  "masajeador facial",
+  "auriculares bluetooth",
+  "parlante jbl",
+  "silla gamer",
+  "estufa electrica",
+].map((keyword) => ({ keyword, url: toInternal(keyword) }));
 
 export async function TrendingBar() {
   let trends: MLTrend[] = [];
@@ -26,7 +33,11 @@ export async function TrendingBar() {
   try {
     const data = await getTrends();
     if (Array.isArray(data) && data.length > 0) {
-      trends = data.slice(0, 20);
+      // Usamos las keywords que trae ML pero apuntando al buscador interno.
+      trends = data.slice(0, 20).map((t: MLTrend) => ({
+        keyword: t.keyword,
+        url: toInternal(t.keyword),
+      }));
     }
   } catch {
     // API failed, use fallback
@@ -40,7 +51,7 @@ export async function TrendingBar() {
     <div className="flex items-center gap-3 overflow-hidden">
       <div className="flex items-center gap-1.5 text-[var(--text-secondary)] shrink-0">
         <TrendingUp size={14} className="trend-bounce text-[var(--color-trending-up)]" />
-        <span className="text-xs font-semibold whitespace-nowrap">Trending en ML</span>
+        <span className="text-xs font-semibold whitespace-nowrap">Trending ahora</span>
       </div>
 
       <TrendingPills trends={trends} />
