@@ -21,7 +21,7 @@ STAMP="$(date +%Y-%m-%d-%H%M%S)"
 OUT_DIR="docs/ai/reviews/${STAMP}-${SLUG}"
 mkdir -p "$OUT_DIR"
 
-GUIDE_LINE="$(rg -n "slug: [\"']${SLUG}[\"']" src/data/guides.ts | head -n 1 | cut -d: -f1 || true)"
+GUIDE_LINE="$(grep -nE "slug: [\"']${SLUG}[\"']" src/data/guides.ts | head -n 1 | cut -d: -f1 || true)"
 if [[ -z "$GUIDE_LINE" ]]; then
   echo "No encontre slug '${SLUG}' en src/data/guides.ts" >&2
   exit 1
@@ -29,19 +29,19 @@ fi
 
 START=$(( GUIDE_LINE > 60 ? GUIDE_LINE - 60 : 1 ))
 END=$(( GUIDE_LINE + 220 ))
-sed -n "${START},${END}p" src/data/guides.ts > "$OUT_DIR/guide-excerpt.ts"
+sed -n "${START},${END}p" src/data/guides.ts > "$OUT_DIR/guide-excerpt.txt"
 
 git diff -- src/data/guides.ts src/data/curated-products.ts docs/ARTICLE_CREATION_WORKFLOW.md docs/guias.md > "$OUT_DIR/diff.patch" || true
 git status --short > "$OUT_DIR/git-status.txt"
 
 PRODUCT_IDS="$(
-  rg -o "MLA[0-9]+" "$OUT_DIR/guide-excerpt.ts" | sort -u || true
+  grep -oE "MLA[0-9]+" "$OUT_DIR/guide-excerpt.txt" | sort -u || true
 )"
 
-: > "$OUT_DIR/products-excerpts.ts"
+: > "$OUT_DIR/products-excerpts.txt"
 while IFS= read -r product_id; do
   [[ -z "$product_id" ]] && continue
-  product_line="$(rg -n "id: ['\"]${product_id}['\"]" src/data/curated-products.ts | head -n 1 | cut -d: -f1 || true)"
+  product_line="$(grep -nE "id: ['\"]${product_id}['\"]" src/data/curated-products.ts | head -n 1 | cut -d: -f1 || true)"
   if [[ -n "$product_line" ]]; then
     product_start=$(( product_line > 20 ? product_line - 20 : 1 ))
     product_end=$(( product_line + 80 ))
@@ -49,7 +49,7 @@ while IFS= read -r product_id; do
       echo
       echo "// ===== ${product_id} ====="
       sed -n "${product_start},${product_end}p" src/data/curated-products.ts
-    } >> "$OUT_DIR/products-excerpts.ts"
+    } >> "$OUT_DIR/products-excerpts.txt"
   fi
 done <<< "$PRODUCT_IDS"
 
@@ -59,13 +59,13 @@ cat > "$OUT_DIR/review-context.md" <<EOF
 ## Extracto de guia
 
 \`\`\`ts
-$(cat "$OUT_DIR/guide-excerpt.ts")
+$(cat "$OUT_DIR/guide-excerpt.txt")
 \`\`\`
 
 ## Extractos de fichas
 
 \`\`\`ts
-$(cat "$OUT_DIR/products-excerpts.ts")
+$(cat "$OUT_DIR/products-excerpts.txt")
 \`\`\`
 
 ## Diff actual
@@ -99,6 +99,11 @@ Usa solo este contexto compacto, sin abrir archivos adicionales:
 $(cat "$OUT_DIR/review-context.md")
 
 Responde en espanol rioplatense, claro y accionable.
+
+IMPORTANTE (corres via Antigravity CLI en modo agentico): escribi TODA la
+auditoria directamente en tu salida de texto. NO crees archivos, NO uses
+herramientas de edicion, NO guardes nada aparte: la respuesta completa va inline.
+
 Termina con una de estas lineas exactas:
 GO: listo para publicar
 NO-GO: hay bloqueantes
@@ -121,27 +126,42 @@ run_with_timeout() {
 }
 
 run_gemini() {
-  if ! command -v gemini >/dev/null 2>&1; then
-    echo "Gemini CLI no instalado." > "$OUT_DIR/gemini-review.md"
-    return 0
-  fi
-
-  if [[ -z "${GEMINI_API_KEY:-}" && -z "${GOOGLE_GENAI_USE_VERTEXAI:-}" && -z "${GOOGLE_GENAI_USE_GCA:-}" ]]; then
+  # La pata "Gemini" del AI-OS corre con Antigravity CLI (agy), que usa la
+  # suscripcion Google One AI Pro de Juan. El viejo gemini CLI quedo deprecado
+  # por Google (IneligibleTierError para cuentas individuales, jul 2026); agy
+  # es el reemplazo oficial y tiene modo -p no-interactivo. Modelo configurable
+  # con AGY_MODEL (ver 'agy models'); default: Gemini 3.5 Flash (High).
+  if ! command -v agy >/dev/null 2>&1; then
     {
-      echo "Gemini no autenticado."
-      echo "Configurar GEMINI_API_KEY, GOOGLE_GENAI_USE_VERTEXAI o GOOGLE_GENAI_USE_GCA."
+      echo "Antigravity CLI (agy) no instalado."
+      echo "Instalar: curl -fsSL https://antigravity.google/cli/install.sh | bash"
+      echo "Loguear:  agy   (Google Sign-In con la cuenta del plan Pro)"
     } > "$OUT_DIR/gemini-review.md"
     return 0
   fi
 
   local gemini_stdout="$OUT_DIR/gemini-stdout.txt"
-  local gemini_model="${GEMINI_MODEL:-gemini-2.5-flash}"
-  run_with_timeout "${AI_OS_AGENT_TIMEOUT_SECONDS:-90}" \
-    gemini -p "$(cat "$OUT_DIR/gemini-prompt.txt")" \
-    --model "$gemini_model" --approval-mode plan --output-format text --skip-trust \
+
+  # Selector de modelo por tier. AI_OS_TIER: light | medium (default) | heavy.
+  # light  = rapido/barato (chequeo liviano)   -> Gemini 3.5 Flash (Low)
+  # medium = equilibrio (auditoria normal)      -> Gemini 3.5 Flash (High)
+  # heavy  = maxima calidad (guia importante)   -> Gemini 3.1 Pro (High)
+  # Override directo: AGY_MODEL="<nombre exacto de 'agy models'>" gana sobre el tier.
+  local agy_model="${AGY_MODEL:-}"
+  if [[ -z "$agy_model" ]]; then
+    case "${AI_OS_TIER:-medium}" in
+      light) agy_model="Gemini 3.5 Flash (Low)" ;;
+      heavy) agy_model="Gemini 3.1 Pro (High)" ;;
+      *)     agy_model="Gemini 3.5 Flash (High)" ;;
+    esac
+  fi
+  echo "Gemini (agy) modelo: ${agy_model} (tier=${AI_OS_TIER:-medium})" >&2
+  run_with_timeout "${AI_OS_AGENT_TIMEOUT_SECONDS:-240}" \
+    agy -p "$(cat "$OUT_DIR/gemini-prompt.txt")" \
+    --model "$agy_model" --mode plan \
     > "$gemini_stdout" 2> "$OUT_DIR/gemini-stderr.txt" || {
       {
-        echo "Gemini fallo. Revisar ${OUT_DIR}/gemini-stderr.txt"
+        echo "Gemini (agy) fallo. Revisar ${OUT_DIR}/gemini-stderr.txt"
         echo
         echo "STDOUT:"
         cat "$gemini_stdout"
@@ -164,7 +184,7 @@ Fecha: ${STAMP}
 
 ## Resultado rapido
 
-- Gemini: $(tail -n 20 "$OUT_DIR/gemini-review.md" | rg -i "^(GO|NO-GO):" || echo "sin veredicto")
+- Gemini: $(tail -n 20 "$OUT_DIR/gemini-review.md" | grep -iE "^(GO|NO-GO):" || echo "sin veredicto")
 - Codex: pendiente de auditoria en la conversacion
 
 ## Regla de publicacion
@@ -178,8 +198,8 @@ Solo publicar/pushear si:
 ## Archivos
 
 - gemini-review.md
-- guide-excerpt.ts
-- products-excerpts.ts
+- guide-excerpt.txt
+- products-excerpts.txt
 - diff.patch
 - git-status.txt
 EOF

@@ -25469,10 +25469,13 @@ La Oster 8970 es una pava de acero bien valorada por calidad de materiales y tem
     reviewsSampledAt: "2026-06-16",
   },
   {
-    id: 'MLA1841302022',
+    // Energy Beauty Bar facial — LISTADO ACTIVO en stock (Golden T Lift, vendedor Mercado Líder, $24.999).
+    // El listado de RESERVA (original MLA1841302022, con 4.7★/39 opiniones) está más abajo como ficha
+    // deprioritized: cuando Bright Data detecte que volvió a tener stock, se hace el swap de vuelta.
+    id: 'MLA1835535491',
     title: "Masajeador Facial Energy Golden Bar Electroestimulante",
-    price: 19999,
-    originalPrice: 19999,
+    price: 24999,
+    originalPrice: 24999,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_872948-MLA89095019620_082025-F.webp',
     images: [
@@ -25484,33 +25487,33 @@ La Oster 8970 es una pava de acero bien valorada por calidad de materiales y tem
       ],
     category: 'Belleza',
     categorySlug: 'belleza',
-    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1841302022-masajeador-facial-energy-golden-bar-electroestimulante-_JM',
-    affiliateUrl: 'https://meli.la/13fYLhg',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1835535491-masajeador-anti-age-facial-reafirmante-con-vibracion-_JM',
+    affiliateUrl: 'https://meli.la/1X3wKvs',
     condition: 'new',
-    freeShipping: false,
-    rating: 4.7,
-    reviewCount: 39,
-    reviewsSampledAt: '2026-06-10',
-    soldQuantity: 100,
+    freeShipping: true,
+    rating: 0,
+    reviewCount: 0,
+    reviewsSampledAt: '2026-07-11',
+    soldQuantity: 0,
     pastelColor: 'var(--pastel-pink)',
-    description: "La Energy Beauty Bar reduce e incluso elimina los efectos visibles del envejecimiento, estimulando la producción de colágeno en la piel, en la cual causa un impacto. El dispositivo masajea la piel, produce vibraciones que estimulan la circulación de la sangre, elimina las arrugas y los puntos negros",
+    description: "Barra masajeadora facial dorada con cabezal en T, alimentada por una pila AA. Vibra unas 6.000 a 7.000 veces por minuto: se usa para masaje facial y para ayudar a que penetren serums y cremas. Los claims del vendedor sobre eliminar arrugas, estimular colágeno o quitar puntos negros no están verificados.",
     badge: 'trending',
     seoTitle: 'Energy Beauty Bar: masajeador facial de 7.000 vibraciones',
-    metaDescription: 'La barra masajeadora facial que vibra hasta 7.000 veces por minuto. Cabezal en T, microcorriente, funda de terciopelo. 4.7⭐ en MercadoLibre Argentina.',
+    metaDescription: 'Barra masajeadora facial dorada que vibra hasta 7.000 veces por minuto. Cabezal en T, funciona con pila AA, funda de terciopelo. Precio actual en MercadoLibre Argentina.',
     ogTitle: 'Energy Beauty Bar: masajeador facial de 7.000 vibraciones | ProductosVirales',
-    ogDescription: 'La barra masajeadora facial dorada que vibra hasta 7.000 veces por minuto. Microcorriente, cabezal en T y funda de terciopelo incluida. Ver precio en Argentina.',
+    ogDescription: 'La barra masajeadora facial dorada que vibra hasta 7.000 veces por minuto. Cabezal en T y funda de terciopelo, funciona con pila AA. Ver precio en Argentina.',
     h1: 'Energy Beauty Bar: el masajeador facial dorado con 7.000 vibraciones por minuto',
     pros: [
       'Vibración de 6.000 a 7.000 vpm',
       'Compacta, entra en cualquier cartera',
       'Cabezal en T + punta redondeada',
       'Funda de terciopelo incluida',
-      '4.7⭐ en MercadoLibre',
+      'Vendedor Mercado Líder con envío gratis',
     ],
     cons: [
       'Una sola velocidad fija',
-      'No confirman si la pila AA viene incluida',
-      'Solo 38 calificaciones (volumen bajo)',
+      'Funciona con pila AA (no se carga por USB)',
+      'Listado nuevo, todavía sin opiniones',
       'Claim "Technology from Japan" sin certificación verificable',
     ],
     verdict: 'Entrada económica con componente activo. Si ya usás jade roller y querés sumar vibración mecánica, tiene lógica.',
@@ -25518,13 +25521,13 @@ La Oster 8970 es una pava de acero bien valorada por calidad de materiales y tem
 
 El motor interno convierte la energía de la pila en vibración de alta frecuencia. Esa vibración se transmite al contacto a través del cabezal metálico, que por su forma en T cubre bien zonas planas como la frente, las mejillas y el cuello.
 
-Según la descripción del fabricante, la microcorriente generada facilita que los activos de sueros y cremas penetren en capas más profundas de la dermis. El cabezal también actúa como masajeador de drenaje linfático cuando se pasa con movimientos ascendentes. El extremo redondeado sirve para zonas más pequeñas: contorno de ojos, surco nasogeniano, labios.
+El fabricante habla de una "microcorriente" que ayudaría a que penetren los sueros y cremas, pero eso no está verificado: el manual la documenta sobre todo como vibración. Lo que sí hace es masaje de deslizamiento, útil para ayudar a la absorción cuando se pasa con movimientos ascendentes. El extremo redondeado sirve para zonas más pequeñas: contorno de ojos, surco nasogeniano, labios.
 
 No hay niveles de intensidad regulables. Es una sola velocidad, fija.
 
 ## Para qué la usa la gente
 
-Lo que más se repite en las reseñas: reducción de arrugas finas en el contorno de ojos y la frente, y definición de la línea de la mandíbula. También aparece seguido el uso como preparación antes de aplicar productos, porque la vibración ayuda con la absorción. Algunos lo usan específicamente para la tensión facial después de varias horas frente a la pantalla.
+Los usos habituales de este tipo de barra: masaje del contorno de ojos y la frente, trabajar la línea de la mandíbula, y preparar la piel antes de aplicar productos porque la vibración ayuda con la absorción. También para aflojar la tensión facial después de varias horas frente a la pantalla. Este listado es nuevo y todavía no tiene opiniones propias.
 
 El fabricante también menciona limpieza de poros y puntos negros, pero para eso hay que combinarla con un limpiador facial. Sola no limpia.
 
@@ -25569,30 +25572,43 @@ Si ya usás [jade roller o gua sha](/guias/masajeador-facial) y querés sumar al
       '@context': 'https://schema.org',
       '@type': 'Product',
       name: 'Energy Beauty Bar Masajeador Facial Electroestimulante BM-1',
-      description: 'Barra masajeadora facial con vibración de 6.000 a 7.000 vibraciones por minuto. Cabezal en T y punta redondeada metálicos. Microcorriente para estimular colágeno y reducir arrugas. Funciona con 1 pila AA.',
+      description: 'Barra masajeadora facial con vibración de 6.000 a 7.000 vibraciones por minuto. Cabezal en T y punta redondeada metálicos. Funciona con 1 pila AA.',
       brand: { '@type': 'Brand', name: 'Energy Beauty Bar' },
       model: 'BM-1',
-      sku: 'MLA1841302022',
+      sku: 'MLA1835535491',
       category: 'Masajeadores faciales',
       color: 'Dorado',
       image: 'https://http2.mlstatic.com/D_NQ_NP_2X_872948-MLA89095019620_082025-F.webp',
-      url: 'https://productosvirales.com.ar/producto/MLA1841302022',
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '18399',
+        price: '24999',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
-        url: 'https://meli.la/13fYLhg',
-      },
-      aggregateRating: {
-        '@type': 'AggregateRating',
-        ratingValue: '4.7',
-        reviewCount: '38',
-        bestRating: '5',
-        worstRating: '1',
+        url: 'https://meli.la/1X3wKvs',
       },
     },
+  },
+  {
+    // FICHA DE RESERVA (deprioritized, no se muestra en el sitio): listado ORIGINAL del Energy Beauty Bar,
+    // con reviews reales (4.7★/39). Está agotado. Cuando Bright Data lo detecte de nuevo con stock,
+    // conviene hacer el swap de vuelta con la ficha activa MLA1835535491 (que no tiene opiniones).
+    id: 'MLA1841302022',
+    title: "Masajeador Facial Energy Golden Bar Electroestimulante (reserva)",
+    price: 19999,
+    currency: 'ARS',
+    image: 'https://http2.mlstatic.com/D_NQ_NP_2X_872948-MLA89095019620_082025-F.webp',
+    category: 'Belleza',
+    categorySlug: 'belleza',
+    permalink: 'https://articulo.mercadolibre.com.ar/MLA-1841302022-masajeador-facial-energy-golden-bar-electroestimulante-_JM',
+    affiliateUrl: 'https://meli.la/13fYLhg',
+    condition: 'new',
+    freeShipping: false,
+    rating: 4.7,
+    reviewCount: 39,
+    soldQuantity: 100,
+    priceStatus: 'out_of_stock',
+    visibility: 'deprioritized',
   },
   {
     id: 'MLA24518712',
@@ -25656,7 +25672,7 @@ El rodillo de jade trabaja por presión, temperatura y movimiento. Al deslizarlo
 
 La gua sha agrega un componente de presión diferente. Con la cara curva se trabaja la tensión acumulada en la mandíbula y en los músculos faciales, que en muchas personas están más contracturados de lo que parecen.
 
-Comparado con la [Energy Beauty Bar](/producto/MLA1841302022) (eléctrica, 6.000-7.000 vpm, $18.399), este kit es el opuesto: más barato, más lento, más silencioso, y con un componente de ritual que el dispositivo motorizado no tiene.
+Comparado con la [Energy Beauty Bar](/producto/MLA1835535491) (eléctrica, 6.000-7.000 vpm, $24.999), este kit es el opuesto: más barato, más lento, más silencioso, y con un componente de ritual que el dispositivo motorizado no tiene.
 
 ## El truco de la heladera
 
@@ -25701,7 +25717,7 @@ Lavar con agua fría después de usar. No necesita desinfección especial si se 
       { question: '¿Qué diferencia al rodillo grande del pequeño?', answer: 'El rodillo grande (el cabezal principal) es para zonas amplias: mejillas, frente, cuello. El pequeño está en el extremo opuesto del mango y es para áreas chicas donde el grande no entra bien, principalmente el contorno de ojos y los lados de la nariz.' },
       { question: '¿Este kit viene con el gua sha o se compra por separado?', answer: 'El kit incluye los dos: el rodillo de doble cabezal y la herramienta gua sha. Ambas en jade verde del mismo material.' },
     ],
-    relatedProducts: ['MLA1841302022', 'MLA26522167'],
+    relatedProducts: ['MLA1835535491', 'MLA26522167'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',
@@ -25819,7 +25835,7 @@ Frecuencia recomendada: 3-4 veces por semana. No todos los días si la piel es s
 
 ## Dónde encaja en el catálogo facial
 
-Tres opciones en el catálogo con tres lógicas distintas. El [kit jade + gua sha](/producto/MLA24518712) ($5.399) es la entrada manual — ritual diario, drenaje, sin electrónica. La [Energy Beauty Bar](/producto/MLA1841302022) ($18.399) suma vibración mecánica y microcorriente para anti-aging básico. El LF60 es el dispositivo más técnico y el más caro de los tres. Tiene sentido para personas con acné que no encuentran solución con productos tópicos, o para quienes ya conocen la alta frecuencia de cabinas de estética y quieren el resultado en casa.
+Tres opciones en el catálogo con tres lógicas distintas. El [kit jade + gua sha](/producto/MLA24518712) ($5.399) es la entrada manual — ritual diario, drenaje, sin electrónica. La [Energy Beauty Bar](/producto/MLA1835535491) ($24.999) suma vibración mecánica (se vende como microcorriente, no verificado) para masaje facial básico. El LF60 es el dispositivo más técnico y el más caro de los tres. Tiene sentido para personas con acné que no encuentran solución con productos tópicos, o para quienes ya conocen la alta frecuencia de cabinas de estética y quieren el resultado en casa.
 
 Más contexto en la [guía de masajeadores faciales](/guias/masajeador-facial) y en la [comparativa general de masajeadores](/guias/mejores-masajeadores-argentina).`,
     specs: [
@@ -25843,7 +25859,7 @@ Más contexto en la [guía de masajeadores faciales](/guias/masajeador-facial) y
       { question: '¿Se puede usar en el cuero cabelludo?', answer: 'Sí. El electrodo peine está diseñado específicamente para el cuero cabelludo. Gadnic incluye "recuperación capilar" entre las aplicaciones del equipo.' },
       { question: '¿Cuánto tiempo dura cada sesión?', answer: 'Gadnic recomienda sesiones de 5-10 minutos por zona, 3-4 veces por semana. No diariamente si la piel es sensible. Para acné puntual con el electrodo cuchara, 1-2 minutos por área son suficientes.' },
     ],
-    relatedProducts: ['MLA1841302022', 'MLA24518712'],
+    relatedProducts: ['MLA1835535491', 'MLA24518712'],
     structuredData: {
       '@context': 'https://schema.org',
       '@type': 'Product',

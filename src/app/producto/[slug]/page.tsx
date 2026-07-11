@@ -38,6 +38,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: { absolute: title },
     description,
+    // Fichas deprioritized (ej. listados de reserva sin stock) no se indexan:
+    // evitan competir con la ficha activa del mismo producto. Igual se siguen
+    // los links (follow) para no perder el traspaso de autoridad interno.
+    ...(product.visibility === "deprioritized"
+      ? { robots: { index: false, follow: true } }
+      : {}),
     alternates: {
       canonical,
     },

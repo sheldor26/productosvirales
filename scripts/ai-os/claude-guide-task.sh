@@ -54,7 +54,7 @@ Podés editar archivos. Si hay una duda bloqueante, detenete y explicala.
 PROMPT
 
 claude -p --output-format text --permission-mode auto \
-  --allowedTools "Read,Grep,Glob,Edit,MultiEdit,Write,Bash(rg *),Bash(sed *),Bash(git diff *),Bash(git status *),Bash(npm run build),Bash(npm run lint),Bash(npm run guides:check)" \
+  --allowedTools "Read,Grep,Glob,Edit,MultiEdit,Write,Bash(rg *),Bash(grep *),Bash(sed *),Bash(git diff *),Bash(git status *),Bash(npm run build),Bash(npm run lint),Bash(npm run guides:check)" \
   < "$OUT_DIR/prompt.txt" > "$OUT_DIR/claude-output.md" 2> "$OUT_DIR/claude-stderr.txt" || {
     echo "Claude fallo. Revisar ${OUT_DIR}/claude-output.md y ${OUT_DIR}/claude-stderr.txt" >&2
     exit 1

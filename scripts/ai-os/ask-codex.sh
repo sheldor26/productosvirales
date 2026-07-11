@@ -4,8 +4,12 @@ set -euo pipefail
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../.." && pwd)"
 cd "$ROOT_DIR"
 
-if ! command -v codex >/dev/null 2>&1; then
-  echo "Codex CLI no instalado." >&2
+CODEX_BIN="$(command -v codex 2>/dev/null || true)"
+if [[ -z "$CODEX_BIN" ]]; then
+  CODEX_BIN="$HOME/.codex/plugins/.plugin-appserver/codex"
+fi
+if [[ ! -x "$CODEX_BIN" ]]; then
+  echo "Codex CLI no encontrado (ni en PATH ni en $CODEX_BIN)." >&2
   exit 1
 fi
 
@@ -51,7 +55,7 @@ run_with_timeout() {
 build_review_context() {
   local slug="$1"
   local guide_line
-  guide_line="$(rg -n "slug: [\"']${slug}[\"']" src/data/guides.ts | head -n 1 | cut -d: -f1 || true)"
+  guide_line="$(grep -nE "slug: [\"']${slug}[\"']" src/data/guides.ts | head -n 1 | cut -d: -f1 || true)"
   if [[ -z "$guide_line" ]]; then
     echo "No encontre slug '${slug}' en src/data/guides.ts" >&2
     exit 1
@@ -59,7 +63,7 @@ build_review_context() {
 
   local start=$(( guide_line > 60 ? guide_line - 60 : 1 ))
   local end=$(( guide_line + 220 ))
-  sed -n "${start},${end}p" src/data/guides.ts > "$OUT_DIR/guide-excerpt.ts"
+  sed -n "${start},${end}p" src/data/guides.ts > "$OUT_DIR/guide-excerpt.txt"
   git diff -- src/data/guides.ts src/data/curated-products.ts docs/ARTICLE_CREATION_WORKFLOW.md docs/guias.md > "$OUT_DIR/diff.patch" || true
   git status --short > "$OUT_DIR/git-status.txt"
 
@@ -80,7 +84,7 @@ Contexto:
 
 ## Extracto de guia
 \`\`\`ts
-$(cat "$OUT_DIR/guide-excerpt.ts")
+$(cat "$OUT_DIR/guide-excerpt.txt")
 \`\`\`
 
 ## Diff actual
@@ -130,11 +134,26 @@ LAST_MESSAGE="$OUT_DIR/codex-review.md"
 STDOUT_FILE="$OUT_DIR/codex-stdout.txt"
 STDERR_FILE="$OUT_DIR/codex-stderr.txt"
 
+# Selector por tier. AI_OS_TIER: light | medium (default) | heavy. Codex ajusta
+# el reasoning effort (mismo modelo gpt-5.5, menos/mas razonamiento = menos/mas
+# tokens). light=chequeo rapido, medium=auditoria normal, heavy=diff grande o
+# critico. Override directo: CODEX_EFFORT=low|medium|high gana sobre el tier.
+CODEX_EFFORT="${CODEX_EFFORT:-}"
+if [[ -z "$CODEX_EFFORT" ]]; then
+  case "${AI_OS_TIER:-medium}" in
+    light) CODEX_EFFORT="low" ;;
+    heavy) CODEX_EFFORT="high" ;;
+    *)     CODEX_EFFORT="medium" ;;
+  esac
+fi
+echo "Codex reasoning effort: ${CODEX_EFFORT} (tier=${AI_OS_TIER:-medium})" >&2
+
 run_with_timeout "$CODEX_TIMEOUT_SECONDS" \
-  codex exec \
+  "$CODEX_BIN" exec \
     --cd "$ROOT_DIR" \
     --sandbox read-only \
     --ephemeral \
+    -c "model_reasoning_effort=$CODEX_EFFORT" \
     --output-last-message "$LAST_MESSAGE" \
     "$(cat "$OUT_DIR/prompt.md")" \
     > "$STDOUT_FILE" 2> "$STDERR_FILE" || {
@@ -162,7 +181,7 @@ Respuesta:
 - ${LAST_MESSAGE}
 
 Veredicto:
-$(tail -n 20 "$LAST_MESSAGE" | rg -io "(GO|NO-GO): [^\n]+" | tail -n 1 || echo "sin veredicto")
+$(tail -n 20 "$LAST_MESSAGE" | grep -ioE "(GO|NO-GO):.*" | tail -n 1 || echo "sin veredicto")
 EOF
 
 echo "Respuesta Codex guardada en: ${LAST_MESSAGE}"

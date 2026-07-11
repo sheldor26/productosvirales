@@ -96,10 +96,12 @@ export function getFeaturedProducts(): Product[] {
 
 /** Products for the sitemap with a priority derived from visibility. */
 export function getSitemapProducts(): Array<{ product: Product; priority: number }> {
-  return curatedProducts.map((product) => {
-    let priority = 0.7;
-    if (product.visibility === "featured") priority = 0.9;
-    else if (product.visibility === "deprioritized") priority = 0.3;
-    return { product, priority };
-  });
+  // Las fichas deprioritized (ej. listados de reserva sin stock) NO van al sitemap:
+  // no deben competir en indexación con la ficha activa del mismo producto.
+  return curatedProducts
+    .filter((product) => product.visibility !== "deprioritized")
+    .map((product) => {
+      const priority = product.visibility === "featured" ? 0.9 : 0.7;
+      return { product, priority };
+    });
 }

@@ -80,6 +80,7 @@ function loadCatalog(src) {
     permalink: get(b, "permalink"),
     rating: numProp(b, "rating"),
     reviewCount: numProp(b, "reviewCount"),
+    priceStatus: get(b, "priceStatus"),
   }));
 }
 
@@ -103,6 +104,7 @@ function compare(catalog, report) {
   const unchangedList = [];
   const ratingReviewChanges = [];
   const stockMissing = [];
+  const stockChanges = [];
 
   for (const r of report) {
     const url = r.input?.url;
@@ -137,14 +139,23 @@ function compare(catalog, report) {
       });
     }
 
-    if (!r.stock_available) {
+    // Estado de stock: priceStatus persiste el estado de la corrida anterior,
+    // stock_available es el de ahora. El cruce detecta el flip (pausada <-> activa).
+    const prevOut = product.priceStatus === "out_of_stock";
+    const nowOut = !r.stock_available;
+    if (nowOut) {
       stockMissing.push({ id: product.id, title: product.title, permalink: product.permalink });
+    }
+    if (prevOut && !nowOut) {
+      stockChanges.push({ id: product.id, title: product.title, permalink: product.permalink, direction: "restock" });
+    } else if (!prevOut && nowOut) {
+      stockChanges.push({ id: product.id, title: product.title, permalink: product.permalink, direction: "out" });
     }
   }
   return {
     matched, unmatched, errored,
     unchanged: unchangedList.length, unchangedList, changes,
-    ratingReviewChanges, stockMissing,
+    ratingReviewChanges, stockMissing, stockChanges,
   };
 }
 
@@ -399,6 +410,101 @@ function appendSuspiciousDoc(suspicious, today) {
   return true;
 }
 
+// Marca priceStatus 'out_of_stock' para las fichas que Bright Data devolvio sin
+// stock. Corre DESPUES de applyChanges/refreshCheckedMetadata (que dejan 'fresh'
+// porque una publicacion pausada igual devuelve precio), asi el estado de stock
+// queda persistido en el catalogo y sirve de "estado anterior" en la proxima
+// corrida para detectar el flip. Solo toca la ficha si ya tiene el campo
+// priceStatus (todas las que pasaron por el pipeline lo tienen).
+function markOutOfStock(src, ids, today) {
+  let next = src;
+  let touched = 0;
+  for (const id of ids) {
+    let idPos = next.indexOf(`id: "${id}",`);
+    if (idPos === -1) idPos = next.indexOf(`id: '${id}',`);
+    if (idPos === -1) continue;
+    let blockEndCursor = next.indexOf("\n  {", idPos);
+    if (blockEndCursor === -1) blockEndCursor = next.length;
+    let touchedThis = false;
+
+    // priceLastChecked: solo actualizar si ya existe (no es imprescindible
+    // para el cruce, no lo insertamos para no ensuciar fichas que no lo usan).
+    {
+      const re = /(\n\s*priceLastChecked:\s*)['"`][^'"`]*['"`]/;
+      const fm = re.exec(next.slice(idPos, blockEndCursor));
+      if (fm) {
+        const abs = idPos + fm.index;
+        const newText = `${fm[1]}"${today}"`;
+        next = next.slice(0, abs) + newText + next.slice(abs + fm[0].length);
+        blockEndCursor += newText.length - fm[0].length;
+        touchedThis = true;
+      }
+    }
+
+    // priceStatus: actualizar si existe, INSERTAR despues de la linea del id
+    // si falta. Es el campo que el cruce de la proxima corrida lee como
+    // "estado anterior"; sin el, una ficha sin stock se marcaria como flip
+    // 🔴 en cada corrida (ruido). Insertarlo lo evita.
+    {
+      const re = /(\n\s*priceStatus:\s*)['"`][^'"`]*['"`]/;
+      const fm = re.exec(next.slice(idPos, blockEndCursor));
+      if (fm) {
+        const abs = idPos + fm.index;
+        const newText = `${fm[1]}"out_of_stock"`;
+        next = next.slice(0, abs) + newText + next.slice(abs + fm[0].length);
+        touchedThis = true;
+      } else {
+        const idLineEnd = next.indexOf("\n", idPos);
+        if (idLineEnd !== -1) {
+          next = next.slice(0, idLineEnd) + `\n    priceStatus: "out_of_stock",` + next.slice(idLineEnd);
+          touchedThis = true;
+        }
+      }
+    }
+    if (touchedThis) touched++;
+  }
+  return { next, touched };
+}
+
+const STOCK_DOC_PATH = path.resolve("docs/cambios-de-stock.md");
+const STOCK_DOC_INTRO = `# Cambios de stock
+
+> Cambios de estado de stock que detecto el cruce automatico con Bright Data
+> (una publicacion paso de con stock a "Publicacion pausada" o al reves). Se
+> dejan en el PR de precios para que Juan los vea, sin canal aparte (nada de
+> Telegram). 🟢 = volvio el stock (candidato a reactivar / hacer swap de vuelta).
+> 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
+> Entradas nuevas arriba.
+
+`;
+
+// Deja los flips de stock de esta corrida en docs/cambios-de-stock.md. El
+// workflow suma este archivo al PR, asi el aviso llega por el mismo lugar que
+// Juan ya revisa (el PR de precios), no por Telegram.
+function appendStockChangesDoc(stockChanges, today) {
+  if (stockChanges.length === 0) return false;
+  const existing = fs.existsSync(STOCK_DOC_PATH)
+    ? fs.readFileSync(STOCK_DOC_PATH, "utf8")
+    : STOCK_DOC_INTRO;
+
+  const entries = stockChanges
+    .map((c) => {
+      const icon = c.direction === "restock" ? "🟢 VOLVIO EL STOCK" : "🔴 SIN STOCK";
+      return `- ${icon} — **${c.id}** ${c.title}\n  - ML: ${c.permalink}\n  - Sitio: https://productosvirales.com.ar/producto/${c.id}`;
+    })
+    .join("\n");
+  const section = `## ${today}\n\n${entries}\n\n`;
+
+  const firstSectionIdx = existing.indexOf("\n## ");
+  const next =
+    firstSectionIdx === -1
+      ? existing.trimEnd() + "\n\n" + section
+      : existing.slice(0, firstSectionIdx + 1) + section + existing.slice(firstSectionIdx + 1);
+
+  fs.writeFileSync(STOCK_DOC_PATH, next);
+  return true;
+}
+
 function main() {
   const args = process.argv.slice(2);
   if (args.length === 0 || args.includes("--help") || args.includes("-h")) {
@@ -413,7 +519,7 @@ function main() {
   const catalog = loadCatalog(src);
   const {
     matched, unmatched, errored, unchanged, unchangedList, changes,
-    ratingReviewChanges, stockMissing,
+    ratingReviewChanges, stockMissing, stockChanges,
   } = compare(catalog, report);
 
   const suspicious = changes.filter((c) => {
@@ -437,6 +543,10 @@ function main() {
     console.log(`Sin "unidades disponibles" detectado (revisar si sigue en stock): ${stockMissing.length}`);
     for (const s of stockMissing) console.log(`  ${s.id}  ${s.title}  ${s.permalink}`);
   }
+  if (stockChanges.length) {
+    console.log(`\nCAMBIOS DE STOCK (flip pausada<->activa) detectados: ${stockChanges.length}`);
+    for (const s of stockChanges) console.log(`  ${s.direction === "restock" ? "🟢 VOLVIO" : "🔴 SIN STOCK"}  ${s.id}  ${s.title}`);
+  }
 
   if (!doApply) {
     console.log("\nDry run - no se escribio nada. Correr con --apply para aplicar.");
@@ -447,6 +557,10 @@ function main() {
 
   if (appendSuspiciousDoc(suspicious, today)) {
     console.log(`\nAgregados ${suspicious.length} caso(s) sospechoso(s) a docs/precios-sospechosos.md`);
+  }
+
+  if (appendStockChangesDoc(stockChanges, today)) {
+    console.log(`Cambios de stock guardados en docs/cambios-de-stock.md: ${stockChanges.length}`);
   }
 
   const historyPoints = unchangedList
@@ -492,6 +606,18 @@ function main() {
       console.log(`  SOSPECHOSO ${s.id}  reviewCount ${s.storedReviewCount} -> ${s.scrapedReviewCount}  ${s.title}`);
     }
   }
+
+  // Al final: persistir priceStatus 'out_of_stock' para los que Bright Data
+  // devolvio sin stock, pisando el 'fresh' que dejaron los pasos de arriba.
+  // Asi la proxima corrida sabe el estado anterior y detecta el flip.
+  const { next: afterStock, touched: stockMarked } = markOutOfStock(
+    working,
+    stockMissing.map((s) => s.id),
+    today
+  );
+  working = afterStock;
+  totalTouched += stockMarked;
+  if (stockMarked) console.log(`priceStatus marcado 'out_of_stock': ${stockMarked}`);
 
   if (totalTouched === 0) {
     console.log("\nNada para aplicar en el catalogo.");
