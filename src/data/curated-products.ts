@@ -23951,7 +23951,7 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
     pastelColor: 'var(--pastel-coral)',
     description: 'Pava eléctrica Peabody con display LED y panel touch, temperatura regulable de 40°C a 100°C, función mate, keep warm hasta 2 horas, función memoria (recuerda configuración 30 min ante cortes de luz), interior acero inoxidable, doble pared, Termostato Strix, 1.5L, 2200W.',
     pros: [
-      '4.9⭐ con 461 calificaciones — el mejor rating de todo el sitio',
+      '4.9⭐ con 929 calificaciones — el mejor rating de todo el sitio',
       'Display LED touch con temperatura de 40°C a 100°C en incrementos de 5°',
       'Función mate — seleccioná 70°C o 75°C directo del panel',
       'Keep warm hasta 2 horas — mantiene la temperatura sin reprogramar',
@@ -23966,15 +23966,15 @@ La garantía es de 2 años, que Philips cubre a través de su red de service ofi
       'Precio más alto del catálogo ($69.999)',
       'Sin infusor incluido',
     ],
-    verdict: 'Las otras pavas del sitio hacen una cosa: hervir agua a 100°C. La Peabody PE-DK2200N hace todo con un display LED y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C. Y después la mantiene hasta 2 horas. Con 4.9⭐ sobre 461 calificaciones es el producto con mejor rating de todo el sitio. El cable corto (0.75m) y la capacidad menor (1.5L) son los únicos puntos donde las otras le ganan.',
-    seoTitle: 'Pava Peabody PE-DK2200N Digital 1,5L Negra: review y precio',
-    metaDescription: '¿La mejor pava para mate? La Peabody PE-DK2200N Digital negra de 1,5L regula de 40° a 100°C, con función mate y keep warm 2h. 4.9⭐ con 855 opiniones.',
+    verdict: 'Las otras pavas del sitio hacen una cosa: hervir agua a 100°C. La Peabody PE-DK2200N hace todo con un display LED y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C. Y después la mantiene hasta 2 horas. Con 4.9⭐ sobre 929 calificaciones es el producto con mejor rating de todo el sitio. El cable corto (0.75m) y la capacidad menor (1.5L) son los únicos puntos donde las otras le ganan.',
+    seoTitle: 'Pava Peabody PE-DK2200N digital negra 1,5 litros: precio y review',
+    metaDescription: 'Review de la Peabody PE-DK2200N digital negra de 1,5 litros: control 40-100°C, función mate, keep warm 2 h, precio actualizado y contras reales.',
     ogTitle: 'Pava Eléctrica Peabody PE-DK2200N — Display LED, 40–100°C, Función Mate y Keep Warm 2h',
-    ogDescription: 'Display LED táctil, temperatura seleccionable de 40° a 100°C, función mate, mantiene temperatura 2 h y función memoria para cortes de luz. 4.9⭐ / 461 cal.',
+    ogDescription: 'Display LED táctil, temperatura seleccionable de 40° a 100°C, función mate, mantiene temperatura 2 h y función memoria para cortes de luz. 4.9⭐ / 929 cal.',
     h1: 'Pava eléctrica Peabody PE-DK2200N: display LED touch, 40°C a 100°C, función mate y keep warm 2 horas',
     articleBody: `Las otras pavas eléctricas de este sitio hacen una cosa: hervir agua a 100°C. Algunas tienen control analógico de temperatura, un par tienen función mate. La Peabody PE-DK2200N hace todo eso con un display LED en el cuerpo y un panel táctil que te deja elegir cualquier temperatura entre 40 y 100°C en incrementos de 5 grados. Y después mantiene esa temperatura hasta dos horas.
 
-Con 4.9 estrellas sobre 461 calificaciones, es el producto con mejor rating en todo el sitio.
+Con 4.9 estrellas sobre 929 calificaciones, es el producto con mejor rating en todo el sitio.
 
 ## El display y el panel touch
 
@@ -24014,7 +24014,7 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
 
 ## Calificaciones
 
-4.9⭐ sobre 461 calificaciones y 290 comentarios. El resumen de ML: "La pava eléctrica destaca por su capacidad de calentar el agua rápidamente y mantenerla caliente, además de permitir seleccionar la temperatura ideal para diferentes preparaciones. En general, es un producto de buena calidad y funcionalidad, con un interior de acero inoxidable que asegura durabilidad."`,
+4.9⭐ sobre 929 calificaciones y 290 comentarios. El resumen de ML: "La pava eléctrica destaca por su capacidad de calentar el agua rápidamente y mantenerla caliente, además de permitir seleccionar la temperatura ideal para diferentes preparaciones. En general, es un producto de buena calidad y funcionalidad, con un interior de acero inoxidable que asegura durabilidad."`,
     specs: [
       { label: 'Marca', value: 'Peabody' },
       { label: 'Modelo', value: 'PE-DK2200N' },
@@ -24034,7 +24034,7 @@ Dos cosas que vale la pena tener en cuenta. El cable mide 0.75 metros — si el 
       { label: 'Cable', value: '0.75m ⚠️' },
       { label: 'Corte automático', value: 'Sí + doble protección de seguridad' },
       { label: 'Guardacable', value: 'Sí' },
-      { label: 'Rating', value: '4.9 ⭐ (461 calificaciones — 290 comentarios)' },
+      { label: 'Rating', value: '4.9 ⭐ (929 calificaciones — 290 comentarios)' },
     ],
     faq: [
       {
