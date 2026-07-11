@@ -520,6 +520,9 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
   const bodySections = firstIsHero ? guide.sections.slice(1) : guide.sections;
 
   const topPickId = guide.quickPicks?.[0]?.productMlaId;
+  // Resuelto en el server; se le pasa un DTO chico a StickyBuyBar (client) para
+  // que ese componente no importe el catálogo entero al bundle de la guía.
+  const topPick = topPickId ? getProductById(topPickId) : undefined;
 
   return (
     <div className="editorial-article">
@@ -686,7 +689,19 @@ export function GuideRenderer({ guide: rawGuide }: GuideRendererProps) {
       <ArticleFooter guide={guide} />
         </article>
       </div>
-      {topPickId && <StickyBuyBar productMlaId={topPickId} />}
+      {topPick && (
+        <StickyBuyBar
+          product={{
+            title: topPick.title,
+            image: topPick.image,
+            affiliateUrl: topPick.affiliateUrl,
+            price: topPick.price,
+            currency: topPick.currency,
+            rating: topPick.rating,
+            reviewCount: topPick.reviewCount,
+          }}
+        />
+      )}
     </div>
   );
 }

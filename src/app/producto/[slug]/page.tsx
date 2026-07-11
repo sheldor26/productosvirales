@@ -4,6 +4,7 @@ import { curatedProducts } from "@/data/curated-products";
 import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "@/lib/product-url";
 import { analyzePriceHistory } from "@/lib/price-history";
+import { injectLivePrices } from "@/lib/price-token";
 import { ProductDetail } from "@/components/products/ProductDetail";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { RelatedGuides } from "@/components/guides/RelatedGuides";
@@ -97,6 +98,15 @@ export default async function ProductPage({ params }: Props) {
   const otherCategories = visibleProducts
     .filter((p) => p.categorySlug !== product.categorySlug)
     .slice(0, 4);
+
+  // Resolvemos los tokens de precio {{precio:…}} ACÁ (server) para pasarle a
+  // ProductDetail (client) el texto ya resuelto. Así ese componente usa un
+  // parser de markdown client-safe y NO arrastra el catálogo (~4 MB) al bundle.
+  const detailProduct = {
+    ...product,
+    articleBody: product.articleBody ? injectLivePrices(product.articleBody) : product.articleBody,
+    faq: product.faq?.map((f) => ({ ...f, answer: injectLivePrices(f.answer) })),
+  };
 
   // ── JSON-LD structured data ──────────────────────────────────────────
   // Una sola fuente de verdad: los campos canónicos del producto (los que
@@ -286,7 +296,7 @@ export default async function ProductPage({ params }: Props) {
       />
 
       <ProductDetail
-        product={product}
+        product={detailProduct}
         relatedProducts={explicitRelated}
         priceHistory={analyzePriceHistory(product.id, product.price)}
       />

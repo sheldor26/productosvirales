@@ -3,29 +3,30 @@
 import { useState, useMemo } from "react";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
-import { getRotatedVisibleProducts } from "@/lib/products";
+import { normalizeSearch } from "@/lib/utils";
+import type { CardProduct } from "@/lib/types";
 
 const PAGE_SIZE = 12;
 
-function normalize(str: string): string {
-  return str
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
+/** Igual que el `FeedCard` de products.ts (CardProduct + haystack). Se define
+ * acá para NO importar nada de `@/lib/products` desde el cliente (ese módulo
+ * importa el catálogo entero). `@/lib/types` es solo tipos, no pesa. */
+interface FeedCard extends CardProduct {
+  search: string;
 }
 
 interface HomeFeedProps {
-  /** Server-generated seed so the feed order varies across loads but stays
-   * identical between SSR and client hydration. */
-  seed: number;
-  /** Query de búsqueda leída en el servidor (desde ?q=). Llega como prop para
-   * que el feed se renderice completo en el SSR y no haya salto de layout.
-   * Al buscar, el Header hace router.push("/?q=...") y el servidor re-renderiza
-   * la página pasando el nuevo valor. */
+  /** Catálogo ya rotado y recortado a DTOs por el servidor (ver page.tsx). Llega
+   * como prop para que el feed se renderice completo en el SSR (sin salto de
+   * layout / CLS) y, sobre todo, para que el cliente NO importe `curated-products`
+   * (evita mandar el catálogo entero, ~4 MB, al bundle del navegador). */
+  products: FeedCard[];
+  /** Query de búsqueda leída en el servidor (desde ?q=). Al buscar, el Header hace
+   * router.push("/?q=...") y el servidor re-renderiza pasando el nuevo valor. */
   initialQuery?: string;
 }
 
-export function HomeFeed({ seed, initialQuery = "" }: HomeFeedProps) {
+export function HomeFeed({ products, initialQuery = "" }: HomeFeedProps) {
   const searchQuery = initialQuery;
 
   const [activeCategory, setActiveCategory] = useState("todos");
@@ -40,29 +41,21 @@ export function HomeFeed({ seed, initialQuery = "" }: HomeFeedProps) {
     setVisibleCount(PAGE_SIZE);
   }
 
-  const allVisible = useMemo(() => getRotatedVisibleProducts(seed), [seed]);
-
   const filteredProducts = useMemo(() => {
-    // If there's a search query, filter by it regardless of category
+    // Búsqueda: matchea todas las palabras contra el haystack precomputado.
     if (searchQuery.trim()) {
-      const q = normalize(searchQuery.trim());
-      return allVisible.filter((p) => {
-        const haystack = normalize(
-          `${p.title} ${p.category} ${p.description || ""} ${p.h1 || ""}`
-        );
-        // Match all words in the query
-        return q.split(/\s+/).every((word) => haystack.includes(word));
-      });
+      const words = normalizeSearch(searchQuery.trim()).split(/\s+/);
+      return products.filter((p) => words.every((word) => p.search.includes(word)));
     }
 
     if (activeCategory === "todos") {
-      return allVisible;
+      return products;
     }
     if (activeCategory === "viral") {
-      return allVisible.filter((p) => p.badge === "viral" || p.badge === "trending");
+      return products.filter((p) => p.badge === "viral" || p.badge === "trending");
     }
-    return allVisible.filter((p) => p.categorySlug === activeCategory);
-  }, [activeCategory, allVisible, searchQuery]);
+    return products.filter((p) => p.categorySlug === activeCategory);
+  }, [activeCategory, products, searchQuery]);
 
   const titleMap: Record<string, string> = {
     todos: "Todos los productos",

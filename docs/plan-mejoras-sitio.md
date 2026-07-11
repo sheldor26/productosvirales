@@ -53,7 +53,7 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
 
 ## Tier 3 — Técnico de fondo (medio–alto) — levanta el piso de TODO
 
-- [ ] **3.1 Sacar el catálogo del bundle cliente (P0 de Codex)**
+- [x] **3.1 Sacar el catálogo del bundle cliente (P0 de Codex)** ✅ 2026-07-11 — chunk del catálogo **3,71 MB → 0,22 MB**. HomeFeed recibe DTOs (`toFeedCard`); StickyBuyBar recibe DTO desde GuideRenderer; ProductDetail usa un parser markdown client-safe (`inline-markdown.tsx`) con los tokens de precio resueltos en el server. Verificado: chequeo transitivo limpio + home/ficha/guía andan.
   - Por qué: hay un chunk JS de ~3,7 MB con el catálogo entero (IDs, affiliateUrl, articleBody) porque componentes client importan `curated-products.ts` (~4 MB) y `guides.ts` (~2,2 MB). Mata Core Web Vitals → techo de ranking + UX lenta.
   - Archivos: `src/components/feed/HomeFeed.tsx` (`"use client"` importa `getRotatedVisibleProducts`), `src/lib/products.ts`, `src/app/page.tsx`, `src/components/guides/StickyBuyBar.tsx`, `QuickPicks.tsx`.
   - Pasos: páginas server resuelven productos y pasan DTOs chicos (ya existe `CardProduct` en `types.ts` justo para esto); los componentes client reciben props, no importan la data.

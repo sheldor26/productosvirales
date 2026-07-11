@@ -18,7 +18,7 @@ import { Badge } from "@/components/ui/Badge";
 import { ProductGallery } from "./ProductGallery";
 import { StickyMobileCta } from "./StickyMobileCta";
 import { formatPrice, formatDiscount } from "@/lib/utils";
-import { parseInlineLinks } from "@/lib/parse-inline-links";
+import { renderInlineMarkdown } from "@/lib/inline-markdown";
 import { productHref } from "@/lib/product-url";
 import { AffiliateLink } from "@/components/affiliate/AffiliateLink";
 import { PriceHistoryChart } from "./PriceHistoryChart";
@@ -564,7 +564,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
               }
               return (
                 <p key={i} className="text-sm leading-relaxed mb-4">
-                  {parseInlineLinks(block)}
+                  {renderInlineMarkdown(block)}
                 </p>
               );
             })}
@@ -643,7 +643,7 @@ export function ProductDetail({ product, relatedProducts = [], priceHistory }: P
                   />
                 </summary>
                 <div className="px-4 pb-3 text-sm text-[var(--text-secondary)] leading-relaxed">
-                  {parseInlineLinks(item.answer)}
+                  {renderInlineMarkdown(item.answer)}
                 </div>
               </details>
             ))}
