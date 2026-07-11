@@ -183,6 +183,7 @@ export interface GuideSection {
     | "list"
     | "toc"
     | "image"
+    | "svg"
     | "image-grid"
     | "product-card"
     | "callout"
