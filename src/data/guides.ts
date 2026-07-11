@@ -19293,11 +19293,11 @@ export const guides: Guide[] = [
     category: "proyectores",
     silo: "tech",
     title: `HY300 vs HY320: cuál proyector conviene comprar en Argentina`,
-    seoTitle: `HY300 vs HY320: cuál proyector conviene comprar`,
+    seoTitle: `HY300 vs HY320: cuál proyector conviene comprar hoy`,
     metaDescription: `Compará HY300 vs HY320: brillo, resolución, Netflix, sonido y precio real en Argentina. Mirá cuál conviene según tu uso.`,
     ogTitle: `HY300 vs HY320: comparativa honesta`,
     ogDescription: `Dos proyectores virales, una decisión real: gastar menos con HY300 o subir al HY320 por más tamaño y brillo declarado.`,
-    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_665927-MLA96870819013_102025-F.webp`,
+    ogImage: `/guias/proyectores/hy300-vs-hy320-hero.webp`,
     h1: `HY300 vs HY320: cuál proyector conviene comprar en Argentina`,
     directAnswer: `Para la mayoría conviene el **HY300**: cuesta menos, tiene Android 11, WiFi, Bluetooth y rinde bien a oscuras. El **HY320** solo justifica el salto si querés una imagen más grande, más margen de brillo y vas a usarlo seguido.`,
     publishedDate: "2026-07-11",
@@ -19315,7 +19315,7 @@ export const guides: Guide[] = [
       `Si todavía no sabés qué tipo de proyector necesitás, arrancá por la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil). Esta comparativa es para decidir entre estos dos modelos.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_665927-MLA96870819013_102025-F.webp", alt: `Proyector Maxnova HY320, alternativa al HY300`, imageSize: "hero" },
+      { type: "image", src: "/guias/proyectores/hy300-vs-hy320-hero.webp", alt: `Comparativa visual HY300 vs HY320 con ambos proyectores`, imageSize: "hero", width: 1200, height: 700 },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** cruzamos las fichas reales de MercadoLibre, las reseñas disponibles, el pilar de proyectores ya publicado y manuales de uso HY300/HY320. Si una especificación no aparece en la ficha de MercadoLibre, lo aclaramos. Los manuales ayudan a responder dudas de uso, pero no reemplazan la ficha puntual del vendedor.` },
 
@@ -19325,7 +19325,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `Elegí HY300 si querés gastar lo mínimo` },
       { type: "product-card", productMlaId: "MLA42238146", label: "Mejor para empezar", labelColor: "green", ranking: 1, description: `El HY300 clásico: Android 11, WiFi, Bluetooth, HDMI y resolución nativa 1280 x 720. Buena compra de entrada para usar a oscuras.` },
-      { type: "p", content: `El HY300 es el punto de entrada más limpio: por alrededor de {{precio:MLA42238146:k}} tenés un proyector portátil con Android, WiFi, Bluetooth y resolución HD nativa. Para dormitorio, pared blanca y pelis de noche, alcanza.` },
+      { type: "p", content: `El [HY300](/producto/MLA42238146) es el punto de entrada más limpio: por alrededor de {{precio:MLA42238146:k}} tenés un proyector portátil con Android, WiFi, Bluetooth y resolución HD nativa. Para dormitorio, pared blanca y pelis de noche, alcanza.` },
       { type: "p", content: `También es el más fácil de recomendar como primer proyector. Si nunca tuviste uno, no sabés si lo vas a usar todas las semanas y querés probar la experiencia sin gastar de más, el HY300 tiene más sentido.` },
       { type: "list", items: [
         `Cuesta bastante menos que el HY320.`,
@@ -19338,7 +19338,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `Elegí HY320 si querés más tamaño y brillo declarado` },
       { type: "product-card", productMlaId: "MLA43929348", label: "Más tamaño", labelColor: "blue", ranking: 2, description: `El Maxnova HY320: más brillo declarado, proyección de 35 a 150 pulgadas, Android, WiFi, Bluetooth, HDMI y USB.` },
-      { type: "p", content: `El HY320 es el salto natural si el HY300 te queda chico. El Maxnova HY320 declara más brillo, proyecta de 35 a 150 pulgadas y mantiene las comodidades clave: Android, WiFi, Bluetooth, HDMI y USB.` },
+      { type: "p", content: `El HY320 es el salto natural si el HY300 te queda chico. El [Maxnova HY320](/producto/MLA43929348) declara más brillo, proyecta de 35 a 150 pulgadas y mantiene las comodidades clave: Android, WiFi, Bluetooth, HDMI y USB.` },
       { type: "p", content: `El punto a mirar es el precio. A alrededor de {{precio:MLA43929348:k}}, no es "un HY300 apenas más caro": es otro escalón. Tiene sentido si vas a usarlo seguido, si querés una imagen más grande o si ya sabés que el proyector va a formar parte de tu setup.` },
       { type: "list", items: [
         `Más brillo declarado que el HY300.`,
