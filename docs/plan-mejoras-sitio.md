@@ -75,7 +75,7 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
 
 - [ ] **Seguridad:** rotar los OAuth tokens y secrets locales (`scripts/gsc/token.json`, `scripts/ga4/token.json`, `scripts/gsc/client_secret.json`, `scripts/keyword-planner/google-ads.yaml`) y cambiar el `*.json` global del `.gitignore` por ignores específicos (para no esconder archivos nuevos sin querer). Están gitignoreados (no se suben), pero conviene rotarlos.
 - [ ] **Imágenes:** `<img>` crudo → `next/image` en `QuickPicks`, `guides/ProductCard`, `StickyBuyBar` (control de CLS y formatos).
-- [ ] **Accesibilidad:** `role="dialog"`/`aria-modal`/focus trap en `MobileNav`; `aria-label` en el botón limpiar de `SearchInput`; `inert` en sticky bars ocultas.
+- [x] **Accesibilidad:** ✅ 2026-07-11 — `MobileNav` con `role="dialog"`/`aria-modal`/foco al abrir/`inert` al cerrar/Escape (+ unificado a los 10 hubs); `aria-label` en el botón limpiar de `SearchInput`; `aria-expanded`/`aria-haspopup` en el hamburguesa. (Falta focus-trap completo; nice-to-have.)
 - [ ] **CSP:** sacar `unsafe-eval`/`unsafe-inline` pasando GA/Clarity a nonce o componentes controlados (`next.config.ts`).
 - [ ] **URL base:** centralizar en `src/lib/site.ts` (`SITE_URL`, `absoluteUrl(path)`) y usarlo en sitemap, metadata, guide-url, llms, JSON-LD.
 

@@ -60,6 +60,7 @@ export function SearchInput({
       {(query || expandable) && (
         <button
           type="button"
+          aria-label="Limpiar búsqueda"
           onClick={() => {
             setQuery("");
             if (expandable) setExpanded(false);

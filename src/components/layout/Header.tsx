@@ -64,6 +64,8 @@ export function Header() {
               className="md:hidden p-2 -ml-2 text-[var(--text-primary)] cursor-pointer"
               onClick={() => setMobileNavOpen(true)}
               aria-label="Menú"
+              aria-expanded={mobileNavOpen}
+              aria-haspopup="dialog"
             >
               <Menu size={22} />
             </button>
