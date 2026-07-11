@@ -1855,7 +1855,6 @@ export const guides: Guide[] = [
       { type: "table", headers: [`Modelo`, `Precio`, `Gatillos adaptativos y haptics`, `Personalización`, `Ideal para`], rows: [
         [`[DualSense oficial](/producto/joystick-inalambrico-dualsense-ps5-cosmic-red-mla18010994)`, `{{precio:MLA18010994}}`, `Sí`, `No`, `La compra correcta para casi todos`],
         [`[DualSense Edge](/producto/joystick-ps5-sony-playstation-5-dualsense-edge-zcp1-mla41152829)`, `{{precio:MLA41152829}}`, `Sí (igual que el estándar)`, `Paletas, gatillos y sticks intercambiables`, `Jugadores competitivos`],
-        [`Compatibles sin licencia oficial`, `Variable, suelen ser más baratos`, `No, ninguno`, `Variable`, `No recomendado: muchos no funcionan de verdad en la consola`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu joystick de PS5`, id: "como-elegir" },
@@ -4857,42 +4856,42 @@ export const guides: Guide[] = [
         headers: ["Modelo", "Tipo", "Calor", "Para quién", "Mi opinión"],
         rows: [
           [
-            "Gadnic Yapeyú",
+            "[Gadnic Yapeyú](https://meli.la/22qCfXR)",
             "Tipo U, shiatsu 8 nodos",
             "Sí (infrarrojo)",
             "Uso diario, contracturas medias y fuertes",
             "El que recomiendo",
           ],
           [
-            "Wolke Multiuso",
+            "[Wolke Multiuso](https://meli.la/2R9wp8o)",
             "Cervical + lumbar, calor",
             "Sí",
             "Quien necesita cervical + lumbar",
             "Bueno si necesitás versatilidad",
           ],
           [
-            "Caliber Percutor",
+            "[Caliber Percutor](https://meli.la/2gqPvgW)",
             "Doble cabezal, infrarrojo",
             "Sí (infrarrojo)",
             "Contracturas fuertes, uso manual",
             "Potente pero requiere aplicación manual",
           ],
           [
-            "Femmto Portátil",
+            "[Femmto Portátil](https://meli.la/1VsNQ2J)",
             "Tipo U, vibración, inalámbrico",
             "No",
             "Tensión leve, portabilidad",
             "Cumple para lo que cuesta",
           ],
           [
-            "Baza Almohada",
+            "[Baza Almohada](https://meli.la/2JM3if9)",
             "Almohada, vibración + calor, USB",
             "Sí",
             "Para usar acostado o en viajes",
             "Diferente, práctica y portátil",
           ],
           [
-            "Asientos masajeadores",
+            "[Asientos masajeadores](https://meli.la/1xVjx9e)",
             "Asiento para silla/auto, shiatsu/vibración",
             "Sí (algunos)",
             "Uso prolongado en oficina o auto",
@@ -15096,9 +15095,9 @@ export const guides: Guide[] = [
         type: "table",
         headers: ["Producto", "Marca real", "Precio AR", "Reseñas", "Veredicto"],
         rows: [
-          ["Asad Intense", "Lattafa (oficial)", "$45.000-$62.000", "7.245 (4.6⭐)", "El oficial. La compra segura."],
-          ["Asad Bourbon", "Genérico (sin marca declarada)", "$30.000-$45.000", "Pocas", "Inspirado, no oficial. Más barato."],
-          ["Asad Negro", "Genérico (sin marca declarada)", "$35.000-$48.000", "112 (4.3⭐)", "Inspirado, no oficial. Perfil distinto."]
+          ["[Asad Intense](https://meli.la/26owfqo)", "Lattafa (oficial)", "$45.000-$62.000", "7.245 (4.6⭐)", "El oficial. La compra segura."],
+          ["[Asad Bourbon](https://meli.la/1qWMdCK)", "Genérico (sin marca declarada)", "$30.000-$45.000", "Pocas", "Inspirado, no oficial. Más barato."],
+          ["[Asad Negro](https://meli.la/2t9EpWq)", "Genérico (sin marca declarada)", "$35.000-$48.000", "112 (4.3⭐)", "Inspirado, no oficial. Perfil distinto."]
         ]
       },
       {
@@ -16673,10 +16672,10 @@ export const guides: Guide[] = [
           type: "table",
           headers: ["Modelo", "Precio", "Mapea", "Trapea", "Autovaciado", "Para quién"],
           rows: [
-            ["Roomba 692", "{{precio:MLA20657750}}", "No (al azar)", "No", "No", "Depto chico, quiere la marca"],
-            ["Combo i5+", "{{precio:MLA27941233}}", "Sí (1 mapa)", "Sí", "Sí", "Casa de un piso, busca lo importante"],
-            ["Roomba j7", "{{precio:MLA37360592}}", "Sí (10 mapas)", "No", "No", "Hay cables y mascota en el piso"],
-            ["Roomba j9", "{{precio:MLA44718960}}", "Sí (10 mapas)", "Sí", "Sí (+ rellena agua)", "Quiere todo y el precio no importa"],
+            ["[Roomba 692](https://meli.la/1aR5CYZ)", "{{precio:MLA20657750}}", "No (al azar)", "No", "No", "Depto chico, quiere la marca"],
+            ["[Combo i5+](https://meli.la/1bzFCeK)", "{{precio:MLA27941233}}", "Sí (1 mapa)", "Sí", "Sí", "Casa de un piso, busca lo importante"],
+            ["[Roomba j7](https://meli.la/1kHDG1G)", "{{precio:MLA37360592}}", "Sí (10 mapas)", "No", "No", "Hay cables y mascota en el piso"],
+            ["[Roomba j9](https://meli.la/1Pdpsod)", "{{precio:MLA44718960}}", "Sí (10 mapas)", "Sí", "Sí (+ rellena agua)", "Quiere todo y el precio no importa"],
           ],
         },
         { type: "p", content: "Visto así de corrido, el Combo i5+ es el que mejor relación funciones-precio tiene dentro de la marca. El 692 es el más accesible pero el más limitado. El j7 es nicho. Y el j9 es para quien quiere lo mejor sin mirar el ticket." },
