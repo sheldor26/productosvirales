@@ -1,3 +1,4 @@
+import "server-only"; // candado: resuelve precios vía price-token (catálogo); solo-server
 import { injectLivePrices } from "@/lib/price-token";
 import { renderInlineMarkdown } from "@/lib/inline-markdown";
 import type React from "react";

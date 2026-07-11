@@ -1,3 +1,4 @@
+import "server-only"; // candado: falla el build si un componente cliente importa esto (arrastra el catálogo)
 import type { CardProduct, Product } from "./types";
 import { curatedProducts } from "@/data/curated-products";
 import { normalizeSearch } from "./utils";
