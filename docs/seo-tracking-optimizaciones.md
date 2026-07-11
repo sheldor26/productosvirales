@@ -73,6 +73,7 @@ Estado **previo** a la primera tanda de optimización del 2026-06-26.
 | robot-aspiradora-atma | 259 | 3 | 8.76 | 1.16% | 2026-06-08 | 2026-07-06 |
 | pava-electrica-acero-inoxidable | 122 | 0 | 10.43 | 0% | 2026-06-13 | 2026-07-06 |
 | mejores-robot-aspiradora-trapeadora | 129* | 0* | 17.31* | 0%* | 2026-06-06 | 2026-07-08 |
+| tech/hy300-vs-hy320 | 0 | 0 | n/d | 0% | 2026-07-11 | 2026-07-11 |
 
 **perfumes-arabes-por-color (2026-06-29):** baseline del snapshot 2026-06-27 (primera optimización). Rankeaba 9º con 296 impresiones y **0 clicks** (CTR puro). Las queries reales son combinaciones de dos colores, sobre todo "[color] + dorado" ("perfume árabe azul y dorado", "celeste con dorado", "blanco con dorado", "azul con tapa dorada"). Cambios: seoTitle reordenado a colores de más demanda, metaDescription reescrita (estaba en 167 car., apuntada ahora a la intención real) y **sección nueva "frascos de dos colores (con dorado)"** que mapea cada combinación a su producto. Cambio de CTR + empuje de ranking. Re-medir ~2026-07-27.
 

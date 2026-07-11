@@ -19279,7 +19279,179 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Parlantes bluetooth: cuál comprar", href: "/guias/audio/parlantes" },
       { label: "Auriculares inalámbricos para ver pelis de noche", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "HY300 vs HY320: cuál conviene", href: "/guias/tech/hy300-vs-hy320" },
       { label: "Cargador portátil (power bank): cuál comprar", href: "/guias/tech/cargador-portatil" },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE hy300-vs-hy320 — silo tech (/guias/tech/...)
+  // Origen: expansión del pilar proyector-portatil + manuales HY300/HY320
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "hy300-vs-hy320",
+    category: "proyectores",
+    silo: "tech",
+    title: `HY300 vs HY320: cuál proyector conviene comprar en Argentina`,
+    seoTitle: `HY300 vs HY320: cuál proyector conviene comprar`,
+    metaDescription: `Compará HY300 vs HY320: brillo, resolución, Netflix, sonido y precio real en Argentina. Mirá cuál conviene según tu uso.`,
+    ogTitle: `HY300 vs HY320: comparativa honesta`,
+    ogDescription: `Dos proyectores virales, una decisión real: gastar menos con HY300 o subir al HY320 por más tamaño y brillo declarado.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_665927-MLA96870819013_102025-F.webp`,
+    h1: `HY300 vs HY320: cuál proyector conviene comprar en Argentina`,
+    directAnswer: `Para la mayoría conviene el **HY300**: cuesta menos, tiene Android 11, WiFi, Bluetooth y rinde bien a oscuras. El **HY320** solo justifica el salto si querés una imagen más grande, más margen de brillo y vas a usarlo seguido.`,
+    publishedDate: "2026-07-11",
+    updatedDate: "2026-07-11",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `El HY300 es la puerta de entrada barata. El HY320 es el paso intermedio para quien quiere más tamaño y un poco más de margen. Comparamos precio, brillo real, resolución, Netflix, sonido y uso concreto en Argentina.`,
+    quickPicks: [
+      { productMlaId: "MLA42238146", label: "Mejor para empezar", labelColor: "green", tagline: "HY300: el más lógico si querés gastar lo mínimo y usarlo de noche" },
+      { productMlaId: "MLA43929348", label: "Más tamaño", labelColor: "blue", tagline: "Maxnova HY320: más brillo declarado y proyección de hasta 150 pulgadas" },
+    ],
+    intro: [
+      `El HY300 conviene si querés gastar lo mínimo y usarlo de noche. El HY320 conviene si querés una imagen más grande, un poco más de margen de brillo y estás dispuesto a pagar bastante más.`,
+      `Los dos son proyectores económicos. Ninguno reemplaza una TV de día, ninguno es 4K real y los números enormes de lúmenes son marketing. La diferencia importante es más simple: el HY300 es la puerta de entrada barata; el HY320 es el paso intermedio para quien ya sabe que quiere un proyector y no quiere quedarse tan justo.`,
+      `Si todavía no sabés qué tipo de proyector necesitás, arrancá por la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil). Esta comparativa es para decidir entre estos dos modelos.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_665927-MLA96870819013_102025-F.webp", alt: `Proyector Maxnova HY320, alternativa al HY300`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** cruzamos las fichas reales de MercadoLibre, las reseñas disponibles, el pilar de proyectores ya publicado y manuales de uso HY300/HY320. Si una especificación no aparece en la ficha de MercadoLibre, lo aclaramos. Los manuales ayudan a responder dudas de uso, pero no reemplazan la ficha puntual del vendedor.` },
+
+      { type: "h2", title: `Respuesta rápida: HY300 o HY320`, id: "respuesta-rapida" },
+      { type: "p", content: `Para la mayoría, el HY300 es la compra más razonable: cuesta menos, tiene Android 11, WiFi, Bluetooth y rinde bien a oscuras. El HY320 solo justifica el salto si querés más tamaño de imagen, más brillo declarado y vas a usarlo seguido.` },
+      { type: "p", content: `La pregunta no es "cuál es mejor en ficha técnica", porque ahí el HY320 siempre parece ganar. La pregunta real es si esa mejora se nota lo suficiente en tu uso.` },
+
+      { type: "h3", title: `Elegí HY300 si querés gastar lo mínimo` },
+      { type: "product-card", productMlaId: "MLA42238146", label: "Mejor para empezar", labelColor: "green", ranking: 1, description: `El HY300 clásico: Android 11, WiFi, Bluetooth, HDMI y resolución nativa 1280 x 720. Buena compra de entrada para usar a oscuras.` },
+      { type: "p", content: `El HY300 es el punto de entrada más limpio: por alrededor de {{precio:MLA42238146:k}} tenés un proyector portátil con Android, WiFi, Bluetooth y resolución HD nativa. Para dormitorio, pared blanca y pelis de noche, alcanza.` },
+      { type: "p", content: `También es el más fácil de recomendar como primer proyector. Si nunca tuviste uno, no sabés si lo vas a usar todas las semanas y querés probar la experiencia sin gastar de más, el HY300 tiene más sentido.` },
+      { type: "list", items: [
+        `Cuesta bastante menos que el HY320.`,
+        `Es chico, liviano y fácil de ubicar.`,
+        `Tiene Android 11, WiFi, Bluetooth y HDMI.`,
+        `La ficha declara resolución nativa 1280 x 720.`,
+        `El 4K es soportado, no nativo.`,
+        `Con luz ambiente la imagen se lava.`,
+      ] },
+
+      { type: "h3", title: `Elegí HY320 si querés más tamaño y brillo declarado` },
+      { type: "product-card", productMlaId: "MLA43929348", label: "Más tamaño", labelColor: "blue", ranking: 2, description: `El Maxnova HY320: más brillo declarado, proyección de 35 a 150 pulgadas, Android, WiFi, Bluetooth, HDMI y USB.` },
+      { type: "p", content: `El HY320 es el salto natural si el HY300 te queda chico. El Maxnova HY320 declara más brillo, proyecta de 35 a 150 pulgadas y mantiene las comodidades clave: Android, WiFi, Bluetooth, HDMI y USB.` },
+      { type: "p", content: `El punto a mirar es el precio. A alrededor de {{precio:MLA43929348:k}}, no es "un HY300 apenas más caro": es otro escalón. Tiene sentido si vas a usarlo seguido, si querés una imagen más grande o si ya sabés que el proyector va a formar parte de tu setup.` },
+      { type: "list", items: [
+        `Más brillo declarado que el HY300.`,
+        `Proyección de 35 a 150 pulgadas.`,
+        `WiFi, Bluetooth, Android, HDMI y USB.`,
+        `Los 12.000 lúmenes son marketing, no ANSI.`,
+        `Netflix oficial puede no funcionar directo.`,
+        `Hay muchas variantes: conviene mirar bien la publicación.`,
+      ] },
+
+      { type: "h2", title: `Tabla comparativa HY300 vs HY320`, id: "tabla-comparativa" },
+      { type: "table", headers: ["Punto", "HY300", "HY320"], rows: [
+        ["Producto", "[HY300](https://meli.la/1MtgG5J)", "[Maxnova HY320](https://meli.la/2NJmzTQ)"],
+        ["Precio", "{{precio:MLA42238146}}", "{{precio:MLA43929348}}"],
+        ["Diferencia", "Base", "{{preciodif:MLA43929348:MLA42238146}} más que HY300"],
+        ["Resolución nativa", "1280 x 720", "Ficha ML: no declarada. Manual HY320 genérico: 1280 x 720"],
+        ["4K", "Soportado, no nativo", "Soportado, no nativo"],
+        ["Brillo", "2600 lúmenes declarados", "12.000 lúmenes declarados"],
+        ["ANSI", "No declarado", "Ficha ML: no declarado. Manual HY320 genérico: 300 ANSI"],
+        ["Imagen máxima", "No declarada; uso realista de noche: 80 a 120 pulgadas", "35 a 150 pulgadas declaradas"],
+        ["Android", "Sí, Android 11", "Sí, Android"],
+        ["Bluetooth", "Sí", "Sí"],
+        ["HDMI / USB", "Sí", "Sí"],
+        ["Mejor para", "Primer proyector barato", "Imagen más grande y uso más frecuente"],
+        ["Mayor contra", "Brillo justo y audio flojo", "Precio más alto y specs confusas por versiones"],
+      ] },
+      { type: "p", content: `La tabla muestra la diferencia real: el HY320 tiene más margen, pero no convierte automáticamente la experiencia en cine premium. Sigue siendo un proyector económico. La habitación oscura, la pared o pantalla y el sonido externo pesan tanto como el modelo.` },
+
+      { type: "h2", title: `Lo que dicen los manuales y no siempre aparece en MercadoLibre`, id: "manuales" },
+      { type: "p", content: `Los manuales sirven para responder dudas finas que la ficha de MercadoLibre suele dejar afuera: cómo se conecta el celular, qué menú tocar, qué distancia usar, si trae corrección trapezoidal y qué cuidados necesita para no recalentar.` },
+      { type: "image", src: "/guias/proyectores/hy300-manual-puertos-remoto.png", alt: `Manual HY300 con puertos, rueda de enfoque y funciones del control remoto`, caption: `El manual HY300 muestra puertos, rueda de enfoque, entrada de aire y accesos del control remoto como Miracast y Airpin.`, imageSize: "inline-lg", width: 1350, height: 700 },
+      { type: "p", content: `El manual HY300 que revisamos no trae una tabla técnica completa, pero sí confirma el uso real del sistema: configuración de WiFi, Bluetooth, idioma, proyección, audio, fecha y hora; acceso a "Mis aplicaciones"; Miracast y Airpin; rueda de enfoque; puerto USB, HDMI, salida de auriculares y entrada de alimentación.` },
+      { type: "image", src: "/guias/proyectores/hy300-manual-configuracion.png", alt: `Manual HY300 con pantallas de configuración de aplicaciones, WiFi, Bluetooth e idioma`, caption: `Las pantallas del manual ayudan a responder cómo se configura WiFi, Bluetooth, idioma y aplicaciones en un HY300 típico.`, imageSize: "inline-lg", width: 1326, height: 700 },
+      { type: "p", content: `El manual HY320 genérico sí baja más datos técnicos: 720p nativo (1280 x 720), 300 ANSI, distancia de proyección de 1 a 4 metros, imagen de 30 a 150 pulgadas, Android 11, WiFi 6, Bluetooth 5.0, corrección trapezoidal automática, zoom digital de 100% a 85%, parlante integrado de 3 W, 1 GB de RAM, 8 GB de almacenamiento y consumo de 40 W.` },
+      { type: "list", items: [
+        `Para conectar WiFi: entrar en configuración de red, activar WiFi, elegir la red y cargar la contraseña.`,
+        `Para usar Bluetooth: entrar en configuración de Bluetooth, activar BT, actualizar dispositivos y elegir el parlante o auricular.`,
+        `Para duplicar pantalla: el manual habla de Miracast, Airpin/AirPlay y DLNA, siempre con el celular y el proyector en la misma red.`,
+        `Para ajustar imagen: el HY300 usa rueda de enfoque; el HY320 manual menciona enfoque manual y corrección trapezoidal automática.`,
+        `Para evitar problemas: no tapar rejillas, no usarlo en ambientes con grasa, humedad, polvo o humo, y dejar ventilación alrededor.`,
+      ] },
+      { type: "callout", calloutVariant: "warning", content: `Ojo con esto: HY300 y HY320 son familias de modelos genéricos. Puede haber variantes, marcas e importadores distintos. Por eso, antes de comprar, hay que mirar la ficha puntual de MercadoLibre y no asumir que todo manual genérico aplica al 100% a cualquier publicación.` },
+
+      { type: "h2", title: `Diferencias reales entre HY300 y HY320`, id: "diferencias" },
+      { type: "h3", title: `Brillo: los dos usan números de marketing` },
+      { type: "p", content: `El brillo declarado en estos proyectores no se compara como si fuera una ficha de Epson o BenQ. En la gama HY, los números grandes suelen ser lúmenes de marketing, no lúmenes ANSI medidos de forma seria.` },
+      { type: "p", content: `En la práctica, los dos piden oscuridad. El HY320 puede defenderse mejor en una pared grande o en una habitación con muy poca luz, pero no hace magia. Si querés usar un proyector con luz ambiente, patio temprano o aula luminosa, conviene mirar modelos con ANSI declarados.` },
+      { type: "list", items: [
+        `Oscuridad total o dormitorio: HY300 alcanza.`,
+        `Pared más grande o uso más seguido: HY320 tiene más sentido.`,
+        `Luz ambiente real: mirá un modelo con ANSI declarados, como los Gadnic de gama media.`,
+      ] },
+
+      { type: "h3", title: `Tamaño de imagen: dónde sí se nota el HY320` },
+      { type: "p", content: `El HY300 se disfruta más en el rango de 80 a 120 pulgadas, como estimación editorial de uso real. Si lo alejás demasiado, la imagen crece, pero también pierde brillo y definición percibida.` },
+      { type: "p", content: `El HY320 apunta a una imagen más grande. La ficha del Maxnova declara hasta 150 pulgadas, y ese es el motivo más fuerte para pagar más. No es para verlo de día, pero en una pared grande y de noche se entiende mejor el salto.` },
+
+      { type: "h3", title: `Resolución: ninguno es 4K real` },
+      { type: "p", content: `Ni el HY300 ni el HY320 son 4K reales en esta gama de precio. Cuando una publicación dice "4K", normalmente significa que el proyector acepta una señal 4K, no que proyecta en 4K nativo.` },
+      { type: "p", content: `Para pelis, series y YouTube en una pared de 80 a 120 pulgadas, HD puede alcanzar. Lo importante es comprar sabiendo eso. Si esperás nitidez de smart TV nueva, te vas a frustrar.` },
+
+      { type: "h3", title: `Apps y Netflix: el mismo problema en los dos` },
+      { type: "p", content: `Los dos traen Android, pero eso no garantiza Netflix oficial. En muchos proyectores baratos, el sistema no está certificado y algunas apps piden instalarse por fuera o directamente conviene usar un TV Stick por HDMI.` },
+      { type: "p", content: `La solución limpia es simple: si Netflix, Disney+ o Prime Video son importantes, sumá un TV Stick. Evitás pelearte con apps raras, mejora la estabilidad y hace que el proyector se comporte más como una TV.` },
+
+      { type: "h3", title: `Sonido: conviene parlante externo` },
+      { type: "p", content: `El parlante interno sirve para salir del paso. Para una pieza chica puede alcanzar; para living, patio o juntada, queda corto.` },
+      { type: "p", content: `Si vas a usar cualquiera de los dos para películas, el combo real es proyector más [parlante bluetooth](/guias/audio/parlantes). A veces ese agregado mejora más la experiencia que subir de HY300 a HY320.` },
+
+      { type: "h2", title: `Cuál conviene según tu uso`, id: "segun-uso" },
+      { type: "h3", title: `Para dormitorio o pelis de noche` },
+      { type: "p", content: `Para dormitorio, pared blanca y uso nocturno, el HY300 es la opción más lógica. Gastás menos y obtenés la experiencia grande que la mayoría busca: apagar la luz, proyectar contra una pared y ver una peli sin armar nada raro.` },
+      { type: "p", content: `El HY320 también sirve, claro. Pero si la pantalla no va a ser enorme y no vas a usarlo muy seguido, la diferencia de precio pesa más que la mejora.` },
+
+      { type: "h3", title: `Para quincho, patio o pared grande` },
+      { type: "p", content: `Para quincho o patio de noche, el HY320 empieza a tener más sentido. No porque pueda contra la luz de día, sino porque una pared más grande exige más margen de brillo.` },
+      { type: "p", content: `El punto clave es controlar expectativas: patio sí, pero de noche. Si hay mucha luz ambiente, ni HY300 ni HY320 son la respuesta ideal.` },
+
+      { type: "h3", title: `Para consola` },
+      { type: "p", content: `Para consola casual, los dos pueden servir. Pelis, FIFA, juegos tranquilos o Nintendo Switch funcionan bien si no sos exigente con la latencia.` },
+      { type: "p", content: `Para juegos competitivos, no compraría ninguno de los dos como pantalla principal. En esta gama puede haber más demora entre apretar un botón y ver la acción en pantalla (input lag) que en un monitor gamer, y eso se nota si jugás online en serio.` },
+
+      { type: "h3", title: `Para reemplazar una TV` },
+      { type: "p", content: `No reemplazan una TV principal. Una TV gana en brillo, nitidez, comodidad y uso de día.` },
+      { type: "p", content: `El proyector gana en tamaño, sensación de cine y portabilidad. Si lo querés para ver algo a la noche, perfecto. Si lo querés como única pantalla del living, mejor una TV.` },
+
+      { type: "h2", title: `¿Vale pagar más por el HY320?`, id: "vale-la-pena" },
+      { type: "p", content: `Vale pagar más por el HY320 si vas a aprovechar una imagen más grande y lo vas a usar seguido. Si es tu primer proyector, o si lo querés para uso ocasional de noche, el HY300 es mejor compra.` },
+      { type: "p", content: `La diferencia de precio no compra una experiencia premium. Compra un poco más de margen: más tamaño declarado, más brillo de ficha y una sensación menos justa cuando querés estirar la imagen.` },
+      { type: "list", items: [
+        `Comprá HY320 si vas a usar el proyector todas las semanas.`,
+        `Comprá HY320 si querés superar las 100 a 120 pulgadas.`,
+        `Quedate con HY300 si es tu primer proyector.`,
+        `Quedate con HY300 si preferís poner la diferencia en un parlante o TV Stick.`,
+      ] },
+
+      { type: "h2", title: `Veredicto`, id: "veredicto" },
+      { type: "verdict", content: `**El HY300 es la compra más sensata para la mayoría:** barato, simple y suficiente para cine de noche. El HY320 es mejor si querés más tamaño y un poco más de margen, pero solo conviene si realmente vas a usar ese extra. Primera compra o uso ocasional: [comprar HY300](https://meli.la/1MtgG5J). Uso frecuente y pared grande: [ver Maxnova HY320](https://meli.la/2NJmzTQ). Todavía dudando entre más modelos: leé la [guía completa de proyectores portátiles](/guias/tech/proyector-portatil).` },
+
+      { type: "h2", title: `Preguntas frecuentes`, id: "faq" },
+    ],
+    faq: [
+      { question: `¿El HY320 se ve mejor que el HY300?`, answer: `El HY320 puede verse mejor si lo usás en una pared más grande y con poca luz. Para dormitorio oscuro y uso casual, la diferencia no siempre justifica pagar bastante más.` },
+      { question: `¿El HY300 o HY320 son 4K reales?`, answer: `No. En esta gama, "4K" suele significar que aceptan señal 4K, no que proyectan en 4K nativo. La imagen real es HD.` },
+      { question: `¿Cuál sirve más para Netflix?`, answer: `Ninguno gana por Netflix oficial. Los dos pueden tener limitaciones de certificación en Android, así que la solución más limpia es conectar un TV Stick por HDMI.` },
+      { question: `¿Cuál conviene para PS4 o consola?`, answer: `Para consola casual, cualquiera de los dos sirve a oscuras. Para juegos competitivos o si te molesta el input lag, conviene usar una TV o monitor.` },
+      { question: `¿El HY320 vale la diferencia de precio?`, answer: `Vale la diferencia si vas a usarlo seguido y querés una imagen más grande. Si es para probar la categoría o ver pelis cada tanto, el HY300 es mejor negocio.` },
+    ],
+    internalLinksTitle: "Para seguir comparando",
+    internalLinks: [
+      { label: "Guía completa de proyectores portátiles", href: "/guias/tech/proyector-portatil" },
+      { label: "Parlantes bluetooth para mejorar el sonido", href: "/guias/audio/parlantes" },
+      { label: "Auriculares inalámbricos para ver pelis de noche", href: "/guias/audio/auriculares-inalambricos" },
     ],
   },
 
