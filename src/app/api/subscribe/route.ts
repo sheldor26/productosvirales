@@ -101,11 +101,17 @@ export async function POST(request: Request) {
   }
 
   try {
-    // ON CONFLICT DO NOTHING: si el mail ya existe, no es error (idempotente).
+    // Si el mail ya existe, no es error. Además promovemos el `source` a
+    // "price-alert" si esta suscripción lo pide (un suscriptor de newsletter que
+    // ahora quiere alertas de precio queda bien segmentado); nunca lo degradamos.
     await sql`
       INSERT INTO subscribers (email, source, ip, source_detail)
       VALUES (${normalized}, ${source}, ${ip}, ${sourceDetail})
-      ON CONFLICT (email) DO NOTHING
+      ON CONFLICT (email) DO UPDATE
+        SET source = CASE
+          WHEN EXCLUDED.source = 'price-alert' THEN 'price-alert'
+          ELSE subscribers.source
+        END
     `;
   } catch (err) {
     console.error("[subscribe] error al guardar:", err);
