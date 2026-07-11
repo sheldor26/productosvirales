@@ -802,7 +802,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: por material, peso y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Material`, `Soporta`, `Ideal para`], rows: [
-        [`[Alpina FT-088](https://meli.la/1t2j7zH)`, `$143.550`, `Cuero sintético`, `Uso normal`, `La más vendida y barata`],
+        [`[Alpina FT-088](https://meli.la/1t2j7zH)`, `{{precio:MLA47061669}}`, `Cuero sintético`, `Uso normal`, `La más vendida y barata`],
         [`[Alpina PRE-FT055](https://meli.la/2CJ8LqU)`, `{{precio:MLA47084299}}`, `Cuero sintético`, `Uso normal`, `Alternativa de valor`],
         [`[Cougar Fusion EX](https://meli.la/1drE2G6)`, `$259.999`, `Tela (fresca)`, `Uso intensivo`, `No transpirar / verano`],
         [`[Cougar Armor Elite](https://meli.la/1Z2hdW6)`, `$379.999`, `Cuero PVC transpirable`, `Hasta 120 kg`, `Premium que dura`],
@@ -922,7 +922,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Tabla comparativa: por conexión y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Conexión`, `Ideal para`], rows: [
         [`[Kotion Each G9000](https://meli.la/21XciT1)`, `{{precio:MLA9406415}}`, `Con cable`, `El más vendido y barato`],
-        [`[Razer BlackShark V2 X](https://meli.la/1eMqyZ5)`, `$100.000`, `Con cable`, `Mejor sonido competitivo`],
+        [`[Razer BlackShark V2 X](https://meli.la/1eMqyZ5)`, `{{precio:MLA16280514}}`, `Con cable`, `Mejor sonido competitivo`],
         [`[HyperX Cloud](https://meli.la/2E5hHez)`, `$82.646`, `Con cable`, `Comodidad para muchas horas`],
         [`[Redragon Ire Pro](https://meli.la/1EmVgFD)`, `$83.999`, `Inalámbrico`, `Inalámbrico gastando poco`],
         [`[Logitech G435](https://meli.la/1X17nvS)`, `{{precio:MLA18651915}}`, `Inalámbrico`, `Inalámbrico accesible de marca`],
@@ -1040,7 +1040,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Tabla comparativa: por tipo, tamaño y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Tamaño`, `Ideal para`], rows: [
         [`[Aula F75](https://meli.la/1MgoaV2)`, `$62.349`, `Mecánico (red)`, `75%`, `Mecánico silencioso del momento`],
-        [`[Redragon Kumara K552](https://meli.la/1WJcMxC)`, `$62.799`, `Mecánico (ruidoso)`, `TKL`, `El más vendido (en español)`],
+        [`[Redragon Kumara K552](https://meli.la/1WJcMxC)`, `{{precio:MLA16369071}}`, `Mecánico (ruidoso)`, `TKL`, `El más vendido (en español)`],
         [`[HyperX Alloy Core](https://meli.la/21e4ujZ)`, `{{precio:MLA14075573}}`, `Membrana`, `Full`, `Silencioso y económico, en español`],
         [`[Logitech G213](https://meli.la/11qvS6t)`, `$75.599`, `Membrana`, `Full`, `Resistente a líquidos`],
         [`[Redragon Horus K622](https://meli.la/19edjTZ)`, `$87.990`, `Mecánico (red)`, `TKL`, `Mecánico silencioso en español`],
@@ -1166,7 +1166,7 @@ export const guides: Guide[] = [
         [`[Logitech G305](https://meli.la/1dDyCA3)`, `$56.099`, `Inalámbrico (pila AA)`, `99 g`, `El inalámbrico clásico`],
         [`[Logitech G309](https://meli.la/26ynmBo)`, `{{precio:MLA40568693}}`, `Inalámbrico + Bluetooth`, `86 g`, `Inalámbrico moderno, mano chica`],
         [`[Logitech G Pro Wireless](https://meli.la/2HqvQqv)`, `$140.923`, `Inalámbrico (recargable)`, `80 g`, `E-sports, apto zurdos`],
-        [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `$288.469`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
+        [`[PRO X Superlight 2](https://meli.la/2ZRDxvS)`, `{{precio:MLA28598537}}`, `Inalámbrico (USB-C)`, `60 g`, `Competitivo profesional`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu mouse gamer`, id: "como-elegir" },
@@ -1406,7 +1406,7 @@ export const guides: Guide[] = [
         [`[Noblex 22"](https://meli.la/2AMGgvB)`, `$141.899`, `100`, `VA 22" FHD`, `El más barato con specs gamer`],
         [`[Philips 24"](https://meli.la/2LPpSwK)`, `{{precio:MLA43960948}}`, `75`, `VA 24" FHD`, `Uso mixto, el más vendido`],
         [`[Noblex 27" IPS](https://meli.la/17HaY3a)`, `{{precio:MLA45717120}}`, `100`, `IPS 27" FHD`, `Pantalla grande económica`],
-        [`[Samsung Odyssey G3](https://meli.la/2NmTqzr)`, `$244.361`, `180`, `VA 24" FHD`, `El mejor gaming por el precio`],
+        [`[Samsung Odyssey G3](https://meli.la/2NmTqzr)`, `{{precio:MLA63267892}}`, `180`, `VA 24" FHD`, `El mejor gaming por el precio`],
         [`[Samsung CRG5 curvo](https://meli.la/21rUoNn)`, `$365.999`, `144`, `VA 24" FHD curvo`, `El gaming más validado`],
         [`[Samsung G5 27" QHD](https://meli.la/11Frg3T)`, `$554.413`, `165`, `VA 27" QHD curvo`, `El salto de nitidez`],
         [`[Xiaomi G34WQi 34"](https://meli.la/1MQkxTt)`, `{{precio:MLA43960787}}`, `180`, `VA 34" UWQHD curvo`, `Ultrawide al mejor precio`],
