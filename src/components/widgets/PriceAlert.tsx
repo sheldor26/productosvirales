@@ -3,7 +3,23 @@
 import { useRef, useState } from "react";
 import { Bell, ArrowRight } from "lucide-react";
 
-export function PriceAlert() {
+interface PriceAlertProps {
+  /** Si viene, el lead queda atado a este producto (`ref` -> source_detail).
+   * Sirve para la ficha sin stock ("avisame cuando vuelva"). */
+  productId?: string;
+  title?: string;
+  subtitle?: string;
+  ctaLabel?: string;
+  doneLabel?: string;
+}
+
+export function PriceAlert({
+  productId,
+  title = "Alertas de precio",
+  subtitle = "Te avisamos de las bajas de precio más fuertes de la tienda. Las alertas por producto puntual, en camino.",
+  ctaLabel = "Activar alerta",
+  doneLabel = "¡Alerta activada! Atentos a tu mail — te chiflamos las mejores bajas primero.",
+}: PriceAlertProps = {}) {
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<"idle" | "loading" | "done" | "error">("idle");
   const [errorMsg, setErrorMsg] = useState("");
@@ -24,7 +40,11 @@ export function PriceAlert() {
       const res = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email: email.trim(), source: "price-alert" }),
+        body: JSON.stringify({
+          email: email.trim(),
+          source: "price-alert",
+          ...(productId ? { ref: productId } : {}),
+        }),
         signal: controller.signal,
       });
       if (!res.ok) {
@@ -61,11 +81,10 @@ export function PriceAlert() {
               className="text-base font-bold text-[var(--text-primary)]"
               style={{ fontFamily: "var(--font-display)" }}
             >
-              Alertas de precio
+              {title}
             </h3>
             <p className="text-sm text-[var(--text-muted)] mt-0.5">
-              Te avisamos de las bajas de precio más fuertes de la tienda. Las
-              alertas por producto puntual, en camino.
+              {subtitle}
             </p>
           </div>
         </div>
@@ -76,7 +95,7 @@ export function PriceAlert() {
             aria-live="polite"
             className="text-sm font-medium text-[var(--color-trending-up)]"
           >
-            ¡Alerta activada! Atentos a tu mail — te chiflamos las mejores bajas primero.
+            {doneLabel}
           </p>
         ) : (
           <>
@@ -96,7 +115,7 @@ export function PriceAlert() {
                 disabled={status === "loading"}
                 className="flex items-center gap-1.5 px-5 py-2.5 text-sm font-medium rounded-[var(--radius-pill)] bg-[var(--cta-bg)] text-[var(--cta-text)] hover:bg-[var(--cta-hover)] transition-colors shrink-0 cursor-pointer disabled:opacity-70 disabled:cursor-default"
               >
-                {status === "loading" ? "Activando…" : "Activar alerta"}
+                {status === "loading" ? "Activando…" : ctaLabel}
                 {status !== "loading" && <ArrowRight size={14} />}
               </button>
             </form>

@@ -6,6 +6,7 @@ import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "
 import { analyzePriceHistory } from "@/lib/price-history";
 import { injectLivePrices } from "@/lib/price-token";
 import { ProductDetail } from "@/components/products/ProductDetail";
+import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { RelatedGuides } from "@/components/guides/RelatedGuides";
 import { nextStepLinksForProduct } from "@/lib/related-guides";
@@ -302,6 +303,16 @@ export default async function ProductPage({ params }: Props) {
         relatedProducts={explicitRelated}
         priceHistory={analyzePriceHistory(product.id, product.price)}
       />
+
+      {product.priceStatus === "out_of_stock" && (
+        <PriceAlert
+          productId={product.id}
+          title="¿Sin stock? Te avisamos cuando vuelva"
+          subtitle="Dejanos tu mail y te escribimos si este producto vuelve al stock o baja de precio."
+          ctaLabel="Avisame"
+          doneLabel="¡Listo! Te avisamos apenas vuelva o baje de precio."
+        />
+      )}
 
       <RelatedGuides
         heading="Seguí con la guía completa"
