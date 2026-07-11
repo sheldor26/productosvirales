@@ -30,7 +30,8 @@ Orden por impacto/esfuerzo. Nada del stack base se toca sin OK de Juan (regla 4 
 
 ## Tier 2 — Estructural SEO / enlazado interno (medio) — la mayor palanca DA1
 
-- [ ] **2.1 Categorías como links reales (matar "categorías fantasma")**
+- [x] **2.1 Categorías como links reales (matar "categorías fantasma")** ✅ 2026-07-11 (dropdown en Header con los 10 hubs como links reales; `category-nav.ts` liviano; a11y con `inert` tras audit de Codex)
+  - Decisión (Juan, 2026-07-11): los **CategoryTabs de la home se quedan como filtro** del feed (no navegan a los hubs). La crawlabilidad de los hubs ya la cubre el dropdown del Header en toda página.
   - Por qué: los `CategoryTabs` de la home son botones de React con `onClick`, **no links `<a>`** → Google no puede crawlear los hubs `/categoria/[slug]` desde la home y quedan huérfanos. El Header además hardcodea `/categoria/belleza`. Enlazado interno = palanca #1 de DA1; conecta directo con el "por qué posición 9".
   - Archivos: `CategoryTabs` (home feed), `src/components/layout/Header.tsx`.
   - Pasos: (a) tabs → `<Link href="/categoria/[slug]">` o que actualicen `?cat=slug`; (b) Header: dropdown "Categorías" con TODOS los hubs (pasa link juice desde el header a todo el sitio).
