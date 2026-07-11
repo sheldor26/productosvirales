@@ -6474,8 +6474,163 @@ export const guides: Guide[] = [
         "No más de 5 a 10 minutos por sesión. Más tiempo no da mejor resultado y puede irritar la piel sensible.",
         "Limpiá el masajeador después de cada uso. Los residuos de serum y células muertas se vuelven un criadero de bacterias que después te pasás por la cara.",
       ] },
+      { type: "svg", caption: "Movimientos del masaje facial: siempre hacia arriba y afuera.", content: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%" role="img">
+  <title>Movimientos del masaje facial</title>
+  <desc>Diagrama de un rostro que muestra la dirección hacia arriba y afuera para usar el masajeador facial.</desc>
+  
+  <rect width="100%" height="100%" fill="#f8f8f6" />
+  
+  <text x="400" y="80" text-anchor="middle" font-size="32" font-weight="bold" fill="#111111" font-family="Inter, Montserrat, sans-serif">Cómo pasar el masajeador</text>
+  
+  <!-- Manchas pastel -->
+  <g opacity="0.6">
+    <ellipse cx="400" cy="300" rx="90" ry="35" fill="#fce7f3" />
+    <circle cx="320" cy="460" r="40" fill="#ffe4e6" />
+    <circle cx="480" cy="460" r="40" fill="#ffe4e6" />
+  </g>
+  
+  <!-- Rostro line-art -->
+  <g fill="none" stroke="#111111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Óvalo de la cara -->
+    <path d="M 280 420 C 280 530, 330 580, 400 590 C 470 580, 520 530, 520 420 C 520 320, 470 270, 400 270 C 330 270, 280 320, 280 420 Z" />
+    <!-- Cuello -->
+    <path d="M 330 575 C 330 620, 310 660, 290 690" />
+    <path d="M 470 575 C 470 620, 490 660, 510 690" />
+    <!-- Orejas -->
+    <path d="M 280 420 C 265 410, 265 460, 280 470" />
+    <path d="M 520 420 C 535 410, 535 460, 520 470" />
+    <!-- Ojos -->
+    <path d="M 320 400 Q 350 385, 380 400" />
+    <path d="M 420 400 Q 450 385, 480 400" />
+    <!-- Cejas -->
+    <path d="M 310 370 Q 350 350, 390 370" />
+    <path d="M 410 370 Q 450 350, 490 370" />
+    <!-- Nariz -->
+    <path d="M 400 400 C 390 440, 385 470, 400 480 C 410 480, 415 470, 415 465" />
+    <!-- Boca -->
+    <path d="M 360 520 Q 400 535, 440 520" />
+    <path d="M 370 520 Q 400 550, 430 520" />
+  </g>
+  
+  <!-- Marcador de flecha -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 1 1 L 8 5 L 1 9" fill="none" stroke="#E11D63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  
+  <!-- Flechas de dirección de masaje -->
+  <g stroke="#E11D63" stroke-width="2.5" fill="none" marker-end="url(#arrow)" stroke-linecap="round">
+    <!-- Frente -->
+    <path d="M 380 320 Q 340 310, 270 330" />
+    <path d="M 420 320 Q 460 310, 530 330" />
+    <!-- Pómulos -->
+    <path d="M 350 470 Q 310 450, 250 450" />
+    <path d="M 450 470 Q 490 450, 550 450" />
+    <!-- Mandíbula -->
+    <path d="M 380 570 Q 330 570, 260 490" />
+    <path d="M 420 570 Q 470 570, 540 490" />
+    <!-- Cuello -->
+    <path d="M 360 670 Q 360 640, 360 600" />
+    <path d="M 440 670 Q 440 640, 440 600" />
+  </g>
+  
+  <!-- Rótulos de zonas -->
+  <g fill="#111111" font-family="Inter, Montserrat, sans-serif" font-size="16">
+    <text x="400" y="230" text-anchor="middle">Frente: hacia las sienes</text>
+    <text x="230" y="455" text-anchor="end">Pómulos: hacia afuera</text>
+    <text x="570" y="530" text-anchor="start">Mandíbula: de la pera a la oreja</text>
+    <text x="400" y="730" text-anchor="middle">Cuello: hacia arriba</text>
+  </g>
+</svg>` },
       { type: "h2", title: "Cómo se usa el equipo de alta frecuencia (según el manual)" },
       { type: "p", content: "El equipo de alta frecuencia como el Gadnic LF60 tiene cuatro formas de uso según el manual, y la que te conviene depende del tipo de piel. Antes de sacar o cambiar el tubo de vidrio, siempre bajá la intensidad a cero y apagá la máquina." },
+      { type: "svg", caption: "Los 4 electrodos de vidrio del equipo de alta frecuencia Gadnic LF60.", content: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%" role="img">
+  <title>Los 4 electrodos de la alta frecuencia</title>
+  <desc>Ilustración de los cuatro tubos de vidrio de alta frecuencia y sus formas: hongo, lengua, doblado y peine.</desc>
+  
+  <rect width="100%" height="100%" fill="#f8f8f6" />
+  
+  <text x="400" y="80" text-anchor="middle" font-size="32" font-weight="bold" fill="#111111" font-family="Inter, Montserrat, sans-serif">Los 4 electrodos de la alta frecuencia</text>
+  
+  <!-- Efecto de ionización del gas (Resplandor Magenta + Core Coral) -->
+  <g stroke-linecap="round" fill="none">
+    <!-- Tubo de hongo -->
+    <path d="M 160 450 L 160 270" stroke="#E11D63" stroke-width="12" opacity="0.3" />
+    <circle cx="160" cy="230" r="30" fill="#E11D63" opacity="0.2" stroke="none" />
+    <path d="M 160 450 L 160 270" stroke="#FF6B6B" stroke-width="4" opacity="0.8" />
+    <circle cx="160" cy="230" r="15" fill="#FF6B6B" opacity="0.5" stroke="none" />
+    
+    <!-- Tubo de lengua -->
+    <path d="M 320 450 L 320 300 Q 320 250, 320 230" stroke="#E11D63" stroke-width="12" opacity="0.3" />
+    <ellipse cx="320" cy="260" rx="12" ry="35" fill="#E11D63" opacity="0.2" stroke="none" />
+    <path d="M 320 450 L 320 300 Q 320 250, 320 230" stroke="#FF6B6B" stroke-width="4" opacity="0.8" />
+    <ellipse cx="320" cy="260" rx="5" ry="20" fill="#FF6B6B" opacity="0.5" stroke="none" />
+    
+    <!-- Tubo doblado -->
+    <path d="M 480 450 L 480 320 C 480 300, 485 285, 502 268 L 517 253" stroke="#E11D63" stroke-width="12" opacity="0.3" />
+    <path d="M 480 450 L 480 320 C 480 300, 485 285, 502 268 L 517 253" stroke="#FF6B6B" stroke-width="4" opacity="0.8" />
+    
+    <!-- Tubo de peine -->
+    <path d="M 640 450 L 640 280 L 595 280 M 640 280 L 685 280" stroke="#E11D63" stroke-width="12" opacity="0.3" />
+    <path d="M 640 450 L 640 280 L 595 280 M 640 280 L 685 280" stroke="#FF6B6B" stroke-width="4" opacity="0.8" />
+    <path d="M 600 280 L 600 240 M 620 280 L 620 240 M 640 280 L 640 240 M 660 280 L 660 240 M 680 280 L 680 240" stroke="#E11D63" stroke-width="6" opacity="0.3" />
+    <path d="M 600 280 L 600 240 M 620 280 L 620 240 M 640 280 L 640 240 M 660 280 L 660 240 M 680 280 L 680 240" stroke="#FF6B6B" stroke-width="2" opacity="0.8" />
+  </g>
+  
+  <!-- Estructura de vidrio de los tubos line-art -->
+  <g fill="none" stroke="#111111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Hongo -->
+    <path d="M 150 450 L 150 300 C 130 290, 110 270, 110 230 A 50 40 0 0 1 210 230 C 210 270, 190 290, 170 300 L 170 450" />
+    <!-- Lengua -->
+    <path d="M 310 450 L 310 320 Q 290 280, 300 220 A 20 20 0 0 1 340 220 Q 350 280, 330 320 L 330 450" />
+    <!-- Doblado -->
+    <path d="M 470 450 L 470 320 C 470 300, 480 280, 496 264 L 510 250 A 10 10 0 0 1 524 264 L 510 278 C 496 292, 490 305, 490 325 L 490 450" />
+    <!-- Peine -->
+    <path d="M 630 450 L 630 310 Q 630 290, 610 290 L 585 290 A 10 10 0 0 1 585 270 
+             L 596 270 L 596 230 A 4 4 0 0 1 604 230 L 604 270
+             L 616 270 L 616 230 A 4 4 0 0 1 624 230 L 624 270
+             L 636 270 L 636 230 A 4 4 0 0 1 644 230 L 644 270
+             L 656 270 L 656 230 A 4 4 0 0 1 664 230 L 664 270
+             L 676 270 L 676 230 A 4 4 0 0 1 684 230 L 684 270
+             L 695 270 A 10 10 0 0 1 695 290 L 670 290 Q 650 290, 650 310 L 650 450" />
+  </g>
+  
+  <!-- Bases metálicas -->
+  <g fill="none" stroke="#111111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="145" y="450" width="30" height="40" rx="2" />
+    <rect x="150" y="490" width="20" height="15" />
+    <rect x="305" y="450" width="30" height="40" rx="2" />
+    <rect x="310" y="490" width="20" height="15" />
+    <rect x="465" y="450" width="30" height="40" rx="2" />
+    <rect x="470" y="490" width="20" height="15" />
+    <rect x="625" y="450" width="30" height="40" rx="2" />
+    <rect x="630" y="490" width="20" height="15" />
+  </g>
+  <g stroke="#111111" stroke-width="1" opacity="0.5">
+    <line x1="150" y1="460" x2="170" y2="460" />
+    <line x1="150" y1="470" x2="170" y2="470" />
+    <line x1="150" y1="480" x2="170" y2="480" />
+    <line x1="310" y1="460" x2="330" y2="460" />
+    <line x1="310" y1="470" x2="330" y2="470" />
+    <line x1="310" y1="480" x2="330" y2="480" />
+    <line x1="470" y1="460" x2="490" y2="460" />
+    <line x1="470" y1="470" x2="490" y2="470" />
+    <line x1="470" y1="480" x2="490" y2="480" />
+    <line x1="630" y1="460" x2="650" y2="460" />
+    <line x1="630" y1="470" x2="650" y2="470" />
+    <line x1="630" y1="480" x2="650" y2="480" />
+  </g>
+  
+  <!-- Rótulos de los electrodos -->
+  <g fill="#111111" font-family="Inter, Montserrat, sans-serif" font-size="16" text-anchor="middle">
+    <text x="160" y="550">Tubo de hongo</text>
+    <text x="320" y="550">Tubo de lengua</text>
+    <text x="480" y="550">Tubo doblado</text>
+    <text x="640" y="550">Tubo de peine</text>
+    <text x="640" y="570">(para el cuero cabelludo)</text>
+  </g>
+</svg>` },
       { type: "list", title: "Los 4 métodos del manual", items: [
         "Método indirecto: sostenés el tubo de vidrio después de aplicarte un poco de talco, encendés la máquina y masajeás del cuello a la barbilla y de la frente hacia abajo. Es el indicado para pieles secas y envejecidas.",
         "Método directo: aplicás crema, sujetás la barra de metal y pasás el tubo por la cara en forma de \"Z\" o hélice (frente, nariz, mejillas, mentón). Es el indicado para pieles grasas.",

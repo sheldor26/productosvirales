@@ -237,6 +237,21 @@ function SectionRenderer({ section }: { section: GuideSection }) {
       );
     }
 
+    case "svg":
+      return (
+        <figure className="my-6">
+          <div
+            className="rounded-[var(--radius-card)] overflow-hidden border border-[var(--border)] max-w-[520px] mx-auto"
+            dangerouslySetInnerHTML={{ __html: section.content || "" }}
+          />
+          {section.caption && (
+            <figcaption className="mt-2 text-center text-[14px] text-[var(--text-secondary)]">
+              {section.caption}
+            </figcaption>
+          )}
+        </figure>
+      );
+
     case "product-card":
       return <ProductCard section={section} />;
 
