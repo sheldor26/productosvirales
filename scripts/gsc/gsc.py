@@ -3,20 +3,25 @@
 
 Subcomandos:
     setup-check          Verifica el JSON, conecta y lista tus propiedades.
-    fetch                Baja queries, paginas y fechas y guarda un snapshot.
-    audit                Reporte de oportunidades (cerca del top, CTR flojo, canibalizacion).
-    report               Rinde por seccion (fichas / guias / categorias) y top/peores URLs.
-    alerts               Compara con el snapshot anterior y avisa cambios fuertes.
-    history              Lista los snapshots guardados.
+    fetch                Baja queries, paginas y fechas de GOOGLE y guarda un snapshot.
+    fetch-bing           Baja queries, paginas y fechas de BING y guarda un snapshot.
+    audit                Reporte de oportunidades a nivel PAGINA (cerca del top, CTR flojo, canibalizacion). Solo Google.
+    oportunidades        Queries en distancia de gol (pos 5-15) + la pagina que las sirve. --match freidora para filtrar.
+    report               Rinde por seccion (fichas / guias / categorias) y top/peores URLs. --source google|bing.
+    alerts               Compara con el snapshot anterior y avisa cambios fuertes. Solo Google.
+    history              Lista los snapshots guardados (ambas fuentes).
 
 Uso tipico:
     python scripts/gsc/gsc.py setup-check
     python scripts/gsc/gsc.py fetch                # corre esto seguido (ej. semanal)
+    python scripts/gsc/gsc.py fetch-bing            # idem, para Bing Webmaster Tools
     python scripts/gsc/gsc.py audit
     python scripts/gsc/gsc.py report
+    python scripts/gsc/gsc.py report --source bing
     python scripts/gsc/gsc.py alerts
 
 Casi todo es stdlib; lo unico externo es la libreria de Google (ver requirements.txt).
+Bing usa su API REST con una simple api key (sin libreria adicional, solo urllib).
 """
 
 from __future__ import annotations
@@ -24,8 +29,12 @@ from __future__ import annotations
 import argparse
 import csv
 import datetime as dt
+import json
+import re
 import sqlite3
 import sys
+import urllib.parse
+import urllib.request
 from pathlib import Path
 
 import config
@@ -124,7 +133,8 @@ def db() -> sqlite3.Connection:
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             fetched_at TEXT NOT NULL,
             range_start TEXT NOT NULL,
-            range_end TEXT NOT NULL
+            range_end TEXT NOT NULL,
+            source TEXT NOT NULL DEFAULT 'google'
         )"""
     )
     conn.execute(
@@ -140,6 +150,10 @@ def db() -> sqlite3.Connection:
     conn.execute(
         "CREATE INDEX IF NOT EXISTS idx_metrics ON metrics(snapshot_id, dim_type)"
     )
+    # Migracion suave: bases viejas no tienen la columna source todavia.
+    cols = [r[1] for r in conn.execute("PRAGMA table_info(snapshots)").fetchall()]
+    if "source" not in cols:
+        conn.execute("ALTER TABLE snapshots ADD COLUMN source TEXT NOT NULL DEFAULT 'google'")
     return conn
 
 
@@ -241,14 +255,145 @@ def _export_csv(conn, snap_id, dim_type, path):
 
 
 # ---------------------------------------------------------------------------
+# Bing Webmaster Tools (API REST simple, solo urllib)
+# ---------------------------------------------------------------------------
+BING_BASE = "https://ssl.bing.com/webmaster/api.svc/json/"
+BING_DATE_RE = re.compile(r"/Date\((-?\d+)")
+
+
+def get_bing_key():
+    if not config.BING_API_KEY_FILE.exists():
+        sys.exit(
+            f"No encuentro {config.BING_API_KEY_FILE.name}.\n"
+            "Conseguila en Bing Webmaster Tools -> Settings -> API access y "
+            f"pegala (solo el texto de la key) en {config.BING_API_KEY_FILE}."
+        )
+    return config.BING_API_KEY_FILE.read_text(encoding="utf-8").strip()
+
+
+def _parse_bing_date(raw):
+    """Convierte '/Date(1777618800000-0700)/' a fecha ISO (YYYY-MM-DD)."""
+    m = BING_DATE_RE.search(raw)
+    if not m:
+        return None
+    ms = int(m.group(1))
+    return dt.datetime.utcfromtimestamp(ms / 1000).date().isoformat()
+
+
+def bing_call(method, api_key):
+    url = BING_BASE + method + "?" + urllib.parse.urlencode(
+        {"apikey": api_key, "siteUrl": config.BING_SITE_URL}
+    )
+    try:
+        with urllib.request.urlopen(url, timeout=30) as resp:
+            payload = json.loads(resp.read().decode("utf-8"))
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        sys.exit(f"Bing API rechazo {method} ({e.code}): {body[:300]}")
+    except urllib.error.URLError as e:
+        sys.exit(f"No pude conectar a Bing API ({method}): {e}")
+    if "ErrorCode" in payload:
+        sys.exit(f"Bing API error en {method}: {payload.get('Message', payload)}")
+    return payload.get("d", []) or []
+
+
+def cmd_fetch_bing(args):
+    api_key = get_bing_key()
+    print(f"Bajando Bing Webmaster Tools para {config.BING_SITE_URL}...")
+
+    daily = bing_call("GetRankAndTrafficStats", api_key)
+    query_rows = bing_call("GetQueryStats", api_key)
+    page_rows = bing_call("GetPageStats", api_key)  # el campo "Query" trae la URL
+
+    if not daily and not query_rows and not page_rows:
+        sys.exit(
+            "Bing no devolvio datos. Confirma que el sitio esta verificado en "
+            "Bing Webmaster Tools con esa misma URL (config.BING_SITE_URL)."
+        )
+
+    # --- date: fila por dia (igual forma que el dim_type 'date' de Google) ---
+    date_agg = {}
+    for r in daily:
+        d = _parse_bing_date(r.get("Date", ""))
+        if not d:
+            continue
+        a = date_agg.setdefault(d, {"clicks": 0, "impr": 0})
+        a["clicks"] += r.get("Clicks", 0)
+        a["impr"] += r.get("Impressions", 0)
+
+    def _aggregate(rows, key_field):
+        """Suma clicks/impresiones por key y promedia la posicion, ponderada por impresiones."""
+        agg = {}
+        for r in rows:
+            key = r.get(key_field, "")
+            if not key:
+                continue
+            a = agg.setdefault(key, {"clicks": 0, "impr": 0, "pos_w": 0.0})
+            impr = r.get("Impressions", 0) or 0
+            a["clicks"] += r.get("Clicks", 0) or 0
+            a["impr"] += impr
+            pos = r.get("AvgImpressionPosition", -1)
+            if pos and pos > 0:
+                a["pos_w"] += pos * impr
+        return agg
+
+    query_agg = _aggregate(query_rows, "Query")
+    page_agg = _aggregate(page_rows, "Query")  # si, el campo se llama Query pero es la URL
+
+    s = min([d for d in date_agg] or [dt.date.today().isoformat()])
+    e = max([d for d in date_agg] or [dt.date.today().isoformat()])
+
+    conn = db()
+    cur = conn.cursor()
+    cur.execute(
+        "INSERT INTO snapshots (fetched_at, range_start, range_end, source) VALUES (?,?,?,?)",
+        (dt.datetime.now().isoformat(timespec="seconds"), s, e, "bing"),
+    )
+    snap_id = cur.lastrowid
+
+    def _insert(dim_type, key, clicks, impr, pos=0.0):
+        ctr = (clicks / impr) if impr else 0.0
+        cur.execute(
+            "INSERT INTO metrics (snapshot_id, dim_type, key1, key2, clicks, impressions, ctr, position)"
+            " VALUES (?,?,?,?,?,?,?,?)",
+            (snap_id, dim_type, key, None, clicks, impr, ctr, pos),
+        )
+
+    for d, a in date_agg.items():
+        _insert("date", d, a["clicks"], a["impr"])
+    for q, a in query_agg.items():
+        pos = (a["pos_w"] / a["impr"]) if a["impr"] else 0.0
+        _insert("query", q, a["clicks"], a["impr"], pos)
+    for p, a in page_agg.items():
+        pos = (a["pos_w"] / a["impr"]) if a["impr"] else 0.0
+        _insert("page", p, a["clicks"], a["impr"], pos)
+    conn.commit()
+
+    print(f"  date   {len(date_agg):>6} filas")
+    print(f"  query  {len(query_agg):>6} filas")
+    print(f"  page   {len(page_agg):>6} filas")
+
+    out_dir = config.EXPORTS_DIR / f"bing-{e}"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for dim_type in ("date", "query", "page"):
+        _export_csv(conn, snap_id, dim_type, out_dir / f"{dim_type}.csv")
+    conn.close()
+    print(f"\nGuardado snapshot #{snap_id} (bing, {s} a {e}). CSVs en {out_dir}")
+    print("Nota: Bing no da CTR esperado por posicion como Google, asi que 'audit' sigue siendo solo-Google.")
+    print("Proximo paso:  python scripts/gsc/gsc.py report --source bing")
+
+
+# ---------------------------------------------------------------------------
 # Helpers de analisis
 # ---------------------------------------------------------------------------
-def latest_snapshot(conn):
+def latest_snapshot(conn, source="google"):
     row = conn.execute(
-        "SELECT id, range_start, range_end FROM snapshots ORDER BY id DESC LIMIT 1"
+        "SELECT id, range_start, range_end FROM snapshots WHERE source=? ORDER BY id DESC LIMIT 1",
+        (source,),
     ).fetchone()
     if not row:
-        sys.exit("No hay datos todavia. Corre primero:  python scripts/gsc/gsc.py fetch")
+        cmd = "fetch" if source == "google" else "fetch-bing"
+        sys.exit(f"No hay datos de {source} todavia. Corre primero:  python scripts/gsc/gsc.py {cmd}")
     return row
 
 
@@ -268,6 +413,11 @@ def section_for(url):
         if prefix in url:
             return label
     return "Otras"
+
+
+def canonical_gsc_url(url):
+    """Normaliza URLs de GSC para no contar fragments # como paginas distintas."""
+    return urllib.parse.urldefrag(url).url
 
 
 def _fmt(rows, headers, limit=None):
@@ -330,7 +480,9 @@ def cmd_audit(args):
     low_ctr.sort(key=lambda r: r[5], reverse=True)
     _fmt(low_ctr, ["keyword", "clicks", "impr", "ctr%", "pos", "clicks_perdidos"], limit=args.top)
 
-    # 3) Canibalizacion: una misma keyword rankeando con >1 URL.
+    # 3) Canibalizacion: una misma keyword rankeando con >1 URL base.
+    # GSC puede reportar fragments (#seccion) como URLs separadas; para
+    # canibalizacion real solo cuentan paginas canonicas distintas.
     print("\n[3] CANIBALIZACION (una keyword reparte impresiones entre varias URLs):")
     pq = conn.execute(
         "SELECT key2, key1, clicks, impressions, position FROM metrics"
@@ -339,21 +491,93 @@ def cmd_audit(args):
     ).fetchall()
     by_query = {}
     for query, page, clicks, impr, pos in pq:
-        by_query.setdefault(query, []).append((page, clicks, impr, pos))
+        canonical_page = canonical_gsc_url(page)
+        by_page = by_query.setdefault(query, {})
+        item = by_page.setdefault(canonical_page, {
+            "clicks": 0.0,
+            "impressions": 0.0,
+            "pos_weight": 0.0,
+            "raw_urls": set(),
+        })
+        item["clicks"] += clicks
+        item["impressions"] += impr
+        item["pos_weight"] += pos * impr
+        item["raw_urls"].add(page)
     canib = []
-    for query, items in by_query.items():
-        if len(items) >= 2:
-            total_impr = sum(i[2] for i in items)
-            canib.append((query, len(items), round(total_impr)))
+    for query, pages in by_query.items():
+        if len(pages) >= 2:
+            total_impr = sum(item["impressions"] for item in pages.values())
+            canib.append((query, len(pages), round(total_impr)))
     canib.sort(key=lambda r: r[2], reverse=True)
     _fmt(canib, ["keyword", "n_urls", "impr_total"], limit=args.top)
     if args.verbose and canib:
         print("\n  Detalle de las 3 peores:")
         for query, _, _ in canib[:3]:
             print(f"  - \"{query}\":")
-            for page, clicks, impr, pos in sorted(by_query[query], key=lambda x: -x[2]):
+            rows = []
+            for page, item in by_query[query].items():
+                impr = item["impressions"]
+                pos = item["pos_weight"] / impr if impr else 0.0
+                rows.append((page, item["clicks"], impr, pos, len(item["raw_urls"])))
+            for page, clicks, impr, pos, raw_count in sorted(rows, key=lambda x: -x[2]):
                 short = page.replace("https://productosvirales.com.ar", "")
-                print(f"      {round(impr):>5} impr  pos {pos:>4.1f}  {short}")
+                fragments = f"  ({raw_count} fragments)" if raw_count > 1 else ""
+                print(f"      {round(impr):>5} impr  pos {pos:>4.1f}  {short}{fragments}")
+    conn.close()
+
+
+# ---------------------------------------------------------------------------
+# Oportunidades: distancia de gol a nivel QUERY (que empujar al top)
+# ---------------------------------------------------------------------------
+def cmd_oportunidades(args):
+    """Queries que ya rankean en posicion 5-15 (pagina 1 baja / pagina 2).
+
+    A diferencia de 'audit' [1], que mira paginas, esto mira las KEYWORDS
+    exactas en distancia de gol y muestra la pagina que las sirve, para saber
+    que guia/ficha optimizar. 'potencial' = clicks/mes extra estimados si esa
+    query sube al top 3 (impresiones x CTR_top3 - clicks actuales).
+    """
+    conn = db()
+    snap_id, s, e = latest_snapshot(conn)
+    lo, hi, floor = args.min_pos, args.max_pos, args.min_impr
+    print(f"=== OPORTUNIDADES: distancia de gol (snapshot #{snap_id}, {s} a {e}) ===")
+    filtro = f" que contienen \"{args.match}\"" if args.match else ""
+    print(f"Queries en posicion {lo:g}-{hi:g} con >= {floor} impresiones{filtro}.")
+    print("'potencial' = clicks/mes extra estimados si suben al top 3.\n")
+
+    # Mapa query -> pagina que mas impresiones aporta (para saber que tocar).
+    pagemap = {}
+    for query, page, impr in conn.execute(
+        "SELECT key2, key1, impressions FROM metrics"
+        " WHERE snapshot_id=? AND dim_type='page_query'",
+        (snap_id,),
+    ):
+        prev = pagemap.get(query)
+        if prev is None or impr > prev[1]:
+            pagemap[query] = (canonical_gsc_url(page), impr)
+
+    sql = (
+        "SELECT key1, clicks, impressions, ctr, position FROM metrics"
+        " WHERE snapshot_id=? AND dim_type='query'"
+        " AND position BETWEEN ? AND ? AND impressions >= ?"
+    )
+    params = [snap_id, lo, hi, floor]
+    if args.match:
+        sql += " AND lower(key1) LIKE ?"
+        params.append(f"%{args.match.lower()}%")
+    rows = conn.execute(sql, params).fetchall()
+
+    ctr_top3 = expected_ctr(3)
+    out = []
+    for key, clicks, impr, ctr, pos in rows:
+        potential = max(0.0, impr * ctr_top3 - clicks)
+        page = pagemap.get(key, ("", 0))[0].replace("https://productosvirales.com.ar", "")
+        out.append((key, round(impr), round(pos, 1), round(ctr * 100, 1),
+                    round(clicks), round(potential), page or "(sin pagina)"))
+    out.sort(key=lambda r: r[5], reverse=True)  # por potencial
+    _fmt(out, ["keyword", "impr", "pos", "ctr%", "clicks", "potencial", "pagina"], limit=args.top)
+    if not out:
+        print("  (nada en ese rango; proba bajar --min-impr o ampliar --max-pos)")
     conn.close()
 
 
@@ -362,8 +586,9 @@ def cmd_audit(args):
 # ---------------------------------------------------------------------------
 def cmd_report(args):
     conn = db()
-    snap_id, s, e = latest_snapshot(conn)
-    print(f"=== REPORTE POR SECCION (snapshot #{snap_id}, {s} a {e}) ===\n")
+    source = args.source
+    snap_id, s, e = latest_snapshot(conn, source)
+    print(f"=== REPORTE POR SECCION [{source.upper()}] (snapshot #{snap_id}, {s} a {e}) ===\n")
 
     pages = conn.execute(
         "SELECT key1, clicks, impressions, ctr, position FROM metrics"
@@ -415,10 +640,10 @@ def cmd_report(args):
 def cmd_alerts(args):
     conn = db()
     snaps = conn.execute(
-        "SELECT id, range_start, range_end FROM snapshots ORDER BY id DESC LIMIT 2"
+        "SELECT id, range_start, range_end FROM snapshots WHERE source='google' ORDER BY id DESC LIMIT 2"
     ).fetchall()
     if len(snaps) < 2:
-        sys.exit("Necesito al menos 2 snapshots para comparar. Corre 'fetch' de nuevo mas adelante.")
+        sys.exit("Necesito al menos 2 snapshots de Google para comparar. Corre 'fetch' de nuevo mas adelante.")
     (new_id, ns, ne), (old_id, os_, oe) = snaps
     print(f"=== ALERTAS: {os_}..{oe}  ->  {ns}..{ne} ===\n")
 
@@ -492,12 +717,12 @@ def cmd_setup_check(args):
 def cmd_history(args):
     conn = db()
     rows = conn.execute(
-        "SELECT id, fetched_at, range_start, range_end FROM snapshots ORDER BY id DESC"
+        "SELECT id, source, fetched_at, range_start, range_end FROM snapshots ORDER BY id DESC"
     ).fetchall()
     if not rows:
         print("Sin snapshots todavia.")
         return
-    _fmt(rows, ["#", "bajado_el", "desde", "hasta"])
+    _fmt(rows, ["#", "fuente", "bajado_el", "desde", "hasta"])
     conn.close()
 
 
@@ -510,16 +735,27 @@ def main():
 
     sub.add_parser("setup-check", help="verifica JSON + conexion + propiedades")
 
-    f = sub.add_parser("fetch", help="baja y guarda un snapshot")
+    f = sub.add_parser("fetch", help="baja y guarda un snapshot de Google")
     f.add_argument("--days", type=int, default=28, help="ventana de dias (default 28)")
     f.add_argument("--lag", type=int, default=2, help="dias de retraso de GSC (default 2)")
 
-    a = sub.add_parser("audit", help="oportunidades de optimizacion")
+    sub.add_parser("fetch-bing", help="baja y guarda un snapshot de Bing Webmaster Tools")
+
+    a = sub.add_parser("audit", help="oportunidades de optimizacion (solo Google)")
     a.add_argument("--top", type=int, default=20, help="cuantas filas mostrar")
     a.add_argument("-v", "--verbose", action="store_true", help="detalle de canibalizacion")
 
+    op = sub.add_parser("oportunidades", help="queries en distancia de gol (pos 5-15) para empujar al top")
+    op.add_argument("--min-pos", type=float, default=5.0, help="posicion minima (default 5)")
+    op.add_argument("--max-pos", type=float, default=15.0, help="posicion maxima (default 15)")
+    op.add_argument("--min-impr", type=int, default=config.MIN_IMPRESSIONS,
+                    help=f"impresiones minimas (default {config.MIN_IMPRESSIONS})")
+    op.add_argument("--match", help="filtrar queries que contengan este texto (ej: freidora)")
+    op.add_argument("--top", type=int, default=30, help="cuantas filas mostrar")
+
     r = sub.add_parser("report", help="rinde por seccion / URL")
     r.add_argument("--section", help="filtrar: producto / guias / categoria / trending")
+    r.add_argument("--source", choices=["google", "bing"], default="google", help="fuente (default google)")
     r.add_argument("--top", type=int, default=20)
 
     al = sub.add_parser("alerts", help="cambios fuertes vs snapshot anterior")
@@ -531,7 +767,9 @@ def main():
     {
         "setup-check": cmd_setup_check,
         "fetch": cmd_fetch,
+        "fetch-bing": cmd_fetch_bing,
         "audit": cmd_audit,
+        "oportunidades": cmd_oportunidades,
         "report": cmd_report,
         "alerts": cmd_alerts,
         "history": cmd_history,

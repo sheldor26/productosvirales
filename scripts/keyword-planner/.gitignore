@@ -1,0 +1,8 @@
+# Secretos y credenciales — NUNCA versionar
+google-ads.yaml
+client_secret.json
+token.json
+*.refresh_token
+__pycache__/
+.venv*/
+data/
