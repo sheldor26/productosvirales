@@ -19297,7 +19297,6 @@ export const guides: Guide[] = [
     metaDescription: `Compará HY300 vs HY320: brillo, resolución, Netflix, sonido y precio real en Argentina. Mirá cuál conviene según tu uso.`,
     ogTitle: `HY300 vs HY320: comparativa honesta`,
     ogDescription: `Dos proyectores virales, una decisión real: gastar menos con HY300 o subir al HY320 por más tamaño y brillo declarado.`,
-    ogImage: `/guias/proyectores/hy300-vs-hy320-hero.webp`,
     h1: `HY300 vs HY320: cuál proyector conviene comprar en Argentina`,
     directAnswer: `Para la mayoría conviene el **HY300**: cuesta menos, tiene Android 11, WiFi, Bluetooth y rinde bien a oscuras. El **HY320** solo justifica el salto si querés una imagen más grande, más margen de brillo y vas a usarlo seguido.`,
     publishedDate: "2026-07-11",

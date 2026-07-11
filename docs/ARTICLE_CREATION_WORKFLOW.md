@@ -70,7 +70,13 @@ Este proyecto publica artículos desde `src/data/guides.ts`. Los Markdown en `do
 4. Agregar imagenes en `public/images/...` si corresponde.
 5. Convertir o copiar el articulo a un objeto `Guide`.
 6. Revisar enlaces internos: todo `/guias/...` debe apuntar a un slug existente o a un articulo planificado.
-7. Ejecutar:
+7. Pasar la guia por consenso Codex-Claude antes de publicar:
+   - Codex termina de escribir u optimizar la guia y hace una primera auditoria propia.
+   - Codex consulta a Claude/Kogod en modo solo lectura, con el diff, el slug, las fichas y las reglas editoriales relevantes.
+   - Si Claude propone mejoras sensatas de SEO, conversion, datos, enlaces internos, imagenes, OG/Pinterest o canibalizacion, Codex las aplica.
+   - Codex vuelve a consultar a Claude despues del ajuste.
+   - Solo se puede pushear/publicar cuando Codex y Claude coinciden en que no quedan bloqueantes y la guia esta lista para indexar.
+8. Ejecutar:
 
 ```bash
 npm run lint
@@ -80,4 +86,3 @@ npm run build
 ## Nota importante sobre Next.js
 
 Este proyecto usa Next `16.2.3`. Antes de tocar rutas, metadata, rendering o convenciones de App Router, leer la guia relevante en `node_modules/next/dist/docs/`, como indica `AGENTS.md`.
-
