@@ -29,16 +29,21 @@ interface MobileNavProps {
 
 export function MobileNav({ open, onClose }: MobileNavProps) {
   const closeRef = useRef<HTMLButtonElement>(null);
+  const openerRef = useRef<HTMLElement | null>(null);
 
-  // Al abrir, mover el foco al panel (botón cerrar). Cerrar con Escape.
+  // Al abrir: recordar quién abrió y mover el foco al botón cerrar; Escape cierra.
+  // Al cerrar: devolver el foco al elemento que lo abrió (el hamburguesa).
   useEffect(() => {
-    if (!open) return;
-    closeRef.current?.focus();
-    const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") onClose();
-    };
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
+    if (open) {
+      openerRef.current = document.activeElement as HTMLElement;
+      closeRef.current?.focus();
+      const onKey = (e: KeyboardEvent) => {
+        if (e.key === "Escape") onClose();
+      };
+      window.addEventListener("keydown", onKey);
+      return () => window.removeEventListener("keydown", onKey);
+    }
+    openerRef.current?.focus?.();
   }, [open, onClose]);
 
   return (

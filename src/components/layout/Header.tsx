@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import { Menu, X, Sun, Moon, Search, ChevronDown } from "lucide-react";
 import { useTheme } from "next-themes";
@@ -21,6 +21,7 @@ export function Header() {
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [catOpen, setCatOpen] = useState(false);
+  const catTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
   const router = useRouter();
@@ -131,8 +132,16 @@ export function Header() {
                   crawleable desde toda página). Reemplaza el link hardcodeado. */}
               <div
                 className="relative"
-                onMouseEnter={() => setCatOpen(true)}
-                onMouseLeave={() => setCatOpen(false)}
+                onMouseEnter={() => {
+                  if (catTimer.current) clearTimeout(catTimer.current);
+                  setCatOpen(true);
+                }}
+                onMouseLeave={() => {
+                  // Delay chico: no cerrar si el mouse sale un instante (evita
+                  // que el menú se cierre en la cara con un movimiento torcido).
+                  if (catTimer.current) clearTimeout(catTimer.current);
+                  catTimer.current = setTimeout(() => setCatOpen(false), 150);
+                }}
                 onBlur={(e) => {
                   if (!e.currentTarget.contains(e.relatedTarget as Node)) setCatOpen(false);
                 }}
