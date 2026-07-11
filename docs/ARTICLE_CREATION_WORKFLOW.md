@@ -70,12 +70,14 @@ Este proyecto publica artículos desde `src/data/guides.ts`. Los Markdown en `do
 4. Agregar imagenes en `public/images/...` si corresponde.
 5. Convertir o copiar el articulo a un objeto `Guide`.
 6. Revisar enlaces internos: todo `/guias/...` debe apuntar a un slug existente o a un articulo planificado.
-7. Pasar la guia por consenso Codex-Claude antes de publicar:
+7. Pasar la guia por consenso Codex-Claude-Gemini antes de publicar:
    - Codex termina de escribir u optimizar la guia y hace una primera auditoria propia.
    - Codex consulta a Claude/Kogod en modo solo lectura, con el diff, el slug, las fichas y las reglas editoriales relevantes.
-   - Si Claude propone mejoras sensatas de SEO, conversion, datos, enlaces internos, imagenes, OG/Pinterest o canibalizacion, Codex las aplica.
-   - Codex vuelve a consultar a Claude despues del ajuste.
-   - Solo se puede pushear/publicar cuando Codex y Claude coinciden en que no quedan bloqueantes y la guia esta lista para indexar.
+   - Codex consulta a Gemini en modo solo lectura como auditor Google/SERP/AIO: intencion de busqueda, cobertura semantica, preguntas faltantes, canibalizacion y utilidad para AI Overviews.
+   - Si Claude o Gemini proponen mejoras sensatas de SEO, conversion, datos, enlaces internos, imagenes, OG/Pinterest o canibalizacion, Codex las aplica.
+   - Codex vuelve a consultar a Claude y Gemini despues del ajuste.
+   - Solo se puede pushear/publicar cuando Codex, Claude y Gemini coinciden en que no quedan bloqueantes y la guia esta lista para indexar.
+   - Comando operativo: `scripts/ai-os/review-guide.sh <slug>`. Guarda la trazabilidad en `docs/ai/reviews/<fecha>-<slug>/`.
 8. Ejecutar:
 
 ```bash
