@@ -21826,7 +21826,7 @@ Robot Xiaomi Vacuum H40, base de autovaciado con bolsa de polvo de 4 L, control 
     id: 'MLA62694483',
     title: 'Aspiradora Trapeadora Robot Roborock Q7 L5 Blanca',
     brand: 'Roborock',
-    price: 426520,
+    price: 419999,
     priceUpdated: "2026-07-10",
     priceLastChecked: "2026-07-10",
     priceStatus: "fresh",
