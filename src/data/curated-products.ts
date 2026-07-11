@@ -42551,7 +42551,7 @@ A $112.767 con 4.8 estrellas, es la filtro para comprar una sola vez: la jarra d
   {
     id: 'MLA36409137',
     title: 'Cafetera express Ultracomb CE-6108 15 bar roja',
-    price: 132706,
+    price: 147999,
     originalPrice: undefined,
     priceUpdated: "2026-07-10",
     priceLastChecked: "2026-07-10",
