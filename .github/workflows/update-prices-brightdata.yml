@@ -215,8 +215,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          if [ -z "$(git status --porcelain -- src/data/curated-products.ts docs/precios-sospechosos.md src/data/price-history.json)" ]; then
-            echo "Sin cambios de precio ni casos sospechosos nuevos. No se abre PR."
+          if [ -z "$(git status --porcelain -- src/data/curated-products.ts docs/precios-sospechosos.md docs/cambios-de-stock.md src/data/price-history.json)" ]; then
+            echo "Sin cambios de precio, casos sospechosos ni cambios de stock nuevos. No se abre PR."
             exit 0
           fi
 
@@ -226,7 +226,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$BRANCH"
-          git add src/data/curated-products.ts docs/precios-sospechosos.md src/data/price-history.json
+          git add src/data/curated-products.ts docs/precios-sospechosos.md docs/cambios-de-stock.md src/data/price-history.json
           git commit -m "chore(precios): actualizacion via Bright Data ${DATE}"
           git push origin "$BRANCH"
 

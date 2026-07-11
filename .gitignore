@@ -52,3 +52,6 @@ next-env.d.ts
 
 # Backups viejos de build (rompen el scan de Tailwind v4)
 .next-old*
+
+# Outputs transientes del workflow AI-OS (reviews de Gemini/Codex, tasks) — no versionar
+docs/ai/

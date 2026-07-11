@@ -149,17 +149,24 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 
     case "list":
       return (
-        <ul className="my-6 space-y-3 pl-1">
-          {(section.items as string[])?.map((item, i) => (
-            <li
-              key={i}
-              className="flex items-start gap-3 text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)]"
-            >
-              <span className="shrink-0 mt-[10px] w-1.5 h-1.5 rounded-full" style={{ backgroundColor: "var(--editorial-accent)" }} />
-              <span>{parseInlineLinks(item)}</span>
-            </li>
-          ))}
-        </ul>
+        <div className="my-6">
+          {section.title && (
+            <p className="mb-2 font-semibold text-[17px] md:text-[18px] text-[var(--text-primary)]">
+              {section.title}
+            </p>
+          )}
+          <ul className="space-y-3 pl-1">
+            {(section.items as string[])?.map((item, i) => (
+              <li
+                key={i}
+                className="flex items-start gap-3 text-[17px] md:text-[18px] leading-[1.7] text-[var(--text-secondary)]"
+              >
+                <span className="shrink-0 mt-[10px] w-1.5 h-1.5 rounded-full" style={{ backgroundColor: "var(--editorial-accent)" }} />
+                <span>{parseInlineLinks(item)}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
       );
 
     case "bad":
