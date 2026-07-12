@@ -44,6 +44,7 @@ Las 14 de abajo ya están **en vivo** y listas para pedir indexación. Con DA ba
 36. [ ] `climatizacion/aire-acondicionado-portatil` — pilar, publicada 2026-07-12 · GO del trío
 37. [ ] `seguridad/camara-de-seguridad` — pilar, publicada 2026-07-12 · GO del trío
 38. [ ] `seguridad/camara-de-seguridad-exterior` — satélite, publicada 2026-07-12 · GO del trío (2 pasadas)
+39. [ ] `seguridad/kit-camaras-seguridad` — satélite, publicada 2026-07-12 · GO del trío (2 pasadas)
 
 > Regla práctica: una URL cada 1-2 días. Mandar todas juntas en un dominio con autoridad baja es la señal que hace que Google dude en indexar.
 
@@ -163,7 +164,10 @@ Pilar del silo (todavía sin satélites), enlaza al silo de climatización. Enri
 |---|---|---|---|---|---|---|
 | https://productosvirales.com.ar/guias/seguridad/camara-de-seguridad | Alta | 2026-07-12 | — | — | — | — |
 | https://productosvirales.com.ar/guias/seguridad/camara-de-seguridad-exterior | Media | 2026-07-12 | — | — | — | — |
+| https://productosvirales.com.ar/guias/seguridad/kit-camaras-seguridad | Media | 2026-07-12 | — | — | — | — |
 
-Pilar del silo, enlaza a termotanque y aire ("Más para equipar tu casa") y a su primer satélite. Cámaras ratificadas contra la ficha oficial de ML: Gadnic SX39 (= DM200W, con puerto LAN, grabación en bucle y microSD hasta 128 GB), Geotek GT-A33BN (LAN, 128 GB, 2.4 GHz). GO del trío el 2026-07-12. Vive en producción al mergear `optimizar-guias-3` a master.
+Pilar del silo, enlaza a termotanque, aire y sus dos satélites ("Más para equipar tu casa"). Cámaras ratificadas contra la ficha oficial de ML: Gadnic SX39 (= DM200W, con puerto LAN, grabación en bucle y microSD hasta 128 GB), Geotek GT-A33BN (LAN, 128 GB, 2.4 GHz). GO del trío el 2026-07-12. Vive en producción al mergear `optimizar-guias-3` a master.
 
 **Satélite `camara-de-seguridad-exterior`** (2026-07-12): primera hija del silo, keyword "cámara de seguridad exterior" (8.100/mes, SD 15, validada Ubersuggest). Research de producto vía Bright Data + Chrome: Gadnic SX37 (bala fija, 8.606 opiniones), Ezviz C8c (domo motorizada, 107 opiniones, tienda oficial), Gadnic DM200W-Pro (domo motorizada 3MP/ONVIF-RTSP, apenas 11 opiniones, expuesto como contra honesta). Trío consultado ANTES de escribir (validó ángulo) y auditó el contenido en 2 pasadas: 1ª encontró 3 inconsistencias factuales reales (LAN atribuido a las 3 cuando la DM200W-Pro no tiene, rango de precio mal calculado, empate de IP66 ignorado), corregidas; 2ª pasada GO/GO. Enlaza de vuelta al pilar (hub-and-spoke).
+
+**Satélite `kit-camaras-seguridad`** (2026-07-12): segunda hija del silo, keyword "kit de cámaras de seguridad" (1.900/mes, SD 13, validada Ubersuggest). Frenada en la sesión anterior por falta de diversidad (solo Geotek); esta vez research vía Bright Data + Chrome trajo 3 candidatos diversos: Tapo C500 x2 (WiFi exterior con IA, 22.553 opiniones, el más elegido), Tapo C200 x2 (WiFi interior económico, 236 opiniones), Dahua DVR 4ch (sistema cableado BNC con grabador y disco incluidos, 423 opiniones, cableado/cajas aparte). Ángulo diferenciador vs el satélite anterior: foco en cubrir 2+ puntos con un kit, no "mejor cámara individual". Trío consultado ANTES de escribir (validó candidatos y orden por perfil de comprador) y auditó en 2 pasadas: 1ª encontró una sobreafirmación real (certificación IP atribuida al Dahua sin dato verificado), corregida; 2ª pasada GO/GO. Enlaza al pilar y al satélite hermano.
