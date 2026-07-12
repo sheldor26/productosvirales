@@ -1,3 +1,4 @@
+import "server-only"; // candado: importa el catálogo vía products.ts; solo-server
 import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
 

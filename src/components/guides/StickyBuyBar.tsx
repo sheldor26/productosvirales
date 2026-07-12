@@ -1,11 +1,23 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { getProductById } from "@/lib/products";
 import { formatPrice } from "@/lib/utils";
 
+/** Campos mínimos que necesita la barra. El producto se resuelve en el SERVIDOR
+ * (GuideRenderer) y baja como prop, así este componente cliente no importa
+ * `getProductById` ni arrastra el catálogo entero al bundle de las guías. */
+interface StickyBuyProduct {
+  title: string;
+  image: string;
+  affiliateUrl: string;
+  price: number;
+  currency: string;
+  rating?: number;
+  reviewCount?: number;
+}
+
 interface StickyBuyBarProps {
-  productMlaId: string;
+  product: StickyBuyProduct;
 }
 
 /**
@@ -13,8 +25,7 @@ interface StickyBuyBarProps {
  * (~600px) para acompañar al lector con el botón siempre a tiro.
  * El amarillo del botón es el único de la página (regla de oro CRO).
  */
-export function StickyBuyBar({ productMlaId }: StickyBuyBarProps) {
-  const product = getProductById(productMlaId);
+export function StickyBuyBar({ product }: StickyBuyBarProps) {
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
@@ -23,8 +34,6 @@ export function StickyBuyBar({ productMlaId }: StickyBuyBarProps) {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
-
-  if (!product) return null;
 
   const priceText = product.price
     ? formatPrice(product.price, product.currency)

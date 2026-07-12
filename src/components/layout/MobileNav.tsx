@@ -1,20 +1,25 @@
 "use client";
 
 import Link from "next/link";
-import { X, Flame, Heart, Smartphone, Home, Gamepad2, Headphones, ChefHat } from "lucide-react";
+import { useEffect, useRef } from "react";
+import { X, Flame } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
+import { CATEGORY_NAV } from "@/data/category-nav";
 
 const WHATSAPP_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t";
 
+// "Viral ahora" va a /trending; el resto son los hubs de categoría (CATEGORY_NAV,
+// misma fuente que el dropdown del header — así mobile linkea TODOS los hubs).
 const navCategories = [
-  { slug: "viral", label: "Viral ahora", icon: Flame, color: "#ef4444" },
-  { slug: "hogar", label: "Hogar", icon: Home },
-  { slug: "cocina", label: "Cocina", icon: ChefHat },
-  { slug: "tech", label: "Tech", icon: Smartphone },
-  { slug: "gaming", label: "Gaming", icon: Gamepad2 },
-  { slug: "audio", label: "Audio", icon: Headphones },
-  { slug: "belleza", label: "Belleza", icon: Heart },
+  { slug: "viral", label: "Viral ahora", href: "/trending", icon: Flame, color: "#ef4444" as string | undefined },
+  ...CATEGORY_NAV.map((c) => ({
+    slug: c.slug,
+    label: c.label,
+    href: `/categoria/${c.slug}`,
+    icon: c.icon,
+    color: undefined as string | undefined,
+  })),
 ];
 
 interface MobileNavProps {
@@ -23,6 +28,24 @@ interface MobileNavProps {
 }
 
 export function MobileNav({ open, onClose }: MobileNavProps) {
+  const closeRef = useRef<HTMLButtonElement>(null);
+  const openerRef = useRef<HTMLElement | null>(null);
+
+  // Al abrir: recordar quién abrió y mover el foco al botón cerrar; Escape cierra.
+  // Al cerrar: devolver el foco al elemento que lo abrió (el hamburguesa).
+  useEffect(() => {
+    if (open) {
+      openerRef.current = document.activeElement as HTMLElement;
+      closeRef.current?.focus();
+      const onKey = (e: KeyboardEvent) => {
+        if (e.key === "Escape") onClose();
+      };
+      window.addEventListener("keydown", onKey);
+      return () => window.removeEventListener("keydown", onKey);
+    }
+    openerRef.current?.focus?.();
+  }, [open, onClose]);
+
   return (
     <>
       {/* Overlay */}
@@ -36,6 +59,10 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
 
       {/* Panel */}
       <div
+        role="dialog"
+        aria-modal="true"
+        aria-label="Menú de navegación"
+        inert={!open}
         className={cn(
           "fixed top-0 left-0 z-50 h-full w-72 bg-[var(--bg-primary)] shadow-xl transition-transform duration-300 ease-out",
           open ? "translate-x-0" : "-translate-x-full"
@@ -46,6 +73,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
             Menú
           </span>
           <button
+            ref={closeRef}
             onClick={onClose}
             className="p-1 rounded-lg hover:bg-[var(--bg-secondary)] cursor-pointer"
             aria-label="Cerrar menú"
@@ -54,7 +82,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
           </button>
         </div>
 
-        <nav className="p-4 space-y-1">
+        <nav className="p-4 space-y-1 overflow-y-auto h-[calc(100%-65px)]">
           <a
             href={WHATSAPP_CHANNEL_URL}
             target="_blank"
@@ -93,7 +121,7 @@ export function MobileNav({ open, onClose }: MobileNavProps) {
             return (
               <Link
                 key={cat.slug}
-                href={cat.slug === "viral" ? "/trending" : `/categoria/${cat.slug}`}
+                href={cat.href}
                 onClick={onClose}
                 className="flex items-center gap-3 px-3 py-2.5 text-sm rounded-lg hover:bg-[var(--bg-secondary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
               >

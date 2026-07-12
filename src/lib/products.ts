@@ -1,5 +1,7 @@
+import "server-only"; // candado: falla el build si un componente cliente importa esto (arrastra el catálogo)
 import type { CardProduct, Product } from "./types";
 import { curatedProducts } from "@/data/curated-products";
+import { normalizeSearch } from "./utils";
 
 /**
  * Visibility helpers for product filtering across feeds, grids and related blocks.
@@ -42,6 +44,20 @@ export function toCardProduct(p: Product): CardProduct {
     badge: p.badge,
     pastelColor: p.pastelColor,
     priceStatus: p.priceStatus,
+  };
+}
+
+/** DTO de la tarjeta + un haystack normalizado para la búsqueda del feed. Se
+ * arma en el SERVIDOR y se pasa a HomeFeed como prop, así el cliente NO importa
+ * `curated-products` (evita mandar el catálogo entero, ~4 MB, al bundle). */
+export interface FeedCard extends CardProduct {
+  search: string;
+}
+
+export function toFeedCard(p: Product): FeedCard {
+  return {
+    ...toCardProduct(p),
+    search: normalizeSearch(`${p.title} ${p.category} ${p.description || ""} ${p.h1 || ""}`),
   };
 }
 

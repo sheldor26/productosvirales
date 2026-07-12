@@ -1,14 +1,18 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
-import { Menu, X, Sun, Moon, Search } from "lucide-react";
+import { Menu, X, Sun, Moon, Search, ChevronDown } from "lucide-react";
 import { useTheme } from "next-themes";
 import { cn } from "@/lib/utils";
 import { SearchInput } from "@/components/ui/SearchInput";
 import { WhatsAppIcon } from "@/components/icons/WhatsAppIcon";
+import { CATEGORY_NAV } from "@/data/category-nav";
 import { MobileNav } from "./MobileNav";
+
+const NAV_LINK_CLS =
+  "px-3 py-2 text-sm font-medium text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors rounded-lg hover:bg-[var(--bg-secondary)]";
 
 const WHATSAPP_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb8OJXB6mYPIHG0M4a1t";
 
@@ -16,6 +20,8 @@ export function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileNavOpen, setMobileNavOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
+  const [catOpen, setCatOpen] = useState(false);
+  const catTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
   const router = useRouter();
@@ -31,6 +37,16 @@ export function Header() {
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+
+  // Cerrar el dropdown de categorías con Escape.
+  useEffect(() => {
+    if (!catOpen) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setCatOpen(false);
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [catOpen]);
 
   return (
     <>
@@ -49,6 +65,8 @@ export function Header() {
               className="md:hidden p-2 -ml-2 text-[var(--text-primary)] cursor-pointer"
               onClick={() => setMobileNavOpen(true)}
               aria-label="Menú"
+              aria-expanded={mobileNavOpen}
+              aria-haspopup="dialog"
             >
               <Menu size={22} />
             </button>
@@ -103,20 +121,75 @@ export function Header() {
 
             {/* Desktop nav */}
             <nav className="hidden md:flex items-center gap-1">
-              {[
-                { href: "/", label: "Inicio" },
-                { href: "/trending", label: "Trending" },
-                { href: "/categoria/belleza", label: "Categorías" },
-                { href: "/guias", label: "Guías" },
-              ].map((link) => (
-                <Link
-                  key={link.href}
-                  href={link.href}
-                  className="px-3 py-2 text-sm font-medium text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors rounded-lg hover:bg-[var(--bg-secondary)]"
+              <Link href="/" className={NAV_LINK_CLS}>
+                Inicio
+              </Link>
+              <Link href="/trending" className={NAV_LINK_CLS}>
+                Trending
+              </Link>
+
+              {/* Categorías: dropdown con todos los hubs (enlazado interno real,
+                  crawleable desde toda página). Reemplaza el link hardcodeado. */}
+              <div
+                className="relative"
+                onMouseEnter={() => {
+                  if (catTimer.current) clearTimeout(catTimer.current);
+                  setCatOpen(true);
+                }}
+                onMouseLeave={() => {
+                  // Delay chico: no cerrar si el mouse sale un instante (evita
+                  // que el menú se cierre en la cara con un movimiento torcido).
+                  if (catTimer.current) clearTimeout(catTimer.current);
+                  catTimer.current = setTimeout(() => setCatOpen(false), 150);
+                }}
+                onBlur={(e) => {
+                  if (!e.currentTarget.contains(e.relatedTarget as Node)) setCatOpen(false);
+                }}
+              >
+                <button
+                  type="button"
+                  aria-haspopup="true"
+                  aria-expanded={catOpen}
+                  onClick={() => setCatOpen((v) => !v)}
+                  className={cn(NAV_LINK_CLS, "inline-flex items-center gap-1 cursor-pointer")}
                 >
-                  {link.label}
-                </Link>
-              ))}
+                  Categorías
+                  <ChevronDown
+                    size={14}
+                    className={cn("transition-transform duration-200", catOpen && "rotate-180")}
+                  />
+                </button>
+                <div
+                  inert={!catOpen}
+                  className={cn(
+                    "absolute left-0 top-full pt-2 w-[360px] transition-all duration-200 origin-top",
+                    catOpen
+                      ? "opacity-100 translate-y-0 pointer-events-auto"
+                      : "opacity-0 -translate-y-1 pointer-events-none"
+                  )}
+                >
+                  <div className="grid grid-cols-2 gap-0.5 rounded-[var(--radius-card)] border border-[var(--border)] bg-[var(--bg-primary)] p-2 shadow-[0_12px_28px_-8px_rgba(0,0,0,0.18)]">
+                    {CATEGORY_NAV.map((c) => {
+                      const Icon = c.icon;
+                      return (
+                        <Link
+                          key={c.slug}
+                          href={`/categoria/${c.slug}`}
+                          onClick={() => setCatOpen(false)}
+                          className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm text-[var(--text-secondary)] hover:bg-[var(--bg-secondary)] hover:text-[var(--text-primary)] transition-colors"
+                        >
+                          <Icon size={15} className="shrink-0 text-[var(--text-muted)]" />
+                          {c.label}
+                        </Link>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+
+              <Link href="/guias" className={NAV_LINK_CLS}>
+                Guías
+              </Link>
             </nav>
 
             {/* Right actions */}

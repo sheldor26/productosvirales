@@ -29,3 +29,13 @@ export function truncate(text: string, maxLength: number): string {
   if (text.length <= maxLength) return text;
   return text.slice(0, maxLength).trim() + "...";
 }
+
+/** Normaliza texto para búsqueda: minúsculas + sin acentos. Liviano (sin
+ * imports pesados) para poder usarlo tanto en server (precomputar el haystack)
+ * como en cliente (normalizar la query) sin arrastrar el catálogo al bundle. */
+export function normalizeSearch(str: string): string {
+  return str
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "");
+}

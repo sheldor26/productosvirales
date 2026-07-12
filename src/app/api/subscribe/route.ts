@@ -80,6 +80,14 @@ export async function POST(request: Request) {
       ? rawRef.trim().slice(0, 200)
       : null;
 
+  // Fuente de la suscripción (whitelist). Sirve para segmentar después:
+  // "price-alert" = pidió alerta de bajas de precio; "newsletter" = genérico.
+  const rawSource =
+    typeof body === "object" && body !== null && "source" in body
+      ? (body as { source: unknown }).source
+      : undefined;
+  const source = rawSource === "price-alert" ? "price-alert" : "newsletter";
+
   const sql = getSql();
   if (!sql) {
     // Sin DB configurada: dejamos rastro y seguimos sin romper.
@@ -93,11 +101,23 @@ export async function POST(request: Request) {
   }
 
   try {
-    // ON CONFLICT DO NOTHING: si el mail ya existe, no es error (idempotente).
+    // Si el mail ya existe, no es error. Además promovemos el `source` a
+    // "price-alert" si esta suscripción lo pide (un suscriptor de newsletter que
+    // ahora quiere alertas de precio queda bien segmentado); nunca lo degradamos.
     await sql`
       INSERT INTO subscribers (email, source, ip, source_detail)
-      VALUES (${normalized}, ${"newsletter"}, ${ip}, ${sourceDetail})
-      ON CONFLICT (email) DO NOTHING
+      VALUES (${normalized}, ${source}, ${ip}, ${sourceDetail})
+      ON CONFLICT (email) DO UPDATE
+        SET source = CASE
+          WHEN EXCLUDED.source = 'price-alert' THEN 'price-alert'
+          ELSE subscribers.source
+        END,
+        -- Re-suscribirse reactiva: si se había dado de baja y vuelve a pedir
+        -- alertas, lo volvemos a incluir en los envíos.
+        unsubscribed = CASE
+          WHEN EXCLUDED.source = 'price-alert' THEN false
+          ELSE subscribers.unsubscribed
+        END
     `;
   } catch (err) {
     console.error("[subscribe] error al guardar:", err);

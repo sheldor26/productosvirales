@@ -4,7 +4,9 @@ import { curatedProducts } from "@/data/curated-products";
 import { getVisibleProducts, toCardProduct } from "@/lib/products";
 import { getPriceValidUntil, parseProductSlug, productHref, productSlug } from "@/lib/product-url";
 import { analyzePriceHistory } from "@/lib/price-history";
+import { injectLivePrices } from "@/lib/price-token";
 import { ProductDetail } from "@/components/products/ProductDetail";
+import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { RelatedGuides } from "@/components/guides/RelatedGuides";
 import { nextStepLinksForProduct } from "@/lib/related-guides";
@@ -97,6 +99,15 @@ export default async function ProductPage({ params }: Props) {
   const otherCategories = visibleProducts
     .filter((p) => p.categorySlug !== product.categorySlug)
     .slice(0, 4);
+
+  // Resolvemos los tokens de precio {{precio:…}} ACÁ (server) para pasarle a
+  // ProductDetail (client) el texto ya resuelto. Así ese componente usa un
+  // parser de markdown client-safe y NO arrastra el catálogo (~4 MB) al bundle.
+  const detailProduct = {
+    ...product,
+    articleBody: product.articleBody ? injectLivePrices(product.articleBody) : product.articleBody,
+    faq: product.faq?.map((f) => ({ ...f, answer: injectLivePrices(f.answer) })),
+  };
 
   // ── JSON-LD structured data ──────────────────────────────────────────
   // Una sola fuente de verdad: los campos canónicos del producto (los que
@@ -226,12 +237,14 @@ export default async function ProductPage({ params }: Props) {
   };
 
   // FAQ structured data
+  // Usamos el faq con tokens ya resueltos (detailProduct) para que el JSON-LD
+  // sea consistente con lo visible y no filtre un {{precio}} crudo al structured data.
   const faqLd =
-    product.faq && product.faq.length > 0
+    detailProduct.faq && detailProduct.faq.length > 0
       ? {
           "@context": "https://schema.org",
           "@type": "FAQPage",
-          mainEntity: product.faq.map((item) => ({
+          mainEntity: detailProduct.faq.map((item) => ({
             "@type": "Question",
             name: item.question,
             acceptedAnswer: {
@@ -286,10 +299,20 @@ export default async function ProductPage({ params }: Props) {
       />
 
       <ProductDetail
-        product={product}
+        product={detailProduct}
         relatedProducts={explicitRelated}
         priceHistory={analyzePriceHistory(product.id, product.price)}
       />
+
+      {product.priceStatus === "out_of_stock" && (
+        <PriceAlert
+          productId={product.id}
+          title="¿Sin stock? Te avisamos cuando vuelva"
+          subtitle="Dejanos tu mail y te escribimos si este producto vuelve al stock o baja de precio."
+          ctaLabel="Avisame"
+          doneLabel="¡Listo! Te avisamos apenas vuelva o baje de precio."
+        />
+      )}
 
       <RelatedGuides
         heading="Seguí con la guía completa"

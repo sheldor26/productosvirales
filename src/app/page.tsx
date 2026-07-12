@@ -6,7 +6,7 @@ import { HomeFeed } from "@/components/feed/HomeFeed";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { HomeFAQ } from "@/components/feed/HomeFAQ";
-import { getRotatedVisibleProducts, makeRotationSeed } from "@/lib/products";
+import { getRotatedVisibleProducts, makeRotationSeed, toFeedCard, toCardProduct } from "@/lib/products";
 
 const baseMetadata: Metadata = {
   title: "Productos Virales de MercadoLibre Argentina — Lo más trending",
@@ -64,7 +64,10 @@ export default async function Home({
   // Se pasa a HomeFeed como prop para que SSR e hidratación usen el mismo orden.
   const rotationSeed = makeRotationSeed();
   const rotated = getRotatedVisibleProducts(rotationSeed);
-  const weeklyPopular = rotated.slice(0, 8);
+  // DTOs chicos: el catálogo se resuelve acá (server) y baja como prop, así
+  // HomeFeed (client) no importa `curated-products` ni serializa productos enteros.
+  const feedCards = rotated.map(toFeedCard);
+  const weeklyPopular = rotated.slice(0, 8).map(toCardProduct);
 
   return (
     <div className="max-w-[1200px] mx-auto px-4 md:px-6 py-5 md:py-8">
@@ -107,7 +110,7 @@ export default async function Home({
 
       <div className="mt-6 md:mt-8">
         <Suspense>
-          <HomeFeed seed={rotationSeed} initialQuery={initialQuery} />
+          <HomeFeed products={feedCards} initialQuery={initialQuery} />
         </Suspense>
       </div>
 

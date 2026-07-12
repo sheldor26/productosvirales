@@ -1,0 +1,8 @@
+# Copiá a google-ads.yaml (gitignored) y completá los 3 campos con TU_.
+# client_id/client_secret se reusan del cliente OAuth de GSC (scripts/gsc/client_secret.json).
+developer_token: "TU_DEVELOPER_TOKEN"
+login_customer_id: "TU_CUSTOMER_ID_SIN_GUIONES"   # ej: 1234567890
+client_id: "DEL_CLIENT_SECRET_DE_GSC"
+client_secret: "DEL_CLIENT_SECRET_DE_GSC"
+refresh_token: "LO_IMPRIME_get_refresh_token.py"
+use_proto_plus: True
