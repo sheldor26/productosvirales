@@ -3345,10 +3345,110 @@ export const guides: Guide[] = [
       { question: `¿Cómo evito las falsas alarmas por mascotas?`, answer: `Buscá detección de figura humana en vez de detección de movimiento simple: la [Ezviz TY1](https://meli.la/11ACYPJ) la tiene. En kits con detección de movimiento común, los compradores con perros y gatos reportan alertas frecuentes disparadas por sus mascotas.` },
     ],
     internalLinks: [
+      { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
       { label: "Termotanque eléctrico: cuál comprar y cuál conviene", href: "/guias/agua-caliente/termotanque-electrico" },
       { label: "Aire acondicionado portátil: cuál comprar en Argentina", href: "/guias/climatizacion/aire-acondicionado-portatil" },
     ],
     internalLinksTitle: "Más para equipar tu casa",
+  },
+  {
+    slug: "camara-de-seguridad-exterior",
+    category: "seguridad",
+    silo: "seguridad",
+    pillar: false,
+    title: `Cámara de seguridad exterior: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cámara de Seguridad Exterior: Cuál Comprar en Argentina`,
+    metaDescription: `Comparamos las mejores cámaras de seguridad para exterior en Argentina: Gadnic SX37, Ezviz C8c y Gadnic DM200W-Pro. IP66, motor y precio real.`,
+    ogTitle: `Cámara de seguridad exterior: cuál comprar en Argentina`,
+    ogDescription: `De la bala fija más probada a la domo motorizada con inteligencia artificial. Comparamos las cámaras de seguridad para exterior más vendidas de Argentina por resistencia al agua, motor y precio real.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp`,
+    h1: `Cámara de seguridad exterior: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `La mejor cámara de seguridad para exterior depende de si necesitás cubrir un ángulo fijo o un área amplia. Para un punto fijo (la entrada, el frente), la más elegida por historial de compradores es la **Gadnic SX37** (alrededor de {{precio:MLA18967142:k}}): bala fija, IP65 y más de 8.600 opiniones. Si necesitás que la cámara gire y cubra más área, te convienen la **Ezviz C8c** (marca internacional, IP66, detección de personas por IA) o la **Gadnic DM200W-Pro** (la de mejor resolución, 3MP, aunque recién llegada al catálogo).`,
+    publishedDate: "2026-07-12",
+    updatedDate: "2026-07-12",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Una cámara de seguridad para exterior arranca en {{precio:MLA18967142:k}} (bala fija, la más probada) y llega a {{precio:MLA66806823:k}} (domo motorizada de marca internacional), sin pagar mensualidad. Te mostramos cuál conviene según necesites un ángulo fijo o cobertura amplia, comparando las más vendidas de Argentina con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA18967142", label: "La más probada", labelColor: "amber", tagline: "Gadnic SX37: bala fija, más de 8.600 opiniones, la de mayor historial" },
+      { productMlaId: "MLA66806823", label: "Mejor marca y motor", labelColor: "blue", tagline: "Ezviz C8c: domo motorizada, IP66 y detección de personas por IA" },
+      { productMlaId: "MLA66204799", label: "Mejor resolución", labelColor: "purple", tagline: "Gadnic DM200W-Pro: 3MP y el motor más amplio, aunque recién llegada" },
+      { productMlaId: "MLA43877246", label: "Si querés doble vista", labelColor: "green", tagline: "Geotek doble lente: vista panorámica + motorizada en un solo equipo" },
+    ],
+    intro: [
+      `No todas las cámaras "para exterior" son iguales, aunque casi todas digan "resistente al agua" en el título. La certificación real es la IP (Ingress Protection): IP65 o IP66 confirmado en la ficha técnica, no una promesa del vendedor. Y la segunda decisión, tan importante como la resistencia al agua, es si necesitás una cámara fija (apunta a un solo lugar) o motorizada (gira y cubre más área).`,
+      `En esta guía comparamos las cámaras de seguridad para exterior más vendidas de Argentina: una bala fija con el mayor historial de compradores, y dos domo motorizadas con distinto enfoque (marca internacional vs. resolución). Si buscás una cámara genérica sin definir todavía si es para adentro o afuera, arrancá por la [guía general de cámaras de seguridad](/guias/seguridad/camara-de-seguridad).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp", alt: `Cámara de seguridad Ezviz C8c, domo motorizada para exterior`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cámaras de exterior con más ventas y opiniones reales en MercadoLibre Argentina, priorizando resistencia al agua confirmada en ficha técnica (no solo el título), fija vs. motorizada, y precio real. Las calificaciones y reseñas citadas son de compradores reales, incluida al menos una contra honesta por producto. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Fija o motorizada: la primera decisión`, id: "fija-o-motorizada" },
+      { type: "p", content: `Una cámara fija (tipo "bala") apunta a un solo ángulo: la entrada, el frente de la casa, la cochera. Cuesta menos y alcanza si sabés exactamente qué querés vigilar. Una motorizada (domo con PTZ, pan-tilt-zoom) gira desde la app y cubre un área mucho más amplia con un solo equipo; las mejores hacen seguimiento automático de personas.` },
+      { type: "list", items: [
+        `Un ángulo fijo y bien definido (puerta, frente): alcanza una bala fija como la Gadnic SX37 de esta guía.`,
+        `Un patio, jardín o área amplia: conviene una motorizada como la Ezviz C8c o la Gadnic DM200W-Pro.`,
+        `Cubrir dos ángulos con un solo equipo: existe la opción de doble lente (ver la Geotek de la guía general).`,
+      ]},
+
+      { type: "h2", title: `Las mejores cámaras de seguridad exterior 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic SX37 — la más probada` },
+      { type: "product-card", productMlaId: "MLA18967142", label: "La más probada", labelColor: "amber", ranking: 1, description: `Bala fija, IP65, con puerto LAN además de Wi-Fi. 4.6 estrellas en más de 8.600 calificaciones: la cámara exterior individual con más historial del catálogo.` },
+      { type: "p", content: `Si sabés exactamente qué ángulo querés vigilar, la Gadnic SX37 es la opción con más respaldo: más de 8.600 opiniones, muy por encima de cualquier otra cámara exterior individual del catálogo. No es motorizada, así que cubre el punto fijo donde la instalás, a alrededor de {{precio:MLA18967142:k}}. Trae puerto LAN (RJ45) además de Wi-Fi 2.4 GHz, así que si la señal inalámbrica no llega bien, la conectás por cable y listo.` },
+      { type: "p", content: `Lo honesto: no gira, así que si necesitás cubrir un área amplia no es la indicada. Y como toda cámara Wi-Fi, con conexión floja se puede tildar, aunque para eso está el puerto LAN de respaldo.` },
+      { type: "pull-quote", content: `La cámara es fenomenal, te ahorra tener que comprar un dvr. Hay que tener cuidado con el wifi, que no sea incompatible con la frecuencia de tu router, en mi caso tuve que conectarla con un cable de red al router por la ficha rj45. A la larga fue mejor porque no tengo problemas de transmisión.`, attribution: `— Comprador verificado en MercadoLibre, 2025` },
+
+      { type: "h3", title: `2. Ezviz C8c — mejor marca y motor` },
+      { type: "product-card", productMlaId: "MLA66806823", label: "Mejor marca y motor", labelColor: "blue", ranking: 2, description: `Domo motorizada, IP66, detección de personas por inteligencia artificial. 4.8 estrellas, vendida por tienda oficial con más de 100 mil ventas.` },
+      { type: "p", content: `La Ezviz C8c suma lo que la SX37 no tiene: motor PTZ (gira 350° en horizontal y 80° en vertical) y detección de personas por inteligencia artificial, que reduce las falsas alarmas por mascotas o ramas moviéndose. Es de una marca internacional reconocida en el rubro, vendida por una tienda oficial con más de 100 mil ventas, a alrededor de {{precio:MLA66806823:k}}. Junto con la DM200W-Pro, es de las dos IP66 de esta guía (la SX37 es IP65), y es la que más memoria admite (hasta 512 GB).` },
+      { type: "p", content: `Lo honesto: una reseña detallada marca tres matices reales. La señal de Wi-Fi le llegó "baja" según la propia app (aunque funcionó bien igual), la respuesta es un poco lenta cuando se mueve la cámara con el motor, y la alarma suena menos fuerte de lo que promete la ficha. Ninguno de los tres le impidió calificarla con 5 estrellas, pero son detalles que solo cuenta alguien que la usa.` },
+      { type: "pull-quote", content: `Excelente producto. La instalación fue sencilla, aunque el lugar que elegí no era tan accesible. La señal del wifi llega "baja" según indica la app, pero funciona correctamente y se puede acceder sin problema. Solo es un poco lenta la respuesta cuando hacemos movimientos de la cámara. Las opciones de detección de movimiento, detección humana y horarios de alerta funcionan muy bien. La alarma no es tan ruidosa como dice, pero cumple su propósito.`, attribution: `— Comprador verificado en MercadoLibre, 2025` },
+
+      { type: "h3", title: `3. Gadnic DM200W-Pro — mejor resolución` },
+      { type: "product-card", productMlaId: "MLA66204799", label: "Mejor resolución", labelColor: "purple", ranking: 3, description: `Domo motorizada, 3MP, el motor más amplio (355°/90°) y compatible con ONVIF/RTSP. Recién llegada al catálogo: apenas 11 calificaciones.` },
+      { type: "p", content: `En papel, la Gadnic DM200W-Pro es la más avanzada de esta guía: 3MP de resolución (contra el Full HD del resto), el motor más amplio y compatibilidad con ONVIF y RTSP, protocolos que permiten integrarla a un sistema de cámaras de terceros en vez de depender solo de la app del fabricante, a alrededor de {{precio:MLA66204799:k}}.` },
+      { type: "p", content: `Lo honesto, y es importante: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (107). Y una reseña de 3 estrellas le pone un matiz a la ventaja técnica: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". La spec es real, pero el historial todavía no acompaña.` },
+      { type: "pull-quote", content: `Muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo.`, attribution: `— Comprador verificado en MercadoLibre, 3 de 5 estrellas, 2026` },
+
+      { type: "h2", title: `Tabla comparativa: cámaras de seguridad exterior`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Resistencia`, `Ideal para`], rows: [
+        [`[Gadnic SX37](https://meli.la/19g95Yv)`, `{{precio:MLA18967142}}`, `Bala fija`, `IP65`, `Ángulo fijo, la más probada`],
+        [`[Ezviz C8c](https://meli.la/2huJpqG)`, `{{precio:MLA66806823}}`, `Domo motorizada`, `IP66`, `Marca internacional, IA`],
+        [`[Gadnic DM200W-Pro](https://meli.la/2f8sBDJ)`, `{{precio:MLA66204799}}`, `Domo motorizada`, `IP66`, `Mejor resolución, 3MP`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cámara de seguridad exterior`, id: "como-elegir" },
+      { type: "h3", title: `1. IP65 o IP66: la diferencia real` },
+      { type: "p", content: `Las dos certificaciones sirven para exterior, pero IP66 (Ezviz C8c y DM200W-Pro) resiste mejor chorros de agua directos que IP65 (Gadnic SX37). Si la cámara va a quedar totalmente expuesta a la lluvia sin ningún resguardo, IP66 da más margen; bajo un alero o techo, IP65 alcanza de sobra.` },
+      { type: "h3", title: `2. Puerto LAN: el respaldo que pocos miran` },
+      { type: "p", content: `La Gadnic SX37 y la Ezviz C8c admiten conexión por cable de red (RJ45) además de Wi-Fi; la Gadnic DM200W-Pro, según su ficha, es solo Wi-Fi. Si el lugar de instalación tiene Wi-Fi débil, tener puerto LAN elimina el problema de raíz en vez de depender de la señal inalámbrica: es un dato que vale la pena confirmar antes de comprar si esa es tu situación.` },
+      { type: "h3", title: `3. Historial de compradores vs. specs en papel` },
+      { type: "p", content: `La Gadnic DM200W-Pro gana en resolución y protocolos avanzados, pero tiene apenas 11 calificaciones contra las 8.600 de la SX37. No es que la spec sea falsa: es que el respaldo de compradores todavía no se construyó. Si preferís apoyarte en el historial antes de decidir, la SX37 o la C8c tienen mucho más recorrido.` },
+
+      { type: "h2", title: `Cuánto cuesta una cámara de seguridad exterior [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA18967142:k}}:** la [Gadnic SX37](https://meli.la/19g95Yv), bala fija, la más económica y con más historial.`,
+        `**Alrededor de {{precio:MLA66204799:k}}:** la [Gadnic DM200W-Pro](https://meli.la/2f8sBDJ), domo motorizada de mejor resolución.`,
+        `**Alrededor de {{precio:MLA66806823:k}}:** la [Ezviz C8c](https://meli.la/2huJpqG), domo motorizada de marca internacional, la más cara del grupo.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál cámara de seguridad exterior comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para un ángulo fijo (la entrada, el frente) y el mayor respaldo de compradores, la **Gadnic SX37**: bala fija, IP65 y más de 8.600 opiniones, la más económica de esta guía. Si necesitás que la cámara gire y priorizás una marca internacional con detección inteligente de personas, la **Ezviz C8c**. Y si te interesa la mejor resolución técnica (3MP) y no te importa que sea un modelo nuevo con poco historial, la **Gadnic DM200W-Pro**. En los tres casos, la memoria micro-SD se compra aparte.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cámara de seguridad para exterior en Argentina?`, answer: `Depende de si necesitás un ángulo fijo o cobertura amplia. Para un punto fijo con el mayor respaldo de compradores, la Gadnic SX37 (más de 8.600 opiniones). Para que gire y cubra más área, la Ezviz C8c (marca internacional, IP66) o la Gadnic DM200W-Pro (mejor resolución, 3MP).` },
+      { question: `¿Qué diferencia hay entre IP65 e IP66?`, answer: `Las dos sirven para exterior, pero IP66 resiste mejor los chorros de agua directos que IP65. Bajo un alero o techo, IP65 alcanza; totalmente expuesta a la lluvia, IP66 da más margen.` },
+      { question: `¿Conviene una cámara fija o motorizada para exterior?`, answer: `Una fija (bala) alcanza si sabés exactamente qué ángulo querés vigilar y cuesta menos. Una motorizada (domo) gira desde la app y cubre un área más amplia con un solo equipo, a mayor precio.` },
+      { question: `¿Las cámaras de exterior necesitan buen Wi-Fi?`, answer: `Sí, como toda cámara Wi-Fi. La Gadnic SX37 y la Ezviz C8c de esta guía admiten también conexión por cable de red (RJ45), una alternativa real si el Wi-Fi donde se instala es débil; la Gadnic DM200W-Pro, según su ficha, depende solo del Wi-Fi.` },
+      { question: `¿Vienen con memoria para grabar?`, answer: `No, ninguna de las tres. Sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba.` },
+      { question: `¿Vale la pena una cámara con pocas calificaciones pero mejores specs?`, answer: `Depende de cuánto priorices el historial. La Gadnic DM200W-Pro tiene la mejor resolución de esta guía (3MP) pero apenas 11 calificaciones; la SX37 y la C8c tienen mucho más recorrido de compradores reales.` },
+    ],
+    internalLinks: [
+      { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
+    ],
+    internalLinksTitle: "Más guías de seguridad",
   },
 
   // ─────────────────────────────────────────────────────────

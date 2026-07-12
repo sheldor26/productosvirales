@@ -36,6 +36,14 @@ Las 14 de abajo ya están **en vivo** y listas para pedir indexación. Con DA ba
 28. [x] `cuidado-personal/maquina-de-afeitar` — publicada e indexación pedida 2026-07-04
 29. [x] `cuidado-personal/cortadora-de-pelo` — publicada e indexación pedida 2026-07-04
 30. [x] `cuidado-personal/depiladora-electrica` — publicada e indexación pedida 2026-07-04
+31. [ ] `audio/parlantes` — pilar, publicada 2026-07-05
+32. [ ] `audio/parlante-jbl` — publicada 2026-07-05
+33. [ ] `audio/torre-de-sonido` — publicada 2026-07-05
+34. [ ] `audio/parlante-stromberg` — publicada 2026-07-05
+35. [ ] `agua-caliente/termotanque-electrico` — pilar, publicada 2026-07-12 · GO del trío
+36. [ ] `climatizacion/aire-acondicionado-portatil` — pilar, publicada 2026-07-12 · GO del trío
+37. [ ] `seguridad/camara-de-seguridad` — pilar, publicada 2026-07-12 · GO del trío
+38. [ ] `seguridad/camara-de-seguridad-exterior` — satélite, publicada 2026-07-12 · GO del trío (2 pasadas)
 
 > Regla práctica: una URL cada 1-2 días. Mandar todas juntas en un dominio con autoridad baja es la señal que hace que Google dude en indexar.
 
@@ -110,8 +118,9 @@ Keywords: cafetera italiana 27.100/mes (Volturno por pocillos, aluminio/inducci�
 | https://productosvirales.com.ar/guias/climatizacion/estufas-electricas | Alta | 2026-07-01 | 2026-07-01 | 9 | 0 | 2026-08-26 |
 | https://productosvirales.com.ar/guias/climatizacion/estufa-electrica-bajo-consumo | Media | 2026-07-01 | 2026-07-01 | 13 | 0 | 2026-08-26 |
 | https://productosvirales.com.ar/guias/climatizacion/caloventor | Media | 2026-07-01 | 2026-07-01 | 1 | 0 | 2026-08-26 |
+| https://productosvirales.com.ar/guias/climatizacion/aire-acondicionado-portatil | Alta | 2026-07-12 | — | — | — | — |
 
-Silo completo (pilar + 2 satélites), enlazado entre sí. Estado: **publicadas 2026-07-01, indexadas** (impresiones confirmadas por GSC al 2026-07-01: posiciones 7-16, todavía sin clicks).
+Silo completo (pilar `estufas-electricas` + 2 satélites), enlazado entre sí. Estado: **publicadas 2026-07-01, indexadas** (impresiones confirmadas por GSC al 2026-07-01: posiciones 7-16, todavía sin clicks). El 2026-07-12 se sumó un segundo pilar, `aire-acondicionado-portatil` (5 modelos comparados, foto del Sansei ratificada al modelo real, ruido Philco 50 dB vs Sansei 65 dB), con GO del trío. Vive en producción al mergear `optimizar-guias-3` a master.
 
 ## Silo: gaming
 
@@ -139,3 +148,22 @@ Pilar `silla-gamer` publicado el 2026-07-01. `auriculares-gamer`, `teclado-gamer
 | https://productosvirales.com.ar/guias/cuidado-personal/depiladora-electrica | Alta | 2026-07-04 | 2026-07-04 | — | — | 2026-08-29 |
 
 Silo completo (pilar `secador-de-pelo` + 3 satélites), enlazado hub-and-spoke entre las 4. Auditoría final con `optimizador-guias-pv` antes de publicar: specs contrastadas contra fabricante (Wahl Pro, remingtonlatam.com, GA.MA Italy, Yelmo, Gadnic, Philips), sin links absolutos, 22 fichas de producto verificadas. Keywords: secador de pelo (27.100/mes), máquina de afeitar + afeitadora eléctrica (8.100 + 4.400/mes), depiladora eléctrica (12.100/mes), cortadora de pelo (2.900/mes). Estado: **publicadas e indexación pedida 2026-07-04**.
+
+## Silo: agua caliente
+
+| URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
+|---|---|---|---|---|---|---|
+| https://productosvirales.com.ar/guias/agua-caliente/termotanque-electrico | Alta | 2026-07-12 | — | — | — | — |
+
+Pilar del silo (todavía sin satélites), enlaza al silo de climatización. Enriquecida con datos del manual oficial del Señorial (circuito eléctrico exclusivo, recambio del ánodo de magnesio antes de los 18 meses y su efecto en la garantía, presión máxima 0,6 MPa, purga mensual, Legionella) y 4 fichas de ML ratificadas. GO del trío (Codex + Gemini) el 2026-07-12. Vive en producción al mergear `optimizar-guias-3` a master.
+
+## Silo: seguridad
+
+| URL | Prioridad | Fecha publicada | Indexación pedida | Impresiones | Clicks | Chequeo |
+|---|---|---|---|---|---|---|
+| https://productosvirales.com.ar/guias/seguridad/camara-de-seguridad | Alta | 2026-07-12 | — | — | — | — |
+| https://productosvirales.com.ar/guias/seguridad/camara-de-seguridad-exterior | Media | 2026-07-12 | — | — | — | — |
+
+Pilar del silo, enlaza a termotanque y aire ("Más para equipar tu casa") y a su primer satélite. Cámaras ratificadas contra la ficha oficial de ML: Gadnic SX39 (= DM200W, con puerto LAN, grabación en bucle y microSD hasta 128 GB), Geotek GT-A33BN (LAN, 128 GB, 2.4 GHz). GO del trío el 2026-07-12. Vive en producción al mergear `optimizar-guias-3` a master.
+
+**Satélite `camara-de-seguridad-exterior`** (2026-07-12): primera hija del silo, keyword "cámara de seguridad exterior" (8.100/mes, SD 15, validada Ubersuggest). Research de producto vía Bright Data + Chrome: Gadnic SX37 (bala fija, 8.606 opiniones), Ezviz C8c (domo motorizada, 107 opiniones, tienda oficial), Gadnic DM200W-Pro (domo motorizada 3MP/ONVIF-RTSP, apenas 11 opiniones, expuesto como contra honesta). Trío consultado ANTES de escribir (validó ángulo) y auditó el contenido en 2 pasadas: 1ª encontró 3 inconsistencias factuales reales (LAN atribuido a las 3 cuando la DM200W-Pro no tiene, rango de precio mal calculado, empate de IP66 ignorado), corregidas; 2ª pasada GO/GO. Enlaza de vuelta al pilar (hub-and-spoke).
