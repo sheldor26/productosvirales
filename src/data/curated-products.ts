@@ -49792,7 +49792,7 @@ Comprá el RCA AAPR12XP si valorás las funciones extra de deshumidificación y 
     rating: 4.8,
     reviewCount: 21272,
     ratingBreakdown: { five: "84.2%", four: "11.63%", three: "2.44%", two: "0.6%", one: "1.14%" },
-    pastelColor: "var(--pastel-verde)",
+    pastelColor: "var(--pastel-green)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Gadnic" },
@@ -49875,7 +49875,7 @@ Comprá la SX39 si querés una cámara motorizada con seguimiento y el mayor res
     rating: 4.8,
     reviewCount: 10352,
     ratingBreakdown: { five: "84.83%", four: "10.91%", three: "2.34%", two: "0.72%", one: "1.2%" },
-    pastelColor: "var(--pastel-azul)",
+    pastelColor: "var(--pastel-blue)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Geotek" },
@@ -50206,7 +50206,7 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
     rating: 4.9,
     reviewCount: 2143,
     ratingBreakdown: { five: "91.2%", four: "7.06%", three: "1.11%", two: "0.32%", one: "0.32%" },
-    pastelColor: "var(--pastel-lila)",
+    pastelColor: "var(--pastel-purple)",
     visibility: "normal",
     specs: [
       { label: "Marca", value: "Ezviz" },
@@ -50268,6 +50268,264 @@ Comprala si querés detección de personas de verdad (no alertas por cada cortin
       { question: "¿Sirve para exterior?", answer: "No, es de interior y se alimenta de corriente eléctrica, sin resistencia al agua declarada." },
       { question: "¿Por qué tiene menos calificaciones que las otras?", answer: "Es un modelo con menos rotación en el catálogo argentino: 1.898 calificaciones, contra más de 5.000 del resto de la guía. La muestra igual es amplia y el promedio (4.9) es el más alto junto a la Tapo C210." },
       { question: "¿Detecta sonidos?", answer: "Sí, además del movimiento detecta ruidos anormales y avisa al celular, según la ficha y las reseñas." },
+    ],
+  },
+
+  // ─── Cámaras de seguridad exterior — importadas via Chrome + Bright Data (jul 2026, API ML caída). Satélite "cámara-de-seguridad-exterior" del silo seguridad ───
+  {
+    id: "MLA18967142",
+    title: "Cámara De Seguridad Gadnic SX37 Exterior Ip Conexión Inalámbrica P2p Visión Nocturna FHD",
+    canonicalName: "Cámara de Seguridad Gadnic SX37 (bala fija)",
+    price: 54399,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_732935-MLA99518449203_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_732935-MLA99518449203_112025-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA18967142",
+    affiliateUrl: "https://meli.la/19g95Yv",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 8606,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Línea", value: "Bullet" },
+      { label: "Modelo", value: "SX37" },
+      { label: "Tipo", value: "Cámara bala fija (no motorizada)" },
+      { label: "Resolución", value: "Full HD (ficha ML: 2MP)" },
+      { label: "Compresión de video", value: "H.264" },
+      { label: "Zoom digital", value: "4x" },
+      { label: "Conectividad", value: "Wi-Fi 2.4 GHz, LAN (RJ45), IP" },
+      { label: "Sensor de movimiento", value: "Sí, con alerta al celular" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Visión nocturna", value: "Sí, alcance 30 m" },
+      { label: "Resistencia al agua", value: "IP65 (exterior e interior)" },
+      { label: "Almacenamiento", value: "Micro-SD hasta 128 GB (no incluida)" },
+      { label: "Sistemas compatibles", value: "Android, iOS" },
+      { label: "Accesorios incluidos", value: "Manual, tornillos y tacos, antena, cargador" },
+    ],
+    relatedProducts: ["MLA66806823", "MLA66204799", "MLA18711640"],
+    priceUpdated: "2026-07-12",
+    priceLastChecked: "2026-07-12",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-12",
+    description: "Cámara de seguridad Gadnic SX37: bala fija para exterior, con más de 8.600 calificaciones, la de mayor historial entre las cámaras exteriores individuales del catálogo. A diferencia de la SX39, no es motorizada: apunta a un solo ángulo fijo.",
+    seoTitle: "Cámara Gadnic SX37 exterior: la más probada, ¿conviene?",
+    metaDescription: "Cámara de seguridad Gadnic SX37 bala fija para exterior: más de 8.600 calificaciones, IP65 y puerto LAN. Precio real, pros, contras y para quién conviene.",
+    verdict: "La Gadnic SX37 sirve si querés la cámara exterior con más historial de compradores del país, apuntando a un solo ángulo fijo (la entrada, el frente, la cochera) sin necesitar que gire. No sirve si necesitás cubrir un área amplia con un solo equipo: al no ser motorizada, para eso conviene una domo PTZ como la Ezviz C8c o la Gadnic DM200W-Pro.",
+    pros: [
+      "La cámara exterior individual con más historial del catálogo: más de 8.600 calificaciones y 4.6 de promedio",
+      "Puerto LAN (RJ45) además de Wi-Fi: si la señal inalámbrica falla, se conecta por cable",
+      "IP65, apta para exterior e interior",
+      "Zoom digital 4x y audio bidireccional",
+      "Precio, el más bajo de los tres de esta guía",
+    ],
+    cons: [
+      "No es motorizada: apunta a un solo ángulo fijo, no gira ni hace seguimiento",
+      "La memoria micro-SD no viene incluida: sin ella no graba",
+      "Con Wi-Fi de 5 GHz o señal floja se puede tildar, según reseñas (por eso conviene el puerto LAN como respaldo)",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Me compré dos. Estan buenisimas. Son pequeñas lo que es facil de ubicarlas. La instalación es super facil, la hice yo sola. El manejo de la app también. La vision que tiene es super amplia y se ve bien de dia y de noche aunque no haya muchas luces también se ve perfecto! yo le agregue una tarjeta de memoria para que grabe. Con la app miro en todo momento las cámaras esté donde esté.", useful: 311 },
+      { rating: 5, country: "Argentina", date: "2025", text: "La cámara es fenomenal, te ahorra tener que comprar un dvr. Hay que tener cuidado con el wifi, que no sea incompatible con la frecuencia de tu router, en mi caso tuve que conectarla con un cable de red al router por la ficha rj45. A la larga fue mejor porque no tengo problemas de transmisión.", useful: 45 },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Gadnic SX37 es una cámara de seguridad tipo bala (bullet), fija, pensada para exterior. A diferencia de la SX39 (el domo motorizado del catálogo), la SX37 no gira: se instala apuntando a un ángulo fijo, como la entrada, el frente de la casa o la cochera. Es la cámara exterior individual con más historial del catálogo, con más de 8.600 calificaciones.
+
+## Lo bueno
+
+El respaldo de compradores es el punto fuerte: más de 8.600 calificaciones y 4.6 de promedio. Trae puerto LAN (RJ45) además de Wi-Fi, así que si la señal inalámbrica no llega bien al lugar de instalación, se puede conectar por cable y listo, como cuenta un comprador que tuvo que resolverlo así. Es apta para exterior e interior (IP65) y tiene audio bidireccional.
+
+## La contra real
+
+No es motorizada: cubre solo el ángulo fijo donde apunta, no gira ni sigue el movimiento como la SX39 o las domo PTZ de esta guía. La memoria micro-SD no viene incluida, así que sin comprarla aparte no graba. Y como toda cámara Wi-Fi, con conexión floja o de 5 GHz se puede tildar; el propio puerto LAN existe justamente para ese caso.
+
+## Para quién sí y para quién no
+
+Comprala si querés vigilar un punto fijo (la puerta, el frente) con el mayor respaldo de compradores y al menor precio de esta guía. No la compres si necesitás cubrir un área amplia con un solo equipo: para eso, la Ezviz C8c o la Gadnic DM200W-Pro giran y hacen seguimiento.`,
+    faq: [
+      { question: "¿La Gadnic SX37 es motorizada?", answer: "No. Es una cámara bala fija: cubre el ángulo donde la apuntás, sin girar ni seguir el movimiento. Para eso hace falta una domo motorizada." },
+      { question: "¿Sirve si mi Wi-Fi es débil?", answer: "Tiene puerto LAN (RJ45) además de Wi-Fi 2.4 GHz. Si la señal inalámbrica falla, se conecta por cable de red al router, como recomienda una reseña real." },
+      { question: "¿Graba sin memoria?", answer: "No. Sin una micro-SD (se compra aparte, hasta 128 GB) solo muestra la imagen en vivo desde la app." },
+      { question: "¿Es apta para exterior?", answer: "Sí, tiene certificación IP65 y también sirve para interior." },
+      { question: "¿Por qué es más barata que las otras dos de esta guía?", answer: "Porque no es motorizada: al no tener el motor PTZ que gira y sigue el movimiento, el costo es menor. Si no necesitás esa función, es la opción con mejor relación precio-historial." },
+    ],
+  },
+  {
+    id: "MLA66806823",
+    title: "Cámara De Seguridad Ezviz C8c 1080p Wifi De 2mp Simil H8c Blanco",
+    canonicalName: "Cámara de Seguridad Ezviz C8c (domo motorizada)",
+    price: 70325,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA66806823",
+    affiliateUrl: "https://meli.la/2huJpqG",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 107,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ezviz" },
+      { label: "Línea", value: "C8C" },
+      { label: "Modelo", value: "CS-C8c-R100-1K2WKFL" },
+      { label: "Tipo", value: "Domo motorizada (PTZ)" },
+      { label: "Movimiento", value: "Horizontal 350°, vertical 80°" },
+      { label: "Resolución", value: "Quad HD / 1080p (ficha ML: 2MP)" },
+      { label: "Compresión de video", value: "H.265, H.264" },
+      { label: "Conectividad", value: "Wi-Fi 2.4 GHz, LAN (RJ45)" },
+      { label: "Detección", value: "IA de forma humana, con seguimiento automático" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Resistencia al agua", value: "IP66 (exterior)" },
+      { label: "Rango de temperatura", value: "-30 °C a 50 °C" },
+      { label: "Almacenamiento", value: "Micro-SD hasta 512 GB o nube EZVIZ (no incluida)" },
+      { label: "Asistentes compatibles", value: "Asistente de Google" },
+      { label: "Vendedor", value: "Tienda oficial TODOSEGURIDAD (MercadoLíder Platinum, +100 mil ventas)" },
+    ],
+    relatedProducts: ["MLA18967142", "MLA66204799", "MLA18711640"],
+    priceUpdated: "2026-07-12",
+    priceLastChecked: "2026-07-12",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-12",
+    description: "Cámara Ezviz C8c: domo motorizado para exterior, IP66, con detección de personas por IA y seguimiento automático. Marca internacional reconocida, vendida por una tienda oficial con más de 100 mil ventas. Contra honesta: alguna reseña reporta que la señal Wi-Fi llega débil según la app, aunque funciona igual.",
+    seoTitle: "Cámara Ezviz C8c exterior: marca internacional, ¿conviene?",
+    metaDescription: "Cámara de seguridad Ezviz C8c domo motorizada IP66: detección de personas por IA, seguimiento y hasta 512 GB de memoria. Precio real y contras honestas.",
+    verdict: "La Ezviz C8c sirve si priorizás una marca internacional reconocida, con detección de personas por IA (no cualquier movimiento) y seguimiento motorizado amplio (350° horizontal). No sirve si el precio es tu prioridad número uno: cuesta más que la SX37, aunque suma motor PTZ, mejor resistencia al agua (IP66) y más capacidad de memoria (512 GB).",
+    pros: [
+      "Marca internacional reconocida, vendida por tienda oficial de MercadoLibre con más de 100 mil ventas",
+      "Detección de personas por inteligencia artificial (reduce falsas alarmas) con seguimiento automático",
+      "Motor PTZ amplio: 350° horizontal y 80° vertical",
+      "IP66, mejor resistencia al agua que la SX37",
+      "Admite micro-SD de hasta 512 GB, la mayor capacidad de esta guía, o nube",
+      "Puerto LAN además de Wi-Fi, como respaldo si la señal falla",
+    ],
+    cons: [
+      "Una reseña detallada reporta que la señal de Wi-Fi le llega \"baja\" según la propia app, aunque funciona correctamente igual",
+      "La misma reseña marca que la respuesta es \"un poco lenta\" cuando se mueve la cámara por PTZ",
+      "La alarma suena menos fuerte de lo que promete la ficha, según esa reseña",
+      "Precio más alto que la SX37 de esta guía",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Excelente producto. La instalación fue sencilla, aunque el lugar que elegí no era tan accesible. La señal del wifi llega \"baja\" según indica la app, pero funciona correctamente y se puede acceder sin problema. Solo es un poco lenta la respuesta cuando hacemos movimientos de la cámara. Las opciones de detección de movimiento, detección humana y horarios de alerta funcionan muy bien. La alarma no es tan ruidosa como dice, pero cumple su propósito.", useful: 2 },
+      { rating: 5, country: "Argentina", date: "2025", text: "La verdad anda muy bien, la instale a 16mts del modem y tiene muy buen alcance!! y de noche se ve bien!!! y viene con su fuente de 220v.", useful: 6 },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Ezviz C8c es una cámara domo motorizada (PTZ) para exterior, de una de las marcas internacionales más reconocidas del rubro. Gira 350° en horizontal y 80° en vertical, y su detección con inteligencia artificial distingue personas del resto del movimiento (una rama, una mascota), reduciendo falsas alarmas.
+
+## Lo bueno
+
+El respaldo de marca es real: la vende una tienda oficial de MercadoLibre con más de 100 mil ventas y calificación MercadoLíder Platinum. La detección de IA con seguimiento automático es lo que más se nota en el uso diario: en vez de alertar por cualquier movimiento, distingue personas y las sigue. Es la más resistente al agua de esta guía (IP66) y la que más memoria admite: hasta 512 GB de micro-SD, o nube.
+
+## La contra real
+
+Una reseña detallada y honesta marca tres matices que vale conocer antes de comprar: la señal de Wi-Fi le llegó "baja" según la propia app (aunque funcionó bien igual), la respuesta es un poco lenta cuando se mueve la cámara con el motor, y la alarma suena menos fuerte de lo que promete la ficha. Ninguno de los tres frenó al comprador, que la calificó con 5 estrellas, pero son el tipo de detalle que solo sale de alguien que la usa. El precio, además, es más alto que la SX37 de esta misma guía.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás una marca internacional con detección inteligente de personas y querés cubrir un área amplia con una sola cámara que gira. No la compres si el precio es lo que más te importa: ahí la SX37 rinde bien por menos plata, aunque sin motor.`,
+    faq: [
+      { question: "¿La Ezviz C8c distingue personas de otros movimientos?", answer: "Sí, tiene detección con inteligencia artificial de forma humana, además de la detección de movimiento común. Reduce las falsas alarmas por mascotas o ramas." },
+      { question: "¿Hasta cuánta memoria admite?", answer: "Micro-SD de hasta 512 GB, la mayor capacidad de esta guía, o almacenamiento en la nube de EZVIZ (con costo aparte)." },
+      { question: "¿Qué tan bien anda el Wi-Fi?", answer: "Una reseña detallada reporta que la señal le llegó \"baja\" según la propia app, pero funcionó correctamente igual. Trae puerto LAN por si preferís conectarla por cable." },
+      { question: "¿Es más cara que otras cámaras exteriores del catálogo?", answer: "Sí, cuesta más que la Gadnic SX37 de esta misma guía. A cambio suma motor PTZ, mejor resistencia al agua (IP66) y más capacidad de memoria." },
+      { question: "¿Sirve para exterior?", answer: "Sí, tiene certificación IP66 y funciona en un rango de -30°C a 50°C según la ficha del fabricante." },
+    ],
+  },
+  {
+    id: "MLA66204799",
+    title: "Cámara De Seguridad DM200W-Pro Gadnic Exterior Domo 2K Visión Nocturna Mejorada 36 LEDS",
+    canonicalName: "Cámara de Seguridad Gadnic DM200W-Pro (domo motorizada 3MP)",
+    price: 54999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_607063-MLA111974320926_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_607063-MLA111974320926_062026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA66204799",
+    affiliateUrl: "https://meli.la/2f8sBDJ",
+    condition: "new",
+    freeShipping: true,
+    rating: 3.9,
+    reviewCount: 11,
+    pastelColor: "var(--pastel-pink)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "DM200W-Pro (SKU P2P00139)" },
+      { label: "Tipo", value: "Domo motorizada (PTZ)" },
+      { label: "Movimiento", value: "Horizontal 355°, vertical 90°" },
+      { label: "Resolución", value: "3 MP (2304 x 1296)" },
+      { label: "Visión nocturna", value: "Dual, con 36 LEDs" },
+      { label: "Detección", value: "Movimiento con seguimiento humano" },
+      { label: "Conectividad", value: "Wi-Fi 2.4 GHz" },
+      { label: "Compatibilidad avanzada", value: "ONVIF y RTSP (integración con NVR/plataformas de terceros)" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Resistencia al agua", value: "IP66 (exterior)" },
+      { label: "Rango de temperatura", value: "-20 °C a 55 °C" },
+      { label: "Almacenamiento", value: "Micro-SD hasta 128 GB o nube (no incluida)" },
+      { label: "App", value: "AJ Cloud (Android e iOS)" },
+      { label: "Garantía", value: "12 meses" },
+    ],
+    relatedProducts: ["MLA18967142", "MLA66806823", "MLA18711640"],
+    priceUpdated: "2026-07-12",
+    priceLastChecked: "2026-07-12",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-12",
+    description: "Cámara Gadnic DM200W-Pro: la más avanzada técnicamente de esta guía, con 3MP, motor PTZ amplio y compatibilidad ONVIF/RTSP para integrarse a sistemas de terceros. Es un modelo recién llegado al catálogo, con apenas 11 calificaciones: la spec no reemplaza al historial.",
+    seoTitle: "Gadnic DM200W-Pro: la cámara exterior más avanzada, ¿conviene?",
+    metaDescription: "Cámara Gadnic DM200W-Pro domo 3MP con ONVIF/RTSP y seguimiento humano. La más avanzada técnicamente, pero con poco historial. Precio y contras reales.",
+    verdict: "La Gadnic DM200W-Pro sirve si sabés lo que es ONVIF/RTSP y querés integrarla a un sistema de cámaras de terceros, o simplemente priorizás la mejor resolución (3MP) y el motor más amplio de esta guía. No sirve si preferís apoyarte en el historial de otros compradores antes de decidir: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (107).",
+    pros: [
+      "La mejor resolución de esta guía: 3MP (2304x1296), contra el Full HD/2MP de las otras dos",
+      "El motor PTZ más amplio: 355° horizontal y 90° vertical",
+      "Detección con seguimiento humano y visión nocturna dual de 36 LEDs",
+      "Compatible con ONVIF y RTSP: se puede integrar a un NVR o sistema de cámaras de terceros",
+      "IP66 y rango de temperatura más amplio (-20°C a 55°C)",
+    ],
+    cons: [
+      "Apenas 11 calificaciones en MercadoLibre: es un modelo recién llegado, sin el historial de las otras dos cámaras de esta guía",
+      "Una reseña de 3 estrellas advierte: \"muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo\", cuestionando en la práctica el aprovechamiento de ONVIF/RTSP",
+      "El ONVIF/RTSP es una ventaja para usuario avanzado: si solo vas a usar la app del fabricante, no la vas a notar",
+    ],
+    customerReviews: [
+      { rating: 3, country: "Argentina", date: "2026", text: "Muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo.", useful: 1 },
+    ],
+    articleBody: `## Qué es y para quién
+
+La Gadnic DM200W-Pro es la cámara domo motorizada más avanzada de esta guía en papel: 3MP de resolución (contra el Full HD de las otras dos), el motor PTZ más amplio (355° horizontal, 90° vertical) y compatibilidad con los protocolos ONVIF y RTSP, que permiten integrarla a un NVR o sistema de cámaras de terceros en vez de depender solo de la app del fabricante.
+
+## Lo bueno
+
+En specs, le gana a las otras dos de esta guía: mejor resolución, mayor rango de movimiento, visión nocturna dual con 36 LEDs y seguimiento de personas. El dato técnico diferencial es ONVIF/RTSP, algo que ningún otro producto de esta guía declara: en teoría, permite conectarla a sistemas de videovigilancia más grandes, no solo a la app propia.
+
+## La contra real
+
+Acá hay que ser honestos: es un modelo recién llegado al catálogo argentino, con apenas 11 calificaciones. Comparado con las 8.606 de la SX37 o las 107 de la Ezviz C8c, es una base de datos chica para confiar a ciegas. Y hay una reseña real de 3 estrellas que le pone un matiz importante a la ventaja de ONVIF/RTSP: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". En criollo: la integración avanzada existe, pero en la práctica un usuario que solo quiere usar la app del fabricante no la va a aprovechar, y quien busque un sistema multimarca puede encontrarse con más letra chica de la esperada.
+
+## Para quién sí y para quién no
+
+Comprala si sos un usuario que entiende de sistemas de videovigilancia y quiere integrarla a un NVR propio, o si simplemente priorizás la mejor resolución y el motor más amplio por sobre el historial de compradores. No la compres si preferís apoyarte en el respaldo de miles de opiniones antes de decidir: para eso, la SX37 o la Ezviz C8c de esta misma guía tienen mucho más recorrido.`,
+    faq: [
+      { question: "¿Qué es ONVIF y RTSP y para qué sirve en esta cámara?", answer: "Son protocolos estándar que permiten conectar la cámara a sistemas de videovigilancia de terceros (NVR, software de seguridad), no solo a la app del fabricante. Es una ventaja para usuarios avanzados; una reseña real advierte que en la práctica algunas opciones de integración vienen con letra chica o requieren pago." },
+      { question: "¿Por qué tiene tan pocas calificaciones?", answer: "Es un modelo recién llegado al catálogo argentino. Con apenas 11 opiniones, tiene mucho menos historial que la Gadnic SX37 (8.606) o la Ezviz C8c (107) de esta misma guía." },
+      { question: "¿Qué resolución tiene comparada con las otras cámaras de esta guía?", answer: "3MP (2304x1296), la mejor de las tres. Las otras dos son Full HD/2MP." },
+      { question: "¿Es motorizada?", answer: "Sí, con el motor PTZ más amplio de esta guía: 355° horizontal y 90° vertical." },
+      { question: "¿Sirve para exterior?", answer: "Sí, tiene certificación IP66 y funciona en un rango de -20°C a 55°C según el fabricante." },
     ],
   },
 
