@@ -29,7 +29,8 @@ const CATALOG_PATH = path.resolve("src/data/curated-products.ts");
 const SITE_URL = (process.env.SITE_URL || "https://productosvirales.com.ar").replace(/\/$/, "");
 const FROM = process.env.EMAIL_FROM || "ProductosVirales <ofertas@productosvirales.com.ar>";
 const SEND = process.argv.includes("--send");
-const MAX_ITEMS = 12; // tope de productos por mail (evita el "message clipped" de Gmail)
+const MAX_ITEMS = 6; // tope de productos por mail (foco + evita el "message clipped" de Gmail; el resto va al sitio)
+const CTA_LABEL = "Ver precio actual"; // honesto (no promete oferta) y menos spammy que "Ver oferta"
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
@@ -62,7 +63,14 @@ function catalogLookup(idSet) {
     if (!idSet.has(id)) continue;
     const aff = b.match(/affiliateUrl:\s*['"`]([^'"`]+)['"`]/);
     const img = b.match(/image:\s*['"`]([^'"`]+)['"`]/);
-    map[id] = { affiliateUrl: aff ? aff[1] : null, image: img ? img[1] : null };
+    const rat = b.match(/(?:^|\n)\s{4}rating:\s*([\d.]+)/); // rating a nivel producto (4 espacios)
+    const rev = b.match(/(?:^|\n)\s{4}reviewCount:\s*(\d+)/);
+    map[id] = {
+      affiliateUrl: aff ? aff[1] : null,
+      image: img ? img[1] : null,
+      rating: rat ? Number(rat[1]) : null,
+      reviewCount: rev ? Number(rev[1]) : null,
+    };
   }
   return map;
 }
@@ -76,73 +84,94 @@ function offerLink(id, cat) {
 
 const FONT = "'Helvetica Neue',Helvetica,Arial,sans-serif";
 
-// Botón pill "bulletproof": VML para Outlook (esquinas redondeadas reales),
-// <a> con bgcolor para el resto. Acento de marca (rosa #E11D63).
-function offerButton(link) {
-  const href = esc(link);
-  return `
-              <table role="presentation" border="0" cellpadding="0" cellspacing="0">
-                <tr><td align="center">
-                  <!--[if mso]>
-                  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="${href}" style="height:38px;v-text-anchor:middle;width:120px;" arcsize="50%" strokecolor="#E11D63" fillcolor="#E11D63">
-                    <w:anchorlock/><center style="color:#ffffff;font-family:${FONT};font-size:14px;font-weight:bold;">Ver oferta</center>
-                  </v:roundrect>
-                  <![endif]-->
-                  <!--[if !mso]><!-- -->
-                  <a href="${href}" target="_blank" style="display:inline-block;background:#E11D63;color:#ffffff;text-decoration:none;font-family:${FONT};font-size:14px;font-weight:600;line-height:38px;padding:0 22px;border-radius:9999px;">Ver oferta</a>
-                  <!--<![endif]-->
-                </td></tr>
-              </table>`;
+function truncateWords(s, max) {
+  if (!s || s.length <= max) return s || "";
+  const cut = s.slice(0, max);
+  const sp = cut.lastIndexOf(" ");
+  return (sp > 20 ? cut.slice(0, sp) : cut).trim() + "…";
 }
 
-function dropRowsHtml(drops, cat) {
-  return drops
-    .map((d, i) => {
-      const c = cat[d.id.toUpperCase()] || {};
-      const link = offerLink(d.id, cat);
-      const off = Math.abs(d.pct);
-      const last = i === drops.length - 1;
-      const thumb = c.image
-        ? `<img src="${esc(c.image)}" width="56" height="56" alt="${esc(d.title)}" style="display:block;width:56px;height:56px;border-radius:12px;border:1px solid #eeeeee;background-color:#f4f4f2;" />`
-        : `<div style="width:56px;height:56px;border-radius:12px;background-color:#f4f4f2;border:1px solid #eeeeee;"></div>`;
-      return `
-        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="row" style="${last ? "" : "border-bottom:1px solid #eeeeee;"}">
+function dateLabelEs(iso) {
+  const d = iso ? new Date(iso + "T12:00:00") : new Date();
+  try {
+    return d.toLocaleDateString("es-AR", { weekday: "long", day: "numeric", month: "long" });
+  } catch (e) {
+    return "";
+  }
+}
+
+// Botón pill "bulletproof": VML para Outlook, <a> con bgcolor para el resto.
+function offerButton(link, label) {
+  const href = esc(link);
+  return `
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td align="left">
+                <!--[if mso]>
+                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="${href}" style="height:40px;v-text-anchor:middle;width:170px;" arcsize="50%" strokecolor="#E11D63" fillcolor="#E11D63">
+                  <w:anchorlock/><center style="color:#ffffff;font-family:${FONT};font-size:14px;font-weight:bold;">${label}</center>
+                </v:roundrect>
+                <![endif]-->
+                <!--[if !mso]><!-- -->
+                <a href="${href}" target="_blank" style="display:inline-block;background:#E11D63;color:#ffffff;text-decoration:none;font-family:${FONT};font-size:14px;font-weight:600;line-height:40px;padding:0 24px;border-radius:9999px;">${label}</a>
+                <!--<![endif]-->
+              </td></tr></table>`;
+}
+
+// Rating honesto (dato real del catálogo). Estrella unicode, no emoji.
+function ratingHtml(c) {
+  if (!c || !c.rating) return "";
+  const rev = c.reviewCount ? ` <span style="color:#c9c9c9;">(${c.reviewCount.toLocaleString("es-AR")})</span>` : "";
+  return `<div class="muted" style="font-family:${FONT};font-size:13px;color:#666666;margin-top:3px;">&#9733; ${c.rating.toFixed(1)}${rev}</div>`;
+}
+
+function productRow(d, cat, isHero, isLast) {
+  const c = cat[d.id.toUpperCase()] || {};
+  const href = esc(offerLink(d.id, cat));
+  const off = Math.abs(d.pct);
+  const thumb = c.image
+    ? `<img src="${esc(c.image)}" width="72" height="72" alt="${esc(d.title)}" style="display:block;width:72px;height:72px;border-radius:12px;border:1px solid #eeeeee;background-color:#f4f4f2;" />`
+    : `<div style="width:72px;height:72px;border-radius:12px;background-color:#f4f4f2;border:1px solid #eeeeee;"></div>`;
+  return `
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="row" style="${isLast ? "" : "border-bottom:1px solid #eeeeee;"}">
           <tr>
-            <td width="56" valign="top" style="padding:20px 0;">
-              <table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td width="56" height="56" bgcolor="#f4f4f2" style="background-color:#f4f4f2;border-radius:12px;">${thumb}</td></tr></table>
+            <td width="72" valign="top" style="padding:22px 0;">
+              <a href="${href}" target="_blank"><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td width="72" height="72" bgcolor="#f4f4f2" style="background-color:#f4f4f2;border-radius:12px;">${thumb}</td></tr></table></a>
             </td>
-            <td valign="top" style="padding:20px 0 20px 16px;">
-              <div class="text-main" style="font-family:${FONT};font-size:16px;font-weight:600;color:#111111;line-height:1.3;">${esc(d.title)}</div>
-              <div style="font-family:${FONT};font-size:14px;margin:6px 0 14px;">
-                <span style="text-decoration:line-through;color:#999999;">${fmtPrice(d.stored)}</span>
-                &nbsp;<strong style="color:#16a34a;">${fmtPrice(d.scraped)}</strong>
-                &nbsp;<span class="chip" style="background-color:#fce7f0;color:#c2185b;font-size:12px;font-weight:700;padding:2px 8px;border-radius:10px;">-${off}%</span>
-              </div>${offerButton(link)}
+            <td valign="top" style="padding:22px 0 22px 16px;">
+              ${isHero ? `<div style="font-family:${FONT};font-size:11px;font-weight:700;color:#e11d63;letter-spacing:.05em;text-transform:uppercase;margin-bottom:5px;">Mejor bajada de hoy</div>` : ""}
+              <a href="${href}" target="_blank" class="text-main" style="font-family:${FONT};font-size:16px;font-weight:600;color:#111111;line-height:1.3;text-decoration:none;">${esc(d.title)}</a>
+              ${ratingHtml(c)}
+              <div class="text-main" style="font-family:${FONT};font-size:15px;color:#111111;margin:9px 0 15px;">
+                <span class="muted" style="text-decoration:line-through;color:#999999;">${fmtPrice(d.stored)}</span>
+                &nbsp;<strong style="font-size:18px;">${fmtPrice(d.scraped)}</strong>
+                &nbsp;<span class="chip" style="background-color:#fce7f0;color:#e11d63;font-size:12px;font-weight:700;padding:3px 8px;border-radius:10px;white-space:nowrap;">-${off}%</span>
+              </div>${offerButton(offerLink(d.id, cat), CTA_LABEL)}
             </td>
           </tr>
         </table>`;
-    })
-    .join("");
 }
 
-// Asunto honesto, casual, sin emoji ni urgencia (voice.md).
+function dropRowsHtml(drops, cat) {
+  return drops.map((d, i) => productRow(d, cat, i === 0, i === drops.length - 1)).join("");
+}
+
+// Asunto tipo ALERTA (no promo): sin "%", sin "oferta", sin emoji.
 function subject(shown, totalFresh) {
+  if (totalFresh > 1) return `Detectamos ${totalFresh} bajas de precio`;
   const top = shown[0];
-  if (top && totalFresh > 1) return `Bajó de precio ${top.title.slice(0, 42)} y ${totalFresh - 1} más`;
-  if (top) return `Bajó de precio ${top.title.slice(0, 60)}`;
-  return "Nuevas bajas de precio en MercadoLibre";
+  return top ? `Bajó de precio: ${truncateWords(top.title, 48)}` : "Nuevas bajas de precio";
 }
 
-function emailHtml(shown, cat, email, totalFresh) {
+function emailHtml(shown, cat, email, totalFresh, dateIso) {
   const top = shown[0];
+  const dLabel = dateLabelEs(dateIso);
   const preheader = top
-    ? `${top.title.slice(0, 48)} bajó ${Math.abs(top.pct)}%${totalFresh > 1 ? ` y ${totalFresh - 1} más` : ""}.`
-    : "Nuevas bajas de precio.";
+    ? `${truncateWords(top.title, 44)} quedó en ${fmtPrice(top.scraped)}. Los precios pueden cambiar.`
+    : "Nuevas bajas de precio en MercadoLibre.";
   const moreCount = totalFresh - shown.length;
   const moreLine =
     moreCount > 0
-      ? `<tr><td align="center" style="padding:8px 40px 32px;"><a href="${SITE_URL}" class="muted" style="font-family:${FONT};font-size:14px;color:#666666;text-decoration:none;">y ${moreCount} baja${moreCount > 1 ? "s" : ""} más en el sitio</a></td></tr>`
-      : `<tr><td style="padding:0 0 12px;"></td></tr>`;
+      ? `<tr><td align="center" style="padding:6px 40px 30px;"><a href="${SITE_URL}" class="muted" style="font-family:${FONT};font-size:14px;color:#666666;text-decoration:underline;">Ver las ${moreCount} baja${moreCount > 1 ? "s" : ""} restantes</a></td></tr>`
+      : `<tr><td style="padding:0 0 10px;"></td></tr>`;
   return `<!DOCTYPE html>
 <html lang="es" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
@@ -157,8 +186,9 @@ function emailHtml(shown, cat, email, totalFresh) {
     .body-bg{background-color:#0c0c18!important;}
     .card{background-color:#16162a!important;border-color:rgba(255,255,255,.10)!important;}
     .text-main{color:#e8e8ec!important;}
-    .muted{color:#999999!important;}
+    .muted{color:#9a9aa5!important;}
     .row{border-color:rgba(255,255,255,.10)!important;}
+    .chip{background-color:#3a1830!important;color:#ff8ab8!important;}
   }
 </style>
 </head>
@@ -167,23 +197,23 @@ function emailHtml(shown, cat, email, totalFresh) {
   <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="body-bg" style="background-color:#f8f8f6;">
     <tr><td align="center" style="padding:40px 12px;">
       <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" class="card" style="width:100%;max-width:600px;background-color:#ffffff;border:1px solid #eeeeee;border-radius:20px;">
-        <tr><td align="center" style="padding:36px 40px 8px;">
-          <span class="text-main" style="font-family:${FONT};font-size:20px;font-weight:800;color:#111111;letter-spacing:-.02em;">productos<span style="background-color:#fce7f0;color:#e11d63;padding:3px 11px;border-radius:9999px;margin-left:3px;">virales</span></span>
+        <tr><td align="center" style="padding:34px 40px 6px;">
+          ${dLabel ? `<div class="muted" style="font-family:${FONT};font-size:11px;font-weight:700;color:#999999;letter-spacing:.1em;text-transform:uppercase;margin-bottom:8px;">${esc(dLabel)}</div>` : ""}
+          <span class="text-main" style="font-family:${FONT};font-size:22px;font-weight:800;color:#111111;letter-spacing:-.03em;">productos<span style="background-color:#fce7f0;color:#e11d63;padding:3px 11px;border-radius:9999px;margin-left:4px;">virales</span></span>
         </td></tr>
-        <tr><td align="left" style="padding:16px 40px 4px;">
+        <tr><td align="left" style="padding:18px 40px 2px;">
           <h1 class="text-main" style="margin:0;font-family:${FONT};font-size:23px;font-weight:700;color:#111111;letter-spacing:-.02em;line-height:1.25;">Encontramos ${totalFresh} baja${totalFresh > 1 ? "s" : ""} de precio</h1>
-          <p class="muted" style="margin:10px 0 4px;font-family:${FONT};font-size:15px;color:#666666;line-height:1.55;">Estas bajaron hoy en MercadoLibre. El precio puede cambiar, confirmalo en el link.</p>
+          <p class="muted" style="margin:10px 0 4px;font-family:${FONT};font-size:15px;color:#666666;line-height:1.55;">Recibís esta alerta porque pediste seguir bajas de precio. Estas bajaron hoy en MercadoLibre — el precio puede cambiar, confirmalo en el link.</p>
         </td></tr>
-        <tr><td style="padding:8px 40px 0;">${dropRowsHtml(shown, cat)}</td></tr>
+        <tr><td style="padding:6px 40px 0;">${dropRowsHtml(shown, cat)}</td></tr>
         ${moreLine}
       </table>
       <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="600" style="width:100%;max-width:600px;">
-        <tr><td align="center" style="padding:28px 24px 8px;font-family:${FONT};font-size:13px;color:#999999;line-height:1.6;">
-          <span class="muted">Ganamos una comisión si comprás por los links — no te cambia el precio.</span><br>
-          <span class="muted">Recibís esto porque pediste alertas de precio en productosvirales.com.ar.</span><br>
-          <a href="${SITE_URL}/privacidad" class="muted" style="color:#999999;text-decoration:underline;">Privacidad</a>
+        <tr><td align="center" style="padding:26px 24px 8px;font-family:${FONT};font-size:13px;color:#737373;line-height:1.6;">
+          <span class="muted" style="color:#737373;">Ganamos una comisión si comprás por los links — no te cambia el precio.</span><br>
+          <a href="${SITE_URL}/privacidad" class="muted" style="color:#737373;text-decoration:underline;">Privacidad</a>
           &nbsp;·&nbsp;
-          <a href="${unsubUrl(email)}" class="muted" style="color:#999999;text-decoration:underline;">Cancelar suscripción</a>
+          <a href="${unsubUrl(email)}" class="muted" style="color:#737373;text-decoration:underline;">Cancelar suscripción</a>
         </td></tr>
       </table>
     </td></tr>
@@ -238,11 +268,10 @@ async function main() {
       }
       if (sample.length >= 3) break;
     }
-    const cat = {};
-    sample.forEach((s) => (cat[s.id.toUpperCase()] = { image: s.image, affiliateUrl: null }));
+    const cat = catalogLookup(new Set(sample.map((s) => s.id.toUpperCase())));
     const out = path.resolve(".cache/email-preview.html");
     fs.mkdirSync(path.dirname(out), { recursive: true });
-    fs.writeFileSync(out, emailHtml(sample, cat, "vos@ejemplo.com", 15));
+    fs.writeFileSync(out, emailHtml(sample, cat, "vos@ejemplo.com", 15, new Date().toISOString().slice(0,10)));
     console.log("[email] preview -> " + out);
     return;
   }
@@ -252,6 +281,7 @@ async function main() {
     return;
   }
   const parsed = JSON.parse(fs.readFileSync(DROPS_PATH, "utf8"));
+  const runDate = parsed.date || null;
   const drops = (parsed.drops || []).filter((d) => d.scraped < d.stored);
   if (drops.length === 0) {
     console.log("[email] sin bajas reales en esta corrida — nada que mandar.");
@@ -300,7 +330,7 @@ async function main() {
           from: FROM,
           to: email,
           subject: subject(shown, fresh.length),
-          html: emailHtml(shown, cat, email, fresh.length),
+          html: emailHtml(shown, cat, email, fresh.length, runDate),
           headers: {
             "List-Unsubscribe": `<${unsubUrl(email)}>`,
             "List-Unsubscribe-Post": "List-Unsubscribe=One-Click",
