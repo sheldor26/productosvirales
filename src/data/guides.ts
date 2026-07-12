@@ -3346,6 +3346,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
+      { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
       { label: "Termotanque eléctrico: cuál comprar y cuál conviene", href: "/guias/agua-caliente/termotanque-electrico" },
       { label: "Aire acondicionado portátil: cuál comprar en Argentina", href: "/guias/climatizacion/aire-acondicionado-portatil" },
     ],
@@ -3447,6 +3448,107 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+    ],
+    internalLinksTitle: "Más guías de seguridad",
+  },
+  {
+    slug: "kit-camaras-seguridad",
+    category: "seguridad",
+    silo: "seguridad",
+    pillar: false,
+    title: `Kit de cámaras de seguridad: cuál comprar en Argentina [2026]`,
+    seoTitle: `Kit de Cámaras de Seguridad: Cuál Comprar en Argentina`,
+    metaDescription: `Comparamos los mejores kits de cámaras de seguridad: TP-Link Tapo (WiFi) y Dahua (cableado). Cubrí más de un punto con precio de kit real.`,
+    ogTitle: `Kit de cámaras de seguridad: cuál comprar en Argentina`,
+    ogDescription: `Del kit WiFi que instalás en 10 minutos al sistema cableado que no depende del Wi-Fi. Comparamos los kits de cámaras de seguridad más vendidos de Argentina por tipo de instalación y precio real.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp`,
+    h1: `Kit de cámaras de seguridad: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `El mejor kit de cámaras de seguridad depende de si podés pasar cables o preferís algo simple. Para la mayoría, que quiere cubrir dos puntos exteriores (entrada y patio, por ejemplo) sin obra, el más elegido es el **kit TP-Link Tapo C500 x2** (alrededor de {{precio:MLA37095830:k}}): WiFi, motorizado, con detección de personas por IA y más de 22.500 calificaciones. Para interior al menor precio, el Tapo C200 x2; y si podés pasar cables y querés un sistema que nunca dependa del Wi-Fi, el kit Dahua DVR cableado.`,
+    publishedDate: "2026-07-12",
+    updatedDate: "2026-07-12",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Un kit de cámaras de seguridad arranca en {{precio:MLA34238889:k}} (dos cámaras WiFi de interior) y llega a {{precio:MLA37497335:k}} (sistema cableado con 4 cámaras, grabador y disco incluidos). Te mostramos cuál conviene según puedas o no pasar cables, comparando los más vendidos de Argentina con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA37095830", label: "El más elegido", labelColor: "blue", tagline: "Tapo C500 x2: WiFi exterior con IA, más de 22.500 opiniones" },
+      { productMlaId: "MLA34238889", label: "El más económico", labelColor: "amber", tagline: "Tapo C200 x2: WiFi de interior, el kit más barato" },
+      { productMlaId: "MLA37497335", label: "El sistema cableado", labelColor: "purple", tagline: "Dahua DVR 4ch: nunca depende del Wi-Fi, grabador incluido" },
+      { productMlaId: "MLA48013621", label: "Alternativa de 3 unidades", labelColor: "green", tagline: "Kit 3 Geotek: para cubrir toda la casa, ya en nuestra guía general" },
+    ],
+    intro: [
+      `Comprar un kit en vez de cámaras sueltas tiene una sola razón de fondo: cubrir más de un punto (la entrada y el patio, dos ambientes de un local) a un precio conjunto mejor que comprarlas por separado. La decisión que más importa antes de elegir kit no es la marca, es el **tipo de instalación**: WiFi, que se conecta en minutos sin tocar una pared, o cableado, que exige pasar cables pero nunca depende de la señal inalámbrica de tu casa.`,
+      `En esta guía comparamos los kits de cámaras más vendidos de Argentina de los dos tipos: WiFi plug-and-play (TP-Link Tapo) y sistema cableado tradicional (Dahua), para que elijas según cuánta instalación estés dispuesto a hacer. Si buscás una sola cámara para un solo punto, mirá antes la [guía de cámaras exteriores individuales](/guias/seguridad/camara-de-seguridad-exterior).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp", alt: `Kit de cámaras de seguridad TP-Link Tapo C500, dos unidades para exterior`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los kits de cámaras de seguridad con más ventas y opiniones reales en MercadoLibre Argentina, cubriendo los dos tipos de instalación (WiFi y cableado) para no dejar afuera a quien puede pasar cables ni a quien busca algo simple. Las calificaciones y reseñas citadas son de compradores reales, incluida al menos una contra honesta por producto. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `WiFi o cableado: la decisión antes de elegir marca`, id: "wifi-o-cableado" },
+      { type: "p", content: `Un kit **WiFi** (como los de TP-Link Tapo) es plug-and-play: cada cámara solo necesita un enchufe cerca y se conecta a tu red de internet. Lo instalás en minutos, sin taladro ni cables largos, pero depende de que el Wi-Fi llegue bien a donde la pongas.` },
+      { type: "p", content: `Un kit **cableado** (como el de Dahua) es un sistema más tradicional: cada cámara va conectada por cable físico a un grabador (DVR) que guarda todo en un disco propio. Nunca se tilda por Wi-Fi débil, pero hay que pasar un cable desde cada cámara hasta el grabador, algo que conviene planificar si la casa ya está terminada.` },
+      { type: "list", items: [
+        `Querés instalarlo vos mismo en una tarde, sin obra: kit WiFi (Tapo C500 o C200 de esta guía).`,
+        `Estás construyendo o remodelando y podés pasar cables: kit cableado (Dahua de esta guía).`,
+        `Necesitás que nunca dependa de tu Wi-Fi (negocio, zona con señal floja): kit cableado.`,
+      ]},
+
+      { type: "h2", title: `Los mejores kits de cámaras de seguridad 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. TP-Link Tapo C500 x2 — el más elegido` },
+      { type: "product-card", productMlaId: "MLA37095830", label: "El más elegido", labelColor: "blue", ranking: 1, description: `Dos cámaras WiFi motorizadas para exterior, con detección de personas por IA y visión nocturna a color. 4.8 estrellas en más de 22.500 calificaciones: el kit con mayor historial del catálogo.` },
+      { type: "p", content: `Si querés cubrir dos puntos exteriores (la entrada y el patio, por ejemplo) sin tocar una pared, el kit Tapo C500 x2 es el más elegido de Argentina: más de 22.500 calificaciones, muy por encima de cualquier otro kit de esta guía. Cada cámara gira 360°, detecta personas por inteligencia artificial (no cualquier movimiento) y graba de noche a color, a alrededor de {{precio:MLA37095830:k}}.` },
+      { type: "p", content: `Lo honesto: la detección es tan sensible que, hasta calibrar las zonas de exclusión en la app, puede mandar más de 100 notificaciones por día, según una reseña. No es un defecto, es un ajuste que conviene hacer la primera semana.` },
+      { type: "pull-quote", content: `Es la primera cámara que compro. He estado usando la Tapo durante casi una semana y me ha gustado mucho. Punto negativo: por más que reduzca la sensibilidad del movimiento, ella notifica cualquier movimiento, por lo que llegan más de 100 notificaciones al celular y tengo que filtrar manualmente lo que es relevante.`, attribution: `— Comprador verificado en MercadoLibre, 4 de 5 estrellas, 2025` },
+
+      { type: "h3", title: `2. TP-Link Tapo C200 x2 — el más económico` },
+      { type: "product-card", productMlaId: "MLA34238889", label: "El más económico", labelColor: "amber", ranking: 2, description: `Dos cámaras WiFi motorizadas de interior, el kit más barato de esta guía. 4.9 estrellas en 236 calificaciones.` },
+      { type: "p", content: `Para interior (living, cuarto del bebé, depósito chico) al menor precio, el Tapo C200 x2 cumple de sobra: gira 360° en horizontal, tiene audio bidireccional y se instala solo con un enchufe cerca, a alrededor de {{precio:MLA34238889:k}}. Es el kit más económico de esta comparativa.` },
+      { type: "p", content: `Lo honesto: es solo de interior, sin certificación de resistencia al agua, y no tiene visión nocturna a color como el Tapo C500. Su memoria máxima (64 GB) también es la más chica de esta guía.` },
+
+      { type: "h3", title: `3. Dahua DVR 4ch — el sistema cableado` },
+      { type: "product-card", productMlaId: "MLA37497335", label: "El sistema cableado", labelColor: "purple", ranking: 3, description: `4 cámaras bala fijas conectadas por cable a un grabador con disco incluido. No depende del Wi-Fi. 4.8 estrellas en 423 calificaciones.` },
+      { type: "p", content: `Si podés pasar cables (una obra, una remodelación) y querés un sistema que nunca dependa del Wi-Fi de tu casa, el kit Dahua suma 4 cámaras, un grabador (DVR) y el disco rígido para guardar todo, a alrededor de {{precio:MLA37497335:k}}. Una reseña cuenta que tiene un kit de la marca funcionando sin problemas hace 8 años.` },
+      { type: "p", content: `Lo honesto, y es importante: **el cable y las cajas de conexión no vienen incluidos**. El kit trae las cámaras, el grabador y el disco, pero instalar las 4 cámaras significa pasar 4 cables físicos hasta el DVR, un gasto y un trabajo extra que conviene planificar antes de comprar.` },
+      { type: "pull-quote", content: `Cumple su función. Fácil instalación. Solo hay que comprar el cable utp a parte, y las cajas a parte. Luego todo bárbaro.`, attribution: `— Comprador verificado en MercadoLibre, 4 de 5 estrellas, 2025` },
+
+      { type: "h2", title: `Tabla comparativa: kits de cámaras de seguridad`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Instalación`, `Cámaras`, `Ideal para`], rows: [
+        [`[Tapo C500 x2](https://meli.la/2Nnqhhq)`, `{{precio:MLA37095830}}`, `WiFi`, `2, exterior`, `El más elegido, cubrir 2 puntos`],
+        [`[Tapo C200 x2](https://meli.la/2neW4V9)`, `{{precio:MLA34238889}}`, `WiFi`, `2, interior`, `El más económico`],
+        [`[Dahua DVR 4ch](https://meli.la/2SsQ668)`, `{{precio:MLA37497335}}`, `Cableado`, `4, exterior`, `No depender del Wi-Fi`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu kit de cámaras de seguridad`, id: "como-elegir" },
+      { type: "h3", title: `1. Cuántos puntos necesitás cubrir` },
+      { type: "p", content: `Un kit de 2 (Tapo C500 o C200 de esta guía) alcanza para cubrir la entrada y un punto más. Si necesitás 4 o más cámaras, un kit cableado como el Dahua sale mejor por cámara que sumar varios kits de 2 WiFi.` },
+      { type: "h3", title: `2. El gasto extra que nadie cuenta` },
+      { type: "p", content: `En un kit WiFi, el gasto extra suele ser la memoria (no incluida en ninguno de los dos Tapo de esta guía). En un kit cableado como el Dahua, el gasto extra es el cable UTP y las cajas de conexión, que tampoco vienen incluidos. Presupuestalo antes de comprar, sea cual sea el tipo que elijas.` },
+      { type: "h3", title: `3. Exterior o interior` },
+      { type: "p", content: `El Tapo C200 de esta guía es solo interior, sin certificación de resistencia al agua. El Tapo C500 sí tiene certificación IP65 confirmada para exterior. El Dahua está pensado para exterior y su ficha lo declara resistente al agua, aunque sin un número de IP específico: ahí lo que más importa es proteger bien las conexiones del cableado. Si dudás entre cubrir solo un punto exterior en vez de dos, la [guía de cámaras exteriores individuales](/guias/seguridad/camara-de-seguridad-exterior) compara opciones sueltas.` },
+
+      { type: "h2", title: `Cuánto cuesta un kit de cámaras de seguridad [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA34238889:k}}:** el [Tapo C200 x2](https://meli.la/2neW4V9), WiFi de interior, el más barato.`,
+        `**Alrededor de {{precio:MLA37095830:k}}:** el [Tapo C500 x2](https://meli.la/2Nnqhhq), WiFi de exterior con IA, el más elegido.`,
+        `**Alrededor de {{precio:MLA37497335:k}}:** el [Dahua DVR 4ch](https://meli.la/2SsQ668), sistema cableado con grabador y disco incluidos.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál kit de cámaras de seguridad comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, que quiere cubrir dos puntos exteriores sin tocar una pared, el **Tapo C500 x2**: WiFi, con IA y el mayor respaldo de compradores. Para interior al menor precio, el **Tapo C200 x2**. Y si podés pasar cables y priorizás que nunca dependa del Wi-Fi, el **Dahua DVR 4ch**, aunque el cableado y las cajas de conexión se compran aparte.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor kit de cámaras de seguridad en Argentina?`, answer: `El más elegido es el kit TP-Link Tapo C500 x2, con más de 22.500 calificaciones: WiFi, motorizado, con detección de personas por IA. Para interior al menor precio, el Tapo C200 x2. Para un sistema cableado que no dependa del Wi-Fi, el kit Dahua DVR 4ch.` },
+      { question: `¿Kit WiFi o kit cableado?`, answer: `WiFi si querés instalarlo vos mismo en una tarde sin obra. Cableado si podés pasar cables (una remodelación) y preferís un sistema que nunca dependa de la señal inalámbrica de tu casa.` },
+      { question: `¿Los kits de cámaras incluyen todo lo necesario para instalar?`, answer: `No siempre. Los kits WiFi de esta guía no incluyen la memoria para grabar. El kit Dahua cableado no incluye el cable UTP ni las cajas de conexión: hay que comprarlos aparte.` },
+      { question: `¿Por qué comprar un kit en vez de cámaras sueltas?`, answer: `Para cubrir más de un punto (entrada y patio, por ejemplo) a un precio conjunto mejor que comprar cada cámara por separado.` },
+      { question: `¿Cuántas cámaras necesito?`, answer: `Un kit de 2 alcanza para cubrir la entrada y un punto más. Para 4 o más cámaras, un sistema cableado como el Dahua sale mejor por cámara que sumar varios kits WiFi.` },
+      { question: `¿Sirven para exterior?`, answer: `El Tapo C500 sí, con certificación IP65 confirmada. El Dahua está pensado para exterior según su ficha (resistente al agua, sin número de IP específico), pero conviene proteger bien las conexiones del cableado. El Tapo C200 es solo de interior.` },
+    ],
+    internalLinks: [
+      { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
     ],
     internalLinksTitle: "Más guías de seguridad",
   },

@@ -50529,6 +50529,256 @@ Comprala si sos un usuario que entiende de sistemas de videovigilancia y quiere 
     ],
   },
 
+  // ─── Kits de cámaras de seguridad — importados via Chrome + Bright Data (jul 2026, API ML caída). Satélite "kit-camaras-seguridad" del silo seguridad ───
+  {
+    id: "MLA37095830",
+    title: "Kit X2 Cámaras Vigilancia TP-Link Tapo C500 WIFI IP para exteriores Full Hd 1080p Detección de personas y seguimiento de movimiento con IA rotación 360°",
+    canonicalName: "Kit TP-Link Tapo C500 x2 (WiFi exterior)",
+    price: 149000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA37095830",
+    affiliateUrl: "https://meli.la/2Nnqhhq",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 22553,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "TP-Link" },
+      { label: "Línea / Modelo", value: "Tapo C500 V2.80" },
+      { label: "Unidades por pack", value: "2" },
+      { label: "Tipo", value: "Domo motorizada (PTZ 360°), WiFi" },
+      { label: "Resolución", value: "Full HD" },
+      { label: "Visión nocturna", value: "A color, alcance 30 m" },
+      { label: "Detección", value: "Movimiento e IA de personas, con seguimiento" },
+      { label: "Conectividad", value: "Wi-Fi" },
+      { label: "Resistencia al agua", value: "IP65 (interior y exterior)" },
+      { label: "Rango de temperatura", value: "0°C a 40°C" },
+      { label: "Almacenamiento", value: "Micro-SD hasta 512 GB (no incluida)" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Asistentes compatibles", value: "Alexa, Google, Tapo Care" },
+      { label: "Zoom digital", value: "8x" },
+    ],
+    relatedProducts: ["MLA18967142", "MLA66806823", "MLA34238889"],
+    priceUpdated: "2026-07-12",
+    priceLastChecked: "2026-07-12",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-12",
+    description: "Kit TP-Link Tapo C500 x2: dos cámaras WiFi motorizadas para exterior, con detección de personas por IA y visión nocturna a color. Más de 22.500 calificaciones, el kit de cámaras con mayor historial del catálogo. Contra honesta: la detección es tan sensible que puede saturar de notificaciones hasta calibrar las zonas de exclusión.",
+    seoTitle: "Kit Tapo C500 x2: cubrí dos puntos exteriores, ¿conviene?",
+    metaDescription: "Kit TP-Link Tapo C500 x2 WiFi exterior: detección de personas por IA, visión nocturna a color y más de 22.500 calificaciones. Precio real y contras honestas.",
+    verdict: "El kit Tapo C500 x2 sirve si querés cubrir dos puntos exteriores (por ejemplo, entrada y patio) sin pasar cables, con la marca de cámaras WiFi con más respaldo del catálogo. No sirve si buscás un sistema que no dependa del Wi-Fi de tu casa: para eso, un kit DVR cableado como el Dahua es más estable.",
+    pros: [
+      "El kit de cámaras con más historial del catálogo: más de 22.500 calificaciones y 4.8 de promedio",
+      "Dos cámaras motorizadas con detección de personas por IA, no solo movimiento genérico",
+      "Visión nocturna a color, no solo blanco y negro",
+      "IP65: sirve para exterior e interior",
+      "Admite hasta 512 GB de memoria, la mayor capacidad de esta guía",
+    ],
+    cons: [
+      "La memoria no viene incluida",
+      "La detección es tan sensible que, hasta calibrar las zonas de exclusión en la app, puede mandar más de 100 notificaciones por día, según una reseña",
+      "Depende del Wi-Fi: si la señal no llega bien a donde se instala, se puede tildar",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "La cámara ofrece una excelente calidad de imagen y rotación, con visión diurna y nocturna nítida. La aplicación es fácil de usar y completa, permitiendo un control eficiente y notificaciones sin retraso. Además, es resistente a condiciones climáticas adversas, lo que la hace ideal para uso en exteriores.", useful: 8 },
+      { rating: 4, country: "Argentina", date: "2025", text: "Es la primera cámara que compro. He estado usando la Tapo durante casi una semana y me ha gustado mucho. Punto negativo: por más que reduzca la sensibilidad del movimiento, ella notifica cualquier movimiento, por lo que llegan más de 100 notificaciones al celular y tengo que filtrar manualmente lo que es relevante.", useful: 5 },
+    ],
+    articleBody: `## Qué es y para quién
+
+El kit Tapo C500 x2 son dos cámaras WiFi motorizadas para exterior, de la línea de TP-Link con más respaldo de compradores del catálogo: más de 22.500 calificaciones. La ventaja de comprarlas de a dos es cubrir dos puntos (entrada y patio, por ejemplo) al mismo precio conjunto, sin pasar un solo cable.
+
+## Lo bueno
+
+La detección por inteligencia artificial distingue personas del resto del movimiento, y el seguimiento automático mantiene el objetivo en cuadro. La visión nocturna es a color, no el blanco y negro habitual, y la certificación IP65 la hace apta para exterior. Es la que más memoria admite de esta guía: hasta 512 GB.
+
+## La contra real
+
+Una reseña detallada advierte que la detección es tan sensible que, antes de calibrar las zonas de exclusión en la app, el celular puede recibir más de 100 notificaciones por día. No es un defecto de fábrica: es una función que hay que ajustar la primera semana. Como toda cámara WiFi, depende de la señal: si no llega bien a donde se instala, se puede tildar.
+
+## Para quién sí y para quién no
+
+Comprá este kit si querés cubrir dos puntos exteriores sin pasar cables y con el mayor respaldo de compradores en cámaras WiFi. No lo compres si preferís un sistema que no dependa para nada del Wi-Fi de tu casa: para eso, un kit DVR cableado es más estable.`,
+    faq: [
+      { question: "¿El kit Tapo C500 x2 sirve para exterior?", answer: "Sí, tiene certificación IP65 y funciona en un rango de 0°C a 40°C." },
+      { question: "¿Por qué manda tantas notificaciones?", answer: "La detección por IA es muy sensible por defecto. Una reseña recomienda calibrar las zonas de exclusión en la app la primera semana para filtrar movimiento irrelevante (autos pasando, ramas)." },
+      { question: "¿Necesita memoria aparte?", answer: "Sí, admite micro-SD de hasta 512 GB que se compra aparte, o se puede usar con la nube de TP-Link (con costo)." },
+      { question: "¿Tiene visión nocturna a color?", answer: "Sí, a diferencia de la mayoría de las cámaras que solo graban en blanco y negro de noche." },
+      { question: "¿Por qué elegir un kit de dos en vez de una sola cámara?", answer: "Para cubrir dos puntos distintos (por ejemplo, entrada y patio trasero) al mismo precio conjunto, en vez de comprar dos cámaras sueltas por separado." },
+    ],
+  },
+  {
+    id: "MLA34238889",
+    title: "Kit x2 Cámara de seguridad WIFI IP TP-Link Tapo c200 TAPO con resolución 2MP visión nocturna incluida color blanco",
+    canonicalName: "Kit TP-Link Tapo C200 x2 (WiFi interior)",
+    price: 89719,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_728923-MLA96415621498_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_728923-MLA96415621498_102025-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA34238889",
+    affiliateUrl: "https://meli.la/2neW4V9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 236,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "TP-Link" },
+      { label: "Línea / Modelo", value: "Tapo C200" },
+      { label: "Unidades por pack", value: "2" },
+      { label: "Tipo", value: "Domo motorizada, WiFi, solo interior" },
+      { label: "Resolución", value: "2MP / Full HD" },
+      { label: "Visión nocturna", value: "Sí, sin color, alcance 30 m" },
+      { label: "Movimiento", value: "360° horizontal, 149° vertical" },
+      { label: "Conectividad", value: "Wi-Fi" },
+      { label: "Almacenamiento", value: "SD hasta 64 GB o nube (no incluida)" },
+      { label: "Audio bidireccional", value: "Sí" },
+      { label: "Asistentes compatibles", value: "Alexa, Google" },
+      { label: "Zoom digital", value: "4x" },
+    ],
+    relatedProducts: ["MLA37095830", "MLA37497335", "MLA18711640"],
+    priceUpdated: "2026-07-12",
+    priceLastChecked: "2026-07-12",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-12",
+    description: "Kit TP-Link Tapo C200 x2: dos cámaras WiFi motorizadas de interior, el kit más económico del catálogo. 4.9 de promedio en 236 calificaciones. Solo para interior: no tiene certificación de resistencia al agua.",
+    seoTitle: "Kit Tapo C200 x2: el más económico para interior",
+    metaDescription: "Kit TP-Link Tapo C200 x2, WiFi de interior: el más económico del catálogo, 4.9 estrellas. Ideal para depto, mascotas o bebé. Precio real y contras.",
+    verdict: "El kit Tapo C200 x2 sirve si necesitás dos cámaras de interior (living, cuarto del bebé, depósito) al menor precio del catálogo. No sirve para exterior: no tiene certificación de resistencia al agua ni visión nocturna a color.",
+    pros: [
+      "El kit de cámaras más económico de esta guía, con 4.9 de promedio",
+      "Motorizada 360° horizontal: cubre todo un ambiente con una sola cámara",
+      "Audio bidireccional, útil para hablarle a mascotas o chequear al bebé",
+      "Fácil de instalar: solo necesita un enchufe cerca",
+    ],
+    cons: [
+      "Solo interior: sin certificación de resistencia al agua",
+      "Sin visión nocturna a color, a diferencia del Tapo C500 de esta misma guía",
+      "Memoria máxima de 64 GB, la más chica de esta guía",
+      "Alcance de detección de 9 metros, más corto que el resto",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Excelente producto. Me decidí por esta cámara y estoy totalmente satisfecha: muy buena conexión, gran nitidez de imagen y excelente visión nocturna. Me encanta que tenga función de audio para poder hablar. La compré para ver a mis mascotas cuando voy a trabajar y estoy súper conforme.", useful: 4 },
+      { rating: 5, country: "Argentina", date: "2025", text: "La cámara ofrece una excelente calidad de imagen y visión nocturna. Es fácil de instalar y tiene una buena conexión, lo que la hace muy práctica para el monitoreo.", useful: 3 },
+    ],
+    articleBody: `## Qué es y para quién
+
+El kit Tapo C200 x2 son dos cámaras WiFi motorizadas pensadas para interior: living, cuarto del bebé, depósito chico o negocio. Es el kit de cámaras más económico de esta guía, con 4.9 de promedio en 236 calificaciones.
+
+## Lo bueno
+
+Cada cámara gira 360° en horizontal, así que una sola cubre todo un ambiente. El audio bidireccional se usa mucho para hablarle a mascotas o chequear al bebé sin entrar al cuarto. La instalación es simple: solo necesita un enchufe cerca, sin cables de red ni configuración compleja.
+
+## La contra real
+
+Es solo de interior: no tiene certificación de resistencia al agua, así que no va afuera. Tampoco tiene visión nocturna a color como el Tapo C500 de esta misma guía, y su memoria máxima (64 GB) es la más chica de las tres opciones comparadas. El alcance de detección (9 metros) también es más corto.
+
+## Para quién sí y para quién no
+
+Comprá este kit si necesitás dos cámaras de interior al menor precio posible. No lo compres si necesitás exterior o visión nocturna a color: para eso, el Tapo C500 de esta guía es la opción.`,
+    faq: [
+      { question: "¿El kit Tapo C200 x2 sirve para exterior?", answer: "No, es solo de interior. No tiene certificación de resistencia al agua." },
+      { question: "¿Tiene visión nocturna a color?", answer: "No, es en blanco y negro. El Tapo C500 de esta misma guía sí la tiene, a mayor precio." },
+      { question: "¿Cuánta memoria admite?", answer: "Hasta 64 GB de micro-SD, o nube con costo aparte. Es la capacidad más chica de esta comparativa." },
+      { question: "¿Es fácil de instalar?", answer: "Sí, solo necesita un enchufe cerca y conexión Wi-Fi. No requiere cableado de red." },
+      { question: "¿Sirve para vigilar mascotas o bebés?", answer: "Sí, es un uso frecuente según las reseñas: el giro de 360° y el audio bidireccional facilitan chequear un ambiente y hablar a distancia." },
+    ],
+  },
+  {
+    id: "MLA37497335",
+    title: "Kit Seguridad Dahua Dvr 4ch + 4 Camaras 1080p +disco Color Blanco",
+    canonicalName: "Kit Dahua DVR 4ch + 4 cámaras (sistema cableado)",
+    price: 251000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_805319-MLA99463328878_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_805319-MLA99463328878_112025-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA37497335",
+    affiliateUrl: "https://meli.la/2SsQ668",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 423,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Dahua" },
+      { label: "Modelo", value: "XVR1B04-I (grabador) + DH-HAC-B1A21P (cámaras)" },
+      { label: "Cantidad de cámaras", value: "4, tipo bala fija" },
+      { label: "Tipo", value: "Sistema CCTV cableado por BNC, sin Wi-Fi" },
+      { label: "Resolución", value: "Full HD 1080p" },
+      { label: "Campo visual", value: "92°" },
+      { label: "Zoom digital", value: "16x" },
+      { label: "Visión nocturna", value: "Sí, sin color, alcance 20 m" },
+      { label: "Almacenamiento", value: "Disco rígido incluido en el kit" },
+      { label: "Conectividad", value: "Cable coaxial (BNC), control por app" },
+      { label: "Uso recomendado", value: "Exterior" },
+      { label: "Rango de temperatura", value: "10°C a 45°C" },
+    ],
+    relatedProducts: ["MLA37095830", "MLA34238889", "MLA18711640"],
+    priceUpdated: "2026-07-12",
+    priceLastChecked: "2026-07-12",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-12",
+    description: "Kit Dahua DVR 4ch + 4 cámaras: sistema de videovigilancia cableado con grabador y disco incluidos, sin depender del Wi-Fi. 423 calificaciones, 4.8 de promedio. Contra honesta: el cable y las cajas de conexión se compran aparte.",
+    seoTitle: "Kit Dahua DVR 4ch: el sistema cableado, ¿qué necesita?",
+    metaDescription: "Kit Dahua DVR 4ch + 4 cámaras con disco incluido: sistema cableado, no depende del Wi-Fi. 423 calificaciones. Precio real y qué falta comprar aparte.",
+    verdict: "El kit Dahua sirve si podés pasar cables (obra, remodelación) y querés un sistema que no dependa del Wi-Fi, con grabación centralizada en disco propio. No sirve si buscás algo simple de instalar vos mismo en una tarde: el cable y las cajas de conexión no vienen incluidos y hace falta tenderlos.",
+    pros: [
+      "No depende del Wi-Fi de tu casa: la señal viaja por cable, más estable",
+      "423 calificaciones y 4.8 de promedio, con compradores que reportan años de uso sin fallas",
+      "Grabador (DVR) y disco rígido incluidos en el kit: no hay que comprarlos aparte",
+      "4 cámaras incluidas, más unidades por el precio que un kit WiFi de 2",
+    ],
+    cons: [
+      "El cable UTP y las cajas de conexión NO vienen incluidos: hay que comprarlos aparte, según una reseña real",
+      "Requiere pasar cables físicos desde cada cámara hasta el grabador: instalación más compleja que un kit WiFi",
+      "Sin Wi-Fi ni app tan simple como las cámaras IP modernas",
+      "Sin visión nocturna a color",
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "2025", text: "Es el segundo kit que instalo de esta marca, son excelente el primero lo tengo hace 8 años jamas tuve un problema. Son de fácil instalación si haces el cableado bien te va durar años.", useful: 12 },
+      { rating: 4, country: "Argentina", date: "2025", text: "Cumple su función. Fácil instalación. Solo hay que comprar el cable utp a parte, y las cajas a parte. Luego todo bárbaro.", useful: 7 },
+    ],
+    articleBody: `## Qué es y para quién
+
+El kit Dahua DVR 4ch es un sistema de videovigilancia cableado tradicional: 4 cámaras bala fijas conectadas por cable coaxial (BNC) a un grabador (DVR) con disco rígido incluido. A diferencia de las cámaras WiFi de esta guía, no depende para nada de la señal inalámbrica de tu casa.
+
+## Lo bueno
+
+La estabilidad es el punto fuerte: al ir por cable, no se tilda si el Wi-Fi falla, y una reseña cuenta que tiene un kit de la marca funcionando sin problemas hace 8 años. El grabador y el disco rígido vienen incluidos, así que la grabación queda centralizada en un solo lugar, sin depender de una micro-SD por cámara. Con 423 calificaciones, es el kit con más historial de esta guía.
+
+## La contra real
+
+Acá hay que ser honestos porque es lo que más sorprende a quien no conoce este tipo de sistema: **el cable UTP y las cajas de conexión no vienen incluidos**. Una reseña real lo resume así: "solo hay que comprar el cable utp a parte, y las cajas a parte". El kit trae las cámaras, el grabador y el disco, pero instalar 4 cámaras significa pasar 4 cables físicos hasta donde esté el DVR, algo que conviene planificar antes de comprar (sobre todo si la casa ya está terminada).
+
+## Para quién sí y para quién no
+
+Comprá este kit si estás construyendo o remodelando (podés pasar los cables por dentro de la pared) o si tenés un negocio que justifique la instalación profesional. No lo compres si buscás algo que instales vos mismo en una tarde sin taladro: para eso, un kit WiFi como el Tapo C500 o C200 de esta misma guía es mucho más simple.`,
+    faq: [
+      { question: "¿El kit Dahua incluye el cable para instalarlo?", answer: "No. El kit trae el grabador (DVR), el disco rígido y las 4 cámaras, pero el cable UTP y las cajas de conexión se compran aparte, según confirma una reseña real de un comprador." },
+      { question: "¿Necesita Wi-Fi para funcionar?", answer: "No, es un sistema cableado por cable coaxial (BNC). No depende de la señal Wi-Fi de la casa, lo que lo hace más estable que un kit WiFi." },
+      { question: "¿Es difícil de instalar?", answer: "Es más compleja que un kit WiFi: hay que pasar un cable físico desde cada cámara hasta el grabador. Una reseña con 8 años de uso dice que, si el cableado se hace bien, dura años sin problemas." },
+      { question: "¿Dónde se guardan las grabaciones?", answer: "En el disco rígido incluido en el kit, conectado al grabador (DVR). No usa micro-SD por cámara como los kits WiFi." },
+      { question: "¿Para quién conviene este sistema en vez de uno WiFi?", answer: "Para quien está construyendo o remodelando y puede pasar cables, o para negocios que buscan un sistema centralizado y estable. Para instalación rápida sin obra, un kit WiFi rinde mejor." },
+    ],
+  },
+
   // ─── Cargadores portátiles (power banks) — importados via Chrome (jul 2026, API ML caída). Silo tech (STAGED) ───
   {
     id: "MLA21235471",
