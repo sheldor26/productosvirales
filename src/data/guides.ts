@@ -3016,8 +3016,8 @@ export const guides: Guide[] = [
     ogDescription: `Sin instalación fija, con ruedas y frío/calor en un solo equipo. Philco, BGH, Sansei, RCA y Surrey comparados por frigorías, ruido y precio real de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp`,
     h1: `Aire acondicionado portátil: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Para la mayoría conviene el **Philco PHP35HC7API** (alrededor de {{precio:MLA45423359:k}}): frío/calor, 3.010 frigorías y más de 1.200 opiniones, el más vendido del país. Si priorizás service oficial y garantía, el BGH BP35WCEW; para gastar lo menos posible, el Sansei SAP26HC9AN; y para manejarlo por app, el Surrey Smart Wi-Fi.`,
-    publishedDate: "2026-09-01",
+    directAnswer: `El mejor aire acondicionado portátil para la mayoría es un frío/calor de unas 3.000 frigorías: sirve todo el año y no necesita instalación fija. Con ese criterio, el más elegido en Argentina es el **Philco PHP35HC7API** (alrededor de {{precio:MLA45423359:k}}): frío/calor, 3.010 frigorías y más de 1.200 opiniones, el más vendido del país. Si priorizás service oficial y garantía, el BGH BP35WCEW; para gastar lo menos posible, el Sansei SAP26HC9AN; y para manejarlo por app, el Surrey Smart Wi-Fi.`,
+    publishedDate: "2026-07-12",
     updatedDate: "2026-07-06",
     hasDisclosure: true,
     readingTime: 9,
@@ -3034,8 +3034,6 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp", alt: `Aire acondicionado portátil Philco PHP35HC7API, el más vendido de Argentina`, imageSize: "hero" },
-
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Philco PHP35HC7API** es la compra más segura: frío/calor, 3.010 frigorías y el más probado del mercado. Si preferís una marca con garantía y service reconocido en el país, el **BGH BP35WCEW**. Si el precio es tu prioridad, el **Sansei SAP26HC9AN** es el más barato (aunque ruidoso). Y si querés controlarlo por **Wi-Fi** desde el celular, el **Surrey Smart**.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los aires acondicionados portátiles con más ventas y opiniones reales en MercadoLibre Argentina, de las marcas más buscadas (Philco, BGH, Sansei, RCA, Surrey). Los ordenamos por lo que define la compra: las **frigorías**, si es **frío/calor o solo frío**, el **ruido**, si tiene **Wi-Fi** y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
 
@@ -3058,7 +3056,7 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `3. Sansei SAP26HC9AN — el más económico` },
       { type: "product-card", productMlaId: "MLA61382173", label: "El más económico", labelColor: "amber", ranking: 3, description: `El precio más bajo de esta comparativa, frío/calor con 2.279 frigorías. 4.6 estrellas en más de 790 calificaciones.` },
-      { type: "p", content: `Si tu prioridad es el precio, el Sansei SAP26HC9AN es el más barato de esta guía por bastante margen, frío/calor con 2.279 frigorías, a alrededor de $580.000. Enfría bien la zona frente a la salida de aire y tiene más de 790 opiniones de respaldo.` },
+      { type: "p", content: `Si tu prioridad es el precio, el Sansei SAP26HC9AN es el más barato de esta guía por bastante margen, frío/calor con 2.279 frigorías, alrededor de {{precio:MLA61382173:k}}. Un punto a favor que confirma la ficha oficial del importador (Newsan): no requiere drenaje manual, se autoevapora, así que no tenés que estar vaciando un tanque de agua cada tanto. Enfría bien la zona frente a la salida de aire y tiene más de 790 opiniones de respaldo.` },
       { type: "p", content: `Lo honesto: es de los más ruidosos de esta comparativa (una reseña lo compara con "un jumbo jet aterrizando"), la ficha declara 65 dB, y una reseña detallada marca que la función swing de las rejillas no siempre se abre sola pese a tenerla. Si el ruido no te importa demasiado y buscás el precio más bajo, cumple.` },
 
       { type: "h3", title: `4. RCA AAPR12XP — con deshumidificación` },
@@ -3086,7 +3084,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `2. Frío/calor o solo frío` },
       { type: "p", content: `Los cinco modelos de esta guía son frío/calor, así que sirven todo el año: enfrían en verano y calientan en invierno con el mismo equipo. Un solo-frío suele salir más barato, pero en invierno queda guardado sin uso. Si tu presupuesto da, frío/calor es la mejor relación de uso anual.` },
       { type: "h3", title: `3. Ruido, instalación y Wi-Fi` },
-      { type: "p", content: `Ningún portátil es silencioso, pero el nivel varía: el Sansei es de los más ruidosos según las reseñas (65 dB declarados), mientras que otros modelos de esta guía tienen quejas menores. Si vas a dormir con él prendido, priorizá ese dato. La instalación es con manguera por una ventana, con un kit que en general funciona pero no siempre queda perfecto a la primera. Y el Wi-Fi (solo en el Surrey de esta guía) suma control por app.` },
+      { type: "p", content: `Ningún portátil es silencioso, pero el nivel varía y bastante: el Sansei es de los más ruidosos (65 dB declarados), mientras que el Philco declara 50 dB, unos 15 dB menos, una diferencia que de noche se nota. Si vas a dormir con él prendido, priorizá ese dato. La instalación es con manguera por una ventana, con un kit que en general funciona pero no siempre queda perfecto a la primera. Y el Wi-Fi (solo en el Surrey de esta guía) suma control por app.` },
 
       { type: "h2", title: `Cuánto cuesta un aire acondicionado portátil en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
@@ -3101,7 +3099,7 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Para la mayoría, el **Philco PHP35HC7API**: frío/calor, 3.010 frigorías y el más probado del mercado, con más de 1.200 opiniones. Si preferís una **marca con garantía** reconocida en el país, el **BGH BP35WCEW**. Si el **precio** es lo que más pesa, el **Sansei SAP26HC9AN**, aunque es de los más ruidosos. Si querés **deshumidificación y ventilación** extra, el **RCA AAPR12XP**. Y si te importa el **control por Wi-Fi**, el **Surrey Smart**. El error a evitar: comprar un portátil de pocas frigorías para un ambiente grande, o esperar que sea silencioso: ninguno lo es.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor aire acondicionado portátil en Argentina?`, answer: `Por ventas y opiniones, el [Philco PHP35HC7API](https://meli.la/1M4kNgw): frío/calor, 3.010 frigorías y el más probado, con más de 1.200 calificaciones. Si preferís una marca con garantía en el país, el [BGH BP35WCEW](https://meli.la/1qEuMix); si el precio es tu prioridad, el [Sansei SAP26HC9AN](https://meli.la/2cghgHg).` },
+      { question: `¿Cuál es el mejor aire acondicionado portátil en Argentina?`, answer: `El más recomendable para la mayoría es un portátil frío/calor de unas 3.000 frigorías. Por ventas y opiniones, ese lugar lo ocupa el [Philco PHP35HC7API](https://meli.la/1M4kNgw): frío/calor, 3.010 frigorías y el más probado, con más de 1.200 calificaciones. Si preferís una marca con garantía en el país, el [BGH BP35WCEW](https://meli.la/1qEuMix); si el precio es tu prioridad, el [Sansei SAP26HC9AN](https://meli.la/2cghgHg).` },
       { question: `¿Cuántas frigorías necesito para mi ambiente?`, answer: `Una regla práctica: calculá unas 100 frigorías por metro cuadrado. Los modelos de esta guía van de 2.279 a 3.010 frigorías, buenos para una habitación o un living chico a mediano. Para un ambiente grande, un solo portátil suele quedar corto.` },
       { question: `¿Un aire acondicionado portátil hace mucho ruido?`, answer: `Sí, todos hacen ruido: llevan el compresor adentro del mismo mueble, a diferencia de un split que lo tiene afuera. El nivel varía bastante entre modelos: el Sansei de esta guía es de los más ruidosos (65 dB declarados), mientras que otros tienen quejas menores.` },
       { question: `¿Necesita instalación fija como un split?`, answer: `No, es su ventaja principal: se mueve con ruedas y solo necesita sacar una manguera de evacuación por una ventana con el kit que incluye. No hace falta perforar paredes ni instalar una unidad externa.` },
@@ -3242,8 +3240,8 @@ export const guides: Guide[] = [
     ogDescription: `De la motorizada más vendida al kit de 3 para toda la casa, sin abono mensual. Gadnic, Geotek, TP-Link y Ezviz comparadas con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_782305-MLA111600184461_052026-O.webp`,
     h1: `Cámaras de seguridad: cuáles comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Para la mayoría conviene la **Gadnic SX39** (alrededor de {{precio:MLA18711640:k}}): motorizada, con seguimiento y más de 21.000 opiniones, sin pagar mensualidad. Para exterior, la Geotek de doble lente con IP66; si priorizás imagen y app, la TP-Link Tapo C210 (2K y 4.9 estrellas); y para cubrir toda la casa, el kit de 3 Geotek.`,
-    publishedDate: "2026-09-01",
+    directAnswer: `La mejor cámara de seguridad para la mayoría es una motorizada con seguimiento y grabación en microSD, sin abono mensual. Con ese criterio, la más elegida en Argentina es la **Gadnic SX39** (alrededor de {{precio:MLA18711640:k}}): motorizada, con seguimiento y más de 21.000 opiniones, sin pagar mensualidad. Para exterior, la Geotek de doble lente con IP66; si priorizás imagen y app, la TP-Link Tapo C210 (2K y 4.9 estrellas); y para cubrir toda la casa, el kit de 3 Geotek.`,
+    publishedDate: "2026-07-12",
     updatedDate: "2026-07-06",
     hasDisclosure: true,
     readingTime: 10,
@@ -3261,8 +3259,6 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_782305-MLA111600184461_052026-O.webp", alt: `Cámara de seguridad Gadnic SX39, la más vendida de Argentina`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **Gadnic SX39**: motorizada con seguimiento, apta exterior y la más vendida del país por lejos. Para **exterior exigente**, la **Geotek doble lente** (dos vistas en una). Si querés la **mejor imagen y app**, la **TP-Link Tapo C210** con 2K. Y para cubrir **toda la casa de una vez**, el **kit de 3 Geotek**.` },
-
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cámaras de seguridad con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: **interior o exterior** (resistencia al agua real), si son **fijas o motorizadas** con seguimiento, la **resolución verdadera** (sin marketing de megapíxeles) y si exigen suscripción o graban local. Las calificaciones son de compradores reales; las specs de la Tapo C210 las verificamos además contra la página oficial de TP-Link Argentina. Precios de julio 2026, revisados periódicamente.` },
 
       { type: "h2", title: `Qué mirar antes de comprar una cámara de seguridad`, id: "que-mirar" },
@@ -3274,13 +3270,13 @@ export const guides: Guide[] = [
       { type: "h3", title: `1. Gadnic SX39 — la más vendida` },
       { type: "product-card", productMlaId: "MLA18711640", label: "La más vendida", labelColor: "green", ranking: 1, description: `Motorizada con seguimiento de personas, Full HD, audio bidireccional e IP66. 4.8 estrellas en más de 21.000 calificaciones: la cámara más vendida del país.` },
       { type: "p", content: `Si querés una sola cámara que haga de todo, es esta. La Gadnic SX39 es **por lejos la más vendida** de Argentina (más de 21.000 opiniones): el domo gira y sigue a la persona en movimiento con un motor que las reseñas describen como sorprendentemente silencioso, tiene micrófono y parlante para hablar desde el celular, y su IP66 le permite vivir afuera bajo techo, a alrededor de $42.000.` },
-      { type: "p", content: `Lo honesto: la memoria para grabar va aparte (el reclamo más votado de sus reseñas) y con Wi-Fi flojo se puede tildar, según un comprador de 4 estrellas que igual la recomienda.` },
+      { type: "p", content: `Lo honesto, y cómo resolverlo: la memoria para grabar va aparte (el reclamo más votado), pero admite microSD de hasta 128 GB (Clase 10) y graba en bucle, así que cuando se llena borra lo más viejo y sigue grabando sola; si no, tenés la opción de nube. Y si con Wi-Fi flojo se tilda, trae puerto de red (LAN) para conectarla por cable y olvidarte del problema: funciona en la banda de 2.4 GHz, así que en un router de doble banda hay que usar esa red, no la de 5 GHz. De yapa, suma visión nocturna a color y es compatible con Alexa.` },
       { type: "pull-quote", content: `"La cámara junto con el software para el celular superaron con creces mis expectativas. Lo mejor de todo es que tiene micrófono y parlante, por lo que es una medida disuasiva extraordinaria."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Geotek GT-A33BN — la mejor para exterior` },
       { type: "product-card", productMlaId: "MLA43877246", label: "Mejor para exterior", labelColor: "blue", ranking: 2, description: `Doble lente: vista panorámica fija + vista motorizada con seguimiento. Visión nocturna a color de 20 m, IP66. 4.8 estrellas en más de 10.000 calificaciones.` },
       { type: "p", content: `Para el frente, el patio o la cochera, la Geotek de **doble lente** resuelve lo que una cámara común no puede: ves el plano general y el detalle en movimiento a la vez, porque son dos cámaras en un cuerpo. Suma visión nocturna a color de 20 metros declarados y luces disuasivas, a alrededor de $53.000. El aguante está probado por los compradores.` },
-      { type: "p", content: `Dos avisos honestos: el "6 MP" del título es la suma de los dos lentes de 3 MP, y los tornillos que vienen en la caja son malos según la reseña crítica más votada. Compradores con varias unidades destacan que la app iCSee no mete publicidad.` },
+      { type: "p", content: `Dos avisos honestos: el "6 MP" del título es la suma de los dos lentes de 3 MP, y los tornillos que vienen en la caja son malos según la reseña crítica más votada. Compradores con varias unidades destacan que la app iCSee no mete publicidad. Datos útiles: admite microSD de hasta 128 GB, va por Wi-Fi de 2.4 GHz y trae puerto de red (LAN) por si preferís conectarla por cable en vez de depender del Wi-Fi.` },
       { type: "pull-quote", content: `"Fácil de instalar. Cumple las especificaciones, hace bien el seguimiento de personas y se bancó bien una tormenta que voló el techo de la cochera donde está instalada, así que conforme."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. TP-Link Tapo C210 — la mejor calificada` },
@@ -3340,7 +3336,7 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Para la mayoría, la **Gadnic SX39**: motorizada con seguimiento, apta interior y exterior, y el respaldo de más de 21.000 compradores. Para **exterior**, la **Geotek doble lente** (dos vistas y aguante probado). Para **interior con la mejor imagen y app**, la **TP-Link Tapo C210** (4.9, 2K real). Para **empezar barato**, la **Ezviz H1C**. Para **toda la casa sin mensualidad**, el **kit de 3 Geotek**. Y si tu problema son las falsas alarmas, la **Ezviz TY1** con detección de figura humana. El error a evitar: olvidarte de comprar la micro-SD, sin la cual ninguna graba.` },
     ],
     faq: [
-      { question: `¿Cuál es la mejor cámara de seguridad en Argentina?`, answer: `Por ventas, la [Gadnic SX39](https://meli.la/2Kod5MG): motorizada con seguimiento, apta exterior (IP66) y más de 21.000 calificaciones. Por calificación, la [TP-Link Tapo C210](https://meli.la/2XP2zp1) (4.9, 2K real) para interior. Para exterior exigente, la [Geotek doble lente](https://meli.la/1GQsniy).` },
+      { question: `¿Cuál es la mejor cámara de seguridad en Argentina?`, answer: `La más elegida en Argentina es una cámara motorizada con seguimiento y sin abono mensual: por ventas, ese lugar lo ocupa la [Gadnic SX39](https://meli.la/2Kod5MG) (apta exterior IP66, más de 21.000 calificaciones). Por calificación, la [TP-Link Tapo C210](https://meli.la/2XP2zp1) (4.9, 2K real) para interior. Para exterior exigente, la [Geotek doble lente](https://meli.la/1GQsniy).` },
       { question: `¿Las cámaras de seguridad Wi-Fi necesitan abono mensual?`, answer: `Las de esta guía, no: graban en una memoria micro-SD local y se ven desde la app gratis. Es la gran diferencia con los servicios de alarma con monitoreo, que cobran mensualidad.` },
       { question: `¿Las cámaras vienen con memoria para grabar?`, answer: `No, ninguna. Sin una micro-SD comprada aparte, la cámara muestra en vivo pero no graba. Presupuestá una tarjeta clase 10 por cámara; con 64 GB tenés unos 4 días de grabación continua en Full HD, según una reseña de la Tapo C210.` },
       { question: `¿Qué cámara sirve para exterior?`, answer: `Las que tienen IP66 confirmado en la ficha: la [Gadnic SX39](https://meli.la/2Kod5MG), la [Geotek doble lente](https://meli.la/1GQsniy) y el [kit de 3 Geotek](https://meli.la/1Ctzici). Las de interior (Tapo C210, Ezviz H1C y TY1) no resisten la intemperie.` },
@@ -3348,7 +3344,11 @@ export const guides: Guide[] = [
       { question: `¿Qué significa que una cámara sea motorizada?`, answer: `Que gira desde la app (y las mejores siguen solas a la persona en movimiento), cubriendo un ambiente entero. Las fijas, como la [Ezviz H1C](https://meli.la/1fGvF6y), apuntan a un solo lugar pero cuestan menos.` },
       { question: `¿Cómo evito las falsas alarmas por mascotas?`, answer: `Buscá detección de figura humana en vez de detección de movimiento simple: la [Ezviz TY1](https://meli.la/11ACYPJ) la tiene. En kits con detección de movimiento común, los compradores con perros y gatos reportan alertas frecuentes disparadas por sus mascotas.` },
     ],
-    internalLinks: [],
+    internalLinks: [
+      { label: "Termotanque eléctrico: cuál comprar y cuál conviene", href: "/guias/agua-caliente/termotanque-electrico" },
+      { label: "Aire acondicionado portátil: cuál comprar en Argentina", href: "/guias/climatizacion/aire-acondicionado-portatil" },
+    ],
+    internalLinksTitle: "Más para equipar tu casa",
   },
 
   // ─────────────────────────────────────────────────────────
@@ -19260,9 +19260,10 @@ export const guides: Guide[] = [
     metaDescription: `Comparamos los termotanques eléctricos más vendidos de Argentina: Señorial, Sherman, Exahome y Rheem. Precio, litros y eficiencia real. Compará.`,
     ogTitle: `Termotanque eléctrico: cuál comprar en Argentina`,
     ogDescription: `De 40 a 85 litros: comparamos los termotanques eléctricos más vendidos de Argentina por capacidad, eficiencia energética y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_672433-MLA99496742056_112025-O.webp`,
     h1: `Termotanque eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Para la mayoría conviene el **Señorial Zafiro** (alrededor de {{precio:MLA15585571:k}}): por lejos el más comprado del país, con más de 3.100 opiniones. Para una persona sola, el Exahome de 40 litros es el más barato; para familia y mejor aislamiento, el Sherman de 85 litros; y si priorizás eficiencia energética, el Rheem categoría A.`,
-    publishedDate: "2026-09-01",
+    directAnswer: `El mejor termotanque eléctrico para la mayoría es uno de unos 50 litros: alcanza para 2 o 3 personas y equilibra precio, consumo y capacidad. Con ese criterio, hoy en Argentina el más elegido es el **Señorial Zafiro** (alrededor de {{precio:MLA15585571:k}}): por lejos el más comprado del país, con más de 3.100 opiniones. Para una persona sola, el Exahome de 40 litros es el más barato; para familia y mejor aislamiento, el Sherman de 85 litros; y si priorizás eficiencia energética, el Rheem categoría A.`,
+    publishedDate: "2026-07-12",
     updatedDate: "2026-07-09",
     hasDisclosure: true,
     readingTime: 9,
@@ -19322,6 +19323,21 @@ export const guides: Guide[] = [
       { type: "h3", title: `4. Colgar o de pie` },
       { type: "p", content: `No todos los termotanques admiten las dos instalaciones. El Señorial y el Exahome se pueden colgar o apoyar; el Sherman y el Rheem de esta guía son solo de instalación de pie. Si el espacio disponible es una pared angosta sin lugar en el piso, conviene confirmar esto antes de comprar.` },
 
+      { type: "h2", title: `Instalación y mantenimiento: lo que aclara el manual`, id: "instalacion" },
+      { type: "p", content: `Un termotanque eléctrico necesita un circuito eléctrico propio, no un enchufe compartido. El manual del Señorial Zafiro (el más vendido de esta guía) pide un tomacorriente exclusivo con llave termomagnética bipolar de 10 A para su resistencia blindada de 1500 W, sin adaptadores y con buena conexión a tierra. Las líneas de mayor potencia piden 20 A. Son datos que la publicación de MercadoLibre casi nunca aclara y conviene revisar antes de comprar.` },
+      { type: "h3", title: `El ánodo de magnesio: el detalle que puede anular la garantía` },
+      { type: "p", content: `Este es el dato que más se pasa por alto, y aplica a todos los termotanques, tengan o no la protección anticorrosiva extra que mostramos en la tabla: absolutamente todos traen un ánodo de magnesio, una pieza económica que se sacrifica para que la corrosión se la coma a ella y no al tanque. El manual del Señorial obliga a recambiarlo antes de los 18 meses para mantener la garantía (3 años en la línea Zafiro, 5 en la Family). Cuando el ánodo se consume y no se cambia, esa protección de sacrificio se pierde y el tanque interno queda expuesto. Muchos compradores no se enteran hasta que es tarde.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Revisá el ánodo antes de los 18 meses", content: `El manual pide verificar el estado del ánodo de magnesio entre cada 6 meses y un año, y cambiarlo como máximo a los 18 meses. Si no lo hacés, además de perder la protección contra la corrosión, se cae la garantía de fábrica.` },
+      { type: "h3", title: `Presión de agua y bombas: cuidado con la garantía` },
+      { type: "p", content: `El manual fija una presión máxima de trabajo de 0,6 MPa (6 kg/cm²). Si la presión de tu red supera ese valor, hay que instalar una válvula reductora a la salida del medidor, no cerca del termotanque. Y un punto clave: conectar el termotanque a una bomba de presión anula la garantía, así que si tenés poca presión, la solución no es ponerle una bomba directamente sobre el equipo.` },
+      { type: "h3", title: `Mantenimiento mínimo para que dure` },
+      { type: "list", items: [
+        `Drenar alrededor de 20 litros de agua por el grifo de purga una vez al mes, para sacar el sarro del fondo del tanque.`,
+        `Verificar la válvula de seguridad al menos una vez al año: que no tenga sarro y deje pasar agua libremente.`,
+        `Una vez al mes, elevar la temperatura al máximo durante 2 a 3 horas: mata la bacteria Legionella, que prolifera en agua tibia y muere por encima de los 60 °C.`,
+        `No conectarlo a un timer ni a un circuito de encendido y apagado: puede interferir con el protector térmico de seguridad.`,
+      ]},
+
       { type: "h2", title: `Termotanque eléctrico vs. calefón: la diferencia real` },
       { type: "p", content: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado, lista para usar. El calefón (a gas o eléctrico) calienta el agua al instante, a medida que la usás, sin almacenarla. El termotanque conviene si querés varias duchas seguidas sin esperar; el calefón, si el espacio es limitado y no querés instalar un tanque grande. Vamos a comparar los calefones eléctricos en detalle en una guía aparte de este mismo sitio.` },
 
@@ -19337,15 +19353,23 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Para la mayoría, el **Señorial Zafiro** de 50 litros: es el más vendido y calificado por lejos, liviano y de los más baratos, aunque resigna aislamiento y anticorrosivo. Si tu familia usa mucha agua caliente seguida y querés esas dos características, el **Sherman** de 85 litros suma aislamiento, anticorrosivo y la mejor calificación promedio del grupo. Para una persona sola o un departamento chico, el **Exahome** de 40 litros es el más barato sin resignar aislamiento ni anticorrosivo. Y si priorizás la eficiencia energética a largo plazo por sobre el desembolso inicial, el **Rheem** de 85 litros es categoría A, la más alta comparada acá.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor termotanque eléctrico en Argentina?`, answer: `El Señorial Zafiro de 50 litros es el más vendido y calificado por lejos (3.106 calificaciones). Si priorizás aislamiento térmico y protección anticorrosiva, el Sherman de 85 litros tiene la mejor calificación promedio (4.8). Para la mejor eficiencia energética, el Rheem de 85 litros es categoría A.` },
+      { question: `¿Cuál es el mejor termotanque eléctrico en Argentina?`, answer: `El más elegido en Argentina es un termotanque de 50 litros, por su equilibrio entre capacidad y precio: en ventas y calificaciones ese lugar lo ocupa el Señorial Zafiro (3.106 calificaciones). Si priorizás aislamiento térmico y protección anticorrosiva, el Sherman de 85 litros tiene la mejor calificación promedio (4.8). Para la mejor eficiencia energética, el Rheem de 85 litros es categoría A.` },
       { question: `¿Cuántos litros de termotanque necesito?`, answer: `Para una persona sola o un departamento chico, 40 litros alcanzan. Para 2-3 personas, 50 litros. Para una familia de 3 o más con duchas seguidas, conviene 85 litros o más, para no quedarte sin agua caliente a mitad de ducha.` },
       { question: `¿Qué diferencia hay entre un termotanque eléctrico y un calefón?`, answer: `El termotanque calienta y guarda una reserva de agua caliente en un tanque aislado, lista para usar en cualquier momento. El calefón la calienta al instante mientras la usás, sin almacenarla. El termotanque conviene para varias duchas seguidas sin esperar; el calefón, cuando el espacio de instalación es limitado.` },
       { question: `¿Cuánto consume un termotanque eléctrico por mes?`, answer: `Depende de la potencia (1.5 a 2 kW en los de esta guía), el aislamiento térmico y el uso: si lo dejás siempre enchufado mantiene la temperatura todo el día, mientras que si lo encendés solo antes de bañarte, el consumo baja. Los modelos con mejor eficiencia energética (categoría A, como el Rheem) consumen menos para mantener la misma temperatura.` },
       { question: `¿Qué significa la letra de eficiencia energética en un termotanque?`, answer: `Es una categoría de la A (más eficiente) a la G (menos eficiente), igual que en aires acondicionados o heladeras. En un termotanque importa especialmente porque el agua se mantiene caliente durante horas sin usarse: cuanto mejor el aislamiento, menos veces se prende el resistor para recalentarla.` },
       { question: `¿Se puede colgar cualquier termotanque eléctrico?`, answer: `No. El Señorial y el Exahome de esta guía admiten instalación colgada o apoyada; el Sherman y el Rheem son solo de pie. Conviene confirmar el tipo de montaje antes de comprar si el espacio disponible es una pared sin lugar en el piso.` },
       { question: `¿Por qué algunos termotanques no traen protección anticorrosiva?`, answer: `Es una característica que encarece el producto, así que las marcas más económicas o las más vendidas por precio (como el Señorial de esta guía) suelen resignarla. Sin ella, el tanque interno es más vulnerable a la oxidación con los años, algo que pesa más en un equipo en contacto constante con agua.` },
-      { question: `¿Necesito un electricista o gasista para instalarlo?`, answer: `Varios compradores en las reseñas lo instalan por su cuenta sin ser plomeros, pero para la conexión eléctrica y de agua conviene siempre la revisión de un instalador matriculado, sobre todo para confirmar el tipo de conexión (superior o inferior) y evitar problemas de corrosión galvánica entre metales distintos.` },
+      { question: `¿Necesito un electricista o plomero para instalarlo?`, answer: `Varios compradores en las reseñas lo instalan por su cuenta, pero al ser eléctrico las dos conexiones que importan son la de electricidad y la de agua (no lleva gas). Conviene siempre la revisión de un instalador matriculado, sobre todo para confirmar el tipo de conexión (superior o inferior) y evitar problemas de corrosión galvánica entre metales distintos.` },
+      { question: `¿Qué instalación eléctrica necesita un termotanque eléctrico?`, answer: `Un circuito exclusivo, no un enchufe compartido. El manual del Señorial Zafiro pide un tomacorriente propio con llave termomagnética bipolar de 10 A para su resistencia de 1500 W (las líneas de mayor potencia piden 20 A), sin adaptadores y con conexión a tierra. Tampoco conviene conectarlo a un timer, porque puede interferir con el protector térmico de seguridad.` },
+      { question: `¿Cada cuánto hay que cambiar el ánodo de magnesio?`, answer: `El manual del Señorial exige recambiar el ánodo de magnesio antes de los 18 meses para no perder la garantía (3 años en la línea Zafiro, 5 en la Family). Es un repuesto económico que protege el tanque de la corrosión: sin ese recambio, además de caer la garantía, la vida útil del equipo baja. Conviene revisarlo entre los 6 meses y el año.` },
     ],
+    internalLinks: [
+      { label: "Estufa eléctrica de bajo consumo: cuál comprar", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Estufas eléctricas: cuál comprar y cuál conviene", href: "/guias/climatizacion/estufas-electricas" },
+      { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
+    ],
+    internalLinksTitle: "Más para el hogar en invierno",
   },
 
   // ─────────────────────────────────────────────────────────
