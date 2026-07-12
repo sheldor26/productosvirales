@@ -49626,7 +49626,7 @@ Estuche físico coleccionable con la portada oficial, un código para canjear la
     price: 632499,
     originalPrice: 762299,
     currency: "ARS",
-    image: "https://http2.mlstatic.com/D_NQ_NP_688759-MLA108598549291_032026-O.webp",
+    image: "https://http2.mlstatic.com/D_NQ_NP_637931-MLA96419959584_102025-O.webp",
     category: "Climatización",
     categorySlug: "climatizacion",
     permalink: "https://www.mercadolibre.com.ar/p/MLA61382173",
@@ -53125,7 +53125,7 @@ Comprá el Exahome si vivís solo, en pareja con uso moderado, o necesitás equi
       },
       {
         question: "¿Es difícil de instalar?",
-        answer: "Varios compradores lo describen como fácil de instalar, incluso sin ser plomero, aunque para la conexión de gas y agua conviene siempre la revisión de un instalador matriculado.",
+        answer: "Varios compradores lo describen como fácil de instalar, incluso sin ser plomero, aunque para la conexión eléctrica y de agua conviene siempre la revisión de un instalador matriculado.",
       },
     ],
   },
