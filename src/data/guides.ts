@@ -19720,4 +19720,49 @@ export const guideCategories: Record<string, { name: string; description: string
     description:
       "Mouse, teclado, silla, auriculares y monitor: qué elegir en cada uno según tu presupuesto y para qué jugás.",
   },
+  parlantes: {
+    name: "Guía de Parlantes",
+    description:
+      "Bluetooth, resistentes al agua o para fiesta: cuáles suenan bien de verdad y cuánto dura la batería en uso real.",
+  },
+  auriculares: {
+    name: "Guía de Auriculares",
+    description:
+      "In-ear, over-ear o para deporte: cuáles aíslan bien, cuáles se caen y desde cuánto sale un par que dure.",
+  },
+  "estufas-electricas": {
+    name: "Guía de Estufas Eléctricas",
+    description:
+      "Cuarzo, caloventor o de bajo consumo: cuál calienta más rápido, cuánto gasta cada una y cuál conviene según tu ambiente.",
+  },
+  "aire-acondicionado": {
+    name: "Guía de Aire Acondicionado",
+    description:
+      "Portátiles sin instalación fija: cuántas frigorías necesitás, cuánto ruido hacen y cuál rinde según el tamaño del ambiente.",
+  },
+  "salud-bienestar": {
+    name: "Guía de Salud y Bienestar",
+    description:
+      "Balanzas digitales y otros equipos para controlar tu salud en casa: cuáles miden bien y cuáles son solo un número en una pantalla.",
+  },
+  seguridad: {
+    name: "Guía de Cámaras de Seguridad",
+    description:
+      "Motorizadas, fijas o en kit para toda la casa: cuáles graban bien de noche y cuáles necesitan abono mensual para verlas.",
+  },
+  "cuidado-personal": {
+    name: "Guía de Cuidado Personal",
+    description:
+      "Secadores, planchitas, afeitadoras y cortadoras de pelo: cuáles rinden en uso diario y cuáles se quedan a mitad de camino.",
+  },
+  termotanques: {
+    name: "Guía de Termotanques",
+    description:
+      "Eléctricos, de 40 a 85 litros: cuál alcanza para tu familia, cuál gasta menos y cuál tiene mejor eficiencia energética.",
+  },
+  proyectores: {
+    name: "Guía de Proyectores",
+    description:
+      "Portátiles y para el living: cuáles se ven bien con luz de día y cuáles solo rinden a oscuras.",
+  },
 };
