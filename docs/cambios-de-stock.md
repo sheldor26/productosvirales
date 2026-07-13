@@ -1,0 +1,126 @@
+# Cambios de stock
+
+> Cambios de estado de stock que detecto el cruce automatico con Bright Data
+> (una publicacion paso de con stock a "Publicacion pausada" o al reves). Se
+> dejan en el PR de precios para que Juan los vea, sin canal aparte (nada de
+> Telegram). 🟢 = volvio el stock (candidato a reactivar / hacer swap de vuelta).
+> 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
+> Entradas nuevas arriba.
+
+## 2026-07-13
+
+- 🔴 SIN STOCK — **MLA41009857** Microondas Atma Matdb20uap 20l 700w Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA41009857
+  - Sitio: https://productosvirales.com.ar/producto/MLA41009857
+- 🔴 SIN STOCK — **MLA43960827** Monitor Samsung Odyssey G5 27 Curvo 1000R QHD 165Hz
+  - ML: https://www.mercadolibre.com.ar/p/MLA43960827
+  - Sitio: https://productosvirales.com.ar/producto/MLA43960827
+- 🔴 SIN STOCK — **MLA57493542** Robot De Cocina Smart Atma Mix 3l Rc2023tcp
+  - ML: https://www.mercadolibre.com.ar/p/MLA57493542
+  - Sitio: https://productosvirales.com.ar/producto/MLA57493542
+- 🔴 SIN STOCK — **MLA23096996** Horno Eléctrico de Mesa Ultracomb Uc-17 17litros Rojo/Negro 1280W
+  - ML: https://www.mercadolibre.com.ar/p/MLA23096996
+  - Sitio: https://productosvirales.com.ar/producto/MLA23096996
+- 🔴 SIN STOCK — **MLA16269737** Auriculares Logitech G733 Inalámbricos Color Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA16269737
+  - Sitio: https://productosvirales.com.ar/producto/MLA16269737
+- 🔴 SIN STOCK — **MLA19893399** Teclado Gamer Redragon K622 Horus TKL Switch Red Español
+  - ML: https://www.mercadolibre.com.ar/p/MLA19893399
+  - Sitio: https://productosvirales.com.ar/producto/MLA19893399
+- 🔴 SIN STOCK — **MLA38451794** Samsung Galaxy Buds3 Pro Color Grafito
+  - ML: https://www.mercadolibre.com.ar/p/MLA38451794
+  - Sitio: https://productosvirales.com.ar/producto/MLA38451794
+- 🔴 SIN STOCK — **MLA39962085** Auriculares Inalámbricos Xiaomi Redmi Buds 6 Play Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA39962085
+  - Sitio: https://productosvirales.com.ar/producto/MLA39962085
+- 🔴 SIN STOCK — **MLA18651915** Auriculares Gamer Inalámbricos Logitech G G435 para PC y Consolas
+  - ML: https://www.mercadolibre.com.ar/p/MLA18651915
+  - Sitio: https://productosvirales.com.ar/producto/MLA18651915
+- 🔴 SIN STOCK — **MLA6072318** Auriculares Sennheiser HD 280 Pro Black
+  - ML: https://www.mercadolibre.com.ar/p/MLA6072318
+  - Sitio: https://productosvirales.com.ar/producto/MLA6072318
+- 🔴 SIN STOCK — **MLA43536904** Ventilador De Techo Peabody Pe-vtrdc425b 42 Retractil Cantidad de aspas 3 Estructura Blanco Aspas Transparente Diámetro 1.067 m Frecuencia 50 Hz Material de las aspas Acrílico
+  - ML: https://www.mercadolibre.com.ar/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estructura-blanco-aspas-transparente-diametro-1067-m-frecuencia-50-hz-material-de-las-aspas-acrilico/p/MLA43536904
+  - Sitio: https://productosvirales.com.ar/producto/MLA43536904
+- 🔴 SIN STOCK — **MLA402624780** Sartén Doble Antiadherente Cincam 20cm — Para Tortillas Españolas
+  - ML: https://www.mercadolibre.com.ar/sarten-con-tapa-antiadherente-20cm/up/MLAU402624780
+  - Sitio: https://productosvirales.com.ar/producto/MLA402624780
+- 🔴 SIN STOCK — **MLA3514734808** Mopa Doble Con Rociador Y Trapeador Pearl Spray Limpia Fácil
+  - ML: https://www.mercadolibre.com.ar/mopa-doble-con-rociador-y-trapeador-pearl-spray-limpia-facil/up/MLAU3514734808
+  - Sitio: https://productosvirales.com.ar/producto/MLA3514734808
+- 🔴 SIN STOCK — **MLA886877609** Humidificador Portátil USB 220ml — Difusor Aromático Cápsula Blanca
+  - ML: https://articulo.mercadolibre.com.ar/MLA-886877609-humidificador-difusor-vaporizador-purificador-de-ambiente-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA886877609
+- 🔴 SIN STOCK — **MLA2466154786** Fabricante De Helados, Ice Cream Rolls Maker
+  - ML: https://articulo.mercadolibre.com.ar/MLA-2466154786-fabricante-de-helados-ice-cream-rolls-maker-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA2466154786
+- 🔴 SIN STOCK — **MLA26504431** Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-samsung-jetbot-lidar-mapping-dig-inverter/p/MLA26504431
+  - Sitio: https://productosvirales.com.ar/producto/MLA26504431
+- 🔴 SIN STOCK — **MLA3674559257** Mezclador De Ollas Gadnic Mixer 360° Salsas Automático
+  - ML: https://www.mercadolibre.com.ar/mezclador-de-ollas-gadnic-mixer-360-salsas-automatico/up/MLAU3674559257
+  - Sitio: https://productosvirales.com.ar/producto/MLA3674559257
+- 🔴 SIN STOCK — **MLA1572699337** Fabricante De Helados,plancha Ice Cream Rolls Maker Machine
+  - ML: https://articulo.mercadolibre.com.ar/MLA-1572699337-fabricante-de-heladosplancha-ice-cream-rolls-maker-machine-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA1572699337
+- 🔴 SIN STOCK — **MLA31178643** Lattafa Khamrah Qahwa EDP 100ml Unisex
+  - ML: https://www.mercadolibre.com.ar/perfume-lattafa-khamrah-qahwa-edp-100ml/p/MLA31178643
+  - Sitio: https://productosvirales.com.ar/producto/MLA31178643
+- 🔴 SIN STOCK — **MLA59149674** Robot Aspirador Xiaomi Vacuum H40 Bhr07xbeu Blanco
+  - ML: https://www.mercadolibre.com.ar/robot-aspirador-xiaomi-vacuum-h40-bhr07xbeu-blanco/p/MLA59149674
+  - Sitio: https://productosvirales.com.ar/producto/MLA59149674
+- 🔴 SIN STOCK — **MLA19630911** Freidora de aire 6,2 Litros Philips Essential HD927091 Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-62-litros-philips-essential-hd927091-negro/p/MLA19630911
+  - Sitio: https://productosvirales.com.ar/producto/MLA19630911
+- 🔴 SIN STOCK — **MLA74108173** Grand Theft Auto VI GTA VI Caja Física con Código de Descarga para PS5
+  - ML: https://www.mercadolibre.com.ar/grand-theft-auto-vi-gta-vi-caja-fisica-con-codigo-de-descarga-para-ps5/p/MLA74108173
+  - Sitio: https://productosvirales.com.ar/producto/MLA74108173
+- 🔴 SIN STOCK — **MLA18917302** Aspiradora Robot Samsung Powerbot E 2 En 1 Inverter Wifi Color Negro
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-samsung-powerbot-e-2-en-1-inverter-wifi-color-negro/p/MLA18917302
+  - Sitio: https://productosvirales.com.ar/producto/MLA18917302
+- 🔴 SIN STOCK — **MLA42113760** Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- 🔴 SIN STOCK — **MLAU3991939658** Álbum Oficial Panini + 25 Sobres Figuritas Copa Mundial 2026
+  - ML: https://www.mercadolibre.com.ar/album-oficial-panini--25-sobres-figuritas-copa-mundial-2026/up/MLAU3991939658
+  - Sitio: https://productosvirales.com.ar/producto/MLAU3991939658
+- 🔴 SIN STOCK — **MLA51612102** Set Lattafa My Yara Collection — 4 Perfumes Árabes Mujer 25ml c/u
+  - ML: https://www.mercadolibre.com.ar/set-coleccion-de-perfumes-arabes-my-yara-collection-lattafa-pack-x4/p/MLA51612102
+  - Sitio: https://productosvirales.com.ar/producto/MLA51612102
+- 🔴 SIN STOCK — **MLA841529901** Difusor Aromatizador Humidificador Tren Locomotora 300ml — Electroland
+  - ML: https://articulo.mercadolibre.com.ar/MLA-841529901-humificador-electrico-aromaterapia-luces-led-vapor-tren-_JM
+  - Sitio: https://productosvirales.com.ar/producto/MLA841529901
+- 🔴 SIN STOCK — **MLA54145870** Lattafa Habik For Men Eau De Parfum 100 Ml
+  - ML: https://www.mercadolibre.com.ar/lattafa-habik-for-men-eau-de-parfum-100-ml/p/MLA54145870
+  - Sitio: https://productosvirales.com.ar/producto/MLA54145870
+- 🔴 SIN STOCK — **MLA48828162** Cafetera espresso Oster Perfect Brew EM7301 con molinillo
+  - ML: https://www.mercadolibre.com.ar/p/MLA48828162
+  - Sitio: https://productosvirales.com.ar/producto/MLA48828162
+- 🔴 SIN STOCK — **MLA15109525** Cafetera de filtro Ultracomb CA-2205 con timer digital
+  - ML: https://www.mercadolibre.com.ar/p/MLA15109525
+  - Sitio: https://productosvirales.com.ar/producto/MLA15109525
+- 🔴 SIN STOCK — **MLA15297115** Cafetera de filtro Smartlife SL-CM1095 digital programable
+  - ML: https://www.mercadolibre.com.ar/p/MLA15297115
+  - Sitio: https://productosvirales.com.ar/producto/MLA15297115
+- 🔴 SIN STOCK — **MLA38252447** Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg
+  - ML: https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782
+  - Sitio: https://productosvirales.com.ar/producto/MLA38252447
+- 🔴 SIN STOCK — **MLA23437114** Cafetera Nespresso Lattissima One blanca con leche integrada
+  - ML: https://www.mercadolibre.com.ar/p/MLA23437114
+  - Sitio: https://productosvirales.com.ar/producto/MLA23437114
+- 🔴 SIN STOCK — **MLA19769919** Afeitadora Remington R31a Rotativo Recargable Usb Color Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA19769919
+  - Sitio: https://productosvirales.com.ar/producto/MLA19769919
+- 🔴 SIN STOCK — **MLA19147005** Balanza Digital con Bluetooth Femmto BCS15 para Baño Medidor de Grasa Corporal y Masa Muscular
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-masa-muscular/p/MLA19147005
+  - Sitio: https://productosvirales.com.ar/producto/MLA19147005
+- 🔴 SIN STOCK — **MLA19788587** Ultracomb Pe4910 Pava Electrica Con Infusor De Te Func. Mate
+  - ML: https://www.mercadolibre.com.ar/ultracomb-pe4910-pava-electrica-con-infusor-de-te-func-mate/p/MLA19788587
+  - Sitio: https://productosvirales.com.ar/producto/MLA19788587
+- 🔴 SIN STOCK — **MLA8993736** Pava Eléctrica Oster 8970 Color Plateado
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-oster-8970-color-plateado/p/MLA8993736
+  - Sitio: https://productosvirales.com.ar/producto/MLA8993736
+- 🔴 SIN STOCK — **MLA45951645** Aspiradora Robot Gadnic 5 Modos Limpieza Trapeo Inteligente Depósito de Agua Polvo Control App Conexion Inalambrica Sensores Anti‐Colisión Anticaída
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-gadnic-5-modos-limpieza-trapeo-inteligente-deposito-de-agua-polvo-control-app-conexion-inalambrica-sensores-anticolision-anticaida/p/MLA45951645
+  - Sitio: https://productosvirales.com.ar/producto/MLA45951645
+
