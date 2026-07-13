@@ -2814,11 +2814,12 @@ export const guides: Guide[] = [
     category: "estufas-electricas",
     silo: "climatizacion",
     title: `Estufa eléctrica de bajo consumo: cuál gasta menos [2026]`,
-    seoTitle: `Estufa Eléctrica Bajo Consumo: Cuál Gasta Menos`,
+    seoTitle: `¿Qué estufa eléctrica gasta menos? Guía [2026]`,
     metaDescription: `Conocé qué estufa eléctrica gasta menos en Argentina: por qué el "bajo consumo" es un mito y cuál conviene para no inflar la factura. Mirá la comparativa.`,
     ogTitle: `Estufa eléctrica de bajo consumo: la verdad`,
     ogDescription: `Spoiler: ninguna estufa eléctrica es de bajo consumo de verdad. Te explicamos cuál gasta menos según cómo la uses, con la cuenta real de watts y precios de MercadoLibre.`,
     h1: `Estufa eléctrica de bajo consumo: cuál gasta menos de verdad [2026]`,
+    directAnswer: `La estufa eléctrica que menos gasta es la de cuarzo de dos niveles, usada en su modo de 600 W: calor radiante directo consumiendo la mitad que el resto. Las radiantes (cuarzo, halógena) calientan a la persona y no al aire, así que las apagás más rápido. El caloventor templa todo el ambiente, pero por eso es el que más consume del grupo.`,
     publishedDate: "2026-07-01",
     updatedDate: "2026-07-01",
     hasDisclosure: true,
@@ -2835,6 +2836,9 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_798818-MLA107585755341_022026-F.jpg", alt: `Estufa de cuarzo de dos niveles, la opción de menor consumo bien usada`, imageSize: "hero" },
+
+      { type: "h2", title: `¿Qué estufa eléctrica gasta menos?` },
+      { type: "p", content: `La que menos gasta es la estufa de cuarzo de dos niveles usada en su modo de 600 W: dos tercios menos consumo que la mayoría, con calor radiante directo. La halógena es la segunda opción, con calor instantáneo que te deja apagarla antes. El caloventor calienta más rápido todo el ambiente, pero es el que más watts consume del grupo.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo evaluamos:** comparamos las estufas eléctricas con ventas reales en MercadoLibre Argentina desde un solo ángulo, el consumo. Miramos la **potencia** (lo que define la factura), el **tipo de calor** (calentar el aire de todo el cuarto cuesta más que calentar a la persona) y las calificaciones públicas. Los precios son de junio 2026 y los revisamos periódicamente.` },
 
@@ -4740,46 +4744,11 @@ export const guides: Guide[] = [
           ],
         ],
       },
-      { type: "h2", id: "cervical", title: "Masajeadores cervicales: los más buscados" },
+      { type: "h2", id: "cervical", title: "Masajeadores cervicales" },
       {
         type: "p",
         content:
-          "Con 12.000 búsquedas mensuales, los cervicales son lejos lo que más gente busca. Tiene sentido: casi todos laburamos sentados frente a una pantalla y el cuello es lo primero que se resiente.",
-      },
-      {
-        type: "p",
-        content:
-          'Hay dos formatos principales: los tipo "U" que se apoyan en los hombros (como una almohada de viaje pero con motores), y los tipo almohadilla que ponés entre la espalda y la silla. Los tipo U son más populares y, en mi experiencia, funcionan mejor para cervicales específicamente.',
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Opción económica: Femmto Cervical Portátil Inalámbrico",
-          paragraphs: [
-            "Inalámbrico, se carga por USB, liviano. Cumple para tensión leve y para llevarlo a la oficina o de viaje. No tiene calor ni nodos shiatsu, así que para contracturas fuertes se queda corto. Pero para lo que cuesta y la comodidad de no tener cable, está bien.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/1VsNQ2J" }],
-        },
-      },
-      {
-        type: "card",
-        card: {
-          heading: "Opción recomendada: Gadnic Yapeyú Shiatsu con calor infrarrojo",
-          paragraphs: [
-            "8 nodos shiatsu, calor infrarrojo, 3 niveles de intensidad, 180 minutos de autonomía. El calor hace mucha diferencia: relaja el músculo antes de que los nodos hagan presión, y el alivio se siente más profundo. De los cervicales que probé, este es el que mejor resultado me dio.",
-          ],
-          ctas: [{ label: "Ver precio en MercadoLibre", href: "https://meli.la/22qCfXR" }],
-        },
-      },
-      {
-        type: "verdict",
-        content:
-          "Mi opinión: si vas a comprar un cervical, gastá un poco más y elegí uno con calor. La diferencia de precio ($10.000-$15.000 más) se nota bastante en el resultado.",
-      },
-      {
-        type: "p",
-        content:
-          "Tengo una comparativa completa de masajeadores cervicales con más modelos y detalles si querés profundizar.",
+          "Con 12.000 búsquedas mensuales, los cervicales son lejos lo que más gente busca en esta categoría: casi todos laburamos sentados frente a una pantalla y el cuello es lo primero que se resiente. Si el dolor de cuello es tu problema puntual, andá directo a la guía dedicada de [masajeador cervical](/guias/masajeador-cervical): ahí comparamos los modelos tipo \"U\" con y sin calor, y cuál conviene según cuánto querés gastar.",
       },
       { type: "h2", id: "espalda", title: "Masajeadores de espalda" },
       {
@@ -5464,7 +5433,7 @@ export const guides: Guide[] = [
       { label: "Pava Atma: mejor calidad-precio argentina", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
-      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
@@ -5618,7 +5587,7 @@ export const guides: Guide[] = [
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
-      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
@@ -5765,7 +5734,7 @@ export const guides: Guide[] = [
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Oster: ¿vale el precio?", href: "/guias/pava-electrica-oster" },
-      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Comprar pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
@@ -5966,7 +5935,7 @@ export const guides: Guide[] = [
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Oster: ¿vale el precio?", href: "/guias/pava-electrica-oster" },
-      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
@@ -6116,7 +6085,7 @@ export const guides: Guide[] = [
       { label: "Ver Atma PEAT1351 (más barata)", href: "https://meli.la/1TBSj3K" },
       { label: "Ver Philips HD9350 (acero completo)", href: "https://meli.la/2kpg1Zr" },
       { label: "Ver Oster KT4970W (mate)", href: "https://meli.la/1JfvkMc" },
-      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava Atma: mejor calidad-precio", href: "/guias/pava-electrica-atma" },
@@ -6219,7 +6188,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Ver Liliana Mateando en MercadoLibre", href: "https://meli.la/2qM28cx" },
       { label: "Ver Peabody Digital en MercadoLibre", href: "https://meli.la/2cyQgD2" },
-      { label: "Pava eléctrica: cuál comprar (guía completa)", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Pava con control de temperatura: ¿la necesitás?", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Peabody: ¿vale la pena el digital?", href: "/guias/pava-electrica-peabody" },
@@ -6394,6 +6363,7 @@ export const guides: Guide[] = [
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
       { label: "Precios por rango 2026", href: "/guias/pava-electrica-precio" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
   },
@@ -6550,6 +6520,7 @@ export const guides: Guide[] = [
       { label: "Pava Peabody: ¿vale el digital?", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Liliana: ¿cuál de las 4?", href: "/guias/pava-electrica-liliana" },
       { label: "Pava Philips: ¿vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
       { label: "Todas las pavas en Cocina", href: "/categoria/cocina" },
     ],
   },
@@ -8006,6 +7977,7 @@ export const guides: Guide[] = [
       { label: "Pava Atma: la mejor opción calidad-precio", href: "/guias/pava-electrica-atma" },
       { label: "Pava Peabody: cuál elegir", href: "/guias/pava-electrica-peabody" },
       { label: "Pava por precio: guía por rango", href: "/guias/pava-electrica-precio" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
     ],
   },
 
@@ -8117,6 +8089,7 @@ export const guides: Guide[] = [
       { label: "Pava de acero inoxidable", href: "/guias/pava-electrica-acero-inoxidable" },
       { label: "Pava por rango de precio", href: "/guias/pava-electrica-precio" },
       { label: "Guía de pavas en MercadoLibre", href: "/guias/pava-electrica-mercadolibre" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
     ],
   },
 
@@ -8239,6 +8212,7 @@ export const guides: Guide[] = [
       { label: "Pava pequeña: investigación del mercado", href: "/guias/pava-electrica-pequena" },
       { label: "Pava Peabody: cuál modelo elegir", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Philips: vale la pena?", href: "/guias/pava-electrica-philips" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
     ],
   },
 
@@ -8337,6 +8311,7 @@ export const guides: Guide[] = [
       { label: "Pava de vidrio", href: "/guias/pava-electrica-vidrio" },
       { label: "Pava con control de temperatura", href: "/guias/pava-electrica-control-temperatura" },
       { label: "Pava por rango de precio", href: "/guias/pava-electrica-precio" },
+      { label: "Pava eléctrica", href: "/guias/pava-electrica" },
     ],
   },
 // ─────────────────────────────────────────────────────────────────────────────
@@ -10311,10 +10286,10 @@ export const guides: Guide[] = [
     category: "freidoras-de-aire",
     pillar: true,
     title: `Las mejores freidoras de aire en Argentina [2026]: Guía completa`,
-    seoTitle: `Mejores freidoras de aire en Argentina 2026: cuál comprar`,
+    seoTitle: `Cuál es la mejor freidora de aire en Argentina [2026]`,
     metaDescription: `Comparamos 20 freidoras de aire en Argentina: Atma, Peabody, Philips, Ninja y más. Precio, capacidad y cuál comprar según tu hogar.`,
     h1: `Las mejores freidoras de aire en Argentina [2026]`,
-    directAnswer: `Para la mayoría conviene la **Atma FR248AP de 8 litros** (alrededor de {{precio:MLA39861162:k}}): control táctil, garantía local y tamaño que alcanza para una familia. Si priorizás cocción pareja, la Philips con tecnología Rapid Air; y si querés la entrada más barata a la categoría, la de 4,2 litros a precio de entrada.`,
+    directAnswer: `La mejor freidora de aire en Argentina para la mayoría es la **Atma FR248ABP de 8 litros** (alrededor de {{precio:MLA39861162:k}}): control táctil, garantía local y tamaño que alcanza para una familia. Si priorizás cocción pareja, elegí la Philips con tecnología Rapid Air; si buscás la entrada más barata a la categoría, la de 4,2 litros a precio de entrada.`,
     publishedDate: "2026-04-15",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
@@ -10332,7 +10307,7 @@ export const guides: Guide[] = [
     ],
     sections: [
       { type: "image", src: "/images/freidoras/peabody-pe-afd650n.webp", alt: `Peabody PE-AFD650N, una de las mejores freidoras de aire en Argentina` },
-      { type: "h2", title: `Resumen rápido: cuál comprar según tu caso` },
+      { type: "h2", title: `¿Cuál es la mejor freidora de aire en Argentina?` },
       { type: "p", content: `La mejor freidora de aire para la mayoría de los hogares en Argentina es la Atma FR248ABP de 8 litros: la mejor relación capacidad, precio y garantía local. Si cocinás todos los días y el presupuesto da, la Philips HD9270 cocina más parejo. Para familia numerosa, la Kanji Home de 8 litros. Abajo, el detalle según tu caso.` },
       { type: "list", items: [
         `Mejor relación precio/calidad para 2-4 personas: [Atma FR248ABP 8L](/guias/atma-freidoras-de-aire-review)`,
@@ -17754,6 +17729,9 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_678748-MLA99465933306_112025-F.jpg", alt: `Cafetera express Smartlife SL-EC8501 de 20 bares con espumador, una de las más vendidas de Argentina`, imageSize: "hero" },
 
+      { type: "h2", title: `¿Cuál es la mejor cafetera express doméstica?` },
+      { type: "p", content: `La mejor cafetera express doméstica para la mayoría en Argentina es la Smartlife SL-EC8501: 20 bares de presión real, espumador de leche y dos portafiltros (café molido o cápsulas Nespresso) por alrededor de {{precio:MLA18562154:k}}. Si preferís que el espumador dosifique la leche solo, la Oster BVSTEM5501B; si el presupuesto manda, la Ultracomb CE-6108 de 15 bares.` },
+
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras express disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones. Miramos cuatro cosas que cambian el café de verdad: presión real de bomba (verificada contra la ficha técnica, no contra el título de la publicación), si el espumador de leche es práctico o decorativo, si acepta café molido, cápsulas o ambos, y qué dicen las calificaciones públicas de compradores reales. Los precios son de junio 2026 y los revisamos periódicamente.` },
 
       { type: "h2", title: `Qué es una cafetera express y en qué se diferencia`, id: "que-es" },
@@ -18240,6 +18218,8 @@ export const guides: Guide[] = [
       { type: "p", content: `Ese acceso a las cápsulas es la mitad de la decisión. Una cafetera de cápsulas te casa con su sistema durante años, y casarse con un sistema cuyas dosis venden el chino de la esquina y la web oficial con descuentos por cantidad es una apuesta más tranquila que depender de boutiques. Además existen cápsulas compatibles (Starbucks para Dolce Gusto, marcas propias de supermercado) y recargables, que se cargan con tu café molido favorito y bajan el costo por taza en serio.` },
       { type: "callout", calloutVariant: "tip", calloutTitle: "El cupón del 60%", content: `La caja de la Piccolo XS trae un cupón de 60% de descuento para la tienda online de Dolce Gusto. No es marketing viejo: lo confirman reseñas recientes de compradores que arrancaron el stock de cápsulas con ese descuento. Si la comprás, usalo antes de que venza.` },
 
+      { type: "p", content: `Si en cambio buscás el espresso con crema hecho con café molido y presión real (sin cápsulas), esa es otra categoría: mirá la guía de [cafetera express](/guias/cafetera-express) para el ranking completo.` },
+
       { type: "h2", title: `Las dos máquinas para cápsulas Dolce Gusto que se consiguen hoy`, id: "modelos" },
 
       { type: "h3", title: `Dolce Gusto Piccolo XS: la cafetera más vendida del país` },
@@ -18401,7 +18381,7 @@ export const guides: Guide[] = [
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** analizamos las cafeteras de filtro disponibles hoy en MercadoLibre Argentina y las ordenamos por relación precio-prestaciones, cruzando ficha técnica con calificaciones públicas de compradores reales. Miramos capacidad real de jarra, si es programable, materiales (la fragilidad es la queja número uno de la categoría) y qué dicen las reseñas sobre la temperatura del café. Los precios son de junio 2026.` },
 
       { type: "h2", title: `Filtro, express o cápsulas: cuál te corresponde`, id: "filtro-vs-express" },
-      { type: "p", content: `Las tres categorías hacen cosas distintas y conviene tenerlo claro antes de gastar un peso. La **express** empuja agua a presión y hace espresso con crema: el mejor café, a cambio de un ritual de moler, compactar y limpiar, y desde $133.999 las que valen la pena (el ranking completo está en la [guía de cafeteras express](/guias/cafetera-express)). Las **cápsulas** automatizan todo con dosis selladas: máxima comodidad, costo por taza más alto. La **de filtro** hace café de jarra por goteo: ni la intensidad del espresso ni la velocidad de la cápsula, pero llena un litro de café con el molido más barato del supermercado.` },
+      { type: "p", content: `Las tres categorías hacen cosas distintas y conviene tenerlo claro antes de gastar un peso. La **express** empuja agua a presión y hace espresso con crema: el mejor café, a cambio de un ritual de moler, compactar y limpiar, y desde $133.999 las que valen la pena (el ranking completo está en la guía de [cafetera express](/guias/cafetera-express)). Las **cápsulas** automatizan todo con dosis selladas: máxima comodidad, costo por taza más alto. La **de filtro** hace café de jarra por goteo: ni la intensidad del espresso ni la velocidad de la cápsula, pero llena un litro de café con el molido más barato del supermercado.` },
       { type: "p", content: `La cuenta que define la compra es simple: ¿cuántas tazas se toman por día en tu casa? Una o dos, mirá cápsulas o express. Cuatro o más, la de filtro amortiza sola: una jarra entera cuesta en café molido lo que una cápsula y media. Y el goteo tiene un plus que las otras no dan: la jarra queda caliente sobre la base mientras dure el desayuno.` },
 
       { type: "h2", title: `El ranking: mejores cafeteras de filtro 2026`, id: "ranking" },
