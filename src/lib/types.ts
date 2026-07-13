@@ -154,7 +154,9 @@ export interface Coupon {
   code: string;
   discountAmount: number;
   minPurchase: number;
-  /** ISO datetime. `null`/omitido = sin vencimiento confirmado por MELI. */
+  /** ISO datetime start. `null`/omitido = válido desde cualquier hora. */
+  validFrom?: string | null;
+  /** ISO datetime end. `null`/omitido = sin vencimiento confirmado por MELI. */
   validUntil?: string | null;
   active: boolean;
 }

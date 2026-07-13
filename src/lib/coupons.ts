@@ -5,7 +5,7 @@ import type { Coupon } from "./types";
 export function getApplicableCoupon(price: number): Coupon | null {
   const now = new Date();
   const eligible = activeCoupons.filter(
-    (c) => c.active && price >= c.minPurchase && (!c.validUntil || new Date(c.validUntil) > now)
+    (c) => c.active && price >= c.minPurchase && (!c.validFrom || new Date(c.validFrom) <= now) && (!c.validUntil || new Date(c.validUntil) > now)
   );
   if (eligible.length === 0) return null;
   return eligible.reduce((best, c) => (c.discountAmount > best.discountAmount ? c : best));
