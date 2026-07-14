@@ -26288,7 +26288,7 @@ No tiene shiatsu ni nodos rotativos. Es percusión por vibración, que es difere
         price: '56620',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
-        url: 'https://meli.la/1cUYmpY',
+        url: 'https://meli.la/159WHqm',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
@@ -33687,9 +33687,7 @@ Por ARS 40.999 con envío gratis, el Sabah Al Ward es un floral dulce honesto: h
     category: "Belleza",
     categorySlug: "belleza",
     permalink: "https://www.mercadolibre.com.ar/perfume-asad-negro-100ml-estilo-arabe-exquisito-generico/up/MLAU3562485598",
-    // Link viejo (catálogo MLAU3562485598 quedó sin vendedores el 2026-07-01): https://meli.la/2t9EpWq
-    // Instrucción de Juan: si ese catálogo vuelve a tener stock, RESTAURAR el link viejo.
-    affiliateUrl: "https://www.mercadolibre.com.ar/social/jm159?matt_word=productosvirales&matt_tool=12465328&forceInApp=true&ref=BBpg7XJ6v9IWSYlvVEjI305i%2Feljr3SqbFH333dlxpwgH9RBybu0aXuEB2TXlSnmxSYp4LJfEIkf6UiNZ3gk9DT7PekvFO40mWRJhV72GEkFZ8%2FpDVZtm3xIXIGMf5sg8iAeojiTaY26Q61aJrYsbv%2FhKzRe4CHhMtCir8i21GiIJ5LMv3mil4cfgh%2F4tPeM%2BF1YgrIbAH%2FT30xTBw%3D%3D",
+    affiliateUrl: "https://meli.la/2t9EpWq",
     condition: "new",
     freeShipping: true,
     rating: 4.4,
@@ -42153,9 +42151,7 @@ No es para vos si: buscás algo robusto que aguante trato descuidado, o te frust
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: 'https://www.mercadolibre.com.ar/p/MLA72187457',
-    // Link viejo (catálogo MLA72187457 quedó sin vendedores el 2026-07-01): https://meli.la/1y5nrwc
-    // Instrucción de Juan: si ese catálogo vuelve a tener stock, RESTAURAR el link viejo.
-    affiliateUrl: 'https://www.mercadolibre.com.ar/social/jm159?matt_word=productosvirales&matt_tool=12465328&forceInApp=true&ref=BNlmbjdcjXh1t8CMDy0BiuZ8ZQBBQwByUSbuY1qiEonKUlDeJUJJOo0fyXNnr046uYTYymPezCg8OEhDZPt1x9PA5xZ3C2UyAK5OM73jtEt%2FTirO2OCfXvwz2e0m4aMq9v449VTDYncU8eTIIDQf%2FEDvLDyWtUqvZMcTuYCS4LykcX9JA9nGfzOmy4cf8bS3y23feJv2Alz8LgGyqA%3D%3D',
+    affiliateUrl: 'https://meli.la/1E7kmeJ',
     condition: 'new',
     freeShipping: true,
     brand: 'Electrolux',
@@ -42896,7 +42892,7 @@ A $174.521 con 4.7 estrellas, es la flexibilidad hecha cafetera — siempre que 
     category: 'Cocina',
     categorySlug: 'cocina',
     permalink: "https://www.mercadolibre.com.ar/p/MLA22761858",
-    affiliateUrl: "https://www.mercadolibre.com.ar/social/jm159?matt_word=productosvirales&matt_tool=12465328&forceInApp=true&ref=BNf3Xql9zPcG%2BqITuQZVA43Ttcb2MYwhxZvYEc3x%2B7twLXS8qY7KSnQW%2BaT3%2FN6SHGxV6qp2FdJwFlw%2FT6zJdKOWZ%2Fy6zpzo8IH2EXwKRTaCd5Zs%2BOgmgl6C332je1NAL8%2BIq5vQg6Y0Ff6fXSArn10YxtCtHFNZZGyxyx65Hr6qYML5qaqwsyEqRtlkXLaIb89%2BdgQ%3D",
+    affiliateUrl: "https://meli.la/1QMpWAw",
     condition: 'new',
     freeShipping: true,
     brand: 'Smartlife',
