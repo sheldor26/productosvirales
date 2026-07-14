@@ -26176,7 +26176,7 @@ Más opciones en la [guía de masajeador de espalda](/guias/masajeador-espalda) 
     category: 'Belleza',
     categorySlug: 'belleza',
     permalink: 'https://www.mercadolibre.com.ar/p/MLA37705965',
-    affiliateUrl: 'https://www.mercadolibre.com.ar/social/jm159?matt_word=productosvirales&matt_tool=12465328&forceInApp=true&ref=BM1t4l7cfCXOKruONQX2Dlh%2F%2Bsn3Vuy8%2F%2BfP2esmxC9htCMgLAXnAFhMOn2Q6k9ac%2FMpoO9a9V5OT9lqon1NOODjWQLpkJJhdtiskhhpJzJm915NEYt1bBuFNx6eJp%2FIxYZWUV9wuFKunRMr5Es8GnRB9ak4ZsX3%2FFqKlJ9wkm3PFVdBZihVtQ1eFdmOtSoK9LvdkRM%3D',
+    affiliateUrl: 'https://meli.la/159WHqm',
     condition: 'new',
     freeShipping: true,
     rating: 4.8,
