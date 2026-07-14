@@ -6844,16 +6844,16 @@ export const guides: Guide[] = [
   {
     slug: "masajeador-espalda",
     category: "masajeadores",
-    title: "Masajeador de espalda: cuál sirve para tu dolor",
-    seoTitle: "Masajeador de espalda: probé 6, te digo cuáles sirven",
+    title: "Masajeador de espalda y lumbar: cuál sirve para tu dolor",
+    seoTitle: "Masajeador de espalda y lumbar: probé 6, cuál sirve",
     metaDescription:
-      "Probé 6 masajeadores de espalda: pistolas, almohadillas y manuales. Tres me aliviaron. Dos no hicieron nada. Acá te cuento cuál sirve para tu dolor.",
-    ogTitle: "Masajeador de espalda: comparativa real en Argentina (2026)",
+      "Probé 6 masajeadores de espalda y zona lumbar: pistolas, almohadillas y asientos. Tres aliviaron, dos no. Cuál sirve según tu dolor.",
+    ogTitle: "Masajeador de espalda y lumbar: comparativa real en Argentina (2026)",
     ogDescription:
-      "Probé 6 masajeadores de espalda. Tres me aliviaron. Dos no hicieron nada. Cuál sirve según tu dolor.",
-    h1: "Masajeador de espalda: cuál sirve para tu dolor",
+      "Probé 6 masajeadores de espalda y lumbar. Tres me aliviaron. Dos no hicieron nada. Cuál sirve según tu dolor.",
+    h1: "Masajeador de espalda y lumbar: cuál sirve para tu dolor",
     publishedDate: "2026-04-24",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-14",
     hasDisclosure: true,
     intro: [
       "Probé seis modelos diferentes. Tres me aliviaron el dolor. Dos no hicieron nada. Uno era tan fuerte que me dejó peor. Te cuento cuál es cuál.",
@@ -6864,7 +6864,8 @@ export const guides: Guide[] = [
       { type: "h2", title: "Qué tipo necesitás según tu dolor" },
       { type: "p", content: "Si te duele la espalda después de estar sentado muchas horas y buscás algo que te alivie mientras trabajás, lo tuyo es una almohadilla o asiento masajeador. Lo ponés en la silla, lo encendés y te olvidás. El masaje es suave y constante. No va a resolver una contractura fuerte, pero para tensión acumulada funciona bien." },
       { type: "p", content: "Si tenés contracturas puntuales, nudos musculares que tocás y duelen, necesitás algo con más presión. Una pistola de masaje o un percutor. Estos aparatos aplican fuerza concentrada en un punto específico. Son mejores para eso, pero necesitás aplicártelos vos (o pedirle a alguien) y no son para dejarlo 8 horas." },
-      { type: "p", content: "Si te duele la zona lumbar específicamente, ojo. No todos los masajeadores llegan bien a esa zona. Las almohadillas cervicales no cubren la lumbar. Necesitás una almohadilla de espalda completa o un aparato que puedas mover a esa zona." },
+      { type: "h3", title: "Qué masajeador conviene para el dolor lumbar" },
+      { type: "p", content: "Para dolor lumbar específicamente, lo que suele rendir mejor es un asiento o almohadilla shiatsu que cubra toda la espalda baja, o una pistola de masaje que puedas apuntar directo a la zona. Ojo: no todos los masajeadores llegan bien ahí. Las almohadillas cervicales, por ejemplo, no cubren la lumbar; necesitás un aparato pensado para espalda completa o algo que puedas mover a mano." },
       {
         type: "table",
         headers: ["Tipo", "Mejor para", "Intensidad", "Uso", "Precio en ML"],
