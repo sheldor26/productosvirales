@@ -304,6 +304,12 @@ Pendiente aparte, no resuelto hoy: `cargador-portatil` (mismo lote de guías STA
 
 Medir por primera vez: ~2026-08-01 (2-3 semanas de indexación).
 
+**Publicación de `cargador-portatil` (2026-07-14, más tarde el mismo día).** Cierra el pendiente de arriba. El sucesor Gadnic 22.000mAh terminó descartado: sus 2.455 reseñas resultaron ser las mismas que las del producto de 20.000mAh descontinuado (una reseña citaba textual "20,000 mah", la cita más votada era idéntica a la vieja) — contradicción marketing-vs-reseñas, se resolvió a favor de las reseñas y se buscó otra alternativa. Reemplazo elegido: **Gadnic 25.000 mAh (MLA28743686)**, verificado en vivo: 4º más vendido de la categoría, +10 mil vendidos, 3.376 opiniones propias (sin arrastre), 4.6★, entrada USB-C (mejora sobre el modelo viejo). Juan confirmó el afiliado (`meli.la/1SyyXcw`). Ficha nueva completa armada siguiendo `docs/fichas.md`. Guía nueva, sin baseline previo.
+
+3 pasadas de auditoría con el trío. Primera pasada encontró bloqueantes reales: `publishedDate` sin flipear, inconsistencia preexistente entre `directAnswer` (decía Gadnic "para la mayoría") y callout/veredicto/FAQ (decían Xiaomi "para la mayoría") — se alineó a favor de la versión mayoritaria (3 de 4 menciones); 5 precios hardcodeados sin tokenizar; una frase editorial interna filtrada al `description` público de la ficha ("reemplaza al Gadnic viejo..."); y 4 productos activos con `relatedProducts` todavía apuntando al Gadnic 20.000 descontinuado, corregidos a apuntar al nuevo. Segunda pasada: GO limpio de Codex y agy. `tsc --noEmit`, `guides:check` y `npm run build` verdes. Sin verificación visual en navegador (server de otra sesión no alcanzable desde este pane), compensado con 2 rondas de auditoría de contenido completo.
+
+Medir junto con las 3 guías de cocina: ~2026-08-01.
+
 ---
 
 ## Mediciones posteriores

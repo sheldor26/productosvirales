@@ -3562,19 +3562,19 @@ export const guides: Guide[] = [
     pillar: true,
     title: `Cargador portátil: cuál comprar en Argentina [2026]`,
     seoTitle: `Cargador Portátil (Power Bank): Cuál Comprar | 2026`,
-    metaDescription: `Descubrí qué cargador portátil comprar en Argentina: 10.000 o 20.000 mAh, con carga rápida o magnético. Compará precios reales y elegí el tuyo.`,
+    metaDescription: `Descubrí qué cargador portátil comprar en Argentina: 10.000 o 25.000 mAh, con carga rápida o magnético. Compará precios reales y elegí el tuyo.`,
     ogTitle: `Cargador portátil: cuál comprar en Argentina`,
     ogDescription: `Del power bank más vendido al que carga notebooks. Gadnic, Xiaomi, Energizer y Ugreen comparados por capacidad real, velocidad y precio de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_604358-MLA99985510449_112025-O.webp`,
     h1: `Cargador portátil (power bank): cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Para la mayoría conviene el **Gadnic de 20.000 mAh** (alrededor de {{precio:MLA21235471:k}}): la mayor capacidad por la menor plata. Si preferís marca, el Xiaomi de 10.000 mAh tiene carga turbo a precio de genérico; y para notebook, el Energizer de 27.000 mAh y 65 W. Dato clave: la capacidad útil real es un 60-70% de la que dice el envase.`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-06",
+    directAnswer: `Para la mayoría conviene el **Xiaomi de 10.000 mAh** (alrededor de {{precio:MLA40654567:k}}): carga rápida de 22,5 W y marca global a precio de genérico. Si querés la máxima capacidad por poca plata, el **Gadnic de 25.000 mAh**; y para notebook, el Energizer de 27.000 mAh y 65 W. Dato clave: la capacidad útil real es un 60-70% de la que dice el envase.`,
+    publishedDate: "2026-07-14",
+    updatedDate: "2026-07-14",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `Un cargador portátil va de $36.000 (20.000 mAh genérico) a $120.000 (65 W, carga notebooks). Te mostramos cuál conviene según tu teléfono y tu uso, con un dato que casi nadie aclara: la capacidad útil real es un 60-70% de la que dice el envase. Precios reales de MercadoLibre.`,
+    standfirst: `Un cargador portátil va de {{precio:MLA28743686:k}} (25.000 mAh genérico) a {{precio:MLA51985227:k}} (65 W, carga notebooks). Te mostramos cuál conviene según tu teléfono y tu uso, con un dato que casi nadie aclara: la capacidad útil real es un 60-70% de la que dice el envase. Precios reales de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA21235471", label: "El más vendido", labelColor: "green", tagline: "Gadnic 20.000 mAh: la mayor capacidad por la menor plata" },
+      { productMlaId: "MLA28743686", label: "El más vendido", labelColor: "green", tagline: "Gadnic 25.000 mAh: la mayor capacidad por la menor plata" },
       { productMlaId: "MLA40654567", label: "Mejor precio-marca", labelColor: "blue", tagline: "Xiaomi 10.000 mAh: 22,5 W de turbo a precio de genérico" },
       { productMlaId: "MLA29504563", label: "20.000 con display", labelColor: "purple", tagline: "Mcdodo 20.000 mAh: turbo de 22,5 W y porcentaje exacto en pantalla" },
       { productMlaId: "MLA51985227", label: "Para notebook", labelColor: "amber", tagline: "Energizer 27.000 mAh y 65 W: carga todo, notebook incluida" },
@@ -3586,7 +3586,7 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_604358-MLA99985510449_112025-O.webp", alt: `Cargador portátil Xiaomi de 10.000 mAh, el mejor precio-marca de Argentina`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Xiaomi de 10.000 mAh**: carga rápida de 22,5 W y marca global a precio de genérico. Si querés la **máxima capacidad por poca plata**, el **Gadnic de 20.000 mAh** (el más vendido). Para **capacidad grande con turbo y display**, el **Mcdodo de 20.000 mAh**. Con **iPhone**, el **Ugreen magnético**. Y si cargás **notebook**, el **Energizer de 27.000 mAh y 65 W**.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Xiaomi de 10.000 mAh**: carga rápida de 22,5 W y marca global a precio de genérico. Si querés la **máxima capacidad por poca plata**, el **Gadnic de 25.000 mAh** (el más vendido). Para **capacidad grande con turbo y display**, el **Mcdodo de 20.000 mAh**. Con **iPhone**, el **Ugreen magnético**. Y si cargás **notebook**, el **Energizer de 27.000 mAh y 65 W**.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los cargadores portátiles con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: la **capacidad útil real** (no la del envase), la **velocidad de carga** en watts, el peso y el precio por mAh. Las calificaciones son de compradores reales, incluidas las críticas: una reseña documentada con datos del fabricante nos confirmó la regla del 60-70% de capacidad útil. Precios de julio 2026, revisados periódicamente.` },
 
@@ -3596,44 +3596,44 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Los mejores cargadores portátiles 2026`, id: "ranking" },
 
-      { type: "h3", title: `1. Gadnic 20.000 mAh — el más vendido` },
-      { type: "product-card", productMlaId: "MLA21235471", label: "El más vendido", labelColor: "green", ranking: 1, description: `20.000 mAh con doble USB al precio más bajo de la comparativa. 4.6 estrellas en más de 2.600 calificaciones: el power bank más vendido del país.` },
-      { type: "p", content: `Si la cuenta es mAh por peso argentino, gana el Gadnic: **20.000 mAh por menos de lo que sale un 10.000 de marca**, con dos salidas USB y más de 2.600 calificaciones. Hasta tiene una prueba de robustez involuntaria: una compradora lo llevó a un recital bajo lluvia torrencial, terminó empapado y siguió andando.` },
-      { type: "p", content: `Lo honesto: es pesado (equipo de mochila), sus salidas de 5 V no tienen el turbo de 22,5 W de los de marca, y su 4.6 es la calificación más baja de esta guía. Pagás poco por mucha capacidad, no por refinamiento.` },
-      { type: "pull-quote", content: `"Pesado como político en elecciones. Pero se ve de muy buen material."`, attribution: `Opinión verificada en MercadoLibre` },
+      { type: "h3", title: `1. Gadnic 25.000 mAh — el más vendido` },
+      { type: "product-card", productMlaId: "MLA28743686", label: "El más vendido", labelColor: "green", ranking: 1, description: `25.000 mAh con entrada USB-C y doble salida USB al precio más bajo de la comparativa. 4.6 estrellas en más de 3.300 calificaciones: 4º más vendido de la categoría en Argentina.` },
+      { type: "p", content: `Si la cuenta es mAh por peso argentino, gana el Gadnic: **25.000 mAh por menos de lo que sale un 10.000 de marca**, con dos salidas USB, entrada USB-C moderna y más de 3.300 calificaciones. Una reseña con iPhone 13 Plus reporta 4 cargas completas con una sola carga del power bank.` },
+      { type: "p", content: `Lo honesto: es pesado (equipo de mochila, unos 388 g según una reseña), sus salidas de 5 V no tienen el turbo de 22,5 W de los de marca, y el USB-C es solo de entrada (no sirve para cargar otro dispositivo). Pagás poco por mucha capacidad, no por refinamiento.` },
+      { type: "pull-quote", content: `"Es espectacular, lo probé con un iPhone 13 Plus y me rindió para 4 cargas con el celu prendido."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Ugreen Magnético 10.000 mAh — el mejor para iPhone` },
       { type: "product-card", productMlaId: "MLA41677171", label: "Para iPhone", labelColor: "blue", ranking: 2, description: `Se pega atrás del iPhone (MagSafe) y carga sin cable; por USB-C entrega 20 W. 4.8 estrellas en más de 1.500 calificaciones.` },
-      { type: "p", content: `Para usuarios de iPhone con MagSafe, el Ugreen resuelve el problema de los cables: **se pega magnéticamente a la espalda del teléfono** y carga por inducción mientras lo usás. Da unas dos cargas de iPhone y por cable USB-C entrega 20 W de carga rápida, a alrededor de $67.000.` },
+      { type: "p", content: `Para usuarios de iPhone con MagSafe, el Ugreen resuelve el problema de los cables: **se pega magnéticamente a la espalda del teléfono** y carga por inducción mientras lo usás. Da unas dos cargas de iPhone y por cable USB-C entrega 20 W de carga rápida, a alrededor de {{precio:MLA41677171:k}}.` },
       { type: "p", content: `El compromiso lo aclara la reseña crítica más completa: por imán carga **lento** y calienta un poco (normal en inducción); para apuro, cable. Es comodidad, no velocidad.` },
       { type: "pull-quote", content: `"Carga 2 veces el celular (iPhone 15 Pro), se adhiere bien al MagSafe. Lo malo: carga demasiado lento por MagSafe. No es para cargar y usar; lo recomiendo con el cable que viene incluido."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Xiaomi 10.000 mAh — el mejor precio-marca` },
       { type: "product-card", productMlaId: "MLA40654567", label: "Mejor precio-marca", labelColor: "purple", ranking: 3, description: `22,5 W de turbo real, 3 puertos y marca global a precio de genérico. 4.8 estrellas en más de 1.100 calificaciones.` },
-      { type: "p", content: `La compra de entrada más lógica: por lo que sale un power bank sin nombre, el Xiaomi da **22,5 W de carga rápida** (activa el turbo en celulares compatibles), 3 puertos y tamaño de bolsillo, a alrededor de $38.000. Compradores con celulares de batería chica reportan 5 y 6 cargas por ciclo.` },
+      { type: "p", content: `La compra de entrada más lógica: por lo que sale un power bank sin nombre, el Xiaomi da **22,5 W de carga rápida** (activa el turbo en celulares compatibles), 3 puertos y tamaño de bolsillo, a alrededor de {{precio:MLA40654567:k}}. Compradores con celulares de batería chica reportan 5 y 6 cargas por ciclo.` },
       { type: "p", content: `La contra más valiosa de toda la categoría la documentó un comprador con imágenes del fabricante: la **capacidad útil ronda los 5.500-6.500 mAh**, no los 10.000 del envase. En un celular de 5.000 mAh es una carga completa, no dos. Vale para todas las marcas, pero acá quedó demostrado.` },
       { type: "pull-quote", content: `"Buena marca, relación calidad-precio. Pero la capacidad real no es 10.000 mAh sino 5.500. Si tu teléfono trae una batería de 5.000 mAh, no van a ser 2 cargas, solo 1."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `4. Energizer Ultimate 10.000 mAh — el del visor` },
       { type: "product-card", productMlaId: "MLA47759077", label: "Con visor LCD", labelColor: "slate", ranking: 4, description: `Visor LCD con porcentaje exacto de carga restante y 22,5 W. 4.8 estrellas. Una reseña midió: iPhone 15 de 20 a 90% usando solo el 30% del equipo.` },
-      { type: "p", content: `Su diferencial es el **visor LCD con porcentaje exacto**: sabés con cuánta batería salís de casa, en vez de adivinar con 4 lucecitas. La prueba de un comprador lo respalda: un iPhone 15 de 20 a 90% en una hora y cuarto, consumiendo solo el 30% del power bank (unas 3 cargas por ciclo), a alrededor de $49.000.` },
+      { type: "p", content: `Su diferencial es el **visor LCD con porcentaje exacto**: sabés con cuánta batería salís de casa, en vez de adivinar con 4 lucecitas. La prueba de un comprador lo respalda: un iPhone 15 de 20 a 90% en una hora y cuarto, consumiendo solo el 30% del power bank (unas 3 cargas por ciclo), a alrededor de {{precio:MLA47759077:k}}.` },
       { type: "p", content: `Lo honesto: hace lo mismo que el Xiaomi de 10.000 por un 25% más; pagás el visor y la marca. Y el cable incluido es muy corto, marcan las reseñas.` },
 
       { type: "h3", title: `5. Mcdodo 20.000 mAh — capacidad con turbo y display` },
       { type: "product-card", productMlaId: "MLA29504563", label: "20.000 con display", labelColor: "green", ranking: 5, description: `20.000 mAh con turbo de 22,5 W y display digital de porcentaje. 4.9 estrellas sin ninguna calificación por debajo de 4, aunque con base chica (46).` },
-      { type: "p", content: `Si querés capacidad grande con carga rápida de verdad y porcentaje exacto en pantalla, el Mcdodo junta todo por alrededor de $52.000. La velocidad está medida por un comprador: su Galaxy S22 pasó de **20 a 85% en 30 minutos**, igual que con el cargador de pared de 25 W. Y otro lo llevó dos meses por el Camino de Santiago cargando celular, cámara y auriculares sin una falla.` },
+      { type: "p", content: `Si querés capacidad grande con carga rápida de verdad y porcentaje exacto en pantalla, el Mcdodo junta todo por alrededor de {{precio:MLA29504563:k}}. La velocidad está medida por un comprador: su Galaxy S22 pasó de **20 a 85% en 30 minutos**, igual que con el cargador de pared de 25 W. Y otro lo llevó dos meses por el Camino de Santiago cargando celular, cámara y auriculares sin una falla.` },
       { type: "p", content: `Lo honesto: su base de opiniones es chica (46 calificaciones, aunque con 4.9 y ninguna por debajo de 4 estrellas) y la marca es menos conocida acá que Xiaomi o Energizer. Como todo 20.000, es de mochila.` },
       { type: "pull-quote", content: `"Lo compré para hacer el Camino de Santiago: me salvó el viaje de dos meses. Aguanta todo y da para cargar el celular varias veces. También cargaba una cámara y los auriculares. No me falló nunca."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `6. Energizer Ultimate 27.000 mAh 65 W — el que carga notebooks` },
       { type: "product-card", productMlaId: "MLA51985227", label: "Para notebook", labelColor: "amber", ranking: 6, description: `65 W reales (carga notebooks), 27.000 mAh, 4 puertos y modo para smartwatch. 4.8 estrellas, base de opiniones más chica (156).` },
       { type: "p", content: `El premium total: **65 W** que cargan una notebook o un celular de carga ultra rápida (una reseña con un teléfono de 68 W reporta velocidad casi igual a la del cargador de pared), 27.000 mAh, 4 puertos y un modo de baja corriente para smartwatch y auriculares. Dato de viajero: sus 27.000 mAh equivalen a unos 99,9 Wh, justo debajo del límite típico de 100 Wh para cabina (verificá igual con tu aerolínea).` },
-      { type: "p", content: `Lo honesto: a alrededor de $121.000 es el más caro por lejos, con la base de opiniones más chica del grupo (156). Solo se justifica si vas a usar los 65 W; para cargar el celular, cualquiera de los anteriores lo hace por la mitad.` },
+      { type: "p", content: `Lo honesto: a alrededor de {{precio:MLA51985227:k}} es el más caro por lejos, con la base de opiniones más chica del grupo (156). Solo se justifica si vas a usar los 65 W; para cargar el celular, cualquiera de los anteriores lo hace por la mitad.` },
       { type: "pull-quote", content: `"Tengo un celu de carga de 68 W y lo carga similar con el power bank que con el cargador de 220 V. Que sea Energizer le da confianza."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h2", title: `Tabla comparativa: capacidad, velocidad y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Velocidad`, `Ideal para`], rows: [
-        [`[Gadnic 20.000](https://meli.la/2qTtSTX)`, `{{precio:MLA21235471}}`, `20.000 mAh`, `USB 5 V (lenta)`, `Máxima capacidad, mínima plata`],
+        [`[Gadnic 25.000](https://meli.la/1SyyXcw)`, `{{precio:MLA28743686}}`, `25.000 mAh`, `USB 5 V (lenta)`, `Máxima capacidad, mínima plata`],
         [`[Xiaomi 10.000](https://meli.la/25Btfk1)`, `{{precio:MLA40654567}}`, `10.000 mAh`, `22,5 W`, `El diario de bolsillo, mejor precio-marca`],
         [`[Energizer 10.000 LCD](https://meli.la/1fkgcJy)`, `{{precio:MLA47759077}}`, `10.000 mAh`, `22,5 W`, `Visor con porcentaje exacto`],
         [`[Mcdodo 20.000 display](https://meli.la/197mZCN)`, `{{precio:MLA29504563}}`, `20.000 mAh`, `22,5 W`, `Capacidad + display de porcentaje`],
@@ -3655,16 +3655,16 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Cuánto cuesta un cargador portátil en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**Alrededor de {{precio:MLA21235471:k}} a {{precio:MLA40654567:k}}:** la base: el [Gadnic 20.000](https://meli.la/2qTtSTX) (capacidad bruta) y el [Xiaomi 10.000](https://meli.la/25Btfk1) (carga rápida de marca). La compra inteligente para la mayoría está acá.`,
+        `**Alrededor de {{precio:MLA28743686:k}} a {{precio:MLA40654567:k}}:** la base: el [Gadnic 25.000](https://meli.la/1SyyXcw) (capacidad bruta) y el [Xiaomi 10.000](https://meli.la/25Btfk1) (carga rápida de marca). La compra inteligente para la mayoría está acá.`,
         `**Alrededor de {{precio:MLA47759077:k}} a {{precio:MLA41677171:k}}:** la gama media: el [Energizer 10.000 con visor](https://meli.la/1fkgcJy), el [Mcdodo 20.000 con display](https://meli.la/197mZCN) y el [Ugreen magnético](https://meli.la/1AdEkV3) para iPhone.`,
         `**Alrededor de {{precio:MLA51985227:k}}:** el premium: [Energizer 27.000 mAh y 65 W](https://meli.la/32wksAD), el único que carga notebooks.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál cargador portátil comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, el **Xiaomi de 10.000 mAh**: turbo de 22,5 W, bolsillo y marca al precio de un genérico. Si querés **capacidad máxima barata**, el **Gadnic de 20.000** (aceptando peso y carga lenta). Para **capacidad grande con turbo y display**, el **Mcdodo de 20.000**. Con **iPhone y MagSafe**, el **Ugreen magnético**. Si querés **saber cuánta batería queda**, el **Energizer con visor LCD**. Y para **notebook o viajes largos**, el **Energizer de 27.000 mAh y 65 W**. El error a evitar: creer que 10.000 mAh son dos cargas de tu celular; la capacidad útil real es un 60-70% de la del envase.` },
+      { type: "verdict", content: `Para la mayoría, el **Xiaomi de 10.000 mAh**: turbo de 22,5 W, bolsillo y marca al precio de un genérico. Si querés **capacidad máxima barata**, el **Gadnic de 25.000** (aceptando peso y carga lenta). Para **capacidad grande con turbo y display**, el **Mcdodo de 20.000**. Con **iPhone y MagSafe**, el **Ugreen magnético**. Si querés **saber cuánta batería queda**, el **Energizer con visor LCD**. Y para **notebook o viajes largos**, el **Energizer de 27.000 mAh y 65 W**. El error a evitar: creer que 10.000 mAh son dos cargas de tu celular; la capacidad útil real es un 60-70% de la del envase.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor cargador portátil en Argentina?`, answer: `Para la mayoría, el [Xiaomi de 10.000 mAh](https://meli.la/25Btfk1): carga rápida de 22,5 W y marca global a precio de genérico. Por ventas, el [Gadnic de 20.000 mAh](https://meli.la/2qTtSTX); si querés capacidad grande con turbo y display, el [Mcdodo de 20.000](https://meli.la/197mZCN).` },
+      { question: `¿Cuál es el mejor cargador portátil en Argentina?`, answer: `Para la mayoría, el [Xiaomi de 10.000 mAh](https://meli.la/25Btfk1): carga rápida de 22,5 W y marca global a precio de genérico. Por ventas, el [Gadnic de 25.000 mAh](https://meli.la/1SyyXcw); si querés capacidad grande con turbo y display, el [Mcdodo de 20.000](https://meli.la/197mZCN).` },
       { question: `¿Cuántas cargas da un power bank de 10.000 mAh?`, answer: `Una carga completa de un celular moderno de 5.000 mAh, no dos: la capacidad útil real es un 60-70% de la declarada por la conversión de voltaje (una reseña documentada con datos del fabricante calcula unos 5.500 mAh útiles). Para 2 o 3 cargas, buscá 20.000 mAh.` },
       { question: `¿Qué significan los 22,5 W de un cargador portátil?`, answer: `La velocidad de carga. Con 22,5 W se activa la carga rápida de la mayoría de los celulares (el cartel de turbo charge); con salidas comunes de 5 V la carga es mucho más lenta. Para notebooks se necesitan 65 W, como los del [Energizer grande](https://meli.la/32wksAD).` },
       { question: `¿Se puede llevar un power bank en el avión?`, answer: `Sí, siempre en el equipaje de mano (nunca despachado). El límite habitual sin autorización es 100 Wh: todos los de esta guía quedan por debajo, incluso el Energizer de 27.000 mAh (unos 99,9 Wh). Verificá igual las reglas de tu aerolínea.` },

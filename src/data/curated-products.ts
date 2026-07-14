@@ -50802,7 +50802,7 @@ Comprá este kit si estás construyendo o remodelando (podés pasar los cables p
     reviewCount: 2753,
     ratingBreakdown: { five: "77.49%", four: "14.95%", three: "4.09%", two: "1.32%", one: "2.16%" },
     pastelColor: "var(--pastel-verde)",
-    visibility: "normal",
+    visibility: "deprioritized",
     specs: [
       { label: "Marca", value: "Gadnic" },
       { label: "Línea", value: "Energy Power" },
@@ -50856,6 +50856,82 @@ Compralo si querés la mayor autonomía por la menor plata para viajes, cortes d
       { question: "¿Tiene carga rápida?", answer: "La ficha declara carga rápida, pero las salidas son USB de 5 V: no tiene el turbo de 22,5 W de los modelos de marca. Carga bien, pero más lento que un Xiaomi o Energizer de la misma generación." },
       { question: "¿Es muy pesado?", answer: "Sí, es el punto que más repiten las reseñas: es un equipo de mochila, no de bolsillo. Es el costo de los 20.000 mAh a este precio." },
       { question: "¿Por qué es tan barato comparado con los de marca?", answer: "Porque paga solo la capacidad: sin carga turbo de 22,5 W, sin visor digital y con materiales más simples. Como mAh por peso argentino, es imbatible; como refinamiento, los de marca le ganan." },
+    ],
+  },
+  {
+    id: "MLA28743686",
+    title: "Cargador Portatil Gadnic 25000 Mah Carga Rapida 5v 2a Dual Entrada Micro Entrada Tipo C Negro",
+    canonicalName: "Cargador Portátil Gadnic 25.000 mAh",
+    price: 36449,
+    originalPrice: 61749,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_781826-MLA81270222720_122024-F.jpg",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_781826-MLA81270222720_122024-F.jpg",
+      "https://http2.mlstatic.com/D_NQ_NP_925702-MLA84517838562_052025-F.jpg",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/cargador-portatil-gadnic-25000-mah-carga-rapida-5v-2a-dual-entrada-micro-entrada-tipo-c/p/MLA28743686",
+    affiliateUrl: "https://meli.la/1SyyXcw",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 3376,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo alfanumérico", value: "BC000066" },
+      { label: "Capacidad", value: "25.000 mAh (ficha técnica ML: 25 Ah, consistente con el título)" },
+      { label: "Puertos de salida", value: "2 x USB-A, 5V/2A" },
+      { label: "Entrada para recarga", value: "USB-C y Micro USB (5V/2A)" },
+      { label: "Protección contra sobrecarga", value: "Sí" },
+      { label: "Incluye cable", value: "Sí" },
+      { label: "Dimensiones", value: "148 x 70 x 28 mm" },
+      { label: "Color", value: "Negro" },
+    ],
+    relatedProducts: ["MLA40654567", "MLA29504563", "MLA47759077"],
+    priceUpdated: "2026-07-14",
+    priceLastChecked: "2026-07-14",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-14",
+    description: "Cargador portátil Gadnic de 25.000 mAh con entrada USB-C y doble salida USB: 4º más vendido de la categoría en MercadoLibre, con más de 3.300 calificaciones.",
+    seoTitle: "Power Bank Gadnic 25.000 mAh: la mayor capacidad, ¿rinde?",
+    metaDescription: "Cargador portátil Gadnic 25.000 mAh: 4º más vendido de la categoría en Argentina, con más de 3.300 calificaciones. Precio real, pros y contras.",
+    verdict: "El Gadnic de 25.000 mAh sirve si querés la mayor capacidad por la menor plata y no te molesta el tamaño: es de los power banks más vendidos del catálogo y la relación mAh por peso es de las mejores de esta guía. No sirve si buscás algo liviano de bolsillo o carga rápida de última generación: acá pagás poco por muchos mAh, no por velocidad ni portabilidad.",
+    pros: [
+      "4º más vendido de la categoría en MercadoLibre, con más de 3.300 calificaciones y 4.6 de promedio",
+      "25.000 mAh: la mayor capacidad de esta guía, con buena relación mAh por peso",
+      "Entrada USB-C además de Micro USB, más moderna que el modelo anterior de la marca",
+      "Una reseña con iPhone 13 Plus reporta 4 cargas completas con una sola carga del power bank",
+      "Disponible por Tienda oficial Gadnic, con opción de comprarlo a un vendedor más económico",
+    ],
+    cons: [
+      "Salidas de 5V/2A (10 W): sin carga rápida tipo turbo de 22,5 W como los de marca de esta guía",
+      "Es de las opciones más pesadas de la comparativa, según una reseña ronda los 388 g",
+      "El USB-C es solo para recargar el power bank, no para cargar otros dispositivos a esa velocidad",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Gadnic de 25.000 mAh es de los cargadores portátiles más vendidos de MercadoLibre Argentina (4º en su categoría, más de 3.300 calificaciones): mucha capacidad con entrada USB-C, a un precio menor que el de los power banks de marca de la mitad de capacidad. Es la opción para quien quiere autonomía bruta gastando lo mínimo.
+
+## Lo bueno
+
+La cuenta es simple: máxima capacidad, mínimo precio. Con 25.000 mAh tenés para varias cargas completas de celular (una reseña con iPhone 13 Plus reporta 4 cargas), y las dos salidas USB permiten enchufar dos dispositivos a la vez. Suma entrada USB-C para recargarlo, más moderna que el Micro USB de los modelos más viejos de la marca. El respaldo es real: más de 3.300 calificaciones y 4.6 de promedio.
+
+## La contra real
+
+El peso: como todo power bank de esta capacidad, es equipo de mochila, no de bolsillo (una reseña lo ubica en unos 388 g). Y las salidas son USB comunes de 5V/2A: carga bien, pero sin los 22,5 W de turbo carga que ofrecen Xiaomi o Energizer en esta misma guía. El USB-C, además, es solo de entrada: no sirve para cargar otro dispositivo a alta velocidad.
+
+## Para quién sí y para quién no
+
+Compralo si querés la mayor autonomía por la menor plata para viajes, cortes de luz o jornadas largas, y va a viajar en mochila. No lo compres si querés algo liviano y rápido para el día a día: ahí conviene un 10.000 mAh de marca con carga de 22,5 W.`,
+    faq: [
+      { question: "¿Cuántas cargas de celular da el Gadnic de 25.000 mAh?", answer: "Depende de la batería de tu teléfono. Una reseña con iPhone 13 Plus reporta 4 cargas completas con una sola carga del power bank. Como regla general, la capacidad útil real es un 60-70% de la declarada por la conversión de voltaje." },
+      { question: "¿Tiene carga rápida?", answer: "Las salidas son USB de 5V/2A (10 W): no tiene el turbo de 22,5 W de los modelos de marca de esta guía. Carga bien, pero más lento que un Xiaomi o Energizer." },
+      { question: "¿Es muy pesado?", answer: "Sí, como todos los power bank de esta capacidad: una reseña lo ubica en unos 388 g, equipo de mochila, no de bolsillo. Es el costo de los 25.000 mAh a este precio." },
+      { question: "¿Para qué sirve la entrada USB-C?", answer: "Solo para recargar el power bank de forma más moderna que con Micro USB. No es una salida: no sirve para cargar otro dispositivo por USB-C a alta velocidad." },
     ],
   },
   {
@@ -51045,7 +51121,7 @@ Compralo si querés el power bank diario de marca al mejor precio: para el bolso
       { label: "Carga simultánea", value: "2 dispositivos a la vez" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA40654567", "MLA51985227", "MLA21235471"],
+    relatedProducts: ["MLA40654567", "MLA51985227", "MLA28743686"],
     priceUpdated: "2026-07-06",
     priceLastChecked: "2026-07-13",
     priceStatus: "fresh",
@@ -51126,7 +51202,7 @@ Compralo si el porcentaje exacto en pantalla te resuelve una ansiedad real y pre
       { label: "Compatible", value: "Android y iPhone" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA40654567", "MLA21235471", "MLA51985227"],
+    relatedProducts: ["MLA40654567", "MLA28743686", "MLA51985227"],
     priceUpdated: "2026-07-10",
     priceLastChecked: "2026-07-13",
     priceStatus: "fresh",
@@ -51203,7 +51279,7 @@ Compralo si querés el mejor power bank grande de marca: viajes, trabajo en la c
       { label: "Compatible", value: "Apple, Samsung, Motorola, Xiaomi y más" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA40654567", "MLA21235471", "MLA51985227"],
+    relatedProducts: ["MLA40654567", "MLA28743686", "MLA51985227"],
     priceUpdated: "2026-07-10",
     priceLastChecked: "2026-07-13",
     priceStatus: "fresh",
@@ -51281,7 +51357,7 @@ Compralo si querés el combo capacidad + turbo + display al mejor precio y no te
       { label: "Compatible", value: "Celular, tablet, notebook, reloj, auriculares" },
       { label: "Color", value: "Negro" },
     ],
-    relatedProducts: ["MLA47759077", "MLA29504563", "MLA21235471"],
+    relatedProducts: ["MLA47759077", "MLA29504563", "MLA28743686"],
     priceUpdated: "2026-07-06",
     priceLastChecked: "2026-07-13",
     priceStatus: "fresh",
