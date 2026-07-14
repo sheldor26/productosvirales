@@ -4519,7 +4519,7 @@ export const guides: Guide[] = [
             { label: "Ver Gadnic Álamo en MercadoLibre", href: "https://meli.la/1Bj1c47" },
             {
               label: "Ver Femmto Pistola Brushless en MercadoLibre",
-              href: "https://meli.la/1cUYmpY",
+              href: "https://meli.la/159WHqm",
             },
           ],
         },
@@ -4779,7 +4779,7 @@ export const guides: Guide[] = [
             "Motor brushless, que significa menos ruido que las pistolas comunes (no es silenciosa, pero no vas a molestar a toda la casa). Batería recargable por USB, cabezales intercambiables para distintas zonas. Para contracturas reales y recuperación muscular post-gym.",
           ],
           ctas: [
-            { label: "Ver Femmto Brushless en MercadoLibre", href: "https://meli.la/1cUYmpY" },
+            { label: "Ver Femmto Brushless en MercadoLibre", href: "https://meli.la/159WHqm" },
           ],
         },
       },
@@ -4862,7 +4862,7 @@ export const guides: Guide[] = [
             "Motor brushless, que es más silencioso que los motores comunes de pistola. Batería recargable por USB, cabezales intercambiables para distintas zonas del cuerpo. Si hacés gym 3-4 veces por semana y querés algo para recuperación, es suficiente. El motor brushless es un plus real: las pistolas baratas con motor común hacen un ruido que cansa.",
           ],
           ctas: [
-            { label: "Ver Femmto Brushless en MercadoLibre", href: "https://meli.la/1cUYmpY" },
+            { label: "Ver Femmto Brushless en MercadoLibre", href: "https://meli.la/159WHqm" },
           ],
         },
       },
@@ -6914,7 +6914,7 @@ export const guides: Guide[] = [
             "La potencia llega. Se siente en el músculo, no solo en la superficie. Los cabezales intercambiables ayudan: el redondo para áreas amplias, el puntual para nudos específicos. El ruido es tolerable, no vas a molestar a toda la casa.",
             "El problema: llegar a la espalda media solo es complicado. Si vivís solo y tu dolor está entre los omóplatos, vas a hacer malabares. Para lumbar es más fácil porque el brazo llega.",
           ],
-          ctas: [{ label: "Ver Femmto Brushless en MercadoLibre", href: "https://meli.la/1cUYmpY" }],
+          ctas: [{ label: "Ver Femmto Brushless en MercadoLibre", href: "https://meli.la/159WHqm" }],
         },
       },
       { type: "product-card", productMlaId: "MLA37908577", label: "Para contracturas", labelColor: "amber" },
@@ -7168,7 +7168,7 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **{{precio:MLA37908577}}** (la más sólida, a batería)",
+          "[Femmto MP pistola brushless](https://meli.la/159WHqm) — **{{precio:MLA37908577}}** (la más sólida, a batería)",
           "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (con calor, a cable)",
           "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (alternativa para el cuello)",
         ],
@@ -7455,7 +7455,7 @@ export const guides: Guide[] = [
           "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (cuello, el más vendido)",
           "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (percutor con calor)",
           "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **{{precio:MLA23131501}}** (pies con calor y compresión)",
-          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **{{precio:MLA37908577}}** (contracturas, deporte)",
+          "[Femmto MP pistola brushless](https://meli.la/159WHqm) — **{{precio:MLA37908577}}** (contracturas, deporte)",
           "[Electroland MA68 asiento vibración](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (espalda completa)",
           "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu premium)",
         ],
@@ -7603,7 +7603,7 @@ export const guides: Guide[] = [
           "[Femmto cervical inalámbrico](https://meli.la/1VsNQ2J) — **{{precio:MLA24127896}}** (cuello, el más vendido)",
           "[Caliber Percussion infrarrojo](https://meli.la/2gqPvgW) — **{{precio:MLA25263767}}** (percutor de mano con calor)",
           "[Suono masajeador de pies](https://meli.la/2d7VKT6) — **{{precio:MLA23131501}}** (pies, con calor y compresión)",
-          "[Femmto MP pistola brushless](https://meli.la/1cUYmpY) — **{{precio:MLA37908577}}** (contracturas y deporte)",
+          "[Femmto MP pistola brushless](https://meli.la/159WHqm) — **{{precio:MLA37908577}}** (contracturas y deporte)",
           "[Electroland MA68 asiento](https://meli.la/1ZW9A5Y) — **{{precio:MLAU274288377}}** (espalda completa, vibración)",
           "[Melfit I2500 asiento shiatsu](https://meli.la/1zRo95J) — **{{precio:MLA28420339}}** (shiatsu premium con calor)",
         ],

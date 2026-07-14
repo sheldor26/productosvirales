@@ -36,6 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     `Comprá ${product.title} al mejor precio en MercadoLibre Argentina.`;
 
   const canonical = `https://productosvirales.com.ar${productHref(product)}`;
+  const ogImage = `${canonical}/opengraph-image`;
 
   return {
     title: { absolute: title },
@@ -54,13 +55,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       title: product.ogTitle || title,
       description: product.ogDescription || description,
       url: canonical,
-      images: [{ url: product.image, alt: product.title }],
+      images: [{ url: ogImage, width: 1200, height: 630, alt: product.title }],
     },
     twitter: {
       card: "summary_large_image",
       title: product.ogTitle || title,
       description: product.ogDescription || description,
-      images: [product.image],
+      images: [ogImage],
     },
   };
 }
