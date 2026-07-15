@@ -7,6 +7,34 @@
 > por filtrar de más. Mirar una vez por semana con criterio propio.
 > Entradas nuevas arriba.
 
+## 2026-07-15
+
+- **francia - españa** — 1 M+ búsquedas (+1.000%, 20 h)
+- **argentina - suiza** — 1 M+ búsquedas (+1.000%, 3 d)
+- **noruega vs inglaterra** — 1 M+ búsquedas (+1.000%, 6 d)
+- **argentina vs inglaterra** — 500 mil+ búsquedas (+1.000%, 3 d)
+- **españa - bélgica** — 500 mil+ búsquedas (+1.000%, 4 d)
+- **francia - marruecos** — 500 mil+ búsquedas (+1.000%, 6 d)
+- **cuenta d n i** — 100 mil+ búsquedas (+1.000%, ayer)
+- **decreto** — 100 mil+ búsquedas (+1.000%, anteayer)
+- **adams sudafrica** — 100 mil+ búsquedas (+1.000%, 3 d)
+- **sam neill** — 50 mil+ búsquedas (+1.000%, anteayer)
+- **jayden adams** — 50 mil+ búsquedas (+1.000%, 4 d)
+- **¿donde será el mundial de fútbol 2030?** — 20 mil+ búsquedas (+700%, 17 h)
+- **mbappé** — 20 mil+ búsquedas (+600%, 17 h)
+- **a que hora se juega la final del mundial 2026** — 20 mil+ búsquedas (+400%, 3 d)
+- **salud mental** — 10 mil+ búsquedas (+1.000%, 19 h)
+- **deuda** — 10 mil+ búsquedas (+1.000%, 19 h)
+- **billetera digital** — 10 mil+ búsquedas (+1.000%, ayer)
+- **luna de miel** — 5 mil+ búsquedas (+1.000%, 16 h)
+- **salario** — 2 mil+ búsquedas (+700%, 6 h)
+- **pedro ignacio calderón** — 2 mil+ búsquedas (+400%, 24 h)
+- **negocio** — 2 mil+ búsquedas (+600%, 16 h)
+- **elina costantini** — 1 mil+ búsquedas (+500%, 4 h)
+- **jamie carragher** — 1 mil+ búsquedas (+500%, 4 h)
+- **el economista** — 500+ búsquedas (+700%, 2 h)
+- **mariano navone** — 200+ búsquedas (+1.000%, 50 min)
+
 ## 2026-07-08
 
 - **colombia vs suiza** — 1 M+ búsquedas (+1.000%, ayer)
