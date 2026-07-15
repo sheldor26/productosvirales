@@ -7,6 +7,111 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-07-15
+
+- 🟢 VOLVIO EL STOCK — **MLA57493542** Robot De Cocina Smart Atma Mix 3l Rc2023tcp
+  - ML: https://www.mercadolibre.com.ar/p/MLA57493542
+  - Sitio: https://productosvirales.com.ar/producto/MLA57493542
+- 🔴 SIN STOCK — **MLA44849297** Mouse Gamer Logitech G203 Lightsync White
+  - ML: https://www.mercadolibre.com.ar/p/MLA44849297
+  - Sitio: https://productosvirales.com.ar/producto/MLA44849297
+- 🟢 VOLVIO EL STOCK — **MLA29464859** Cafetera Volturno Clásica 12 Pocillos Aluminio Italiana
+  - ML: https://www.mercadolibre.com.ar/p/MLA29464859
+  - Sitio: https://productosvirales.com.ar/producto/MLA29464859
+- 🔴 SIN STOCK — **MLA27167036** Horno Grill Eléctrico Atma Hgab4523pi 45l 1400w Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA27167036
+  - Sitio: https://productosvirales.com.ar/producto/MLA27167036
+- 🟢 VOLVIO EL STOCK — **MLA44740757** Parlante Xiaomi Sound Pocket 5w Color Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA44740757
+  - Sitio: https://productosvirales.com.ar/producto/MLA44740757
+- 🟢 VOLVIO EL STOCK — **MLA69124616** Silla Gamer Cougar Fusion EX Respaldo Reclinable Tela Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA69124616
+  - Sitio: https://productosvirales.com.ar/producto/MLA69124616
+- 🟢 VOLVIO EL STOCK — **MLA6337847** Audio Technica M40x Auriculares Cerrados Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA6337847
+  - Sitio: https://productosvirales.com.ar/producto/MLA6337847
+- 🟢 VOLVIO EL STOCK — **MLA19893399** Teclado Gamer Redragon K622 Horus TKL Switch Red Español
+  - ML: https://www.mercadolibre.com.ar/p/MLA19893399
+  - Sitio: https://productosvirales.com.ar/producto/MLA19893399
+- 🟢 VOLVIO EL STOCK — **MLA18651915** Auriculares Gamer Inalámbricos Logitech G G435 para PC y Consolas
+  - ML: https://www.mercadolibre.com.ar/p/MLA18651915
+  - Sitio: https://productosvirales.com.ar/producto/MLA18651915
+- 🟢 VOLVIO EL STOCK — **MLA55886611** Parlante Portátil 2 En 1 Stromberg Twin 2 Bluetooth Fm Ipx5 Celeste
+  - ML: https://www.mercadolibre.com.ar/p/MLA55886611
+  - Sitio: https://productosvirales.com.ar/producto/MLA55886611
+- 🟢 VOLVIO EL STOCK — **MLA23997257** Audifonos Diadema Jbl Tune 520bt Bluetooth Mas De 50 Horas Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA23997257
+  - Sitio: https://productosvirales.com.ar/producto/MLA23997257
+- 🟢 VOLVIO EL STOCK — **MLA33974728** Tira LED RGB 5m Hytoshy 5050 60 LEDs/m IP64 Exterior con Control
+  - ML: https://www.mercadolibre.com.ar/tira-led-rgb-5m-hytoshy-5050-60-ledsm-ip64-exterior-con-control/p/MLA33974728
+  - Sitio: https://productosvirales.com.ar/producto/MLA33974728
+- 🔴 SIN STOCK — **MLA6343490** Auriculares Audio-Technica M-Series ATH-M20x Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA6343490
+  - Sitio: https://productosvirales.com.ar/producto/MLA6343490
+- 🔴 SIN STOCK — **MLA156843560** Lampara Luna Velador Led Táctil Recargable Usb Moonlamp
+  - ML: https://www.mercadolibre.com.ar/lampara-luna-velador-led-tactil-recargable-usb-moonlamp/up/MLAU156843560
+  - Sitio: https://productosvirales.com.ar/producto/MLA156843560
+- 🔴 SIN STOCK — **MLA43643712** Perfume Mujer Lattafa Bade
+  - ML: https://www.mercadolibre.com.ar/perfume-mujer-lattafa-badee-al-oud-noble-blush-edp-100ml/p/MLA43643712
+  - Sitio: https://productosvirales.com.ar/producto/MLA43643712
+- 🔴 SIN STOCK — **MLA45951645** Aspiradora Robot Gadnic 5 Modos Limpieza Trapeo Inteligente Depósito de Agua Polvo Control App Conexion Inalambrica Sensores Anti‐Colisión Anticaída
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-gadnic-5-modos-limpieza-trapeo-inteligente-deposito-de-agua-polvo-control-app-conexion-inalambrica-sensores-anticolision-anticaida/p/MLA45951645
+  - Sitio: https://productosvirales.com.ar/producto/MLA45951645
+- 🟢 VOLVIO EL STOCK — **MLA52883777** Set De 4 Perfumes Tubo Fragancias Arabes De 35ml Unisex
+  - ML: https://www.mercadolibre.com.ar/set-de-4-perfumes-tubo-fragancias-arabes-de-35ml-unisex/p/MLA52883777
+  - Sitio: https://productosvirales.com.ar/producto/MLA52883777
+- 🟢 VOLVIO EL STOCK — **MLA32488004** Perfume Unisex Fakhar Lattafa Pride Gold Extract Edp 100 Ml
+  - ML: https://www.mercadolibre.com.ar/perfume-unisex-fakhar-lattafa-pride-gold-extract-edp-100-ml/p/MLA32488004
+  - Sitio: https://productosvirales.com.ar/producto/MLA32488004
+- 🟢 VOLVIO EL STOCK — **MLA66281403** Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa
+  - ML: https://www.mercadolibre.com.ar/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa/p/MLA66281403
+  - Sitio: https://productosvirales.com.ar/producto/MLA66281403
+- 🟢 VOLVIO EL STOCK — **MLA51612102** Set Lattafa My Yara Collection — 4 Perfumes Árabes Mujer 25ml c/u
+  - ML: https://www.mercadolibre.com.ar/set-coleccion-de-perfumes-arabes-my-yara-collection-lattafa-pack-x4/p/MLA51612102
+  - Sitio: https://productosvirales.com.ar/producto/MLA51612102
+- 🟢 VOLVIO EL STOCK — **MLA13112158** Licuadora de mano Peabody PE-LMA327B mixer 800 W
+  - ML: https://www.mercadolibre.com.ar/p/MLA13112158
+  - Sitio: https://productosvirales.com.ar/producto/MLA13112158
+- 🔴 SIN STOCK — **MLA41304983** Lattafa Her Confession Eau De Parfum 100ml Volumen de la unidad 100 mL
+  - ML: https://www.mercadolibre.com.ar/lattafa-her-confession-eau-de-parfum-100ml-volumen-de-la-unidad-100-ml/p/MLA41304983
+  - Sitio: https://productosvirales.com.ar/producto/MLA41304983
+- 🟢 VOLVIO EL STOCK — **MLA18917302** Aspiradora Robot Samsung Powerbot E 2 En 1 Inverter Wifi Color Negro
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-samsung-powerbot-e-2-en-1-inverter-wifi-color-negro/p/MLA18917302
+  - Sitio: https://productosvirales.com.ar/producto/MLA18917302
+- 🔴 SIN STOCK — **MLA8993736** Pava Eléctrica Oster 8970 Color Plateado
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-oster-8970-color-plateado/p/MLA8993736
+  - Sitio: https://productosvirales.com.ar/producto/MLA8993736
+- 🟢 VOLVIO EL STOCK — **MLA46927234** Proyector Oso Astronauta MTI 731 — 82 Modos y Galaxia BT
+  - ML: https://www.mercadolibre.com.ar/astronauta-proyector-galaxia-estrellas-musica-parlante-mti-estructura-blanco-pantalla-blanco/p/MLA46927234
+  - Sitio: https://productosvirales.com.ar/producto/MLA46927234
+- 🟢 VOLVIO EL STOCK — **MLA27855490** Perfume Arabe Maison Alhambra Sceptre Malachite Edp 100 Ml
+  - ML: https://www.mercadolibre.com.ar/perfume-arabe-maison-alhambra-sceptre-malachite-edp-100-ml/p/MLA27855490
+  - Sitio: https://productosvirales.com.ar/producto/MLA27855490
+- 🔴 SIN STOCK — **MLA23214606** Control Gamer T-dagger T-tgp802 Scorpio, Inalambrico
+  - ML: https://www.mercadolibre.com.ar/p/MLA23214606
+  - Sitio: https://productosvirales.com.ar/producto/MLA23214606
+- 🔴 SIN STOCK — **MLA34724207** Joystick Gamepad Redragon Juno G818 Usb Wireless PS4 PC
+  - ML: https://www.mercadolibre.com.ar/p/MLA34724207
+  - Sitio: https://productosvirales.com.ar/producto/MLA34724207
+- 🔴 SIN STOCK — **MLA15152152** Logitech Gamepad F310 Joystick Gaming Juegos Azul/Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA15152152
+  - Sitio: https://productosvirales.com.ar/producto/MLA15152152
+- 🔴 SIN STOCK — **MLA15705813** Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- 🔴 SIN STOCK — **MLA21820129** Remington Cortadora De Cabello Indestructible Hc5850
+  - ML: https://www.mercadolibre.com.ar/p/MLA21820129
+  - Sitio: https://productosvirales.com.ar/producto/MLA21820129
+- 🟢 VOLVIO EL STOCK — **MLA45424072** Termotanque Exahome Eléctrico 40 Litros Carga Inferior 1500W Color Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA45424072
+  - Sitio: https://productosvirales.com.ar/producto/MLA45424072
+- 🔴 SIN STOCK — **MLA19627127** Joystick inalámbrico Microsoft Xbox Elite Series 2 blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA19627127
+  - Sitio: https://productosvirales.com.ar/producto/MLA19627127
+- 🔴 SIN STOCK — **MLA24044240** Joystick Bluetooth Inalambrico Celular Pc Tablet Android Ios Color Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA24044240
+  - Sitio: https://productosvirales.com.ar/producto/MLA24044240
+
 ## 2026-07-13
 
 - 🔴 SIN STOCK — **MLA29464859** Cafetera Volturno Clásica 12 Pocillos Aluminio Italiana
