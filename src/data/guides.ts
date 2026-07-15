@@ -19943,4 +19943,19 @@ export const guideCategories: Record<string, { name: string; description: string
     description:
       "Portátiles y para el living: cuáles se ven bien con luz de día y cuáles solo rinden a oscuras.",
   },
+  tech: {
+    name: "Guías de Productos Tech",
+    description:
+      "Cargadores portátiles y otros accesorios tech: cuáles rinden en uso diario y desde cuánto sale uno que valga la pena.",
+  },
+  microondas: {
+    name: "Guías de Microondas",
+    description:
+      "Del más vendido y barato al premium con inverter: cuál te conviene según litros, potencia y precio real de MercadoLibre.",
+  },
+  "horno-electrico": {
+    name: "Guías de Hornos Eléctricos",
+    description:
+      "Del chico de 17 litros al grande de 50: cuál conviene según capacidad, convección y grill.",
+  },
 };
