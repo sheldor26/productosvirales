@@ -39,16 +39,18 @@ jobs:
         with:
           ref: master
 
-      # Salteo de una sola vez: el 2026-07-07 ya se disparo una corrida
-      # completa a mano, asi que la del miercoles 2026-07-08 se saltea para
-      # no gastar creditos de mas. Despues de esa fecha esta condicion nunca
-      # vuelve a matchear - se puede borrar este paso (y el "if" de los
-      # pasos de abajo) sin que afecte nada.
-      - name: Chequear si hoy toca saltear (una vez, 2026-07-08)
+      # Salteo de fechas puntuales: dias en que ya se disparo una corrida
+      # completa a mano (por el cron no disparando o llegando muy tarde) y
+      # no conviene gastar creditos de Bright Data de nuevo si el cron
+      # dispara igual mas tarde ese mismo dia. Agregar la fecha de hoy a la
+      # lista cuando se corra a mano por este motivo; se puede limpiar la
+      # lista de tanto en tanto, las fechas viejas ya no matchean nunca.
+      - name: Chequear si hoy toca saltear (fechas con corrida manual ya hecha)
         id: gate
         run: |
           today=$(date -u +%Y-%m-%d)
-          if [ "$today" = "2026-07-08" ]; then
+          skip_dates="2026-07-08 2026-07-15"
+          if echo "$skip_dates" | grep -qw "$today"; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
             echo "Saltando esta corrida (ya se disparo una hoy a mano, para no gastar creditos de mas)."
           else
