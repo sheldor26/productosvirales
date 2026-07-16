@@ -146,6 +146,7 @@ export const guides: Guide[] = [
       { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
+      { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -262,6 +263,7 @@ export const guides: Guide[] = [
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
       { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
+      { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -555,6 +557,7 @@ export const guides: Guide[] = [
       { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
+      { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -19684,6 +19687,133 @@ export const guides: Guide[] = [
       { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
     ],
     internalLinksTitle: "Más para el hogar en invierno",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR yogurtera — silo cocina, categoria "yogurteras"
+  // Origen: research masivo 2026-07-16 + consulta al trío (Codex/Gemini/
+  // Claude) sobre prioridad de ejecución, priorizada #1 de 4.
+  // Sourcing: MercadoLibre Argentina + página oficial del fabricante
+  // (Ultracomb) vía Bright Data, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "yogurtera",
+    category: "yogurteras",
+    silo: "cocina",
+    pillar: true,
+    title: `Yogurtera: cuál comprar en Argentina [2026]`,
+    seoTitle: `Yogurtera Eléctrica: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos las yogurteras más vendidas de Argentina: Yelmo, Lüsqtoff, Daewoo y Ultracomb. Precio, frascos y contras reales. Compará antes de comprar.`,
+    ogTitle: `Yogurtera: cuál comprar en Argentina`,
+    ogDescription: `De 1,2 a 2,5 litros: comparamos las yogurteras más vendidas de Argentina por capacidad, funciones y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_794503-MLA113911080193_062026-F.webp`,
+    h1: `Yogurtera: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Yelmo YG-1700](/producto/MLA17840710)** (alrededor de {{precio:MLA17840710:k}}): la más vendida y calificada de Argentina, con 12.296 calificaciones, aunque no tiene temporizador ni apagado automático. Si querés programarla y que se apague sola, la **[Lüsqtoff LQ-YT808](/producto/MLA65120821)** suma esas dos funciones a precio medio. Para hacer yogur griego colado en casa, la única pensada específicamente para eso es la **[Daewoo Yoggy Pro](/producto/MLA65327878)**, con filtro y recetario incluidos. Y si priorizás la mayor cantidad de frascos (12) con pantalla digital, la **[Ultracomb YG-2712V](/producto/MLA66422019)**, aunque el manual del fabricante confirma que el cuerpo es plástico, no acero inoxidable como se la vende.`,
+    publishedDate: "2026-07-16",
+    updatedDate: "2026-07-16",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Hay yogurteras desde {{precio:MLA17840710:k}} hasta {{precio:MLA65327878:k}}, con capacidades de 1,2 a 2,5 litros y funciones que van de lo más simple (una llave y listo) a temporizador digital con pantalla LCD. Comparamos las 4 con mejor respaldo de compradores reales de MercadoLibre Argentina, con las contras que las publicaciones no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA17840710", label: "La más vendida", labelColor: "green", tagline: "Yelmo YG-1700: 12.296 calificaciones, la más barata" },
+      { productMlaId: "MLA65120821", label: "Con temporizador", labelColor: "purple", tagline: "Lüsqtoff LQ-YT808: programable y con apagado automático" },
+      { productMlaId: "MLA65327878", label: "Para yogur griego", labelColor: "blue", tagline: "Daewoo Yoggy Pro: filtro y recetario incluidos" },
+      { productMlaId: "MLA66422019", label: "Más frascos", labelColor: "amber", tagline: "Ultracomb YG-2712V: 12 frascos con pantalla LCD" },
+    ],
+    intro: [
+      `Hacer yogur casero ahorra plata frente al de góndola y deja elegir exactamente qué ingredientes lleva, sin conservantes. Una yogurtera eléctrica mantiene la leche a temperatura constante durante horas para que el cultivo de yogur fermente parejo, algo que a mano (con termo o al sol) es mucho más difícil de controlar.`,
+      `Esta guía compara las 4 yogurteras con mejor respaldo de compradores reales en MercadoLibre Argentina, desde la más simple y barata hasta la pensada específicamente para yogur griego colado, para que elijas según qué tipo de yogur querés hacer y cuánto estás dispuesto a pagar por comodidad extra.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_794503-MLA113911080193_062026-F.webp", alt: `Yogurtera eléctrica Yelmo YG-1700, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Cuánto se ahorra haciendo yogur casero", content: `Varias reseñas reales de esta guía hacen la cuenta: "por el precio de un pote hacés 8" (yogurtera de 8 frascos) y "lo amortizás aprox en 5 veces que lo usás". Con un litro de leche y un yogur como cultivo alcanza para varias porciones, muy por debajo del precio de comprar cada pote por separado en el supermercado.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las yogurteras con más ventas y calificaciones reales en MercadoLibre Argentina. Evaluamos lo que más importa al elegir una: **capacidad y cantidad de frascos**, si tiene **temporizador y apagado automático**, si sirve para **yogur griego**, y el precio real. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Las 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Yelmo YG-1700 — la más vendida` },
+      { type: "product-card", productMlaId: "MLA17840710", label: "La más vendida", labelColor: "green", ranking: 1, description: `1,2 litros, 7 frascos de vidrio de 180 ml. 4.9 estrellas en 12.296 calificaciones, más de 50.000 vendidos.` },
+      { type: "p", content: `Es la yogurtera con más respaldo real de compradores del país, y por una distancia enorme: 12.296 calificaciones contra las 350 de la segunda más calificada de esta guía. A alrededor de {{precio:MLA17840710:k}}, es también la más barata.` },
+      { type: "p", content: `Lo honesto: no tiene temporizador ni apagado automático, así que hay que controlar el tiempo de fermentación (8-12 horas) con una alarma aparte. Varias reseñas coinciden en que esto no es un problema real en la práctica.` },
+      { type: "pull-quote", content: `Le pongo 5 estrellas porque no hay más es un golazo la yogurtera!!!!! genial desde la primera vez que lo hice es exactamente el mismo sabor al yogurísimo.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `2. Lüsqtoff LQ-YT808 — con temporizador digital` },
+      { type: "product-card", productMlaId: "MLA65120821", label: "Con temporizador", labelColor: "purple", ranking: 2, description: `1,7 litros, 8 frascos de vidrio. Temporizador digital (6 a 12 h) y apagado automático. 5.0 estrellas en 145 calificaciones.` },
+      { type: "p", content: `Suma temporizador digital programable y apagado automático, dos funciones que la Yelmo de esta guía no tiene, a un precio medio de {{precio:MLA65120821:k}}. El diseño con frascos a rosca es valorado como prolijo por las reseñas.` },
+      { type: "p", content: `Lo honesto: el cartel de descuento dice 66% off, pero parte de un precio de lista ($150.000) inusualmente alto para el segmento. Fijate en el precio final, no en el porcentaje. Con 145 calificaciones, tiene mucho menos respaldo que la Yelmo.` },
+      { type: "pull-quote", content: `La yogurtera es excelente, muy buen diseño y calidad. No viene con recetario, pero eso no es problema, en internet hay miles de recetas (y ya tengo varias en mente).`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `3. Daewoo Yoggy Pro — la mejor para yogur griego` },
+      { type: "product-card", productMlaId: "MLA65327878", label: "Para yogur griego", labelColor: "blue", ranking: 3, description: `2 litros en un solo recipiente, con filtro para yogur griego y recetario incluido. 4.8 estrellas en 350 calificaciones.` },
+      { type: "p", content: `Es la única de esta guía pensada específicamente para yogur griego colado: incluye filtro y recetario. El recipiente único de 2 litros rinde para toda la familia de una sola vez, a alrededor de {{precio:MLA65327878:k}}.` },
+      { type: "p", content: `Lo honesto: el colado del yogur griego lo hacés vos, no la máquina (hay que enfriarlo y pasarlo por el filtro a mano), y más de una reseña se queja de que las instrucciones de fábrica son confusas.` },
+      { type: "pull-quote", content: `Debo decir que es una maravilla! entran prácticamente 2 litros de leche. En 12 hs tenés un yogur maravilloso y si luego decidís filtrarlo que recomiendo hacerlo una vez q el yogur se enfrió qteda un yogur griego de exportación! no hace nada de ruido, el timer funciona a la perfección.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `4. Ultracomb YG-2712V — la de más frascos` },
+      { type: "product-card", productMlaId: "MLA66422019", label: "Más frascos", labelColor: "amber", ranking: 4, description: `12 frascos de vidrio, temporizador digital con pantalla LCD. 5.0 estrellas en 125 calificaciones.` },
+      { type: "p", content: `Trae la mayor cantidad de frascos de esta guía (12), con pantalla LCD para programar el temporizador y apagado automático, a alrededor de {{precio:MLA66422019:k}}.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El marketing dice acero inoxidable, el manual dice plástico", content: `MercadoLibre y la propia página de Ultracomb venden la YG-2712V como "cuerpo de acero inoxidable". Pero el manual oficial del fabricante, en su lista de partes, dice explícito: "cubierta de plástico para la unidad". No es una sospecha ni una reseña sin confirmar: es el propio manual contradiciendo el material de marketing. No cambia lo que el equipo hace, pero conviene tenerlo en cuenta al comparar precio contra otros modelos de la guía.` },
+      { type: "pull-quote", content: `El cuerpo del aparato no es de metal como indicaba el anuncio cuando compré, sino de plástico. Pero no es un problema. Funciona todo bien. Los yogures quedan muy ricos.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: yogurteras eléctricas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Frascos`, `Temporizador`, `Ideal para`], rows: [
+        [`[Yelmo YG-1700](/producto/MLA17840710)`, `{{precio:MLA17840710}}`, `1,2 L`, `7`, `No`, `La más probada y barata`],
+        [`[Lüsqtoff LQ-YT808](/producto/MLA65120821)`, `{{precio:MLA65120821}}`, `1,7 L`, `8`, `Sí (digital)`, `Programar y olvidarte`],
+        [`[Daewoo Yoggy Pro](/producto/MLA65327878)`, `{{precio:MLA65327878}}`, `2 L`, `1 (recipiente grande)`, `Sí`, `Yogur griego colado`],
+        [`[Ultracomb YG-2712V](/producto/MLA66422019)`, `{{precio:MLA66422019}}`, `2,2-2,5 L`, `12`, `Sí (LCD)`, `Mayor cantidad de porciones`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu yogurtera`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Frascos individuales o un recipiente grande para yogur griego?` },
+      { type: "p", content: `Si querés porciones individuales listas para repartir o llevar, elegí un modelo de frascos (Yelmo, Lüsqtoff o Ultracomb, de esta guía). Si tu objetivo puntual es yogur griego colado y espeso, la Daewoo Yoggy Pro es la única de esta guía con un recipiente grande y filtro pensados para eso: el colado se hace a mano, enfriando el yogur en la heladera y pasándolo por el filtro incluido.` },
+      { type: "h3", title: `2. ¿Necesitás temporizador y apagado automático?` },
+      { type: "p", content: `La Yelmo de esta guía no tiene ninguna de las dos funciones: hay que controlar el tiempo de fermentación (8-12 horas) con una alarma aparte y desenchufarla a mano. Varias reseñas confirman que en la práctica no es un problema grave, porque igual hay que estar para tapar y guardar los frascos. Si preferís programarla y olvidarte, la Lüsqtoff y la Ultracomb de esta guía se apagan solas al cumplirse el tiempo; la Daewoo pasa a un modo "mantener caliente" en vez de apagarse del todo, según su manual oficial.` },
+      { type: "h3", title: `3. ¿Cuánta capacidad necesitás?` },
+      { type: "list", items: [
+        `Para 1-2 personas, porciones individuales: 1,2 litros de la Yelmo alcanzan de sobra (7 frascos de 180 ml).`,
+        `Para una familia con porciones individuales, sin recargar tan seguido: 1,7 litros de la Lüsqtoff (8 frascos) o 2,2-2,5 litros de la Ultracomb (12 frascos).`,
+        `Para yogur griego colado en cantidad para toda la familia de una sola vez: 2 litros en un solo recipiente de la Daewoo Yoggy Pro.`,
+      ]},
+      { type: "h3", title: `4. Mantenimiento básico` },
+      { type: "list", items: [
+        `Frascos de vidrio (Yelmo, Lüsqtoff, Ultracomb): las 3 son aptas para lavavajillas; en la Ultracomb, el manual oficial aclara que todo va excepto la base.`,
+        `Recipiente y filtro de yogur griego (Daewoo): lavar a mano después de cada uso, prestando atención a que el filtro no acumule residuos de suero.`,
+        `Cualquier modelo: no llenar los frascos al ras del borde, para dejar espacio a la dilatación durante la fermentación.`,
+      ]},
+
+      { type: "h2", title: `Cuánto cuesta una yogurtera en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA17840710:k}}:** la más barata y vendida, la [Yelmo YG-1700](/producto/MLA17840710), aunque sin temporizador ni apagado automático.`,
+        `**Alrededor de {{precio:MLA65120821:k}}:** la [Lüsqtoff LQ-YT808](/producto/MLA65120821), con temporizador digital y apagado automático.`,
+        `**Alrededor de {{precio:MLA66422019:k}}:** la [Ultracomb YG-2712V](/producto/MLA66422019), 12 frascos y pantalla LCD.`,
+        `**Alrededor de {{precio:MLA65327878:k}}:** la [Daewoo Yoggy Pro](/producto/MLA65327878), la única pensada para yogur griego colado.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál yogurtera comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[Yelmo YG-1700](/producto/MLA17840710)**: es la más vendida y calificada por lejos (12.296 calificaciones) y la más barata, aunque no tiene temporizador ni apagado automático. Si preferís programarla y que se apague sola, la **[Lüsqtoff LQ-YT808](/producto/MLA65120821)** suma esas dos funciones a un precio medio, aunque con muchas menos opiniones y un descuento que parte de un precio de lista inflado. Si tu objetivo puntual es yogur griego colado en casa, la **[Daewoo Yoggy Pro](/producto/MLA65327878)** es la única pensada para eso, con filtro y recetario incluidos, aunque las instrucciones de fábrica son flojas y es la más cara de esta guía. Y si priorizás la mayor cantidad de frascos con pantalla digital, la **[Ultracomb YG-2712V](/producto/MLA66422019)** cumple, aunque el "acero inoxidable" que promete el marketing es en realidad plástico según el propio manual del fabricante.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor yogurtera en Argentina?`, answer: `La más vendida y calificada es la [Yelmo YG-1700](/producto/MLA17840710), con 12.296 calificaciones y la más barata de esta guía, aunque sin temporizador ni apagado automático. Para esas dos funciones, la [Lüsqtoff LQ-YT808](/producto/MLA65120821); para yogur griego colado, la [Daewoo Yoggy Pro](/producto/MLA65327878).` },
+      { question: `¿Qué yogurtera conviene para hacer yogur griego?`, answer: `La [Daewoo Yoggy Pro](/producto/MLA65327878) DYM672T, la única de esta guía con filtro específico y recetario incluido para yogur griego. El colado se hace a mano (enfriando el yogur en la heladera y pasándolo por el filtro), no de forma automática.` },
+      { question: `¿Cuánto dura el proceso de hacer yogur casero?`, answer: `Entre 8 y 12 horas de fermentación, según la receta y la temperatura ambiente. Muchas personas arman la mezcla antes de dormir y la dejan fermentando toda la noche.` },
+      { question: `¿Necesito comprar un cultivo o fermento especial?`, answer: `No necesariamente: varias reseñas reales de esta guía usan un yogur natural comprado (sin azúcar) como cultivo inicial, mezclado con leche y leche en polvo. También existen fermentos en polvo específicos para yogur casero, si preferís esa opción.` },
+      { question: `¿Puedo usar leche descremada o en polvo?`, answer: `Sí. Las recetas más repetidas en las reseñas de esta guía combinan leche líquida (entera o descremada) con dos a seis cucharadas de leche en polvo, que le da más firmeza al yogur final.` },
+      { question: `¿Cuánto dura el yogur casero en la heladera?`, answer: `Generalmente entre 5 y 7 días bien tapado y refrigerado, similar al yogur comercial sin conservantes. Conviene guardar un frasco de cada tanda como cultivo para la siguiente.` },
+      { question: `¿Sirve hacer yogur sin yogurtera?`, answer: `Se puede, usando un termo o el horno apagado con la luz piloto encendida para mantener una temperatura constante, pero es mucho más difícil de controlar. Una yogurtera eléctrica mantiene la temperatura estable durante todo el proceso, algo clave para que el yogur no quede ni muy líquido ni demasiado ácido.` },
+      { question: `¿Qué diferencia hay entre temporizador y apagado automático?`, answer: `El temporizador programa cuánto tiempo va a funcionar el equipo; el apagado automático corta la corriente solo al cumplirse ese tiempo. La [Yelmo](/producto/MLA17840710) de esta guía no tiene ninguna de las dos, así que hay que desenchufarla a mano; la [Lüsqtoff](/producto/MLA65120821) y la [Ultracomb](/producto/MLA66422019) se apagan solas, y la [Daewoo](/producto/MLA65327878) pasa a un modo "mantener caliente" en vez de apagarse del todo.` },
+      { question: `¿Todas las yogurteras son aptas para lavavajillas?`, answer: `Sí, las 4 de esta guía lo son. En la [Ultracomb YG-2712V](/producto/MLA66422019), el manual oficial aclara que todas las piezas van al lavavajillas excepto la base (la ficha de MercadoLibre decía que no era apta, pero el manual la contradice).` },
+      { question: `¿Por qué una yogurtera dice ser de acero inoxidable y el manual dice que es de plástico?`, answer: `Es el caso de la [Ultracomb YG-2712V](/producto/MLA66422019) de esta guía: MercadoLibre y la propia página de Ultracomb la venden como "cuerpo de acero inoxidable", pero el manual oficial del fabricante dice explícito en la descripción de partes: "cubierta de plástico para la unidad". Es el propio manual contradiciendo el marketing, no una sospecha sin confirmar.` },
+      { question: `¿Cuánto gasta de luz una yogurtera?`, answer: `Muy poco: las 4 de esta guía tienen entre 15 W y 21,5 W de potencia, similar a una lámpara LED chica, y funcionan entre 8 y 12 horas seguidas. El consumo real en la factura de luz es mínimo comparado con otros electrodomésticos de cocina.` },
+      { question: `¿Se puede hacer yogur vegetal (de soja o almendras) en una yogurtera?`, answer: `Sí, pero no con leche vacuna: hace falta un cultivo específico para yogur vegano y, en la mayoría de los casos, un espesante adicional (agar-agar o similar) porque las leches vegetales no siempre firman de la misma forma. Ninguna de las 4 yogurteras de esta guía trae ese cultivo incluido, se consigue por separado.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: cuál comprar en Argentina", href: "/guias/cocina/microondas" },
+      { label: "Horno eléctrico: cuál comprar en Argentina", href: "/guias/cocina/horno-electrico" },
+      { label: "Robot de cocina: cuál comprar en Argentina", href: "/guias/cocina/robot-de-cocina" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
   },
 
   // ─────────────────────────────────────────────────────────

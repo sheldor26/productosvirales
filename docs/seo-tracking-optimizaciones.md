@@ -320,6 +320,17 @@ Re-medir junto con el resto del silo perfumes-arabes: ~2026-08-13 (4 semanas).
 
 ---
 
+## Guías nuevas (sin baseline previo — creación, no optimización)
+
+Guías creadas de cero durante la sesión de research masivo 2026-07-16 (keyword "humidificador" 22.200/mes, "yogurtera" priorizada #1 de 4 por el trío). No tienen baseline en GSC porque no existían antes. No re-optimizar antes de que maduren unas semanas en Google (ver regla de guías frescas).
+
+| Slug | Silo | Publicada | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| humidificador | climatizacion | 2026-07-16 | Codex + Gemini GO (6 rondas, hallazgo de seguridad Silfab vapor caliente) |
+| yogurtera | cocina | 2026-07-16 | Codex GO (2 rondas: enlazado interno, rango de capacidad, precio Daewoo) + Gemini GO (1 ronda) |
+
+Próxima medición sugerida para ambas: ~2026-08-13 (4 semanas), cuando haya densidad de datos en GSC.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

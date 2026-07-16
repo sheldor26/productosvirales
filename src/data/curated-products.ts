@@ -54259,6 +54259,455 @@ Comprá el Maverick VP-3 si querés el paquete más completo de funciones (silen
       },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR yogurtera — silo cocina, categoria "yogurteras"
+  // Origen: research masivo 2026-07-16, keyword "yogurtera"
+  // priorizada #1 por el trío (Codex/Gemini/Claude).
+  // Fuente de sourcing: Bright Data (scrape_as_markdown) sobre
+  // MercadoLibre Argentina + página oficial del fabricante
+  // (Ultracomb), 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA17840710",
+    title: "Yogurtera Fabrica De Yogurt Yelmo Yg-1700 7 Jarros Tapas De Colores",
+    canonicalName: "Yogurtera Yelmo YG-1700 1,2L",
+    price: 31513,
+    originalPrice: 49999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_794503-MLA113911080193_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_794503-MLA113911080193_062026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_816897-MLA113815618221_062026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA17840710",
+    affiliateUrl: "https://meli.la/2kc6W5c",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 12296,
+    soldQuantity: 50000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Yelmo" },
+      { label: "Modelo", value: "YG-1700" },
+      { label: "Capacidad de producción", value: "1,1-1,2 litros (según la fuente: la página oficial de Yelmo declara 1,1 L, la ficha de MercadoLibre declara 1,2 L)" },
+      { label: "Cantidad de frascos", value: "7" },
+      { label: "Capacidad de los frascos", value: "160-180 mL, según la fuente (vidrio)" },
+      { label: "Potencia", value: "15-20 W, según la fuente (la página oficial de Yelmo declara 15 W, la ficha de MercadoLibre declara 20 W)" },
+      { label: "Con temporizador", value: "No" },
+      { label: "Con apagado automático", value: "No" },
+      { label: "Es apto para lavavajillas", value: "Sí" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Incluye recetario", value: "Discrepancia entre fuentes: la ficha técnica de MercadoLibre dice que no, pero la página oficial de Yelmo (yelmo.com.ar) dice que sí incluye un recetario. No hay forma de confirmar cuál versión corresponde al lote que se vende hoy." },
+      { label: "Voltaje", value: "220V" },
+      { label: "Frecuencia", value: "50 Hz" },
+    ],
+    relatedProducts: ["MLA65120821", "MLA65327878", "MLA66422019"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Yogurtera Yelmo YG-1700: la más vendida y calificada de Argentina en esta categoría, con 4.9 estrellas en 12.296 calificaciones y más de 50.000 vendidos. 1,2 litros en 7 frascos de vidrio de 180 ml, sin temporizador ni apagado automático.",
+    seoTitle: "Yelmo YG-1700: la yogurtera más vendida de Argentina",
+    metaDescription: "Yogurtera Yelmo YG-1700, la más vendida de Argentina: 1,2L, 7 frascos de vidrio, sin timer. Precio real y opiniones verificadas.",
+    verdict: "Sirve si buscás la yogurtera con más respaldo de compradores reales de Argentina al mejor precio: 12.296 calificaciones lo confirman. Cumple bien para hacer yogur casero clásico en 7 porciones individuales. No es para vos si querés controlar el tiempo de fermentación con un temporizador digital: para eso, el [Lüsqtoff LQ-YT808](/producto/MLA65120821) o el [Daewoo Yoggy Pro](/producto/MLA65327878) de esta guía, ambos con temporizador, rinden mejor (el Lüsqtoff se apaga solo al terminar; el Daewoo pasa a un modo 'mantener caliente').",
+    pros: [
+      "La más calificada y vendida de la categoría en Argentina: 4.9 estrellas en 12.296 calificaciones, más de 50.000 unidades vendidas",
+      "La más barata de esta guía",
+      "Apta para lavavajillas y libre de BPA",
+      "Reseñas con recetas reales y detalladas de compradores (litro de leche, leche en polvo y yogur firme como cultivo)",
+      "Vendida por tienda MercadoLíder Platinum con Factura A",
+    ],
+    cons: [
+      "Sin temporizador digital: hay que controlar el tiempo de fermentación (8-12 horas según receta) con una alarma aparte",
+      "Sin apagado automático: el equipo sigue funcionando hasta que lo desenchufás vos",
+      "Hay una contradicción entre fuentes sobre el recetario: la ficha de MercadoLibre dice que no incluye, la página oficial de Yelmo dice que sí. Por las dudas, varias reseñas compensan con recetas propias detalladas",
+      "1,1-1,2 litros de capacidad, la más chica de esta guía",
+      "La página oficial de Yelmo y la ficha de MercadoLibre no coinciden en capacidad, tamaño de frasco y potencia (1,1 L/160 ml/15 W contra 1,2 L/180 ml/20 W): una pequeña discrepancia de datos entre fuentes",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Yelmo YG-1700 es una yogurtera eléctrica de alrededor de 1,2 litros con 7 frascos de vidrio: calienta a temperatura constante para fermentar leche con un cultivo de yogur y convertirla en yogur casero. Es la yogurtera con más respaldo de compradores reales de MercadoLibre Argentina: 12.296 calificaciones y más de 50.000 unidades vendidas.
+
+## Cómo funciona
+
+Se enciende con una llave simple con señal luminosa: no tiene temporizador ni apagado automático, así que el tiempo de fermentación (entre 8 y 12 horas según la receta) hay que controlarlo aparte, por ejemplo con una alarma del celular. Según una guía de configuración publicada por el propio blog de MercadoLibre, mantiene la mezcla entre 40°C y 45°C, y conviene no destaparla ni moverla durante todo el proceso para no alterar la fermentación. Las reseñas más útiles coinciden en una receta base: un litro de leche, dos cucharadas de leche en polvo y un yogur firme como cultivo, mezclado y repartido en los 7 frascos.
+
+Un detalle a tener en cuenta: la página oficial de Yelmo declara 1,1 litros de capacidad total, frascos de 160 ml y 15 W de potencia, mientras que la ficha técnica de MercadoLibre declara 1,2 litros, frascos de 180 ml y 20 W. No hay forma de confirmar de forma independiente cuál dato es el correcto; la diferencia es chica y no cambia la recomendación, pero conviene no tomar ninguna de las dos cifras como exacta al 100%.
+
+## La contra real
+
+No tiene temporizador digital ni apagado automático: son las dos funciones que sí traen el Lüsqtoff LQ-YT808 y el Daewoo Yoggy Pro de esta guía. En la práctica, varios compradores dicen que no es un problema real ("no es automático pero no es importante"), porque igual hay que estar para taparlos y guardarlos en la heladera al terminar. Sobre el recetario hay una contradicción entre fuentes: la ficha técnica de MercadoLibre dice que no incluye, pero la página oficial de Yelmo (yelmo.com.ar) dice que sí. No hay forma de confirmar cuál versión corresponde al lote que se vende hoy; por las dudas, las reseñas más útiles compensan con recetas propias detalladas y probadas.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Lüsqtoff LQ-YT808](/producto/MLA65120821) (más cara, con temporizador y apagado automático), la Yelmo es más simple pero tiene una base de opiniones muchísimo más grande (12.296 contra 145). Frente al [Daewoo Yoggy Pro](/producto/MLA65327878) (pensada para yogur griego, con recetario), la Yelmo hace yogur clásico en porciones individuales, no en un pote grande para colar. Frente a la [Ultracomb YG-2712V](/producto/MLA66422019) (12 frascos, pantalla LCD), la Yelmo tiene menos frascos pero cuesta menos de la mitad.
+
+## Para quién sí y para quién no
+
+Comprá la Yelmo YG-1700 si buscás la opción más probada y económica para empezar a hacer yogur casero en porciones individuales, y no te molesta controlar el tiempo de fermentación vos mismo. No es la mejor opción si querés programar el equipo y olvidarte, o si buscás hacer yogur griego colado: para eso, el Lüsqtoff o el Daewoo Yoggy Pro de esta guía rinden mejor.`,
+    faq: [
+      {
+        question: "¿Cuánto tarda en hacer yogur la Yelmo YG-1700?",
+        answer: "Entre 8 y 12 horas según la receta y la temperatura ambiente. Al no tener temporizador, conviene poner una alarma aparte; muchas personas la dejan encendida toda la noche.",
+      },
+      {
+        question: "¿Necesito comprar frascos aparte?",
+        answer: "No, incluye 7 frascos de vidrio de 180 ml con tapa. Si se rompe alguno, varias reseñas confirman que los frascos de yogur comercial tipo 'Dahi' tienen el mismo tamaño y sirven de reemplazo.",
+      },
+      {
+        question: "¿Es apta para lavavajillas?",
+        answer: "Sí, los frascos son aptos para lavavajillas y el producto es libre de BPA.",
+      },
+      {
+        question: "¿Por qué tiene tantas más calificaciones que otras yogurteras?",
+        answer: "Con 12.296 calificaciones y más de 50.000 vendidos, es la yogurtera más elegida de Argentina en MercadoLibre, vendida por una tienda con más de 750 mil ventas totales.",
+      },
+      {
+        question: "¿Sirve para hacer yogur griego?",
+        answer: "No trae filtro para colar como el Daewoo Yoggy Pro de esta guía. Se puede colar el yogur común con un colador de tela aparte, pero no es su función pensada.",
+      },
+      {
+        question: "¿Qué pasa si me olvido de apagarla?",
+        answer: "No tiene apagado automático, así que sigue funcionando hasta que la desenchufás. Dejarla más tiempo del necesario puede hacer que el yogur quede más ácido o más firme de lo esperado.",
+      },
+      {
+        question: "¿Trae recetario?",
+        answer: "Hay una contradicción entre fuentes: la ficha técnica de MercadoLibre dice que no, pero la página oficial de Yelmo (yelmo.com.ar) dice que sí incluye un recetario con ideas de recetas. No hay forma de confirmar cuál versión corresponde al lote que se vende hoy.",
+      },
+    ],
+  },
+  {
+    id: "MLA65120821",
+    title: "Yogurtera Lüsqtoff Lq-yt808 1.7 Litros Con 8 Frascos De Vidrio Y Temporizador Digital",
+    canonicalName: "Yogurtera Lüsqtoff LQ-YT808 1,7L",
+    price: 49612,
+    originalPrice: 150000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_613681-MLA106258933607_012026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_613681-MLA106258933607_012026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_900047-MLA106258726593_012026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA65120821",
+    affiliateUrl: "https://meli.la/1LueXy3",
+    condition: "new",
+    freeShipping: true,
+    rating: 5,
+    reviewCount: 145,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lüsqtoff" },
+      { label: "Modelo", value: "LQ-YT808" },
+      { label: "Capacidad de producción", value: "1,7 litros" },
+      { label: "Cantidad de frascos", value: "8" },
+      { label: "Capacidad de los frascos", value: "210 mL (vidrio)" },
+      { label: "Potencia", value: "15 W" },
+      { label: "Con temporizador", value: "Sí (6, 8, 10 o 12 horas)" },
+      { label: "Con apagado automático", value: "Sí, tras el tiempo programado" },
+      { label: "Es apto para lavavajillas", value: "Sí" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Incluye recetario", value: "No" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA17840710", "MLA65327878", "MLA66422019"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Yogurtera Lüsqtoff LQ-YT808: 1,7 litros en 8 frascos de vidrio, con temporizador digital (6 a 12 horas) y apagado automático. 5.0 estrellas en 145 calificaciones.",
+    seoTitle: "Lüsqtoff LQ-YT808: yogurtera con temporizador digital",
+    metaDescription: "Yogurtera Lüsqtoff LQ-YT808: 1,7L, 8 frascos, temporizador digital y apagado automático. Precio real y opiniones verificadas.",
+    verdict: "Sirve si querés un paso más de comodidad sobre la Yelmo sin llegar al precio del Daewoo: temporizador digital programable y apagado automático, algo que la más vendida de esta guía no tiene. Ojo con el cartel de 66% de descuento: fijate en el precio final ({{precio:MLA65120821}}), no en el porcentaje, que parte de un precio de lista infladísimo. No es la mejor opción si priorizás la base de opiniones más grande posible: para eso, la Yelmo tiene casi 100 veces más calificaciones.",
+    pros: [
+      "Temporizador digital programable (6, 8, 10 o 12 horas) y apagado automático, dos funciones que la Yelmo de esta guía no tiene",
+      "Apta para lavavajillas y libre de BPA",
+      "5.0 estrellas en 145 calificaciones, diseño valorado como prolijo",
+      "8 frascos de vidrio de 210 ml, la mayor capacidad por frasco individual de la guía junto con la Ultracomb",
+    ],
+    cons: [
+      "El precio de lista (66% off, de $150.000 a {{precio:MLA65120821}}) es inusualmente alto para este segmento; conviene mirar el precio final, no el porcentaje de descuento",
+      "No incluye recetario, aunque según una reseña 'en internet hay miles de recetas'",
+      "Solo 145 calificaciones, muchas menos que la Yelmo (12.296) de esta guía",
+      "Cuerpo de plástico, sin partes metálicas",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Lüsqtoff LQ-YT808 es una yogurtera eléctrica de 1,7 litros con 8 frascos de vidrio de 210 ml cada uno y temporizador digital programable. Pensada para quien quiere un paso más de comodidad que una yogurtera básica sin llegar al precio de una con recipiente para yogur griego.
+
+## Cómo funciona
+
+El temporizador digital se programa en 6, 8, 10 o 12 horas según la receta, y el equipo se apaga solo al cumplirse ese tiempo (apagado automático), a diferencia de la Yelmo de esta guía, que hay que desenchufar a mano. Las reseñas confirman que el diseño con frascos a rosca es prolijo y de buena calidad.
+
+## La contra real
+
+El precio de lista que muestra la publicación ($150.000, con 66% de descuento) es un ancla de precio inusualmente alta para este tipo de producto: en la práctica, lo que importa es el precio final ({{precio:MLA65120821}}), no el porcentaje de descuento que infla la comparación. Tampoco incluye recetario, aunque una reseña aclara que no hace falta porque "en internet hay miles de recetas". Con 145 calificaciones, tiene una base de opiniones mucho más chica que la Yelmo de esta guía.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Yelmo YG-1700](/producto/MLA17840710) (más barata, sin temporizador), la Lüsqtoff suma programación digital y apagado automático a cambio de un precio mayor y muchas menos calificaciones. Frente al [Daewoo Yoggy Pro](/producto/MLA65327878) (pensada para yogur griego), la Lüsqtoff hace porciones individuales en 8 frascos, no un pote grande para colar. Frente a la [Ultracomb YG-2712V](/producto/MLA66422019) (12 frascos, pantalla LCD), tiene menos frascos pero cuesta bastante menos.
+
+## Para quién sí y para quién no
+
+Comprá la Lüsqtoff LQ-YT808 si querés temporizador digital y apagado automático sin pagar el precio de una yogurtera pensada para yogur griego. No es la mejor opción si preferís guiarte por la yogurtera con más opiniones reales posibles: ahí la Yelmo de esta guía gana por lejos.`,
+    faq: [
+      {
+        question: "¿Por qué el descuento es del 66%?",
+        answer: "Es un precio de lista inusualmente alto para el segmento: lo que importa es comparar el precio final ({{precio:MLA65120821}}) contra el resto de la guía, no el porcentaje de descuento.",
+      },
+      {
+        question: "¿Cuánto dura el temporizador?",
+        answer: "Se programa en 6, 8, 10 o 12 horas según la receta que uses.",
+      },
+      {
+        question: "¿Qué pasa cuando termina el tiempo?",
+        answer: "Se apaga sola gracias al apagado automático, a diferencia de la Yelmo de esta guía, que hay que desenchufar a mano.",
+      },
+      {
+        question: "¿Es apta para lavavajillas?",
+        answer: "Sí, y es libre de BPA.",
+      },
+      {
+        question: "¿Trae recetario?",
+        answer: "No, pero según una reseña real 'en internet hay miles de recetas' para reemplazarlo sin problema.",
+      },
+      {
+        question: "¿De qué material es el cuerpo?",
+        answer: "Plástico, según la ficha técnica. A diferencia de la Ultracomb de esta guía, no declara partes de acero inoxidable.",
+      },
+    ],
+  },
+  {
+    id: "MLA65327878",
+    title: "Yogurtera Daewoo Yoggy Pro Dym672t Con Timer Digital Griego Blanco",
+    canonicalName: "Yogurtera Daewoo Yoggy Pro DYM672T 2L",
+    price: 76474,
+    originalPrice: 99950,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_840810-MLA106675860589_022026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_840810-MLA106675860589_022026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_831114-MLA106751963483_022026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA65327878",
+    affiliateUrl: "https://meli.la/2zWSg4T",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 350,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Daewoo" },
+      { label: "Modelo", value: "DYM672T" },
+      { label: "Capacidad de producción", value: "2 litros" },
+      { label: "Cantidad de frascos", value: "1 (recipiente grande, con filtro para yogur griego)" },
+      { label: "Potencia", value: "20 W (confirmado por el manual oficial del fabricante)" },
+      { label: "Con temporizador", value: "Sí (8-12 h recomendadas, según el manual oficial)" },
+      { label: "Con apagado automático", value: "Con matices: el manual oficial indica que al cumplirse el tiempo pasa a un modo 'mantener caliente' (luz verde), no a un apagado total" },
+      { label: "Es apto para lavavajillas", value: "Sí" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Incluye recetario", value: "Sí (el manual oficial incluye métodos y recetas paso a paso)" },
+      { label: "Incluye filtro para yogur griego", value: "Sí, aunque varios compradores en la tienda oficial recomiendan sumar un lienzo o bolsita de tela aparte para colar mejor el suero" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Voltaje", value: "220-240V" },
+      { label: "Frecuencia", value: "50/60 Hz" },
+    ],
+    relatedProducts: ["MLA17840710", "MLA65120821", "MLA66422019"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Yogurtera Daewoo Yoggy Pro DYM672T: 2 litros en un solo recipiente, con filtro para yogur griego y recetario incluido. 4.8 estrellas en 350 calificaciones, más de 1.000 vendidos.",
+    seoTitle: "Daewoo Yoggy Pro: la yogurtera para hacer yogur griego",
+    metaDescription: "Yogurtera Daewoo Yoggy Pro DYM672T: 2L, filtro para griego, recetario incluido. Precio real y opiniones verificadas.",
+    verdict: "Sirve si tu objetivo puntual es hacer yogur griego colado en casa: es la única de esta guía con filtro pensado para eso, recetario incluido y buen respaldo de opiniones (350, con 4.8 estrellas). Ojo con dos cosas: el colado lo hacés vos, no la máquina, y las instrucciones de fábrica son flojas (conviene mirar un tutorial antes de arrancar). Si solo buscás yogur casero clásico en porciones individuales, la Yelmo o la Lüsqtoff de esta guía cuestan menos.",
+    pros: [
+      "Única de esta guía con filtro específico para hacer yogur griego colado",
+      "Recetario incluido",
+      "4.8 estrellas en 350 calificaciones, más de 1.000 vendidos, funcionamiento silencioso confirmado por reseñas",
+      "Recipiente único de 2 litros: rinde para toda una familia de una sola vez",
+      "Temporizador digital y apta para lavavajillas",
+    ],
+    cons: [
+      "El colado del yogur griego se hace por fuera de la máquina (con el filtro incluido, después de enfriarlo en la heladera), no es un proceso automático",
+      "Instrucciones de fábrica poco claras según más de una reseña; varios compradores recurrieron a tutoriales de YouTube (el manual oficial completo está disponible en daewooshop.com.ar)",
+      "La capacidad real de 2 litros es 'dudosa' para el recipiente de yogur griego específicamente, según una reseña",
+      "Varios compradores en la tienda oficial recomiendan sumar un lienzo o bolsita de tela aparte (no siempre incluida) para colar mejor el suero y lograr una textura más firme",
+      "No se apaga del todo sola al terminar: según el manual, pasa a un modo 'mantener caliente' con luz verde, no a un apagado total",
+      "Es la más cara de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Daewoo Yoggy Pro DYM672T es una yogurtera eléctrica de 2 litros con un solo recipiente grande (no frascos individuales), pensada específicamente para hacer yogur griego colado en casa, con filtro y recetario incluidos.
+
+## Cómo funciona
+
+Calienta con tecnología PTC (220-240V, 20W confirmados por el manual oficial) a una temperatura constante de 42°C para fermentar los 2 litros de leche en el recipiente único, durante 8 a 12 horas. Al cumplirse el tiempo programado, el manual oficial aclara que el equipo no se apaga del todo: pasa a un modo "mantener caliente" con luz verde, distinto de un apagado total. Para conseguir la textura de yogur griego, hay que enfriar el yogur ya fermentado en la heladera (el manual recomienda colador y balde 2 horas, más 1 hora extra de frío) y después pasarlo por el filtro incluido: ese paso de colado se hace por fuera de la máquina, no automáticamente. El manual oficial (disponible en daewooshop.com.ar) funciona también como recetario, con los métodos paso a paso.
+
+## La contra real
+
+Más de una reseña coincide en que las instrucciones que trae de fábrica son confusas (una reseña con varios votos útiles directamente las critica) y que terminaron mirando tutoriales de YouTube para entender el proceso completo; el manual oficial completo, más detallado, está disponible online si hace falta consultarlo. Otra reseña matiza que "la capacidad de 2 litros es dudosa" específicamente para el recipiente de yogur griego, que no llega a esa capacidad una vez colado. Reseñas en la tienda oficial de Daewoo recomiendan además sumar un lienzo o bolsita de tela aparte (vendida por separado) para colar mejor el suero, más allá del filtro que ya incluye la caja. El resultado final, igual, es valorado como muy bueno por la enorme mayoría: sale "espectacular" y "no compro más [de otra marca]", según las reseñas más útiles.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Yelmo](/producto/MLA17840710) y la [Lüsqtoff](/producto/MLA65120821) (frascos individuales de 180-210 ml), la Daewoo usa un solo recipiente grande de 2 litros, mejor pensado para colar yogur griego que para porciones individuales. Frente a la [Ultracomb YG-2712V](/producto/MLA66422019) (12 frascos, sin recetario), la Daewoo es la única que incluye guía de recetas y filtro específico para griego.
+
+## Para quién sí y para quién no
+
+Comprá la Daewoo Yoggy Pro si tu objetivo es específicamente yogur griego colado, y estás dispuesto a mirar un tutorial además del manual de fábrica. No es la mejor opción si solo querés yogur casero clásico en porciones individuales para repartir: ahí la Yelmo o la Lüsqtoff de esta guía cuestan menos y no complican el proceso.`,
+    faq: [
+      {
+        question: "¿La máquina cuela el yogur griego sola?",
+        answer: "No. Fermenta los 2 litros de leche, pero para lograr la textura de yogur griego hay que enfriarlo en la heladera y pasarlo por el filtro incluido a mano; ese paso se hace por fuera de la máquina.",
+      },
+      {
+        question: "¿Las instrucciones son claras?",
+        answer: "Varias reseñas de MercadoLibre coinciden en que no: recomiendan mirar un tutorial de YouTube. El manual oficial completo (más detallado, con métodos de mezcla, fermentación y colado paso a paso) está disponible en daewooshop.com.ar por si hace falta consultarlo.",
+      },
+      {
+        question: "¿Trae recetario?",
+        answer: "Sí, confirmado: el manual oficial funciona también como recetario, con métodos y recetas paso a paso para yogur natural y griego.",
+      },
+      {
+        question: "¿Cuánto rinde el recipiente de 2 litros?",
+        answer: "Según la ficha, 2 litros, aunque una reseña aclara que esa capacidad es 'dudosa' específicamente para el recipiente de colado de yogur griego, que rinde algo menos una vez filtrado.",
+      },
+      {
+        question: "¿Es silenciosa?",
+        answer: "Sí, varias reseñas lo confirman explícitamente.",
+      },
+      {
+        question: "¿Es apta para lavavajillas?",
+        answer: "Sí, y es libre de BPA.",
+      },
+      {
+        question: "¿Se apaga sola al terminar?",
+        answer: "Con matices: según el manual oficial del fabricante, al cumplirse el tiempo programado el equipo pasa a un modo 'mantener caliente' (luz verde), no a un apagado total. Igual no hace falta estar pendiente del temporizador.",
+      },
+      {
+        question: "¿El filtro incluido alcanza para hacer buen yogur griego?",
+        answer: "Para la mayoría sí, pero varios compradores en la tienda oficial de Daewoo recomiendan sumar un lienzo fino o una bolsita de tela aparte (vendida por separado, no siempre incluida) para colar mejor el suero y lograr una textura más firme.",
+      },
+    ],
+  },
+  {
+    id: "MLA66422019",
+    title: "Yogurtera Digital Ultracomb Yg 2712v 12 Frascos Vidrio Temporizador",
+    canonicalName: "Yogurtera Ultracomb YG-2712V",
+    price: 64490,
+    currency: "ARS",
+    image: "https://acdn-us.mitiendanube.com/stores/005/618/241/products/1-1-c00f2cbd6b3af01f2817806929579106-1024-1024.webp",
+    images: [
+      "https://acdn-us.mitiendanube.com/stores/005/618/241/products/1-1-c00f2cbd6b3af01f2817806929579106-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/005/618/241/products/5-e9102f492c0535d05717732333743366-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/005/618/241/products/4-ac53560ad159fda0eb17732333741966-1024-1024.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA66422019",
+    affiliateUrl: "https://meli.la/1XFyfn4",
+    condition: "new",
+    freeShipping: true,
+    rating: 5,
+    reviewCount: 125,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ultracomb" },
+      { label: "Modelo", value: "YG-2712V" },
+      { label: "Capacidad de producción", value: "2,2-2,5 litros (según la fuente: el fabricante declara 2,2 L, la ficha de MercadoLibre declara 2,5 L)" },
+      { label: "Cantidad de frascos", value: "12" },
+      { label: "Capacidad de los frascos", value: "180-210 mL, según la fuente (vidrio)" },
+      { label: "Potencia", value: "21,5 W (confirmado por el manual oficial del fabricante)" },
+      { label: "Con temporizador", value: "Sí, digital con pantalla LCD (hasta 8 h)" },
+      { label: "Con apagado automático", value: "Sí" },
+      { label: "Es apto para lavavajillas", value: "Sí, todas las piezas excepto la base, según el manual oficial (la ficha de MercadoLibre decía que no)" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Incluye recetario", value: "No" },
+      { label: "Material del cuerpo", value: "Plástico, confirmado por el manual oficial del fabricante ('cubierta de plástico para la unidad'), pese a que la ficha de MercadoLibre y la propia página de Ultracomb lo venden como 'acero inoxidable'" },
+      { label: "Voltaje", value: "220-240V" },
+    ],
+    relatedProducts: ["MLA17840710", "MLA65120821", "MLA65327878"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Yogurtera Ultracomb YG-2712V: 12 frascos de vidrio con temporizador digital y pantalla LCD. 5.0 estrellas en 125 calificaciones.",
+    seoTitle: "Ultracomb YG-2712V: la yogurtera de 12 frascos",
+    metaDescription: "Yogurtera Ultracomb YG-2712V: 12 frascos, temporizador digital LCD, apagado automático. Precio real y opiniones verificadas.",
+    verdict: "Sirve si querés la mayor cantidad de frascos de esta guía (12) con temporizador digital y pantalla LCD, a un precio intermedio. Un dato a tener en cuenta: tanto MercadoLibre como la propia página de Ultracomb la venden como 'cuerpo de acero inoxidable', pero el manual oficial del fabricante dice explícito que la cubierta es de plástico. No cambia lo que hace, pero no es acero como sugiere el marketing. A favor: el manual confirma que todas las piezas menos la base van al lavavajillas, algo que la ficha de MercadoLibre no reflejaba. Con 5.0 en 125 opiniones, es una opción sólida.",
+    pros: [
+      "12 frascos de vidrio, la mayor cantidad de esta guía",
+      "Temporizador digital con pantalla LCD y apagado automático",
+      "5.0 estrellas en 125 calificaciones",
+      "Tapa transparente en cada frasco para controlar el proceso sin abrir",
+      "Apta para lavavajillas (salvo la base), confirmado por el manual oficial del fabricante",
+    ],
+    cons: [
+      "Pese a venderse como 'acero inoxidable' en MercadoLibre y en la propia página de Ultracomb, el manual oficial del fabricante confirma que la cubierta es de plástico",
+      "La ficha de MercadoLibre declara 2,5 litros y frascos de 210 ml, y la página oficial del fabricante declara 2,2 litros y frascos de 180 ml: pequeña discrepancia entre fuentes",
+      "No incluye recetario",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Ultracomb YG-2712V es una yogurtera eléctrica con temporizador digital y pantalla LCD, la que trae más frascos de esta guía: 12 frascos de vidrio con tapa transparente individual.
+
+## Cómo funciona
+
+Se programa el tiempo de fermentación (hasta 8 horas) en la pantalla LCD; el botón Encendido/Apagado enciende el equipo y las letras "HR" titilan en pantalla mientras cuenta el tiempo regresivo en horas (los últimos 60 minutos, en minutos), según el manual oficial. Las tapas transparentes de cada frasco permiten controlar visualmente el proceso sin abrirlos. Varias reseñas destacan que viene con dos medidas de llenado (100 ml y 180 ml) y que no hace falta preparar los 12 frascos completos si no se necesitan.
+
+## La contra real
+
+Acá aparece el hallazgo más importante de esta ficha: tanto la página oficial de Ultracomb como la ficha técnica de MercadoLibre venden el equipo como "cuerpo de acero inoxidable", pero el manual oficial del fabricante, en su lista de partes, dice explícito: "1. Cubierta de plástico para la unidad". No es una reseña sin confirmar ni una sospecha: es el propio manual del fabricante contradiciendo su material de marketing. Una reseña de comprador real ya lo había anticipado: "el cuerpo del aparato no es de metal como indicaba el anuncio cuando compré, sino de plástico". El dato no cambia lo que el equipo hace, pero conviene tenerlo en cuenta al comparar precio contra otros modelos. Además, hay una pequeña diferencia de capacidad entre fuentes: la ficha de MercadoLibre declara 2,5 litros y frascos de 210 ml, mientras que la página oficial de Ultracomb declara 2,2 litros y frascos de 180 ml.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Yelmo](/producto/MLA17840710) y la [Lüsqtoff](/producto/MLA65120821) (7 y 8 frascos), la Ultracomb suma más unidades (12) y pantalla digital LCD. Frente a la [Daewoo Yoggy Pro](/producto/MLA65327878) (pensada para yogur griego en un solo recipiente), la Ultracomb reparte en porciones individuales como la Yelmo y la Lüsqtoff, pero en mayor cantidad. Las cuatro de esta guía terminan siendo aptas para lavavajillas (en la Ultracomb, todo menos la base, según el manual oficial).
+
+## Para quién sí y para quién no
+
+Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una pantalla digital LCD, y no te importa que el "acero inoxidable" del marketing sea en realidad plástico según el propio manual del fabricante. No es la mejor opción si buscás específicamente un cuerpo metálico por durabilidad: ahí el marketing de esta publicación no es preciso.`,
+    faq: [
+      {
+        question: "¿El cuerpo es de metal o de plástico?",
+        answer: "Es de plástico. MercadoLibre y la propia página de Ultracomb lo venden como 'acero inoxidable', pero el manual oficial del fabricante lo dice explícito en la descripción de partes: 'cubierta de plástico para la unidad'. Una reseña de comprador real ya lo había señalado antes de encontrar el dato en el manual.",
+      },
+      {
+        question: "¿Cuántos frascos trae?",
+        answer: "12 frascos de vidrio con tapa transparente, la mayor cantidad de esta guía.",
+      },
+      {
+        question: "¿Cuál es la capacidad real?",
+        answer: "Hay una pequeña discrepancia entre fuentes: la ficha de MercadoLibre declara 2,5 litros (frascos de 210 ml), y la página oficial del fabricante declara 2,2 litros (frascos de 180 ml).",
+      },
+      {
+        question: "¿Es apta para lavavajillas?",
+        answer: "Sí, según el manual oficial: todas las piezas van al lavavajillas excepto la base. La ficha de MercadoLibre decía que no, pero el manual del fabricante lo contradice.",
+      },
+      {
+        question: "¿Trae recetario?",
+        answer: "No, pero el manual incluye al menos una receta de yogur griego y otra con miel y nueces, según una reseña.",
+      },
+      {
+        question: "¿Tiene apagado automático?",
+        answer: "Sí, se programa el tiempo en la pantalla LCD (hasta 8 horas) y se apaga sola al terminar.",
+      },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
