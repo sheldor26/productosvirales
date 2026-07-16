@@ -177,9 +177,11 @@ export function ProductCard({ section }: ProductCardProps) {
               </Link>
             </h4>
             {section.description && (
-              <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
-                {injectLivePrices(section.description)}
-              </p>
+              <Link href={productHref(product)} className="block">
+                <p className="text-[13px] sm:text-sm text-[var(--text-secondary)] leading-snug line-clamp-2">
+                  {injectLivePrices(section.description)}
+                </p>
+              </Link>
             )}
             {product.includesCase && (
               <p className="text-[10px] text-[var(--text-muted)] flex items-center gap-1">
@@ -265,19 +267,24 @@ export function ProductCard({ section }: ProductCardProps) {
           </h4>
 
           {rating && (
-            <div className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--text-muted)]">
+            <Link
+              href={productHref(product)}
+              className="flex w-fit flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--text-muted)]"
+            >
               <Stars rating={rating} />
               <span className="font-medium text-[var(--text-secondary)]">{rating.toFixed(1)}</span>
               {product.reviewCount ? (
                 <span>· {product.reviewCount.toLocaleString("es-AR")} calificaciones</span>
               ) : null}
-            </div>
+            </Link>
           )}
 
           {section.description && (
-            <p className="text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
-              {injectLivePrices(section.description)}
-            </p>
+            <Link href={productHref(product)} className="block">
+              <p className="text-[15px] md:text-base leading-[1.65] text-[var(--text-secondary)]">
+                {injectLivePrices(section.description)}
+              </p>
+            </Link>
           )}
 
           {(section.notes?.length || section.longevity || section.projection) && (
