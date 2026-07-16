@@ -4361,6 +4361,7 @@ export const guides: Guide[] = [
       { label: "Pavas eléctricas Oster", href: "/guias/pava-electrica-oster" },
       { label: "Pavas eléctricas Atma", href: "/guias/pava-electrica-atma" },
       { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
+      { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
     ],
     internalLinksTitle: "Guías de pavas eléctricas",
   },
@@ -8215,6 +8216,7 @@ export const guides: Guide[] = [
       { label: "Pava Peabody: cuál modelo elegir", href: "/guias/pava-electrica-peabody" },
       { label: "Pava Philips: vale la pena?", href: "/guias/pava-electrica-philips" },
       { label: "Pava eléctrica", href: "/guias/pava-electrica" },
+      { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
     ],
   },
 
@@ -19812,8 +19814,131 @@ export const guides: Guide[] = [
       { label: "Microondas: cuál comprar en Argentina", href: "/guias/cocina/microondas" },
       { label: "Horno eléctrico: cuál comprar en Argentina", href: "/guias/cocina/horno-electrico" },
       { label: "Robot de cocina: cuál comprar en Argentina", href: "/guias/cocina/robot-de-cocina" },
+      { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
     ],
     internalLinksTitle: "Más para tu cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR termo — silo bebidas-termicas, categoria "termos"
+  // Origen: research masivo 2026-07-16 + consulta al trío (Codex/Gemini/
+  // Claude) sobre prioridad de ejecución, guía #3 de 4. Keyword "termo"
+  // (mate) 27.100/mes AR (Ubersuggest locId 2032), SD19, del backlog
+  // original reconfirmado con datos frescos.
+  // Sourcing: MercadoLibre Argentina + páginas oficiales de fabricante
+  // (Lüsqtoff, Waterdog) vía Bright Data, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "termo",
+    category: "termos",
+    silo: "bebidas-termicas",
+    pillar: true,
+    title: `Termo: cuál comprar en Argentina [2026]`,
+    seoTitle: `Termo para Mate: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos los termos más vendidos de Argentina: Stanley, Lumilagro, Lüsqtoff y Waterdog. Precio, horas de conservación y contras reales. Compará.`,
+    ogTitle: `Termo: cuál comprar en Argentina`,
+    ogDescription: `De $46.000 a $182.000: comparamos los termos más vendidos de Argentina por horas de conservación, funciones y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_722833-MLA99475133414_112025-F.webp`,
+    h1: `Termo: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Lumilagro Luminox](/producto/MLA15297106)** (alrededor de {{precio:MLA15297106:k}}): el termo con más respaldo de compradores reales de Argentina, con 26.780 calificaciones, aunque no tiene manija. Si priorizás el precio más bajo, el **[Waterdog Ombu](/producto/MLA19856080)** cumple con manija incluida, aunque conserva menos horas. Si buscás el más equipado en funciones (antigoteo, antideslizante, pico multidireccional), el **[Lüsqtoff TL1-9](/producto/MLA19589790)**. Y si el precio no es problema y priorizás la marca más elegida del país con tapón cebador integrado, el **[Stanley Mate System](/producto/MLA19761025)**, aunque cuesta 3 a 4 veces más que el resto.`,
+    publishedDate: "2026-07-16",
+    updatedDate: "2026-07-16",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Hay termos desde {{precio:MLA19856080:k}} hasta {{precio:MLA19761025:k}}, todos de acero inoxidable de 1 a 1,2 litros. La diferencia real entre ellos no es solo el precio: son las horas de conservación, si tienen manija, y si el pico está pensado para cebar mate sin descebar. Comparamos los 4 con mejor respaldo de compradores reales de MercadoLibre Argentina, con las contras que las publicaciones no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA15297106", label: "El más calificado", labelColor: "green", tagline: "Lumilagro Luminox: 26.780 calificaciones, compite directo con el Stanley" },
+      { productMlaId: "MLA19856080", label: "El más económico", labelColor: "amber", tagline: "Waterdog Ombu: el más barato, con manija incluida" },
+      { productMlaId: "MLA19589790", label: "El más completo", labelColor: "purple", tagline: "Lüsqtoff TL1-9: antigoteo, antideslizante y pico multidireccional" },
+      { productMlaId: "MLA19761025", label: "El premium", labelColor: "blue", tagline: "Stanley Mate System: el más elegido del país, tapón cebador integrado" },
+    ],
+    intro: [
+      `Un termo de acero inoxidable de buena calidad hace la diferencia entre un mate a buena temperatura toda la tarde y uno que se enfría al segundo cebado. La categoría está dominada por marcas argentinas con décadas en el mercado (Lumilagro, Lüsqtoff) que compiten codo a codo con el Stanley importado, a una fracción del precio.`,
+      `Esta guía compara los 4 termos con mejor respaldo de compradores reales en MercadoLibre Argentina, desde el más económico hasta el premium, para que elijas según cuántas horas necesitás que aguante el agua y cuánto estás dispuesto a pagar por la marca.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_722833-MLA99475133414_112025-F.webp", alt: `Termo Lumilagro Luminox, el más calificado de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "El Stanley no es la única opción real", content: `Varias de las reseñas más útiles de los termos argentinos de esta guía comparan directo contra el Stanley y salen conformes: "no es un stanley pero por lo que sale esta muy bueno" o "no hay por qué elegir una marca más cara", dicen compradores reales con cientos de votos útiles. El precio del Stanley no siempre se traduce en mejor rendimiento real de conservación.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los termos con más ventas y calificaciones reales en MercadoLibre Argentina. Evaluamos lo que más importa al elegir uno: **horas de conservación real** (no solo la declarada), si tiene **manija**, el **sistema de pico** para cebar, y el precio real. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Los 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Lumilagro Luminox — el más calificado` },
+      { type: "product-card", productMlaId: "MLA15297106", label: "El más calificado", labelColor: "green", ranking: 1, description: `1 litro, pico cebador multidireccional con antigoteo. 4.7 estrellas en 26.780 calificaciones, marca argentina con 80 años en el mercado.` },
+      { type: "p", content: `Es el termo con más respaldo real de compradores del país, y por una distancia enorme: 26.780 calificaciones. Varias de las reseñas más útiles lo comparan directo contra el Stanley y salen conformes, a alrededor de {{precio:MLA15297106:k}}.` },
+      { type: "p", content: `Lo honesto: no tiene manija, así que se sostiene del cuerpo. La pintura se raya con el uso según más de una reseña, y la temperatura ideal para cebar mate cómodo ronda las 6-8 horas reales, no los "días" que sugiere el marketing de la categoría en general.` },
+      { type: "pull-quote", content: `Lindo, eficiente y argento. No se puede pedir mas. Stanley, go home.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `2. Waterdog Ombu — el más económico` },
+      { type: "product-card", productMlaId: "MLA19856080", label: "El más económico", labelColor: "amber", ranking: 2, description: `1 litro, acero inoxidable AISI 304 con manija. El más barato de esta guía, aprobado por INAL.` },
+      { type: "p", content: `El más accesible de los 4, con manija incluida (algo que el Lumilagro no tiene) a alrededor de {{precio:MLA19856080:k}}. Sus datos técnicos están confirmados en la página oficial del fabricante, no solo en MercadoLibre.` },
+      { type: "p", content: `Lo honesto: conserva menos horas que el resto (8 h caliente, 12 h fría) y tiene la base de opiniones más chica de esta guía (58 calificaciones). Una reseña real avisa que la soldadura de la manija se le despegó al sostenerlo de ahí mientras ajustaba el tapón con fuerza.` },
+      { type: "pull-quote", content: `Un termo q mantiene el calor, su pico cebador es super cómodo para elegir la cantidad de agua q quieras usar, hay varios colores para elegir! su manija cómoda y práctica para el agarre. Ya compré 3!`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `3. Lüsqtoff TL1-9 — el más completo en funciones` },
+      { type: "product-card", productMlaId: "MLA19589790", label: "El más completo", labelColor: "purple", ranking: 3, description: `1 litro, con antigoteo, base antideslizante y pico multidireccional. 4.7 estrellas en 3.364 calificaciones.` },
+      { type: "p", content: `Suma más funciones juntas que el resto: sistema antigoteo, base antideslizante y pico multidireccional, a alrededor de {{precio:MLA19589790:k}}. Reseñas con pruebas caseras de temperatura confirman buen rendimiento real.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Un aviso sobre el 'modelo' en la ficha", content: `La ficha técnica de MercadoLibre etiqueta el atributo "Modelo" de esta variante Verde como "TL1-9N", que es el código de una variante Negra que el fabricante marca como discontinuada en su propio sitio oficial. Todo indica que es un error de carga de atributos de ML (comparte ficha entre variantes de color), no que el producto esté discontinuado: la publicación sigue activa, con más de 10.000 vendidos y 3.364 calificaciones recientes.` },
+      { type: "pull-quote", content: `Muy bueno el termo lusqtoff. Fantástica alternativa a los termos stanley, hice pruebas para que la gente tenga referencia. Coloque agua a 94° a las 09:20, a las 18:20 el agua estaba a 75°, a las 07:30 del día siguiente 60°.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `4. Stanley Mate System — el premium` },
+      { type: "product-card", productMlaId: "MLA19761025", label: "El premium", labelColor: "blue", ranking: 4, description: `1,2 litros, con tapón cebador integrado de alta precisión. 4.8 estrellas en 6.297 calificaciones, #1 en Termos.` },
+      { type: "p", content: `La marca con más respaldo total de la categoría (6.297 calificaciones) y el único con tapón cebador integrado de fábrica pensado específicamente para mate, a alrededor de {{precio:MLA19761025:k}}.` },
+      { type: "p", content: `Lo honesto: cuesta 3 a 4 veces más que el resto de esta guía, y hay una discrepancia entre las propias fuentes de MercadoLibre sobre cuánto conserva (1,5 días según la ficha estructurada, 30 horas según la descripción del vendedor). Una reseña real avisa que para mate conviene recalentar el agua si no lo usás enseguida.` },
+      { type: "pull-quote", content: `Superó mis expectativas super liviano y cómodo para trasportar, el picó que tiene sin dudas es el mejor lo puse a prueba para ver la temperatura y el agua seguía caliente. Sin dudas por el precio lo vale, una buena inversión.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: termos`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Manija`, `Conservación`, `Ideal para`], rows: [
+        [`[Lumilagro Luminox](/producto/MLA15297106)`, `{{precio:MLA15297106}}`, `1 L`, `No`, `9-12 h`, `El más probado por compradores reales`],
+        [`[Waterdog Ombu](/producto/MLA19856080)`, `{{precio:MLA19856080}}`, `1 L`, `Sí`, `8-12 h`, `El más barato`],
+        [`[Lüsqtoff TL1-9](/producto/MLA19589790)`, `{{precio:MLA19589790}}`, `1 L`, `Sí`, `20 h`, `Más funciones por el precio`],
+        [`[Stanley Mate System](/producto/MLA19761025)`, `{{precio:MLA19761025}}`, `1,2 L`, `Sí`, `30 h declaradas / según ficha 1,5 días`, `Marca más elegida, presupuesto flexible`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu termo`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Cuántas horas necesitás que aguante caliente?` },
+      { type: "p", content: `Ojo con los números de la categoría en general: casi todos declaran "24 horas" o más, pero varias reseñas reales de esta guía coinciden en que la temperatura ideal para cebar mate cómodo dura bastante menos (6-8 horas en el [Lumilagro](/producto/MLA15297106) y el [Waterdog](/producto/MLA19856080)). El [Lüsqtoff](/producto/MLA19589790) y el [Stanley](/producto/MLA19761025) declaran más horas (20 y hasta 30). Si vas a usarlo durante todo un día de trabajo sin recargar agua caliente, priorizá esos dos.` },
+      { type: "h3", title: `2. ¿Con manija o sin manija?` },
+      { type: "p", content: `El [Lumilagro](/producto/MLA15297106) de esta guía, pese a ser el más calificado, no tiene manija: se sostiene del cuerpo. Si preferís tomarlo de una manija (más cómodo para llevar de un lado a otro), el [Waterdog](/producto/MLA19856080), el [Lüsqtoff](/producto/MLA19589790) o el [Stanley](/producto/MLA19761025) la incluyen.` },
+      { type: "h3", title: `3. ¿Pico cebador o pico multidireccional?` },
+      { type: "p", content: `El [Stanley](/producto/MLA19761025) trae un tapón cebador integrado de fábrica, pensado específicamente para cebar mate sin descebar. El [Lumilagro](/producto/MLA15297106) y el [Lüsqtoff](/producto/MLA19589790) usan pico multidireccional con sistema antigoteo, que cumple una función similar según las reseñas. El [Waterdog](/producto/MLA19856080) también trae pico multidireccional.` },
+      { type: "h3", title: `4. Mantenimiento básico` },
+      { type: "list", items: [
+        `Enjuagar con agua tibia después de cada uso. El [Stanley](/producto/MLA19761025) de esta guía se declara apto lavavajillas según su publicación; para el [Lumilagro](/producto/MLA15297106), el [Lüsqtoff](/producto/MLA19589790) y el [Waterdog](/producto/MLA19856080) no hay dato confirmado, así que por las dudas lavalos a mano.`,
+        `Dejar secar destapado para que no quede olor a encerrado.`,
+        `Si notás que conserva menos temperatura que antes, revisá que la tapa cierre bien y que no haya sarro acumulado en el pico.`,
+      ]},
+
+      { type: "h2", title: `Cuánto cuesta un termo en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA19856080:k}}:** el más barato, el [Waterdog Ombu](/producto/MLA19856080), con manija incluida.`,
+        `**Alrededor de {{precio:MLA15297106:k}}:** el más calificado, el [Lumilagro Luminox](/producto/MLA15297106), sin manija.`,
+        `**Alrededor de {{precio:MLA19589790:k}}:** el [Lüsqtoff TL1-9](/producto/MLA19589790), el más completo en funciones.`,
+        `**Alrededor de {{precio:MLA19761025:k}}:** el [Stanley Mate System](/producto/MLA19761025), la marca más elegida del país.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál termo comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **[Lumilagro Luminox](/producto/MLA15297106)**: es el termo con más respaldo de compradores reales del país por lejos (26.780 calificaciones) y varias reseñas lo comparan directo contra el Stanley con buenos resultados, aunque no tiene manija y la temperatura ideal para mate dura 6-8 horas reales. Si el precio es tu prioridad, el **[Waterdog Ombu](/producto/MLA19856080)** cumple con manija incluida, aunque conserva menos horas y tiene la base de opiniones más chica. Si buscás la mayor cantidad de funciones (antigoteo, antideslizante, pico multidireccional) a un precio intermedio, el **[Lüsqtoff TL1-9](/producto/MLA19589790)**. Y si el precio no es un problema y priorizás la marca más elegida del país con tapón cebador integrado de fábrica, el **[Stanley Mate System](/producto/MLA19761025)**, aunque cuesta 3 a 4 veces más que el resto sin una diferencia de rendimiento proporcional según las reseñas.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor termo para mate en Argentina?`, answer: `El más calificado por compradores reales es el [Lumilagro Luminox](/producto/MLA15297106), con 26.780 calificaciones. Si priorizás precio, el [Waterdog Ombu](/producto/MLA19856080); si priorizás funciones, el [Lüsqtoff TL1-9](/producto/MLA19589790); si priorizás la marca más elegida del país, el [Stanley Mate System](/producto/MLA19761025).` },
+      { question: `¿El Stanley realmente conserva mejor la temperatura que los termos argentinos?`, answer: `No necesariamente. Varias de las reseñas más útiles de los termos argentinos de esta guía ([Lumilagro](/producto/MLA15297106), [Lüsqtoff](/producto/MLA19589790)) lo comparan directo contra el [Stanley](/producto/MLA19761025) con pruebas caseras de temperatura y salen conformes, a una fracción del precio. La diferencia de precio no siempre se traduce en mejor rendimiento real.` },
+      { question: `¿Cuántas horas dura el agua caliente en un termo?`, answer: `Depende del modelo y de qué tan caliente necesitás que esté para cebar mate cómodo. Las fichas técnicas declaran entre 8 y 30 horas según el modelo, pero varias reseñas reales coinciden en que la temperatura ideal para mate dura bastante menos que el máximo declarado: 6-8 horas en el [Lumilagro](/producto/MLA15297106) y el [Waterdog](/producto/MLA19856080) de esta guía.` },
+      { question: `¿Conviene un termo con manija o sin manija?`, answer: `Es preferencia personal. El [Lumilagro](/producto/MLA15297106) de esta guía (el más calificado) no tiene manija, se sostiene del cuerpo. El [Waterdog](/producto/MLA19856080), el [Lüsqtoff](/producto/MLA19589790) y el [Stanley](/producto/MLA19761025) sí la incluyen, más cómoda si lo llevás de un lugar a otro seguido.` },
+      { question: `¿Qué es un tapón cebador y en qué se diferencia de un pico multidireccional?`, answer: `El tapón cebador (como el del [Stanley](/producto/MLA19761025) de esta guía) es un sistema integrado de fábrica pensado específicamente para regular el chorro de agua al cebar mate. El pico multidireccional con sistema antigoteo (como el del [Lumilagro](/producto/MLA15297106), el [Lüsqtoff](/producto/MLA19589790) y el [Waterdog](/producto/MLA19856080)) cumple una función similar, según confirman las reseñas de esos productos.` },
+      { question: `¿Por qué un termo dice "discontinuado" en la web del fabricante pero se sigue vendiendo en MercadoLibre?`, answer: `Es el caso del Lüsqtoff de esta guía: la ficha de MercadoLibre etiqueta el modelo con el código de una variante de color que el fabricante marca como discontinuada en su sitio oficial, pero la publicación activa (de otro color) sigue teniendo ventas y calificaciones recientes. Suele ser un error de carga de atributos entre variantes de color de un mismo modelo base, no que el producto en sí haya dejado de fabricarse.` },
+      { question: `¿Se puede lavar un termo en el lavavajillas?`, answer: `El [Stanley](/producto/MLA19761025) de esta guía se declara apto lavavajillas según su publicación. Para el [Lumilagro](/producto/MLA15297106), el [Lüsqtoff](/producto/MLA19589790) y el [Waterdog](/producto/MLA19856080) no hay dato confirmado, así que por las dudas conviene enjuagarlos a mano con agua tibia y dejarlos secar destapados.` },
+      { question: `¿Cómo sé si mi termo perdió capacidad de aislar?`, answer: `Si notás que conserva menos temperatura que antes, revisá primero que la tapa cierre bien (un sello gastado deja escapar el calor) y que no haya sarro acumulado en el pico o el interior, algo común con agua de canilla dura.` },
+      { question: `¿Vale la pena pagar 3 o 4 veces más por un Stanley?`, answer: `Depende de qué priorices. El [Stanley](/producto/MLA19761025) de esta guía tiene el respaldo de marca más grande y un tapón cebador integrado de fábrica pensado específicamente para mate, además de garantía de por vida declarada. Pero varias reseñas de los termos argentinos más baratos lo comparan directo y no encuentran una diferencia de rendimiento proporcional al precio.` },
+    ],
+    internalLinks: [
+      { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
+      { label: "Pava eléctrica de acero inoxidable: la mejor", href: "/guias/pava-electrica-acero-inoxidable" },
+      { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
+    ],
+    internalLinksTitle: "Más para tu cocina y tu mate",
   },
 
   // ─────────────────────────────────────────────────────────
@@ -19943,6 +20068,7 @@ export const guides: Guide[] = [
       { label: "Auriculares inalámbricos para ver pelis de noche", href: "/guias/audio/auriculares-inalambricos" },
       { label: "HY300 vs HY320: cuál conviene", href: "/guias/tech/hy300-vs-hy320" },
       { label: "Cargador portátil (power bank): cuál comprar", href: "/guias/tech/cargador-portatil" },
+      { label: "Chromecast: cuál dispositivo de streaming comprar", href: "/guias/tech/chromecast" },
     ],
   },
 
@@ -20114,6 +20240,127 @@ export const guides: Guide[] = [
       { label: "Parlantes bluetooth para mejorar el sonido", href: "/guias/audio/parlantes" },
       { label: "Auriculares inalámbricos para ver pelis de noche", href: "/guias/audio/auriculares-inalambricos" },
     ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR chromecast — silo tech, categoria "streaming-tv"
+  // Origen: research masivo 2026-07-16 (Amazon Best Sellers vía Chrome
+  // real, cuenta de Juan), keyword "chromecast / streaming para tv"
+  // 74.000/mes AR (Ubersuggest locId 2032), SD25, el volumen más alto
+  // de todo el research — guía #4 de 4 del batch.
+  // Sourcing: MercadoLibre Argentina vía Bright Data, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "chromecast",
+    category: "streaming-tv",
+    silo: "tech",
+    pillar: true,
+    title: `Chromecast: cuál comprar en Argentina [2026]`,
+    seoTitle: `Chromecast y Streaming para TV: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos los dispositivos de streaming para TV más vendidos de Argentina: Google TV Streamer, Fire TV Stick y genéricos. Precio y contras reales.`,
+    ogTitle: `Chromecast: cuál comprar en Argentina`,
+    ogDescription: `De $27.000 a $240.000: comparamos los dispositivos de streaming para TV más vendidos de Argentina, con las contras reales que las publicaciones no siempre cuentan.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_810140-MLA99989898035_112025-F.webp`,
+    h1: `Chromecast: cuál dispositivo de streaming comprar en Argentina [2026]`,
+    directAnswer: `En Argentina "chromecast" se usa como término genérico para cualquier dispositivo que convierte un TV en Smart TV, aunque el producto real de Google ahora se llama **Google TV Streamer**. Para la mayoría conviene el **[TV Stick genérico](/producto/MLA41918674)** (alrededor de {{precio:MLA41918674:k}}): el más vendido de toda la categoría en MercadoLibre, aunque sin marca reconocida y sin Bluetooth. Si preferís una marca respaldada por miles de compradores reales, el **[Fire TV Stick Lite](/producto/MLA19732185)** de Amazon. Para 4K con la marca oficial de Amazon, el **[Fire TV Stick 4K Select](/producto/MLA62234964)**, aunque solo permite apps de su propia tienda. Y si el precio no es problema, el **[Google TV Streamer](/producto/MLA47307231)**, el sucesor real del Chromecast, aunque sin distribución oficial en el país.`,
+    publishedDate: "2026-07-16",
+    updatedDate: "2026-07-16",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `Hay dispositivos de streaming desde {{precio:MLA41918674:k}} hasta {{precio:MLA47307231:k}}, una diferencia de precio enorme para una función parecida: conectar el TV a internet y correr apps como Netflix o YouTube. Comparamos los 4 más vendidos de MercadoLibre Argentina, con las contras reales que las publicaciones no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA41918674", label: "El más vendido", labelColor: "green", tagline: "TV Stick genérico: #1 en Media Streaming, el más barato" },
+      { productMlaId: "MLA62234964", label: "4K oficial Amazon", labelColor: "amber", tagline: "Fire TV Stick 4K Select: con Alexa, solo apps de Amazon" },
+      { productMlaId: "MLA19732185", label: "El más calificado", labelColor: "purple", tagline: "Fire TV Stick Lite: 34.028 calificaciones" },
+      { productMlaId: "MLA47307231", label: "El premium", labelColor: "blue", tagline: "Google TV Streamer: el Chromecast actual, sin distribución oficial en AR" },
+    ],
+    intro: [
+      `En Argentina, "chromecast" funciona como un nombre genérico para cualquier dispositivo que convierte un televisor viejo en un Smart TV, parecido a cómo "Google" se usa para decir "buscador". Pero el producto real de Google que reemplazó al Chromecast clásico ahora se llama Google TV Streamer, y convive en el mercado con los Fire TV Stick de Amazon y una categoría enorme de dispositivos Android genéricos sin marca reconocida.`,
+      `Esta guía compara los 4 dispositivos con mejor respaldo de ventas y calificaciones reales en MercadoLibre Argentina, desde el más barato y vendido hasta el más caro y potente, para que elijas según qué apps necesitás y cuánto estás dispuesto a pagar por una marca reconocida.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_810140-MLA99989898035_112025-F.webp", alt: `TV Stick Android, el dispositivo de streaming más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: `"Chromecast" no siempre es Chromecast`, content: `La mayoría de las búsquedas de "chromecast" en Argentina terminan en dispositivos que no son de Google: Fire TV Stick de Amazon o TV boxes Android genéricos. El producto real de Google (ahora llamado Google TV Streamer) ni siquiera tiene distribución oficial en el país. Esta guía compara los 4 tipos de dispositivo, no solo la marca.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los dispositivos de streaming con más ventas y calificaciones reales en MercadoLibre Argentina. Evaluamos lo que más importa al elegir uno: **qué apps podés instalar** (algunos son más cerrados que otros), la **resolución máxima**, y el precio real. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Los 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. TV Stick genérico — el más vendido` },
+      { type: "product-card", productMlaId: "MLA41918674", label: "El más vendido", labelColor: "green", ranking: 1, description: `Android 13, 4K, sin marca reconocida. #1 en Media Streaming de toda MercadoLibre Argentina, 9.070 calificaciones.` },
+      { type: "p", content: `Es el dispositivo de streaming más vendido de toda la categoría en MercadoLibre Argentina, y por lejos el más barato de esta guía: alrededor de {{precio:MLA41918674:k}}. Corre Android 13 con Google Cast integrado.` },
+      { type: "p", content: `Lo honesto: no tiene Bluetooth según su propia ficha, algo que varios compradores esperaban. Hay reseñas que reportan problemas puntuales para instalar Netflix o Disney+, aunque otras confirman que anda bien con YouTube e IPTV. La ficha declara 8 GB de RAM, una cifra que no pudimos confirmar de forma independiente y que resulta inusualmente alta para el precio.` },
+      { type: "pull-quote", content: `El fluido, descargue magis y anda perfecto. Recomiendo.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `2. Fire TV Stick 4K Select — 4K oficial de Amazon` },
+      { type: "product-card", productMlaId: "MLA62234964", label: "4K oficial Amazon", labelColor: "amber", ranking: 2, description: `4K, control con Alexa, marca oficial Amazon. 4.6 estrellas en 1.724 calificaciones.` },
+      { type: "p", content: `El modelo 4K oficial de Amazon, con control de voz Alexa integrado, a alrededor de {{precio:MLA62234964:k}}. Instalación simple, según confirman varias reseñas.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Solo apps de la tienda oficial de Amazon", content: `Varias reseñas independientes confirman el mismo problema: este modelo (Select) no permite instalar aplicaciones que no estén en la tienda oficial de Amazon. "No me permite bajar aplicaciones como Play Store, o bajar apps desconocidas, no es lo que esperaba, voy a devolverlo", dice una. Si usás apps regionales (como Flow) o de IPTV por fuera del catálogo de Amazon, este modelo te va a complicar; el [Fire TV Stick Lite](/producto/MLA19732185) de esta guía es más flexible en ese punto.` },
+      { type: "pull-quote", content: `El producto es bueno, fácil de instalar y convierte cualquier pantalla en smart tv. Por desgracia este modelo ya no permite descargar ninguna aplicación que no sea de amazon, por ese motivo no le doy 5 estrellas.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `3. Fire TV Stick Lite — el más calificado` },
+      { type: "product-card", productMlaId: "MLA19732185", label: "El más calificado", labelColor: "purple", ranking: 3, description: `Full HD, con Alexa, permite instalar apps por fuera de la tienda de Amazon. 4.8 estrellas en 34.028 calificaciones.` },
+      { type: "p", content: `El dispositivo con más respaldo de compradores reales de esta guía por lejos: 34.028 calificaciones, a alrededor de {{precio:MLA19732185:k}}. A diferencia del [Fire TV Stick 4K Select](/producto/MLA62234964) de esta guía, sí permite instalar apps por fuera del catálogo oficial de Amazon (usando una app adicional).` },
+      { type: "p", content: `Lo honesto: es Full HD, no 4K. El control no tiene botón de volumen, y una reseña marca que no trae la app de HBO nativa. Instalar apps extra requiere un paso adicional, no es tan directo como en un Android TV nativo.` },
+      { type: "pull-quote", content: `Yo estaba casado con el chromecast y fire stick es ampliamente superior. Pero es inferior al chromecast 4. El chromecast es inestable con aplicaciones como flow o iptv smarters, en cambio el amazon fire instalé flow y iptv smarters y andan perfecto.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `4. Google TV Streamer — el premium` },
+      { type: "product-card", productMlaId: "MLA47307231", label: "El premium", labelColor: "blue", ranking: 4, description: `El sucesor real del Chromecast: Google TV, 32 GB, 4 GB de RAM. 5.0 estrellas, pero solo 56 calificaciones en esta ficha.` },
+      { type: "p", content: `El sucesor oficial del Chromecast clásico: corre Google TV con Chromecast integrado, y es el dispositivo con más almacenamiento (32 GB) y RAM (4 GB) de esta guía, a alrededor de {{precio:MLA47307231:k}}.` },
+      { type: "p", content: `Lo honesto: Google no tiene distribución oficial en Argentina, así que es un producto de importación con precio variable según vendedor (vimos desde $240.000 hasta más de $280.000 en la misma publicación). Es también el más caro de esta guía por lejos, y la base de opiniones de esta ficha es la más chica (56, la mayoría de compradores de Brasil, no de Argentina).` },
+      { type: "pull-quote", content: `Excelente dispositivo, rápido, con buen espacio de almacenamiento y compatibilidad con varias aplicaciones.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: dispositivos de streaming`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Resolución`, `Apps por fuera del catálogo oficial`, `Ideal para`], rows: [
+        [`[TV Stick genérico](/producto/MLA41918674)`, `{{precio:MLA41918674}}`, `4K`, `Sí, Android abierto (con reportes puntuales en Netflix/Disney+)`, `El más barato y vendido`],
+        [`[Fire TV Stick 4K Select](/producto/MLA62234964)`, `{{precio:MLA62234964}}`, `4K`, `No, solo tienda de Amazon`, `4K oficial, apps grandes nada más`],
+        [`[Fire TV Stick Lite](/producto/MLA19732185)`, `{{precio:MLA19732185}}`, `Full HD`, `Sí, con un paso extra`, `Mejor respaldo de opiniones`],
+        [`[Google TV Streamer](/producto/MLA47307231)`, `{{precio:MLA47307231}}`, `4K`, `Sí (Google TV abierto)`, `Máxima potencia, presupuesto flexible`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu dispositivo de streaming`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Qué apps necesitás usar?` },
+      { type: "p", content: `Este es el punto que más contras genera en las reseñas reales. El [Fire TV Stick 4K Select](/producto/MLA62234964) de esta guía solo permite instalar apps de la tienda oficial de Amazon: si usás Flow, apps regionales o servicios de IPTV, te vas a topar con la limitación. El [Fire TV Stick Lite](/producto/MLA19732185), el [TV Stick genérico](/producto/MLA41918674) y el [Google TV Streamer](/producto/MLA47307231) son más abiertos (el Lite con un paso extra, los otros dos de forma más directa).` },
+      { type: "h3", title: `2. ¿Tu TV es 4K o Full HD?` },
+      { type: "p", content: `Si tu televisor es 4K y querés aprovechar esa resolución, priorizá el [TV Stick genérico](/producto/MLA41918674), el [Fire TV Stick 4K Select](/producto/MLA62234964) o el [Google TV Streamer](/producto/MLA47307231), los 3 de esta guía con esa resolución. El [Fire TV Stick Lite](/producto/MLA19732185) se queda en Full HD.` },
+      { type: "h3", title: `3. ¿Marca reconocida o precio bajo?` },
+      { type: "p", content: `El [TV Stick genérico](/producto/MLA41918674) de esta guía es el más barato por lejos, pero sin el respaldo de un fabricante reconocido. Amazon (Fire TV Stick, en sus 2 versiones) y Google (TV Streamer) suman marca conocida, con Amazon como el punto medio de precio y Google como la opción más cara.` },
+      { type: "h3", title: `4. Conectividad y accesorios` },
+      { type: "list", items: [
+        `Bluetooth para conectar auriculares o parlantes inalámbricos: confirmado en los 2 Fire TV Stick ([4K Select](/producto/MLA62234964) y [Lite](/producto/MLA19732185)) y el [Google TV Streamer](/producto/MLA47307231) de esta guía; el [TV Stick genérico](/producto/MLA41918674) declara que no tiene.`,
+        `Cable HDMI incluido: solo el [TV Stick genérico](/producto/MLA41918674) y el [Fire TV Stick Lite](/producto/MLA19732185) de esta guía lo traen; el [Fire TV Stick 4K Select](/producto/MLA62234964) y el [Google TV Streamer](/producto/MLA47307231) no.`,
+        `Control remoto de voz: todos menos el [TV Stick genérico](/producto/MLA41918674) (que trae control estándar).`,
+      ]},
+
+      { type: "h2", title: `Cuánto cuesta un dispositivo de streaming en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA41918674:k}}:** el más barato y vendido, el [TV Stick genérico](/producto/MLA41918674), sin marca reconocida y sin Bluetooth.`,
+        `**Alrededor de {{precio:MLA62234964:k}}:** el [Fire TV Stick 4K Select](/producto/MLA62234964), 4K oficial de Amazon, cerrado a su propia tienda de apps.`,
+        `**Alrededor de {{precio:MLA19732185:k}}:** el [Fire TV Stick Lite](/producto/MLA19732185), el más calificado, Full HD.`,
+        `**Alrededor de {{precio:MLA47307231:k}}:** el [Google TV Streamer](/producto/MLA47307231), el más caro y potente, sin distribución oficial en el país.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál dispositivo de streaming comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, el **[TV Stick genérico](/producto/MLA41918674)**: es el dispositivo de streaming más vendido de toda la categoría en MercadoLibre Argentina y el más barato de esta guía, aunque sin marca reconocida y sin Bluetooth según su ficha. Si preferís el respaldo de una marca con miles de opiniones reales, el **[Fire TV Stick Lite](/producto/MLA19732185)**, aunque se queda en Full HD. Para 4K con la marca oficial de Amazon, el **[Fire TV Stick 4K Select](/producto/MLA62234964)**, siempre que te alcance con las apps de su propia tienda. Y si el precio no es un problema y priorizás la mayor potencia técnica, el **[Google TV Streamer](/producto/MLA47307231)**, aunque es un producto de importación sin distribución oficial en Argentina, con precio variable y la base de opiniones más chica de esta guía.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor dispositivo de streaming para TV en Argentina?`, answer: `El más vendido de toda la categoría es el [TV Stick genérico](/producto/MLA41918674). Si priorizás el respaldo de una marca con más opiniones reales, el [Fire TV Stick Lite](/producto/MLA19732185); para 4K oficial, el [Fire TV Stick 4K Select](/producto/MLA62234964); para la mayor potencia sin importar el precio, el [Google TV Streamer](/producto/MLA47307231).` },
+      { question: `¿"Chromecast" y "Google TV Streamer" son lo mismo?`, answer: `El Google TV Streamer es el sucesor oficial del Chromecast clásico. En Argentina, "chromecast" se usa de forma genérica para cualquier dispositivo de streaming, no solo el producto real de Google.` },
+      { question: `¿Hay Chromecast o Google TV Streamer oficial en Argentina?`, answer: `No, Google no tiene distribución oficial en el país. El [Google TV Streamer](/producto/MLA47307231) que se consigue en MercadoLibre es un producto de importación, con precio y disponibilidad que varían fuerte según el vendedor.` },
+      { question: `¿Puedo instalar cualquier app en cualquiera de estos dispositivos?`, answer: `No. El [Fire TV Stick 4K Select](/producto/MLA62234964) de esta guía solo permite apps de la tienda oficial de Amazon, confirmado por varias reseñas reales. El [Fire TV Stick Lite](/producto/MLA19732185), el [TV Stick genérico](/producto/MLA41918674) y el [Google TV Streamer](/producto/MLA47307231) son más abiertos.` },
+      { question: `¿Necesito que mi TV sea 4K para aprovechar estos dispositivos?`, answer: `No es obligatorio, pero si tu TV es 4K y comprás un dispositivo Full HD como el [Fire TV Stick Lite](/producto/MLA19732185) de esta guía, no vas a aprovechar toda la resolución de la pantalla. Para eso, priorizá alguno de los otros 3, que sí llegan a 4K.` },
+      { question: `¿Estos dispositivos sirven para un TV viejo sin Smart TV?`, answer: `Sí, es justamente su función: se conectan al puerto HDMI de cualquier televisor (aunque sea viejo, "de tubo" incluso según una reseña real) y lo convierten en Smart TV, con acceso a Netflix, YouTube y el resto de las apps de streaming.` },
+      { question: `¿Cuál conviene si uso Flow o servicios de IPTV?`, answer: `Evitá el [Fire TV Stick 4K Select](/producto/MLA62234964) de esta guía, que según varias reseñas no permite instalar esas apps. El [Fire TV Stick Lite](/producto/MLA19732185) (con un paso extra), el [TV Stick genérico](/producto/MLA41918674) o el [Google TV Streamer](/producto/MLA47307231) son más flexibles en ese punto.` },
+      { question: `¿Tienen Bluetooth para conectar auriculares o parlantes?`, answer: `Los 2 Fire TV Stick ([4K Select](/producto/MLA62234964) y [Lite](/producto/MLA19732185)) y el [Google TV Streamer](/producto/MLA47307231) de esta guía sí. El [TV Stick genérico](/producto/MLA41918674) declara en su ficha que no tiene Bluetooth.` },
+      { question: `¿Vale la pena pagar tanto más por el Google TV Streamer?`, answer: `Depende de qué priorices. Suma más almacenamiento y RAM que el resto, pero cuesta entre 3 y 9 veces más que las otras opciones de esta guía y es un producto de importación sin distribución oficial ni el respaldo de opiniones reales de compradores argentinos que sí tienen los Fire TV Stick.` },
+    ],
+    internalLinks: [
+      { label: "Proyector portátil: cuál comprar en Argentina", href: "/guias/tech/proyector-portatil" },
+      { label: "Parlantes bluetooth: cuál comprar", href: "/guias/audio/parlantes" },
+      { label: "Auriculares inalámbricos para ver pelis de noche", href: "/guias/audio/auriculares-inalambricos" },
+    ],
+    internalLinksTitle: "Más para tu living",
   },
 
 ];

@@ -328,8 +328,12 @@ Guías creadas de cero durante la sesión de research masivo 2026-07-16 (keyword
 | :-- | :-- | :-- | :-- |
 | humidificador | climatizacion | 2026-07-16 | Codex + Gemini GO (6 rondas, hallazgo de seguridad Silfab vapor caliente) |
 | yogurtera | cocina | 2026-07-16 | Codex GO (2 rondas: enlazado interno, rango de capacidad, precio Daewoo) + Gemini GO (1 ronda) |
+| termo | bebidas-termicas | 2026-07-16 | Codex GO (2 rondas: enlazado interno, contradicción lavavajillas) + Gemini GO (1 ronda) |
+| chromecast | tech | 2026-07-16 | Codex GO (4 rondas: error factual "3 Fire TV Stick", contradicción 8GB en FAQ 4K Select, enlazado interno en `list`/`faq.answer`) + Gemini GO (1 ronda) |
 
-Próxima medición sugerida para ambas: ~2026-08-13 (4 semanas), cuando haya densidad de datos en GSC.
+Próxima medición sugerida para las 4: ~2026-08-13 (4 semanas), cuando haya densidad de datos en GSC.
+
+**Nota técnica (2026-07-16):** durante la guía de termo se detectó y arregló un bug real que afectaba también a la guía de yogurtera ya publicada: las imágenes de producto hosteadas en `mitiendanube.com` (páginas oficiales de fabricante, usadas para Ultracomb en yogurtera y Waterdog en termo) no estaban en el allowlist de `next.config.ts`, lo que causaba un crash de página completa (no solo imagen rota). Se agregó `*.mitiendanube.com` a `remotePatterns` con confirmación explícita de Juan (regla de "avisar antes de tocar next.config.ts"). Verificado en navegador que ambas fichas cargan bien después del fix.
 
 ## Mediciones posteriores
 

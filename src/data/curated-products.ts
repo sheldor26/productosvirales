@@ -54708,6 +54708,845 @@ Comprá la Ultracomb YG-2712V si priorizás la mayor cantidad de frascos y una p
       },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR termo — silo bebidas-termicas, categoria "termos"
+  // Origen: research masivo 2026-07-16, keyword "termo" (mate)
+  // 27.100/mes AR (Ubersuggest locId 2032), SD19, del backlog
+  // original reconfirmado. Sourcing: MercadoLibre Argentina +
+  // páginas oficiales de fabricante (Lüsqtoff, Waterdog) vía
+  // Bright Data, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA19761025",
+    title: "Termo Stanley Original Mate System Classic 1.2 Litros",
+    canonicalName: "Termo Stanley Mate System Classic 1,2L",
+    price: 182000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_759453-MLA113708152261_062026-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19761025",
+    affiliateUrl: "https://meli.la/1JtPJue",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 6297,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Stanley" },
+      { label: "Línea", value: "Classic" },
+      { label: "Modelo", value: "Mate System" },
+      { label: "Capacidad", value: "1,2 litros" },
+      { label: "Material interior y exterior", value: "Acero inoxidable 18/8" },
+      { label: "Dimensiones", value: "Ancho 10,2 cm, alto 32,8 cm" },
+      { label: "Peso", value: "912 g" },
+      { label: "Sistema de apertura", value: "A rosca, con tapón cebador integrado de alta precisión" },
+      { label: "Con manija", value: "Sí" },
+      { label: "Con tapa", value: "Sí (doble pared, sirve como mate o vaso)" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Con vacío interno", value: "Sí" },
+      { label: "Con sistema antigoteo", value: "No" },
+      { label: "Con pico multidireccional", value: "No (tapón cebador integrado en su lugar)" },
+      { label: "Conservación", value: "Discrepancia entre fuentes de MercadoLibre: la ficha técnica estructurada declara 1,5 días frío/caliente; la descripción del vendedor declara 30 h frío, 30 h caliente y hielo por 4 días" },
+      { label: "Garantía", value: "De por vida, declarada por el vendedor" },
+    ],
+    relatedProducts: ["MLA15297106", "MLA19589790", "MLA19856080"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Termo Stanley Original Mate System Classic 1,2 litros: el más vendido y calificado de Argentina en esta categoría, con 4.8 estrellas en 6.297 calificaciones. Tapón cebador integrado y garantía de por vida.",
+    seoTitle: "Termo Stanley Mate System: el más elegido, ¿vale el precio?",
+    metaDescription: "Termo Stanley Original Mate System Classic 1,2L: tapón cebador integrado, garantía de por vida. Precio real y opiniones verificadas.",
+    verdict: "Sirve si el precio no es lo que más te importa y priorizás la marca con más respaldo de compradores reales del país (6.297 calificaciones) y el tapón cebador integrado pensado específicamente para mate. Cuesta más de 3 veces que las alternativas argentinas de esta guía, y varias reseñas coinciden en que hay que recalentar el agua antes de cebar si no lo usás enseguida: no es magia, es un termo más. Si buscás lo mismo por mucho menos, el Lumilagro o el Lüsqtoff de esta guía cumplen función similar a una fracción del precio.",
+    pros: [
+      "El termo más vendido y calificado de Argentina en esta categoría: 4.8 estrellas en 6.297 calificaciones, #1 en Termos",
+      "Tapón cebador integrado de alta precisión, pensado específicamente para cebar mate sin descebar",
+      "Tapa de doble pared que funciona como mate o vaso",
+      "Garantía de por vida declarada por el vendedor",
+      "Vendido por tienda oficial Stanley Argentina, MercadoLíder Platinum",
+    ],
+    cons: [
+      "El más caro de esta guía por lejos: cuesta más de 3 veces que las alternativas argentinas",
+      "Reseñas reales indican que para mate hay que recalentar el agua antes de meterla, si no al cuarto mate ya está tibia",
+      "Discrepancia entre fuentes propias de MercadoLibre sobre la conservación: la ficha técnica estructurada dice 1,5 días, la descripción del vendedor dice 30 horas",
+      "Sin sistema antigoteo ni pico multidireccional, a diferencia de las alternativas más baratas de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Stanley Original Mate System Classic 1,2 litros es el termo más reconocido de Argentina para cebar mate: acero inoxidable 18/8, con un tapón cebador integrado de alta precisión pensado específicamente para esa función, y una tapa de doble pared que funciona como mate o vaso. Es la marca con más respaldo de compradores reales de esta guía: 6.297 calificaciones y el puesto #1 en la categoría Termos de MercadoLibre.
+
+## Cómo funciona
+
+El tapón cebador de alta precisión, con gatillo, no requiere ajuste y regula el flujo de agua directo al punto justo del mate. La tapa de acero de doble pared se puede usar como mate o vaso aparte. Es apto lavavajillas y viene en su caja original.
+
+## La contra real
+
+Hay una discrepancia entre las propias fuentes de MercadoLibre: la ficha técnica estructurada declara que conserva la bebida fría o caliente 1,5 días, pero la descripción del vendedor dice 30 horas frío, 30 horas caliente y hielo por 4 días. Más allá del número exacto, varias reseñas reales matizan la promesa: una explica que para mate hay que calentar el agua, meterla en el termo y esperar unos minutos, y que si no lo usás enseguida, al cuarto mate el agua ya está tibia tirando a fría. No es que no aísle bien: es que la temperatura ideal para cebar (no hirviendo) se pierde más rápido que la temperatura simplemente "caliente".
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Lumilagro Luminox](/producto/MLA15297106) y el [Lüsqtoff TL1-9](/producto/MLA19589790) (ambos con miles de reseñas que lo comparan directamente y salen bien parados por una fracción del precio), el Stanley es 3 a 4 veces más caro. Frente al [Waterdog Ombu](/producto/MLA19856080) (el más económico), la diferencia de precio es todavía mayor. Lo que el Stanley suma es el tapón cebador integrado de fábrica pensado específicamente para mate, y el respaldo de marca más grande de esta guía.
+
+## Para quién sí y para quién no
+
+Comprá el Stanley si el precio no es tu prioridad y valorás el tapón cebador integrado y el respaldo de la marca más elegida del país. No es la mejor opción si buscás la mejor relación precio-rendimiento: ahí el [Lumilagro](/producto/MLA15297106) o el [Lüsqtoff](/producto/MLA19589790) de esta guía cumplen una función muy similar, confirmada por miles de compradores reales, a una fracción del costo.`,
+    faq: [
+      {
+        question: "¿Por qué el Stanley es tan caro comparado con otros termos?",
+        answer: "Marca internacional, tapón cebador integrado específico para mate y garantía de por vida declarada. El precio no está justificado solo por el material: otros termos de esta guía también usan acero inoxidable de buena calidad, según sus reseñas.",
+      },
+      {
+        question: "¿Cuánto tiempo mantiene el agua caliente?",
+        answer: "Depende de la fuente: la ficha técnica de MercadoLibre dice 1,5 días, la descripción del vendedor dice 30 horas. En la práctica, varias reseñas indican que conviene recalentar el agua antes de cebar si pasó tiempo, porque la temperatura ideal para mate baja antes que eso.",
+      },
+      {
+        question: "¿Sirve la tapa como mate?",
+        answer: "Sí, es de doble pared y está pensada para usarse como mate o vaso.",
+      },
+      {
+        question: "¿Es apto lavavajillas?",
+        answer: "Sí, según la descripción del vendedor.",
+      },
+      {
+        question: "¿Tiene garantía?",
+        answer: "El vendedor declara garantía de por vida.",
+      },
+    ],
+  },
+  {
+    id: "MLA15297106",
+    title: "Termo Lumilagro de acero inoxidable Luminox 1 litro pico matero Bala",
+    canonicalName: "Termo Lumilagro Luminox 1L",
+    price: 48500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_722833-MLA99475133414_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_722833-MLA99475133414_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_978187-MLU74111699962_012024-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA15297106",
+    affiliateUrl: "https://meli.la/29T5dXh",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 26780,
+    soldQuantity: 100000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lumilagro" },
+      { label: "Línea", value: "Acero" },
+      { label: "Modelo", value: "Luminox" },
+      { label: "Capacidad", value: "1 litro" },
+      { label: "Material interior y exterior", value: "Acero inoxidable" },
+      { label: "Dimensiones", value: "Ancho 9 cm, alto 34 cm" },
+      { label: "Peso", value: "650 g" },
+      { label: "Sistema de apertura", value: "Con pico cebador" },
+      { label: "Con manija", value: "No" },
+      { label: "Con tapa", value: "Sí (no apta como taza)" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Con vacío interno", value: "Sí" },
+      { label: "Con sistema antigoteo", value: "Sí" },
+      { label: "Con pico multidireccional", value: "Sí" },
+      { label: "Conservación", value: "Fría hasta 9 horas, caliente hasta 12 horas" },
+    ],
+    relatedProducts: ["MLA19761025", "MLA19589790", "MLA19856080"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Termo Lumilagro Luminox 1 litro: el más calificado de Argentina en esta categoría, con 4.7 estrellas en 26.780 calificaciones. Pico cebador multidireccional, marca argentina con 80 años en el mercado.",
+    seoTitle: "Termo Lumilagro Luminox: el más calificado, ¿vale la pena?",
+    metaDescription: "Termo Lumilagro Luminox 1L: 26.780 calificaciones, pico cebador multidireccional. Precio real y opiniones verificadas.",
+    verdict: "Sirve si buscás la opción con más respaldo de compradores reales de esta guía (26.780 calificaciones) a un precio bien por debajo del Stanley: varias reseñas lo comparan directo contra la marca premium y salen conformes. No tiene manija, así que hay que sostenerlo del cuerpo, y la pintura se raya con el uso según más de una reseña. Para cebar mate cómodo, calculá 6-8 horas de agua a buena temperatura, no los 'días' que promete el marketing de la categoría en general.",
+    pros: [
+      "El más calificado de esta guía por lejos: 4.7 estrellas en 26.780 calificaciones, #3 en Termos",
+      "Reseñas reales lo comparan directamente contra el Stanley y salen conformes, a una fracción del precio",
+      "Pico cebador multidireccional con sistema antigoteo",
+      "Marca argentina con 80 años en el mercado",
+    ],
+    cons: [
+      "Sin manija, a diferencia del Stanley y el Waterdog de esta guía",
+      "La pintura se raya con el uso, según más de una reseña",
+      "La duración real de la temperatura para tomar mate cómodo ronda las 6-8 horas, no las 24 horas que algunos compradores esperan de entrada",
+      "Antes del primer uso conviene dejar salir el agua sobrante en el fregadero, no directo sobre la mano, según una reseña",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Lumilagro Luminox 1 litro (modelo "Bala") es un termo de acero inoxidable con pico cebador multidireccional, de una marca argentina con 80 años en el mercado. Es el termo con más respaldo de compradores reales de esta guía: 26.780 calificaciones y el puesto #3 en la categoría Termos de MercadoLibre.
+
+## Cómo funciona
+
+El pico cebador multidireccional con sistema antigoteo permite cebar sin descebar el mate, regulando el chorro de agua. No tiene manija: se sostiene del cuerpo del termo, que mide 34 cm de alto y pesa 650 g. Conserva el agua fría hasta 9 horas y caliente hasta 12 horas, según la ficha técnica.
+
+## La contra real
+
+Varias reseñas coinciden en dos puntos: la pintura del exterior se raya con el uso normal, y la duración real de la temperatura ideal para cebar mate ronda las 6-8 horas, no las 24 horas o más que algunos compradores esperan de la categoría en general (el termo sigue "tibio" bastante más tiempo, pero para un mate rico conviene recalentar después de ese lapso). Una reseña también recomienda, antes del primer uso, dejar salir el agua sobrante del pico sobre el fregadero y no directo sobre la mano, porque puede salpicar.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Stanley](/producto/MLA19761025) (3 a 4 veces más caro), varias de las reseñas más útiles de este Lumilagro lo comparan directo y salen conformes: "Stanley, go home", dice una con 625 votos útiles. Frente al [Lüsqtoff TL1-9](/producto/MLA19589790) (con manija y antideslizante, algo más caro), el Lumilagro es más liviano pero sin manija. Frente al [Waterdog Ombu](/producto/MLA19856080) (el más económico), el Lumilagro tiene una base de opiniones muchísimo más grande.
+
+## Para quién sí y para quién no
+
+Comprá el Lumilagro Luminox si buscás el termo con más respaldo de compradores reales de esta guía a un precio intermedio, y no te molesta que no tenga manija. No es la mejor opción si preferís sostenerlo por una manija o te importa que la pintura no se raye con el tiempo: ahí el [Stanley](/producto/MLA19761025) o el [Waterdog](/producto/MLA19856080) de esta guía (ambos con manija) rinden mejor en ese punto puntual.`,
+    faq: [
+      {
+        question: "¿Cuánto dura el agua caliente para el mate?",
+        answer: "La ficha declara 12 horas, pero varias reseñas coinciden en que la temperatura ideal para cebar mate cómodo ronda las 6-8 horas; después sigue tibio pero conviene recalentar.",
+      },
+      {
+        question: "¿Tiene manija?",
+        answer: "No, se sostiene del cuerpo del termo.",
+      },
+      {
+        question: "¿Se raya la pintura?",
+        answer: "Sí, según más de una reseña, con el uso normal.",
+      },
+      {
+        question: "¿Cómo se compara con el Stanley?",
+        answer: "Varias de las reseñas más útiles de este termo lo comparan directo contra el [Stanley](/producto/MLA19761025) y salen conformes, destacando que cumple una función similar a una fracción del precio.",
+      },
+      {
+        question: "¿Hay que hacer algo especial antes del primer uso?",
+        answer: "Una reseña recomienda dejar salir el agua sobrante del pico sobre el fregadero (no sobre la mano) las primeras veces, porque puede salpicar un poco de aire junto con el agua.",
+      },
+    ],
+  },
+  {
+    id: "MLA19589790",
+    title: "Termo Acero Inoxidable Lusqtoff TL1-9 Clásico De 1 Litro Frio/calor",
+    canonicalName: "Termo Lüsqtoff TL1-9 1L",
+    price: 52030,
+    originalPrice: 69374,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_939184-MLA108433443685_032026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_939184-MLA108433443685_032026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_678847-MLA107694690820_032026-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19589790",
+    affiliateUrl: "https://meli.la/1wABQih",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3364,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lüsqtoff" },
+      { label: "Modelo", value: "TL1-9 (la ficha de MercadoLibre lo etiqueta como 'TL1-9N', el código de la variante negra que el fabricante marca como discontinuada; parece un error de carga de atributos de ML, no un dato del producto en sí)" },
+      { label: "Color", value: "Verde" },
+      { label: "Capacidad", value: "1 litro" },
+      { label: "Material interior y exterior", value: "Acero inoxidable" },
+      { label: "Dimensiones", value: "Ancho 9,3 cm, alto 30 cm" },
+      { label: "Peso", value: "588 g" },
+      { label: "Sistema de apertura", value: "A rosca" },
+      { label: "Con manija", value: "Sí" },
+      { label: "Con tapa", value: "Sí (apta como taza)" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Con vacío interno", value: "No" },
+      { label: "Con sistema antigoteo", value: "Sí" },
+      { label: "Con superficie antideslizante", value: "Sí" },
+      { label: "Con pico multidireccional", value: "Sí" },
+      { label: "Conservación", value: "Fría hasta 20 horas, caliente hasta 20 horas" },
+    ],
+    relatedProducts: ["MLA19761025", "MLA15297106", "MLA19856080"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Termo Lüsqtoff TL1-9 1 litro: el más equipado en funciones de esta guía (antigoteo, antideslizante, pico multidireccional). 4.7 estrellas en 3.364 calificaciones.",
+    seoTitle: "Termo Lüsqtoff TL1-9: el más completo en funciones",
+    metaDescription: "Termo Lüsqtoff TL1-9 1L: antigoteo, antideslizante, pico multidireccional. Precio real y opiniones verificadas.",
+    verdict: "Sirve si buscás el termo con más funciones juntas de esta guía (antigoteo, antideslizante, pico multidireccional, manija) a un precio intermedio: 3.364 calificaciones lo respaldan, con pruebas caseras de temperatura que confirman buen rendimiento. Un aviso: la ficha de MercadoLibre etiqueta el modelo como 'TL1-9N', que es el código de una variante negra discontinuada por el fabricante, pero el termo que estás comprando (verde, TL1-9) sigue activo y con miles de ventas, así que probablemente sea solo un error de carga de datos de ML. Fijate en el precio final, no en el 25% de descuento del cartel.",
+    pros: [
+      "El más equipado de esta guía en funciones: manija, antigoteo, superficie antideslizante y pico multidireccional, todo junto",
+      "4.7 estrellas en 3.364 calificaciones, #1 en Termos Lüsqtoff",
+      "Reseñas reales con pruebas caseras de temperatura que confirman buen rendimiento (94° a las 9:20, 75° ocho horas después)",
+      "Reseñas lo comparan favorablemente contra el Stanley",
+    ],
+    cons: [
+      "El precio de lista tiene un descuento inflado (25% off desde $69.374): mirá el precio final, no el cartel",
+      "La ficha técnica de MercadoLibre etiqueta el 'Modelo' como TL1-9N, el código de una variante negra que el fabricante marca como discontinuada en su sitio oficial",
+      "Una reseña marca que la tapa es 'media dura' de abrir, aunque aclara que no afecta el funcionamiento",
+      "Ficha técnica dice 'Con vacío interno: No', a diferencia de los otros 3 termos de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Lüsqtoff TL1-9 (Verde) es un termo de acero inoxidable de 1 litro con pico multidireccional, sistema antigoteo y base antideslizante: el más completo en funciones de esta guía. Es el termo Lüsqtoff con más respaldo de compradores reales del país: 3.364 calificaciones y el puesto #1 entre los termos de la marca.
+
+## Cómo funciona
+
+El pico multidireccional con sistema antigoteo permite cebar sin pérdidas, y la base antideslizante suma estabilidad. Varias reseñas incluyen pruebas caseras de temperatura: una midió el agua a 94° a las 9:20 de la mañana y a 75° ocho horas después, y otra confirmó que a la mañana siguiente (más de 8 horas después) seguía "igual de caliente" para cebar.
+
+## La contra real
+
+Hay un detalle a aclarar: la ficha técnica de MercadoLibre etiqueta el atributo "Modelo" de esta variante Verde como "TL1-9N", que es el código exacto de la variante Negra que el fabricante marca como discontinuada en su sitio oficial (lusqtoff.com.ar). Esto genera confusión, pero todo indica que es un error de carga de atributos de MercadoLibre (que a veces comparte una misma ficha técnica entre variantes de color de un mismo modelo base), no que el producto esté discontinuado: la publicación está activa, con más de 10.000 vendidos y 3.364 calificaciones recientes. Aparte de esto, el cartel de descuento (25% off desde $69.374) es otro precio de lista inflado típico de la categoría: lo que importa es el precio final. Una reseña también marca que la tapa es "media dura" de abrir, aunque aclara que es un detalle menor que no afecta el rendimiento.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Lumilagro](/producto/MLA15297106) (sin manija), el Lüsqtoff suma manija, antideslizante y antigoteo, aunque con menos calificaciones totales. Frente al [Stanley](/producto/MLA19761025), varias reseñas lo comparan directo y lo prefieren por precio: "no hay por qué elegir una marca más cara", dice una. Frente al [Waterdog Ombu](/producto/MLA19856080), el Lüsqtoff declara más horas de conservación (20 h contra 8-12 h).
+
+## Para quién sí y para quién no
+
+Comprá el Lüsqtoff TL1-9 si buscás el termo con más funciones juntas de esta guía a un precio intermedio, y no te preocupa aclarar la confusión del modelo con MercadoLibre antes de comprar. No es la mejor opción si preferís la marca con más respaldo total de calificaciones: ahí el [Lumilagro](/producto/MLA15297106) de esta guía tiene una base de opiniones bastante más grande.`,
+    faq: [
+      {
+        question: "¿Este termo está discontinuado?",
+        answer: "No debería: la publicación está activa con más de 10.000 vendidos y 3.364 calificaciones recientes. La confusión viene de que la ficha técnica de MercadoLibre etiqueta el 'Modelo' de esta variante Verde como 'TL1-9N', que es el código de una variante Negra que el fabricante sí marca como discontinuada en su sitio oficial. Parece un error de carga de atributos de ML, no un dato real del producto que estás comprando.",
+      },
+      {
+        question: "¿Cuánto dura el agua caliente?",
+        answer: "La ficha declara 20 horas. Varias reseñas con pruebas caseras confirman buen rendimiento: agua a 94° a la mañana se mantenía a 75° ocho horas después en una de ellas.",
+      },
+      {
+        question: "¿Tiene sistema antigoteo?",
+        answer: "Sí, junto con pico multidireccional y base antideslizante: es el termo más equipado en funciones de esta guía.",
+      },
+      {
+        question: "¿Por qué el descuento es del 25%?",
+        answer: "Es un precio de lista inflado típico de la categoría ($69.374 tachado); lo que importa es comparar el precio final contra el resto de la guía.",
+      },
+      {
+        question: "¿Es difícil de abrir?",
+        answer: "Una reseña marca que la tapa es 'media dura', aunque aclara que no afecta el funcionamiento del termo.",
+      },
+    ],
+  },
+  {
+    id: "MLA19856080",
+    title: "Termo Waterdog Ombu Doble Pared De Acero Inoxidable 1 Litro Negro",
+    canonicalName: "Termo Waterdog Ombu 1L",
+    price: 46190,
+    currency: "ARS",
+    image: "https://acdn-us.mitiendanube.com/stores/006/287/055/products/termo_acero_inoxidable_waterdog_ombu1000bk-6efee311afdb90467217606223819130-1024-1024.webp",
+    images: [
+      "https://acdn-us.mitiendanube.com/stores/006/287/055/products/termo_acero_inoxidable_waterdog_ombu1000bk-6efee311afdb90467217606223819130-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/006/287/055/products/termo_acero_inoxidable_waterdog_ombu1000bk_1-efa802b82d1460c8a517606223840416-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/006/287/055/products/termo_acero_inoxidable_waterdog_ombu1000bk_2-8b7ad4d3c2eec87fcb17606223855704-1024-1024.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19856080",
+    affiliateUrl: "https://meli.la/1XMp2Ui",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 58,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Waterdog" },
+      { label: "Modelo", value: "Ombu" },
+      { label: "Capacidad", value: "1000 mL (confirmado por la página oficial del fabricante)" },
+      { label: "Material", value: "Acero inoxidable AISI 304 (confirmado oficial)" },
+      { label: "Dimensiones", value: "Altura 33 cm, diámetro 9 cm" },
+      { label: "Peso", value: "660 g (oficial) / 663 g (ficha de MercadoLibre)" },
+      { label: "Con manija", value: "Sí" },
+      { label: "Con tapa", value: "Sí (apta como taza)" },
+      { label: "Es libre de BPA", value: "Sí" },
+      { label: "Con vacío interno", value: "Sí" },
+      { label: "Con sistema antigoteo", value: "Sí" },
+      { label: "Con pico multidireccional", value: "Sí" },
+      { label: "Con pared doble de aislamiento", value: "Sí" },
+      { label: "Conservación", value: "Caliente hasta 8 horas, fría hasta 12 horas (confirmado por la página oficial)" },
+      { label: "Aprobación INAL", value: "Sí" },
+    ],
+    relatedProducts: ["MLA19761025", "MLA15297106", "MLA19589790"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Termo Waterdog Ombu 1 litro: el más económico de esta guía, con manija y aprobado por INAL. Datos técnicos confirmados en la página oficial del fabricante.",
+    seoTitle: "Termo Waterdog Ombu: el más barato, ¿rinde igual?",
+    metaDescription: "Termo Waterdog Ombu 1L: el más económico, con manija y aprobado por INAL. Precio real y opiniones verificadas.",
+    verdict: "Sirve si el precio es lo que más te importa: es el más barato de esta guía, con manija y aprobado por INAL. Conserva menos horas que las otras 3 opciones (8h caliente/12h fría, contra 12-20h del resto), y tiene la base de opiniones más chica (58 calificaciones). Una reseña real avisa: no lo sostengas de la manija mientras ajustás el tapón, porque la soldadura puede despegarse con ese uso puntual. Para uso ocasional o de entrada, cumple bien; para uso diario intensivo de mate, el Lumilagro o el Lüsqtoff de esta guía rinden más horas.",
+    pros: [
+      "El más económico de esta guía",
+      "Manija incluida, a diferencia del Lumilagro",
+      "Aprobado por INAL, con datos técnicos confirmados en la página oficial del fabricante",
+      "Reseñas destacan el pico 360° como cómodo para dosificar",
+    ],
+    cons: [
+      "Solo 58 calificaciones en la publicación de MercadoLibre, la base más chica de esta guía",
+      "Conserva menos horas que el resto (8h caliente / 12h fría, contra 12-20h de las otras 3)",
+      "Una reseña real reporta que la soldadura de la manija se despegó al sostenerlo de ahí mientras ajustaba el tapón, aunque la propia reseña lo atribuye a mal uso",
+      "No tiene el respaldo de opiniones masivo de Lumilagro o Lüsqtoff",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Waterdog Ombu 1 litro es un termo de acero inoxidable AISI 304 con manija, el más económico de esta guía. Sus datos técnicos están confirmados tanto en MercadoLibre como en la página oficial del fabricante (waterdog.com.ar), algo que no siempre pasa con otras marcas de esta categoría.
+
+## Cómo funciona
+
+El pico multidireccional con sistema antigoteo permite dosificar el agua, y la manija facilita el transporte, algo que el [Lumilagro](/producto/MLA15297106) de esta guía no tiene. La página oficial confirma que mantiene las bebidas calientes hasta 8 horas y frías hasta 12 horas, con doble pared aislante de acero inoxidable AISI 304 aprobado por INAL.
+
+## La contra real
+
+Es el termo con menos horas de conservación declaradas de esta guía (8 horas caliente, contra 12-20 horas del resto) y el que tiene menos calificaciones en su publicación de MercadoLibre (58, la base más chica). Una reseña real aporta un dato de cuidado concreto: la soldadura de la manija se le despegó al sostener el termo de ahí mientras ajustaba el tapón, aunque la misma reseña aclara que fue "un mal uso nuestro" y que igual lo recomienda. La recomendación práctica: sostené el cuerpo del termo, no la manija, al abrir o cerrar el tapón con fuerza.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Lumilagro](/producto/MLA15297106) (sin manija, pero con 26.780 calificaciones), el Waterdog suma manija a cambio de mucho menos respaldo de opiniones. Frente al [Lüsqtoff TL1-9](/producto/MLA19589790) (20 horas de conservación declaradas), el Waterdog conserva menos tiempo. Frente al [Stanley](/producto/MLA19761025), es varias veces más barato pero sin el tapón cebador integrado específico para mate.
+
+## Para quién sí y para quién no
+
+Comprá el Waterdog Ombu si el precio es tu prioridad número uno y buscás un termo simple con manija para uso ocasional. No es la mejor opción si tomás mate todo el día y necesitás que el agua aguante caliente muchas horas seguidas: ahí el [Lüsqtoff](/producto/MLA19589790) o el [Lumilagro](/producto/MLA15297106) de esta guía, con más horas declaradas y mucho más respaldo de opiniones, rinden mejor.`,
+    faq: [
+      {
+        question: "¿Cuánto dura el agua caliente?",
+        answer: "Según la página oficial del fabricante, hasta 8 horas caliente y 12 horas fría, menos que el resto de esta guía.",
+      },
+      {
+        question: "¿Tiene manija?",
+        answer: "Sí, a diferencia del [Lumilagro](/producto/MLA15297106) de esta guía.",
+      },
+      {
+        question: "¿Es seguro para alimentos?",
+        answer: "Sí, aprobado por INAL (Instituto Nacional de Alimentos), según la página oficial del fabricante.",
+      },
+      {
+        question: "¿Por qué tiene menos calificaciones que los otros termos de esta guía?",
+        answer: "Es el termo con menos reseñas en su publicación de MercadoLibre (58), aunque los datos técnicos están confirmados de forma independiente en la página oficial de Waterdog.",
+      },
+      {
+        question: "¿Hay algún cuidado especial al usarlo?",
+        answer: "Una reseña real recomienda no sostenerlo de la manija al ajustar el tapón con fuerza, porque la soldadura puede despegarse con ese uso puntual.",
+      },
+    ],
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR chromecast — silo tech, categoria "streaming-tv"
+  // Origen: research masivo 2026-07-16 (Amazon Best Sellers vía Chrome
+  // real), keyword "chromecast / streaming para tv" 74.000/mes AR
+  // (Ubersuggest locId 2032), SD25, volumen más alto de todo el research.
+  // Sourcing: MercadoLibre Argentina vía Bright Data, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA41918674",
+    title: "Tv Stick Wi-fi Smart Tv Android Hdmi Tv Box Fire Convertidor Color Negro",
+    canonicalName: "TV Stick Android genérico 4K",
+    price: 27540,
+    originalPrice: 28989,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_810140-MLA99989898035_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_810140-MLA99989898035_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_970980-MLA99989683931_112025-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA41918674",
+    affiliateUrl: "https://meli.la/2AD39E3",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.2,
+    reviewCount: 9070,
+    soldQuantity: 50000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "TV Stick (marca genérica, sin fabricante reconocido)" },
+      { label: "Modelo", value: "TV Stick, 3ª generación" },
+      { label: "Resolución máxima", value: "4K" },
+      { label: "Almacenamiento", value: "16 GB" },
+      { label: "Memoria RAM", value: "8 GB, según la ficha (cifra inusualmente alta para un TV stick de este precio; no pudimos verificarla de forma independiente)" },
+      { label: "Sistema operativo", value: "Android 13" },
+      { label: "Con Bluetooth", value: "No, según la ficha técnica" },
+      { label: "Con Wi-Fi", value: "Sí (2.4 GHz y 5 GHz)" },
+      { label: "Control remoto", value: "Estándar (no de voz)" },
+      { label: "Tecnología de streaming", value: "Google Cast" },
+      { label: "Asistente de voz", value: "Google Assistant" },
+      { label: "Apps compatibles", value: "Netflix, YouTube, Vudu, Spotify, Hulu, HBO Go, Amazon Prime Video" },
+      { label: "Incluye cable HDMI", value: "Sí" },
+      { label: "Puerto de alimentación", value: "USB-C" },
+    ],
+    relatedProducts: ["MLA62234964", "MLA19732185", "MLA47307231"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "TV Stick Android genérico: el dispositivo de streaming más vendido de Argentina en MercadoLibre (#1 en Media Streaming), con 9.070 calificaciones y el precio más bajo de esta guía.",
+    seoTitle: "TV Stick genérico: el más vendido, ¿rinde bien?",
+    metaDescription: "TV Stick Android 4K genérico: el más vendido de Argentina, el más barato. Precio real y opiniones verificadas.",
+    verdict: "Sirve si el precio es tu prioridad número uno: es el dispositivo de streaming más vendido de todo MercadoLibre Argentina (#1 en la categoría) y el más barato de esta guía por lejos. A cambio, la marca es genérica (sin fabricante reconocido), no tiene Bluetooth según su propia ficha (aunque algunos compradores esperaban que sí), y hay reseñas que reportan problemas puntuales para instalar Netflix o Disney+. Para uso básico con las apps más comunes, cumple; si necesitás conectar auriculares o parlantes inalámbricos, no es la opción.",
+    pros: [
+      "El dispositivo de streaming más vendido de toda la categoría en MercadoLibre Argentina: #1 en Media Streaming, 9.070 calificaciones",
+      "El más barato de esta guía por lejos",
+      "Incluye cable HDMI, a diferencia de otros de esta guía",
+      "Google Cast integrado y compatible con las apps de streaming más usadas",
+    ],
+    cons: [
+      "Sin Bluetooth según la ficha técnica, algo que varios compradores esperaban y no encontraron",
+      "Reseñas reportan problemas puntuales para instalar o correr Netflix y Disney+",
+      "La marca es genérica, sin fabricante reconocido detrás",
+      "La cifra de 8 GB de RAM en la ficha es inusualmente alta para el precio; no pudimos confirmarla de forma independiente",
+    ],
+    articleBody: `## Qué es y para quién
+
+El TV Stick Android genérico es el dispositivo de streaming más vendido de toda la categoría en MercadoLibre Argentina: convierte cualquier TV con puerto HDMI en un Smart TV con Android 13 y Google Cast integrado, al precio más bajo de esta guía.
+
+## Cómo funciona
+
+Se conecta al puerto HDMI del televisor y se alimenta por USB-C (incluye cable HDMI, algo que no todos los de esta guía traen). Corre Android 13 con Google Cast, control remoto estándar (no de voz) y compatibilidad con las apps de streaming más usadas: Netflix, YouTube, Prime Video, Spotify, HBO Go, Hulu.
+
+## La contra real
+
+La ficha técnica declara que no tiene Bluetooth, y más de una reseña confirma el problema en la práctica: un comprador que quería conectar parlantes inalámbricos no encontró la opción en el menú. Otras reseñas reportan fallas puntuales para instalar o correr Netflix y Disney+, aunque otras confirman que apps como YouTube y servicios de IPTV andan bien. Un dato a tomar con pinzas: la ficha declara 8 GB de RAM, una cifra inusualmente alta para un dispositivo de este precio; no encontramos forma de verificarla de forma independiente, así que no lo des por sentado como diferencial de potencia real.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Fire TV Stick 4K Select](/producto/MLA62234964) y el [Fire TV Stick Lite](/producto/MLA19732185) (ambos de Amazon, con marca reconocida y más reseñas por unidad), el TV Stick genérico es mucho más barato pero sin el respaldo de una marca detrás. Frente al [Google TV Streamer](/producto/MLA47307231) (el más caro de esta guía), la diferencia de precio es abismal: este cuesta menos de una décima parte.
+
+## Para quién sí y para quién no
+
+Comprá el TV Stick genérico si el precio es tu prioridad y solo necesitás las apps de streaming más comunes. No es la mejor opción si querés conectar audio por Bluetooth o si preferís el respaldo de una marca reconocida: ahí el [Fire TV Stick Lite](/producto/MLA19732185) o el [Fire TV Stick 4K Select](/producto/MLA62234964) de esta guía, ambos de Amazon, cumplen mejor ese punto.`,
+    faq: [
+      {
+        question: "¿Por qué es tan barato comparado con los otros de esta guía?",
+        answer: "Es una marca genérica sin el respaldo de un fabricante reconocido como Amazon o Google, lo que le permite tener un precio mucho menor. Aun así, es el más vendido de toda la categoría en MercadoLibre Argentina.",
+      },
+      {
+        question: "¿Tiene Bluetooth?",
+        answer: "No, según su propia ficha técnica. Si necesitás conectar auriculares o parlantes inalámbricos, no es la opción de esta guía.",
+      },
+      {
+        question: "¿Anda bien con Netflix y Disney+?",
+        answer: "Depende: algunas reseñas reportan problemas puntuales para instalar o correr esas apps específicas, mientras que otras confirman que YouTube, IPTV y otras apps andan sin drama. No es unánime.",
+      },
+      {
+        question: "¿Realmente tiene 8 GB de RAM?",
+        answer: "Es lo que declara la ficha técnica, pero es una cifra inusualmente alta para un dispositivo de este precio. No pudimos confirmarla de forma independiente, así que conviene tomarla con cautela.",
+      },
+      {
+        question: "¿Incluye cable HDMI?",
+        answer: "Sí, a diferencia de otros dispositivos de esta guía que no lo incluyen.",
+      },
+    ],
+  },
+  {
+    id: "MLA62234964",
+    title: "Amazon Fire Tv Stick 4k Select 8gb Control Con Alexa Negro De Voz",
+    canonicalName: "Amazon Fire TV Stick 4K Select",
+    price: 72199,
+    originalPrice: 75999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_768418-MLA109034691207_032026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_768418-MLA109034691207_032026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_996482-MLA99629455111_112025-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA62234964",
+    affiliateUrl: "https://meli.la/1N4fhXJ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 1724,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Amazon" },
+      { label: "Línea", value: "Fire TV Stick" },
+      { label: "Modelo", value: "4K Select" },
+      { label: "Resolución máxima", value: "4K" },
+      { label: "Almacenamiento", value: "8 GB" },
+      { label: "Memoria RAM", value: "1,5 GB" },
+      { label: "CPU", value: "Quad-Core 1.7 GHz" },
+      { label: "Sistema operativo", value: "Fire OS (edición Vega)" },
+      { label: "Con Bluetooth", value: "Sí" },
+      { label: "Con Wi-Fi", value: "Sí (2.4 GHz y 5 GHz)" },
+      { label: "Control remoto", value: "De voz, con Alexa integrado" },
+      { label: "Apps compatibles", value: "Amazon Prime Video, Apple TV, Disney+, Hulu, Netflix, Spotify, YouTube, entre otras" },
+      { label: "Incluye cable HDMI", value: "No" },
+      { label: "Garantía", value: "12 meses de fábrica (según el vendedor)" },
+    ],
+    relatedProducts: ["MLA41918674", "MLA19732185", "MLA47307231"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Amazon Fire TV Stick 4K Select: el modelo 4K oficial de Amazon, con control de voz Alexa. 4.6 estrellas en 1.724 calificaciones.",
+    seoTitle: "Fire TV Stick 4K Select: ¿vale la pena el modelo oficial?",
+    metaDescription: "Amazon Fire TV Stick 4K Select: 4K, control con Alexa. Precio real y opiniones verificadas antes de comprar.",
+    verdict: "Sirve si querés 4K con la marca oficial de Amazon y control por voz con Alexa integrado. El punto que más repiten las reseñas reales: este modelo específico (Select) no permite instalar apps que no sean de la tienda de Amazon, así que si usás Flow, IPTV Smarters u otras apps por fuera del catálogo oficial, vas a tener problemas. Para eso, el Fire TV Stick Lite de esta guía, con sistema operativo más abierto, es mejor opción.",
+    pros: [
+      "Marca oficial Amazon, con 4.6 estrellas en 1.724 calificaciones",
+      "Resolución 4K con control de voz Alexa integrado",
+      "Instalación simple, según confirman varias reseñas",
+      "12 meses de garantía de fábrica declarados por el vendedor",
+    ],
+    cons: [
+      "No permite instalar apps que no sean de la tienda oficial de Amazon, confirmado por varias reseñas independientes (Flow, apps regionales)",
+      "No incluye cable HDMI",
+      "Menos RAM que el Google TV Streamer de esta guía (1,5 GB contra 4 GB)",
+      "El control remoto no tiene botón para subir o bajar el volumen del TV directamente, según reseñas de la línea Fire TV Stick en general",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Amazon Fire TV Stick 4K Select es el modelo 4K oficial de Amazon para convertir cualquier TV en Smart TV, con control remoto de voz Alexa integrado.
+
+## Cómo funciona
+
+Se conecta al puerto HDMI y corre Fire OS (edición Vega), el sistema operativo de Amazon basado en Android. Viene con Alexa integrado en el control para buscar contenido por voz, y es compatible con las apps de streaming más usadas: Prime Video, Netflix, Disney+, YouTube, Spotify.
+
+## La contra real
+
+El problema más repetido en las reseñas reales, y que aparece de forma consistente en varios compradores independientes: este modelo específico (Select) no deja instalar aplicaciones que no estén en la tienda oficial de Amazon. Una reseña lo resume así: "no me aparecían Star+ y Flow"; otra dice directo "no me permite bajar aplicaciones como Play Store, o bajar apps desconocidas, no es lo que esperaba, voy a devolverlo". Si tu plan es usar apps regionales o servicios de IPTV por fuera del catálogo de Amazon, este modelo te va a complicar.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Fire TV Stick Lite](/producto/MLA19732185) (mismo fabricante, más barato y con más reseñas), la diferencia clave es que el Lite sí permite instalar apps por fuera de la tienda oficial (con un paso extra, usando una app como Aptoide TV), algo que el Select no permite de ninguna forma. Frente al [TV Stick genérico](/producto/MLA41918674) (mucho más barato), este suma la marca oficial y Alexa integrado. Frente al [Google TV Streamer](/producto/MLA47307231), cuesta una fracción del precio pero con menos RAM y almacenamiento.
+
+## Para quién sí y para quién no
+
+Comprá el Fire TV Stick 4K Select si vas a usar principalmente las apps grandes que ya están en la tienda de Amazon (Netflix, Prime Video, Disney+, YouTube) y no te hace falta nada fuera de eso. No es la mejor opción si usás apps regionales o de IPTV por fuera del catálogo oficial: ahí el [Fire TV Stick Lite](/producto/MLA19732185) de esta guía es más flexible.`,
+    faq: [
+      {
+        question: "¿Puedo instalar cualquier app en este Fire TV Stick?",
+        answer: "No. Varias reseñas confirman que este modelo (Select) solo permite instalar apps de la tienda oficial de Amazon, sin opción de agregar otras por fuera de ese catálogo. El [Fire TV Stick Lite](/producto/MLA19732185) de esta guía es más flexible en ese punto.",
+      },
+      {
+        question: "¿Trae control de voz?",
+        answer: "Sí, con Alexa integrado.",
+      },
+      {
+        question: "¿Incluye cable HDMI?",
+        answer: "No, según la ficha técnica.",
+      },
+      {
+        question: "¿Es mejor que el Fire TV Stick Lite?",
+        answer: "Tiene 4K (contra Full HD del Lite) y más RAM (1,5 GB contra 1 GB), pero es más caro y más cerrado en cuanto a qué apps podés instalar: el Lite permite instalar apps por fuera de la tienda de Amazon y el Select no. Depende de qué priorices.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "El vendedor declara 12 meses de garantía de fábrica.",
+      },
+    ],
+  },
+  {
+    id: "MLA19732185",
+    title: "Amazon Lite Fire TV Stick B091G4YP57 de voz Full HD 8GB negro con 1GB de memoria RAM",
+    canonicalName: "Amazon Fire TV Stick Lite",
+    price: 79999,
+    originalPrice: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_892171-MLA99524334992_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_892171-MLA99524334992_122025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_807212-MLU74829198730_032024-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA19732185",
+    affiliateUrl: "https://meli.la/17jsEqx",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 34028,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Amazon" },
+      { label: "Línea", value: "Lite" },
+      { label: "Modelo", value: "Fire TV Stick (2ª generación), B091G4YP57" },
+      { label: "Resolución máxima", value: "Full HD" },
+      { label: "Almacenamiento", value: "8 GB" },
+      { label: "Memoria RAM", value: "1 GB" },
+      { label: "CPU", value: "Quad-Core" },
+      { label: "Sistema operativo", value: "Fire OS 7 (edición Home)" },
+      { label: "Con Bluetooth", value: "Sí" },
+      { label: "Con Wi-Fi", value: "Sí (2.4 GHz y 5 GHz)" },
+      { label: "Control remoto", value: "De voz, con Alexa integrado" },
+      { label: "Apps compatibles", value: "Prime Video, Netflix, YouTube, Disney+, Apple TV, Spotify, Paramount+, entre otras" },
+      { label: "Incluye cable HDMI", value: "Sí" },
+      { label: "Incluye fuente o pilas", value: "No, según la descripción del vendedor; se conecta directo a la TV por USB" },
+    ],
+    relatedProducts: ["MLA41918674", "MLA62234964", "MLA47307231"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Amazon Fire TV Stick Lite: el dispositivo de streaming con más calificaciones de esta guía, 4.8 estrellas en 34.028 opiniones. Sistema abierto para instalar apps por fuera de la tienda de Amazon.",
+    seoTitle: "Fire TV Stick Lite: el más calificado, ¿cuál es la letra chica?",
+    metaDescription: "Amazon Fire TV Stick Lite: 34.028 calificaciones, el más elegido. Precio real y opiniones verificadas antes de comprar.",
+    verdict: "Sirve si buscás el dispositivo de streaming con más respaldo de compradores reales de esta guía: 34.028 calificaciones lo confirman, con reseñas muy detalladas que lo comparan directo contra Chromecast y Xiaomi. A diferencia del Fire TV Stick 4K Select de esta guía, sí permite instalar apps por fuera de la tienda de Amazon, aunque hay que usar una app extra (tipo Aptoide TV) para lograrlo. El control no tiene botón de volumen y no trae la app de HBO nativa, según reseñas reales.",
+    pros: [
+      "El más calificado de esta guía por lejos: 4.8 estrellas en 34.028 calificaciones",
+      "A diferencia del Fire TV Stick 4K Select de esta guía, permite instalar apps por fuera de la tienda oficial de Amazon (con un paso extra)",
+      "Reseñas reales lo comparan directo contra Chromecast y Xiaomi, con detalles técnicos concretos",
+      "Incluye cable HDMI",
+    ],
+    cons: [
+      "Solo Full HD, no 4K (a diferencia del Fire TV Stick 4K Select y el Google TV Streamer de esta guía)",
+      "El control remoto no tiene botón para subir o bajar el volumen del TV directamente",
+      "No trae la app de HBO nativa, según una reseña",
+      "Para instalar apps fuera del catálogo de Amazon hay que usar una app adicional (tipo Aptoide TV), no es inmediato",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Amazon Fire TV Stick Lite es el dispositivo de streaming con más respaldo de compradores reales de esta guía: 34.028 calificaciones, muy por encima del resto. Convierte cualquier TV con HDMI en Smart TV, con control de voz Alexa incluido.
+
+## Cómo funciona
+
+Corre Fire OS 7 (basado en Android), compatible con las apps grandes de streaming: Prime Video, Netflix, Disney+, YouTube. A diferencia del [Fire TV Stick 4K Select](/producto/MLA62234964) de esta guía, el sistema es más abierto: varias reseñas confirman que instalando una app adicional (mencionan "Aptoide TV") se pueden agregar aplicaciones que no están en la tienda oficial de Amazon, como Flow o apps de IPTV.
+
+## La contra real
+
+Es Full HD, no 4K, así que si tu TV es 4K y querés aprovechar esa resolución, no es la opción de esta guía para eso. El control remoto no tiene botón para subir o bajar el volumen del TV, algo que varias reseñas señalan como incómodo frente a otros dispositivos. Una reseña también marca que no trae la app de HBO. Instalar apps por fuera del catálogo de Amazon requiere un paso extra (una app adicional), no es tan directo como en un Android TV nativo.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Fire TV Stick 4K Select](/producto/MLA62234964) (mismo fabricante, 4K, pero cerrado a solo apps de Amazon), el Lite es más flexible en cuanto a qué apps podés instalar, aunque se queda en Full HD. Una reseña real que probó ambos frente al [TV Stick genérico](/producto/MLA41918674) resume: "el amazon fire es mucho mejor en periféricos... pero en interfaz es mejor el genérico Android TV". Otra reseña real lo compara contra "el chromecast 4" (el Chromecast clásico anterior, no el [Google TV Streamer](/producto/MLA47307231) de esta guía): "yo estaba casado con el chromecast y fire stick es ampliamente superior. Pero es inferior al chromecast 4" en estabilidad con ciertas apps.
+
+## Para quién sí y para quién no
+
+Comprá el Fire TV Stick Lite si priorizás el dispositivo con más respaldo de compradores reales y necesitás instalar apps por fuera del catálogo oficial de Amazon (aceptando el paso extra que eso implica). No es la mejor opción si tu TV es 4K y querés aprovechar esa resolución al máximo: ahí el [Fire TV Stick 4K Select](/producto/MLA62234964) o el [Google TV Streamer](/producto/MLA47307231) de esta guía rinden mejor.`,
+    faq: [
+      {
+        question: "¿Es 4K?",
+        answer: "No, es Full HD. Para 4K, el [Fire TV Stick 4K Select](/producto/MLA62234964) o el [Google TV Streamer](/producto/MLA47307231) de esta guía son las opciones.",
+      },
+      {
+        question: "¿Puedo instalar apps que no sean de Amazon?",
+        answer: "Sí, a diferencia del [Fire TV Stick 4K Select](/producto/MLA62234964) de esta guía. Varias reseñas confirman que usando una app adicional (tipo Aptoide TV) se pueden instalar apps como Flow o servicios de IPTV que no están en la tienda oficial.",
+      },
+      {
+        question: "¿El control tiene botón de volumen?",
+        answer: "No, según reseñas reales. Hay que seguir usando el control del TV para el volumen.",
+      },
+      {
+        question: "¿Incluye todos los accesorios?",
+        answer: "Incluye cable HDMI, pero según la descripción del vendedor no incluye fuente ni pilas: se puede conectar directo a la TV por USB.",
+      },
+      {
+        question: "¿Cómo se compara con un Chromecast o un Android TV genérico?",
+        answer: "Reseñas reales que probaron varios dispositivos coinciden en que el Fire TV Stick es más rápido y estable con ciertas apps (como Flow o IPTV) que el Chromecast clásico, pero que un Android TV genérico puede tener una interfaz más intuitiva. Depende de qué apps uses más.",
+      },
+    ],
+  },
+  {
+    id: "MLA47307231",
+    title: "Google Tv Streamer 4k Hdr 32gb Control Remoto Color Hazel De Voz",
+    canonicalName: "Google TV Streamer 4K",
+    price: 240000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_968177-MLA99965061877_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_968177-MLA99965061877_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_605358-MLA107585399341_022026-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA47307231",
+    affiliateUrl: "https://meli.la/2RuVLen",
+    condition: "new",
+    freeShipping: true,
+    rating: 5,
+    reviewCount: 56,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Google" },
+      { label: "Línea", value: "TV Streamer 4K" },
+      { label: "Modelo", value: "GA05662-US, 4ª generación" },
+      { label: "Resolución máxima", value: "4K" },
+      { label: "Almacenamiento", value: "32 GB, el más alto de esta guía" },
+      { label: "Memoria RAM", value: "4 GB, la más alta de esta guía" },
+      { label: "CPU", value: "Amlogic S905X3 Cortex-A55 Quad-Core" },
+      { label: "Sistema operativo", value: "Google TV" },
+      { label: "Tecnología de streaming", value: "Chromecast integrado" },
+      { label: "Audio", value: "Dolby Atmos" },
+      { label: "Con Bluetooth", value: "Sí" },
+      { label: "Con Wi-Fi", value: "Sí (5.8 GHz)" },
+      { label: "Control remoto", value: "De voz, con Google Assistant integrado" },
+      { label: "Apps compatibles", value: "Prime Video, ESPN, Hulu, HBO Go, Netflix, Spotify, YouTube" },
+      { label: "Incluye cable HDMI", value: "No" },
+      { label: "Distribución en Argentina", value: "Sin distribución oficial de Google; es un producto de importación, con precio y disponibilidad variables según vendedor" },
+    ],
+    relatedProducts: ["MLA41918674", "MLA62234964", "MLA19732185"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Google TV Streamer 4K: el sucesor del Chromecast clásico, con Google TV y Chromecast integrado. La opción con más almacenamiento y RAM de esta guía, aunque también la más cara.",
+    seoTitle: "Google TV Streamer 4K: el 'Chromecast' actual, ¿vale $240.000?",
+    metaDescription: "Google TV Streamer 4K (el nuevo Chromecast): specs, precio real de importación y opiniones verificadas antes de comprar.",
+    verdict: "Sirve si buscás el sistema operativo Google TV con Chromecast integrado y la mayor potencia de esta guía (32 GB, 4 GB de RAM), y no te importa pagar bastante más por eso: es el más caro por lejos, entre 3 y 9 veces el precio del resto. Un dato a tener en cuenta: Google no tiene distribución oficial en Argentina, así que es un producto de importación con precio y stock que varían según el vendedor, y la base de opiniones de esta ficha es la más chica de la guía (56, la mayoría de compradores de Brasil, no de Argentina).",
+    pros: [
+      "Sistema operativo Google TV con Chromecast integrado y Google Assistant por voz",
+      "La mayor capacidad de almacenamiento y RAM de esta guía (32 GB / 4 GB)",
+      "5.0 estrellas, MÁS VENDIDO #1 en Media Streaming Google",
+      "Dolby Atmos para mejor calidad de audio",
+    ],
+    cons: [
+      "El más caro de esta guía por lejos: cuesta entre 3 y 9 veces más que el resto",
+      "Sin distribución oficial de Google en Argentina: es un producto de importación, con precio y disponibilidad que varían mucho según vendedor",
+      "Solo 56 calificaciones en esta ficha, la base más chica de esta guía, y la mayoría de las reseñas visibles son de compradores de Brasil, no de Argentina",
+      "No incluye cable HDMI",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Google TV Streamer 4K es el sucesor oficial del Chromecast clásico: corre Google TV con Chromecast integrado, Google Assistant por voz, y es el dispositivo con más almacenamiento (32 GB) y RAM (4 GB) de esta guía.
+
+## Cómo funciona
+
+Se conecta al puerto HDMI del televisor (no incluye el cable) y corre Google TV, con Chromecast integrado para enviar contenido desde el celular y control remoto de voz con Google Assistant. Soporta 4K con Dolby Atmos, y es compatible con las apps de streaming más usadas.
+
+## La contra real
+
+Google no tiene distribución oficial en Argentina, así que este dispositivo se consigue como producto de importación: el precio varía fuerte según el vendedor (vimos desde $240.000 hasta más de $280.000 en la misma publicación, según quién lo venda), y la disponibilidad no es tan estable como la de Amazon o los genéricos. Además, la base de opiniones de esta ficha puntual es la más chica de toda la guía (56 calificaciones), y la mayoría de las reseñas visibles son de compradores de Brasil (por el catálogo regional compartido de MercadoLibre), no necesariamente de Argentina.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Fire TV Stick 4K Select](/producto/MLA62234964) y el [Fire TV Stick Lite](/producto/MLA19732185) (ambos de Amazon, con miles de reseñas de compradores reales de la región), el Google TV Streamer tiene más potencia técnica pero muchísimo menos respaldo de opiniones locales y un precio varias veces mayor. Frente al [TV Stick genérico](/producto/MLA41918674) (el más vendido y barato de la categoría), la diferencia de precio es abismal.
+
+## Para quién sí y para quién no
+
+Comprá el Google TV Streamer si priorizás la mayor potencia técnica (almacenamiento, RAM) y el ecosistema Google TV, y no te importa pagar la diferencia de un producto de importación sin distribución oficial. No es la mejor opción si buscás el respaldo de miles de opiniones de compradores argentinos reales: ahí el [Fire TV Stick Lite](/producto/MLA19732185) de esta guía, con 34.028 calificaciones, da mucha más certeza.`,
+    faq: [
+      {
+        question: "¿Es lo mismo que el Chromecast clásico?",
+        answer: "Es su sucesor oficial: mantiene la tecnología Chromecast integrada, pero ahora viene con control remoto físico de voz y corre el sistema operativo Google TV, algo que el Chromecast clásico (sin control remoto) no tenía.",
+      },
+      {
+        question: "¿Por qué el precio varía tanto entre vendedores?",
+        answer: "Porque Google no tiene distribución oficial en Argentina: es un producto de importación, y cada vendedor fija su propio precio según cómo lo consiguió. Vimos la misma publicación con precios desde $240.000 hasta más de $280.000 según el vendedor.",
+      },
+      {
+        question: "¿Por qué tiene tan pocas calificaciones comparado con los Fire TV Stick de esta guía?",
+        answer: "Es la ficha con menos reseñas de toda la guía (56, contra miles de los productos de Amazon), y buena parte de esas reseñas son de compradores de Brasil por el catálogo regional compartido de MercadoLibre, no necesariamente de Argentina.",
+      },
+      {
+        question: "¿Incluye cable HDMI?",
+        answer: "No, según la ficha técnica. Hay que comprarlo aparte si no tenés uno.",
+      },
+      {
+        question: "¿Vale la pena pagar tanto más que un Fire TV Stick o un genérico?",
+        answer: "Depende de qué priorices. Suma más almacenamiento, más RAM y el ecosistema Google TV, pero cuesta entre 3 y 9 veces más que el resto de esta guía y tiene mucha menos base de opiniones de compradores argentinos reales.",
+      },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

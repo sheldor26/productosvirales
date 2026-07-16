@@ -11,6 +11,10 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "*.mlstatic.com",
       },
+      {
+        protocol: "https",
+        hostname: "*.mitiendanube.com",
+      },
     ],
     // Las fotos de ML casi no cambian de URL una vez importadas: cache largo
     // evita que las páginas de cola larga (poco tráfico) repaguen el costo de
