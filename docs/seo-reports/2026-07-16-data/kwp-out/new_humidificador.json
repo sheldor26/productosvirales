@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "humidificador",
+    "avg_monthly_searches": 22200,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 36.65,
+    "high_top_bid": 295.2
+  },
+  {
+    "keyword": "deshumidificador",
+    "avg_monthly_searches": 9900,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 70.5,
+    "high_top_bid": 425.7
+  },
+  {
+    "keyword": "humidificador de ambiente",
+    "avg_monthly_searches": 6600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 30.74,
+    "high_top_bid": 265.26
+  },
+  {
+    "keyword": "deshumidificador de ambiente",
+    "avg_monthly_searches": 2900,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 72.99,
+    "high_top_bid": 427.93
+  },
+  {
+    "keyword": "humidificador gadnic",
+    "avg_monthly_searches": 1600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 46.81,
+    "high_top_bid": 365.53
+  },
+  {
+    "keyword": "deshumidificador de humedad",
+    "avg_monthly_searches": 1000,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 55.64,
+    "high_top_bid": 354.69
+  },
+  {
+    "keyword": "humidificador de aire",
+    "avg_monthly_searches": 720,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 28.71,
+    "high_top_bid": 198.2
+  },
+  {
+    "keyword": "humidificador just",
+    "avg_monthly_searches": 590,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 50.68,
+    "high_top_bid": 324.37
+  },
+  {
+    "keyword": "humidificador para la tos",
+    "avg_monthly_searches": 480,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 24.73,
+    "high_top_bid": 143.31
+  },
+  {
+    "keyword": "deshumidificador casero",
+    "avg_monthly_searches": 480,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 8.57,
+    "high_top_bid": 158.03
+  }
+]

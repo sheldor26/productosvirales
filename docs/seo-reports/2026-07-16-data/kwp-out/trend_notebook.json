@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "notebook",
+    "avg_monthly_searches": 110000,
+    "competition": "HIGH",
+    "competition_index": 89,
+    "low_top_bid": 67.26,
+    "high_top_bid": 417.72
+  },
+  {
+    "keyword": "notebook pro",
+    "avg_monthly_searches": 18100,
+    "competition": "HIGH",
+    "competition_index": 98,
+    "low_top_bid": 112.12,
+    "high_top_bid": 1036.93
+  },
+  {
+    "keyword": "notebook hp",
+    "avg_monthly_searches": 8100,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 49.67,
+    "high_top_bid": 329.79
+  },
+  {
+    "keyword": "computadora notebook",
+    "avg_monthly_searches": 6600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 36.32,
+    "high_top_bid": 265.68
+  },
+  {
+    "keyword": "lenovo notebook",
+    "avg_monthly_searches": 3600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 62.18,
+    "high_top_bid": 597.42
+  },
+  {
+    "keyword": "fravega notebook",
+    "avg_monthly_searches": 3600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 62.97,
+    "high_top_bid": 405.94
+  },
+  {
+    "keyword": "portátil",
+    "avg_monthly_searches": 3600,
+    "competition": "LOW",
+    "competition_index": 18,
+    "low_top_bid": 49.34,
+    "high_top_bid": 506.83
+  },
+  {
+    "keyword": "notebook precios",
+    "avg_monthly_searches": 3600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 30.55,
+    "high_top_bid": 222.61
+  },
+  {
+    "keyword": "precio notebook",
+    "avg_monthly_searches": 3600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 30.55,
+    "high_top_bid": 222.61
+  },
+  {
+    "keyword": "computadores notebook",
+    "avg_monthly_searches": 3600,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 50.51,
+    "high_top_bid": 339.48
+  }
+]

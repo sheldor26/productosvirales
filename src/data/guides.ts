@@ -1402,7 +1402,7 @@ export const guides: Guide[] = [
         [`[Philips 24"](https://meli.la/2LPpSwK)`, `{{precio:MLA43960948}}`, `75`, `VA 24" FHD`, `Uso mixto, el más vendido`],
         [`[Noblex 27" IPS](https://meli.la/17HaY3a)`, `{{precio:MLA45717120}}`, `100`, `IPS 27" FHD`, `Pantalla grande económica`],
         [`[Samsung Odyssey G3](https://meli.la/2NmTqzr)`, `{{precio:MLA63267892}}`, `180`, `VA 24" FHD`, `El mejor gaming por el precio`],
-        [`[Samsung CRG5 curvo](https://meli.la/21rUoNn)`, `$365.999`, `144`, `VA 24" FHD curvo`, `El gaming más validado`],
+        [`[Samsung CRG5 curvo](https://meli.la/21rUoNn)`, `{{precio:MLA43961816}}`, `144`, `VA 24" FHD curvo`, `El gaming más validado`],
         [`[Samsung G5 27" QHD](https://meli.la/11Frg3T)`, `$554.413`, `165`, `VA 27" QHD curvo`, `El salto de nitidez`],
         [`[Xiaomi G34WQi 34"](https://meli.la/1MQkxTt)`, `{{precio:MLA43960787}}`, `180`, `VA 34" UWQHD curvo`, `Ultrawide al mejor precio`],
         [`[Gigabyte GS34WQC 34"](https://meli.la/2VotvC2)`, `$919.599`, `120-135`, `VA 34" UWQHD curvo`, `Ultrawide de marca gamer`],
@@ -2892,6 +2892,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
+      { label: "Humidificador: cuál comprar en Argentina", href: "/guias/climatizacion/humidificador" },
       { label: "Mejores licuadoras: cuál comprar en Argentina", href: "/guias/licuadora" },
     ],
     internalLinksTitle: "Más sobre el hogar",
@@ -2996,6 +2997,7 @@ export const guides: Guide[] = [
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
+      { label: "Humidificador: cuál comprar en Argentina", href: "/guias/climatizacion/humidificador" },
     ],
     internalLinksTitle: "Más sobre calefacción",
   },
@@ -3111,6 +3113,7 @@ export const guides: Guide[] = [
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Caloventor: cuál comprar y qué mirar", href: "/guias/climatizacion/caloventor" },
+      { label: "Humidificador: cuál comprar en Argentina", href: "/guias/climatizacion/humidificador" },
     ],
     internalLinksTitle: "Más sobre climatización",
   },
@@ -11990,17 +11993,18 @@ export const guides: Guide[] = [
   {
     slug: "mejores-perfumes-arabes-hombre",
     category: "perfumes-arabes",
-    title: "Mejores perfumes árabes de hombre en Argentina 2026",
-    seoTitle: "Mejores perfumes árabes de hombre en Argentina 2026",
-    metaDescription: "Los 15 mejores perfumes árabes de hombre en Argentina 2026: Asad, 9PM, Khamrah Qahwa y más. Notas, duración real, precios y para quién es cada uno.",
+    title: "Perfume árabe hombre: los 15 mejores de Argentina 2026",
+    seoTitle: "Perfume árabe hombre: los 15 mejores de Argentina 2026",
+    metaDescription: "Descubrí los 15 mejores perfumes árabes para hombre en Argentina 2026: Asad, 9PM, Khamrah Qahwa y más, con precios reales y duración probada.",
     ogTitle: "Mejores perfumes árabes de hombre 2026: el ranking probado en Argentina",
     ogDescription: "De Asad Intense a Afnan 9PM. Los 15 árabes masculinos que más se venden en Argentina, con duración real, precios y los dupes de los clásicos caros.",
     h1: "Los 15 mejores perfumes árabes para hombre en Argentina (2026)",
+    directAnswer: "El mejor perfume árabe para hombre en Argentina 2026 es el **Lattafa Asad Intense** (alrededor de {{precio:MLA19715215:k}}): especiado y amaderado, con proyección alta y 6 a 10 horas reales de duración en piel. Es uno de los más probados del catálogo, con más de 7.000 reseñas. Para uso diario y de oficina conviene el Rasasi Hawas Ice; para el invierno y la noche, el Khamrah Qahwa.",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-16",
     hasDisclosure: true,
     quickPicks: [
-      { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "El masculino más probado del catálogo: 7.245 reseñas, 4.6⭐ y 13h de duración real." },
+      { productMlaId: "MLA19715215", label: "Nuestra elección", labelColor: "green", tagline: "Uno de los más probados del catálogo: 7.245 reseñas, 4.6⭐ y 6 a 10h de duración real en piel." },
       { productMlaId: "MLA16122300", label: "Para exigentes", labelColor: "amber", tagline: "200ml al doble del tamaño estándar. Proyecta como bomba." },
       { productMlaId: "MLA29780185", label: "Alternativa fresca", labelColor: "blue", tagline: "El más versátil del ranking. Oficina, salida, verano — no falla." },
       { productMlaId: "MLAU3800115477", label: "Para empezar", labelColor: "purple", tagline: "Kit de 4 miniaturas 35ml para probar antes de comprar un 100ml." },
@@ -12050,7 +12054,7 @@ export const guides: Guide[] = [
         title: "Comparativa rápida: los 5 mejores para hombre"
       },
       { type: "table", headers: ["Perfume", "Perfil olfativo", "Mejor para", "Precio relativo"], rows: [
-        ["Lattafa Asad Intense", "Amaderado especiado", "El más probado (7.245 reseñas), todo terreno", "Medio"],
+        ["Lattafa Asad Intense", "Amaderado especiado", "Uno de los más probados (7.245 reseñas), todo terreno", "Medio"],
         ["Afnan 9PM", "Dulce ambarino", "Salida de noche", "Bajo-medio"],
         ["Rasasi Hawas Ice", "Fresco acuático", "Verano y oficina", "Medio-alto"],
         ["Armaf Club de Nuit Intense Man", "Frutal ahumado (dupe de Aventus)", "Versátil, máxima relación precio-calidad", "Bajo"],
@@ -12080,7 +12084,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Como el Asad Intense es uno de los productos masculinos más validados del catálogo argentino (7.245 reseñas con rating 4.6, solo superado por Bharara King en volumen), vale la pena mirar qué dicen sus compradores en Mercado Libre. Procesamos 170 reseñas reales de Argentina, Brasil, Chile, Uruguay y Colombia, y los patrones son sorprendentemente consistentes."
+        content: "Como el Asad Intense es uno de los productos masculinos más validados del catálogo argentino (7.245 reseñas con rating 4.6, superado en volumen por Bharara King y Hawas Ice), vale la pena mirar qué dicen sus compradores en Mercado Libre. Procesamos 170 reseñas reales de Argentina, Brasil, Chile, Uruguay y Colombia, y los patrones son sorprendentemente consistentes."
       },
       {
         type: "h3",
@@ -12092,7 +12096,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Sobre duración, los números varían según la piel. Oficialmente Afnan informa 13 horas, pero los compradores reportan entre **6 y 10 horas en piel**, con permanencia notable en ropa al día siguiente. Unos pocos reportan duración menor (4-6 horas), lo que en varios casos coincide con sospecha de falsificación."
+        content: "Sobre duración, los números varían según la piel. Oficialmente Lattafa informa 13 horas, pero los compradores reportan entre **6 y 10 horas en piel**, con permanencia notable en ropa al día siguiente. Unos pocos reportan duración menor (4-6 horas), lo que en varios casos coincide con sospecha de falsificación."
       },
       {
         type: "p",
@@ -12244,7 +12248,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Bharara King es el masculino con más volumen de validación de todo el catálogo, por encima de Khamrah Qahwa (7.137 reseñas) y Asad Intense (7.245 reseñas). Las razones son varias y vale la pena entenderlas antes de comprar."
+        content: "Bharara King es el masculino con más volumen de validación de todo el catálogo, por encima de Hawas Ice (9.144 reseñas), Asad Intense (7.245 reseñas) y Khamrah Qahwa (7.137 reseñas). Las razones son varias y vale la pena entenderlas antes de comprar."
       },
       {
         type: "p",
@@ -12282,7 +12286,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Khamrah Qahwa tiene la cantidad de reseñas verificadas más alta del catálogo después del Asad Intense. Procesamos 200 reseñas reales para detectar patrones y los resultados son sorprendentemente consistentes."
+        content: "Khamrah Qahwa tiene una de las bases de reseñas verificadas más grandes del catálogo, solo detrás de Bharara King, Hawas Ice y Asad Intense. Procesamos 200 reseñas reales para detectar patrones y los resultados son sorprendentemente consistentes."
       },
       {
         type: "h3",
@@ -12442,12 +12446,12 @@ export const guides: Guide[] = [
       {
         question: "¿Cuál es el mejor perfume árabe para hombre en 2026?",
         answer:
-          "Si tenés que elegir uno solo, el Lattafa Asad Intense: especiado-frutal con base amaderada, proyección alta y 6 a 10 horas reales en piel. Es el más probado del catálogo, con más de 7.000 reseñas y 4.6 de promedio. Para algo más fresco y versátil de día va el Afnan 9PM en su versión más liviana; para invierno y noche, el Khamrah Qahwa con su nota de café.",
+          "Si tenés que elegir uno solo, el Lattafa Asad Intense: especiado-frutal con base amaderada, proyección alta y 6 a 10 horas reales en piel. Es uno de los más probados del catálogo, con más de 7.000 reseñas y 4.6 de promedio. Para algo más fresco y versátil para el día a día conviene el Rasasi Hawas Ice; para invierno y noche, el Khamrah Qahwa con su nota de café.",
       },
       {
         question: "¿Cuál es el perfume árabe de hombre más rico?",
         answer:
-          "Depende del perfil que te guste. Si te van los dulces-especiados, Asad Intense y Khamrah Qahwa son los más elogiados. Si preferís algo fresco y limpio para uso diario, el 9PM en su versión clásica gana. No hay un único más rico: lo que para uno es una bomba elegante, para otro proyecta de más. Por eso conviene probar con un kit de miniaturas antes de comprar un 100 ml.",
+          "Depende del perfil que te guste. Si te van los dulces-especiados, Asad Intense y Khamrah Qahwa son los más elogiados. Si preferís algo fresco y limpio para uso diario, el Rasasi Hawas Ice gana. No hay un único más rico: lo que para uno es una bomba elegante, para otro proyecta de más. Por eso conviene probar con un kit de miniaturas antes de comprar un 100 ml.",
       },
       {
         question: "¿Qué perfume árabe de hombre se parece a clásicos caros como Creed Aventus o Dior Sauvage?",
@@ -12472,7 +12476,7 @@ export const guides: Guide[] = [
       {
         question: "¿Cuál es el mejor perfume árabe de hombre para uso diario y oficina?",
         answer:
-          "Para oficina conviene un perfume fresco y de proyección moderada, no una bomba. El 9PM en su versión clásica y los perfiles cítrico-amaderados livianos funcionan bien de día. Reservá los intensos como Asad o Khamrah Qahwa para la noche o el invierno: un árabe muy proyectante en una reunión a la mañana es demasiado.",
+          "Para oficina conviene un perfume fresco y de proyección moderada, no una bomba. El Rasasi Hawas Ice, fresco-acuático, es el que mejor cumple ese rol en este ranking. Reservá los intensos como Asad Intense, 9PM o Khamrah Qahwa para la noche o el invierno: un árabe muy proyectante en una reunión a la mañana es demasiado.",
       },
       {
         question: "¿Qué perfume árabe de hombre conviene para empezar?",
@@ -13043,8 +13047,9 @@ export const guides: Guide[] = [
     ogTitle: "Perfumes árabes para mujer: las 12 fragancias que están explotando en TikTok (2026)",
     ogDescription: "De Yara Elixir a Sabah Al Ward. Las fragancias árabes femeninas más virales en MercadoLibre Argentina, con análisis honesto, precios reales y para quién es cada una.",
     h1: "Perfumes árabes para mujer: las 12 fragancias más deseadas (2026)",
+    directAnswer: "El mejor perfume árabe de mujer en Argentina 2026 es el **Lattafa Yara Elixir** (alrededor de {{precio:MLA60836327:k}}): dulce con cítricos, 8 horas reales de duración y el más viral en TikTok Argentina. Para verano y uso de día conviene el Yara Tous; para empezar sin gastar mucho, el Sabah Al Ward.",
     publishedDate: "2026-04-17",
-    updatedDate: "2026-06-26",
+    updatedDate: "2026-07-16",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA60836327", label: "Nuestra elección", labelColor: "green", tagline: "Yara Elixir: el árabe femenino más viral. 8h de duración con buen anclaje." },
@@ -13554,8 +13559,8 @@ export const guides: Guide[] = [
       {
         type: "list",
         items: [
-          "**[Mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)** — el ranking masculino completo con análisis de Asad Intense, Hawas Ice, Bharara King, Club de Nuit y más.",
-          "**[Mejores perfumes árabes para mujer](/guias/perfumes-arabes-mujer)** — el ranking femenino con foco en línea Yara, Bade'e Al Oud, Her Confession y los gourmand más virales.",
+          "**[Perfume árabe hombre: los 15 mejores](/guias/mejores-perfumes-arabes-hombre)** — el ranking masculino completo con análisis de Asad Intense, Hawas Ice, Bharara King, Club de Nuit y más.",
+          "**[Perfume árabe de mujer: las 12 mejores](/guias/perfumes-arabes-mujer)** — el ranking femenino con foco en línea Yara, Bade'e Al Oud, Her Confession y los gourmand más virales.",
           "**[Guía completa Yara Lattafa](/guias/yara-lattafa-guia-completa)** — comparativa de las 5 variantes (Original, Elixir, Tous, Candy, Moi), cuál elegir según uso y presupuesto.",
           "**[Perfumes árabes amaderados](/guias/perfumes-arabes-amaderados)** — el perfil más popular en hombre: oud, sándalo, pachulí, cedro. Las mejores opciones del catálogo.",
           "**[Precios reales en Argentina](/guias/perfumes-arabes-precio-argentina)** — desglose completo por marca, rango y producto. Verificación manual mensual."
@@ -13604,8 +13609,8 @@ export const guides: Guide[] = [
       }
     ],
     internalLinks: [
-      { label: "Mejores perfumes árabes para hombre", href: "/guias/mejores-perfumes-arabes-hombre" },
-      { label: "Mejores perfumes árabes para mujer", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Perfume árabe hombre: los 15 mejores", href: "/guias/mejores-perfumes-arabes-hombre" },
+      { label: "Perfume árabe de mujer: las 12 mejores", href: "/guias/perfumes-arabes-mujer" },
       { label: "Guía completa Yara Lattafa", href: "/guias/yara-lattafa-guia-completa" },
       { label: "Lattafa: guía completa de la marca", href: "/guias/lattafa-guia-marca" },
       { label: "Perfumes árabes amaderados", href: "/guias/perfumes-arabes-amaderados" },
@@ -19546,6 +19551,137 @@ export const guides: Guide[] = [
       { label: "Estufa eléctrica de bajo consumo: cuál comprar", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Estufas eléctricas: cuál comprar y cuál conviene", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
+    ],
+    internalLinksTitle: "Más para el hogar en invierno",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR humidificador — silo climatizacion (/guias/climatizacion/...)
+  // Origen: research masivo 2026-07-16 + consulta al trío (Codex/Gemini/
+  // Claude) sobre prioridad de ejecución. Keyword "humidificador"
+  // 22.200/mes AR (Ubersuggest locId 2032), SD19, estacional invierno
+  // (pico may-jul) — publicada en plena ventana estacional.
+  // Sourcing: MercadoLibre Argentina vía Bright Data, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "humidificador",
+    category: "humidificadores",
+    silo: "climatizacion",
+    pillar: true,
+    title: `Humidificador: cuál comprar en Argentina [2026]`,
+    seoTitle: `Humidificador de Ambiente: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos los humidificadores de ambiente más vendidos de Argentina: Gadnic, Silfab, Daewoo y Maverick. Precio, litros y contras reales. Compará.`,
+    ogTitle: `Humidificador: cuál comprar en Argentina`,
+    ogDescription: `De 2,2 a 4 litros: comparamos los humidificadores de ambiente más vendidos de Argentina por capacidad, autonomía y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_959929-MLA91555372060_092025-F.webp`,
+    h1: `Humidificador: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **Gadnic HM20B** (alrededor de {{precio:MLA28531856:k}}): el más vendido de Argentina en esta categoría, con 2.221 calificaciones y vapor frío silencioso, sin riesgo de quemadura. Si priorizás precio y mayor capacidad de tanque, el Silfab V12 de 4 litros es el más barato, pero ojo: es de vapor caliente (el fabricante advierte riesgo real de quemadura, no es para dejar solo con chicos cerca); para dormitorio con más funciones (filtro, antibacteriano) y ubicándolo con la misma precaución que uno de vapor caliente hasta confirmar el dato con el vendedor, el Maverick VP-3; y si preferís una marca internacional reconocida con vapor frío confirmado, el Daewoo DHU335, aunque con muchas menos opiniones.`,
+    publishedDate: "2026-07-16",
+    updatedDate: "2026-07-16",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Hay humidificadores de ambiente desde {{precio:MLA35313170:k}} hasta {{precio:MLA28103250:k}}, con capacidades de 2,2 a 4 litros. El truco de la categoría es que muchos productos llamados "humidificador" en MercadoLibre son en realidad difusores de aroma chiquitos, no equipos pensados para elevar la humedad real de un ambiente. Te mostramos los que sí cumplen esa función, con precios reales de MercadoLibre y las contras que las publicaciones no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA28531856", label: "El más vendido", labelColor: "green", tagline: "Gadnic HM20B: 2.221 calificaciones, vapor frío silencioso" },
+      { productMlaId: "MLA35313170", label: "El más económico", labelColor: "amber", tagline: "Silfab V12: 4 litros al mejor precio, ojo que es vapor caliente (no frío)" },
+      { productMlaId: "MLA27342886", label: "El más silencioso", labelColor: "blue", tagline: "Maverick VP-3: 4 litros, filtro removible y antibacteriano" },
+      { productMlaId: "MLA28103250", label: "Marca reconocida", labelColor: "purple", tagline: "Daewoo DHU335: internacional, aunque con pocas opiniones locales" },
+    ],
+    intro: [
+      `Con la calefacción prendida todo el día, el aire de una casa argentina en invierno se seca rápido: se nota en la garganta, la piel y la nariz al despertar. Un humidificador de ambiente sube la humedad del aire (con vapor frío o caliente, según la tecnología) sin necesidad de instalación.`,
+      `El problema es que la categoría "humidificador" de MercadoLibre está llena de difusores de aroma decorativos (100-300 ml, con luces LED) que no cumplen esa función real. Esta guía compara los 4 humidificadores de ambiente (2,2 a 4 litros) con mejor respaldo de compradores reales, para que elijas según cuánta capacidad necesitás y qué estás dispuesto a resignar por precio.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_959929-MLA91555372060_092025-F.webp", alt: `Humidificador de ambiente Gadnic HM20B, el más vendido de Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Humidificador vs. difusor de aroma: no es lo mismo", content: `Si buscás "humidificador" en MercadoLibre, la mayoría de los resultados son difusores de aroma de 100-300 ml, pensados para aromaterapia y decoración, no para elevar la humedad real de una habitación. Los 4 de esta guía tienen entre 2,2 y 4 litros de tanque, la capacidad que sí hace diferencia en el ambiente.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los humidificadores de ambiente (no difusores de aroma chicos) con más ventas y calificaciones reales en MercadoLibre Argentina. Evaluamos lo que más importa al elegir uno: la **capacidad del tanque**, la **autonomía real** (no solo la declarada), si es **silencioso** y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Los 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Gadnic HM20B — el más vendido` },
+      { type: "product-card", productMlaId: "MLA28531856", label: "El más vendido", labelColor: "green", ranking: 1, description: `2,2 litros, vapor frío ultrasónico, apagado automático. 4.7 estrellas en 2.221 calificaciones, más de 10.000 vendidos.` },
+      { type: "p", content: `Es el modelo con más respaldo real de compradores del país en esta categoría, y por una distancia grande. Sirve bien para un dormitorio u oficina: es silencioso, tiene apagado automático para dejarlo toda la noche y vapor frío (sin riesgo de quemadura). A alrededor de {{precio:MLA28531856:k}}, es la compra más segura de esta guía.` },
+      { type: "p", content: `Lo honesto: la ficha promete 24 horas de autonomía, pero a intensidad media-alta varios compradores reportan 18-20 horas reales. Y hay que tomarlo de la base blanca (donde está el agua), no de la parte celeste superior, o se puede volcar.` },
+      { type: "pull-quote", content: `El producto me resulta muy bueno y útil! para estos tiempos de frío, me hace bien cuando duermo con calefacción y así puedo mantener la humidificación, para que no se me resequen la nariz, garganta y piel. Recomendable!!.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `2. Silfab V12 — el más económico (vapor caliente, no frío)` },
+      { type: "product-card", productMlaId: "MLA35313170", label: "El más económico", labelColor: "amber", ranking: 2, description: `4 litros, el mayor tanque junto al Maverick y el más barato de la guía. 4.5 estrellas en 2.508 calificaciones. Es vapor CALIENTE, no frío.` },
+      { type: "p", content: `El que más capacidad de tanque da por menos plata: 4 litros a alrededor de {{precio:MLA35313170:k}}, con la base de opiniones más grande de esta guía (2.508) y fabricado en Argentina. Sube la humedad del ambiente muy rápido, según varias reseñas.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "Este es de vapor caliente, no frío", content: `A diferencia del Gadnic y el Daewoo de esta guía (ultrasónicos, vapor frío), el Silfab V12 calienta el agua con electrodos. El manual oficial del fabricante dice explícito que "el equipo no ha sido diseñado para proporcionar vapor directamente al usuario ya que puede ocasionarle quemaduras", y pide mantenerlo a 1 metro de distancia, no moverlo enchufado y no dejarlo desatendido mientras funciona. No es el equipo para dejar solo toda la noche en el cuarto de un bebé o un chico chico.` },
+      { type: "p", content: `Aparte de esto, la propia ficha técnica de MercadoLibre confirma que NO es silencioso, y no tiene botón de encendido manual (arranca directo al enchufarlo). La luz indicadora azul es potente: varios compradores la tapan con cinta para dormir.` },
+      { type: "pull-quote", content: `Un misil, levanta la humedad al toque, si es para un indoor, yo lo use en 100x100 y voy a tener que ponerle timer porque en 10 min encendido te deja la humedad pipí cucu.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `3. Maverick VP-3 — el más completo en funciones` },
+      { type: "product-card", productMlaId: "MLA27342886", label: "El más silencioso", labelColor: "blue", ranking: 3, description: `4 litros, filtro removible y protección antibacteriana. Silencioso según ficha y reseñas. 4.4 estrellas en 252 calificaciones.` },
+      { type: "p", content: `El único de esta guía con filtro removible y protección antibacteriana, además de silencioso: "casi no hace ruido", confirma una de las reseñas más útiles. Buena opción para dormitorio si además del tanque grande (4 litros) querés esas funciones extra, a alrededor de {{precio:MLA27342886:k}}.` },
+      { type: "p", content: `Lo honesto: la publicación se contradice sobre la temperatura del vapor (la ficha técnica dice "ambiente", la descripción del vendedor dice "caliente") — si te importa el dato con certeza por seguridad, confirmalo con el vendedor antes de comprar. El flotante indicador de agua también "es un poco mentiroso" y se traba si se llena al tope, según una reseña.` },
+      { type: "pull-quote", content: `Estéticamente no es el más hermoso del mercado, pero se la banca. El plástico podría ser mejor, pero cumple bien su función. Casi no hace ruido y larga mucho vapor permitiendo humidificar una habitación bastante rápido.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `4. Daewoo DHU335 — marca reconocida, pocas opiniones` },
+      { type: "product-card", productMlaId: "MLA28103250", label: "Marca reconocida", labelColor: "purple", ranking: 4, description: `3 litros, marca internacional de electrodomésticos. 4.4 estrellas, pero solo 35 calificaciones.` },
+      { type: "p", content: `Para quien prioriza el respaldo de una marca internacional de electrodomésticos por sobre el precio o el volumen de opiniones locales. Vapor frío ultrasónico, buena autonomía declarada (9-10 horas) para sus 3 litros de tanque.` },
+      { type: "p", content: `Lo honesto: con solo 35 calificaciones (contra las 2.221 del Gadnic o las 2.508 del Silfab), el respaldo estadístico es el más chico de la guía. Y cuesta más del doble que el Silfab V12 con menos capacidad de tanque, algo que no se explica solo por la marca. El ruido, según una reseña, no viene del motor sino del agua salpicando al evaporarse.` },
+
+      { type: "h2", title: `Tabla comparativa: humidificadores de ambiente`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Tipo de vapor`, `Silencioso`, `Ideal para`], rows: [
+        [`[Gadnic HM20B](/producto/MLA28531856)`, `{{precio:MLA28531856}}`, `2,2 L`, `Frío (ultrasónico)`, `Sí`, `El más probado, dormitorio chico`],
+        [`[Silfab V12](/producto/MLA35313170)`, `{{precio:MLA35313170}}`, `4 L`, `Caliente (riesgo real, ver manual)`, `No`, `Mayor capacidad al mejor precio, con cuidado`],
+        [`[Maverick VP-3](/producto/MLA27342886)`, `{{precio:MLA27342886}}`, `4 L`, `No confirmado, tratar como caliente`, `Sí`, `Dormitorio, con filtro y antibacteriano`],
+        [`[Daewoo DHU335](/producto/MLA28103250)`, `{{precio:MLA28103250}}`, `3 L`, `Frío (ultrasónico)`, `No especifica`, `Marca reconocida, presupuesto flexible`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu humidificador`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Humidificador o difusor de aroma?` },
+      { type: "p", content: `Antes de mirar marcas, confirmá que el producto sea realmente un humidificador de ambiente y no un difusor de aroma decorativo. La pista más simple es la capacidad del tanque: los difusores de aroma rondan 100-300 ml (apenas unas horas de uso, pensados para un escritorio chico), mientras que un humidificador real arranca en 2 litros o más, como los 4 de esta guía.` },
+      { type: "h3", title: `2. Vapor frío vs. vapor caliente: lo más importante de esta guía` },
+      { type: "p", content: `No todos los humidificadores de ambiente funcionan igual, y la diferencia es de seguridad, no solo de confort. Los humidificadores ultrasónicos (como el Gadnic o el Daewoo) generan neblina fría con un disco vibrador, sin riesgo de quemadura. Los "vaporizadores" con electrodos (como el Silfab V12) calientan el agua por corriente: el manual oficial del fabricante advierte que el equipo puede ocasionar quemaduras si se manipula en funcionamiento, y exige mantenerlo a 1 metro de distancia, no moverlo enchufado y no dejarlo desatendido mientras funciona.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "La ficha de MercadoLibre no siempre avisa esto", content: `El Silfab V12 se vende en MercadoLibre como "humidificador", sin ninguna advertencia de riesgo de quemadura en el título ni en las fotos. Esa información solo aparece en el manual oficial del fabricante. Cuando la ficha técnica de un producto y su descripción se contradicen sobre la temperatura del vapor (como pasa con el Maverick VP-3, "ambiente" en la ficha pero "caliente" en la descripción), lo más seguro es tratarlo como vapor caliente hasta confirmarlo con el vendedor. Con chicos chicos en la casa, este dato pesa más que cualquier otra especificación técnica al momento de comprar.` },
+      { type: "h3", title: `3. ¿Cuánta capacidad necesitás?` },
+      { type: "list", items: [
+        `Dormitorio chico o escritorio, priorizando seguridad: 2,2 litros del Gadnic (vapor frío confirmado) alcanzan de sobra.`,
+        `Living o ambiente grande, sin chicos sueltos cerca: 3-4 litros dan más horas por carga (Silfab, Maverick o Daewoo).`,
+        `Cuarto de un bebé o chico chico, para dejarlo funcionando sin supervisión constante: el Gadnic o el Daewoo, los dos de vapor frío confirmado. El Silfab explícitamente NO es para esto según su propio manual.`,
+      ]},
+      { type: "h3", title: `4. Silencioso o no` },
+      { type: "p", content: `Si vas a dormir con el humidificador prendido en la misma habitación, el silencio importa más que la capacidad. De los 4 de esta guía, el Gadnic y el Maverick están confirmados como silenciosos (por ficha técnica y reseñas); el Silfab, en cambio, no lo es según su propia ficha técnica.` },
+      { type: "h3", title: `5. Mantenimiento básico` },
+      { type: "list", items: [
+        `Gadnic y Daewoo (ultrasónicos): limpiar el tanque cada 2-3 semanas y el disco/baño de agua una vez por semana con un paño suave, según indica el manual del Gadnic.`,
+        `Silfab (electrodos): el fabricante recomienda destornillar la tapa y raspar el sarro de los electrodos con una tela esmeril periódicamente; si el agua tiene poco mineral y vaporiza de menos, se puede agregar hasta medio gramo de sal (nunca más de un gramo).`,
+        `Cualquier modelo: usar agua filtrada o hervida y enfriada si notás "polvillo blanco" en los muebles cercanos, mineral de la canilla que el vapor dispersa en el ambiente.`,
+      ]},
+
+      { type: "h2", title: `Cuánto cuesta un humidificador en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA35313170:k}}:** el más económico, el [Silfab V12 de 4 litros](/producto/MLA35313170), aunque no es silencioso y es de vapor caliente (ver advertencias del fabricante).`,
+        `**Alrededor de {{precio:MLA28531856:k}}:** el más vendido, el [Gadnic HM20B](/producto/MLA28531856), silencioso y de 2,2 litros.`,
+        `**Alrededor de {{precio:MLA27342886:k}}:** el [Maverick VP-3](/producto/MLA27342886), 4 litros con filtro y protección antibacteriana.`,
+        `**Alrededor de {{precio:MLA28103250:k}}:** el [Daewoo DHU335](/producto/MLA28103250), de marca internacional reconocida.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál humidificador comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, y en particular si hay chicos chicos en la casa, el **Gadnic HM20B**: es el más vendido y calificado por lejos, silencioso y de vapor frío confirmado, aunque la autonomía real (18-20 horas a intensidad alta) es menor que la declarada. Si priorizás precio y mayor capacidad de tanque y podés garantizar que va a funcionar lejos del alcance de chicos y sin dejarlo desatendido, el **Silfab V12** de 4 litros es el más barato, aunque no es silencioso y es de vapor caliente (el manual del fabricante advierte riesgo real de quemadura). Para dormitorio con más funciones y sin manual que confirme la temperatura del vapor (tratalo como caliente por las dudas), el **Maverick VP-3** suma filtro removible y protección antibacteriana. Y si preferís una marca internacional reconocida, vapor frío confirmado y no te importa el respaldo más chico de opiniones locales, el **Daewoo DHU335** cumple, aunque cuesta más que el resto con menos capacidad.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor humidificador de ambiente en Argentina?`, answer: `El más vendido y calificado es el Gadnic HM20B, con 2.221 calificaciones y vapor frío confirmado. Si priorizás precio y capacidad y podés garantizar el uso con cuidado (es vapor caliente), el Silfab V12 de 4 litros es el más barato; para más funciones (filtro, antibacteriano), el Maverick VP-3.` },
+      { question: `¿Un humidificador es lo mismo que un difusor de aroma?`, answer: `No. La mayoría de los productos que aparecen al buscar "humidificador" en MercadoLibre son en realidad difusores de aroma decorativos de 100-300 ml. Un humidificador de ambiente real, como los 4 de esta guía, tiene entre 2,2 y 4 litros de tanque.` },
+      { question: `¿Cuántas horas dura un humidificador con el tanque lleno?`, answer: `Depende del modelo y la intensidad: el Gadnic HM20B declara hasta 24 horas pero en la práctica ronda 18-20 a intensidad alta; el Silfab V12 dura 8 horas; el Maverick VP-3 entre 6 y 8; el Daewoo DHU335 entre 9 y 10.` },
+      { question: `¿Es seguro dejarlo toda la noche prendido?`, answer: `Depende del modelo. El Gadnic y el Daewoo son de vapor frío confirmado, sin riesgo de quemadura, y sirven para dejarlos toda la noche. El Silfab es de vapor CALIENTE: su propio manual pide no dejarlo desatendido mientras funciona y no moverlo enchufado, así que no es para dejarlo solo en el cuarto de un chico. El Maverick tiene un dato contradictorio sobre su temperatura de vapor (mejor tratarlo con la misma precaución que el Silfab hasta confirmarlo con el vendedor).` },
+      { question: `¿Por qué aparece un "polvillo blanco" en mis muebles después de usarlo?`, answer: `Es mineral del agua de la canilla (calcio y magnesio) que el vapor dispersa en el ambiente, en los modelos ultrasónicos (Gadnic, Daewoo). Se soluciona usando agua filtrada, destilada o hervida y enfriada en vez de agua de la canilla directa.` },
+      { question: `¿Por qué mi humidificador huele mal si solo le pongo agua limpia?`, answer: `Generalmente es moho o bacterias que se acumulan en el tanque (o el disco ultrasónico, en el Gadnic y el Daewoo) si no se limpia seguido. Conviene seguir la cadencia de limpieza del fabricante: cada 2-3 semanas el tanque, semanal el disco o baño de agua.` },
+      { question: `¿Qué diferencia hay entre vapor frío y vapor caliente?`, answer: `El vapor frío no calienta el agua, así que no hay riesgo de quemadura: el Gadnic y el Daewoo de esta guía lo logran con disco ultrasónico. El vapor caliente hierve el agua antes de liberarla, con riesgo real de quemadura: el Silfab de esta guía funciona así, confirmado por el manual del fabricante. El Maverick tiene un dato contradictorio en la propia publicación (mejor tratarlo como caliente hasta confirmar con el vendedor).` },
+      { question: `¿Cuál conviene para un dormitorio donde duermo liviano?`, answer: `El Gadnic HM20B o el Maverick VP-3, los dos confirmados como silenciosos por ficha técnica y reseñas. El Silfab V12, pese a ser el más barato, no es silencioso según su propia ficha técnica, y además es de vapor caliente.` },
+      { question: `¿Puedo usar agua de la canilla o necesito agua destilada?`, answer: `Se puede usar agua de la canilla, pero en zonas con agua dura genera más "polvillo blanco" (mineral disperso en el ambiente) y acumula sarro más rápido en el disco ultrasónico o los electrodos, según el modelo. Agua filtrada, destilada o hervida y enfriada minimiza los dos problemas y alarga la vida útil del equipo.` },
+      { question: `¿Sirve un humidificador para bebés o para aliviar la congestión?`, answer: `Varias reseñas reales de los productos de esta guía reportan mejoras en la congestión nasal y el sueño de bebés y niños chicos. Para uso en el cuarto de un bebé, priorizá vapor frío confirmado (el Gadnic o el Daewoo de esta guía), nunca el Silfab (vapor caliente, no diseñado para dejar desatendido) ni el Maverick sin confirmar antes con el vendedor. Consultá al pediatra ante cualquier duda de salud: el humidificador alivia síntomas de sequedad ambiental, pero no reemplaza un tratamiento médico.` },
+      { question: `¿Es lo mismo un vaporizador que un humidificador?`, answer: `En las publicaciones de MercadoLibre se usan como sinónimos, pero técnicamente no son lo mismo. Un vaporizador (como el Silfab de esta guía) calienta el agua con electrodos o resistencia hasta producir vapor caliente real. Un humidificador ultrasónico (como el Gadnic o el Daewoo) usa un disco que vibra para generar neblina fría, sin calentar el agua. La única forma de saber cuál es cuál es revisar la ficha técnica o el manual del fabricante, no confiar en el nombre de la publicación.` },
+      { question: `¿Dónde conviene ubicar un humidificador para usarlo seguro?`, answer: `Sobre una superficie plana, firme e impermeable, lejos del paso donde alguien lo pueda tropezar o derribar. Para los de vapor caliente (como el Silfab), el fabricante exige al menos 1 metro de distancia del usuario y ningún chico manipulándolo sin supervisión. Para cualquier tipo, conviene evitar alfombras o muebles de madera muy cerca de la salida de vapor.` },
+    ],
+    internalLinks: [
+      { label: "Estufa eléctrica de bajo consumo: cuál comprar", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
+      { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
     ],
     internalLinksTitle: "Más para el hogar en invierno",
   },

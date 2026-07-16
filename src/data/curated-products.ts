@@ -53815,6 +53815,450 @@ Comprá el Rheem si el consumo eléctrico a largo plazo te importa más que el d
       },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR humidificador — silo climatizacion, categoria "humidificadores"
+  // Origen: research masivo 2026-07-16, keyword "humidificador" 22.200/mes
+  // AR (Ubersuggest locId 2032), SD19, estacional invierno (pico may-jul).
+  // Fuente de sourcing: Bright Data (scrape_as_markdown) sobre
+  // MercadoLibre Argentina, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA28531856",
+    title: "Humidificador de Ambiente Gadnic HM20B Difusor Ultrasónico 2.2L Neblina Continua Boquilla 360°",
+    canonicalName: "Humidificador Gadnic HM20B 2.2L",
+    price: 70299,
+    originalPrice: 117149,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_959929-MLA91555372060_092025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_959929-MLA91555372060_092025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_790250-MLA91555566606_092025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_727690-MLA91555372086_092025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_614479-MLA91954398971_092025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_659393-MLA91555547042_092025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA28531856",
+    affiliateUrl: "https://meli.la/31qDsFS",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 2221,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Gadnic" },
+      { label: "Modelo", value: "HM20B" },
+      { label: "Capacidad del tanque", value: "2,2 litros" },
+      { label: "Temperatura del vapor", value: "Frío (ultrasónico)" },
+      { label: "Tiempo de funcionamiento", value: "Hasta 24 h (según ficha; en la práctica 18-20 h a intensidad media-alta, según reseñas)" },
+      { label: "Cobertura declarada", value: "Hasta 20 m²" },
+      { label: "Apagado automático", value: "Sí, al quedarse sin agua" },
+      { label: "Funcionamiento silencioso", value: "Sí" },
+      { label: "Indicador de poca agua", value: "Sí" },
+      { label: "Boquilla", value: "Giratoria 360°" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Material", value: "ABS de alta calidad" },
+      { label: "Dimensiones", value: "24 cm x 15 cm x 21 cm" },
+      { label: "Colores", value: "Blanco/Celeste" },
+      { label: "Es portátil", value: "Sí" },
+    ],
+    relatedProducts: ["MLA35313170", "MLA28103250", "MLA27342886"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Humidificador de ambiente Gadnic HM20B: el más vendido de Argentina en esta categoría, con 4.7 estrellas en 2.221 calificaciones y más de 10.000 vendidos. Tanque de 2,2 litros, vapor frío ultrasónico y apagado automático.",
+    seoTitle: "Gadnic HM20B: el humidificador más vendido de Argentina",
+    metaDescription: "Gadnic HM20B, el humidificador de ambiente más vendido de Argentina: 2.2L, vapor frío, apagado automático. Precio real y opiniones verificadas.",
+    verdict: "Sirve si querés el humidificador de ambiente con más respaldo de compradores reales del país: 2.221 calificaciones lo confirman. Cumple bien para un dormitorio o living, es silencioso y el apagado automático da tranquilidad de noche. No es para vos si necesitás más de 20 m² de cobertura real o si tenés chicos chiquitos manipulando el equipo sin supervisión: el tanque superior se puede volcar si se lo toma solo de la parte celeste.",
+    pros: [
+      "El más vendido y calificado de la categoría en Argentina: 4.7 estrellas en 2.221 calificaciones, más de 10.000 unidades vendidas",
+      "Apagado automático cuando se queda sin agua, útil para dejarlo toda la noche",
+      "Funcionamiento silencioso confirmado por la ficha técnica y las reseñas",
+      "Boquilla giratoria 360° para dirigir el vapor a donde haga falta",
+      "Vapor frío: sin riesgo de quemadura si hay chicos cerca, a diferencia de los modelos de vapor caliente",
+      "Vendido por tienda oficial (Bidcom), MercadoLíder Platinum, con Factura A",
+    ],
+    cons: [
+      "La autonomía real es menor a la declarada: varios compradores reportan 18-20 horas a intensidad media-alta, no las 24 h del cartel",
+      "El plástico celeste de la parte superior es frágil, según una reseña, si recibe golpes",
+      "El tanque se puede volcar si se lo toma solo de la parte celeste (el agua está en la parte blanca inferior): no es ideal si hay chicos que lo van a mover solos",
+      "La cobertura de 20 m² es la declarada por el fabricante, no verificada de forma independiente",
+      "No tiene control de intensidad graduable más allá de nivel básico (no trae higrostato para automatizar según humedad real del ambiente)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Gadnic HM20B es un humidificador de ambiente ultrasónico de 2,2 litros: convierte agua en una neblina fría fina para elevar la humedad de una habitación, a diferencia de los difusores de aroma chiquitos (100-300 ml) que abundan en la misma categoría de MercadoLibre pero que son decorativos, no pensados para humidificar en serio. Es el modelo con más respaldo real de compradores del país en esta categoría: 2.221 calificaciones y más de 10.000 unidades vendidas.
+
+## Cómo funciona
+
+Usa tecnología ultrasónica: un disco vibra a alta frecuencia y rompe el agua del tanque en microgotas que salen como neblina fría por la boquilla giratoria de 360°. No calienta el agua, así que no hay riesgo de quemadura, algo que sí aplica a los humidificadores de vapor caliente. El apagado automático corta el equipo solo cuando se queda sin agua, pensado para dejarlo funcionando de noche sin supervisión.
+
+## La contra real
+
+La ficha técnica promete 24 horas de funcionamiento continuo, pero las reseñas más útiles matizan ese número: a intensidad media-alta, la autonomía real ronda las 18-20 horas, no el máximo declarado. También hay un tema de manejo: el tanque de agua está en la base blanca inferior, separada de la carcasa celeste superior, y si se toma el equipo solo de la parte de arriba se puede volcar el agua. Una reseña lo marca explícito como un problema si hay chicos que lo mueven solos. El plástico celeste, según otra reseña, es frágil ante golpes.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Silfab V12 (4 litros, más barato), el Gadnic tiene menos capacidad de tanque pero muchas más calificaciones reales y un diseño más compacto para dormitorio. Frente al Maverick VP-3 (también 4 litros, con más funciones como filtro removible y protección antibacteriana), el Gadnic es más simple pero más probado en el mercado argentino. Frente al Daewoo DHU335, el Gadnic tiene una base de opiniones muchísimo más grande (2.221 contra 35), aunque el Daewoo tiene mayor potencia de transpiración declarada.
+
+## Para quién sí y para quién no
+
+Comprá el Gadnic HM20B si buscás el modelo más probado del país para un dormitorio u oficina, priorizás vapor frío por seguridad y no necesitás cubrir un ambiente grande. No es la mejor opción si tenés un living amplio (más de 20 m²) o buscás mayor capacidad de tanque para no recargar seguido: ahí el Silfab V12 o el Maverick VP-3 de esta misma guía, con 4 litros cada uno, rinden más horas por carga.`,
+    faq: [
+      {
+        question: "¿Cuántas horas dura realmente el Gadnic HM20B con un tanque lleno?",
+        answer: "La ficha técnica declara hasta 24 horas, pero varias reseñas confirman que a intensidad media-alta la autonomía real ronda las 18-20 horas. A intensidad baja se acerca más a las 24 h declaradas.",
+      },
+      {
+        question: "¿El vapor es frío o caliente?",
+        answer: "Frío. Usa tecnología ultrasónica que no calienta el agua, así que no hay riesgo de quemadura si hay chicos cerca, a diferencia de los humidificadores de vapor caliente.",
+      },
+      {
+        question: "¿Es seguro dejarlo toda la noche encendido?",
+        answer: "Sí, tiene apagado automático cuando se queda sin agua. El punto a cuidar no es de noche encendido, sino al trasladarlo: si se lo toma solo de la parte celeste superior (separada del tanque de agua en la base blanca), se puede volcar.",
+      },
+      {
+        question: "¿Para cuántos metros cuadrados alcanza?",
+        answer: "El fabricante declara hasta 20 m², un dato no verificado de forma independiente. Para ambientes más grandes, conviene un modelo de mayor capacidad como el Silfab V12 o el Maverick VP-3 de esta guía.",
+      },
+      {
+        question: "¿Por qué tiene tantas más calificaciones que otros humidificadores?",
+        answer: "Con 2.221 calificaciones y más de 10.000 vendidos, es el modelo más elegido de la categoría en Argentina, vendido por una tienda oficial de MercadoLibre con volumen alto de ventas (más de 1 millón).",
+      },
+      {
+        question: "¿Es lo mismo que un difusor de aroma?",
+        answer: "No. Muchos productos que aparecen al buscar 'humidificador' en MercadoLibre son en realidad difusores de aroma decorativos de 100-300 ml, con foco en aromaterapia y luces LED. El Gadnic HM20B, con 2,2 litros, está pensado para elevar la humedad real de una habitación.",
+      },
+    ],
+  },
+  {
+    id: "MLA35313170",
+    title: "Vaporizador Humidificador de Ambientes Silfab V12 4 Litros Blanco",
+    canonicalName: "Humidificador Silfab V12 4L",
+    price: 49382,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_812782-MLA84852627509_052025-O.webp",
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA35313170",
+    affiliateUrl: "https://meli.la/2YXbPRz",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.5,
+    reviewCount: 2508,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Silfab" },
+      { label: "Fabricante", value: "Silvestrin Fabris S.R.L. (industria argentina)" },
+      { label: "Modelo", value: "V12" },
+      { label: "Capacidad del tanque", value: "4 litros" },
+      { label: "Temperatura del vapor", value: "Caliente — riesgo real de quemadura, confirmado por el manual del fabricante" },
+      { label: "Tecnología", value: "Electrodos de acero inoxidable (calienta el agua por corriente, no es ultrasónico)" },
+      { label: "Autonomía", value: "8 horas continuas (aproximado)" },
+      { label: "Alimentación", value: "220-240V ~ 50/60Hz" },
+      { label: "Potencia", value: "500 W" },
+      { label: "Clase eléctrica", value: "II" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Indicador de poca agua", value: "Sí" },
+      { label: "Difusor aromático", value: "Sí (el fabricante recomienda consultar a un profesional de la salud antes de usar aceites esenciales con niños o embarazadas)" },
+      { label: "Funcionamiento silencioso", value: "No (la ficha técnica lo indica explícito)" },
+      { label: "Encendido", value: "Directo al enchufar, sin botón de encendido/apagado manual" },
+      { label: "Dimensiones", value: "29,5 cm x 16,2 cm x 23,5 cm" },
+      { label: "Peso", value: "810 g" },
+      { label: "Color", value: "Blanco" },
+      { label: "Certificación", value: "Bureau Veritas (reconocimiento de marca N.° BVA/E/0123-22)" },
+      { label: "Vida útil estimada", value: "3 años (según el fabricante, sujeto a disponibilidad de repuestos)" },
+      { label: "Garantía", value: "1 año de fábrica" },
+    ],
+    relatedProducts: ["MLA28531856", "MLA28103250", "MLA27342886"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Vaporizador Silfab V12: 4 litros de capacidad al mejor precio de esta guía, fabricado en Argentina. Es de vapor CALIENTE (no frío como un humidificador ultrasónico) y el manual del fabricante advierte riesgo real de quemadura si se manipula en funcionamiento.",
+    seoTitle: "Silfab V12: el vaporizador de 4 litros más económico",
+    metaDescription: "Silfab V12: vaporizador de 4 litros al mejor precio, fabricado en Argentina. Es vapor caliente (no frío): mirá las advertencias del fabricante antes de comprar.",
+    verdict: "Sirve si priorizás precio y capacidad de tanque (4 litros, el mayor de esta guía junto al Maverick) y podés cumplir las condiciones de uso del fabricante: mantenerlo a 1 metro de distancia, no moverlo enchufado y no dejarlo desatendido mientras funciona. No es para vos si buscás un vapor frío sin riesgo de quemadura (ahí el Gadnic HM20B o el Daewoo DHU335 de esta guía, ambos ultrasónicos, son la opción correcta) o si tenés chicos chiquitos sueltos cerca del equipo.",
+    pros: [
+      "El más económico de esta guía con la mayor capacidad de tanque junto al Maverick (4 litros)",
+      "2.508 calificaciones reales, la base de opiniones más grande de esta guía",
+      "Fabricado en Argentina (Silvestrin Fabris S.R.L.), con certificación Bureau Veritas y manual de uso completo en español",
+      "Sube la humedad del ambiente muy rápido, según múltiples reseñas",
+      "Indicador de poca agua y apagado automático",
+      "Mantenimiento de los electrodos documentado paso a paso por el fabricante (se puede hacer en casa con una tela esmeril)",
+    ],
+    cons: [
+      "Es de VAPOR CALIENTE, no frío: el propio manual del fabricante dice que el equipo \"no ha sido diseñado para proporcionar vapor directamente al usuario ya que puede ocasionarle quemaduras\" — a diferencia del Gadnic HM20B y el Daewoo DHU335 de esta guía, que son ultrasónicos y de vapor frío",
+      "El fabricante exige mantenerlo a 1 metro del usuario, no moverlo mientras está enchufado y no dejarlo desatendido mientras funciona: no es para dejarlo solo toda la noche en un cuarto con chicos",
+      "La ficha técnica confirma explícito que NO es silencioso",
+      "No tiene botón de encendido/apagado manual: se prende directo al enchufarlo",
+      "La luz indicadora azul es potente y puede molestar para dormir (varios compradores la tapan con cinta)",
+      "En ambientes chicos (un baño, una habitación de 3x3) puede subir la humedad a un nivel incómodo en 10-15 minutos si se deja a máxima potencia",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Silfab V12 es un vaporizador de 4 litros fabricado en Argentina por Silvestrin Fabris S.R.L., el de mayor capacidad de tanque de esta guía junto al Maverick VP-3 y el más barato de los cuatro comparados. Tiene la base de opiniones más grande de esta guía (2.508 calificaciones). Es la opción típica para quien prioriza precio y autonomía, siempre que pueda cumplir las condiciones de uso que exige el fabricante.
+
+## Cómo funciona (y por qué es distinto a un humidificador ultrasónico)
+
+A diferencia del Gadnic HM20B o el Daewoo DHU335 de esta guía, que usan un disco ultrasónico para generar una neblina fría, el Silfab V12 calienta el agua mediante dos electrodos de acero inoxidable sumergidos: la corriente pasa entre ellos y hierve el agua, generando vapor caliente real. Es la misma familia de producto que en Argentina se conoce como "vaporizador" (y que tradicionalmente se usaba para inhalaciones), no un "humidificador ultrasónico". No tiene botón de encendido: arranca directo al enchufarlo.
+
+## La contra real: acá el vapor quema
+
+Esto no es una opinión, es lo que dice el propio manual del fabricante: "el equipo no ha sido diseñado para proporcionar vapor directamente al usuario ya que puede ocasionarle quemaduras". El manual pide explícitamente no tocar ni acercar ninguna parte del cuerpo a la salida de vapor durante el funcionamiento y varios minutos después de apagarlo (el recipiente queda caliente), mantenerlo a un metro de distancia del usuario, no moverlo mientras está enchufado y no dejarlo desatendido mientras funciona. También recomienda ventilar la habitación periódicamente, porque el exceso de humedad puede condensarse en las paredes. Ninguna de estas advertencias aparece en la publicación de MercadoLibre: salen del manual oficial del fabricante.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Gadnic HM20B y el Daewoo DHU335 (ambos vapor frío ultrasónico, sin riesgo de quemadura), el Silfab es más barato y de mayor capacidad, pero exige mucho más cuidado en el uso. Frente al Maverick VP-3 (también de 4 litros, con datos contradictorios sobre su propia temperatura de vapor), el Silfab es más barato pero tiene la ventaja de que su fabricante SÍ publica un manual claro con las condiciones de seguridad, algo que ni el Maverick ni el Daewoo ofrecen.
+
+## Mantenimiento real (según el manual del fabricante)
+
+El fabricante recomienda limpiar los electrodos periódicamente para eliminar el sarro: se destornilla la tapa, se raspa la superficie de los electrodos con una tela esmeril y se vuelve a armar, un procedimiento documentado paso a paso en el manual. Si el agua de tu zona tiene poco contenido mineral y el equipo vaporiza poco, el fabricante sugiere agregar hasta medio gramo de sal (media cucharita) al agua, nunca más de un gramo. La vida útil estimada del equipo es de 3 años.
+
+## Para quién sí y para quién no
+
+Comprá el Silfab V12 si el precio y la capacidad de tanque son lo primero, entendés que es vapor caliente (no frío) y podés garantizar que va a funcionar lejos del alcance de chicos y sin dejarlo desatendido. No es para vos si buscás un equipo para dejar toda la noche sin supervisión en la habitación de un bebé o de un chico chico: para eso, el Gadnic HM20B o el Daewoo DHU335 de esta guía, los dos de vapor frío verificado, son la opción correcta.`,
+    faq: [
+      {
+        question: "¿El Silfab V12 es de vapor frío o caliente?",
+        answer: "Es de VAPOR CALIENTE. El manual oficial del fabricante (Silvestrin Fabris S.R.L.) dice explícito que el equipo \"no ha sido diseñado para proporcionar vapor directamente al usuario ya que puede ocasionarle quemaduras\". Es distinto al Gadnic HM20B y al Daewoo DHU335 de esta guía, que son ultrasónicos y de vapor frío.",
+      },
+      {
+        question: "¿Es seguro para una habitación con chicos?",
+        answer: "El fabricante exige mantenerlo a 1 metro del usuario, no moverlo mientras está enchufado y no dejarlo desatendido mientras funciona. No es el equipo indicado para dejarlo solo toda la noche en el cuarto de un bebé o un chico chico sin supervisión.",
+      },
+      {
+        question: "¿El Silfab V12 es silencioso?",
+        answer: "No. La ficha técnica de MercadoLibre lo confirma explícito: no tiene funcionamiento silencioso.",
+      },
+      {
+        question: "¿Cómo se enciende y apaga?",
+        answer: "No tiene botón de encendido/apagado manual: arranca directo al enchufarlo y se detiene al desenchufarlo o cuando se activa el apagado automático por poca agua.",
+      },
+      {
+        question: "¿Cómo se limpia y hace mantenimiento?",
+        answer: "El manual del fabricante indica limpiar el tanque y desarmar la tapa para raspar el sarro de los electrodos con una tela esmeril, un procedimiento documentado paso a paso. Si el agua de tu zona tiene poco mineral y vaporiza poco, se puede agregar hasta medio gramo de sal al agua (nunca más de un gramo).",
+      },
+      {
+        question: "¿Cuánto dura con el tanque lleno?",
+        answer: "8 horas de funcionamiento continuo aproximadas, según el fabricante.",
+      },
+      {
+        question: "¿Tiene difusor de aromas?",
+        answer: "Sí, admite un compartimiento para sustancias aromáticas. El fabricante recomienda consultar a un profesional de la salud antes de usar aceites esenciales si hay alergias, niños o embarazadas en la casa.",
+      },
+    ],
+  },
+  {
+    id: "MLA28103250",
+    title: "Humidificador Vaporizador Ambiente Ultrasónico Daewoo DHU335 Blanco y Azul",
+    canonicalName: "Humidificador Daewoo DHU335",
+    price: 123999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_707265-MLU72785276718_112023-F.webp",
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA28103250",
+    affiliateUrl: "https://meli.la/2VW9JAS",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.4,
+    reviewCount: 35,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Daewoo" },
+      { label: "Modelo", value: "DHU335" },
+      { label: "Capacidad del tanque", value: "3 litros" },
+      { label: "Autonomía", value: "9-10 horas continuas (hasta 10 h declaradas)" },
+      { label: "Potencia", value: "30 W" },
+      { label: "Velocidad de transpiración", value: "300-350 ml/h" },
+      { label: "Tipo", value: "Ultrasónico, vapor frío" },
+      { label: "Apagado automático", value: "Sí, al vaciarse el tanque" },
+      { label: "Boquilla", value: "Ajustable en dirección" },
+      { label: "Material", value: "Plástico" },
+      { label: "Colores", value: "Blanco y azul" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA28531856", "MLA35313170", "MLA27342886"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Humidificador Daewoo DHU335: marca internacional reconocida, vapor frío ultrasónico y buena autonomía (9-10 horas), pero con una base de opiniones bastante más chica (35) que el resto de esta guía.",
+    seoTitle: "Daewoo DHU335: humidificador de marca reconocida, ¿vale el precio?",
+    metaDescription: "Daewoo DHU335: humidificador ultrasónico de marca conocida, vapor frío y 300-350 ml/h. Precio real, pocas opiniones (35) y contras honestas.",
+    verdict: "Sirve si preferís pagar más por el respaldo de una marca de electrodomésticos reconocida internacionalmente y no te molesta que el respaldo de opiniones en Argentina sea chico (35 calificaciones). No es la opción más razonable en relación precio-respaldo: cuesta más del doble que el Silfab V12 con menos capacidad de tanque (3 litros contra 4) y muchísimas menos calificaciones reales.",
+    pros: [
+      "Marca internacional reconocida en electrodomésticos, con trayectoria fuera de la categoría de humidificadores",
+      "Vapor frío ultrasónico, sin riesgo de quemadura",
+      "Buena autonomía declarada (9-10 horas) para su capacidad de 3 litros",
+      "Apagado automático al vaciarse el tanque",
+      "Boquilla con dirección ajustable",
+    ],
+    cons: [
+      "Solo 35 calificaciones: la base de opiniones más chica de toda esta guía, un dato a considerar antes de confiar en el promedio",
+      "El precio (más del doble que el Silfab V12) no se explica por mayor capacidad: tiene menos litros de tanque (3 contra 4)",
+      "El ruido no viene del motor sino del agua salpicando al evaporarse, según una reseña, algo molesto de noche",
+      "La luz indicadora también molesta para dormir, según reseñas, igual que en el Silfab",
+      "El manual de instrucciones está mal traducido y no coincide con el producto real, según un comprador",
+      "Garantía de fábrica de solo 6 meses, la más corta de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Daewoo DHU335 es un humidificador ultrasónico de vapor frío, con la marca internacional de electrodomésticos más reconocida de las cuatro comparadas en esta guía. Tiene una capacidad de 3 litros y una autonomía declarada de 9 a 10 horas. Es la opción para quien prioriza el nombre de marca por sobre el precio o el respaldo de opiniones locales.
+
+## Cómo funciona
+
+Igual que el Gadnic, usa tecnología ultrasónica (disco vibrador) para convertir agua en neblina fría, con una velocidad de transpiración declarada de 300 a 350 ml por hora. El apagado automático corta el equipo cuando se vacía el tanque. La boquilla permite ajustar la dirección de salida del vapor.
+
+## La contra real
+
+Acá el dato más honesto es el volumen de opiniones: apenas 35 calificaciones, muy por debajo de las 2.221 del Gadnic o las 2.508 del Silfab de esta misma guía. Con una base tan chica, el promedio de 4.4 estrellas pesa menos como garantía estadística. A eso se suma que el precio es más del doble que el Silfab V12 pese a tener menos capacidad de tanque (3 litros contra 4), algo que no se justifica solo por la marca. Las reseñas disponibles también señalan un ruido particular: no es el motor, sino el agua salpicando al evaporarse, y el manual de instrucciones viene mal traducido y no coincide del todo con el producto real.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Gadnic HM20B y el Silfab V12, el Daewoo cuesta bastante más y tiene menos capacidad que el Silfab, con una fracción de sus opiniones reales. Frente al Maverick VP-3, que también ronda un precio alto pero con 252 calificaciones (siete veces más que el Daewoo) y mayor capacidad (4 litros), el Daewoo queda como la opción menos conveniente en relación precio-respaldo de esta guía.
+
+## Para quién sí y para quién no
+
+Comprá el Daewoo DHU335 si el nombre de marca reconocida internacionalmente pesa más para vos que el precio o el volumen de opiniones verificadas en Argentina. No es la compra más razonable si buscás la mejor relación precio-calidad-respaldo: ahí el Silfab V12 o el Maverick VP-3 de esta misma guía, más baratos o con más opiniones, rinden mejor.`,
+    faq: [
+      {
+        question: "¿Por qué el Daewoo DHU335 tiene tan pocas opiniones comparado con los otros de esta guía?",
+        answer: "Es un modelo con menor volumen de ventas en la categoría de humidificadores en Argentina: 35 calificaciones contra las 2.221 del Gadnic HM20B o las 2.508 del Silfab V12. No significa que sea peor producto, pero sí que el respaldo estadístico es mucho menor.",
+      },
+      {
+        question: "¿Vale la pena pagar más del doble que el Silfab V12?",
+        answer: "Depende de qué priorices. El Daewoo tiene menos capacidad de tanque (3 litros contra 4) y muchas menos opiniones reales. La diferencia de precio se explica principalmente por el reconocimiento de marca, no por especificaciones superiores.",
+      },
+      {
+        question: "¿Hace ruido?",
+        answer: "Según una reseña, el ruido no viene del motor sino del agua salpicando al evaporarse, algo que puede molestar de noche. También reportan que la luz indicadora conviene taparla para dormir.",
+      },
+      {
+        question: "¿El vapor es frío o caliente?",
+        answer: "Frío. Usa tecnología ultrasónica (disco vibrador) sin calentar el agua, igual que el Gadnic. Es distinto del Silfab de esta misma guía, que es vapor caliente confirmado por el manual del fabricante, y del Maverick, que tiene un dato contradictorio sobre su temperatura de vapor.",
+      },
+      {
+        question: "¿Cuánto dura la garantía?",
+        answer: "6 meses de fábrica, la garantía más corta de los cuatro humidificadores comparados en esta guía.",
+      },
+    ],
+  },
+  {
+    id: "MLA27342886",
+    title: "Maverick Humidificador de Ambiente VP-3 4 Litros Blanco",
+    canonicalName: "Humidificador Maverick VP-3 4L",
+    price: 82079,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_741022-MLU72022125529_092023-F.webp",
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/p/MLA27342886",
+    affiliateUrl: "https://meli.la/1B4Masb",
+    condition: "new",
+    freeShipping: false,
+    rating: 4.4,
+    reviewCount: 252,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Maverick" },
+      { label: "Línea", value: "Bienestar" },
+      { label: "Modelo", value: "VP-3" },
+      { label: "Capacidad del tanque", value: "4 litros" },
+      { label: "Autonomía", value: "6-8 horas (la ficha técnica declara 6 h; la descripción del vendedor dice 6-8 h)" },
+      { label: "Potencia", value: "520 W (según descripción del vendedor)" },
+      { label: "Temperatura del vapor", value: "Ambiente (la ficha técnica formal dice 'Ambiente', pese a que la descripción lo llama 'vapor caliente': no confirmar temperatura sin verificar con el vendedor)" },
+      { label: "Cobertura declarada", value: "Hasta 50 m² (mencionado en la descripción, no en la ficha técnica formal)" },
+      { label: "Funcionamiento silencioso", value: "Sí" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Difusor aromático", value: "Sí" },
+      { label: "Antibacteriana", value: "Sí" },
+      { label: "Filtro removible", value: "Sí" },
+      { label: "Dimensiones", value: "23 cm alto x 30 cm ancho x 16 cm profundo" },
+      { label: "Color", value: "Blanco" },
+      { label: "Garantía", value: "12 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA28531856", "MLA35313170", "MLA28103250"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Humidificador Maverick VP-3: 4 litros, silencioso y con filtro removible y protección antibacteriana. El más completo en funciones de esta guía, con 252 calificaciones reales.",
+    seoTitle: "Maverick VP-3: el humidificador más silencioso de 4 litros",
+    metaDescription: "Maverick VP-3, humidificador de 4 litros silencioso con filtro y protección antibacteriana. 252 opiniones reales, precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás el humidificador más completo en funciones de esta guía: 4 litros, silencioso, con filtro removible y protección antibacteriana. Pero atención: la publicación se contradice sobre la temperatura del vapor (la ficha técnica dice 'ambiente', la descripción dice 'caliente'), así que conviene ubicarlo con la misma precaución que un equipo de vapor caliente (al menos 1 metro de distancia, no dejarlo desatendido) hasta confirmarlo con el vendedor, sobre todo si es para el cuarto de un bebé o un chico chico. No es para vos si buscás el precio más bajo (el Silfab V12 es más barato con la misma capacidad) o si necesitás la certeza total de que es vapor frío: para eso, el Gadnic HM20B o el Daewoo DHU335 de esta guía están confirmados.",
+    pros: [
+      "Silencioso, confirmado tanto por la ficha técnica como por las reseñas ('casi no hace ruido')",
+      "4 litros de capacidad, el máximo de esta guía junto al Silfab V12",
+      "Filtro removible y protección antibacteriana, funciones que no traen el Gadnic ni el Silfab de esta guía",
+      "252 calificaciones reales, una base sólida sin ser la más grande de esta guía",
+      "Varios compradores lo usan para aliviar congestión y bronquitis, con buenos resultados reportados",
+    ],
+    cons: [
+      "Contradicción real en la fuente: la ficha técnica formal dice 'Temperatura del vapor: Ambiente', pero la descripción del vendedor lo llama 'vapor caliente'. No confirmar la temperatura del vapor sin chequear directo con el vendedor antes de comprar, sobre todo si hay chicos en la casa",
+      "El indicador de nivel de agua (flotante) 'es un poco mentiroso' y se puede trabar si se llena el tanque hasta el tope, según una reseña",
+      "La terminación en plástico no es la más prolija, según una reseña ('no es el más hermoso del mercado')",
+      "Hay una inconsistencia menor entre la potencia declarada en la ficha (520 W) y otros datos de la publicación",
+      "Más caro que el Silfab V12 con la misma capacidad de tanque (4 litros)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Maverick VP-3 es un humidificador de 4 litros de la línea Bienestar, el más completo en funciones de esta guía: suma filtro removible y protección antibacteriana, algo que ni el Gadnic ni el Silfab de esta misma comparativa traen. Es la opción para quien prioriza silencio y funciones extra por sobre el precio más bajo.
+
+## Cómo funciona
+
+Con 4 litros de tanque y una autonomía de 6 a 8 horas según la fuente que se mire (la ficha técnica formal declara 6 horas; la descripción del vendedor dice 6-8), es silencioso tanto según su ficha técnica como según las reseñas: "casi no hace ruido", dice una de las más útiles. El filtro removible y la protección antibacteriana son dos funciones que lo diferencian del resto de esta guía.
+
+## La contra real (y una advertencia sobre la fuente)
+
+Hay una contradicción real dentro de la misma publicación que conviene señalar con honestidad: la ficha técnica formal de MercadoLibre dice "Temperatura del vapor: Ambiente", pero la descripción en prosa del vendedor lo llama "Vaporizador Humidificador de Vapor Caliente". Son dos afirmaciones distintas sobre el mismo dato, y no vamos a inventar cuál es la correcta: si te importa saber con certeza si el vapor sale frío o caliente (por ejemplo, por seguridad con chicos en la casa), confirmalo directo con el vendedor antes de comprar. Aparte de esto, una reseña señala que el flotante indicador de nivel de agua "es un poco mentiroso" y se puede trabar si se llena el tanque hasta el tope, así que conviene no llenarlo al máximo.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al Silfab V12 (misma capacidad de 4 litros, más barato), el Maverick gana en silencio y en funciones (filtro, antibacteriano) pero pierde en precio. Frente al Gadnic HM20B, el Maverick tiene casi el doble de capacidad de tanque. Frente al Daewoo DHU335, el Maverick tiene siete veces más calificaciones reales (252 contra 35) a un precio más bajo.
+
+## Para quién sí y para quién no
+
+Comprá el Maverick VP-3 si querés el paquete más completo de funciones (silencioso, filtro, antibacteriano) en la mayor capacidad de tanque de esta guía, y no te molesta pagar un poco más que el Silfab. No es para vos si el precio es lo primero (el Silfab V12 tiene la misma capacidad más barato) o si necesitás confirmar con total certeza si el vapor es frío o caliente antes de comprar: para eso, conviene consultar directo al vendedor.`,
+    faq: [
+      {
+        question: "¿El Maverick VP-3 tira vapor frío o caliente?",
+        answer: "La publicación se contradice: la ficha técnica formal dice 'Temperatura del vapor: Ambiente', pero la descripción del vendedor lo llama 'vapor caliente'. Antes de comprar, sobre todo si hay chicos en la casa, conviene confirmar este dato directo con el vendedor.",
+      },
+      {
+        question: "¿Es silencioso?",
+        answer: "Sí, tanto la ficha técnica como las reseñas lo confirman: 'casi no hace ruido', según una de las opiniones más útiles.",
+      },
+      {
+        question: "¿Trae filtro?",
+        answer: "Sí, filtro removible y protección antibacteriana, dos funciones que no traen el Gadnic HM20B ni el Silfab V12 de esta guía.",
+      },
+      {
+        question: "¿Cuánto dura con el tanque lleno?",
+        answer: "Entre 6 y 8 horas según la fuente: la ficha técnica formal declara 6 horas, mientras que la descripción del vendedor menciona 6-8 horas.",
+      },
+      {
+        question: "¿El indicador de agua es confiable?",
+        answer: "Con matices: una reseña indica que el flotante 'es un poco mentiroso' y se puede trabar si se llena el tanque hasta el tope. Conviene no llenarlo al máximo para evitar el problema.",
+      },
+      {
+        question: "¿Para cuántos metros cuadrados alcanza?",
+        answer: "La descripción del vendedor menciona hasta 50 m², aunque ese dato no figura en la ficha técnica formal del producto.",
+      },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

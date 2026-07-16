@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "termo",
+    "avg_monthly_searches": 22200,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 45.25,
+    "high_top_bid": 589.44
+  },
+  {
+    "keyword": "cabeza de termo",
+    "avg_monthly_searches": 1000,
+    "competition": "LOW",
+    "competition_index": 0,
+    "low_top_bid": 0.0,
+    "high_top_bid": 0.0
+  },
+  {
+    "keyword": "termo plástico",
+    "avg_monthly_searches": 720,
+    "competition": "LOW",
+    "competition_index": 22,
+    "low_top_bid": 213.95,
+    "high_top_bid": 1066.17
+  },
+  {
+    "keyword": "termo plasticos",
+    "avg_monthly_searches": 210,
+    "competition": "HIGH",
+    "competition_index": 99,
+    "low_top_bid": 29.56,
+    "high_top_bid": 258.48
+  },
+  {
+    "keyword": "termo boca",
+    "avg_monthly_searches": 90,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 19.11,
+    "high_top_bid": 189.3
+  },
+  {
+    "keyword": "termostático",
+    "avg_monthly_searches": 50,
+    "competition": "MEDIUM",
+    "competition_index": 34,
+    "low_top_bid": 0.0,
+    "high_top_bid": 0.0
+  },
+  {
+    "keyword": "termo m",
+    "avg_monthly_searches": 40,
+    "competition": "HIGH",
+    "competition_index": 79,
+    "low_top_bid": 85.6,
+    "high_top_bid": 1370.95
+  },
+  {
+    "keyword": "termo para",
+    "avg_monthly_searches": 30,
+    "competition": "HIGH",
+    "competition_index": 100,
+    "low_top_bid": 49.02,
+    "high_top_bid": 436.57
+  },
+  {
+    "keyword": "termo e",
+    "avg_monthly_searches": 20,
+    "competition": "MEDIUM",
+    "competition_index": 52,
+    "low_top_bid": 0.0,
+    "high_top_bid": 0.0
+  },
+  {
+    "keyword": "termo que es",
+    "avg_monthly_searches": 20,
+    "competition": "LOW",
+    "competition_index": 0,
+    "low_top_bid": 0.0,
+    "high_top_bid": 0.0
+  }
+]

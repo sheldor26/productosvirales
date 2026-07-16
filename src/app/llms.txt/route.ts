@@ -60,7 +60,7 @@ export function GET(): Response {
 
   const text = `# ProductosVirales
 
-> Curador independiente de productos virales de MercadoLibre Argentina. Publicamos guías de compra honestas (con contras, no solo pros) y fichas de producto con precios reales en ARS actualizados vía la API oficial de MercadoLibre. Monetizamos con links de afiliado; toda guía incluye disclosure. Idioma: español (Argentina). Última actualización de contenido: ${lastUpdated}.
+> Curador independiente de productos virales de MercadoLibre Argentina. Publicamos guías de compra honestas (con contras, no solo pros) y fichas de producto con precios reales en ARS actualizados periódicamente. Monetizamos con links de afiliado; toda guía incluye disclosure. Idioma: español (Argentina). Última actualización de contenido: ${lastUpdated}.
 
 ## Sobre el sitio
 

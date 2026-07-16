@@ -312,9 +312,26 @@ Medir junto con las 3 guías de cocina: ~2026-08-01.
 
 ---
 
+**Segunda pasada sobre `mejores-perfumes-arabes-hombre` y `perfumes-arabes-mujer` (2026-07-16).** Ambas ya habían pasado por la tanda del 2026-06-26 (ver baseline arriba) y funcionó: en el snapshot de 28 días al 2026-07-14, hombre pasó a 3.689 impr / 41 clicks / pos 8.83 y mujer a 5.416 impr / 93 clicks / pos 8.91 (ver medición completa abajo). Esta segunda pasada no tocó estructura, apuntó a dos gaps puntuales detectados en GSC: (1) `mejores-perfumes-arabes-hombre` tenía su keyword más grande ("perfume arabe hombre", 18.100/mes según Ubersuggest y Keyword Planner cruzados) en pos 11.3 con 0 clicks — el seoTitle no tenía ningún numeral, mientras que los competidores que rankean arriba (incluso con DA1, igual al nuestro) todos usan uno ("10 Mejores...", "Top 10..."); se reescribió a "Perfume árabe hombre: los 15 mejores de Argentina 2026" (54 car., keyword al inicio + numeral). (2) La query "perfumes árabes de hombre top 10" ya estaba en página 1 (pos 7.7) con 0 clicks — mismo fix de título cubre el gap. (3) Ninguna de las dos guías tenía el campo `directAnswer` (las guías pilar sí lo tienen); se agregó a ambas. (4) Se reforzaron los anchors del pillar `perfumes-arabes` con la keyword exacta ("Perfume árabe hombre: los 15 mejores" / "Perfume árabe de mujer: las 12 mejores").
+
+5 pasadas de auditoría con el trío, no 2 — todo el hallazgo real fue en `mejores-perfumes-arabes-hombre` (mujer y el pillar dieron GO desde la ronda 1 y no se volvieron a tocar). El patrón fue el mismo problema apareciendo en capas: el `directAnswer` nuevo llamaba a Asad Intense "el más probado del catálogo" y recomendaba Afnan 9PM para oficina, pero el propio cuerpo de la guía (preexistente, no escrito en esta pasada) dice que Bharara King (11.532 reseñas) y Hawas Ice (9.144) superan a Asad Intense (7.245) en volumen, y que un 9PM a las 10am "es demasiado" para oficina. Corregir el `directAnswer` (ronda 1) destapó que la MISMA contradicción ya vivía, sin que nadie la hubiera notado, en otros 5 lugares preexistentes de la guía: la tabla comparativa, dos preguntas de FAQ distintas, la sección de Khamrah Qahwa y la sección de Bharara King — cada ronda de Codex encontraba uno o dos que la ronda anterior no había tocado. Se corrigieron los 6 lugares en total, más un error de marca preexistente encontrado de paso ("Oficialmente Afnan informa 13 horas" en la sección de un producto Lattafa, cuando Asad es de Lattafa no de Afnan). Verificación final con un grep exhaustivo de toda mención de "9PM" en la guía para confirmar que no quedaba ninguna recomendación de día/oficina apuntando a él. Ronda 5 (última): GO limpio de Codex y de Gemini, sin bloqueantes ni hallazgos nuevos en ninguna de las tres guías — cierre confirmado por el trío, no solo por criterio propio. `guides:check` y `npm run build` verdes en las 5 pasadas.
+
+Re-medir junto con el resto del silo perfumes-arabes: ~2026-08-13 (4 semanas).
+
+---
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).
+
+### Medición 2026-07-16 (snapshot `scripts/gsc/`, 28 días al 2026-07-14 — no es el export de 3 meses del baseline, ventana distinta, lectura direccional)
+
+Confirma que la tanda del 2026-06-26 funcionó en estas dos guías antes de la segunda pasada de arriba:
+
+| Slug | Impr (antes→ahora) | Clicks (antes→ahora) | Pos (antes→ahora) | Lectura |
+| :-- | :-- | :-- | :-- | :-- |
+| mejores-perfumes-arabes-hombre | 1262 → 3689 | 14 → 41 | 9.97 → 8.83 | +193% clicks, subió casi 1.2 posiciones |
+| perfumes-arabes-mujer | 1075 → 5416 | 10 → 93 | 18.18 → 8.91 | +830% clicks, salió de página 2 |
 
 ### Próxima medición agendada: ~2026-07-24 (≈4 semanas)
 
