@@ -9,6 +9,84 @@
 
 ## 2026-07-17
 
+- 🔴 SIN STOCK — **MLA47305608** Parlante Portátil 2 en 1 Stromberg Mega Twin Ipx4 Bluetooth Verde lima Usb-c
+  - ML: https://www.mercadolibre.com.ar/parlante-stromberg-megatwin-2-en-1-20w-verde/up/MLAU4175865451
+  - Sitio: https://productosvirales.com.ar/producto/MLA47305608
+- 🟢 VOLVIO EL STOCK — **MLA44849297** Mouse Gamer Logitech G203 Lightsync White
+  - ML: https://www.mercadolibre.com.ar/p/MLA44849297
+  - Sitio: https://productosvirales.com.ar/producto/MLA44849297
+- 🟢 VOLVIO EL STOCK — **MLA38451794** Samsung Galaxy Buds3 Pro Color Grafito
+  - ML: https://www.mercadolibre.com.ar/p/MLA38451794
+  - Sitio: https://productosvirales.com.ar/producto/MLA38451794
+- 🔴 SIN STOCK — **MLA16269737** Auriculares Logitech G733 Inalámbricos Color Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA16269737
+  - Sitio: https://productosvirales.com.ar/producto/MLA16269737
+- 🔴 SIN STOCK — **MLA49197748** Smart TV 43\
+  - ML: https://www.mercadolibre.com.ar/smart-tv-43-tcl-full-hd-qled-43s5k-google-tv-dolby-audio/p/MLA49197748
+  - Sitio: https://productosvirales.com.ar/producto/MLA49197748
+- 🔴 SIN STOCK — **MLA6344268** Audio Technica M30x Auriculares Cerrados Para Monitoreo Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA6344268
+  - Sitio: https://productosvirales.com.ar/producto/MLA6344268
+- 🔴 SIN STOCK — **MLA57493542** Robot De Cocina Smart Atma Mix 3l Rc2023tcp
+  - ML: https://www.mercadolibre.com.ar/p/MLA57493542
+  - Sitio: https://productosvirales.com.ar/producto/MLA57493542
+- 🔴 SIN STOCK — **MLA28251222** Proyector Led Smart Android 11 Fhd 4500 Lumenes Wifi Bt Color Blanco
+  - ML: https://www.mercadolibre.com.ar/proyector-led-smart-android-11-fhd-4500-lumenes-wifi-bt-color-blanco/p/MLA28251222
+  - Sitio: https://productosvirales.com.ar/producto/MLA28251222
+- 🔴 SIN STOCK — **MLA32288168** Lattafa Yara Moi Eau de parfum Spray 100mL Mujer
+  - ML: https://www.mercadolibre.com.ar/lattafa-yara-moi-eau-de-parfum-spray-100ml-mujer/p/MLA32288168
+  - Sitio: https://productosvirales.com.ar/producto/MLA32288168
+- 🟢 VOLVIO EL STOCK — **MLA21233017** Caloventor Liliana Cfi700 Heatcyclone Gris
+  - ML: https://www.mercadolibre.com.ar/p/MLA21233017
+  - Sitio: https://productosvirales.com.ar/producto/MLA21233017
+- 🟢 VOLVIO EL STOCK — **MLA54152343** Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-liliana-safeheat-ap992b-15lts-blanca-color-blanco/p/MLA54152343
+  - Sitio: https://productosvirales.com.ar/producto/MLA54152343
+- 🟢 VOLVIO EL STOCK — **MLA22234109** Lattafa Qaed Al Fursan Eau De Parfum 90ml
+  - ML: https://www.mercadolibre.com.ar/lattafa-qaed-al-fursan-eau-de-parfum-90ml/p/MLA22234109
+  - Sitio: https://productosvirales.com.ar/producto/MLA22234109
+- 🔴 SIN STOCK — **MLA13112158** Licuadora de mano Peabody PE-LMA327B mixer 800 W
+  - ML: https://www.mercadolibre.com.ar/p/MLA13112158
+  - Sitio: https://productosvirales.com.ar/producto/MLA13112158
+- 🔴 SIN STOCK — **MLA25883660** Lattafa - Mayar Edp X100ml
+  - ML: https://www.mercadolibre.com.ar/lattafa-mayar-edp-x100ml/p/MLA25883660
+  - Sitio: https://productosvirales.com.ar/producto/MLA25883660
+- 🔴 SIN STOCK — **MLA44725486** Afeitadora Kemei KM-1102
+  - ML: https://www.mercadolibre.com.ar/p/MLA44725486
+  - Sitio: https://productosvirales.com.ar/producto/MLA44725486
+- 🟢 VOLVIO EL STOCK — **MLA21235471** Cargador Portátil Gadnic Power Bank 20000mah 2 Usb Color Negro Carga Rápida
+  - ML: https://www.mercadolibre.com.ar/p/MLA21235471
+  - Sitio: https://productosvirales.com.ar/producto/MLA21235471
+- 🟢 VOLVIO EL STOCK — **MLA38252447** Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg
+  - ML: https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782
+  - Sitio: https://productosvirales.com.ar/producto/MLA38252447
+- 🔴 SIN STOCK — **MLA19147005** Balanza Digital con Bluetooth Femmto BCS15 para Baño Medidor de Grasa Corporal y Masa Muscular
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-masa-muscular/p/MLA19147005
+  - Sitio: https://productosvirales.com.ar/producto/MLA19147005
+- 🔴 SIN STOCK — **MLA45717136** Monitor Noblex NXSM2200 22 LED FHD 100Hz
+  - ML: https://www.mercadolibre.com.ar/p/MLA45717136
+  - Sitio: https://productosvirales.com.ar/producto/MLA45717136
+- 🔴 SIN STOCK — **MLA27351841** Freidora de aire digital sin aceite Atma Pro Fr60ar 6,5L color blanco
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-digital-sin-aceite-atma-pro-fr60ar-65l-color-blanco/p/MLA27351841
+  - Sitio: https://productosvirales.com.ar/producto/MLA27351841
+- 🟢 VOLVIO EL STOCK — **MLA53972632** Philips Tostadora Electrica De Pan 650w 2 Panes 6 Ajustes Color Negro HD251090
+  - ML: https://www.mercadolibre.com.ar/philips-tostadora-electrica-de-pan-650w-2-panes-6-ajustes-color-negro-hd251090/p/MLA53972632
+  - Sitio: https://productosvirales.com.ar/producto/MLA53972632
+- 🔴 SIN STOCK — **MLA50527370** Licuadora Philips Pro Blend HR2260/90 de 1000 W
+  - ML: https://www.mercadolibre.com.ar/p/MLA50527370
+  - Sitio: https://productosvirales.com.ar/producto/MLA50527370
+- 🟢 VOLVIO EL STOCK — **MLA19606324** Cortadora Pelo Gadnic Patillera Profesional Recargable Inalambrica
+  - ML: https://www.mercadolibre.com.ar/p/MLA19606324
+  - Sitio: https://productosvirales.com.ar/producto/MLA19606324
+- 🔴 SIN STOCK — **MLA43932163** Proyector mini ULTRAHD HY-300 8000lm blanco
+  - ML: https://www.mercadolibre.com.ar/proyector-mini-ultrahd-hy-300-8000lm-blanco/p/MLA43932163
+  - Sitio: https://productosvirales.com.ar/producto/MLA43932163
+- 🔴 SIN STOCK — **MLA65327878** Yogurtera Daewoo Yoggy Pro Dym672t Con Timer Digital Griego Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA65327878
+  - Sitio: https://productosvirales.com.ar/producto/MLA65327878
+
+## 2026-07-17
+
 - 🟢 VOLVIO EL STOCK — **MLA27167036** Horno Grill Eléctrico Atma Hgab4523pi 45l 1400w Negro
   - ML: https://www.mercadolibre.com.ar/p/MLA27167036
   - Sitio: https://productosvirales.com.ar/producto/MLA27167036
