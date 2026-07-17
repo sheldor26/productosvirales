@@ -147,6 +147,7 @@ export const guides: Guide[] = [
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
       { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
+      { label: "Tostadora: cuál comprar en Argentina", href: "/guias/cocina/tostadora" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -4362,6 +4363,7 @@ export const guides: Guide[] = [
       { label: "Pavas eléctricas Atma", href: "/guias/pava-electrica-atma" },
       { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
       { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Tostadora: cuál comprar en Argentina", href: "/guias/cocina/tostadora" },
     ],
     internalLinksTitle: "Guías de pavas eléctricas",
   },
@@ -19815,6 +19817,7 @@ export const guides: Guide[] = [
       { label: "Horno eléctrico: cuál comprar en Argentina", href: "/guias/cocina/horno-electrico" },
       { label: "Robot de cocina: cuál comprar en Argentina", href: "/guias/cocina/robot-de-cocina" },
       { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Tostadora: cuál comprar en Argentina", href: "/guias/cocina/tostadora" },
     ],
     internalLinksTitle: "Más para tu cocina",
   },
@@ -20361,6 +20364,124 @@ export const guides: Guide[] = [
       { label: "Auriculares inalámbricos para ver pelis de noche", href: "/guias/audio/auriculares-inalambricos" },
     ],
     internalLinksTitle: "Más para tu living",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR tostadora — silo cocina, categoria "tostadoras"
+  // Sourcing: MercadoLibre Argentina vía Bright Data, 2026-07-16.
+  // Keyword "tostadora" 12.100/mes AR, SD12, del backlog de research
+  // masivo 2026-07-06.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "tostadora",
+    category: "tostadoras",
+    silo: "cocina",
+    pillar: true,
+    title: `Tostadora: cuál comprar en Argentina [2026]`,
+    seoTitle: `Tostadora Eléctrica: Cuál Comprar en Argentina [2026]`,
+    metaDescription: `Comparamos las tostadoras más vendidas de Argentina: Liliana, Atma, Philips y Daewoo. Precio, funciones y contras reales antes de comprar.`,
+    ogTitle: `Tostadora: cuál comprar en Argentina`,
+    ogDescription: `De la más vendida a la premium: comparamos las tostadoras eléctricas más vendidas de Argentina por funciones, capacidad y precio real de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_896697-MLA109735928725_032026-F.webp`,
+    h1: `Tostadora eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Liliana Tostler AT900](/producto/MLA19479631)** (alrededor de {{precio:MLA19479631:k}}): la tostadora más vendida de Argentina en MercadoLibre (1º en Tostadoras, más de 10.000 vendidos), con cancelar y eyector automático, aunque sin función de recalentar. Si preferís sumar esa función a un precio muy similar, la **[Atma To20Wp](/producto/MLA20804912)** tiene la mejor calificación de esta guía. Para tostar 4 rebanadas a la vez, la única opción es la **[Daewoo DST-6593](/producto/MLA44327756)**, aunque su "ranura ancha" no es tan ancha como promete el título. Y si priorizás una marca global reconocida, la **[Philips HD2510/90](/producto/MLA53972632)**, aunque el "negro" que vende MercadoLibre es en realidad gris oscuro según el propio fabricante.`,
+    publishedDate: "2026-07-16",
+    updatedDate: "2026-07-16",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Hay tostadoras desde {{precio:MLA20804912:k}} hasta {{precio:MLA53972632:k}}, con capacidad de 2 o 4 rebanadas y funciones que van de lo más básico (tostar y nada más) a cancelar, descongelar y recalentar. Comparamos las 4 con mejor respaldo de compradores reales de MercadoLibre Argentina, con las contras que las publicaciones no siempre cuentan.`,
+    quickPicks: [
+      { productMlaId: "MLA19479631", label: "La más vendida", labelColor: "green", tagline: "Liliana Tostler AT900: 1º en Tostadoras, precio accesible" },
+      { productMlaId: "MLA20804912", label: "La mejor calificada", labelColor: "blue", tagline: "Atma To20Wp: 4.8 estrellas, cancela, descongela y recalienta" },
+      { productMlaId: "MLA53972632", label: "Marca premium", labelColor: "purple", tagline: "Philips HD2510/90: marca reconocida, 2 años de garantía" },
+      { productMlaId: "MLA44327756", label: "4 rebanadas", labelColor: "amber", tagline: "Daewoo DST-6593: la única para 4 panes a la vez" },
+    ],
+    intro: [
+      `Una tostadora eléctrica parece un electrodoméstico simple, pero hay diferencias reales entre modelos que van más allá del precio: cuántas rebanadas tuesta de una vez, si cancela o recalienta, y si el cuerpo aguanta el uso diario sin romperse.`,
+      `Esta guía compara las 4 tostadoras con mejor respaldo de compradores reales en MercadoLibre Argentina, desde la más simple y vendida hasta la que tuesta 4 rebanadas a la vez, para que elijas según cuánta gente desayuna en tu casa y qué funciones necesitás de verdad.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_896697-MLA109735928725_032026-F.webp", alt: `Tostadora eléctrica Liliana Tostler AT900, la más vendida de Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las tostadoras con más ventas y calificaciones reales en MercadoLibre Argentina. Evaluamos lo que más importa al elegir una: **cuántas rebanadas tuesta a la vez**, qué **funciones** tiene (cancelar, descongelar, recalentar), y el precio real. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Las 4 que comparamos`, id: "ranking" },
+
+      { type: "h3", title: `1. Liliana Tostler AT900 — la más vendida` },
+      { type: "product-card", productMlaId: "MLA19479631", label: "La más vendida", labelColor: "green", ranking: 1, description: `750W, 2 rebanadas, 7 niveles de tostado. 1º en Tostadoras de toda MercadoLibre Argentina, 3.617 calificaciones.` },
+      { type: "p", content: `Es la tostadora más vendida de toda la categoría en MercadoLibre Argentina: 1º en el ranking de Tostadoras, con más de 10.000 unidades vendidas y un precio accesible, alrededor de {{precio:MLA19479631:k}}.` },
+      { type: "p", content: `Lo honesto: tiene cancelar y eyector automático que levanta el pan solo al terminar, pero no función de recalentar. Una reseña real dice que solo entra bien pan de molde, pero otra reseña, igual de real, la contradice diciendo que también le entró pan común.` },
+      { type: "pull-quote", content: `Excelente relación precio-calidad... Aclaración: solo sirve para pan de tipo lacatal ya que es pequeña.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `2. Atma To20Wp — la mejor calificada` },
+      { type: "product-card", productMlaId: "MLA20804912", label: "La mejor calificada", labelColor: "blue", ranking: 2, description: `700W, 2 rebanadas, cancela, descongela y recalienta. 4.8 estrellas en 2.973 calificaciones.` },
+      { type: "p", content: `Tiene la mejor calificación de esta guía (4.8 estrellas en 2.973 calificaciones), a un precio muy cercano al de la [Liliana Tostler AT900](/producto/MLA19479631) de esta guía, alrededor de {{precio:MLA20804912:k}}.` },
+      { type: "p", content: `Lo honesto: comparte cancelar y descongelar con la [Liliana](/producto/MLA19479631), y suma la única función que a esa le falta, recalentar, más certificación de seguridad Bureau Veritas Argentina, pero la garantía declarada es de 6 meses, menos que los 2 años de la [Liliana](/producto/MLA19479631).` },
+      { type: "pull-quote", content: `El tamaño de las aberturas para poner el pan es muy bueno (entran panes caseros más grandes que el lactal). Las tostadas saltan, no hace falta meter cuchillo. Precio-calidad fantástico.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `3. Philips HD2510/90 — marca premium` },
+      { type: "product-card", productMlaId: "MLA53972632", label: "Marca premium", labelColor: "purple", ranking: 3, description: `650W, 2 rebanadas, 6 niveles. Marca global reconocida, 2 años de garantía.` },
+      { type: "p", content: `Es la única tostadora de esta guía de un fabricante global grande, con 2 años de garantía, a alrededor de {{precio:MLA53972632:k}}. Una reseña real cuenta que su Philips anterior le duró 10 años.` },
+      { type: "callout", calloutVariant: "warning", calloutTitle: "El \"negro\" en realidad es gris oscuro", content: `MercadoLibre vende esta tostadora como "color negro" en el título. Pero la propia página global del fabricante la lista como "Charcoal Grey" (gris oscuro). No es una sospecha: una reseña real lo confirmó de mala manera: "el color de la tostadora es más bien gris oscuro (no es negro). Así que la cambié por otra". Si el negro puro es importante para vos, tenelo en cuenta antes de comprar.` },
+      { type: "pull-quote", content: `Volví a la marca philips... la philips anterior me duró 10 años.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h3", title: `4. Daewoo DST-6593 — la de 4 rebanadas` },
+      { type: "product-card", productMlaId: "MLA44327756", label: "4 rebanadas", labelColor: "amber", ranking: 4, description: `1.200W, 4 rebanadas. La única de esta guía para tostar 4 panes a la vez.` },
+      { type: "p", content: `Es la única tostadora de esta guía con capacidad para 4 rebanadas a la vez, con la potencia más alta (1.200W), a alrededor de {{precio:MLA44327756:k}}.` },
+      { type: "p", content: `Lo honesto: el título promete "ranura ancha" para pan artesanal o francés, pero una reseña real lo desmiente directo: "la compré porque decía ranura ancha y la verdad no es así. La ranura es larga para colocar dos panes de molde en cada ranura, pero no ancha para tostar pan francés".` },
+      { type: "pull-quote", content: `Funciona muy bien. Es negro mate y combina con cocinas negras. Tener en cuenta que es de un tamaño grande.`, attribution: `— Comprador verificado en MercadoLibre` },
+
+      { type: "h2", title: `Tabla comparativa: tostadoras eléctricas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Rebanadas`, `Funciones`, `Ideal para`], rows: [
+        [`[Liliana Tostler AT900](/producto/MLA19479631)`, `{{precio:MLA19479631}}`, `2`, `Cancelar, Descongelar, Tostar`, `La más vendida`],
+        [`[Atma To20Wp](/producto/MLA20804912)`, `{{precio:MLA20804912}}`, `2`, `Cancelar, Descongelar, Recalentar`, `Mejor calificación real`],
+        [`[Philips HD2510/90](/producto/MLA53972632)`, `{{precio:MLA53972632}}`, `2`, `Tostar`, `Marca reconocida, 2 años de garantía`],
+        [`[Daewoo DST-6593](/producto/MLA44327756)`, `{{precio:MLA44327756}}`, `4`, `Tostar (según ficha; descongelar/recalentar según reseñas)`, `Tostar para varias personas a la vez`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu tostadora`, id: "como-elegir" },
+      { type: "h3", title: `1. ¿Cuánta gente desayuna en tu casa?` },
+      { type: "p", content: `Para 1 o 2 personas, cualquiera de las 3 tostadoras de 2 rebanadas de esta guía alcanza: la [Liliana Tostler AT900](/producto/MLA19479631) (la más vendida), el [Atma To20Wp](/producto/MLA20804912) (el precio más bajo y mejor calificación) o la [Philips HD2510/90](/producto/MLA53972632) (marca reconocida). Si en tu casa desayunan 3 personas o más al mismo tiempo, la [Daewoo DST-6593](/producto/MLA44327756) tuesta 4 rebanadas de una sola vez y evita hacer varias tandas.` },
+      { type: "h3", title: `2. ¿Necesitás cancelar, descongelar o recalentar?` },
+      { type: "p", content: `La [Philips HD2510/90](/producto/MLA53972632) de esta guía solo tuesta, sin más funciones declaradas en la ficha oficial. La [Liliana Tostler AT900](/producto/MLA19479631) suma cancelar y descongelar. El [Atma To20Wp](/producto/MLA20804912) tiene esas mismas dos funciones y además recalienta tostadas frías, la única de esta guía con esa función confirmada en su ficha oficial. La [Daewoo DST-6593](/producto/MLA44327756), según reseñas reales (no la ficha oficial), también tendría descongelar y recalentar.` },
+      { type: "h3", title: `3. ¿Marca reconocida o precio bajo?` },
+      { type: "p", content: `La [Liliana Tostler AT900](/producto/MLA19479631) y el [Atma To20Wp](/producto/MLA20804912) de esta guía son marcas argentinas con buen respaldo de ventas y precio accesible. La [Philips HD2510/90](/producto/MLA53972632) es la única de un fabricante global grande, a un precio bastante más alto.` },
+      { type: "h3", title: `4. Cuidados básicos` },
+      { type: "list", items: [
+        `Desenchufar siempre antes de limpiar o retirar la bandeja de migas.`,
+        `Vaciar la bandeja de migas seguido: acumular migas es la causa más común de olor a quemado o humo al tostar.`,
+        `No forzar pan grueso o irregular en la ranura si no es un modelo pensado para eso: en esta guía, ninguna está confirmada como "ranura ancha" real pese a que la [Daewoo](/producto/MLA44327756) lo promete en el título.`,
+        `No sumergir el cuerpo en agua: limpiar por fuera con un paño húmedo, nunca metiendo la tostadora bajo la canilla.`,
+      ]},
+
+      { type: "h2", title: `Cuánto cuesta una tostadora en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA20804912:k}}:** el [Atma To20Wp](/producto/MLA20804912), la mejor calificada de esta guía, con funciones completas.`,
+        `**Alrededor de {{precio:MLA19479631:k}}:** la [Liliana Tostler AT900](/producto/MLA19479631), la más vendida.`,
+        `**Alrededor de {{precio:MLA44327756:k}}:** la [Daewoo DST-6593](/producto/MLA44327756), la única para 4 rebanadas a la vez.`,
+        `**Alrededor de {{precio:MLA53972632:k}}:** la [Philips HD2510/90](/producto/MLA53972632), la más cara, con marca global reconocida.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál tostadora comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para la mayoría, la **[Liliana Tostler AT900](/producto/MLA19479631)**: es la tostadora más vendida de toda la categoría en MercadoLibre Argentina, con cancelar y eyector automático, aunque sin función de recalentar. Si preferís el precio más bajo de esta guía junto con esa función extra, el **[Atma To20Wp](/producto/MLA20804912)** además tiene la mejor calificación real (4.8 estrellas). Para tostar 4 rebanadas a la vez, la única opción es la **[Daewoo DST-6593](/producto/MLA44327756)**, aunque su "ranura ancha" no es tan ancha como promete el título según reseñas reales. Y si priorizás una marca global con historial reconocido, la **[Philips HD2510/90](/producto/MLA53972632)**, aunque es la más cara de esta guía y el "negro" que vende MercadoLibre es en realidad gris oscuro según el propio fabricante.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor tostadora en Argentina?`, answer: `La más vendida de toda la categoría es la [Liliana Tostler AT900](/producto/MLA19479631). Si priorizás más funciones y mejor calificación real, el [Atma To20Wp](/producto/MLA20804912); para 4 rebanadas a la vez, la [Daewoo DST-6593](/producto/MLA44327756); para marca reconocida, la [Philips HD2510/90](/producto/MLA53972632).` },
+      { question: `¿Qué tostadora conviene para una familia grande?`, answer: `La [Daewoo DST-6593](/producto/MLA44327756), la única de esta guía con capacidad para 4 rebanadas a la vez. Las otras 3 opciones tuestan 2 rebanadas por tanda.` },
+      { question: `¿Todas las tostadoras tienen eyector automático?`, answer: `La [Liliana Tostler AT900](/producto/MLA19479631) lo declara en su ficha del fabricante: el pan se levanta solo al alcanzar el nivel de tostado elegido. Para el resto de esta guía no encontramos esa función confirmada de forma explícita, aunque es un mecanismo estándar en la mayoría de las tostadoras.` },
+      { question: `¿Cuál tostadora sirve para descongelar pan?`, answer: `La [Liliana Tostler AT900](/producto/MLA19479631) y el [Atma To20Wp](/producto/MLA20804912) tienen función de descongelar declarada en su ficha oficial. La [Daewoo DST-6593](/producto/MLA44327756), según reseñas reales de compradores, también la tendría, aunque no figura en la ficha técnica oficial.` },
+      { question: `¿Alguna sirve para pan artesanal o pan francés grueso?`, answer: `Ninguna de las 4 está confirmada para eso. La [Daewoo DST-6593](/producto/MLA44327756) promete "ranura ancha" en el título, pero reseñas reales de compradores confirman que la ranura es larga (para 2 panes de molde) y no ancha para pan francés o artesanal.` },
+      { question: `¿Por qué la Philips es más cara que las otras?`, answer: `Es la única tostadora de esta guía de un fabricante global grande, con 2 años de garantía y un historial de durabilidad reconocido (una reseña real cuenta que su Philips anterior le duró 10 años). El precio refleja esa marca.` },
+      { question: `¿Es cierto que la Philips HD2510/90 es de color negro?`, answer: `No exactamente. MercadoLibre la vende como "color negro" en el título, pero el propio fabricante la lista globalmente como "Charcoal Grey" (gris oscuro). Una reseña real confirmó esta diferencia y devolvió el producto por eso.` },
+      { question: `¿Cuánto dura una tostadora eléctrica?`, answer: `No hay una cifra fija, depende del uso y del cuidado (sobre todo vaciar la bandeja de migas seguido). Como referencia, una reseña real de esta guía cuenta que su tostadora Philips anterior le duró 10 años antes de comprar el modelo actual.` },
+      { question: `¿Qué garantía tienen estas tostadoras?`, answer: `La [Liliana Tostler AT900](/producto/MLA19479631) y la [Philips HD2510/90](/producto/MLA53972632) de esta guía declaran 2 años de garantía. El [Atma To20Wp](/producto/MLA20804912) y la [Daewoo DST-6593](/producto/MLA44327756) declaran 6 meses.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: cuál comprar en Argentina", href: "/guias/cocina/microondas" },
+      { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
+      { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/cocina/pava-electrica" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
   },
 
 ];

@@ -298,7 +298,7 @@ Candidatos que quedaron afuera: Novohome NH-VTR (MLA54423759, ficha existente `d
 | :-- | --: | --: | :-- | :-- |
 | planchita de pelo | 18.100 | 11 | Comercial | **EJECUTADA 2026-07-06** (guía `planchita-de-pelo`, ver sección Cuidado Personal) |
 | ventilador de techo | 33.100 | 13 | Transaccional | **EJECUTADA 2026-07-06** (guía `ventilador-de-techo`, ver sección Climatización) |
-| termo | 27.100 | 19 | Transaccional | Estable, categoría argentina pura; abre ecosistema mate (puente con `pava-electrica`) |
+| termo | 27.100 | 19 | Transaccional | **EJECUTADA 2026-07-16** (guía `termo`, silo `bebidas-termicas`) |
 | smartwatch | 40.500 | 31 | Transaccional | Mayor volumen; hermana del silo tech ("reloj inteligente" 14.800/SD 38 = variante, misma guía) |
 | tostadora | 12.100 | 12 | Transaccional | Cocina, fácil |
 | parrilla eléctrica | 6.600 | 11 | Transaccional | Cocina, estable |

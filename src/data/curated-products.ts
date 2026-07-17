@@ -55547,6 +55547,410 @@ Comprá el Google TV Streamer si priorizás la mayor potencia técnica (almacena
       },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // PILAR tostadora — silo cocina, categoria "tostadoras"
+  // Sourcing: MercadoLibre Argentina vía Bright Data, 2026-07-16.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA19479631",
+    title: "Tostadora Liliana Tostler At900",
+    canonicalName: "Liliana Tostler AT900",
+    price: 37499,
+    originalPrice: 79999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_912375-MLA99937528491_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_912375-MLA99937528491_112025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_896697-MLA109735928725_032026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/tostadora-liliana-tostler-at900/p/MLA19479631",
+    affiliateUrl: "https://meli.la/1p9UPiK",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3617,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Liliana" },
+      { label: "Línea", value: "Tostler" },
+      { label: "Modelo", value: "AT900" },
+      { label: "Potencia", value: "750 W" },
+      { label: "Rebanadas", value: "2" },
+      { label: "Niveles de tostado", value: "7" },
+      { label: "Funciones", value: "Cancelar, Descongelar, Tostar" },
+      { label: "Eyector automático", value: "Sí, al alcanzar el nivel de tostado elegido" },
+      { label: "Paredes frías", value: "Sí" },
+      { label: "Bandeja recoge migas", value: "Sí" },
+      { label: "Enrollacable", value: "Sí" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Color", value: "Negro" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Garantía", value: "2 años de fábrica (según el vendedor)" },
+    ],
+    relatedProducts: ["MLA20804912", "MLA53972632", "MLA44327756"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Liliana Tostler AT900: la tostadora más vendida de Argentina en MercadoLibre (1º en Tostadoras), con más de 10.000 vendidos y un precio accesible.",
+    seoTitle: "Liliana Tostler AT900: la más vendida, ¿rinde bien?",
+    metaDescription: "Tostadora Liliana Tostler AT900: la más vendida de Argentina, precio accesible. Precio real y opiniones verificadas antes de comprar.",
+    verdict: "Sirve si el respaldo de ventas es tu prioridad: es la tostadora más vendida de toda la categoría en MercadoLibre Argentina (1º en Tostadoras, más de 10.000 vendidos), a un precio accesible aunque no el más bajo de esta guía (el Atma To20Wp cuesta un poco menos). Tiene cancelar, descongelar y eyector automático al terminar el tostado, aunque no función de recalentar. Una reseña real advierte que solo entra bien pan de molde (aunque otra reseña real la contradice diciendo que también le entra pan común). Para uso básico diario, cumple de sobra.",
+    pros: [
+      "La tostadora más vendida de toda la categoría en MercadoLibre Argentina: 1º en Tostadoras, más de 10.000 vendidos",
+      "Precio accesible",
+      "3.617 calificaciones, la base de opiniones más grande de esta guía",
+      "Cancelar, descongelar y eyector automático al terminar el tostado, según la ficha del fabricante",
+      "Enrollacable, para guardar mejor el cable",
+      "Garantía de 2 años declarada por el vendedor",
+    ],
+    cons: [
+      "Una reseña real advierte que solo entra bien pan de molde (\"lactal\"), aunque otra reseña real dice que también le entró pan común",
+      "Sin función de recalentar en la ficha técnica",
+      "Cuerpo de plástico, no metal",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Liliana Tostler AT900 es la tostadora más vendida de toda la categoría en MercadoLibre Argentina: 1º en el ranking de Tostadoras, con más de 10.000 unidades vendidas y un precio accesible.
+
+## Cómo funciona
+
+Es una tostadora de 2 rebanadas con 750 W de potencia, 7 niveles de tostado, cancelar y función de descongelar. Tiene eyector automático que levanta el pan solo al terminar el tostado, paredes frías, bandeja recoge migas extraíble y cable enrollable para guardarla mejor. El cuerpo es de plástico negro, con perillas de control mecánicas (sin pantalla digital).
+
+## La contra real
+
+Una reseña real marca un límite: "solo sirve para pan de tipo lactal ya que es pequeña". Pero otra reseña, igual de real, la contradice: "no es necesario sólo usar pan lactal como leí por ahí, le pusimos rodajitas de pan normal". La ficha técnica tampoco declara función de recalentar, algo que sí tiene el [Atma To20Wp](/producto/MLA20804912) de esta guía.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Atma To20Wp](/producto/MLA20804912) (mejor calificado y un poco más barato), la Liliana comparte cancelar y descongelar, pero le falta recalentar. Frente al [Philips HD2510/90](/producto/MLA53972632) (marca premium reconocida), la diferencia de precio es enorme. Frente a la [Daewoo DST-6593](/producto/MLA44327756) (4 rebanadas), la Liliana rinde para menos panes de una vez pero cuesta bastante menos.
+
+## Para quién sí y para quién no
+
+Comprá la Liliana Tostler AT900 si el respaldo de ventas es tu prioridad y tostás pan de molde la mayoría de las veces. No es la mejor opción si necesitás recalentar tostadas frías: ahí el [Atma To20Wp](/producto/MLA20804912) de esta guía cumple mejor ese punto (y además cuesta un poco menos).`,
+    faq: [
+      {
+        question: "¿Por qué es la más vendida de Argentina?",
+        answer: "Es la tostadora número 1 en el ranking de Tostadoras de MercadoLibre Argentina, con más de 10.000 unidades vendidas y un precio accesible, una combinación que explica su volumen de ventas.",
+      },
+      {
+        question: "¿Solo sirve para pan de molde?",
+        answer: "Las reseñas reales no coinciden: una dice que solo entra bien pan lactal, otra dice que también le entró pan común. Si tostás casi siempre pan de molde, no vas a tener problema; si tostás pan artesanal más grueso, conviene revisar el tamaño de la ranura antes de comprar.",
+      },
+      {
+        question: "¿Tiene eyector automático?",
+        answer: "Sí, según la ficha del fabricante: el pan se levanta solo al alcanzar el nivel de tostado elegido. También tiene botón de cancelar para cortar antes de tiempo. Lo que no tiene es función de recalentar, a diferencia del [Atma To20Wp](/producto/MLA20804912) de esta guía.",
+      },
+      {
+        question: "¿El cuerpo es de metal o de plástico?",
+        answer: "De plástico, no de acero inoxidable. El diseño es básico pero funcional, con perillas de control mecánicas.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "El vendedor declara 2 años de garantía de fábrica.",
+      },
+    ],
+  },
+  {
+    id: "MLA20804912",
+    title: "Tostadora Atma To20Wp Dos Rebanadas Color Blanco",
+    canonicalName: "Atma To20Wp",
+    price: 34991,
+    originalPrice: 59999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_686726-MLA94802541032_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_686726-MLA94802541032_102025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_947825-MLA90932107043_082025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/tostadora-para-dos-rebanadas-color-blanco-atma/p/MLA20804912",
+    affiliateUrl: "https://meli.la/2WWy97T",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 2973,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Atma" },
+      { label: "Modelo", value: "To20Wp" },
+      { label: "Potencia", value: "700 W" },
+      { label: "Rebanadas", value: "2" },
+      { label: "Niveles de tostado", value: "7" },
+      { label: "Funciones", value: "Cancelar, Descongelar, Recalentar" },
+      { label: "Bandeja recoge migas", value: "Sí" },
+      { label: "Color", value: "Blanco" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Certificación", value: "Bureau Veritas Argentina S.A." },
+      { label: "Garantía", value: "6 meses" },
+    ],
+    relatedProducts: ["MLA19479631", "MLA53972632", "MLA44327756"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Atma To20Wp: la tostadora mejor calificada de esta guía (4.8 estrellas en 2.973 calificaciones), con función de recalentar que la Liliana Tostler AT900 no tiene.",
+    seoTitle: "Atma To20Wp: la mejor calificada, ¿qué suma?",
+    metaDescription: "Tostadora Atma To20Wp: 4.8 estrellas, funciones completas. Precio real y opiniones verificadas antes de comprar.",
+    verdict: "Sirve si buscás la tostadora mejor calificada de esta guía (4.8 estrellas en 2.973 calificaciones): cancela, descongela y además recalienta tostadas frías, esta última la única función que la Liliana Tostler AT900 de esta guía no tiene confirmada en su ficha oficial. Suma certificación de seguridad Bureau Veritas Argentina. Con el precio más bajo de esta guía, es la opción con mejor relación entre funciones y calificación real.",
+    pros: [
+      "La mejor calificada de esta guía: 4.8 estrellas en 2.973 calificaciones",
+      "Función de recalentar tostadas frías, confirmada en su ficha oficial (la Liliana de esta guía no la tiene)",
+      "Certificación de seguridad Bureau Veritas Argentina S.A.",
+      "El precio más bajo de esta guía",
+    ],
+    cons: [
+      "6 meses de garantía, menos que los 2 años que declara la Liliana Tostler AT900 de esta guía",
+      "Solo 2 rebanadas, menos capacidad que la Daewoo DST-6593 de esta guía (4 rebanadas)",
+      "Una reseña real marca que la palanca de puesta en marcha parece frágil, aunque confirma que funciona bien",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Atma To20Wp es una tostadora de 2 rebanadas en color blanco, con la mejor calificación de esta guía: 4.8 estrellas en 2.973 calificaciones reales.
+
+## Cómo funciona
+
+Tiene 700 W de potencia, 7 niveles de tostado, cancelar y descongelar, igual que la [Liliana Tostler AT900](/producto/MLA19479631) de esta guía. La diferencia real está en una función más: recalentar tostadas frías, algo que la [Liliana](/producto/MLA19479631) no tiene. Cuenta con bandeja recoge migas y certificación de seguridad Bureau Veritas Argentina S.A.
+
+## La contra real
+
+La garantía declarada es de 6 meses, menos que los 2 años que promete la [Liliana](/producto/MLA19479631) de esta guía. Y tiene capacidad para 2 rebanadas nada más, la mitad que la [Daewoo DST-6593](/producto/MLA44327756) de 4 rebanadas de esta guía, así que si tostás para varias personas a la vez vas a necesitar más de una tanda. Una reseña real suma otro matiz: "me gustaría que el mecanismo de puesta en marcha (la palanca que se traba) sea duradero porque parece frágil", aunque la misma reseña confirma que "anda muy bien: salta a tiempo, tuesta parejito".
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Liliana Tostler AT900](/producto/MLA19479631) (la más vendida), la Atma comparte cancelar y descongelar, suma recalentar y cuesta un poco menos, con mejor calificación real. Frente al [Philips HD2510/90](/producto/MLA53972632) (marca premium), la Atma cuesta bastante menos. Frente a la [Daewoo DST-6593](/producto/MLA44327756), tiene menos capacidad pero mejor respaldo de calificaciones.
+
+## Para quién sí y para quién no
+
+Comprá la Atma To20Wp si querés recalentar tostadas frías además de tostar, con la mejor calificación real de esta guía a un precio accesible. No es la mejor opción si necesitás tostar 4 rebanadas a la vez para una familia grande: ahí la [Daewoo DST-6593](/producto/MLA44327756) de esta guía rinde más.`,
+    faq: [
+      {
+        question: "¿Por qué tiene la mejor calificación de esta guía?",
+        answer: "4.8 estrellas en 2.973 calificaciones reales, la combinación de funciones completas (cancelar, descongelar, recalentar) y buen precio explica el buen respaldo de los compradores.",
+      },
+      {
+        question: "¿Qué diferencia tiene con la Liliana Tostler AT900?",
+        answer: "A un precio muy similar (un poco más bajo), comparte cancelar y descongelar con la [Liliana](/producto/MLA19479631), y suma la única función que esta no tiene: recalentar tostadas frías. La garantía es menor (6 meses contra 2 años declarados por el vendedor de la [Liliana](/producto/MLA19479631)).",
+      },
+      {
+        question: "¿Sirve para recalentar tostadas frías?",
+        answer: "Sí, es la única de esta guía con función de recalentar confirmada en su ficha oficial (la [Daewoo DST-6593](/producto/MLA44327756) también la tendría según reseñas de compradores, pero no figura en su ficha técnica).",
+      },
+      {
+        question: "¿Cuántas rebanadas tuesta a la vez?",
+        answer: "2. Para más capacidad de una sola vez, la [Daewoo DST-6593](/producto/MLA44327756) de esta guía tuesta 4 rebanadas.",
+      },
+      {
+        question: "¿Tiene alguna certificación de seguridad?",
+        answer: "Sí, certificación Bureau Veritas Argentina S.A., una entidad de certificación reconocida.",
+      },
+    ],
+  },
+  {
+    id: "MLA53972632",
+    title: "Philips Tostadora Electrica De Pan 650w 2 Panes 6 Ajustes Color Negro HD251090",
+    canonicalName: "Philips HD2510/90",
+    price: 62999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_805848-MLA99492873334_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_805848-MLA99492873334_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_681199-MLA91433958298_092025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/philips-tostadora-electrica-de-pan-650w-2-panes-6-ajustes-color-negro-hd251090/p/MLA53972632",
+    affiliateUrl: "https://meli.la/2MXTZJV",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 529,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Philips" },
+      { label: "Modelo", value: "HD2510/90" },
+      { label: "Potencia", value: "650 W" },
+      { label: "Rebanadas", value: "2" },
+      { label: "Niveles de tostado", value: "6" },
+      { label: "Función", value: "Tostar" },
+      { label: "Material del cuerpo", value: "PP (plástico)" },
+      { label: "Patas antideslizantes", value: "Sí" },
+      { label: "Largo de cable", value: "0,85 m" },
+      { label: "Voltaje", value: "220-240V, 50-60Hz" },
+      { label: "Dimensiones", value: "25,82 x 14,64 x 16,8 cm" },
+      { label: "Peso", value: "890 g" },
+      { label: "Color", value: "\"Negro\" según MercadoLibre; el fabricante lo lista como \"Charcoal Grey\" (gris oscuro)" },
+      { label: "Garantía", value: "2 años de fábrica" },
+    ],
+    relatedProducts: ["MLA19479631", "MLA20804912", "MLA44327756"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Philips HD2510/90: la tostadora de marca premium reconocida de esta guía, con 2 años de garantía. El color \"negro\" es en realidad gris oscuro, según confirma el propio fabricante.",
+    seoTitle: "Philips HD2510/90: la marca premium, ¿vale el precio?",
+    metaDescription: "Tostadora Philips HD2510/90: marca reconocida, 2 años de garantía. Precio real y opiniones verificadas antes de comprar.",
+    verdict: "Sirve si priorizás una marca con historial reconocido y 2 años de garantía: es la única de esta guía de un fabricante global grande, y una reseña real cuenta que su Philips anterior le duró 10 años. La letra chica: MercadoLibre y el título de venta dicen \"color negro\", pero el propio fabricante la lista como \"Charcoal Grey\" (gris oscuro), algo que una reseña real confirmó y por lo que devolvió el producto. Es también la más cara de esta guía y la que menos calificaciones tiene en proporción a su tiempo en el mercado.",
+    pros: [
+      "Marca global reconocida, con historial de durabilidad (una reseña real cuenta que su Philips anterior le duró 10 años)",
+      "2 años de garantía, la misma que declara la Liliana Tostler AT900 de esta guía",
+      "Botón de parada instantánea y palanca de elevación alta, según especificaciones del fabricante",
+      "Patas antideslizantes",
+    ],
+    cons: [
+      "El color \"negro\" del título es en realidad gris oscuro (\"Charcoal Grey\") según el propio fabricante; una reseña real la cambió por ese motivo",
+      "La más cara de esta guía por lejos",
+      "Solo 529 calificaciones, bastante menos que la Liliana o el Atma de esta guía",
+      "La ficha de MercadoLibre no declara función de descongelar, solo \"Tostar\"",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Philips HD2510/90 es la tostadora de marca premium reconocida de esta guía, con 650 W de potencia y 6 niveles de tostado, pensada para quien prioriza un fabricante grande con historial por sobre el precio.
+
+## Cómo funciona
+
+Tuesta 2 rebanadas con cuerpo de plástico PP, patas antideslizantes y cable de 0,85 m. Según las especificaciones del fabricante (no listadas en la ficha de MercadoLibre), suma palanca de elevación alta y botón de parada instantánea. La ficha de MercadoLibre solo declara la función "Tostar", sin descongelar explícito.
+
+## La contra real
+
+El hallazgo más honesto de esta ficha: MercadoLibre vende el modelo como "color negro" en el título, pero la propia página global del fabricante lo lista como "Charcoal Grey" (gris oscuro). Una reseña real lo confirma de mala manera: "el color de la tostadora es más bien gris oscuro (no es negro). Así que la cambié por otra". No es una sospecha, es el propio fabricante confirmando el matiz real del color.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Liliana Tostler AT900](/producto/MLA19479631) y el [Atma To20Wp](/producto/MLA20804912) (mucho más baratas), la Philips cuesta bastante más solo por el respaldo de marca y garantía. Frente a la [Daewoo DST-6593](/producto/MLA44327756) (4 rebanadas), la Philips tuesta menos rebanadas a la vez pero con un fabricante más reconocido detrás.
+
+## Para quién sí y para quién no
+
+Comprá la Philips HD2510/90 si priorizás una marca reconocida con historial de durabilidad y no te molesta pagar más por eso. No es la mejor opción si el color negro puro es importante para vos (es gris oscuro real) o si buscás la mejor relación precio-funciones: ahí el [Atma To20Wp](/producto/MLA20804912) de esta guía rinde mejor.`,
+    faq: [
+      {
+        question: "¿Es realmente de color negro?",
+        answer: "No exactamente. MercadoLibre la vende como \"color negro\", pero el propio fabricante la lista globalmente como \"Charcoal Grey\" (gris oscuro). Una reseña real confirmó esta diferencia y devolvió el producto por eso.",
+      },
+      {
+        question: "¿Tiene función de descongelar?",
+        answer: "La ficha de MercadoLibre solo declara la función \"Tostar\", sin descongelar explícito, a diferencia de la [Liliana Tostler AT900](/producto/MLA19479631) y el [Atma To20Wp](/producto/MLA20804912) de esta guía, que sí lo tienen.",
+      },
+      {
+        question: "¿Por qué es más cara que las otras de esta guía?",
+        answer: "Es la única de esta guía de un fabricante global grande, con historial reconocido de durabilidad y 2 años de garantía. El precio refleja esa marca, no necesariamente más funciones que las otras opciones.",
+      },
+      {
+        question: "¿Cuánto dura una tostadora Philips?",
+        answer: "No hay una cifra oficial, pero una reseña real de esta ficha cuenta que su Philips anterior le duró 10 años antes de volver a comprar la marca.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "2 años de garantía de fábrica, la misma que declara el vendedor de la [Liliana Tostler AT900](/producto/MLA19479631) de esta guía.",
+      },
+    ],
+  },
+  {
+    id: "MLA44327756",
+    title: "Tostadora Eléctrica 4 Panes Ranura Ancha Daewoo DST-6593 Color Negro",
+    canonicalName: "Daewoo DST-6593",
+    price: 49760,
+    originalPrice: 78109,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_960654-MLA99516629866_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_960654-MLA99516629866_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_892832-MLA91647862824_092025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/tostadora-electrica-4-panes-ranura-ancha-daewoo-dst-6593-color-negro/p/MLA44327756",
+    affiliateUrl: "https://meli.la/1iXabyB",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 99,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Daewoo" },
+      { label: "Modelo", value: "DST-6593" },
+      { label: "Potencia", value: "1.200 W" },
+      { label: "Rebanadas", value: "4" },
+      { label: "Función", value: "Tostar (ficha oficial); reseñas reales confirman que también tiene descongelar y recalentar, aunque no figuran en la ficha técnica" },
+      { label: "Ancho de ranura", value: "No figura en la ficha; reseñas reales confirman que NO es \"extra ancha\" pese al nombre del título (sirve para 2 panes de molde por ranura, no para pan francés)" },
+      { label: "Color", value: "Negro" },
+      { label: "Voltaje", value: "220V" },
+      { label: "Garantía", value: "6 meses" },
+    ],
+    relatedProducts: ["MLA19479631", "MLA20804912", "MLA53972632"],
+    priceUpdated: "2026-07-16",
+    priceLastChecked: "2026-07-16",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-16",
+    description: "Daewoo DST-6593: la única tostadora de 4 rebanadas de esta guía, con 1.200 W de potencia. El título promete \"ranura ancha\", pero reseñas reales confirman que no es tan ancha como parece.",
+    seoTitle: "Daewoo DST-6593: 4 rebanadas, ¿la ranura es ancha de verdad?",
+    metaDescription: "Tostadora Daewoo DST-6593 de 4 panes: la única de esta guía para 4 rebanadas a la vez. Precio real y opiniones verificadas.",
+    verdict: "Sirve si necesitás tostar 4 rebanadas a la vez: es la única de esta guía con esa capacidad, con 1.200 W de potencia para un tostado rápido. El hallazgo honesto: el título promete \"ranura ancha\" (para pan artesanal o francés), pero una reseña real lo desmiente directo: \"la compré porque decía ranura ancha y la verdad no es así\". La ranura es larga (entran 2 panes de molde por ranura) pero no ancha en el sentido de pan grueso. Es también la de menos calificaciones de esta guía (99), aunque con buen rating.",
+    pros: [
+      "La única de esta guía con capacidad para 4 rebanadas a la vez",
+      "1.200 W de potencia, la más alta de esta guía, para tostado rápido",
+      "Según reseñas reales, tiene funciones de descongelar y recalentar aunque no figuren en la ficha oficial",
+      "Color negro mate, combina con cocinas oscuras según una reseña real",
+    ],
+    cons: [
+      "El título promete \"ranura ancha\" pero una reseña real lo desmiente: no entra pan francés o artesanal grueso, solo panes de molde",
+      "Solo 99 calificaciones, la base más chica de esta guía",
+      "Una reseña real marca que el manual de instrucciones no explica bien las funciones",
+      "6 meses de garantía, menos que los 2 años que declaran Liliana y Philips de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Daewoo DST-6593 es la única tostadora de 4 rebanadas de esta guía, con 1.200 W de potencia, pensada para quien necesita tostar para varias personas a la vez sin hacer dos tandas.
+
+## Cómo funciona
+
+Tuesta 4 rebanadas de pan con la potencia más alta de esta guía (1.200 W). La ficha oficial de MercadoLibre solo declara la función "Tostar", pero reseñas reales confirman que también tiene descongelar (defrost) y recalentar (reheat), funciones que no figuran en la ficha técnica estructurada.
+
+## La contra real
+
+El título de la publicación promete "ranura ancha", pensado para pan artesanal o francés grueso. Pero una reseña real lo desmiente directo: "la compré porque decía ranura ancha y la verdad no es así. La ranura es larga para colocar dos panes de molde en cada ranura, pero no ancha para tostar pan francés". Otra reseña suma que "el manual básicamente no explica nada de cómo usar las funciones defrost o reheat", aunque confirma que esas funciones sí existen.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Liliana Tostler AT900](/producto/MLA19479631) y el [Atma To20Wp](/producto/MLA20804912) (2 rebanadas cada una), la Daewoo duplica la capacidad de una sola tanda. Frente al [Philips HD2510/90](/producto/MLA53972632) (marca premium), la Daewoo cuesta menos pero con una base de opiniones mucho más chica.
+
+## Para quién sí y para quién no
+
+Comprá la Daewoo DST-6593 si necesitás tostar 4 rebanadas a la vez y no te importa que la ranura no sea tan ancha como promete el título. No es la mejor opción si buscabas específicamente una ranura ancha para pan artesanal o francés: ninguna reseña real confirma que cumpla esa función pese al nombre de la publicación.`,
+    faq: [
+      {
+        question: "¿La ranura es realmente ancha, como dice el título?",
+        answer: "No según reseñas reales de compradores: \"la compré porque decía ranura ancha y la verdad no es así\". La ranura es larga (entran 2 panes de molde por ranura) pero no ancha para pan francés o artesanal grueso.",
+      },
+      {
+        question: "¿Tiene función de descongelar y recalentar?",
+        answer: "Según reseñas reales de compradores sí, aunque esas funciones no figuran en la ficha técnica oficial de MercadoLibre. Una reseña marca que el manual no explica bien cómo usarlas.",
+      },
+      {
+        question: "¿Cuántas rebanadas tuesta a la vez?",
+        answer: "4, la única de esta guía con esa capacidad. La [Liliana](/producto/MLA19479631) y el [Atma](/producto/MLA20804912) de esta guía tuestan 2 rebanadas, y sirven para porciones más chicas.",
+      },
+      {
+        question: "¿Por qué tiene tan pocas calificaciones?",
+        answer: "Solo 99 calificaciones, la base más chica de esta guía, aunque con buen rating (4.7). Puede deberse a menos tiempo en el mercado o menor volumen de ventas frente a las otras opciones.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "6 meses, menos que los 2 años que declaran el vendedor de la [Liliana Tostler AT900](/producto/MLA19479631) y el fabricante de la [Philips HD2510/90](/producto/MLA53972632) de esta guía.",
+      },
+    ],
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
