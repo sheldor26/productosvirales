@@ -28248,6 +28248,7 @@ El diseño con visor en tapa es una preferencia subjetiva: a algunas personas le
     condition: 'new',
     freeShipping: false,
     rating: 4.9,
+    reviewCount: 626,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-coral)',
     description: "La freidora de aire doble piso Peabody PE-AFDL102N en color negro es ideal para quienes buscan una forma de cocinar más saludable sin sacrificar el sabor. Su diseño innovador permite la preparación simultánea de diferentes platos, optimizando el tiempo en la cocina y facilitando la elaboración de al",
@@ -29943,6 +29944,7 @@ El Bareeq Al Dhahab de Al Wataniah es el punto de entrada más barato con volume
     reviewCount: 334,
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    description: "Perfume árabe genérico masculino fresco con fondo dulce (pese al nombre, no huele a mandarina pura). 4.5 estrellas en 334 calificaciones; los compradores reportan buena duración, de hasta 9-10 horas.",
     pros: [
       "Aroma fresco y cítrico con un fondo dulce",
       "Duración larga: hay quien reporta 9 o 10 horas",
@@ -30015,6 +30017,7 @@ El Mandarine Sky cumple donde importa: huele rico, dura y el frasco no parece de
     reviewCount: 212,
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
+    description: "Perfume árabe genérico masculino con un perfil cálido de cacao dulce, pensado para otoño e invierno. 4.5 estrellas en 212 calificaciones; la duración en piel es el punto que más divide a los compradores.",
     pros: [
       "Aroma dulce a cacao que no empalaga",
       "Perfil cálido ideal para otoño e invierno",
@@ -30088,6 +30091,7 @@ El Asad Bourbon hace bien lo suyo: un dulce de cacao que no satura, perfecto par
     reviewsSampledAt: "2026-06-10",
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    description: "Set de 4 fragancias árabes genéricas unisex en formato tubo de 35ml, pensado para descubrir qué perfil gusta antes de comprar un frasco grande. 4.4 estrellas en 126 calificaciones.",
     pros: [
       "Cuatro fragancias distintas para probar en un solo set",
       "Formato chico de 35ml, cómodo para llevar",
@@ -30156,6 +30160,7 @@ Es un kit de descubrimiento. Cuatro aromas árabes para encontrar el tuyo, a pre
     reviewCount: 249,
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    description: "Perfume árabe genérico masculino de buena presentación, con perfumero recargable incluido para reaplicar durante el día. 4.2 estrellas en 249 calificaciones; su punto débil es la duración, entre 3 y 4 horas según la mayoría de las reseñas.",
     pros: [
       "Buena relación precio-calidad para el que arranca",
       "Presentación cuidada, esencia agradable",
@@ -30229,6 +30234,7 @@ El Jamal es lindo de entrada y viene bien equipado con su perfumero recargable. 
     reviewCount: 152,
     soldQuantity: 100,
     pastelColor: "var(--pastel-pink)",
+    description: "Kit de 4 fragancias árabes genéricas para hombre en formato tubo de 35ml con atomizador, pensado para probar distintos perfiles antes de comprar un frasco grande. 4.5 estrellas en 152 calificaciones.",
     pros: [
       "Cuatro fragancias árabes para hombre en un kit",
       "Vienen con atomizador, cómodos de aplicar",
@@ -30299,6 +30305,7 @@ Un kit de descubrimiento bien armado: cuatro aromas árabes frescos, con atomiza
     reviewCount: 158,
     soldQuantity: 500,
     pastelColor: "var(--pastel-pink)",
+    description: "Perfume árabe genérico masculino frutal y dulce, con una presentación de botella en terminación de terciopelo. 4.2 estrellas en 158 calificaciones; buena opción para regalar, aunque la duración en piel varía según cada persona.",
     pros: [
       "Aroma frutal dulzón, intenso y agradable",
       "Presentación lujosa: la botella tiene terminación de terciopelo",
@@ -30525,6 +30532,7 @@ El Qaed Al Fursan cumple bien lo que promete el propio vendedor: una fragancia f
     tiktokViews: "15M+",
     badge: "bestseller",
     pastelColor: "var(--pastel-amber)",
+    description: "Eau de Parfum masculino de Lattafa, amaderado-especiado con apertura de pimienta negra y piña, corazón de pachulí y café, y fondo de vainilla y ámbar. El perfume árabe más validado de Argentina, con 10.940 calificaciones y rating 4.7.",
 
     // ── Pros / Cons / Verdict (visible en página individual) ──
     pros: [
@@ -31788,6 +31796,7 @@ Las reseñas coinciden en que rinde mejor en climas fríos: "el olor es muy rico
     tiktokViews: "20M+",
     badge: "viral",
     pastelColor: "var(--pastel-pink)",
+    description: "Eau de Parfum femenino de Lattafa, la versión más concentrada de la línea Yara: floral-gourmand-oriental con mandarina y durazno de apertura, flor de naranjo y caramelo en el corazón, vainilla y ámbar de fondo. Rating 4.8 con 1.926 calificaciones, uno de los perfumes árabes femeninos más virales de TikTok.",
 
     // ── Pros / Cons / Verdict (visible en página individual) ──
     pros: [
@@ -33583,6 +33592,7 @@ Por $72.500 con envío gratis, el Her Confession es de los perfumes árabes de m
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
     metaDescription: "Sabah Al Ward de Al Wataniah, perfume árabe femenino 100ml. Floral dulce con jazmín, cacao y vainilla (no es de rosas). Para quién sí y para quién no.",
+    description: "Eau de Parfum femenino de Al Wataniah, floral dulce con jazmín y flor de azahar de apertura, y fondo de cacao, vainilla y haba tonka (pese al nombre, no es un perfume de rosas). Rating 4.7 con 5.521 calificaciones.",
     verdict: "Si te gustan los perfumes árabes femeninos dulces, cremosos y para clima fresco, el Sabah Al Ward cumple: jazmín, cacao y vainilla, buena duración y 4.7 estrellas en 518 opiniones por menos de la mitad de lo que sale un nicho. Para quién no: si lo comprás esperando un perfume de rosas (el nombre significa \"mañana de rosas\") te vas a confundir, porque de rosa tiene poco; y si buscás algo liviano para el calor del día, este empalaga.",
     pros: [
       "Floral dulce y cremoso bien armado: jazmín sambac, flor de azahar y un fondo de cacao y vainilla que lo vuelve adictivo",
@@ -33696,6 +33706,7 @@ Por ARS 40.999 con envío gratis, el Sabah Al Ward es un floral dulce honesto: h
     pastelColor: "var(--pastel-pink)",
     seoTitle: "Asad Negro genérico 100ml: clon de Asad, opiniones",
     metaDescription: "Perfume Asad Negro genérico 100ml: clon del perfil de Lattafa Asad (pimienta, piña, vainilla). Para quién sirve, qué resignás contra el original y la contra real.",
+    description: "Perfume árabe genérico masculino que imita el perfil especiado-dulce del Lattafa Asad (pimienta, piña, vainilla, ámbar), a menos de la mitad del precio del original. 4.4 estrellas en 126 calificaciones; la duración y proyección de un clon varían según el lote.",
     verdict: "Si querés el perfil del Asad (especiado-dulce, dupe del Dior Sauvage Elixir) y te importa más el aroma que la marca en el frasco, este genérico de 100ml a 35.968 cumple: 4.4 estrellas en 119 opiniones y envío gratis. No es para vos si buscás el Lattafa original (este es genérico, no de Lattafa) ni si esperás la duración y proyección del de marca: en un clon eso varía lote a lote y no está garantizado.",
     pros: [
       "100 ml de Eau de Parfum a 35.968: cuesta menos de la mitad que el Lattafa Asad original",
@@ -34676,6 +34687,7 @@ El Afnan 9PM hace bien una sola cosa: ser un dulce masculino potente y reconocib
     soldQuantity: 1000,
     pastelColor: "var(--pastel-pink)",
     metaDescription: "Review honesta del Jamal Oud de Butterfly Effect, perfume árabe amaderado de hombre hecho en Argentina. Notas, duración real, lo de las feromonas y para quién conviene.",
+    description: "Perfume árabe masculino de Butterfly Effect (marca argentina), amaderado con acorde de cuero, canela y rosa, vendido como vegano y cruelty free. Rating 4.2 con 602 calificaciones; el claim de \"feromonas afrodisíacas\" es marketing sin evidencia comprobada.",
     verdict: "Para el que quiere entrar a los perfumes árabes amaderados gastando poco y sin importar de Medio Oriente, el Jamal Oud de Butterfly Effect cumple: es nacional, vegano, cuero y especias dulces, y tiene 4.2 sobre 602 opiniones. Si buscás un oud potente de verdad, longevidad de 10+ horas o te frena el discurso de \"feromonas afrodisíacas\", no es para vos: es una fragancia económica, la duración ronda las 6-8 horas y lo de las feromonas es marketing, no un efecto comprobado.",
     pros: [
       "Perfume árabe amaderado-cuero hecho en Argentina: te ahorrás importación y demoras",
@@ -35265,6 +35277,8 @@ A $42.000 es uno de los Yara más accesibles del catálogo. Comparado con el Yar
       "La versión más concentrada del 9PM: parfum intense con hasta 24 horas de duración y rating 4.8.",
     shortDescription:
       "Parfum Intense 100ml con mayor concentración que el 9PM estándar. Oriental especiado con pimienta negra, canela, vainilla y ámbar. Incluye estuche. Lanzamiento 2025.",
+    description:
+      "Parfum Intense 100ml de Afnan, la versión más concentrada del 9PM: oriental especiado con pimienta negra y especias cálidas de apertura, canela y manzana especiada en el corazón, vainilla y ámbar de fondo. Incluye estuche. Rating 4.8 con 2.011 calificaciones.",
     longDescription:
       "9PM Elixir es la versión parfum intense del 9PM original de Afnan, lanzada en 2025. La diferencia principal con la versión EDP estándar es la concentración de aceite perfumado: al ser parfum, la fórmula tiene más esencia y menos alcohol, lo que se traduce en mayor duración y menor volatilidad en piel.\n\nComparte la identidad olfativa del 9PM clásico (oriental especiado con manzana, canela y vainilla) pero con una base más rica y densa. La apertura arranca con pimienta negra y especias cálidas, el corazón mantiene la canela y la manzana especiada características de la línea, y el fondo es donde aparece la diferencia: vainilla más profunda, ámbar envolvente y maderas nobles que construyen una estela que, según Afnan, puede durar hasta 24 horas en piel.\n\nLa proyección es alta, especialmente en los primeros 4 a 6 horas de uso. Es un perfume pensado para noche, ocasiones especiales y climas frescos. En verano puede ser pesado si se aplica de más. La presentación incluye estuche, lo que suma al posicionamiento premium del producto.\n\nEn reseñas de Mercado Libre Argentina tiene un rating de 4.8 sobre 1.060 calificaciones, un número alto para un producto de lanzamiento reciente. Las opiniones mencionan principalmente tres cosas: la duración, la comparación favorable con fragancias de precio mucho mayor, y las notas iniciales dulces-especiadas (algunos usuarios perciben ciruela o manzana caramelizada en la apertura).\n\nAfnan es una casa perfumera de Emiratos Árabes Unidos con décadas de trayectoria en el nicho árabe premium. A diferencia de Lattafa, Afnan no certifica sus productos como libres de crueldad animal.\n\nEl 9PM Elixir es la entrada al territorio parfum intense sin cruzar la barrera del precio europeo. Para quien ya conoce el 9PM estándar y quiere algo más concentrado, es la evolución natural. Para quien nunca probó la línea, tiene sentido empezar por el 9PM original y subir al Elixir si conecta con el perfil.",
 
