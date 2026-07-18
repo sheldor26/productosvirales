@@ -193,8 +193,12 @@ export interface GuideSection {
     | "trust-block";
   id?: string;
   title?: string;
+  /** `h3` only: renderiza el número inicial del título ("1. Título") como ancla visual grande. No afecta h3 sin este flag. */
+  bigNumber?: boolean;
   content?: string;
   items?: string[] | Array<{ label: string; href?: string }>;
+  /** `list` only: envuelve la lista en una caja con fondo gris sutil (bg-secondary), separándola del texto circundante. */
+  boxed?: boolean;
   headers?: string[];
   rows?: string[][];
   card?: {

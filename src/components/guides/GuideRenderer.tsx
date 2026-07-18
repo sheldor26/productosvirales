@@ -36,7 +36,31 @@ function SectionRenderer({ section }: { section: GuideSection }) {
         </h2>
       );
 
-    case "h3":
+    case "h3": {
+      const numberMatch = section.bigNumber ? section.title?.match(/^(\d+)\.\s*(.+)/) : null;
+      if (numberMatch) {
+        const [, num, rest] = numberMatch;
+        return (
+          <h3
+            id={section.id}
+            className="flex items-baseline gap-3 mt-10 mb-3 scroll-mt-20 leading-tight"
+          >
+            <span
+              aria-hidden="true"
+              className="text-[40px] md:text-[48px] font-extrabold text-[var(--text-muted)]"
+              style={{ fontFamily: "var(--font-display)", opacity: 0.35 }}
+            >
+              {num}
+            </span>
+            <span
+              className="text-xl md:text-[22px] font-semibold text-[var(--text-primary)]"
+              style={{ fontFamily: "var(--font-display)" }}
+            >
+              {rest}
+            </span>
+          </h3>
+        );
+      }
       return (
         <h3
           id={section.id}
@@ -46,6 +70,7 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           {section.title}
         </h3>
       );
+    }
 
     case "p":
       return (
@@ -149,7 +174,10 @@ function SectionRenderer({ section }: { section: GuideSection }) {
 
     case "list":
       return (
-        <div className="my-6">
+        <div
+          className={section.boxed ? "my-6 rounded-[16px] p-4 md:p-5 border border-[var(--border)]" : "my-6"}
+          style={section.boxed ? { backgroundColor: "var(--bg-secondary)" } : undefined}
+        >
           {section.title && (
             <p className="mb-2 font-semibold text-[17px] md:text-[18px] text-[var(--text-primary)]">
               {section.title}
