@@ -23330,7 +23330,7 @@ Un proyector portátil Android correcto y muy vendido, con la ventaja de las app
     metaDescription: "Proyector HY320 de Maxnova con WiFi, Bluetooth, Android y proyección de 35 a 150 pulgadas. 4.4 estrellas en más de 300 opiniones. Lo bueno y lo malo, con precio real.",
     ogTitle: "Maxnova HY320 — el paso arriba del HY300",
     ogDescription: "WiFi, Bluetooth, Android, imagen de hasta 150 pulgadas y 4.4 estrellas. Análisis honesto: qué esperar de los 12.000 lúmenes declarados.",
-    price: 208155,
+    price: 131998,
     priceUpdated: "2026-07-17",
     priceLastChecked: "2026-07-17",
     priceStatus: "fresh",
