@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-07-19 — `until true; do ...; done` como loop de espera: nunca corre el body
+
+**Qué pasó:** al esperar en background 5 auditorías paralelas de Codex/Gemini (trio-auditor sobre 4 guías), escribí un script de espera con `until true; do ... sleep 10; done`. El Monitor devolvió "DONE" casi al instante, mucho antes de que los procesos reales terminaran. Traté 3 de los 5 resultados como completos sin verificarlos.
+
+**Por qué:** `until` corre el body mientras la condición sea FALSA. `true` (el comando) siempre devuelve éxito (0 = verdadero), así que `until true` nunca entra al loop — es lo opuesto de lo que quería (`while true` sí lo hace). El bug es puramente de shell, no del Monitor tool.
+
+**Cómo evitarlo:** para loops de "esperar hasta que se cumpla una condición", usar `while <condición-negativa-o-comando-que-falla>; do sleep N; done` o directamente `while [ ! -s "$archivo" ]; do sleep N; done`. Nunca usar `until true`. Si un Monitor devuelve DONE sospechosamente rápido para un proceso backgroundeado de larga duración, verificar con `ps aux` antes de confiar en el resultado.
+
+**Archivos involucrados:** ninguno del repo (script de shell ad-hoc en la sesión).
+
 ## 2026-07-09 — `git stash` sobre un árbol con trabajo sin commitear de Juan
 
 **Qué pasó:** para verificar si un check fallaba antes de mis cambios, se intentó `git stash` en un working tree que tenía trabajo previo de Juan sin commitear (ArticleFooter, curated-products, scripts). Falló por un `.git/index.lock` viejo que el sandbox no puede borrar — de pura suerte, porque si funcionaba habría stasheado el trabajo de Juan mezclado con el de la sesión.

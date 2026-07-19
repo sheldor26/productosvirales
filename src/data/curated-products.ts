@@ -4499,17 +4499,17 @@ Es un microondas honesto: hace lo básico bien, es barato y tiene respaldo de ma
     priceUpdated: "2026-07-17",
     priceLastChecked: "2026-07-17",
     priceStatus: "fresh",
-    description: "Microondas BGH Quick Chef Eco de 20 litros y 700 W con control digital y menús automáticos. El BGH digital más elegido, con más de 3.700 calificaciones. Mismo tamaño que el de perillas, con panel para programar.",
+    description: "Microondas BGH Quick Chef Eco de 20 litros y 700 W con control digital y menús automáticos. El BGH digital más elegido, con más de 5.700 calificaciones. Mismo tamaño que el de perillas, con panel para programar.",
     seoTitle: "Microondas BGH B120DS20 Eco 20L: ¿conviene? Análisis",
-    metaDescription: "BGH Quick Chef Eco B120DS20, 20 litros y 700 W con control digital. Para una persona o pareja que calienta y descongela. 4.7★ en 3.700+ opiniones. Qué resignás.",
-    verdict: "Para una o dos personas que quieren calentar y descongelar con panel digital, el BGH B120DS20 es de las compras más sensatas: 20 litros, 700 W, descongelado por peso y 4.7 estrellas en más de 3.700 calificaciones, de una marca con service nacional. Si cocinás para una familia, querés dorar o gratinar, o no te banca esperar, no es para vos: son 20 litros, 700 W y no trae grill.",
+    metaDescription: "BGH Quick Chef Eco B120DS20, 20 litros y 700 W con control digital. Para una persona o pareja que calienta y descongela. 4.7★ en 5.700+ opiniones. Qué resignás.",
+    verdict: "Para una o dos personas que quieren calentar y descongelar con panel digital, el BGH B120DS20 es de las compras más sensatas: 20 litros, 700 W, descongelado por peso y 4.7 estrellas en más de 5.700 calificaciones, de una marca con service nacional. Si cocinás para una familia, querés dorar o gratinar, o no te banca esperar, no es para vos: son 20 litros, 700 W y no trae grill.",
     pros: [
       "20 litros: entra en cualquier cocina, ideal para una persona o pareja",
       "Control digital con descongelado por peso (100 a 1500 g) y 6 programas automáticos",
       "Línea Eco: eficiencia energética B y display que se apaga solo cuando no lo usás",
       "Traba para niños y bloqueo de seguridad de fábrica",
       "BGH, marca argentina con service oficial conocido",
-      "4.7 estrellas en más de 3.700 calificaciones: respaldo alto de compradores",
+      "4.7 estrellas en más de 5.700 calificaciones: respaldo alto de compradores",
     ],
     cons: [
       "700 W es potencia estándar: calienta y descongela más lento que uno de 900 a 1000 W",
@@ -4517,7 +4517,7 @@ Es un microondas honesto: hace lo básico bien, es barato y tiene respaldo de ma
       "Sin grill: solo calienta y descongela, no dora ni gratina",
       "Garantía de 12 meses, más corta que la de modelos con magnetrón de garantía extendida",
     ],
-    articleBody: `El BGH B120DS20 (línea Quick Chef Eco) es un microondas de 20 litros y 700 W con control digital. Es de los BGH digitales más elegidos, con 4.7 estrellas en más de 3.700 calificaciones. La pregunta no es si anda, sino para qué uso lo querés. Para eso está esta ficha.
+    articleBody: `El BGH B120DS20 (línea Quick Chef Eco) es un microondas de 20 litros y 700 W con control digital. Es de los BGH digitales más elegidos, con 4.7 estrellas en más de 5.700 calificaciones. La pregunta no es si anda, sino para qué uso lo querés. Para eso está esta ficha.
 
 ## Para qué alcanza (y para qué no)
 
@@ -4547,7 +4547,7 @@ Sí: una persona o pareja que usa el microondas para calentar y descongelar, qui
 
 ## Veredicto
 
-Es una compra sensata si tu uso es el común. BGH digital, descongelado por peso, línea eficiente y un precio de entrada, con el respaldo de más de 3.700 calificaciones. No esperes potencia alta ni grill: para eso no está pensado. Si lo tuyo es solo calentar y descongelar, sobra.`,
+Es una compra sensata si tu uso es el común. BGH digital, descongelado por peso, línea eficiente y un precio de entrada, con el respaldo de más de 5.700 calificaciones. No esperes potencia alta ni grill: para eso no está pensado. Si lo tuyo es solo calentar y descongelar, sobra.`,
     faq: [
       {
         question: "¿El microondas BGH B120DS20 tiene grill?",
@@ -6415,17 +6415,17 @@ Para sumar horno y dos hornallas sin instalar gas, el Atma HG4022API cumple: 40 
     priceUpdated: "2026-07-13",
     priceLastChecked: "2026-07-17",
     priceStatus: "fresh",
-    description: "Horno eléctrico de sobremesa Atma de 50 litros con grill: calienta rápido y podés elegir dónde dorar (arriba, abajo o ambos), con timer e intensidad. Más de 1.500 calificaciones, a buen precio frente a las marcas más conocidas.",
+    description: "Horno eléctrico de sobremesa Atma de 50 litros con grill: calienta rápido y podés elegir dónde dorar (arriba, abajo o ambos), con timer e intensidad. Más de 1.500 calificaciones, aunque a un precio bastante más alto que el resto de la gama Atma.",
     seoTitle: "Horno Atma HGA5021N 50L Grill: review honesta y para quién",
     metaDescription: "Horno eléctrico Atma HGA5021N de 50 litros con grill y luz interior. Para quién rinde, qué resignás y la contra real. 4.7 en 1.576 opiniones.",
-    verdict: "Si cocinás para una familia y querés un horno de mesa grande sin gastar en marcas premium, el Atma HGA5021N rinde: 50 litros, grill arriba/abajo/combinado, luz interior y timer, con 4.7 estrellas en 1.576 opiniones y service local. No es para vos si buscás precisión de repostería fina o controles digitales: el termostato es mecánico (perilla) y llega hasta los 200 °C que declara la publicación, no más.",
+    verdict: "Si cocinás para una familia y querés el horno de mesa más grande de la gama Atma, el HGA5021N rinde: 50 litros, grill arriba/abajo/combinado, luz interior y timer, con 4.7 estrellas en 1.576 opiniones y service local. Ojo con el precio: es bastante más caro que el resto de la gama Atma, así que dejó de ser simplemente 'un escalón más grande'. Tampoco es para vos si buscás precisión de repostería fina o controles digitales: el termostato es mecánico (perilla) y llega hasta los 200 °C que declara la publicación, no más.",
     pros: [
       "50 litros reales: entra una fuente grande, una pizza familiar o un pollo entero",
       "Grill con selección de zona: dorás arriba, abajo o combinado",
       "Luz interior para mirar la cocción sin abrir la puerta",
       "Timer programable que apaga el horno solo",
       "4.7 estrellas en 1.576 opiniones y respaldo de Atma con service local",
-      "Precio por debajo de las marcas más conocidas para el mismo tamaño",
+      "Termostato mecánico simple, sin electrónica que pueda fallar con los años",
     ],
     cons: [
       "Control mecánico a perilla, no digital: no hay menús ni temperatura exacta al grado",
@@ -6460,13 +6460,13 @@ Y es un aparato grande: cerca de 59 cm de ancho y unos 12 kg. Ocupa mesada de ve
 
 ## Para quién sí y para quién no
 
-Sí, si cocinás para una familia, querés un horno de mesa grande para no usar siempre el de la cocina, y no querés pagar de más por una marca premium. El tamaño, el grill por zonas y el respaldo de Atma con service local lo hacen una compra razonable.
+Sí, si cocinás para una familia, querés un horno de mesa grande para no usar siempre el de la cocina, y no te espanta pagar el salto de precio dentro de la propia gama Atma. El tamaño, el grill por zonas y el respaldo de Atma con service local lo hacen una compra razonable si el presupuesto da.
 
-No, si vivís solo o son dos y solo calentás cosas: te sobra horno y espacio, te conviene uno de 20 a 30 litros. Tampoco si hacés repostería seria que necesita temperatura exacta y más de 200 °C: ahí el control mecánico y el tope de temperatura te van a quedar cortos.
+No, si vivís solo o son dos y solo calentás cosas: te sobra horno y espacio, te conviene uno de 20 a 30 litros (más baratos dentro de la misma gama Atma). Tampoco si hacés repostería seria que necesita temperatura exacta y más de 200 °C: ahí el control mecánico y el tope de temperatura te van a quedar cortos.
 
 ## Veredicto
 
-El HGA5021N es un horno grande, honesto y a buen precio para cocina familiar de todos los días. Lo que pagás es capacidad y grill, no electrónica ni precisión. Si tenés claro que es a perilla, que precalienta lento y que ocupa lugar, vas a estar contento. Si esperabas controles digitales o temperatura de panadería, mirá otra cosa.`,
+El HGA5021N es un horno grande y honesto para cocina familiar de todos los días, aunque bastante más caro que el resto de la gama Atma. Lo que pagás es capacidad y grill, no electrónica ni precisión. Si tenés claro que es a perilla, que precalienta lento, que ocupa lugar y que el salto de precio es real, vas a estar contento. Si esperabas controles digitales o temperatura de panadería, mirá otra cosa.`,
     faq: [
       {
         question: "¿El Atma HGA5021N tiene grill?",
@@ -6806,7 +6806,7 @@ Es un dos en uno honesto para uso de a poco. 1800 W, grill completo, convección
     verdict: "Para quien quiere un robot de cocina que amase, cocine, pique y cocine al vapor sin gastar lo que sale una Thermomix (arriba de USD 2.000), el Suono Neochef Pro es la opción: bowl de 4.7 litros, 1700 W, pantalla táctil de 7 pulgadas y balanza integrada, con 4.8 estrellas en 100 opiniones. Si querés dorar carne, sellar a fuego fuerte o no te banca depender de una app china (Tuya) para las recetas, no es para vos: el tope es 120 °C y el ecosistema de recetas no es el de Thermomix.",
     pros: [
       "Bowl de 4.7 litros de acero inoxidable 304 con balanza integrada: pesás los ingredientes en la jarra sin balanza aparte",
-      "1700 W y más de 30 funciones automáticas (amasa, cocina, vapor, pica, sofríe, deshidrata, baño maría)",
+      "1700 W y más de 20 funciones automáticas (amasa, cocina, vapor, pica, sofríe, deshidrata, baño maría)",
       "Pantalla táctil TFT de 7 pulgadas a color y app Tuya con recetas paso a paso",
       "Vaporera de doble piso: cocinás dos pisos de comida al vapor mientras el bowl trabaja abajo",
       "Hace el mismo trabajo que una Thermomix por una fracción del precio",
@@ -6827,7 +6827,7 @@ Es para quien cocina seguido y quiere automatizar el proceso (poner ingredientes
 
 ## Las funciones clave
 
-Trae más de 30 funciones automáticas: amasar, cocinar, vapor, picar, triturar, sofreír, baño maría, deshidratar, cocción lenta y mantener caliente, entre otras. La jarra es de acero inoxidable 304 y tiene balanza integrada, así que pesás los ingredientes adentro del bowl sin balanza aparte.
+Trae más de 20 funciones automáticas: amasar, cocinar, vapor, picar, triturar, sofreír, baño maría, deshidratar, cocción lenta y mantener caliente, entre otras. La jarra es de acero inoxidable 304 y tiene balanza integrada, así que pesás los ingredientes adentro del bowl sin balanza aparte.
 
 La pantalla TFT de 7 pulgadas a color guía paso a paso. Se conecta por wifi a la app Tuya, donde están las recetas preconfiguradas y podés cargar las tuyas. Incluye vaporera de doble piso, amasador, espátula, batidor, colador y cuchilla multifunción.
 
@@ -7065,7 +7065,7 @@ No: familias grandes (el bowl de 1.5 litros útiles te frena), gente que quiere 
     metaDescription: "El Vonne EasyCook es un robot multifunción de 4.5 litros con wifi, pantalla de 7\" y 400 recetas. Para quien cocina seguido y quiere uno grande. Es marca nueva con pocas opiniones.",
     verdict: "Si cocinás seguido para una familia y querés un robot multifunción grande con pantalla y recetas guiadas, el Vonne EasyCook tiene la ficha más completa del nicho: 4.5 litros, 1000 W, balanza, vaporera y 400 recetas en español. Si querés el respaldo de una marca con trayectoria y service probado, frená: Vonne es nueva en este rubro y la publicación tiene apenas 12 opiniones, así que estás comprando ficha técnica, no historial.",
     pros: [
-      "Bowl de 4.5 litros de acero inoxidable, el más grande del nicho de robots económicos",
+      "Bowl de 4.5 litros de acero inoxidable, de los más grandes del nicho de robots económicos",
       "1000 W, suficiente para amasar pan y sopas para una familia",
       "Pantalla táctil TFT de 7\" con 400 recetas guiadas en español paso a paso",
       "Balanza integrada de 0 a 5 kg: pesás los ingredientes en el mismo bowl",
@@ -7111,7 +7111,7 @@ En criollo: la ficha técnica es de las mejores del nicho, pero estás comprando
 
 ## Para quién sí y para quién no
 
-Sí, si cocinás seguido, sos varios en casa y querés el bowl más grande del rango económico con pantalla y recetas guiadas. La relación funciones-precio es buena y los accesorios incluidos suman.
+Sí, si cocinás seguido, sos varios en casa y querés un bowl grande (de los más grandes del rango económico) con pantalla y recetas guiadas. La relación funciones-precio es buena y los accesorios incluidos suman.
 
 No, si lo que más te importa es el respaldo de una marca con years de service en Argentina, o si querés esperar a que junte más opiniones antes de jugarte. En ese caso, mirá la opción de Atma (marca conocida, menos litros) o un Suono si querés algo más chico y barato.
 
@@ -7153,7 +7153,7 @@ El Vonne EasyCook es la apuesta de "máxima ficha técnica por el precio" del ni
     id: "MLA57493542",
     title: "Robot De Cocina Smart Atma Mix 3l Rc2023tcp",
     canonicalName: "Robot de Cocina Atma Smart Mix 3L",
-    price: 785750,
+    price: 712499,
     originalPrice: 749999,
     currency: "ARS",
     image: "https://http2.mlstatic.com/D_NQ_NP_736187-MLA99461753304_112025-F.jpg",
@@ -7189,11 +7189,11 @@ El Vonne EasyCook es la apuesta de "máxima ficha técnica por el precio" del ni
     relatedProducts: ["MLA58514868", "MLA51527087"],
     priceUpdated: "2026-07-17",
     priceLastChecked: "2026-07-17",
-    priceStatus: "out_of_stock",
+    priceStatus: "fresh",
     description: "Robot de cocina Atma Smart Mix de 3 litros con pantalla táctil: la opción de una marca conocida con service en el país, para quien prefiere respaldo a un genérico. Es nuevo, así que todavía tiene pocas opiniones.",
     seoTitle: "Robot Atma Mix II 3L RC2023TCP: review honesta",
     metaDescription: "El Atma Mix II 3L (RC2023TCP) es para quien quiere un robot multifunción con marca conocida y service en el país. 1700 W, balanza y vaporera. Mirá la pega.",
-    verdict: "Para quien quiere un robot de cocina multifunción y prefiere una marca con service en el país antes que un genérico chino sin respaldo, el Atma Mix II de 3 litros cumple: 1700 W, bowl de acero inoxidable, balanza integrada, vaporera y 18 programas. No es para vos si buscás un Thermomix de verdad o si te pesa comprar algo con pocas opiniones todavía: es un modelo nuevo y arrastra apenas 6 reseñas (4.0 estrellas).",
+    verdict: "Para quien quiere un robot de cocina multifunción y prefiere una marca con service en el país antes que un genérico chino sin respaldo, el Atma Mix II de 3 litros cumple: 1700 W, bowl de acero inoxidable, balanza integrada, vaporera y 18 programas. No es para vos si buscás un Thermomix de verdad o si te pesa comprar algo con pocas opiniones todavía: es un modelo nuevo y arrastra apenas 8 reseñas (4.3 estrellas).",
     pros: [
       "1700 W de potencia, suficiente para amasar, cocinar y picar sin quedarse corto",
       "Bowl de 3 litros de acero inoxidable, no de plástico",
@@ -7203,7 +7203,7 @@ El Vonne EasyCook es la apuesta de "máxima ficha técnica por el precio" del ni
       "Pantalla táctil de 5 pulgadas con 18 programas automáticos",
     ],
     cons: [
-      "Es un modelo nuevo: arrastra solo 6 opiniones y 4.0 estrellas, poca muestra para confiar a ojos cerrados",
+      "Es un modelo nuevo: arrastra solo 8 opiniones y 4.3 estrellas, poca muestra para confiar a ojos cerrados",
       "No es un Thermomix: aunque imita el formato, no juega en esa liga de prestaciones ni precisión",
       "3 litros rinde para dos a cuatro personas; para tandas grandes de familia numerosa se queda chico",
       "Mide 48 x 35 x 51 cm y pesa más de 8 kg: ocupa lugar en la mesada y no es para guardar y sacar todo el tiempo",
@@ -7232,7 +7232,7 @@ Con eso cubrís lo básico de un robot de cocina sin tener que comprar accesorio
 
 ## La contra real
 
-Es un modelo nuevo. Hoy tiene apenas 6 opiniones y 4.0 estrellas. Es poca muestra: no podés saber todavía cómo se porta a los dos años de uso ni qué tan común es que falle.
+Es un modelo nuevo. Hoy tiene apenas 8 opiniones y 4.3 estrellas. Es poca muestra: no podés saber todavía cómo se porta a los dos años de uso ni qué tan común es que falle.
 
 Acá la balanza se inclina por el respaldo de la marca. Atma tiene service en el país, así que si algo se rompe, sabés a quién reclamarle. Eso es lo que pagás de más frente a un genérico.
 
@@ -7246,7 +7246,7 @@ No: si esperás un Thermomix de verdad (no lo es), si cocinás para muchos y nec
 
 ## Veredicto
 
-El Atma Mix II 3L es una compra razonable para entrar al mundo de los robots de cocina con red de seguridad: marca conocida, service local, 1700 W, balanza y vaporera incluidas. La pega es que es nuevo y tiene pocas opiniones (4.0 en 6 reseñas), así que comprás más por la marca que por el historial. Si eso no te frena, da buena relación función-precio.`,
+El Atma Mix II 3L es una compra razonable para entrar al mundo de los robots de cocina con red de seguridad: marca conocida, service local, 1700 W, balanza y vaporera incluidas. La pega es que es nuevo y tiene pocas opiniones (4.3 en 8 reseñas), así que comprás más por la marca que por el historial. Si eso no te frena, da buena relación función-precio.`,
     faq: [
       {
         question: "¿Cuántos litros tiene el bowl del Atma Mix II RC2023TCP?",
@@ -7270,7 +7270,7 @@ El Atma Mix II 3L es una compra razonable para entrar al mundo de los robots de 
       },
       {
         question: "¿Tiene buenas opiniones?",
-        answer: "Es un modelo nuevo: hoy tiene 4.0 estrellas en apenas 6 opiniones. Es poca muestra para confiar a ciegas, así que se compra más por el respaldo de la marca que por el historial de reseñas.",
+        answer: "Es un modelo nuevo: hoy tiene 4.3 estrellas en apenas 8 opiniones. Es poca muestra para confiar a ciegas, así que se compra más por el respaldo de la marca que por el historial de reseñas.",
       },
       {
         question: "¿Qué tamaño ocupa en la mesada?",
@@ -7318,27 +7318,27 @@ El Atma Mix II 3L es una compra razonable para entrar al mundo de los robots de 
       { label: "Peso", value: "4,65 kg" },
     ],
     relatedProducts: ["MLA58514868", "MLA51527087"],
-    priceUpdated: "2026-07-13",
+    priceUpdated: "2026-07-17",
     priceLastChecked: "2026-07-17",
-    priceStatus: "out_of_stock",
+    priceStatus: "fresh",
     description: "Robot de cocina Heybez PMIX08 con vaporera: el premium del nicho en MercadoLibre, cerca de la categoría Thermomix por prestaciones y precio (más de un millón de pesos). Para quien quiere lo más completo y no le importa pagarlo.",
     seoTitle: "Heybez PMIX08 Negra: review honesto del robot tipo Thermomix",
     metaDescription: "Robot de cocina Heybez PMIX08 Negra con vaporera: vaso de acero 3L, 30 funciones, pantalla táctil y wifi. Para quien quiere lo más completo. La pega: el precio y la garantía.",
-    verdict: "Para quien quiere un robot de cocina lo más cercano a una Thermomix sin pagar lo que sale una Thermomix, el Heybez PMIX08 es de lo más completo del nicho en MercadoLibre: vaso de acero inoxidable de 3 litros, balanza integrada, pantalla táctil de 6,9 pulgadas, wifi con recetario sin suscripción y 30 funciones. Tiene 4.6 estrellas, aunque todavía con pocas opiniones (14). Si te asusta gastar más de un millón de pesos en una marca que no es de las históricas, o esperás un motor potente, no es para vos: son 800 W de motor y la garantía es de 6 meses.",
+    verdict: "Para quien quiere un robot de cocina lo más cercano a una Thermomix sin pagar lo que sale una Thermomix, el Heybez PMIX08 es de lo más completo del nicho en MercadoLibre: vaso de acero inoxidable de 3 litros, balanza integrada, pantalla táctil de 6,9 pulgadas, wifi con recetario sin suscripción y 30 funciones. Tiene 4.7 estrellas, aunque todavía con pocas opiniones (16). Si te asusta gastar más de un millón de pesos en una marca que no es de las históricas, o esperás un motor potente, no es para vos: son 800 W de motor y la garantía es de 6 meses.",
     pros: [
       "Vaso de acero inoxidable de 3 litros, el más grande de su categoría de robots tipo Thermomix",
       "Balanza integrada de 1 a 5000 g con función tara: pesás los ingredientes adentro del vaso",
       "Pantalla táctil TFT de 6,9 pulgadas con modos manual, guiado y automático",
       "Wifi con recetario que se actualiza solo y queda guardado en el equipo, sin pago de suscripción",
       "Llega con vaporera de dos niveles (3,2 L), cuchilla de 4 hojas, batidor mariposa, espátula y vaso medidor",
-      "4.6 estrellas en MercadoLibre y respaldo de marca con venta en Megatone, Frávega y tiendas oficiales",
+      "4.7 estrellas en MercadoLibre y respaldo de marca con venta en Megatone, Frávega y tiendas oficiales",
     ],
     cons: [
       "Más de 1,19 millones de pesos: es el premium del nicho, casi el doble que un Suono de 4.7 litros",
       "Motor de 800 W: por debajo de los 1700 W de los Suono, rinde menos para amasar o moler en seco",
       "Garantía de fábrica de solo 6 meses por defectos, corta para un electrodoméstico de este precio",
       "Vaso de 3 litros: alcanza para una familia chica, pero queda corto si cocinás para muchos seguido",
-      "Pocas opiniones todavía (14): el promedio de 4.6 está armado sobre una muestra chica",
+      "Pocas opiniones todavía (16): el promedio de 4.7 está armado sobre una muestra chica",
     ],
     articleBody: `## Qué es y para quién alcanza
 
@@ -7372,7 +7372,7 @@ Dos cosas pesan. La primera, el precio: más de 1,19 millones de pesos lo ponen 
 
 La segunda, la garantía: 6 meses de fábrica por defectos. Para un electrodoméstico de cocina de este precio es corto. Suele cubrirse con la garantía del vendedor de MercadoLibre, pero conviene confirmarlo antes de comprar.
 
-Y el promedio de 4.6 estrellas está armado sobre 14 opiniones. Es buena nota, pero es poca muestra todavía.
+Y el promedio de 4.7 estrellas está armado sobre 16 opiniones. Es buena nota, pero es poca muestra todavía.
 
 ## Para quién sí y para quién no
 
@@ -15629,10 +15629,10 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
     id: 'MLA43536904',
     title: 'Ventilador De Techo Peabody Pe-vtrdc425b 42 Retractil Cantidad de aspas 3 Estructura Blanco Aspas Transparente Diámetro 1.067 m Frecuencia 50 Hz Material de las aspas Acrílico',
     brand: "Peabody",
-    price: 665295,
-    priceUpdated: "2026-07-08",
+    price: 599999,
+    priceUpdated: "2026-07-17",
     priceLastChecked: "2026-07-17",
-    priceStatus: "out_of_stock",
+    priceStatus: "fresh",
     originalPrice: undefined,
     currency: 'ARS',
     image: 'https://http2.mlstatic.com/D_NQ_NP_2X_830524-MLA99953512795_112025-F.webp',
@@ -15656,9 +15656,9 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
     description: '- 3 palas retráctiles invisibles de gran tamaño.   - 3 tonos de luz progresivas: Fría, Blanca cálida y Amarilla cálida.   - 6 velocidades.   - Dimmer para brillo regulable.   - Control remoto de largo alcance.   - Timer para apagado automático.   - Memoria de último modo de luz.   - Modo Convección:',
     badge: 'viral',
     seoTitle: "Ventilador de Techo Retráctil Peabody PE-VTRDC425B",
-    metaDescription: 'Peabody PE-VTRDC425B: motor DC de cobre, 170 m³/min, luz LED con dimmer, 3 tonos, modo convección y 2 barrales incluidos. 4.8⭐ con 1.004 compradores.',
+    metaDescription: 'Peabody PE-VTRDC425B: motor DC de cobre, 170 m³/min, luz LED con dimmer, 3 tonos, modo convección y 2 barrales incluidos. 4.9⭐ con 1.169 compradores.',
     ogTitle: 'Ventilador de Techo Retráctil Peabody PE-VTRDC425B | ProductosVirales',
-    ogDescription: 'Motor DC 100% cobre, 170 m³/min, luz LED con dimmer y 3 tonos progresivos, modo convección invierno, 2 barrales incluidos. 4.8⭐ con 1.004 compradores.',
+    ogDescription: 'Motor DC 100% cobre, 170 m³/min, luz LED con dimmer y 3 tonos progresivos, modo convección invierno, 2 barrales incluidos. 4.9⭐ con 1.169 compradores.',
     h1: 'Peabody PE-VTRDC425B: el ventilador retráctil con motor DC de cobre y 170 m³/min de caudal',
     pros: [
       'Motor DC 100% cobre (eficiente y durable)',
@@ -15666,18 +15666,18 @@ Si querés comparar con otras opciones del segmento, mirá también el [Peabody 
       'Luz LED con dimmer + memoria + modo noche',
       'Modo convección para invierno',
       '2 barrales incluidos (40/50 cm)',
-      '1.004 calificaciones con 4.8⭐ (mayor volumen del catálogo)',
+      '1.169 calificaciones con 4.9⭐, el mayor volumen entre los retráctiles DC del catálogo',
     ],
     cons: [
       '39 dB (más ruidoso que otros retráctiles declarados)',
       'Solo 50 Hz (Novohome acepta 50/60)',
       'Conectividad Wi-Fi con datos contradictorios',
-      'Precio premium ($257.291)',
+      'Precio premium (alrededor de $600.000)',
     ],
     verdict: 'El retráctil más vendido del catálogo con motor DC y caudal premium. Si priorizás flujo de aire + control fino de luz, es el indicado.',
     articleBody: `## Por qué Peabody es la marca más buscada en este segmento
 
-En Argentina, "ventilador de techo retráctil Peabody" acumula búsquedas mensuales que ninguna otra marca del segmento tiene en volumen comparable. Eso no es casualidad: Peabody tiene distribución local, presencia en cadenas de electro y un historial de posventa que genera opiniones activas. Con 1.004 calificaciones y 4.8 estrellas en MercadoLibre, el PE-VTRDC425B es el ventilador retráctil con mayor cantidad de reseñas del catálogo.
+En Argentina, "ventilador de techo retráctil Peabody" acumula búsquedas mensuales que ninguna otra marca del segmento tiene en volumen comparable. Eso no es casualidad: Peabody tiene distribución local, presencia en cadenas de electro y un historial de posventa que genera opiniones activas. Con 1.169 calificaciones y 4.9 estrellas en MercadoLibre, el PE-VTRDC425B es de los retráctiles con motor DC con más reseñas del catálogo (el [Etheos](/producto/MLA44033885), con motor AC, tiene una base todavía mayor).
 
 El resumen de compradores lo describe con precisión: "silencioso y ofrece un flujo de aire espectacular, siendo ideal incluso para techos altos. Su diseño es atractivo y cuenta con diferentes opciones de luces que se pueden regular."
 
@@ -15741,7 +15741,7 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
     faq: [
       { question: '¿El Peabody PE-VTRDC425B tiene modo invierno?', answer: 'Sí. Tiene modo convección que invierte el sentido de giro de las aspas a baja velocidad para distribuir el aire caliente acumulado en el techo hacia abajo, sin generar corriente directa. La ficha de ML dice "aspas reversibles: No" porque la reversión es electrónica, no manual.' },
       { question: '¿Tiene dimmer o solo cambia entre tres tonos de luz?', answer: 'Tiene ambas cosas. Dentro de cada tono de luz (fría, blanca cálida, amarilla cálida) podés regular el brillo con el dimmer desde el control remoto. También tiene modo noche con luz tenue y memoria del último modo usado.' },
-      { question: '¿Qué diferencia hay entre el Peabody y el Novohome NH-VTR del mismo catálogo?', answer: 'Principalmente cuatro diferencias. El Peabody tiene motor DC de cobre (más eficiente), 3 aspas grandes de acrílico vs 4 del Novohome, dimmer regulable y memoria de modo (que el Novohome no menciona), y un caudal declarado de 170 m³/min. El Novohome es más económico ($113.149 vs $257.291) y tiene un ruido mínimo más bajo declarado (20 dB vs 39 dB del Peabody).' },
+      { question: '¿Qué diferencia hay entre el Peabody y el Novohome NH-VTR del mismo catálogo?', answer: 'Principalmente cuatro diferencias. El Peabody tiene motor DC de cobre (más eficiente), 3 aspas grandes de acrílico vs 4 del Novohome, dimmer regulable y memoria de modo (que el Novohome no menciona), y un caudal declarado de 170 m³/min. El Novohome es más económico (alrededor de $160.000 contra $600.000 del Peabody) y tiene un ruido mínimo más bajo declarado (20 dB vs 39 dB del Peabody).' },
       { question: '¿Para qué tamaño de ambiente sirve?', answer: 'Con 42 pulgadas (1,07 m) de diámetro y 170 m³/min de caudal, los compradores lo mencionan como "ideal incluso para techos altos". Es apto para ambientes de 20 a 35 m² aproximadamente.' },
       { question: '¿Incluye los dos barrales?', answer: 'Sí. Vienen incluidos el barral corto (altura total 40 cm) y el barral largo (altura total 50 cm), permitiendo adaptar la instalación según la altura del techo.' },
       { question: '¿Tiene conectividad con celular?', answer: 'La descripción del vendedor menciona "todas las funciones desde el celular", pero la ficha técnica oficial de MercadoLibre lista "Con Wi-Fi: No". Hay una contradicción. Recomendamos consultar al vendedor antes de comprar si esa función es relevante para tu decisión.' },
@@ -15764,15 +15764,15 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '257291',
+        price: '599999',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/1FFciXt',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.8',
-        reviewCount: '1004',
+        ratingValue: '4.9',
+        reviewCount: '1169',
         bestRating: '5',
         worstRating: '1',
       },
@@ -15809,9 +15809,9 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
     description: 'Ventilador de techo retráctil con luz LED   - Potencia máxima combinada: 100 W - Luz LED (frío - cálido - neutro) - 6 velocidades - Medidas desplegado: 120 cm - Silencioso - Cuatro aspas retráctiles de acrílico transparente - Plafón LED de 50 cm de diámetro - Motor bobinado de cobre - Bajo consumo -',
     badge: 'trending',
     seoTitle: "Ventilador de Techo Retráctil Etheos 100W LED",
-    metaDescription: 'Etheos GVTI-VTR negro: ventilador retráctil de techo de 1,2m, 100W, luz LED 3 tonos, remote completo con dimmer y modo nocturno. 4.7⭐ con 1.937 compradores.',
+    metaDescription: 'Etheos GVTI-VTR negro: ventilador retráctil de techo de 1,2m, 100W, luz LED 3 tonos, remote completo con dimmer y modo nocturno. 4.7⭐ con 1.996 compradores.',
     ogTitle: 'Ventilador Retráctil de Techo Etheos Negro 100W con Luz LED | ProductosVirales',
-    ogDescription: 'El único retráctil negro del catálogo: 1,2m de diámetro, 100W, luz LED fría/cálida/neutra con dimmer, modo nocturno, modos verano/invierno y 2 barrales. 4.7⭐ con 1.937 compradores.',
+    ogDescription: 'El único retráctil negro del catálogo: 1,2m de diámetro, 100W, luz LED fría/cálida/neutra con dimmer, modo nocturno, modos verano/invierno y 2 barrales. 4.7⭐ con 1.996 compradores.',
     h1: 'Etheos GVTI-VTR: el ventilador retráctil negro de 1,2 metros con el remote más completo del segmento',
     pros: [
       '1,2 m de diámetro (el más grande del catálogo)',
@@ -15820,7 +15820,7 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
       '100 W — alta potencia para ambientes grandes',
       'Modo verano/invierno con botones F/R separados',
       '2 barrales extensores incluidos',
-      '1.937 calificaciones (mayor volumen del catálogo)',
+      '1.996 calificaciones, el mayor volumen del catálogo',
     ],
     cons: [
       'Nivel de ruido sin dato real (ficha dice 0 dB por error)',
@@ -15828,12 +15828,12 @@ Si querés comparar con otras opciones del catálogo, mirá el [Etheos retrácti
       'Sin memoria de último modo (el Peabody sí tiene)',
       'Potencia 100W sin desglose motor vs LED',
     ],
-    verdict: 'La opción si querés negro y mayor cobertura. Remote más detallado del catálogo y 1.937 reseñas de respaldo a precio intermedio.',
+    verdict: 'La opción si querés negro y mayor cobertura. Remote más detallado del catálogo y 1.996 reseñas de respaldo a precio intermedio.',
     articleBody: `## El único retráctil negro: lo que cambia en la estética de un techo
 
 En el segmento de ventiladores retráctiles argentinos, todos los modelos disponibles son blancos. El Etheos GVTI-VTRN es la excepción. Con estructura negro mate, anillo exterior de diseño con estrías horizontales y plafón LED de 50 cm de diámetro, se integra de forma diferente en techos blancos: no desaparece sino que se convierte en un elemento visual del ambiente.
 
-Para dormitorios, living rooms o estudios con paleta oscura, industrial o minimalista, esa diferencia importa tanto como las especificaciones técnicas. Con 4.7 estrellas y más de 1.937 calificaciones —el mayor volumen de reseñas en el catálogo— el Etheos tiene suficiente historial de compradores para evaluar con confianza.
+Para dormitorios, living rooms o estudios con paleta oscura, industrial o minimalista, esa diferencia importa tanto como las especificaciones técnicas. Con 4.7 estrellas y más de 1.996 calificaciones —el mayor volumen de reseñas en el catálogo— el Etheos tiene suficiente historial de compradores para evaluar con confianza.
 
 ## 1,2 metros de diámetro: el más grande del catálogo
 
@@ -15901,7 +15901,7 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
       { question: '¿Cuánto ruido hace?', answer: 'La ficha de MercadoLibre dice 0 dB, lo que es un error de carga — es técnicamente imposible. No hay dato real disponible del fabricante para este modelo. Si el nivel de ruido es crítico, el Novohome NH-VTR del mismo catálogo tiene 20-33 dB documentados.' },
       { question: '¿Las aspas son de plástico o de acrílico?', answer: 'Hay una discrepancia: la ficha ML dice plástico y la descripción técnica dice acrílico transparente. Acrílico es un tipo de plástico, pero de mayor calidad. Las imágenes muestran aspas transparentes de aspecto similar al de otros modelos del catálogo que usan acrílico. Consultar al vendedor para confirmar el material exacto.' },
       { question: '¿Incluye dos barrales?', answer: 'Sí. Incluye barrales extensores de 10 cm y 20 cm para adaptar la altura de instalación al techo disponible.' },
-      { question: '¿Qué diferencia tiene con el Peabody PE-VTRDC425B?', answer: 'Las principales diferencias: Etheos es negro y tiene mayor diámetro (1,2 m vs 1,07 m del Peabody). El Peabody tiene motor DC y declara 170 m³/min de caudal, además de memoria de último modo. El Etheos tiene 100W de potencia (vs 72W del Peabody). El Peabody es más caro ($257.291 vs $169.998 del Etheos).' },
+      { question: '¿Qué diferencia tiene con el Peabody PE-VTRDC425B?', answer: 'Las principales diferencias: Etheos es negro y tiene mayor diámetro (1,2 m vs 1,07 m del Peabody). El Peabody tiene motor DC y declara 170 m³/min de caudal, además de memoria de último modo. El Etheos tiene 100W de potencia (vs 72W del Peabody). El Peabody es más caro (alrededor de $600.000 vs $160.000 del Etheos).' },
     ],
     relatedProducts: ['MLA54423759', 'MLA43536904', 'MLA66266614'],
     structuredData: {
@@ -15919,7 +15919,7 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '169998',
+        price: '159599',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2qxbftx',
@@ -15927,7 +15927,7 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
       aggregateRating: {
         '@type': 'AggregateRating',
         ratingValue: '4.7',
-        reviewCount: '1937',
+        reviewCount: '1996',
         bestRating: '5',
         worstRating: '1',
       },
@@ -15962,12 +15962,12 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
     pastelColor: 'var(--pastel-amber)',
     description: 'El Ventilador de Techo Retráctil es la solución ideal para quienes buscan confort y estilo en su hogar. Con un diseño elegante y moderno, este ventilador se integra perfectamente en cualquier ambiente, proporcionando una brisa refrescante y una iluminación suave.   Este modelo ofrece seis velocidade',
     seoTitle: "Ventilador de Techo Retráctil Iluma Zenith DC",
-    metaDescription: 'El Iluma Zenith es el ventilador retráctil más accesible del mercado: motor DC silencioso, aspas reversibles confirmadas, luz LED tricolor y eficiencia A+.',
+    metaDescription: 'El Iluma Zenith es uno de los retráctiles con motor DC más accesibles del catálogo: motor DC silencioso, aspas reversibles confirmadas, luz LED tricolor y eficiencia A+.',
     ogTitle: 'Ventilador Retráctil Silencioso Iluma Zenith — DC Motor + LED Tricolor | ProductosVirales',
-    ogDescription: 'El más económico del catálogo con aspas reversibles confirmadas, motor DC, luz 3 temperaturas y eficiencia A+. Análisis sin filtro con precio actualizado.',
-    h1: 'Ventilador de techo retráctil silencioso Iluma Zenith: el más accesible del catálogo con DC motor y aspas reversibles',
+    ogDescription: 'De los más accesibles entre los retráctiles con motor DC, con aspas reversibles confirmadas, luz 3 temperaturas y eficiencia A+. Análisis sin filtro con precio actualizado.',
+    h1: 'Ventilador de techo retráctil silencioso Iluma Zenith: de los más accesibles entre los DC del catálogo, con aspas reversibles',
     pros: [
-      'Precio más bajo del catálogo ($90.000)',
+      'De los precios más accesibles entre los retráctiles con motor DC (alrededor de $158.000)',
       'Motor DC (silencioso y eficiente)',
       'Aspas reversibles confirmadas en ficha ML',
       'Luz LED 3 temperaturas con dimmer y modo noche',
@@ -15975,17 +15975,17 @@ Completá el panorama con el [Iluma retráctil](/producto/MLA66266614), la otra 
       'Compatible 50/60 Hz (cualquier zona de Argentina)',
     ],
     cons: [
-      'Solo 4 calificaciones (volumen muy bajo)',
+      '61 calificaciones: menos volumen que Peabody o Novohome, pero ya no es una base mínima',
       'Potencia total no especificada en ficha ML',
       'Sin datos de ruido en dB',
       'Discrepancia en temporizador (1H mencionado, no visible en remote)',
     ],
-    verdict: 'La entrada al catálogo de retráctiles. Si el presupuesto manda y aceptás el bajo volumen de reseñas, tiene todo lo técnico que importa: DC motor, aspas reversibles, LED tricolor.',
+    verdict: 'Uno de los retráctiles con motor DC más accesibles del catálogo (dentro de ese grupo, no del catálogo completo: los clásicos de palas metálicas siguen siendo más baratos). Tiene todo lo técnico que importa: DC motor, aspas reversibles, LED tricolor, con un volumen de reseñas ya razonable (61).',
     articleBody: `## Por qué este producto tiene sentido (y por qué con reservas)
 
 Hay una pregunta que aparece bastante seguido en foros de MercadoLibre sobre ventiladores retráctiles: "¿hay alguno que no cueste una fortuna?"
 
-El Iluma Zenith responde eso con $90.000. No es el más vendido del mercado ni el que acumula más reseñas —tiene apenas cuatro calificaciones al momento de esta publicación— pero es el único del grupo que entra por debajo de los $100.000 sin sacrificar DC motor, aspas reversibles ni luz tricolor LED.
+El Iluma Zenith responde eso con un precio de alrededor de $158.000, de los más bajos entre los retráctiles con motor DC (aunque los clásicos de palas metálicas del catálogo siguen siendo más baratos). No es el más vendido del mercado, pero ya acumula 61 calificaciones y sostiene DC motor, aspas reversibles y luz tricolor LED sin el salto de precio del Peabody.
 
 ## Qué incluye y cómo funciona
 
@@ -15997,9 +15997,9 @@ Las aspas son reversibles. El control remoto tiene un botón específico de "inv
 
 ## Iluma en contexto: dónde entra en el catálogo
 
-Cuatro ventiladores retráctiles, cuatro precios distintos. El Iluma Zenith es el más barato de los cuatro. La diferencia de precio entre el Iluma y el Novohome —el siguiente más barato— es de $23.000. Entre el Iluma y el Peabody son $167.000. Si el presupuesto es el filtro principal, el Iluma es la única opción real del grupo.
+Cuatro ventiladores retráctiles, cuatro precios distintos. El Iluma Zenith y el Novohome están prácticamente empatados como los más accesibles del grupo (una diferencia de un par de miles de pesos, que puede variar). El salto grande está con el Peabody, bastante más caro que los otros tres. Si el presupuesto es el filtro principal, el Iluma o el Novohome son las opciones reales del grupo.
 
-Lo que resignás a $90.000 frente a los demás: menos reseñas (4 vs 717 del Novohome mínimo), mayor incertidumbre sobre experiencia real, sin datos de ruido verificables, potencia total no especificada en ficha ML, sin Modo Convección avanzado como el Peabody, sin el diseño negro del [Etheos](/producto/MLA44033885) si eso importa.
+Lo que resignás frente a los demás: menos reseñas que el Novohome o el Peabody, sin datos de ruido verificables, potencia total no especificada en ficha ML, sin Modo Convección avanzado como el Peabody, sin el diseño negro del [Etheos](/producto/MLA44033885) si eso importa.
 
 Lo que no resignás: DC motor, aspas reversibles, 3 temperaturas de luz, 6 velocidades, eficiencia A+, 50Hz/60Hz, 1,07m de cobertura.
 
@@ -16017,13 +16017,13 @@ Los valores exactos de cada preset pueden variar — se recomienda pedir al vend
 
 ## Para quién tiene sentido el Iluma Zenith
 
-El Zenith no compite con el Peabody ni con el Etheos en features avanzadas. Su público natural es alguien que tiene un techo de altura estándar (2,4m–2,7m) en dormitorio o living de tamaño medio, quiere el look "aspas ocultas" sin gastar más de $100.000, prioriza el motor DC pero no necesita aplicación ni Wi-Fi, y no tiene restricciones de frecuencia de red.
+El Zenith no compite con el Peabody ni con el Etheos en features avanzadas. Su público natural es alguien que tiene un techo de altura estándar (2,4m–2,7m) en dormitorio o living de tamaño medio, quiere el look "aspas ocultas" sin pagar el salto de precio del Peabody, prioriza el motor DC pero no necesita aplicación ni Wi-Fi, y no tiene restricciones de frecuencia de red.
 
 Para un dormitorio de matrimonio o un espacio de hasta 18–20m², el diámetro de 1,07m es adecuado. En ambientes más grandes, el Etheos (1,2m de cobertura) o el Peabody darían mejor rendimiento.
 
 ## Lo que no sabemos todavía
 
-Con 4 calificaciones, hay cosas que no se pueden confirmar con datos de la comunidad: nivel de ruido real en operación, durabilidad a mediano plazo del mecanismo retráctil, uniformidad de la luz LED en toda la superficie del plafón, temperatura real de los presets de color. Esto no invalida el producto, pero hay que nombrarlo.`,
+Con 61 calificaciones, hay cosas que todavía no se pueden confirmar del todo con datos de la comunidad: nivel de ruido real en operación, durabilidad a mediano plazo del mecanismo retráctil, uniformidad de la luz LED en toda la superficie del plafón, temperatura real de los presets de color. Esto no invalida el producto, pero hay que nombrarlo.`,
     specs: [
       { label: 'Marca / Modelo', value: 'Iluma / Zenith ZENITH40W' },
       { label: 'Diámetro aspas extendidas', value: '1,07 m' },
@@ -16050,7 +16050,7 @@ Con 4 calificaciones, hay cosas que no se pueden confirmar con datos de la comun
       { question: '¿Funciona en redes de 60Hz?', answer: 'Sí. La ficha técnica especifica "Frecuencia: 50Hz / 60Hz", por lo que es compatible con la frecuencia eléctrica de cualquier zona de Argentina.' },
       { question: '¿Cuántas temperaturas de luz tiene?', answer: 'Tres según los infographics del producto: luz fría (~6000K), neutra (~4000K) y cálida (~2700K). El control remoto tiene botones para 3000K y 6500K como extremos, con dimmer para graduar la intensidad. Verificar con el vendedor si los tres presets son ajustes separados o si la temperatura neutra requiere dimmer.' },
       { question: '¿Tiene temporizador?', answer: 'Sí, aunque hay una discrepancia: la descripción menciona 1H, 2H y 4H, pero los botones visibles en el control remoto muestran solo 2H y 4H. Consultar al vendedor si el temporizador de 1 hora está disponible.' },
-      { question: '¿Qué diferencia hay entre el Iluma Zenith y el Novohome NH-VTR?', answer: 'El Novohome cuesta $23.000 más pero tiene 717 reseñas y 4.8⭐. Ambos tienen 1,07m de diámetro y motor silencioso. El Novohome especifica hasta 33dB de ruido; el Iluma no tiene datos de ruido en la ficha. Si el presupuesto lo permite, el Novohome tiene mejor respaldo de compradores reales. Si el precio es el límite, el Iluma tiene specs equivalentes en papel.' },
+      { question: '¿Qué diferencia hay entre el Iluma Zenith y el Novohome NH-VTR?', answer: 'Los precios están prácticamente empatados (ambos alrededor de $158.000-160.000). El Novohome tiene mucho más respaldo de opiniones (1.548 contra 61 del Iluma) y especifica hasta 33dB de ruido; el Iluma no tiene datos de ruido en la ficha. Ambos tienen 1,07m de diámetro y motor silencioso. Si el respaldo de compradores reales pesa más en tu decisión, el Novohome; si te da igual, tienen specs equivalentes en papel.' },
       { question: '¿Tiene control por aplicación o Wi-Fi?', answer: 'No. El campo "Con Wi-Fi: No" está confirmado en la ficha de ML. El control es exclusivamente por control remoto físico.' },
       { question: '¿Para qué tamaño de habitación es adecuado?', answer: 'Para ambientes de hasta 18–20m² con altura de techo estándar (2,4–2,7m). Con 1,07m de diámetro es similar al Novohome. Para habitaciones más grandes, el Etheos (1,2m) o el Peabody serían más adecuados.' },
     ],
@@ -16071,15 +16071,15 @@ Con 4 calificaciones, hay cosas que no se pueden confirmar con datos de la comun
       offers: {
         '@type': 'Offer',
         priceCurrency: 'ARS',
-        price: '90000',
+        price: '158289',
         availability: 'https://schema.org/InStock',
         seller: { '@type': 'Organization', name: 'MercadoLibre Argentina' },
         url: 'https://meli.la/2j5EPn1',
       },
       aggregateRating: {
         '@type': 'AggregateRating',
-        ratingValue: '4.3',
-        reviewCount: '4',
+        ratingValue: '4.7',
+        reviewCount: '61',
         bestRating: '5',
         worstRating: '1',
       },
@@ -52071,7 +52071,7 @@ Compralo si querés un clásico serio para dormitorio o living, con regulación 
     description: "Ventilador de techo industrial Kent K3001: aspas metálicas negras, certificación eléctrica argentina (IQC) y 4.9 sin ninguna calificación de 1 o 2 estrellas. Para galpones, quinchos y ambientes abiertos. Contra de reseña: no incluye el soporte para colgar.",
     seoTitle: "Ventilador Industrial Kent K3001: ¿el del quincho?",
     metaDescription: "Ventilador de techo industrial Kent K3001: aspas de metal, certificación IQC y 4.9 de calificación. Para galpón, quincho o taller. Pros y contras.",
-    verdict: "El Kent K3001 sirve si el destino es un quincho, galpón, taller o ambiente abierto: es el formato industrial (potencia y aspas de metal, sin luz ni adornos), con certificación eléctrica argentina y 4.9 sin ninguna calificación por debajo de 3 estrellas. No sirve si esperás que venga listo para colgar: una reseña avisa que el soporte se compra aparte, y su base de opiniones (51) es chica.",
+    verdict: "El Kent K3001 sirve si el destino es un quincho, galpón, taller o ambiente abierto: es el formato industrial (potencia y aspas de metal, sin luz ni adornos), con certificación eléctrica argentina y 4.9 sin ninguna calificación por debajo de 3 estrellas. No sirve si esperás que venga listo para colgar: una reseña avisa que el soporte se compra aparte, y su base de opiniones (52) es chica.",
     pros: [
       "Formato industrial: mueve aire en serio en ambientes abiertos, quinchos y galpones",
       "Certificación de seguridad eléctrica argentina (IQC S.A.), poco común en esta categoría",
@@ -52082,7 +52082,7 @@ Compralo si querés un clásico serio para dormitorio o living, con regulación 
     cons: [
       "No incluye el soporte para colgar: hay que comprarlo aparte, avisa una reseña",
       "Sin luz: es ventilación pura",
-      "Base de calificaciones chica (51), aunque impecable",
+      "Base de calificaciones chica (52), aunque impecable",
       "Sin control remoto (llave de pared)",
     ],
     articleBody: `## Qué es y para quién
@@ -52095,7 +52095,7 @@ Hace una cosa y la hace bien: caudal. Una reseña lo usa en un ambiente abierto 
 
 ## La contra real
 
-No viene con el soporte para colgar: el mismo comprador de la reseña tuvo que comprarlo aparte. Es un detalle menor en precio pero molesto si no lo sabés antes de la instalación. Su base de 51 calificaciones es chica comparada con los clásicos hogareños (aunque perfecta en calidad), y al ser ventilación pura, no esperes luz ni control remoto.
+No viene con el soporte para colgar: el mismo comprador de la reseña tuvo que comprarlo aparte. Es un detalle menor en precio pero molesto si no lo sabés antes de la instalación. Su base de 52 calificaciones es chica comparada con los clásicos hogareños (aunque perfecta en calidad), y al ser ventilación pura, no esperes luz ni control remoto.
 
 ## Para quién sí y para quién no
 

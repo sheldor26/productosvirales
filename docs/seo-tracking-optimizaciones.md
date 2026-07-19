@@ -401,6 +401,19 @@ Próxima medición sugerida para las 5: ~2026-08-13 (4 semanas), cuando haya den
 
 **Nota técnica (2026-07-16):** durante la guía de termo se detectó y arregló un bug real que afectaba también a la guía de yogurtera ya publicada: las imágenes de producto hosteadas en `mitiendanube.com` (páginas oficiales de fabricante, usadas para Ultracomb en yogurtera y Waterdog en termo) no estaban en el allowlist de `next.config.ts`, lo que causaba un crash de página completa (no solo imagen rota). Se agregó `*.mitiendanube.com` a `remotePatterns` con confirmación explícita de Juan (regla de "avisar antes de tocar next.config.ts"). Verificado en navegador que ambas fichas cargan bien después del fix.
 
+### Guías STAGED publicadas 2026-07-19 (escritas antes, nunca habían salido de `publishedDate` futuro)
+
+A diferencia de la tanda anterior, estas 4 guías ya existían en el repo con `publishedDate: "2026-09-01"` (nunca alcanzaron a publicarse). Se releyeron, se corrigieron precios/datos desactualizados en sus fichas asociadas (varias tenían `priceStatus`/rating/reviewCount stale, en el caso del Iluma Zenith con un desfasaje severo: precio narrado $90.000 vs real $158.289), y recién ahí se dio vuelta la fecha. Tampoco tienen baseline en GSC.
+
+| Slug | Silo | Publicada | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| robot-de-cocina | cocina | 2026-07-19 | Gemini GO (1 ronda) + Codex GO (2 rondas: ratings/reviewCount desactualizados en fichas Atma/Heybez/Suono/Vonne, enlazado interno) |
+| microondas-bgh | cocina | 2026-07-19 | Codex GO (2 rondas: enlazado interno a guía muerta, reviewCount stale del Eco 20L) + Gemini GO (2 rondas, el primer NO-GO fue por una descripción incorrecta mía, no un bug real) |
+| horno-atma | cocina | 2026-07-19 | Codex GO (2 rondas: mislabel "el más chico" del 30L, framing "buen precio" contradictorio en ficha del 50L, promesa de "anafes" que ningún modelo cumple) + Gemini GO (1 ronda) |
+| ventilador-de-techo | climatizacion (pillar) | 2026-07-19 | Gemini GO (1 ronda) + Codex GO (3 rondas: reviewCount Etheos, claim "menor precio" de Liliana ya no cierto con Axel $1.000 más barato, ficha del Iluma con precio/rating/reviews severamente desactualizados, claim "casi inaudible" del Peabody que contradice sus propios 39dB) |
+
+Próxima medición sugerida: ~2026-08-16 (4 semanas).
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

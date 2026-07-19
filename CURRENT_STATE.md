@@ -1,7 +1,19 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-10 (guía nueva `proyector-portatil` + 2 fichas, desde cluster GSC validado).
+> Última actualización: 2026-07-19 (4 guías STAGED publicadas: robot-de-cocina, microondas-bgh, horno-atma, ventilador-de-techo).
+
+## Sesión 19-jul — 4 guías STAGED releídas, corregidas y publicadas (trío auditor completo)
+
+Juan pidió elegir 4 guías STAGED (nunca publicadas, `publishedDate` en el futuro), releerlas, mejorarlas, actualizar precios si hacía falta, correr `/optimizador-guias-pv` + `/trio-auditor`, y **publicar y pushear automáticamente en cuanto el trío diera GO unánime** (autorización explícita de antemano, sin volver a preguntar en ese paso final).
+
+1. **Guías elegidas:** `robot-de-cocina`, `microondas-bgh`, `horno-atma` (silo cocina) y `ventilador-de-techo` (pilar, silo climatización).
+2. **Hallazgo principal:** el trío auditor (Codex + Gemini) destapó una cascada de bugs de staleness reales en las fichas asociadas que **nunca habían sido tocados desde su creación** — no eran errores míos de esta sesión, sino deuda vieja. El caso más grave: la ficha del Iluma Zenith (`MLA66266614`) tenía toda su narrativa (pros/cons/verdict/articleBody/FAQ/structuredData) construida sobre "$90.000, el más barato del catálogo, 4 calificaciones", cuando el precio real es $158.289 (61 calificaciones). Reescrita entera.
+3. **Otros fixes de contenido:** reviewCount/rating desincronizados en Atma Smart Mix, Heybez PMIX08, Suono Neochef Pro (robot-de-cocina); BGH Eco 20L (microondas-bgh, 3.700→5.700 reseñas); mislabel "el más chico" del Atma 30L cuando el 23L es más chico (horno-atma); framing "buen precio" en la ficha del Atma 50L que contradecía el propio framing honesto de la guía; Etheos/Peabody con `structuredData` JSON-LD desactualizado (ventilador-de-techo). 2 productos de robot-de-cocina y 1 de ventilador-de-techo tenían `priceStatus: "out_of_stock"` pero en realidad seguían con stock crítico (1-2 unidades) — verificado en vivo vía agente, no se hardcodeó "última unidad" en la prosa (recomendación de Gemini, muy volátil).
+4. **Ronda 3 necesaria en `ventilador-de-techo`:** tras la ronda 2, Codex encontró 5 inconsistencias que sobrevivieron a mi primera pasada de fixes (reviewCount del Etheos "más de 2.000" cuando el real es 1.996; claim "menor precio" de Liliana ya no cierto porque el Axel quedó $1.000 más barato; ficha del Iluma con `metaDescription`/`ogDescription`/`h1` todavía diciendo "el más accesible del mercado"; Peabody descrito como "casi inaudible" contradiciendo sus propios 39dB declarados). Corregidos, ronda 3 dio GO.
+5. **Publicación:** `publishedDate`/`updatedDate` de las 4 guías flippeados a 2026-07-19 (fecha real del sistema — ojo, difería 2 días de lo que yo venía asumiendo por error de sesión). `tsc --noEmit`, `guides:check`, `lint` y `build` verdes. QA visual en navegador de las 4 páginas: cargan, sin errores de consola, precios en vivo resuelven bien.
+6. **Bug de sitio completo detectado (no arreglado, flageado aparte):** `formatDate()` en `ArticleHeader.tsx`/`ArticleFooter.tsx` parsea el ISO date como UTC pero lo formatea en timezone local, así que TODAS las guías del sitio muestran la fecha de publicación/actualización un día antes de la real. Chip spawneado para sesión aparte (no estaba en el scope de esta tarea).
+7. **Registro:** las 4 quedaron anotadas en `docs/seo-tracking-optimizaciones.md` (sección "Guías STAGED publicadas 2026-07-19"), sin baseline en GSC por ser publicación nueva. Próxima medición sugerida: ~2026-08-16.
 
 ## Sesión 10-jul — Guía nueva: `proyector-portatil` (pilar, silo tech) + 2 fichas
 

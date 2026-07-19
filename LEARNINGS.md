@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-07-19 — El trío auditor destapa deuda vieja de fichas, no solo bugs de la sesión actual
+
+**Qué funcionó:** al publicar 4 guías STAGED viejas con `/trio-auditor`, Codex y Gemini no solo revisaron mi propio diff de la sesión — auditando el contexto completo (guía + fichas asociadas) encontraron inconsistencias de datos que llevaban meses sin tocarse (rating/reviewCount desincronizados, framing que contradecía el precio real, un caso extremo donde toda la narrativa de una ficha estaba armada sobre un precio 75% más bajo que el real). Ninguno de los chequeos mecánicos (`guides:check`, `tsc`) los agarra porque viven en prosa libre de `curated-products.ts`, no en tokens de precio.
+
+**Por qué:** el trío lee la ficha completa con ojo fresco, sin el sesgo de "esto ya lo revisé antes" que tiene Claude sobre contenido que no tocó en la sesión. Es la única capa que compara la narrativa completa (verdict/pros/cons/articleBody/FAQ/structuredData) contra los campos vivos (`price`, `rating`, `reviewCount`) línea por línea.
+
+**Cuándo aplicarlo:** antes de publicar o re-optimizar cualquier guía vieja, pedirle al trío que audite explícitamente las fichas de los productos mencionados, no solo la guía. Si una ficha lleva mucho sin enriquecerse (ver `docs/fichas.md`), asumir que puede tener staleness narrativa aunque el precio del catálogo esté fresco.
+
+**Archivos involucrados:** `src/data/curated-products.ts`, `src/data/guides.ts`.
+
 ## 2026-07-05 — Clarity (clics fallidos) + código = diagnóstico UX en minutos
 
 **Qué funcionó:** cruzar el mapa de calor de Clarity filtrado por "clics fallidos" con la lectura del componente. El heatmap mostró clics sobre nombres de producto ("Suono Digital 10L", "Philips HD9270") y sobre la foto grande; `ProductCard.tsx` confirmó que ni el título ni la imagen eran links. Diagnóstico cerrado sin adivinar: la gente toca foto/nombre esperando abrir el producto (hábito de ML/Instagram) y no pasaba nada — 11,7% de las sesiones con al menos un clic fallido.

@@ -76,8 +76,8 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"Es un producto estándar. Simple, lo justo y necesario para no renegar con problemas tecnológicos ni digitales: potencia, tiempo, descongela, calienta, más que suficiente."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. BGH Quick Chef Eco 20L (B120DS20) — el digital más elegido` },
-      { type: "product-card", productMlaId: "MLA17695389", label: "El digital más elegido", labelColor: "blue", ranking: 2, description: `El mismo tamaño que el más vendido, pero con control digital y menús automáticos. 4.7 estrellas en más de 3.700 calificaciones.` },
-      { type: "p", content: `Si querés lo mismo pero con **panel digital**, es la versión Eco. Tiene los 20 litros y los 700 W del de perilla, y suma menús automáticos, reloj y programación al minuto, a alrededor de {{precio:MLA17695389:k}}. Es el BGH digital más elegido, con más de 3.700 opiniones. La diferencia con el #1 la pagás en comodidad de uso, no en tamaño ni potencia.` },
+      { type: "product-card", productMlaId: "MLA17695389", label: "El digital más elegido", labelColor: "blue", ranking: 2, description: `El mismo tamaño que el más vendido, pero con control digital y menús automáticos. 4.7 estrellas en más de 5.700 calificaciones.` },
+      { type: "p", content: `Si querés lo mismo pero con **panel digital**, es la versión Eco. Tiene los 20 litros y los 700 W del de perilla, y suma menús automáticos, reloj y programación al minuto, a alrededor de {{precio:MLA17695389:k}}. Es el BGH digital más elegido, con más de 5.700 opiniones. La diferencia con el #1 la pagás en comodidad de uso, no en tamaño ni potencia.` },
       { type: "p", content: `La contra que aparece en las reseñas: el panel es **espejado** y a veces cuesta leerlo según la luz. Nada grave, pero si te molesta el detalle, el de perilla lo evita. Para quien prefiere botones y menús a girar una perilla, este es el indicado.` },
       { type: "pull-quote", content: `"Muy bueno el microondas. Tal vez lo único para mencionar es que el panel es espejado y se dificulta un poco la lectura de los comandos."`, attribution: `Opinión verificada en MercadoLibre` },
 
@@ -361,8 +361,8 @@ export const guides: Guide[] = [
     ogDescription: `La gama Quick Chef de BGH comparada: 20 litros a perilla o digital, 23 y 28 litros. Cuál conviene según para qué lo querés, con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg`,
     h1: `Microondas BGH: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-28",
+    publishedDate: "2026-07-19",
+    updatedDate: "2026-07-19",
     hasDisclosure: true,
     readingTime: 7,
     standfirst: `BGH es la marca de microondas más vendida de Argentina, y su gama Quick Chef se entiende fácil: 20 litros a perilla o digital, y versiones de 23 y 28 litros. Te mostramos cuál conviene según el tamaño y el control que querés, con precios reales de MercadoLibre.`,
@@ -379,7 +379,7 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_893583-MLA98164786504_112025-F.jpg", alt: `Microondas BGH Quick Chef, la marca de microondas más vendida de Argentina`, imageSize: "hero" },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los microondas BGH con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: la **capacidad** (20, 23, 28 litros), el **control** (perilla o digital), si traen grill y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los microondas BGH con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: la **capacidad** (20, 23, 28 litros), el **control** (perilla o digital), si traen grill y el precio. Las calificaciones son de compradores reales. Precios de julio 2026.` },
 
       { type: "h2", title: `La gama de microondas BGH`, id: "gama" },
       { type: "p", content: `Es simple. La línea **Quick Chef** arranca en los **20 litros**, que vienen en dos versiones: a **perilla** (la más barata y vendida) o **digital** (con menús automáticos). Después está el **23 litros**, un escalón de tamaño y potencia, y el **28 litros**, el grande con grill para familia. Todos comparten la marca, el service y la confiabilidad de BGH; elegís por tamaño y por si querés perilla o botones.` },
@@ -388,23 +388,23 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. BGH Quick Chef 20L a perilla (B120M20) — el más vendido` },
       { type: "product-card", productMlaId: "MLA18193159", label: "El más vendido", labelColor: "green", ranking: 1, description: `20 litros, 700 W, control a perilla. 4.6 estrellas en más de 4.100 calificaciones. El microondas más vendido del país, simple y al mejor precio.` },
-      { type: "p", content: `Es el BGH (y el microondas) más vendido de Argentina. El Quick Chef de **20 litros a perilla** hace lo esencial (calentar, descongelar) sin menús ni complicaciones, y es el **más barato** de la gama, a alrededor de $180.000. Con más de 4.100 opiniones, es la compra segura para el uso de todos los días.` },
+      { type: "p", content: `Es el BGH (y el microondas) más vendido de Argentina. El Quick Chef de **20 litros a perilla** hace lo esencial (calentar, descongelar) sin menús ni complicaciones, y es el **más barato** de la gama, a alrededor de {{precio:MLA18193159:k}}. Con más de 4.100 opiniones, es la compra segura para el uso de todos los días.` },
       { type: "p", content: `Lo honesto: la perilla no es precisa al segundo y son 700 W (potencia estándar). Pero esa simpleza es su gracia: no hay nada que aprender ni que se complique. Si querés botones y menús, mirá el digital de abajo.` },
       { type: "pull-quote", content: `"Lo tengo hace dos años y sigue funcionando joya. Lo recomiendo una banda."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. BGH Quick Chef Eco 20L digital (B120DS20) — el digital` },
-      { type: "product-card", productMlaId: "MLA17695389", label: "El digital", labelColor: "blue", ranking: 2, description: `El mismo 20 litros, pero con control digital y menús automáticos. 4.7 estrellas en más de 3.700 calificaciones.` },
-      { type: "p", content: `Si querés lo mismo pero con **panel digital**, es la versión Eco: 20 litros, 700 W, con menús automáticos, reloj y programación al minuto, a alrededor de $200.000. Es el BGH digital más elegido. La diferencia con el de perilla la pagás en comodidad de uso, no en tamaño ni potencia.` },
+      { type: "product-card", productMlaId: "MLA17695389", label: "El digital", labelColor: "blue", ranking: 2, description: `El mismo 20 litros, pero con control digital y menús automáticos. 4.7 estrellas en más de 5.700 calificaciones.` },
+      { type: "p", content: `Si querés lo mismo pero con **panel digital**, es la versión Eco: 20 litros, 700 W, con menús automáticos, reloj y programación al minuto, a alrededor de {{precio:MLA17695389:k}}. Es el BGH digital más elegido. La diferencia con el de perilla la pagás en comodidad de uso, no en tamaño ni potencia.` },
       { type: "p", content: `La contra que aparece en las reseñas: el panel es **espejado** y a veces cuesta leerlo según la luz. Nada grave, pero si te molesta, el de perilla lo evita.` },
       { type: "pull-quote", content: `"Estéticamente es hermoso, funciona y calienta bien; no es tan potente como otros pero cumple su función más que bien."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. BGH Eco 23L digital (B223DN20) — un poco más grande` },
       { type: "product-card", productMlaId: "MLA19079384", label: "Un poco más grande y con grill", labelColor: "purple", ranking: 3, description: `23 litros, 800 W, digital y con grill (1000 W) para dorar. 4.7 estrellas en más de 2.000 calificaciones. Un escalón de tamaño y de funciones sobre los de 20 litros.` },
-      { type: "p", content: `Si el de 20 litros te queda justo pero el de 28 te parece demasiado, el de **23 litros** es el punto medio, y suma algo que los de 20 no tienen: **grill** (1000 W) para dorar y gratinar. Un poco más de espacio, 800 W y control digital, a alrededor de $265.000. Es el único BGH chico-mediano que además dora, así que para una pareja que cocina algo más es un buen equilibrio.` },
+      { type: "p", content: `Si el de 20 litros te queda justo pero el de 28 te parece demasiado, el de **23 litros** es el punto medio, y suma algo que los de 20 no tienen: **grill** (1000 W) para dorar y gratinar. Un poco más de espacio, 800 W y control digital, a alrededor de {{precio:MLA19079384:k}}. Es el único BGH chico-mediano que además dora, así que para una pareja que cocina algo más es un buen equilibrio.` },
 
       { type: "h3", title: `4. BGH 28L con grill (B228DS20) — el grande` },
       { type: "product-card", productMlaId: "MLA17484012", label: "El grande", labelColor: "amber", ranking: 4, description: `28 litros (de los más grandes), 900 W, digital y con grill. 4.8 estrellas en más de 2.800 calificaciones. Entra una fuente grande o una pizza.` },
-      { type: "p", content: `Para familia o quien usa mucho el microondas, el de **28 litros** es el grande de BGH: entra una fuente o una pizza, tiene 900 W (más potencia), control digital y **grill** para dorar. A alrededor de $310.000, es el salto para quien quiere espacio y que además dore, no solo caliente.` },
+      { type: "p", content: `Para familia o quien usa mucho el microondas, el de **28 litros** es el grande de BGH: entra una fuente o una pizza, tiene 900 W (más potencia), control digital y **grill** para dorar. A alrededor de {{precio:MLA17484012:k}}, es el salto para quien quiere espacio y que además dore, no solo caliente.` },
       { type: "p", content: `Para una persona sola es más de lo que necesitás y ocupa más mesada. Pero si son varios o te cansa que no entre el plato grande, los 28 litros y el grill se notan.` },
 
       { type: "h2", title: `Tabla comparativa: la gama BGH`, id: "tabla-comparativa" },
@@ -421,10 +421,10 @@ export const guides: Guide[] = [
       { type: "h3", title: `2. Perilla o digital` },
       { type: "p", content: `La perilla (el B120M20) es más simple y barata: girás y listo, nada que falle. El digital (Eco) suma menús automáticos y programación exacta, a cambio de algo más de precio y un panel que a veces cuesta leer. Si valorás la simpleza, perilla; si te gustan los menús, digital.` },
 
-      { type: "h2", title: `Cuánto cuesta un microondas BGH en Argentina [junio 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta un microondas BGH en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
         `**Alrededor de {{precio:MLA18193159:k}}:** el [Quick Chef 20L a perilla](https://meli.la/27RQQKV), el más vendido y la entrada a la marca.`,
-        `**$202.000 a $265.000:** los digitales de 20 y 23 litros. El [Eco 20L](https://meli.la/2jy5EDC) y el [Eco 23L](https://meli.la/17cw2wE).`,
+        `**Alrededor de {{precio:MLA17695389:k}} a {{precio:MLA19079384:k}}:** los digitales de 20 y 23 litros. El [Eco 20L](https://meli.la/2jy5EDC) y el [Eco 23L](https://meli.la/17cw2wE).`,
         `**Alrededor de {{precio:MLA17484012:k}}:** el [28L con grill](https://meli.la/322XwMY), el grande para familia.`,
       ] },
 
@@ -440,7 +440,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
-      { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
+      { label: "Robot de cocina: cuál comprar", href: "/guias/cocina/robot-de-cocina" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
     ],
@@ -461,8 +461,8 @@ export const guides: Guide[] = [
     ogDescription: `Qué hace un robot de cocina, para quién sí y para quién no, Thermomix vs los económicos, y cuál conviene según tu presupuesto. La guía honesta, con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_631696-MLA99413419718_112025-F.jpg`,
     h1: `Robot de cocina: cuál comprar en Argentina y si vale la pena [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-28",
+    publishedDate: "2026-07-19",
+    updatedDate: "2026-07-19",
     hasDisclosure: true,
     readingTime: 8,
     standfirst: `Un robot de cocina hace en un solo aparato lo de varios: pica, amasa, cocina, cocina al vapor y hasta pesa. La Thermomix lo popularizó, pero hoy hay opciones que hacen gran parte por una fracción del precio. Te explicamos qué mirar y cuál conviene, con precios reales de MercadoLibre.`,
@@ -481,7 +481,7 @@ export const guides: Guide[] = [
 
       { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Un robot de cocina te conviene si **cocinás variado y querés ahorrar tiempo y lavar menos cacharros**: pica, amasa y cocina solo, siguiendo recetas guiadas. Si solo calentás comida o cocinás poco, es gastar de más. La **Thermomix** es la mejor pero sale más de un millón y medio; las opciones como **Suono** hacen gran parte por un tercio o menos. Para empezar sin arriesgar mucho, una de gama media es la jugada.` },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo evaluamos:** miramos los robots de cocina con más ventas y opiniones reales en MercadoLibre Argentina (un nicho nuevo, con bases de opiniones todavía chicas), y los ordenamos por lo que define la compra: la **capacidad** del bowl, la **potencia**, las **funciones**, si traen wifi y recetario, y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo evaluamos:** miramos los robots de cocina con más ventas y opiniones reales en MercadoLibre Argentina (un nicho nuevo, con bases de opiniones todavía chicas), y los ordenamos por lo que define la compra: la **capacidad** del bowl, la **potencia**, las **funciones**, si traen wifi y recetario, y el precio. Las calificaciones son de compradores reales. Precios de julio 2026.` },
 
       { type: "h2", title: `Qué es un robot de cocina (y para quién conviene)`, id: "que-es" },
       { type: "p", content: `Es una procesadora con calor: un bowl con cuchillas que además **calienta y cocina**, controlando temperatura y tiempo. Con eso hace casi todo el proceso de una receta: pica la cebolla, sofríe, suma el caldo, cocina a fuego lento, todo en el mismo recipiente y muchas veces guiado por una app paso a paso. Reemplaza procesadora, batidora, una olla y a veces la balanza, y deja menos cosas para lavar.` },
@@ -495,36 +495,36 @@ export const guides: Guide[] = [
 
       { type: "h3", title: `1. Suono Neochef Pro 4.7L — el más completo` },
       { type: "product-card", productMlaId: "MLA58514868", label: "El más completo", labelColor: "green", ranking: 1, description: `Bowl de 4.7 litros, 1700 W y más de 20 funciones (amasa, cocina, vapor, pica, pesa). 4.8 estrellas, el mejor valorado del nicho.` },
-      { type: "p", content: `Es el que recomendamos para la mayoría que quiere entrar al robot de cocina en serio. El Suono Neochef Pro tiene el **bowl más grande** (4.7 litros, rinde para familia), 1700 W de potencia y **más de 20 funciones**, con recetario. A alrededor de $570.000, es el mejor valorado del nicho y el que más se compara, para bien, con la Thermomix.` },
+      { type: "p", content: `Es el que recomendamos para la mayoría que quiere entrar al robot de cocina en serio. El [Suono Neochef Pro](/producto/MLA58514868) tiene el **bowl más grande** (4.7 litros, rinde para familia), 1700 W de potencia y **más de 20 funciones**, con recetario. A alrededor de {{precio:MLA58514868:k}}, es el mejor valorado del nicho y el que más se compara, para bien, con la Thermomix.` },
       { type: "p", content: `Lo honesto: es un nicho nuevo, así que la base de opiniones todavía es chica (alrededor de 100), aunque muy positivas. Y un detalle que marcan: el recetario no siempre aclara cuántas porciones rinde cada receta. Por prestaciones y valoración, igual es el punto de partida más sólido.` },
       { type: "pull-quote", content: `"Es espectacular. Tengo la Thermomix en otra cocina y esta no tiene nada que envidiar: recetas súper prácticas."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Suono Neochef 3.3L con wifi — el más accesible` },
       { type: "product-card", productMlaId: "MLA51527087", label: "El más accesible", labelColor: "blue", ranking: 2, description: `Bowl de 3.3 litros, 1700 W, con wifi y recetario online. 4.5 estrellas. Casi las mismas prestaciones que el Pro por menos plata.` },
-      { type: "p", content: `Si querés entrar gastando lo menos posible, el Suono de **3.3 litros** es la versión accesible: misma potencia (1700 W) y multifunción, con **wifi y recetario online**, en un bowl más chico, a alrededor de $396.000. Es el más barato de la guía con respaldo de opiniones, y varios lo usan para emprendimientos de pastelería.` },
+      { type: "p", content: `Si querés entrar gastando lo menos posible, el [Suono Neochef 3.3L](/producto/MLA51527087) es la versión accesible: misma potencia (1700 W) y multifunción, con **wifi y recetario online**, en un bowl más chico, a alrededor de {{precio:MLA51527087:k}}. Es el más barato de la guía con respaldo de opiniones, y varios lo usan para emprendimientos de pastelería.` },
       { type: "p", content: `Contra honesta de las reseñas: algunos materiales (sobre todo la traba de la tapa) se sienten un poco endebles. Para uso doméstico cumple bien, y en relación precio-prestaciones es la entrada más lógica al mundo del robot de cocina.` },
       { type: "pull-quote", content: `"La compré para mi emprendimiento de pastelería y es súper útil. La app, excelente, con todo el recetario. En comparación de precio con la Thermomix, va como piña."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. EasyCook Vonne 4.5L — alternativa con pantalla táctil` },
       { type: "product-card", productMlaId: "MLA62799773", label: "Alternativa táctil", labelColor: "purple", ranking: 3, description: `Bowl de 4.5 litros, 1000 W, con wifi y pantalla táctil. 4.6 estrellas en pocas opiniones todavía.` },
-      { type: "p", content: `El EasyCook Vonne es una alternativa al Suono en tamaño grande: **4.5 litros**, con **wifi y pantalla táctil** para manejarlo cómodo, a alrededor de $488.000. Buena opción si te gusta la interfaz táctil y querés capacidad para familia.` },
-      { type: "p", content: `Tiene menos potencia que el Suono Pro (1000 vs 1700 W) y, al ser nuevo, todavía con pocas opiniones. Como alternativa de tamaño grande con buena interfaz, igual es válido; si querés más respaldo de ventas, el Suono lleva la delantera.` },
+      { type: "p", content: `El [EasyCook Vonne](/producto/MLA62799773) es una alternativa al Suono en tamaño grande: **4.5 litros**, con **wifi y pantalla táctil** para manejarlo cómodo, a alrededor de {{precio:MLA62799773:k}}. Buena opción si te gusta la interfaz táctil y querés capacidad para familia.` },
+      { type: "p", content: `Tiene menos potencia que el [Suono Neochef Pro](/producto/MLA58514868) (1000 vs 1700 W) y, al ser nuevo, todavía con pocas opiniones. Como alternativa de tamaño grande con buena interfaz, igual es válido; si querés más respaldo de ventas, el Suono lleva la delantera.` },
 
       { type: "h3", title: `4. Atma Smart Mix 3L — el de marca conocida` },
       { type: "product-card", productMlaId: "MLA57493542", label: "Marca conocida", labelColor: "amber", ranking: 4, description: `Bowl de 3 litros con pantalla táctil, de Atma, marca con service en el país. Pocas opiniones todavía (es nuevo).` },
-      { type: "p", content: `Si te da más tranquilidad una **marca conocida con service** que un genérico, el Atma Smart Mix es la opción: 3 litros, pantalla táctil y el respaldo de Atma en Argentina, a alrededor de $569.000. La ventaja no son las prestaciones (parecidas al resto) sino el respaldo de marca ante cualquier problema.` },
-      { type: "p", content: `Lo honesto: a ese precio, el Suono Pro ofrece más litros y más potencia con mejor valoración. El Atma se justifica si priorizás la marca y el service por sobre las prestaciones. Es nuevo, así que también tiene pocas opiniones.` },
+      { type: "p", content: `Si te da más tranquilidad una **marca conocida con service** que un genérico, el [Atma Smart Mix](/producto/MLA57493542) es la opción: 3 litros, pantalla táctil y el respaldo de Atma en Argentina, a alrededor de {{precio:MLA57493542:k}}. La ventaja no son las prestaciones (parecidas al resto) sino el respaldo de marca ante cualquier problema.` },
+      { type: "p", content: `Lo honesto: a ese precio, el [Suono Neochef Pro](/producto/MLA58514868) ofrece más litros (misma potencia, 1700 W) con mejor valoración. El Atma se justifica si priorizás la marca y el service por sobre las prestaciones. Es nuevo, así que también tiene pocas opiniones.` },
 
       { type: "h3", title: `5. Heybez PMIX08 — el premium` },
-      { type: "product-card", productMlaId: "MLA52092432", label: "El premium", labelColor: "purple", ranking: 5, description: `Robot premium con vaporera, cerca de la categoría Thermomix por prestaciones y precio (más de un millón de pesos). 4.6 estrellas.` },
-      { type: "p", content: `Para quien quiere lo más cerca de una Thermomix sin pagar lo de una Thermomix, el Heybez PMIX08 es el premium del nicho: muy completo, con vaporera incluida, a alrededor de $1.200.000. Es el salto de gama dentro de las alternativas económicas.` },
-      { type: "p", content: `A ese precio ya estás a mitad de camino de la Thermomix de verdad, así que conviene compararlo con ella si tu presupuesto da. Para la mayoría, el Suono Pro da una experiencia muy buena por bastante menos; el Heybez es para quien quiere el tope sin llegar a la Thermomix.` },
+      { type: "product-card", productMlaId: "MLA52092432", label: "El premium", labelColor: "purple", ranking: 5, description: `Robot premium con vaporera, cerca de la categoría Thermomix por prestaciones y precio (más de un millón de pesos). 4.7 estrellas.` },
+      { type: "p", content: `Para quien quiere lo más cerca de una Thermomix sin pagar lo de una Thermomix, el [Heybez PMIX08](/producto/MLA52092432) es el premium del nicho: muy completo, con vaporera incluida, a alrededor de {{precio:MLA52092432:k}}. Es el salto de gama dentro de las alternativas económicas.` },
+      { type: "p", content: `A ese precio ya estás a mitad de camino de la Thermomix de verdad, así que conviene compararlo con ella si tu presupuesto da. Para la mayoría, el [Suono Neochef Pro](/producto/MLA58514868) da una experiencia muy buena por bastante menos; el Heybez es para quien quiere el tope sin llegar a la Thermomix.` },
 
       { type: "h2", title: `Tabla comparativa: por capacidad, potencia y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Bowl`, `Potencia`, `Ideal para`], rows: [
         [`[Suono Neochef 3.3L](https://meli.la/22jNkj5)`, `{{precio:MLA51527087}}`, `3.3 L`, `1700 W`, `Entrar gastando lo mínimo`],
         [`[EasyCook Vonne 4.5L](https://meli.la/2A46PnW)`, `{{precio:MLA62799773}}`, `4.5 L`, `1000 W`, `Pantalla táctil, tamaño grande`],
-        [`[Atma Smart Mix 3L](https://meli.la/2iWFvPW)`, `{{precio:MLA57493542}}`, `3 L`, `—`, `Marca conocida con service`],
+        [`[Atma Smart Mix 3L](https://meli.la/2iWFvPW)`, `{{precio:MLA57493542}}`, `3 L`, `1700 W`, `Marca conocida con service`],
         [`[Suono Neochef Pro 4.7L](https://meli.la/19nyfZ5)`, `{{precio:MLA58514868}}`, `4.7 L`, `1700 W`, `El más completo y valorado`],
         [`[Heybez PMIX08](https://meli.la/1DzAgtB)`, `{{precio:MLA52092432}}`, `3 L`, `800 W`, `Premium, tope de gama`],
       ] },
@@ -537,15 +537,15 @@ export const guides: Guide[] = [
       { type: "h3", title: `3. Recetario, wifi y balanza` },
       { type: "p", content: `Lo que hace fácil a un robot de cocina es el **recetario guiado**: la app que te dice paso a paso qué hacer. Mirá que tenga un buen recetario (idealmente con wifi para actualizarlo) y que **pese los ingredientes** integrados (balanza), que ahorra ensuciar y medir aparte. Esos detalles son los que más cambian la experiencia diaria.` },
 
-      { type: "h2", title: `Cuánto cuesta un robot de cocina en Argentina [junio 2026]`, id: "precios" },
+      { type: "h2", title: `Cuánto cuesta un robot de cocina en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
-        `**$396.000 a $570.000:** las opciones económicas que hacen gran parte del trabajo. El [Suono 3.3L](https://meli.la/22jNkj5) (entrada), el [EasyCook Vonne](https://meli.la/2A46PnW) y el [Suono Pro 4.7L](https://meli.la/19nyfZ5) (el más completo).`,
+        `**Alrededor de {{precio:MLA51527087:k}} a {{precio:MLA58514868:k}}:** las opciones económicas que hacen gran parte del trabajo. El [Suono 3.3L](https://meli.la/22jNkj5) (entrada), el [EasyCook Vonne](https://meli.la/2A46PnW) y el [Suono Pro 4.7L](https://meli.la/19nyfZ5) (el más completo).`,
         `**Alrededor de {{precio:MLA52092432:k}}:** el premium del nicho, el [Heybez PMIX08](https://meli.la/1DzAgtB), ya cerca de la categoría Thermomix.`,
         `**Más de $1.500.000:** la Thermomix de verdad, la mejor de la categoría, para quien quiere lo máximo y lo usa todos los días.`,
       ] },
 
       { type: "h2", title: `Veredicto: cuál robot de cocina comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría que quiere entrar al robot de cocina, el **Suono Neochef Pro 4.7L**: el más completo y mejor valorado, con prestaciones que se comparan bien con la Thermomix por un tercio del precio. Si querés gastar lo mínimo, el **Suono 3.3L**; si te da más tranquilidad la marca, el **Atma**; y si querés el tope sin llegar a la Thermomix, el **Heybez**. Es un nicho nuevo, así que las opiniones todavía son pocas: entrar ahora, en una gama media, es la forma de probarlo sin arriesgar una fortuna.` },
+      { type: "verdict", content: `Para la mayoría que quiere entrar al robot de cocina, el **[Suono Neochef Pro 4.7L](/producto/MLA58514868)**: el más completo y mejor valorado, con prestaciones que se comparan bien con la Thermomix por un tercio del precio. Si querés gastar lo mínimo, el **[Suono 3.3L](/producto/MLA51527087)**; si te da más tranquilidad la marca, el **[Atma](/producto/MLA57493542)**; y si querés el tope sin llegar a la Thermomix, el **[Heybez](/producto/MLA52092432)**. Es un nicho nuevo, así que las opiniones todavía son pocas: entrar ahora, en una gama media, es la forma de probarlo sin arriesgar una fortuna.` },
     ],
     faq: [
       { question: `¿Vale la pena un robot de cocina?`, answer: `Si cocinás seguido y variado, sí: te ahorra tiempo y pasos (pica, amasa, cocina y cocina al vapor solo, siguiendo recetas guiadas) y dejás menos cosas para lavar. Si cocinás poco o solo calentás, es gastar de más. No hace magia, pero para quien cocina a diario es una mano enorme. Para probar sin arriesgar mucho, una gama media como el [Suono Pro](https://meli.la/19nyfZ5) es la jugada.` },
@@ -655,21 +655,21 @@ export const guides: Guide[] = [
     silo: "cocina",
     title: `Horno eléctrico Atma: cuál comprar en Argentina [2026]`,
     seoTitle: `Horno Eléctrico Atma: Cuál Comprar en Argentina 2026`,
-    metaDescription: `Descubrí qué horno eléctrico Atma comprar: de 23 a 50 litros, con grill, anafes o freidora de aire, cuál conviene y a qué precio. Compará la gama Atma.`,
+    metaDescription: `Descubrí qué horno eléctrico Atma comprar: de 23 a 50 litros, con grill o freidora de aire, cuál conviene y a qué precio. Compará la gama Atma.`,
     ogTitle: `Horno eléctrico Atma: cuál comprar en Argentina`,
-    ogDescription: `La gama de hornos eléctricos Atma comparada: de 23 a 50 litros, con grill, 2 anafes o freidora de aire. Cuál conviene según el tamaño, con precios reales de MercadoLibre.`,
+    ogDescription: `La gama de hornos eléctricos Atma comparada: de 23 a 50 litros, con grill o freidora de aire. Cuál conviene según el tamaño, con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg`,
     h1: `Horno eléctrico Atma: cuál comprar en Argentina y cuál conviene [2026]`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-06-28",
+    publishedDate: "2026-07-19",
+    updatedDate: "2026-07-19",
     hasDisclosure: true,
     readingTime: 7,
-    standfirst: `Atma es la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina. Te mostramos su gama (de 23 a 50 litros, con grill, anafes o hasta freidora de aire) y cuál conviene según cuántos sean en casa, con precios reales de MercadoLibre.`,
+    standfirst: `Atma es la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina. Te mostramos su gama (de 23 a 50 litros, con grill o hasta freidora de aire) y cuál conviene según cuántos sean en casa, con precios reales de MercadoLibre.`,
     quickPicks: [
       { productMlaId: "MLA27167036", label: "El más vendido", labelColor: "green", tagline: "Atma 45L con grill: el horno más vendido del país, entra un pollo entero" },
       { productMlaId: "MLA20010900", label: "El premium", labelColor: "amber", tagline: "Atma 50L: el tope de la gama, con salto de precio importante" },
       { productMlaId: "MLA29108606", label: "Horno + freidora", labelColor: "purple", tagline: "Atma 23L 2 en 1: horno y freidora de aire en un solo aparato" },
-      { productMlaId: "MLA21789761", label: "El más chico", labelColor: "blue", tagline: "Atma 30L con grill: el tamaño intermedio, para pareja" },
+      { productMlaId: "MLA21789761", label: "El intermedio", labelColor: "blue", tagline: "Atma 30L con grill: el tamaño intermedio, para pareja" },
     ],
     intro: [
       `Atma es **la marca de hornos eléctricos de sobremesa más vendida y buscada de Argentina**, con service en el país y precios accesibles. Su gama va del de 23 litros (con freidora de aire incluida) al de 50, pasando por el de 45 que es el más vendido del país.`,
@@ -678,29 +678,29 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_787565-MLA99576477638_122025-F.jpg", alt: `Horno eléctrico de sobremesa Atma, la marca más vendida de Argentina`, imageSize: "hero" },
 
-      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los hornos eléctricos Atma con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: la **capacidad** en litros, si traen **grill**, **anafes** o **freidora de aire**, y el precio. Las calificaciones son de compradores reales. Precios de junio 2026.` },
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los hornos eléctricos Atma con más ventas y opiniones reales en MercadoLibre Argentina, y los ordenamos por lo que define la elección dentro de la marca: la **capacidad** en litros, si traen **grill** o **freidora de aire**, y el precio. Las calificaciones son de compradores reales. Precios de julio 2026.` },
 
       { type: "h2", title: `Los mejores hornos eléctricos Atma 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Atma 45L con grill (HGAB4523PI) — el más vendido` },
       { type: "product-card", productMlaId: "MLA27167036", label: "El más vendido", labelColor: "green", ranking: 1, description: `45 litros con grill: amplio, entra una fuente de pizza o un pollo entero. 4.7 estrellas en más de 2.300 calificaciones. El horno eléctrico más vendido del país.` },
-      { type: "p", content: `Es el Atma (y el horno eléctrico) más vendido de Argentina. Con **45 litros** es el tamaño justo para familia: entra una fuente de pizza grande o un pollo entero, tiene grill para dorar, a alrededor de $185.000. Por tamaño, marca y ventas, es el punto de partida lógico.` },
+      { type: "p", content: `Es el Atma (y el horno eléctrico) más vendido de Argentina. Con **45 litros** es el tamaño justo para familia: entra una fuente de pizza grande o un pollo entero, tiene grill para dorar, a alrededor de {{precio:MLA27167036:k}}. Por tamaño, marca y ventas, es el punto de partida lógico.` },
       { type: "p", content: `Trae luz interior para ver cómo va la comida sin abrir la puerta, algo que no todos los hornos de este rango tienen. Sigue siendo el más recomendado de la marca.` },
       { type: "pull-quote", content: `"Muy lindo, la verdad me encantó. Es súper amplio, te entran las dos bandejas redondas pizzeras grandes."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Atma 50L con grill (HGA5021N) — el premium` },
       { type: "product-card", productMlaId: "MLA20010900", label: "El premium", labelColor: "amber", ranking: 2, description: `50 litros, 1400 W, con grill y temperatura hasta 200 °C. 4.7 estrellas en más de 1.500 calificaciones. Elegís dorar arriba, abajo o ambos.` },
-      { type: "p", content: `Si buscás más espacio que el de 45, el Atma de **50 litros** suma capacidad y la opción de **elegir dónde dorar** (resistencia de arriba, de abajo o ambas), con timer e intensidad. Ojo con un dato honesto: al momento de esta revisión cuesta alrededor de $500.000, bastante más que el resto de la gama Atma (el 45L ronda los $185.000), así que dejó de ser "un escalón más" para pasar a ser el modelo premium de la marca. Calienta rápido y parejo, con muy buen respaldo de opiniones, pero conviene comparar precio antes de asumir que es solo "un poco más grande".` },
+      { type: "p", content: `Si buscás más espacio que el de 45, el Atma de **50 litros** suma capacidad y la opción de **elegir dónde dorar** (resistencia de arriba, de abajo o ambas), con timer e intensidad. Ojo con un dato honesto: al momento de esta revisión cuesta alrededor de {{precio:MLA20010900:k}}, bastante más que el resto de la gama Atma (el 45L ronda los {{precio:MLA27167036:k}}), así que dejó de ser "un escalón más" para pasar a ser el modelo premium de la marca. Calienta rápido y parejo, con muy buen respaldo de opiniones, pero conviene comparar precio antes de asumir que es solo "un poco más grande".` },
       { type: "pull-quote", content: `"Calienta híper bien y rápido. Podés elegir dónde dorar, arriba o abajo, timer e intensidad. Diez mil menos que en una cadena súper conocida."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Atma 23L con freidora de aire (HGFA2323PI) — 2 en 1` },
       { type: "product-card", productMlaId: "MLA29108606", label: "Horno + freidora", labelColor: "purple", ranking: 3, description: `23 litros que además es freidora de aire: dos aparatos en uno, con grill. 4.6 estrellas en más de 590 calificaciones.` },
-      { type: "p", content: `Si te tienta tener **horno y freidora de aire en un solo aparato**, este Atma de 23 litros lo resuelve: horneás como en cualquier horno chico y además freís con aire (más sano, sin tanto aceite), a alrededor de $192.000. Ideal si querés las dos cosas sin ocupar dos lugares en la mesada.` },
+      { type: "p", content: `Si te tienta tener **horno y freidora de aire en un solo aparato**, este Atma de 23 litros lo resuelve: horneás como en cualquier horno chico y además freís con aire (más sano, sin tanto aceite), a alrededor de {{precio:MLA29108606:k}}. Ideal si querés las dos cosas sin ocupar dos lugares en la mesada.` },
       { type: "p", content: `Es más chico (23 litros), así que para una familia grande queda corto; pero como combo horno + freidora para una pareja o cocina chica, es una solución práctica que pocos ofrecen.` },
 
-      { type: "h3", title: `4. Atma 30L con grill (HGA3022) — el más chico` },
+      { type: "h3", title: `4. Atma 30L con grill (HGA3022) — el intermedio` },
       { type: "product-card", productMlaId: "MLA21789761", label: "El tamaño intermedio", labelColor: "blue", ranking: 4, description: `30 litros con grill, llega hasta 250 °C y trae timer. 4.7 estrellas en más de 700 calificaciones.` },
-      { type: "p", content: `Si el de 45 te sobra y querés algo más compacto, el Atma de **30 litros** es el intermedio: alcanza para una pareja o cosas que no entran en uno chico, con grill, hasta 250 °C y timer, a alrededor de $200.000. Buen equilibrio entre tamaño y espacio en la mesada.` },
+      { type: "p", content: `Si el de 45 te sobra y querés algo más compacto, el Atma de **30 litros** es el intermedio: alcanza para una pareja o cosas que no entran en uno chico, con grill, hasta 250 °C y timer, a alrededor de {{precio:MLA21789761:k}}. Buen equilibrio entre tamaño y espacio en la mesada.` },
 
       { type: "h2", title: `Tabla comparativa: la gama Atma`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Extra`, `Ideal para`], rows: [
@@ -723,7 +723,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Horno eléctrico: la guía completa (todas las marcas)", href: "/guias/cocina/horno-electrico" },
-      { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
+      { label: "Microondas BGH: cuál comprar", href: "/guias/cocina/microondas-bgh" },
       { label: "Robot de cocina: cuál comprar", href: "/guias/cocina/robot-de-cocina" },
     ],
     internalLinksTitle: "Más para la cocina",
@@ -19353,15 +19353,15 @@ export const guides: Guide[] = [
     ogDescription: `Retráctil con luz LED, clásico de palas metálicas o industrial para el quincho. Etheos, Liliana, Peabody, Axel y Kent comparados con precios reales de MercadoLibre.`,
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp`,
     h1: `Ventilador de techo: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Para la mayoría conviene el **Etheos retráctil** (alrededor de {{precio:MLA44033885:k}}): luz LED de 3 tonos, control remoto y más de 2.000 opiniones. Si buscás caudal bruto al menor precio, el clásico Liliana VTHI513 de palas metálicas; para dormitorio, el Peabody con motor DC silencioso; y para quincho o galpón, el Kent industrial.`,
-    publishedDate: "2026-09-01",
-    updatedDate: "2026-07-06",
+    directAnswer: `Para la mayoría conviene el **[Etheos retráctil](/producto/MLA44033885)** (alrededor de {{precio:MLA44033885:k}}): luz LED de 3 tonos, control remoto y casi 2.000 opiniones. Si buscás el mayor caudal bruto, el clásico [Liliana VTHI513](/producto/MLA17380375) de palas metálicas; para dormitorio, el [Peabody con motor DC](/producto/MLA43536904) de ruido bajo; y para quincho o galpón, el [Kent industrial](/producto/MLA57107638).`,
+    publishedDate: "2026-07-19",
+    updatedDate: "2026-07-19",
     hasDisclosure: true,
     readingTime: 10,
-    standfirst: `Un ventilador de techo va de $92.000 (el clásico de palas metálicas) a $600.000 (el retráctil premium con motor DC). La decisión real es el formato: retráctil moderno con luz, clásico de caudal bruto o industrial para el quincho. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    standfirst: `Un ventilador de techo va de {{precio:MLA17380375:k}} (el clásico de palas metálicas) a {{precio:MLA43536904:k}} (el retráctil premium con motor DC). La decisión real es el formato: retráctil moderno con luz, clásico de caudal bruto o industrial para el quincho. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA44033885", label: "Mejor elección general", labelColor: "green", tagline: "Etheos retráctil: luz LED 3 tonos, control remoto y más de 2.000 opiniones" },
-      { productMlaId: "MLA17380375", label: "El clásico económico", labelColor: "slate", tagline: "Liliana VTHI513: palas de metal, 1,4 m de caudal bruto, el precio más bajo" },
+      { productMlaId: "MLA44033885", label: "Mejor elección general", labelColor: "green", tagline: "Etheos retráctil: luz LED 3 tonos, control remoto y casi 2.000 opiniones" },
+      { productMlaId: "MLA17380375", label: "El clásico económico", labelColor: "slate", tagline: "Liliana VTHI513: palas de metal, 1,4 m de caudal bruto, de los precios más bajos" },
       { productMlaId: "MLA43536904", label: "Premium motor DC", labelColor: "purple", tagline: "Peabody DC: silencioso, bajo consumo y dimmer con memoria, 4.9 estrellas" },
       { productMlaId: "MLA57107638", label: "Para quincho o galpón", labelColor: "amber", tagline: "Kent industrial: aspas de metal y certificación eléctrica, 4.9" },
     ],
@@ -19372,52 +19372,52 @@ export const guides: Guide[] = [
     sections: [
       { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_630094-MLA96155780335_102025-O.webp", alt: `Ventilador de techo Liliana de palas metálicas, el clásico argentino`, imageSize: "hero" },
 
-      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **Etheos retráctil**: luz LED de 3 tonos, control remoto, 6 velocidades y el mayor respaldo de compradores entre los modernos. Si querés **caudal bruto al menor precio**, el clásico **Liliana VTHI513**. Para **dormitorio silencioso y bajo consumo**, el **Peabody con motor DC**. Y para el **quincho o galpón**, el **Kent industrial**.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Etheos retráctil](/producto/MLA44033885)**: luz LED de 3 tonos, control remoto, 6 velocidades y el mayor respaldo de compradores entre los modernos. Si querés **el mayor caudal bruto**, el clásico **[Liliana VTHI513](/producto/MLA17380375)**. Para **dormitorio de ruido bajo y consumo mínimo**, el **[Peabody con motor DC](/producto/MLA43536904)**. Y para el **quincho o galpón**, el **[Kent industrial](/producto/MLA57107638)**.` },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los ventiladores de techo con más ventas y opiniones reales en MercadoLibre Argentina, cubriendo los tres formatos del mercado: **retráctiles con luz** (la generación nueva), **clásicos de palas metálicas** y **industriales**. Los ordenamos por lo que define la compra: caudal, motor (AC o DC), luz, ruido y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
 
       { type: "h2", title: `Qué mirar antes de comprar un ventilador de techo`, id: "que-mirar" },
       { type: "p", content: `Primero, el **formato**. El retráctil moderno esconde las aspas en un plafón con luz LED: estética de lámpara, control remoto y luz regulable, ideal para living y dormitorio. El clásico de **palas metálicas** mueve más aire por menos plata, con la estética de siempre. Y el **industrial** es caudal puro sin luz, para quinchos y galpones.` },
-      { type: "p", content: `Segundo, el **motor**: los AC clásicos son robustos y baratos; los **DC** (Peabody, Iluma) consumen menos de la mitad, son casi inaudibles en velocidades bajas y suelen sumar más velocidades. Tercero, dos detalles eléctricos que las reseñas repiten: el **soporte de techo** incluido suele ser flojo (comprar uno bueno sale monedas) y para manejar la **luz por separado** necesitás 3 cables hasta la llave de pared, no 2.` },
+      { type: "p", content: `Segundo, el **motor**: los AC clásicos son robustos y baratos; los **DC** (Peabody, Iluma) consumen menos de la mitad, son más silenciosos en velocidades bajas y suelen sumar más velocidades. Tercero, dos detalles eléctricos que las reseñas repiten: el **soporte de techo** incluido suele ser flojo (comprar uno bueno sale monedas) y para manejar la **luz por separado** necesitás 3 cables hasta la llave de pared, no 2.` },
 
       { type: "h2", title: `Los mejores ventiladores de techo 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Etheos retráctil 100W — mejor elección general` },
-      { type: "product-card", productMlaId: "MLA44033885", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Retráctil con luz LED de 3 tonos, control remoto, 6 velocidades y aspas reversibles para invierno. 4.7 estrellas en más de 2.000 calificaciones.` },
-      { type: "p", content: `El retráctil con más respaldo del catálogo: las aspas acrílicas se despliegan al encenderlo y se esconden en el plafón al apagarlo, dejando una lámpara de techo prolija. Luz LED en 3 tonos (frío, cálido, neutro), control remoto, 6 velocidades y **aspas reversibles** para redistribuir el calor en invierno, a alrededor de $159.000.` },
+      { type: "product-card", productMlaId: "MLA44033885", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Retráctil con luz LED de 3 tonos, control remoto, 6 velocidades y aspas reversibles para invierno. 4.7 estrellas en casi 2.000 calificaciones.` },
+      { type: "p", content: `El retráctil con más respaldo del catálogo: las aspas acrílicas se despliegan al encenderlo y se esconden en el plafón al apagarlo, dejando una lámpara de techo prolija. Luz LED en 3 tonos (frío, cálido, neutro), control remoto, 6 velocidades y **aspas reversibles** para redistribuir el calor en invierno, a alrededor de {{precio:MLA44033885:k}}.` },
       { type: "p", content: `Con motor de bobinado de cobre y 100 W, es la síntesis de lo que el mercado argentino más compra hoy: luz + ventilación en un solo aparato de estética moderna.` },
 
       { type: "h3", title: `2. Liliana VTHI513 — el clásico al mejor precio` },
-      { type: "product-card", productMlaId: "MLA17380375", label: "El clásico económico", labelColor: "slate", ranking: 2, description: `3 palas de metal, 1,4 m de diámetro (el mayor caudal de la guía) y luz, al precio más bajo. 4.6 estrellas en más de 2.000 calificaciones.` },
-      { type: "p", content: `El ventilador de techo argentino de toda la vida, de la marca nacional de siempre: palas metálicas de **1,4 metros** (el diámetro más grande de esta guía), luz con interruptor y caudal probado hasta en techos de 5 metros, según una reseña. A alrededor de $92.000, es la mayor cantidad de aire por peso invertido.` },
+      { type: "product-card", productMlaId: "MLA17380375", label: "El clásico económico", labelColor: "slate", ranking: 2, description: `3 palas de metal, 1,4 m de diámetro (el mayor caudal de la guía) y luz, a uno de los precios más bajos. 4.6 estrellas en más de 2.000 calificaciones.` },
+      { type: "p", content: `El ventilador de techo argentino de toda la vida, de la marca nacional de siempre: palas metálicas de **1,4 metros** (el diámetro más grande de esta guía), luz con interruptor y caudal probado hasta en techos de 5 metros, según una reseña. A alrededor de {{precio:MLA17380375:k}}, es la mayor cantidad de aire por peso invertido.` },
       { type: "p", content: `Las contras honestas: el **soporte incluido es malo** (la recomendación repetida es comprar uno aparte, sale monedas), no es silencioso del todo y su desglose de calificaciones es el más flojo de la guía (75% de 5 estrellas).` },
       { type: "pull-quote", content: `"Anda perfecto. Tira mucho aire y luz. Lo que sí: compren el soporte, el que viene con el ventilador no sirve. Pero es bueno el ventilador, no hace casi nada de ruido."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. Axel 4 palas — el clásico para dormitorio` },
       { type: "product-card", productMlaId: "MLA11828901", label: "Clásico con 5 velocidades", labelColor: "blue", ranking: 3, description: `4 palas de metal, 5 velocidades y luz. Silencioso en velocidades bajas, según reseñas. 4.7 estrellas en más de 900 calificaciones.` },
-      { type: "p", content: `El escalón intermedio entre el clásico básico y los retráctiles: sus **5 velocidades** permiten regular fino, y las reseñas coinciden en que en velocidad 1-2 alcanza para una habitación trabajando casi en silencio, a alrededor de $104.000.` },
+      { type: "p", content: `El escalón intermedio entre el clásico básico y los retráctiles: sus **5 velocidades** permiten regular fino, y las reseñas coinciden en que en velocidad 1-2 alcanza para una habitación trabajando casi en silencio, a alrededor de {{precio:MLA11828901:k}}.` },
       { type: "p", content: `El dato que vale oro de una reseña de instalación: para manejar la luz por separado necesitás **3 cables** entre la llave de pared y el ventilador, no los 2 habituales. Vale para casi todo ventilador con luz de esta guía.` },
       { type: "pull-quote", content: `"Un verdadero golazo: buen caudal de aire, silencioso. Lo uso en velocidad 1-2 y es más que suficiente para la habitación. Lo instalé yo mismo con un poquito de maña."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `4. Peabody retráctil DC — el premium silencioso` },
       { type: "product-card", productMlaId: "MLA43536904", label: "Premium motor DC", labelColor: "purple", ranking: 4, description: `Motor DC de 36 W (consume menos de la mitad que un AC), dimmer con memoria y modo convección para invierno. 4.9 estrellas en más de 1.100 calificaciones.` },
-      { type: "p", content: `El premium de la guía y el mejor calificado entre los grandes: su **motor DC de 36 W** consume una fracción de un ventilador común y es casi inaudible, con luz LED de 3 tonos con **dimmer y memoria**, 6 velocidades y modo convección electrónico para invierno. 4.9 en más de 1.100 calificaciones.` },
-      { type: "p", content: `Lo honesto: a alrededor de $600.000 cuesta como cuatro Liliana. Se justifica en dormitorios donde el silencio absoluto y el consumo mínimo importan, o si querés el equipo definitivo; para el resto, el Etheos da la experiencia retráctil por un cuarto del precio.` },
+      { type: "p", content: `El premium de la guía y el mejor calificado entre los grandes: su **motor DC de 36 W** consume una fracción de un ventilador común y tiene ruido bajo (39 dB declarados, aceptable aunque no el más silencioso del catálogo), con luz LED de 3 tonos con **dimmer y memoria**, 6 velocidades y modo convección electrónico para invierno. 4.9 en más de 1.100 calificaciones.` },
+      { type: "p", content: `Lo honesto: a alrededor de {{precio:MLA43536904:k}} cuesta como cuatro Liliana. Se justifica en dormitorios donde el ruido bajo y el consumo mínimo importan, o si querés el equipo definitivo; para el resto, el Etheos da la experiencia retráctil por un cuarto del precio.` },
 
       { type: "h3", title: `5. Iluma Zenith DC — motor DC accesible` },
-      { type: "product-card", productMlaId: "MLA66266614", label: "DC accesible", labelColor: "green", ranking: 5, description: `Motor DC silencioso y luz LED de 3 temperaturas por la mitad que el Peabody. 4.8 estrellas, aunque con base de opiniones chica (58).` },
-      { type: "p", content: `La forma accesible de tener **motor DC**: retráctil con 6 velocidades, aspas reversibles y LED en 3 temperaturas, a alrededor de $164.000, la mitad o menos que el Peabody. Para dormitorios, el DC marca la diferencia en ruido nocturno.` },
-      { type: "p", content: `Lo honesto: su base de 58 calificaciones es la más chica entre los retráctiles de la guía. Si preferís historial masivo, el Etheos; si querés DC probado, el Peabody.` },
+      { type: "product-card", productMlaId: "MLA66266614", label: "DC accesible", labelColor: "green", ranking: 5, description: `Motor DC silencioso y luz LED de 3 temperaturas por la mitad que el Peabody. 4.7 estrellas, aunque con base de opiniones chica (61).` },
+      { type: "p", content: `La forma accesible de tener **motor DC**: retráctil con 6 velocidades, aspas reversibles y LED en 3 temperaturas, a alrededor de {{precio:MLA66266614:k}}, la mitad o menos que el Peabody. Para dormitorios, el DC marca la diferencia en ruido nocturno.` },
+      { type: "p", content: `Lo honesto: su base de 61 calificaciones es la más chica entre los retráctiles de la guía. Si preferís historial masivo, el Etheos; si querés DC probado, el Peabody.` },
 
       { type: "h3", title: `6. Kent K3001 industrial — para el quincho` },
-      { type: "product-card", productMlaId: "MLA57107638", label: "Para quincho o galpón", labelColor: "amber", ranking: 6, description: `Industrial de aspas metálicas negras con certificación eléctrica IQC. 4.9 sin ninguna calificación de 1 o 2 estrellas, base chica (51).` },
-      { type: "p", content: `Para quinchos, galpones y talleres: aspas de metal, 3 velocidades, cero adornos y **certificación de seguridad eléctrica argentina** (IQC), algo que pocos declaran. Una reseña lo usa en un ambiente abierto para mover aire y ahuyentar insectos: 10 a la estética, 10 a la velocidad. Alrededor de $113.000.` },
-      { type: "p", content: `Avisos: **no incluye el soporte** para colgar (se compra aparte) y su base de 51 calificaciones es chica, aunque impecable: ni una sola opinión de 1 o 2 estrellas.` },
+      { type: "product-card", productMlaId: "MLA57107638", label: "Para quincho o galpón", labelColor: "amber", ranking: 6, description: `Industrial de aspas metálicas negras con certificación eléctrica IQC. 4.9 sin ninguna calificación de 1 o 2 estrellas, base chica (52).` },
+      { type: "p", content: `Para quinchos, galpones y talleres: aspas de metal, 3 velocidades, cero adornos y **certificación de seguridad eléctrica argentina** (IQC), algo que pocos declaran. Una reseña lo usa en un ambiente abierto para mover aire y ahuyentar insectos: 10 a la estética, 10 a la velocidad. Alrededor de {{precio:MLA57107638:k}}.` },
+      { type: "p", content: `Avisos: **no incluye el soporte** para colgar (se compra aparte) y su base de 52 calificaciones es chica, aunque impecable: ni una sola opinión de 1 o 2 estrellas.` },
 
       { type: "h2", title: `Tabla comparativa: formato, motor y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Luz`, `Ideal para`], rows: [
         [`[Etheos retráctil](https://meli.la/2qxbftx)`, `{{precio:MLA44033885}}`, `Retráctil, motor AC`, `LED 3 tonos + remoto`, `Living y dormitorio, la compra segura`],
-        [`[Liliana VTHI513](https://meli.la/1KwoBQf)`, `{{precio:MLA17380375}}`, `Clásico 3 palas, 1,4 m`, `Sí, 1 lámpara`, `Máximo caudal, mínimo precio`],
+        [`[Liliana VTHI513](https://meli.la/1KwoBQf)`, `{{precio:MLA17380375}}`, `Clásico 3 palas, 1,4 m`, `Sí, 1 lámpara`, `Máximo caudal, precio accesible`],
         [`[Axel 4 palas](https://meli.la/19LHBrY)`, `{{precio:MLA11828901}}`, `Clásico 4 palas, 5 vel.`, `Sí, 1 lámpara`, `Dormitorio en velocidades bajas`],
         [`[Kent K3001](https://meli.la/2y2Eh9k)`, `{{precio:MLA57107638}}`, `Industrial`, `No`, `Quincho, galpón, taller`],
         [`[Iluma Zenith DC](https://meli.la/2j5EPn1)`, `{{precio:MLA66266614}}`, `Retráctil, motor DC`, `LED 3 tonos + remoto`, `DC silencioso accesible`],
@@ -19428,7 +19428,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `1. El formato: retráctil, clásico o industrial` },
       { type: "p", content: `El **retráctil** es lámpara y ventilador a la vez: estética moderna, luz LED regulable y control remoto, para living y dormitorio. El **clásico de palas metálicas** mueve más aire por menos plata (el Liliana de 1,4 m es imbatible en caudal por peso). El **industrial** es para espacios abiertos: quincho, galpón, taller.` },
       { type: "h3", title: `2. El motor: AC o DC` },
-      { type: "p", content: `Los motores **AC** son el estándar: robustos y baratos. Los **DC** (Peabody, Iluma) consumen menos de la mitad, son casi inaudibles en velocidades bajas y suman más control fino. Si el ventilador va a un dormitorio y sos sensible al ruido, el DC vale la diferencia.` },
+      { type: "p", content: `Los motores **AC** son el estándar: robustos y baratos. Los **DC** (Peabody, Iluma) consumen menos de la mitad, son más silenciosos en velocidades bajas y suman más control fino. Si el ventilador va a un dormitorio y sos sensible al ruido, el DC vale la diferencia.` },
       { type: "h3", title: `3. Los dos detalles eléctricos que nadie avisa` },
       { type: "p", content: `Salen de las reseñas y se repiten entre marcas: primero, el **soporte de techo** incluido suele ser flojo (en el Liliana lo dicen sin filtro, y el Kent directamente no lo trae); comprar un soporte bueno sale monedas y evita sustos. Segundo, para prender la **luz por separado** del motor necesitás **3 cables** hasta la llave de pared; si tu instalación tiene 2, la luz y el ventilador van a encender juntos.` },
       { type: "h3", title: `4. El consumo: la mitad de la historia` },
@@ -19446,13 +19446,13 @@ export const guides: Guide[] = [
       ] },
 
       { type: "h2", title: `Veredicto: cuál ventilador de techo comprar`, id: "veredicto" },
-      { type: "verdict", content: `Para la mayoría, el **Etheos retráctil**: luz LED de 3 tonos, control remoto y el mayor respaldo entre los modernos, a precio razonable. Si mandan el **caudal y el precio**, el clásico **Liliana VTHI513** (comprale un soporte decente). Para **dormitorio**, el **Axel** en velocidades bajas o, si podés invertir, los **DC silenciosos** (Iluma accesible, **Peabody** definitivo). Para el **quincho o galpón**, el **Kent industrial** certificado. Los errores a evitar: instalar con el soporte flojo que viene en la caja, y descubrir tarde que la luz independiente necesita un tercer cable.` },
+      { type: "verdict", content: `Para la mayoría, el **[Etheos retráctil](/producto/MLA44033885)**: luz LED de 3 tonos, control remoto y el mayor respaldo entre los modernos, a precio razonable. Si mandan el **caudal y el precio**, el clásico **[Liliana VTHI513](/producto/MLA17380375)** (comprale un soporte decente). Para **dormitorio**, el **[Axel](/producto/MLA11828901)** en velocidades bajas o, si podés invertir, los **DC silenciosos** ([Iluma](/producto/MLA66266614) accesible, **[Peabody](/producto/MLA43536904)** definitivo). Para el **quincho o galpón**, el **[Kent industrial](/producto/MLA57107638)** certificado. Los errores a evitar: instalar con el soporte flojo que viene en la caja, y descubrir tarde que la luz independiente necesita un tercer cable.` },
     ],
     faq: [
-      { question: `¿Cuál es el mejor ventilador de techo en Argentina?`, answer: `Para la mayoría, el [Etheos retráctil](https://meli.la/2qxbftx): luz LED de 3 tonos, control remoto y más de 2.000 calificaciones. Si buscás caudal bruto al menor precio, el clásico [Liliana VTHI513](https://meli.la/1KwoBQf); el premium silencioso es el [Peabody con motor DC](https://meli.la/1FFciXt) (4.9 estrellas).` },
+      { question: `¿Cuál es el mejor ventilador de techo en Argentina?`, answer: `Para la mayoría, el [Etheos retráctil](https://meli.la/2qxbftx): luz LED de 3 tonos, control remoto y casi 2.000 calificaciones. Si buscás el mayor caudal bruto, el clásico [Liliana VTHI513](https://meli.la/1KwoBQf); el premium de motor DC es el [Peabody](https://meli.la/1FFciXt) (4.9 estrellas).` },
       { question: `¿Qué es un ventilador de techo retráctil?`, answer: `Un ventilador cuyas aspas acrílicas se despliegan al encenderlo y se esconden dentro del plafón al apagarlo: apagado parece una lámpara de techo moderna. Suman luz LED regulable en tonos y control remoto. Son el formato que más creció en Argentina.` },
       { question: `¿Cuánto consume un ventilador de techo?`, answer: `Entre 35 W (motor DC, como el Peabody) y unos 100 W (motor AC): una fracción de lo que consume un aire acondicionado. Es el electrodoméstico más barato de usar para refrescar un ambiente completo.` },
-      { question: `¿Qué diferencia hay entre motor AC y DC?`, answer: `El AC es el estándar: robusto y más barato. El DC consume menos de la mitad, es casi inaudible en velocidades bajas y permite más niveles de velocidad. Para dormitorios, el DC (como el [Iluma](https://meli.la/2j5EPn1) o el [Peabody](https://meli.la/1FFciXt)) vale la diferencia.` },
+      { question: `¿Qué diferencia hay entre motor AC y DC?`, answer: `El AC es el estándar: robusto y más barato. El DC consume menos de la mitad, es más silencioso en velocidades bajas y permite más niveles de velocidad. Para dormitorios, el DC (como el [Iluma](https://meli.la/2j5EPn1) o el [Peabody](https://meli.la/1FFciXt)) vale la diferencia.` },
       { question: `¿Sirve un ventilador de techo en invierno?`, answer: `Sí, si tiene aspas reversibles como los retráctiles de esta guía: girando al revés en velocidad baja, bajan el aire caliente acumulado en el techo y reparten mejor la calefacción. Combina bien con una [estufa eléctrica](/guias/climatizacion/estufas-electricas).` },
       { question: `¿Necesito un electricista para instalarlo?`, answer: `Varias reseñas lo instalan por su cuenta "con un poquito de maña". Los dos puntos de atención: usar un soporte de techo firme (el incluido suele ser flojo) y, si querés manejar la luz por separado, que lleguen 3 cables a la llave de pared, no 2.` },
       { question: `¿Ventilador de techo o aire acondicionado?`, answer: `No compiten: el ventilador consume 10 a 20 veces menos y alcanza para calor moderado; el aire enfría de verdad en olas de calor. La jugada eficiente es combinarlos: el aire a 25-26 grados y el ventilador repartiendo. Mirá también nuestra guía de [aire acondicionado portátil](/guias/climatizacion/aire-acondicionado-portatil).` },
