@@ -21964,7 +21964,9 @@ export const guides: Guide[] = [
 
   // ─────────────────────────────────────────────────────────
   // Guía nueva dia-del-nino-argentina — silo nuevo "juguetes"
-  // (pilar, categoria "dia-del-nino"). Origen: Juan pidió arrancar
+  // (pilar, categoria "fechas-especiales" — contenedor compartido con
+  // futuras guías de Black Friday, Cyber Monday, Día de la Madre, Día
+  // del Padre, Navidad, Reyes Magos, etc.). Origen: Juan pidió arrancar
   // el silo de guías por fecha especial (2026-07-20), empezando por
   // el Día de las Infancias (16-ago-2026, Decreto 562/2025) por ser
   // la fecha más próxima. Keyword "qué regalar día del niño" tiene
@@ -21976,7 +21978,7 @@ export const guides: Guide[] = [
   // ─────────────────────────────────────────────────────────
   {
     slug: "dia-del-nino-argentina",
-    category: "dia-del-nino",
+    category: "fechas-especiales",
     silo: "juguetes",
     pillar: true,
     title: `Día del Niño Argentina: qué regalar según la edad [2026]`,
@@ -22121,6 +22123,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Ver todos los juguetes virales", href: "/categoria/juguetes" },
+      { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
     ],
     internalLinksTitle: "Seguí explorando",
   },
@@ -22253,10 +22256,10 @@ export const guides: Guide[] = [
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
-  "dia-del-nino": {
-    name: "Guía del Día del Niño",
+  "fechas-especiales": {
+    name: "Guías de Fechas Especiales",
     description:
-      "Qué regalar según la edad: bebés, niños pequeños, 6 a 10 años y adolescentes. Juguetes virales con precios reales de MercadoLibre.",
+      "Qué regalar en cada ocasión: Día del Niño, Día de la Madre, Día del Padre, Navidad, Reyes Magos, Black Friday y Cyber Monday. Precios reales de MercadoLibre.",
   },
   "peluches-personajes": {
     name: "Guía de Peluches de Personajes",
