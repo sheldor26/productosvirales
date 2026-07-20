@@ -55965,6 +55965,7452 @@ Comprá la Daewoo DST-6593 si necesitás tostar 4 rebanadas a la vez y no te imp
       },
     ],
   },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva ventilador-de-pie — silo climatizacion, categoria "ventiladores-de-pie"
+  // Origen: research de tendencias/keywords 2026-07-19 (Keyword Planner
+  // 33.100/mes, estacional). Fuente de sourcing: Bright Data
+  // (scrape_as_markdown) sobre MercadoLibre Argentina + fabricantes
+  // (Kanji, Liliana), 2026-07-19. Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA41606856",
+    title: "Ventilador De Pie Peabody Pe-vp1860n - 18\", 60w, 3 Paletas Estructura Negro Diámetro 18\" Material de las aspas Plástico",
+    canonicalName: "Ventilador de Pie Peabody PE-VP1860N 18\"",
+    price: 69999,
+    originalPrice: 89999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_722461-MLA99925256413_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_722461-MLA99925256413_112025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ventilador-de-pie-peabody-pe-vp1860n-18-60w-3-paletas-estructura-negro-diametro-18-material-de-las-aspas-plastico/p/MLA41606856",
+    affiliateUrl: "https://meli.la/2P1uH4q",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 1602,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Peabody" },
+      { label: "Modelo", value: "PE-VP1860N" },
+      { label: "Diámetro", value: "45,72 cm (18\")" },
+      { label: "Altura", value: "1,6 m" },
+      { label: "Peso", value: "7,9 kg" },
+      { label: "Potencia", value: "60 W" },
+      { label: "Aspas", value: "3, de plástico" },
+      { label: "Velocidades", value: "3" },
+      { label: "Nivel de ruido", value: "59 dB (declarado en ficha técnica)" },
+      { label: "Oscilación", value: "Sí" },
+      { label: "Altura ajustable", value: "Sí" },
+      { label: "Inclinación", value: "Sí" },
+      { label: "Rejilla extraíble", value: "Sí" },
+      { label: "Control remoto", value: "No" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA19884110", "MLA29273448", "MLA41701462"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ventilador de pie Peabody PE-VP1860N 18\": el mejor calificado de esta guía (4.8 estrellas en 1.602 opiniones), con altura ajustable, inclinación y 59 dB de ruido declarado, el único dato concreto de ruido entre los ventiladores de esta comparativa.",
+    seoTitle: "Peabody PE-VP1860N: el ventilador de pie mejor calificado",
+    metaDescription: "Ventilador de pie Peabody PE-VP1860N 18\", altura ajustable, 59 dB. 1.602 opiniones reales, 4.8 estrellas. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás el ventilador de pie con mejor rating de esta guía y con un dato de ruido concreto y verificable (59 dB), algo que ningún otro modelo de esta comparativa declara con esa precisión. Tiene altura ajustable e inclinación, dos funciones que el Winco no tiene. La contra real: varias reseñas coinciden en que el armado es de los más complicados del grupo (\"tenés que ser ingeniero para armarlo\", dice una), y hay al menos un caso reportado de falla tras una temporada de uso. No es para vos si el volumen bruto de reseñas es lo que más te importa: el Winco tiene casi siete veces más opiniones.",
+    pros: [
+      "El rating más alto de esta guía: 4.8 estrellas en 1.602 calificaciones reales",
+      "Altura ajustable e inclinación, algo que el Winco W118 no ofrece",
+      "Nivel de ruido declarado en la ficha técnica (59 dB), un dato que el resto de esta guía no especifica con esa precisión",
+      "Rejilla extraíble para limpieza",
+      "22% de descuento sobre el precio de lista al momento de revisar el precio",
+    ],
+    cons: [
+      "El armado es de los más criticados en las reseñas: \"tenés q ser ingeniero en la nasa para armarlo\", dice una de las más útiles",
+      "Al menos un comprador reportó que dejó de funcionar bien después de una temporada de uso",
+      "Sin control remoto",
+      "1.602 opiniones, bastante menos volumen que el Winco W118 (10.528) o la Liliana VP20K (4.259)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Peabody PE-VP1860N es un ventilador de pie clásico de 18 pulgadas (45,72 cm) con estructura negra y aspas de plástico. Es el mejor calificado de esta guía, con 4.8 estrellas sobre 1.602 opiniones reales, y el único de la comparativa con un nivel de ruido declarado con precisión en su ficha técnica (59 dB).
+
+## Cómo funciona
+
+Con 3 velocidades, oscilación y altura ajustable, cubre el uso estándar de dormitorio o living. La rejilla extraíble facilita la limpieza, algo que ninguno de los otros ventiladores de esta guía menciona explícitamente en su ficha. La estructura pesa 7,9 kg, la más pesada de esta comparativa, lo que en la práctica se traduce en más estabilidad sobre el piso.
+
+## La contra real
+
+El armado es el punto más repetido entre las críticas, aunque casi siempre conviviendo con una reseña de 5 estrellas: "tira una banda de aire en 1 y en 3 parece una turbina de avión, silencioso mal. Lo único tenés q ser ingeniero en la nasa para armarlo", dice una reseña con 38 votos útiles. Otro comprador reportó una falla real tras una temporada: "ya el verano anterior hizo ruido. Y este ya no anda". No es la mayoría de las opiniones, pero conviene tenerlo presente antes de comprar.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Winco W118](/producto/MLA19884110) (el más vendido, con casi siete veces más reseñas), el Peabody gana en rating (4.8 contra 4.5) y en altura ajustable, pero el Winco es más barato y tiene una base de opiniones mucho más grande. Frente a la [Liliana VP20K](/producto/MLA41701462) (3 en 1, aspas de metal), el Peabody es más barato pero con aspas de plástico en vez de metal. Frente al [Kanji Home KJH-FH2012](/producto/MLA29273448), el Peabody no trae control remoto, algo que el Kanji sí ofrece a un precio similar.
+
+## Para quién sí y para quién no
+
+Comprá el Peabody PE-VP1860N si priorizás el mejor rating de la guía y un dato de ruido concreto y verificable. No es para vos si el armado sencillo es una prioridad (varias reseñas coinciden en que cuesta) o si buscás control remoto: para eso, el [Kanji Home KJH-FH2012](/producto/MLA29273448) de esta guía lo incluye.`,
+    faq: [
+      {
+        question: "¿Es realmente silencioso el Peabody PE-VP1860N?",
+        answer: "Su ficha técnica declara 59 dB, un nivel moderado (similar a una conversación normal), y es el único ventilador de esta guía con ese dato específico. Varias reseñas lo describen como silencioso en velocidades bajas.",
+      },
+      {
+        question: "¿Es difícil de armar?",
+        answer: "Según varias reseñas, sí: es de los más criticados en este punto de toda la guía. No impide el armado, pero conviene reservar tiempo y paciencia, o pedirle ayuda a alguien con maña para el bricolaje.",
+      },
+      {
+        question: "¿Tiene control remoto?",
+        answer: "No. Si buscás esa función a un precio similar, el [Kanji Home KJH-FH2012](/producto/MLA29273448) de esta guía sí lo incluye.",
+      },
+      {
+        question: "¿La altura es ajustable?",
+        answer: "Sí, junto con inclinación. Es una de las pocas de esta guía que ofrece ambas funciones combinadas.",
+      },
+      {
+        question: "¿Qué tan confiable es a largo plazo?",
+        answer: "La mayoría de las 1.602 opiniones son positivas, pero al menos un comprador reportó que dejó de andar bien después de una temporada de uso. No es un patrón mayoritario, pero es un dato real que vale la pena conocer.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ventilador de Pie Peabody PE-VP1860N 18\"",
+      image: ["https://http2.mlstatic.com/D_Q_NP_722461-MLA99925256413_112025-F.webp"],
+      description: "Ventilador de pie Peabody PE-VP1860N 18\", 60W, altura ajustable, 59 dB declarados.",
+      brand: { "@type": "Brand", name: "Peabody" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ventilador-de-pie-peabody-pe-vp1860n-18-60w-3-paletas-estructura-negro-diametro-18-material-de-las-aspas-plastico/p/MLA41606856",
+        priceCurrency: "ARS",
+        price: "69999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "1602",
+      },
+    },
+  },
+  {
+    id: "MLA19884110",
+    title: "Ventilador Winco 3 En 1 De Mesa/de Pared/de Pie W118 45.72 Cm 50 Hz Gris Celeste Aluminio 5",
+    canonicalName: "Ventilador Winco 3 en 1 W118 (mesa/pared/pie)",
+    price: 58037,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_708809-MLA101398668422_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_708809-MLA101398668422_122025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ventilador-winco-3-en-1-de-mesade-paredde-pie-w118-4572-cm-50-hz-gris-celeste-aluminio-5/p/MLA19884110",
+    affiliateUrl: "https://meli.la/2uhnx1r",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 10528,
+    soldQuantity: 50000,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Winco" },
+      { label: "Línea", value: "3 en 1 (mesa/pared/pie)" },
+      { label: "Modelo", value: "W118" },
+      { label: "Diámetro", value: "45,72 cm" },
+      { label: "Altura", value: "1,7 m" },
+      { label: "Peso", value: "2 kg" },
+      { label: "Potencia", value: "110 W" },
+      { label: "Aspas", value: "5, de aluminio" },
+      { label: "Velocidades", value: "3" },
+      { label: "Es silencioso", value: "No, según la ficha técnica" },
+      { label: "Altura ajustable", value: "No" },
+      { label: "Oscilación", value: "Sí" },
+      { label: "Función turbo", value: "Sí" },
+      { label: "Eficiencia energética Argentina", value: "B" },
+      { label: "Control remoto", value: "No" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA41606856", "MLA29273448", "MLA41701462"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ventilador Winco 3 en 1 W118: el más vendido de Argentina en esta categoría por lejos, con 10.528 calificaciones reales y función mesa, pared y pie en un solo aparato. El más barato de esta guía.",
+    seoTitle: "Winco W118: el ventilador de pie más vendido de Argentina",
+    metaDescription: "Ventilador Winco W118 3 en 1 (mesa/pared/pie), el más vendido de Argentina: 10.528 opiniones, 4.5 estrellas. Precio real y contras honestas.",
+    verdict: "Sirve si buscás el ventilador con más respaldo de compradores reales de esta guía al precio más bajo: 10.528 calificaciones lo confirman, casi siete veces más que el segundo de la lista. Suma la versatilidad de funcionar como ventilador de mesa, de pared o de pie con el mismo aparato. No es para vos si el silencio o la altura ajustable son prioridad: la propia ficha técnica declara \"no silencioso\" y \"sin altura ajustable\", dos datos que conviene tomar en cuenta antes de comprar.",
+    pros: [
+      "El más vendido de Argentina por lejos: 10.528 calificaciones reales, casi 7 veces más que el segundo de esta guía",
+      "El más barato de esta comparativa",
+      "Función 3 en 1: sirve como ventilador de mesa, de pared o de pie",
+      "Aspas de aluminio (no plástico) en 5 palas",
+      "Función turbo para más caudal de aire",
+    ],
+    cons: [
+      "La propia ficha técnica de MercadoLibre lo declara \"no silencioso\", aunque varias reseñas lo describen como razonablemente callado en velocidades bajas: hay contradicción entre fuentes, no la resolvemos a favor de ninguna",
+      "Sin altura ajustable, a diferencia del Peabody o la Liliana de esta guía",
+      "El armado es una queja recurrente en las reseñas: viene totalmente desarmado y el instructivo es pobre",
+      "Sin control remoto",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Winco W118 es un ventilador 3 en 1 (mesa, pared y pie) de 45,72 cm de diámetro, y por lejos el más vendido de esta guía: acumula 10.528 calificaciones reales, casi siete veces más que el segundo modelo de la comparativa. Es la opción para quien prioriza el precio más bajo y el mayor respaldo de compradores por sobre funciones extra.
+
+## Cómo funciona
+
+Con 110 W de potencia, 5 aspas de aluminio y 3 velocidades, cubre el uso estándar de una habitación. La función turbo suma un salto de caudal cuando hace falta. Es el único de esta guía que también funciona como ventilador de mesa: la Liliana VP20K es 3 en 1 también (pie, turbo y pared), pero sin la opción de mesa.
+
+## La contra real
+
+Hay una contradicción entre fuentes que vale la pena señalar con honestidad: la ficha técnica formal de MercadoLibre declara "Es silencioso: No", pero varias reseñas lo describen de otra forma: "no es ruidoso!!!", dice una con 222 votos útiles. No vamos a resolver esa contradicción a favor de ninguna fuente: si el silencio es tu prioridad number one, tomalo con cautela. Un problema más consistente entre las reseñas es el armado: "vino todo desarmado y las indicaciones de armado son muy pobres", señala una reseña con 78 votos útiles, aunque otro comprador aclara que "en 20 minutos se arma o menos" una vez que le agarrás la mano.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Peabody PE-VP1860N](/producto/MLA41606856) (el mejor calificado), el Winco es más barato pero sin altura ajustable ni el dato de ruido específico que sí declara el Peabody. Frente a la [Liliana VP20K](/producto/MLA41701462) (3 en 1 también, con aspas de metal), ambos tienen función turbo, pero la Liliana suma aspas de metal en vez de aluminio y garantía de fábrica de 2 años. Frente al [Kanji Home KJH-FH2012](/producto/MLA29273448), el Winco no trae control remoto.
+
+## Para quién sí y para quién no
+
+Comprá el Winco W118 si el precio más bajo y el mayor respaldo de compradores reales son tu prioridad, y no te molesta armarlo vos mismo ni te importa demasiado la altura fija. No es para vos si buscás el silencio garantizado por la ficha técnica o altura ajustable: para eso, el [Peabody PE-VP1860N](/producto/MLA41606856) de esta guía es la opción.`,
+    faq: [
+      {
+        question: "¿Es realmente silencioso el Winco W118?",
+        answer: "Hay una contradicción entre fuentes: la ficha técnica formal de MercadoLibre lo declara \"no silencioso\", pero varias reseñas de compradores lo describen como poco ruidoso en velocidades bajas. No se puede confirmar con certeza cuál versión es la correcta.",
+      },
+      {
+        question: "¿Sirve como ventilador de pared o de mesa también?",
+        answer: "Sí, y es el único de esta guía con opción de mesa: se puede montar como ventilador de mesa, de pared o de pie con el mismo aparato. La Liliana VP20K también es 3 en 1, pero su combinación es pie, turbo y pared, sin mesa.",
+      },
+      {
+        question: "¿Es difícil de armar?",
+        answer: "Varias reseñas coinciden en que viene totalmente desarmado y el instructivo es pobre, aunque otros compradores lo arman en 20 minutos o menos una vez que le agarran la mano.",
+      },
+      {
+        question: "¿Por qué tiene tantas más calificaciones que el resto de esta guía?",
+        answer: "Es, por lejos, el ventilador de pie más vendido de Argentina en esta categoría: 10.528 calificaciones reales, casi 7 veces más que el segundo modelo más calificado de esta comparativa.",
+      },
+      {
+        question: "¿Tiene altura ajustable?",
+        answer: "No, según su ficha técnica. Si necesitás esa función, el [Peabody PE-VP1860N](/producto/MLA41606856) o la [Liliana VP20K](/producto/MLA41701462) de esta guía sí la ofrecen.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ventilador Winco 3 en 1 W118",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_2X_708809-MLA101398668422_122025-F.webp"],
+      description: "Ventilador Winco W118 3 en 1 (mesa/pared/pie), 45,72 cm, 110W, el más vendido de Argentina en su categoría.",
+      brand: { "@type": "Brand", name: "Winco" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ventilador-winco-3-en-1-de-mesade-paredde-pie-w118-4572-cm-50-hz-gris-celeste-aluminio-5/p/MLA19884110",
+        priceCurrency: "ARS",
+        price: "58037",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "10528",
+      },
+    },
+  },
+  {
+    id: "MLA29273448",
+    title: "Ventilador de Pie Kanji Home 20\" con Control Remoto y 3 Velocidades",
+    canonicalName: "Ventilador de Pie Kanji Home KJH-FH2012",
+    price: 89022,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_665917-MLA113676567139_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_665917-MLA113676567139_062026-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades/p/MLA29273448",
+    affiliateUrl: "https://meli.la/21YbCwr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 372,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Kanji" },
+      { label: "Línea", value: "Kanji Home" },
+      { label: "Modelo", value: "KJH-FH2012" },
+      { label: "Diámetro", value: "50,8 cm (20\")" },
+      { label: "Altura", value: "1,6 m" },
+      { label: "Peso", value: "6 kg" },
+      { label: "Potencia", value: "95 W" },
+      { label: "Aspas", value: "5, de plástico" },
+      { label: "Velocidades", value: "3" },
+      { label: "Control remoto", value: "Sí, incluido" },
+      { label: "Función turbo", value: "No" },
+      { label: "Luz", value: "No" },
+      { label: "Frecuencia", value: "50/60 Hz" },
+      { label: "Timer", value: "Sí (confirmado en fabricante)" },
+      { label: "Garantía", value: "1 año (confirmado en fabricante)" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA41606856", "MLA19884110", "MLA41701462"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ventilador de pie Kanji Home KJH-FH2012 20\": el único de esta guía con control remoto incluido a precio medio, con timer y garantía de 1 año confirmados en la página oficial de Kanji.",
+    seoTitle: "Kanji Home KJH-FH2012: ventilador de pie con control remoto",
+    metaDescription: "Ventilador de pie Kanji Home 20\" con control remoto y timer, confirmado en fabricante. 372 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás control remoto a un precio medio: es el único de esta guía que lo incluye. La página oficial de Kanji confirma además timer y 1 año de garantía, datos que no figuran en la ficha de MercadoLibre. La contra real: la base es de fundición y puede rayar pisos delicados según una reseña, y viene totalmente desarmado con instructivo flojo, igual que el resto de la categoría. No es para vos si el volumen de reseñas es tu prioridad: 372 opiniones es la base más chica de esta guía.",
+    pros: [
+      "El único de esta guía con control remoto incluido a precio medio",
+      "Timer y garantía de 1 año confirmados en la página oficial de Kanji (kanji.com.ar), no visibles en la ficha de MercadoLibre",
+      "Diámetro de 50,8 cm (20\"), el más grande de esta guía junto a la Liliana",
+      "372 calificaciones con buen rating (4.5)",
+    ],
+    cons: [
+      "La base es de fundición y puede rayar pisos delicados, según una reseña que tuvo que agregarle una base de goma",
+      "Viene totalmente desarmado y el instructivo es poco claro, según más de una reseña",
+      "El color plateado del plástico se ve \"de película de bajo presupuesto\", según una reseña textual",
+      "Sin función turbo",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Kanji Home KJH-FH2012 es un ventilador de pie de 20 pulgadas (50,8 cm) con control remoto incluido, el único de esta guía con esa función a precio medio. Es la opción para quien quiere manejar el ventilador sin levantarse sin pagar el salto de precio de un modelo premium.
+
+## Cómo funciona
+
+Con 95 W de potencia, 5 aspas de plástico y 3 velocidades, el control remoto maneja encendido y velocidad a distancia. La página oficial de Kanji (kanji.com.ar) confirma dos datos que la ficha de MercadoLibre no menciona: timer y garantía de 1 año.
+
+## La contra real
+
+El problema más específico y verificable de este modelo es la base: "el pie es de fundición, yo le hice una base de goma para que no raspe el piso de mi casa", señala una reseña con 3 votos útiles. Otro comprador suma que "viene en una caja completamente desarmado, la hoja de instrucciones debería ser más clara". Un tercer comentario, más estético que funcional, describe el color plateado del plástico como que "parece de una película de bajo presupuesto".
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Peabody PE-VP1860N](/producto/MLA41606856) (mejor rating), el Kanji suma control remoto pero pierde en volumen de reseñas (372 contra 1.602). Frente al [Winco W118](/producto/MLA19884110) (el más vendido), el Kanji es más caro pero incluye control remoto, algo que el Winco no ofrece. Frente a la [Liliana VP20K](/producto/MLA41701462), ambos tienen diámetro similar (20"), pero la Liliana suma formato 3 en 1 y aspas de metal.
+
+## Para quién sí y para quién no
+
+Comprá el Kanji Home KJH-FH2012 si el control remoto es una función que valorás y no te importa pagar un poco más que el Winco. No es para vos si tenés pisos delicados sin protección (la base de fundición puede rayarlos) o si el volumen de reseñas te da más confianza: para eso, el [Winco W118](/producto/MLA19884110) o la [Liliana VP20K](/producto/MLA41701462) de esta guía tienen bases mucho más grandes.`,
+    faq: [
+      {
+        question: "¿Trae control remoto?",
+        answer: "Sí, incluido. Es el único ventilador de pie de esta guía que lo ofrece a precio medio.",
+      },
+      {
+        question: "¿Tiene timer?",
+        answer: "Sí, según la página oficial de Kanji (kanji.com.ar), aunque este dato no figura en la ficha técnica de MercadoLibre.",
+      },
+      {
+        question: "¿Puede rayar el piso?",
+        answer: "Es un riesgo real según una reseña: la base es de fundición metálica. Un comprador recomienda agregar una base de goma si el piso es delicado.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "1 año, confirmado en la página oficial de Kanji, un dato que no aparece en la ficha de MercadoLibre.",
+      },
+      {
+        question: "¿Viene armado?",
+        answer: "No, viene totalmente desarmado. Más de una reseña señala que el instructivo incluido es poco claro.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ventilador de Pie Kanji Home KJH-FH2012",
+      image: ["https://http2.mlstatic.com/D_Q_NP_665917-MLA113676567139_062026-F.webp"],
+      description: "Ventilador de pie Kanji Home KJH-FH2012 20\", con control remoto, timer y 1 año de garantía.",
+      brand: { "@type": "Brand", name: "Kanji" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ventilador-de-pie-kanji-home-20-con-control-remoto-y-3-velocidades/p/MLA29273448",
+        priceCurrency: "ARS",
+        price: "89022",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "372",
+      },
+    },
+  },
+  {
+    id: "MLA41701462",
+    title: "Ventilador Liliana Vp20k 3 En 1 De Pie / Turbo / Pared 20 3 Aspas Metálicas",
+    canonicalName: "Ventilador Liliana VP20K 3 en 1 (pie/turbo/pared)",
+    price: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_732691-MLA100068608409_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_732691-MLA100068608409_122025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ventilador-liliana-vp20k-3-en-1-de-pie-turbo-pared-20-3-aspas-metalicas/p/MLA41701462",
+    affiliateUrl: "https://meli.la/2WpWhbB",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 4259,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Liliana" },
+      { label: "Modelo", value: "VP20K (SKU comercial VVP20K)" },
+      { label: "Diámetro", value: "50,8 cm (20\")" },
+      { label: "Altura", value: "1,7 m" },
+      { label: "Potencia", value: "90 W" },
+      { label: "Aspas", value: "3, de metal (gris)" },
+      { label: "Estructura", value: "Negra" },
+      { label: "Velocidades", value: "3" },
+      { label: "Formato", value: "3 en 1: pie, turbo y pared" },
+      { label: "Oscilación", value: "Sí" },
+      { label: "Altura ajustable", value: "Sí" },
+      { label: "Inclinación", value: "Sí" },
+      { label: "Control remoto", value: "No" },
+      { label: "Garantía", value: "2 años de fábrica (confirmado en liliana.com.ar)" },
+      { label: "Frecuencia", value: "50/60 Hz" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA41606856", "MLA19884110", "MLA29273448"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ventilador Liliana VP20K 3 en 1 (pie/turbo/pared): el único de esta guía con aspas de metal en vez de plástico, formato turbo incluido y 2 años de garantía de fábrica confirmados en el sitio oficial de Liliana.",
+    seoTitle: "Liliana VP20K: ventilador 3 en 1 con aspas de metal",
+    metaDescription: "Ventilador Liliana VP20K 3 en 1 (pie/turbo/pared), aspas de metal, 2 años de garantía. 4.259 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás el único ventilador de esta guía con aspas de metal en vez de plástico, formato turbo real y la garantía de fábrica más larga (2 años, confirmada en liliana.com.ar). Tiene 4.259 calificaciones, la segunda base más grande de esta comparativa. La contra real: la perilla para regular la velocidad está ubicada en el cabezal, una posición incómoda según más de una reseña. No es para vos si buscás el precio más bajo: es el más caro de esta guía junto al Kanji.",
+    pros: [
+      "Único de esta guía con aspas de metal en vez de plástico",
+      "Formato 3 en 1 real: pie, turbo y pared",
+      "2 años de garantía de fábrica, confirmados en liliana.com.ar (el precio oficial coincide exacto con el de MercadoLibre)",
+      "4.259 calificaciones, la segunda base más grande de esta guía",
+      "Altura ajustable e inclinación",
+    ],
+    cons: [
+      "La perilla para regular la velocidad está en el cabezal, una posición incómoda según más de una reseña",
+      "Es el más caro de esta guía junto al Kanji Home",
+      "Sin control remoto",
+      "La carcasa es plástica (solo las aspas son de metal), según una reseña textual",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Liliana VP20K es un ventilador 3 en 1 (pie, turbo y pared) de 20 pulgadas, el único de esta guía con aspas de metal en lugar de plástico. Es la opción para quien busca la garantía de fábrica más larga de la comparativa y no le importa pagar un poco más por aspas metálicas y formato turbo.
+
+## Cómo funciona
+
+Con 90 W de potencia, 3 aspas metálicas y 3 velocidades, suma el modo turbo característico de la línea. El precio coincide exacto entre la ficha de MercadoLibre y la página oficial de Liliana ($99.999 en ambas), lo que confirma que no hay sobreprecio en la publicación. La garantía de 2 años de fábrica, confirmada en liliana.com.ar, es la más larga de esta guía.
+
+## La contra real
+
+El detalle más repetido en las reseñas no es sobre potencia ni armado, sino sobre ergonomía: "es bastante incómoda la perilla para regular la velocidad, está puesta en el cabezal", señala una reseña con 23 votos útiles, que además aclara que "la carcaza es plástica, las paletas metálicas" (o sea, no todo el cuerpo es de metal, solo las aspas).
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Peabody PE-VP1860N](/producto/MLA41606856) (mejor rating), la Liliana suma formato turbo y aspas de metal, pero cuesta más y tiene rating levemente menor (4.6 contra 4.8). Frente al [Winco W118](/producto/MLA19884110) (también 3 en 1), la Liliana tiene aspas de metal en vez de aluminio y garantía de fábrica más larga (2 años contra sin dato confirmado). Frente al [Kanji Home KJH-FH2012](/producto/MLA29273448), la Liliana no trae control remoto pero suma el formato turbo.
+
+## Para quién sí y para quién no
+
+Comprá la Liliana VP20K si valorás aspas de metal, formato turbo real y la garantía de fábrica más larga de esta guía. No es para vos si el precio más bajo es tu prioridad (es de los más caros de la comparativa) o si te molesta una perilla de velocidad en el cabezal: para eso, el [Peabody PE-VP1860N](/producto/MLA41606856) de esta guía tiene mejor ergonomía en ese punto.`,
+    faq: [
+      {
+        question: "¿Las aspas son realmente de metal?",
+        answer: "Sí, confirmado en la ficha técnica de MercadoLibre: 3 aspas de metal en color gris. La carcasa del cuerpo sí es de plástico, según una reseña.",
+      },
+      {
+        question: "¿Sirve como ventilador de pared también?",
+        answer: "Sí, es su diferencial junto con el modo turbo: formato 3 en 1 (pie, turbo y pared) con el mismo aparato.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "2 años de fábrica, confirmados en la página oficial de Liliana (liliana.com.ar), la garantía más larga de esta guía.",
+      },
+      {
+        question: "¿Dónde está la perilla de velocidad?",
+        answer: "En el cabezal del ventilador. Más de una reseña la describe como una posición incómoda para regular la velocidad.",
+      },
+      {
+        question: "¿Tiene altura ajustable?",
+        answer: "Sí, junto con inclinación, igual que el [Peabody PE-VP1860N](/producto/MLA41606856) de esta guía.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ventilador Liliana VP20K 3 en 1",
+      image: ["https://http2.mlstatic.com/D_Q_NP_732691-MLA100068608409_122025-F.webp"],
+      description: "Ventilador Liliana VP20K 3 en 1 (pie/turbo/pared), 20 pulgadas, aspas de metal, 2 años de garantía de fábrica.",
+      brand: { "@type": "Brand", name: "Liliana" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ventilador-liliana-vp20k-3-en-1-de-pie-turbo-pared-20-3-aspas-metalicas/p/MLA41701462",
+        priceCurrency: "ARS",
+        price: "99999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "4259",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva procesadora-de-alimentos — silo cocina, categoria "procesadoras"
+  // Origen: research de tendencias/keywords 2026-07-19, keyword
+  // "procesadora de alimentos" (4.400/mes, Keyword Planner).
+  // Fuente de sourcing: Bright Data (scrape_as_markdown) sobre
+  // MercadoLibre Argentina + fabricantes (Ultracomb), 2026-07-19.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA15244160",
+    title: "Multiprocesadora Ultracomb 600w Pc-6800 Negro Bold de Vidrio Capacidad 1,2Lts",
+    canonicalName: "Multiprocesadora Ultracomb PC-6800 600W",
+    price: 42400,
+    originalPrice: 80750,
+    currency: "ARS",
+    image: "https://acdn-us.mitiendanube.com/stores/005/618/241/products/1-8ef2095860fb9b33cd17806930357601-1024-1024.webp",
+    images: [
+      "https://acdn-us.mitiendanube.com/stores/005/618/241/products/1-8ef2095860fb9b33cd17806930357601-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/005/618/241/products/pc-6800-1024-94d1b1297bd9609f5a17395393444805-1024-1024.webp",
+      "https://acdn-us.mitiendanube.com/stores/005/618/241/products/pc-6800-detalle-01-7a3ab8642ed3980b5517394665297512-1024-1024.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160",
+    affiliateUrl: "https://meli.la/1jgoCig",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 8372,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Ultracomb" },
+      { label: "Modelo", value: "PC-6800" },
+      { label: "Potencia", value: "600 W" },
+      { label: "Capacidad del vaso", value: "1,2 L (vidrio)" },
+      { label: "Velocidades", value: "1, con función pulsar" },
+      { label: "Funciones", value: "Picar, rebanar" },
+      { label: "Material de las cuchillas", value: "Acero inoxidable" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Con traba de seguridad", value: "Sí" },
+      { label: "Con base antideslizante", value: "Sí" },
+      { label: "Boca ancha", value: "Sí" },
+      { label: "Apto para lavavajillas", value: "No" },
+      { label: "Con control touch", value: "No" },
+      { label: "Peso", value: "1,9 kg" },
+      { label: "Altura", value: "25 cm" },
+      { label: "Garantía", value: "6 meses de fábrica" },
+    ],
+    relatedProducts: ["MLA50521728", "MLA39861464"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Multiprocesadora Ultracomb PC-6800: la más vendida y con más calificaciones de esta guía (8.372). Vaso de vidrio de 1,2 litros, aunque el manual recomienda no cargar más de 200 gramos por vez.",
+    seoTitle: "Ultracomb PC-6800: la procesadora más vendida de Argentina",
+    metaDescription: "Multiprocesadora Ultracomb PC-6800 600W, la más vendida de Argentina: 8.372 opiniones reales. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás la procesadora con más respaldo de compradores reales y el precio más bajo de esta guía: 8.372 calificaciones lo confirman. La contra real y más repetida en las reseñas no es la potencia ni el filo: es que el vaso de 1,2 litros es la capacidad nominal, pero el propio manual recomienda no cargar más de 200 gramos por vez, algo que ningún vendedor aclara en la publicación. Sirve mejor para porciones chicas (2-3 personas) que para cocinar en cantidad. No es para vos si buscás rallar o emulsionar: solo pica y rebana, sin los discos que sí traen el Philips o el Atma de esta guía.",
+    pros: [
+      "La más vendida y con más calificaciones de esta guía: 8.372 opiniones reales",
+      "El precio más bajo de esta comparativa",
+      "Cuchillas de acero inoxidable, bowl de vidrio grueso (no parece frágil, según una reseña)",
+      "Switch de seguridad: no arranca si el bol no está bien encajado, confirmado también por el fabricante (ultracomb.com.ar)",
+      "Boca ancha para cargar ingredientes",
+    ],
+    cons: [
+      "El manual recomienda no cargar más de 200 gramos por vez, pese a que la capacidad nominal declarada es 1,2 litros: \"eso no te lo aclara nadie hasta que lees las instrucciones\", dice una reseña con 191 votos útiles",
+      "Solo pica y rebana: no tiene discos para rallar ni función de emulsionar como el Philips o el Atma de esta guía",
+      "Una sola velocidad, sin regulación fina del picado",
+      "La tapa no siempre encastra bien y a veces hay que abrir, mezclar y volver a encender, según más de una reseña",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Ultracomb PC-6800 es una multiprocesadora compacta de 600 W con vaso de vidrio de 1,2 litros, la más vendida y con más calificaciones de esta guía por lejos: 8.372 opiniones reales. Es la opción para quien necesita picar y rebanar porciones chicas al mejor precio, sin buscar las funciones de rallado o emulsión de un equipo más completo.
+
+## Cómo funciona
+
+Con cuchillas de acero inoxidable y un switch de seguridad que impide que arranque si el bol no está bien colocado (confirmado también en la página oficial de Ultracomb), pica cebolla, tomate o calabaza en segundos según varias reseñas. También sirve para hacer manteca de maní, aunque con paciencia.
+
+## La contra real
+
+El dato más repetido y menos obvio de toda la categoría: aunque la capacidad declarada es de 1,2 litros, el manual indica no cargar más de 200 gramos de producto por vez, sea sólido o líquido. Tres reseñas independientes confirman el mismo problema con palabras distintas: "una cebolla grande supera esa capacidad", "no podes llenarlo porque se traba la cuchilla", y "eso no te lo aclara nadie hasta que lees las instrucciones". No es que la procesadora sea mala; es que la capacidad de uso real es bastante menor a la nominal.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Philips PHHR730490](/producto/MLA50521728) (premium, con discos de rallar y rebanar), la Ultracomb es mucho más barata pero solo pica y rebana, sin los accesorios de rallado. Frente al [Atma LP8426AP](/producto/MLA39861464) (9 en 1 con jarra licuadora), la Ultracomb es una fracción del precio pero también una fracción de las funciones.
+
+## Para quién sí y para quién no
+
+Comprá la Ultracomb PC-6800 si necesitás picar y rebanar porciones chicas (2-3 personas) al mejor precio de esta guía. No es para vos si necesitás rallar, emulsionar o procesar cantidades grandes de una sola vez: para eso, el [Philips PHHR730490](/producto/MLA50521728) o el [Atma LP8426AP](/producto/MLA39861464) de esta guía rinden mejor.`,
+    faq: [
+      {
+        question: "¿Realmente entra 1,2 litros en el vaso?",
+        answer: "El vaso físicamente tiene esa capacidad, pero el manual recomienda no cargar más de 200 gramos por vez para no trabar la cuchilla. Varias reseñas confirman el mismo límite práctico.",
+      },
+      {
+        question: "¿Ralla también?",
+        answer: "No. Solo pica y rebana. Si necesitás rallar, el [Philips PHHR730490](/producto/MLA50521728) o el [Atma LP8426AP](/producto/MLA39861464) de esta guía sí incluyen ese disco.",
+      },
+      {
+        question: "¿Por qué es tan barata comparada con las otras de esta guía?",
+        answer: "Tiene menos funciones (solo picar y rebanar, sin discos de rallado ni jarra licuadora) y una sola velocidad. A cambio, tiene el mayor volumen de reseñas de toda la categoría.",
+      },
+      {
+        question: "¿Es apta para lavavajillas?",
+        answer: "No, según su ficha técnica. Se lava a mano.",
+      },
+      {
+        question: "¿Qué garantía tiene?",
+        answer: "6 meses de fábrica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Multiprocesadora Ultracomb PC-6800",
+      image: ["https://acdn-us.mitiendanube.com/stores/005/618/241/products/1-8ef2095860fb9b33cd17806930357601-1024-1024.webp"],
+      description: "Multiprocesadora Ultracomb PC-6800 600W, vaso de vidrio de 1,2 litros, la más vendida de Argentina en su categoría.",
+      brand: { "@type": "Brand", name: "Ultracomb" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/multiprocesadora-ultracomb-600w-pc-6800-negro-bold-de-vidrio-capacidad-12lts/p/MLA15244160",
+        priceCurrency: "ARS",
+        price: "42400",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "8372",
+      },
+    },
+  },
+  {
+    id: "MLA50521728",
+    title: "Procesadora De Alimentos Philips PHHR730490 1000w 1.5l Negro",
+    canonicalName: "Procesadora de Alimentos Philips PHHR730490",
+    price: 237999,
+    originalPrice: 279999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_844249-MLA91921048795_092025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_844249-MLA91921048795_092025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_929666-MLA99962373697_112025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/procesadora-de-alimentos-philips-phhr730490-1000w-15l-negro/p/MLA50521728",
+    affiliateUrl: "https://meli.la/1QawaAZ",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 755,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Philips" },
+      { label: "Línea", value: "Daily Collection" },
+      { label: "Modelo", value: "PHHR730490" },
+      { label: "Potencia", value: "1.000 W" },
+      { label: "Capacidad del vaso procesador", value: "1,2 L" },
+      { label: "Capacidad del vaso licuador", value: "1,5 L" },
+      { label: "Velocidades", value: "2, con función pulsar" },
+      { label: "Velocidad máxima", value: "15.000 rpm" },
+      { label: "Funciones", value: "Picar, rallar, rebanar, emulsionar, procesar" },
+      { label: "Accesorios incluidos", value: "Jarra licuadora, disco rallador/rebanador, disco juliana, molinillo, exprimidor, rebozador, cuchilla" },
+      { label: "Apto para lavavajillas", value: "Sí" },
+      { label: "Libre de BPA", value: "Sí" },
+      { label: "Con traba de seguridad", value: "Sí" },
+      { label: "Peso", value: "3 kg" },
+    ],
+    relatedProducts: ["MLA15244160", "MLA39861464"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Procesadora de alimentos Philips PHHR730490: la mejor calificada de esta guía (4.8 estrellas en 755 opiniones), con 7 accesorios incluidos y de las pocas que ralla de verdad, según reseñas reales.",
+    seoTitle: "Philips PHHR730490: la procesadora mejor calificada",
+    metaDescription: "Procesadora de alimentos Philips PHHR730490 1000W, 7 accesorios incluidos. 755 opiniones reales, 4.8 estrellas. Precio actualizado.",
+    verdict: "Sirve si buscás la procesadora mejor calificada de esta guía, con el set más completo de accesorios (7 en total, incluida jarra licuadora) y de las pocas que ralla de verdad: \"no sé consiguen muchos modelos de procesadoras que rallen, la mayoría hace mini bastones\", dice una reseña. La contra real: el vaso de la licuadora y el bowl procesador son frágiles si se golpean, según más de una reseña (\"se rajan\" si se los trata mal). No es para vos si buscás el precio más bajo: es bastante más cara que la Ultracomb de esta guía.",
+    pros: [
+      "La mejor calificada de esta guía: 4.8 estrellas en 755 opiniones reales",
+      "7 accesorios incluidos: jarra licuadora, disco rallador/rebanador, disco juliana, molinillo, exprimidor, rebozador y cuchilla",
+      "De las pocas procesadoras que ralla de verdad (no solo pica en trozos), según una reseña que la comparó con otros modelos",
+      "1.000 W, la más potente de esta guía",
+      "Apta para lavavajillas, a diferencia de la Ultracomb de esta guía",
+    ],
+    cons: [
+      "El vaso de la licuadora y el bowl procesador son frágiles: \"no se te ocurra mirarlos feo porque se rajan\", advierte una reseña con 20 votos útiles",
+      "Bastante más cara que la Ultracomb de esta guía",
+      "Las cuchillas están muy afiladas y requieren cuidado especial al lavar, según una reseña",
+      "No se encontró página oficial de Philips Argentina con ficha específica de este modelo para cruzar specs adicionales",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Philips PHHR730490 es una procesadora de alimentos de 1.000 W de la línea Daily Collection, la mejor calificada de esta guía: 4.8 estrellas sobre 755 opiniones reales. Es la opción para quien busca el set más completo de accesorios y quiere rallar de verdad, no solo picar en trozos grandes.
+
+## Cómo funciona
+
+Con 7 accesorios incluidos (jarra licuadora de 1,5 litros, disco rallador/rebanador, disco para juliana, molinillo de granos, exprimidor, rebozador y cuchilla PowerChop), cubre bastante más funciones que el resto de esta guía. Una reseña la destaca específicamente por el rallado: "la compré sobretodo para rallar zanahoria y cumple, que no es poco, no se consiguen muchos modelos de procesadoras que rallen, la mayoría hace mini bastones".
+
+## La contra real
+
+El punto más específico y repetido en las reseñas no es la potencia ni el precio: es la fragilidad de las partes plásticas y de vidrio. "Al vaso de la licuadora y al recipiente para procesar tienes que tratarlos con mucho cariño, no se te ocurra mirarlos feo porque se rajan. Por el precio uno espera algo más duradero", señala la reseña más útil (20 votos). Otra reseña suma una advertencia práctica: "ojo con las cuchillas, porque están muy afiladas".
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Ultracomb PC-6800](/producto/MLA15244160) (la más barata), la Philips cuesta bastante más pero suma rallado, emulsión y jarra licuadora, funciones que la Ultracomb no tiene. Frente al [Atma LP8426AP](/producto/MLA39861464) (9 en 1), la Philips es más barata y con mejor rating, aunque el Atma suma más funciones declaradas.
+
+## Para quién sí y para quién no
+
+Comprá la Philips PHHR730490 si el rallado real y el set completo de accesorios son tu prioridad, y no te importa pagar más que por la Ultracomb. No es para vos si el presupuesto es lo primero: para eso, la [Ultracomb PC-6800](/producto/MLA15244160) de esta guía cubre lo esencial a una fracción del precio.`,
+    faq: [
+      {
+        question: "¿Ralla de verdad o solo pica?",
+        answer: "Ralla de verdad, según reseñas reales: \"no se consiguen muchos modelos de procesadoras que rallen, la mayoría hace mini bastones\". Es uno de sus diferenciales frente a la Ultracomb de esta guía.",
+      },
+      {
+        question: "¿Trae jarra licuadora?",
+        answer: "Sí, de 1,5 litros, parte del set de 7 accesorios incluidos.",
+      },
+      {
+        question: "¿Es resistente?",
+        answer: "Con matices: el motor y las cuchillas son robustos, pero más de una reseña advierte que el vaso de la licuadora y el bowl procesador son frágiles si se golpean o se manipulan mal.",
+      },
+      {
+        question: "¿Es apta para lavavajillas?",
+        answer: "Sí, según su ficha técnica, a diferencia de la Ultracomb PC-6800 de esta guía.",
+      },
+      {
+        question: "¿Por qué es tan cara comparada con la Ultracomb?",
+        answer: "Tiene bastante más potencia (1.000W contra 600W), más funciones (rallado, emulsión, jarra licuadora) y mejor rating. La Ultracomb cubre solo picar y rebanar.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Procesadora de Alimentos Philips PHHR730490",
+      image: ["https://http2.mlstatic.com/D_Q_NP_844249-MLA91921048795_092025-F.webp"],
+      description: "Procesadora de alimentos Philips PHHR730490 1000W, 7 accesorios incluidos, 4.8 estrellas.",
+      brand: { "@type": "Brand", name: "Philips" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/procesadora-de-alimentos-philips-phhr730490-1000w-15l-negro/p/MLA50521728",
+        priceCurrency: "ARS",
+        price: "237999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "755",
+      },
+    },
+  },
+  {
+    id: "MLA39861464",
+    title: "Multiprocesadora Atma 9 en 1 con jarra licuadora, picadora LP8426AP 600w Negra",
+    canonicalName: "Multiprocesadora Atma LP8426AP 9 en 1",
+    price: 309999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_773066-MLA99560250862_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_773066-MLA99560250862_122025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_880585-MLU78469231746_082024-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/multiprocesadora-atma-9-en-1-con-jarra-licuadora-picadora-lp8426ap-600w-negra/p/MLA39861464",
+    affiliateUrl: "https://meli.la/2QuaUGa",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1096,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Atma" },
+      { label: "Modelo", value: "LP8426AP" },
+      { label: "Potencia", value: "600 W" },
+      { label: "Capacidad del vaso procesador", value: "1,2 L" },
+      { label: "Capacidad del vaso licuador", value: "1,8 L" },
+      { label: "Velocidades", value: "2, con función pulsar" },
+      { label: "Funciones", value: "Picar, emulsionar, rallar, amasar, rebanar, exprimir, licuar, moler" },
+      { label: "Accesorios incluidos", value: "Picador, emulsionador, disco rallador/rebanador, jarra licuadora" },
+      { label: "Material de las cuchillas", value: "Metal" },
+      { label: "Material del cuerpo", value: "Plástico" },
+      { label: "Apto para lavavajillas", value: "No" },
+      { label: "Con traba de seguridad", value: "Sí" },
+      { label: "Con base antideslizante", value: "Sí" },
+      { label: "Libre de BPA", value: "Sí" },
+    ],
+    relatedProducts: ["MLA15244160", "MLA50521728"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Multiprocesadora Atma LP8426AP: la más completa de esta guía, con jarra licuadora de 1,8 litros sumada al vaso procesador. 4.7 estrellas en 1.096 calificaciones reales.",
+    seoTitle: "Atma LP8426AP: la procesadora más completa, con licuadora",
+    metaDescription: "Multiprocesadora Atma LP8426AP 9 en 1, con jarra licuadora de 1,8L. 1.096 opiniones reales, 4.7 estrellas. Precio actualizado.",
+    verdict: "Sirve si buscás la opción más completa de esta guía: suma jarra licuadora de 1,8 litros al vaso procesador, además de picar, rallar, amasar, exprimir y moler. Es la más cara de la comparativa, en parte porque compite con equipos más grandes que solo procesan. La contra real: cuesta encajar la tapa y los accesorios en el punto exacto al principio, según una reseña, aunque se le agarra la práctica rápido. No es para vos si buscás algo compacto y barato: para eso, la [Ultracomb PC-6800](/producto/MLA15244160) de esta guía cumple lo esencial a una fracción del precio.",
+    pros: [
+      "La más completa de esta guía: suma jarra licuadora de 1,8 litros al vaso procesador",
+      "8 funciones declaradas: picar, emulsionar, rallar, amasar, rebanar, exprimir, licuar y moler",
+      "1.096 calificaciones reales con buen rating (4.7)",
+      "Diseño compacto para guardar pese a la cantidad de funciones, según una reseña",
+      "Traba de seguridad y base antideslizante",
+    ],
+    cons: [
+      "Cuesta encajar la tapa o los accesorios en el punto exacto al principio, según una reseña (\"se va ganando práctica y no se torna un estorbo\")",
+      "La más cara de esta guía",
+      "No apta para lavavajillas",
+      "No se encontró ninguna reseña negativa/crítica de 1 a 3 estrellas en el scrape disponible: las 5 reseñas con texto encontradas son todas de 5 estrellas, así que esta ficha se apoya en una muestra sesgada hacia lo positivo",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Atma LP8426AP es una multiprocesadora de 600 W que suma una jarra licuadora de 1,8 litros al vaso procesador de 1,2 litros, la opción más completa de esta guía. Es para quien busca un solo aparato que reemplace tanto a la procesadora como a la licuadora, sin sumar un robot de cocina completo.
+
+## Cómo funciona
+
+Con 8 funciones declaradas (picar, emulsionar, rallar, amasar, rebanar, exprimir, licuar y moler), cubre bastante más terreno que el resto de esta guía. Una reseña la resume así: "el diseño compacto facilita su guardado para quienes, como yo, no queremos la mesada plagada de electrodomésticos. Buena capacidad, buena potencia".
+
+## La contra real
+
+El punto que más se repite, aunque de forma menor, es el ensamblado: "por momentos cuesta encajar tapa o accesorios en el punto exacto. Pero al usarla se va ganando práctica y no se torna un estorbo", señala una reseña de 5 estrellas con 8 votos útiles. Otra reseña suma un detalle de packaging (no de producto): llegó "sin ninguna cinta o algo que asegure" la caja, aunque de todas formas llegó completa y funcionando.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Ultracomb PC-6800](/producto/MLA15244160) (la más barata), la Atma suma jarra licuadora y varias funciones más, a un precio bastante mayor. Frente a la [Philips PHHR730490](/producto/MLA50521728) (mejor calificada), la Atma tiene más funciones declaradas pero un rating levemente menor (4.7 contra 4.8) y es más cara.
+
+## Para quién sí y para quién no
+
+Comprá la Atma LP8426AP si querés un solo aparato que haga de procesadora y de licuadora, y no te molesta pagar el precio más alto de esta guía. No es para vos si buscás algo compacto y barato para tareas simples: para eso, la [Ultracomb PC-6800](/producto/MLA15244160) de esta guía alcanza.`,
+    faq: [
+      {
+        question: "¿Realmente sirve como licuadora?",
+        answer: "Sí, trae una jarra licuadora de 1,8 litros incluida además del vaso procesador, la más grande de esta guía. La Philips PHHR730490 también incluye jarra licuadora, pero más chica (1,5 litros); la Ultracomb PC-6800 es la única que no trae.",
+      },
+      {
+        question: "¿Por qué se llama '9 en 1'?",
+        answer: "Por la cantidad de funciones y accesorios combinados: picar, emulsionar, rallar, amasar, rebanar, exprimir, licuar, moler y la función pulsar. La ficha técnica de MercadoLibre confirma 8 funciones explícitas de procesamiento.",
+      },
+      {
+        question: "¿Es difícil de armar?",
+        answer: "Según una reseña, al principio cuesta encajar la tapa y los accesorios en el punto exacto, pero se le agarra la práctica rápido y deja de ser un problema.",
+      },
+      {
+        question: "¿Por qué es la más cara de esta guía?",
+        answer: "Porque suma más funciones que el resto, en especial la jarra licuadora de 1,8 litros, que la acerca a un combo procesadora + licuadora en un solo aparato.",
+      },
+      {
+        question: "¿Es apta para lavavajillas?",
+        answer: "No, según su ficha técnica. Se lava a mano, igual que la Ultracomb de esta guía.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Multiprocesadora Atma LP8426AP 9 en 1",
+      image: ["https://http2.mlstatic.com/D_Q_NP_773066-MLA99560250862_122025-F.webp"],
+      description: "Multiprocesadora Atma LP8426AP 600W, con jarra licuadora de 1,8 litros, 9 en 1.",
+      brand: { "@type": "Brand", name: "Atma" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/multiprocesadora-atma-9-en-1-con-jarra-licuadora-picadora-lp8426ap-600w-negra/p/MLA39861464",
+        priceCurrency: "ARS",
+        price: "309999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "1096",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cepillo-de-dientes-electrico — silo cuidado-personal,
+  // categoria "cuidado-personal". Origen: research de tendencias/keywords
+  // 2026-07-19, keyword "cepillo de dientes electrico" (2.900/mes,
+  // Keyword Planner, dificultad SEO más baja del barrido). Fuente de
+  // sourcing: Bright Data (scrape_as_markdown) sobre MercadoLibre
+  // Argentina, 2026-07-19. Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA44745272",
+    title: "Cepillo Dental Eléctrico Oral-b Power Charcoal",
+    canonicalName: "Cepillo Dental Eléctrico Oral-B Power Charcoal",
+    price: 44820,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_890057-MLA83007564911_032025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_890057-MLA83007564911_032025-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_634710-MLA87982267244_072025-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/cepillo-dental-electrico-oral-b-power-charcoal/p/MLA44745272",
+    affiliateUrl: "https://meli.la/1DVhXoL",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3377,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Oral-B" },
+      { label: "Línea", value: "Power Charcoal" },
+      { label: "Color", value: "Negro" },
+      { label: "Alimentación", value: "2 pilas AA (incluidas)" },
+      { label: "Tipo", value: "Sónico, con oscilación de rotación" },
+      { label: "Cabezal", value: "Redondo" },
+      { label: "Modos de cepillado", value: "1" },
+      { label: "Sensor de presión", value: "No" },
+      { label: "Temporizador", value: "Sí" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Resistente al agua", value: "Sí" },
+      { label: "Cabezales incluidos", value: "1" },
+      { label: "Voltaje", value: "220V" },
+    ],
+    relatedProducts: ["MLA19856533", "MLA48897992"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Cepillo dental eléctrico Oral-B Power Charcoal a pilas: la mejor combinación de precio y volumen de reseñas de esta guía, con 3.377 opiniones reales.",
+    seoTitle: "Oral-B Power Charcoal: el cepillo eléctrico más elegido",
+    metaDescription: "Cepillo dental eléctrico Oral-B Power Charcoal a pilas. 3.377 opiniones reales, 4.7 estrellas. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás la mejor combinación de precio, volumen de reseñas y marca reconocida de esta guía: 3.377 calificaciones reales lo confirman. Funciona a 2 pilas AA incluidas, sin necesidad de cargador. La contra real: las pilas que trae de fábrica son de baja calidad y duran poco, según reseñas reales. No es para vos si buscás sensor de presión o varios modos de cepillado: para eso, la Suono Premium de esta guía, que es recargable, los incluye a un precio menor.",
+    pros: [
+      "La mejor combinación de precio, marca reconocida y volumen de reseñas de esta guía: 3.377 opiniones reales",
+      "Funciona a pilas, sin necesidad de cargador ni base",
+      "Con temporizador integrado",
+      "Resistente al agua",
+      "Vendedor con historial: MercadoLíder Platinum, más de 50 mil ventas",
+    ],
+    cons: [
+      "Las pilas incluidas son de baja calidad y duran poco: \"las que vienen incluidas son de baja calidad marca pistola, me duraron menos de una semana\", dice una reseña con 50 votos útiles",
+      "Sin sensor de presión ni varios modos de cepillado, a diferencia de la Suono Premium de esta guía",
+      "Es bastante ruidoso, según más de una reseña",
+      "No se encontró sitio oficial de Oral-B Argentina para cruzar specs adicionales",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Oral-B Power Charcoal es un cepillo dental eléctrico a pilas, la mejor combinación de precio y volumen de reseñas de esta guía: 3.377 opiniones reales. Es la opción para quien busca la marca más reconocida del mercado sin pagar por conectividad o sensores que no va a usar.
+
+## Cómo funciona
+
+Con tecnología sónica y oscilación de rotación, funciona con 2 pilas AA incluidas: no hace falta cargador ni base de carga. Trae temporizador integrado, aunque solo un modo de cepillado.
+
+## La contra real
+
+El punto más repetido en las reseñas no es el motor ni el cepillado: son las pilas que trae de fábrica. "Lo bueno: el cepillo es excelente, tiene buena potencia. Lo no tan bueno: funciona a pilas. Las que vienen incluidas son de baja calidad marca pistola, me duraron menos de una semana (me cepillo 3-4 veces por día)", detalla una reseña con 50 votos útiles. Otro comprador suma que "es bastante ruidoso", aunque igual lo recomienda.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [GUM Sonic Power](/producto/MLA19856533) (otra marca, también a pilas), el Oral-B tiene menos descuento pero más volumen de reseñas de texto citables. Frente a la [Suono Premium USB-C](/producto/MLA48897992) (recargable), el Oral-B es más caro pero de marca más reconocida; a cambio, no tiene sensor de presión ni los 5 modos de cepillado que sí trae la Suono.
+
+## Para quién sí y para quién no
+
+Comprá el Oral-B Power Charcoal si priorizás una marca reconocida con volumen de reseñas real, y no te molesta reemplazar las pilas incluidas pronto. No es para vos si buscás sensor de presión o varios modos de cepillado: para eso, la [Suono Premium USB-C](/producto/MLA48897992) de esta guía los incluye a un precio menor.`,
+    faq: [
+      {
+        question: "¿Funciona a pilas o es recargable?",
+        answer: "Funciona a 2 pilas AA incluidas, no es recargable. Si preferís una versión recargable, la [Suono Premium USB-C](/producto/MLA48897992) de esta guía carga por USB-C.",
+      },
+      {
+        question: "¿Las pilas que trae duran mucho?",
+        answer: "Según reseñas reales, no: las pilas incluidas de fábrica son de baja calidad y pueden durar menos de una semana con uso frecuente. Conviene reemplazarlas por unas de mejor calidad.",
+      },
+      {
+        question: "¿Tiene sensor de presión?",
+        answer: "No. Si necesitás esa función, la [Suono Premium USB-C](/producto/MLA48897992) de esta guía sí la incluye.",
+      },
+      {
+        question: "¿Es ruidoso?",
+        answer: "Según más de una reseña, sí, es notablemente ruidoso comparado con otros cepillos eléctricos, aunque no afecta su funcionamiento.",
+      },
+      {
+        question: "¿Por qué tiene tantas más reseñas que el resto de esta guía?",
+        answer: "Es una de las líneas más vendidas de Oral-B en Argentina, la marca que domina el ranking de más vendidos de esta categoría en MercadoLibre.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cepillo Dental Eléctrico Oral-B Power Charcoal",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_2X_890057-MLA83007564911_032025-F.webp"],
+      description: "Cepillo dental eléctrico Oral-B Power Charcoal a pilas, con temporizador.",
+      brand: { "@type": "Brand", name: "Oral-B" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cepillo-dental-electrico-oral-b-power-charcoal/p/MLA44745272",
+        priceCurrency: "ARS",
+        price: "44820",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "3377",
+      },
+    },
+  },
+  {
+    id: "MLA19856533",
+    title: "Gum Sonic Power Cepillo Electrico Con Pila Tecnología Sónica",
+    canonicalName: "Cepillo Dental Eléctrico GUM Sonic Power",
+    price: 28997,
+    originalPrice: 41865,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_895253-MLA109742650561_032026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_895253-MLA109742650561_032026-O.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/gum-sonic-power-cepillo-electrico-con-pila-tecnologia-sonica/p/MLA19856533",
+    affiliateUrl: "https://meli.la/17YuGAq",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 845,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "GUM" },
+      { label: "Línea", value: "Sonic Power" },
+      { label: "Color", value: "Blanco" },
+      { label: "Tipo", value: "Sónico" },
+      { label: "Cerdas", value: "Suaves" },
+      { label: "Edad recomendada", value: "Desde 5 años" },
+      { label: "Alimentación", value: "A pila (incluida para uso inmediato)" },
+      { label: "Vida útil recomendada", value: "6 meses" },
+      { label: "Mango", value: "Ergonómico" },
+      { label: "Base ventosa", value: "No" },
+    ],
+    relatedProducts: ["MLA44745272", "MLA48897992"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Cepillo dental eléctrico GUM Sonic Power a pilas: la alternativa a Oral-B con más volumen de calificaciones de esta guía (845) y venta por Tienda Oficial en MercadoLibre.",
+    seoTitle: "GUM Sonic Power: cepillo eléctrico de Tienda Oficial",
+    metaDescription: "Cepillo dental eléctrico GUM Sonic Power a pilas, tecnología sónica. 845 calificaciones reales, 4.7 estrellas. Precio actualizado.",
+    verdict: "Sirve si buscás una alternativa a Oral-B con buen volumen de reseñas y venta por Tienda Oficial de MercadoLibre: 845 calificaciones lo respaldan, con 30% de descuento sobre el precio de lista. Aviso de honestidad: no encontramos reseñas de texto disponibles al momento de armar esta ficha (solo el agregado de calificaciones), así que no podemos citar una crítica textual de un comprador real como sí hacemos con el resto de esta guía. No es para vos si preferís elegir en base a comentarios detallados de otros compradores.",
+    pros: [
+      "845 calificaciones reales con buen rating (4.7)",
+      "Vendido por Tienda Oficial en MercadoLibre (PerfuFlex, MercadoLíder Platinum, más de 500 mil ventas)",
+      "30% de descuento sobre el precio de lista",
+      "Incluye pila para uso inmediato, sin esperar carga",
+      "Fabricante (Sunstar GUM) con página propia en Argentina",
+    ],
+    cons: [
+      "No se encontraron reseñas de texto disponibles al momento del research, solo el agregado de calificaciones: no hay una crítica textual real para citar en esta ficha",
+      "Menos modos de cepillado declarados que la Suono Premium de esta guía",
+      "Funciona a pila, no es recargable",
+      "Ficha técnica de MercadoLibre más escueta que la del Oral-B de esta guía (sin dato de sensor de presión ni temporizador confirmado)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El GUM Sonic Power es un cepillo dental eléctrico a pilas de tecnología sónica, la alternativa a Oral-B con más volumen de reseñas de esta guía: 845 calificaciones reales. Es la opción para quien prefiere una marca distinta a Oral-B pero con el mismo respaldo de venta por Tienda Oficial.
+
+## Cómo funciona
+
+Con cerdas suaves y mango ergonómico, viene con una pila incluida lista para usar. La marca (Sunstar GUM) tiene página oficial en Argentina que confirma el modelo, aunque con datos orientados a marketing (hasta 12.000 vibraciones por minuto, según el fabricante).
+
+## Aviso de honestidad
+
+A diferencia del resto de esta guía, no encontramos reseñas de texto disponibles para este producto al momento de armar la ficha: solo el agregado de 845 calificaciones y el rating de 4.7 estrellas, sin comentarios individuales visibles. Preferimos avisarlo explícitamente antes que inventar una cita que no existe.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Oral-B Power Charcoal](/producto/MLA44745272) (más volumen y reseñas de texto citables), el GUM tiene mejor descuento pero menos comentarios disponibles para evaluar antes de comprar. Frente a la [Suono Premium USB-C](/producto/MLA48897992) (recargable, con sensor de presión), el GUM funciona a pila y con menos funciones declaradas.
+
+## Para quién sí y para quién no
+
+Comprá el GUM Sonic Power si preferís una marca distinta a Oral-B con buen respaldo de ventas y descuento real. No es para vos si necesitás leer comentarios detallados de otros compradores antes de decidir: para eso, el [Oral-B Power Charcoal](/producto/MLA44745272) o la [Suono Premium USB-C](/producto/MLA48897992) de esta guía tienen reseñas de texto disponibles.`,
+    faq: [
+      {
+        question: "¿Es mejor que el Oral-B de esta guía?",
+        answer: "Tiene rating similar (4.7) y buen volumen de reseñas (845), pero no encontramos comentarios de texto disponibles para evaluar experiencias específicas de compradores, a diferencia del Oral-B Power Charcoal de esta guía.",
+      },
+      {
+        question: "¿Funciona a pilas?",
+        answer: "Sí, viene con una pila incluida lista para usar. No es recargable.",
+      },
+      {
+        question: "¿Desde qué edad se puede usar?",
+        answer: "El fabricante recomienda desde los 5 años, según su ficha técnica.",
+      },
+      {
+        question: "¿Tiene garantía de marca reconocida?",
+        answer: "Sí, GUM (Sunstar) tiene página oficial en Argentina y el producto se vende por Tienda Oficial en MercadoLibre, con más de 500 mil ventas del vendedor.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cepillo Dental Eléctrico GUM Sonic Power",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_895253-MLA109742650561_032026-O.webp"],
+      description: "Cepillo dental eléctrico GUM Sonic Power a pilas, tecnología sónica.",
+      brand: { "@type": "Brand", name: "GUM" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/gum-sonic-power-cepillo-electrico-con-pila-tecnologia-sonica/p/MLA19856533",
+        priceCurrency: "ARS",
+        price: "28997",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "845",
+      },
+    },
+  },
+  {
+    id: "MLA48897992",
+    title: "Cepillo De Dientes Eléctrico Suono Premium Usb-c Con 5 Modos",
+    canonicalName: "Cepillo de Dientes Eléctrico Suono Premium USB-C",
+    price: 26000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_897787-MLA83942637435_042025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_897787-MLA83942637435_042025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_766735-MLA88011576538_072025-F.webp",
+    ],
+    category: "Cuidado Personal",
+    categorySlug: "belleza",
+    permalink: "https://www.mercadolibre.com.ar/cepillo-de-dientes-electrico-suono-premium-usb-c-con-5-modos/p/MLA48897992",
+    affiliateUrl: "https://meli.la/1A4JYvc",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 66,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Suono" },
+      { label: "Línea", value: "Premium" },
+      { label: "Batería", value: "5.000 mAh, carga por USB-C" },
+      { label: "Tipo", value: "Ultrasónico, por vibración" },
+      { label: "Cabezal", value: "Redondo" },
+      { label: "Modos de cepillado", value: "5" },
+      { label: "Sensor de presión", value: "Sí" },
+      { label: "Temporizador", value: "Sí" },
+      { label: "Movimientos por minuto", value: "39.600, según ficha técnica" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Resistente al agua", value: "Sí" },
+      { label: "Cabezales incluidos", value: "6" },
+      { label: "Estuche", value: "Incluido" },
+    ],
+    relatedProducts: ["MLA44745272", "MLA19856533"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Cepillo de dientes eléctrico Suono Premium USB-C: recargable, con sensor de presión y 5 modos de cepillado, más barato que el Oral-B a pilas de esta guía. 66 opiniones reales, 4.8 estrellas.",
+    seoTitle: "Suono Premium USB-C: recargable con sensor de presión",
+    metaDescription: "Cepillo dental eléctrico Suono Premium USB-C, recargable, sensor de presión, 5 modos. 66 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás la única opción recargable de esta guía con sensor de presión y varios modos de cepillado, a un precio más bajo que el Oral-B a pilas. Trae 6 cabezales de repuesto y estuche incluidos. La contra real: con solo 66 calificaciones, es la base de reseñas más chica de esta guía, y no encontramos ninguna crítica negativa documentable en el research disponible, así que el panorama de contras es más limitado que en el resto de la comparativa. No es para vos si preferís una marca internacional más reconocida: para eso, el Oral-B o la GUM de esta guía tienen más historial de marca.",
+    pros: [
+      "La única recargable de esta guía (batería de 5.000 mAh, carga por USB-C)",
+      "Con sensor de presión, una función que ni el Oral-B ni la GUM de esta guía tienen confirmada",
+      "5 modos de cepillado, el más completo en funciones de esta comparativa",
+      "6 cabezales de repuesto y estuche incluidos",
+      "El más barato de esta guía, pese a ser el más completo en funciones",
+    ],
+    cons: [
+      "Solo 66 calificaciones, la base más chica de esta guía",
+      "No encontramos ninguna crítica negativa documentable en el research disponible: las reseñas encontradas fueron todas positivas, lo que limita el panorama de contras de esta ficha",
+      "Marca sin sitio oficial propio encontrado (normal en marcas más chicas, no invalida el producto)",
+      "Sin conectividad Bluetooth ni app",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Suono Premium USB-C es un cepillo dental eléctrico recargable, la única opción de esta guía con sensor de presión y 5 modos de cepillado, a un precio más bajo que el Oral-B a pilas. Es la opción para quien busca más funciones sin pagar de más ni depender de pilas descartables.
+
+## Cómo funciona
+
+Con batería de 5.000 mAh que se carga por USB-C, 5 modos de cepillado y sensor de presión, trae 6 cabezales de repuesto y estuche incluidos. Según reseñas reales, la batería dura aproximadamente una semana de uso: "la batería tiene una capacidad increíble" y "todavía no lo he cargado desde que llegó, hace semana y media", cuentan dos compradoras distintas.
+
+## Aviso de honestidad
+
+Con 66 calificaciones, esta es la base de reseñas más chica de esta guía. No encontramos ninguna crítica negativa entre las reseñas disponibles al momento del research: todas las que aparecieron fueron positivas. Eso no significa que el producto sea perfecto, sino que el volumen de opiniones todavía es chico para tener un panorama completo de contras reales.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Oral-B Power Charcoal](/producto/MLA44745272) (marca más reconocida, más reseñas), la Suono suma sensor de presión, 5 modos y batería recargable a un precio más bajo. Frente a la [GUM Sonic Power](/producto/MLA19856533), la Suono tiene más funciones declaradas y reseñas de texto disponibles para citar, algo que la GUM no tuvo en este research.
+
+## Para quién sí y para quién no
+
+Comprá el Suono Premium USB-C si priorizás funciones (sensor de presión, varios modos, batería recargable) por sobre el respaldo de una marca internacional grande. No es para vos si preferís elegir en base a un historial de reseñas más grande: para eso, el [Oral-B Power Charcoal](/producto/MLA44745272) de esta guía tiene casi 50 veces más calificaciones.`,
+    faq: [
+      {
+        question: "¿Es recargable o funciona a pilas?",
+        answer: "Es recargable, con batería de 5.000 mAh que se carga por cable USB-C. Es la única opción recargable de esta guía; el Oral-B y la GUM funcionan a pilas.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Según reseñas reales, aproximadamente una semana de uso normal antes de necesitar recarga.",
+      },
+      {
+        question: "¿Tiene sensor de presión?",
+        answer: "Sí, es la única de esta guía que lo incluye, una función que evita cepillar con demasiada fuerza.",
+      },
+      {
+        question: "¿Cuántos cabezales trae?",
+        answer: "6 cabezales de repuesto, además del estuche, todos incluidos en la compra.",
+      },
+      {
+        question: "¿Por qué tiene tan pocas calificaciones comparada con el resto de esta guía?",
+        answer: "Es una marca más chica y probablemente con menos tiempo en el mercado que Oral-B o GUM. El rating (4.8) es alto, pero con una base todavía chica de 66 opiniones.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cepillo de Dientes Eléctrico Suono Premium USB-C",
+      image: ["https://http2.mlstatic.com/D_Q_NP_897787-MLA83942637435_042025-F.webp"],
+      description: "Cepillo dental eléctrico Suono Premium USB-C recargable, sensor de presión, 5 modos.",
+      brand: { "@type": "Brand", name: "Suono" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cepillo-de-dientes-electrico-suono-premium-usb-c-con-5-modos/p/MLA48897992",
+        priceCurrency: "ARS",
+        price: "26000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "66",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva nebulizador — silo salud-bienestar, categoria "nebulizadores"
+  // Origen: research de silos flacos 2026-07-19, keyword "nebulizador"
+  // (22.200/mes, Keyword Planner, pico estacional invierno). Fuente de
+  // sourcing: Bright Data (scrape_as_markdown) sobre MercadoLibre
+  // Argentina, 2026-07-19.
+  // AVISO DE SEGURIDAD: se descartaron 2 modelos "Mesh JSL/JLS-W302"
+  // (los más vendidos del ranking real) por coincidir con un modelo que
+  // ANMAT prohibió en nov-2024 por no tener registro sanitario. Los 4
+  // productos de acá abajo están certificados ANMAT (RPPTM verificable).
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA47884803",
+    title: "Nebulizador Mesh San-Up VitaAir 8ml Silencioso Portátil USB/Pilas (Certificado por la ANMAT)",
+    canonicalName: "Nebulizador Mesh San-Up VitaAir SU-NEM702",
+    price: 66419,
+    originalPrice: 155199,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_781555-MLA88801546380_082025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_781555-MLA88801546380_082025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_607015-MLA85570371070_062025-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/nebulizador-mesh-san-up-vitaair-8ml-silencioso-portatil-usbpilas-certificado-por-la-anmat/p/MLA47884803",
+    affiliateUrl: "https://meli.la/1oKR3qP",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 962,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "San-Up" },
+      { label: "Modelo", value: "SU-NEM702" },
+      { label: "Tipo", value: "Mesh (malla vibratoria)" },
+      { label: "Capacidad de nebulización", value: "8 mL" },
+      { label: "Tasa de nebulización", value: "0,20 mL/min" },
+      { label: "Es silencioso", value: "Sí" },
+      { label: "Alimentación", value: "USB o pila AA" },
+      { label: "Corte automático", value: "No" },
+      { label: "Protección", value: "IPX2 contra salpicaduras (según descripción del vendedor)" },
+      { label: "Accesorios incluidos", value: "Bolsa, boquilla, cable USB, máscara adulto, máscara niño" },
+      { label: "Certificación", value: "ANMAT, RPPTM 2683-8" },
+    ],
+    relatedProducts: ["MLA47884824", "MLA44718278", "MLA68343533"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Nebulizador mesh San-Up VitaAir: silencioso, certificado por ANMAT (RPPTM 2683-8), con 962 opiniones reales. Funciona a USB o pila AA, ideal para no despertar a nadie durante la noche.",
+    seoTitle: "San-Up VitaAir: el nebulizador mesh más silencioso",
+    metaDescription: "Nebulizador mesh San-Up VitaAir, silencioso y certificado ANMAT. 962 opiniones reales, 4.8 estrellas. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás un nebulizador silencioso para usar de noche o con chicos y mascotas sin asustar a nadie, con certificación ANMAT verificable y buen volumen de reseñas reales (962). La contra real: a pilas dura pocos usos (4-5) antes de necesitar conectarlo por USB, según una reseña. No es para vos si preferís no depender de pilas ni cable en absoluto: para eso, el Aspen Air Pro II de esta guía tiene batería recargable integrada.",
+    pros: [
+      "Silencioso, confirmado por múltiples reseñas reales (una lo usa con una gata con enfermedad respiratoria sin asustarla)",
+      "Certificado por ANMAT (RPPTM 2683-8), verificable",
+      "962 calificaciones reales, buen volumen para un nebulizador mesh",
+      "Funciona a USB o pila AA, flexible según dónde lo uses",
+      "Incluye máscara para adulto y para niño",
+    ],
+    cons: [
+      "A pilas dura pocos usos (4-5) antes de necesitar conectarlo por USB, según una reseña con 9 votos útiles",
+      "Sin corte automático",
+      "Tamaño de partícula (MMAD ~5 µm) declarado por el vendedor en la descripción, no en la ficha técnica estructurada — no verificado por tercero",
+      "Protección IPX2 declarada solo en la descripción del vendedor",
+    ],
+    articleBody: `## Qué es y para quién
+
+El San-Up VitaAir SU-NEM702 es un nebulizador mesh (de malla vibratoria) de 8 mL, silencioso y certificado por ANMAT. Es la opción para quien necesita nebulizar de noche, con chicos chicos o con mascotas, sin el ruido característico de un nebulizador de pistón tradicional.
+
+## Cómo funciona
+
+La tecnología mesh nebuliza el medicamento a través de una malla vibratoria, mucho más silenciosa que un compresor de pistón. Varias reseñas confirman esto en la práctica: una compradora lo usó con su gata (con una enfermedad respiratoria) durante 15 minutos sin que se asustara por el ruido. Funciona conectado por USB o a pila AA.
+
+## La contra real
+
+El punto más específico que aparece en las reseñas es la duración de las pilas: "cuando leí que era con carga USB supuse que era como el celular... pero no, es a pilas (que duran 4/5 usos) o conectado por USB. Es lo único no favorable", cuenta una reseña con 9 votos útiles. Fuera de eso, otra reseña con 17 votos útiles señala que las pilas "van a durar bastante" en su uso de dos veces al día.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [San-Up ClearBreath](/producto/MLA47884824) (pistón, mismo precio), el VitaAir gana en silencio pero pierde en accesorios incluidos (el ClearBreath trae más). Frente al [Omron NE-C801LA](/producto/MLA44718278) (pistón, marca reconocida), el VitaAir es más barato y portátil. Frente al [Aspen Mesh Air Pro II](/producto/MLA68343533), ambos son mesh, pero el Aspen tiene batería recargable en vez de pilas descartables, a un precio bastante mayor.
+
+## Para quién sí y para quién no
+
+Comprá el San-Up VitaAir si priorizás el silencio y no te molesta cambiar pilas o conectarlo por USB. No es para vos si buscás no depender de pilas en absoluto: para eso, el [Aspen Mesh Air Pro II](/producto/MLA68343533) de esta guía tiene batería recargable integrada.`,
+    faq: [
+      {
+        question: "¿Es realmente silencioso?",
+        answer: "Sí, confirmado por varias reseñas reales, incluida una que lo usó con una mascota con problemas respiratorios sin asustarla por el ruido.",
+      },
+      {
+        question: "¿Está certificado por ANMAT?",
+        answer: "Sí, RPPTM 2683-8, un dato verificable directamente con el organismo.",
+      },
+      {
+        question: "¿Funciona a pilas o USB?",
+        answer: "Ambos: podés usarlo conectado por USB o a pila AA. A pilas dura pocos usos (4-5) antes de necesitar recarga, según una reseña real.",
+      },
+      {
+        question: "¿Trae mascarilla para chicos?",
+        answer: "Sí, incluye máscara adulto y máscara niño en la misma compra.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Nebulizador Mesh San-Up VitaAir SU-NEM702",
+      image: ["https://http2.mlstatic.com/D_Q_NP_781555-MLA88801546380_082025-F.webp"],
+      description: "Nebulizador mesh San-Up VitaAir, silencioso, certificado ANMAT RPPTM 2683-8.",
+      brand: { "@type": "Brand", name: "San-Up" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/nebulizador-mesh-san-up-vitaair-8ml-silencioso-portatil-usbpilas-certificado-por-la-anmat/p/MLA47884803",
+        priceCurrency: "ARS",
+        price: "66419",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "962",
+      },
+    },
+  },
+  {
+    id: "MLA47884824",
+    title: "Nebulizador a Pistón San-Up ClearBreath SU-NEP603 8ml con Accesorios (Certificado por la ANMAT)",
+    canonicalName: "Nebulizador a Pistón San-Up ClearBreath SU-NEP603",
+    price: 66499,
+    originalPrice: 126899,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_972088-MLA89662926705_082025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_972088-MLA89662926705_082025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_866688-MLA83706469189_042025-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/nebulizador-a-piston-san-up-clearbreath-su-nep603-8ml-con-accesorios-certificado-por-la-anmat/p/MLA47884824",
+    affiliateUrl: "https://meli.la/2aTh9iX",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 587,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "San-Up" },
+      { label: "Modelo", value: "SU-NEP603" },
+      { label: "Tipo", value: "Pistón (compresor)" },
+      { label: "Capacidad", value: "8 mL" },
+      { label: "Tasa de nebulización", value: "0,25 mL/min" },
+      { label: "Es silencioso", value: "No" },
+      { label: "Es inalámbrico", value: "No" },
+      { label: "Ciclo de trabajo", value: "20 minutos" },
+      { label: "Alimentación", value: "220V" },
+      { label: "Accesorios incluidos", value: "Máscara adulto, máscara niño, pipeta nebulizadora, filtro, boquilla, adaptador nasal, tubo de aire, 5 filtros de repuesto" },
+      { label: "Certificación", value: "ANMAT, RPPTM 2683-7" },
+    ],
+    relatedProducts: ["MLA47884803", "MLA44718278", "MLA68343533"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Nebulizador a pistón San-Up ClearBreath: el más completo en accesorios de esta guía (incluye 5 filtros de repuesto y adaptador nasal), certificado ANMAT, al mismo precio que la versión mesh de la misma marca.",
+    seoTitle: "San-Up ClearBreath: nebulizador a pistón con más accesorios",
+    metaDescription: "Nebulizador a pistón San-Up ClearBreath, con 8 accesorios incluidos. 587 opiniones reales, certificado ANMAT. Precio actualizado.",
+    verdict: "Sirve si buscás un nebulizador de pistón tradicional con el set más completo de accesorios de esta guía (incluye 5 filtros de repuesto, algo que ningún otro trae), al mismo precio que la versión mesh de la misma marca. La contra real, e inherente al pistón: no es silencioso ni portátil, necesita 220V. No es para vos si el silencio es tu prioridad: para eso, el San-Up VitaAir (mesh) de esta guía cuesta prácticamente lo mismo.",
+    pros: [
+      "El set de accesorios más completo de esta guía: incluye adaptador nasal y 5 filtros de repuesto",
+      "587 calificaciones reales con muy buen rating (4.8)",
+      "Certificado por ANMAT (RPPTM 2683-7), verificable",
+      "Mismo precio que la versión mesh de la misma marca, para quien no necesita silencio",
+      "Una reseña real lo describe con \"pinta de durar unos 40 o 50 años\"",
+    ],
+    cons: [
+      "No es silencioso, según su propia ficha técnica: es un pistón tradicional con el ruido característico de un compresor",
+      "No es portátil: necesita 220V, a diferencia de los modelos mesh de esta guía",
+      "Sin ninguna crítica negativa documentable en las reseñas disponibles al momento del research (todas 5 estrellas), así que el panorama de contras se apoya en la naturaleza del producto (ruido, falta de portabilidad), no en fallas reportadas",
+    ],
+    articleBody: `## Qué es y para quién
+
+El San-Up ClearBreath SU-NEP603 es un nebulizador de pistón (compresor) tradicional de 8 mL, certificado por ANMAT, con el set de accesorios más completo de esta guía. Es la opción para quien no necesita portabilidad ni silencio y prioriza tener todos los repuestos a mano.
+
+## Cómo funciona
+
+El compresor empuja aire a través de la pipeta nebulizadora para convertir el medicamento líquido en aerosol respirable. Trae 8 accesorios distintos, incluyendo un adaptador nasal (para lavados nasales, no solo nebulización respiratoria) y 5 filtros de repuesto, algo que ninguna otra ficha de esta guía incluye.
+
+## La contra real
+
+Es honesta y previsible: es un pistón, así que hace ruido y necesita estar enchufado. Una reseña real lo resume así: "el típico nebulizador familiar pero en versión 2.0. Más portátil y con un sutil restyling, pero manteniendo el típico sonido. Tiene pinta de durar unos 40 o 50 años mínimo." No encontramos ninguna crítica negativa real en las reseñas disponibles: el "contra" acá es la naturaleza del producto, no una falla.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [San-Up VitaAir](/producto/MLA47884803) (mesh, mismo precio), el ClearBreath suma más accesorios pero pierde en silencio y portabilidad. Frente al [Omron NE-C801LA](/producto/MLA44718278) (también pistón, marca internacional), el ClearBreath es bastante más barato pero con menos volumen de reseñas (587 contra 3.516).
+
+## Para quién sí y para quién no
+
+Comprá el San-Up ClearBreath si buscás un pistón tradicional completo en accesorios al mejor precio de esta guía. No es para vos si necesitás nebulizar de noche sin hacer ruido o llevarlo de viaje: para eso, el [San-Up VitaAir](/producto/MLA47884803) o el [Aspen Mesh Air Pro II](/producto/MLA68343533) de esta guía son mesh y portátiles.`,
+    faq: [
+      {
+        question: "¿Es silencioso?",
+        answer: "No, según su propia ficha técnica: es un compresor de pistón tradicional, con el ruido característico de ese tipo de motor. Si necesitás silencio, el [San-Up VitaAir](/producto/MLA47884803) (mesh) de esta guía es la opción.",
+      },
+      {
+        question: "¿Qué accesorios trae?",
+        answer: "El set más completo de esta guía: máscara adulto, máscara niño, pipeta nebulizadora, filtro, boquilla, adaptador nasal, tubo de aire y 5 filtros de repuesto.",
+      },
+      {
+        question: "¿Está certificado por ANMAT?",
+        answer: "Sí, RPPTM 2683-7, un dato verificable directamente con el organismo.",
+      },
+      {
+        question: "¿Es portátil?",
+        answer: "No, necesita conexión a 220V. Si buscás portabilidad, los modelos mesh de esta guía funcionan a pila o USB.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Nebulizador a Pistón San-Up ClearBreath SU-NEP603",
+      image: ["https://http2.mlstatic.com/D_Q_NP_972088-MLA89662926705_082025-F.webp"],
+      description: "Nebulizador a pistón San-Up ClearBreath, certificado ANMAT RPPTM 2683-7, con 8 accesorios incluidos.",
+      brand: { "@type": "Brand", name: "San-Up" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/nebulizador-a-piston-san-up-clearbreath-su-nep603-8ml-con-accesorios-certificado-por-la-anmat/p/MLA47884824",
+        priceCurrency: "ARS",
+        price: "66499",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "587",
+      },
+    },
+  },
+  {
+    id: "MLA44718278",
+    title: "Nebulizador a pistón Omron NE-C801LA blanco",
+    canonicalName: "Nebulizador a Pistón Omron NE-C801LA",
+    price: 90241,
+    originalPrice: 127100,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_900350-MLU72566440974_112023-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_900350-MLU72566440974_112023-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_606527-MLU72566440976_112023-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/nebulizador-a-piston-omron-ne-c801la-blanco/p/MLA44718278",
+    affiliateUrl: "https://meli.la/1M3uham",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3516,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Omron" },
+      { label: "Modelo", value: "NE-C801LA" },
+      { label: "Tipo", value: "Pistón" },
+      { label: "Es silencioso", value: "Sí" },
+      { label: "Capacidad", value: "7 mL" },
+      { label: "Tasa de nebulización", value: "0,3 mL/min" },
+      { label: "Corte automático", value: "Sí" },
+      { label: "Es inalámbrico", value: "No" },
+      { label: "Dimensiones", value: "14,2 x 9,8 x 7,2 cm" },
+      { label: "Peso", value: "270 g" },
+      { label: "Accesorios incluidos", value: "Bolso, boquilla, filtros, manguera, máscara adulto, máscara niño, pipeta nebulizadora" },
+      { label: "Garantía", value: "3 años de fábrica (declarada por una reseña de comprador)" },
+      { label: "Certificación", value: "No declara ANMAT/RPPTM explícito en el campo de certificaciones de esta publicación; marca multinacional (Omron) con presencia establecida en farmacias" },
+    ],
+    relatedProducts: ["MLA47884803", "MLA47884824", "MLA68343533"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Nebulizador a pistón Omron NE-C801LA: la marca más reconocida de esta guía, con 3.516 opiniones reales, el mayor volumen de toda la categoría. Silencioso para ser un pistón, compacto y con corte automático.",
+    seoTitle: "Omron NE-C801LA: el nebulizador de mayor confianza",
+    metaDescription: "Nebulizador a pistón Omron NE-C801LA, silencioso y compacto. 3.516 opiniones reales, 4.7 estrellas. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás la marca con más trayectoria y el mayor volumen de reseñas reales de esta guía (3.516): Omron es la referencia en tensiómetros y nebulizadores en farmacias argentinas. Es un pistón compacto, silencioso para su tipo, con corte automático. La contra real: el cabezal nebulizador se siente algo frágil según una reseña, y el vaso puede volcarse si no lo apoyás bien vacío. No es para vos si buscás el precio más bajo: es el más caro de los pistón de esta guía.",
+    pros: [
+      "La marca con más trayectoria y confianza de esta guía (referencia en farmacias argentinas)",
+      "3.516 calificaciones reales, el mayor volumen de toda la categoría",
+      "Silencioso para ser un pistón, según reseñas reales que lo compararon con otros",
+      "Compacto (270 g) y con corte automático",
+      "Una reseña declara 3 años de garantía de fábrica",
+    ],
+    cons: [
+      "El cabezal nebulizador se siente frágil, según una reseña con 54 votos útiles (aunque aclara que con cuidado no tuvo problemas)",
+      "El vaso puede volcar líquido si lo apoyás sobre una mesa sin vaciarlo bien, según otra reseña",
+      "El más caro de los nebulizadores a pistón de esta guía",
+      "No tiene reloj ni parada automática programable, según una reseña",
+      "No declara ANMAT/RPPTM explícito en el campo de certificaciones de esta publicación puntual, a diferencia de los San-Up de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Omron NE-C801LA es un nebulizador a pistón compacto de la marca más reconocida de esta guía. Es la opción para quien prioriza el respaldo de una marca multinacional con presencia establecida en farmacias por sobre el precio.
+
+## Cómo funciona
+
+Con 7 mL de capacidad y corte automático, es notablemente silencioso para ser un pistón: "muy silencioso su funcionamiento comparado con otros que vi. Con uso normal no he notado que se caliente", cuenta una reseña con 54 votos útiles. Otro comprador lo resume: "en cuanto precio y calidad es el mejor nebulizador que hay en el mercado... tiene una garantía de 3 años de fábrica".
+
+## La contra real
+
+La misma reseña más útil (54 votos) señala un problema concreto: "partes del cabezal nebulizador parecen frágiles, pero con un poco de cuidado no he tenido problemas". Otra reseña con 16 votos útiles suma un detalle práctico: "no encontré dónde encastrar el tubito con la mascarilla luego de usarlo y si te queda líquido, se te vuelca al apoyarlo sobre una mesa".
+
+## Cómo se compara con los otros de esta guía
+
+Frente a los [San-Up VitaAir](/producto/MLA47884803) y [ClearBreath](/producto/MLA47884824) (misma franja de precio entre sí, más baratos), el Omron cuesta más pero suma el respaldo de marca y el mayor volumen de reseñas reales del mercado. Frente al [Aspen Mesh Air Pro II](/producto/MLA68343533), el Omron es un pistón (más ruidoso, no portátil) pero con muchísimas más reseñas.
+
+## Para quién sí y para quién no
+
+Comprá el Omron NE-C801LA si el respaldo de una marca reconocida y el mayor volumen de reseñas reales son tu prioridad. No es para vos si buscás portabilidad o silencio absoluto: para eso, los modelos mesh de esta guía rinden mejor.`,
+    faq: [
+      {
+        question: "¿Es silencioso?",
+        answer: "Es notablemente silencioso para ser un pistón, según varias reseñas que lo comparan con otros modelos, aunque los nebuladores mesh de esta guía son todavía más silenciosos.",
+      },
+      {
+        question: "¿Por qué es el más caro entre los pistón de esta guía?",
+        answer: "Por el respaldo de marca: Omron es la referencia en dispositivos médicos hogareños en farmacias argentinas, con el mayor volumen de reseñas reales de toda la categoría (3.516).",
+      },
+      {
+        question: "¿Tiene garantía?",
+        answer: "Una reseña de comprador declara 3 años de garantía de fábrica, aunque este dato no está confirmado en la ficha técnica estructurada de MercadoLibre.",
+      },
+      {
+        question: "¿Es portátil?",
+        answer: "No es inalámbrico, aunque es compacto (270 g). Para portabilidad real, los modelos mesh de esta guía funcionan a pila o USB.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Nebulizador a Pistón Omron NE-C801LA",
+      image: ["https://http2.mlstatic.com/D_Q_NP_900350-MLU72566440974_112023-F.webp"],
+      description: "Nebulizador a pistón Omron NE-C801LA, silencioso y compacto, con corte automático.",
+      brand: { "@type": "Brand", name: "Omron" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/nebulizador-a-piston-omron-ne-c801la-blanco/p/MLA44718278",
+        priceCurrency: "ARS",
+        price: "90241",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "3516",
+      },
+    },
+  },
+  {
+    id: "MLA68343533",
+    title: "Nebulizador Portatil Mesh Air Pro 2 Aspen Blanco",
+    canonicalName: "Nebulizador Portátil Mesh Aspen Air Pro II",
+    price: 107666,
+    originalPrice: 147995,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_793141-MLA110792623265_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_793141-MLA110792623265_042026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_988133-MLA109759949748_042026-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/nebulizador-portatil-mesh-air-pro-2-aspen-blanco/p/MLA68343533",
+    affiliateUrl: "https://meli.la/2Tswehs",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 91,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Aspen" },
+      { label: "Modelo", value: "Mesh Air Pro 2" },
+      { label: "Tipo", value: "Mesh" },
+      { label: "Es silencioso", value: "Sí" },
+      { label: "Es inalámbrico", value: "Sí, batería recargable" },
+      { label: "Capacidad", value: "10 mL" },
+      { label: "Tasa de nebulización", value: "0,15 a 0,90 mL/min" },
+      { label: "Carga", value: "USB (batería recargable, no pilas descartables)" },
+      { label: "Accesorios incluidos", value: "Máscara adulto, máscara niño, accesorio bucal, cable USB, bolsa de guardado" },
+      { label: "Certificación", value: "ANMAT (declarada en ficha técnica, certificador IQC S.A.)" },
+      { label: "Garantía", value: "1 año de fábrica" },
+    ],
+    relatedProducts: ["MLA47884803", "MLA47884824", "MLA44718278"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Nebulizador mesh Aspen Air Pro II: el único de esta guía con batería recargable en vez de pilas descartables, certificado ANMAT. El más caro de la comparativa y con la base de reseñas más chica (91).",
+    seoTitle: "Aspen Mesh Air Pro II: nebulizador con batería recargable",
+    metaDescription: "Nebulizador mesh Aspen Air Pro II, con batería recargable USB, certificado ANMAT. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás el único nebulizador de esta guía con batería recargable en vez de pilas descartables, ideal para viajes o uso frecuente sin comprar pilas seguido. Es mesh, silencioso y certificado ANMAT explícitamente en su ficha técnica. La contra real: es el más caro de esta guía, con una base de reseñas bastante más chica (91) que el resto (587 a 3.516), así que hay menos historial para confiar en su durabilidad a largo plazo. No es para vos si el volumen de reseñas te da más seguridad: para eso, el San-Up VitaAir o el Omron de esta guía tienen mucho más respaldo.",
+    pros: [
+      "El único de esta guía con batería recargable en vez de pilas descartables",
+      "Mesh, silencioso, certificado ANMAT de forma explícita en la ficha técnica (no solo en la descripción)",
+      "Incluye bolsa de guardado, útil para viajar",
+      "1 año de garantía de fábrica declarada",
+      "4.8 estrellas en las 91 opiniones disponibles",
+    ],
+    cons: [
+      "El más caro de esta guía, bastante más que los San-Up",
+      "Solo 91 calificaciones, la base más chica de esta comparativa por lejos (587 a 3.516 en el resto)",
+      "Varias reseñas disponibles mencionan pocos usos (\"recién lo usé 1-2 veces\"), así que todavía no hay evidencia de durabilidad a largo plazo",
+      "No se encontró página oficial de Aspen Argentina para este modelo específico, para cruzar specs adicionales",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Aspen Air Pro II es un nebulizador mesh portátil con batería recargable, el único de esta guía que no depende de pilas descartables. Es la opción para quien nebuliza seguido o viaja con frecuencia y no quiere estar comprando pilas.
+
+## Cómo funciona
+
+Con 10 mL de capacidad y carga por USB, la batería se recarga en vez de reemplazarse como en los modelos a pila de esta guía. Las reseñas disponibles son consistentemente positivas: "muy bueno el producto ya lo usé 2 veces y tira mucho vapor súper silencioso. Por ahora nada negativo", cuenta una compradora.
+
+## La contra real
+
+El punto más honesto a señalar acá no es una falla reportada, sino la falta de historial: con solo 91 calificaciones (contra 587 a 3.516 del resto de esta guía) y varias reseñas que aclaran "recién lo usé 1-2 veces", todavía no hay suficiente evidencia real de qué tan bien aguanta la batería recargable con el uso repetido a mediano plazo.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [San-Up VitaAir](/producto/MLA47884803) (también mesh, mucho más barato), el Aspen suma batería recargable pero con una base de reseñas mucho más chica. Frente al [Omron NE-C801LA](/producto/MLA44718278) (pistón, marca reconocida), el Aspen es portátil y silencioso pero sin el respaldo de miles de reseñas.
+
+## Para quién sí y para quién no
+
+Comprá el Aspen Air Pro II si valorás no depender de pilas descartables y viajás seguido con el nebulizador. No es para vos si preferís elegir en base a un historial de reseñas más grande: para eso, el [San-Up VitaAir](/producto/MLA47884803) de esta guía tiene diez veces más opiniones y cuesta menos.`,
+    faq: [
+      {
+        question: "¿Usa pilas o batería recargable?",
+        answer: "Batería recargable por USB, el único de esta guía sin pilas descartables. Los San-Up y el Omron funcionan a pila AA o cable.",
+      },
+      {
+        question: "¿Por qué es tan caro comparado con el resto?",
+        answer: "Por la batería recargable integrada, un diferencial real frente a los modelos a pila del resto de esta guía.",
+      },
+      {
+        question: "¿Tiene poca base de reseñas?",
+        answer: "Sí, 91 calificaciones, bastante menos que el resto de esta guía (587 a 3.516). El rating es alto (4.8), pero con menos historial para confiar en la durabilidad a largo plazo.",
+      },
+      {
+        question: "¿Está certificado por ANMAT?",
+        answer: "Sí, de forma explícita en su ficha técnica, con el certificador declarado (IQC S.A.).",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Nebulizador Portátil Mesh Aspen Air Pro II",
+      image: ["https://http2.mlstatic.com/D_Q_NP_793141-MLA110792623265_042026-F.webp"],
+      description: "Nebulizador mesh Aspen Air Pro II, con batería recargable USB, certificado ANMAT.",
+      brand: { "@type": "Brand", name: "Aspen" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/nebulizador-portatil-mesh-air-pro-2-aspen-blanco/p/MLA68343533",
+        priceCurrency: "ARS",
+        price: "107666",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "91",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva tensiometro-digital — silo salud-bienestar,
+  // categoria "tensiometros". Origen: research de silos flacos
+  // 2026-07-19, keyword "tensiometro digital" (22.200/mes, Keyword
+  // Planner). Fuente de sourcing: Bright Data (scrape_as_markdown)
+  // sobre MercadoLibre Argentina, 2026-07-19. Tema YMYL: solo datos
+  // técnicos objetivos de ficha, sin claims de precisión clínica.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA24044627",
+    title: "Omron Tensiómetro Hem-7142 Digital Automático De Brazo Color Blanco",
+    canonicalName: "Tensiómetro Digital de Brazo Omron HEM-7142",
+    price: 93498,
+    originalPrice: 159999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_866786-MLU72565713896_112023-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_866786-MLU72565713896_112023-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco/p/MLA24044627",
+    affiliateUrl: "https://meli.la/2HBdvKn",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 27369,
+    soldQuantity: 50000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Omron" },
+      { label: "Modelo", value: "HEM-7142" },
+      { label: "Tipo", value: "Brazo" },
+      { label: "Memorias", value: "14" },
+      { label: "Mide", value: "Presión sistólica, diastólica y frecuencia cardíaca" },
+      { label: "Indicador de error de movimiento", value: "Sí" },
+      { label: "Usuarios", value: "1" },
+      { label: "Inflado", value: "Automático" },
+      { label: "Brazalete incluido", value: "22-32 cm" },
+      { label: "Alimentación", value: "Pila AA (cable a corriente no incluido)" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Garantía", value: "12 meses de fábrica (declarada por el vendedor)" },
+    ],
+    relatedProducts: ["MLA22255575", "MLA24111585", "MLA24533653"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Tensiómetro digital de brazo Omron HEM-7142: la marca líder de esta guía, con 27.369 opiniones reales, el mayor volumen de toda la categoría en MercadoLibre Argentina.",
+    seoTitle: "Omron HEM-7142: el tensiómetro con más opiniones reales",
+    metaDescription: "Tensiómetro digital de brazo Omron HEM-7142. 27.369 opiniones reales, 4.9 estrellas. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás el tensiómetro con el mayor respaldo de compradores reales de Argentina: 27.369 calificaciones lo confirman, muy por encima de cualquier otro modelo de esta guía. Es de brazo, el tipo que suele preferirse por estándar. La contra real, señalada en la reseña más útil de todo el research: cuesta bastante más que alternativas genéricas, no tiene Bluetooth y el software de escaneo (si lo probás) no funciona bien según un comprador. No es para vos si buscás el precio más bajo: para eso, la Coronet YK-BPW4 de esta guía cuesta menos de la mitad.",
+    pros: [
+      "El mayor volumen de reseñas reales de toda la categoría en MercadoLibre Argentina: 27.369 calificaciones",
+      "Tipo brazo, el formato de referencia",
+      "Indicador de error de movimiento, para saber si la medición pudo fallar",
+      "Marca reconocida en farmacias argentinas",
+    ],
+    cons: [
+      "Precio elevado frente a alternativas: \"el precio bastante elevado frente a la competencia (entre 3 y 4 veces más)\", según la reseña más útil del research (216 votos)",
+      "Sin Bluetooth ni conectividad a app",
+      "El software de escaneo (si se usa con la app) no funciona bien, según la misma reseña",
+      "No incluye cable a corriente, solo funciona a pila AA de fábrica",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Omron HEM-7142 es un tensiómetro digital de brazo, la marca y el modelo con más respaldo de compradores reales de toda la categoría en MercadoLibre Argentina: 27.369 calificaciones. Es la opción para quien prioriza el historial de marca y el tipo de medición más usado como estándar (brazo, no muñeca).
+
+## Cómo funciona
+
+Con inflado automático, indicador de error de movimiento y memoria de 14 mediciones, mide presión sistólica, diastólica y frecuencia cardíaca. Funciona a pila AA. Varias reseñas de compradores cuentan haber comparado sus lecturas con las de un profesional de la salud; una compradora de Brasil menciona que le sirvió para llevar un registro que después compartió con su médico. No validamos ni afirmamos la precisión clínica del dispositivo: son testimonios de compradores, no una evaluación de este sitio.
+
+## La contra real
+
+La reseña más útil de todo este research (216 votos útiles) es detallada y honesta: "materiales de construcción de calidad superior... Contras: precio bastante elevado frente a la competencia (entre 3 y 4 veces más). El software de escaneo no funciona... no cuenta con Bluetooth". Es información valiosa antes de pagar la diferencia de precio frente a alternativas más económicas.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Coronet YK-BPW4](/producto/MLA22255575) (muñeca, mucho más barata), el Omron cuesta más del doble pero suma el respaldo de marca y el tipo brazo. Frente al [Omron HEM-6124](/producto/MLA24111585) (muñeca, misma marca), el HEM-7142 es de brazo, el tipo de referencia más usado en mediciones. Frente al [Microlife BP A200 AFIB](/producto/MLA24533653) (detección de arritmia), el Omron no tiene esa función especializada.
+
+## Para quién sí y para quién no
+
+Comprá el Omron HEM-7142 si el respaldo de marca y el tipo brazo son tu prioridad, y no te importa pagar más que alternativas genéricas. No es para vos si buscás el precio más bajo o necesitás Bluetooth: para eso, revisá otras opciones de esta guía.`,
+    faq: [
+      {
+        question: "¿Por qué es tan caro comparado con otros tensiómetros?",
+        answer: "Por el respaldo de marca: Omron es una marca ampliamente reconocida en dispositivos médicos hogareños, con el mayor volumen de reseñas reales de toda la categoría en este sitio (27.369). Una reseña real señala que cuesta 3-4 veces más que alternativas genéricas.",
+      },
+      {
+        question: "¿Tiene Bluetooth?",
+        answer: "No, según su ficha técnica y confirmado por una reseña real. Si necesitás conectividad, revisá específicamente esa función antes de comprar cualquier modelo.",
+      },
+      {
+        question: "¿Es más preciso que uno de muñeca?",
+        answer: "El tipo brazo suele preferirse como estándar de medición. Este dato es general del tipo de dispositivo, no un claim específico de este modelo — no reemplaza el consejo de un profesional de la salud.",
+      },
+      {
+        question: "¿Viene con cable a corriente?",
+        answer: "No, solo funciona a pila AA de fábrica según la ficha técnica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Tensiómetro Digital de Brazo Omron HEM-7142",
+      image: ["https://http2.mlstatic.com/D_Q_NP_866786-MLU72565713896_112023-F.webp"],
+      description: "Tensiómetro digital de brazo Omron HEM-7142, automático, con indicador de error de movimiento.",
+      brand: { "@type": "Brand", name: "Omron" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/omron-tensiometro-hem-7142-digital-automatico-de-brazo-color-blanco/p/MLA24044627",
+        priceCurrency: "ARS",
+        price: "93498",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "27369",
+      },
+    },
+  },
+  {
+    id: "MLA22255575",
+    title: "Tensiometro Digital De Muñeca Medidor De Presión Arterial Color Blanco",
+    canonicalName: "Tensiómetro Digital de Muñeca Coronet YK-BPW4",
+    price: 39250,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_685624-MLA49759434820_042022-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_685624-MLA49759434820_042022-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco/p/MLA22255575",
+    affiliateUrl: "https://meli.la/2b7F7xr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 3230,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Coronet" },
+      { label: "Modelo", value: "YK-BPW4" },
+      { label: "Tipo", value: "Muñeca" },
+      { label: "Memorias", value: "99" },
+      { label: "Mide", value: "Presión sistólica, diastólica y frecuencia cardíaca" },
+      { label: "Indicador de error de movimiento", value: "Sí" },
+      { label: "Brazalete incluido", value: "13,4-21,5 cm" },
+      { label: "Alimentación", value: "Pilas AAA (no incluidas)" },
+      { label: "Estuche", value: "No incluido" },
+      { label: "Certificación", value: "ANMAT RPPTM 1440-151 (declarada en descripción)" },
+    ],
+    relatedProducts: ["MLA24044627", "MLA24111585", "MLA24533653"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Tensiómetro digital de muñeca Coronet YK-BPW4: el más económico de esta guía, con 3.230 opiniones reales, menos de la mitad del precio del Omron de brazo.",
+    seoTitle: "Coronet YK-BPW4: el tensiómetro más económico",
+    metaDescription: "Tensiómetro digital de muñeca Coronet YK-BPW4, el más económico. 3.230 opiniones reales, 4.6 estrellas. Precio actualizado.",
+    verdict: "Sirve si buscás el tensiómetro más barato de esta guía con buen volumen de reseñas reales (3.230): menos de la mitad del precio del Omron de brazo. Algunos compradores cuentan haber comparado sus lecturas con las de un profesional de la salud y reportan resultados similares (testimonios de comprador, no una validación de este sitio). La contra real: al ser de muñeca, una reseña señala una diferencia de 1 punto frente a un tensiómetro de brazo. Hay además una contradicción menor entre fuentes: la descripción del vendedor menciona la marca \"Euromix\", mientras la ficha técnica dice \"Coronet\" (usamos el dato de la ficha técnica, que tiene prioridad según nuestra jerarquía de fuentes). No es para vos si preferís el estándar de brazo: para eso, el Omron HEM-7142 de esta guía.",
+    pros: [
+      "El más económico de esta guía, con buen volumen de reseñas reales (3.230)",
+      "99 memorias, buena capacidad de almacenamiento (el Microlife de esta guía tiene más, pero es un modelo más caro y especializado)",
+      "Algunos compradores cuentan haber comparado sus lecturas con las de un profesional de la salud y notaron resultados similares (testimonio, no validación clínica de este sitio)",
+      "Certificación ANMAT declarada (RPPTM 1440-151)",
+      "Compacto, formato muñeca, fácil de guardar",
+    ],
+    cons: [
+      "Una reseña real señala una diferencia de 1 punto frente a un tensiómetro de brazo, al compararlos",
+      "El manual tiene letra chica, dificil de leer, según una reseña con 48 votos útiles",
+      "Contradicción entre fuentes: la descripción del vendedor menciona la marca \"Euromix\", pero la ficha técnica estructurada dice \"Coronet\"",
+      "No incluye estuche de guardado",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Coronet YK-BPW4 es un tensiómetro digital de muñeca, el más económico de esta guía por un buen margen. Es la opción para quien busca un dispositivo de monitoreo casero sin pagar el premium de una marca internacional de brazo.
+
+## Cómo funciona
+
+Con memoria de mediciones e indicador de error de movimiento, mide presión sistólica, diastólica y frecuencia cardíaca. Una reseña cuenta su experiencia personal: "lo llevé con mi médica y comparamos con el tensiómetro de la clínica y mide igual", con 36 votos útiles. Es un testimonio de comprador, no una validación de precisión clínica de este sitio.
+
+## La contra real
+
+Al ser de muñeca (no de brazo, el formato de referencia), una reseña real detalla: "si tenés el otro del que va en el brazo mide justo, este le erra por 1 punto". No es una falla del producto, es una limitación conocida del formato muñeca en general. También hay una contradicción menor entre la descripción del vendedor (que menciona la marca "Euromix") y la ficha técnica estructurada (que dice "Coronet") — usamos el dato de la ficha técnica, que tiene prioridad en nuestra jerarquía de fuentes.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Omron HEM-7142](/producto/MLA24044627) (brazo, marca líder), el Coronet cuesta menos de la mitad, aunque pierde en respaldo de marca. Frente al [Omron HEM-6124](/producto/MLA24111585) (también muñeca, misma franja de precio superior), el Coronet es más barato con volumen de reseñas comparable.
+
+## Para quién sí y para quién no
+
+Comprá el Coronet YK-BPW4 si el precio es tu prioridad y no te molesta una pequeña diferencia de precisión frente al formato brazo. No es para vos si preferís el estándar de medición o el respaldo de una marca internacional: para eso, el [Omron HEM-7142](/producto/MLA24044627) de esta guía.`,
+    faq: [
+      {
+        question: "¿Es tan preciso como uno de brazo?",
+        answer: "Según una reseña real que los comparó, hay una diferencia de aproximadamente 1 punto frente a un tensiómetro de brazo. Es una limitación conocida del formato muñeca, no necesariamente una falla de este modelo puntual.",
+      },
+      {
+        question: "¿La marca es Coronet o Euromix?",
+        answer: "Hay una contradicción entre fuentes en la misma publicación: la ficha técnica estructurada dice Coronet, la descripción del vendedor menciona Euromix. Usamos el dato de la ficha técnica según nuestra jerarquía de fuentes.",
+      },
+      {
+        question: "¿Trae estuche?",
+        answer: "No, según la ficha técnica.",
+      },
+      {
+        question: "¿Está certificado por ANMAT?",
+        answer: "Sí, según la descripción del vendedor (RPPTM 1440-151).",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Tensiómetro Digital de Muñeca Coronet YK-BPW4",
+      image: ["https://http2.mlstatic.com/D_Q_NP_685624-MLA49759434820_042022-F.webp"],
+      description: "Tensiómetro digital de muñeca Coronet YK-BPW4, el más económico de la categoría.",
+      brand: { "@type": "Brand", name: "Coronet" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-medidor-de-presion-arterial-color-blanco/p/MLA22255575",
+        priceCurrency: "ARS",
+        price: "39250",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "3230",
+      },
+    },
+  },
+  {
+    id: "MLA24111585",
+    title: "Tensiómetro digital de muñeca automático Omron HEM-6124 gris",
+    canonicalName: "Tensiómetro Digital de Muñeca Omron HEM-6124",
+    price: 78849,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_861229-MLU72826918143_112023-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_861229-MLU72826918143_112023-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris/p/MLA24111585",
+    affiliateUrl: "https://meli.la/1RnyfkY",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 7105,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Omron" },
+      { label: "Modelo", value: "HEM-6124" },
+      { label: "Tipo", value: "Muñeca" },
+      { label: "Memorias", value: "30" },
+      { label: "Mide", value: "Presión sistólica, diastólica y frecuencia cardíaca" },
+      { label: "Indicador de error de movimiento", value: "Sí" },
+      { label: "Inflado", value: "Automático" },
+      { label: "Brazalete incluido", value: "13,5-21,5 cm" },
+      { label: "Alimentación", value: "Pilas AAA (incluidas)" },
+      { label: "Bluetooth", value: "No" },
+      { label: "Estuche", value: "No incluido" },
+    ],
+    relatedProducts: ["MLA24044627", "MLA22255575", "MLA24533653"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Tensiómetro digital de muñeca Omron HEM-6124: la mejor combinación de marca reconocida y formato compacto de esta guía, con 7.105 opiniones reales.",
+    seoTitle: "Omron HEM-6124: tensiómetro de muñeca de marca líder",
+    metaDescription: "Tensiómetro digital de muñeca Omron HEM-6124. 7.105 opiniones reales, 4.8 estrellas. Precio actualizado y contras honestas.",
+    verdict: "Sirve si buscás el respaldo de marca Omron en formato muñeca, más compacto y barato que la versión de brazo de la misma marca. Tiene 7.105 calificaciones reales, la segunda base más grande de esta guía. La contra real: no incluye estuche de guardado, según una reseña. No es para vos si preferís el formato brazo (el estándar de medición): para eso, el Omron HEM-7142 de esta guía.",
+    pros: [
+      "Marca líder de la categoría en formato muñeca, más compacto que el de brazo",
+      "7.105 calificaciones reales, la segunda base más grande de esta guía",
+      "Pilas AAA incluidas de fábrica (a diferencia de la Coronet, que no las incluye)",
+      "Una reseña cuenta haberlo comparado con un equipo de clínica y haber notado lecturas similares (testimonio de comprador, no validación de este sitio)",
+      "Sensor de posición del corazón, según una reseña",
+    ],
+    cons: [
+      "No incluye estuche de guardado, según una reseña con 69 votos útiles (\"lo cual es una pena\")",
+      "Al ser de muñeca, no es el formato de referencia (brazo)",
+      "Más caro que la Coronet YK-BPW4 de esta guía, también de muñeca",
+      "Sin Bluetooth",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Omron HEM-6124 es un tensiómetro digital de muñeca de la marca líder de esta guía. Es la opción para quien quiere el respaldo de Omron en un formato más compacto y barato que la versión de brazo de la misma marca.
+
+## Cómo funciona
+
+Con inflado automático, indicador de error de movimiento y 30 memorias, mide presión sistólica, diastólica y frecuencia cardíaca. Una reseña cuenta haberlo comparado con un equipo de clínica y notar lecturas similares; es un testimonio de comprador, no una validación de precisión clínica de este sitio. Incluye pilas AAA de fábrica, a diferencia de la Coronet de esta guía.
+
+## La contra real
+
+El punto más concreto que aparece en las reseñas es la ausencia de estuche: "no viene con estuche para guardarlo, lo cual es una pena", señala una reseña con 69 votos útiles. Otra reseña con 60 votos detalla el funcionamiento del sensor de posición del corazón, un dato técnico útil para quien recién empieza a usarlo.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Coronet YK-BPW4](/producto/MLA22255575) (también muñeca, más barata), el Omron cuesta el doble pero suma el respaldo de marca y casi el doble de reseñas reales. Frente al [Omron HEM-7142](/producto/MLA24044627) (brazo, misma marca), el HEM-6124 es más compacto pero pierde el formato de referencia.
+
+## Para quién sí y para quién no
+
+Comprá el Omron HEM-6124 si querés el respaldo de la marca líder en un formato compacto de muñeca. No es para vos si preferís el formato brazo (el estándar de medición) o el precio más bajo posible: para eso, el [Omron HEM-7142](/producto/MLA24044627) o la [Coronet YK-BPW4](/producto/MLA22255575) de esta guía.`,
+    faq: [
+      {
+        question: "¿Trae estuche?",
+        answer: "No, según una reseña real de comprador. Es un detalle a tener en cuenta si buscás guardarlo prolijamente.",
+      },
+      {
+        question: "¿Incluye pilas?",
+        answer: "Sí, pilas AAA incluidas de fábrica, a diferencia de la Coronet YK-BPW4 de esta guía que no las incluye.",
+      },
+      {
+        question: "¿Por qué elegir este en vez del Omron de brazo?",
+        answer: "Es más compacto y más barato que el HEM-7142 (brazo) de esta guía, aunque el formato brazo suele preferirse como estándar de medición.",
+      },
+      {
+        question: "¿Tiene conectividad con app?",
+        answer: "No tiene Bluetooth, según su ficha técnica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Tensiómetro Digital de Muñeca Omron HEM-6124",
+      image: ["https://http2.mlstatic.com/D_Q_NP_861229-MLU72826918143_112023-F.webp"],
+      description: "Tensiómetro digital de muñeca Omron HEM-6124, automático, con indicador de error de movimiento.",
+      brand: { "@type": "Brand", name: "Omron" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris/p/MLA24111585",
+        priceCurrency: "ARS",
+        price: "78849",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "7105",
+      },
+    },
+  },
+  {
+    id: "MLA24533653",
+    title: "Tensiómetro digital de brazo Microlife BP A200 AFIB blanco",
+    canonicalName: "Tensiómetro Digital de Brazo Microlife BP A200 AFIB",
+    price: 117836,
+    originalPrice: 131473,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_688153-MLA84480880023_052025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_688153-MLA84480880023_052025-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/tensiometro-digital-de-brazo-microlife-bp-a200-afib-blanco/p/MLA24533653",
+    affiliateUrl: "https://meli.la/2PzFbym",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 292,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Microlife" },
+      { label: "Modelo", value: "BP A200 AFIB" },
+      { label: "Tipo", value: "Brazo" },
+      { label: "Memorias", value: "200" },
+      { label: "Mide", value: "Presión sistólica, diastólica y frecuencia cardíaca" },
+      { label: "Indicador de error de movimiento", value: "Sí" },
+      { label: "Tecnología PAD", value: "Detección de arritmia (declarada)" },
+      { label: "Tecnología MAM", value: "3 mediciones automáticas consecutivas (declarada)" },
+      { label: "Brazalete incluido", value: "22-42 cm" },
+      { label: "Alimentación", value: "Pila AA (adaptador a corriente no incluido)" },
+      { label: "Bluetooth", value: "No" },
+    ],
+    relatedProducts: ["MLA24044627", "MLA22255575", "MLA24111585"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Tensiómetro digital de brazo Microlife BP A200 AFIB: el único de esta guía con tecnología de detección de arritmia (PAD) declarada en su ficha técnica.",
+    seoTitle: "Microlife BP A200 AFIB: detección de arritmia",
+    metaDescription: "Tensiómetro digital de brazo Microlife BP A200 AFIB, con tecnología de detección de arritmia. Precio actualizado y opiniones reales.",
+    verdict: "Sirve si buscás el único tensiómetro de esta guía con tecnología de detección de arritmia (PAD) declarada en su ficha técnica, con 200 memorias, la mayor capacidad de la comparativa. Es un dato de ficha, no una recomendación médica: consultá siempre con un profesional de la salud si necesitás monitorear arritmia. La contra real: tiene bastante menos volumen de reseñas que el resto de esta guía (292 contra miles), y no tiene descuento tan agresivo como otros modelos. No es para vos si buscás el mayor historial de reseñas posible: para eso, el Omron HEM-7142 de esta guía tiene casi 100 veces más calificaciones.",
+    pros: [
+      "El único de esta guía con tecnología de detección de arritmia (PAD) declarada en su ficha técnica",
+      "200 memorias, la mayor capacidad de esta guía",
+      "Tecnología MAM: promedia 3 mediciones automáticas consecutivas",
+      "Marca suiza con presencia establecida en farmacias",
+    ],
+    cons: [
+      "292 calificaciones, bastante menos volumen que el resto de esta guía (3.230 a 27.369)",
+      "Precio alto sin descuento tan agresivo como otros modelos de esta guía",
+      "Sin Bluetooth ni app propia mencionada en la ficha",
+      "No incluye adaptador a corriente, solo funciona a pila AA de fábrica",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Microlife BP A200 AFIB es un tensiómetro digital de brazo con tecnología de detección de arritmia (PAD, por sus siglas en inglés) declarada en su ficha técnica, la única de esta guía con esa función. Es un dato técnico de la publicación, no una recomendación médica de este sitio: si tu profesional de salud te indicó monitorear arritmia, es un aspecto a tener en cuenta al comparar modelos.
+
+## Cómo funciona
+
+Con 200 memorias (la mayor capacidad de esta guía) y tecnología MAM (que promedia 3 mediciones automáticas consecutivas), suma la tecnología PAD de detección de arritmia según su ficha técnica declarada en MercadoLibre.
+
+## La contra real
+
+El punto más honesto a señalar es el volumen de reseñas: con solo 292 calificaciones (contra miles en el resto de esta guía), hay menos historial acumulado sobre durabilidad y uso cotidiano. El precio tampoco tiene el descuento agresivo que sí tienen otros modelos de esta guía.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Omron HEM-7142](/producto/MLA24044627) (mayor volumen de reseñas), el Microlife tiene una función especializada (detección de arritmia) que el Omron no declara. Frente a la [Coronet YK-BPW4](/producto/MLA22255575) y el [Omron HEM-6124](/producto/MLA24111585) (ambos muñeca), el Microlife es de brazo con memoria mucho mayor (200 contra 30-99).
+
+## Para quién sí y para quién no
+
+Comprá el Microlife BP A200 AFIB si buscás la función de detección de arritmia declarada en ficha, idealmente si tu profesional de salud te indicó monitorear ese aspecto. No es para vos si buscás el mayor historial de reseñas posible o el precio más bajo: para eso, revisá el resto de esta guía.`,
+    faq: [
+      {
+        question: "¿Detecta arritmia de verdad?",
+        answer: "Su ficha técnica declara tecnología PAD de detección de arritmia. Es un dato de la publicación, no una validación clínica de este sitio: no reemplaza el diagnóstico de un profesional de la salud.",
+      },
+      {
+        question: "¿Por qué tiene menos reseñas que el resto de esta guía?",
+        answer: "Es un modelo más especializado (detección de arritmia) con menor volumen de venta que los tensiómetros genéricos de esta guía.",
+      },
+      {
+        question: "¿Cuántas memorias tiene?",
+        answer: "200, la mayor capacidad de esta guía.",
+      },
+      {
+        question: "¿Qué es la tecnología MAM?",
+        answer: "Promedia 3 mediciones automáticas consecutivas para dar un resultado más preciso, según lo declara la ficha técnica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Tensiómetro Digital de Brazo Microlife BP A200 AFIB",
+      image: ["https://http2.mlstatic.com/D_Q_NP_688153-MLA84480880023_052025-F.webp"],
+      description: "Tensiómetro digital de brazo Microlife BP A200 AFIB, con tecnología de detección de arritmia PAD.",
+      brand: { "@type": "Brand", name: "Microlife" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/tensiometro-digital-de-brazo-microlife-bp-a200-afib-blanco/p/MLA24533653",
+        priceCurrency: "ARS",
+        price: "117836",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "292",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva termotanque-a-gas — silo agua-caliente, categoria
+  // "termotanques-gas". Origen: research de silos flacos 2026-07-19,
+  // keyword "termotanque a gas" (22.200/mes, Keyword Planner). Fuente
+  // de sourcing: Bright Data (scrape_as_markdown) sobre MercadoLibre
+  // Argentina + fabricantes (Rheem, Escorial, Peisa, Sherman),
+  // 2026-07-19. Distinto del termotanque ELÉCTRICO ya cubierto: este
+  // requiere instalación por gasista matriculado.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA18991396",
+    title: "Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto! Color Blanco Tipo de gas GN",
+    canonicalName: "Calefón Escorial CE-14L 14L",
+    price: 361247,
+    originalPrice: 380261,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_974885-MLA99531299898_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_974885-MLA99531299898_122025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/calefon-escorial-14-lts-tiro-natural-automatico-sin-piloto-color-blanco-tipo-de-gas-gn/p/MLA18991396",
+    affiliateUrl: "https://meli.la/24URrmt",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 3298,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Escorial" },
+      { label: "Modelo", value: "CE-14L" },
+      { label: "Capacidad", value: "14 L/min" },
+      { label: "Tipo de gas", value: "GN (gas natural)" },
+      { label: "Tipo de tiraje", value: "Natural" },
+      { label: "Encendido", value: "Automático, sin llama piloto" },
+      { label: "Control", value: "Perilla" },
+      { label: "Alimentación encendido", value: "Pila tamaño D" },
+      { label: "Eficiencia energética", value: "A" },
+      { label: "Dimensiones", value: "58 x 37,2 x 24,4 cm" },
+      { label: "Seguridad", value: "Sensor de sobrecalentamiento y de fuga de gas, válvula de seguridad" },
+    ],
+    relatedProducts: ["MLA53227874", "MLA15780691", "MLA1953949492"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Calefón a gas Escorial CE-14L: el más vendido y con más reseñas de esta guía (3.298 opiniones), el precio más bajo de la comparativa. Requiere instalación por gasista matriculado.",
+    seoTitle: "Escorial CE-14L: el calefón a gas más vendido",
+    metaDescription: "Calefón a gas Escorial CE-14L 14L, el más vendido de Argentina. 3.298 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás el calefón a gas con más respaldo de compradores reales y el precio más bajo de esta guía: 3.298 calificaciones y +5 mil vendidos lo confirman. La contra real, repetida en las reseñas más útiles: la instalación tiene que ser por un gasista matriculado que respete las indicaciones del manual, porque los sensores de seguridad apagan el equipo si la salida de gases no está bien hecha. No es un defecto del producto, es una característica de seguridad que hay que respetar. No es para vos si buscás cámara estanca (no consume el aire del ambiente): para eso, el Peisa 14 TBF de esta guía.",
+    pros: [
+      "El más vendido y con más reseñas reales de esta guía: 3.298 calificaciones, +5 mil vendidos",
+      "El precio más bajo de esta comparativa",
+      "Sin llama piloto, encendido automático",
+      "Sensores de fuga de gas y sobrecalentamiento, con válvula de seguridad",
+      "Fabricante confirmado (escorial.com.ar), el modelo matchea exacto",
+    ],
+    cons: [
+      "Requiere instalación por gasista matriculado que respete la salida de gases del manual: \"si no respetan las indicaciones el calefón tiene un sensor de temperatura que lo apaga por alta temperatura en la salida\", según una reseña con 176 votos útiles",
+      "Se puede apagar si el tiraje tiene una curva muy cerca de otra salida (por ejemplo, un extractor), según otra reseña",
+      "Tiro natural, no cámara estanca: consume aire del ambiente donde está instalado",
+      "Rating (4.6) el más bajo de los calefones de esta guía, aunque sigue siendo alto",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Escorial CE-14L es un calefón a gas de 14 litros por minuto, el más vendido y con más reseñas reales de esta guía: 3.298 calificaciones. A diferencia de un termotanque eléctrico, este requiere instalación por gasista matriculado. Es la opción para quien busca el mejor precio con el mayor respaldo de compradores.
+
+## Cómo funciona
+
+Con tiro natural, encendido automático sin llama piloto y sensores de seguridad (fuga de gas y sobrecalentamiento), calienta agua a demanda sin tanque de acumulación. El fabricante (escorial.com.ar) confirma el modelo exacto.
+
+## La contra real
+
+El punto más repetido y mejor documentado en las reseñas no es una falla del producto: es la importancia de la instalación correcta. "Excelente calefón, al que lo compre tengan en cuenta la salida de gases tal cual como explica el manual, ya que si no respetan las indicaciones el calefón tiene un sensor de temperatura que lo apaga por alta temperatura en la salida", detalla la reseña más útil (176 votos). Otra reseña con 136 votos confirma: "sí o sí hay que instalarlo con un gasista matriculado ya que los sensores que tiene, si no se instala adecuadamente, generan estos problemas".
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Rheem R7-14L](/producto/MLA53227874) (mejor calificado, 4.9), el Escorial es más barato y con mucho más volumen de reseñas. Frente al [Sherman de 120L](/producto/MLA15780691) (acumulación), el Escorial es instantáneo, sin tanque. Frente al [Peisa 14 TBF](/producto/MLA1953949492) (cámara estanca), el Escorial tiene tiro natural, consume aire del ambiente.
+
+## Para quién sí y para quién no
+
+Comprá el Escorial CE-14L si buscás el mejor precio con el mayor respaldo de compradores reales, y contratás un gasista matriculado que instale la salida de gases correctamente. No es para vos si tu baño no tiene buena ventilación: para eso, el [Peisa 14 TBF](/producto/MLA1953949492) de esta guía, con cámara estanca, no consume aire del ambiente.`,
+    faq: [
+      {
+        question: "¿Necesita instalación por gasista matriculado?",
+        answer: "Sí, como todo calefón a gas. Varias reseñas reales confirman que una instalación incorrecta de la salida de gases activa los sensores de seguridad y apaga el equipo.",
+      },
+      {
+        question: "¿Por qué es el más barato de esta guía?",
+        answer: "Es el modelo de entrada de la gama, con tiro natural (no forzado ni cámara estanca) y sin las funciones premium de modelos más caros de la categoría.",
+      },
+      {
+        question: "¿Tiene llama piloto?",
+        answer: "No, tiene encendido automático sin llama piloto, según su ficha técnica.",
+      },
+      {
+        question: "¿Es el mismo tipo que un termotanque eléctrico?",
+        answer: "No. Este calefón funciona a gas y necesita instalación por gasista matriculado. Si buscás un modelo que se auto-instala, revisá la guía de [termotanque eléctrico](/guias/agua-caliente/termotanque-electrico) del sitio.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Calefón Escorial CE-14L",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_974885-MLA99531299898_122025-O.webp"],
+      description: "Calefón a gas Escorial CE-14L, 14 litros por minuto, tiro natural, sin llama piloto.",
+      brand: { "@type": "Brand", name: "Escorial" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/calefon-escorial-14-lts-tiro-natural-automatico-sin-piloto-color-blanco-tipo-de-gas-gn/p/MLA18991396",
+        priceCurrency: "ARS",
+        price: "361247",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "3298",
+      },
+    },
+  },
+  {
+    id: "MLA53227874",
+    title: "Calefón Rheem Gas Natural R7-14l-gn-xi-d 14lts Sin Piloto Color Blanco Tipo De Gas Gn",
+    canonicalName: "Calefón Rheem R7-14L-GN-XI-D 14L",
+    price: 581153,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_936927-MLA99464331576_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_936927-MLA99464331576_112025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/calefon-rheem-gas-natural-r7-14l-gn-xi-d-14lts-sin-piloto-color-blanco-tipo-de-gas-gn/p/MLA53227874",
+    affiliateUrl: "https://meli.la/2qjBJJ1",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 175,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Rheem" },
+      { label: "Línea", value: "Residencial" },
+      { label: "Modelo", value: "R7-14L-GN-XI-D" },
+      { label: "Capacidad", value: "14 L/min" },
+      { label: "Tipo de gas", value: "GN (gas natural)" },
+      { label: "Tipo de tiraje", value: "Natural" },
+      { label: "Potencia", value: "23,26 kW" },
+      { label: "Encendido", value: "Eléctrico 220V, sin llama piloto (según fabricante rheem.com.ar)" },
+      { label: "Control", value: "Táctil" },
+      { label: "Eficiencia energética", value: "A" },
+      { label: "Dimensiones", value: "63 x 35 x 19 cm" },
+    ],
+    relatedProducts: ["MLA18991396", "MLA15780691", "MLA1953949492"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Calefón a gas Rheem R7-14L: el mejor calificado de esta guía (4.9 estrellas), con control táctil y encendido eléctrico. Fabricante confirmado, aunque con stock limitado al momento de revisar.",
+    seoTitle: "Rheem R7-14L: el calefón a gas mejor calificado",
+    metaDescription: "Calefón a gas Rheem R7-14L 14L, panel táctil. 4.9 estrellas, 175 opiniones reales. Precio actualizado.",
+    verdict: "Sirve si buscás el calefón a gas mejor calificado de esta guía (4.9 estrellas) con panel de control táctil, confirmado por el fabricante (rheem.com.ar): conexión eléctrica de 220V para todo el control. Ojo con el stock: al momento de revisar el precio, el listado principal mostraba pocas unidades disponibles; verificalo antes de comprar. No es para vos si el volumen de reseñas es tu prioridad: el Escorial de esta guía tiene casi 19 veces más calificaciones.",
+    pros: [
+      "El mejor calificado de esta guía: 4.9 estrellas",
+      "Control táctil, encendido eléctrico sin llama piloto",
+      "Fabricante confirmado (rheem.com.ar), modelo y specs matchean exacto",
+      "Eficiencia energética A",
+      "Marca internacional reconocida en climatización",
+    ],
+    cons: [
+      "Una reseña real menciona que la pantalla depende de 2 pilas tamaño D, aunque el fabricante declara conexión eléctrica de 220V para todo el control — no pudimos confirmar cuál versión es la correcta, dejamos ambos datos",
+      "175 calificaciones, bastante menos volumen que el Escorial (3.298) o el Sherman (1.281) de esta guía",
+      "Stock ajustado en el listado principal al momento de revisar: verificar disponibilidad antes de comprar",
+      "Requiere instalación por gasista matriculado, como todo calefón a gas",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Rheem R7-14L-GN-XI-D es un calefón a gas de 14 litros por minuto, el mejor calificado de esta guía con 4.9 estrellas. Es la opción para quien prioriza el rating más alto y un panel de control táctil, con el respaldo de una marca internacional confirmada por su fabricante.
+
+## Cómo funciona
+
+Con tiro natural, encendido eléctrico sin llama piloto y control táctil, el fabricante rheem.com.ar confirma el modelo exacto: "panel digital touch screen, 3 sistemas de seguridad, sin llama piloto". La potencia declarada es 23,26 kW.
+
+## La contra real
+
+El calefón se conecta a 220V para todo el control, según confirma el fabricante. Hay una discrepancia que preferimos mostrar tal cual, sin resolverla a favor de ninguna fuente: una reseña real describe un problema con pilas ("es la primera vez que tengo calefón... lo malo es que usa dos baterías de las más grandes, que no se consiguen recargables... desde hace 5 semanas que la pantalla marca baja batería"), algo que no coincide con la especificación oficial de 220V. Puede tratarse de una variante distinta o un error del comprador; no lo confirmamos. Además, al momento de revisar el precio para esta guía, el listado principal mostraba pocas unidades disponibles — conviene verificar stock antes de comprar.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Escorial CE-14L](/producto/MLA18991396) (el más vendido), el Rheem tiene mejor rating pero mucho menos volumen de reseñas (175 contra 3.298) y cuesta más. Frente al [Sherman de 120L](/producto/MLA15780691) (acumulación), el Rheem es instantáneo. Frente al [Peisa 14 TBF](/producto/MLA1953949492) (cámara estanca), el Rheem tiene tiro natural.
+
+## Para quién sí y para quién no
+
+Comprá el Rheem R7-14L si el rating más alto y el panel táctil son tu prioridad, y confirmás stock disponible antes de comprar. No es para vos si preferís el mayor volumen de reseñas reales o el precio más bajo: para eso, el [Escorial CE-14L](/producto/MLA18991396) de esta guía.`,
+    faq: [
+      {
+        question: "¿Por qué tiene menos reseñas que el Escorial?",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual (175 contra 3.298 calificaciones), aunque su rating (4.9) es el más alto de esta guía.",
+      },
+      {
+        question: "¿El encendido funciona con pilas?",
+        answer: "Según el fabricante, no: el calefón se conecta a 220V para todo el control. Una reseña real menciona un problema con pilas tamaño D en la pantalla, que no coincide con esa especificación oficial — lo dejamos señalado como una discrepancia sin resolver, no como un dato confirmado.",
+      },
+      {
+        question: "¿Hay stock disponible?",
+        answer: "Al momento de revisar el precio para esta guía, el listado principal mostraba pocas unidades. Verificá disponibilidad en vivo antes de comprar.",
+      },
+      {
+        question: "¿Necesita instalación especial?",
+        answer: "Sí, como todo calefón a gas, requiere instalación por gasista matriculado.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Calefón Rheem R7-14L-GN-XI-D",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_936927-MLA99464331576_112025-O.webp"],
+      description: "Calefón a gas Rheem R7-14L, 14 litros por minuto, panel táctil, sin llama piloto.",
+      brand: { "@type": "Brand", name: "Rheem" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/calefon-rheem-gas-natural-r7-14l-gn-xi-d-14lts-sin-piloto-color-blanco-tipo-de-gas-gn/p/MLA53227874",
+        priceCurrency: "ARS",
+        price: "581153",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "175",
+      },
+    },
+  },
+  {
+    id: "MLA15780691",
+    title: "Termotanque A Gas 120 Lts Sherman Tpgp120msh13 Superior Apoy Color Blanco",
+    canonicalName: "Termotanque a Gas Sherman TPGP120MSH13 120L",
+    price: 562759,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_733439-MLA111033124484_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_733439-MLA111033124484_052026-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/termotanque-a-gas-120-lts-sherman-tpgp120msh13-superior-apoy-color-blanco/p/MLA15780691",
+    affiliateUrl: "https://meli.la/2Gnu72L",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1281,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Sherman (tecnología Rheem)" },
+      { label: "Línea", value: "Gas" },
+      { label: "Modelo", value: "TPGP120MSH13" },
+      { label: "Tipo", value: "Acumulación (tanque)" },
+      { label: "Capacidad", value: "120 L" },
+      { label: "Tipo de gas", value: "Multigas (GN y GLP)" },
+      { label: "Recuperación GN", value: "296 L/h" },
+      { label: "Recuperación GLP", value: "289 L/h" },
+      { label: "Encendido", value: "Manual" },
+      { label: "Eficiencia energética", value: "C" },
+      { label: "Diámetro", value: "45 cm" },
+      { label: "Peso", value: "36 kg" },
+      { label: "Seguridad", value: "Válvula de seguridad, válvula de desagüe, aislamiento térmico, protección anticorrosiva" },
+    ],
+    relatedProducts: ["MLA18991396", "MLA53227874", "MLA1953949492"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Termotanque a gas Sherman TPGP120MSH13: el único de acumulación (120L) de esta guía, ideal para varios baños o poca presión de gas. 1.281 opiniones reales.",
+    seoTitle: "Sherman 120L: termotanque a gas de acumulación",
+    metaDescription: "Termotanque a gas Sherman TPGP120MSH13 120L, tecnología Rheem, multigas. 1.281 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás un termotanque de acumulación (tanque de 120 litros) en vez de uno instantáneo: mejor opción si tenés varios baños que usan agua caliente a la vez o poca presión de gas. Tiene 1.281 opiniones reales, tecnología Rheem y multigas (GN y GLP). La contra real: no viene con accesorios de instalación completos, según una reseña. No es para vos si buscás un calefón instantáneo compacto: para eso, el Escorial o el Rheem de esta guía.",
+    pros: [
+      "El único de acumulación (tanque) de esta guía: mejor para varios baños simultáneos o poca presión de gas",
+      "1.281 calificaciones reales, buen volumen",
+      "Multigas: funciona con gas natural o gas envasado",
+      "Tecnología Rheem (Sherman es la línea de entrada de ese fabricante)",
+      "Aislamiento térmico y protección anticorrosiva declarados",
+    ],
+    cons: [
+      "No viene con accesorios completos de instalación, según una reseña: \"no viene con ningún accesorio, salvo una válvula de seguridad plástica que el instalador matriculado prefirió no usar\"",
+      "Encendido manual, no automático como los calefones instantáneos de esta guía",
+      "Eficiencia energética C, la más baja declarada de esta guía",
+      "Requiere instalación por gasista matriculado, como todo producto a gas",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Sherman TPGP120MSH13 es un termotanque a gas de acumulación (tanque de 120 litros), el único de este tipo en esta guía. A diferencia de los calefones instantáneos, acumula agua caliente en un tanque, lo que amortigua mejor la demanda cuando varios baños se usan a la vez o cuando hay poca presión de gas.
+
+## Cómo funciona
+
+Con tecnología Rheem (Sherman es la línea de entrada de ese fabricante para ferreterías) y compatibilidad multigas (GN y GLP), tiene una recuperación de 296 L/h con gas natural. El fabricante (termotanquesherman.com.ar) confirma el modelo exacto.
+
+## La contra real
+
+Una reseña con 10 votos útiles señala un problema concreto de instalación: "no viene con ningún accesorio, salvo una válvula de seguridad plástica que el instalador matriculado (una persona de larguísima experiencia) prefirió no usar y dejar la anterior. Y se aprecian algunos pequeños golpes en dos lugares del exterior". Otra reseña con 9 votos, con fotos, confirma que "no se calientan las paredes del termotanque para nada", un dato positivo sobre el aislamiento.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Escorial CE-14L](/producto/MLA18991396) y el [Rheem R7-14L](/producto/MLA53227874) (ambos instantáneos), el Sherman acumula agua en un tanque, mejor para demanda simultánea de varios baños. Frente al [Peisa 14 TBF](/producto/MLA1953949492), el Sherman es de acumulación, no instantáneo con cámara estanca.
+
+## Para quién sí y para quién no
+
+Comprá el Sherman TPGP120MSH13 si tenés varios baños que usan agua caliente a la vez o poca presión de gas en tu zona. No es para vos si buscás un equipo compacto instantáneo: para eso, el [Escorial CE-14L](/producto/MLA18991396) de esta guía.`,
+    faq: [
+      {
+        question: "¿Qué diferencia hay con un calefón instantáneo?",
+        answer: "El Sherman acumula agua caliente en un tanque de 120 litros, mientras que el Escorial o el Rheem de esta guía calientan el agua al momento, sin tanque. La acumulación amortigua mejor la demanda de varios baños simultáneos.",
+      },
+      {
+        question: "¿Trae todos los accesorios de instalación?",
+        answer: "No completos, según una reseña real: la válvula de seguridad incluida era de plástico y el instalador matriculado prefirió no usarla.",
+      },
+      {
+        question: "¿Funciona con gas envasado?",
+        answer: "Sí, es multigas: funciona tanto con gas natural como con gas envasado (GLP), según su ficha técnica.",
+      },
+      {
+        question: "¿Necesita instalación especial?",
+        answer: "Sí, como todo producto a gas, requiere instalación por gasista matriculado.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Termotanque a Gas Sherman TPGP120MSH13",
+      image: ["https://http2.mlstatic.com/D_Q_NP_733439-MLA111033124484_052026-F.webp"],
+      description: "Termotanque a gas Sherman TPGP120MSH13, 120 litros, acumulación, multigas, tecnología Rheem.",
+      brand: { "@type": "Brand", name: "Sherman" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/termotanque-a-gas-120-lts-sherman-tpgp120msh13-superior-apoy-color-blanco/p/MLA15780691",
+        priceCurrency: "ARS",
+        price: "562759",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "1281",
+      },
+    },
+  },
+  {
+    id: "MLA1953949492",
+    title: "Calefon A Gas Peisa 14 Litros Tiro Forzado Tbf Digital",
+    canonicalName: "Calefón Peisa 14 TBF (cámara estanca)",
+    price: 674999,
+    originalPrice: 749999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_845268-MLA94072097601_102025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_845268-MLA94072097601_102025-O.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/calefon-a-gas-peisa-14-litros-tiro-forzado-tbf-digital/up/MLAU2711120923",
+    affiliateUrl: "https://meli.la/2PfXrSd",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 37,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Peisa" },
+      { label: "Línea", value: "TBF (tiro balanceado forzado)" },
+      { label: "Capacidad", value: "15 L/min" },
+      { label: "Tipo de gas", value: "GN (gas natural)" },
+      { label: "Tipo de tiraje", value: "Forzado, cámara estanca (según fabricante)" },
+      { label: "Potencia", value: "25,58 kW" },
+      { label: "Encendido", value: "Automático, sin llama piloto" },
+      { label: "Control", value: "Digital" },
+      { label: "Dimensiones", value: "70,5 x 38 x 25,5 cm" },
+      { label: "Seguridad", value: "Sensores de fuga de gas y sobrecalentamiento, válvula de seguridad" },
+    ],
+    relatedProducts: ["MLA18991396", "MLA53227874", "MLA15780691"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Calefón a gas Peisa 14 TBF: el único de esta guía con cámara estanca (no consume aire del ambiente), según el propio fabricante. Ideal para baños sin buena ventilación.",
+    seoTitle: "Peisa 14 TBF: calefón con cámara estanca",
+    metaDescription: "Calefón a gas Peisa 14 TBF, cámara estanca, digital. 4.8 estrellas, precio actualizado y contras honestas.",
+    verdict: "Sirve si tu baño no tiene buena ventilación: es el único calefón de esta guía con cámara estanca según el propio fabricante (peisa.com.ar la llama \"TBF: tiro balanceado forzado\", aunque MercadoLibre lo categoriza como \"forzado\" a secas — aclaramos la diferencia para que no te confundas). No consume el aire del ambiente donde está instalado. La contra real: al depender de corriente eléctrica (220V, igual que el Rheem de esta guía), si se corta la luz no tenés agua caliente. El Escorial (a pila) y el Sherman (encendido manual) de esta guía no tienen esa dependencia. No es para vos si buscás el precio más bajo: es más caro que el Escorial o el Rheem de esta guía.",
+    pros: [
+      "El único con cámara estanca de esta guía (según el fabricante): no consume el aire del ambiente donde está instalado",
+      "Fabricante confirmado (peisa.com.ar), modelo matchea exacto",
+      "Control digital, sin llama piloto",
+      "4.8 estrellas, buen rating",
+      "Varias reseñas destacan la regulación precisa de temperatura",
+    ],
+    cons: [
+      "Si se corta la luz, no hay agua caliente: \"solo tengan en cuenta que si se corta la luz, no tendrán agua caliente. Volvería a comprarlo\", según una reseña con 3 votos útiles",
+      "37 calificaciones, la base más chica de esta guía",
+      "Más caro que el Escorial o el Sherman de esta guía",
+      "Discrepancia de nomenclatura: MercadoLibre lo categoriza como tiraje \"Forzado\" a secas, mientras el fabricante lo llama \"TBF: tiro balanceado forzado\" (cámara estanca) — el dato del fabricante es el más preciso",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Peisa 14 TBF es un calefón a gas con cámara estanca (según el propio fabricante), el único de esta guía con esa característica. Es la opción para quien instala el calefón en un baño chico o sin buena ventilación, ya que no consume el aire del ambiente.
+
+## Cómo funciona
+
+Con control digital, encendido automático sin llama piloto y una capacidad de 15 L/min, el fabricante (peisa.com.ar) confirma el modelo exacto y aclara que la línea TBF significa "tiro balanceado forzado": "único que no consume el aire del ambiente". Es un dato importante porque la ficha técnica de MercadoLibre categoriza el tiraje solo como "Forzado", sin mencionar la cámara estanca — preferimos el dato del fabricante, más preciso.
+
+## La contra real
+
+Depende de corriente eléctrica para funcionar (igual que el Rheem de esta guía, pero a diferencia del Escorial a pila o el Sherman de encendido manual). "Muy fácil de instalar. Solo tengan en cuenta que si se corta la luz, no tendrán agua caliente. Volvería a comprarlo", resume una reseña real. Otra reseña destaca la regulación de temperatura: "mantiene el nivel de presión y no cambia la temperatura, era un problema que tenía con el calefón anterior".
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [Escorial CE-14L](/producto/MLA18991396) (tiro natural, más barato), el Peisa tiene cámara estanca, ideal para baños sin ventilación. Frente al [Rheem R7-14L](/producto/MLA53227874) (también tiro natural), la diferencia es la misma. Frente al [Sherman de 120L](/producto/MLA15780691) (acumulación), el Peisa es instantáneo.
+
+## Para quién sí y para quién no
+
+Comprá el Peisa 14 TBF si tu baño no tiene buena ventilación y necesitás un equipo que no consuma el aire del ambiente. No es para vos si buscás el precio más bajo: para eso, el [Escorial CE-14L](/producto/MLA18991396) de esta guía.`,
+    faq: [
+      {
+        question: "¿Qué es la cámara estanca?",
+        answer: "Es un sistema de tiraje que no consume el aire del ambiente donde está instalado el calefón, según lo confirma el fabricante Peisa. Es el único de esta guía con esa característica, ideal para baños chicos o sin buena ventilación.",
+      },
+      {
+        question: "¿Funciona si se corta la luz?",
+        answer: "No, según una reseña real: el encendido y control dependen de corriente eléctrica (220V), igual que el Rheem de esta guía. El Escorial (a pila) y el Sherman (encendido manual) de esta guía no tienen esa dependencia.",
+      },
+      {
+        question: "¿Por qué MercadoLibre no menciona la cámara estanca?",
+        answer: "La ficha técnica de MercadoLibre categoriza el tiraje solo como \"Forzado\", sin especificar la cámara estanca. Confirmamos ese dato directo con el fabricante (peisa.com.ar), que sí lo declara explícitamente.",
+      },
+      {
+        question: "¿Necesita instalación especial?",
+        answer: "Sí, como todo calefón a gas, requiere instalación por gasista matriculado.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Calefón Peisa 14 TBF",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_845268-MLA94072097601_102025-O.webp"],
+      description: "Calefón a gas Peisa 14 TBF, cámara estanca, control digital, sin llama piloto.",
+      brand: { "@type": "Brand", name: "Peisa" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/calefon-a-gas-peisa-14-litros-tiro-forzado-tbf-digital/up/MLAU2711120923",
+        priceCurrency: "ARS",
+        price: "674999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "37",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cerradura-inteligente — silo seguridad, categoria
+  // "cerraduras-inteligentes". Origen: research de silos flacos
+  // 2026-07-19, keyword "cerradura inteligente" (1.900-2.900/mes,
+  // Keyword Planner, dificultad SEO más baja del barrido). Fuente de
+  // sourcing: Bright Data (scrape_as_markdown) sobre MercadoLibre
+  // Argentina + fabricante (Aqara), 2026-07-19.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA37807940",
+    title: "Ezviz CS-DL05 Cerradura Inteligente Con Huella Dactilar Color Gris",
+    canonicalName: "Cerradura Inteligente Ezviz CS-DL05",
+    price: 347510,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_707057-MLA113671056255_062026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_707057-MLA113671056255_062026-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/ezviz-cs-dl05-cerradura-inteligente-con-huella-dactilar-color-gris/p/MLA37807940",
+    affiliateUrl: "https://meli.la/1iX2tks",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 2275,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "EZVIZ (By Hikvision)" },
+      { label: "Modelo", value: "CS-DL05" },
+      { label: "Métodos de apertura", value: "Huella digital, contraseña, tarjeta MIFARE (RFID), llave mecánica de emergencia" },
+      { label: "Tipo de instalación", value: "Empotrable (reemplaza cerradura de embutir)" },
+      { label: "Grosor de puerta compatible", value: "3-11 cm (según ficha; una reseña reportó que el vástago incluido no llega a puertas de 8,5 cm)" },
+      { label: "Alimentación", value: "8 pilas AA (no incluidas)" },
+      { label: "Conectividad", value: "WiFi 2.4GHz y Bluetooth" },
+      { label: "Capacidad", value: "Hasta 50 huellas/tarjetas/contraseñas" },
+      { label: "Resistencia", value: "IP65 en panel frontal" },
+      { label: "Autonomía", value: "Hasta 365 días en modo Bluetooth (menos con WiFi activo)" },
+      { label: "Carga de emergencia", value: "USB-C" },
+      { label: "Alarma antiviolación", value: "Sí, traba 3 minutos tras 5 intentos fallidos" },
+    ],
+    relatedProducts: ["MLA52016410", "MLA38827156", "MLA45403665"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Cerradura inteligente Ezviz CS-DL05: la más vendida y calificada de esta guía, con 2.275 opiniones reales. Huella digital, tarjeta RFID y clave, con alarma antiviolación.",
+    seoTitle: "Ezviz CS-DL05: la cerradura inteligente más vendida",
+    metaDescription: "Cerradura inteligente Ezviz CS-DL05, con huella digital y tarjeta RFID. 2.275 opiniones reales, 4.9 estrellas. Precio actualizado.",
+    verdict: "Sirve si buscás la cerradura inteligente con más respaldo de compradores reales de esta guía: 2.275 calificaciones, muy por encima del resto. Cubre 4 métodos de apertura (huella, tarjeta, clave, llave de emergencia) con WiFi y Bluetooth. La contra real, repetida en varias reseñas independientes: el vástago del cerrojo que trae de fábrica puede ser más corto que el grosor real de tu puerta, así que hay que medir antes de instalar. No es para vos si tu puerta ya tiene una cerradura y no querés cambiar el cilindro: para eso, el Aqara U200 de esta guía se instala por fuera (retrofit).",
+    pros: [
+      "La más vendida y calificada de esta guía: 2.275 opiniones reales",
+      "4 métodos de apertura: huella digital, tarjeta RFID, clave, llave mecánica de emergencia",
+      "WiFi y Bluetooth, con hasta 365 días de autonomía en modo Bluetooth",
+      "Alarma antiviolación: traba 3 minutos tras 5 intentos fallidos",
+      "Carga de emergencia por USB-C si se agotan las pilas",
+    ],
+    cons: [
+      "El vástago del cerrojo puede ser más corto que el grosor real de tu puerta, según varias reseñas independientes: \"decía que era apto para aberturas de 30mm a 110mm de espesor. Mi puerta tiene 85mm y no llega el vástago que trae\", con 52 votos útiles",
+      "Requiere pilas AA (8 unidades, no incluidas)",
+      "La instalación lleva trabajo y precisión en las medidas, según una reseña con 24 votos útiles",
+      "No se encontró página oficial de EZVIZ con ficha específica de este modelo para cruzar specs adicionales",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Ezviz CS-DL05 es una cerradura inteligente empotrable (reemplaza el mecanismo interno de una cerradura de embutir), la más vendida y calificada de esta guía. Es la opción para quien busca el mayor respaldo de compradores reales con múltiples métodos de apertura.
+
+## Cómo funciona
+
+Con huella digital, tarjeta RFID, clave numérica y llave mecánica de emergencia, conecta por WiFi y Bluetooth con hasta 365 días de autonomía en modo Bluetooth. La alarma antiviolación traba el dispositivo 3 minutos tras 5 intentos fallidos.
+
+## La contra real
+
+El problema más específico y repetido en las reseñas no es de funcionamiento, sino de medidas: "en la descripción decía que era apto para aberturas de 30mm a 110mm de espesor. Mi puerta tiene 85mm y no llega el vástago que trae. Tuve que comprar otro", detalla una reseña con 52 votos útiles. Otra reseña con 24 votos confirma: "para montarla lleva algo de trabajo y maña. Hay que asegurar bien las medidas". Medir tu puerta antes de comprar evita este problema.
+
+## Cómo se compara con los otros de esta guía
+
+Frente al [FIKA FIK-SML01](/producto/MLA52016410) (más barata), la Ezviz cuesta más pero con mucho más volumen de reseñas reales. Frente al [Aqara U200](/producto/MLA38827156) (instalación por fuera, sin tocar el cilindro), la Ezviz es empotrable, requiere reemplazar el mecanismo interno. Frente al [Aqara U300](/producto/MLA45403665) (también empotrable), ambas comparten el tipo de instalación, pero la Ezviz tiene mucho más volumen de reseñas.
+
+## Para quién sí y para quién no
+
+Comprá la Ezviz CS-DL05 si buscás el mayor respaldo de compradores reales y no te importa reemplazar el mecanismo interno de tu cerradura. No es para vos si tu puerta tiene un grosor fuera de lo común (medilo antes) o si preferís no tocar el cilindro exterior: para eso, el [Aqara U200](/producto/MLA38827156) de esta guía se instala por fuera.`,
+    faq: [
+      {
+        question: "¿El vástago del cerrojo se ajusta a cualquier puerta?",
+        answer: "No siempre: varias reseñas reales reportan que el vástago incluido no llega al grosor de puertas más gruesas de lo declarado. Medí tu puerta antes de instalar.",
+      },
+      {
+        question: "¿Qué métodos de apertura tiene?",
+        answer: "Huella digital, tarjeta RFID, clave numérica y llave mecánica de emergencia por si fallan los demás.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "Hasta 365 días en modo Bluetooth, según su ficha técnica. Con WiFi activo la autonomía es menor. Usa 8 pilas AA, no incluidas.",
+      },
+      {
+        question: "¿Es fácil de instalar?",
+        answer: "Requiere precisión en las medidas, según reseñas reales. Es empotrable: reemplaza el mecanismo interno de una cerradura de embutir existente.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cerradura Inteligente Ezviz CS-DL05",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_707057-MLA113671056255_062026-O.webp"],
+      description: "Cerradura inteligente Ezviz CS-DL05, con huella digital, tarjeta RFID y clave.",
+      brand: { "@type": "Brand", name: "EZVIZ" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ezviz-cs-dl05-cerradura-inteligente-con-huella-dactilar-color-gris/p/MLA37807940",
+        priceCurrency: "ARS",
+        price: "347510",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "2275",
+      },
+    },
+  },
+  {
+    id: "MLA52016410",
+    title: "Cerradura Smart Lock Electrónica Digital Inteligente Fika con Huella Tarjeta Wifi App Color Negro",
+    canonicalName: "Cerradura Inteligente Fika FIK-SML01",
+    price: 113635,
+    originalPrice: 149999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_831640-MLA105691810931_012026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_831640-MLA105691810931_012026-F.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/cerradura-smart-lock-electronica-digital-inteligente-fika-con-huella-tarjeta-wifi-app-color-negro/p/MLA52016410",
+    affiliateUrl: "https://meli.la/2AYvtuV",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 472,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-coral)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Fika (línea FIKA LYNK)" },
+      { label: "Modelo", value: "FIK-SML01" },
+      { label: "Métodos de apertura", value: "App remota (WiFi), contraseña numérica, huella, llave, tarjeta RFID" },
+      { label: "Tipo de instalación", value: "Empotrable (mortaja), espesor de puerta 40-80mm" },
+      { label: "Alimentación", value: "4 pilas AA (no incluidas, hasta 12 meses declarado)" },
+      { label: "Conectividad", value: "WiFi (sin Bluetooth)" },
+      { label: "Capacidad", value: "Hasta 100 huellas/tarjetas/códigos" },
+      { label: "Función antishock", value: "Sí" },
+      { label: "Carga de emergencia", value: "USB-C" },
+      { label: "Incluye picaporte", value: "Sí" },
+    ],
+    relatedProducts: ["MLA37807940", "MLA38827156", "MLA45403665"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Cerradura inteligente Fika FIK-SML01: la más económica de esta guía, con 472 opiniones reales y el mayor volumen de ventas absoluto de la categoría en MercadoLibre.",
+    seoTitle: "Fika FIK-SML01: la cerradura inteligente más vendida",
+    metaDescription: "Cerradura inteligente Fika FIK-SML01, con huella, tarjeta y app WiFi. 472 opiniones reales, 24% OFF. Precio actualizado.",
+    verdict: "Sirve si buscás la cerradura inteligente más barata de esta guía con buen volumen de ventas real (badge \"más vendido\" de la categoría). Cubre huella, tarjeta, clave y app WiFi. La contra real: hay al menos una reseña de Argentina detallada y negativa sobre la confiabilidad del sensor de huella y la tarjeta, algo que vale la pena conocer antes de comprar. No es para vos si preferís la opción con mejor historial de confiabilidad: para eso, la Ezviz CS-DL05 de esta guía tiene casi 5 veces más reseñas.",
+    pros: [
+      "La más barata de esta guía, con 24% de descuento",
+      "Badge \"más vendido\" de la categoría completa en MercadoLibre",
+      "472 calificaciones reales",
+      "4 métodos de apertura: app WiFi, clave, huella, tarjeta RFID",
+      "Hasta 100 huellas/tarjetas/códigos registrables",
+    ],
+    cons: [
+      "Al menos una reseña real de Argentina reporta problemas de confiabilidad: \"la cerradura es malísima no la recomiendo para nada, deja de leer la huella todo el tiempo... la tarjeta que trae abre cuando quiere. Siempre marca error\", con 23 votos útiles",
+      "Sin Bluetooth, solo WiFi",
+      "Instalación no siempre sencilla si tu puerta ya tenía otra cerradura, según una reseña",
+      "No se encontró página oficial de FIKA para cruzar specs adicionales (marca de reventa regional, normal según nuestro proceso de sourcing)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Fika FIK-SML01 es una cerradura inteligente empotrable, la más económica de esta guía y con el mayor volumen de ventas absoluto de la categoría en MercadoLibre. Es la opción para quien prioriza el precio con buen respaldo de ventas reales.
+
+## Cómo funciona
+
+Con apertura por app WiFi, clave numérica, huella digital y tarjeta RFID, permite hasta 100 usuarios registrados entre huellas, tarjetas y códigos. Incluye picaporte y carga de emergencia por USB-C.
+
+## La contra real
+
+Encontramos una reseña de Argentina detallada y honesta que vale la pena conocer antes de comprar: "la cerradura es malísima no la recomiendo para nada, deja de leer la huella todo el tiempo... la tarjeta que trae abre cuando quiere. Siempre marca error... la app tampoco cumple ninguna función útil, no te abre la puerta", con 23 votos útiles. No es la experiencia mayoritaria (472 calificaciones con buen promedio), pero es un contra real y específico que preferimos mostrar tal cual.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Ezviz CS-DL05](/producto/MLA37807940) (mucho más volumen de reseñas), la Fika es bastante más barata pero con menos historial de confiabilidad. Frente al [Aqara U200](/producto/MLA38827156) y [U300](/producto/MLA45403665) (ambas más caras), la Fika cubre lo esencial a una fracción del precio.
+
+## Para quién sí y para quién no
+
+Comprá la Fika FIK-SML01 si el precio es tu prioridad y el volumen de ventas te da confianza suficiente. No es para vos si preferís el mayor historial de confiabilidad posible: para eso, la [Ezviz CS-DL05](/producto/MLA37807940) de esta guía tiene casi 5 veces más reseñas.`,
+    faq: [
+      {
+        question: "¿Es confiable el sensor de huella?",
+        answer: "La mayoría de las 472 calificaciones son positivas, pero encontramos al menos una reseña real de Argentina que reporta fallas de lectura repetidas. Vale la pena conocerlo antes de decidir.",
+      },
+      {
+        question: "¿Tiene Bluetooth?",
+        answer: "No, solo WiFi, según su ficha técnica.",
+      },
+      {
+        question: "¿Por qué es tan barata?",
+        answer: "Es una marca de reventa regional sin el respaldo de marca internacional que sí tienen las Aqara de esta guía, aunque tiene el mayor volumen de ventas absoluto de la categoría en MercadoLibre.",
+      },
+      {
+        question: "¿Cuántos usuarios admite?",
+        answer: "Hasta 100, entre huellas, tarjetas y códigos combinados, según su ficha técnica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cerradura Inteligente Fika FIK-SML01",
+      image: ["https://http2.mlstatic.com/D_Q_NP_831640-MLA105691810931_012026-F.webp"],
+      description: "Cerradura inteligente Fika FIK-SML01, con huella, tarjeta RFID y app WiFi.",
+      brand: { "@type": "Brand", name: "Fika" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cerradura-smart-lock-electronica-digital-inteligente-fika-con-huella-tarjeta-wifi-app-color-negro/p/MLA52016410",
+        priceCurrency: "ARS",
+        price: "113635",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "472",
+      },
+    },
+  },
+  {
+    id: "MLA38827156",
+    title: "Cerradura Digital Aqara U200 Derecha/izquierda Color Negro Acero Inoxidable",
+    canonicalName: "Cerradura Inteligente Aqara Smart Lock U200",
+    price: 520999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_902173-MLA99443767266_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_902173-MLA99443767266_112025-F.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/cerradura-digital-aqara-u200-derechaizquierda-color-negro-acero-inoxidable/p/MLA38827156",
+    affiliateUrl: "https://meli.la/1yW4yxp",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 7,
+    soldQuantity: 5,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Aqara" },
+      { label: "Modelo", value: "Smart Lock U200" },
+      { label: "Acabado", value: "Acero inoxidable, negro" },
+      { label: "Métodos de apertura", value: "App, Apple Home Key, asistente de voz, contraseña, huella digital, tarjeta NFC, llave" },
+      { label: "Tipo de instalación", value: "Retrofit: reemplaza solo la parte interior, conserva el cilindro exterior existente" },
+      { label: "Alimentación", value: "Batería recargable por USB, hasta 6 meses de autonomía" },
+      { label: "Protocolos", value: "Thread, Matter, compatible Apple HomeKit / Google Home / Alexa / SmartThings" },
+      { label: "Resistencia", value: "IPX5" },
+      { label: "Espesor de puerta compatible", value: "6-7 cm" },
+    ],
+    relatedProducts: ["MLA37807940", "MLA52016410", "MLA45403665"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Cerradura inteligente Aqara U200: la única de esta guía con instalación retrofit (no toca el cilindro exterior existente). Compatible con Apple Home Key, confirmado explícito en su ficha de MercadoLibre. La más cara de la comparativa, con base de reseñas chica.",
+    seoTitle: "Aqara U200: cerradura retrofit compatible con Apple",
+    metaDescription: "Cerradura inteligente Aqara U200, instalación retrofit, compatible Apple Home Key. Fabricante confirmado. Precio actualizado.",
+    verdict: "Sirve si no querés reemplazar el cilindro exterior de tu cerradura actual: es la única de esta guía con instalación retrofit, que conserva la parte exterior existente. Es también la única de esta guía con Apple Home Key confirmado explícito en su ficha de MercadoLibre (el Aqara U300 también lo soporta según el fabricante, pero su ficha de ML no lo declara). La contra real: tiene la base de reseñas más chica de esta guía (7 opiniones) y es la más cara. No es para vos si buscás el mayor historial de compradores reales: para eso, la Ezviz CS-DL05 de esta guía tiene cientos de veces más reseñas.",
+    pros: [
+      "La única de esta guía con instalación retrofit: no reemplaza el cilindro exterior existente",
+      "Compatible con Apple Home Key, confirmado explícito en su ficha de MercadoLibre",
+      "Fabricante confirmado (aqara.com), specs y dimensiones matchean",
+      "Compatible con Thread, Matter, Apple HomeKit, Google Home, Alexa y SmartThings",
+      "Batería recargable por USB, hasta 6 meses de autonomía",
+    ],
+    cons: [
+      "La base de reseñas más chica de esta guía: solo 7 opiniones",
+      "La más cara de la comparativa",
+      "La conexión por Matter no siempre funciona bien, según una reseña",
+      "La instalación no es de las más intuitivas si preferís no perforar ni tocar nada, según otra reseña",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Aqara Smart Lock U200 es una cerradura inteligente de instalación retrofit: a diferencia del resto de esta guía, no reemplaza el cilindro exterior de tu puerta, solo la parte interior. Es la opción para quien no quiere perforar ni cambiar la cerradura existente, y para usuarios del ecosistema Apple.
+
+## Cómo funciona
+
+Con apertura por app, Apple Home Key, asistente de voz, huella digital, tarjeta NFC o llave física, es compatible con Thread, Matter, Apple HomeKit, Google Home, Alexa y SmartThings. El fabricante (aqara.com) confirma el modelo exacto, incluidas sus dimensiones y protocolos.
+
+## La contra real
+
+Con solo 7 calificaciones, la base de reseñas es la más chica de esta guía por lejos, aunque las disponibles son positivas: "calzo perfecto en mi puerta, rápida y sin tanto ruido". Un comprador señala un problema de conectividad: "el único problema es que no la he podido conectar por Matter". Otro aclara sobre la instalación: "si no quieres perforar, quitar o cambiar el cilindro de la llave, y solo quieres instalar esta cerradura de sobreponer, la recomiendo".
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Ezviz CS-DL05](/producto/MLA37807940) (empotrable, mucho más volumen de reseñas), el Aqara U200 no toca el cilindro exterior pero cuesta más y tiene menos historial. Frente al [Aqara U300](/producto/MLA45403665) (misma marca, empotrable), el U200 es retrofit; ambos soportan Apple Home Key según el fabricante, aunque solo la ficha de ML del U200 lo declara explícito.
+
+## Para quién sí y para quién no
+
+Comprá el Aqara U200 si no querés reemplazar el cilindro exterior de tu cerradura actual o usás el ecosistema Apple. No es para vos si buscás el mayor historial de reseñas reales o el precio más bajo: para eso, la [Ezviz CS-DL05](/producto/MLA37807940) o la [Fika FIK-SML01](/producto/MLA52016410) de esta guía.`,
+    faq: [
+      {
+        question: "¿Qué es la instalación retrofit?",
+        answer: "Significa que la cerradura se instala sobre el mecanismo existente, sin reemplazar el cilindro exterior de tu puerta. Es la única de esta guía con ese tipo de instalación.",
+      },
+      {
+        question: "¿Es compatible con Apple?",
+        answer: "Sí, confirmado explícito en su ficha de MercadoLibre, además de compatibilidad con HomeKit. El Aqara U300 de esta guía también lo soporta según el fabricante, aunque su ficha de ML no lo declara.",
+      },
+      {
+        question: "¿Por qué tiene tan pocas reseñas?",
+        answer: "Es un producto de nicho (instalación retrofit, ecosistema Apple) con menor volumen de venta que las cerraduras empotrables genéricas de esta guía.",
+      },
+      {
+        question: "¿La batería es recargable?",
+        answer: "Sí, por USB, con hasta 6 meses de autonomía declarados, a diferencia del resto de esta guía que usa pilas descartables.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cerradura Inteligente Aqara Smart Lock U200",
+      image: ["https://http2.mlstatic.com/D_Q_NP_902173-MLA99443767266_112025-F.webp"],
+      description: "Cerradura inteligente Aqara U200, instalación retrofit, compatible Apple Home Key.",
+      brand: { "@type": "Brand", name: "Aqara" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cerradura-digital-aqara-u200-derechaizquierda-color-negro-acero-inoxidable/p/MLA38827156",
+        priceCurrency: "ARS",
+        price: "520999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5.0",
+        reviewCount: "7",
+      },
+    },
+  },
+  {
+    id: "MLA45403665",
+    title: "Cerradura Inteligente Aqara Smart Lock U300 Black Color Negro",
+    canonicalName: "Cerradura Inteligente Aqara Smart Lock U300",
+    price: 401999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_2X_876854-MLA99488925502_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_876854-MLA99488925502_112025-O.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/cerradura-inteligente-aqara-smart-lock-u300-black-color-negro/p/MLA45403665",
+    affiliateUrl: "https://meli.la/1GQy2HC",
+    condition: "new",
+    freeShipping: true,
+    rating: 5.0,
+    reviewCount: 8,
+    soldQuantity: 5,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Aqara" },
+      { label: "Modelo", value: "Smart Lock U300" },
+      { label: "Color", value: "Negro" },
+      { label: "Métodos de apertura", value: "Huella digital, tarjeta RFID (la ficha de MercadoLibre no menciona Apple Home Key, aunque el fabricante lo confirma para este modelo, ver nota abajo)" },
+      { label: "Tipo de instalación", value: "Empotrable (reemplaza cerradura tubular de embutir)" },
+      { label: "Material", value: "Plástico ABS" },
+      { label: "Alimentación", value: "4 pilas AA, con USB-C de emergencia" },
+      { label: "Conectividad", value: "WiFi y Bluetooth" },
+      { label: "Indicador de batería baja", value: "Sí" },
+      { label: "Incluye picaporte", value: "Sí" },
+      { label: "Dimensiones panel exterior", value: "140 x 76 x 73,5 mm" },
+    ],
+    relatedProducts: ["MLA37807940", "MLA52016410", "MLA38827156"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Cerradura inteligente Aqara U300: empotrable, con huella digital y tarjeta RFID, WiFi y Bluetooth. Según el fabricante, soporta Apple Home Key. Respaldo de marca Aqara en un diseño más accesible que el U200.",
+    seoTitle: "Aqara U300: cerradura inteligente empotrable",
+    metaDescription: "Cerradura inteligente Aqara U300, empotrable, huella digital y WiFi/Bluetooth. Fabricante confirmado. Precio actualizado.",
+    verdict: "Sirve si buscás el respaldo de marca Aqara en una cerradura empotrable más accesible que el U200 de la misma marca. Ambidiestra, con huella digital, tarjeta RFID, WiFi y Bluetooth. El fabricante confirma compatibilidad con Apple Home Key y Matter para este modelo, aunque la ficha de MercadoLibre no lo menciona explícitamente. La contra real: base de reseñas todavía chica (8 opiniones), sin ninguna crítica negativa documentada todavía. No es para vos si buscás el mayor historial de compradores reales: para eso, la Ezviz CS-DL05 de esta guía tiene cientos de veces más reseñas.",
+    pros: [
+      "Respaldo de marca Aqara (fabricante confirmado, aqara.com) en una cerradura empotrable",
+      "Huella digital y tarjeta RFID, con WiFi y Bluetooth",
+      "Según el fabricante, compatible con Apple Home Key y Matter (no declarado en la ficha de MercadoLibre)",
+      "Ambidiestra: sirve para puertas que abren para cualquier lado, según una reseña",
+      "Carga de emergencia por USB-C si se agotan las pilas",
+    ],
+    cons: [
+      "Base de reseñas todavía chica (8 opiniones), sin ninguna crítica negativa documentada todavía en la muestra disponible",
+      "La ficha de MercadoLibre no menciona Apple Home Key ni Matter, pese a que el fabricante los confirma para este modelo: verificar con el vendedor antes de comprar si esa función es determinante",
+      "Cuerpo de plástico ABS, no acero inoxidable como el U200",
+      "Requiere reemplazar la cerradura tubular de embutir existente",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Aqara Smart Lock U300 es una cerradura inteligente empotrable, con el respaldo de la misma marca que el U200 de esta guía pero en un formato más accesible. Es la opción para quien quiere una marca reconocida (con fabricante confirmado) sin pagar el premium del modelo retrofit.
+
+## Cómo funciona
+
+Con apertura por huella digital y tarjeta RFID, conecta por WiFi y Bluetooth. Funciona con 4 pilas AA y carga de emergencia por USB-C. El fabricante (aqara.com, modelo DL-D02D) confirma las dimensiones exactas del panel exterior, y también que este modelo soporta Apple Home Key y Matter sobre Thread, aunque la ficha de MercadoLibre no lo menciona en sus atributos.
+
+## La contra real
+
+Con solo 8 calificaciones, todavía no hay suficiente historial para evaluar a fondo su confiabilidad a largo plazo, aunque las reseñas disponibles son consistentemente positivas y una de ellas confirma el uso con Apple en la práctica: "excelente producto. Lo estoy usando de forma nativa en el ecosistema de Apple" y "producto de calidad y fácil de instalar. Vale cada centavo". No encontramos ninguna crítica negativa en la muestra disponible.
+
+## Cómo se compara con los otros de esta guía
+
+Frente a la [Ezviz CS-DL05](/producto/MLA37807940) (mucho más volumen de reseñas), el Aqara U300 tiene menos historial pero el respaldo directo del fabricante. Frente al [Aqara U200](/producto/MLA38827156) (misma marca, retrofit), el U300 es empotrable y cuesta menos; ambos soportan Apple Home Key según el fabricante, aunque solo la ficha de ML del U200 lo declara explícito.
+
+## Para quién sí y para quién no
+
+Comprá el Aqara U300 si querés el respaldo de una marca con fabricante confirmado en una cerradura empotrable. No es para vos si buscás el mayor historial de reseñas reales posible: para eso, la [Ezviz CS-DL05](/producto/MLA37807940) de esta guía.`,
+    faq: [
+      {
+        question: "¿Tiene Apple Home Key?",
+        answer: "El fabricante (aqara.com) confirma que este modelo soporta Apple Home Key y Matter sobre Thread, aunque la ficha de MercadoLibre no lo incluye en sus atributos declarados. Una reseña real confirma su uso en el ecosistema Apple en la práctica.",
+      },
+      {
+        question: "¿Es empotrable o retrofit?",
+        answer: "Empotrable: reemplaza la cerradura tubular de embutir existente. Si buscás instalación retrofit (sin tocar el cilindro exterior), el Aqara U200 de esta guía es esa opción.",
+      },
+      {
+        question: "¿Es ambidiestra?",
+        answer: "Sí, según una reseña real: sirve para puertas que abren hacia cualquier lado.",
+      },
+      {
+        question: "¿Por qué tiene pocas reseñas?",
+        answer: "Es un producto relativamente nuevo en el catálogo con menor volumen de venta que las cerraduras genéricas más económicas de esta guía, aunque el fabricante (Aqara) está confirmado y es una marca reconocida internacionalmente.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cerradura Inteligente Aqara Smart Lock U300",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_2X_876854-MLA99488925502_112025-O.webp"],
+      description: "Cerradura inteligente Aqara U300, empotrable, con huella digital y tarjeta RFID.",
+      brand: { "@type": "Brand", name: "Aqara" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cerradura-inteligente-aqara-smart-lock-u300-black-color-negro/p/MLA45403665",
+        priceCurrency: "ARS",
+        price: "401999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "5.0",
+        reviewCount: "8",
+      },
+    },
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva botella-termica — silo bebidas-termicas, categoria
+  // "botellas-termicas". Origen: research de silos flacos 2026-07-19
+  // (2da tanda), keyword "botella termica" (9.900/mes, Keyword
+  // Planner). Fuente de sourcing: Bright Data (scrape_as_markdown)
+  // sobre MercadoLibre Argentina + fabricantes (Contigo, Stanley,
+  // Coleman), 2026-07-19. Par natural de la guía `termo` (mate),
+  // esta guía cubre hidratación (agua fría/caliente para llevar).
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA26272858",
+    title: "Botella Termica 591ml Contigo Matterhorn Gym Trabajo Camping Color Negro",
+    canonicalName: "Botella Térmica Contigo Matterhorn Gym 591ml",
+    price: 33299,
+    originalPrice: 44999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_857854-MLA107369531201_022026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_857854-MLA107369531201_022026-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/botella-termica-591ml-contigo-matterhorn-gym-trabajo-camping-color-negro/p/MLA26272858",
+    affiliateUrl: "https://meli.la/2petJ4z",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 9974,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Contigo" },
+      { label: "Modelo", value: "Matterhorn Gym" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Capacidad", value: "591 mL" },
+      { label: "Tecnología", value: "THERMALOCK (según fabricante gocontigo.com)" },
+      { label: "Conservación declarada por el fabricante", value: "Hasta 24 h frío / hasta 10 h calor" },
+      { label: "Conservación declarada en la ficha de MercadoLibre", value: "1 día frío / 10 h calor" },
+      { label: "Boquilla", value: "A rosca" },
+      { label: "Peso", value: "315 g" },
+    ],
+    relatedProducts: ["MLA59806380", "MLA68286776", "MLA45095352"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Botella térmica Contigo Matterhorn Gym 591ml: la más elegida de esta guía, con casi 10 mil calificaciones reales, muy por encima del resto. Retención de frío/calor confirmada por el fabricante, aunque una reseña real matiza que en la práctica dura menos horas de lo declarado.",
+    seoTitle: "Contigo Matterhorn: la botella térmica más vendida",
+    metaDescription: "Botella térmica Contigo Matterhorn Gym 591ml, la más vendida de Argentina. 9.974 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás la botella térmica con más respaldo de compradores reales de esta guía: casi 10 mil calificaciones, muy por encima de cualquier otra opción del sourcing. El fabricante (gocontigo.com) confirma la tecnología THERMALOCK con retención de hasta 24 h frío y 10 h calor, pero la reseña más útil de la publicación (99 votos) matiza ese dato: en uso real, la bebida fría se mantiene bebible unas 8-9 horas y la caliente unas 4-5, no el día completo prometido. No es un engaño grave, es la diferencia habitual entre laboratorio y uso cotidiano, pero conviene saberlo antes de comprar. No es para vos si preferís no arriesgarte a que se raye: varias reseñas piden cuidarla de los golpes.",
+    pros: [
+      "La más elegida de esta guía por lejos: 9.974 calificaciones, +10 mil vendidas",
+      "Tecnología THERMALOCK confirmada por el fabricante (gocontigo.com)",
+      "Hermética: \"no derrama ni una gota, se puede guardar en el bolso sin preocupaciones\", según una reseña con 39 votos útiles",
+      "Boquilla a rosca de acero inoxidable, 315 g",
+    ],
+    cons: [
+      "La retención real es menor a la declarada por el fabricante: \"la bebida helada mantiene la temperatura hasta 5/6 horas... en promedio dura unas 8/9 horas bebible. Las bebidas calientes duran unas 4/5 horas y pasan a estar tibias\", según la reseña más útil (99 votos), sobre un claim de fabricante de 24 h frío / 10 h calor",
+      "Hay que lavarla siguiendo las instrucciones o la boquilla agarra mal olor, según una reseña con 58 votos útiles",
+      "Se puede rayar si no se cuida, según una reseña con 29 votos útiles",
+      "591 mL es la capacidad más chica de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Contigo Matterhorn Gym es una botella térmica de acero inoxidable de 591 mL, la más elegida de esta guía con casi 10 mil calificaciones reales, muy por encima de cualquier otra opción del sourcing. Es la compra segura para uso diario: trabajo, gimnasio, salidas cortas.
+
+## Cómo funciona
+
+Con tecnología THERMALOCK (doble pared al vacío) confirmada por el fabricante (gocontigo.com), boquilla a rosca hermética y 315 g de peso. El fabricante declara retención de hasta 24 horas frío y 10 horas calor para esta línea de 590 mL.
+
+## La contra real
+
+La reseña más útil de la publicación (99 votos) pone en contexto ese claim: "herméticamente es excelente, los materiales son buenos... lo que no dura es la temperatura que figura en las especificaciones. Bebidas heladas mantienen la temperatura hasta 5/6 horas... en promedio la bebida en condiciones de ser bebible dura unas 8/9 horas. Las bebidas calientes duran unas 4/5 horas y pasan a estar tibias". No es un engaño: es la brecha habitual entre el dato de laboratorio del fabricante y el uso cotidiano (abrís la tapa varias veces, no siempre está llena, cambia la temperatura ambiente). Conviene saberlo antes de comprar para no esperar un día entero de frío o calor.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Thermio de 750 mL](/producto/MLA59806380) (más barata y con más capacidad), la Contigo tiene mejor tecnología documentada por el fabricante pero cuesta más y rinde menos volumen. Frente a la [Stanley Wellspring](/producto/MLA68286776) (premium), la Contigo es mucho más barata y con casi 100 veces más reseñas reales. Frente a la [Coleman Freeflow](/producto/MLA45095352) (retención certificada), la Coleman tiene el claim de fabricante coincidente con su propia ficha de MercadoLibre, algo que la Contigo no tiene.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la botella térmica con más respaldo de compradores reales de esta guía, para uso diario de trabajo o gimnasio. No es para vos si buscás la mayor capacidad o el dato de retención de temperatura mejor respaldado: para eso, la [Coleman Freeflow](/producto/MLA45095352) de esta guía.`,
+    faq: [
+      {
+        question: "¿Realmente mantiene el frío 24 horas como dice el fabricante?",
+        answer: "En el papel, sí, según la tecnología THERMALOCK del fabricante. En uso real, la reseña más útil de la publicación (99 votos) reporta bebida fría bebible unas 8-9 horas, no el día completo — la diferencia habitual entre laboratorio y uso cotidiano.",
+      },
+      {
+        question: "¿Por qué es la más elegida de esta guía?",
+        answer: "Tiene casi 10 mil calificaciones reales, muy por encima de cualquier otra opción de este sourcing, con marca reconocida (Contigo) y fabricante confirmado.",
+      },
+      {
+        question: "¿Sirve para bebidas calientes?",
+        answer: "Sí, a diferencia de la Stanley Wellspring de esta guía (solo apta para frío). El fabricante declara hasta 10 horas de calor.",
+      },
+      {
+        question: "¿Hay que lavarla de alguna forma especial?",
+        answer: "Sí, según una reseña real con 58 votos útiles, no seguir las instrucciones de lavado hace que la boquilla agarre mal olor con el tiempo.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Botella Térmica Contigo Matterhorn Gym 591ml",
+      image: ["https://http2.mlstatic.com/D_Q_NP_857854-MLA107369531201_022026-F.webp"],
+      description: "Botella térmica Contigo Matterhorn Gym, 591 mL, acero inoxidable, tecnología THERMALOCK.",
+      brand: { "@type": "Brand", name: "Contigo" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/botella-termica-591ml-contigo-matterhorn-gym-trabajo-camping-color-negro/p/MLA26272858",
+        priceCurrency: "ARS",
+        price: "33299",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "9974",
+      },
+    },
+  },
+  {
+    id: "MLA59806380",
+    title: "Botella Thermio Termica Deportiva 750 Acero Inox Color Negro",
+    canonicalName: "Botella Térmica Thermio Deportiva 750ml",
+    price: 24999,
+    originalPrice: 32899,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_865148-MLA95960352809_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_865148-MLA95960352809_102025-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/botella-thermio-termica-deportiva-750-acero-inox-color-negro/p/MLA59806380",
+    affiliateUrl: "https://meli.la/1TWHFg3",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 4487,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Thermio" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Capacidad", value: "750 mL" },
+      { label: "Conservación declarada en la ficha de MercadoLibre", value: "1 día frío / 12 h calor" },
+      { label: "Boquilla", value: "A rosca" },
+      { label: "Peso", value: "370 g" },
+      { label: "Fabricante", value: "Sin página oficial verificable online (marca sin presencia de fabricante propia, normal para marcas chicas)" },
+    ],
+    relatedProducts: ["MLA26272858", "MLA68286776", "MLA45095352"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Botella térmica Thermio 750ml: la más barata de esta guía y con mayor capacidad que la elección general, con 4.487 calificaciones reales que corroboran (e incluso superan) la retención de temperatura declarada.",
+    seoTitle: "Thermio 750ml: la botella térmica más barata que rinde",
+    metaDescription: "Botella térmica Thermio 750ml, la más económica de esta guía. 4.487 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás la mejor relación precio-capacidad de esta guía: es la más barata, con 750 mL (más que la elección general) y 4.487 calificaciones reales. Una reseña con 287 votos útiles hizo la prueba casera y reportó que el agua con hielo superó las 24 horas frías y el agua caliente se mantuvo tomable 18 horas, corroborando (o superando) el claim de la ficha. La contra real: la pintura se puede levantar con un golpe o caída, según una reseña con 67 votos útiles. No es para vos si priorizás una marca de trayectoria internacional: Thermio no tiene página de fabricante propia verificable, aunque eso es normal para marcas chicas y no afecta la validez de sus miles de reseñas reales.",
+    pros: [
+      "La más barata de esta guía y con mayor capacidad (750 mL) que la elección general",
+      "4.487 calificaciones reales, segundo mayor volumen del sourcing",
+      "Una reseña con 287 votos útiles corrobora (e incluso supera) la retención de temperatura declarada: hielo intacto después de 24 h, agua caliente tomable a las 18 h",
+      "\"Al ser totalmente de acero no se rompe... nunca hizo olor a metal como otras\", según una reseña con 48 votos útiles",
+    ],
+    cons: [
+      "La pintura se puede levantar con un golpe o caída, según una reseña con 67 votos útiles: \"se me cayó de la altura de la cadera... y se le levantó la pintura\"",
+      "La tapa cuesta cerrarla bien al principio, hasta acostumbrarse, según la misma reseña",
+      "Marca sin página de fabricante propia verificable online (normal para marcas chicas, no invalida las reseñas reales)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Thermio Deportiva es una botella térmica de acero inoxidable de 750 mL, la más barata de esta guía y con mayor capacidad que la elección general. Es la opción para quien prioriza precio y volumen sin resignar retención de temperatura.
+
+## Cómo funciona
+
+Acero inoxidable de doble pared, boquilla a rosca, 370 g. La ficha de MercadoLibre declara 1 día de conservación fría y 12 horas de calor. Thermio no tiene una página de fabricante propia verificable online (marca chica, sin presencia digital corporativa), algo que no bloquea la ficha si el volumen de reseñas reales sostiene el producto — y en este caso lo sostiene con margen: 4.487 calificaciones.
+
+## La contra real
+
+El punto más repetido entre las reseñas no es una falla de fondo, sino un detalle de uso: "me encantó, mantiene el agua fría todo el día. Lo único, la tapa es difícil de cerrar bien si no te acostumbras, y se me cayó de la altura de la cadera... y se le levantó la pintura", detalla una reseña con 67 votos útiles. La pintura despintándose con un golpe es un problema estético, no funcional: no afecta la retención de temperatura ni la hermeticidad reportada por los compradores.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Contigo Matterhorn](/producto/MLA26272858) (elección general), la Thermio es más barata, con más capacidad, y con un claim de retención mejor corroborado en las reseñas propias. Frente a la [Stanley Wellspring](/producto/MLA68286776) (premium), la Thermio cuesta una fracción y tiene 43 veces más reseñas. Frente a la [Coleman Freeflow](/producto/MLA45095352) (retención certificada por fabricante), la Thermio no tiene fabricante propio verificable, pero sus propias reseñas hacen el mismo trabajo de corroboración.
+
+## Para quién sí y para quién no
+
+Comprala si el precio y la capacidad son tu prioridad, y no te molesta cuidarla de golpes para que no se despinte. No es para vos si buscás una marca internacional con página de fabricante propia: para eso, la [Stanley](/producto/MLA68286776) o la [Coleman](/producto/MLA45095352) de esta guía.`,
+    faq: [
+      {
+        question: "¿Por qué es tan barata comparada con las otras de esta guía?",
+        answer: "Es una marca sin la trayectoria internacional de Stanley o Coleman, sin página de fabricante propia verificable online. Eso no afecta su desempeño: tiene 4.487 calificaciones reales que corroboran la retención de temperatura.",
+      },
+      {
+        question: "¿De verdad mantiene el frío 24 horas?",
+        answer: "Según una reseña real con 287 votos útiles que hizo la prueba en casa, el agua con hielo superó las 24 horas y el agua caliente se mantuvo tomable 18 horas — corrobora e incluso supera el claim de la ficha.",
+      },
+      {
+        question: "¿Se rompe o se despinta fácil?",
+        answer: "No se rompe (es acero inoxidable), pero la pintura se puede levantar con un golpe fuerte o una caída, según una reseña real con 67 votos útiles.",
+      },
+      {
+        question: "¿Sirve para bebidas calientes?",
+        answer: "Sí, la ficha declara hasta 12 horas de calor, más que la elección general de esta guía (10 h).",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Botella Térmica Thermio Deportiva 750ml",
+      image: ["https://http2.mlstatic.com/D_Q_NP_865148-MLA95960352809_102025-F.webp"],
+      description: "Botella térmica Thermio, 750 mL, acero inoxidable, boquilla a rosca.",
+      brand: { "@type": "Brand", name: "Thermio" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/botella-thermio-termica-deportiva-750-acero-inox-color-negro/p/MLA59806380",
+        priceCurrency: "ARS",
+        price: "24999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "4487",
+      },
+    },
+  },
+  {
+    id: "MLA68286776",
+    title: "Botella Termica Stanley Wellspring 710 Ml Rose Quartz",
+    canonicalName: "Botella Térmica Stanley Wellspring 710ml",
+    price: 118000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_769958-MLA110592674903_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_769958-MLA110592674903_042026-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/botella-termica-stanley-wellspring-710-ml-rose-quartz/p/MLA68286776",
+    affiliateUrl: "https://meli.la/2vmxDRr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 104,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Stanley" },
+      { label: "Línea", value: "Wellspring" },
+      { label: "Material", value: "Acero inoxidable 18/8 reciclado (según fabricante stanley1913.com)" },
+      { label: "Capacidad", value: "710 mL / 24 oz" },
+      { label: "Tapa", value: "Push-button" },
+      { label: "Conservación declarada por el fabricante", value: "Frío: 12 h · Con hielo: 30 h" },
+      { label: "Conservación declarada en la ficha de MercadoLibre", value: "9 h frío" },
+      { label: "Apta para bebidas calientes", value: "No, según la ficha de MercadoLibre" },
+    ],
+    relatedProducts: ["MLA26272858", "MLA59806380", "MLA45095352"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Botella térmica Stanley Wellspring 710ml: la opción premium de esta guía, con la marca de mayor reconocimiento global. Solo apta para frío, con reviewCount bajo (104) para el precio más alto de la comparativa.",
+    seoTitle: "Stanley Wellspring: la botella térmica premium, ¿vale el precio?",
+    metaDescription: "Botella térmica Stanley Wellspring 710ml, la marca más reconocida. Solo para frío, precio y opiniones reales.",
+    verdict: "Sirve si buscás la marca de mayor reconocimiento global de esta guía y no te molesta pagar bastante más que las otras opciones (de casi el doble frente a la Coleman, a casi 5 veces frente a la Thermio). El fabricante (stanley1913.com) confirma acero 18/8 reciclado y retención de hasta 30 horas con hielo, aunque la ficha argentina de MercadoLibre declara un dato más conservador (9 horas frío) y aclara explícitamente que NO es apta para bebidas calientes, a diferencia de las otras 3 de esta guía. Ojo con el reviewCount: apenas 104 calificaciones, muy por debajo de las miles de las otras opciones, y el vendedor no es una tienda oficial Stanley Argentina. No es para vos si buscás una botella todo terreno (frío y calor): para eso, cualquiera de las otras 3 de esta guía.",
+    pros: [
+      "La marca de mayor reconocimiento global de esta categoría",
+      "Fabricante confirmado (stanley1913.com): acero 18/8 reciclado, retención hasta 30 h con hielo",
+      "Rating más alto de esta guía (4.9)",
+      "Tapa push-button, diseño premium",
+    ],
+    cons: [
+      "Reviewcount muy bajo (104) para el precio más alto del lote — mucho menos volumen de prueba real en ML Argentina que lo que sugiere el reconocimiento global de la marca",
+      "NO apta para bebidas calientes, según la ficha de MercadoLibre — a diferencia de las otras 3 botellas de esta guía",
+      "Vendedor no es tienda oficial Stanley Argentina",
+      "El botón de apertura está duro al principio, según una reseña real (afloja con el uso)",
+      "La garantía mostrada en la ficha (\"99 meses\") es una cifra atípica, probable error de carga del vendedor: no confirmada, no usar como dato de venta",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Stanley Wellspring es una botella térmica de acero inoxidable de 710 mL (24 oz), la opción premium de esta guía por marca. Es para quien prioriza el reconocimiento de marca por sobre el volumen de reseñas locales o el uso mixto frío/calor.
+
+## Cómo funciona
+
+Acero 18/8 reciclado con tapa push-button, confirmado por el fabricante (stanley1913.com), que declara retención de 12 horas frío y hasta 30 horas con hielo para esta línea de 24 oz. La ficha argentina de MercadoLibre es más conservadora: declara 9 horas de conservación fría, y aclara explícitamente que **no** es apta para bebidas calientes.
+
+## La contra real
+
+El dato más importante para decidir la compra: esta Stanley es una botella solo-frío, a diferencia de las otras 3 de esta guía (Contigo, Thermio y Coleman), que sirven para ambas. Además, el reviewCount es bajo para el precio: apenas 104 calificaciones (70 con comentario), muy por debajo de las miles de opiniones que tienen las otras opciones de esta comparativa — hay mucho menos volumen de compra y prueba real en MercadoLibre Argentina que lo que el reconocimiento global de la marca podría sugerir. El vendedor tampoco es una tienda oficial Stanley Argentina. Un dato de la ficha que no pudimos confirmar y preferimos no usar como argumento de venta: la garantía figura como "99 meses", una cifra atípica que probablemente sea un error de carga y no un dato real.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Contigo Matterhorn](/producto/MLA26272858) y la [Thermio](/producto/MLA59806380) (una fracción del precio, miles de reseñas más), la Stanley compite solo por reconocimiento de marca. Frente a la [Coleman Freeflow](/producto/MLA45095352) (retención certificada frío y calor), la Coleman sirve para ambos usos y cuesta bastante menos.
+
+## Para quién sí y para quién no
+
+Comprala si el reconocimiento de marca es tu prioridad y solo la vas a usar para bebidas frías. No es para vos si buscás una botella todo terreno (frío y calor), el mejor respaldo de reseñas locales, o la mejor relación precio-desempeño: para eso, cualquiera de las otras 3 de esta guía.`,
+    faq: [
+      {
+        question: "¿Sirve para café o mate cocido caliente?",
+        answer: "No. La ficha de MercadoLibre declara explícitamente que esta Stanley Wellspring no es apta para bebidas calientes, a diferencia de las otras 3 botellas de esta guía.",
+      },
+      {
+        question: "¿Por qué tiene tan pocas reseñas si es una marca tan conocida?",
+        answer: "El reconocimiento global de Stanley no se traduce todavía en el mismo volumen de compras en MercadoLibre Argentina: tiene 104 calificaciones, muy por debajo de las miles de las otras opciones de esta guía.",
+      },
+      {
+        question: "¿Vale la pena pagar bastante más que las otras botellas de esta guía?",
+        answer: "Depende de qué priorices: si es la marca y el diseño, sí. Si es retención de temperatura confirmada o volumen de reseñas reales, la Contigo, la Thermio o la Coleman de esta guía rinden igual o mejor a menor precio.",
+      },
+      {
+        question: "¿Cuánto frío conserva realmente?",
+        answer: "El fabricante declara hasta 30 horas con hielo, pero la ficha argentina de MercadoLibre es más conservadora: 9 horas. No encontramos reseñas reales que confirmen cuál cifra es más precisa en uso cotidiano.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Botella Térmica Stanley Wellspring 710ml",
+      image: ["https://http2.mlstatic.com/D_Q_NP_769958-MLA110592674903_042026-F.webp"],
+      description: "Botella térmica Stanley Wellspring, 710 mL, acero inoxidable 18/8 reciclado, solo para bebidas frías.",
+      brand: { "@type": "Brand", name: "Stanley" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/botella-termica-stanley-wellspring-710-ml-rose-quartz/p/MLA68286776",
+        priceCurrency: "ARS",
+        price: "118000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "104",
+      },
+    },
+  },
+  {
+    id: "MLA45095352",
+    title: "Botella Termica Coleman Acero Inoxidable Freeflow 700 Ml Color White Truffle",
+    canonicalName: "Botella Térmica Coleman Freeflow 700ml",
+    price: 60974,
+    originalPrice: 81299,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_613592-MLA96089669069_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_613592-MLA96089669069_102025-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/botella-termica-coleman-acero-inoxidable-freeflow-700-ml-color-white-truffle/p/MLA45095352",
+    affiliateUrl: "https://meli.la/2qVDBL3",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 305,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Coleman" },
+      { label: "Línea", value: "Freeflow" },
+      { label: "Material", value: "Acero inoxidable 18/8 (según fabricante coleman.com)" },
+      { label: "Capacidad", value: "700 mL / 24 oz" },
+      { label: "Tapa", value: "AUTOSEAL" },
+      { label: "Conservación declarada por el fabricante", value: "Frío: hasta 31 h · Calor: hasta 11 h" },
+      { label: "Conservación declarada en la ficha de MercadoLibre", value: "Hasta 31 h frío / hasta 11 h calor (coincide exacto con el fabricante)" },
+    ],
+    relatedProducts: ["MLA26272858", "MLA59806380", "MLA68286776"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Botella térmica Coleman Freeflow 700ml: la única de esta guía con su claim de retención de frío y calor coincidente punto por punto entre el fabricante y la ficha técnica de MercadoLibre, y coherente con lo que reporta una reseña real de compradores.",
+    seoTitle: "Coleman Freeflow: la botella térmica con retención verificada",
+    metaDescription: "Botella térmica Coleman Freeflow 700ml, retención de 31 h frío declarada por el fabricante y por la ficha de MercadoLibre.",
+    verdict: "Sirve si buscás la botella térmica de esta guía con el dato de retención de temperatura mejor respaldado: el fabricante (coleman.com) declara 31 horas frío y 11 horas calor, la ficha de MercadoLibre repite exactamente esas cifras, y una reseña real con 4 votos útiles es coherente con esa duración, aunque no la mide con precisión (\"ha pasado una noche el agua con hielo y al otro día se sentía el hielo todavía\"). Es la opción para quien no quiere depender de un solo dato de marketing sin cruzar. Ojo con el stock: al momento de revisar el precio, la publicación mostraba solo 3 unidades disponibles, conviene verificar antes de comprar. No es para vos si buscás el mayor volumen de reseñas: para eso, la Contigo o la Thermio de esta guía.",
+    pros: [
+      "Único de esta guía con su claim de retención de temperatura coincidente entre fabricante y ficha de MercadoLibre, y coherente con una reseña real",
+      "31 horas frío / 11 horas calor, la mayor conservación declarada de esta comparativa",
+      "Tapa AUTOSEAL con sellado total, sin fugas según una reseña real: \"es totalmente sellada\" (la misma reseña dice que \"mantiene la temperatura como lo indica\", aunque no midió las horas exactas)",
+      "Rating 4.9, empatado con el más alto de esta guía",
+    ],
+    cons: [
+      "Stock bajo al momento de revisar el precio (\"últimas 3 unidades\" en la publicación) — verificar disponibilidad antes de comprar",
+      "305 calificaciones, menos volumen que la Contigo (9.974) o la Thermio (4.487) de esta guía",
+      "La garantía mostrada en la ficha (\"12 días\") es una cifra llamativamente corta, probable error de carga del vendedor: no confirmada, no usar como dato de venta",
+      "Precio intermedio-alto: la segunda más cara de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Coleman Freeflow es una botella térmica de acero inoxidable de 700 mL, la opción de esta guía con el respaldo más sólido en el dato que más importa: cuánto tiempo conserva la temperatura. Es para quien no quiere confiar en un solo número de marketing.
+
+## Cómo funciona
+
+Acero 18/8 con tapa AUTOSEAL, confirmado por el fabricante (coleman.com), que declara retención de hasta 31 horas frío y 11 horas calor para esta línea de 24 oz. La ficha argentina de MercadoLibre repite esas mismas cifras exactas, algo que no pasa con las otras 3 botellas de esta guía (donde la ficha local suele ser más conservadora que el fabricante).
+
+## La contra real
+
+Una reseña real con 4 votos útiles es coherente con esa duración, aunque no la mide con precisión: "muy recomendable! lo tengo hace 2 meses... ha pasado una noche el agua con hielo y al otro día se sentía el hielo todavía". La contra a tener en cuenta antes de comprar no es de calidad sino de disponibilidad: al momento de revisar el precio para esta guía, la publicación mostraba solo 3 unidades ("ÚLTIMAS 3 UNIDADES") — conviene verificar el stock en vivo antes de decidirse. Un dato de la ficha que no pudimos confirmar y preferimos no usar como argumento de venta: la garantía figura como "12 días", una cifra llamativamente corta que probablemente sea un error de carga del vendedor.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Contigo Matterhorn](/producto/MLA26272858) (mayor volumen de reseñas, pero retención real menor a la declarada), la Coleman tiene el dato mejor verificado. Frente a la [Thermio](/producto/MLA59806380) (más barata), la Coleman cuesta más pero con fabricante confirmado. Frente a la [Stanley Wellspring](/producto/MLA68286776) (premium, solo frío), la Coleman sirve para ambos usos y cuesta menos.
+
+## Para quién sí y para quién no
+
+Comprala si querés el dato de retención de temperatura más confiable de esta guía, y verificás stock antes de comprar. No es para vos si priorizás el mayor volumen de reseñas reales o el precio más bajo: para eso, la [Contigo](/producto/MLA26272858) o la [Thermio](/producto/MLA59806380) de esta guía.`,
+    faq: [
+      {
+        question: "¿Es verdad que mantiene el hielo 31 horas?",
+        answer: "Es el claim mejor respaldado de esta guía: lo declara el fabricante (coleman.com), lo repite exacto la ficha de MercadoLibre, y una reseña real con 4 votos útiles es coherente con esa duración, aunque no la mide con precisión.",
+      },
+      {
+        question: "¿Hay stock disponible?",
+        answer: "Al momento de revisar el precio para esta guía, la publicación mostraba solo 3 unidades. Verificá disponibilidad en vivo antes de comprar.",
+      },
+      {
+        question: "¿Sirve para bebidas calientes?",
+        answer: "Sí, hasta 11 horas según el fabricante y la ficha de MercadoLibre, a diferencia de la Stanley Wellspring de esta guía que solo sirve para frío.",
+      },
+      {
+        question: "¿Por qué tiene menos reseñas que la Contigo o la Thermio?",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual (305 calificaciones), aunque su rating (4.9) y el respaldo del dato de retención de temperatura son de los mejores de esta guía.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Botella Térmica Coleman Freeflow 700ml",
+      image: ["https://http2.mlstatic.com/D_Q_NP_613592-MLA96089669069_102025-F.webp"],
+      description: "Botella térmica Coleman Freeflow, 700 mL, acero inoxidable, tapa AUTOSEAL, retención 31 h frío / 11 h calor.",
+      brand: { "@type": "Brand", name: "Coleman" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/botella-termica-coleman-acero-inoxidable-freeflow-700-ml-color-white-truffle/p/MLA45095352",
+        priceCurrency: "ARS",
+        price: "60974",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "305",
+      },
+    },
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva parrilla-electrica — silo cocina, categoria
+  // "parrillas-electricas". Origen: research de silos flacos
+  // 2026-07-19 (2da tanda), keyword "parrilla eléctrica" (6.600/mes,
+  // Keyword Planner). Fuente de sourcing: Bright Data
+  // (scrape_as_markdown) sobre MercadoLibre Argentina, 2026-07-19.
+  // Sin canibalización: "parrilla" solo aparecía antes como accesorio
+  // de microondas/freidoras, nunca como producto propio del catálogo.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA14097409",
+    title: "Parrilla Eléctrica Black+decker Sizzlelean Ig201-ar Negra",
+    canonicalName: "Parrilla Eléctrica Black+Decker Sizzlelean IG201-AR",
+    price: 119999,
+    originalPrice: 149999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_977421-MLA96074226001_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_977421-MLA96074226001_102025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/parrilla-electrica-blackdecker-sizzlelean-ig201-ar-negra/p/MLA14097409",
+    affiliateUrl: "https://meli.la/1TjT6xF",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 2055,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Black+Decker" },
+      { label: "Modelo", value: "Sizzlelean IG201-AR" },
+      { label: "Potencia", value: "1.500 W" },
+      { label: "Superficie", value: "Parrilla 26x30 cm + plancha 14x30 cm (doble superficie)" },
+      { label: "Tapa", value: "No tiene" },
+      { label: "Control de temperatura", value: "Medidor de 5 niveles" },
+      { label: "Superficie de cocción", value: "Antiadherente + hierro" },
+      { label: "Depósito de grasa", value: "Sí, extraíble" },
+      { label: "Agarraderas", value: "Frías al tacto" },
+      { label: "Peso", value: "6 kg" },
+      { label: "Cable", value: "95 cm" },
+    ],
+    relatedProducts: ["MLA26041341", "MLA41223080", "MLA56253561"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Parrilla eléctrica Black+Decker Sizzlelean IG201-AR: la más vendida de esta guía, con doble superficie (parrilla + plancha) y más de 2 mil calificaciones reales, muy por encima del resto de la comparativa.",
+    seoTitle: "Black+Decker Sizzlelean: la parrilla eléctrica más vendida",
+    metaDescription: "Parrilla eléctrica Black+Decker Sizzlelean IG201-AR, la más vendida de Argentina. 2.055 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás la parrilla eléctrica con más respaldo de compradores reales de esta guía: 2.055 calificaciones, badge oficial \"MÁS VENDIDO\" de MercadoLibre y más de 10 mil unidades vendidas. Suma dos superficies de cocción (parrilla + plancha), útil para cocinar distinto tipo de alimentos a la vez. La contra real: no tiene tapa, así que cocina un poco más lento y humea más si hay mucha grasa que otras opciones con tapa. No es para vos si buscás cocinar cortes grandes para muchas personas: para eso, la Philco de esta guía, con dos zonas simultáneas más grandes.",
+    pros: [
+      "La más vendida de esta guía por lejos: 2.055 calificaciones, +10 mil vendidas, badge oficial \"MÁS VENDIDO\" de MercadoLibre",
+      "Doble superficie: parrilla (26x30 cm) + plancha (14x30 cm), cocina distinto tipo de alimento a la vez",
+      "Medidor de temperatura de 5 niveles, no es solo encendido/apagado",
+      "Agarraderas frías al tacto y 4 patas con goma antideslizante",
+    ],
+    cons: [
+      "No tiene tapa: cocina más lento que una con tapa y humea más si hay mucha grasa, según una reseña real (\"le faltaría alguna tapa para que cocine aún más rápido\")",
+      "No reemplaza una parrilla de carbón/leña tradicional para grupos grandes, según una reseña real",
+      "Cable corto (95 cm)",
+      "6 kg, de las más pesadas de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Black+Decker Sizzlelean IG201-AR es una parrilla eléctrica con doble superficie (parrilla + plancha), la más vendida de esta guía con más de 2 mil calificaciones reales. Es la compra segura para 2 a 3 personas que quieren la variedad de cocinar carne y otros alimentos a la vez, sin instalar una parrilla de verdad.
+
+## Cómo funciona
+
+1.500 W, con medidor de temperatura de 5 niveles, superficie antiadherente combinada con hierro, depósito de grasa extraíble y agarraderas frías al tacto. No tiene tapa, a diferencia de otras opciones de esta guía.
+
+## La contra real
+
+Varias reseñas coinciden en el mismo punto: sin tapa, cocina un poco más lento y humea más si hay mucha grasa. "Del 1 al 10 le doy un 8", resume una reseña con 237 votos útiles, que destaca el control de temperatura y las patas antideslizantes mientras señala esa limitación. Otra reseña con 48 votos útiles la compara con una plancha bifera tradicional y aclara: "por supuesto no suplanta a una parrilla tradicional, pero si necesitás algo para 2-3 personas, comprala".
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Atma PG4720E](/producto/MLA26041341) (económica, sin doble superficie), la Black+Decker cocina más variado. Frente a la [Philco PGE389BP](/producto/MLA41223080) (grande/familiar), la Philco tiene más zonas de cocción simultáneas para grupos grandes. Frente a la [Novohome NH-GR1000](/producto/MLA56253561) (clamshell), la Black+Decker no tiene tapa a presión que cocine de los dos lados a la vez.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la parrilla eléctrica con más respaldo de compradores reales de esta guía, para uso de 2-3 personas. No es para vos si necesitás cocinar cortes grandes para muchas personas a la vez: para eso, la [Philco PGE389BP](/producto/MLA41223080) de esta guía, con dos zonas de cocción simultáneas.`,
+    faq: [
+      {
+        question: "¿Por qué es la más vendida de esta guía?",
+        answer: "Tiene 2.055 calificaciones reales, muy por encima de cualquier otra opción de este sourcing, con badge oficial \"MÁS VENDIDO\" de MercadoLibre y más de 10 mil unidades vendidas.",
+      },
+      {
+        question: "¿Tiene tapa?",
+        answer: "No. Varias reseñas reales señalan que eso hace que cocine algo más lento y humee más si hay mucha grasa, comparado con opciones que sí tienen tapa.",
+      },
+      {
+        question: "¿Alcanza para un asado de varias personas?",
+        answer: "Según una reseña real, sirve bien para 2-3 personas, pero no suplanta una parrilla de carbón o leña tradicional para grupos grandes.",
+      },
+      {
+        question: "¿Para qué sirve la doble superficie?",
+        answer: "Tiene una zona de parrilla (26x30 cm) y otra de plancha (14x30 cm), así podés cocinar carne en una parte y algo distinto (verduras, huevos) en la otra al mismo tiempo.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Parrilla Eléctrica Black+Decker Sizzlelean IG201-AR",
+      image: ["https://http2.mlstatic.com/D_Q_NP_977421-MLA96074226001_102025-F.webp"],
+      description: "Parrilla eléctrica Black+Decker Sizzlelean, doble superficie (parrilla + plancha), 1.500 W.",
+      brand: { "@type": "Brand", name: "Black+Decker" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/parrilla-electrica-blackdecker-sizzlelean-ig201-ar-negra/p/MLA14097409",
+        priceCurrency: "ARS",
+        price: "119999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "2055",
+      },
+    },
+  },
+  {
+    id: "MLA26041341",
+    title: "Parrilla Eléctrica Atma Grill Antiadherente 1400w Gris",
+    canonicalName: "Parrilla Eléctrica Atma PG4720E",
+    price: 121429,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_973132-MLA94036205394_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_973132-MLA94036205394_102025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/parrilla-electrica-atma-grill-antiadherente-1400w-gris/p/MLA26041341",
+    affiliateUrl: "https://meli.la/2Q8wdQC",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 69,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Atma" },
+      { label: "Modelo", value: "PG4720E" },
+      { label: "Potencia", value: "1.400 W" },
+      { label: "Tapa", value: "Sí" },
+      { label: "Control de temperatura", value: "Medidor de temperatura con perilla" },
+      { label: "Superficie de cocción", value: "Antiadherente" },
+      { label: "Agarradera", value: "Plástica" },
+    ],
+    relatedProducts: ["MLA14097409", "MLA41223080", "MLA56253561"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Parrilla eléctrica Atma PG4720E: con tapa (a diferencia de la elección general de esta guía) y de marca con service oficial en Argentina, aunque con potencia más chica y precio similar al resto de la comparativa.",
+    seoTitle: "Atma PG4720E: parrilla eléctrica con tapa y marca local",
+    metaDescription: "Parrilla eléctrica Atma PG4720E 1400W, con tapa. 4.7 estrellas, opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás una parrilla eléctrica con tapa (cocina más parejo y con menos humo) de una marca con service oficial en Argentina. Ojo: su precio no es dramáticamente más bajo que la elección general de esta guía, así que no es la opción \"económica\" en el sentido estricto, aunque sí es la más chica y compacta. La contra real: la perilla de control se siente endeble cuando está caliente, según una reseña real, y la agarradera es de plástico (se puede romper con un golpe). No es para vos si priorizás mayor potencia para tostar rápido: para eso, la Black+Decker de esta guía.",
+    pros: [
+      "Tiene tapa, a diferencia de la elección general de esta guía: cocina más parejo y con menos humo",
+      "Marca Atma, con service oficial y repuestos en Argentina",
+      "Compacta, fácil de guardar en departamentos chicos",
+      "\"Excelente. Además es fácil de limpiar\", según una reseña real",
+    ],
+    cons: [
+      "La perilla de control de temperatura se siente endeble cuando está caliente, según una reseña real con 5 votos útiles",
+      "Potencia más chica (1.400 W) que el resto de esta guía: \"le falta un poco de potencia para mí, para tostar más rápido\", según una reseña con 4 votos útiles",
+      "Agarradera de plástico: \"a mí se me rompió\", según una reseña real",
+      "Reviewcount bajo (69) comparado con la elección general de esta guía (2.055)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Atma PG4720E es una parrilla eléctrica compacta con tapa, de una marca argentina con service oficial. Es la opción para quien prioriza cocinar con tapa (más parejo, menos humo) en un espacio chico, y confía en el respaldo de una marca local.
+
+## Cómo funciona
+
+1.400 W, con tapa, medidor de temperatura con perilla y superficie antiadherente. Es la de menor potencia de esta comparativa, algo a tener en cuenta si buscás tostar rápido.
+
+## La contra real
+
+Dos detalles de uso repetidos en las reseñas: la perilla de control se siente endeble cuando la parrilla está caliente ("no es conveniente girarla en caliente porque se torna endeble", según una reseña real), y la agarradera de plástico se puede romper con un golpe ("ojo con la agarradera de plástico, ya que a mí se me rompió"). Ninguna de las dos afecta la cocción en sí, pero conviene saberlo antes de comprar.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Black+Decker Sizzlelean](/producto/MLA14097409) (elección general), la Atma suma tapa pero pierde superficie doble y potencia. Frente a la [Philco PGE389BP](/producto/MLA41223080) (grande/familiar), la Atma es mucho más chica y compacta. Frente a la [Novohome NH-GR1000](/producto/MLA56253561) (clamshell), ambas tienen tapa, pero la Novohome cocina de los dos lados a la vez con su sistema de prensa.
+
+## Para quién sí y para quién no
+
+Comprala si priorizás cocinar con tapa en un espacio chico, con el respaldo de una marca argentina con service oficial. No es para vos si buscás la mayor potencia para tostar rápido o la mejor relación precio-tamaño: para eso, la [Black+Decker](/producto/MLA14097409) de esta guía.`,
+    faq: [
+      {
+        question: "¿Es la opción más barata de esta guía?",
+        answer: "Es de las más chicas y compactas, pero su precio no es dramáticamente más bajo que la elección general de esta guía. La principal ventaja frente a esa opción es que tiene tapa.",
+      },
+      {
+        question: "¿Por qué tiene menos reseñas que la Black+Decker?",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual (69 contra 2.055 calificaciones), aunque su rating (4.7) es alto y es de una marca con service oficial en Argentina.",
+      },
+      {
+        question: "¿La perilla se rompe?",
+        answer: "No se rompe, pero una reseña real advierte que se siente endeble si se la gira mientras la parrilla está caliente.",
+      },
+      {
+        question: "¿Alcanza la potencia para cocinar rápido?",
+        answer: "Es la de menor potencia de esta guía (1.400 W). Una reseña real la describe como algo lenta para tostar; para más potencia, la Black+Decker o la Philco de esta guía rinden mejor.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Parrilla Eléctrica Atma PG4720E",
+      image: ["https://http2.mlstatic.com/D_Q_NP_973132-MLA94036205394_102025-F.webp"],
+      description: "Parrilla eléctrica Atma PG4720E, 1.400 W, con tapa, superficie antiadherente.",
+      brand: { "@type": "Brand", name: "Atma" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/parrilla-electrica-atma-grill-antiadherente-1400w-gris/p/MLA26041341",
+        priceCurrency: "ARS",
+        price: "121429",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "69",
+      },
+    },
+  },
+  {
+    id: "MLA41223080",
+    title: "Parrilla Eléctrica Philco Pge389bp Doble Mesada Y 2 Zonas De Cocción 2000w",
+    canonicalName: "Parrilla Eléctrica Philco PGE389BP Doble Mesada",
+    price: 238914,
+    originalPrice: 434389,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_601705-MLA96101735217_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_601705-MLA96101735217_102025-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/parrilla-electrica-philco-pge389bp-doble-mesada-y-2-zonas-de-coccion-2000w/p/MLA41223080",
+    affiliateUrl: "https://meli.la/2hmFd4u",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 64,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Philco" },
+      { label: "Modelo", value: "PGE389BP" },
+      { label: "Potencia", value: "2.000 W" },
+      { label: "Superficie", value: "Doble mesada, 2 zonas de cocción simultáneas (lisa + grillada)" },
+      { label: "Tapa", value: "Sí" },
+      { label: "Control de temperatura", value: "Medidor de temperatura" },
+      { label: "Superficie de cocción", value: "Antiadherente" },
+      { label: "Depósito de grasa", value: "Sí" },
+      { label: "Dimensiones del gabinete", value: "57 x 28 x 43 cm" },
+      { label: "Peso", value: "14,6 kg" },
+    ],
+    relatedProducts: ["MLA14097409", "MLA26041341", "MLA56253561"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Parrilla eléctrica Philco PGE389BP: la más grande de esta guía, con doble mesada y 2 zonas de cocción simultáneas, de tienda oficial Philco/Newsan.",
+    seoTitle: "Philco PGE389BP: la parrilla eléctrica familiar más grande",
+    metaDescription: "Parrilla eléctrica Philco PGE389BP 2000W, doble mesada. 4.6 estrellas, opiniones reales, precio actualizado.",
+    verdict: "Sirve si necesitás cocinar para varias personas a la vez: es la única de esta guía con doble mesada y 2 zonas de cocción simultáneas (lisa + grillada), de tienda oficial Philco/Newsan. La contra real, según una reseña real: no sirve para cortes grandes de una sola pieza (un vacío de 4 kg desborda el depósito de grasa) — es \"grande\" por tener dos zonas a la vez, no por profundidad para piezas grandes. No es para vos si buscás algo compacto o económico: es la más cara y pesada de esta comparativa.",
+    pros: [
+      "La única de esta guía con doble mesada y 2 zonas de cocción simultáneas (lisa + grillada)",
+      "Mayor potencia de esta comparativa (2.000 W)",
+      "Vendedor tienda oficial Philco/Newsan, MercadoLíder Platinum, +500 mil ventas",
+      "\"Brutal, excelente... ojo de bife jugoso en 5min por lado\", según una reseña real con 7 votos útiles",
+    ],
+    cons: [
+      "No sirve para cortes grandes de una sola pieza: \"si crees que acá vas a montar un vacío de 4kg obvio que no te va a quedar igual que en una parrilla de carbón y se te va a rebasar el recipiente de grasa\", según una reseña real",
+      "La más cara de esta guía",
+      "La más pesada (14,6 kg), menos práctica para guardar",
+      "Reviewcount más bajo (64) que la elección general de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Philco PGE389BP es una parrilla eléctrica de doble mesada con 2 zonas de cocción simultáneas, la más grande de esta guía. Es la opción para quien necesita cocinar variado y para varias personas a la vez, no para hacer un asado de piezas grandes.
+
+## Cómo funciona
+
+2.000 W, la mayor potencia de esta comparativa, con tapa, medidor de temperatura, superficie antiadherente y depósito de grasa. Sus dos zonas (lisa + grillada) permiten cocinar dos tipos de alimento en simultáneo, algo que ninguna otra de esta guía ofrece.
+
+## La contra real
+
+El punto clave para no llevarte una expectativa equivocada: "es grande" se refiere a tener dos zonas de cocción a la vez, no a que sea profunda para piezas grandes. Una reseña real con 7 votos útiles lo deja claro: "brutal, excelente... ojo de bife jugoso en 5min por lado. Ahora si crees que acá vas a montar un vacío de 4kg obvio que no te va a quedar igual que en una parrilla de carbón y se te va a rebasar el recipiente de grasa. Para todo lo que sea vuelta y vuelta va perfecto".
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Black+Decker Sizzlelean](/producto/MLA14097409) (elección general), la Philco tiene más potencia y superficie, pero cuesta bastante más. Frente a la [Atma PG4720E](/producto/MLA26041341) (compacta), la Philco es mucho más grande y pesada. Frente a la [Novohome NH-GR1000](/producto/MLA56253561) (clamshell), la Philco cocina en superficie abierta con dos zonas, no con tapa a presión.
+
+## Para quién sí y para quién no
+
+Comprala si necesitás cocinar para varias personas a la vez, con variedad (carne + verduras, por ejemplo). No es para vos si buscás algo compacto, económico, o para cortes grandes de una sola pieza: para eso, la [Black+Decker](/producto/MLA14097409) o la [Atma](/producto/MLA26041341) de esta guía.`,
+    faq: [
+      {
+        question: "¿Sirve para un asado de piezas grandes?",
+        answer: "No es lo ideal. Según una reseña real, un corte grande como un vacío de 4 kg desborda el depósito de grasa. Es mejor para cortes chicos o medianos, aprovechando sus dos zonas simultáneas.",
+      },
+      {
+        question: "¿Por qué es la más cara de esta guía?",
+        answer: "Es la única con doble mesada y 2 zonas de cocción simultáneas, mayor potencia (2.000 W) y viene de tienda oficial Philco/Newsan.",
+      },
+      {
+        question: "¿Es difícil de guardar?",
+        answer: "Es la más pesada de esta guía (14,6 kg) y la de mayor tamaño de gabinete, así que ocupa más espacio de guardado que las otras 3 opciones.",
+      },
+      {
+        question: "¿Vale la pena frente a la más vendida de esta guía?",
+        answer: "Depende de cuánta gente cocinás a la vez. Si es para 2-3 personas, la Black+Decker de esta guía alcanza y cuesta menos. Si necesitás dos zonas simultáneas para más gente, la Philco rinde mejor.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Parrilla Eléctrica Philco PGE389BP",
+      image: ["https://http2.mlstatic.com/D_Q_NP_601705-MLA96101735217_102025-F.webp"],
+      description: "Parrilla eléctrica Philco PGE389BP, doble mesada, 2 zonas de cocción simultáneas, 2.000 W.",
+      brand: { "@type": "Brand", name: "Philco" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/parrilla-electrica-philco-pge389bp-doble-mesada-y-2-zonas-de-coccion-2000w/p/MLA41223080",
+        priceCurrency: "ARS",
+        price: "238914",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "64",
+      },
+    },
+  },
+  {
+    id: "MLA56253561",
+    title: "Plancha Parrilla Grill Eléctrica Doble Novohome Placas Antiadherente De Cerámica Tapa Prensa Sandwichera Panini Apertura 180",
+    canonicalName: "Parrilla Eléctrica Novohome NH-GR1000 Clamshell",
+    price: 67890,
+    originalPrice: 120429,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_696240-MLA112628117156_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_696240-MLA112628117156_062026-F.webp",
+    ],
+    category: "Cocina",
+    categorySlug: "cocina",
+    permalink: "https://www.mercadolibre.com.ar/plancha-parrilla-grill-electrica-doble-novohome-placas-antiadherente-de-ceramica-tapa-prensa-sandwichera-panini-apertura-180/p/MLA56253561",
+    affiliateUrl: "https://meli.la/2oAP8Jz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 146,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Novohome" },
+      { label: "Modelo", value: "NH-GR1000" },
+      { label: "Potencia", value: "1.500 W" },
+      { label: "Tapa", value: "Tipo prensa, apertura 180°: cocina de los dos lados a la vez" },
+      { label: "Superficie de cocción", value: "Antiadherente de cerámica" },
+      { label: "Control de temperatura", value: "Medidor de 5 niveles" },
+      { label: "Placa de cocción", value: "26 x 16,5 cm" },
+      { label: "Dimensiones", value: "30,9 x 27,2 x 10,2 cm" },
+      { label: "Depósito de grasa", value: "No tiene, separado" },
+      { label: "Placas", value: "Fijas, no desmontables" },
+    ],
+    relatedProducts: ["MLA14097409", "MLA26041341", "MLA41223080"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Parrilla eléctrica Novohome NH-GR1000: la más barata de esta guía, con tapa tipo prensa de apertura 180° que cocina de los dos lados a la vez, badge oficial \"MÁS VENDIDO\" de MercadoLibre.",
+    seoTitle: "Novohome NH-GR1000: la parrilla clamshell más barata",
+    metaDescription: "Parrilla eléctrica Novohome NH-GR1000, tapa prensa 180°. La más barata de esta guía, opiniones reales.",
+    verdict: "Sirve si buscás cocinar rápido de los dos lados a la vez (como una sanguichera) sin gastar de más: es la más barata de esta guía, con badge oficial \"MÁS VENDIDO\" de MercadoLibre y 146 calificaciones reales. La contra real: las placas no son desmontables, así que limpiarla es más incómodo que las otras 3 opciones de esta guía, y su tamaño chico limita a 1-2 porciones por tanda. No es para vos si cocinás para una familia grande de una sola vez: para eso, la Philco de esta guía.",
+    pros: [
+      "La más barata de esta guía, con badge oficial \"MÁS VENDIDO\" de MercadoLibre",
+      "Tapa tipo prensa con apertura 180°: cocina de los dos lados a la vez, más rápido que una parrilla abierta",
+      "Superficie antiadherente de cerámica: \"la comida no se pega\", según una reseña real",
+      "Compacta, fácil de guardar",
+    ],
+    cons: [
+      "Las placas no son desmontables: \"resta que no se puede sacar las planchas para lavar, se dificulta ese tema\", según una reseña real con 5 votos útiles",
+      "Tamaño chico: \"es pequeña para una familia. Si son más de 2 pensaría en una medida mayor\", según una reseña real con 5 votos útiles",
+      "Sin depósito de grasa separado, a diferencia de la elección general y la Philco de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Novohome NH-GR1000 es una parrilla eléctrica tipo clamshell (tapa a presión con apertura 180°), la más barata de esta guía. Es la opción para 1-2 personas que buscan cocinar rápido, de los dos lados a la vez, sin gastar de más.
+
+## Cómo funciona
+
+1.500 W, con tapa tipo prensa que se abre 180° y cocina ambos lados del alimento en simultáneo (como una sanguichera, pero para carne y otros alimentos), superficie antiadherente de cerámica y medidor de temperatura de 5 niveles. La placa de cocción es de 26 x 16,5 cm, la más chica de esta comparativa.
+
+## La contra real
+
+Dos limitaciones reales para tener en cuenta: las placas no son desmontables, lo que complica la limpieza a fondo ("cocina rápido, pero resta que no se puede sacar las planchas para lavar, se dificulta ese tema", según una reseña con 5 votos útiles), y el tamaño es chico para más de 2 personas ("es pequeña para una familia. Si son más de 2 pensaría en una medida mayor").
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Black+Decker Sizzlelean](/producto/MLA14097409) (elección general), la Novohome es más barata y cocina de los dos lados a la vez, pero con menos superficie. Frente a la [Atma PG4720E](/producto/MLA26041341) (con tapa simple), la Novohome tiene tapa a presión que acelera la cocción. Frente a la [Philco PGE389BP](/producto/MLA41223080) (grande/familiar), la Novohome es mucho más chica y económica.
+
+## Para quién sí y para quién no
+
+Comprala si sos 1-2 personas y buscás cocinar rápido sin gastar de más. No es para vos si cocinás para una familia grande de una sola vez, o si priorizás poder desarmar las placas para una limpieza más a fondo: para eso, la [Philco](/producto/MLA41223080) o la [Black+Decker](/producto/MLA14097409) de esta guía.`,
+    faq: [
+      {
+        question: "¿Cómo funciona la tapa tipo prensa?",
+        answer: "Se abre 180° y al cerrarla cocina el alimento de los dos lados a la vez, como una sanguichera, más rápido que una parrilla abierta.",
+      },
+      {
+        question: "¿Alcanza para una familia?",
+        answer: "Según una reseña real, es chica para más de 2 personas. Para grupos más grandes, la Philco PGE389BP de esta guía, con dos zonas de cocción simultáneas, rinde mejor.",
+      },
+      {
+        question: "¿Se pueden sacar las placas para lavar?",
+        answer: "No, según una reseña real las placas son fijas, lo que complica un poco la limpieza a fondo comparado con opciones que sí las tienen desmontables.",
+      },
+      {
+        question: "¿Por qué es la más barata de esta guía?",
+        answer: "Tiene menor superficie de cocción y menos accesorios (sin depósito de grasa separado) que las otras 3 opciones, aunque suma la ventaja de la tapa a presión que cocina de los dos lados a la vez.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Parrilla Eléctrica Novohome NH-GR1000",
+      image: ["https://http2.mlstatic.com/D_Q_NP_696240-MLA112628117156_062026-F.webp"],
+      description: "Parrilla eléctrica Novohome NH-GR1000, tapa tipo prensa apertura 180°, superficie antiadherente de cerámica.",
+      brand: { "@type": "Brand", name: "Novohome" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/plancha-parrilla-grill-electrica-doble-novohome-placas-antiadherente-de-ceramica-tapa-prensa-sandwichera-panini-apertura-180/p/MLA56253561",
+        priceCurrency: "ARS",
+        price: "67890",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "146",
+      },
+    },
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva alarma-para-casa — silo seguridad, categoria
+  // "alarmas-para-casa". Origen: research de silos flacos 2026-07-19
+  // (2da tanda), keyword "alarma para casa" (4.400/mes, CPC alto,
+  // Keyword Planner). Fuente de sourcing: Bright Data
+  // (scrape_as_markdown) sobre MercadoLibre Argentina, 2026-07-19.
+  // El 4to pick original (alarma solar CBT de importación) fue
+  // descartado por no cumplir el estándar de honestidad de
+  // docs/fichas.md (solo 9 calificaciones, sin garantía, vendedor
+  // sin trayectoria) y reemplazado por un sensor solar de vendedor
+  // con trazabilidad real.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA28261746",
+    title: "Kit Alarma Hogar Pst G30 Inalámbrico 4 Sensores Wifi Y Sirena Externa",
+    canonicalName: "Kit Alarma Hogar PST G30",
+    price: 253201,
+    originalPrice: 299990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_744521-MLA99387109980_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_744521-MLA99387109980_112025-F.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/kit-alarma-hogar-pst-g30-inalambrico-4-sensores-wifi-y-sirena-externa/p/MLA28261746",
+    affiliateUrl: "https://meli.la/2tv7arA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 861,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "PST" },
+      { label: "Modelo", value: "G30" },
+      { label: "Central", value: "Táctil, pantalla LCD 2,4\"" },
+      { label: "Kit incluye", value: "2 sensores de movimiento PIR, 2 sensores de puerta/ventana, sirena interior cableada 110dB, sirena exterior inalámbrica 110dB, 2 controles remoto, 2 tags RFID" },
+      { label: "Conectividad", value: "WiFi + GSM, 3 zonas cableadas, hasta 100 zonas inalámbricas" },
+      { label: "Batería", value: "Litio 3.7V/2.000 mAh, hasta 10 h de autonomía (según fabricante)" },
+      { label: "Alcance declarado", value: "100 m en espacio abierto (según fabricante)" },
+      { label: "App", value: "Tuya Smart / Smart Life" },
+      { label: "Vendedor", value: "Tienda oficial TRICUBO" },
+    ],
+    relatedProducts: ["MLA58030955", "MLA43987591", "MLA45993557"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Kit de alarma hogar PST G30: el más completo y con más reseñas reales de esta guía (861 calificaciones), con central táctil, 4 sensores, sirena interior y exterior, WiFi y GSM.",
+    seoTitle: "PST G30: el kit de alarma para casa más completo",
+    metaDescription: "Kit de alarma hogar PST G30, WiFi y GSM, 4 sensores. 861 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás el kit de alarma para casa más completo de esta guía: central táctil, 4 sensores (2 de movimiento, 2 de puerta/ventana), sirena interior y exterior, WiFi y GSM como respaldo, y el mayor volumen de reseñas reales (861) de esta comparativa. La contra real, según una reseña con 20 votos útiles: la central y el tablero están en la misma unidad, así que conviene instalarla en un lugar oculto para que un intruso no la desactive apenas entra. No es para vos si buscás la opción más económica: para eso, el i-tob de esta guía.",
+    pros: [
+      "El más completo y con más reseñas reales de esta guía: 861 calificaciones",
+      "Kit con 4 sensores, sirena interior y exterior, 2 controles remoto y 2 tags RFID",
+      "Doble conectividad WiFi + GSM, hasta 100 zonas inalámbricas",
+      "\"No dispara falsas alarmas... el sonido de la sirena interna y externa es muy fuerte\", según una reseña con 24 votos útiles",
+    ],
+    cons: [
+      "La central y el tablero están en una sola unidad: \"si ingresa una persona no deseada al inmueble y llega rápidamente al tablero puede desconectar la alarma... se debe colocar en un lugar oculto\", según una reseña con 20 votos útiles",
+      "Manual en inglés, según una reseña real (aunque se resuelve con tutoriales en video)",
+      "No confirmado cómo se comporta la sirena exterior a la intemperie a largo plazo, según una reseña con 28 votos útiles",
+      "Sin mención de homologación ENACOM en la ficha ni en la página del fabricante, un patrón común en esta categoría en MercadoLibre Argentina",
+    ],
+    articleBody: `## Qué es y para quién
+
+El PST G30 es un kit de alarma para casa inalámbrico con central táctil, 4 sensores y doble conectividad (WiFi + GSM), el más completo y con más reseñas reales de esta guía. Es la compra segura para quien busca un sistema completo desde el día uno, sin armar el kit por separado.
+
+## Cómo funciona
+
+Central con pantalla LCD táctil de 2,4", 2 sensores de movimiento PIR, 2 sensores de puerta/ventana, sirena interior cableada y sirena exterior inalámbrica (ambas de 110dB), 2 controles remoto y 2 tags RFID. Se conecta por WiFi y GSM (chip celular como respaldo si se corta el WiFi), con hasta 100 zonas inalámbricas configurables. El fabricante declara 10 horas de autonomía de batería y 100 metros de alcance en espacio abierto. La app es Tuya Smart / Smart Life.
+
+## La contra real
+
+El punto de instalación más importante, según una reseña real con 20 votos útiles: "la central y el tablero está todo en una sola unidad, si ingresa una persona no deseada al inmueble y llega rápidamente al tablero puede desconectar la alarma... se debe colocar en un lugar oculto". No es una falla del producto, es una recomendación de instalación que conviene seguir. Otra reseña con 28 votos útiles reporta que las sirenas suenan muy fuerte, pero no está confirmado cómo se comporta la carcasa plástica de la sirena exterior a la intemperie con el tiempo.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [i-tob KIT4s](/producto/MLA58030955) (más económico), el PST G30 suma más zonas inalámbricas y mayor volumen de reseñas. Frente al [Hikvision AXHome](/producto/MLA43987591) (monitoreo por app), el PST usa Tuya/Smart Life en vez del ecosistema Hik-Connect. Frente al [sensor solar Tuya](/producto/MLA45993557) (diferenciado), el PST es un kit completo con central, no un sensor standalone.
+
+## Para quién sí y para quién no
+
+Comprá el PST G30 si buscás el kit más completo y con más respaldo de compradores reales de esta guía, instalando la central en un lugar oculto. No es para vos si buscás el precio más bajo: para eso, el [i-tob KIT4s](/producto/MLA58030955) de esta guía.`,
+    faq: [
+      {
+        question: "¿Por qué tiene tantas reseñas reales?",
+        answer: "Es el kit con mayor volumen de ventas de esta guía: 861 calificaciones, muy por encima de las otras opciones del sourcing.",
+      },
+      {
+        question: "¿Dónde conviene instalar la central?",
+        answer: "En un lugar oculto. Según una reseña real, la central y el tablero de control están en la misma unidad, así que si un intruso la encuentra rápido puede desactivar la alarma.",
+      },
+      {
+        question: "¿Funciona sin WiFi?",
+        answer: "Sí, tiene chip GSM como respaldo además del WiFi, para seguir avisando aunque se corte la conexión a internet de tu casa.",
+      },
+      {
+        question: "¿Tiene homologación ENACOM?",
+        answer: "Ni la ficha de MercadoLibre ni la página del fabricante lo mencionan explícitamente, un patrón común en esta categoría de productos en Argentina.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Kit Alarma Hogar PST G30",
+      image: ["https://http2.mlstatic.com/D_Q_NP_744521-MLA99387109980_112025-F.webp"],
+      description: "Kit de alarma hogar PST G30, inalámbrico, 4 sensores, WiFi y GSM, sirena interior y exterior.",
+      brand: { "@type": "Brand", name: "PST" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/kit-alarma-hogar-pst-g30-inalambrico-4-sensores-wifi-y-sirena-externa/p/MLA28261746",
+        priceCurrency: "ARS",
+        price: "253201",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "861",
+      },
+    },
+  },
+  {
+    id: "MLA58030955",
+    title: "Alarma Inalámbrica I-tob It-wgp-kit4s Wifi Gsm Casa Con Sensores Y Sirena",
+    canonicalName: "Alarma i-tob IT-WGP-KIT4s",
+    price: 227655,
+    originalPrice: 266700,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_856760-MLA99529813900_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_856760-MLA99529813900_122025-F.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/alarma-inalambrica-i-tob-it-wgp-kit4s-wifi-gsm-casa-con-sensores-y-sirena/p/MLA58030955",
+    affiliateUrl: "https://meli.la/1qWQw4J",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 288,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "i-tob" },
+      { label: "Modelo", value: "IT-WGP-KIT4s" },
+      { label: "Kit incluye", value: "Panel central, sirena interior cableada 110dB, sirena exterior cableada 110dB (cable no incluido), 2 sensores de movimiento, 2 sensores magnéticos, 2 controles" },
+      { label: "Conectividad", value: "WiFi + GSM + PSTN" },
+      { label: "Batería", value: "Litio 400 mAh" },
+      { label: "Alcance real declarado por el fabricante (itob.com.ar)", value: "100 m en espacio abierto, ~40 m dentro de una casa" },
+      { label: "App", value: "SmartLife-Tuya" },
+      { label: "Vendedor", value: "Tienda oficial I TOB" },
+    ],
+    relatedProducts: ["MLA28261746", "MLA43987591", "MLA45993557"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Alarma i-tob IT-WGP-KIT4s: el kit completo más económico de esta guía, con WiFi, GSM y PSTN, y un dato de alcance real confirmado por el propio fabricante.",
+    seoTitle: "i-tob KIT4s: el kit de alarma más económico",
+    metaDescription: "Alarma i-tob IT-WGP-KIT4s, WiFi y GSM. El kit completo más barato de esta guía, opiniones reales.",
+    verdict: "Sirve si buscás el kit de alarma completo más económico de esta guía, con 288 calificaciones reales y triple conectividad (WiFi + GSM + PSTN). Un dato a favor de la honestidad de esta marca: su propia página oficial (itob.com.ar) declara un alcance más conservador (100 m en espacio abierto, pero solo ~40 m dentro de una casa) que el número de marketing que suelen usar otras marcas de la categoría. La contra real: si comprás la versión con sirena exterior, el cable no viene incluido, hay que comprarlo aparte. No es para vos si buscás tags RFID, expansión a 100 zonas inalámbricas o mayor volumen de reseñas: para eso, el PST G30 de esta guía.",
+    pros: [
+      "El kit completo más económico de esta guía",
+      "Triple conectividad: WiFi + GSM + PSTN (línea de teléfono fija como respaldo adicional)",
+      "El fabricante (itob.com.ar) declara un alcance real más conservador y específico (~40 m dentro de casa) que el marketing genérico de otras marcas",
+      "\"Las sirenas son super potentes, los sensores son sensibles\", según una reseña real",
+    ],
+    cons: [
+      "Si comprás con sirena exterior, el cable no viene incluido: \"compré con sirena externa y no trae el cable, tenés que comprarlo por tu cuenta\", según una reseña real",
+      "Manual confuso, según una reseña real (\"si te mandas solo con el manual estás al horno... la clave es ver los videos tutoriales\")",
+      "Sin tags RFID ni la capacidad de expansión a 100 zonas inalámbricas que declara el PST G30 de esta guía (el número de sensores incluidos es el mismo: 2 de movimiento + 2 de puerta/ventana)",
+      "Sin mención de homologación ENACOM en la ficha ni en la página del fabricante",
+    ],
+    articleBody: `## Qué es y para quién
+
+La alarma i-tob IT-WGP-KIT4s es un kit de alarma para casa inalámbrico, el más económico de esta guía entre los que ofrecen central completa (no un sensor standalone). Es la opción para quien busca cubrir lo básico de una alarma con central, sensores y sirenas, sin pagar de más.
+
+## Cómo funciona
+
+Panel central con batería de litio, sirena interior cableada y sirena exterior cableada (ambas de 110dB), 2 sensores de movimiento y 2 sensores magnéticos, 2 controles remoto, con conectividad WiFi, GSM y PSTN (línea de teléfono fija como respaldo adicional). El fabricante (itob.com.ar) declara un alcance de 100 metros en espacio abierto, pero aclara explícitamente que dentro de una casa con paredes ese alcance baja a unos 40 metros — un dato más honesto y específico que el que suelen dar otras marcas de la categoría.
+
+## La contra real
+
+Si elegís la versión con sirena exterior, el cable de esa sirena no viene incluido en la caja: "compré con sirena externa y no trae el cable, tenés que comprarlo por tu cuenta", confirma una reseña real. Es un detalle que conviene tener en cuenta antes de comprar para no llevarte una sorpresa en la instalación. El manual también recibe críticas de confuso, aunque los compradores resuelven con tutoriales en video.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [PST G30](/producto/MLA28261746) (más completo, más caro), el i-tob cubre lo esencial a menor precio. Frente al [Hikvision AXHome](/producto/MLA43987591) (monitoreo por app), el i-tob usa la misma familia de apps Tuya que el PST. Frente al [sensor solar Tuya](/producto/MLA45993557) (diferenciado), el i-tob es un kit completo, no un sensor standalone.
+
+## Para quién sí y para quién no
+
+Comprá el i-tob si buscás el kit completo más económico de esta guía y no te molesta comprar el cable de la sirena exterior aparte. No es para vos si buscás tags RFID, expansión a 100 zonas inalámbricas o el mayor respaldo de reseñas reales: para eso, el [PST G30](/producto/MLA28261746) de esta guía.`,
+    faq: [
+      {
+        question: "¿Por qué es más barato que el PST G30?",
+        answer: "Trae el mismo número de sensores que el PST (2 de movimiento y 2 magnéticos), pero sin tags RFID ni la capacidad declarada de expansión a 100 zonas inalámbricas, aunque mantiene triple conectividad WiFi + GSM + PSTN.",
+      },
+      {
+        question: "¿El cable de la sirena exterior viene incluido?",
+        answer: "No, según una reseña real. Si comprás la versión con sirena exterior, tenés que conseguir el cable por tu cuenta.",
+      },
+      {
+        question: "¿Cuál es el alcance real?",
+        answer: "El fabricante (itob.com.ar) declara 100 metros en espacio abierto, pero aclara que dentro de una casa con paredes ese alcance baja a unos 40 metros — un dato más honesto que el marketing genérico de otras marcas.",
+      },
+      {
+        question: "¿Funciona si se corta la luz o internet?",
+        answer: "Tiene batería propia y triple conectividad (WiFi, GSM y línea de teléfono fija PSTN), pensada para seguir funcionando aunque falle alguna de las conexiones.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Alarma i-tob IT-WGP-KIT4s",
+      image: ["https://http2.mlstatic.com/D_Q_NP_856760-MLA99529813900_122025-F.webp"],
+      description: "Alarma i-tob IT-WGP-KIT4s, kit inalámbrico WiFi + GSM + PSTN, sensores y sirena.",
+      brand: { "@type": "Brand", name: "i-tob" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/alarma-inalambrica-i-tob-it-wgp-kit4s-wifi-gsm-casa-con-sensores-y-sirena/p/MLA58030955",
+        priceCurrency: "ARS",
+        price: "227655",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "288",
+      },
+    },
+  },
+  {
+    id: "MLA43987591",
+    title: "Kit Panel Alarma Wifi 4g Ax Home Hikvision 16 Zonas Sensor",
+    canonicalName: "Kit Alarma Hikvision AXHome WiFi + 4G",
+    price: 362003,
+    originalPrice: 533141,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_768934-MLA102089667243_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_768934-MLA102089667243_122025-F.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/kit-panel-alarma-wifi-4g-ax-home-hikvision-16-zonas-sensor/p/MLA43987591",
+    affiliateUrl: "https://meli.la/1rAcNqo",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 37,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Hikvision" },
+      { label: "Línea", value: "AXHome" },
+      { label: "Modelo", value: "DS-PA101-16P-WB" },
+      { label: "Zonas", value: "16" },
+      { label: "Kit incluye", value: "Central, control remoto, sensor PIR inalámbrico, sensor magnético" },
+      { label: "Conectividad", value: "WiFi 802.11 b/g/n + 4G (chip Claro/Movistar/Personal) + RF 433.1-433.7MHz" },
+      { label: "Alcance declarado", value: "1.200 m (según fabricante Hikvision LatAm)" },
+      { label: "Batería de respaldo", value: "Hasta 12 h (según fabricante; la ficha de MercadoLibre declara 10 h)" },
+      { label: "Inmune a mascotas", value: "Hasta 24 kg" },
+      { label: "App", value: "AXHOME + Hik-Connect" },
+      { label: "Comandos de voz", value: "Compatible Alexa / Google Home" },
+      { label: "Vendedor", value: "Tienda oficial Hikvision" },
+    ],
+    relatedProducts: ["MLA28261746", "MLA58030955", "MLA45993557"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Kit de alarma Hikvision AXHome: la opción de monitoreo por app y celular más robusta de esta guía, de una marca global reconocida en seguridad, con WiFi y 4G.",
+    seoTitle: "Hikvision AXHome: alarma con monitoreo por app y 4G",
+    metaDescription: "Kit de alarma Hikvision AXHome WiFi + 4G, 16 zonas. Monitoreo por app, marca reconocida, opiniones reales.",
+    verdict: "Sirve si buscás el kit de alarma con el ecosistema de app más robusto de esta guía, de una marca globalmente reconocida en seguridad (Hikvision), con WiFi y chip 4G como doble respaldo de conectividad. La contra real, repetida en 2 reseñas independientes: el failover a 4G no es automático si se corta el WiFi, algo que contradice un poco la promesa de \"doble conectividad para nunca quedarte sin cobertura\". Es también la opción más cara de esta guía, con menos volumen de reseñas locales (37) que las otras 2 opciones de kit completo. No es para vos si buscás el precio más bajo: para eso, el i-tob de esta guía.",
+    pros: [
+      "Marca globalmente reconocida en seguridad electrónica (Hikvision), no un OEM genérico",
+      "16 zonas, la mayor capacidad de expansión de esta guía",
+      "Doble conectividad WiFi + 4G con chip celular propio",
+      "App AXHOME + ecosistema Hik-Connect, compatible con Alexa y Google Home",
+    ],
+    cons: [
+      "El failover a 4G no es automático si se corta el WiFi, según 2 reseñas reales independientes: \"estoy teniendo problemas cuando me quedo sin internet, no se conecta automáticamente a la red de celular\"",
+      "La opción más cara de esta guía",
+      "Menor volumen de reseñas locales (37) que el PST G30 (861) o el i-tob (288) de esta guía",
+      "Instalación reportada como más difícil por al menos una reseña real",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Hikvision AXHome es un kit de alarma para casa con central de 16 zonas, WiFi y chip 4G propio, de una marca global reconocida en seguridad electrónica. Es la opción para quien prioriza el respaldo de marca y un ecosistema de app más robusto (Hik-Connect) por sobre el precio.
+
+## Cómo funciona
+
+Central Hikvision DS-PA101-16P-WB de 16 zonas, con sensor PIR inalámbrico y sensor magnético incluidos, control remoto, WiFi 802.11 b/g/n, chip 4G (compatible Claro, Movistar y Personal) y RF 433.1-433.7 MHz. El fabricante declara 1.200 metros de alcance y hasta 12 horas de batería de respaldo (la ficha de MercadoLibre es algo más conservadora: 10 horas). Es inmune a mascotas de hasta 24 kg, y se maneja con la app AXHOME o Hik-Connect, con comandos de voz compatibles con Alexa y Google Home.
+
+## La contra real
+
+El ángulo de marketing de "doble conectividad para nunca quedarte sin cobertura" tiene una letra chica real, confirmada por 2 reseñas independientes: el paso a la red 4G no es automático si se corta el WiFi. Una reseña real lo describe así: "estoy teniendo problemas cuando me quedo sin internet [porque] no se conecta automáticamente a la red de celular por lo que me quedo sin conexión en la aplicación". Otra reseña, que todavía no probó el escenario de corte, admite que le "faltó agregar el chip 4G, para ver cómo funciona cuando se corta la luz/internet". Conviene configurar y probar ese failover apenas instalada, no asumirlo.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [PST G30](/producto/MLA28261746) (más económico y con más reseñas locales), el Hikvision suma respaldo de marca global y más zonas de expansión. Frente al [i-tob KIT4s](/producto/MLA58030955), el Hikvision cuesta bastante más. Frente al [sensor solar Tuya](/producto/MLA45993557) (diferenciado), el Hikvision es un kit completo con central de 16 zonas, no un sensor standalone.
+
+## Para quién sí y para quién no
+
+Comprá el Hikvision AXHome si priorizás el respaldo de una marca global y planeás expandir el sistema a muchas zonas, y probás el failover a 4G apenas lo instalás. No es para vos si buscás el precio más bajo o el mayor volumen de reseñas locales: para eso, el [PST G30](/producto/MLA28261746) o el [i-tob](/producto/MLA58030955) de esta guía.`,
+    faq: [
+      {
+        question: "¿El chip 4G funciona automáticamente si se corta el WiFi?",
+        answer: "No, según 2 reseñas reales independientes. Conviene configurar y probar ese paso manualmente apenas instalada, no asumir que es automático.",
+      },
+      {
+        question: "¿Por qué es más cara que las otras de esta guía?",
+        answer: "Es de una marca global reconocida en seguridad electrónica (Hikvision), con 16 zonas de expansión (la mayor capacidad de esta guía) y ecosistema de app Hik-Connect.",
+      },
+      {
+        question: "¿Es compatible con Alexa o Google Home?",
+        answer: "Sí, según el fabricante, tiene comandos de voz compatibles con ambos asistentes.",
+      },
+      {
+        question: "¿Por qué tiene menos reseñas que el PST G30?",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual (37 contra 861 calificaciones), aunque su rating (4.6) es alto y es de una marca con mayor reconocimiento global.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Kit Alarma Hikvision AXHome",
+      image: ["https://http2.mlstatic.com/D_Q_NP_768934-MLA102089667243_122025-F.webp"],
+      description: "Kit de alarma Hikvision AXHome, WiFi + 4G, 16 zonas, monitoreo por app.",
+      brand: { "@type": "Brand", name: "Hikvision" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/kit-panel-alarma-wifi-4g-ax-home-hikvision-16-zonas-sensor/p/MLA43987591",
+        priceCurrency: "ARS",
+        price: "362003",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "37",
+      },
+    },
+  },
+  {
+    id: "MLA45993557",
+    title: "Sensor De Movimiento Inalámbrico Tuya Solar Wifi Y 433mhz Alarma Blanco",
+    canonicalName: "Sensor de Movimiento Solar Tuya CT80WR",
+    price: 53534,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_868906-MLA82337556887_022025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_868906-MLA82337556887_022025-F.webp",
+    ],
+    category: "Seguridad",
+    categorySlug: "seguridad",
+    permalink: "https://www.mercadolibre.com.ar/sensor-de-movimiento-inalambrico-tuya-solar-wifi-y-433mhz-alarma-blanco/p/MLA45993557",
+    affiliateUrl: "https://meli.la/2kJVmG9",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 102,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Tuya - Smart Life" },
+      { label: "Modelo", value: "CT80WR" },
+      { label: "Alimentación", value: "Solar, con batería de respaldo Ion de litio 600 mAh" },
+      { label: "Nivel de sonido", value: "120 dB" },
+      { label: "Distancia de cobertura", value: "12 m" },
+      { label: "Inmune a mascotas", value: "Hasta 10 kg" },
+      { label: "Resistente a la intemperie", value: "Sí" },
+      { label: "Conectividad", value: "WiFi + 433 MHz, incluye control remoto" },
+      { label: "App", value: "Tuya Smart Life" },
+      { label: "Vendedor", value: "Crafty Solution (Tienda Oficial)" },
+      { label: "Nota sobre reseñas", value: "MercadoLibre aclara que el conteo de calificaciones incluye opiniones de otros países, no todas son de Argentina" },
+    ],
+    relatedProducts: ["MLA28261746", "MLA58030955", "MLA43987591"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Sensor de movimiento solar Tuya CT80WR: la opción diferenciada de esta guía, standalone (sin necesidad de central), para exterior, con carga solar y sirena integrada de 120dB.",
+    seoTitle: "Sensor solar Tuya CT80WR: alarma para el exterior sin central",
+    metaDescription: "Sensor de movimiento solar Tuya CT80WR, sirena 120dB, para exterior. Opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás cubrir un patio, garaje o frente de casa sin instalar una central completa: es un sensor con sirena integrada de 120dB, carga solar (sin cables ni pilas que cambiar) y resistente a la intemperie. La contra real, repetida en varias reseñas: no se puede cambiar de modo, poner horarios ni desactivarlo desde la app, solo con el control remoto físico estando presente en el lugar. También el sensor infrarrojo puede confundirse y disparar falsas alarmas de día, según reseñas reales. No es para vos si buscás un sistema central con varios sensores integrados: para eso, cualquiera de los otros 3 kits de esta guía.",
+    pros: [
+      "Standalone: no necesita central, se instala solo con carga solar",
+      "Sirena integrada de 120dB, resistente a la intemperie",
+      "Vendedor con trazabilidad real (Tienda Oficial Crafty Solution)",
+      "\"De lo mejor en alarma\", según una reseña real",
+    ],
+    cons: [
+      "No se puede cambiar de modo, poner horarios ni desactivarlo desde la app: solo con el control remoto físico, estando presente en el lugar, según 2 reseñas reales",
+      "El sensor infrarrojo puede confundirse y disparar falsas alarmas de día, según una reseña real y el resumen de opiniones de MercadoLibre",
+      "Sin instrucciones en castellano, según una reseña real",
+      "Es un sensor individual, no un kit con central ni múltiples sensores como las otras 3 opciones de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El sensor de movimiento Tuya CT80WR es una alarma solar todo-en-uno (sensor + sirena + panel solar) para exterior, la opción diferenciada de esta guía. Es para quien quiere proteger un patio, garaje o frente de casa sin instalar una central completa ni depender del WiFi de adentro de la casa.
+
+## Cómo funciona
+
+Sensor infrarrojo con sirena integrada de 120dB, luces estroboscópicas LED, resistente a la intemperie (IP65), carga solar con batería de respaldo de litio (600 mAh), y conectividad WiFi + 433 MHz con control remoto incluido. Detecta movimiento en un radio de 12 metros y es inmune a mascotas de hasta 10 kg. Se administra con la app Tuya Smart Life.
+
+## La contra real
+
+La limitación más repetida en las reseñas no es de hardware, sino de software: no se puede cambiar el modo de la alarma (solo luz, o luz y sirena), poner horarios ni desactivarla desde la app — hay que hacerlo con el control remoto físico, estando presente en el lugar. "Leer bien antes de comprar. No sé puede apagar desde la app", resume una reseña real. Otra reseña reporta que el sensor infrarrojo "se puede confundir y activar" durante el día, aunque "a la noche impecable, suena fuerte".
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [PST G30](/producto/MLA28261746), el [i-tob KIT4s](/producto/MLA58030955) y el [Hikvision AXHome](/producto/MLA43987591) (los 3 kits completos con central y varios sensores), el Tuya es un sensor individual standalone: no reemplaza un sistema central, pero cubre un ángulo que ninguno de los otros 3 resuelve tan bien: protección de exterior sin cables ni instalación de central.
+
+## Para quién sí y para quién no
+
+Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exterior (patio, garaje, frente) sin instalar una central completa. No es para vos si buscás un sistema de alarma integral para toda la casa con varios sensores coordinados: para eso, cualquiera de los otros 3 kits de esta guía.`,
+    faq: [
+      {
+        question: "¿Necesita una central de alarma para funcionar?",
+        answer: "No, es standalone: el sensor, la sirena y el panel solar están integrados en una sola unidad, sin necesidad de instalar una central aparte.",
+      },
+      {
+        question: "¿Se puede controlar todo desde la app?",
+        answer: "No del todo. Según varias reseñas reales, cambiar de modo, poner horarios o desactivar la alarma solo se puede hacer con el control remoto físico, estando presente en el lugar.",
+      },
+      {
+        question: "¿Da falsas alarmas?",
+        answer: "Puede pasar durante el día, según una reseña real y el resumen de opiniones de MercadoLibre: el sensor infrarrojo a veces se confunde con luz solar directa o movimiento ambiental.",
+      },
+      {
+        question: "¿Sirve para reemplazar un kit de alarma completo?",
+        answer: "No, es un sensor individual para un punto específico (patio, garaje, frente). Para un sistema completo con varios sensores coordinados, mirá el [PST G30](/producto/MLA28261746) o el [i-tob KIT4s](/producto/MLA58030955) de esta guía.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Sensor de Movimiento Solar Tuya CT80WR",
+      image: ["https://http2.mlstatic.com/D_Q_NP_868906-MLA82337556887_022025-F.webp"],
+      description: "Sensor de movimiento solar Tuya CT80WR, sirena 120dB, resistente a la intemperie, para exterior.",
+      brand: { "@type": "Brand", name: "Tuya" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/sensor-de-movimiento-inalambrico-tuya-solar-wifi-y-433mhz-alarma-blanco/p/MLA45993557",
+        priceCurrency: "ARS",
+        price: "53534",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "102",
+      },
+    },
+  },
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva smartwatch — silo tech, categoria "smartwatches".
+  // Origen: research de silos flacos 2026-07-19 (2da tanda), keyword
+  // "smartwatch" (33.100/mes, el mayor volumen del barrido, Keyword
+  // Planner). Fuente de sourcing: Bright Data (scrape_as_markdown +
+  // scrape_batch) sobre MercadoLibre Argentina, 2026-07-19. Se evitó
+  // deliberadamente cualquier clon genérico tipo "X8 Ultra"/"S8
+  // Ultra" con claims médicos falsos: los 4 productos son de marcas
+  // trazables (Xiaomi, JD Jottade, Amazfit/Zepp Health, Haylou).
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA42520227",
+    title: "Smartwatch Xiaomi Redmi 5 Lite 1.96 Negro",
+    canonicalName: "Smartwatch Xiaomi Redmi Watch 5 Lite",
+    price: 75999,
+    originalPrice: 99999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_661173-MLA99926131065_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_661173-MLA99926131065_112025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/smartwatch-xiaomi-redmi-5-lite-196-negro/p/MLA42520227",
+    affiliateUrl: "https://meli.la/1offdcv",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 30857,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Xiaomi" },
+      { label: "Modelo", value: "Redmi Watch 5 Lite (M2352W1)" },
+      { label: "Pantalla", value: "AMOLED 1,96\", 410x502 px, 332 PPP" },
+      { label: "Caja", value: "48,1 mm, 29,2 g sin correa" },
+      { label: "Batería", value: "470 mAh, hasta 18 días declarados (en uso real, 7 a 15 días según intensidad)" },
+      { label: "GPS", value: "Real e integrado (GPS, Galileo, Glonass, BeiDou, QZSS), no depende del celular" },
+      { label: "Resistencia al agua", value: "50 m" },
+      { label: "Sensores", value: "Frecuencia cardíaca, SpO2, acelerómetro, giroscopio" },
+      { label: "Conectividad", value: "Bluetooth 5.3. Sin NFC, sin WiFi" },
+      { label: "Compatibilidad", value: "Android 8.0+ / iOS 12.0+ (app HyperOS)" },
+    ],
+    relatedProducts: ["MLA26666337", "MLA51929440", "MLA24530447"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Smartwatch Xiaomi Redmi Watch 5 Lite: el más elegido de esta guía, 1° más vendido de la categoría en MercadoLibre Argentina, con GPS real integrado y pantalla AMOLED.",
+    seoTitle: "Xiaomi Redmi Watch 5 Lite: el smartwatch más vendido",
+    metaDescription: "Smartwatch Xiaomi Redmi Watch 5 Lite, GPS real, pantalla AMOLED. El más vendido de Argentina, precio actualizado.",
+    verdict: "Sirve si buscás el smartwatch con más respaldo de compradores reales de esta guía: 1° más vendido de la categoría en MercadoLibre Argentina, con GPS real integrado (no depende del celular) y pantalla AMOLED de buena resolución. La contra real: la batería declarada por el fabricante (18 días) no se sostiene en uso intensivo, según varias reseñas reales que reportan entre 7 y 15 días según cuánto uses el GPS y el Bluetooth conectado. No es para vos si buscás responder mensajes desde la muñeca: una reseña real aclara que no se puede responder notificaciones desde el reloj.",
+    pros: [
+      "1° más vendido de la categoría Smartwatches en MercadoLibre Argentina, con 30.857 opiniones (incluye otros países)",
+      "GPS real integrado (GPS, Galileo, Glonass, BeiDou, QZSS), no necesita el celular para medir distancia",
+      "Pantalla AMOLED de buena resolución (410x502 px, 332 PPP)",
+      "Resistente al agua hasta 50 m, apto para natación",
+    ],
+    cons: [
+      "La batería real es menor a los 18 días declarados por el fabricante: reseñas reales reportan entre 7 días (uso intensivo con GPS y Bluetooth conectado) y 12-15 días (uso moderado)",
+      "No se puede responder notificaciones desde el reloj, según una reseña real con 410 votos útiles",
+      "Sin NFC ni WiFi",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Xiaomi Redmi Watch 5 Lite es un smartwatch con GPS real y pantalla AMOLED, el 1° más vendido de la categoría Smartwatches en MercadoLibre Argentina. Es la compra segura para quien quiere un reloj inteligente completo sin pagar el precio de un modelo premium.
+
+## Cómo funciona
+
+Pantalla AMOLED de 1,96" (410x502 px, 332 PPP), caja de 48,1 mm y 29,2 g sin correa, batería de 470 mAh con hasta 18 días de autonomía declarados por el fabricante. Tiene GPS real integrado (no depende de la conexión con el celular para medir distancia recorrida) con soporte Galileo, Glonass, BeiDou y QZSS, sensor de frecuencia cardíaca y SpO2, y resistencia al agua de 50 metros. Se conecta por Bluetooth 5.3, sin NFC ni WiFi.
+
+## La contra real
+
+La batería declarada por el fabricante (18 días) es un número de mejor caso. Una reseña real con 410 votos útiles detalla: "el producto es bueno... la batería si le das un uso de ejercicio continuo y bluetooth conectado te dura unos 7 días... lo malo es que no puedes responder desde el reloj ninguna notificación". Otra reseña con 248 votos útiles calcula una batería real de 12 a 15 días con uso moderado, más cercana a lo declarado. Es la brecha habitual entre laboratorio y uso cotidiano, no un engaño: la diferencia depende directamente de cuánto uses el GPS y el Bluetooth conectado.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [JD Venecia Sport](/producto/MLA26666337) (económico), el Xiaomi suma GPS real y pantalla AMOLED, pero cuesta el doble. Frente al [Amazfit Bip 6](/producto/MLA51929440) (premium), el Amazfit tiene asistente de voz con IA y mejor batería confirmada en uso real. Frente al [Haylou Solar LS05S](/producto/MLA24530447) (batería de 15 días), el Xiaomi tiene mejor pantalla y GPS, pero menos autonomía.
+
+## Para quién sí y para quién no
+
+Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo de compradores reales de esta guía, con GPS real para entrenar sin el celular. No es para vos si priorizás la mayor autonomía de batería posible: para eso, el [Haylou Solar LS05S](/producto/MLA24530447) de esta guía.`,
+    faq: [
+      {
+        question: "¿La batería dura realmente 18 días?",
+        answer: "En uso intensivo (GPS y Bluetooth conectado todo el día), varias reseñas reales reportan unos 7 días. Con uso moderado, otras reportan 12 a 15 días. El número de 18 días del fabricante es el mejor caso posible.",
+      },
+      {
+        question: "¿Se puede usar sin el celular para correr?",
+        answer: "Sí, tiene GPS real integrado (no conectado al celular), según confirman varias reseñas reales de compradores que lo usan para correr y nadar.",
+      },
+      {
+        question: "¿Se puede responder WhatsApp desde el reloj?",
+        answer: "No, según una reseña real: se pueden recibir notificaciones pero no responderlas desde el reloj.",
+      },
+      {
+        question: "¿Por qué es el más vendido de esta guía?",
+        answer: "Es el 1° más vendido de la categoría Smartwatches en MercadoLibre Argentina, con el mayor volumen de opiniones reales de este sourcing.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smartwatch Xiaomi Redmi Watch 5 Lite",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_661173-MLA99926131065_112025-O.webp"],
+      description: "Smartwatch Xiaomi Redmi Watch 5 Lite, pantalla AMOLED 1,96\", GPS real integrado.",
+      brand: { "@type": "Brand", name: "Xiaomi" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/smartwatch-xiaomi-redmi-5-lite-196-negro/p/MLA42520227",
+        priceCurrency: "ARS",
+        price: "75999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "30857",
+      },
+    },
+  },
+  {
+    id: "MLA26666337",
+    title: "Smartwatch JD Venecia Sport Bluetooth Llamadas Pantalla 1.96 Táctil Malla Color Negro Resistente Al Agua IP68",
+    canonicalName: "Smartwatch JD Venecia Sport",
+    price: 37258,
+    originalPrice: 49999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_956541-MLA109309748244_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_956541-MLA109309748244_042026-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-196-tactil-malla-color-negro-resistente-al-agua-ip68/p/MLA26666337",
+    affiliateUrl: "https://meli.la/1GqT6GT",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 5876,
+    soldQuantity: 100000,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "JD Jottade" },
+      { label: "Modelo", value: "JD Venecia T32-1" },
+      { label: "Pantalla", value: "Digital 1,96\", 240x286 (no AMOLED)" },
+      { label: "Batería", value: "300 mAh, 1 semana declarada" },
+      { label: "Conectividad", value: "Bluetooth 5.0, alcance 10 m. Sin GPS, sin NFC, sin WiFi" },
+      { label: "Resistencia al agua", value: "IP68" },
+      { label: "Correa", value: "Malla de silicona" },
+      { label: "Compatibilidad", value: "Android 4.4+ / iOS 8.0+" },
+      { label: "Sensores declarados en la ficha oficial", value: "No incluye frecuencia cardíaca ni presión arterial en la lista de funciones y sensores" },
+    ],
+    relatedProducts: ["MLA42520227", "MLA51929440", "MLA24530447"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Smartwatch JD Venecia Sport: el más económico de esta guía, de tienda oficial con más de 100 mil ventas, aunque con una discrepancia real entre lo que reportan los compradores y lo que declara su ficha técnica sobre sensores de salud.",
+    seoTitle: "JD Venecia Sport: el smartwatch más económico",
+    metaDescription: "Smartwatch JD Venecia Sport, resistente al agua IP68. El más económico de esta guía, precio actualizado.",
+    verdict: "Sirve si buscás el smartwatch más económico de esta guía, de tienda oficial (JD Jottade) con más de 100 mil ventas y 5.876 calificaciones reales. Ojo con un dato importante: varias reseñas mencionan que usan la función de medir presión arterial y latidos, pero la ficha técnica oficial de MercadoLibre NO lista sensor de frecuencia cardíaca ni de presión arterial entre sus funciones. No hay forma de confirmar la precisión de esas mediciones, así que no las tomamos como un dato de venta. No es para vos si buscás GPS real o pantalla AMOLED: para eso, el Xiaomi de esta guía.",
+    pros: [
+      "El más económico de esta guía, de tienda oficial (JD Jottade) con más de 100 mil ventas",
+      "5.876 calificaciones reales",
+      "\"Por el precio la verdad me parece que está muy bien, es básico\", según una reseña real con 101 votos útiles",
+      "No se desconecta fácil del teléfono, según una reseña real",
+    ],
+    cons: [
+      "Varios compradores mencionan usar mediciones de presión arterial y latidos, pero la ficha técnica oficial NO lista esos sensores entre sus funciones — no hay forma de confirmar la precisión, no lo usamos como dato de venta",
+      "Sin GPS, sin NFC, sin WiFi",
+      "Pantalla digital simple, no AMOLED",
+      "Se puede desconectar del teléfono de la nada, según una reseña real",
+    ],
+    articleBody: `## Qué es y para quién
+
+El JD Venecia Sport es un smartwatch básico y económico, el más barato de esta guía. Es la opción para quien busca notificaciones, contador de pasos y llamadas por Bluetooth sin pagar por GPS, AMOLED ni sensores avanzados.
+
+## Cómo funciona
+
+Pantalla digital de 1,96" (240x286, no AMOLED), batería de 300 mAh con 1 semana de autonomía declarada, Bluetooth 5.0 con 10 metros de alcance, resistencia al agua IP68 y correa de malla de silicona. No tiene GPS, NFC ni WiFi.
+
+## La contra real
+
+Hay una discrepancia real que conviene señalar con honestidad: varias reseñas mencionan que usan la función de medir presión arterial ("la medición de presión arterial es bastante exacta", dice una con 41 votos útiles) y frecuencia cardíaca, pero la ficha técnica oficial de MercadoLibre no incluye ningún sensor de ese tipo en su lista de "Funciones y sensores" (solo alarma, clima, control de música, linterna, llamadas y notificaciones). Puede que el reloj sí tenga algún sensor no declarado explícitamente en la ficha, pero al no estar confirmado por el fabricante, no hay forma de validar qué tan precisas son esas mediciones — por eso no lo usamos como argumento de venta ni como dato de salud.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227) (elección general), el JD Venecia cuesta la mitad pero sin GPS ni AMOLED. Frente al [Amazfit Bip 6](/producto/MLA51929440) (premium), la diferencia de precio es de más de 4 veces. Frente al [Haylou Solar LS05S](/producto/MLA24530447) (batería 15 días), el JD Venecia es más barato pero con menos reseñas de respaldo relativo a su volumen de ventas.
+
+## Para quién sí y para quién no
+
+Comprá el JD Venecia Sport si buscás lo más básico y económico: notificaciones, pasos, llamadas por Bluetooth. No es para vos si buscás GPS real, pantalla AMOLED, o mediciones de salud confiables: para eso, el [Xiaomi](/producto/MLA42520227) o el [Amazfit](/producto/MLA51929440) de esta guía.`,
+    faq: [
+      {
+        question: "¿Mide la presión arterial de forma confiable?",
+        answer: "No está confirmado. Varias reseñas mencionan usar esa función, pero la ficha técnica oficial de MercadoLibre no lista ningún sensor de presión arterial ni de frecuencia cardíaca entre sus funciones declaradas. No lo recomendamos como dato de salud.",
+      },
+      {
+        question: "¿Por qué es tan barato?",
+        answer: "No tiene GPS, NFC ni WiFi, y su pantalla es digital simple, no AMOLED. Es un smartwatch básico enfocado en notificaciones y llamadas por Bluetooth.",
+      },
+      {
+        question: "¿Cuánto dura la batería en uso real?",
+        answer: "Según una reseña real, con notificaciones de WhatsApp y SMS activadas, dura unos 3 días y medio. Otra reseña reporta hasta una semana con menos uso.",
+      },
+      {
+        question: "¿Se desconecta seguido del celular?",
+        answer: "Una reseña real reporta que a veces se desconecta \"de la nada\", aunque otra aclara que no le pasa fácilmente comparado con otros modelos económicos.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smartwatch JD Venecia Sport",
+      image: ["https://http2.mlstatic.com/D_Q_NP_956541-MLA109309748244_042026-F.webp"],
+      description: "Smartwatch JD Venecia Sport, resistente al agua IP68, Bluetooth, notificaciones y llamadas.",
+      brand: { "@type": "Brand", name: "JD Jottade" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/smartwatch-jd-venecia-sport-bluetooth-llamadas-pantalla-196-tactil-malla-color-negro-resistente-al-agua-ip68/p/MLA26666337",
+        priceCurrency: "ARS",
+        price: "37258",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "5876",
+      },
+    },
+  },
+  {
+    id: "MLA51929440",
+    title: "Smartwatch Reloj Inteligente Amazfit Bip 6 Amoled 1.97 GPS Llamadas Bluetooth 5 ATM 150 Modos Deportivos Ultra Duración De Batería Asistente AI",
+    canonicalName: "Smartwatch Amazfit Bip 6",
+    price: 175199,
+    originalPrice: 218999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_622879-MLA99965332573_112025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_622879-MLA99965332573_112025-O.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-197-gps-llamadas-bluetooth-5-atm-150-modos-deportivos-ultra-duracion-de-bateria-asistente-ai/p/MLA51929440",
+    affiliateUrl: "https://meli.la/1LBRV4S",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 8148,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Amazfit (Zepp Health Corp)" },
+      { label: "Modelo", value: "Bip 6" },
+      { label: "Pantalla", value: "AMOLED 1,97\", caja de aleación de aluminio de 46,3 mm" },
+      { label: "Batería", value: "340 mAh, 2 semanas declaradas (confirmado en uso real por reseñas)" },
+      { label: "GPS", value: "Real e integrado, no depende del celular" },
+      { label: "Resistencia al agua", value: "50 m (5 ATM)" },
+      { label: "Sensores", value: "Frecuencia cardíaca, SpO2" },
+      { label: "Conectividad", value: "Bluetooth. Sin WiFi, sin NFC" },
+      { label: "Función distintiva", value: "Asistente de voz con IA: responde WhatsApp por voz o teclado incorporado" },
+      { label: "Compatibilidad", value: "Android / iOS" },
+    ],
+    relatedProducts: ["MLA42520227", "MLA26666337", "MLA24530447"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Smartwatch Amazfit Bip 6: la opción premium de esta guía, con GPS real, pantalla AMOLED grande y un asistente de voz con IA que responde WhatsApp, de Zepp Health (empresa cotizante en NYSE, ex ecosistema Xiaomi).",
+    seoTitle: "Amazfit Bip 6: el smartwatch premium con IA",
+    metaDescription: "Smartwatch Amazfit Bip 6, GPS real, AMOLED, asistente de voz con IA. 8.148 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás el smartwatch más completo de esta guía: GPS real, pantalla AMOLED grande, 2 semanas de batería confirmadas en uso real por reseñas, y un asistente de voz con IA que responde WhatsApp por voz o teclado. Es de Zepp Health (Amazfit), empresa cotizante en NYSE y ex parte del ecosistema Xiaomi, con trazabilidad real. La contra real: no tiene NFC, algo que a este precio varios compradores esperarían para pagos sin contacto. No es para vos si buscás el precio más bajo: es 2 a 5 veces más caro que las otras opciones de esta guía.",
+    pros: [
+      "GPS real integrado, pantalla AMOLED de buena resolución",
+      "Batería de 2 semanas confirmada en uso real: \"hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería\", según una reseña con 228 votos útiles",
+      "Asistente de voz con IA: responde WhatsApp por voz o con teclado incorporado en el reloj",
+      "Rating más alto de esta guía (4.9), de una empresa con trazabilidad real (Zepp Health, NYSE)",
+    ],
+    cons: [
+      "Sin NFC, pese a ser la opción más cara de esta guía",
+      "El más caro de esta comparativa: 2 a 5 veces más que las otras opciones",
+      "Sin WiFi",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Amazfit Bip 6 es un smartwatch premium con GPS real, pantalla AMOLED y un asistente de voz con inteligencia artificial, la opción de mayor gama de esta guía. Es para quien prioriza funciones completas y batería confirmada por sobre el precio.
+
+## Cómo funciona
+
+Pantalla AMOLED de 1,97" en caja de aleación de aluminio de 46,3 mm, batería de 340 mAh con 2 semanas de autonomía declaradas, GPS real integrado, resistencia al agua de 50 metros (5 ATM), sensores de frecuencia cardíaca y SpO2, y Bluetooth (sin WiFi ni NFC). Su función distintiva es un asistente de voz con IA que permite responder mensajes de WhatsApp por voz o con un teclado incorporado en el propio reloj. Es de Amazfit, marca de Zepp Health Corp, una empresa que cotiza en la bolsa de Nueva York (ex parte del ecosistema Xiaomi, hoy independiente).
+
+## La contra real
+
+A diferencia de la batería declarada de otros smartwatches de esta guía, la del Amazfit Bip 6 está confirmada en uso real: "hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería, simplemente fantástico!", detalla una reseña con 228 votos útiles, que también destaca "la posibilidad de responder mensajes de whatsapp con teclado incorporado, o hacerlo mediante tu voz". La contra real es la ausencia de NFC: a este precio, varios compradores esperarían la opción de pagos sin contacto, que este modelo no tiene.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227) (elección general), el Amazfit cuesta más del doble pero suma IA y batería mejor confirmada. Frente al [JD Venecia Sport](/producto/MLA26666337) (económico), la diferencia de precio es de casi 5 veces. Frente al [Haylou Solar LS05S](/producto/MLA24530447) (batería 15 días), el Amazfit tiene GPS real y pantalla AMOLED que el Haylou no tiene.
+
+## Para quién sí y para quién no
+
+Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y el precio no es tu limitante principal. No es para vos si buscás la opción más económica o necesitás NFC para pagos sin contacto: para eso, ninguna de esta guía lo tiene, pero el [Xiaomi](/producto/MLA42520227) cuesta bastante menos con funciones similares de GPS.`,
+    faq: [
+      {
+        question: "¿La batería de 2 semanas es real?",
+        answer: "Sí, a diferencia de otros smartwatches de esta guía, este dato está confirmado por una reseña real con 228 votos útiles que reporta exactamente 2 semanas de uso con 21% de batería restante.",
+      },
+      {
+        question: "¿Cómo funciona el asistente de voz con IA?",
+        answer: "Permite responder mensajes de WhatsApp directamente desde el reloj, por voz o con un teclado incorporado en la pantalla, sin necesidad de sacar el celular.",
+      },
+      {
+        question: "¿Tiene NFC para pagos sin contacto?",
+        answer: "No, es una ausencia notable considerando que es la opción más cara de esta guía.",
+      },
+      {
+        question: "¿Es una marca confiable?",
+        answer: "Sí. Amazfit es una marca de Zepp Health Corp, una empresa que cotiza en la bolsa de Nueva York (NYSE), con trazabilidad real y app propia (Zepp).",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smartwatch Amazfit Bip 6",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_622879-MLA99965332573_112025-O.webp"],
+      description: "Smartwatch Amazfit Bip 6, pantalla AMOLED, GPS real, asistente de voz con IA.",
+      brand: { "@type": "Brand", name: "Amazfit" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-197-gps-llamadas-bluetooth-5-atm-150-modos-deportivos-ultra-duracion-de-bateria-asistente-ai/p/MLA51929440",
+        priceCurrency: "ARS",
+        price: "175199",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "8148",
+      },
+    },
+  },
+  {
+    id: "MLA24530447",
+    title: "Smartwatch Haylou Solar LS05S Reloj Inteligente Con Batería De 15 Días",
+    canonicalName: "Smartwatch Haylou Solar LS05S",
+    price: 69796,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_723094-MLA99461634584_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_723094-MLA99461634584_112025-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias/p/MLA24530447",
+    affiliateUrl: "https://meli.la/1cb8saj",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 75,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Haylou (ecosistema Xiaomi/Huami)" },
+      { label: "Modelo", value: "Solar LS05S" },
+      { label: "Pantalla", value: "TFT LCD 1,28\", 240x240, caja de PC/ABS de 45,3 mm" },
+      { label: "Batería", value: "340 mAh, 15 días declarados — el diferencial explícito del producto" },
+      { label: "GPS", value: "No tiene" },
+      { label: "Conectividad", value: "Solo Bluetooth. Sin NFC, sin WiFi" },
+      { label: "Resistencia al agua", value: "IP68 (hasta 5 m de profundidad, no apto para natación de buceo)" },
+      { label: "Sensores", value: "Frecuencia cardíaca, monitor de sueño" },
+      { label: "Compatibilidad", value: "Android / iOS" },
+      { label: "Vendedor", value: "Tienda oficial (ALNI SHOP), +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Smartwatch Haylou Solar LS05S: la variante diferenciada de esta guía, pensado explícitamente para no cargarlo casi nunca, con 15 días de batería declarados a un precio accesible.",
+    seoTitle: "Haylou Solar LS05S: el smartwatch de batería más larga",
+    metaDescription: "Smartwatch Haylou Solar LS05S, batería de 15 días. Precio accesible, opiniones reales de MercadoLibre.",
+    verdict: "Sirve si tu prioridad es no estar cargando el reloj todos los días: es el único de esta guía pensado explícitamente para 15 días de autonomía, a un precio accesible y de tienda oficial con respaldo de ventas. La contra real: tiene muy pocas reseñas (75) comparado con las otras 3 opciones de esta guía, y al momento de revisar el precio la publicación mostraba solo 3 unidades en stock — conviene verificar disponibilidad antes de comprar. No es para vos si buscás GPS real o pantalla AMOLED: para eso, el Xiaomi o el Amazfit de esta guía.",
+    pros: [
+      "El único de esta guía pensado explícitamente para 15 días de batería sin cargar",
+      "Precio accesible para el diferencial de autonomía que ofrece",
+      "Vendedor tienda oficial con respaldo de ventas (+10 mil)",
+      "Sensor de frecuencia cardíaca y monitor de sueño incluidos",
+    ],
+    cons: [
+      "Muy pocas reseñas (75) comparado con las otras 3 opciones de esta guía, con votos de \"útil\" bajos (0-1) — poco volumen de validación social",
+      "Stock bajo al momento de revisar el precio (\"últimas 3 unidades\" en la publicación) — verificar disponibilidad antes de comprar",
+      "Sin GPS, sin NFC, sin WiFi",
+      "Pantalla TFT LCD, no AMOLED, la de menor calidad visual de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Haylou Solar LS05S es un smartwatch enfocado en un solo diferencial: 15 días de batería declarados, sin necesidad de cargarlo casi nunca. Es para quien se olvida de cargar dispositivos o viaja seguido y no quiere depender de un cargador.
+
+## Cómo funciona
+
+Pantalla TFT LCD de 1,28" (240x240) en caja de PC/ABS de 45,3 mm, batería de 340 mAh con 15 días de autonomía declarados, sensor de frecuencia cardíaca y monitor de sueño, resistencia al agua IP68 (hasta 5 metros, no apto para buceo pese a la certificación IP68). No tiene GPS, NFC ni WiFi, solo Bluetooth.
+
+## La contra real
+
+Este modelo tiene mucho menos volumen de reseñas que las otras 3 opciones de esta guía: apenas 75 calificaciones, con votos de "útil" muy bajos (0 a 1) en las reseñas con texto. Eso significa menos validación social de la que tienen el Xiaomi, el JD Venecia o el Amazfit. Además, al momento de revisar el precio para esta guía, la publicación mostraba solo 3 unidades disponibles — conviene verificar el stock en vivo antes de decidirse.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227) (elección general), el Haylou dura más sin cargar pero sin GPS ni AMOLED. Frente al [JD Venecia Sport](/producto/MLA26666337) (económico), tienen precio similar, pero el Haylou tiene mucho menos volumen de reseñas de respaldo. Frente al [Amazfit Bip 6](/producto/MLA51929440) (premium), el Haylou es mucho más económico, con el trade-off de menos funciones.
+
+## Para quién sí y para quién no
+
+Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y verificás stock disponible antes de comprar. No es para vos si buscás GPS real, pantalla AMOLED, o el mayor respaldo de reseñas: para eso, el [Xiaomi](/producto/MLA42520227) o el [Amazfit](/producto/MLA51929440) de esta guía.`,
+    faq: [
+      {
+        question: "¿Realmente dura 15 días de batería?",
+        answer: "Es el número declarado por el fabricante y el diferencial explícito de este modelo. No encontramos reseñas reales que lo confirmen o lo contradigan en detalle, a diferencia del Amazfit de esta guía.",
+      },
+      {
+        question: "¿Por qué tiene tan pocas reseñas?",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual (75 calificaciones) comparado con las otras 3 opciones de esta guía, que tienen miles.",
+      },
+      {
+        question: "¿Sirve para nadar?",
+        answer: "Es resistente al agua (IP68) hasta unos 5 metros de profundidad, pero no está pensado para buceo o natación profunda.",
+      },
+      {
+        question: "¿Hay stock disponible?",
+        answer: "Al momento de revisar el precio para esta guía, la publicación mostraba solo 3 unidades. Verificá disponibilidad en vivo antes de comprar.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smartwatch Haylou Solar LS05S",
+      image: ["https://http2.mlstatic.com/D_Q_NP_723094-MLA99461634584_112025-F.webp"],
+      description: "Smartwatch Haylou Solar LS05S, batería de 15 días, resistente al agua IP68.",
+      brand: { "@type": "Brand", name: "Haylou" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/smartwatch-haylou-solar-ls05s-reloj-inteligente-con-bateria-de-15-dias/p/MLA24530447",
+        priceCurrency: "ARS",
+        price: "69796",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "75",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva bombilla-de-mate — silo bebidas-termicas, categoria
+  // "bombillas-de-mate". Origen: research de silos flacos 2026-07-19
+  // (3ra tanda), keyword "bombilla de mate" (2.900/mes, Keyword
+  // Planner). Fuente de sourcing: Bright Data (scrape_as_markdown)
+  // sobre MercadoLibre Argentina, 2026-07-19. Satélite de termo y
+  // botella-termica, mismo silo.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA34379783",
+    title: "Bombilla Acero Inoxidable Un Mate No Se Tapa",
+    canonicalName: "Bombilla Un Mate No Se Tapa",
+    price: 20000,
+    originalPrice: 22000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_952019-MLA99594449222_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_952019-MLA99594449222_122025-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/bombilla-acero-inoxidable-un-mate-no-se-tapa/p/MLA34379783",
+    affiliateUrl: "https://meli.la/34f9dQV",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 946,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Un Mate" },
+      { label: "Material", value: "Acero inoxidable 18/8" },
+      { label: "Tipo", value: "Plana" },
+      { label: "Filtro", value: "Plano, no removible, con función autolimpiante" },
+      { label: "Largo", value: "17 cm" },
+      { label: "Peso", value: "50 g" },
+      { label: "Apta lavavajillas", value: "Sí" },
+    ],
+    relatedProducts: ["MLA29597823", "MLA854205104", "MLA58717654"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Bombilla de mate Un Mate, acero inoxidable: la más elegida de esta guía, con 946 calificaciones reales, muy por encima del resto. Filtro plano con función autolimpiante, pensado específicamente para no taparse.",
+    seoTitle: "Bombilla Un Mate: la que no se tapa, la más vendida",
+    metaDescription: "Bombilla de mate Un Mate acero inoxidable, la más vendida de esta guía. 946 opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás la bombilla con más respaldo de compradores reales de esta guía: 946 calificaciones, muy por encima de las otras 3 opciones de este sourcing. El filtro plano con función autolimpiante cumple lo que promete el nombre: varias reseñas reales confirman que no se tapa ni con yerba de molienda fina. No es para vos si buscás una bombilla de alpaca o un diseño más tradicional tipo pico de loro: para eso, la Apa Cuero de esta guía.",
+    pros: [
+      "La más elegida de esta guía por lejos: 946 calificaciones",
+      "Filtro autolimpiante que cumple lo que promete: \"si tapas esta bombilla, no hagas más mate\", según una reseña con 20 votos útiles",
+      "Acero inoxidable 18/8, apta lavavajillas",
+      "\"En 30 días aún no se tapó con la yerba katinga\", según una reseña real con 27 votos útiles",
+    ],
+    cons: [
+      "Filtro plano no removible: para una limpieza más a fondo, otras bombillas con filtro desarmable rinden mejor",
+      "17 cm, el mismo largo estándar que la mayoría de esta guía (no es la opción más larga)",
+      "Reviewcount incluye algunas opiniones de otros países, según aclara la propia ficha de MercadoLibre",
+    ],
+    articleBody: `## Qué es y para quién
+
+La bombilla Un Mate es de acero inoxidable con filtro plano autolimpiante, la más elegida de esta guía con 946 calificaciones reales. Es la compra segura para quien está cansado de bombillas que se tapan con yerba fina.
+
+## Cómo funciona
+
+Diseño plano de acero inoxidable 18/8, 17 cm, con un filtro pensado específicamente para no taparse (función autolimpiante) y apto lavavajillas. El nombre del producto ("no se tapa") no es solo marketing: varias reseñas reales lo confirman en uso.
+
+## La contra real
+
+El filtro es plano y no removible, así que para una limpieza más profunda (desarmar y lavar cada parte por separado) otras bombillas con filtro desmontable rinden mejor. No es una falla, es una característica del diseño: la propia función autolimpiante compensa parte de esa limitación, según confirman las reseñas ("buenísima, por el precio excelente, en 30 días aún no se tapó con la yerba katinga que compra mi señora").
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [El Santo Mate](/producto/MLA29597823) (económica), la Un Mate cuesta más pero tiene casi 10 veces más reseñas de respaldo. Frente a la [Apa Cuero](/producto/MLA854205104) (alpaca), la Un Mate es de acero inoxidable puro, sin el material premium. Frente a la [Rei Verde](/producto/MLA58717654) (para yerba fina/despalada), ambas atacan el mismo problema (que no se tape), pero la Un Mate tiene mucho más volumen de reseñas.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la bombilla con más respaldo de compradores reales de esta guía y tu prioridad es que no se tape. No es para vos si buscás alpaca o un diseño tradicional tipo pico de loro: para eso, la [Apa Cuero](/producto/MLA854205104) de esta guía.`,
+    faq: [
+      {
+        question: "¿Realmente no se tapa con cualquier yerba?",
+        answer: "Varias reseñas reales lo confirman, incluida una que la probó específicamente con yerba de molienda fina (\"katinga\") y no se tapó en 30 días de uso.",
+      },
+      {
+        question: "¿Se puede desarmar para limpiar?",
+        answer: "No, el filtro es plano y no removible. Tiene función autolimpiante en su lugar, que según las reseñas cumple bien su función.",
+      },
+      {
+        question: "¿Por qué es la más elegida de esta guía?",
+        answer: "Tiene 946 calificaciones reales, muy por encima de las otras 3 opciones de este sourcing.",
+      },
+      {
+        question: "¿Es de acero inoxidable de verdad?",
+        answer: "Sí, acero inoxidable 18/8 según su ficha técnica, apta lavavajillas.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bombilla Un Mate No Se Tapa",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_952019-MLA99594449222_122025-F.webp"],
+      description: "Bombilla de mate Un Mate, acero inoxidable, filtro plano autolimpiante.",
+      brand: { "@type": "Brand", name: "Un Mate" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/bombilla-acero-inoxidable-un-mate-no-se-tapa/p/MLA34379783",
+        priceCurrency: "ARS",
+        price: "20000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "946",
+      },
+    },
+  },
+  {
+    id: "MLA29597823",
+    title: "Bombilla Mate El Santo Mate Hexagonal Acero Inoxidable Bronce Filtro Plano",
+    canonicalName: "Bombilla El Santo Mate Hexagonal Bronce",
+    price: 3510,
+    originalPrice: 3694,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_887728-MLA111563067842_062026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_887728-MLA111563067842_062026-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823",
+    affiliateUrl: "https://meli.la/1NrY9cz",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 104,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "El Santo Mate" },
+      { label: "Material", value: "Acero inoxidable, filtro de bronce" },
+      { label: "Tipo", value: "Hexagonal" },
+      { label: "Filtro", value: "Plano, removible" },
+      { label: "Largo", value: "17 cm" },
+      { label: "Peso", value: "20 g" },
+      { label: "Apta lavavajillas", value: "Sí" },
+    ],
+    relatedProducts: ["MLA34379783", "MLA854205104", "MLA58717654"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Bombilla de mate El Santo Mate hexagonal: la más barata de esta guía, con filtro de bronce removible para una limpieza más fácil, de tienda oficial con más de 10 mil ventas.",
+    seoTitle: "El Santo Mate: la bombilla más barata que rinde",
+    metaDescription: "Bombilla de mate El Santo Mate hexagonal, la más económica de esta guía. Opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás la bombilla más barata de esta guía sin resignar calidad: filtro de bronce removible (más fácil de limpiar que un filtro fijo), de una tienda oficial con más de 10 mil ventas. La contra real: la muestra de reseñas visibles es chica y no trae críticas negativas, así que el respaldo social es menor que el de la Un Mate. No es para vos si priorizás el mayor volumen de reseñas de compradores: para eso, la Un Mate No Se Tapa de esta guía.",
+    pros: [
+      "La más barata de esta guía por lejos",
+      "Filtro de bronce removible: más fácil de limpiar a fondo que un filtro fijo",
+      "Diseño hexagonal, apta lavavajillas",
+      "\"Duran mucho más y se destapan con rapidez\", según una reseña real",
+    ],
+    cons: [
+      "Menor volumen de reseñas (104) que la elección general de esta guía (946)",
+      "La muestra de reseñas visibles es chica y solo trae comentarios positivos: no hay contras reales documentadas en las reseñas más útiles",
+      "20 g, la más liviana de esta comparativa",
+    ],
+    articleBody: `## Qué es y para quién
+
+La El Santo Mate Hexagonal es una bombilla de acero inoxidable con filtro de bronce removible, la más barata de esta guía. Es la opción para quien quiere renovar la bombilla sin gastar de más, sin resignar la posibilidad de desarmarla para limpiar.
+
+## Cómo funciona
+
+Diseño hexagonal de acero inoxidable con filtro plano de bronce, removible (se puede desarmar para lavar a fondo), 17 cm, apta lavavajillas, 20 g. De tienda oficial con más de 10 mil ventas.
+
+## La contra real
+
+La muestra de reseñas visibles en el momento del sourcing es chica (104 calificaciones) y solo trae comentarios positivos cortos, sin ninguna crítica real documentada entre las más útiles. Eso no significa que no existan compradores insatisfechos, solo que no hay una contra específica y verificable para reportar más allá del volumen menor de reseñas comparado con la elección general de esta guía.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Un Mate No Se Tapa](/producto/MLA34379783) (elección general), la El Santo Mate cuesta una fracción del precio pero con mucho menos volumen de reseñas. Frente a la [Apa Cuero](/producto/MLA854205104) (alpaca) y la [Rei Verde](/producto/MLA58717654) (yerba fina), la El Santo Mate es la opción de entrada, sin material premium ni un uso diferenciado específico.
+
+## Para quién sí y para quién no
+
+Comprala si el precio es tu prioridad y querés poder desarmar el filtro para limpiar a fondo. No es para vos si buscás el mayor respaldo de reseñas reales de esta guía: para eso, la [Un Mate No Se Tapa](/producto/MLA34379783).`,
+    faq: [
+      {
+        question: "¿Por qué es tan barata?",
+        answer: "Es la opción de entrada de esta guía: cumple lo básico (acero inoxidable, filtro removible, apta lavavajillas) sin las funciones especiales de las otras 3 opciones.",
+      },
+      {
+        question: "¿Se puede desarmar para limpiar?",
+        answer: "Sí, tiene filtro de bronce removible, a diferencia de la Un Mate No Se Tapa de esta guía que tiene filtro fijo.",
+      },
+      {
+        question: "¿Por qué tiene menos reseñas que otras de esta guía?",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual (104 contra 946 calificaciones de la elección general), aunque su rating (4.7) es alto.",
+      },
+      {
+        question: "¿Es de acero inoxidable de verdad?",
+        answer: "Sí, cuerpo de acero inoxidable con filtro de bronce, según su ficha técnica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bombilla El Santo Mate Hexagonal",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_887728-MLA111563067842_062026-F.webp"],
+      description: "Bombilla de mate El Santo Mate hexagonal, acero inoxidable, filtro de bronce removible.",
+      brand: { "@type": "Brand", name: "El Santo Mate" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/bombilla-mate-el-santo-mate-hexagonal-acero-inoxidable-bronce-filtro-plano/p/MLA29597823",
+        priceCurrency: "ARS",
+        price: "3510",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "104",
+      },
+    },
+  },
+  {
+    id: "MLA854205104",
+    title: "Bombilla Mate Apa Cuero Alpaca Pico De Loro",
+    canonicalName: "Bombilla Apa Cuero Alpaca Pico de Loro",
+    price: 17400,
+    originalPrice: 20000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_627078-MLA78142024667_082024-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_627078-MLA78142024667_082024-O.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-854205104-bombilla-mate-apa-cuero-alpaca-pico-de-loro-_JM",
+    affiliateUrl: "https://meli.la/2VxJxSF",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 77,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-violeta)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Apa Cuero" },
+      { label: "Material", value: "Alpaca (declarado en el título y descripción del vendedor, no como atributo estructurado de la ficha)" },
+      { label: "Diseño", value: "Pico de loro" },
+      { label: "Filtro", value: "Tipo pala" },
+      { label: "Largo", value: "17 cm o 19 cm (según variante)" },
+      { label: "Boca", value: "12 mm" },
+      { label: "Apta lavavajillas", value: "Sí" },
+      { label: "Garantía del vendedor", value: "3 meses" },
+    ],
+    relatedProducts: ["MLA34379783", "MLA29597823", "MLA58717654"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Bombilla de mate Apa Cuero de alpaca, diseño pico de loro: la opción de material premium de esta guía, aunque el material \"alpaca\" está declarado por el vendedor y no como atributo estructurado en la ficha técnica.",
+    seoTitle: "Apa Cuero: bombilla de alpaca pico de loro",
+    metaDescription: "Bombilla de mate Apa Cuero de alpaca, diseño pico de loro. Opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás una bombilla de alpaca con el diseño clásico pico de loro, la opción de material más premium de esta guía. Un dato de honestidad: el material \"alpaca\" aparece en el título y la descripción del vendedor, pero no como un atributo estructurado y verificable de la ficha técnica de MercadoLibre — no hay motivo para dudarlo (las reseñas no lo contradicen y es coherente con la categoría del producto), pero preferimos aclarar la fuente exacta del dato. No es para vos si buscás el mayor respaldo de reseñas reales: para eso, la Un Mate No Se Tapa de esta guía.",
+    pros: [
+      "Diseño clásico pico de loro, material alpaca (declarado por el vendedor)",
+      "Filtro tipo pala, disponible en 17 cm o 19 cm según preferencia",
+      "\"Que placer una buena bombilla y no se tapa. Volvería a comprar sin dudar\", según una reseña real",
+      "Garantía del vendedor de 3 meses",
+    ],
+    cons: [
+      "El material \"alpaca\" no aparece como atributo estructurado verificable en la ficha técnica de MercadoLibre, solo en el título y la descripción del vendedor",
+      "Menor volumen de reseñas (77) que la elección general de esta guía (946)",
+      "Las reseñas visibles son genéricas y cortas, sin una contra real documentada más allá del dato de material sin verificar de forma independiente",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Apa Cuero es una bombilla de alpaca con diseño pico de loro y filtro tipo pala, la opción de material más premium de esta guía por sobre el acero inoxidable puro de las otras 3. Es para quien prioriza el diseño clásico y el material de la bombilla.
+
+## Cómo funciona
+
+Diseño pico de loro tradicional, filtro tipo pala, disponible en 17 cm o 19 cm, boca de 12 mm, apta lavavajillas, con garantía del vendedor de 3 meses. El material declarado es alpaca.
+
+## La contra real
+
+Un dato de honestidad que conviene aclarar: la ficha técnica estructurada de MercadoLibre solo lista "Marca" y "Apto lavavajillas" como atributos, sin un campo específico de "Material" que confirme la alpaca de forma independiente. El dato de alpaca viene del título y la descripción del vendedor. Esto no significa que sea falso (las reseñas reales no lo contradicen y es coherente con el resto de la publicación), pero preferimos ser precisos sobre de dónde sale cada dato: fabricante/vendedor en este caso, no ficha técnica verificada.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Un Mate No Se Tapa](/producto/MLA34379783) (elección general, acero inoxidable puro), la Apa Cuero suma el material premium pero con menos reseñas de respaldo. Frente a la [El Santo Mate](/producto/MLA29597823) (económica), la Apa Cuero cuesta bastante más por el material y el diseño. Frente a la [Rei Verde](/producto/MLA58717654) (para yerba fina/despalada), son diseños distintos: pico de loro tradicional contra un diseño pensado específicamente para yerba de molienda fina.
+
+## Para quién sí y para quién no
+
+Comprala si buscás el diseño clásico pico de loro en alpaca y no te molesta que el dato de material venga del vendedor y no de un atributo verificado de la ficha. No es para vos si priorizás el mayor volumen de reseñas reales de esta guía: para eso, la [Un Mate No Se Tapa](/producto/MLA34379783).`,
+    faq: [
+      {
+        question: "¿Es de alpaca de verdad?",
+        answer: "El vendedor lo declara en el título y la descripción, pero no aparece como un atributo estructurado verificable en la ficha técnica de MercadoLibre. Las reseñas reales no lo contradicen, pero preferimos aclarar la fuente exacta del dato.",
+      },
+      {
+        question: "¿Qué es el diseño pico de loro?",
+        answer: "Es un estilo tradicional de bombilla con la boquilla curvada hacia arriba, distinto al diseño plano de otras bombillas de esta guía.",
+      },
+      {
+        question: "¿Tiene garantía?",
+        answer: "Sí, el vendedor declara 3 meses de garantía.",
+      },
+      {
+        question: "¿Por qué tiene menos reseñas que la elección general?",
+        answer: "Tiene menor volumen de ventas en esta plataforma puntual (77 contra 946 calificaciones), aunque mantiene un rating alto (4.5).",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bombilla Apa Cuero Alpaca Pico de Loro",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_627078-MLA78142024667_082024-O.webp"],
+      description: "Bombilla de mate Apa Cuero de alpaca, diseño pico de loro, filtro tipo pala.",
+      brand: { "@type": "Brand", name: "Apa Cuero" },
+      offers: {
+        "@type": "Offer",
+        url: "https://articulo.mercadolibre.com.ar/MLA-854205104-bombilla-mate-apa-cuero-alpaca-pico-de-loro-_JM",
+        priceCurrency: "ARS",
+        price: "17400",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "77",
+      },
+    },
+  },
+  {
+    id: "MLA58717654",
+    title: "Bombilla Rei Verde Pico De Loro 19,5 Cm Acero Inoxidable Gris",
+    canonicalName: "Bombilla Rei Verde Pico de Loro 19,5cm",
+    price: 23749,
+    originalPrice: 24999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_769046-MLA95972646421_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_769046-MLA95972646421_102025-F.webp",
+    ],
+    category: "Hogar",
+    categorySlug: "hogar",
+    permalink: "https://www.mercadolibre.com.ar/bombilla-rei-verde-pico-de-loro-195-cm-acero-inoxidable-gris/p/MLA58717654",
+    affiliateUrl: "https://meli.la/2Um3xdP",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 55,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Rei Verde" },
+      { label: "Material", value: "Acero inoxidable" },
+      { label: "Diseño", value: "Pico de loro" },
+      { label: "Largo", value: "19,5 cm (la más larga de esta guía)" },
+      { label: "Filtro", value: "No removible" },
+      { label: "Apta lavavajillas", value: "Sí" },
+      { label: "Garantía de fábrica", value: "30 días" },
+      { label: "Origen", value: "Brasil (según descripción del vendedor)" },
+    ],
+    relatedProducts: ["MLA34379783", "MLA29597823", "MLA854205104"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Bombilla de mate Rei Verde 19,5cm: la variante diferenciada de esta guía, pensada para yerba de molienda fina o despalada (uruguaya, canaria, chimarrão), con el rating más alto de la comparativa.",
+    seoTitle: "Rei Verde: bombilla larga para yerba de molienda fina",
+    metaDescription: "Bombilla de mate Rei Verde pico de loro 19,5cm, para yerba fina. Rating 4.8, opiniones reales.",
+    verdict: "Sirve si tomás mate con yerba de molienda fina o despalada (tipo uruguaya, canaria o chimarrão brasileño): es la más larga de esta guía (19,5 cm) y tiene el rating más alto (4.8). Una reseña real es honesta sobre el límite: con yerba muy fina, algo de polvo puede pasar igual, aunque en general funciona bien. No es tienda oficial (vendedor marketplace con buena reputación), y a $23.749 queda más cara que la opción premium de alpaca de esta guía — vale la pena tenerlo en cuenta antes de decidir solo por el nombre de la categoría de precio.",
+    pros: [
+      "El rating más alto de esta guía: 4.8",
+      "La más larga de esta comparativa (19,5 cm), útil para mates grandes",
+      "Pensada específicamente para yerba de molienda fina o despalada (uruguaya, canaria, chimarrão)",
+      "\"La compré para chimarrão porque sino te tragás toda la yerba... es gigante, úsenla con un mate grande\", según una reseña real",
+    ],
+    cons: [
+      "Con yerba muy fina, algo de polvo puede pasar igual: \"pasa un poco lo más fino y es feo, porque te puede hacer ahogar... hasta que se acomoda la yerba y el mate\", según una reseña real con 2 votos útiles",
+      "No es tienda oficial, aunque el vendedor tiene buena reputación (MercadoLíder Platinum, +10 mil ventas)",
+      "A $23.749 es más cara que la opción de alpaca de esta guía, aunque esté pensada como \"diferenciada\" y no como \"premium\" por precio",
+      "Filtro no removible",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Rei Verde es una bombilla de acero inoxidable de 19,5 cm con diseño pico de loro, la variante diferenciada de esta guía. Está pensada específicamente para yerba de molienda fina o despalada (uruguaya, canaria, chimarrão brasileño), no para yerba con palo tradicional.
+
+## Cómo funciona
+
+19,5 cm (la más larga de esta guía), diseño pico de loro, filtro no removible, apta lavavajillas, con 30 días de garantía de fábrica. El vendedor declara origen Brasil.
+
+## La contra real
+
+Una reseña real y honesta con 2 votos útiles pone el producto en contexto: "muy buen producto, no se tapa para nada con ninguna yerba de molienda fina, pero de las veces que tomé pasa un poco lo más fino y es feo, porque te puede hacer ahogar... hasta que se acomoda la yerba y el mate, después un caño, muy buena". Es decir: funciona bien, pero no es perfecta con la yerba más fina posible al principio del mate. Otro dato a tener en cuenta antes de comprar: a $23.749 termina costando más que la [Apa Cuero](/producto/MLA854205104) de esta guía, pese a no estar posicionada como la opción "premium" — la diferencia entre ambas es de uso (yerba fina vs. diseño clásico), no de jerarquía de precio.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Un Mate No Se Tapa](/producto/MLA34379783) (elección general), ambas atacan el problema de taparse, pero la Rei Verde está más enfocada en yerba de molienda fina específicamente. Frente a la [El Santo Mate](/producto/MLA29597823) (económica), la Rei Verde cuesta casi 7 veces más. Frente a la [Apa Cuero](/producto/MLA854205104) (alpaca), la Rei Verde es de acero inoxidable puro pero más larga, y curiosamente más cara.
+
+## Para quién sí y para quién no
+
+Comprala si tomás mate con yerba de molienda fina o despalada (uruguaya, canaria, chimarrão) y querés la más larga de esta guía. No es para vos si tu prioridad es el precio: para eso, la [El Santo Mate](/producto/MLA29597823) de esta guía.`,
+    faq: [
+      {
+        question: "¿Sirve para yerba con palo tradicional?",
+        answer: "Está pensada específicamente para yerba de molienda fina o despalada (uruguaya, canaria, chimarrão). Con yerba con palo tradicional, cualquiera de las otras 3 bombillas de esta guía cumple igual de bien.",
+      },
+      {
+        question: "¿Por qué es más cara que la bombilla de alpaca de esta guía?",
+        answer: "El precio no sigue una jerarquía estricta entre las 4 opciones: la Rei Verde está pensada para un uso específico (yerba fina), no para ser la más premium por diseño o material.",
+      },
+      {
+        question: "¿Dejar pasar algo de yerba fina es normal?",
+        answer: "Según una reseña real, puede pasar algo de polvo fino al principio hasta que se acomoda la yerba, aunque en general cumple bien su función.",
+      },
+      {
+        question: "¿Es de tienda oficial?",
+        answer: "No, es de un vendedor marketplace (SPDCOMEX) con buena reputación: MercadoLíder Platinum y más de 10 mil ventas.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bombilla Rei Verde Pico de Loro 19,5cm",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_769046-MLA95972646421_102025-F.webp"],
+      description: "Bombilla de mate Rei Verde 19,5cm, acero inoxidable, para yerba de molienda fina o despalada.",
+      brand: { "@type": "Brand", name: "Rei Verde" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/bombilla-rei-verde-pico-de-loro-195-cm-acero-inoxidable-gris/p/MLA58717654",
+        priceCurrency: "ARS",
+        price: "23749",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "55",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva ducha-electrica — silo agua-caliente, categoria
+  // "duchas-electricas". Origen: research de silos flacos 2026-07-19
+  // (3ra tanda), keyword "ducha eléctrica" (9.900/mes, Keyword
+  // Planner). Fuente de sourcing: Bright Data (scrape_as_markdown)
+  // sobre MercadoLibre Argentina, 2026-07-19. Ninguno de los 4
+  // declara la "Marca S" de seguridad eléctrica obligatoria en
+  // Argentina; solo uno (Loren 6800W) declara un organismo
+  // certificador (Bureau Veritas Argentina S.A.). La guía lo
+  // advierte explícitamente. La mayoría de las reseñas disponibles
+  // son de catálogo regional (Brasil/México), marcadas por país en
+  // cada cita.
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA15481244",
+    title: "Lorenzetti Maxi Ducha Ultra Blanco 5500 W",
+    canonicalName: "Ducha Eléctrica Lorenzetti Maxi Ducha Ultra 5500W",
+    price: 32000,
+    originalPrice: 38000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_675514-MLA99578188802_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_675514-MLA99578188802_122025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/lorenzetti-maxi-ducha-ultra-blanco-5500-w/p/MLA15481244",
+    affiliateUrl: "https://meli.la/1K8eTF1",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 38994,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lorenzetti" },
+      { label: "Línea", value: "Maxi Ducha Ultra" },
+      { label: "Potencia", value: "5.500 W" },
+      { label: "Tensión", value: "220V" },
+      { label: "Niveles de temperatura", value: "3" },
+      { label: "Material", value: "Plástico de ingeniería" },
+      { label: "Presurizador", value: "No tiene" },
+      { label: "Cabezal", value: "Fijo, 13,1 cm" },
+      { label: "Marca S de Seguridad Eléctrica", value: "No declarada en la ficha de MercadoLibre (ninguna de las 4 duchas de esta guía la declara)" },
+    ],
+    relatedProducts: ["MLA23134740", "MLA35337217", "MLA19765518"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ducha eléctrica Lorenzetti Maxi Ducha Ultra 5500W: la más vendida de esta guía, con casi 39 mil calificaciones. La ficha de MercadoLibre no declara Marca S de Seguridad Eléctrica.",
+    seoTitle: "Lorenzetti Maxi Ducha Ultra: la ducha eléctrica más vendida",
+    metaDescription: "Ducha eléctrica Lorenzetti Maxi Ducha Ultra 5500W, la más vendida de Argentina. Precio actualizado, opiniones reales.",
+    verdict: "Sirve si buscás la ducha eléctrica con más respaldo de compradores de esta guía: casi 39 mil calificaciones, badge oficial de más vendida en la categoría. Un dato de honestidad importante: ni esta ficha ni la del fabricante en MercadoLibre declaran la \"Marca S\" de seguridad eléctrica (obligatoria para este tipo de producto) — ninguna de las 4 de esta guía la declara. La única diferencia entre las 4 es que la Loren 6800W declara un organismo de certificación de producto (Bureau Veritas), algo que esta Maxi Ducha Ultra tampoco tiene. La mayoría de las reseñas disponibles son de compradores de Brasil o México (el catálogo de MercadoLibre las agrupa a nivel regional), no de Argentina. No es para vos si priorizás reseñas 100% argentinas verificadas: para eso, la Indelplas Diluvio de esta guía.",
+    pros: [
+      "La más vendida de esta guía: casi 39 mil calificaciones",
+      "3 niveles de temperatura, más flexibilidad que un modelo de temperatura fija",
+      "Precio intermedio de esta comparativa",
+      "Marca reconocida en la categoría en toda la región",
+    ],
+    cons: [
+      "La ficha de MercadoLibre no declara la Marca S de Seguridad Eléctrica — dato ausente, no confirmado",
+      "La mayoría de las reseñas visibles son de compradores de Brasil o México, no de Argentina, según el propio catálogo regional de MercadoLibre",
+      "El resumen automático de opiniones de MercadoLibre (agregado del catálogo regional, no una cita de comprador puntual ni confirmado como de Argentina) menciona reportes de sobrecalentamiento en algunos usuarios",
+      "Sin presurizador: en invierno, si aumentás mucho la presión de agua, puede no dar abasto para calentar, según una reseña real",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Lorenzetti Maxi Ducha Ultra es una ducha eléctrica de flujo instantáneo de 5.500 W, la más vendida de esta guía con casi 39 mil calificaciones. Es la opción con más volumen de ventas y respaldo de marca de esta comparativa.
+
+## Cómo funciona
+
+220V, 5.500 W, con 3 niveles de temperatura ajustables, cuerpo de plástico de ingeniería, sin presurizador, cabezal fijo de 13,1 cm. Se instala en la pared, sobre el flujo de agua fría, y calienta el agua al paso.
+
+## La contra real
+
+Dos cosas para tener en cuenta antes de comprar. Primero, la Marca S de Seguridad Eléctrica: ni esta ficha ni la del fabricante declaran la "Marca S" (obligatoria en Argentina para productos de riesgo eléctrico como este) ni un número de certificado IRAM — ninguna de las 4 opciones de esta guía declara la Marca S. La única diferencia entre ellas es que la Loren 6800W sí declara un organismo de certificación de producto (Bureau Veritas), un dato distinto de la Marca S en sí. Segundo, la mayoría de las reseñas disponibles en la publicación son de compradores de Brasil o México (MercadoLibre agrupa el catálogo regional), no de Argentina: "compré una igual mismo modelo en home depot, me duró 3 años" (México, 146 útiles) o "en invierno hay que usar la ducha con agua con menos presión, porque si aumento la presión, no da abasto para calentar" (Brasil, 164 útiles). El propio resumen automático de MercadoLibre (agregado del catálogo regional, no una cita puntual ni confirmado como de Argentina) menciona reportes de sobrecalentamiento en algunos usuarios — lo dejamos consignado tal cual, sin confirmar ni descartar.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Indelplas Diluvio](/producto/MLA23134740) (económica), la Lorenzetti tiene más potencia y niveles de temperatura, pero la Indelplas es la única con reseñas 100% verificadas de Argentina. Frente a la [Loren Shower Ultra 7500W](/producto/MLA35337217) (mayor potencia), la Maxi Ducha calienta menos. Frente a la [Loren 6800W](/producto/MLA19765518) (con organismo de certificación declarado), esta no declara ese dato.
+
+## Para quién sí y para quién no
+
+Comprala si buscás la opción con más respaldo de ventas de esta guía, sabiendo que la Marca S de Seguridad Eléctrica no está declarada en la ficha (como en la mayoría de esta categoría). No es para vos si priorizás reseñas 100% argentinas o que la ficha declare un organismo de certificación: para eso, la [Indelplas](/producto/MLA23134740) o la [Loren 6800W](/producto/MLA19765518) de esta guía, respectivamente.`,
+    faq: [
+      {
+        question: "¿Tiene Marca S de Seguridad Eléctrica?",
+        answer: "No está declarada en la ficha de MercadoLibre ni en la del fabricante. Ninguna de las 4 duchas de esta guía declara la Marca S; la única diferencia es que la Loren 6800W declara, aparte, un organismo de certificación (Bureau Veritas Argentina), que no equivale a la Marca S.",
+      },
+      {
+        question: "¿Las reseñas son de compradores argentinos?",
+        answer: "La mayoría de las visibles son de Brasil o México, según el propio catálogo regional de MercadoLibre. Si buscás reseñas 100% verificadas de Argentina, la Indelplas Diluvio de esta guía las tiene.",
+      },
+      {
+        question: "¿Por qué es la más vendida?",
+        answer: "Tiene casi 39 mil calificaciones, muy por encima de cualquier otra opción de este sourcing, con badge oficial de más vendida en la categoría.",
+      },
+      {
+        question: "¿Necesita presión de agua específica?",
+        answer: "No tiene presurizador. Según una reseña real, en invierno con mucha presión de agua puede no dar abasto para calentar; conviene usarla con presión moderada.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ducha Eléctrica Lorenzetti Maxi Ducha Ultra 5500W",
+      image: ["https://http2.mlstatic.com/D_Q_NP_675514-MLA99578188802_122025-F.webp"],
+      description: "Ducha eléctrica Lorenzetti Maxi Ducha Ultra, 5.500 W, 3 niveles de temperatura.",
+      brand: { "@type": "Brand", name: "Lorenzetti" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/lorenzetti-maxi-ducha-ultra-blanco-5500-w/p/MLA15481244",
+        priceCurrency: "ARS",
+        price: "32000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "38994",
+      },
+    },
+  },
+  {
+    id: "MLA23134740",
+    title: "Ducha Eléctrica Indelplas Diluvio 1100W Fija Plástico 1.1kW 220V Blanco",
+    canonicalName: "Ducha Eléctrica Indelplas Diluvio 1100W",
+    price: 19835,
+    originalPrice: 23335,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_961917-MLA99505927812_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_961917-MLA99505927812_112025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ducha-electrica-indelplas-diluvio-1100w-fija-plastico-11kw-220v-blanco/p/MLA23134740",
+    affiliateUrl: "https://meli.la/1kJWfzr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 441,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Indelplas" },
+      { label: "Modelo", value: "Diluvio D25 Plástico" },
+      { label: "Potencia", value: "1.100 W" },
+      { label: "Tensión", value: "220V" },
+      { label: "Niveles de temperatura", value: "1 (fijo, no ajustable)" },
+      { label: "Material", value: "Plástico" },
+      { label: "Marca S de Seguridad Eléctrica", value: "No declarada en la ficha de MercadoLibre (ninguna de las 4 duchas de esta guía la declara)" },
+    ],
+    relatedProducts: ["MLA15481244", "MLA35337217", "MLA19765518"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ducha eléctrica Indelplas Diluvio 1100W: la más económica de esta guía, con nivel de temperatura fijo (no ajustable). Es la única de esta comparativa con reseñas 100% verificadas de Argentina.",
+    seoTitle: "Indelplas Diluvio: la ducha eléctrica más barata",
+    metaDescription: "Ducha eléctrica Indelplas Diluvio 1100W, la más económica de Argentina. Reseñas 100% argentinas, precio actualizado.",
+    verdict: "Sirve si buscás la ducha eléctrica más barata de esta guía, con la ventaja de ser la única con reseñas 100% verificadas de compradores argentinos (las otras 3 son mayormente de Brasil o México). La contra real: solo tiene 1 nivel de temperatura, fijo, no ajustable — según una reseña real, hay que tener cuidado de no dejarla mucho tiempo abierta porque el agua puede llegar a hervir. Tampoco declara la Marca S de Seguridad Eléctrica, igual que ninguna de las 4 de esta guía. No es para vos si buscás ajustar la temperatura del agua: para eso, cualquiera de las otras 3 de esta guía.",
+    pros: [
+      "La más económica de esta guía",
+      "Única con reseñas 100% verificadas de compradores argentinos, según el propio catálogo de MercadoLibre",
+      "\"Muy buena solución para cuando te cortan el gas. En 15 minutos tenés agua tibia más que aceptable\", según una reseña real con 26 votos útiles",
+      "Fácil de instalar, según reseñas reales",
+    ],
+    cons: [
+      "Solo 1 nivel de temperatura, fijo: no se puede ajustar según la estación o la presión de agua",
+      "\"Calienta como debe pero no hay que olvidarselo mucho tiempo porque hierve\", según una reseña real de Argentina con 2 votos útiles",
+      "La ficha de MercadoLibre no declara Marca S de Seguridad Eléctrica",
+      "La potencia más baja de esta comparativa (1.100 W)",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Indelplas Diluvio es una ducha eléctrica de 1.100 W con temperatura fija, la más económica de esta guía. Es la opción para quien necesita una solución rápida (por ejemplo, ante un corte de gas) sin gastar de más.
+
+## Cómo funciona
+
+220V, 1.100 W, con un único nivel de temperatura fijo (no ajustable), cuerpo de plástico. A diferencia de las otras 3 de esta guía, no tiene selector de temperatura: calienta a una intensidad fija.
+
+## La contra real
+
+El nivel fijo de temperatura es la principal limitación: no hay forma de bajar la intensidad si el agua sale demasiado caliente. Una reseña real de Argentina lo advierte con claridad: "calienta como debe pero no hay que olvidarselo mucho tiempo porque hierve". Otra reseña de Argentina, más entusiasta, la describe como solución de emergencia: "muy buena solución para cuando te cortan el gas. En 15 minutos tenés agua tibia más que aceptable. En 20 ya está tirando a caliente" (26 votos útiles). A diferencia de las 3 Lorenzetti de esta guía, sus reseñas SÍ están marcadas como 100% de Argentina en el scrape.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244) (elección general), la Indelplas es mucho más barata pero sin ajuste de temperatura y con menos potencia. Frente a la [Loren Shower Ultra 7500W](/producto/MLA35337217) (mayor potencia) y la [Loren 6800W](/producto/MLA19765518) (con organismo de certificación declarado), la Indelplas es una fracción del precio de ambas.
+
+## Para quién sí y para quién no
+
+Comprala si el precio es tu prioridad número uno, o necesitás una solución rápida ante un corte de gas. No es para vos si querés ajustar la temperatura del agua según la estación: para eso, cualquiera de las otras 3 de esta guía, todas con múltiples niveles.`,
+    faq: [
+      {
+        question: "¿Se puede ajustar la temperatura?",
+        answer: "No, tiene un único nivel de temperatura fijo. Si necesitás ajustarla, las otras 3 duchas de esta guía tienen múltiples niveles.",
+      },
+      {
+        question: "¿Las reseñas son de compradores argentinos?",
+        answer: "Sí, es la única de esta guía con reseñas 100% verificadas de Argentina en el momento del sourcing, a diferencia de las 3 Lorenzetti, mayormente de Brasil o México.",
+      },
+      {
+        question: "¿Es peligroso que el agua hierva?",
+        answer: "Una reseña real de Argentina advierte que no hay que dejarla abierta mucho tiempo porque el agua puede llegar a hervir. No es un defecto del producto, es una característica de no tener ajuste de temperatura: hay que controlar el tiempo de uso.",
+      },
+      {
+        question: "¿Tiene Marca S de Seguridad Eléctrica?",
+        answer: "No está declarada en la ficha de MercadoLibre. Ninguna de las 4 duchas de esta guía declara la Marca S de Seguridad Eléctrica.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ducha Eléctrica Indelplas Diluvio 1100W",
+      image: ["https://http2.mlstatic.com/D_Q_NP_961917-MLA99505927812_112025-F.webp"],
+      description: "Ducha eléctrica Indelplas Diluvio, 1.100 W, temperatura fija, plástico.",
+      brand: { "@type": "Brand", name: "Indelplas" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ducha-electrica-indelplas-diluvio-1100w-fija-plastico-11kw-220v-blanco/p/MLA23134740",
+        priceCurrency: "ARS",
+        price: "19835",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "441",
+      },
+    },
+  },
+  {
+    id: "MLA35337217",
+    title: "Ducha Lorenzetti Loren Shower Ultra Electrónica 7500W Color Blanco 220 V",
+    canonicalName: "Ducha Eléctrica Lorenzetti Loren Shower Ultra 7500W",
+    price: 105000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_737001-MLA95712598442_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_737001-MLA95712598442_102025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ducha-lorenzetti-loren-shower-ultra-electronica-7500w-color-blanco-220-v/p/MLA35337217",
+    affiliateUrl: "https://meli.la/1reW8nr",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 17150,
+    soldQuantity: 5000,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lorenzetti" },
+      { label: "Línea", value: "Loren Shower Ultra" },
+      { label: "Potencia", value: "7.500 W (la más potente de esta guía)" },
+      { label: "Tensión", value: "220V" },
+      { label: "Niveles de temperatura", value: "La ficha muestra un dato inconsistente: el bullet de venta dice 5 niveles, la ficha técnica formal dice 3 — no lo resolvimos, lo dejamos consignado tal cual aparece" },
+      { label: "Marca S de Seguridad Eléctrica", value: "No declarada en la ficha de MercadoLibre (ninguna de las 4 duchas de esta guía la declara)" },
+    ],
+    relatedProducts: ["MLA15481244", "MLA23134740", "MLA19765518"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ducha eléctrica Lorenzetti Loren Shower Ultra 7500W: la de mayor potencia de esta guía, con 17 mil calificaciones. Su propia ficha tiene un dato inconsistente sobre la cantidad de niveles de temperatura.",
+    seoTitle: "Loren Shower Ultra 7500W: la ducha eléctrica más potente",
+    metaDescription: "Ducha eléctrica Lorenzetti Loren Shower Ultra 7500W, la más potente de esta guía. Precio actualizado, opiniones reales.",
+    verdict: "Sirve si buscás la mayor potencia de esta guía: 7.500 W, con 17 mil calificaciones reales. Dos datos de honestidad antes de comprar: primero, la propia ficha de MercadoLibre tiene una inconsistencia entre el bullet de venta (dice 5 niveles de temperatura) y la ficha técnica formal (dice 3) — no lo resolvimos por nuestra cuenta, lo dejamos consignado tal cual. Segundo, una reseña real de Brasil (catálogo regional, no de Argentina, y que desmiente el problema en su caso particular) confirma que existen otras quejas de compradores sobre que el producto se quemó en el primer uso — vale la pena tenerlo presente, aunque no podamos confirmarlo de forma independiente ni saber si corresponde a compradores argentinos. No es para vos si preferís que la ficha declare un organismo de certificación: para eso, la Loren 6800W de esta guía.",
+    pros: [
+      "La mayor potencia de esta guía: 7.500 W",
+      "17 mil calificaciones reales, buen volumen de respaldo",
+      "Rating alto (4.8), igual al de la elección general",
+      "Marca reconocida en la categoría",
+    ],
+    cons: [
+      "Inconsistencia real en la propia ficha de MercadoLibre: el bullet de venta dice 5 niveles de temperatura, la ficha técnica formal dice 3 — no resuelto, dato ausente de certeza",
+      "Una reseña real de Brasil (catálogo regional, no de Argentina) menciona que existen quejas de otros compradores sobre quemado en el primer uso, aunque la reseñadora las desestima en su caso: \"no crean en esos comentarios que dijeron que se quemó en el primer uso... la resistencia hace un ruido fuerte, pero puedes encender la ducha con mucha agua cayendo\"",
+      "La ficha de MercadoLibre no declara Marca S de Seguridad Eléctrica",
+      "La más cara de esta comparativa junto con la Loren 6800W",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Lorenzetti Loren Shower Ultra es una ducha eléctrica de 7.500 W, la de mayor potencia de esta guía. Es para quien prioriza calentar más agua más rápido, sobre todo en invierno o con mayor presión de agua.
+
+## Cómo funciona
+
+220V, 7.500 W (la potencia más alta de esta comparativa). Hay una inconsistencia real en su propia ficha de MercadoLibre que preferimos dejar consignada tal cual, sin resolverla por nuestra cuenta: el bullet de venta principal dice "5 niveles de temperatura", pero la ficha técnica formal (la sección estructurada de atributos) dice "3". No sabemos cuál es el dato correcto.
+
+## La contra real
+
+Una reseña real de Brasil (catálogo regional, no de Argentina) con 346 votos útiles, escrita para desmentir rumores, termina confirmando que esos rumores existen: "no crean en esos comentarios que dijeron que se quemó en el primer uso... la resistencia hace un ruido fuerte, pero puedes encender la ducha con mucha agua cayendo. La compré con miedo por los comentarios y vi que no es nada de eso". Es una buena señal para esa compradora en particular, pero confirma que hay otros reportes de quemado en primer uso circulando sobre este modelo, que no podemos verificar de forma independiente ni confirmar si corresponden a compradores de Argentina. Sumado a que ninguna Marca S de Seguridad Eléctrica está declarada en la ficha, recomendamos prestar especial atención a la instalación si elegís este modelo.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244) (elección general), esta tiene más potencia pero cuesta bastante más. Frente a la [Indelplas Diluvio](/producto/MLA23134740) (económica), la diferencia de precio es enorme. Frente a la [Loren 6800W](/producto/MLA19765518) (con organismo de certificación declarado), esta no declara ese dato, aunque tiene más potencia (7.500 W contra 6.800 W).
+
+## Para quién sí y para quién no
+
+Comprala si la mayor potencia es tu prioridad y estás dispuesto a instalar con cuidado extra, dado que no hay Marca S de Seguridad Eléctrica declarada y existen reportes de Brasil (no confirmados de forma independiente, ni confirmados como de compradores argentinos) de quemado en primer uso. No es para vos si priorizás que la ficha declare un organismo de certificación: para eso, la [Loren 6800W](/producto/MLA19765518) de esta guía.`,
+    faq: [
+      {
+        question: "¿Cuántos niveles de temperatura tiene?",
+        answer: "La propia ficha de MercadoLibre tiene una inconsistencia: el bullet de venta dice 5, la ficha técnica formal dice 3. No pudimos confirmar cuál es el dato correcto.",
+      },
+      {
+        question: "¿Es seguro este modelo?",
+        answer: "No hay Marca S de Seguridad Eléctrica declarada en la ficha. Además, una reseña real de Brasil (catálogo regional, no de Argentina) menciona que existen reportes de otros compradores sobre quemado en primer uso, aunque la propia reseñadora no tuvo ese problema. Recomendamos instalación cuidadosa.",
+      },
+      {
+        question: "¿Por qué es más cara que la elección general de esta guía?",
+        answer: "Tiene mayor potencia (7.500 W contra 5.500 W), lo que en general calienta más agua más rápido.",
+      },
+      {
+        question: "¿La ficha declara un organismo de certificación?",
+        answer: "No. La única de esta guía que declara un organismo de certificación de producto (Bureau Veritas) es la Loren 6800W, que tampoco equivale a declarar la Marca S completa.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ducha Eléctrica Lorenzetti Loren Shower Ultra 7500W",
+      image: ["https://http2.mlstatic.com/D_Q_NP_737001-MLA95712598442_102025-F.webp"],
+      description: "Ducha eléctrica Lorenzetti Loren Shower Ultra, 7.500 W, la más potente de la guía.",
+      brand: { "@type": "Brand", name: "Lorenzetti" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ducha-lorenzetti-loren-shower-ultra-electronica-7500w-color-blanco-220-v/p/MLA35337217",
+        priceCurrency: "ARS",
+        price: "105000",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "17150",
+      },
+    },
+  },
+  {
+    id: "MLA19765518",
+    title: "Ducha Electrónica Lorenzetti Loren 6800 W",
+    canonicalName: "Ducha Eléctrica Lorenzetti Loren 6800W",
+    price: 77032,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_841154-MLA95531705308_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_841154-MLA95531705308_102025-F.webp",
+    ],
+    category: "Climatización",
+    categorySlug: "climatizacion",
+    permalink: "https://www.mercadolibre.com.ar/ducha-electronica-lorenzetti-loren-6800-w/p/MLA19765518",
+    affiliateUrl: "https://meli.la/2TrdDUA",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 59953,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lorenzetti" },
+      { label: "Línea", value: "Loren Shower" },
+      { label: "Potencia", value: "6.800 W (también existe variante de 7.500 W)" },
+      { label: "Tensión", value: "220V" },
+      { label: "Niveles de temperatura", value: "4" },
+      { label: "Material", value: "Plástico de ingeniería" },
+      { label: "Cabezal", value: "Fijo, 13,1 cm" },
+      { label: "Incluye", value: "Ducha de mano, manguera y soporte" },
+      { label: "Marca S de Seguridad Eléctrica", value: "No declarada en la ficha de MercadoLibre (ninguna de las 4 duchas de esta guía la declara)" },
+      { label: "Organismo de certificación declarado", value: "Bureau Veritas Argentina S.A. (no equivale a declarar la Marca S en sí)" },
+    ],
+    relatedProducts: ["MLA15481244", "MLA23134740", "MLA35337217"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Ducha eléctrica Lorenzetti Loren 6800W: la única de esta guía que declara un organismo de certificación de producto argentino (Bureau Veritas), sin equivaler a la Marca S, con el mayor volumen de reseñas de la comparativa.",
+    seoTitle: "Lorenzetti Loren 6800W: la única con organismo de certificación declarado",
+    metaDescription: "Ducha eléctrica Lorenzetti Loren 6800W, con Bureau Veritas declarado como organismo de certificación. Casi 60 mil opiniones reales.",
+    verdict: "Sirve si buscás la única de esta guía que declara un organismo de certificación de producto argentino (Bureau Veritas Argentina S.A.) en su ficha — un dato real y verificable, no marketing, aunque no equivale a que el producto tenga la Marca S de Seguridad Eléctrica completa (ninguna de las 4 de esta guía la declara de forma explícita). Suma además el mayor volumen de reseñas de esta comparativa (casi 60 mil) y viene con ducha de mano, manguera y soporte incluidos. La contra real: una reseña real recomienda directamente la variante de 7.500 W en lugar de esta de 6.800 W, porque con el paso de agua completamente abierto la temperatura baja bastante. No es para vos si buscás el precio más bajo: para eso, la Indelplas Diluvio de esta guía.",
+    pros: [
+      "Única de esta guía con un organismo de certificación de producto argentino declarado (Bureau Veritas Argentina S.A.), aunque eso no equivale a declarar la Marca S",
+      "El mayor volumen de reseñas de esta comparativa: casi 60 mil calificaciones",
+      "4 niveles de temperatura",
+      "Incluye ducha de mano, manguera y soporte",
+    ],
+    cons: [
+      "Con el paso de agua completamente abierto, la temperatura baja bastante, según una reseña real con 975 votos útiles, que recomienda directamente la variante de 7.500 W en su lugar",
+      "Precio intermedio-alto de esta comparativa",
+      "Reseñas mayormente de Brasil (catálogo regional), no de Argentina",
+    ],
+    articleBody: `## Qué es y para quién
+
+La Lorenzetti Loren 6800W es una ducha eléctrica que declara un organismo de certificación de producto argentino (Bureau Veritas), la única de esta guía con ese dato. Es para quien prioriza esa señal declarada por sobre el precio o la potencia máxima.
+
+## Cómo funciona
+
+220V, 6.800 W, con 4 niveles de temperatura, cabezal fijo de 13,1 cm, incluye ducha de mano, manguera y soporte. A diferencia de las otras 3 de esta guía, su ficha declara explícitamente un Organismo de Certificación de Producto: Bureau Veritas Argentina S.A., una entidad real que opera dentro del esquema de seguridad eléctrica argentino. Esto no equivale a que el producto declare la Marca S de Seguridad Eléctrica en sí — son datos distintos.
+
+## La contra real
+
+Una reseña real con 975 votos útiles, la más votada de todo este sourcing, hace una recomendación directa: "solo se calienta bastante si abres poco el registro... si abres completamente el registro, el agua se enfría considerablemente... recomiendo la compra, pero opten por la potencia de 7.500W". Es decir, quien escribió esta reseña compró la 6.800W y termina aconsejando la variante más potente de la misma línea. Vale la pena tenerlo en cuenta si tu presión de agua es alta.
+
+## Cómo se compara con las otras de esta guía
+
+Frente a la [Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244) (elección general), esta suma el organismo de certificación declarado pero cuesta más. Frente a la [Indelplas Diluvio](/producto/MLA23134740) (económica), la diferencia de precio es grande. Frente a la [Loren Shower Ultra 7500W](/producto/MLA35337217) (mayor potencia), esta declara el organismo de certificación pero calienta menos con el agua completamente abierta, según la reseña más votada de esta guía.
+
+## Para quién sí y para quién no
+
+Comprala si preferís que la ficha declare un organismo de certificación (Bureau Veritas, no la Marca S completa). No es para vos si tu presión de agua es alta y preferís no arriesgarte a que baje la temperatura con el paso completamente abierto: para eso, considerá la [Loren Shower Ultra 7500W](/producto/MLA35337217) de esta guía, según recomienda la reseña más votada de este sourcing.`,
+    faq: [
+      {
+        question: "¿Qué es Bureau Veritas Argentina S.A.?",
+        answer: "Es una entidad real que opera en Argentina como Organismo de Certificación de Producto dentro del esquema de seguridad eléctrica. Es la única de las 4 duchas de esta guía que declara este dato en su ficha, aunque eso no equivale a que el producto declare la Marca S de Seguridad Eléctrica en sí.",
+      },
+      {
+        question: "¿Por qué tiene tantas reseñas?",
+        answer: "Casi 60 mil calificaciones, el mayor volumen de esta guía, aunque la mayoría son de compradores de Brasil, según el catálogo regional de MercadoLibre.",
+      },
+      {
+        question: "¿Calienta bien con mucha presión de agua?",
+        answer: "Según la reseña más votada de esta guía (975 útiles), con el paso completamente abierto la temperatura baja bastante — esa misma reseña recomienda la variante de 7.500 W en su lugar.",
+      },
+      {
+        question: "¿Incluye accesorios?",
+        answer: "Sí, incluye ducha de mano, manguera y soporte, a diferencia de las otras 3 duchas de esta guía.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Ducha Eléctrica Lorenzetti Loren 6800W",
+      image: ["https://http2.mlstatic.com/D_Q_NP_841154-MLA95531705308_102025-F.webp"],
+      description: "Ducha eléctrica Lorenzetti Loren 6800W, declara Bureau Veritas Argentina como organismo de certificación de producto (no equivale a la Marca S), incluye ducha de mano.",
+      brand: { "@type": "Brand", name: "Lorenzetti" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/ducha-electronica-lorenzetti-loren-6800-w/p/MLA19765518",
+        priceCurrency: "ARS",
+        price: "77032",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "59953",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva termometro-digital — silo salud-bienestar, categoria
+  // "termometros-digitales". Origen: research de silos flacos
+  // 2026-07-19 (3ra tanda), keyword "termómetro digital" (9.900/mes,
+  // Keyword Planner). Fuente de sourcing: Bright Data
+  // (scrape_as_markdown) sobre MercadoLibre Argentina, 2026-07-19.
+  // Zona YMYL: sin claims de precisión clínica, ANMAT reportado
+  // honesto (2 de 4 lo declaran, 2 no).
+  // Links meli.la aplicados 2026-07-19.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA35944743",
+    title: "Citizen CTA301C Termómetro Digital Silfab Oral Rectal Axilar",
+    canonicalName: "Termómetro Digital Citizen CTA301C",
+    price: 6901,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_729929-MLA107962514539_032026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_729929-MLA107962514539_032026-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/citizen-cta301c-termometro-digital-silfab-oral-rectal-axilar/p/MLA35944743",
+    affiliateUrl: "https://meli.la/31hE1my",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 3245,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Citizen (distribuido por Silfab)" },
+      { label: "Modelo", value: "CTA301C" },
+      { label: "Tipo", value: "Contacto" },
+      { label: "Zona declarada en la ficha técnica", value: "Axila (el título del producto menciona también oral/rectal, sin confirmarlo en la ficha técnica estructurada)" },
+      { label: "Rango de medición", value: "32°C a 42,9°C" },
+      { label: "Tiempo de medición", value: "10 segundos" },
+      { label: "Memoria", value: "Última medición" },
+      { label: "Batería", value: "Reemplazable, no incluida" },
+      { label: "Incluye", value: "Funda protectora" },
+      { label: "Garantía de fábrica", value: "12 meses" },
+      { label: "ANMAT / RPPTM", value: "PM97-30 (declarado en la ficha técnica)" },
+    ],
+    relatedProducts: ["MLA53648273", "MLA28449145", "MLA50045029"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Termómetro digital Citizen CTA301C: el más vendido de la categoría en MercadoLibre Argentina, con casi 3.250 opiniones reales y certificación ANMAT declarada (PM97-30).",
+    seoTitle: "Citizen CTA301C: el termómetro digital más vendido",
+    metaDescription: "Termómetro digital Citizen CTA301C, ANMAT PM97-30. El más vendido de Argentina, 3.245 opiniones reales.",
+    verdict: "Sirve si buscás el termómetro digital con más respaldo de compradores reales de esta guía: 1° en el ranking de más vendidos de la categoría en MercadoLibre Argentina, con casi 3.250 calificaciones y certificación ANMAT declarada (PM97-30). Un dato de honestidad: el título del producto menciona uso oral, rectal y axilar, pero la ficha técnica estructurada solo confirma la zona axila — no es necesariamente falso (una reseña real describe uso rectal y oral en la práctica), pero preferimos aclarar que ese dato viene del título comercial, no de la ficha técnica verificada. No mide con precisión clínica: es un termómetro de consumo, no un instrumento médico profesional. No es para vos si buscás una medición sin contacto: para eso, el BBLove o el Lepu de esta guía.",
+    pros: [
+      "1° más vendido de la categoría en MercadoLibre Argentina, con casi 3.250 calificaciones reales",
+      "Certificación ANMAT declarada (PM97-30)",
+      "Tiempo de medición de 10 segundos, el más rápido de contacto de esta guía",
+      "\"Medición exacta, chequeado con un termómetro de mercurio que tengo en casa\", según una reseña real con 8 votos útiles",
+    ],
+    cons: [
+      "El título menciona uso oral/rectal/axilar, pero la ficha técnica estructurada solo confirma la zona axila — aclarar antes de asumir un uso no confirmado en la ficha",
+      "Hay que limpiarlo entre usos en distinta zona del cuerpo, según una reseña real",
+      "La batería no viene incluida",
+      "No mide con precisión clínica: es un termómetro de consumo, no reemplaza un control médico profesional",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Citizen CTA301C es un termómetro digital de contacto, el 1° más vendido de la categoría Termómetros Digitales en MercadoLibre Argentina. Es la compra segura para uso diario en el hogar, con certificación ANMAT declarada.
+
+## Cómo funciona
+
+Mide por contacto en 10 segundos, rango de 32°C a 42,9°C, con alarma sonora y memoria de la última medición. Incluye funda protectora, aunque la batería no viene incluida. La ficha técnica declara certificación ANMAT (RPPTM PM97-30).
+
+## La contra real
+
+El título comercial del producto menciona uso "oral, rectal y axilar", pero la ficha técnica estructurada de MercadoLibre solo confirma la zona "Axila" en su campo específico. Esto no significa que el dato del título sea falso: una reseña real describe uso rectal y oral en la práctica ("genial, la temperatura rectal difiere con la oral. Lo que sí, límpienlo entre la rectal y la oral"), pero preferimos ser precisos sobre qué viene confirmado por la ficha técnica y qué viene del título comercial del vendedor.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [NEKOMMERCE](/producto/MLA53648273) (económico), el Citizen mide en 10 segundos contra 1 minuto, y sí declara ANMAT. Frente al [BBLove](/producto/MLA28449145) (infrarrojo básico) y el [Lepu LFR30B](/producto/MLA50045029) (infrarrojo con memoria), el Citizen es de contacto, no sin contacto — más lento de usar pero con más volumen de reseñas de respaldo.
+
+## Para quién sí y para quién no
+
+Comprá el Citizen si buscás el termómetro con más respaldo de compradores reales de esta guía, con certificación ANMAT declarada. No es para vos si buscás una medición sin contacto, más rápida para bebés o niños dormidos: para eso, el [BBLove](/producto/MLA28449145) o el [Lepu LFR30B](/producto/MLA50045029) de esta guía.`,
+    faq: [
+      {
+        question: "¿Sirve para uso rectal y oral, no solo axilar?",
+        answer: "El título del producto lo menciona y una reseña real confirma ese uso en la práctica, pero la ficha técnica estructurada de MercadoLibre solo confirma la zona axila de forma explícita.",
+      },
+      {
+        question: "¿Tiene certificación ANMAT?",
+        answer: "Sí, declara RPPTM PM97-30 en su ficha técnica.",
+      },
+      {
+        question: "¿Cuánto tarda en medir?",
+        answer: "10 segundos, el tiempo más rápido entre los termómetros de contacto de esta guía.",
+      },
+      {
+        question: "¿Es tan preciso como un termómetro de uso médico profesional?",
+        answer: "Es un termómetro de consumo doméstico, no un instrumento médico profesional. Una reseña real lo comparó favorablemente contra un termómetro de mercurio, pero no reemplaza un control médico.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Termómetro Digital Citizen CTA301C",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_729929-MLA107962514539_032026-F.webp"],
+      description: "Termómetro digital Citizen CTA301C, contacto, ANMAT PM97-30, 10 segundos de medición.",
+      brand: { "@type": "Brand", name: "Citizen" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/citizen-cta301c-termometro-digital-silfab-oral-rectal-axilar/p/MLA35944743",
+        priceCurrency: "ARS",
+        price: "6901",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "3245",
+      },
+    },
+  },
+  {
+    id: "MLA53648273",
+    title: "Termómetro Digital NEKOMMERCE Axila Oral LCD Alarma Bebés Niños Adultos",
+    canonicalName: "Termómetro Digital NEKOMMERCE Axila/Oral",
+    price: 4999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_696623-MLA110681546960_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_696623-MLA110681546960_052026-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/termometro-digital-nekommerce-axila-oral-lcd-alarma-bebes-ninos-adultos/p/MLA53648273",
+    affiliateUrl: "https://meli.la/1qUQWAV",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 231,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-lila)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "NEKOMMERCE" },
+      { label: "Tipo", value: "Contacto" },
+      { label: "Zona", value: "Axila u oral" },
+      { label: "Rango de medición", value: "32°C a 42°C aprox." },
+      { label: "Tiempo de medición", value: "1 minuto" },
+      { label: "Memoria", value: "Última medición" },
+      { label: "Batería", value: "LR41, incluida" },
+      { label: "Origen", value: "China (declarado por el vendedor)" },
+      { label: "ANMAT / RPPTM", value: "No declarado en la ficha" },
+    ],
+    relatedProducts: ["MLA35944743", "MLA28449145", "MLA50045029"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Termómetro digital NEKOMMERCE: el más económico de esta guía, con batería incluida. No declara certificación ANMAT en su ficha, a diferencia del Citizen y el Lepu de esta guía.",
+    seoTitle: "NEKOMMERCE: el termómetro digital más económico",
+    metaDescription: "Termómetro digital NEKOMMERCE axila/oral, el más económico de esta guía. Opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás el termómetro digital más barato de esta guía, con batería incluida y buenas calificaciones para su precio. La contra real: no declara certificación ANMAT en su ficha (a diferencia del Citizen y el Lepu de esta guía), y tarda 1 minuto en medir, mucho más que los 10 segundos del Citizen. No es para vos si la certificación ANMAT declarada es tu prioridad, o si buscás una medición más rápida: para eso, el Citizen de esta guía.",
+    pros: [
+      "El más económico de esta guía",
+      "Batería incluida (LR41), a diferencia del Citizen que no la trae",
+      "\"Cumple con su función. Siempre debe haber uno en cada hogar\", según una reseña real",
+      "Buen rating para su precio: 4.7",
+    ],
+    cons: [
+      "No declara certificación ANMAT en su ficha de MercadoLibre — dato ausente, no confirmado",
+      "Tarda 1 minuto en medir, el más lento de esta guía",
+      "Menor volumen de reseñas (231) que el Citizen (3.245)",
+      "Marca genérica de reventa, sin página de fabricante propia verificable",
+    ],
+    articleBody: `## Qué es y para quién
+
+El NEKOMMERCE es un termómetro digital de contacto básico, el más económico de esta guía. Es la opción para quien busca lo esencial (medir temperatura por axila u oral) sin gastar de más.
+
+## Cómo funciona
+
+Mide por contacto en 1 minuto, rango aproximado de 32°C a 42°C, con alarma y memoria de la última medición. La batería (LR41) viene incluida, a diferencia del Citizen de esta guía.
+
+## La contra real
+
+El dato más importante para decidir: la ficha de MercadoLibre no declara certificación ANMAT, a diferencia del Citizen y el Lepu de esta guía. No es necesariamente un problema de calidad (una reseña real dice "cumple con su función"), pero es un dato ausente que preferimos dejar claro en vez de asumir que existe. El tiempo de medición (1 minuto) también es notablemente más lento que el Citizen (10 segundos).
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Citizen CTA301C](/producto/MLA35944743) (elección general), el NEKOMMERCE es mucho más barato pero sin ANMAT declarado y más lento. Frente al [BBLove](/producto/MLA28449145) y el [Lepu LFR30B](/producto/MLA50045029) (ambos infrarrojos sin contacto), el NEKOMMERCE es de contacto, más lento pero más barato que ambos.
+
+## Para quién sí y para quién no
+
+Comprá el NEKOMMERCE si el precio es tu prioridad y no te molesta esperar 1 minuto por la medición. No es para vos si buscás certificación ANMAT declarada o una medición más rápida: para eso, el [Citizen](/producto/MLA35944743) de esta guía.`,
+    faq: [
+      {
+        question: "¿Tiene certificación ANMAT?",
+        answer: "No está declarada en su ficha de MercadoLibre. Si eso es una prioridad para vos, el Citizen o el Lepu LFR30B de esta guía sí la declaran.",
+      },
+      {
+        question: "¿Por qué tarda tanto en medir?",
+        answer: "Es un termómetro de contacto básico, con un tiempo de medición de 1 minuto, más lento que el Citizen de esta guía (10 segundos).",
+      },
+      {
+        question: "¿La batería viene incluida?",
+        answer: "Sí, una batería LR41, a diferencia del Citizen de esta guía que no la incluye.",
+      },
+      {
+        question: "¿Se puede confirmar qué tan preciso es?",
+        answer: "No encontramos una prueba independiente de precisión en las reseñas reales. Por separado, tampoco declara certificación ANMAT en su ficha, a diferencia del Citizen o el Lepu LFR30B de esta guía.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Termómetro Digital NEKOMMERCE Axila/Oral",
+      image: ["https://http2.mlstatic.com/D_Q_NP_696623-MLA110681546960_052026-F.webp"],
+      description: "Termómetro digital NEKOMMERCE, contacto axila/oral, batería incluida.",
+      brand: { "@type": "Brand", name: "NEKOMMERCE" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/termometro-digital-nekommerce-axila-oral-lcd-alarma-bebes-ninos-adultos/p/MLA53648273",
+        priceCurrency: "ARS",
+        price: "4999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "231",
+      },
+    },
+  },
+  {
+    id: "MLA28449145",
+    title: "Termómetro Digital Infrarrojo BBLove Modelo AET-R1B1 Sin Contacto Frontal Blanco",
+    canonicalName: "Termómetro Digital Infrarrojo BBLove AET-R1B1",
+    price: 12900,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_674812-MLU72999419494_112023-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_674812-MLU72999419494_112023-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-bblove-modelo-aet-r1b1-sin-contacto-frontal-blanco/p/MLA28449145",
+    affiliateUrl: "https://meli.la/2brwdoX",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.4,
+    reviewCount: 149,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-azul)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "BBLove" },
+      { label: "Modelo", value: "AET-R1B1" },
+      { label: "Tipo", value: "Infrarrojo, sin contacto (frente)" },
+      { label: "Tiempo de medición", value: "1 segundo" },
+      { label: "Pantalla", value: "Retroiluminada" },
+      { label: "Batería", value: "2 pilas AAA, no incluidas" },
+      { label: "ANMAT / RPPTM", value: "No declarado en la ficha" },
+    ],
+    relatedProducts: ["MLA35944743", "MLA53648273", "MLA50045029"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Termómetro digital infrarrojo BBLove AET-R1B1: mide sin contacto en 1 segundo, ideal para bebés o niños dormidos. Reseñas reales matizan el claim de 'alta precisión' del vendedor.",
+    seoTitle: "BBLove AET-R1B1: termómetro infrarrojo sin contacto",
+    metaDescription: "Termómetro digital infrarrojo BBLove AET-R1B1, mide en 1 segundo sin contacto. Opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás medir la temperatura sin despertar a un bebé o niño dormido: mide sin contacto en 1 segundo. Dos datos de honestidad, separados: primero, la descripción del vendedor usa palabras como \"alta precisión\" y \"Premium\", y una reseña real matiza ese claim directamente: \"no tienen una precisión exacta como el termómetro convencional, pero es bastante preciso, bien para el precio\". Segundo, y sin relación con lo anterior, la ficha no declara certificación ANMAT (ese dato certifica registro sanitario, no mide la precisión del instrumento). Es el rating más bajo de esta guía (4.4). No es para vos si buscás certificación ANMAT declarada: para eso, el Citizen o el Lepu LFR30B de esta guía.",
+    pros: [
+      "Mide sin contacto en 1 segundo, ideal para no despertar a un bebé o niño dormido",
+      "\"Termómetro muy cómodo y pequeño. Útil para mi bebé que me costaba tomarle la temperatura\", según una reseña real",
+      "Pantalla retroiluminada, fácil de leer de noche",
+      "Precio intermedio de esta guía",
+    ],
+    cons: [
+      "El rating más bajo de esta guía (4.4)",
+      "El vendedor usa \"alta precisión\" y \"Premium\" en su descripción; una reseña real lo matiza: \"no tienen una precisión exacta como el termómetro convencional... bastante presiso [sic]. Bien para el precio\"",
+      "\"Tarda y hay que hacerlo más de una vez\", según otra reseña real, sobre mediciones inconsistentes",
+      "No declara certificación ANMAT en su ficha",
+    ],
+    articleBody: `## Qué es y para quién
+
+El BBLove AET-R1B1 es un termómetro infrarrojo sin contacto, que mide por el frente en 1 segundo. Es para quien necesita tomar la temperatura sin despertar a un bebé o niño dormido.
+
+## Cómo funciona
+
+Mide por infrarrojo a distancia del frente, sin tocar la piel, en aproximadamente 1 segundo. Pantalla retroiluminada, funciona con 2 pilas AAA que no vienen incluidas.
+
+## La contra real
+
+El vendedor describe el producto con palabras como "alta precisión" y "Premium". Una reseña real con 4 votos útiles pone el producto en su lugar real: "no tienen una precisión exacta como el termómetro convencional, pero es bastante preciso. Bien para el precio". Otra reseña con 3 votos útiles agrega: "tarda y hay que hacerlo más de una vez" — sugiere que a veces conviene repetir la medición para confirmar. Un dato aparte, sin relación con la precisión: la ficha tampoco declara certificación ANMAT (ese registro certifica trazabilidad sanitaria, no mide qué tan exacto es el instrumento).
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Citizen CTA301C](/producto/MLA35944743) (contacto, ANMAT declarado), el BBLove es más rápido de usar (sin contacto) pero sin ese respaldo de certificación. Frente al [NEKOMMERCE](/producto/MLA53648273) (contacto económico), el BBLove cuesta más pero evita el contacto físico. Frente al [Lepu LFR30B](/producto/MLA50045029) (también infrarrojo), el Lepu sí declara ANMAT y suma memoria de 99 mediciones, a un precio mayor.
+
+## Para quién sí y para quién no
+
+Comprá el BBLove si necesitás medir sin despertar a alguien dormido y el precio es una prioridad frente a la certificación. No es para vos si preferís una ficha con certificación ANMAT declarada, o si preferís un dispositivo cuya precisión esté mejor documentada en reseñas: para eso, el [Citizen](/producto/MLA35944743) o el [Lepu LFR30B](/producto/MLA50045029) de esta guía.`,
+    faq: [
+      {
+        question: "¿Es tan preciso como un termómetro de contacto?",
+        answer: "Según una reseña real, no tiene la misma precisión exacta que un termómetro convencional de contacto, aunque cumple bien para el precio. Aparte de eso, su ficha tampoco declara certificación ANMAT.",
+      },
+      {
+        question: "¿Sirve para bebés dormidos?",
+        answer: "Sí, es su uso principal: mide sin contacto en 1 segundo, sin necesidad de despertar al bebé o niño.",
+      },
+      {
+        question: "¿Hay que repetir la medición?",
+        answer: "Según una reseña real, a veces conviene hacerlo más de una vez para confirmar el resultado, ya que puede tardar o dar lecturas inconsistentes.",
+      },
+      {
+        question: "¿Tiene certificación ANMAT?",
+        answer: "No está declarada en su ficha de MercadoLibre.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Termómetro Digital Infrarrojo BBLove AET-R1B1",
+      image: ["https://http2.mlstatic.com/D_Q_NP_674812-MLU72999419494_112023-F.webp"],
+      description: "Termómetro digital infrarrojo BBLove AET-R1B1, sin contacto, mide en 1 segundo.",
+      brand: { "@type": "Brand", name: "BBLove" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-bblove-modelo-aet-r1b1-sin-contacto-frontal-blanco/p/MLA28449145",
+        priceCurrency: "ARS",
+        price: "12900",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.4",
+        reviewCount: "149",
+      },
+    },
+  },
+  {
+    id: "MLA50045029",
+    title: "Termómetro Digital Infrarrojo Lepu LFR30B Frente Memoria Adultos Niños",
+    canonicalName: "Termómetro Digital Infrarrojo Lepu LFR30B",
+    price: 25990,
+    originalPrice: 52922,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_771348-MLA84514988082_052025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_771348-MLA84514988082_052025-F.webp",
+    ],
+    category: "Salud y Bienestar",
+    categorySlug: "salud-bienestar",
+    permalink: "https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-lepu-lfr30b-frente-memoria-adultos-ninos/p/MLA50045029",
+    affiliateUrl: "https://meli.la/2kSRjHv",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 79,
+    soldQuantity: 500,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Lepu (distribuido por Silfab)" },
+      { label: "Modelo", value: "LFR30B" },
+      { label: "Tipo", value: "Infrarrojo, sin contacto (frente)" },
+      { label: "Distancia de medición", value: "0 a 5 cm" },
+      { label: "Rango corporal", value: "32°C a 43°C" },
+      { label: "Rango de objetos", value: "0°C a 100°C" },
+      { label: "Exactitud declarada", value: "±0,3°C (34-43°C) / ±0,4°C (32-33,9°C)" },
+      { label: "Memoria", value: "Hasta 99 mediciones" },
+      { label: "Indicador visual", value: "3 luces de fondo según rango de temperatura (semáforo de fiebre)" },
+      { label: "Batería", value: "2 pilas AAA, incluidas" },
+      { label: "Apagado automático", value: "Sí" },
+      { label: "Peso", value: "116 g" },
+      { label: "ANMAT / RPPTM", value: "PM-97-84 (declarado en la descripción del vendedor oficial)" },
+    ],
+    relatedProducts: ["MLA35944743", "MLA53648273", "MLA28449145"],
+    priceUpdated: "2026-07-19",
+    priceLastChecked: "2026-07-19",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-19",
+    description: "Termómetro digital infrarrojo Lepu LFR30B: la variante diferenciada de esta guía, con memoria de 99 mediciones, indicador visual de fiebre y certificación ANMAT declarada.",
+    seoTitle: "Lepu LFR30B: termómetro infrarrojo con memoria y ANMAT",
+    metaDescription: "Termómetro digital infrarrojo Lepu LFR30B, memoria 99 mediciones, ANMAT PM-97-84. Precio y opiniones reales.",
+    verdict: "Sirve si buscás el termómetro más completo de esta guía: mide sin contacto, guarda hasta 99 mediciones, tiene un indicador visual de 3 colores según el rango de temperatura, y declara certificación ANMAT (PM-97-84). Una reseña real es honesta sobre el límite de cualquier termómetro infrarrojo doméstico: \"por lo que vale es excelente, no se muy preciso pero para orientar está perfecto\". Es el más caro de esta guía. No es para vos si el precio es tu prioridad: para eso, el NEKOMMERCE de esta guía.",
+    pros: [
+      "El más completo de esta guía: memoria de 99 mediciones, indicador visual de 3 colores, apagado automático",
+      "Certificación ANMAT declarada (PM-97-84)",
+      "\"La medición es muy rápida, precisa y al ser sin contacto resulta súper práctico, especialmente para tomar la temperatura mientras duermen\", según una reseña real",
+      "Batería incluida, a diferencia del Citizen de esta guía",
+    ],
+    cons: [
+      "El más caro de esta guía",
+      "\"No se muy preciso pero para orientar está perfecto\", según una reseña real — sirve para orientar, no reemplaza un control médico",
+      "Menor volumen de reseñas (79) que el Citizen (3.245)",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Lepu LFR30B es un termómetro infrarrojo sin contacto con memoria de 99 mediciones e indicador visual de fiebre, la variante más completa de esta guía. Es para quien quiere llevar un registro de las mediciones, no solo tomar la temperatura una vez.
+
+## Cómo funciona
+
+Mide sin contacto a 0-5 cm del frente, rango corporal de 32°C a 43°C, con exactitud declarada de ±0,3°C a ±0,4°C según el rango. Guarda hasta 99 mediciones y muestra un indicador visual de 3 colores según el rango de temperatura (una especie de semáforo de fiebre). Batería incluida, apagado automático, 116 g. Declara certificación ANMAT (RPPTM PM-97-84) en la descripción del vendedor oficial (Silfab).
+
+## La contra real
+
+Una reseña real con 1 voto útil resume bien el límite realista de cualquier termómetro infrarrojo doméstico: "por lo que vale es excelente. No se muy preciso pero para orientar está perfecto". Es una buena forma de entender qué esperar: sirve para tener una idea rápida y orientar si hay fiebre, no para un diagnóstico médico preciso. Es también el más caro de esta guía, casi 4 veces el precio del Citizen.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Citizen CTA301C](/producto/MLA35944743) (contacto, más reseñas), el Lepu mide sin contacto y guarda memoria de 99 mediciones, pero cuesta más. Frente al [NEKOMMERCE](/producto/MLA53648273) (económico), la diferencia de precio es de más de 5 veces. Frente al [BBLove](/producto/MLA28449145) (también infrarrojo), el Lepu sí declara ANMAT y suma memoria, a un precio mayor.
+
+## Para quién sí y para quién no
+
+Comprá el Lepu LFR30B si buscás el termómetro más completo de esta guía, con memoria de mediciones y certificación ANMAT declarada. No es para vos si el precio es tu prioridad: para eso, el [NEKOMMERCE](/producto/MLA53648273) de esta guía.`,
+    faq: [
+      {
+        question: "¿Guarda las mediciones anteriores?",
+        answer: "Sí, hasta 99 mediciones, la única función de este tipo entre las 4 opciones de esta guía.",
+      },
+      {
+        question: "¿Qué significan las luces de colores?",
+        answer: "Es un indicador visual tipo semáforo: cambia de color según el rango de temperatura medido, para identificar de un vistazo si hay fiebre.",
+      },
+      {
+        question: "¿Es preciso?",
+        answer: "Según una reseña real, sirve para orientar, no para un diagnóstico médico exacto. El fabricante declara una exactitud de ±0,3°C a ±0,4°C según el rango; por separado, la ficha también declara certificación ANMAT (un registro sanitario, no una medición de precisión).",
+      },
+      {
+        question: "¿Por qué es tan caro comparado con el NEKOMMERCE?",
+        answer: "Suma funciones que el NEKOMMERCE no tiene: medición sin contacto, memoria de 99 mediciones, indicador visual de colores y certificación ANMAT declarada.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Termómetro Digital Infrarrojo Lepu LFR30B",
+      image: ["https://http2.mlstatic.com/D_Q_NP_771348-MLA84514988082_052025-F.webp"],
+      description: "Termómetro digital infrarrojo Lepu LFR30B, memoria 99 mediciones, ANMAT PM-97-84.",
+      brand: { "@type": "Brand", name: "Lepu" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-lepu-lfr30b-frente-memoria-adultos-ninos/p/MLA50045029",
+        priceCurrency: "ARS",
+        price: "25990",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "79",
+      },
+    },
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva día-del-niño-argentina — categoría "juguetes" nueva.
+  // Origen: Juan pidió sourcing de juguetes virales por franja etaria
+  // 2026-07-20, para el Día de las Infancias (16-ago-2026, Decreto
+  // 562/2025). Fuente de sourcing: Bright Data (search_engine +
+  // scrape_as_markdown) sobre MercadoLibre Argentina, 2026-07-20.
+  // TODO (Juan): reemplazar affiliateUrl (hoy = permalink real de ML)
+  // por el link meli.la correspondiente cuando lo generes.
+  // ─────────────────────────────────────────────────────────
+  {
+    id: "MLA30894790",
+    title: "Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebe Love Pez",
+    canonicalName: "Alfombra Sensorial Bebé Love 4230 (Pez)",
+    price: 6439,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_690569-MLA110267089662_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_690569-MLA110267089662_052026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_722393-MLA100084090691_122025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/alfombra-sensorial-inflable-con-aire-y-agua-4230-bebe-love-pez/p/MLA30894790",
+    affiliateUrl: "https://meli.la/23W2o4B", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3175,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-pink)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Love" },
+      { label: "Modelo", value: "4230" },
+      { label: "Personaje / color", value: "Pez" },
+      { label: "Función", value: "Alfombra sensorial inflable, con cámara de agua" },
+      { label: "Edad recomendada", value: "4 meses a 1 año (declarada en la ficha técnica)" },
+      { label: "Peso máximo soportado", value: "25 kg" },
+      { label: "Medidas", value: "69 × 50 × 8 cm" },
+      { label: "Materiales", value: "Libre de BPA y ftalatos (declarado por el vendedor)" },
+      { label: "Incluye pilas o accesorios", value: "No incluye" },
+      { label: "Certificado de seguridad del juguete", value: "N.º 0770 (declarado en la ficha técnica)" },
+      { label: "Ranking en MercadoLibre Argentina", value: "2.º más vendido en Bebés > Juegos y Juguetes; 1.º en Alfombras de Agua (julio 2026)" },
+    ],
+    relatedProducts: ["MLA68785030", "MLA56487348"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Alfombra sensorial inflable Love 4230, con cámara de agua para bebés de 4 meses a 1 año. 2.ª más vendida de su categoría en MercadoLibre Argentina, con más de 3.100 opiniones reales.",
+    seoTitle: "Alfombra Sensorial Love Pez: la más vendida en agua",
+    metaDescription: "Alfombra sensorial inflable Love 4230, cámara de agua, para bebés de 4 meses a 1 año. Precio real y opiniones de compradores.",
+    verdict: "Sirve si buscás el juguete de estimulación temprana con más respaldo de compradores de esta guía: 2.º más vendido de toda la categoría Bebés en MercadoLibre Argentina, con más de 3.100 calificaciones reales y un precio de entrada bajo. La contra real: es una alfombra inflable de agua, no un gimnasio con barra de juguetes colgantes, así que el bebé no tiene elementos para agarrar y tironear, solo la superficie con agua para tocar y presionar. No es para vos si buscás un juguete con más funciones (piano, sonidos, barra de actividades): para eso, el gimnasio piano Love de esta misma guía.",
+    pros: [
+      "2.º más vendido de la categoría Bebés en MercadoLibre Argentina, con más de 3.100 calificaciones reales",
+      "Precio de entrada bajo comparado con el resto de los juguetes de estimulación de esta guía",
+      "Libre de BPA y ftalatos, declarado por el vendedor",
+      "\"Es una aliada para acostarlos a dormir... estimula, es un sí por donde se la mire\", según una reseña real con 11 votos útiles",
+    ],
+    cons: [
+      "No trae barra de actividades ni juguetes colgantes, solo la superficie inflable con agua",
+      "No incluye pilas ni accesorios adicionales",
+      "El tamaño (69 × 50 cm) queda chico apenas el bebé empieza a moverse más",
+      "Al ser inflable, hay que inflarla y cargarle agua antes de cada uso",
+    ],
+    articleBody: `## Qué es y para quién
+
+La alfombra sensorial Love 4230 es una colchoneta inflable con una cámara interna de agua, pensada para bebés de 4 meses a 1 año que todavía pasan la mayor parte del tiempo boca abajo o sentados. Es 2.ª más vendida de toda la categoría Bebés en MercadoLibre Argentina, con más de 3.100 calificaciones.
+
+## Cómo funciona
+
+Se infla con aire y se le carga agua en la cámara central (el vendedor no aclara si viene precargada o hay que llenarla). Al apoyar las manos o presionar, el agua se mueve dentro de la alfombra, lo que estimula al bebé a tocar y observar el movimiento. Mide 69 × 50 × 8 cm y soporta hasta 25 kg.
+
+## La contra real
+
+No trae barra de actividades ni juguetes colgantes como los gimnasios tradicionales: la estimulación viene solo del movimiento del agua y el diseño del pez. Para bebés que ya empiezan a sentarse o gatear, el tamaño (69 × 50 cm) se queda chico bastante rápido. Tampoco incluye pilas ni accesorios adicionales.
+
+## Lo que dicen los compradores reales
+
+Las reseñas coinciden en que funciona bien como distracción sin pantallas: "Lo compré para evitar el uso de las pantallas en la casa" es un comentario recurrente en este tipo de producto. Una reseña con 11 votos útiles la describe como "una aliada para acostarlos a dormir... estimula, entretiene, es un sí por donde se la mire".
+
+## Cómo se compara con el gimnasio piano de esta guía
+
+Frente al [gimnasio piano Love](/producto/MLA68785030), la alfombra Love Pez es más barata y más simple: sin sonido, sin barra de juguetes, solo la superficie de agua. El gimnasio piano cubre una franja de edad más amplia (0 meses a 3 años) y suma estimulación auditiva.
+
+## Para quién sí y para quién no
+
+Comprá esta alfombra si buscás el juguete de estimulación con más volumen de reseñas reales y el precio de entrada más bajo de la guía. No es para vos si buscás algo con más funciones o que dure más tiempo de uso a medida que el bebé crece: para eso, el [gimnasio piano Love](/producto/MLA68785030) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Para qué edad sirve la alfombra sensorial Love Pez?",
+        answer: "La ficha técnica declara de 4 meses a 1 año, el período en el que el bebé pasa más tiempo boca abajo o sentado.",
+      },
+      {
+        question: "¿Hay que cargarle agua?",
+        answer: "Sí, tiene una cámara interna de agua que se mueve al tocar o presionar la superficie.",
+      },
+      {
+        question: "¿Cuánto peso soporta?",
+        answer: "Hasta 25 kg, según la ficha técnica.",
+      },
+      {
+        question: "¿Es lo mismo que un gimnasio de actividades?",
+        answer: "No. No trae barra de juguetes colgantes ni sonido, solo la superficie inflable con agua. Para más funciones, el gimnasio piano Love de esta guía suma sonido y barra desmontable.",
+      },
+      {
+        question: "¿Es libre de BPA?",
+        answer: "El vendedor lo declara libre de BPA y ftalatos en la ficha técnica.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 11, text: "Mi bebé tiene 3 meses y le encanto, es muy cómoda y grande de buena calidad súper recomendable." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 11, text: "Tal cual las imágenes y el tamaño, fácil de cargar el agua e inflar, le encanto." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 11, text: "Es excelente! es la 2da que compro porque se la regalé a una amiga. Estimula al bebé, es una aliada para acostarlos a dormir... entretiene, estimula, es un sí por donde se la mire." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 8, text: "Me encantó, mi bebé tiene dos meses y es chiquita pero ya le va a dar buen uso!!." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Alfombra Sensorial Bebé Love 4230 (Pez)",
+      image: ["https://http2.mlstatic.com/D_Q_NP_690569-MLA110267089662_052026-F.webp"],
+      description: "Alfombra sensorial inflable Love 4230, cámara de agua, para bebés de 4 meses a 1 año.",
+      brand: { "@type": "Brand", name: "Love" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/alfombra-sensorial-inflable-con-aire-y-agua-4230-bebe-love-pez/p/MLA30894790",
+        priceCurrency: "ARS",
+        price: "6439",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "3175",
+      },
+    },
+  },
+  {
+    id: "MLA68785030",
+    title: "Alfombra Gimnasio Piano Didáctico Bebe 4040 Love Celeste",
+    canonicalName: "Gimnasio Piano Didáctico Love 4040",
+    price: 24990,
+    originalPrice: 32990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_910270-MLA111015928025_042026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_910270-MLA111015928025_042026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_901483-MLA111015247187_042026-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/alfombra-gimnasio-piano-didactico-bebe-4040-love-color-celeste/p/MLA68785030",
+    affiliateUrl: "https://meli.la/2wawxKR", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 1390,
+    soldQuantity: 100000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Love" },
+      { label: "Modelo", value: "4040" },
+      { label: "Color", value: "Celeste" },
+      { label: "Personaje / tema", value: "Piano" },
+      { label: "Edad recomendada", value: "0 meses a 3 años (declarada en la ficha técnica)" },
+      { label: "Peso máximo soportado", value: "20 kg" },
+      { label: "Incluye accesorios", value: "Sí, barra de juguetes desmontable" },
+      { label: "Base desmontable", value: "Sí, para guardar" },
+      { label: "Pilas", value: "No incluidas" },
+      { label: "Ranking en MercadoLibre Argentina", value: "10.º más vendido en Bebés > Juegos y Juguetes; 5.º en Centros de Actividades (julio 2026)" },
+    ],
+    relatedProducts: ["MLA30894790", "MLA56487348"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Gimnasio piano didáctico Love 4040, con barra de juguetes desmontable y base plegable, para bebés de 0 meses a 3 años. Más de 1.390 opiniones reales en MercadoLibre Argentina.",
+    seoTitle: "Gimnasio Piano Love 4040: el que más dura por edad",
+    metaDescription: "Gimnasio piano didáctico Love 4040, barra de juguetes desmontable, de 0 meses a 3 años. Precio real y opiniones de compradores.",
+    verdict: "Sirve si buscás el juguete de estimulación que más te va a durar: cubre de 0 meses a 3 años (la franja más amplia de esta guía), con barra de juguetes desmontable y base plegable para guardar. Es el más caro de los dos juguetes de estimulación de esta guía, pero también el de mayor volumen de reseñas sostenido en el tiempo (1.390, no un pico aislado). La contra real: no incluye pilas, y al ser un gimnasio con más piezas, ocupa más espacio armado que la alfombra Love Pez. No es para vos si buscás algo más chico y barato solo para los primeros meses: para eso, la alfombra Love Pez de esta misma guía.",
+    pros: [
+      "Cubre de 0 meses a 3 años, la franja de edad más amplia de esta guía",
+      "1.390 calificaciones reales, con reseñas recientes (no solo un pico de venta puntual)",
+      "Base y barra de juguetes desmontables, se guarda más fácil que un gimnasio fijo",
+      "\"Super recomendable, a mí bebé le encanto\", según una reseña real con 6 votos útiles",
+    ],
+    cons: [
+      "No incluye pilas para las funciones de sonido",
+      "Es el juguete más caro de esta guía dentro de la franja bebés",
+      "Ocupa más espacio armado que una alfombra simple",
+    ],
+    articleBody: `## Qué es y para quién
+
+El gimnasio piano didáctico Love 4040 es un centro de actividades para bebés con barra de juguetes colgantes y una base con piano musical, pensado para acompañar desde recién nacido hasta los 3 años. Es 10.º más vendido de toda la categoría Bebés en MercadoLibre Argentina, con 1.390 calificaciones.
+
+## Cómo funciona
+
+Trae una base acolchada con un piano integrado (requiere pilas, no incluidas) y una barra de juguetes desmontable que se puede sacar para usar aparte cuando el bebé crece. Soporta hasta 20 kg y tanto la base como la barra son desmontables para guardar.
+
+## La contra real
+
+No incluye pilas, así que hay que comprarlas aparte para que funcione el piano. Al tener más piezas que una alfombra simple, ocupa más espacio armado. Es también el juguete más caro de la franja bebés de esta guía.
+
+## Lo que dicen los compradores reales
+
+Las reseñas destacan sobre todo lo fácil que es armar y desarmar para guardar: "Hermoso útil y fácil de armar y desarmar para guardar" resume el comentario más repetido. Otra reseña con 6 votos útiles lo describe simplemente como "Super recomendable, a mí bebé le encanto".
+
+## Cómo se compara con la alfombra de esta guía
+
+Frente a la [alfombra Love Pez](/producto/MLA30894790), el gimnasio piano es más caro pero dura más tiempo de uso (0 meses a 3 años contra 4 meses a 1 año) y suma sonido y una barra de juguetes que la alfombra no tiene.
+
+## Para quién sí y para quién no
+
+Comprá este gimnasio si buscás el juguete que más te va a durar por edad, con barra de actividades desmontable. No es para vos si el presupuesto es la prioridad principal o buscás algo más chico solo para los primeros meses: para eso, la [alfombra Love Pez](/producto/MLA30894790) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Para qué edad sirve el gimnasio piano Love 4040?",
+        answer: "La ficha técnica declara de 0 meses a 3 años, la franja más amplia de esta guía.",
+      },
+      {
+        question: "¿Incluye pilas?",
+        answer: "No, hay que comprarlas aparte para que funcione el piano.",
+      },
+      {
+        question: "¿Se puede desarmar para guardar?",
+        answer: "Sí, tanto la base como la barra de juguetes son desmontables.",
+      },
+      {
+        question: "¿Cuánto peso soporta?",
+        answer: "Hasta 20 kg, según la ficha técnica.",
+      },
+      {
+        question: "¿Conviene más que una alfombra sensorial simple?",
+        answer: "Depende del presupuesto: dura más tiempo de uso (hasta 3 años) y suma sonido, pero es más caro que la alfombra Love Pez de esta misma guía.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 6, text: "Super recomendable, a mí bebé le encanto." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 4, text: "Excelente era lo que esperaba." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 3, text: "Hermoso útil y facil de armar y desarmar para guardar." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Gimnasio Piano Didáctico Love 4040",
+      image: ["https://http2.mlstatic.com/D_Q_NP_910270-MLA111015928025_042026-F.webp"],
+      description: "Gimnasio piano didáctico Love 4040, barra de juguetes desmontable, de 0 meses a 3 años.",
+      brand: { "@type": "Brand", name: "Love" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/alfombra-gimnasio-piano-didactico-bebe-4040-love-color-celeste/p/MLA68785030",
+        priceCurrency: "ARS",
+        price: "24990",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "1390",
+      },
+    },
+  },
+  {
+    id: "MLA56487348",
+    title: "Cocinita De Juguete Duravit Mi Cocina Con Horno Y 33 Piezas Rosa",
+    canonicalName: "Cocinita de Juguete Duravit Mi Cocina",
+    price: 24790,
+    originalPrice: 35035,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_922127-MLA110455738694_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_922127-MLA110455738694_052026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_667217-MLA94431995140_102025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa/p/MLA56487348",
+    affiliateUrl: "https://meli.la/24CpASH", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 1356,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-pink)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Duravit" },
+      { label: "Modelo", value: "610" },
+      { label: "Color", value: "Rosa / Verde" },
+      { label: "Material", value: "Plástico" },
+      { label: "Piezas", value: "33, incluye horno" },
+      { label: "Medidas", value: "54 × 42 × 26 cm" },
+      { label: "Luz o sonido", value: "No trae" },
+      { label: "Edad mínima declarada (campo específico)", value: "2 años" },
+      { label: "Edad recomendada (otro campo de la misma ficha)", value: "5 a 7 años — la propia ficha del vendedor se contradice entre ambos campos" },
+      { label: "Ranking en MercadoLibre Argentina", value: "1.º más vendido en Cocinas de Juguete (julio 2026)" },
+    ],
+    relatedProducts: ["MLA62609709", "MLA30894790"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Cocinita de juguete Duravit Mi Cocina, 33 piezas con horno. 1.ª más vendida de su categoría en MercadoLibre Argentina, con más de 1.350 opiniones reales.",
+    seoTitle: "Cocinita Duravit Mi Cocina: la más vendida en Argentina",
+    metaDescription: "Cocinita de juguete Duravit con horno, 33 piezas, rosa. 1.ª más vendida en Argentina, opiniones reales de compradores.",
+    verdict: "Sirve si buscás la cocina de juguete con más respaldo de compradores de esta guía: 1.ª más vendida de toda la categoría en MercadoLibre Argentina, con 33 piezas y horno incluido. Un dato de honestidad importante: la propia ficha técnica del vendedor se contradice sobre la edad, un campo dice 2 años y otro dice 5 a 7 años. Las reseñas reales confirman que a los 2-3 años el tamaño le queda cómodo, así que en la práctica se usa más cerca del piso de 2 años que del rango de 5 a 7, pero conviene saber que la propia ficha no lo resuelve. No es para vos si buscás algo con menos piezas para armar o un juguete de construcción en vez de juego simbólico: para eso, los bloques magnéticos de esta misma guía.",
+    pros: [
+      "1.ª más vendida de la categoría Cocinas de Juguete en MercadoLibre Argentina, con más de 1.350 calificaciones reales",
+      "33 piezas incluidas, con horno",
+      "Tamaño real (54 × 42 × 26 cm), cómodo para chicos de 2-4 años según las reseñas",
+      "\"Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo\", según una reseña real",
+    ],
+    cons: [
+      "La ficha del vendedor se contradice entre 2 años y 5-7 años según el campo que mires",
+      "No trae luz ni sonido",
+      "Una reseña real avisa que para más de 5 años el tamaño ya queda chico",
+    ],
+    articleBody: `## Qué es y para quién
+
+La cocinita Duravit Mi Cocina es un set de juego simbólico con horno y 33 piezas de accesorios (ollas, utensilios, alimentos de juguete), 1.ª más vendida de toda la categoría Cocinas de Juguete en MercadoLibre Argentina, con 1.356 calificaciones.
+
+## La contradicción de edad, explicada
+
+Esta es la aclaración más importante antes de comprar: la ficha técnica del vendedor tiene dos campos distintos sobre la edad, y se contradicen entre sí. Uno dice "edad mínima: 2 años", el otro dice "edad recomendada: 5 a 7 años". No inventamos ese dato: está así en la publicación real. Las reseñas de compradores aportan contexto práctico: varias describen niños de 1 a 4 años usándola cómodamente por el tamaño, y una reseña avisa explícitamente que para más de 5 años ya queda chica. Con esa evidencia, en la práctica se usa más cerca del piso de 2 años que del techo de 7, aunque la ficha en sí no resuelve la contradicción.
+
+## Cómo funciona
+
+Trae 54 × 42 × 26 cm de estructura de plástico con horno y 33 piezas de accesorios. No tiene luz ni sonido, es un juguete de juego simbólico puro: cocinar, servir, guardar.
+
+## Lo que dicen los compradores reales
+
+"Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo" resume el tono general de las reseñas. Otra compradora aclara el tema del tamaño: "tal vez yo lo recomiendo para edad menos de 4 por la altura". Y una tercera confirma que "a mi hija de 1 año le viene de 10 el tamaño pero creo que para más de 5 años no es".
+
+## Cómo se compara con los bloques magnéticos de esta guía
+
+Frente a los [bloques magnéticos](/producto/MLA62609709), la cocinita es juego simbólico (imitar una actividad real) mientras que los bloques son construcción libre. Ambos apuntan a la misma franja de edad (2-5 años), pero desarrollan habilidades distintas — no compiten, se complementan.
+
+## Para quién sí y para quién no
+
+Comprá esta cocinita si buscás el juguete de juego simbólico con más respaldo de compradores de esta guía. No es para vos si tu hijo o hija ya tiene más de 5 años (las reseñas avisan que el tamaño se queda chico) o si buscás juego de construcción: para eso, los [bloques magnéticos](/producto/MLA62609709) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Para qué edad es la cocinita Duravit, 2 años o 5-7 años?",
+        answer: "La propia ficha del vendedor se contradice entre esos dos rangos. Las reseñas reales de compradores confirman que a los 2-4 años el tamaño queda cómodo, y avisan que después de los 5 ya se queda chica.",
+      },
+      {
+        question: "¿Trae luz o sonido?",
+        answer: "No, es un juguete de juego simbólico sin funciones electrónicas.",
+      },
+      {
+        question: "¿Cuántas piezas incluye?",
+        answer: "33 piezas, incluyendo el horno.",
+      },
+      {
+        question: "¿Es mejor que unos bloques de construcción?",
+        answer: "No son comparables directamente: la cocinita es juego simbólico, los bloques son construcción libre. Apuntan a la misma edad pero desarrollan habilidades distintas.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", text: "Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 4, text: "...tal vez yo lo recomiendo para edad menos de 4 por la altura." },
+      { rating: 4, country: "Argentina", date: "hace más de 1 año", useful: 3, text: "...a mi hija de 1 año le viene de 10 el tamaño pero creo que para más de 5 años no es." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Cocinita de Juguete Duravit Mi Cocina",
+      image: ["https://http2.mlstatic.com/D_Q_NP_922127-MLA110455738694_052026-F.webp"],
+      description: "Cocinita de juguete Duravit Mi Cocina, 33 piezas con horno, rosa.",
+      brand: { "@type": "Brand", name: "Duravit" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/cocinita-de-juguete-duravit-mi-cocina-con-horno-y-33-piezas-rosa/p/MLA56487348",
+        priceCurrency: "ARS",
+        price: "24790",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "1356",
+      },
+    },
+  },
+  {
+    id: "MLA62609709",
+    title: "Bloques Magnéticos Cubos Para Armar Estilo Minecraft 60 Piezas",
+    canonicalName: "Bloques Magnéticos Estilo Minecraft 60 Piezas",
+    price: 27999,
+    originalPrice: 59999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_794124-MLA99258855342_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_794124-MLA99258855342_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_918196-MLA99740939041_112025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709",
+    affiliateUrl: "https://meli.la/23Vi9dL", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 843,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Levys Bazar" },
+      { label: "Modelo", value: "1005" },
+      { label: "Piezas", value: "60" },
+      { label: "Medida por pieza", value: "2.5 × 2.5 × 2.5 cm" },
+      { label: "Material", value: "Plástico + imanes" },
+      { label: "Estilo", value: "Cubos estilo Minecraft, bordes suaves" },
+      { label: "Edad mínima declarada", value: "3 años" },
+      { label: "Tóxico", value: "No tóxico, declarado por el vendedor" },
+    ],
+    relatedProducts: ["MLA56487348", "MLA61271206"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Bloques magnéticos estilo Minecraft, 60 piezas, con más de 840 opiniones reales en MercadoLibre Argentina y rating 4.8.",
+    seoTitle: "Bloques Magnéticos Minecraft: 60 piezas, 4.8 estrellas",
+    metaDescription: "Bloques magnéticos estilo Minecraft, 60 piezas, no tóxicos. Rating 4.8, más de 840 opiniones reales.",
+    verdict: "Sirve si buscás el juguete de construcción con mejor rating de esta guía: 4.8 estrellas con más de 840 calificaciones reales, y el estilo Minecraft lo hace reconocible para chicos que ya conocen el videojuego. Las reseñas destacan que el imán funciona de verdad, sostiene varias piezas en el aire. No es para vos si buscás algo de juego simbólico en vez de construcción libre: para eso, la cocinita Duravit de esta misma guía.",
+    pros: [
+      "El mejor rating de esta guía (4.8 estrellas) con más de 840 calificaciones reales",
+      "60 piezas, buen volumen para armar formas variadas",
+      "Estilo Minecraft, reconocible para chicos que ya juegan al videojuego",
+      "\"El imán funciona incluso levantando varias piezas en el aire\", según una reseña real con 9 votos útiles",
+    ],
+    cons: [
+      "Las piezas son chicas (2.5 cm), no apto para menores de 3 años por riesgo de asfixia",
+      "No trae instrucciones de armado más allá de lo básico",
+      "Es un juguete de construcción libre, no viene con un objetivo o modelo a armar",
+    ],
+    articleBody: `## Qué es y para quién
+
+Un set de 60 cubos magnéticos de 2.5 cm, estilo Minecraft, para construcción libre. Tiene el mejor rating de toda esta guía (4.8 estrellas) con más de 840 calificaciones reales en MercadoLibre Argentina.
+
+## Cómo funciona
+
+Cada cubo tiene imanes integrados en sus caras, así que se pegan entre sí en cualquier combinación. No hay un modelo fijo a armar: el chico construye formas libres, torres, estructuras tipo Minecraft. La edad mínima declarada es 3 años, justo por el tamaño de las piezas.
+
+## La contra real
+
+Al ser piezas chicas (2.5 cm), no es apto para menores de 3 años por riesgo de asfixia si se las llevan a la boca. Tampoco viene con instrucciones más allá de lo básico: es 100% construcción libre, sin un modelo guía.
+
+## Lo que dicen los compradores reales
+
+Las reseñas confirman que el magnetismo es real y fuerte: "El imán funciona incluso levantando varias piezas en el aire" (9 votos útiles). Otra reseña lo describe simplemente como "Excelente calidad!!!" y una tercera lo valora como entrenamiento: "un muy buen entrenamiento. Materializar lo que juegan en las pantallas".
+
+## Cómo se compara con la cocinita de esta guía
+
+Frente a la [cocinita Duravit](/producto/MLA56487348), los bloques son construcción libre en vez de juego simbólico. Apuntan a la misma franja de edad (2-5 años, con el piso en 3 por seguridad), y son complementarios más que competencia.
+
+## Para quién sí y para quién no
+
+Comprá estos bloques si buscás el juguete de construcción con mejor rating de esta guía, y tu hijo o hija ya tiene 3 años cumplidos. No es para vos si buscás algo de juego simbólico o si el chico todavía tiene menos de 3 años: para eso, revisá primero la [cocinita Duravit](/producto/MLA56487348) de esta misma guía (con la aclaración de edad que trae esa ficha).`,
+    faq: [
+      {
+        question: "¿Desde qué edad se puede usar?",
+        answer: "Desde 3 años, por el tamaño chico de las piezas (riesgo de asfixia en menores).",
+      },
+      {
+        question: "¿El magnetismo es fuerte de verdad?",
+        answer: "Sí, según reseñas reales sostiene varias piezas en el aire sin despegarse.",
+      },
+      {
+        question: "¿Trae instrucciones para armar modelos?",
+        answer: "No, es un set de construcción libre sin un modelo guía fijo.",
+      },
+      {
+        question: "¿Es tóxico el material?",
+        answer: "El vendedor lo declara no tóxico en la ficha técnica.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 6 meses", useful: 9, text: "El imán funciona incluso levantando varias piezas en el aire..." },
+      { rating: 5, country: "Argentina", date: "hace 7 meses", useful: 8, text: "Exelente calidad!!!." },
+      { rating: 4, country: "Argentina", date: "hace 7 meses", useful: 5, text: "...un muy buen entrenamiento. Materializar lo que juegan en las pantallas." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bloques Magnéticos Estilo Minecraft 60 Piezas",
+      image: ["https://http2.mlstatic.com/D_Q_NP_794124-MLA99258855342_112025-F.webp"],
+      description: "Bloques magnéticos estilo Minecraft, 60 piezas, no tóxicos.",
+      brand: { "@type": "Brand", name: "Levys Bazar" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/bloques-magneticos-cubos-para-armar-de-construccion-estilo-minecraft-para-ninos-60-piezas-didacticos-creativo-ilimitado-material-seguro-y-resistente-no-toxicos-bordes-suaves-levys-bazar/p/MLA62609709",
+        priceCurrency: "ARS",
+        price: "27999",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "843",
+      },
+    },
+  },
+  {
+    id: "MLA61271206",
+    title: "Set De Construcción Lego Speed Champions Back To The Future Delorean 357 Piezas",
+    canonicalName: "LEGO Speed Champions Back to the Future DeLorean",
+    price: 99106,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_874647-MLA95977700870_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_874647-MLA95977700870_102025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_767411-MLA96421126139_102025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/set-de-construccion-lego-speed-champions-back-to-the-future-delorean-357-piezas-en-caja/p/MLA61271206",
+    affiliateUrl: "https://meli.la/15Jm863", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 874,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "LEGO" },
+      { label: "Línea", value: "Speed Champions" },
+      { label: "Modelo", value: "77256" },
+      { label: "Piezas", value: "357" },
+      { label: "Licencia", value: "Volver al Futuro (Back to the Future), incluye figuras de Doc Brown y Marty McFly" },
+      { label: "Edad recomendada por LEGO", value: "9 a 99 años (el rango oficial arranca en 9, más alto que el resto de esta guía)" },
+      { label: "Origen del producto", value: "Sin importación (venta doméstica, sin impuestos de aduana aparte)" },
+      { label: "Ranking en MercadoLibre Argentina", value: "4.º en Bloques y Figuras para Armar LEGO (julio 2026)" },
+    ],
+    relatedProducts: ["MLA69082200", "MLA45831503", "MLA62609709"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Set LEGO Speed Champions del DeLorean de Volver al Futuro, 357 piezas. 4.º más vendido de su categoría en MercadoLibre Argentina, con 874 opiniones reales.",
+    seoTitle: "LEGO Speed Champions DeLorean: Volver al Futuro",
+    metaDescription: "Set LEGO Speed Champions DeLorean, 357 piezas, licencia Volver al Futuro. Precio real y opiniones de compradores en Argentina.",
+    verdict: "Sirve si buscás el set de construcción con licencia real de esta guía: LEGO oficial de la línea Speed Champions, con el DeLorean de Volver al Futuro y las figuras de Doc Brown y Marty McFly, 357 piezas. Un dato de honestidad: LEGO recomienda oficialmente esta línea desde los 9 años, más alto que el resto de los juguetes de 6-10 de esta guía — igual funciona para chicos de 7-8 años con ayuda de un adulto, según reseñas. Es el producto más caro de la guía. No es para vos si buscás algo más económico o para chicos más chicos sin supervisión: para eso, el auto a control remoto de esta misma guía.",
+    pros: [
+      "LEGO oficial con licencia real de Volver al Futuro, no una imitación",
+      "4.9 estrellas con 874 calificaciones reales, la mejor combinación rating/reseñas de toda la guía",
+      "Venta doméstica, sin impuestos de importación aparte del precio mostrado",
+      "Incluye las figuras de Doc Brown y Marty McFly",
+    ],
+    cons: [
+      "LEGO recomienda oficialmente desde los 9 años, más alto que el resto de esta franja (6-10)",
+      "Es el producto más caro de toda la guía",
+      "357 piezas implica tiempo de armado, no es un juguete de uso inmediato",
+    ],
+    articleBody: `## Qué es y para quién
+
+El set LEGO Speed Champions del DeLorean de Volver al Futuro trae 357 piezas y las figuras de Doc Brown y Marty McFly. Es 4.º más vendido de su categoría específica (Bloques y Figuras para Armar LEGO) en MercadoLibre Argentina, con 874 calificaciones y 4.9 estrellas, el mejor combo rating/volumen de esta guía.
+
+## La edad recomendada, con honestidad
+
+LEGO recomienda oficialmente esta línea desde los 9 años, más alto que el resto de los juguetes de la franja 6-10 de esta guía. No lo escondemos: si el regalo es para un chico de 6 o 7 años, probablemente necesite ayuda de un adulto para armarlo. Una reseña de un comprador de México lo describe como "el mejor regalo de reyes magos", sin especificar la edad del chico que lo recibió.
+
+## Cómo funciona
+
+Es un set de construcción de piezas LEGO estándar, sin sonido ni luces. El resultado final es un DeLorean armado a escala reducida, con las dos figuras del film incluidas.
+
+## Lo que dicen los compradores reales
+
+Una reseña de Argentina de hace 3 meses confirma la logística: "Que decir? llego perfecto, bien envuelto y a tiempo." El resto de las reseñas con mejor volumen vienen de México, describiéndolo como un buen regalo.
+
+## Cómo se compara con el resto de esta guía
+
+Frente al [auto a control remoto](/producto/MLA69082200), este LEGO es más caro y requiere más tiempo de armado, pero es licencia oficial confirmada (a diferencia del [Labubu](/producto/MLA45831503) de esta guía, que no confirma licencia).
+
+## Para quién sí y para quién no
+
+Comprá este LEGO si buscás un regalo con licencia oficial confirmada y no te importa que el chico necesite ayuda para armarlo si tiene menos de 9 años. No es para vos si buscás algo de uso inmediato sin armado, o un ticket más bajo: para eso, el [auto a control remoto](/producto/MLA69082200) o el [Labubu](/producto/MLA45831503) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Desde qué edad recomienda LEGO este set?",
+        answer: "Oficialmente desde los 9 años. Para chicos más chicos de esta franja (6-8 años), probablemente necesiten ayuda de un adulto.",
+      },
+      {
+        question: "¿Es LEGO oficial o una imitación?",
+        answer: "Es LEGO oficial, con licencia real de Volver al Futuro (Back to the Future).",
+      },
+      {
+        question: "¿Cuántas piezas tiene?",
+        answer: "357 piezas.",
+      },
+      {
+        question: "¿Incluye las figuras de los personajes?",
+        answer: "Sí, incluye las figuras de Doc Brown y Marty McFly.",
+      },
+      {
+        question: "¿Tiene impuestos de importación aparte?",
+        answer: "No, es venta doméstica sin impuestos de aduana aparte del precio mostrado.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 3 meses", text: "Que decir? llego perfecto, bien envuelto y a tiempo." },
+      { rating: 5, country: "México", date: "hace más de 1 año", text: "El mejor regalo de reyes magos." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "LEGO Speed Champions Back to the Future DeLorean",
+      image: ["https://http2.mlstatic.com/D_Q_NP_874647-MLA95977700870_102025-F.webp"],
+      description: "Set LEGO Speed Champions del DeLorean de Volver al Futuro, 357 piezas, licencia oficial.",
+      brand: { "@type": "Brand", name: "LEGO" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/set-de-construccion-lego-speed-champions-back-to-the-future-delorean-357-piezas-en-caja/p/MLA61271206",
+        priceCurrency: "ARS",
+        price: "99106",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "874",
+      },
+    },
+  },
+  {
+    id: "MLA69082200",
+    title: "Auto Control Remoto Electroland CX 84 Con Luces Y Humo 360 Blanco",
+    canonicalName: "Auto a Control Remoto Electroland CX 84",
+    price: 28799,
+    originalPrice: 39999,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_976913-MLA111165457889_052026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_976913-MLA111165457889_052026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_616576-MLA111165398837_052026-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/auto-control-remoto-electroland-cx-84-con-luces-humo-360-color-blanco/p/MLA69082200",
+    affiliateUrl: "https://meli.la/2oqTSs1", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.6,
+    reviewCount: 300,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Electroland" },
+      { label: "Modelo", value: "CX 84" },
+      { label: "Material", value: "ABS" },
+      { label: "Función especial", value: "Giro 360°, humo con agua, luces" },
+      { label: "Control", value: "2.4 GHz" },
+      { label: "Batería del auto", value: "Recargable, incluye cargador" },
+      { label: "Pilas del control", value: "2 pilas AA, no incluidas" },
+      { label: "Edad mínima declarada", value: "6 años" },
+      { label: "Señal de tendencia", value: "Categoría 'autos locos 360° con luz y humo' con fuerte tracción en TikTok/Threads Argentina, julio 2026; esta ficha tiene más de 250 mil ventas dentro de esa categoría" },
+    ],
+    relatedProducts: ["MLA61271206", "MLA45831503"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Auto a control remoto Electroland CX 84, giro 360° con humo y luces. Más de 250 mil ventas en su categoría en MercadoLibre Argentina, 300 opiniones reales.",
+    seoTitle: "Auto RC Electroland CX 84: giro 360° con humo",
+    metaDescription: "Auto a control remoto Electroland CX 84, giro 360°, humo y luces. Precio real y opiniones de compradores en Argentina.",
+    verdict: "Sirve si buscás el juguete más 'show' de esta guía: gira 360°, larga humo con agua y tiene luces, en una categoría que está pegando fuerte en TikTok Argentina ahora mismo (autos locos con humo). Marca reconocida, más de 250 mil ventas en su categoría y batería recargable incluida. La contra real, según las mismas reseñas: la batería del auto no dura mucho tiempo de uso seguido, y las pilas del control no vienen incluidas. No es para vos si buscás algo con licencia de marca conocida (LEGO, por ejemplo): para eso, el LEGO Speed Champions de esta misma guía.",
+    pros: [
+      "Función de giro 360° con humo y luces, la categoría que más está pegando en TikTok Argentina en autos de juguete",
+      "Más de 250 mil ventas dentro de su categoría específica",
+      "Batería del auto recargable, con cargador incluido",
+      "\"Es genial! tremenda versatilidad!\", según una reseña real con rating 5 estrellas",
+    ],
+    cons: [
+      "Las pilas del control remoto no vienen incluidas (2 pilas AA)",
+      "Según una reseña real, la batería del auto no dura mucho tiempo de uso seguido",
+      "Otra reseña real avisa que puede llegar con detalles de embalaje (\"llegó embarrado\")",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Electroland CX 84 es un auto a control remoto con giro 360°, humo (con agua) y luces, de la categoría "autos locos" que está teniendo fuerte tracción en TikTok y Threads Argentina en julio 2026. Tiene más de 250 mil ventas dentro de esa categoría específica y 300 calificaciones con 4.6 estrellas.
+
+## Cómo funciona
+
+Control remoto de 2.4 GHz, el auto tiene batería recargable (cargador incluido) y el control necesita 2 pilas AA que no vienen incluidas. La función central es el giro de 360° combinado con humo (se le carga agua) y luces, que es justo lo que se ve en los videos virales.
+
+## La contra real
+
+Dos cosas salen de las reseñas reales: la batería del auto no aguanta mucho tiempo de uso seguido antes de necesitar recarga, y las pilas del control no vienen incluidas (hay que comprarlas aparte). Una reseña también menciona que llegó con el embalaje sucio, aunque el producto funcionaba bien.
+
+## Lo que dicen los compradores reales
+
+"Es genial! tremenda versatilidad!" resume el tono general. Otra reseña matiza: "Está muy bien para el precio! ... la batería del auto no dura tanto." Y una tercera, con cierto humor: "Arrepentido!! lo compre para mi sobrino pero me arrepiento... Muy lindo" (arrepentida de habérselo regalado a otro en vez de quedárselo, según el contexto de la reseña).
+
+## Cómo se compara con el LEGO de esta guía
+
+Frente al [LEGO Speed Champions](/producto/MLA61271206), este auto es más barato y de uso inmediato (no requiere armado), pero no tiene la licencia de marca reconocida que sí tiene el LEGO.
+
+## Para quién sí y para quién no
+
+Comprá este auto si buscás el juguete más "show" y de uso inmediato de esta guía, dentro de una categoría que hoy está en tendencia real en Argentina. No es para vos si preferís licencia de marca reconocida o menos dependencia de batería: para eso, el [LEGO Speed Champions](/producto/MLA61271206) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Trae pilas incluidas?",
+        answer: "El auto tiene batería recargable con cargador incluido, pero el control remoto necesita 2 pilas AA que no vienen incluidas.",
+      },
+      {
+        question: "¿Cuánto dura la batería del auto?",
+        answer: "Según reseñas reales, no aguanta mucho tiempo de uso seguido antes de necesitar recarga.",
+      },
+      {
+        question: "¿Desde qué edad se puede usar?",
+        answer: "La ficha técnica declara 6 años como edad mínima.",
+      },
+      {
+        question: "¿El humo es real o solo un efecto de luces?",
+        answer: "Es humo real, generado con agua que se le carga al auto.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Arrepentido!! lo compre para mi sobrino pero me arrepiento... Muy lindo." },
+      { rating: 4, country: "Argentina", date: "hace 9 meses", text: "El producto es excelente... llegó embarrado." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", text: "Es genial! tremenda versatilidad!" },
+      { rating: 4, country: "Argentina", date: "hace 6 meses", text: "Está muy bien para el precio! ... la batería del auto no dura tanto." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Auto a Control Remoto Electroland CX 84",
+      image: ["https://http2.mlstatic.com/D_Q_NP_976913-MLA111165457889_052026-F.webp"],
+      description: "Auto a control remoto Electroland CX 84, giro 360° con humo y luces.",
+      brand: { "@type": "Brand", name: "Electroland" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/auto-control-remoto-electroland-cx-84-con-luces-humo-360-color-blanco/p/MLA69082200",
+        priceCurrency: "ARS",
+        price: "28799",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.6",
+        reviewCount: "300",
+      },
+    },
+  },
+  {
+    id: "MLA45831503",
+    title: "Labubu Have A Seat Pop Mart 1 Pieza Color Sorpresa",
+    canonicalName: "Labubu Have A Seat (blind box)",
+    price: 6700,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_985170-MLA99538815348_122025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_985170-MLA99538815348_122025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_860850-MLA83096835138_032025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/labubu-have-a-seat-pop-mart-1-pieza-color-sorpresa/p/MLA45831503",
+    affiliateUrl: "https://meli.la/26xqNvm", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 3322,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Título del vendedor", value: "\"Labubu Have A Seat Pop Mart\"" },
+      { label: "Marca declarada en la ficha técnica", value: "Brinquedo criativo (no dice Pop Mart en este campo específico)" },
+      { label: "Línea", value: "Have a Seat" },
+      { label: "Personaje", value: "Labubu, color sorpresa (blind box)" },
+      { label: "Medidas", value: "15 × 7 cm, 50 g" },
+      { label: "Material", value: "Felpa + relleno de fibra siliconada, hipoalergénico" },
+      { label: "Articulado", value: "Cabeza gira 360°" },
+      { label: "Edad mínima declarada", value: "3 años" },
+      { label: "Certificado de seguridad del juguete", value: "N.º 567 (declarado en la ficha técnica)" },
+      { label: "Ventas", value: "Más de 10 mil vendidos" },
+    ],
+    relatedProducts: ["MLA46992246", "MLA61271206"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Labubu Have A Seat blind box, el coleccionable con más volumen de reseñas de esta guía: 3.322 opiniones reales en MercadoLibre Argentina.",
+    seoTitle: "Labubu Have A Seat: el coleccionable más vendido",
+    metaDescription: "Labubu Have A Seat blind box, sorpresa. Más de 3.300 opiniones reales en MercadoLibre Argentina, precio actualizado.",
+    verdict: "Sirve si buscás el coleccionable con más volumen de reseñas reales de toda esta guía: 3.322 calificaciones, 4.7 estrellas y más de 10 mil ventas. Una aclaración de honestidad importante: el título de la publicación dice \"Pop Mart\", pero el campo específico de marca en la ficha técnica dice \"Brinquedo criativo\", no Pop Mart. No hay forma de confirmar desde la publicación que sea mercadería oficialmente licenciada — probablemente sea una versión no oficial del personaje, algo común en este tipo de blind-box en MercadoLibre. Si buscás garantía de licencia oficial, esto no te la da; si buscás el producto que más compradores argentinos ya probaron, es la mejor opción de esta guía. Viene en formato sorpresa: no elegís el color.",
+    pros: [
+      "El mayor volumen de reseñas de toda esta guía: 3.322 calificaciones reales, 4.7 estrellas",
+      "Más de 10 mil ventas históricas",
+      "Precio de entrada bajo dentro de la categoría coleccionables",
+      "\"Muy buen producto, mi nena chocha con el labubu\", según una reseña real con 22 votos útiles",
+    ],
+    cons: [
+      "El campo de marca de la ficha técnica dice \"Brinquedo criativo\", no confirma licencia oficial de Pop Mart",
+      "Viene en formato sorpresa: no se puede elegir qué color/versión toca",
+      "Es un coleccionable de tendencia, con contra-señal real de que la moda puede estar empezando a bajar en 2026",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Labubu Have A Seat es un peluche coleccionable blind-box (formato sorpresa, no se elige el color), 15 × 7 cm, con la cabeza articulada. Es el producto con más reseñas de toda esta guía: 3.322 calificaciones reales, 4.7 estrellas, más de 10 mil ventas.
+
+## La aclaración de licencia, honesta
+
+El título de la publicación dice "Pop Mart", pero el campo específico "Marca" de la ficha técnica estructurada dice "Brinquedo criativo". Esto no confirma que sea mercadería oficialmente licenciada por Pop Mart (la empresa china dueña del personaje Labubu) — es más probable que sea una reproducción "compatible", algo muy común en este tipo de blind-box en MercadoLibre. No lo vendemos como "Labubu original": es un coleccionable del mismo estilo, sin licencia confirmada.
+
+## Cómo funciona
+
+Viene en formato "blind box": no se sabe qué color o variante toca hasta abrirlo. Es de felpa con relleno hipoalergénico, y la cabeza gira 360°.
+
+## Lo que dicen los compradores reales
+
+"Muy buen producto, mi nena chocha con el labubu" (22 votos útiles) es la reseña más votada en Argentina. Otra compradora de Brasil describe: "A mi hija le encantó, buena calidad y además vino con el Labubu Secreto (Marrón)!!" — el sistema "secreto" es parte del atractivo blind-box: hay una variante rara con menor probabilidad de salir.
+
+## Contexto de la tendencia (para que decidas con la info completa)
+
+Labubu es una tendencia real, con cobertura de prensa argentina confirmando un salto de 300% en ventas de e-commerce en 2025 y presencia en la ceremonia inaugural del Mundial 2026. Pero también hay señales de que la moda puede estar empezando a bajar (chatter sobre "fatiga de Labubu" y una nueva ola de "Pop Toys" reemplazándolo). Sigue siendo, hoy, el coleccionable con más tracción de venta real en esta guía.
+
+## Para quién sí y para quién no
+
+Comprá este Labubu si buscás el coleccionable con más respaldo de compradores reales de esta guía y no te molesta el formato sorpresa ni la falta de confirmación de licencia oficial. No es para vos si necesitás garantía de que sea mercadería 100% oficial licenciada, o si preferís elegir el modelo exacto: para eso, el [LEGO Speed Champions](/producto/MLA61271206) de esta misma guía sí es licencia confirmada.`,
+    faq: [
+      {
+        question: "¿Es un Labubu oficial de Pop Mart?",
+        answer: "El título dice Pop Mart, pero el campo de marca de la ficha técnica dice \"Brinquedo criativo\". No hay confirmación de licencia oficial en la publicación.",
+      },
+      {
+        question: "¿Se puede elegir el color?",
+        answer: "No, viene en formato sorpresa (blind box): el color/variante se conoce recién al abrirlo.",
+      },
+      {
+        question: "¿Qué es el \"Labubu Secreto\"?",
+        answer: "Es una variante rara dentro del sistema blind-box, con menor probabilidad de salir. Algunas reseñas confirman haberla recibido.",
+      },
+      {
+        question: "¿Desde qué edad es apto?",
+        answer: "La ficha técnica declara 3 años como edad mínima, con certificado de seguridad del juguete N.º 567.",
+      },
+      {
+        question: "¿Sigue siendo tendencia en 2026?",
+        answer: "Sí, aunque con señales de que la moda empieza a moderarse. Sigue siendo el coleccionable con más ventas y reseñas de esta guía.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Brasil", date: "hace 1 año", useful: 54, text: "Excelente en una línea" },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 22, text: "Muy buen producto, mi nena chocha con el labubu." },
+      { rating: 5, country: "Brasil", date: "hace 1 año", useful: 16, text: "A mi hija le encantó, buena calidad y además vino con el Labubu Secreto (Marrón)!!" },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 4, text: "Me encantó, son muy lindos, mí hijo feliz!." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Labubu Have A Seat (blind box)",
+      image: ["https://http2.mlstatic.com/D_Q_NP_985170-MLA99538815348_122025-F.webp"],
+      description: "Labubu Have A Seat, peluche coleccionable blind-box, licencia no confirmada.",
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/labubu-have-a-seat-pop-mart-1-pieza-color-sorpresa/p/MLA45831503",
+        priceCurrency: "ARS",
+        price: "6700",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "3322",
+      },
+    },
+  },
+  {
+    id: "MLA26082003",
+    title: "Mini Drone Plegable Recargable Cámara 4K 2.4GHz FPV GPS Wifi Negro",
+    canonicalName: "Mini Drone ST Smart Tech E88",
+    price: 45733,
+    originalPrice: 48141,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_838495-MLA113380173062_072026-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_838495-MLA113380173062_072026-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_738634-MLA113379671818_072026-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/mini-drone-plegable-recargable-camara-4k-24ghz-fpv-gps-wifi-negro/p/MLA26082003",
+    affiliateUrl: "https://meli.la/2y82D7j", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.0,
+    reviewCount: 2193,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "ST Smart Tech" },
+      { label: "Modelo", value: "E88" },
+      { label: "Título del vendedor", value: "\"Cámara 4K\"" },
+      { label: "Resolución real de cámara (ficha técnica)", value: "720p — el título comercial dice 4K, la ficha técnica estructurada dice 720p" },
+      { label: "Edad mínima recomendada", value: "14 años" },
+      { label: "Velocidad máxima", value: "28 km/h" },
+      { label: "Tiempo de vuelo", value: "10 minutos" },
+      { label: "Alcance", value: "150 metros" },
+      { label: "Conectividad", value: "GPS + WiFi 2.4GHz" },
+      { label: "Funciones", value: "Plegable, modo retorno automático, modo sin cabeza, giro 360°" },
+      { label: "Batería", value: "Litio 3.7V, incluida" },
+      { label: "Ranking en MercadoLibre Argentina", value: "1.º más vendido en Drones (julio 2026)" },
+    ],
+    relatedProducts: ["MLA46992246", "MLA45831503"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Mini drone ST Smart Tech E88, plegable, con GPS y WiFi. 1.º más vendido en la categoría Drones de MercadoLibre Argentina, con 2.193 opiniones reales.",
+    seoTitle: "Mini Drone E88: el más vendido en Argentina",
+    metaDescription: "Mini drone ST Smart Tech E88, plegable, GPS y WiFi. 1.º en ventas de Drones en Argentina, opiniones reales.",
+    verdict: "Sirve si buscás el juguete/gadget con más volumen de ventas confirmado de toda esta guía: 1.º en la categoría completa de Drones de MercadoLibre Argentina, con 2.193 calificaciones reales. Una aclaración de honestidad clave: el título dice \"Cámara 4K\", pero la ficha técnica estructurada declara 720p de resolución real, y las reseñas confirman que la calidad de imagen es floja para el precio. El rating (4.0) es el más bajo de esta guía, arrastrado por quejas reales de batería corta y una app en chino. No es para vos si esperás una cámara de verdad 4K o mucha autonomía de vuelo: es un drone de entrada, no un producto profesional.",
+    pros: [
+      "1.º más vendido de toda la categoría Drones en MercadoLibre Argentina",
+      "2.193 calificaciones reales, el mayor volumen absoluto de esta guía",
+      "GPS + modo retorno automático, útil para no perderlo de vista",
+      "Plegable, fácil de guardar",
+    ],
+    cons: [
+      "El título dice \"Cámara 4K\" pero la ficha técnica real declara 720p — no es una cámara 4K de verdad",
+      "Batería de 10 minutos de vuelo, corta según reseñas reales (\"dura menos que un shot de tequila\")",
+      "La app de control viene en chino, según una reseña real",
+      "Edad mínima recomendada 14 años, más alta que el resto de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+El mini drone ST Smart Tech E88 es plegable, con GPS, WiFi 2.4GHz y modo retorno automático. Es el 1.º más vendido de toda la categoría Drones de MercadoLibre Argentina, con 2.193 calificaciones reales.
+
+## La cámara: 4K de título, 720p de ficha técnica
+
+El título de la publicación promete "Cámara 4K", pero el campo específico de resolución en la ficha técnica estructurada declara **720p**. Es una diferencia real entre lo que dice el marketing del vendedor y lo que confirma el dato técnico. Las reseñas lo corroboran: "la cámara no es de buena definición, pero acorde al precio está bien" (252 votos útiles, la reseña más votada de todo el producto).
+
+## Cómo funciona
+
+Vuela hasta 28 km/h, con 10 minutos de autonomía y 150 metros de alcance. Tiene modo sin cabeza (más fácil de controlar para principiantes) y giro 360°. Se controla desde una app por WiFi.
+
+## La contra real
+
+Tres problemas confirmados por reseñas reales: la batería dura poco tiempo de vuelo seguido ("la batería dura menos que un shot de tequila... te aguanta como mucho 10 minutos"), la app de control viene en chino según al menos una reseña, y hay que usarlo en espacios abiertos porque el viento lo afecta al ser liviano.
+
+## Lo que dicen los compradores reales
+
+"Se lo compré a mi hijo de 11 años y está fascinado... mejor usarlo en lugares muy abiertos y sin viento" (99 votos útiles) — aunque la edad mínima declarada oficialmente es 14 años, esta reseña confirma que se usa también con chicos más chicos, con supervisión. Otra reseña destaca la resistencia: "Muy resistente, lo choqué contra unas cuantas cosas por accidente y no se rompió... no es muy fácil de usar."
+
+## Para quién sí y para quién no
+
+Comprá este drone si buscás el gadget con más volumen de ventas confirmado de esta guía y no esperás una cámara profesional 4K real. No es para vos si la calidad de imagen es tu prioridad, o si buscás algo apto para menores de 14 años sin reservas: para eso, revisá el [Labubu Llavero](/producto/MLA46992246) de esta misma guía, con edad mínima más baja.`,
+    faq: [
+      {
+        question: "¿La cámara graba en 4K de verdad?",
+        answer: "No. El título del producto dice 4K, pero la ficha técnica estructurada declara 720p de resolución real. Las reseñas confirman que la definición es floja para el precio.",
+      },
+      {
+        question: "¿Cuánto dura la batería?",
+        answer: "10 minutos de vuelo por carga, según la ficha técnica y confirmado por reseñas reales como un tiempo corto.",
+      },
+      {
+        question: "¿Desde qué edad se recomienda?",
+        answer: "La ficha técnica declara 14 años, aunque hay reseñas de compradores que lo usan con chicos de 11 años con supervisión.",
+      },
+      {
+        question: "¿Es fácil de controlar para principiantes?",
+        answer: "Tiene modo sin cabeza, que facilita el control inicial. Aun así, una reseña real avisa que no es muy fácil de usar al principio.",
+      },
+      {
+        question: "¿Aguanta golpes?",
+        answer: "Según una reseña real, es resistente: sobrevivió varios choques accidentales sin romperse.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 252, text: "Está bueno, para comenzar y aprender es recomendable. La cámara no es de buena definición, pero acorde al precio está bien... Sí hay viento mantenerlo bajo ya que es un dron liviano." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 99, text: "Se lo compré a mi hijo de 11 años y esta fascinado... mejor usarlo en lugares muy abiertos y sin viento." },
+      { rating: 4, country: "Argentina", date: "hace 1 año", useful: 62, text: "La batería dura menos que un shot de tequila. Te aguanta como mucho 10 minutos... la app está en chino." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 47, text: "Muy resistente, lo choque contra unas cuantas cosas por accidente y no se rompió... no es muy fácil de usar." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Mini Drone ST Smart Tech E88",
+      image: ["https://http2.mlstatic.com/D_Q_NP_838495-MLA113380173062_072026-F.webp"],
+      description: "Mini drone ST Smart Tech E88, plegable, GPS y WiFi, cámara 720p real.",
+      brand: { "@type": "Brand", name: "ST Smart Tech" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/mini-drone-plegable-recargable-camara-4k-24ghz-fpv-gps-wifi-negro/p/MLA26082003",
+        priceCurrency: "ARS",
+        price: "45733",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.0",
+        reviewCount: "2193",
+      },
+    },
+  },
+  {
+    id: "MLA46992246",
+    title: "Labubu Pop Mart Llavero Peluche Monster Mysteries 17 Cm",
+    canonicalName: "Labubu Llavero Monster Mysteries (blind box)",
+    price: 7500,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_995646-MLA99431860334_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_995646-MLA99431860334_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_806889-MLA91571229770_092025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/labubu-pop-mart-llavero-peluche-monster-mysteries-17-cm/p/MLA46992246",
+    affiliateUrl: "https://meli.la/1Rb4eTZ", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.5,
+    reviewCount: 920,
+    soldQuantity: 10000,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Título del vendedor", value: "\"Labubu Pop Mart\"" },
+      { label: "Marca declarada en la ficha técnica", value: "Genérica (no dice Pop Mart en este campo específico)" },
+      { label: "Versión", value: "Monster Mysteries" },
+      { label: "Personaje", value: "Aleatorio (caja sorpresa)" },
+      { label: "Altura", value: "15 cm (el título dice 17 cm, la ficha técnica dice 15 cm)" },
+      { label: "Peso", value: "9 g" },
+      { label: "Materiales", value: "Poliéster, silicona, vinilo" },
+      { label: "Formato", value: "Llavero + tarjeta coleccionable" },
+      { label: "Certificado de seguridad del juguete", value: "N.º 171 (declarado en la ficha técnica)" },
+    ],
+    relatedProducts: ["MLA45831503", "MLA26082003"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Labubu llavero Monster Mysteries, formato blind box con tarjeta coleccionable. 920 opiniones reales en MercadoLibre Argentina.",
+    seoTitle: "Labubu Llavero Monster Mysteries: formato colgante",
+    metaDescription: "Labubu llavero peluche Monster Mysteries, blind box con tarjeta coleccionable. Opiniones reales, precio actualizado.",
+    verdict: "Sirve si buscás un coleccionable en formato llavero, más chico y colgable que el Labubu Have A Seat de esta guía, con tarjeta coleccionable incluida. Misma aclaración de honestidad que el resto de los Labubu: el título dice Pop Mart, pero el campo de marca de la ficha técnica dice \"Genérica\", sin confirmar licencia oficial. Otro detalle: el título anuncia 17 cm mientras la ficha técnica declara 15 cm, una diferencia menor pero real. No es para vos si buscás el formato con más volumen de reseñas de esta categoría: para eso, el Labubu Have A Seat de esta misma guía.",
+    pros: [
+      "Formato llavero, más versátil que un peluche de mesa (se puede colgar en mochila o cartuchera)",
+      "Incluye tarjeta coleccionable además del peluche",
+      "920 calificaciones reales, 4.5 estrellas",
+      "\"Es pequeño pero lindo. Articulado\", según una reseña real con 33 votos útiles",
+    ],
+    cons: [
+      "El campo de marca de la ficha técnica dice \"Genérica\", no confirma licencia oficial de Pop Mart",
+      "El título anuncia 17 cm, la ficha técnica declara 15 cm",
+      "Viene en formato sorpresa: no se elige el personaje",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Labubu llavero Monster Mysteries es la versión colgante del coleccionable blind-box: 15 cm, con tarjeta coleccionable incluida, pensado para llevar en mochila o cartuchera además de exhibir.
+
+## La misma aclaración de licencia que el resto de los Labubu de esta guía
+
+El título dice "Pop Mart", pero el campo específico de marca en la ficha técnica declara "Genérica". Igual que con el [Labubu Have A Seat](/producto/MLA45831503), no hay confirmación de licencia oficial en la publicación. Además, hay una diferencia menor entre el título (17 cm) y la ficha técnica (15 cm) — la diferencia es chica pero real, y preferimos decirla.
+
+## Cómo funciona
+
+Viene en formato sorpresa (blind box): no se elige el personaje hasta abrirlo. Incluye argolla de llavero y una tarjeta coleccionable, algo que el Have A Seat de esta guía no trae.
+
+## Lo que dicen los compradores reales
+
+"Es pequeño pero lindo. Articulado" (33 votos útiles) resume bien el producto: chico, pero con buena terminación según los compradores. Otra reseña lo valora como regalo: "Hermoso y suave. Me parece una linda opción para regalos" (14 votos útiles).
+
+## Cómo se compara con el Have A Seat de esta guía
+
+Frente al [Labubu Have A Seat](/producto/MLA45831503), este llavero es más chico, más barato para colgar (aunque el precio de lista es similar), y suma la tarjeta coleccionable. El Have A Seat tiene más del triple de reseñas (3.322 contra 920).
+
+## Para quién sí y para quién no
+
+Comprá este llavero si buscás el formato más versátil para llevar puesto, con tarjeta coleccionable incluida. No es para vos si preferís el producto con más volumen de reseñas de la categoría: para eso, el [Labubu Have A Seat](/producto/MLA45831503) de esta misma guía.`,
+    faq: [
+      {
+        question: "¿Es un Labubu oficial de Pop Mart?",
+        answer: "El título dice Pop Mart, pero el campo de marca de la ficha técnica dice \"Genérica\". No hay confirmación de licencia oficial en la publicación.",
+      },
+      {
+        question: "¿Mide 17 cm como dice el título?",
+        answer: "La ficha técnica estructurada declara 15 cm, dos centímetros menos que lo que anuncia el título.",
+      },
+      {
+        question: "¿Trae algo más que el peluche?",
+        answer: "Sí, incluye una tarjeta coleccionable además del llavero.",
+      },
+      {
+        question: "¿Se puede elegir el personaje?",
+        answer: "No, viene en formato sorpresa (blind box).",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 33, text: "Es pequeño pero lindo. Articulado." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 18, text: "Muy lindo y buena calidad. Lo que esperaba." },
+      { rating: 4, country: "México", date: "hace 1 año", useful: 15, text: "Es bonito buen precio y si es labubu." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 14, text: "Hermoso y suave. Me parece una linda opción para regalos." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Labubu Llavero Monster Mysteries (blind box)",
+      image: ["https://http2.mlstatic.com/D_Q_NP_995646-MLA99431860334_112025-F.webp"],
+      description: "Labubu llavero Monster Mysteries, blind box con tarjeta coleccionable, licencia no confirmada.",
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/labubu-pop-mart-llavero-peluche-monster-mysteries-17-cm/p/MLA46992246",
+        priceCurrency: "ARS",
+        price: "7500",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.5",
+        reviewCount: "920",
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {
@@ -55976,4 +63422,5 @@ export const categoryPastels: Record<string, string> = {
   moda: 'var(--pastel-purple)',
   gadgets: 'var(--pastel-blue)',
   coleccionables: 'var(--pastel-amber)',
+  juguetes: 'var(--pastel-pink)',
 };

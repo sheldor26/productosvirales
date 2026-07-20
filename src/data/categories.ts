@@ -223,6 +223,29 @@ export const categories: Category[] = [
     `,
   },
   {
+    slug: "juguetes",
+    name: "Juguetes",
+    icon: "ToyBrick",
+    pastel: "var(--color-pastel-pink)",
+    h1: "Juguetes Virales para Regalar",
+    description: "Los juguetes que están pegando fuerte en Argentina, por edad: bebés, niños, niñas y adolescentes",
+    buyersGuide: `
+      <h2>Qué vas a encontrar en esta categoría</h2>
+      <p>Juguetes que hoy están vendiendo fuerte en MercadoLibre Argentina y aparecen seguido en redes: alfombras y gimnasios sensoriales para bebés, bloques magnéticos y cocinas de juguete para los más chicos, sets de construcción y autos a control remoto para la primaria, y coleccionables tipo blind-box, drones chicos y gadgets antiestrés para preadolescentes. Organizado por franja de edad, no por marca, porque es lo que más define si un juguete conviene o no.</p>
+
+      <h2>Qué mirar antes de comprar</h2>
+      <ul>
+        <li><strong>Edad mínima recomendada:</strong> la ficha técnica de MercadoLibre suele declarar una edad mínima real, distinta a veces de lo que dice el título del vendedor. Priorizá siempre el dato de la ficha técnica.</li>
+        <li><strong>Certificado de seguridad del juguete:</strong> en Argentina los juguetes deben tener un número de certificado de seguridad (Resolución de Seguridad de Producto). Está declarado en la ficha técnica de la mayoría de las publicaciones serias.</li>
+        <li><strong>Piezas chicas:</strong> para menores de 3 años, evitá cualquier juguete con piezas desmontables chicas (riesgo de asfixia), aunque el vendedor no lo aclare.</li>
+        <li><strong>Licencia oficial vs genérico:</strong> en coleccionables tipo blind-box, muchas publicaciones no confirman ser mercadería oficialmente licenciada. Revisá el campo "Marca" de la ficha técnica, no solo el título.</li>
+      </ul>
+
+      <h2>Rangos de precios típicos</h2>
+      <p>Juguetes sensoriales para bebés: <strong>$6.000 a $25.000</strong>. Bloques de construcción y cocinas de juguete: <strong>$25.000 a $35.000</strong>. Sets LEGO con licencia: <strong>$60.000 a $150.000</strong> según la línea. Autos a control remoto: <strong>$25.000 a $45.000</strong>. Coleccionables blind-box: <strong>$6.000 a $10.000</strong> la unidad. Drones chicos con cámara: <strong>$40.000 a $60.000</strong>.</p>
+    `,
+  },
+  {
     slug: "coleccionables",
     name: "Coleccionables",
     icon: "Trophy",

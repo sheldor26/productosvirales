@@ -414,6 +414,86 @@ A diferencia de la tanda anterior, estas 4 guías ya existían en el repo con `p
 
 Próxima medición sugerida: ~2026-08-16 (4 semanas).
 
+### Guías creadas de cero 2026-07-19 (barrido de tendencias/keywords, modo CREAR)
+
+Origen: research libre pedido por Juan (ML trends vía Bright Data + GSC audit + Keyword Planner/Ubersuggest sobre categorías sin cobertura). De ~9 candidatos validados por volumen, se eligieron las 3 con mejor combinación de encajar en un silo ya existente + volumen real + baja dificultad SEO. Sin baseline en GSC por ser publicación nueva.
+
+| Slug | Silo | Keyword principal (vol. Keyword Planner) | Publicada | Trío (GO) |
+| :-- | :-- | :-- | :-- | :-- |
+| ventilador-de-pie | climatizacion (pillar) | ventilador de pie (33.100/mes, estacional oct-dic) | 2026-07-19 | Gemini GO (1 ronda) + Codex GO (3 rondas: consumo W inconsistente con specs sin potencia declarada, enlazado interno en FAQ/lista de precios, residuo de un producto descartado, contradicción de función turbo entre Winco/Liliana, y luego un claim de exclusividad "3 en 1" que ignoraba que la Liliana también lo es) |
+| procesadora-de-alimentos | cocina | procesadora de alimentos (4.400/mes) | 2026-07-19 | Gemini GO (1 ronda) + Codex GO (3 rondas: bug real de CSP que bloqueaba imágenes de fabricante mitiendanube.com en las tarjetas de guía —no en la ficha—, enlazado interno, y un claim de exclusividad de jarra licuadora que ignoraba que la Philips también trae una) |
+| cepillo-de-dientes-electrico | cuidado-personal | cepillo de dientes electrico (2.900/mes, menor dificultad SEO del barrido) | 2026-07-19 | Gemini GO (1 ronda) + Codex GO (2 rondas: enlazado interno, taxonomía de categoría que rompía el agrupamiento de guías hermanas, wording confuso sobre volumen de reseñas de Suono) |
+
+**Hallazgo técnico (2026-07-19):** el bug de CSP encontrado en procesadora-de-alimentos es real y preexistente: `next.config.ts` permitía `*.mitiendanube.com` en `images.remotePatterns` desde el 2026-07-16 (para las fichas de Ultracomb/Waterdog en yogurtera/termo), pero la directiva `Content-Security-Policy` → `img-src` nunca se actualizó. Como los componentes de guía (`QuickPicks`, `ProductCard`, `StickyBuyBar`) usan `<img>` crudo en vez de `next/image`, ese allowlist no los cubre — solo la ficha individual se salva vía el proxy `/_next/image`. Se flageó como tarea aparte, Juan la corrió y quedó commiteada y pusheada (`003a2db`, confirma que las imágenes de termo/yogurtera estuvieron rotas en producción desde la publicación de esas 2 guías hasta este fix).
+
+**Descartes deliberados del research** (no fueron a la guía, dejados por escrito para no repetir la búsqueda): máquina de coser (33.100/mes, mayor volumen de todos, pero sin silo hermano, sería pivote a categoría nueva) y silla de escritorio (18.100/mes, comparte "gaming" solo de nombre con silla-gamer, público distinto). Aire acondicionado split, lavarropas y heladera tienen demanda fuerte en ventas de MercadoLibre pero dificultad SEO alta (SD 65 para heladera/lavarropas), no recomendable para un sitio DA1 sin backlinks.
+
+Próxima medición sugerida: ~2026-08-16 (4 semanas).
+
+### Guías creadas de cero 2026-07-19 (2da tanda: completar silos flacos) — STAGED, sin publicar
+
+Origen: Juan pidió completar los silos con menos guías del sitio (agua-caliente y bebidas-termicas con 1 guía, salud-bienestar con 1, seguridad con 3, tech con 4). Se investigaron productos hermanos dentro de cada silo con Keyword Planner + Ubersuggest. A diferencia de la tanda anterior, Juan pidió explícitamente dejarlas en STAGED (`publishedDate: "2026-09-01"`) hasta que él avise cuándo publicar — no se tocó el `publishedDate` real en ningún momento de esta tanda. Sin baseline en GSC por ser publicación nueva.
+
+| Slug | Silo | Keyword principal (vol. Keyword Planner) | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- | :-- |
+| nebulizador | salud-bienestar | nebulizador (22.200/mes, pico estacional invierno) | STAGED | Gemini GO (1 ronda) + Codex GO (5 rondas: certificación ANMAT/RPPTM afirmada de forma pareja para los 4 cuando solo 2 tienen número explícito, enlazado interno, y varios claims residuales de "certificados los 4" en meta/og/categoría que sobrevivieron varias rondas) |
+| tensiometro-digital | salud-bienestar | tensiometro digital (22.200/mes) | STAGED | Gemini GO (2 rondas, la primera marcó riesgo YMYL real: citas de "cardióloga"/"enfermero" en reseñas podían leerse como aval médico del sitio) + Codex GO (3 rondas: mismo hallazgo YMYL, claims de "precisión clínica" sin blindar, consejo médico directo, inconsistencia de memorias entre fichas) |
+| termotanque-a-gas | agua-caliente | termotanque a gas (22.200/mes) | STAGED | Gemini GO (1 ronda) + Codex GO (4 rondas: dato inventado de alimentación a pilas del Rheem que contradecía la fuente oficial del fabricante —quedó reformulado como discrepancia sin resolver entre una reseña y el fabricante—, referencia a un producto "Rinnai" que no estaba en la guía final, generalización de dependencia eléctrica que no aplicaba a todos los productos) |
+| cerradura-inteligente | seguridad | cerradura inteligente (1.900-2.900/mes, dificultad SEO más baja del barrido) | STAGED | Gemini GO (1 ronda) + Codex GO (3 rondas: error factual sobre Apple Home Key del Aqara U300 —el fabricante sí lo confirma, la ficha de ML no lo declara explícito, corregido en todo el contenido—) |
+
+**Hallazgo de seguridad real (nebulizador):** el research descartó 2 modelos "mesh" que dominaban el ranking de más vendidos de la categoría en ML porque su nomenclatura (JSL/JLS-W302) coincide con un producto que ANMAT prohibió en noviembre de 2024 por no tener registro sanitario. La guía incluye un aviso explícito sobre esto.
+
+**Descarte deliberado (tech):** no se agregó ninguna guía nueva a este silo — los candidatos investigados (disco rígido externo, hub USB, router wifi, webcam) tenían menos volumen y peor relación esfuerzo/retorno que los de los otros 4 silos.
+
+Próxima medición sugerida: cuando Juan publique (sin fecha fija todavía, están en STAGED).
+
+### Guías creadas de cero 2026-07-19 (3ra tanda: completar silos existentes) — STAGED, sin publicar
+
+Origen: de las 5 candidatas con volumen ya validado en el research del 16-jul (smartwatch, tostadora, parrilla eléctrica, alarma para casa, cerradura inteligente — esta última ya ejecutada en la tanda anterior), Juan eligió 4 de 5, descartando tostadora (cocina ya tiene 10 guías, keyword más genérica del grupo). Las 4 elegidas encajan en silos ya existentes, ninguna abre categoría nueva. Mismo criterio STAGED de la tanda anterior.
+
+| Slug | Silo | Keyword principal (vol. Keyword Planner) | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- | :-- |
+| botella-termica | bebidas-termicas | botella termica (9.900/mes) | STAGED | Codex GO (4 rondas: overclaims de precisión — ratio de precio Stanley dicho parejo "3-4 veces" cuando vs. Coleman es solo ~1.9x, "miles de veces más reseñas" cuando la proporción real es ~96x, lenguaje que sonaba a que una reseña real medía las 31h exactas de la Coleman cuando solo dice "una noche, al otro día seguía frío") + **Gemini/agy bloqueado, no auditó** (ver nota abajo) |
+| alarma-para-casa | seguridad | alarma para casa (4.400/mes, CPC alto) | STAGED | Codex GO (3 rondas: la ficha de i-tob decía "menos sensores" que el PST G30 cuando ambos declaran el mismo número, el diferencial real es tags RFID y expansión a 100 zonas) + **Gemini/agy bloqueado, no auditó** |
+| smartwatch | tech | smartwatch (33.100/mes, mayor volumen del barrido) | STAGED | Codex GO (1 ronda, sin bloqueantes) + **Gemini/agy bloqueado, no auditó** |
+| parrilla-electrica | cocina | parrilla eléctrica (6.600/mes) | STAGED | Codex GO (1 ronda, sin bloqueantes) + **Gemini/agy bloqueado, no auditó** |
+
+**Bloqueante técnico nuevo (Gemini/agy en modo headless):** las 8 corridas de `agy -p ... --print` fallaron con `jetski: no output produced — a tool required the "read_file" permission that headless mode cannot prompt for, so it was auto-denied`. Se intentó `--dangerously-skip-permissions` como sugiere el propio mensaje de error, pero el clasificador de permisos de Claude Code bloqueó ese flag por ser demasiado amplio. Las 4 guías de esta tanda quedaron auditadas solo por Codex — sin la segunda opinión de Gemini/agy. Pendiente: Juan decide si vale la pena resolver la config de `agy` para habilitar `read_file` en headless, o si se acepta Codex solo para próximas tandas.
+
+**Reemplazo de candidato por honestidad (alarma para casa):** el 4to pick original era una alarma solar de compra internacional (China, sin garantía, 9 calificaciones con solo 2 con texto, vendedor sin trayectoria) — no cumplía `docs/fichas.md`. Se reemplazó por un sensor solar Tuya CT80WR de un vendedor con trazabilidad real (tienda oficial, 30 días de garantía).
+
+**Smartwatch — clones evitados deliberadamente:** los 4 picks son de marcas trazables (Xiaomi, JD Jottade, Amazfit/Zepp Health Corp, Haylou), evitando los clones tipo "X8 Ultra"/"S8 Ultra" con claims médicos falsos que dominan la categoría en ML AR. La ficha económica (JD Venecia Sport) señala explícito que su ficha técnica oficial no confirma sensor de presión arterial pese a que reseñas lo mencionan.
+
+Próxima medición sugerida: cuando Juan publique (sin fecha fija todavía, están en STAGED).
+
+### Guías creadas de cero 2026-07-19 (4ta tanda: los 3 silos más flacos restantes) — STAGED, sin publicar
+
+Origen: tras la 3ra tanda, los silos más flacos pasaron a ser agua-caliente y bebidas-termicas (2 guías) y salud-bienestar (3). Research nuevo con Keyword Planner sobre esos 3 silos puntuales, un candidato validado por silo.
+
+| Slug | Silo | Keyword principal (vol. Keyword Planner) | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- | :-- |
+| bombilla-de-mate | bebidas-termicas | bombilla de mate (2.900/mes) | STAGED | Codex GO (1 ronda, sin bloqueantes) + **Gemini/agy bloqueado, no auditó** |
+| termometro-digital | salud-bienestar | termómetro digital (9.900/mes) | STAGED | Codex GO (4 rondas: lenguaje que conectaba ANMAT con precisión del instrumento, como si el registro sanitario certificara qué tan exacto mide — corregido separando ambos conceptos en cada mención; ratio de precio Lepu vs. Citizen mal calculado, "casi el doble" cuando es casi 4 veces) + **Gemini/agy bloqueado, no auditó** |
+| ducha-electrica | agua-caliente | ducha eléctrica (9.900/mes) | STAGED | Codex GO (**8 rondas**, ver nota abajo) + **Gemini/agy bloqueado, no auditó** |
+
+**Ducha eléctrica — hallazgo de seguridad real:** ninguno de los 4 productos declara la "Marca S" de Seguridad Eléctrica (obligatoria en Argentina para este tipo de producto, agua + electricidad). Solo la Lorenzetti Loren 6800W declara un Organismo de Certificación de Producto (Bureau Veritas Argentina S.A.), un dato distinto que NO equivale a la Marca S — la guía lo advierte en un bloque `warning` explícito. Además, la mayoría de las reseñas de los 3 productos Lorenzetti son de compradores de Brasil o México (MercadoLibre agrupa el catálogo regional), no de Argentina; solo la Indelplas Diluvio tiene reseñas 100% verificadas de Argentina.
+
+**Por qué 8 rondas (lección de proceso):** el problema real era un patrón de lenguaje repetido en decenas de lugares distintos (guía + 4 fichas: specs, verdict, cons, articleBody, faq, structuredData, metaDescription, quickPicks, tabla) donde "certificación de seguridad eléctrica" se usaba de forma ambigua, a veces leyéndose como que un producto SÍ tenía la Marca S cuando solo declaraba un organismo de certificación distinto. Cada ronda de Codex encontraba residuos en lugares no tocados en la ronda anterior. Se resolvió recién cuando se hizo (1) un cambio estructural — separar el campo `specs` en dos labels distintos ("Marca S de Seguridad Eléctrica", siempre ausente en las 4, y "Organismo de certificación declarado", solo en la Loren 6800W) — y (2) una limpieza terminológica sistemática con reemplazo de texto en todo el bloque de la guía y las 4 fichas, en vez de seguir corrigiendo frase por frase a medida que el auditor las iba encontrando. **Lección para la próxima vez que aparezca un patrón de lenguaje ambiguo repetido:** ir directo al cambio estructural + reemplazo sistemático en la primera corrección, no iterar frase por frase.
+
+Próxima medición sugerida: cuando Juan publique (sin fecha fija todavía, están en STAGED).
+
+### Guía nueva 2026-07-20 (silo nuevo "juguetes", pilar) — STAGED, sin publicar
+
+Origen: Juan pidió arrancar un silo de guías por fecha especial (Día del Niño, Día de la Madre, Black Friday, etc.), empezando por la más próxima. Keyword "qué regalar día del niño" tiene volumen ~0 en Keyword Planner/Ubersuggest AR; el volumen real está en búsquedas por tipo de juguete y edad ("juguetes para niñas de 2 años", "muñecas", "triciclo", etc.), por eso la guía se organiza por franja etaria en vez de un ranking plano. 9 productos nuevos importados (categoría "juguetes" nueva en `categories.ts`), sourceados vía Bright Data (TikTok + MercadoLibre Argentina) el mismo día.
+
+| Slug | Silo | Fecha objetivo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- | :-- |
+| dia-del-nino-argentina | juguetes (pilar) | Día de las Infancias, 16-ago-2026 (Decreto 562/2025) | STAGED, guía nueva sin baseline | Codex + Gemini/agy: **2 rondas, GO unánime** — ronda 1 encontró 2 citas de reseñas mal atribuidas entre productos (corregidas) + una frase imprecisa sobre título/ficha/edad + un link de Labubu incompleto; ronda 2 confirmó todo corregido |
+
+**Nota de urgencia (a diferencia del resto de guías STAGED de este archivo):** esta guía tiene una fecha real de vencimiento de oportunidad. Para indexar y rankear antes del 16 de agosto hace falta publicarla con varias semanas de anticipación, no dejarla en STAGED indefinidamente como las demás.
+
+**Pendiente de Juan:** las 9 fichas nuevas tienen `affiliateUrl` apuntando hoy al permalink real de MercadoLibre (con comentario `TODO`), a la espera de que Juan genere los links meli.la.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

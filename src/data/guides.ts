@@ -148,6 +148,7 @@ export const guides: Guide[] = [
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
       { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
       { label: "Tostadora: cuál comprar en Argentina", href: "/guias/cocina/tostadora" },
+      { label: "Parrilla eléctrica: cuál comprar en Argentina", href: "/guias/cocina/parrilla-electrica" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -555,6 +556,7 @@ export const guides: Guide[] = [
       { question: `¿Los robots de cocina económicos son buenos?`, answer: `Para empezar y para uso diario, sí: hacen gran parte de lo que hace una Thermomix por mucho menos, y los compradores que vienen de una Thermomix suelen decir que "no tienen nada que envidiar". La contra es que son más nuevos (pocas opiniones todavía) y algunos materiales se sienten menos robustos. Si querés respaldo de marca, el [Atma](https://meli.la/2iWFvPW) suma el service en el país.` },
     ],
     internalLinks: [
+      { label: "Procesadora de alimentos: cuál comprar en Argentina", href: "/guias/cocina/procesadora-de-alimentos" },
       { label: "Microondas: cuál comprar y cuál conviene", href: "/guias/cocina/microondas" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
@@ -3228,7 +3230,12 @@ export const guides: Guide[] = [
       { question: `¿Qué balanza conviene si no quiero comprar pilas nunca?`, answer: `La [Noga NG-B01](https://meli.la/1xGT4Bq) se recarga por cable USB, la única de esta guía que no usa pilas.` },
       { question: `¿Cuál tiene más capacidad de peso?`, answer: `La [Utile UT-1108](https://meli.la/2GzBmsp), con hasta 200 kg. El resto de esta guía ronda los 150-180 kg.` },
     ],
-    internalLinks: [],
+    internalLinks: [
+      { label: "Nebulizador: cuál comprar en Argentina", href: "/guias/salud-bienestar/nebulizador" },
+      { label: "Tensiómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/tensiometro-digital" },
+      { label: "Termómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/termometro-digital" },
+    ],
+    internalLinksTitle: "Más para tu salud en casa",
   },
 
   // ─────────────────────────────────────────────────────────
@@ -3351,8 +3358,10 @@ export const guides: Guide[] = [
       { question: `¿Cómo evito las falsas alarmas por mascotas?`, answer: `Buscá detección de figura humana en vez de detección de movimiento simple: la [Ezviz TY1](https://meli.la/11ACYPJ) la tiene. En kits con detección de movimiento común, los compradores con perros y gatos reportan alertas frecuentes disparadas por sus mascotas.` },
     ],
     internalLinks: [
+      { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+      { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
       { label: "Termotanque eléctrico: cuál comprar y cuál conviene", href: "/guias/agua-caliente/termotanque-electrico" },
       { label: "Aire acondicionado portátil: cuál comprar en Argentina", href: "/guias/climatizacion/aire-acondicionado-portatil" },
     ],
@@ -3679,7 +3688,9 @@ export const guides: Guide[] = [
       { question: `¿Un power bank puede cargar una notebook?`, answer: `Solo los de 60 W o más por USB-C. De esta guía, únicamente el [Energizer de 27.000 mAh y 65 W](https://meli.la/32wksAD); el resto es para celulares, auriculares y tablets.` },
       { question: `¿Por qué mi power bank carga lento?`, answer: `Casi siempre es por los watts: los modelos económicos de 5 V no activan la carga rápida del celular. También influye el cable (usá uno de buena calidad) y, en los magnéticos, la inducción, que es más lenta que el cable por naturaleza.` },
     ],
-    internalLinks: [],
+    internalLinks: [
+      { label: "Smartwatch: cuál comprar en Argentina", href: "/guias/tech/smartwatch" },
+    ],
   },
 
   // ─────────────────────────────────────────────────────────
@@ -18857,6 +18868,7 @@ export const guides: Guide[] = [
       { question: `¿Cuánto sale un secador de pelo bueno en Argentina?`, answer: `Entre {{precio:MLA22138728:k}} y {{precio:MLA21813707:k}} está el punto justo para la mayoría: potencia real, buena calificación y, en el caso del Yelmo, motor profesional e iónico verificados. Por debajo de eso se consigue algo funcional pero más limitado (como el Spica); por encima, empieza la gama alta con motor DC.` },
     ],
     internalLinks: [
+      { label: "Cepillo de dientes eléctrico: cuál comprar", href: "/guias/cuidado-personal/cepillo-de-dientes-electrico" },
       { label: "Planchita de pelo: cuál comprar", href: "/guias/cuidado-personal/planchita-de-pelo" },
       { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
       { label: "Cortadora de pelo: cuál comprar", href: "/guias/cuidado-personal/cortadora-de-pelo" },
@@ -19458,6 +19470,7 @@ export const guides: Guide[] = [
       { question: `¿Ventilador de techo o aire acondicionado?`, answer: `No compiten: el ventilador consume 10 a 20 veces menos y alcanza para calor moderado; el aire enfría de verdad en olas de calor. La jugada eficiente es combinarlos: el aire a 25-26 grados y el ventilador repartiendo. Mirá también nuestra guía de [aire acondicionado portátil](/guias/climatizacion/aire-acondicionado-portatil).` },
     ],
     internalLinks: [
+      { label: "Ventilador de pie: cuál comprar en Argentina", href: "/guias/climatizacion/ventilador-de-pie" },
       { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
       { label: "Estufas eléctricas: cuál comprar (guía completa)", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
@@ -19582,6 +19595,8 @@ export const guides: Guide[] = [
       { question: `¿Cada cuánto hay que cambiar el ánodo de magnesio?`, answer: `El manual del Señorial exige recambiar el ánodo de magnesio antes de los 18 meses para no perder la garantía (3 años en la línea Zafiro, 5 en la Family). Es un repuesto económico que protege el tanque de la corrosión: sin ese recambio, además de caer la garantía, la vida útil del equipo baja. Conviene revisarlo entre los 6 meses y el año.` },
     ],
     internalLinks: [
+      { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
+      { label: "Ducha eléctrica: cuál comprar en Argentina", href: "/guias/agua-caliente/ducha-electrica" },
       { label: "Estufa eléctrica de bajo consumo: cuál comprar", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Estufas eléctricas: cuál comprar y cuál conviene", href: "/guias/climatizacion/estufas-electricas" },
       { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
@@ -19967,6 +19982,8 @@ export const guides: Guide[] = [
       { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
       { label: "Pava eléctrica de acero inoxidable: la mejor", href: "/guias/pava-electrica-acero-inoxidable" },
       { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
+      { label: "Botella térmica: cuál comprar en Argentina", href: "/guias/bebidas-termicas/botella-termica" },
+      { label: "Bombilla de mate: cuál comprar en Argentina", href: "/guias/bebidas-termicas/bombilla-de-mate" },
     ],
     internalLinksTitle: "Más para tu cocina y tu mate",
   },
@@ -20511,9 +20528,1611 @@ export const guides: Guide[] = [
     internalLinksTitle: "Más para tu cocina",
   },
 
+  // ─────────────────────────────────────────────────────────
+  // PILAR ventilador-de-pie — silo climatizacion, categoria "ventiladores-de-pie"
+  // Origen: research de tendencias/keywords 2026-07-19, keyword
+  // "ventilador de pie" (33.100/mes, Keyword Planner, estacional
+  // oct-dic). Fichas sourceadas vía Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "ventilador-de-pie",
+    category: "ventiladores-de-pie",
+    silo: "climatizacion",
+    pillar: true,
+    title: `Ventilador de pie: cuál comprar en Argentina [2026]`,
+    seoTitle: `Ventilador de Pie: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué ventilador de pie comprar en Argentina: el más vendido, el mejor calificado o el que trae control remoto. Precios reales y contras honestas.`,
+    ogTitle: `Ventilador de pie: cuál comprar en Argentina`,
+    ogDescription: `Winco, Peabody, Kanji y Liliana comparados: el más vendido, el mejor calificado, el de control remoto y el de aspas de metal. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_722461-MLA99925256413_112025-F.webp`,
+    h1: `Ventilador de pie: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Peabody PE-VP1860N](/producto/MLA41606856)** (alrededor de {{precio:MLA41606856:k}}): el mejor calificado de esta guía, con altura ajustable y 59 dB de ruido declarado. Si buscás el precio más bajo con el mayor respaldo de compradores, el [Winco W118](/producto/MLA19884110), el más vendido de Argentina en esta categoría. Si querés control remoto, el [Kanji Home KJH-FH2012](/producto/MLA29273448); y si preferís aspas de metal en formato 3 en 1, la [Liliana VP20K](/producto/MLA41701462).`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un ventilador de pie va de {{precio:MLA19884110:k}} (el más vendido) a {{precio:MLA41701462:k}} (el de aspas de metal con formato 3 en 1). La decisión real pasa por rating, control remoto y ruido declarado, no solo por precio. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA41606856", label: "Mejor elección general", labelColor: "green", tagline: "Peabody PE-VP1860N: el mejor calificado, con altura ajustable y 59 dB declarados" },
+      { productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", tagline: "Winco W118: 10.528 opiniones reales, el precio más bajo de esta guía" },
+      { productMlaId: "MLA29273448", label: "Con control remoto", labelColor: "blue", tagline: "Kanji Home: el único de esta guía con control remoto a precio medio" },
+      { productMlaId: "MLA41701462", label: "Aspas de metal, 3 en 1", labelColor: "purple", tagline: "Liliana VP20K: pie, turbo y pared, con 2 años de garantía de fábrica" },
+    ],
+    intro: [
+      `El ventilador de pie sigue siendo la forma más barata de refrescar un ambiente en Argentina: no consume ni una fracción de lo que gasta un aire acondicionado, y a diferencia del de techo, se puede mover de habitación según haga falta. La decisión pasa por rating real, si trae control remoto y qué tan silencioso es en la práctica.`,
+      `En esta guía comparamos los ventiladores de pie más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde el armado hasta la base que puede rayar el piso.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_722461-MLA99925256413_112025-F.webp", alt: `Ventilador de pie Peabody PE-VP1860N, el mejor calificado de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Peabody PE-VP1860N](/producto/MLA41606856)**: el mejor calificado de esta guía, con altura ajustable y 59 dB de ruido declarado. Si buscás **el precio más bajo con el mayor respaldo de compradores**, el **[Winco W118](/producto/MLA19884110)**. Si querés **control remoto**, el **[Kanji Home KJH-FH2012](/producto/MLA29273448)**. Y si preferís **aspas de metal en formato 3 en 1**, la **[Liliana VP20K](/producto/MLA41701462)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los ventiladores de pie con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: rating real, volumen de reseñas, ruido declarado, altura ajustable y control remoto. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un ventilador de pie`, id: "que-mirar" },
+      { type: "p", content: `Primero, el **rating y el volumen de reseñas juntos**: un ventilador con 4.9 estrellas y 5 opiniones dice mucho menos que uno con 4.5 y 10.000. Segundo, el **ruido declarado**: pocos modelos publican un dato concreto en decibeles, así que cuando lo hacen vale la pena tenerlo en cuenta. Tercero, **altura ajustable y control remoto**: no todos los modelos los traen, y son las funciones que más se extrañan en el uso diario.` },
+      { type: "p", content: `Un detalle que se repite en las reseñas de casi toda la categoría: la mayoría de los ventiladores de pie vienen **totalmente desarmados**, y el instructivo suele ser pobre. Reservar unos minutos extra para el armado es parte de la compra, no un imprevisto.` },
+
+      { type: "h2", title: `Los mejores ventiladores de pie 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Peabody PE-VP1860N — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA41606856", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `18 pulgadas, altura ajustable e inclinación. 59 dB de ruido declarado, el único dato concreto de la guía. 4.8 estrellas en 1.602 calificaciones.` },
+      { type: "p", content: `El mejor calificado de esta guía: 4.8 estrellas sobre 1.602 opiniones reales, y el único con un nivel de ruido declarado con precisión en su ficha técnica (59 dB). Suma altura ajustable, inclinación y rejilla extraíble, a alrededor de {{precio:MLA41606856:k}}.` },
+      { type: "p", content: `La contra real: el armado es de los más criticados en las reseñas ("tenés q ser ingeniero en la nasa para armarlo", dice una), y al menos un comprador reportó una falla tras una temporada de uso.` },
+      { type: "pull-quote", content: `"Tira una banda de aire en 1 y en 3 parece una turbina de avión, silencioso mal. Lo único tenés q ser ingeniero en la nasa para armarlo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Winco W118 — el más vendido` },
+      { type: "product-card", productMlaId: "MLA19884110", label: "El más vendido", labelColor: "slate", ranking: 2, description: `3 en 1 (mesa, pared y pie), 5 aspas de aluminio y función turbo. 4.5 estrellas en 10.528 calificaciones, el precio más bajo de la guía.` },
+      { type: "p", content: `Por lejos el más vendido de esta categoría en Argentina: 10.528 calificaciones reales, casi siete veces más que el segundo de la lista. Suma función 3 en 1 (mesa, pared o pie) y modo turbo, a alrededor de {{precio:MLA19884110:k}}, el más barato de esta guía.` },
+      { type: "p", content: `Las contras honestas: la propia ficha técnica lo declara "no silencioso" (aunque varias reseñas lo describen distinto, hay contradicción entre fuentes), sin altura ajustable y con un armado que varias reseñas describen como poco claro.` },
+      { type: "pull-quote", content: `"Excelente!!! liviano, tira mucho viento!!! bien piola el viento!!! no es ruidoso!!!"`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Kanji Home KJH-FH2012 — con control remoto` },
+      { type: "product-card", productMlaId: "MLA29273448", label: "Con control remoto", labelColor: "blue", ranking: 3, description: `20 pulgadas, único de la guía con control remoto incluido a precio medio. Timer y 1 año de garantía confirmados en el fabricante.` },
+      { type: "p", content: `El único de esta guía con control remoto incluido sin pagar el salto a un modelo premium, a alrededor de {{precio:MLA29273448:k}}. La página oficial de Kanji confirma además timer y 1 año de garantía, datos que la ficha de MercadoLibre no menciona.` },
+      { type: "p", content: `La contra real: la base es de fundición y puede rayar pisos delicados según una reseña, y viene totalmente desarmado con instructivo flojo, igual que el resto de la categoría.` },
+
+      { type: "h3", title: `4. Liliana VP20K — aspas de metal, 3 en 1` },
+      { type: "product-card", productMlaId: "MLA41701462", label: "Aspas de metal, 3 en 1", labelColor: "purple", ranking: 4, description: `Formato pie, turbo y pared. Único de la guía con aspas de metal. 2 años de garantía de fábrica, confirmados en el sitio oficial de Liliana.` },
+      { type: "p", content: `El único ventilador de esta guía con aspas de metal en lugar de plástico, con formato turbo real y la garantía de fábrica más larga de la comparativa (2 años, confirmados en liliana.com.ar), a alrededor de {{precio:MLA41701462:k}}.` },
+      { type: "p", content: `Lo honesto: es de los más caros de esta guía, y la perilla para regular la velocidad está ubicada en el cabezal, una posición incómoda según más de una reseña.` },
+
+      { type: "h2", title: `Tabla comparativa: rating, ruido y funciones`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Rating`, `Control remoto`, `Ideal para`], rows: [
+        [`[Peabody PE-VP1860N](/producto/MLA41606856)`, `{{precio:MLA41606856}}`, `4.8 (1.602)`, `No`, `El mejor calificado, con altura ajustable`],
+        [`[Winco W118](/producto/MLA19884110)`, `{{precio:MLA19884110}}`, `4.5 (10.528)`, `No`, `El más vendido, precio más bajo`],
+        [`[Kanji Home KJH-FH2012](/producto/MLA29273448)`, `{{precio:MLA29273448}}`, `4.5 (372)`, `Sí`, `Control remoto a precio medio`],
+        [`[Liliana VP20K](/producto/MLA41701462)`, `{{precio:MLA41701462}}`, `4.6 (4.259)`, `No`, `Aspas de metal, formato 3 en 1`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu ventilador de pie`, id: "como-elegir" },
+      { type: "h3", title: `¿Rating alto o volumen de reseñas?` },
+      { type: "p", content: `Los cuatro de esta guía tienen entre 4.5 y 4.8 estrellas, una diferencia chica. Lo que más cambia es el volumen: el Winco tiene 10.528 opiniones contra las 372 del Kanji. Con más de 300 reseñas ya hay una base sólida para confiar en el rating; por debajo de eso, conviene leer los comentarios de texto antes de decidir.` },
+      { type: "h3", title: `¿Control remoto o ahorro?` },
+      { type: "p", content: `Solo el Kanji Home lo incluye entre estos cuatro, a un precio medio. Si el control remoto no es indispensable, el Winco cubre lo esencial a un precio bastante menor.` },
+      { type: "h3", title: `¿Aspas de plástico o de metal?` },
+      { type: "p", content: `La Liliana es la única con aspas metálicas, lo que en teoría suma durabilidad frente al plástico. A cambio, es de las más caras de la guía.` },
+
+      { type: "h2", title: `Cuánto cuesta un ventilador de pie en Argentina [julio 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA19884110:k}}:** el [Winco W118](/producto/MLA19884110), el más vendido y el más barato de esta guía.`,
+        `**Alrededor de {{precio:MLA41606856:k}} a {{precio:MLA29273448:k}}:** el [Peabody PE-VP1860N](/producto/MLA41606856) (mejor calificado) y el [Kanji Home](/producto/MLA29273448) (con control remoto).`,
+        `**Alrededor de {{precio:MLA41701462:k}}:** la [Liliana VP20K](/producto/MLA41701462), el más caro de esta guía, con aspas de metal y 2 años de garantía.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, el **[Peabody PE-VP1860N](/producto/MLA41606856)** es la compra más segura: el mejor rating de la guía, altura ajustable y un dato de ruido concreto que ningún otro modelo declara. Si el precio manda, el **[Winco W118](/producto/MLA19884110)** tiene el mayor respaldo de compradores reales de Argentina en esta categoría. Si el control remoto pesa más que el precio, el **[Kanji Home KJH-FH2012](/producto/MLA29273448)**. Y si preferís aspas de metal con formato 3 en 1, la **[Liliana VP20K](/producto/MLA41701462)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor ventilador de pie en Argentina?`, answer: `Para la mayoría, el [Peabody PE-VP1860N](/producto/MLA41606856): 4.8 estrellas, altura ajustable y 59 dB declarados. Si buscás el más vendido y más barato, el [Winco W118](/producto/MLA19884110).` },
+      { question: `¿Cuánto consume un ventilador de pie?`, answer: `Entre 60 y 110 W según el modelo de esta guía: una fracción de lo que consume un aire acondicionado. Es de las formas más baratas de refrescar un ambiente.` },
+      { question: `¿Qué diferencia hay entre un ventilador de pie y uno de techo?`, answer: `El de pie se puede mover de habitación según haga falta y suele ser más barato; el [de techo](/guias/climatizacion/ventilador-de-techo) queda fijo pero cubre el ambiente completo sin ocupar piso. Si buscás cobertura permanente para un cuarto, el de techo rinde mejor; si necesitás flexibilidad, el de pie gana.` },
+      { question: `¿Los ventiladores de pie vienen armados?`, answer: `No, la gran mayoría de los modelos de esta guía vienen totalmente desarmados. Varias reseñas señalan que el instructivo incluido es poco claro, así que conviene reservar unos minutos extra.` },
+      { question: `¿Cuál conviene si tengo pisos delicados?`, answer: `El [Kanji Home](/producto/MLA29273448) tiene base de fundición y una reseña reportó que puede rayar pisos sensibles sin protección. El resto de esta guía no tiene ese reclamo específico documentado.` },
+      { question: `¿Vale la pena pagar más por control remoto?`, answer: `Depende del uso: si el ventilador va a quedar lejos de donde te sentás (living grande, dormitorio con la cama lejos del enchufe), sí se nota. Si siempre está cerca, el ahorro de elegir un modelo sin control remoto como el [Winco](/producto/MLA19884110) tiene más sentido.` },
+      { question: `¿Cuál es el más silencioso?`, answer: `El único con un dato concreto de ruido declarado en su ficha técnica es el [Peabody PE-VP1860N](/producto/MLA41606856) (59 dB). El resto de esta guía no publica esa cifra con precisión, aunque varias reseñas describen al [Winco](/producto/MLA19884110) como razonablemente callado en velocidades bajas.` },
+    ],
+    internalLinks: [
+      { label: "Ventilador de techo: cuál comprar en Argentina", href: "/guias/climatizacion/ventilador-de-techo" },
+      { label: "Humidificador: cuál comprar en Argentina", href: "/guias/climatizacion/humidificador" },
+      { label: "Estufas eléctricas: cuál comprar en Argentina", href: "/guias/climatizacion/estufas-electricas" },
+    ],
+    internalLinksTitle: "Más para climatizar tu casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva procesadora-de-alimentos — silo cocina, categoria "procesadoras"
+  // Origen: research de tendencias/keywords 2026-07-19, keyword
+  // "procesadora de alimentos" (4.400/mes, Keyword Planner). Fichas
+  // sourceadas vía Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "procesadora-de-alimentos",
+    category: "procesadoras",
+    silo: "cocina",
+    title: `Procesadora de alimentos: cuál comprar en Argentina [2026]`,
+    seoTitle: `Procesadora de Alimentos: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué procesadora de alimentos comprar en Argentina: la más vendida, la mejor calificada o la más completa. Precios reales y contras honestas.`,
+    ogTitle: `Procesadora de alimentos: cuál comprar en Argentina`,
+    ogDescription: `Ultracomb, Philips y Atma comparadas: la más vendida, la mejor calificada y la más completa (con jarra licuadora). Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_844249-MLA91921048795_092025-F.webp`,
+    h1: `Procesadora de alimentos: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Ultracomb PC-6800](/producto/MLA15244160)** (alrededor de {{precio:MLA15244160:k}}): la más vendida y con más calificaciones de esta guía, ideal para picar y rebanar porciones chicas. Si necesitás rallar de verdad y querés el set más completo de accesorios, la [Philips PHHR730490](/producto/MLA50521728). Y si buscás un solo aparato que también haga de licuadora, la [Atma LP8426AP](/producto/MLA39861464), con jarra de 1,8 litros incluida.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una procesadora de alimentos va de {{precio:MLA15244160:k}} (la más vendida) a {{precio:MLA39861464:k}} (la más completa, con jarra licuadora incluida). La decisión real pasa por qué funciones necesitás: solo picar y rebanar, o también rallar, emulsionar y licuar. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA15244160", label: "Mejor elección general", labelColor: "green", tagline: "Ultracomb PC-6800: la más vendida, ideal para porciones chicas" },
+      { productMlaId: "MLA50521728", label: "La mejor calificada", labelColor: "blue", tagline: "Philips PHHR730490: 7 accesorios, de las pocas que ralla de verdad" },
+      { productMlaId: "MLA39861464", label: "La más completa", labelColor: "purple", tagline: "Atma LP8426AP: suma jarra licuadora de 1,8L al vaso procesador" },
+    ],
+    intro: [
+      `La procesadora de alimentos pica, ralla y rebana en segundos lo que a mano lleva minutos, sin ser tan cara ni tan grande como un robot de cocina completo. La decisión real pasa por qué funciones necesitás: si solo picás cebolla y verduras, un modelo simple alcanza; si querés rallar, emulsionar o licuar en el mismo aparato, conviene subir de gama.`,
+      `En esta guía comparamos las procesadoras de alimentos más vendidas y mejor calificadas de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde la capacidad de uso real hasta la fragilidad de algunas piezas.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_844249-MLA91921048795_092025-F.webp", alt: `Procesadora de alimentos Philips PHHR730490, la mejor calificada de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Ultracomb PC-6800](/producto/MLA15244160)**: la más vendida y con más calificaciones de esta guía, ideal para picar y rebanar porciones chicas. Si necesitás **rallar de verdad**, la **[Philips PHHR730490](/producto/MLA50521728)**, con 7 accesorios incluidos. Y si buscás **un solo aparato que también licúe**, la **[Atma LP8426AP](/producto/MLA39861464)**, con jarra de 1,8 litros.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las procesadoras de alimentos con más ventas y opiniones reales en MercadoLibre Argentina, evitando robots de cocina completos (otro producto, otro precio) y minipimers de mano puras (sin vaso ni discos intercambiables). Las ordenamos por lo que define la compra: funciones reales, capacidad de uso, rating y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una procesadora de alimentos`, id: "que-mirar" },
+      { type: "p", content: `Primero, las **funciones reales**: no todas rallan. Muchas procesadoras económicas solo pican y rebanan; si necesitás rallado fino, confirmalo en la ficha técnica antes de comprar, no asumas que viene incluido. Segundo, la **capacidad de uso**, que no siempre coincide con la capacidad declarada del vaso: varias reseñas de esta categoría avisan que cargar el vaso al tope traba la cuchilla, así que conviene respetar la cantidad sugerida por el manual. Tercero, si buscás **un solo aparato multiuso**, algunos modelos suman jarra licuadora al vaso procesador.` },
+      { type: "p", content: `Un dato que se repite en las reseñas de la categoría: las piezas de vidrio o plástico (vasos, tapas) pueden ser más frágiles de lo que el precio hace pensar. Tratarlas con cuidado al lavar y guardar alarga bastante su vida útil.` },
+
+      { type: "h2", title: `Las mejores procesadoras de alimentos 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Ultracomb PC-6800 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA15244160", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `600W, vaso de vidrio de 1,2L. Pica y rebana. 4.5 estrellas en 8.372 calificaciones, la más vendida de esta guía.` },
+      { type: "p", content: `La más vendida y con más calificaciones de esta categoría por lejos: 8.372 opiniones reales. Pica cebolla, tomate o calabaza en segundos, con cuchillas de acero inoxidable y switch de seguridad, a alrededor de {{precio:MLA15244160:k}}.` },
+      { type: "p", content: `La contra real: aunque el vaso declara 1,2 litros, el manual recomienda no cargar más de 200 gramos por vez. Tres reseñas independientes confirman el mismo límite práctico.` },
+      { type: "pull-quote", content: `"Eso no te lo aclara nadie hasta que lees las instrucciones. Tritura pero no hace polvo las semillas para hacer harinas, hace un buen arenado de manteca y harina y tritura frutos secos."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Philips PHHR730490 — la mejor calificada` },
+      { type: "product-card", productMlaId: "MLA50521728", label: "La mejor calificada", labelColor: "blue", ranking: 2, description: `1.000W, 7 accesorios incluidos (jarra licuadora, discos, molinillo). 4.8 estrellas en 755 calificaciones.` },
+      { type: "p", content: `La mejor calificada de esta guía, con el set más completo de accesorios: jarra licuadora, disco rallador/rebanador, disco juliana, molinillo, exprimidor, rebozador y cuchilla. A alrededor de {{precio:MLA50521728:k}}, es de las pocas que ralla de verdad según reseñas reales.` },
+      { type: "p", content: `Lo honesto: el vaso de la licuadora y el bowl procesador son frágiles si se los golpea, según más de una reseña. Es bastante más cara que la Ultracomb de esta guía.` },
+      { type: "pull-quote", content: `"La compré sobretodo para rallar zanahoria y cumple, que no es poco, no se consiguen muchos modelos de procesadoras que rallen, la mayoría hace mini bastones."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `3. Atma LP8426AP — la más completa` },
+      { type: "product-card", productMlaId: "MLA39861464", label: "La más completa", labelColor: "purple", ranking: 3, description: `600W, suma jarra licuadora de 1,8L al vaso procesador. 8 funciones declaradas. 4.7 estrellas en 1.096 calificaciones.` },
+      { type: "p", content: `La opción para quien quiere un solo aparato que reemplace tanto a la procesadora como a la licuadora: suma una jarra de 1,8 litros al vaso procesador de 1,2 litros, a alrededor de {{precio:MLA39861464:k}}, la más cara de esta guía.` },
+      { type: "p", content: `La contra real: cuesta encajar la tapa y los accesorios en el punto exacto al principio, según una reseña, aunque se le agarra la práctica rápido.` },
+
+      { type: "h2", title: `Tabla comparativa: funciones y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Funciones`, `Ideal para`], rows: [
+        [`[Ultracomb PC-6800](/producto/MLA15244160)`, `{{precio:MLA15244160}}`, `600 W`, `Picar, rebanar`, `Porciones chicas, mejor precio`],
+        [`[Philips PHHR730490](/producto/MLA50521728)`, `{{precio:MLA50521728}}`, `1.000 W`, `Picar, rallar, rebanar, emulsionar`, `Rallado real, set completo`],
+        [`[Atma LP8426AP](/producto/MLA39861464)`, `{{precio:MLA39861464}}`, `600 W`, `Picar, rallar, amasar, licuar y más`, `Un solo aparato multiuso`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu procesadora de alimentos`, id: "como-elegir" },
+      { type: "h3", title: `¿Solo picar o también rallar?` },
+      { type: "p", content: `La Ultracomb solo pica y rebana. Si necesitás rallar zanahoria, queso o papa de forma pareja, la Philips es la única de esta guía confirmada para eso por reseñas reales.` },
+      { type: "h3", title: `¿Un aparato o dos?` },
+      { type: "p", content: `Si ya tenés licuadora, no pagues de más por la función. Si buscás reemplazar ambos aparatos por uno solo, la Atma suma jarra licuadora de 1,8 litros al mismo cuerpo.` },
+      { type: "h3", title: `¿Cuánta cantidad procesás por vez?` },
+      { type: "p", content: `Para porciones chicas (2-3 personas), cualquiera de esta guía alcanza. Para cargas más grandes, revisá la capacidad de uso real (no solo la declarada) antes de comprar: varias procesadoras económicas se traban si se las llena al tope.` },
+
+      { type: "h2", title: `Cuánto cuesta una procesadora de alimentos en Argentina [julio 2026]`, id: "cuanto-cuesta" },
+      { type: "list", content: "Franjas de precio reales", items: [
+        `**Alrededor de {{precio:MLA15244160:k}}:** la Ultracomb PC-6800, la más vendida y la más barata de esta guía.`,
+        `**Alrededor de {{precio:MLA50521728:k}}:** la Philips PHHR730490, la mejor calificada, con set completo de accesorios.`,
+        `**Alrededor de {{precio:MLA39861464:k}}:** la Atma LP8426AP, la más cara de esta guía, con jarra licuadora incluida.`,
+      ] },
+
+      { type: "verdict", content: `Para la mayoría, la **[Ultracomb PC-6800](/producto/MLA15244160)** es la compra más segura: el mayor respaldo de compradores reales de esta guía al mejor precio. Si necesitás rallar de verdad y querés el set más completo, la **[Philips PHHR730490](/producto/MLA50521728)**. Y si preferís un solo aparato que también haga de licuadora, la **[Atma LP8426AP](/producto/MLA39861464)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor procesadora de alimentos en Argentina?`, answer: `Para la mayoría, la [Ultracomb PC-6800](/producto/MLA15244160): la más vendida y con más calificaciones de esta guía. Si necesitás rallar de verdad, la [Philips PHHR730490](/producto/MLA50521728).` },
+      { question: `¿Qué diferencia hay entre una procesadora de alimentos y un robot de cocina?`, answer: `La procesadora pica, ralla y rebana con distintos discos, pero no cocina. El [robot de cocina](/guias/cocina/robot-de-cocina) además cocina, cocina al vapor y sigue recetas guiadas, a un precio bastante mayor. Si solo necesitás preparar ingredientes, la procesadora alcanza y sale mucho menos.` },
+      { question: `¿Todas rallan?`, answer: `No. La Ultracomb PC-6800 de esta guía solo pica y rebana. Si necesitás rallar de verdad, la Philips PHHR730490 está confirmada para eso por reseñas reales.` },
+      { question: `¿Se puede cargar el vaso hasta el tope?`, answer: `No conviene. Varias reseñas de la categoría avisan que cargar el vaso al máximo puede trabar la cuchilla. El manual de la Ultracomb PC-6800, por ejemplo, recomienda no superar los 200 gramos por vez.` },
+      { question: `¿Alguna sirve también de licuadora?`, answer: `Sí, dos de esta guía: la Atma LP8426AP trae la jarra más grande (1,8 litros) y la Philips PHHR730490 suma una de 1,5 litros dentro de su set de 7 accesorios. La Ultracomb PC-6800 es la única sin jarra licuadora.` },
+      { question: `¿Son resistentes las piezas de plástico y vidrio?`, answer: `Con matices: varias reseñas de esta categoría advierten que los vasos y tapas pueden ser frágiles si se los golpea o manipula mal. Conviene tratarlos con cuidado al lavar y guardar.` },
+    ],
+    internalLinks: [
+      { label: "Robot de cocina: cuál comprar en Argentina", href: "/guias/cocina/robot-de-cocina" },
+      { label: "Licuadora: cuál comprar en Argentina", href: "/guias/licuadora" },
+      { label: "Microondas: cuál comprar en Argentina", href: "/guias/cocina/microondas" },
+      { label: "Parrilla eléctrica: cuál comprar en Argentina", href: "/guias/cocina/parrilla-electrica" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cepillo-de-dientes-electrico — silo cuidado-personal
+  // Origen: research de tendencias/keywords 2026-07-19, keyword
+  // "cepillo de dientes electrico" (2.900/mes, dificultad SEO más baja
+  // del barrido). Fichas sourceadas vía Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cepillo-de-dientes-electrico",
+    category: "cuidado-personal",
+    silo: "cuidado-personal",
+    title: `Cepillo de dientes eléctrico: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cepillo de Dientes Eléctrico: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué cepillo de dientes eléctrico comprar en Argentina: a pilas o recargable, con sensor de presión o sin. Precios reales y contras honestas.`,
+    ogTitle: `Cepillo de dientes eléctrico: cuál comprar en Argentina`,
+    ogDescription: `Oral-B, GUM y Suono comparados: a pilas, con Tienda Oficial o recargable con sensor de presión. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_890057-MLA83007564911_032025-F.webp`,
+    h1: `Cepillo de dientes eléctrico: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Oral-B Power Charcoal](/producto/MLA44745272)** (alrededor de {{precio:MLA44745272:k}}): la marca más reconocida, con 3.377 opiniones reales, aunque funciona a pilas. Si preferís una versión recargable con sensor de presión y varios modos de cepillado, el [Suono Premium USB-C](/producto/MLA48897992), más barato y más completo en funciones. Y si buscás otra marca reconocida vendida por Tienda Oficial, el [GUM Sonic Power](/producto/MLA19856533).`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Un cepillo de dientes eléctrico va de {{precio:MLA48897992:k}} (recargable, con sensor de presión) a {{precio:MLA44745272:k}} (a pilas, de la marca más reconocida). La decisión real pasa por a pilas o recargable, y si necesitás sensor de presión. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA44745272", label: "Mejor elección general", labelColor: "green", tagline: "Oral-B Power Charcoal: la marca más reconocida, 3.377 opiniones reales" },
+      { productMlaId: "MLA48897992", label: "Recargable con sensor", labelColor: "purple", tagline: "Suono Premium USB-C: 5 modos, sensor de presión, más barato" },
+      { productMlaId: "MLA19856533", label: "Otra marca reconocida", labelColor: "blue", tagline: "GUM Sonic Power: Tienda Oficial, 845 calificaciones reales" },
+    ],
+    intro: [
+      `El cepillo de dientes eléctrico limpia mejor que uno manual con menos esfuerzo, algo que confirman tanto los estudios como las reseñas de miles de compradores argentinos. Oral-B domina el ranking de más vendidos en MercadoLibre Argentina por lejos, pero no es la única opción real: hay alternativas recargables con más funciones a menor precio.`,
+      `En esta guía comparamos los cepillos de dientes eléctricos más vendidos y mejor calificados de MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde la calidad de las pilas incluidas hasta la duración real de la batería.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_890057-MLA83007564911_032025-F.webp", alt: `Cepillo de dientes eléctrico Oral-B Power Charcoal, la marca más elegida en Argentina`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Oral-B Power Charcoal](/producto/MLA44745272)**: la marca más reconocida, con 3.377 opiniones reales, aunque funciona a pilas. Si preferís **recargable con sensor de presión**, el **[Suono Premium USB-C](/producto/MLA48897992)**, más barato y más completo. Y para **otra marca reconocida** vendida por Tienda Oficial, el **[GUM Sonic Power](/producto/MLA19856533)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los cepillos de dientes eléctricos con más ventas y opiniones reales en MercadoLibre Argentina. Descartamos publicaciones de importación con muy pocas reseñas (línea Oral-B iO, Vitality importado), ya que no reflejan volumen de venta real en el país. Los ordenamos por lo que define la compra: a pilas o recargable, sensor de presión, volumen de reseñas y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un cepillo de dientes eléctrico`, id: "que-mirar" },
+      { type: "p", content: `Primero, **a pilas o recargable**. Los modelos a pilas no necesitan cargador ni base, pero las pilas incluidas de fábrica suelen ser de baja calidad y duran poco. Los recargables cargan por USB o base y en general salen más baratos con más funciones, aunque con menos volumen de reseñas en el mercado argentino. Segundo, el **sensor de presión**: avisa cuando cepillás con demasiada fuerza, algo que ningún modelo económico a pilas de esta guía incluye. Tercero, la **cantidad de modos de cepillado**: los básicos tienen uno solo; los más completos, varios.` },
+      { type: "p", content: `Un dato de mercado que vale la pena conocer: en MercadoLibre Argentina, las líneas premium de Oral-B con sensor y conectividad (iO, Vitality en algunas publicaciones) se venden mayormente por importación directa, con muy pocas reseñas todavía. No las incluimos en el ranking principal de esta guía por esa razón: el volumen real de venta local en esa franja de producto todavía es bajo.` },
+
+      { type: "h2", title: `Los mejores cepillos de dientes eléctricos 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Oral-B Power Charcoal — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA44745272", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `A pilas, tecnología sónica con oscilación. 4.7 estrellas en 3.377 calificaciones, la marca más elegida de Argentina.` },
+      { type: "p", content: `La mejor combinación de marca reconocida y volumen de reseñas de esta guía: 3.377 opiniones reales. Funciona a 2 pilas AA incluidas, sin cargador ni base, a alrededor de {{precio:MLA44745272:k}}.` },
+      { type: "p", content: `La contra real: las pilas que trae de fábrica son de baja calidad y duran poco según reseñas reales, así que conviene reemplazarlas pronto por unas de mejor calidad.` },
+      { type: "pull-quote", content: `"El cepillo es excelente, tiene buena potencia. Lo no tan bueno: funciona a pilas. Las que vienen incluidas son de baja calidad marca pistola, me duraron menos de una semana."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Suono Premium USB-C — recargable con sensor de presión` },
+      { type: "product-card", productMlaId: "MLA48897992", label: "Recargable con sensor", labelColor: "purple", ranking: 2, description: `Batería recargable USB-C, sensor de presión, 5 modos de cepillado. 4.8 estrellas, aunque con base de opiniones chica (66).` },
+      { type: "p", content: `La única opción recargable de esta guía con sensor de presión y 5 modos de cepillado, a alrededor de {{precio:MLA48897992:k}}, más barata que el Oral-B a pilas. Trae 6 cabezales de repuesto y estuche incluidos.` },
+      { type: "p", content: `Lo honesto: su base de 66 calificaciones es la más chica de esta guía, y no encontramos ninguna crítica negativa documentable en el research disponible.` },
+
+      { type: "h3", title: `3. GUM Sonic Power — otra marca reconocida` },
+      { type: "product-card", productMlaId: "MLA19856533", label: "Otra marca reconocida", labelColor: "blue", ranking: 3, description: `A pilas, tecnología sónica, vendido por Tienda Oficial. 4.7 estrellas en 845 calificaciones, 30% de descuento.` },
+      { type: "p", content: `La alternativa a Oral-B con más respaldo de esta guía: 845 calificaciones reales, vendida por Tienda Oficial en MercadoLibre con 30% de descuento, a alrededor de {{precio:MLA19856533:k}}.` },
+      { type: "p", content: `Aviso de honestidad: no encontramos reseñas de texto disponibles para este producto al momento del research, solo el agregado de calificaciones, así que no hay una crítica textual específica para citar.` },
+
+      { type: "h2", title: `Tabla comparativa: alimentación y funciones`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Alimentación`, `Sensor de presión`, `Ideal para`], rows: [
+        [`[Oral-B Power Charcoal](/producto/MLA44745272)`, `{{precio:MLA44745272}}`, `A pilas`, `No`, `Marca más reconocida`],
+        [`[Suono Premium USB-C](/producto/MLA48897992)`, `{{precio:MLA48897992}}`, `Recargable USB-C`, `Sí`, `Más funciones, menor precio`],
+        [`[GUM Sonic Power](/producto/MLA19856533)`, `{{precio:MLA19856533}}`, `A pilas`, `No`, `Otra marca reconocida`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cepillo de dientes eléctrico`, id: "como-elegir" },
+      { type: "h3", title: `¿A pilas o recargable?` },
+      { type: "p", content: `A pilas no depende de cargar batería, pero las pilas incluidas de fábrica suelen durar poco. Recargable evita comprar pilas seguido, aunque hay que acordarse de cargarlo (la Suono de esta guía dura aproximadamente una semana por carga).` },
+      { type: "h3", title: `¿Necesitás sensor de presión?` },
+      { type: "p", content: `Si cepillás con fuerza o tenés encías sensibles, el sensor avisa cuando estás presionando de más. Ninguno de los dos modelos a pilas de esta guía lo incluye; la Suono Premium sí.` },
+      { type: "h3", title: `¿Marca reconocida o más funciones?` },
+      { type: "p", content: `Oral-B y GUM son marcas con más historia y volumen de venta en Argentina. Si preferís priorizar funciones (sensor, modos, batería recargable) por sobre el reconocimiento de marca, la Suono rinde más por menos plata.` },
+
+      { type: "verdict", content: `Para la mayoría, el **[Oral-B Power Charcoal](/producto/MLA44745272)** es la compra más segura: la marca más reconocida, con el mayor volumen de reseñas de esta guía. Si preferís recargable con sensor de presión y más funciones a menor precio, el **[Suono Premium USB-C](/producto/MLA48897992)**. Y si buscás otra marca reconocida con buen respaldo, el **[GUM Sonic Power](/producto/MLA19856533)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor cepillo de dientes eléctrico en Argentina?`, answer: `Para la mayoría, el [Oral-B Power Charcoal](/producto/MLA44745272): la marca más reconocida, con 3.377 opiniones reales. Si preferís recargable con sensor de presión, el [Suono Premium USB-C](/producto/MLA48897992).` },
+      { question: `¿Vale la pena un cepillo eléctrico frente a uno manual?`, answer: `Según estudios odontológicos y reseñas reales de compradores, sí: limpia mejor con menos esfuerzo y con temporizador ayuda a cepillar el tiempo recomendado (2 minutos).` },
+      { question: `¿A pilas o recargable, cuál conviene?`, answer: `Depende del uso: a pilas no depende de cargar batería, pero las pilas de fábrica suelen durar poco. Recargable evita comprar pilas seguido, a cambio de acordarte de cargarlo periódicamente.` },
+      { question: `¿Existen cepillos Oral-B premium con app y sensor en Argentina?`, answer: `Sí, la línea Oral-B iO existe en el mercado argentino, pero mayormente por importación directa con muy pocas reseñas todavía. No la incluimos en el ranking principal de esta guía porque el volumen de venta local en esa franja de producto es bajo hoy.` },
+      { question: `¿Cuánto dura la batería de un cepillo recargable?`, answer: `Depende del modelo. La [Suono Premium USB-C](/producto/MLA48897992) de esta guía, según reseñas reales, dura aproximadamente una semana de uso normal por carga.` },
+      { question: `¿Qué cepillo conviene si tengo encías sensibles?`, answer: `El que tenga sensor de presión, que avisa cuando cepillás con demasiada fuerza. De esta guía, solo el [Suono Premium USB-C](/producto/MLA48897992) lo incluye.` },
+    ],
+    internalLinks: [
+      { label: "Secador de pelo: cuál comprar en Argentina", href: "/guias/cuidado-personal/secador-de-pelo" },
+      { label: "Depiladora eléctrica: cuál comprar", href: "/guias/cuidado-personal/depiladora-electrica" },
+      { label: "Máquina de afeitar: cuál comprar", href: "/guias/cuidado-personal/maquina-de-afeitar" },
+    ],
+    internalLinksTitle: "Más para tu cuidado personal",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva nebulizador — silo salud-bienestar, categoria "nebulizadores"
+  // Origen: research de silos flacos 2026-07-19, keyword "nebulizador"
+  // (22.200/mes, Keyword Planner, pico estacional invierno). Fichas
+  // sourceadas vía Bright Data el mismo día. AVISO: se descartaron 2
+  // modelos "Mesh JSL/JLS-W302" (los más vendidos reales del ranking)
+  // por coincidir con un modelo prohibido por ANMAT en nov-2024.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "nebulizador",
+    category: "nebulizadores",
+    silo: "salud-bienestar",
+    title: `Nebulizador: cuál comprar en Argentina [2026]`,
+    seoTitle: `Nebulizador: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué nebulizador comprar en Argentina: mesh silencioso o pistón tradicional. Chequeamos el estado de certificación ANMAT de cada modelo. Precios reales y contras honestas.`,
+    ogTitle: `Nebulizador: cuál comprar en Argentina`,
+    ogDescription: `San-Up, Omron y Aspen comparados: mesh silencioso o pistón tradicional. Chequeamos el estado de certificación ANMAT de cada modelo. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_781555-MLA88801546380_082025-F.webp`,
+    h1: `Nebulizador: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[San-Up VitaAir](/producto/MLA47884803)** (alrededor de {{precio:MLA47884803:k}}): nebulizador mesh silencioso, certificado por ANMAT, con 962 opiniones reales. Si preferís un pistón tradicional con más accesorios al mismo precio, el [San-Up ClearBreath](/producto/MLA47884824). Si buscás la marca de mayor confianza, el [Omron NE-C801LA](/producto/MLA44718278). Y si necesitás batería recargable en vez de pilas, el [Aspen Air Pro II](/producto/MLA68343533).`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un nebulizador va de {{precio:MLA47884803:k}} (mesh silencioso) a {{precio:MLA68343533:k}} (mesh con batería recargable). La decisión real pasa por mesh silencioso o pistón tradicional, y si necesitás portabilidad. Te mostramos cuál conviene, con precios reales de MercadoLibre y el estado de certificación ANMAT verificado en cada ficha.`,
+    quickPicks: [
+      { productMlaId: "MLA47884803", label: "Mejor elección general", labelColor: "green", tagline: "San-Up VitaAir: mesh silencioso, certificado ANMAT, 962 opiniones reales" },
+      { productMlaId: "MLA47884824", label: "Pistón con más accesorios", labelColor: "slate", tagline: "San-Up ClearBreath: 8 accesorios incluidos, mismo precio que el mesh" },
+      { productMlaId: "MLA44718278", label: "Marca de mayor confianza", labelColor: "blue", tagline: "Omron NE-C801LA: 3.516 opiniones, el mayor volumen de la categoría" },
+      { productMlaId: "MLA68343533", label: "Con batería recargable", labelColor: "purple", tagline: "Aspen Air Pro II: mesh portátil, sin depender de pilas" },
+    ],
+    intro: [
+      `El nebulizador tiene su pico de demanda en invierno, cuando aumentan los cuadros respiratorios en toda la familia. La decisión real pasa por el tipo: mesh (silencioso, más nuevo) o pistón (tradicional, más ruidoso), y si necesitás portabilidad para viajar.`,
+      `En esta guía comparamos nebulizadores vendidos en MercadoLibre Argentina, con las contras reales que cuentan los compradores. Un aviso importante: descartamos deliberadamente los 2 modelos "mesh" más vendidos del ranking real porque su nomenclatura (JSL/JLS-W302) coincide con un producto que ANMAT prohibió en noviembre de 2024 por no tener registro sanitario. De los 4 de esta guía, 3 declaran certificación ANMAT explícita en su ficha (2 con número RPPTM); el cuarto (Omron) no la declara en esta publicación puntual, aunque es una marca multinacional establecida en farmacias argentinas.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_781555-MLA88801546380_082025-F.webp", alt: `Nebulizador mesh San-Up VitaAir, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[San-Up VitaAir](/producto/MLA47884803)**: mesh silencioso, certificado ANMAT, con 962 opiniones reales. Si preferís **pistón con más accesorios**, el **[San-Up ClearBreath](/producto/MLA47884824)**. Para la **marca de mayor confianza**, el **[Omron NE-C801LA](/producto/MLA44718278)**. Y con **batería recargable**, el **[Aspen Air Pro II](/producto/MLA68343533)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los nebulizadores con más ventas y opiniones reales en MercadoLibre Argentina, verificando la certificación declarada en cada ficha (ANMAT con número RPPTM cuando está disponible). Descartamos 2 modelos que coinciden con un producto prohibido por ANMAT en 2024. Los ordenamos por lo que define la compra: tipo (mesh o pistón), silencio, portabilidad y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "warning", content: `**Aviso de seguridad:** en noviembre de 2024, ANMAT prohibió la venta de un nebulizador mesh genérico (modelo "JSL-W302" / "JLS-W302", marca declarada como "Mesh Nebulizer") por no contar con registro sanitario ni datos verificables de fabricante. Publicaciones con esa nomenclatura siguen apareciendo entre las más vendidas de MercadoLibre. Antes de comprar cualquier nebulizador, verificá el estado de certificación de la ficha: el [San-Up VitaAir](/producto/MLA47884803) y el [San-Up ClearBreath](/producto/MLA47884824) de esta guía declaran número RPPTM explícito; el [Aspen Air Pro II](/producto/MLA68343533) declara ANMAT sin número visible; el [Omron NE-C801LA](/producto/MLA44718278) no lo declara en esta publicación puntual.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un nebulizador`, id: "que-mirar" },
+      { type: "p", content: `Primero, la **certificación ANMAT**: todo nebulizador vendido en Argentina debería declarar un número de registro (RPPTM) verificable. Es el filtro de seguridad más importante, sobre todo si es para uso en chicos. Segundo, **mesh o pistón**: el mesh es silencioso y suele ser portátil (pila o USB); el pistón es más ruidoso y necesita 220V, pero suele ser más barato y con más accesorios incluidos. Tercero, si necesitás **portabilidad real** (viajes, uso frecuente), un modelo con batería recargable evita depender de pilas descartables.` },
+      { type: "p", content: `Un dato que se repite en las reseñas de la categoría: los nebulizadores a pilas duran pocos usos antes de necesitar recarga o reemplazo. Si lo vas a usar varias veces al día, contemplá esa variable en el costo real de uso.` },
+
+      { type: "h2", title: `Los mejores nebulizadores 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. San-Up VitaAir — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA47884803", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Mesh silencioso, certificado ANMAT (RPPTM 2683-8). 4.8 estrellas en 962 calificaciones.` },
+      { type: "p", content: `El mejor equilibrio de esta guía: mesh silencioso, certificado ANMAT verificable, y 962 opiniones reales, a alrededor de {{precio:MLA47884803:k}}. Varias reseñas confirman que es lo suficientemente silencioso para usar de noche o con mascotas.` },
+      { type: "p", content: `La contra real: a pilas dura pocos usos (4-5) antes de necesitar conectarlo por USB, según una reseña.` },
+      { type: "pull-quote", content: `"Compré un nebulizador para mi gatita que tiene una enfermedad respiratoria... se dejó nebulizar los 15 minutos que necesitaba. Lástima que no puedo subir el video, para evidenciar lo silencioso que es!"`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. San-Up ClearBreath — pistón con más accesorios` },
+      { type: "product-card", productMlaId: "MLA47884824", label: "Pistón con más accesorios", labelColor: "slate", ranking: 2, description: `Pistón tradicional con 8 accesorios incluidos (5 filtros de repuesto). Certificado ANMAT. 4.8 estrellas en 587 calificaciones.` },
+      { type: "p", content: `El set de accesorios más completo de esta guía: incluye adaptador nasal y 5 filtros de repuesto, algo que ningún otro modelo trae, al mismo precio que la versión mesh de la misma marca (alrededor de {{precio:MLA47884824:k}}).` },
+      { type: "p", content: `Lo honesto: no es silencioso ni portátil, necesita 220V. Es la naturaleza del pistón, no una falla.` },
+
+      { type: "h3", title: `3. Omron NE-C801LA — marca de mayor confianza` },
+      { type: "product-card", productMlaId: "MLA44718278", label: "Marca de mayor confianza", labelColor: "blue", ranking: 3, description: `Pistón compacto y silencioso para su tipo, con corte automático. 4.7 estrellas en 3.516 calificaciones, el mayor volumen de la categoría.` },
+      { type: "p", content: `La marca con más trayectoria en farmacias argentinas, con el mayor volumen de reseñas reales de esta guía (3.516), a alrededor de {{precio:MLA44718278:k}}. Silencioso para ser un pistón, según reseñas que lo compararon con otros modelos.` },
+      { type: "p", content: `La contra real: el cabezal se siente algo frágil según una reseña, y es el más caro de los pistón de esta guía.` },
+
+      { type: "h3", title: `4. Aspen Air Pro II — con batería recargable` },
+      { type: "product-card", productMlaId: "MLA68343533", label: "Con batería recargable", labelColor: "purple", ranking: 4, description: `Mesh portátil con batería recargable USB, sin depender de pilas. 4.8 estrellas, aunque con base de opiniones chica (91).` },
+      { type: "p", content: `El único de esta guía con batería recargable en vez de pilas descartables, a alrededor de {{precio:MLA68343533:k}}, ideal para viajes o uso frecuente.` },
+      { type: "p", content: `Lo honesto: su base de 91 calificaciones es la más chica de esta guía, y varias reseñas disponibles reportan solo 1-2 usos, así que todavía no hay mucho historial de durabilidad.` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, silencio y certificación`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Portátil`, `Ideal para`], rows: [
+        [`[San-Up VitaAir](/producto/MLA47884803)`, `{{precio:MLA47884803}}`, `Mesh`, `Sí (pila/USB)`, `Silencio, uso nocturno`],
+        [`[San-Up ClearBreath](/producto/MLA47884824)`, `{{precio:MLA47884824}}`, `Pistón`, `No`, `Más accesorios al mismo precio`],
+        [`[Omron NE-C801LA](/producto/MLA44718278)`, `{{precio:MLA44718278}}`, `Pistón`, `No`, `Marca de mayor confianza`],
+        [`[Aspen Air Pro II](/producto/MLA68343533)`, `{{precio:MLA68343533}}`, `Mesh`, `Sí (recargable)`, `Viajes, uso frecuente`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu nebulizador`, id: "como-elegir" },
+      { type: "h3", title: `¿Mesh o pistón?` },
+      { type: "p", content: `El mesh es silencioso y suele ser portátil; el pistón es más ruidoso pero suele venir con más accesorios al mismo precio, y la marca Omron tiene el mayor respaldo de reseñas reales.` },
+      { type: "h3", title: `¿Pilas o batería recargable?` },
+      { type: "p", content: `Los modelos a pila (San-Up, la mayoría de esta guía) duran pocos usos antes de necesitar cambio o carga por USB. Si nebulizás varias veces al día, la batería recargable del Aspen evita comprar pilas seguido.` },
+      { type: "h3", title: `¿Cómo verifico la certificación ANMAT?` },
+      { type: "p", content: `Buscá el número RPPTM en la ficha técnica de la publicación. El [San-Up VitaAir](/producto/MLA47884803) y el [San-Up ClearBreath](/producto/MLA47884824) de esta guía lo declaran explícito; el [Aspen Air Pro II](/producto/MLA68343533) declara ANMAT sin número visible en ficha; el [Omron NE-C801LA](/producto/MLA44718278) no lo declara en esta publicación puntual. Desconfiá de publicaciones que no muestren ningún dato de certificación.` },
+
+      { type: "verdict", content: `Para la mayoría, el **[San-Up VitaAir](/producto/MLA47884803)** es la compra más segura: mesh silencioso, certificado ANMAT, con buen volumen de reseñas reales. Si preferís pistón con más accesorios al mismo precio, el **[San-Up ClearBreath](/producto/MLA47884824)**. Si el respaldo de marca es tu prioridad, el **[Omron NE-C801LA](/producto/MLA44718278)**. Y para viajes o uso frecuente sin pilas, el **[Aspen Air Pro II](/producto/MLA68343533)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor nebulizador en Argentina?`, answer: `Para la mayoría, el [San-Up VitaAir](/producto/MLA47884803): mesh silencioso, certificado ANMAT, con 962 opiniones reales. Si preferís la marca de mayor confianza, el [Omron NE-C801LA](/producto/MLA44718278).` },
+      { question: `¿Es seguro comprar cualquier nebulizador en MercadoLibre?`, answer: `No cualquiera: en noviembre de 2024, ANMAT prohibió un modelo mesh genérico (nomenclatura JSL/JLS-W302) por no tener registro sanitario. Publicaciones similares siguen apareciendo entre las más vendidas. Verificá siempre que la ficha declare un número RPPTM real antes de comprar.` },
+      { question: `¿Mesh o pistón, cuál conviene?`, answer: `El mesh es silencioso y portátil, ideal para uso nocturno o con chicos. El pistón es más ruidoso y necesita 220V, pero suele venir con más accesorios al mismo precio.` },
+      { question: `¿Cuánto dura la batería o las pilas?`, answer: `Los modelos a pila de esta guía duran pocos usos (4-5) antes de necesitar cambio o recarga por USB. El [Aspen Air Pro II](/producto/MLA68343533) tiene batería recargable integrada, pensado para uso frecuente.` },
+      { question: `¿Sirve para bebés y chicos?`, answer: `Los 4 modelos de esta guía incluyen máscara para niño además de la de adulto. Consultá siempre con el pediatra la frecuencia y el medicamento indicado.` },
+      { question: `¿Cuál es el más silencioso?`, answer: `Los mesh ([San-Up VitaAir](/producto/MLA47884803) y [Aspen Air Pro II](/producto/MLA68343533)) son los más silenciosos de esta guía. Entre los pistón, el [Omron NE-C801LA](/producto/MLA44718278) es más silencioso que el [San-Up ClearBreath](/producto/MLA47884824), según reseñas comparativas.` },
+    ],
+    internalLinks: [
+      { label: "Balanza digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/balanza-digital" },
+      { label: "Tensiómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/tensiometro-digital" },
+      { label: "Termómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/termometro-digital" },
+    ],
+    internalLinksTitle: "Más para tu salud en casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva tensiometro-digital — silo salud-bienestar,
+  // categoria "tensiometros". Origen: research de silos flacos
+  // 2026-07-19, keyword "tensiometro digital" (22.200/mes, Keyword
+  // Planner). Fichas sourceadas vía Bright Data el mismo día. Tema
+  // YMYL: solo datos técnicos objetivos, sin claims de precisión
+  // clínica ni consejo médico.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "tensiometro-digital",
+    category: "tensiometros",
+    silo: "salud-bienestar",
+    title: `Tensiómetro digital: cuál comprar en Argentina [2026]`,
+    seoTitle: `Tensiómetro Digital: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué tensiómetro digital comprar en Argentina: de brazo o de muñeca, marca líder o más económico. Precios reales y contras honestas.`,
+    ogTitle: `Tensiómetro digital: cuál comprar en Argentina`,
+    ogDescription: `Omron, Coronet y Microlife comparados: de brazo o de muñeca, con detección de arritmia o sin. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_866786-MLU72565713896_112023-F.webp`,
+    h1: `Tensiómetro digital: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Omron HEM-7142](/producto/MLA24044627)** (alrededor de {{precio:MLA24044627:k}}): de brazo, la marca con más respaldo real (27.369 opiniones). Si buscás el precio más bajo, la [Coronet YK-BPW4](/producto/MLA22255575), de muñeca. Si preferís la marca líder en formato compacto, el [Omron HEM-6124](/producto/MLA24111585). Y si necesitás detección de arritmia, el [Microlife BP A200 AFIB](/producto/MLA24533653).`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un tensiómetro digital va de {{precio:MLA22255575:k}} (muñeca, el más económico) a {{precio:MLA24533653:k}} (brazo, con detección de arritmia). La decisión real pasa por brazo o muñeca, y si necesitás una función especializada. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA24044627", label: "Mejor elección general", labelColor: "green", tagline: "Omron HEM-7142: de brazo, 27.369 opiniones reales, la marca líder" },
+      { productMlaId: "MLA22255575", label: "El más económico", labelColor: "slate", tagline: "Coronet YK-BPW4: de muñeca, menos de la mitad del precio del Omron" },
+      { productMlaId: "MLA24111585", label: "Marca líder en muñeca", labelColor: "blue", tagline: "Omron HEM-6124: el respaldo de Omron, más compacto" },
+      { productMlaId: "MLA24533653", label: "Con detección de arritmia", labelColor: "purple", tagline: "Microlife BP A200 AFIB: tecnología PAD declarada en ficha, 200 memorias" },
+    ],
+    intro: [
+      `El tensiómetro digital dejó de ser un aparato exclusivo del consultorio: cada vez más argentinos lo usan en casa para monitorear la presión con regularidad. La decisión real pasa por brazo o muñeca (el brazo suele preferirse como estándar) y si necesitás una función especializada como detección de arritmia.`,
+      `En esta guía comparamos tensiómetros digitales vendidos en MercadoLibre Argentina, con datos técnicos objetivos de sus fichas y las contras reales que cuentan los compradores. Importante: esta guía no da consejo médico ni valida la precisión clínica de ningún modelo; consultá siempre con un profesional de la salud sobre tu monitoreo de presión arterial.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_866786-MLU72565713896_112023-F.webp", alt: `Tensiómetro digital de brazo Omron HEM-7142, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Omron HEM-7142](/producto/MLA24044627)**: de brazo, la marca con más respaldo real (27.369 opiniones). Si buscás **el precio más bajo**, la **[Coronet YK-BPW4](/producto/MLA22255575)**, de muñeca. Si preferís **la marca líder en formato compacto**, el **[Omron HEM-6124](/producto/MLA24111585)**. Y con **detección de arritmia**, el **[Microlife BP A200 AFIB](/producto/MLA24533653)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los tensiómetros digitales con más ventas y opiniones reales en MercadoLibre Argentina. Reportamos solo datos técnicos objetivos de cada ficha (tipo, memoria, funciones declaradas); no validamos ni afirmamos precisión clínica de ningún modelo, y las citas de reseñas de profesionales de la salud se presentan como testimonios de compradores, no como recomendación médica del sitio. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un tensiómetro digital`, id: "que-mirar" },
+      { type: "p", content: `Primero, **brazo o muñeca**: el brazo suele preferirse como estándar de medición; la muñeca es más compacta y barata. Segundo, la **tecnología de detección de arritmia declarada en ficha** no la tienen todos los modelos — si tu profesional de salud te indicó monitorear ese aspecto, es un dato a comparar. Tercero, la **memoria de mediciones** varía bastante entre modelos (14 a 200), útil si querés llevar un registro para compartir en tu próxima consulta.` },
+      { type: "p", content: `Un dato importante: ningún tensiómetro de esta guía reemplaza el diagnóstico de un profesional de la salud. Es una herramienta de monitoreo doméstico, no un dispositivo clínico.` },
+
+      { type: "h2", title: `Los mejores tensiómetros digitales 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Omron HEM-7142 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA24044627", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `De brazo, automático, con indicador de error de movimiento. 4.9 estrellas en 27.369 calificaciones, el mayor volumen de la categoría.` },
+      { type: "p", content: `El tensiómetro con más respaldo de compradores reales de Argentina: 27.369 calificaciones, muy por encima de cualquier otro modelo de esta guía, a alrededor de {{precio:MLA24044627:k}}. De brazo, el tipo de referencia.` },
+      { type: "p", content: `La contra real: cuesta bastante más que alternativas genéricas, y no tiene Bluetooth.` },
+      { type: "pull-quote", content: `"Materiales de construcción de calidad superior. Contras: precio bastante elevado frente a la competencia (entre 3 y 4 veces más). El software de escaneo no funciona... no cuenta con Bluetooth."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Coronet YK-BPW4 — el más económico` },
+      { type: "product-card", productMlaId: "MLA22255575", label: "El más económico", labelColor: "slate", ranking: 2, description: `De muñeca, 99 memorias. 4.6 estrellas en 3.230 calificaciones, menos de la mitad del precio del Omron de brazo.` },
+      { type: "p", content: `El más barato de esta guía por un buen margen, a alrededor de {{precio:MLA22255575:k}}. Algunos compradores cuentan haber comparado sus lecturas con las de un profesional de la salud y notaron resultados similares (testimonio de comprador, no una validación de precisión clínica de este sitio).` },
+      { type: "p", content: `Lo honesto: al ser de muñeca, una reseña señala una diferencia de 1 punto frente a un tensiómetro de brazo.` },
+
+      { type: "h3", title: `3. Omron HEM-6124 — marca líder en muñeca` },
+      { type: "product-card", productMlaId: "MLA24111585", label: "Marca líder en muñeca", labelColor: "blue", ranking: 3, description: `De muñeca, automático. 4.8 estrellas en 7.105 calificaciones, el respaldo de Omron más compacto.` },
+      { type: "p", content: `El respaldo de la marca líder en formato muñeca, más compacto y barato que la versión de brazo de la misma marca, a alrededor de {{precio:MLA24111585:k}}.` },
+      { type: "p", content: `La contra real: no incluye estuche de guardado, según una reseña.` },
+
+      { type: "h3", title: `4. Microlife BP A200 AFIB — con detección de arritmia` },
+      { type: "product-card", productMlaId: "MLA24533653", label: "Con detección de arritmia", labelColor: "purple", ranking: 4, description: `De brazo, tecnología PAD de detección de arritmia declarada. 200 memorias, la mayor capacidad de la guía.` },
+      { type: "p", content: `El único de esta guía con tecnología de detección de arritmia (PAD) declarada en su ficha técnica, a alrededor de {{precio:MLA24533653:k}}, con 200 memorias, la mayor capacidad de la comparativa.` },
+      { type: "p", content: `Lo honesto: tiene bastante menos volumen de reseñas que el resto de esta guía (292 contra miles).` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, memoria y funciones`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Memorias`, `Ideal para`], rows: [
+        [`[Omron HEM-7142](/producto/MLA24044627)`, `{{precio:MLA24044627}}`, `Brazo`, `14`, `Marca líder, mayor respaldo`],
+        [`[Coronet YK-BPW4](/producto/MLA22255575)`, `{{precio:MLA22255575}}`, `Muñeca`, `99`, `El más económico`],
+        [`[Omron HEM-6124](/producto/MLA24111585)`, `{{precio:MLA24111585}}`, `Muñeca`, `30`, `Marca líder, formato compacto`],
+        [`[Microlife BP A200 AFIB](/producto/MLA24533653)`, `{{precio:MLA24533653}}`, `Brazo`, `200`, `Detección de arritmia`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu tensiómetro digital`, id: "como-elegir" },
+      { type: "h3", title: `¿Brazo o muñeca?` },
+      { type: "p", content: `El brazo suele preferirse como estándar de medición. La muñeca es más compacta y barata, con una pequeña diferencia reportada por compradores que compararon ambos formatos.` },
+      { type: "h3", title: `¿Necesitás detección de arritmia?` },
+      { type: "p", content: `Si tu profesional de salud te indicó monitorear arritmia, el Microlife de esta guía es el único con esa tecnología declarada en ficha. Para monitoreo general, cualquiera de los otros 3 alcanza.` },
+      { type: "h3", title: `¿Marca reconocida o precio bajo?` },
+      { type: "p", content: `Omron domina el volumen de reseñas reales en Argentina, pero cuesta más. La Coronet cubre lo esencial a una fracción del precio, con buen respaldo de compradores.` },
+
+      { type: "verdict", content: `Para la mayoría, el **[Omron HEM-7142](/producto/MLA24044627)** es la compra más segura: de brazo, con el mayor respaldo de compradores reales de Argentina. Si el precio manda, la **[Coronet YK-BPW4](/producto/MLA22255575)**. Si preferís la marca líder en formato compacto, el **[Omron HEM-6124](/producto/MLA24111585)**. Y si necesitás detección de arritmia, el **[Microlife BP A200 AFIB](/producto/MLA24533653)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor tensiómetro digital en Argentina?`, answer: `Para la mayoría, el [Omron HEM-7142](/producto/MLA24044627): de brazo, con el mayor respaldo de compradores reales (27.369 opiniones). Si buscás el precio más bajo, la [Coronet YK-BPW4](/producto/MLA22255575).` },
+      { question: `¿Es mejor de brazo o de muñeca?`, answer: `El brazo suele preferirse como estándar de medición. La muñeca es más compacta y barata; compradores que compararon ambos formatos reportan una diferencia menor (alrededor de 1 punto) a favor del brazo.` },
+      { question: `¿Estos tensiómetros reemplazan el control médico?`, answer: `No. Son herramientas de monitoreo doméstico y no reemplazan el diagnóstico ni el seguimiento de un profesional de la salud. Consultá siempre con tu médico sobre tu presión arterial.` },
+      { question: `¿Alguno detecta arritmia?`, answer: `El [Microlife BP A200 AFIB](/producto/MLA24533653) de esta guía es el único con tecnología PAD de detección de arritmia declarada en su ficha técnica.` },
+      { question: `¿Tienen Bluetooth?`, answer: `Ninguno de los 4 de esta guía, según sus fichas técnicas. Si necesitás conectividad con una app, es un dato a verificar antes de comprar cualquier modelo.` },
+      { question: `¿Vienen con estuche?`, answer: `Ninguno de los 4 confirma estuche incluido en su ficha; una reseña del Omron HEM-6124 lo señala explícitamente como ausente.` },
+    ],
+    internalLinks: [
+      { label: "Balanza digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/balanza-digital" },
+      { label: "Nebulizador: cuál comprar en Argentina", href: "/guias/salud-bienestar/nebulizador" },
+      { label: "Termómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/termometro-digital" },
+    ],
+    internalLinksTitle: "Más para tu salud en casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva termotanque-a-gas — silo agua-caliente, categoria
+  // "termotanques-gas". Origen: research de silos flacos 2026-07-19,
+  // keyword "termotanque a gas" (22.200/mes, Keyword Planner). Fichas
+  // sourceadas vía Bright Data el mismo día. Distinto del termotanque
+  // ELÉCTRICO ya cubierto: este requiere gasista matriculado.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "termotanque-a-gas",
+    category: "termotanques-gas",
+    silo: "agua-caliente",
+    title: `Termotanque a gas: cuál comprar en Argentina [2026]`,
+    seoTitle: `Termotanque a Gas: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué termotanque a gas comprar en Argentina: instantáneo o de acumulación, tiro natural o cámara estanca. Precios reales y contras honestas.`,
+    ogTitle: `Termotanque a gas: cuál comprar en Argentina`,
+    ogDescription: `Escorial, Rheem, Sherman y Peisa comparados: instantáneo o de acumulación, tiro natural o cámara estanca. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_974885-MLA99531299898_122025-O.webp`,
+    h1: `Termotanque a gas: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Escorial CE-14L](/producto/MLA18991396)** (alrededor de {{precio:MLA18991396:k}}): el más vendido y con más reseñas reales de esta guía. Si preferís el mejor calificado, el [Rheem R7-14L](/producto/MLA53227874) (verificá stock antes de comprar). Si necesitás acumulación para varios baños, el [Sherman de 120L](/producto/MLA15780691). Y si tu baño no tiene buena ventilación, el [Peisa 14 TBF](/producto/MLA1953949492), con cámara estanca.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un termotanque a gas va de {{precio:MLA18991396:k}} (el más vendido) a {{precio:MLA53227874:k}} (el mejor calificado). A diferencia del eléctrico, este necesita instalación por gasista matriculado. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA18991396", label: "Mejor elección general", labelColor: "green", tagline: "Escorial CE-14L: el más vendido, 3.298 opiniones reales" },
+      { productMlaId: "MLA53227874", label: "El mejor calificado", labelColor: "blue", tagline: "Rheem R7-14L: 4.9 estrellas, panel táctil" },
+      { productMlaId: "MLA15780691", label: "De acumulación", labelColor: "purple", tagline: "Sherman 120L: tanque para varios baños simultáneos" },
+      { productMlaId: "MLA1953949492", label: "Con cámara estanca", labelColor: "amber", tagline: "Peisa 14 TBF: no consume el aire del ambiente" },
+    ],
+    intro: [
+      `El termotanque a gas sigue siendo la opción más elegida en Argentina para agua caliente, pero es un producto distinto al eléctrico: necesita instalación por un gasista matriculado, no se auto-instala. La decisión real pasa por instantáneo o de acumulación, y tiro natural o cámara estanca.`,
+      `En esta guía comparamos calefones y termotanques a gas vendidos en MercadoLibre Argentina, con las contras reales que cuentan los compradores: casi todas relacionadas con la instalación correcta, no con fallas del producto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_974885-MLA99531299898_122025-O.webp", alt: `Calefón a gas Escorial CE-14L, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Escorial CE-14L](/producto/MLA18991396)**: el más vendido y con más reseñas reales. Si preferís **el mejor calificado**, el **[Rheem R7-14L](/producto/MLA53227874)**. Para **varios baños simultáneos**, el **[Sherman de 120L](/producto/MLA15780691)** (acumulación). Y si tu baño **no tiene buena ventilación**, el **[Peisa 14 TBF](/producto/MLA1953949492)**, con cámara estanca.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los calefones y termotanques a gas con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: tipo (instantáneo o acumulación), tiraje (natural, forzado o cámara estanca) y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "warning", content: `**A diferencia del [termotanque eléctrico](/guias/agua-caliente/termotanque-electrico)**, ningún producto de esta guía se auto-instala. Todo calefón o termotanque a gas necesita instalación por un gasista matriculado, que respete las indicaciones del manual (sobre todo la salida de gases). Varias reseñas reales de esta guía confirman que una instalación incorrecta activa los sensores de seguridad y apaga el equipo — no es una falla del producto.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un termotanque a gas`, id: "que-mirar" },
+      { type: "p", content: `Primero, **instantáneo o de acumulación**: los instantáneos (la mayoría de esta guía) calientan el agua al momento, sin tanque; los de acumulación guardan agua caliente en un tanque, mejor para varios baños usando agua caliente a la vez o poca presión de gas. Segundo, el **tiraje**: natural (el más común), forzado, o cámara estanca (no consume el aire del ambiente, ideal para baños chicos o sin ventilación). Tercero, la **instalación**: siempre por gasista matriculado, respetando la salida de gases del manual.` },
+      { type: "p", content: `Un dato importante que se repite en las reseñas de la categoría: casi todos los reclamos post-compra son de instalación, no del producto. Contratar un instalador matriculado que siga el manual al pie de la letra evita la mayoría de los problemas reportados.` },
+
+      { type: "h2", title: `Los mejores termotanques a gas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Escorial CE-14L — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA18991396", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `14 L/min, tiro natural, sin llama piloto. 4.6 estrellas en 3.298 calificaciones, el más vendido de esta guía.` },
+      { type: "p", content: `El más vendido y con más reseñas reales de esta guía: 3.298 calificaciones, a alrededor de {{precio:MLA18991396:k}}, el precio más bajo de la comparativa.` },
+      { type: "p", content: `La contra real: varias reseñas coinciden en que la instalación tiene que respetar la salida de gases del manual, o el sensor de seguridad apaga el equipo.` },
+      { type: "pull-quote", content: `"Excelente calefón, al que lo compre tengan en cuenta la salida de gases tal cual como explica el manual ya que si no respetan las indicaciones el calefón tiene un sensor de temperatura que lo apaga por alta temperatura en la salida."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Rheem R7-14L — el mejor calificado` },
+      { type: "product-card", productMlaId: "MLA53227874", label: "El mejor calificado", labelColor: "blue", ranking: 2, description: `14 L/min, panel táctil, encendido eléctrico. 4.9 estrellas, el mejor rating de la guía. Verificar stock antes de comprar.` },
+      { type: "p", content: `El mejor calificado de esta guía (4.9 estrellas), con panel de control táctil, fabricante confirmado, a alrededor de {{precio:MLA53227874:k}}.` },
+      { type: "p", content: `Lo honesto: el fabricante declara conexión eléctrica de 220V para todo el control, pero una reseña real menciona un problema con pilas tamaño D en la pantalla que no coincide con esa especificación — lo dejamos señalado, sin confirmar cuál versión es la correcta. El stock también estaba ajustado al momento de revisar el precio.` },
+
+      { type: "h3", title: `3. Sherman 120L — de acumulación` },
+      { type: "product-card", productMlaId: "MLA15780691", label: "De acumulación", labelColor: "purple", ranking: 3, description: `Tanque de 120L, multigas, tecnología Rheem. 4.7 estrellas en 1.281 calificaciones.` },
+      { type: "p", content: `El único de acumulación de esta guía, ideal para varios baños usando agua caliente a la vez, a alrededor de {{precio:MLA15780691:k}}.` },
+      { type: "p", content: `La contra real: no viene con accesorios completos de instalación, según una reseña.` },
+
+      { type: "h3", title: `4. Peisa 14 TBF — con cámara estanca` },
+      { type: "product-card", productMlaId: "MLA1953949492", label: "Con cámara estanca", labelColor: "amber", ranking: 4, description: `15 L/min, cámara estanca (no consume aire del ambiente, según fabricante), control digital. 4.8 estrellas.` },
+      { type: "p", content: `El único con cámara estanca de esta guía, ideal para baños sin buena ventilación, a alrededor de {{precio:MLA1953949492:k}}.` },
+      { type: "p", content: `Lo honesto: si se corta la luz, no hay agua caliente, según una reseña real. Es el más caro de esta guía.` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, tiraje y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Tiraje`, `Ideal para`], rows: [
+        [`[Escorial CE-14L](/producto/MLA18991396)`, `{{precio:MLA18991396}}`, `Instantáneo`, `Natural`, `El más vendido, mejor precio`],
+        [`[Rheem R7-14L](/producto/MLA53227874)`, `{{precio:MLA53227874}}`, `Instantáneo`, `Natural`, `El mejor calificado`],
+        [`[Sherman 120L](/producto/MLA15780691)`, `{{precio:MLA15780691}}`, `Acumulación`, `—`, `Varios baños a la vez`],
+        [`[Peisa 14 TBF](/producto/MLA1953949492)`, `{{precio:MLA1953949492}}`, `Instantáneo`, `Cámara estanca`, `Baños sin ventilación`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu termotanque a gas`, id: "como-elegir" },
+      { type: "h3", title: `¿Instantáneo o de acumulación?` },
+      { type: "p", content: `Si tenés varios baños que pueden usar agua caliente a la vez, o poca presión de gas, la acumulación (Sherman) amortigua mejor. Para uso estándar de una casa, un instantáneo alcanza y ocupa menos espacio.` },
+      { type: "h3", title: `¿Tu baño tiene buena ventilación?` },
+      { type: "p", content: `Si es chico o sin buena salida de aire, la cámara estanca del Peisa no consume el aire del ambiente. El Escorial y el Rheem de esta guía tienen tiro natural (consumen aire del ambiente); el Sherman es de acumulación, con otro tipo de instalación.` },
+      { type: "h3", title: `¿Quién instala el termotanque?` },
+      { type: "p", content: `Siempre un gasista matriculado. Las reseñas de esta guía confirman que la mayoría de los problemas post-compra vienen de una instalación que no respetó las indicaciones del manual, no de una falla del producto.` },
+
+      { type: "verdict", content: `Para la mayoría, el **[Escorial CE-14L](/producto/MLA18991396)** es la compra más segura: el más vendido, con el mayor respaldo de compradores reales al mejor precio. Si el rating es tu prioridad, el **[Rheem R7-14L](/producto/MLA53227874)** (verificando stock). Si necesitás acumulación, el **[Sherman de 120L](/producto/MLA15780691)**. Y si tu baño no tiene buena ventilación, el **[Peisa 14 TBF](/producto/MLA1953949492)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor termotanque a gas en Argentina?`, answer: `Para la mayoría, el [Escorial CE-14L](/producto/MLA18991396): el más vendido y con más reseñas reales. Si buscás el mejor calificado, el [Rheem R7-14L](/producto/MLA53227874).` },
+      { question: `¿Necesito un gasista matriculado para instalarlo?`, answer: `Sí, siempre. Todos los productos de esta guía requieren instalación profesional. Varias reseñas reales confirman que una instalación incorrecta activa los sensores de seguridad del equipo.` },
+      { question: `¿Qué diferencia hay con un termotanque eléctrico?`, answer: `El eléctrico se auto-instala y no depende de gas; el de esta guía necesita gasista matriculado. Si buscás la opción eléctrica, mirá la [guía de termotanque eléctrico](/guias/agua-caliente/termotanque-electrico) del sitio.` },
+      { question: `¿Instantáneo o de acumulación, cuál conviene?`, answer: `El instantáneo (la mayoría de esta guía) calienta el agua al momento. La acumulación, como el [Sherman de 120L](/producto/MLA15780691), guarda agua caliente en un tanque, mejor para varios baños simultáneos o poca presión de gas.` },
+      { question: `¿Qué es la cámara estanca?`, answer: `Un sistema de tiraje que no consume el aire del ambiente donde está instalado, ideal para baños chicos o sin buena ventilación. El [Peisa 14 TBF](/producto/MLA1953949492) de esta guía es el único con esa característica.` },
+      { question: `¿Funciona sin electricidad?`, answer: `Depende del modelo: el Rheem R7-14L y el Peisa 14 TBF se conectan a 220V y dejan de funcionar si se corta la luz. El Escorial CE-14L enciende a pila (no depende de la red eléctrica) y el Sherman de 120L tiene encendido manual.` },
+    ],
+    internalLinks: [
+      { label: "Termotanque eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-electrico" },
+      { label: "Ducha eléctrica: cuál comprar en Argentina", href: "/guias/agua-caliente/ducha-electrica" },
+    ],
+    internalLinksTitle: "Más para el agua caliente de tu casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva cerradura-inteligente — silo seguridad, categoria
+  // "cerraduras-inteligentes". Origen: research de silos flacos
+  // 2026-07-19, keyword "cerradura inteligente" (1.900-2.900/mes,
+  // dificultad SEO más baja del barrido). Fichas sourceadas vía
+  // Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "cerradura-inteligente",
+    category: "cerraduras-inteligentes",
+    silo: "seguridad",
+    title: `Cerradura inteligente: cuál comprar en Argentina [2026]`,
+    seoTitle: `Cerradura Inteligente: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Descubrí qué cerradura inteligente comprar en Argentina: empotrable o retrofit, con huella, tarjeta o app. Precios reales y contras honestas.`,
+    ogTitle: `Cerradura inteligente: cuál comprar en Argentina`,
+    ogDescription: `Ezviz, Fika y Aqara comparadas: empotrable o retrofit, con huella digital, tarjeta RFID o app WiFi. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_707057-MLA113671056255_062026-O.webp`,
+    h1: `Cerradura inteligente: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Ezviz CS-DL05](/producto/MLA37807940)** (alrededor de {{precio:MLA37807940:k}}): la más vendida y calificada de esta guía, con 2.275 opiniones reales. Si buscás el precio más bajo, la [Fika FIK-SML01](/producto/MLA52016410). Si no querés reemplazar el cilindro exterior de tu puerta, el [Aqara U200](/producto/MLA38827156) (retrofit, compatible Apple). Y si preferís el respaldo de marca Aqara en formato empotrable, el [Aqara U300](/producto/MLA45403665).`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una cerradura inteligente va de {{precio:MLA52016410:k}} (la más económica) a {{precio:MLA38827156:k}} (retrofit, compatible Apple). La decisión real pasa por el tipo de instalación (empotrable o retrofit) y qué métodos de apertura necesitás. Te mostramos cuál conviene, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA37807940", label: "Mejor elección general", labelColor: "green", tagline: "Ezviz CS-DL05: la más vendida, 2.275 opiniones reales" },
+      { productMlaId: "MLA52016410", label: "La más económica", labelColor: "slate", tagline: "Fika FIK-SML01: la más vendida por volumen, con 24% OFF" },
+      { productMlaId: "MLA38827156", label: "Retrofit, compatible Apple", labelColor: "blue", tagline: "Aqara U200: no toca el cilindro exterior, Apple Home Key confirmado en ficha" },
+      { productMlaId: "MLA45403665", label: "Empotrable, marca Aqara", labelColor: "purple", tagline: "Aqara U300: respaldo de fabricante confirmado" },
+    ],
+    intro: [
+      `La cerradura inteligente dejó de ser un producto de nicho: reemplaza la llave física por huella digital, tarjeta, clave o app, sin perder la llave de emergencia como respaldo. La decisión real pasa por el tipo de instalación: empotrable (reemplaza el mecanismo interno) o retrofit (se instala por fuera, sin tocar el cilindro exterior).`,
+      `En esta guía comparamos cerraduras inteligentes vendidas en MercadoLibre Argentina, con las contras reales que cuentan los compradores: desde el vástago que no llega al grosor de la puerta hasta la confiabilidad del sensor de huella.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_707057-MLA113671056255_062026-O.webp", alt: `Cerradura inteligente Ezviz CS-DL05, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Ezviz CS-DL05](/producto/MLA37807940)**: la más vendida y calificada, 2.275 opiniones reales. Si buscás **el precio más bajo**, la **[Fika FIK-SML01](/producto/MLA52016410)**. Si **no querés tocar el cilindro exterior**, el **[Aqara U200](/producto/MLA38827156)** (retrofit, Apple). Y con **respaldo de marca en formato empotrable**, el **[Aqara U300](/producto/MLA45403665)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las cerraduras inteligentes con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: tipo de instalación, métodos de apertura, conectividad y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una cerradura inteligente`, id: "que-mirar" },
+      { type: "p", content: `Primero, el **tipo de instalación**: la mayoría son empotrables (reemplazan el mecanismo tubular o de embutir de tu puerta), pero hay opciones retrofit que se instalan sobre la cerradura existente sin tocar el cilindro exterior. Segundo, **medí tu puerta antes de comprar**: el grosor real puede no coincidir con lo declarado en la ficha, y es la causa más repetida de reclamos en esta categoría. Tercero, los **métodos de apertura**: huella, tarjeta, clave y una llave física de emergencia son el combo más completo; verificá que la que elijas tenga esta última, por si falla la electrónica.` },
+      { type: "p", content: `Un dato importante para Argentina: todas dependen de pilas o batería. Ninguna cerradura inteligente de esta guía queda sin funcionar por un corte de luz (funcionan a batería), pero sí necesitan cambio o recarga periódica.` },
+
+      { type: "h2", title: `Las mejores cerraduras inteligentes 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Ezviz CS-DL05 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA37807940", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Empotrable, con huella digital, tarjeta RFID y clave. 4.9 estrellas en 2.275 calificaciones, la más vendida de esta guía.` },
+      { type: "p", content: `La cerradura con más respaldo de compradores reales de esta guía: 2.275 opiniones, a alrededor de {{precio:MLA37807940:k}}. Cubre 4 métodos de apertura con WiFi y Bluetooth.` },
+      { type: "p", content: `La contra real: el vástago del cerrojo puede ser más corto que el grosor real de tu puerta, según varias reseñas. Medí antes de comprar.` },
+      { type: "pull-quote", content: `"En la descripción decía que era apto para aberturas de 30mm a 110mm de espesor. Mi puerta tiene 85mm y no llega el vástago que trae. Tuve que comprar otro."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Fika FIK-SML01 — la más económica` },
+      { type: "product-card", productMlaId: "MLA52016410", label: "La más económica", labelColor: "slate", ranking: 2, description: `Empotrable, con huella, tarjeta, clave y app WiFi. 4.7 estrellas en 472 calificaciones, la más vendida por volumen de la categoría.` },
+      { type: "p", content: `La más barata de esta guía, con 24% de descuento y el mayor volumen de ventas absoluto de la categoría en MercadoLibre, a alrededor de {{precio:MLA52016410:k}}.` },
+      { type: "p", content: `Lo honesto: encontramos al menos una reseña real de Argentina con problemas de confiabilidad en el sensor de huella y la tarjeta.` },
+
+      { type: "h3", title: `3. Aqara U200 — retrofit, compatible Apple` },
+      { type: "product-card", productMlaId: "MLA38827156", label: "Retrofit, compatible Apple", labelColor: "blue", ranking: 3, description: `Instalación retrofit (no toca el cilindro exterior), Apple Home Key. 5.0 estrellas, aunque con base de opiniones chica (7).` },
+      { type: "p", content: `La única de esta guía que no reemplaza el cilindro exterior de tu puerta, a alrededor de {{precio:MLA38827156:k}}. Apple Home Key confirmado explícito en su ficha de MercadoLibre.` },
+      { type: "p", content: `Lo honesto: la base de reseñas es chica (7) y es la más cara de la comparativa.` },
+
+      { type: "h3", title: `4. Aqara U300 — empotrable, marca confirmada` },
+      { type: "product-card", productMlaId: "MLA45403665", label: "Empotrable, marca Aqara", labelColor: "purple", ranking: 4, description: `Empotrable, huella digital y tarjeta RFID, WiFi y Bluetooth. 5.0 estrellas, base de opiniones chica (8).` },
+      { type: "p", content: `El respaldo de marca Aqara (fabricante confirmado) en una cerradura empotrable más accesible que el U200, a alrededor de {{precio:MLA45403665:k}}.` },
+      { type: "p", content: `Lo honesto: base de reseñas todavía chica, y aunque el fabricante confirma que soporta Apple Home Key, la ficha de MercadoLibre no lo declara explícito como sí lo hace la del U200.` },
+
+      { type: "h2", title: `Tabla comparativa: instalación y métodos de apertura`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Instalación`, `Apertura`, `Ideal para`], rows: [
+        [`[Ezviz CS-DL05](/producto/MLA37807940)`, `{{precio:MLA37807940}}`, `Empotrable`, `Huella, tarjeta, clave, llave`, `Mayor respaldo de reseñas`],
+        [`[Fika FIK-SML01](/producto/MLA52016410)`, `{{precio:MLA52016410}}`, `Empotrable`, `App, clave, huella, tarjeta`, `El precio más bajo`],
+        [`[Aqara U200](/producto/MLA38827156)`, `{{precio:MLA38827156}}`, `Retrofit`, `App, Apple Key, huella, tarjeta`, `No tocar el cilindro exterior`],
+        [`[Aqara U300](/producto/MLA45403665)`, `{{precio:MLA45403665}}`, `Empotrable`, `Huella, tarjeta, Apple Key (fabricante)`, `Marca confirmada, formato accesible`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu cerradura inteligente`, id: "como-elegir" },
+      { type: "h3", title: `¿Empotrable o retrofit?` },
+      { type: "p", content: `La mayoría de esta guía es empotrable: reemplaza el mecanismo interno de tu cerradura actual. Si no querés perforar ni cambiar el cilindro exterior, el Aqara U200 es la única opción retrofit de esta guía.` },
+      { type: "h3", title: `¿Qué medidas tiene tu puerta?` },
+      { type: "p", content: `Medí el grosor real de tu puerta antes de comprar. Es la causa más repetida de reclamos en esta categoría: el vástago o mecanismo incluido puede no ajustarse a puertas más gruesas de lo declarado.` },
+      { type: "h3", title: `¿Necesitás Apple Home Key o un ecosistema específico?` },
+      { type: "p", content: `El Aqara U200 y el Aqara U300 de esta guía soportan Apple Home Key según el fabricante, aunque solo la ficha de MercadoLibre del U200 lo declara explícito. La Ezviz y la Fika funcionan con apps propias e integraciones más genéricas.` },
+
+      { type: "verdict", content: `Para la mayoría, la **[Ezviz CS-DL05](/producto/MLA37807940)** es la compra más segura: el mayor respaldo de compradores reales de esta guía. Si el precio manda, la **[Fika FIK-SML01](/producto/MLA52016410)**. Si no querés tocar el cilindro exterior de tu puerta, el **[Aqara U200](/producto/MLA38827156)**. Y si preferís el respaldo de marca en formato empotrable, el **[Aqara U300](/producto/MLA45403665)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor cerradura inteligente en Argentina?`, answer: `Para la mayoría, la [Ezviz CS-DL05](/producto/MLA37807940): la más vendida y calificada, con 2.275 opiniones reales. Si buscás el precio más bajo, la [Fika FIK-SML01](/producto/MLA52016410).` },
+      { question: `¿Qué pasa si se corta la luz?`, answer: `Ninguna de esta guía depende de la electricidad de tu casa: todas funcionan a pilas o batería propia. Sí necesitan cambio o recarga periódica de esas pilas.` },
+      { question: `¿Cómo sé si se adapta a mi puerta?`, answer: `Medí el grosor real de tu puerta antes de comprar. Es el reclamo más repetido en las reseñas de esta categoría: el mecanismo incluido puede no ajustarse a puertas más gruesas de lo declarado en la ficha.` },
+      { question: `¿Qué es la instalación retrofit?`, answer: `Se instala sobre el mecanismo existente, sin reemplazar el cilindro exterior de tu puerta. El [Aqara U200](/producto/MLA38827156) de esta guía es la única con ese tipo de instalación.` },
+      { question: `¿Alguna es compatible con Apple Home Key?`, answer: `El [Aqara U200](/producto/MLA38827156) la declara explícita en su ficha de MercadoLibre. El [Aqara U300](/producto/MLA45403665) también la soporta según el fabricante, aunque su ficha de ML no lo menciona.` },
+      { question: `¿Traen llave física de emergencia?`, answer: `La [Ezviz CS-DL05](/producto/MLA37807940) y la [Fika FIK-SML01](/producto/MLA52016410) de esta guía la incluyen. Verificá este dato en cualquier modelo antes de comprar: es tu respaldo si falla la electrónica.` },
+    ],
+    internalLinks: [
+      { label: "Cámara de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
+      { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+      { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
+    ],
+    internalLinksTitle: "Más para la seguridad de tu casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva smartwatch — silo tech, categoria "smartwatches".
+  // Origen: research de silos flacos 2026-07-19 (2da tanda), keyword
+  // "smartwatch" (33.100/mes, el mayor volumen del barrido, Keyword
+  // Planner). Fichas sourceadas vía Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "smartwatch",
+    category: "smartwatches",
+    silo: "tech",
+    title: `Smartwatch: cuál comprar en Argentina [2026]`,
+    seoTitle: `Smartwatch: Cuál Comprar en Argentina | Mejores 2026`,
+    metaDescription: `Comparamos los smartwatches más vendidos de Argentina: Xiaomi, JD Venecia, Amazfit y Haylou. Batería real, GPS y precios reales de MercadoLibre.`,
+    ogTitle: `Smartwatch: cuál comprar en Argentina`,
+    ogDescription: `Xiaomi Redmi Watch 5 Lite, JD Venecia, Amazfit Bip 6 y Haylou Solar comparados: batería real, GPS y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_661173-MLA99926131065_112025-O.webp`,
+    h1: `Smartwatch: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227)** (alrededor de {{precio:MLA42520227:k}}): el 1° más vendido de la categoría en MercadoLibre Argentina, con GPS real. Si buscás el más económico, el **[JD Venecia Sport](/producto/MLA26666337)**. Si priorizás la mayor cantidad de funciones, el **[Amazfit Bip 6](/producto/MLA51929440)**, con asistente de voz por IA. Y si tu prioridad es no cargarlo casi nunca, el **[Haylou Solar LS05S](/producto/MLA24530447)**, con 15 días de batería declarados.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un smartwatch va de {{precio:MLA26666337:k}} (el más económico) a {{precio:MLA51929440:k}} (el premium). La diferencia real no es solo el precio: es si tiene GPS real (sin depender del celular), cuánta batería dura de verdad, y qué sensores están confirmados por el fabricante. Comparamos 4 con precios reales de MercadoLibre Argentina, evitando los clones genéricos con claims de salud sin certificar.`,
+    quickPicks: [
+      { productMlaId: "MLA42520227", label: "Mejor elección general", labelColor: "green", tagline: "Xiaomi Redmi Watch 5 Lite: el más vendido, GPS real" },
+      { productMlaId: "MLA26666337", label: "La más económica", labelColor: "slate", tagline: "JD Venecia Sport: lo básico, sin GPS" },
+      { productMlaId: "MLA51929440", label: "La premium", labelColor: "purple", tagline: "Amazfit Bip 6: asistente de voz con IA, batería confirmada" },
+      { productMlaId: "MLA24530447", label: "Batería de 15 días", labelColor: "blue", tagline: "Haylou Solar LS05S: para no cargarlo casi nunca" },
+    ],
+    intro: [
+      `El mercado de smartwatches en MercadoLibre Argentina tiene de todo: desde marcas con trazabilidad real (Xiaomi, Amazfit) hasta clones genéricos que imitan el diseño de un Apple Watch con claims de salud que ningún fabricante certifica. Esta guía evita esos clones deliberadamente y compara 4 opciones de marcas identificables, con GPS real cuando lo tienen y sensores confirmados por el fabricante.`,
+      `La batería declarada en la caja casi siempre rinde menos en uso real, sobre todo si usás GPS y Bluetooth conectado todo el día. Comparamos los 4 con esa brecha en mente, citando reseñas reales que confirman o contradicen lo que promete cada fabricante.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_661173-MLA99926131065_112025-O.webp", alt: `Smartwatch Xiaomi Redmi Watch 5 Lite, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227)**: el más vendido, con GPS real. Si buscás **el más económico**, el **[JD Venecia Sport](/producto/MLA26666337)**. Si priorizás **más funciones**, el **[Amazfit Bip 6](/producto/MLA51929440)**. Y si tu prioridad es **no cargarlo casi nunca**, el **[Haylou Solar LS05S](/producto/MLA24530447)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los smartwatches con más ventas y opiniones reales en MercadoLibre Argentina, de marcas con trazabilidad confirmada. Evitamos deliberadamente los clones genéricos tipo "X8 Ultra" o "S8 Ultra" que imitan el diseño de un Apple Watch con claims de salud sin certificar. Cruzamos batería declarada contra batería real reportada en reseñas. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "warning", content: `Ningún smartwatch mide con precisión clínica: son dispositivos de consumo, no equipos médicos. En esta guía marcamos explícitamente cuando un sensor de salud (presión arterial, frecuencia cardíaca) que algunos compradores mencionan usar no está confirmado en la ficha técnica oficial del fabricante, como pasa con el JD Venecia Sport. No uses ningún smartwatch de esta guía como reemplazo de un control médico.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un smartwatch`, id: "que-mirar" },
+      { type: "p", content: `Primero, **GPS real o no**: un GPS integrado mide distancia sin necesidad de llevar el celular; sin GPS, algunos relojes dependen de la conexión con el teléfono para esa función. Segundo, la **batería real**: el número de la caja siempre es el mejor caso, en uso con GPS y Bluetooth conectado todo el día rinde bastante menos. Tercero, qué **sensores confirma el fabricante**: desconfiá de cualquier función de salud (presión arterial, oxígeno) que no aparezca en la ficha técnica oficial.` },
+      { type: "p", content: `Un dato importante para toda la categoría: ningún smartwatch de esta guía, ni ningún smartwatch de consumo en general, reemplaza un control médico profesional. Las mediciones de frecuencia cardíaca y oxígeno son orientativas, no diagnósticas.` },
+
+      { type: "h2", title: `Los mejores smartwatches 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Xiaomi Redmi Watch 5 Lite — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA42520227", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Pantalla AMOLED, GPS real integrado. 4.8 estrellas, 1° más vendido de la categoría en MercadoLibre Argentina.` },
+      { type: "p", content: `El 1° más vendido de la categoría, con GPS real integrado y pantalla AMOLED, a alrededor de {{precio:MLA42520227:k}}.` },
+      { type: "p", content: `La contra real: la batería declarada (18 días) baja a 7-15 días en uso real, según reseñas reales.` },
+      { type: "pull-quote", content: `"Tiene gps incorporado. No hace falta salir con el celular. Ideal para medir distancias. Usa aplicación mi fitness."`, attribution: `Opinión verificada en MercadoLibre (337 votos útiles)` },
+
+      { type: "h3", title: `2. JD Venecia Sport — la más económica` },
+      { type: "product-card", productMlaId: "MLA26666337", label: "La más económica", labelColor: "slate", ranking: 2, description: `Notificaciones y llamadas por Bluetooth, sin GPS. 4.5 estrellas en 5.876 calificaciones, la más barata de esta guía.` },
+      { type: "p", content: `La más económica de esta guía, de tienda oficial con más de 100 mil ventas, a alrededor de {{precio:MLA26666337:k}}.` },
+      { type: "p", content: `La contra real: algunos compradores mencionan funciones de salud (presión, latidos) que la ficha técnica oficial no confirma.` },
+
+      { type: "h3", title: `3. Amazfit Bip 6 — la premium` },
+      { type: "product-card", productMlaId: "MLA51929440", label: "La premium", labelColor: "purple", ranking: 3, description: `GPS real, AMOLED, asistente de voz con IA. 4.9 estrellas, batería de 2 semanas confirmada por reseñas reales.` },
+      { type: "p", content: `La opción más completa de esta guía, con asistente de voz por IA que responde WhatsApp, a alrededor de {{precio:MLA51929440:k}}.` },
+      { type: "p", content: `Lo honesto: no tiene NFC pese a ser la más cara de la comparativa.` },
+
+      { type: "h3", title: `4. Haylou Solar LS05S — batería de 15 días` },
+      { type: "product-card", productMlaId: "MLA24530447", label: "Batería de 15 días", labelColor: "blue", ranking: 4, description: `Sin GPS, pantalla TFT LCD. 4.7 estrellas, pensado explícitamente para no cargarlo casi nunca.` },
+      { type: "p", content: `El único de esta guía pensado explícitamente para 15 días de autonomía, a alrededor de {{precio:MLA24530447:k}}.` },
+      { type: "p", content: `La contra real: muy pocas reseñas (75) comparado con las otras 3 opciones, y stock ajustado al momento de revisar el precio.` },
+
+      { type: "h2", title: `Tabla comparativa: GPS, batería y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `GPS`, `Batería declarada`, `Ideal para`], rows: [
+        [`[Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227)`, `{{precio:MLA42520227}}`, `Real, integrado`, `18 días (7-15 en uso real)`, `El más vendido`],
+        [`[JD Venecia Sport](/producto/MLA26666337)`, `{{precio:MLA26666337}}`, `No tiene`, `1 semana`, `Precio y básicos`],
+        [`[Amazfit Bip 6](/producto/MLA51929440)`, `{{precio:MLA51929440}}`, `Real, integrado`, `2 semanas (confirmada)`, `Más funciones, IA`],
+        [`[Haylou Solar LS05S](/producto/MLA24530447)`, `{{precio:MLA24530447}}`, `No tiene`, `15 días declarados`, `No cargarlo casi nunca`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu smartwatch`, id: "como-elegir" },
+      { type: "h3", title: `¿Necesitás GPS real?` },
+      { type: "p", content: `Si corrés o andas en bici sin el celular, necesitás GPS real integrado, como el Xiaomi o el Amazfit de esta guía. El JD Venecia y el Haylou no lo tienen.` },
+      { type: "h3", title: `¿Cuánto tiempo querés pasar sin cargarlo?` },
+      { type: "p", content: `Si te olvidás de cargar dispositivos, el Haylou Solar (15 días) o el Amazfit Bip 6 (2 semanas confirmadas) de esta guía rinden mejor que el resto.` },
+      { type: "h3", title: `¿Confiás en las mediciones de salud?` },
+      { type: "p", content: `Ningún smartwatch de esta guía reemplaza un control médico. Desconfiá de cualquier función (presión arterial, por ejemplo) que no esté confirmada en la ficha técnica oficial del fabricante, como pasa con el JD Venecia.` },
+
+      { type: "verdict", content: `Para la mayoría, el **[Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227)** es la compra más segura: el más vendido, con GPS real. Si buscás el más económico, el **[JD Venecia Sport](/producto/MLA26666337)**. Si priorizás más funciones, el **[Amazfit Bip 6](/producto/MLA51929440)**. Y si tu prioridad es no cargarlo casi nunca, el **[Haylou Solar LS05S](/producto/MLA24530447)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor smartwatch en Argentina?`, answer: `Para la mayoría, el [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227): el 1° más vendido de la categoría en MercadoLibre Argentina, con GPS real integrado.` },
+      { question: `¿Los smartwatches miden la presión arterial con precisión?`, answer: `No de forma confiable. Ningún producto de esta guía tiene ese sensor confirmado por el fabricante como una función médica certificada. Si tu ficha menciona compradores que la usan (como el JD Venecia), tratalo como orientativo, no como un dato de salud.` },
+      { question: `¿Cuánto dura la batería en uso real?`, answer: `Depende del modelo y de cuánto uses GPS y Bluetooth conectado. El Amazfit Bip 6 tiene su batería de 2 semanas confirmada por reseñas reales; el Xiaomi baja de 18 días declarados a 7-15 en uso real.` },
+      { question: `¿Necesito GPS en el reloj o alcanza con el del celular?`, answer: `Si entrenás sin llevar el celular, necesitás GPS real integrado, como el [Xiaomi](/producto/MLA42520227) o el [Amazfit](/producto/MLA51929440) de esta guía.` },
+      { question: `¿Por qué evitaron los smartwatches tipo "X8 Ultra" o "S8 Ultra"?`, answer: `Son clones genéricos sin marca trazable que imitan el diseño de un Apple Watch, frecuentemente con claims de salud (medición de glucosa, precisión clínica) que ningún fabricante certifica. Esta guía prioriza marcas identificables.` },
+    ],
+    internalLinks: [
+      { label: "Cargador portátil: cuál comprar en Argentina", href: "/guias/tech/cargador-portatil" },
+    ],
+    internalLinksTitle: "Más tech para tu día a día",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva botella-termica — silo bebidas-termicas, categoria
+  // "botellas-termicas". Origen: research de silos flacos 2026-07-19
+  // (2da tanda), keyword "botella termica" (9.900/mes, Keyword
+  // Planner). Fichas sourceadas vía Bright Data el mismo día. Par
+  // natural de la guía `termo` (mate), que ya vinculamos en ambos
+  // sentidos.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "botella-termica",
+    category: "botellas-termicas",
+    silo: "bebidas-termicas",
+    title: `Botella térmica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Botella Térmica: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos las botellas térmicas más vendidas de Argentina: Contigo, Thermio, Stanley y Coleman. Horas de conservación reales y contras honestas.`,
+    ogTitle: `Botella térmica: cuál comprar en Argentina`,
+    ogDescription: `Contigo, Thermio, Stanley y Coleman comparadas: cuántas horas conservan el frío y el calor de verdad, según reseñas reales y fabricante. Precios de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_857854-MLA107369531201_022026-F.webp`,
+    h1: `Botella térmica: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Contigo Matterhorn Gym](/producto/MLA26272858)** (alrededor de {{precio:MLA26272858:k}}): la más elegida de esta guía, con casi 10 mil calificaciones reales. Si priorizás precio y capacidad, la **[Thermio 750ml](/producto/MLA59806380)** (alrededor de {{precio:MLA59806380:k}}) es más barata y más grande. Si buscás la marca más reconocida, la **[Stanley Wellspring](/producto/MLA68286776)** (solo para frío). Y si querés el dato de retención de temperatura mejor verificado, la **[Coleman Freeflow](/producto/MLA45095352)**, con 31 horas de frío declaradas por el fabricante y repetidas exacto en la ficha de MercadoLibre.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una botella térmica va de {{precio:MLA59806380:k}} (la más barata) a {{precio:MLA68286776:k}} (la premium). La diferencia real no es solo el precio: es cuántas horas conserva el frío o el calor de verdad, más allá de lo que promete la caja. Comparamos 4 con datos verificados contra el fabricante y reseñas reales de MercadoLibre Argentina.`,
+    quickPicks: [
+      { productMlaId: "MLA26272858", label: "Mejor elección general", labelColor: "green", tagline: "Contigo Matterhorn: la más elegida, casi 10 mil calificaciones" },
+      { productMlaId: "MLA59806380", label: "La más económica", labelColor: "slate", tagline: "Thermio 750ml: más barata y con más capacidad" },
+      { productMlaId: "MLA68286776", label: "La premium", labelColor: "purple", tagline: "Stanley Wellspring: la marca más reconocida (solo frío)" },
+      { productMlaId: "MLA45095352", label: "Retención verificada", labelColor: "blue", tagline: "Coleman Freeflow: 31 h de frío, fabricante y ficha coinciden" },
+    ],
+    intro: [
+      `Todas las botellas térmicas prometen horas de conservación en la caja, pero no todas cumplen igual en uso real. La diferencia entre una marca y otra no siempre es la calidad del acero: a veces es la brecha entre el dato de laboratorio del fabricante y lo que reporta un comprador real después de un día de uso.`,
+      `En esta guía comparamos 4 botellas térmicas vendidas en MercadoLibre Argentina, cruzando lo que dice cada fabricante contra lo que cuentan las reseñas reales, para que sepas antes de comprar cuál conservación podés esperar de verdad.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_857854-MLA107369531201_022026-F.webp", alt: `Botella térmica Contigo Matterhorn Gym, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Contigo Matterhorn Gym](/producto/MLA26272858)**: la más elegida, con casi 10 mil calificaciones reales. Si priorizás **precio y capacidad**, la **[Thermio 750ml](/producto/MLA59806380)**. Si buscás **la marca más reconocida**, la **[Stanley Wellspring](/producto/MLA68286776)** (solo frío). Y si querés el **dato de retención mejor verificado**, la **[Coleman Freeflow](/producto/MLA45095352)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las botellas térmicas con más ventas y opiniones reales en MercadoLibre Argentina. Cruzamos la retención de temperatura declarada por cada fabricante contra la ficha de MercadoLibre y contra reseñas reales de compradores, para separar el dato de laboratorio del uso cotidiano. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una botella térmica`, id: "que-mirar" },
+      { type: "p", content: `Primero, la **capacidad**: de 591 mL a 750 mL en esta guía, según si la vas a usar para el día completo o solo unas horas. Segundo, la **retención de frío y calor**: fijate si el fabricante la declara, y desconfiá un poco de los números más altos: en uso real (tapa que se abre varias veces, temperatura ambiente) siempre rinde menos que en el laboratorio. Tercero, si necesitás **ambos usos** (frío y calor): no todas las botellas premium sirven para las dos cosas, como vas a ver con la Stanley de esta guía.` },
+      { type: "p", content: `Un dato que se repite en las reseñas de la categoría: la retención real casi siempre es menor a la declarada en la caja. No es necesariamente un engaño, es la diferencia entre condiciones de laboratorio y uso cotidiano. La mejor señal para confiar en un número es que coincida entre fabricante y ficha de MercadoLibre, como pasa con la Coleman de esta guía, y que ninguna reseña real lo contradiga.` },
+
+      { type: "h2", title: `Las mejores botellas térmicas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Contigo Matterhorn Gym — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA26272858", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `591 mL, tecnología THERMALOCK. 4.8 estrellas en 9.974 calificaciones, la más elegida de esta guía por lejos.` },
+      { type: "p", content: `La más elegida de esta guía por lejos: 9.974 calificaciones, muy por encima de cualquier otra opción del sourcing, a alrededor de {{precio:MLA26272858:k}}.` },
+      { type: "p", content: `La contra real: la retención real es menor a la declarada por el fabricante (24 h frío), según la reseña más útil de la publicación.` },
+      { type: "pull-quote", content: `"Herméticamente es excelente, los materiales son buenos... lo que no dura es la temperatura que figura en las especificaciones. Bebidas heladas mantienen la temperatura hasta 5/6 horas... en promedio la bebida en condiciones de ser bebible dura unas 8/9 horas."`, attribution: `Opinión verificada en MercadoLibre (99 votos útiles)` },
+
+      { type: "h3", title: `2. Thermio 750ml — la más económica` },
+      { type: "product-card", productMlaId: "MLA59806380", label: "La más económica", labelColor: "slate", ranking: 2, description: `750 mL, acero inoxidable. 4.8 estrellas en 4.487 calificaciones, la más barata de esta guía.` },
+      { type: "p", content: `La más barata de esta guía y con mayor capacidad que la elección general, a alrededor de {{precio:MLA59806380:k}}.` },
+      { type: "p", content: `Lo destacable: una reseña real hizo la prueba en casa y el agua con hielo superó las 24 horas frías. La contra real: la pintura se puede levantar con un golpe fuerte.` },
+
+      { type: "h3", title: `3. Stanley Wellspring — la premium` },
+      { type: "product-card", productMlaId: "MLA68286776", label: "La premium", labelColor: "purple", ranking: 3, description: `710 mL, acero 18/8 reciclado, tapa push-button. 4.9 estrellas, pero solo 104 calificaciones. Solo para bebidas frías.` },
+      { type: "p", content: `La marca de mayor reconocimiento global de esta guía, a alrededor de {{precio:MLA68286776:k}}, bastante más cara que el resto (de casi el doble a casi 5 veces, según con cuál la compares).` },
+      { type: "p", content: `Lo honesto: no es apta para bebidas calientes, según su ficha de MercadoLibre, y tiene mucho menos volumen de reseñas locales (104) que las otras opciones de esta guía.` },
+
+      { type: "h3", title: `4. Coleman Freeflow — retención verificada` },
+      { type: "product-card", productMlaId: "MLA45095352", label: "Retención verificada", labelColor: "blue", ranking: 4, description: `700 mL, tapa AUTOSEAL. 4.9 estrellas en 305 calificaciones. 31 h de frío según fabricante y ficha, que coinciden exacto.` },
+      { type: "p", content: `La única de esta guía con su claim de retención coincidente entre fabricante y ficha de MercadoLibre, a alrededor de {{precio:MLA45095352:k}}.` },
+      { type: "p", content: `La contra real: el stock estaba ajustado al momento de revisar el precio (solo 3 unidades disponibles); verificá disponibilidad antes de comprar.` },
+
+      { type: "h2", title: `Tabla comparativa: capacidad, retención y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Capacidad`, `Retención frío`, `Ideal para`], rows: [
+        [`[Contigo Matterhorn](/producto/MLA26272858)`, `{{precio:MLA26272858}}`, `591 mL`, `24 h (declarado), ~8-9 h en uso real`, `La más elegida`],
+        [`[Thermio 750ml](/producto/MLA59806380)`, `{{precio:MLA59806380}}`, `750 mL`, `24 h+ confirmado por reseñas`, `Precio y capacidad`],
+        [`[Stanley Wellspring](/producto/MLA68286776)`, `{{precio:MLA68286776}}`, `710 mL`, `9-30 h (declarado), solo frío`, `Marca reconocida`],
+        [`[Coleman Freeflow](/producto/MLA45095352)`, `{{precio:MLA45095352}}`, `700 mL`, `31 h, fabricante y ficha coinciden`, `Retención verificada`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu botella térmica`, id: "como-elegir" },
+      { type: "h3", title: `¿Necesitás frío y calor, o solo frío?` },
+      { type: "p", content: `La Contigo, la Thermio y la Coleman de esta guía sirven para ambos usos. La Stanley Wellspring es solo para bebidas frías, según su propia ficha de MercadoLibre — un dato a tener en cuenta si pensás usarla también para café o mate cocido.` },
+      { type: "h3", title: `¿Cuánto confiás en el número de la caja?` },
+      { type: "p", content: `Los datos mejor respaldados son los que coinciden entre el fabricante y la ficha de MercadoLibre, como pasa con la Coleman de esta guía, sin que ninguna reseña real los contradiga. Cuando solo hay un número de marketing sin corroborar, conviene esperar un rendimiento algo menor en uso cotidiano.` },
+      { type: "h3", title: `¿Marca reconocida o mejor relación precio-desempeño?` },
+      { type: "p", content: `Si el reconocimiento de marca es tu prioridad, la Stanley. Si buscás la mejor relación precio-desempeño con más respaldo de compradores reales, la Contigo o la Thermio de esta guía.` },
+
+      { type: "verdict", content: `Para la mayoría, la **[Contigo Matterhorn Gym](/producto/MLA26272858)** es la compra más segura: la más elegida, con el mayor respaldo de compradores reales. Si el precio y la capacidad son tu prioridad, la **[Thermio 750ml](/producto/MLA59806380)**. Si buscás la marca más reconocida (solo frío), la **[Stanley Wellspring](/producto/MLA68286776)**. Y si querés el dato de retención mejor verificado, la **[Coleman Freeflow](/producto/MLA45095352)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor botella térmica en Argentina?`, answer: `Para la mayoría, la [Contigo Matterhorn Gym](/producto/MLA26272858): la más elegida, con casi 10 mil calificaciones reales. Si buscás la más barata, la [Thermio 750ml](/producto/MLA59806380).` },
+      { question: `¿Las botellas térmicas conservan realmente lo que dice la caja?`, answer: `Depende del modelo. La Coleman de esta guía tiene su claim coincidente entre fabricante y ficha, y coherente con una reseña real. La Contigo, en cambio, tiene una reseña real que reporta menos horas de las declaradas por el fabricante — la diferencia habitual entre laboratorio y uso cotidiano.` },
+      { question: `¿Todas sirven para bebidas frías y calientes?`, answer: `No. La [Stanley Wellspring](/producto/MLA68286776) de esta guía es solo para frío, según su ficha de MercadoLibre. La Contigo, la Thermio y la Coleman sirven para ambos usos.` },
+      { question: `¿Vale la pena pagar más por una marca reconocida como Stanley?`, answer: `Depende de qué priorices. La Stanley tiene el mayor reconocimiento de marca, pero el menor volumen de reseñas locales de esta guía (104) y cuesta bastante más que las otras opciones (de casi el doble a casi 5 veces, según con cuál la compares).` },
+      { question: `¿Qué diferencia hay con un termo para mate?`, answer: `El termo está pensado para cebar mate (pico específico, tapón cebador en algunos modelos) y suele tener mayor capacidad. La botella térmica de esta guía está pensada para hidratación diaria (agua fría o caliente para llevar). Si buscás la opción para mate, mirá la [guía de termo](/guias/bebidas-termicas/termo) del sitio.` },
+      { question: `¿Se puede lavar en el lavavajillas?`, answer: `No encontramos ese dato confirmado para ninguna de las 4 botellas de esta guía. Por las dudas, conviene lavarlas a mano con agua tibia y dejarlas secar destapadas.` },
+    ],
+    internalLinks: [
+      { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Bombilla de mate: cuál comprar en Argentina", href: "/guias/bebidas-termicas/bombilla-de-mate" },
+    ],
+    internalLinksTitle: "Más para tu hidratación diaria",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva parrilla-electrica — silo cocina, categoria
+  // "parrillas-electricas". Origen: research de silos flacos
+  // 2026-07-19 (2da tanda), keyword "parrilla eléctrica" (6.600/mes,
+  // Keyword Planner). Fichas sourceadas vía Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "parrilla-electrica",
+    category: "parrillas-electricas",
+    silo: "cocina",
+    title: `Parrilla eléctrica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Parrilla Eléctrica: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos las parrillas eléctricas más vendidas de Argentina: Black+Decker, Atma, Philco y Novohome. Precios reales y contras honestas.`,
+    ogTitle: `Parrilla eléctrica: cuál comprar en Argentina`,
+    ogDescription: `Black+Decker, Atma, Philco y Novohome comparadas: superficie, potencia y precio real de MercadoLibre. La guía honesta.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_977421-MLA96074226001_102025-F.webp`,
+    h1: `Parrilla eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Black+Decker Sizzlelean](/producto/MLA14097409)** (alrededor de {{precio:MLA14097409:k}}): la más vendida de esta guía, con doble superficie de parrilla y plancha. Si buscás algo compacto con tapa, la **[Atma PG4720E](/producto/MLA26041341)**. Para cocinar para varias personas a la vez, la **[Philco PGE389BP](/producto/MLA41223080)**, con dos zonas simultáneas. Y si priorizás precio y velocidad, la **[Novohome NH-GR1000](/producto/MLA56253561)**, con tapa a presión que cocina de los dos lados a la vez.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una parrilla eléctrica va de {{precio:MLA56253561:k}} (la más barata) a {{precio:MLA41223080:k}} (la más grande). No todas cocinan igual: algunas tienen tapa, algunas suman doble superficie, y otras cocinan de los dos lados a la vez. Comparamos 4 con precios reales de MercadoLibre Argentina y las contras que cuentan los compradores.`,
+    quickPicks: [
+      { productMlaId: "MLA14097409", label: "Mejor elección general", labelColor: "green", tagline: "Black+Decker Sizzlelean: la más vendida, doble superficie" },
+      { productMlaId: "MLA26041341", label: "Compacta con tapa", labelColor: "slate", tagline: "Atma PG4720E: con tapa, marca con service oficial" },
+      { productMlaId: "MLA41223080", label: "Grande / familiar", labelColor: "blue", tagline: "Philco PGE389BP: doble mesada, 2 zonas simultáneas" },
+      { productMlaId: "MLA56253561", label: "La más económica", labelColor: "amber", tagline: "Novohome NH-GR1000: tapa a presión, cocina de los 2 lados" },
+    ],
+    intro: [
+      `Una parrilla eléctrica no reemplaza la de carbón o leña, pero resuelve el antojo de una carne a la parrilla en departamentos sin patio, o cuando no da el tiempo para prender el fuego. La diferencia entre modelos no es solo el precio: es si tiene tapa (cocina más rápido y con menos humo), cuánta superficie ofrece, y si podés cocinar dos cosas distintas a la vez.`,
+      `En esta guía comparamos 4 parrillas eléctricas vendidas en MercadoLibre Argentina, con las contras reales que reportan los compradores: casi todas relacionadas con el tamaño real de porciones que rinden, no con fallas del producto.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_977421-MLA96074226001_102025-F.webp", alt: `Parrilla eléctrica Black+Decker Sizzlelean, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Black+Decker Sizzlelean](/producto/MLA14097409)**: la más vendida, con doble superficie. Si buscás algo **compacto con tapa**, la **[Atma PG4720E](/producto/MLA26041341)**. Para **varias personas a la vez**, la **[Philco PGE389BP](/producto/MLA41223080)**. Y si priorizás **precio y velocidad**, la **[Novohome NH-GR1000](/producto/MLA56253561)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las parrillas eléctricas con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: superficie de cocción, si tienen tapa, y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una parrilla eléctrica`, id: "que-mirar" },
+      { type: "p", content: `Primero, **si tiene tapa**: cocina más rápido, más parejo y con menos humo que una superficie abierta. Segundo, la **superficie de cocción**: cuántas porciones rinde de una tanda, y si suma una zona extra (plancha) para cocinar distinto tipo de alimento. Tercero, la **potencia**: de 1.400 a 2.000 W en esta guía, más potencia calienta más rápido.` },
+      { type: "p", content: `Un dato importante que se repite en las reseñas de la categoría: ninguna parrilla eléctrica de esta guía reemplaza una parrilla de carbón o leña para un asado grande de piezas grandes (como un vacío entero). Todas rinden mejor con cortes chicos o medianos, tipo "vuelta y vuelta", para 1 a 4 personas según el modelo.` },
+
+      { type: "h2", title: `Las mejores parrillas eléctricas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Black+Decker Sizzlelean — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA14097409", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `1.500 W, doble superficie (parrilla + plancha), sin tapa. 4.8 estrellas en 2.055 calificaciones, la más vendida de esta guía.` },
+      { type: "p", content: `La más vendida de esta guía por lejos: 2.055 calificaciones y badge oficial "MÁS VENDIDO" de MercadoLibre, a alrededor de {{precio:MLA14097409:k}}.` },
+      { type: "p", content: `La contra real: no tiene tapa, así que cocina un poco más lento y humea más si hay mucha grasa, según reseñas reales.` },
+      { type: "pull-quote", content: `"...suplanta a una plancha bifera tradicional... la grasa cae en la bandeja... por supuesto no suplanta a una parrilla tradicional, pero si necesitás algo para 2-3 personas, comprala."`, attribution: `Opinión verificada en MercadoLibre (48 votos útiles)` },
+
+      { type: "h3", title: `2. Atma PG4720E — compacta con tapa` },
+      { type: "product-card", productMlaId: "MLA26041341", label: "Compacta con tapa", labelColor: "slate", ranking: 2, description: `1.400 W, con tapa, marca con service oficial en Argentina. 4.7 estrellas.` },
+      { type: "p", content: `Suma tapa (cocina más parejo, menos humo) de una marca con respaldo local, a alrededor de {{precio:MLA26041341:k}}.` },
+      { type: "p", content: `La contra real: la perilla se siente endeble en caliente y la agarradera es de plástico, según reseñas reales.` },
+
+      { type: "h3", title: `3. Philco PGE389BP — grande / familiar` },
+      { type: "product-card", productMlaId: "MLA41223080", label: "Grande / familiar", labelColor: "blue", ranking: 3, description: `2.000 W, doble mesada, 2 zonas de cocción simultáneas. 4.6 estrellas, tienda oficial Philco/Newsan.` },
+      { type: "p", content: `La única con dos zonas de cocción simultáneas de esta guía, a alrededor de {{precio:MLA41223080:k}}, la más cara de la comparativa.` },
+      { type: "p", content: `Lo honesto: no sirve para cortes grandes de una sola pieza (desborda el depósito de grasa), según una reseña real. Es "grande" por tener dos zonas a la vez, no por profundidad.` },
+
+      { type: "h3", title: `4. Novohome NH-GR1000 — la más económica` },
+      { type: "product-card", productMlaId: "MLA56253561", label: "La más económica", labelColor: "amber", ranking: 4, description: `1.500 W, tapa tipo prensa con apertura 180°, cocina de los dos lados a la vez. 4.6 estrellas.` },
+      { type: "p", content: `La más barata de esta guía, con tapa a presión que cocina de los dos lados a la vez, a alrededor de {{precio:MLA56253561:k}}.` },
+      { type: "p", content: `La contra real: las placas no son desmontables y el tamaño es chico para más de 2 personas, según reseñas reales.` },
+
+      { type: "h2", title: `Tabla comparativa: superficie, potencia y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Tapa`, `Ideal para`], rows: [
+        [`[Black+Decker Sizzlelean](/producto/MLA14097409)`, `{{precio:MLA14097409}}`, `1.500 W`, `No`, `La más vendida, doble superficie`],
+        [`[Atma PG4720E](/producto/MLA26041341)`, `{{precio:MLA26041341}}`, `1.400 W`, `Sí`, `Compacta, marca con service local`],
+        [`[Philco PGE389BP](/producto/MLA41223080)`, `{{precio:MLA41223080}}`, `2.000 W`, `Sí`, `Varias personas, 2 zonas a la vez`],
+        [`[Novohome NH-GR1000](/producto/MLA56253561)`, `{{precio:MLA56253561}}`, `1.500 W`, `Prensa 180°`, `1-2 personas, precio y velocidad`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu parrilla eléctrica`, id: "como-elegir" },
+      { type: "h3", title: `¿Cuántas personas cocinás habitualmente?` },
+      { type: "p", content: `Para 1-2 personas, la Novohome de esta guía alcanza y es la más barata. Para 2-3, la Black+Decker. Para grupos más grandes o cocinar variado a la vez, la Philco, con dos zonas simultáneas.` },
+      { type: "h3", title: `¿Con tapa o sin tapa?` },
+      { type: "p", content: `Con tapa cocina más rápido, más parejo y con menos humo. La Atma, la Philco y la Novohome (con tapa a presión) de esta guía la tienen; la Black+Decker no.` },
+      { type: "h3", title: `¿Cortes chicos o un asado grande?` },
+      { type: "p", content: `Ninguna parrilla eléctrica de esta guía reemplaza una de carbón o leña para piezas grandes como un vacío entero. Todas rinden mejor con cortes chicos o medianos, tipo "vuelta y vuelta".` },
+
+      { type: "verdict", content: `Para la mayoría, la **[Black+Decker Sizzlelean](/producto/MLA14097409)** es la compra más segura: la más vendida, con doble superficie. Si buscás algo compacto con tapa, la **[Atma PG4720E](/producto/MLA26041341)**. Para varias personas a la vez, la **[Philco PGE389BP](/producto/MLA41223080)**. Y si priorizás precio y velocidad, la **[Novohome NH-GR1000](/producto/MLA56253561)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor parrilla eléctrica en Argentina?`, answer: `Para la mayoría, la [Black+Decker Sizzlelean](/producto/MLA14097409): la más vendida, con doble superficie de parrilla y plancha.` },
+      { question: `¿Una parrilla eléctrica reemplaza a una de carbón?`, answer: `No para cortes grandes. Ninguna de esta guía sirve para piezas grandes como un vacío entero; todas rinden mejor con cortes chicos o medianos, tipo "vuelta y vuelta".` },
+      { question: `¿Con tapa o sin tapa, cuál conviene?`, answer: `Con tapa cocina más rápido, más parejo y con menos humo. La [Atma](/producto/MLA26041341), la [Philco](/producto/MLA41223080) y la [Novohome](/producto/MLA56253561) de esta guía la tienen; la [Black+Decker](/producto/MLA14097409) no.` },
+      { question: `¿Cuál rinde para más personas?`, answer: `La [Philco PGE389BP](/producto/MLA41223080), con doble mesada y dos zonas de cocción simultáneas, es la única pensada para cocinar variado y para varias personas a la vez.` },
+      { question: `¿Se pueden lavar las placas en el lavavajillas?`, answer: `No encontramos ese dato confirmado para ninguna de las 4. La [Novohome](/producto/MLA56253561) además tiene placas fijas, no desmontables, así que conviene limpiarla con cuidado a mano.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: cuál comprar en Argentina", href: "/guias/cocina/microondas" },
+      { label: "Procesadora de alimentos: cuál comprar en Argentina", href: "/guias/cocina/procesadora-de-alimentos" },
+    ],
+    internalLinksTitle: "Más para tu cocina",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva alarma-para-casa — silo seguridad, categoria
+  // "alarmas-para-casa". Origen: research de silos flacos 2026-07-19
+  // (2da tanda), keyword "alarma para casa" (4.400/mes, CPC alto,
+  // Keyword Planner). Fichas sourceadas vía Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "alarma-para-casa",
+    category: "alarmas-para-casa",
+    silo: "seguridad",
+    title: `Alarma para casa: cuál comprar en Argentina [2026]`,
+    seoTitle: `Alarma para Casa: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos las alarmas para casa más vendidas de Argentina: PST, i-tob, Hikvision y Tuya. Precios reales y contras honestas de compradores.`,
+    ogTitle: `Alarma para casa: cuál comprar en Argentina`,
+    ogDescription: `PST G30, i-tob, Hikvision AXHome y sensor solar Tuya comparados: qué incluye cada kit y qué dicen las reseñas reales. Precios de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_744521-MLA99387109980_112025-F.webp`,
+    h1: `Alarma para casa: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Kit PST G30](/producto/MLA28261746)** (alrededor de {{precio:MLA28261746:k}}): el más completo y con más reseñas reales de esta guía. Si buscás el kit más económico, el **[i-tob KIT4s](/producto/MLA58030955)**. Si priorizás el respaldo de una marca global con monitoreo por app, el **[Hikvision AXHome](/producto/MLA43987591)**. Y si solo necesitás cubrir un punto de exterior sin instalar una central, el **[sensor solar Tuya](/producto/MLA45993557)**.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Un kit de alarma para casa va de {{precio:MLA58030955:k}} (el más económico) a {{precio:MLA43987591:k}} (el de mayor cobertura). La diferencia real no es solo el precio: es cuántos sensores trae, si tiene respaldo celular además de WiFi, y qué tan bien funciona ese respaldo en la práctica. Comparamos 4 opciones con precios reales de MercadoLibre Argentina y las contras que cuentan los compradores.`,
+    quickPicks: [
+      { productMlaId: "MLA28261746", label: "Mejor elección general", labelColor: "green", tagline: "PST G30: el kit más completo, 861 opiniones reales" },
+      { productMlaId: "MLA58030955", label: "La más económica", labelColor: "slate", tagline: "i-tob KIT4s: kit completo al menor precio" },
+      { productMlaId: "MLA43987591", label: "Monitoreo por app", labelColor: "blue", tagline: "Hikvision AXHome: marca global, WiFi + 4G" },
+      { productMlaId: "MLA45993557", label: "Para exterior sin central", labelColor: "purple", tagline: "Sensor solar Tuya: standalone, carga solar" },
+    ],
+    intro: [
+      `Un kit de alarma para casa bien elegido combina sensores, sirena y una forma de avisarte si pasa algo, incluso si se corta la luz o el WiFi. La categoría en MercadoLibre Argentina está dominada por marcas OEM chinas con distribución local (PST, i-tob) y por marcas globales de seguridad electrónica (Hikvision), cada una con un enfoque distinto de cobertura y precio.`,
+      `En esta guía comparamos 4 alarmas para casa vendidas en MercadoLibre Argentina, con las contras reales que reportan los compradores: casi todas relacionadas con la conectividad de respaldo y la instalación, no con fallas de fábrica.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_744521-MLA99387109980_112025-F.webp", alt: `Kit de alarma para casa PST G30, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Kit PST G30](/producto/MLA28261746)**: el más completo, con más reseñas reales. Si buscás el **más económico**, el **[i-tob KIT4s](/producto/MLA58030955)**. Si priorizás **una marca global con monitoreo por app**, el **[Hikvision AXHome](/producto/MLA43987591)**. Y si solo necesitás **cubrir un punto de exterior**, el **[sensor solar Tuya](/producto/MLA45993557)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los kits de alarma para casa con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: qué incluye el kit, tipo de conectividad de respaldo, y precio. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "warning", content: `Ninguno de los 4 productos de esta guía —ni sus fichas de MercadoLibre ni las páginas oficiales de fabricante que revisamos— menciona homologación ENACOM de forma explícita. Es un patrón generalizado en esta categoría en MercadoLibre Argentina. No encontramos denuncias de fallas de seguridad graves en las reseñas reales de los 3 kits con historial: las contras reales que reportan los compradores son de conectividad y de instalación (WiFi que no pasa a 4G automático, cable de sirena no incluido, manual confuso), no de seguridad del dispositivo en sí.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una alarma para casa`, id: "que-mirar" },
+      { type: "p", content: `Primero, **qué incluye el kit**: cuántos sensores de movimiento y de puerta/ventana trae, y si la sirena es interior, exterior, o ambas. Segundo, la **conectividad de respaldo**: si además del WiFi tiene chip celular (GSM/4G) para seguir avisando cuando se corta internet, y si ese paso es automático o hay que activarlo manualmente. Tercero, si necesitás **cubrir toda la casa** con una central, o solo **un punto puntual** (patio, garaje) donde un sensor standalone alcanza.` },
+      { type: "p", content: `Un dato importante que se repite en las reseñas de la categoría: la mayoría de los reclamos post-compra son de conectividad de respaldo (el paso a la red celular no siempre es automático) o de instalación (dónde ubicar la central, si el cable de la sirena viene incluido), no de fallas del sensor o la sirena en sí.` },
+
+      { type: "h2", title: `Las mejores alarmas para casa 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Kit PST G30 — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA28261746", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Central táctil, 4 sensores, sirena interior y exterior, WiFi + GSM. 4.6 estrellas en 861 calificaciones, el más completo de esta guía.` },
+      { type: "p", content: `El kit más completo y con más reseñas reales de esta guía, a alrededor de {{precio:MLA28261746:k}}.` },
+      { type: "p", content: `La contra real: la central y el tablero están en la misma unidad, conviene instalarla en un lugar oculto.` },
+      { type: "pull-quote", content: `"Tenía desconfianza pero funciona perfectamente... te avisa en el momento al celular. Lo malo que el manual viene en inglés, pero youtube me salvó."`, attribution: `Opinión verificada en MercadoLibre (33 votos útiles)` },
+
+      { type: "h3", title: `2. i-tob KIT4s — la más económica` },
+      { type: "product-card", productMlaId: "MLA58030955", label: "La más económica", labelColor: "slate", ranking: 2, description: `Kit completo con WiFi + GSM + PSTN. 4.6 estrellas en 288 calificaciones, el kit completo más barato de esta guía.` },
+      { type: "p", content: `El kit completo más económico de esta guía, a alrededor de {{precio:MLA58030955:k}}, con triple conectividad.` },
+      { type: "p", content: `La contra real: si comprás la versión con sirena exterior, el cable no viene incluido, según una reseña real.` },
+
+      { type: "h3", title: `3. Hikvision AXHome — monitoreo por app` },
+      { type: "product-card", productMlaId: "MLA43987591", label: "Monitoreo por app", labelColor: "blue", ranking: 3, description: `16 zonas, WiFi + 4G, ecosistema Hik-Connect. 4.6 estrellas, marca global reconocida en seguridad.` },
+      { type: "p", content: `La opción con el respaldo de marca más grande de esta guía, a alrededor de {{precio:MLA43987591:k}}, la más cara de la comparativa.` },
+      { type: "p", content: `Lo honesto: el paso a la red 4G no es automático si se corta el WiFi, según 2 reseñas reales independientes.` },
+
+      { type: "h3", title: `4. Sensor solar Tuya CT80WR — para exterior sin central` },
+      { type: "product-card", productMlaId: "MLA45993557", label: "Para exterior sin central", labelColor: "purple", ranking: 4, description: `Sensor + sirena + panel solar todo-en-uno, sin central. 4.5 estrellas, resistente a la intemperie.` },
+      { type: "p", content: `La opción diferenciada de esta guía: cubre un punto de exterior sin instalar una central, a alrededor de {{precio:MLA45993557:k}}.` },
+      { type: "p", content: `La contra real: no se puede controlar del todo desde la app, solo con el control remoto físico, según varias reseñas reales.` },
+
+      { type: "h2", title: `Tabla comparativa: kit, conectividad y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Kit`, `Conectividad`, `Ideal para`], rows: [
+        [`[PST G30](/producto/MLA28261746)`, `{{precio:MLA28261746}}`, `Central + 4 sensores + 2 sirenas`, `WiFi + GSM`, `El más completo`],
+        [`[i-tob KIT4s](/producto/MLA58030955)`, `{{precio:MLA58030955}}`, `Central + 4 sensores + 2 sirenas`, `WiFi + GSM + PSTN`, `Precio y básicos cubiertos`],
+        [`[Hikvision AXHome](/producto/MLA43987591)`, `{{precio:MLA43987591}}`, `Central 16 zonas + 2 sensores`, `WiFi + 4G`, `Marca global, monitoreo app`],
+        [`[Sensor solar Tuya](/producto/MLA45993557)`, `{{precio:MLA45993557}}`, `Sensor + sirena standalone`, `WiFi + 433 MHz`, `Un punto de exterior`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu alarma para casa`, id: "como-elegir" },
+      { type: "h3", title: `¿Toda la casa o un punto puntual?` },
+      { type: "p", content: `Si necesitás cubrir toda la casa con varios sensores coordinados, elegí un kit completo (PST, i-tob o Hikvision de esta guía). Si solo querés cubrir un patio, garaje o frente sin instalar central, el sensor solar Tuya alcanza y es mucho más simple de instalar.` },
+      { type: "h3", title: `¿Qué pasa si se corta la luz o internet?` },
+      { type: "p", content: `Los 3 kits con central de esta guía tienen batería propia y algún tipo de respaldo celular (GSM o 4G). Probá ese respaldo apenas instalás la alarma: en el caso del Hikvision, 2 reseñas reales reportan que el paso a 4G no es automático.` },
+      { type: "h3", title: `¿Marca reconocida o mejor precio?` },
+      { type: "p", content: `Si el respaldo de una marca global es tu prioridad, el Hikvision. Si buscás el mejor precio con lo básico bien cubierto, el i-tob o el PST de esta guía.` },
+
+      { type: "verdict", content: `Para la mayoría, el **[Kit PST G30](/producto/MLA28261746)** es la compra más segura: el más completo, con el mayor respaldo de reseñas reales. Si buscás el más económico, el **[i-tob KIT4s](/producto/MLA58030955)**. Si priorizás una marca global con monitoreo por app, el **[Hikvision AXHome](/producto/MLA43987591)**. Y si solo necesitás cubrir un punto de exterior, el **[sensor solar Tuya](/producto/MLA45993557)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor alarma para casa en Argentina?`, answer: `Para la mayoría, el [Kit PST G30](/producto/MLA28261746): el más completo y con más reseñas reales de esta guía.` },
+      { question: `¿Las alarmas de esta guía tienen homologación ENACOM?`, answer: `Ni las fichas de MercadoLibre ni las páginas de los fabricantes lo mencionan explícitamente, un patrón común en esta categoría de productos en Argentina.` },
+      { question: `¿Funcionan si se corta la luz o el internet?`, answer: `Los 3 kits con central de esta guía tienen batería propia y respaldo celular (GSM o 4G). Ojo con el Hikvision de esta guía: 2 reseñas reales reportan que el paso a 4G no es automático, conviene probarlo apenas instalada.` },
+      { question: `¿Necesito instalador profesional?`, answer: `Los 4 productos de esta guía están pensados para instalación por el propio usuario (kits DIY con manual y videos tutoriales), no requieren un instalador profesional.` },
+      { question: `¿Cuál conviene para un patio o garaje?`, answer: `El [sensor solar Tuya](/producto/MLA45993557) de esta guía: cubre un punto de exterior sin necesidad de instalar una central completa, con carga solar y sin cables.` },
+      { question: `¿Se pueden agregar más sensores después?`, answer: `El [PST G30](/producto/MLA28261746) admite hasta 100 zonas inalámbricas y el [Hikvision AXHome](/producto/MLA43987591) hasta 16 zonas, así que ambos se pueden expandir. El [i-tob KIT4s](/producto/MLA58030955) no declara esa capacidad de expansión en su ficha.` },
+    ],
+    internalLinks: [
+      { label: "Cámara de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
+      { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+    ],
+    internalLinksTitle: "Más para la seguridad de tu casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva bombilla-de-mate — silo bebidas-termicas, categoria
+  // "bombillas-de-mate". Origen: research de silos flacos 2026-07-19
+  // (3ra tanda), keyword "bombilla de mate" (2.900/mes, Keyword
+  // Planner). Fichas sourceadas vía Bright Data el mismo día.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "bombilla-de-mate",
+    category: "bombillas-de-mate",
+    silo: "bebidas-termicas",
+    title: `Bombilla de mate: cuál comprar en Argentina [2026]`,
+    seoTitle: `Bombilla de Mate: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos las bombillas de mate más vendidas de Argentina: acero inoxidable, alpaca y para yerba fina. Precios reales y contras honestas.`,
+    ogTitle: `Bombilla de mate: cuál comprar en Argentina`,
+    ogDescription: `De acero inoxidable a alpaca: comparamos las bombillas de mate más vendidas de Argentina, con las contras reales que cuentan los compradores. Precios de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_952019-MLA99594449222_122025-F.webp`,
+    h1: `Bombilla de mate: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Un Mate No Se Tapa](/producto/MLA34379783)** (alrededor de {{precio:MLA34379783:k}}): la más elegida de esta guía, con 946 calificaciones reales. Si buscás la más barata, la **[El Santo Mate](/producto/MLA29597823)** (alrededor de {{precio:MLA29597823:k}}). Si preferís alpaca con diseño pico de loro, la **[Apa Cuero](/producto/MLA854205104)**. Y si tomás mate con yerba de molienda fina o despalada, la **[Rei Verde](/producto/MLA58717654)**, pensada específicamente para eso.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Una bombilla de mate va de {{precio:MLA29597823:k}} (la más barata) a {{precio:MLA58717654:k}} (la más larga). La diferencia real no es solo el precio: es si el filtro se tapa con tu tipo de yerba, si es removible para limpiar, y de qué material está hecha. Comparamos 4 con precios reales de MercadoLibre Argentina y las contras que cuentan los compradores.`,
+    quickPicks: [
+      { productMlaId: "MLA34379783", label: "Mejor elección general", labelColor: "green", tagline: "Un Mate No Se Tapa: la más elegida, 946 opiniones reales" },
+      { productMlaId: "MLA29597823", label: "La más económica", labelColor: "slate", tagline: "El Santo Mate: filtro de bronce removible, la más barata" },
+      { productMlaId: "MLA854205104", label: "De alpaca", labelColor: "purple", tagline: "Apa Cuero: diseño pico de loro clásico" },
+      { productMlaId: "MLA58717654", label: "Para yerba fina", labelColor: "blue", tagline: "Rei Verde: la más larga, para yerba despalada" },
+    ],
+    intro: [
+      `La bombilla es la parte del equipo de mate que más se rompe, se pierde o se tapa, y no todas resuelven el mismo problema. Algunas están pensadas para yerba con palo tradicional, otras específicamente para yerba de molienda fina o despalada (uruguaya, canaria, chimarrão), que tapa mucho más fácil.`,
+      `En esta guía comparamos 4 bombillas de mate vendidas en MercadoLibre Argentina, desde la más barata hasta la de alpaca, con las contras reales que reportan los compradores.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_952019-MLA99594449222_122025-F.webp", alt: `Bombilla de mate Un Mate No Se Tapa, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Un Mate No Se Tapa](/producto/MLA34379783)**: la más elegida, con 946 opiniones reales. Si buscás **la más barata**, la **[El Santo Mate](/producto/MLA29597823)**. Si preferís **alpaca**, la **[Apa Cuero](/producto/MLA854205104)**. Y si tomás mate con **yerba de molienda fina**, la **[Rei Verde](/producto/MLA58717654)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las bombillas de mate con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: si el filtro se tapa, si es removible, el material y el largo. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una bombilla de mate`, id: "que-mirar" },
+      { type: "p", content: `Primero, **qué tipo de yerba tomás**: si es con palo tradicional, casi cualquier bombilla de filtro plano cumple. Si tomás yerba de molienda fina o despalada (uruguaya, canaria, chimarrão), necesitás una pensada específicamente para eso, como la Rei Verde de esta guía. Segundo, si el **filtro es removible**: facilita mucho la limpieza a fondo. Tercero, el **material**: acero inoxidable puro (más económico) o alpaca (diseño más tradicional, en general más cara).` },
+      { type: "p", content: `Un dato que se repite en las reseñas de la categoría: ninguna bombilla es 100% infalible con cualquier tipo de yerba. Incluso las diseñadas específicamente para no taparse pueden dejar pasar algo de polvo al principio, hasta que se acomoda la yerba en el mate.` },
+
+      { type: "h2", title: `Las mejores bombillas de mate 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Un Mate No Se Tapa — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA34379783", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Acero inoxidable, filtro plano autolimpiante. 4.8 estrellas en 946 calificaciones, la más elegida de esta guía.` },
+      { type: "p", content: `La más elegida de esta guía por lejos: 946 calificaciones, a alrededor de {{precio:MLA34379783:k}}.` },
+      { type: "p", content: `La contra real: el filtro es fijo, no removible, aunque la función autolimpiante compensa parte de esa limitación.` },
+      { type: "pull-quote", content: `"Compré la bombilla buscando una que fuera muy buena, harto de que todas se me tapen. Hasta ahora de 10, obviamente hay que luego ver cuánto dura."`, attribution: `Opinión verificada en MercadoLibre (34 votos útiles)` },
+
+      { type: "h3", title: `2. El Santo Mate — la más económica` },
+      { type: "product-card", productMlaId: "MLA29597823", label: "La más económica", labelColor: "slate", ranking: 2, description: `Acero inoxidable con filtro de bronce removible. 4.7 estrellas, la más barata de esta guía.` },
+      { type: "p", content: `La más barata de esta guía por lejos, a alrededor de {{precio:MLA29597823:k}}, con filtro removible para limpiar a fondo.` },
+      { type: "p", content: `La contra real: menor volumen de reseñas que la elección general, aunque el rating se mantiene alto.` },
+
+      { type: "h3", title: `3. Apa Cuero — de alpaca` },
+      { type: "product-card", productMlaId: "MLA854205104", label: "De alpaca", labelColor: "purple", ranking: 3, description: `Alpaca, diseño pico de loro clásico. 4.5 estrellas, filtro tipo pala.` },
+      { type: "p", content: `El diseño clásico pico de loro en alpaca de esta guía, a alrededor de {{precio:MLA854205104:k}}.` },
+      { type: "p", content: `Lo honesto: el material alpaca está declarado por el vendedor, no como atributo estructurado verificable de la ficha técnica.` },
+
+      { type: "h3", title: `4. Rei Verde — para yerba fina` },
+      { type: "product-card", productMlaId: "MLA58717654", label: "Para yerba fina", labelColor: "blue", ranking: 4, description: `Acero inoxidable, 19,5 cm, para yerba de molienda fina o despalada. 4.8 estrellas, el más alto de esta guía.` },
+      { type: "p", content: `La más larga de esta guía (19,5 cm), pensada para yerba de molienda fina o despalada, a alrededor de {{precio:MLA58717654:k}}.` },
+      { type: "p", content: `La contra real: con yerba muy fina, algo de polvo puede pasar igual al principio, según una reseña real.` },
+
+      { type: "h2", title: `Tabla comparativa: material, filtro y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Material`, `Filtro`, `Ideal para`], rows: [
+        [`[Un Mate No Se Tapa](/producto/MLA34379783)`, `{{precio:MLA34379783}}`, `Acero inoxidable`, `Fijo, autolimpiante`, `La más elegida`],
+        [`[El Santo Mate](/producto/MLA29597823)`, `{{precio:MLA29597823}}`, `Acero inoxidable, filtro de bronce`, `Removible`, `Precio y limpieza fácil`],
+        [`[Apa Cuero](/producto/MLA854205104)`, `{{precio:MLA854205104}}`, `Alpaca`, `Tipo pala`, `Diseño pico de loro`],
+        [`[Rei Verde](/producto/MLA58717654)`, `{{precio:MLA58717654}}`, `Acero inoxidable`, `Fijo`, `Yerba de molienda fina`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu bombilla de mate`, id: "como-elegir" },
+      { type: "h3", title: `¿Qué yerba tomás?` },
+      { type: "p", content: `Con yerba con palo tradicional, cualquiera de las 4 de esta guía funciona bien. Con yerba de molienda fina o despalada (uruguaya, canaria, chimarrão), la Rei Verde está pensada específicamente para eso.` },
+      { type: "h3", title: `¿Filtro removible o fijo?` },
+      { type: "p", content: `Si te importa poder desarmar y lavar a fondo, la El Santo Mate de esta guía tiene filtro removible. La Un Mate No Se Tapa y la Rei Verde tienen filtro fijo, compensado por su diseño anti-tape.` },
+      { type: "h3", title: `¿Acero inoxidable o alpaca?` },
+      { type: "p", content: `El acero inoxidable (3 de las 4 opciones de esta guía) es más económico y funcional. La alpaca de la Apa Cuero suma el diseño clásico pico de loro, a un precio intermedio.` },
+
+      { type: "verdict", content: `Para la mayoría, la **[Un Mate No Se Tapa](/producto/MLA34379783)** es la compra más segura: la más elegida, con el mayor respaldo de reseñas reales. Si buscás la más barata, la **[El Santo Mate](/producto/MLA29597823)**. Si preferís alpaca, la **[Apa Cuero](/producto/MLA854205104)**. Y si tomás mate con yerba de molienda fina, la **[Rei Verde](/producto/MLA58717654)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor bombilla de mate en Argentina?`, answer: `Para la mayoría, la [Un Mate No Se Tapa](/producto/MLA34379783): la más elegida, con 946 calificaciones reales.` },
+      { question: `¿Qué bombilla conviene para yerba de molienda fina o despalada?`, answer: `La [Rei Verde](/producto/MLA58717654) de esta guía está pensada específicamente para yerba fina, uruguaya, canaria o chimarrão brasileño.` },
+      { question: `¿Es mejor un filtro removible o fijo?`, answer: `Depende de tu prioridad. El removible (como el de la [El Santo Mate](/producto/MLA29597823)) facilita la limpieza a fondo. El fijo con diseño autolimpiante (como el de la [Un Mate No Se Tapa](/producto/MLA34379783)) evita que se tape sin necesidad de desarmarlo.` },
+      { question: `¿Vale la pena una bombilla de alpaca?`, answer: `Si buscás el diseño clásico pico de loro, sí. La [Apa Cuero](/producto/MLA854205104) de esta guía lo tiene, aunque el dato de material viene declarado por el vendedor, no de un atributo verificado de la ficha técnica.` },
+      { question: `¿Ninguna bombilla se tapa nunca?`, answer: `Ninguna es 100% infalible con cualquier yerba. Incluso las diseñadas específicamente para no taparse, como la Rei Verde, pueden dejar pasar algo de polvo fino al principio, según reseñas reales.` },
+    ],
+    internalLinks: [
+      { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Botella térmica: cuál comprar en Argentina", href: "/guias/bebidas-termicas/botella-termica" },
+    ],
+    internalLinksTitle: "Más para tu ronda de mate",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva ducha-electrica — silo agua-caliente, categoria
+  // "duchas-electricas". Origen: research de silos flacos 2026-07-19
+  // (3ra tanda), keyword "ducha eléctrica" (9.900/mes, Keyword
+  // Planner). Fichas sourceadas vía Bright Data el mismo día. Ningún
+  // producto declara la "Marca S" de seguridad eléctrica obligatoria
+  // en Argentina; solo uno declara un organismo certificador
+  // (Bureau Veritas). La guía lo advierte explícito en un bloque
+  // warning.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "ducha-electrica",
+    category: "duchas-electricas",
+    silo: "agua-caliente",
+    title: `Ducha eléctrica: cuál comprar en Argentina [2026]`,
+    seoTitle: `Ducha Eléctrica: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos las duchas eléctricas más vendidas de Argentina: Lorenzetti e Indelplas. Potencia, organismo de certificación declarado y precios reales.`,
+    ogTitle: `Ducha eléctrica: cuál comprar en Argentina`,
+    ogDescription: `Lorenzetti e Indelplas comparadas: potencia, niveles de temperatura y qué organismo de certificación declara cada ficha. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_675514-MLA99578188802_122025-F.webp`,
+    h1: `Ducha eléctrica: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene la **[Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244)** (alrededor de {{precio:MLA15481244:k}}): la más vendida de esta guía. Si buscás la más barata, la **[Indelplas Diluvio](/producto/MLA23134740)** (alrededor de {{precio:MLA23134740:k}}), aunque con temperatura fija. Si priorizás la mayor potencia, la **[Loren Shower Ultra 7500W](/producto/MLA35337217)**. Y si preferís que la ficha declare un organismo de certificación argentino, la **[Loren 6800W](/producto/MLA19765518)**, la única de esta guía con ese dato (Bureau Veritas, no equivale a la Marca S completa).`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Una ducha eléctrica va de {{precio:MLA23134740:k}} (la más barata) a {{precio:MLA35337217:k}} (la más potente). La diferencia real no es solo el precio: es la potencia, si tiene varios niveles de temperatura, y si la ficha declara, aparte, un organismo de certificación (ninguna de las 4 declara la Marca S de Seguridad Eléctrica en sí). Comparamos 4 con precios reales de MercadoLibre Argentina.`,
+    quickPicks: [
+      { productMlaId: "MLA15481244", label: "Mejor elección general", labelColor: "green", tagline: "Lorenzetti Maxi Ducha Ultra: la más vendida, 3 niveles" },
+      { productMlaId: "MLA23134740", label: "La más económica", labelColor: "slate", tagline: "Indelplas Diluvio: la más barata, temperatura fija" },
+      { productMlaId: "MLA35337217", label: "Mayor potencia", labelColor: "blue", tagline: "Loren Shower Ultra: 7.500 W, la más potente" },
+      { productMlaId: "MLA19765518", label: "Con organismo de certificación declarado", labelColor: "amber", tagline: "Loren 6800W: única con Bureau Veritas Argentina declarado (no es la Marca S)" },
+    ],
+    intro: [
+      `Una ducha eléctrica calienta el agua al paso, sin tanque ni gas: es la solución más rápida de instalar cuando no hay gas natural o se corta el suministro. La categoría en MercadoLibre Argentina está dominada por Lorenzetti (marca brasileña con fuerte presencia regional) e Indelplas (marca local, más económica).`,
+      `En esta guía comparamos 4 duchas eléctricas vendidas en MercadoLibre Argentina, con un foco particular en un dato que no siempre se mira: si la ficha declara, aparte de las specs, algún organismo de certificación de producto — ninguna de las 4 declara la Marca S de Seguridad Eléctrica, obligatoria en Argentina para este tipo de producto (agua + electricidad).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_675514-MLA99578188802_122025-F.webp", alt: `Ducha eléctrica Lorenzetti Maxi Ducha Ultra, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, la **[Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244)**: la más vendida. Si buscás **la más barata**, la **[Indelplas Diluvio](/producto/MLA23134740)**. Si priorizás **la mayor potencia**, la **[Loren Shower Ultra 7500W](/producto/MLA35337217)**. Y si preferís que **la ficha declare un organismo de certificación**, la **[Loren 6800W](/producto/MLA19765518)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos las duchas eléctricas con más ventas y opiniones reales en MercadoLibre Argentina. Las ordenamos por lo que define la compra: potencia, niveles de temperatura, precio, y si la ficha declara, aparte, algún organismo de certificación de producto. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "warning", content: `**La seguridad eléctrica de una ducha es un dato importante que no siempre está documentado.** En Argentina, los productos de este tipo (que combinan agua y electricidad) requieren la "Marca S" de Seguridad Eléctrica. Ninguno de los 4 productos de esta guía declara esa marca en su ficha de MercadoLibre. La única diferencia entre ellos es que la [Loren 6800W](/producto/MLA19765518) declara, aparte, un Organismo de Certificación de Producto real (Bureau Veritas Argentina S.A.) — un dato distinto de la Marca S, no un sustituto. No encontramos denuncias de accidentes graves en las reseñas reales de ninguna de las 4, pero si te importa que la ficha declare este tipo de dato, tenelo en cuenta antes de comprar y verificá el estado de la instalación eléctrica de tu casa con un electricista matriculado.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar una ducha eléctrica`, id: "que-mirar" },
+      { type: "p", content: `Primero, la **potencia**: de 1.100 W a 7.500 W en esta guía. Más potencia calienta más agua más rápido, sobre todo con buena presión. Segundo, los **niveles de temperatura**: algunas son fijas (una sola intensidad), otras ajustables. Tercero, la **Marca S de Seguridad Eléctrica**: ningún producto de esta guía la declara; lo único que varía es si la ficha declara, aparte, un organismo de certificación (un dato distinto, no equivalente a la Marca S).` },
+      { type: "p", content: `Un dato importante para instalar cualquier ducha eléctrica: siempre por un electricista matriculado, respetando la línea dedicada y la puesta a tierra. Ninguna ducha eléctrica de esta guía, por más potente o cara que sea, reemplaza una instalación correcta.` },
+
+      { type: "h2", title: `Las mejores duchas eléctricas 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Lorenzetti Maxi Ducha Ultra — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA15481244", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `5.500 W, 3 niveles de temperatura. 4.8 estrellas en casi 39 mil calificaciones, la más vendida de esta guía.` },
+      { type: "p", content: `La más vendida de esta guía por lejos: casi 39 mil calificaciones, a alrededor de {{precio:MLA15481244:k}}.` },
+      { type: "p", content: `La contra real: no declara la Marca S ni ningún organismo de certificación, y la mayoría de sus reseñas son de compradores de Brasil o México, no de Argentina.` },
+      { type: "pull-quote", content: `"En invierno hay que usar la ducha con agua con menos presión, porque si aumento la presión, no da abasto para calentar."`, attribution: `Opinión verificada en MercadoLibre, Brasil (164 votos útiles)` },
+
+      { type: "h3", title: `2. Indelplas Diluvio — la más económica` },
+      { type: "product-card", productMlaId: "MLA23134740", label: "La más económica", labelColor: "slate", ranking: 2, description: `1.100 W, temperatura fija. 4.5 estrellas, la más barata de esta guía. Única con reseñas 100% argentinas.` },
+      { type: "p", content: `La más barata de esta guía, a alrededor de {{precio:MLA23134740:k}}, y la única con reseñas 100% verificadas de Argentina.` },
+      { type: "p", content: `La contra real: temperatura fija, no ajustable, hay que controlar el tiempo de uso para que no hierva el agua.` },
+
+      { type: "h3", title: `3. Loren Shower Ultra — mayor potencia` },
+      { type: "product-card", productMlaId: "MLA35337217", label: "Mayor potencia", labelColor: "blue", ranking: 3, description: `7.500 W, la más potente de esta guía. 4.8 estrellas en 17 mil calificaciones.` },
+      { type: "p", content: `La mayor potencia de esta guía (7.500 W), a alrededor de {{precio:MLA35337217:k}}.` },
+      { type: "p", content: `Lo honesto: la propia ficha de ML tiene una inconsistencia sobre la cantidad de niveles de temperatura (dice 5 en un lugar, 3 en otro), y una reseña real de Brasil (catálogo regional, no de Argentina) menciona reportes de otros compradores sobre quemado en primer uso.` },
+
+      { type: "h3", title: `4. Loren 6800W — con organismo de certificación declarado` },
+      { type: "product-card", productMlaId: "MLA19765518", label: "Con organismo de certificación declarado", labelColor: "amber", ranking: 4, description: `6.800 W, 4 niveles de temperatura. 4.8 estrellas en casi 60 mil calificaciones, único con Bureau Veritas Argentina declarado (no equivale a la Marca S).` },
+      { type: "p", content: `La única de esta guía con un Organismo de Certificación de Producto argentino declarado (Bureau Veritas), a alrededor de {{precio:MLA19765518:k}} — esto no equivale a declarar la Marca S de Seguridad Eléctrica en sí.` },
+      { type: "p", content: `La contra real: la reseña más votada de esta guía recomienda la variante de 7.500 W en su lugar, porque con el agua completamente abierta la temperatura baja bastante.` },
+
+      { type: "h2", title: `Tabla comparativa: potencia, niveles y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Niveles`, `Organismo de certificación declarado`], rows: [
+        [`[Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244)`, `{{precio:MLA15481244}}`, `5.500 W`, `3`, `No declara`],
+        [`[Indelplas Diluvio](/producto/MLA23134740)`, `{{precio:MLA23134740}}`, `1.100 W`, `1 (fijo)`, `No declara`],
+        [`[Loren Shower Ultra](/producto/MLA35337217)`, `{{precio:MLA35337217}}`, `7.500 W`, `3 o 5 (dato inconsistente en la ficha)`, `No declara`],
+        [`[Loren 6800W](/producto/MLA19765518)`, `{{precio:MLA19765518}}`, `6.800 W`, `4`, `Bureau Veritas Argentina (no es la Marca S completa)`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu ducha eléctrica`, id: "como-elegir" },
+      { type: "h3", title: `¿Cuánta potencia necesitás?` },
+      { type: "p", content: `Con buena presión de agua o en invierno, más potencia calienta mejor. La Loren Shower Ultra (7.500 W) de esta guía es la más potente; la Indelplas (1.100 W) es la más chica, pensada para uso más ocasional o de emergencia.` },
+      { type: "h3", title: `¿Temperatura fija o ajustable?` },
+      { type: "p", content: `La Indelplas de esta guía tiene un único nivel fijo. Las otras 3 tienen múltiples niveles, más flexibles según la estación o la presión de agua.` },
+      { type: "h3", title: `¿Te importa que la ficha declare un organismo de certificación?` },
+      { type: "p", content: `Ninguna de las 4 duchas de esta guía declara la Marca S de Seguridad Eléctrica. Si preferís que la ficha declare, aparte, algún Organismo de Certificación de Producto, la Loren 6800W de esta guía es la única con ese dato (Bureau Veritas). En cualquier caso, instalá siempre con un electricista matriculado.` },
+
+      { type: "verdict", content: `Para la mayoría, la **[Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244)** es la opción con más respaldo de ventas: la más vendida. Si buscás la más barata, la **[Indelplas Diluvio](/producto/MLA23134740)**. Si priorizás la mayor potencia, la **[Loren Shower Ultra 7500W](/producto/MLA35337217)**. Y si preferís que la ficha declare un organismo de certificación, la **[Loren 6800W](/producto/MLA19765518)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es la mejor ducha eléctrica en Argentina?`, answer: `Para la mayoría, la [Lorenzetti Maxi Ducha Ultra](/producto/MLA15481244): la más vendida de esta guía.` },
+      { question: `¿Las duchas eléctricas de esta guía declaran la Marca S de Seguridad Eléctrica?`, answer: `Ninguna de las 4 la declara en su ficha. La única diferencia es que la [Loren 6800W](/producto/MLA19765518) declara, aparte, un organismo de certificación de producto (Bureau Veritas) — un dato distinto, no equivalente a la Marca S. Las otras 3 no declaran ninguno de los dos.` },
+      { question: `¿Quién debe instalarla?`, answer: `Siempre un electricista matriculado, con línea dedicada y puesta a tierra correcta. Ninguna ducha eléctrica, por más documentación que tenga, reemplaza una instalación correcta.` },
+      { question: `¿Cuál conviene si tengo poca presión de agua?`, answer: `Con poca presión, cualquiera de las 4 de esta guía calienta bien. El problema inverso (mucha presión) puede hacer que algunas no den abasto para calentar, según reseñas reales.` },
+      { question: `¿Es peligroso usar una ducha eléctrica?`, answer: `No encontramos denuncias de accidentes graves en las reseñas reales de ninguna de las 4 opciones de esta guía, pero es un producto que combina agua y electricidad: la instalación correcta por un electricista matriculado es no negociable.` },
+    ],
+    internalLinks: [
+      { label: "Termotanque eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-electrico" },
+      { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
+    ],
+    internalLinksTitle: "Más para el agua caliente de tu casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva termometro-digital — silo salud-bienestar, categoria
+  // "termometros-digitales". Origen: research de silos flacos
+  // 2026-07-19 (3ra tanda), keyword "termómetro digital" (9.900/mes,
+  // Keyword Planner). Fichas sourceadas vía Bright Data el mismo
+  // día. Zona YMYL: sin claims de precisión clínica, ANMAT
+  // reportado con honestidad (2 de 4 lo declaran).
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "termometro-digital",
+    category: "termometros-digitales",
+    silo: "salud-bienestar",
+    title: `Termómetro digital: cuál comprar en Argentina [2026]`,
+    seoTitle: `Termómetro Digital: Cuál Comprar en Argentina | 2026`,
+    metaDescription: `Comparamos los termómetros digitales más vendidos de Argentina: de contacto e infrarrojos. Certificación ANMAT y precios reales.`,
+    ogTitle: `Termómetro digital: cuál comprar en Argentina`,
+    ogDescription: `Citizen, NEKOMMERCE, BBLove y Lepu comparados: de contacto o infrarrojo, con o sin ANMAT declarado. Precios reales de MercadoLibre.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_729929-MLA107962514539_032026-F.webp`,
+    h1: `Termómetro digital: cuál comprar en Argentina y cuál conviene [2026]`,
+    directAnswer: `Para la mayoría conviene el **[Citizen CTA301C](/producto/MLA35944743)** (alrededor de {{precio:MLA35944743:k}}): el más vendido de la categoría, con ANMAT declarado. Si buscás el más barato, el **[NEKOMMERCE](/producto/MLA53648273)** (alrededor de {{precio:MLA53648273:k}}). Si preferís medir sin contacto, el **[BBLove](/producto/MLA28449145)**. Y si querés el más completo, con memoria de mediciones, el **[Lepu LFR30B](/producto/MLA50045029)**, también con ANMAT declarado.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-19",
+    hasDisclosure: true,
+    readingTime: 7,
+    standfirst: `Un termómetro digital va de {{precio:MLA53648273:k}} (el más barato) a {{precio:MLA50045029:k}} (el más completo). La diferencia real no es solo el precio: es si mide por contacto o a distancia, cuánto tarda, y si declara certificación ANMAT. Comparamos 4 con precios reales de MercadoLibre Argentina.`,
+    quickPicks: [
+      { productMlaId: "MLA35944743", label: "Mejor elección general", labelColor: "green", tagline: "Citizen CTA301C: el más vendido, ANMAT declarado" },
+      { productMlaId: "MLA53648273", label: "El más económico", labelColor: "slate", tagline: "NEKOMMERCE: el más barato, batería incluida" },
+      { productMlaId: "MLA28449145", label: "Sin contacto", labelColor: "blue", tagline: "BBLove: infrarrojo, mide en 1 segundo" },
+      { productMlaId: "MLA50045029", label: "El más completo", labelColor: "amber", tagline: "Lepu LFR30B: memoria 99 mediciones, ANMAT declarado" },
+    ],
+    intro: [
+      `Un termómetro digital es de los productos de salud más comprados para el hogar, pero no todos miden igual ni con el mismo respaldo. Hay dos tipos bien distintos: de contacto (más lentos, en general más económicos) e infrarrojos sin contacto (más rápidos, útiles para no despertar a un bebé dormido).`,
+      `En esta guía comparamos 4 termómetros digitales vendidos en MercadoLibre Argentina, reportando por separado qué certificación ANMAT declara cada uno y qué dicen las reseñas reales sobre su precisión, sin exagerar ni minimizar ningún dato.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_729929-MLA107962514539_032026-F.webp", alt: `Termómetro digital Citizen CTA301C, la elección general de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Para la mayoría, el **[Citizen CTA301C](/producto/MLA35944743)**: el más vendido, con ANMAT declarado. Si buscás **el más barato**, el **[NEKOMMERCE](/producto/MLA53648273)**. Si preferís **medir sin contacto**, el **[BBLove](/producto/MLA28449145)**. Y si querés **el más completo**, el **[Lepu LFR30B](/producto/MLA50045029)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** miramos los termómetros digitales con más ventas y opiniones reales en MercadoLibre Argentina. Los ordenamos por lo que define la compra: tipo (contacto o infrarrojo), tiempo de medición, y si la ficha declara certificación ANMAT. Las calificaciones y las contras son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "warning", content: `**Ningún termómetro digital de consumo mide con precisión clínica.** Son dispositivos orientativos para uso doméstico, no instrumentos médicos profesionales. En esta guía, 2 de los 4 productos (Citizen y Lepu LFR30B) declaran certificación ANMAT (RPPTM); los otros 2 (NEKOMMERCE y BBLove) no la declaran en su ficha — lo reportamos tal cual está, sin inventar el dato donde falta. Ante fiebre persistente o síntomas que te preocupen, consultá siempre con un profesional de salud: ningún termómetro de esta guía reemplaza ese control.` },
+
+      { type: "h2", title: `Qué mirar antes de comprar un termómetro digital`, id: "que-mirar" },
+      { type: "p", content: `Primero, **contacto o infrarrojo**: el de contacto (axila, oral) tarda más pero suele ser más económico; el infrarrojo mide a distancia en 1 segundo, ideal para bebés o niños dormidos. Segundo, la **certificación ANMAT**: buscá si la ficha la declara explícitamente. Tercero, funciones extra como **memoria de mediciones** o **indicador visual de fiebre**, útiles si necesitás llevar un registro.` },
+      { type: "p", content: `Un dato importante para toda la categoría: ningún termómetro de consumo doméstico, sea de contacto o infrarrojo, reemplaza un control médico profesional. Sirven para orientar, no para diagnosticar.` },
+
+      { type: "h2", title: `Los mejores termómetros digitales 2026`, id: "ranking" },
+
+      { type: "h3", title: `1. Citizen CTA301C — mejor elección general` },
+      { type: "product-card", productMlaId: "MLA35944743", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Contacto, 10 segundos, ANMAT PM97-30. 4.8 estrellas en casi 3.250 calificaciones, el más vendido de la categoría.` },
+      { type: "p", content: `El 1° más vendido de la categoría en MercadoLibre Argentina, con ANMAT declarado, a alrededor de {{precio:MLA35944743:k}}.` },
+      { type: "p", content: `La contra real: el título menciona uso oral/rectal, pero la ficha técnica solo confirma la zona axila.` },
+      { type: "pull-quote", content: `"Medición exacta, chequeado con un termómetro de mercurio que tengo en casa."`, attribution: `Opinión verificada en MercadoLibre (8 votos útiles)` },
+
+      { type: "h3", title: `2. NEKOMMERCE — el más económico` },
+      { type: "product-card", productMlaId: "MLA53648273", label: "El más económico", labelColor: "slate", ranking: 2, description: `Contacto, 1 minuto, batería incluida. 4.7 estrellas, el más barato de esta guía.` },
+      { type: "p", content: `El más económico de esta guía, con batería incluida, a alrededor de {{precio:MLA53648273:k}}.` },
+      { type: "p", content: `La contra real: no declara ANMAT y tarda 1 minuto, mucho más que los 10 segundos del Citizen.` },
+
+      { type: "h3", title: `3. BBLove AET-R1B1 — sin contacto` },
+      { type: "product-card", productMlaId: "MLA28449145", label: "Sin contacto", labelColor: "blue", ranking: 3, description: `Infrarrojo, mide en 1 segundo. 4.4 estrellas, el rating más bajo de esta guía.` },
+      { type: "p", content: `Mide sin contacto en 1 segundo, ideal para no despertar a un bebé dormido, a alrededor de {{precio:MLA28449145:k}}.` },
+      { type: "p", content: `Lo honesto: el vendedor usa "alta precisión" y una reseña real matiza ese claim; aparte, su ficha tampoco declara ANMAT.` },
+
+      { type: "h3", title: `4. Lepu LFR30B — el más completo` },
+      { type: "product-card", productMlaId: "MLA50045029", label: "El más completo", labelColor: "amber", ranking: 4, description: `Infrarrojo, memoria 99 mediciones, ANMAT PM-97-84. 4.6 estrellas, el más caro de esta guía.` },
+      { type: "p", content: `El más completo de esta guía: memoria de 99 mediciones, indicador visual y ANMAT declarado, a alrededor de {{precio:MLA50045029:k}}.` },
+      { type: "p", content: `La contra real: es el más caro, y una reseña real es honesta sobre su límite: sirve para orientar, no para un diagnóstico exacto.` },
+
+      { type: "h2", title: `Tabla comparativa: tipo, tiempo y ANMAT`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Tiempo`, `ANMAT declarado`], rows: [
+        [`[Citizen CTA301C](/producto/MLA35944743)`, `{{precio:MLA35944743}}`, `Contacto`, `10 s`, `Sí (PM97-30)`],
+        [`[NEKOMMERCE](/producto/MLA53648273)`, `{{precio:MLA53648273}}`, `Contacto`, `1 min`, `No`],
+        [`[BBLove](/producto/MLA28449145)`, `{{precio:MLA28449145}}`, `Infrarrojo`, `1 s`, `No`],
+        [`[Lepu LFR30B](/producto/MLA50045029)`, `{{precio:MLA50045029}}`, `Infrarrojo`, `1 s`, `Sí (PM-97-84)`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu termómetro digital`, id: "como-elegir" },
+      { type: "h3", title: `¿Contacto o infrarrojo?` },
+      { type: "p", content: `Con contacto es más económico pero más lento (10 segundos a 1 minuto). Infrarrojo mide en 1 segundo sin tocar la piel, ideal para bebés o niños dormidos, aunque en general cuesta más.` },
+      { type: "h3", title: `¿Te importa la certificación ANMAT declarada?` },
+      { type: "p", content: `El Citizen y el Lepu LFR30B de esta guía la declaran explícitamente. El NEKOMMERCE y el BBLove no lo hacen en su ficha — no significa que no midan bien, pero es un dato ausente que preferimos que sepas antes de comprar.` },
+      { type: "h3", title: `¿Necesitás llevar un registro de mediciones?` },
+      { type: "p", content: `El Lepu LFR30B de esta guía es el único con memoria (hasta 99 mediciones), útil si necesitás seguir la evolución de la temperatura de alguien.` },
+
+      { type: "verdict", content: `Para la mayoría, el **[Citizen CTA301C](/producto/MLA35944743)** es la compra más segura: el más vendido, con ANMAT declarado. Si buscás el más barato, el **[NEKOMMERCE](/producto/MLA53648273)**. Si preferís medir sin contacto, el **[BBLove](/producto/MLA28449145)**. Y si querés el más completo, el **[Lepu LFR30B](/producto/MLA50045029)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor termómetro digital en Argentina?`, answer: `Para la mayoría, el [Citizen CTA301C](/producto/MLA35944743): el más vendido de la categoría, con certificación ANMAT declarada.` },
+      { question: `¿Los termómetros digitales miden con precisión clínica?`, answer: `No, son dispositivos orientativos para uso doméstico, no instrumentos médicos profesionales. Ninguno de los 4 de esta guía reemplaza un control médico.` },
+      { question: `¿Cuáles tienen certificación ANMAT?`, answer: `El [Citizen CTA301C](/producto/MLA35944743) y el [Lepu LFR30B](/producto/MLA50045029) la declaran explícitamente. El [NEKOMMERCE](/producto/MLA53648273) y el [BBLove](/producto/MLA28449145) no la declaran en su ficha.` },
+      { question: `¿Cuál conviene para un bebé?`, answer: `El [BBLove](/producto/MLA28449145) o el [Lepu LFR30B](/producto/MLA50045029) de esta guía, ambos infrarrojos que miden sin contacto en 1 segundo, sin necesidad de despertarlo.` },
+      { question: `¿Vale la pena pagar más por el Lepu LFR30B?`, answer: `Si necesitás memoria de mediciones e indicador visual de fiebre, sí. Si solo necesitás una medición puntual, el Citizen o el NEKOMMERCE de esta guía alcanzan.` },
+    ],
+    internalLinks: [
+      { label: "Balanza digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/balanza-digital" },
+      { label: "Nebulizador: cuál comprar en Argentina", href: "/guias/salud-bienestar/nebulizador" },
+      { label: "Tensiómetro digital: cuál comprar en Argentina", href: "/guias/salud-bienestar/tensiometro-digital" },
+    ],
+    internalLinksTitle: "Más para tu salud en casa",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva dia-del-nino-argentina — silo nuevo "juguetes"
+  // (pilar, categoria "dia-del-nino"). Origen: Juan pidió arrancar
+  // el silo de guías por fecha especial (2026-07-20), empezando por
+  // el Día de las Infancias (16-ago-2026, Decreto 562/2025) por ser
+  // la fecha más próxima. Keyword "qué regalar día del niño" tiene
+  // volumen ~0 en Keyword Planner/Ubersuggest AR; el volumen real
+  // está en búsquedas por tipo de juguete y edad ("juguetes para
+  // niñas de 2 años", etc.), por eso la guía se organiza por franja
+  // etaria en vez de un ranking plano. Fichas sourceadas vía Bright
+  // Data (TikTok + MercadoLibre Argentina), 2026-07-20.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "dia-del-nino-argentina",
+    category: "dia-del-nino",
+    silo: "juguetes",
+    pillar: true,
+    title: `Día del Niño Argentina: qué regalar según la edad [2026]`,
+    seoTitle: `Día del Niño 2026: Qué Regalar Según la Edad`,
+    metaDescription: `Descubrí qué regalar para el Día del Niño 2026 en Argentina, organizado por edad: bebés, niños pequeños, 6 a 10 años y adolescentes. Precios reales de MercadoLibre.`,
+    ogTitle: `Día del Niño Argentina: qué regalar según la edad`,
+    ogDescription: `9 juguetes virales comparados por franja etaria, con precios reales de MercadoLibre Argentina para el Día de las Infancias 2026.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_874647-MLA95977700870_102025-F.webp`,
+    h1: `Día del Niño 2026: qué regalar según la edad, con precios reales`,
+    directAnswer: `El Día del Niño (oficialmente Día de las Infancias) 2026 es el domingo **16 de agosto**. Para bebés, la **[alfombra sensorial Love Pez](/producto/MLA30894790)** (alrededor de {{precio:MLA30894790:k}}) es la más vendida. Para 2-5 años, los **[bloques magnéticos](/producto/MLA62609709)** (alrededor de {{precio:MLA62609709:k}}). Para 6-10 años, el **[LEGO Speed Champions DeLorean](/producto/MLA61271206)** (alrededor de {{precio:MLA61271206:k}}) con licencia oficial. Para adolescentes, el **[mini drone E88](/producto/MLA26082003)** (alrededor de {{precio:MLA26082003:k}}), 1° más vendido de su categoría.`,
+    publishedDate: "2026-09-01",
+    updatedDate: "2026-07-20",
+    hasDisclosure: true,
+    readingTime: 9,
+    standfirst: `El Día de las Infancias 2026 es el domingo 16 de agosto. Comparamos 9 juguetes que están vendiendo fuerte ahora mismo en MercadoLibre Argentina, organizados por edad: bebés, niños pequeños, 6 a 10 años y adolescentes, con precios reales y las contras honestas de cada uno.`,
+    quickPicks: [
+      { productMlaId: "MLA30894790", label: "Mejor para bebés", labelColor: "green", tagline: "Alfombra sensorial Love Pez: la más vendida de su categoría" },
+      { productMlaId: "MLA62609709", label: "Mejor para 2 a 5 años", labelColor: "blue", tagline: "Bloques magnéticos: el mejor rating de esta guía (4.8)" },
+      { productMlaId: "MLA61271206", label: "Mejor para 6 a 10 años", labelColor: "amber", tagline: "LEGO Speed Champions DeLorean: licencia oficial confirmada" },
+      { productMlaId: "MLA26082003", label: "Mejor para adolescentes", labelColor: "slate", tagline: "Mini drone E88: 1° más vendido de su categoría" },
+    ],
+    intro: [
+      `El Día del Niño en Argentina cambió de nombre y de fecha: desde 2025 se llama oficialmente Día de las Infancias y se festeja el tercer domingo de agosto, no el segundo como antes. En 2026 cae el domingo 16, coincidiendo con el fin de semana largo del feriado del 17 de agosto.`,
+      `En vez de armar un ranking único, organizamos esta guía por franja etaria, porque es como la gente busca en la práctica: no tanto "qué regalar el Día del Niño" sino "juguetes para niños de tal edad". Sourceamos los 9 productos cruzando señal de tendencia (TikTok, rankings de más vendidos de MercadoLibre) con reseñas reales de compradores argentinos.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_874647-MLA95977700870_102025-F.webp", alt: `LEGO Speed Champions DeLorean de Volver al Futuro, uno de los juguetes destacados de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `El Día de las Infancias 2026 es el **domingo 16 de agosto**. Para bebés, la **[alfombra sensorial Love Pez](/producto/MLA30894790)**. Para 2 a 5 años, los **[bloques magnéticos](/producto/MLA62609709)**. Para 6 a 10 años, el **[LEGO Speed Champions DeLorean](/producto/MLA61271206)**. Para adolescentes, el **[mini drone E88](/producto/MLA26082003)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo armamos esta guía:** cruzamos señal de tendencia real (rankings de más vendidos de MercadoLibre Argentina, contenido viral en TikTok/Threads) con reseñas reales de compradores para cada franja de edad. Descartamos candidatos sin volumen real de opiniones (menos de 10). Precios de julio 2026, verificados contra MercadoLibre.` },
+
+      { type: "warning", content: `**Antes de seguir, 3 aclaraciones honestas que aparecen en esta guía:** los dos productos Labubu ([Have A Seat](/producto/MLA45831503) y [llavero](/producto/MLA46992246)) no confirman licencia oficial de Pop Mart (el campo de marca de sus fichas técnicas dice "Brinquedo criativo" y "Genérica"). El [LEGO Speed Champions](/producto/MLA61271206) es licencia oficial confirmada, pero el fabricante lo recomienda desde los 9 años, más alto que el resto de la franja 6-10. Y el [mini drone](/producto/MLA26082003) se anuncia con "cámara 4K" en el título, pero su ficha técnica real declara 720p. Lo aclaramos en cada ficha, no lo escondemos.` },
+
+      { type: "h2", title: `Cuándo es el Día del Niño (Día de las Infancias) 2026`, id: "cuando-es" },
+      { type: "p", content: `El Día de las Infancias 2026 se festeja el **domingo 16 de agosto**. Desde 2025, la fecha dejó de ser el segundo domingo de agosto y pasó al tercer domingo, por un cambio impulsado por la Cámara Argentina de la Industria del Juguete y oficializado por el Decreto 562/2025. Este año además coincide con el feriado nacional del 17 de agosto (Paso a la Inmortalidad del General San Martín), armando un fin de semana largo de 3 días.` },
+
+      { type: "h2", title: `Regalos para bebés (0 a 2 años)`, id: "bebes" },
+      { type: "p", content: `El top de ventas real de MercadoLibre Argentina en esta franja está dominado por juguetes de estimulación sensorial: alfombras con agua y gimnasios de actividades.` },
+
+      { type: "h3", title: `1. Alfombra sensorial Love Pez — la más vendida`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA30894790", label: "Mejor para bebés", labelColor: "green", ranking: 1, description: `Alfombra inflable con cámara de agua, para bebés de 4 meses a 1 año. 4.7 estrellas en más de 3.100 calificaciones, 2° más vendida de su categoría.` },
+      { type: "p", content: `2° más vendida de toda la categoría Bebés en MercadoLibre Argentina, a alrededor de {{precio:MLA30894790:k}}.` },
+      { type: "p", content: `La contra real: no trae barra de juguetes ni sonido, solo la superficie de agua, y el tamaño se queda chico apenas el bebé empieza a moverse más.` },
+      { type: "pull-quote", content: `"Es una aliada para acostarlos a dormir... estimula, es un sí por donde se la mire."`, attribution: `Opinión verificada en MercadoLibre (11 votos útiles)` },
+
+      { type: "h3", title: `2. Gimnasio piano Love — el que más dura`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA68785030", label: "Cubre más edad", labelColor: "blue", ranking: 2, description: `Gimnasio con barra de juguetes y piano musical, de 0 meses a 3 años. 4.7 estrellas en 1.390 calificaciones reales.` },
+      { type: "p", content: `Cubre la franja de edad más amplia de esta guía (0 meses a 3 años), a alrededor de {{precio:MLA68785030:k}}.` },
+      { type: "p", content: `La contra real: no incluye pilas para el piano, y es el juguete más caro de la franja bebés.` },
+      { type: "pull-quote", content: `"Super recomendable, a mí bebé le encanto."`, attribution: `Opinión verificada en MercadoLibre (6 votos útiles)` },
+
+      { type: "h2", title: `Regalos para niños pequeños (2 a 5 años)`, id: "ninos-pequenos" },
+      { type: "p", content: `En esta franja conviven el juego de construcción y el juego simbólico. Elegimos uno de cada tipo.` },
+
+      { type: "h3", title: `3. Bloques magnéticos estilo Minecraft — mejor rating`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA62609709", label: "Mejor para 2 a 5 años", labelColor: "blue", ranking: 3, description: `60 piezas magnéticas para construcción libre. 4.8 estrellas, el mejor rating de toda esta guía.` },
+      { type: "p", content: `El mejor rating de esta guía (4.8 estrellas, 843 calificaciones), a alrededor de {{precio:MLA62609709:k}}.` },
+      { type: "p", content: `La contra real: las piezas son chicas, no apto para menores de 3 años por riesgo de asfixia.` },
+      { type: "pull-quote", content: `"El imán funciona incluso levantando varias piezas en el aire."`, attribution: `Opinión verificada en MercadoLibre (9 votos útiles)` },
+
+      { type: "h3", title: `4. Cocinita Duravit Mi Cocina — la más vendida`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA56487348", label: "Juego simbólico", labelColor: "amber", ranking: 4, description: `Cocina de juguete con horno, 33 piezas. 4.5 estrellas, 1.356 calificaciones, 1° más vendida de su categoría.` },
+      { type: "p", content: `1° más vendida de toda la categoría Cocinas de Juguete, a alrededor de {{precio:MLA56487348:k}}.` },
+      { type: "p", content: `La contra real: la propia ficha del vendedor se contradice sobre la edad (dice 2 años en un campo y 5-7 en otro); las reseñas confirman que a los 2-4 años el tamaño es cómodo, y avisan que después de los 5 se queda chica.` },
+      { type: "pull-quote", content: `"Hermoso me encantó y las niñas felices recomendado juegan todo el tiempo."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h2", title: `Regalos para niños y niñas (6 a 10 años)`, id: "seis-a-diez" },
+      { type: "p", content: `La franja con más variedad de esta guía: construcción con licencia, un auto con efecto "show", y el coleccionable que más está pegando en Argentina.` },
+
+      { type: "h3", title: `5. LEGO Speed Champions DeLorean — licencia oficial`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA61271206", label: "Mejor para 6 a 10 años", labelColor: "amber", ranking: 5, description: `Set de 357 piezas del DeLorean de Volver al Futuro. 4.9 estrellas, 874 calificaciones, licencia LEGO oficial.` },
+      { type: "p", content: `LEGO oficial con licencia real de Volver al Futuro, a alrededor de {{precio:MLA61271206:k}}. Es el producto más caro de esta guía.` },
+      { type: "p", content: `La contra real: LEGO recomienda esta línea desde los 9 años, más alto que el resto de la franja 6-10; para chicos más chicos probablemente necesiten ayuda de un adulto.` },
+
+      { type: "h3", title: `6. Auto a control remoto Electroland — el más "show"`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA69082200", label: "Efecto viral", labelColor: "blue", ranking: 6, description: `Giro 360° con humo y luces. 4.6 estrellas, más de 250 mil ventas en su categoría.` },
+      { type: "p", content: `Categoría en tendencia real en TikTok/Threads Argentina ahora mismo, a alrededor de {{precio:MLA69082200:k}}.` },
+      { type: "p", content: `La contra real: la batería no dura mucho tiempo de uso seguido, y las pilas del control no vienen incluidas.` },
+
+      { type: "h3", title: `7. Labubu Have A Seat — el coleccionable más vendido`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA45831503", label: "Más reseñas", labelColor: "slate", ranking: 7, description: `Peluche blind-box, 15 cm. 4.7 estrellas, 3.322 calificaciones, el mayor volumen de reseñas de toda esta guía.` },
+      { type: "p", content: `El coleccionable con más ventas y reseñas confirmadas de toda la guía, a alrededor de {{precio:MLA45831503:k}}.` },
+      { type: "p", content: `La contra real: el campo de marca de la ficha técnica dice "Brinquedo criativo", no confirma licencia oficial de Pop Mart, y viene en formato sorpresa (no se elige el personaje).` },
+      { type: "pull-quote", content: `"Muy buen producto, mi nena chocha con el labubu."`, attribution: `Opinión verificada en MercadoLibre (22 votos útiles)` },
+
+      { type: "h2", title: `Regalos para preadolescentes y adolescentes (11 años en adelante)`, id: "adolescentes" },
+      { type: "p", content: `A esta edad el regalo se acerca más a un gadget que a un juguete tradicional.` },
+
+      { type: "h3", title: `8. Mini drone E88 — el más vendido de su categoría`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA26082003", label: "Mejor para adolescentes", labelColor: "slate", ranking: 8, description: `Drone plegable con GPS y WiFi. 1° más vendido de la categoría Drones en Argentina, 2.193 calificaciones.` },
+      { type: "p", content: `1° más vendido de toda la categoría Drones en MercadoLibre Argentina, a alrededor de {{precio:MLA26082003:k}}.` },
+      { type: "p", content: `La contra real: el título anuncia "cámara 4K" pero la ficha técnica declara 720p; además la batería dura solo 10 minutos por carga.` },
+
+      { type: "h3", title: `9. Labubu llavero Monster Mysteries — el más versátil`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA46992246", label: "Formato colgante", labelColor: "purple", ranking: 9, description: `Blind-box en formato llavero, 15 cm, con tarjeta coleccionable. 4.5 estrellas, 920 calificaciones.` },
+      { type: "p", content: `Formato llavero, se puede colgar en mochila o cartuchera, a alrededor de {{precio:MLA46992246:k}}. Incluye tarjeta coleccionable.` },
+      { type: "p", content: `La contra real: misma falta de confirmación de licencia oficial que el resto de los Labubu de esta guía, y el título anuncia 17 cm mientras la ficha declara 15.` },
+
+      { type: "h2", title: `Tabla comparativa: los 9 regalos por edad y precio`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Producto`, `Precio`, `Edad`, `Ideal para`], rows: [
+        [`[Alfombra sensorial Love Pez](/producto/MLA30894790)`, `{{precio:MLA30894790}}`, `4 meses a 1 año`, `Bebés, la más vendida`],
+        [`[Gimnasio piano Love](/producto/MLA68785030)`, `{{precio:MLA68785030}}`, `0 meses a 3 años`, `Bebés, el que más dura`],
+        [`[Bloques magnéticos](/producto/MLA62609709)`, `{{precio:MLA62609709}}`, `Desde 3 años`, `2-5 años, mejor rating`],
+        [`[Cocinita Duravit](/producto/MLA56487348)`, `{{precio:MLA56487348}}`, `2 a 4-5 años (según reseñas)`, `2-5 años, juego simbólico`],
+        [`[LEGO Speed Champions](/producto/MLA61271206)`, `{{precio:MLA61271206}}`, `Desde 9 años (oficial LEGO)`, `6-10 años, licencia oficial`],
+        [`[Auto RC Electroland](/producto/MLA69082200)`, `{{precio:MLA69082200}}`, `Desde 6 años`, `6-10 años, efecto viral`],
+        [`[Labubu Have A Seat](/producto/MLA45831503)`, `{{precio:MLA45831503}}`, `Desde 3 años`, `6-10 años, coleccionable`],
+        [`[Mini drone E88](/producto/MLA26082003)`, `{{precio:MLA26082003}}`, `Desde 14 años (oficial)`, `Adolescentes`],
+        [`[Labubu llavero](/producto/MLA46992246)`, `{{precio:MLA46992246}}`, `Desde 3 años`, `Adolescentes, formato colgante`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir sin arrepentirte`, id: "como-elegir" },
+      { type: "h3", title: `Revisá la ficha técnica con atención, no solo el título` },
+      { type: "p", content: `En esta guía encontramos tres casos para tener en cuenta: la cocinita Duravit tiene una contradicción interna entre dos campos de su propia ficha técnica (2 años en uno, 5-7 en otro); el mini drone anuncia "cámara 4K" en el título pero su ficha técnica real declara 720p; y el LEGO Speed Champions, aunque no tiene ninguna contradicción en su ficha, está en una franja etaria oficial (9 años en adelante) más alta que el resto de la categoría 6-10 de esta guía. Antes de comprar cualquier juguete, conviene mirar siempre el campo específico de la ficha técnica de MercadoLibre, no solo lo que promete el título.` },
+      { type: "h3", title: `Certificado de seguridad del juguete` },
+      { type: "p", content: `En Argentina, los juguetes deben declarar un número de certificado de seguridad de producto. Los productos de esta guía que lo declaran explícitamente lo tienen anotado en su ficha; es un buen filtro rápido para cualquier juguete que compres fuera de esta lista.` },
+      { type: "h3", title: `Licencia oficial vs. genérico en coleccionables` },
+      { type: "p", content: `Si el regalo es específicamente por la marca (Pop Mart, LEGO, etc.), revisá el campo "Marca" de la ficha técnica, no solo el título de la publicación. En esta guía, el LEGO confirma licencia oficial; los dos Labubu no la confirman.` },
+
+      { type: "h2", title: `Cuánto cuesta un regalo para el Día del Niño [agosto 2026]`, id: "cuanto-cuesta" },
+      { type: "list", items: [
+        `Coleccionables blind-box (Labubu): {{precio:MLA45831503}} a {{precio:MLA46992246}}`,
+        `Juguetes sensoriales para bebés: {{precio:MLA30894790}} a {{precio:MLA68785030}}`,
+        `Juguetes de construcción para 2-5 años: alrededor de {{precio:MLA62609709:k}}`,
+        `Cocinas de juguete: alrededor de {{precio:MLA56487348:k}}`,
+        `Autos a control remoto: alrededor de {{precio:MLA69082200:k}}`,
+        `Drones chicos: alrededor de {{precio:MLA26082003:k}}`,
+        `Sets LEGO con licencia: el más caro de esta guía, alrededor de {{precio:MLA61271206:k}}`,
+      ] },
+
+      { type: "verdict", content: `El Día de las Infancias 2026 es el domingo 16 de agosto. Para bebés, la **[alfombra sensorial Love Pez](/producto/MLA30894790)** (la más vendida) o el **[gimnasio piano Love](/producto/MLA68785030)** (dura más). Para 2 a 5 años, los **[bloques magnéticos](/producto/MLA62609709)** (mejor rating) o la **[cocinita Duravit](/producto/MLA56487348)** (juego simbólico). Para 6 a 10 años, el **[LEGO Speed Champions](/producto/MLA61271206)** si priorizás licencia oficial, o el **[auto a control remoto](/producto/MLA69082200)** y el **[Labubu](/producto/MLA45831503)** si buscás algo más económico. Para adolescentes, el **[mini drone](/producto/MLA26082003)**, el más vendido de su categoría.` },
+    ],
+    faq: [
+      { question: `¿Cuándo es el Día del Niño en Argentina en 2026?`, answer: `El domingo 16 de agosto de 2026. Desde 2025 se llama oficialmente Día de las Infancias y se festeja el tercer domingo de agosto (antes era el segundo), por el Decreto 562/2025.` },
+      { question: `¿Qué regalar a un bebé de menos de 1 año?`, answer: `La [alfombra sensorial Love Pez](/producto/MLA30894790), la más vendida de su categoría en MercadoLibre Argentina, o el [gimnasio piano Love](/producto/MLA68785030) si buscás algo que dure más tiempo de uso.` },
+      { question: `¿Cuál es el mejor regalo para 6 a 10 años?`, answer: `Depende de la prioridad: el [LEGO Speed Champions DeLorean](/producto/MLA61271206) si querés licencia oficial confirmada, el [auto a control remoto](/producto/MLA69082200) si buscás algo más económico y de uso inmediato, o el [Labubu Have A Seat](/producto/MLA45831503) si el coleccionable es lo que pide.` },
+      { question: `¿Los Labubu de esta guía son originales de Pop Mart?`, answer: `No hay confirmación de licencia oficial en ninguna de las dos publicaciones: el campo de marca de sus fichas técnicas dice "Brinquedo criativo" y "Genérica", no Pop Mart.` },
+      { question: `¿Qué regalar a un adolescente?`, answer: `El [mini drone E88](/producto/MLA26082003), 1° más vendido de la categoría Drones en Argentina, aunque su cámara real es 720p (no 4K como dice el título). El [Labubu llavero](/producto/MLA46992246) es una alternativa más económica y versátil.` },
+      { question: `¿El LEGO Speed Champions sirve para un chico de 6 años?`, answer: `LEGO lo recomienda oficialmente desde los 9 años. Para chicos más chicos de la franja 6-10, probablemente necesiten ayuda de un adulto para armarlo.` },
+      { question: `¿Cómo sé si un juguete tiene certificado de seguridad?`, answer: `La ficha técnica de MercadoLibre suele declarar un número de certificado de seguridad de producto. Es un buen filtro rápido para cualquier juguete, esté o no en esta guía.` },
+    ],
+    internalLinks: [
+      { label: "Ver todos los juguetes virales", href: "/categoria/juguetes" },
+    ],
+    internalLinksTitle: "Seguí explorando",
+  },
+
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
+  "dia-del-nino": {
+    name: "Guía del Día del Niño",
+    description:
+      "Qué regalar según la edad: bebés, niños pequeños, 6 a 10 años y adolescentes. Juguetes virales con precios reales de MercadoLibre.",
+  },
   masajeadores: {
     name: "Guía de Masajeadores",
     description:
@@ -20618,5 +22237,70 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guías de Hornos Eléctricos",
     description:
       "Del chico de 17 litros al grande de 50: cuál conviene según capacidad, convección y grill.",
+  },
+  "ventiladores-de-pie": {
+    name: "Guía de Ventiladores de Pie",
+    description:
+      "El más vendido, el mejor calificado o el que trae control remoto: cuál conviene según rating, ruido y precio real de MercadoLibre.",
+  },
+  procesadoras: {
+    name: "Guía de Procesadoras de Alimentos",
+    description:
+      "La más vendida, la mejor calificada o la más completa: cuál conviene según qué funciones necesitás, con precios reales de MercadoLibre.",
+  },
+  nebulizadores: {
+    name: "Guía de Nebulizadores",
+    description:
+      "Mesh silencioso o pistón tradicional: cuál conviene según tu uso, con el estado de certificación ANMAT de cada modelo y precios reales de MercadoLibre.",
+  },
+  tensiometros: {
+    name: "Guía de Tensiómetros Digitales",
+    description:
+      "De brazo o de muñeca, marca líder o más económico: cuál conviene según tu uso, con precios reales de MercadoLibre.",
+  },
+  "termotanques-gas": {
+    name: "Guía de Termotanques a Gas",
+    description:
+      "Instantáneo o de acumulación, tiro natural o cámara estanca: cuál conviene según tu instalación, con precios reales de MercadoLibre.",
+  },
+  "cerraduras-inteligentes": {
+    name: "Guía de Cerraduras Inteligentes",
+    description:
+      "Empotrable o retrofit, con huella, tarjeta o app: cuál conviene según tu puerta, con precios reales de MercadoLibre.",
+  },
+  "botellas-termicas": {
+    name: "Guía de Botellas Térmicas",
+    description:
+      "La más elegida, la más económica o la de retención verificada: cuál conviene según tu uso diario, con precios reales de MercadoLibre.",
+  },
+  "parrillas-electricas": {
+    name: "Guía de Parrillas Eléctricas",
+    description:
+      "La más vendida, la más compacta o la más grande: cuál conviene según cuántos cocinás, con precios reales de MercadoLibre.",
+  },
+  "alarmas-para-casa": {
+    name: "Guía de Alarmas para Casa",
+    description:
+      "El kit más completo, el más económico o para un solo punto de exterior: cuál conviene según tu casa, con precios reales de MercadoLibre.",
+  },
+  "bombillas-de-mate": {
+    name: "Guía de Bombillas de Mate",
+    description:
+      "La más elegida, la más económica o de alpaca: cuál conviene según tu yerba, con precios reales de MercadoLibre.",
+  },
+  "duchas-electricas": {
+    name: "Guía de Duchas Eléctricas",
+    description:
+      "La más vendida, la más económica o con organismo de certificación declarado: cuál conviene según tu instalación, con precios reales de MercadoLibre.",
+  },
+  "termometros-digitales": {
+    name: "Guía de Termómetros Digitales",
+    description:
+      "De contacto o infrarrojo, con o sin certificación ANMAT: cuál conviene según tu uso, con precios reales de MercadoLibre.",
+  },
+  smartwatches: {
+    name: "Guía de Smartwatches",
+    description:
+      "El más vendido, el más económico o el de batería más larga: cuál conviene según tu uso, con precios reales de MercadoLibre.",
   },
 };
