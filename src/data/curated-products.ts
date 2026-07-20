@@ -7798,7 +7798,7 @@ No: si tenés inducción, si buscás tazones grandes de café largo, o si queré
     category: "Salud y Belleza",
     categorySlug: "belleza",
     permalink: "https://www.mercadolibre.com.ar/p/MLA32066541",
-    affiliateUrl: "https://meli.la/1YNrY5P",
+    affiliateUrl: "https://meli.la/2YXhP9t",
     condition: "new",
     freeShipping: true,
     rating: 4.7,
