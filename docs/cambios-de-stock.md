@@ -7,6 +7,183 @@
 > 🔴 = se quedo sin stock (el link de afiliado apunta a una pagina pausada).
 > Entradas nuevas arriba.
 
+## 2026-07-20
+
+- 🟢 VOLVIO EL STOCK — **MLA47305608** Parlante Portátil 2 en 1 Stromberg Mega Twin Ipx4 Bluetooth Verde lima Usb-c
+  - ML: https://www.mercadolibre.com.ar/parlante-stromberg-megatwin-2-en-1-20w-verde/up/MLAU4175865451
+  - Sitio: https://productosvirales.com.ar/producto/MLA47305608
+- 🟢 VOLVIO EL STOCK — **MLA6344268** Audio Technica M30x Auriculares Cerrados Para Monitoreo Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA6344268
+  - Sitio: https://productosvirales.com.ar/producto/MLA6344268
+- 🟢 VOLVIO EL STOCK — **MLA45717136** Monitor Noblex NXSM2200 22 LED FHD 100Hz
+  - ML: https://www.mercadolibre.com.ar/p/MLA45717136
+  - Sitio: https://productosvirales.com.ar/producto/MLA45717136
+- 🔴 SIN STOCK — **MLA28645101** Microondas Rotativo Matrb20an 20lts 700w Negro Atma
+  - ML: https://www.mercadolibre.com.ar/p/MLA28645101
+  - Sitio: https://productosvirales.com.ar/producto/MLA28645101
+- 🟢 VOLVIO EL STOCK — **MLA49197748** Smart TV 43\
+  - ML: https://www.mercadolibre.com.ar/smart-tv-43-tcl-full-hd-qled-43s5k-google-tv-dolby-audio/p/MLA49197748
+  - Sitio: https://productosvirales.com.ar/producto/MLA49197748
+- 🔴 SIN STOCK — **MLA52092432** Robot De Cocina Heybez Pmix08 Negra con Vaporera
+  - ML: https://www.mercadolibre.com.ar/p/MLA52092432
+  - Sitio: https://productosvirales.com.ar/producto/MLA52092432
+- 🔴 SIN STOCK — **MLA43536904** Ventilador De Techo Peabody Pe-vtrdc425b 42 Retractil Cantidad de aspas 3 Estructura Blanco Aspas Transparente Diámetro 1.067 m Frecuencia 50 Hz Material de las aspas Acrílico
+  - ML: https://www.mercadolibre.com.ar/ventilador-de-techo-peabody-pe-vtrdc425b-42-retractil-cantidad-de-aspas-3-estructura-blanco-aspas-transparente-diametro-1067-m-frecuencia-50-hz-material-de-las-aspas-acrilico/p/MLA43536904
+  - Sitio: https://productosvirales.com.ar/producto/MLA43536904
+- 🟢 VOLVIO EL STOCK — **MLA16269737** Auriculares Logitech G733 Inalámbricos Color Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA16269737
+  - Sitio: https://productosvirales.com.ar/producto/MLA16269737
+- 🔴 SIN STOCK — **MLA23997257** Audifonos Diadema Jbl Tune 520bt Bluetooth Mas De 50 Horas Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA23997257
+  - Sitio: https://productosvirales.com.ar/producto/MLA23997257
+- 🔴 SIN STOCK — **MLA44033885** Ventilador De Techo Retráctil Etheos 100w Luz Led Control
+  - ML: https://www.mercadolibre.com.ar/ventilador-de-techo-retractil-etheos-100w-luz-led-control/p/MLA44033885
+  - Sitio: https://productosvirales.com.ar/producto/MLA44033885
+- 🔴 SIN STOCK — **MLA43960787** Monitor Gamer Curvo Xiaomi G34WQi 34 UWQHD 180Hz
+  - ML: https://www.mercadolibre.com.ar/p/MLA43960787
+  - Sitio: https://productosvirales.com.ar/producto/MLA43960787
+- 🔴 SIN STOCK — **MLA14428767** Mouse Gamer Logitech G Pro Wireless Black
+  - ML: https://www.mercadolibre.com.ar/p/MLA14428767
+  - Sitio: https://productosvirales.com.ar/producto/MLA14428767
+- 🟢 VOLVIO EL STOCK — **MLA28251222** Proyector Led Smart Android 11 Fhd 4500 Lumenes Wifi Bt Color Blanco
+  - ML: https://www.mercadolibre.com.ar/proyector-led-smart-android-11-fhd-4500-lumenes-wifi-bt-color-blanco/p/MLA28251222
+  - Sitio: https://productosvirales.com.ar/producto/MLA28251222
+- 🟢 VOLVIO EL STOCK — **MLA14263533** Peabody PE-DK1850 — Pava Eléctrica de Acero con 4 Niveles
+  - ML: https://www.mercadolibre.com.ar/pava-jarra-electrica-peabody-digital-acero-17lts-pe-dk1850/p/MLA14263533
+  - Sitio: https://productosvirales.com.ar/producto/MLA14263533
+- 🔴 SIN STOCK — **MLA28754461** Lattafa Emeer Eau De Parfum Arabe Caja Con Luces De 100 Ml
+  - ML: https://www.mercadolibre.com.ar/lattafa-emeer-eau-de-parfum-arabe-caja-con-luces-de-100-ml/p/MLA28754461
+  - Sitio: https://productosvirales.com.ar/producto/MLA28754461
+- 🟢 VOLVIO EL STOCK — **MLA32288168** Lattafa Yara Moi Eau de parfum Spray 100mL Mujer
+  - ML: https://www.mercadolibre.com.ar/lattafa-yara-moi-eau-de-parfum-spray-100ml-mujer/p/MLA32288168
+  - Sitio: https://productosvirales.com.ar/producto/MLA32288168
+- 🔴 SIN STOCK — **MLA16122300** Armaf Club de Nuit Intense Man EDP 200ml
+  - ML: https://www.mercadolibre.com.ar/armaf-club-de-nuit-intense-man-edp-200ml/p/MLA16122300
+  - Sitio: https://productosvirales.com.ar/producto/MLA16122300
+- 🟢 VOLVIO EL STOCK — **MLA43932163** Proyector mini ULTRAHD HY-300 8000lm blanco
+  - ML: https://www.mercadolibre.com.ar/proyector-mini-ultrahd-hy-300-8000lm-blanco/p/MLA43932163
+  - Sitio: https://productosvirales.com.ar/producto/MLA43932163
+- 🔴 SIN STOCK — **MLA54152343** Liliana Safeheat AP992B — 7 niveles, keep warm y doble pared
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-liliana-safeheat-ap992b-15lts-blanca-color-blanco/p/MLA54152343
+  - Sitio: https://productosvirales.com.ar/producto/MLA54152343
+- 🟢 VOLVIO EL STOCK — **MLA45951645** Aspiradora Robot Gadnic 5 Modos Limpieza Trapeo Inteligente Depósito de Agua Polvo Control App Conexion Inalambrica Sensores Anti‐Colisión Anticaída
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-gadnic-5-modos-limpieza-trapeo-inteligente-deposito-de-agua-polvo-control-app-conexion-inalambrica-sensores-anticolision-anticaida/p/MLA45951645
+  - Sitio: https://productosvirales.com.ar/producto/MLA45951645
+- 🔴 SIN STOCK — **MLA66281403** Aspiradora Xiaomi Robot Vacuum S40 Pro Color Blanco 15000 Pa
+  - ML: https://www.mercadolibre.com.ar/aspiradora-xiaomi-robot-vacuum-s40-pro-color-blanco-15000-pa/p/MLA66281403
+  - Sitio: https://productosvirales.com.ar/producto/MLA66281403
+- 🟢 VOLVIO EL STOCK — **MLA42113760** Freidora De Aire Kanji Home 8 Litros +10 Funciones Canasta Antiadherente Kjh-1700dc 1700w Lh Color Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-kanji-home-8-litros-10-funciones-canasta-antiadherente-kjh-1700dc-1700w-lh-color-negro/p/MLA42113760
+  - Sitio: https://productosvirales.com.ar/producto/MLA42113760
+- 🔴 SIN STOCK — **MLA27855490** Perfume Arabe Maison Alhambra Sceptre Malachite Edp 100 Ml
+  - ML: https://www.mercadolibre.com.ar/perfume-arabe-maison-alhambra-sceptre-malachite-edp-100-ml/p/MLA27855490
+  - Sitio: https://productosvirales.com.ar/producto/MLA27855490
+- 🔴 SIN STOCK — **MLA28709303** Freidora De Aire Oster Airfryer Dual 7.6l Diamondforce 6 Fun Color Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-oster-airfryer-dual-76l-diamondforce-6-fun-color-negro/p/MLA28709303
+  - Sitio: https://productosvirales.com.ar/producto/MLA28709303
+- 🟢 VOLVIO EL STOCK — **MLA65102455** Set Organizadores Acrílico Transparente x16 — Escritorio, Cajones, Placard
+  - ML: https://www.mercadolibre.com.ar/set-organizadores-para-escritorio-placard-kit-x16-acrilico-cajones-transparentes-hogares-oficina-escritorio-papeles-utiles-papeleria-accesorios-multiuso-cocina-bano-heladera-y-alacena-levys-bazar/p/MLA65102455
+  - Sitio: https://productosvirales.com.ar/producto/MLA65102455
+- 🔴 SIN STOCK — **MLA41829394** Freidora De Aire Peabody Pe-afd720n 7,2l Visor 360º 11 Prog Color Negro
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-peabody-pe-afd720n-72l-visor-360-11-prog-color-negro/p/MLA41829394
+  - Sitio: https://productosvirales.com.ar/producto/MLA41829394
+- 🟢 VOLVIO EL STOCK — **MLA13112158** Licuadora de mano Peabody PE-LMA327B mixer 800 W
+  - ML: https://www.mercadolibre.com.ar/p/MLA13112158
+  - Sitio: https://productosvirales.com.ar/producto/MLA13112158
+- 🔴 SIN STOCK — **MLA54522658** Aspiradora Y Trapeadora Robot Fika SENSE Antichoque Con App Wifi Color Negro
+  - ML: https://www.mercadolibre.com.ar/aspiradora-y-trapeadora-robot-fika-sense-antichoque-con-app-wifi-color-negro/p/MLA54522658
+  - Sitio: https://productosvirales.com.ar/producto/MLA54522658
+- 🔴 SIN STOCK — **MLA40654567** Cargador Xiaomi 10000mah 22.5w para celulares Android-iPhone
+  - ML: https://www.mercadolibre.com.ar/p/MLA40654567
+  - Sitio: https://productosvirales.com.ar/producto/MLA40654567
+- 🟢 VOLVIO EL STOCK — **MLA38252447** Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg
+  - ML: https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782
+  - Sitio: https://productosvirales.com.ar/producto/MLA38252447
+- 🟢 VOLVIO EL STOCK — **MLA44725486** Afeitadora Kemei KM-1102
+  - ML: https://www.mercadolibre.com.ar/p/MLA44725486
+  - Sitio: https://productosvirales.com.ar/producto/MLA44725486
+- 🔴 SIN STOCK — **MLA19053146** Bharara King EDP 100ml Hombre
+  - ML: https://www.mercadolibre.com.ar/bharara-king-eau-de-parfum-100ml-para-hombre/p/MLA19053146
+  - Sitio: https://productosvirales.com.ar/producto/MLA19053146
+- 🟢 VOLVIO EL STOCK — **MLA22934394** Secador Pelo Cabello Spica Sp-1900 2 Velocidades Color Verde claro
+  - ML: https://www.mercadolibre.com.ar/p/MLA22934394
+  - Sitio: https://productosvirales.com.ar/producto/MLA22934394
+- 🟢 VOLVIO EL STOCK — **MLA27351841** Freidora de aire digital sin aceite Atma Pro Fr60ar 6,5L color blanco
+  - ML: https://www.mercadolibre.com.ar/freidora-de-aire-digital-sin-aceite-atma-pro-fr60ar-65l-color-blanco/p/MLA27351841
+  - Sitio: https://productosvirales.com.ar/producto/MLA27351841
+- 🟢 VOLVIO EL STOCK — **MLA19147005** Balanza Digital con Bluetooth Femmto BCS15 para Baño Medidor de Grasa Corporal y Masa Muscular
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-con-bluetooth-femmto-bcs15-para-bano-medidor-de-grasa-corporal-y-masa-muscular/p/MLA19147005
+  - Sitio: https://productosvirales.com.ar/producto/MLA19147005
+- 🔴 SIN STOCK — **MLA23909880** Cafetera espresso Oster BVSTEM5501B negra
+  - ML: https://www.mercadolibre.com.ar/p/MLA23909880
+  - Sitio: https://productosvirales.com.ar/producto/MLA23909880
+- 🔴 SIN STOCK — **MLA19590135** Depiladora Bre285/00 Satinelle Philips Color Rosa
+  - ML: https://www.mercadolibre.com.ar/p/MLA19590135
+  - Sitio: https://productosvirales.com.ar/producto/MLA19590135
+- 🔴 SIN STOCK — **MLA15109525** Cafetera de filtro Ultracomb CA-2205 con timer digital
+  - ML: https://www.mercadolibre.com.ar/p/MLA15109525
+  - Sitio: https://productosvirales.com.ar/producto/MLA15109525
+- 🔴 SIN STOCK — **MLA59377328** Licuadora Oster Xtreme Mix de 1500 W con jarra de vidrio
+  - ML: https://www.mercadolibre.com.ar/p/MLA59377328
+  - Sitio: https://productosvirales.com.ar/producto/MLA59377328
+- 🟢 VOLVIO EL STOCK — **MLA15705813** Cafetera de cápsulas Moulinex Dolce Gusto Piccolo XS
+  - ML: https://www.mercadolibre.com.ar/p/MLA15705813
+  - Sitio: https://productosvirales.com.ar/producto/MLA15705813
+- 🔴 SIN STOCK — **MLA15286360** Balanza digital Omron Premium HN-289 silky grey, hasta 150 kg
+  - ML: https://www.mercadolibre.com.ar/balanza-digital-omron-premium-hn-289-silky-grey-hasta-150-kg/p/MLA15286360
+  - Sitio: https://productosvirales.com.ar/producto/MLA15286360
+- 🔴 SIN STOCK — **MLA8906508** Teclado Gamer Logitech G213 Prodigy Serie G
+  - ML: https://www.mercadolibre.com.ar/p/MLA8906508
+  - Sitio: https://productosvirales.com.ar/producto/MLA8906508
+- 🔴 SIN STOCK — **MLA19893399** Teclado Gamer Redragon K622 Horus TKL Switch Red Español
+  - ML: https://www.mercadolibre.com.ar/p/MLA19893399
+  - Sitio: https://productosvirales.com.ar/producto/MLA19893399
+- 🔴 SIN STOCK — **MLA41009857** Microondas Atma Matdb20uap 20l 700w Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA41009857
+  - Sitio: https://productosvirales.com.ar/producto/MLA41009857
+- 🔴 SIN STOCK — **MLA20804912** Tostadora Atma To20Wp Dos Rebanadas Color Blanco
+  - ML: https://www.mercadolibre.com.ar/tostadora-para-dos-rebanadas-color-blanco-atma/p/MLA20804912
+  - Sitio: https://productosvirales.com.ar/producto/MLA20804912
+- 🟢 VOLVIO EL STOCK — **MLA28103250** Humidificador Vaporizador Ambiente Ultrasónico Daewoo DHU335 Blanco y Azul
+  - ML: https://www.mercadolibre.com.ar/p/MLA28103250
+  - Sitio: https://productosvirales.com.ar/producto/MLA28103250
+- 🔴 SIN STOCK — **MLA44714806** Aspiradora robot Xiaomi Vacuum S20 negra
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-xiaomi-vacuum-s20-negra/p/MLA44714806
+  - Sitio: https://productosvirales.com.ar/producto/MLA44714806
+- 🔴 SIN STOCK — **MLA39861464** Multiprocesadora Atma 9 en 1 con jarra licuadora, picadora LP8426AP 600w Negra
+  - ML: https://www.mercadolibre.com.ar/multiprocesadora-atma-9-en-1-con-jarra-licuadora-picadora-lp8426ap-600w-negra/p/MLA39861464
+  - Sitio: https://productosvirales.com.ar/producto/MLA39861464
+- 🟢 VOLVIO EL STOCK — **MLA19589519** Pava Eléctrica Atma Pe1821nap 1.7lts Selector De Temperatura Negro
+  - ML: https://www.mercadolibre.com.ar/pava-electrica-atma-pe1821nap-17lts-selector-de-temperatura/p/MLA19589519
+  - Sitio: https://productosvirales.com.ar/producto/MLA19589519
+- 🔴 SIN STOCK — **MLA51985227** Power Bank Energizer Ultimate Cargador Portatil Powerbank 27000mah Led Carga Super Rapida 65w Color Negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA51985227
+  - Sitio: https://productosvirales.com.ar/producto/MLA51985227
+- 🔴 SIN STOCK — **MLA51929440** Smartwatch Reloj Inteligente Amazfit Bip 6 Amoled 1.97 GPS Llamadas Bluetooth 5 ATM 150 Modos Deportivos Ultra Duración De Batería Asistente AI
+  - ML: https://www.mercadolibre.com.ar/smartwatch-reloj-inteligente-amazfit-bip-6-amoled-197-gps-llamadas-bluetooth-5-atm-150-modos-deportivos-ultra-duracion-de-bateria-asistente-ai/p/MLA51929440
+  - Sitio: https://productosvirales.com.ar/producto/MLA51929440
+- 🟢 VOLVIO EL STOCK — **MLA15086696** Joystick inalámbrico Redragon Harrow G808 negro
+  - ML: https://www.mercadolibre.com.ar/p/MLA15086696
+  - Sitio: https://productosvirales.com.ar/producto/MLA15086696
+- 🔴 SIN STOCK — **MLA24111585** Tensiómetro digital de muñeca automático Omron HEM-6124 gris
+  - ML: https://www.mercadolibre.com.ar/tensiometro-digital-de-muneca-automatico-omron-hem-6124-gris/p/MLA24111585
+  - Sitio: https://productosvirales.com.ar/producto/MLA24111585
+- 🟢 VOLVIO EL STOCK — **MLA45423359** Aire Acondicionado PHP35HC7API Philco Portátil Frío/calor 3010 Frigorías Color Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA45423359
+  - Sitio: https://productosvirales.com.ar/producto/MLA45423359
+- 🔴 SIN STOCK — **MLA22272888** Maquina Cortar Pelo Magic Clip Wahl Profesional Clipper
+  - ML: https://www.mercadolibre.com.ar/p/MLA22272888
+  - Sitio: https://productosvirales.com.ar/producto/MLA22272888
+- 🔴 SIN STOCK — **MLA19761025** Termo Stanley Original Mate System Classic 1.2 Litros
+  - ML: https://www.mercadolibre.com.ar/p/MLA19761025
+  - Sitio: https://productosvirales.com.ar/producto/MLA19761025
+- 🟢 VOLVIO EL STOCK — **MLA65327878** Yogurtera Daewoo Yoggy Pro Dym672t Con Timer Digital Griego Blanco
+  - ML: https://www.mercadolibre.com.ar/p/MLA65327878
+  - Sitio: https://productosvirales.com.ar/producto/MLA65327878
+- 🟢 VOLVIO EL STOCK — **MLA25883660** Lattafa - Mayar Edp X100ml
+  - ML: https://www.mercadolibre.com.ar/lattafa-mayar-edp-x100ml/p/MLA25883660
+  - Sitio: https://productosvirales.com.ar/producto/MLA25883660
+
 ## 2026-07-17
 
 - 🔴 SIN STOCK — **MLA47305608** Parlante Portátil 2 en 1 Stromberg Mega Twin Ipx4 Bluetooth Verde lima Usb-c
