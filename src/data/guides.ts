@@ -21987,7 +21987,7 @@ export const guides: Guide[] = [
     ogImage: `https://http2.mlstatic.com/D_Q_NP_874647-MLA95977700870_102025-F.webp`,
     h1: `Día del Niño 2026: qué regalar según la edad, con precios reales`,
     directAnswer: `El Día del Niño (oficialmente Día de las Infancias) 2026 es el domingo **16 de agosto**. Para bebés, la **[alfombra sensorial Love Pez](/producto/MLA30894790)** (alrededor de {{precio:MLA30894790:k}}) es la más vendida. Para 2-5 años, los **[bloques magnéticos](/producto/MLA62609709)** (alrededor de {{precio:MLA62609709:k}}). Para 6-10 años, el **[LEGO Speed Champions DeLorean](/producto/MLA61271206)** (alrededor de {{precio:MLA61271206:k}}) con licencia oficial. Para adolescentes, el **[mini drone E88](/producto/MLA26082003)** (alrededor de {{precio:MLA26082003:k}}), 1° más vendido de su categoría.`,
-    publishedDate: "2026-09-01",
+    publishedDate: "2026-07-20",
     updatedDate: "2026-07-20",
     hasDisclosure: true,
     readingTime: 9,
