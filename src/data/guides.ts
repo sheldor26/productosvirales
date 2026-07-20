@@ -22125,6 +22125,131 @@ export const guides: Guide[] = [
     internalLinksTitle: "Seguí explorando",
   },
 
+  // ─────────────────────────────────────────────────────────
+  // Guía nueva mejores-peluches-personajes-argentina — silo "juguetes"
+  // (nueva categoría "peluches-personajes", pilar). Origen: research de
+  // keywords 2026-07-20 identificó esta franja (peluches por marca/
+  // personaje: Bluey, Monster High, Sylvanian Families, capibara, Stitch)
+  // como la mejor oportunidad de tráfico potencial no explotada del silo
+  // juguetes (~6.460 tráfico potencial estimado/mes combinado). Fichas
+  // sourceadas vía Bright Data (MercadoLibre Argentina), 2026-07-20.
+  // Nota: research original apuntaba a 9 personajes (sumar Paw Patrol,
+  // My Melody, Jellycat, Chiikawa); esos 4 quedaron afuera de esta
+  // primera tanda porque sus publicaciones en ML usan un componente de
+  // galería que no permite extraer la imagen en buena resolución. Ver
+  // docs/keyword-research-juguetes.md para el detalle completo.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "mejores-peluches-personajes-argentina",
+    category: "peluches-personajes",
+    silo: "juguetes",
+    pillar: true,
+    title: `Mejores Peluches de Personajes en Argentina: Bluey, Monster High y Más [2026]`,
+    seoTitle: `Peluches de Personajes: Bluey, Monster High, Stitch 2026`,
+    metaDescription: `Comparamos los mejores peluches de personajes en Argentina: Bluey, Monster High, Sylvanian Families, capibara y Stitch. Precios y reseñas reales de MercadoLibre.`,
+    ogTitle: `Mejores peluches de personajes en Argentina: Bluey, Monster High y más`,
+    ogDescription: `5 peluches de personaje comparados con precios y reseñas reales de MercadoLibre Argentina, con las aclaraciones de licencia que nadie te cuenta.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_753432-MLA96402199741_102025-F.webp`,
+    h1: `Mejores peluches de personajes en Argentina: Bluey, Monster High, Stitch y más`,
+    directAnswer: `Si priorizás **licencia oficial confirmada**, el **[Monster High Draculaura](/producto/MLA21801985)** (Mattel, alrededor de {{precio:MLA21801985:k}}) es el mejor calificado de esta guía: 4.9 estrellas. Si buscás el **fabricante oficial** en una figura chica, la **[Sylvanian Families Milk Rabbit](/producto/MLA19755046)** (Epoch, alrededor de {{precio:MLA19755046:k}}). Si el presupuesto manda, el **[peluche de Stitch](/producto/MLA1474884977)** (alrededor de {{precio:MLA1474884977:k}}) tiene el mayor volumen de reseñas reales de toda la guía, aunque sin licencia de Disney confirmada.`,
+    publishedDate: "2026-08-10",
+    updatedDate: "2026-07-20",
+    hasDisclosure: true,
+    readingTime: 8,
+    standfirst: `Comparamos 5 peluches de personaje que están vendiendo fuerte en MercadoLibre Argentina: Bluey, Monster High, Sylvanian Families, capibara y Stitch. Con precios reales, reseñas de compradores argentinos y las aclaraciones de licencia que la mayoría de las publicaciones no dice.`,
+    quickPicks: [
+      { productMlaId: "MLA21801985", label: "Mejor calificado", labelColor: "green", tagline: "Monster High Draculaura: licencia oficial Mattel, 4.9 estrellas" },
+      { productMlaId: "MLA19755046", label: "Fabricante oficial", labelColor: "blue", tagline: "Sylvanian Families: la ficha técnica confirma Epoch, no una réplica" },
+      { productMlaId: "MLA1474884977", label: "Más accesible", labelColor: "amber", tagline: "Peluche de Stitch: el mayor volumen de reseñas de esta guía" },
+      { productMlaId: "MLA33316829", label: "Más reseñas de su personaje", labelColor: "slate", tagline: "Bluey y Bingo: 774 calificaciones reales" },
+    ],
+    intro: [
+      `Los peluches de personaje (series infantiles, franquicias, tendencias virales) mueven mucho más volumen de búsqueda del que parece a simple vista: Bluey, Monster High y Paw Patrol tienen picos de búsqueda comparables o mayores a coleccionables más de moda como Labubu, con bastante menos competencia.`,
+      `El problema es que la mayoría de estas publicaciones en MercadoLibre Argentina no aclaran si el producto tiene licencia oficial del personaje o es una reproducción genérica. Acá comparamos 5 opciones reales, con la ficha técnica revisada campo por campo y las reseñas de compradores que confirman (o desmienten) lo que promete el título.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_753432-MLA96402199741_102025-F.webp", alt: `Muñeca Monster High Draculaura, una de las opciones con licencia oficial de esta guía`, imageSize: "hero" },
+
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Respuesta rápida", content: `Licencia oficial confirmada: **[Monster High Draculaura](/producto/MLA21801985)** (Mattel). Fabricante oficial en figura chica: **[Sylvanian Families](/producto/MLA19755046)** (Epoch). Mejor precio y más reseñas: **[peluche de Stitch](/producto/MLA1474884977)**. Más reseñas de Bluey: **[pack Bluey y Bingo](/producto/MLA33316829)**.` },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo armamos esta guía:** cruzamos volumen real de búsqueda en Argentina (Google Ads Keyword Planner, Ubersuggest) con reseñas reales de compradores para cada personaje. Revisamos el campo específico de "Marca"/"Fabricante" de la ficha técnica de cada publicación, no solo el título, para confirmar o desmentir la licencia oficial. Descartamos candidatos sin volumen real de opiniones. Precios de julio 2026, verificados contra MercadoLibre.` },
+
+      { type: "warning", content: `**Antes de seguir, las aclaraciones de licencia de esta guía:** el [pack de Bluey](/producto/MLA33316829) declara la marca "swancooyu" en su ficha técnica, sin licencia oficial confirmada de BBC Studios/Ludo Studio (no encontramos ninguna alternativa con licencia oficial bien posicionada en Argentina). El [peluche de Stitch](/producto/MLA1474884977) declara la marca "Giocafelice", sin licencia de Disney. El [peluche de capibara](/producto/MLA1508664165) tiene una contradicción propia del vendedor: el título dice 22cm, la ficha técnica dice 26cm. El [Monster High](/producto/MLA21801985) (Mattel) y la [Sylvanian Families](/producto/MLA19755046) (Epoch) sí confirman fabricante oficial en el campo correspondiente. Lo aclaramos en cada ficha, no lo escondemos.` },
+
+      { type: "h2", title: `Los 5 peluches, muñecos y figuras de personaje comparados`, id: "ranking" },
+
+      { type: "h3", title: `1. Monster High Draculaura — el mejor calificado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA21801985", label: "Mejor calificado", labelColor: "green", ranking: 1, description: `Muñeca articulada con licencia oficial Mattel, con accesorios. 4.9 estrellas, 785 calificaciones reales, la mejor de toda esta guía.` },
+      { type: "p", content: `Licencia oficial de Mattel confirmada en la ficha técnica, sin ninguna duda que aclarar. Viene articulada, con diadema, pulsera y zapatos de accesorio, a alrededor de {{precio:MLA21801985:k}}.` },
+      { type: "p", content: `La contra real: es el producto más caro de esta guía por lejos, y una reseña real de la versión fabricada en China menciona pelo con algunos huecos, resuelto con un lavado.` },
+      { type: "pull-quote", content: `"Quizás sea algo elevado el precio pero realmente vale la pena! esta muñeca es simplemente hermosa."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `2. Sylvanian Families Milk Rabbit — fabricante oficial confirmado`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA19755046", label: "Fabricante oficial", labelColor: "blue", ranking: 2, description: `Figura chica del fabricante oficial Epoch, con accesorio incluido. 4.9 estrellas, 201 calificaciones reales.` },
+      { type: "p", content: `El campo de fabricante de la ficha técnica declara "Epoch", la empresa japonesa dueña de la franquicia, no una réplica: a alrededor de {{precio:MLA19755046:k}}.` },
+      { type: "p", content: `La contra real: la mayoría de las reseñas visibles están traducidas de Brasil, no de compradores argentinos directos, y el precio es alto para el tamaño de la pieza (7,5 cm).` },
+      { type: "pull-quote", content: `"Son hermosos, caros pero de calidad."`, attribution: `Opinión verificada en MercadoLibre, Argentina` },
+
+      { type: "h3", title: `3. Peluche de Stitch — el más accesible`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA1474884977", label: "Más accesible", labelColor: "amber", ranking: 3, description: `Peluche de 23 cm, sin licencia oficial de Disney. 4.7 estrellas, 978 calificaciones: el mayor volumen de reseñas de toda esta guía.` },
+      { type: "p", content: `El precio más bajo del grupo y el mayor volumen absoluto de reseñas reales (978), a alrededor de {{precio:MLA1474884977:k}}.` },
+      { type: "p", content: `La contra real: la marca declarada es "Giocafelice", sin licencia oficial de Disney, y una reseña real señala que el tamaño no queda del todo claro en las fotos de la publicación.` },
+      { type: "pull-quote", content: `"Hermoso, obviamente es el tamaño tal cual describe, muy buena calidad, me encantó."`, attribution: `Opinión verificada en MercadoLibre (29 votos útiles)` },
+
+      { type: "h3", title: `4. Bluey y Bingo — el más reseñado de su personaje`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA33316829", label: "Más reseñas de su personaje", labelColor: "slate", ranking: 4, description: `Pack de 2 peluches (Bluey y Bingo), sin licencia oficial confirmada. 4.8 estrellas, 774 calificaciones reales.` },
+      { type: "p", content: `Trae los dos personajes juntos (no se venden por separado), a alrededor de {{precio:MLA33316829:k}}. Apto para lavado a mano y en lavarropas.` },
+      { type: "p", content: `La contra real: la marca declarada es "swancooyu", sin licencia oficial de BBC Studios/Ludo Studio confirmada; y una reseña real reporta stickers rotos en la espalda de una de las dos piezas.` },
+      { type: "pull-quote", content: `"Están super suaves y hermosos, tamaño perfecto para niño."`, attribution: `Opinión verificada en MercadoLibre` },
+
+      { type: "h3", title: `5. Peluche de capibara — la tendencia viral`, bigNumber: true },
+      { type: "product-card", productMlaId: "MLA1508664165", label: "Tendencia viral", labelColor: "purple", ranking: 5, description: `Peluche importado de capibara, marca genérica. 4.8 estrellas, 50 calificaciones reales, sin críticas negativas visibles.` },
+      { type: "p", content: `La tendencia viral del capibara, con reseñas reales de respaldo (4.8 estrellas), a alrededor de {{precio:MLA1508664165:k}}.` },
+      { type: "p", content: `La contra real: el título dice 22cm pero la ficha técnica declara 26cm (contradicción propia del vendedor), y el stock viene apareciendo bajo en varias verificaciones.` },
+
+      { type: "h2", title: `Tabla comparativa: los 5 peluches, muñecos y figuras`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Producto`, `Precio`, `Licencia`, `Ideal para`], rows: [
+        [`[Monster High Draculaura](/producto/MLA21801985)`, `{{precio:MLA21801985}}`, `Oficial (Mattel)`, `Mejor calificado, licencia confirmada`],
+        [`[Sylvanian Families Milk Rabbit](/producto/MLA19755046)`, `{{precio:MLA19755046}}`, `Fabricante oficial (Epoch)`, `Figura chica, para juntar colección`],
+        [`[Peluche de Stitch](/producto/MLA1474884977)`, `{{precio:MLA1474884977}}`, `Sin licencia confirmada`, `Presupuesto ajustado, más reseñas`],
+        [`[Bluey y Bingo](/producto/MLA33316829)`, `{{precio:MLA33316829}}`, `Sin licencia confirmada`, `Pack de 2 personajes juntos`],
+        [`[Peluche de capibara](/producto/MLA1508664165)`, `{{precio:MLA1508664165}}`, `Sin licencia (genérico)`, `Tendencia viral, regalo original`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir sin arrepentirte`, id: "como-elegir" },
+      { type: "h3", title: `Revisá el campo de "Marca" o "Fabricante" de la ficha técnica` },
+      { type: "p", content: `No alcanza con mirar el título de la publicación. En esta guía, el Monster High y la Sylvanian Families confirman fabricante oficial en el campo correspondiente de la ficha técnica; Bluey y Stitch declaran marcas genéricas ("swancooyu" y "Giocafelice") sin ninguna mención de licencia oficial. Si el regalo es específicamente por la licencia del personaje, ese campo es el que hay que mirar, no el título.` },
+      { type: "h3", title: `Contrastá medidas del título contra la ficha técnica` },
+      { type: "p", content: `El peluche de capibara de esta guía es un buen ejemplo de por qué conviene hacerlo: el título dice 22cm, pero el campo específico de tamaño de la ficha técnica declara 26cm. Es una contradicción propia del vendedor, y aparece más seguido de lo que uno pensaría en este tipo de producto importado.` },
+      { type: "h3", title: `Mirá el volumen real de reseñas, no solo el rating` },
+      { type: "p", content: `Un producto con 4.9 estrellas y 10 opiniones da menos certeza que uno con 4.7 estrellas y casi 1.000. El peluche de Stitch de esta guía tiene el mayor volumen absoluto (978 calificaciones); es una señal fuerte de que el producto se sostiene en la práctica, más allá del promedio.` },
+
+      { type: "h2", title: `Cuánto cuesta un peluche de personaje [agosto 2026]`, id: "cuanto-cuesta" },
+      { type: "list", items: [
+        `Opción más accesible: alrededor de {{precio:MLA1474884977:k}} (Stitch)`,
+        `Rango medio: {{precio:MLA33316829}} a {{precio:MLA1508664165}} (Bluey, capibara)`,
+        `Fabricante oficial en figura chica: alrededor de {{precio:MLA19755046:k}} (Sylvanian Families)`,
+        `Licencia oficial de marca grande: el más caro de esta guía, alrededor de {{precio:MLA21801985:k}} (Monster High)`,
+      ] },
+
+      { type: "verdict", content: `Si priorizás **licencia oficial confirmada**, el **[Monster High Draculaura](/producto/MLA21801985)** (Mattel) es el mejor calificado de esta guía. Si buscás **fabricante oficial** en una figura chica para juntar colección, la **[Sylvanian Families](/producto/MLA19755046)** (Epoch). Si el presupuesto manda o buscás el producto con más reseñas reales de respaldo, el **[peluche de Stitch](/producto/MLA1474884977)**. Para Bluey, el **[pack de 2 piezas](/producto/MLA33316829)** es la mejor opción disponible en el mercado argentino, aunque ninguna publicación de Bluey confirma licencia oficial. Y si buscás algo distinto y viral, el **[peluche de capibara](/producto/MLA1508664165)**.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor peluche de personaje con licencia oficial?`, answer: `El [Monster High Draculaura](/producto/MLA21801985), de Mattel: la ficha técnica confirma la marca oficial. La [Sylvanian Families](/producto/MLA19755046) también confirma fabricante oficial (Epoch), en una figura más chica y económica.` },
+      { question: `¿Los peluches de Bluey de MercadoLibre Argentina tienen licencia oficial?`, answer: `No encontramos ninguno con licencia oficial confirmada de BBC Studios/Ludo Studio. El de esta guía declara la marca "swancooyu" en su ficha técnica.` },
+      { question: `¿El peluche de Stitch es original de Disney?`, answer: `No, la marca declarada en la ficha técnica es "Giocafelice", sin ninguna mención de licencia oficial de Disney en la publicación.` },
+      { question: `¿Qué tamaño tiene el peluche de capibara?`, answer: `El título de la publicación dice 22cm, pero el campo de tamaño de la ficha técnica declara 26cm. Es una contradicción propia del vendedor que conviene tener en cuenta antes de comprar.` },
+      { question: `¿Cuál tiene más reseñas reales?`, answer: `El [peluche de Stitch](/producto/MLA1474884977), con 978 calificaciones reales, el mayor volumen de toda esta guía.` },
+      { question: `¿Vale la pena pagar más por el Monster High con licencia oficial?`, answer: `Si priorizás la certeza de que es mercadería oficialmente licenciada, sí: es el único de esta guía sin ninguna duda de honestidad que aclarar sobre su marca. Si el precio es la prioridad, las otras opciones de esta guía tienen reseñas reales sólidas igual.` },
+      { question: `¿La Sylvanian Families es réplica o el fabricante original?`, answer: `Es del fabricante original: el campo de fabricante de la ficha técnica declara "Epoch", la empresa japonesa dueña de la franquicia Sylvanian Families.` },
+    ],
+    internalLinks: [
+      { label: "Ver todos los juguetes virales", href: "/categoria/juguetes" },
+      { label: "Guía de regalos por edad para el Día del Niño", href: "/guias/juguetes/dia-del-nino-argentina" },
+    ],
+    internalLinksTitle: "Seguí explorando",
+  },
+
 ];
 
 export const guideCategories: Record<string, { name: string; description: string }> = {
@@ -22132,6 +22257,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía del Día del Niño",
     description:
       "Qué regalar según la edad: bebés, niños pequeños, 6 a 10 años y adolescentes. Juguetes virales con precios reales de MercadoLibre.",
+  },
+  "peluches-personajes": {
+    name: "Guía de Peluches de Personajes",
+    description:
+      "Bluey, Monster High, Sylvanian Families, capibara y Stitch: cuáles tienen licencia oficial y cuáles no, con precios y reseñas reales.",
   },
   masajeadores: {
     name: "Guía de Masajeadores",

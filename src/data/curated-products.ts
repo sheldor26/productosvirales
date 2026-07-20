@@ -63411,6 +63411,641 @@ Comprá este llavero si buscás el formato más versátil para llevar puesto, co
       },
     },
   },
+  {
+    id: "MLA33316829",
+    title: "Bluey Y Bingo Muñecos Peluche Swancooyu 2 Piezas Azul/Naranja 28cm",
+    canonicalName: "Bluey y Bingo (peluche 2 piezas)",
+    price: 18800,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_843188-MLA99442198544_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_843188-MLA99442198544_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_690642-MLU78804022941_082024-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/bluey-y-bingo-munecos-peluche-swancooyu-2-piezas-azulnaranja-28cm/p/MLA33316829",
+    affiliateUrl: "https://meli.la/2kTM2Af", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 774,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca declarada en la ficha técnica", value: "swancooyu (no hay licencia oficial confirmada de BBC Studios/Ludo Studio)" },
+      { label: "Personajes incluidos", value: "Bluey y Bingo (pack de 2 piezas)" },
+      { label: "Medidas", value: "28 x 10 cm" },
+      { label: "Peso", value: "55 g" },
+      { label: "Material", value: "Relleno de algodón" },
+      { label: "Hipoalergénico", value: "Sí" },
+      { label: "Cuidado", value: "Apto lavado a mano y en lavarropas" },
+      { label: "Edad mínima recomendada", value: "6 meses" },
+      { label: "Ventas de esta publicación", value: "Más de 1.000" },
+    ],
+    relatedProducts: ["MLA21801985", "MLA19755046"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Bluey y Bingo, pack de 2 peluches, 774 opiniones reales en MercadoLibre Argentina. Marca sin licencia oficial confirmada.",
+    seoTitle: "Bluey y Bingo: el peluche más reseñado de Argentina",
+    metaDescription: "Peluche de Bluey y Bingo, pack de 2 piezas. 774 opiniones reales, 4.8 estrellas. Sin licencia oficial confirmada, precio actualizado.",
+    verdict: "Sirve si buscás el peluche de Bluey con más volumen de reseñas reales de todo este research: 774 calificaciones, 4.8 estrellas, más de 1.000 ventas en esta publicación. Trae los dos personajes juntos (Bluey y Bingo), no se venden por separado. Aclaración de honestidad importante: la marca declarada en la ficha técnica es \"swancooyu\", no hay licencia oficial confirmada de BBC Studios/Ludo Studio. No es una limitación de esta elección puntual: no encontramos ningún peluche de Bluey con licencia oficial bien posicionado en MercadoLibre Argentina, así que esto es representativo de lo que hay realmente disponible en el mercado local. Una reseña real menciona que llegó con los stickers de la espalda rotos; el resto de las opiniones es consistentemente positivo.",
+    pros: [
+      "774 calificaciones reales, 4.8 estrellas: el mayor volumen de reseñas de todo el research de Bluey",
+      "Trae los dos personajes (Bluey y Bingo) en el mismo pack",
+      "Apto para lavado a mano y en lavarropas, según la ficha técnica",
+      "\"Están super suaves y hermosos, tamaño perfecto para niño\", según una reseña real",
+    ],
+    cons: [
+      "Marca declarada \"swancooyu\": sin licencia oficial confirmada de BBC Studios/Ludo Studio",
+      "Una reseña real reporta que llegó con los stickers de la espalda rotos",
+      "Se vende como pack de 2 piezas, no se puede comprar un personaje solo",
+    ],
+    articleBody: `## Qué es y para quién
+
+Pack de 2 peluches, Bluey y Bingo, las perritas protagonistas de la serie infantil. 28 x 10 cm, relleno de algodón hipoalergénico. Es el peluche de Bluey con más reseñas reales de todo este research: 774 calificaciones, 4.8 estrellas.
+
+## La aclaración de licencia, honesta
+
+La ficha técnica declara la marca "swancooyu", no hay ningún dato que confirme licencia oficial de BBC Studios o Ludo Studio (las productoras de Bluey). Recorrimos el mercado de MercadoLibre Argentina buscando una alternativa con licencia oficial y no encontramos ninguna bien posicionada: esto es representativo de lo que hay disponible hoy, no una limitación de esta elección puntual.
+
+## Cuidado y specs
+
+Apto para lavado a mano y en lavarropas, según la ficha técnica. Edad mínima recomendada: 6 meses. Viene empacado al vacío para el envío, lo que puede dejarlo momentáneamente arrugado (una reseña real lo confirma).
+
+## Lo que dicen los compradores reales
+
+"Muy lindos los dos peluches, era lo que buscaba, lo único es que uno de los dos vino con los stickers de la espalda rotos" (reseña de Argentina) es la única crítica real entre las más votadas. El resto es positivo: "Están super suaves y hermosos, tamaño perfecto para niño" y hasta una reseña curiosa de una compradora que los usó como juguete para su perro: "A mi perro le encantaron, son chiquitos pero muy linda calidad."
+
+## La contra real
+
+El empaque al vacío puede dejar arrugas temporales y algunas piezas de plástico (ojos, detalles) que se sienten menos premium que el resto del peluche, según más de una reseña.
+
+## Para quién sí y para quién no
+
+Comprá este pack si buscás el peluche de Bluey con más respaldo de compradores reales de este research y no te molesta que no tenga licencia oficial confirmada. No es para vos si necesitás garantía de mercadería 100% licenciada.`,
+    faq: [
+      {
+        question: "¿Es un peluche de Bluey con licencia oficial?",
+        answer: "La ficha técnica declara la marca \"swancooyu\", sin confirmación de licencia oficial de BBC Studios/Ludo Studio. No encontramos alternativas con licencia oficial bien posicionadas en MercadoLibre Argentina.",
+      },
+      {
+        question: "¿Vienen Bluey y Bingo por separado?",
+        answer: "No, se venden juntos en un pack de 2 piezas.",
+      },
+      {
+        question: "¿Se puede lavar?",
+        answer: "Sí, la ficha técnica indica que es apto tanto para lavado a mano como en lavarropas.",
+      },
+      {
+        question: "¿Desde qué edad es apto?",
+        answer: "La ficha técnica declara 6 meses como edad mínima recomendada.",
+      },
+      {
+        question: "¿Cuántas reseñas reales tiene?",
+        answer: "774 calificaciones con 4.8 estrellas de promedio, el mayor volumen de reseñas de Bluey de todo este research.",
+      },
+      {
+        question: "¿Hay quejas sobre la calidad?",
+        answer: "Una reseña real reporta stickers rotos en la espalda de una de las dos piezas. El resto de las opiniones es consistentemente positivo.",
+      },
+    ],
+    customerReviews: [
+      { rating: 4, country: "Argentina", date: "hace 1 año", useful: 4, text: "Muy lindos los dos peluches, era lo que buscaba, lo único es que uno de los dos vino con los stickers de la espalda rotos. Ya no hago tiempo de cambiarlo porque es para un regalo, pero estaría bueno que lo chequeen antes de enviar." },
+      { rating: 5, country: "México", date: "hace 7 meses", useful: 0, text: "Así como los empacan al vacío se maltratan mucho, quedan arrugados y hay partes que son de plástico y se pegan muy feo pero están bien bonitos y pequeños." },
+      { rating: 5, country: "Argentina", date: "hace 3 meses", useful: 0, text: "A mi perro le encantaron, son chiquitos pero muy linda calidad." },
+      { rating: 5, country: "México", date: "hace 7 meses", useful: 0, text: "Están super suaves y hermosos, tamaño perfecto para niño." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Bluey y Bingo (peluche 2 piezas)",
+      image: ["https://http2.mlstatic.com/D_Q_NP_843188-MLA99442198544_112025-F.webp"],
+      description: "Pack de 2 peluches, Bluey y Bingo, marca sin licencia oficial confirmada.",
+      brand: { "@type": "Brand", name: "swancooyu" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/bluey-y-bingo-munecos-peluche-swancooyu-2-piezas-azulnaranja-28cm/p/MLA33316829",
+        priceCurrency: "ARS",
+        price: "18800",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "774",
+      },
+    },
+  },
+  {
+    id: "MLA21801985",
+    title: "Mattel Monster High Muñeca Draculaura Moda Con Accesorios",
+    canonicalName: "Monster High Draculaura Moda (Mattel)",
+    price: 99990,
+    originalPrice: 149990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_753432-MLA96402199741_102025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_753432-MLA96402199741_102025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_843128-MLA99928973395_112025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/mattel-monster-high-muneca-draculaura-moda-con-accesorios/p/MLA21801985",
+    affiliateUrl: "https://meli.la/1giCjSv", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 785,
+    soldQuantity: 1000,
+    pastelColor: "var(--pastel-purple)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Mattel" },
+      { label: "Línea", value: "Monster High" },
+      { label: "Modelo", value: "HHK51" },
+      { label: "Personaje", value: "Draculaura Moda" },
+      { label: "Articulada", value: "Sí" },
+      { label: "Altura", value: "28 cm" },
+      { label: "Peso", value: "400 g" },
+      { label: "Material", value: "Plástico" },
+      { label: "Accesorios incluidos", value: "Diadema con lazo rosa, pulsera, zapatos" },
+      { label: "Edad mínima recomendada", value: "4 años" },
+      { label: "Certificado de seguridad del juguete", value: "Declarado en la ficha técnica (Inmetro)" },
+      { label: "Vendedor", value: "Kinderland, tienda oficial de MercadoLibre, +250 mil ventas" },
+    ],
+    relatedProducts: ["MLA33316829", "MLA19755046"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Muñeca Monster High Draculaura Moda, Mattel, con licencia oficial. 785 opiniones reales, 4.9 estrellas en MercadoLibre Argentina.",
+    seoTitle: "Monster High Draculaura: la mejor calificada de esta guía",
+    metaDescription: "Muñeca Monster High Draculaura Moda, Mattel, licencia oficial. 785 opiniones reales, 4.9 estrellas, precio actualizado.",
+    verdict: "Sirve si buscás el peluche o muñeco de personaje con mejor calificación de todo este research: 4.9 estrellas sobre 785 opiniones reales, con licencia oficial de Mattel confirmada en la ficha técnica. Viene articulada, con accesorios (diadema, pulsera, zapatos). El precio es el más alto de esta guía dentro de su franja ($99.990), consistente con ser producto oficial de una marca grande. Una reseña real de una compradora que recibió la versión fabricada en China menciona detalles menores de pelo con huecos, resueltos con un lavado; el resto de las opiniones es uniformemente positivo.",
+    pros: [
+      "Licencia oficial de Mattel confirmada en la ficha técnica",
+      "La mejor calificación de todo este research: 4.9 estrellas sobre 785 opiniones reales",
+      "Articulada, con accesorios incluidos (diadema, pulsera, zapatos)",
+      "Vendida por Kinderland, tienda oficial con más de 250 mil ventas históricas",
+    ],
+    cons: [
+      "El precio más alto de esta guía dentro de su franja",
+      "Una reseña real reporta pelo con huecos en la versión fabricada en China, resuelto con un lavado",
+      "Edad mínima recomendada 4 años, más alta que otros productos de esta guía",
+    ],
+    articleBody: `## Qué es y para quién
+
+Muñeca articulada Monster High, personaje Draculaura Moda, de Mattel (licencia oficial confirmada en la ficha técnica). 28 cm, con accesorios incluidos: diadema, pulsera y zapatos. Es la mejor calificada de todo este research de peluches y personajes: 4.9 estrellas sobre 785 opiniones reales.
+
+## Licencia y fabricante
+
+A diferencia de otros productos de esta guía, acá no hay ninguna duda de honestidad que aclarar: la marca declarada en la ficha técnica es Mattel, fabricante oficial de la franquicia Monster High, y el vendedor es Kinderland, tienda oficial de MercadoLibre con más de 250 mil ventas históricas.
+
+## Cómo viene
+
+Articulada, con accesorios de moda incluidos. La edad mínima recomendada declarada es 4 años, la más alta de este research, consistente con ser un producto con piezas pequeñas (accesorios) que no conviene dejar al alcance de bebés.
+
+## Lo que dicen los compradores reales
+
+"Quizás sea algo elevado el precio pero realmente vale la pena! esta muñeca es simplemente hermosa y con los detalles de su ropa, pelo y accesorios es maravillosa!" resume el sentimiento general. Una compradora fue más detallada con la contra real: "tocó la versión china, su accesorios se sienten de buena calidad además de que no vino con ningún problema de impresión en su rostro, su pelo es de saran suave pero tiene algunos huecos en este, con un boilwash se arregló."
+
+## La contra real
+
+El precio: a $99.990 es el producto más caro de esta guía por lejos. Es el costo de tener licencia oficial confirmada de una marca grande, no un problema de calidad.
+
+## Para quién sí y para quién no
+
+Comprá esta muñeca si priorizás licencia oficial confirmada y no te importa pagar más por eso. No es para vos si buscás la opción más económica de esta guía: para eso, mirá el [peluche de Stitch](/producto/MLA1474884977), con precio mucho más accesible.`,
+    faq: [
+      {
+        question: "¿Es una Monster High con licencia oficial de Mattel?",
+        answer: "Sí, la marca declarada en la ficha técnica es Mattel, fabricante oficial de la franquicia, y el vendedor es una tienda oficial de MercadoLibre.",
+      },
+      {
+        question: "¿Viene con accesorios?",
+        answer: "Sí: diadema con lazo rosa, pulsera y zapatos.",
+      },
+      {
+        question: "¿Es articulada?",
+        answer: "Sí, la muñeca es articulada.",
+      },
+      {
+        question: "¿Desde qué edad es apta?",
+        answer: "La ficha técnica declara 4 años como edad mínima recomendada.",
+      },
+      {
+        question: "¿Hay quejas reales sobre la calidad?",
+        answer: "Una reseña real menciona pelo con huecos en la versión fabricada en China, resuelto con un lavado. Es la única crítica real entre las opiniones más votadas.",
+      },
+      {
+        question: "¿Por qué es más cara que el resto de esta guía?",
+        answer: "Es producto con licencia oficial confirmada de una marca grande (Mattel), lo que explica el precio más alto de esta guía.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Brasil", date: "hace más de 1 año", useful: 0, text: "¡Muy linda! Todo llegó en perfectas condiciones y bien envuelto. ¡Me encantó!" },
+      { rating: 5, country: "México", date: "hace más de 1 año", useful: 0, text: "Quizás sea algo elevado el precio pero realmente vale la pena! esta muñeca es simplemente hermosa y con los detalles de su ropa, pelo y accesorios es maravillosa!." },
+      { rating: 5, country: "México", date: "hace más de 1 año", useful: 0, text: "Es realmente bonita, tocó la versión china, su accesorios se sienten de buena calidad además de que no vino con ningún problema de impresión en su rostro, su pelo es de saran suave pero tiene algunos huecos en este, con un boilwash se arregló, pero de ahí en más, es tan bonita y perfecta." },
+      { rating: 5, country: "Argentina", date: "hace más de 1 año", useful: 0, text: "Todo lo esperado." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Monster High Draculaura Moda (Mattel)",
+      image: ["https://http2.mlstatic.com/D_Q_NP_753432-MLA96402199741_102025-F.webp"],
+      description: "Muñeca articulada Monster High Draculaura Moda, licencia oficial Mattel.",
+      brand: { "@type": "Brand", name: "Mattel" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/mattel-monster-high-muneca-draculaura-moda-con-accesorios/p/MLA21801985",
+        priceCurrency: "ARS",
+        price: "99990",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "785",
+      },
+    },
+  },
+  {
+    id: "MLA19755046",
+    title: "Juguete Para Bebé Sylvanian Families 5413 Epoch Milk Rabbit",
+    canonicalName: "Sylvanian Families 5413 Milk Rabbit (Epoch)",
+    price: 32990,
+    originalPrice: 39990,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_799854-MLA99953390259_112025-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_799854-MLA99953390259_112025-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_617285-MLA91876600925_092025-F.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://www.mercadolibre.com.ar/juguete-para-bebe-sylvanian-families-5413-epoch-milk-rabbit/p/MLA19755046",
+    affiliateUrl: "https://meli.la/25Su8Jk", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 201,
+    pastelColor: "var(--pastel-amber)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca / fabricante", value: "Epoch (fabricante oficial de Sylvanian Families)" },
+      { label: "Modelo", value: "5413" },
+      { label: "Personaje", value: "Milk Rabbit" },
+      { label: "Altura", value: "7,5 cm" },
+      { label: "Ancho", value: "4 cm" },
+      { label: "Peso", value: "96 g" },
+      { label: "Material", value: "Plástico inyectado + tela" },
+      { label: "Accesorio incluido", value: "Chupete" },
+      { label: "Edad mínima recomendada", value: "3 años" },
+      { label: "Certificado de seguridad del juguete", value: "Declarado en la ficha técnica (Inmetro)" },
+      { label: "Vendedor", value: "Kinderland, tienda oficial, +250 mil ventas" },
+    ],
+    relatedProducts: ["MLA1508664165", "MLA1474884977"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Sylvanian Families 5413 Milk Rabbit, fabricante oficial Epoch. 201 opiniones reales, 4.9 estrellas en MercadoLibre Argentina.",
+    seoTitle: "Sylvanian Families Milk Rabbit: original, no réplica",
+    metaDescription: "Sylvanian Families 5413 Milk Rabbit, fabricante oficial Epoch. 201 opiniones reales, 4.9 estrellas, precio actualizado.",
+    verdict: "Sirve si buscás la opción con fabricante oficial confirmado de todo este research: la ficha técnica declara \"Epoch\", la empresa japonesa dueña de la franquicia Sylvanian Families, no una réplica genérica. 201 opiniones reales, 4.9 estrellas. La mayoría de las reseñas visibles vienen traducidas de Brasil (ML lo aclara explícitamente), pero encontramos al menos una reseña de origen Argentina que confirma el mismo sentimiento: calidad real, precio alto. Viene con un chupete de accesorio y edad mínima recomendada de 3 años.",
+    pros: [
+      "Fabricante oficial confirmado: Epoch, la empresa dueña de la franquicia Sylvanian Families",
+      "201 opiniones reales, 4.9 estrellas",
+      "Vendido por Kinderland, tienda oficial con más de 250 mil ventas históricas",
+      "Certificado de seguridad del juguete declarado en la ficha técnica",
+    ],
+    cons: [
+      "La mayoría de las reseñas visibles son traducidas de Brasil, no de compradores argentinos",
+      "Precio más alto que otras figuras chicas de esta guía",
+      "Tamaño pequeño (7,5 cm), no es la pieza más vistosa para regalar sola",
+    ],
+    articleBody: `## Qué es y para quién
+
+Figura Sylvanian Families, personaje Milk Rabbit, modelo 5413. 7,5 cm de altura, con un chupete de accesorio incluido. Es la única de esta guía con fabricante oficial confirmado en la ficha técnica: Epoch, la empresa japonesa dueña de la franquicia.
+
+## Fabricante, no réplica
+
+A diferencia de varios productos de esta guía donde la licencia queda en duda, acá el campo de marca/fabricante de la ficha técnica dice directamente "Epoch". No es una reproducción compatible ni un genérico: es el fabricante real de Sylvanian Families.
+
+## Cómo viene
+
+Modelo 5413, Milk Rabbit, de plástico inyectado con partes de tela, 96 g. Incluye un accesorio (chupete). Edad mínima recomendada: 3 años, con certificado de seguridad del juguete declarado.
+
+## Lo que dicen los compradores reales
+
+MercadoLibre marca explícitamente que "incluye opiniones de otros países" en este producto: la mayoría de las reseñas visibles están traducidas del portugués (Brasil). La única de origen argentino que encontramos resume bien el sentimiento general: "Son hermosos, caros pero de calidad." Las traducidas de Brasil coinciden: "Lo compré para mi novia como regalo... ¡le encantó! Excelente producto."
+
+## La contra real
+
+El precio es alto para el tamaño de la pieza (7,5 cm), y la mayoría de la prueba social visible viene de otro país, no de compradores argentinos directos.
+
+## Para quién sí y para quién no
+
+Comprá esta figura si priorizás fabricante oficial confirmado por sobre precio. No es para vos si buscás la opción más grande o más barata de esta guía: para eso, mirá el [peluche de Stitch](/producto/MLA1474884977), mucho más grande y más económico.`,
+    faq: [
+      {
+        question: "¿Es Sylvanian Families original o una réplica?",
+        answer: "Es original: la ficha técnica declara \"Epoch\" como fabricante, la empresa japonesa dueña de la franquicia, no una réplica genérica.",
+      },
+      {
+        question: "¿Trae accesorios?",
+        answer: "Sí, incluye un chupete como accesorio.",
+      },
+      {
+        question: "¿Qué tamaño tiene?",
+        answer: "7,5 cm de altura, 4 cm de ancho.",
+      },
+      {
+        question: "¿Desde qué edad es apto?",
+        answer: "La ficha técnica declara 3 años como edad mínima recomendada.",
+      },
+      {
+        question: "¿Las reseñas son de compradores argentinos?",
+        answer: "MercadoLibre aclara que incluye opiniones de otros países; la mayoría de las reseñas visibles están traducidas de Brasil. Encontramos al menos una de origen argentino con el mismo sentimiento positivo.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 4, text: "Son hermosos, caros pero de calidad." },
+      { rating: 5, country: "Brasil", date: "hace más de 1 año", useful: 8, text: "Lo compré para mi novia como regalo para el Día de los Enamorados y ¡le encantó! Excelente producto." },
+      { rating: 5, country: "Brasil", date: "hace 1 año", useful: 3, text: "La cosa más linda, él es tan adorable, ¡tengo ganas de apretarlo todo!" },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Sylvanian Families 5413 Milk Rabbit (Epoch)",
+      image: ["https://http2.mlstatic.com/D_Q_NP_799854-MLA99953390259_112025-F.webp"],
+      description: "Figura Sylvanian Families Milk Rabbit, fabricante oficial Epoch.",
+      brand: { "@type": "Brand", name: "Epoch" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/juguete-para-bebe-sylvanian-families-5413-epoch-milk-rabbit/p/MLA19755046",
+        priceCurrency: "ARS",
+        price: "32990",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "201",
+      },
+    },
+  },
+  {
+    id: "MLA1508664165",
+    title: "Peluche Capibara Capybara Carpincho Muy Suave 22cm Importado",
+    canonicalName: "Peluche Capibara (importado)",
+    price: 18244.62,
+    originalPrice: 22538.62,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_986420-MLA100400234520_122025-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_986420-MLA100400234520_122025-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_702312-MLA100894335801_122025-O.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1508664165-peluche-capibara-capybara-carpincho-muy-suave-22cm-importado-_JM",
+    affiliateUrl: "https://meli.la/1AmBtnD", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.8,
+    reviewCount: 50,
+    pastelColor: "var(--pastel-green)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Genérica" },
+      { label: "Personaje", value: "Capibara / carpincho" },
+      { label: "Tamaño según título del vendedor", value: "22 cm" },
+      { label: "Tamaño según ficha técnica", value: "26 cm (no coincide con el título, es la contradicción propia del vendedor)" },
+      { label: "Material", value: "Felpa" },
+      { label: "Vendedor", value: "Kame House Store, MercadoLíder Platinum, +10 mil ventas, despachado por Full" },
+      { label: "Stock", value: "Bajo (rondando las últimas unidades en varias verificaciones); reconfirmar antes de recomendar activamente" },
+    ],
+    relatedProducts: ["MLA19755046", "MLA1474884977"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Peluche de capibara importado, 4.8 estrellas y 50 opiniones reales en MercadoLibre Argentina. Ojo: el título dice 22cm, la ficha técnica dice 26cm.",
+    seoTitle: "Peluche de capibara: la tendencia viral, con reseñas reales",
+    metaDescription: "Peluche de capibara importado, 4.8 estrellas, 50 opiniones reales. Aclaración: título dice 22cm, ficha técnica dice 26cm.",
+    verdict: "Sirve si buscás la tendencia viral del capibara con reseñas reales de respaldo: 4.8 estrellas sobre 50 opiniones, sin ninguna crítica negativa visible entre las más votadas. Aclaración de honestidad importante: el título de la publicación dice \"22cm\", pero el campo específico de tamaño de la ficha técnica estructurada dice \"26cm\" — es una contradicción propia del vendedor, no un error nuestro, y conviene tenerla en cuenta antes de comprar. El stock viene mostrando cantidades bajas en varias verificaciones distintas (sin llegar a agotarse), así que si te interesa, no lo dejes para último momento.",
+    pros: [
+      "4.8 estrellas sobre 50 opiniones reales, sin críticas negativas visibles entre las más votadas",
+      "Vendido por Full (despacho de MercadoLibre), con vendedor MercadoLíder Platinum",
+      "Tendencia viral real, con tracción de búsqueda confirmada",
+      "\"Excelente calidad y súper suave. Mi hija feliz!\", según una reseña real",
+    ],
+    cons: [
+      "El título dice 22cm pero la ficha técnica estructurada dice 26cm: contradicción propia del vendedor",
+      "Stock bajo en varias verificaciones distintas, sin fabricante identificable (marca genérica)",
+      "Sin licencia de personaje: es un peluche genérico con forma de capibara, no de una franquicia específica",
+    ],
+    articleBody: `## Qué es y para quién
+
+Peluche con forma de capibara (carpincho), importado, de marca genérica. Es uno de los productos con mejor calificación de todo este research: 4.8 estrellas sobre 50 opiniones reales, sin ninguna crítica negativa entre las más votadas.
+
+## La contradicción de tamaño, sin maquillar
+
+El título de la publicación dice "22cm", pero el campo específico de tamaño en la ficha técnica estructurada declara "26cm". Es una contradicción del propio vendedor entre dos campos de la misma publicación, no un error nuestro ni una interpretación: la dejamos tal cual está para que decidas con la información completa.
+
+## Stock, a tener en cuenta
+
+En varias verificaciones distintas el stock apareció bajo (rondando las últimas unidades), sin llegar a agotarse ni pausarse. Si te interesa, conviene chequear disponibilidad antes de decidir, no es un producto con stock amplio garantizado.
+
+## Lo que dicen los compradores reales
+
+"Excelente calidad y súper suave. Mi hija feliz!" y "Hermoso peluche mi nieta feliz con su capibara" resumen el tono general de las reseñas: consistentemente positivo, sin ninguna queja real visible entre las más votadas.
+
+## La contra real
+
+Más allá de la contradicción de tamaño, es un producto genérico sin marca ni licencia de personaje reconocible: no hay un fabricante identificable detrás, es la naturaleza de este tipo de producto de tendencia viral.
+
+## Para quién sí y para quién no
+
+Comprá este peluche si te interesa la tendencia del capibara y no te molesta la falta de marca reconocible. No es para vos si necesitás la certeza exacta del tamaño antes de comprar: la ficha técnica y el título no coinciden.`,
+    faq: [
+      {
+        question: "¿El peluche mide 22cm o 26cm?",
+        answer: "El título de la publicación dice 22cm, pero el campo de tamaño de la ficha técnica estructurada declara 26cm. Es una contradicción del propio vendedor.",
+      },
+      {
+        question: "¿Es de alguna marca o franquicia reconocida?",
+        answer: "No, la marca declarada es genérica. No tiene licencia de ningún personaje o franquicia específica.",
+      },
+      {
+        question: "¿Cuántas reseñas reales tiene?",
+        answer: "50 calificaciones con 4.8 estrellas de promedio, sin críticas negativas visibles entre las más votadas.",
+      },
+      {
+        question: "¿Tiene stock disponible?",
+        answer: "En varias verificaciones apareció con stock bajo, sin llegar a agotarse. Conviene reconfirmar disponibilidad antes de decidir.",
+      },
+      {
+        question: "¿Quién despacha el envío?",
+        answer: "Lo despacha MercadoLibre por el sistema Full, con vendedor MercadoLíder Platinum.",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 5 meses", useful: 3, text: "Excelente calidad y súper suave. Mi hija feliz!." },
+      { rating: 5, country: "Argentina", date: "hace 6 meses", useful: 2, text: "Textura: muy suave. Diseño: pequeño suave. Buen producto para niños chicos." },
+      { rating: 5, country: "Argentina", date: "hace 4 meses", useful: 1, text: "Hermoso peluche mi nieta feliz con su capibara." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Peluche Capibara (importado)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_986420-MLA100400234520_122025-O.webp"],
+      description: "Peluche de capibara importado, marca genérica. Título dice 22cm, ficha técnica dice 26cm.",
+      offers: {
+        "@type": "Offer",
+        url: "https://articulo.mercadolibre.com.ar/MLA-1508664165-peluche-capibara-capybara-carpincho-muy-suave-22cm-importado-_JM",
+        priceCurrency: "ARS",
+        price: "18244.62",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.8",
+        reviewCount: "50",
+      },
+    },
+  },
+  {
+    id: "MLA1474884977",
+    title: "Peluche Stitch Tierno Muñeco De Felpa X1",
+    canonicalName: "Peluche Stitch (Giocafelice)",
+    price: 14220,
+    originalPrice: 18000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_NQ_NP_854800-MLA111557752125_052026-O.webp",
+    images: [
+      "https://http2.mlstatic.com/D_NQ_NP_854800-MLA111557752125_052026-O.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_940182-MLA111558311171_052026-O.webp",
+    ],
+    category: "Juguetes",
+    categorySlug: "juguetes",
+    permalink: "https://articulo.mercadolibre.com.ar/MLA-1474884977-peluche-stitch-tierno-muneco-de-felpa-x1-_JM",
+    affiliateUrl: "https://meli.la/1KUbe3U", // Link meli.la aplicado 2026-07-20.
+    condition: "new",
+    freeShipping: true,
+    rating: 4.7,
+    reviewCount: 978,
+    pastelColor: "var(--pastel-blue)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca declarada en la ficha técnica", value: "Giocafelice (sin licencia oficial de Disney)" },
+      { label: "Personaje", value: "Stitch (Lilo & Stitch)" },
+      { label: "Medidas", value: "23 x 16 cm" },
+      { label: "Peso (ficha técnica estructurada)", value: "160 g" },
+      { label: "Material", value: "Felpa, relleno de vellón" },
+      { label: "Variante disponible", value: "También en color \"Angel\"" },
+      { label: "Vendedor", value: "GiocaFelice Juguetes, tienda oficial, MercadoLíder Platinum, +10 mil ventas" },
+    ],
+    relatedProducts: ["MLA1508664165", "MLA21801985"],
+    priceUpdated: "2026-07-20",
+    priceLastChecked: "2026-07-20",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-20",
+    description: "Peluche de Stitch, 978 opiniones reales en MercadoLibre Argentina, el mayor volumen de reseñas de esta guía. Sin licencia oficial de Disney.",
+    seoTitle: "Peluche de Stitch: el más reseñado, el más accesible",
+    metaDescription: "Peluche de Stitch, 978 opiniones reales, 4.7 estrellas. Sin licencia oficial de Disney, precio actualizado.",
+    verdict: "Sirve si buscás el producto con más volumen absoluto de reseñas de toda esta guía: 978 calificaciones reales, 4.7 estrellas, y el precio más accesible del grupo ($14.220). Aclaración de honestidad: la marca declarada en la ficha técnica es \"Giocafelice\", no hay ninguna mención de licencia oficial de Disney en la publicación. Una reseña real, la crítica más honesta de esta guía, dice literalmente: \"Pensé que era un poco más grande pero no especifica el tamaño\" — vale la pena tenerlo en cuenta antes de comprar.",
+    pros: [
+      "978 calificaciones reales, el mayor volumen de reseñas de toda esta guía",
+      "El precio más accesible del grupo",
+      "Vendido por tienda oficial GiocaFelice Juguetes, MercadoLíder Platinum",
+      "Disponible también en la variante de color \"Angel\"",
+    ],
+    cons: [
+      "Marca declarada \"Giocafelice\": sin licencia oficial de Disney",
+      "Una reseña real señala que el tamaño no está bien especificado en la publicación (\"pensé que era un poco más grande\")",
+      "Hay una inconsistencia entre el peso de la ficha técnica (160 g) y el que menciona el texto libre de la descripción (80 g); usamos el dato estructurado por ser más confiable",
+    ],
+    articleBody: `## Qué es y para quién
+
+Peluche con forma de Stitch (de la película Lilo & Stitch), 23 x 16 cm, de felpa con relleno de vellón. Es el producto con más reseñas reales de toda esta guía de peluches y personajes: 978 calificaciones, 4.7 estrellas.
+
+## La aclaración de licencia, honesta
+
+La marca declarada en la ficha técnica es "Giocafelice", no hay ninguna mención de licencia oficial de Disney en la publicación. No lo vendemos como Stitch original: es un peluche con la forma del personaje, sin licencia confirmada, algo consistente con lo que se ve en la inmensa mayoría de productos de Stitch en MercadoLibre Argentina.
+
+## Specs y una inconsistencia del vendedor
+
+23 x 16 cm, según la ficha técnica estructurada pesa 160 g, aunque el texto libre de la descripción del vendedor menciona "80 g" en otro punto: usamos el dato de la ficha técnica estructurada por ser la fuente más confiable según nuestro proceso de importación. También está disponible en la variante de color "Angel".
+
+## Lo que dicen los compradores reales
+
+"Hermoso, obviamente es el tamaño tal cual describe, muy buena calidad, me encantó" (29 votos útiles) es la reseña más votada. La crítica más honesta de esta guía viene de otra compradora: "Pensé que era un poco más grande pero no especifica el tamaño" (4 estrellas, 6 votos útiles).
+
+## La contra real
+
+El tamaño no queda del todo claro en la publicación según más de una reseña, y la marca sin licencia oficial es la limitación esperable de este tipo de producto genérico.
+
+## Para quién sí y para quién no
+
+Comprá este peluche si buscás la opción más accesible y con más respaldo de reseñas reales de esta guía. No es para vos si necesitás garantía de licencia oficial de Disney: para eso, no hay ninguna alternativa confirmada disponible en este research.`,
+    faq: [
+      {
+        question: "¿Es un Stitch oficial de Disney?",
+        answer: "No hay licencia oficial confirmada. La marca declarada en la ficha técnica es \"Giocafelice\", sin ninguna mención de Disney en la publicación.",
+      },
+      {
+        question: "¿Qué tamaño tiene?",
+        answer: "23 x 16 cm según la ficha técnica. Una reseña real advierte que el tamaño podría no quedar del todo claro en las fotos de la publicación.",
+      },
+      {
+        question: "¿Cuánto pesa?",
+        answer: "La ficha técnica estructurada declara 160 g. El texto libre de la descripción menciona 80 g en otro punto; tomamos el dato estructurado como más confiable.",
+      },
+      {
+        question: "¿Hay otras variantes de color?",
+        answer: "Sí, también está disponible en la variante \"Angel\".",
+      },
+      {
+        question: "¿Cuántas reseñas reales tiene?",
+        answer: "978 calificaciones con 4.7 estrellas de promedio, el mayor volumen de reseñas de toda esta guía.",
+      },
+      {
+        question: "¿Hay críticas reales sobre el producto?",
+        answer: "Sí, una reseña real de 4 estrellas señala que \"pensé que era un poco más grande pero no especifica el tamaño\".",
+      },
+    ],
+    customerReviews: [
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 29, text: "Hermoso, obviamente es el tamaño tal cual describe, muy buena calidad, me encantó." },
+      { rating: 5, country: "Argentina", date: "hace 1 año", useful: 13, text: "Bueno pero el patito venia roto en la parte de atrás." },
+      { rating: 4, country: "Argentina", date: "hace 1 año", useful: 6, text: "Pensé que era un poco más grande pero no especifica el tamaño." },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Peluche Stitch (Giocafelice)",
+      image: ["https://http2.mlstatic.com/D_NQ_NP_854800-MLA111557752125_052026-O.webp"],
+      description: "Peluche de Stitch, marca Giocafelice, sin licencia oficial de Disney.",
+      brand: { "@type": "Brand", name: "Giocafelice" },
+      offers: {
+        "@type": "Offer",
+        url: "https://articulo.mercadolibre.com.ar/MLA-1474884977-peluche-stitch-tierno-muneco-de-felpa-x1-_JM",
+        priceCurrency: "ARS",
+        price: "14220",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.7",
+        reviewCount: "978",
+      },
+    },
+  },
 ];
 
 export const categoryPastels: Record<string, string> = {

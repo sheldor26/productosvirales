@@ -494,6 +494,18 @@ Origen: Juan pidió arrancar un silo de guías por fecha especial (Día del Niñ
 
 **Pendiente de Juan:** las 9 fichas nuevas tienen `affiliateUrl` apuntando hoy al permalink real de MercadoLibre (con comentario `TODO`), a la espera de que Juan genere los links meli.la.
 
+### Guía nueva 2026-07-20 (categoría nueva "peluches-personajes", silo "juguetes", pilar) — STAGED, sin publicar
+
+Origen: research de keywords 2026-07-20 (`docs/keyword-research-juguetes.md`) identificó la franja de peluches/muñecos por marca-personaje (Bluey, Monster High, Paw Patrol, My Melody, Sylvanian Families, capibara, Stitch, etc.) como la mejor oportunidad de tráfico potencial no explotada del silo juguetes (~6.460 tráfico potencial estimado/mes combinado, la franja #1 del research). 5 productos nuevos importados (Monster High, Sylvanian Families, Stitch, Bluey, capibara), sourceados y reverificados en vivo vía Bright Data el mismo día.
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| mejores-peluches-personajes-argentina | juguetes (pilar nuevo, categoría "peluches-personajes") | STAGED, guía nueva sin baseline | Codex + Gemini/agy: **2 rondas, GO unánime** — ronda 1 encontró guion largo (—) en headings H2 (regla de estilo del sitio solo lo permite en H3/atribuciones); corregido agrupando el ranking bajo un H2 y bajando los 5 productos a H3 con `bigNumber`; ronda 2 confirmó GO sin regresiones |
+
+**Alcance reducido a propósito:** el research original identificaba 9 personajes/marcas (sumaba Paw Patrol, My Melody, Jellycat, Chiikawa), pero esos 4 quedaron afuera de esta primera tanda: sus publicaciones en MercadoLibre usan un componente de galería de imágenes que no permitió extraer la foto del producto en buena resolución pese a múltiples intentos (scrape directo, batch, alternativas de otros vendedores, navegador). No es un bloqueante para publicar con 5 — Juan decidió seguir así y completar los 4 restantes en una tanda futura cuando se resuelva el problema de imágenes.
+
+**Pendiente de Juan:** las 5 fichas nuevas tienen `affiliateUrl` apuntando hoy al permalink real de MercadoLibre (con comentario `TODO`), a la espera de que Juan genere los links meli.la. Sin fecha de publicación fijada (a diferencia de `dia-del-nino-argentina`, esta guía no tiene vencimiento de oportunidad estacional).
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).
