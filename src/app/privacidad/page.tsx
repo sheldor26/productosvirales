@@ -21,7 +21,7 @@ export default function PrivacidadPage() {
         Política de privacidad
       </h1>
       <p className="text-sm text-[var(--text-muted)]">
-        Última actualización: 14 de abril de 2026
+        Última actualización: 20 de julio de 2026
       </p>
 
       <h2 className="text-xl font-bold text-[var(--text-primary)] mt-6">
@@ -36,10 +36,19 @@ export default function PrivacidadPage() {
         Datos que recolectamos
       </h2>
       <p>
-        No te pedimos que crees una cuenta ni que nos des datos personales.
-        Usamos Vercel Analytics para entender cómo se usa el sitio, que
-        recolecta métricas anónimas (país, dispositivo, páginas visitadas). No
-        usamos cookies de seguimiento cross-site.
+        No te pedimos que crees una cuenta. Usamos Google Analytics 4,
+        Microsoft Clarity y Vercel Analytics para entender cómo se usa el
+        sitio: qué páginas se visitan, desde qué dispositivo y país, y cómo
+        interactuás con la página (Clarity puede grabar sesiones y mapas de
+        calor, sin capturar campos de formulario). Ninguna de estas
+        herramientas identifica quién sos por nombre.
+      </p>
+      <p>
+        Si te suscribís al newsletter o a las alertas de baja de precio,
+        guardamos tu email, tu dirección IP y desde qué página te
+        suscribiste, en una base de datos propia. Usamos eso únicamente para
+        mandarte los avisos que pediste. Podés darte de baja en cualquier
+        momento con el link que incluye cada email.
       </p>
 
       <h2 className="text-xl font-bold text-[var(--text-primary)] mt-6">
@@ -57,8 +66,10 @@ export default function PrivacidadPage() {
         Tus derechos
       </h2>
       <p>
-        Tenés derecho a solicitar qué datos tenemos sobre vos (esencialmente
-        ninguno) y a pedir que los borremos. Contactanos en{" "}
+        Tenés derecho a solicitar qué datos tenemos sobre vos y a pedir que
+        los borremos. Si te suscribiste, eso es tu email, tu IP y la página
+        de origen; si no, no guardamos ningún dato que te identifique.
+        Contactanos en{" "}
         <a
           href="mailto:hola@productosvirales.com.ar"
           className="underline text-[var(--color-primary)]"
@@ -72,8 +83,9 @@ export default function PrivacidadPage() {
         Cambios a esta política
       </h2>
       <p>
-        Si cambiamos esta política, actualizamos la fecha arriba. No te
-        notificamos activamente porque no tenemos tu email.
+        Si cambiamos esta política, actualizamos la fecha arriba. Solo te
+        notificamos activamente si sos suscriptor y el cambio te afecta
+        directamente.
       </p>
     </div>
   );

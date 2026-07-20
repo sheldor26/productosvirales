@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import { useSearchParams } from "next/navigation";
 import { CategoryTabs } from "@/components/feed/CategoryTabs";
 import { ProductGrid } from "@/components/products/ProductGrid";
 import { normalizeSearch } from "@/lib/utils";
@@ -21,13 +22,15 @@ interface HomeFeedProps {
    * layout / CLS) y, sobre todo, para que el cliente NO importe `curated-products`
    * (evita mandar el catálogo entero, ~4 MB, al bundle del navegador). */
   products: FeedCard[];
-  /** Query de búsqueda leída en el servidor (desde ?q=). Al buscar, el Header hace
-   * router.push("/?q=...") y el servidor re-renderiza pasando el nuevo valor. */
-  initialQuery?: string;
 }
 
-export function HomeFeed({ products, initialQuery = "" }: HomeFeedProps) {
-  const searchQuery = initialQuery;
+export function HomeFeed({ products }: HomeFeedProps) {
+  // Leído acá (client, dentro del <Suspense> de page.tsx) en vez de vía prop
+  // del servidor: así page.tsx no depende de `searchParams` y la home entera
+  // puede cachearse/prerenderizarse en vez de renderizarse de cero en cada visita.
+  // Al buscar, el Header hace router.push("/?q=...") y esto reacciona solo.
+  const searchParams = useSearchParams();
+  const searchQuery = searchParams.get("q")?.trim() || "";
 
   const [activeCategory, setActiveCategory] = useState("todos");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);

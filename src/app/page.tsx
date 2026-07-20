@@ -8,7 +8,12 @@ import { PriceAlert } from "@/components/widgets/PriceAlert";
 import { HomeFAQ } from "@/components/feed/HomeFAQ";
 import { getRotatedVisibleProducts, makeRotationSeed, toFeedCard, toCardProduct } from "@/lib/products";
 
-const baseMetadata: Metadata = {
+// Metadata estática (sin depender de `searchParams`): así la home entera
+// puede cachearse/prerenderizarse (ISR) en vez de renderizarse de cero en
+// cada visita. Las URLs de búsqueda (?q=...) usan la misma metadata; como el
+// canonical siempre apunta a la home sin query, Google no las trata como
+// contenido nuevo a indexar.
+export const metadata: Metadata = {
   title: "Productos Virales de MercadoLibre Argentina — Lo más trending",
   description:
     "Descubrí los productos más virales y trending de MercadoLibre Argentina. Ofertas, tendencias TikTok y lo que todos están comprando hoy.",
@@ -28,40 +33,13 @@ const baseMetadata: Metadata = {
   },
 };
 
-export async function generateMetadata({
-  searchParams,
-}: {
-  searchParams: Promise<{ q?: string }>;
-}): Promise<Metadata> {
-  const { q } = await searchParams;
-  const trimmed = q?.trim();
+// ISR: la home se regenera cada 10 minutos en vez de en cada visita, y se
+// sirve cacheada desde el edge de Vercel entre medio (ver makeRotationSeed).
+export const revalidate = 600;
 
-  if (trimmed) {
-    return {
-      title: `Resultados para "${trimmed}" | ProductosVirales`,
-      robots: { index: false, follow: true },
-      alternates: { canonical: "https://productosvirales.com.ar" },
-    };
-  }
-
-  return baseMetadata;
-}
-
-export default async function Home({
-  searchParams,
-}: {
-  searchParams: Promise<{ q?: string }>;
-}) {
-  // Leemos la query en el servidor y se la pasamos a HomeFeed como prop.
-  // Esto mantiene la página dinámica y, sobre todo, permite que el feed se
-  // renderice completo en el SSR (antes quedaba vacío hasta hidratar, lo que
-  // causaba un salto de layout grande en mobile / CLS alto).
-  const { q } = await searchParams;
-  const initialQuery = q?.trim() || "";
-
-  // Semilla generada en el servidor en cada request. Rota qué productos se
-  // muestran (y en qué orden) para que la home no enseñe siempre los mismos.
-  // Se pasa a HomeFeed como prop para que SSR e hidratación usen el mismo orden.
+export default function Home() {
+  // Semilla por bucket de tiempo (no Math.random): mismo valor durante toda
+  // la ventana de revalidación, para que la página sea cacheable.
   const rotationSeed = makeRotationSeed();
   const rotated = getRotatedVisibleProducts(rotationSeed);
   // DTOs chicos: el catálogo se resuelve acá (server) y baja como prop, así
@@ -80,7 +58,7 @@ export default async function Home({
             "@type": "Organization",
             name: "ProductosVirales",
             url: "https://productosvirales.com.ar",
-            logo: "https://productosvirales.com.ar/opengraph-image.png",
+            logo: "https://productosvirales.com.ar/icon.png",
             description: "Curador de productos virales y trending de MercadoLibre Argentina",
             sameAs: [],
           }),
@@ -109,8 +87,11 @@ export default async function Home({
       <HeroBanner />
 
       <div className="mt-6 md:mt-8">
-        <Suspense>
-          <HomeFeed products={feedCards} initialQuery={initialQuery} />
+        {/* Fallback con la misma forma que el feed real (grilla de skeletons,
+            no un contenedor vacío): evita el salto de layout mientras
+            HomeFeed (que lee useSearchParams) hidrata en el cliente. */}
+        <Suspense fallback={<ProductGrid products={[]} loading title="Todos los productos" />}>
+          <HomeFeed products={feedCards} />
         </Suspense>
       </div>
 

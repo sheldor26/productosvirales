@@ -91,12 +91,15 @@ export function getRotatedVisibleProducts(seed: number): Product[] {
 }
 
 /**
- * A fresh rotation seed for the homepage. Impurity (randomness) is kept inside
- * this helper so server components that call it stay "pure" in render.
- * Generate it once per request on the server and pass it down as a prop.
+ * Rotation seed for the homepage, bucketed by a 15-minute time window instead
+ * of Math.random(). This keeps the seed (and therefore the render output)
+ * stable within an ISR revalidation window, so the homepage can be cached at
+ * the edge and still rotate products over time, instead of forcing a fresh
+ * dynamic render on every single request.
  */
 export function makeRotationSeed(): number {
-  return Math.floor(Math.random() * 0xffffffff);
+  const BUCKET_MS = 15 * 60 * 1000;
+  return Math.floor(Date.now() / BUCKET_MS);
 }
 
 /** Lookup a product by its MLA/MLAU id. Returns undefined if not found. */

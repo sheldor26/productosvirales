@@ -56,9 +56,9 @@ export function ArticleFooter({ guide }: ArticleFooterProps) {
               Escrito por el Equipo de Productos Virales
             </p>
             <p className="mt-1 text-[14px] leading-relaxed text-[var(--text-secondary)]">
-              Analizamos el mercado argentino de {categoryLabel.toLowerCase()} desde 2024.
-              Probamos cada producto antes de recomendarlo y actualizamos precios y
-              disponibilidad semanalmente.
+              Curamos el mercado argentino de {categoryLabel.toLowerCase()} a partir de
+              reseñas reales de compradores y fichas técnicas del fabricante, y
+              verificamos precios y disponibilidad de forma constante.
             </p>
             <p className="mt-3 text-xs text-[var(--text-muted)]">
               Publicado: {formatDate(guide.publishedDate)}
