@@ -7737,7 +7737,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `Tabla comparativa: tipo, precio y para quién`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Tipo`, `Rating`, `Ideal para`], rows: [
-        [`[Gadnic Titanium L Shape](https://meli.la/1YNrY5P)`, `{{precio:MLA32066541}}`, `Cuerpo completo`, `4.7 (155)`, `La experiencia robótica completa`],
+        [`[Gadnic Titanium L Shape](https://meli.la/2YXhP9t)`, `{{precio:MLA32066541}}`, `Cuerpo completo`, `4.7 (155)`, `La experiencia robótica completa`],
         [`[Majestic Excalibur](https://meli.la/2Vzmd15)`, `{{precio:MLA67779238}}`, `Reclinable manual`, `4.9 (33)`, `Reclinar y relajar sin gastar de más`],
         [`[Melfit Maui](https://meli.la/1JfTxZv)`, `{{precio:MLA44945188}}`, `Premium con rodillos`, `4.8 (30)`, `Alternativa premium a la Gadnic`],
         [`[Nictom Ejecutivo](https://meli.la/2qYKbAj)`, `{{precio:MLA60221167}}`, `Silla de oficina`, `4.6 (243)`, `Masaje en el escritorio, lo más barato`],
@@ -7755,7 +7755,7 @@ export const guides: Guide[] = [
       { type: "list", items: [
         `**Alrededor de {{precio:MLA60221167:k}}:** la entrada. La [Nictom](https://meli.la/2qYKbAj), silla de oficina con masaje por vibración. Lo más barato para sumar masaje, sin ser un sillón para relajarse tirado.`,
         `**$900.000 a $1.000.000:** reclinables. La [Majestic Excalibur](https://meli.la/2Vzmd15) manual, para reclinar y relajar con masaje por vibración sin pagar la gama robótica.`,
-        `**$1.250.000 o más:** cuerpo completo robótico. La [Gadnic Titanium](https://meli.la/1YNrY5P) (riel en L, airbags, gravedad cero) y la [Melfit Maui](https://meli.la/1JfTxZv) (rodillos, calor). La experiencia completa.`,
+        `**Desde {{precio:MLA44945188:k}}:** cuerpo completo robótico. La [Gadnic Titanium](https://meli.la/2YXhP9t) (riel en L, airbags, gravedad cero) y la [Melfit Maui](https://meli.la/1JfTxZv) (rodillos, calor). La experiencia completa.`,
         `**Si buscás solo aliviar una zona:** quizás no necesitás un sillón. Un [masajeador de espalda](/guias/masajeador-espalda) o un asiento masajeador cuestan mucho menos y resuelven el dolor puntual.`,
       ] },
 
@@ -7763,9 +7763,9 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Depende de cuánto quieras gastar y de qué buscás. Para la **experiencia robótica completa**, la **Gadnic Titanium L Shape**: riel en L, 22 airbags, gravedad cero y calor, con la mayor base de opiniones del segmento (155, 4.7★). Si querés **reclinar y relajar sin gastar tanto**, la **Majestic Excalibur** manual a ~$995.000, con el rating más alto de la guía. ¿Masaje mientras trabajás? La **Nictom** silla de oficina por ~$200.000 es imbatible en precio. Y como alternativa premium a la Gadnic, la **Melfit Maui** con rodillos y calor. Dos consejos: elegí el tipo según tu espacio y presupuesto antes que las funciones, y si solo querés aliviar una zona puntual, un [masajeador de espalda](/guias/masajeador-espalda) sale mucho menos que un sillón entero.` },
     ],
     faq: [
-      { question: `¿Cuánto cuesta un sillón masajeador en Argentina?`, answer: `Depende del tipo. Una silla de oficina con masaje como la [Nictom](https://meli.la/2qYKbAj) arranca cerca de $200.000; un reclinable con masaje como la [Majestic Excalibur](https://meli.la/2Vzmd15) ronda los $995.000; y un sillón robótico de cuerpo completo como la [Gadnic Titanium](https://meli.la/1YNrY5P) se va por encima de $1.276.000. Definí el tipo según tu presupuesto antes de elegir modelo.` },
-      { question: `¿Qué significan riel en L, airbags y gravedad cero?`, answer: `Son las funciones que definen un buen sillón de cuerpo completo. El riel en L hace que los rodillos masajeen de la nuca a los glúteos (un riel corto solo cubre la espalda alta). Los airbags aprietan brazos, manos y piernas. Y la gravedad cero es una posición reclinada que reparte el peso y descomprime la columna. La [Gadnic Titanium](https://meli.la/1YNrY5P) trae las tres.` },
-      { question: `¿Cuál es el mejor sillón masajeador?`, answer: `Para la experiencia completa, la [Gadnic Titanium L Shape](https://meli.la/1YNrY5P): es la más equipada (riel en L, 22 airbags, gravedad cero, calor) y la más probada del segmento, con 155 opiniones. La [Melfit Maui](https://meli.la/1JfTxZv) es la alternativa premium con el rating más alto (4.8). Si no querés gastar tanto, la [Majestic Excalibur](https://meli.la/2Vzmd15) reclinable es la mejor relación precio.` },
+      { question: `¿Cuánto cuesta un sillón masajeador en Argentina?`, answer: `Depende del tipo. Una silla de oficina con masaje como la [Nictom](https://meli.la/2qYKbAj) arranca cerca de $200.000; un reclinable con masaje como la [Majestic Excalibur](https://meli.la/2Vzmd15) ronda los $995.000; y un sillón robótico de cuerpo completo como la [Gadnic Titanium](https://meli.la/2YXhP9t) se va por encima de $1.276.000. Definí el tipo según tu presupuesto antes de elegir modelo.` },
+      { question: `¿Qué significan riel en L, airbags y gravedad cero?`, answer: `Son las funciones que definen un buen sillón de cuerpo completo. El riel en L hace que los rodillos masajeen de la nuca a los glúteos (un riel corto solo cubre la espalda alta). Los airbags aprietan brazos, manos y piernas. Y la gravedad cero es una posición reclinada que reparte el peso y descomprime la columna. La [Gadnic Titanium](https://meli.la/2YXhP9t) trae las tres.` },
+      { question: `¿Cuál es el mejor sillón masajeador?`, answer: `Para la experiencia completa, la [Gadnic Titanium L Shape](https://meli.la/2YXhP9t): es la más equipada (riel en L, 22 airbags, gravedad cero, calor) y la más probada del segmento, con 155 opiniones. La [Melfit Maui](https://meli.la/1JfTxZv) es la alternativa premium con el rating más alto (4.8). Si no querés gastar tanto, la [Majestic Excalibur](https://meli.la/2Vzmd15) reclinable es la mejor relación precio.` },
       { question: `¿Conviene un sillón masajeador o un asiento masajeador?`, answer: `Depende del uso. Un sillón es para relajarte de cuerpo entero y es una inversión grande (desde $1.000.000 los buenos). Un asiento o [masajeador de espalda](/guias/masajeador-espalda) se coloca sobre una silla común, cuesta una fracción y resuelve el dolor puntual de espalda o cuello. Si querés la experiencia completa y tenés espacio, el sillón; si querés aliviar una zona sin gastar tanto, el asiento.` },
       { question: `¿Los sillones masajeadores necesitan mucho espacio?`, answer: `Los de cuerpo completo sí: reclinan bastante hacia atrás y son pesados, así que conviene dejar lugar libre detrás (algunos se deslizan hacia adelante al reclinar para ahorrar espacio, vale chequearlo). Un reclinable compacto o una silla de oficina con masaje como la [Nictom](https://meli.la/2qYKbAj) ocupan mucho menos y son más fáciles de ubicar en un ambiente chico.` },
       { question: `¿Las sillas de oficina con masaje sirven de verdad?`, answer: `Para lo que son, sí. La [Nictom](https://meli.la/2qYKbAj) suma vibración al respaldo y alivia la tensión de pasar horas sentado frente a la computadora, con 243 opiniones que lo respaldan. No esperes el amasado profundo de un sillón robótico: es un plus de masaje en una silla de trabajo, a un precio muy accesible. Para ese uso, es la opción más sensata.` },
@@ -20856,7 +20856,7 @@ export const guides: Guide[] = [
     ogImage: `https://http2.mlstatic.com/D_Q_NP_781555-MLA88801546380_082025-F.webp`,
     h1: `Nebulizador: cuál comprar en Argentina y cuál conviene [2026]`,
     directAnswer: `Para la mayoría conviene el **[San-Up VitaAir](/producto/MLA47884803)** (alrededor de {{precio:MLA47884803:k}}): nebulizador mesh silencioso, certificado por ANMAT, con 962 opiniones reales. Si preferís un pistón tradicional con más accesorios al mismo precio, el [San-Up ClearBreath](/producto/MLA47884824). Si buscás la marca de mayor confianza, el [Omron NE-C801LA](/producto/MLA44718278). Y si necesitás batería recargable en vez de pilas, el [Aspen Air Pro II](/producto/MLA68343533).`,
-    publishedDate: "2026-09-01",
+    publishedDate: "2026-07-20",
     updatedDate: "2026-07-19",
     hasDisclosure: true,
     readingTime: 7,
@@ -20961,7 +20961,7 @@ export const guides: Guide[] = [
     ogImage: `https://http2.mlstatic.com/D_Q_NP_866786-MLU72565713896_112023-F.webp`,
     h1: `Tensiómetro digital: cuál comprar en Argentina y cuál conviene [2026]`,
     directAnswer: `Para la mayoría conviene el **[Omron HEM-7142](/producto/MLA24044627)** (alrededor de {{precio:MLA24044627:k}}): de brazo, la marca con más respaldo real (27.369 opiniones). Si buscás el precio más bajo, la [Coronet YK-BPW4](/producto/MLA22255575), de muñeca. Si preferís la marca líder en formato compacto, el [Omron HEM-6124](/producto/MLA24111585). Y si necesitás detección de arritmia, el [Microlife BP A200 AFIB](/producto/MLA24533653).`,
-    publishedDate: "2026-09-01",
+    publishedDate: "2026-07-20",
     updatedDate: "2026-07-19",
     hasDisclosure: true,
     readingTime: 7,
@@ -21001,7 +21001,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Lo honesto: al ser de muñeca, una reseña señala una diferencia de 1 punto frente a un tensiómetro de brazo.` },
 
       { type: "h3", title: `3. Omron HEM-6124 — marca líder en muñeca` },
-      { type: "product-card", productMlaId: "MLA24111585", label: "Marca líder en muñeca", labelColor: "blue", ranking: 3, description: `De muñeca, automático. 4.8 estrellas en 7.105 calificaciones, el respaldo de Omron más compacto.` },
+      { type: "product-card", productMlaId: "MLA24111585", label: "Marca líder en muñeca", labelColor: "blue", ranking: 3, description: `De muñeca, automático. 4.8 estrellas en 6.682 calificaciones, el respaldo de Omron más compacto.` },
       { type: "p", content: `El respaldo de la marca líder en formato muñeca, más compacto y barato que la versión de brazo de la misma marca, a alrededor de {{precio:MLA24111585:k}}.` },
       { type: "p", content: `La contra real: no incluye estuche de guardado, según una reseña.` },
 
@@ -21878,7 +21878,7 @@ export const guides: Guide[] = [
     ogImage: `https://http2.mlstatic.com/D_NQ_NP_729929-MLA107962514539_032026-F.webp`,
     h1: `Termómetro digital: cuál comprar en Argentina y cuál conviene [2026]`,
     directAnswer: `Para la mayoría conviene el **[Citizen CTA301C](/producto/MLA35944743)** (alrededor de {{precio:MLA35944743:k}}): el más vendido de la categoría, con ANMAT declarado. Si buscás el más barato, el **[NEKOMMERCE](/producto/MLA53648273)** (alrededor de {{precio:MLA53648273:k}}). Si preferís medir sin contacto, el **[BBLove](/producto/MLA28449145)**. Y si querés el más completo, con memoria de mediciones, el **[Lepu LFR30B](/producto/MLA50045029)**, también con ANMAT declarado.`,
-    publishedDate: "2026-09-01",
+    publishedDate: "2026-07-20",
     updatedDate: "2026-07-19",
     hasDisclosure: true,
     readingTime: 7,
@@ -21909,7 +21909,7 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los mejores termómetros digitales 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Citizen CTA301C — mejor elección general` },
-      { type: "product-card", productMlaId: "MLA35944743", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Contacto, 10 segundos, ANMAT PM97-30. 4.8 estrellas en casi 3.250 calificaciones, el más vendido de la categoría.` },
+      { type: "product-card", productMlaId: "MLA35944743", label: "Mejor elección general", labelColor: "green", ranking: 1, description: `Contacto, 10 segundos, ANMAT PM97-30. 4.7 estrellas en más de 3.300 calificaciones, el más vendido de la categoría.` },
       { type: "p", content: `El 1° más vendido de la categoría en MercadoLibre Argentina, con ANMAT declarado, a alrededor de {{precio:MLA35944743:k}}.` },
       { type: "p", content: `La contra real: el título menciona uso oral/rectal, pero la ficha técnica solo confirma la zona axila.` },
       { type: "pull-quote", content: `"Medición exacta, chequeado con un termómetro de mercurio que tengo en casa."`, attribution: `Opinión verificada en MercadoLibre (8 votos útiles)` },
@@ -21920,7 +21920,7 @@ export const guides: Guide[] = [
       { type: "p", content: `La contra real: no declara ANMAT y tarda 1 minuto, mucho más que los 10 segundos del Citizen.` },
 
       { type: "h3", title: `3. BBLove AET-R1B1 — sin contacto` },
-      { type: "product-card", productMlaId: "MLA28449145", label: "Sin contacto", labelColor: "blue", ranking: 3, description: `Infrarrojo, mide en 1 segundo. 4.4 estrellas, el rating más bajo de esta guía.` },
+      { type: "product-card", productMlaId: "MLA28449145", label: "Sin contacto", labelColor: "blue", ranking: 3, description: `Infrarrojo, mide en 1 segundo. 4.3 estrellas, el rating más bajo de esta guía.` },
       { type: "p", content: `Mide sin contacto en 1 segundo, ideal para no despertar a un bebé dormido, a alrededor de {{precio:MLA28449145:k}}.` },
       { type: "p", content: `Lo honesto: el vendedor usa "alta precisión" y una reseña real matiza ese claim; aparte, su ficha tampoco declara ANMAT.` },
 

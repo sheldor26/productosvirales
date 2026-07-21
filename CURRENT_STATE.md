@@ -1,7 +1,18 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-20 (silo nuevo "juguetes" arrancado y profundizado: guía pilar `dia-del-nino-argentina` publicada en vivo, research extenso de keywords documentado en `docs/keyword-research-juguetes.md`, y segunda guía `mejores-peluches-personajes-argentina` STAGED con 5/9 personajes por una limitación real de scraping de imágenes en 4 productos — ver detalle abajo).
+> Última actualización: 2026-07-20 (además del silo "juguetes" — ver sesión de más abajo — se publicaron 3 guías STAGED del silo salud-bienestar: nebulizador, tensiometro-digital, termometro-digital, con un producto sin stock detectado y resuelto en el camino).
+
+## Sesión 20-jul (2) — Publicación de 3 guías STAGED: nebulizador, tensiometro-digital, termometro-digital
+
+Juan pidió publicar 3 guías del catálogo STAGED, dejando la elección a criterio de Claude ("las que vos recomiendes"). Se eligieron las 3 del silo salud-bienestar (revisión conjunta por ser la misma zona YMYL) usando `/optimizador-guias-pv` en modo revisión-antes-de-publicar + `/trio-auditor`.
+
+1. **Hallazgo real: producto sin stock detectado antes de publicar.** El Omron HEM-6124 de muñeca (`MLA24111585`, quickPick "Marca líder en muñeca" de `tensiometro-digital`) tenía `priceStatus: "out_of_stock"`. Se verificó en vivo (no solo el flag del catálogo) y se confirmó real. Juan proveyó una publicación alternativa del mismo modelo con stock confirmado (Farmacias Selma, tienda oficial); se actualizó permalink/affiliateUrl/precio de la misma ficha, manteniendo por decisión editorial explícita de Juan el rating/reviewCount ya verificados del modelo físico (no resetear a la publicación nueva sin historial propio).
+2. **Trío auditor, 3 rondas.** Ronda 1: `nebulizador` GO limpio; `tensiometro-digital` y `termometro-digital` NO-GO por reviewCount/ratings desactualizados en texto (7.105 vs 6.682 real en el Omron de muñeca; 4.8 vs 4.7 en el Citizen; 4.4 vs 4.3 en el BBLove). Ronda 2: corregidos los textos visibles, pero quedaron residuos en `structuredData` (JSON-LD) de esas mismas 2 fichas. Ronda 3: GO unánime en las 3.
+3. **Bug sistémico encontrado de paso (no solo de esta tanda):** los campos `structuredData` de fichas de producto son texto plano, no usan el sistema de tokens `{{precio:ID}}` que mantiene fresca la prosa normal — se desactualizan con el tiempo aunque el precio real sí se actualice solo. Se corrió un script de verificación cruzando `structuredData` contra los campos canónicos en los 12 productos de las 3 guías: 9 de 12 tenían drift de precio y/o reviewCount en ese bloque, todos corregidos. **Pendiente sugerido para otra sesión:** este mismo patrón probablemente existe en fichas más viejas fuera de este lote — vale un barrido más amplio del catálogo completo.
+4. **Verificación:** `npx tsc --noEmit`, `npm run guides:check`, `npm run build`, todo en verde antes y después de cada ronda de fixes.
+5. **Publicadas en vivo** (se dio vuelta `publishedDate` a 2026-07-20 en las 3, después del GO unánime).
+6. **Nota:** Juan había ofrecido generar fotos con IA (Antigravity) si hacía falta — no fue necesario, los 12 productos ya tenían fotos reales de MercadoLibre en buena resolución.
 
 ## Sesión 20-jul — Silo "juguetes": guía pilar publicada + research extenso de keywords + guía de peluches (STAGED)
 

@@ -436,8 +436,8 @@ Origen: Juan pidió completar los silos con menos guías del sitio (agua-calient
 
 | Slug | Silo | Keyword principal (vol. Keyword Planner) | Estado | Trío (GO) |
 | :-- | :-- | :-- | :-- | :-- |
-| nebulizador | salud-bienestar | nebulizador (22.200/mes, pico estacional invierno) | STAGED | Gemini GO (1 ronda) + Codex GO (5 rondas: certificación ANMAT/RPPTM afirmada de forma pareja para los 4 cuando solo 2 tienen número explícito, enlazado interno, y varios claims residuales de "certificados los 4" en meta/og/categoría que sobrevivieron varias rondas) |
-| tensiometro-digital | salud-bienestar | tensiometro digital (22.200/mes) | STAGED | Gemini GO (2 rondas, la primera marcó riesgo YMYL real: citas de "cardióloga"/"enfermero" en reseñas podían leerse como aval médico del sitio) + Codex GO (3 rondas: mismo hallazgo YMYL, claims de "precisión clínica" sin blindar, consejo médico directo, inconsistencia de memorias entre fichas) |
+| nebulizador | salud-bienestar | nebulizador (22.200/mes, pico estacional invierno) | **Publicada 2026-07-20** (ver sección de publicación abajo) | Gemini GO (1 ronda) + Codex GO (5 rondas: certificación ANMAT/RPPTM afirmada de forma pareja para los 4 cuando solo 2 tienen número explícito, enlazado interno, y varios claims residuales de "certificados los 4" en meta/og/categoría que sobrevivieron varias rondas) |
+| tensiometro-digital | salud-bienestar | tensiometro digital (22.200/mes) | **Publicada 2026-07-20** (ver sección de publicación abajo) | Gemini GO (2 rondas, la primera marcó riesgo YMYL real: citas de "cardióloga"/"enfermero" en reseñas podían leerse como aval médico del sitio) + Codex GO (3 rondas: mismo hallazgo YMYL, claims de "precisión clínica" sin blindar, consejo médico directo, inconsistencia de memorias entre fichas) |
 | termotanque-a-gas | agua-caliente | termotanque a gas (22.200/mes) | STAGED | Gemini GO (1 ronda) + Codex GO (4 rondas: dato inventado de alimentación a pilas del Rheem que contradecía la fuente oficial del fabricante —quedó reformulado como discrepancia sin resolver entre una reseña y el fabricante—, referencia a un producto "Rinnai" que no estaba en la guía final, generalización de dependencia eléctrica que no aplicaba a todos los productos) |
 | cerradura-inteligente | seguridad | cerradura inteligente (1.900-2.900/mes, dificultad SEO más baja del barrido) | STAGED | Gemini GO (1 ronda) + Codex GO (3 rondas: error factual sobre Apple Home Key del Aqara U300 —el fabricante sí lo confirma, la ficha de ML no lo declara explícito, corregido en todo el contenido—) |
 
@@ -466,6 +466,22 @@ Origen: de las 5 candidatas con volumen ya validado en el research del 16-jul (s
 
 Próxima medición sugerida: cuando Juan publique (sin fecha fija todavía, están en STAGED).
 
+### Publicación 2026-07-20: nebulizador, tensiometro-digital, termometro-digital (silo salud-bienestar)
+
+Juan pidió publicar 3 guías STAGED del catálogo, dejando la elección en manos de Claude ("las que vos recomiendes"). Se eligieron las 3 del silo salud-bienestar (misma zona YMYL, revisión conjunta) usando `/optimizador-guias-pv` en modo revisión-antes-de-publicar + `/trio-auditor`, 3 rondas hasta GO unánime en las 3.
+
+| Slug | Estado | Hallazgos de la revisión |
+| :-- | :-- | :-- |
+| nebulizador | **Publicada 2026-07-20** | GO limpio, sin cambios de contenido. |
+| tensiometro-digital | **Publicada 2026-07-20** | Se encontró y resolvió un producto real sin stock (Omron HEM-6124 de muñeca, `MLA24111585`) — ver nota abajo. Además, corregido un reviewCount desactualizado (7.105 → 6.682) en 5 lugares. |
+| termometro-digital | **Publicada 2026-07-20** | Corregidos 2 ratings desactualizados (Citizen 4.8→4.7, BBLove 4.4→4.3) en guía + ficha + `structuredData`, encontrados en 2 rondas de auditoría. |
+
+**Hallazgo real: stock roto detectado antes de publicar.** El Omron HEM-6124 de muñeca (quickPick "Marca líder en muñeca" de `tensiometro-digital`) tenía `priceStatus: "out_of_stock"` en el catálogo — se verificó en vivo (no solo el flag) y se confirmó sin stock real. Juan proveyó una publicación alternativa del mismo modelo/producto con stock confirmado (vendedor Farmacias Selma, tienda oficial). Se actualizó `permalink`/`affiliateUrl`/`priceStatus`/precio de la misma ficha (mismo `id` de catálogo), manteniendo por decisión editorial explícita de Juan el rating (4.8) y reviewCount (6.682) ya verificados para el modelo físico, en vez de resetear a cero por ser una publicación nueva sin historial propio de reseñas.
+
+**Bug sistémico encontrado y corregido en las 12 fichas del lote:** los campos `structuredData` (JSON-LD, usados por Google para rich results) de varios productos tenían precio/reviewCount desactualizados porque ese bloque es texto plano, no usa el sistema de tokens `{{precio:ID}}` que sí mantiene fresca la prosa normal. Se corrió un script de verificación cruzando `structuredData.offers.price` / `aggregateRating.ratingValue` / `aggregateRating.reviewCount` contra los campos canónicos (`price`, `rating`, `reviewCount`) de los 12 productos de las 3 guías — encontró y corrigió drift en 9 de los 12. **Pendiente sugerido:** este mismo patrón probablemente existe en fichas más viejas del catálogo fuera de este lote; vale la pena un barrido similar más amplio en otra sesión.
+
+Próxima medición sugerida: ~2026-08-17 (4 semanas).
+
 ### Guías creadas de cero 2026-07-19 (4ta tanda: los 3 silos más flacos restantes) — STAGED, sin publicar
 
 Origen: tras la 3ra tanda, los silos más flacos pasaron a ser agua-caliente y bebidas-termicas (2 guías) y salud-bienestar (3). Research nuevo con Keyword Planner sobre esos 3 silos puntuales, un candidato validado por silo.
@@ -473,7 +489,7 @@ Origen: tras la 3ra tanda, los silos más flacos pasaron a ser agua-caliente y b
 | Slug | Silo | Keyword principal (vol. Keyword Planner) | Estado | Trío (GO) |
 | :-- | :-- | :-- | :-- | :-- |
 | bombilla-de-mate | bebidas-termicas | bombilla de mate (2.900/mes) | STAGED | Codex GO (1 ronda, sin bloqueantes) + **Gemini/agy bloqueado, no auditó** |
-| termometro-digital | salud-bienestar | termómetro digital (9.900/mes) | STAGED | Codex GO (4 rondas: lenguaje que conectaba ANMAT con precisión del instrumento, como si el registro sanitario certificara qué tan exacto mide — corregido separando ambos conceptos en cada mención; ratio de precio Lepu vs. Citizen mal calculado, "casi el doble" cuando es casi 4 veces) + **Gemini/agy bloqueado, no auditó** |
+| termometro-digital | salud-bienestar | termómetro digital (9.900/mes) | **Publicada 2026-07-20** (ver sección de publicación abajo) | Codex GO (4 rondas: lenguaje que conectaba ANMAT con precisión del instrumento, como si el registro sanitario certificara qué tan exacto mide — corregido separando ambos conceptos en cada mención; ratio de precio Lepu vs. Citizen mal calculado, "casi el doble" cuando es casi 4 veces) + **Gemini/agy bloqueado, no auditó** |
 | ducha-electrica | agua-caliente | ducha eléctrica (9.900/mes) | STAGED | Codex GO (**8 rondas**, ver nota abajo) + **Gemini/agy bloqueado, no auditó** |
 
 **Ducha eléctrica — hallazgo de seguridad real:** ninguno de los 4 productos declara la "Marca S" de Seguridad Eléctrica (obligatoria en Argentina para este tipo de producto, agua + electricidad). Solo la Lorenzetti Loren 6800W declara un Organismo de Certificación de Producto (Bureau Veritas Argentina S.A.), un dato distinto que NO equivale a la Marca S — la guía lo advierte en un bloque `warning` explícito. Además, la mayoría de las reseñas de los 3 productos Lorenzetti son de compradores de Brasil o México (MercadoLibre agrupa el catálogo regional), no de Argentina; solo la Indelplas Diluvio tiene reseñas 100% verificadas de Argentina.
