@@ -267,6 +267,7 @@ export const guides: Guide[] = [
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
       { label: "Freidora de aire vs horno: cuál conviene", href: "/guias/freidora-de-aire-vs-horno" },
       { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
+      { label: "Parrilla eléctrica: cuál comprar en Argentina", href: "/guias/cocina/parrilla-electrica" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -563,6 +564,7 @@ export const guides: Guide[] = [
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "Qué cafetera comprar: la guía completa", href: "/guias/que-cafetera-comprar" },
       { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
+      { label: "Parrilla eléctrica: cuál comprar en Argentina", href: "/guias/cocina/parrilla-electrica" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
@@ -2826,6 +2828,7 @@ export const guides: Guide[] = [
       { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
       { label: "Mejores licuadoras: cuál comprar en Argentina", href: "/guias/licuadora" },
       { label: "Cafetera express y cápsulas: cuál comprar", href: "/guias/cafetera-express" },
+      { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
     ],
     internalLinksTitle: "Más guías para el hogar",
   },
@@ -2921,6 +2924,7 @@ export const guides: Guide[] = [
       { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
       { label: "Humidificador: cuál comprar en Argentina", href: "/guias/climatizacion/humidificador" },
       { label: "Mejores licuadoras: cuál comprar en Argentina", href: "/guias/licuadora" },
+      { label: "Ducha eléctrica: cuál comprar en Argentina", href: "/guias/agua-caliente/ducha-electrica" },
     ],
     internalLinksTitle: "Más sobre el hogar",
   },
@@ -3025,6 +3029,8 @@ export const guides: Guide[] = [
       { label: "Estufa de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
       { label: "Aire acondicionado portátil: cuál comprar", href: "/guias/climatizacion/aire-acondicionado-portatil" },
       { label: "Humidificador: cuál comprar en Argentina", href: "/guias/climatizacion/humidificador" },
+      { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
+      { label: "Ducha eléctrica: cuál comprar en Argentina", href: "/guias/agua-caliente/ducha-electrica" },
     ],
     internalLinksTitle: "Más sobre calefacción",
   },
@@ -3485,6 +3491,8 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+      { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
+      { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
     ],
     internalLinksTitle: "Más guías de seguridad",
   },
@@ -3585,6 +3593,8 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
+      { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
+      { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
     ],
     internalLinksTitle: "Más guías de seguridad",
   },
@@ -4401,6 +4411,8 @@ export const guides: Guide[] = [
       { label: "Pavas eléctricas Atma", href: "/guias/pava-electrica-atma" },
       { label: "Liliana vs Peabody: cuál conviene", href: "/guias/liliana-vs-peabody-pava-electrica" },
       { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Botella térmica: cuál comprar en Argentina", href: "/guias/bebidas-termicas/botella-termica" },
+      { label: "Bombilla de mate: cuál comprar en Argentina", href: "/guias/bebidas-termicas/bombilla-de-mate" },
       { label: "Tostadora: cuál comprar en Argentina", href: "/guias/cocina/tostadora" },
     ],
     internalLinksTitle: "Guías de pavas eléctricas",
@@ -8474,6 +8486,14 @@ export const guides: Guide[] = [
         answer: `Atma si vivís en interior o querés seguridad de servicio. Peabody si estás en AMBA y te late más el diseño. Ambas son opciones serias, no hay riesgo de perder plata con ninguna.`,
       },
     ],
+    internalLinks: [
+      { label: `Freidoras Atma: análisis de los 4 modelos`, href: "https://productosvirales.com.ar/guias/atma-freidoras-de-aire-review" },
+      { label: `Freidoras Peabody: análisis de los 4 modelos`, href: "https://productosvirales.com.ar/guias/peabody-freidoras-de-aire-review" },
+      { label: `Las mejores freidoras de aire en Argentina`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina" },
+      { label: `Freidoras con grill: ¿vale la pena?`, href: "https://productosvirales.com.ar/guias/freidoras-de-aire-con-grill-argentina" },
+      { label: `Freidora de aire doble canasta: ¿vale la pena?`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-doble-canasta" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
   },
 
   {
@@ -8639,6 +8659,7 @@ export const guides: Guide[] = [
       { label: `Freidoras Atma: análisis de los 4 modelos`, href: "https://productosvirales.com.ar/guias/atma-freidoras-de-aire-review" },
       { label: `Freidoras Peabody: análisis de los 4 modelos`, href: "https://productosvirales.com.ar/guias/peabody-freidoras-de-aire-review" },
       { label: `Las mejores freidoras de aire en Argentina`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina" },
+      { label: `Atma vs Peabody: cuál elegir`, href: "https://productosvirales.com.ar/guias/atma-vs-peabody-freidora-de-aire" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -8940,6 +8961,13 @@ export const guides: Guide[] = [
         answer: `Dos simples si tenés espacio y presupuesto. Doble canasta si espacio es escaso. Doble piso si cocinas para muchas personas siempre lo mismo.`,
       },
     ],
+    internalLinks: [
+      { label: `Las mejores freidoras de aire en Argentina`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina" },
+      { label: `Atma vs Peabody: cuál elegir`, href: "https://productosvirales.com.ar/guias/atma-vs-peabody-freidora-de-aire" },
+      { label: `Freidoras de aire gran capacidad (8-10L)`, href: "https://productosvirales.com.ar/guias/freidoras-de-aire-gran-capacidad" },
+      { label: `Freidoras Oster en Argentina`, href: "https://productosvirales.com.ar/guias/oster-freidoras-de-aire-review" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
   },
 
   {
@@ -9049,6 +9077,10 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: `Las mejores freidoras de aire en Argentina`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina" },
       { label: `Freidoras de aire gran capacidad`, href: "https://productosvirales.com.ar/guias/freidoras-de-aire-gran-capacidad" },
+      { label: `Freidoras Philips: análisis de los 5 modelos`, href: "https://productosvirales.com.ar/guias/philips-freidoras-de-aire-review" },
+      { label: `PowerXL AF-E4001-AR: review completa`, href: "https://productosvirales.com.ar/guias/powerxl-freidora-review" },
+      { label: `Freidoras Atma: análisis de los 4 modelos`, href: "https://productosvirales.com.ar/guias/atma-freidoras-de-aire-review" },
+      { label: `Kanji Home KJH-1700DC: review completa`, href: "https://productosvirales.com.ar/guias/kanji-home-freidora-review" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -9192,6 +9224,13 @@ export const guides: Guide[] = [
         answer: `Philips si tenés el presupuesto. Es más seguro, mejor garantía, servicio local. Ninja si el presupuesto es tema: es una máquina solida que funciona bien, solo que el servicio es más complicado si algo pasa.`,
       },
     ],
+    internalLinks: [
+      { label: `Freidora Ninja Crispi: review completa`, href: "https://productosvirales.com.ar/guias/ninja-crispi-review" },
+      { label: `Freidoras Philips: análisis de los 5 modelos`, href: "https://productosvirales.com.ar/guias/philips-freidoras-de-aire-review" },
+      { label: `Las mejores freidoras de aire en Argentina`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-argentina" },
+      { label: `Freidoras de aire económicas`, href: "https://productosvirales.com.ar/guias/mejores-freidoras-de-aire-economicas-argentina" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
   },
 
   {
@@ -9307,6 +9346,13 @@ export const guides: Guide[] = [
         answer: `Generalmente no. Los kits de 15 piezas incluyen cosas que nunca vas a usar. Comprá solo lo que necesitás según lo que cocinás habitualmente.`,
       },
     ],
+    internalLinks: [
+      { label: "Cómo usar una freidora de aire correctamente", href: "/guias/como-usar-una-freidora-de-aire" },
+      { label: "Recetas argentinas para freidora de aire", href: "/guias/recetas-freidora-de-aire" },
+      { label: "Las mejores freidoras de aire en Argentina", href: "/guias/mejores-freidoras-de-aire-argentina" },
+      { label: "Freidoras de aire económicas", href: "/guias/mejores-freidoras-de-aire-economicas-argentina" },
+    ],
+    internalLinksTitle: "Guías relacionadas",
   },
 
   {
@@ -9461,6 +9507,7 @@ export const guides: Guide[] = [
       { label: `Recetas para freidora de aire`, href: "/guias/recetas-freidora-de-aire" },
       { label: `Review freidoras Atma`, href: "/guias/atma-freidoras-de-aire-review" },
       { label: `¿Cuánto consume una freidora de aire?`, href: "/guias/cuanto-consume-freidora-de-aire" },
+      { label: `Accesorios para freidora de aire: qué vale la pena`, href: "/guias/accesorios-para-freidora-de-aire" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -11666,6 +11713,7 @@ export const guides: Guide[] = [
       { label: "Perfumes árabes: la guía completa para empezar", href: "/guias/perfumes-arabes" },
       { label: "Lattafa: guía de la marca", href: "/guias/lattafa-guia-marca" },
       { label: "Los perfumes árabes más vendidos en Argentina", href: "/guias/perfumes-arabes-mas-vendidos-argentina" },
+      { label: "Yara Lattafa: cuántos hay y diferencia con Elixir", href: "/guias/yara-lattafa-guia-completa" },
     ],
     internalLinksTitle: "Más perfumes árabes",
   },
@@ -12051,7 +12099,15 @@ export const guides: Guide[] = [
         content: "Si querés el contexto más amplio, la [guía completa de perfumes árabes](/guias/perfumes-arabes) te da el panorama del nicho y las 35 mejores opciones disponibles en Argentina."
       }
     ],
-    faq: []
+    faq: [],
+    internalLinks: [
+      { label: "Perfumes árabes: la guía completa para empezar", href: "/guias/perfumes-arabes" },
+      { label: "Khamrah de Lattafa: original vs Qahwa", href: "/guias/khamrah-lattafa" },
+      { label: "Lattafa: guía de la marca", href: "/guias/lattafa-guia-marca" },
+      { label: "Perfume árabe de mujer: las 12 mejores", href: "/guias/perfumes-arabes-mujer" },
+      { label: "Precios reales en Argentina", href: "/guias/perfumes-arabes-precio-argentina" },
+    ],
+    internalLinksTitle: "Más perfumes árabes",
   },
   {
     slug: "mejores-perfumes-arabes-hombre",
@@ -18250,6 +18306,11 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera Peabody: cuál comprar", href: "/guias/cafetera-peabody" },
+      { label: "Cafetera Dolce Gusto: cuál comprar", href: "/guias/cafetera-dolce-gusto" },
+      { label: "Cafetera Smartlife: cuál comprar", href: "/guias/cafetera-smartlife" },
+      { label: "Cafetera Liliana: cuál comprar", href: "/guias/cafetera-liliana" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -18341,6 +18402,8 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
       { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
+      { label: "Cafetera Smartlife: cuál comprar", href: "/guias/cafetera-smartlife" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -18419,6 +18482,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
       { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -18513,6 +18577,9 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
       { label: "Cafetera Dolce Gusto: cuál comprar en Argentina", href: "/guias/cafetera-dolce-gusto" },
+      { label: "Cafetera Liliana: cuál comprar", href: "/guias/cafetera-liliana" },
+      { label: "Cafetera Smartlife: cuál comprar", href: "/guias/cafetera-smartlife" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -18596,6 +18663,11 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
+      { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
+      { label: "Cafetera Dolce Gusto: cuál comprar en Argentina", href: "/guias/cafetera-dolce-gusto" },
+      { label: "Cafetera de filtro: las mejores de Argentina", href: "/guias/cafetera-de-filtro" },
+      { label: "Cafetera Liliana: cuál comprar", href: "/guias/cafetera-liliana" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -18680,6 +18752,9 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cafetera express: guía completa y ranking", href: "/guias/cafetera-express" },
       { label: "Cafetera Smartlife: cuál comprar en Argentina", href: "/guias/cafetera-smartlife" },
+      { label: "Cafetera Oster: cuál comprar", href: "/guias/cafetera-oster" },
+      { label: "Cafetera de filtro: las mejores de Argentina", href: "/guias/cafetera-de-filtro" },
+      { label: "Qué cafetera comprar: express, cápsulas o filtro", href: "/guias/que-cafetera-comprar" },
     ],
     internalLinksTitle: "Guías relacionadas",
   },
@@ -21165,6 +21240,8 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Termotanque eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-electrico" },
       { label: "Ducha eléctrica: cuál comprar en Argentina", href: "/guias/agua-caliente/ducha-electrica" },
+      { label: "Estufas eléctricas: cuál comprar y cuál conviene", href: "/guias/climatizacion/estufas-electricas" },
+      { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
     ],
     internalLinksTitle: "Más para el agua caliente de tu casa",
   },
@@ -21479,6 +21556,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
       { label: "Bombilla de mate: cuál comprar en Argentina", href: "/guias/bebidas-termicas/bombilla-de-mate" },
+      { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
     ],
     internalLinksTitle: "Más para tu hidratación diaria",
   },
@@ -21578,6 +21656,8 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Microondas: cuál comprar en Argentina", href: "/guias/cocina/microondas" },
       { label: "Procesadora de alimentos: cuál comprar en Argentina", href: "/guias/cocina/procesadora-de-alimentos" },
+      { label: "Horno eléctrico: cuál comprar en Argentina", href: "/guias/cocina/horno-electrico" },
+      { label: "Robot de cocina: cuál comprar en Argentina", href: "/guias/cocina/robot-de-cocina" },
     ],
     internalLinksTitle: "Más para tu cocina",
   },
@@ -21681,6 +21761,7 @@ export const guides: Guide[] = [
       { label: "Cámara de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+      { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
     ],
     internalLinksTitle: "Más para la seguridad de tu casa",
   },
@@ -21780,6 +21861,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
       { label: "Botella térmica: cuál comprar en Argentina", href: "/guias/bebidas-termicas/botella-termica" },
+      { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
     ],
     internalLinksTitle: "Más para tu ronda de mate",
   },
@@ -21885,6 +21967,8 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Termotanque eléctrico: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-electrico" },
       { label: "Termotanque a gas: cuál comprar en Argentina", href: "/guias/agua-caliente/termotanque-a-gas" },
+      { label: "Estufa eléctrica de bajo consumo: cuál gasta menos", href: "/guias/climatizacion/estufa-electrica-bajo-consumo" },
+      { label: "Caloventor: cuál comprar en Argentina", href: "/guias/climatizacion/caloventor" },
     ],
     internalLinksTitle: "Más para el agua caliente de tu casa",
   },
