@@ -48,6 +48,12 @@ Este proyecto publica artículos desde `src/data/guides.ts`. Los Markdown en `do
 }
 ```
 
+## Regla: titulo de silo/categoria nuevo en `guideCategories`
+
+Cada valor de `category` usado en un `Guide` tiene que existir como key en `guideCategories` (al final de `src/data/guides.ts`), con un `name` y una `description`. Si falta, `/guias` cae al fallback y muestra el slug crudo en vez de un titulo (paso por esto el 2026-07-24: `cocina`, `ventiladores-de-techo`, `streaming-tv`, `humidificadores`, `termos`, `tostadoras` y `yogurteras` estaban sin entrada).
+
+**Convencion obligatoria para el `name`:** siempre `"Guía de <Tema>"` o `"Guías de <Tema>"` (singular si el silo es una sola categoria de producto tipo "Guía de Cafeteras", plural si agrupa varias cosas relacionadas tipo "Guías de Fechas Especiales"), nunca solo el nombre del tema pelado. Al crear una guia con una `category` nueva, agregar la entrada correspondiente a `guideCategories` en el mismo commit, no despues.
+
 ## Tipos de bloque disponibles
 
 - `p`: parrafo.

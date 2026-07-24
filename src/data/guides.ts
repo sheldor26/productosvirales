@@ -22551,4 +22551,39 @@ export const guideCategories: Record<string, { name: string; description: string
     description:
       "El más vendido, el más económico o el de batería más larga: cuál conviene según tu uso, con precios reales de MercadoLibre.",
   },
+  cocina: {
+    name: "Guías de Cocina",
+    description:
+      "Robots de cocina y el resto de los electrodomésticos que se usan todos los días: qué hace cada uno, cuál conviene y desde cuánto sale, con precios reales de MercadoLibre.",
+  },
+  "ventiladores-de-techo": {
+    name: "Guías de Ventiladores de Techo",
+    description:
+      "Retráctil moderno con luz, clásico de caudal bruto o industrial para el quincho: cuál conviene según el ambiente, con precios reales de MercadoLibre.",
+  },
+  "streaming-tv": {
+    name: "Guías de Streaming TV",
+    description:
+      "Los dispositivos para conectar el TV a internet y correr Netflix o YouTube, comparados por precio y contras reales de MercadoLibre.",
+  },
+  humidificadores: {
+    name: "Guías de Humidificadores",
+    description:
+      "Cuáles elevan de verdad la humedad del ambiente y cuáles son solo difusores de aroma chiquitos, con precios reales de MercadoLibre.",
+  },
+  termos: {
+    name: "Guías de Termos",
+    description:
+      "Horas de conservación, si tienen manija y si el pico sirve para cebar mate sin descebar: los de mejor respaldo de MercadoLibre.",
+  },
+  tostadoras: {
+    name: "Guías de Tostadoras",
+    description:
+      "De lo más básico a las que cancelan, descongelan y recalientan: cuál conviene según tu uso, con precios reales de MercadoLibre.",
+  },
+  yogurteras: {
+    name: "Guías de Yogurteras",
+    description:
+      "De una llave y listo a temporizador digital con pantalla LCD: cuál conviene según tu uso, con precios reales de MercadoLibre.",
+  },
 };
