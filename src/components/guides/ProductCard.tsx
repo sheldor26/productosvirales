@@ -129,12 +129,15 @@ export function ProductCard({ section }: ProductCardProps) {
   const palette = LABEL_STYLES[color];
   const labelText = section.label || (section.ranking ? `#${section.ranking}` : null);
   const variant = section.variant || "default";
+  // La tarjeta N.º 1 del ranking se destaca con un borde de color propio;
+  // el resto queda en el borde neutro de siempre.
+  const isWinner = section.ranking === 1;
 
   if (variant === "compact") {
     return (
       <aside
-        className="not-prose my-4 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)]"
-        style={{ borderColor: "var(--border)" }}
+        className="not-prose my-4 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)] transition-all duration-200 hover:shadow-lg hover:scale-[1.02]"
+        style={{ borderColor: isWinner ? palette.fg : "var(--border)", borderWidth: isWinner ? "2px" : "1px" }}
         aria-label={product.title}
       >
         <div className="flex items-stretch">
@@ -219,8 +222,8 @@ export function ProductCard({ section }: ProductCardProps) {
 
   return (
     <aside
-      className="not-prose my-8 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)]"
-      style={{ borderColor: "var(--border)" }}
+      className="not-prose my-8 overflow-hidden rounded-[6px] border bg-[var(--bg-primary)] transition-all duration-200 hover:shadow-lg hover:scale-[1.02]"
+      style={{ borderColor: isWinner ? palette.fg : "var(--border)", borderWidth: isWinner ? "2px" : "1px" }}
       aria-label={product.title}
     >
       {/* Cinta de premio (award ribbon) — full width, color por labelColor */}

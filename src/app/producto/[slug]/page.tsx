@@ -11,6 +11,7 @@ import { ProductGrid } from "@/components/products/ProductGrid";
 import { RelatedGuides } from "@/components/guides/RelatedGuides";
 import { nextStepLinksForProduct } from "@/lib/related-guides";
 import { baseOpenGraph } from "@/lib/site-og";
+import { toPlainText } from "@/lib/parse-inline-links";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -250,7 +251,7 @@ export default async function ProductPage({ params }: Props) {
             name: item.question,
             acceptedAnswer: {
               "@type": "Answer",
-              text: item.answer,
+              text: toPlainText(item.answer),
             },
           })),
         }

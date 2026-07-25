@@ -85,10 +85,13 @@ function SectionRenderer({ section }: { section: GuideSection }) {
           <table className="w-full text-sm">
             <thead>
               <tr className="bg-[var(--bg-secondary)]">
-                {section.headers?.map((h) => (
+                {section.headers?.map((h, j) => (
                   <th
                     key={h}
-                    className="px-4 py-3 text-left font-semibold text-[var(--text-primary)] border-b border-[var(--border)]"
+                    className={
+                      "px-4 py-3 text-left font-semibold text-[var(--text-primary)] border-b border-[var(--border)]" +
+                      (j === 0 ? " sticky left-0 z-10 bg-[var(--bg-secondary)] shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)]" : "")
+                    }
                   >
                     {h}
                   </th>
@@ -104,7 +107,12 @@ function SectionRenderer({ section }: { section: GuideSection }) {
                   {row.map((cell, j) => (
                     <td
                       key={j}
-                      className="px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]"
+                      className={
+                        "px-4 py-3 text-[var(--text-secondary)] border-t border-[var(--border)]" +
+                        (j === 0
+                          ? ` sticky left-0 z-10 shadow-[2px_0_4px_-2px_rgba(0,0,0,0.12)] ${i % 2 === 1 ? "bg-[var(--bg-secondary)]" : "bg-[var(--bg-primary)]"}`
+                          : "")
+                      }
                     >
                       {parseInlineLinks(cell)}
                     </td>
