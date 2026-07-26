@@ -85,10 +85,10 @@ compite de verdad la keyword principal:
 | Grupo | Guías (publicadas) | Volumen | Hoy (real) | Realista | Techo |
 |---|---:|---:|---:|---:|---:|
 | Genérico / alta competencia | 67 | 1.326.250 /mes | 753 | 53.758 | 136.099 |
-| Cola / marca (creíble en DA1) | 92 | 340.600 /mes | 766 | **10.295** | **29.373** |
+| Cola / marca (creíble en DA1) | 93 | 341.320 /mes | 766 | **10.296** | **29.387** |
 
-**El número para planificar es el de "cola/marca": ≈10.295/mes realista,
-≈29.373/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo` y `camara-tplink-tapo`).** El bloque genérico queda como techo aspiracional,
+**El número para planificar es el de "cola/marca": ≈10.296/mes realista,
+≈29.387/mes techo (actualizado 2026-07-26 con el alta de las 9 guías nuevas del loop del día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo`, `camara-tplink-tapo` y `microondas-lg`).** El bloque genérico queda como techo aspiracional,
 condicionado a que en algún momento haya link building real — no es algo
 que vaya a moverse solo con más guías o mejor enlazado interno.
 
@@ -292,6 +292,7 @@ demanda real por ese solapamiento. Ver caveats.
 | cafetera-liliana | cafetera liliana | Cola/marca (viable) | 880 | Pos 6.0 | 1 | 58 | 143 |
 | pava-electrica-vidrio | pava electrica de vidrio | Cola/marca (viable) | 720 | Pos 6.0 | 1 | 47 | 117 |
 | pava-electrica-acero-inoxidable | pava electrica acero inoxidable | Cola/marca (viable) | 720 | Pos 7.4 | 9 | 24 | 70 |
+| microondas-lg | microondas lg | Cola/marca (viable) | 720 | Sin datos aun | 0 | 1 | 14 |
 | ninja-crispi-review | ninja crispi | Cola/marca (viable) | 590 | Pos 9.0 | 0 | 15 | 39 |
 | masajeador-espalda-cuello | masajeador de espalda y cuello | Cola/marca (viable) | 390 | Pos 6.8 | 1 | 18 | 38 |
 | accesorios-para-freidora-de-aire | accesorios para freidora de aire | Genérico (alta comp.) | 390 | Pos 8.2 | 0 | 13 | 38 |
@@ -334,17 +335,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida base 2026-07-26; +8 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo`, `camara-tplink-tapo`)
+## Totales acumulados (corrida base 2026-07-26; +9 filas, loop completo del día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo`, `camara-tplink-tapo`, `microondas-lg`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (159 publicadas + 6 STAGED) | 165 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.666.850 /mes |
+| Guías (160 publicadas + 6 STAGED) | 166 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.667.570 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.053 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.472 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.295 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.373 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.054 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.486 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.296 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.387 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -355,7 +356,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 18 | 166.790 /mes | 0 | 50 | 3.286 |
+| Sin datos aún (nueva o STAGED) | 19 | 167.510 /mes | 0 | 51 | 3.300 |
 
 ## Caveats (válidos para toda actualización futura)
 

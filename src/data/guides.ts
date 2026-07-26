@@ -97,7 +97,7 @@ export const guides: Guide[] = [
       { type: "p", content: `Contra honesta de las reseñas: la **luz interior es floja** (cuesta ver la comida adentro) y hace varios pitidos al terminar. Detalles menores, pero por algo el BGH digital sigue siendo el más elegido de los dos.` },
 
       { type: "h3", title: `6. LG 25L Smart Inverter (MH6535GIS) — el premium` },
-      { type: "product-card", productMlaId: "MLA62204337", label: "El premium con inverter", labelColor: "purple", ranking: 6, description: `25 litros, 1000 W, con tecnología Smart Inverter y grill. 4.9 estrellas. Calienta más parejo y silencioso. El premium de la guía.` },
+      { type: "product-card", productMlaId: "MLA62204337", label: "El premium con inverter", labelColor: "purple", ranking: 6, description: `25 litros, 1000 W, con tecnología Smart Inverter y grill. 4.8 estrellas. Calienta más parejo y silencioso. El premium de la guía.` },
       { type: "p", content: `Si querés lo mejor y no te importa pagarlo, el LG con **Smart Inverter** es el premium. En vez de prender y apagar la potencia (como los comunes), la regula de forma continua: **calienta más parejo**, descongela mejor y es más silencioso. Suma 25 litros, 1000 W y grill, a alrededor de {{precio:MLA62204337:k}}.` },
       { type: "p", content: `Lo honesto: es **nuevo**, así que todavía tiene pocas opiniones (aunque excelentes), y un detalle de las reseñas es que la melodía de aviso al terminar es larga y a algunos les molesta. A favor de la confianza: LG le da **10 años de garantía al magnetrón** (el corazón del microondas, lo que más se rompe), algo que ninguna otra marca de la guía ofrece. Si valorás el inverter y el respaldo, es el tope de gama; si no, el resto resuelve por menos.` },
 
@@ -144,6 +144,7 @@ export const guides: Guide[] = [
       { label: "Microondas BGH: cuál comprar (la marca más vendida)", href: "/guias/cocina/microondas-bgh" },
       { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
       { label: "Microondas Samsung: ¿vale la pena el de grill?", href: "/guias/cocina/microondas-samsung" },
+      { label: "Microondas LG: ¿vale la pena el Smart Inverter?", href: "/guias/cocina/microondas-lg" },
       { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
@@ -446,6 +447,7 @@ export const guides: Guide[] = [
       { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
       { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
       { label: "Microondas Samsung: ¿vale la pena el de grill?", href: "/guias/cocina/microondas-samsung" },
+      { label: "Microondas LG: ¿vale la pena el Smart Inverter?", href: "/guias/cocina/microondas-lg" },
       { label: "Robot de cocina: cuál comprar", href: "/guias/cocina/robot-de-cocina" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
@@ -740,6 +742,81 @@ export const guides: Guide[] = [
       { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
       { label: "Microondas BGH: cuál comprar", href: "/guias/cocina/microondas-bgh" },
       { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
+      { label: "Microondas LG: ¿vale la pena el Smart Inverter?", href: "/guias/cocina/microondas-lg" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // SATÉLITE microondas-lg (silo cocina)
+  {
+    slug: "microondas-lg",
+    category: "microondas",
+    silo: "cocina",
+    title: `Microondas LG en Argentina: el Smart Inverter y si vale la pena [2026]`,
+    seoTitle: `Microondas LG 2026: ¿Vale la Pena el Smart Inverter?`,
+    metaDescription: `El microondas LG que domina las ventas en Argentina es el MH6535GIS con Smart Inverter: calienta más parejo, pero es el más caro. Te contamos si conviene.`,
+    ogTitle: `Microondas LG en Argentina: el Smart Inverter y si vale la pena`,
+    ogDescription: `El LG MH6535GIS de 25L con Smart Inverter, el premium de la guía general de microondas, comparado con el BGH más barato y el Samsung con grill.`,
+    h1: `Microondas LG en Argentina: el Smart Inverter y si vale la pena`,
+    directAnswer: `El microondas LG que domina las ventas en Argentina es el **[MH6535GIS de 25L con Smart Inverter](/producto/MLA62204337)** (alrededor de {{precio:MLA62204337:k}}): regula la potencia de forma continua (calienta y descongela más parejo), suma grill de cuarzo y 10 años de garantía en el magnetrón. Es el más caro de la categoría; si solo querés calentar y descongelar, el [BGH Quick Chef](/producto/MLA18193159) de la guía general sale bastante menos.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Cuando alguien busca "microondas LG" en Argentina, la respuesta corta es un solo modelo: el MH6535GIS con Smart Inverter, a alrededor de {{precio:MLA62204337:k}}. Te contamos qué trae esa tecnología, cuánto pesa el precio y cuándo conviene ahorrar con otra marca.`,
+    quickPicks: [
+      { productMlaId: "MLA62204337", label: "El LG con Smart Inverter", labelColor: "purple", tagline: "MH6535GIS: 25L, Smart Inverter, grill y 10 años de garantía en el magnetrón" },
+    ],
+    intro: [
+      `LG fabrica microondas de varias gamas en el mundo, pero en MercadoLibre Argentina el que tiene ventas y opiniones verificables es uno solo: el **MH6535GIS de 25 litros con Smart Inverter**. Es el escalón premium de la categoría, pensado para quien cocina seguido y quiere que el microondas caliente parejo, no solo el más barato posible.`,
+      `En esta guía te contamos qué hace la tecnología Smart Inverter, si justifica el precio y cuándo te conviene más otra marca. Si querés ver el panorama completo, mirá la [guía general de microondas](/guias/cocina/microondas).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_923637-MLA97998448714_112025-F.jpg", alt: `Microondas LG MH6535GIS de 25 litros con Smart Inverter, el modelo LG más vendido en MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el dato de partida es real, no una selección nuestra: el MH6535GIS es el único microondas LG con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Es un modelo relativamente nuevo en el catálogo, así que su base de opiniones (79) es más chica que la de otras marcas, aunque consistentemente positiva. Lo comparamos contra las alternativas de precio bajo y de gama media que ya cubrimos en la guía general de microondas. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Por qué "microondas LG" lleva a un solo modelo`, id: "por-que-un-modelo" },
+      { type: "p", content: `LG vende microondas de varias gamas en el mundo, pero en MercadoLibre Argentina el que tiene ventas y opiniones verificables es el **MH6535GIS**: 25 litros con Smart Inverter y grill. Si buscás "microondas LG" pensando en otro tamaño o gama, no vas a encontrar ficha con volumen de ventas verificable para eso en este catálogo: este es el punto de referencia real de la marca hoy.` },
+
+      { type: "h2", title: `MH6535GIS: qué trae y qué resigna`, id: "mh6535gis" },
+      { type: "product-card", productMlaId: "MLA62204337", label: "El LG con Smart Inverter", labelColor: "purple", description: `25 litros con tecnología Smart Inverter, grill de cuarzo y 10 años de garantía en el magnetrón. 4.8 estrellas, el premium de la categoría.` },
+      { type: "p", content: `Su punto fuerte es el **Smart Inverter**: en vez de prender y apagar la potencia como un microondas común, la regula de forma continua, así que calienta y descongela más parejo y con menos ruido. Suma **grill de cuarzo de 850 W** para dorar y gratinar, interior EasyClean antibacterial y **10 años de garantía en el magnetrón** (la pieza que más se rompe), a alrededor de {{precio:MLA62204337:k}}.` },
+      { type: "p", content: `Lo que resigna: es el **más caro** de la categoría por lejos, y al ser relativamente nuevo en el catálogo, su base de 79 calificaciones es chica comparada con las de miles que acumulan BGH o Samsung. Las opiniones existentes son consistentemente buenas, pero el volumen todavía no es masivo.` },
+
+      { type: "h2", title: `¿Conviene el LG o te sirve más otra marca?`, id: "conviene" },
+      { type: "p", content: `Si solo querés **calentar y descongelar**, sin pagar por tecnología que no vas a notar, el [BGH Quick Chef 20L](/producto/MLA18193159) de la guía general cuesta una fracción y es el más vendido del país. El Smart Inverter se nota en el uso frecuente y en detalles como descongelar sin cocinar los bordes, no en calentar café.` },
+      { type: "p", content: `Y si querés grill sin pagar el premium completo, el [Samsung MG23F3K3TAK](/producto/MLA10531383) de la guía general dora y gratina a un precio intermedio, aunque sin la regulación continua de potencia del LG.` },
+
+      { type: "h2", title: `Tabla comparativa: LG vs. las alternativas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Tecnología`, `Ideal para`], rows: [
+        [`[BGH Quick Chef 20L](https://meli.la/27RQQKV)`, `{{precio:MLA18193159}}`, `20 L`, `Estándar`, `Calentar y descongelar, lo más barato`],
+        [`[Samsung MG23F3K3TAK](https://meli.la/2TU2ytf)`, `{{precio:MLA10531383}}`, `23 L`, `Grill`, `Dorar y gratinar a precio medio`],
+        [`[LG MH6535GIS](https://meli.la/2pLfJd8)`, `{{precio:MLA62204337}}`, `25 L`, `Smart Inverter + grill`, `El premium, calienta más parejo`],
+      ] },
+
+      { type: "h2", title: `Cuánto cuesta un microondas LG en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA62204337:k}}:** el [LG MH6535GIS](https://meli.la/2pLfJd8), el único modelo LG con volumen de ventas real en este catálogo.`,
+        `**Si solo calentás y descongelás:** el [BGH Quick Chef 20L](https://meli.la/27RQQKV) sale una fracción del precio.`,
+        `**Si querés grill sin pagar el premium completo:** el [Samsung MG23F3K3TAK](https://meli.la/2TU2ytf) queda en el medio.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: ¿comprás el LG?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, si cocinás seguido y valorás que el microondas **caliente parejo** (sin zonas frías ni recalentadas), con grill y la tranquilidad de 10 años de garantía en el magnetrón: el **[LG MH6535GIS](/producto/MLA62204337)** cumple, aunque a precio premium. No, si solo calentás café y descongelás: ahí el [BGH Quick Chef](/producto/MLA18193159) te ahorra la mayor parte del gasto y hace exactamente lo mismo para ese uso.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor microondas LG en Argentina?`, answer: `Es el [MH6535GIS de 25 litros](https://meli.la/2pLfJd8): el único modelo LG con volumen de ventas real en MercadoLibre Argentina, con tecnología Smart Inverter y grill.` },
+      { question: `¿Qué es la tecnología Smart Inverter?`, answer: `En vez de calentar prendiendo y apagando la potencia al máximo (como un microondas común), el Smart Inverter la regula de forma continua. Calienta más parejo, descongela sin cocinar los bordes y suele ser más silencioso.` },
+      { question: `¿Vale la pena pagar el Smart Inverter?`, answer: `Depende del uso. Si cocinás seguido y notás diferencia en cómo calienta o descongela, sí. Si solo calentás café o comida del táper, el [BGH Quick Chef](https://meli.la/27RQQKV) hace lo mismo por una fracción del precio.` },
+      { question: `¿Por qué el LG tiene pocas calificaciones si es tan bueno?`, answer: `Es un modelo relativamente nuevo en el catálogo argentino, así que su base de opiniones (79) todavía es chica comparada con la de marcas como BGH o Samsung, que acumulan miles. Las opiniones existentes son consistentemente positivas.` },
+      { question: `¿Conviene el LG o el Samsung con grill?`, answer: `El [Samsung MG23F3K3TAK](https://meli.la/2TU2ytf) tiene grill a un precio intermedio, pero no la regulación continua de potencia del Smart Inverter. El LG suma esa tecnología y 10 años de garantía en el magnetrón, a mayor precio.` },
+      { question: `¿Qué garantía tiene el microondas LG?`, answer: `El magnetrón (la pieza que más se rompe en un microondas) tiene 10 años de garantía de LG, algo que ninguna otra marca de la guía general ofrece.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
+      { label: "Microondas Samsung: ¿vale la pena el de grill?", href: "/guias/cocina/microondas-samsung" },
+      { label: "Microondas BGH: cuál comprar", href: "/guias/cocina/microondas-bgh" },
     ],
     internalLinksTitle: "Más para la cocina",
   },

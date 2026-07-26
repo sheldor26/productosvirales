@@ -610,6 +610,20 @@ Origen: último ítem del loop de link building del mismo día. "cámara TP-Link
 
 **Cierre del loop de guías nuevas del día:** con esta guía se completan 9 de las 11 keywords identificadas en el loop de link building ("arrancá con Termo Stanley... hacelas en loop"). Quedan pendientes: "microondas LG" (720/mes, siguiente y última) y las dos descartadas por autocanibalización real (ventilador de techo retráctil/con luz, ya documentadas arriba).
 
+### Guía nueva 2026-07-26 (satélite de marca "microondas-lg", silo cocina) — publicada de inmediato — CIERRE DEL LOOP
+
+Origen: última guía del loop de link building del mismo día ("arrancá con Termo Stanley, usar /optimizador-guias-pv y usar /trio-auditor... hacelas en loop"). "microondas lg" mide 720 vol/mes (Keyword Planner). Mismo patrón de producto único que microondas-samsung: LG tiene un solo modelo real en el catálogo de microondas (`MLA62204337`, MH6535GIS 25L con Smart Inverter, ya usado en el pilar `microondas` como quickPick premium). La guía compara contra el BGH Quick Chef (el más barato) y el Samsung con grill (precio medio).
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| microondas-lg | cocina (satélite de `microondas`) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **GO unánime en primera ronda**, con 3 mejoras opcionales de Codex aplicadas (ver abajo) |
+
+**Bug técnico encontrado y corregido ANTES de la auditoría:** la primera versión de la guía usaba `labelColor: "violeta"` en el quickPick y el product-card del LG. El enum real `LabelColor` (`src/lib/types.ts:170`) es `"green" | "blue" | "amber" | "purple" | "slate"` — "violeta" no es válido y hubiera roto el build de TypeScript. Corregido a `"purple"` antes de correr `npm run build` (que pasó en verde). Es un recordatorio de por qué `npm run build` (no solo `guides:check`) es parte obligatoria del cierre de cada guía: un error de tipos así no lo detecta el checklist de contenido.
+
+**Mejoras opcionales de Codex aplicadas:** se agregó reciprocidad de enlace faltante desde el pilar `microondas` y desde `microondas-bgh` hacia `microondas-lg` (antes solo linkeaban a Samsung, no a LG); se corrigió un rating stale del LG en el pilar (decía "4.9 estrellas" en el product-card del ranking, cuando el real actual es 4.8).
+
+**Resumen del loop completo (2026-07-26):** 9 guías nuevas publicadas (`termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo`, `camara-tplink-tapo`, `microondas-lg`), GO unánime del trío en todas, 2 descartadas por autocanibalización real (ventilador de techo retráctil/con luz). Efecto colateral acumulado: se corrigieron 8 casos de reviewCount desactualizado preexistente en el sitio (algunos con brechas de hasta 160%), 3 precios hardcodeados viejos reemplazados por tokens, y 1 bug de tipos (`labelColor` inválido) detectado antes de llegar a producción.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).
