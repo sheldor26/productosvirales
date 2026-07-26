@@ -1,7 +1,28 @@
 # Estado actual
 
 > Snapshot del proyecto. Se actualiza al final de cada sesión.
-> Última actualización: 2026-07-25 (auditoría de enlazado interno de las 157 guías del sitio + publicación de 4 guías STAGED con auditoría técnica sitewide completa — ver sesión de más abajo).
+> Última actualización: 2026-07-26 (diagnóstico SEO v5: 2 hipótesis confirmadas y aplicadas, fixes de color en perfumes-arabes-por-color, seguimiento a 6 semanas anotado abajo — ver sesión de más abajo).
+
+## Sesión 26-jul — Diagnóstico SEO v5 (H1-H4) + fixes aplicados + seguimiento a 6 semanas (chequear 6-sep-2026)
+
+Prompt de diagnóstico SEO v5 completo (GSC snapshot #31, `gsc.py query-pages` ya existente desde el commit anterior). Resultado: H2 refutada (contenido de `mejores-perfumes-arabes-hombre` es igual o mejor que sus hermanas, el problema es canibalización genérica del cluster — hallazgo nuevo, sin resolver). H4 refutada en su planteo original (`related-guides.ts` ya cubre 96,3% de los 297 productos automáticamente). H1 y H3 confirmadas, con acción aplicada:
+
+1. **`estufa-electrica-bajo-consumo`:** confirmado en vivo que el sitio NO está citado en el AI Overview de "que estufa electrica gasta menos" (13 fuentes citadas, ninguna es productosvirales). Se agregó columna "Costo estimado/hora" a la tabla comparativa (cálculo transparente: W × 1h × $165/kWh, mismo precio de referencia que la guía ya citaba). La Winco W173 queda "no calculable" porque su ficha no publica watts — no se inventó el dato.
+2. **`perfumes-arabes-por-color`:** sección "blancos" reemplazó el placeholder "contactanos" por un producto real (Yara Moi, MLA32288168) que responde la búsqueda real "perfume arabe blanco y dorado" (218 impr. reales sumando variantes, confirmado con el AI Overview de Google + 2 fuentes de Instagram + Fasano Joyeros). Stock reverificado en vivo con Bright Data (catálogo decía out_of_stock, la realidad eran "últimas 2 unidades" — `priceStatus` corregido a `fresh`, `price` sin tocar a propósito, pendiente correr `prices:update` para el número real).
+3. **3 errores de color preexistentes corregidos** (encontrados por Juan mirando las fotos reales, no por el diagnóstico original): Yara original es rosa **con plateado**, no dorado; Yara Tous es **amarillo/mango**, no rosa (ya lo tenía bien otra guía del sitio, `yara-lattafa-guia-completa`, como "amarillo" — inconsistencia entre guías). Se sacó a Yara Tous de la sección "rosa" de esta guía y se limpiaron 3 menciones que repetían el error.
+4. **Trío auditor (Codex + Gemini vía agy):** GO 10/10 unánime en los 3 cambios originales (tabla de costos, sección blanco+dorado, fix de stock). Los 2 fixes de color adicionales (posteriores al audit, pedidos por Juan con foto) solo verificación mecánica, no re-auditados — son correcciones de una palabra ya confirmadas visualmente.
+5. **Commiteado y pusheado a master** (`028c449`). `npm run build` + `guides:check` en verde en cada paso.
+
+**Pendiente sin resolver, anotado para otra sesión:**
+- `curated-products.ts`: Yara Moi descrito como "frasco rojo" en la ficha del Set My Yara Collection (líneas ~37105/37284) — tercera descripción de color distinta para el mismo producto en el sitio.
+- El mismo error "Yara Tous = rosa" probablemente se repite en `perfumes-arabes-mujer` y otras guías no tocadas esta sesión — vale un barrido.
+- Canibalización genérica real detectada en el cluster perfumes árabes (no en `-por-color`): "perfumes arabes" reparte impresiones entre 6 URLs propias, "mejores perfumes arabes" entre 4. Requiere su propio Paso 0 manual (incógnito) antes de proponer consolidación — no se hizo esta sesión, fuera del alcance pedido.
+
+**Seguimiento a 6 semanas — chequear el 2026-09-06 con `gsc.py query-pages`:**
+Línea de base (snapshot #31, 2026-06-27 a 2026-07-24, antes de estos cambios):
+- `estufa-electrica-bajo-consumo`: pos 8,7 · 4.296 impr · 22 clicks · CTR 0,51%. Query "que estufa electrica gasta menos": 254 impr, 1 click, pos 8,3.
+- `perfumes-arabes-por-color`: pos 8,2 · 3.111 impr · 5 clicks · CTR 0,15%. "perfume arabe blanco y dorado": 135 impr, 0 clicks, pos 9,9. "perfume arabe blanco con dorado": 51 impr, 0 clicks, pos 10,5.
+Criterio de éxito/fracaso ya acordado con Juan: si a las 6 semanas la de estufas no se movió, esa apuesta (citabilidad AIO) no rindió y no vale la pena insistir ahí. La de perfumes tiene más chances reales porque resuelve un vacío de contenido real, no solo de formato — comparar cada URL contra su propio período anterior, nunca contra el promedio del sitio (crece ~142% mensual).
 
 ## Sesión 24/25-jul — Auditoría de enlazado interno sitewide + 4 guías STAGED publicadas con auditoría técnica completa
 
