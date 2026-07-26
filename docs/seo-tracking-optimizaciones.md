@@ -588,6 +588,16 @@ Origen: siguiente ítem del loop de link building del mismo día. "proyector ast
 
 **Mejoras opcionales de Codex aplicadas:** se agregó `"proyector-astronauta"` a `guideCategories` en `guides.ts` (sin esto, `/guias` iba a mostrar el slug crudo sin nombre ni descripción); se precisó una frase del trust-block ("candidatos sin stock verificado o no elegibles" en vez de "sin stock disponible", porque Dakota estaba deprioritized y no necesariamente sin stock).
 
+### Guía nueva 2026-07-26 (satélite de marca "yogurtera-daewoo", silo cocina) — publicada de inmediato
+
+Origen: siguiente ítem del loop de link building del mismo día. "yogurtera daewoo" mide 1.600 vol/mes (Keyword Planner). Mismo patrón de producto único que auriculares-sony, microondas-samsung y auriculares-xiaomi: Daewoo tiene un solo modelo real en el catálogo de yogurteras (`MLA65327878`, Yoggy Pro DYM672T, ya usada en el pilar `yogurtera` como quickPick #3 "Para yogur griego"). La guía explica honestamente por qué la keyword de marca lleva a un solo modelo y lo compara contra la Yelmo YG-1700 (la más vendida y barata del pilar).
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| yogurtera-daewoo | cocina (satélite de `yogurtera`) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **GO unánime en primera ronda**, con 1 mejora aplicada (link a Lüsqtoff LQ-YT808 sugerido por agy) |
+
+**Nota:** Codex señaló de paso que el pilar `yogurtera` tiene números levemente desactualizados para Yelmo (12.296 vs 12.393 real) y Daewoo (350 vs 358 real), diferencias del 1-2% dentro del crecimiento orgánico normal — no se corrigieron por no calificar como staleness real (a diferencia de los casos de Sony/Xiaomi/Ezviz de hoy, con brechas del 7% al 110%).
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).
