@@ -99,6 +99,34 @@ color/cuánto consume/etc.); `cola_marca` en cualquier otro caso. Al agregar
 guías nuevas, clasificarlas con el mismo criterio y sumarlas al grupo que
 corresponda.
 
+## Edad de dominio / "sandbox" (agregado 2026-07-26, pregunta de Juan)
+
+El sitio nació ~10 de abril de 2026. Hoy (26 de julio) tiene ~3,5 meses. Es
+una variable DISTINTA de "DA1 sin backlinks" que hasta ahora no se había
+nombrado por separado, aunque ya está implícita en los datos:
+
+- **Las columnas "Realista"/"Techo" ya están descontadas por esto**, porque
+  parten de la posición REAL de hoy en GSC (que ya refleja cualquier freno
+  de dominio nuevo que exista) — no es una proyección ciega.
+- **Para el bloque "genérico"**, la edad de dominio empeora el diagnóstico
+  ya pesimista: aunque hubiera backlinks reales mañana, un dominio de 3-4
+  meses no le compite a Mercado Libre en un término genérico — hace falta
+  autoridad Y tiempo acumulado. Sigue siendo aspiracional, ahora con un
+  motivo adicional.
+- **Para el bloque "cola/marca" (el número creíble)**, hay un viento de cola
+  que el cálculo actual NO suma: la proyección a 6-12 meses solo asume
+  mejora por más contenido/enlazado interno, no contempla que el dominio
+  puede "madurar" solo con el paso del tiempo (patrón anecdótico de la
+  industria SEO, sin confirmación oficial de Google, típicamente entre los
+  6 y 12 meses de vida). Si eso pasa, el **techo real probablemente sea más
+  alto que el ≈29.387/mes actual**, sin que haga falta tocar nada.
+
+**Hitos para vigilar:** 10 de octubre de 2026 (6 meses) y 10 de abril de
+2027 (1 año). Checkpoint sugerido: en octubre, revisar si alguna guía subió
+de posición **sin haber recibido ninguna edición de contenido** en el medio
+— eso sería evidencia de maduración de dominio, distinta de una mejora por
+trabajo editorial.
+
 ## Diferencia clave con el reporte de essentialpetgear
 
 Essentialpetgear es un sitio nuevo sin backlinks: su "hoy" es 0 por
