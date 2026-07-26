@@ -522,6 +522,16 @@ Origen: research de keywords 2026-07-20 (`docs/keyword-research-juguetes.md`) id
 
 **Pendiente de Juan:** las 5 fichas nuevas tienen `affiliateUrl` apuntando hoy al permalink real de MercadoLibre (con comentario `TODO`), a la espera de que Juan genere los links meli.la. Sin fecha de publicación fijada (a diferencia de `dia-del-nino-argentina`, esta guía no tiene vencimiento de oportunidad estacional).
 
+### Guía nueva 2026-07-26 (satélite de marca "termo-stanley", silo bebidas-termicas) — publicada de inmediato
+
+Origen: la sesión de link building/tráfico potencial de este mismo día encontró que "termo stanley" mide 49.500 vol/mes en Argentina (Keyword Planner), sin ninguna guía dedicada pese a tener ya producto real y afiliado en catálogo (`MLA19761025`, Stanley Original Mate System Classic 1,2L, ya usado en el ranking del pilar `termo`). Creada con la skill `optimizador-guias-pv` en modo CREAR, sin sourcing de productos nuevos (el Mate System y la Wellspring de referencia ya estaban en `curated-products.ts` con afiliado real). Cubre explícitamente las dos intenciones que mezcla la keyword en Argentina: el Mate System (para cebar mate) y el Quencher (vaso térmico viral en redes, confirmado real en MercadoLibre vía Chrome logueado — 1.262 resultados, tienda oficial "Stanley Argentina" — pero sin ficha propia en el catálogo, mencionado solo de forma informativa, sin CTA).
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| termo-stanley | bebidas-termicas (satélite de `termo`) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **3 rondas, GO unánime** — rondas 1 y 2 encontraron la misma sobreafirmación factual (la guía decía que Stanley tenía "la mayor base de calificaciones de la categoría", falso: el Lumilagro Luminox del pilar tiene 26.780 contra las 6.368 de Stanley) en 5 lugares distintos de la guía nueva; ronda 3 confirmó GO tras corregir los 5 y una mejora opcional (unificar el rango de precio del Quencher) |
+
+**Efecto colateral encontrado y corregido:** la misma sobreafirmación ("la marca con más respaldo total de la categoría") y un número de reseñas desactualizado (6.297 en vez de 6.368) ya existían desde antes en el pilar `termo` (product-card de Stanley) y en la ficha fuente `MLA19761025` de `curated-products.ts` (description, verdict, pros, articleBody) — se corrigieron de paso en los tres lugares para que el silo quede consistente.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

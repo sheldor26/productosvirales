@@ -85,10 +85,10 @@ compite de verdad la keyword principal:
 | Grupo | Guías (publicadas) | Volumen | Hoy (real) | Realista | Techo |
 |---|---:|---:|---:|---:|---:|
 | Genérico / alta competencia | 67 | 1.326.250 /mes | 753 | 53.758 | 136.099 |
-| Cola / marca (creíble en DA1) | 84 | 271.110 /mes | 766 | **10.273** | **28.004** |
+| Cola / marca (creíble en DA1) | 85 | 320.610 /mes | 766 | **10.287** | **28.979** |
 
-**El número para planificar es el de "cola/marca": ≈10.273/mes realista,
-≈28.004/mes techo.** El bloque genérico queda como techo aspiracional,
+**El número para planificar es el de "cola/marca": ≈10.287/mes realista,
+≈28.979/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`).** El bloque genérico queda como techo aspiracional,
 condicionado a que en algún momento haya link building real — no es algo
 que vaya a moverse solo con más guías o mejor enlazado interno.
 
@@ -178,6 +178,7 @@ demanda real por ese solapamiento. Ver caveats.
 | masajeador | masajeador | Genérico (alta comp.) | 49.500 | Pos 6.6 | 0 | 2.322 | 4.816 |
 | termotanque-electrico | termotanque electrico | Genérico (alta comp.) | 49.500 | Pos 8.0 | 5 | 1.673 | 4.816 |
 | chromecast | chromecast | Genérico (alta comp.) | 49.500 | Pos 7.1 | 3 | 2.322 | 4.816 |
+| termo-stanley | termo stanley | Cola/marca (viable) | 49.500 | Sin datos aun | 0 | 14 | 975 |
 | horno-electrico | horno electrico | Genérico (alta comp.) | 40.500 | Pos 6.2 | 14 | 1.899 | 6.561 |
 | parlante-jbl | parlante jbl | Cola/marca (viable) | 40.500 | Pos 8.9 | 3 | 1.037 | 2.669 |
 | yogurtera | yogurtera | Genérico (alta comp.) | 40.500 | Pos 8.4 | 3 | 1.369 | 3.941 |
@@ -326,17 +327,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida 2026-07-26)
+## Totales acumulados (corrida base 2026-07-26; +1 fila el mismo día: `termo-stanley`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (151 publicadas + 6 STAGED) | 157 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.597.360 /mes |
+| Guías (152 publicadas + 6 STAGED) | 158 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.646.860 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.031 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 164.103 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.273 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 28.004 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.045 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.078 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.287 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 28.979 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -347,7 +348,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 10 | 97.300 /mes | 0 | 28 | 1.917 |
+| Sin datos aún (nueva o STAGED) | 11 | 146.800 /mes | 0 | 42 | 2.892 |
 
 ## Caveats (válidos para toda actualización futura)
 

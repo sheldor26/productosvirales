@@ -20015,8 +20015,8 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `Muy bueno el termo lusqtoff. Fantástica alternativa a los termos stanley, hice pruebas para que la gente tenga referencia. Coloque agua a 94° a las 09:20, a las 18:20 el agua estaba a 75°, a las 07:30 del día siguiente 60°.`, attribution: `— Comprador verificado en MercadoLibre` },
 
       { type: "h3", title: `4. Stanley Mate System — el premium` },
-      { type: "product-card", productMlaId: "MLA19761025", label: "El premium", labelColor: "blue", ranking: 4, description: `1,2 litros, con tapón cebador integrado de alta precisión. 4.8 estrellas en 6.297 calificaciones, #1 en Termos.` },
-      { type: "p", content: `La marca con más respaldo total de la categoría (6.297 calificaciones) y el único con tapón cebador integrado de fábrica pensado específicamente para mate, a alrededor de {{precio:MLA19761025:k}}.` },
+      { type: "product-card", productMlaId: "MLA19761025", label: "El premium", labelColor: "blue", ranking: 4, description: `1,2 litros, con tapón cebador integrado de alta precisión. 4.8 estrellas en 6.368 calificaciones, #1 en Termos.` },
+      { type: "p", content: `La marca de mayor reconocimiento de esta guía (6.368 calificaciones, aunque por debajo de las 26.780 del Lumilagro) y la única con tapón cebador integrado de fábrica pensado específicamente para mate, a alrededor de {{precio:MLA19761025:k}}.` },
       { type: "p", content: `Lo honesto: cuesta 3 a 4 veces más que el resto de esta guía, y hay una discrepancia entre las propias fuentes de MercadoLibre sobre cuánto conserva (1,5 días según la ficha estructurada, 30 horas según la descripción del vendedor). Una reseña real avisa que para mate conviene recalentar el agua si no lo usás enseguida.` },
       { type: "pull-quote", content: `Superó mis expectativas super liviano y cómodo para trasportar, el picó que tiene sin dudas es el mejor lo puse a prueba para ver la temperatura y el agua seguía caliente. Sin dudas por el precio lo vale, una buena inversión.`, attribution: `— Comprador verificado en MercadoLibre` },
 
@@ -20065,6 +20065,7 @@ export const guides: Guide[] = [
       { question: `¿Vale la pena pagar 3 o 4 veces más por un Stanley?`, answer: `Depende de qué priorices. El [Stanley](/producto/MLA19761025) de esta guía tiene el respaldo de marca más grande y un tapón cebador integrado de fábrica pensado específicamente para mate, además de garantía de por vida declarada. Pero varias reseñas de los termos argentinos más baratos lo comparan directo y no encuentran una diferencia de rendimiento proporcional al precio.` },
     ],
     internalLinks: [
+      { label: "Termo Stanley: ¿vale la pena en Argentina?", href: "/guias/bebidas-termicas/termo-stanley" },
       { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
       { label: "Pava eléctrica de acero inoxidable: la mejor", href: "/guias/pava-electrica-acero-inoxidable" },
       { label: "Yogurtera: cuál comprar en Argentina", href: "/guias/cocina/yogurtera" },
@@ -20072,6 +20073,83 @@ export const guides: Guide[] = [
       { label: "Bombilla de mate: cuál comprar en Argentina", href: "/guias/bebidas-termicas/bombilla-de-mate" },
     ],
     internalLinksTitle: "Más para tu cocina y tu mate",
+  },
+
+  // ─────────────────────────────────────────────────────────
+  // SATÉLITE termo-stanley — silo bebidas-termicas
+  // Keyword "termo stanley" 49.500/mes AR (Keyword Planner, 2026-07-26).
+  // Producto real ya en catálogo: MLA19761025 (Mate System, ya usado en
+  // el ranking del pilar "termo"). Contenido original, no reusa las
+  // oraciones del pilar (mismo hecho, redactado distinto) para no duplicar.
+  // ─────────────────────────────────────────────────────────
+  {
+    slug: "termo-stanley",
+    category: "termos",
+    silo: "bebidas-termicas",
+    title: `Termo Stanley en Argentina: por qué cuesta tanto y si vale la pena [2026]`,
+    seoTitle: `Termo Stanley Argentina: ¿Vale la Pena? Precio 2026`,
+    metaDescription: `Descubrí si vale la pena el termo Stanley en Argentina: el Mate System real vs el Quencher viral, precio, opiniones y si conviene pagar 3 veces más.`,
+    ogTitle: `Termo Stanley: ¿vale la pena en Argentina?`,
+    ogDescription: `Stanley vende dos cosas muy distintas en Argentina: el Mate System para cebar mate y el Quencher que se hizo viral en redes. Te contamos cuál es cuál, precio real y si vale pagar 3 veces más que una marca argentina.`,
+    ogImage: `https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp`,
+    h1: `Termo Stanley en Argentina: el Mate System, el Quencher y si vale la pena`,
+    directAnswer: `Si buscás un termo Stanley **para cebar mate**, el real es el **[Stanley Original Mate System Classic 1,2L](/producto/MLA19761025)** (alrededor de {{precio:MLA19761025:k}}): tapón cebador integrado de fábrica y 6.368 calificaciones reales (4.8 estrellas). Si lo que viste en redes fue un vaso térmico de colores, ese es el **Quencher**, otra línea de Stanley pensada para bebidas frías del día a día, no para mate. Y antes de pagar 3 a 4 veces más que una marca argentina: el [Lumilagro Luminox](/producto/MLA15297106) de la guía general de termos tiene más del cuádruple de calificaciones que el Stanley (26.780) y varias reseñas lo comparan directo con buenos resultados.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Stanley es la marca de termos más buscada de Argentina, pero bajo ese nombre conviven dos productos que no tienen nada que ver entre sí: el Mate System, pensado para cebar mate, y el Quencher, el vaso térmico que se volvió viral en redes para agua y bebidas frías. Te contamos cuál es cuál, cuánto sale cada uno y si de verdad vale la pena pagar lo que pide la marca.`,
+    quickPicks: [
+      { productMlaId: "MLA19761025", label: "El real para mate", labelColor: "blue", tagline: "Stanley Mate System: tapón cebador integrado, 6.368 calificaciones (4.8★)" },
+    ],
+    intro: [
+      `"Termo Stanley" es de las búsquedas más grandes de la categoría en Argentina, y no es casualidad: la marca junta dos fenómenos distintos bajo el mismo nombre. Por un lado, el **Mate System**, el termo clásico verde con tapón cebador, pensado específicamente para tomar mate. Por el otro, el **Quencher**, el vaso térmico de colores que explotó en redes sociales para tomar agua o bebidas frías durante el día, sin ninguna relación con el mate.`,
+      `Acá separamos los dos productos, con precio real de MercadoLibre Argentina, para que sepas cuál es el que estás buscando, y si conviene pagar lo que pide Stanley frente a las alternativas argentinas que cuestan una fracción.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_Q_NP_890141-MLA113708481777_062026-F.webp", alt: `Termo Stanley Original Mate System Classic 1,2 litros, el modelo pensado para cebar mate`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo lo evaluamos:** separamos las dos líneas de Stanley que aparecen bajo la misma búsqueda en Mercado Libre Argentina, y cruzamos ficha técnica, calificaciones reales y reseñas de compradores del modelo pensado para mate. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Mate System vs Quencher: no son el mismo termo`, id: "cual-es-cual" },
+      { type: "p", content: `El **Mate System** es el termo clásico de Stanley, de acero inoxidable, con un tapón cebador integrado de fábrica pensado específicamente para regular el chorro de agua al cebar. Es hermético, sirve para agua caliente y fría, y su tapa de doble pared funciona como mate o vaso. Es el que corresponde si buscás "termo stanley" para tomar mate.` },
+      { type: "p", content: `El **Quencher** es una línea completamente distinta: un vaso térmico grande (entre 591 ml y 1,18 litros) con tapa de pico y sorbete, pensado para llevar agua o bebidas frías durante el día. Se hizo viral en redes por su diseño de colores y su tamaño, y en Argentina lo vende tanto la tienda oficial Stanley como decenas de revendedores, con precios que van de unos $104.000 a $250.000 según el color y la edición. No está pensado para cebar mate ni para bebidas calientes del uso diario: es la versión "botella grande para el día", no el termo de mate.` },
+      { type: "callout", calloutVariant: "tip", calloutTitle: "Si buscás algo para el día a día, no para mate", content: `Si lo que te interesa es un térmico para agua o bebidas frías (no para cebar mate), también tenés otra línea de Stanley en el catálogo: la [Wellspring](/producto/MLA68286776), más chica que el Quencher, que comparamos junto a otras marcas en la [guía de botellas térmicas](/guias/bebidas-termicas/botella-termica).` },
+
+      { type: "h2", title: `Stanley Mate System: el que sirve para cebar`, id: "mate-system" },
+      { type: "product-card", productMlaId: "MLA19761025", label: "El real para mate", labelColor: "blue", ranking: 1, description: `1,2 litros, acero inoxidable 18/8, tapón cebador integrado de alta precisión. 4.8 estrellas en 6.368 calificaciones, #1 en Termos de Mercado Libre Argentina.` },
+      { type: "p", content: `Tiene 6.368 calificaciones reales, una base sólida aunque no la más grande de la categoría (el Lumilagro Luminox de la guía general de termos junta 26.780). El tapón cebador integrado es el diferencial real frente a un termo genérico: no hace falta destaparlo para regular el agua, el mecanismo ya viene ajustado de fábrica. Trae garantía de por vida declarada por el vendedor y se vende por la tienda oficial Stanley Argentina.` },
+      { type: "p", content: `La contra honesta: sale entre 3 y 4 veces más que una marca argentina de calidad probada, y hay una discrepancia entre las propias fuentes de MercadoLibre sobre cuánto conserva la temperatura (la ficha técnica dice 1,5 días, la descripción del vendedor dice 30 horas). Compradores reales avisan además que, para mate, conviene recalentar el agua si no la vas a usar enseguida: al cuarto o quinto cebado ya se enfría, algo esperable en cualquier termo pero que el precio de esta marca no evita del todo.` },
+      { type: "pull-quote", content: `Superó mis expectativas súper liviano y cómodo para transportar, el pico que tiene sin dudas es el mejor lo puse a prueba para ver la temperatura y el agua seguía caliente. Sin dudas por el precio lo vale, una buena inversión.`, attribution: `Comprador verificado en MercadoLibre` },
+
+      { type: "h2", title: `¿Vale la pena pagar lo que pide Stanley?`, id: "vale-la-pena" },
+      { type: "p", content: `Depende de qué priorices. Si el respaldo de una marca reconocida mundialmente y un mecanismo pensado específicamente para mate te importan más que el precio, el Mate System cumple: tiene 6.368 calificaciones reales, aunque no es el termo con más respaldo del país (ese es el Lumilagro Luminox, con 26.780). Antes de pagar, conviene saber que varias de las reseñas más útiles de termos argentinos (el mismo [Lumilagro Luminox](/producto/MLA15297106) o el [Lüsqtoff TL1-9](/producto/MLA19589790), comparados en la [guía general de termos](/guias/bebidas-termicas/termo)) mencionan al Stanley directo y no encuentran una diferencia de rendimiento proporcional a la diferencia de precio.` },
+      { type: "p", content: `La decisión racional, según esas mismas reseñas: si el presupuesto es un factor, una marca argentina con miles de calificaciones cumple una función muy similar por una fracción del costo. Si el presupuesto no es problema y valorás la marca y el tapón cebador de fábrica, el Stanley Mate System es una compra segura, no una apuesta.` },
+
+      { type: "h2", title: `Cuánto sale un Stanley en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA19761025:k}}:** el [Stanley Mate System Classic 1,2L](/producto/MLA19761025), el real para mate.`,
+        `**Entre $104.000 y $250.000:** el Quencher, según tamaño (591 ml a 1,18 L), color y si es edición limitada. No sirve para mate.`,
+        `**Alrededor de {{precio:MLA68286776:k}}:** la [Wellspring 710ml](/producto/MLA68286776), la línea más chica para el día a día, solo apta para frío.`,
+      ] },
+
+      { type: "h2", title: `Veredicto`, id: "veredicto" },
+      { type: "verdict", content: `Si buscás "termo Stanley" para cebar mate, el que corresponde es el **[Mate System Classic 1,2L](/producto/MLA19761025)**: tapón cebador integrado de fábrica y 6.368 calificaciones reales (4.8★). Vale la pena si el presupuesto no es tu principal limitante. Si lo que viste fue un vaso de colores en redes, ese es el Quencher, una línea distinta para bebidas frías del día a día, no para mate; y si buscás algo de esa familia para uso diario, tenés la Wellspring en la [guía de botellas térmicas](/guias/bebidas-termicas/botella-termica). Y antes de pagar 3 a 4 veces más que una marca local, vale la pena mirar la [guía general de termos](/guias/bebidas-termicas/termo): el Lumilagro Luminox junta más del cuádruple de calificaciones (26.780) y varias reseñas comparan directo sin encontrar una diferencia de rendimiento a la altura del precio.` },
+    ],
+    faq: [
+      { question: `¿Por qué el termo Stanley es tan caro?`, answer: `Por marca internacional, el tapón cebador integrado de fábrica pensado específicamente para mate, y la garantía de por vida declarada. El material (acero inoxidable 18/8) no es exclusivo: marcas argentinas de esta categoría también lo usan, según confirman sus propias fichas técnicas.` },
+      { question: `¿El Stanley Mate System y el Stanley Quencher son el mismo producto?`, answer: `No. El Mate System es un termo clásico con tapón cebador, pensado para agua caliente o fría y para cebar mate. El Quencher es un vaso térmico grande (591 ml a 1,18 L) con tapa de pico y sorbete, pensado para bebidas frías del día a día. Comparten marca, no función.` },
+      { question: `¿El Stanley Quencher sirve para mate?`, answer: `No es su diseño: es un vaso abierto con tapa de pico y sorbete, sin el mecanismo cebador que sí trae el Mate System. Para cebar mate, el modelo que corresponde es el Mate System Classic.` },
+      { question: `¿Cuánto sale un termo Stanley original en Argentina?`, answer: `El Mate System Classic 1,2L ronda los {{precio:MLA19761025:k}}, vendido por la tienda oficial Stanley Argentina. El Quencher varía bastante más según tamaño y color, entre $104.000 y $250.000 aproximadamente.` },
+      { question: `¿Vale la pena pagar 3 o 4 veces más por un Stanley en vez de una marca argentina?`, answer: `Depende de qué priorices. El Stanley tiene 6.368 calificaciones reales y un mecanismo cebador de fábrica, aunque no es el termo con más respaldo del país (el Lumilagro Luminox tiene 26.780). Varias reseñas reales de termos argentinos (comparados en la guía general de termos) mencionan al Stanley directo y no encuentran una diferencia de rendimiento proporcional al precio.` },
+      { question: `¿Dónde comprar un Stanley original en Argentina y no uno falso?`, answer: `Preferí siempre vendedores con reputación alta y calificaciones reales en Mercado Libre, idealmente la tienda oficial Stanley Argentina. Un precio muy por debajo del rango normal de mercado para el modelo es la señal más clara de un producto no original.` },
+    ],
+    internalLinks: [
+      { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Botella térmica: cuál comprar en Argentina", href: "/guias/bebidas-termicas/botella-termica" },
+      { label: "Bombilla de mate: cuál comprar en Argentina", href: "/guias/bebidas-termicas/bombilla-de-mate" },
+    ],
+    internalLinksTitle: "Más para tu mate",
   },
 
   // ─────────────────────────────────────────────────────────
@@ -21544,6 +21622,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Termo: cuál comprar en Argentina", href: "/guias/bebidas-termicas/termo" },
+      { label: "Termo Stanley: ¿vale la pena en Argentina?", href: "/guias/bebidas-termicas/termo-stanley" },
       { label: "Bombilla de mate: cuál comprar en Argentina", href: "/guias/bebidas-termicas/bombilla-de-mate" },
       { label: "Pava eléctrica: cuál comprar en Argentina", href: "/guias/pava-electrica" },
     ],
