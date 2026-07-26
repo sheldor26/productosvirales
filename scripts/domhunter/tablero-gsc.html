@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>productosvirales.com.ar — Search Console, 25 jun a 25 jul 2026</title>
+<style>
+  :root{ color-scheme: light dark; }
+  .viz-root{
+    color-scheme: light;
+    --surface-0:#f5f5f3; --surface-1:#fcfcfb; --surface-2:#efefec;
+    --border:#dcdcd6; --border-strong:#c3c2b7;
+    --text-primary:#0b0b0b; --text-secondary:#52514e; --text-muted:#7a7973;
+    --series-1:#2a78d6; --series-2:#eb6834; --series-3:#1baf7a;
+    --good:#008300; --warn:#eda100; --crit:#e34948;
+    --grid:#e6e6e1;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:where(:not([data-theme="light"])) .viz-root{
+      color-scheme: dark;
+      --surface-0:#111110; --surface-1:#1a1a19; --surface-2:#242423;
+      --border:#33332f; --border-strong:#4a4a45;
+      --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8e8d84;
+      --series-1:#3987e5; --series-2:#d95926; --series-3:#199e70;
+      --good:#008300; --warn:#c98500; --crit:#e66767;
+      --grid:#2b2b29;
+    }
+  }
+  :root[data-theme="dark"] .viz-root{
+    color-scheme: dark;
+    --surface-0:#111110; --surface-1:#1a1a19; --surface-2:#242423;
+    --border:#33332f; --border-strong:#4a4a45;
+    --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8e8d84;
+    --series-1:#3987e5; --series-2:#d95926; --series-3:#199e70;
+    --good:#008300; --warn:#c98500; --crit:#e66767;
+    --grid:#2b2b29;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--surface-0);font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+       color:var(--text-primary);-webkit-font-smoothing:antialiased}
+  .wrap{max-width:1080px;margin:0 auto;padding:32px 20px 72px}
+  header{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap;margin-bottom:28px}
+  h1{font-size:20px;font-weight:640;margin:0 0 4px;letter-spacing:-.01em}
+  .sub{color:var(--text-secondary);font-size:13px;margin:0}
+  button.theme{background:var(--surface-2);border:1px solid var(--border);color:var(--text-secondary);
+    border-radius:7px;padding:6px 12px;font-size:12px;cursor:pointer;font-family:inherit}
+  button.theme:hover{border-color:var(--border-strong);color:var(--text-primary)}
+
+  .hero{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:24px 26px;margin-bottom:22px}
+  .hero .big{font-size:44px;font-weight:680;letter-spacing:-.025em;line-height:1;color:var(--good)}
+  .hero .cap{font-size:13px;color:var(--text-secondary);margin-top:10px;max-width:70ch;line-height:1.55}
+
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:12px;margin-bottom:22px}
+  .tile{background:var(--surface-1);border:1px solid var(--border);border-radius:10px;padding:15px 16px}
+  .tile .k{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--text-muted);font-weight:600}
+  .tile .v{font-size:25px;font-weight:640;margin-top:7px;letter-spacing:-.02em}
+  .tile .d{font-size:11.5px;color:var(--text-secondary);margin-top:3px}
+
+  .card{background:var(--surface-1);border:1px solid var(--border);border-radius:12px;padding:20px 22px;margin-bottom:22px}
+  .card h2{font-size:14.5px;font-weight:630;margin:0 0 3px;letter-spacing:-.005em}
+  .card .note{font-size:12.5px;color:var(--text-secondary);margin:0 0 18px;line-height:1.55;max-width:78ch}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:12px;font-size:12px;color:var(--text-secondary)}
+  .legend i{width:10px;height:10px;border-radius:2px;display:inline-block;margin-right:6px;vertical-align:-1px}
+
+  svg{display:block;width:100%;overflow:visible}
+  .grid line{stroke:var(--grid);stroke-width:1}
+  .axis text{font-size:10.5px;fill:var(--text-muted)}
+  .axis line{stroke:var(--border);stroke-width:1}
+
+  table{width:100%;border-collapse:collapse;font-size:12.5px}
+  th{text-align:left;font-weight:600;color:var(--text-muted);font-size:10.5px;text-transform:uppercase;
+     letter-spacing:.05em;padding:0 10px 9px;border-bottom:1px solid var(--border)}
+  th.n,td.n{text-align:right;font-variant-numeric:tabular-nums}
+  td{padding:9px 10px;border-bottom:1px solid var(--grid);color:var(--text-secondary)}
+  tr:last-child td{border-bottom:none}
+  td.url{color:var(--text-primary);font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px}
+  .pill{display:inline-block;padding:2px 8px;border-radius:20px;font-size:10.5px;font-weight:600}
+  .p-crit{background:color-mix(in srgb,var(--crit) 15%,transparent);color:var(--crit)}
+  .p-warn{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+  .p-good{background:color-mix(in srgb,var(--good) 14%,transparent);color:var(--good)}
+
+  ol.acciones{margin:0;padding-left:0;list-style:none;counter-reset:a}
+  ol.acciones li{counter-increment:a;position:relative;padding:0 0 18px 40px;margin-bottom:18px;
+    border-bottom:1px solid var(--grid)}
+  ol.acciones li:last-child{border-bottom:none;padding-bottom:0;margin-bottom:0}
+  ol.acciones li::before{content:counter(a);position:absolute;left:0;top:-2px;width:26px;height:26px;
+    border-radius:7px;background:var(--surface-2);border:1px solid var(--border);
+    display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:650;color:var(--text-primary)}
+  ol.acciones h3{font-size:13.5px;margin:0 0 5px;font-weight:620;color:var(--text-primary)}
+  ol.acciones p{margin:0;font-size:12.5px;color:var(--text-secondary);line-height:1.6;max-width:80ch}
+  ol.acciones .gain{color:var(--good);font-weight:650}
+
+  .tooltip{position:fixed;pointer-events:none;background:var(--surface-1);border:1px solid var(--border-strong);
+    border-radius:8px;padding:9px 11px;font-size:11.5px;color:var(--text-primary);opacity:0;transition:opacity .1s;
+    box-shadow:0 6px 22px rgba(0,0,0,.16);z-index:50;white-space:nowrap;line-height:1.55}
+  .tooltip b{font-weight:640}
+  details{margin-top:16px}
+  summary{cursor:pointer;font-size:12px;color:var(--text-muted);padding:5px 0}
+  summary:hover{color:var(--text-primary)}
+  footer{font-size:11.5px;color:var(--text-muted);text-align:center;margin-top:36px;line-height:1.7}
+</style>
+</head>
+<body>
+<div class="viz-root">
+<div class="wrap">
+
+  <header>
+    <div>
+      <h1>productosvirales.com.ar</h1>
+      <p class="sub">Google Search Console &middot; 25 jun — 25 jul 2026 &middot; 793 páginas con datos</p>
+    </div>
+    <button class="theme" id="tg">Tema</button>
+  </header>
+
+  <div class="hero">
+    <div class="big" id="heroNum">+142%</div>
+    <p class="cap"><b>El sitio está creciendo solo.</b> Los clicks pasaron de 222 en la primera semana
+    a 538 en la cuarta, con las impresiones subiendo +130% y la posición promedio mejorando de 8,14 a 7,46.
+    Al ritmo de los últimos tres días (106 clicks/día) el mes que viene cierra cerca de 3.200 clicks.
+    Este es el contexto que cambia la decisión sobre comprar links.</p>
+  </div>
+
+  <div class="tiles">
+    <div class="tile"><div class="k">Clicks</div><div class="v">1.849</div><div class="d">en el mes medido</div></div>
+    <div class="tile"><div class="k">Impresiones</div><div class="v">126.061</div><div class="d">+130% en 4 semanas</div></div>
+    <div class="tile"><div class="k">CTR</div><div class="v">1,47%</div><div class="d">esperado 1,64% en pos. 7,6</div></div>
+    <div class="tile"><div class="k">Posición</div><div class="v">7,46</div><div class="d">mejoró 0,69 en el mes</div></div>
+    <div class="tile"><div class="k">Argentina</div><div class="v">90%</div><div class="d">de los clicks totales</div></div>
+  </div>
+
+  <div class="card">
+    <h2>Clicks diarios</h2>
+    <p class="note">La curva no es estacional ni un pico puntual: es crecimiento sostenido semana a semana.
+    Un sitio en esta fase multiplica solo, sin comprar nada.</p>
+    <svg id="cChart" viewBox="0 0 860 250" role="img" aria-label="Clicks diarios del 25 de junio al 25 de julio de 2026"></svg>
+    <details><summary>Ver datos en tabla</summary><div id="cTable"></div></details>
+  </div>
+
+  <div class="card">
+    <h2>Posición promedio diaria</h2>
+    <p class="note">Eje invertido: más arriba es mejor. Bajó de 8,4 a 7,0 en un mes sin intervención externa.</p>
+    <svg id="pChart" viewBox="0 0 860 200" role="img" aria-label="Posición promedio diaria, eje invertido"></svg>
+  </div>
+
+  <div class="card">
+    <h2>Dónde están los clicks que faltan</h2>
+    <p class="note">Clicks adicionales por mes si cada página llegara a posición 3 (CTR 6,7%).
+    Suman más de 2.500 clicks mensuales concentrados en 14 URLs — sobre una base actual de 1.849.
+    Las marcadas en rojo tienen además un CTR muy por debajo del esperado para la posición que ya ocupan:
+    ahí el problema no es rankear, es que te ven y no te eligen.</p>
+    <div class="legend">
+      <span><i style="background:var(--series-1)"></i>Oportunidad de ranking</span>
+      <span><i style="background:var(--crit)"></i>CTR bajo el esperado — arreglo prioritario</span>
+    </div>
+    <svg id="oChart" viewBox="0 0 860 470" role="img" aria-label="Oportunidad de clicks por página"></svg>
+  </div>
+
+  <div class="card">
+    <h2>Detalle de las 14 páginas</h2>
+    <div style="overflow-x:auto">
+    <table>
+      <thead><tr>
+        <th>Página</th><th class="n">Impr.</th><th class="n">Clicks</th>
+        <th class="n">CTR</th><th class="n">Esperado</th><th class="n">Pos.</th>
+        <th class="n">Potencial</th><th>Diagnóstico</th>
+      </tr></thead>
+      <tbody id="oTable"></tbody>
+    </table>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Qué haría, en este orden</h2>
+    <ol class="acciones">
+      <li>
+        <h3>Subir <code>mejores-perfumes-arabes-hombre</code> <span class="gain">(+488 clicks/mes)</span></h3>
+        <p>8.389 impresiones, casi tantas como su gemela de mujer, pero rankeando en <b>8,8</b> mientras
+        <code>perfumes-arabes-mujer</code> está en 7,9 y <code>perfumes-arabes-mas-vendidos</code> en 6,1.
+        Misma temática, mismo sitio, misma demanda — y esta queda una página atrás. El problema principal acá
+        es de posición, no de CTR: su 0,88% está un 29% por debajo del esperado, pero eso explica una parte chica.
+        Comparala contra sus hermanas —profundidad, estructura, enlaces internos que reciben— y nivelala hacia arriba.</p>
+      </li>
+      <li>
+        <h3><code>perfumes-arabes-por-color</code> está roto <span class="gain">(+219 clicks/mes)</span></h3>
+        <p>3.350 impresiones y <b>5 clicks</b>. Un CTR de 0,15% en posición 8,2 no es normal ni con AI Overviews de por medio:
+        el esperado es 1,36%, o sea diez veces más. Revisá si el title se está truncando, si el snippet que Google
+        arma es incoherente, o si la página responde algo distinto a lo que se busca.</p>
+      </li>
+      <li>
+        <h3>La ventana de <code>estufa-electrica-bajo-consumo</code> se está cerrando <span class="gain">(+266 clicks/mes)</span></h3>
+        <p>4.296 impresiones al 0,51% de CTR. Estás en pleno invierno argentino y es justo cuando esa página
+        tiene demanda — en septiembre el volumen se evapora hasta el año que viene. La query
+        <i>"que estufa electrica gasta menos"</i> te da 254 impresiones y 1 solo click en posición 8,3.
+        Si hay una tarea con fecha de vencimiento, es esta.</p>
+      </li>
+      <li>
+        <h3>Concentrar enlazado interno en los dos clusters que traccionan</h3>
+        <p>Perfumes árabes (30.477 impresiones) y freidoras de aire (23.776) son el 43% de todo. Tenés ~400 páginas
+        que casi no reciben tráfico: son un depósito de autoridad interna repartida en páginas que no la usan.
+        Apuntá enlaces desde ellas hacia esas dos familias. Cuesta cero y actúa sobre lo que ya está a punto de saltar.</p>
+      </li>
+      <li>
+        <h3>Recién acá, links externos</h3>
+        <p>Con el sitio creciendo 142% mensual, US$300-600 en links ahora compra un empujón que ya estás
+        consiguiendo gratis. Las cuatro acciones anteriores valen más de 1.200 clicks mensuales y no cuestan un peso.
+        Cuando la curva se aplane —y se va a aplanar— ahí los links pasan a ser la palanca que destraba, y vas a
+        tener datos para saber exactamente a qué páginas apuntarlos.</p>
+      </li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>Tres cosas menores que vi</h2>
+    <p class="note">
+    <b>Estados Unidos:</b> 7.359 impresiones y 10 clicks (0,14%). Es el 6% de tus impresiones generando nada;
+    infla tus promedios y te hace ver peor de lo que estás.<br><br>
+    <b>La query "productos":</b> 1.522 impresiones, 2 clicks, posición 6,5. Término genérico sin intención de compra.
+    Ruido, no oportunidad.<br><br>
+    <b>Anclas (URLs con <code>#</code>):</b> 12 fragmentos suman 17.794 impresiones con 0% de CTR.
+    Son los "saltar a la sección" que arma Google, y los clicks se acreditan a la URL madre — por eso los
+    saqué del ranking de arriba, no son accionables por separado. Pero cambian el tamaño real de tus páginas:
+    freidoras suma 8.190 impresiones extra (llega a ~18.600, es tu activo más grande) y
+    <code>perfumes-arabes-mujer</code> otras 7.530 (~15.750). Google le está armando índice de contenidos
+    a esas dos: señal de que las considera guías completas.
+    </p>
+  </div>
+
+  <footer>
+    Benchmarks de CTR por posición: datos públicos 2026 post-AI Overviews.<br>
+    Potencial calculado como impresiones actuales × 6,7% (CTR de posición 3) − clicks actuales.
+  </footer>
+</div>
+</div>
+
+<div class="tooltip" id="tip"></div>
+
+<script>
+const DATA = {"daily": [{"d": "06-25", "cl": 29, "imp": 1674, "pos": 8.4}, {"d": "06-26", "cl": 38, "imp": 2043, "pos": 7.6}, {"d": "06-27", "cl": 23, "imp": 1757, "pos": 8.5}, {"d": "06-28", "cl": 32, "imp": 2342, "pos": 8.0}, {"d": "06-29", "cl": 25, "imp": 2575, "pos": 7.9}, {"d": "06-30", "cl": 45, "imp": 2593, "pos": 7.9}, {"d": "07-01", "cl": 30, "imp": 2877, "pos": 8.7}, {"d": "07-02", "cl": 40, "imp": 2968, "pos": 7.9}, {"d": "07-03", "cl": 40, "imp": 3013, "pos": 7.9}, {"d": "07-04", "cl": 41, "imp": 3559, "pos": 8.0}, {"d": "07-05", "cl": 51, "imp": 4238, "pos": 7.8}, {"d": "07-06", "cl": 62, "imp": 4314, "pos": 7.9}, {"d": "07-07", "cl": 63, "imp": 3507, "pos": 7.6}, {"d": "07-08", "cl": 48, "imp": 3956, "pos": 7.8}, {"d": "07-09", "cl": 64, "imp": 3954, "pos": 7.4}, {"d": "07-10", "cl": 68, "imp": 4363, "pos": 7.3}, {"d": "07-11", "cl": 58, "imp": 3875, "pos": 7.5}, {"d": "07-12", "cl": 56, "imp": 4227, "pos": 7.4}, {"d": "07-13", "cl": 62, "imp": 4973, "pos": 7.6}, {"d": "07-14", "cl": 69, "imp": 4859, "pos": 7.4}, {"d": "07-15", "cl": 50, "imp": 3762, "pos": 8.2}, {"d": "07-16", "cl": 58, "imp": 4527, "pos": 7.5}, {"d": "07-17", "cl": 74, "imp": 5089, "pos": 7.3}, {"d": "07-18", "cl": 77, "imp": 5551, "pos": 7.7}, {"d": "07-19", "cl": 47, "imp": 3506, "pos": 7.4}, {"d": "07-20", "cl": 92, "imp": 5316, "pos": 7.5}, {"d": "07-21", "cl": 87, "imp": 6096, "pos": 7.3}, {"d": "07-22", "cl": 103, "imp": 6368, "pos": 7.5}, {"d": "07-23", "cl": 117, "imp": 6181, "pos": 7.0}, {"d": "07-24", "cl": 103, "imp": 6034, "pos": 7.0}, {"d": "07-25", "cl": 97, "imp": 5753, "pos": 7.0}], "opp": [{"url": "/guias/mejores-perfumes-arabes-hombre", "short": "mejores-perfumes-arabes-hombre", "imp": 8389, "cl": 74, "ctr": 0.88, "pos": 8.8, "gain": 488, "bench": 1.24, "ratio": 0.71}, {"url": "/guias/mejores-freidoras-de-aire-argentina", "short": "mejores-freidoras-de-aire-argentina", "imp": 10406, "cl": 254, "ctr": 2.44, "pos": 6.2, "gain": 443, "bench": 2.74, "ratio": 0.89}, {"url": "/guias/perfumes-arabes-mujer", "short": "perfumes-arabes-mujer", "imp": 8223, "cl": 142, "ctr": 1.73, "pos": 7.9, "gain": 409, "bench": 1.45, "ratio": 1.19}, {"url": "/guias/climatizacion/estufa-electrica-bajo-consumo", "short": "estufa-electrica-bajo-consumo", "imp": 4296, "cl": 22, "ctr": 0.51, "pos": 8.7, "gain": 266, "bench": 1.26, "ratio": 0.4}, {"url": "/guias/pava-electrica", "short": "pava-electrica", "imp": 4851, "cl": 94, "ctr": 1.94, "pos": 5.4, "gain": 231, "bench": 3.21, "ratio": 0.61}, {"url": "/guias/perfumes-arabes-por-color", "short": "perfumes-arabes-por-color", "imp": 3350, "cl": 5, "ctr": 0.15, "pos": 8.2, "gain": 219, "bench": 1.36, "ratio": 0.11}, {"url": "/guias/mejor-aspiradora-robot", "short": "mejor-aspiradora-robot", "imp": 3472, "cl": 30, "ctr": 0.86, "pos": 8.8, "gain": 203, "bench": 1.23, "ratio": 0.7}, {"url": "/guias/cafetera-express", "short": "cafetera-express", "imp": 4052, "cl": 71, "ctr": 1.75, "pos": 8.4, "gain": 200, "bench": 1.32, "ratio": 1.33}, {"url": "/guias/perfumes-arabes-dupes", "short": "perfumes-arabes-dupes", "imp": 4575, "cl": 110, "ctr": 2.4, "pos": 7.2, "gain": 197, "bench": 1.87, "ratio": 1.28}, {"url": "/guias/atma-freidoras-de-aire-review", "short": "atma-freidoras-de-aire-review", "imp": 2972, "cl": 34, "ctr": 1.14, "pos": 6.4, "gain": 165, "bench": 2.5, "ratio": 0.46}, {"url": "/guias/yara-lattafa-guia-completa", "short": "yara-lattafa-guia-completa", "imp": 2362, "cl": 20, "ctr": 0.85, "pos": 6.4, "gain": 138, "bench": 2.56, "ratio": 0.33}, {"url": "/guias/perfumes-arabes-mas-vendidos-argentina", "short": "perfumes-arabes-mas-vendidos-argentina", "imp": 3578, "cl": 105, "ctr": 2.93, "pos": 6.1, "gain": 135, "bench": 2.77, "ratio": 1.06}, {"url": "/guias/licuadora", "short": "licuadora", "imp": 2350, "cl": 28, "ctr": 1.19, "pos": 6.4, "gain": 129, "bench": 2.53, "ratio": 0.47}, {"url": "/", "short": "home", "imp": 2263, "cl": 26, "ctr": 1.15, "pos": 6.3, "gain": 126, "bench": 2.6, "ratio": 0.44}], "anchors": [{"u": "/guias/pava-electrica#antes-de-comprar", "imp": 645}, {"u": "/guias/mejores-freidoras-de-aire-argentina#los-20-modelos-disponibles", "imp": 2974}, {"u": "/guias/mejores-freidoras-de-aire-argentina#tabla-comparativa-de-todos-los-modelos", "imp": 2245}, {"u": "/guias/mejores-freidoras-de-aire-argentina#cual-es-la-mejor-freidora-de-aire-en-argentina", "imp": 2139}, {"u": "/guias/perfumes-arabes-mujer#las-12", "imp": 1627}, {"u": "/guias/perfumes-arabes-mujer#y-si-no-estas-segura-cual-perfume-comprar-los-sets-de-descubrimiento", "imp": 1599}, {"u": "/guias/perfumes-arabes-mujer#cual-es-el-mejor-perfume-arabe-para-mujer-en-2026", "imp": 1592}, {"u": "/guias/perfumes-arabes-mujer#por-que-elegir-arabe-en-vez-de-occidental", "imp": 1381}, {"u": "/guias/perfumes-arabes-mujer#comparativa-rapida-las-5-mas-recomendadas", "imp": 1331}, {"u": "/guias/mejores-freidoras-de-aire-argentina#resumen-rapido-cual-comprar-segun-tu-caso", "imp": 832}, {"u": "/guias/pava-electrica#ranking", "imp": 806}, {"u": "/guias/pava-electrica#tabla-comparativa", "imp": 623}]};
+const tip = document.getElementById('tip');
+const showTip = (e, html) => { tip.innerHTML = html; tip.style.opacity = 1;
+  const r = tip.getBoundingClientRect();
+  let x = e.clientX + 14, y = e.clientY - r.height - 10;
+  if (x + r.width > innerWidth - 8) x = e.clientX - r.width - 14;
+  if (y < 8) y = e.clientY + 16;
+  tip.style.left = x + 'px'; tip.style.top = y + 'px'; };
+const hideTip = () => tip.style.opacity = 0;
+const NS = 'http://www.w3.org/2000/svg';
+const el = (n, a = {}) => { const x = document.createElementNS(NS, n);
+  for (const k in a) x.setAttribute(k, a[k]); return x; };
+
+/* ---- Clicks diarios: área + línea + crosshair ---- */
+(function () {
+  const svg = document.getElementById('cChart');
+  const W = 860, H = 250, mL = 46, mR = 14, mT = 14, mB = 28;
+  const d = DATA.daily, n = d.length;
+  const max = Math.ceil(Math.max(...d.map(v => v.cl)) / 20) * 20;
+  const X = i => mL + i * (W - mL - mR) / (n - 1);
+  const Y = v => H - mB - (v / max) * (H - mT - mB);
+
+  const g = el('g', { class: 'grid' });
+  for (let t = 0; t <= max; t += max / 4) {
+    g.appendChild(el('line', { x1: mL, x2: W - mR, y1: Y(t), y2: Y(t) }));
+    const tx = el('text', { x: mL - 9, y: Y(t) + 4, 'text-anchor': 'end' });
+    tx.textContent = t; tx.setAttribute('class', 'axis'); g.appendChild(tx);
+  }
+  svg.appendChild(g);
+
+  const ax = el('g', { class: 'axis' });
+  d.forEach((v, i) => { if (i % 6 === 0 || i === n - 1) {
+    const t = el('text', { x: X(i), y: H - mB + 17, 'text-anchor': 'middle' });
+    t.textContent = v.d; ax.appendChild(t); } });
+  svg.appendChild(ax);
+
+  const gid = 'gr1';
+  const defs = el('defs'); const lg = el('linearGradient', { id: gid, x1: 0, y1: 0, x2: 0, y2: 1 });
+  const s1 = el('stop', { offset: '0%', 'stop-color': 'var(--series-1)', 'stop-opacity': .26 });
+  const s2 = el('stop', { offset: '100%', 'stop-color': 'var(--series-1)', 'stop-opacity': .02 });
+  lg.append(s1, s2); defs.appendChild(lg); svg.appendChild(defs);
+
+  const line = d.map((v, i) => `${i ? 'L' : 'M'}${X(i)},${Y(v.cl)}`).join(' ');
+  svg.appendChild(el('path', { d: `${line} L${X(n - 1)},${Y(0)} L${X(0)},${Y(0)} Z`, fill: `url(#${gid})` }));
+  svg.appendChild(el('path', { d: line, fill: 'none', stroke: 'var(--series-1)',
+    'stroke-width': 2, 'stroke-linejoin': 'round', 'stroke-linecap': 'round' }));
+
+  const cross = el('line', { stroke: 'var(--border-strong)', 'stroke-width': 1,
+    y1: mT, y2: H - mB, opacity: 0 });
+  const dot = el('circle', { r: 4.5, fill: 'var(--series-1)', stroke: 'var(--surface-1)',
+    'stroke-width': 2, opacity: 0 });
+  svg.append(cross, dot);
+
+  const hit = el('rect', { x: mL, y: mT, width: W - mL - mR, height: H - mT - mB, fill: 'transparent' });
+  svg.appendChild(hit);
+  hit.addEventListener('mousemove', e => {
+    const bb = svg.getBoundingClientRect();
+    const px = (e.clientX - bb.left) / bb.width * W;
+    let i = Math.round((px - mL) / ((W - mL - mR) / (n - 1)));
+    i = Math.max(0, Math.min(n - 1, i));
+    const v = d[i];
+    cross.setAttribute('x1', X(i)); cross.setAttribute('x2', X(i)); cross.setAttribute('opacity', 1);
+    dot.setAttribute('cx', X(i)); dot.setAttribute('cy', Y(v.cl)); dot.setAttribute('opacity', 1);
+    showTip(e, `<b>${v.d}</b><br>${v.cl} clicks<br>${v.imp.toLocaleString('es-AR')} impresiones<br>posición ${v.pos}`);
+  });
+  hit.addEventListener('mouseleave', () => { hideTip();
+    cross.setAttribute('opacity', 0); dot.setAttribute('opacity', 0); });
+
+  let h = '<table><thead><tr><th>Fecha</th><th class="n">Clicks</th><th class="n">Impresiones</th><th class="n">Posición</th></tr></thead><tbody>';
+  d.forEach(v => h += `<tr><td>${v.d}</td><td class="n">${v.cl}</td><td class="n">${v.imp.toLocaleString('es-AR')}</td><td class="n">${v.pos}</td></tr>`);
+  document.getElementById('cTable').innerHTML = h + '</tbody></table>';
+})();
+
+/* ---- Posición: eje invertido ---- */
+(function () {
+  const svg = document.getElementById('pChart');
+  const W = 860, H = 200, mL = 46, mR = 14, mT = 14, mB = 28;
+  const d = DATA.daily, n = d.length;
+  const lo = 6.5, hi = 9;
+  const X = i => mL + i * (W - mL - mR) / (n - 1);
+  const Y = v => mT + ((v - lo) / (hi - lo)) * (H - mT - mB);
+
+  const g = el('g', { class: 'grid' });
+  for (let t = lo; t <= hi; t += .5) {
+    g.appendChild(el('line', { x1: mL, x2: W - mR, y1: Y(t), y2: Y(t) }));
+    const tx = el('text', { x: mL - 9, y: Y(t) + 4, 'text-anchor': 'end', class: 'axis' });
+    tx.textContent = t.toFixed(1); g.appendChild(tx);
+  }
+  svg.appendChild(g);
+
+  const line = d.map((v, i) => `${i ? 'L' : 'M'}${X(i)},${Y(v.pos)}`).join(' ');
+  svg.appendChild(el('path', { d: line, fill: 'none', stroke: 'var(--series-3)',
+    'stroke-width': 2, 'stroke-linejoin': 'round', 'stroke-linecap': 'round' }));
+
+  const lbl = el('text', { x: X(n - 1), y: Y(d[n - 1].pos) - 12, 'text-anchor': 'end',
+    class: 'axis', 'font-weight': '650', fill: 'var(--text-primary)' });
+  lbl.textContent = 'pos. ' + d[n - 1].pos; svg.appendChild(lbl);
+
+  const dot = el('circle', { r: 4.5, fill: 'var(--series-3)', stroke: 'var(--surface-1)', 'stroke-width': 2, opacity: 0 });
+  svg.appendChild(dot);
+  const hit = el('rect', { x: mL, y: mT, width: W - mL - mR, height: H - mT - mB, fill: 'transparent' });
+  svg.appendChild(hit);
+  hit.addEventListener('mousemove', e => {
+    const bb = svg.getBoundingClientRect();
+    let i = Math.round(((e.clientX - bb.left) / bb.width * W - mL) / ((W - mL - mR) / (n - 1)));
+    i = Math.max(0, Math.min(n - 1, i)); const v = d[i];
+    dot.setAttribute('cx', X(i)); dot.setAttribute('cy', Y(v.pos)); dot.setAttribute('opacity', 1);
+    showTip(e, `<b>${v.d}</b><br>posición ${v.pos}`);
+  });
+  hit.addEventListener('mouseleave', () => { hideTip(); dot.setAttribute('opacity', 0); });
+})();
+
+/* ---- Oportunidad: barras horizontales ---- */
+(function () {
+  const svg = document.getElementById('oChart');
+  const W = 860, mL = 268, mR = 60, mT = 8, rowH = 30, gap = 2;
+  const d = DATA.opp, H = mT + d.length * rowH + 20;
+  svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+  const max = Math.max(...d.map(v => v.gain));
+  const bw = v => (v / max) * (W - mL - mR);
+
+  d.forEach((v, i) => {
+    const y = mT + i * rowH;
+    const bajo = v.ctr < v.bench * 0.65;
+    const col = bajo ? 'var(--crit)' : 'var(--series-1)';
+
+    const t = el('text', { x: mL - 12, y: y + rowH / 2 + 4, 'text-anchor': 'end', class: 'axis',
+      fill: 'var(--text-secondary)', 'font-size': '11' });
+    t.textContent = v.short.length > 34 ? v.short.slice(0, 33) + '…' : v.short;
+    svg.appendChild(t);
+
+    const r = el('rect', { x: mL, y: y + gap, width: Math.max(2, bw(v.gain)), height: rowH - gap * 2 - 4,
+      rx: 4, fill: col, style: 'cursor:pointer' });
+    svg.appendChild(r);
+
+    const n2 = el('text', { x: mL + bw(v.gain) + 10, y: y + rowH / 2 + 4, class: 'axis',
+      fill: 'var(--text-primary)', 'font-size': '11.5', 'font-weight': '640' });
+    n2.textContent = '+' + v.gain; svg.appendChild(n2);
+
+    const diag = bajo
+      ? `<span style="color:var(--crit)">CTR ${v.ctr}% vs ${v.bench}% esperado</span>`
+      : `CTR ${v.ctr}% (esperado ${v.bench}%)`;
+    r.addEventListener('mousemove', e => showTip(e,
+      `<b>${v.url}</b><br>${v.imp.toLocaleString('es-AR')} impresiones · ${v.cl} clicks<br>posición ${v.pos}<br>${diag}<br><b style="color:var(--good)">+${v.gain} clicks/mes en pos. 3</b>`));
+    r.addEventListener('mouseleave', hideTip);
+  });
+})();
+
+/* ---- Tabla ---- */
+(function () {
+  let h = '';
+  DATA.opp.forEach(v => {
+    const bajo = v.ctr < v.bench * 0.65;
+    const roto = v.ctr < v.bench * 0.25;
+    const pill = roto ? '<span class="pill p-crit">CTR roto</span>'
+      : bajo ? '<span class="pill p-warn">CTR bajo</span>'
+      : '<span class="pill p-good">solo ranking</span>';
+    h += `<tr><td class="url">${v.url.replace('/guias/', '')}</td>
+      <td class="n">${v.imp.toLocaleString('es-AR')}</td><td class="n">${v.cl}</td>
+      <td class="n"${bajo ? ' style="color:var(--crit);font-weight:640"' : ''}>${v.ctr}%</td>
+      <td class="n" style="color:var(--text-muted)">${v.bench}%</td>
+      <td class="n">${v.pos}</td>
+      <td class="n" style="color:var(--good);font-weight:640">+${v.gain}</td><td>${pill}</td></tr>`;
+  });
+  document.getElementById('oTable').innerHTML = h;
+})();
+
+document.getElementById('tg').addEventListener('click', () => {
+  const cur = document.documentElement.getAttribute('data-theme');
+  const dark = cur ? cur === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  document.documentElement.setAttribute('data-theme', dark ? 'light' : 'dark');
+});
+</script>
+</body>
+</html>
