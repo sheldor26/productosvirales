@@ -85,10 +85,10 @@ compite de verdad la keyword principal:
 | Grupo | Guías (publicadas) | Volumen | Hoy (real) | Realista | Techo |
 |---|---:|---:|---:|---:|---:|
 | Genérico / alta competencia | 67 | 1.326.250 /mes | 753 | 53.758 | 136.099 |
-| Cola / marca (creíble en DA1) | 87 | 329.610 /mes | 766 | **10.290** | **29.156** |
+| Cola / marca (creíble en DA1) | 88 | 332.510 /mes | 766 | **10.291** | **29.213** |
 
-**El número para planificar es el de "cola/marca": ≈10.290/mes realista,
-≈29.156/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony` y `microondas-samsung`).** El bloque genérico queda como techo aspiracional,
+**El número para planificar es el de "cola/marca": ≈10.291/mes realista,
+≈29.213/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony`, `microondas-samsung` y `camara-ezviz`).** El bloque genérico queda como techo aspiracional,
 condicionado a que en algún momento haya link building real — no es algo
 que vaya a moverse solo con más guías o mejor enlazado interno.
 
@@ -256,6 +256,7 @@ demanda real por ese solapamiento. Ver caveats.
 | parlante-stromberg | parlante stromberg | Cola/marca (viable) | 2.900 | Pos 6.9 | 6 | 136 | 282 |
 | estufa-electrica-bajo-consumo | estufa electrica bajo consumo | Genérico (alta comp.) | 2.900 | Pos 8.9 | 22 | 74 | 191 |
 | sillon-masajeador | sillon masajeador | Cola/marca (viable) | 2.900 | Pos 6.1 | 3 | 136 | 470 |
+| camara-ezviz | camara ezviz | Cola/marca (viable) | 2.900 | Sin datos aun | 0 | 1 | 57 |
 | mejores-robot-aspiradora-trapeadora | robot aspiradora trapeadora | Genérico (alta comp.) | 2.900 | Pos 11.8 | 0 | 43 | 136 |
 | cafetera-de-filtro | cafetera de filtro | Genérico (alta comp.) | 2.900 | Pos 5.9 | 32 | 191 | 470 |
 | cortadora-de-pelo | cortadora de pelo | Genérico (alta comp.) | 2.900 | Pos 7.7 | 6 | 98 | 282 |
@@ -329,17 +330,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida base 2026-07-26; +3 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`)
+## Totales acumulados (corrida base 2026-07-26; +4 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (154 publicadas + 6 STAGED) | 160 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.655.860 /mes |
+| Guías (155 publicadas + 6 STAGED) | 161 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.658.760 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.048 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.255 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.290 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.156 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.049 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.312 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.291 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.213 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -350,7 +351,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 13 | 155.800 /mes | 0 | 45 | 3.069 |
+| Sin datos aún (nueva o STAGED) | 14 | 158.700 /mes | 0 | 46 | 3.126 |
 
 ## Caveats (válidos para toda actualización futura)
 

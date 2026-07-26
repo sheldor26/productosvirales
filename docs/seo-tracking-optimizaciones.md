@@ -554,6 +554,16 @@ Origen: siguiente ítem del loop de link building del mismo día. "microondas sa
 
 **Nota de proceso:** se agregó reciprocidad de enlace desde el pilar `microondas` y las satélites `microondas-bgh` y `microondas-atma` hacia `microondas-samsung` antes de auditar (no después), evitando el hallazgo de reciprocidad incompleta que sí apareció en `auriculares-sony`.
 
+### Guía nueva 2026-07-26 (satélite de marca "camara-ezviz", silo seguridad) — publicada de inmediato
+
+Origen: siguiente ítem del loop de link building del mismo día. "camara ezviz" mide 2.900 vol/mes (Keyword Planner). Caso distinto a las dos satélites anteriores (Sony y Samsung, con un solo producto): Ezviz tiene **3 productos reales** en el catálogo (H1C, TY1, C8c), repartidos hasta ahora en dos guías distintas del sitio (el pilar `camara-de-seguridad` tenía H1C y TY1; la satélite `camara-de-seguridad-exterior` tenía la C8c) sin que existiera una guía dedicada a la marca. Esta satélite los consolida en un solo lugar, mismo patrón "gama de marca" que `auriculares-jbl`/`microondas-bgh`/`microondas-atma` (un quickPick por producto).
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| camara-ezviz | seguridad (satélite de `camara-de-seguridad` y `camara-de-seguridad-exterior`) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **GO unánime en primera ronda**, sin bloqueantes; Codex señaló una mejora opcional preexistente (ver abajo) |
+
+**Efecto colateral encontrado y corregido:** dos reviewCount desactualizados de Ezviz ya existían desde antes de esta sesión: H1C decía "más de 5.700 calificaciones" en 7 lugares (pilar `camara-de-seguridad` + ficha `MLA26988384` en `curated-products.ts`) cuando el real actual es 6.437; TY1 decía "1.898" en 5 lugares (pilar + ficha `MLA37794717`) cuando el real actual es 2.145. Se corrigieron los 12 lugares antes de escribir la guía nueva. Además, el trío encontró de paso una tercera staleness menor no relacionada con Ezviz: la guía `camara-de-seguridad-exterior` y la ficha de la Gadnic DM200W-Pro (`MLA66204799`) citaban "C8c (107)" en 3 lugares cuando el reviewCount real de la C8c es 112 — corregido también.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

@@ -50078,10 +50078,10 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
     priceLastChecked: "2026-07-24",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-06",
-    description: "Mini cámara Ezviz H1C para interior: Full HD, audio bidireccional, visión nocturna de 12 m y montaje con cinta o tornillos. La más barata de la guía, con más de 5.700 calificaciones. Sin verificar en fabricante (página LATAM inaccesible).",
+    description: "Mini cámara Ezviz H1C para interior: Full HD, audio bidireccional, visión nocturna de 12 m y montaje con cinta o tornillos. La más barata de la guía, con más de 6.400 calificaciones. Sin verificar en fabricante (página LATAM inaccesible).",
     seoTitle: "Ezviz H1C: la mini cámara barata, ¿cumple?",
-    metaDescription: "Mini cámara Ezviz H1C: Full HD, visión nocturna, más de 5.700 calificaciones y el precio más bajo de su categoría. Pros, contras y veredicto.",
-    verdict: "La Ezviz H1C sirve si querés empezar a vigilar el interior de tu casa gastando lo menos posible sin caer en marcas genéricas: es la más barata de la guía, de marca especialista, y con más de 5.700 calificaciones que la respaldan. No sirve si necesitás que gire o siga el movimiento (es fija) ni para exterior.",
+    metaDescription: "Mini cámara Ezviz H1C: Full HD, visión nocturna, más de 6.400 calificaciones y el precio más bajo de su categoría. Pros, contras y veredicto.",
+    verdict: "La Ezviz H1C sirve si querés empezar a vigilar el interior de tu casa gastando lo menos posible sin caer en marcas genéricas: es la más barata de la guía, de marca especialista, y con más de 6.400 calificaciones que la respaldan. No sirve si necesitás que gire o siga el movimiento (es fija) ni para exterior.",
     pros: [
       "El precio más bajo de la guía, con marca especialista en cámaras y 4.8 de promedio",
       "Chica y fácil de instalar: se pega o se atornilla, y las reseñas destacan la conexión simple",
@@ -50097,7 +50097,7 @@ Comprala si querés la mejor cámara de interior del catálogo, con marca recono
     ],
     articleBody: `## Qué es y para quién
 
-La Ezviz H1C es una mini cámara Wi-Fi de interior: Full HD, visión nocturna de 12 metros y audio en ambos sentidos, en un cuerpo chico que se pega o se atornilla donde lo necesites. Es la opción más barata de nuestra guía de cámaras de seguridad, con más de 5.700 calificaciones.
+La Ezviz H1C es una mini cámara Wi-Fi de interior: Full HD, visión nocturna de 12 metros y audio en ambos sentidos, en un cuerpo chico que se pega o se atornilla donde lo necesites. Es la opción más barata de nuestra guía de cámaras de seguridad, con más de 6.400 calificaciones.
 
 ## Lo bueno
 
@@ -50115,7 +50115,7 @@ Comprala si querés tu primera cámara de interior o sumar puntos de vigilancia 
       { question: "¿Sirve para exterior?", answer: "No, es de interior y no resiste agua." },
       { question: "¿Cómo se instala?", answer: "Se pega con el adhesivo incluido o se atornilla con la placa metálica. Las reseñas la describen como muy fácil de conectar al Wi-Fi." },
       { question: "¿Graba sin memoria?", answer: "No, para grabar necesita una micro-SD que se compra aparte. Sin memoria solo muestra en vivo desde la app." },
-      { question: "¿Por qué es tan barata siendo de marca?", answer: "Porque es el modelo de entrada de Ezviz: fija, de interior y sin motorización. Lo esencial (imagen Full HD, visión nocturna, audio) lo cumple bien según más de 5.700 calificaciones." },
+      { question: "¿Por qué es tan barata siendo de marca?", answer: "Porque es el modelo de entrada de Ezviz: fija, de interior y sin motorización. Lo esencial (imagen Full HD, visión nocturna, audio) lo cumple bien según más de 6.400 calificaciones." },
     ],
   },
   {
@@ -50242,10 +50242,10 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
     priceLastChecked: "2026-07-24",
     priceStatus: "fresh",
     reviewsSampledAt: "2026-07-06",
-    description: "Cámara Ezviz TY1: motorizada de interior con detección de figura humana y seguimiento, Full HD, 4.9 de promedio. Sin suscripción obligatoria para las funciones básicas. Base de calificaciones más chica que el resto de la guía (1.898).",
+    description: "Cámara Ezviz TY1: motorizada de interior con detección de figura humana y seguimiento, Full HD, 4.9 de promedio. Sin suscripción obligatoria para las funciones básicas. Base de calificaciones más chica que el resto de la guía (2.145).",
     seoTitle: "Ezviz TY1: motorizada de interior, ¿conviene?",
     metaDescription: "Cámara Ezviz TY1 motorizada: detección humana, seguimiento y 4.9 estrellas. Precio real en Argentina, pros, contras y para quién conviene.",
-    verdict: "La Ezviz TY1 sirve si querés una motorizada de interior con detección de figura humana y seguimiento, de marca especialista y sin pagar suscripción para lo esencial: tiene 4.9, la mejor calificación de la guía junto a la Tapo. No sirve si te pesa que la base de opiniones sea la más chica del grupo (1.898) o si buscás resolución 2K: es Full HD.",
+    verdict: "La Ezviz TY1 sirve si querés una motorizada de interior con detección de figura humana y seguimiento, de marca especialista y sin pagar suscripción para lo esencial: tiene 4.9, la mejor calificación de la guía junto a la Tapo. No sirve si te pesa que la base de opiniones sea la más chica del grupo (2.145) o si buscás resolución 2K: es Full HD.",
     pros: [
       "4.9 de promedio, con 91% de calificaciones de 5 estrellas",
       "Detección de figura humana con seguimiento motorizado, y detección de ruidos anormales",
@@ -50254,7 +50254,7 @@ Compralo si querés cubrir toda la casa de una vez, sin mensualidad y con margen
       "Zoom digital 8x",
     ],
     cons: [
-      "La base de calificaciones más chica de la guía (1.898 frente a las más de 5.000 del resto)",
+      "La base de calificaciones más chica de la guía (2.145 frente a las más de 5.000 del resto)",
       "Resolución Full HD, contra el 2K de la Tapo C210 a precio parecido",
       "Solo interior, y necesita un enchufe cerca",
       "Specs sin verificar en la página del fabricante (inaccesible al momento del research)",
@@ -50269,7 +50269,7 @@ La detección de figura humana reduce las falsas alarmas típicas de los sensore
 
 ## La contra real
 
-Su base de opiniones es la más chica de la guía: 1.898 calificaciones, contra las más de 5.000 de las demás. Sigue siendo una muestra grande, pero es justo decirlo. La resolución es Full HD, un escalón abajo del 2K de la Tapo C210 que sale parecido. Es solo de interior, necesita enchufe cerca, y la página del fabricante para la región no estuvo accesible durante el research, así que las specs se sostienen con la ficha de ML y las reseñas.
+Su base de opiniones es la más chica de la guía: 2.145 calificaciones, contra las más de 5.000 de las demás. Sigue siendo una muestra grande, pero es justo decirlo. La resolución es Full HD, un escalón abajo del 2K de la Tapo C210 que sale parecido. Es solo de interior, necesita enchufe cerca, y la página del fabricante para la región no estuvo accesible durante el research, así que las specs se sostienen con la ficha de ML y las reseñas.
 
 ## Para quién sí y para quién no
 
@@ -50278,7 +50278,7 @@ Comprala si querés detección de personas de verdad (no alertas por cada cortin
       { question: "¿La Ezviz TY1 necesita suscripción?", answer: "Para lo esencial, no: una reseña destaca que la app tiene las funciones justas para un usuario que no requiere suscripción. Graba local en micro-SD (se compra aparte)." },
       { question: "¿Qué diferencia hay entre detección de movimiento y de figura humana?", answer: "La detección de movimiento se dispara con cualquier cambio en la imagen (mascotas, cortinas, luces). La TY1 detecta específicamente figuras humanas y las sigue con el motor, lo que reduce las falsas alarmas." },
       { question: "¿Sirve para exterior?", answer: "No, es de interior y se alimenta de corriente eléctrica, sin resistencia al agua declarada." },
-      { question: "¿Por qué tiene menos calificaciones que las otras?", answer: "Es un modelo con menos rotación en el catálogo argentino: 1.898 calificaciones, contra más de 5.000 del resto de la guía. La muestra igual es amplia y el promedio (4.9) es el más alto junto a la Tapo C210." },
+      { question: "¿Por qué tiene menos calificaciones que las otras?", answer: "Es un modelo con menos rotación en el catálogo argentino: 2.145 calificaciones, contra más de 5.000 del resto de la guía. La muestra igual es amplia y el promedio (4.9) es el más alto junto a la Tapo C210." },
       { question: "¿Detecta sonidos?", answer: "Sí, además del movimiento detecta ruidos anormales y avisa al celular, según la ficha y las reseñas." },
     ],
   },
@@ -50501,7 +50501,7 @@ Comprala si priorizás una marca internacional con detección inteligente de per
     description: "Cámara Gadnic DM200W-Pro: la más avanzada técnicamente de esta guía, con 3MP, motor PTZ amplio y compatibilidad ONVIF/RTSP para integrarse a sistemas de terceros. Es un modelo recién llegado al catálogo, con apenas 11 calificaciones: la spec no reemplaza al historial.",
     seoTitle: "Gadnic DM200W-Pro: la cámara exterior más avanzada, ¿conviene?",
     metaDescription: "Cámara Gadnic DM200W-Pro domo 3MP con ONVIF/RTSP y seguimiento humano. La más avanzada técnicamente, pero con poco historial. Precio y contras reales.",
-    verdict: "La Gadnic DM200W-Pro sirve si sabés lo que es ONVIF/RTSP y querés integrarla a un sistema de cámaras de terceros, o simplemente priorizás la mejor resolución (3MP) y el motor más amplio de esta guía. No sirve si preferís apoyarte en el historial de otros compradores antes de decidir: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (107).",
+    verdict: "La Gadnic DM200W-Pro sirve si sabés lo que es ONVIF/RTSP y querés integrarla a un sistema de cámaras de terceros, o simplemente priorizás la mejor resolución (3MP) y el motor más amplio de esta guía. No sirve si preferís apoyarte en el historial de otros compradores antes de decidir: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (112).",
     pros: [
       "La mejor resolución de esta guía: 3MP (2304x1296), contra el Full HD/2MP de las otras dos",
       "El motor PTZ más amplio: 355° horizontal y 90° vertical",
@@ -50534,7 +50534,7 @@ Acá hay que ser honestos: es un modelo recién llegado al catálogo argentino, 
 Comprala si sos un usuario que entiende de sistemas de videovigilancia y quiere integrarla a un NVR propio, o si simplemente priorizás la mejor resolución y el motor más amplio por sobre el historial de compradores. No la compres si preferís apoyarte en el respaldo de miles de opiniones antes de decidir: para eso, la SX37 o la Ezviz C8c de esta misma guía tienen mucho más recorrido.`,
     faq: [
       { question: "¿Qué es ONVIF y RTSP y para qué sirve en esta cámara?", answer: "Son protocolos estándar que permiten conectar la cámara a sistemas de videovigilancia de terceros (NVR, software de seguridad), no solo a la app del fabricante. Es una ventaja para usuarios avanzados; una reseña real advierte que en la práctica algunas opciones de integración vienen con letra chica o requieren pago." },
-      { question: "¿Por qué tiene tan pocas calificaciones?", answer: "Es un modelo recién llegado al catálogo argentino. Con apenas 11 opiniones, tiene mucho menos historial que la Gadnic SX37 (8.606) o la Ezviz C8c (107) de esta misma guía." },
+      { question: "¿Por qué tiene tan pocas calificaciones?", answer: "Es un modelo recién llegado al catálogo argentino. Con apenas 11 opiniones, tiene mucho menos historial que la Gadnic SX37 (8.606) o la Ezviz C8c (112) de esta misma guía." },
       { question: "¿Qué resolución tiene comparada con las otras cámaras de esta guía?", answer: "3MP (2304x1296), la mejor de las tres. Las otras dos son Full HD/2MP." },
       { question: "¿Es motorizada?", answer: "Sí, con el motor PTZ más amplio de esta guía: 355° horizontal y 90° vertical." },
       { question: "¿Sirve para exterior?", answer: "Sí, tiene certificación IP66 y funciona en un rango de -20°C a 55°C según el fabricante." },

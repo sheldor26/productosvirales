@@ -3480,8 +3480,8 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"Por poca diferencia los 2K se ven. Dato de color: las tarjetas micro SD cuestan casi la mitad de la cámara."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `4. Ezviz H1C — la económica de interior` },
-      { type: "product-card", productMlaId: "MLA26988384", label: "La más económica", labelColor: "slate", ranking: 4, description: `Mini fija de interior: Full HD, visión nocturna de 12 m y audio bidireccional. 4.8 estrellas en más de 5.700 calificaciones, al precio más bajo de la guía.` },
-      { type: "p", content: `La puerta de entrada a la categoría: a alrededor de $39.000, la mini de Ezviz hace lo esencial (Full HD, visión nocturna, hablar y escuchar desde el celular) con marca especialista y más de 5.700 calificaciones. Se pega o se atornilla, y comprime en H.265, así que la memoria rinde más horas que en otras cámaras.` },
+      { type: "product-card", productMlaId: "MLA26988384", label: "La más económica", labelColor: "slate", ranking: 4, description: `Mini fija de interior: Full HD, visión nocturna de 12 m y audio bidireccional. 4.8 estrellas en más de 6.400 calificaciones, al precio más bajo de la guía.` },
+      { type: "p", content: `La puerta de entrada a la categoría: a alrededor de $39.000, la mini de Ezviz hace lo esencial (Full HD, visión nocturna, hablar y escuchar desde el celular) con marca especialista y más de 6.400 calificaciones. Se pega o se atornilla, y comprime en H.265, así que la memoria rinde más horas que en otras cámaras.` },
       { type: "p", content: `Es **fija**: apunta a donde la pusiste, sin giro ni seguimiento. Si querés que siga el movimiento, la Gadnic o la TY1 de abajo; si es para afuera, no sirve.` },
 
       { type: "h3", title: `5. Kit 3 Geotek GT-N3 — para toda la casa` },
@@ -3493,7 +3493,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `6. Ezviz TY1 — detección de personas de verdad` },
       { type: "product-card", productMlaId: "MLA37794717", label: "Detección humana", labelColor: "green", ranking: 6, description: `Motorizada de interior que detecta figuras humanas (no cualquier movimiento) y las sigue. 4.9 estrellas, aunque con la base de opiniones más chica del grupo.` },
       { type: "p", content: `La TY1 ataca el problema más molesto de estas cámaras: las falsas alarmas. En vez de dispararse con cualquier movimiento, detecta **figuras humanas** y las sigue con el motor, y suma detección de ruidos anormales, a alrededor de $42.000. Una reseña destaca que la app tiene las funciones justas sin exigir suscripción.` },
-      { type: "p", content: `Lo honesto: su base de opiniones es la más chica de la guía (1.898, contra más de 5.000 del resto) y es Full HD, un escalón abajo del 2K de la Tapo a precio parecido. La elegís por la detección humana; si preferís historial y resolución, la Tapo.` },
+      { type: "p", content: `Lo honesto: su base de opiniones es la más chica de la guía (2.145, contra más de 5.000 del resto) y es Full HD, un escalón abajo del 2K de la Tapo a precio parecido. La elegís por la detección humana; si preferís historial y resolución, la Tapo.` },
 
       { type: "h2", title: `Tabla comparativa: por uso y precio`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Interior / exterior`, `Movimiento`, `Ideal para`], rows: [
@@ -3541,6 +3541,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
+      { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
       { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
       { label: "Termotanque eléctrico: cuál comprar y cuál conviene", href: "/guias/agua-caliente/termotanque-electrico" },
@@ -3606,7 +3607,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `3. Gadnic DM200W-Pro — mejor resolución` },
       { type: "product-card", productMlaId: "MLA66204799", label: "Mejor resolución", labelColor: "purple", ranking: 3, description: `Domo motorizada, 3MP, el motor más amplio (355°/90°) y compatible con ONVIF/RTSP. Recién llegada al catálogo: apenas 11 calificaciones.` },
       { type: "p", content: `En papel, la Gadnic DM200W-Pro es la más avanzada de esta guía: 3MP de resolución (contra el Full HD del resto), el motor más amplio y compatibilidad con ONVIF y RTSP, protocolos que permiten integrarla a un sistema de cámaras de terceros en vez de depender solo de la app del fabricante, a alrededor de {{precio:MLA66204799:k}}.` },
-      { type: "p", content: `Lo honesto, y es importante: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (107). Y una reseña de 3 estrellas le pone un matiz a la ventaja técnica: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". La spec es real, pero el historial todavía no acompaña.` },
+      { type: "p", content: `Lo honesto, y es importante: tiene apenas 11 calificaciones, muy por debajo de la SX37 (8.606) o la C8c (112). Y una reseña de 3 estrellas le pone un matiz a la ventaja técnica: "muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo". La spec es real, pero el historial todavía no acompaña.` },
       { type: "pull-quote", content: `Muchas opciones requieren pago, protocolo muy cerrado, solo sirve si vas a poner todas las cámaras de la misma marca y modelo.`, attribution: `— Comprador verificado en MercadoLibre, 3 de 5 estrellas, 2026` },
 
       { type: "h2", title: `Tabla comparativa: cámaras de seguridad exterior`, id: "tabla-comparativa" },
@@ -3644,9 +3645,101 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
       { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
+    ],
+    internalLinksTitle: "Más guías de seguridad",
+  },
+
+  // SATÉLITE camara-ezviz (silo seguridad)
+  {
+    slug: "camara-ezviz",
+    category: "seguridad",
+    silo: "seguridad",
+    title: `Cámaras Ezviz en Argentina: cuál comprar y cuál conviene [2026]`,
+    seoTitle: `Cámaras Ezviz 2026: Cuál Comprar en Argentina`,
+    metaDescription: `Ezviz tiene 3 cámaras reales en MercadoLibre Argentina: mini económica, motorizada de interior y domo de exterior. Comparamos precio y cuál conviene.`,
+    ogTitle: `Cámaras Ezviz en Argentina: cuál comprar y cuál conviene`,
+    ogDescription: `La H1C económica, la TY1 con detección humana y la C8c de exterior con IA: la gama Ezviz real de MercadoLibre Argentina, comparada con precios reales.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp`,
+    h1: `Cámaras Ezviz en Argentina: cuál comprar y cuál conviene`,
+    directAnswer: `Ezviz tiene 3 cámaras con volumen de ventas real en MercadoLibre Argentina, cada una para un uso distinto: la **[H1C](/producto/MLA26988384)** (alrededor de {{precio:MLA26988384:k}}), la más barata, fija y de interior; la **[TY1](/producto/MLA37794717)** (alrededor de {{precio:MLA37794717:k}}), motorizada de interior con detección de figura humana; y la **[C8c](/producto/MLA66806823)** (alrededor de {{precio:MLA66806823:k}}), la única de exterior, motorizada e IP66. Elegís según dónde va y si necesitás que gire.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Ezviz no tiene una sola cámara en Argentina: tiene tres, cada una para un uso distinto, repartidas hoy en dos guías del sitio. Acá las juntamos para que compares la gama completa de la marca de una sola vez, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA26988384", label: "La más económica", labelColor: "slate", tagline: "H1C: mini fija de interior, la entrada a la marca" },
+      { productMlaId: "MLA37794717", label: "Detección humana", labelColor: "green", tagline: "TY1: motorizada de interior, menos falsas alarmas" },
+      { productMlaId: "MLA66806823", label: "Para exterior", labelColor: "blue", tagline: "C8c: domo motorizada, IP66 e IA" },
+    ],
+    intro: [
+      `Si buscás "cámara Ezviz" en Argentina, la marca no tiene un único modelo: tiene tres con volumen de ventas real en MercadoLibre, y cada uno resuelve algo distinto. La H1C es la puerta de entrada económica para interior. La TY1 suma motor y detección de figura humana, también para adentro. Y la C8c es la única pensada para exterior, con certificación IP66.`,
+      `En esta guía juntamos las tres para que compares la gama Ezviz de una sola vez. Hoy están repartidas en dos guías distintas del sitio (la [general de cámaras de seguridad](/guias/seguridad/camara-de-seguridad) y la de [cámaras para exterior](/guias/seguridad/camara-de-seguridad-exterior)); acá las ves juntas.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp", alt: `Cámara de seguridad Ezviz C8c, domo motorizada para exterior, parte de la gama Ezviz en Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el punto de partida es real, no una selección nuestra: son las tres cámaras Ezviz con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Las ordenamos por lo que define la elección dentro de la marca: interior o exterior, fija o motorizada, y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `La gama de cámaras Ezviz en Argentina`, id: "gama" },
+      { type: "p", content: `Es simple: la **H1C** es la mini de interior, fija y la más barata. La **TY1** también es de interior, pero suma motor y **detección de figura humana** (no cualquier movimiento), pensada para reducir falsas alarmas. Y la **C8c** es la única de **exterior**: domo motorizada, certificación IP66 y detección por inteligencia artificial. Elegís primero por dónde va la cámara (adentro o afuera) y después por si necesitás que gire.` },
+
+      { type: "h2", title: `Las cámaras Ezviz en Argentina`, id: "ranking" },
+
+      { type: "h3", title: `1. Ezviz H1C — la más económica` },
+      { type: "product-card", productMlaId: "MLA26988384", label: "La más económica", labelColor: "slate", ranking: 1, description: `Mini fija de interior: Full HD, visión nocturna de 12 m y audio bidireccional. 4.8 estrellas en más de 6.400 calificaciones, el precio más bajo de la gama.` },
+      { type: "p", content: `La puerta de entrada a la marca: a alrededor de {{precio:MLA26988384:k}}, la H1C hace lo esencial (Full HD, visión nocturna, hablar y escuchar desde el celular) con marca especialista y más de 6.400 calificaciones. Se pega o se atornilla, y comprime en H.265, así que la memoria rinde más horas.` },
+      { type: "p", content: `Es **fija**: apunta a donde la pusiste, sin motor ni seguimiento, y es solo de interior. Si necesitás que gire, seguí leyendo.` },
+
+      { type: "h3", title: `2. Ezviz TY1 — detección humana` },
+      { type: "product-card", productMlaId: "MLA37794717", label: "Detección humana", labelColor: "green", ranking: 2, description: `Motorizada de interior que detecta figuras humanas (no cualquier movimiento) y las sigue. 4.9 estrellas en más de 2.100 calificaciones.` },
+      { type: "p", content: `La TY1 ataca el problema más molesto de las cámaras Wi-Fi: las falsas alarmas. En vez de dispararse con cualquier movimiento, detecta **figuras humanas** y las sigue con el motor, y suma detección de ruidos anormales, a alrededor de {{precio:MLA37794717:k}}. Sin suscripción obligatoria para las funciones básicas.` },
+      { type: "p", content: `Lo honesto: su base de opiniones (más de 2.100) es más chica que la de la H1C, y es Full HD, un escalón abajo de otras cámaras 2K del catálogo a precio parecido. Es también de interior, como la H1C.` },
+
+      { type: "h3", title: `3. Ezviz C8c — para exterior` },
+      { type: "product-card", productMlaId: "MLA66806823", label: "Para exterior", labelColor: "blue", ranking: 3, description: `Domo motorizada, IP66, detección de personas por inteligencia artificial. 4.8 estrellas, vendida por tienda oficial con más de 100 mil ventas.` },
+      { type: "p", content: `La única Ezviz de esta gama pensada para **exterior**: motor PTZ (gira 350° en horizontal y 80° en vertical), certificación **IP66** y detección de personas por inteligencia artificial, que reduce las falsas alarmas por mascotas o ramas moviéndose, a alrededor de {{precio:MLA66806823:k}}. Es la que más memoria admite de la gama (hasta 512 GB).` },
+      { type: "p", content: `Lo honesto: su base de opiniones (112) es la más chica de las tres, por ser la más nueva en el catálogo. Es también la más cara de la gama, precio que se justifica por ser la única apta para afuera.` },
+
+      { type: "h2", title: `Tabla comparativa: la gama Ezviz`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Interior / exterior`, `Movimiento`, `Ideal para`], rows: [
+        [`[Ezviz H1C](https://meli.la/1fGvF6y)`, `{{precio:MLA26988384}}`, `Interior`, `Fija`, `Empezar gastando poco`],
+        [`[Ezviz TY1](https://meli.la/11ACYPJ)`, `{{precio:MLA37794717}}`, `Interior`, `Motorizada, detección humana`, `Menos falsas alarmas`],
+        [`[Ezviz C8c](https://meli.la/2huJpqG)`, `{{precio:MLA66806823}}`, `Exterior (IP66)`, `Motorizada, IA`, `La única apta para afuera`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu Ezviz`, id: "como-elegir" },
+      { type: "h3", title: `1. Interior o exterior` },
+      { type: "p", content: `Es la decisión que no admite error: solo la **C8c** tiene certificación IP66 para exterior. La H1C y la TY1 son de interior; a la intemperie se arruinan.` },
+      { type: "h3", title: `2. ¿Necesitás que gire?` },
+      { type: "p", content: `La H1C es fija: apunta a un solo punto y cuesta menos. La TY1 y la C8c son motorizadas y cubren un ambiente entero, con detección de figura humana para reducir falsas alarmas.` },
+
+      { type: "h2", title: `Cuánto cuesta una cámara Ezviz en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA26988384:k}}:** la [H1C](https://meli.la/1fGvF6y), fija de interior, la más barata de la gama.`,
+        `**Alrededor de {{precio:MLA37794717:k}}:** la [TY1](https://meli.la/11ACYPJ), motorizada de interior con detección humana.`,
+        `**Alrededor de {{precio:MLA66806823:k}}:** la [C8c](https://meli.la/2huJpqG), la única de exterior, la más cara de la gama.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál Ezviz comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para **empezar gastando poco** en interior, la **[H1C](/producto/MLA26988384)**. Si querés que la cámara **gire y detecte personas** de verdad (no cualquier movimiento) adentro de tu casa, la **[TY1](/producto/MLA37794717)**. Y si necesitás cubrir el **exterior**, la **[C8c](/producto/MLA66806823)** es la única apta de la marca en este catálogo, con IP66 e inteligencia artificial. Ninguna de las tres viene con memoria: la micro-SD se compra aparte.` },
+    ],
+    faq: [
+      { question: `¿Cuántas cámaras Ezviz hay en Argentina?`, answer: `Con volumen de ventas real en MercadoLibre Argentina, tres: la [H1C](https://meli.la/1fGvF6y) (fija, interior, la más barata), la [TY1](https://meli.la/11ACYPJ) (motorizada, interior, detección humana) y la [C8c](https://meli.la/2huJpqG) (motorizada, exterior, IP66).` },
+      { question: `¿Cuál es la mejor cámara Ezviz para exterior?`, answer: `La [C8c](https://meli.la/2huJpqG) es la única de las tres con certificación IP66 para exterior. Suma motor PTZ y detección de personas por inteligencia artificial. La H1C y la TY1 son solo de interior.` },
+      { question: `¿Cuál es la Ezviz más barata?`, answer: `La [H1C](https://meli.la/1fGvF6y), a alrededor de {{precio:MLA26988384:k}}. Es fija (no gira) y de interior, pero cumple lo esencial: Full HD, visión nocturna y audio bidireccional.` },
+      { question: `¿Qué diferencia hay entre la H1C y la TY1?`, answer: `Las dos son de interior, pero la H1C es fija y más barata; la TY1 es motorizada, gira y detecta figuras humanas (no cualquier movimiento), lo que reduce falsas alarmas. La TY1 cuesta un poco más por esas funciones.` },
+      { question: `¿Las cámaras Ezviz necesitan suscripción mensual?`, answer: `No para las funciones básicas: las tres graban en memoria micro-SD local y se ven desde la app gratis. Ninguna trae la memoria incluida, así que hay que comprarla aparte.` },
+      { question: `¿Por qué la C8c tiene menos calificaciones que las otras dos?`, answer: `Porque es la más nueva en el catálogo argentino. Sigue siendo de una tienda oficial con más de 100 mil ventas totales y 4.8 estrellas; el historial de calificaciones puntual todavía es menor que el de la H1C o la TY1, que llevan más tiempo en venta.` },
+    ],
+    internalLinks: [
+      { label: "Cámaras de seguridad: la guía completa", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
+      { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
     ],
     internalLinksTitle: "Más guías de seguridad",
   },
