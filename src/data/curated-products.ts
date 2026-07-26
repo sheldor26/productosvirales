@@ -10806,17 +10806,17 @@ El más vendido por algo: cumplen lo justo, cuestan poco y la marca responde. Bl
     priceUpdated: "2026-07-24",
     priceLastChecked: "2026-07-24",
     priceStatus: "fresh",
-    description: "Auriculares Sony WH-CH520: vincha inalámbrica con hasta 50 horas de batería, la más vendida del segmento (más de 56.000 calificaciones). Comodidad y autonomía por buen precio.",
+    description: "Auriculares Sony WH-CH520: vincha inalámbrica con hasta 50 horas de batería, la más vendida del segmento (más de 57.000 calificaciones). Comodidad y autonomía por buen precio.",
     seoTitle: "Sony WH-CH520: la vincha barata de 50 horas, ¿conviene?",
     metaDescription: "Sony WH-CH520: vincha Bluetooth con 50 horas de batería y app con ecualizador. Buena para uso diario sin gastar de más. No tiene cancelación de ruido ni cable.",
-    verdict: "Para quien quiere una vincha Sony barata para el día a día, escuchar música, podcasts y atender llamadas, la WH-CH520 cumple: 50 horas de batería reales, 147 gramos, app con ecualizador y 4.9 estrellas en más de 56.000 opiniones. Si buscás cancelación activa de ruido para el colectivo o la oficina, o querés conectarla por cable, no es para vos: no tiene ninguna de las dos cosas.",
+    verdict: "Para quien quiere una vincha Sony barata para el día a día, escuchar música, podcasts y atender llamadas, la WH-CH520 cumple: 50 horas de batería reales, 147 gramos, app con ecualizador y 4.9 estrellas en más de 57.000 opiniones. Si buscás cancelación activa de ruido para el colectivo o la oficina, o querés conectarla por cable, no es para vos: no tiene ninguna de las dos cosas.",
     pros: [
       "50 horas de batería con una carga, de lo mejor del segmento; con 3 minutos de carga rinde 90 minutos",
       "Liviana: 147 gramos, se banca usarla varias horas seguidas",
       "App Sony Headphones Connect con ecualizador y presets para ajustar graves y agudos",
       "Multipoint: se conecta a dos equipos a la vez (celu y compu) y cambia entre ellos",
       "Bluetooth 5.2 con códecs SBC y AAC, conexión estable",
-      "Respaldo de marca con service local y 4.9 estrellas en más de 56.000 opiniones",
+      "Respaldo de marca con service local y 4.9 estrellas en más de 57.000 opiniones",
     ],
     cons: [
       "No tiene cancelación activa de ruido: solo aísla por las almohadillas, poco en ambientes ruidosos",
@@ -10862,7 +10862,7 @@ No, si necesitás cancelación de ruido para aislarte en transporte o oficina, s
 
 ## Veredicto
 
-La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería brutal y app de Sony. El respaldo de 4.9 estrellas en más de 56.000 opiniones lo confirma. Entrás sabiendo que resignás cancelación de ruido y cable, y a ese precio el trato es justo.`,
+La WH-CH520 hace bien lo que promete: vincha barata, liviana, con batería brutal y app de Sony. El respaldo de 4.9 estrellas en más de 57.000 opiniones lo confirma. Entrás sabiendo que resignás cancelación de ruido y cable, y a ese precio el trato es justo.`,
     faq: [
       {
         question: "¿La Sony WH-CH520 tiene cancelación de ruido?",

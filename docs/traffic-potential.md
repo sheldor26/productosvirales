@@ -85,10 +85,10 @@ compite de verdad la keyword principal:
 | Grupo | Guías (publicadas) | Volumen | Hoy (real) | Realista | Techo |
 |---|---:|---:|---:|---:|---:|
 | Genérico / alta competencia | 67 | 1.326.250 /mes | 753 | 53.758 | 136.099 |
-| Cola / marca (creíble en DA1) | 85 | 320.610 /mes | 766 | **10.287** | **28.979** |
+| Cola / marca (creíble en DA1) | 86 | 326.010 /mes | 766 | **10.289** | **29.085** |
 
-**El número para planificar es el de "cola/marca": ≈10.287/mes realista,
-≈28.979/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`).** El bloque genérico queda como techo aspiracional,
+**El número para planificar es el de "cola/marca": ≈10.289/mes realista,
+≈29.085/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley` y `auriculares-sony`).** El bloque genérico queda como techo aspiracional,
 condicionado a que en algún momento haya link building real — no es algo
 que vaya a moverse solo con más guías o mejor enlazado interno.
 
@@ -231,6 +231,7 @@ demanda real por ese solapamiento. Ver caveats.
 | masajeador-espalda | masajeador de espalda | Cola/marca (viable) | 5.400 | Pos 9.3 | 7 | 138 | 356 |
 | pistola-masajeadora | pistola masajeadora | Cola/marca (viable) | 5.400 | Pos 7.8 | 1 | 183 | 525 |
 | peabody-freidoras-de-aire-review | freidora de aire peabody | Cola/marca (viable) | 5.400 | Pos 6.1 | 22 | 253 | 875 |
+| auriculares-sony | auriculares sony | Cola/marca (viable) | 5.400 | Sin datos aun | 0 | 2 | 106 |
 | teclado-gamer | teclado gamer | Genérico (alta comp.) | 4.400 | Pos 7.5 | 1 | 149 | 428 |
 | mouse-gamer | mouse gamer | Genérico (alta comp.) | 4.400 | Pos 7.3 | 0 | 149 | 428 |
 | joystick-xbox | joystick xbox | Genérico (alta comp.) | 4.400 | Pos 6.3 | 1 | 206 | 713 |
@@ -327,17 +328,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida base 2026-07-26; +1 fila el mismo día: `termo-stanley`)
+## Totales acumulados (corrida base 2026-07-26; +2 filas el mismo día: `termo-stanley`, `auriculares-sony`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (152 publicadas + 6 STAGED) | 158 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.646.860 /mes |
+| Guías (153 publicadas + 6 STAGED) | 159 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.652.260 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.045 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.078 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.287 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 28.979 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.047 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.184 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.289 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.085 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -348,7 +349,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 11 | 146.800 /mes | 0 | 42 | 2.892 |
+| Sin datos aún (nueva o STAGED) | 12 | 152.200 /mes | 0 | 44 | 2.998 |
 
 ## Caveats (válidos para toda actualización futura)
 

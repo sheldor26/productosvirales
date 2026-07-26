@@ -2369,8 +2369,8 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"Excelente en precio/calidad, creo que es lo mejor. Y eso que vengo de usar los AirPods Pro 2: estos buds no tienen nada que envidiarles en calidad de sonido, sinceramente."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `2. Sony WH-CH520 — la mejor vincha` },
-      { type: "product-card", productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", ranking: 2, description: `Vincha inalámbrica con hasta 50 horas de batería. 4.9 estrellas en más de 56.000 calificaciones: la vincha más vendida del segmento.` },
-      { type: "p", content: `Si preferís el formato de vincha (más cómodo para muchas horas y con más batería), la Sony WH-CH520 es la elección. Da **hasta 50 horas de batería** (semanas de uso sin cargar), buen sonido para el precio y la comodidad de apoyar sobre la oreja, a alrededor de $85.000. Es la vincha más vendida, con más de 56.000 opiniones, y el respaldo de Sony en audio.` },
+      { type: "product-card", productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", ranking: 2, description: `Vincha inalámbrica con hasta 50 horas de batería. 4.9 estrellas en más de 57.000 calificaciones: la vincha más vendida del segmento.` },
+      { type: "p", content: `Si preferís el formato de vincha (más cómodo para muchas horas y con más batería), la Sony WH-CH520 es la elección. Da **hasta 50 horas de batería** (semanas de uso sin cargar), buen sonido para el precio y la comodidad de apoyar sobre la oreja, a alrededor de $85.000. Es la vincha más vendida, con más de 57.000 opiniones, y el respaldo de Sony en audio.` },
       { type: "p", content: `No tiene cancelación de ruido activa (para eso, mirá la JBL de abajo o la Sony WH-CH720N), pero para escuchar música y trabajar en casa con autonomía enorme, es difícil de superar por el precio. La vincha sensata para la mayoría.` },
 
       { type: "pull-quote", content: `"Lo usé en varias ocasiones por lapsos de 2 a 4 horas y la batería sigue en 70%. Es bastante cómodo y se escucha bien. Cumple."`, attribution: `Opinión verificada en MercadoLibre` },
@@ -2433,6 +2433,7 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+      { label: "Auriculares Sony: ¿vale la pena la WH-CH520?", href: "/guias/audio/auriculares-sony" },
       { label: "Auriculares deportivos: cuál comprar para entrenar", href: "/guias/audio/auriculares-deportivos" },
       { label: "Auriculares profesionales de estudio: cuál comprar", href: "/guias/audio/auriculares-profesionales" },
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
@@ -2522,8 +2523,83 @@ export const guides: Guide[] = [
     ],
     internalLinks: [
       { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "Auriculares Sony: ¿vale la pena la WH-CH520?", href: "/guias/audio/auriculares-sony" },
       { label: "Auriculares deportivos: cuál comprar", href: "/guias/audio/auriculares-deportivos" },
       { label: "Auriculares profesionales de estudio: cuál comprar", href: "/guias/audio/auriculares-profesionales" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
+  // SATÉLITE auriculares-sony (silo audio)
+  {
+    slug: "auriculares-sony",
+    category: "auriculares",
+    silo: "audio",
+    title: `Auriculares Sony en Argentina: la WH-CH520 y si te conviene [2026]`,
+    seoTitle: `Auriculares Sony 2026: ¿Vale la Pena la WH-CH520?`,
+    metaDescription: `El auricular Sony que domina las ventas en MercadoLibre Argentina es la WH-CH520: 50 horas de batería, sin cancelación de ruido. Te contamos si conviene.`,
+    ogTitle: `Auriculares Sony en Argentina: la WH-CH520 y si te conviene`,
+    ogDescription: `La vincha Sony más vendida de MercadoLibre Argentina, comparada con las alternativas de la guía general: JBL con cancelación de ruido y Xiaomi baratos.`,
+    h1: `Auriculares Sony en Argentina: la WH-CH520 y si te conviene`,
+    directAnswer: `El auricular Sony que domina las ventas en MercadoLibre Argentina es la **[WH-CH520](/producto/MLA23138487)** (alrededor de {{precio:MLA23138487:k}}): una vincha con hasta 50 horas de batería y 4.9 estrellas en más de 57.000 calificaciones. No tiene cancelación activa de ruido (para eso, la JBL Tune 770NC de esta misma guía) ni entrada de cable. La línea premium de Sony con cancelación (WH-1000X) no tiene ficha en este catálogo.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Cuando alguien busca "auriculares Sony" en Argentina, la respuesta corta es una sola vincha: la WH-CH520, a alrededor de {{precio:MLA23138487:k}}. Te contamos qué trae, qué resigna frente a la cancelación de ruido de una JBL y cuándo conviene gastar menos con Xiaomi.`,
+    quickPicks: [
+      { productMlaId: "MLA23138487", label: "El Sony más vendido", labelColor: "blue", tagline: "WH-CH520: vincha con 50 horas de batería, sin cancelación de ruido" },
+    ],
+    intro: [
+      `Sony es sinónimo de auriculares de calidad, pero en MercadoLibre Argentina su catálogo de venta masiva se reduce hoy a un solo modelo con volumen real de opiniones: la **WH-CH520**. Es una vincha de entrada, pensada para batería y comodidad, no la línea premium con cancelación de ruido (esa es la WH-1000X, que no tiene ficha propia acá).`,
+      `En esta guía te contamos qué hace bien la WH-CH520, qué resigna frente a otras marcas y cuándo conviene mirar para otro lado. Si querés ver el panorama completo de marcas, mirá la [guía general de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_932176-MLA99502277578_112025-F.jpg", alt: `Auriculares Sony WH-CH520 de vincha, el modelo Sony más vendido en MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el dato de partida es real, no una selección nuestra: la WH-CH520 es el único auricular Sony con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. La comparamos contra las alternativas de cancelación de ruido y de precio bajo que ya cubrimos en la guía general de auriculares. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Por qué "auriculares Sony" lleva a un solo modelo`, id: "por-que-un-modelo" },
+      { type: "p", content: `Sony vende varias líneas de auriculares en el mundo, pero en MercadoLibre Argentina la que junta ventas y opiniones masivas es la **WH-CH520**: una vincha inalámbrica de entrada de gama. No es la línea premium con cancelación de ruido de la marca (esa es la **WH-1000X**), que no tiene ficha propia con volumen de ventas verificable en este catálogo. Si buscás "auriculares Sony" pensando en la cancelación de ruido de las reseñas internacionales, la WH-CH520 no la tiene: para eso, más abajo comparamos con la JBL Tune 770NC.` },
+
+      { type: "h2", title: `Sony WH-CH520: qué trae y qué resigna`, id: "wh-ch520" },
+      { type: "product-card", productMlaId: "MLA23138487", label: "El Sony más vendido", labelColor: "blue", description: `Vincha inalámbrica con hasta 50 horas de batería y app con ecualizador. 4.9 estrellas en más de 57.000 calificaciones, la más vendida del segmento.` },
+      { type: "p", content: `Su punto fuerte es la batería: **hasta 50 horas** con una carga, con carga rápida (3 minutos de USB-C dan 90 minutos de uso). Pesa 147 gramos, trae la app Sony Headphones Connect con ecualizador y se conecta a dos equipos a la vez (multipoint). A alrededor de {{precio:MLA23138487:k}}, es la forma más barata de tener el respaldo de marca Sony en auriculares.` },
+      { type: "p", content: `Lo que resigna: **no tiene cancelación activa de ruido** (solo aislamiento pasivo de las almohadillas), es on-ear en vez de over-ear, y no trae entrada de 3,5 mm para usarla por cable si se queda sin batería. Si necesitás algo de eso, seguí leyendo.` },
+
+      { type: "h2", title: `¿Conviene la Sony o te sirve más otra marca?`, id: "conviene" },
+      { type: "p", content: `Si lo que buscás en "Sony" es la **cancelación de ruido**, la WH-CH520 no la tiene: para eso, la [JBL Tune 770NC](/producto/MLA53285777) de la guía general cuesta bastante menos que una línea premium y sí cancela el ruido de forma activa. Si lo que te importa es la **batería y el respaldo de marca** sin gastar de más, la Sony cumple mejor que casi cualquier alternativa: 50 horas es de lo más alto del segmento.` },
+      { type: "p", content: `Y si el precio manda por sobre todo, los [Xiaomi Redmi Buds 6 Play](/producto/MLA39962085) salen bastante menos con más de 195.000 opiniones, aunque en formato in-ear (no vincha) y sin el respaldo de marca Sony.` },
+
+      { type: "h2", title: `Tabla comparativa: Sony vs. las alternativas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Cancelación de ruido`, `Ideal para`], rows: [
+        [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `{{precio:MLA23138487}}`, `Vincha`, `No`, `Batería y respaldo de marca`],
+        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha`, `Sí, activa`, `Aislarte del ruido`],
+        [`[Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR)`, `{{precio:MLA39962085}}`, `In-ear`, `No`, `El precio más bajo`],
+      ] },
+
+      { type: "h2", title: `Cuánto cuesta un auricular Sony en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA23138487:k}}:** la [Sony WH-CH520](https://meli.la/2t24mSB), el único modelo Sony con volumen de ventas real en este catálogo.`,
+        `**Si necesitás cancelación de ruido:** la [JBL Tune 770NC](https://meli.la/1mR75zc) cuesta {{preciodif:MLA53285777:MLA23138487}} más y sí la tiene.`,
+        `**Si el precio manda:** los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) cuestan bastante menos, en formato in-ear.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: ¿comprás la Sony?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, si querés el respaldo de marca Sony en una vincha con **batería excepcional** (50 horas) y app para ajustar el sonido, sin pagar de más: la **[WH-CH520](/producto/MLA23138487)** cumple con creces a su precio. No, si lo que buscabas en "Sony" era **cancelación de ruido**: esta vincha no la tiene, y ahí conviene más la [JBL Tune 770NC](/producto/MLA53285777). Y si el precio es lo único que importa, los [Xiaomi Redmi Buds 6 Play](/producto/MLA39962085) rinden muy bien por mucho menos.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor auricular Sony en Argentina?`, answer: `Es la [Sony WH-CH520](https://meli.la/2t24mSB): la vincha con volumen de ventas real en MercadoLibre Argentina, con hasta 50 horas de batería y 4.9 estrellas en más de 57.000 calificaciones. La línea premium de Sony con cancelación de ruido (WH-1000X) no tiene ficha con volumen de ventas verificable en este catálogo.` },
+      { question: `¿La Sony WH-CH520 tiene cancelación de ruido?`, answer: `No. Solo aísla de forma pasiva con las almohadillas. Si necesitás cancelación activa para el colectivo o la oficina, la [JBL Tune 770NC](https://meli.la/1mR75zc) sí la tiene y cuesta bastante menos que una línea premium de cualquier marca.` },
+      { question: `¿Cuánto dura la batería de la Sony WH-CH520?`, answer: `Hasta 50 horas con una carga, de lo mejor del segmento. Con carga rápida por USB-C, 3 minutos de carga dan 90 minutos de uso, y la carga completa tarda unas 3 horas.` },
+      { question: `¿Conviene la Sony o los Xiaomi Redmi Buds?`, answer: `Depende del formato y el presupuesto. Los [Redmi Buds 6 Play](https://meli.la/1LqPkFR) son in-ear y cuestan bastante menos; la Sony WH-CH520 es vincha, más cómoda para muchas horas, con batería enorme y el respaldo de marca Sony. Si preferís vincha y no te importa pagar un poco más, la Sony gana.` },
+      { question: `¿La Sony WH-CH520 se puede usar con cable?`, answer: `No. Es 100% inalámbrica y no trae entrada de 3,5 mm. Si se queda sin batería, no hay plan B por cable hasta que cargue.` },
+      { question: `¿Por qué Sony solo tiene un modelo en esta guía?`, answer: `Porque es el único auricular Sony con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Sony vende otras líneas en el mundo (incluida la premium WH-1000X con cancelación de ruido), pero no tienen ficha con historial de ventas real en este catálogo.` },
+    ],
+    internalLinks: [
+      { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+      { label: "Auriculares deportivos: cuál comprar para entrenar", href: "/guias/audio/auriculares-deportivos" },
     ],
     internalLinksTitle: "Más sobre audio",
   },

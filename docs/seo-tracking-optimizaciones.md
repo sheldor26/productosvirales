@@ -532,6 +532,18 @@ Origen: la sesión de link building/tráfico potencial de este mismo día encont
 
 **Efecto colateral encontrado y corregido:** la misma sobreafirmación ("la marca con más respaldo total de la categoría") y un número de reseñas desactualizado (6.297 en vez de 6.368) ya existían desde antes en el pilar `termo` (product-card de Stanley) y en la ficha fuente `MLA19761025` de `curated-products.ts` (description, verdict, pros, articleBody) — se corrigieron de paso en los tres lugares para que el silo quede consistente.
 
+### Guía nueva 2026-07-26 (satélite de marca "auriculares-sony", silo audio) — publicada de inmediato
+
+Origen: siguiente ítem del loop de link building del mismo día. "auriculares sony" mide 5.400 vol/mes (Keyword Planner). Antes de escribir se descartaron dos ítems del mismo loop por autocanibalización real (ver nota abajo) y se confirmó que este no tenía el mismo problema: el pilar `auriculares-inalambricos` presenta a la Sony WH-CH520 (`MLA23138487`) como quickPick #2 dentro de un ranking de 6 marcas, pero no existía ninguna satélite de marca dedicada — mismo patrón ya usado con éxito en `auriculares-jbl` (JBL también aparece en el pilar y tiene su propia satélite). Caso atípico: Sony solo tiene un producto real con volumen de ventas en el catálogo (a diferencia de JBL, que tiene 4), así que la guía tiene un solo quickPick y gira en torno a explicar honestamente por qué la keyword de marca lleva a un solo modelo, comparándolo contra JBL Tune 770NC (cancelación de ruido) y Xiaomi Redmi Buds 6 Play (precio bajo). La línea premium de Sony (WH-1000X) se menciona solo de forma informativa, sin ficha ni CTA.
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| auriculares-sony | audio (satélite de `auriculares-inalambricos`) | Publicada 2026-07-26, sin baseline previo | Codex: **2 rondas, GO** — ronda 1 encontró un bloqueante real (uso incorrecto de `{{preciodif:...}}` como si fuera el precio total de la JBL en vez de la diferencia; corregido agregando "más"); ronda 2 confirmó GO. Gemini/agy: **GO en ronda 1** (intención de búsqueda, snippet, FAQ, imágenes, sin canibalización) sobre contenido no afectado por el fix de la ronda 2; en la ronda 2 agy falló dos veces por un error de permisos del entorno headless (no relacionado al contenido), no se pudo re-confirmar por esa vía |
+
+**Descartados del mismo loop por autocanibalización real (no se escriben):** "ventilador de techo retráctil" (12.100/mes) y "ventilador de techo con luz" (8.100/mes) — el pilar `ventilador-de-techo` ya cubre "retráctil" y "con luz LED" a fondo en title, meta, H1, quickPicks y FAQ dedicada, y ya rankea posición 4 en GSC para "ventilador de techo retractil". Escribir una satélite aparte hubiera sido autogol de canibalización.
+
+**Efecto colateral encontrado y corregido:** un número de reseñas desactualizado de Sony WH-CH520 ("más de 56.000" en vez de las 57.573 actuales) ya existía desde antes en el pilar `auriculares-inalambricos` (2 lugares) y en la ficha fuente `MLA23138487` de `curated-products.ts` (description, verdict, pros, articleBody) — se corrigieron de paso en los 6 lugares.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).
