@@ -544,6 +544,16 @@ Origen: siguiente ítem del loop de link building del mismo día. "auriculares s
 
 **Efecto colateral encontrado y corregido:** un número de reseñas desactualizado de Sony WH-CH520 ("más de 56.000" en vez de las 57.573 actuales) ya existía desde antes en el pilar `auriculares-inalambricos` (2 lugares) y en la ficha fuente `MLA23138487` de `curated-products.ts` (description, verdict, pros, articleBody) — se corrigieron de paso en los 6 lugares.
 
+### Guía nueva 2026-07-26 (satélite de marca "microondas-samsung", silo cocina) — publicada de inmediato
+
+Origen: siguiente ítem del loop de link building del mismo día. "microondas samsung" mide 3.600 vol/mes (Keyword Planner). Mismo patrón que `auriculares-sony`: Samsung tiene un solo producto real con volumen de ventas en el catálogo (`MLA10531383`, MG23F3K3TAK 23L con grill), ya presentado en el pilar `microondas` como quickPick #3. La guía explica honestamente por qué la keyword de marca lleva a un solo modelo y lo compara contra el BGH Quick Chef (el más barato, sin grill) y el LG Smart Inverter (el premium), ambos ya usados en el pilar y en las satélites `microondas-bgh`/`microondas-atma`.
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| microondas-samsung | cocina (satélite de `microondas`) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **GO unánime en primera ronda**, sin bloqueantes ni mejoras opcionales de peso |
+
+**Nota de proceso:** se agregó reciprocidad de enlace desde el pilar `microondas` y las satélites `microondas-bgh` y `microondas-atma` hacia `microondas-samsung` antes de auditar (no después), evitando el hallazgo de reciprocidad incompleta que sí apareció en `auriculares-sony`.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

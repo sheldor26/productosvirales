@@ -85,10 +85,10 @@ compite de verdad la keyword principal:
 | Grupo | Guías (publicadas) | Volumen | Hoy (real) | Realista | Techo |
 |---|---:|---:|---:|---:|---:|
 | Genérico / alta competencia | 67 | 1.326.250 /mes | 753 | 53.758 | 136.099 |
-| Cola / marca (creíble en DA1) | 86 | 326.010 /mes | 766 | **10.289** | **29.085** |
+| Cola / marca (creíble en DA1) | 87 | 329.610 /mes | 766 | **10.290** | **29.156** |
 
-**El número para planificar es el de "cola/marca": ≈10.289/mes realista,
-≈29.085/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley` y `auriculares-sony`).** El bloque genérico queda como techo aspiracional,
+**El número para planificar es el de "cola/marca": ≈10.290/mes realista,
+≈29.156/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony` y `microondas-samsung`).** El bloque genérico queda como techo aspiracional,
 condicionado a que en algún momento haya link building real — no es algo
 que vaya a moverse solo con más guías o mejor enlazado interno.
 
@@ -248,6 +248,7 @@ demanda real por ese solapamiento. Ver caveats.
 | licuadora-oster | licuadora oster | Cola/marca (viable) | 3.600 | Pos 5.6 | 1 | 237 | 583 |
 | pava-electrica-precio | pava electrica precio | Cola/marca (viable) | 3.600 | Pos 8.3 | 0 | 122 | 350 |
 | masajeador-gadnic | masajeador gadnic | Cola/marca (viable) | 3.600 | Pos 5.9 | 24 | 237 | 583 |
+| microondas-samsung | microondas samsung | Cola/marca (viable) | 3.600 | Sin datos aun | 0 | 1 | 71 |
 | microondas-atma | microondas atma | Cola/marca (viable) | 2.900 | Pos 7.7 | 0 | 98 | 282 |
 | horno-atma | horno electrico atma | Cola/marca (viable) | 2.900 | Pos 9.2 | 0 | 74 | 191 |
 | joystick-pc | joystick pc | Genérico (alta comp.) | 2.900 | Pos 6.2 | 10 | 136 | 470 |
@@ -328,17 +329,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida base 2026-07-26; +2 filas el mismo día: `termo-stanley`, `auriculares-sony`)
+## Totales acumulados (corrida base 2026-07-26; +3 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (153 publicadas + 6 STAGED) | 159 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.652.260 /mes |
+| Guías (154 publicadas + 6 STAGED) | 160 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.655.860 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.047 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.184 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.289 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.085 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.048 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.255 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.290 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.156 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -349,7 +350,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 12 | 152.200 /mes | 0 | 44 | 2.998 |
+| Sin datos aún (nueva o STAGED) | 13 | 155.800 /mes | 0 | 45 | 3.069 |
 
 ## Caveats (válidos para toda actualización futura)
 

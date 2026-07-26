@@ -143,6 +143,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Microondas BGH: cuál comprar (la marca más vendida)", href: "/guias/cocina/microondas-bgh" },
       { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
+      { label: "Microondas Samsung: ¿vale la pena el de grill?", href: "/guias/cocina/microondas-samsung" },
       { label: "Horno eléctrico: cuál comprar y cuál conviene", href: "/guias/cocina/horno-electrico" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Robot de cocina: cuál comprar y si vale la pena", href: "/guias/cocina/robot-de-cocina" },
@@ -444,6 +445,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
       { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
+      { label: "Microondas Samsung: ¿vale la pena el de grill?", href: "/guias/cocina/microondas-samsung" },
       { label: "Robot de cocina: cuál comprar", href: "/guias/cocina/robot-de-cocina" },
       { label: "Horno eléctrico vs microondas: cuál conviene", href: "/guias/cocina/horno-electrico-vs-microondas" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
@@ -661,8 +663,83 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
       { label: "Microondas BGH: cuál comprar", href: "/guias/cocina/microondas-bgh" },
+      { label: "Microondas Samsung: ¿vale la pena el de grill?", href: "/guias/cocina/microondas-samsung" },
       { label: "Horno eléctrico: cuál comprar", href: "/guias/cocina/horno-electrico" },
       { label: "Horno eléctrico Atma: cuál comprar", href: "/guias/cocina/horno-atma" },
+    ],
+    internalLinksTitle: "Más para la cocina",
+  },
+
+  // SATÉLITE microondas-samsung (silo cocina)
+  {
+    slug: "microondas-samsung",
+    category: "microondas",
+    silo: "cocina",
+    title: `Microondas Samsung en Argentina: el de grill y si te conviene [2026]`,
+    seoTitle: `Microondas Samsung 2026: ¿Vale la Pena el de Grill?`,
+    metaDescription: `El microondas Samsung que domina las ventas en Argentina es el de 23L con grill: dora y gratina, pero pide un toma de 20 A. Te contamos si te conviene.`,
+    ogTitle: `Microondas Samsung en Argentina: el de grill y si te conviene`,
+    ogDescription: `El Samsung MG23F3K3TAK de 23 litros con grill, comparado con el BGH más barato y el LG premium con inverter de la guía general de microondas.`,
+    h1: `Microondas Samsung en Argentina: el de grill y si te conviene`,
+    directAnswer: `El microondas Samsung que domina las ventas en Argentina es el **[MG23F3K3TAK de 23L con grill](/producto/MLA10531383)** (alrededor de {{precio:MLA10531383:k}}): interior cerámico, 800 W y 4.7 estrellas en más de 3.600 calificaciones. Su condición: pide un **toma de 20 A**, así que puede que tengas que cambiar el enchufe. Si solo querés calentar sin gastar de más, el [BGH Quick Chef](/producto/MLA18193159) de la guía general sale bastante menos.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Cuando alguien busca "microondas Samsung" en Argentina, la respuesta corta es un solo modelo: el de 23 litros con grill, a alrededor de {{precio:MLA10531383:k}}. Te contamos qué trae, el detalle del enchufe que casi nadie avisa y cuándo conviene ahorrar con otra marca.`,
+    quickPicks: [
+      { productMlaId: "MLA10531383", label: "El Samsung con grill", labelColor: "purple", tagline: "MG23F3K3TAK: 23L, interior cerámico, dora y gratina" },
+    ],
+    intro: [
+      `Samsung fabrica microondas en varias gamas en el mundo, pero en MercadoLibre Argentina el que junta ventas y opiniones masivas es uno solo: el **MG23F3K3TAK de 23 litros con grill**. Es el escalón intermedio de la categoría: más caro que un BGH básico, pero pensado para quien quiere dorar y gratinar, no solo calentar.`,
+      `En esta guía te contamos qué hace bien este Samsung, el detalle eléctrico que conviene chequear antes de comprarlo y cuándo te conviene más otra marca. Si querés ver el panorama completo, mirá la [guía general de microondas](/guias/cocina/microondas).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_874785-MLA99495727344_112025-F.jpg", alt: `Microondas Samsung MG23F3K3TAK de 23 litros con grill, el modelo Samsung más vendido en MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el dato de partida es real, no una selección nuestra: el MG23F3K3TAK es el único microondas Samsung con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Lo comparamos contra las alternativas de precio bajo y de gama premium que ya cubrimos en la guía general de microondas. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Por qué "microondas Samsung" lleva a un solo modelo`, id: "por-que-un-modelo" },
+      { type: "p", content: `Samsung vende microondas de varias gamas en el mundo, pero en MercadoLibre Argentina el que tiene ventas y opiniones masivas es el **MG23F3K3TAK**: 23 litros con grill e interior cerámico. Si buscás "microondas Samsung" pensando en otro tamaño o en un modelo sin grill, no vas a encontrar ficha con volumen de ventas verificable para eso en este catálogo: este es el punto de referencia real de la marca hoy.` },
+
+      { type: "h2", title: `Samsung 23L con grill: qué trae y qué resigna`, id: "mg23f3k3tak" },
+      { type: "product-card", productMlaId: "MLA10531383", label: "El Samsung con grill", labelColor: "purple", description: `23 litros con grill e interior cerámico (más fácil de limpiar). 4.7 estrellas en más de 3.600 calificaciones. Dora y gratina, no solo calienta.` },
+      { type: "p", content: `Su punto fuerte es el **grill de 1050 W**: dora, gratina o tuesta, algo que un microondas pelado no hace. Suma **interior cerámico** (más resistente y fácil de limpiar que el esmaltado común), 23 litros (entra una fuente o un plato grande) y 800 W de potencia estándar, a alrededor de {{precio:MLA10531383:k}}.` },
+      { type: "p", content: `Lo que resigna, y conviene saber antes de comprar: **pide un toma de 20 amperes**. La mayoría de los enchufes de casa son de 10 A, así que es muy probable que tengas que cambiar el tomacorriente de la pared antes de usarlo. Es la razón número uno por la que alguien se arrepiente de la compra, según las reseñas.` },
+
+      { type: "h2", title: `¿Conviene el Samsung o te sirve más otra marca?`, id: "conviene" },
+      { type: "p", content: `Si solo querés **calentar y descongelar**, sin gastar de más ni lidiar con el toma de 20 A, el [BGH Quick Chef 20L](/producto/MLA18193159) de la guía general cuesta bastante menos y es el más vendido del país. El grill del Samsung solo se justifica si de verdad vas a usarlo para dorar o gratinar.` },
+      { type: "p", content: `Y si lo que buscás es el escalón premium con **tecnología inverter** (calienta más parejo, descongela mejor), el [LG Smart Inverter](/producto/MLA62204337) de la guía general va un paso más allá que el Samsung, a un precio más alto.` },
+
+      { type: "h2", title: `Tabla comparativa: Samsung vs. las alternativas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Litros`, `Grill`, `Ideal para`], rows: [
+        [`[BGH Quick Chef 20L](https://meli.la/27RQQKV)`, `{{precio:MLA18193159}}`, `20 L`, `No`, `Calentar y descongelar, lo más barato`],
+        [`[Samsung MG23F3K3TAK](https://meli.la/2TU2ytf)`, `{{precio:MLA10531383}}`, `23 L`, `Sí`, `Dorar y gratinar (pide toma 20A)`],
+        [`[LG Smart Inverter](https://meli.la/2pLfJd8)`, `{{precio:MLA62204337}}`, `25 L`, `Sí`, `El premium con inverter`],
+      ] },
+
+      { type: "h2", title: `Cuánto cuesta un microondas Samsung en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA10531383:k}}:** el [Samsung MG23F3K3TAK](https://meli.la/2TU2ytf), el único modelo Samsung con volumen de ventas real en este catálogo.`,
+        `**Si solo calentás y descongelás:** el [BGH Quick Chef 20L](https://meli.la/27RQQKV) sale bastante menos y no pide toma especial.`,
+        `**Si querés el escalón premium:** el [LG Smart Inverter](https://meli.la/2pLfJd8) va un paso más allá, a precio más alto.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: ¿comprás el Samsung?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, si querés que el microondas **además dore o gratine** y tu cocina tiene (o podés poner) un toma de 20 A: el **[Samsung MG23F3K3TAK](/producto/MLA10531383)** cumple de sobra, con el respaldo de más de 3.600 calificaciones. No, si solo vas a calentar y descongelar: ahí el [BGH Quick Chef](/producto/MLA18193159) te ahorra plata y el enchufe común alcanza. Y si querés el tope de gama, el [LG Smart Inverter](/producto/MLA62204337) va un escalón más arriba.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor microondas Samsung en Argentina?`, answer: `Es el [MG23F3K3TAK de 23 litros con grill](https://meli.la/2TU2ytf): el único modelo Samsung con volumen de ventas real en MercadoLibre Argentina, con 4.7 estrellas en más de 3.600 calificaciones. Interior cerámico y grill para dorar y gratinar.` },
+      { question: `¿Por qué el microondas Samsung pide un toma de 20 amperes?`, answer: `Porque consume más corriente que un microondas común, por el grill y la potencia. La mayoría de los enchufes de casa son de 10 A, así que es probable que tengas que llamar a un electricista para cambiar el tomacorriente antes de usarlo. Es la contra más concreta del modelo.` },
+      { question: `¿Vale la pena el grill del microondas Samsung?`, answer: `Si vas a usarlo para dorar pollo, gratinar pastas o tostar, sí: es lo que lo diferencia de un microondas común. Si solo calentás comida y café, no lo vas a aprovechar, y te conviene un modelo más simple y barato como el [BGH Quick Chef](https://meli.la/27RQQKV).` },
+      { question: `¿Conviene el Samsung o el BGH?`, answer: `Depende del uso. El [BGH Quick Chef](https://meli.la/27RQQKV) es más barato y alcanza de sobra para calentar y descongelar. El Samsung suma grill e interior cerámico, pero pide toma de 20 A y cuesta más. Si no vas a dorar ni gratinar, el BGH rinde mejor por el precio.` },
+      { question: `¿Qué es el interior cerámico del Samsung?`, answer: `Es un interior de cerámica lisa en vez de pintura esmaltada: antibacteriano, resistente a los rayones y más fácil de limpiar (las salpicaduras salen con un trapo, sin que se pegue la grasa como en los interiores pintados que se descascaran con el tiempo).` },
+      { question: `¿El microondas Samsung reemplaza al horno?`, answer: `No. El grill es una resistencia que dora la superficie, pero no es convección: no reemplaza al horno para cocinar tartas, pizzas o asados desde cero. Es un complemento para dorar y gratinar algo que ya cocinaste, no un horno completo.` },
+    ],
+    internalLinks: [
+      { label: "Microondas: la guía completa (todas las marcas)", href: "/guias/cocina/microondas" },
+      { label: "Microondas BGH: cuál comprar", href: "/guias/cocina/microondas-bgh" },
+      { label: "Microondas Atma: cuál comprar", href: "/guias/cocina/microondas-atma" },
     ],
     internalLinksTitle: "Más para la cocina",
   },
