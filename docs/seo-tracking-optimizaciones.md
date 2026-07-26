@@ -574,6 +574,20 @@ Origen: siguiente ítem del loop de link building del mismo día. "auriculares x
 
 **Efecto colateral encontrado y corregido (el más grande de la sesión):** el reviewCount del Xiaomi Redmi Buds 6 Play estaba desactualizado en **13 lugares** desde antes de esta sesión (pilar `auriculares-inalambricos`, ficha fuente `MLA39962085` en `curated-products.ts`, y una mención cruzada dentro de la guía `auriculares-sony` publicada hoy mismo): decían "más de 195.000 calificaciones/opiniones" cuando el reviewCount real y actual es 209.810 (diferencia de casi 15.000 reseñas, la brecha más grande encontrada en todo el loop). Se corrigieron los 13 a "más de 209.000". Adicional (mejora opcional de Codex, aplicada): 3 precios hardcodeados viejos del Xiaomi en el pilar ($33.000, cuando el precio real es $23.999) se reemplazaron por el token `{{precio:MLA39962085:k}}`.
 
+### Guía nueva 2026-07-26 (categoría nueva "proyector-astronauta", silo juguetes) — publicada de inmediato
+
+Origen: siguiente ítem del loop de link building del mismo día. "proyector astronauta" + "proyector galaxia" miden 2.570 vol/mes combinado (Keyword Planner). No es satélite de ningún pilar existente: es la primera guía de esta categoría en el sitio, ubicada en el silo `juguetes` (junto a `dia-del-nino-argentina` y `mejores-peluches-personajes-argentina`), aclarando explícitamente que no es lo mismo que un `proyector-portatil` (proyector de video, categoría `tech` completamente distinta).
+
+**Caso más restrictivo del loop:** de los 4 productos de proyector astronauta/galaxia en el catálogo, solo 1 (`MLA46927234`, MTI 731) tenía stock real y no estaba `deprioritized`. Los otros 3 quedaron fuera de la recomendación: Geotek `MLA521391764` (`priceStatus: out_of_stock`), MTI 730 `MLA2729985625` (`deprioritized` + `out_of_stock`) y Dakota `MLA45675149` (`deprioritized`). Antes de escribir, se verificó el stock del MTI 731 EN VIVO contra MercadoLibre (Bright Data, no solo el dato del catálogo): confirmó stock disponible (+50 unidades), precio $18.673 (coincide con la ficha) y 874 opiniones (coincide con el `reviewCount: 870` de la ficha).
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| proyector-astronauta | juguetes (categoría nueva, sin pilar) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **GO unánime en primera ronda**, con 2 mejoras opcionales aplicadas (ver abajo) |
+
+**Efecto colateral encontrado y corregido:** la verificación en vivo del MTI 731 destapó que el reviewCount real (870, confirmado en vivo con 874) estaba muy por encima de lo que decía la propia prosa de la ficha (`description`, `pros`, `articleBody`, `specs`, `verdict`): "415 calificaciones" en 6 lugares, más del doble de desactualizado. Se corrigieron los 6. Un séptimo lugar (bloque JSON-LD schema.org hardcodeado dentro de la misma ficha, con `reviewCount: '415'` y `price: 20999`) quedó sin tocar porque no afecta los tokens de precio de las guías y es un patrón potencialmente sistémico (no solo de este producto) — se dejó una tarea aparte para auditarlo con más alcance.
+
+**Mejoras opcionales de Codex aplicadas:** se agregó `"proyector-astronauta"` a `guideCategories` en `guides.ts` (sin esto, `/guias` iba a mostrar el slug crudo sin nombre ni descripción); se precisó una frase del trust-block ("candidatos sin stock verificado o no elegibles" en vez de "sin stock disponible", porque Dakota estaba deprioritized y no necesariamente sin stock).
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

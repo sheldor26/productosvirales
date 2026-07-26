@@ -16621,9 +16621,9 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
     reviewCount: 870,
     soldQuantity: 1000,
     pastelColor: 'var(--pastel-amber)',
-    description: 'Proyector oso astronauta de pie MTI 731 con 82 efectos de luz, parlante Bluetooth, lente de vidrio, rotación 360°, timer 30/60/120 min y USB Type-C. Aurora boreal, nebulosa, estrellas y luna en el techo. Incluye control remoto y stickers. 4.7⭐ con 415 calificaciones — el mayor volumen del catálogo de astronautas.',
+    description: 'Proyector oso astronauta de pie MTI 731 con 82 efectos de luz, parlante Bluetooth, lente de vidrio, rotación 360°, timer 30/60/120 min y USB Type-C. Aurora boreal, nebulosa, estrellas y luna en el techo. Incluye control remoto y stickers. 4.7⭐ con más de 870 calificaciones — el mayor volumen del catálogo de astronautas.',
     pros: [
-      '4.7⭐ con 415 calificaciones y 219 comentarios — mayor volumen del catálogo',
+      '4.7⭐ con más de 870 calificaciones y 219 comentarios — mayor volumen del catálogo',
       '82 efectos de luz — 10x más que los otros proyectores del sitio',
       'Incluye aurora boreal, nebulosa, estrellas y proyección de luna',
       'Lente de vidrio — mejor transmisión óptica',
@@ -16646,7 +16646,7 @@ El listing lo destaca como "ideal para regalar". La combinación de stickers + m
     h1: 'Proyector oso astronauta MTI 731: 82 efectos de luz, Bluetooth y timer de 30 minutos',
     articleBody: `De todos los proyectores astronauta del sitio, el MTI 731 es el que tiene más efectos de luz. Los otros modelos del catálogo tienen entre 6 y 8 modos. Este tiene 82. No es una diferencia menor: 82 significa que hay combinaciones de aurora boreal, nebulosa, estrellas, luna y mezclas de colores que los otros modelos no tienen.
 
-El diseño es un oso de pie con traje de astronauta, blanco, 19cm de alto. La lente del casco es de vidrio. El cable incluido es USB Type-C. Con 415 calificaciones y 4.7 estrellas, tiene el mayor volumen de reseñas del catálogo.
+El diseño es un oso de pie con traje de astronauta, blanco, 19cm de alto. La lente del casco es de vidrio. El cable incluido es USB Type-C. Con más de 870 calificaciones y 4.7 estrellas, tiene el mayor volumen de reseñas del catálogo.
 
 ## Los 82 efectos: qué es lo que cambia
 
@@ -16686,7 +16686,7 @@ No incluye: adaptador de corriente USB. Pilas del control remoto: no especificad
 
 ## Diferencias con el MTI 730
 
-Si estás comparando los dos modelos MTI del sitio: el [MTI 730](/producto/MLA2729985625) (oso sentado, 20cm, $14.259) tiene menos efectos de luz pero tiene el mismo timer y la misma lente de vidrio. Es más barato y tiene mayor rating (4.8 vs 4.7), aunque con menos reseñas (298 vs 415).
+Si estás comparando los dos modelos MTI del sitio: el [MTI 730](/producto/MLA2729985625) (oso sentado, 20cm, $14.259) tiene menos efectos de luz pero tiene el mismo timer y la misma lente de vidrio. Es más barato y tiene mayor rating (4.8 vs 4.7), aunque con menos reseñas (298 vs más de 870).
 
 El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativamente más que el 730 — y el mayor volumen de reseñas del catálogo. Cuesta más, pero los 82 modos son una diferencia concreta si la variedad de efectos importa.`,
     specs: [
@@ -16706,7 +16706,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
       { label: 'Timer', value: '30 / 60 / 120 minutos' },
       { label: 'Control remoto', value: 'Sí — con color, volumen, rotación, timer' },
       { label: 'Contenido caja', value: 'Proyector + cable USB-C + remoto + stickers + manual' },
-      { label: 'Rating', value: '4.7 ⭐ (415 calificaciones — 219 comentarios)' },
+      { label: 'Rating', value: '4.7 ⭐ (más de 870 calificaciones — 219 comentarios)' },
     ],
     faq: [
       {
@@ -16727,7 +16727,7 @@ El MTI 731 (oso de pie, 19cm, $20.999) tiene 82 efectos de luz — significativa
       {
         question: '¿Qué diferencia tiene con el MTI 730?',
         answer:
-          'El MTI 730 es el oso sentado (20cm), tiene menos efectos de luz y cuesta menos ($14.259 vs $20.999). El MTI 731 es el oso de pie (19cm), tiene 82 efectos y mayor volumen de reseñas (415 vs 298).',
+          'El MTI 730 es el oso sentado (20cm), tiene menos efectos de luz y cuesta menos ($14.259 vs $20.999). El MTI 731 es el oso de pie (19cm), tiene 82 efectos y mayor volumen de reseñas (más de 870 vs 298).',
       },
       {
         question: '¿Se puede usar sin Bluetooth?',

@@ -20602,6 +20602,7 @@ export const guides: Guide[] = [
       { label: "HY300 vs HY320: cuál conviene", href: "/guias/tech/hy300-vs-hy320" },
       { label: "Cargador portátil (power bank): cuál comprar", href: "/guias/tech/cargador-portatil" },
       { label: "Chromecast: cuál dispositivo de streaming comprar", href: "/guias/tech/chromecast" },
+      { label: "Proyector astronauta: no es lo mismo, es decorativo", href: "/guias/juguetes/proyector-astronauta" },
     ],
   },
 
@@ -22629,6 +22630,71 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Ver todos los juguetes virales", href: "/categoria/juguetes" },
       { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
+      { label: "Proyector astronauta: ¿cuál conviene y vale la pena?", href: "/guias/juguetes/proyector-astronauta" },
+    ],
+    internalLinksTitle: "Seguí explorando",
+  },
+
+  // SATÉLITE proyector-astronauta (silo juguetes)
+  {
+    slug: "proyector-astronauta",
+    category: "proyector-astronauta",
+    silo: "juguetes",
+    title: `Proyector Astronauta: cuál comprar en Argentina y si vale la pena [2026]`,
+    seoTitle: `Proyector Astronauta 2026: ¿Cuál Comprar en Argentina?`,
+    metaDescription: `El proyector astronauta viral de TikTok llegó a MercadoLibre Argentina en varios modelos. Te contamos cuál tiene stock real hoy y si vale la pena.`,
+    ogTitle: `Proyector Astronauta: cuál comprar en Argentina y si vale la pena`,
+    ogDescription: `El MTI 731, con 82 efectos de luz y parlante Bluetooth, es hoy el proyector astronauta con stock y respaldo real en MercadoLibre Argentina. Precio y veredicto.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_2X_840830-MLA109740384407_032026-F.webp`,
+    h1: `Proyector astronauta: cuál comprar en Argentina y si vale la pena`,
+    directAnswer: `El proyector astronauta (o "proyector galaxia") que tiene stock y respaldo real hoy en MercadoLibre Argentina es el **[MTI 731](/producto/MLA46927234)** (alrededor de {{precio:MLA46927234:k}}): 82 efectos de luz, parlante Bluetooth y más de 870 calificaciones, el mayor volumen de opiniones del catálogo. Es un proyector de luces decorativo para el dormitorio, no un proyector de video: no reproduce películas ni imágenes.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `El "proyector astronauta" se volvió viral en TikTok como luz de noche decorativa para el dormitorio. Hay varios modelos en MercadoLibre Argentina, pero no todos tienen stock real: te contamos cuál sí lo tiene, qué trae y si vale la pena a alrededor de {{precio:MLA46927234:k}}.`,
+    quickPicks: [
+      { productMlaId: "MLA46927234", label: "Con stock y más respaldo", labelColor: "amber", tagline: "MTI 731: 82 efectos de luz, Bluetooth y el mayor volumen de reseñas" },
+    ],
+    intro: [
+      `El proyector astronauta (también buscado como "proyector galaxia") es una lámpara decorativa con forma de astronauta que proyecta nebulosas, estrellas y otros efectos de luz sobre el techo, pensada como luz de noche para el dormitorio. Se popularizó por videos de TikTok, y hoy hay varios modelos en el catálogo argentino de MercadoLibre.`,
+      `El detalle importante antes de comprar: no todos los modelos que aparecen en las búsquedas tienen stock real en este momento. En esta guía te contamos cuál sí lo tiene, qué trae y si vale la pena. Si buscás otros regalos virales para chicos, mirá también la [guía de Día del Niño](/guias/juguetes/dia-del-nino-argentina) y la de [peluches de personajes](/guias/juguetes/mejores-peluches-personajes-argentina).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_2X_840830-MLA109740384407_032026-F.webp", alt: `Proyector astronauta MTI 731 con 82 efectos de luz, el modelo con stock y respaldo real en MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** relevamos los proyectores astronauta/galaxia con más ventas y opiniones reales en MercadoLibre Argentina, y verificamos el stock en vivo (no solo el dato del catálogo) antes de recomendar. Los candidatos sin stock verificado o no elegibles para recomendación quedaron fuera de esta guía. Las calificaciones son de compradores reales. Precio y stock verificados el 26 de julio de 2026.` },
+
+      { type: "h2", title: `Qué es un proyector astronauta (y qué no es)`, id: "que-es" },
+      { type: "p", content: `Es una lámpara decorativa, no un proyector de video: proyecta patrones de luz (nebulosas, estrellas, auroras) sobre el techo o las paredes, pero no reproduce películas, series ni fotos. Si buscás eso, necesitás un [proyector portátil](/guias/tech/proyector-portatil), que es otra categoría de producto completamente distinta.` },
+      { type: "p", content: `Su uso típico es como luz de noche para el dormitorio de chicos (y de no tan chicos): la mayoría trae temporizador para apagarse solo, y varios suman parlante Bluetooth para escuchar música mientras se proyecta la luz.` },
+
+      { type: "h2", title: `MTI 731: el proyector astronauta con stock real`, id: "mti-731" },
+      { type: "product-card", productMlaId: "MLA46927234", label: "Con stock y más respaldo", labelColor: "amber", description: `Oso astronauta de pie con 82 efectos de luz, parlante Bluetooth y lente de vidrio. 4.7 estrellas en más de 870 calificaciones, el mayor volumen del catálogo.` },
+      { type: "p", content: `El MTI 731 es un oso con traje de astronauta, de pie, con **82 efectos de luz** (aurora boreal, nebulosa, estrellas y luna, con transiciones entre modos), muy por encima de los 6 a 8 modos típicos de otros proyectores similares. Suma parlante Bluetooth integrado para música, lente de vidrio (mejor transmisión óptica que el acrílico común), rotación magnética de 360° y temporizador de 30, 60 o 120 minutos, a alrededor de {{precio:MLA46927234:k}}.` },
+      { type: "p", content: `Lo honesto: no incluye el adaptador de corriente USB (necesitás uno de celular), no especifica si el control remoto trae pilas, y no tiene batería interna, así que necesita estar enchufado para funcionar.` },
+
+      { type: "h2", title: `Cuánto cuesta un proyector astronauta en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA46927234:k}}:** el [MTI 731](https://meli.la/2B4xZPY), el modelo con stock y respaldo verificado de esta guía.`,
+        `**Sumá al presupuesto:** un cargador USB (no viene incluido) y pilas AAA para el control remoto si el que te llega no las trae.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: ¿vale la pena un proyector astronauta?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, si buscás una luz de noche decorativa con temporizador y algo de música para el dormitorio de un chico (o de un adulto al que le guste la estética): el **[MTI 731](/producto/MLA46927234)** cumple bien, con 82 efectos de luz y el mayor respaldo de opiniones verificado del catálogo. No, si esperás un proyector que reproduzca películas o fotos: para eso necesitás un [proyector portátil](/guias/tech/proyector-portatil), una categoría totalmente distinta.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor proyector astronauta en Argentina?`, answer: `El [MTI 731](https://meli.la/2B4xZPY): tiene stock disponible, 82 efectos de luz (muy por encima de los 6 a 8 típicos de otros modelos) y el mayor volumen de calificaciones verificado, más de 870.` },
+      { question: `¿El proyector astronauta reproduce películas?`, answer: `No. Es una lámpara decorativa que proyecta patrones de luz (estrellas, nebulosas, auroras), no un proyector de video. Para ver películas o series necesitás un [proyector portátil](/guias/tech/proyector-portatil), un producto distinto.` },
+      { question: `¿El proyector astronauta funciona con pilas?`, answer: `No tiene batería interna: se conecta por USB (5V) a un cargador y necesita estar enchufado para funcionar. El control remoto sí usa pilas, aparte del proyector.` },
+      { question: `¿Trae parlante Bluetooth?`, answer: `El MTI 731 sí: tiene parlante Bluetooth integrado para conectar el celular y escuchar música mientras se proyecta la luz.` },
+      { question: `¿Sirve para dormir con la luz encendida toda la noche?`, answer: `Tiene temporizador (30, 60 o 120 minutos en el MTI 731) para que se apague solo. Es una función pensada justamente para que los chicos se duerman sin dejarlo prendido toda la noche.` },
+      { question: `¿Por qué esta guía recomienda un solo modelo?`, answer: `Porque al verificar el stock en vivo, era el único proyector astronauta del catálogo con disponibilidad real y volumen de opiniones confiable al momento de esta guía. Otros modelos similares aparecen en el mercado pero sin stock verificado.` },
+    ],
+    internalLinks: [
+      { label: "Día del Niño: qué regalar según la edad", href: "/guias/juguetes/dia-del-nino-argentina" },
+      { label: "Mejores peluches de personajes: Bluey, Monster High y más", href: "/guias/juguetes/mejores-peluches-personajes-argentina" },
+      { label: "Proyector portátil: cuál comprar y cuál conviene", href: "/guias/tech/proyector-portatil" },
     ],
     internalLinksTitle: "Seguí explorando",
   },
@@ -22770,6 +22836,11 @@ export const guideCategories: Record<string, { name: string; description: string
     name: "Guía de Peluches de Personajes",
     description:
       "Bluey, Monster High, Sylvanian Families, capibara y Stitch: cuáles tienen licencia oficial y cuáles no, con precios y reseñas reales.",
+  },
+  "proyector-astronauta": {
+    name: "Guía de Proyector Astronauta",
+    description:
+      "El proyector de galaxia viral de TikTok: cuál tiene stock real en Argentina, qué trae y si vale la pena como luz de noche decorativa.",
   },
   masajeadores: {
     name: "Guía de Masajeadores",

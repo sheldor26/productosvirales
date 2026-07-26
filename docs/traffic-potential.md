@@ -85,10 +85,10 @@ compite de verdad la keyword principal:
 | Grupo | Guías (publicadas) | Volumen | Hoy (real) | Realista | Techo |
 |---|---:|---:|---:|---:|---:|
 | Genérico / alta competencia | 67 | 1.326.250 /mes | 753 | 53.758 | 136.099 |
-| Cola / marca (creíble en DA1) | 89 | 335.410 /mes | 766 | **10.292** | **29.270** |
+| Cola / marca (creíble en DA1) | 90 | 337.980 /mes | 766 | **10.293** | **29.321** |
 
-**El número para planificar es el de "cola/marca": ≈10.292/mes realista,
-≈29.270/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz` y `auriculares-xiaomi`).** El bloque genérico queda como techo aspiracional,
+**El número para planificar es el de "cola/marca": ≈10.293/mes realista,
+≈29.321/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi` y `proyector-astronauta`).** El bloque genérico queda como techo aspiracional,
 condicionado a que en algún momento haya link building real — no es algo
 que vaya a moverse solo con más guías o mejor enlazado interno.
 
@@ -263,6 +263,7 @@ demanda real por ese solapamiento. Ver caveats.
 | cortadora-de-pelo | cortadora de pelo | Genérico (alta comp.) | 2.900 | Pos 7.7 | 6 | 98 | 282 |
 | cepillo-de-dientes-electrico | cepillo de dientes electrico | Genérico (alta comp.) | 2.900 | STAGED | 0 | 1 | 57 |
 | cerradura-inteligente | cerradura inteligente | Genérico (alta comp.) | 2.900 | STAGED | 0 | 1 | 57 |
+| proyector-astronauta | proyector astronauta / galaxia | Cola/marca (viable) | 2.570 | Sin datos aun | 0 | 1 | 51 |
 | joystick-para-celular | joystick para celular | Genérico (alta comp.) | 2.400 | Pos 9.6 | 2 | 61 | 158 |
 | pava-electrica-peabody | pava electrica peabody | Cola/marca (viable) | 2.400 | Pos 7.6 | 8 | 81 | 234 |
 | oster-freidoras-de-aire-review | freidora de aire oster | Cola/marca (viable) | 2.400 | Pos 7.2 | 0 | 113 | 234 |
@@ -331,17 +332,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida base 2026-07-26; +5 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`)
+## Totales acumulados (corrida base 2026-07-26; +6 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (156 publicadas + 6 STAGED) | 162 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.661.660 /mes |
+| Guías (157 publicadas + 6 STAGED) | 163 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.664.230 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.050 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.369 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.292 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.270 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.051 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.420 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.293 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.321 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -352,7 +353,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 15 | 161.600 /mes | 0 | 47 | 3.183 |
+| Sin datos aún (nueva o STAGED) | 16 | 164.170 /mes | 0 | 48 | 3.234 |
 
 ## Caveats (válidos para toda actualización futura)
 
