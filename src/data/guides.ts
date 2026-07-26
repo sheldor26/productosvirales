@@ -2894,11 +2894,12 @@ export const guides: Guide[] = [
       { type: "p", content: `¿Cuándo lo elegís igual? Cuando necesitás calentar un ambiente entero y el consumo es secundario. Si en cambio querés gastar lo mínimo, volvé a las radiantes (cuarzo, halógena) y calentate vos, no el aire. Y si vas a calefaccionar mucho todo el invierno, lo más barato de usar sigue siendo el gas, no la electricidad.` },
 
       { type: "h2", title: `Tabla comparativa: consumo y calor`, id: "tabla-comparativa" },
-      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Calienta`, `Consumo`], rows: [
-        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `{{precio:MLA36753510}}`, `600 / 1200 W`, `La zona de enfrente`, `El menor (en 600 W)`],
-        [`[Estufa halógena Winco](https://meli.la/175r65T)`, `{{precio:MLA68346857}}`, `Direccional`, `A una persona, al instante`, `Bajo en uso puntual`],
-        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `{{precio:MLA34782966}}`, `Aire forzado`, `El ambiente entero`, `El mayor del grupo`],
+      { type: "table", headers: [`Modelo`, `Precio`, `Potencia`, `Costo estimado/hora`, `Calienta`], rows: [
+        [`[Estufa de cuarzo 600/1200W](https://meli.la/2mpDeng)`, `{{precio:MLA36753510}}`, `600 / 1200 W`, `~$99 (en 600 W) / ~$198 (en 1200 W)`, `La zona de enfrente`],
+        [`[Estufa halógena Winco](https://meli.la/175r65T)`, `{{precio:MLA68346857}}`, `Direccional (W no publicado por el fabricante)`, `No calculable sin ese dato`, `A una persona, al instante`],
+        [`[Caloventor Liliana Heatcolor](https://meli.la/2vbeANw)`, `{{precio:MLA34782966}}`, `1000 / 2000 W`, `~$165 (en 1000 W) / ~$330 (en 2000 W)`, `El ambiente entero`],
       ] },
+      { type: "p", content: `**Cómo estimamos el costo:** potencia × 1 hora × $165 (kWh residencial de referencia, punto medio del rango de junio 2026 citado arriba, antes de impuestos). Tu factura real cambia según provincia y subsidio — confirmá el valor en la tuya.` },
 
       { type: "h2", title: `Cómo gastar menos con una estufa eléctrica`, id: "como-elegir" },
       { type: "h3", title: `1. Usá la menor potencia que te alcance` },
@@ -14724,7 +14725,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Por color de envase, los más buscados en Argentina son: **rosa** → Lattafa Yara Tous, Yara Candy, Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
+        content: "Por color de envase, los más buscados en Argentina son: **rosa** → Lattafa Yara Candy, Yara (original), Bade'e Al Oud Noble Blush o Sabah Al Ward. **Dorado** → Lattafa Yara Elixir, Fakhar Gold Extract, Maahir Legacy o Bharara King. **Azul / celeste** → Rasasi Hawas Ice (el clon del Invictus). **Azul oscuro / negro** → Armaf Club de Nuit Intense Man. **Marrón / café** → Lattafa Khamrah Qahwa, Khamrah Parfum, Asad Bourbon o Afnan 9PM. **Rojo o bordó** → Lattafa Asad Intense. Abajo está el detalle de cada uno con perfil olfativo, precio y a quién le queda bien."
       },
       {
         type: "h3",
@@ -14732,7 +14733,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Muchos frascos combinan un color base con un dorado que casi siempre es la tapa o el líquido, no el color que define el aroma. Para identificarlo, fijate en el color que domina. Si viste **azul con dorado**, manda el azul: es un acuático fresco, casi seguro el Rasasi Hawas Ice (el clon del Invictus). **Rojo o bordó con dorado** apunta al Lattafa Asad Intense. **Rosa con dorado** es la línea Lattafa Yara. **Blanco con dorado** suele ser un dulce o floral suave. Y si el frasco es directamente **dorado**, mirá la sección de dorados más abajo (Yara Elixir, Fakhar Gold Extract, Maahir Legacy)."
+        content: "Muchos frascos combinan un color base con un dorado que casi siempre es la tapa o el líquido, no el color que define el aroma. Para identificarlo, fijate en el color que domina. Si viste **azul con dorado**, manda el azul: es un acuático fresco, casi seguro el Rasasi Hawas Ice (el clon del Invictus). **Rojo o bordó con dorado** apunta al Lattafa Asad Intense. **Rosa con dorado** suele ser el Lattafa Yara Candy (el Yara original combina rosa con plateado, no dorado). **Blanco con dorado** suele ser un dulce o floral suave. Y si el frasco es directamente **dorado**, mirá la sección de dorados más abajo (Yara Elixir, Fakhar Gold Extract, Maahir Legacy)."
       },
       {
         type: "trust-block",
@@ -14746,15 +14747,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "El color rosa es el más buscado en perfumes árabes femeninos. La mayoría son de la línea Yara de Lattafa, con tonos que van del pastel al rosa intenso. Estos son los tres principales:"
-      },
-      {
-        type: "product-card",
-        productMlaId: "MLA40521028",
-        variant: "compact",
-        description: "Yara Tous: envase rosa coral con tapa dorada. Tropical-frutal con mango, coco, jazmín y vainilla. 4.7⭐ con 471 reseñas. La opción más fresca de la línea Yara — ideal para verano y uso diurno. Incluye estuche para regalo.",
-        label: "Rosa coral con dorado",
-        labelColor: "blue"
+        content: "El color rosa es el más buscado en perfumes árabes femeninos. La mayoría son de la línea Yara de Lattafa, con tonos que van del pastel al rosa intenso. Estos son los dos principales:"
       },
       {
         type: "product-card",
@@ -14768,8 +14761,8 @@ export const guides: Guide[] = [
         type: "product-card",
         productMlaId: "MLAU2983186467",
         variant: "compact",
-        description: "Yara original: rosa con dorado, el frasco icónico que arrancó el fenómeno TikTok. Tuberosa, almizcle, orquídea y vainilla. Más floral que sus variantes posteriores. La puerta de entrada a la línea.",
-        label: "Rosa-dorado clásico",
+        description: "Yara original: rosa con detalles plateados, el frasco icónico que arrancó el fenómeno TikTok. Tuberosa, almizcle, orquídea y vainilla. Más floral que sus variantes posteriores. La puerta de entrada a la línea.",
+        label: "Rosa con plateado clásico",
         labelColor: "amber"
       },
       {
@@ -14898,27 +14891,23 @@ export const guides: Guide[] = [
       },
       {
         type: "h2",
-        title: "Perfumes árabes blancos"
+        title: "Perfumes árabes blancos y blanco con dorado"
       },
       {
         type: "p",
-        content: "Los frascos blancos son menos comunes y suelen asociarse a perfiles florales-cítricos o limpios. Suelen ser ediciones especiales o líneas específicas de Lattafa y Khamrah que rotan en el catálogo argentino. Si buscás un perfume árabe blanco específico que viste en algún reel, lo mejor es contactarnos con el detalle visual que recuerdes (forma del frasco, tapa, detalles dorados o plateados) para identificarlo. Mientras tanto, el [Lattafa Khamrah Parfum](https://meli.la/139RJXC) en su versión Parfum tiene una variante de packaging blanco con detalles dorados."
-      },
-      {
-        type: "h2",
-        title: "Perfumes árabes violetas y multicolor"
-      },
-      {
-        type: "p",
-        content: "La línea Yara incluye una versión que muchos identifican como violeta o multicolor:"
+        content: "Blanco con dorado es una combinación puntual del nicho árabe: frasco entero blanco con la tapa o detalles metalizados en dorado. El más vendido en Argentina bajo esa descripción es el Yara Moi, la variante más suave de la línea Yara de Lattafa:"
       },
       {
         type: "product-card",
         productMlaId: "MLA32288168",
         variant: "compact",
-        description: "Yara Moi: envase con degradado violeta-rosa-dorado, uno de los más visualmente llamativos de toda la línea Yara. Floral-frutal con notas dulces. Para mujer que busca un Yara con personalidad distinta a Elixir o Tous.",
-        label: "Violeta-rosa-dorado",
+        description: "Yara Moi: frasco blanco entero con detalles metalizados dorados. Floral-frutal-gourmand con pera, jazmín y vainilla — la variante más suave y de menor proyección de toda la línea Yara, pensada para uso diario. 4.7⭐ con más de 4.900 reseñas.",
+        label: "Blanco con dorado",
         labelColor: "amber"
+      },
+      {
+        type: "p",
+        content: "Si en cambio viste un frasco blanco sin dorado, suele tratarse de una edición especial o de línea que rota en el catálogo argentino — contactanos con el detalle visual que recuerdes (forma del frasco, tapa, otros colores) para ayudarte a identificarlo."
       },
       {
         type: "h2",
@@ -14930,7 +14919,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "Lo que ningún reel te dice: el color del envase no determina el aroma. Un perfume rosa puede ser dulce y empalagoso (Yara Candy), fresco y frutal (Yara Tous) o floral seco (Sabah Al Ward). Antes de comprar solo por el color, vale la pena chequear el perfil olfativo real."
+        content: "Lo que ningún reel te dice: el color del envase no determina el aroma. Un perfume rosa puede ser dulce y empalagoso (Yara Candy) o floral seco (Sabah Al Ward). Antes de comprar solo por el color, vale la pena chequear el perfil olfativo real."
       },
       {
         type: "h2",
@@ -14968,7 +14957,7 @@ export const guides: Guide[] = [
     faq: [
       {
         question: "¿Cómo se llama el perfume árabe rosa más vendido?",
-        answer: "Si es rosa coral con tapa dorada, es Lattafa Yara Tous (tropical-frutal con mango y coco). Si es rosa intenso con dorado, es Lattafa Yara Candy (gourmand dulce). Si es rosa-dorado clásico con dibujo central, es Lattafa Yara (la versión original). Los tres son de la línea Yara de Lattafa."
+        answer: "Si es rosa intenso con dorado, es Lattafa Yara Candy (gourmand dulce). Si es rosa con detalles plateados y dibujo central, es Lattafa Yara (la versión original). Los dos son de la línea Yara de Lattafa."
       },
       {
         question: "¿Cuál es el perfume árabe dorado más buscado?",
