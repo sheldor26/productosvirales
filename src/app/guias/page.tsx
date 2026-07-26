@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { getPublishedGuides, guideCategories } from "@/data/guides";
+import { getPublishedGuides, guideCategories, guideSilos, getDisplaySilo } from "@/data/guides";
 import { guideHref, guideUrl } from "@/lib/guide-url";
 import { getGuideThumbnail } from "@/lib/guide-thumbnail";
 import { getGuideCardSignals } from "@/lib/guide-card-signals";
@@ -210,16 +210,40 @@ function SatelliteCard({ guide }: { guide: Guide }) {
 
 export default function GuiasIndexPage() {
   const published = [...getPublishedGuides()].sort(compareGuidesByNewest);
-  const grouped = published.reduce<Record<string, typeof published>>((acc, guide) => {
+
+  // Nivel 1: categoría (necesario para separar pilar de satélites dentro de cada una).
+  const byCategory = published.reduce<Record<string, typeof published>>((acc, guide) => {
     if (!acc[guide.category]) acc[guide.category] = [];
     acc[guide.category].push(guide);
     return acc;
   }, {});
 
-  const categoriesForNav = Object.entries(grouped).map(([slug, items]) => ({
-    slug,
-    name: guideCategories[slug]?.name || slug,
-    count: items.length,
+  // Nivel 2: silo. Agrupa categorías por su silo real (o el fallback de categorías
+  // legacy sin `silo`, solo para esta vista — no afecta URLs, ver categorySiloFallback).
+  const bySilo: Record<string, { slug: string; guides: typeof published }[]> = {};
+  for (const [categorySlug, categoryGuides] of Object.entries(byCategory)) {
+    const silo = getDisplaySilo(categoryGuides[0]);
+    if (!bySilo[silo]) bySilo[silo] = [];
+    bySilo[silo].push({ slug: categorySlug, guides: categoryGuides });
+  }
+
+  // Silos y categorías ordenados por cantidad de guías, de mayor a menor.
+  const siloEntries = Object.entries(bySilo)
+    .map(([siloSlug, categories]) => ({
+      slug: siloSlug,
+      name: guideSilos[siloSlug]?.name || siloSlug,
+      description: guideSilos[siloSlug]?.description,
+      categories: categories
+        .map((c) => ({ ...c, count: c.guides.length }))
+        .sort((a, b) => b.count - a.count),
+      count: categories.reduce((sum, c) => sum + c.guides.length, 0),
+    }))
+    .sort((a, b) => b.count - a.count);
+
+  const categoriesForNav = siloEntries.map((s) => ({
+    slug: s.slug,
+    name: s.name,
+    count: s.count,
   }));
 
   const totalProducts = published.reduce((sum, g) => {
@@ -302,7 +326,7 @@ export default function GuiasIndexPage() {
       <div className="flex flex-wrap gap-x-3.5 gap-y-1.5 text-[12.5px] text-[var(--text-muted)] mb-4">
         <span>
           <strong className="text-[var(--text-primary)] font-bold">
-            {categoriesForNav.length} categorías
+            {categoriesForNav.length} temas
           </strong>
         </span>
         <span>
@@ -319,19 +343,19 @@ export default function GuiasIndexPage() {
       </div>
 
       <nav
-        aria-label="Categorías de guías"
+        aria-label="Silos de guías"
         className="sticky top-14 md:top-16 z-40 -mx-4 md:-mx-6 px-4 md:px-6 py-2.5 bg-[var(--bg-primary)]/90 backdrop-blur-xl border-b border-[var(--border)] mb-6"
       >
         <ul className="flex flex-wrap gap-[7px] overflow-x-auto">
-          {categoriesForNav.map((cat) => (
-            <li key={cat.slug}>
+          {categoriesForNav.map((silo) => (
+            <li key={silo.slug}>
               <a
-                href={`#cat-${cat.slug}`}
+                href={`#silo-${silo.slug}`}
                 className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[13px] font-semibold border border-[var(--border)] bg-[var(--bg-primary)] text-[var(--text-primary)] hover:bg-[var(--bg-secondary)] transition-colors whitespace-nowrap"
               >
-                <span>{cat.name}</span>
+                <span>{silo.name}</span>
                 <span className="text-[11.5px] text-[var(--text-muted)]">
-                  {cat.count}
+                  {silo.count}
                 </span>
               </a>
             </li>
@@ -339,42 +363,64 @@ export default function GuiasIndexPage() {
         </ul>
       </nav>
 
-      {Object.entries(grouped).map(([categorySlug, categoryGuides]) => {
-        const cat = guideCategories[categorySlug];
-        const pillar = categoryGuides.find((g) => g.pillar);
-        const satellites = pillar
-          ? categoryGuides.filter((g) => g.slug !== pillar.slug)
-          : categoryGuides;
-        return (
-          <section
-            key={categorySlug}
-            id={`cat-${categorySlug}`}
-            className="mb-10 md:mb-[42px] scroll-mt-32 md:scroll-mt-36"
+      {siloEntries.map((silo) => (
+        <section
+          key={silo.slug}
+          id={`silo-${silo.slug}`}
+          className="mb-14 md:mb-16 scroll-mt-32 md:scroll-mt-36"
+        >
+          <h2
+            className="text-[28px] md:text-[32px] font-extrabold text-[var(--text-primary)] mb-1"
+            style={{ fontFamily: "var(--font-display)" }}
           >
-            <h2
-              className="text-2xl md:text-[27px] font-extrabold text-[var(--text-primary)] mb-1"
-              style={{ fontFamily: "var(--font-display)" }}
-            >
-              {cat?.name || categorySlug}
-            </h2>
-            {cat?.description && (
-              <p className="text-[14.5px] text-[var(--text-secondary)] mb-3.5 max-w-[680px]">
-                {cat.description}
-              </p>
-            )}
+            {silo.name}
+          </h2>
+          {silo.description && (
+            <p className="text-[15px] text-[var(--text-secondary)] mb-6 max-w-[680px]">
+              {silo.description}
+            </p>
+          )}
 
-            {pillar && <PillarCard guide={pillar} />}
+          {silo.categories.map(({ slug: categorySlug, guides: categoryGuides }) => {
+            const cat = guideCategories[categorySlug];
+            const pillar = categoryGuides.find((g) => g.pillar);
+            const satellites = pillar
+              ? categoryGuides.filter((g) => g.slug !== pillar.slug)
+              : categoryGuides;
+            return (
+              <div
+                key={categorySlug}
+                id={`cat-${categorySlug}`}
+                className="mb-10 md:mb-[42px] scroll-mt-32 md:scroll-mt-36 last:mb-0"
+              >
+                {silo.categories.length > 1 && (
+                  <h3
+                    className="text-lg md:text-xl font-extrabold text-[var(--text-primary)] mb-1"
+                    style={{ fontFamily: "var(--font-display)" }}
+                  >
+                    {cat?.name || categorySlug}
+                  </h3>
+                )}
+                {cat?.description && (
+                  <p className="text-[14.5px] text-[var(--text-secondary)] mb-3.5 max-w-[680px]">
+                    {cat.description}
+                  </p>
+                )}
 
-            {satellites.length > 0 && (
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
-                {satellites.map((guide) => (
-                  <SatelliteCard key={guide.slug} guide={guide} />
-                ))}
+                {pillar && <PillarCard guide={pillar} />}
+
+                {satellites.length > 0 && (
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+                    {satellites.map((guide) => (
+                      <SatelliteCard key={guide.slug} guide={guide} />
+                    ))}
+                  </div>
+                )}
               </div>
-            )}
-          </section>
-        );
-      })}
+            );
+          })}
+        </section>
+      ))}
     </div>
   );
 }

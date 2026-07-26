@@ -23069,6 +23069,85 @@ export const guides: Guide[] = [
 
 ];
 
+/**
+ * Metadata de silo, usada SOLO para agrupar visualmente `/guias` (Silo > Categoría).
+ * No tiene relación con las URLs: el campo `silo` de cada Guide (que sí define la
+ * URL, ver guide-url.ts) es independiente. Este mapa cubre los silos reales que
+ * ya usan las guías con `silo` asignado, más "hogar" (nuevo, solo para mostrar
+ * aspiradoras-robot agrupado).
+ */
+export const guideSilos: Record<string, { name: string; description: string }> = {
+  cocina: {
+    name: "Cocina",
+    description: "Todo lo que se usa a diario para cocinar: freidoras, cafeteras, pavas, licuadoras, microondas y más.",
+  },
+  "salud-bienestar": {
+    name: "Salud y bienestar",
+    description: "Equipos para cuidar tu salud y la de tu familia en casa, incluidos los masajeadores.",
+  },
+  "cuidado-personal": {
+    name: "Cuidado personal y belleza",
+    description: "Grooming diario y perfumes árabes: qué rinde de verdad en el uso de todos los días.",
+  },
+  hogar: {
+    name: "Hogar",
+    description: "Aspiradoras robot y otros equipos para mantener la casa limpia sin esfuerzo.",
+  },
+  climatizacion: {
+    name: "Climatización",
+    description: "Calefacción, ventilación y aire acondicionado para cada época del año.",
+  },
+  seguridad: {
+    name: "Seguridad",
+    description: "Cámaras, alarmas y cerraduras para cuidar tu casa, comparadas por marca y por uso.",
+  },
+  "agua-caliente": {
+    name: "Agua caliente",
+    description: "Termotanques y duchas eléctricas: cuál conviene según tu instalación y tu familia.",
+  },
+  "bebidas-termicas": {
+    name: "Bebidas térmicas y mate",
+    description: "Termos, botellas térmicas y bombillas: todo para el mate y la hidratación diaria.",
+  },
+  audio: {
+    name: "Audio",
+    description: "Auriculares y parlantes, comparados por marca, uso y precio real de MercadoLibre.",
+  },
+  gaming: {
+    name: "Gaming",
+    description: "Mouse, teclado, silla, auriculares y monitor para armar tu setup.",
+  },
+  tech: {
+    name: "Tech",
+    description: "Proyectores, smartwatches, streaming y otros gadgets para el día a día.",
+  },
+  juguetes: {
+    name: "Juguetes y regalos",
+    description: "Qué regalar según la edad y la ocasión: fechas especiales, peluches y juguetes virales.",
+  },
+};
+
+/**
+ * Categorías legacy que nunca tuvieron `silo` asignado en su Guide (contenido
+ * de antes de que existiera esa convención). Este mapa es SOLO para decidir en
+ * qué sección de silo cae cada una en `/guias` — no toca el campo real `silo`
+ * de esas guías ni su URL (siguen siendo `/guias/{slug}`, sin migrar).
+ */
+export const categorySiloFallback: Record<string, string> = {
+  "freidoras-de-aire": "cocina",
+  cafeteras: "cocina",
+  "pavas-electricas": "cocina",
+  licuadoras: "cocina",
+  masajeadores: "salud-bienestar",
+  "perfumes-arabes": "cuidado-personal",
+  "aspiradoras-robot": "hogar",
+};
+
+/** Silo de display de una guía para `/guias`: el real si lo tiene, si no el fallback por categoría legacy. */
+export function getDisplaySilo(g: Pick<Guide, "silo" | "category">): string {
+  return g.silo || categorySiloFallback[g.category] || "otros";
+}
+
 export const guideCategories: Record<string, { name: string; description: string }> = {
   "fechas-especiales": {
     name: "Guías de Fechas Especiales",
