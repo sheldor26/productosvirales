@@ -677,6 +677,134 @@ def cmd_alerts(args):
 
 
 # ---------------------------------------------------------------------------
+# Query -> paginas: pivot inverso al de "report"/"audit".
+# ---------------------------------------------------------------------------
+def cmd_query_pages(args):
+    """Para una o mas queries exactas, que URLs base reciben impresiones.
+
+    Es el pivot inverso al de "report"/"audit" (que van pagina -> query):
+    sirve para revisar a mano una query puntual, incluso con pocas
+    impresiones (donde `audit` nunca la va a mostrar por no llegar a
+    MIN_IMPRESSIONS), o para chequear una lista de variantes de una sola
+    vez. `audit` seccion [3] ya hace este mismo pivot mirando TODO el sitio,
+    pero solo arriba de ese piso: esto es la version dirigida, sin piso,
+    para cuando ya tenes las queries que te interesan.
+
+    LIMITE DURO, no cosmetico: la API de GSC no reporta cada query
+    individual que recibio una pagina. Google aplica un umbral de privacidad
+    y omite las queries mas raras o identificables (ver la documentacion
+    oficial de Search Console sobre "queries filtradas por privacidad").
+    Consecuencia medida en este proyecto (snapshot #30, 27/6-24/7 2026):
+    una pagina con 3.111 impresiones reales (dimension "page") solo mostro
+    732 en la dimension "page_query" -> 24% de cobertura. No es un caso
+    raro: las 4 URLs del cluster de perfumes arabes midieron entre 24% y
+    50% de cobertura ese mismo dia.
+
+    Por eso cada fila de este reporte imprime su % de cobertura, y por eso
+    "no aparece ninguna otra URL compitiendo" se imprime como NO VERIFICABLE
+    (no como negativo/REFUTADA) cuando la cobertura es baja: la ausencia de
+    una URL competidora en el 24% de los datos que Google te deja ver no es
+    evidencia de que no exista en el 76% que no te muestra. El unico chequeo
+    que cierra el diagnostico con cobertura baja es manual: buscar la query
+    en incognito, sin sesion, y ver que URL muestra Google.
+
+    Quien lea "ninguna otra URL compite" en un output de este comando dentro
+    de 6 meses y no se acuerde de este limite, va a leerlo como un negativo
+    limpio. No lo es. Este docstring existe para que esa lectura no pase.
+    """
+    conn = db()
+    snap_id, s, e = latest_snapshot(conn)  # solo Google: Bing no tiene dim 'page_query'
+    print(f"=== QUERY -> PAGINAS (snapshot #{snap_id}, {s} a {e}) ===\n")
+    if args.breakdown:
+        print("(--breakdown: fragments # SIN colapsar a su URL base)\n")
+
+    # Total de impresiones por URL base (dim 'page') para el chequeo de cobertura.
+    page_totals = {}
+    for key1, impr in conn.execute(
+        "SELECT key1, impressions FROM metrics WHERE snapshot_id=? AND dim_type='page'",
+        (snap_id,),
+    ).fetchall():
+        base = canonical_gsc_url(key1)
+        page_totals[base] = page_totals.get(base, 0) + impr
+
+    # Suma de impresiones visibles por query, por URL base, para la misma
+    # cuenta de cobertura (cuanto de esa URL SI aparece en dim 'page_query').
+    pq_totals = {}
+    for key1, impr in conn.execute(
+        "SELECT key1, impressions FROM metrics WHERE snapshot_id=? AND dim_type='page_query'",
+        (snap_id,),
+    ).fetchall():
+        base = canonical_gsc_url(key1)
+        pq_totals[base] = pq_totals.get(base, 0) + impr
+
+    multi_url_queries = []  # para el resumen final si vinieron 2+ queries
+
+    for query in args.query:
+        rows = conn.execute(
+            "SELECT key1, clicks, impressions, position FROM metrics"
+            " WHERE snapshot_id=? AND dim_type='page_query' AND lower(key2)=lower(?)",
+            (snap_id, query),
+        ).fetchall()
+        print(f'"{query}"')
+        if not rows:
+            print("  Sin datos: 0 impresiones, o Google no reporta esta query individualmente"
+                  " (umbral de privacidad). No es lo mismo que 'nadie rankea para esto'.\n")
+            continue
+
+        if args.breakdown:
+            grouped = {}
+            for url, clicks, impr, pos in rows:
+                d = grouped.setdefault(url, {"clicks": 0.0, "impr": 0.0, "pos": pos})
+                d["clicks"] += clicks
+                d["impr"] += impr
+        else:
+            grouped = {}
+            for url, clicks, impr, pos in rows:
+                base = canonical_gsc_url(url)
+                d = grouped.setdefault(base, {"clicks": 0.0, "impr": 0.0, "pos_w": 0.0})
+                d["clicks"] += clicks
+                d["impr"] += impr
+                d["pos_w"] += pos * impr
+
+        table = []
+        for url, d in grouped.items():
+            pos = d["pos"] if args.breakdown else (d["pos_w"] / d["impr"] if d["impr"] else 0)
+            short = url.replace("https://productosvirales.com.ar", "")
+            base = url if args.breakdown else canonical_gsc_url(url)
+            covered = pq_totals.get(canonical_gsc_url(base), 0)
+            total = page_totals.get(canonical_gsc_url(base), 0)
+            coverage = f"{100*covered/total:.0f}%" if total else "?"
+            table.append((short, round(d["clicks"]), round(d["impr"]), round(pos, 1), coverage))
+        table.sort(key=lambda r: -r[2])
+        _fmt(table, ["url", "clicks", "impr", "pos", "cobertura_url"])
+
+        n_urls = len({canonical_gsc_url(u) for u, *_ in rows})
+        if n_urls >= 2:
+            print(f"  -> {n_urls} URLs base compiten por esta query.")
+            multi_url_queries.append((query, n_urls))
+        else:
+            min_cov = min(
+                (100 * pq_totals.get(canonical_gsc_url(u), 0) / page_totals.get(canonical_gsc_url(u), 1))
+                for u, *_ in rows
+            )
+            if min_cov < 50:
+                print(f"  -> 1 sola URL visible, pero cobertura de datos baja (~{min_cov:.0f}%)."
+                      " NO VERIFICABLE con esto solo: confirma a mano en incognito.")
+            else:
+                print("  -> 1 sola URL visible, con cobertura de datos razonable.")
+        print()
+
+    if len(args.query) > 1:
+        print("=== RESUMEN: queries con 2+ URLs base compitiendo ===")
+        if multi_url_queries:
+            _fmt(multi_url_queries, ["query", "n_urls"])
+        else:
+            print("  Ninguna de las queries pasadas tiene mas de una URL base compitiendo"
+                  " (sujeto a la cobertura de datos de cada una, ver arriba).")
+    conn.close()
+
+
+# ---------------------------------------------------------------------------
 # Utilidades
 # ---------------------------------------------------------------------------
 def cmd_setup_check(args):
@@ -761,6 +889,11 @@ def main():
     al = sub.add_parser("alerts", help="cambios fuertes vs snapshot anterior")
     al.add_argument("--top", type=int, default=25)
 
+    qp = sub.add_parser("query-pages", help="query -> que URLs aparecen (pivot inverso, para chequeo dirigido)")
+    qp.add_argument("query", nargs="+", help="una o mas queries exactas (comparacion sin importar mayusculas)")
+    qp.add_argument("--breakdown", action="store_true",
+                     help="mostrar fragments # sin colapsar a su URL base (default: colapsados)")
+
     sub.add_parser("history", help="lista los snapshots guardados")
 
     args = p.parse_args()
@@ -772,6 +905,7 @@ def main():
         "oportunidades": cmd_oportunidades,
         "report": cmd_report,
         "alerts": cmd_alerts,
+        "query-pages": cmd_query_pages,
         "history": cmd_history,
     }[args.cmd](args)
 
