@@ -598,6 +598,18 @@ Origen: siguiente ítem del loop de link building del mismo día. "yogurtera dae
 
 **Nota:** Codex señaló de paso que el pilar `yogurtera` tiene números levemente desactualizados para Yelmo (12.296 vs 12.393 real) y Daewoo (350 vs 358 real), diferencias del 1-2% dentro del crecimiento orgánico normal — no se corrigieron por no calificar como staleness real (a diferencia de los casos de Sony/Xiaomi/Ezviz de hoy, con brechas del 7% al 110%).
 
+### Guía nueva 2026-07-26 (satélite de marca "camara-tplink-tapo", silo seguridad) — publicada de inmediato
+
+Origen: último ítem del loop de link building del mismo día. "cámara TP-Link Tapo" mide 1.020 vol/mes (Keyword Planner). Mismo patrón "gama de marca" que `camara-ezviz` (publicada hoy mismo): TP-Link tiene 3 productos reales de cámaras (`MLA19663400` Tapo C210 individual, `MLA34238889` kit C200 x2 interior, `MLA37095830` kit C500 x2 exterior con IA), repartidos hasta ahora en dos guías distintas del sitio (el pilar `camara-de-seguridad` tenía la C210; la satélite `kit-camaras-seguridad` tenía los dos kits) sin que existiera una guía dedicada a la marca. Esta satélite los consolida en un solo lugar.
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| camara-tplink-tapo | seguridad (satélite de `camara-de-seguridad` y `kit-camaras-seguridad`) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **GO unánime en primera ronda**, sin bloqueantes ni mejoras opcionales |
+
+**Efecto colateral encontrado y corregido:** dos reviewCount desactualizados de TP-Link Tapo ya existían desde antes de esta sesión: la C210 decía "más de 5.600 calificaciones" en 5 lugares (pilar + ficha `MLA19663400`) cuando el real actual es 6.349; el kit C200 x2 decía "236 calificaciones" en 3 lugares (guía `kit-camaras-seguridad` + ficha `MLA34238889`) cuando el real actual es 613 — una brecha del 160%, la segunda más grande de la sesión después del Xiaomi Redmi Buds (110%). Se corrigieron los 8 lugares antes de escribir la guía nueva.
+
+**Cierre del loop de guías nuevas del día:** con esta guía se completan 9 de las 11 keywords identificadas en el loop de link building ("arrancá con Termo Stanley... hacelas en loop"). Quedan pendientes: "microondas LG" (720/mes, siguiente y última) y las dos descartadas por autocanibalización real (ventilador de techo retráctil/con luz, ya documentadas arriba).
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

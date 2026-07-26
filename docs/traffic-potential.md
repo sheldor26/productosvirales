@@ -85,10 +85,10 @@ compite de verdad la keyword principal:
 | Grupo | Guías (publicadas) | Volumen | Hoy (real) | Realista | Techo |
 |---|---:|---:|---:|---:|---:|
 | Genérico / alta competencia | 67 | 1.326.250 /mes | 753 | 53.758 | 136.099 |
-| Cola / marca (creíble en DA1) | 91 | 339.580 /mes | 766 | **10.294** | **29.353** |
+| Cola / marca (creíble en DA1) | 92 | 340.600 /mes | 766 | **10.295** | **29.373** |
 
-**El número para planificar es el de "cola/marca": ≈10.294/mes realista,
-≈29.353/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta` y `yogurtera-daewoo`).** El bloque genérico queda como techo aspiracional,
+**El número para planificar es el de "cola/marca": ≈10.295/mes realista,
+≈29.373/mes techo (actualizado 2026-07-26 con el alta de `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo` y `camara-tplink-tapo`).** El bloque genérico queda como techo aspiracional,
 condicionado a que en algún momento haya link building real — no es algo
 que vaya a moverse solo con más guías o mejor enlazado interno.
 
@@ -279,6 +279,7 @@ demanda real por ese solapamiento. Ver caveats.
 | kit-camaras-seguridad | kit de camaras de seguridad | Genérico (alta comp.) | 1.300 | Pos 11.6 | 1 | 19 | 61 |
 | licuadora-atma | licuadora atma | Cola/marca (viable) | 1.300 | Pos 8.3 | 0 | 44 | 126 |
 | pava-electrica-mercadolibre | pava electrica mercadolibre | Cola/marca (viable) | 1.300 | Pos 9.0 | 0 | 33 | 86 |
+| camara-tplink-tapo | camara tp-link tapo | Cola/marca (viable) | 1.020 | Sin datos aun | 0 | 1 | 20 |
 | auriculares-deportivos | auriculares deportivos | Genérico (alta comp.) | 1.000 | Pos 7.0 | 1 | 47 | 97 |
 | pava-electrica-oster | pava electrica oster | Cola/marca (viable) | 1.000 | Pos 8.2 | 0 | 34 | 97 |
 | gadnic-freidora-review | freidora de aire gadnic | Cola/marca (viable) | 1.000 | Pos 7.7 | 3 | 34 | 97 |
@@ -333,17 +334,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida base 2026-07-26; +7 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo`)
+## Totales acumulados (corrida base 2026-07-26; +8 filas el mismo día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo`, `camara-tplink-tapo`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (158 publicadas + 6 STAGED) | 164 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.665.830 /mes |
+| Guías (159 publicadas + 6 STAGED) | 165 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.666.850 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.052 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.452 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.294 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.353 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.053 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.472 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.295 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.373 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -354,7 +355,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 17 | 165.770 /mes | 0 | 49 | 3.266 |
+| Sin datos aún (nueva o STAGED) | 18 | 166.790 /mes | 0 | 50 | 3.286 |
 
 ## Caveats (válidos para toda actualización futura)
 

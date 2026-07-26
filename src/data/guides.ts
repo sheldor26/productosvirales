@@ -3550,7 +3550,7 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `"Fácil de instalar. Cumple las especificaciones, hace bien el seguimiento de personas y se bancó bien una tormenta que voló el techo de la cochera donde está instalada, así que conforme."`, attribution: `Opinión verificada en MercadoLibre` },
 
       { type: "h3", title: `3. TP-Link Tapo C210 — la mejor calificada` },
-      { type: "product-card", productMlaId: "MLA19663400", label: "Mejor calificada", labelColor: "purple", ranking: 3, description: `2K real de 3 MP, giro de 360° y la mejor app del grupo. 4.9 estrellas en más de 5.600 calificaciones, con 90% de 5 estrellas. Solo interior.` },
+      { type: "product-card", productMlaId: "MLA19663400", label: "Mejor calificada", labelColor: "purple", ranking: 3, description: `2K real de 3 MP, giro de 360° y la mejor app del grupo. 4.9 estrellas en más de 6.300 calificaciones, con 90% de 5 estrellas. Solo interior.` },
       { type: "p", content: `Si la vigilancia es adentro (living, entrada interna, bebé, mascotas), la Tapo C210 es la compra más segura del catálogo: **4.9 de promedio**, resolución **2K de 3 MP real** que verificamos contra la página de TP-Link Argentina, giro de 360° y una app que maneja hasta 32 cámaras sin pedirte suscripción, a alrededor de $50.000.` },
       { type: "p", content: `Sus límites son claros: es **solo de interior** (ignorá el IP67 que aparece en la ficha de MercadoLibre: el fabricante no lo respalda) y solo se conecta a Wi-Fi de **2.4 GHz**. El gasto oculto lo avisa una reseña: las micro-SD grandes cuestan casi la mitad de la cámara.` },
       { type: "pull-quote", content: `"Por poca diferencia los 2K se ven. Dato de color: las tarjetas micro SD cuestan casi la mitad de la cámara."`, attribution: `Opinión verificada en MercadoLibre` },
@@ -3618,6 +3618,7 @@ export const guides: Guide[] = [
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
       { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
+      { label: "Cámaras TP-Link Tapo: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-tplink-tapo" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
       { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
       { label: "Termotanque eléctrico: cuál comprar y cuál conviene", href: "/guias/agua-caliente/termotanque-electrico" },
@@ -3815,6 +3816,7 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cámaras de seguridad: la guía completa", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
+      { label: "Cámaras TP-Link Tapo: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-tplink-tapo" },
       { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
     ],
     internalLinksTitle: "Más guías de seguridad",
@@ -3870,7 +3872,7 @@ export const guides: Guide[] = [
       { type: "pull-quote", content: `Es la primera cámara que compro. He estado usando la Tapo durante casi una semana y me ha gustado mucho. Punto negativo: por más que reduzca la sensibilidad del movimiento, ella notifica cualquier movimiento, por lo que llegan más de 100 notificaciones al celular y tengo que filtrar manualmente lo que es relevante.`, attribution: `— Comprador verificado en MercadoLibre, 4 de 5 estrellas, 2025` },
 
       { type: "h3", title: `2. TP-Link Tapo C200 x2 — el más económico` },
-      { type: "product-card", productMlaId: "MLA34238889", label: "El más económico", labelColor: "amber", ranking: 2, description: `Dos cámaras WiFi motorizadas de interior, el kit más barato de esta guía. 4.9 estrellas en 236 calificaciones.` },
+      { type: "product-card", productMlaId: "MLA34238889", label: "El más económico", labelColor: "amber", ranking: 2, description: `Dos cámaras WiFi motorizadas de interior, el kit más barato de esta guía. 4.9 estrellas en más de 610 calificaciones.` },
       { type: "p", content: `Para interior (living, cuarto del bebé, depósito chico) al menor precio, el Tapo C200 x2 cumple de sobra: gira 360° en horizontal, tiene audio bidireccional y se instala solo con un enchufe cerca, a alrededor de {{precio:MLA34238889:k}}. Es el kit más económico de esta comparativa.` },
       { type: "p", content: `Lo honesto: es solo de interior, sin certificación de resistencia al agua, y no tiene visión nocturna a color como el Tapo C500. Su memoria máxima (64 GB) también es la más chica de esta guía.` },
 
@@ -3916,8 +3918,99 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Cámaras de seguridad: cuál comprar en Argentina", href: "/guias/seguridad/camara-de-seguridad" },
       { label: "Cámara de seguridad exterior: cuál comprar", href: "/guias/seguridad/camara-de-seguridad-exterior" },
+      { label: "Cámaras TP-Link Tapo: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-tplink-tapo" },
       { label: "Alarma para casa: cuál comprar en Argentina", href: "/guias/seguridad/alarma-para-casa" },
       { label: "Cerradura inteligente: cuál comprar en Argentina", href: "/guias/seguridad/cerradura-inteligente" },
+    ],
+    internalLinksTitle: "Más guías de seguridad",
+  },
+
+  // SATÉLITE camara-tplink-tapo (silo seguridad)
+  {
+    slug: "camara-tplink-tapo",
+    category: "seguridad",
+    silo: "seguridad",
+    title: `Cámaras TP-Link Tapo en Argentina: cuál comprar y cuál conviene [2026]`,
+    seoTitle: `Cámaras TP-Link Tapo 2026: Cuál Comprar en Argentina`,
+    metaDescription: `TP-Link Tapo tiene 3 opciones reales en MercadoLibre Argentina: cámara de interior, kit para interior y kit para exterior con IA. Comparamos precio y cuál conviene.`,
+    ogTitle: `Cámaras TP-Link Tapo en Argentina: cuál comprar y cuál conviene`,
+    ogDescription: `La Tapo C210 individual, el kit C200 x2 de interior y el kit C500 x2 de exterior con IA: la gama Tapo real de MercadoLibre Argentina, comparada con precios reales.`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp`,
+    h1: `Cámaras TP-Link Tapo en Argentina: cuál comprar y cuál conviene`,
+    directAnswer: `TP-Link Tapo tiene 3 opciones con volumen de ventas real en MercadoLibre Argentina, cada una para un uso distinto: la **[Tapo C210](/producto/MLA19663400)** (alrededor de {{precio:MLA19663400:k}}), una sola cámara de interior en 2K; el **[kit Tapo C200 x2](/producto/MLA34238889)** (alrededor de {{precio:MLA34238889:k}}), dos cámaras de interior al menor precio; y el **[kit Tapo C500 x2](/producto/MLA37095830)** (alrededor de {{precio:MLA37095830:k}}), la única opción para exterior, con detección de personas por IA. Elegís según cuántos puntos querés cubrir y si es adentro o afuera.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `TP-Link Tapo no tiene una sola cámara en Argentina: tiene tres, cada una para un uso distinto, repartidas hoy en dos guías del sitio. Acá las juntamos para que compares la gama completa de la marca de una sola vez, con precios reales de MercadoLibre.`,
+    quickPicks: [
+      { productMlaId: "MLA19663400", label: "Una sola cámara, 2K", labelColor: "purple", tagline: "Tapo C210: interior, la mejor calificada de la categoría" },
+      { productMlaId: "MLA34238889", label: "Kit interior económico", labelColor: "amber", tagline: "Tapo C200 x2: dos cámaras de interior, el kit más barato" },
+      { productMlaId: "MLA37095830", label: "Kit exterior con IA", labelColor: "blue", tagline: "Tapo C500 x2: detección de personas por IA, apto exterior" },
+    ],
+    intro: [
+      `Si buscás "cámara TP-Link Tapo" en Argentina, la marca no tiene un único producto: tiene tres con volumen de ventas real en MercadoLibre, y cada uno resuelve algo distinto. La Tapo C210 es una sola cámara de interior en 2K. El kit C200 x2 son dos cámaras de interior al menor precio. Y el kit C500 x2 es la única opción de la marca apta para exterior, con detección de personas por inteligencia artificial.`,
+      `En esta guía juntamos las tres para que compares la gama Tapo de una sola vez. Hoy están repartidas en dos guías distintas del sitio (la [general de cámaras de seguridad](/guias/seguridad/camara-de-seguridad) y la de [kits de cámaras](/guias/seguridad/kit-camaras-seguridad)); acá las ves juntas.`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp", alt: `Kit de cámaras TP-Link Tapo C500 x2 para exterior, parte de la gama Tapo en Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el punto de partida es real, no una selección nuestra: son las tres opciones TP-Link Tapo con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Las ordenamos por lo que define la elección dentro de la marca: interior o exterior, una cámara o kit de dos, y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `La gama de cámaras TP-Link Tapo en Argentina`, id: "gama" },
+      { type: "p", content: `Es simple: la **Tapo C210** es una sola cámara de interior, con la mejor imagen (2K real) y la mejor calificación de toda la categoría de cámaras del sitio. El **kit C200 x2** son dos cámaras de interior, pensadas para cubrir dos puntos (living y cuarto del bebé, por ejemplo) al menor precio. Y el **kit C500 x2** es la única opción de exterior de la marca: motorizado, IP65 y con detección de personas por inteligencia artificial. Elegís primero por dónde van las cámaras (adentro o afuera) y por si necesitás una o dos.` },
+
+      { type: "h2", title: `Las cámaras TP-Link Tapo en Argentina`, id: "ranking" },
+
+      { type: "h3", title: `1. Tapo C210 — una sola cámara, 2K` },
+      { type: "product-card", productMlaId: "MLA19663400", label: "Una sola cámara, 2K", labelColor: "purple", ranking: 1, description: `2K real de 3 MP, giro de 360° y la mejor app del grupo. 4.9 estrellas en más de 6.300 calificaciones, la mejor calificada de la categoría. Solo interior.` },
+      { type: "p", content: `Si solo necesitás cubrir un punto de interior con la mejor imagen posible, la Tapo C210 es la elección: **2K reales (3 MP)**, giro de 360° y 4.9 de promedio en más de 6.300 opiniones, la mejor calificación de toda la categoría de cámaras del sitio, a alrededor de {{precio:MLA19663400:k}}.` },
+      { type: "p", content: `Es solo de interior y solo se conecta a Wi-Fi de 2.4 GHz. Si necesitás cubrir dos puntos en vez de uno, seguí leyendo.` },
+
+      { type: "h3", title: `2. Kit Tapo C200 x2 — interior económico` },
+      { type: "product-card", productMlaId: "MLA34238889", label: "Kit interior económico", labelColor: "amber", ranking: 2, description: `Dos cámaras WiFi motorizadas de interior, el kit más barato de la gama. 4.9 estrellas en más de 610 calificaciones.` },
+      { type: "p", content: `Para cubrir dos puntos de interior (living, cuarto del bebé, depósito chico) al menor precio, el kit C200 x2 cumple de sobra: gira 360° en horizontal, tiene audio bidireccional y se instala solo con un enchufe cerca, a alrededor de {{precio:MLA34238889:k}}.` },
+      { type: "p", content: `Es también solo de interior: no tiene certificación de resistencia al agua. Para exterior, la única opción Tapo es la que sigue.` },
+
+      { type: "h3", title: `3. Kit Tapo C500 x2 — exterior con IA` },
+      { type: "product-card", productMlaId: "MLA37095830", label: "Kit exterior con IA", labelColor: "blue", ranking: 3, description: `Dos cámaras WiFi motorizadas para exterior, con detección de personas por IA y visión nocturna a color. 4.8 estrellas en más de 22.500 calificaciones, el kit con mayor historial del catálogo.` },
+      { type: "p", content: `La única opción de exterior de la gama Tapo: certificación **IP65**, motor 360° y **detección de personas por inteligencia artificial** (no cualquier movimiento), con visión nocturna a color, a alrededor de {{precio:MLA37095830:k}}. Con más de 22.500 calificaciones, es también la opción con más respaldo de toda la gama.` },
+
+      { type: "h2", title: `Tabla comparativa: la gama Tapo`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Unidades`, `Interior / exterior`, `Ideal para`], rows: [
+        [`[Tapo C210](https://meli.la/2XP2zp1)`, `{{precio:MLA19663400}}`, `1`, `Interior`, `La mejor imagen (2K)`],
+        [`[Kit Tapo C200 x2](https://meli.la/2neW4V9)`, `{{precio:MLA34238889}}`, `2`, `Interior`, `El kit más barato`],
+        [`[Kit Tapo C500 x2](https://meli.la/2Nnqhhq)`, `{{precio:MLA37095830}}`, `2`, `Exterior (IP65)`, `La única apta para afuera`],
+      ] },
+
+      { type: "h2", title: `Cómo elegir tu Tapo`, id: "como-elegir" },
+      { type: "h3", title: `1. Interior o exterior` },
+      { type: "p", content: `Solo el **kit C500 x2** tiene certificación IP65 para exterior. La C210 y el kit C200 x2 son de interior; a la intemperie no están pensadas para resistir.` },
+      { type: "h3", title: `2. ¿Una cámara o un kit de dos?` },
+      { type: "p", content: `Si necesitás cubrir un solo punto y priorizás la mejor imagen, la C210 sola alcanza. Si necesitás cubrir dos puntos (dos ambientes, o entrada y patio), un kit sale mejor por cámara que comprar dos sueltas.` },
+
+      { type: "h2", title: `Cuánto cuesta una cámara TP-Link Tapo en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA34238889:k}}:** el [kit C200 x2](https://meli.la/2neW4V9), interior, el más barato de la gama.`,
+        `**Alrededor de {{precio:MLA19663400:k}}:** la [Tapo C210](https://meli.la/2XP2zp1), una sola cámara de interior con la mejor imagen.`,
+        `**Alrededor de {{precio:MLA37095830:k}}:** el [kit C500 x2](https://meli.la/2Nnqhhq), la única opción de exterior de la marca.`,
+      ] },
+
+      { type: "h2", title: `Veredicto: cuál Tapo comprar`, id: "veredicto" },
+      { type: "verdict", content: `Para un **solo punto de interior con la mejor imagen**, la **[Tapo C210](/producto/MLA19663400)** (4.9, la mejor calificada de la categoría). Para **cubrir dos puntos de interior gastando lo mínimo**, el **[kit C200 x2](/producto/MLA34238889)**. Y si necesitás **exterior**, el **[kit C500 x2](/producto/MLA37095830)** es la única opción de la marca en este catálogo, con IP65 e inteligencia artificial.` },
+    ],
+    faq: [
+      { question: `¿Cuántas cámaras TP-Link Tapo hay en Argentina?`, answer: `Con volumen de ventas real en MercadoLibre Argentina, tres: la [Tapo C210](https://meli.la/2XP2zp1) (una cámara, interior, 2K), el [kit C200 x2](https://meli.la/2neW4V9) (dos cámaras, interior, el más barato) y el [kit C500 x2](https://meli.la/2Nnqhhq) (dos cámaras, exterior, con IA).` },
+      { question: `¿Cuál es la mejor cámara Tapo para exterior?`, answer: `El [kit C500 x2](https://meli.la/2Nnqhhq) es la única opción de la marca con certificación IP65 para exterior. Suma motor 360° y detección de personas por inteligencia artificial. La C210 y el kit C200 son solo de interior.` },
+      { question: `¿Cuál es la Tapo más barata?`, answer: `El [kit C200 x2](https://meli.la/2neW4V9), a alrededor de {{precio:MLA34238889:k}}. Son dos cámaras de interior, motorizadas, sin certificación de resistencia al agua.` },
+      { question: `¿Conviene la Tapo C210 sola o el kit C200 x2?`, answer: `Depende de cuántos puntos necesitás cubrir. La C210 sola tiene mejor imagen (2K contra Full HD/2MP) y es la mejor calificada de la categoría; el kit C200 x2 te da dos cámaras por un precio conjunto, aunque con menor resolución cada una.` },
+      { question: `¿Las cámaras Tapo necesitan suscripción mensual?`, answer: `No para las funciones básicas: las tres graban en memoria local (micro-SD o SD, no incluida) y se ven desde la app gratis, sin abono obligatorio.` },
+      { question: `¿Por qué el kit C500 x2 tiene tantas más calificaciones que las otras dos?`, answer: `Porque es la opción con más tiempo y rotación en el catálogo argentino: más de 22.500 calificaciones, muy por encima de la C210 (más de 6.300) y el kit C200 (más de 610). Las tres siguen siendo muestras reales, solo que con distinto volumen.` },
+    ],
+    internalLinks: [
+      { label: "Cámaras de seguridad: la guía completa", href: "/guias/seguridad/camara-de-seguridad" },
+      { label: "Kit de cámaras de seguridad: cuál comprar", href: "/guias/seguridad/kit-camaras-seguridad" },
+      { label: "Cámaras Ezviz: cuál comprar (la gama completa)", href: "/guias/seguridad/camara-ezviz" },
     ],
     internalLinksTitle: "Más guías de seguridad",
   },
