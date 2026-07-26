@@ -3817,7 +3817,7 @@ export const guides: Guide[] = [
     metaDescription: `Ezviz tiene 3 cámaras reales en MercadoLibre Argentina: mini económica, motorizada de interior y domo de exterior. Comparamos precio y cuál conviene.`,
     ogTitle: `Cámaras Ezviz en Argentina: cuál comprar y cuál conviene`,
     ogDescription: `La H1C económica, la TY1 con detección humana y la C8c de exterior con IA: la gama Ezviz real de MercadoLibre Argentina, comparada con precios reales.`,
-    ogImage: `https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_631403-MLA112500730672_062026-O.webp`,
     h1: `Cámaras Ezviz en Argentina: cuál comprar y cuál conviene`,
     directAnswer: `Ezviz tiene 3 cámaras con volumen de ventas real en MercadoLibre Argentina, cada una para un uso distinto: la **[H1C](/producto/MLA26988384)** (alrededor de {{precio:MLA26988384:k}}), la más barata, fija y de interior; la **[TY1](/producto/MLA37794717)** (alrededor de {{precio:MLA37794717:k}}), motorizada de interior con detección de figura humana; y la **[C8c](/producto/MLA66806823)** (alrededor de {{precio:MLA66806823:k}}), la única de exterior, motorizada e IP66. Elegís según dónde va y si necesitás que gire.`,
     publishedDate: "2026-07-26",
@@ -3835,7 +3835,7 @@ export const guides: Guide[] = [
       `En esta guía juntamos las tres para que compares la gama Ezviz de una sola vez. Hoy están repartidas en dos guías distintas del sitio (la [general de cámaras de seguridad](/guias/seguridad/camara-de-seguridad) y la de [cámaras para exterior](/guias/seguridad/camara-de-seguridad-exterior)); acá las ves juntas.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_863560-MLA109753503435_032026-O.webp", alt: `Cámara de seguridad Ezviz C8c, domo motorizada para exterior, parte de la gama Ezviz en Argentina`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_631403-MLA112500730672_062026-O.webp", alt: `Cámara de seguridad Ezviz H1C, mini cámara de interior, parte de la gama Ezviz en Argentina`, imageSize: "hero" },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el punto de partida es real, no una selección nuestra: son las tres cámaras Ezviz con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Las ordenamos por lo que define la elección dentro de la marca: interior o exterior, fija o motorizada, y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
 
@@ -4012,7 +4012,7 @@ export const guides: Guide[] = [
     metaDescription: `TP-Link Tapo tiene 3 opciones reales en MercadoLibre Argentina: cámara de interior, kit para interior y kit para exterior con IA. Comparamos precio y cuál conviene.`,
     ogTitle: `Cámaras TP-Link Tapo en Argentina: cuál comprar y cuál conviene`,
     ogDescription: `La Tapo C210 individual, el kit C200 x2 de interior y el kit C500 x2 de exterior con IA: la gama Tapo real de MercadoLibre Argentina, comparada con precios reales.`,
-    ogImage: `https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp`,
+    ogImage: `https://http2.mlstatic.com/D_NQ_NP_725717-MLA99943629485_112025-O.webp`,
     h1: `Cámaras TP-Link Tapo en Argentina: cuál comprar y cuál conviene`,
     directAnswer: `TP-Link Tapo tiene 3 opciones con volumen de ventas real en MercadoLibre Argentina, cada una para un uso distinto: la **[Tapo C210](/producto/MLA19663400)** (alrededor de {{precio:MLA19663400:k}}), una sola cámara de interior en 2K; el **[kit Tapo C200 x2](/producto/MLA34238889)** (alrededor de {{precio:MLA34238889:k}}), dos cámaras de interior al menor precio; y el **[kit Tapo C500 x2](/producto/MLA37095830)** (alrededor de {{precio:MLA37095830:k}}), la única opción para exterior, con detección de personas por IA. Elegís según cuántos puntos querés cubrir y si es adentro o afuera.`,
     publishedDate: "2026-07-26",
@@ -4030,7 +4030,7 @@ export const guides: Guide[] = [
       `En esta guía juntamos las tres para que compares la gama Tapo de una sola vez. Hoy están repartidas en dos guías distintas del sitio (la [general de cámaras de seguridad](/guias/seguridad/camara-de-seguridad) y la de [kits de cámaras](/guias/seguridad/kit-camaras-seguridad)); acá las ves juntas.`,
     ],
     sections: [
-      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_824147-MLA97457212801_112025-O.webp", alt: `Kit de cámaras TP-Link Tapo C500 x2 para exterior, parte de la gama Tapo en Argentina`, imageSize: "hero" },
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_725717-MLA99943629485_112025-O.webp", alt: `Cámara TP-Link Tapo C210 de interior, parte de la gama Tapo en Argentina`, imageSize: "hero" },
 
       { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el punto de partida es real, no una selección nuestra: son las tres opciones TP-Link Tapo con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Las ordenamos por lo que define la elección dentro de la marca: interior o exterior, una cámara o kit de dos, y el precio. Las calificaciones son de compradores reales. Precios de julio 2026, revisados periódicamente.` },
 
