@@ -67,7 +67,9 @@ export function ProductGrid({ products, loading = false, title, subtitle }: Prod
               <ProductCardSkeleton key={i} />
             ))
           : products.map((product, i) => (
-              <ProductCard key={product.id} product={product} priority={i < 2} />
+              // Solo la primera imagen como `priority`: marcar más de una compite
+              // por ancho de banda y empeora el LCP (advertencia de next/image).
+              <ProductCard key={product.id} product={product} priority={i === 0} />
             ))}
       </div>
     </section>

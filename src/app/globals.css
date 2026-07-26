@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
   content: "";
   position: absolute;
   top: 0;
-  left: -150%;
+  left: -30%;
   width: 60%;
   height: 100%;
   background: linear-gradient(
@@ -178,14 +178,16 @@ h1, h2, h3, h4, h5, h6 {
     rgba(255, 255, 255, 0.35) 50%,
     transparent 80%
   );
-  transform: skewX(-20deg);
+  /* transform en vez de animar `left`: composita por GPU en vez de forzar
+     layout en cada frame (Lighthouse: "animación no compuesta"). */
+  transform: skewX(-20deg) translateX(-100%);
   animation: cta-shimmer 3.2s ease-in-out infinite;
   pointer-events: none;
 }
 @keyframes cta-shimmer {
-  0% { left: -150%; }
-  60% { left: 150%; }
-  100% { left: 150%; }
+  0% { transform: skewX(-20deg) translateX(-100%); }
+  60% { transform: skewX(-20deg) translateX(300%); }
+  100% { transform: skewX(-20deg) translateX(300%); }
 }
 
 /* Pulse para badge hot-deal */
