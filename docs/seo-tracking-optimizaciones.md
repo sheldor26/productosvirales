@@ -564,6 +564,16 @@ Origen: siguiente ítem del loop de link building del mismo día. "camara ezviz"
 
 **Efecto colateral encontrado y corregido:** dos reviewCount desactualizados de Ezviz ya existían desde antes de esta sesión: H1C decía "más de 5.700 calificaciones" en 7 lugares (pilar `camara-de-seguridad` + ficha `MLA26988384` en `curated-products.ts`) cuando el real actual es 6.437; TY1 decía "1.898" en 5 lugares (pilar + ficha `MLA37794717`) cuando el real actual es 2.145. Se corrigieron los 12 lugares antes de escribir la guía nueva. Además, el trío encontró de paso una tercera staleness menor no relacionada con Ezviz: la guía `camara-de-seguridad-exterior` y la ficha de la Gadnic DM200W-Pro (`MLA66204799`) citaban "C8c (107)" en 3 lugares cuando el reviewCount real de la C8c es 112 — corregido también.
 
+### Guía nueva 2026-07-26 (satélite de marca "auriculares-xiaomi", silo audio) — publicada de inmediato
+
+Origen: siguiente ítem del loop de link building del mismo día. "auriculares xiaomi" mide 2.900 vol/mes (Keyword Planner). Mismo patrón de producto único que `auriculares-sony` y `microondas-samsung`: Xiaomi tiene un solo modelo real con volumen de ventas en el catálogo (`MLA39962085`, Redmi Buds 6 Play), que además es el quickPick #1 más prominente del pilar `auriculares-inalambricos` (a diferencia de Sony, que era #2). Ambos auditores confirmaron que ser el pick más destacado del pilar no cambia el análisis de canibalización: el pilar resuelve intención de categoría/uso, la satélite resuelve intención de marca.
+
+| Slug | Silo | Estado | Trío (GO) |
+| :-- | :-- | :-- | :-- |
+| auriculares-xiaomi | audio (satélite de `auriculares-inalambricos`) | Publicada 2026-07-26, sin baseline previo | Codex + Gemini/agy: **GO unánime en primera ronda**, con 2 mejoras opcionales aplicadas (ver abajo) |
+
+**Efecto colateral encontrado y corregido (el más grande de la sesión):** el reviewCount del Xiaomi Redmi Buds 6 Play estaba desactualizado en **13 lugares** desde antes de esta sesión (pilar `auriculares-inalambricos`, ficha fuente `MLA39962085` en `curated-products.ts`, y una mención cruzada dentro de la guía `auriculares-sony` publicada hoy mismo): decían "más de 195.000 calificaciones/opiniones" cuando el reviewCount real y actual es 209.810 (diferencia de casi 15.000 reseñas, la brecha más grande encontrada en todo el loop). Se corrigieron los 13 a "más de 209.000". Adicional (mejora opcional de Codex, aplicada): 3 precios hardcodeados viejos del Xiaomi en el pilar ($33.000, cuando el precio real es $23.999) se reemplazaron por el token `{{precio:MLA39962085:k}}`.
+
 ## Mediciones posteriores
 
 > Agregar acá cada re-medición. Formato sugerido: una subsección por fecha de export, con las URLs que cambiaron y el delta contra el baseline (o contra la medición anterior).

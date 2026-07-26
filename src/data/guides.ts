@@ -2411,14 +2411,14 @@ export const guides: Guide[] = [
     ogTitle: `Auriculares inalámbricos: cuál comprar en Argentina`,
     ogDescription: `In-ear baratos, de vincha o con cancelación de ruido. Los auriculares bluetooth más vendidos de Argentina comparados por tipo, uso y precio real de MercadoLibre.`,
     h1: `Auriculares inalámbricos: cuál comprar en Argentina y cuál conviene [2026]`,
-    directAnswer: `Para la mayoría convienen los **Xiaomi Redmi Buds 6 Play** (alrededor de {{precio:MLA39962085:k}}): baratísimos y con más de 195.000 opiniones. Si preferís vincha, la Sony WH-CH520 con hasta 50 horas de batería; para aislarte del ruido, los JBL Tune 770NC con cancelación activa; y para correr, los Alpina F50 Pro con gancho.`,
+    directAnswer: `Para la mayoría convienen los **Xiaomi Redmi Buds 6 Play** (alrededor de {{precio:MLA39962085:k}}): baratísimos y con más de 209.000 opiniones. Si preferís vincha, la Sony WH-CH520 con hasta 50 horas de batería; para aislarte del ruido, los JBL Tune 770NC con cancelación activa; y para correr, los Alpina F50 Pro con gancho.`,
     publishedDate: "2026-07-08",
     updatedDate: "2026-07-08",
     hasDisclosure: true,
     readingTime: 9,
-    standfirst: `Hay auriculares inalámbricos para cada uso y bolsillo: del in-ear de $33.000 a la vincha con cancelación de ruido. Te mostramos los más vendidos de Argentina ordenados por tipo, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
+    standfirst: `Hay auriculares inalámbricos para cada uso y bolsillo: del in-ear de {{precio:MLA39962085:k}} a la vincha con cancelación de ruido. Te mostramos los más vendidos de Argentina ordenados por tipo, qué resignás en cada uno y cuál conviene según para qué los querés, con precios reales de MercadoLibre.`,
     quickPicks: [
-      { productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", tagline: "Xiaomi Redmi Buds 6 Play: in-ear baratísimos, más de 195.000 opiniones" },
+      { productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", tagline: "Xiaomi Redmi Buds 6 Play: in-ear baratísimos, más de 209.000 opiniones" },
       { productMlaId: "MLA23138487", label: "La mejor vincha", labelColor: "blue", tagline: "Sony WH-CH520: hasta 50 horas de batería, la vincha más vendida" },
       { productMlaId: "MLA53285777", label: "Cancelación de ruido", labelColor: "purple", tagline: "JBL Tune 770NC: over-ear con cancelación activa, para aislarte" },
       { productMlaId: "MLA41255867", label: "Para deporte", labelColor: "amber", tagline: "Alpina F50 Pro: con gancho, no se caen al correr, y baratos" },
@@ -2439,8 +2439,8 @@ export const guides: Guide[] = [
       { type: "h2", title: `Los mejores auriculares inalámbricos 2026`, id: "ranking" },
 
       { type: "h3", title: `1. Xiaomi Redmi Buds 6 Play — el más vendido` },
-      { type: "product-card", productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", ranking: 1, description: `In-ear inalámbricos baratísimos, con bluetooth 5.4. 4.8 estrellas en más de 195.000 calificaciones: los auriculares más vendidos de Argentina, por lejos.` },
-      { type: "p", content: `Si querés in-ear que anden bien sin gastar casi nada, son estos. Los Redmi Buds 6 Play son **los más vendidos del país por amplio margen** (más de 195.000 opiniones, un número que no tiene ningún otro) y cuestan alrededor de $33.000. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra. La compra más segura y económica de la categoría.` },
+      { type: "product-card", productMlaId: "MLA39962085", label: "El más vendido", labelColor: "green", ranking: 1, description: `In-ear inalámbricos baratísimos, con bluetooth 5.4. 4.8 estrellas en más de 209.000 calificaciones: los auriculares más vendidos de Argentina, por lejos.` },
+      { type: "p", content: `Si querés in-ear que anden bien sin gastar casi nada, son estos. Los Redmi Buds 6 Play son **los más vendidos del país por amplio margen** (más de 209.000 opiniones, un número que no tiene ningún otro) y cuestan alrededor de {{precio:MLA39962085:k}}. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra. La compra más segura y económica de la categoría.` },
       { type: "p", content: `No esperes el sonido ni la cancelación de unos premium, pero por lo que salen, la relación es imbatible. Si es tu primer par de inalámbricos o querés un repuesto barato y confiable, empezá por acá.` },
 
       { type: "pull-quote", content: `"Excelente en precio/calidad, creo que es lo mejor. Y eso que vengo de usar los AirPods Pro 2: estos buds no tienen nada que envidiarles en calidad de sonido, sinceramente."`, attribution: `Opinión verificada en MercadoLibre` },
@@ -2500,17 +2500,18 @@ export const guides: Guide[] = [
       { type: "verdict", content: `Depende del uso. Para **in-ear que anden bien sin gastar**, los **Xiaomi Redmi Buds 6 Play**: los más vendidos del país por lejos, imbatibles por precio. Si preferís **vincha cómoda con mucha batería**, la **Sony WH-CH520**. Si querés **cancelación de ruido** para aislarte, la **JBL Tune 770NC** (vincha) o los **Galaxy Buds3 Pro** (premium in-ear). Y para **deporte**, los **Alpina F50 Pro** con gancho no se caen al correr. El error a evitar: comprar el formato equivocado o pagar cancelación que no vas a usar. Para la mayoría, los Redmi Buds o la Sony WH-CH520 resuelven todo por poca plata.` },
     ],
     faq: [
-      { question: `¿Cuáles son los mejores auriculares inalámbricos en Argentina?`, answer: `Por ventas y relación precio, los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) en in-ear (más de 195.000 opiniones) y la [Sony WH-CH520](https://meli.la/2t24mSB) en vincha. Si querés cancelación de ruido, la [JBL Tune 770NC](https://meli.la/1mR75zc); para deporte, los [Alpina F50 Pro](https://meli.la/2UAS5x1); y en premium, los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6).` },
+      { question: `¿Cuáles son los mejores auriculares inalámbricos en Argentina?`, answer: `Por ventas y relación precio, los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) en in-ear (más de 209.000 opiniones) y la [Sony WH-CH520](https://meli.la/2t24mSB) en vincha. Si querés cancelación de ruido, la [JBL Tune 770NC](https://meli.la/1mR75zc); para deporte, los [Alpina F50 Pro](https://meli.la/2UAS5x1); y en premium, los [Samsung Galaxy Buds3 Pro](https://meli.la/1REUKv6).` },
       { question: `¿Qué diferencia hay entre auriculares in-ear y de vincha?`, answer: `Los in-ear (earbuds) se meten en la oreja, son chicos, discretos y portátiles, ideales para uso diario y la calle. Las vinchas apoyan sobre o alrededor de la oreja: más cómodas para muchas horas, con más batería y mejor sonido por el precio, pero abultan más. Para llevar siempre, in-ear; para comodidad y autonomía, vincha.` },
       { question: `¿Vale la pena la cancelación de ruido?`, answer: `Si viajás, usás colectivo o trabajás en lugares ruidosos, sí: la cancelación activa te aísla del ruido y mejora mucho la experiencia. La traen la [JBL Tune 770NC](https://meli.la/1mR75zc) y los [Galaxy Buds3 Pro](https://meli.la/1REUKv6). Si es para casa o la calle tranquila, podés ahorrártela y elegir algo más barato como la [Sony WH-CH520](https://meli.la/2t24mSB) o los Redmi Buds.` },
       { question: `¿Cuáles auriculares conviene para hacer deporte?`, answer: `Los que tienen gancho de oreja, que los sujetan firme y no se caen al correr. Los [Alpina F50 Pro](https://meli.la/2UAS5x1) son de los más vendidos en ese formato, inalámbricos y baratos. Los in-ear comunes pueden caerse durante el ejercicio, así que para el gimnasio o salir a correr, el gancho hace la diferencia.` },
-      { question: `¿Cuáles son los auriculares inalámbricos más baratos que valen la pena?`, answer: `Los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) (alrededor de $33.000): son los más vendidos del país y cumplen muy bien para uso diario. Los [Lenovo LivePod LP75](https://meli.la/1S7f74t) son otra opción económica con buen respaldo. Por poca plata dan lo necesario; no hace falta gastar mucho para tener inalámbricos que anden bien.` },
+      { question: `¿Cuáles son los auriculares inalámbricos más baratos que valen la pena?`, answer: `Los [Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR) (alrededor de {{precio:MLA39962085:k}}): son los más vendidos del país y cumplen muy bien para uso diario. Los [Lenovo LivePod LP75](https://meli.la/1S7f74t) son otra opción económica con buen respaldo. Por poca plata dan lo necesario; no hace falta gastar mucho para tener inalámbricos que anden bien.` },
       { question: `¿El bluetooth pierde calidad de sonido frente al cable?`, answer: `En la práctica, para la gran mayoría no se nota. Los códecs actuales (AAC, y en gama media SBC) dan un sonido más que bueno para música, llamadas y videos. La diferencia con el cable existe en equipos de audiófilo y oídos entrenados, pero para uso diario es mínima. Si te preocupa la latencia (que el audio llegue justo con el video o en juegos), ahí sí el cable gana; para escuchar música, el bluetooth está más que bien.` },
       { question: `¿Los in-ear hacen mal al oído o molestan con el uso prolongado?`, answer: `Los in-ear se meten en el canal del oído, así que algunas personas los sienten incómodos en sesiones largas o si el almohadón no es del tamaño justo (casi todos vienen con varios tamaños para probar). Las vinchas reparten la presión sobre o alrededor de la oreja y suelen ser más cómodas para muchas horas. Si vas a usarlos jornadas enteras, una vincha como la [Sony WH-CH520](https://meli.la/2t24mSB) cansa menos; para ratos cortos y portabilidad, los in-ear van bien.` },
     ],
     internalLinks: [
       { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
       { label: "Auriculares Sony: ¿vale la pena la WH-CH520?", href: "/guias/audio/auriculares-sony" },
+      { label: "Auriculares Xiaomi: ¿valen la pena los Redmi Buds?", href: "/guias/audio/auriculares-xiaomi" },
       { label: "Auriculares deportivos: cuál comprar para entrenar", href: "/guias/audio/auriculares-deportivos" },
       { label: "Auriculares profesionales de estudio: cuál comprar", href: "/guias/audio/auriculares-profesionales" },
       { label: "Parlantes bluetooth: la guía completa", href: "/guias/audio/parlantes" },
@@ -2646,7 +2647,7 @@ export const guides: Guide[] = [
 
       { type: "h2", title: `¿Conviene la Sony o te sirve más otra marca?`, id: "conviene" },
       { type: "p", content: `Si lo que buscás en "Sony" es la **cancelación de ruido**, la WH-CH520 no la tiene: para eso, la [JBL Tune 770NC](/producto/MLA53285777) de la guía general cuesta bastante menos que una línea premium y sí cancela el ruido de forma activa. Si lo que te importa es la **batería y el respaldo de marca** sin gastar de más, la Sony cumple mejor que casi cualquier alternativa: 50 horas es de lo más alto del segmento.` },
-      { type: "p", content: `Y si el precio manda por sobre todo, los [Xiaomi Redmi Buds 6 Play](/producto/MLA39962085) salen bastante menos con más de 195.000 opiniones, aunque en formato in-ear (no vincha) y sin el respaldo de marca Sony.` },
+      { type: "p", content: `Y si el precio manda por sobre todo, los [Xiaomi Redmi Buds 6 Play](/producto/MLA39962085) salen bastante menos con más de 209.000 opiniones, aunque en formato in-ear (no vincha) y sin el respaldo de marca Sony.` },
 
       { type: "h2", title: `Tabla comparativa: Sony vs. las alternativas`, id: "tabla-comparativa" },
       { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Cancelación de ruido`, `Ideal para`], rows: [
@@ -2676,7 +2677,82 @@ export const guides: Guide[] = [
     internalLinks: [
       { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
       { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
+      { label: "Auriculares Xiaomi: ¿valen la pena los Redmi Buds?", href: "/guias/audio/auriculares-xiaomi" },
       { label: "Auriculares deportivos: cuál comprar para entrenar", href: "/guias/audio/auriculares-deportivos" },
+    ],
+    internalLinksTitle: "Más sobre audio",
+  },
+
+  // SATÉLITE auriculares-xiaomi (silo audio)
+  {
+    slug: "auriculares-xiaomi",
+    category: "auriculares",
+    silo: "audio",
+    title: `Auriculares Xiaomi en Argentina: los Redmi Buds y si valen la pena [2026]`,
+    seoTitle: `Auriculares Xiaomi 2026: ¿Valen la Pena los Redmi Buds?`,
+    metaDescription: `Los Redmi Buds 6 Play son los auriculares más vendidos de Argentina: más de 209.000 calificaciones a precio bajísimo. Te contamos qué resignan y si conviene.`,
+    ogTitle: `Auriculares Xiaomi en Argentina: los Redmi Buds y si valen la pena`,
+    ogDescription: `Los Xiaomi Redmi Buds 6 Play, el auricular más vendido de Argentina, comparados con la Sony WH-CH520 y la JBL Tune 770NC de la guía general.`,
+    h1: `Auriculares Xiaomi en Argentina: los Redmi Buds y si valen la pena`,
+    directAnswer: `El auricular Xiaomi que domina las ventas en Argentina es el **[Redmi Buds 6 Play](/producto/MLA39962085)** (alrededor de {{precio:MLA39962085:k}}): el más vendido del país por lejos, con más de 209.000 calificaciones. Es in-ear, sin cancelación activa de ruido. Si preferís vincha, comparamos más abajo con la [Sony WH-CH520](/producto/MLA23138487); si necesitás cancelación, la JBL Tune 770NC.`,
+    publishedDate: "2026-07-26",
+    updatedDate: "2026-07-26",
+    hasDisclosure: true,
+    readingTime: 6,
+    standfirst: `Cuando alguien busca "auriculares Xiaomi" en Argentina, la respuesta corta es un solo modelo: el Redmi Buds 6 Play, a alrededor de {{precio:MLA39962085:k}} y con más calificaciones que cualquier otro auricular del catálogo. Te contamos qué trae, qué resigna y cuándo conviene otra marca.`,
+    quickPicks: [
+      { productMlaId: "MLA39962085", label: "El Xiaomi más vendido", labelColor: "green", tagline: "Redmi Buds 6 Play: in-ear baratísimo, más de 209.000 calificaciones" },
+    ],
+    intro: [
+      `Xiaomi vende varias líneas de auriculares en el mundo, pero en MercadoLibre Argentina la que junta ventas y opiniones masivas es una sola: el **Redmi Buds 6 Play**. Es in-ear, económico, y con más calificaciones que cualquier otro auricular de todo el catálogo del sitio, de cualquier marca.`,
+      `En esta guía te contamos qué hace bien el Redmi Buds 6 Play, qué resigna frente a otras marcas y cuándo conviene mirar para otro lado. Si querés ver el panorama completo, mirá la [guía general de auriculares inalámbricos](/guias/audio/auriculares-inalambricos).`,
+    ],
+    sections: [
+      { type: "image", src: "https://http2.mlstatic.com/D_NQ_NP_802305-MLA95679505222_102025-F.jpg", alt: `Auriculares Xiaomi Redmi Buds 6 Play, el modelo Xiaomi más vendido en MercadoLibre Argentina`, imageSize: "hero" },
+
+      { type: "trust-block", trustVariant: "methodology", content: `**Cómo comparamos:** el dato de partida es real, no una selección nuestra: el Redmi Buds 6 Play es el único auricular Xiaomi con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Lo comparamos contra las alternativas de vincha y de cancelación de ruido que ya cubrimos en la guía general de auriculares. Precios de julio 2026, revisados periódicamente.` },
+
+      { type: "h2", title: `Por qué "auriculares Xiaomi" lleva a un solo modelo`, id: "por-que-un-modelo" },
+      { type: "p", content: `Xiaomi vende auriculares de varias gamas en el mundo, pero en MercadoLibre Argentina el que tiene ventas y opiniones masivas es el **Redmi Buds 6 Play**: in-ear económico, con más de 209.000 calificaciones, la base más grande de cualquier auricular del sitio, de cualquier marca. Si buscás "auriculares Xiaomi" pensando en otro modelo de gama más alta, no vas a encontrar ficha con volumen de ventas verificable para eso en este catálogo: este es el punto de referencia real de la marca hoy.` },
+
+      { type: "h2", title: `Redmi Buds 6 Play: qué trae y qué resigna`, id: "redmi-buds" },
+      { type: "product-card", productMlaId: "MLA39962085", label: "El Xiaomi más vendido", labelColor: "green", description: `In-ear inalámbricos baratísimos, con bluetooth 5.4. 4.8 estrellas en más de 209.000 calificaciones: los auriculares más vendidos de Argentina, por lejos.` },
+      { type: "p", content: `Su punto fuerte es el precio y el respaldo: a alrededor de {{precio:MLA39962085:k}}, son **los auriculares más vendidos de Argentina por amplio margen**, con más de 209.000 opiniones, un número que no tiene ningún otro auricular del catálogo. Bluetooth 5.4, hasta 36 horas de batería con el estuche y resistencia IPX4 al sudor y la lluvia liviana. Para uso diario, llamadas, música en la calle y el gimnasio, cumplen de sobra.` },
+      { type: "p", content: `Lo que resignan: **no tienen cancelación activa de ruido** (solo reducción de ruido en las llamadas, no ANC), son in-ear (no vincha) y, si tenés iPhone, perdés el modo de baja latencia pensado para Android/Xiaomi.` },
+
+      { type: "h2", title: `¿Conviene el Xiaomi o te sirve más otra marca?`, id: "conviene" },
+      { type: "p", content: `Si preferís el formato **vincha** (más cómodo para muchas horas, con más batería), la [Sony WH-CH520](/producto/MLA23138487) de esta misma guía cuesta más pero suma esas ventajas. Y si lo que buscás es **cancelación de ruido**, ni el Xiaomi ni la Sony la tienen: para eso, la JBL Tune 770NC de la guía general.` },
+      { type: "p", content: `Si lo único que te importa es gastar lo menos posible con el mayor respaldo de compradores, el Redmi Buds 6 Play es difícil de superar: es, por lejos, el auricular con más calificaciones de todo el sitio.` },
+
+      { type: "h2", title: `Tabla comparativa: Xiaomi vs. las alternativas`, id: "tabla-comparativa" },
+      { type: "table", headers: [`Modelo`, `Precio`, `Formato`, `Cancelación de ruido`, `Ideal para`], rows: [
+        [`[Xiaomi Redmi Buds 6 Play](https://meli.la/1LqPkFR)`, `{{precio:MLA39962085}}`, `In-ear`, `No`, `El precio más bajo, el más vendido`],
+        [`[Sony WH-CH520](https://meli.la/2t24mSB)`, `{{precio:MLA23138487}}`, `Vincha`, `No`, `Comodidad y batería`],
+        [`[JBL Tune 770NC](https://meli.la/1mR75zc)`, `{{precio:MLA53285777}}`, `Vincha`, `Sí, activa`, `Aislarte del ruido`],
+      ] },
+
+      { type: "h2", title: `Cuánto cuesta un auricular Xiaomi en Argentina [julio 2026]`, id: "precios" },
+      { type: "list", items: [
+        `**Alrededor de {{precio:MLA39962085:k}}:** el [Redmi Buds 6 Play](https://meli.la/1LqPkFR), el único modelo Xiaomi con volumen de ventas real en este catálogo.`,
+        `**Si preferís vincha:** la [Sony WH-CH520](https://meli.la/2t24mSB) cuesta más, pero suma comodidad y más batería.`,
+        `**Si necesitás cancelación de ruido:** ninguno de los dos la tiene; para eso, la [JBL Tune 770NC](https://meli.la/1mR75zc).`,
+      ] },
+
+      { type: "h2", title: `Veredicto: ¿comprás el Xiaomi?`, id: "veredicto" },
+      { type: "verdict", content: `Sí, si querés auriculares baratos que anden bien para el uso diario, con el mayor respaldo de compradores de todo el sitio: el **[Redmi Buds 6 Play](/producto/MLA39962085)** cumple de sobra a su precio. No, si preferís vincha (ahí gana la [Sony WH-CH520](/producto/MLA23138487)) o necesitás cancelación de ruido (ahí conviene la JBL Tune 770NC). Para la mayoría que solo quiere algo barato y confiable, el Xiaomi resuelve todo.` },
+    ],
+    faq: [
+      { question: `¿Cuál es el mejor auricular Xiaomi en Argentina?`, answer: `Es el [Redmi Buds 6 Play](https://meli.la/1LqPkFR): el único modelo Xiaomi con volumen de ventas real en MercadoLibre Argentina, y el auricular más vendido de todo el sitio, con más de 209.000 calificaciones.` },
+      { question: `¿Los Redmi Buds 6 Play tienen cancelación de ruido?`, answer: `No tienen cancelación activa (ANC). Solo reducen ruido en las llamadas mediante software. Si necesitás cancelación real para el colectivo o la oficina, mirá la JBL Tune 770NC de la guía general de auriculares.` },
+      { question: `¿Cuánto dura la batería de los Redmi Buds 6 Play?`, answer: `Hasta 7,5 horas por carga en los auriculares, y hasta 36 horas totales usando el estuche de carga. Con 10 minutos de carga por USB-C obtenés unas 2 horas de uso.` },
+      { question: `¿Conviene el Xiaomi o la Sony WH-CH520?`, answer: `Depende del formato. El [Redmi Buds 6 Play](https://meli.la/1LqPkFR) es in-ear y bastante más barato; la [Sony WH-CH520](https://meli.la/2t24mSB) es vincha, más cómoda para muchas horas y con más batería, a mayor precio. Si preferís in-ear y gastar menos, el Xiaomi gana.` },
+      { question: `¿Los Redmi Buds 6 Play sirven con iPhone?`, answer: `Sí, funcionan por Bluetooth con cualquier celular. La única función que se pierde en iPhone es el modo de baja latencia (~80 ms), pensado específicamente para Android/Xiaomi y útil sobre todo para jugar.` },
+      { question: `¿Por qué Xiaomi solo tiene un modelo en esta guía?`, answer: `Porque es el único auricular Xiaomi con volumen de ventas y opiniones verificables en MercadoLibre Argentina hoy. Xiaomi vende otras líneas en el mundo, pero no tienen ficha con historial de ventas real en este catálogo.` },
+    ],
+    internalLinks: [
+      { label: "Auriculares inalámbricos: la guía completa", href: "/guias/audio/auriculares-inalambricos" },
+      { label: "Auriculares Sony: ¿vale la pena la WH-CH520?", href: "/guias/audio/auriculares-sony" },
+      { label: "Auriculares JBL: cuál comprar", href: "/guias/audio/auriculares-jbl" },
     ],
     internalLinksTitle: "Más sobre audio",
   },
