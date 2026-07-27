@@ -16,6 +16,16 @@
 **Archivos involucrados:** `path/a/archivo.ts`
 -->
 
+## 2026-07-26 — Sugerí auditar un "bug" de JSON-LD que en realidad no existía en producción
+
+**Qué pasó:** mientras escribía la guía `proyector-astronauta`, encontré que la ficha `MLA46927234` tenía un bloque JSON-LD manual (`aggregateRating.reviewCount: '415'`, `offers.price: 20999`) desincronizado del campo dinámico real (`reviewCount: 870`, `price: 18673`). Sin revisar cómo se consume ese campo, lo reporté como bug real y lo flageé con `spawn_task` para auditoría aparte. Juan corrió esa tarea en otra sesión; al retomarla yo mismo, leí el renderer real (`src/app/producto/[slug]/page.tsx`) y descubrí que el `aggregateRating` se calcula en vivo desde `product.rating`/`product.reviewCount` cuando ambos existen (que es el caso en 229 de 231 productos con bloque manual) y el `offers.price` siempre usa `product.price` porque el spread lo pisa al final — el bloque manual nunca llega a renderizarse para casi ningún producto. No había ningún bug visible en producción.
+
+**Por qué:** asumí que un dato crudo desincronizado en el archivo fuente implicaba necesariamente una salida incorrecta, sin verificar primero el componente que efectivamente arma el HTML/JSON-LD final. El patrón "dato viejo en curated-products.ts" ya había sido un bug real varias veces esta sesión (Xiaomi, Ezviz, Tapo) porque esos SÍ se leían directo en la prosa de las guías — pero ese precedente no aplicaba acá, porque este campo específico tiene una capa de protección explícita en el código (comentario "aggregateRating SOLO con datos reales").
+
+**Cómo evitarlo:** antes de reportar o delegar la auditoría de un dato "desactualizado", buscar dónde se LEE ese campo (`grep` del nombre del campo en `src/app`/`src/components`) y confirmar si hay lógica que lo transforma/prioriza antes de llegar a la salida final. Un valor crudo desincronizado en la fuente de datos no es lo mismo que un bug de cara al usuario — sobre todo en un código base donde ya existen guardas explícitas para este patrón exacto.
+
+**Archivos involucrados:** `src/data/curated-products.ts` (dato crudo, sin cambios — no hizo falta), `src/app/producto/[slug]/page.tsx` (donde estaba la protección que no había leído).
+
 ## 2026-07-19 — `until true; do ...; done` como loop de espera: nunca corre el body
 
 **Qué pasó:** al esperar en background 5 auditorías paralelas de Codex/Gemini (trio-auditor sobre 4 guías), escribí un script de espera con `until true; do ... sleep 10; done`. El Monitor devolvió "DONE" casi al instante, mucho antes de que los procesos reales terminaran. Traté 3 de los 5 resultados como completos sin verificarlos.
