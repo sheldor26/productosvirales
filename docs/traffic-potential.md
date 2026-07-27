@@ -270,6 +270,7 @@ demanda real por ese solapamiento. Ver caveats.
 | philips-freidoras-de-aire-review | freidora de aire philips | Cola/marca (viable) | 4.400 | Pos 6.4 | 10 | 206 | 428 |
 | lattafa-guia-marca | perfumes lattafa | Cola/marca (viable) | 4.400 | Pos 6.6 | 0 | 206 | 428 |
 | cafetera-peabody | cafetera peabody | Cola/marca (viable) | 4.400 | Pos 9.5 | 0 | 113 | 290 |
+| reloj-garmin | reloj garmin | Cola/marca (viable) | 4.400 | Sin datos aun (publicada 2026-07-27) | 0 | 1 | 87 |
 | procesadora-de-alimentos | procesadora de alimentos | Genérico (alta comp.) | 4.400 | STAGED | 0 | 1 | 87 |
 | alarma-para-casa | alarma para casa | Genérico (alta comp.) | 4.400 | STAGED | 0 | 1 | 87 |
 | monitor-gamer | monitor gamer | Genérico (alta comp.) | 3.600 | Pos 7.6 | 0 | 122 | 350 |
@@ -363,17 +364,17 @@ demanda real por ese solapamiento. Ver caveats.
 | aspiradora-robot-gadnic-vs-xiaomi | gadnic vs xiaomi robot aspiradora | Cola/marca (viable) | 0 | Pos 4.3 | 22 | 22 | 22 |
 | dia-del-nino-argentina | regalos dia del niño | Cola/marca (viable) | 0 | Pos 5.7 | 6 | 6 | 6 |
 
-## Totales acumulados (corrida base 2026-07-26; +9 filas, loop completo del día: `termo-stanley`, `auriculares-sony`, `microondas-samsung`, `camara-ezviz`, `auriculares-xiaomi`, `proyector-astronauta`, `yogurtera-daewoo`, `camara-tplink-tapo`, `microondas-lg`)
+## Totales acumulados (corrida base 2026-07-26; +9 filas loop del día anterior + 1 fila nueva 2026-07-27: `reloj-garmin`)
 
 | Métrica | Valor |
 |---|---:|
-| Guías (160 publicadas + 6 STAGED) | 166 |
-| Volumen sumado, publicadas (Keyword Planner AR) | 1.667.570 /mes |
+| Guías (161 publicadas + 6 STAGED) | 167 |
+| Volumen sumado, publicadas (Keyword Planner AR) | 1.671.970 /mes |
 | Clicks reales HOY (GSC, snapshot 27/6-24/7) | 1.519 /mes |
-| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.054 /mes |
-| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.486 /mes |
-| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.296 /mes** |
-| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.387 /mes** |
+| Clicks estimados — realista 6-12 meses (bruto, sobreestima) | ≈ 64.055 /mes |
+| Clicks estimados — techo optimista (bruto, sobreestima) | ≈ 165.573 /mes |
+| **Clicks estimados — realista, solo cola/marca (número creíble)** | **≈ 10.297 /mes** |
+| **Clicks estimados — techo, solo cola/marca (número creíble)** | **≈ 29.474 /mes** |
 
 Ver "Corrección del mismo día" más arriba para por qué el bruto sobreestima
 y cómo se llega al número de cola/marca.
@@ -384,7 +385,7 @@ y cómo se llega al número de cola/marca.
 |---|---:|---:|---:|---:|---:|
 | Ya en el top 10 (pos ≤10) | 139 | 1.535.120 /mes | 1.513 | 63.884 | 162.577 |
 | Visible pero floja (pos 11-30) | 8 | 19.240 /mes | 6 | 135 | 679 |
-| Sin datos aún (nueva o STAGED) | 19 | 167.510 /mes | 0 | 51 | 3.300 |
+| Sin datos aún (nueva o STAGED) | 20 | 171.910 /mes | 0 | 52 | 3.387 |
 
 ## Caveats (válidos para toda actualización futura)
 

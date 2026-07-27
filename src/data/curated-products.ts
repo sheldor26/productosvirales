@@ -62244,7 +62244,7 @@ Comprá el Fenix 7 Pro si hacés multideporte en serio (trekking, esquí, nataci
     category: "Tech",
     categorySlug: "tech",
     permalink: "https://articulo.mercadolibre.com.ar/MLA-1992866306-smartwatch-reloj-instinct-3-50mm-solar-garmin-linterna-gps-_JM",
-    affiliateUrl: "PEGAR_MELI_LA",
+    affiliateUrl: "https://meli.la/1X3EZ5c",
     condition: "new",
     freeShipping: true,
     rating: 4.9,
