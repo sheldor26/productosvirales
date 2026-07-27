@@ -13008,23 +13008,23 @@ export const guides: Guide[] = [
       },
       {
         type: "h3",
-        title: "Del 14 al 15"
+        title: "14. Rasasi Hawas Black"
       },
       {
         type: "product-card",
-        variant: "compact",
-        productMlaId: "MLAU3798337289",
-        description: "Versión del Asad clásico con notas de tabaco y bourbon. Más maduro, más adulto.",
-        label: "Alternativa con tabaco",
-        labelColor: "amber"
+        productMlaId: "MLA41306043",
+        description: "La versión nocturna del Hawas Ice que ya vimos en el puesto 3: mismo ADN aromático frutal de piña y bergamota en la salida, pero con un fondo más oscuro de musgo de roble y maderas en vez del perfil fresco-acuático del Ice. Rasasi lo vende como unisex, pero la ficha técnica de Mercado Libre lo clasifica directamente como Hombre, y las reseñas argentinas lo describen como una fragancia de proyección fuerte y carácter maduro, no para uso diario de oficina. Es el segundo perfume más vendido de toda la marca Rasasi en el sitio. Rating 4.8 con más de 3.800 reseñas verificadas.",
+        ranking: 14
+      },
+      {
+        type: "h3",
+        title: "15. Lattafa Maahir Legacy"
       },
       {
         type: "product-card",
-        variant: "compact",
-        productMlaId: "MLAU3562485598",
-        description: "La versión más nocturna de la familia Asad. Oriental intenso.",
-        label: "La variante oscura",
-        labelColor: "purple"
+        productMlaId: "MLA37755803",
+        description: "Aromático fresco con salida cítrica de lima, pomelo y piña, corazón de pimienta negra e incienso, y fondo de vetiver, ambroxan y haba tonka. Pese al nombre \"Legacy\", que suena a algo oriental y pesado, es uno de los perfiles más frescos y versátiles de todo este ranking, más cercano al Hawas Ice que a un Asad o un Khamrah Qahwa. Buena opción si ya tenés un árabe dulce-especiado y buscás uno fresco para el día a día. Rating 4.7 con más de 1.500 reseñas verificadas, disponible en más de 30 publicaciones distintas de Mercado Libre.",
+        ranking: 15
       },
       {
         type: "h2",
@@ -13048,10 +13048,6 @@ export const guides: Guide[] = [
       {
         type: "p",
         content: "La [guía completa de perfumes árabes](/guias/perfumes-arabes) te arma el panorama completo del nicho en Argentina."
-      },
-      {
-        type: "p",
-        content: "Fuera de este top 15, otra opción masculina a tener en cuenta es el [Al Wataniah Bareeq Al Dhahad](/producto/al-wataniah-bareeq-al-dhahad-edp-100-ml-para-hombre-mla24605489), de una marca menos conocida en Argentina pero con buena relación precio-calidad dentro del género."
       }
     ],
     faq: [
