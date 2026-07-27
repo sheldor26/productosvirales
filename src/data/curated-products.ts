@@ -61461,15 +61461,18 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
     specs: [
       { label: "Marca", value: "Samsung" },
       { label: "Modelo", value: "Galaxy Watch7 BT (SM-L310)" },
-      { label: "Pantalla", value: "Super AMOLED 1,47\", cristal de zafiro, 480x480 px" },
-      { label: "Batería", value: "425 mAh — el fabricante no declara días de autonomía en la ficha oficial" },
+      { label: "Procesador", value: "Penta-Core (3 nm), 1,6 GHz + 1,5 GHz — dato de la web oficial de Samsung, no aparece en la ficha de MercadoLibre" },
+      { label: "Pantalla", value: "Super AMOLED 1,47\" (37,3 mm), cristal de zafiro, 480x480 px" },
+      { label: "Batería", value: "425 mAh. Autonomía declarada por Samsung: hasta 40 h con pantalla siempre activa (AOD) desactivada, hasta 30 h con AOD activada — no en días, a diferencia del resto de esta guía" },
       { label: "GPS", value: "Real, doble frecuencia (L1+L5), más preciso según el fabricante" },
       { label: "NFC", value: "Sí — pagos sin contacto, confirmado por reseñas reales" },
+      { label: "Sensores (web oficial Samsung)", value: "Acelerómetro, giroscopio, barómetro, sensor geomagnético, sensor óptico de frecuencia cardíaca, sensor de temperatura infrarrojo (piel), sensor de bioimpedancia (composición corporal) y sensor de electrocardiograma (ECG)" },
+      { label: "Presión arterial", value: "No aparece como sensor dedicado en la web oficial de Samsung — es una función de software del mismo sensor óptico de frecuencia cardíaca, requiere calibración con un tensiómetro tradicional y su disponibilidad varía por país" },
       { label: "Conectividad", value: "Bluetooth, WiFi. Versión BT, sin red móvil/LTE" },
-      { label: "Resistencia al agua", value: "IP68" },
+      { label: "Resistencia al agua", value: "IP68, 5 ATM" },
       { label: "Memoria", value: "32 GB internos, 2 GB de RAM" },
       { label: "Compatibilidad", value: "Solo Android 11.0 o superior — no compatible con iPhone" },
-      { label: "Peso", value: "33,3 g" },
+      { label: "Peso", value: "33,3 g / 33,8 g según la fuente" },
     ],
     relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440", "MLA24530447"],
     priceUpdated: "2026-07-27",
@@ -61479,17 +61482,17 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
     description: "Smartwatch Samsung Galaxy Watch7 44mm: la única de esta guía con NFC real para pagos sin contacto y GPS de doble frecuencia, con la base de reseñas más grande (9.204 calificaciones), aunque solo compatible con Android.",
     seoTitle: "Samsung Galaxy Watch7: el smartwatch con NFC de esta guía",
     metaDescription: "Smartwatch Samsung Galaxy Watch7 44mm, NFC y GPS de doble frecuencia. 9.204 opiniones reales, precio actualizado.",
-    verdict: "Sirve si querés pagar con el reloj (NFC real, confirmado por reseñas) y GPS de doble frecuencia, con la base de reseñas más grande de esta guía por lejos (9.204 calificaciones, 4.9 estrellas). La contra real: solo funciona con Android 11 o superior, así que si tenés iPhone quedás afuera directamente. Tampoco declara una cifra de autonomía de batería como sí hacen el Xiaomi, el Amazfit o el Haylou de esta guía. No es para vos si tenés iPhone: para eso, ninguna Galaxy Watch te sirve.",
+    verdict: "Sirve si querés pagar con el reloj (NFC real, confirmado por reseñas), GPS de doble frecuencia y sensores más completos que el resto de la guía (ECG, composición corporal, temperatura de piel), con la base de reseñas más grande por lejos (9.204 calificaciones, 4.9 estrellas). La contra real, ahora con el dato exacto de la web oficial de Samsung: la batería rinde hasta 40 horas sin pantalla siempre activa (menos de 2 días), muy por debajo de los 18 días declarados del Xiaomi o las 2 semanas confirmadas del Amazfit. Solo funciona con Android 11 o superior. No es para vos si tenés iPhone, o si la autonomía es tu prioridad número uno.",
     pros: [
       "Único de esta guía con NFC real: pagos sin contacto confirmados por reseñas (\"puedo pagar mis cuentas con tarjeta de crédito desde el Watch7\")",
       "GPS de doble frecuencia (L1+L5), que el fabricante declara más preciso en zonas urbanas densas",
+      "El set de sensores más completo de esta guía según la web oficial de Samsung: incluye ECG y sensor de bioimpedancia (composición corporal), que ninguna otra opción tiene",
       "Con diferencia la base de reseñas más grande de esta guía: 9.204 calificaciones, 4.9 estrellas",
-      "Pantalla Super AMOLED con cristal de zafiro, resistente a rayones",
     ],
     cons: [
+      "Batería real, según la propia web de Samsung: hasta 40 horas sin pantalla siempre activa (menos de 2 días), muy por debajo de los 18 días declarados del Xiaomi o las 2 semanas confirmadas del Amazfit — el punto más débil frente al resto de esta guía",
       "Solo compatible con Android 11 o superior — no funciona con iPhone, a diferencia de las otras opciones de esta guía",
-      "El fabricante no declara una cifra de días de batería en la ficha oficial (425 mAh), a diferencia del Xiaomi, el Amazfit o el Haylou",
-      "La función de presión arterial que sí figura en la ficha oficial es una medición de bienestar, no un reemplazo de un tensiómetro certificado",
+      "La ficha de MercadoLibre lista \"presión arterial\" como función, pero la web oficial de Samsung no la muestra como sensor dedicado: es una estimación por software del mismo sensor óptico de frecuencia cardíaca, no un reemplazo de un tensiómetro certificado",
       "Stock ajustado al momento de verificar (últimas unidades en la publicación), vendedor único — conviene chequear disponibilidad en vivo",
     ],
     articleBody: `## Qué es y para quién
@@ -61498,19 +61501,19 @@ El Samsung Galaxy Watch7 de 44mm es un smartwatch con ecosistema Android complet
 
 ## Cómo funciona
 
-Pantalla Super AMOLED de 1,47" con cristal de zafiro (480x480 px), batería de 425 mAh sin cifra de autonomía declarada por el fabricante, GPS de doble frecuencia (L1+L5) que Samsung describe como el más preciso usado hasta ahora en un Galaxy Watch, NFC para pagos sin contacto, 32 GB de memoria interna y 2 GB de RAM, resistencia al agua IP68. Es la versión Bluetooth (sin red móvil/LTE) y requiere Android 11 o superior: no es compatible con iPhone.
+Pantalla Super AMOLED de 1,47" con cristal de zafiro (480x480 px), procesador Penta-Core de 3 nm (1,6 GHz + 1,5 GHz, según la web oficial de Samsung), batería de 425 mAh, GPS de doble frecuencia (L1+L5) que Samsung describe como el más preciso usado hasta ahora en un Galaxy Watch, NFC para pagos sin contacto, 32 GB de memoria interna y 2 GB de RAM, resistencia al agua IP68 (5 ATM). Es la versión Bluetooth (sin red móvil/LTE) y requiere Android 11 o superior: no es compatible con iPhone.
 
 ## La contra real
 
-El NFC funciona de verdad: "ahora, tengo información de salud muy útil y puedo pagar mis cuentas con tarjeta de crédito desde el Watch7", confirma una reseña real. Pero hay dos contras honestas: primero, el fabricante no declara ninguna cifra de días de batería en la ficha oficial (a diferencia del Xiaomi, el Amazfit y el Haylou de esta guía, que sí dan un número), así que no hay forma de comparar autonomía de forma directa. Segundo, la ficha técnica sí lista "presión arterial" entre sus funciones y sensores (algo que el JD Venecia de esta guía NO tiene confirmado), pero es una medición de bienestar orientativa, no un reemplazo de un tensiómetro certificado.
+El NFC funciona de verdad: "ahora, tengo información de salud muy útil y puedo pagar mis cuentas con tarjeta de crédito desde el Watch7", confirma una reseña real. Pero la web oficial de Samsung (no la ficha de MercadoLibre, que no da esta cifra) confirma la contra más importante: la batería rinde hasta 40 horas con la pantalla siempre activa desactivada, y hasta 30 horas con esa función prendida — es decir, menos de 2 días de uso real, muy por debajo de los 18 días declarados del Xiaomi o las 2 semanas confirmadas del Amazfit de esta guía. También hay una discrepancia entre fuentes que conviene aclarar: la ficha de MercadoLibre lista "presión arterial" entre las funciones, pero la tabla de especificaciones oficial de Samsung no incluye un sensor de presión arterial dedicado — sí lista sensor óptico de frecuencia cardíaca, sensor de bioimpedancia (composición corporal), sensor de temperatura infrarrojo y sensor de electrocardiograma (ECG). La medición de presión que ofrecen los Galaxy Watch en general es una estimación por software que usa el mismo sensor de frecuencia cardíaca, requiere calibrarse con un tensiómetro tradicional cada cierto tiempo, y no está disponible en todos los países — no la tomamos como un sensor confirmado de forma independiente.
 
 ## Cómo se compara con las otras de esta guía
 
-Frente al [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227) (elección general), el Samsung suma NFC real y mejor GPS, pero cuesta bastante más y no declara autonomía en días. Frente al [Amazfit Bip 6](/producto/MLA51929440) (premium sin NFC), el Samsung resuelve justo lo que al Amazfit le falta: pagos sin contacto. Frente al [JD Venecia](/producto/MLA26666337) y al [Haylou](/producto/MLA24530447), el Samsung es varias veces más caro pero con un ecosistema y una base de reseñas incomparablemente más grande.
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227) (elección general), el Samsung suma NFC real, mejor GPS y sensores más completos (ECG, composición corporal), pero cuesta bastante más y su batería real (menos de 2 días) queda muy por detrás de los 18 días declarados del Xiaomi. Frente al [Amazfit Bip 6](/producto/MLA51929440) (premium sin NFC), el Samsung resuelve justo lo que al Amazfit le falta (pagos sin contacto), pero pierde feo en autonomía: 2 semanas confirmadas del Amazfit contra menos de 2 días del Samsung. Frente al [JD Venecia](/producto/MLA26666337) y al [Haylou](/producto/MLA24530447), el Samsung es varias veces más caro pero con un ecosistema y una base de reseñas incomparablemente más grande.
 
 ## Para quién sí y para quién no
 
-Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar sin contacto desde la muñeca, con el GPS más preciso de esta guía. No es para vos si tenés iPhone (no es compatible) o si priorizás una cifra concreta de días de batería: para eso, el [Amazfit Bip 6](/producto/MLA51929440) de esta guía la confirma en uso real.`,
+Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar sin contacto desde la muñeca, con el GPS y los sensores más completos de esta guía, y no te molesta cargarlo todos los días. No es para vos si tenés iPhone (no es compatible) o si priorizás la autonomía: para eso, el [Amazfit Bip 6](/producto/MLA51929440) o el [Haylou Solar](/producto/MLA24530447) de esta guía rinden muchísimo más entre cargas.`,
     faq: [
       {
         question: "¿Funciona con iPhone?",
@@ -61522,11 +61525,15 @@ Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar si
       },
       {
         question: "¿Cuántos días dura la batería?",
-        answer: "El fabricante no declara una cifra de días en la ficha oficial (batería de 425 mAh). A diferencia del Xiaomi, el Amazfit o el Haylou de esta guía, no hay un número concreto para comparar.",
+        answer: "No se mide en días como en el resto de esta guía. Según la web oficial de Samsung, rinde hasta 40 horas con la pantalla siempre activa desactivada y hasta 30 horas con esa función prendida — menos de 2 días, muy por debajo de los 18 días del Xiaomi o las 2 semanas del Amazfit.",
       },
       {
         question: "¿Mide la presión arterial de forma confiable?",
-        answer: "La ficha técnica oficial sí lista esa función, a diferencia de otros modelos de esta guía. Aun así, es una medición de bienestar orientativa, no un reemplazo de un tensiómetro certificado.",
+        answer: "La ficha de MercadoLibre lista esa función, pero la tabla de especificaciones oficial de Samsung no muestra un sensor de presión arterial dedicado: es una estimación por software del mismo sensor de frecuencia cardíaca, que requiere calibrarse con un tensiómetro tradicional y no está disponible en todos los países. No la tomamos como un dato confirmado de forma independiente.",
+      },
+      {
+        question: "¿Qué sensores tiene además de frecuencia cardíaca?",
+        answer: "Según la web oficial de Samsung: acelerómetro, giroscopio, barómetro, sensor geomagnético, sensor de temperatura infrarrojo (piel), sensor de bioimpedancia (composición corporal) y sensor de electrocardiograma (ECG) — el set más completo de esta guía.",
       },
     ],
     structuredData: {

@@ -22014,7 +22014,7 @@ export const guides: Guide[] = [
     publishedDate: "2026-07-22",
     updatedDate: "2026-07-27",
     hasDisclosure: true,
-    readingTime: 9,
+    readingTime: 10,
     standfirst: `Un smartwatch va de {{precio:MLA26666337:k}} (el más económico) a {{precio:MLA38058572:k}} (con NFC). La diferencia real no es solo el precio: es si tiene GPS real (sin depender del celular), cuánta batería dura de verdad, si paga sin contacto, y qué sensores están confirmados por el fabricante. Comparamos 5 con precios reales de MercadoLibre Argentina, evitando los clones genéricos con claims de salud sin certificar.`,
     quickPicks: [
       { productMlaId: "MLA42520227", label: "Mejor elección general", labelColor: "green", tagline: "Xiaomi Redmi Watch 5 Lite: el más vendido, GPS real" },
@@ -22066,7 +22066,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `5. Samsung Galaxy Watch7 44mm — con NFC (pagos)` },
       { type: "product-card", productMlaId: "MLA38058572", label: "Con NFC (pagos)", labelColor: "amber", ranking: 5, description: `GPS de doble frecuencia, NFC real, pantalla Super AMOLED con cristal de zafiro. 4.9 estrellas, con diferencia la base de reseñas más grande de esta guía (9.204).` },
       { type: "p", content: `El [Samsung Galaxy Watch7 44mm](/producto/MLA38058572) es el único de esta guía con NFC real para pagos sin contacto, confirmado por reseñas, a alrededor de {{precio:MLA38058572:k}}.` },
-      { type: "p", content: `La contra real: solo funciona con Android 11 o superior, no es compatible con iPhone, y el fabricante no declara una cifra de días de batería como sí hacen el resto de esta guía.` },
+      { type: "p", content: `La contra real: solo funciona con Android 11 o superior, no es compatible con iPhone, y su batería rinde hasta 40 horas según la web oficial de Samsung — menos de 2 días, muy por debajo del resto de esta guía.` },
       { type: "pull-quote", content: `"Ahora, tengo información de salud muy útil y puedo pagar mis cuentas con tarjeta de crédito desde el Watch7. ¡Una experiencia única!"`, attribution: `Opinión verificada en MercadoLibre (159 votos útiles)` },
 
       { type: "h2", title: `Tabla comparativa: GPS, batería, NFC y precio`, id: "tabla-comparativa" },
@@ -22075,7 +22075,7 @@ export const guides: Guide[] = [
         [`[JD Venecia Sport](/producto/MLA26666337)`, `{{precio:MLA26666337}}`, `No tiene`, `No`, `1 semana`, `Precio y básicos`],
         [`[Amazfit Bip 6](/producto/MLA51929440)`, `{{precio:MLA51929440}}`, `Real, integrado`, `No`, `2 semanas (confirmada)`, `Más funciones, IA`],
         [`[Haylou Solar LS05S](/producto/MLA24530447)`, `{{precio:MLA24530447}}`, `No tiene`, `No`, `15 días declarados`, `No cargarlo casi nunca`],
-        [`[Samsung Galaxy Watch7](/producto/MLA38058572)`, `{{precio:MLA38058572}}`, `Real, doble frecuencia`, `Sí`, `Sin cifra declarada`, `Pagar sin contacto (solo Android)`],
+        [`[Samsung Galaxy Watch7](/producto/MLA38058572)`, `{{precio:MLA38058572}}`, `Real, doble frecuencia`, `Sí`, `Hasta 40 h (menos de 2 días)`, `Pagar sin contacto (solo Android)`],
       ] },
 
       { type: "h2", title: `Cómo elegir tu smartwatch`, id: "como-elegir" },
@@ -22084,9 +22084,24 @@ export const guides: Guide[] = [
       { type: "h3", title: `¿Tenés Android o iPhone?` },
       { type: "p", content: `El [Samsung Galaxy Watch7](/producto/MLA38058572) de esta guía solo funciona con Android 11 o superior: si tenés iPhone, quedás afuera directamente. Las otras 4 opciones funcionan con Android e iOS.` },
       { type: "h3", title: `¿Cuánto tiempo querés pasar sin cargarlo?` },
-      { type: "p", content: `Si te olvidás de cargar dispositivos, el [Haylou Solar](/producto/MLA24530447) (15 días) o el [Amazfit Bip 6](/producto/MLA51929440) (2 semanas confirmadas) de esta guía rinden mejor que el resto. El [Samsung](/producto/MLA38058572) no declara una cifra de días, así que no entra en esta comparación.` },
+      { type: "p", content: `Si te olvidás de cargar dispositivos, el [Haylou Solar](/producto/MLA24530447) (15 días) o el [Amazfit Bip 6](/producto/MLA51929440) (2 semanas confirmadas) de esta guía rinden muchísimo mejor que el resto. El [Samsung](/producto/MLA38058572) es el más débil acá: hasta 40 horas según la web oficial, menos de 2 días.` },
       { type: "h3", title: `¿Confiás en las mediciones de salud?` },
-      { type: "p", content: `Ningún smartwatch de esta guía reemplaza un control médico. Desconfiá de cualquier función (presión arterial, por ejemplo) que no esté confirmada en la ficha técnica oficial del fabricante, como pasa con el [JD Venecia](/producto/MLA26666337). El [Samsung](/producto/MLA38058572) sí lista esa función en su ficha oficial, pero es una medición de bienestar, no un reemplazo de un tensiómetro certificado.` },
+      { type: "p", content: `Ningún smartwatch de esta guía reemplaza un control médico. Desconfiá de cualquier función (presión arterial, por ejemplo) que no esté confirmada como sensor dedicado en la web oficial del fabricante, como pasa con el [JD Venecia](/producto/MLA26666337) y, en rigor, también con el [Samsung](/producto/MLA38058572): la ficha de MercadoLibre lo lista, pero la propia web de Samsung no muestra un sensor de presión arterial en su tabla de especificaciones.` },
+
+      { type: "h2", title: `Samsung Galaxy Watch7 vs Xiaomi Redmi Watch 5 Lite: comparación técnica`, id: "samsung-vs-xiaomi" },
+      { type: "p", content: `Estos son los dos con GPS real más completos de esta guía, así que vale la pena compararlos punto por punto. Los datos de esta sección salen de las webs oficiales de [Samsung](https://www.samsung.com/co/watches/galaxy-watch/galaxy-watch7-44mm-green-bluetooth-sm-l310nzgalta/) y [Xiaomi](https://www.mi.com/es/product/redmi-watch-5-lite/specs/), no solo de la ficha de MercadoLibre, para llegar a un nivel de detalle que la publicación de venta no da.` },
+      { type: "table", headers: [`Ficha técnica`, `Samsung Galaxy Watch7 44mm`, `Xiaomi Redmi Watch 5 Lite`], rows: [
+        [`Procesador`, `Penta-Core 3 nm (1,6 GHz + 1,5 GHz)`, `No lo publica el fabricante`],
+        [`Pantalla`, `Super AMOLED 1,47", cristal de zafiro, 480x480 px`, `AMOLED 1,96", 410x502 px, 332 PPP`],
+        [`Batería declarada`, `Hasta 40 h sin pantalla siempre activa / 30 h con ella`, `Hasta 18 días`],
+        [`GPS`, `Doble frecuencia (L1+L5)`, `5 sistemas: GPS, Galileo, Glonass, BeiDou, QZSS`],
+        [`Sensores`, `Acelerómetro, giroscopio, barómetro, geomagnético, temperatura de piel, bioimpedancia (composición corporal), ECG, óptico de FC`, `Frecuencia cardíaca (con SpO2), acelerómetro, giroscopio`],
+        [`NFC`, `Sí`, `No`],
+        [`Memoria`, `32 GB / 2 GB RAM`, `No la publica el fabricante`],
+        [`Compatibilidad`, `Solo Android 11+`, `Android 8.0+ / iOS 12.0+`],
+      ] },
+      { type: "p", content: `Tres hallazgos que no salen de mirar solo la publicación de MercadoLibre: primero, la batería es la diferencia más grande entre los dos, no una nota al pie — el Samsung dura horas, el Xiaomi días. Segundo, el Samsung tiene sensores que el Xiaomi ni siquiera intenta (ECG, composición corporal, temperatura de piel), pero eso explica en parte por qué gasta tanta batería. Tercero, ninguno de los dos publica el chip en la ficha de MercadoLibre: Samsung sí lo confirma en su web (procesador de 3 nm), Xiaomi no lo menciona en ningún lado — ni en su propia web oficial.` },
+      { type: "p", content: `En la práctica: si tenés iPhone, esta comparación no aplica (el Samsung queda descartado directo). Si tenés Android y priorizás no cargar seguido, el [Xiaomi](/producto/MLA42520227) gana cómodo. Si priorizás pagar sin contacto y sensores más completos, y no te molesta cargarlo todas las noches, el [Samsung](/producto/MLA38058572) es la única opción de esta guía que lo ofrece.` },
 
       { type: "h2", title: `Cuánto cuesta un smartwatch en Argentina [julio 2026]`, id: "precios" },
       { type: "list", items: [
@@ -22103,7 +22118,7 @@ export const guides: Guide[] = [
     faq: [
       { question: `¿Cuál es el mejor smartwatch en Argentina?`, answer: `Para la mayoría, el [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227): el 1° más vendido de la categoría en MercadoLibre Argentina, con GPS real integrado.` },
       { question: `¿Los smartwatches miden la presión arterial con precisión?`, answer: `No de forma confiable. La mayoría de los productos de esta guía ni siquiera tienen ese sensor confirmado por el fabricante. El [Samsung Galaxy Watch7](/producto/MLA38058572) sí lo lista en su ficha oficial, pero es una medición de bienestar, no una función médica certificada. Si tu ficha menciona compradores que la usan sin confirmación oficial (como el [JD Venecia](/producto/MLA26666337)), tratalo como orientativo, no como un dato de salud.` },
-      { question: `¿Cuánto dura la batería en uso real?`, answer: `Depende del modelo y de cuánto uses GPS y Bluetooth conectado. El [Amazfit Bip 6](/producto/MLA51929440) tiene su batería de 2 semanas confirmada por reseñas reales; el [Xiaomi](/producto/MLA42520227) baja de 18 días declarados a 7-15 en uso real. El [Samsung](/producto/MLA38058572) no declara una cifra en su ficha oficial.` },
+      { question: `¿Cuánto dura la batería en uso real?`, answer: `Depende del modelo y de cuánto uses GPS y Bluetooth conectado. El [Amazfit Bip 6](/producto/MLA51929440) tiene su batería de 2 semanas confirmada por reseñas reales; el [Xiaomi](/producto/MLA42520227) baja de 18 días declarados a 7-15 en uso real. El [Samsung](/producto/MLA38058572) es el más corto de esta guía: hasta 40 horas según su web oficial, menos de 2 días.` },
       { question: `¿Necesito GPS en el reloj o alcanza con el del celular?`, answer: `Si entrenás sin llevar el celular, necesitás GPS real integrado, como el [Xiaomi](/producto/MLA42520227), el [Amazfit](/producto/MLA51929440) o el [Samsung](/producto/MLA38058572) de esta guía.` },
       { question: `¿Cuál smartwatch de esta guía tiene NFC para pagar sin contacto?`, answer: `Solo el [Samsung Galaxy Watch7](/producto/MLA38058572), confirmado por reseñas reales. Ninguna de las otras 4 opciones de esta guía tiene NFC, ni siquiera el [Amazfit Bip 6](/producto/MLA51929440), que es la segunda más cara.` },
       { question: `¿Por qué evitaron los smartwatches tipo "X8 Ultra" o "S8 Ultra"?`, answer: `Son clones genéricos sin marca trazable que imitan el diseño de un Apple Watch, frecuentemente con claims de salud (medición de glucosa, precisión clínica) que ningún fabricante certifica. Esta guía prioriza marcas identificables.` },
