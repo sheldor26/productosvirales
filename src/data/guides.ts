@@ -10014,6 +10014,7 @@ export const guides: Guide[] = [
     h1: `Cuánto consume una freidora de aire: análisis del gasto real`,
     publishedDate: "2026-06-14",
     updatedDate: "2026-07-08",
+    sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     standfirst: `Calculamos cuánto consume realmente una freidora de aire en pesos argentinos, con y sin subsidio, y la comparamos contra otros electrodomésticos para que sepas si el gasto eléctrico te preocupa o no.`,
     quickPicks: [
@@ -14026,6 +14027,7 @@ export const guides: Guide[] = [
     directAnswer: `Para empezar con perfumes árabes en Argentina conviene arrancar por las marcas grandes (Lattafa, Armaf, Al Haramain) compradas a vendedores con buena reputación en MercadoLibre: son la vía más barata a fragancias intensas y duraderas. Desconfiá de precios demasiado bajos, porque en el nicho circulan falsificaciones. En esta guía: marcas, precios reales y las trampas más comunes.`,
     publishedDate: "2026-04-27",
     updatedDate: "2026-06-26",
+    sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     standfirst: "Después de dos años explorando el nicho, esto es lo que me hubiera gustado saber al principio. Marcas, precios reales, dupes legítimos y las trampas que te pueden hacer perder dinero.",
     quickPicks: [
@@ -15198,6 +15200,7 @@ export const guides: Guide[] = [
     h1: "Perfumes árabes por color del envase: encontrá el frasco viral por su color (2026)",
     publishedDate: "2026-06-01",
     updatedDate: "2026-06-29",
+    sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     intro: [
       "Pasa todo el tiempo: ves un perfume árabe en un reel de TikTok, te llama la atención, pero no escuchaste bien el nombre. Lo único que recordás es el color del envase. Rosa pastel, dorado intenso, azul cristal, marrón café. Esta guía resuelve exactamente ese problema.",
@@ -15496,6 +15499,7 @@ export const guides: Guide[] = [
     h1: "Perfumes árabes y sus dupes: la lista completa de clones para Argentina (2026)",
     publishedDate: "2026-06-04",
     updatedDate: "2026-07-03",
+    sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     intro: [
       "Un Creed Aventus en Argentina cuesta $500.000. Un Armaf Club de Nuit Intense Man, que comparte el 80% de su perfil olfativo, cuesta $130.000. Esa relación se repite con Dior Sauvage Elixir vs Lattafa Asad Intense, Paco Rabanne Invictus vs Rasasi Hawas Ice y otra docena de fragancias premium. El nicho árabe se construyó sobre esa lógica: ofrecer perfiles olfativos similares a perfumes occidentales caros a una fracción del costo.",
@@ -15758,6 +15762,7 @@ export const guides: Guide[] = [
     h1: "Los 10 perfumes árabes más vendidos en Argentina (2026)",
     publishedDate: "2026-06-07",
     updatedDate: "2026-07-03",
+    sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     quickPicks: [
       { productMlaId: "MLA29780185", label: "El más vendido", labelColor: "green", tagline: "Rasasi Hawas Ice: 9.144 reseñas, 4.8⭐. El árabe más vendido del catálogo argentino." },
@@ -17414,6 +17419,7 @@ export const guides: Guide[] = [
       h1: `Mejor aspiradora robot: cuál comprar según tu caso`,
       publishedDate: `2026-06-08`,
       updatedDate: `2026-07-02`,
+      sitemapLastmod: `2026-07-27`,
       hasDisclosure: true,
       standfirst: `Esta no es la guía enciclopédica. Es la guía de decisión: ya querés comprar y solo necesitás que te digan cuál. Te elegimos seis aspiradoras robot por caso (presupuesto, tipo de casa, mascotas) y te mandamos al hub si querés el detalle largo.`,
       intro: [
@@ -18323,6 +18329,7 @@ export const guides: Guide[] = [
     directAnswer: `Para la mayoría conviene la **Smartlife SL-EC8501** (alrededor de {{precio:MLA18562154:k}}): 20 bares y compatible con cápsulas Nespresso. Si buscás marca a buen precio, la Oster de entrada con espumador; para café recién molido, la que trae molinillo integrado; y la más barata es la express de 15 bares a {{precio:MLA36409137}}.`,
     publishedDate: "2026-06-09",
     updatedDate: "2026-07-03",
+    sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     readingTime: 12,
     standfirst: `Todo para elegir una cafetera express en Argentina sin gastar de más: ranking con precios reales de MercadoLibre, tabla comparativa, qué significan los bares de presión y cuál conviene según cuánto café tomás.`,
@@ -18547,6 +18554,7 @@ export const guides: Guide[] = [
     h1: `Cafetera de cápsulas: cuál comprar en Argentina y qué sistema elegir [2026]`,
     publishedDate: "2026-06-26",
     updatedDate: "2026-06-26",
+    sitemapLastmod: "2026-07-27",
     hasDisclosure: true,
     readingTime: 9,
     standfirst: `Con una cafetera de cápsulas, lo primero que elegís no es la máquina sino el sistema, porque te casás con sus cápsulas. Te explicamos Nespresso, Dolce Gusto y multisistema, el costo por taza y cuál conviene, con precios reales de MercadoLibre.`,

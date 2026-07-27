@@ -37,12 +37,18 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  const guidePages: MetadataRoute.Sitemap = getPublishedGuides().map((guide) => ({
-    url: `${SITE_URL}${guideHref(guide)}`,
-    lastModified: new Date(guide.updatedDate),
-    changeFrequency: "monthly" as const,
-    priority: 0.8,
-  }));
+  const guidePages: MetadataRoute.Sitemap = getPublishedGuides().map((guide) => {
+    // La más reciente entre la actualización editorial y el lastmod de sitemap
+    // (cambios menores tipo links internos que ameritan re-crawl).
+    const dates = [guide.updatedDate, guide.sitemapLastmod].filter(Boolean) as string[];
+    const lastmod = dates.sort().pop() as string;
+    return {
+      url: `${SITE_URL}${guideHref(guide)}`,
+      lastModified: new Date(lastmod),
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    };
+  });
 
   return [...staticPages, ...categoryPages, ...productPages, ...guidePages];
 }

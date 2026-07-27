@@ -280,6 +280,12 @@ export interface Guide {
   h1: string;
   publishedDate: string;
   updatedDate: string;
+  /** Fecha (YYYY-MM-DD) para el <lastmod> del sitemap cuando hubo cambios menores
+   * (links internos, seoTitle) que ameritan re-crawl pero NO cuentan como
+   * actualización editorial: updatedDate queda intacta para no resetear las
+   * ventanas de maduración del loop SEO semanal. El sitemap usa la más reciente
+   * de las dos. */
+  sitemapLastmod?: string;
   intro: string[];
   sections: GuideSection[];
   faq?: GuideFAQ[];
