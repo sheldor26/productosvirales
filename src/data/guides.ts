@@ -10126,7 +10126,7 @@ export const guides: Guide[] = [
       { type: "p", content: `No es "pequeño": es de los hábitos que más rápido se nota en la factura. Apagá apenas termina.` },
       { type: "h2", title: `¿Qué pasa en invierno vs verano?` },
       { type: "p", content: `Si tenés aire acondicionado prendido, tu consumo base es mucho más alto en verano. Una freidora es porcentualmente menos relevante.` },
-      { type: "p", content: `Si tenés calefactor eléctrico en invierno (cosa rara en Argentina, pero existe), el impacto de la freidora es todavía menos relevante porque el calefactor consume 2.000-3.000W constantemente.` },
+      { type: "p", content: `Si tenés calefactor eléctrico en invierno (cosa rara en Argentina, pero existe), el impacto de la freidora es todavía menos relevante porque el calefactor consume 2.000-3.000W constantemente. Si estás en ese caso y la factura de invierno te preocupa, hicimos la misma cuenta de kWh para la calefacción: [qué estufa eléctrica gasta menos](/guias/climatizacion/estufa-electrica-bajo-consumo).` },
       { type: "h2", title: `Tarifa de electricidad en Argentina: varía mucho` },
       { type: "p", content: `Este es el punto donde cambia todo, y tiene tres capas, no una sola:` },
       { type: "list", items: [
@@ -14089,7 +14089,7 @@ export const guides: Guide[] = [
       { type: "product-card", productMlaId: "MLA19053146", label: "El masculino con más reseñas", labelColor: "amber", description: "11.532 calificaciones con rating 4.8 — el más validado del segmento masculino. Marca americana de inspiración árabe-niche. Apertura cítrica con base de vainilla y ámbar. Comparado con YSL Y EDP." },
 
       { type: "h2", title: "Cómo elegir tu primer perfume árabe" },
-      { type: "p", content: "La mayoría de las guías te tiran 'los 10 mejores' y te dejan más confundido que antes. Voy a hacerlo distinto. Tres preguntas en orden, para llegar al perfume correcto." },
+      { type: "p", content: "La mayoría de las guías te tiran 'los 10 mejores' y te dejan más confundido que antes. Voy a hacerlo distinto. Tres preguntas en orden, para llegar al perfume correcto. Y si venís con la decisión tomada, andá directo al ranking de [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre): te ahorra todo el camino." },
 
       { type: "h3", title: "Pregunta 1: ¿Para qué uso?" },
       { type: "p", content: "**Daily driver.** Algo que te puedas poner sin pensar a las 8 de la mañana sin invadir el ascensor ni quedar pegado en la oficina. Perfiles versátiles, proyección moderada, base limpia. Acá entran los frescos-aromáticos y los amaderados ligeros." },
@@ -15189,9 +15189,9 @@ export const guides: Guide[] = [
     slug: "perfumes-arabes-por-color",
     category: "perfumes-arabes",
     title: "Perfumes árabes por color del envase: rosa, dorado, azul, marrón y más",
-    seoTitle: "Perfumes árabes por color: azul, dorado, rosa y más (2026)",
+    seoTitle: "Perfumes árabes por color: blanco y dorado, azul, rosa y más (2026)",
     metaDescription:
-      "¿Viste un perfume árabe azul, rosa o con tapa dorada y no sabés cuál es? Encontralo por el color del frasco: nombre exacto, perfil y precio en Argentina.",
+      "¿Viste un perfume árabe blanco con tapa dorada y no sabés cuál es? Encontralo por el color del frasco: nombre exacto, perfil y precio en Argentina.",
     ogTitle: "El perfume árabe rosa que viste en TikTok: nombre exacto y dónde está",
     ogDescription:
       "Lo viste en un reel, no recordás cómo se llama, pero recordás el color. Esta guía lista los perfumes árabes más buscados de Argentina ordenados por color del envase — con nombre exacto, perfil olfativo y precio real.",
@@ -15595,6 +15595,10 @@ export const guides: Guide[] = [
         ranking: 4
       },
       {
+        type: "p",
+        content: "Estos cuatro cubren los clones masculinos más pedidos. Si querés el panorama completo de la categoría [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre) más allá de los dupes, el ranking general ordena todo el segmento."
+      },
+      {
         type: "h2",
         title: "Dupes femeninos top"
       },
@@ -15933,7 +15937,7 @@ export const guides: Guide[] = [
       },
       {
         type: "p",
-        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver [mejores perfumes árabes para hombre](/guias/mejores-perfumes-arabes-hombre)."
+        content: "El perfume árabe de hombre más vendido en Argentina es el Rasasi Hawas Ice (9.144 reseñas, 4.8⭐). Le siguen: **Asad Intense** (7.245, 4.6⭐) y **Afnan 9PM Elixir** (1.060, 4.8⭐). Los tres en familias olfativas distintas: Hawas Ice es fresco-frutal-acuático, Asad Intense es especiado-amaderado, 9PM Elixir es gourmand-oriental. Para profundizar en cada uno y conocer otras alternativas masculinas, ver el ranking completo de [perfume árabe hombre](/guias/mejores-perfumes-arabes-hombre)."
       },
       {
         type: "h2",
@@ -17403,7 +17407,7 @@ export const guides: Guide[] = [
       slug: "mejor-aspiradora-robot",
       category: `aspiradoras-robot`,
       title: `Mejor aspiradora robot: cuál comprar según tu caso`,
-      seoTitle: `Mejor aspiradora robot 2026: cuál comprar en Argentina`,
+      seoTitle: `¿Cuál es la mejor aspiradora robot trapeadora en Argentina? [2026]`,
       metaDescription: `Descubrí cuál es la mejor aspiradora robot en Argentina según tu caso: presupuesto, casa y mascotas. Seis elegidas sin vueltas, con precios reales.`,
       ogTitle: `Mejor aspiradora robot: la elegimos por vos (2026)`,
       ogDescription: `Guía de decisión rápida: cuál aspiradora robot comprar según tu presupuesto, tu casa y si tenés mascotas. Seis modelos concretos de Mercado Libre Argentina.`,
@@ -17517,7 +17521,10 @@ export const guides: Guide[] = [
           calloutTitle: `El error más común`,
           content: `Comprar el más caro pensando que va a ser el mejor para tu casa. Si vivís en un monoambiente sin alfombras, gastar un millón en la S40 Pro es tirar plata: la Fika o la Xiaomi S40c te resuelven igual. Empezá por tu caso, no por el precio.`,
         },
-  
+
+        { type: `h2`, title: `¿Cuál es la mejor aspiradora robot trapeadora en Argentina?`, id: `aspiradora-trapeadora` },
+        { type: `p`, content: `De las seis de esta guía, casi todas trapean en algún nivel: la [Gadnic AC800](https://meli.la/2UjN3FV) y la [Xiaomi S40c](https://meli.la/16WtjsG) traen tanque con niveles de agua, la [Xiaomi S40 Pro](https://meli.la/117oW5y) suma doble mopa rotatoria que se eleva en alfombras, y la [Fika Nexos](https://meli.la/2P2DXaC) y la [Atma ATAR21C1DH](https://meli.la/1TWykcE) pasan el paño en plan simple y barato. Lo honesto: en esta gama el trapeado es de mantenimiento, humedece y repasa pero no saca manchas. Si el trapeado es tu prioridad porque tenés cerámica o porcelanato en toda la casa, conviene un robot pensado para eso: los comparamos modelo por modelo en la [guía de robots aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
+
         { type: `h2`, title: `Por dónde seguir`, id: `por-donde-seguir` },
         { type: `p`, content: `Esta página es el atajo para decidir rápido. Si querés el detalle largo, todo está armado en otras guías. El catálogo completo, con explicación de cada tecnología y muchos más modelos, vive en la [guía hub de robots aspiradora](/guias/robot-aspiradora): ese es el lugar para profundizar.` },
         {
@@ -17539,7 +17546,7 @@ export const guides: Guide[] = [
         { question: `¿Qué aspiradora robot comprar si es la primera?`, answer: `La [Xiaomi S40c](https://meli.la/16WtjsG). Es accesible, trae mapeo y la app Mi Home está en español y es fácil de configurar. Te deja armar mapas y zonas prohibidas sin volverte loco. Es la mejor entrada al mundo de los robots sin gastar de más ni terminar con algo que choca todo el día.` },
         { question: `¿Cuál es la mejor aspiradora robot calidad precio?`, answer: `Depende del presupuesto. Si querés gastar poco, la [Fika Nexos](https://meli.la/2P2DXaC) a unos {{precio:MLA63784269:k}} es la más vendida y rinde muy bien. Si podés estirarte, la [Gadnic AC800](https://meli.la/2UjN3FV) da LiDAR y autovaciado por bastante menos de lo que cuestan esas funciones en otras marcas. Esas dos son las que mejor relación precio-calidad tienen.` },
         { question: `¿Cuál es la mejor aspiradora robot para mascotas?`, answer: `Si el presupuesto es justo, la [Fika Nexos](https://meli.la/2P2DXaC) levanta bien el pelo y es lo más vendido. Si querés lo más potente para un perro que larga mucho o alfombras de pelo largo, la [Xiaomi S40 Pro](https://meli.la/117oW5y) con 15.000 Pa de succión y brazo extensible es la que más junta.` },
-        { question: `¿Cuál es el mejor robot aspiradora y trapeadora en Argentina?`, answer: `De las seis de esta guía, la única que además de aspirar pasa el trapo es la [Atma ATAR21C1DH](https://meli.la/1TWykcE), un 3 en 1 simple ideal si querés las dos cosas sin gastar de más. Ahora, si el trapeado es tu prioridad (cerámica o porcelanato en toda la casa), conviene un robot pensado para eso: los comparamos en la [guía de robots aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
+        { question: `¿Cuál es el mejor robot aspiradora y trapeadora en Argentina?`, answer: `Casi todas las de esta guía trapean en algún nivel: la [Gadnic AC800](https://meli.la/2UjN3FV) y la [Xiaomi S40c](https://meli.la/16WtjsG) con tanque de agua, la [Xiaomi S40 Pro](https://meli.la/117oW5y) con doble mopa rotatoria, y la [Fika Nexos](https://meli.la/2P2DXaC) y la [Atma ATAR21C1DH](https://meli.la/1TWykcE) como opciones simples y baratas con paño de mantenimiento. En todas, el trapeado es de mantenimiento: humedece y repasa, no saca manchas. Si el trapeado es tu prioridad (cerámica o porcelanato en toda la casa), conviene un robot pensado para eso: los comparamos en la [guía de robots aspiradora trapeadora](/guias/mejores-robot-aspiradora-trapeadora).` },
         { question: `¿Qué robot aspiradora conviene en Argentina con marca local?`, answer: `La [Atma ATAR21C1DH](https://meli.la/1TWykcE). Es marca nacional con service en el país, un 3 en 1 simple que aspira, barre y pasa el trapo, sin app ni mapeo. Si te importa la posventa local y no querés pelear con tecnología, es la opción más tranquila.` },
         { question: `¿Hay aspiradoras robot sin wifi ni app?`, answer: `Sí. La [Kärcher RCV 1](https://meli.la/12hGhQB) se maneja con control remoto, sin teléfono ni configuración de wifi. Es de marca alemana conocida en limpieza, simple de usar. No tiene mapas ni funciones inteligentes, pero si lo que querés es apretar un botón y que limpie, es la indicada.` },
         { question: `¿Vale la pena gastar en un Roomba o un Samsung?`, answer: `Solo si querés marca premium y tenés el presupuesto. El Samsung Jet Bot+ y los Roomba de iRobot juegan en gama alta. Para la mayoría no se justifica el salto frente a la Gadnic o la Xiaomi S40 Pro. Si igual querés ese nivel, mirá nuestra [guía de Roomba](/guias/robot-aspiradora-roomba).` },
@@ -18398,7 +18405,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `Espumador: el detalle que define tu desayuno` },
       { type: "p", content: `Si tomás café solo, cualquier lanza de vapor te sobra. Si tomás capuchino o latte todos los días, el tipo de espumador es LA decisión: una lanza simple (Ultracomb) exige práctica, una con perilla selectora (Smartlife) la simplifica, y el depósito dosificador de la [Oster BVSTEM5501B](https://meli.la/1SZrW1t) la elimina del todo. Las reseñas son claras: el espumador incómodo es la función que más se abandona.` },
       { type: "h3", title: `¿Molido, cápsulas o las dos cosas?` },
-      { type: "p", content: `El café molido es más barato por taza y más rico si es fresco; las cápsulas ganan en velocidad y constancia. Las máquinas duales como la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) y la [Liliana AC985](https://meli.la/2t3mqay) te dejan no elegir: molido el fin de semana, cápsula a las 7 de la mañana. Si sabés que nunca vas a usar molido, directamente mirá una de cápsulas, que es otra categoría y otro precio.` },
+      { type: "p", content: `El café molido es más barato por taza y más rico si es fresco; las cápsulas ganan en velocidad y constancia. Las máquinas duales como la [Smartlife SL-EC8501](https://meli.la/1QMpWAw) y la [Liliana AC985](https://meli.la/2t3mqay) te dejan no elegir: molido el fin de semana, cápsula a las 7 de la mañana. Si sabés que nunca vas a usar molido, directamente mirá una de cápsulas, que es otra categoría y otro precio. Y si el sistema que te tienta es el de Nespresso, tenemos los [modelos y precios de cafeteras Nespresso](/guias/cafetera-nespresso) comparados en su guía propia.` },
       { type: "h3", title: `Corte automático: el lujo silencioso` },
       { type: "p", content: `Casi ninguna express económica corta la extracción sola: vos frenás el agua, y los primeros días algún café sale aguado. No es grave, pero si querés apretar un botón y volver con el café listo, esa función existe desde la [Oster Perfect Brew](https://meli.la/2amGBqP) hacia arriba. En el medio no hay: es manual o es tope de gama.` },
 
@@ -18572,7 +18579,7 @@ export const guides: Guide[] = [
       { type: "h3", title: `2. Nespresso Essenza Mini — mejor espresso` },
       { type: "product-card", productMlaId: "MLA24730361", label: "Mejor espresso", labelColor: "blue", ranking: 2, description: `Sistema Nespresso Original, compacta (depósito de 600 mL) y de las más accesibles de la línea. 4.8 estrellas en 2.663 calificaciones.` },
       { type: "p", content: `Si lo tuyo es el espresso corto e intenso al estilo italiano, el sistema Nespresso es el camino, y la Essenza Mini es su puerta de entrada. Es la más compacta de la línea, ideal para cocinas chicas, y da el espresso con crema característico de Nespresso con solo apretar un botón. Tiene una enorme variedad de cápsulas, incluidas las compatibles más económicas, lo que baja el costo por taza frente a otros sistemas.` },
-      { type: "p", content: `Lo que resigna por tamaño y precio: no trae espumador de leche, así que es café negro (espresso, lungo). Si querés capuchinos, vas a necesitar un espumador aparte o mirar un modelo Nespresso con leche. Para quien toma espresso o café negro y valora el formato compacto, la Essenza Mini es la mejor relación de la línea Nespresso.` },
+      { type: "p", content: `Lo que resigna por tamaño y precio: no trae espumador de leche, así que es café negro (espresso, lungo). Si querés capuchinos, vas a necesitar un espumador aparte o mirar un modelo Nespresso con leche. Para quien toma espresso o café negro y valora el formato compacto, la Essenza Mini es la mejor relación de la línea Nespresso. Si antes de decidir querés ver toda la línea, tenemos los [modelos y precios de cafeteras Nespresso](/guias/cafetera-nespresso) comparados aparte.` },
 
       { type: "h3", title: `3. Smartlife 3 en 1 — la multisistema` },
       { type: "product-card", productMlaId: "MLA28314113", label: "Multisistema", labelColor: "purple", ranking: 3, description: `Acepta cápsulas Nespresso, cápsulas Dolce Gusto y café molido, con espumador de leche. 4.7 estrellas en 1.654 calificaciones.` },
