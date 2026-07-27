@@ -61018,8 +61018,9 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
       { label: "GPS", value: "Real e integrado (GPS, Galileo, Glonass, BeiDou, QZSS), no depende del celular" },
       { label: "Resistencia al agua", value: "50 m" },
       { label: "Sensores", value: "Frecuencia cardíaca, SpO2, acelerómetro, giroscopio" },
-      { label: "Conectividad", value: "Bluetooth 5.3. Sin NFC, sin WiFi" },
+      { label: "Conectividad", value: "Bluetooth 5.3, con altavoz integrado para llamadas. Sin NFC, sin WiFi" },
       { label: "Compatibilidad", value: "Android 8.0+ / iOS 12.0+ (app HyperOS)" },
+      { label: "Materiales y contenido de la caja", value: "Marco de plástico (recubrimiento NCVM), correa de TPU (135-205 mm). Incluye cable de carga magnética y manual — dato de la web oficial de Xiaomi" },
     ],
     relatedProducts: ["MLA26666337", "MLA51929440", "MLA24530447", "MLA38058572"],
     priceUpdated: "2026-07-22",
@@ -61047,7 +61048,7 @@ El Xiaomi Redmi Watch 5 Lite es un smartwatch con GPS real y pantalla AMOLED, el
 
 ## Cómo funciona
 
-Pantalla AMOLED de 1,96" (410x502 px, 332 PPP), caja de 48,1 mm y 29,2 g sin correa, batería de 470 mAh con hasta 18 días de autonomía declarados por el fabricante. Tiene GPS real integrado (no depende de la conexión con el celular para medir distancia recorrida) con soporte Galileo, Glonass, BeiDou y QZSS, sensor de frecuencia cardíaca y SpO2, y resistencia al agua de 50 metros. Se conecta por Bluetooth 5.3, sin NFC ni WiFi.
+Pantalla AMOLED de 1,96" (410x502 px, 332 PPP), caja de 48,1 mm y 29,2 g sin correa con marco de plástico (recubrimiento NCVM) y correa de TPU, batería de 470 mAh con hasta 18 días de autonomía declarados por el fabricante. Tiene GPS real integrado (no depende de la conexión con el celular para medir distancia recorrida) con soporte Galileo, Glonass, BeiDou y QZSS, sensor de frecuencia cardíaca con SpO2 integrado, y resistencia al agua de 50 metros. Se conecta por Bluetooth 5.3 con altavoz integrado (para llamadas), sin NFC ni WiFi. La web oficial de Xiaomi confirma que la caja incluye cable de carga magnética y manual, pero no publica el procesador que usa — un dato que tampoco aparece en la ficha de MercadoLibre.
 
 ## La contra real
 
@@ -61236,14 +61237,15 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
     specs: [
       { label: "Marca", value: "Amazfit (Zepp Health Corp)" },
       { label: "Modelo", value: "Bip 6" },
-      { label: "Pantalla", value: "AMOLED 1,97\", caja de aleación de aluminio de 46,3 mm" },
-      { label: "Batería", value: "340 mAh, 2 semanas declaradas (confirmado en uso real por reseñas)" },
-      { label: "GPS", value: "Real e integrado, no depende del celular" },
-      { label: "Resistencia al agua", value: "50 m (5 ATM)" },
-      { label: "Sensores", value: "Frecuencia cardíaca, SpO2" },
-      { label: "Conectividad", value: "Bluetooth. Sin WiFi, sin NFC" },
-      { label: "Función distintiva", value: "Asistente de voz con IA: responde WhatsApp por voz o teclado incorporado" },
-      { label: "Compatibilidad", value: "Android / iOS" },
+      { label: "Pantalla", value: "AMOLED 1,97\", 390x450 px, 302 PPI, hasta 2.000 nits — datos de la web oficial de Amazfit, más detallados que la ficha de MercadoLibre" },
+      { label: "Cuerpo", value: "46,3 x 40,2 x 10,45 mm, 27,9 g sin correa. Marco de aleación de aluminio, caja de polímero reforzado con fibra" },
+      { label: "Batería", value: "340 mAh. Amazfit declara 3 escenarios: hasta 14 días en uso típico, 6 días en uso intensivo, 26 días en modo ahorro, o 32 horas seguidas con GPS activado" },
+      { label: "GPS", value: "Real e integrado, 5 sistemas de posicionamiento satelital, no depende del celular" },
+      { label: "Resistencia al agua", value: "5 ATM (hasta 50 m), certificado ISO 22810:2010 con testeo de terceros (SGS)" },
+      { label: "Sensores", value: "BioTracker™ PPG (frecuencia cardíaca + SpO2), acelerómetro, giroscopio, luz ambiental, geomagnético — la web oficial de Amazfit confirma más sensores de movimiento que la ficha de MercadoLibre" },
+      { label: "Conectividad", value: "Bluetooth 5.2 (BLE). Sin WiFi, sin NFC. Micrófono y parlante integrados" },
+      { label: "Función distintiva", value: "Zepp Flow™: asistente de voz con IA (disponible en español) que responde WhatsApp por voz o teclado incorporado" },
+      { label: "Compatibilidad", value: "Android 7.0+ / iOS 14.0+" },
     ],
     relatedProducts: ["MLA42520227", "MLA26666337", "MLA24530447", "MLA38058572"],
     priceUpdated: "2026-07-27",
@@ -61255,15 +61257,15 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
     metaDescription: "Smartwatch Amazfit Bip 6, GPS real, AMOLED, asistente de voz con IA. 6.776 opiniones reales, precio actualizado.",
     verdict: "Sirve si buscás el smartwatch más completo de esta guía: GPS real, pantalla AMOLED grande, 2 semanas de batería confirmadas en uso real por reseñas, y un asistente de voz con IA que responde WhatsApp por voz o teclado. Es de Zepp Health (Amazfit), empresa cotizante en NYSE y ex parte del ecosistema Xiaomi, con trazabilidad real. La contra real: no tiene NFC, algo que a este precio varios compradores esperarían para pagos sin contacto. No es para vos si buscás el precio más bajo: es 2 a 5 veces más caro que las otras opciones de esta guía.",
     pros: [
-      "GPS real integrado, pantalla AMOLED de buena resolución",
-      "Batería de 2 semanas confirmada en uso real: \"hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería\", según una reseña con 228 votos útiles",
-      "Asistente de voz con IA: responde WhatsApp por voz o con teclado incorporado en el reloj",
+      "GPS real integrado con 5 sistemas satelitales, pantalla AMOLED de 2.000 nits de brillo máximo (dato de la web oficial de Amazfit)",
+      "Batería de 2 semanas confirmada en uso real: \"hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería\", según una reseña con 228 votos útiles — coincide con los 14 días de uso típico que declara el fabricante",
+      "Asistente de voz con IA (Zepp Flow™, disponible en español): responde WhatsApp por voz o con teclado incorporado en el reloj",
       "Rating más alto de esta guía (4.9), de una empresa con trazabilidad real (Zepp Health, NYSE)",
     ],
     cons: [
       "Sin NFC, pese a ser la opción más cara de esta guía",
       "El más caro de esta comparativa: 2 a 5 veces más que las otras opciones",
-      "Sin WiFi",
+      "Sin WiFi. En uso intensivo (GPS y monitoreo cada 1 minuto) la batería declarada por el fabricante baja a 6 días, lejos de las 2 semanas de uso típico",
     ],
     articleBody: `## Qué es y para quién
 
@@ -61271,11 +61273,11 @@ El Amazfit Bip 6 es un smartwatch premium con GPS real, pantalla AMOLED y un asi
 
 ## Cómo funciona
 
-Pantalla AMOLED de 1,97" en caja de aleación de aluminio de 46,3 mm, batería de 340 mAh con 2 semanas de autonomía declaradas, GPS real integrado, resistencia al agua de 50 metros (5 ATM), sensores de frecuencia cardíaca y SpO2, y Bluetooth (sin WiFi ni NFC). Su función distintiva es un asistente de voz con IA que permite responder mensajes de WhatsApp por voz o con un teclado incorporado en el propio reloj. Es de Amazfit, marca de Zepp Health Corp, una empresa que cotiza en la bolsa de Nueva York (ex parte del ecosistema Xiaomi, hoy independiente).
+Pantalla AMOLED de 1,97" (390x450 px, 302 PPI, hasta 2.000 nits de brillo), cuerpo de 46,3 x 40,2 x 10,45 mm y 27,9 g con marco de aluminio, batería de 340 mAh, GPS real integrado con 5 sistemas satelitales, resistencia al agua de 5 ATM (certificada por SGS bajo norma ISO 22810:2010), sensor BioTracker™ PPG de frecuencia cardíaca y SpO2 más acelerómetro, giroscopio, luz ambiental y sensor geomagnético, y Bluetooth 5.2 (sin WiFi ni NFC). Su función distintiva es Zepp Flow™, un asistente de voz con IA disponible en español que permite responder mensajes de WhatsApp por voz o con un teclado incorporado en el propio reloj. Es de Amazfit, marca de Zepp Health Corp, una empresa que cotiza en la bolsa de Nueva York (ex parte del ecosistema Xiaomi, hoy independiente).
 
 ## La contra real
 
-A diferencia de la batería declarada de otros smartwatches de esta guía, la del Amazfit Bip 6 está confirmada en uso real: "hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería, simplemente fantástico!", detalla una reseña con 228 votos útiles, que también destaca "la posibilidad de responder mensajes de whatsapp con teclado incorporado, o hacerlo mediante tu voz". La contra real es la ausencia de NFC: a este precio, varios compradores esperarían la opción de pagos sin contacto, que este modelo no tiene.
+A diferencia de la batería declarada de otros smartwatches de esta guía, la del Amazfit Bip 6 está confirmada en uso real: "hoy se cumplen exactamente 2 semanas desde la última vez que lo cargué, y aún me queda 21% de batería, simplemente fantástico!", detalla una reseña con 228 votos útiles, que también destaca "la posibilidad de responder mensajes de whatsapp con teclado incorporado, o hacerlo mediante tu voz". Esa cifra coincide con lo que declara el propio fabricante para uso típico (hasta 14 días), pero Amazfit también aclara que en uso intensivo (monitoreo cada 1 minuto, más notificaciones y GPS) baja a 6 días — con GPS activado de forma continua, a 32 horas. La contra real es la ausencia de NFC: a este precio, varios compradores esperarían la opción de pagos sin contacto, que este modelo no tiene.
 
 ## Cómo se compara con las otras de esta guía
 
@@ -61301,13 +61303,17 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
         question: "¿Es una marca confiable?",
         answer: "Sí. Amazfit es una marca de Zepp Health Corp, una empresa que cotiza en la bolsa de Nueva York (NYSE), con trazabilidad real y app propia (Zepp).",
       },
+      {
+        question: "¿Cambia mucho la batería según el uso?",
+        answer: "Sí. La web oficial de Amazfit declara 14 días en uso típico (coincide con lo que reportan las reseñas reales), 6 días en uso intensivo con monitoreo cada 1 minuto, hasta 26 días en modo ahorro, o solo 32 horas con el GPS activado de forma continua.",
+      },
     ],
     structuredData: {
       "@context": "https://schema.org",
       "@type": "Product",
       name: "Smartwatch Amazfit Bip 6",
       image: ["https://http2.mlstatic.com/D_NQ_NP_622879-MLA99965332573_112025-O.webp"],
-      description: "Smartwatch Amazfit Bip 6, pantalla AMOLED, GPS real, asistente de voz con IA.",
+      description: "Smartwatch Amazfit Bip 6, pantalla AMOLED 2.000 nits, GPS real con 5 sistemas satelitales, asistente de voz con IA Zepp Flow.",
       brand: { "@type": "Brand", name: "Amazfit" },
       offers: {
         "@type": "Offer",
