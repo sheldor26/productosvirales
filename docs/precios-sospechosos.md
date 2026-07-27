@@ -6,6 +6,24 @@
 > chequearlos en MercadoLibre. Si son reales, avisar para aplicarlos a mano.
 > Entradas nuevas arriba.
 
+## 2026-07-27
+
+- **MLA16269737** — Auriculares Logitech G733 Inalámbricos Color Blanco: $215.178 → $468.569 (+118%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA16269737
+  - Sitio: https://productosvirales.com.ar/producto/MLA16269737
+- **MLA26504431** — Aspiradora Robot Samsung Jetbot Lidar Mapping Dig. Inverter: $1.300.000 → $3.476.040 (+167%)
+  - ML: https://www.mercadolibre.com.ar/aspiradora-robot-samsung-jetbot-lidar-mapping-dig-inverter/p/MLA26504431
+  - Sitio: https://productosvirales.com.ar/producto/MLA26504431
+- **MLA12384031** — Joystick Inalambrico EX600001 Microsoft XBox Negro: $120.000 → $460.998 (+284%)
+  - ML: https://www.mercadolibre.com.ar/p/MLA12384031
+  - Sitio: https://productosvirales.com.ar/producto/MLA12384031
+- **MLA38252447** — Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg: $229.000 → $98.000 (-57%)
+  - ML: https://www.mercadolibre.com.ar/xiaomi-mi-body-composition-scale-s400-pantalla-led-bluetooth-50-150-kg-escala-de-composicion-corporal-inteligente-para-el-hogar-funciona-con-la-aplicacion-mi-home/p/MLA45283782
+  - Sitio: https://productosvirales.com.ar/producto/MLA38252447
+- **MLA50045029** — Termómetro Digital Infrarrojo Lepu LFR30B Frente Memoria Adultos Niños: $25.990 → $58.421 (+125%)
+  - ML: https://www.mercadolibre.com.ar/termometro-digital-infrarrojo-lepu-lfr30b-frente-memoria-adultos-ninos/p/MLA50045029
+  - Sitio: https://productosvirales.com.ar/producto/MLA50045029
+
 ## 2026-07-24
 
 - **MLA38252447** — Balanza Xiaomi Mi Body Composition Scale S400 Bluetooth Medición de doble frecuencia 25 indicadores de salud hasta 150kg: $229.000 → $98.000 (-57%)
