@@ -2,11 +2,11 @@ import type { Coupon } from "@/lib/types";
 
 export const activeCoupons: Coupon[] = [
   {
-    code: "REVENTON7",
+    code: "ESTUFA07",
     discountAmount: 20000,
     minPurchase: 250000,
-    validFrom: "2026-07-25T09:00:00-03:00",
-    validUntil: "2026-07-25T23:59:00-03:00",
+    validFrom: "2026-07-27T09:00:00-03:00",
+    validUntil: "2026-07-27T23:59:00-03:00",
     active: true,
   },
 ];
