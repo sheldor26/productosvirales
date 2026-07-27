@@ -61020,7 +61020,7 @@ Comprá el sensor solar Tuya si necesitás cubrir un punto específico de exteri
       { label: "Conectividad", value: "Bluetooth 5.3. Sin NFC, sin WiFi" },
       { label: "Compatibilidad", value: "Android 8.0+ / iOS 12.0+ (app HyperOS)" },
     ],
-    relatedProducts: ["MLA26666337", "MLA51929440", "MLA24530447"],
+    relatedProducts: ["MLA26666337", "MLA51929440", "MLA24530447", "MLA38058572"],
     priceUpdated: "2026-07-22",
     priceLastChecked: "2026-07-24",
     priceStatus: "fresh",
@@ -61131,7 +61131,7 @@ Comprá el Xiaomi Redmi Watch 5 Lite si buscás el smartwatch con más respaldo 
       { label: "Compatibilidad", value: "Android 4.4+ / iOS 8.0+" },
       { label: "Sensores declarados en la ficha oficial", value: "No incluye frecuencia cardíaca ni presión arterial en la lista de funciones y sensores" },
     ],
-    relatedProducts: ["MLA42520227", "MLA51929440", "MLA24530447"],
+    relatedProducts: ["MLA42520227", "MLA51929440", "MLA24530447", "MLA38058572"],
     priceUpdated: "2026-07-20",
     priceLastChecked: "2026-07-24",
     priceStatus: "fresh",
@@ -61244,7 +61244,7 @@ Comprá el JD Venecia Sport si buscás lo más básico y económico: notificacio
       { label: "Función distintiva", value: "Asistente de voz con IA: responde WhatsApp por voz o teclado incorporado" },
       { label: "Compatibilidad", value: "Android / iOS" },
     ],
-    relatedProducts: ["MLA42520227", "MLA26666337", "MLA24530447"],
+    relatedProducts: ["MLA42520227", "MLA26666337", "MLA24530447", "MLA38058572"],
     priceUpdated: "2026-07-22",
     priceLastChecked: "2026-07-24",
     priceStatus: "fresh",
@@ -61355,7 +61355,7 @@ Comprá el Amazfit Bip 6 si buscás el smartwatch más completo de esta guía y 
       { label: "Compatibilidad", value: "Android / iOS" },
       { label: "Vendedor", value: "Tienda oficial (ALNI SHOP), +10 mil ventas" },
     ],
-    relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440"],
+    relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440", "MLA38058572"],
     priceUpdated: "2026-07-19",
     priceLastChecked: "2026-07-24",
     priceStatus: "fresh",
@@ -61431,6 +61431,124 @@ Comprá el Haylou Solar LS05S si tu prioridad es no cargar el reloj seguido, y v
         "@type": "AggregateRating",
         ratingValue: "4.7",
         reviewCount: "75",
+      },
+    },
+  },
+  {
+    id: "MLA38058572",
+    title: "Reloj inteligente Samsung Galaxy Watch7 de 44 mm con Bluetooth, Galaxy Ai, pantalla de cristal de zafiro verde",
+    canonicalName: "Smartwatch Samsung Galaxy Watch7 44mm",
+    price: 439410,
+    originalPrice: 517000,
+    currency: "ARS",
+    image: "https://http2.mlstatic.com/D_Q_NP_840981-MLU79143997966_092024-F.webp",
+    images: [
+      "https://http2.mlstatic.com/D_Q_NP_840981-MLU79143997966_092024-F.webp",
+      "https://http2.mlstatic.com/D_Q_NP_731362-MLU79143997990_092024-F.webp",
+    ],
+    category: "Tech",
+    categorySlug: "tech",
+    permalink: "https://www.mercadolibre.com.ar/reloj-inteligente-samsung-galaxy-watch7-de-44-mm-con-bluetooth-galaxy-ai-pantalla-de-cristal-de-zafiro-verde/p/MLA38058572",
+    affiliateUrl: "https://meli.la/1tyQR16",
+    condition: "new",
+    freeShipping: true,
+    rating: 4.9,
+    reviewCount: 9204,
+    soldQuantity: 100,
+    pastelColor: "var(--pastel-verde)",
+    visibility: "normal",
+    specs: [
+      { label: "Marca", value: "Samsung" },
+      { label: "Modelo", value: "Galaxy Watch7 BT (SM-L310)" },
+      { label: "Pantalla", value: "Super AMOLED 1,47\", cristal de zafiro, 480x480 px" },
+      { label: "Batería", value: "425 mAh — el fabricante no declara días de autonomía en la ficha oficial" },
+      { label: "GPS", value: "Real, doble frecuencia (L1+L5), más preciso según el fabricante" },
+      { label: "NFC", value: "Sí — pagos sin contacto, confirmado por reseñas reales" },
+      { label: "Conectividad", value: "Bluetooth, WiFi. Versión BT, sin red móvil/LTE" },
+      { label: "Resistencia al agua", value: "IP68" },
+      { label: "Memoria", value: "32 GB internos, 2 GB de RAM" },
+      { label: "Compatibilidad", value: "Solo Android 11.0 o superior — no compatible con iPhone" },
+      { label: "Peso", value: "33,3 g" },
+    ],
+    relatedProducts: ["MLA42520227", "MLA26666337", "MLA51929440", "MLA24530447"],
+    priceUpdated: "2026-07-27",
+    priceLastChecked: "2026-07-27",
+    priceStatus: "fresh",
+    reviewsSampledAt: "2026-07-27",
+    description: "Smartwatch Samsung Galaxy Watch7 44mm: la única de esta guía con NFC real para pagos sin contacto y GPS de doble frecuencia, con la base de reseñas más grande (9.204 calificaciones), aunque solo compatible con Android.",
+    seoTitle: "Samsung Galaxy Watch7: el smartwatch con NFC de esta guía",
+    metaDescription: "Smartwatch Samsung Galaxy Watch7 44mm, NFC y GPS de doble frecuencia. 9.204 opiniones reales, precio actualizado.",
+    verdict: "Sirve si querés pagar con el reloj (NFC real, confirmado por reseñas) y GPS de doble frecuencia, con la base de reseñas más grande de esta guía por lejos (9.204 calificaciones, 4.9 estrellas). La contra real: solo funciona con Android 11 o superior, así que si tenés iPhone quedás afuera directamente. Tampoco declara una cifra de autonomía de batería como sí hacen el Xiaomi, el Amazfit o el Haylou de esta guía. No es para vos si tenés iPhone: para eso, ninguna Galaxy Watch te sirve.",
+    pros: [
+      "Único de esta guía con NFC real: pagos sin contacto confirmados por reseñas (\"puedo pagar mis cuentas con tarjeta de crédito desde el Watch7\")",
+      "GPS de doble frecuencia (L1+L5), que el fabricante declara más preciso en zonas urbanas densas",
+      "Con diferencia la base de reseñas más grande de esta guía: 9.204 calificaciones, 4.9 estrellas",
+      "Pantalla Super AMOLED con cristal de zafiro, resistente a rayones",
+    ],
+    cons: [
+      "Solo compatible con Android 11 o superior — no funciona con iPhone, a diferencia de las otras opciones de esta guía",
+      "El fabricante no declara una cifra de días de batería en la ficha oficial (425 mAh), a diferencia del Xiaomi, el Amazfit o el Haylou",
+      "La función de presión arterial que sí figura en la ficha oficial es una medición de bienestar, no un reemplazo de un tensiómetro certificado",
+      "Stock ajustado al momento de verificar (últimas unidades en la publicación), vendedor único — conviene chequear disponibilidad en vivo",
+    ],
+    articleBody: `## Qué es y para quién
+
+El Samsung Galaxy Watch7 de 44mm es un smartwatch con ecosistema Android completo, GPS de doble frecuencia y NFC real para pagos sin contacto. Es la opción de esta guía para quien ya tiene un celular Android y quiere pagar, entrenar con GPS preciso y usar un reloj con el respaldo de reseñas más grande de la comparativa.
+
+## Cómo funciona
+
+Pantalla Super AMOLED de 1,47" con cristal de zafiro (480x480 px), batería de 425 mAh sin cifra de autonomía declarada por el fabricante, GPS de doble frecuencia (L1+L5) que Samsung describe como el más preciso usado hasta ahora en un Galaxy Watch, NFC para pagos sin contacto, 32 GB de memoria interna y 2 GB de RAM, resistencia al agua IP68. Es la versión Bluetooth (sin red móvil/LTE) y requiere Android 11 o superior: no es compatible con iPhone.
+
+## La contra real
+
+El NFC funciona de verdad: "ahora, tengo información de salud muy útil y puedo pagar mis cuentas con tarjeta de crédito desde el Watch7", confirma una reseña real. Pero hay dos contras honestas: primero, el fabricante no declara ninguna cifra de días de batería en la ficha oficial (a diferencia del Xiaomi, el Amazfit y el Haylou de esta guía, que sí dan un número), así que no hay forma de comparar autonomía de forma directa. Segundo, la ficha técnica sí lista "presión arterial" entre sus funciones y sensores (algo que el JD Venecia de esta guía NO tiene confirmado), pero es una medición de bienestar orientativa, no un reemplazo de un tensiómetro certificado.
+
+## Cómo se compara con las otras de esta guía
+
+Frente al [Xiaomi Redmi Watch 5 Lite](/producto/MLA42520227) (elección general), el Samsung suma NFC real y mejor GPS, pero cuesta bastante más y no declara autonomía en días. Frente al [Amazfit Bip 6](/producto/MLA51929440) (premium sin NFC), el Samsung resuelve justo lo que al Amazfit le falta: pagos sin contacto. Frente al [JD Venecia](/producto/MLA26666337) y al [Haylou](/producto/MLA24530447), el Samsung es varias veces más caro pero con un ecosistema y una base de reseñas incomparablemente más grande.
+
+## Para quién sí y para quién no
+
+Comprá el Samsung Galaxy Watch7 si tenés un celular Android y querés pagar sin contacto desde la muñeca, con el GPS más preciso de esta guía. No es para vos si tenés iPhone (no es compatible) o si priorizás una cifra concreta de días de batería: para eso, el [Amazfit Bip 6](/producto/MLA51929440) de esta guía la confirma en uso real.`,
+    faq: [
+      {
+        question: "¿Funciona con iPhone?",
+        answer: "No. Requiere Android 11 o superior; no es compatible con iPhone, a diferencia de las otras opciones de esta guía.",
+      },
+      {
+        question: "¿El NFC para pagos funciona de verdad?",
+        answer: "Sí, confirmado por una reseña real que reporta pagar con tarjeta de crédito directamente desde el reloj.",
+      },
+      {
+        question: "¿Cuántos días dura la batería?",
+        answer: "El fabricante no declara una cifra de días en la ficha oficial (batería de 425 mAh). A diferencia del Xiaomi, el Amazfit o el Haylou de esta guía, no hay un número concreto para comparar.",
+      },
+      {
+        question: "¿Mide la presión arterial de forma confiable?",
+        answer: "La ficha técnica oficial sí lista esa función, a diferencia de otros modelos de esta guía. Aun así, es una medición de bienestar orientativa, no un reemplazo de un tensiómetro certificado.",
+      },
+    ],
+    structuredData: {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      name: "Smartwatch Samsung Galaxy Watch7 44mm",
+      image: [
+        "https://http2.mlstatic.com/D_Q_NP_840981-MLU79143997966_092024-F.webp",
+        "https://http2.mlstatic.com/D_Q_NP_731362-MLU79143997990_092024-F.webp",
+      ],
+      description: "Smartwatch Samsung Galaxy Watch7 44mm, NFC real, GPS de doble frecuencia, pantalla Super AMOLED con cristal de zafiro.",
+      brand: { "@type": "Brand", name: "Samsung" },
+      offers: {
+        "@type": "Offer",
+        url: "https://www.mercadolibre.com.ar/reloj-inteligente-samsung-galaxy-watch7-de-44-mm-con-bluetooth-galaxy-ai-pantalla-de-cristal-de-zafiro-verde/p/MLA38058572",
+        priceCurrency: "ARS",
+        price: "439410",
+        availability: "https://schema.org/InStock",
+      },
+      aggregateRating: {
+        "@type": "AggregateRating",
+        ratingValue: "4.9",
+        reviewCount: "9204",
       },
     },
   },
